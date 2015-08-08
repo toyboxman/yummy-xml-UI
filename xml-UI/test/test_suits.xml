@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testsuits xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+           xsi:noNamespaceSchemaLocation='TestDefine.xsd' loop='2'> 
+    <testcase-path>./test/testcase_查询/test_case.xml</testcase-path>
+</testsuits>

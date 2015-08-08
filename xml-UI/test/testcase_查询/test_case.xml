@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testcase xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+              xsi:noNamespaceSchemaLocation='../TestDefine.xsd'>
+    <name>账户查询测试</name> <!--测试用例名称-->
+    <description>测试描述：通过某个账户的查询来获取余额信息</description> <!--测试用例功能描述-->
+    <steps> <!--测试用例执行全部步骤-->
+        <step> <!--测试用例某一步骤-->
+            <component>102</component> <!--测试用例对应的控件ID-->
+            <pre-wait>3</pre-wait> <!--命令执行前设定等待时间，单位为秒. 0表示不需要等待-->
+            <action> <!--控件执行动作-->
+                <name>Click</name> <!--执行动作名称, Click表示点击按钮-->
+                <parameter></parameter> <!--执行动作参数，不填表示不需要参数-->
+            </action>
+            <post-wait>3</post-wait> <!--命令执行后设定等待时间，单位为秒-->
+        </step>
+            
+        <step>
+            <component>202</component>
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>Click</name>
+                <parameter></parameter>
+            </action>
+            <post-wait>3</post-wait>
+        </step>
+            
+        <step>
+            <component>333</component> <!--密码输入控件-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>FillValue</name> <!--执行动作名称, FillValue表示在文本输入框或者可编辑下拉框填入数据-->
+                <parameter>123456</parameter> <!--密码限制输入6位 多写会造成输入失败-->
+            </action>
+            <post-wait>2</post-wait>
+        </step>
+        
+        <step>
+            <component>334</component> <!--密码二次确认  密码输入控件-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>FillValue</name>
+                <parameter>123456</parameter>
+            </action>
+            <post-wait>2</post-wait>
+        </step>
+        
+        <step>
+            <component>335</component> <!--账户名输入控件-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>FillValue</name>
+                <parameter>张勇波</parameter>
+            </action>
+            <post-wait>2</post-wait>
+        </step>
+        
+        <step>
+            <component>336</component> <!--转账用途输入-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>FillValue</name>
+                <parameter>个人汇款</parameter>
+            </action>
+            <post-wait>2</post-wait>
+        </step>
+        
+        <step>
+            <component>337</component> <!--转账数目输入-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>FillValue</name>
+                <parameter>9999</parameter> <!--钱数输入只能用整形，不能够带小数位-->
+            </action>
+            <post-wait>2</post-wait>
+        </step>
+        
+        <step>
+            <component>307</component> <!--转账账号输入-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>FillValue</name>
+                <parameter>6222000200021265233696</parameter>
+            </action>
+            <post-wait>2</post-wait>
+        </step>
+        
+        <step>
+            <component>302</component> <!--查询开始时间-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>PickDate</name> <!--选择时间动作-->
+                <parameter>2015-03-07</parameter> <!--时间只能使用 yyyy-MM-dd格式-->
+            </action>
+            <post-wait>2</post-wait>
+        </step>
+        
+        <step>
+            <component>304</component> <!--查询截止时间-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>PickDate</name>
+                <parameter>2015-03-09</parameter>
+            </action>
+            <post-wait>2</post-wait>
+        </step>
+            
+        <step>
+            <component>308</component>  <!--查询按钮-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>Click</name>
+                <parameter></parameter>
+            </action>
+            <post-wait>5</post-wait>  <!--等待前置返回查询结果-->
+        </step>
+        
+        <step>
+            <component>305</component>  <!--返回上一页按钮-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>Click</name>
+                <parameter></parameter>
+            </action>
+            <post-wait>3</post-wait>
+        </step>
+        
+        <step>
+            <component>203</component>  <!--返回上一页按钮-->
+            <pre-wait>0</pre-wait>
+            <action>
+                <name>Click</name>    <!--返回到首页-->
+                <parameter></parameter>
+            </action>
+            <post-wait>3</post-wait>
+        </step>
+    </steps>
+</testcase>
+

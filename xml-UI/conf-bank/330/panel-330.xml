@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>3301</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>3302</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>企业账户明细查询</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>45</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>3303</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>250</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>卡号:</text>
+        </attribute>
+		
+		<action>
+            <fontSetAction>
+                <fontSize>35</fontSize>
+            </fontSetAction>
+        </action>
+		
+    </component>
+
+	<component>
+        <id>3304</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>250</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <fontSetAction>
+                <fontSize>30</fontSize>
+            </fontSetAction>
+        </action>
+		
+		<action>
+            <customizedAction>
+                <className>king.flow.action.customization.DriverActiveAction</className>
+				 <constructorParameters>
+                    <parameter>
+                        <type>int</type>
+                        <value>3306</value>
+                    </parameter>
+                </constructorParameters>
+
+            </customizedAction>
+            <comboShowAction>
+                <items>/, ACTION2/刷磁条卡, ACTION3/插接触式IC卡</items>
+            </comboShowAction>
+        </action>
+		
+		<action>
+			<mediaPlayAction>
+                <media>./media/accout.wav</media>
+            </mediaPlayAction>
+
+        </action>
+		
+		
+		
+			
+    </component>
+	
+	<component>
+        <id>3305</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>380</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>35</fontSize>
+            </fontSetAction>
+        </action>
+		
+    </component>
+	<component>
+        <id>3306</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>380</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			<mediaPlayAction>
+                <media>./media/passwd.wav</media>
+            </mediaPlayAction>
+			
+			
+			<customizedAction>
+                <className>king.flow.action.customization.CusorMoveAction</className>
+                <constructorParameters>
+                    <parameter>
+                        <type>int</type>
+                        <value>3304</value>
+                    </parameter>
+                    <parameter>
+                        <type>int</type>
+                        <value>3307</value>
+                    </parameter>
+                </constructorParameters>
+			</customizedAction>
+        </action>
+		
+    </component>
+	
+	
+    <component>
+        <id>3307</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>650</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>30</fontSize>
+            </fontSetAction>
+        </action>
+        <action>
+            <msgSendAction>
+                <prsCode>queryqydetail</prsCode>
+                <conditions>3306,3304</conditions>
+                <nextStep>  
+                    <nextPanel>288810</nextPanel> 
+                    <display>288812</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>999</nextPanel>  
+                    <display>9993</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>3304</content>
+                        <errMsg>卡号不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>3306</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull> 
+                </checkRules>
+            </msgSendAction>
+			
+			<customizedAction>
+                <className>king.flow.action.customization.CusorMoveAction</className>
+                <constructorParameters>
+                    <parameter>
+                        <type>int</type>
+                        <value>3307</value>
+                    </parameter>
+                    <parameter>
+                        <type>int</type>
+                        <value>3308</value>
+                    </parameter>
+                </constructorParameters>
+			</customizedAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>3308</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>750</x>
+                <y>650</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>30</nextPanel>
+            </buttonJumpPanelAction>
+			
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>3304,3306</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+	
+	
+	
+	<component>
+        <id>3309</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   企业账户明细查询</text>
+			<debug>false</debug>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>25</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+	
+</panel>

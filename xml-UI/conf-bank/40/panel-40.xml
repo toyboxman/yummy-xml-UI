@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>40</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+    <component>
+        <id>41</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>80</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>资金划转</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>45</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>42</id>
+        <type>Button</type>
+        <attribute>
+            <text>主动付款</text>
+            <rect>
+                <x>200</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>4201</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>43</id>
+        <type>Button</type>
+        <attribute>
+            <text>主动收款</text>
+            <rect>
+                <x>800</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>4301</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>44</id>
+        <type>Button</type>
+        <attribute>
+            <text>代发工资</text>
+            <rect>
+                <x>200</x>
+                <y>390</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>4401</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>45</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>800</x>
+                <y>800</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>20</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>46</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   请选择账户管理交易</text>
+			<debug>false</debug>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>25</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+</panel>

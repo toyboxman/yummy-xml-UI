@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<Transportation
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='TransportationSchema.xsd'>
+    <server>
+        <host>127.0.0.1</host>
+        <port>8080</port> 
+        <!--<host>192.168.1.130</host>
+        <port>8906</port>-->
+    </server>
+    <registration>
+        <prsCode>login</prsCode>
+        <terminalID>1234567</terminalID>
+        <token>usjdfjksa75ks832okudsjd94877akjdua</token>
+        <heartbeat>10000</heartbeat>
+    </registration>
+</Transportation>

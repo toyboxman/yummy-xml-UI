@@ -1,0 +1,25 @@
+验证json格式有效性网站 http://jsonformatter.curiousconcept.com/
+
+json一般性错误介绍 
+The default validation occurs against the strict RFC 4627 specification which requires for names / keys to be in double quotes. E.g.: {example:"value"} is invalid but {"example":"value"} is valid. 
+
+http://www.freeformatter.com/json-validator.html
+The JSON format
+There are just a few rules that you need to remember:
+Objects are encapsulated within opening and closing brackets { }
+An empty object can be represented by { }
+Arrays are encapsulated within opening and closing square brackets [ ]
+An empty array can be represented by [ ]
+A member is represented by a key-value pair
+The key of a member should be contained in double quotes. (JavaScript does not require this. JavaScript and some parsers will tolerate single-quotes)
+Each member should have a unique key within an object structure
+The value of a member must be contained in double quotes if it's a string (JavaScript and some parsers will tolerates single-quotes)
+Boolean values are represented using the true or false literals in lower case
+Number values are represented using double-precision floating-point format. Scientific notation is supported
+Numbers should not have leading zeroes
+"Offensive"" characters in a string need to be escaped using the backslash character
+Null values are represented by the null literal in lower case
+Other object types, such as dates, are not properly supported and should be converted to strings. It becomes the responsability of the parser/client to manage this.
+Each member of an object or each array value must be followed by a comma if it's not the last one
+The common extension for json files is '.json'
+The mime type for json files is 'application/json'

@@ -1,0 +1,419 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:complexType name="bound">
+        <xs:all>
+            <xs:element type="xs:integer" name="x"/>
+            <xs:element type="xs:integer" name="y"/>
+            <xs:element type="xs:integer" name="width"/>
+            <xs:element type="xs:integer" name="heigh"/>
+        </xs:all>
+    </xs:complexType>
+    
+    <xs:complexType name="basic_attribute">
+        <xs:all>
+            <xs:element type="xs:string" name="text" minOccurs="0"/>
+            <xs:element type="bound" name="rect" minOccurs="0"/>
+            <xs:element type="xs:string" name="icon" minOccurs="0"/>
+            <xs:element type="xs:boolean" name="debug" default="false" minOccurs="0" />
+        </xs:all>
+    </xs:complexType>
+    
+    <xs:simpleType name="window_enum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration  value="Frame"/>
+            <xs:enumeration  value="Dialog"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="panel_enum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration  value="Panel"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="decorator_enum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration  value="ScrollPanel"/>
+            <xs:enumeration  value="TabPanel"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="component_enum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration  value="Button"/>
+            <xs:enumeration  value="Table"/>
+            <xs:enumeration  value="AdvancedTable"/>
+            <xs:enumeration  value="ComboBox"/>
+            <xs:enumeration  value="Label"/>
+            <xs:enumeration  value="TextField"/>
+            <xs:enumeration  value="PasswordField"/>
+            <xs:enumeration  value="TextArea"/>
+            <xs:enumeration  value="EditorPane"/>
+            <xs:enumeration  value="Date"/>
+            <xs:enumeration  value="WebBroswer"/>
+            <xs:enumeration  value="NativeBroswer"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="defined_action">
+        <xs:sequence>
+            <xs:element name="className" type="xs:string" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="constructorParameters" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="parameter" maxOccurs="unbounded" minOccurs="1">
+                            <xs:complexType>
+                                <xs:all>
+                                    <xs:element name="type" type="xs:string"/>
+                                    <xs:element name="value" type="xs:string"/>
+                                </xs:all>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="jump_action">
+        <xs:all>
+            <xs:element name="nextPanel" type="xs:unsignedShort"/>
+        </xs:all>
+    </xs:complexType>
+    
+    <xs:complexType name="action">
+        <xs:sequence>
+            <xs:element name="customizedAction" type="defined_action" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element name="buttonJumpPanelAction" type="jump_action" maxOccurs="1" minOccurs="0"/>
+            
+            <xs:element name="fontSetAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="fontName" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="fontSize" type="xs:unsignedShort" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="fontStyle" type="fontstyle_enum" maxOccurs="1" minOccurs="0"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="cleanAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="conditions" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+			
+			<xs:element name="fileUploadAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="filter" type="xs:string"/>
+						<xs:element name="uploadPath" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="limitInputAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="length" type="xs:byte"/>
+                        <xs:element name="enableCashLimit" type="xs:boolean"  default="false" maxOccurs="1" minOccurs="0"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="useTipAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="tip" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="tableShowAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="columnNames" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="comboShowAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="items" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="mediaPlayAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="media" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="runCommandAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="command" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="virtualKeyboardAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="start" type="xs:string"/>
+                        <xs:element name="stop" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="printerAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="header" type="xs:string"/>
+                        <xs:element name="tail" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="webLoadAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="url" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="msgSendAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="prsCode" type="xs:string"/>
+                        <xs:element name="cmdCode" type="xs:int" default="-1" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="conditions" type="xs:string"/>
+                        <xs:element name="nextStep">
+                            <xs:complexType>
+                                <xs:all>
+                                    <xs:element name="nextPanel" type="xs:int"/>
+                                    <xs:element name="display" type="xs:int" default="-1"/>
+                                </xs:all>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="exception">
+                            <xs:complexType>
+                                <xs:all>
+                                    <xs:element name="nextPanel" type="xs:int"/>
+                                    <xs:element name="display" type="xs:int" default="-1"/>
+                                </xs:all>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="checkRules" type="rules" maxOccurs="1" minOccurs="0"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    
+    
+    <xs:complexType name="rules">
+        <xs:sequence>
+            <xs:element name="notNull" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="content" type="xs:int"/>
+                        <xs:element name="errMsg" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="validateCJK" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="content" type="xs:int"/>
+                        <xs:element name="errMsg" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="template" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="content" type="xs:int"/>
+                        <xs:element name="pattern" type="xs:string"/>
+                        <xs:element name="errMsg" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="equal" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="conditions" type="xs:string"/>
+                        <xs:element name="errMsg" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="notEqual" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="more" type="xs:int"/>
+                        <xs:element name="less" type="xs:int"/>
+                        <xs:element name="errMsg" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+        
+    <xs:complexType name="component">
+        <xs:sequence>
+            <xs:element name="id" type="xs:int" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="type" type="component_enum" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="attribute" type="basic_attribute" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="action" type="action" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="decorator">
+        <xs:all>
+            <xs:element name="id" type="xs:int"/>
+            <xs:element name="type" type="decorator_enum"/>
+            <xs:element name="attribute" type="basic_attribute"/>
+            <xs:element name="component" type="component"/>
+            <xs:element name="action" type="action" minOccurs="0"/>
+        </xs:all>
+    </xs:complexType>
+    
+    <xs:complexType name="panel">
+        <xs:sequence>
+            <xs:element name="id" type="xs:int" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="type" type="panel_enum" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="active" type="xs:boolean" default="false" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="background" type="xs:string" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="attribute" type="basic_attribute" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="component" type="component" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element name="decorator" type="decorator" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:simpleType name="fontstyle_enum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration  value="PLAIN"/>
+            <xs:enumeration  value="BOLD"/>
+            <xs:enumeration  value="ITALIC"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="font">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="size" type="xs:unsignedShort" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="style" type="fontstyle_enum" maxOccurs="1" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="ui_style">
+        <xs:sequence>
+            <xs:element name="lookandfeel" type="xs:string" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="fullscreen" type="xs:boolean" default="true" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="font" type="font" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="background" type="xs:string" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="progress" type="xs:string" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="color" type="xs:string" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="textcolor" type="xs:string" maxOccurs="1" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:simpleType name="devicetype_enum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration  value="magnetCard"/>
+            <xs:enumeration  value="ICCard"/>
+            <xs:enumeration  value="sensorCard"/>
+            <xs:enumeration  value="printer"/>
+            <xs:enumeration  value="keyboard"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="driver">
+        <xs:sequence>
+            <xs:element name="device" maxOccurs="5" minOccurs="5">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="type" type="devicetype_enum"/>
+                        <xs:element name="port" type="xs:string"/>
+                        <xs:element name="dll" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="menuaction">
+        <xs:sequence>
+            <xs:element name="customizedAction" type="defined_action" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element name="jumpAction" type="jump_action" maxOccurs="1" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="menuitem">
+        <xs:sequence>
+            <xs:element name="id" type="xs:int" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="name" type="xs:string" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="enable" type="xs:boolean" default="true" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="action" type="menuaction" maxOccurs="1" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="menuoption">
+        <xs:sequence>
+            <xs:element name="id" type="xs:int" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="name" type="xs:string" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="enable" type="xs:boolean" default="false" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="item" type="menuitem" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="menubar">
+        <xs:sequence>
+            <xs:element name="menu" type="menuoption" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="window">
+        <xs:sequence>
+            <xs:element name="id" type="xs:int" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="type" type="window_enum" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="ui-style" type="ui_style" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="driver" type="driver" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="attribute" type="basic_attribute" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="heartbeat" type="xs:boolean" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="menubar" type="menubar" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="contents">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="page" type="xs:anyURI" maxOccurs="unbounded" minOccurs="1"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:element name="window" type="window">
+        <xs:annotation>
+            <xs:documentation>
+                xml配置文件是用来描述界面组件的关系,对应节点的定义请参照xsd文件
+                引用 http://www.freeformatter.com/xsd-generator.html
+                http://www.w3schools.com/schema/schema_elements_ref.asp
+            </xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="panel" type="panel">
+        <xs:annotation>
+            <xs:documentation>
+                xml配置文件是用来描述界面组件的关系,对应节点的定义请参照xsd文件
+                引用 http://www.freeformatter.com/xsd-generator.html
+                http://www.w3schools.com/schema/schema_elements_ref.asp
+            </xs:documentation>
+        </xs:annotation>
+    </xs:element>
+</xs:schema>

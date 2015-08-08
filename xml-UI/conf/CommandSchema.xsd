@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<!-- was: no XML declaration present -->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="TLS">
+        <xs:annotation>
+            <xs:documentation>basic message courier</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:any maxOccurs="unbounded" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="prscode" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>transaction code</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="terminalid" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>terminal identity</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="token" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>terminal token key</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+	
+    <xs:element name="branchno" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>bank division identity</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+	
+    <xs:element name="terminalstate" type="xs:int">
+        <xs:annotation>
+            <xs:documentation>terminal state 0:normal 1:abnormal</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+	
+    <xs:element name="prtstate" type="xs:int">
+        <xs:annotation>
+            <xs:documentation>printer state 0:normal</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+	
+    <xs:element name="keyboardstate" type="xs:int">
+        <xs:annotation>
+            <xs:documentation>keyboard state 0:normal 1:abnormal,using software crypto</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+	
+    <xs:element name="startid" type="xs:long">
+        <xs:annotation>
+            <xs:documentation>terminal starting time point, app restart will reset</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+	
+    <xs:element name="changekey" type="xs:int">
+        <xs:annotation>
+            <xs:documentation>1:need to download new crypto key</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+	
+    <xs:element name="restart" type="xs:int">
+        <xs:annotation>
+            <xs:documentation>1:restart app</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+	
+    <xs:element name="systemrestart" type="xs:int">
+        <xs:annotation>
+            <xs:documentation>1:restart OS</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="update" type="xs:int">
+        <xs:annotation>
+            <xs:documentation>1:upgrade/update app</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="updatefile" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>1:upgrade/update app</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="version" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>app version</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="retcode" type="xs:int">
+        <xs:annotation>
+            <xs:documentation>operation result code</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="okmsg" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>successful message</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="errmsg" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>error message</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="cargo" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>extra print msg to be resent to front-end</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="counter" type="xs:long">
+        <xs:annotation>
+            <xs:documentation>Message serial counter, from 1 to actual number</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="uid" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>Message unique series, 20 length. including 14 length date(YYYYMMDDHHMMSS) and 6 length others</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+</xs:schema>

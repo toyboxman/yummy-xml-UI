@@ -1,0 +1,50 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="TestActionEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration  value="Click"/>
+            <xs:enumeration  value="FillValue"/>
+            <xs:enumeration  value="SelectValue"/>
+            <xs:enumeration  value="PickDate"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="TestStep">
+        <xs:sequence>
+            <xs:element type="xs:int" name="component"/>
+            <xs:element type="xs:int" name="pre-wait"/>
+            <xs:element name="action">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element type="TestActionEnum" name="name"/>
+                        <xs:element type="xs:string" name="parameter"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element type="xs:int" name="post-wait"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="TestCase">
+        <xs:sequence>
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="xs:string" name="description"/>
+            <xs:element name="steps">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element type="TestStep" name="step" maxOccurs="unbounded" minOccurs="1"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="TestSuits">
+        <xs:sequence>
+            <xs:element type="xs:string" name="testcase-path" maxOccurs="unbounded" minOccurs="1"/>
+        </xs:sequence>
+        <xs:attribute name="loop" type="xs:int" use="optional"/> 
+    </xs:complexType>
+    
+    <xs:element type="TestSuits" name="testsuits"/>
+    <xs:element type="TestCase" name="testcase"/>
+</xs:schema>
