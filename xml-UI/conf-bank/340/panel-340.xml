@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>3401</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/2.jpg</background>
+	<component>
+        <id>3402</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>企业账户历史交易查询</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>45</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>3403</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>250</x>
+                <y>230</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>卡号:</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>35</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>3404</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <customizedAction>
+                <className>king.flow.action.customization.DriverActiveAction</className>
+				 <constructorParameters>
+                    <parameter>
+                        <type>int</type>
+                        <value>3406</value>
+                    </parameter>
+                </constructorParameters>
+
+            </customizedAction>
+            <comboShowAction>
+                <items>/, ACTION2/刷磁条卡,  ACTION3/插接触式IC卡</items>
+            </comboShowAction>
+        </action>
+		
+		
+		<action>
+			<mediaPlayAction>
+                <media>./media/accout.wav</media>
+            </mediaPlayAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>3405</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>250</x>
+                <y>330</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>35</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>3406</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>330</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			
+			<mediaPlayAction>
+                <media>./media/passwd.wav</media>
+            </mediaPlayAction>
+			
+			<customizedAction>
+                <className>king.flow.action.customization.CusorMoveAction</className>
+                <constructorParameters>
+                    <parameter>
+                        <type>int</type>
+                        <value>3404</value>
+                    </parameter>
+                    <parameter>
+                        <type>int</type>
+                        <value>3407</value>
+                    </parameter>
+                </constructorParameters>
+			</customizedAction>	
+        </action>
+    </component>
+	
+    <component>
+        <id>3407</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>430</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <msgSendAction>
+                <prsCode>qyTranDetail</prsCode>
+                <conditions>3404,3406,3409</conditions>
+                <nextStep>  
+                    <nextPanel>3401</nextPanel> 
+                    <display>3409</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>999</nextPanel>  
+                    <display>9993</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>3404</content>
+                        <errMsg>卡号不能为空</errMsg>
+                    </notNull>
+                    <notNull>
+                        <content>3406</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull>
+                </checkRules>
+            </msgSendAction>
+			
+			<customizedAction>
+                <className>king.flow.action.customization.CusorMoveAction</className>
+                <constructorParameters>
+                    <parameter>
+                        <type>int</type>
+                        <value>3406</value>
+                    </parameter>
+                    <parameter>
+                        <type>int</type>
+                        <value>3408</value>
+                    </parameter>
+                </constructorParameters>
+			</customizedAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>3408</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>700</x>
+                <y>430</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>30</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>3404,3406,3409</conditions>
+            </cleanAction>
+        </action> 
+    </component>
+	
+	<component>
+        <id>3409</id>
+        <type>AdvancedTable</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>520</y>
+                <width>1280</width>
+                <heigh>490</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <tableShowAction>
+                <columnNames>交易时间, 金额, 支付方式, 转入账户, 转入户名</columnNames>
+            </tableShowAction>
+        </action>
+        <action>
+            <msgSendAction>
+                <prsCode>qyTranDetail</prsCode>
+                <conditions>3404,3406,3409</conditions>
+                <nextStep>  
+                    <nextPanel>3401</nextPanel> 
+                    <display>3409</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>999</nextPanel>  
+                    <display>9993</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>3404</content>
+                        <errMsg>卡号不能为空</errMsg>
+                    </notNull>
+                    <notNull>
+                        <content>3406</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull>
+                </checkRules>
+            </msgSendAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>34010</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>970</y>
+                <width>1024</width>
+                <heigh>70</heigh>
+            </rect>
+            <text>   查询企业账户历史交易记录</text>
+			<debug>false</debug>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>25</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+</panel>

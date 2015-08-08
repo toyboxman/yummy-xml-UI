@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testsuits xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+           xsi:noNamespaceSchemaLocation='TestDefine.xsd'>
+    <testcase>
+        <name>账户查询测试</name> <!--测试用例名称-->
+        <description>测试描述：通过某个账户的查询来获取余额信息</description> <!--测试用例功能描述-->
+        <steps> <!--测试用例执行全部步骤-->
+            <step> <!--测试用例某一步骤-->
+                <component>102</component> <!--测试用例对应的控件ID-->
+                <pre-wait>3</pre-wait> <!--命令执行前设定等待时间，单位为秒. 0表示不需要等待-->
+                <action> <!--控件执行动作-->
+                    <name>Click</name> <!--执行动作名称, Click表示点击按钮-->
+                    <parameter></parameter> <!--执行动作参数，不填表示不需要参数-->
+                </action>
+                <post-wait>3</post-wait> <!--命令执行后设定等待时间，单位为秒-->
+            </step>
+            
+            <step>
+                <component>207</component>
+                <pre-wait>0</pre-wait>
+                <action>
+                    <name>Click</name>
+                    <parameter></parameter>
+                </action>
+                <post-wait>3</post-wait>
+            </step>
+            
+            <step>
+                <component>330336</component>
+                <pre-wait>0</pre-wait>
+                <action>
+                    <name>Click</name>
+                    <parameter></parameter>
+                </action>
+                <post-wait>3</post-wait>
+            </step>
+            
+            <step>
+                <component>203</component>
+                <pre-wait>0</pre-wait>
+                <action>
+                    <name>Click</name>
+                    <parameter></parameter>
+                </action>
+                <post-wait>3</post-wait>
+            </step>
+        </steps>
+    </testcase>
+</testsuits>

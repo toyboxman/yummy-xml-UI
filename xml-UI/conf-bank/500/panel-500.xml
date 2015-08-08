@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>500</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/4.jpg</background>
+    <component>
+        <id>50001</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>指纹银行</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>45</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>50002</id>
+        <type>Button</type>
+        <attribute>
+            <text>指纹绑定</text>
+            <rect>
+                <x>200</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>5000201</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>50003</id>
+        <type>Button</type>
+        <attribute>
+            <text>指纹查询</text>
+            <rect>
+                <x>800</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>5000301</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>50004</id>
+        <type>Button</type>
+        <attribute>
+            <text>指纹本行转账</text>
+            <rect>
+                <x>200</x>
+                <y>390</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>5000401</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	
+	
+    <component>
+        <id>50008</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>800</x>
+                <y>800</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>10</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>50009</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   请选择指纹银行交易类型</text>
+			<debug>false</debug>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>25</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+</panel>

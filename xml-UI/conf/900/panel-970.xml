@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>970</id>
+    <type>Panel</type>
+    <active>false</active>
+    <component>
+        <id>971</id>
+        <type>Label</type>
+        <attribute>
+            <rect> 
+                <x>600</x>
+                <y>0</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>欢迎使用自助银行查询业务</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>45</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+    <component>
+        <id>972</id>
+        <type>Button</type>
+        <attribute>
+            <text>确认</text>
+            <rect>
+                <x>200</x>
+                <y>300</y>
+                <width>300</width>
+                <heigh>50</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>100</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+    <component>
+        <id>973</id>
+        <type>Button</type>
+        <attribute>
+            <text>打印收据</text>
+            <rect>
+                <x>500</x>
+                <y>300</y>
+                <width>300</width>
+                <heigh>50</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <printerAction>
+                <header>北京商业银行自助交易</header>
+                <tail>此凭条仅供参照请查询帐户明细核实,如有异议请联系客服中心:96588</tail>
+            </printerAction>
+        </action>
+    </component>
+</panel>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>400</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/4.jpg</background>
+    <component>
+        <id>40001</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>80</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>生活缴费</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>45</fontSize>
+            </fontSetAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>40002</id>
+        <type>Button</type>
+        <attribute>
+            <text>代收手机费</text>
+            <rect>
+                <x>200</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>4000201</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>40003</id>
+        <type>Button</type>
+        <attribute>
+            <text>代收水费</text>
+            <rect>
+                <x>800</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>4000301</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>40004</id>
+        <type>Button</type>
+        <attribute>
+            <text>代收电费</text>
+            <rect>
+                <x>200</x>
+                <y>390</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>4000401</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>40005</id>
+        <type>Button</type>
+        <attribute>
+            <text>代收煤气费</text>
+            <rect>
+                <x>800</x>
+                <y>390</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>4000501</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>40006</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>800</x>
+                <y>800</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <buttonJumpPanelAction>
+                <nextPanel>10</nextPanel>
+            </buttonJumpPanelAction>
+        </action>
+    </component>
+</panel>
