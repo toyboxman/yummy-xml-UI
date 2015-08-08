@@ -435,7 +435,8 @@ public class CommonUtil {
             String errMsg = "";
             status = printerConductor.printState(getDriverPort(PRINTER), errMsg);
         } catch (Throwable t) {
-            getLogger(CommonUtil.class.getName()).log(Level.WARNING, null, t);
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING, "Fail to load DLL {0} due to {1}",
+                    new String[]{getDriverDll(PRINTER), t.getMessage()});
         }
         return status;
     }
@@ -524,7 +525,7 @@ public class CommonUtil {
         String errMsg = "";
         printerConductor.print(getDriverPort(PRINTER), header, content, tail, errMsg);
     }
-    
+
     public static int printPassbook(String depositRecords) {
         System.loadLibrary(getDriverDll(PRINTER));
         PrinterConductor printerConductor = new PrinterConductor();

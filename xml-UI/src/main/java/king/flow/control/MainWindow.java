@@ -133,9 +133,13 @@ public class MainWindow {
                 initDecorators(pNode, panel);
 
                 if (background != null && background.length() > 0) {
-                    JLabel jLabel = new JLabel(getImageIcon(background), JLabel.LEADING);
-                    jLabel.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
-                    panel.add(jLabel, -1);
+                    try {
+                        JLabel jLabel = new JLabel(getImageIcon(background), JLabel.LEADING);
+                        jLabel.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
+                        panel.add(jLabel, -1);
+                    } catch (Exception e) {
+                        getLogger(MainWindow.class.getName()).log(Level.WARNING, "Designated background {0} is not existed, use empty background", background);
+                    }
                 } else {
                     int index = 0;
                     while (index == 0) {
@@ -144,16 +148,24 @@ public class MainWindow {
                     background = new StringBuilder("/image/").append(index).append(".jpg").toString();
                     URL resource = MainWindow.class.getResource(background);
                     if (resource != null) {
-                        JLabel jLabel = new JLabel(getImageIcon(background), JLabel.LEADING);
-                        jLabel.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
-                        panel.add(jLabel, -1);
+                        try {
+                            JLabel jLabel = new JLabel(getImageIcon(background), JLabel.LEADING);
+                            jLabel.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
+                            panel.add(jLabel, -1);
+                        } catch (Exception e1) {
+                            getLogger(MainWindow.class.getName()).log(Level.WARNING, "Designated background {0} is not existed, use empty background", background);
+                        }
                     } else if (defaultBackground != null && defaultBackground.length() > 0) {
-                        JLabel jLabel = new JLabel(getImageIcon(defaultBackground), JLabel.LEADING);
-                        UIManager.put(CommonConstants.KING_FLOW_BACKGROUND, getImageIcon(defaultBackground));
-                        jLabel.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
-                        panel.add(jLabel, -1);
+                        try {
+                            JLabel jLabel = new JLabel(getImageIcon(defaultBackground), JLabel.LEADING);
+                            UIManager.put(CommonConstants.KING_FLOW_BACKGROUND, getImageIcon(defaultBackground));
+                            jLabel.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
+                            panel.add(jLabel, -1);
+                        } catch (Exception e2) {
+                            getLogger(MainWindow.class.getName()).log(Level.WARNING, "Designated defaultBackground {0} is not existed, use empty background", defaultBackground);
+                        }
                     } else {
-                        getLogger(MainWindow.class.getName()).log(Level.INFO, "No background is set, use empty background");
+                        getLogger(MainWindow.class.getName()).log(Level.WARNING, "No background is set, use empty background");
                     }
                 }
             }
