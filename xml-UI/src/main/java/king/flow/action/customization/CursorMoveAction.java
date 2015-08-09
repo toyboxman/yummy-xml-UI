@@ -16,12 +16,12 @@ import king.flow.common.CommonUtil;
  *
  * @author Administrator
  */
-public class CusorMoveAction extends DefaultBaseAction {
+public class CursorMoveAction extends DefaultBaseAction {
 
     private final int previous;
     private final int next;
 
-    public CusorMoveAction(int previous, int next) {
+    public CursorMoveAction(int previous, int next) {
         this.previous = previous;
         this.next = next;
     }
@@ -47,11 +47,11 @@ public class CusorMoveAction extends DefaultBaseAction {
             @Override
             public void keyPressed(KeyEvent e) {
                 if (e.getKeyCode() == KeyEvent.VK_DOWN) {
-                    CommonUtil.getLogger(CusorMoveAction.class.getName()).log(Level.INFO, "jump to next component");
+                    CommonUtil.getLogger(CursorMoveAction.class.getName()).log(Level.INFO, "jump to next component");
                     JComponent nextComponent = (JComponent) components.get(next);
                     nextComponent.requestFocus();
                 } else if (e.getKeyCode() == KeyEvent.VK_UP) {
-                    CommonUtil.getLogger(CusorMoveAction.class.getName()).log(Level.INFO, "jump to previous component");
+                    CommonUtil.getLogger(CursorMoveAction.class.getName()).log(Level.INFO, "jump to previous component");
                     JComponent preComponent = (JComponent) components.get(previous);
                     preComponent.requestFocus();
                 }
