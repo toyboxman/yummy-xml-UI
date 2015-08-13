@@ -161,7 +161,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
+                <className>king.flow.action.customization.CursorMoveAction</className>
                 <constructorParameters>
                     <parameter>
                         <type>int</type>
