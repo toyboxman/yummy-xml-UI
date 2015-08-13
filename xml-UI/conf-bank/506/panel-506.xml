@@ -23,7 +23,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>存折补登信息</text>
+            <text>Welcome to buy natural gas</text>
         </attribute>
         <action>
             <fontSetAction>
@@ -33,7 +33,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>5052</id>
+        <id>5062</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -42,7 +42,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>60</heigh>
             </rect>
-            <text>存折号:</text>
+            <text>Account:</text>
         </attribute>
         <action>
             <fontSetAction>
@@ -52,7 +52,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>	
 	
     <component>
-        <id>5053</id>
+        <id>5063</id>
         <type>TextField</type>
         <attribute>
             <rect>
@@ -63,9 +63,41 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
     </component>
+    
+    <component>
+        <id>5064</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>270</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>Cash:</text>
+        </attribute>
+        <action>
+            <fontSetAction>
+                <fontSize>35</fontSize>
+            </fontSetAction>
+        </action>
+    </component>	
 	
     <component>
-        <id>5054</id>
+        <id>5065</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>230</x>
+                <y>270</y>
+                <width>400</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+    </component>
+	
+    <component>
+        <id>5066</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -74,7 +106,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
-            <text>补登查询</text>
+            <text>Buy</text>
         </attribute>
         <action>
             <fontSetAction>
@@ -84,7 +116,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <action>
             <msgSendAction>
                 <prsCode>printPB</prsCode>
-                <conditions>5053</conditions>
+                <conditions>5063</conditions>
                 <nextStep>  
                     <nextPanel>505</nextPanel> 
                     <display>50571</display>  
@@ -97,7 +129,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <checkRules>
                     <notNull>
                         <content>5053</content>
-                        <errMsg>存折号不能为空</errMsg>
+                        <errMsg>No account is designated to buy</errMsg>
                     </notNull>
                 </checkRules>
             </msgSendAction>
@@ -105,32 +137,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>5055</id>
-        <type>Button</type>
-        <attribute>
-            <rect>
-                <x>650</x>
-                <y>450</y>
-                <width>250</width>
-                <heigh>80</heigh>
-            </rect>
-            <text>打印存折</text>
-        </attribute> 
-        <action>
-            <customizedAction>
-                <className>king.flow.action.customization.PrintPassbookAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>50571</value>
-                    </parameter>
-                </constructorParameters>
-            </customizedAction>
-        </action>		
-    </component>
-	
-    <component>
-        <id>5056</id>
+        <id>5067</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -139,7 +146,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
-            <text>放弃补登</text>
+            <text>Back</text>
         </attribute>
         <action>
             <buttonJumpPanelAction>
@@ -147,39 +154,4 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </buttonJumpPanelAction>
         </action> 
     </component>
-	
-    <decorator>
-        <id>5057</id>
-        <type>ScrollPanel</type>
-        <attribute>
-            <rect>
-                <x>0</x>
-                <y>560</y>
-                <width>1280</width>
-                <heigh>400</heigh>
-            </rect>
-            <debug>false</debug>
-        </attribute>
-        <component>
-            <id>50571</id>
-            <type>Table</type>
-            <attribute>
-                <rect>
-                    <x>0</x>
-                    <y>560</y>
-                    <width>1280</width>
-                    <heigh>400</heigh>
-                </rect>
-                <debug>false</debug>
-            </attribute>
-            <action>
-                <fontSetAction>
-                    <fontSize>22</fontSize>
-                </fontSetAction>
-                <tableShowAction>
-                    <columnNames>日期, 币种, 注释, 支出/存入, 序号</columnNames>
-                </tableShowAction>
-            </action>
-        </component>
-    </decorator>
 </panel>
