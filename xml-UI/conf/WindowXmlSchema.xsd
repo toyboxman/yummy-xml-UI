@@ -103,11 +103,11 @@
                 </xs:complexType>
             </xs:element>
 			
-			<xs:element name="fileUploadAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="fileUploadAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="filter" type="xs:string"/>
-						<xs:element name="uploadPath" type="xs:string"/>
+                        <xs:element name="uploadPath" type="xs:string"/>
                     </xs:all>
                 </xs:complexType>
             </xs:element>
@@ -187,35 +187,44 @@
                 </xs:complexType>
             </xs:element>
             
-            <xs:element name="msgSendAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="sendMsgAction" type="msgSendAction" maxOccurs="1" minOccurs="0"/>
+            
+            <xs:element name="insertICardAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
-                        <xs:element name="prsCode" type="xs:string"/>
-                        <xs:element name="cmdCode" type="xs:int" default="-1" maxOccurs="1" minOccurs="0"/>
-                        <xs:element name="conditions" type="xs:string"/>
-                        <xs:element name="nextStep">
-                            <xs:complexType>
-                                <xs:all>
-                                    <xs:element name="nextPanel" type="xs:int"/>
-                                    <xs:element name="display" type="xs:int" default="-1"/>
-                                </xs:all>
-                            </xs:complexType>
-                        </xs:element>
-                        <xs:element name="exception">
-                            <xs:complexType>
-                                <xs:all>
-                                    <xs:element name="nextPanel" type="xs:int"/>
-                                    <xs:element name="display" type="xs:int" default="-1"/>
-                                </xs:all>
-                            </xs:complexType>
-                        </xs:element>
-                        <xs:element name="checkRules" type="rules" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="suceessfulPanel" type="xs:unsignedShort" maxOccurs="1" minOccurs="1"/>
+                        <xs:element name="failedPanel" type="xs:unsignedShort" maxOccurs="1" minOccurs="1"/>
                     </xs:all>
                 </xs:complexType>
             </xs:element>
+            <xs:element name="writeICardAction" type="msgSendAction" maxOccurs="1" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>
     
+    <xs:complexType name="msgSendAction">
+        <xs:all>
+            <xs:element name="prsCode" type="xs:string"/>
+            <xs:element name="cmdCode" type="xs:int" default="-1" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="conditions" type="xs:string"/>
+            <xs:element name="nextStep">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="nextPanel" type="xs:int"/>
+                        <xs:element name="display" type="xs:int" default="-1"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="exception">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="nextPanel" type="xs:int"/>
+                        <xs:element name="display" type="xs:int" default="-1"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="checkRules" type="rules" maxOccurs="1" minOccurs="0"/>
+        </xs:all>
+    </xs:complexType>
     
     <xs:complexType name="rules">
         <xs:sequence>

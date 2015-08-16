@@ -2,7 +2,7 @@
 // 此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.8-b130911.1802 生成的
 // 请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
 // 在重新编译源模式时, 对此文件的所有修改都将丢失。
-// 生成时间: 2015.05.25 时间 08:46:55 PM CST 
+// 生成时间: 2015.08.15 时间 12:04:31 PM CST 
 //
 
 
@@ -167,44 +167,20 @@ import javax.xml.bind.annotation.XmlType;
  *             &lt;/complexContent>
  *           &lt;/complexType>
  *         &lt;/element>
- *         &lt;element name="msgSendAction" minOccurs="0">
+ *         &lt;element name="sendMsgAction" type="{}msgSendAction" minOccurs="0"/>
+ *         &lt;element name="insertICardAction" minOccurs="0">
  *           &lt;complexType>
  *             &lt;complexContent>
  *               &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
  *                 &lt;all>
- *                   &lt;element name="prsCode" type="{http://www.w3.org/2001/XMLSchema}string"/>
- *                   &lt;element name="cmdCode" type="{http://www.w3.org/2001/XMLSchema}int" minOccurs="0"/>
- *                   &lt;element name="conditions" type="{http://www.w3.org/2001/XMLSchema}string"/>
- *                   &lt;element name="nextStep">
- *                     &lt;complexType>
- *                       &lt;complexContent>
- *                         &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
- *                           &lt;all>
- *                             &lt;element name="nextPanel" type="{http://www.w3.org/2001/XMLSchema}int"/>
- *                             &lt;element name="display" type="{http://www.w3.org/2001/XMLSchema}int"/>
- *                           &lt;/all>
- *                         &lt;/restriction>
- *                       &lt;/complexContent>
- *                     &lt;/complexType>
- *                   &lt;/element>
- *                   &lt;element name="exception">
- *                     &lt;complexType>
- *                       &lt;complexContent>
- *                         &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
- *                           &lt;all>
- *                             &lt;element name="nextPanel" type="{http://www.w3.org/2001/XMLSchema}int"/>
- *                             &lt;element name="display" type="{http://www.w3.org/2001/XMLSchema}int"/>
- *                           &lt;/all>
- *                         &lt;/restriction>
- *                       &lt;/complexContent>
- *                     &lt;/complexType>
- *                   &lt;/element>
- *                   &lt;element name="checkRules" type="{}rules" minOccurs="0"/>
+ *                   &lt;element name="suceessfulPanel" type="{http://www.w3.org/2001/XMLSchema}unsignedShort"/>
+ *                   &lt;element name="failedPanel" type="{http://www.w3.org/2001/XMLSchema}unsignedShort"/>
  *                 &lt;/all>
  *               &lt;/restriction>
  *             &lt;/complexContent>
  *           &lt;/complexType>
  *         &lt;/element>
+ *         &lt;element name="writeICardAction" type="{}msgSendAction" minOccurs="0"/>
  *       &lt;/sequence>
  *     &lt;/restriction>
  *   &lt;/complexContent>
@@ -229,7 +205,9 @@ import javax.xml.bind.annotation.XmlType;
     "virtualKeyboardAction",
     "printerAction",
     "webLoadAction",
-    "msgSendAction"
+    "sendMsgAction",
+    "insertICardAction",
+    "writeICardAction"
 })
 public class Action {
 
@@ -247,7 +225,9 @@ public class Action {
     protected Action.VirtualKeyboardAction virtualKeyboardAction;
     protected Action.PrinterAction printerAction;
     protected Action.WebLoadAction webLoadAction;
-    protected Action.MsgSendAction msgSendAction;
+    protected MsgSendAction sendMsgAction;
+    protected Action.InsertICardAction insertICardAction;
+    protected MsgSendAction writeICardAction;
 
     /**
      * Gets the value of the customizedAction property.
@@ -591,27 +571,75 @@ public class Action {
     }
 
     /**
-     * 获取msgSendAction属性的值。
+     * 获取sendMsgAction属性的值。
      * 
      * @return
      *     possible object is
-     *     {@link Action.MsgSendAction }
+     *     {@link MsgSendAction }
      *     
      */
-    public Action.MsgSendAction getMsgSendAction() {
-        return msgSendAction;
+    public MsgSendAction getSendMsgAction() {
+        return sendMsgAction;
     }
 
     /**
-     * 设置msgSendAction属性的值。
+     * 设置sendMsgAction属性的值。
      * 
      * @param value
      *     allowed object is
-     *     {@link Action.MsgSendAction }
+     *     {@link MsgSendAction }
      *     
      */
-    public void setMsgSendAction(Action.MsgSendAction value) {
-        this.msgSendAction = value;
+    public void setSendMsgAction(MsgSendAction value) {
+        this.sendMsgAction = value;
+    }
+
+    /**
+     * 获取insertICardAction属性的值。
+     * 
+     * @return
+     *     possible object is
+     *     {@link Action.InsertICardAction }
+     *     
+     */
+    public Action.InsertICardAction getInsertICardAction() {
+        return insertICardAction;
+    }
+
+    /**
+     * 设置insertICardAction属性的值。
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link Action.InsertICardAction }
+     *     
+     */
+    public void setInsertICardAction(Action.InsertICardAction value) {
+        this.insertICardAction = value;
+    }
+
+    /**
+     * 获取writeICardAction属性的值。
+     * 
+     * @return
+     *     possible object is
+     *     {@link MsgSendAction }
+     *     
+     */
+    public MsgSendAction getWriteICardAction() {
+        return writeICardAction;
+    }
+
+    /**
+     * 设置writeICardAction属性的值。
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link MsgSendAction }
+     *     
+     */
+    public void setWriteICardAction(MsgSendAction value) {
+        this.writeICardAction = value;
     }
 
 
@@ -927,6 +955,72 @@ public class Action {
      *   &lt;complexContent>
      *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
      *       &lt;all>
+     *         &lt;element name="suceessfulPanel" type="{http://www.w3.org/2001/XMLSchema}unsignedShort"/>
+     *         &lt;element name="failedPanel" type="{http://www.w3.org/2001/XMLSchema}unsignedShort"/>
+     *       &lt;/all>
+     *     &lt;/restriction>
+     *   &lt;/complexContent>
+     * &lt;/complexType>
+     * </pre>
+     * 
+     * 
+     */
+    @XmlAccessorType(XmlAccessType.FIELD)
+    @XmlType(name = "", propOrder = {
+
+    })
+    public static class InsertICardAction {
+
+        @XmlSchemaType(name = "unsignedShort")
+        protected int suceessfulPanel;
+        @XmlSchemaType(name = "unsignedShort")
+        protected int failedPanel;
+
+        /**
+         * 获取suceessfulPanel属性的值。
+         * 
+         */
+        public int getSuceessfulPanel() {
+            return suceessfulPanel;
+        }
+
+        /**
+         * 设置suceessfulPanel属性的值。
+         * 
+         */
+        public void setSuceessfulPanel(int value) {
+            this.suceessfulPanel = value;
+        }
+
+        /**
+         * 获取failedPanel属性的值。
+         * 
+         */
+        public int getFailedPanel() {
+            return failedPanel;
+        }
+
+        /**
+         * 设置failedPanel属性的值。
+         * 
+         */
+        public void setFailedPanel(int value) {
+            this.failedPanel = value;
+        }
+
+    }
+
+
+    /**
+     * <p>anonymous complex type的 Java 类。
+     * 
+     * <p>以下模式片段指定包含在此类中的预期内容。
+     * 
+     * <pre>
+     * &lt;complexType>
+     *   &lt;complexContent>
+     *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
+     *       &lt;all>
      *         &lt;element name="length" type="{http://www.w3.org/2001/XMLSchema}byte"/>
      *         &lt;element name="enableCashLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
      *       &lt;/all>
@@ -1040,347 +1134,6 @@ public class Action {
          */
         public void setMedia(String value) {
             this.media = value;
-        }
-
-    }
-
-
-    /**
-     * <p>anonymous complex type的 Java 类。
-     * 
-     * <p>以下模式片段指定包含在此类中的预期内容。
-     * 
-     * <pre>
-     * &lt;complexType>
-     *   &lt;complexContent>
-     *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
-     *       &lt;all>
-     *         &lt;element name="prsCode" type="{http://www.w3.org/2001/XMLSchema}string"/>
-     *         &lt;element name="cmdCode" type="{http://www.w3.org/2001/XMLSchema}int" minOccurs="0"/>
-     *         &lt;element name="conditions" type="{http://www.w3.org/2001/XMLSchema}string"/>
-     *         &lt;element name="nextStep">
-     *           &lt;complexType>
-     *             &lt;complexContent>
-     *               &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
-     *                 &lt;all>
-     *                   &lt;element name="nextPanel" type="{http://www.w3.org/2001/XMLSchema}int"/>
-     *                   &lt;element name="display" type="{http://www.w3.org/2001/XMLSchema}int"/>
-     *                 &lt;/all>
-     *               &lt;/restriction>
-     *             &lt;/complexContent>
-     *           &lt;/complexType>
-     *         &lt;/element>
-     *         &lt;element name="exception">
-     *           &lt;complexType>
-     *             &lt;complexContent>
-     *               &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
-     *                 &lt;all>
-     *                   &lt;element name="nextPanel" type="{http://www.w3.org/2001/XMLSchema}int"/>
-     *                   &lt;element name="display" type="{http://www.w3.org/2001/XMLSchema}int"/>
-     *                 &lt;/all>
-     *               &lt;/restriction>
-     *             &lt;/complexContent>
-     *           &lt;/complexType>
-     *         &lt;/element>
-     *         &lt;element name="checkRules" type="{}rules" minOccurs="0"/>
-     *       &lt;/all>
-     *     &lt;/restriction>
-     *   &lt;/complexContent>
-     * &lt;/complexType>
-     * </pre>
-     * 
-     * 
-     */
-    @XmlAccessorType(XmlAccessType.FIELD)
-    @XmlType(name = "", propOrder = {
-
-    })
-    public static class MsgSendAction {
-
-        @XmlElement(required = true)
-        protected String prsCode;
-        @XmlElement(defaultValue = "-1")
-        protected Integer cmdCode;
-        @XmlElement(required = true)
-        protected String conditions;
-        @XmlElement(required = true)
-        protected Action.MsgSendAction.NextStep nextStep;
-        @XmlElement(required = true)
-        protected Action.MsgSendAction.Exception exception;
-        protected Rules checkRules;
-
-        /**
-         * 获取prsCode属性的值。
-         * 
-         * @return
-         *     possible object is
-         *     {@link String }
-         *     
-         */
-        public String getPrsCode() {
-            return prsCode;
-        }
-
-        /**
-         * 设置prsCode属性的值。
-         * 
-         * @param value
-         *     allowed object is
-         *     {@link String }
-         *     
-         */
-        public void setPrsCode(String value) {
-            this.prsCode = value;
-        }
-
-        /**
-         * 获取cmdCode属性的值。
-         * 
-         * @return
-         *     possible object is
-         *     {@link Integer }
-         *     
-         */
-        public Integer getCmdCode() {
-            return cmdCode;
-        }
-
-        /**
-         * 设置cmdCode属性的值。
-         * 
-         * @param value
-         *     allowed object is
-         *     {@link Integer }
-         *     
-         */
-        public void setCmdCode(Integer value) {
-            this.cmdCode = value;
-        }
-
-        /**
-         * 获取conditions属性的值。
-         * 
-         * @return
-         *     possible object is
-         *     {@link String }
-         *     
-         */
-        public String getConditions() {
-            return conditions;
-        }
-
-        /**
-         * 设置conditions属性的值。
-         * 
-         * @param value
-         *     allowed object is
-         *     {@link String }
-         *     
-         */
-        public void setConditions(String value) {
-            this.conditions = value;
-        }
-
-        /**
-         * 获取nextStep属性的值。
-         * 
-         * @return
-         *     possible object is
-         *     {@link Action.MsgSendAction.NextStep }
-         *     
-         */
-        public Action.MsgSendAction.NextStep getNextStep() {
-            return nextStep;
-        }
-
-        /**
-         * 设置nextStep属性的值。
-         * 
-         * @param value
-         *     allowed object is
-         *     {@link Action.MsgSendAction.NextStep }
-         *     
-         */
-        public void setNextStep(Action.MsgSendAction.NextStep value) {
-            this.nextStep = value;
-        }
-
-        /**
-         * 获取exception属性的值。
-         * 
-         * @return
-         *     possible object is
-         *     {@link Action.MsgSendAction.Exception }
-         *     
-         */
-        public Action.MsgSendAction.Exception getException() {
-            return exception;
-        }
-
-        /**
-         * 设置exception属性的值。
-         * 
-         * @param value
-         *     allowed object is
-         *     {@link Action.MsgSendAction.Exception }
-         *     
-         */
-        public void setException(Action.MsgSendAction.Exception value) {
-            this.exception = value;
-        }
-
-        /**
-         * 获取checkRules属性的值。
-         * 
-         * @return
-         *     possible object is
-         *     {@link Rules }
-         *     
-         */
-        public Rules getCheckRules() {
-            return checkRules;
-        }
-
-        /**
-         * 设置checkRules属性的值。
-         * 
-         * @param value
-         *     allowed object is
-         *     {@link Rules }
-         *     
-         */
-        public void setCheckRules(Rules value) {
-            this.checkRules = value;
-        }
-
-
-        /**
-         * <p>anonymous complex type的 Java 类。
-         * 
-         * <p>以下模式片段指定包含在此类中的预期内容。
-         * 
-         * <pre>
-         * &lt;complexType>
-         *   &lt;complexContent>
-         *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
-         *       &lt;all>
-         *         &lt;element name="nextPanel" type="{http://www.w3.org/2001/XMLSchema}int"/>
-         *         &lt;element name="display" type="{http://www.w3.org/2001/XMLSchema}int"/>
-         *       &lt;/all>
-         *     &lt;/restriction>
-         *   &lt;/complexContent>
-         * &lt;/complexType>
-         * </pre>
-         * 
-         * 
-         */
-        @XmlAccessorType(XmlAccessType.FIELD)
-        @XmlType(name = "", propOrder = {
-
-        })
-        public static class Exception {
-
-            protected int nextPanel;
-            @XmlElement(defaultValue = "-1")
-            protected int display;
-
-            /**
-             * 获取nextPanel属性的值。
-             * 
-             */
-            public int getNextPanel() {
-                return nextPanel;
-            }
-
-            /**
-             * 设置nextPanel属性的值。
-             * 
-             */
-            public void setNextPanel(int value) {
-                this.nextPanel = value;
-            }
-
-            /**
-             * 获取display属性的值。
-             * 
-             */
-            public int getDisplay() {
-                return display;
-            }
-
-            /**
-             * 设置display属性的值。
-             * 
-             */
-            public void setDisplay(int value) {
-                this.display = value;
-            }
-
-        }
-
-
-        /**
-         * <p>anonymous complex type的 Java 类。
-         * 
-         * <p>以下模式片段指定包含在此类中的预期内容。
-         * 
-         * <pre>
-         * &lt;complexType>
-         *   &lt;complexContent>
-         *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
-         *       &lt;all>
-         *         &lt;element name="nextPanel" type="{http://www.w3.org/2001/XMLSchema}int"/>
-         *         &lt;element name="display" type="{http://www.w3.org/2001/XMLSchema}int"/>
-         *       &lt;/all>
-         *     &lt;/restriction>
-         *   &lt;/complexContent>
-         * &lt;/complexType>
-         * </pre>
-         * 
-         * 
-         */
-        @XmlAccessorType(XmlAccessType.FIELD)
-        @XmlType(name = "", propOrder = {
-
-        })
-        public static class NextStep {
-
-            protected int nextPanel;
-            @XmlElement(defaultValue = "-1")
-            protected int display;
-
-            /**
-             * 获取nextPanel属性的值。
-             * 
-             */
-            public int getNextPanel() {
-                return nextPanel;
-            }
-
-            /**
-             * 设置nextPanel属性的值。
-             * 
-             */
-            public void setNextPanel(int value) {
-                this.nextPanel = value;
-            }
-
-            /**
-             * 获取display属性的值。
-             * 
-             */
-            public int getDisplay() {
-                return display;
-            }
-
-            /**
-             * 设置display属性的值。
-             * 
-             */
-            public void setDisplay(int value) {
-                this.display = value;
-            }
-
         }
 
     }

@@ -2,7 +2,7 @@
 // 此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.8-b130911.1802 生成的
 // 请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
 // 在重新编译源模式时, 对此文件的所有修改都将丢失。
-// 生成时间: 2015.05.25 时间 08:46:55 PM CST 
+// 生成时间: 2015.08.15 时间 12:04:31 PM CST 
 //
 
 
@@ -50,19 +50,19 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link Action.MsgSendAction }
-     * 
-     */
-    public Action.MsgSendAction createActionMsgSendAction() {
-        return new Action.MsgSendAction();
-    }
-
-    /**
      * Create an instance of {@link Driver }
      * 
      */
     public Driver createDriver() {
         return new Driver();
+    }
+
+    /**
+     * Create an instance of {@link MsgSendAction }
+     * 
+     */
+    public MsgSendAction createMsgSendAction() {
+        return new MsgSendAction();
     }
 
     /**
@@ -290,19 +290,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link Action.MsgSendAction.NextStep }
+     * Create an instance of {@link Action.InsertICardAction }
      * 
      */
-    public Action.MsgSendAction.NextStep createActionMsgSendActionNextStep() {
-        return new Action.MsgSendAction.NextStep();
-    }
-
-    /**
-     * Create an instance of {@link Action.MsgSendAction.Exception }
-     * 
-     */
-    public Action.MsgSendAction.Exception createActionMsgSendActionException() {
-        return new Action.MsgSendAction.Exception();
+    public Action.InsertICardAction createActionInsertICardAction() {
+        return new Action.InsertICardAction();
     }
 
     /**
@@ -311,6 +303,22 @@ public class ObjectFactory {
      */
     public Driver.Device createDriverDevice() {
         return new Driver.Device();
+    }
+
+    /**
+     * Create an instance of {@link MsgSendAction.NextStep }
+     * 
+     */
+    public MsgSendAction.NextStep createMsgSendActionNextStep() {
+        return new MsgSendAction.NextStep();
+    }
+
+    /**
+     * Create an instance of {@link MsgSendAction.Exception }
+     * 
+     */
+    public MsgSendAction.Exception createMsgSendActionException() {
+        return new MsgSendAction.Exception();
     }
 
     /**
