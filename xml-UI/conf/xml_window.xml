@@ -99,8 +99,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <page>./conf/200/panel-200.xml</page>
         <page>./conf/300/panel-300.xml</page>
         <page>./conf/300/panel-330.xml</page>
-		<page>./conf/300/panel-360.xml</page>
+        <page>./conf/300/panel-360.xml</page>
+        <page>./conf/300/panel-370.xml</page>
         <page>./conf/900/panel-900.xml</page>
+        <page>./conf/900/panel-910.xml</page>
         <page>./conf/900/panel-970.xml</page>
     </contents>
 </window>

@@ -17,7 +17,7 @@ import king.flow.swing.JXMsgPanel;
 import static king.flow.swing.JXMsgPanel.JUMP_ACTION_COMMAND;
 import static king.flow.swing.JXMsgPanel.NEXT_ACTION_COMMAND;
 import static king.flow.swing.JXMsgPanel.PREVIOUS_ACTION_COMMAND;
-import king.flow.view.Action;
+import king.flow.view.MsgSendAction;
 import king.flow.view.Rules;
 
 /**
@@ -29,10 +29,10 @@ public class AdvancedMsgSendAction extends DefaultMsgSendAction {
     public final JXMsgPanel parent;
 
     public AdvancedMsgSendAction(String prsCode, int cmdCode, List<String> conditionList,
-            Action.MsgSendAction.NextStep next, Action.MsgSendAction.Exception next2,
+            MsgSendAction.NextStep next, MsgSendAction.Exception expPage,
             Rules checkRules, int id, JComponent owner, Map<Integer, Object> components,
             Map<Integer, Object> components_meta) {
-        super(prsCode, cmdCode, conditionList, next, next2, checkRules);
+        super(prsCode, cmdCode, conditionList, next, expPage, checkRules);
         parent = (JXMsgPanel) components.get(id);
         this.id = id;
         this.owner = owner;

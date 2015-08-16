@@ -54,6 +54,8 @@ import king.flow.action.DefaultRunCommandAction;
 import king.flow.action.DefaultTipAction;
 import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
+import king.flow.action.business.InsertCardAction;
+import king.flow.action.business.WriteCardAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
 import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
@@ -84,6 +86,7 @@ import king.flow.view.Menuaction;
 import king.flow.view.Menubar;
 import king.flow.view.Menuitem;
 import king.flow.view.Menuoption;
+import king.flow.view.MsgSendAction;
 import king.flow.view.Panel;
 import king.flow.view.PanelEnum;
 import king.flow.view.Rules;
@@ -319,7 +322,38 @@ public class MainWindow {
 
             doTipAction(actionNode, component);
 
+            doInsertICardAction(actionNode, component);
+
+            doWriteICardAction(actionNode, component);
+
             doFileChooseAction(actionNode, component);
+        }
+    }
+
+    private void doWriteICardAction(king.flow.view.Action actionNode, Component component) {
+        MsgSendAction writeICardAction = actionNode.getWriteICardAction();
+        if (writeICardAction != null) {
+            String prsCode = writeICardAction.getPrsCode();
+            int cmdCode = writeICardAction.getCmdCode() == null ? -1 : writeICardAction.getCmdCode();
+            String conditions = writeICardAction.getConditions();
+            MsgSendAction.NextStep nextStep = writeICardAction.getNextStep();
+            MsgSendAction.Exception exception = writeICardAction.getException();
+            Rules checkRules = writeICardAction.getCheckRules();
+            ArrayList<String> listConditions = buildListParameters(conditions);
+
+            WriteCardAction writeAction = new WriteCardAction(prsCode, cmdCode,
+                    listConditions, nextStep, exception, checkRules);
+            doAction(writeAction, component.getId());
+        }
+    }
+
+    private void doInsertICardAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.InsertICardAction insertICardAction = actionNode.getInsertICardAction();
+        if (insertICardAction != null) {
+            int suceessfulPanel = insertICardAction.getSuceessfulPanel();
+            int failedPanel = insertICardAction.getFailedPanel();
+            InsertCardAction insertCardAction = new InsertCardAction(suceessfulPanel, failedPanel);
+            doAction(insertCardAction, component.getId());
         }
     }
 
@@ -415,14 +449,14 @@ public class MainWindow {
     }
 
     private void doMsgSendAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.MsgSendAction msgSendAction = actionNode.getMsgSendAction();
-        if (msgSendAction != null) {
-            String prsCode = msgSendAction.getPrsCode();
-            int cmdCode = msgSendAction.getCmdCode() == null ? -1 : msgSendAction.getCmdCode();
-            String conditions = msgSendAction.getConditions();
-            king.flow.view.Action.MsgSendAction.NextStep nextStep = msgSendAction.getNextStep();
-            king.flow.view.Action.MsgSendAction.Exception exception = msgSendAction.getException();
-            Rules checkRules = msgSendAction.getCheckRules();
+        MsgSendAction sendMsgAction = actionNode.getSendMsgAction();
+        if (sendMsgAction != null) {
+            String prsCode = sendMsgAction.getPrsCode();
+            int cmdCode = sendMsgAction.getCmdCode() == null ? -1 : sendMsgAction.getCmdCode();
+            String conditions = sendMsgAction.getConditions();
+            MsgSendAction.NextStep nextStep = sendMsgAction.getNextStep();
+            MsgSendAction.Exception exception = sendMsgAction.getException();
+            Rules checkRules = sendMsgAction.getCheckRules();
             ArrayList<String> listConditions = buildListParameters(conditions);
 
             if (component.getType() == ComponentEnum.ADVANCED_TABLE) {

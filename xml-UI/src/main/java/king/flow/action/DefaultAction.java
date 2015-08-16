@@ -116,6 +116,20 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
         }
     }
 
+    public <T extends SwingWorker> void waitCommunicationTask(T task, boolean opaque) {
+        if (task != null) {
+            if (opaque) {
+                final JDialog dialog = buildAnimationDialog();
+                setCursorBusy(true, dialog);
+                task.addPropertyChangeListener(new ProgressMonitor(dialog));
+                task.execute();
+                dialog.setVisible(true);
+            } else {
+                waitCommunicationTask(task);
+            }
+        }
+    }
+
     private JDialog buildProgressDialog() {
 //        JProgressBar progress = new JProgressBar();
 //        progress.setIndeterminate(true);
@@ -147,6 +161,21 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
         final Color transparentColor = new Color(255, 255, 255, 0);
         dialog.getContentPane().setBackground(transparentColor);
         dialog.setBackground(transparentColor);
+        dialog.setDefaultCloseOperation(WindowConstants.DO_NOTHING_ON_CLOSE);
+        return dialog;
+    }
+
+    private JDialog buildAnimationDialog() {
+        JDialog dialog = new JDialog((Window) owner.getTopLevelAncestor());
+        dialog.setModal(true);
+        Dimension dim = new Dimension(252, 256);
+        dialog.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
+        JLabel progressAnimation = new JLabel(UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS));
+        Dimension ani_dim = new Dimension(dim);
+        progressAnimation.setBounds(0, 0, (int) ani_dim.getWidth()+150, (int) ani_dim.getHeight());
+        dialog.getContentPane().add(progressAnimation, 0);
+
+        dialog.setUndecorated(true);
         dialog.setDefaultCloseOperation(WindowConstants.DO_NOTHING_ON_CLOSE);
         return dialog;
     }

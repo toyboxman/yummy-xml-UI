@@ -17,7 +17,7 @@ import static king.flow.common.CommonUtil.showMsg;
 import static king.flow.common.CommonUtil.showErrorMsg;
 import king.flow.data.TLSResult;
 import static king.flow.net.TunnelBuilder.getTunnelBuilder;
-import king.flow.view.Action;
+import king.flow.view.MsgSendAction;
 
 /**
  *
@@ -26,8 +26,8 @@ import king.flow.view.Action;
 public class TransferCashButtonAction extends DefaultMsgSendAction {
 
     public TransferCashButtonAction(String code, List<String> conditionList,
-            Action.MsgSendAction.NextStep next, Action.MsgSendAction.Exception next2) {
-        super(code, GENERAL_MSG_CODE, conditionList, next, next2, null);
+            MsgSendAction.NextStep next, MsgSendAction.Exception expPage) {
+        super(code, GENERAL_MSG_CODE, conditionList, next, expPage, null);
     }
 
     @Override

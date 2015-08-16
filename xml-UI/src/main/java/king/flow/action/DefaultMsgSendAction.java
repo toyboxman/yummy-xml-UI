@@ -48,7 +48,7 @@ import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.sendMessage;
 import king.flow.data.TLSResult;
 import king.flow.swing.JXMsgPanel;
-import king.flow.view.Action;
+import king.flow.view.MsgSendAction;
 import king.flow.view.Rules;
 
 /**
@@ -61,17 +61,17 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
     protected final int cmdCode;
     protected final List<Condition> conditions = new ArrayList<>();
     protected final List<String> conditionList;
-    protected final king.flow.view.Action.MsgSendAction.NextStep next;
-    protected final king.flow.view.Action.MsgSendAction.Exception error;
+    protected final MsgSendAction.NextStep next;
+    protected final MsgSendAction.Exception error;
     protected Map<Integer, String> notNullMsg = null;
 
-    public DefaultMsgSendAction(String prsCode, int cmdCode, List<String> conditionList, Action.MsgSendAction.NextStep next,
-            Action.MsgSendAction.Exception next2, Rules checkRules) {
+    public DefaultMsgSendAction(String prsCode, int cmdCode, List<String> conditionList, MsgSendAction.NextStep next,
+            MsgSendAction.Exception expPage, Rules checkRules) {
         this.prsCode = prsCode;
         this.cmdCode = cmdCode;
         this.conditionList = conditionList;
         this.next = next;
-        this.error = next2;
+        this.error = expPage;
         this.rules = checkRules;
     }
 
@@ -207,7 +207,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         }
     }
 
-    private void showErrMsg(final int retCode, final String msg) {
+    protected void showErrMsg(final int retCode, final String msg) {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
@@ -220,7 +220,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         });
     }
 
-    private void showMsg(final TLSResult result) {
+    protected void showDoneMsg(final TLSResult result) {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
@@ -265,7 +265,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         return true;
     }
 
-    void send() {
+    protected void send() {
         if (rules != null && !checkNotNull()) {
             return;
         }
@@ -380,7 +380,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                         getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                                 "Operation action failed with retcode {0}, root cause {1}",
                                 new Object[]{result.getRetCode(), errMsg});
-//                        showMsg(owner.getTopLevelAncestor(), result.getErrMsg());
+//                        showDoneMsg(owner.getTopLevelAncestor(), result.getErrMsg());
 //                        showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.failed.operation.prompt") + result.getRetCode());
                         showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
                                 ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
@@ -396,7 +396,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     //show msg to dedicated component
                     Object metaNode = getBlockMeta(next.getDisplay());
                     if (metaNode instanceof Component) {
-                        showMsg(result);
+                        showDoneMsg(result);
                     } else {
                         Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                                 "Invalidated display component type : {0}", metaNode.getClass().getName());

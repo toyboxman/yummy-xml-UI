@@ -20,6 +20,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <terminalID>00000001</terminalID>
         <token>usjdfjksa75ks832okudsjd94877akjdua</token>
         <branchno>test_bank_division</branchno>
-        <heartbeat>10000</heartbeat>
+        <heartbeat>60000</heartbeat>
     </registration>
 </Transportation>

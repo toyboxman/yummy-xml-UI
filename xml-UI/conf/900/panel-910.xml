@@ -9,20 +9,20 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
-    <id>900</id>
+    <id>910</id>
     <type>Panel</type>
     <active>false</active>
     <component>
-        <id>911</id>
+        <id>9101</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>600</x>
+                <x>200</x>
                 <y>0</y>
-                <width>600</width>
+                <width>900</width>
                 <heigh>150</heigh>
             </rect>
-            <text>欢迎使用自助银行查询业务</text>
+            <text>暂无信息</text>
         </attribute>
         <action>
             <fontSetAction>
@@ -31,7 +31,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
     <component>
-        <id>922</id>
+        <id>9102</id>
         <type>Button</type>
         <attribute>
             <text>确认</text>
@@ -47,44 +47,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <cleanAction>
                 <conditions>302,304</conditions>
             </cleanAction>
-            <sendMsgAction>
-                <prsCode>transferCash</prsCode>
-                <conditions>302,304,307</conditions>
-                <nextStep>
-                    <nextPanel>970</nextPanel>
-                    <display>971</display>
-                </nextStep>
-                <exception>
-                    <nextPanel>970</nextPanel>
-                    <display>971</display>
-                </exception>
-            </sendMsgAction>
-        </action>
-    </component>
-    <component>
-        <id>923</id>
-        <type>Button</type>
-        <attribute>
-            <text>返回</text>
-            <rect>
-                <x>700</x>
-                <y>300</y>
-                <width>300</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-        <action>
             <buttonJumpPanelAction>
-                <nextPanel>300</nextPanel>
+                <nextPanel>200</nextPanel>
             </buttonJumpPanelAction>
-            <cleanAction>
-                <conditions>302,304</conditions>
-            </cleanAction>
-        </action>
-        <action>
-            <fontSetAction>
-                <fontSize>18</fontSize>
-            </fontSetAction>
         </action>
     </component>
 </panel>
