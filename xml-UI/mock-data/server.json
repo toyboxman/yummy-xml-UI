@@ -5,7 +5,7 @@
 				"password": "111111",
 				"errmsg": "输入的密码错误,操作无法进行"
 			},
-            "accountHalt": {
+			"accountHalt": {
 				"errmsg": "账户已被挂失或冻结,操作无法进行"
 			},
 			"prscode": {
@@ -32,6 +32,25 @@
 				"queryAcount": {
 					"success": {
 						"okmsg": "账户余额:1896.36元"
+					}
+				},
+				"printPB": {
+					"operation": {
+						"verifyPwd": false
+					},
+					"success": {
+						"okmsg": [["20150701",
+						"RMB",
+						"累存",
+						"100000", 10, 1],
+						["20150701",
+						"RMB",
+						"累取",
+						"-50000", 10, 1],
+						["20150701",
+						"RMB",
+						"利息",
+						"3500", 10, 1]]
 					}
 				},
 				"queryTranDetail": {
@@ -455,6 +474,11 @@
 				"paysalary": {
 					"success": {
 						"okmsg": "工资发放成功"
+					}
+				},
+				"buygas": {
+					"success": {
+						"okmsg": "购买成功"
 					}
 				}
 			}
