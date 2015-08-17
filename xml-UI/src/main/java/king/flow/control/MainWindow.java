@@ -279,7 +279,7 @@ public class MainWindow {
 
         for (Menuitem item : menuNodes) {
             Menuaction action = item.getAction();
-            JumpAction jumpAction = action.getJumpAction();
+            JumpAction jumpAction = action.getJumpPanelAction();
             if (jumpAction != null) {
                 DefaultMenuAction menuJumpAction = new DefaultMenuAction(jumpAction.getNextPanel());
                 doAction(menuJumpAction, item.getId());

@@ -64,18 +64,18 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <id>-11</id>
                 <name>用户管理</name>
                 <action>
-                    <jumpAction>
+                    <jumpPanelAction>
                         <nextPanel>200</nextPanel>
-                    </jumpAction>
+                    </jumpPanelAction>
                 </action>
             </item>
             <item>
                 <id>-12</id>
                 <name>设备管理</name>
                 <action>
-                    <jumpAction>
+                    <jumpPanelAction>
                         <nextPanel>300</nextPanel>
-                    </jumpAction>
+                    </jumpPanelAction>
                 </action>
             </item>
         </menu>
