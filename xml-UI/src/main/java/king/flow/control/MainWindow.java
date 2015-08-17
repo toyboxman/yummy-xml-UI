@@ -294,39 +294,39 @@ public class MainWindow {
 
         for (king.flow.view.Action actionNode : actions) {
 
-            doPanelJumpAction(actionNode, component);
+            doJumpPanelAction(actionNode, component);
 
             doCustomizedAction(actionNode, component);
 
-            doFontSetAction(actionNode, component);
+            doSetFontAction(actionNode, component);
 
-            doTableShowAction(actionNode, component);
+            doShowTableAction(actionNode, component);
 
-            doComboShowAction(actionNode, component);
+            doShowComboBoxAction(actionNode, component);
 
-            doMsgSendAction(actionNode, component);
+            doSendMsgAction(actionNode, component);
 
             doCleanAction(actionNode, component);
 
             doLimitInputAction(actionNode, component);
 
-            doMediaPlayAction(actionNode, component);
+            doPlayMediaAction(actionNode, component);
 
             doVirtualKeyboardAction(actionNode, component);
 
-            doWebLoadAction(actionNode, component);
+            doLoadWebAction(actionNode, component);
 
             doRunCommandAction(actionNode, component);
 
-            doPrintAction(actionNode, component);
+            doSetPrinterAction(actionNode, component);
 
-            doTipAction(actionNode, component);
+            doUseTipAction(actionNode, component);
 
             doInsertICardAction(actionNode, component);
 
             doWriteICardAction(actionNode, component);
 
-            doFileChooseAction(actionNode, component);
+            doChooseFileAction(actionNode, component);
             
             doMoveCursorAction(actionNode, component);
         }
@@ -369,7 +369,7 @@ public class MainWindow {
         }
     }
 
-    private void doFileChooseAction(king.flow.view.Action actionNode, Component component) {
+    private void doChooseFileAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.UploadFileAction fileUploadAction = actionNode.getUploadFileAction();
         if (fileUploadAction != null) {
             String filter = fileUploadAction.getFilter();
@@ -379,7 +379,7 @@ public class MainWindow {
         }
     }
 
-    private void doTipAction(king.flow.view.Action actionNode, Component component) {
+    private void doUseTipAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.UseTipAction tipAction = actionNode.getUseTipAction();
         if (tipAction != null) {
             String tip = tipAction.getTip();
@@ -388,7 +388,7 @@ public class MainWindow {
         }
     }
 
-    private void doPrintAction(king.flow.view.Action actionNode, Component component) {
+    private void doSetPrinterAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SetPrinterAction printerAction = actionNode.getSetPrinterAction();
         if (printerAction != null) {
             String header = printerAction.getHeader();
@@ -407,7 +407,7 @@ public class MainWindow {
         }
     }
 
-    private void doWebLoadAction(king.flow.view.Action actionNode, Component component) {
+    private void doLoadWebAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.WebLoadAction webLoadAction = actionNode.getWebLoadAction();
         if (webLoadAction != null) {
             String url = webLoadAction.getUrl();
@@ -426,7 +426,7 @@ public class MainWindow {
         }
     }
 
-    private void doMediaPlayAction(king.flow.view.Action actionNode, Component component) {
+    private void doPlayMediaAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.PlayMediaAction mediaPlayAction = actionNode.getPlayMediaAction();
         if (mediaPlayAction != null) {
             String media = mediaPlayAction.getMedia();
@@ -460,7 +460,7 @@ public class MainWindow {
         }
     }
 
-    private void doMsgSendAction(king.flow.view.Action actionNode, Component component) {
+    private void doSendMsgAction(king.flow.view.Action actionNode, Component component) {
         MsgSendAction sendMsgAction = actionNode.getSendMsgAction();
         if (sendMsgAction != null) {
             String prsCode = sendMsgAction.getPrsCode();
@@ -491,7 +491,7 @@ public class MainWindow {
         }
     }
 
-    private void doComboShowAction(king.flow.view.Action actionNode, Component component) {
+    private void doShowComboBoxAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowComboBoxAction comboShowAction = actionNode.getShowComboBoxAction();
         if (comboShowAction != null) {
             String items = comboShowAction.getItems();
@@ -501,7 +501,7 @@ public class MainWindow {
         }
     }
 
-    private void doTableShowAction(king.flow.view.Action actionNode, Component component) {
+    private void doShowTableAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowTableAction tableShowAction = actionNode.getShowTableAction();
         if (tableShowAction != null) {
             String columnNames = tableShowAction.getColumnNames();
@@ -518,7 +518,7 @@ public class MainWindow {
         }
     }
 
-    private void doFontSetAction(king.flow.view.Action actionNode, Component component) {
+    private void doSetFontAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SetFontAction fontSetAction = actionNode.getSetFontAction();
         if (fontSetAction != null) {
             String name = fontSetAction.getFontName();
@@ -542,7 +542,7 @@ public class MainWindow {
         }
     }
 
-    private void doPanelJumpAction(king.flow.view.Action actionNode, Component component) {
+    private void doJumpPanelAction(king.flow.view.Action actionNode, Component component) {
         JumpAction jumpPanelAction = actionNode.getJumpPanelAction();
         if (jumpPanelAction != null) {
             int nextPanel = jumpPanelAction.getNextPanel();
