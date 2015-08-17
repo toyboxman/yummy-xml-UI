@@ -8,7 +8,6 @@ package king.flow.action.business;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.SwingWorker;
 import king.flow.action.DefaultMsgSendAction;
 import static king.flow.common.CommonUtil.createTLSMessage;
@@ -17,7 +16,6 @@ import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.parseTLSMessage;
 import static king.flow.common.CommonUtil.sendMessage;
 import king.flow.data.TLSResult;
-import king.flow.view.Component;
 import king.flow.view.MsgSendAction;
 import king.flow.view.Rules;
 
@@ -113,6 +111,24 @@ public class WriteCardAction extends DefaultMsgSendAction {
                 getLogger(WriteCardTask.class.getName()).log(Level.INFO,
                         "Fail to write card due to error {0}", e.getMessage());
                 showErrMsg(Integer.MIN_VALUE, getResourceMsg("operation.card.write.error"));
+                String strike_balance = createTLSMessage(prsCode, conditionValues);
+                int start = msg.indexOf(UID_PREFIX);
+                int end = msg.indexOf(UID_AFFIX) + UID_AFFIX.length();
+                String bid = msg.substring(start, end);
+                bid = bid.replaceAll(UID, BID);
+                int insertPoint = strike_balance.indexOf(UID_AFFIX) + UID_AFFIX.length();
+                strike_balance = new StringBuilder(strike_balance).insert(insertPoint, bid).toString();
+                getLogger(WriteCardTask.class.getName()).log(Level.INFO, "TLS Message : {0}", strike_balance);
+                try {
+                    if (cmdCode < 0) {
+                        resp = sendMessage(strike_balance);
+                    } else {
+                        resp = sendMessage(cmdCode, strike_balance);
+                    }
+                } catch (Exception exception) {
+                    getLogger(WriteCardTask.class.getName()).log(Level.WARNING, "Fail to send stike-balance messge due to {0}", exception.getMessage());
+                    throw exception;
+                }
                 return resp;
             }
 
@@ -133,6 +149,10 @@ public class WriteCardAction extends DefaultMsgSendAction {
 //
 //            return resp;
         }
+        private static final String BID = "bid";
+        private static final String UID = "uid";
+        private static final String UID_AFFIX = "</uid>";
+        private static final String UID_PREFIX = "<uid>";
 
     }
 }
