@@ -112,6 +112,15 @@
                 </xs:complexType>
             </xs:element>
             
+            <xs:element name="moveCursorAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="upCursor" type="xs:unsignedShort"/>
+                        <xs:element name="downCursor" type="xs:unsignedShort"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
             <xs:element name="limitInputAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>

@@ -55,6 +55,7 @@ import king.flow.action.DefaultTipAction;
 import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.InsertCardAction;
+import king.flow.action.business.MoveCursorAction;
 import king.flow.action.business.WriteCardAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
@@ -326,6 +327,18 @@ public class MainWindow {
             doWriteICardAction(actionNode, component);
 
             doFileChooseAction(actionNode, component);
+            
+            doMoveCursorAction(actionNode, component);
+        }
+    }
+
+    private void doMoveCursorAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.MoveCursorAction moveCursorAction = actionNode.getMoveCursorAction();
+        if (moveCursorAction != null) {
+            int up = moveCursorAction.getUpCursor();
+            int down = moveCursorAction.getDownCursor();
+            MoveCursorAction moveAction = new MoveCursorAction(up, down);
+            doAction(moveAction, component.getId());
         }
     }
 
