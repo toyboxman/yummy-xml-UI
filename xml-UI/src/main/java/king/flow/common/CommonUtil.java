@@ -64,11 +64,11 @@ import king.flow.net.Tunnel;
 import king.flow.net.TunnelBuilder;
 import static king.flow.net.TunnelBuilder.getTunnelBuilder;
 import king.flow.view.Bound;
-import king.flow.view.DevicetypeEnum;
-import static king.flow.view.DevicetypeEnum.IC_CARD;
-import static king.flow.view.DevicetypeEnum.KEYBOARD;
-import static king.flow.view.DevicetypeEnum.MAGNET_CARD;
-import static king.flow.view.DevicetypeEnum.PRINTER;
+import king.flow.view.DeviceEnum;
+import static king.flow.view.DeviceEnum.IC_CARD;
+import static king.flow.view.DeviceEnum.KEYBOARD;
+import static king.flow.view.DeviceEnum.MAGNET_CARD;
+import static king.flow.view.DeviceEnum.PRINTER;
 import king.flow.view.FontstyleEnum;
 import static king.flow.view.FontstyleEnum.BOLD;
 import static king.flow.view.FontstyleEnum.ITALIC;
@@ -413,17 +413,17 @@ public class CommonUtil {
         return null;
     }
 
-    private static final HashMap<DevicetypeEnum, String[]> driver = new HashMap<>();
+    private static final HashMap<DeviceEnum, String[]> driver = new HashMap<>();
 
-    public static String getDriverDll(DevicetypeEnum device) {
+    public static String getDriverDll(DeviceEnum device) {
         return driver.get(device)[0];
     }
 
-    public static String getDriverPort(DevicetypeEnum device) {
+    public static String getDriverPort(DeviceEnum device) {
         return driver.get(device)[1];
     }
 
-    public static void saveDriverConf(DevicetypeEnum device, String[] conf) {
+    public static void saveDriverConf(DeviceEnum device, String[] conf) {
         driver.put(device, conf);
     }
 

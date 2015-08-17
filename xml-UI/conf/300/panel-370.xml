@@ -141,9 +141,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>返回</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>200</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 </panel>

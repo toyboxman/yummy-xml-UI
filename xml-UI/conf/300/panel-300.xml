@@ -25,9 +25,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>开始时间:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>15</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
     <component>
@@ -55,9 +55,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>结束时间:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>15</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
     <component>
@@ -85,9 +85,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>返回</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>200</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
             <cleanAction>
                 <conditions>311,307, 337</conditions>
             </cleanAction>
@@ -106,10 +106,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>显示</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>18</fontSize>
-            </fontSetAction>
-            <msgSendAction>
+            </setFontAction>
+            <sendMsgAction>
                 <prsCode>queryAcount</prsCode>
                 <conditions>302,304,307,333,334,335</conditions>
                 <nextStep>
@@ -156,7 +156,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>查询开始时间不能够大于结束时间</errMsg>
                     </notEqual>
                 </checkRules>
-            </msgSendAction>
+            </sendMsgAction>
         </action>
     </component>
     <component>
@@ -172,10 +172,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>查询</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>18</fontSize>
-            </fontSetAction>
-            <msgSendAction>
+            </setFontAction>
+            <sendMsgAction>
                 <prsCode>queryAcount</prsCode>
                 <cmdCode>222</cmdCode>
                 <conditions>302,304,307</conditions>
@@ -187,7 +187,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <nextPanel>970</nextPanel>
                     <display>971</display>
                 </exception>
-            </msgSendAction>
+            </sendMsgAction>
         </action>
     </component>
     <component>
@@ -215,12 +215,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     </parameter>-->
                 </constructorParameters>
             </customizedAction>
-            <comboShowAction>
+            <showComboBoxAction>
                 <items>/, ACTION1/刷接触式卡, ACTION2/刷磁条卡, ACTION3/插入IC卡</items>
-            </comboShowAction>
-            <mediaPlayAction>
+            </showComboBoxAction>
+            <playMediaAction>
                 <media>./media/goodbye.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
         </action>
     </component>
     <component>
@@ -255,9 +255,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <limitInputAction>
                 <length>6</length>
             </limitInputAction>
-            <mediaPlayAction>
+            <playMediaAction>
                 <media>./media/song.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
         </action>
     </component>
     <component>
@@ -337,14 +337,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <debug>false</debug>
             </attribute>
             <action>
-                <fontSetAction>
+                <setFontAction>
                     <fontSize>15</fontSize>
-                </fontSetAction>
+                </setFontAction>
             </action>
             <action>
-                <tableShowAction>
+                <showTableAction>
                     <columnNames>流水号, 名称, 开始时间, 结束时间, 费用</columnNames>
-                </tableShowAction>
+                </showTableAction>
             </action>
         </component>
     </decorator>

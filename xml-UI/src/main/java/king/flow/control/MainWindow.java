@@ -59,7 +59,6 @@ import king.flow.action.business.WriteCardAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
 import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
-import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.adjustByResolution;
 import static king.flow.common.CommonUtil.buildListParameters;
 import static king.flow.common.CommonUtil.createFont;
@@ -358,7 +357,7 @@ public class MainWindow {
     }
 
     private void doFileChooseAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.FileUploadAction fileUploadAction = actionNode.getFileUploadAction();
+        king.flow.view.Action.UploadFileAction fileUploadAction = actionNode.getUploadFileAction();
         if (fileUploadAction != null) {
             String filter = fileUploadAction.getFilter();
             String uploadPath = fileUploadAction.getUploadPath();
@@ -377,7 +376,7 @@ public class MainWindow {
     }
 
     private void doPrintAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.PrinterAction printerAction = actionNode.getPrinterAction();
+        king.flow.view.Action.SetPrinterAction printerAction = actionNode.getSetPrinterAction();
         if (printerAction != null) {
             String header = printerAction.getHeader();
             String tail = printerAction.getTail();
@@ -415,7 +414,7 @@ public class MainWindow {
     }
 
     private void doMediaPlayAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.MediaPlayAction mediaPlayAction = actionNode.getMediaPlayAction();
+        king.flow.view.Action.PlayMediaAction mediaPlayAction = actionNode.getPlayMediaAction();
         if (mediaPlayAction != null) {
             String media = mediaPlayAction.getMedia();
             DefaultMediaAction defaultMediaAction = new DefaultMediaAction(media);
@@ -480,7 +479,7 @@ public class MainWindow {
     }
 
     private void doComboShowAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.ComboShowAction comboShowAction = actionNode.getComboShowAction();
+        king.flow.view.Action.ShowComboBoxAction comboShowAction = actionNode.getShowComboBoxAction();
         if (comboShowAction != null) {
             String items = comboShowAction.getItems();
             ArrayList<String> listItems = buildListParameters(items);
@@ -490,7 +489,7 @@ public class MainWindow {
     }
 
     private void doTableShowAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.TableShowAction tableShowAction = actionNode.getTableShowAction();
+        king.flow.view.Action.ShowTableAction tableShowAction = actionNode.getShowTableAction();
         if (tableShowAction != null) {
             String columnNames = tableShowAction.getColumnNames();
             ArrayList<String> colsNames = buildListParameters(columnNames);
@@ -507,7 +506,7 @@ public class MainWindow {
     }
 
     private void doFontSetAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.FontSetAction fontSetAction = actionNode.getFontSetAction();
+        king.flow.view.Action.SetFontAction fontSetAction = actionNode.getSetFontAction();
         if (fontSetAction != null) {
             String name = fontSetAction.getFontName();
             Integer size = fontSetAction.getFontSize();
@@ -531,7 +530,7 @@ public class MainWindow {
     }
 
     private void doPanelJumpAction(king.flow.view.Action actionNode, Component component) {
-        JumpAction jumpPanelAction = actionNode.getButtonJumpPanelAction();
+        JumpAction jumpPanelAction = actionNode.getJumpPanelAction();
         if (jumpPanelAction != null) {
             int nextPanel = jumpPanelAction.getNextPanel();
             Action buttonAction = new DefaultButtonAction(nextPanel);

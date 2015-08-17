@@ -83,9 +83,9 @@
     <xs:complexType name="action">
         <xs:sequence>
             <xs:element name="customizedAction" type="defined_action" maxOccurs="unbounded" minOccurs="0"/>
-            <xs:element name="buttonJumpPanelAction" type="jump_action" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="jumpPanelAction" type="jump_action" maxOccurs="1" minOccurs="0"/>
             
-            <xs:element name="fontSetAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="setFontAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:sequence>
                         <xs:element name="fontName" type="xs:string" maxOccurs="1" minOccurs="0"/>
@@ -103,7 +103,7 @@
                 </xs:complexType>
             </xs:element>
 			
-            <xs:element name="fileUploadAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="uploadFileAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="filter" type="xs:string"/>
@@ -129,7 +129,7 @@
                 </xs:complexType>
             </xs:element>
             
-            <xs:element name="tableShowAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="showTableAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="columnNames" type="xs:string"/>
@@ -137,7 +137,7 @@
                 </xs:complexType>
             </xs:element>
             
-            <xs:element name="comboShowAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="showComboBoxAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="items" type="xs:string"/>
@@ -145,7 +145,7 @@
                 </xs:complexType>
             </xs:element>
             
-            <xs:element name="mediaPlayAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="playMediaAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="media" type="xs:string"/>
@@ -170,7 +170,7 @@
                 </xs:complexType>
             </xs:element>
             
-            <xs:element name="printerAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="setPrinterAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="header" type="xs:string"/>
@@ -332,7 +332,7 @@
         </xs:sequence>
     </xs:complexType>
     
-    <xs:simpleType name="devicetype_enum">
+    <xs:simpleType name="device_enum">
         <xs:restriction base="xs:string">
             <xs:enumeration  value="magnetCard"/>
             <xs:enumeration  value="ICCard"/>
@@ -347,7 +347,7 @@
             <xs:element name="device" maxOccurs="5" minOccurs="5">
                 <xs:complexType>
                     <xs:all>
-                        <xs:element name="type" type="devicetype_enum"/>
+                        <xs:element name="type" type="device_enum"/>
                         <xs:element name="port" type="xs:string"/>
                         <xs:element name="dll" type="xs:string"/>
                     </xs:all>
@@ -409,8 +409,8 @@
     <xs:element name="window" type="window">
         <xs:annotation>
             <xs:documentation>
-                xml配置文件是用来描述界面组件的关系,对应节点的定义请参照xsd文件
-                引用 http://www.freeformatter.com/xsd-generator.html
+                this type is used to define the window frame. window is the outer GUI container
+                refer to http://www.freeformatter.com/xsd-generator.html
                 http://www.w3schools.com/schema/schema_elements_ref.asp
             </xs:documentation>
         </xs:annotation>
@@ -419,8 +419,8 @@
     <xs:element name="panel" type="panel">
         <xs:annotation>
             <xs:documentation>
-                xml配置文件是用来描述界面组件的关系,对应节点的定义请参照xsd文件
-                引用 http://www.freeformatter.com/xsd-generator.html
+                this type is used to define the page. Page is the internal GUI container
+                refer to http://www.freeformatter.com/xsd-generator.html
                 http://www.w3schools.com/schema/schema_elements_ref.asp
             </xs:documentation>
         </xs:annotation>

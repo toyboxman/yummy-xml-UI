@@ -14,28 +14,40 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for panel_enum.
+ * <p>Java class for device_enum.
  * 
  * <p>The following schema fragment specifies the expected content contained within this class.
  * <p>
  * <pre>
- * &lt;simpleType name="panel_enum">
+ * &lt;simpleType name="device_enum">
  *   &lt;restriction base="{http://www.w3.org/2001/XMLSchema}string">
- *     &lt;enumeration value="Panel"/>
+ *     &lt;enumeration value="magnetCard"/>
+ *     &lt;enumeration value="ICCard"/>
+ *     &lt;enumeration value="sensorCard"/>
+ *     &lt;enumeration value="printer"/>
+ *     &lt;enumeration value="keyboard"/>
  *   &lt;/restriction>
  * &lt;/simpleType>
  * </pre>
  * 
  */
-@XmlType(name = "panel_enum")
+@XmlType(name = "device_enum")
 @XmlEnum
-public enum PanelEnum {
+public enum DeviceEnum {
 
-    @XmlEnumValue("Panel")
-    PANEL("Panel");
+    @XmlEnumValue("magnetCard")
+    MAGNET_CARD("magnetCard"),
+    @XmlEnumValue("ICCard")
+    IC_CARD("ICCard"),
+    @XmlEnumValue("sensorCard")
+    SENSOR_CARD("sensorCard"),
+    @XmlEnumValue("printer")
+    PRINTER("printer"),
+    @XmlEnumValue("keyboard")
+    KEYBOARD("keyboard");
     private final String value;
 
-    PanelEnum(String v) {
+    DeviceEnum(String v) {
         value = v;
     }
 
@@ -43,8 +55,8 @@ public enum PanelEnum {
         return value;
     }
 
-    public static PanelEnum fromValue(String v) {
-        for (PanelEnum c: PanelEnum.values()) {
+    public static DeviceEnum fromValue(String v) {
+        for (DeviceEnum c: DeviceEnum.values()) {
             if (c.value.equals(v)) {
                 return c;
             }

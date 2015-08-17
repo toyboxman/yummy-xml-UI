@@ -25,9 +25,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>欢迎使用自助银行查询业务</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
     <component>
@@ -44,9 +44,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>100</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
     <component>
@@ -63,10 +63,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-            <printerAction>
+            <setPrinterAction>
                 <header>北京商业银行自助交易</header>
                 <tail>此凭条仅供参照请查询帐户明细核实,如有异议请联系客服中心:96588</tail>
-            </printerAction>
+            </setPrinterAction>
         </action>
     </component>
 </panel>

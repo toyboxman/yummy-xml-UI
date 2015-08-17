@@ -24,11 +24,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
             <text>查询</text>
         </attribute>
-        <action>
-            <fileChooseAction>
-                <filter>csv</filter>
-            </fileChooseAction>
-        </action>
     </component>
     <component>
         <id>360336</id>
@@ -43,9 +38,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>返回</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>200</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
     <component>
@@ -60,9 +55,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <tableShowAction>
+            <showTableAction>
                 <columnNames>流水号, 名称, 开始时间, 结束时间, 费用</columnNames>
-            </tableShowAction>
+            </showTableAction>
         </action>
     </component>
 </panel>
