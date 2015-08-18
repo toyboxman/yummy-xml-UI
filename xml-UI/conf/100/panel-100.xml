@@ -133,19 +133,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <customizedAction>
-                <className>king.flow.action.customization.FingerPrintDriverAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>boolean</type>
-                        <value>true</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>104</value>
-                    </parameter>
-                </constructorParameters>
-            </customizedAction>
+            <rwFingerPrintAction>
+                <nextCursor>104</nextCursor>
+                <writePrint>true</writePrint>
+            </rwFingerPrintAction>
         </action>
     </component>
     <component>

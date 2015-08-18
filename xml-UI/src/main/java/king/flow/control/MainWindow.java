@@ -56,6 +56,7 @@ import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.InsertCardAction;
 import king.flow.action.business.MoveCursorAction;
+import king.flow.action.business.RWFingerPrintAction;
 import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
 import king.flow.common.CommonConstants;
@@ -332,6 +333,19 @@ public class MainWindow {
             doMoveCursorAction(actionNode, component);
 
             doSwipeCardAction(actionNode, component);
+
+            doReadWriteFingerPrintAction(actionNode, component);
+        }
+    }
+
+    private void doReadWriteFingerPrintAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.RwFingerPrintAction rwFingerPrintAction = actionNode.getRwFingerPrintAction();
+        if (rwFingerPrintAction != null) {
+            Integer nextCursor = rwFingerPrintAction.getNextCursor();
+            Boolean isWrite = rwFingerPrintAction.isWritePrint();
+            nextCursor = nextCursor == null ? component.getId() : nextCursor;
+            RWFingerPrintAction readWriteAction = isWrite == null ? new RWFingerPrintAction(nextCursor) : new RWFingerPrintAction(nextCursor, isWrite);
+            doAction(readWriteAction, component.getId());
         }
     }
 
