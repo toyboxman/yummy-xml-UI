@@ -56,6 +56,7 @@ import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.InsertCardAction;
 import king.flow.action.business.MoveCursorAction;
+import king.flow.action.business.OpenBrowserAction;
 import king.flow.action.business.RWFingerPrintAction;
 import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
@@ -335,6 +336,17 @@ public class MainWindow {
             doSwipeCardAction(actionNode, component);
 
             doReadWriteFingerPrintAction(actionNode, component);
+
+            doOpenBroswerAction(actionNode, component);
+        }
+    }
+
+    private void doOpenBroswerAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.OpenBrowserAction openBroswerAction = actionNode.getOpenBrowserAction();
+        if (openBroswerAction != null) {
+            String url = openBroswerAction.getUrl();
+            OpenBrowserAction openBroswer = new OpenBrowserAction(url);
+            doAction(openBroswer, component.getId());
         }
     }
 

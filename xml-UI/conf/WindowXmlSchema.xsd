@@ -206,6 +206,14 @@
                 </xs:complexType>
             </xs:element>
             
+            <xs:element name="openBrowserAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="url" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
             <xs:element name="webLoadAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
