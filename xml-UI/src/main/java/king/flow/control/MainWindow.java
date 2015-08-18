@@ -56,6 +56,7 @@ import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.InsertCardAction;
 import king.flow.action.business.MoveCursorAction;
+import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
@@ -327,8 +328,21 @@ public class MainWindow {
             doWriteICardAction(actionNode, component);
 
             doChooseFileAction(actionNode, component);
-            
+
             doMoveCursorAction(actionNode, component);
+
+            doSwipeCardAction(actionNode, component);
+        }
+    }
+
+    private void doSwipeCardAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.SwipeCardAction swipeCardAction = actionNode.getSwipeCardAction();
+        if (swipeCardAction != null) {
+            Integer nextCursor = swipeCardAction.getNextCursor();
+            Boolean editable = swipeCardAction.isEditable();
+            nextCursor = nextCursor == null ? component.getId() : nextCursor;
+            ReadCardAction readCardAction = editable == null ? new ReadCardAction(nextCursor) : new ReadCardAction(nextCursor, editable);
+            doAction(readCardAction, component.getId());
         }
     }
 

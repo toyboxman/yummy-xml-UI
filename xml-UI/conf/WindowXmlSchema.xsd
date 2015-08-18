@@ -188,6 +188,15 @@
                 </xs:complexType>
             </xs:element>
             
+            <xs:element name="swipeCardAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="nextCursor" type="xs:unsignedShort" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="editable" type="xs:boolean" maxOccurs="1" minOccurs="0"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
             <xs:element name="webLoadAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
