@@ -42,6 +42,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <dll>emptydll</dll>
         </device>
         <device>
+            <type>twoInOneCard</type>
+            <port>com3</port>
+            <dll>emptydll</dll>
+        </device>
+        <device>
             <type>printer</type>
             <port>com3</port>
             <dll>emptydll</dll>

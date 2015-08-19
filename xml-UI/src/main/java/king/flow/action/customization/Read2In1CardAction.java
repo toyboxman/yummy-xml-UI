@@ -3,91 +3,38 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package king.flow.action.business;
+package king.flow.action.customization;
 
-import java.awt.event.ItemEvent;
-import java.awt.event.ItemListener;
 import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
-import javax.swing.JComboBox;
 import javax.swing.JComponent;
 import javax.swing.SwingWorker;
-import javax.swing.UIDefaults;
-import king.flow.action.DefaultAction;
+import king.flow.action.business.ReadCardAction;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.showMsg;
-import static king.flow.common.CommonUtil.swipeICCard;
-import static king.flow.common.CommonUtil.swipeMagnetCard;
+import static king.flow.common.CommonUtil.check2In1Card;
 
 /**
  *
- * @author LiuJin
+ * @author liujin
  */
-public class ReadCardAction extends DefaultAction<JComboBox> {
+public class Read2In1CardAction extends ReadCardAction {
 
-    protected final int nextFocus;
-    protected final boolean editable;
-
-    public ReadCardAction(int nextFocus) {
-        this.nextFocus = nextFocus;
-        this.editable = true;
-    }
-
-    public ReadCardAction(int nextFocus, boolean editable) {
-        this.nextFocus = nextFocus;
-        this.editable = editable;
+    public Read2In1CardAction(int nextFocus) {
+        super(nextFocus);
     }
 
     @Override
-    public void setupListener() {
-        owner.addItemListener(new ItemListener() {
-
-            @Override
-            public void itemStateChanged(ItemEvent e) {
-                int stateChange = e.getStateChange();
-                if (stateChange == ItemEvent.SELECTED && e.getItemSelectable().getSelectedObjects() != null) {
-                    String value = e.getItem().toString();
-                    if (value.startsWith("ACTION")) {
-                        owner.setSelectedIndex(-1);
-                        owner.hidePopup();
-                        readCard(value);
-                    }
-                }
-            }
-
-        });
-    }
-
     protected void readCard(String value) {
-        waitCommunicationTask(new SwipeCardTask(value));
+        waitCommunicationTask(new Swipe2In1CardTask(value));
     }
 
-    @Override
-    public void initializeData() {
-        if (editable) {
-            owner.setEditable(true);
-            /**
-             * change one component ui configuration
-             * http://docs.oracle.com/javase/7/docs/api/javax/swing/plaf/nimbus/package-summary.html
-             * http://www.jasperpotts.com/blog/2008/08/skinning-a-slider-with-nimbus/
-             *
-             */
-            UIDefaults ui_conf = new UIDefaults();
-            ui_conf.put("ComboBox.squareButton", Boolean.TRUE);
-            owner.putClientProperty("Nimbus.Overrides", ui_conf);
-            owner.putClientProperty("Nimbus.Overrides.InheritDefaults", false);
-//        SwingUtilities.updateComponentTreeUI(owner);
-        } else {
-            owner.setEditable(false);
-        }
-    }
-
-    private class SwipeCardTask extends SwingWorker<String, Integer> {
+    private class Swipe2In1CardTask extends SwingWorker<String, Integer> {
 
         private final String actionCommand;
 
-        public SwipeCardTask(String actionCommand) {
+        public Swipe2In1CardTask(String actionCommand) {
             this.actionCommand = actionCommand;
         }
 
@@ -95,16 +42,12 @@ public class ReadCardAction extends DefaultAction<JComboBox> {
         protected String doInBackground() throws Exception {
             Thread.sleep(1000);
             switch (actionCommand) {
-                case "ACTION1":
-
+                case "ACTION4":
+                    int cardReading = check2In1Card();
                     break;
-                case "ACTION2":
-                    return swipeMagnetCard();
-                case "ACTION3":
-                    return swipeICCard();
                 default:
-                    getLogger(SwipeCardTask.class.getName()).log(Level.WARNING,
-                            "Unknown swipe card action happens {0}", actionCommand);
+                    getLogger(Swipe2In1CardTask.class.getName()).log(Level.WARNING,
+                            "Unknown swipe card action {0} happens in 2in1 reading device", actionCommand);
             }
             return null;
         }

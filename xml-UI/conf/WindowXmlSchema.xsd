@@ -372,6 +372,7 @@
             <xs:enumeration  value="magnetCard"/>
             <xs:enumeration  value="ICCard"/>
             <xs:enumeration  value="sensorCard"/>
+            <xs:enumeration  value="twoInOneCard"/>
             <xs:enumeration  value="printer"/>
             <xs:enumeration  value="keyboard"/>
         </xs:restriction>
@@ -379,7 +380,7 @@
     
     <xs:complexType name="driver">
         <xs:sequence>
-            <xs:element name="device" maxOccurs="5" minOccurs="5">
+            <xs:element name="device" maxOccurs="10" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="type" type="device_enum"/>

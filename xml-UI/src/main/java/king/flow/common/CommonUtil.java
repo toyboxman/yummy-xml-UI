@@ -55,6 +55,7 @@ import king.flow.control.driver.ICCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
 import king.flow.control.driver.MagnetCardConductor;
 import king.flow.control.driver.PrinterConductor;
+import king.flow.control.driver.TwoInOneCardConductor;
 import king.flow.data.RegistryTLSResult;
 import king.flow.data.TLS;
 import king.flow.data.TLSResult;
@@ -69,6 +70,7 @@ import static king.flow.view.DeviceEnum.IC_CARD;
 import static king.flow.view.DeviceEnum.KEYBOARD;
 import static king.flow.view.DeviceEnum.MAGNET_CARD;
 import static king.flow.view.DeviceEnum.PRINTER;
+import static king.flow.view.DeviceEnum.TWO_IN_ONE_CARD;
 import king.flow.view.FontstyleEnum;
 import static king.flow.view.FontstyleEnum.BOLD;
 import static king.flow.view.FontstyleEnum.ITALIC;
@@ -551,6 +553,22 @@ public class CommonUtil {
         ICCardConductor icCardConductor = new ICCardConductor();
         String errMsg = "";
         String cardNumber = icCardConductor.readCard(getDriverPort(IC_CARD), errMsg);
+        return cardNumber;
+    }
+
+    public static int check2In1Card() {
+        System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
+        TwoInOneCardConductor TIOCardConductor = new TwoInOneCardConductor();
+        String errMsg = "";
+        int checkResult = TIOCardConductor.checkCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
+        return checkResult;
+    }
+
+    public static String swipe2In1Card() {
+        System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
+        TwoInOneCardConductor TIOCardConductor = new TwoInOneCardConductor();
+        String errMsg = "";
+        String cardNumber = TIOCardConductor.readCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
         return cardNumber;
     }
 
