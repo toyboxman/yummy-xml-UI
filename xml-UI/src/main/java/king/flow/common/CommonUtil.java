@@ -556,9 +556,10 @@ public class CommonUtil {
         return cardNumber;
     }
 
+    private static final TwoInOneCardConductor TIOCardConductor = new TwoInOneCardConductor();
+
     public static int check2In1Card() {
         System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
-        TwoInOneCardConductor TIOCardConductor = new TwoInOneCardConductor();
         String errMsg = "";
         int checkResult = TIOCardConductor.checkCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
         return checkResult;
@@ -566,7 +567,6 @@ public class CommonUtil {
 
     public static String swipe2In1Card() {
         System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
-        TwoInOneCardConductor TIOCardConductor = new TwoInOneCardConductor();
         String errMsg = "";
         String cardNumber = TIOCardConductor.readCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
         return cardNumber;

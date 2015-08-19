@@ -68,4 +68,9 @@ public class CommonConstants {
     public static final String ADVANCED_TABLE_TOTAL_PAGES = "total";
     public static final String ADVANCED_TABLE_VALUE = "value";
     public static final String ADVANCED_TABLE_CURRENT_PAGE = "current";
+    
+    /* card-reading state */
+    public static final int INVALID_CARD_STATE = -1;
+    public static final int MAGNET_CARD_STATE = 2;
+    public static final int IC_CARD_STATE = 3;
 }
