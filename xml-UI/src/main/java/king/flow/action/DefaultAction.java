@@ -169,7 +169,9 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
         dialog.setModal(true);
         dialog.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
         JLabel progressAnimation = new JLabel(UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS));
-        progressAnimation.setBounds(0, 0, 252, 256);
+        Point centerPoint = GraphicsEnvironment.getLocalGraphicsEnvironment().getCenterPoint();
+        progressAnimation.setBounds(centerPoint.x - 128, centerPoint.y - 128, 256, 256);
+//        progressAnimation.setBorder(new LineBorder(Color.red, 2));
         dialog.getContentPane().add(progressAnimation, 0);
         dialog.setUndecorated(true);
         dialog.setDefaultCloseOperation(WindowConstants.DO_NOTHING_ON_CLOSE);

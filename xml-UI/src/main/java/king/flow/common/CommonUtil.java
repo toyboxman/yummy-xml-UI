@@ -886,4 +886,15 @@ public class CommonUtil {
         adjustment.setHeigh(BigInteger.valueOf(Math.round(rawRect.getHeigh().doubleValue() * HEIGHT_SCALE)));
         return adjustment;
     }
+
+    private static king.flow.view.Window windowNode = null;
+
+    public static king.flow.view.Window getWindowNode() {
+        return windowNode;
+    }
+
+    public static void setWindowNode(king.flow.view.Window windowNode) {
+        CommonUtil.windowNode = windowNode;
+    }
+
 }

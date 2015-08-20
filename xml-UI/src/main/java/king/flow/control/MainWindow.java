@@ -71,6 +71,7 @@ import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.setFont;
 import static king.flow.common.CommonUtil.getImageIcon;
 import static king.flow.common.CommonUtil.setCurrentView;
+import static king.flow.common.CommonUtil.setWindowNode;
 import static king.flow.control.BankAppStarter.DEFAULT_BANK_APP_ICON;
 import king.flow.design.FlowProcessor;
 import king.flow.swing.JXMsgPanel;
@@ -115,6 +116,7 @@ public class MainWindow {
 
     public MainWindow(king.flow.view.Window node) {
         this.winNode = node;
+        setWindowNode(winNode);
         this.building_blocks = new HashMap<>();
         this.meta_blocks = new HashMap<>();
         this.panelNodes = new ArrayList<>();
@@ -349,8 +351,10 @@ public class MainWindow {
         if (swipe2In1CardAction != null) {
             Integer nextCursor = swipe2In1CardAction.getNextCursor();
             Boolean editable = swipe2In1CardAction.isEditable();
+            String mediaTip = swipe2In1CardAction.getMediaTip();
             nextCursor = nextCursor == null ? component.getId() : nextCursor;
-            Read2In1CardAction read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor) : new Read2In1CardAction(nextCursor, editable);
+            Read2In1CardAction read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor, mediaTip)
+                    : new Read2In1CardAction(nextCursor, editable, mediaTip);
             doAction(read2In1CardAction, component.getId());
         }
     }
@@ -370,7 +374,8 @@ public class MainWindow {
             Integer nextCursor = rwFingerPrintAction.getNextCursor();
             Boolean isWrite = rwFingerPrintAction.isWritePrint();
             nextCursor = nextCursor == null ? component.getId() : nextCursor;
-            RWFingerPrintAction readWriteAction = isWrite == null ? new RWFingerPrintAction(nextCursor) : new RWFingerPrintAction(nextCursor, isWrite);
+            RWFingerPrintAction readWriteAction = isWrite == null ? new RWFingerPrintAction(nextCursor)
+                    : new RWFingerPrintAction(nextCursor, isWrite);
             doAction(readWriteAction, component.getId());
         }
     }
@@ -381,7 +386,8 @@ public class MainWindow {
             Integer nextCursor = swipeCardAction.getNextCursor();
             Boolean editable = swipeCardAction.isEditable();
             nextCursor = nextCursor == null ? component.getId() : nextCursor;
-            ReadCardAction readCardAction = editable == null ? new ReadCardAction(nextCursor) : new ReadCardAction(nextCursor, editable);
+            ReadCardAction readCardAction = editable == null ? new ReadCardAction(nextCursor)
+                    : new ReadCardAction(nextCursor, editable);
             doAction(readCardAction, component.getId());
         }
     }
