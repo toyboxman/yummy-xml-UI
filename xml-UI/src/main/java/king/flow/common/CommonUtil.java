@@ -565,10 +565,10 @@ public class CommonUtil {
         return checkResult;
     }
 
-    public static String swipe2In1Card() {
+    public static String swipe2In1Card(int type) {
         System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
         String errMsg = "";
-        String cardNumber = TIOCardConductor.readCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
+        String cardNumber = TIOCardConductor.readCard(getDriverPort(TWO_IN_ONE_CARD), type, errMsg);
         return cardNumber;
     }
 

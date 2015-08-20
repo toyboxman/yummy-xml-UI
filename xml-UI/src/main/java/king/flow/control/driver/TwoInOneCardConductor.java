@@ -29,10 +29,11 @@ public class TwoInOneCardConductor {
      * That means this method will return either empty string or valid result
      *
      * @param comPort
+     * @param card type 2 means magnet card, 3 means IC card
      * @param errMsg
      * @return card information
      * <br> valid string of card information
      * <br> empty string meaning timeout of driver reading
      */
-    public native String readCard(String comPort, String errMsg);
+    public native String readCard(String comPort, int type, String errMsg);
 }

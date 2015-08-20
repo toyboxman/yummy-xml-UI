@@ -57,7 +57,7 @@ public class Read2In1CardAction extends ReadCardAction {
 
                             break;
                         case CommonConstants.IC_CARD_STATE:
-                            String cardInfo = swipe2In1Card();// driver will blocking thread and wait IC card information return
+                            String cardInfo = swipe2In1Card(CommonConstants.IC_CARD_STATE);// driver will blocking thread and wait IC card information return
                             if (cardInfo == null || cardInfo.length() == 0) {
                                 //fail to read card information
                                 getLogger(Swipe2In1CardTask.class.getName()).log(Level.WARNING,
@@ -66,6 +66,8 @@ public class Read2In1CardAction extends ReadCardAction {
                             } else {
                                 getLogger(Swipe2In1CardTask.class.getName()).log(Level.INFO,
                                         "Reading information {0} from IC card", cardInfo);
+                                // need to change raw card information format
+                                
                             }
                             break;
                         case CommonConstants.INVALID_CARD_STATE:

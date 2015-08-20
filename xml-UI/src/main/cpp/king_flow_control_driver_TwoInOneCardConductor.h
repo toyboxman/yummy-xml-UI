@@ -18,10 +18,10 @@ JNIEXPORT jint JNICALL Java_king_flow_control_driver_TwoInOneCardConductor_check
 /*
  * Class:     king_flow_control_driver_TwoInOneCardConductor
  * Method:    readCard
- * Signature: (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ * Signature: (Ljava/lang/String;ILjava/lang/String;)Ljava/lang/String;
  */
 JNIEXPORT jstring JNICALL Java_king_flow_control_driver_TwoInOneCardConductor_readCard
-  (JNIEnv *, jobject, jstring, jstring);
+  (JNIEnv *, jobject, jstring, jint, jstring);
 
 #ifdef __cplusplus
 }
