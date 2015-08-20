@@ -53,15 +53,24 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
     <component>
         <id>370004</id>
-        <type>TextField</type>
+        <type>ComboBox</type>
         <attribute>
             <rect>
                 <x>270</x>
                 <y>350</y>
-                <width>200</width>
+                <width>300</width>
                 <heigh>50</heigh>
             </rect>
         </attribute>
+        <action>
+            <showComboBoxAction>
+                <items>/, ACTION4/刷卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>370004</nextCursor>
+                <editable>true</editable>
+            </swipe2In1CardAction>
+        </action>
     </component>
     <component>
         <id>370005</id>

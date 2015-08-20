@@ -3,15 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package king.flow.action.customization;
+package king.flow.action.business;
 
+import java.awt.Color;
 import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
 import javax.swing.JComponent;
+import javax.swing.JDialog;
+import javax.swing.JLabel;
+import javax.swing.SwingConstants;
 import javax.swing.SwingWorker;
-import king.flow.action.business.ReadCardAction;
+import javax.swing.border.LineBorder;
 import king.flow.common.CommonConstants;
-import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.showMsg;
@@ -34,8 +37,16 @@ public class Read2In1CardAction extends ReadCardAction {
 
     @Override
     protected void readCard(String value) {
-        waitCommunicationTask(new Swipe2In1CardTask(value));
+        progressTip = new JLabel(getResourceMsg("operation.card.insert.prompt"));
+        progressTip.setHorizontalTextPosition(SwingConstants.CENTER);
+        progressTip.setBounds(0, 0, 100, 50);
+        progressTip.setBorder(new LineBorder(Color.RED, 2));
+        final JDialog progressAnimation = buildAnimationDialog();
+//        progressAnimation.getContentPane().add(progressTip, 1);
+        waitCommunicationTask(new Swipe2In1CardTask(value), progressAnimation);
     }
+
+    protected JLabel progressTip;
 
     private class Swipe2In1CardTask extends SwingWorker<String, Integer> {
 
@@ -51,13 +62,27 @@ public class Read2In1CardAction extends ReadCardAction {
             Thread.sleep(1000);
             switch (actionCommand) {
                 case "ACTION4":
+                    String cardInfo = null;
                     cardReadingState = check2In1Card();
                     switch (cardReadingState) {
                         case CommonConstants.MAGNET_CARD_STATE:
+                            // should show tip to user and play audio prompt
+                            progressTip.setText(getResourceMsg("operation.card.draw.prompt"));
+                            cardInfo = swipe2In1Card(CommonConstants.MAGNET_CARD_STATE);// driver will blocking thread and wait magnet card information return
+                            if (cardInfo == null || cardInfo.length() == 0) {
+                                //fail to read card information
+                                getLogger(Swipe2In1CardTask.class.getName()).log(Level.WARNING,
+                                        "No magnet card information is read, probably card is invalid", cardReadingState);
+                                return null;
+                            } else {
+                                getLogger(Swipe2In1CardTask.class.getName()).log(Level.INFO,
+                                        "Reading information {0} from magnet card", cardInfo);
+                                // need to change raw card information format
 
+                            }
                             break;
                         case CommonConstants.IC_CARD_STATE:
-                            String cardInfo = swipe2In1Card(CommonConstants.IC_CARD_STATE);// driver will blocking thread and wait IC card information return
+                            cardInfo = swipe2In1Card(CommonConstants.IC_CARD_STATE);// driver will blocking thread and wait IC card information return
                             if (cardInfo == null || cardInfo.length() == 0) {
                                 //fail to read card information
                                 getLogger(Swipe2In1CardTask.class.getName()).log(Level.WARNING,
@@ -67,7 +92,7 @@ public class Read2In1CardAction extends ReadCardAction {
                                 getLogger(Swipe2In1CardTask.class.getName()).log(Level.INFO,
                                         "Reading information {0} from IC card", cardInfo);
                                 // need to change raw card information format
-                                
+
                             }
                             break;
                         case CommonConstants.INVALID_CARD_STATE:

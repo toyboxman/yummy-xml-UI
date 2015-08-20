@@ -60,6 +60,7 @@ import king.flow.action.business.OpenBrowserAction;
 import king.flow.action.business.RWFingerPrintAction;
 import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
+import king.flow.action.business.Read2In1CardAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
 import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
@@ -338,6 +339,19 @@ public class MainWindow {
             doReadWriteFingerPrintAction(actionNode, component);
 
             doOpenBroswerAction(actionNode, component);
+
+            doSwipe2In1CardAction(actionNode, component);
+        }
+    }
+
+    private void doSwipe2In1CardAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction = actionNode.getSwipe2In1CardAction();
+        if (swipe2In1CardAction != null) {
+            Integer nextCursor = swipe2In1CardAction.getNextCursor();
+            Boolean editable = swipe2In1CardAction.isEditable();
+            nextCursor = nextCursor == null ? component.getId() : nextCursor;
+            Read2In1CardAction read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor) : new Read2In1CardAction(nextCursor, editable);
+            doAction(read2In1CardAction, component.getId());
         }
     }
 

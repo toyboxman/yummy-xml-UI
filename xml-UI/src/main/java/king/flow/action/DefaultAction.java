@@ -116,14 +116,13 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
         }
     }
 
-    public <T extends SwingWorker> void waitCommunicationTask(T task, boolean opaque) {
+    public <T extends SwingWorker> void waitCommunicationTask(T task, JDialog animation) {
         if (task != null) {
-            if (opaque) {
-                final JDialog dialog = buildAnimationDialog();
-                setCursorBusy(true, dialog);
-                task.addPropertyChangeListener(new ProgressMonitor(dialog));
+            if (animation != null) {
+                setCursorBusy(true, animation);
+                task.addPropertyChangeListener(new ProgressMonitor(animation));
                 task.execute();
-                dialog.setVisible(true);
+                animation.setVisible(true);
             } else {
                 waitCommunicationTask(task);
             }
@@ -165,16 +164,13 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
         return dialog;
     }
 
-    private JDialog buildAnimationDialog() {
+    protected JDialog buildAnimationDialog() {
         JDialog dialog = new JDialog((Window) owner.getTopLevelAncestor());
         dialog.setModal(true);
-        Dimension dim = new Dimension(252, 256);
         dialog.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
         JLabel progressAnimation = new JLabel(UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS));
-        Dimension ani_dim = new Dimension(dim);
-        progressAnimation.setBounds(0, 0, (int) ani_dim.getWidth()+150, (int) ani_dim.getHeight());
+        progressAnimation.setBounds(0, 0, 252, 256);
         dialog.getContentPane().add(progressAnimation, 0);
-
         dialog.setUndecorated(true);
         dialog.setDefaultCloseOperation(WindowConstants.DO_NOTHING_ON_CLOSE);
         return dialog;

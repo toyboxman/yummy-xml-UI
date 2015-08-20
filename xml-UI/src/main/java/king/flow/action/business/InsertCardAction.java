@@ -34,7 +34,7 @@ public class InsertCardAction extends DefaultBaseAction {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                waitCommunicationTask(new ReadCardTask(), true);
+                waitCommunicationTask(new ReadCardTask(), buildAnimationDialog());
             }
         });
     }
