@@ -69,6 +69,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>370004</nextCursor>
                 <editable>true</editable>
+                <mediaTip>tip.wav</mediaTip>
             </swipe2In1CardAction>
         </action>
     </component>
