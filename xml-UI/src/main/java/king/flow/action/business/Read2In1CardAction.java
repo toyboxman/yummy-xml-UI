@@ -5,7 +5,6 @@
  */
 package king.flow.action.business;
 
-import java.awt.Font;
 import java.io.File;
 import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
@@ -15,7 +14,6 @@ import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 import javax.swing.SwingWorker;
 import javax.swing.plaf.FontUIResource;
-import king.flow.action.DefaultMediaAction;
 import king.flow.common.AudioPlayer;
 import static king.flow.common.AudioPlayer.getAudioPlayer;
 import king.flow.common.CommonConstants;
@@ -23,7 +21,6 @@ import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.getWindowNode;
-import static king.flow.common.CommonUtil.setFont;
 import static king.flow.common.CommonUtil.showMsg;
 import static king.flow.common.CommonUtil.swipe2In1Card;
 import king.flow.view.UiStyle;

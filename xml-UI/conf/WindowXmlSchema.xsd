@@ -232,6 +232,14 @@
                 </xs:complexType>
             </xs:element>
             
+            <xs:element name="printPassbookAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="tableId" type="xs:unsignedShort"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
             <xs:element name="sendMsgAction" type="msgSendAction" maxOccurs="1" minOccurs="0"/>
             
             <xs:element name="insertICardAction" maxOccurs="1" minOccurs="0">

@@ -57,6 +57,7 @@ import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.InsertCardAction;
 import king.flow.action.business.MoveCursorAction;
 import king.flow.action.business.OpenBrowserAction;
+import king.flow.action.business.PrintPassbookAction;
 import king.flow.action.business.RWFingerPrintAction;
 import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
@@ -343,6 +344,17 @@ public class MainWindow {
             doOpenBroswerAction(actionNode, component);
 
             doSwipe2In1CardAction(actionNode, component);
+
+            doPrintPassbookAction(actionNode, component);
+        }
+    }
+
+    private void doPrintPassbookAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.PrintPassbookAction printPassbookAction = actionNode.getPrintPassbookAction();
+        if (printPassbookAction != null) {
+            int tableId = printPassbookAction.getTableId();
+            PrintPassbookAction printPbAction = new PrintPassbookAction(tableId);
+            doAction(printPbAction, component.getId());
         }
     }
 
