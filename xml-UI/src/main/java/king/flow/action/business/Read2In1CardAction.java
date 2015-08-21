@@ -107,7 +107,7 @@ public class Read2In1CardAction extends ReadCardAction {
                                 getLogger(Swipe2In1CardTask.class.getName()).log(Level.INFO,
                                         "Reading information {0} from magnet card", cardInfo);
                                 // need to change raw card information format
-                                return cardInfo.substring(0, cardInfo.indexOf('='));
+                                return cardInfo.trim().substring(0, cardInfo.indexOf('='));
                             }
                         case CommonConstants.IC_CARD_STATE:
                             cardInfo = swipe2In1Card(CommonConstants.IC_CARD_STATE);// driver will blocking thread and wait IC card information return
@@ -120,7 +120,7 @@ public class Read2In1CardAction extends ReadCardAction {
                                 getLogger(Swipe2In1CardTask.class.getName()).log(Level.INFO,
                                         "Reading information {0} from IC card", cardInfo);
                                 // need to change raw card information format
-                                return cardInfo.substring(0, cardInfo.indexOf('='));
+                                return cardInfo.trim();
                             }
                         case CommonConstants.INVALID_CARD_STATE:
                             break;
