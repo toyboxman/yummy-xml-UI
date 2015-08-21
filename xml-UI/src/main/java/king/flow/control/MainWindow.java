@@ -364,9 +364,10 @@ public class MainWindow {
             Integer nextCursor = swipe2In1CardAction.getNextCursor();
             Boolean editable = swipe2In1CardAction.isEditable();
             String mediaTip = swipe2In1CardAction.getMediaTip();
+            String animationTip = swipe2In1CardAction.getAnimationTip();
             nextCursor = nextCursor == null ? component.getId() : nextCursor;
-            Read2In1CardAction read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor, mediaTip)
-                    : new Read2In1CardAction(nextCursor, editable, mediaTip);
+            Read2In1CardAction read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor, mediaTip, animationTip)
+                    : new Read2In1CardAction(nextCursor, editable, mediaTip, animationTip);
             doAction(read2In1CardAction, component.getId());
         }
     }

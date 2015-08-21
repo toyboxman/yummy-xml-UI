@@ -15,6 +15,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
+import javax.swing.ImageIcon;
 import javax.swing.JComboBox;
 import javax.swing.JComponent;
 import javax.swing.JDialog;
@@ -164,13 +165,24 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
         return dialog;
     }
 
-    protected JDialog buildAnimationDialog() {
+    protected JDialog buildAnimationDialog(String animationFile) {
         JDialog dialog = new JDialog((Window) owner.getTopLevelAncestor());
         dialog.setModal(true);
         dialog.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
-        JLabel progressAnimation = new JLabel(UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS));
+
         Point centerPoint = GraphicsEnvironment.getLocalGraphicsEnvironment().getCenterPoint();
-        progressAnimation.setBounds(centerPoint.x - 128, centerPoint.y - 128, 256, 256);
+        JLabel progressAnimation = null;
+        if (animationFile == null) {
+            progressAnimation = new JLabel(UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS));
+            progressAnimation.setBounds(centerPoint.x - 128, centerPoint.y - 128, 256, 256);
+        } else {
+            final ImageIcon animation = CommonUtil.getImageIcon(animationFile);
+            progressAnimation = new JLabel(animation);
+            progressAnimation.setBounds(centerPoint.x - (animation.getIconWidth() / 2),
+                    centerPoint.y - (animation.getIconHeight() / 2),
+                    animation.getIconWidth(),
+                    animation.getIconHeight());
+        }
 //        progressAnimation.setBorder(new LineBorder(Color.red, 2));
         dialog.getContentPane().add(progressAnimation, 0);
         dialog.setUndecorated(true);

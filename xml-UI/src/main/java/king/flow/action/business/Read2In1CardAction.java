@@ -33,15 +33,18 @@ import king.flow.view.Window;
 public class Read2In1CardAction extends ReadCardAction {
 
     private final String mediaFile;
+    private final String animationFile;
 
-    public Read2In1CardAction(int nextFocus, String media) {
+    public Read2In1CardAction(int nextFocus, String media, String animation) {
         super(nextFocus);
         this.mediaFile = media;
+        this.animationFile = animation;
     }
 
-    public Read2In1CardAction(int nextFocus, boolean editable, String media) {
+    public Read2In1CardAction(int nextFocus, boolean editable, String media, String animation) {
         super(nextFocus, editable);
         this.mediaFile = media;
+        this.animationFile = animation;
     }
 
     @Override
@@ -57,7 +60,7 @@ public class Read2In1CardAction extends ReadCardAction {
         progressTip.setHorizontalAlignment(SwingConstants.CENTER);
         progressTip.setVerticalAlignment(SwingConstants.BOTTOM);
 //        progressTip.setBorder(new LineBorder(Color.RED, 2));
-        final JDialog progressAnimation = buildAnimationDialog();
+        final JDialog progressAnimation = buildAnimationDialog(this.animationFile);
         progressTip.setBounds(0, 0, progressAnimation.getBounds().width, 80);
         progressAnimation.getContentPane().add(progressTip, 1);
         progressAnimation.getContentPane().add(new JLabel(), 2);//this is pad label, otherwise progressTip will become fullscreen bound
