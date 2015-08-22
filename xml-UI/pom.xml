@@ -31,8 +31,10 @@
     </build>
     <repositories>
         <repository>
-            <id>unknown-jars-temp-repo</id>
-            <name>A temporary repository created by NetBeans for libraries and jars it could not identify. Please replace the dependencies in this repository with correct ones and delete this repository.</name>
+            <id>local-repo</id>
+            <name>A temporary repository created by NetBeans for libraries and jars it could not
+                identify. Please replace the dependencies in this repository with correct ones and
+                delete this repository.</name>
             <url>file:${project.basedir}/lib</url>
         </repository>
     </repositories>
@@ -94,25 +96,25 @@
             <version>2.1.1e</version>
         </dependency>
         <dependency>
-            <groupId>natvie.component</groupId>
+            <groupId>native.component</groupId>
             <artifactId>DJNativeSwing</artifactId>
             <version>SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>natvie.component</groupId>
+            <groupId>native.component</groupId>
             <artifactId>DJNativeSwing-SWT</artifactId>
             <version>SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>natvie.component</groupId>
+            <groupId>native.component</groupId>
             <artifactId>MozillaInterfaces-1.8.1.3</artifactId>
             <version>SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>natvie.component</groupId>
+            <groupId>native.component</groupId>
             <artifactId>swt-4.3-win32-win32-x86</artifactId>
             <version>SNAPSHOT</version>
             <scope>compile</scope>
