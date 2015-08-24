@@ -24,6 +24,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.PropertyResourceBundle;
+import java.util.Random;
 import java.util.ResourceBundle;
 import java.util.Scanner;
 import java.util.Set;
@@ -677,11 +678,20 @@ public class CommonUtil {
     }
 
     public static boolean isValidResource(String name) {
-        return !(CommonUtil.class.getClass().getResource(name) == null);
+        return !(CommonUtil.class.getResource(name) == null);
     }
 
     public static ImageIcon getImageIcon(String icon) {
-        return isValidResource(icon) ? new ImageIcon(CommonUtil.class.getClass().getResource(icon)) : null;
+        return isValidResource(icon) ? new ImageIcon(CommonUtil.class.getResource(icon)) : null;
+    }
+
+    public static ImageIcon getDefaultBackgroundImage() {
+        int index = 0;
+        while (index == 0) {
+            index = new Random().nextInt(6);
+        }
+        String backgroundName = new StringBuilder("/image/").append(index).append(".jpg").toString();
+        return getImageIcon(backgroundName);
     }
 
     public static String sendMessage(String msg) throws Exception {
