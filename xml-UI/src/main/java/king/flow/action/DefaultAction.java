@@ -15,6 +15,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
+import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import javax.swing.JComboBox;
 import javax.swing.JComponent;
@@ -173,8 +174,12 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
         Point centerPoint = GraphicsEnvironment.getLocalGraphicsEnvironment().getCenterPoint();
         JLabel progressAnimation = null;
         if (animationFile == null) {
-            progressAnimation = new JLabel(UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS));
-            progressAnimation.setBounds(centerPoint.x - 128, centerPoint.y - 128, 256, 256);
+            final Icon defaultAnimation = UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS);
+            progressAnimation = new JLabel(defaultAnimation);
+            progressAnimation.setBounds(centerPoint.x - (defaultAnimation.getIconWidth() / 2),
+                    centerPoint.y - (defaultAnimation.getIconHeight() / 2),
+                    defaultAnimation.getIconWidth(),
+                    defaultAnimation.getIconHeight());
         } else {
             final ImageIcon animation = CommonUtil.getImageIcon(animationFile);
             progressAnimation = new JLabel(animation);
