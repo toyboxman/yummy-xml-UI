@@ -676,8 +676,12 @@ public class CommonUtil {
         TERMINAL_STATUS = status;
     }
 
+    public static boolean isValidResource(String name) {
+        return !(CommonUtil.class.getClass().getResource(name) == null);
+    }
+
     public static ImageIcon getImageIcon(String icon) {
-        return new ImageIcon(CommonUtil.class.getClass().getResource(icon));
+        return isValidResource(icon) ? new ImageIcon(CommonUtil.class.getClass().getResource(icon)) : null;
     }
 
     public static String sendMessage(String msg) throws Exception {

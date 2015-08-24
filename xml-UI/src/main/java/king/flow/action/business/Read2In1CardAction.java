@@ -53,15 +53,15 @@ public class Read2In1CardAction extends ReadCardAction {
         Window windowNode = getWindowNode();
         UiStyle uiStyle = windowNode.getUiStyle();
         if (uiStyle != null && uiStyle.getFont() != null && uiStyle.getFont().getName() != null) {
-            progressTip.setFont(new FontUIResource(uiStyle.getFont().getName(), java.awt.Font.BOLD, 45));
+            progressTip.setFont(new FontUIResource(uiStyle.getFont().getName(), java.awt.Font.BOLD, 50));
         } else {
-            progressTip.setFont(new FontUIResource("Dialog", java.awt.Font.BOLD, 45));
+            progressTip.setFont(new FontUIResource("Dialog", java.awt.Font.BOLD, 50));
         }
         progressTip.setHorizontalAlignment(SwingConstants.CENTER);
         progressTip.setVerticalAlignment(SwingConstants.BOTTOM);
 //        progressTip.setBorder(new LineBorder(Color.RED, 2));
         final JDialog progressAnimation = buildAnimationDialog(this.animationFile);
-        progressTip.setBounds(0, 0, progressAnimation.getBounds().width, 80);
+        progressTip.setBounds(0, 70, progressAnimation.getBounds().width, 80);
         progressAnimation.getContentPane().add(progressTip, 1);
         progressAnimation.getContentPane().add(new JLabel(), 2);//this is pad label, otherwise progressTip will become fullscreen bound
         waitCommunicationTask(new Swipe2In1CardTask(value), progressAnimation);
