@@ -173,7 +173,7 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
 
         Point centerPoint = GraphicsEnvironment.getLocalGraphicsEnvironment().getCenterPoint();
         JLabel progressAnimation = null;
-        if (animationFile == null) {
+        if (animationFile == null || DefaultAction.class.getClass().getResource(animationFile) == null) {
             final Icon defaultAnimation = UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS);
             progressAnimation = new JLabel(defaultAnimation);
             progressAnimation.setBounds(centerPoint.x - (defaultAnimation.getIconWidth() / 2),

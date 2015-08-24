@@ -29,7 +29,7 @@ public class TwoInOneCardConductor {
      * That means this method will return either empty string or valid result
      *
      * @param comPort
-     * @param card type 2 means magnet card, 3 means IC card
+     * @param card type, 2 means magnet card, 3 means IC card
      * @param errMsg
      * @return card information
      * <br> valid string of card information
