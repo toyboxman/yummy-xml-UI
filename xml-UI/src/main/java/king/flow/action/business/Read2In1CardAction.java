@@ -8,6 +8,7 @@ package king.flow.action.business;
 import java.io.File;
 import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
+import javax.swing.ImageIcon;
 import javax.swing.JComponent;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
@@ -63,7 +64,13 @@ public class Read2In1CardAction extends ReadCardAction {
         final JDialog progressAnimation = buildAnimationDialog(this.animationFile);
         progressTip.setBounds(0, 70, progressAnimation.getBounds().width, 80);
         progressAnimation.getContentPane().add(progressTip, 1);
-        progressAnimation.getContentPane().add(new JLabel(), 2);//this is pad label, otherwise progressTip will become fullscreen bound
+        final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
+        if (bgImage != null) {
+            progressAnimation.getContentPane().add(new JLabel(bgImage), 2);//this is pad label, otherwise progressTip will become fullscreen bound
+        } else {
+            progressAnimation.getContentPane().add(new JLabel(), 2);//this is pad label, otherwise progressTip will become fullscreen bound
+        }
+
         waitCommunicationTask(new Swipe2In1CardTask(value), progressAnimation);
     }
 
