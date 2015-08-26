@@ -437,7 +437,8 @@ public class MainWindow {
         if (insertICardAction != null) {
             int suceessfulPanel = insertICardAction.getSuceessfulPanel();
             int failedPanel = insertICardAction.getFailedPanel();
-            InsertCardAction insertCardAction = new InsertCardAction(suceessfulPanel, failedPanel);
+            String animation = insertICardAction.getAnimationTip();
+            InsertCardAction insertCardAction = new InsertCardAction(suceessfulPanel, failedPanel, animation);
             doAction(insertCardAction, component.getId());
         }
     }

@@ -248,9 +248,11 @@
                     <xs:all>
                         <xs:element name="suceessfulPanel" type="xs:unsignedShort" maxOccurs="1" minOccurs="1"/>
                         <xs:element name="failedPanel" type="xs:unsignedShort" maxOccurs="1" minOccurs="1"/>
+                        <xs:element name="animationTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
                     </xs:all>
                 </xs:complexType>
             </xs:element>
+            
             <xs:element name="writeICardAction" type="msgSendAction" maxOccurs="1" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>

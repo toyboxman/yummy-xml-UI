@@ -9,9 +9,13 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.ImageIcon;
 import javax.swing.JButton;
+import javax.swing.JDialog;
+import javax.swing.JLabel;
 import javax.swing.SwingWorker;
 import king.flow.action.DefaultBaseAction;
+import king.flow.common.CommonUtil;
 
 /**
  *
@@ -21,10 +25,12 @@ public class InsertCardAction extends DefaultBaseAction {
 
     private final int successfulPage;
     private final int failedPage;
+    private final String animationFile;
 
-    public InsertCardAction(int successfulPage, int failedPage) {
+    public InsertCardAction(int successfulPage, int failedPage, String animation) {
         this.successfulPage = successfulPage;
         this.failedPage = failedPage;
+        this.animationFile = animation;
     }
 
     @Override
@@ -34,7 +40,15 @@ public class InsertCardAction extends DefaultBaseAction {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                waitCommunicationTask(new ReadCardTask(), buildAnimationDialog(null));
+                final JDialog progressAnimation = buildAnimationDialog(animationFile);
+                final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
+                if (bgImage != null) {
+                    progressAnimation.getContentPane().add(new JLabel(bgImage), 1);
+                } else {
+                    progressAnimation.getContentPane().add(new JLabel(), 1);
+                }
+                
+                waitCommunicationTask(new ReadCardTask(), progressAnimation);
             }
         });
     }
