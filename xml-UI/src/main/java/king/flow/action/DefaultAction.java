@@ -178,7 +178,7 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
             progressAnimation = new JLabel(defaultAnimation);
             progressAnimation.setBounds(centerPoint.x - (defaultAnimation.getIconWidth() / 2),
                     centerPoint.y - (defaultAnimation.getIconHeight() / 2),
-                    defaultAnimation.getIconWidth(),
+                    defaultAnimation.getIconWidth() - 5, // shrink actual width to hide white margin of default progress image
                     defaultAnimation.getIconHeight());
         } else {
             final ImageIcon animation = CommonUtil.getImageIcon(animationFile);
