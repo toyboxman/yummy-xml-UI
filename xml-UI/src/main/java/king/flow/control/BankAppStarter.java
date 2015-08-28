@@ -290,7 +290,7 @@ public class BankAppStarter {
                 showTip = !get();
                 Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO, "get download key result : {0}", get());
             } catch (NullPointerException | InterruptedException | ExecutionException ex) {
-                Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE, "fail to download cipher key due to {0}", ex.getMessage());
                 showTip = true;
             } finally {
                 splash.setVisible(false);
