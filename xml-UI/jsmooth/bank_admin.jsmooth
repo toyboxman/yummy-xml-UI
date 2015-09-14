@@ -38,7 +38,6 @@
 <classPath>lib\org.eclipse.persistence.jpa.modelgen.processor-2.5.1.jar</classPath>
 <classPath>lib\swingx-all-1.6.5-1.jar</classPath>
 <classPath>lib\xml-UI-1.2-SNAPSHOT.jar</classPath>
-<classPath>lib\ifxjdbc.jar</classPath>
 <classPath>lib\jmf-2.1.1e.jar</classPath>
 <currentDirectory>${EXECUTABLEPATH}</currentDirectory>
 <embeddedJar>false</embeddedJar>
