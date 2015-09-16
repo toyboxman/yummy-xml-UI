@@ -852,24 +852,24 @@ public class CommonUtil {
     public static void cleanTranStation() {
         transitionStation.clear();
     }
-
-    private static String INPUT_METHOD_ACTIVE_CMD = "";
-    private static String INPUT_METHOD_UNACTIVE_CMD = "";
+    
+    private static String TYPE_TEXT_ACTIVE_CMD = "";
+    private static String TYPE_TEXT_UNACTIVE_CMD = "";
 
     public static String getInputMethodActiveCmd() {
-        return INPUT_METHOD_ACTIVE_CMD;
+        return TYPE_TEXT_ACTIVE_CMD;
     }
 
-    public static void setInputMethodActiveCmd(String cmd) {
-        INPUT_METHOD_ACTIVE_CMD = cmd;
+    public static void setTypeMethodActiveCmd(String cmd) {
+        TYPE_TEXT_ACTIVE_CMD = cmd;
     }
 
     public static String getInputMethodUnactiveCmd() {
-        return INPUT_METHOD_UNACTIVE_CMD;
+        return TYPE_TEXT_UNACTIVE_CMD;
     }
 
-    public static void setInputMethodUnactiveCmd(String cmd) {
-        INPUT_METHOD_UNACTIVE_CMD = cmd;
+    public static void setTypeMethodUnactiveCmd(String cmd) {
+        TYPE_TEXT_UNACTIVE_CMD = cmd;
     }
 
     public static boolean usbDeviceConnected() {

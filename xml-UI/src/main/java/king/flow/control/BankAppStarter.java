@@ -7,6 +7,7 @@ import java.awt.GraphicsEnvironment;
 import java.awt.HeadlessException;
 import java.awt.Point;
 import java.awt.Rectangle;
+import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
@@ -21,6 +22,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.plaf.FontUIResource;
 import javax.xml.bind.JAXBException;
 import king.flow.common.CommonConstants;
+import static king.flow.common.CommonConstants.TEXT_TYPE_TOOL_CONFIG;
 import static king.flow.common.CommonUtil.AppType.EXHIBITION;
 import static king.flow.common.CommonUtil.AppType.MANAGEMENT;
 import static king.flow.common.CommonUtil.AppType.TERMINAL;
@@ -140,6 +142,14 @@ public class BankAppStarter {
 
         frame.setVisible(true);
         setTerminalStatus(RUNNING);
+        String textTypeConfig = System.getProperty(TEXT_TYPE_TOOL_CONFIG);
+        try {
+            Process proc = Runtime.getRuntime().exec(textTypeConfig + "AVF.exe");
+            Thread.sleep(1000 * 3);
+            proc.destroy();
+        } catch (IOException | InterruptedException ex) {
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE, "fail to initiative chinese text type tool due to {0}", ex.getMessage());
+        }
     }
 
     private void showMsgDialog() throws HeadlessException {

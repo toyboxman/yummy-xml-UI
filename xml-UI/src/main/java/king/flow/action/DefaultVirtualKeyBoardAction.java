@@ -20,10 +20,11 @@ import java.util.logging.Logger;
 import javax.swing.JButton;
 import javax.swing.JTextField;
 import javax.swing.SwingWorker;
+import static king.flow.common.CommonConstants.TEXT_TYPE_TOOL_CONFIG;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
-import static king.flow.common.CommonUtil.setInputMethodActiveCmd;
-import static king.flow.common.CommonUtil.setInputMethodUnactiveCmd;
+import static king.flow.common.CommonUtil.setTypeMethodActiveCmd;
+import static king.flow.common.CommonUtil.setTypeMethodUnactiveCmd;
 
 /**
  *
@@ -31,28 +32,28 @@ import static king.flow.common.CommonUtil.setInputMethodUnactiveCmd;
  */
 public class DefaultVirtualKeyBoardAction extends DefaultBaseAction {
 
-    private static final String DEFAULT_TEXT_INPUT_FOLDER = "../AVF/";
-    private static final String TEXT_IUPUT_CONFIG = "text.input.config";
+    private static final String DEFAULT_TEXT_TYPE_TOOL_FOLDER = "../AVF/";
     private final String start_cmd;
     private final String stop_cmd;
     private volatile boolean hide = true;
 
     public DefaultVirtualKeyBoardAction(String start_cmd, String stop_cmd) {
-        String textInputConfig = System.getProperty(TEXT_IUPUT_CONFIG, DEFAULT_TEXT_INPUT_FOLDER);
+        String textInputConfig = System.getProperty(TEXT_TYPE_TOOL_CONFIG, DEFAULT_TEXT_TYPE_TOOL_FOLDER);
         try {
             textInputConfig = new File(textInputConfig).getCanonicalPath();
         } catch (IOException ex) {
-            Logger.getLogger(DefaultVirtualKeyBoardAction.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(DefaultVirtualKeyBoardAction.class.getName()).log(Level.SEVERE, "Invalid chinese text type config {0}", ex.getMessage());
         }
         if (textInputConfig.endsWith("/") || textInputConfig.endsWith("\\")) {
-            this.start_cmd = textInputConfig + start_cmd;
-            this.stop_cmd = textInputConfig + stop_cmd;
+            Logger.getLogger(DefaultVirtualKeyBoardAction.class.getName()).log(Level.INFO, "Standard chinese text type config {0}", textInputConfig);
         } else {
-            this.start_cmd = textInputConfig + File.separatorChar + start_cmd;
-            this.stop_cmd = textInputConfig + File.separatorChar + stop_cmd;
+            textInputConfig = textInputConfig + File.separatorChar;
         }
-        setInputMethodActiveCmd(this.start_cmd);
-        setInputMethodUnactiveCmd(this.stop_cmd);
+        System.getProperties().put(TEXT_TYPE_TOOL_CONFIG, textInputConfig);
+        this.start_cmd = textInputConfig + start_cmd;
+        this.stop_cmd = textInputConfig + stop_cmd;
+        setTypeMethodActiveCmd(this.start_cmd);
+        setTypeMethodUnactiveCmd(this.stop_cmd);
     }
 
     @Override
