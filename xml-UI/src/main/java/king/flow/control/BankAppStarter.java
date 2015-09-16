@@ -23,6 +23,7 @@ import javax.swing.plaf.FontUIResource;
 import javax.xml.bind.JAXBException;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.TEXT_TYPE_TOOL_CONFIG;
+import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.AppType.EXHIBITION;
 import static king.flow.common.CommonUtil.AppType.MANAGEMENT;
 import static king.flow.common.CommonUtil.AppType.TERMINAL;
@@ -144,9 +145,9 @@ public class BankAppStarter {
         setTerminalStatus(RUNNING);
         String textTypeConfig = System.getProperty(TEXT_TYPE_TOOL_CONFIG);
         try {
-            Process proc = Runtime.getRuntime().exec(textTypeConfig + "AVF.exe");
-            Thread.sleep(1000 * 3);
-            proc.destroy();
+            Runtime.getRuntime().exec(textTypeConfig + "AVF.exe");
+            Thread.sleep(2000);
+            Runtime.getRuntime().exec(CommonUtil.getTypeMethodUnactiveCmd());
         } catch (IOException | InterruptedException ex) {
             Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE, "fail to initiative chinese text type tool due to {0}", ex.getMessage());
         }

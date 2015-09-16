@@ -856,7 +856,7 @@ public class CommonUtil {
     private static String TYPE_TEXT_ACTIVE_CMD = "";
     private static String TYPE_TEXT_UNACTIVE_CMD = "";
 
-    public static String getInputMethodActiveCmd() {
+    public static String getTypeMethodActiveCmd() {
         return TYPE_TEXT_ACTIVE_CMD;
     }
 
@@ -864,7 +864,7 @@ public class CommonUtil {
         TYPE_TEXT_ACTIVE_CMD = cmd;
     }
 
-    public static String getInputMethodUnactiveCmd() {
+    public static String getTypeMethodUnactiveCmd() {
         return TYPE_TEXT_UNACTIVE_CMD;
     }
 

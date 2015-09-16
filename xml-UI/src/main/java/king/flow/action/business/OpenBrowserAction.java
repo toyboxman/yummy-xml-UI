@@ -32,7 +32,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.SwingWorker;
 import king.flow.action.DefaultBaseAction;
 import king.flow.common.CommonUtil;
-import static king.flow.common.CommonUtil.getInputMethodActiveCmd;
+import static king.flow.common.CommonUtil.getTypeMethodActiveCmd;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
 
@@ -205,8 +205,8 @@ public class OpenBrowserAction extends DefaultBaseAction {
 
             @Override
             protected Integer doInBackground() throws Exception {
-//                JOptionPane.showMessageDialog(null, getInputMethodActiveCmd());
-                Process proc = Runtime.getRuntime().exec(getInputMethodActiveCmd());
+//                JOptionPane.showMessageDialog(null, getTypeMethodActiveCmd());
+                Process proc = Runtime.getRuntime().exec(getTypeMethodActiveCmd());
                 Thread.sleep(1000 * 1);
                 proc.destroy();
                 return 1;
