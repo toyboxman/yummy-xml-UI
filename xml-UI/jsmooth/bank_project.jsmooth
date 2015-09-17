@@ -7,6 +7,7 @@
 <JVMSearchPath>exepath</JVMSearchPath>
 <JVMSearchPath>jview</JVMSearchPath>
 <arguments></arguments>
+<bundledJVMPath>jre</bundledJVMPath>
 <classPath>lib\antlr-2.7.7.jar</classPath>
 <classPath>lib\commonj.sdo-2.1.1.jar</classPath>
 <classPath>lib\commons-lang-2.6.jar</classPath>
