@@ -73,6 +73,7 @@ import static king.flow.common.CommonUtil.setFont;
 import static king.flow.common.CommonUtil.getImageIcon;
 import static king.flow.common.CommonUtil.setCurrentView;
 import static king.flow.common.CommonUtil.setWindowNode;
+import static king.flow.common.CommonUtil.shapeErrPrompt;
 import static king.flow.control.BankAppStarter.DEFAULT_BANK_APP_ICON;
 import king.flow.design.FlowProcessor;
 import king.flow.swing.JXMsgPanel;
@@ -687,9 +688,11 @@ public class MainWindow {
                     doAction(action, componentID);
                 }
             }
-        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | NoSuchMethodException | SecurityException | IllegalArgumentException | InvocationTargetException ex) {
-            String err_msg = "Action loading failed for " + actionClass + " in component with ID " + componentID;
-            getLogger(MainWindow.class.getName()).log(Level.SEVERE, err_msg, ex);
+        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | NoSuchMethodException
+                | SecurityException | IllegalArgumentException | InvocationTargetException ex) {
+            String err_msg = "Action loading failed for " + actionClass + " in component with ID " + componentID + " due to\n {0}";
+            String cause = shapeErrPrompt(ex);
+            getLogger(MainWindow.class.getName()).log(Level.WARNING, err_msg, cause);
         }
     }
 

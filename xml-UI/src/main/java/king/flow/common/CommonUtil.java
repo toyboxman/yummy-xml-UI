@@ -852,7 +852,7 @@ public class CommonUtil {
     public static void cleanTranStation() {
         transitionStation.clear();
     }
-    
+
     private static String TYPE_TEXT_ACTIVE_CMD = "";
     private static String TYPE_TEXT_UNACTIVE_CMD = "";
 
@@ -911,4 +911,7 @@ public class CommonUtil {
         CommonUtil.windowNode = windowNode;
     }
 
+    public static String shapeErrPrompt(final java.lang.Throwable err) {
+        return err.getClass().getName() + ": " + err.getMessage();
+    }
 }

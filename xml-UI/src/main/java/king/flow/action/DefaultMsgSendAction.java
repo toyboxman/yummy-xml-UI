@@ -46,6 +46,7 @@ import static king.flow.common.CommonUtil.createTLSMessage;
 import static king.flow.common.CommonUtil.parseTLSMessage;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.sendMessage;
+import static king.flow.common.CommonUtil.shapeErrPrompt;
 import king.flow.data.TLSResult;
 import king.flow.swing.JXMsgPanel;
 import king.flow.view.MsgSendAction;
@@ -140,7 +141,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                         try {
                             value = CommonUtil.inputString(unwrapped);
                         } catch (Throwable e) {
-                            getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO, "keyboard out of work", e);
+                            getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING, "crypto keyboard is out of work due to\n {0}", shapeErrPrompt(e));
                             value = unwrapped;
                         }
                     } else {
