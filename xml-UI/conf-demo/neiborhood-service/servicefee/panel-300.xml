@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../../conf/WindowXmlSchema.xsd'>
+    <id>1</id>
+    <type>Panel</type>
+    <active>true</active>
+    <background>/image/5.jpg</background>
+    <component>
+        <id>2</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>860</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>智慧社区物业服务系统</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>40</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>3</id>
+        <type>Button</type>
+        <attribute>
+            <text>缴费业务</text>
+            <rect>
+                <x>900</x>
+                <y>180</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>10</nextPanel>
+            </jumpPanelAction>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>4</id>
+        <type>Button</type>
+        <attribute>
+            <text>查询业务</text>
+            <rect>
+                <x>900</x>
+                <y>330</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>20</nextPanel>
+            </jumpPanelAction>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>10</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>340</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>欢迎使用社区物业服务系统,请按相应功能键获取服务</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+</panel>

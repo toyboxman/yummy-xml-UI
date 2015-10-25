@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<window
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../conf/WindowXmlSchema.xsd'>
+    <id>0</id>
+    <type>Frame</type>
+    <ui-style>
+        <!--<lookandfeel>
+            com.jgoodies.looks.windows.WindowsLookAndFeel
+        </lookandfeel>-->
+        <font>
+            <name>SimSun</name>
+            <size>30</size>
+            <style>BOLD</style>
+        </font>
+		
+        <background>/image/1.jpg</background>
+        <progress>/image/loader_orange_256.gif</progress>
+		
+    </ui-style>
+	
+    <driver>
+        <device>
+            <type>magnetCard</type>
+            <port>com1</port>
+            <dll>alldriver</dll>
+        </device>
+        <device>
+            <type>ICCard</type>
+            <port>com5</port>
+            <dll>alldriver</dll>
+        </device>
+        <device>
+            <type>sensorCard</type>
+            <port>com3</port>
+            <dll>alldriver</dll>
+        </device>
+        <device>
+            <type>printer</type>
+            <port>com4</port>
+            <dll>alldriver</dll>
+        </device>
+		
+        <device>
+            <type>keyboard</type>
+            <port>com2</port>
+            <dll>alldriver</dll>
+        </device>
+    </driver>
+    <attribute>
+        <text>智慧社区物业服务系统</text>
+    </attribute>
+    <contents>
+        <page>./conf-demo/neiborhood-service/entry/panel-1.xml</page>
+
+        <page>./conf-bank/999/panel-999.xml</page>
+        <page>./conf-bank/999/panel-9990.xml</page>
+        <page>./conf-bank/999/panel-9991.xml</page>
+    </contents>
+</window>
