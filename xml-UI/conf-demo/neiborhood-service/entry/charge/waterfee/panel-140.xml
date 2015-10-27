@@ -8,10 +8,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../../conf/WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../../../../conf/WindowXmlSchema.xsd'>
     <id>1</id>
     <type>Panel</type>
-    <active>true</active>
+    <active>false</active>
     <background>/image/5.jpg</background>
     <component>
         <id>2</id>

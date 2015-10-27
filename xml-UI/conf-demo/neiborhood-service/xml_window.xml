@@ -58,10 +58,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <text>智慧社区物业服务系统</text>
     </attribute>
     <contents>
-        <page>./conf-demo/neiborhood-service/entry/panel-1.xml</page>
-
-        <page>./conf-bank/999/panel-999.xml</page>
-        <page>./conf-bank/999/panel-9990.xml</page>
-        <page>./conf-bank/999/panel-9991.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/panel-100.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/panel-105.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-110.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-115.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-116.xml</page>
     </contents>
 </window>

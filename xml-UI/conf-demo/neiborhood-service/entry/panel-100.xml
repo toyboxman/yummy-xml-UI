@@ -9,21 +9,21 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../../../conf/WindowXmlSchema.xsd'>
-    <id>1</id>
+    <id>100</id>
     <type>Panel</type>
     <active>true</active>
     <background>/image/5.jpg</background>
     <component>
-        <id>2</id>
+        <id>1001</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>860</x>
+                <x>780</x>
                 <y>70</y>
                 <width>600</width>
-                <heigh>80</heigh>
+                <heigh>130</heigh>
             </rect>
-            <text>智慧社区物业服务系统</text>
+            <text>&lt;html&gt;融科汇通&lt;br&gt;智慧社区物业服务系统&lt;/html&gt;</text>
         </attribute>
         <action>
             <setFontAction>
@@ -33,13 +33,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>3</id>
+        <id>1002</id>
         <type>Button</type>
         <attribute>
             <text>缴费业务</text>
             <rect>
                 <x>900</x>
-                <y>180</y>
+                <y>200</y>
                 <width>300</width>
                 <heigh>100</heigh>
             </rect>
@@ -47,7 +47,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>10</nextPanel>
+                <nextPanel>105</nextPanel>
             </jumpPanelAction>
             <setFontAction>
                 <fontSize>30</fontSize>
@@ -56,7 +56,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>4</id>
+        <id>1003</id>
         <type>Button</type>
         <attribute>
             <text>查询业务</text>
@@ -79,7 +79,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>10</id>
+        <id>1004</id>
         <type>Label</type>
         <attribute>
             <rect>
