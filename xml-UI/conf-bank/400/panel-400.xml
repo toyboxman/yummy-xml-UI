@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>生活缴费</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -46,9 +46,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>4000201</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -66,9 +66,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>4000301</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -86,9 +86,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>4000401</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -106,9 +106,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>4000501</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -126,9 +126,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>10</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 </panel>

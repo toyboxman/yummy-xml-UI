@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>交易失败</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>40</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -46,9 +46,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>错误信息:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -66,9 +66,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text></text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -87,9 +87,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>400</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
 		<action>
             <cleanAction>

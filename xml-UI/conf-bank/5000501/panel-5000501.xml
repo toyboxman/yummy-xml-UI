@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>指纹跨行转账</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -45,9 +45,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>付款卡号:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 
@@ -64,24 +64,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-            <customizedAction>
-                <className>king.flow.action.customization.DriverActiveAction</className>
-				 <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000310</value>
-                    </parameter>
-                </constructorParameters>
-            </customizedAction>
-            <comboShowAction>
-                <items>/, ACTION2/刷磁条卡, ACTION3/插接触式IC卡</items>
-            </comboShowAction>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>3000310</nextCursor>
+                <editable>true</editable>
+            </swipe2In1CardAction>
         </action>
 		
 		<action>
-			<mediaPlayAction>
+			<playMediaAction>
                 <media>./media/accoutfrom.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
         </action>
     </component>
 	
@@ -98,9 +93,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>转账金额:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -117,9 +112,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-			<mediaPlayAction>
+			<playMediaAction>
                 <media>./media/money.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
 			
 			<limitInputAction>
                 <length>16</length>
@@ -142,9 +137,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>收款帐号:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 
@@ -161,24 +156,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-            <customizedAction>
-                <className>king.flow.action.customization.DriverActiveAction</className>
-				<constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000308</value>
-                    </parameter>
-                </constructorParameters>
-            </customizedAction>
-            <comboShowAction>
-                <items>/, ACTION2/刷磁条卡,  ACTION3/插接触式IC卡</items>
-            </comboShowAction>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>3000308</nextCursor>
+                <editable>true</editable>
+            </swipe2In1CardAction>
         </action>
 		
 		<action>
-			<mediaPlayAction>
+			<playMediaAction>
                 <media>./media/accoutto.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
         </action>
     </component>
 	
@@ -196,9 +186,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>收款户名:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 
@@ -215,9 +205,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-			<mediaPlayAction>
+			<playMediaAction>
                 <media>./media/name.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
         </action>
 		
 		<action>
@@ -244,9 +234,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>指纹密码:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -267,9 +257,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <length>6</length>
             </limitInputAction>
 			
-			<mediaPlayAction>
+			<playMediaAction>
                 <media>./media/passwd.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
         </action>
     </component>
 	
@@ -292,13 +282,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <customizedAction>
                 <className></className>
             </customizedAction>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
 		
 		<action>
-            <msgSendAction>
+            <sendMsgAction>
                 <prsCode>zwdiffTranQuery</prsCode>
                 <conditions>5000404,5000406,5000408,5000410,5000412</conditions>
 				
@@ -353,7 +343,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 				</checkRules>	
 				
 				
-            </msgSendAction>
+            </sendMsgAction>
         </action>
     </component>
 	
@@ -370,12 +360,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>返回</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>500</nextPanel>
-            </buttonJumpPanelAction>
-			<fontSetAction>
+            </jumpPanelAction>
+			<setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
 		<action>
             <cleanAction>

@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>企业业务</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>40</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -46,12 +46,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-			<fontSetAction>
+			<setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
-            <buttonJumpPanelAction>
+            </setFontAction>
+            <jumpPanelAction>
                 <nextPanel>30</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -69,12 +69,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-		 <fontSetAction>
+		 <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
-            <buttonJumpPanelAction>
+            </setFontAction>
+            <jumpPanelAction>
                 <nextPanel>40</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -91,9 +91,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>1</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -110,9 +110,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>欢迎使用移动商务银行服务系统,请按相应功能键获取服务</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>25</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 </panel>

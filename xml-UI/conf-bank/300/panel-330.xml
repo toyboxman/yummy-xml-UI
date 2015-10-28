@@ -25,9 +25,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>开始时间:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>15</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
     <component>
@@ -55,9 +55,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>结束时间:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>15</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
     <component>
@@ -85,7 +85,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>查询</text>
         </attribute>
         <action>
-            <msgSendAction>
+            <sendMsgAction>
                 <cmdCode>330</cmdCode>
                 <prsCode>queryAcount</prsCode>
                 <conditions>330332,330334</conditions>
@@ -104,7 +104,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>查询开始时间不能够大于结束时间</errMsg>
                     </notEqual>
                 </checkRules>
-            </msgSendAction>
+            </sendMsgAction>
         </action>
     </component>
     <component>
@@ -120,9 +120,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>返回</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>200</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
             <cleanAction>
                 <conditions>330337</conditions>
             </cleanAction>
@@ -140,12 +140,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <tableShowAction>
+            <showTableAction>
                 <columnNames>流水号, 名称, 开始时间, 结束时间, 费用</columnNames>
-            </tableShowAction>
+            </showTableAction>
         </action>
         <action>
-            <msgSendAction>
+            <sendMsgAction>
                 <cmdCode>330</cmdCode>
                 <prsCode>queryAcount</prsCode>
                 <conditions>330332,330334</conditions>
@@ -164,7 +164,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>查询开始时间不能够大于结束时间</errMsg>
                     </notEqual>
                 </checkRules>
-            </msgSendAction>
+            </sendMsgAction>
         </action>
     </component>
 </panel>

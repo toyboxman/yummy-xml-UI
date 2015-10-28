@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>社保卡办理状态</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -45,9 +45,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>身份证:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -98,9 +98,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>密  码:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
 
     </component>
@@ -122,9 +122,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <length>6</length>
             </limitInputAction>
 			
-			<mediaPlayAction>
+			<playMediaAction>
                 <media>./media/passwd.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
 			
 			
 			<customizedAction>
@@ -160,12 +160,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
         <action>
-            <msgSendAction>
+            <sendMsgAction>
                 <prsCode>querysbkblzt</prsCode>
                 <conditions>5024,5026</conditions>
                 <nextStep>  
@@ -188,7 +188,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>密码不能为空</errMsg>
                     </notNull> 
                 </checkRules>
-            </msgSendAction>
+            </sendMsgAction>
 			
 			<customizedAction>
                 <className>king.flow.action.customization.CusorMoveAction</className>
@@ -219,9 +219,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>返回</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>50</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
 			
         </action>
 		
@@ -248,9 +248,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			<debug>false</debug>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>25</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	

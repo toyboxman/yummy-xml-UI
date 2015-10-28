@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>企业账户历史交易查询</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -45,9 +45,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>卡号:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -64,26 +64,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-            <customizedAction>
-                <className>king.flow.action.customization.DriverActiveAction</className>
-				 <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3406</value>
-                    </parameter>
-                </constructorParameters>
-
-            </customizedAction>
-            <comboShowAction>
-                <items>/, ACTION2/刷磁条卡,  ACTION3/插接触式IC卡</items>
-            </comboShowAction>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>3406</nextCursor>
+                <editable>true</editable>
+            </swipe2In1CardAction>
         </action>
-		
-		
+
 		<action>
-			<mediaPlayAction>
+			<playMediaAction>
                 <media>./media/accout.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
         </action>
     </component>
 	
@@ -100,9 +93,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>密码:</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -123,24 +116,21 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <length>6</length>
             </limitInputAction>
 			
-			<mediaPlayAction>
+			<playMediaAction>
                 <media>./media/passwd.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
 			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3404</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3407</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>	
+			
         </action>
+		
+		<action>
+            <moveCursorAction>
+                <upCursor>3404</upCursor>
+                <downCursor>3407</downCursor>
+            </moveCursorAction>
+        </action>
+
+		
     </component>
 	
     <component>
@@ -156,7 +146,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-            <msgSendAction>
+            <sendMsgAction>
                 <prsCode>qyTranDetail</prsCode>
                 <conditions>3404,3406,3409</conditions>
                 <nextStep>  
@@ -178,21 +168,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>密码不能为空</errMsg>
                     </notNull>
                 </checkRules>
-            </msgSendAction>
+            </sendMsgAction>
 			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3406</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3408</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+			<moveCursorAction>
+                <upCursor>3406</upCursor>
+                <downCursor>3408</downCursor>
+            </moveCursorAction>
+			
+			
         </action>
     </component>
 	
@@ -209,9 +192,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>返回</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>30</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
 		<action>
             <cleanAction>
@@ -232,12 +215,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <tableShowAction>
+            <showTableAction>
                 <columnNames>交易时间, 金额, 支付方式, 转入账户, 转入户名</columnNames>
-            </tableShowAction>
+            </showTableAction>
         </action>
         <action>
-            <msgSendAction>
+            <sendMsgAction>
                 <prsCode>qyTranDetail</prsCode>
                 <conditions>3404,3406,3409</conditions>
                 <nextStep>  
@@ -259,7 +242,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>密码不能为空</errMsg>
                     </notNull>
                 </checkRules>
-            </msgSendAction>
+            </sendMsgAction>
         </action>
     </component>
 	
@@ -277,9 +260,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			<debug>false</debug>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>25</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 </panel>

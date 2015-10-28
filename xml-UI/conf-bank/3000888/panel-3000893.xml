@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>信用卡还款成功</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -45,9 +45,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text></text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -67,16 +67,16 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-            <printerAction>
+            <setPrinterAction>
                 <header>颍淮农村商业银行</header>
                 <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
-            </printerAction>
+            </setPrinterAction>
 		</action>
 			
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>300</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
 		
 		<action>
@@ -100,9 +100,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>返回</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>300</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
 		<action>
             <cleanAction>

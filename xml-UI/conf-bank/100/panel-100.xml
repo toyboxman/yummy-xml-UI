@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>欢迎使用自助银行查询业务</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
     <component>
@@ -45,9 +45,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>200</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
     <component>
@@ -63,9 +63,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>18</fontSize>
-            </fontSetAction>
+            </setFontAction>
             <virtualKeyboardAction>
                 <start>AVF_Display.exe</start>
                 <stop>AVF_Hide.exe</stop>
@@ -84,12 +84,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <comboShowAction>
+            <showComboBoxAction>
                 <items>CNY/人民币, USD/美元, JPY/日元</items>
-            </comboShowAction>
-            <mediaPlayAction>
+            </showComboBoxAction>
+            <playMediaAction>
                 <media>./media/goodbye.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
         </action>
     </component>
     <component>
@@ -110,9 +110,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <useTipAction>
                 <tip>&lt;html&gt;&lt;center&gt;&lt;h1&gt;Hello,&lt;/h1&gt;&lt;h2 style=&#39;color: red; font-style: italic;&#39;&gt;World&lt;/h2&gt;&lt;b&gt;Modified&lt;br/&gt;ToolTipText&lt;/b&gt;&lt;/center&gt;&lt;br/&gt;so simple.请输入账号密码</tip>
             </useTipAction>
-            <mediaPlayAction>
+            <playMediaAction>
                 <media>./media/song.wav</media>
-            </mediaPlayAction>
+            </playMediaAction>
            
         </action>
     </component>

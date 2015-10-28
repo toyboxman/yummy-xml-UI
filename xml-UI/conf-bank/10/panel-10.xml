@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>个人业务</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>40</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -46,12 +46,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-			<fontSetAction>
+			<setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
-            <buttonJumpPanelAction>
+            </setFontAction>
+            <jumpPanelAction>
                 <nextPanel>200</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -69,12 +69,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-		 <fontSetAction>
+		 <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
-            <buttonJumpPanelAction>
+            </setFontAction>
+            <jumpPanelAction>
                 <nextPanel>300</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -91,12 +91,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
-			<buttonJumpPanelAction>
+            </setFontAction>
+			<jumpPanelAction>
                 <nextPanel>400</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -115,12 +115,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-		 <fontSetAction>
+		 <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
-            <buttonJumpPanelAction>
+            </setFontAction>
+            <jumpPanelAction>
                 <nextPanel>500</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -138,9 +138,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>1</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
         </action>
     </component>
 	
@@ -157,66 +157,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>欢迎使用移动商务银行服务系统,请按相应功能键获取服务</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>25</fontSize>
-            </fontSetAction>
-        </action>
-    </component>
-	
-	 <component>
-        <id>18</id>
-        <type>Button</type>
-        <attribute>
-            <text>补登存折</text>
-            <rect>
-                <x>200</x>
-                <y>590</y>
-                <width>300</width>
-                <heigh>100</heigh>
-            </rect>
-        </attribute>
-        <action>
-            <fontSetAction>
-                <fontSize>30</fontSize>
-            </fontSetAction>
-			<buttonJumpPanelAction>
-                <nextPanel>505</nextPanel>
-            </buttonJumpPanelAction>
-        </action>
-    </component>
-	
-	<component>
-        <id>19</id>
-        <type>Button</type>
-        <attribute>
-            <text>购买燃气</text>
-            <rect>
-                <x>800</x>
-                <y>590</y>
-                <width>300</width>
-                <heigh>100</heigh>
-            </rect>
-        </attribute>
-        <action>
-            <fontSetAction>
-                <fontSize>30</fontSize>
-            </fontSetAction>
-			<buttonJumpPanelAction>
-                <nextPanel>506</nextPanel>
-            </buttonJumpPanelAction>
-            <customizedAction>
-                <className>king.flow.action.customization.InsertCardAction</className>
-                <!--<constructorParameters>
-                    <parameter>
-                        <type>boolean</type>
-                        <value>true</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>104</value>
-                    </parameter>
-                </constructorParameters>-->
-            </customizedAction>
+            </setFontAction>
         </action>
     </component>
 </panel>

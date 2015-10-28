@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>确认指纹同行转账信息</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -47,9 +47,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			<debug>false</debug>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -69,13 +69,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <customizedAction>
                 <className></className>
             </customizedAction>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
 		
 		<action>
-            <msgSendAction>
+            <sendMsgAction>
                 <prsCode>samefingTrando</prsCode>
                 <conditions>5000404,5000406,5000408,5000410,5000412</conditions>
                 <nextStep>  
@@ -86,7 +86,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <nextPanel>50000001</nextPanel>  
                     <display>50000003</display>  
                 </exception>
-            </msgSendAction>
+            </sendMsgAction>
         </action>
 		
     </component>
@@ -104,12 +104,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>取消转账</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>500</nextPanel>
-            </buttonJumpPanelAction>
-			 <fontSetAction>
+            </jumpPanelAction>
+			 <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
 		
 		<action>

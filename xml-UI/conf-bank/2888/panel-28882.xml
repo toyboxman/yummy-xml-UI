@@ -26,9 +26,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>确认企业主动付款信息</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -47,9 +47,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			<debug>false</debug>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 	
@@ -69,13 +69,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <customizedAction>
                 <className></className>
             </customizedAction>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
 		
 		<action>
-            <msgSendAction>
+            <sendMsgAction>
                 <prsCode>qypaydo</prsCode>
                 <conditions>4204,4206,4208,42010,42012</conditions>
                 <nextStep>  
@@ -86,7 +86,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <nextPanel>99901</nextPanel>  
                     <display>99904</display>  
                 </exception>
-            </msgSendAction>
+            </sendMsgAction>
         </action>
 		
     </component>
@@ -104,12 +104,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>取消付款</text>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>4201</nextPanel>
-            </buttonJumpPanelAction>
-			 <fontSetAction>
+            </jumpPanelAction>
+			 <setFontAction>
                 <fontSize>35</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
 		
 		<action>

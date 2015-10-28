@@ -25,9 +25,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>欢迎使用自助银行查询业务</text>
         </attribute>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>45</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
     <component>
@@ -47,7 +47,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <cleanAction>
                 <conditions>302,304</conditions>
             </cleanAction>
-            <msgSendAction>
+            <sendMsgAction>
                 <prsCode>transferCash</prsCode>
                 <conditions>302,304,307</conditions>
                 <nextStep>
@@ -58,7 +58,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <nextPanel>970</nextPanel>
                     <display>971</display>
                 </exception>
-            </msgSendAction>
+            </sendMsgAction>
         </action>
     </component>
     <component>
@@ -74,17 +74,17 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
         <action>
-            <buttonJumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>300</nextPanel>
-            </buttonJumpPanelAction>
+            </jumpPanelAction>
             <cleanAction>
                 <conditions>302,304</conditions>
             </cleanAction>
         </action>
         <action>
-            <fontSetAction>
+            <setFontAction>
                 <fontSize>18</fontSize>
-            </fontSetAction>
+            </setFontAction>
         </action>
     </component>
 </panel>
