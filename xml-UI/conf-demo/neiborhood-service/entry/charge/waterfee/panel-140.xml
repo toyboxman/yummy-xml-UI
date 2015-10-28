@@ -11,7 +11,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     xsi:noNamespaceSchemaLocation='../../../../../conf/WindowXmlSchema.xsd'>
     <id>140</id>
     <type>Panel</type>
-    <background>/image/5.jpg</background>
     <component>
         <id>1401</id>
         <type>Label</type>

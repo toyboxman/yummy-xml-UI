@@ -17,7 +17,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <size>30</size>
             <style>BOLD</style>
         </font>
-        <background>/image/1.jpg</background>
         <progress>/image/loader_orange_256.gif</progress>
     </ui-style>
 	

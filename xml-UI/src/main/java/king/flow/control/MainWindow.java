@@ -134,7 +134,7 @@ public class MainWindow {
         king.flow.view.Window.Contents contents = winNode.getContents();
         List<String> pages = contents.getPage();
         try {
-            String defaultBackground = style.getBackground().trim();
+            String defaultBackground = style.getBackground() == null ? null : style.getBackground().trim();
             for (String pageURI : pages) {
                 Panel pNode = new FlowProcessor(pageURI).parse(Panel.class);
                 this.panelNodes.add(pNode);
