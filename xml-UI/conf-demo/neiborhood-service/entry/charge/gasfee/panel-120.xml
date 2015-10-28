@@ -9,21 +9,20 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../../../../../conf/WindowXmlSchema.xsd'>
-    <id>200</id>
+    <id>120</id>
     <type>Panel</type>
-    <active>false</active>
     <background>/image/5.jpg</background>
     <component>
-        <id>201</id>
+        <id>1201</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>860</x>
+                <x>450</x>
                 <y>70</y>
                 <width>600</width>
-                <heigh>80</heigh>
+                <heigh>150</heigh>
             </rect>
-            <text>智慧社区物业服务系统</text>
+            <text>代缴燃气费</text>
         </attribute>
         <action>
             <setFontAction>
@@ -33,67 +32,250 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>3</id>
-        <type>Button</type>
+        <id>1202</id>
+        <type>Label</type>
         <attribute>
-            <text>缴费业务</text>
             <rect>
-                <x>900</x>
-                <y>180</y>
-                <width>300</width>
-                <heigh>100</heigh>
+                <x>380</x>
+                <y>230</y>
+                <width>120</width>
+                <heigh>60</heigh>
             </rect>
-            <debug>false</debug>
+            <text>卡号:</text>
         </attribute>
         <action>
-            <jumpPanelAction>
-                <nextPanel>10</nextPanel>
-            </jumpPanelAction>
             <setFontAction>
-                <fontSize>30</fontSize>
+                <fontSize>35</fontSize>
             </setFontAction>
         </action>
     </component>
-	
+
     <component>
-        <id>4</id>
-        <type>Button</type>
+        <id>1203</id>
+        <type>ComboBox</type>
         <attribute>
-            <text>查询业务</text>
             <rect>
-                <x>900</x>
-                <y>330</y>
-                <width>300</width>
-                <heigh>100</heigh>
+                <x>500</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
             </rect>
-            <debug>false</debug>
-        </attribute>
+        </attribute>	
         <action>
-            <jumpPanelAction>
-                <nextPanel>20</nextPanel>
-            </jumpPanelAction>
-            <setFontAction>
-                <fontSize>30</fontSize>
-            </setFontAction>
+            <showComboBoxAction>
+                <items>/, ACTION2/刷磁条卡, ACTION3/插接触式IC卡</items>
+            </showComboBoxAction>
+            <playMediaAction>
+                <media>./media/accout.wav</media>
+            </playMediaAction>
+            <swipeCardAction>
+                <editable>true</editable>
+                <nextCursor>1205</nextCursor>
+            </swipeCardAction>
         </action>
     </component>
-	
+    
     <component>
-        <id>10</id>
+        <id>1204</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>340</x>
-                <y>930</y>
-                <width>1024</width>
-                <heigh>150</heigh>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
             </rect>
-            <text>欢迎使用社区物业服务系统,请按相应功能键获取服务</text>
+            <text>缴费号:</text>
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>25</fontSize>
+                <fontSize>35</fontSize>
             </setFontAction>
+        </action>
+    </component>
+
+    <component>
+        <id>1205</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>	
+        <action>
+            <moveCursorAction>
+                <upCursor>1203</upCursor>
+                <downCursor>1207</downCursor>
+            </moveCursorAction>
+            <playMediaAction>
+                <media>./media/jiaofeinum.wav</media>
+            </playMediaAction>		
+        </action>
+    </component>
+    
+    <component>
+        <id>1206</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>310</x>
+                <y>430</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>缴费金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>1207</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>430</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>	
+        <action>
+            <moveCursorAction>
+                <upCursor>1205</upCursor>
+                <downCursor>1209</downCursor>
+            </moveCursorAction>
+            <limitInputAction>
+                <length>7</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
+            <playMediaAction>
+                <media>./media/jiaofeimoney.wav</media>
+            </playMediaAction>	
+        </action>
+    </component>
+    
+    <component>
+        <id>1208</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>380</x>
+                <y>530</y>
+                <width>120</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>1209</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>530</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <moveCursorAction>
+                <upCursor>1207</upCursor>
+                <downCursor>12010</downCursor>
+            </moveCursorAction>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+            <playMediaAction>
+                <media>./media/passwd.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>12010</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>确认缴费</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+            <moveCursorAction>
+                <upCursor>1209</upCursor>
+                <downCursor>12010</downCursor>
+            </moveCursorAction>
+            <sendMsgAction>
+                <prsCode>payGas</prsCode>
+                <checkRules>
+                    <notNull>
+                        <content>1203</content>
+                        <errMsg>必须输入有效的银行帐户</errMsg>
+                    </notNull>
+                    <notNull>
+                        <content>1205</content>
+                        <errMsg>必须输入有效燃气缴费帐户</errMsg>
+                    </notNull>
+                    <notNull>
+                        <content>1209</content>
+                        <errMsg>必须输入银行帐户密码</errMsg>
+                    </notNull>
+                </checkRules>
+                <conditions>1203,1205,1207,1209</conditions>
+                <nextStep>  
+                    <nextPanel>125</nextPanel> 
+                    <display>1252</display>
+                </nextStep>
+                <exception> 
+                    <nextPanel>126</nextPanel>  
+                    <display>1263</display>  
+                </exception>
+            </sendMsgAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>12011</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>105</nextPanel>
+            </jumpPanelAction>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+            <cleanAction>
+                <conditions>1203,1205,1207,1209</conditions>
+            </cleanAction>
         </action>
     </component>
 </panel>

@@ -12,18 +12,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>0</id>
     <type>Frame</type>
     <ui-style>
-        <!--<lookandfeel>
-            com.jgoodies.looks.windows.WindowsLookAndFeel
-        </lookandfeel>-->
         <font>
             <name>SimSun</name>
             <size>30</size>
             <style>BOLD</style>
         </font>
-		
         <background>/image/1.jpg</background>
         <progress>/image/loader_orange_256.gif</progress>
-		
     </ui-style>
 	
     <driver>
@@ -60,8 +55,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <contents>
         <page>./conf-demo/neiborhood-service/entry/panel-100.xml</page>
         <page>./conf-demo/neiborhood-service/entry/charge/panel-105.xml</page>
+        <!--electricity charge pages-->
         <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-110.xml</page>
         <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-115.xml</page>
         <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-116.xml</page>
+        <!--electricity charge pages-->
+        <page>./conf-demo/neiborhood-service/entry/charge/gasfee/panel-120.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/gasfee/panel-125.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/gasfee/panel-126.xml</page>
     </contents>
 </window>
