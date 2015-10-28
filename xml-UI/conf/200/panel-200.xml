@@ -115,11 +115,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>50</heigh>
             </rect>
         </attribute>
-        <action>
+        <!--<action>
             <openBrowserAction>
                 <url>http://www.baidu.com</url>
             </openBrowserAction>
-        </action>
+        </action>-->
     </component>
     <component>
         <id>207</id>

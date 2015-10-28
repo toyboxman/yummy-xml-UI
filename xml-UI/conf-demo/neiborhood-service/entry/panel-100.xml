@@ -18,12 +18,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>780</x>
+                <x>860</x>
                 <y>70</y>
                 <width>600</width>
                 <heigh>130</heigh>
             </rect>
-            <text>&lt;html&gt;融科汇通&lt;br&gt;智慧社区物业服务系统&lt;/html&gt;</text>
+            <text>&lt;html&gt;&#160;&#160;&#160;融科汇通&lt;br&gt;智慧社区物业服务系统&lt;/html&gt;</text>
         </attribute>
         <action>
             <setFontAction>

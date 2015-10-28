@@ -69,7 +69,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>20</nextPanel>
+                <nextPanel>140</nextPanel>
             </jumpPanelAction>
             <setFontAction>
                 <fontSize>30</fontSize>
@@ -92,7 +92,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>20</nextPanel>
+                <nextPanel>120</nextPanel>
             </jumpPanelAction>
             <setFontAction>
                 <fontSize>30</fontSize>
@@ -115,7 +115,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>20</nextPanel>
+                <nextPanel>130</nextPanel>
             </jumpPanelAction>
             <setFontAction>
                 <fontSize>30</fontSize>
