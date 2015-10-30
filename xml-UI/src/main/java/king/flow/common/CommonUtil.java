@@ -381,6 +381,11 @@ public class CommonUtil {
         });
     }
 
+    public static void showBlockedErrorMsg(final Container parent, final String message) throws HeadlessException {
+        JOptionPane.showMessageDialog(parent, message,
+                UIManager.getString("OptionPane.messageDialogTitle"), JOptionPane.ERROR_MESSAGE);
+    }
+
     public static void showOptionMsg(final Container parent, final String message,
             final SwingWorker task, final DefaultAction action) throws HeadlessException {
         SwingUtilities.invokeLater(new Runnable() {
