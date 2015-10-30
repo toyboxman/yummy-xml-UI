@@ -381,9 +381,12 @@ public class CommonUtil {
         });
     }
 
-    public static void showBlockedErrorMsg(final Container parent, final String message) throws HeadlessException {
+    public static void showBlockedErrorMsg(final Container parent, final String message, final boolean exit) throws HeadlessException {
         JOptionPane.showMessageDialog(parent, message,
                 UIManager.getString("OptionPane.messageDialogTitle"), JOptionPane.ERROR_MESSAGE);
+        if (exit) {
+            System.exit(-1);
+        }
     }
 
     public static void showOptionMsg(final Container parent, final String message,
@@ -638,6 +641,14 @@ public class CommonUtil {
     }
 
     private static TerminalStatus TERMINAL_STATUS = TerminalStatus.UNKNOWN;
+
+    public static StringBuilder buildErrMsg(String type, int id, String pageURI) {
+        StringBuilder errMsg = new StringBuilder().append(type)
+                .append('[').append(id).append(']')
+                .append(" in ").append('\n').append(pageURI)
+                .append('\n').append(" conflicts with the other one with same ID");
+        return errMsg;
+    }
 
     public static enum TerminalStatus {
 

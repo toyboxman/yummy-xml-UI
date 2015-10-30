@@ -109,14 +109,14 @@ import org.jdesktop.swingx.JXLabel;
  * @author LiuJin
  */
 public class MainWindow {
-    
+
     private king.flow.view.Window winNode = null;
     private Window window = null;
     private Map<Integer, Object> building_blocks = null;
     private Map<Integer, Object> meta_blocks = null;
     private List<Panel> panelNodes = null;
     private List<Menuitem> menuNodes = null;
-    
+
     public MainWindow(king.flow.view.Window node) {
         this.winNode = node;
         setWindowNode(winNode);
@@ -127,31 +127,48 @@ public class MainWindow {
         initUI();
         initActions();
     }
-    
+
     private void initUI() {
         UiStyle style = winNode.getUiStyle();
         initWindow();
-        
+
         king.flow.view.Window.Contents contents = winNode.getContents();
         List<String> pages = contents.getPage();
         try {
             String defaultBackground = style.getBackground() == null ? null : style.getBackground().trim();
             for (String pageURI : pages) {
                 Panel pNode = new FlowProcessor(pageURI).parse(Panel.class);
+
                 if (this.meta_blocks.containsKey(pNode.getId())) {
-                    StringBuilder errMsg = new StringBuilder().append("Panel").append('[')
-                            .append(pNode.getId()).append(']').append(" in ").append('\n')
-                            .append(pageURI).append('\n')
-                            .append(" conflicts with other panel with same ID");
-                    CommonUtil.showBlockedErrorMsg(null, errMsg.toString());
-                    System.exit(-1);
+                    CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(pNode.getType().toString(), pNode.getId(), pageURI).toString(), true);
                 }
+
+                List<Decorator> decorator = pNode.getDecorator();
+                if (decorator != null) {
+                    for (Decorator dc : decorator) {
+                        if (this.meta_blocks.containsKey(dc.getId())) {
+                            CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(dc.getType().toString(), dc.getId(), pageURI).toString(), true);
+                        } else if (this.meta_blocks.containsKey(dc.getComponent().getId())) {
+                            CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(dc.getComponent().getType().toString(), dc.getComponent().getId(), pageURI).toString(), true);
+                        }
+                    }
+                }
+
+                List<Component> components = pNode.getComponent();
+                if (components != null) {
+                    for (Component cp : components) {
+                        if (this.meta_blocks.containsKey(cp.getId())) {
+                            CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(cp.getType().toString(), cp.getId(), pageURI).toString(), true);
+                        }
+                    }
+                }
+
                 this.panelNodes.add(pNode);
                 String background = pNode.getBackground();
                 JPanel panel = constructPanel(pNode);
                 initComponents(pNode, panel);
                 initDecorators(pNode, panel);
-                
+
                 if (background != null && background.length() > 0) {
                     try {
                         JLabel jLabel = new JLabel(getImageIcon(background), JLabel.LEADING);
@@ -193,7 +210,7 @@ public class MainWindow {
             getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
-    
+
     private JPanel constructPanel(Panel pNode) throws AssertionError {
         final int id = pNode.getId();
         PanelEnum type = pNode.getType();
@@ -207,7 +224,7 @@ public class MainWindow {
                 getLogger(MainWindow.class.getName()).log(Level.SEVERE, "Panel configuration Error", configError);
                 throw configError;
         }
-        
+
         this.building_blocks.put(id, panel);
         this.meta_blocks.put(id, pNode);
         if (pNode.isActive()) {
@@ -228,14 +245,14 @@ public class MainWindow {
         }
         return panel;
     }
-    
+
     private void initDecorators(Panel pNode, JPanel panel) throws AssertionError {
         List<Decorator> decorators = pNode.getDecorator();
         for (Decorator decorator : decorators) {
             constructDecorator(decorator, panel);
         }
     }
-    
+
     private void constructDecorator(Decorator decorator, JPanel panel) throws AssertionError {
         final int decorator_id = decorator.getId();
         DecoratorEnum type = decorator.getType();
@@ -280,20 +297,20 @@ public class MainWindow {
                 throw configError;
         }
     }
-    
+
     private void initActions() {
         for (Panel panel : panelNodes) {
             List<Component> components = panel.getComponent();
             for (Component component : components) {
                 setupAction(component);
             }
-            
+
             List<Decorator> decorators = panel.getDecorator();
             for (Decorator decorator : decorators) {
                 setupAction(decorator.getComponent());
             }
         }
-        
+
         for (Menuitem item : menuNodes) {
             Menuaction action = item.getAction();
             JumpAction jumpAction = action.getJumpPanelAction();
@@ -301,64 +318,64 @@ public class MainWindow {
                 DefaultMenuAction menuJumpAction = new DefaultMenuAction(jumpAction.getNextPanel());
                 doAction(menuJumpAction, item.getId());
             }
-            
+
             doDefinedAction(action.getCustomizedAction(), item.getId());
         }
     }
-    
+
     private void setupAction(Component component) {
         List<king.flow.view.Action> actions = component.getAction();
-        
+
         for (king.flow.view.Action actionNode : actions) {
-            
+
             doJumpPanelAction(actionNode, component);
-            
+
             doCustomizedAction(actionNode, component);
-            
+
             doSetFontAction(actionNode, component);
-            
+
             doShowTableAction(actionNode, component);
-            
+
             doShowComboBoxAction(actionNode, component);
-            
+
             doSendMsgAction(actionNode, component);
-            
+
             doCleanAction(actionNode, component);
-            
+
             doLimitInputAction(actionNode, component);
-            
+
             doPlayMediaAction(actionNode, component);
-            
+
             doVirtualKeyboardAction(actionNode, component);
-            
+
             doLoadWebAction(actionNode, component);
-            
+
             doRunCommandAction(actionNode, component);
-            
+
             doSetPrinterAction(actionNode, component);
-            
+
             doUseTipAction(actionNode, component);
-            
+
             doInsertICardAction(actionNode, component);
-            
+
             doWriteICardAction(actionNode, component);
-            
+
             doChooseFileAction(actionNode, component);
-            
+
             doMoveCursorAction(actionNode, component);
-            
+
             doSwipeCardAction(actionNode, component);
-            
+
             doReadWriteFingerPrintAction(actionNode, component);
-            
+
             doOpenBroswerAction(actionNode, component);
-            
+
             doSwipe2In1CardAction(actionNode, component);
-            
+
             doPrintPassbookAction(actionNode, component);
         }
     }
-    
+
     private void doPrintPassbookAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.PrintPassbookAction printPassbookAction = actionNode.getPrintPassbookAction();
         if (printPassbookAction != null) {
@@ -367,7 +384,7 @@ public class MainWindow {
             doAction(printPbAction, component.getId());
         }
     }
-    
+
     private void doSwipe2In1CardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction = actionNode.getSwipe2In1CardAction();
         if (swipe2In1CardAction != null) {
@@ -381,7 +398,7 @@ public class MainWindow {
             doAction(read2In1CardAction, component.getId());
         }
     }
-    
+
     private void doOpenBroswerAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.OpenBrowserAction openBroswerAction = actionNode.getOpenBrowserAction();
         if (openBroswerAction != null) {
@@ -390,7 +407,7 @@ public class MainWindow {
             doAction(openBroswer, component.getId());
         }
     }
-    
+
     private void doReadWriteFingerPrintAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.RwFingerPrintAction rwFingerPrintAction = actionNode.getRwFingerPrintAction();
         if (rwFingerPrintAction != null) {
@@ -402,7 +419,7 @@ public class MainWindow {
             doAction(readWriteAction, component.getId());
         }
     }
-    
+
     private void doSwipeCardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SwipeCardAction swipeCardAction = actionNode.getSwipeCardAction();
         if (swipeCardAction != null) {
@@ -414,7 +431,7 @@ public class MainWindow {
             doAction(readCardAction, component.getId());
         }
     }
-    
+
     private void doMoveCursorAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.MoveCursorAction moveCursorAction = actionNode.getMoveCursorAction();
         if (moveCursorAction != null) {
@@ -424,7 +441,7 @@ public class MainWindow {
             doAction(moveAction, component.getId());
         }
     }
-    
+
     private void doWriteICardAction(king.flow.view.Action actionNode, Component component) {
         MsgSendAction writeICardAction = actionNode.getWriteICardAction();
         if (writeICardAction != null) {
@@ -435,13 +452,13 @@ public class MainWindow {
             MsgSendAction.Exception exception = writeICardAction.getException();
             Rules checkRules = writeICardAction.getCheckRules();
             ArrayList<String> listConditions = buildListParameters(conditions);
-            
+
             WriteCardAction writeAction = new WriteCardAction(prsCode, cmdCode,
                     listConditions, nextStep, exception, checkRules);
             doAction(writeAction, component.getId());
         }
     }
-    
+
     private void doInsertICardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.InsertICardAction insertICardAction = actionNode.getInsertICardAction();
         if (insertICardAction != null) {
@@ -452,7 +469,7 @@ public class MainWindow {
             doAction(insertCardAction, component.getId());
         }
     }
-    
+
     private void doChooseFileAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.UploadFileAction fileUploadAction = actionNode.getUploadFileAction();
         if (fileUploadAction != null) {
@@ -462,7 +479,7 @@ public class MainWindow {
             doAction(defaultFileChooseAction, component.getId());
         }
     }
-    
+
     private void doUseTipAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.UseTipAction tipAction = actionNode.getUseTipAction();
         if (tipAction != null) {
@@ -471,7 +488,7 @@ public class MainWindow {
             doAction(defaultTipAction, component.getId());
         }
     }
-    
+
     private void doSetPrinterAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SetPrinterAction printerAction = actionNode.getSetPrinterAction();
         if (printerAction != null) {
@@ -481,7 +498,7 @@ public class MainWindow {
             doAction(defaultPrinterAction, component.getId());
         }
     }
-    
+
     private void doRunCommandAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.RunCommandAction runCommandAction = actionNode.getRunCommandAction();
         if (runCommandAction != null) {
@@ -490,7 +507,7 @@ public class MainWindow {
             doAction(defaultRunCommandAction, component.getId());
         }
     }
-    
+
     private void doLoadWebAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.WebLoadAction webLoadAction = actionNode.getWebLoadAction();
         if (webLoadAction != null) {
@@ -499,7 +516,7 @@ public class MainWindow {
             doAction(defaultWebLoadAction, component.getId());
         }
     }
-    
+
     private void doVirtualKeyboardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.VirtualKeyboardAction virtualKeyboardAction = actionNode.getVirtualKeyboardAction();
         if (virtualKeyboardAction != null) {
@@ -509,7 +526,7 @@ public class MainWindow {
             doAction(defaultKeyboardAction, component.getId());
         }
     }
-    
+
     private void doPlayMediaAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.PlayMediaAction mediaPlayAction = actionNode.getPlayMediaAction();
         if (mediaPlayAction != null) {
@@ -518,7 +535,7 @@ public class MainWindow {
             doAction(defaultMediaAction, component.getId());
         }
     }
-    
+
     private void doLimitInputAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.LimitInputAction limitInputAction = actionNode.getLimitInputAction();
         if (limitInputAction != null) {
@@ -533,7 +550,7 @@ public class MainWindow {
             doAction(defaultTextFieldAction, component.getId());
         }
     }
-    
+
     private void doCleanAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.CleanAction cleanAction = actionNode.getCleanAction();
         if (cleanAction != null) {
@@ -543,7 +560,7 @@ public class MainWindow {
             doAction(defaultCleanAction, component.getId());
         }
     }
-    
+
     private void doSendMsgAction(king.flow.view.Action actionNode, Component component) {
         MsgSendAction sendMsgAction = actionNode.getSendMsgAction();
         if (sendMsgAction != null) {
@@ -554,7 +571,7 @@ public class MainWindow {
             MsgSendAction.Exception exception = sendMsgAction.getException();
             Rules checkRules = sendMsgAction.getCheckRules();
             ArrayList<String> listConditions = buildListParameters(conditions);
-            
+
             if (component.getType() == ComponentEnum.ADVANCED_TABLE) {
                 JXMsgPanel advancedTable = (JXMsgPanel) building_blocks.get(component.getId());
                 advancedTable.initialMsgSendAction(new DefaultMsgSendAction[]{
@@ -574,7 +591,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void doShowComboBoxAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowComboBoxAction comboShowAction = actionNode.getShowComboBoxAction();
         if (comboShowAction != null) {
@@ -584,7 +601,7 @@ public class MainWindow {
             doAction(comboBoxAction, component.getId());
         }
     }
-    
+
     private void doShowTableAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowTableAction tableShowAction = actionNode.getShowTableAction();
         if (tableShowAction != null) {
@@ -601,7 +618,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void doSetFontAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SetFontAction fontSetAction = actionNode.getSetFontAction();
         if (fontSetAction != null) {
@@ -625,7 +642,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void doJumpPanelAction(king.flow.view.Action actionNode, Component component) {
         JumpAction jumpPanelAction = actionNode.getJumpPanelAction();
         if (jumpPanelAction != null) {
@@ -634,12 +651,12 @@ public class MainWindow {
             doAction(buttonAction, component.getId());
         }
     }
-    
+
     private void doCustomizedAction(king.flow.view.Action actionNode, Component component) {
         int componentID = component.getId();
         doDefinedAction(actionNode.getCustomizedAction(), componentID);
     }
-    
+
     private void doDefinedAction(List<DefinedAction> definedActions, int componentID) {
         String actionClass = null;
         try {
@@ -703,13 +720,13 @@ public class MainWindow {
             getLogger(MainWindow.class.getName()).log(Level.WARNING, err_msg, cause);
         }
     }
-    
+
     private void doAction(Action action, int id) {
         action.holdComponents(id, building_blocks, meta_blocks);
         action.setupListener();
         action.initializeData();
     }
-    
+
     private void initComponents(Panel pNode, JPanel panel) throws AssertionError {
         List<Component> components = pNode.getComponent();
         for (Component component : components) {
@@ -719,7 +736,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private JComponent constructComponent(Component component) throws AssertionError {
         final int id = component.getId();
         BasicAttribute attribute = component.getAttribute();
@@ -806,12 +823,12 @@ public class MainWindow {
                 getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, configError);
                 throw configError;
         }
-        
+
         UiStyle uiStyle = winNode.getUiStyle();
         if (uiStyle != null && uiStyle.getFont() != null) {
             setFont(uiStyle.getFont(), jcomponent);
         }
-        
+
         if (jcomponent != null) {
             jcomponent.setBounds(rect.getX().intValue(), rect.getY().intValue(), rect.getWidth().intValue(), rect.getHeigh().intValue());
             if (attribute.isDebug() != null && attribute.isDebug()) {
@@ -822,7 +839,7 @@ public class MainWindow {
         this.meta_blocks.put(id, component);
         return jcomponent;
     }
-    
+
     private void initWindow() throws AssertionError, HeadlessException {
         BasicAttribute attribute = winNode.getAttribute();
         final int id = winNode.getId();
@@ -832,7 +849,7 @@ public class MainWindow {
         String icon = attribute.getIcon();
         Bound rect = attribute.getRect();
         JMenuBar menuBar = createMenuBar();
-        
+
         WindowEnum type = winNode.getType();
         switch (type) {
             case FRAME:
@@ -898,10 +915,10 @@ public class MainWindow {
                 getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, configError);
                 throw configError;
         }
-        
+
         setCurrentView(window);
     }
-    
+
     private JMenuBar createMenuBar() {
         JMenuBar bar = null;
         Menubar menubar = winNode.getMenubar();
@@ -933,7 +950,7 @@ public class MainWindow {
         }
         return bar;
     }
-    
+
     private void setMenuFont(UiStyle uiStyle, JMenuItem menuItem) {
         if (uiStyle != null && uiStyle.getFont() != null) {
             final Font font_des = uiStyle.getFont();
@@ -945,27 +962,27 @@ public class MainWindow {
             menuItem.setFont(font);
         }
     }
-    
+
     private boolean isFullScreen() {
         Boolean fullscreen = winNode.getUiStyle().isFullscreen();
         return fullscreen == null ? true : fullscreen;
     }
-    
+
     public void setVisible(boolean b) {
         this.window.setVisible(b);
     }
-    
+
     public void addWindowListener(WindowAdapter windowAdapter) {
         this.window.addWindowListener(windowAdapter);
     }
-    
+
     public Object getBuildingBlock(int id) {
         if (this.building_blocks == null) {
             return null;
         }
         return building_blocks.get(id);
     }
-    
+
     public Object getBlockMeta(int id) {
         if (this.meta_blocks == null) {
             return null;
