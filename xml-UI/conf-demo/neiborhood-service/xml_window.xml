@@ -70,5 +70,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <page>./conf-demo/neiborhood-service/entry/charge/waterfee/panel-140.xml</page>
         <page>./conf-demo/neiborhood-service/entry/charge/waterfee/panel-145.xml</page>
         <page>./conf-demo/neiborhood-service/entry/charge/waterfee/panel-146.xml</page>
+        
+        <page>./conf-demo/neiborhood-service/entry/query/panel-205.xml</page>
     </contents>
 </window>
