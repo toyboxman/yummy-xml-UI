@@ -12,8 +12,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>2000601</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/3.jpg</background>
-	<component>
+    <background>/image/3.jpg</background>
+    <component>
         <id>2000602</id>
         <type>Label</type>
         <attribute>
@@ -32,7 +32,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
+    <component>
         <id>2000603</id>
         <type>Label</type>
         <attribute>
@@ -51,7 +51,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 
-	<component>
+    <component>
         <id>2000604</id>
         <type>ComboBox</type>
         <attribute>
@@ -63,7 +63,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
 		
-		<action>
+        <action>
             <showComboBoxAction>
                 <items>/, ACTION4/读银行卡</items>
             </showComboBoxAction>
@@ -73,8 +73,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </swipe2In1CardAction>
         </action>
 		
-		<action>
-			<playMediaAction>
+        <action>
+            <playMediaAction>
                 <media>./media/accout.wav</media>
             </playMediaAction>
         </action>
@@ -82,8 +82,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 	
 	
 	
-	<component>
-        <id>2000505</id>
+    <component>
+        <id>2000605</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -101,7 +101,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
+    <component>
         <id>2000609</id>
         <type>ComboBox</type>
         <attribute>
@@ -125,7 +125,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	
-	<component>
+    <component>
         <id>2000610</id>
         <type>Label</type>
         <attribute>
@@ -144,7 +144,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
+    <component>
         <id>2000606</id>
         <type>PasswordField</type>
         <attribute>
@@ -156,16 +156,16 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
 		
-		<action>
+        <action>
             <limitInputAction>
                 <length>6</length>
             </limitInputAction>
-			<playMediaAction>
+            <playMediaAction>
                 <media>./media/passwd.wav</media>
             </playMediaAction>
 			
 			
-			<customizedAction>
+            <customizedAction>
                 <className>king.flow.action.customization.CusorMoveAction</className>
                 <constructorParameters>
                     <parameter>
@@ -177,7 +177,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <value>2000607</value>
                     </parameter>
                 </constructorParameters>
-			</customizedAction>
+            </customizedAction>
         </action>
     </component>
 	
@@ -202,7 +202,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <fontSize>30</fontSize>
             </setFontAction>
 			
-			<customizedAction>
+            <customizedAction>
                 <className>king.flow.action.customization.CusorMoveAction</className>
                 <constructorParameters>
                     <parameter>
@@ -214,11 +214,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <value>2000607</value>
                     </parameter>
                 </constructorParameters>
-			</customizedAction>
+            </customizedAction>
 			
         </action>
 		
-		<action>
+        <action>
             <sendMsgAction>
                 <prsCode>accoutDongjie</prsCode>
                 <conditions>2000604,2000606</conditions>
@@ -227,12 +227,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>20006694</display>  
                 </nextStep>
                 <exception> 
-                   <nextPanel>999</nextPanel>  
+                    <nextPanel>999</nextPanel>  
                     <display>9993</display>  
                 </exception>
 				
-				<checkRules>
-					<notNull>
+                <checkRules>
+                    <notNull>
                         <content>2000604</content>
                         <errMsg>卡号不能为空</errMsg>
                     </notNull>
@@ -241,7 +241,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <content>2000606</content>
                         <errMsg>密码不能为空</errMsg>
                     </notNull>
-				</checkRules>	
+                </checkRules>	
 				
             </sendMsgAction>
         </action>
@@ -267,7 +267,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		
 		
-		<action>
+        <action>
             <cleanAction>
                 <conditions>2000604,2000606</conditions>
             </cleanAction>

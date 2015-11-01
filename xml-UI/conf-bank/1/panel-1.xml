@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>1</id>
     <type>Panel</type>
     <active>true</active>
-	<background>/image/5.jpg</background>
+    <background>/image/5.jpg</background>
     <component>
         <id>2</id>
         <type>Label</type>
@@ -46,7 +46,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-			<setFontAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
             <jumpPanelAction>
@@ -55,7 +55,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
+    <component>
         <id>4</id>
         <type>Button</type>
         <attribute>
@@ -69,7 +69,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-		 <setFontAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
             <jumpPanelAction>
@@ -94,19 +94,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
-			<jumpPanelAction>
+            <jumpPanelAction>
                 <nextPanel>1</nextPanel>
             </jumpPanelAction>
         </action>
 		
-		<action>
-			<openBrowserAction>
+        <!--<action>
+            <openBrowserAction>
                 <url>http://www.hcrcb.com/</url>
             </openBrowserAction>
-        </action>
+        </action>-->
     </component>
 	
-	<component>
+    <component>
         <id>6</id>
         <type>Button</type>
         <attribute>
@@ -120,7 +120,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <action>
-		 <setFontAction>
+            <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
             <jumpPanelAction>
@@ -130,7 +130,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	
-	<component>
+    <component>
         <id>7</id>
         <type>Label</type>
         <attribute>
