@@ -12,6 +12,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.HashMap;
+import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
@@ -114,7 +115,7 @@ public class MainWindow {
     private Window window = null;
     private Map<Integer, Object> building_blocks = null;
     private Map<Integer, Object> meta_blocks = null;
-    private List<Panel> panelNodes = null;
+    private Map<Panel, String> panelNodes = null;
     private List<Menuitem> menuNodes = null;
 
     public MainWindow(king.flow.view.Window node) {
@@ -122,7 +123,7 @@ public class MainWindow {
         setWindowNode(winNode);
         this.building_blocks = new HashMap<>();
         this.meta_blocks = new HashMap<>();
-        this.panelNodes = new ArrayList<>();
+        this.panelNodes = new Hashtable<>();
         this.menuNodes = new ArrayList<>();
         initUI();
         initActions();
@@ -163,7 +164,7 @@ public class MainWindow {
                     }
                 }
 
-                this.panelNodes.add(pNode);
+                this.panelNodes.put(pNode, pageURI);
                 String background = pNode.getBackground();
                 JPanel panel = constructPanel(pNode);
                 initComponents(pNode, panel);
@@ -299,9 +300,11 @@ public class MainWindow {
     }
 
     private void initActions() {
-        for (Panel panel : panelNodes) {
+        for (Panel panel : panelNodes.keySet()) {
+            String pageURI = panelNodes.get(panel);
             List<Component> components = panel.getComponent();
             for (Component component : components) {
+                validateActionConfig(component, panel, pageURI);
                 setupAction(component);
             }
 
@@ -320,6 +323,54 @@ public class MainWindow {
             }
 
             doDefinedAction(action.getCustomizedAction(), item.getId());
+        }
+    }
+
+    private void validateActionConfig(Component component, Panel panel, String pageURI) throws HeadlessException {
+        List<king.flow.view.Action> actions = component.getAction();
+        for (king.flow.view.Action action : actions) {
+            validateJumpAction(action.getJumpPanelAction(), component, panel, pageURI);
+        }
+    }
+
+    private void validateJumpAction(JumpAction jumpPanelAction, Component component, Panel panel, String pageURI) throws HeadlessException {
+        if (jumpPanelAction != null) {
+            int nextPanel = jumpPanelAction.getNextPanel();
+            Object np = this.meta_blocks.get(nextPanel);
+            String configErrMsg = null;
+            if (np == null) {
+                configErrMsg = new StringBuilder().append(component.getType().toString())
+                        .append('[').append(component.getId()).append(']').append(" of ")
+                        .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
+                        .append("in ").append(pageURI).append('\n')
+                        .append("mistakenly configure JumpAction").append('\n')
+                        .append("with nonexistent nextPanel").append('[').append(nextPanel).append(']').toString();
+            } else if (!(np instanceof Panel)) {
+                String type = null;
+                if (np instanceof Component) {
+                    type = ((Component) np).getType().toString();
+                } else if (np instanceof king.flow.view.Window) {
+                    type = ((king.flow.view.Window) np).getType().toString();
+                } else if (np instanceof Decorator) {
+                    type = ((Decorator) np).getType().toString();
+                } else if (np instanceof Menuitem) {
+                    type = "MenuItem";
+                } else if (np instanceof Menubar) {
+                    type = "MenuBar";
+                } else if (np instanceof Menuoption) {
+                    type = "MenuOption";
+                }
+                configErrMsg = new StringBuilder().append(component.getType().toString())
+                        .append('[').append(component.getId()).append(']').append(" of ")
+                        .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
+                        .append("in ").append(pageURI).append('\n')
+                        .append("mistakenly configure JumpAction").append('\n')
+                        .append("with invalid type").append('[').append(type).append(']').append('\n')
+                        .append("of nextPanel").append('[').append(nextPanel).append(']').append(" parameter").toString();
+            }
+            if (configErrMsg != null) {
+                CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+            }
         }
     }
 
