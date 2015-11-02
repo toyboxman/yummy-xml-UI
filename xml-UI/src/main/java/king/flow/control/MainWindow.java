@@ -330,6 +330,46 @@ public class MainWindow {
         List<king.flow.view.Action> actions = component.getAction();
         for (king.flow.view.Action action : actions) {
             validateJumpAction(action.getJumpPanelAction(), component, panel, pageURI);
+            validateCLeanAction(action.getCleanAction(), component, panel, pageURI);
+        }
+    }
+
+    private void validateCLeanAction(king.flow.view.Action.CleanAction cleanAction, Component component, Panel panel, String pageURI) throws HeadlessException {
+        if (cleanAction != null) {
+            String conditions = cleanAction.getConditions().trim();
+            if (conditions.length() == 0) {
+                String configErrMsg = new StringBuilder().append(component.getType().toString())
+                        .append('[').append(component.getId()).append(']').append(" of ")
+                        .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
+                        .append("in ").append(pageURI).append('\n')
+                        .append("mistakenly configures CleanAction").append('\n')
+                        .append("with empty conditions").toString();
+                CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+            }
+            ArrayList<String> listParameters = buildListParameters(conditions);
+            for (String cleanTargetId : listParameters) {
+                int id = Integer.MIN_VALUE;
+                try {
+                    id = Integer.parseInt(cleanTargetId);
+                } catch (NumberFormatException numberFormatException) {
+                    String configErrMsg = new StringBuilder().append(component.getType().toString())
+                            .append('[').append(component.getId()).append(']').append(" of ")
+                            .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
+                            .append("in ").append(pageURI).append('\n')
+                            .append("mistakenly configures CleanAction").append('\n')
+                            .append("with invalid target").append('[').append(cleanTargetId).append(']').toString();
+                    CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+                }
+                if (!this.meta_blocks.containsKey(id)) {
+                    String configErrMsg = new StringBuilder().append(component.getType().toString())
+                            .append('[').append(component.getId()).append(']').append(" of ")
+                            .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
+                            .append("in ").append(pageURI).append('\n')
+                            .append("mistakenly configures CleanAction").append('\n')
+                            .append("with nonexistent target").append('[').append(id).append(']').toString();
+                    CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+                }
+            }
         }
     }
 
@@ -343,7 +383,7 @@ public class MainWindow {
                         .append('[').append(component.getId()).append(']').append(" of ")
                         .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
                         .append("in ").append(pageURI).append('\n')
-                        .append("mistakenly configure JumpAction").append('\n')
+                        .append("mistakenly configures JumpAction").append('\n')
                         .append("with nonexistent nextPanel").append('[').append(nextPanel).append(']').toString();
             } else if (!(np instanceof Panel)) {
                 String type = null;
@@ -606,7 +646,7 @@ public class MainWindow {
         king.flow.view.Action.CleanAction cleanAction = actionNode.getCleanAction();
         if (cleanAction != null) {
             String conditions = cleanAction.getConditions();
-            ArrayList listParameters = buildListParameters(conditions);
+            ArrayList<String> listParameters = buildListParameters(conditions);
             DefaultCleanAction defaultCleanAction = new DefaultCleanAction(listParameters);
             doAction(defaultCleanAction, component.getId());
         }
