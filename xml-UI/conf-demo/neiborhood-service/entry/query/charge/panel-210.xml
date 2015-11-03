@@ -40,7 +40,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>60</heigh>
             </rect>
-            <text>智能卡号:</text>
+            <text>智能卡号</text>
         </attribute>
         <action>
             <setFontAction>
@@ -62,8 +62,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <moveCursorAction>
-                <upCursor>5014</upCursor>
-                <downCursor>5016</downCursor>
+                <upCursor>2103</upCursor>
+                <downCursor>2105</downCursor>
             </moveCursorAction>
         </action>
     </component>
@@ -78,7 +78,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>60</heigh>
             </rect>
-            <text>查询密码:</text>
+            <text>查询密码</text>
         </attribute>
         <action>
             <setFontAction>
@@ -100,8 +100,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <moveCursorAction>
-                <upCursor>5014</upCursor>
-                <downCursor>5018</downCursor>
+                <upCursor>2103</upCursor>
+                <downCursor>2106</downCursor>
             </moveCursorAction>
             <limitInputAction>
                 <length>6</length>
@@ -126,8 +126,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <moveCursorAction>
-                <upCursor>5014</upCursor>
-                <downCursor>5018</downCursor>
+                <upCursor>2105</upCursor>
+                <downCursor>2107</downCursor>
             </moveCursorAction>
             <sendMsgAction>
                 <prsCode>queryCharge</prsCode>
@@ -137,8 +137,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>21010</display>  
                 </nextStep>
                 <exception> 
-                    <nextPanel>999</nextPanel>  
-                    <display>9993</display>  
+                    <nextPanel>210</nextPanel>  
+                    <display>21010</display>  
                 </exception>			
                 <checkRules>
                     <notNull>
