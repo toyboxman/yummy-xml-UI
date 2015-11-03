@@ -131,10 +131,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </moveCursorAction>
             <sendMsgAction>
                 <prsCode>queryCharge</prsCode>
-                <conditions>5014, 5016</conditions>
+                <conditions>2103, 2105</conditions>
                 <nextStep>  
-                    <nextPanel>5011</nextPanel> 
-                    <display>50110</display>  
+                    <nextPanel>210</nextPanel> 
+                    <display>21010</display>  
                 </nextStep>
                 <exception> 
                     <nextPanel>999</nextPanel>  

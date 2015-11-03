@@ -330,20 +330,26 @@ public class MainWindow {
         List<king.flow.view.Action> actions = component.getAction();
         for (king.flow.view.Action action : actions) {
             validateJumpAction(action.getJumpPanelAction(), component, panel, pageURI);
-            validateCLeanAction(action.getCleanAction(), component, panel, pageURI);
+            validateCleanAction(action.getCleanAction(), component, panel, pageURI);
+            validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
+            validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
         }
     }
 
-    private void validateCLeanAction(king.flow.view.Action.CleanAction cleanAction, Component component, Panel panel, String pageURI) throws HeadlessException {
-        if (cleanAction != null) {
-            String conditions = cleanAction.getConditions().trim();
-            if (conditions.length() == 0) {
-                String configErrMsg = new StringBuilder().append(component.getType().toString())
-                        .append('[').append(component.getId()).append(']').append(" of ")
-                        .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
-                        .append("in ").append(pageURI).append('\n')
-                        .append("mistakenly configures CleanAction").append('\n')
-                        .append("with empty conditions").toString();
+    private void validateMoveCursorAction(king.flow.view.Action.MoveCursorAction moveCursorAction, Component component, Panel panel, String pageURI) throws HeadlessException {
+        
+    }
+    
+    private void validateSendMsgAction(MsgSendAction sendMsgAction, Component component, Panel panel, String pageURI) throws HeadlessException {
+        String configErrMsg = null;
+        String configErrMsgFooter = null;
+        if (sendMsgAction != null) {
+            String conditions = sendMsgAction.getConditions();
+            configErrMsgFooter = " of conditions property";
+            if (conditions == null || conditions.trim().length() == 0) {
+                configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                        .append(sendMsgAction.getClass().getSimpleName()).append('\n')
+                        .append("with empty value").append(configErrMsgFooter).toString();
                 CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
             }
             ArrayList<String> listParameters = buildListParameters(conditions);
@@ -352,39 +358,28 @@ public class MainWindow {
                 try {
                     id = Integer.parseInt(cleanTargetId);
                 } catch (NumberFormatException numberFormatException) {
-                    String configErrMsg = new StringBuilder().append(component.getType().toString())
-                            .append('[').append(component.getId()).append(']').append(" of ")
-                            .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
-                            .append("in ").append(pageURI).append('\n')
-                            .append("mistakenly configures CleanAction").append('\n')
-                            .append("with invalid target").append('[').append(cleanTargetId).append(']').toString();
+                    configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                            .append(sendMsgAction.getClass().getSimpleName()).append('\n')
+                            .append("with invalid target").append('[').append(cleanTargetId).append(']').append(configErrMsgFooter).toString();
                     CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
                 }
                 if (!this.meta_blocks.containsKey(id)) {
-                    String configErrMsg = new StringBuilder().append(component.getType().toString())
-                            .append('[').append(component.getId()).append(']').append(" of ")
-                            .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
-                            .append("in ").append(pageURI).append('\n')
-                            .append("mistakenly configures CleanAction").append('\n')
-                            .append("with nonexistent target").append('[').append(id).append(']').toString();
+                    configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                            .append(sendMsgAction.getClass().getSimpleName()).append('\n')
+                            .append("with nonexistent target").append('[').append(id).append(']').append(configErrMsgFooter).toString();
                     CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
                 }
             }
-        }
-    }
 
-    private void validateJumpAction(JumpAction jumpPanelAction, Component component, Panel panel, String pageURI) throws HeadlessException {
-        if (jumpPanelAction != null) {
-            int nextPanel = jumpPanelAction.getNextPanel();
+            int nextPanel = sendMsgAction.getNextStep().getNextPanel();
             Object np = this.meta_blocks.get(nextPanel);
-            String configErrMsg = null;
+            configErrMsgFooter = " of " + sendMsgAction.getNextStep().getClass().getSimpleName() + " property";
             if (np == null) {
-                configErrMsg = new StringBuilder().append(component.getType().toString())
-                        .append('[').append(component.getId()).append(']').append(" of ")
-                        .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
-                        .append("in ").append(pageURI).append('\n')
-                        .append("mistakenly configures JumpAction").append('\n')
-                        .append("with nonexistent nextPanel").append('[').append(nextPanel).append(']').toString();
+                configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                        .append(sendMsgAction.getClass().getSimpleName()).append('\n')
+                        .append("with nonexistent panel").append('[').append(nextPanel).append(']')
+                        .append(configErrMsgFooter).toString();
+                CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
             } else if (!(np instanceof Panel)) {
                 String type = null;
                 if (np instanceof Component) {
@@ -400,15 +395,104 @@ public class MainWindow {
                 } else if (np instanceof Menuoption) {
                     type = "MenuOption";
                 }
-                configErrMsg = new StringBuilder().append(component.getType().toString())
-                        .append('[').append(component.getId()).append(']').append(" of ")
-                        .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
-                        .append("in ").append(pageURI).append('\n')
-                        .append("mistakenly configure JumpAction").append('\n')
-                        .append("with invalid type").append('[').append(type).append(']').append('\n')
-                        .append("of nextPanel").append('[').append(nextPanel).append(']').append(" parameter").toString();
+                configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                        .append(sendMsgAction.getClass().getSimpleName()).append('\n')
+                        .append("with invalid panel type").append('[').append(type).append(']').append('\n')
+                        .append("and value").append('[').append(nextPanel).append(']')
+                        .append(configErrMsgFooter).toString();
+                CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
             }
-            if (configErrMsg != null) {
+
+            int display = sendMsgAction.getNextStep().getDisplay();
+            np = this.meta_blocks.get(display);
+            if (np == null) {
+                configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                        .append(sendMsgAction.getClass().getSimpleName()).append('\n')
+                        .append("with nonexistent display").append('[').append(display).append(']')
+                        .append(configErrMsgFooter).toString();
+                CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+            }
+            
+            sendMsgAction.getException();
+            
+            sendMsgAction.getCheckRules();
+            
+            sendMsgAction.getCmdCode();
+        }
+    }
+
+    private void validateCleanAction(king.flow.view.Action.CleanAction cleanAction, Component component, Panel panel, String pageURI) throws HeadlessException {
+        if (cleanAction != null) {
+            String configErrMsg = null;
+            String configErrMsgFooter = " of " + cleanAction.getConditions().getClass().getSimpleName() + " property";
+            String conditions = cleanAction.getConditions();
+            if (conditions == null || conditions.trim().length() == 0) {
+                configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                        .append(cleanAction.getClass().getSimpleName()).append('\n')
+                        .append("with empty value").append(configErrMsgFooter).toString();
+                CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+            }
+            ArrayList<String> listParameters = buildListParameters(conditions);
+            for (String cleanTargetId : listParameters) {
+                int id = Integer.MIN_VALUE;
+                try {
+                    id = Integer.parseInt(cleanTargetId);
+                } catch (NumberFormatException numberFormatException) {
+                    configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                            .append(cleanAction.getClass().getSimpleName()).append('\n')
+                            .append("with invalid target").append('[').append(cleanTargetId).append(']').append(configErrMsgFooter).toString();
+                    CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+                }
+                if (!this.meta_blocks.containsKey(id)) {
+                    configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                            .append(cleanAction.getClass().getSimpleName()).append('\n')
+                            .append("with nonexistent target").append('[').append(id).append(']').append(configErrMsgFooter).toString();
+                    CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+                }
+            }
+        }
+    }
+
+    public StringBuilder buildConfigErrMsgHeader(Component component, Panel panel, String pageURI) {
+        StringBuilder configErrMsg = new StringBuilder().append(component.getType().toString())
+                .append('[').append(component.getId()).append(']').append(" of ")
+                .append(panel.getType()).append('[').append(panel.getId()).append(']').append('\n')
+                .append("in ").append(pageURI).append('\n')
+                .append("mistakenly configures ");
+        return configErrMsg;
+    }
+
+    private void validateJumpAction(JumpAction jumpPanelAction, Component component, Panel panel, String pageURI) throws HeadlessException {
+        if (jumpPanelAction != null) {
+            int nextPanel = jumpPanelAction.getNextPanel();
+            Object np = this.meta_blocks.get(nextPanel);
+            String configErrMsg = null;
+            String configErrMsgFooter = " of nextPanel property";
+            if (np == null) {
+                configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                        .append(jumpPanelAction.getClass().getSimpleName()).append('\n')
+                        .append("with nonexistent panel").append('[').append(nextPanel).append(']').append(configErrMsgFooter).toString();
+                CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+            } else if (!(np instanceof Panel)) {
+                String type = null;
+                if (np instanceof Component) {
+                    type = ((Component) np).getType().toString();
+                } else if (np instanceof king.flow.view.Window) {
+                    type = ((king.flow.view.Window) np).getType().toString();
+                } else if (np instanceof Decorator) {
+                    type = ((Decorator) np).getType().toString();
+                } else if (np instanceof Menuitem) {
+                    type = "MenuItem";
+                } else if (np instanceof Menubar) {
+                    type = "MenuBar";
+                } else if (np instanceof Menuoption) {
+                    type = "MenuOption";
+                }
+                configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                        .append(jumpPanelAction.getClass().getSimpleName()).append('\n')
+                        .append("with invalid panel type").append('[').append(type).append(']').append('\n')
+                        .append("and value").append('[').append(nextPanel).append(']')
+                        .append(configErrMsgFooter).toString();
                 CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
             }
         }
