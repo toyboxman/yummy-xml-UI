@@ -78,5 +78,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         
         <page>./conf-demo/neiborhood-service/entry/query/consume/panel-220.xml</page>
         <page>./conf-demo/neiborhood-service/entry/query/consume/panel-226.xml</page>
+        
+        <page>./conf-demo/neiborhood-service/entry/query/card/panel-230.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/query/card/panel-235.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/query/card/panel-236.xml</page>
     </contents>
 </window>

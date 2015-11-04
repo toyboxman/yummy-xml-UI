@@ -155,6 +155,11 @@
 								"现金支付"]]
 					}
 				},
+				"queryCard" : {
+					"success" : {
+						"okmsg" : "<html>智能卡账号:6222000266326589875<br>用户名:李儒宋<br>物业单位:7号楼9-801室<br>智能卡账户金额:1563.00元<br>智能卡有效期:2019-12-31<br>发卡物业:戴德物业有限公司</html>"
+					}
+				},
 				"accoutGuashi" : {
 					"operation" : {
 						"suspendAcount" : {
