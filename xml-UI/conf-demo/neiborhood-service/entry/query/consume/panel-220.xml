@@ -9,10 +9,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../../../../../conf/WindowXmlSchema.xsd'>
-    <id>210</id>
+    <id>220</id>
     <type>Panel</type>
     <component>
-        <id>2101</id>
+        <id>2201</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -21,7 +21,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>缴费信息记录查询</text>
+            <text>消费信息记录查询</text>
         </attribute>
         <action>
             <setFontAction>
@@ -31,7 +31,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
     
     <component>
-        <id>2102</id>
+        <id>2202</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -50,7 +50,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>2103</id>
+        <id>2203</id>
         <type>TextField</type>
         <attribute>
             <rect>
@@ -62,14 +62,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <moveCursorAction>
-                <upCursor>2103</upCursor>
-                <downCursor>2105</downCursor>
+                <upCursor>2203</upCursor>
+                <downCursor>2205</downCursor>
             </moveCursorAction>
         </action>
     </component>
 	
     <component>
-        <id>2104</id>
+        <id>2204</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -88,7 +88,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>2105</id>
+        <id>2205</id>
         <type>PasswordField</type>
         <attribute>
             <rect>
@@ -100,8 +100,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <moveCursorAction>
-                <upCursor>2103</upCursor>
-                <downCursor>2106</downCursor>
+                <upCursor>2203</upCursor>
+                <downCursor>2206</downCursor>
             </moveCursorAction>
             <limitInputAction>
                 <length>6</length>
@@ -113,7 +113,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>2106</id>
+        <id>2206</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -126,27 +126,27 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <moveCursorAction>
-                <upCursor>2105</upCursor>
-                <downCursor>2107</downCursor>
+                <upCursor>2205</upCursor>
+                <downCursor>2207</downCursor>
             </moveCursorAction>
             <sendMsgAction>
-                <prsCode>queryCharge</prsCode>
-                <conditions>2103, 2105</conditions>
+                <prsCode>queryConsume</prsCode>
+                <conditions>2203, 2205</conditions>
                 <nextStep>  
-                    <nextPanel>210</nextPanel> 
-                    <display>21010</display>  
+                    <nextPanel>220</nextPanel> 
+                    <display>22010</display>  
                 </nextStep>
                 <exception> 
-                    <nextPanel>216</nextPanel>  
-                    <display>2163</display>  
+                    <nextPanel>226</nextPanel>  
+                    <display>2263</display>  
                 </exception>			
                 <checkRules>
                     <notNull>
-                        <content>2103</content>
+                        <content>2203</content>
                         <errMsg>智能卡号不能为空</errMsg>
                     </notNull>			
                     <notNull>
-                        <content>2105</content>
+                        <content>2205</content>
                         <errMsg>查询密码不能为空</errMsg>
                     </notNull>
                 </checkRules>		
@@ -155,7 +155,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>2107</id>
+        <id>2207</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -171,13 +171,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>205</nextPanel>
             </jumpPanelAction>
             <cleanAction>
-                <conditions>2103,2105,21010</conditions>
+                <conditions>2203,2205,22010</conditions>
             </cleanAction>
         </action>	
     </component>
     
     <component>
-        <id>2108</id>
+        <id>2208</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -186,7 +186,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>1024</width>
                 <heigh>70</heigh>
             </rect>
-            <text>   缴费查询信息管理</text>
+            <text>   消费查询信息管理</text>
             <debug>false</debug>
         </attribute>
         <action>
@@ -197,7 +197,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <decorator>
-        <id>2109</id>
+        <id>2209</id>
         <type>ScrollPanel</type>
         <attribute>
             <rect>
@@ -209,7 +209,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <debug>false</debug>
         </attribute>
         <component>
-            <id>21010</id>
+            <id>22010</id>
             <type>Table</type>
             <attribute>
                 <rect>
@@ -225,7 +225,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <fontSize>22</fontSize>
                 </setFontAction>
                 <showTableAction>
-                    <columnNames>流水号, 缴费时间, 缴费金额, 缴费业务类型, 备注</columnNames>
+                    <columnNames>流水号, 消费时间, 消费金额, 消费业务类型, 备注</columnNames>
                 </showTableAction>
             </action>
         </component>
