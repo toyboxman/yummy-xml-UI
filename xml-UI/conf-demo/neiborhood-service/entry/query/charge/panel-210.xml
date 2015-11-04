@@ -225,7 +225,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <fontSize>22</fontSize>
                 </setFontAction>
                 <showTableAction>
-                    <columnNames>流水号, 缴费时间, 缴费业务类型, 缴费金额</columnNames>
+                    <columnNames>流水号, 缴费时间, 缴费金额, 缴费业务类型, 备注</columnNames>
                 </showTableAction>
             </action>
         </component>
