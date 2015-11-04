@@ -340,55 +340,170 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (moveCursorAction != null) {
             int upCursor = moveCursorAction.getUpCursor();
-            if (!this.meta_blocks.containsKey(upCursor)) {
-                validateExistentBlock(component, panel, pageURI,
-                        moveCursorAction.getClass().getSimpleName(), upCursor, "upCursor", null);
-            }
             int downCursor = moveCursorAction.getDownCursor();
-            if (!this.meta_blocks.containsKey(downCursor)) {
-                validateExistentBlock(component, panel, pageURI,
-                        moveCursorAction.getClass().getSimpleName(), downCursor, "downCursor", null);
+            String actionName = moveCursorAction.getClass().getSimpleName();
+
+            if (!this.meta_blocks.containsKey(upCursor)) {
+                promptNonexistentBlockErr(upCursor, moveCursorAction.getClass().getSimpleName(), "upCursor", component, panel, pageURI, null);
+            } else {
+                validateReachableBlock(upCursor, actionName, "upCursor", component, panel, pageURI);
             }
 
+            if (!this.meta_blocks.containsKey(downCursor)) {
+                promptNonexistentBlockErr(downCursor, moveCursorAction.getClass().getSimpleName(), "downCursor", component, panel, pageURI, null);
+            } else {
+                validateReachableBlock(upCursor, actionName, "downCursor", component, panel, pageURI);
+            }
+        }
+    }
+
+    public void validateReachableBlock(int blockId, String actionName, String propertyName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        List<Component> pageComponents = panel.getComponent();
+        boolean existInPanel = false;
+        for (Component cp : pageComponents) {
+            if (cp.getId() == blockId) {
+                existInPanel = true;
+                break;
+            }
+        }
+        if (!existInPanel) {
+            String configErrMsgFooter = " of " + propertyName + " property";
+            String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                    .append(actionName).append('\n')
+                    .append("with unreachable ").append(propertyName).append('[').append(blockId).append(']')
+                    .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+            CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
         }
     }
 
     private void validateSendMsgAction(MsgSendAction sendMsgAction,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (sendMsgAction != null) {
-            validateConditionsParameter(sendMsgAction.getConditions(), sendMsgAction.getClass().getSimpleName(),
+            final String actionName = sendMsgAction.getClass().getSimpleName();
+
+            //validate parameter config concerning data collection from components 
+            validateConditionsParameter(sendMsgAction.getConditions(), actionName, null,
                     component, panel, pageURI);
 
             //validate successful path parameter config
-            validateNextPanelParameter(sendMsgAction.getNextStep().getNextPanel(),
-                    sendMsgAction.getClass().getSimpleName(),
-                    sendMsgAction.getNextStep().getClass().getSimpleName(),
-                    component, panel, pageURI);
-            validateDisplayParameter(sendMsgAction.getNextStep().getDisplay(), component, panel, pageURI,
-                    sendMsgAction.getClass().getSimpleName(),
-                    sendMsgAction.getNextStep().getClass().getSimpleName());
+            if (sendMsgAction.getNextStep() != null) {
+                final String nextStepPropertyName = sendMsgAction.getNextStep().getClass().getSimpleName();
+                validateNextPanelParameter(sendMsgAction.getNextStep().getNextPanel(), actionName, nextStepPropertyName,
+                        component, panel, pageURI);
+                validateDisplayParameter(sendMsgAction.getNextStep().getDisplay(), actionName, nextStepPropertyName, component, panel, pageURI);
+            }
 
             //validate exceptional path parameter config
-            validateNextPanelParameter(sendMsgAction.getException().getNextPanel(),
-                    sendMsgAction.getClass().getSimpleName(),
-                    sendMsgAction.getException().getClass().getSimpleName(),
-                    component, panel, pageURI);
-            validateDisplayParameter(sendMsgAction.getException().getDisplay(), component, panel, pageURI,
-                    sendMsgAction.getClass().getSimpleName(),
-                    sendMsgAction.getException().getClass().getSimpleName());
+            if (sendMsgAction.getException() != null) {
+                final String exceptionPropertyName = sendMsgAction.getException().getClass().getSimpleName();
+                validateNextPanelParameter(sendMsgAction.getException().getNextPanel(), actionName, exceptionPropertyName,
+                        component, panel, pageURI);
+                validateDisplayParameter(sendMsgAction.getException().getDisplay(), actionName, exceptionPropertyName, component, panel, pageURI);
+            }
 
-            sendMsgAction.getCheckRules();
+            //validate rules path parameter config
+            if (sendMsgAction.getCheckRules() != null) {
+                final String checkRulesPropertyName = sendMsgAction.getCheckRules().getClass().getSimpleName();
+                validateRulesParameter(sendMsgAction.getCheckRules(), actionName, checkRulesPropertyName, component, panel, pageURI);
+            }
         }
     }
 
-    private void validateConditionsParameter(String conditions, String actionName, Component component,
+    public void validateRulesParameter(Rules rules, String actionName, String propertyName, Component component,
+            Panel panel, String pageURI) {
+        if (rules != null) {
+            String configErrMsgFooter = " of " + propertyName + " property";
+            List<Rules.Equal> equalRules = rules.getEqual();
+            if (equalRules != null && !equalRules.isEmpty()) {
+                for (Rules.Equal equal : equalRules) {
+                    validateConditionsParameter(equal.getConditions(), actionName, propertyName, component, panel, pageURI);
+                }
+            }
+
+            List<Rules.NotEqual> notEqualRules = rules.getNotEqual();
+            if (notEqualRules != null && !notEqualRules.isEmpty()) {
+                for (Rules.NotEqual notEqual : notEqualRules) {
+                    int less = notEqual.getLess();
+                    if (this.meta_blocks.containsKey(less)) {
+                        // As there is a special scenario, I have to remove reachable component-checking.
+                        // because probably when you firstly query account in one page and secondly transfer in other page,
+                        // you have to use an unreachable component in first page
+                        //validateReachableBlock(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI);
+                    } else {
+                        promptNonexistentBlockErr(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                    }
+
+                    int more = notEqual.getMore();
+                    if (this.meta_blocks.containsKey(more)) {
+                        // As there is a special scenario, I have to remove reachable component-checking.
+                        // because probably when you firstly query account in one page and secondly transfer in other page,
+                        // you have to use an unreachable component in first page
+                        //validateReachableBlock(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI);
+                    } else {
+                        promptNonexistentBlockErr(more, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                    }
+                }
+            }
+
+            List<Rules.NotNull> notNullRules = rules.getNotNull();
+            if (notNullRules != null && !notNullRules.isEmpty()) {
+                for (Rules.NotNull notNull : notNullRules) {
+                    int content = notNull.getContent();
+                    if (this.meta_blocks.containsKey(content)) {
+                        // As there is a special scenario, I have to remove reachable component-checking.
+                        // because probably when you firstly query account in one page and secondly transfer in other page,
+                        // you have to use an unreachable component in first page
+                        //validateReachableBlock(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI);
+                    } else {
+                        promptNonexistentBlockErr(content, actionName, notNull.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                    }
+                }
+            }
+
+            List<Rules.Template> templateRules = rules.getTemplate();
+            if (templateRules != null && !templateRules.isEmpty()) {
+                for (Rules.Template template : templateRules) {
+                    int content = template.getContent();
+                    if (this.meta_blocks.containsKey(content)) {
+                        // As there is a special scenario, I have to remove reachable component-checking.
+                        // because probably when you firstly query account in one page and secondly transfer in other page,
+                        // you have to use an unreachable component in first page
+                        //validateReachableBlock(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI);
+                    } else {
+                        promptNonexistentBlockErr(content, actionName, template.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                    }
+                }
+            }
+
+            List<Rules.ValidateCJK> validateCJKRules = rules.getValidateCJK();
+            if (validateCJKRules != null && !validateCJKRules.isEmpty()) {
+                for (Rules.ValidateCJK validateCJK : validateCJKRules) {
+                    int content = validateCJK.getContent();
+                    if (this.meta_blocks.containsKey(content)) {
+                        validateReachableBlock(content, actionName, validateCJK.getClass().getSimpleName(), component, panel, pageURI);
+                    } else {
+                        promptNonexistentBlockErr(content, actionName, validateCJK.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                    }
+                }
+            }
+        }
+    }
+
+    private void validateConditionsParameter(String conditions, String actionName, String propertyName, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         String configErrMsg;
-        String configErrMsgFooter = " of conditions property";
+        String configErrMsgFooter = null;
+        if (true) {
+            configErrMsgFooter = " of conditions property";
+        } else {
+            configErrMsgFooter = " of " + propertyName + " property";
+        }
+
         if (conditions == null || conditions.trim().length() == 0) {
             configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                     .append(actionName).append('\n')
-                    .append("with empty value").append(configErrMsgFooter).toString();
+                    .append("with empty conditions").append(configErrMsgFooter).toString();
             CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
         }
         ArrayList<String> listParameters = buildListParameters(conditions);
@@ -399,26 +514,26 @@ public class MainWindow {
             } catch (NumberFormatException numberFormatException) {
                 configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                         .append(actionName).append('\n')
-                        .append("with invalid target").append('[').append(cleanTargetId).append(']').append(configErrMsgFooter).toString();
+                        .append("with invalid conditions").append('[').append(cleanTargetId).append(']').append(configErrMsgFooter).toString();
                 CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
             }
             if (!this.meta_blocks.containsKey(id)) {
-                validateExistentBlock(component, panel, pageURI, actionName, id, "target", configErrMsgFooter);
+                promptNonexistentBlockErr(id, actionName, "conditions", component, panel, pageURI, configErrMsgFooter);
             }
         }
     }
 
-    private void validateDisplayParameter(int display, Component component, Panel panel, String pageURI,
-            String actionName, String propertyName) throws HeadlessException {
-        Object showTarget = this.meta_blocks.get(display);
+    private void validateDisplayParameter(int displayBlockId, String actionName, String propertyName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        Object showTarget = this.meta_blocks.get(displayBlockId);
         if (showTarget == null) {
             String configErrMsgFooter = " of " + propertyName + " property";
-            validateExistentBlock(component, panel, pageURI, actionName, display, "display", configErrMsgFooter);
+            promptNonexistentBlockErr(displayBlockId, actionName, "display", component, panel, pageURI, configErrMsgFooter);
         }
     }
 
-    private void validateExistentBlock(Component component, Panel panel, String pageURI,
-            String actionName, int blockId, String propertyName, String configErrMsgFooter) throws HeadlessException {
+    private void promptNonexistentBlockErr(int blockId, String actionName, String propertyName,
+            Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
                 .append("with nonexistent ").append(propertyName).append('[').append(blockId).append(']')
@@ -429,10 +544,16 @@ public class MainWindow {
     private void validateNextPanelParameter(int nextPanel, String actionName, String properyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         String configErrMsg = null;
-        String configErrMsgFooter = " of " + properyName + " property";
+        String configErrMsgFooter = null;
+        if (properyName == null) {
+            configErrMsgFooter = " of nextPanel property";
+        } else {
+            configErrMsgFooter = " of " + properyName + " property";
+        }
+
         Object np = this.meta_blocks.get(nextPanel);
         if (np == null) {
-            validateExistentBlock(component, panel, pageURI, actionName, nextPanel, properyName, configErrMsgFooter);
+            promptNonexistentBlockErr(nextPanel, actionName, properyName, component, panel, pageURI, configErrMsgFooter);
         } else if (!(np instanceof Panel)) {
             String type = null;
             if (np instanceof Component) {
@@ -460,7 +581,7 @@ public class MainWindow {
     private void validateCleanAction(king.flow.view.Action.CleanAction cleanAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (cleanAction != null) {
-            validateConditionsParameter(cleanAction.getConditions(), cleanAction.getClass().getSimpleName(),
+            validateConditionsParameter(cleanAction.getConditions(), cleanAction.getClass().getSimpleName(), null,
                     component, panel, pageURI);
         }
     }

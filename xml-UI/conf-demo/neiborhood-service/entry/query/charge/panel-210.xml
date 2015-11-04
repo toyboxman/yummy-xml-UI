@@ -142,11 +142,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 </exception>			
                 <checkRules>
                     <notNull>
-                        <content>5014</content>
+                        <content>2103</content>
                         <errMsg>智能卡号不能为空</errMsg>
                     </notNull>			
                     <notNull>
-                        <content>5016</content>
+                        <content>2105</content>
                         <errMsg>查询密码不能为空</errMsg>
                     </notNull>
                 </checkRules>		
