@@ -493,8 +493,8 @@ public class MainWindow {
     private void validateConditionsParameter(String conditions, String actionName, String propertyName, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         String configErrMsg;
-        String configErrMsgFooter = null;
-        if (true) {
+        String configErrMsgFooter;
+        if (propertyName == null) {
             configErrMsgFooter = " of conditions property";
         } else {
             configErrMsgFooter = " of " + propertyName + " property";
@@ -543,8 +543,8 @@ public class MainWindow {
 
     private void validateNextPanelParameter(int nextPanel, String actionName, String properyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
-        String configErrMsg = null;
-        String configErrMsgFooter = null;
+        String configErrMsg;
+        String configErrMsgFooter;
         if (properyName == null) {
             configErrMsgFooter = " of nextPanel property";
         } else {
