@@ -320,7 +320,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     </notNull>
 					
 					<validateCJK>
-                        <content>5000410</content>
+                        <content>5000510</content>
                         <errMsg>收款户名必须是中文</errMsg>
                     </validateCJK>
 					
