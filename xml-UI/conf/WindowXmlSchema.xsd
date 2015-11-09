@@ -51,6 +51,7 @@
             <xs:enumeration  value="Date"/>
             <xs:enumeration  value="WebBroswer"/>
             <xs:enumeration  value="NativeBroswer"/>
+            <xs:enumeration  value="VideoPlayer"/>
         </xs:restriction>
     </xs:simpleType>
     
@@ -155,6 +156,14 @@
             </xs:element>
             
             <xs:element name="playMediaAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="media" type="xs:string"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="playVideoAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="media" type="xs:string"/>
