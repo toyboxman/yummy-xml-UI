@@ -103,13 +103,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <rect>
                 <x>40</x>
                 <y>200</y>
-                <width>300</width>
-                <heigh>250</heigh>
+                <width>500</width>
+                <heigh>280</heigh>
             </rect>
         </attribute>
         <action>
             <playVideoAction>
-                <media>./media/NSX-Horizon.mp4</media>
+                <media>100</media>
             </playVideoAction>
         </action>
     </component>
