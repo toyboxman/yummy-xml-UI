@@ -308,12 +308,12 @@ public class MainWindow {
             List<Component> components = panel.getComponent();
             for (Component component : components) {
                 validateActionConfig(component, panel, pageURI);
-                setupAction(component);
+                setupAction(component, panel);
             }
 
             List<Decorator> decorators = panel.getDecorator();
             for (Decorator decorator : decorators) {
-                setupAction(decorator.getComponent());
+                setupAction(decorator.getComponent(), panel);
             }
         }
 
@@ -336,25 +336,6 @@ public class MainWindow {
             validateCleanAction(action.getCleanAction(), component, panel, pageURI);
             validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
             validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
-            validatePlayVideoAction(action.getPlayVideoAction(), component, panel, pageURI);
-        }
-    }
-
-    private void validatePlayVideoAction(king.flow.view.Action.PlayVideoAction playVideoAction,
-            Component component, Panel panel, String pageURI) throws HeadlessException {
-        if (playVideoAction != null) {
-            int showingPage = playVideoAction.getShowingPage();
-            String actionName = playVideoAction.getClass().getSimpleName();
-
-            if (!this.meta_blocks.containsKey(showingPage)) {
-                promptNonexistentBlockErr(showingPage, actionName, "showingPage", component, panel, pageURI, null);
-            } else {
-                Object comp = this.meta_blocks.get(showingPage);
-                if (!(comp instanceof Panel)) {
-                    String configErrMsgFooter = ",\nonly Panel type is valid here";
-                    promptMistakenTypeBlockErr(showingPage, actionName, "showingPage", component, panel, pageURI, configErrMsgFooter);
-                }
-            }
         }
     }
 
@@ -633,7 +614,7 @@ public class MainWindow {
         }
     }
 
-    private void setupAction(Component component) {
+    private void setupAction(Component component, Panel parentContainer) {
         List<king.flow.view.Action> actions = component.getAction();
 
         for (king.flow.view.Action actionNode : actions) {
@@ -684,16 +665,15 @@ public class MainWindow {
 
             doPrintPassbookAction(actionNode, component);
 
-            doPlayVideoAction(actionNode, component);
+            doPlayVideoAction(actionNode, component, parentContainer);
         }
     }
 
-    private void doPlayVideoAction(king.flow.view.Action actionNode, Component component) {
+    private void doPlayVideoAction(king.flow.view.Action actionNode, Component component, Panel parentContainer) {
         king.flow.view.Action.PlayVideoAction playVideoAction = actionNode.getPlayVideoAction();
         if (playVideoAction != null && component.getType() == ComponentEnum.VIDEO_PLAYER) {
             String media = playVideoAction.getMedia();
-            int showingPage = playVideoAction.getShowingPage();
-            DefaultVideoAction videoAction = new DefaultVideoAction(media, showingPage);
+            DefaultVideoAction videoAction = new DefaultVideoAction(media, parentContainer.getId());
             doAction(videoAction, component.getId());
         }
     }

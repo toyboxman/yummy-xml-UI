@@ -166,7 +166,6 @@
             <xs:element name="playVideoAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
-                        <xs:element name="showingPage" type="xs:int"/>
                         <xs:element name="media" type="xs:string"/>
                     </xs:all>
                 </xs:complexType>
