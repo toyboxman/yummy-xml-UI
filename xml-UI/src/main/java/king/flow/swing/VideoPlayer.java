@@ -68,6 +68,7 @@ public class VideoPlayer extends JPanel {
         height.bind(Bindings.selectDouble(mv.sceneProperty(), "height"));
         mv.setPreserveRatio(true);
 //        mediaPlayer.setAutoPlay(true);
+        mediaPlayer.setCycleCount(Integer.MAX_VALUE);
         root.getChildren().add(mv);
         fxContainer.setScene(scene);
     }

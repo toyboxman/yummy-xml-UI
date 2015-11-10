@@ -101,10 +101,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>VideoPlayer</type>
         <attribute>
             <rect>
-                <x>40</x>
+                <x>90</x>
                 <y>200</y>
-                <width>500</width>
-                <heigh>280</heigh>
+                <width>645</width>
+                <heigh>360</heigh>
             </rect>
         </attribute>
         <action>
