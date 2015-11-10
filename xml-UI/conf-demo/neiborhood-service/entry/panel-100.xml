@@ -109,7 +109,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <playVideoAction>
-                <media>100</media>
+                <showingPage>100</showingPage>
+                <media>./media/video/NSX-Introduction.mp4</media>
             </playVideoAction>
         </action>
     </component>

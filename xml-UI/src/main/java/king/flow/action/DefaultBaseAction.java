@@ -36,6 +36,9 @@ public class DefaultBaseAction extends DefaultAction<JComponent> {
                 case WEB_BROSWER:
                     installWebBroswerAction();
                     break;
+                case VIDEO_PLAYER:
+                    installVideoAction();
+                    break;
                 default:
                     getLogger(DefaultBaseAction.class.getName()).log(Level.INFO,
                             "Unsupported action component type/id : {0}/{1} ", new Object[]{meta.getType(), meta.getId()});
@@ -59,6 +62,10 @@ public class DefaultBaseAction extends DefaultAction<JComponent> {
     }
 
     protected void installWebBroswerAction() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+    
+    protected void installVideoAction() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
