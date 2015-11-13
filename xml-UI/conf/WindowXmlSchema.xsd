@@ -167,6 +167,7 @@
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="media" type="xs:string"/>
+                        <xs:element name="replayInterval" type="xs:int"  default="20" maxOccurs="1" minOccurs="0"/>
                     </xs:all>
                 </xs:complexType>
             </xs:element>

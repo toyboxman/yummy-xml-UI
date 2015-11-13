@@ -673,7 +673,9 @@ public class MainWindow {
         king.flow.view.Action.PlayVideoAction playVideoAction = actionNode.getPlayVideoAction();
         if (playVideoAction != null && component.getType() == ComponentEnum.VIDEO_PLAYER) {
             String media = playVideoAction.getMedia();
-            DefaultVideoAction videoAction = new DefaultVideoAction(media, parentContainer.getId());
+            int replayInterval = playVideoAction.getReplayInterval() == null
+                    ? CommonConstants.DEFAULT_VIDEO_REPLAY_INTERVAL_SECOND : playVideoAction.getReplayInterval();
+            DefaultVideoAction videoAction = new DefaultVideoAction(media, replayInterval, parentContainer.getId());
             doAction(videoAction, component.getId());
         }
     }

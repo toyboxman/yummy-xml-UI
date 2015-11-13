@@ -22,11 +22,13 @@ import king.flow.view.Component;
 public class DefaultVideoAction extends DefaultBaseAction {
 
     private final String mediaURL;
+    private final int replayInterval;
     private final int showingPage;
     private JDialog dialog;
 
-    public DefaultVideoAction(String mediaURL, int showingPage) {
+    public DefaultVideoAction(String mediaURL, int replayInterval, int showingPage) {
         this.mediaURL = mediaURL;
+        this.replayInterval = replayInterval;
         this.showingPage = showingPage;
         dialog = new JDialog(CommonUtil.getCurrentView());
         dialog.setUndecorated(true);
@@ -36,7 +38,7 @@ public class DefaultVideoAction extends DefaultBaseAction {
     @Override
     protected void installVideoAction() {
         VideoPlayer videoPlayer = (VideoPlayer) owner;
-        videoPlayer.preparePlayer(mediaURL);
+        videoPlayer.preparePlayer(mediaURL, replayInterval);
         dialog.getContentPane().add(videoPlayer, BorderLayout.CENTER);
         Component component = (Component) this.components_meta.get(id);
         Bound rect = component.getAttribute().getRect();
@@ -54,6 +56,7 @@ public class DefaultVideoAction extends DefaultBaseAction {
             public void ancestorRemoved(AncestorEvent event) {
                 dialog.setVisible(false);
                 videoPlayer.pause();
+                videoPlayer.cancelPendingReplay();
             }
 
             @Override

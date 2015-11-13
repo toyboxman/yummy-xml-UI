@@ -41,6 +41,7 @@ public class CommonConstants {
 
     /* swing default config */
     public static final int DEFAULT_TABLE_ROW_COUNT = 15;
+    public static final int DEFAULT_VIDEO_REPLAY_INTERVAL_SECOND = 20;
 
     /* packet header ID */
     public static final int GENERAL_MSG_CODE = 0; //common message
