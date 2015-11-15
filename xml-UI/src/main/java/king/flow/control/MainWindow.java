@@ -37,8 +37,6 @@ import javax.swing.JTextField;
 import javax.swing.JTextPane;
 import javax.swing.UIManager;
 import javax.swing.border.LineBorder;
-import javax.swing.event.AncestorEvent;
-import javax.swing.event.AncestorListener;
 import javax.xml.bind.JAXBException;
 import king.flow.action.Action;
 import king.flow.action.AdvancedMsgSendAction;
@@ -55,6 +53,7 @@ import king.flow.action.DefaultMenuAction;
 import king.flow.action.DefaultPrinterAction;
 import king.flow.action.DefaultRunCommandAction;
 import king.flow.action.DefaultTipAction;
+import king.flow.action.DefaultVideoAction;
 import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.InsertCardAction;
@@ -337,6 +336,25 @@ public class MainWindow {
             validateCleanAction(action.getCleanAction(), component, panel, pageURI);
             validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
             validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
+            validatePlayVideoAction(action.getPlayVideoAction(), component, panel, pageURI);
+        }
+    }
+
+    private void validatePlayVideoAction(king.flow.view.Action.PlayVideoAction playVideoAction,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        if (playVideoAction != null) {
+            int showingPage = playVideoAction.getShowingPage();
+            String actionName = playVideoAction.getClass().getSimpleName();
+
+            if (!this.meta_blocks.containsKey(showingPage)) {
+                promptNonexistentBlockErr(showingPage, actionName, "showingPage", component, panel, pageURI, null);
+            } else {
+                Object comp = this.meta_blocks.get(showingPage);
+                if (!(comp instanceof Panel)) {
+                    String configErrMsgFooter = ",\nonly Panel type is valid here";
+                    promptMistakenTypeBlockErr(showingPage, actionName, "showingPage", component, panel, pageURI, configErrMsgFooter);
+                }
+            }
         }
     }
 
@@ -348,7 +366,7 @@ public class MainWindow {
             String actionName = moveCursorAction.getClass().getSimpleName();
 
             if (!this.meta_blocks.containsKey(upCursor)) {
-                promptNonexistentBlockErr(upCursor, moveCursorAction.getClass().getSimpleName(), "upCursor", component, panel, pageURI, null);
+                promptNonexistentBlockErr(upCursor, actionName, "upCursor", component, panel, pageURI, null);
             } else {
                 validateReachableBlock(upCursor, actionName, "upCursor", component, panel, pageURI);
             }
@@ -545,6 +563,15 @@ public class MainWindow {
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
 
+    private void promptMistakenTypeBlockErr(int blockId, String actionName, String propertyName,
+            Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
+        String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                .append(actionName).append('\n')
+                .append("with invalid type ").append(propertyName).append('[').append(blockId).append(']')
+                .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+    }
+
     private void validateNextPanelParameter(int nextPanel, String actionName, String properyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         String configErrMsg;
@@ -665,32 +692,9 @@ public class MainWindow {
         king.flow.view.Action.PlayVideoAction playVideoAction = actionNode.getPlayVideoAction();
         if (playVideoAction != null && component.getType() == ComponentEnum.VIDEO_PLAYER) {
             String media = playVideoAction.getMedia();
-            JPanel parent = (JPanel) this.building_blocks.get(Integer.parseInt(media));
-            final VideoPlayer videoPlayer = (VideoPlayer) this.building_blocks.get(component.getId());
-            final JDialog dialog = new JDialog(this.window);
-            dialog.setUndecorated(true);
-            dialog.getContentPane().setLayout(new BorderLayout(0, 0));
-            dialog.getContentPane().add(videoPlayer, BorderLayout.CENTER);
-            final Bound rect = component.getAttribute().getRect();
-            dialog.setBounds(rect.getX().intValue(), rect.getY().intValue(), rect.getWidth().intValue(), rect.getHeigh().intValue());
-            parent.addAncestorListener(new AncestorListener() {
-
-                @Override
-                public void ancestorAdded(AncestorEvent event) {
-                    dialog.setVisible(true);
-                    videoPlayer.play();
-                }
-
-                @Override
-                public void ancestorRemoved(AncestorEvent event) {
-                    dialog.setVisible(false);
-                    videoPlayer.pause();
-                }
-
-                @Override
-                public void ancestorMoved(AncestorEvent event) {
-                }
-            });
+            int showingPage = playVideoAction.getShowingPage();
+            DefaultVideoAction videoAction = new DefaultVideoAction(media, showingPage);
+            doAction(videoAction, component.getId());
         }
     }
 
