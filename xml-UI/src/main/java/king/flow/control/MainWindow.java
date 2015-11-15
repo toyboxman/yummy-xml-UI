@@ -37,6 +37,8 @@ import javax.swing.JTextField;
 import javax.swing.JTextPane;
 import javax.swing.UIManager;
 import javax.swing.border.LineBorder;
+import javax.swing.event.AncestorEvent;
+import javax.swing.event.AncestorListener;
 import javax.xml.bind.JAXBException;
 import king.flow.action.Action;
 import king.flow.action.AdvancedMsgSendAction;
@@ -654,6 +656,41 @@ public class MainWindow {
             doSwipe2In1CardAction(actionNode, component);
 
             doPrintPassbookAction(actionNode, component);
+
+            doPlayVideoAction(actionNode, component);
+        }
+    }
+
+    private void doPlayVideoAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.PlayVideoAction playVideoAction = actionNode.getPlayVideoAction();
+        if (playVideoAction != null && component.getType() == ComponentEnum.VIDEO_PLAYER) {
+            String media = playVideoAction.getMedia();
+            JPanel parent = (JPanel) this.building_blocks.get(Integer.parseInt(media));
+            final VideoPlayer videoPlayer = (VideoPlayer) this.building_blocks.get(component.getId());
+            final JDialog dialog = new JDialog(this.window);
+            dialog.setUndecorated(true);
+            dialog.getContentPane().setLayout(new BorderLayout(0, 0));
+            dialog.getContentPane().add(videoPlayer, BorderLayout.CENTER);
+            final Bound rect = component.getAttribute().getRect();
+            dialog.setBounds(rect.getX().intValue(), rect.getY().intValue(), rect.getWidth().intValue(), rect.getHeigh().intValue());
+            parent.addAncestorListener(new AncestorListener() {
+
+                @Override
+                public void ancestorAdded(AncestorEvent event) {
+                    dialog.setVisible(true);
+                    videoPlayer.play();
+                }
+
+                @Override
+                public void ancestorRemoved(AncestorEvent event) {
+                    dialog.setVisible(false);
+                    videoPlayer.pause();
+                }
+
+                @Override
+                public void ancestorMoved(AncestorEvent event) {
+                }
+            });
         }
     }
 
@@ -1101,8 +1138,9 @@ public class MainWindow {
                 break;
             case VIDEO_PLAYER:
                 VideoPlayer videoPlayer = new VideoPlayer();
-                jcomponent = videoPlayer;
-                break;
+                this.building_blocks.put(id, videoPlayer);
+                this.meta_blocks.put(id, component);
+                return null;
             default:
                 final AssertionError configError = new AssertionError("Mistaken configuration type out of components : " + ctype.value());
                 getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, configError);
@@ -1119,9 +1157,9 @@ public class MainWindow {
             if (attribute.isDebug() != null && attribute.isDebug()) {
                 jcomponent.setBorder(new LineBorder(Color.RED, 2));
             }
+            this.building_blocks.put(id, jcomponent);
+            this.meta_blocks.put(id, component);
         }
-        this.building_blocks.put(id, jcomponent);
-        this.meta_blocks.put(id, component);
         return jcomponent;
     }
 
