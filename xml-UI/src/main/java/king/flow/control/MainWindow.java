@@ -730,8 +730,16 @@ public class MainWindow {
             Integer nextCursor = swipeCardAction.getNextCursor();
             Boolean editable = swipeCardAction.isEditable();
             nextCursor = nextCursor == null ? component.getId() : nextCursor;
-            ReadCardAction readCardAction = editable == null ? new ReadCardAction(nextCursor)
-                    : new ReadCardAction(nextCursor, editable);
+            king.flow.view.Action.SwipeCardAction.Debug debug = swipeCardAction.getDebug();
+            ReadCardAction readCardAction = null;
+            if (debug == null) {
+                readCardAction = editable == null ? new ReadCardAction(nextCursor)
+                        : new ReadCardAction(nextCursor, editable);
+            } else {
+                readCardAction = editable == null ? new ReadCardAction(nextCursor, debug)
+                        : new ReadCardAction(nextCursor, editable, debug);
+            }
+            
             doAction(readCardAction, component.getId());
         }
     }

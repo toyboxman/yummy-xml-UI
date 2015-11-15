@@ -19,6 +19,7 @@ import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.showMsg;
 import static king.flow.common.CommonUtil.swipeICCard;
 import static king.flow.common.CommonUtil.swipeMagnetCard;
+import king.flow.view.Action.SwipeCardAction;
 
 /**
  *
@@ -28,15 +29,30 @@ public class ReadCardAction extends DefaultAction<JComboBox> {
 
     protected final int nextFocus;
     protected final boolean editable;
+    private final SwipeCardAction.Debug debugMode;
 
     public ReadCardAction(int nextFocus) {
         this.nextFocus = nextFocus;
         this.editable = true;
+        this.debugMode = null;
     }
 
     public ReadCardAction(int nextFocus, boolean editable) {
         this.nextFocus = nextFocus;
         this.editable = editable;
+        this.debugMode = null;
+    }
+
+    public ReadCardAction(int nextFocus, SwipeCardAction.Debug debugMode) {
+        this.nextFocus = nextFocus;
+        this.editable = true;
+        this.debugMode = debugMode;
+    }
+
+    public ReadCardAction(int nextFocus, boolean editable, SwipeCardAction.Debug debugMode) {
+        this.nextFocus = nextFocus;
+        this.editable = editable;
+        this.debugMode = debugMode;
     }
 
     @Override
@@ -94,6 +110,9 @@ public class ReadCardAction extends DefaultAction<JComboBox> {
         @Override
         protected String doInBackground() throws Exception {
             Thread.sleep(1000);
+            if (debugMode != null) {
+                return debugMode.getCardId();
+            }
             switch (actionCommand) {
                 case "ACTION1":
 
