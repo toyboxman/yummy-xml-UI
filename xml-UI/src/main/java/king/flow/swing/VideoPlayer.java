@@ -7,6 +7,8 @@ package king.flow.swing;
 
 import java.awt.BorderLayout;
 import java.io.File;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javafx.application.Platform;
 import javafx.beans.binding.Bindings;
 import javafx.beans.property.DoubleProperty;
@@ -29,26 +31,32 @@ public class VideoPlayer extends JPanel {
 
     public VideoPlayer() {
         this.setLayout(new BorderLayout(0, 0));
-        initComponents();
-    }
-
-    private void initComponents() {
         fxContainer = new JFXPanel();
         this.add(fxContainer, BorderLayout.CENTER);
+    }
+
+    public void preparePlayer(final String mediaUrl) {
         // create JavaFX scene
         Platform.runLater(new Runnable() {
 
             @Override
             public void run() {
-                createScene();
+                createScene(mediaUrl);
             }
         });
+        
+        try {
+            //wait mediaPlayer ready to play
+            Thread.sleep(2000);
+        } catch (InterruptedException ex) {
+            Logger.getLogger(VideoPlayer.class.getName()).log(Level.SEVERE, "Wait mediaPlayer ready to play", ex);
+        }
     }
 
-    private void createScene() {
+    private void createScene(final String mediaUrl) {
         StackPane root = new StackPane();
         final Scene scene = new Scene(root);
-        final File f = new File("./media/video/NSX-Introduction.mp4");
+        final File f = new File(mediaUrl);
         final Media m = new Media(f.toURI().toString());
         mediaPlayer = new MediaPlayer(m);
         final MediaView mv = new MediaView(mediaPlayer);
