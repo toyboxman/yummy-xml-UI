@@ -81,6 +81,7 @@ import king.flow.design.FlowProcessor;
 import king.flow.swing.JXMsgPanel;
 import king.flow.swing.NativeBroswer;
 import king.flow.swing.SwingBrowser;
+import king.flow.swing.VideoPlayer;
 import king.flow.view.BasicAttribute;
 import king.flow.view.Bound;
 import king.flow.view.Component;
@@ -228,7 +229,8 @@ public class MainWindow {
 
         this.building_blocks.put(id, panel);
         this.meta_blocks.put(id, pNode);
-        if (pNode.isActive()) {
+        final boolean activePanel = pNode.isActive() == null ? false : pNode.isActive();
+        if (activePanel) {
             switch (this.window.getClass().getSimpleName()) {
                 case "JFrame":
                     ((JFrame) window).getContentPane().add(panel, BorderLayout.CENTER);
@@ -1096,6 +1098,10 @@ public class MainWindow {
             case NATIVE_BROSWER:
                 NativeBroswer nativeBroswer = new NativeBroswer();
                 jcomponent = nativeBroswer;
+                break;
+            case VIDEO_PLAYER:
+                VideoPlayer videoPlayer = new VideoPlayer();
+                jcomponent = videoPlayer;
                 break;
             default:
                 final AssertionError configError = new AssertionError("Mistaken configuration type out of components : " + ctype.value());
