@@ -697,8 +697,16 @@ public class MainWindow {
             String mediaTip = swipe2In1CardAction.getMediaTip();
             String animationTip = swipe2In1CardAction.getAnimationTip();
             nextCursor = nextCursor == null ? component.getId() : nextCursor;
-            Read2In1CardAction read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor, mediaTip, animationTip)
-                    : new Read2In1CardAction(nextCursor, editable, mediaTip, animationTip);
+            king.flow.view.Action.Swipe2In1CardAction.Debug debug = swipe2In1CardAction.getDebug();
+            Read2In1CardAction read2In1CardAction = null;
+            if (debug == null) {
+                read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor, mediaTip, animationTip)
+                        : new Read2In1CardAction(nextCursor, editable, mediaTip, animationTip);
+            } else {
+                read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor, mediaTip, animationTip, debug)
+                        : new Read2In1CardAction(nextCursor, editable, mediaTip, animationTip, debug);
+            }
+
             doAction(read2In1CardAction, component.getId());
         }
     }
@@ -739,7 +747,7 @@ public class MainWindow {
                 readCardAction = editable == null ? new ReadCardAction(nextCursor, debug)
                         : new ReadCardAction(nextCursor, editable, debug);
             }
-            
+
             doAction(readCardAction, component.getId());
         }
     }

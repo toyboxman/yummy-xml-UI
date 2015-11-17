@@ -7,6 +7,7 @@ package king.flow.action.business;
 
 import java.io.File;
 import java.util.concurrent.ExecutionException;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import javax.swing.ImageIcon;
 import javax.swing.JComponent;
@@ -24,6 +25,7 @@ import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.getWindowNode;
 import static king.flow.common.CommonUtil.showMsg;
 import static king.flow.common.CommonUtil.swipe2In1Card;
+import king.flow.view.Action.Swipe2In1CardAction;
 import king.flow.view.UiStyle;
 import king.flow.view.Window;
 
@@ -35,17 +37,34 @@ public class Read2In1CardAction extends ReadCardAction {
 
     private final String mediaFile;
     private final String animationFile;
+    private final Swipe2In1CardAction.Debug debugMode;
 
     public Read2In1CardAction(int nextFocus, String media, String animation) {
         super(nextFocus);
         this.mediaFile = media;
         this.animationFile = animation;
+        this.debugMode = null;
     }
 
     public Read2In1CardAction(int nextFocus, boolean editable, String media, String animation) {
         super(nextFocus, editable);
         this.mediaFile = media;
         this.animationFile = animation;
+        this.debugMode = null;
+    }
+
+    public Read2In1CardAction(int nextFocus, String media, String animation, Swipe2In1CardAction.Debug debugMode) {
+        super(nextFocus);
+        this.mediaFile = media;
+        this.animationFile = animation;
+        this.debugMode = debugMode;
+    }
+
+    public Read2In1CardAction(int nextFocus, boolean editable, String media, String animation, Swipe2In1CardAction.Debug debugMode) {
+        super(nextFocus, editable);
+        this.mediaFile = media;
+        this.animationFile = animation;
+        this.debugMode = debugMode;
     }
 
     @Override
@@ -106,7 +125,12 @@ public class Read2In1CardAction extends ReadCardAction {
                                     getLogger(Swipe2In1CardTask.class.getName()).log(Level.WARNING, "Fail to play media file {0}", mediaFile);
                                 }
                             }
-//                            Thread.sleep(5000);
+                            
+                            if (debugMode != null) {
+                                Thread.sleep(TimeUnit.SECONDS.toMillis(4));
+                                return debugMode.getCardId();
+                            }
+                            
                             cardInfo = swipe2In1Card(CommonConstants.MAGNET_CARD_STATE);// driver will blocking thread and wait magnet card information return
                             if (cardInfo == null || cardInfo.length() == 0) {
                                 //fail to read card information
@@ -120,6 +144,11 @@ public class Read2In1CardAction extends ReadCardAction {
                                 return cardInfo.trim().substring(0, cardInfo.indexOf('='));
                             }
                         case CommonConstants.IC_CARD_STATE:
+                            if (debugMode != null) {
+                                Thread.sleep(TimeUnit.SECONDS.toMillis(2));
+                                return debugMode.getCardId();
+                            }
+                            
                             cardInfo = swipe2In1Card(CommonConstants.IC_CARD_STATE);// driver will blocking thread and wait IC card information return
                             if (cardInfo == null || cardInfo.length() == 0) {
                                 //fail to read card information
