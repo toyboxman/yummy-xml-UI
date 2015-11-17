@@ -9,6 +9,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.nio.charset.Charset;
 import java.util.concurrent.ExecutionException;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JButton;
@@ -18,6 +19,7 @@ import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.printReceipt;
 import static king.flow.common.CommonUtil.retrievePrintMsg;
 import static king.flow.common.CommonUtil.showMsg;
+import king.flow.view.Action.SetPrinterAction;
 
 /**
  *
@@ -27,12 +29,20 @@ public class DefaultPrinterAction extends DefaultBaseAction {
 
     private final String header;
     private final String tail;
+    private final SetPrinterAction.Debug debugMode;
     static Charset GBK = Charset.forName("GBK");
     static Charset UTF8 = Charset.forName("UTF8");
 
     public DefaultPrinterAction(String header, String tail) {
         this.header = header;
         this.tail = tail;
+        this.debugMode = null;
+    }
+
+    public DefaultPrinterAction(String header, String tail, SetPrinterAction.Debug debugMode) {
+        this.header = header;
+        this.tail = tail;
+        this.debugMode = debugMode;
     }
 
     @Override
@@ -51,7 +61,7 @@ public class DefaultPrinterAction extends DefaultBaseAction {
 
         @Override
         protected String doInBackground() throws Exception {
-            Thread.sleep(1000);
+            Thread.sleep(TimeUnit.SECONDS.toMillis(1));
             String content = retrievePrintMsg();
             if (content == null || content.length() == 0) {
                 showMsg(owner, getResourceMsg("printer.done.prompt"));
@@ -61,8 +71,14 @@ public class DefaultPrinterAction extends DefaultBaseAction {
 //                String header_ex = new String(header.getBytes(UTF8), GBK);
 //                String tail_ex = new String(tail.getBytes(UTF8), GBK);
 //                printReceipt(header_ex, content, tail_ex);
-                printReceipt(header, content, tail);
-                cleanPrintMsg();
+                if (debugMode != null) {
+                    Thread.sleep(TimeUnit.SECONDS.toMillis(2));
+                    showMsg(owner, debugMode.getPrompt());
+                    cleanPrintMsg();
+                } else {
+                    printReceipt(header, content, tail);
+                    cleanPrintMsg();
+                }
             }
 
             return null;

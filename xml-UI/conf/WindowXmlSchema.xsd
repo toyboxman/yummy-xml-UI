@@ -194,6 +194,13 @@
                     <xs:all>
                         <xs:element name="header" type="xs:string"/>
                         <xs:element name="tail" type="xs:string"/>
+                        <xs:element name="debug" maxOccurs="1" minOccurs="0">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="prompt" type="xs:string"  maxOccurs="1" minOccurs="1"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
                     </xs:all>
                 </xs:complexType>
             </xs:element>

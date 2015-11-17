@@ -336,9 +336,17 @@ public class MainWindow {
             validateCleanAction(action.getCleanAction(), component, panel, pageURI);
             validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
             validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
+            validateShowComboBoxAction(action.getShowComboBoxAction(), component, panel, pageURI);
         }
     }
 
+    private void validateShowComboBoxAction(king.flow.view.Action.ShowComboBoxAction showComboBoxAction,
+            Component component, Panel panel, String pageURI) {
+        if (showComboBoxAction != null) {
+            String items = showComboBoxAction.getItems();
+        }
+    }
+    
     private void validateMoveCursorAction(king.flow.view.Action.MoveCursorAction moveCursorAction,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (moveCursorAction != null) {
@@ -814,7 +822,14 @@ public class MainWindow {
         if (printerAction != null) {
             String header = printerAction.getHeader();
             String tail = printerAction.getTail();
-            DefaultPrinterAction defaultPrinterAction = new DefaultPrinterAction(header, tail);
+            DefaultPrinterAction defaultPrinterAction = null;
+            king.flow.view.Action.SetPrinterAction.Debug debug = printerAction.getDebug();
+            if (debug == null) {
+                defaultPrinterAction = new DefaultPrinterAction(header, tail);
+            } else {
+                defaultPrinterAction = new DefaultPrinterAction(header, tail, debug);
+            }
+            
             doAction(defaultPrinterAction, component.getId());
         }
     }
