@@ -1,0 +1,47 @@
+本补丁完成模拟读卡和打印的驱动
+
+安装步骤如下：
+1.备份原终端应用目录lib下的xml-UI-2.0-SNAPSHOT.jar
+2.用zip工具打开xml-UI-2.0-SNAPSHOT.jar，里面有个image目录，下面有五个1-5.jpg背景图片。将其copy出来
+3.再用zip工具打开这个patch包中的新xml-UI-2.0-SNAPSHOT.jar，将五个背景图片覆盖到image目录
+4.将新的xml-UI-2.0-SNAPSHOT.jar覆盖回lib目录，重启客户端
+5.修改xml配置文件，增加模拟开关。具体如下：
+I.针对二合一读卡器：
+在swipe2In1CardAction中增加debug开关，cardId是你想返回的卡号
+<showComboBoxAction>
+    <items>/, ACTION4/读银行卡</items>
+</showComboBoxAction>
+<swipe2In1CardAction>
+    <nextCursor>2000206</nextCursor>
+    <editable>true</editable>
+    <animationTip>/image/card.jpg</animationTip> 
+    <debug>
+        <cardId>6222000266326589875</cardId>
+    </debug>
+</swipe2In1CardAction>
+
+II.针对普通读卡器：
+在swipeCardAction中增加debug开关，cardId是你想返回的卡号
+<showComboBoxAction>
+    <items>/, ACTION2/刷磁条卡, ACTION3/插接触式IC卡</items>
+</showComboBoxAction>
+<playMediaAction>
+    <media>./media/accout.wav</media>
+</playMediaAction>
+<swipeCardAction>
+    <editable>true</editable>
+    <nextCursor>1105</nextCursor>
+    <debug>
+        <cardId>6222000266326589875</cardId>
+    </debug>
+</swipeCardAction>
+
+III.针对打印机：
+在setPrinterAction中增加debug开关，prompt是你想返回的打印结果
+<setPrinterAction>
+    <header>淮南通商银行</header>
+    <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
+    <debug>
+        <prompt>打印完成</prompt>
+    </debug>
+</setPrinterAction>

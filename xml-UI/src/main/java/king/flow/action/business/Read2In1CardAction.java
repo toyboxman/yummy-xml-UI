@@ -110,9 +110,13 @@ public class Read2In1CardAction extends ReadCardAction {
             switch (actionCommand) {
                 case "ACTION4":
                     String cardInfo = null;
-//                    Thread.sleep(5000);
-//                    cardReadingState = CommonConstants.MAGNET_CARD_STATE;
-                    cardReadingState = CommonUtil.check2In1Card();
+                    if (debugMode != null) {
+                        Thread.sleep(TimeUnit.SECONDS.toMillis(2));
+                        cardReadingState = CommonConstants.MAGNET_CARD_STATE;
+                    } else {
+                        cardReadingState = CommonUtil.check2In1Card();
+                    }
+
                     switch (cardReadingState) {
                         case CommonConstants.MAGNET_CARD_STATE:
                             // should show tip to user and play audio prompt
@@ -125,12 +129,12 @@ public class Read2In1CardAction extends ReadCardAction {
                                     getLogger(Swipe2In1CardTask.class.getName()).log(Level.WARNING, "Fail to play media file {0}", mediaFile);
                                 }
                             }
-                            
+
                             if (debugMode != null) {
                                 Thread.sleep(TimeUnit.SECONDS.toMillis(4));
                                 return debugMode.getCardId();
                             }
-                            
+
                             cardInfo = swipe2In1Card(CommonConstants.MAGNET_CARD_STATE);// driver will blocking thread and wait magnet card information return
                             if (cardInfo == null || cardInfo.length() == 0) {
                                 //fail to read card information
@@ -148,7 +152,7 @@ public class Read2In1CardAction extends ReadCardAction {
                                 Thread.sleep(TimeUnit.SECONDS.toMillis(2));
                                 return debugMode.getCardId();
                             }
-                            
+
                             cardInfo = swipe2In1Card(CommonConstants.IC_CARD_STATE);// driver will blocking thread and wait IC card information return
                             if (cardInfo == null || cardInfo.length() == 0) {
                                 //fail to read card information

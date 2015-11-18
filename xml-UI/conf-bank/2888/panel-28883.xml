@@ -8,12 +8,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../conf/WindowXmlSchema.xsd'>
     <id>288830</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/2.jpg</background>
-	 <component>
+    <background>/image/2.jpg</background>
+    <component>
         <id>288831</id>
         <type>Label</type>
         <attribute>
@@ -65,10 +65,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
             <debug>false</debug>
         </attribute>
-		<action>
+        <action>
             <setPrinterAction>
                 <header>淮南通商银行</header>
                 <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
+                <debug>
+                    <prompt>打印完成</prompt>
+                </debug>
             </setPrinterAction>
         </action>
         <action>
@@ -76,7 +79,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>40</nextPanel>
             </jumpPanelAction>
         </action>
-		<action>
+        <action>
             <cleanAction>
                 <conditions>4204,4206,4208,42010,42012</conditions>
             </cleanAction>
@@ -84,7 +87,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	
-	<component>
+    <component>
         <id>288834</id>
         <type>Button</type>
         <attribute>
@@ -101,7 +104,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>40</nextPanel>
             </jumpPanelAction>
         </action>
-		<action>
+        <action>
             <cleanAction>
                 <conditions>4204,4206,4208,42010,42012</conditions>
             </cleanAction>
