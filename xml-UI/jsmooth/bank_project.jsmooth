@@ -52,13 +52,13 @@
 <embeddedJar>false</embeddedJar>
 <executableName>bank.exe</executableName>
 <iconLocation>resources\bank-icon-32.png</iconLocation>
-<initialMemoryHeap>-1</initialMemoryHeap>
+<initialMemoryHeap>134217728</initialMemoryHeap>
 <javaProperties>
 <name>tunnel.build.scheme</name>
 <value>../backend.xml</value>
 </javaProperties>
 <mainClassName>king.flow.control.BankAppStarter</mainClassName>
-<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumMemoryHeap>536870912</maximumMemoryHeap>
 <maximumVersion></maximumVersion>
 <minimumVersion></minimumVersion>
 <skeletonName>Windowed Wrapper</skeletonName>
