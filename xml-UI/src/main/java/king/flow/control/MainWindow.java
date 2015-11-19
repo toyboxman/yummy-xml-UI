@@ -138,9 +138,11 @@ public class MainWindow {
 
         king.flow.view.Window.Contents contents = winNode.getContents();
         List<String> pages = contents.getPage();
+        String page = null;
         try {
             String defaultBackground = style.getBackground() == null ? null : style.getBackground().trim();
             for (String pageURI : pages) {
+                page = pageURI;
                 Panel pNode = new FlowProcessor(pageURI).parse(Panel.class);
 
                 if (this.meta_blocks.containsKey(pNode.getId())) {
@@ -211,7 +213,9 @@ public class MainWindow {
                 }
             }
         } catch (JAXBException ex) {
-            getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, ex);
+            final String severeMsg = "Page file<" + page + "> \ncontains severe error and fails to parse";
+            getLogger(MainWindow.class.getName()).log(Level.SEVERE, severeMsg, ex);
+            CommonUtil.showBlockedErrorMsg(null, severeMsg + "\nRoot Cause:\n" + ex.getCause().getMessage(), true);
         }
     }
 
