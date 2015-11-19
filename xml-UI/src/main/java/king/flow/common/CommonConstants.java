@@ -67,6 +67,7 @@ public class CommonConstants {
     public static final String KING_FLOW_PROGRESS = "king.flow.progress";
     public static final String TEXT_TYPE_TOOL_CONFIG = "chinese.text.type.config";
     public static final int TABLE_ROW_HEIGHT = 25;
+    public static final String COMBOBOX_ITEMS_PROPERTY_PATTERN = "([^,/]*/[^,/]*,)*+([^,/]*/[^,/]*){1}+";
     public static final String ADVANCED_TABLE_TOTAL_PAGES = "total";
     public static final String ADVANCED_TABLE_VALUE = "value";
     public static final String ADVANCED_TABLE_CURRENT_PAGE = "current";

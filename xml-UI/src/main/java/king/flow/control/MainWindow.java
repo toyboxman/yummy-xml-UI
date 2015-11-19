@@ -344,9 +344,13 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (showComboBoxAction != null) {
             String items = showComboBoxAction.getItems();
+            if (items == null || !items.matches(CommonConstants.COMBOBOX_ITEMS_PROPERTY_PATTERN)) {
+                String configErrMsgFooter = "\ncorrect format is [key/value, ... ,key/value]";
+                promptMistakenFormatBlockErr(component.getId(), "showComboBoxAction", "items", component, panel, pageURI, configErrMsgFooter);
+            }
         }
     }
-    
+
     private void validateMoveCursorAction(king.flow.view.Action.MoveCursorAction moveCursorAction,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (moveCursorAction != null) {
@@ -557,6 +561,15 @@ public class MainWindow {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
                 .append("with invalid type ").append(propertyName).append('[').append(blockId).append(']')
+                .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+    }
+    
+    private void promptMistakenFormatBlockErr(int blockId, String actionName, String propertyName,
+            Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
+        String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                .append(actionName).append('\n')
+                .append("with erroneous format ").append(propertyName).append('[').append(blockId).append(']')
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
@@ -829,7 +842,7 @@ public class MainWindow {
             } else {
                 defaultPrinterAction = new DefaultPrinterAction(header, tail, debug);
             }
-            
+
             doAction(defaultPrinterAction, component.getId());
         }
     }
