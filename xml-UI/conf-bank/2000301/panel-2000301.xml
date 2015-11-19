@@ -72,7 +72,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>2000306</nextCursor>
                 <editable>true</editable>
-            </swipe2In1CardAction>
+                 <debug>
+         <cardId>6222000266326589875</cardId>
+     </debug>
+</swipe2In1CardAction>
         </action>
 		
 		<action>

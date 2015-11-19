@@ -68,9 +68,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </showComboBoxAction>
             <swipe2In1CardAction>
                 <nextCursor>370004</nextCursor>
-                <editable>true</editable>
+                <editable>false</editable>
                 <mediaTip>tip.wav</mediaTip>
-                <animationTip>/image/loader_red_256.gif</animationTip>
+                <animationTip>/image/loader_red_256.gif</animationTip>  
+                <debug>
+                    <cardId>622248596587123</cardId>
+                </debug>
             </swipe2In1CardAction>
         </action>
     </component>

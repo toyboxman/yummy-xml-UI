@@ -66,6 +66,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <setPrinterAction>
                 <header>北京商业银行自助交易</header>
                 <tail>此凭条仅供参照请查询帐户明细核实,如有异议请联系客服中心:96588</tail>
+                <debug>
+                   <prompt>打印完成</prompt>
+                </debug>
             </setPrinterAction>
         </action>
     </component>
