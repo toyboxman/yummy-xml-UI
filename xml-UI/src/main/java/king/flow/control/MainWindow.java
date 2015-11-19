@@ -17,6 +17,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JComponent;
@@ -337,6 +338,22 @@ public class MainWindow {
             validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
             validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
             validateShowComboBoxAction(action.getShowComboBoxAction(), component, panel, pageURI);
+            validateDefinedAction(action.getCustomizedAction(), component, panel, pageURI);
+        }
+    }
+
+    private void validateDefinedAction(List<DefinedAction> definedActions,
+            Component component, Panel panel, String pageURI) {
+        if (definedActions != null && !definedActions.isEmpty()) {
+            for (DefinedAction definedAction : definedActions) {
+                String className = (definedAction.getClassName() == null || definedAction.getClassName().isEmpty()) ? "[empty name]" : definedAction.getClassName();
+                try {
+                    Class.forName(className);
+                } catch (ClassNotFoundException ex) {
+                    String configErrMsgFooter = "\nCannot load " + className;
+                    promptUnfoundClassBlockErr(component.getId(), "customizedAction", "className", component, panel, pageURI, configErrMsgFooter);
+                }
+            }
         }
     }
 
@@ -345,7 +362,7 @@ public class MainWindow {
         if (showComboBoxAction != null) {
             String items = showComboBoxAction.getItems();
             if (items == null || !items.matches(CommonConstants.COMBOBOX_ITEMS_PROPERTY_PATTERN)) {
-                String configErrMsgFooter = "\ncorrect format is [key/value, ... ,key/value]";
+                String configErrMsgFooter = "\nCorrect format is [key/value, ... ,key/value]";
                 promptMistakenFormatBlockErr(component.getId(), "showComboBoxAction", "items", component, panel, pageURI, configErrMsgFooter);
             }
         }
@@ -564,12 +581,21 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptMistakenFormatBlockErr(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
-                .append("with erroneous format ").append(propertyName).append('[').append(blockId).append(']')
+                .append("with erroneous ").append(propertyName).append('[').append(blockId).append(']').append(" value format")
+                .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+    }
+
+    private void promptUnfoundClassBlockErr(int blockId, String actionName, String propertyName,
+            Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
+        String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                .append(actionName).append('\n')
+                .append("with unfound ").append(propertyName).append('[').append(blockId).append(']')
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
