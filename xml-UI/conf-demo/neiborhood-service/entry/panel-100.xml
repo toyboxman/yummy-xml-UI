@@ -114,4 +114,28 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </playVideoAction>
         </action>
     </component>
+    
+    <component>
+        <id>1006</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>90</x>
+                <y>650</y>
+                <width>320</width>
+                <heigh>40</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>28</fontSize>
+            </setFontAction>
+            <showClockAction>
+                <!-- you can learn how to define date-time format -->
+                <!-- https://docs.oracle.com/javase/8/docs/api/java/util/Formatter.html#Formatter-java.util.Locale- 
+                default is <format>%1$tc</format> -->
+                <format>%1$tT</format>
+            </showClockAction>
+        </action>
+    </component>
 </panel>
