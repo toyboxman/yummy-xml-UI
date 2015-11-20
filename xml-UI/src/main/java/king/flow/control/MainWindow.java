@@ -65,6 +65,7 @@ import king.flow.action.business.RWFingerPrintAction;
 import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
 import king.flow.action.business.Read2In1CardAction;
+import king.flow.action.business.ShowClockAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
 import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
@@ -717,6 +718,20 @@ public class MainWindow {
             doPrintPassbookAction(actionNode, component);
 
             doPlayVideoAction(actionNode, component, parentContainer);
+            
+            doShowClockAction(actionNode, component);
+        }
+    }
+    
+    private void doShowClockAction(king.flow.view.Action actionNode,  Component component) {
+        king.flow.view.Action.ShowClockAction showClockAction = actionNode.getShowClockAction();
+        if (showClockAction != null) {
+            String format = showClockAction.getFormat();
+            if (format != null && !format.isEmpty()) {
+                doAction(new ShowClockAction(format), component.getId());
+            } else {
+                doAction(new ShowClockAction(), component.getId());
+            }
         }
     }
 
