@@ -11,8 +11,12 @@ import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
 import javax.swing.JComboBox;
 import javax.swing.JComponent;
+import javax.swing.JTextField;
 import javax.swing.SwingWorker;
 import javax.swing.UIDefaults;
+import javax.swing.text.AttributeSet;
+import javax.swing.text.BadLocationException;
+import javax.swing.text.PlainDocument;
 import king.flow.action.DefaultAction;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
@@ -94,6 +98,29 @@ public class ReadCardAction extends DefaultAction<JComboBox> {
             owner.putClientProperty("Nimbus.Overrides", ui_conf);
             owner.putClientProperty("Nimbus.Overrides.InheritDefaults", false);
 //        SwingUtilities.updateComponentTreeUI(owner);
+            JTextField editor = (JTextField) owner.getEditor().getEditorComponent();
+            System.out.println("asdfsadjlskjdkl;sjdf;lkaj;fdlskj " + editor.getClass().getCanonicalName());
+            editor.setDocument(new PlainDocument() {
+                @Override
+                public void insertString(int offset, String str, AttributeSet attr) throws BadLocationException {
+                    if (str == null) {
+                        return;
+                    }
+
+                    if (str.length() < 2) {
+                        return;
+                    }
+                    super.insertString(offset, str, attr);
+                }
+
+                @Override
+                public void remove(int offs, int len) throws BadLocationException {
+                    if (len < 2) {
+                        return;
+                    }
+                    super.remove(offs, len);
+                }
+            });
         } else {
             owner.setEditable(false);
         }
