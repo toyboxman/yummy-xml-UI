@@ -68,6 +68,13 @@ public class Read2In1CardAction extends ReadCardAction {
     }
 
     @Override
+    protected void limitUserInput() {
+        if (debugMode == null || debugMode.isLimit()) {
+            setEditorDocument();
+        }
+    }
+
+    @Override
     protected void readCard(String value) {
         progressTip = new JLabel(getResourceMsg("operation.card.insert.prompt"));
         Window windowNode = getWindowNode();
