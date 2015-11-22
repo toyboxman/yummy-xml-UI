@@ -67,8 +67,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <fontSize>18</fontSize>
             </setFontAction>
             <virtualKeyboardAction>
-                <start>G:\king\bankAPP\bankApp-project\AVF\AVF_Display.exe</start>
-                <stop>G:\king\bankAPP\bankApp-project\AVF\AVF_Hide.exe</stop>
+                <start>AVF_Display.exe</start>
+                <stop>AVF_Hide.exe</stop>
                 <!--<start>F:\DEV\netbeans-project\bankApp\AVF\AVF_Start.exe</start>
                 <stop>F:\DEV\netbeans-project\bankApp\AVF\AVF_Stop.exe</stop>-->
             </virtualKeyboardAction>
@@ -155,6 +155,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <upCursor>106</upCursor>
                 <downCursor>105</downCursor>
             </moveCursorAction>
+            <virtualKeyboardAction>
+                <start>AVF_Display.exe</start>
+                <stop>AVF_Hide.exe</stop>
+                <!--<start>F:\DEV\netbeans-project\bankApp\AVF\AVF_Start.exe</start>
+                <stop>F:\DEV\netbeans-project\bankApp\AVF\AVF_Stop.exe</stop>-->
+            </virtualKeyboardAction>
         </action>
     </component>
     <component>
