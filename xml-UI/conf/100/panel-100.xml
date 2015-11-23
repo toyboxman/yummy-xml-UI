@@ -183,4 +183,43 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </showClockAction>
         </action>
     </component>
+    <component>
+        <id>109</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>600</y>
+                <width>300</width>
+                <heigh>40</heigh>
+            </rect>
+        </attribute>
+    </component>
+    <component>
+        <id>110</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>810</x>
+                <y>600</y>
+                <width>75</width>
+                <heigh>40</heigh>
+            </rect>
+            <text>查询</text>
+        </attribute>
+        <action>
+            <sendMsgAction>
+                <prsCode>queryGas</prsCode>
+                <conditions>108</conditions>
+                <exception>
+                    <display>109</display>
+                    <nextPanel>100</nextPanel>
+                </exception>
+                <nextStep>
+                    <display>109</display>
+                    <nextPanel>100</nextPanel>
+                </nextStep>
+            </sendMsgAction>
+        </action>
+    </component>
 </panel>

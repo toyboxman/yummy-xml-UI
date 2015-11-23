@@ -202,6 +202,14 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     label.setText(result.getErrMsg());
                 }
                 break;
+            case TEXT_FIELD:
+                JTextField textField = getBlock(next.getDisplay(), JTextField.class);
+                if (result.getRetCode() == 0) {
+                    textField.setText(result.getOkMsg());
+                } else {
+                    CommonUtil.showErrorMsg(textField.getTopLevelAncestor(), result.getErrMsg());
+                }
+                break;
             default:
                 getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
                         "Unsupported component type : {0}", meta.getType());
@@ -375,18 +383,16 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
 //                    showErrorMsg(owner.getTopLevelAncestor(), "Receive invalidated result from server");
                     showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.invalidated.response.prompt"));
                     return;
-                } else {
-                    if (result.getRetCode() != 0) {
-                        final String errMsg = result.getErrMsg();
-                        getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
-                                "Operation action failed with retcode {0}, root cause {1}",
-                                new Object[]{result.getRetCode(), errMsg});
+                } else if (result.getRetCode() != 0) {
+                    final String errMsg = result.getErrMsg();
+                    getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
+                            "Operation action failed with retcode {0}, root cause {1}",
+                            new Object[]{result.getRetCode(), errMsg});
 //                        showDoneMsg(owner.getTopLevelAncestor(), result.getErrMsg());
 //                        showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.failed.operation.prompt") + result.getRetCode());
-                        showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
-                                ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
-                        return;
-                    }
+                    showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
+                            ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
+                    return;
                 }
 
                 if (next == null || next.getDisplay() < 0) {
