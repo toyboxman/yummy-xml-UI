@@ -106,7 +106,7 @@ public class DefaultVirtualKeyBoardAction extends DefaultBaseAction {
     @Override
     protected void installTextFieldAction() {
         JTextField jtf = (JTextField) owner;
-        jtf.addFocusListener(new FocusAdapter() {
+        /*jtf.addFocusListener(new FocusAdapter() {
 
 //            @Override
 //            public void focusGained(FocusEvent e) {
@@ -122,7 +122,7 @@ public class DefaultVirtualKeyBoardAction extends DefaultBaseAction {
                 }
                 new VirtualKeyBoardTask().execute();
             }
-        });
+        });*/
 
         jtf.addMouseListener(new MouseAdapter() {
 
