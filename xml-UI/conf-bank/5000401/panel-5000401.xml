@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>5000401</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/2.jpg</background>
+	<background>/image/1.jpg</background>
 	<component>
         <id>5000402</id>
         <type>Label</type>
@@ -70,15 +70,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>5000406</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accoutfrom.wav</media>
+                <media>./media/audio/accoutfrom.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -115,23 +112,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000404</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000408</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
-			
 			<playMediaAction>
-                <media>./media/money.wav</media>
+                <media>./media/audio/money.wav</media>
             </playMediaAction>
 			
 			<limitInputAction>
@@ -163,7 +145,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 	<component>
         <id>5000408</id>
-        <type>ComboBox</type>
+        <type>TextField</type>
         <attribute>
             <rect>
                 <x>500</x>
@@ -172,28 +154,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>60</heigh>
             </rect>
         </attribute>
-		
-		<action>
-            <showComboBoxAction>
-                <items>/, ACTION4/读银行卡</items>
-            </showComboBoxAction>
-            <swipe2In1CardAction>
-                <nextCursor>5000410</nextCursor>
-                <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
-</swipe2In1CardAction>
-        </action>
-		
+	
 		<action>
 			<playMediaAction>
-                <media>./media/accoutto.wav</media>
+                <media>./media/audio/accoutto.wav</media>
             </playMediaAction>
         </action>
     </component>
 	
-
 	<component>
         <id>5000409</id>
         <type>Label</type>
@@ -227,23 +195,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/name.wav</media>
+                <media>./media/audio/name.wav</media>
             </playMediaAction>
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000408</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000411</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
         </action>
 		
 		<action>
@@ -286,40 +239,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-		
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000412</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000413</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
-			
 			<playMediaAction>
-                <media>./media/finger.wav</media>
+                <media>./media/audio/finger.wav</media>
             </playMediaAction>
-
-			<customizedAction>
-                <className>king.flow.action.customization.FingerPrintDriverAction</className>
-				<constructorParameters>
-					<parameter>
-						<type>boolean</type>
-						<value>false</value>
-					</parameter>
-					
-					<parameter>
-						<type>int</type>
-						<value>5000307</value>
-					</parameter>
-				</constructorParameters>
-            </customizedAction>
         </action>
 		
     </component>
@@ -340,24 +262,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
         <action>
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000412</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000413</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
 			
-			
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
@@ -395,11 +300,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>收款户名不能为空</errMsg>
                     </notNull>
 					
-					<validateCJK>
-                        <content>5000410</content>
-                        <errMsg>收款户名必须是中文</errMsg>
-                    </validateCJK>
-					
 					<notNull>
                         <content>5000406</content>
                         <errMsg>转账金额不能为空</errMsg>
@@ -407,13 +307,18 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 					
 					<notNull>
                         <content>5000412</content>
-                        <errMsg>密码不能为空</errMsg>
+                        <errMsg>指纹密码不能为空</errMsg>
                     </notNull>
+                    
+                     <template>
+                        <content>5000404</content>
+                        <pattern>6217</pattern>
+                        <errMsg>付款账户非本行卡片，请使用本行卡</errMsg>
+                    </template>
 					
-	
                     <template>
                         <content>5000408</content>
-                        <pattern>6214</pattern>
+                        <pattern>6217</pattern>
                         <errMsg>收款账户非本行卡片，请使用本行卡</errMsg>
                     </template>
 				</checkRules>	

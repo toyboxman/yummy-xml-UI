@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>5000201</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/2.jpg</background>
+	<background>/image/1.jpg</background>
 	<component>
         <id>5000202</id>
         <type>Label</type>
@@ -63,7 +63,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
 		
-		
 		<action>
             <showComboBoxAction>
                 <items>/, ACTION4/读银行卡</items>
@@ -71,15 +70,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>5000206</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accout.wav</media>
+                <media>./media/audio/accout.wav</media>
             </playMediaAction>
         </action>
 		
@@ -120,26 +116,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <length>6</length>
             </limitInputAction>
 			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000204</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000208</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
         </action>
 		
@@ -178,39 +159,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000206</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000209</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
-			
 			<playMediaAction>
-                <media>./media/finger.wav</media>
+                <media>./media/audio/finger.wav</media>
             </playMediaAction>
-
-			<customizedAction>
-                <className>king.flow.action.customization.FingerPrintDriverAction</className>
-				<constructorParameters>
-					<parameter>
-						<type>boolean</type>
-						<value>true</value>
-					</parameter>
-					
-					<parameter>
-						<type>int</type>
-						<value>5000209</value>
-					</parameter>
-				</constructorParameters>
-            </customizedAction>
         </action>
     </component>
 	
@@ -227,25 +178,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-		
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000208</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5000209</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
-			
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
@@ -263,7 +195,26 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <nextPanel>50000001</nextPanel>  
                     <display>50000003</display>  
                 </exception>
+                
+                <checkRules>
+					<notNull>
+	                    <content>5000204</content>
+	                    <errMsg>卡号不能为空</errMsg>
+	                </notNull>
+					
+	                <notNull>
+	                    <content>5000206</content>
+	                    <errMsg>密码不能为空</errMsg>
+	                </notNull>
+	                
+	                <notNull>
+	                    <content>5000208</content>
+	                    <errMsg>指纹密码不能为空</errMsg>
+	                </notNull>
+           		 </checkRules>
+            
             </sendMsgAction>
+          
         </action>
 		
     </component>

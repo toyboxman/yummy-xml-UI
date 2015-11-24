@@ -69,9 +69,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <setPrinterAction>
                 <header>乌海商业银行</header>
                 <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:965188</tail>
-	            <debug>
-			        <prompt>打印完成</prompt>
-			    </debug>
 			</setPrinterAction>
         </action>
         <action>

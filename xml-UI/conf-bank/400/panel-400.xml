@@ -36,10 +36,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <id>40002</id>
         <type>Button</type>
         <attribute>
-            <text>代收手机费</text>
+            <text>代缴手机费</text>
             <rect>
                 <x>200</x>
-                <y>240</y>
+                <y>690</y>
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
@@ -56,9 +56,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <id>40003</id>
         <type>Button</type>
         <attribute>
-            <text>代收水费</text>
+            <text>普卡代缴水费</text>
             <rect>
-                <x>800</x>
+                <x>200</x>
                 <y>240</y>
                 <width>300</width>
                 <heigh>80</heigh>
@@ -76,7 +76,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <id>40004</id>
         <type>Button</type>
         <attribute>
-            <text>代收电费</text>
+            <text>普卡代缴电费</text>
             <rect>
                 <x>200</x>
                 <y>390</y>
@@ -96,7 +96,47 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <id>40005</id>
         <type>Button</type>
         <attribute>
-            <text>代收煤气费</text>
+            <text>普卡代缴燃气费</text>
+            <rect>
+                <x>200</x>
+                <y>540</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>4000501</nextPanel>
+            </jumpPanelAction>
+        </action>
+    </component>
+    
+    	<component>
+        <id>40007</id>
+        <type>Button</type>
+        <attribute>
+            <text>IC卡代缴水费</text>
+            <rect>
+                <x>800</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>4000701</nextPanel>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>40008</id>
+        <type>Button</type>
+        <attribute>
+            <text>IC卡代缴电费</text>
             <rect>
                 <x>800</x>
                 <y>390</y>
@@ -107,7 +147,27 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>4000501</nextPanel>
+                <nextPanel>4000801</nextPanel>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>40009</id>
+        <type>Button</type>
+        <attribute>
+            <text>IC卡代缴燃气费</text>
+            <rect>
+                <x>800</x>
+                <y>540</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>4000901</nextPanel>
             </jumpPanelAction>
         </action>
     </component>

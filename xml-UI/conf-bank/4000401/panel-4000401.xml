@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>4000401</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/3.jpg</background>
+	<background>/image/1.jpg</background>
 	<component>
         <id>4000402</id>
         <type>Label</type>
@@ -23,7 +23,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>代缴电费</text>
+            <text>普卡代缴电费</text>
         </attribute>
         <action>
             <setFontAction>
@@ -37,12 +37,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>380</x>
+                <x>310</x>
                 <y>230</y>
-                <width>100</width>
+                <width>200</width>
                 <heigh>50</heigh>
             </rect>
-            <text>卡号:</text>
+            <text>银行卡号:</text>
         </attribute>
         <action>
             <setFontAction>
@@ -70,15 +70,17 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>4000406</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
-</swipe2In1CardAction>
+			</swipe2In1CardAction>
         </action>
+        
+         <action>
+			<playMediaAction>
+                <media>./media/audio/accout.wav</media>
+            </playMediaAction>
+        </action>
+        
     </component>
-	
-	
-	
+    
 	<component>
         <id>4000405</id>
         <type>Label</type>
@@ -110,30 +112,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
 		
-		
 		<action>
 			<playMediaAction>
-                <media>./media/jiaofeinum.wav</media>
+                <media>./media/audio/jiaofeinum.wav</media>
             </playMediaAction>
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000404</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000408</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
 			
         </action>
     </component>
 	
-
 	<component>
         <id>4000407</id>
         <type>Label</type>
@@ -166,42 +152,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		
-		
 		<action>
 			<playMediaAction>
-                <media>./media/jiaofeimoney.wav</media>
+                <media>./media/audio/jiaofeimoney.wav</media>
             </playMediaAction>
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000406</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000410</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
         </action>
 		
     </component>
-	
 	
 	<component>
         <id>4000409</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>380</x>
+                <x>310</x>
                 <y>530</y>
-                <width>100</width>
+                <width>250</width>
                 <heigh>60</heigh>
             </rect>
-            <text>密码:</text>
+            <text>银行卡密码:</text>
         </attribute>
         <action>
             <setFontAction>
@@ -229,27 +198,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		
 		<action>
-   
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000408</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000411</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-        </action>
-		
-		
-		<action>
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -268,34 +218,16 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000410</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000411</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
 			
         </action>
 		
 		
 		<action>
             <sendMsgAction>
-                <prsCode>payElectro</prsCode>
+                <prsCode>payPkElectro</prsCode>
                 <conditions>4000404,4000406,4000408,4000410</conditions>
                 <nextStep>  
                     <nextPanel>40008911</nextPanel> 
@@ -330,6 +262,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <fontSize>35</fontSize>
             </setFontAction>
         </action>
+        <action>
+            <cleanAction>
+                <conditions>4000404,4000406,4000408,4000410</conditions>
+            </cleanAction>
+        </action> 
     </component>
 	
 	

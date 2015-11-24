@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>2000301</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/2.jpg</background>
+	<background>/image/1.jpg</background>
 	<component>
         <id>2000302</id>
         <type>Label</type>
@@ -72,15 +72,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>2000306</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accout.wav</media>
+                <media>./media/audio/accout.wav</media>
             </playMediaAction>
         </action>
 		
@@ -124,26 +121,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
-            </playMediaAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000304</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000311</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
-			
-			
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>		
         </action>
     </component>
 	
@@ -190,22 +169,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 				
             </sendMsgAction>
-			
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000306</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000311</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
     </component>
 	

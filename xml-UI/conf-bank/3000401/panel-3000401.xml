@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>3000401</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/3.jpg</background>
+	<background>/image/1.jpg</background>
 	<component>
         <id>3000402</id>
         <type>Label</type>
@@ -70,15 +70,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>3000410</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accoutfrom.wav</media>
+                <media>./media/audio/accoutfrom.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -118,27 +115,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/money.wav</media>
+                <media>./media/audio/money.wav</media>
             </playMediaAction>
 			<limitInputAction>
                 <length>16</length>
                 <enableCashLimit>true</enableCashLimit>
             </limitInputAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000404</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000406</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+
         </action>
     </component>
 	
@@ -166,7 +149,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 	<component>
         <id>3000406</id>
-        <type>ComboBox</type>
+        <type>TextField</type>
         <attribute>
             <rect>
                 <x>500</x>
@@ -177,21 +160,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-            <showComboBoxAction>
-                <items>/, ACTION4/读银行卡</items>
-            </showComboBoxAction>
-            <swipe2In1CardAction>
-                <nextCursor>3000408</nextCursor>
-                <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
-</swipe2In1CardAction>
-        </action>
-		
-		<action>
 			<playMediaAction>
-                <media>./media/credicard.wav</media>
+                <media>./media/audio/credicard.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -230,23 +200,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/crediname.wav</media>
+                <media>./media/audio/crediname.wav</media>
             </playMediaAction>
 			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000406</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000412</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+
         </action>
 		
 		<action>
@@ -298,24 +255,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
-			
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000412</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000413</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+
         </action>
     </component>
 	
@@ -333,27 +275,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000412</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000413</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+		
         </action>
 		
 		<action>
@@ -385,11 +310,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>信用卡户名不能为空</errMsg>
                     </notNull>
 					
-					<validateCJK>
-                        <content>3000408</content>
-                        <errMsg>收款户名必须是中文,请检查是否有空格</errMsg>
-                    </validateCJK>
-					
 					<notNull>
                         <content>3000410</content>
                         <errMsg>还款金额不能为空</errMsg>
@@ -399,22 +319,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <content>3000412</content>
                         <errMsg>密码不能为空</errMsg>
                     </notNull>
-					
-	
-                    <template>
-                        <content>3000406</content>
-                        <pattern>6214</pattern>
-                        <errMsg>收款账户非本行卡片，请使用本行卡</errMsg>
-                    </template>
 				</checkRules>	
 				
             </sendMsgAction>
-			
-			
-			
-				
-				
-				
+	
         </action>
 		
     </component>

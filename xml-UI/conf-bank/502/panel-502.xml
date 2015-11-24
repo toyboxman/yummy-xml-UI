@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>5021</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/1.jpg</background>
+	<background>/image/2.jpg</background>
 	<component>
         <id>5022</id>
         <type>Label</type>
@@ -65,23 +65,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>60</heigh>
             </rect>
         </attribute>
-		<action>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5014</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5016</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-        </action>
     </component>
 	
 	
@@ -123,25 +106,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5024</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5028</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
-			
 			
         </action>
     </component>
@@ -173,8 +139,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>500883</display>  
                 </nextStep>
                 <exception> 
-                    <nextPanel>999</nextPanel>  
-                    <display>9993</display>  
+                    <nextPanel>501999</nextPanel>  
+                    <display>50199903</display>  
                 </exception>
 				
 				<checkRules>
@@ -189,20 +155,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     </notNull> 
                 </checkRules>
             </sendMsgAction>
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>5026</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>5028</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
     </component>
 	

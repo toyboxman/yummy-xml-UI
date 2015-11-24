@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>2000401</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/3.jpg</background>
+	<background>/image/1.jpg</background>
 	<component>
         <id>2000402</id>
         <type>Label</type>
@@ -71,15 +71,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>2000406</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accout.wav</media>
+                <media>./media/audio/accout.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -121,23 +118,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
 			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000404</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000408</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
     </component>
 	
@@ -177,23 +160,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/newpasswd.wav</media>
+                <media>./media/audio/newpasswd.wav</media>
             </playMediaAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000406</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000410</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
 			
         </action>
     </component>
@@ -234,23 +202,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/passwdagin.wav</media>
+                <media>./media/audio/passwdagin.wav</media>
             </playMediaAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000408</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000411</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+		
         </action>
     </component>
 	
@@ -270,23 +224,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000410</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000411</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
-			
-			
+	
         </action>
 		<action>
             <sendMsgAction>
@@ -346,7 +284,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>200</nextPanel>
             </jumpPanelAction>
         </action>
-		
 		
 		<action>
             <cleanAction>

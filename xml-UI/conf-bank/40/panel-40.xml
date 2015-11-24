@@ -72,7 +72,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
+	<!-- <component>
         <id>44</id>
         <type>Button</type>
         <attribute>
@@ -90,7 +90,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>4401</nextPanel>
             </jumpPanelAction>
         </action>
-    </component>
+    </component>  -->
 	
 	
     <component>

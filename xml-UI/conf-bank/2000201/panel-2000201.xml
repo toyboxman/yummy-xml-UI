@@ -79,15 +79,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextCursor>2000206</nextCursor>
                 <editable>true</editable>
 				<animationTip>/image/card.jpg</animationTip> 
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accout.wav</media>
+                <media>./media/audio/accout.wav</media>
             </playMediaAction>
 
         </action>
@@ -130,23 +127,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <length>6</length>
             </limitInputAction>
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000204</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000207</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
 		
     </component>
@@ -194,20 +176,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     </notNull> 
                 </checkRules>
             </sendMsgAction>
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000206</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000207</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
     </component>
 	

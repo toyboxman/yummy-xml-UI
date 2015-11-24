@@ -32,7 +32,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	
 	<component>
         <id>5013</id>
         <type>Label</type>
@@ -51,9 +50,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </setFontAction>
         </action>
     </component>
-	
-	
-	
 	
 	<component>
         <id>5014</id>
@@ -113,7 +109,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
 			
 			<moveCursorAction>
@@ -123,8 +119,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			
         </action>
     </component>
-	
-	
 	
     <component>
         <id>5017</id>
@@ -147,8 +141,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>50110</display>  
                 </nextStep>
                 <exception> 
-                    <nextPanel>999</nextPanel>  
-                    <display>9993</display>  
+                    <nextPanel>501999</nextPanel>  
+                    <display>50199903</display>  
                 </exception>
 				
 				

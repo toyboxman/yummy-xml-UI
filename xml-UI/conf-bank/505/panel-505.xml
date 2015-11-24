@@ -116,17 +116,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
             <text>打印存折</text>
         </attribute> 
-        <action>
-            <customizedAction>
-                <className>king.flow.action.customization.PrintPassbookAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>50571</value>
-                    </parameter>
-                </constructorParameters>
-            </customizedAction>
-        </action>		
     </component>
 	
     <component>

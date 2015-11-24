@@ -70,20 +70,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>2000506</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accout.wav</media>
+                <media>./media/audio/accout.wav</media>
             </playMediaAction>
         </action>
     </component>
-	
-	
 	
 	<component>
         <id>2000505</id>
@@ -163,27 +158,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <length>6</length>
             </limitInputAction>
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
-			
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000506</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000509</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
     </component>
-	
 	
     <component>
         <id>2000509</id>
@@ -198,27 +176,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000508</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>2000510</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+
         </action>
 		
 		<action>
@@ -267,13 +228,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </jumpPanelAction>
         </action>
 		
-		
 		<action>
             <cleanAction>
                 <conditions>2000504,2000508</conditions>
             </cleanAction>
         </action>
     </component>
-	
 	
 </panel>

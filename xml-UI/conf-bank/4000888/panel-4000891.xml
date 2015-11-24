@@ -68,11 +68,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
             <setPrinterAction>
-                <header>颍淮农村商业银行</header>
+                <header>灵璧农村商业银行</header>
                 <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
-                <debug>
-                   <prompt>打印完成</prompt>
-                </debug>
            </setPrinterAction>
         </action>
 		

@@ -71,16 +71,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>4000206</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accout.wav</media>
+                <media>./media/audio/accout.wav</media>
             </playMediaAction>
         </action>
 		
@@ -120,23 +117,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/phonenum.wav</media>
+                <media>./media/audio/phonenum.wav</media>
             </playMediaAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000204</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000208</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
 			
         </action>
     </component>
@@ -175,23 +157,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/phonemoney.wav</media>
+                <media>./media/audio/phonemoney.wav</media>
             </playMediaAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000206</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000210</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+
         </action>
     </component>
 	
@@ -229,28 +197,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
         </action>
 		<action>
             <limitInputAction>
                 <length>6</length>
             </limitInputAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000208</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000211</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
+		
         </action>
     </component>
 	
@@ -268,9 +222,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
@@ -289,22 +240,28 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <nextPanel>99911</nextPanel>  
                     <display>99914</display>  
                 </exception>
+                
+               <checkRules>
+					<notNull>
+                        <content>4000204</content>
+                        <errMsg>卡号不能为空</errMsg>
+                    </notNull>
+                    <notNull>
+                        <content>4000206</content>
+                        <errMsg>手机号不能为空</errMsg>
+                    </notNull> 
+                    <notNull>
+                        <content>4000208</content>
+                        <errMsg>缴费金额不能为空</errMsg>
+                    </notNull> 
+                    <notNull>
+                        <content>4000210</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull> 
+                </checkRules>
+                
             </sendMsgAction>
 			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000210</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4000211</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
 		
     </component>

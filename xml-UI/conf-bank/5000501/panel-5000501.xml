@@ -70,15 +70,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>3000310</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accoutfrom.wav</media>
+                <media>./media/audio/accoutfrom.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -116,7 +113,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/money.wav</media>
+                <media>./media/audio/money.wav</media>
             </playMediaAction>
 			
 			<limitInputAction>
@@ -148,7 +145,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 	<component>
         <id>5000508</id>
-        <type>ComboBox</type>
+        <type>TextField</type>
         <attribute>
             <rect>
                 <x>500</x>
@@ -159,21 +156,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
 		<action>
-            <showComboBoxAction>
-                <items>/, ACTION4/读银行卡</items>
-            </showComboBoxAction>
-            <swipe2In1CardAction>
-                <nextCursor>3000308</nextCursor>
-                <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
-</swipe2In1CardAction>
-        </action>
-		
-		<action>
 			<playMediaAction>
-                <media>./media/accoutto.wav</media>
+                <media>./media/audio/accoutto.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -212,7 +196,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/name.wav</media>
+                <media>./media/audio/name.wav</media>
             </playMediaAction>
         </action>
 		
@@ -223,8 +207,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </virtualKeyboardAction>
         </action>
     </component>
-	
-	
 	
 	
 	<component>
@@ -264,7 +246,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -285,9 +267,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
 		
         <action>
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
@@ -325,11 +304,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>收款户名不能为空</errMsg>
                     </notNull>
 					
-					<validateCJK>
-                        <content>5000510</content>
-                        <errMsg>收款户名必须是中文</errMsg>
-                    </validateCJK>
-					
 					<notNull>
                         <content>5000406</content>
                         <errMsg>转账金额不能为空</errMsg>
@@ -342,9 +316,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 					
 	
                     <template>
-                        <content>5000408</content>
-                        <pattern>6214</pattern>
-                        <errMsg>收款账户非本行卡片，请使用本行卡</errMsg>
+                        <content>5000404</content>
+                        <pattern>6217</pattern>
+                        <errMsg>付款账户非本行卡片，请使用本行卡</errMsg>
                     </template>
 				</checkRules>	
 				

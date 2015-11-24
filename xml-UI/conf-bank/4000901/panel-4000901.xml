@@ -9,12 +9,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
-    <id>4000301</id>
+    <id>4000901</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/1.jpg</background>
+	<background>/image/4.jpg</background>
 	<component>
-        <id>4000302</id>
+        <id>4000902</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -23,7 +23,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>普卡代缴水费</text>
+            <text>IC卡代缴燃气费</text>
         </attribute>
         <action>
             <setFontAction>
@@ -33,7 +33,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	<component>
-        <id>4000303</id>
+        <id>4000903</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -52,7 +52,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 
 	<component>
-        <id>4000304</id>
+        <id>4000904</id>
         <type>ComboBox</type>
         <attribute>
             <rect>
@@ -63,35 +63,38 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
 		
+		
 		<action>
             <showComboBoxAction>
                 <items>/, ACTION4/读银行卡</items>
             </showComboBoxAction>
             <swipe2In1CardAction>
-                <nextCursor>4000306</nextCursor>
+                <nextCursor>4000906</nextCursor>
                 <editable>true</editable>
 			</swipe2In1CardAction>
         </action>
-		
-		<action>
+        
+        <action>
 			<playMediaAction>
                 <media>./media/audio/accout.wav</media>
             </playMediaAction>
         </action>
-		
+        
     </component>
 	
+	
+	
 	<component>
-        <id>4000305</id>
+        <id>4000905</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>340</x>
+                <x>310</x>
                 <y>330</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>缴费号:</text>
+            <text>燃气IC卡号:</text>
         </attribute>
         <action>
             <setFontAction>
@@ -101,8 +104,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 
 	<component>
-        <id>4000306</id>
-        <type>TextField</type>
+        <id>4000906</id>
+        <type>ComboBox</type>
         <attribute>
             <rect>
                 <x>500</x>
@@ -111,82 +114,28 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>60</heigh>
             </rect>
         </attribute>
-		
-		<action>
+        
+        <action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读燃气IC卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>4000906</nextCursor>
+                <editable>true</editable>
+			</swipe2In1CardAction>
+        </action>
+        
+        <action>
 			<playMediaAction>
-                <media>./media/audio/jiaofeinum.wav</media>
+                <media>./media/audio/accout.wav</media>
             </playMediaAction>
         </action>
-    </component>
-    
-     <component>
-        <id>4000313</id>
-        <type>Button</type>
-        <attribute>
-            <rect>
-                <x>850</x>
-                <y>330</y>
-                <width>150</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>查询</text>
-        </attribute>
-        <action>
-			<setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-            
-        <action>
-            <sendMsgAction>
-                <prsCode>WaterAccQuery</prsCode>
-                <conditions>4000306</conditions>
-                <nextStep>  
-                    <nextPanel>4000306001</nextPanel> 
-                    <display>4000306003</display>  
-                </nextStep>
-                <exception> 
-                    <nextPanel>99911</nextPanel>  
-                    <display>99914</display>  
-                </exception>
-            </sendMsgAction>
-        </action>
-    </component>
-    
-	<component>
-        <id>4000314</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>310</x>
-                <y>630</y>
-                <width>200</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>欠费金额:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
+		
     </component>
 	
+
 	<component>
-        <id>4000315</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>500</x>
-                <y>630</y>
-                <width>150</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-    </component>
-	
-	<component>
-        <id>4000307</id>
+        <id>4000907</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -205,17 +154,16 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	<component>
-        <id>4000308</id>
+        <id>4000908</id>
         <type>TextField</type>
         <attribute>
             <rect>
                 <x>500</x>
                 <y>430</y>
                 <width>150</width>
-                <heigh>60</heigh>
+                <heigh>50</heigh>
             </rect>
         </attribute>
-		
 		
 		<action>
 			<playMediaAction>
@@ -223,11 +171,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </playMediaAction>
 			
         </action>
-		
     </component>
 	
+	
 	<component>
-        <id>4000309</id>
+        <id>4000909</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -246,7 +194,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	<component>
-        <id>4000310</id>
+        <id>4000910</id>
         <type>PasswordField</type>
         <attribute>
             <rect>
@@ -262,18 +210,18 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <length>6</length>
             </limitInputAction>
         </action>
-		
-		
-		<action>
+        
+        <action>
 			<playMediaAction>
                 <media>./media/audio/passwd.wav</media>
             </playMediaAction>
         </action>
+        
     </component>
 	
 	
     <component>
-        <id>4000311</id>
+        <id>4000911</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -288,16 +236,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
-			
         </action>
 		
 		<action>
             <sendMsgAction>
-                <prsCode>payPkWater</prsCode>
-                <conditions>4000304,4000306,4000308,4000310</conditions>
+                <prsCode>payIcGas</prsCode>
+                <conditions>4000904,4000906,4000908,4000910</conditions>
                 <nextStep>  
-                    <nextPanel>40008901</nextPanel> 
-                    <display>40008904</display>  
+                    <nextPanel>40008921</nextPanel> 
+                    <display>40008924</display>  
                 </nextStep>
                 <exception> 
                     <nextPanel>99911</nextPanel>  
@@ -308,7 +255,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>4000312</id>
+        <id>4000912</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -323,17 +270,16 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <jumpPanelAction>
                 <nextPanel>400</nextPanel>
             </jumpPanelAction>
-			          <setFontAction>
+		
+             <cleanAction>
+                <conditions>4000904,4000906,4000908,4000910</conditions>
+            </cleanAction>
+            
+            <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
+            
         </action>
-        
-        <action>
-            <cleanAction>
-                <conditions>4000304,4000306,4000308,4000310</conditions>
-            </cleanAction>
-        </action> 
-        
     </component>
 	
 	

@@ -88,7 +88,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <items>CNY/人民币, USD/美元, JPY/日元</items>
             </showComboBoxAction>
             <playMediaAction>
-                <media>./media/goodbye.wav</media>
+                <media>./media/audio/goodbye.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -111,7 +111,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <tip>&lt;html&gt;&lt;center&gt;&lt;h1&gt;Hello,&lt;/h1&gt;&lt;h2 style=&#39;color: red; font-style: italic;&#39;&gt;World&lt;/h2&gt;&lt;b&gt;Modified&lt;br/&gt;ToolTipText&lt;/b&gt;&lt;/center&gt;&lt;br/&gt;so simple.请输入账号密码</tip>
             </useTipAction>
             <playMediaAction>
-                <media>./media/song.wav</media>
+                <media>./media/audio/song.wav</media>
             </playMediaAction>
            
         </action>
@@ -127,21 +127,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>40</heigh>
             </rect>
         </attribute>
-        <action>
-            <customizedAction>
-                <className>king.flow.action.customization.FingerPrintDriverAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>boolean</type>
-                        <value>true</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>104</value>
-                    </parameter>
-                </constructorParameters>
-            </customizedAction>
-        </action>
     </component>
     <component>
         <id>107</id>
@@ -154,20 +139,5 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>40</heigh>
             </rect>
         </attribute>
-        <action>
-            <customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>106</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>105</value>
-                    </parameter>
-                </constructorParameters>
-            </customizedAction>
-        </action>
     </component>
 </panel>

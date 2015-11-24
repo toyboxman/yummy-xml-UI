@@ -93,7 +93,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		<action>
             <cleanAction>
-                <conditions>2000206,2000204,2000304,2000306,2000404,2000406,2000408,2000410</conditions>
+                <conditions>2000206,2000204,2000304,2000306,2000404,2000406,2000408,2000410,2000504,2000508</conditions>
             </cleanAction>
         </action>   
     </component>

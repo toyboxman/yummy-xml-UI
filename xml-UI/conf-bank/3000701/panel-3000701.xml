@@ -12,7 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>3000701</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/2.jpg</background>
+	<background>/image/1.jpg</background>
 	<component>
         <id>3000702</id>
         <type>Label</type>
@@ -70,10 +70,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>3000708</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
-</swipe2In1CardAction>
+            </swipe2In1CardAction>
+        </action>
+        
+        <action>
+			<playMediaAction>
+                <media>./media/audio/accout.wav</media>
+            </playMediaAction>
         </action>
 		
     </component>
@@ -113,7 +116,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/money.wav</media>
+                <media>./media/audio/money.wav</media>
             </playMediaAction>
 			
 			<limitInputAction>
@@ -121,21 +124,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <enableCashLimit>true</enableCashLimit>
             </limitInputAction>
 			
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000704</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000706</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
 		
     </component>
@@ -217,21 +205,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <limitInputAction>
                 <length>6</length>
             </limitInputAction>
+            <playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
 			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000706</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000711</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
     </component>
 	
@@ -249,27 +226,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
 			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000710</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>3000711</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
 		
 		
@@ -310,8 +270,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 					
                     <template>
                         <content>3000704</content>
-                        <pattern>6214</pattern>
-                        <errMsg>收款账户非本行卡片，请使用本行卡</errMsg>
+                        <pattern>6217</pattern>
+                        <errMsg>非本行卡片，请使用本行卡</errMsg>
                     </template>
 		</checkRules>	
 		

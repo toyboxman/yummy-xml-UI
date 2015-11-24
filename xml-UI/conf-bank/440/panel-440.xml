@@ -70,9 +70,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>3000210</nextCursor>
                 <editable>true</editable>
-                 <debug>
-         <cardId>6222000266326589875</cardId>
-     </debug>
 </swipe2In1CardAction>
         </action>
 		
@@ -80,7 +77,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/accoutfrom.wav</media>
+                <media>./media/audio/accoutfrom.wav</media>
             </playMediaAction>
         </action>
 		
@@ -127,22 +124,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
 			
 			<playMediaAction>
-                <media>./media/passwd.wav</media>
+                <media>./media/audio/passwd.wav</media>
             </playMediaAction>
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4405</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4407</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
 			
         </action>
     </component>
@@ -160,27 +143,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>提交</text>
         </attribute>
         <action>
-            <customizedAction>
-                <className></className>
-            </customizedAction>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
-			
-			
-			<customizedAction>
-                <className>king.flow.action.customization.CusorMoveAction</className>
-                <constructorParameters>
-                    <parameter>
-                        <type>int</type>
-                        <value>4404</value>
-                    </parameter>
-                    <parameter>
-                        <type>int</type>
-                        <value>4408</value>
-                    </parameter>
-                </constructorParameters>
-			</customizedAction>
         </action>
 		
 		<action>
@@ -204,7 +169,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
                     <template>
                         <content>4404</content>
-                        <pattern>6214</pattern>
+                        <pattern>6217</pattern>
                         <errMsg>当前使用非本行发行卡片，请使用本行卡</errMsg>
                     </template>
 					

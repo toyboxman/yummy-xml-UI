@@ -9,12 +9,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
-    <id>3000201</id>
+    <id>4000701</id>
     <type>Panel</type>
     <active>false</active>
 	<background>/image/1.jpg</background>
 	<component>
-        <id>3000202</id>
+        <id>4000702</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -23,7 +23,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>同行转账</text>
+            <text>IC卡代缴水费</text>
         </attribute>
         <action>
             <setFontAction>
@@ -33,16 +33,16 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	<component>
-        <id>3000203</id>
+        <id>4000703</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>300</x>
-                <y>280</y>
+                <x>310</x>
+                <y>230</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>付款卡号:</text>
+            <text>银行卡号:</text>
         </attribute>
         <action>
             <setFontAction>
@@ -52,12 +52,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 
 	<component>
-        <id>3000204</id>
+        <id>4000704</id>
         <type>ComboBox</type>
         <attribute>
             <rect>
                 <x>500</x>
-                <y>280</y>
+                <y>230</y>
                 <width>430</width>
                 <heigh>60</heigh>
             </rect>
@@ -68,14 +68,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <items>/, ACTION4/读银行卡</items>
             </showComboBoxAction>
             <swipe2In1CardAction>
-                <nextCursor>3000210</nextCursor>
+                <nextCursor>4000706</nextCursor>
                 <editable>true</editable>
-</swipe2In1CardAction>
+			</swipe2In1CardAction>
         </action>
 		
 		<action>
 			<playMediaAction>
-                <media>./media/audio/accoutfrom.wav</media>
+                <media>./media/audio/accout.wav</media>
             </playMediaAction>
         </action>
 		
@@ -84,61 +84,16 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 	
 	
 	<component>
-        <id>3000209</id>
+        <id>4000705</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>300</x>
-                <y>380</y>
+                <x>340</x>
+                <y>330</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>转账金额:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-	
-	<component>
-        <id>3000210</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>500</x>
-                <y>380</y>
-                <width>150</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-		
-		<action>
-			<playMediaAction>
-                <media>./media/audio/money.wav</media>
-            </playMediaAction>
-			
-			<limitInputAction>
-                <length>16</length>
-                <enableCashLimit>true</enableCashLimit>
-            </limitInputAction>
-
-        </action>
-		
-    </component>
-	
-	<component>
-        <id>3000205</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>300</x>
-                <y>480</y>
-                <width>200</width>
-                <heigh>50</heigh>
-            </rect>
-            <text>收款帐号:</text>
+            <text>IC卡号:</text>
         </attribute>
         <action>
             <setFontAction>
@@ -148,130 +103,129 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 
 	<component>
-        <id>3000206</id>
-        <type>TextField</type>
+        <id>4000706</id>
+        <type>ComboBox</type>
         <attribute>
             <rect>
                 <x>500</x>
-                <y>480</y>
-                <width>430</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-		
-		<action>
-			<playMediaAction>
-                <media>./media/audio/accoutto.wav</media>
-            </playMediaAction>
-        </action>
-    </component>
-	
-
-	<component>
-        <id>3000207</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>300</x>
-                <y>580</y>
-                <width>200</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>收款户名:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-
-	<component>
-        <id>3000208</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>500</x>
-                <y>580</y>
+                <y>330</y>
                 <width>300</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
 		
 		<action>
-			<playMediaAction>
-                <media>./media/audio/name.wav</media>
-            </playMediaAction>
-			
+            <showComboBoxAction>
+                <items>/, ACTION4/读水费IC卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>4000706</nextCursor>
+                <editable>true</editable>
+			</swipe2In1CardAction>
         </action>
 		
 		<action>
-			<virtualKeyboardAction>
-                <start>AVF_Display.exe</start>
-                <stop>AVF_Hide.exe</stop>
-            </virtualKeyboardAction>
+			<playMediaAction>
+                <media>./media/audio/jiaofeinum.wav</media>
+            </playMediaAction>
         </action>
-		
     </component>
 	
+
 	<component>
-        <id>3000211</id>
+        <id>4000707</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>380</x>
-                <y>680</y>
-                <width>100</width>
+                <x>310</x>
+                <y>430</y>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>密码:</text>
+            <text>缴费金额:</text>
         </attribute>
         <action>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
         </action>
-	
     </component>
 	
 	<component>
-        <id>3000212</id>
-        <type>PasswordField</type>
+        <id>4000708</id>
+        <type>TextField</type>
         <attribute>
             <rect>
                 <x>500</x>
-                <y>680</y>
+                <y>430</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
 		
 		
-	
 		<action>
-            <limitInputAction>
-                <length>6</length>
-            </limitInputAction>
-			
 			<playMediaAction>
-                <media>./media/audio/passwd.wav</media>
+                <media>./media/audio/jiaofeimoney.wav</media>
             </playMediaAction>
-
 			
         </action>
 		
     </component>
 	
-
+	<component>
+        <id>4000709</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>310</x>
+                <y>530</y>
+                <width>250</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>银行卡密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>4000710</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>530</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+        </action>
+		
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
 	
 	
     <component>
-        <id>3000213</id>
+        <id>4000711</id>
         <type>Button</type>
         <attribute>
             <rect>
                 <x>500</x>
-                <y>850</y>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -281,77 +235,32 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
-		
+			
         </action>
 		
 		<action>
             <sendMsgAction>
-                <prsCode>sameTranQuery</prsCode>
-                <conditions>3000204,3000206,3000208,3000210,3000212</conditions>
+                <prsCode>payIcWater</prsCode>
+                <conditions>4000704,4000706,4000708,4000710</conditions>
                 <nextStep>  
-                    <nextPanel>30008881</nextPanel> 
-                    <display>30008883</display>  
+                    <nextPanel>40008901</nextPanel> 
+                    <display>40008904</display>  
                 </nextStep>
                 <exception> 
-                    <nextPanel>99901</nextPanel>  
-                    <display>99904</display>  
+                    <nextPanel>99911</nextPanel>  
+                    <display>99914</display>  
                 </exception>
-				
-				
-				<checkRules>
-					<notNull>
-                        <content>3000204</content>
-                        <errMsg>付款卡号不能为空</errMsg>
-                    </notNull>
-					
-                    <notNull>
-                        <content>3000206</content>
-                        <errMsg>收款账号不能为空</errMsg>
-                    </notNull>
-					
-					<notNull>
-                        <content>3000208</content>
-                        <errMsg>收款户名不能为空</errMsg>
-                    </notNull>
-					
-					
-					<!--<validateCJK>
-                        <content>3000208</content>
-                        <errMsg>收款户名必须是中文,请检查是否有空格</errMsg>
-                    </validateCJK>-->
-					
-					<notNull>
-                        <content>3000210</content>
-                        <errMsg>转账金额不能为空</errMsg>
-                    </notNull>
-					
-					<notNull>
-                        <content>3000212</content>
-                        <errMsg>密码不能为空</errMsg>
-                    </notNull>
-					
-					
-                    <template>
-                        <content>3000204</content>
-                        <pattern>6217</pattern>
-                        <errMsg>当前使用非本行发行卡片，请使用本行卡</errMsg>
-                    </template>
-				</checkRules>	
-				
-				
-				
             </sendMsgAction>
         </action>
-		
     </component>
 	
     <component>
-        <id>3000214</id>
+        <id>4000712</id>
         <type>Button</type>
         <attribute>
             <rect>
                 <x>800</x>
-                <y>850</y>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -359,37 +268,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>300</nextPanel>
+                <nextPanel>400</nextPanel>
             </jumpPanelAction>
-			<setFontAction>
+			          <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
         </action>
-		
-		<action>
+        
+        <action>
             <cleanAction>
-                <conditions>3000204,3000206,3000208,3000210,3000212</conditions>
+                <conditions>4000704,4000706,4000708,4000710</conditions>
             </cleanAction>
-        </action>   
+        </action> 
     </component>
 	
-	<component>
-        <id>3000215</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>0</x>
-                <y>930</y>
-                <width>1024</width>
-                <heigh>150</heigh>
-            </rect>
-            <text>   同行转账</text>
-			<debug>false</debug>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>25</fontSize>
-            </setFontAction>
-        </action>
-    </component>
+	
 </panel>
