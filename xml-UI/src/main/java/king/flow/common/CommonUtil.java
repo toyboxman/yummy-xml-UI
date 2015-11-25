@@ -468,6 +468,10 @@ public class CommonUtil {
         nRet = driver.TcDoFeature(objHdl, pVer);
         if (nRet >= 0) {
             strVer = ByteToString(pVer, nRet);
+            nRet = driver.TcDeleteHDL(objHdl);
+            if (nRet < 0) {
+                getLogger(CommonUtil.class.getName()).log(Level.INFO, "fail to close finger print device, return code is {0}", nRet);
+            }
             return strVer;
         } else {
             getLogger(CommonUtil.class.getName()).log(Level.INFO, "fail to read finger print, return code is {0}", nRet);
@@ -495,6 +499,10 @@ public class CommonUtil {
         nRet = driver.TcDoTemplet(objHdl, pReg);
         if (nRet >= 0) {
             strReg = new String(pReg);
+            nRet = driver.TcDeleteHDL(objHdl);
+            if (nRet < 0) {
+                getLogger(CommonUtil.class.getName()).log(Level.INFO, "fail to close finger print device, return code is {0}", nRet);
+            }
             return strReg;
         } else {
             getLogger(CommonUtil.class.getName()).log(Level.INFO, "fail to registy finger print device, return code is {0}", nRet);
