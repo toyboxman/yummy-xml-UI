@@ -159,7 +159,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>200</width>
                 <heigh>40</heigh>
             </rect>
-            <text>终端编号：00001010</text>
+            <text>终端编号：${TERMINAL_ID}</text>
         </attribute>
         <action>
             <setFontAction>
