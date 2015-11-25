@@ -173,6 +173,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>220</width>
                 <heigh>40</heigh>
             </rect>
+            <text>testID : ${TERMINAL_ID}</text>
+        </attribute>
+    </component>
+    <component>
+        <id>109</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>40</x>
+                <y>100</y>
+                <width>220</width>
+                <heigh>40</heigh>
+            </rect>
         </attribute>
         <action>
             <showClockAction>
@@ -184,7 +197,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
     <component>
-        <id>109</id>
+        <id>110</id>
         <type>TextField</type>
         <attribute>
             <rect>

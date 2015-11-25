@@ -32,6 +32,8 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import javax.swing.ImageIcon;
 import javax.swing.JComponent;
 import javax.swing.JOptionPane;
@@ -51,6 +53,7 @@ import static king.flow.common.CommonConstants.NORMAL;
 import static king.flow.common.CommonConstants.SUCCESSFUL_MSG_CODE;
 import static king.flow.common.CommonConstants.XML_NODE_PREFIX;
 import static king.flow.common.CommonUtil.AppType.TERMINAL;
+import king.flow.control.MainWindow;
 import king.flow.control.driver.FingerPrintDrive;
 import king.flow.control.driver.ICCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
@@ -656,6 +659,29 @@ public class CommonUtil {
                 .append(" in ").append('\n').append(pageURI)
                 .append('\n').append(" conflicts with the other one with same ID");
         return errMsg;
+    }
+
+    public static String replaceSysVar(String text) {
+        if (text == null) {
+            return "";
+        }
+        
+        if (text.matches(CommonConstants.TEXT_MINGLED_SYSTEM_VAR_PATTERN)) {
+            Pattern pattern = Pattern.compile(CommonConstants.SYSTEM_VAR_PATTERN);
+            Matcher matcher = pattern.matcher(text);
+            matcher.find();
+            final String systemVar = matcher.group();
+            final String varName = systemVar.substring(systemVar.indexOf('{') + 1, systemVar.indexOf('}', systemVar.indexOf('}')));
+            switch (varName) {
+                case CommonConstants.TERMINAL_ID_SYS_VAR:
+                    /* Matcher.quoteReplacement is just for the case of replacing "\\", otherwise replace method will drop "\\" in replcaement parameter */
+                    text = text.replaceFirst(CommonConstants.SYSTEM_VAR_PATTERN, Matcher.quoteReplacement(TunnelBuilder.getTunnelBuilder().getTerminalID()));
+                    break;
+                default:
+                    getLogger(MainWindow.class.getName()).log(Level.WARNING, "Unknown system variable {0}", systemVar);
+            }
+        }
+        return text;
     }
 
     public static enum TerminalStatus {

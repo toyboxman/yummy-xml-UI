@@ -17,7 +17,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JComponent;
@@ -718,12 +717,12 @@ public class MainWindow {
             doPrintPassbookAction(actionNode, component);
 
             doPlayVideoAction(actionNode, component, parentContainer);
-            
+
             doShowClockAction(actionNode, component);
         }
     }
-    
-    private void doShowClockAction(king.flow.view.Action actionNode,  Component component) {
+
+    private void doShowClockAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowClockAction showClockAction = actionNode.getShowClockAction();
         if (showClockAction != null) {
             String format = showClockAction.getFormat();
@@ -1136,7 +1135,7 @@ public class MainWindow {
         if (attribute == null) {
             return null;
         }
-        String text = attribute.getText();
+        String text = attribute.getText() == null ? "" : attribute.getText();
         Bound rect = adjustByResolution(attribute.getRect());
         String icon = attribute.getIcon();
         JComponent jcomponent = null;
@@ -1156,7 +1155,7 @@ public class MainWindow {
             case LABEL:
                 JLabel jLabel = new JXLabel();
                 jcomponent = jLabel;
-                jLabel.setText(text);
+                jLabel.setText(CommonUtil.replaceSysVar(text));
                 if (icon != null && icon.length() > 0) {
                     jLabel.setIcon(getImageIcon(icon));
                     jLabel.setHorizontalTextPosition(JLabel.CENTER);

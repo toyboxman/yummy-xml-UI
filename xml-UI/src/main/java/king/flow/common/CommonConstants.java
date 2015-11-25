@@ -26,8 +26,8 @@ public class CommonConstants {
     public static final int DOWNLOAD_KEY_SIGNAL = 1;
     public static final int UPDATE_SIGNAL = 1;
     public static final String VERSION;
-    //    public static final String VERSION = Paths.get(".").toAbsolutePath().normalize().toString();
 
+    //    public static final String VERSION = Paths.get(".").toAbsolutePath().normalize().toString();
     static {
         String workingPath = System.getProperty("user.dir");
         final int lastIndexOf = workingPath.lastIndexOf('_');
@@ -38,6 +38,11 @@ public class CommonConstants {
         }
 
     }
+
+    /* system variable pattern */
+    public static final String SYSTEM_VAR_PATTERN = "\\$\\{(_?\\p{Alpha}+_\\p{Alpha}+)+\\}";
+    public static final String TEXT_MINGLED_SYSTEM_VAR_PATTERN = ".*" + SYSTEM_VAR_PATTERN + ".*";
+    public static final String TERMINAL_ID_SYS_VAR = "TERMINAL_ID";
 
     /* swing default config */
     public static final int DEFAULT_TABLE_ROW_COUNT = 15;
