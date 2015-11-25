@@ -88,7 +88,7 @@ public class Read2In1CardAction extends ReadCardAction {
         progressTip.setVerticalAlignment(SwingConstants.BOTTOM);
 //        progressTip.setBorder(new LineBorder(Color.RED, 2));
         final JDialog progressAnimation = buildAnimationDialog(this.animationFile);
-        progressTip.setBounds(0, 70, progressAnimation.getBounds().width, 80);
+        progressTip.setBounds(0, 120, progressAnimation.getBounds().width, 80);
         progressAnimation.getContentPane().add(progressTip, 1);
         final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
         if (bgImage != null) {
