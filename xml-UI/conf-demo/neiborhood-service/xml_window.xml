@@ -5,6 +5,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
      http://www.w3schools.com/schema/schema_elements_ref.asp
      http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
      -Dui.build.scheme=.\conf-demo\neiborhood-service\xml_window.xml
+     -Dui.build.scheme=.\conf-bank\xml_window.xml
+     linux/mac
+     -Dui.build.scheme=./conf-demo/neiborhood-service/xml_window.xml
+     -Dui.build.scheme=./conf-bank/xml_window.xml
 -->
 
 <window
