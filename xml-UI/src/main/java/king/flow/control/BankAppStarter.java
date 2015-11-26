@@ -250,19 +250,25 @@ public class BankAppStarter {
 //                UIManager.put("control", new Color(115, 164, 209));
 
         if (style.getColor() != null) {
-            List<String> rgb = buildListParameters(style.getColor());
-            if (rgb.size() == 3) {
-                UIManager.put("nimbusBlueGrey", new Color(Integer.parseInt(rgb.get(0)),
-                        Integer.parseInt(rgb.get(1)), Integer.parseInt(rgb.get(2))));
+            Color color = CommonUtil.getTrueColor(style.getColor());
+            if (color == null) {
+                StringBuilder errMsg = new StringBuilder("ui-style property is mistakenly configurated in xml_window.xml")
+                        .append('\n').append("root cause from erroneous color value[").append(style.getColor()).append(']')
+                        .append('\n').append("correct value should be like [255,255,0]");
+                CommonUtil.showBlockedErrorMsg(null, errMsg.toString(), true);
             }
+            UIManager.put("nimbusBlueGrey", color);
         }
 
         if (style.getTextcolor() != null) {
-            List<String> rgb = buildListParameters(style.getTextcolor());
-            if (rgb.size() == 3) {
-                UIManager.put("text", new Color(Integer.parseInt(rgb.get(0)),
-                        Integer.parseInt(rgb.get(1)), Integer.parseInt(rgb.get(2))));
+            Color color = CommonUtil.getTrueColor(style.getTextcolor());
+            if (color == null) {
+                StringBuilder errMsg = new StringBuilder("ui-style property is mistakenly configurated in xml_window.xml")
+                        .append('\n').append("root cause from erroneous textcolor value[").append(style.getTextcolor()).append(']')
+                        .append('\n').append("correct value should be like [255,255,0]");
+                CommonUtil.showBlockedErrorMsg(null, errMsg.toString(), true);
             }
+            UIManager.put("text", color);
         }
 
         UIManager.put("Table.showGrid", true);

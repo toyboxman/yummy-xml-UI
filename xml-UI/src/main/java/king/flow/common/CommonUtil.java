@@ -4,6 +4,7 @@ import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
 import com.github.jsonj.tools.JsonParser;
 import com.sun.org.apache.xerces.internal.dom.ElementNSImpl;
+import java.awt.Color;
 import java.awt.Container;
 import java.awt.Dimension;
 import java.awt.Font;
@@ -682,6 +683,20 @@ public class CommonUtil {
             }
         }
         return text;
+    }
+
+    public static Color getTrueColor(String colorRGBDefinition) {
+        List<String> rgb = buildListParameters(colorRGBDefinition);
+        if (rgb.size() == 3) {
+            try {
+                Color baseColor = new Color(Integer.parseInt(rgb.get(0)), Integer.parseInt(rgb.get(1)), Integer.parseInt(rgb.get(2)));
+                return baseColor;
+            } catch (NumberFormatException numberFormatException) {
+                return null;
+            }
+        } else {
+            return null;
+        }
     }
 
     public static enum TerminalStatus {
