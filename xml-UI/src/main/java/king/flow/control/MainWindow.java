@@ -282,9 +282,7 @@ public class MainWindow {
                 this.building_blocks.put(decorator_id, scrollPane);
                 this.meta_blocks.put(decorator_id, decorator);
                 panel.add(scrollPane);
-                if (attribute.isDebug() != null && attribute.isDebug()) {
-                    scrollPane.setBorder(new LineBorder(Color.RED, 2));
-                }
+                debugComponent(attribute, scrollPane);
                 break;
             case TAB_PANEL:
                 JTabbedPane tabbedPane = new JTabbedPane();
@@ -295,15 +293,32 @@ public class MainWindow {
                 this.building_blocks.put(decorator_id, tabbedPane);
                 this.meta_blocks.put(decorator_id, decorator);
                 panel.add(tabbedPane);
-                if (attribute.isDebug() != null && attribute.isDebug()) {
-                    tabbedPane.setBorder(new LineBorder(Color.RED, 2));
-                }
+                debugComponent(attribute, tabbedPane);
                 break;
             default:
                 final AssertionError configError = new AssertionError("Mistaken configuration type out of SCROLL_PANEL : "
                         + type.value());
                 getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, configError);
                 throw configError;
+        }
+    }
+
+    public void debugComponent(BasicAttribute attribute, JComponent component) throws NumberFormatException {
+        if (attribute.getDebug() != null) {
+            BasicAttribute.Debug debug = attribute.getDebug();
+            if (debug.isEnable()) {
+                String colorDef = debug.getColor();
+                if (colorDef != null) {
+                    List<String> rgb = buildListParameters(colorDef);
+                    if (rgb.size() == 3) {
+                        final Color color = new Color(Integer.parseInt(rgb.get(0)),
+                                Integer.parseInt(rgb.get(1)), Integer.parseInt(rgb.get(2)));
+                        component.setBorder(new LineBorder(color, 2));
+                    }
+                } else {
+                    component.setBorder(new LineBorder(Color.RED, 2));
+                }
+            }
         }
     }
 
@@ -1228,9 +1243,7 @@ public class MainWindow {
 
         if (jcomponent != null) {
             jcomponent.setBounds(rect.getX().intValue(), rect.getY().intValue(), rect.getWidth().intValue(), rect.getHeigh().intValue());
-            if (attribute.isDebug() != null && attribute.isDebug()) {
-                jcomponent.setBorder(new LineBorder(Color.RED, 2));
-            }
+            debugComponent(attribute, jcomponent);
             this.building_blocks.put(id, jcomponent);
             this.meta_blocks.put(id, component);
         }

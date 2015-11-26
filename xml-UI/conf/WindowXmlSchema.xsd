@@ -13,7 +13,14 @@
             <xs:element type="xs:string" name="text" minOccurs="0"/>
             <xs:element type="bound" name="rect" minOccurs="0"/>
             <xs:element type="xs:string" name="icon" minOccurs="0"/>
-            <xs:element type="xs:boolean" name="debug" default="false" minOccurs="0" />
+            <xs:element name="debug" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="color" type="xs:string"  maxOccurs="1" minOccurs="0"/>
+                    </xs:sequence>
+                    <xs:attribute name="enable" type="xs:boolean" default="true" use="optional"/>
+                </xs:complexType>
+            </xs:element>
         </xs:all>
     </xs:complexType>
     
@@ -208,7 +215,7 @@
             <xs:element name="swipeCardAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
-                        <xs:element name="nextCursor" type="xs:unsignedInt" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="nextCursor" type="xs:int" maxOccurs="1" minOccurs="0"/>
                         <xs:element name="editable" type="xs:boolean" maxOccurs="1" minOccurs="0"/>
                         <xs:element name="debug" maxOccurs="1" minOccurs="0">
                             <xs:complexType>
@@ -225,7 +232,7 @@
             <xs:element name="swipe2In1CardAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
-                        <xs:element name="nextCursor" type="xs:unsignedInt" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="nextCursor" type="xs:int" maxOccurs="1" minOccurs="0"/>
                         <xs:element name="editable" type="xs:boolean" maxOccurs="1" minOccurs="0"/>
                         <xs:element name="mediaTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
                         <xs:element name="animationTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
