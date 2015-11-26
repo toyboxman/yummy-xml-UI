@@ -161,7 +161,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/audio/accoutto.wav</media>
+                <media>./media/audio/zhuanrukahao.wav</media>
             </playMediaAction>
 			
         </action>

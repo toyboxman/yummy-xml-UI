@@ -31,65 +31,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </setFontAction>
         </action>
     </component>
-	
-	<component>
-        <id>4000703</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>310</x>
-                <y>230</y>
-                <width>200</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>银行卡号:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-
-	<component>
-        <id>4000704</id>
-        <type>ComboBox</type>
-        <attribute>
-            <rect>
-                <x>500</x>
-                <y>230</y>
-                <width>430</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-		
-		<action>
-            <showComboBoxAction>
-                <items>/, ACTION4/读银行卡</items>
-            </showComboBoxAction>
-            <swipe2In1CardAction>
-                <nextCursor>4000706</nextCursor>
-                <editable>true</editable>
-			</swipe2In1CardAction>
-        </action>
-		
-		<action>
-			<playMediaAction>
-                <media>./media/audio/accout.wav</media>
-            </playMediaAction>
-        </action>
-		
-    </component>
-	
-	
-	
-	<component>
+    
+    <component>
         <id>4000705</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>340</x>
-                <y>330</y>
+                <y>230</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -108,8 +57,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <attribute>
             <rect>
                 <x>500</x>
-                <y>330</y>
-                <width>300</width>
+                <y>230</y>
+                <width>430</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -126,19 +75,60 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/audio/jiaofeinum.wav</media>
+                <media>./media/audio/shuifeinum.wav</media>
             </playMediaAction>
         </action>
     </component>
-	
-
-	<component>
+    
+     <component>
+        <id>4000713</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>850</x>
+                <y>230</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>查询</text>
+        </attribute>
+        <action>
+			<setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+            
+        <action>
+            <sendMsgAction>
+                <prsCode>WaterAccQuery</prsCode>
+                <conditions>4000706</conditions>
+                <nextStep>  
+                    <nextPanel>602001</nextPanel> 
+                    <display>602003</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>99911</nextPanel>  
+                    <display>99914</display>  
+                </exception>
+                
+               <checkRules>
+               	   <notNull>
+	                   <content>4000706</content>
+                       <errMsg>缴费号不能为空</errMsg>
+	               </notNull>
+            	</checkRules>
+     
+            </sendMsgAction>
+        </action>
+    </component>
+    
+    <component>
         <id>4000707</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>310</x>
-                <y>430</y>
+                <y>330</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -157,20 +147,65 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <attribute>
             <rect>
                 <x>500</x>
-                <y>430</y>
+                <y>330</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-		
-		
+	
 		<action>
 			<playMediaAction>
                 <media>./media/audio/jiaofeimoney.wav</media>
             </playMediaAction>
-			
+        </action>
+    </component>
+    
+	<component>
+        <id>4000703</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>310</x>
+                <y>430</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>银行卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>4000704</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>430</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>4000706</nextCursor>
+                <editable>true</editable>
+			</swipe2In1CardAction>
         </action>
 		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/bankiccardnum.wav</media>
+            </playMediaAction>
+        </action>
     </component>
 	
 	<component>
@@ -178,7 +213,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>310</x>
+                <x>300</x>
                 <y>530</y>
                 <width>250</width>
                 <heigh>60</heigh>
@@ -210,14 +245,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </limitInputAction>
         </action>
 		
-		
 		<action>
 			<playMediaAction>
                 <media>./media/audio/passwd.wav</media>
             </playMediaAction>
         </action>
     </component>
-	
 	
     <component>
         <id>4000711</id>

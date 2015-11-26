@@ -78,7 +78,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-  <!--  <component>
+   <component>
         <id>5</id>
         <type>Button</type>
         <attribute>
@@ -97,14 +97,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <jumpPanelAction>
                 <nextPanel>1</nextPanel>
             </jumpPanelAction>
-        </action> -->
+        </action>
 		
-        <!--<action>
+       <action>
             <openBrowserAction>
-                <url>http://www.hcrcb.com/</url>
+                <url>http://www.ahlbrcb.com/</url>
             </openBrowserAction>
-        </action>-->
-   <!-- </component> -->
+        </action>
+    </component> 
 	
     <component>
         <id>6</id>
@@ -113,7 +113,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>社保查询</text>
             <rect>
                 <x>900</x>
-                <y>480</y>
+                <y>630</y>
                 <width>300</width>
                 <heigh>100</heigh>
             </rect>
@@ -159,11 +159,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>200</width>
                 <heigh>40</heigh>
             </rect>
-            <text>终端编号：${TERMINAL_ID}</text>
+            <text>编号：00001010</text>
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>15</fontSize>
+                <fontSize>25</fontSize>
             </setFontAction>
         </action>
     </component>
@@ -173,10 +173,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>VideoPlayer</type>
         <attribute>
             <rect>
-                <x>10</x>
-                <y>200</y>
-                <width>850</width>
-                <heigh>622</heigh>
+                <x>322</x>
+                <y>650</y>
+                <width>512</width>
+                <heigh>288</heigh>
             </rect>
         </attribute>
         <action>
@@ -191,26 +191,24 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>220</x>
-                <y>20</y>
+                <x>900</x>
+                <y>900</y>
                 <width>300</width>
                 <heigh>40</heigh>
             </rect>
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>15</fontSize>
+                <fontSize>30</fontSize>
             </setFontAction>
             <showClockAction>
                 <!-- you can learn how to define date-time format -->
                 <!-- https://docs.oracle.com/javase/8/docs/api/java/util/Formatter.html#Formatter-java.util.Locale- 
                 default is <format>%1$tc</format> -->
                 <!--format delete %1$tT-->
-                <format></format>
+                <format>%1$tT</format>
             </showClockAction>
         </action>
     </component>
-    
-
     
 </panel>

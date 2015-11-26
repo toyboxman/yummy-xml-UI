@@ -65,6 +65,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>60</heigh>
             </rect>
         </attribute>
+       <action>
+            <playMediaAction>
+                <media>./media/audio/shenfengzhenghaoma.wav</media>
+            </playMediaAction>
+        </action>
     </component>
 	
 	

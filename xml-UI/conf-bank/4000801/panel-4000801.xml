@@ -75,7 +75,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         
          <action>
 			<playMediaAction>
-                <media>./media/audio/accout.wav</media>
+                <media>./media/audio/bankiccardnum.wav</media>
             </playMediaAction>
         </action>
         
@@ -107,7 +107,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <rect>
                 <x>500</x>
                 <y>330</y>
-                <width>300</width>
+                <width>430</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -124,7 +124,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
 			<playMediaAction>
-                <media>./media/audio/jiaofeinum.wav</media>
+                <media>./media/audio/dianfeinum.wav</media>
             </playMediaAction>
 			
         </action>
@@ -175,7 +175,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>310</x>
+                <x>300</x>
                 <y>530</y>
                 <width>250</width>
                 <heigh>60</heigh>

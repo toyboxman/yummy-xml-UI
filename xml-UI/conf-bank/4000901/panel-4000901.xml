@@ -4,6 +4,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 引用 http://www.freeformatter.com/xsd-generator.html
      http://www.w3schools.com/schema/schema_elements_ref.asp
      http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+     查询IC卡类型信息 调用5100
 -->
 
 <panel
@@ -23,7 +24,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>IC卡代缴燃气费</text>
+            <text>IC卡代缴燃气费第1步</text>
         </attribute>
         <action>
             <setFontAction>
@@ -31,65 +32,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </setFontAction>
         </action>
     </component>
-	
-	<component>
-        <id>4000903</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>310</x>
-                <y>230</y>
-                <width>200</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>银行卡号:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
 
-	<component>
-        <id>4000904</id>
-        <type>ComboBox</type>
-        <attribute>
-            <rect>
-                <x>500</x>
-                <y>230</y>
-                <width>430</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-		
-		
-		<action>
-            <showComboBoxAction>
-                <items>/, ACTION4/读银行卡</items>
-            </showComboBoxAction>
-            <swipe2In1CardAction>
-                <nextCursor>4000906</nextCursor>
-                <editable>true</editable>
-			</swipe2In1CardAction>
-        </action>
-        
-        <action>
-			<playMediaAction>
-                <media>./media/audio/accout.wav</media>
-            </playMediaAction>
-        </action>
-        
-    </component>
-	
-	
-	
 	<component>
         <id>4000905</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>310</x>
+                <x>280</x>
                 <y>330</y>
                 <width>200</width>
                 <heigh>60</heigh>
@@ -110,7 +59,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <rect>
                 <x>500</x>
                 <y>330</y>
-                <width>300</width>
+                <width>430</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -120,105 +69,21 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <items>/, ACTION4/读燃气IC卡</items>
             </showComboBoxAction>
             <swipe2In1CardAction>
-                <nextCursor>4000906</nextCursor>
+                <nextCursor>4000911</nextCursor>
                 <editable>true</editable>
+				<debug>
+		<cardId>622248596587123</cardId>
+	</debug>
 			</swipe2In1CardAction>
         </action>
         
         <action>
 			<playMediaAction>
-                <media>./media/audio/accout.wav</media>
+                <media>./media/audio/ranqifeinum.wav</media>
             </playMediaAction>
         </action>
 		
     </component>
-	
-
-	<component>
-        <id>4000907</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>310</x>
-                <y>430</y>
-                <width>200</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>缴费金额:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-	
-	<component>
-        <id>4000908</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>500</x>
-                <y>430</y>
-                <width>150</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-		
-		<action>
-			<playMediaAction>
-                <media>./media/audio/jiaofeimoney.wav</media>
-            </playMediaAction>
-			
-        </action>
-    </component>
-	
-	
-	<component>
-        <id>4000909</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>310</x>
-                <y>530</y>
-                <width>250</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>银行卡密码:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-	
-	<component>
-        <id>4000910</id>
-        <type>PasswordField</type>
-        <attribute>
-            <rect>
-                <x>500</x>
-                <y>530</y>
-                <width>150</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-		
-		<action>
-            <limitInputAction>
-                <length>6</length>
-            </limitInputAction>
-        </action>
-        
-        <action>
-			<playMediaAction>
-                <media>./media/audio/passwd.wav</media>
-            </playMediaAction>
-        </action>
-        
-    </component>
-	
 	
     <component>
         <id>4000911</id>
@@ -230,7 +95,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
-            <text>提交</text>
+            <text>下一步</text>
         </attribute>
         <action>
             <setFontAction>
@@ -240,8 +105,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
             <sendMsgAction>
-                <prsCode>payIcGas</prsCode>
-                <conditions>4000904,4000906,4000908,4000910</conditions>
+                <prsCode>payIcGas_1</prsCode>
+                <conditions>4000906</conditions>
                 <nextStep>  
                     <nextPanel>40008921</nextPanel> 
                     <display>40008924</display>  
@@ -272,15 +137,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </jumpPanelAction>
 		
              <cleanAction>
-                <conditions>4000904,4000906,4000908,4000910</conditions>
+                <conditions>4000906</conditions>
             </cleanAction>
             
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
-            
         </action>
     </component>
-	
-	
+
 </panel>

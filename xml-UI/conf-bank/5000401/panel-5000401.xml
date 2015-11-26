@@ -157,7 +157,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 	
 		<action>
 			<playMediaAction>
-                <media>./media/audio/accoutto.wav</media>
+                <media>./media/audio/zhuanrukahao.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -237,6 +237,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>60</heigh>
             </rect>
         </attribute>
+        
+       <action>
+            <rwFingerPrintAction>
+                <nextCursor>5000413</nextCursor> <!-- next component cursor focuses on after swipe card operation -->
+                <writePrint>true</writePrint> <!-- whether this is finger print registry operation -->
+            </rwFingerPrintAction>
+       </action>
 		
 		<action>
 			<playMediaAction>

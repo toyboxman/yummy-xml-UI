@@ -23,7 +23,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>企业账户明细查询</text>
+            <text>企业账户余额查询</text>
         </attribute>
         <action>
             <setFontAction>
@@ -85,12 +85,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			<playMediaAction>
                 <media>./media/audio/accout.wav</media>
             </playMediaAction>
-
         </action>
 		
-		
-		
-			
     </component>
 	
 	<component>
@@ -163,8 +159,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>288812</display>  
                 </nextStep>
                 <exception> 
-                    <nextPanel>999</nextPanel>  
-                    <display>9993</display>  
+                    <nextPanel>340888</nextPanel>  
+                    <display>340890</display>  
                 </exception>
 				
 				<checkRules>
@@ -208,8 +204,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>   
     </component>
 	
-	
-	
 	<component>
         <id>3309</id>
         <type>Label</type>
@@ -220,7 +214,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>1024</width>
                 <heigh>150</heigh>
             </rect>
-            <text>   企业账户明细查询</text>
+            <text>   企业账户余额查询</text>
 			<debug>false</debug>
         </attribute>
         <action>

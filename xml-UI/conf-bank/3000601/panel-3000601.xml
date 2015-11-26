@@ -117,6 +117,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			<playMediaAction>
                 <media>./media/audio/phoneto.wav</media>
             </playMediaAction>
+            
+            <limitInputAction>
+                <length>11</length>
+            </limitInputAction>
 
         </action>
 		

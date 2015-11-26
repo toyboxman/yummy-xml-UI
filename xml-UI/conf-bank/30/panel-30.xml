@@ -32,7 +32,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-    <component>
+    <!--<component>
         <id>32</id>
         <type>Button</type>
         <attribute>
@@ -50,15 +50,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>3201</nextPanel>
             </jumpPanelAction>
         </action>
-    </component>
+    </component>-->
 	
 	<component>
         <id>33</id>
         <type>Button</type>
         <attribute>
-            <text>明细查询</text>
+            <text>余额查询</text>
             <rect>
-                <x>800</x>
+                <x>200</x>
                 <y>240</y>
                 <width>300</width>
                 <heigh>80</heigh>
@@ -76,10 +76,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <id>34</id>
         <type>Button</type>
         <attribute>
-            <text>交易历史</text>
+            <text>交易历史查询</text>
             <rect>
-                <x>200</x>
-                <y>390</y>
+                <x>800</x>
+                <y>240</y>
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>

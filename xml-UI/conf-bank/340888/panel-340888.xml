@@ -9,13 +9,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
-    <id>30008901</id>
+    <id>340888</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/2.jpg</background>
-	
-	<component>
-        <id>30008902</id>
+	<background>/image/1.jpg</background>
+	 <component>
+        <id>340892</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -24,7 +23,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>确认跨行转账信息</text>
+            <text>企业账户管理交易失败</text>
         </attribute>
         <action>
             <setFontAction>
@@ -34,85 +33,68 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	
-	<component>
-        <id>30008903</id>
+    <component>
+        <id>340889</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>350</x>
-                <y>200</y>
-                <width>900</width>
-                <heigh>300</heigh>
+                <y>230</y>
+                <width>200</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>错误信息:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>40</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>340890</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>330</y>
+                <width>800</width>
+                <heigh>150</heigh>
             </rect>
             <text></text>
-			<debug>false</debug>
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>35</fontSize>
+                <fontSize>40</fontSize>
             </setFontAction>
         </action>
     </component>
 	
-    <component>
-        <id>30008904</id>
-        <type>Button</type>
-        <attribute>
-            <rect>
-                <x>400</x>
-                <y>700</y>
-                <width>250</width>
-                <heigh>80</heigh>
-            </rect>
-            <text>确定转账</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>30</fontSize>
-            </setFontAction>
-        </action>
-		
-		<action>
-            <sendMsgAction>
-                <prsCode>diffTrando</prsCode>
-                <conditions>3000304,3000306,3000308,3000310,3000312</conditions>
-                <nextStep>  
-                    <nextPanel>30008911</nextPanel> 
-                    <display>30008913</display>  
-                </nextStep>
-                <exception> 
-                    <nextPanel>999</nextPanel>  
-                    <display>9993</display>  
-                </exception>
-            </sendMsgAction>
-        </action>
-		
-    </component>
 	
     <component>
-        <id>30008905</id>
+        <id>340891</id>
         <type>Button</type>
         <attribute>
+            <text>返回</text>
             <rect>
-                <x>700</x>
-                <y>700</y>
+                <x>550</x>
+                <y>600</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
-            <text>取消转账</text>
+            <debug>false</debug>
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>300</nextPanel>
+                <nextPanel>200</nextPanel>
             </jumpPanelAction>
         </action>
-		
 		<action>
             <cleanAction>
-                <conditions>3000304,3000306,3000308,3000310,3000312</conditions>
+                <conditions>3306,3304,3404,3406,3409</conditions>
             </cleanAction>
         </action>   
     </component>
-	
-	
 </panel>

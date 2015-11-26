@@ -154,8 +154,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>3409</display>  
                 </nextStep>
                 <exception> 
-                    <nextPanel>999</nextPanel>  
-                    <display>9993</display>  
+                    <nextPanel>340888</nextPanel>  
+                    <display>340890</display>  
                 </exception>
 				
 				<checkRules>
@@ -228,8 +228,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>3409</display>  
                 </nextStep>
                 <exception> 
-                    <nextPanel>999</nextPanel>  
-                    <display>9993</display>  
+                    <nextPanel>340888</nextPanel>  
+                    <display>340890</display>  
                 </exception>
 				
 				<checkRules>

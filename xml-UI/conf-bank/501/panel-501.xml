@@ -67,6 +67,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <upCursor>5014</upCursor>
                 <downCursor>5016</downCursor>
             </moveCursorAction>
+            <playMediaAction>
+                <media>./media/audio/shenfengzhenghaoma.wav</media>
+            </playMediaAction>
         </action>
     </component>
 	

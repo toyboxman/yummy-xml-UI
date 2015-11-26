@@ -115,15 +115,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <page>./conf-bank/4000301/panel-4000301.xml</page>
         <page>./conf-bank/4000401/panel-4000401.xml</page>
         <page>./conf-bank/4000501/panel-4000501.xml</page>
-        <page>./conf-bank/4000701/panel-4000701.xml</page>
-        <page>./conf-bank/4000801/panel-4000801.xml</page>
-        <page>./conf-bank/4000901/panel-4000901.xml</page>
         <page>./conf-bank/4000888/panel-4000889.xml</page>
         <page>./conf-bank/4000888/panel-4000890.xml</page>
         <page>./conf-bank/4000888/panel-4000891.xml</page>
         <page>./conf-bank/4000888/panel-4000892.xml</page>
-        <page>./conf-bank/4000306001/panel-4000306001.xml</page>
-        
 		
         <page>./conf-bank/500/panel-500.xml</page>
         <page>./conf-bank/5000201/panel-5000201.xml</page>
@@ -136,7 +131,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <page>./conf-bank/5000888/panel-5000101.xml</page>
 		
         <page>./conf-bank/5000888/panel-5000888.xml</page>
-        <page>./conf-bank/501999/panel-501999.xml</page>
 
         <page>./conf-bank/999/panel-999.xml</page>
         <page>./conf-bank/999/panel-9990.xml</page>
