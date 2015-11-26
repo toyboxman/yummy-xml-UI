@@ -90,7 +90,8 @@ public class Read2In1CardAction extends ReadCardAction {
         final JDialog progressAnimation = buildAnimationDialog(this.animationFile);
         progressTip.setBounds(0, 120, progressAnimation.getBounds().width, 80);
         progressAnimation.getContentPane().add(progressTip, 1);
-        final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
+        final ImageIcon bgImage = CommonUtil.getImageIcon("/image/2.jpg");
+        //final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
         if (bgImage != null) {
             progressAnimation.getContentPane().add(new JLabel(bgImage), 2);//this is pad label, otherwise progressTip will become fullscreen bound
         } else {
