@@ -85,6 +85,7 @@
     <xs:complexType name="jump_action">
         <xs:all>
             <xs:element name="nextPanel" type="xs:unsignedShort"/>
+            <xs:element name="nextCursor" type="xs:unsignedShort" maxOccurs="1" minOccurs="0"/>
         </xs:all>
     </xs:complexType>
     
