@@ -34,7 +34,7 @@ public class DefaultTableAction extends DefaultAction<JTable> {
     public void initializeData() {
         owner.setModel(this.model);
         CommonTableCellRenderer defaultCellRenderer = new CommonTableCellRenderer();
-        defaultCellRenderer.setHorizontalAlignment(SwingConstants.CENTER);
+        defaultCellRenderer.setHorizontalAlignment(SwingConstants.LEFT);
         owner.getTableHeader().setDefaultRenderer(defaultCellRenderer);
         owner.setDefaultRenderer(Object.class, defaultCellRenderer);
         for (int c = 0; c < owner.getColumnCount(); c++) {
