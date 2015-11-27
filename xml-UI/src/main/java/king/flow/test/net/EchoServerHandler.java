@@ -304,7 +304,11 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
             String componentId = actCompId.asPrimitive().toString();
             final String tagValue = readTagValue(componentId, request);
             if (tagValue != null) {
-                this.invalidAccount.add(tagValue);
+                if (this.invalidAccount.contains(tagValue)) {
+                    this.invalidAccount.remove(tagValue);
+                } else {
+                    this.invalidAccount.add(tagValue);
+                }
             } else {
                 logger.log(Level.WARNING, "Cannot read account number by component id '{0}'", componentId);
             }
