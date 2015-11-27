@@ -3,6 +3,7 @@ package king.flow.action;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
+import javax.swing.JComponent;
 
 /**
  *
@@ -10,28 +11,33 @@ import javax.swing.JButton;
  */
 public class DefaultButtonAction extends DefaultAction<JButton> {
 
-    private int next_panel_id = 0;
+    private final int next_panel_id;
+    private final Integer next_cursor;
 
     public DefaultButtonAction(int nextPanel) {
         this.next_panel_id = nextPanel;
+        this.next_cursor = null;
+    }
+
+    public DefaultButtonAction(int nextPanel, int nextCusor) {
+        this.next_panel_id = nextPanel;
+        this.next_cursor = nextCusor;
     }
 
     @Override
     public void setupListener() {
-        this.owner.addActionListener(new DefaultButtonActionListenerImpl(this.next_panel_id));
+        this.owner.addActionListener(new DefaultButtonActionListenerImpl());
     }
-    
+
     private class DefaultButtonActionListenerImpl implements ActionListener {
-
-        private int next_id = 0;
-
-        public DefaultButtonActionListenerImpl(int panel_id) {
-            this.next_id = panel_id;
-        }
 
         @Override
         public void actionPerformed(ActionEvent e) {
-            panelJump(this.next_id);
+            panelJump(next_panel_id);
+            if (next_cursor != null && getBlockMeta(next_cursor) != null) {
+                JComponent block = getBlock(next_cursor, JComponent.class);
+                block.requestFocusInWindow();
+            }
         }
     }
 

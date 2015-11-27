@@ -677,8 +677,15 @@ public class MainWindow {
 
     private void validateJumpAction(JumpAction jumpPanelAction, Component component, Panel panel, String pageURI) throws HeadlessException {
         if (jumpPanelAction != null) {
-            validateNextPanelParameter(jumpPanelAction.getNextPanel(), jumpPanelAction.getClass().getSimpleName(),
+            final String actionName = jumpPanelAction.getClass().getSimpleName();
+            validateNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
                     "nextPanel", component, panel, pageURI);
+            Integer nextCursor = jumpPanelAction.getNextCursor();
+            if (nextCursor != null) {
+                if (!this.meta_blocks.containsKey(nextCursor)) {
+                    promptNonexistentBlockErr(nextCursor, actionName, "nextCursor", component, panel, pageURI, null);
+                }
+            }
         }
     }
 
@@ -1056,7 +1063,8 @@ public class MainWindow {
         JumpAction jumpPanelAction = actionNode.getJumpPanelAction();
         if (jumpPanelAction != null) {
             int nextPanel = jumpPanelAction.getNextPanel();
-            Action buttonAction = new DefaultButtonAction(nextPanel);
+            Integer nextCursor = jumpPanelAction.getNextCursor();
+            Action buttonAction = nextCursor == null ? new DefaultButtonAction(nextPanel) : new DefaultButtonAction(nextPanel, nextCursor);
             doAction(buttonAction, component.getId());
         }
     }

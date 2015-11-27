@@ -46,6 +46,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <action>
             <jumpPanelAction>
                 <nextPanel>300</nextPanel>
+                <nextCursor>336</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
