@@ -27,23 +27,29 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
     private final int limit;
     private final InputType type;
     private final boolean moneyDeal;
+    private final boolean editable;
 
     public DefaultTextFieldAction(int limit) {
         this(limit, false);
     }
 
     public DefaultTextFieldAction(int limit, InputType type) {
-        this(limit, type, false);
+        this(limit, type, false, true);
     }
 
     public DefaultTextFieldAction(int limit, boolean cashUse) {
-        this(limit, InputType.ALL, cashUse);
+        this(limit, InputType.ALL, cashUse, true);
+    }
+    
+    public DefaultTextFieldAction(int limit, boolean cashUse, boolean editable) {
+        this(limit, InputType.ALL, cashUse, editable);
     }
 
-    public DefaultTextFieldAction(int limit, InputType type, boolean cashUse) {
+    public DefaultTextFieldAction(int limit, InputType type, boolean cashUse, boolean editable) {
         this.limit = limit;
         this.type = type;
         this.moneyDeal = cashUse;
+        this.editable = editable;
     }
 
     public void setOwner(JTextField owner) {
@@ -82,6 +88,7 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
         } else {
             owner.setDocument(new LengthInputLimit());
         }
+        owner.setEditable(editable);
     }
 
     private class LengthInputLimit extends PlainDocument {

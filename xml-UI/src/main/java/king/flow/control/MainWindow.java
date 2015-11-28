@@ -1001,9 +1001,17 @@ public class MainWindow {
             DefaultTextFieldAction defaultTextFieldAction = null;
             Boolean enableCashLimit = limitInputAction.isEnableCashLimit();
             if (enableCashLimit != null && enableCashLimit) {
-                defaultTextFieldAction = new DefaultTextFieldAction(length, enableCashLimit);
+                if (limitInputAction.isEditable()) {
+                    defaultTextFieldAction = new DefaultTextFieldAction(length, enableCashLimit);
+                } else {
+                    defaultTextFieldAction = new DefaultTextFieldAction(length, enableCashLimit, false);
+                }
             } else {
-                defaultTextFieldAction = new DefaultTextFieldAction(length);
+                if (limitInputAction.isEditable()) {
+                    defaultTextFieldAction = new DefaultTextFieldAction(length, false, true);
+                } else {
+                    defaultTextFieldAction = new DefaultTextFieldAction(length, false, false);
+                }
             }
             doAction(defaultTextFieldAction, component.getId());
         }

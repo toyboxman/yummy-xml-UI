@@ -209,9 +209,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>40</heigh>
             </rect>
         </attribute>
+        <action>
+            <limitInputAction editable="false">
+                <length>100</length>
+            </limitInputAction>
+        </action>
     </component>
     <component>
-        <id>110</id>
+        <id>111</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -224,14 +229,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <sendMsgAction>
-                <prsCode>queryGas</prsCode>
+                <prsCode>queryqyAcount</prsCode>
                 <conditions>108</conditions>
                 <exception>
                     <display>109</display>
                     <nextPanel>100</nextPanel>
                 </exception>
                 <nextStep>
-                    <display>109</display>
+                    <display>110</display>
                     <nextPanel>100</nextPanel>
                 </nextStep>
             </sendMsgAction>
