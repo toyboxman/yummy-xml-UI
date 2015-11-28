@@ -149,31 +149,11 @@ public class MainWindow {
                     CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(pNode.getType().toString(), pNode.getId(), pageURI).toString(), true);
                 }
 
-                List<Decorator> decorator = pNode.getDecorator();
-                if (decorator != null) {
-                    for (Decorator dc : decorator) {
-                        if (this.meta_blocks.containsKey(dc.getId())) {
-                            CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(dc.getType().toString(), dc.getId(), pageURI).toString(), true);
-                        } else if (this.meta_blocks.containsKey(dc.getComponent().getId())) {
-                            CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(dc.getComponent().getType().toString(), dc.getComponent().getId(), pageURI).toString(), true);
-                        }
-                    }
-                }
-
-                List<Component> components = pNode.getComponent();
-                if (components != null) {
-                    for (Component cp : components) {
-                        if (this.meta_blocks.containsKey(cp.getId())) {
-                            CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(cp.getType().toString(), cp.getId(), pageURI).toString(), true);
-                        }
-                    }
-                }
-
                 this.panelNodes.put(pNode, pageURI);
                 String background = pNode.getBackground();
                 JPanel panel = constructPanel(pNode);
-                initComponents(pNode, panel);
-                initDecorators(pNode, panel);
+                initComponents(pNode, panel, pageURI);
+                initDecorators(pNode, panel, pageURI);
 
                 if (background != null && background.length() > 0) {
                     try {
@@ -255,14 +235,18 @@ public class MainWindow {
         return panel;
     }
 
-    private void initDecorators(Panel pNode, JPanel panel) throws AssertionError {
+    private void initDecorators(Panel pNode, JPanel panel, String pageURI) throws AssertionError {
         List<Decorator> decorators = pNode.getDecorator();
         for (Decorator decorator : decorators) {
-            constructDecorator(decorator, panel);
+            if (this.meta_blocks.containsKey(decorator.getId())) {
+                CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(decorator.getType().toString(),
+                        decorator.getId(), pageURI).toString(), true);
+            }
+            constructDecorator(decorator, panel, pageURI);
         }
     }
 
-    private void constructDecorator(Decorator decorator, JPanel panel) throws AssertionError {
+    private void constructDecorator(Decorator decorator, JPanel panel, String pageURI) throws AssertionError {
         final int decorator_id = decorator.getId();
         DecoratorEnum type = decorator.getType();
         BasicAttribute attribute = decorator.getAttribute();
@@ -273,14 +257,18 @@ public class MainWindow {
                 JScrollPane scrollPane = new JScrollPane();
                 scrollPane.setBounds(rect.getX().intValue(), rect.getY().intValue(),
                         rect.getWidth().intValue(), rect.getHeigh().intValue());
+                this.building_blocks.put(decorator_id, scrollPane);
+                this.meta_blocks.put(decorator_id, decorator);
+                if (this.meta_blocks.containsKey(component.getId())) {
+                    CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(component.getType().toString(),
+                            component.getId(), pageURI).toString(), true);
+                }
                 JComponent constructor = constructComponent(component);
                 scrollPane.setViewportView(constructor);
                 scrollPane.setOpaque(false);
                 scrollPane.getViewport().setOpaque(false);
                 scrollPane.setBorder(null);
                 scrollPane.setViewportBorder(null);
-                this.building_blocks.put(decorator_id, scrollPane);
-                this.meta_blocks.put(decorator_id, decorator);
                 panel.add(scrollPane);
                 debugComponent(attribute, scrollPane, decorator_id, decorator.getType().toString());
                 break;
@@ -288,10 +276,14 @@ public class MainWindow {
                 JTabbedPane tabbedPane = new JTabbedPane();
                 tabbedPane.setBounds(rect.getX().intValue(), rect.getY().intValue(),
                         rect.getWidth().intValue(), rect.getHeigh().intValue());
-                JComponent component1 = constructComponent(component);
-                tabbedPane.add(component.getAttribute().getText(), component1);
                 this.building_blocks.put(decorator_id, tabbedPane);
                 this.meta_blocks.put(decorator_id, decorator);
+                if (this.meta_blocks.containsKey(component.getId())) {
+                    CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(component.getType().toString(),
+                            component.getId(), pageURI).toString(), true);
+                }
+                JComponent component1 = constructComponent(component);
+                tabbedPane.add(component.getAttribute().getText(), component1);
                 panel.add(tabbedPane);
                 debugComponent(attribute, tabbedPane, decorator_id, decorator.getType().toString());
                 break;
@@ -463,7 +455,7 @@ public class MainWindow {
                 final String exceptionPropertyName = sendMsgAction.getException().getClass().getSimpleName();
                 checkNextPanelParameter(sendMsgAction.getException().getNextPanel(), actionName, exceptionPropertyName,
                         component, panel, pageURI);
-                
+
                 ArrayList<String> displayParameters = buildListParameters(sendMsgAction.getException().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
@@ -653,7 +645,7 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptMistakenNumberBlockErr(String number, int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
@@ -1006,12 +998,10 @@ public class MainWindow {
                 } else {
                     defaultTextFieldAction = new DefaultTextFieldAction(length, enableCashLimit, false);
                 }
+            } else if (limitInputAction.isEditable()) {
+                defaultTextFieldAction = new DefaultTextFieldAction(length, false, true);
             } else {
-                if (limitInputAction.isEditable()) {
-                    defaultTextFieldAction = new DefaultTextFieldAction(length, false, true);
-                } else {
-                    defaultTextFieldAction = new DefaultTextFieldAction(length, false, false);
-                }
+                defaultTextFieldAction = new DefaultTextFieldAction(length, false, false);
             }
             doAction(defaultTextFieldAction, component.getId());
         }
@@ -1194,9 +1184,13 @@ public class MainWindow {
         action.initializeData();
     }
 
-    private void initComponents(Panel pNode, JPanel panel) throws AssertionError {
+    private void initComponents(Panel pNode, JPanel panel, String pageURI) throws AssertionError {
         List<Component> components = pNode.getComponent();
         for (Component component : components) {
+            if (this.meta_blocks.containsKey(component.getId())) {
+                CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(component.getType().toString(),
+                        component.getId(), pageURI).toString(), true);
+            }
             JComponent jcomponent = constructComponent(component);
             if (jcomponent != null) {
                 panel.add(jcomponent);

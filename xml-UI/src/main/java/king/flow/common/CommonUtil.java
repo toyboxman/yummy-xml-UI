@@ -657,8 +657,8 @@ public class CommonUtil {
     public static StringBuilder buildErrMsg(String type, int id, String pageURI) {
         StringBuilder errMsg = new StringBuilder().append(type)
                 .append('[').append(id).append(']')
-                .append(" in ").append('\n').append(pageURI)
-                .append('\n').append(" conflicts with the other one with same ID");
+                .append(" in ").append(pageURI)
+                .append('\n').append("conflicts with the other one using same ID");
         return errMsg;
     }
 
