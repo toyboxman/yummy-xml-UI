@@ -399,18 +399,18 @@ public class MainWindow {
             if (!this.meta_blocks.containsKey(upCursor)) {
                 promptNonexistentBlockErr(upCursor, actionName, "upCursor", component, panel, pageURI, null);
             } else {
-                validateReachableBlock(upCursor, actionName, "upCursor", component, panel, pageURI);
+                checkReachableBlock(upCursor, actionName, "upCursor", component, panel, pageURI);
             }
 
             if (!this.meta_blocks.containsKey(downCursor)) {
                 promptNonexistentBlockErr(downCursor, moveCursorAction.getClass().getSimpleName(), "downCursor", component, panel, pageURI, null);
             } else {
-                validateReachableBlock(upCursor, actionName, "downCursor", component, panel, pageURI);
+                checkReachableBlock(upCursor, actionName, "downCursor", component, panel, pageURI);
             }
         }
     }
 
-    public void validateReachableBlock(int blockId, String actionName, String propertyName,
+    public void checkReachableBlock(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         List<Component> pageComponents = panel.getComponent();
         boolean existInPanel = false;
@@ -436,41 +436,73 @@ public class MainWindow {
             final String actionName = sendMsgAction.getClass().getSimpleName();
 
             //validate parameter config concerning data collection from components 
-            validateConditionsParameter(sendMsgAction.getConditions(), actionName, null,
+            checkConditionsParameter(sendMsgAction.getConditions(), actionName, "conditions",
                     component, panel, pageURI);
 
             //validate successful path parameter config
             if (sendMsgAction.getNextStep() != null) {
                 final String nextStepPropertyName = sendMsgAction.getNextStep().getClass().getSimpleName();
-                validateNextPanelParameter(sendMsgAction.getNextStep().getNextPanel(), actionName, nextStepPropertyName,
+                checkNextPanelParameter(sendMsgAction.getNextStep().getNextPanel(), actionName, nextStepPropertyName,
                         component, panel, pageURI);
-                validateDisplayParameter(sendMsgAction.getNextStep().getDisplay(), actionName, nextStepPropertyName, component, panel, pageURI);
+
+                ArrayList<String> displayParameters = buildListParameters(sendMsgAction.getNextStep().getDisplay());
+                for (String displayId : displayParameters) {
+                    try {
+                        int id = Integer.parseInt(displayId);
+                        checkDisplayParameter(id, actionName, nextStepPropertyName, component, panel, pageURI);
+                        checkComponentType(id, actionName, nextStepPropertyName, component, panel, pageURI);
+                    } catch (Exception e) {
+                        promptMistakenNumberBlockErr(displayId, component.getId(), actionName, nextStepPropertyName,
+                                component, panel, pageURI, null);
+                    }
+                }
             }
 
             //validate exceptional path parameter config
             if (sendMsgAction.getException() != null) {
                 final String exceptionPropertyName = sendMsgAction.getException().getClass().getSimpleName();
-                validateNextPanelParameter(sendMsgAction.getException().getNextPanel(), actionName, exceptionPropertyName,
+                checkNextPanelParameter(sendMsgAction.getException().getNextPanel(), actionName, exceptionPropertyName,
                         component, panel, pageURI);
-                validateDisplayParameter(sendMsgAction.getException().getDisplay(), actionName, exceptionPropertyName, component, panel, pageURI);
+                
+                ArrayList<String> displayParameters = buildListParameters(sendMsgAction.getException().getDisplay());
+                for (String displayId : displayParameters) {
+                    try {
+                        int id = Integer.parseInt(displayId);
+                        checkDisplayParameter(id, actionName, exceptionPropertyName, component, panel, pageURI);
+                        checkComponentType(id, actionName, exceptionPropertyName, component, panel, pageURI);
+                    } catch (Exception e) {
+                        promptMistakenNumberBlockErr(displayId, component.getId(), actionName, exceptionPropertyName,
+                                component, panel, pageURI, null);
+                    }
+                }
             }
 
             //validate rules path parameter config
             if (sendMsgAction.getCheckRules() != null) {
                 final String checkRulesPropertyName = sendMsgAction.getCheckRules().getClass().getSimpleName();
-                validateRulesParameter(sendMsgAction.getCheckRules(), actionName, checkRulesPropertyName, component, panel, pageURI);
+                checkRulesParameter(sendMsgAction.getCheckRules(), actionName, checkRulesPropertyName, component, panel, pageURI);
             }
         }
     }
 
-    public void validateRulesParameter(Rules rules, String actionName, String propertyName, Component component,
+    private void checkComponentType(int id, final String actionName, final String propertyName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        Object meta = meta_blocks.get(id);
+        if (!(meta instanceof Component)) {
+            String configErrMsgFooter = "\ncorrect type must be Component type not " + meta.getClass().getSimpleName();
+            promptMistakenTypeBlockErr(id, actionName, propertyName,
+                    component, panel, pageURI, configErrMsgFooter);
+        }
+    }
+
+    public void checkRulesParameter(Rules rules, String actionName, String propertyName, Component component,
             Panel panel, String pageURI) {
         if (rules != null) {
             String configErrMsgFooter = " of " + propertyName + " property";
             List<Rules.Equal> equalRules = rules.getEqual();
             if (equalRules != null && !equalRules.isEmpty()) {
                 for (Rules.Equal equal : equalRules) {
-                    validateConditionsParameter(equal.getConditions(), actionName, propertyName, component, panel, pageURI);
+                    checkConditionsParameter(equal.getConditions(), actionName, propertyName, component, panel, pageURI);
                 }
             }
 
@@ -534,7 +566,7 @@ public class MainWindow {
                 for (Rules.ValidateCJK validateCJK : validateCJKRules) {
                     int content = validateCJK.getContent();
                     if (this.meta_blocks.containsKey(content)) {
-                        validateReachableBlock(content, actionName, validateCJK.getClass().getSimpleName(), component, panel, pageURI);
+                        checkReachableBlock(content, actionName, validateCJK.getClass().getSimpleName(), component, panel, pageURI);
                     } else {
                         promptNonexistentBlockErr(content, actionName, validateCJK.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
                     }
@@ -543,14 +575,14 @@ public class MainWindow {
         }
     }
 
-    private void validateConditionsParameter(String conditions, String actionName, String propertyName, Component component,
+    private void checkConditionsParameter(String conditions, String actionName, String propertyName, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         String configErrMsg;
         String configErrMsgFooter;
         if (propertyName == null) {
-            configErrMsgFooter = " of conditions property";
+            configErrMsgFooter = " for property[conditions]";
         } else {
-            configErrMsgFooter = " of " + propertyName + " property";
+            configErrMsgFooter = " for property[" + propertyName + "]";
         }
 
         if (conditions == null || conditions.trim().length() == 0) {
@@ -573,14 +605,15 @@ public class MainWindow {
             if (!this.meta_blocks.containsKey(id)) {
                 promptNonexistentBlockErr(id, actionName, "conditions", component, panel, pageURI, configErrMsgFooter);
             }
+            checkComponentType(id, actionName, propertyName, component, panel, pageURI);
         }
     }
 
-    private void validateDisplayParameter(int displayBlockId, String actionName, String propertyName,
+    private void checkDisplayParameter(int displayBlockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         Object showTarget = this.meta_blocks.get(displayBlockId);
         if (showTarget == null) {
-            String configErrMsgFooter = " of " + propertyName + " property";
+            String configErrMsgFooter = " for property[" + propertyName + "]";
             promptNonexistentBlockErr(displayBlockId, actionName, "display", component, panel, pageURI, configErrMsgFooter);
         }
     }
@@ -598,7 +631,7 @@ public class MainWindow {
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
-                .append("with invalid type ").append(propertyName).append('[').append(blockId).append(']')
+                .append("with invalid type").append('[').append(blockId).append(']').append(" for property[").append(propertyName).append(']')
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
@@ -620,8 +653,17 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
+    
+    private void promptMistakenNumberBlockErr(String number, int blockId, String actionName, String propertyName,
+            Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
+        String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                .append(actionName).append('\n')
+                .append("with erroneous number").append('[').append(number).append(']').append(" for property[").append(propertyName).append(']')
+                .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+    }
 
-    private void validateNextPanelParameter(int nextPanel, String actionName, String properyName,
+    private void checkNextPanelParameter(int nextPanel, String actionName, String properyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         String configErrMsg;
         String configErrMsgFooter;
@@ -661,7 +703,7 @@ public class MainWindow {
     private void validateCleanAction(king.flow.view.Action.CleanAction cleanAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (cleanAction != null) {
-            validateConditionsParameter(cleanAction.getConditions(), cleanAction.getClass().getSimpleName(), null,
+            checkConditionsParameter(cleanAction.getConditions(), cleanAction.getClass().getSimpleName(), "conditions",
                     component, panel, pageURI);
         }
     }
@@ -678,7 +720,7 @@ public class MainWindow {
     private void validateJumpAction(JumpAction jumpPanelAction, Component component, Panel panel, String pageURI) throws HeadlessException {
         if (jumpPanelAction != null) {
             final String actionName = jumpPanelAction.getClass().getSimpleName();
-            validateNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
+            checkNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
                     "nextPanel", component, panel, pageURI);
             Integer nextCursor = jumpPanelAction.getNextCursor();
             if (nextCursor != null) {

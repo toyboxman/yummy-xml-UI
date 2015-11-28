@@ -6,6 +6,7 @@
 package king.flow.action;
 
 import com.github.jsonj.JsonArray;
+import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
 import com.github.jsonj.exceptions.JsonParseException;
 import com.github.jsonj.tools.JsonParser;
@@ -65,6 +66,8 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
     protected final MsgSendAction.NextStep next;
     protected final MsgSendAction.Exception error;
     protected Map<Integer, String> notNullMsg = null;
+    protected final List<Integer> doneDisplayList = new ArrayList<>();
+    protected final List<Integer> errDisplayList = new ArrayList<>();
 
     public DefaultMsgSendAction(String prsCode, int cmdCode, List<String> conditionList, MsgSendAction.NextStep next,
             MsgSendAction.Exception expPage, Rules checkRules) {
@@ -74,6 +77,19 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         this.next = next;
         this.error = expPage;
         this.rules = checkRules;
+        parseDisplayList();
+    }
+
+    protected void parseDisplayList() throws NumberFormatException {
+        ArrayList<String> displayList = CommonUtil.buildListParameters(this.next.getDisplay());
+        for (String id : displayList) {
+            doneDisplayList.add(Integer.parseInt(id));
+        }
+
+        displayList = CommonUtil.buildListParameters(this.error.getDisplay());
+        for (String id : displayList) {
+            errDisplayList.add(Integer.parseInt(id));
+        }
     }
 
     @Override
@@ -170,7 +186,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
             case TABLE:
                 JsonParser jsonParser = new JsonParser();
                 JsonArray arrays = jsonParser.parse(result.getOkMsg()).asArray();
-                JTable table = getBlock(next.getDisplay(), JTable.class);
+                JTable table = getBlock(meta.getId(), JTable.class);
                 DefaultTableModel model = (DefaultTableModel) table.getModel();
                 model.setRowCount(0);
                 for (Iterator it = arrays.iterator(); it.hasNext();) {
@@ -188,22 +204,21 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 Integer total = jsonObj.getInt(ADVANCED_TABLE_TOTAL_PAGES);
                 Integer page = jsonObj.getInt(ADVANCED_TABLE_CURRENT_PAGE);
                 arrays = jsonObj.getArray(ADVANCED_TABLE_VALUE);
-                JXMsgPanel advanceTable = getBlock(next.getDisplay(), JXMsgPanel.class);
+                JXMsgPanel advanceTable = getBlock(meta.getId(), JXMsgPanel.class);
                 advanceTable.refreshTotalPages(total);
                 advanceTable.refreshCurrentPage(page);
                 advanceTable.refreshTable(arrays);
                 break;
             case LABEL:
+                JLabel label = getBlock(meta.getId(), JLabel.class);
                 if (result.getRetCode() == 0) {
-                    JLabel label = getBlock(next.getDisplay(), JLabel.class);
                     label.setText(result.getOkMsg());
                 } else {
-                    JLabel label = getBlock(error.getDisplay(), JLabel.class);
                     label.setText(result.getErrMsg());
                 }
                 break;
             case TEXT_FIELD:
-                JTextField textField = getBlock(next.getDisplay(), JTextField.class);
+                JTextField textField = getBlock(meta.getId(), JTextField.class);
                 if (result.getRetCode() == 0) {
                     textField.setText(result.getOkMsg());
                 } else {
@@ -223,7 +238,25 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 TLSResult result = new TLSResult();
                 result.setRetCode(retCode);
                 result.setErrMsg(msg);
-                showOnComponent(getBlockMeta(error.getDisplay()), result);
+                
+                if (errDisplayList.size() == 1) {
+                    showOnComponent(getBlockMeta(errDisplayList.get(0)), result);
+                } else {
+                    JsonParser jsonParser = new JsonParser();
+                    JsonElement element = jsonParser.parse(result.getErrMsg());
+                    if (element.isArray()) {
+                        JsonArray jsonArray = element.asArray();
+                        int len = Integer.min(errDisplayList.size(), jsonArray.size());
+                        for (int i = 0; i < len; i++) {
+                            TLSResult freshResult = new TLSResult(result.getRetCode(),
+                                    result.getOkMsg(), jsonArray.get(i).toString(), result.getPrtMsg());
+                            showOnComponent(getBlockMeta(errDisplayList.get(i)), freshResult);
+                        }
+                    } else {
+                        showOnComponent(getBlockMeta(errDisplayList.get(0)), result);
+                    }
+                }
+                
                 panelJump(error.getNextPanel());
             }
         });
@@ -233,7 +266,24 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                showOnComponent(getBlockMeta(next.getDisplay()), result);
+                if (doneDisplayList.size() == 1) {
+                    showOnComponent(getBlockMeta(doneDisplayList.get(0)), result);
+                } else {
+                    JsonParser jsonParser = new JsonParser();
+                    JsonElement element = jsonParser.parse(result.getOkMsg());
+                    if (element.isArray()) {
+                        JsonArray jsonArray = element.asArray();
+                        int len = Integer.min(doneDisplayList.size(), jsonArray.size());
+                        for (int i = 0; i < len; i++) {
+                            TLSResult freshResult = new TLSResult(result.getRetCode(),
+                                    jsonArray.get(i).toString(), result.getErrMsg(), result.getPrtMsg());
+                            showOnComponent(getBlockMeta(doneDisplayList.get(i)), freshResult);
+                        }
+                    } else {
+                        showOnComponent(getBlockMeta(doneDisplayList.get(0)), result);
+                    }
+                }
+
                 CommonUtil.cachePrintMsg(result.getPrtMsg());
                 panelJump(next.getNextPanel());
             }
@@ -395,19 +445,20 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     return;
                 }
 
-                if (next == null || next.getDisplay() < 0) {
+                if (next == null) {
                     Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                             "No next display page is setup : {0}", next == null ? next : next.getDisplay());
                     showResult(result);
                 } else {
                     //show msg to dedicated component
-                    Object metaNode = getBlockMeta(next.getDisplay());
-                    if (metaNode instanceof Component) {
-                        showDoneMsg(result);
-                    } else {
-                        Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
-                                "Invalidated display component type : {0}", metaNode.getClass().getName());
-                    }
+                    showDoneMsg(result);
+//                    Object metaNode = getBlockMeta(next.getDisplay());
+//                    if (metaNode instanceof Component) {
+//                        showDoneMsg(result);
+//                    } else {
+//                        Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
+//                                "Invalidated display component type : {0}", metaNode.getClass().getName());
+//                    }
                 }
             } catch (InterruptedException | ExecutionException | JsonParseException ex) {
                 getLogger(CommunicationWorker.class.getName()).log(Level.WARNING, null, ex);

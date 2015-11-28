@@ -315,7 +315,7 @@
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="nextPanel" type="xs:int"/>
-                        <xs:element name="display" type="xs:int" default="-1"/>
+                        <xs:element name="display" type="xs:string"/>
                     </xs:all>
                 </xs:complexType>
             </xs:element>
@@ -323,7 +323,7 @@
                 <xs:complexType>
                     <xs:all>
                         <xs:element name="nextPanel" type="xs:int"/>
-                        <xs:element name="display" type="xs:int" default="-1"/>
+                        <xs:element name="display" type="xs:string"/>
                     </xs:all>
                 </xs:complexType>
             </xs:element>

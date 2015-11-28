@@ -27,6 +27,16 @@ public class TLSResult {
     private String errMsg;
     private String prtMsg;
 
+    public TLSResult(int retCode, String okMsg, String errMsg, String prtMsg) {
+        this.retCode = retCode;
+        this.okMsg = okMsg;
+        this.errMsg = errMsg;
+        this.prtMsg = prtMsg;
+    }
+
+    public TLSResult() {
+    }
+
     public String getPrtMsg() {
         return prtMsg;
     }
