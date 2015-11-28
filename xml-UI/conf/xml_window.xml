@@ -23,7 +23,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <background>/image/5.jpg</background>
         <progress>/image/loader_orange_256.gif</progress>
         <color>115,164,209</color>
-        <textcolor>64,0,64</textcolor>
+        <textcolor>158,0,93</textcolor>
     </ui-style>
     <driver>
         <device>
