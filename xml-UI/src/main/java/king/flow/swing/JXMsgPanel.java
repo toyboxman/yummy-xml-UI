@@ -85,8 +85,8 @@ public class JXMsgPanel extends JPanel {
         controlPanel.setOpaque(false);
         this.add(controlPanel, BorderLayout.NORTH);
         controlPanel.add(summary);
-        controlPanel.add(next);
         controlPanel.add(previous);
+        controlPanel.add(next);
         controlPanel.add(jump);
         controlPanel.add(display);
         initialControlPanelAction();
