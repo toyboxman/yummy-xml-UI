@@ -49,11 +49,11 @@ public class MoveCursorAction extends DefaultBaseAction {
                 if (e.getKeyCode() == KeyEvent.VK_DOWN) {
                     CommonUtil.getLogger(MoveCursorAction.class.getName()).log(Level.INFO, "jump to next component");
                     JComponent nextComponent = (JComponent) components.get(next);
-                    nextComponent.requestFocus();
+                    nextComponent.requestFocusInWindow();
                 } else if (e.getKeyCode() == KeyEvent.VK_UP) {
                     CommonUtil.getLogger(MoveCursorAction.class.getName()).log(Level.INFO, "jump to previous component");
                     JComponent preComponent = (JComponent) components.get(previous);
-                    preComponent.requestFocus();
+                    preComponent.requestFocusInWindow();
                 }
             }
         });

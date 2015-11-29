@@ -75,6 +75,7 @@ import static king.flow.common.CommonUtil.createFont;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.setFont;
 import static king.flow.common.CommonUtil.getImageIcon;
+import static king.flow.common.CommonUtil.isActionSupport;
 import static king.flow.common.CommonUtil.setCurrentView;
 import static king.flow.common.CommonUtil.setWindowNode;
 import static king.flow.common.CommonUtil.shapeErrPrompt;
@@ -373,10 +374,12 @@ public class MainWindow {
     private void validateShowComboBoxAction(king.flow.view.Action.ShowComboBoxAction showComboBoxAction,
             Component component, Panel panel, String pageURI) {
         if (showComboBoxAction != null) {
+            final String actionName = showComboBoxAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
             String items = showComboBoxAction.getItems();
             if (items == null || !items.matches(CommonConstants.COMBOBOX_ITEMS_PROPERTY_PATTERN)) {
                 String configErrMsgFooter = "\nCorrect format is [key/value, ... ,key/value]";
-                promptMistakenFormatBlockErr(component.getId(), "showComboBoxAction", "items", component, panel, pageURI, configErrMsgFooter);
+                promptMistakenFormatBlockErr(component.getId(), actionName, "items", component, panel, pageURI, configErrMsgFooter);
             }
         }
     }
@@ -384,9 +387,10 @@ public class MainWindow {
     private void validateMoveCursorAction(king.flow.view.Action.MoveCursorAction moveCursorAction,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (moveCursorAction != null) {
+            String actionName = moveCursorAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
             int upCursor = moveCursorAction.getUpCursor();
             int downCursor = moveCursorAction.getDownCursor();
-            String actionName = moveCursorAction.getClass().getSimpleName();
 
             if (!this.meta_blocks.containsKey(upCursor)) {
                 promptNonexistentBlockErr(upCursor, actionName, "upCursor", component, panel, pageURI, null);
@@ -444,7 +448,7 @@ public class MainWindow {
                         checkDisplayParameter(id, actionName, nextStepPropertyName, component, panel, pageURI);
                         checkComponentType(id, actionName, nextStepPropertyName, component, panel, pageURI);
                     } catch (Exception e) {
-                        promptMistakenNumberBlockErr(displayId, component.getId(), actionName, nextStepPropertyName,
+                        promptMistakenNumberBlockErr(displayId, actionName, nextStepPropertyName,
                                 component, panel, pageURI, null);
                     }
                 }
@@ -463,7 +467,7 @@ public class MainWindow {
                         checkDisplayParameter(id, actionName, exceptionPropertyName, component, panel, pageURI);
                         checkComponentType(id, actionName, exceptionPropertyName, component, panel, pageURI);
                     } catch (Exception e) {
-                        promptMistakenNumberBlockErr(displayId, component.getId(), actionName, exceptionPropertyName,
+                        promptMistakenNumberBlockErr(displayId, actionName, exceptionPropertyName,
                                 component, panel, pageURI, null);
                     }
                 }
@@ -646,11 +650,20 @@ public class MainWindow {
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
 
-    private void promptMistakenNumberBlockErr(String number, int blockId, String actionName, String propertyName,
+    private void promptMistakenNumberBlockErr(String number, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
                 .append("with erroneous number").append('[').append(number).append(']').append(" for property[").append(propertyName).append(']')
+                .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+    }
+
+    private void promptUnsupportedActionBlockErr(String actionName, Component component,
+            Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
+        String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                .append(actionName).append('\n')
+                .append(component.getType().toString()).append(" never support ").append(actionName)
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
@@ -695,7 +708,9 @@ public class MainWindow {
     private void validateCleanAction(king.flow.view.Action.CleanAction cleanAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (cleanAction != null) {
-            checkConditionsParameter(cleanAction.getConditions(), cleanAction.getClass().getSimpleName(), "conditions",
+            final String actionName = cleanAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
+            checkConditionsParameter(cleanAction.getConditions(), actionName, "conditions",
                     component, panel, pageURI);
         }
     }
@@ -712,6 +727,7 @@ public class MainWindow {
     private void validateJumpAction(JumpAction jumpPanelAction, Component component, Panel panel, String pageURI) throws HeadlessException {
         if (jumpPanelAction != null) {
             final String actionName = jumpPanelAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
             String propertyName = "nextPanel";
             checkNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
                     propertyName, component, panel, pageURI);
@@ -723,6 +739,12 @@ public class MainWindow {
                 }
                 checkComponentType(nextCursor, actionName, propertyName, component, panel, pageURI);
             }
+        }
+    }
+
+    private void checkSupportedAction(Component component, final String actionName, Panel panel, String pageURI) throws HeadlessException {
+        if (!isActionSupport(component, actionName)) {
+            promptUnsupportedActionBlockErr(actionName, component, panel, pageURI, null);
         }
     }
 

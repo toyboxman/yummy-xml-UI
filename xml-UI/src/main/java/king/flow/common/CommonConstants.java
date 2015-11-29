@@ -5,8 +5,19 @@
  */
 package king.flow.common;
 
+import com.google.common.collect.ImmutableList;
+import com.google.common.collect.ImmutableMap;
 import java.io.File;
 import java.nio.charset.Charset;
+import java.util.List;
+import java.util.Map;
+import king.flow.action.business.ShowClockAction;
+import king.flow.view.Action.CleanAction;
+import king.flow.view.Action.LimitInputAction;
+import king.flow.view.Action.MoveCursorAction;
+import king.flow.view.Action.ShowComboBoxAction;
+import king.flow.view.ComponentEnum;
+import king.flow.view.JumpAction;
 
 /**
  *
@@ -81,4 +92,20 @@ public class CommonConstants {
     public static final int INVALID_CARD_STATE = -1;
     public static final int MAGNET_CARD_STATE = 2;
     public static final int IC_CARD_STATE = 3;
+
+    /* action-component relationship map */
+    static final Map<ComponentEnum, List<String>> ACTION_COMPONENT_MAP = ImmutableMap.of(
+            ComponentEnum.BUTTON, ImmutableList.of(
+                    JumpAction.class.getSimpleName(),
+                    CleanAction.class.getSimpleName(),
+                    MoveCursorAction.class.getSimpleName()),
+            ComponentEnum.TEXT_FIELD, ImmutableList.of(
+                    LimitInputAction.class.getSimpleName(),
+                    MoveCursorAction.class.getSimpleName()),
+            ComponentEnum.COMBO_BOX, ImmutableList.of(
+                    ShowComboBoxAction.class.getSimpleName(),
+                    MoveCursorAction.class.getSimpleName()),
+            ComponentEnum.LABEL, ImmutableList.of(
+                    ShowClockAction.class.getSimpleName())
+    );
 }

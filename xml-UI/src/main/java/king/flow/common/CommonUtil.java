@@ -70,6 +70,7 @@ import king.flow.net.Tunnel;
 import king.flow.net.TunnelBuilder;
 import static king.flow.net.TunnelBuilder.getTunnelBuilder;
 import king.flow.view.Bound;
+import king.flow.view.Component;
 import king.flow.view.DeviceEnum;
 import static king.flow.view.DeviceEnum.IC_CARD;
 import static king.flow.view.DeviceEnum.KEYBOARD;
@@ -666,7 +667,7 @@ public class CommonUtil {
         if (text == null) {
             return "";
         }
-        
+
         if (text.matches(CommonConstants.TEXT_MINGLED_SYSTEM_VAR_PATTERN)) {
             Pattern pattern = Pattern.compile(CommonConstants.SYSTEM_VAR_PATTERN);
             Matcher matcher = pattern.matcher(text);
@@ -978,5 +979,10 @@ public class CommonUtil {
 
     public static String shapeErrPrompt(final java.lang.Throwable err) {
         return err.getClass().getName() + ": " + err.getMessage();
+    }
+
+    public static boolean isActionSupport(Component component, String actionName) {
+        return CommonConstants.ACTION_COMPONENT_MAP.get(component.getType()) == null
+                ? false : CommonConstants.ACTION_COMPONENT_MAP.get(component.getType()).contains(actionName);
     }
 }
