@@ -96,7 +96,7 @@ public class DefaultMediaAction extends DefaultBaseAction {
             if (audioPlayer != null) {
                 audioPlayer.play();
             } else {
-                getLogger(PlayMediaTask.class.getName()).log(Level.WARNING, "Fail to play media file ");
+                getLogger(PlayMediaTask.class.getName()).log(Level.WARNING, "Fail to play media file {0}", mediaFile);
             }
 
             return 0;
