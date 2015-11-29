@@ -214,6 +214,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <limitInputAction editable="false">
                 <length>100</length>
             </limitInputAction>
+            <playMediaAction>
+                <media>.\media\ingredient\account.wav</media>
+            </playMediaAction>
         </action>
     </component>
     <component>

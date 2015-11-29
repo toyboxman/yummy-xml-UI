@@ -40,7 +40,7 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
     public DefaultTextFieldAction(int limit, boolean cashUse) {
         this(limit, InputType.ALL, cashUse, true);
     }
-    
+
     public DefaultTextFieldAction(int limit, boolean cashUse, boolean editable) {
         this(limit, InputType.ALL, cashUse, editable);
     }
@@ -88,7 +88,8 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
         } else {
             owner.setDocument(new LengthInputLimit());
         }
-        owner.setEditable(editable);
+        //as textfield set uneditable, it cannot get cursor focusing. so I decide to use document to limit input
+        //owner.setEditable(editable);
     }
 
     private class LengthInputLimit extends PlainDocument {
@@ -99,9 +100,21 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
                 return;
             }
 
+            if (!editable && str.length() < 2) {
+                return;
+            }
+
             if ((getLength() + str.length()) <= limit) {
                 super.insertString(offset, str, attr);
             }
+        }
+
+        @Override
+        public void remove(int offs, int len) throws BadLocationException {
+            if (!editable && len < 2) {
+                return;
+            }
+            super.remove(offs, len);
         }
     }
 
@@ -110,6 +123,10 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
         @Override
         public void insertString(int offset, String str, AttributeSet attr) throws BadLocationException {
             if (str == null) {
+                return;
+            }
+
+            if (!editable && str.length() < 2) {
                 return;
             }
 
@@ -123,12 +140,24 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
                 super.insertString(offset, str, attr);
             }
         }
+
+        @Override
+        public void remove(int offs, int len) throws BadLocationException {
+            if (!editable && len < 2) {
+                return;
+            }
+            super.remove(offs, len);
+        }
     }
 
     private class MoneyInputLimit extends PlainDocument {
 
         @Override
         public void insertString(int offset, String str, AttributeSet attr) throws BadLocationException {
+            if (!editable && str.length() < 2) {
+                return;
+            }
+
             if (str != null && str.length() + getLength() <= limit) {
                 int value = 0;
                 try {
@@ -164,6 +193,14 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
                     super.insertString(0, txt, attr);
                 }
             }
+        }
+
+        @Override
+        public void remove(int offs, int len) throws BadLocationException {
+            if (!editable && len < 2) {
+                return;
+            }
+            super.remove(offs, len);
         }
     }
 }

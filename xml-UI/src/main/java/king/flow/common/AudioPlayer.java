@@ -28,7 +28,7 @@ public class AudioPlayer {
         try {
             player = new AudioPlayer(media);
         } catch (IOException | NoPlayerException | CannotRealizeException e) {
-            getLogger(AudioPlayer.class.getName()).log(Level.WARNING, "fail to create an AudioPlayer due to {}", e.getClass().getSimpleName());
+            getLogger(AudioPlayer.class.getName()).log(Level.WARNING, "fail to create an AudioPlayer due to {0}", e.getClass().getSimpleName());
         }
         return player;
     }
