@@ -660,9 +660,9 @@ public class MainWindow {
         String configErrMsg;
         String configErrMsgFooter;
         if (properyName == null) {
-            configErrMsgFooter = " of nextPanel property";
+            configErrMsgFooter = " for property[nextPanel]";
         } else {
-            configErrMsgFooter = " of " + properyName + " property";
+            configErrMsgFooter = " for property[" + properyName + "]";
         }
 
         Object np = this.meta_blocks.get(nextPanel);
@@ -712,13 +712,16 @@ public class MainWindow {
     private void validateJumpAction(JumpAction jumpPanelAction, Component component, Panel panel, String pageURI) throws HeadlessException {
         if (jumpPanelAction != null) {
             final String actionName = jumpPanelAction.getClass().getSimpleName();
+            String propertyName = "nextPanel";
             checkNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
-                    "nextPanel", component, panel, pageURI);
+                    propertyName, component, panel, pageURI);
             Integer nextCursor = jumpPanelAction.getNextCursor();
             if (nextCursor != null) {
+                propertyName = "nextCursor";
                 if (!this.meta_blocks.containsKey(nextCursor)) {
-                    promptNonexistentBlockErr(nextCursor, actionName, "nextCursor", component, panel, pageURI, null);
+                    promptNonexistentBlockErr(nextCursor, actionName, propertyName, component, panel, pageURI, null);
                 }
+                checkComponentType(nextCursor, actionName, propertyName, component, panel, pageURI);
             }
         }
     }
