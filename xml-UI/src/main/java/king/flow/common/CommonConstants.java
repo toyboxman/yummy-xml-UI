@@ -12,12 +12,14 @@ import java.nio.charset.Charset;
 import java.util.List;
 import java.util.Map;
 import king.flow.action.business.ShowClockAction;
+import king.flow.view.Action;
 import king.flow.view.Action.CleanAction;
 import king.flow.view.Action.LimitInputAction;
 import king.flow.view.Action.MoveCursorAction;
 import king.flow.view.Action.ShowComboBoxAction;
 import king.flow.view.ComponentEnum;
 import king.flow.view.JumpAction;
+import king.flow.view.MsgSendAction;
 
 /**
  *
@@ -98,8 +100,12 @@ public class CommonConstants {
             ComponentEnum.BUTTON, ImmutableList.of(
                     JumpAction.class.getSimpleName(),
                     CleanAction.class.getSimpleName(),
+                    MsgSendAction.class.getSimpleName(),
                     MoveCursorAction.class.getSimpleName()),
             ComponentEnum.TEXT_FIELD, ImmutableList.of(
+                    LimitInputAction.class.getSimpleName(),
+                    MoveCursorAction.class.getSimpleName()),
+            ComponentEnum.PASSWORD_FIELD, ImmutableList.of(
                     LimitInputAction.class.getSimpleName(),
                     MoveCursorAction.class.getSimpleName()),
             ComponentEnum.COMBO_BOX, ImmutableList.of(
