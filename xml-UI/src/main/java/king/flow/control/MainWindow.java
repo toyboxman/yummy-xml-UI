@@ -430,7 +430,7 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (sendMsgAction != null) {
             final String actionName = sendMsgAction.getClass().getSimpleName();
-//            checkSupportedAction(component, actionName, panel, pageURI);
+            checkSupportedAction(component, actionName, panel, pageURI);
             //validate parameter config concerning data collection from components 
             checkConditionsParameter(sendMsgAction.getConditions(), actionName, "conditions",
                     component, panel, pageURI);

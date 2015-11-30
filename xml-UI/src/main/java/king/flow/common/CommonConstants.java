@@ -12,11 +12,11 @@ import java.nio.charset.Charset;
 import java.util.List;
 import java.util.Map;
 import king.flow.action.business.ShowClockAction;
-import king.flow.view.Action;
 import king.flow.view.Action.CleanAction;
 import king.flow.view.Action.LimitInputAction;
 import king.flow.view.Action.MoveCursorAction;
 import king.flow.view.Action.ShowComboBoxAction;
+import king.flow.view.Action.ShowTableAction;
 import king.flow.view.ComponentEnum;
 import king.flow.view.JumpAction;
 import king.flow.view.MsgSendAction;
@@ -96,22 +96,32 @@ public class CommonConstants {
     public static final int IC_CARD_STATE = 3;
 
     /* action-component relationship map */
-    static final Map<ComponentEnum, List<String>> ACTION_COMPONENT_MAP = ImmutableMap.of(
-            ComponentEnum.BUTTON, ImmutableList.of(
-                    JumpAction.class.getSimpleName(),
-                    CleanAction.class.getSimpleName(),
-                    MsgSendAction.class.getSimpleName(),
-                    MoveCursorAction.class.getSimpleName()),
-            ComponentEnum.TEXT_FIELD, ImmutableList.of(
-                    LimitInputAction.class.getSimpleName(),
-                    MoveCursorAction.class.getSimpleName()),
-            ComponentEnum.PASSWORD_FIELD, ImmutableList.of(
-                    LimitInputAction.class.getSimpleName(),
-                    MoveCursorAction.class.getSimpleName()),
-            ComponentEnum.COMBO_BOX, ImmutableList.of(
-                    ShowComboBoxAction.class.getSimpleName(),
-                    MoveCursorAction.class.getSimpleName()),
-            ComponentEnum.LABEL, ImmutableList.of(
-                    ShowClockAction.class.getSimpleName())
-    );
+    static final Map<ComponentEnum, List<String>> ACTION_COMPONENT_MAP = new ImmutableMap.Builder<ComponentEnum, List<String>>()
+            .put(ComponentEnum.BUTTON, new ImmutableList.Builder<String>()
+                    .add(JumpAction.class.getSimpleName())
+                    .add(CleanAction.class.getSimpleName())
+                    .add(MsgSendAction.class.getSimpleName())
+                    .add(MoveCursorAction.class.getSimpleName())
+                    .build())
+            .put(ComponentEnum.TEXT_FIELD, new ImmutableList.Builder<String>()
+                    .add(LimitInputAction.class.getSimpleName())
+                    .add(MoveCursorAction.class.getSimpleName())
+                    .build())
+            .put(ComponentEnum.PASSWORD_FIELD, new ImmutableList.Builder<String>()
+                    .add(LimitInputAction.class.getSimpleName())
+                    .add(MoveCursorAction.class.getSimpleName())
+                    .build())
+            .put(ComponentEnum.COMBO_BOX, new ImmutableList.Builder<String>()
+                    .add(ShowComboBoxAction.class.getSimpleName())
+                    .add(MoveCursorAction.class.getSimpleName())
+                    .build())
+            .put(ComponentEnum.ADVANCED_TABLE, new ImmutableList.Builder<String>()
+                    .add(MsgSendAction.class.getSimpleName())
+                    .add(ShowTableAction.class.getSimpleName())
+                    .build())
+            .put(ComponentEnum.LABEL, new ImmutableList.Builder<String>()
+                    .add(ShowClockAction.class.getSimpleName())
+                    .build())
+            .build();
+
 }
