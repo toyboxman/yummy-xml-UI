@@ -78,8 +78,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>2000206</nextCursor>
                 <editable>true</editable>
-				<animationTip>/image/card.jpg</animationTip> 
-</swipe2In1CardAction>
+			</swipe2In1CardAction>
         </action>
 		
 		<action>
@@ -218,7 +217,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>150</heigh>
             </rect>
             <text>   账户余额查询</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>

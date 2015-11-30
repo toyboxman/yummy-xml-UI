@@ -24,7 +24,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>100</heigh>
             </rect>
             <text>确认同行转账信息</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>
@@ -44,7 +44,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 				<width>700</width>
 				<heigh>200</heigh>
 			</rect>
-			<debug>true</debug>
 		</attribute>
 		
 		<action>

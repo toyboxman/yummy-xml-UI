@@ -63,12 +63,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
 		<action>
             <setPrinterAction>
-                <header>乌海商业银行</header>
-                <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:965188</tail>
+                <header>灵璧农村商业银行</header>
+                <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
 			</setPrinterAction>
         </action>
         <action>

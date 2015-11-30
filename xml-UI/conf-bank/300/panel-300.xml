@@ -43,11 +43,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>3000201</nextPanel>
+                <nextCursor>3000204</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -63,11 +67,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>3000301</nextPanel>
+                <nextCursor>3000304</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -83,11 +90,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>3000401</nextPanel>
+                <nextCursor>3000404</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -103,11 +114,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>3000501</nextPanel>
+                <nextCursor>3000504</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -124,11 +139,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>3000601</nextPanel>
+                <nextCursor>3000604</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -147,11 +166,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>3000701</nextPanel>
+                <nextCursor>3000704</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -189,7 +212,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>150</heigh>
             </rect>
             <text>   请选择自助转账交易</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>

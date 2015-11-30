@@ -147,7 +147,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>1280</width>
                 <heigh>400</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
         <component>
             <id>50571</id>
@@ -159,7 +159,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <width>1280</width>
                     <heigh>400</heigh>
                 </rect>
-                <debug>false</debug>
+                
             </attribute>
             <action>
                 <fontSetAction>

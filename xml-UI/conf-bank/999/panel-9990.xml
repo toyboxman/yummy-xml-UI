@@ -77,14 +77,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <id>99905</id>
         <type>Button</type>
         <attribute>
-            <text>确认</text>
+            <text>返回</text>
             <rect>
                 <x>550</x>
                 <y>600</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>

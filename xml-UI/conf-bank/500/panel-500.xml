@@ -43,11 +43,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>5000201</nextPanel>
+                <nextCursor>5000204</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -63,11 +67,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>5000301</nextPanel>
+                <nextCursor>5000304</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -83,11 +91,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>5000401</nextPanel>
+                <nextCursor>5000404</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -125,7 +136,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>150</heigh>
             </rect>
             <text>   请选择指纹银行交易类型</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>

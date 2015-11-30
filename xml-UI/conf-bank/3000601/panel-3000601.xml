@@ -308,10 +308,30 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
             <cleanAction>
-                <conditions>3000304,3000306,3000308,3000310,3000312</conditions>
+                <conditions>3000604,3000606,3000608,3000610</conditions>
             </cleanAction>
         </action>   
 			
+    </component>
+    
+      <component>
+        <id>3000613</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   手机号转账</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
     </component>
 	
 	

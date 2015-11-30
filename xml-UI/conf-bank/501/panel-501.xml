@@ -193,7 +193,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		<action>
             <cleanAction>
-                <conditions>5014,5016</conditions>
+                <conditions>5014,5016,50110</conditions>
             </cleanAction>
         </action> 
 
@@ -211,7 +211,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>1280</width>
                 <heigh>400</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
         <component>
             <id>50110</id>
@@ -223,7 +223,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <width>1280</width>
                     <heigh>400</heigh>
                 </rect>
-                <debug>false</debug>
+                
             </attribute>
             <action>
                 <showTableAction>
@@ -248,7 +248,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>70</heigh>
             </rect>
             <text>   申报信息状态</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>

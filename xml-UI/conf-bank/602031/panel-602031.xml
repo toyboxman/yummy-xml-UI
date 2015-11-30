@@ -19,7 +19,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>300</x>
+                <x>400</x>
                 <y>70</y>
                 <width>600</width>
                 <heigh>150</heigh>
@@ -35,30 +35,63 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 	
     <component>
         <id>602033</id>
-        <type>Label</type>
+        <type>Table</type>
         <attribute>
             <rect>
                 <x>250</x>
-                <y>130</y>
+                <y>300</y>
                 <width>900</width>
-                <heigh>500</heigh>
+                <heigh>200</heigh>
             </rect>
-            <text></text>
         </attribute>
         <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
+			<showTableAction>
+				<columnNames>项目名称, 项目内容</columnNames>
+			</showTableAction>
+			<setFontAction>
+			<fontSize>22</fontSize>
+			</setFontAction>
+		</action>
+    </component>
+    
+    <component>
+        <id>602034</id>
+        <type>Button</type>
+        <attribute>
+            <text>打印</text>
+            <rect>
+                <x>500</x>
+                <y>750</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            
+        </attribute>
+		<action>
+            <setPrinterAction>
+                <header>灵璧农村商业银行</header>
+                <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
+			</setPrinterAction>
         </action>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>400</nextPanel>
+            </jumpPanelAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>40008926,4000906,602015,602016</conditions>
+            </cleanAction>
+        </action>   
     </component>
 	
 	<component>
-        <id>602034</id>
+        <id>602035</id>
         <type>Button</type>
         <attribute>
             <rect>
                 <x>800</x>
-                <y>700</y>
+                <y>750</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -71,9 +104,28 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		<action>
             <cleanAction>
-                <conditions>40008926,4000906,602015</conditions>
+                <conditions>40008926,4000906,602015,602016</conditions>
             </cleanAction>
         </action>   
+    </component>
+    <component>
+        <id>602036</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   IC卡代缴燃气费</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
     </component>
 
 </panel>

@@ -13,13 +13,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>40008921</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/4.jpg</background>
+	<background>/image/1.jpg</background>
 	 <component>
         <id>40008922</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>300</x>
+                <x>400</x>
                 <y>70</y>
                 <width>600</width>
                 <heigh>150</heigh>
@@ -35,21 +35,23 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 	
     <component>
         <id>40008924</id>
-        <type>Label</type>
+        <type>Table</type>
         <attribute>
             <rect>
                 <x>250</x>
-                <y>130</y>
+                <y>300</y>
                 <width>900</width>
-                <heigh>400</heigh>
+                <heigh>200</heigh>
             </rect>
-            <text></text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
+       	<action>
+			<showTableAction>
+				<columnNames>项目名称, 项目内容</columnNames>
+			</showTableAction>
+			<setFontAction>
+			<fontSize>22</fontSize>
+			</setFontAction>
+		</action>
     </component>
     
     <component>
@@ -87,6 +89,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			<playMediaAction>
                 <media>./media/audio/jiaofeimoney.wav</media>
             </playMediaAction>
+            <limitInputAction>
+                <length>16</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
 			
         </action>
     </component>
@@ -97,7 +103,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <attribute>
             <rect>
                 <x>500</x>
-                <y>700</y>
+                <y>750</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -115,12 +121,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <conditions>40008926</conditions>
                 <nextStep>  
                     <nextPanel>602011</nextPanel> 
+                    <nextCursor>602015</nextCursor>
                     <display>602013</display>  
                 </nextStep>
                 <exception> 
                     <nextPanel>99911</nextPanel>  
                     <display>99914</display>  
                 </exception>
+                <checkRules>
+					<notNull>
+                        <content>40008926</content>
+                        <errMsg>请输入缴费金额</errMsg>
+                    </notNull>
+                </checkRules>
             </sendMsgAction>
         </action>
     </component>
@@ -131,7 +144,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <attribute>
             <rect>
                 <x>800</x>
-                <y>700</y>
+                <y>750</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -147,6 +160,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <conditions>40008926,4000906</conditions>
             </cleanAction>
         </action>   
+    </component>
+     <component>
+        <id>40008929</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   IC卡代缴燃气费</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
     </component>
 
 </panel>

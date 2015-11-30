@@ -19,7 +19,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>450</x>
+                <x>400</x>
                 <y>70</y>
                 <width>600</width>
                 <heigh>150</heigh>
@@ -38,9 +38,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>280</x>
+                <x>200</x>
                 <y>330</y>
-                <width>200</width>
+                <width>280</width>
                 <heigh>60</heigh>
             </rect>
             <text>燃气IC卡号:</text>
@@ -71,9 +71,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <swipe2In1CardAction>
                 <nextCursor>4000911</nextCursor>
                 <editable>true</editable>
-				<debug>
-		<cardId>622248596587123</cardId>
-	</debug>
 			</swipe2In1CardAction>
         </action>
         
@@ -109,12 +106,21 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <conditions>4000906</conditions>
                 <nextStep>  
                     <nextPanel>40008921</nextPanel> 
+                    <nextCursor>40008926</nextCursor>
                     <display>40008924</display>  
                 </nextStep>
                 <exception> 
                     <nextPanel>99911</nextPanel>  
                     <display>99914</display>  
                 </exception>
+                
+                <checkRules>
+					<notNull>
+                        <content>4000906</content>
+                        <errMsg>请插入IC卡，并点击下拉菜单进行读IC卡</errMsg>
+                    </notNull>
+                </checkRules>
+                
             </sendMsgAction>
         </action>
     </component>
@@ -142,6 +148,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             
             <setFontAction>
                 <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    <component>
+        <id>4000913</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   IC卡代缴燃气费</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
             </setFontAction>
         </action>
     </component>

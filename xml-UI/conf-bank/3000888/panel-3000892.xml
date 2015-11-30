@@ -44,7 +44,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>300</heigh>
             </rect>
             <text></text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>
@@ -105,6 +105,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>300</nextPanel>
             </jumpPanelAction>
         </action>
+        <action>
+            <cleanAction>
+                <conditions>3000404,3000406,3000408,3000410,3000412</conditions>
+            </cleanAction>
+        </action>   
     </component>
 	
 	

@@ -43,7 +43,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>100</heigh>
             </rect>
-            <debug>false</debug>
+        <debug>
+        	<color>255,0,0</color>
+        </debug>
         </attribute>
         <action>
             <setFontAction>
@@ -66,7 +68,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>100</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
         </attribute>
         <action>
             <setFontAction>
@@ -89,6 +93,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>100</heigh>
             </rect>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
         </attribute>
         <action>
             <setFontAction>
@@ -101,7 +108,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
        <action>
             <openBrowserAction>
-                <url>http://www.ahlbrcb.com/</url>
+                <url>file:///C:/sun/smart-community/OnlineBank/bankindex.html</url>
             </openBrowserAction>
         </action>
     </component> 
@@ -117,7 +124,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>100</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
         </attribute>
         <action>
             <setFontAction>
@@ -128,7 +137,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </jumpPanelAction>
         </action>
     </component>
-	
 	
     <component>
         <id>7</id>

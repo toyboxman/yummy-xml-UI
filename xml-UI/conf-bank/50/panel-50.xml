@@ -43,11 +43,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>5011</nextPanel>
+                <nextCursor>5014</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -63,11 +67,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>5021</nextPanel>
+                <nextCursor>5024</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -83,11 +91,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>5031</nextPanel>
+                <nextCursor>5034</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -103,11 +115,15 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>5041</nextPanel>
+                <nextCursor>5048</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
@@ -144,7 +160,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>150</heigh>
             </rect>
             <text>   请选择社保查询交易</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>

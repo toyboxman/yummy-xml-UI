@@ -113,11 +113,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>60</heigh>
             </rect>
         </attribute>
-        
+
          <action>
             <rwFingerPrintAction>
                 <nextCursor>5000307</nextCursor> <!-- next component cursor focuses on after swipe card operation -->
-                <writePrint>true</writePrint> <!-- whether this is finger print registry operation -->
+                <writePrint>false</writePrint> <!-- whether this is finger print registry operation -->
             </rwFingerPrintAction>
        </action>
 		
@@ -201,6 +201,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <conditions>5000304,5000306</conditions>
             </cleanAction>
         </action>   
+    </component>
+      <component>
+        <id>5000309</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   指纹查询余额</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
     </component>
 	
 	

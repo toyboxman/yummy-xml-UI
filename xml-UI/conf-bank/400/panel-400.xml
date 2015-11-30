@@ -39,19 +39,24 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>代缴手机费</text>
             <rect>
                 <x>200</x>
-                <y>690</y>
+                <y>390</y>
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>4000201</nextPanel>
+                <nextCursor>4000204</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
 	
+	<!--
 	<component>
         <id>40003</id>
         <type>Button</type>
@@ -63,7 +68,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
@@ -83,7 +91,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
@@ -91,6 +102,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </jumpPanelAction>
         </action>
     </component>
+    -->
 	
 	<component>
         <id>40005</id>
@@ -99,20 +111,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>普卡代缴燃气费</text>
             <rect>
                 <x>200</x>
-                <y>540</y>
+                <y>240</y>
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>4000501</nextPanel>
+                <nextCursor>4000506</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
     
-    	<component>
+    <!--
+    <component>
         <id>40007</id>
         <type>Button</type>
         <attribute>
@@ -123,7 +140,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
@@ -131,7 +151,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </jumpPanelAction>
         </action>
     </component>
-	
+    -->
+    
+	<!--
 	<component>
         <id>40008</id>
         <type>Button</type>
@@ -143,7 +165,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
@@ -151,6 +176,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </jumpPanelAction>
         </action>
     </component>
+    -->
 	
 	<component>
         <id>40009</id>
@@ -159,15 +185,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <text>IC卡代缴燃气费</text>
             <rect>
                 <x>800</x>
-                <y>540</y>
+                <y>240</y>
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>4000901</nextPanel>
+                <nextCursor>4000906</nextCursor>
             </jumpPanelAction>
         </action>
     </component>

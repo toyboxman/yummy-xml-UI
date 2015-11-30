@@ -68,7 +68,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <items>/, ACTION4/读银行卡</items>
             </showComboBoxAction>
             <swipe2In1CardAction>
-                <nextCursor>3000210</nextCursor>
+                <nextCursor>42010</nextCursor>
                 <editable>true</editable>
 </swipe2In1CardAction>
         </action>
@@ -81,8 +81,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		
     </component>
-	
-	
 	
 	<component>
         <id>4209</id>
@@ -205,7 +203,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </playMediaAction>
         </action>
 		
-		
 		<action>
 			<virtualKeyboardAction>
                 <start>AVF_Display.exe</start>
@@ -214,9 +211,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		
     </component>
-	
-	
-	
 	
 	<component>
         <id>42011</id>
@@ -250,8 +244,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
 		
-		
-	
 		<action>
             <limitInputAction>
                 <length>6</length>
@@ -264,9 +256,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		
     </component>
-	
-
-	
 	
     <component>
         <id>42013</id>
@@ -298,7 +287,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <nextPanel>99901</nextPanel>  
                     <display>99904</display>  
                 </exception>
-				
 				
 				<checkRules>
 					<notNull>
@@ -338,8 +326,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                         <errMsg>当前使用非本行发行卡片，请使用本行卡</errMsg>
                     </template>
 				</checkRules>	
-				
-				
 				
             </sendMsgAction>
         </action>
@@ -385,7 +371,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>150</heigh>
             </rect>
             <text>   企业主动付款</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>

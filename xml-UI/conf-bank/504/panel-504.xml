@@ -97,7 +97,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 	
 	<component>
         <id>5046</id>
-        <type>TextField</type>
+        <type>ComboBox</type>
         <attribute>
             <rect>
                 <x>950</x>
@@ -107,10 +107,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
        <action>
-            <playMediaAction>
-                <media>./media/audio/nianfen.wav</media>
-            </playMediaAction>
-         </action>
+            <showComboBoxAction>
+                <items>1/2015, 2/2011, 3/2012, 4/2013, 5/2014</items>
+            </showComboBoxAction>
+        </action>
     </component>
 	
 	<component>
@@ -285,7 +285,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>1280</width>
                 <heigh>400</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
         <component>
             <id>50414</id>
@@ -297,7 +297,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <width>1280</width>
                     <heigh>400</heigh>
                 </rect>
-                <debug>false</debug>
+                
             </attribute>
             <action>
                 <showTableAction>
@@ -322,7 +322,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>150</heigh>
             </rect>
             <text>   五险缴费信息</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>

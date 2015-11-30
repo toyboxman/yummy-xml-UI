@@ -245,6 +245,26 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </cleanAction>
         </action>
     </component>
+    
+    <component>
+        <id>2000711</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   修改ATM取款限额</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
 	
 	
 </panel>

@@ -34,14 +34,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <id>972</id>
         <type>Button</type>
         <attribute>
-            <text>确认</text>
+            <text>返回</text>
             <rect>
                 <x>200</x>
                 <y>300</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
@@ -60,7 +60,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
         <action>
             <setPrinterAction>

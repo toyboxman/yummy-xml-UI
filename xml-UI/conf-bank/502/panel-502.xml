@@ -202,7 +202,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>150</heigh>
             </rect>
             <text>   社保卡办理状态</text>
-			<debug>false</debug>
+			
         </attribute>
         <action>
             <setFontAction>

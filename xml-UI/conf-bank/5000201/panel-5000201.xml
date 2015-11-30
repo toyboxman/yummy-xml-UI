@@ -253,6 +253,24 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>   
 		
     </component>
-	
+	  <component>
+        <id>5000211</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   指纹绑定</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
 	
 </panel>

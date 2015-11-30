@@ -77,14 +77,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <id>99915</id>
         <type>Button</type>
         <attribute>
-            <text>确认</text>
+            <text>返回</text>
             <rect>
                 <x>450</x>
                 <y>500</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
         <action>
             <jumpPanelAction>
@@ -93,7 +93,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		<action>
             <cleanAction>
-                <conditions>4000204,4000206,4000208,4000210,4000304,4000306,4000308,4000310,4000404,4000406,4000408,4000410,4000504,4000506,4000508,4000510</conditions>
+                <conditions>4000204,4000206,4000208,4000210,4000304,4000306,4000308,4000310,4000404,4000406,4000408,4000410,4000506,602045,602047,4000506</conditions>
             </cleanAction>
         </action>   
     </component>

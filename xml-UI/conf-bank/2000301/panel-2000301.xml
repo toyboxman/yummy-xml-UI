@@ -153,7 +153,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>9993</display>  
                 </exception>
 				
-				
 				<checkRules>
 					<notNull>
                         <content>2000304</content>
@@ -209,7 +208,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>1280</width>
                 <heigh>400</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
         <component>
             <id>2000314</id>
@@ -221,7 +220,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <width>1280</width>
                     <heigh>400</heigh>
                 </rect>
-                <debug>false</debug>
+                
             </attribute>
             <action>
                 <showTableAction>
@@ -245,8 +244,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>1024</width>
                 <heigh>70</heigh>
             </rect>
-            <text>   查询最近50历史交易记录</text>
-			<debug>false</debug>
+            <text>   查询最近20笔历史交易记录</text>
+			
         </attribute>
         <action>
             <setFontAction>
@@ -254,4 +253,5 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </setFontAction>
         </action>
     </component>
+    
 </panel>

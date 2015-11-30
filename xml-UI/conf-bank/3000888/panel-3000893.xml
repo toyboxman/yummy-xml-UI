@@ -63,7 +63,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <debug>false</debug>
+            
         </attribute>
 		
 		<action>
@@ -81,7 +81,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
             <cleanAction>
-                <conditions>3000304,3000306,3000308,3000310,3000312</conditions>
+                <conditions>3000404,3000406,3000408,3000410,3000412</conditions>
             </cleanAction>
         </action>   
     </component>
@@ -106,7 +106,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		<action>
             <cleanAction>
-                <conditions>3000304,3000306,3000308,3000310,3000312</conditions>
+                <conditions>3000404,3000406,3000408,3000410,3000412</conditions>
             </cleanAction>
         </action>   
     </component>
