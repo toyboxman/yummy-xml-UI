@@ -72,9 +72,10 @@ public class DefaultCleanAction extends DefaultBaseAction {
                             break;
                         case COMBO_BOX:
                             JComboBox combo = getBlock(id, JComboBox.class);
-                            if (combo.isEditable()) {
-                                combo.setSelectedIndex(0);
-                            }
+//                            if (combo.isEditable()) {
+//                                combo.setSelectedIndex(0);
+//                            }
+                            combo.setSelectedIndex(0);
                             break;
                         default:
                             Logger.getLogger(DefaultCleanAction.CleanActionImpl.class.getName()).log(Level.INFO,

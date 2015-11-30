@@ -51,6 +51,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>200</nextPanel>
                 <nextCursor>201</nextCursor>
             </jumpPanelAction>
+            <cleanAction>
+                <conditions>104</conditions>
+            </cleanAction>
         </action>
     </component>
     <component>
