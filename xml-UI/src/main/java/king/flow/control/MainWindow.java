@@ -1017,11 +1017,18 @@ public class MainWindow {
             byte length = limitInputAction.getLength();
             DefaultTextFieldAction defaultTextFieldAction = null;
             Boolean enableCashLimit = limitInputAction.isEnableCashLimit();
+            Boolean enableNumberLimit = limitInputAction.isEnableNumberLimit();
             if (enableCashLimit != null && enableCashLimit) {
                 if (limitInputAction.isEditable()) {
                     defaultTextFieldAction = new DefaultTextFieldAction(length, enableCashLimit);
                 } else {
                     defaultTextFieldAction = new DefaultTextFieldAction(length, enableCashLimit, false);
+                }
+            } else if (enableNumberLimit != null && enableNumberLimit) {
+                if (limitInputAction.isEditable()) {
+                    defaultTextFieldAction = new DefaultTextFieldAction(length, DefaultTextFieldAction.InputType.NUMBER);
+                } else {
+                    defaultTextFieldAction = new DefaultTextFieldAction(length, false, false);
                 }
             } else if (limitInputAction.isEditable()) {
                 defaultTextFieldAction = new DefaultTextFieldAction(length, false, true);

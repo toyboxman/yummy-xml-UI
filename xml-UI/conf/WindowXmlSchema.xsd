@@ -135,6 +135,7 @@
                     <xs:all>
                         <xs:element name="length" type="xs:byte"/>
                         <xs:element name="enableCashLimit" type="xs:boolean"  default="false" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="enableNumberLimit" type="xs:boolean"  default="false" maxOccurs="1" minOccurs="0"/>
                     </xs:all>
                     <xs:attribute name="editable" type="xs:boolean" default="true" use="optional"/>
                 </xs:complexType>

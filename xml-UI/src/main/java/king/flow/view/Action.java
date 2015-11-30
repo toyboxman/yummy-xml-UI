@@ -2,7 +2,7 @@
 // 此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.8-b130911.1802 生成的
 // 请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
 // 在重新编译源模式时, 对此文件的所有修改都将丢失。
-// 生成时间: 2015.11.28 时间 08:04:46 PM CST 
+// 生成时间: 2015.11.30 时间 09:19:37 PM CST 
 //
 
 
@@ -85,6 +85,7 @@ import javax.xml.bind.annotation.XmlType;
  *                 &lt;all>
  *                   &lt;element name="length" type="{http://www.w3.org/2001/XMLSchema}byte"/>
  *                   &lt;element name="enableCashLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
+ *                   &lt;element name="enableNumberLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
  *                 &lt;/all>
  *                 &lt;attribute name="editable" type="{http://www.w3.org/2001/XMLSchema}boolean" default="true" />
  *               &lt;/restriction>
@@ -1143,6 +1144,7 @@ public class Action {
      *       &lt;all>
      *         &lt;element name="length" type="{http://www.w3.org/2001/XMLSchema}byte"/>
      *         &lt;element name="enableCashLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
+     *         &lt;element name="enableNumberLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
      *       &lt;/all>
      *       &lt;attribute name="editable" type="{http://www.w3.org/2001/XMLSchema}boolean" default="true" />
      *     &lt;/restriction>
@@ -1161,6 +1163,8 @@ public class Action {
         protected byte length;
         @XmlElement(defaultValue = "false")
         protected Boolean enableCashLimit;
+        @XmlElement(defaultValue = "false")
+        protected Boolean enableNumberLimit;
         @XmlAttribute(name = "editable")
         protected Boolean editable;
 
@@ -1202,6 +1206,30 @@ public class Action {
          */
         public void setEnableCashLimit(Boolean value) {
             this.enableCashLimit = value;
+        }
+
+        /**
+         * 获取enableNumberLimit属性的值。
+         * 
+         * @return
+         *     possible object is
+         *     {@link Boolean }
+         *     
+         */
+        public Boolean isEnableNumberLimit() {
+            return enableNumberLimit;
+        }
+
+        /**
+         * 设置enableNumberLimit属性的值。
+         * 
+         * @param value
+         *     allowed object is
+         *     {@link Boolean }
+         *     
+         */
+        public void setEnableNumberLimit(Boolean value) {
+            this.enableNumberLimit = value;
         }
 
         /**
