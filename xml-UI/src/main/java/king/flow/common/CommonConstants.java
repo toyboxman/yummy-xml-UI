@@ -94,33 +94,41 @@ public class CommonConstants {
     public static final int INVALID_CARD_STATE = -1;
     public static final int MAGNET_CARD_STATE = 2;
     public static final int IC_CARD_STATE = 3;
-
+    
     /* action-component relationship map */
+    private static final String JUMP_ACTION = JumpAction.class.getSimpleName();
+    private static final String CLEAN_ACTION = CleanAction.class.getSimpleName();
+    private static final String SEND_MSG_ACTION = MsgSendAction.class.getSimpleName();
+    private static final String MOVE_CURSOR_ACTION = MoveCursorAction.class.getSimpleName();
+    private static final String LIMIT_INPUT_ACTION = LimitInputAction.class.getSimpleName();
+    private static final String SHOW_COMBOBOX_ACTION = ShowComboBoxAction.class.getSimpleName();
+    private static final String SHOW_TABLE_ACTION = ShowTableAction.class.getSimpleName();
+    private static final String SHOW_CLOCK_ACTION = ShowClockAction.class.getSimpleName();
     static final Map<ComponentEnum, List<String>> ACTION_COMPONENT_MAP = new ImmutableMap.Builder<ComponentEnum, List<String>>()
             .put(ComponentEnum.BUTTON, new ImmutableList.Builder<String>()
-                    .add(JumpAction.class.getSimpleName())
-                    .add(CleanAction.class.getSimpleName())
-                    .add(MsgSendAction.class.getSimpleName())
-                    .add(MoveCursorAction.class.getSimpleName())
+                    .add(JUMP_ACTION)
+                    .add(CLEAN_ACTION)
+                    .add(SEND_MSG_ACTION)
+                    .add(MOVE_CURSOR_ACTION)
                     .build())
             .put(ComponentEnum.TEXT_FIELD, new ImmutableList.Builder<String>()
-                    .add(LimitInputAction.class.getSimpleName())
-                    .add(MoveCursorAction.class.getSimpleName())
+                    .add(LIMIT_INPUT_ACTION)
+                    .add(MOVE_CURSOR_ACTION)
                     .build())
             .put(ComponentEnum.PASSWORD_FIELD, new ImmutableList.Builder<String>()
-                    .add(LimitInputAction.class.getSimpleName())
-                    .add(MoveCursorAction.class.getSimpleName())
+                    .add(LIMIT_INPUT_ACTION)
+                    .add(MOVE_CURSOR_ACTION)
                     .build())
             .put(ComponentEnum.COMBO_BOX, new ImmutableList.Builder<String>()
-                    .add(ShowComboBoxAction.class.getSimpleName())
-                    .add(MoveCursorAction.class.getSimpleName())
+                    .add(SHOW_COMBOBOX_ACTION)
+                    .add(MOVE_CURSOR_ACTION)
                     .build())
             .put(ComponentEnum.ADVANCED_TABLE, new ImmutableList.Builder<String>()
-                    .add(MsgSendAction.class.getSimpleName())
-                    .add(ShowTableAction.class.getSimpleName())
+                    .add(SEND_MSG_ACTION)
+                    .add(SHOW_TABLE_ACTION)
                     .build())
             .put(ComponentEnum.LABEL, new ImmutableList.Builder<String>()
-                    .add(ShowClockAction.class.getSimpleName())
+                    .add(SHOW_CLOCK_ACTION)
                     .build())
             .build();
 
