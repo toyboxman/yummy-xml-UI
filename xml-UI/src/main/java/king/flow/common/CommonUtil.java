@@ -478,7 +478,7 @@ public class CommonUtil {
         fingerPrintController = driver.TcCreateHDL(nDevPort, 0, 0, 0);
         if (fingerPrintController <= 0) {
             showErrorMsg(currentView, getResourceMsg("finger.print.read.error"));
-            return null;
+            return "";
         }
         nRet = driver.TcDoFeature(fingerPrintController, pVer);
         if (nRet >= 0) {
@@ -489,12 +489,12 @@ public class CommonUtil {
             getLogger(CommonUtil.class.getName()).log(Level.INFO,
                     "fail to read finger print, return code is {0}", nRet);
             forcedTerminateFingerDriver(driver);
-            return null;
+            return "";
         }
     }
 
-    private static void forcedTerminateFingerDriver(FingerPrintDrive driver1) {
-        int nRet = driver1.TcDeleteHDL(fingerPrintController);
+    private static void forcedTerminateFingerDriver(FingerPrintDrive driver) {
+        int nRet = driver.TcDeleteHDL(fingerPrintController);
         fingerPrintController = -1;
         if (nRet < 0) {
             getLogger(CommonUtil.class.getName()).log(Level.INFO,
@@ -513,7 +513,7 @@ public class CommonUtil {
         fingerPrintController = driver.TcCreateHDL(nDevPort, 0, 0, 0);
         if (fingerPrintController <= 0) {
             showErrorMsg(currentView, getResourceMsg("finger.print.read.error"));
-            return null;
+            return "";
         }
         nRet = driver.TcDoTemplet(fingerPrintController, pReg);
         if (nRet >= 0) {
@@ -524,7 +524,7 @@ public class CommonUtil {
             getLogger(CommonUtil.class.getName()).log(Level.INFO,
                     "fail to registy finger print device, return code is {0}", nRet);
             forcedTerminateFingerDriver(driver);
-            return null;
+            return "";
         }
     }
 
