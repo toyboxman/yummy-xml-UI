@@ -19,7 +19,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <attribute>
             <rect>
                 <x>430</x>
-                <y>40</y>
+                <y>70</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>

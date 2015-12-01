@@ -21,7 +21,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <x>430</x>
                 <y>70</y>
                 <width>600</width>
-                <heigh>100</heigh>
+                <heigh>150</heigh>
             </rect>
             <text>确认同行转账信息</text>
 			
