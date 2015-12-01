@@ -12,6 +12,8 @@ import java.util.logging.Level;
 import javax.swing.JComponent;
 import javax.swing.JTextField;
 import javax.swing.SwingWorker;
+import javax.swing.event.AncestorEvent;
+import javax.swing.event.AncestorListener;
 import king.flow.action.DefaultBaseAction;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
@@ -46,13 +48,41 @@ public class RWFingerPrintAction extends DefaultBaseAction {
                 new FingerPrintTask().execute();
             }
         });
+        
+        jTextField.addAncestorListener(new AncestorListener() {
+            @Override
+            public void ancestorAdded(AncestorEvent event) {
+            }
+
+            @Override
+            public void ancestorRemoved(AncestorEvent event) {
+                new FingerPrintTask(true).execute();
+            }
+
+            @Override
+            public void ancestorMoved(AncestorEvent event) {
+            }
+        });
     }
 
     private class FingerPrintTask extends SwingWorker<String, Integer> {
+        private final boolean forcedClose;
 
+        public FingerPrintTask() {
+            this.forcedClose = false;
+        }
+
+        public FingerPrintTask(boolean forcedClose) {
+            this.forcedClose = forcedClose;
+        }
+        
         @Override
         protected String doInBackground() throws Exception {
-            getLogger(FingerPrintTask.class.getName()).log(Level.CONFIG, "registry value {0}", registryFinerPrint);
+            if (forcedClose) {
+                CommonUtil.closeFingerPrint();
+                return "";
+            }
+            
             //make media playing done before focus lost due to showing of finger print dialog
             Thread.sleep(TimeUnit.SECONDS.toMillis(3));
             owner.setFocusable(false);
@@ -61,10 +91,12 @@ public class RWFingerPrintAction extends DefaultBaseAction {
             
             if (registryFinerPrint) {
                 printValue = CommonUtil.registryFingerPrint().trim();
-                getLogger(FingerPrintTask.class.getName()).log(Level.INFO, "registry finger print {0}", printValue);
+                getLogger(FingerPrintTask.class.getName()).log(Level.INFO,
+                        "registry finger print {0}", printValue);
             } else {
                 printValue = CommonUtil.readFingerPrint().trim();
-                getLogger(FingerPrintTask.class.getName()).log(Level.INFO, "reading finger print {0}", printValue);
+                getLogger(FingerPrintTask.class.getName()).log(Level.INFO,
+                        "reading finger print {0}", printValue);
             }
 
             ((JTextField) owner).setText(printValue);

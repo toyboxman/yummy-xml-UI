@@ -15,6 +15,7 @@ import java.awt.event.MouseEvent;
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.ExecutionException;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JButton;
@@ -149,12 +150,12 @@ public class DefaultVirtualKeyBoardAction extends DefaultBaseAction {
             if (hide) {
                 Process proc = Runtime.getRuntime().exec(start_cmd);
                 hide = !hide;
-                Thread.sleep(1000 * 1);
+                Thread.sleep(TimeUnit.SECONDS.toMillis(1));
                 proc.destroy();
             } else {
                 Process proc = Runtime.getRuntime().exec(stop_cmd);
                 hide = !hide;
-                Thread.sleep(1000 * 1);
+                Thread.sleep(TimeUnit.SECONDS.toMillis(1));
                 proc.destroy();
             }
 
