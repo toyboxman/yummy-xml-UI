@@ -89,14 +89,16 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
                 .append("operation").append(DOT).toString();
 
         //whether operation need to account privilege
-        for (String accountName : invalidAccount) {
-            String actNameMark = ">" + accountName + "</";
-            if (request.contains(actNameMark)) {
-                StringBuilder actHaltMsgCondition = new StringBuilder(terminalPrefix)
-                        .append("accountHalt").append(DOT).append("errmsg");
-                String actHaltErrMsg = readJsonElement(actHaltMsgCondition).asPrimitive().asString();
-                ctx.write(Unpooled.copiedBuffer(MockServerResp.mockFailedGeneralResp(terminal, actHaltErrMsg).getBytes(UTF8)));
-                return;
+        if (!prsCode.equalsIgnoreCase("accoutGuashi")) {
+            for (String accountName : invalidAccount) {
+                String actNameMark = ">" + accountName + "</";
+                if (request.contains(actNameMark)) {
+                    StringBuilder actHaltMsgCondition = new StringBuilder(terminalPrefix)
+                            .append("accountHalt").append(DOT).append("errmsg");
+                    String actHaltErrMsg = readJsonElement(actHaltMsgCondition).asPrimitive().asString();
+                    ctx.write(Unpooled.copiedBuffer(MockServerResp.mockFailedGeneralResp(terminal, actHaltErrMsg).getBytes(UTF8)));
+                    return;
+                }
             }
         }
 
