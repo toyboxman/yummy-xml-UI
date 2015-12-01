@@ -42,10 +42,12 @@ public class DefaultVirtualKeyBoardAction extends DefaultBaseAction {
         try {
             textInputConfig = new File(textInputConfig).getCanonicalPath();
         } catch (IOException ex) {
-            Logger.getLogger(DefaultVirtualKeyBoardAction.class.getName()).log(Level.SEVERE, "Invalid chinese text type config {0}", ex.getMessage());
+            Logger.getLogger(DefaultVirtualKeyBoardAction.class.getName()).log(Level.SEVERE,
+                    "Invalid chinese text type config {0}", ex.getMessage());
         }
         if (textInputConfig.endsWith("/") || textInputConfig.endsWith("\\")) {
-            Logger.getLogger(DefaultVirtualKeyBoardAction.class.getName()).log(Level.INFO, "Standard chinese text type config {0}", textInputConfig);
+            Logger.getLogger(DefaultVirtualKeyBoardAction.class.getName()).log(Level.INFO,
+                    "Standard chinese text type config {0}", textInputConfig);
         } else {
             textInputConfig = textInputConfig + File.separatorChar;
         }
@@ -106,7 +108,7 @@ public class DefaultVirtualKeyBoardAction extends DefaultBaseAction {
     @Override
     protected void installTextFieldAction() {
         JTextField jtf = (JTextField) owner;
-        /*jtf.addFocusListener(new FocusAdapter() {
+        jtf.addFocusListener(new FocusAdapter() {
 
 //            @Override
 //            public void focusGained(FocusEvent e) {
@@ -122,7 +124,7 @@ public class DefaultVirtualKeyBoardAction extends DefaultBaseAction {
                 }
                 new VirtualKeyBoardTask().execute();
             }
-        });*/
+        });
 
         jtf.addMouseListener(new MouseAdapter() {
 
