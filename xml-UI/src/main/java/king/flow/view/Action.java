@@ -2,7 +2,7 @@
 // 此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.8-b130911.1802 生成的
 // 请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
 // 在重新编译源模式时, 对此文件的所有修改都将丢失。
-// 生成时间: 2015.11.30 时间 09:19:37 PM CST 
+// 生成时间: 2015.12.01 时间 08:13:21 PM CST 
 //
 
 
@@ -83,7 +83,7 @@ import javax.xml.bind.annotation.XmlType;
  *             &lt;complexContent>
  *               &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
  *                 &lt;all>
- *                   &lt;element name="length" type="{http://www.w3.org/2001/XMLSchema}byte"/>
+ *                   &lt;element name="length" type="{http://www.w3.org/2001/XMLSchema}unsignedShort"/>
  *                   &lt;element name="enableCashLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
  *                   &lt;element name="enableNumberLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
  *                 &lt;/all>
@@ -1142,7 +1142,7 @@ public class Action {
      *   &lt;complexContent>
      *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
      *       &lt;all>
-     *         &lt;element name="length" type="{http://www.w3.org/2001/XMLSchema}byte"/>
+     *         &lt;element name="length" type="{http://www.w3.org/2001/XMLSchema}unsignedShort"/>
      *         &lt;element name="enableCashLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
      *         &lt;element name="enableNumberLimit" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/>
      *       &lt;/all>
@@ -1160,7 +1160,8 @@ public class Action {
     })
     public static class LimitInputAction {
 
-        protected byte length;
+        @XmlSchemaType(name = "unsignedShort")
+        protected int length;
         @XmlElement(defaultValue = "false")
         protected Boolean enableCashLimit;
         @XmlElement(defaultValue = "false")
@@ -1172,7 +1173,7 @@ public class Action {
          * 获取length属性的值。
          * 
          */
-        public byte getLength() {
+        public int getLength() {
             return length;
         }
 
@@ -1180,7 +1181,7 @@ public class Action {
          * 设置length属性的值。
          * 
          */
-        public void setLength(byte value) {
+        public void setLength(int value) {
             this.length = value;
         }
 

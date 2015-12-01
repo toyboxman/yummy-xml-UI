@@ -1014,7 +1014,7 @@ public class MainWindow {
     private void doLimitInputAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.LimitInputAction limitInputAction = actionNode.getLimitInputAction();
         if (limitInputAction != null) {
-            byte length = limitInputAction.getLength();
+            int length = limitInputAction.getLength();
             DefaultTextFieldAction defaultTextFieldAction = null;
             Boolean enableCashLimit = limitInputAction.isEnableCashLimit();
             Boolean enableNumberLimit = limitInputAction.isEnableNumberLimit();

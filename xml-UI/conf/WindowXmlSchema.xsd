@@ -133,7 +133,7 @@
             <xs:element name="limitInputAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
-                        <xs:element name="length" type="xs:byte"/>
+                        <xs:element name="length" type="xs:unsignedShort"/>
                         <xs:element name="enableCashLimit" type="xs:boolean"  default="false" maxOccurs="1" minOccurs="0"/>
                         <xs:element name="enableNumberLimit" type="xs:boolean"  default="false" maxOccurs="1" minOccurs="0"/>
                     </xs:all>
