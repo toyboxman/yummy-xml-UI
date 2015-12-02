@@ -457,78 +457,81 @@ public class CommonUtil {
         return status;
     }
 
+    /* finger printer driver section */
+    private static volatile int fingerPrintController = -1;
+
     public static void closeFingerPrint() {
         FingerPrintDrive driver = FingerPrintDrive.INSTANCE;
-        if (fingerPrintController != -1) {
-            forcedTerminateFingerDriver(driver);
+        if (fingerPrintController > 0) {
+            closeFingerDrvHandler(driver, fingerPrintController);
         } else {
             getLogger(CommonUtil.class.getName()).log(Level.INFO,
                     "no more finger print device needs to be closed");
         }
     }
 
+    private static void closeFingerDrvHandler(FingerPrintDrive driver, int objHdl) {
+        int nRet = driver.TcDeleteHDL(objHdl);
+        if (nRet < 0) {
+            getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                    "fail to close handler of finger print device {0}, return code is {1}",
+                    new Object[]{objHdl, nRet});
+        }
+    }
+
     public static String readFingerPrint() {
-        fingerPrintController = -1;
+        int objHdl = -1;
         byte[] pVer = new byte[513];
         String strVer = "";
         int nRet;
 
         int nDevPort = 0; //usb port is 0
         FingerPrintDrive driver = FingerPrintDrive.INSTANCE;
-        fingerPrintController = driver.TcCreateHDL(nDevPort, 0, 0, 0);
-        if (fingerPrintController <= 0) {
+        objHdl = driver.TcCreateHDL(nDevPort, 0, 0, 0);
+        if (objHdl <= 0) {
             showErrorMsg(currentView, getResourceMsg("finger.print.read.error"));
-            return "";
+            return strVer;
         }
-        nRet = driver.TcDoFeature(fingerPrintController, pVer);
+        getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                "opened handler of finger print device is {0}", objHdl);
+
+        nRet = driver.TcDoFeature(objHdl, pVer);
         if (nRet >= 0) {
             strVer = ByteToString(pVer, nRet);
-            forcedTerminateFingerDriver(driver);
-            return strVer;
         } else {
             getLogger(CommonUtil.class.getName()).log(Level.INFO,
                     "fail to read finger print, return code is {0}", nRet);
-            forcedTerminateFingerDriver(driver);
-            return "";
         }
-    }
-
-    private static void forcedTerminateFingerDriver(FingerPrintDrive driver) {
-        int nRet = driver.TcDeleteHDL(fingerPrintController);
-        fingerPrintController = -1;
-        if (nRet < 0) {
-            getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                    "fail to close finger print device, return code is {0}", nRet);
-        }
+        closeFingerDrvHandler(driver, objHdl);
+        return strVer;
     }
 
     public static String registryFingerPrint() {
-        fingerPrintController = -1;
+        int objHdl = -1;
         byte[] pReg = new byte[513];
         String strReg = "";
         int nRet;
 
         int nDevPort = 0; //usb port is 0
         FingerPrintDrive driver = FingerPrintDrive.INSTANCE;
-        fingerPrintController = driver.TcCreateHDL(nDevPort, 0, 0, 0);
-        if (fingerPrintController <= 0) {
+        objHdl = driver.TcCreateHDL(nDevPort, 0, 0, 0);
+        if (objHdl <= 0) {
             showErrorMsg(currentView, getResourceMsg("finger.print.read.error"));
-            return "";
-        }
-        nRet = driver.TcDoTemplet(fingerPrintController, pReg);
-        if (nRet >= 0) {
-            strReg = new String(pReg);
-            forcedTerminateFingerDriver(driver);
             return strReg;
+        }
+        getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                "opened handler of finger print device is {0}", objHdl);
+
+        nRet = driver.TcDoTemplet(objHdl, pReg);
+        if (nRet >= 0) {
+            strReg = ByteToString(pReg, nRet);
         } else {
             getLogger(CommonUtil.class.getName()).log(Level.INFO,
                     "fail to registy finger print device, return code is {0}", nRet);
-            forcedTerminateFingerDriver(driver);
-            return "";
         }
+        closeFingerDrvHandler(driver, objHdl);
+        return strReg;
     }
-
-    private static volatile int fingerPrintController = -1;
 
     private static String ByteToString(byte[] a, int nLen) {
         int nALen = a.length;
@@ -554,6 +557,8 @@ public class CommonUtil {
         }
     }
 
+    /* finger printer driver section end*/
+    // print receipt
     public static void printReceipt(String header, String content, String tail) {
         System.loadLibrary(getDriverDll(PRINTER));
         PrinterConductor printerConductor = new PrinterConductor();

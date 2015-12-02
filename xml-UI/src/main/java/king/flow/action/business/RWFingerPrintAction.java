@@ -56,7 +56,7 @@ public class RWFingerPrintAction extends DefaultBaseAction {
 
             @Override
             public void ancestorRemoved(AncestorEvent event) {
-                new FingerPrintTask(true).execute();
+//                new FingerPrintTask(true).execute();
             }
 
             @Override
