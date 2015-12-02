@@ -159,15 +159,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
         </attribute>
 		
-		
-		
 		<action>
 			<playMediaAction>
                 <media>./media/audio/sendmsgphone.wav</media>
             </playMediaAction>
             
-           <limitInputAction>
+           <limitInputAction editable="true">
            		<length>11</length>
+           		<enableNumberLimit>true</enableNumberLimit> <!-- set only input number(0-9) -->
            </limitInputAction>
         </action>
     </component>

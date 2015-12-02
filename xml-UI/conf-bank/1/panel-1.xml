@@ -23,7 +23,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>80</heigh>
             </rect>
-            <text>移动商务银行服务系统</text>
+            <text>多场景综合应用平台</text>
         </attribute>
         <action>
             <setFontAction>
@@ -167,7 +167,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>200</width>
                 <heigh>40</heigh>
             </rect>
-            <text>终端编号：${TERMINAL_ID}</text>
+            <text>编号：00001010</text>
         </attribute>
         <action>
             <setFontAction>

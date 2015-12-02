@@ -118,8 +118,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <media>./media/audio/phoneto.wav</media>
             </playMediaAction>
             
-            <limitInputAction>
+            <limitInputAction editable="true">
                 <length>11</length>
+                <enableNumberLimit>true</enableNumberLimit>
             </limitInputAction>
 
         </action>

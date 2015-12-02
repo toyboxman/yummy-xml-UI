@@ -12,6 +12,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>30008951</id>
     <type>Panel</type>
     <active>false</active>
+    <background>/image/1.jpg</background>
 	
 	 <component>
         <id>30008952</id>

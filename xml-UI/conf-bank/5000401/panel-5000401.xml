@@ -159,6 +159,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 			<playMediaAction>
                 <media>./media/audio/zhuanrukahao.wav</media>
             </playMediaAction>
+            
+            <limitInputAction editable="true">
+            	<length>30</length>
+                <enableNumberLimit>true</enableNumberLimit>
+            </limitInputAction>
+            
         </action>
     </component>
 	
