@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>501401</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>501402</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>企业主动付款</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>501403</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>280</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>付款卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>501404</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>280</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>501410</nextCursor>
+                <editable>true</editable>
+</swipe2In1CardAction>
+        </action>
+		
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accoutfrom.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+	
+	<component>
+        <id>501409</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>380</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>转账金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>501410</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>380</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/money.wav</media>
+            </playMediaAction>
+			
+			<limitInputAction>
+                <length>16</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
+        </action>
+		
+    </component>
+	
+	<component>
+        <id>501405</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>480</y>
+                <width>200</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>收款帐号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>501406</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>480</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/zhuanrukahao.wav</media>
+            </playMediaAction>
+          
+             <limitInputAction editable="true">
+             	<length>30</length>
+                <enableNumberLimit>true</enableNumberLimit>
+            </limitInputAction>
+			
+        </action>
+    </component>
+	
+
+	<component>
+        <id>501407</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>580</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>收款户名:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>501408</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>580</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/name.wav</media>
+            </playMediaAction>
+        </action>
+		
+		<action>
+			<virtualKeyboardAction>
+                <start>AVF_Display.exe</start>
+                <stop>AVF_Hide.exe</stop>
+            </virtualKeyboardAction>
+        </action>
+		
+    </component>
+	
+	<component>
+        <id>501411</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>380</x>
+                <y>680</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+	
+    </component>
+	
+	<component>
+        <id>501412</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>680</y>
+                <width>150</width>
+                <heigh>50</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+			
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>501413</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>850</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>qypayQuery</prsCode>
+                <conditions>501404,501406,501408,501410,501412</conditions>
+                <nextStep>  
+                    <nextPanel>501401001</nextPanel> 
+                    <display>501401003</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>501499</nextPanel>  
+                    <display>501497</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>501404</content>
+                        <errMsg>付款卡号不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>501406</content>
+                        <errMsg>收款账号不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>501408</content>
+                        <errMsg>收款户名不能为空</errMsg>
+                    </notNull>
+					
+					<!--<validateCJK>
+                        <content>501408</content>
+                        <errMsg>收款户名必须是中文,请检查是否有空格</errMsg>
+                    </validateCJK>-->
+					
+					<notNull>
+                        <content>501410</content>
+                        <errMsg>转账金额不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>501412</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull>
+					
+					
+                    <template>
+                        <content>501404</content>
+                        <pattern>6217</pattern>
+                        <errMsg>当前使用非本行发行卡片，请使用本行卡</errMsg>
+                    </template>
+				</checkRules>	
+				
+            </sendMsgAction>
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>501414</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>850</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>501</nextPanel>
+            </jumpPanelAction>
+			<setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>501404,501406,501408,501410,501412</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+	
+	<component>
+        <id>501415</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   企业主动付款</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+</panel>

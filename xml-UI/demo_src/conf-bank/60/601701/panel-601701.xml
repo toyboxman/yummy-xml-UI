@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>601701</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>601702</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>信用卡还款</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>601703</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>230</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>付款卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>601704</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>601710</nextCursor>
+                <editable>true</editable>
+</swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accoutfrom.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>601709</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>还款金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>601710</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/money.wav</media>
+            </playMediaAction>
+			<limitInputAction>
+                <length>16</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
+
+        </action>
+    </component>
+
+	<component>
+        <id>601705</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>265</x>
+                <y>430</y>
+                <width>210</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>信用卡卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>601706</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>430</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/credicard.wav</media>
+            </playMediaAction>
+            <limitInputAction editable="true">
+            	<length>30</length>
+           		<enableNumberLimit>true</enableNumberLimit> <!-- set only input number(0-9) -->
+           </limitInputAction>
+        </action>
+    </component>
+
+	<component>
+        <id>601707</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>265</x>
+                <y>530</y>
+                <width>220</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>信用卡户名:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>601708</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>530</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/crediname.wav</media>
+            </playMediaAction>
+        </action>
+		
+		<action>
+			<virtualKeyboardAction>
+                <start>AVF_Display.exe</start>
+                <stop>AVF_Hide.exe</stop>
+            </virtualKeyboardAction>
+        </action>
+		
+    </component>
+	
+	<component>
+        <id>601711</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>370</x>
+                <y>630</y>
+                <width>100</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>601712</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>630</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+			
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+
+        </action>
+    </component>
+	
+    <component>
+        <id>601713</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>850</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+		
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>crediTranQuery</prsCode>
+                <conditions>601704,601706,601708,601710,601712</conditions>
+                <nextStep>  
+                    <nextPanel>601701001</nextPanel> 
+                    <display>601701003</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>601799</nextPanel>  
+                    <display>601797</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>601704</content>
+                        <errMsg>付款卡号不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>601706</content>
+                        <errMsg>信用卡卡号不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>601708</content>
+                        <errMsg>信用卡户名不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>601710</content>
+                        <errMsg>还款金额不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>601712</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull>
+				</checkRules>	
+				
+            </sendMsgAction>
+	
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>601714</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>850</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>601</nextPanel>
+            </jumpPanelAction>
+			 <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>601704,601706,601708,601710,601712</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+    
+    <component>
+        <id>601715</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   信用卡还款</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+</panel>

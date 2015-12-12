@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>401401</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/2.jpg</background>
+	<component>
+        <id>401402</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>社保卡办理状态</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>401403</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>230</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>身份证:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>401404</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>230</y>
+                <width>400</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+       <action>
+            <playMediaAction>
+                <media>./media/audio/shenfengzhenghaoma.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>401405</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>330</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密  码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+
+    </component>
+	
+	<component>
+        <id>401406</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>330</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+			
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>401407</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>650</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+        <action>
+            <sendMsgAction>
+                <prsCode>querysbkblzt</prsCode>
+                <conditions>401404,401406</conditions>
+                <nextStep>  
+                    <nextPanel>401488</nextPanel> 
+                    <display>401486</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>401499</nextPanel>  
+                    <display>401497</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>401404</content>
+                        <errMsg>身份证号不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>401406</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull> 
+                </checkRules>
+            </sendMsgAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>401408</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>750</x>
+                <y>650</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>401</nextPanel>
+            </jumpPanelAction>
+			
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>401404,401406</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+	
+	
+	
+	<component>
+        <id>401409</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   社保卡办理状态</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+</panel>

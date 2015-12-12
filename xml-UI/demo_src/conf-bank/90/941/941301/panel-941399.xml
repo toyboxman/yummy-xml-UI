@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>941399</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/3.jpg</background>
+	 <component>
+        <id>941398</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>指纹绑定失败</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>941397</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>230</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+            <text></text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>40</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>941396</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>700</x>
+                <y>500</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>确定</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>941</nextPanel>
+            </jumpPanelAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>941304,941306,941308</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+	
+	
+</panel>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>201701</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>201702</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>IC卡代缴电费</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201703</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>310</x>
+                <y>230</y>
+                <width>200</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>银行卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>201704</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>201706</nextCursor>
+                <editable>true</editable>
+			</swipe2In1CardAction>
+        </action>
+        
+         <action>
+			<playMediaAction>
+                <media>./media/audio/bankiccardnum.wav</media>
+            </playMediaAction>
+        </action>
+        
+    </component>
+    
+	<component>
+        <id>201705</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>340</x>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>IC卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>201706</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+        
+        <action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读电费IC卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>201706</nextCursor>
+                <editable>true</editable>
+			</swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/dianfeinum.wav</media>
+            </playMediaAction>
+			
+        </action>
+    </component>
+	
+	<component>
+        <id>201707</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>310</x>
+                <y>430</y>
+                <width>200</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>缴费金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201708</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>430</y>
+                <width>290</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/jiaofeimoney.wav</media>
+            </playMediaAction>
+            <limitInputAction>
+                <length>16</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
+        </action>
+		
+    </component>
+	
+	<component>
+        <id>201709</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>530</y>
+                <width>250</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>银行卡密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201710</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>530</y>
+                <width>150</width>
+                <heigh>50</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>201711</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+			
+        </action>
+		
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>payIcElectro</prsCode>
+                <conditions>201704,201706,201708,201710</conditions>
+                <nextStep>  
+                    <nextPanel>201788</nextPanel> 
+                    <display>201786</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>201799</nextPanel>  
+                    <display>201797</display>  
+                </exception>
+            </sendMsgAction>
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>201712</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201</nextPanel>
+            </jumpPanelAction>
+			<setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+        <action>
+            <cleanAction>
+                <conditions>201704,201706,201708,201710</conditions>
+            </cleanAction>
+        </action> 
+    </component>
+	
+	
+</panel>

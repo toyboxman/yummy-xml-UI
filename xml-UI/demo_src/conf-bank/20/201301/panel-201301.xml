@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>201301</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>201302</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>普卡代缴水费</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201303</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>340</x>
+                <y>230</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>缴费号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>201304</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/jiaofeinum.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+    
+     <component>
+        <id>201305</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>950</x>
+                <y>230</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>查询</text>
+        </attribute>
+        <action>
+			<setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+            
+        <action>
+            <sendMsgAction>
+                <prsCode>WaterAccQuery</prsCode>
+                <conditions>201304</conditions>
+                <nextStep>  
+                    <nextPanel>201301001</nextPanel> 
+                    <display>201301003</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>201399</nextPanel>  
+                    <display>201397</display>  
+                </exception>
+                
+               <checkRules>
+               	   <notNull>
+	                   <content>201304</content>
+                       <errMsg>缴费号不能为空</errMsg>
+	               </notNull>
+            	</checkRules>
+     
+            </sendMsgAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201306</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>310</x>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>缴费金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201307</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+	
+		<action>
+			<playMediaAction>
+                <media>./media/audio/jiaofeimoney.wav</media>
+            </playMediaAction>
+            <limitInputAction>
+                <length>16</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201308</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>310</x>
+                <y>430</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>银行卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>201309</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>430</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>201310</nextCursor>
+                <editable>true</editable>
+			</swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accout.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+	
+	<component>
+        <id>201310</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>530</y>
+                <width>250</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>银行卡密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201311</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>530</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+        </action>
+		
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>201312</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+			
+        </action>
+		
+		<action>
+            <sendMsgAction>
+	            <prsCode>payPkWater</prsCode>
+	            <conditions>201304,201307,201309,201311</conditions>
+	            <nextStep>  
+	                <nextPanel>201388</nextPanel> 
+	                <display>201386</display>  
+	            </nextStep>
+	            <exception> 
+	                <nextPanel>201399</nextPanel>  
+	                <display>201397</display>  
+	            </exception>
+                
+	            <checkRules>
+	                <notNull>
+	                    <content>201309</content>
+	                    <errMsg>银行卡号不能为空</errMsg>
+	                </notNull>
+	                <notNull>
+	                    <content>201304</content>
+	                    <errMsg>缴费号不能为空</errMsg>
+	                </notNull>
+	                <notNull>
+	                    <content>201307</content>
+	                    <errMsg>缴费金额不能为空</errMsg>
+	                </notNull>
+	                <notNull>
+	                    <content>201311</content>
+	                    <errMsg>银行卡密码不能为空</errMsg>
+	                </notNull>
+            	</checkRules>
+                
+            </sendMsgAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>201313</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201</nextPanel>
+            </jumpPanelAction>
+			          <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+        
+        <action>
+            <cleanAction>
+                <conditions>201304,201307,201309,201311</conditions>
+            </cleanAction>
+        </action> 
+        
+    </component>
+
+</panel>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>101</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+    <component>
+        <id>102</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>80</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>特种储蓄</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>103</id>
+        <type>Button</type>
+        <attribute>
+            <text>余额查询</text>
+            <rect>
+                <x>200</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>101301</nextPanel>
+                <nextCursor>101304</nextCursor>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>104</id>
+        <type>Button</type>
+        <attribute>
+            <text>同行转账</text>
+            <rect>
+                <x>800</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>101401</nextPanel>
+                <nextCursor>101404</nextCursor>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>105</id>
+        <type>Button</type>
+        <attribute>
+            <text>修改密码</text>
+            <rect>
+                <x>200</x>
+                <y>390</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>101501</nextPanel>
+                <nextCursor>101504</nextCursor>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>106</id>
+        <type>Button</type>
+        <attribute>
+            <text>挂失服务</text>
+            <rect>
+                <x>800</x>
+                <y>390</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>101601</nextPanel>
+                <nextCursor>101604</nextCursor>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>107</id>
+        <type>Button</type>
+        <attribute>
+            <text>活期转定期</text>
+            <rect>
+                <x>200</x>
+                <y>540</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+		 
+        <action>
+            <jumpPanelAction>
+                <nextPanel>101701</nextPanel>
+                <nextCursor>101704</nextCursor>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+	<!--
+	<component>
+        <id>108</id>
+        <type>Button</type>
+        <attribute>
+            <text>定期转活期</text>
+            <rect>
+                <x>200</x>
+                <y>690</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+            
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>101801</nextPanel>
+                <nextCursor>101804</nextCursor>
+            </jumpPanelAction>
+        </action>
+    </component>
+    
+    -->
+    
+    <component>
+        <id>109</id>
+        <type>Button</type>
+        <attribute>
+            <text>交易查询</text>
+            <rect>
+                <x>800</x>
+                <y>540</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>101901</nextPanel>
+                <nextCursor>101904</nextCursor>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>110</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>800</x>
+                <y>800</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>1</nextPanel>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>111</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   请选择特种储蓄交易</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+</panel>

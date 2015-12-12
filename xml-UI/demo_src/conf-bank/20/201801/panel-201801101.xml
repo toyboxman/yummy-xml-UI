@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+     购气请求
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>201801101</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/4.jpg</background>
+	 <component>
+        <id>201801102</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>IC卡代缴燃气费第3步</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>201801103</id>
+        <type>Table</type>
+        <attribute>
+            <rect>
+                <x>250</x>
+                <y>300</y>
+                <width>900</width>
+                <heigh>200</heigh>
+            </rect>
+            <text></text>
+        </attribute>
+       	<action>
+			<showTableAction>
+				<columnNames>项目名称, 项目内容</columnNames>
+			</showTableAction>
+			<setFontAction>
+			<fontSize>22</fontSize>
+			</setFontAction>
+		</action>
+    </component>
+    
+   <component>
+        <id>201801104</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>250</x>
+                <y>650</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>付款卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201801105</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>650</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>201801107</nextCursor>
+                <editable>true</editable>
+            </swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accout.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+    
+   <component>
+        <id>201801106</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>250</x>
+                <y>750</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+	
+    </component>
+	
+	<component>
+        <id>201801107</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>750</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>201801108</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>850</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>下一步</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>payIcGas_3</prsCode>
+                <conditions>201801105,201801107</conditions>
+                <nextStep>  
+                    <nextPanel>201801201</nextPanel> 
+                    <display>201801203</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>201899</nextPanel>  
+                    <display>201897</display>  
+                </exception>
+                <checkRules>
+					<notNull>
+                        <content>201801105</content>
+                        <errMsg>请插入银行卡，并点击下拉菜单进行读卡</errMsg>
+                    </notNull>
+                    <notNull>
+                        <content>201801107</content>
+                        <errMsg>请用密码键盘输入密码</errMsg>
+                    </notNull>
+                </checkRules>
+            </sendMsgAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201801109</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>850</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201</nextPanel>
+            </jumpPanelAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>201806,201801005,201801105,201801107</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+    <component>
+        <id>201801110</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   IC卡代缴燃气费</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+</panel>

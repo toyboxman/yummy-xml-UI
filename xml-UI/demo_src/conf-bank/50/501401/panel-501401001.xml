@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>501401001</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/2.jpg</background>
+	<component>
+        <id>501401002</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>确认企业主动付款信息</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>501401003</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>200</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+            <text></text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>501401004</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>确定付款</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>qypaydo</prsCode>
+                <conditions>501404,501406,501408,501410,501412</conditions>
+                <nextStep>  
+                    <nextPanel>501488</nextPanel> 
+                    <display>501486</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>501499</nextPanel>  
+                    <display>501497</display>  
+                </exception>
+            </sendMsgAction>
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>501401005</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>700</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>取消付款</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>501</nextPanel>
+            </jumpPanelAction>
+			 <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>501404,501406,501408,501410,501412</conditions>
+            </cleanAction>
+        </action>
+    </component>
+	
+	
+</panel>

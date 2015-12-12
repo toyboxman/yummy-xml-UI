@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>941501</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>941502</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>指纹本行转账</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>941503</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>230</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>付款卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>941504</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>941506</nextCursor>
+                <editable>true</editable>
+</swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accoutfrom.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>941505</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>转账金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>941506</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/money.wav</media>
+            </playMediaAction>
+			
+			<limitInputAction>
+                <length>16</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
+        </action>
+		
+    </component>
+	
+	<component>
+        <id>941507</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>430</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>收款帐号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>941508</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>430</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+	
+		<action>
+			<playMediaAction>
+                <media>./media/audio/zhuanrukahao.wav</media>
+            </playMediaAction>
+            
+            <limitInputAction editable="true">
+            	<length>30</length>
+                <enableNumberLimit>true</enableNumberLimit>
+            </limitInputAction>
+            
+        </action>
+    </component>
+	
+	<component>
+        <id>941509</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>530</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>收款户名:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>941510</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>530</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/name.wav</media>
+            </playMediaAction>
+        </action>
+		
+		<action>
+			<virtualKeyboardAction>
+                <start>AVF_Display.exe</start>
+                <stop>AVF_Hide.exe</stop>
+            </virtualKeyboardAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>941511</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>630</y>
+                <width>180</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>指纹密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>941512</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>630</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+        
+       <action>
+            <rwFingerPrintAction>
+                <nextCursor>941513</nextCursor> <!-- next component cursor focuses on after swipe card operation -->
+                <writePrint>false</writePrint> <!-- whether this is finger print registry operation -->
+            </rwFingerPrintAction>
+       </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/finger.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+	
+	
+    <component>
+        <id>941513</id>
+        <type>Button</type>
+		
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>850</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+		
+        <action>
+			
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>samefingQue</prsCode>
+                <conditions>941504,941506,941508,941510,941512</conditions>
+				
+                <nextStep>  
+                    <nextPanel>941501001</nextPanel> 
+                    <display>941501003</display>  
+                </nextStep>
+				
+                <exception> 
+                    <nextPanel>941599</nextPanel>  
+                    <display>941597</display>  
+                </exception>
+				
+				
+				<checkRules>
+					<notNull>
+                        <content>941504</content>
+                        <errMsg>付款卡号不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>941508</content>
+                        <errMsg>收款账号不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>941510</content>
+                        <errMsg>收款户名不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>941506</content>
+                        <errMsg>转账金额不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>941512</content>
+                        <errMsg>指纹密码不能为空</errMsg>
+                    </notNull>
+                    
+                     <template>
+                        <content>941504</content>
+                        <pattern>6217</pattern>
+                        <errMsg>付款账户非本行卡片，请使用本行卡</errMsg>
+                    </template>
+					
+                    <template>
+                        <content>941508</content>
+                        <pattern>6217</pattern>
+                        <errMsg>收款账户非本行卡片，请使用本行卡</errMsg>
+                    </template>
+				</checkRules>	
+				
+				
+            </sendMsgAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>941514</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>850</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>941</nextPanel>
+            </jumpPanelAction>
+			<setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>941504,941506,941508,941510,941512</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+     <component>
+        <id>941515</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   指纹本行转账</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+</panel>

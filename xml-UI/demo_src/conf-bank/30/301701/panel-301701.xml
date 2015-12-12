@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>301701</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>301702</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>修改ATM取款限额</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>301703</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>280</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>301704</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>280</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>301706</nextCursor>
+                <editable>true</editable>
+</swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accout.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+	
+	
+	<component>
+        <id>301705</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>410</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>301706</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>410</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+			
+        </action>
+    </component>
+	
+	
+	
+	
+	<component>
+        <id>301707</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>280</x>
+                <y>540</y>
+                <width>250</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>取款限额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>301708</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>540</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/ATM.wav</media>
+            </playMediaAction>
+			
+			<limitInputAction>
+                <length>16</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
+
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>301709</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>650</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>accoutXiane</prsCode>
+                <conditions>301704,301706,301708</conditions>
+                <nextStep>  
+                    <nextPanel>301788</nextPanel> 
+                    <display>301786</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>301799</nextPanel>  
+                    <display>301797</display>   
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>301704</content>
+                        <errMsg>卡号不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>301706</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>301708</content>
+                        <errMsg>取款限额不能为空</errMsg>
+                    </notNull>
+				</checkRules>	
+				
+            </sendMsgAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>301710</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>750</x>
+                <y>650</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>301</nextPanel>
+            </jumpPanelAction>
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>301704,301706,301708</conditions>
+            </cleanAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>301711</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   修改ATM取款限额</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+</panel>

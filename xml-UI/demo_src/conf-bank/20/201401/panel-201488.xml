@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>201488</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/3.jpg</background>
+	 <component>
+        <id>201487</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>普卡代缴电费成功</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>201486</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>250</x>
+                <y>230</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+            <text></text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>40</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>201485</id>
+        <type>Button</type>
+        <attribute>
+            <text>打印</text>
+            <rect>
+                <x>450</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            
+        </attribute>
+		
+		<action>
+            <setPrinterAction>
+                <header>灵璧农村商业银行</header>
+                <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
+           </setPrinterAction>
+        </action>
+		
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201</nextPanel>
+            </jumpPanelAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>201404,201406,201408,201410</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+	
+	
+	<component>
+        <id>201484</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201</nextPanel>
+            </jumpPanelAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>201404,201406,201408,201410</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+	
+	
+</panel>
