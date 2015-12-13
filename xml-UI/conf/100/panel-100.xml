@@ -249,4 +249,23 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </sendMsgAction>
         </action>
     </component>
+    <component>
+        <id>112</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>810</x>
+                <y>650</y>
+                <width>200</width>
+                <heigh>40</heigh>
+            </rect>
+            <text>上传文件</text>
+        </attribute>
+        <action>
+            <uploadFileAction>
+                <filter>txt</filter>
+                <uploadPath>.</uploadPath>
+            </uploadFileAction>
+        </action>
+    </component>
 </panel>

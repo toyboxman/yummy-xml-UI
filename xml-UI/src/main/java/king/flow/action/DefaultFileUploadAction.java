@@ -17,9 +17,14 @@ import java.util.logging.Level;
 import javax.swing.JButton;
 import javax.swing.JFileChooser;
 import javax.swing.filechooser.FileFilter;
+import javax.swing.filechooser.FileSystemView;
 import king.flow.common.CommonUtil;
 
 /**
+ * how to restrict JFileChooser to navigate to other folder and leak folder
+ * privilege
+ * http://stackoverflow.com/questions/8926146/jfilechooser-want-to-lock-it-to-one-directory
+ * http://stackoverflow.com/questions/32529/how-do-i-restrict-jfilechooser-to-a-directory
  *
  * @author Administrator
  */
@@ -41,7 +46,9 @@ public class DefaultFileUploadAction extends DefaultBaseAction {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (CommonUtil.usbDeviceConnected()) {
-                    JFileChooser jfc = new JFileChooser(CommonUtil.getUsbDevice());
+                    final File usbDevice = CommonUtil.getUsbDevice();
+                    RestrictedFSView restrictedFSV = new RestrictedFSView(usbDevice);
+                    JFileChooser jfc = new JFileChooser(usbDevice, restrictedFSV);
                     jfc.setFileSelectionMode(JFileChooser.FILES_ONLY);
                     jfc.setMultiSelectionEnabled(false);
                     jfc.setAcceptAllFileFilterUsed(false);
@@ -99,5 +106,40 @@ public class DefaultFileUploadAction extends DefaultBaseAction {
                 }
             }
         });
+    }
+
+    static class RestrictedFSView extends FileSystemView {
+
+        private final File[] rootDirectories;
+
+        RestrictedFSView(File rootDirectory) {
+            this.rootDirectories = new File[]{rootDirectory};
+        }
+
+        RestrictedFSView(File[] rootDirectories) {
+            this.rootDirectories = rootDirectories;
+        }
+
+        @Override
+        public File createNewFolder(File containingDir) throws IOException {
+            CommonUtil.getLogger(DefaultFileUploadAction.class.getName()).log(Level.INFO,
+                                "disallow to create new folder {0} in external disk", containingDir.getPath());
+            return null;
+        }
+
+        @Override
+        public File[] getRoots() {
+            return rootDirectories;
+        }
+
+        @Override
+        public boolean isRoot(File file) {
+            for (File root : rootDirectories) {
+                if (root.equals(file)) {
+                    return true;
+                }
+            }
+            return false;
+        }
     }
 }
