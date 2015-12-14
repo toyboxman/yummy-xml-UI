@@ -67,7 +67,25 @@ import king.flow.action.business.Read2In1CardAction;
 import king.flow.action.business.ShowClockAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
+import static king.flow.common.CommonConstants.INSERT_IC_ACTION;
+import static king.flow.common.CommonConstants.LIMIT_INPUT_ACTION;
+import static king.flow.common.CommonConstants.OPEN_BROWSER_ACTION;
+import static king.flow.common.CommonConstants.OPEN_VIRTUAL_KEYBOARD_ACTION;
+import static king.flow.common.CommonConstants.PLAY_MEDIA_ACTION;
+import static king.flow.common.CommonConstants.PLAY_VIDEO_ACTION;
+import static king.flow.common.CommonConstants.PRINT_PASSBOOK_ACTION;
+import static king.flow.common.CommonConstants.PRINT_RECEIPT_ACTION;
+import static king.flow.common.CommonConstants.READ_WRITE_FINGERPRINT_ACTION;
+import static king.flow.common.CommonConstants.RUN_COMMAND_ACTION;
+import static king.flow.common.CommonConstants.SET_FONT_ACTION;
+import static king.flow.common.CommonConstants.SHOW_CLOCK_ACTION;
+import static king.flow.common.CommonConstants.SHOW_TABLE_ACTION;
+import static king.flow.common.CommonConstants.SWIPE_2IN1_CARD_ACTION;
+import static king.flow.common.CommonConstants.SWIPE_CARD_ACTION;
 import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
+import static king.flow.common.CommonConstants.UPLOAD_FILE_ACTION;
+import static king.flow.common.CommonConstants.USE_TIP_ACTION;
+import static king.flow.common.CommonConstants.WRITE_IC_ACTION;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.adjustByResolution;
 import static king.flow.common.CommonUtil.buildListParameters;
@@ -328,6 +346,7 @@ public class MainWindow {
 
             List<Decorator> decorators = panel.getDecorator();
             for (Decorator decorator : decorators) {
+                validateActionConfig(decorator.getComponent(), panel, pageURI);
                 setupAction(decorator.getComponent(), panel);
             }
         }
@@ -348,11 +367,54 @@ public class MainWindow {
         List<king.flow.view.Action> actions = component.getAction();
         for (king.flow.view.Action action : actions) {
             validateJumpAction(action.getJumpPanelAction(), component, panel, pageURI);
-            validateCleanAction(action.getCleanAction(), component, panel, pageURI);
-            validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
-            validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
-            validateShowComboBoxAction(action.getShowComboBoxAction(), component, panel, pageURI);
+
             validateDefinedAction(action.getCustomizedAction(), component, panel, pageURI);
+
+            validateSetFontAction(action.getSetFontAction(), component, panel, pageURI);
+
+            validateShowTableAction(action.getShowTableAction(), component, panel, pageURI);
+
+            validateShowComboBoxAction(action.getShowComboBoxAction(), component, panel, pageURI);
+
+            validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
+
+            validateCleanAction(action.getCleanAction(), component, panel, pageURI);
+
+            validateLimitInputAction(action.getLimitInputAction(), component, panel, pageURI);
+
+            validatePlayMediaAction(action.getPlayMediaAction(), component, panel, pageURI);
+
+            validateVirtualKeyboardAction(action.getVirtualKeyboardAction(), component, panel, pageURI);
+
+            validateLoadWebAction(action.getWebLoadAction(), component, panel, pageURI);
+
+            validateRunCommandAction(action.getRunCommandAction(), component, panel, pageURI);
+
+            validateSetPrinterAction(action.getSetPrinterAction(), component, panel, pageURI);
+
+            validateUseTipAction(action.getUseTipAction(), component, panel, pageURI);
+
+            validateInsertICardAction(action.getInsertICardAction(), component, panel, pageURI);
+
+            validateWriteICardAction(action.getWriteICardAction(), component, panel, pageURI);
+
+            validateUploadFileAction(action.getUploadFileAction(), component, panel, pageURI);
+
+            validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
+
+            validateSwipeCardAction(action.getSwipeCardAction(), component, panel, pageURI);
+
+            validateReadWriteFingerPrintAction(action.getRwFingerPrintAction(), component, panel, pageURI);
+
+            validateOpenBroswerAction(action.getOpenBrowserAction(), component, panel, pageURI);
+
+            validateSwipe2In1CardAction(action.getSwipe2In1CardAction(), component, panel, pageURI);
+
+            validatePrintPassbookAction(action.getPrintPassbookAction(), component, panel, pageURI);
+
+            validatePlayVideoAction(action.getPlayVideoAction(), component, panel, pageURI);
+
+            validateShowClockAction(action.getShowClockAction(), component, panel, pageURI);
         }
     }
 
@@ -403,26 +465,6 @@ public class MainWindow {
             } else {
                 checkReachableBlock(upCursor, actionName, "downCursor", component, panel, pageURI);
             }
-        }
-    }
-
-    public void checkReachableBlock(int blockId, String actionName, String propertyName,
-            Component component, Panel panel, String pageURI) throws HeadlessException {
-        List<Component> pageComponents = panel.getComponent();
-        boolean existInPanel = false;
-        for (Component cp : pageComponents) {
-            if (cp.getId() == blockId) {
-                existInPanel = true;
-                break;
-            }
-        }
-        if (!existInPanel) {
-            String configErrMsgFooter = " of " + propertyName + " property";
-            String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
-                    .append(actionName).append('\n')
-                    .append("with unreachable ").append(propertyName).append('[').append(blockId).append(']')
-                    .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
-            CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
         }
     }
 
@@ -478,6 +520,140 @@ public class MainWindow {
                 final String checkRulesPropertyName = sendMsgAction.getCheckRules().getClass().getSimpleName();
                 checkRulesParameter(sendMsgAction.getCheckRules(), actionName, checkRulesPropertyName, component, panel, pageURI);
             }
+        }
+    }
+
+    private void validateSetFontAction(king.flow.view.Action.SetFontAction setFontAction, Component component, Panel panel, String pageURI) {
+        if (setFontAction != null) {
+            checkSupportedAction(component, SET_FONT_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateShowTableAction(king.flow.view.Action.ShowTableAction showTableAction, Component component, Panel panel, String pageURI) {
+        if (showTableAction != null) {
+            checkSupportedAction(component, SHOW_TABLE_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateLimitInputAction(king.flow.view.Action.LimitInputAction limitInputAction, Component component, Panel panel, String pageURI) {
+        if (limitInputAction != null) {
+            checkSupportedAction(component, LIMIT_INPUT_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validatePlayMediaAction(king.flow.view.Action.PlayMediaAction playMediaAction, Component component, Panel panel, String pageURI) {
+        if (playMediaAction != null) {
+            checkSupportedAction(component, PLAY_MEDIA_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateVirtualKeyboardAction(king.flow.view.Action.VirtualKeyboardAction virtualKeyboardAction, Component component, Panel panel, String pageURI) {
+        if (virtualKeyboardAction != null) {
+            checkSupportedAction(component, OPEN_VIRTUAL_KEYBOARD_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateRunCommandAction(king.flow.view.Action.RunCommandAction runCommandAction, Component component, Panel panel, String pageURI) {
+        if (runCommandAction != null) {
+            checkSupportedAction(component, RUN_COMMAND_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateSetPrinterAction(king.flow.view.Action.SetPrinterAction setPrinterAction, Component component, Panel panel, String pageURI) {
+        if (setPrinterAction != null) {
+            checkSupportedAction(component, PRINT_RECEIPT_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateUseTipAction(king.flow.view.Action.UseTipAction useTipAction, Component component, Panel panel, String pageURI) {
+        if (useTipAction != null) {
+            checkSupportedAction(component, USE_TIP_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateInsertICardAction(king.flow.view.Action.InsertICardAction insertICardAction, Component component, Panel panel, String pageURI) {
+        if (insertICardAction != null) {
+            checkSupportedAction(component, INSERT_IC_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateWriteICardAction(MsgSendAction writeICardAction, Component component, Panel panel, String pageURI) {
+        if (writeICardAction != null) {
+            checkSupportedAction(component, WRITE_IC_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateUploadFileAction(king.flow.view.Action.UploadFileAction uploadFileAction, Component component, Panel panel, String pageURI) {
+        if (uploadFileAction != null) {
+            checkSupportedAction(component, UPLOAD_FILE_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateSwipeCardAction(king.flow.view.Action.SwipeCardAction swipeCardAction, Component component, Panel panel, String pageURI) {
+        if (swipeCardAction != null) {
+            checkSupportedAction(component, SWIPE_CARD_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateReadWriteFingerPrintAction(king.flow.view.Action.RwFingerPrintAction rwFingerPrintAction, Component component, Panel panel, String pageURI) {
+        if (rwFingerPrintAction != null) {
+            checkSupportedAction(component, READ_WRITE_FINGERPRINT_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateOpenBroswerAction(king.flow.view.Action.OpenBrowserAction openBrowserAction, Component component, Panel panel, String pageURI) {
+        if (openBrowserAction != null) {
+            checkSupportedAction(component, OPEN_BROWSER_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateSwipe2In1CardAction(king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction, Component component, Panel panel, String pageURI) {
+        if (swipe2In1CardAction != null) {
+            checkSupportedAction(component, SWIPE_2IN1_CARD_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validatePrintPassbookAction(king.flow.view.Action.PrintPassbookAction printPassbookAction, Component component, Panel panel, String pageURI) {
+        if (printPassbookAction != null) {
+            checkSupportedAction(component, PRINT_PASSBOOK_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validatePlayVideoAction(king.flow.view.Action.PlayVideoAction playVideoAction, Component component, Panel panel, String pageURI) {
+        if (playVideoAction != null) {
+            checkSupportedAction(component, PLAY_VIDEO_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateShowClockAction(king.flow.view.Action.ShowClockAction showClockAction, Component component, Panel panel, String pageURI) {
+        if (showClockAction != null) {
+            checkSupportedAction(component, SHOW_CLOCK_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateLoadWebAction(king.flow.view.Action.WebLoadAction webLoadAction, Component component, Panel panel, String pageURI) {
+        if (webLoadAction != null) {
+            checkSupportedAction(component, webLoadAction.getClass().getSimpleName(), panel, pageURI);
+        }
+    }
+
+    public void checkReachableBlock(int blockId, String actionName, String propertyName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        List<Component> pageComponents = panel.getComponent();
+        boolean existInPanel = false;
+        for (Component cp : pageComponents) {
+            if (cp.getId() == blockId) {
+                existInPanel = true;
+                break;
+            }
+        }
+        if (!existInPanel) {
+            String configErrMsgFooter = " of " + propertyName + " property";
+            String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                    .append(actionName).append('\n')
+                    .append("with unreachable ").append(propertyName).append('[').append(blockId).append(']')
+                    .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+            CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
         }
     }
 
@@ -785,7 +961,7 @@ public class MainWindow {
 
             doWriteICardAction(actionNode, component);
 
-            doChooseFileAction(actionNode, component);
+            doUploadFileAction(actionNode, component);
 
             doMoveCursorAction(actionNode, component);
 
@@ -938,7 +1114,7 @@ public class MainWindow {
         }
     }
 
-    private void doChooseFileAction(king.flow.view.Action actionNode, Component component) {
+    private void doUploadFileAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.UploadFileAction fileUploadAction = actionNode.getUploadFileAction();
         if (fileUploadAction != null) {
             String filter = fileUploadAction.getFilter();
