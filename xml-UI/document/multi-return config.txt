@@ -1,0 +1,30 @@
+多返回结果配置说明
+
+现在UI可以支持接受处理交易多个返回结果情况，这种配置主要针对如下需求：
+1.从第三方获取账户名或者欠费数据
+2.希望在UI上显示多个返回结果
+
+配置主要在配置文档中关于sendMsgAction的章节，其中有新增的Advanced action configuration说明
+变化在nextStep标签配置上
+<nextStep> 
+        <nextPanel>300</nextPanel> 
+        <display>311, 312</display>  --这个地方原先只支持一个显示控件，现在可以支持多个  
+</nextStep>
+
+前置返回数据时候，就需要根据这种情况返回JSON的数组数据，样例如下：
+前端向前置查询水费欠费消息，前置向第三方发送水表号查询欠费，然后返回前端
+...<okmsg>["水表号:123456 用户地址:北京礼士路1105号", "120"]</okmsg>...
+返回结果会按指定的顺序显示，
+311控件上会显示 "水表号:123456 用户地址:北京礼士路1105号"
+312控件上显示欠费数 120元
+
+失败冲账说明
+1.冲账报文的xml tag就叫bid 表示balanceID； uid表示当前冲账操作的流水号，bid用在冲账报文中表示冲掉的那一条流水号
+2.冲账报文格式如下这个样子：
+1.原报文
+INFO: TLS Message : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><counter>3</counter><uid>20150817145454534229</uid><prscode>buygas</prscode><terminalid>00000001</terminalid><branchno>test_bank_division</branchno><N_370005>111111</N_370005><N_370004>123</N_370004><N_370006>123</N_370006></TLS>
+
+2.写入ic卡失败后，发出冲账报文
+INFO: TLS Message : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><counter>4</counter><uid>20150817145454615229</uid><bid>20150817145454534229</bid><prscode>buygas</prscode><terminalid>00000001</terminalid><branchno>test_bank_division</branchno><cargo></cargo><N_370005>111111</N_370005><N_370004>123</N_370004><N_370006>123</N_370006></TLS>
+
+二者区别在于多一个bid
