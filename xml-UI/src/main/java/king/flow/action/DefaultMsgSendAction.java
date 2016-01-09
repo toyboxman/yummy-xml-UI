@@ -6,7 +6,6 @@
 package king.flow.action;
 
 import com.github.jsonj.JsonArray;
-import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
 import com.github.jsonj.exceptions.JsonParseException;
 import com.github.jsonj.tools.JsonParser;
@@ -52,6 +51,8 @@ import king.flow.data.TLSResult;
 import king.flow.swing.JXMsgPanel;
 import king.flow.view.MsgSendAction;
 import king.flow.view.Rules;
+import org.json.simple.JSONArray;
+import org.json.simple.parser.JSONParser;
 
 /**
  *
@@ -181,7 +182,8 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
     private void showOnComponent(Object metaNode, TLSResult result) {
         Component meta = (Component) metaNode;
         Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
-                "display component type : {0}", meta.getType().value());
+                "Display component[{0}] type : {1}",
+                new Object[]{String.valueOf(meta.getId()), meta.getType().value()});
         switch (meta.getType()) {
             case TABLE:
                 JsonParser jsonParser = new JsonParser();
@@ -204,6 +206,9 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 Integer total = jsonObj.getInt(ADVANCED_TABLE_TOTAL_PAGES);
                 Integer page = jsonObj.getInt(ADVANCED_TABLE_CURRENT_PAGE);
                 arrays = jsonObj.getArray(ADVANCED_TABLE_VALUE);
+                Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
+                        "Dump JSON DATA for ADVANCED_TABLE: \n{0} \ntotal: {1} \npage: {2}",
+                        new Object[]{jsonObj.toString(), total, page});
                 JXMsgPanel advanceTable = getBlock(meta.getId(), JXMsgPanel.class);
                 advanceTable.refreshTotalPages(total);
                 advanceTable.refreshCurrentPage(page);
@@ -238,25 +243,30 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 TLSResult result = new TLSResult();
                 result.setRetCode(retCode);
                 result.setErrMsg(msg);
-                
+
                 if (errDisplayList.size() == 1) {
                     showOnComponent(getBlockMeta(errDisplayList.get(0)), result);
                 } else {
-                    JsonParser jsonParser = new JsonParser();
-                    JsonElement element = jsonParser.parse(result.getErrMsg());
-                    if (element.isArray()) {
-                        JsonArray jsonArray = element.asArray();
-                        int len = Integer.min(errDisplayList.size(), jsonArray.size());
-                        for (int i = 0; i < len; i++) {
-                            TLSResult freshResult = new TLSResult(result.getRetCode(),
-                                    result.getOkMsg(), jsonArray.get(i).toString(), result.getPrtMsg());
-                            showOnComponent(getBlockMeta(errDisplayList.get(i)), freshResult);
+                    try {
+                        JSONParser jsonParser = new JSONParser();
+                        Object element = jsonParser.parse(result.getErrMsg());
+                        if (element instanceof JSONArray) {
+                            JSONArray jsonArray = (JSONArray) element;
+                            int len = Integer.min(errDisplayList.size(), jsonArray.size());
+                            for (int i = 0; i < len; i++) {
+                                TLSResult freshResult = new TLSResult(result.getRetCode(),
+                                        result.getOkMsg(), jsonArray.get(i).toString(), result.getPrtMsg());
+                                showOnComponent(getBlockMeta(errDisplayList.get(i)), freshResult);
+                            }
+                        } else {
+                            showOnComponent(getBlockMeta(errDisplayList.get(0)), result);
                         }
-                    } else {
-                        showOnComponent(getBlockMeta(errDisplayList.get(0)), result);
+                    } catch (Exception e) {
+                        getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
+                                "Exception encounters during failed json value parsing : \n{0}", e);
                     }
                 }
-                
+
                 panelJump(error.getNextPanel());
             }
         });
@@ -269,18 +279,23 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 if (doneDisplayList.size() == 1) {
                     showOnComponent(getBlockMeta(doneDisplayList.get(0)), result);
                 } else {
-                    JsonParser jsonParser = new JsonParser();
-                    JsonElement element = jsonParser.parse(result.getOkMsg());
-                    if (element.isArray()) {
-                        JsonArray jsonArray = element.asArray();
-                        int len = Integer.min(doneDisplayList.size(), jsonArray.size());
-                        for (int i = 0; i < len; i++) {
-                            TLSResult freshResult = new TLSResult(result.getRetCode(),
-                                    jsonArray.get(i).toString(), result.getErrMsg(), result.getPrtMsg());
-                            showOnComponent(getBlockMeta(doneDisplayList.get(i)), freshResult);
+                    try {
+                        JSONParser jsonParser = new JSONParser();
+                        Object element = jsonParser.parse(result.getOkMsg());
+                        if (element instanceof JSONArray) {
+                            JSONArray jsonArray = (JSONArray) element;
+                            int len = Integer.min(doneDisplayList.size(), jsonArray.size());
+                            for (int i = 0; i < len; i++) {
+                                TLSResult freshResult = new TLSResult(result.getRetCode(),
+                                        jsonArray.get(i).toString(), result.getErrMsg(), result.getPrtMsg());
+                                showOnComponent(getBlockMeta(doneDisplayList.get(i)), freshResult);
+                            }
+                        } else {
+                            showOnComponent(getBlockMeta(doneDisplayList.get(0)), result);
                         }
-                    } else {
-                        showOnComponent(getBlockMeta(doneDisplayList.get(0)), result);
+                    } catch (Exception e) {
+                        getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
+                                "Exception encounters during successful json value parsing : \n{0}", e);
                     }
                 }
 
@@ -316,7 +331,8 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 String err = notNullMsg.get(set.getKey()) == null
                         ? CommonUtil.getResourceMsg("operation.submit.inadequate.prompt")
                         : notNullMsg.get(set.getKey());
-                getLogger(DefaultMsgSendAction.class.getName()).info(err + " for component id " + set.getKey() + " value " + v);
+                getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO, "{0} for component id {1} value {2}",
+                        new Object[]{err, set.getKey(), v});
                 CommonUtil.showMsg(owner.getTopLevelAncestor(), err);
                 return false;
             }
@@ -395,7 +411,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
             Thread.sleep(1000);
             Map<Integer, String> conditionValues = retrieveConditionValues();
             String msg = createTLSMessage(prsCode, conditionValues);
-            getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO, "TLS Message : {0}", msg);
+            getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO, "Sending TLS Message : \n{0}", msg);
             String resp = null;
             try {
                 if (cmdCode < 0) {
@@ -416,7 +432,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 String value = get();
                 if (value != null) {
                     value = value.trim();
-                    getLogger(CommunicationWorker.class.getName()).log(Level.INFO, "Retrieve response from server : {0}", value);
+                    getLogger(CommunicationWorker.class.getName()).log(Level.FINE, "Retrieve response from server : \n{0}", value);
                 } else {
                     getLogger(CommunicationWorker.class.getName()).log(Level.INFO, "Retrieve no response from server");
 //                    showErrorMsg(owner.getTopLevelAncestor(), "Receive nothing from server");
@@ -426,7 +442,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
 
                 TLSResult result = parseTLSMessage(value);
                 getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
-                        "Transform TLSResult : {0}", result);
+                        "Transform response to {0}", result);
                 if (result == null) {
                     getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                             "Receive invalidated result {0} from server", value);
