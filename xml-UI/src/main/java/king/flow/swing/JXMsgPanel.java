@@ -34,7 +34,7 @@ import static king.flow.common.CommonUtil.getResourceMsg;
 public class JXMsgPanel extends JPanel {
 
     static final String PAGE_SUMMARY = getResourceMsg("advanced.table.text.summary");
-    static final String REPLACE_X = "X";
+    static final String REPLACE_X = " ";
     public static final String NEXT_ACTION_COMMAND = "next";
     public static final String PREVIOUS_ACTION_COMMAND = "previous";
     public static final String JUMP_ACTION_COMMAND = "jump";
