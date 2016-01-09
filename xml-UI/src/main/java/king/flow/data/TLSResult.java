@@ -71,8 +71,8 @@ public class TLSResult {
 
     @Override
     public String toString() {
-        return new StringBuilder().append("TLSResult{").append("retCode=").append(retCode)
-                .append(", okMsg=").append(okMsg).append(", errMsg=").append(errMsg)
-                .append(", prtMsg=").append(prtMsg).append("}").toString();
+        return new StringBuilder().append("TLSResult : {\n").append("retCode=").append(retCode)
+                .append(",\nokMsg=").append(okMsg).append(",\nerrMsg=").append(errMsg)
+                .append(",\nprtMsg=").append(prtMsg).append("\n}").toString();
     }
 }

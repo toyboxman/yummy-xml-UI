@@ -79,11 +79,12 @@ public class DefaultCleanAction extends DefaultBaseAction {
                             break;
                         default:
                             Logger.getLogger(DefaultCleanAction.CleanActionImpl.class.getName()).log(Level.INFO,
-                                    "Invalidated clean component type : {0}", metaNode.getClass().getName());
+                                    "Clean invalid component[{0}] type[{1}]",
+                                    new Object[]{String.valueOf(((Component) metaNode).getId()), ((Component) metaNode).getType()});
                     }
                 } else {
                     Logger.getLogger(DefaultCleanAction.CleanActionImpl.class.getName()).log(Level.INFO,
-                            "Invalidated clean component type : {0}", metaNode.getClass().getName());
+                            "Invalid component type[{0}] for clean operation", metaNode.getClass().getName());
                 }
 
             }
