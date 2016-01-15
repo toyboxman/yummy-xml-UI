@@ -61,7 +61,7 @@ public class WriteCardAction extends DefaultMsgSendAction {
             Thread.sleep(1000);
             Map<Integer, String> conditionValues = retrieveConditionValues();
             String msg = createTLSMessage(prsCode, conditionValues);
-            getLogger(WriteCardTask.class.getName()).log(Level.INFO, "TLS Message : {0}", msg);
+            getLogger(WriteCardTask.class.getName()).log(Level.INFO, "Sending writing card TLS Message : \n{0}", msg);
             String resp = null;
             try {
                 if (cmdCode < 0) {
@@ -85,10 +85,10 @@ public class WriteCardAction extends DefaultMsgSendAction {
 
             TLSResult result = parseTLSMessage(resp);
             getLogger(WriteCardTask.class.getName()).log(Level.INFO,
-                    "Transform TLSResult : {0}", result);
+                    "Transform response to : \n{0}", result);
             if (result == null) {
                 getLogger(WriteCardTask.class.getName()).log(Level.INFO,
-                        "Receive invalidated result {0} from server", resp);
+                        "Receive invalid result {0} from server", resp);
                 showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.invalidated.response.prompt"));
                 return resp;
             } else {
