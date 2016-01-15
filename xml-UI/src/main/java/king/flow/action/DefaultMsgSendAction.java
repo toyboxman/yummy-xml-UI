@@ -184,35 +184,49 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                 "Display component[{0}] type : {1}",
                 new Object[]{String.valueOf(meta.getId()), meta.getType().value()});
+        JsonParser jsonParser;
+        JsonArray arrays;
         switch (meta.getType()) {
             case TABLE:
-                JsonParser jsonParser = new JsonParser();
-                JsonArray arrays = jsonParser.parse(result.getOkMsg()).asArray();
-                JTable table = getBlock(meta.getId(), JTable.class);
-                DefaultTableModel model = (DefaultTableModel) table.getModel();
-                model.setRowCount(0);
-                for (Iterator it = arrays.iterator(); it.hasNext();) {
-                    JsonArray row = (JsonArray) it.next();
-                    Vector<String> rowData = new Vector<>();
-                    for (Object v : row) {
-                        rowData.add(v.toString());
+                try {
+                    jsonParser = new JsonParser();
+                    arrays = jsonParser.parse(result.getOkMsg()).asArray();
+                    JTable table = getBlock(meta.getId(), JTable.class);
+                    DefaultTableModel model = (DefaultTableModel) table.getModel();
+                    model.setRowCount(0);
+                    for (Iterator it = arrays.iterator(); it.hasNext();) {
+                        JsonArray row = (JsonArray) it.next();
+                        Vector<String> rowData = new Vector<>();
+                        for (Object v : row) {
+                            rowData.add(v.toString());
+                        }
+                        model.addRow(rowData);
                     }
-                    model.addRow(rowData);
+                } catch (Exception e) {
+                    Logger.getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
+                            "Invalid array data [ {0} ] for TABLE component[{1}], \n exception is {2}",
+                            new Object[]{result.getOkMsg(), String.valueOf(meta.getId()), e});
                 }
                 break;
             case ADVANCED_TABLE:
-                jsonParser = new JsonParser();
-                JsonObject jsonObj = jsonParser.parse(result.getOkMsg()).asObject();
-                Integer total = jsonObj.getInt(ADVANCED_TABLE_TOTAL_PAGES);
-                Integer page = jsonObj.getInt(ADVANCED_TABLE_CURRENT_PAGE);
-                arrays = jsonObj.getArray(ADVANCED_TABLE_VALUE);
-                Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
-                        "Dump JSON DATA for ADVANCED_TABLE: \n{0} \ntotal: {1} \npage: {2}",
-                        new Object[]{jsonObj.toString(), total, page});
-                JXMsgPanel advanceTable = getBlock(meta.getId(), JXMsgPanel.class);
-                advanceTable.refreshTotalPages(total);
-                advanceTable.refreshCurrentPage(page);
-                advanceTable.refreshTable(arrays);
+                try {
+                    jsonParser = new JsonParser();
+                    JsonObject jsonObj = jsonParser.parse(result.getOkMsg()).asObject();
+                    Integer total = jsonObj.getInt(ADVANCED_TABLE_TOTAL_PAGES);
+                    Integer page = jsonObj.getInt(ADVANCED_TABLE_CURRENT_PAGE);
+                    arrays = jsonObj.getArray(ADVANCED_TABLE_VALUE);
+                    Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
+                            "Dump JSON DATA for ADVANCED_TABLE: \n{0} \ntotal: {1} \npage: {2}",
+                            new Object[]{jsonObj.toString(), total, page});
+                    JXMsgPanel advanceTable = getBlock(meta.getId(), JXMsgPanel.class);
+                    advanceTable.refreshTotalPages(total);
+                    advanceTable.refreshCurrentPage(page);
+                    advanceTable.refreshTable(arrays);
+                } catch (Exception e) {
+                    Logger.getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
+                            "Invalid complex data [ {0} ] for ADVANCED_TABLE component[{1}] \n exception is {2}",
+                            new Object[]{result.getOkMsg(), String.valueOf(meta.getId()), e});
+                }
                 break;
             case LABEL:
                 JLabel label = getBlock(meta.getId(), JLabel.class);
