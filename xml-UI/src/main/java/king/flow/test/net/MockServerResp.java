@@ -50,7 +50,7 @@ public class MockServerResp {
         String result = null;
         try {
             TLSProcessor tp = new TLSProcessor().init();
-            result = tp.mockGeneralResp(NORMAL, terminalId, okMsg, "", "", "");
+            result = tp.mockGeneralResp(NORMAL, terminalId, okMsg, "", "", "", null);
         } catch (JAXBException ex) {
             Logger.getLogger(MockServerResp.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -58,26 +58,22 @@ public class MockServerResp {
         return result;
     }
 
-    public static final String mockSuccessfulGeneralResp(String terminalId, String okMsg, String prtMsg) {
-        if (prtMsg != null) {
-            String result = null;
-            try {
-                TLSProcessor tp = new TLSProcessor().init();
-                result = tp.mockGeneralResp(NORMAL, terminalId, okMsg, "", prtMsg, "");
-            } catch (JAXBException ex) {
-                Logger.getLogger(MockServerResp.class.getName()).log(Level.SEVERE, null, ex);
-            }
-            return result;
-        } else {
-            return mockSuccessfulGeneralResp(terminalId, okMsg);
+    public static final String mockSuccessfulGeneralResp(String terminalId, String okMsg, String prtMsg, String redirection) {
+        String result = null;
+        try {
+            TLSProcessor tp = new TLSProcessor().init();
+            result = tp.mockGeneralResp(NORMAL, terminalId, okMsg, "", prtMsg, "", redirection);
+        } catch (JAXBException ex) {
+            Logger.getLogger(MockServerResp.class.getName()).log(Level.SEVERE, null, ex);
         }
+        return result;
     }
 
     public static final String mockFailedGeneralResp(String terminalId, String errMsg) {
         String result = null;
         try {
             TLSProcessor tp = new TLSProcessor().init();
-            result = tp.mockGeneralResp(ABNORMAL, terminalId, "", errMsg, "", "");
+            result = tp.mockGeneralResp(ABNORMAL, terminalId, "", errMsg, "", "", null);
         } catch (JAXBException ex) {
             Logger.getLogger(MockServerResp.class.getName()).log(Level.SEVERE, null, ex);
         }

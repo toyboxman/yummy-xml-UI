@@ -2,6 +2,7 @@ package king.flow.design;
 
 import java.io.StringReader;
 import java.io.StringWriter;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.logging.Level;
@@ -124,14 +125,32 @@ public class TLSProcessor {
         return buildTLS(code, ID, ok);
     }
 
-    public String mockGeneralResp(int retCode, String id, String okmsg, String errmsg, String prtmsg, String cargomsg) {
+    public String mockGeneralResp(int retCode, String id, String okmsg, String errmsg, String prtmsg, String cargomsg, String redirection) {
+        List<JAXBElement> payload = new ArrayList<>();
         JAXBElement<Integer> code = factory.createRetcode(retCode);
+        payload.add(code);
         JAXBElement<String> ID = factory.createTerminalid(id);
+        payload.add(ID);
         JAXBElement<String> ok = factory.createOkmsg(okmsg);
+        payload.add(ok);
         JAXBElement<String> err = factory.createErrmsg(errmsg);
-        JAXBElement<String> cargo = factory.createCargo(cargomsg);
-        JAXBElement<String> prt = buildJAXBElement(prtmsg, TLSResult.PRT_MSG);
-        return buildTLS(code, ID, ok, err, prt, cargo);
+        payload.add(err);
+        
+        if (cargomsg != null) {
+            JAXBElement<String> cargo = factory.createCargo(cargomsg);
+            payload.add(cargo);
+        }
+        
+        if (prtmsg != null) {
+            JAXBElement<String> prt = buildJAXBElement(prtmsg, TLSResult.PRT_MSG);
+            payload.add(prt);
+        }
+        
+        if (redirection != null) {
+            JAXBElement<String> redirectionPage = factory.createRedirection(redirection);
+            payload.add(redirectionPage);
+        }
+        return buildTLS(payload);
     }
 
     private <T> JAXBElement<T> buildJAXBElement(T value, String name) {

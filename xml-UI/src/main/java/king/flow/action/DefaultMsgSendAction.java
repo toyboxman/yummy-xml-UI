@@ -50,6 +50,7 @@ import static king.flow.common.CommonUtil.shapeErrPrompt;
 import king.flow.data.TLSResult;
 import king.flow.swing.JXMsgPanel;
 import king.flow.view.MsgSendAction;
+import king.flow.view.Panel;
 import king.flow.view.Rules;
 import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
@@ -314,7 +315,30 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 }
 
                 CommonUtil.cachePrintMsg(result.getPrtMsg());
-                panelJump(next.getNextPanel());
+                if (result.getRedirection() != null) {
+                    String redirection = result.getRedirection();
+                    getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
+                            "Be forced to jump to page[{0}], ignore designated page[{1}]",
+                            new Object[]{redirection, String.valueOf(next.getNextPanel())});
+                    int forwardPage = 0;
+                    try {
+                        forwardPage = Integer.parseInt(redirection);
+                    } catch (Exception e) {
+                        panelJump(next.getNextPanel());
+                        return;
+                    }
+                    Object blockMeta = getBlockMeta(forwardPage);
+                    if (blockMeta == null || !(blockMeta instanceof Panel)) {
+                        getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
+                                "Be forced to jump to page[{0}], but page[{0}] is invalid Panel type. It is type[{1}]",
+                                new Object[]{redirection, (blockMeta == null ? "NULL" : blockMeta.getClass().getSimpleName())});
+                        panelJump(next.getNextPanel());
+                        return;
+                    }
+                    panelJump(forwardPage);
+                } else {
+                    panelJump(next.getNextPanel());
+                }
             }
         });
     }

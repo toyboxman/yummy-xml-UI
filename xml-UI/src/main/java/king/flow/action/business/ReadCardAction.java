@@ -98,7 +98,7 @@ public class ReadCardAction extends DefaultAction<JComboBox> {
             owner.putClientProperty("Nimbus.Overrides", ui_conf);
             owner.putClientProperty("Nimbus.Overrides.InheritDefaults", false);
             //        SwingUtilities.updateComponentTreeUI(owner);
-            limitUserInput();
+//            limitUserInput();
         } else {
             owner.setEditable(false);
         }

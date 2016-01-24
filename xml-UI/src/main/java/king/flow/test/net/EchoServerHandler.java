@@ -43,7 +43,7 @@ import static king.flow.common.CommonConstants.XML_NODE_PREFIX;
  */
 @Sharable
 public class EchoServerHandler extends ChannelInboundHandlerAdapter {
-    
+
     private static final Logger logger = Logger.getLogger(
             EchoServerHandler.class.getName());
     private static String dataPath = "./mock-data/server.json";
@@ -51,18 +51,18 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
     private Set<String> invalidAccount;
     private static final String DOT = ".";
     private static final String DOT_SPLIT_PATTERN = "\\.";
-    
+
     public EchoServerHandler() throws FileNotFoundException, IOException {
         initialData();
     }
-    
+
     private void initialData() throws IOException {
         JsonParser jsonParser = new JsonParser();
         jsonRoot = jsonParser.parse(new InputStreamReader(new FileInputStream(dataPath), UTF8)).asObject();
 //        jsonRoot = jsonParser.parse(new FileReader(dataPath)).asObject();
         invalidAccount = new TreeSet<>();
     }
-    
+
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
         ByteBuf bb = (ByteBuf) msg;
@@ -72,19 +72,19 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         logger.log(Level.INFO, "packet length : {0}", length);
         final String request = bb.readBytes(length).toString(Charset.forName("utf-8"));
         logger.log(Level.INFO, "packet content : \n{0}", request);
-        
+
         String terminal = readTerminalId(request);
         String terminalPrefix = new StringBuilder("terminal").append(DOT)
                 .append(terminal).append(DOT).toString();
-        
+
         String prsCode = readPrsCode(request);
         String prsCodePrefix = new StringBuilder(terminalPrefix)
                 .append("prscode").append(DOT)
                 .append(prsCode).append(DOT).toString();
-        
+
         String pwdPrefix = new StringBuilder(terminalPrefix)
                 .append("pwdVerify").append(DOT).toString();
-        
+
         String operationPrefix = new StringBuilder(prsCodePrefix)
                 .append("operation").append(DOT).toString();
 
@@ -145,7 +145,7 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         if (isAdTableQueryOp) {
             pageNum = readAdTableQueryPageNum(advancedTableOpQuery, request);
         }
-        
+
         StringBuilder condition = new StringBuilder(prsCodePrefix)
                 .append("success").append(DOT)
                 .append("okmsg");
@@ -164,7 +164,7 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         }
 //        String response = jsonRoot.getString("terminal", terminal, "prscode", prsCode, "success", "okmsg");
         logger.log(Level.INFO, "json query result by condition: {0} :\n{1}", new Object[]{condition, response});
-        
+
         condition = new StringBuilder(prsCodePrefix)
                 .append("success").append(DOT)
                 .append("prtmsg");
@@ -181,7 +181,24 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         }
 //        String response = jsonRoot.getString("terminal", terminal, "prscode", prsCode, "success", "okmsg");
         logger.log(Level.INFO, "json query result by condition: {0} :\n{1}", new Object[]{condition, prtMsg});
-        
+
+        condition = new StringBuilder(prsCodePrefix)
+                .append("success").append(DOT)
+                .append("redirection");
+        data = readJsonElement(condition);
+        String redirection = null;
+        if (data != null) {
+            if (data.isObject()) {
+                redirection = data.asObject().toString();
+            } else if (data.isArray()) {
+                redirection = JsonSerializer.serialize(data);
+            } else if (data.isPrimitive()) {
+                redirection = data.asPrimitive().toString();
+            }
+        }
+//        String response = jsonRoot.getString("terminal", terminal, "prscode", prsCode, "success", "okmsg");
+        logger.log(Level.INFO, "json query result by condition: {0} :\n{1}", new Object[]{condition, redirection});
+
         switch (code) {
             case CommonConstants.REGISTRY_MSG_CODE:
 //                int v = counter.incrementAndGet();
@@ -202,10 +219,12 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
                         MockServerResp.mockSuccessfulDownloadKeyResp(terminal, response).getBytes(UTF8)));
                 break;
             default:
-                ctx.write(Unpooled.copiedBuffer(MockServerResp.mockSuccessfulGeneralResp(terminal, response, prtMsg).getBytes(UTF8)));
+                ctx.write(Unpooled.copiedBuffer(MockServerResp
+                        .mockSuccessfulGeneralResp(terminal, response, prtMsg, redirection)
+                        .getBytes(UTF8)));
         }
     }
-    
+
     private boolean needPwdVerification(StringBuilder verifyPwdQuery) {
         JsonElement verifyPwdCondition = readJsonElement(verifyPwdQuery);
         if (verifyPwdCondition != null) {
@@ -213,12 +232,12 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         }
         return true;
     }
-    
+
     private boolean isPwdChangeOp(StringBuilder pwdChangeOpQuery) {
         JsonElement resetPwdCondition = readJsonElement(pwdChangeOpQuery);
         return resetPwdCondition != null;
     }
-    
+
     private void changePassword(StringBuilder pwdChangeOpQuery, String pwdPrefix, String request) {
         StringBuilder newPwdQuery = new StringBuilder(pwdChangeOpQuery).append(DOT).append("newPwdComponentId");
         JsonElement newPwdCompId = readJsonElement(newPwdQuery);
@@ -229,7 +248,7 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
             logger.log(Level.WARNING, "JSON file error : no password component id configurated for key '{0}'", newPwdQuery);
         }
     }
-    
+
     private void writePassword(String pwdPrefix, String pwdComponentId, String request) {
         String newPassword = readTagValue(pwdComponentId, request);
         if (newPassword != null) {
@@ -237,12 +256,12 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
             jsonRoot.get(pwdKey.split(DOT_SPLIT_PATTERN)).asObject().put("password", newPassword);
         }
     }
-    
+
     private boolean isAdTableQueryOp(StringBuilder advancedTableOpQuery) {
         JsonElement advancedTableQueryCondition = readJsonElement(advancedTableOpQuery);
         return advancedTableQueryCondition != null;
     }
-    
+
     private String readAdTableQueryPageNum(StringBuilder queryPrefix, final String request) {
         StringBuilder advancedTableQuery = new StringBuilder(queryPrefix).append(DOT).append("componentId");
         JsonElement advancedTableQueryCondition = readJsonElement(advancedTableQuery);
@@ -255,12 +274,12 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         }
         return null;
     }
-    
+
     private String readPageNumber(final String request, final String pageComponentId) {
         String pageNumber = readTagValue(pageComponentId, request);
         return pageNumber == null ? "1" : pageNumber;
     }
-    
+
     private String readPrsCode(final String query) {
         int indexOfPrefix = query.indexOf(PRSCODE_TAG_PREFIX) + PRSCODE_TAG_PREFIX.length();
         int indexOfSuffix = query.indexOf(PRSCODE_TAG_SUFFIX);
@@ -268,7 +287,7 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
     }
     private static final String PRSCODE_TAG_SUFFIX = "</prscode>";
     private static final String PRSCODE_TAG_PREFIX = "<prscode>";
-    
+
     private String readTerminalId(final String query) {
         int indexOfPrefix = query.indexOf(TERMINAL_TAG_PREFIX) + TERMINAL_TAG_PREFIX.length();
         int indexOfSuffix = query.indexOf(TERMINAL_TAG_SUFFIX);
@@ -276,29 +295,29 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
     }
     private static final String TERMINAL_TAG_SUFFIX = "</terminalid>";
     private static final String TERMINAL_TAG_PREFIX = "<terminalid>";
-    
+
     @Override
     public void channelReadComplete(ChannelHandlerContext ctx) throws Exception {
         ctx.flush();
     }
-    
+
     @Override
     public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) {
         // Close the connection when an exception is raised.
         logger.log(Level.WARNING, "Unexpected exception from downstream.", cause);
         ctx.close();
     }
-    
+
     private boolean isActFreezeOp(StringBuilder actFreezeOpQuery) {
         JsonElement actFreezeQueryCondition = readJsonElement(actFreezeOpQuery);
         return actFreezeQueryCondition != null;
     }
-    
+
     private boolean isActSuspendOp(StringBuilder actSuspendOpQuery) {
         JsonElement actSuspendQueryCondition = readJsonElement(actSuspendOpQuery);
         return actSuspendQueryCondition != null;
     }
-    
+
     private void haltAccount(StringBuilder accountOpQuery, String request) {
         StringBuilder actCompIdQuery = new StringBuilder(accountOpQuery).append(DOT).append("accountComponentId");
         JsonElement actCompId = readJsonElement(actCompIdQuery);
@@ -318,12 +337,12 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
             logger.log(Level.WARNING, "JSON file error : no account component id configurated for key [{0}]", actCompIdQuery);
         }
     }
-    
+
     private String readTagValue(String componentId, String request) {
         String nodeTagName = XML_NODE_PREFIX + componentId;
         final String TAG_PREFIX = "<" + nodeTagName + ">";
         final String TAG_SUFFIX = "</" + nodeTagName + ">";
-        
+
         if (!request.contains(TAG_PREFIX) || !request.contains(TAG_SUFFIX)) {
             logger.log(Level.WARNING,
                     "JSON file error : account xml tag {0}{1}  is not comprehensive in request {2}",
@@ -334,7 +353,7 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         int indexOfSuffix = request.indexOf(TAG_SUFFIX);
         return request.substring(indexOfPrefix, indexOfSuffix);
     }
-    
+
     private JsonElement readJsonElement(StringBuilder jsonQuery) {
         try {
             logger.log(Level.INFO, "query json element by condition : {0}", jsonQuery);

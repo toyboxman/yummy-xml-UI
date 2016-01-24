@@ -234,6 +234,8 @@ public class CommonUtil {
                         result.setPrtMsg(value);
                     } else if (name.equals(TLSResult.CARGO)) {
                         putCargo(TLSResult.CARGO, value);
+                    } else if (name.equals(TLSResult.REDIRECTION)) {
+                        result.setRedirection(value);
                     } else {
                         getLogger(CommonUtil.class.getName()).log(Level.CONFIG,
                                 "Unuseful response JAXBElement : {0}", value);
@@ -252,6 +254,8 @@ public class CommonUtil {
                         result.setPrtMsg(value);
                     } else if (name.equals(TLSResult.CARGO)) {
                         putCargo(TLSResult.CARGO, value);
+                    } else if (name.equals(TLSResult.REDIRECTION)) {
+                        result.setRedirection(value);
                     } else {
                         getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                 "Unuseful com.sun.org.apache.xerces.internal.dom.ElementNSImpl Element : {0} with value {1}",

@@ -93,31 +93,31 @@
     
     <xs:element name="version" type="xs:string">
         <xs:annotation>
-            <xs:documentation>app version</xs:documentation>
+            <xs:documentation>App version</xs:documentation>
         </xs:annotation>
     </xs:element>
     
     <xs:element name="retcode" type="xs:int">
         <xs:annotation>
-            <xs:documentation>operation result code</xs:documentation>
+            <xs:documentation>Operation result code</xs:documentation>
         </xs:annotation>
     </xs:element>
     
     <xs:element name="okmsg" type="xs:string">
         <xs:annotation>
-            <xs:documentation>successful message</xs:documentation>
+            <xs:documentation>Successful message</xs:documentation>
         </xs:annotation>
     </xs:element>
     
     <xs:element name="errmsg" type="xs:string">
         <xs:annotation>
-            <xs:documentation>error message</xs:documentation>
+            <xs:documentation>Error message</xs:documentation>
         </xs:annotation>
     </xs:element>
     
     <xs:element name="cargo" type="xs:string">
         <xs:annotation>
-            <xs:documentation>extra print msg to be resent to front-end</xs:documentation>
+            <xs:documentation>Extra print msg to be resent to front-end</xs:documentation>
         </xs:annotation>
     </xs:element>
     
@@ -130,6 +130,12 @@
     <xs:element name="uid" type="xs:string">
         <xs:annotation>
             <xs:documentation>Message unique series, 20 length. including 14 length date(YYYYMMDDHHMMSS) and 6 length others</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    
+    <xs:element name="redirection" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>Force front-end to redirect page flow to designated page</xs:documentation>
         </xs:annotation>
     </xs:element>
 </xs:schema>

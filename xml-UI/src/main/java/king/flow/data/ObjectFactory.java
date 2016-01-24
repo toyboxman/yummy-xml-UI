@@ -2,7 +2,7 @@
 // 此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.8-b130911.1802 生成的
 // 请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
 // 在重新编译源模式时, 对此文件的所有修改都将丢失。
-// 生成时间: 2015.06.07 时间 10:16:14 PM CST 
+// 生成时间: 2016.01.24 时间 05:18:13 PM CST 
 //
 package king.flow.data;
 
@@ -43,6 +43,7 @@ public class ObjectFactory {
     final static QName _Prtstate_QNAME = new QName("", "prtstate");
     final static QName _Prscode_QNAME = new QName("", "prscode");
     final static QName _Cargo_QNAME = new QName("", "cargo");
+    final static QName _Redirection_QNAME = new QName("", "redirection");
     final static QName _Branchno_QNAME = new QName("", "branchno");
     final static QName _Retcode_QNAME = new QName("", "retcode");
 
@@ -240,6 +241,16 @@ public class ObjectFactory {
     @XmlElementDecl(namespace = "", name = "cargo")
     public JAXBElement<String> createCargo(String value) {
         return new JAXBElement<String>(_Cargo_QNAME, String.class, null, value);
+    }
+
+    /**
+     * Create an instance of
+     * {@link JAXBElement }{@code <}{@link String }{@code >}}
+     *
+     */
+    @XmlElementDecl(namespace = "", name = "redirection")
+    public JAXBElement<String> createRedirection(String value) {
+        return new JAXBElement<String>(_Redirection_QNAME, String.class, null, value);
     }
 
     /**

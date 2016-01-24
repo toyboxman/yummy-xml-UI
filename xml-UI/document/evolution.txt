@@ -1,0 +1,117 @@
+************************************************************************************************************************
+2016.1.24
+************************************************************************************************************************
+前置强制前端页面跳转功能说明
+
+现在UI可以接受处理前置强制要求的页面跳转，这种配置主要针对如下需求：
+1.从第三方获取IC卡的类型，再决定后续业务流程
+
+为了考虑兼容性，这个改动不涉及到配置的修改
+前置在返回正确结果时候需要加上重定向【redirection】的标签
+
+前端发送帐户余额查询请求
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><counter>3</counter><uid>20160124201906151024</uid><prscode>queryAcount</prscode><terminalid>00000001</terminalid><branchno>test_bank_division</branchno><N_601304>123</N_601304><N_601306>123</N_601306></TLS>
+
+前置返回结果，并且要求忽略配置的跳转，强制跳转到另一个页面601
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><retcode>0</retcode><terminalid>00000001</terminalid><okmsg>账户余额:1896.36元</okmsg><errmsg></errmsg><redirection>601</redirection></TLS>
+
+前端会记录日志如下
+一月 24, 2016 8:19:09 下午 king.flow.action.DefaultMsgSendAction$2 run
+信息: Be forced to jump to page[601], ignore designated page[601388]
+
+模拟前置数据配置只需要增加一个项【redirection】，写上希望重定向到的新页面
+"queryAcount" : {
+	"operation" : {
+		"verifyPwd" : false
+	},
+	"success" : {
+		"okmsg" : "账户余额:1896.36元",
+		"redirection" : "601"
+	}
+},
+
+
+************************************************************************************************************************
+2016.1.8
+************************************************************************************************************************
+多返回结果配置说明
+
+现在UI可以支持接受处理交易多个返回结果情况，这种配置主要针对如下需求：
+1.从第三方获取账户名或者欠费数据
+2.希望在UI上显示多个返回结果
+
+配置主要在配置文档中关于sendMsgAction的章节，其中有新增的Advanced action configuration说明
+变化在nextStep标签配置上
+<nextStep> 
+        <nextPanel>300</nextPanel> 
+        <display>311, 312</display>  --这个地方原先只支持一个显示控件，现在可以支持多个  
+</nextStep>
+
+前置返回数据时候，就需要根据这种情况返回JSON的数组数据，样例如下：
+前端向前置查询水费欠费消息，前置向第三方发送水表号查询欠费，然后返回前端
+...<okmsg>["水表号:123456 用户地址:北京礼士路1105号", "120"]</okmsg>...
+返回结果会按指定的顺序显示，
+311控件上会显示 "水表号:123456 用户地址:北京礼士路1105号"
+312控件上显示欠费数 120元
+
+失败冲账说明
+1.冲账报文的xml tag就叫bid 表示balanceID； uid表示当前冲账操作的流水号，bid用在冲账报文中表示冲掉的那一条流水号
+2.冲账报文格式如下这个样子：
+1.原报文
+INFO: TLS Message : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><counter>3</counter><uid>20150817145454534229</uid><prscode>buygas</prscode><terminalid>00000001</terminalid><branchno>test_bank_division</branchno><N_370005>111111</N_370005><N_370004>123</N_370004><N_370006>123</N_370006></TLS>
+
+2.写入ic卡失败后，发出冲账报文
+INFO: TLS Message : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><counter>4</counter><uid>20150817145454615229</uid><bid>20150817145454534229</bid><prscode>buygas</prscode><terminalid>00000001</terminalid><branchno>test_bank_division</branchno><cargo></cargo><N_370005>111111</N_370005><N_370004>123</N_370004><N_370006>123</N_370006></TLS>
+
+二者区别在于多一个bid
+
+************************************************************************************************************************
+2015.11.18
+************************************************************************************************************************
+本补丁完成模拟读卡和打印的驱动
+
+安装步骤如下：
+1.备份原终端应用目录lib下的xml-UI-2.0-SNAPSHOT.jar
+2.用zip工具打开xml-UI-2.0-SNAPSHOT.jar，里面有个image目录，下面有五个1-5.jpg背景图片。将其copy出来
+3.再用zip工具打开这个patch包中的新xml-UI-2.0-SNAPSHOT.jar，将五个背景图片覆盖到image目录
+4.将新的xml-UI-2.0-SNAPSHOT.jar覆盖回lib目录，重启客户端
+5.修改xml配置文件，增加模拟开关。具体如下：
+I.针对二合一读卡器：
+在swipe2In1CardAction中增加debug开关，cardId是你想返回的卡号
+<showComboBoxAction>
+    <items>/, ACTION4/读银行卡</items>
+</showComboBoxAction>
+<swipe2In1CardAction>
+    <nextCursor>2000206</nextCursor>
+    <editable>true</editable>
+    <animationTip>/image/card.jpg</animationTip> 
+    <debug>
+        <cardId>6222000266326589875</cardId>
+    </debug>
+</swipe2In1CardAction>
+
+II.针对普通读卡器：
+在swipeCardAction中增加debug开关，cardId是你想返回的卡号
+<showComboBoxAction>
+    <items>/, ACTION2/刷磁条卡, ACTION3/插接触式IC卡</items>
+</showComboBoxAction>
+<playMediaAction>
+    <media>./media/accout.wav</media>
+</playMediaAction>
+<swipeCardAction>
+    <editable>true</editable>
+    <nextCursor>1105</nextCursor>
+    <debug>
+        <cardId>6222000266326589875</cardId>
+    </debug>
+</swipeCardAction>
+
+III.针对打印机：
+在setPrinterAction中增加debug开关，prompt是你想返回的打印结果
+<setPrinterAction>
+    <header>淮南通商银行</header>
+    <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
+    <debug>
+        <prompt>打印完成</prompt>
+    </debug>
+</setPrinterAction>
