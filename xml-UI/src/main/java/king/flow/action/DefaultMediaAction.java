@@ -49,13 +49,14 @@ public class DefaultMediaAction extends DefaultBaseAction {
     @Override
     protected void installButtonAction() {
         JButton btn = (JButton) owner;
-        btn.addActionListener(new ActionListener() {
-
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                play();
-            }
-        });
+//        btn.addActionListener(new ActionListener() {
+//
+//            @Override
+//            public void actionPerformed(ActionEvent e) {
+//                play();
+//            }
+//        });
+        btn.addFocusListener(new FocusMediaAction());
     }
 
     @Override
