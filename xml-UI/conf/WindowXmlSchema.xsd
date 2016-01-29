@@ -289,8 +289,27 @@
             <xs:element name="insertICardAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
-                        <xs:element name="suceessfulPanel" type="xs:unsignedShort" maxOccurs="1" minOccurs="1"/>
-                        <xs:element name="failedPanel" type="xs:unsignedShort" maxOccurs="1" minOccurs="1"/>
+                        <xs:element name="nextStep"  maxOccurs="1" minOccurs="1">
+                            <xs:complexType>
+                                <xs:all>
+                                    <xs:element name="nextPanel" type="xs:int"/>
+                                    <xs:element name="display" type="xs:string"/>
+                                    <xs:element name="debug" maxOccurs="1" minOccurs="0">
+                                        <xs:simpleType>
+                                            <xs:list itemType='xs:string'/>
+                                        </xs:simpleType>
+                                    </xs:element>
+                                </xs:all>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="exception"  maxOccurs="1" minOccurs="1">
+                            <xs:complexType>
+                                <xs:all>
+                                    <xs:element name="nextPanel" type="xs:int"/>
+                                    <xs:element name="display" type="xs:string"/>
+                                </xs:all>
+                            </xs:complexType>
+                        </xs:element>
                         <xs:element name="animationTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
                     </xs:all>
                 </xs:complexType>

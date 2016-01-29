@@ -35,7 +35,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>70</width>
                 <heigh>50</heigh>
             </rect>
-            <text>密码</text>
+            <text>户主名</text>
         </attribute>
     </component>
     <component>
@@ -48,7 +48,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>70</width>
                 <heigh>50</heigh>
             </rect>
-            <text>购买额</text>
+            <text>住址</text>
         </attribute>
     </component>
     <component>

@@ -175,8 +175,18 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <insertICardAction>
-                <suceessfulPanel>370</suceessfulPanel>
-                <failedPanel>200</failedPanel>
+                <nextStep>
+                    <nextPanel>370</nextPanel>
+                    <display>370005, 370006</display>
+                    <!--<debug>
+                        李儒宋
+                        7号楼9-801室
+                    </debug>-->
+                </nextStep>
+                <exception>
+                    <nextPanel>200</nextPanel>
+                    <display>201</display>
+                </exception>
             </insertICardAction>
         </action>
     </component>

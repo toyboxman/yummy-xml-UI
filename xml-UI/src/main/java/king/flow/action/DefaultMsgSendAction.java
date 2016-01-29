@@ -182,7 +182,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
 
     private void showOnComponent(Object metaNode, TLSResult result) {
         Component meta = (Component) metaNode;
-        Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
+        getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                 "Display component[{0}] type : {1}",
                 new Object[]{String.valueOf(meta.getId()), meta.getType().value()});
         JsonParser jsonParser;
@@ -247,7 +247,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 break;
             default:
                 getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
-                        "Unsupported component type : {0}", meta.getType());
+                        "Unsupported displayed component type : {0}", meta.getType());
         }
     }
 

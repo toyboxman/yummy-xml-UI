@@ -494,6 +494,9 @@ public class MainWindow {
                                 component, panel, pageURI, null);
                     }
                 }
+            } else {
+                //successful next step must be set
+                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[nextStep]");
             }
 
             //validate exceptional path parameter config
@@ -513,6 +516,9 @@ public class MainWindow {
                                 component, panel, pageURI, null);
                     }
                 }
+            } else {
+                //exception next step must be set
+                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[exception]");
             }
 
             //validate rules path parameter config
@@ -559,21 +565,69 @@ public class MainWindow {
         }
     }
 
-    private void validateSetPrinterAction(king.flow.view.Action.SetPrinterAction setPrinterAction, Component component, Panel panel, String pageURI) {
+    private void validateSetPrinterAction(king.flow.view.Action.SetPrinterAction setPrinterAction, Component component,
+            Panel panel, String pageURI) {
         if (setPrinterAction != null) {
             checkSupportedAction(component, PRINT_RECEIPT_ACTION, panel, pageURI);
         }
     }
 
-    private void validateUseTipAction(king.flow.view.Action.UseTipAction useTipAction, Component component, Panel panel, String pageURI) {
+    private void validateUseTipAction(king.flow.view.Action.UseTipAction useTipAction, Component component,
+            Panel panel, String pageURI) {
         if (useTipAction != null) {
             checkSupportedAction(component, USE_TIP_ACTION, panel, pageURI);
         }
     }
 
-    private void validateInsertICardAction(king.flow.view.Action.InsertICardAction insertICardAction, Component component, Panel panel, String pageURI) {
+    private void validateInsertICardAction(king.flow.view.Action.InsertICardAction insertICardAction, Component component,
+            Panel panel, String pageURI) {
         if (insertICardAction != null) {
+            final String actionName = insertICardAction.getClass().getSimpleName();
             checkSupportedAction(component, INSERT_IC_ACTION, panel, pageURI);
+            
+            //validate successful path parameter config
+            if (insertICardAction.getNextStep() != null) {
+                final String nextStepPropertyName = insertICardAction.getNextStep().getClass().getSimpleName();
+                checkNextPanelParameter(insertICardAction.getNextStep().getNextPanel(), actionName, nextStepPropertyName,
+                        component, panel, pageURI);
+
+                ArrayList<String> displayParameters = buildListParameters(insertICardAction.getNextStep().getDisplay());
+                for (String displayId : displayParameters) {
+                    try {
+                        int id = Integer.parseInt(displayId);
+                        checkDisplayParameter(id, actionName, nextStepPropertyName, component, panel, pageURI);
+                        checkComponentType(id, actionName, nextStepPropertyName, component, panel, pageURI);
+                    } catch (Exception e) {
+                        promptMistakenNumberBlockErr(displayId, actionName, nextStepPropertyName,
+                                component, panel, pageURI, null);
+                    }
+                }
+            } else {
+                //successful next step must be set
+                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[nextStep]");
+            }
+            
+            //validate exceptional path parameter config
+            if (insertICardAction.getException() != null) {
+                final String exceptionPropertyName = insertICardAction.getException().getClass().getSimpleName();
+                checkNextPanelParameter(insertICardAction.getException().getNextPanel(), actionName, exceptionPropertyName,
+                        component, panel, pageURI);
+
+                ArrayList<String> displayParameters = buildListParameters(insertICardAction.getException().getDisplay());
+                for (String displayId : displayParameters) {
+                    try {
+                        int id = Integer.parseInt(displayId);
+                        checkDisplayParameter(id, actionName, exceptionPropertyName, component, panel, pageURI);
+                        checkComponentType(id, actionName, exceptionPropertyName, component, panel, pageURI);
+                    } catch (Exception e) {
+                        promptMistakenNumberBlockErr(displayId, actionName, exceptionPropertyName,
+                                component, panel, pageURI, null);
+                    }
+                }
+            } else {
+                //exception next step must be set
+                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[exception]");
+            }
         }
     }
 
@@ -843,6 +897,15 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
+    
+    private void promptIncompleteActionBlockErr(String actionName, Component component,
+            Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
+        String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                .append(actionName).append('\n')
+                .append(actionName).append(" must have ")
+                .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+    }
 
     private void checkNextPanelParameter(int nextPanel, String actionName, String properyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
@@ -1106,8 +1169,8 @@ public class MainWindow {
     private void doInsertICardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.InsertICardAction insertICardAction = actionNode.getInsertICardAction();
         if (insertICardAction != null) {
-            int suceessfulPanel = insertICardAction.getSuceessfulPanel();
-            int failedPanel = insertICardAction.getFailedPanel();
+            king.flow.view.Action.InsertICardAction.NextStep suceessfulPanel = insertICardAction.getNextStep();
+            king.flow.view.Action.InsertICardAction.Exception failedPanel = insertICardAction.getException();
             String animation = insertICardAction.getAnimationTip();
             InsertCardAction insertCardAction = new InsertCardAction(suceessfulPanel, failedPanel, animation);
             doAction(insertCardAction, component.getId());
