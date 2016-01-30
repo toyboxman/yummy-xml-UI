@@ -1,4 +1,49 @@
 ************************************************************************************************************************
+2016.1.31
+************************************************************************************************************************
+通过按钮来驱动IC卡读卡说明
+
+在UI上面通过点击按钮来驱动IC卡读取并进入其他页面的流程说明:
+1.用户点击读卡按钮,激活读卡器
+2.用户按动画提示将卡插入
+3.成功读取卡信息,并显示在成功页
+4.读取失败,显示错误原因在错误页
+
+配置如下:
+        <action>
+            <insertICardAction>
+                <nextStep>
+                    <nextPanel>370</nextPanel>
+                    <display>370005, 370006</display>
+                </nextStep>
+                <exception>
+                    <nextPanel>200</nextPanel>
+                    <display>201</display>
+                </exception>
+                <animationTip>/image/swipe.gif</animationTip>
+            </insertICardAction>
+        </action>
+
+如果没有驱动需要用debug的输出,可以加上按如下加上.每一行信息会对应显示在display中的控件上
+        <action>
+            <insertICardAction>
+                <nextStep>
+                    <nextPanel>370</nextPanel>
+                    <display>370005, 370006</display>
+                    <debug>
+                        李儒宋
+                        7号楼9-801室
+                    </debug>
+                </nextStep>
+                <exception>
+                    <nextPanel>200</nextPanel>
+                    <display>201</display>
+                </exception>
+                <animationTip>/image/swipe.gif</animationTip>
+            </insertICardAction>
+        </action>
+
+************************************************************************************************************************
 2016.1.24
 ************************************************************************************************************************
 前置强制前端页面跳转功能说明
