@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>201501</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/4.jpg</background>
+	<component>
+        <id>201502</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>普卡代缴燃气费第1步(共3步))</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201503</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>340</x>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>用户号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>201504</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/jiaofeinum.wav</media>
+            </playMediaAction>
+			
+        </action>
+    </component>
+	
+    <component>
+        <id>201505</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>下一步</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>query_pubiao</prsCode>
+                <conditions>201504</conditions>
+                <nextStep>  
+                    <nextPanel>201501001</nextPanel> 
+                    <nextCursor>201501014</nextCursor>
+                    <display>201501004,201501006,201501008,201501010,201501023,201501012,201501017</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>201599</nextPanel>  
+                    <display>201597</display>  
+                </exception>
+                <checkRules>
+					<notNull>
+                        <content>201504</content>
+                        <errMsg>请输入缴费号</errMsg>
+                    </notNull>
+                </checkRules>
+            </sendMsgAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>201506</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201</nextPanel>
+            </jumpPanelAction>
+		
+             <cleanAction>
+                <conditions>201504</conditions>
+            </cleanAction>
+            
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+            
+        </action>
+    </component>
+        <component>
+        <id>201507</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   普卡代缴燃气费</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+</panel>

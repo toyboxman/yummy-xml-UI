@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+     查询用户欠费信息，获取欠费金额后，用户插入银行卡、输入密码
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>201501001</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	 <component>
+        <id>201501002</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>普卡代缴燃气费第2步</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>201501003</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>200</y>
+                <width>120</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>用户号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201501004</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                 <x>350</x>
+                <y>200</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+          <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
+        </action>
+    </component>
+    
+     <component>
+        <id>201501005</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                 <x>650</x>
+                <y>200</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>用户名称:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201501006</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>850</x>
+                <y>200</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+          <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
+        </action>
+    </component>
+    
+    
+     <component>
+        <id>201501007</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                 <y>300</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>详细地址:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201501008</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                 <x>350</x>
+                 <y>300</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+          <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
+        </action>
+    </component>
+    
+    
+     <component>
+        <id>201501009</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                 <x>650</x>
+                 <y>300</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>客户类型:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201501010</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>850</x>
+                 <y>300</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+          <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
+        </action>
+    </component>
+    
+      <component>
+        <id>201501011</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                 <x>650</x>
+                 <y>400</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>应交金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201501012</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>850</x>
+                 <y>400</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+          <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
+        </action>
+    </component>
+     
+      <component>
+        <id>201501022</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                 <x>100</x>
+                 <y>400</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>上次结余:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201501023</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                 <y>400</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+          <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
+        </action>
+    </component>
+    
+   <component>
+        <id>201501013</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                 <y>500</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>付款卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201501014</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                 <x>350</x>
+                 <y>500</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>201501007</nextCursor>
+                <editable>true</editable>
+            </swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accoutfrom.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+    
+   <component>
+        <id>201501015</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                 <y>600</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+	
+    </component>
+	
+	<component>
+        <id>201501016</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                 <x>350</x>
+                 <y>600</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+    
+    <decorator>
+    	    <id>201501021</id>
+        <type>ScrollPanel</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                 <y>700</y>
+                <width>900</width>
+                <heigh>600</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+
+     <component>
+        <id>201501017</id>
+        <type>Table</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                 <y>700</y>
+                <width>900</width>
+                <heigh>200</heigh>
+            </rect>
+        </attribute>
+       	<action>
+			<showTableAction>
+				 <columnNames>账期,单价,数量,滞纳金,应交金额</columnNames>
+			</showTableAction>
+			<setFontAction>
+			<fontSize>22</fontSize>
+			</setFontAction>
+		</action>
+    </component>
+    </decorator>
+    
+    <component>
+        <id>201501018</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                 <x>650</x>
+                 <y>600</y>
+                <width>150</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>下一步</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>pay_pubiao</prsCode>
+                <conditions>201501014,201501016,201501012</conditions>
+                <nextStep>  
+                    <nextPanel>201588</nextPanel> 
+                    <display>201586</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>201599</nextPanel>  
+                    <display>201597</display>  
+                </exception>
+                <checkRules>
+					<notNull>
+                        <content>201501005</content>
+                        <errMsg>请插入银行卡，并点击下拉菜单进行读卡</errMsg>
+                    </notNull>
+                    <notNull>
+                        <content>201501007</content>
+                        <errMsg>请用密码键盘输入密码</errMsg>
+                    </notNull>
+                </checkRules>
+            </sendMsgAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>201501019</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>850</x>
+                 <y>600</y>
+                <width>150</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201</nextPanel>
+            </jumpPanelAction>
+        </action>
+		<action>
+            <cleanAction>
+                <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016,201501017,201501023</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+     <component>
+        <id>201501020</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   普卡代缴燃气费</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+</panel>
