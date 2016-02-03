@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.logging.Level;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
+import javax.swing.JComboBox;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
@@ -44,7 +45,7 @@ public class InsertCardAction extends DefaultBaseAction {
         for (String id : displayList) {
             successfulDisplay.add(Integer.parseInt(id));
         }
-        
+
         displayList = CommonUtil.buildListParameters(failedPage.getDisplay());
         failedDisplay = new ArrayList<>();
         for (String id : displayList) {
@@ -86,6 +87,12 @@ public class InsertCardAction extends DefaultBaseAction {
                 JTextField textField = getBlock(meta.getId(), JTextField.class);
                 textField.setText(value);
                 break;
+            case COMBO_BOX:
+                JComboBox combo = getBlock(meta.getId(), JComboBox.class);
+                if (combo.isEditable()) {
+                    combo.getEditor().setItem(value);
+                }
+                break;
             default:
                 getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
                         "Unsupported showed component type : {0}", meta.getType());
@@ -98,7 +105,7 @@ public class InsertCardAction extends DefaultBaseAction {
         protected String doInBackground() throws Exception {
             try {
                 List<String> debug = successfulPage.getDebug();
-                
+
                 if (debug.isEmpty()) {
                     Thread.sleep(2000);
                     throw new Exception("Currently we have no driver :-(");
@@ -110,7 +117,13 @@ public class InsertCardAction extends DefaultBaseAction {
                         showOnComponent(successfulDisplay.get(i), debug.get(i));
                     }
                 }
-                panelJump(successfulPage.getNextPanel());
+
+                Integer hop = successfulPage.getHop();
+                if (hop == null) {
+                    panelJump(successfulPage.getNextPanel());
+                } else {
+                    getBlock(hop, JButton.class).doClick();
+                }
                 return "Success";
             } catch (Exception exception) {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,

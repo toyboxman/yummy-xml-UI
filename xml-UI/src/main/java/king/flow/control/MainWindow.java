@@ -584,7 +584,7 @@ public class MainWindow {
         if (insertICardAction != null) {
             final String actionName = insertICardAction.getClass().getSimpleName();
             checkSupportedAction(component, INSERT_IC_ACTION, panel, pageURI);
-            
+
             //validate successful path parameter config
             if (insertICardAction.getNextStep() != null) {
                 final String nextStepPropertyName = insertICardAction.getNextStep().getClass().getSimpleName();
@@ -602,11 +602,25 @@ public class MainWindow {
                                 component, panel, pageURI, null);
                     }
                 }
+
+                Integer hop = insertICardAction.getNextStep().getHop();
+                if (hop != null) {
+                    if (!this.meta_blocks.containsKey(hop)) {
+                        promptNonexistentBlockErr(hop, actionName, "hop", component, panel, pageURI, null);
+                    }
+
+                    Object blockMeta = getBlockMeta(hop);
+                    if (!(blockMeta instanceof Component)
+                            || ((Component) blockMeta).getType() != ComponentEnum.BUTTON) {
+                        promptMistakenTypeBlockErr(hop, actionName, nextStepPropertyName,
+                                component, panel, pageURI, "\ncorrect <hop> type should be [BUTTON]");
+                    }
+                }
             } else {
                 //successful next step must be set
                 promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[nextStep]");
             }
-            
+
             //validate exceptional path parameter config
             if (insertICardAction.getException() != null) {
                 final String exceptionPropertyName = insertICardAction.getException().getClass().getSimpleName();
@@ -858,7 +872,7 @@ public class MainWindow {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
                 .append("with invalid type").append('[').append(blockId).append(']').append(" for property[").append(propertyName).append(']')
-                .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
+                .append(' ').append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
 
@@ -897,7 +911,7 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptIncompleteActionBlockErr(String actionName, Component component,
             Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)

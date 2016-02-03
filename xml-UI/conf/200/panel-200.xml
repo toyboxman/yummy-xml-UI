@@ -177,8 +177,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <insertICardAction>
                 <nextStep>
                     <nextPanel>370</nextPanel>
-                    <display>370005, 370006</display>
-                    <!--<debug>
+                    <display>370004, 370005, 370006</display>
+                    <!--<hop>370007</hop>
+                    <debug>
+                        123456789
                         李儒宋
                         7号楼9-801室
                     </debug>-->

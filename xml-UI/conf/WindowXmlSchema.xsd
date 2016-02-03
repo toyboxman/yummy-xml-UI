@@ -294,6 +294,7 @@
                                 <xs:all>
                                     <xs:element name="nextPanel" type="xs:int"/>
                                     <xs:element name="display" type="xs:string"/>
+                                    <xs:element name="hop" type="xs:int" maxOccurs="1" minOccurs="0"/>
                                     <xs:element name="debug" maxOccurs="1" minOccurs="0">
                                         <xs:simpleType>
                                             <xs:list itemType='xs:string'/>
