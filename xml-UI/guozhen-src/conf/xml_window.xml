@@ -180,6 +180,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		<page>./conf-guozhen/25/201801/panel-201801.xml</page>
 		<page>./conf-guozhen/25/201801/panel-201801001.xml</page>
 		<page>./conf-guozhen/25/201801/panel-201801101.xml</page>
+		<page>./conf-guozhen/25/201801/panel-201801201.xml</page>
+		<page>./conf-guozhen/25/201801/panel-201801301.xml</page>
 		<!--
 		<page>./conf-guozhen/25/201801/panel-201801201.xml</page>
 		<page>./conf-guozhen/25/201801/panel-201801301.xml</page>

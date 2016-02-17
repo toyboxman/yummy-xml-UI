@@ -58,10 +58,10 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>230</x>
-                <y>240</y>
-                <width>800</width>
-                <heigh>150</heigh>
+                <x>400</x>
+                <y>200</y>
+                <width>900</width>
+                <heigh>300</heigh>
             </rect>
             <text></text>
         </attribute>

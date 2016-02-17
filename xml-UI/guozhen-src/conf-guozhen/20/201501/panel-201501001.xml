@@ -412,7 +412,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 </nextStep>
                 <exception> 
                     <nextPanel>201599</nextPanel>  
-                    <display>201597</display>  
+                    <display>201596</display>  
                 </exception>
                 <checkRules>
 					<notNull>

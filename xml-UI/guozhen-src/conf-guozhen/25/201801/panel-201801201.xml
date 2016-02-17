@@ -10,12 +10,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
-    <id>201801001</id>
+    <id>201801201</id>
     <type>Panel</type>
     <active>false</active>
 	<background>/image/1.jpg</background>
 	 <component>
-        <id>201801002</id>
+        <id>201801202</id>
         <type>Label</type>
         <attribute>
             <rect>
@@ -24,7 +24,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>IC卡代缴燃气费第2步</text>
+            <text>IC卡代缴燃气费第3步</text>
         </attribute>
         <action>
             <setFontAction>
@@ -34,204 +34,142 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
     <component>
-        <id>201801003</id>
+        <id>201801203</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>100</x>
                 <y>200</y>
-                <width>120</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>IC卡号:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-    
-    <component>
-        <id>201801004</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                 <x>350</x>
-                <y>200</y>
-                <width>300</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-          <action>  
-            <limitInputAction editable="false">
-                <length>30</length>
-            </limitInputAction>
-        </action>
-    </component>
-    
-     <component>
-        <id>201801005</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                 <x>650</x>
-                <y>200</y>
-                <width>150</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>用户名称:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-    
-    <component>
-        <id>201801006</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>850</x>
-                <y>200</y>
-                <width>200</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-          <action>  
-            <limitInputAction editable="false">
-                <length>30</length>
-            </limitInputAction>
-        </action>
-    </component>
-    
-    
-     <component>
-        <id>201801007</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>100</x>
-                 <y>300</y>
-                <width>150</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>详细地址:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-    
-    <component>
-        <id>201801008</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                 <x>350</x>
-                 <y>300</y>
-                <width>300</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-          <action>  
-            <limitInputAction editable="false">
-                <length>30</length>
-            </limitInputAction>
-        </action>
-    </component>
-    
-    
-     <component>
-        <id>201801009</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                 <x>650</x>
-                 <y>300</y>
-                <width>150</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>客户类型:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-    
-    <component>
-        <id>201801010</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>850</x>
-                 <y>300</y>
-                <width>200</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-          <action>  
-            <limitInputAction editable="false">
-                <length>30</length>
-            </limitInputAction>
-        </action>
-    </component>
-    
-     <component>
-        <id>201801011</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                 <x>100</x>
-                 <y>400</y>
-                <width>200</width>
-                <heigh>60</heigh>
-            </rect>
-            <text>IC卡表类型:</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-    
-    <component>
-        <id>201801012</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>350</x>
-                 <y>400</y>
-                <width>300</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-          <action>  
-            <limitInputAction editable="false">
-                <length>30</length>
-            </limitInputAction>
-        </action>
-    </component>
-  
-  
-    <component>
-        <id>201801017</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>100</x>
-                 <y>700</y>
-                <width>200</width>
+                <width>250</width>
                 <heigh>60</heigh>
             </rect>
             <text>购气量:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201801204</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                 <x>350</x>
+                <y>200</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+          <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
+        </action>
+    </component>
+    
+       <component>
+        <id>201801205</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>300</y>
+                <width>250</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>应交金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201801206</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                 <x>350</x>
+                <y>300</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+          <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
+        </action>
+    </component>
+    
+   <component>
+        <id>201801213</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                 <y>500</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>付款卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>201801214</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                 <x>350</x>
+                 <y>500</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>201801216</nextCursor>
+                <editable>true</editable>
+                <debug>
+				    <cardId>6217888899999000</cardId>
+				</debug>
+            </swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accoutfrom.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+    
+   <component>
+        <id>201801215</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                 <y>600</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
         </attribute>
         <action>
             <setFontAction>
@@ -242,31 +180,55 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	<component>
-        <id>201801018</id>
-        <type>TextField</type>
+        <id>201801216</id>
+        <type>PasswordField</type>
         <attribute>
             <rect>
                  <x>350</x>
-                 <y>700</y>
+                 <y>600</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
 		
 		<action>
-			<playMediaAction>
-                <media>./media/audio/money.wav</media>
-            </playMediaAction>
-			
-			<limitInputAction>
-                <length>16</length>
-                <enableCashLimit>true</enableCashLimit>
+            <limitInputAction>
+                <length>6</length>
             </limitInputAction>
+			
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
         </action>
     </component>
     
     <component>
-        <id>201801019</id>
+        <id>201801222</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                 <y>800</y>
+                <width>150</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>上一步</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201801001</nextPanel>
+            </jumpPanelAction>
+        </action> 
+          <action>
+            <cleanAction>
+                <conditions>201801214,201801216</conditions>
+            </cleanAction>
+        </action>  
+    </component>
+   
+    
+    <component>
+        <id>201801219</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -285,20 +247,24 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 		
 		<action>
             <sendMsgAction>
-                <prsCode>pay_req_ICbiao</prsCode>
-                <conditions>201801018</conditions>
+                <prsCode>pay_ICbiao</prsCode>
+                <conditions>201801214,201801216</conditions>
                 <nextStep>  
-                    <nextPanel>201801201</nextPanel> 
-                    <display>201801204,201801206</display>  
+                    <nextPanel>201888</nextPanel> 
+                    <display>201886</display>  
                 </nextStep>
                 <exception> 
                     <nextPanel>201899</nextPanel>  
                     <display>201896</display>  
                 </exception>
                 <checkRules>
+					<notNull>
+                        <content>201801214</content>
+                        <errMsg>请插入银行卡，并点击下拉菜单进行读卡</errMsg>
+                    </notNull>
                     <notNull>
-                        <content>201801018</content>
-                        <errMsg>请输入购气量</errMsg>
+                        <content>201801216</content>
+                        <errMsg>请用密码键盘输入密码</errMsg>
                     </notNull>
                 </checkRules>
             </sendMsgAction>
@@ -306,7 +272,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
 	
 	<component>
-        <id>201801020</id>
+        <id>201801220</id>
         <type>Button</type>
         <attribute>
             <rect>
@@ -324,12 +290,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
 		<action>
             <cleanAction>
-                <conditions>201806,201801004,201801006,201801008,201801010,201801012,201801104,201801106,201801108,201801110,201801112,201801018</conditions>
+                <conditions>201806,201801204,201801206,201801104,201801106,201801108,201801110,201801112,201801214,201801216,201801204,201801206</conditions>
             </cleanAction>
         </action>   
     </component>
      <component>
-        <id>201801021</id>
+        <id>201801221</id>
         <type>Label</type>
         <attribute>
             <rect>
