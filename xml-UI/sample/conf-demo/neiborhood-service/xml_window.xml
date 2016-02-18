@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+     -Dui.build.scheme=.\conf-demo\neiborhood-service\xml_window.xml
+     -Dui.build.scheme=.\conf-bank\xml_window.xml
+     linux/mac
+     -Dui.build.scheme=./conf-demo/neiborhood-service/xml_window.xml
+     -Dui.build.scheme=./conf-bank/xml_window.xml
+-->
+
+<window
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../conf/WindowXmlSchema.xsd'>
+    <id>0</id>
+    <type>Frame</type>
+    <ui-style>
+        <font>
+            <name>SimSun</name>
+            <size>30</size>
+            <style>BOLD</style>
+        </font>
+        <progress>/image/loader_orange_256.gif</progress>
+    </ui-style>
+	
+    <driver>
+        <device>
+            <type>magnetCard</type>
+            <port>com1</port>
+            <dll>alldriver</dll>
+        </device>
+        <device>
+            <type>ICCard</type>
+            <port>com5</port>
+            <dll>alldriver</dll>
+        </device>
+        <device>
+            <type>sensorCard</type>
+            <port>com3</port>
+            <dll>alldriver</dll>
+        </device>
+        <device>
+            <type>printer</type>
+            <port>com4</port>
+            <dll>alldriver</dll>
+        </device>
+		
+        <device>
+            <type>keyboard</type>
+            <port>com2</port>
+            <dll>alldriver</dll>
+        </device>
+    </driver>
+    <attribute>
+        <text>智慧社区物业服务系统</text>
+    </attribute>
+    <contents>
+        <page>./conf-demo/neiborhood-service/entry/panel-100.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/panel-105.xml</page>
+        <!--electricity charge pages-->
+        <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-110.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-115.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/electricityfee/panel-116.xml</page>
+        <!--gas charge pages-->
+        <page>./conf-demo/neiborhood-service/entry/charge/gasfee/panel-120.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/gasfee/panel-125.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/gasfee/panel-126.xml</page>
+        <!--real estate service charge pages-->
+        <page>./conf-demo/neiborhood-service/entry/charge/servicefee/panel-130.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/servicefee/panel-135.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/servicefee/panel-136.xml</page>
+        <!--tap water charge pages-->
+        <page>./conf-demo/neiborhood-service/entry/charge/waterfee/panel-140.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/waterfee/panel-145.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/charge/waterfee/panel-146.xml</page>
+        
+        <page>./conf-demo/neiborhood-service/entry/query/panel-205.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/query/charge/panel-210.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/query/charge/panel-216.xml</page>
+        
+        <page>./conf-demo/neiborhood-service/entry/query/consume/panel-220.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/query/consume/panel-226.xml</page>
+        
+        <page>./conf-demo/neiborhood-service/entry/query/card/panel-230.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/query/card/panel-235.xml</page>
+        <page>./conf-demo/neiborhood-service/entry/query/card/panel-236.xml</page>
+    </contents>
+</window>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>3000601</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>3000602</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>手机号转账</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>3000603</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>230</y>
+                <width>250</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>付款卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>3000604</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>3000606</nextCursor>
+                <editable>true</editable>
+</swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accoutfrom.wav</media>
+            </playMediaAction>
+        </action>
+		
+		
+    </component>
+	
+	<component>
+        <id>3000605</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>270</x>
+                <y>330</y>
+                <width>220</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>转入手机号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>3000606</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/phoneto.wav</media>
+            </playMediaAction>
+            
+            <limitInputAction editable="true">
+                <length>11</length>
+                <enableNumberLimit>true</enableNumberLimit>
+            </limitInputAction>
+
+        </action>
+		
+		
+    </component>
+
+	
+	<component>
+        <id>3000607</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>430</y>
+                <width>250</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>转账金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>3000608</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>430</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/money.wav</media>
+            </playMediaAction>
+			<limitInputAction>
+                <length>16</length>
+                <enableCashLimit>true</enableCashLimit>
+            </limitInputAction>
+			
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>3000609</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>375</x>
+                <y>530</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+	</component>
+	
+	<component>
+        <id>3000610</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>530</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>3000611</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+			
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>phoneTranQuery</prsCode>
+                <conditions>3000604,3000606,3000608,3000610</conditions>
+                <nextStep>  
+                    <nextPanel>30008941</nextPanel> 
+                    <display>30008943</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>99901</nextPanel>  
+                    <display>99904</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>3000604</content>
+                        <errMsg>卡号不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>3000606</content>
+                        <errMsg>收款手机号不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>3000608</content>
+                        <errMsg>转账金额不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>3000610</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull>
+					
+                    <template>
+                        <content>3000604</content>
+                        <pattern>6217</pattern>
+                        <errMsg>付款卡片非本行卡片，请使用本行卡</errMsg>
+                    </template>
+		</checkRules>	
+		
+            </sendMsgAction>
+			
+			
+			
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>3000612</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>300</nextPanel>
+            </jumpPanelAction>
+			<setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>3000604,3000606,3000608,3000610</conditions>
+            </cleanAction>
+        </action>   
+			
+    </component>
+    
+      <component>
+        <id>3000613</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   手机号转账</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+</panel>

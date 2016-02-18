@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>5000301</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>5000302</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>指纹查询余额</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>5000303</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>380</x>
+                <y>230</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>5000304</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>5000306</nextCursor>
+                <editable>true</editable>
+</swipe2In1CardAction>
+        </action>
+		
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accout.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+	
+	
+	<component>
+        <id>5000305</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>320</x>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>指纹密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>5000306</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+
+         <action>
+            <rwFingerPrintAction>
+                <nextCursor>5000307</nextCursor> <!-- next component cursor focuses on after swipe card operation -->
+                <writePrint>false</writePrint> <!-- whether this is finger print registry operation -->
+            </rwFingerPrintAction>
+       </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/finger.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>5000307</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>600</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>fingerquery</prsCode>
+                <conditions>5000304,5000306</conditions>
+                <nextStep>  
+                    <nextPanel>50008881</nextPanel> 
+                    <display>50008883</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>50000001</nextPanel>  
+                    <display>50000003</display>  
+                </exception>
+                
+                	<checkRules>
+				<notNull>
+				    <content>5000304</content>
+				    <errMsg>卡号不能为空</errMsg>
+				</notNull>
+				
+				<notNull>
+				    <content>5000306</content>
+				    <errMsg>指纹密码不能为空</errMsg>
+				</notNull>
+				</checkRules>
+            </sendMsgAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>5000308</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>600</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>500</nextPanel>
+            </jumpPanelAction>
+			<setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>5000304,5000306</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+      <component>
+        <id>5000309</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   指纹查询余额</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+</panel>

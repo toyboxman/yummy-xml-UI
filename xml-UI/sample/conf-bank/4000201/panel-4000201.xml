@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>4000201</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/1.jpg</background>
+	<component>
+        <id>4000202</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>代缴手机费</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>4000203</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>380</x>
+                <y>230</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>4000204</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>230</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>4000206</nextCursor>
+                <editable>true</editable>
+</swipe2In1CardAction>
+        </action>
+		
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accout.wav</media>
+            </playMediaAction>
+        </action>
+		
+    </component>
+	
+	
+	<component>
+        <id>4000205</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>340</x>
+                <y>330</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>手机号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>4000206</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>330</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/phonenum.wav</media>
+            </playMediaAction>
+            
+             <limitInputAction editable="true">
+                <length>11</length>
+                <enableNumberLimit>true</enableNumberLimit>
+            </limitInputAction>
+        </action>
+    </component>
+	
+
+	<component>
+        <id>4000207</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>310</x>
+                <y>430</y>
+                <width>200</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>缴费金额:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>4000208</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>430</y>11111
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/phonemoney.wav</media>
+            </playMediaAction>
+
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>4000209</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>380</x>
+                <y>530</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>4000210</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>530</y>
+                <width>150</width>
+                <heigh>50</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+        </action>
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+		
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>4000211</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>payPhone</prsCode>
+                <conditions>4000204,4000206,4000208,4000210</conditions>
+                <nextStep>  
+                    <nextPanel>40008891</nextPanel> 
+                    <display>40008894</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>99911</nextPanel>  
+                    <display>99914</display>  
+                </exception>
+                
+               <checkRules>
+					<notNull>
+                        <content>4000204</content>
+                        <errMsg>卡号不能为空</errMsg>
+                    </notNull>
+                    <notNull>
+                        <content>4000206</content>
+                        <errMsg>手机号不能为空</errMsg>
+                    </notNull> 
+                    <notNull>
+                        <content>4000208</content>
+                        <errMsg>缴费金额不能为空</errMsg>
+                    </notNull> 
+                    <notNull>
+                        <content>4000210</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull> 
+                </checkRules>
+                
+            </sendMsgAction>
+			
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>4000212</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>400</nextPanel>
+            </jumpPanelAction>
+			            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+     <component>
+        <id>4000213</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   代缴手机费</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+</panel>

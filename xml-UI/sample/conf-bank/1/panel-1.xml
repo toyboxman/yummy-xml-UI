@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>1</id>
+    <type>Panel</type>
+    <active>true</active>
+    <background>/image/5.jpg</background>
+    <component>
+        <id>2</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>860</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>多场景综合应用平台</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>40</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>3</id>
+        <type>Button</type>
+        <attribute>
+            <text>个人业务</text>
+            <rect>
+                <x>900</x>
+                <y>180</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+        <debug>
+        	<color>255,0,0</color>
+        </debug>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+            <jumpPanelAction>
+                <nextPanel>10</nextPanel>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>4</id>
+        <type>Button</type>
+        <attribute>
+            <text>企业业务</text>
+            <rect>
+                <x>900</x>
+                <y>330</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+            <jumpPanelAction>
+                <nextPanel>20</nextPanel>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+   <component>
+        <id>5</id>
+        <type>Button</type>
+        <attribute>
+            <text>网银体验</text>
+            <rect>
+                <x>900</x>
+                <y>480</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+            <jumpPanelAction>
+                <nextPanel>1</nextPanel>
+            </jumpPanelAction>
+        </action>
+		
+       <action>
+            <openBrowserAction>
+                <url>file:///C:/sun/smart-community/OnlineBank/bankindex.html</url>
+            </openBrowserAction>
+        </action>
+    </component> 
+	
+    <component>
+        <id>6</id>
+        <type>Button</type>
+        <attribute>
+            <text>社保查询</text>
+            <rect>
+                <x>900</x>
+                <y>630</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+            <debug>
+        		<color>255,0,0</color>
+            </debug>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+            <jumpPanelAction>
+                <nextPanel>50</nextPanel>
+            </jumpPanelAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>7</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>340</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>欢迎使用移动商务银行服务系统,请按相应功能键获取服务</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+  <component>
+        <id>8</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>10</x>
+                <y>20</y>
+                <width>200</width>
+                <heigh>40</heigh>
+            </rect>
+            <text>编号：00001010</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+     <component>
+        <id>9</id>
+        <type>VideoPlayer</type>
+        <attribute>
+            <rect>
+                <x>322</x>
+                <y>650</y>
+                <width>512</width>
+                <heigh>288</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <playVideoAction>
+                <media>./media/video/anhui.mp4</media>
+            </playVideoAction>
+        </action>
+    </component>
+    
+     <component>
+        <id>100001</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>900</x>
+                <y>900</y>
+                <width>300</width>
+                <heigh>40</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+            <showClockAction>
+                <!-- you can learn how to define date-time format -->
+                <!-- https://docs.oracle.com/javase/8/docs/api/java/util/Formatter.html#Formatter-java.util.Locale- 
+                default is <format>%1$tc</format> -->
+                <!--format delete %1$tT-->
+                <format>%1$tT</format>
+            </showClockAction>
+        </action>
+    </component>
+    
+</panel>

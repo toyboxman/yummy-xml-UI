@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>288820</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/2.jpg</background>
+	<component>
+        <id>288821</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>确认企业主动付款信息</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>288822</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>200</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+            <text></text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>288823</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>确定付款</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>qypaydo</prsCode>
+                <conditions>4204,4206,4208,42010,42012</conditions>
+                <nextStep>  
+                    <nextPanel>288830</nextPanel> 
+                    <display>288832</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>99901</nextPanel>  
+                    <display>99904</display>  
+                </exception>
+            </sendMsgAction>
+        </action>
+		
+    </component>
+	
+    <component>
+        <id>288824</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>700</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>取消付款</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>4201</nextPanel>
+            </jumpPanelAction>
+			 <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>4204,4206,4208,42010,42012</conditions>
+            </cleanAction>
+        </action>
+    </component>
+	
+	
+</panel>

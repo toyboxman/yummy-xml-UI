@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>5041</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/2.jpg</background>
+	<component>
+        <id>5042</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>五险缴费信息</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>5043</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>200</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>类  型:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>5044</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>250</x>
+                <y>200</y>
+                <width>330</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+        <action>
+            <showComboBoxAction>
+                <items>1/养老, 2/失业, 3/工伤, 4/生育, 5/医疗</items>
+            </showComboBoxAction>
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>5045</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>200</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>年  份:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>5046</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>950</x>
+                <y>200</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+       <action>
+            <showComboBoxAction>
+                <items>1/2015, 2/2011, 3/2012, 4/2013, 5/2014</items>
+            </showComboBoxAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>5047</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>300</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>身份证:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	
+	<component>
+        <id>5048</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>250</x>
+                <y>300</y>
+                <width>330</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+         <action>
+            <playMediaAction>
+                <media>./media/audio/shenfengzhenghaoma.wav</media>
+            </playMediaAction>
+         </action>
+    </component>
+	
+	<component>
+        <id>5049</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>800</x>
+                <y>300</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密  码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+
+    </component>
+	
+	<component>
+        <id>50410</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>950</x>
+                <y>300</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+			
+        </action>
+    </component>
+	
+	
+    <component>
+        <id>50411</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>650</x>
+                <y>450</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+        <action>
+            <sendMsgAction>
+                <prsCode>querywxjfxx</prsCode>
+                <conditions>5044,5046,5048,50410</conditions>
+                <nextStep>  
+                    <nextPanel>5041</nextPanel> 
+                    <display>50414</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>501999</nextPanel>  
+                    <display>50199903</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>5046</content>
+                        <errMsg>年份不能为空</errMsg>
+                    </notNull>
+					
+					<notNull>
+                        <content>5048</content>
+                        <errMsg>身份证不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>50410</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull> 
+                </checkRules>
+            </sendMsgAction>
+			
+        </action>
+    </component>
+	
+    <component>
+        <id>50412</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>950</x>
+                <y>450</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>50</nextPanel>
+            </jumpPanelAction>
+			
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>5044,5046,5048,50410,50414</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+	
+	
+	
+    <decorator>
+        <id>50413</id>
+        <type>ScrollPanel</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>560</y>
+                <width>1280</width>
+                <heigh>400</heigh>
+            </rect>
+            
+        </attribute>
+        <component>
+            <id>50414</id>
+            <type>Table</type>
+            <attribute>
+                <rect>
+                    <x>0</x>
+                    <y>560</y>
+                    <width>1280</width>
+                    <heigh>400</heigh>
+                </rect>
+                
+            </attribute>
+            <action>
+                <showTableAction>
+                    <columnNames>缴费单位代码, 缴费人员类别, 缴费日期, 缴费基数, 单位缴费, 个人缴费, 合计</columnNames>
+                </showTableAction>
+				<setFontAction>
+                <fontSize>22</fontSize>
+				</setFontAction>
+            </action>
+        </component>
+    </decorator>
+	
+	
+	<component>
+        <id>50415</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   五险缴费信息</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+</panel>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../../conf/WindowXmlSchema.xsd'>
+    <id>100</id>
+    <type>Panel</type>
+    <active>true</active>
+    <component>
+        <id>1001</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>860</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>130</heigh>
+            </rect>
+            <text>&lt;html&gt;&#160;&#160;&#160;融科汇通&lt;br&gt;智慧社区物业服务系统&lt;/html&gt;</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>40</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>1002</id>
+        <type>Button</type>
+        <attribute>
+            <text>缴费业务</text>
+            <rect>
+                <x>900</x>
+                <y>200</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>105</nextPanel>
+            </jumpPanelAction>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>1003</id>
+        <type>Button</type>
+        <attribute>
+            <text>查询业务</text>
+            <rect>
+                <x>900</x>
+                <y>330</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+            <debug>false</debug>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>205</nextPanel>
+            </jumpPanelAction>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>1004</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>340</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>欢迎使用社区物业服务系统,请按相应功能键获取服务</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>1005</id>
+        <type>VideoPlayer</type>
+        <attribute>
+            <rect>
+                <x>90</x>
+                <y>200</y>
+                <width>645</width>
+                <heigh>360</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <playVideoAction>
+                <media>./media/video/Smart-Community.mp4</media>
+                <replayInterval>30</replayInterval>
+            </playVideoAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>1006</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>90</x>
+                <y>650</y>
+                <width>320</width>
+                <heigh>40</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>28</fontSize>
+            </setFontAction>
+            <showClockAction>
+                <!-- you can learn how to define date-time format -->
+                <!-- https://docs.oracle.com/javase/8/docs/api/java/util/Formatter.html#Formatter-java.util.Locale- 
+                default is <format>%1$tc</format> -->
+                <format>%1$tT</format>
+            </showClockAction>
+        </action>
+    </component>
+</panel>

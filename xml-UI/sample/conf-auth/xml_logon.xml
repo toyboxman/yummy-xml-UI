@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+     -Dui.build.scheme=./conf-auth/xml_logon.xml
+-->
+
+<window
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../conf/WindowXmlSchema.xsd'>
+    <id>0</id>
+    <type>Frame</type>
+    <ui-style>
+        <!--<lookandfeel>
+            com.jgoodies.looks.windows.WindowsLookAndFeel
+        </lookandfeel>-->
+        <fullscreen>true</fullscreen>
+        <font>
+            <name>Fangsong</name>
+            <size>18</size>
+            <style>BOLD</style>
+        </font>
+        <background>/image/5.jpg</background>
+        <progress>/image/loader_orange_256.gif</progress>
+        <color>115,164,209</color>
+    </ui-style>
+    <attribute>
+        <text>移动银行信息管理系统</text>
+        <icon>/image/bank-icon-256.png</icon>
+    </attribute>
+    <heartbeat>false</heartbeat>
+    <menubar>
+        <menu>
+            <id>-10</id>
+            <name>管理操作</name>
+            <item>
+                <id>-11</id>
+                <name>用户管理</name>
+                <action>
+                    <jumpAction>
+                        <nextPanel>200</nextPanel>
+                    </jumpAction>
+                </action>
+            </item>
+            <item>
+                <id>-12</id>
+                <name>设备管理</name>
+                <action>
+                    <jumpAction>
+                        <nextPanel>200</nextPanel>
+                    </jumpAction>
+                </action>
+            </item>
+        </menu>
+        <menu>
+            <id>-20</id>
+            <name>关于</name>
+            <enable>true</enable>
+            <item>
+                <id>-21</id>
+                <name>版本信息</name>
+                <action>
+                    <customizedAction>
+                        <className>king.flow.action.customization.AboutAction</className>
+                    </customizedAction>
+                </action>
+            </item>
+        </menu>
+    </menubar>
+    <contents>
+        <page>./conf-auth/100/panel-logon-100.xml</page>
+        <page>./conf-auth/200/panel-logon-200.xml</page>
+    </contents>
+</window>

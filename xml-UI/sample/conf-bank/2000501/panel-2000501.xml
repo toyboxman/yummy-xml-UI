@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>2000501</id>
+    <type>Panel</type>
+    <active>false</active>
+	<background>/image/4.jpg</background>
+	<component>
+        <id>2000502</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>450</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>挂失服务</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>2000503</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>250</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>卡号:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+	<component>
+        <id>2000504</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>250</y>
+                <width>430</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <showComboBoxAction>
+                <items>/, ACTION4/读银行卡</items>
+            </showComboBoxAction>
+            <swipe2In1CardAction>
+                <nextCursor>2000506</nextCursor>
+                <editable>true</editable>
+</swipe2In1CardAction>
+        </action>
+		
+		<action>
+			<playMediaAction>
+                <media>./media/audio/accout.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>2000505</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>350</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>类型:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>2000506</id>
+        <type>ComboBox</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>350</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+        </action>
+        <action>
+            <showComboBoxAction>
+                <items>1/挂失, 2/解挂</items>
+            </showComboBoxAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>2000507</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>450</y>
+                <width>100</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>密码:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+	<component>
+        <id>2000508</id>
+        <type>PasswordField</type>
+        <attribute>
+            <rect>
+                <x>500</x>
+                <y>450</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+		
+		<action>
+            <limitInputAction>
+                <length>6</length>
+            </limitInputAction>
+			<playMediaAction>
+                <media>./media/audio/passwd.wav</media>
+            </playMediaAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>2000509</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>650</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>提交</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>30</fontSize>
+            </setFontAction>
+
+        </action>
+		
+		<action>
+            <sendMsgAction>
+                <prsCode>accoutGuashi</prsCode>
+                <conditions>2000504,2000508</conditions>
+                <nextStep>  
+                    <nextPanel>20006681</nextPanel> 
+                    <display>20006684</display>  
+                </nextStep>
+                <exception> 
+                    <nextPanel>999</nextPanel>  
+                    <display>9993</display>  
+                </exception>
+				
+				<checkRules>
+					<notNull>
+                        <content>2000504</content>
+                        <errMsg>卡号不能为空</errMsg>
+                    </notNull>
+					
+                    <notNull>
+                        <content>2000508</content>
+                        <errMsg>密码不能为空</errMsg>
+                    </notNull>
+				</checkRules>	
+            </sendMsgAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>2000510</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>750</x>
+                <y>650</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>200</nextPanel>
+            </jumpPanelAction>
+        </action>
+		
+		<action>
+            <cleanAction>
+                <conditions>2000504,2000508</conditions>
+            </cleanAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>2000511</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>930</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>   挂失服务</text>
+			
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+</panel>

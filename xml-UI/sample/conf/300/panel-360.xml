@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
+引用 http://www.freeformatter.com/xsd-generator.html
+     http://www.w3schools.com/schema/schema_elements_ref.asp
+     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>360</id>
+    <type>Panel</type>
+    <active>false</active>
+    <component>
+        <id>360335</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>650</x>
+                <y>750</y>
+                <width>200</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>查询</text>
+        </attribute>
+    </component>
+    <component>
+        <id>360336</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>900</x>
+                <y>750</y>
+                <width>200</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>返回</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>200</nextPanel>
+            </jumpPanelAction>
+        </action>
+    </component>
+    <component>
+        <id>360337</id>
+        <type>AdvancedTable</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>95</y>
+                <width>1275</width>
+                <heigh>600</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <showTableAction>
+                <columnNames>流水号, 名称, 开始时间, 结束时间, 费用</columnNames>
+            </showTableAction>
+        </action>
+    </component>
+</panel>
