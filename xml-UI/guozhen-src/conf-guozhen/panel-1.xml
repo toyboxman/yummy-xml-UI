@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
-引用 http://www.freeformatter.com/xsd-generator.html
-     http://www.w3schools.com/schema/schema_elements_ref.asp
-     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
--->
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../schema/WindowXmlSchema.xsd'>
     <id>1</id>
     <type>Panel</type>
     <active>true</active>
@@ -40,23 +34,23 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <rect>
                 <x>990</x>
                 <y>280</y>
-                <width>150</width>
-                <heigh>150</heigh>
+                <width>165</width>
+                <heigh>155</heigh>
             </rect>
-            <debug>false</debug>
-            
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>30</fontSize>
+                <fontSize>25</fontSize>
             </setFontAction>
+        </action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>201</nextPanel>
             </jumpPanelAction>
         </action>
     </component>
 
-   <component>
+    <component>
         <id>10</id>
         <type>Button</type>
         <attribute>
@@ -64,18 +58,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <rect>
                 <x>990</x>
                 <y>580</y>
-                <width>150</width>
-                <heigh>150</heigh>
+                <width>165</width>
+                <heigh>155</heigh>
             </rect>
-            <debug>false</debug>
         </attribute>
         <action>
-            <setFontAction>
-                <fontSize>30</fontSize>
-            </setFontAction>
             <jumpPanelAction>
                 <nextPanel>251</nextPanel>
             </jumpPanelAction>
+        </action>
+        <action> 
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
         </action>
     </component> 
     
@@ -98,7 +93,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
     
-  <component>
+    <component>
         <id>13</id>
         <type>Label</type>
         <attribute>
@@ -117,7 +112,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
     
-     <component>
+    <component>
         <id>14</id>
         <type>VideoPlayer</type>
         <attribute>
@@ -135,12 +130,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
     
-     <component>
+    <component>
         <id>15</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>900</x>
+                <x>1015</x>
                 <y>900</y>
                 <width>300</width>
                 <heigh>40</heigh>

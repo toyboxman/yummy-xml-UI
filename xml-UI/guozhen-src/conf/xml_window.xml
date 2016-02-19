@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
-引用 http://www.freeformatter.com/xsd-generator.html
-     http://www.w3schools.com/schema/schema_elements_ref.asp
-     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
--->
-
 <window
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../schema/WindowXmlSchema.xsd'>
     <id>0</id>
     <type>Frame</type>
     <ui-style>
-        <!--<lookandfeel>
-            com.jgoodies.looks.windows.WindowsLookAndFeel
-        </lookandfeel>-->
         <font>
             <name>Apple LiSung Light</name>
             <size>30</size>
@@ -49,145 +39,28 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <text>国祯燃气自助缴费系统</text>
     </attribute>
     <contents>
-    	<!--
-		<page>./conf-bank/panel-1.xml</page>
-		<page>./conf-bank/10/panel-10.xml</page>
-		<page>./conf-bank/10/101301/panel-101301.xml</page>
-		<page>./conf-bank/10/101301/panel-101388.xml</page>
-		<page>./conf-bank/10/101301/panel-101399.xml</page>
-		<page>./conf-bank/10/101401/panel-101401.xml</page>
-		<page>./conf-bank/10/101401/panel-101401001.xml</page>
-		<page>./conf-bank/10/101401/panel-101488.xml</page>
-		<page>./conf-bank/10/101401/panel-101499.xml</page>
-		<page>./conf-bank/10/101501/panel-101501.xml</page>
-		<page>./conf-bank/10/101501/panel-101588.xml</page>
-		<page>./conf-bank/10/101501/panel-101599.xml</page>
-		<page>./conf-bank/10/101601/panel-101601.xml</page>
-		<page>./conf-bank/10/101601/panel-101688.xml</page>
-		<page>./conf-bank/10/101601/panel-101699.xml</page>
-		<page>./conf-bank/10/101701/panel-101701.xml</page>
-		<page>./conf-bank/10/101701/panel-101701001.xml</page>
-		<page>./conf-bank/10/101701/panel-101788.xml</page>
-		<page>./conf-bank/10/101701/panel-101799.xml</page>
-		<page>./conf-bank/10/101901/panel-101901.xml</page>
-		<page>./conf-bank/10/101901/panel-101999.xml</page>  
-		<page>./conf-bank/20/panel-20.xml</page>
-		<page>./conf-bank/20/201301/panel-201301.xml</page>
-		<page>./conf-bank/20/201301/panel-201301001.xml</page>
-		<page>./conf-bank/20/201301/panel-201388.xml</page>
-		<page>./conf-bank/20/201301/panel-201399.xml</page>
-		<page>./conf-bank/20/201401/panel-201401.xml</page>
-		<page>./conf-bank/20/201401/panel-201488.xml</page>
-		<page>./conf-bank/20/201401/panel-201499.xml</page>
-		<page>./conf-bank/20/201501/panel-201501.xml</page>
-		<page>./conf-bank/20/201501/panel-201501001.xml</page>
-		<page>./conf-bank/20/201501/panel-201588.xml</page>
-		<page>./conf-bank/20/201501/panel-201599.xml</page>
-		<page>./conf-bank/20/201601/panel-201601.xml</page>
-		<page>./conf-bank/20/201601/panel-201601001.xml</page>
-		<page>./conf-bank/20/201601/panel-201688.xml</page>
-		<page>./conf-bank/20/201601/panel-201699.xml</page>
-		<page>./conf-bank/20/201701/panel-201701.xml</page>
-		<page>./conf-bank/20/201701/panel-201788.xml</page>
-		<page>./conf-bank/20/201701/panel-201799.xml</page>
-		<page>./conf-bank/20/201801/panel-201801.xml</page>
-		<page>./conf-bank/20/201801/panel-201801001.xml</page>
-		<page>./conf-bank/20/201801/panel-201801101.xml</page>
-		<page>./conf-bank/20/201801/panel-201801201.xml</page>
-		<page>./conf-bank/20/201801/panel-201801301.xml</page>
-		<page>./conf-bank/20/201801/panel-201899.xml</page>
-		<page>./conf-bank/20/201901/panel-201901.xml</page>
-		<page>./conf-bank/20/201901/panel-201988.xml</page>
-		<page>./conf-bank/20/201901/panel-201999.xml</page>
-		<page>./conf-bank/30/panel-30.xml</page>
-		<page>./conf-bank/30/301501/panel-301501.xml</page>
-		<page>./conf-bank/30/301501/panel-301501001.xml</page>
-		<page>./conf-bank/30/301501/panel-301588.xml</page>
-		<page>./conf-bank/30/301501/panel-301599.xml</page>
-		<page>./conf-bank/30/301601/panel-301601.xml</page>
-		<page>./conf-bank/30/301601/panel-301699.xml</page>
-		<page>./conf-bank/30/301701/panel-301701.xml</page>
-		<page>./conf-bank/30/301701/panel-301788.xml</page>
-		<page>./conf-bank/30/301701/panel-301799.xml</page>
-		<page>./conf-bank/40/panel-40.xml</page>
-		<page>./conf-bank/40/401301/panel-401301.xml</page>
-		<page>./conf-bank/40/401301/panel-401399.xml</page>
-		<page>./conf-bank/40/401401/panel-401401.xml</page>
-		<page>./conf-bank/40/401401/panel-401488.xml</page>
-		<page>./conf-bank/40/401401/panel-401499.xml</page>
-		<page>./conf-bank/40/401501/panel-401501.xml</page>
-		<page>./conf-bank/40/401501/panel-401588.xml</page>
-		<page>./conf-bank/40/401501/panel-401599.xml</page>
-		<page>./conf-bank/40/401601/panel-401601.xml</page>
-		<page>./conf-bank/40/401601/panel-401699.xml</page>
-		<page>./conf-bank/50/panel-50.xml</page>
-		<page>./conf-bank/50/501301/panel-501301.xml</page>
-		<page>./conf-bank/50/501301/panel-501388.xml</page>
-		<page>./conf-bank/50/501301/panel-501399.xml</page>
-		<page>./conf-bank/50/501401/panel-501401.xml</page>
-		<page>./conf-bank/50/501401/panel-501401001.xml</page>
-		<page>./conf-bank/50/501401/panel-501488.xml</page>
-		<page>./conf-bank/50/501401/panel-501499.xml</page>
-		<page>./conf-bank/50/501501/panel-501501.xml</page>
-		<page>./conf-bank/50/501501/panel-501501001.xml</page>
-		<page>./conf-bank/50/501501/panel-501588.xml</page>
-		<page>./conf-bank/50/501501/panel-501599.xml</page>
-		<page>./conf-bank/50/501701/panel-501701.xml</page>
-		<page>./conf-bank/50/501701/panel-501799.xml</page>
-		<page>./conf-bank/60/panel-60.xml</page>
-		<page>./conf-bank/60/601301/panel-601301.xml</page>
-		<page>./conf-bank/60/601301/panel-601388.xml</page>
-		<page>./conf-bank/60/601301/panel-601399.xml</page>
-		<page>./conf-bank/60/601401/panel-601401.xml</page>
-		<page>./conf-bank/60/601501/panel-601501.xml</page>
-		<page>./conf-bank/60/601501/panel-601588.xml</page>
-		<page>./conf-bank/60/601501/panel-601599.xml</page>
-		<page>./conf-bank/60/601601/panel-601601.xml</page>
-		<page>./conf-bank/60/601601/panel-601688.xml</page>
-		<page>./conf-bank/60/601601/panel-601699.xml</page>
-		<page>./conf-bank/60/601701/panel-601701.xml</page>
-		<page>./conf-bank/60/601701/panel-601701001.xml</page>
-		<page>./conf-bank/60/601701/panel-601788.xml</page>
-		<page>./conf-bank/60/601701/panel-601799.xml</page>
-		<page>./conf-bank/70/panel-70.xml</page>
-		<page>./conf-bank/80/panel-80.xml</page>  
-		<page>./conf-bank/90/panel-90.xml</page>
-		<page>./conf-bank/90/941/panel-941.xml</page>        
-		<page>./conf-bank/90/941/941301/panel-941301.xml</page>
-		<page>./conf-bank/90/941/941301/panel-941388.xml</page>
-		<page>./conf-bank/90/941/941301/panel-941399.xml</page>
-		<page>./conf-bank/90/941/941401/panel-941401.xml</page>
-		<page>./conf-bank/90/941/941401/panel-941488.xml</page>
-		<page>./conf-bank/90/941/941401/panel-941499.xml</page>
-		<page>./conf-bank/90/941/941501/panel-941501.xml</page>
-		<page>./conf-bank/90/941/941501/panel-941501001.xml</page>
-		<page>./conf-bank/90/941/941501/panel-941588.xml</page>
-		<page>./conf-bank/90/941/941501/panel-941599.xml</page>
-		-->
-		
-		<page>./conf-guozhen/panel-1.xml</page>
-		<page>./conf-guozhen/20/panel-20.xml</page>
-		<page>./conf-guozhen/20/201101/panel-201101.xml</page>
-		<page>./conf-guozhen/20/201101/panel-201199.xml</page>
-		<page>./conf-guozhen/20/201501/panel-201501.xml</page>
-		<page>./conf-guozhen/20/201501/panel-201501001.xml</page>
-		<page>./conf-guozhen/20/201501/panel-201588.xml</page>
-		<page>./conf-guozhen/20/201501/panel-201599.xml</page>
-		<page>./conf-guozhen/25/panel-25.xml</page>
-		<page>./conf-guozhen/25/201201/panel-201201.xml</page>
-		<page>./conf-guozhen/25/201201/panel-201201001.xml</page>
-		<page>./conf-guozhen/25/201201/panel-201299.xml</page>
-		<page>./conf-guozhen/25/201801/panel-201801.xml</page>
-		<page>./conf-guozhen/25/201801/panel-201801001.xml</page>
-		<page>./conf-guozhen/25/201801/panel-201801101.xml</page>
-		<page>./conf-guozhen/25/201801/panel-201801201.xml</page>
-		<page>./conf-guozhen/25/201801/panel-201801301.xml</page>
-		<!--
-		<page>./conf-guozhen/25/201801/panel-201801201.xml</page>
-		<page>./conf-guozhen/25/201801/panel-201801301.xml</page>
-		-->
-		<page>./conf-guozhen/25/201801/panel-201888.xml</page>
-		<page>./conf-guozhen/25/201801/panel-201899.xml</page>
-	
+        <page>./conf-guozhen/panel-1.xml</page>
+        <page>./conf-guozhen/20/panel-20.xml</page>
+        <page>./conf-guozhen/20/201101/panel-201101.xml</page>
+        <page>./conf-guozhen/20/201101/panel-201199.xml</page>
+        <page>./conf-guozhen/20/201501/panel-201501.xml</page>
+        <page>./conf-guozhen/20/201501/panel-201501001.xml</page>
+        <page>./conf-guozhen/20/201501/panel-201588.xml</page>
+        <page>./conf-guozhen/20/201501/panel-201599.xml</page>
+        <page>./conf-guozhen/25/panel-25.xml</page>
+        <page>./conf-guozhen/25/201201/panel-201201.xml</page>
+        <page>./conf-guozhen/25/201201/panel-201201001.xml</page>
+        <page>./conf-guozhen/25/201201/panel-201299.xml</page>
+        <page>./conf-guozhen/25/201801/panel-201801.xml</page>
+        <page>./conf-guozhen/25/201801/panel-201801001.xml</page>
+        <page>./conf-guozhen/25/201801/panel-201801101.xml</page>
+        <page>./conf-guozhen/25/201801/panel-201801201.xml</page>
+        <page>./conf-guozhen/25/201801/panel-201801301.xml</page>
+        <!--
+        <page>./conf-guozhen/25/201801/panel-201801201.xml</page>
+        <page>./conf-guozhen/25/201801/panel-201801301.xml</page>
+        -->
+        <page>./conf-guozhen/25/201801/panel-201888.xml</page>
+        <page>./conf-guozhen/25/201801/panel-201899.xml</page>
     </contents>
 </window>

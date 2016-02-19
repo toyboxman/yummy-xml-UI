@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
-引用 http://www.freeformatter.com/xsd-generator.html
-     http://www.w3schools.com/schema/schema_elements_ref.asp
-     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
-     查询用户欠费信息，获取欠费金额后，用户插入银行卡、输入密码
--->
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
     <id>201501001</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/1.jpg</background>
-	 <component>
+    <background>/image/1.jpg</background>
+    <component>
         <id>201501002</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>400</x>
+                <x>350</x>
                 <y>70</y>
-                <width>600</width>
+                <width>610</width>
                 <heigh>150</heigh>
             </rect>
-            <text>普卡代缴燃气费第2步</text>
+            <text>普卡代缴燃气费第2步(共3步)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -40,16 +33,11 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             <rect>
                 <x>100</x>
                 <y>200</y>
-                <width>120</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>用户号:</text>
+            <text>用户编号:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -57,36 +45,31 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>TextField</type>
         <attribute>
             <rect>
-                 <x>350</x>
+                <x>250</x>
                 <y>200</y>
-                <width>300</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
     
-     <component>
+    <component>
         <id>201501005</id>
         <type>Label</type>
         <attribute>
             <rect>
-                 <x>650</x>
+                <x>470</x>
                 <y>200</y>
-                <width>150</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
             <text>用户名称:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -94,27 +77,26 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>850</x>
+                <x>620</x>
                 <y>200</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
     
-    
-     <component>
+    <component>
         <id>201501007</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>100</x>
-                 <y>300</y>
+                <y>300</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
@@ -122,7 +104,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>35</fontSize>
+                <fontSize>30</fontSize>
             </setFontAction>
         </action>
     </component>
@@ -132,37 +114,31 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>TextField</type>
         <attribute>
             <rect>
-                 <x>350</x>
-                 <y>300</y>
-                <width>300</width>
+                <x>250</x>
+                <y>300</y>
+                <width>975</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
     
-    
-     <component>
+    <component>
         <id>201501009</id>
         <type>Label</type>
         <attribute>
             <rect>
-                 <x>650</x>
-                 <y>300</y>
+                <x>840</x>
+                <y>200</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
             <text>客户类型:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -170,36 +146,31 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>850</x>
-                 <y>300</y>
-                <width>200</width>
+                <x>990</x>
+                <y>200</y>
+                <width>230</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
     
-      <component>
+    <component>
         <id>201501011</id>
         <type>Label</type>
         <attribute>
             <rect>
-                 <x>650</x>
-                 <y>400</y>
+                <x>840</x>
+                <y>500</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
             <text>应交金额:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -207,36 +178,31 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>850</x>
-                 <y>400</y>
-                <width>300</width>
+                <x>990</x>
+                <y>500</y>
+                <width>230</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
      
-      <component>
+    <component>
         <id>201501022</id>
         <type>Label</type>
         <attribute>
             <rect>
-                 <x>100</x>
-                 <y>400</y>
-                <width>150</width>
+                <x>470</x>
+                <y>500</y>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>上次结余:</text>
+            <text>前次结余:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -244,36 +210,31 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>350</x>
-                 <y>400</y>
+                <x>620</x>
+                <y>500</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
     
-   <component>
+    <component>
         <id>201501013</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>100</x>
-                 <y>500</y>
-                <width>200</width>
+                <y>400</y>
+                <width>150</width>
                 <heigh>60</heigh>
             </rect>
             <text>付款卡号:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -281,107 +242,105 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>ComboBox</type>
         <attribute>
             <rect>
-                 <x>350</x>
-                 <y>500</y>
-                <width>430</width>
+                <x>250</x>
+                <y>400</y>
+                <width>420</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
 		
-		<action>
+        <action>
             <showComboBoxAction>
                 <items>/, ACTION4/读银行卡</items>
             </showComboBoxAction>
             <swipe2In1CardAction>
                 <nextCursor>201501007</nextCursor>
                 <editable>true</editable>
+                <debug>
+                    <cardId>622105786978523412</cardId>
+                </debug>
             </swipe2In1CardAction>
         </action>
 		
-		<action>
-			<playMediaAction>
+        <action>
+            <playMediaAction>
                 <media>./media/audio/accoutfrom.wav</media>
             </playMediaAction>
         </action>
 		
     </component>
     
-   <component>
+    <component>
         <id>201501015</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>100</x>
-                 <y>600</y>
-                <width>100</width>
+                <y>500</y>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>密码:</text>
+            <text>支付密码:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-	
     </component>
 	
-	<component>
+    <component>
         <id>201501016</id>
         <type>PasswordField</type>
         <attribute>
             <rect>
-                 <x>350</x>
-                 <y>600</y>
-                <width>150</width>
+                <x>250</x>
+                <y>500</y>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
 		
-		<action>
+        <action>
             <limitInputAction>
                 <length>6</length>
             </limitInputAction>
 			
-			<playMediaAction>
+            <playMediaAction>
                 <media>./media/audio/passwd.wav</media>
             </playMediaAction>
         </action>
     </component>
     
     <decorator>
-    	    <id>201501021</id>
+        <id>201501021</id>
         <type>ScrollPanel</type>
         <attribute>
             <rect>
                 <x>100</x>
-                 <y>700</y>
-                <width>900</width>
-                <heigh>600</heigh>
+                <y>700</y>
+                <width>1120</width>
+                <heigh>280</heigh>
             </rect>
-            <debug>false</debug>
         </attribute>
 
-     <component>
-        <id>201501017</id>
-        <type>Table</type>
-        <attribute>
-            <rect>
-                <x>100</x>
-                 <y>700</y>
-                <width>900</width>
-                <heigh>200</heigh>
-            </rect>
-        </attribute>
-       	<action>
-			<showTableAction>
-				 <columnNames>账期,单价,数量,滞纳金,应交金额</columnNames>
-			</showTableAction>
-			<setFontAction>
-			<fontSize>22</fontSize>
-			</setFontAction>
-		</action>
-    </component>
+        <component>
+            <id>201501017</id>
+            <type>Table</type>
+            <attribute>
+                <rect>
+                    <x>100</x>
+                    <y>700</y>
+                    <width>900</width>
+                    <heigh>200</heigh>
+                </rect>
+            </attribute>
+            <action>
+                <showTableAction>
+                    <columnNames>账期,单价,数量,滞纳金,应交金额</columnNames>
+                </showTableAction>
+            </action>
+            <action>
+                <setFontAction>
+                    <fontSize>22</fontSize>
+                </setFontAction>
+            </action>
+        </component>
     </decorator>
     
     <component>
@@ -389,9 +348,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Button</type>
         <attribute>
             <rect>
-                 <x>650</x>
-                 <y>600</y>
-                <width>150</width>
+                <x>650</x>
+                <y>600</y>
+                <width>200</width>
                 <heigh>80</heigh>
             </rect>
             <text>下一步</text>
@@ -402,7 +361,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </setFontAction>
         </action>
 		
-		<action>
+        <action>
             <sendMsgAction>
                 <prsCode>pay_pubiao</prsCode>
                 <conditions>201501014,201501016,201501012</conditions>
@@ -415,12 +374,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                     <display>201596</display>  
                 </exception>
                 <checkRules>
-					<notNull>
-                        <content>201501005</content>
-                        <errMsg>请插入银行卡，并点击下拉菜单进行读卡</errMsg>
+                    <notNull>
+                        <content>201501014</content>
+                        <errMsg>请插入银行卡,并点击下拉菜单进行读卡</errMsg>
                     </notNull>
                     <notNull>
-                        <content>201501007</content>
+                        <content>201501016</content>
                         <errMsg>请用密码键盘输入密码</errMsg>
                     </notNull>
                 </checkRules>
@@ -428,14 +387,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
+    <component>
         <id>201501019</id>
         <type>Button</type>
         <attribute>
             <rect>
-                <x>850</x>
-                 <y>600</y>
-                <width>150</width>
+                <x>880</x>
+                <y>600</y>
+                <width>200</width>
                 <heigh>80</heigh>
             </rect>
             <text>返回</text>
@@ -445,24 +404,28 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>201</nextPanel>
             </jumpPanelAction>
         </action>
-		<action>
+        <action>
             <cleanAction>
                 <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016,201501017,201501023</conditions>
             </cleanAction>
-        </action>   
+        </action>  
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+            </setFontAction>
+        </action> 
     </component>
-     <component>
+    <component>
         <id>201501020</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>0</x>
+                <x>20</x>
                 <y>930</y>
                 <width>1024</width>
                 <heigh>150</heigh>
             </rect>
-            <text>   普卡代缴燃气费</text>
-			
+            <text>普卡代缴燃气费</text>		
         </attribute>
         <action>
             <setFontAction>
@@ -470,5 +433,23 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </setFontAction>
         </action>
     </component>
-	
+    <component>
+        <id>201501024</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>680</x>
+                <y>400</y>
+                <width>500</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>(请插入银行卡,并点击下拉菜单进行读卡)</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>24</fontSize>
+                <fontStyle>PLAIN</fontStyle>
+            </setFontAction>
+        </action>
+    </component>
 </panel>
