@@ -18,6 +18,7 @@ import static king.flow.common.CommonUtil.cleanPrintMsg;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.printReceipt;
 import static king.flow.common.CommonUtil.retrievePrintMsg;
+import static king.flow.common.CommonUtil.showErrorMsg;
 import static king.flow.common.CommonUtil.showMsg;
 import king.flow.view.Action.SetPrinterAction;
 
@@ -64,7 +65,7 @@ public class DefaultPrinterAction extends DefaultBaseAction {
             Thread.sleep(TimeUnit.SECONDS.toMillis(1));
             String content = retrievePrintMsg();
             if (content == null || content.length() == 0) {
-                showMsg(owner, getResourceMsg("printer.done.prompt"));
+                showMsg(owner.getTopLevelAncestor(), getResourceMsg("printer.done.prompt"));
             } else {
                 //printer cannot recognize UTF8 , change to GBK
 //                content = new String(content.getBytes(UTF8), GBK);
@@ -73,7 +74,7 @@ public class DefaultPrinterAction extends DefaultBaseAction {
 //                printReceipt(header_ex, content, tail_ex);
                 if (debugMode != null) {
                     Thread.sleep(TimeUnit.SECONDS.toMillis(2));
-                    showMsg(owner, debugMode.getPrompt());
+                    showMsg(owner.getTopLevelAncestor(), debugMode.getPrompt());
                     cleanPrintMsg();
                 } else {
                     printReceipt(header, content, tail);
@@ -90,6 +91,7 @@ public class DefaultPrinterAction extends DefaultBaseAction {
                 get();
             } catch (InterruptedException | ExecutionException ex) {
                 Logger.getLogger(DefaultPrinterAction.class.getName()).log(Level.SEVERE, "Printer is out of service", ex);
+                showErrorMsg(owner.getTopLevelAncestor(), getResourceMsg("printer.status.error.prompt"));
             }
         }
 
