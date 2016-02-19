@@ -338,6 +338,11 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     panelJump(forwardPage);
                 } else {
                     panelJump(next.getNextPanel());
+                    Integer nextCursor = next.getNextCursor();
+                    if (nextCursor != null && getBlockMeta(nextCursor) != null) {
+                        JComponent block = getBlock(nextCursor, JComponent.class);
+                        block.requestFocusInWindow();
+                    }
                 }
             }
         });

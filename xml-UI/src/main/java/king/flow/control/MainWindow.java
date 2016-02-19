@@ -494,6 +494,9 @@ public class MainWindow {
                                 component, panel, pageURI, null);
                     }
                 }
+
+                checkNextCursorParameter(sendMsgAction.getNextStep().getNextCursor(),
+                        actionName, component, panel, pageURI);
             } else {
                 //successful next step must be set
                 promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[nextStep]");
@@ -977,25 +980,31 @@ public class MainWindow {
         return configErrMsg;
     }
 
-    private void validateJumpAction(JumpAction jumpPanelAction, Component component, Panel panel, String pageURI) throws HeadlessException {
+    private void validateJumpAction(JumpAction jumpPanelAction, Component component,
+            Panel panel, String pageURI) throws HeadlessException {
         if (jumpPanelAction != null) {
             final String actionName = jumpPanelAction.getClass().getSimpleName();
             checkSupportedAction(component, actionName, panel, pageURI);
             String propertyName = "nextPanel";
             checkNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
                     propertyName, component, panel, pageURI);
-            Integer nextCursor = jumpPanelAction.getNextCursor();
-            if (nextCursor != null) {
-                propertyName = "nextCursor";
-                if (!this.meta_blocks.containsKey(nextCursor)) {
-                    promptNonexistentBlockErr(nextCursor, actionName, propertyName, component, panel, pageURI, null);
-                }
-                checkComponentType(nextCursor, actionName, propertyName, component, panel, pageURI);
-            }
+            checkNextCursorParameter(jumpPanelAction.getNextCursor(), actionName, component, panel, pageURI);
         }
     }
 
-    private void checkSupportedAction(Component component, final String actionName, Panel panel, String pageURI) throws HeadlessException {
+    private void checkNextCursorParameter(Integer nextCursor, final String actionName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        String propertyName = "nextCursor";
+        if (nextCursor != null) {
+            if (!this.meta_blocks.containsKey(nextCursor)) {
+                promptNonexistentBlockErr(nextCursor, actionName, propertyName, component, panel, pageURI, null);
+            }
+            checkComponentType(nextCursor, actionName, propertyName, component, panel, pageURI);
+        }
+    }
+
+    private void checkSupportedAction(Component component, final String actionName,
+            Panel panel, String pageURI) throws HeadlessException {
         if (!isActionSupport(component, actionName)) {
             promptUnsupportedActionBlockErr(actionName, component, panel, pageURI, null);
         }
