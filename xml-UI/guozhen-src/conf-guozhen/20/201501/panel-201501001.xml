@@ -102,11 +102,6 @@
             </rect>
             <text>详细地址:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>30</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -376,7 +371,7 @@
                 <checkRules>
                     <notNull>
                         <content>201501014</content>
-                        <errMsg>请插入银行卡,并点击下拉菜单进行读卡</errMsg>
+                        <errMsg>请插入银行卡,点击卡号框右侧按钮进行读卡</errMsg>
                     </notNull>
                     <notNull>
                         <content>201501016</content>
@@ -443,7 +438,7 @@
                 <width>500</width>
                 <heigh>60</heigh>
             </rect>
-            <text>(请插入银行卡,并点击下拉菜单进行读卡)</text>
+            <text>(请插入银行卡,点击卡号框右侧按钮进行读卡)</text>
         </attribute>
         <action>
             <setFontAction>

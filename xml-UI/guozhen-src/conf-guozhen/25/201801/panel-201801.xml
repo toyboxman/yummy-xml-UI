@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
-引用 http://www.freeformatter.com/xsd-generator.html
-     http://www.w3schools.com/schema/schema_elements_ref.asp
-     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
      查询IC卡类型信息 调用5100
 -->
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
     <id>201801</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/4.jpg</background>
-	<component>
+    <background>/image/4.jpg</background>
+    <component>
         <id>201802</id>
         <type>Label</type>
         <attribute>
@@ -24,7 +20,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>IC卡代缴燃气费第1步</text>
+            <text>IC卡代缴燃气费第1步(共3步)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -33,31 +29,26 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 
-	<component>
+    <component>
         <id>201805</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>200</x>
+                <x>250</x>
                 <y>330</y>
                 <width>280</width>
                 <heigh>60</heigh>
             </rect>
             <text>燃气IC卡号:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
 
-	<component>
+    <component>
         <id>201806</id>
         <type>ComboBox</type>
         <attribute>
             <rect>
-                <x>500</x>
+                <x>430</x>
                 <y>330</y>
                 <width>430</width>
                 <heigh>60</heigh>
@@ -72,17 +63,37 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextCursor>201811</nextCursor>
                 <editable>true</editable>
                 <debug>
-				    <cardId>998129999</cardId>
-				</debug>
-			</swipe2In1CardAction>
+                    <cardId>998129999</cardId>
+                </debug>
+            </swipe2In1CardAction>
         </action>
         
         <action>
-			<playMediaAction>
+            <playMediaAction>
                 <media>./media/audio/ranqifeinum.wav</media>
             </playMediaAction>
         </action>
 		
+    </component>
+    
+    <component>
+        <id>201807</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>390</y>
+                <width>500</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>(请插入燃气卡,点击卡号框右侧按钮进行读卡)</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>24</fontSize>
+                <fontStyle>PLAIN</fontStyle>
+            </setFontAction>
+        </action>
     </component>
 	
     <component>
@@ -90,8 +101,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Button</type>
         <attribute>
             <rect>
-                <x>500</x>
-                <y>700</y>
+                <x>540</x>
+                <y>630</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -103,7 +114,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </setFontAction>
         </action>
 		
-		<action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_ICbiao</prsCode>
                 <conditions>201806</conditions>
@@ -118,9 +129,9 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 </exception>
                 
                 <checkRules>
-					<notNull>
+                    <notNull>
                         <content>201806</content>
-                        <errMsg>请插入IC卡，并点击下拉菜单进行读IC卡</errMsg>
+                        <errMsg>请插入燃气卡,点击卡号框右侧按钮进行读卡</errMsg>
                     </notNull>
                 </checkRules>
                 
@@ -133,8 +144,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Button</type>
         <attribute>
             <rect>
-                <x>800</x>
-                <y>700</y>
+                <x>820</x>
+                <y>630</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -145,10 +156,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>251</nextPanel>
             </jumpPanelAction>
 		
-             <cleanAction>
+            <cleanAction>
                 <conditions>201806</conditions>
             </cleanAction>
+        </action>
             
+        <action>
             <setFontAction>
                 <fontSize>35</fontSize>
             </setFontAction>
@@ -159,12 +172,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Label</type>
         <attribute>
             <rect>
-                <x>0</x>
+                <x>20</x>
                 <y>930</y>
                 <width>1024</width>
                 <heigh>150</heigh>
             </rect>
-            <text>   IC卡代缴燃气费</text>
+            <text>IC卡代缴燃气费</text>
 			
         </attribute>
         <action>

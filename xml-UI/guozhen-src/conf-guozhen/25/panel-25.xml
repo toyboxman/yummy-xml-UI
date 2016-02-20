@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
-引用 http://www.freeformatter.com/xsd-generator.html
-     http://www.w3schools.com/schema/schema_elements_ref.asp
-     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
--->
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../schema/WindowXmlSchema.xsd'>
     <id>251</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/4.jpg</background>
+    <background>/image/4.jpg</background>
     <component>
         <id>252</id>
         <type>Label</type>
@@ -32,7 +26,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
+    <component>
         <id>253</id>
         <type>Button</type>
         <attribute>
@@ -43,7 +37,6 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
-            <debug>false</debug>
         </attribute>
         <action>
             <jumpPanelAction>
@@ -53,26 +46,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
-	<id>256</id>
-	<type>Button</type>
-	<attribute>
-	    <text>IC卡交费明细查询</text>
-	    <rect>
-	        <x>800</x>
-	        <y>240</y>
-	        <width>300</width>
-	        <heigh>80</heigh>
-	    </rect>
-	    <debug>false</debug>
-	</attribute>
-	<action>
-	    <jumpPanelAction>
-	        <nextPanel>201201</nextPanel>
-	        <nextCursor>201204</nextCursor>
-	    </jumpPanelAction>
-	</action>
-	</component>
+    <component>
+        <id>256</id>
+        <type>Button</type>
+        <attribute>
+            <text>IC卡交费明细查询</text>
+            <rect>
+                <x>800</x>
+                <y>240</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>201201</nextPanel>
+                <nextCursor>201204</nextCursor>
+            </jumpPanelAction>
+        </action>
+    </component>
 	
     <component>
         <id>257</id>

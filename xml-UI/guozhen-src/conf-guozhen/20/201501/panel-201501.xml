@@ -44,7 +44,7 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>500</x>
+                <x>470</x>
                 <y>330</y>
                 <width>300</width>
                 <heigh>60</heigh>
@@ -55,7 +55,6 @@
             <playMediaAction>
                 <media>./media/audio/jiaofeinum.wav</media>
             </playMediaAction>
-			
         </action>
     </component>
 	

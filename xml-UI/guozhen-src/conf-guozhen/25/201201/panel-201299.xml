@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
-引用 http://www.freeformatter.com/xsd-generator.html
-     http://www.w3schools.com/schema/schema_elements_ref.asp
-     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
--->
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
@@ -12,8 +6,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <id>201299</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/1.jpg</background>
-	 <component>
+    <background>/image/1.jpg</background>
+    <component>
         <id>201298</id>
         <type>Label</type>
         <attribute>
@@ -91,7 +85,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>251</nextPanel>
             </jumpPanelAction>
         </action>
-		<action>
+        <action>
             <cleanAction>
                 <conditions>201204,201201004,201201006,201201008,201201010,201201011</conditions>
             </cleanAction>
