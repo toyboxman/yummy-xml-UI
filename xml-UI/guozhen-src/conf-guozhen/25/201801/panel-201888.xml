@@ -20,7 +20,7 @@
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>IC卡代缴燃气费第3步</text>
+            <text>IC卡代缴燃气费完成(共4步)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -35,7 +35,7 @@
         <attribute>
             <rect>
                 <x>400</x>
-                <y>300</y>
+                <y>200</y>
                 <width>900</width>
                 <heigh>300</heigh>
             </rect>
@@ -53,24 +53,16 @@
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
-            
         </attribute>
         <action>
             <setPrinterAction>
-                <header>颖淮农村商业银行</header>
-                <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
+                <header>国祯燃气公司</header>
+                <tail>此凭条仅供参照,如有异议请联系客服中心:96669</tail>
+                <debug>
+                    <prompt>&lt;html&gt;&#160;&#160;&#160;&#160;&#160;模拟打印结果&lt;br&gt;&lt;br&gt;国祯燃气公司&lt;br&gt;流水号:28999777887&lt;br&gt;缴费号:2001900018&lt;br&gt;用户名称:张胜利&lt;br&gt;缴费金额:356.00元&lt;br&gt;处理信息:缴费成功&lt;br&gt;此凭条仅供参照,如有异议请联系客服中心:96669&lt;/html&gt;</prompt>
+                </debug>
             </setPrinterAction>
-        </action>
-        <action>
-            <jumpPanelAction>
-                <nextPanel>251</nextPanel>
-            </jumpPanelAction>
-        </action>
-        <action>
-            <cleanAction>
-                <conditions>201806,201801004,201801006,201801008,201801010,201801012,201801104,201801106,201801108,201801110,201801112,201801018,201801204,201801206,201801304,201801306,201801214,201801216,201801314,201801316</conditions>
-            </cleanAction>
-        </action>   
+        </action>  
     </component>
 	
     <component>
@@ -83,7 +75,7 @@
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
-            <text>返回</text>
+            <text>确认完成</text>
         </attribute>
         <action>
             <jumpPanelAction>
@@ -107,7 +99,6 @@
                 <heigh>150</heigh>
             </rect>
             <text>IC卡代缴燃气费</text>
-			
         </attribute>
         <action>
             <setFontAction>

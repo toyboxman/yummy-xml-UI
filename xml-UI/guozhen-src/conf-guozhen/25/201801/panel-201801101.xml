@@ -331,13 +331,12 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>0</x>
+                <x>20</x>
                 <y>930</y>
                 <width>1024</width>
                 <heigh>150</heigh>
             </rect>
-            <text>   IC卡代缴燃气费</text>
-			
+            <text>IC卡代缴燃气费</text>	
         </attribute>
         <action>
             <setFontAction>
