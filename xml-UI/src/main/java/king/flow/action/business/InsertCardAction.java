@@ -16,13 +16,18 @@ import javax.swing.JComboBox;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
+import javax.swing.SwingConstants;
 import javax.swing.SwingWorker;
+import javax.swing.plaf.FontUIResource;
 import king.flow.action.DefaultBaseAction;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
+import static king.flow.common.CommonUtil.getWindowNode;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Component;
+import king.flow.view.UiStyle;
+import king.flow.view.Window;
 
 /**
  *
@@ -53,6 +58,8 @@ public class InsertCardAction extends DefaultBaseAction {
         }
     }
 
+    protected JLabel progressTip;
+
     @Override
     protected void installButtonAction() {
         JButton btn = (JButton) this.owner;
@@ -60,12 +67,24 @@ public class InsertCardAction extends DefaultBaseAction {
 
             @Override
             public void actionPerformed(ActionEvent e) {
+                progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
+                Window windowNode = getWindowNode();
+                UiStyle uiStyle = windowNode.getUiStyle();
+                if (uiStyle != null && uiStyle.getFont() != null && uiStyle.getFont().getName() != null) {
+                    progressTip.setFont(new FontUIResource(uiStyle.getFont().getName(), java.awt.Font.BOLD, 50));
+                } else {
+                    progressTip.setFont(new FontUIResource("Dialog", java.awt.Font.BOLD, 50));
+                }
+                progressTip.setHorizontalAlignment(SwingConstants.CENTER);
+                progressTip.setVerticalAlignment(SwingConstants.BOTTOM);
                 final JDialog progressAnimation = buildAnimationDialog(animationFile);
+                progressTip.setBounds(0, 120, progressAnimation.getBounds().width, 80);
+                progressAnimation.getContentPane().add(progressTip, 1);
                 final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
                 if (bgImage != null) {
-                    progressAnimation.getContentPane().add(new JLabel(bgImage), 1);
+                    progressAnimation.getContentPane().add(new JLabel(bgImage), 2);
                 } else {
-                    progressAnimation.getContentPane().add(new JLabel(), 1);
+                    progressAnimation.getContentPane().add(new JLabel(), 2);
                 }
 
                 waitCommunicationTask(new ReadCardTask(), progressAnimation);
