@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
-引用 http://www.freeformatter.com/xsd-generator.html
-     http://www.w3schools.com/schema/schema_elements_ref.asp
-     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
      发送银行扣款，并向燃气公司发送缴费确认
 -->
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
     <id>201888</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/4.jpg</background>
-	 <component>
+    <background>/image/4.jpg</background>
+    <component>
         <id>201887</id>
         <type>Label</type>
         <attribute>
@@ -59,25 +55,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </rect>
             
         </attribute>
-		<action>
+        <action>
             <setPrinterAction>
                 <header>颖淮农村商业银行</header>
                 <tail>此凭条仅供参照自助银行,如有异议请联系客服中心:96669</tail>
-			</setPrinterAction>
+            </setPrinterAction>
         </action>
         <action>
             <jumpPanelAction>
                 <nextPanel>251</nextPanel>
             </jumpPanelAction>
         </action>
-		<action>
+        <action>
             <cleanAction>
                 <conditions>201806,201801004,201801006,201801008,201801010,201801012,201801104,201801106,201801108,201801110,201801112,201801018,201801204,201801206,201801304,201801306,201801214,201801216,201801314,201801316</conditions>
             </cleanAction>
         </action>   
     </component>
 	
-	<component>
+    <component>
         <id>201884</id>
         <type>Button</type>
         <attribute>
@@ -94,23 +90,23 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>251</nextPanel>
             </jumpPanelAction>
         </action>
-		<action>
+        <action>
             <cleanAction>
                 <conditions>201806,201801004,201801006,201801008,201801010,201801012,201801104,201801106,201801108,201801110,201801112,201801018,201801204,201801206,201801304,201801306,201801214,201801216,201801314,201801316</conditions>
             </cleanAction>
         </action>   
     </component>
-     <component>
+    <component>
         <id>201883</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>0</x>
+                <x>20</x>
                 <y>930</y>
                 <width>1024</width>
                 <heigh>150</heigh>
             </rect>
-            <text>   IC卡代缴燃气费</text>
+            <text>IC卡代缴燃气费</text>
 			
         </attribute>
         <action>

@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-xml配置文件是用来描述界面组件的关系,对应节点的定义请参照XmlUISchema.xsd文件
-引用 http://www.freeformatter.com/xsd-generator.html
-     http://www.w3schools.com/schema/schema_elements_ref.asp
-     http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx
      查询用户欠费信息，获取欠费金额后，用户插入银行卡、输入密码
 -->
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
     <id>201801101</id>
     <type>Panel</type>
     <active>false</active>
-	<background>/image/1.jpg</background>
-	 <component>
+    <background>/image/1.jpg</background>
+    <component>
         <id>201801102</id>
         <type>Label</type>
         <attribute>
@@ -57,25 +53,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>TextField</type>
         <attribute>
             <rect>
-                 <x>350</x>
+                <x>350</x>
                 <y>200</y>
                 <width>300</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
     
-     <component>
+    <component>
         <id>201801105</id>
         <type>Label</type>
         <attribute>
             <rect>
-                 <x>650</x>
+                <x>650</x>
                 <y>200</y>
                 <width>150</width>
                 <heigh>60</heigh>
@@ -100,7 +96,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
@@ -108,13 +104,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
     
     
-     <component>
+    <component>
         <id>201801107</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>100</x>
-                 <y>300</y>
+                <y>300</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
@@ -132,13 +128,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>TextField</type>
         <attribute>
             <rect>
-                 <x>350</x>
-                 <y>300</y>
+                <x>350</x>
+                <y>300</y>
                 <width>300</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
@@ -146,13 +142,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     </component>
     
     
-     <component>
+    <component>
         <id>201801109</id>
         <type>Label</type>
         <attribute>
             <rect>
-                 <x>650</x>
-                 <y>300</y>
+                <x>650</x>
+                <y>300</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
@@ -171,25 +167,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <attribute>
             <rect>
                 <x>850</x>
-                 <y>300</y>
+                <y>300</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
     
-     <component>
+    <component>
         <id>201801111</id>
         <type>Label</type>
         <attribute>
             <rect>
-                 <x>100</x>
-                 <y>400</y>
+                <x>100</x>
+                <y>400</y>
                 <width>250</width>
                 <heigh>60</heigh>
             </rect>
@@ -208,25 +204,25 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <attribute>
             <rect>
                 <x>350</x>
-                 <y>400</y>
+                <y>400</y>
                 <width>300</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
-          <action>  
+        <action>  
             <limitInputAction editable="false">
                 <length>30</length>
             </limitInputAction>
         </action>
     </component>
     
-       <component>
+    <component>
         <id>201801117</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>100</x>
-                 <y>700</y>
+                <y>700</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -240,24 +236,26 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 	
     </component>
 	
-	<component>
+    <component>
         <id>201801118</id>
         <type>TextField</type>
         <attribute>
             <rect>
-                 <x>350</x>
-                 <y>700</y>
+                <x>350</x>
+                <y>700</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
 		
-		<action>
-			<playMediaAction>
+        <action>
+            <playMediaAction>
                 <media>./media/audio/money.wav</media>
             </playMediaAction>
+        </action>
 			
-			<limitInputAction>
+        <action>
+            <limitInputAction>
                 <length>16</length>
                 <enableCashLimit>true</enableCashLimit>
             </limitInputAction>
@@ -270,8 +268,8 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <type>Button</type>
         <attribute>
             <rect>
-                 <x>650</x>
-                 <y>800</y>
+                <x>650</x>
+                <y>800</y>
                 <width>150</width>
                 <heigh>80</heigh>
             </rect>
@@ -283,7 +281,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
             </setFontAction>
         </action>
 		
-		<action>
+        <action>
             <sendMsgAction>
                 <prsCode>pay_req_ICbiao</prsCode>
                 <conditions>201801118</conditions>
@@ -305,13 +303,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </action>
     </component>
 	
-	<component>
+    <component>
         <id>201801120</id>
         <type>Button</type>
         <attribute>
             <rect>
                 <x>850</x>
-                 <y>800</y>
+                <y>800</y>
                 <width>150</width>
                 <heigh>80</heigh>
             </rect>
@@ -322,13 +320,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
                 <nextPanel>251</nextPanel>
             </jumpPanelAction>
         </action>
-		<action>
+        <action>
             <cleanAction>
                 <conditions>201806,201801004,201801006,201801008,201801010,201801012,201801104,201801106,201801108,201801110,201801112</conditions>
             </cleanAction>
         </action>   
     </component>
-     <component>
+    <component>
         <id>201801121</id>
         <type>Label</type>
         <attribute>

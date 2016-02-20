@@ -45,7 +45,7 @@
 
     <component>
         <id>201806</id>
-        <type>ComboBox</type>
+        <type>TextField</type>
         <attribute>
             <rect>
                 <x>430</x>
@@ -55,28 +55,15 @@
             </rect>
         </attribute>
         
-        <action>
-            <showComboBoxAction>
-                <items>/, ACTION4/读燃气IC卡</items>
-            </showComboBoxAction>
-            <swipe2In1CardAction>
-                <nextCursor>201811</nextCursor>
-                <editable>true</editable>
-                <debug>
-                    <cardId>998129999</cardId>
-                </debug>
-            </swipe2In1CardAction>
-        </action>
-        
-        <action>
-            <playMediaAction>
-                <media>./media/audio/ranqifeinum.wav</media>
-            </playMediaAction>
+        <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
         </action>
 		
     </component>
     
-    <component>
+    <!--<component>
         <id>201807</id>
         <type>Label</type>
         <attribute>
@@ -94,7 +81,7 @@
                 <fontStyle>PLAIN</fontStyle>
             </setFontAction>
         </action>
-    </component>
+    </component>-->
 	
     <component>
         <id>201811</id>

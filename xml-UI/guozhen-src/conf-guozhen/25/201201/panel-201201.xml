@@ -43,7 +43,7 @@
 	
     <component>
         <id>201204</id>
-        <type>ComboBox</type>
+        <type>TextField</type>
         <attribute>
             <rect>
                 <x>430</x>
@@ -52,28 +52,14 @@
                 <heigh>60</heigh>
             </rect>
         </attribute>
-		
-        <action>
-            <showComboBoxAction>
-                <items>/, ACTION4/读燃气卡</items>
-            </showComboBoxAction>
-            <swipe2In1CardAction>
-                <nextCursor>201211</nextCursor>
-                <editable>true</editable>
-                <debug>
-                    <cardId>998129999</cardId>
-                </debug>
-            </swipe2In1CardAction>
+        <action>  
+            <limitInputAction editable="false">
+                <length>30</length>
+            </limitInputAction>
         </action>
-		
-        <action>
-            <playMediaAction>
-                <media>./media/audio/accout.wav</media>
-            </playMediaAction>
-        </action>	
     </component>
     
-    <component>
+    <!--<component>
         <id>201205</id>
         <type>Label</type>
         <attribute>
@@ -91,7 +77,7 @@
                 <fontStyle>PLAIN</fontStyle>
             </setFontAction>
         </action>
-    </component>
+    </component>-->
 	
     <component>
         <id>201211</id>

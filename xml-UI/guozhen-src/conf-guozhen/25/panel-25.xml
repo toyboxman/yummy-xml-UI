@@ -39,10 +39,20 @@
             </rect>
         </attribute>
         <action>
-            <jumpPanelAction>
-                <nextPanel>201801</nextPanel>
-                <nextCursor>201806</nextCursor>
-            </jumpPanelAction>
+            <insertICardAction>
+                <nextStep>
+                    <nextPanel>201801</nextPanel>
+                    <display>201806</display>
+                    <debug>
+                        9633242
+                    </debug>
+                </nextStep>
+                <exception>
+                    <nextPanel>201899</nextPanel>
+                    <display>201896</display>
+                </exception>
+                <animationTip>/image/loader_green_256.gif</animationTip>
+            </insertICardAction>
         </action>
     </component>
 	
@@ -59,10 +69,20 @@
             </rect>
         </attribute>
         <action>
-            <jumpPanelAction>
-                <nextPanel>201201</nextPanel>
-                <nextCursor>201204</nextCursor>
-            </jumpPanelAction>
+            <insertICardAction>
+                <nextStep>
+                    <nextPanel>201201</nextPanel>
+                    <display>201204</display>
+                    <!--<debug>
+                        9633242
+                    </debug>-->
+                </nextStep>
+                <exception>
+                    <nextPanel>201899</nextPanel>
+                    <display>201896</display>
+                </exception>
+                <animationTip>/image/loader_green_256.gif</animationTip>
+            </insertICardAction>
         </action>
     </component>
 	
