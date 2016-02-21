@@ -51,7 +51,6 @@
                     <nextPanel>201899</nextPanel>
                     <display>201896</display>
                 </exception>
-                <animationTip>/image/loader_green_256.gif</animationTip>
             </insertICardAction>
         </action>
     </component>
@@ -81,7 +80,6 @@
                     <nextPanel>201899</nextPanel>
                     <display>201896</display>
                 </exception>
-                <animationTip>/image/loader_green_256.gif</animationTip>
             </insertICardAction>
         </action>
     </component>

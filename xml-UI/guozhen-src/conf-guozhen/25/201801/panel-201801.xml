@@ -94,13 +94,7 @@
                 <heigh>80</heigh>
             </rect>
             <text>下一步</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-		
+        </attribute>		
         <action>
             <sendMsgAction>
                 <prsCode>query_ICbiao</prsCode>
@@ -146,12 +140,6 @@
             <cleanAction>
                 <conditions>201806</conditions>
             </cleanAction>
-        </action>
-            
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
         </action>
     </component>
     <component>

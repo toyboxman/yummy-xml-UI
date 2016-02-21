@@ -243,13 +243,7 @@
                 <heigh>80</heigh>
             </rect>
             <text>下一步</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-		
+        </attribute>	
         <action>
             <sendMsgAction>
                 <prsCode>pay_req_ICbiao</prsCode>

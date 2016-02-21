@@ -116,12 +116,9 @@
             <cleanAction>
                 <conditions>201104,201114</conditions>
             </cleanAction>
-        </action> 
-
-		
+        </action>
     </component>
-	
-	
+    
     <decorator>
         <id>201113</id>
         <type>ScrollPanel</type>

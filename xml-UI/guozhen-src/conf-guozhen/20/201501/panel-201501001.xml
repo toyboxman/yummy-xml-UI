@@ -345,17 +345,11 @@
             <rect>
                 <x>650</x>
                 <y>600</y>
-                <width>200</width>
+                <width>250</width>
                 <heigh>80</heigh>
             </rect>
             <text>下一步</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
-		
+        </attribute>		
         <action>
             <sendMsgAction>
                 <prsCode>pay_pubiao</prsCode>
@@ -371,7 +365,7 @@
                 <checkRules>
                     <notNull>
                         <content>201501014</content>
-                        <errMsg>请插入银行卡,点击卡号框右侧按钮进行读卡</errMsg>
+                        <errMsg>(请点击卡号框右侧按钮进行读卡)</errMsg>
                     </notNull>
                     <notNull>
                         <content>201501016</content>
@@ -387,9 +381,9 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>880</x>
+                <x>920</x>
                 <y>600</y>
-                <width>200</width>
+                <width>250</width>
                 <heigh>80</heigh>
             </rect>
             <text>返回</text>
@@ -403,12 +397,7 @@
             <cleanAction>
                 <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016,201501017,201501023</conditions>
             </cleanAction>
-        </action>  
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action> 
+        </action>
     </component>
     <component>
         <id>201501020</id>
@@ -438,7 +427,7 @@
                 <width>500</width>
                 <heigh>60</heigh>
             </rect>
-            <text>(请插入银行卡,点击卡号框右侧按钮进行读卡)</text>
+            <text>(请点击卡号框右侧按钮进行读卡)</text>
         </attribute>
         <action>
             <setFontAction>
