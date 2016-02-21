@@ -73,9 +73,9 @@
                 <nextStep>
                     <nextPanel>201201</nextPanel>
                     <display>201204</display>
-                    <!--<debug>
+                    <debug>
                         9633242
-                    </debug>-->
+                    </debug>
                 </nextStep>
                 <exception>
                     <nextPanel>201899</nextPanel>

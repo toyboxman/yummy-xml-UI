@@ -93,7 +93,6 @@
         </action>
     </component>
     
-    
     <component>
         <id>201801007</id>
         <type>Label</type>
@@ -225,8 +224,7 @@
 			
         <action>
             <limitInputAction>
-                <length>8</length>
-                <enableCashLimit>true</enableCashLimit>
+                <length>4</length>
             </limitInputAction>
         </action>
     </component>

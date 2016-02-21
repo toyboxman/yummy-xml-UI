@@ -15,12 +15,12 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>400</x>
+                <x>350</x>
                 <y>70</y>
-                <width>600</width>
+                <width>610</width>
                 <heigh>150</heigh>
             </rect>
-            <text>IC卡代缴燃气费第2步</text>
+            <text>IC卡代缴燃气费第2步(共4步)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -36,16 +36,11 @@
             <rect>
                 <x>100</x>
                 <y>200</y>
-                <width>120</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
             <text>IC卡号:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -53,9 +48,9 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>350</x>
+                <x>250</x>
                 <y>200</y>
-                <width>300</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -71,18 +66,13 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>650</x>
+                <x>470</x>
                 <y>200</y>
-                <width>150</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
             <text>用户名称:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -90,9 +80,9 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>850</x>
+                <x>620</x>
                 <y>200</y>
-                <width>400</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -103,7 +93,6 @@
         </action>
     </component>
     
-    
     <component>
         <id>201801107</id>
         <type>Label</type>
@@ -111,16 +100,11 @@
             <rect>
                 <x>100</x>
                 <y>300</y>
-                <width>150</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
             <text>详细地址:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -128,9 +112,9 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>350</x>
+                <x>250</x>
                 <y>300</y>
-                <width>300</width>
+                <width>975</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -147,28 +131,23 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>650</x>
-                <y>300</y>
-                <width>150</width>
+                <x>840</x>
+                <y>200</y>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
             <text>客户类型:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
         <id>201801110</id>
         <type>TextField</type>
         <attribute>
-            <rect>
-                <x>850</x>
-                <y>300</y>
-                <width>200</width>
+             <rect>
+                <x>990</x>
+                <y>200</y>
+                <width>230</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -186,16 +165,11 @@
             <rect>
                 <x>100</x>
                 <y>400</y>
-                <width>250</width>
+                <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>IC卡表类型:</text>
+            <text>卡表类型:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
     </component>
     
     <component>
@@ -203,7 +177,7 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>350</x>
+                <x>250</x>
                 <y>400</y>
                 <width>300</width>
                 <heigh>60</heigh>
@@ -222,17 +196,12 @@
         <attribute>
             <rect>
                 <x>100</x>
-                <y>700</y>
+                <y>500</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
             <text>购气金额:</text>
         </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>35</fontSize>
-            </setFontAction>
-        </action>
 	
     </component>
 	
@@ -241,8 +210,8 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>350</x>
-                <y>700</y>
+                <x>250</x>
+                <y>500</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
@@ -256,7 +225,7 @@
 			
         <action>
             <limitInputAction>
-                <length>16</length>
+                <length>7</length>
                 <enableCashLimit>true</enableCashLimit>
             </limitInputAction>
         </action>
@@ -268,9 +237,9 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>650</x>
-                <y>800</y>
-                <width>150</width>
+                <x>540</x>
+                <y>630</y>
+                <width>250</width>
                 <heigh>80</heigh>
             </rect>
             <text>下一步</text>
@@ -308,9 +277,9 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>850</x>
-                <y>800</y>
-                <width>150</width>
+                <x>820</x>
+                <y>630</y>
+                <width>250</width>
                 <heigh>80</heigh>
             </rect>
             <text>返回</text>

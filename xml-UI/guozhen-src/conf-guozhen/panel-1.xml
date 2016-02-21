@@ -125,7 +125,7 @@
         </attribute>
         <action>
             <playVideoAction>
-                <media>./media/video/anhui.mp4</media>
+                <media>./media/video/bank_adv.mp4</media>
             </playVideoAction>
         </action>
     </component>
