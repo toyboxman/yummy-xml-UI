@@ -90,6 +90,9 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
         }
         //as textfield set uneditable, it cannot get cursor focusing. so I decide to use document to limit input
         //owner.setEditable(editable);
+        if (!editable) {
+            owner.setEnabled(editable);
+        }
     }
 
     private class LengthInputLimit extends PlainDocument {
