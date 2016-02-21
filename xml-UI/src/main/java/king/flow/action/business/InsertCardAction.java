@@ -80,7 +80,8 @@ public class InsertCardAction extends DefaultBaseAction {
                 final JDialog progressAnimation = buildAnimationDialog(animationFile);
                 progressTip.setBounds(0, 120, progressAnimation.getBounds().width, 80);
                 progressAnimation.getContentPane().add(progressTip, 1);
-                final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
+                final ImageIcon bgImage = CommonUtil.getImageIcon("/image/2.jpg");
+                 //final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
                 if (bgImage != null) {
                     progressAnimation.getContentPane().add(new JLabel(bgImage), 2);
                 } else {
