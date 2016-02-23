@@ -134,7 +134,7 @@
 		
         <action>
             <playMediaAction>
-                <media>./media/audio/accountfrom.wav</media>
+                <media>./media/audio/gas_charge_number.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -149,7 +149,7 @@
                 <width>500</width>
                 <heigh>60</heigh>
             </rect>
-            <text>(请点击卡号框右侧按钮进行读卡)</text>
+            <text>(请点击卡号框右侧按钮读取银行卡)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -191,7 +191,7 @@
             </limitInputAction>
 			
             <playMediaAction>
-                <media>./media/audio/passwd.wav</media>
+                <media>./media/audio/gas_pay_password.wav</media>
             </playMediaAction>
         </action>
     </component>
@@ -248,7 +248,7 @@
                 <checkRules>
                     <notNull>
                         <content>201801314</content>
-                        <errMsg>请插入银行卡，并点击下拉菜单进行读卡</errMsg>
+                        <errMsg>请点击卡号框右侧按钮读取银行卡</errMsg>
                     </notNull>
                     <notNull>
                         <content>201801316</content>

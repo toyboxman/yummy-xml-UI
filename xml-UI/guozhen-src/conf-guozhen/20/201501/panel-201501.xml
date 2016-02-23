@@ -53,7 +53,7 @@
 		
         <action>
             <playMediaAction>
-                <media>./media/audio/jiaofeinum.wav</media>
+                <media>./media/audio/gas_charge_number.wav</media>
             </playMediaAction>
         </action>
     </component>
