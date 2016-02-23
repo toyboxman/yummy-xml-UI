@@ -133,7 +133,7 @@
         </action>
         <action>
             <playMediaAction>
-                <media>./media/audio/gas_charge_number.wav</media>
+                <media>./media/audio/gas_pay_account.wav</media>
             </playMediaAction>
         </action>
     </component>
