@@ -5,6 +5,7 @@
     <id>201599</id>
     <type>Panel</type>
     <active>false</active>
+    <background>/image/2.jpg</background>
 	
     <component>
         <id>201598</id>

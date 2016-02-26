@@ -6,7 +6,7 @@
     <id>201201</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/1.jpg</background>
+    <background>/image/3.jpg</background>
     <component>
         <id>201202</id>
         <type>Label</type>

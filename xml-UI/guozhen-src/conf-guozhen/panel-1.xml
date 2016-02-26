@@ -5,9 +5,9 @@
     <id>1</id>
     <type>Panel</type>
     <active>true</active>
-    <background>/image/5.jpg</background>
+    <background>/image/1.jpg</background>
 	
-    <component>
+    <!--<component>
         <id>2</id>
         <type>Label</type>
         <attribute>
@@ -24,7 +24,7 @@
                 <fontSize>40</fontSize>
             </setFontAction>
         </action>
-    </component>
+    </component>-->
 	
     <component>
         <id>4</id>
@@ -34,8 +34,8 @@
             <rect>
                 <x>990</x>
                 <y>280</y>
-                <width>165</width>
-                <heigh>155</heigh>
+                <width>200</width>
+                <heigh>65</heigh>
             </rect>
         </attribute>
         <action>
@@ -57,9 +57,9 @@
             <text>IC卡表用户</text>
             <rect>
                 <x>990</x>
-                <y>580</y>
-                <width>165</width>
-                <heigh>155</heigh>
+                <y>380</y>
+                <width>200</width>
+                <heigh>65</heigh>
             </rect>
         </attribute>
         <action>
@@ -99,7 +99,7 @@
         <attribute>
             <rect>
                 <x>10</x>
-                <y>20</y>
+                <y>10</y>
                 <width>200</width>
                 <heigh>40</heigh>
             </rect>
@@ -112,7 +112,7 @@
         </action>
     </component>
     
-    <component>
+    <!--<component>
         <id>14</id>
         <type>VideoPlayer</type>
         <attribute>
@@ -128,7 +128,7 @@
                 <media>./media/video/bank_adv.mp4</media>
             </playVideoAction>
         </action>
-    </component>
+    </component>-->
     
     <component>
         <id>15</id>

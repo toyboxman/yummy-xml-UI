@@ -6,7 +6,7 @@
     <id>201201001</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/1.jpg</background>
+    <background>/image/3.jpg</background>
     <component>
         <id>201201002</id>
         <type>Label</type>
@@ -227,7 +227,7 @@
         <attribute>
             <rect>
                 <x>20</x>
-                <y>970</y>
+                <y>960</y>
                 <width>1024</width>
                 <heigh>70</heigh>
             </rect>
