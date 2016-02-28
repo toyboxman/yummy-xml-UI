@@ -535,6 +535,21 @@ public class MainWindow {
     private void validateSetFontAction(king.flow.view.Action.SetFontAction setFontAction, Component component, Panel panel, String pageURI) {
         if (setFontAction != null) {
             checkSupportedAction(component, SET_FONT_ACTION, panel, pageURI);
+            final String actionName = setFontAction.getClass().getSimpleName();
+            final String correctionTips = "\ncorrect value should be like [255,255,0]";
+            if (setFontAction.getFontColor() != null) {
+                Color fontColor = CommonUtil.getTrueColor(setFontAction.getFontColor());
+                if (fontColor == null) {
+                    promptMistakenFormatBlockErr(component.getId(), actionName, "fontColor", component, panel, pageURI, correctionTips);
+                }
+            }
+
+            if (setFontAction.getFontBgColor() != null) {
+                Color backgroundColor = CommonUtil.getTrueColor(setFontAction.getFontBgColor());
+                if (backgroundColor == null) {
+                    promptMistakenFormatBlockErr(component.getId(), actionName, "fontBgColor", component, panel, pageURI, correctionTips);
+                }
+            }
         }
     }
 
@@ -1372,6 +1387,7 @@ public class MainWindow {
     private void doSetFontAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SetFontAction fontSetAction = actionNode.getSetFontAction();
         if (fontSetAction != null) {
+            DefaultFontAction fontAction = null;
             String name = fontSetAction.getFontName();
             Integer size = fontSetAction.getFontSize();
             FontstyleEnum style = fontSetAction.getFontStyle();
@@ -1387,7 +1403,24 @@ public class MainWindow {
                 if (style != null) {
                     font.setStyle(style);
                 }
-                Action fontAction = new DefaultFontAction(font);
+                fontAction = new DefaultFontAction(font);
+            }
+
+            if (fontSetAction.getFontColor() != null) {
+                if (fontAction == null) {
+                    fontAction = new DefaultFontAction();
+                }
+                fontAction.setForegroundColor(CommonUtil.getTrueColor(fontSetAction.getFontColor()));
+            }
+
+            if (fontSetAction.getFontBgColor() != null) {
+                if (fontAction == null) {
+                    fontAction = new DefaultFontAction();
+                }
+                fontAction.setBackgroundColor(CommonUtil.getTrueColor(fontSetAction.getFontBgColor()));
+            }
+
+            if (fontAction != null) {
                 doAction(fontAction, component.getId());
             }
         }
