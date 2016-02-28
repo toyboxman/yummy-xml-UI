@@ -56,6 +56,11 @@
                 <media>./media/audio/gas_charge_number.wav</media>
             </playMediaAction>
         </action>
+        <action>
+            <limitInputAction>
+                <length>10</length>
+            </limitInputAction>
+        </action>
     </component>
 	
     <component>

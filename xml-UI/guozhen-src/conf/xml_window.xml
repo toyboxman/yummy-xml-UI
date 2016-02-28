@@ -14,6 +14,7 @@
         <background>/image/1.jpg</background>
         <progress>/image/loader_orange_256.gif</progress>
         <color>190,214,252</color>
+        <!--<textcolor>255,255,255</textcolor>-->
     </ui-style>
 	
     <driver>

@@ -365,7 +365,7 @@
                 <checkRules>
                     <notNull>
                         <content>201501014</content>
-                        <errMsg>(请点击卡号框右侧按钮读取银行卡)</errMsg>
+                        <errMsg>请点击卡号框右侧按钮读取银行卡</errMsg>
                     </notNull>
                     <notNull>
                         <content>201501016</content>
