@@ -98,16 +98,18 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>10</x>
-                <y>10</y>
-                <width>200</width>
+                <x>100</x>
+                <y>900</y>
+                <width>300</width>
                 <heigh>40</heigh>
             </rect>
-            <text>编号：00001010</text>
+            <text>序列号: 00001010</text>
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>25</fontSize>
+                <fontSize>28</fontSize>
+                <fontStyle>BOLD</fontStyle>
+                <fontColor>231,0,18</fontColor>
             </setFontAction>
         </action>
     </component>
@@ -144,6 +146,7 @@
         <action>
             <setFontAction>
                 <fontSize>30</fontSize>
+                <fontColor>231,0,18</fontColor>
             </setFontAction>
             <showClockAction>
                 <!-- you can learn how to define date-time format -->
