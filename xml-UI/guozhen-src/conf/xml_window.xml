@@ -13,8 +13,9 @@
 		
         <background>/image/1.jpg</background>
         <progress>/image/loader_orange_256.gif</progress>
-        <color>190,214,252</color>
-        <!--<textcolor>255,255,255</textcolor>-->
+        <!--<color>190,214,252</color>
+        <textcolor>255,255,255</textcolor>-->
+        <color>205,205,205</color>
     </ui-style>
 	
     <driver>
@@ -57,10 +58,6 @@
         <page>./conf-guozhen/25/201801/panel-201801101.xml</page>
         <page>./conf-guozhen/25/201801/panel-201801201.xml</page>
         <page>./conf-guozhen/25/201801/panel-201801301.xml</page>
-        <!--
-        <page>./conf-guozhen/25/201801/panel-201801201.xml</page>
-        <page>./conf-guozhen/25/201801/panel-201801301.xml</page>
-        -->
         <page>./conf-guozhen/25/201801/panel-201888.xml</page>
         <page>./conf-guozhen/25/201801/panel-201899.xml</page>
     </contents>
