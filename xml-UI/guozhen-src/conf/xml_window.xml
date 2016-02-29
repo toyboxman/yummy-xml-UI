@@ -15,7 +15,7 @@
         <progress>/image/loader_orange_256.gif</progress>
         <!--<color>190,214,252</color>
         <textcolor>255,255,255</textcolor>-->
-        <color>205,205,205</color>
+        <color>210,210,210</color>
     </ui-style>
 	
     <driver>

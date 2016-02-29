@@ -235,7 +235,8 @@ public class BankAppStarter {
          */
         UIManager.put("nimbusBase", new Color(115, 164, 209));
         UIManager.put("nimbusBlueGrey", new Color(115, 164, 209));
-        UIManager.put("control", new Color(115, 164, 209));
+//        UIManager.put("control", new Color(115, 164, 209));
+        UIManager.put("control", new Color(145, 190, 220));
         /*
          * orange style
          */
