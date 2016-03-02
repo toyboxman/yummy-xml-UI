@@ -9,6 +9,8 @@ import java.awt.Point;
 import java.awt.Rectangle;
 import java.io.IOException;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -46,6 +48,7 @@ import king.flow.design.FlowProcessor;
 import king.flow.net.TunnelBuilder;
 import king.flow.view.BasicAttribute;
 import king.flow.view.Driver;
+import king.flow.view.Panel;
 import king.flow.view.UiStyle;
 import king.flow.view.Window;
 
@@ -189,6 +192,13 @@ public class BankAppStarter {
             return null;
         }
         return (T) this.frame.getBuildingBlock(componentID);
+    }
+
+    public Set<Map.Entry<Panel, String>> retrievePages() {
+        if (this.frame == null) {
+            return null;
+        }
+        return frame.getPanelList();
     }
 
     private void setLookAndFeel() {

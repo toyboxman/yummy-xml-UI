@@ -13,7 +13,6 @@ import java.awt.Toolkit;
 import java.awt.Window;
 import java.io.File;
 import java.io.IOException;
-import java.math.BigInteger;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -980,10 +979,10 @@ public class CommonUtil {
 
     public static Bound adjustByResolution(Bound rawRect) {
         final Bound adjustment = new Bound();
-        adjustment.setX(BigInteger.valueOf(Math.round(rawRect.getX().doubleValue() * WIDTH_SCALE)));
-        adjustment.setY(BigInteger.valueOf(Math.round(rawRect.getY().doubleValue() * HEIGHT_SCALE)));
-        adjustment.setWidth(BigInteger.valueOf(Math.round(rawRect.getWidth().doubleValue() * WIDTH_SCALE)));
-        adjustment.setHeigh(BigInteger.valueOf(Math.round(rawRect.getHeigh().doubleValue() * HEIGHT_SCALE)));
+        adjustment.setX((int) Math.round(rawRect.getX() * WIDTH_SCALE));
+        adjustment.setY((int) Math.round(rawRect.getY() * HEIGHT_SCALE));
+        adjustment.setWidth((int) Math.round(rawRect.getWidth() * WIDTH_SCALE));
+        adjustment.setHeigh((int) Math.round(rawRect.getHeigh() * HEIGHT_SCALE));
         return adjustment;
     }
 

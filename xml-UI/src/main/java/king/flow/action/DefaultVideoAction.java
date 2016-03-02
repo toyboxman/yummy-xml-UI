@@ -42,7 +42,7 @@ public class DefaultVideoAction extends DefaultBaseAction {
         dialog.getContentPane().add(videoPlayer, BorderLayout.CENTER);
         Component component = (Component) this.components_meta.get(id);
         Bound rect = component.getAttribute().getRect();
-        dialog.setBounds(rect.getX().intValue(), rect.getY().intValue(), rect.getWidth().intValue(), rect.getHeigh().intValue());
+        dialog.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
         JPanel parent = (JPanel) this.components.get(this.showingPage);
         parent.addAncestorListener(new AncestorListener() {
 

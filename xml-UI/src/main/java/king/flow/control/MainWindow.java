@@ -16,6 +16,7 @@ import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
+import java.util.Set;
 import java.util.logging.Level;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
@@ -274,8 +275,8 @@ public class MainWindow {
         switch (type) {
             case SCROLL_PANEL:
                 JScrollPane scrollPane = new JScrollPane();
-                scrollPane.setBounds(rect.getX().intValue(), rect.getY().intValue(),
-                        rect.getWidth().intValue(), rect.getHeigh().intValue());
+                scrollPane.setBounds(rect.getX(), rect.getY(),
+                        rect.getWidth(), rect.getHeigh());
                 this.building_blocks.put(decorator_id, scrollPane);
                 this.meta_blocks.put(decorator_id, decorator);
                 if (this.meta_blocks.containsKey(component.getId())) {
@@ -293,8 +294,8 @@ public class MainWindow {
                 break;
             case TAB_PANEL:
                 JTabbedPane tabbedPane = new JTabbedPane();
-                tabbedPane.setBounds(rect.getX().intValue(), rect.getY().intValue(),
-                        rect.getWidth().intValue(), rect.getHeigh().intValue());
+                tabbedPane.setBounds(rect.getX(), rect.getY(),
+                        rect.getWidth(), rect.getHeigh());
                 this.building_blocks.put(decorator_id, tabbedPane);
                 this.meta_blocks.put(decorator_id, decorator);
                 if (this.meta_blocks.containsKey(component.getId())) {
@@ -1623,7 +1624,7 @@ public class MainWindow {
         }
 
         if (jcomponent != null) {
-            jcomponent.setBounds(rect.getX().intValue(), rect.getY().intValue(), rect.getWidth().intValue(), rect.getHeigh().intValue());
+            jcomponent.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
             debugComponent(attribute, jcomponent, id, component.getType().toString());
             this.building_blocks.put(id, jcomponent);
             this.meta_blocks.put(id, component);
@@ -1649,7 +1650,7 @@ public class MainWindow {
                 if (isFullScreen()) {
                     jFrame.setUndecorated(true);
                     // add this from JFrame.setDefaultLookAndFeelDecorated API, 
-                    // microsoft Input crash led by frame undecorated from http://www.programmersolution.com/3022806856/
+                    // microsoft Text Type Input crash led by frame undecorated from http://www.programmersolution.com/3022806856/
                     // some solution from http://blog.csdn.net/ycb1689/article/details/7894316
                     // sun bug id http://bugs.java.com/bugdatabase/view_bug.do?bug_id=4919138
                     jFrame.getRootPane().setWindowDecorationStyle(JRootPane.FRAME);
@@ -1658,7 +1659,7 @@ public class MainWindow {
                     jFrame.setTitle(text);
                 }
                 if (rect != null) {
-                    jFrame.setBounds(rect.getX().intValue(), rect.getY().intValue(), rect.getWidth().intValue(), rect.getHeigh().intValue());
+                    jFrame.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
                 } else {
                     jFrame.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
                 }
@@ -1685,7 +1686,7 @@ public class MainWindow {
                     jDialog.setTitle(text);
                 }
                 if (rect != null) {
-                    jDialog.setBounds(rect.getX().intValue(), rect.getY().intValue(), rect.getWidth().intValue(), rect.getHeigh().intValue());
+                    jDialog.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
                 } else {
                     jDialog.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
                 }
@@ -1779,5 +1780,9 @@ public class MainWindow {
             return null;
         }
         return meta_blocks.get(id);
+    }
+
+    public Set<Map.Entry<Panel, String>> getPanelList() {
+        return this.panelNodes.entrySet();
     }
 }

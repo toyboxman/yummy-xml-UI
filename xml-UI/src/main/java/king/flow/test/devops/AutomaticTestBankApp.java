@@ -267,14 +267,13 @@ public class AutomaticTestBankApp {
         }
     }
 
-    private static void checkStartup() {
+    public static void checkStartup() {
         while (!isStartupCompleted()) {
             for (Window window : Window.getWindows()) {
                 if (window.isShowing()) {
                     if (window instanceof JDialog) {
                         JDialog activeWindow = (JDialog) window;
                         if (activeWindow.getTitle() == null) {
-                            continue;
                         } else if (activeWindow.getTitle().equals(BANK_APP_INFO_DIALOG_TITLE)) {
                             getLogger(AutomaticTestBankApp.class.getName()).log(Level.INFO, "Ignore download key message box");
                             nodToInfoDialog(activeWindow);
@@ -285,11 +284,11 @@ public class AutomaticTestBankApp {
         }
     }
 
-    private static boolean isStartupCompleted() {
-        return getTerminalStatus() == RUNNING ? true : false;
+    public static boolean isStartupCompleted() {
+        return getTerminalStatus() == RUNNING;
     }
 
-    private static void nodToInfoDialog(JDialog activeWindow) {
+    public static void nodToInfoDialog(JDialog activeWindow) {
         Component[] components = activeWindow.getContentPane().getComponents();
         for (Component component : components) {
             if (component instanceof JOptionPane) {
