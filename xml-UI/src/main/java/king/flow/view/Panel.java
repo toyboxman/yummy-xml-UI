@@ -13,6 +13,7 @@ import java.util.List;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlSchemaType;
 import javax.xml.bind.annotation.XmlType;
 
@@ -40,7 +41,7 @@ import javax.xml.bind.annotation.XmlType;
  * &lt;/complexType>
  * </pre>
  * 
- * 
+ * Must add @XmlRootElement tag for Panel, otherwise edit UI function will be broken
  */
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "panel", propOrder = {
@@ -52,6 +53,7 @@ import javax.xml.bind.annotation.XmlType;
     "component",
     "decorator"
 })
+@XmlRootElement
 public class Panel {
 
     protected int id;

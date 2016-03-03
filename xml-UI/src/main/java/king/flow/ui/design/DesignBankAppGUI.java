@@ -9,16 +9,20 @@ import java.awt.event.ActionEvent;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
-import java.math.BigInteger;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JComponent;
 import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
+import javax.swing.SwingWorker;
+import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import king.flow.control.BankAppStarter;
+import king.flow.design.FlowProcessor;
 import static king.flow.test.devops.AutomaticTestBankApp.checkStartup;
 import king.flow.view.BasicAttribute;
 import king.flow.view.Panel;
@@ -28,20 +32,20 @@ import king.flow.view.Panel;
  * @author liujin
  */
 public class DesignBankAppGUI {
-
+    
     public static void setup() {
         bankAppStarter = new BankAppStarter();
     }
-
+    
     public static BankAppStarter bankAppStarter;
-
+    
     public static void main(String[] args) {
         setup();
-
+        
         java.awt.EventQueue.invokeLater(bankAppStarter::start);
-
+        
         checkStartup();
-
+        
         Set<Map.Entry<Panel, String>> pages = bankAppStarter.retrievePages();
         for (Map.Entry<Panel, String> page : pages) {
             List<king.flow.view.Component> componentList = page.getKey().getComponent();
@@ -63,7 +67,7 @@ public class DesignBankAppGUI {
             }
         }
     }
-
+    
     private static class MouseListenerImpl implements MouseListener, MouseMotionListener {
         
         Map.Entry<Panel, String> panel;
@@ -73,7 +77,7 @@ public class DesignBankAppGUI {
         final JMenuItem saveItem;
         int startX, startY;
         int endX, endY;
-
+        
         public MouseListenerImpl(JComponent source, Map.Entry<Panel, String> page, king.flow.view.Component component) {
             this.srcComp = source;
             this.panel = page;
@@ -86,9 +90,10 @@ public class DesignBankAppGUI {
                 king.flow.view.Bound rect = attribute.getRect();
                 rect.setX(srcComp.getBounds().x);
                 rect.setY(srcComp.getBounds().y);
+                new SaveFileTask(panel.getValue(), panel.getKey()).execute();
             });
         }
-
+        
         @Override
         public void mouseClicked(MouseEvent e) {
             if (e.getButton() != MouseEvent.BUTTON3) {
@@ -96,7 +101,7 @@ public class DesignBankAppGUI {
             }
             popupMenu.show(srcComp, e.getX(), e.getY());
         }
-
+        
         @Override
         public void mousePressed(MouseEvent e) {
             startX = e.getXOnScreen();
@@ -104,7 +109,7 @@ public class DesignBankAppGUI {
             getLogger(DesignBankAppGUI.class.getName()).log(Level.CONFIG,
                     "start x coordination[{0}] and y coordination[{1}]", new Object[]{startX, startY});
         }
-
+        
         @Override
         public void mouseDragged(MouseEvent e) {
             endX = e.getXOnScreen();
@@ -121,21 +126,50 @@ public class DesignBankAppGUI {
             srcComp.revalidate();
             srcComp.repaint();
         }
-
+        
         @Override
         public void mouseReleased(MouseEvent e) {
         }
-
+        
         @Override
         public void mouseEntered(MouseEvent e) {
         }
-
+        
         @Override
         public void mouseExited(MouseEvent e) {
         }
-
+        
         @Override
         public void mouseMoved(MouseEvent e) {
         }
     }
+    
+    private static class SaveFileTask extends SwingWorker<Boolean, Integer> {
+        
+        private final String fileUrl;
+        private final Panel panelNode;
+        
+        public SaveFileTask(String fileUrl, Panel panelNode) {
+            this.fileUrl = fileUrl;
+            this.panelNode = panelNode;
+        }
+        
+        @Override
+        protected Boolean doInBackground() throws Exception {
+            new FlowProcessor(fileUrl).writeOut(panelNode);
+            return true;
+        }
+        
+        @Override
+        protected void done() {
+            try {
+                get();
+            } catch (InterruptedException | ExecutionException ex) {
+                Logger.getLogger(DesignBankAppGUI.class.getName()).log(Level.SEVERE,
+                        "Fail to save component edited due to error : \n{0}", ex);
+                CommonUtil.showErrorMsg(CommonUtil.getCurrentView(), CommonUtil.shapeErrPrompt(ex));
+            }
+        }
+    }
+    
 }
