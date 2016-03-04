@@ -5,6 +5,8 @@
  */
 package king.flow.ui.design;
 
+import java.awt.Color;
+import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -19,6 +21,7 @@ import javax.swing.JComponent;
 import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
 import javax.swing.SwingWorker;
+import javax.swing.border.LineBorder;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import king.flow.control.BankAppStarter;
@@ -32,6 +35,7 @@ import king.flow.view.Panel;
  * @author liujin
  */
 public class DesignBankAppGUI {
+    private static final Font MENU_FONT = new Font("Times New Roman", Font.BOLD, 20);
     
     public static void setup() {
         bankAppStarter = new BankAppStarter();
@@ -75,6 +79,10 @@ public class DesignBankAppGUI {
         JComponent srcComp;
         final JPopupMenu popupMenu;
         final JMenuItem saveItem;
+        final JMenuItem showBoundItem;
+        final JMenuItem hideBoundItem;
+        final JMenuItem exitItem;
+        final JMenuItem propertiesItem;
         int startX, startY;
         int endX, endY;
         
@@ -83,7 +91,38 @@ public class DesignBankAppGUI {
             this.panel = page;
             this.componentMeta = component;
             this.popupMenu = new JPopupMenu();
-            this.saveItem = new JMenuItem("Save");
+            this.saveItem = new JMenuItem("Save Config");
+            this.saveItem.setFont(MENU_FONT);
+            this.showBoundItem = new JMenuItem("Show Bound");
+            this.showBoundItem.setFont(MENU_FONT);
+            this.hideBoundItem = new JMenuItem("Hide Bound");
+            this.hideBoundItem.setFont(MENU_FONT);
+            this.exitItem = new JMenuItem("Exit");
+            this.exitItem.setFont(MENU_FONT);
+            this.propertiesItem = new JMenuItem("Properties");
+            this.propertiesItem.setFont(MENU_FONT);
+            
+            initAction();
+        }
+        
+        
+        private void initAction() {
+            this.popupMenu.add(showBoundItem);
+            this.showBoundItem.addActionListener((ActionEvent e) -> {
+                srcComp.setBorder(new LineBorder(Color.yellow, 1, true));
+            });
+            this.popupMenu.add(hideBoundItem);
+            this.hideBoundItem.addActionListener((ActionEvent e) -> {
+                srcComp.setBorder(null);
+            });
+            
+            this.popupMenu.addSeparator();
+            this.popupMenu.add(propertiesItem);
+            this.propertiesItem.addActionListener((ActionEvent e) -> {
+                
+            });
+            
+            this.popupMenu.addSeparator();
             this.popupMenu.add(saveItem);
             this.saveItem.addActionListener((ActionEvent e) -> {
                 BasicAttribute attribute = componentMeta.getAttribute();
@@ -91,6 +130,12 @@ public class DesignBankAppGUI {
                 rect.setX(srcComp.getBounds().x);
                 rect.setY(srcComp.getBounds().y);
                 new SaveFileTask(panel.getValue(), panel.getKey()).execute();
+            });
+            
+            this.popupMenu.addSeparator();
+            this.popupMenu.add(exitItem);
+            this.exitItem.addActionListener((ActionEvent e) -> {
+                System.exit(0);
             });
         }
         
