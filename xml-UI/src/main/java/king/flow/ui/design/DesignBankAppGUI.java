@@ -22,6 +22,7 @@ import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
 import javax.swing.SwingWorker;
 import javax.swing.border.LineBorder;
+import javax.swing.border.TitledBorder;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import king.flow.control.BankAppStarter;
@@ -35,21 +36,23 @@ import king.flow.view.Panel;
  * @author liujin
  */
 public class DesignBankAppGUI {
+
     private static final Font MENU_FONT = new Font("Times New Roman", Font.BOLD, 20);
-    
+    private static final Font ID_FONT = MENU_FONT.deriveFont(Font.ITALIC | Font.BOLD, 12f);
+
     public static void setup() {
         bankAppStarter = new BankAppStarter();
     }
-    
+
     public static BankAppStarter bankAppStarter;
-    
+
     public static void main(String[] args) {
         setup();
-        
+
         java.awt.EventQueue.invokeLater(bankAppStarter::start);
-        
+
         checkStartup();
-        
+
         Set<Map.Entry<Panel, String>> pages = bankAppStarter.retrievePages();
         for (Map.Entry<Panel, String> page : pages) {
             List<king.flow.view.Component> componentList = page.getKey().getComponent();
@@ -71,9 +74,9 @@ public class DesignBankAppGUI {
             }
         }
     }
-    
+
     private static class MouseListenerImpl implements MouseListener, MouseMotionListener {
-        
+
         Map.Entry<Panel, String> panel;
         king.flow.view.Component componentMeta;
         JComponent srcComp;
@@ -85,7 +88,7 @@ public class DesignBankAppGUI {
         final JMenuItem propertiesItem;
         int startX, startY;
         int endX, endY;
-        
+
         public MouseListenerImpl(JComponent source, Map.Entry<Panel, String> page, king.flow.view.Component component) {
             this.srcComp = source;
             this.panel = page;
@@ -99,29 +102,33 @@ public class DesignBankAppGUI {
             this.hideBoundItem.setFont(MENU_FONT);
             this.exitItem = new JMenuItem("Exit");
             this.exitItem.setFont(MENU_FONT);
-            this.propertiesItem = new JMenuItem("Properties");
+            this.propertiesItem = new JMenuItem("Edit Properties");
             this.propertiesItem.setFont(MENU_FONT);
-            
+
             initAction();
         }
-        
-        
+
         private void initAction() {
             this.popupMenu.add(showBoundItem);
             this.showBoundItem.addActionListener((ActionEvent e) -> {
-                srcComp.setBorder(new LineBorder(Color.yellow, 1, true));
+                srcComp.setBorder(new TitledBorder(
+                        new LineBorder(Color.MAGENTA, 2, true),
+                        String.valueOf(componentMeta.getId()),
+                        TitledBorder.LEADING, TitledBorder.TOP,
+                        ID_FONT
+                ));
             });
             this.popupMenu.add(hideBoundItem);
             this.hideBoundItem.addActionListener((ActionEvent e) -> {
                 srcComp.setBorder(null);
             });
-            
+
             this.popupMenu.addSeparator();
             this.popupMenu.add(propertiesItem);
             this.propertiesItem.addActionListener((ActionEvent e) -> {
-                
+
             });
-            
+
             this.popupMenu.addSeparator();
             this.popupMenu.add(saveItem);
             this.saveItem.addActionListener((ActionEvent e) -> {
@@ -131,14 +138,14 @@ public class DesignBankAppGUI {
                 rect.setY(srcComp.getBounds().y);
                 new SaveFileTask(panel.getValue(), panel.getKey()).execute();
             });
-            
+
             this.popupMenu.addSeparator();
             this.popupMenu.add(exitItem);
             this.exitItem.addActionListener((ActionEvent e) -> {
                 System.exit(0);
             });
         }
-        
+
         @Override
         public void mouseClicked(MouseEvent e) {
             if (e.getButton() != MouseEvent.BUTTON3) {
@@ -146,7 +153,7 @@ public class DesignBankAppGUI {
             }
             popupMenu.show(srcComp, e.getX(), e.getY());
         }
-        
+
         @Override
         public void mousePressed(MouseEvent e) {
             startX = e.getXOnScreen();
@@ -154,7 +161,7 @@ public class DesignBankAppGUI {
             getLogger(DesignBankAppGUI.class.getName()).log(Level.CONFIG,
                     "start x coordination[{0}] and y coordination[{1}]", new Object[]{startX, startY});
         }
-        
+
         @Override
         public void mouseDragged(MouseEvent e) {
             endX = e.getXOnScreen();
@@ -171,40 +178,40 @@ public class DesignBankAppGUI {
             srcComp.revalidate();
             srcComp.repaint();
         }
-        
+
         @Override
         public void mouseReleased(MouseEvent e) {
         }
-        
+
         @Override
         public void mouseEntered(MouseEvent e) {
         }
-        
+
         @Override
         public void mouseExited(MouseEvent e) {
         }
-        
+
         @Override
         public void mouseMoved(MouseEvent e) {
         }
     }
-    
+
     private static class SaveFileTask extends SwingWorker<Boolean, Integer> {
-        
+
         private final String fileUrl;
         private final Panel panelNode;
-        
+
         public SaveFileTask(String fileUrl, Panel panelNode) {
             this.fileUrl = fileUrl;
             this.panelNode = panelNode;
         }
-        
+
         @Override
         protected Boolean doInBackground() throws Exception {
             new FlowProcessor(fileUrl).writeOut(panelNode);
             return true;
         }
-        
+
         @Override
         protected void done() {
             try {
@@ -216,5 +223,5 @@ public class DesignBankAppGUI {
             }
         }
     }
-    
+
 }
