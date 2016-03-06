@@ -153,7 +153,7 @@ public class WriteCardAction extends DefaultMsgSendAction {
 //            return resp;
         }
         
-        private static final String REVERT = "revert_";
+        private static final String REVERT = "re_";
         private static final String BID = "bid";
         private static final String UID = "uid";
         private static final String UID_AFFIX = "</uid>";
