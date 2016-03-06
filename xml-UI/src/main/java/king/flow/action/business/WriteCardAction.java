@@ -25,7 +25,8 @@ import king.flow.view.Rules;
  */
 public class WriteCardAction extends DefaultMsgSendAction {
 
-    public WriteCardAction(String prsCode, int cmdCode, List<String> conditionList, MsgSendAction.NextStep next, MsgSendAction.Exception expPage, Rules checkRules) {
+    public WriteCardAction(String prsCode, int cmdCode, List<String> conditionList,
+            MsgSendAction.NextStep next, MsgSendAction.Exception expPage, Rules checkRules) {
         super(prsCode, cmdCode, conditionList, next, expPage, checkRules);
     }
 
@@ -108,7 +109,7 @@ public class WriteCardAction extends DefaultMsgSendAction {
             try {
                 throw new Exception("write error happened in IC card chip");
             } catch (Exception e) {
-                getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+                getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to write card due to error {0}", e.getMessage());
                 showErrMsg(Integer.MIN_VALUE, getResourceMsg("operation.card.write.error"));
                 String strike_balance = createTLSMessage(prsCode, conditionValues);
@@ -126,7 +127,8 @@ public class WriteCardAction extends DefaultMsgSendAction {
                         resp = sendMessage(cmdCode, strike_balance);
                     }
                 } catch (Exception exception) {
-                    getLogger(WriteCardTask.class.getName()).log(Level.WARNING, "Fail to send stike-balance messge due to {0}", exception.getMessage());
+                    getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
+                            "Fail to send stike-balance messge due to {0}", exception.getMessage());
                     throw exception;
                 }
                 return resp;

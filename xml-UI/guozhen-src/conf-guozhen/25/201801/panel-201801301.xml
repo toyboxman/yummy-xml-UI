@@ -234,7 +234,7 @@
         </attribute>
 		
         <action>
-            <sendMsgAction>
+            <writeICardAction>
                 <prsCode>pay_ICbiao</prsCode>
                 <conditions>201801314,201801316</conditions>
                 <nextStep>  
@@ -255,7 +255,7 @@
                         <errMsg>请用密码键盘输入密码</errMsg>
                     </notNull>
                 </checkRules>
-            </sendMsgAction>
+            </writeICardAction>
         </action>
     </component>
 	
