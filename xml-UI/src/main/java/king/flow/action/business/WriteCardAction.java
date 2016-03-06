@@ -119,6 +119,7 @@ public class WriteCardAction extends DefaultMsgSendAction {
                 bid = bid.replaceAll(UID, BID);
                 int insertPoint = strike_balance.indexOf(UID_AFFIX) + UID_AFFIX.length();
                 strike_balance = new StringBuilder(strike_balance).insert(insertPoint, bid).toString();
+                strike_balance = strike_balance.replace(prsCode, REVERT + prsCode);
                 getLogger(WriteCardTask.class.getName()).log(Level.INFO, "TLS Message : {0}", strike_balance);
                 try {
                     if (cmdCode < 0) {
@@ -151,6 +152,8 @@ public class WriteCardAction extends DefaultMsgSendAction {
 //
 //            return resp;
         }
+        
+        private static final String REVERT = "revert_";
         private static final String BID = "bid";
         private static final String UID = "uid";
         private static final String UID_AFFIX = "</uid>";
