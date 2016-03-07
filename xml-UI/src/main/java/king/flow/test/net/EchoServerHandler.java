@@ -31,6 +31,7 @@ import java.io.InputStreamReader;
 import java.nio.charset.Charset;
 import java.util.Set;
 import java.util.TreeSet;
+import java.util.concurrent.TimeUnit;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -78,6 +79,7 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
                 .append(terminal).append(DOT).toString();
 
         String prsCode = readPrsCode(request);
+
         String prsCodePrefix = new StringBuilder(terminalPrefix)
                 .append("prscode").append(DOT)
                 .append(prsCode).append(DOT).toString();
@@ -198,6 +200,16 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         }
 //        String response = jsonRoot.getString("terminal", terminal, "prscode", prsCode, "success", "okmsg");
         logger.log(Level.INFO, "json query result by condition: {0} :\n{1}", new Object[]{condition, redirection});
+
+        //this part code is for mocking timeout testcase
+        StringBuilder opsTimeSpend = new StringBuilder(operationPrefix).append("timeSpend");
+        final JsonElement timeJsonElement = readJsonElement(opsTimeSpend);
+        if (timeJsonElement != null) {
+            int timeSpending = timeJsonElement.asPrimitive().asInt();
+            logger.log(Level.INFO, "[{0}] operation will take {1}seconds to complete",
+                    new Object[]{prsCode, timeSpending});
+            Thread.sleep(TimeUnit.SECONDS.toMillis(timeSpending));
+        }
 
         switch (code) {
             case CommonConstants.REGISTRY_MSG_CODE:

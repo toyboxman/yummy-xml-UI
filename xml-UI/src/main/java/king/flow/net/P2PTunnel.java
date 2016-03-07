@@ -19,10 +19,12 @@ import io.netty.handler.codec.LengthFieldPrepender;
 import io.netty.handler.codec.MessageToByteEncoder;
 import io.netty.handler.codec.string.StringDecoder;
 import io.netty.handler.codec.string.StringEncoder;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.xml.bind.JAXBException;
 import king.flow.common.CommonConstants;
+import static king.flow.data.TLSResult.PRS_CODE;
 import king.flow.design.TLSProcessor;
 import king.flow.test.net.MockClientReq;
 
@@ -30,15 +32,17 @@ import king.flow.test.net.MockClientReq;
  *
  * @author Administrator
  */
-public class P2PTunnel implements Tunnel{
+public class P2PTunnel implements Tunnel {
 
-    private String host = null;
-    private int port = 0;
+    private final String host;
+    private final int port;
+    private final int timeout;
     private String responseMSG = null;
 
-    public P2PTunnel(String hostName, int portNumber) {
+    public P2PTunnel(String hostName, int portNumber, int channelTimeout) {
         this.host = hostName;
         this.port = portNumber;
+        this.timeout = channelTimeout;
     }
 
     @Override
@@ -60,7 +64,8 @@ public class P2PTunnel implements Tunnel{
             b.group(workerGroup); // (2)
             b.channel(NioSocketChannel.class); // (3)
             b.option(ChannelOption.SO_KEEPALIVE, true); // (4)
-            b.option(ChannelOption.MAX_MESSAGES_PER_READ, CommonConstants.MAX_MESSAGES_PER_READ); // (4)
+            b.option(ChannelOption.MAX_MESSAGES_PER_READ,
+                    CommonConstants.MAX_MESSAGES_PER_READ); // (4)
             if (command == null || message == null) {
                 b.handler(new ChannelInitializerImpl());
             } else {
@@ -70,9 +75,26 @@ public class P2PTunnel implements Tunnel{
             // Start the client.
             ChannelFuture f = b.connect(host, port).sync(); // (5)
             // Wait until the connection is closed.
-            f.channel().closeFuture().sync();
+            //f.channel().closeFuture().sync();
+            boolean completed = f.channel().closeFuture().await(timeout, TimeUnit.SECONDS); // (6)
+            if (!completed) {
+                String PRSCODE_PREFIX = "<" + PRS_CODE + ">";
+                String PRSCODE_AFFIX = "</" + PRS_CODE + ">";
+
+                String prsCode = "[Unkonwn prscode]";
+                if (message == null) {
+                } else {
+                    int start = message.indexOf(PRSCODE_PREFIX);
+                    int end = message.indexOf(PRSCODE_AFFIX) + PRSCODE_AFFIX.length();
+                    prsCode = (start == -1 || end == -1) ? prsCode : message.substring(start, end);
+                }
+                Logger.getLogger(P2PTunnel.class.getName()).log(Level.WARNING,
+                        "[{0}] operation exceeds {1}seconds and is timeout, channel is forcily closed",
+                        new Object[]{prsCode, timeout});
+            }
         } catch (InterruptedException ex) {
-            Logger.getLogger(P2PTunnel.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(P2PTunnel.class.getName()).log(Level.SEVERE,
+                    "channel setup hit a problem, due to\n{0}", ex);
         } finally {
             workerGroup.shutdownGracefully();
         }
@@ -137,7 +159,7 @@ public class P2PTunnel implements Tunnel{
 
         Tunnel tunnel = TunnelBuilder.getTunnelBuilder().setHostName(host).setPortNumber(port).createTunnel();
         tunnel.connect(code, msg);
-        System.out.println("0000000000000000 : " + ((P2PTunnel)tunnel).responseMSG);
+        System.out.println("0000000000000000 : " + ((P2PTunnel) tunnel).responseMSG);
         tunnel.connect(300, MockClientReq.mockBasicReq());
 //        System.out.println("33333333330000000 : " + ((P2PTunnel)tunnel).responseMSG);
         tunnel.connect(400, MockClientReq.mockBasicReq());

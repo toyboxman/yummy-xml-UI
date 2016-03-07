@@ -218,7 +218,8 @@
 				},
 				"query_ICbiao" : {
 					"operation" : {
-						"verifyPwd" : false
+						"verifyPwd" : false,
+                        "timeSpend" : 5
 					},
 					"success" : {
 						"okmsg" : ["1001900019", "邱白霞", "阜阳颍州区横四十条105号", "居民生活用气", "气量表", "1001900019", "邱白霞", "阜阳颍州区横四十条105号", "居民生活用气", "气量表"],

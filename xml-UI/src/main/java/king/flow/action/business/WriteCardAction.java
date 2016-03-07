@@ -92,16 +92,14 @@ public class WriteCardAction extends DefaultMsgSendAction {
                         "Receive invalid result {0} from server", resp);
                 showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.invalidated.response.prompt"));
                 return resp;
-            } else {
-                if (result.getRetCode() != 0) {
-                    final String errMsg = result.getErrMsg();
-                    getLogger(WriteCardTask.class.getName()).log(Level.INFO,
-                            "Operation action failed with retcode {0}, root cause {1}",
-                            new Object[]{result.getRetCode(), errMsg});
-                    showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
-                            ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
-                    return resp;
-                }
+            } else if (result.getRetCode() != 0) {
+                final String errMsg = result.getErrMsg();
+                getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+                        "Operation action failed with retcode {0}, root cause {1}",
+                        new Object[]{result.getRetCode(), errMsg});
+                showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
+                        ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
+                return resp;
             }
 
             //TODO: invoke card writing interface and save data into card chip
@@ -152,12 +150,12 @@ public class WriteCardAction extends DefaultMsgSendAction {
 //
 //            return resp;
         }
-        
+
         private static final String REVERT = "re_";
         private static final String BID = "bid";
-        private static final String UID = "uid";
-        private static final String UID_AFFIX = "</uid>";
-        private static final String UID_PREFIX = "<uid>";
+        private final String UID = TLSResult.UID;
+        private final String UID_AFFIX = "</" + UID + ">";
+        private final String UID_PREFIX = "<" + UID + ">";
 
     }
 }

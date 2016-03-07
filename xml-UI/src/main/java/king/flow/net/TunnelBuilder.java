@@ -39,6 +39,7 @@ public class TunnelBuilder {
 
     private String hostName;
     private int portNumber;
+    private int channelTimeout;
     private String prsCode;
     private String terminalID;
     private String token;
@@ -70,6 +71,8 @@ public class TunnelBuilder {
             Transportation tsp = ncp.parse();
             this.hostName = tsp.getServer().getHost();
             this.portNumber = tsp.getServer().getPort();
+            Integer timeout = tsp.getServer().getTimeout();
+            this.channelTimeout = (timeout == null) ? 120 : timeout;
             this.prsCode = tsp.getRegistration().getPrsCode();
             this.terminalID = tsp.getRegistration().getTerminalID();
             this.token = tsp.getRegistration().getToken();
@@ -88,6 +91,10 @@ public class TunnelBuilder {
     public TunnelBuilder setPortNumber(int portNumber) {
         this.portNumber = portNumber;
         return this;
+    }
+
+    public void setChannelTimeout(int channelTimeout) {
+        this.channelTimeout = channelTimeout;
     }
 
     public String getTerminalID() {
@@ -112,7 +119,7 @@ public class TunnelBuilder {
         if (authorization_flag < 0) {
             tunnel = new FakeTunnel();
         } else {
-            tunnel = new P2PTunnel(hostName, portNumber);
+            tunnel = new P2PTunnel(hostName, portNumber, channelTimeout);
         }
 
         return tunnel;
@@ -130,7 +137,7 @@ public class TunnelBuilder {
 
         @Override
         public void run() {
-            P2PTunnel p2PTunnel = new P2PTunnel(hostName, portNumber);
+            P2PTunnel p2PTunnel = new P2PTunnel(hostName, portNumber, channelTimeout);
             final String registryTLSMessage = createRegistryTLSMessage(prsCode, terminalID, token);
             getLogger(HeartBeatTask.class.getName()).log(Level.INFO, "Heartbeat message : {0}", registryTLSMessage);
             try {

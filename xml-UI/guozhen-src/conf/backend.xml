@@ -8,12 +8,13 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 <Transportation
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='TransportationSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../schema/TransportationSchema.xsd'>
     <server>
         <host>127.0.0.1</host>
         <port>8080</port> 
         <!--<host>192.168.1.130</host>
-        <port>8906</port>-->
+        <port>8906</port>
+        <timeout>20</timeout>-->
     </server>
     <registration>
         <prsCode>sanlogin</prsCode>

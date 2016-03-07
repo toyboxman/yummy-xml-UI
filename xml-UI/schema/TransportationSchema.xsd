@@ -2,7 +2,7 @@
            xmlns:xs="http://www.w3.org/2001/XMLSchema">
     <xs:element name="Transportation">
         <xs:annotation>
-            <xs:documentation>本文件描述了网络通信配置xml文件格式</xs:documentation>
+            <xs:documentation>include configuration concerning networking setting</xs:documentation>
         </xs:annotation>
         <xs:complexType>
             <xs:sequence>
@@ -11,6 +11,7 @@
                         <xs:all>
                             <xs:element type="xs:string" name="host"/>
                             <xs:element type="xs:unsignedShort" name="port"/>
+                            <xs:element type="xs:unsignedShort" name="timeout" maxOccurs="1" minOccurs="0" default="120"/>
                         </xs:all>
                     </xs:complexType>
                 </xs:element>

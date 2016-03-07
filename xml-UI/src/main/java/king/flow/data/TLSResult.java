@@ -8,6 +8,8 @@ package king.flow.data;
 import static king.flow.data.ObjectFactory._Cargo_QNAME;
 import static king.flow.data.ObjectFactory._Errmsg_QNAME;
 import static king.flow.data.ObjectFactory._Okmsg_QNAME;
+import static king.flow.data.ObjectFactory._Prscode_QNAME;
+import static king.flow.data.ObjectFactory._Uid_QNAME;
 import static king.flow.data.ObjectFactory._Retcode_QNAME;
 import static king.flow.data.ObjectFactory._Redirection_QNAME;
 
@@ -22,6 +24,8 @@ public class TLSResult {
     public final static String RET_CODE = _Retcode_QNAME.getLocalPart();
     public final static String CARGO = _Cargo_QNAME.getLocalPart();
     public final static String REDIRECTION = _Redirection_QNAME.getLocalPart();
+    public final static String PRS_CODE = _Prscode_QNAME.getLocalPart();
+    public final static String UID = _Uid_QNAME.getLocalPart();
     public final static String PRT_MSG = "prtmsg";
 
     private int retCode;
