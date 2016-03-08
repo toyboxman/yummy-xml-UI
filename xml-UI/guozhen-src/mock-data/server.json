@@ -109,7 +109,8 @@
 				},
 				"pay_pubiao" : {
 					"operation" : {
-						"verifyPwd" : false
+						"verifyPwd" : false,
+                        "timeSpend" : 5
 					},
 					"success" : {
 						"okmsg" : "<html>用户名称:张胜利<br>缴费金额:356.00元<br>处理信息:缴费成功</html>",

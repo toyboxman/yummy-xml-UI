@@ -91,10 +91,14 @@ public class P2PTunnel implements Tunnel {
                 Logger.getLogger(P2PTunnel.class.getName()).log(Level.WARNING,
                         "[{0}] operation exceeds {1}seconds and is timeout, channel is forcily closed",
                         new Object[]{prsCode, timeout});
+                //forcily close channel to avoid connection leak
+                //acutally if no forcible channel close calling, connection still will be closed.
+                //but for comprehensive consideration, I call channel close again
+                f.channel().close().sync();
             }
         } catch (InterruptedException ex) {
             Logger.getLogger(P2PTunnel.class.getName()).log(Level.SEVERE,
-                    "channel setup hit a problem, due to\n{0}", ex);
+                    "channel management hits a problem, due to\n{0}", ex);
         } finally {
             workerGroup.shutdownGracefully();
         }
@@ -125,7 +129,7 @@ public class P2PTunnel implements Tunnel {
 
         @Override
         public void channelRead(ChannelHandlerContext ctx, Object msg) {
-            Logger.getLogger(MessageClientHandler.class.getName()).log(Level.INFO, msg.toString());
+            Logger.getLogger(MessageClientHandler.class.getName()).log(Level.CONFIG, msg.toString());
             sb.append(msg);
         }
 

@@ -110,7 +110,7 @@ public class WriteCardAction extends BalanceTransAction {
             //
             try {
                 new ICCardConductor().readCard("1", "");
-            } catch (Exception e) {
+            } catch (Throwable e) {
                 getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to write card due to : \n{0}", e);
                 //launch strike-balance for card writing failure
