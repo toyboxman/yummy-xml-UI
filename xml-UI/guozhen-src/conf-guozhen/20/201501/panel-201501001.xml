@@ -2,7 +2,7 @@
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../../../schema/WindowXmlSchema.xsd'>
     <id>201501001</id>
     <type>Panel</type>
     <active>false</active>
@@ -351,7 +351,7 @@
             <text>下一步</text>
         </attribute>		
         <action>
-            <sendMsgAction>
+            <balanceTransAction>
                 <prsCode>pay_pubiao</prsCode>
                 <conditions>201501014,201501016,201501012</conditions>
                 <nextStep>  
@@ -372,7 +372,7 @@
                         <errMsg>请用密码键盘输入密码</errMsg>
                     </notNull>
                 </checkRules>
-            </sendMsgAction>
+            </balanceTransAction>
         </action>
     </component>
 	
