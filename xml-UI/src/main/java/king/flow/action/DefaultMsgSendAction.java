@@ -383,24 +383,17 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         return true;
     }
 
+    protected boolean validateRules() {
+        if (rules != null) {
+            return checkNotNull() & checkTemplate()
+                    & checkCJK() & checkEqualConditions()
+                    & checkNotEqualConditions();
+        }
+        return true;
+    }
+
     protected void send() {
-        if (rules != null && !checkNotNull()) {
-            return;
-        }
-
-        if (rules != null && !checkTemplate()) {
-            return;
-        }
-
-        if (rules != null && !checkCJK()) {
-            return;
-        }
-
-        if (rules != null && !checkEqualConditions()) {
-            return;
-        }
-
-        if (rules != null && !checkNotEqualConditions()) {
+        if (!validateRules()) {
             return;
         }
 

@@ -12,6 +12,7 @@ import java.nio.charset.Charset;
 import java.util.List;
 import java.util.Map;
 import king.flow.action.business.ShowClockAction;
+import king.flow.data.TLSResult;
 import king.flow.view.Action.CleanAction;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Action.LimitInputAction;
@@ -46,6 +47,10 @@ public class CommonConstants {
     static final File[] SYS_ROOTS = File.listRoots();
     public static final int DRIVER_COUNT = SYS_ROOTS.length;
     public static final String XML_NODE_PREFIX = "N_";
+    public static final String REVERT = "re_";
+    public static final String BID = "bid";
+    public static final String UID_PREFIX = "<" + TLSResult.UID + ">";
+    public static final String UID_AFFIX = "</" + TLSResult.UID + ">";
     public static final String DEFAULT_DATE_FORMATE = "yyyy-MM-dd";
     public static final int CONTAINER_KEY = Integer.MAX_VALUE;
     public static final int NORMAL = 0;
@@ -54,7 +59,7 @@ public class CommonConstants {
     public static final int DOWNLOAD_KEY_SIGNAL = 1;
     public static final int UPDATE_SIGNAL = 1;
     public static final String VERSION;
-
+    
     //    public static final String VERSION = Paths.get(".").toAbsolutePath().normalize().toString();
     static {
         String workingPath = System.getProperty("user.dir");
@@ -128,6 +133,7 @@ public class CommonConstants {
     public static final String PRINT_RECEIPT_ACTION = SetPrinterAction.class.getSimpleName();
     public static final String INSERT_IC_ACTION = InsertICardAction.class.getSimpleName();
     public static final String WRITE_IC_ACTION = "WriteICardAction";
+    public static final String BALANCE_TRANS_ACTION = "BalanceTransAction";
     public static final String PRINT_PASSBOOK_ACTION = PrintPassbookAction.class.getSimpleName();
     public static final String UPLOAD_FILE_ACTION = UploadFileAction.class.getSimpleName();
     public static final String SWIPE_CARD_ACTION = SwipeCardAction.class.getSimpleName();
@@ -153,6 +159,7 @@ public class CommonConstants {
                     .add(MOVE_CURSOR_ACTION)
                     .add(PRINT_PASSBOOK_ACTION)
                     .add(UPLOAD_FILE_ACTION)
+                    .add(BALANCE_TRANS_ACTION)
                     .build())
             .put(ComponentEnum.COMBO_BOX, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)

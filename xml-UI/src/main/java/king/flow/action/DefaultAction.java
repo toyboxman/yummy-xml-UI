@@ -341,7 +341,8 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
                 String pattern = t.getPattern();
                 String value = retrieveString(content);
                 if (!value.startsWith(pattern)) {
-                    CommonUtil.getLogger(DefaultAction.class.getName()).info(t.getErrMsg() + " value " + value + "/ pattern " + pattern);
+                    CommonUtil.getLogger(DefaultAction.class.getName()).info(t.getErrMsg()
+                            + " value " + value + "/ pattern " + pattern);
                     CommonUtil.showMsg(owner.getTopLevelAncestor(), t.getErrMsg());
                     return false;
                 }

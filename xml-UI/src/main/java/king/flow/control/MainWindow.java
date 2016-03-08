@@ -57,6 +57,7 @@ import king.flow.action.DefaultTipAction;
 import king.flow.action.DefaultVideoAction;
 import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
+import king.flow.action.business.BalanceTransAction;
 import king.flow.action.business.InsertCardAction;
 import king.flow.action.business.MoveCursorAction;
 import king.flow.action.business.OpenBrowserAction;
@@ -67,6 +68,7 @@ import king.flow.action.business.WriteCardAction;
 import king.flow.action.business.Read2In1CardAction;
 import king.flow.action.business.ShowClockAction;
 import king.flow.common.CommonConstants;
+import static king.flow.common.CommonConstants.BALANCE_TRANS_ACTION;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
 import static king.flow.common.CommonConstants.INSERT_IC_ACTION;
 import static king.flow.common.CommonConstants.LIMIT_INPUT_ACTION;
@@ -399,6 +401,8 @@ public class MainWindow {
 
             validateWriteICardAction(action.getWriteICardAction(), component, panel, pageURI);
 
+            validateBalanceTransAction(action.getBalanceTransAction(), component, panel, pageURI);
+
             validateUploadFileAction(action.getUploadFileAction(), component, panel, pageURI);
 
             validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
@@ -667,6 +671,14 @@ public class MainWindow {
     private void validateWriteICardAction(MsgSendAction writeICardAction, Component component, Panel panel, String pageURI) {
         if (writeICardAction != null) {
             checkSupportedAction(component, WRITE_IC_ACTION, panel, pageURI);
+            validateSendMsgAction(writeICardAction, component, panel, pageURI);
+        }
+    }
+
+    private void validateBalanceTransAction(MsgSendAction balanceTransAction, Component component, Panel panel, String pageURI) {
+        if (balanceTransAction != null) {
+            checkSupportedAction(component, BALANCE_TRANS_ACTION, panel, pageURI);
+            validateSendMsgAction(balanceTransAction, component, panel, pageURI);
         }
     }
 
@@ -1080,6 +1092,25 @@ public class MainWindow {
             doPlayVideoAction(actionNode, component, parentContainer);
 
             doShowClockAction(actionNode, component);
+
+            doBalanceTransAction(actionNode, component);
+        }
+    }
+
+    private void doBalanceTransAction(king.flow.view.Action actionNode, Component component) {
+        MsgSendAction balanceTransAction = actionNode.getBalanceTransAction();
+        if (balanceTransAction != null) {
+            String prsCode = balanceTransAction.getPrsCode();
+            int cmdCode = balanceTransAction.getCmdCode() == null ? -1 : balanceTransAction.getCmdCode();
+            String conditions = balanceTransAction.getConditions();
+            MsgSendAction.NextStep nextStep = balanceTransAction.getNextStep();
+            MsgSendAction.Exception exception = balanceTransAction.getException();
+            Rules checkRules = balanceTransAction.getCheckRules();
+            ArrayList<String> listConditions = buildListParameters(conditions);
+
+            BalanceTransAction balanceAction = new BalanceTransAction(prsCode, cmdCode,
+                    listConditions, nextStep, exception, checkRules);
+            doAction(balanceAction, component.getId());
         }
     }
 
