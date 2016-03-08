@@ -456,6 +456,7 @@
         <xs:sequence>
             <xs:element name="lookandfeel" type="xs:string" maxOccurs="1" minOccurs="0"/>
             <xs:element name="fullscreen" type="xs:boolean" default="true" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="scalescreen" type="xs:boolean" default="true" maxOccurs="1" minOccurs="0"/>
             <xs:element name="font" type="font" maxOccurs="1" minOccurs="0"/>
             <xs:element name="background" type="xs:string" maxOccurs="1" minOccurs="0"/>
             <xs:element name="progress" type="xs:string" maxOccurs="1" minOccurs="0"/>

@@ -273,7 +273,10 @@ public class MainWindow {
         DecoratorEnum type = decorator.getType();
         BasicAttribute attribute = decorator.getAttribute();
         Component component = decorator.getComponent();
-        Bound rect = adjustByResolution(attribute.getRect());
+        Bound rect = attribute.getRect();
+        if (isScaleScreen()) {
+            rect = adjustByResolution(rect);
+        }
         switch (type) {
             case SCROLL_PANEL:
                 JScrollPane scrollPane = new JScrollPane();
@@ -1564,7 +1567,11 @@ public class MainWindow {
             return null;
         }
         String text = attribute.getText() == null ? "" : attribute.getText();
-        Bound rect = adjustByResolution(attribute.getRect());
+        Bound rect = attribute.getRect();
+        if (isScaleScreen()) {
+            rect = adjustByResolution(rect);
+        }
+        
         String icon = attribute.getIcon();
         JComponent jcomponent = null;
         ComponentEnum ctype = component.getType();
@@ -1691,6 +1698,8 @@ public class MainWindow {
                 }
                 if (rect != null) {
                     jFrame.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
+                } else if (!isScaleScreen()) {
+                    jFrame.setBounds(0, 0, 1280, 1024);
                 } else {
                     jFrame.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
                 }
@@ -1718,6 +1727,8 @@ public class MainWindow {
                 }
                 if (rect != null) {
                     jDialog.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
+                } else if (!isScaleScreen()) {
+                    jDialog.setBounds(0, 0, 1280, 1024);
                 } else {
                     jDialog.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
                 }
@@ -1789,6 +1800,11 @@ public class MainWindow {
     private boolean isFullScreen() {
         Boolean fullscreen = winNode.getUiStyle().isFullscreen();
         return fullscreen == null ? true : fullscreen;
+    }
+
+    private boolean isScaleScreen() {
+        Boolean scalescreen = winNode.getUiStyle().isScalescreen();
+        return scalescreen == null ? true : scalescreen;
     }
 
     public void setVisible(boolean b) {
