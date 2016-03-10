@@ -21,12 +21,12 @@
     <driver>
         <device>
             <type>twoInOneCard</type>
-            <port>com2</port>
+            <port>com1</port>
             <dll>alldriver</dll>
         </device>
         
         <device>
-            <type>ICCard</type>
+            <type>gzCard</type>
             <port>com2</port>
             <dll>alldriver</dll>
         </device>

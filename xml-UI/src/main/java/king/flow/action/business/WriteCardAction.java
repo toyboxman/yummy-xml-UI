@@ -5,7 +5,6 @@
  */
 package king.flow.action.business;
 
-import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
 import com.github.jsonj.tools.JsonParser;
 import java.util.List;
@@ -22,7 +21,6 @@ import king.flow.control.driver.GzCardConductor;
 import king.flow.data.TLSResult;
 import king.flow.view.MsgSendAction;
 import king.flow.view.Rules;
-import static king.flow.common.CommonUtil.sendMessage;
 
 /**
  *
@@ -119,7 +117,7 @@ public class WriteCardAction extends BalanceTransAction {
                 JsonObject cardInfo = CommonUtil.uncacheCardInfo();
                 cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
                 cardInfo.put(GzCardConductor.CARD_GAS_COUNT, gasCount);
-                CommonUtil.writeICCard(cardInfo);
+                CommonUtil.writeGzICCard(cardInfo);
             } catch (Throwable e) {
                 getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to write card due to : \n{0}", e);

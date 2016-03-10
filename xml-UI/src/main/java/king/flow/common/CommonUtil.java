@@ -56,6 +56,7 @@ import static king.flow.common.CommonUtil.AppType.TERMINAL;
 import king.flow.control.MainWindow;
 import king.flow.control.driver.FingerPrintDrive;
 import king.flow.control.driver.GzCardConductor;
+import king.flow.control.driver.ICCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
 import king.flow.control.driver.MagnetCardConductor;
 import king.flow.control.driver.PrinterConductor;
@@ -71,6 +72,7 @@ import static king.flow.net.TunnelBuilder.getTunnelBuilder;
 import king.flow.view.Bound;
 import king.flow.view.Component;
 import king.flow.view.DeviceEnum;
+import static king.flow.view.DeviceEnum.GZ_CARD;
 import static king.flow.view.DeviceEnum.IC_CARD;
 import static king.flow.view.DeviceEnum.KEYBOARD;
 import static king.flow.view.DeviceEnum.MAGNET_CARD;
@@ -588,6 +590,13 @@ public class CommonUtil {
         }
         return cardNumber;
     }
+    
+    public static String swipeICCard() {
+        System.loadLibrary(getDriverDll(IC_CARD));
+        ICCardConductor icCardConductor = new ICCardConductor();
+        String cardInfo = icCardConductor.readCard(getDriverPort(IC_CARD), "");
+        return cardInfo;
+    }
 
     private static JsonObject cardInfoCache = null;
 
@@ -599,17 +608,20 @@ public class CommonUtil {
         return cardInfoCache;
     }
 
-    public static String swipeICCard() {
-        System.loadLibrary(getDriverDll(IC_CARD));
+    public static String swipeGzICCard() {
+        System.loadLibrary(getDriverDll(GZ_CARD));
+        getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                    "Read guozhen IC card by {0} and port {1}",
+                    new Object[]{getDriverDll(GZ_CARD), getDriverPort(GZ_CARD)});
         GzCardConductor icCardConductor = new GzCardConductor();
-        String cardInfo = icCardConductor.readCard(Integer.parseInt(getDriverPort(IC_CARD)));
+        String cardInfo = icCardConductor.readCard(getDriverPort(GZ_CARD));
         return cardInfo;
     }
 
-    public static int writeICCard(JsonObject cardInfo) {
-        System.loadLibrary(getDriverDll(IC_CARD));
+    public static int writeGzICCard(JsonObject cardInfo) {
+        System.loadLibrary(getDriverDll(GZ_CARD));
         GzCardConductor icCardConductor = new GzCardConductor();
-        int result = icCardConductor.writeCard(Integer.parseInt(getDriverPort(IC_CARD)),
+        int result = icCardConductor.writeCard(getDriverPort(GZ_CARD),
                 cardInfo.getInt(GzCardConductor.CARD_FACTORY),
                 cardInfo.toString());
         return result;

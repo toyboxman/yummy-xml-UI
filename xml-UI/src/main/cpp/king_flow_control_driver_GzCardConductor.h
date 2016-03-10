@@ -10,18 +10,18 @@ extern "C" {
 /*
  * Class:     king_flow_control_driver_GzCardConductor
  * Method:    readCard
- * Signature: (I)Ljava/lang/String;
+ * Signature: (Ljava/lang/String;)Ljava/lang/String;
  */
 JNIEXPORT jstring JNICALL Java_king_flow_control_driver_GzCardConductor_readCard
-  (JNIEnv *, jobject, jint);
+  (JNIEnv *, jobject, jstring);
 
 /*
  * Class:     king_flow_control_driver_GzCardConductor
  * Method:    writeCard
- * Signature: (IILjava/lang/String;)I
+ * Signature: (Ljava/lang/String;ILjava/lang/String;)I
  */
 JNIEXPORT jint JNICALL Java_king_flow_control_driver_GzCardConductor_writeCard
-  (JNIEnv *, jobject, jint, jint, jstring);
+  (JNIEnv *, jobject, jstring, jint, jstring);
 
 #ifdef __cplusplus
 }

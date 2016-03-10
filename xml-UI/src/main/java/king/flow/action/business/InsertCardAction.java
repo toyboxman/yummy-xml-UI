@@ -27,12 +27,12 @@ import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.getWindowNode;
-import static king.flow.common.CommonUtil.swipeICCard;
 import king.flow.control.driver.GzCardConductor;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Component;
 import king.flow.view.UiStyle;
 import king.flow.view.Window;
+import static king.flow.common.CommonUtil.swipeGzICCard;
 
 /**
  *
@@ -133,7 +133,7 @@ public class InsertCardAction extends DefaultBaseAction {
 
                 if (debug.isEmpty()) {
                     Thread.sleep(1000);
-                    String cardInfo = swipeICCard();
+                    String cardInfo = swipeGzICCard();
                     JsonParser jsonParser = new JsonParser();
                     JsonObject element = jsonParser.parse(cardInfo).asObject();
                     String cardId = element.getString(GzCardConductor.CARD_NO);
@@ -169,7 +169,7 @@ public class InsertCardAction extends DefaultBaseAction {
                 return "Success";
             } catch (Throwable exception) {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
-                        "Occur problem during reading IC card, root cause comes from \n{0}", exception.getMessage());
+                        "Occur problem during reading IC card, root cause comes from \n{0}", exception);
                 showOnComponent(failedDisplay.get(0), getResourceMsg("operation.ic.card.read.error"));
                 panelJump(failedPage.getNextPanel());
                 throw exception;

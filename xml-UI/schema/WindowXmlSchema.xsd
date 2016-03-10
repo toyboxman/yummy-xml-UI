@@ -473,6 +473,7 @@
             <xs:enumeration  value="twoInOneCard"/>
             <xs:enumeration  value="printer"/>
             <xs:enumeration  value="keyboard"/>
+            <xs:enumeration  value="gzCard"/>
         </xs:restriction>
     </xs:simpleType>
     

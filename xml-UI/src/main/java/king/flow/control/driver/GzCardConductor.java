@@ -16,7 +16,7 @@ public class GzCardConductor {
     public static final String CARD_FACTORY = "cardfactory";
     public static final String CARD_GAS_COUNT = "gascount";
 
-    public native String readCard(int comport);
+    public native String readCard(String comport);
 
-    public native int writeCard(int comport, int cardfactory, String writeinfo);
+    public native int writeCard(String comport, int cardfactory, String writeinfo);
 }
