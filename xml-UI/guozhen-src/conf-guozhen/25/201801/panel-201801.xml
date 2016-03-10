@@ -81,6 +81,25 @@
             </setFontAction>
         </action>
     </component>
+    
+    <component>
+        <id>201808</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>400</y>
+                <width>500</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>24</fontSize>
+                <fontStyle>PLAIN</fontStyle>
+            </setFontAction>
+        </action>
+    </component>
 	
     <component>
         <id>201811</id>
@@ -97,7 +116,7 @@
         <action>
             <sendMsgAction>
                 <prsCode>query_ICbiao</prsCode>
-                <conditions>201806</conditions>
+                <conditions>201806,201808</conditions>
                 <nextStep>  
                     <nextPanel>201801001</nextPanel> 
                     <nextCursor>201801005</nextCursor>

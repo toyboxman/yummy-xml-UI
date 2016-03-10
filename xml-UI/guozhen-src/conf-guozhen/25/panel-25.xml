@@ -42,11 +42,12 @@
             <insertICardAction>
                 <nextStep>
                     <nextPanel>201801</nextPanel>
-                    <display>201806,201807</display>
+                    <display>201806,201807,201808</display>
                     <hop>201811</hop>
                     <debug>
                         9633242
                         12
+                        2
                     </debug>
                 </nextStep>
                 <exception>

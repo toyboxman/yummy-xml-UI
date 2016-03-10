@@ -5,7 +5,6 @@
  */
 package king.flow.action.business;
 
-import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
 import com.github.jsonj.tools.JsonParser;
 import java.awt.event.ActionEvent;
@@ -143,10 +142,15 @@ public class InsertCardAction extends DefaultBaseAction {
                     //cache current card information for writing action
                     CommonUtil.cacheCardInfo(element);
                     
-                    Integer gasSurplus = element.getInt(GzCardConductor.CARD_SPARE) == null ? 0 : element.getInt(GzCardConductor.CARD_SPARE);
+                    Integer gasSurplus = element.getInt(GzCardConductor.CARD_SPARE) == null ?
+                            0 : element.getInt(GzCardConductor.CARD_SPARE);
+                    Integer cardType = element.getInt(GzCardConductor.CARD_FACTORY) == null ?
+                            0 : element.getInt(GzCardConductor.CARD_FACTORY);
+                    
                     List<String> displayValues = new ArrayList<>();
                     displayValues.add(cardId);
                     displayValues.add(String.valueOf(gasSurplus));
+                    displayValues.add(String.valueOf(cardType));
                     int len = Math.min(displayValues.size(), successfulDisplay.size());
                     for (int i = 0; i < len; i++) {
                         showOnComponent(successfulDisplay.get(i), displayValues.get(i));
