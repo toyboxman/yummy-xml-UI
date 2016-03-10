@@ -5,6 +5,9 @@
  */
 package king.flow.action.business;
 
+import com.github.jsonj.JsonElement;
+import com.github.jsonj.JsonObject;
+import com.github.jsonj.tools.JsonParser;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
@@ -24,6 +27,8 @@ import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.getWindowNode;
+import static king.flow.common.CommonUtil.swipeICCard;
+import king.flow.control.driver.GzCardConductor;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Component;
 import king.flow.view.UiStyle;
@@ -127,8 +132,25 @@ public class InsertCardAction extends DefaultBaseAction {
                 List<String> debug = successfulPage.getDebug();
 
                 if (debug.isEmpty()) {
-                    Thread.sleep(2000);
-                    throw new Exception("Currently we have no driver :-(");
+                    Thread.sleep(1000);
+                    String cardInfo = swipeICCard();
+                    JsonParser jsonParser = new JsonParser();
+                    JsonObject element = jsonParser.parse(cardInfo).asObject();
+                    String cardId = element.getString(GzCardConductor.CARD_NO);
+                    if (cardId == null || cardId.length() == 0) {
+                        throw new Exception("No card number is gotten from this card");
+                    }
+                    //cache current card information for writing action
+                    CommonUtil.cacheCardInfo(element);
+                    
+                    Integer gasSurplus = element.getInt(GzCardConductor.CARD_SPARE) == null ? 0 : element.getInt(GzCardConductor.CARD_SPARE);
+                    List<String> displayValues = new ArrayList<>();
+                    displayValues.add(cardId);
+                    displayValues.add(String.valueOf(gasSurplus));
+                    int len = Math.min(displayValues.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), displayValues.get(i));
+                    }
                 } else {
                     //debug mode
                     Thread.sleep(3000);
@@ -145,7 +167,7 @@ public class InsertCardAction extends DefaultBaseAction {
                     getBlock(hop, JButton.class).doClick();
                 }
                 return "Success";
-            } catch (Exception exception) {
+            } catch (Throwable exception) {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
                         "Occur problem during reading IC card, root cause comes from \n{0}", exception.getMessage());
                 showOnComponent(failedDisplay.get(0), getResourceMsg("operation.ic.card.read.error"));

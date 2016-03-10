@@ -5,19 +5,24 @@
  */
 package king.flow.action.business;
 
+import com.github.jsonj.JsonElement;
+import com.github.jsonj.JsonObject;
+import com.github.jsonj.tools.JsonParser;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
 import javax.swing.SwingWorker;
+import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.createTLSMessage;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.parseTLSMessage;
 import static king.flow.common.CommonUtil.sendMessage;
-import king.flow.control.driver.ICCardConductor;
+import king.flow.control.driver.GzCardConductor;
 import king.flow.data.TLSResult;
 import king.flow.view.MsgSendAction;
 import king.flow.view.Rules;
+import static king.flow.common.CommonUtil.sendMessage;
 
 /**
  *
@@ -106,10 +111,15 @@ public class WriteCardAction extends BalanceTransAction {
                 return resp;
             }
 
-            //TODO: invoke card writing interface and save data into card chip
-            //
+            //parse ok message and get something to be written into card
+            JsonObject successJson = new JsonParser().parse(result.getOkMsg()).asObject();
+            int gasSurplus = successJson.getInt(GzCardConductor.CARD_SPARE);
+            int gasCount = successJson.getInt(GzCardConductor.CARD_GAS_COUNT);
             try {
-                new ICCardConductor().readCard("1", "");
+                JsonObject cardInfo = CommonUtil.uncacheCardInfo();
+                cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
+                cardInfo.put(GzCardConductor.CARD_GAS_COUNT, gasCount);
+                CommonUtil.writeICCard(cardInfo);
             } catch (Throwable e) {
                 getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to write card due to : \n{0}", e);
@@ -133,15 +143,17 @@ public class WriteCardAction extends BalanceTransAction {
 
                 return resp;
             }
-
+            
             //be successful and show final result to user
+            TLSResult showResult = new TLSResult(result.getRetCode(),
+                    successJson.getString("result"), result.getErrMsg(), result.getPrtMsg());
             if (next == null) {
                 getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
                         "No next display page is configured, show result in current page");
-                showResult(result);
+                showResult(showResult);
             } else {
                 //show msg to dedicated component
-                showDoneMsg(result);
+                showDoneMsg(showResult);
             }
 
             return resp;

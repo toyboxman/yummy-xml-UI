@@ -247,7 +247,7 @@
         <action>
             <sendMsgAction>
                 <prsCode>pay_req_ICbiao</prsCode>
-                <conditions>201801118</conditions>
+                <conditions>201801118,201807</conditions>
                 <nextStep>  
                     <nextPanel>201801301</nextPanel> 
                     <display>201801304,201801306</display>  

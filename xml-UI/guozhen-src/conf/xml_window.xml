@@ -5,12 +5,12 @@
     <id>0</id>
     <type>Frame</type>
     <ui-style>
+        <scalescreen>false</scalescreen>
         <font>
             <name>Apple LiSung Light</name>
             <size>30</size>
             <style>BOLD</style>
         </font>
-		
         <background>/image/1.jpg</background>
         <progress>/image/loader_orange_256.gif</progress>
         <!--<color>190,214,252</color>
@@ -24,7 +24,13 @@
             <port>com2</port>
             <dll>alldriver</dll>
         </device>
-       
+        
+        <device>
+            <type>ICCard</type>
+            <port>com2</port>
+            <dll>alldriver</dll>
+        </device>
+        
         <device>
             <type>printer</type>
             <port>com3</port>

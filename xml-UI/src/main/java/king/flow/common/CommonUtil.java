@@ -55,7 +55,7 @@ import static king.flow.common.CommonConstants.XML_NODE_PREFIX;
 import static king.flow.common.CommonUtil.AppType.TERMINAL;
 import king.flow.control.MainWindow;
 import king.flow.control.driver.FingerPrintDrive;
-import king.flow.control.driver.ICCardConductor;
+import king.flow.control.driver.GzCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
 import king.flow.control.driver.MagnetCardConductor;
 import king.flow.control.driver.PrinterConductor;
@@ -589,12 +589,30 @@ public class CommonUtil {
         return cardNumber;
     }
 
+    private static JsonObject cardInfoCache = null;
+
+    public static void cacheCardInfo(JsonObject cardInfo) {
+        cardInfoCache = cardInfo;
+    }
+
+    public static JsonObject uncacheCardInfo() {
+        return cardInfoCache;
+    }
+
     public static String swipeICCard() {
         System.loadLibrary(getDriverDll(IC_CARD));
-        ICCardConductor icCardConductor = new ICCardConductor();
-        String errMsg = "";
-        String cardNumber = icCardConductor.readCard(getDriverPort(IC_CARD), errMsg);
-        return cardNumber;
+        GzCardConductor icCardConductor = new GzCardConductor();
+        String cardInfo = icCardConductor.readCard(Integer.parseInt(getDriverPort(IC_CARD)));
+        return cardInfo;
+    }
+
+    public static int writeICCard(JsonObject cardInfo) {
+        System.loadLibrary(getDriverDll(IC_CARD));
+        GzCardConductor icCardConductor = new GzCardConductor();
+        int result = icCardConductor.writeCard(Integer.parseInt(getDriverPort(IC_CARD)),
+                cardInfo.getInt(GzCardConductor.CARD_FACTORY),
+                cardInfo.toString());
+        return result;
     }
 
     private static final TwoInOneCardConductor TIOCardConductor = new TwoInOneCardConductor();

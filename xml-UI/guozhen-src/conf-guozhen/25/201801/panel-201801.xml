@@ -63,9 +63,9 @@
 		
     </component>
     
-    <!--<component>
+    <component>
         <id>201807</id>
-        <type>Label</type>
+        <type>TextField</type>
         <attribute>
             <rect>
                 <x>300</x>
@@ -73,7 +73,6 @@
                 <width>500</width>
                 <heigh>60</heigh>
             </rect>
-            <text>(请插入燃气卡,点击卡号框右侧按钮进行读卡)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -81,7 +80,7 @@
                 <fontStyle>PLAIN</fontStyle>
             </setFontAction>
         </action>
-    </component>-->
+    </component>
 	
     <component>
         <id>201811</id>
