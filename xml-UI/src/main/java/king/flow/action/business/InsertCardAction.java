@@ -171,12 +171,12 @@ public class InsertCardAction extends DefaultBaseAction {
                     getBlock(hop, JButton.class).doClick();
                 }
                 return "Success";
-            } catch (Throwable exception) {
+            } catch (Throwable t) {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
-                        "Occur problem during reading IC card, root cause comes from \n{0}", exception.getMessage());
+                        "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
                 showOnComponent(failedDisplay.get(0), getResourceMsg("operation.ic.card.read.error"));
                 panelJump(failedPage.getNextPanel());
-                throw exception;
+                throw new Exception(t);
             }
         }
     }

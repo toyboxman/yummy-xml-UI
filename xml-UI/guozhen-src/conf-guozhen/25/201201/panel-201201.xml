@@ -59,9 +59,9 @@
         </action>
     </component>
     
-    <!--<component>
+    <component>
         <id>201205</id>
-        <type>Label</type>
+        <type>TextField</type>
         <attribute>
             <rect>
                 <x>300</x>
@@ -69,7 +69,6 @@
                 <width>500</width>
                 <heigh>60</heigh>
             </rect>
-            <text>(请插入燃气卡,点击卡号框右侧按钮进行读卡)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -77,7 +76,26 @@
                 <fontStyle>PLAIN</fontStyle>
             </setFontAction>
         </action>
-    </component>-->
+    </component>
+	
+	<component>
+        <id>201206</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>300</x>
+                <y>420</y>
+                <width>500</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>24</fontSize>
+                <fontStyle>PLAIN</fontStyle>
+            </setFontAction>
+        </action>
+    </component>
 	
     <component>
         <id>201211</id>
@@ -93,8 +111,8 @@
         </attribute>
         <action>
             <sendMsgAction>
-                <prsCode>queryPayGasDetail</prsCode>
-                <conditions>201204</conditions>
+                <prsCode>query_ICdetail</prsCode>
+                <conditions>201204,201206</conditions>
                 <nextStep>  
                     <nextPanel>201201001</nextPanel> 
                     <display>201201004,201201006,201201008,201201010,201201011</display>  

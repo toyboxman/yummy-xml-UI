@@ -155,9 +155,20 @@
         </action>
     </component>
     
+	<decorator>
+        <id>201201014</id>
+        <type>ScrollPanel</type>
+        <attribute>
+            <rect>
+                <x>0</x>
+                <y>540</y>
+                <width>1280</width>
+                <heigh>450</heigh>
+            </rect>
+        </attribute>
     <component>
         <id>201201011</id>
-        <type>AdvancedTable</type>
+        <type>Table</type>
         <attribute>
             <rect>
                 <x>0</x>
@@ -171,32 +182,16 @@
         </attribute>
         <action>
             <showTableAction>
-                <columnNames>交费时间,滞纳金,交费前余额,实交金额,交易状态</columnNames>
+                <columnNames>缴费时间,缴费金额,缴前余额,发票状态</columnNames>
             </showTableAction>
         </action>
-        <action>
-            <sendMsgAction>
-                <prsCode>queryPayGasDetail</prsCode>
-                <conditions>201204</conditions>
-                <nextStep>  
-                    <nextPanel>201201001</nextPanel> 
-                    <display>201201004,201201006,201201008,201201010,201201011</display>  
-                </nextStep>
-                <exception> 
-                    <nextPanel>201299</nextPanel>  
-                    <display>201297</display>  
-                </exception>
-				
-                <checkRules>
-                    <notNull>
-                        <content>201204</content>
-                        <errMsg>卡号不能为空</errMsg>
-                    </notNull>
-                </checkRules>
-            </sendMsgAction>
-        </action>
+		<action>
+                <setFontAction>
+                    <fontSize>22</fontSize>
+                </setFontAction>
+            </action>
     </component>
-	
+	    </decorator>
     <component>
         <id>201201012</id>
         <type>Button</type>

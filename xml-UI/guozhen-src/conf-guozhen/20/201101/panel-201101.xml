@@ -78,7 +78,7 @@
         </attribute>
         <action>
             <sendMsgAction>
-                <prsCode>queryTranDetail</prsCode>
+                <prsCode>query_pudetail</prsCode>
                 <conditions>201104</conditions>
                 <nextStep>  
                     <nextPanel>201101</nextPanel> 
@@ -134,7 +134,6 @@
                 <width>1280</width>
                 <heigh>400</heigh>
             </rect>
-            
         </attribute>
         <component>
             <id>201114</id>
@@ -150,7 +149,7 @@
             </attribute>
             <action>
                 <showTableAction>
-                    <columnNames>交易时间, 金额, 支付方式, 对方账户</columnNames>
+                    <columnNames>缴费时间,缴费金额,缴前余额,发票状态</columnNames>
                 </showTableAction>
             </action>
             <action>

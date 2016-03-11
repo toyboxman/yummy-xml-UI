@@ -423,7 +423,8 @@ public class CommonUtil {
             bundle = new PropertyResourceBundle(
                     CommonUtil.class.getResourceAsStream("/lang/message.properties"));
         } catch (IOException ex) {
-            Logger.getLogger(CommonUtil.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.SEVERE,
+                    "fail to load resource due to error:\n{0}", ex);
         }
     }
 
@@ -432,34 +433,6 @@ public class CommonUtil {
             return bundle.getString(key);
         }
         return null;
-    }
-
-    private static final HashMap<DeviceEnum, String[]> driver = new HashMap<>();
-
-    public static String getDriverDll(DeviceEnum device) {
-        return driver.get(device)[0];
-    }
-
-    public static String getDriverPort(DeviceEnum device) {
-        return driver.get(device)[1];
-    }
-
-    public static void saveDriverConf(DeviceEnum device, String[] conf) {
-        driver.put(device, conf);
-    }
-
-    public static int readPrinterStatus() {
-        int status = ABNORMAL;
-        try {
-            System.loadLibrary(getDriverDll(PRINTER));
-            PrinterConductor printerConductor = new PrinterConductor();
-            String errMsg = "";
-            status = printerConductor.printState(getDriverPort(PRINTER), errMsg);
-        } catch (Throwable t) {
-            getLogger(CommonUtil.class.getName()).log(Level.WARNING, "Fail to load DLL {0} due to {1}",
-                    new String[]{getDriverDll(PRINTER), t.getMessage()});
-        }
-        return status;
     }
 
     /* finger printer driver section */
@@ -478,7 +451,7 @@ public class CommonUtil {
     private static void closeFingerDrvHandler(FingerPrintDrive driver, int objHdl) {
         int nRet = driver.TcDeleteHDL(objHdl);
         if (nRet < 0) {
-            getLogger(CommonUtil.class.getName()).log(Level.INFO,
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     "fail to close handler of finger print device {0}, return code is {1}",
                     new Object[]{objHdl, nRet});
         }
@@ -504,7 +477,7 @@ public class CommonUtil {
         if (nRet >= 0) {
             strVer = ByteToString(pVer, nRet);
         } else {
-            getLogger(CommonUtil.class.getName()).log(Level.INFO,
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     "fail to read finger print, return code is {0}", nRet);
         }
         closeFingerDrvHandler(driver, objHdl);
@@ -531,7 +504,7 @@ public class CommonUtil {
         if (nRet >= 0) {
             strReg = ByteToString(pReg, nRet);
         } else {
-            getLogger(CommonUtil.class.getName()).log(Level.INFO,
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     "fail to registy finger print device, return code is {0}", nRet);
         }
         closeFingerDrvHandler(driver, objHdl);
@@ -563,38 +536,109 @@ public class CommonUtil {
     }
 
     /* finger printer driver section end*/
+ /* JNI type driver calling*/
+    private static final HashMap<DeviceEnum, String[]> driverRepo = new HashMap<>();
+    final static String DRIVER_LOG_TEMPLATE = "Fail to call driver {0} due to error:\n{1}";
+
+    private static void lookForDriverConfig(DeviceEnum device) throws Exception {
+        String[] deviceConf = driverRepo.get(device);
+        if (deviceConf == null || deviceConf.length < 2) {
+            throw new Exception("Fail to look for "
+                    + device.name()
+                    + " driver configuration in xml_window.xml");
+        }
+    }
+
+    public static String getDriverDll(DeviceEnum device) throws Exception {
+        lookForDriverConfig(device);
+        return driverRepo.get(device)[0];
+    }
+
+    public static String getDriverPort(DeviceEnum device) throws Exception {
+        lookForDriverConfig(device);
+        return driverRepo.get(device)[1];
+    }
+
+    public static void saveDriverConf(DeviceEnum device, String[] conf) {
+        driverRepo.put(device, conf);
+    }
+
+    public static int readPrinterStatus() {
+        int status = ABNORMAL;
+        try {
+            String driverName = getDriverDll(PRINTER);
+            System.loadLibrary(driverName);
+            PrinterConductor printerConductor = new PrinterConductor();
+            String errMsg = "";
+            status = printerConductor.printState(getDriverPort(PRINTER), errMsg);
+        } catch (Throwable t) {
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{PRINTER.value(), t.getMessage()});
+        }
+        return status;
+    }
+
     // print receipt
     public static void printReceipt(String header, String content, String tail) {
-        System.loadLibrary(getDriverDll(PRINTER));
-        PrinterConductor printerConductor = new PrinterConductor();
-        String errMsg = "";
-        printerConductor.print(getDriverPort(PRINTER), header, content, tail, errMsg);
+        try {
+            System.loadLibrary(getDriverDll(PRINTER));
+            PrinterConductor printerConductor = new PrinterConductor();
+            String errMsg = "";
+            printerConductor.print(getDriverPort(PRINTER), header, content, tail, errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{PRINTER.value(), t.getMessage()});
+        }
     }
 
     public static int printPassbook(String depositRecords) {
-        System.loadLibrary(getDriverDll(PRINTER));
-        PrinterConductor printerConductor = new PrinterConductor();
-        String errMsg = "";
-        return printerConductor.printPassBook(getDriverPort(PRINTER), depositRecords, errMsg);
+        int result = ABNORMAL;
+        try {
+            System.loadLibrary(getDriverDll(PRINTER));
+            PrinterConductor printerConductor = new PrinterConductor();
+            String errMsg = "";
+            result = printerConductor.printPassBook(getDriverPort(PRINTER), depositRecords, errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{PRINTER.value(), t.getMessage()});
+        }
+        return result;
     }
 
     public static String swipeMagnetCard() {
-        System.loadLibrary(getDriverDll(MAGNET_CARD));
-        MagnetCardConductor magnetCardConductor = new MagnetCardConductor();
-        String errMsg = "";
-        String cardNumber = magnetCardConductor.readCard(getDriverPort(MAGNET_CARD), errMsg);
-        if (cardNumber != null && cardNumber.length() > 0) {
-            int first = cardNumber.indexOf(';');
-            int last = cardNumber.indexOf('=');
-            cardNumber = cardNumber.substring(first + 1, last);
+        String cardNumber = null;
+        try {
+            System.loadLibrary(getDriverDll(MAGNET_CARD));
+            MagnetCardConductor magnetCardConductor = new MagnetCardConductor();
+            String errMsg = "";
+            cardNumber = magnetCardConductor.readCard(getDriverPort(MAGNET_CARD), errMsg);
+            if (cardNumber != null && cardNumber.length() > 0) {
+                int first = cardNumber.indexOf(';');
+                int last = cardNumber.indexOf('=');
+                cardNumber = cardNumber.substring(first + 1, last);
+            }
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{MAGNET_CARD.value(), t.getMessage()});
         }
         return cardNumber;
     }
 
     public static String swipeICCard() {
-        System.loadLibrary(getDriverDll(IC_CARD));
-        ICCardConductor icCardConductor = new ICCardConductor();
-        String cardInfo = icCardConductor.readCard(getDriverPort(IC_CARD), "");
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(IC_CARD));
+            ICCardConductor icCardConductor = new ICCardConductor();
+            cardInfo = icCardConductor.readCard(getDriverPort(IC_CARD), "");
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{IC_CARD.value(), t.getMessage()});
+        }
         return cardInfo;
     }
 
@@ -608,7 +652,7 @@ public class CommonUtil {
         return cardInfoCache;
     }
 
-    public static String swipeGzICCard() {
+    public static String swipeGzICCard() throws Throwable {
         String cardInfo = null;
         try {
             System.loadLibrary(getDriverDll(GZ_CARD));
@@ -618,15 +662,16 @@ public class CommonUtil {
             GzCardConductor icCardConductor = new GzCardConductor();
             cardInfo = icCardConductor.readCard(getDriverPort(GZ_CARD));
         } catch (Throwable t) {
-            getLogger(CommonUtil.class.getName()).log(Level.WARNING, "Fail to load DLL {0} due to {1}",
-                    new String[]{getDriverDll(GZ_CARD), t.getMessage()});
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{GZ_CARD.value(), t.getMessage()});
             throw t;
         }
         return cardInfo;
     }
 
-    public static int writeGzICCard(JsonObject cardInfo) {
-        int result = -1;
+    public static int writeGzICCard(JsonObject cardInfo) throws Throwable {
+        int result = ABNORMAL;
         try {
             System.loadLibrary(getDriverDll(GZ_CARD));
             GzCardConductor icCardConductor = new GzCardConductor();
@@ -634,8 +679,9 @@ public class CommonUtil {
                     cardInfo.getInt(GzCardConductor.CARD_FACTORY),
                     cardInfo.toString());
         } catch (Throwable t) {
-            getLogger(CommonUtil.class.getName()).log(Level.WARNING, "Fail to load DLL {0} due to {1}",
-                    new String[]{getDriverDll(GZ_CARD), t.getMessage()});
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{GZ_CARD.value(), t.getMessage()});
             throw t;
         }
         return result;
@@ -644,65 +690,100 @@ public class CommonUtil {
     private static final TwoInOneCardConductor TIOCardConductor = new TwoInOneCardConductor();
 
     public static int check2In1Card() {
-        System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
-        String errMsg = "";
-        int checkResult = TIOCardConductor.checkCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
+        int checkResult = ABNORMAL;
+        try {
+            System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
+            String errMsg = "";
+            checkResult = TIOCardConductor.checkCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{TWO_IN_ONE_CARD.value(), t.getMessage()});
+        }
         return checkResult;
     }
 
     public static String swipe2In1Card(int type) {
-        System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
-        String errMsg = "";
-        String cardNumber = TIOCardConductor.readCard(getDriverPort(TWO_IN_ONE_CARD), type, errMsg);
+        String cardNumber = null;
+        try {
+            System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
+            String errMsg = "";
+            cardNumber = TIOCardConductor.readCard(getDriverPort(TWO_IN_ONE_CARD), type, errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{TWO_IN_ONE_CARD.value(), t.getMessage()});
+        }
         return cardNumber;
     }
 
     public static boolean downloadKey(String maKey, String masterKey, String workSecretKey) {
-        System.loadLibrary(getDriverDll(KEYBOARD));
-        KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
-        return keyBoardDriver.downloadSecretKey(getDriverPort(KEYBOARD),
-                maKey, masterKey, workSecretKey);
+        boolean result = false;
+        try {
+            System.loadLibrary(getDriverDll(KEYBOARD));
+            KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
+            result = keyBoardDriver.downloadSecretKey(getDriverPort(KEYBOARD),
+                    maKey, masterKey, workSecretKey);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{KEYBOARD.value(), t.getMessage()});
+        }
+        return result;
     }
 
     public static String inputString(String str) {
-        System.loadLibrary(getDriverDll(KEYBOARD));
-        KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
-        String errMsg = "";
-        return isKeyboardReady() ? keyBoardDriver.getPin(getDriverPort(KEYBOARD), str, errMsg)
-                : keyBoardDriver.getPin("soft", str, errMsg);
+        String transformer = str;
+        try {
+            System.loadLibrary(getDriverDll(KEYBOARD));
+            KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
+            String errMsg = "";
+            transformer = isKeyboardReady() ? keyBoardDriver.getPin(getDriverPort(KEYBOARD), str, errMsg)
+                    : keyBoardDriver.getPin("soft", str, errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{KEYBOARD.value(), t.getMessage()});
+        }
+        return transformer;
     }
 
     public static String inputString(JPasswordField password) {
         String result = null;
-        System.loadLibrary(getDriverDll(KEYBOARD));
-        KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
-        String errMsg = "";
-        keyBoardDriver.openPin(getDriverPort(KEYBOARD), errMsg);
-        StringBuilder sb = new StringBuilder();
-        long start = System.currentTimeMillis();
-        while (true) {
-            long now = System.currentTimeMillis();
-            long duration = TimeUnit.MILLISECONDS.toSeconds(now - start);
-            if (duration > 15) {
-                CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO, "read pin time out");
-                break;
+        try {
+            System.loadLibrary(getDriverDll(KEYBOARD));
+            KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
+            String errMsg = "";
+            keyBoardDriver.openPin(getDriverPort(KEYBOARD), errMsg);
+            StringBuilder sb = new StringBuilder();
+            long start = System.currentTimeMillis();
+            while (true) {
+                long now = System.currentTimeMillis();
+                long duration = TimeUnit.MILLISECONDS.toSeconds(now - start);
+                if (duration > 15) {
+                    CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO, "read pin time out");
+                    break;
+                }
+                char ch = keyBoardDriver.readPin();
+                if (ch == 0) {
+                    continue;
+                }
+                sb.append(ch);
+                password.setText(sb.toString());
+                CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.FINEST, "read pin result {0}",
+                        Integer.toHexString(ch));
+                if (ch == 0x0d || ch == 0xaa) {
+                    CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.FINEST, "read pin ends up");
+                    result = keyBoardDriver.closePin();
+                    CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.FINEST, "final reuslt {0}", result);
+                    break;
+                }
             }
-            char ch = keyBoardDriver.readPin();
-            if (ch == 0) {
-                continue;
-            }
-            sb.append(ch);
-            password.setText(sb.toString());
-            CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.FINEST, "read pin result {0}",
-                    Integer.toHexString(ch));
-            if (ch == 0x0d || ch == 0xaa) {
-                CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.FINEST, "read pin ends up");
-                result = keyBoardDriver.closePin();
-                CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.FINEST, "final reuslt {0}", result);
-                break;
-            }
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{KEYBOARD.value(), t.getMessage()});
         }
-
         return result;
     }
 
