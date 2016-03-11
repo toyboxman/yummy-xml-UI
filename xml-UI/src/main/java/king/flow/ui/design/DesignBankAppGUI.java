@@ -216,6 +216,8 @@ public class DesignBankAppGUI {
         protected void done() {
             try {
                 get();
+                Logger.getLogger(DesignBankAppGUI.class.getName()).log(Level.INFO,
+                        "Succeed in saving component edited in {0}", fileUrl);
             } catch (InterruptedException | ExecutionException ex) {
                 Logger.getLogger(DesignBankAppGUI.class.getName()).log(Level.SEVERE,
                         "Fail to save component edited due to error : \n{0}", ex);

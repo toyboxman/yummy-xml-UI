@@ -590,7 +590,7 @@ public class CommonUtil {
         }
         return cardNumber;
     }
-    
+
     public static String swipeICCard() {
         System.loadLibrary(getDriverDll(IC_CARD));
         ICCardConductor icCardConductor = new ICCardConductor();
@@ -609,21 +609,35 @@ public class CommonUtil {
     }
 
     public static String swipeGzICCard() {
-        System.loadLibrary(getDriverDll(GZ_CARD));
-        getLogger(CommonUtil.class.getName()).log(Level.INFO,
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(GZ_CARD));
+            getLogger(CommonUtil.class.getName()).log(Level.INFO,
                     "Read guozhen IC card by {0} and port {1}",
                     new Object[]{getDriverDll(GZ_CARD), getDriverPort(GZ_CARD)});
-        GzCardConductor icCardConductor = new GzCardConductor();
-        String cardInfo = icCardConductor.readCard(getDriverPort(GZ_CARD));
+            GzCardConductor icCardConductor = new GzCardConductor();
+            cardInfo = icCardConductor.readCard(getDriverPort(GZ_CARD));
+        } catch (Throwable t) {
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING, "Fail to load DLL {0} due to {1}",
+                    new String[]{getDriverDll(GZ_CARD), t.getMessage()});
+            throw t;
+        }
         return cardInfo;
     }
 
     public static int writeGzICCard(JsonObject cardInfo) {
-        System.loadLibrary(getDriverDll(GZ_CARD));
-        GzCardConductor icCardConductor = new GzCardConductor();
-        int result = icCardConductor.writeCard(getDriverPort(GZ_CARD),
-                cardInfo.getInt(GzCardConductor.CARD_FACTORY),
-                cardInfo.toString());
+        int result = -1;
+        try {
+            System.loadLibrary(getDriverDll(GZ_CARD));
+            GzCardConductor icCardConductor = new GzCardConductor();
+            result = icCardConductor.writeCard(getDriverPort(GZ_CARD),
+                    cardInfo.getInt(GzCardConductor.CARD_FACTORY),
+                    cardInfo.toString());
+        } catch (Throwable t) {
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING, "Fail to load DLL {0} due to {1}",
+                    new String[]{getDriverDll(GZ_CARD), t.getMessage()});
+            throw t;
+        }
         return result;
     }
 

@@ -173,7 +173,7 @@ public class InsertCardAction extends DefaultBaseAction {
                 return "Success";
             } catch (Throwable exception) {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
-                        "Occur problem during reading IC card, root cause comes from \n{0}", exception);
+                        "Occur problem during reading IC card, root cause comes from \n{0}", exception.getMessage());
                 showOnComponent(failedDisplay.get(0), getResourceMsg("operation.ic.card.read.error"));
                 panelJump(failedPage.getNextPanel());
                 throw exception;
