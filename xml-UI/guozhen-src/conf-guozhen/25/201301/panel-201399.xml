@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../WindowXmlSchema.xsd'>
+    <id>201399</id>
+    <type>Panel</type>
+    <active>false</active>
+    <background>/image/2.jpg</background>
+    <component>
+        <id>201398</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>430</x>
+                <y>70</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>历史交易查询失败</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>201397</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>150</x>
+                <y>200</y>
+                <width>600</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>错误信息:</text>
+        </attribute>
+    </component>
+	
+    <component>
+        <id>201396</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>200</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+            <text></text>
+        </attribute>
+    </component>
+    
+    <component>
+        <id>201395</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>550</x>
+                <y>600</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>251</nextPanel>
+            </jumpPanelAction>
+        </action>
+        <action>
+            <cleanAction>
+                <conditions>201304,201306</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+</panel>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<panel
-    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../schema/WindowXmlSchema.xsd'>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>251</id>
     <type>Panel</type>
     <active>false</active>
@@ -11,13 +8,13 @@
         <id>252</id>
         <type>Label</type>
         <attribute>
+            <text>IC卡表用户</text>
             <rect>
                 <x>500</x>
                 <y>80</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>IC卡表用户</text>
         </attribute>
         <action>
             <setFontAction>
@@ -25,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-	
     <component>
         <id>253</id>
         <type>Button</type>
@@ -44,11 +40,7 @@
                     <nextPanel>201801</nextPanel>
                     <display>201806,201807,201808</display>
                     <hop>201811</hop>
-                    <debug>
-                        9633242
-                        12
-                        2
-                    </debug>
+                    <debug>9633242 12 2</debug>
                 </nextStep>
                 <exception>
                     <nextPanel>201899</nextPanel>
@@ -57,7 +49,6 @@
             </insertICardAction>
         </action>
     </component>
-	
     <component>
         <id>256</id>
         <type>Button</type>
@@ -75,9 +66,7 @@
                 <nextStep>
                     <nextPanel>201201</nextPanel>
                     <display>201204</display>
-                    <debug>
-                        9633242
-                    </debug>
+                    <debug>9633242</debug>
                 </nextStep>
                 <exception>
                     <nextPanel>201899</nextPanel>
@@ -86,7 +75,32 @@
             </insertICardAction>
         </action>
     </component>
-	
+    <component>
+        <id>258</id>
+        <type>Button</type>
+        <attribute>
+            <text>IC卡余量查询</text>
+            <rect>
+                <x>200</x>
+                <y>416</y>
+                <width>300</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <insertICardAction>
+                <nextStep>
+                    <nextPanel>201301</nextPanel>
+                    <display>201304,201306</display>
+                    <debug>9633242 12 2</debug>
+                </nextStep>
+                <exception>
+                    <nextPanel>201399</nextPanel>
+                    <display>201396</display>
+                </exception>
+            </insertICardAction>
+        </action>
+    </component>
     <component>
         <id>257</id>
         <type>Button</type>
