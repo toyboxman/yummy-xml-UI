@@ -5,6 +5,7 @@
  */
 package king.flow.action.business;
 
+import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
 import com.github.jsonj.tools.JsonParser;
 import java.util.List;
@@ -97,7 +98,8 @@ public class WriteCardAction extends BalanceTransAction {
             if (result == null) {
                 getLogger(WriteCardTask.class.getName()).log(Level.INFO,
                         "Fail to transform response and receive invalid raw response : \n{0}", resp);
-                showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.invalidated.response.prompt"));
+                showErrMsg(Integer.MIN_VALUE,
+                        getResourceMsg("terminal.invalidated.response.prompt"));
                 return resp;
             } else if (result.getRetCode() != 0) {
                 final String errMsg = result.getErrMsg();
@@ -110,9 +112,21 @@ public class WriteCardAction extends BalanceTransAction {
             }
 
             //parse ok message and get something to be written into card
-            JsonObject successJson = new JsonParser().parse(result.getOkMsg()).asObject();
-            int gasSurplus = successJson.getInt(GzCardConductor.CARD_SPARE);
-            int gasCount = successJson.getInt(GzCardConductor.CARD_GAS_COUNT);
+            JsonObject successJson = null;
+            JsonElement gasSurplus = null;
+            JsonElement gasCount = null;
+            try {
+                successJson = new JsonParser().parse(result.getOkMsg()).asObject();
+                gasSurplus = successJson.get(GzCardConductor.CARD_SPARE);
+                gasCount = successJson.get(GzCardConductor.CARD_GAS_COUNT);
+            } catch (Exception e) {
+                getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
+                        "Fail to parse write card info due to : \n{0}", e);
+                showErrMsg(Integer.MIN_VALUE,
+                        getResourceMsg("terminal.invalidated.response.prompt"));
+                throw e;
+            }
+
             try {
                 JsonObject cardInfo = CommonUtil.uncacheCardInfo();
                 cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
@@ -141,7 +155,7 @@ public class WriteCardAction extends BalanceTransAction {
 
                 return resp;
             }
-            
+
             //be successful and show final result to user
             TLSResult showResult = new TLSResult(result.getRetCode(),
                     successJson.getString("result"), result.getErrMsg(), result.getPrtMsg());

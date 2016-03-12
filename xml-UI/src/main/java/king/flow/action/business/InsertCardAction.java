@@ -5,7 +5,9 @@
  */
 package king.flow.action.business;
 
+import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
+import com.github.jsonj.JsonPrimitive;
 import com.github.jsonj.tools.JsonParser;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -85,7 +87,7 @@ public class InsertCardAction extends DefaultBaseAction {
                 progressTip.setBounds(0, 120, progressAnimation.getBounds().width, 80);
                 progressAnimation.getContentPane().add(progressTip, 1);
                 final ImageIcon bgImage = CommonUtil.getImageIcon("/image/2.jpg");
-                 //final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
+                //final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
                 if (bgImage != null) {
                     progressAnimation.getContentPane().add(new JLabel(bgImage), 2);
                 } else {
@@ -141,12 +143,17 @@ public class InsertCardAction extends DefaultBaseAction {
                     }
                     //cache current card information for writing action
                     CommonUtil.cacheCardInfo(element);
-                    
-                    Integer gasSurplus = element.getInt(GzCardConductor.CARD_SPARE) == null ?
-                            0 : element.getInt(GzCardConductor.CARD_SPARE);
-                    Integer cardType = element.getInt(GzCardConductor.CARD_FACTORY) == null ?
-                            0 : element.getInt(GzCardConductor.CARD_FACTORY);
-                    
+
+                    JsonElement gasSurplus = element.get(GzCardConductor.CARD_SPARE);
+                    if (gasSurplus == null) {
+                        gasSurplus = new JsonPrimitive("0");
+                    }
+
+                    JsonElement cardType = element.get(GzCardConductor.CARD_FACTORY);
+                    if (cardType == null) {
+                        cardType = new JsonPrimitive("0");
+                    }
+
                     List<String> displayValues = new ArrayList<>();
                     displayValues.add(cardId);
                     displayValues.add(String.valueOf(gasSurplus));

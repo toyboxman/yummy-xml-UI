@@ -258,17 +258,20 @@ public class CommonUtil {
                     } else if (name.equals(TLSResult.REDIRECTION)) {
                         result.setRedirection(value);
                     } else {
-                        getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                        getLogger(CommonUtil.class.getName()).log(Level.CONFIG,
                                 "Unuseful com.sun.org.apache.xerces.internal.dom.ElementNSImpl Element : {0} with value {1}",
                                 new Object[]{e.getLocalName(), value});
                     }
                 } else {
                     getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                            "Unknown xml element type : {0} with value {1}", new Object[]{o.getClass().getName(), o.toString()});
+                            "Unknown xml element type : {0} with value {1}",
+                            new Object[]{o.getClass().getName(), o.toString()});
                 }
             }
         } catch (JAXBException | NumberFormatException | DOMException ex) {
-            getLogger(CommonUtil.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    "Invalid response received:\n{0} \nresponse parsing hits error :\n{1} ",
+                    new Object[]{TLSResp, ex});
         }
 
         return result;
