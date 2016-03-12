@@ -134,7 +134,7 @@ public class WriteCardAction extends BalanceTransAction {
                 CommonUtil.writeGzICCard(cardInfo);
             } catch (Throwable e) {
                 getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
-                        "Fail to write card due to : \n{0}", e);
+                        "Fail to write card due to : \n{0}", e.getMessage());
                 //launch strike-balance for card writing failure
                 String strike_balance = buildBalancedMsg(conditionValues, msg);
                 getLogger(WriteCardTask.class.getName()).log(Level.INFO,
