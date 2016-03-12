@@ -81,17 +81,16 @@ public class DefaultTextFieldAction extends DefaultAction<JTextField> {
 
     @Override
     public void initializeData() {
-        if (moneyDeal) {
+        //as textfield set uneditable, it cannot get cursor focusing. so I decide to use document to limit input
+        //owner.setEditable(editable);
+        if (!editable) {
+            owner.setEnabled(editable);
+        } else if (moneyDeal) {
             owner.setDocument(new MoneyInputLimit());
         } else if (type == InputType.NUMBER) {
             owner.setDocument(new NumberInputLimit());
         } else {
             owner.setDocument(new LengthInputLimit());
-        }
-        //as textfield set uneditable, it cannot get cursor focusing. so I decide to use document to limit input
-        //owner.setEditable(editable);
-        if (!editable) {
-            owner.setEnabled(editable);
         }
     }
 
