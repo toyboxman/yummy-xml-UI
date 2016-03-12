@@ -1571,7 +1571,7 @@ public class MainWindow {
         if (isScaleScreen()) {
             rect = adjustByResolution(rect);
         }
-        
+
         String icon = attribute.getIcon();
         JComponent jcomponent = null;
         ComponentEnum ctype = component.getType();
@@ -1678,6 +1678,9 @@ public class MainWindow {
         String text = attribute.getText();
         String icon = attribute.getIcon();
         Bound rect = attribute.getRect();
+        if (rect != null && rect.getWidth() > 0 && rect.getHeigh() > 0) {
+            CommonUtil.setScale(rect.getWidth(), rect.getHeigh());
+        }
         JMenuBar menuBar = createMenuBar();
 
         WindowEnum type = winNode.getType();
@@ -1699,7 +1702,9 @@ public class MainWindow {
                 if (rect != null) {
                     jFrame.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
                 } else if (!isScaleScreen()) {
-                    jFrame.setBounds(0, 0, 1280, 1024);
+                    jFrame.setBounds(0, 0,
+                            CommonUtil.DEFAULT_SCREEN_WIDTH,
+                            CommonUtil.DEFAULT_SCREEN_HEITH);
                 } else {
                     jFrame.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
                 }
@@ -1728,7 +1733,9 @@ public class MainWindow {
                 if (rect != null) {
                     jDialog.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
                 } else if (!isScaleScreen()) {
-                    jDialog.setBounds(0, 0, 1280, 1024);
+                    jDialog.setBounds(0, 0,
+                            CommonUtil.DEFAULT_SCREEN_WIDTH,
+                            CommonUtil.DEFAULT_SCREEN_HEITH);
                 } else {
                     jDialog.setBounds(GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds());
                 }

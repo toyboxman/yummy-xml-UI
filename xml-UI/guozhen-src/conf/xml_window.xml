@@ -5,7 +5,7 @@
     <id>0</id>
     <type>Frame</type>
     <ui-style>
-        <scalescreen>false</scalescreen>
+        <scalescreen>true</scalescreen>
         <font>
             <name>Apple LiSung Light</name>
             <size>30</size>

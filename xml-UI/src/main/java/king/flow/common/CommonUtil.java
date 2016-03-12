@@ -13,6 +13,7 @@ import java.awt.Toolkit;
 import java.awt.Window;
 import java.io.File;
 import java.io.IOException;
+import java.math.BigDecimal;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -679,7 +680,7 @@ public class CommonUtil {
             System.loadLibrary(getDriverDll(GZ_CARD));
             GzCardConductor icCardConductor = new GzCardConductor();
             result = icCardConductor.writeCard(getDriverPort(GZ_CARD),
-                    cardInfo.getInt(GzCardConductor.CARD_FACTORY),
+                    Integer.parseInt(cardInfo.getString(GzCardConductor.CARD_FACTORY)),
                     cardInfo.toString());
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
@@ -1102,8 +1103,15 @@ public class CommonUtil {
     }
 
     private final static Dimension SCREEN_SIZE = Toolkit.getDefaultToolkit().getScreenSize();
-    private final static double WIDTH_SCALE = SCREEN_SIZE.getWidth() / 1280.0d;
-    private final static double HEIGHT_SCALE = SCREEN_SIZE.getHeight() / 1024.0d;
+    private final static int SCALE = 2;
+    public static final int DEFAULT_SCREEN_WIDTH = 1280;
+    public static final int DEFAULT_SCREEN_HEITH = 1024;
+    private static double WIDTH_SCALE = new BigDecimal(SCREEN_SIZE.width)
+            .divide(new BigDecimal(DEFAULT_SCREEN_WIDTH),
+                    SCALE, BigDecimal.ROUND_HALF_EVEN).doubleValue();
+    private static double HEIGHT_SCALE = new BigDecimal(SCREEN_SIZE.height)
+            .divide(new BigDecimal(DEFAULT_SCREEN_HEITH),
+                    SCALE, BigDecimal.ROUND_HALF_EVEN).doubleValue();
 
     public static Bound adjustByResolution(Bound rawRect) {
         final Bound adjustment = new Bound();
@@ -1112,6 +1120,15 @@ public class CommonUtil {
         adjustment.setWidth((int) Math.round(rawRect.getWidth() * WIDTH_SCALE));
         adjustment.setHeigh((int) Math.round(rawRect.getHeigh() * HEIGHT_SCALE));
         return adjustment;
+    }
+
+    public static void setScale(int width, int height) {
+        final BigDecimal screenWidth = new BigDecimal(width);
+        final BigDecimal screenHeight = new BigDecimal(height);
+        WIDTH_SCALE = screenWidth.divide(new BigDecimal(DEFAULT_SCREEN_WIDTH),
+                SCALE, BigDecimal.ROUND_HALF_EVEN).doubleValue();
+        HEIGHT_SCALE = screenHeight.divide(new BigDecimal(DEFAULT_SCREEN_HEITH),
+                SCALE, BigDecimal.ROUND_HALF_EVEN).doubleValue();
     }
 
     private static king.flow.view.Window windowNode = null;
