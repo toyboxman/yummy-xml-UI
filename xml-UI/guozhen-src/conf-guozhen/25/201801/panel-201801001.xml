@@ -225,6 +225,7 @@
         <action>
             <limitInputAction>
                 <length>4</length>
+                <enableNumberLimit>true</enableNumberLimit>>
             </limitInputAction>
         </action>
     </component>
