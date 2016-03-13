@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
 import javax.swing.SwingWorker;
+import king.flow.common.CommonConstants;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.createTLSMessage;
 import static king.flow.common.CommonUtil.getLogger;
@@ -131,7 +132,10 @@ public class WriteCardAction extends BalanceTransAction {
                 JsonObject cardInfo = CommonUtil.uncacheCardInfo();
                 cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
                 cardInfo.put(GzCardConductor.CARD_GAS_COUNT, gasCount);
-                CommonUtil.writeGzICCard(cardInfo);
+                int writeResult = CommonUtil.writeGzICCard(cardInfo);
+                if (writeResult != CommonConstants.NORMAL) {
+                    throw new Exception("card driver returns failed result : [" + writeResult + "]");
+                }
             } catch (Throwable e) {
                 getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to write card due to : \n{0}", e.getMessage());
