@@ -45,6 +45,12 @@
     </driver>
     <attribute>
         <text>国祯燃气自助缴费系统</text>
+        <!--<rect>
+            <x>0</x>
+            <y>0</y>
+            <width>800</width>
+            <heigh>600</heigh>
+        </rect>-->
     </attribute>
     <contents>
         <page>./conf-guozhen/panel-1.xml</page>

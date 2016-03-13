@@ -1121,6 +1121,11 @@ public class CommonUtil {
         adjustment.setHeigh((int) Math.round(rawRect.getHeigh() * HEIGHT_SCALE));
         return adjustment;
     }
+    
+    public static int adjustSize(int size) {
+        double sizeScale = Math.min(WIDTH_SCALE, HEIGHT_SCALE);
+        return (int) Math.round(size * sizeScale);
+    }
 
     public static void setScale(int width, int height) {
         final BigDecimal screenWidth = new BigDecimal(width);
