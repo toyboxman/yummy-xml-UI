@@ -141,8 +141,6 @@ public class InsertCardAction extends DefaultBaseAction {
                     if (cardId == null || cardId.length() == 0) {
                         throw new Exception("No card number is gotten from this card");
                     }
-                    //cache current card information for writing action
-                    CommonUtil.cacheCardInfo(element);
 
                     JsonElement gasSurplus = element.get(GzCardConductor.CARD_SPARE);
                     if (gasSurplus == null) {
@@ -152,7 +150,13 @@ public class InsertCardAction extends DefaultBaseAction {
                     JsonElement cardType = element.get(GzCardConductor.CARD_FACTORY);
                     if (cardType == null) {
                         cardType = new JsonPrimitive("0");
+                    } else if (String.valueOf(cardType)
+                            .equals(GzCardConductor.UNSUPPORT_CARD_TYPE)) {
+                        throw new Exception("guozhen.operation.card.type.prompt");
                     }
+
+                    //cache current card information for writing action
+                    CommonUtil.cacheCardInfo(element);
 
                     List<String> displayValues = new ArrayList<>();
                     displayValues.add(cardId);
@@ -181,7 +185,9 @@ public class InsertCardAction extends DefaultBaseAction {
             } catch (Throwable t) {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
                         "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
-                showOnComponent(failedDisplay.get(0), getResourceMsg("operation.ic.card.read.error"));
+                String errPrompt = getResourceMsg(t.getMessage());
+                showOnComponent(failedDisplay.get(0), 
+                        errPrompt == null ? getResourceMsg("operation.ic.card.read.error") : errPrompt);
                 panelJump(failedPage.getNextPanel());
                 throw new Exception(t);
             }
