@@ -433,8 +433,12 @@ public class CommonUtil {
     }
 
     public static String getResourceMsg(String key) {
-        if (bundle != null) {
+        try {
             return bundle.getString(key);
+        } catch (Exception e) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    "fail to catch resource item by key[{0}] due to error:\n{1}",
+                    new Object[]{key, e.getMessage()});
         }
         return null;
     }
@@ -1121,7 +1125,7 @@ public class CommonUtil {
         adjustment.setHeigh((int) Math.round(rawRect.getHeigh() * HEIGHT_SCALE));
         return adjustment;
     }
-    
+
     public static int adjustSize(int size) {
         double sizeScale = Math.min(WIDTH_SCALE, HEIGHT_SCALE);
         return (int) Math.round(size * sizeScale);

@@ -113,6 +113,7 @@ import king.flow.view.ComponentEnum;
 import king.flow.view.Decorator;
 import king.flow.view.DecoratorEnum;
 import king.flow.view.DefinedAction;
+import king.flow.view.DeviceEnum;
 import king.flow.view.Font;
 import king.flow.view.FontstyleEnum;
 import king.flow.view.JumpAction;
@@ -135,14 +136,14 @@ import org.jdesktop.swingx.JXLabel;
  * @author LiuJin
  */
 public class MainWindow {
-    
+
     private king.flow.view.Window winNode = null;
     private Window window = null;
     private Map<Integer, Object> building_blocks = null;
     private Map<Integer, Object> meta_blocks = null;
     private Map<Panel, String> panelNodes = null;
     private List<Menuitem> menuNodes = null;
-    
+
     public MainWindow(king.flow.view.Window node) {
         this.winNode = node;
         setWindowNode(winNode);
@@ -153,11 +154,11 @@ public class MainWindow {
         initUI();
         initActions();
     }
-    
+
     private void initUI() {
         UiStyle style = winNode.getUiStyle();
         initWindow();
-        
+
         king.flow.view.Window.Contents contents = winNode.getContents();
         List<String> pages = contents.getPage();
         String page = null;
@@ -166,17 +167,17 @@ public class MainWindow {
             for (String pageURI : pages) {
                 page = pageURI;
                 Panel pNode = new FlowProcessor(pageURI).parse(Panel.class);
-                
+
                 if (this.meta_blocks.containsKey(pNode.getId())) {
                     CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(pNode.getType().toString(), pNode.getId(), pageURI).toString(), true);
                 }
-                
+
                 this.panelNodes.put(pNode, pageURI);
                 String background = pNode.getBackground();
                 JPanel panel = constructPanel(pNode);
                 initComponents(pNode, panel, pageURI);
                 initDecorators(pNode, panel, pageURI);
-                
+
                 if (background != null && background.length() > 0) {
                     try {
                         JLabel jLabel = new JLabel(getImageIcon(background), JLabel.LEADING);
@@ -220,7 +221,7 @@ public class MainWindow {
             CommonUtil.showBlockedErrorMsg(null, severeMsg + "\nRoot Cause:\n" + ex.getCause().getMessage(), true);
         }
     }
-    
+
     private JPanel constructPanel(Panel pNode) throws AssertionError {
         final int id = pNode.getId();
         PanelEnum type = pNode.getType();
@@ -234,7 +235,7 @@ public class MainWindow {
                 getLogger(MainWindow.class.getName()).log(Level.SEVERE, "Panel configuration Error", configError);
                 throw configError;
         }
-        
+
         this.building_blocks.put(id, panel);
         this.meta_blocks.put(id, pNode);
         final boolean activePanel = pNode.isActive() == null ? false : pNode.isActive();
@@ -256,7 +257,7 @@ public class MainWindow {
         }
         return panel;
     }
-    
+
     private void initDecorators(Panel pNode, JPanel panel, String pageURI) throws AssertionError {
         List<Decorator> decorators = pNode.getDecorator();
         for (Decorator decorator : decorators) {
@@ -267,7 +268,7 @@ public class MainWindow {
             constructDecorator(decorator, panel, pageURI);
         }
     }
-    
+
     private void constructDecorator(Decorator decorator, JPanel panel, String pageURI) throws AssertionError {
         final int decorator_id = decorator.getId();
         DecoratorEnum type = decorator.getType();
@@ -319,7 +320,7 @@ public class MainWindow {
                 throw configError;
         }
     }
-    
+
     public void debugComponent(BasicAttribute attribute, JComponent component, int componentID, String componentType) throws NumberFormatException {
         if (attribute.getDebug() != null) {
             BasicAttribute.Debug debug = attribute.getDebug();
@@ -340,7 +341,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void initActions() {
         for (Panel panel : panelNodes.keySet()) {
             String pageURI = panelNodes.get(panel);
@@ -349,14 +350,14 @@ public class MainWindow {
                 validateActionConfig(component, panel, pageURI);
                 setupAction(component, panel);
             }
-            
+
             List<Decorator> decorators = panel.getDecorator();
             for (Decorator decorator : decorators) {
                 validateActionConfig(decorator.getComponent(), panel, pageURI);
                 setupAction(decorator.getComponent(), panel);
             }
         }
-        
+
         for (Menuitem item : menuNodes) {
             Menuaction action = item.getAction();
             JumpAction jumpAction = action.getJumpPanelAction();
@@ -364,68 +365,68 @@ public class MainWindow {
                 DefaultMenuAction menuJumpAction = new DefaultMenuAction(jumpAction.getNextPanel());
                 doAction(menuJumpAction, item.getId());
             }
-            
+
             doDefinedAction(action.getCustomizedAction(), item.getId());
         }
     }
-    
+
     private void validateActionConfig(Component component, Panel panel, String pageURI) throws HeadlessException {
         List<king.flow.view.Action> actions = component.getAction();
         for (king.flow.view.Action action : actions) {
             validateJumpAction(action.getJumpPanelAction(), component, panel, pageURI);
-            
+
             validateDefinedAction(action.getCustomizedAction(), component, panel, pageURI);
-            
+
             validateSetFontAction(action.getSetFontAction(), component, panel, pageURI);
-            
+
             validateShowTableAction(action.getShowTableAction(), component, panel, pageURI);
-            
+
             validateShowComboBoxAction(action.getShowComboBoxAction(), component, panel, pageURI);
-            
+
             validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
-            
+
             validateCleanAction(action.getCleanAction(), component, panel, pageURI);
-            
+
             validateLimitInputAction(action.getLimitInputAction(), component, panel, pageURI);
-            
+
             validatePlayMediaAction(action.getPlayMediaAction(), component, panel, pageURI);
-            
+
             validateVirtualKeyboardAction(action.getVirtualKeyboardAction(), component, panel, pageURI);
-            
+
             validateLoadWebAction(action.getWebLoadAction(), component, panel, pageURI);
-            
+
             validateRunCommandAction(action.getRunCommandAction(), component, panel, pageURI);
-            
+
             validateSetPrinterAction(action.getSetPrinterAction(), component, panel, pageURI);
-            
+
             validateUseTipAction(action.getUseTipAction(), component, panel, pageURI);
-            
+
             validateInsertICardAction(action.getInsertICardAction(), component, panel, pageURI);
-            
+
             validateWriteICardAction(action.getWriteICardAction(), component, panel, pageURI);
-            
+
             validateBalanceTransAction(action.getBalanceTransAction(), component, panel, pageURI);
-            
+
             validateUploadFileAction(action.getUploadFileAction(), component, panel, pageURI);
-            
+
             validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
-            
+
             validateSwipeCardAction(action.getSwipeCardAction(), component, panel, pageURI);
-            
+
             validateReadWriteFingerPrintAction(action.getRwFingerPrintAction(), component, panel, pageURI);
-            
+
             validateOpenBroswerAction(action.getOpenBrowserAction(), component, panel, pageURI);
-            
+
             validateSwipe2In1CardAction(action.getSwipe2In1CardAction(), component, panel, pageURI);
-            
+
             validatePrintPassbookAction(action.getPrintPassbookAction(), component, panel, pageURI);
-            
+
             validatePlayVideoAction(action.getPlayVideoAction(), component, panel, pageURI);
-            
+
             validateShowClockAction(action.getShowClockAction(), component, panel, pageURI);
         }
     }
-    
+
     private void validateDefinedAction(List<DefinedAction> definedActions,
             Component component, Panel panel, String pageURI) {
         if (definedActions != null && !definedActions.isEmpty()) {
@@ -440,7 +441,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void validateShowComboBoxAction(king.flow.view.Action.ShowComboBoxAction showComboBoxAction,
             Component component, Panel panel, String pageURI) {
         if (showComboBoxAction != null) {
@@ -453,7 +454,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void validateMoveCursorAction(king.flow.view.Action.MoveCursorAction moveCursorAction,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (moveCursorAction != null) {
@@ -461,13 +462,13 @@ public class MainWindow {
             checkSupportedAction(component, actionName, panel, pageURI);
             int upCursor = moveCursorAction.getUpCursor();
             int downCursor = moveCursorAction.getDownCursor();
-            
+
             if (!this.meta_blocks.containsKey(upCursor)) {
                 promptNonexistentBlockErr(upCursor, actionName, "upCursor", component, panel, pageURI, null);
             } else {
                 checkReachableBlock(upCursor, actionName, "upCursor", component, panel, pageURI);
             }
-            
+
             if (!this.meta_blocks.containsKey(downCursor)) {
                 promptNonexistentBlockErr(downCursor, moveCursorAction.getClass().getSimpleName(), "downCursor", component, panel, pageURI, null);
             } else {
@@ -475,7 +476,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void validateSendMsgAction(MsgSendAction sendMsgAction,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (sendMsgAction != null) {
@@ -490,7 +491,7 @@ public class MainWindow {
                 final String nextStepPropertyName = sendMsgAction.getNextStep().getClass().getSimpleName();
                 checkNextPanelParameter(sendMsgAction.getNextStep().getNextPanel(), actionName, nextStepPropertyName,
                         component, panel, pageURI);
-                
+
                 ArrayList<String> displayParameters = buildListParameters(sendMsgAction.getNextStep().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
@@ -502,7 +503,7 @@ public class MainWindow {
                                 component, panel, pageURI, null);
                     }
                 }
-                
+
                 checkNextCursorParameter(sendMsgAction.getNextStep().getNextCursor(),
                         actionName, component, panel, pageURI);
             } else {
@@ -515,7 +516,7 @@ public class MainWindow {
                 final String exceptionPropertyName = sendMsgAction.getException().getClass().getSimpleName();
                 checkNextPanelParameter(sendMsgAction.getException().getNextPanel(), actionName, exceptionPropertyName,
                         component, panel, pageURI);
-                
+
                 ArrayList<String> displayParameters = buildListParameters(sendMsgAction.getException().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
@@ -535,12 +536,14 @@ public class MainWindow {
             //validate rules path parameter config
             if (sendMsgAction.getCheckRules() != null) {
                 final String checkRulesPropertyName = sendMsgAction.getCheckRules().getClass().getSimpleName();
-                checkRulesParameter(sendMsgAction.getCheckRules(), actionName, checkRulesPropertyName, component, panel, pageURI);
+                checkRulesParameter(sendMsgAction.getCheckRules(), actionName,
+                        checkRulesPropertyName, component, panel, pageURI);
             }
         }
     }
-    
-    private void validateSetFontAction(king.flow.view.Action.SetFontAction setFontAction, Component component, Panel panel, String pageURI) {
+
+    private void validateSetFontAction(king.flow.view.Action.SetFontAction setFontAction,
+            Component component, Panel panel, String pageURI) {
         if (setFontAction != null) {
             checkSupportedAction(component, SET_FONT_ACTION, panel, pageURI);
             final String actionName = setFontAction.getClass().getSimpleName();
@@ -548,75 +551,91 @@ public class MainWindow {
             if (setFontAction.getFontColor() != null) {
                 Color fontColor = CommonUtil.getTrueColor(setFontAction.getFontColor());
                 if (fontColor == null) {
-                    promptMistakenFormatBlockErr(component.getId(), actionName, "fontColor", component, panel, pageURI, correctionTips);
+                    promptMistakenFormatBlockErr(component.getId(), actionName, "fontColor",
+                            component, panel, pageURI, correctionTips);
                 }
             }
-            
+
             if (setFontAction.getFontBgColor() != null) {
                 Color backgroundColor = CommonUtil.getTrueColor(setFontAction.getFontBgColor());
                 if (backgroundColor == null) {
-                    promptMistakenFormatBlockErr(component.getId(), actionName, "fontBgColor", component, panel, pageURI, correctionTips);
+                    promptMistakenFormatBlockErr(component.getId(), actionName, "fontBgColor",
+                            component, panel, pageURI, correctionTips);
                 }
             }
         }
     }
-    
-    private void validateShowTableAction(king.flow.view.Action.ShowTableAction showTableAction, Component component, Panel panel, String pageURI) {
+
+    private void validateShowTableAction(king.flow.view.Action.ShowTableAction showTableAction,
+            Component component, Panel panel, String pageURI) {
         if (showTableAction != null) {
             checkSupportedAction(component, SHOW_TABLE_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateLimitInputAction(king.flow.view.Action.LimitInputAction limitInputAction, Component component, Panel panel, String pageURI) {
+
+    private void validateLimitInputAction(king.flow.view.Action.LimitInputAction limitInputAction,
+            Component component, Panel panel, String pageURI) {
         if (limitInputAction != null) {
             checkSupportedAction(component, LIMIT_INPUT_ACTION, panel, pageURI);
         }
     }
-    
-    private void validatePlayMediaAction(king.flow.view.Action.PlayMediaAction playMediaAction, Component component, Panel panel, String pageURI) {
+
+    private void validatePlayMediaAction(king.flow.view.Action.PlayMediaAction playMediaAction,
+            Component component, Panel panel, String pageURI) {
         if (playMediaAction != null) {
             checkSupportedAction(component, PLAY_MEDIA_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateVirtualKeyboardAction(king.flow.view.Action.VirtualKeyboardAction virtualKeyboardAction, Component component, Panel panel, String pageURI) {
+
+    private void validateVirtualKeyboardAction(king.flow.view.Action.VirtualKeyboardAction virtualKeyboardAction,
+            Component component, Panel panel, String pageURI) {
         if (virtualKeyboardAction != null) {
             checkSupportedAction(component, OPEN_VIRTUAL_KEYBOARD_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateRunCommandAction(king.flow.view.Action.RunCommandAction runCommandAction, Component component, Panel panel, String pageURI) {
+
+    private void validateRunCommandAction(king.flow.view.Action.RunCommandAction runCommandAction,
+            Component component, Panel panel, String pageURI) {
         if (runCommandAction != null) {
             checkSupportedAction(component, RUN_COMMAND_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateSetPrinterAction(king.flow.view.Action.SetPrinterAction setPrinterAction, Component component,
-            Panel panel, String pageURI) {
+
+    private void validateSetPrinterAction(king.flow.view.Action.SetPrinterAction setPrinterAction,
+            Component component, Panel panel, String pageURI) {
         if (setPrinterAction != null) {
             checkSupportedAction(component, PRINT_RECEIPT_ACTION, panel, pageURI);
         }
     }
-    
+
     private void validateUseTipAction(king.flow.view.Action.UseTipAction useTipAction, Component component,
             Panel panel, String pageURI) {
         if (useTipAction != null) {
             checkSupportedAction(component, USE_TIP_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateInsertICardAction(king.flow.view.Action.InsertICardAction insertICardAction, Component component,
-            Panel panel, String pageURI) {
+
+    private void validateInsertICardAction(king.flow.view.Action.InsertICardAction insertICardAction,
+            Component component, Panel panel, String pageURI) {
         if (insertICardAction != null) {
             final String actionName = insertICardAction.getClass().getSimpleName();
             checkSupportedAction(component, INSERT_IC_ACTION, panel, pageURI);
+
+            //validate card type config
+            if (insertICardAction.getCardType() == null) {
+                final String valid_type = "[cardType] configuration\n"
+                        + "valid type includes["
+                        + DeviceEnum.GZ_CARD
+                        + "]";
+                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, valid_type);
+            }
 
             //validate successful path parameter config
             if (insertICardAction.getNextStep() != null) {
                 final String nextStepPropertyName = insertICardAction.getNextStep().getClass().getSimpleName();
                 checkNextPanelParameter(insertICardAction.getNextStep().getNextPanel(), actionName, nextStepPropertyName,
                         component, panel, pageURI);
-                
+
                 ArrayList<String> displayParameters = buildListParameters(insertICardAction.getNextStep().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
@@ -628,13 +647,13 @@ public class MainWindow {
                                 component, panel, pageURI, null);
                     }
                 }
-                
+
                 Integer hop = insertICardAction.getNextStep().getHop();
                 if (hop != null) {
                     if (!this.meta_blocks.containsKey(hop)) {
                         promptNonexistentBlockErr(hop, actionName, "hop", component, panel, pageURI, null);
                     }
-                    
+
                     Object blockMeta = getBlockMeta(hop);
                     if (!(blockMeta instanceof Component)
                             || ((Component) blockMeta).getType() != ComponentEnum.BUTTON) {
@@ -652,7 +671,7 @@ public class MainWindow {
                 final String exceptionPropertyName = insertICardAction.getException().getClass().getSimpleName();
                 checkNextPanelParameter(insertICardAction.getException().getNextPanel(), actionName, exceptionPropertyName,
                         component, panel, pageURI);
-                
+
                 ArrayList<String> displayParameters = buildListParameters(insertICardAction.getException().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
@@ -670,75 +689,86 @@ public class MainWindow {
             }
         }
     }
-    
-    private void validateWriteICardAction(MsgSendAction writeICardAction, Component component, Panel panel, String pageURI) {
+
+    private void validateWriteICardAction(MsgSendAction writeICardAction, Component component,
+            Panel panel, String pageURI) {
         if (writeICardAction != null) {
             checkSupportedAction(component, WRITE_IC_ACTION, panel, pageURI);
             validateSendMsgAction(writeICardAction, component, panel, pageURI);
         }
     }
-    
-    private void validateBalanceTransAction(MsgSendAction balanceTransAction, Component component, Panel panel, String pageURI) {
+
+    private void validateBalanceTransAction(MsgSendAction balanceTransAction, Component component,
+            Panel panel, String pageURI) {
         if (balanceTransAction != null) {
             checkSupportedAction(component, BALANCE_TRANS_ACTION, panel, pageURI);
             validateSendMsgAction(balanceTransAction, component, panel, pageURI);
         }
     }
-    
-    private void validateUploadFileAction(king.flow.view.Action.UploadFileAction uploadFileAction, Component component, Panel panel, String pageURI) {
+
+    private void validateUploadFileAction(king.flow.view.Action.UploadFileAction uploadFileAction,
+            Component component, Panel panel, String pageURI) {
         if (uploadFileAction != null) {
             checkSupportedAction(component, UPLOAD_FILE_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateSwipeCardAction(king.flow.view.Action.SwipeCardAction swipeCardAction, Component component, Panel panel, String pageURI) {
+
+    private void validateSwipeCardAction(king.flow.view.Action.SwipeCardAction swipeCardAction,
+            Component component, Panel panel, String pageURI) {
         if (swipeCardAction != null) {
             checkSupportedAction(component, SWIPE_CARD_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateReadWriteFingerPrintAction(king.flow.view.Action.RwFingerPrintAction rwFingerPrintAction, Component component, Panel panel, String pageURI) {
+
+    private void validateReadWriteFingerPrintAction(king.flow.view.Action.RwFingerPrintAction rwFingerPrintAction,
+            Component component, Panel panel, String pageURI) {
         if (rwFingerPrintAction != null) {
             checkSupportedAction(component, READ_WRITE_FINGERPRINT_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateOpenBroswerAction(king.flow.view.Action.OpenBrowserAction openBrowserAction, Component component, Panel panel, String pageURI) {
+
+    private void validateOpenBroswerAction(king.flow.view.Action.OpenBrowserAction openBrowserAction,
+            Component component, Panel panel, String pageURI) {
         if (openBrowserAction != null) {
             checkSupportedAction(component, OPEN_BROWSER_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateSwipe2In1CardAction(king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction, Component component, Panel panel, String pageURI) {
+
+    private void validateSwipe2In1CardAction(king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction,
+            Component component, Panel panel, String pageURI) {
         if (swipe2In1CardAction != null) {
             checkSupportedAction(component, SWIPE_2IN1_CARD_ACTION, panel, pageURI);
         }
     }
-    
-    private void validatePrintPassbookAction(king.flow.view.Action.PrintPassbookAction printPassbookAction, Component component, Panel panel, String pageURI) {
+
+    private void validatePrintPassbookAction(king.flow.view.Action.PrintPassbookAction printPassbookAction,
+            Component component, Panel panel, String pageURI) {
         if (printPassbookAction != null) {
             checkSupportedAction(component, PRINT_PASSBOOK_ACTION, panel, pageURI);
         }
     }
-    
-    private void validatePlayVideoAction(king.flow.view.Action.PlayVideoAction playVideoAction, Component component, Panel panel, String pageURI) {
+
+    private void validatePlayVideoAction(king.flow.view.Action.PlayVideoAction playVideoAction,
+            Component component, Panel panel, String pageURI) {
         if (playVideoAction != null) {
             checkSupportedAction(component, PLAY_VIDEO_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateShowClockAction(king.flow.view.Action.ShowClockAction showClockAction, Component component, Panel panel, String pageURI) {
+
+    private void validateShowClockAction(king.flow.view.Action.ShowClockAction showClockAction,
+            Component component, Panel panel, String pageURI) {
         if (showClockAction != null) {
             checkSupportedAction(component, SHOW_CLOCK_ACTION, panel, pageURI);
         }
     }
-    
-    private void validateLoadWebAction(king.flow.view.Action.WebLoadAction webLoadAction, Component component, Panel panel, String pageURI) {
+
+    private void validateLoadWebAction(king.flow.view.Action.WebLoadAction webLoadAction,
+            Component component, Panel panel, String pageURI) {
         if (webLoadAction != null) {
             checkSupportedAction(component, webLoadAction.getClass().getSimpleName(), panel, pageURI);
         }
     }
-    
+
     public void checkReachableBlock(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         List<Component> pageComponents = panel.getComponent();
@@ -758,7 +788,7 @@ public class MainWindow {
             CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
         }
     }
-    
+
     private void checkComponentType(int id, final String actionName, final String propertyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         Object meta = meta_blocks.get(id);
@@ -768,7 +798,7 @@ public class MainWindow {
                     component, panel, pageURI, configErrMsgFooter);
         }
     }
-    
+
     public void checkRulesParameter(Rules rules, String actionName, String propertyName, Component component,
             Panel panel, String pageURI) {
         if (rules != null) {
@@ -779,7 +809,7 @@ public class MainWindow {
                     checkConditionsParameter(equal.getConditions(), actionName, propertyName, component, panel, pageURI);
                 }
             }
-            
+
             List<Rules.NotEqual> notEqualRules = rules.getNotEqual();
             if (notEqualRules != null && !notEqualRules.isEmpty()) {
                 for (Rules.NotEqual notEqual : notEqualRules) {
@@ -790,9 +820,10 @@ public class MainWindow {
                         // you have to use an unreachable component in first page
                         //validateReachableBlock(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI);
                     } else {
-                        promptNonexistentBlockErr(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                        promptNonexistentBlockErr(less, actionName, notEqual.getClass().getSimpleName(),
+                                component, panel, pageURI, configErrMsgFooter);
                     }
-                    
+
                     int more = notEqual.getMore();
                     if (this.meta_blocks.containsKey(more)) {
                         // As there is a special scenario, I have to remove reachable component-checking.
@@ -800,11 +831,12 @@ public class MainWindow {
                         // you have to use an unreachable component in first page
                         //validateReachableBlock(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI);
                     } else {
-                        promptNonexistentBlockErr(more, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                        promptNonexistentBlockErr(more, actionName, notEqual.getClass().getSimpleName(),
+                                component, panel, pageURI, configErrMsgFooter);
                     }
                 }
             }
-            
+
             List<Rules.NotNull> notNullRules = rules.getNotNull();
             if (notNullRules != null && !notNullRules.isEmpty()) {
                 for (Rules.NotNull notNull : notNullRules) {
@@ -815,11 +847,12 @@ public class MainWindow {
                         // you have to use an unreachable component in first page
                         //validateReachableBlock(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI);
                     } else {
-                        promptNonexistentBlockErr(content, actionName, notNull.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                        promptNonexistentBlockErr(content, actionName, notNull.getClass().getSimpleName(),
+                                component, panel, pageURI, configErrMsgFooter);
                     }
                 }
             }
-            
+
             List<Rules.Template> templateRules = rules.getTemplate();
             if (templateRules != null && !templateRules.isEmpty()) {
                 for (Rules.Template template : templateRules) {
@@ -830,25 +863,28 @@ public class MainWindow {
                         // you have to use an unreachable component in first page
                         //validateReachableBlock(less, actionName, notEqual.getClass().getSimpleName(), component, panel, pageURI);
                     } else {
-                        promptNonexistentBlockErr(content, actionName, template.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                        promptNonexistentBlockErr(content, actionName, template.getClass().getSimpleName(),
+                                component, panel, pageURI, configErrMsgFooter);
                     }
                 }
             }
-            
+
             List<Rules.ValidateCJK> validateCJKRules = rules.getValidateCJK();
             if (validateCJKRules != null && !validateCJKRules.isEmpty()) {
                 for (Rules.ValidateCJK validateCJK : validateCJKRules) {
                     int content = validateCJK.getContent();
                     if (this.meta_blocks.containsKey(content)) {
-                        checkReachableBlock(content, actionName, validateCJK.getClass().getSimpleName(), component, panel, pageURI);
+                        checkReachableBlock(content, actionName, validateCJK.getClass().getSimpleName(),
+                                component, panel, pageURI);
                     } else {
-                        promptNonexistentBlockErr(content, actionName, validateCJK.getClass().getSimpleName(), component, panel, pageURI, configErrMsgFooter);
+                        promptNonexistentBlockErr(content, actionName, validateCJK.getClass().getSimpleName(),
+                                component, panel, pageURI, configErrMsgFooter);
                     }
                 }
             }
         }
     }
-    
+
     private void checkConditionsParameter(String conditions, String actionName, String propertyName, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         String configErrMsg;
@@ -858,7 +894,7 @@ public class MainWindow {
         } else {
             configErrMsgFooter = " for property[" + propertyName + "]";
         }
-        
+
         if (conditions == null || conditions.trim().length() == 0) {
             configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                     .append(actionName).append('\n')
@@ -873,7 +909,8 @@ public class MainWindow {
             } catch (NumberFormatException numberFormatException) {
                 configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                         .append(actionName).append('\n')
-                        .append("with invalid conditions").append('[').append(cleanTargetId).append(']').append(configErrMsgFooter).toString();
+                        .append("with invalid conditions").append('[')
+                        .append(cleanTargetId).append(']').append(configErrMsgFooter).toString();
                 CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
             }
             if (!this.meta_blocks.containsKey(id)) {
@@ -882,7 +919,7 @@ public class MainWindow {
             checkComponentType(id, actionName, propertyName, component, panel, pageURI);
         }
     }
-    
+
     private void checkDisplayParameter(int displayBlockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         Object showTarget = this.meta_blocks.get(displayBlockId);
@@ -891,7 +928,7 @@ public class MainWindow {
             promptNonexistentBlockErr(displayBlockId, actionName, "display", component, panel, pageURI, configErrMsgFooter);
         }
     }
-    
+
     private void promptNonexistentBlockErr(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
@@ -900,25 +937,27 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptMistakenTypeBlockErr(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
-                .append("with invalid type").append('[').append(blockId).append(']').append(" for property[").append(propertyName).append(']')
+                .append("with invalid type").append('[').append(blockId)
+                .append(']').append(" for property[").append(propertyName).append(']')
                 .append(' ').append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptMistakenFormatBlockErr(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
-                .append("with erroneous ").append(propertyName).append('[').append(blockId).append(']').append(" value format")
+                .append("with erroneous ").append(propertyName).append('[')
+                .append(blockId).append(']').append(" value format")
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptUnfoundClassBlockErr(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
@@ -927,16 +966,17 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptMistakenNumberBlockErr(String number, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
                 .append(actionName).append('\n')
-                .append("with erroneous number").append('[').append(number).append(']').append(" for property[").append(propertyName).append(']')
+                .append("with erroneous number").append('[').append(number).append(']')
+                .append(" for property[").append(propertyName).append(']')
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptUnsupportedActionBlockErr(String actionName, Component component,
             Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
@@ -945,7 +985,7 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void promptIncompleteActionBlockErr(String actionName, Component component,
             Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
@@ -954,7 +994,7 @@ public class MainWindow {
                 .append(configErrMsgFooter == null ? "" : configErrMsgFooter).toString();
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
-    
+
     private void checkNextPanelParameter(int nextPanel, String actionName, String properyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         String configErrMsg;
@@ -964,7 +1004,7 @@ public class MainWindow {
         } else {
             configErrMsgFooter = " for property[" + properyName + "]";
         }
-        
+
         Object np = this.meta_blocks.get(nextPanel);
         if (np == null) {
             promptNonexistentBlockErr(nextPanel, actionName, properyName, component, panel, pageURI, configErrMsgFooter);
@@ -991,7 +1031,7 @@ public class MainWindow {
             CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
         }
     }
-    
+
     private void validateCleanAction(king.flow.view.Action.CleanAction cleanAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (cleanAction != null) {
@@ -1001,7 +1041,7 @@ public class MainWindow {
                     component, panel, pageURI);
         }
     }
-    
+
     public StringBuilder buildConfigErrMsgHeader(Component component, Panel panel, String pageURI) {
         StringBuilder configErrMsg = new StringBuilder().append(component.getType().toString())
                 .append('[').append(component.getId()).append(']').append(" of ")
@@ -1010,7 +1050,7 @@ public class MainWindow {
                 .append("mistakenly configures ");
         return configErrMsg;
     }
-    
+
     private void validateJumpAction(JumpAction jumpPanelAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (jumpPanelAction != null) {
@@ -1022,7 +1062,7 @@ public class MainWindow {
             checkNextCursorParameter(jumpPanelAction.getNextCursor(), actionName, component, panel, pageURI);
         }
     }
-    
+
     private void checkNextCursorParameter(Integer nextCursor, final String actionName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         String propertyName = "nextCursor";
@@ -1033,73 +1073,73 @@ public class MainWindow {
             checkComponentType(nextCursor, actionName, propertyName, component, panel, pageURI);
         }
     }
-    
+
     private void checkSupportedAction(Component component, final String actionName,
             Panel panel, String pageURI) throws HeadlessException {
         if (!isActionSupport(component, actionName)) {
             promptUnsupportedActionBlockErr(actionName, component, panel, pageURI, null);
         }
     }
-    
+
     private void setupAction(Component component, Panel parentContainer) {
         List<king.flow.view.Action> actions = component.getAction();
-        
+
         for (king.flow.view.Action actionNode : actions) {
-            
+
             doJumpPanelAction(actionNode, component);
-            
+
             doCustomizedAction(actionNode, component);
-            
+
             doSetFontAction(actionNode, component);
-            
+
             doShowTableAction(actionNode, component);
-            
+
             doShowComboBoxAction(actionNode, component);
-            
+
             doSendMsgAction(actionNode, component);
-            
+
             doCleanAction(actionNode, component);
-            
+
             doLimitInputAction(actionNode, component);
-            
+
             doPlayMediaAction(actionNode, component);
-            
+
             doVirtualKeyboardAction(actionNode, component);
-            
+
             doLoadWebAction(actionNode, component);
-            
+
             doRunCommandAction(actionNode, component);
-            
+
             doSetPrinterAction(actionNode, component);
-            
+
             doUseTipAction(actionNode, component);
-            
+
             doInsertICardAction(actionNode, component);
-            
+
             doWriteICardAction(actionNode, component);
-            
+
             doUploadFileAction(actionNode, component);
-            
+
             doMoveCursorAction(actionNode, component);
-            
+
             doSwipeCardAction(actionNode, component);
-            
+
             doReadWriteFingerPrintAction(actionNode, component);
-            
+
             doOpenBroswerAction(actionNode, component);
-            
+
             doSwipe2In1CardAction(actionNode, component);
-            
+
             doPrintPassbookAction(actionNode, component);
-            
+
             doPlayVideoAction(actionNode, component, parentContainer);
-            
+
             doShowClockAction(actionNode, component);
-            
+
             doBalanceTransAction(actionNode, component);
         }
     }
-    
+
     private void doBalanceTransAction(king.flow.view.Action actionNode, Component component) {
         MsgSendAction balanceTransAction = actionNode.getBalanceTransAction();
         if (balanceTransAction != null) {
@@ -1110,13 +1150,13 @@ public class MainWindow {
             MsgSendAction.Exception exception = balanceTransAction.getException();
             Rules checkRules = balanceTransAction.getCheckRules();
             ArrayList<String> listConditions = buildListParameters(conditions);
-            
+
             BalanceTransAction balanceAction = new BalanceTransAction(prsCode, cmdCode,
                     listConditions, nextStep, exception, checkRules);
             doAction(balanceAction, component.getId());
         }
     }
-    
+
     private void doShowClockAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowClockAction showClockAction = actionNode.getShowClockAction();
         if (showClockAction != null) {
@@ -1128,7 +1168,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void doPlayVideoAction(king.flow.view.Action actionNode, Component component, Panel parentContainer) {
         king.flow.view.Action.PlayVideoAction playVideoAction = actionNode.getPlayVideoAction();
         if (playVideoAction != null && component.getType() == ComponentEnum.VIDEO_PLAYER) {
@@ -1139,7 +1179,7 @@ public class MainWindow {
             doAction(videoAction, component.getId());
         }
     }
-    
+
     private void doPrintPassbookAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.PrintPassbookAction printPassbookAction = actionNode.getPrintPassbookAction();
         if (printPassbookAction != null) {
@@ -1148,7 +1188,7 @@ public class MainWindow {
             doAction(printPbAction, component.getId());
         }
     }
-    
+
     private void doSwipe2In1CardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction = actionNode.getSwipe2In1CardAction();
         if (swipe2In1CardAction != null) {
@@ -1166,11 +1206,11 @@ public class MainWindow {
                 read2In1CardAction = editable == null ? new Read2In1CardAction(nextCursor, mediaTip, animationTip, debug)
                         : new Read2In1CardAction(nextCursor, editable, mediaTip, animationTip, debug);
             }
-            
+
             doAction(read2In1CardAction, component.getId());
         }
     }
-    
+
     private void doOpenBroswerAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.OpenBrowserAction openBroswerAction = actionNode.getOpenBrowserAction();
         if (openBroswerAction != null) {
@@ -1179,7 +1219,7 @@ public class MainWindow {
             doAction(openBroswer, component.getId());
         }
     }
-    
+
     private void doReadWriteFingerPrintAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.RwFingerPrintAction rwFingerPrintAction = actionNode.getRwFingerPrintAction();
         if (rwFingerPrintAction != null) {
@@ -1191,7 +1231,7 @@ public class MainWindow {
             doAction(readWriteAction, component.getId());
         }
     }
-    
+
     private void doSwipeCardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SwipeCardAction swipeCardAction = actionNode.getSwipeCardAction();
         if (swipeCardAction != null) {
@@ -1207,11 +1247,11 @@ public class MainWindow {
                 readCardAction = editable == null ? new ReadCardAction(nextCursor, debug)
                         : new ReadCardAction(nextCursor, editable, debug);
             }
-            
+
             doAction(readCardAction, component.getId());
         }
     }
-    
+
     private void doMoveCursorAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.MoveCursorAction moveCursorAction = actionNode.getMoveCursorAction();
         if (moveCursorAction != null) {
@@ -1221,7 +1261,7 @@ public class MainWindow {
             doAction(moveAction, component.getId());
         }
     }
-    
+
     private void doWriteICardAction(king.flow.view.Action actionNode, Component component) {
         MsgSendAction writeICardAction = actionNode.getWriteICardAction();
         if (writeICardAction != null) {
@@ -1232,24 +1272,25 @@ public class MainWindow {
             MsgSendAction.Exception exception = writeICardAction.getException();
             Rules checkRules = writeICardAction.getCheckRules();
             ArrayList<String> listConditions = buildListParameters(conditions);
-            
+
             WriteCardAction writeAction = new WriteCardAction(prsCode, cmdCode,
                     listConditions, nextStep, exception, checkRules);
             doAction(writeAction, component.getId());
         }
     }
-    
+
     private void doInsertICardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.InsertICardAction insertICardAction = actionNode.getInsertICardAction();
         if (insertICardAction != null) {
+            DeviceEnum cardType = insertICardAction.getCardType();
             king.flow.view.Action.InsertICardAction.NextStep suceessfulPanel = insertICardAction.getNextStep();
             king.flow.view.Action.InsertICardAction.Exception failedPanel = insertICardAction.getException();
             String animation = insertICardAction.getAnimationTip();
-            InsertCardAction insertCardAction = new InsertCardAction(suceessfulPanel, failedPanel, animation);
+            InsertCardAction insertCardAction = new InsertCardAction(cardType, suceessfulPanel, failedPanel, animation);
             doAction(insertCardAction, component.getId());
         }
     }
-    
+
     private void doUploadFileAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.UploadFileAction fileUploadAction = actionNode.getUploadFileAction();
         if (fileUploadAction != null) {
@@ -1259,7 +1300,7 @@ public class MainWindow {
             doAction(defaultFileChooseAction, component.getId());
         }
     }
-    
+
     private void doUseTipAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.UseTipAction tipAction = actionNode.getUseTipAction();
         if (tipAction != null) {
@@ -1268,7 +1309,7 @@ public class MainWindow {
             doAction(defaultTipAction, component.getId());
         }
     }
-    
+
     private void doSetPrinterAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SetPrinterAction printerAction = actionNode.getSetPrinterAction();
         if (printerAction != null) {
@@ -1281,11 +1322,11 @@ public class MainWindow {
             } else {
                 defaultPrinterAction = new DefaultPrinterAction(header, tail, debug);
             }
-            
+
             doAction(defaultPrinterAction, component.getId());
         }
     }
-    
+
     private void doRunCommandAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.RunCommandAction runCommandAction = actionNode.getRunCommandAction();
         if (runCommandAction != null) {
@@ -1294,7 +1335,7 @@ public class MainWindow {
             doAction(defaultRunCommandAction, component.getId());
         }
     }
-    
+
     private void doLoadWebAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.WebLoadAction webLoadAction = actionNode.getWebLoadAction();
         if (webLoadAction != null) {
@@ -1303,7 +1344,7 @@ public class MainWindow {
             doAction(defaultWebLoadAction, component.getId());
         }
     }
-    
+
     private void doVirtualKeyboardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.VirtualKeyboardAction virtualKeyboardAction = actionNode.getVirtualKeyboardAction();
         if (virtualKeyboardAction != null) {
@@ -1313,7 +1354,7 @@ public class MainWindow {
             doAction(defaultKeyboardAction, component.getId());
         }
     }
-    
+
     private void doPlayMediaAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.PlayMediaAction mediaPlayAction = actionNode.getPlayMediaAction();
         if (mediaPlayAction != null) {
@@ -1322,7 +1363,7 @@ public class MainWindow {
             doAction(defaultMediaAction, component.getId());
         }
     }
-    
+
     private void doLimitInputAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.LimitInputAction limitInputAction = actionNode.getLimitInputAction();
         if (limitInputAction != null) {
@@ -1350,7 +1391,7 @@ public class MainWindow {
             doAction(defaultTextFieldAction, component.getId());
         }
     }
-    
+
     private void doCleanAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.CleanAction cleanAction = actionNode.getCleanAction();
         if (cleanAction != null) {
@@ -1360,7 +1401,7 @@ public class MainWindow {
             doAction(defaultCleanAction, component.getId());
         }
     }
-    
+
     private void doSendMsgAction(king.flow.view.Action actionNode, Component component) {
         MsgSendAction sendMsgAction = actionNode.getSendMsgAction();
         if (sendMsgAction != null) {
@@ -1371,7 +1412,7 @@ public class MainWindow {
             MsgSendAction.Exception exception = sendMsgAction.getException();
             Rules checkRules = sendMsgAction.getCheckRules();
             ArrayList<String> listConditions = buildListParameters(conditions);
-            
+
             if (component.getType() == ComponentEnum.ADVANCED_TABLE) {
                 JXMsgPanel advancedTable = (JXMsgPanel) building_blocks.get(component.getId());
                 advancedTable.initialMsgSendAction(new DefaultMsgSendAction[]{
@@ -1391,7 +1432,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void doShowComboBoxAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowComboBoxAction comboShowAction = actionNode.getShowComboBoxAction();
         if (comboShowAction != null) {
@@ -1401,7 +1442,7 @@ public class MainWindow {
             doAction(comboBoxAction, component.getId());
         }
     }
-    
+
     private void doShowTableAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowTableAction tableShowAction = actionNode.getShowTableAction();
         if (tableShowAction != null) {
@@ -1418,7 +1459,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private void doSetFontAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.SetFontAction fontSetAction = actionNode.getSetFontAction();
         if (fontSetAction != null) {
@@ -1436,7 +1477,7 @@ public class MainWindow {
                     if (isScaleScreen()) {
                         font.setSize(CommonUtil.adjustSize(size));
                     } else {
-                        font.setSize(size);                        
+                        font.setSize(size);
                     }
                 }
                 if (style != null) {
@@ -1444,27 +1485,27 @@ public class MainWindow {
                 }
                 fontAction = new DefaultFontAction(font);
             }
-            
+
             if (fontSetAction.getFontColor() != null) {
                 if (fontAction == null) {
                     fontAction = new DefaultFontAction();
                 }
                 fontAction.setForegroundColor(CommonUtil.getTrueColor(fontSetAction.getFontColor()));
             }
-            
+
             if (fontSetAction.getFontBgColor() != null) {
                 if (fontAction == null) {
                     fontAction = new DefaultFontAction();
                 }
                 fontAction.setBackgroundColor(CommonUtil.getTrueColor(fontSetAction.getFontBgColor()));
             }
-            
+
             if (fontAction != null) {
                 doAction(fontAction, component.getId());
             }
         }
     }
-    
+
     private void doJumpPanelAction(king.flow.view.Action actionNode, Component component) {
         JumpAction jumpPanelAction = actionNode.getJumpPanelAction();
         if (jumpPanelAction != null) {
@@ -1474,12 +1515,12 @@ public class MainWindow {
             doAction(buttonAction, component.getId());
         }
     }
-    
+
     private void doCustomizedAction(king.flow.view.Action actionNode, Component component) {
         int componentID = component.getId();
         doDefinedAction(actionNode.getCustomizedAction(), componentID);
     }
-    
+
     private void doDefinedAction(List<DefinedAction> definedActions, int componentID) {
         String actionClass = null;
         try {
@@ -1543,13 +1584,13 @@ public class MainWindow {
             getLogger(MainWindow.class.getName()).log(Level.WARNING, err_msg, cause);
         }
     }
-    
+
     private void doAction(Action action, int id) {
         action.holdComponents(id, building_blocks, meta_blocks);
         action.setupListener();
         action.initializeData();
     }
-    
+
     private void initComponents(Panel pNode, JPanel panel, String pageURI) throws AssertionError {
         List<Component> components = pNode.getComponent();
         for (Component component : components) {
@@ -1563,7 +1604,7 @@ public class MainWindow {
             }
         }
     }
-    
+
     private JComponent constructComponent(Component component) throws AssertionError {
         final int id = component.getId();
         BasicAttribute attribute = component.getAttribute();
@@ -1575,7 +1616,7 @@ public class MainWindow {
         if (isScaleScreen()) {
             rect = adjustByResolution(rect);
         }
-        
+
         String icon = attribute.getIcon();
         JComponent jcomponent = null;
         ComponentEnum ctype = component.getType();
@@ -1660,7 +1701,7 @@ public class MainWindow {
                         "Configuration error comes from :\n{0}", configError);
                 throw configError;
         }
-        
+
         UiStyle uiStyle = winNode.getUiStyle();
         if (uiStyle != null && uiStyle.getFont() != null) {
             if (isScaleScreen()) {
@@ -1669,12 +1710,12 @@ public class MainWindow {
                 font.setName(uiStyle.getFont().getName());
                 font.setSize(adjustSize);
                 font.setStyle(uiStyle.getFont().getStyle());
-                setFont(font, jcomponent);                
+                setFont(font, jcomponent);
             } else {
                 setFont(uiStyle.getFont(), jcomponent);
             }
         }
-        
+
         if (jcomponent != null) {
             jcomponent.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
             debugComponent(attribute, jcomponent, id, component.getType().toString());
@@ -1683,7 +1724,7 @@ public class MainWindow {
         }
         return jcomponent;
     }
-    
+
     private void initWindow() throws AssertionError, HeadlessException {
         BasicAttribute attribute = winNode.getAttribute();
         final int id = winNode.getId();
@@ -1696,7 +1737,7 @@ public class MainWindow {
             CommonUtil.setScale(rect.getWidth(), rect.getHeigh());
         }
         JMenuBar menuBar = createMenuBar();
-        
+
         WindowEnum type = winNode.getType();
         switch (type) {
             case FRAME:
@@ -1770,10 +1811,10 @@ public class MainWindow {
                 getLogger(MainWindow.class.getName()).log(Level.SEVERE, null, configError);
                 throw configError;
         }
-        
+
         setCurrentView(window);
     }
-    
+
     private JMenuBar createMenuBar() {
         JMenuBar bar = null;
         Menubar menubar = winNode.getMenubar();
@@ -1805,7 +1846,7 @@ public class MainWindow {
         }
         return bar;
     }
-    
+
     private void setMenuFont(UiStyle uiStyle, JMenuItem menuItem) {
         if (uiStyle != null && uiStyle.getFont() != null) {
             final Font font_des = uiStyle.getFont();
@@ -1817,39 +1858,39 @@ public class MainWindow {
             menuItem.setFont(font);
         }
     }
-    
+
     private boolean isFullScreen() {
         Boolean fullscreen = winNode.getUiStyle().isFullscreen();
         return fullscreen == null ? true : fullscreen;
     }
-    
+
     private boolean isScaleScreen() {
         Boolean scalescreen = winNode.getUiStyle().isScalescreen();
         return scalescreen == null ? true : scalescreen;
     }
-    
+
     public void setVisible(boolean b) {
         this.window.setVisible(b);
     }
-    
+
     public void addWindowListener(WindowAdapter windowAdapter) {
         this.window.addWindowListener(windowAdapter);
     }
-    
+
     public Object getBuildingBlock(int id) {
         if (this.building_blocks == null) {
             return null;
         }
         return building_blocks.get(id);
     }
-    
+
     public Object getBlockMeta(int id) {
         if (this.meta_blocks == null) {
             return null;
         }
         return meta_blocks.get(id);
     }
-    
+
     public Set<Map.Entry<Panel, String>> getPanelList() {
         return this.panelNodes.entrySet();
     }

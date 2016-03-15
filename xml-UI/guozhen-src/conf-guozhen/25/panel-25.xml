@@ -36,11 +36,12 @@
         </attribute>
         <action>
             <insertICardAction>
+                <cardType>gzCard</cardType>
                 <nextStep>
                     <nextPanel>201801</nextPanel>
                     <display>201806,201807,201808</display>
                     <hop>201811</hop>
-                    <debug>9633242 12 2</debug>
+                    <!--<debug>9633242 12 2</debug>-->
                 </nextStep>
                 <exception>
                     <nextPanel>201899</nextPanel>
@@ -63,11 +64,12 @@
         </attribute>
         <action>
             <insertICardAction>
+                <cardType>gzCard</cardType>
                 <nextStep>
                     <nextPanel>201201</nextPanel>
                     <display>201204,201205,201206</display>
                     <hop>201211</hop>
-                    <debug>9633242 12 2</debug>
+                    <!--<debug>9633242 12 2</debug>-->
                 </nextStep>
                 <exception>
                     <nextPanel>201899</nextPanel>
@@ -90,10 +92,11 @@
         </attribute>
         <action>
             <insertICardAction>
+                <cardType>gzCard</cardType>
                 <nextStep>
                     <nextPanel>201301</nextPanel>
                     <display>201304,201306</display>
-                    <debug>9633242 12 2</debug>
+                    <!--<debug>9633242 12 2</debug>-->
                 </nextStep>
                 <exception>
                     <nextPanel>201399</nextPanel>

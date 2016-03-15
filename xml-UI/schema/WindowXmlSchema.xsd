@@ -291,6 +291,7 @@
             <xs:element name="insertICardAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
+                        <xs:element name="cardType" type="device_enum" maxOccurs="1" minOccurs="1"/>
                         <xs:element name="nextStep"  maxOccurs="1" minOccurs="1">
                             <xs:complexType>
                                 <xs:all>

@@ -17,7 +17,7 @@
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>历史交易查询失败</text>
+            <text>卡内余气查询失败</text>
         </attribute>
         <action>
             <setFontAction>

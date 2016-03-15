@@ -34,6 +34,7 @@ import king.flow.view.Component;
 import king.flow.view.UiStyle;
 import king.flow.view.Window;
 import static king.flow.common.CommonUtil.swipeGzICCard;
+import king.flow.view.DeviceEnum;
 
 /**
  *
@@ -41,13 +42,18 @@ import static king.flow.common.CommonUtil.swipeGzICCard;
  */
 public class InsertCardAction extends DefaultBaseAction {
 
+    private final DeviceEnum cardType;
     private final InsertICardAction.NextStep successfulPage;
     private final InsertICardAction.Exception failedPage;
     private final String animationFile;
     private final ArrayList<Integer> successfulDisplay;
     private final ArrayList<Integer> failedDisplay;
 
-    public InsertCardAction(InsertICardAction.NextStep successfulPage, InsertICardAction.Exception failedPage, String animation) {
+    public InsertCardAction(DeviceEnum cardType,
+            InsertICardAction.NextStep successfulPage,
+            InsertICardAction.Exception failedPage,
+            String animation) {
+        this.cardType = cardType;
         this.successfulPage = successfulPage;
         this.failedPage = failedPage;
         this.animationFile = animation;
@@ -94,7 +100,14 @@ public class InsertCardAction extends DefaultBaseAction {
                     progressAnimation.getContentPane().add(new JLabel(), 2);
                 }
 
-                waitCommunicationTask(new ReadCardTask(), progressAnimation);
+                switch (cardType) {
+                    case GZ_CARD:
+                        waitCommunicationTask(new GZReadCardTask(), progressAnimation);
+                        break;
+                    default:
+                        getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
+                                "Unsupported card type[{0}] for InsertCardAction", cardType.name());
+                }
             }
         });
     }
@@ -125,7 +138,7 @@ public class InsertCardAction extends DefaultBaseAction {
         }
     }
 
-    private class ReadCardTask extends SwingWorker<String, String> {
+    private class GZReadCardTask extends SwingWorker<String, String> {
 
         @Override
         protected String doInBackground() throws Exception {
@@ -186,7 +199,7 @@ public class InsertCardAction extends DefaultBaseAction {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
                         "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
                 String errPrompt = getResourceMsg(t.getMessage());
-                showOnComponent(failedDisplay.get(0), 
+                showOnComponent(failedDisplay.get(0),
                         errPrompt == null ? getResourceMsg("operation.ic.card.read.error") : errPrompt);
                 panelJump(failedPage.getNextPanel());
                 throw new Exception(t);
