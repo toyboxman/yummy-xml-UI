@@ -107,6 +107,7 @@ public class InsertCardAction extends DefaultBaseAction {
                     default:
                         getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
                                 "Unsupported card type[{0}] for InsertCardAction", cardType.name());
+                        handleErr(getResourceMsg(GZReadCardTask.GUOZHEN_CARD_OPERATION_PROMPT));
                 }
             }
         });
@@ -138,6 +139,12 @@ public class InsertCardAction extends DefaultBaseAction {
         }
     }
 
+    private void handleErr(String errPrompt) {
+        showOnComponent(failedDisplay.get(0),
+                errPrompt == null ? getResourceMsg("operation.ic.card.read.error") : errPrompt);
+        panelJump(failedPage.getNextPanel());
+    }
+
     private class GZReadCardTask extends SwingWorker<String, String> {
 
         @Override
@@ -165,7 +172,7 @@ public class InsertCardAction extends DefaultBaseAction {
                         cardType = new JsonPrimitive("0");
                     } else if (String.valueOf(cardType)
                             .equals(GzCardConductor.UNSUPPORT_CARD_TYPE)) {
-                        throw new Exception("guozhen.operation.card.type.prompt");
+                        throw new Exception(GUOZHEN_CARD_OPERATION_PROMPT);
                     }
 
                     //cache current card information for writing action
@@ -199,11 +206,11 @@ public class InsertCardAction extends DefaultBaseAction {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
                         "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
                 String errPrompt = getResourceMsg(t.getMessage());
-                showOnComponent(failedDisplay.get(0),
-                        errPrompt == null ? getResourceMsg("operation.ic.card.read.error") : errPrompt);
-                panelJump(failedPage.getNextPanel());
+                handleErr(errPrompt);
                 throw new Exception(t);
             }
         }
+        private static final String GUOZHEN_CARD_OPERATION_PROMPT = "guozhen.operation.card.type.prompt";
+
     }
 }
