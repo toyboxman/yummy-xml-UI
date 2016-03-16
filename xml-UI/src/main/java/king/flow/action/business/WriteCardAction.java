@@ -18,11 +18,12 @@ import static king.flow.common.CommonUtil.createTLSMessage;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.parseTLSMessage;
-import static king.flow.common.CommonUtil.sendMessage;
 import king.flow.control.driver.GzCardConductor;
 import king.flow.data.TLSResult;
+import king.flow.view.DeviceEnum;
 import king.flow.view.MsgSendAction;
 import king.flow.view.Rules;
+import static king.flow.common.CommonUtil.sendMessage;
 
 /**
  *
@@ -30,9 +31,12 @@ import king.flow.view.Rules;
  */
 public class WriteCardAction extends BalanceTransAction {
 
-    public WriteCardAction(String prsCode, int cmdCode, List<String> conditionList,
+    private final DeviceEnum cardType;
+
+    public WriteCardAction(DeviceEnum cardType, String prsCode, int cmdCode, List<String> conditionList,
             MsgSendAction.NextStep next, MsgSendAction.Exception expPage, Rules checkRules) {
         super(prsCode, cmdCode, conditionList, next, expPage, checkRules);
+        this.cardType = cardType;
     }
 
     @Override
@@ -41,17 +45,28 @@ public class WriteCardAction extends BalanceTransAction {
             return;
         }
 
-        waitCommunicationTask(new WriteCardTask());
+        switch (cardType) {
+            case GZ_CARD:
+                waitCommunicationTask(new GZWriteCardTask());
+                break;
+            default:
+                getLogger(WriteCardAction.class.getName()).log(Level.WARNING,
+                        "Unsupported card type[{0}] for WriteCardAction", cardType.name());
+                String errMsg = getResourceMsg(GzCardConductor.GUOZHEN_CARD_OPERATION_PROMPT);
+                showErrMsg(Integer.MIN_VALUE, errMsg);
+                panelJump(error.getNextPanel());
+        }
+
     }
 
-    private class WriteCardTask extends SwingWorker<String, Integer> {
+    private class GZWriteCardTask extends SwingWorker<String, Integer> {
 
         @Override
         protected String doInBackground() throws Exception {
             Thread.sleep(1000);
             Map<Integer, String> conditionValues = retrieveConditionValues();
             String msg = createTLSMessage(prsCode, conditionValues);
-            getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+            getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                     "Sending transaction TLS Message : \n{0}", msg);
             String resp = null;
             try {
@@ -67,14 +82,14 @@ public class WriteCardAction extends BalanceTransAction {
 
             if (resp != null) {
                 resp = resp.trim();
-                getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                         "Retrieve raw response from server : \n{0}", resp);
             } else {
-                getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
                         "Retrieve nothing from server");
                 //launch strike-balance for previous transaction timeout
                 String strike_balance = buildBalancedMsg(conditionValues, msg);
-                getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                         "Sending balanced transaction TLS Message for timeout : \n{0}", strike_balance);
                 try {
                     if (cmdCode < 0) {
@@ -83,7 +98,7 @@ public class WriteCardAction extends BalanceTransAction {
                         resp = sendMessage(cmdCode, strike_balance);
                     }
                 } catch (Exception exception) {
-                    getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
+                    getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
                             "Fail to send strike-balance message due to : {0}", exception.getMessage());
                     throw exception;
                 } finally {
@@ -94,17 +109,17 @@ public class WriteCardAction extends BalanceTransAction {
             }
 
             TLSResult result = parseTLSMessage(resp);
-            getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+            getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                     "Transform transaction response to : \n{0}", result);
             if (result == null) {
-                getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                         "Fail to transform response and receive invalid raw response : \n{0}", resp);
                 showErrMsg(Integer.MIN_VALUE,
                         getResourceMsg("terminal.invalidated.response.prompt"));
                 return resp;
             } else if (result.getRetCode() != 0) {
                 final String errMsg = result.getErrMsg();
-                getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                         "Operation action failed with retcode {0}, root cause : \n{1}",
                         new Object[]{result.getRetCode(), errMsg});
                 showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
@@ -123,7 +138,7 @@ public class WriteCardAction extends BalanceTransAction {
                 gasCount = successJson.get(GzCardConductor.CARD_GAS_COUNT);
                 writeCardCode = successJson.get(GzCardConductor.WRITE_CARD_CODE);
             } catch (Exception e) {
-                getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to parse write card info due to : \n{0}", e);
                 showErrMsg(Integer.MIN_VALUE,
                         getResourceMsg("terminal.invalidated.response.prompt"));
@@ -144,11 +159,11 @@ public class WriteCardAction extends BalanceTransAction {
                     throw new Exception("card driver returns failed result : [" + writeResult + "]");
                 }
             } catch (Throwable e) {
-                getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to write card due to : \n{0}", e.getMessage());
                 //launch strike-balance for card writing failure
                 String strike_balance = buildBalancedMsg(conditionValues, msg);
-                getLogger(WriteCardTask.class.getName()).log(Level.INFO,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                         "Sending balanced transaction TLS Message for card-writing failure: \n{0}", strike_balance);
                 try {
                     if (cmdCode < 0) {
@@ -157,7 +172,7 @@ public class WriteCardAction extends BalanceTransAction {
                         resp = sendMessage(cmdCode, strike_balance);
                     }
                 } catch (Exception exception) {
-                    getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
+                    getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
                             "Fail to send strike-balance message due to : {0}", exception.getMessage());
                     throw exception;
                 } finally {
@@ -171,7 +186,7 @@ public class WriteCardAction extends BalanceTransAction {
             TLSResult showResult = new TLSResult(result.getRetCode(),
                     successJson.getString("result"), result.getErrMsg(), result.getPrtMsg());
             if (next == null) {
-                getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
+                getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
                         "No next display page is configured, show result in current page");
                 showResult(showResult);
             } else {

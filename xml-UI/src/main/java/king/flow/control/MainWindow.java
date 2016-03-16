@@ -625,7 +625,7 @@ public class MainWindow {
             if (insertICardAction.getCardType() == null) {
                 final String valid_type = "[cardType] configuration\n"
                         + "valid type includes["
-                        + DeviceEnum.GZ_CARD
+                        + DeviceEnum.GZ_CARD.value()
                         + "]";
                 promptIncompleteActionBlockErr(actionName, component, panel, pageURI, valid_type);
             }
@@ -690,11 +690,23 @@ public class MainWindow {
         }
     }
 
-    private void validateWriteICardAction(MsgSendAction writeICardAction, Component component,
+    private void validateWriteICardAction(king.flow.view.Action.WriteICardAction writeICardAction, Component component,
             Panel panel, String pageURI) {
         if (writeICardAction != null) {
             checkSupportedAction(component, WRITE_IC_ACTION, panel, pageURI);
-            validateSendMsgAction(writeICardAction, component, panel, pageURI);
+            //validate card type config
+            if (writeICardAction.getCardType() == null) {
+                final String valid_type = "[cardType] configuration\n"
+                        + "valid type includes["
+                        + DeviceEnum.GZ_CARD.value()
+                        + "]";
+                promptIncompleteActionBlockErr(WRITE_IC_ACTION, component, panel, pageURI, valid_type);
+            }
+            if (writeICardAction.getCardAction() == null) {
+                final String valid_type = "[cardAction] configuration";
+                promptIncompleteActionBlockErr(WRITE_IC_ACTION, component, panel, pageURI, valid_type);
+            }
+            validateSendMsgAction(writeICardAction.getCardAction(), component, panel, pageURI);
         }
     }
 
@@ -1263,17 +1275,19 @@ public class MainWindow {
     }
 
     private void doWriteICardAction(king.flow.view.Action actionNode, Component component) {
-        MsgSendAction writeICardAction = actionNode.getWriteICardAction();
+        king.flow.view.Action.WriteICardAction writeICardAction = actionNode.getWriteICardAction();
         if (writeICardAction != null) {
-            String prsCode = writeICardAction.getPrsCode();
-            int cmdCode = writeICardAction.getCmdCode() == null ? -1 : writeICardAction.getCmdCode();
-            String conditions = writeICardAction.getConditions();
-            MsgSendAction.NextStep nextStep = writeICardAction.getNextStep();
-            MsgSendAction.Exception exception = writeICardAction.getException();
-            Rules checkRules = writeICardAction.getCheckRules();
+            DeviceEnum cardType = writeICardAction.getCardType();
+            String prsCode = writeICardAction.getCardAction().getPrsCode();
+            int cmdCode = writeICardAction.getCardAction().getCmdCode() == null ? -1 :
+                    writeICardAction.getCardAction().getCmdCode();
+            String conditions = writeICardAction.getCardAction().getConditions();
+            MsgSendAction.NextStep nextStep = writeICardAction.getCardAction().getNextStep();
+            MsgSendAction.Exception exception = writeICardAction.getCardAction().getException();
+            Rules checkRules = writeICardAction.getCardAction().getCheckRules();
             ArrayList<String> listConditions = buildListParameters(conditions);
 
-            WriteCardAction writeAction = new WriteCardAction(prsCode, cmdCode,
+            WriteCardAction writeAction = new WriteCardAction(cardType, prsCode, cmdCode,
                     listConditions, nextStep, exception, checkRules);
             doAction(writeAction, component.getId());
         }

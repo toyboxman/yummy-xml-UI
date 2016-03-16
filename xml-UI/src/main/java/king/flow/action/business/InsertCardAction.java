@@ -107,7 +107,7 @@ public class InsertCardAction extends DefaultBaseAction {
                     default:
                         getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
                                 "Unsupported card type[{0}] for InsertCardAction", cardType.name());
-                        handleErr(getResourceMsg(GZReadCardTask.GUOZHEN_CARD_OPERATION_PROMPT));
+                        handleErr(getResourceMsg(GzCardConductor.GUOZHEN_CARD_OPERATION_PROMPT));
                 }
             }
         });
@@ -172,7 +172,7 @@ public class InsertCardAction extends DefaultBaseAction {
                         cardType = new JsonPrimitive("0");
                     } else if (String.valueOf(cardType)
                             .equals(GzCardConductor.UNSUPPORT_CARD_TYPE)) {
-                        throw new Exception(GUOZHEN_CARD_OPERATION_PROMPT);
+                        throw new Exception(GzCardConductor.GUOZHEN_CARD_OPERATION_PROMPT);
                     }
 
                     //cache current card information for writing action
@@ -210,7 +210,6 @@ public class InsertCardAction extends DefaultBaseAction {
                 throw new Exception(t);
             }
         }
-        private static final String GUOZHEN_CARD_OPERATION_PROMPT = "guozhen.operation.card.type.prompt";
 
     }
 }

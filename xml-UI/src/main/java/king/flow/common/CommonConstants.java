@@ -13,6 +13,7 @@ import java.util.List;
 import java.util.Map;
 import king.flow.action.business.ShowClockAction;
 import king.flow.data.TLSResult;
+import king.flow.view.Action;
 import king.flow.view.Action.CleanAction;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Action.LimitInputAction;
@@ -132,7 +133,7 @@ public class CommonConstants {
     public static final String OPEN_VIRTUAL_KEYBOARD_ACTION = VirtualKeyboardAction.class.getSimpleName();
     public static final String PRINT_RECEIPT_ACTION = SetPrinterAction.class.getSimpleName();
     public static final String INSERT_IC_ACTION = InsertICardAction.class.getSimpleName();
-    public static final String WRITE_IC_ACTION = "WriteICardAction";
+    public static final String WRITE_IC_ACTION = Action.WriteICardAction.class.getSimpleName();
     public static final String BALANCE_TRANS_ACTION = "BalanceTransAction";
     public static final String PRINT_PASSBOOK_ACTION = PrintPassbookAction.class.getSimpleName();
     public static final String UPLOAD_FILE_ACTION = UploadFileAction.class.getSimpleName();

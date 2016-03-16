@@ -19,6 +19,7 @@ public class GzCardConductor {
     public static final String CARD_2_TYPE = "2";
     public static final String CARD_3_TYPE = "3";
     public static final String UNSUPPORT_CARD_TYPE = "4";
+    public static final String GUOZHEN_CARD_OPERATION_PROMPT = "guozhen.operation.card.type.prompt";
 
     public native String readCard(String comport);
 

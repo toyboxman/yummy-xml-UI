@@ -319,7 +319,14 @@
                 </xs:complexType>
             </xs:element>
             
-            <xs:element name="writeICardAction" type="msgSendAction" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="writeICardAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="cardAction" type="msgSendAction"/>
+                        <xs:element name="cardType" type="device_enum"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
             
             <xs:element name="balanceTransAction" type="msgSendAction" maxOccurs="1" minOccurs="0"/>
             

@@ -234,26 +234,29 @@
         </attribute>
         <action>
             <writeICardAction>
-                <prsCode>pay_ICbiao</prsCode>
-                <conditions>201801214,201801216</conditions>
-                <nextStep>  
-                    <nextPanel>201888</nextPanel> 
-                    <display>201886</display>  
-                </nextStep>
-                <exception> 
-                    <nextPanel>201899</nextPanel>  
-                    <display>201896</display>  
-                </exception>
-                <checkRules>
-                    <notNull>
-                        <content>201801214</content>
-                        <errMsg>请点击卡号框右侧按钮进行读卡</errMsg>
-                    </notNull>
-                    <notNull>
-                        <content>201801216</content>
-                        <errMsg>请用密码键盘输入密码</errMsg>
-                    </notNull>
-                </checkRules>
+                <cardType>gzCard</cardType>
+                <cardAction>
+                    <prsCode>pay_ICbiao</prsCode>
+                    <conditions>201801214,201801216</conditions>
+                    <nextStep>  
+                        <nextPanel>201888</nextPanel> 
+                        <display>201886</display>  
+                    </nextStep>
+                    <exception> 
+                        <nextPanel>201899</nextPanel>  
+                        <display>201896</display>  
+                    </exception>
+                    <checkRules>
+                        <notNull>
+                            <content>201801214</content>
+                            <errMsg>请点击卡号框右侧按钮进行读卡</errMsg>
+                        </notNull>
+                        <notNull>
+                            <content>201801216</content>
+                            <errMsg>请用密码键盘输入密码</errMsg>
+                        </notNull>
+                    </checkRules>
+                </cardAction>
             </writeICardAction>
         </action>
     </component>
