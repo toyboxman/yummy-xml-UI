@@ -116,10 +116,12 @@ public class WriteCardAction extends BalanceTransAction {
             JsonObject successJson = null;
             JsonElement gasSurplus = null;
             JsonElement gasCount = null;
+            JsonElement writeCardCode = null;
             try {
                 successJson = new JsonParser().parse(result.getOkMsg()).asObject();
                 gasSurplus = successJson.get(GzCardConductor.CARD_SPARE);
                 gasCount = successJson.get(GzCardConductor.CARD_GAS_COUNT);
+                writeCardCode = successJson.get(GzCardConductor.WRITE_CARD_CODE);
             } catch (Exception e) {
                 getLogger(WriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to parse write card info due to : \n{0}", e);
@@ -132,6 +134,11 @@ public class WriteCardAction extends BalanceTransAction {
                 JsonObject cardInfo = CommonUtil.uncacheCardInfo();
                 cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
                 cardInfo.put(GzCardConductor.CARD_GAS_COUNT, gasCount);
+                String cardType = cardInfo.getString(GzCardConductor.CARD_FACTORY);
+                if (cardType.equals(GzCardConductor.CARD_2_TYPE)
+                        || cardType.equals(GzCardConductor.CARD_3_TYPE)) {
+                    cardInfo.put(GzCardConductor.WRITE_CARD_CODE, writeCardCode);
+                }
                 int writeResult = CommonUtil.writeGzICCard(cardInfo);
                 if (writeResult != CommonConstants.NORMAL) {
                     throw new Exception("card driver returns failed result : [" + writeResult + "]");
