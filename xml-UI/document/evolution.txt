@@ -1,4 +1,57 @@
 ************************************************************************************************************************
+2016.3.16
+************************************************************************************************************************
+读写缴费IC卡时候增加卡类型cardType配置，类型对应驱动部分配置的设备类型
+1.插卡行为增加一个卡类型配置
+2.写卡行为增加一个卡类型配置，把消息放松行为封装到cardAction部分
+
+配置如下：
+1.插卡行为
+<action>
+	<insertICardAction>
+		<cardType>gzCard</cardType>
+		<nextStep>
+			<nextPanel>201801</nextPanel>
+			<display>201806,201807,201808</display>
+			<hop>201811</hop>
+			<!--<debug>9633242 12 2</debug>-->
+		</nextStep>
+		<exception>
+			<nextPanel>201899</nextPanel>
+			<display>201896</display>
+		</exception>
+	</insertICardAction>
+</action>
+
+2.写卡行为
+<action>
+	<writeICardAction>
+		<cardType>gzCard</cardType>
+		<cardAction>
+			<prsCode>pay_ICbiao</prsCode>
+			<conditions>201801214,201801216</conditions>
+			<nextStep>  
+				<nextPanel>201888</nextPanel> 
+				<display>201886</display>  
+			</nextStep>
+			<exception> 
+				<nextPanel>201899</nextPanel>  
+				<display>201896</display>  
+			</exception>
+			<checkRules>
+				<notNull>
+					<content>201801214</content>
+					<errMsg>请点击卡号框右侧按钮进行读卡</errMsg>
+				</notNull>
+				<notNull>
+					<content>201801216</content>
+					<errMsg>请用密码键盘输入密码</errMsg>
+				</notNull>
+			</checkRules>
+		</cardAction>
+	</writeICardAction>
+</action>
+************************************************************************************************************************
 2016.3.8
 ************************************************************************************************************************
 增加事务性交易的冲账支持
