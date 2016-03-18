@@ -54,7 +54,7 @@
         <id>256</id>
         <type>Button</type>
         <attribute>
-            <text>IC卡交费明细查询</text>
+            <text>IC卡缴费明细查询</text>
             <rect>
                 <x>800</x>
                 <y>240</y>

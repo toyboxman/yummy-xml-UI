@@ -17,7 +17,7 @@
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>IC卡交费明细查询</text>
+            <text>IC卡缴费明细查询</text>
         </attribute>
         <action>
             <setFontAction>
@@ -226,7 +226,7 @@
                 <width>1024</width>
                 <heigh>70</heigh>
             </rect>
-            <text>IC卡交费明细查询</text>
+            <text>IC卡缴费明细查询</text>
         </attribute>
         <action>
             <setFontAction>

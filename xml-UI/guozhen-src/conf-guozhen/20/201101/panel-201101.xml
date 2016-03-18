@@ -170,7 +170,7 @@
                 <width>1024</width>
                 <heigh>70</heigh>
             </rect>
-            <text>查询最近20笔历史交易记录</text>
+            <text>查询最近20笔缴费记录</text>
         </attribute>
         <action>
             <setFontAction>
