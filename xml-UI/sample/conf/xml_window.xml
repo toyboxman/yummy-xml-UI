@@ -8,13 +8,14 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 <window
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../schema/WindowXmlSchema.xsd'>
     <id>0</id>
     <type>Frame</type>
     <ui-style>
         <!--<lookandfeel>
             com.jgoodies.looks.windows.WindowsLookAndFeel
         </lookandfeel>-->
+        <scalescreen>true</scalescreen>
         <font>
             <name>Fangsong</name>
             <size>21</size>
@@ -60,6 +61,12 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     <attribute>
         <text>北京移动银行查询系统</text>
         <icon>/image/bank-icon-256.png</icon>
+        <rect>
+            <x>0</x>
+            <y>0</y>
+            <width>1280</width>
+            <heigh>1024</heigh>
+        </rect>
     </attribute>
     <menubar>
         <menu>

@@ -75,17 +75,28 @@ public class DesignBankAppGUI {
         }
     }
 
+    private enum EditMenu {
+        SHOW_BOUND("Show Bound"), HIDE_BOUND("Hide Bound"),
+        PROPERTIES("Edit Properties"), REDO("Redo"), SAVE("Save"),
+        EXIT("Exit");
+
+        private final String menuName;
+
+        private EditMenu(String name) {
+            this.menuName = name;
+        }
+
+        public String getMenuName() {
+            return menuName;
+        }
+    }
+
     private static class MouseListenerImpl implements MouseListener, MouseMotionListener {
 
         Map.Entry<Panel, String> panel;
         king.flow.view.Component componentMeta;
         JComponent srcComp;
         final JPopupMenu popupMenu;
-        final JMenuItem saveItem;
-        final JMenuItem showBoundItem;
-        final JMenuItem hideBoundItem;
-        final JMenuItem exitItem;
-        final JMenuItem propertiesItem;
         int startX, startY;
         int endX, endY;
 
@@ -94,56 +105,64 @@ public class DesignBankAppGUI {
             this.panel = page;
             this.componentMeta = component;
             this.popupMenu = new JPopupMenu();
-            this.saveItem = new JMenuItem("Save Config");
-            this.saveItem.setFont(MENU_FONT);
-            this.showBoundItem = new JMenuItem("Show Bound");
-            this.showBoundItem.setFont(MENU_FONT);
-            this.hideBoundItem = new JMenuItem("Hide Bound");
-            this.hideBoundItem.setFont(MENU_FONT);
-            this.exitItem = new JMenuItem("Exit");
-            this.exitItem.setFont(MENU_FONT);
-            this.propertiesItem = new JMenuItem("Edit Properties");
-            this.propertiesItem.setFont(MENU_FONT);
-
-            initAction();
+            initMenuItem();
         }
 
-        private void initAction() {
-            this.popupMenu.add(showBoundItem);
-            this.showBoundItem.addActionListener((ActionEvent e) -> {
-                srcComp.setBorder(new TitledBorder(
-                        new LineBorder(Color.MAGENTA, 2, true),
-                        String.valueOf(componentMeta.getId()),
-                        TitledBorder.LEADING, TitledBorder.TOP,
-                        ID_FONT
-                ));
-            });
-            this.popupMenu.add(hideBoundItem);
-            this.hideBoundItem.addActionListener((ActionEvent e) -> {
-                srcComp.setBorder(null);
-            });
+        private void initMenuItem() {
+            for (EditMenu menu : EditMenu.values()) {
+                final JMenuItem actionMenu = new JMenuItem(menu.getMenuName());
+                actionMenu.setFont(MENU_FONT);
+                this.popupMenu.add(actionMenu);
+                switch (menu) {
+                    case SHOW_BOUND:
+                        actionMenu.addActionListener((ActionEvent e) -> {
+                            srcComp.setBorder(new TitledBorder(
+                                    new LineBorder(Color.MAGENTA, 2, true),
+                                    String.valueOf(componentMeta.getId()),
+                                    TitledBorder.LEADING, TitledBorder.TOP,
+                                    ID_FONT
+                            ));
+                        });
+                        break;
+                    case HIDE_BOUND:
+                        this.popupMenu.addSeparator();
+                        actionMenu.addActionListener((ActionEvent e) -> {
+                            srcComp.setBorder(null);
+                        });
+                        break;
+                    case REDO:
+                        actionMenu.addActionListener((ActionEvent e) -> {
+                            BasicAttribute attribute = componentMeta.getAttribute();
+                            king.flow.view.Bound rect = attribute.getRect();
+                            srcComp.setBounds(rect.getX(), rect.getY(), rect.getWidth(), rect.getHeigh());
+                            refreshComponent();
+                        });
+                        break;
+                    case PROPERTIES:
+                        this.popupMenu.addSeparator();
+                        actionMenu.addActionListener((ActionEvent e) -> {
 
-            this.popupMenu.addSeparator();
-            this.popupMenu.add(propertiesItem);
-            this.propertiesItem.addActionListener((ActionEvent e) -> {
-
-            });
-
-            this.popupMenu.addSeparator();
-            this.popupMenu.add(saveItem);
-            this.saveItem.addActionListener((ActionEvent e) -> {
-                BasicAttribute attribute = componentMeta.getAttribute();
-                king.flow.view.Bound rect = attribute.getRect();
-                rect.setX(srcComp.getBounds().x);
-                rect.setY(srcComp.getBounds().y);
-                new SaveFileTask(panel.getValue(), panel.getKey()).execute();
-            });
-
-            this.popupMenu.addSeparator();
-            this.popupMenu.add(exitItem);
-            this.exitItem.addActionListener((ActionEvent e) -> {
-                System.exit(0);
-            });
+                        });
+                        break;
+                    case SAVE:
+                        this.popupMenu.addSeparator();
+                        actionMenu.addActionListener((ActionEvent e) -> {
+                            BasicAttribute attribute = componentMeta.getAttribute();
+                            king.flow.view.Bound rect = attribute.getRect();
+                            rect.setX(srcComp.getBounds().x);
+                            rect.setY(srcComp.getBounds().y);
+                            new SaveFileTask(panel.getValue(), panel.getKey()).execute();
+                        });
+                        break;
+                    case EXIT:
+                        actionMenu.addActionListener((ActionEvent e) -> {
+                            System.exit(0);
+                        });
+                        break;
+                    default:
+                        throw new AssertionError();
+                }
+            }
         }
 
         @Override
@@ -175,6 +194,10 @@ public class DesignBankAppGUI {
                     "moved x coordination[{0}] and y coordination[{1}]", new Object[]{movedX, movedY});
             startX = endX;
             startY = endY;
+            refreshComponent();
+        }
+
+        protected void refreshComponent() {
             srcComp.revalidate();
             srcComp.repaint();
         }

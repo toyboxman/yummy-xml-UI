@@ -115,30 +115,33 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <writeICardAction>
-                <prsCode>buygas</prsCode>
-                <conditions>370004,370005,370006</conditions>
-                <checkRules>
-                    <notNull>
-                        <content>370004</content>
-                        <errMsg>370004输入不能够为空</errMsg>
-                    </notNull>
-                    <notNull>
-                        <content>370005</content>
-                        <errMsg>370005输入不能够为空</errMsg>
-                    </notNull>
-                    <notNull>
-                        <content>370006</content>
-                        <errMsg>370006输入不能够为空</errMsg>
-                    </notNull>
-                </checkRules>
-                <exception>
-                    <display>9101</display>
-                    <nextPanel>910</nextPanel>
-                </exception>
-                <nextStep>
-                    <display>9101</display>
-                    <nextPanel>910</nextPanel>
-                </nextStep>
+                <cardType>ICCard</cardType>
+                <cardAction>
+                    <prsCode>buygas</prsCode>
+                    <conditions>370004,370005,370006</conditions>
+                    <checkRules>
+                        <notNull>
+                            <content>370004</content>
+                            <errMsg>370004输入不能够为空</errMsg>
+                        </notNull>
+                        <notNull>
+                            <content>370005</content>
+                            <errMsg>370005输入不能够为空</errMsg>
+                        </notNull>
+                        <notNull>
+                            <content>370006</content>
+                            <errMsg>370006输入不能够为空</errMsg>
+                        </notNull>
+                    </checkRules>
+                    <exception>
+                        <display>9101</display>
+                        <nextPanel>910</nextPanel>
+                    </exception>
+                    <nextStep>
+                        <display>9101</display>
+                        <nextPanel>910</nextPanel>
+                    </nextStep>
+                </cardAction>
             </writeICardAction>
         </action>
     </component>

@@ -175,6 +175,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         </attribute>
         <action>
             <insertICardAction>
+                <cardType>ICCard</cardType>
                 <nextStep>
                     <nextPanel>370</nextPanel>
                     <display>370004, 370005, 370006</display>
