@@ -237,7 +237,7 @@
                 <cardType>gzCard</cardType>
                 <cardAction>
                     <prsCode>pay_ICbiao</prsCode>
-                    <conditions>201801214,201801216</conditions>
+                    <conditions>201801214,201801216,201807</conditions>
                     <nextStep>  
                         <nextPanel>201888</nextPanel> 
                         <display>201886</display>  
