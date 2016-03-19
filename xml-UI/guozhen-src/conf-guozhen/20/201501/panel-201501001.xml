@@ -327,7 +327,7 @@
             </attribute>
             <action>
                 <showTableAction>
-                    <columnNames>账期,单价,数量,滞纳金,应交金额</columnNames>
+                    <columnNames>序号,账期,数量,滞纳金,应交金额</columnNames>
                 </showTableAction>
             </action>
             <action>
