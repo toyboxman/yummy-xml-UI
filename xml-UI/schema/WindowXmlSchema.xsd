@@ -351,6 +351,7 @@
                         <xs:element name="nextPanel" type="xs:int"/>
                         <xs:element name="display" type="xs:string"/>
                         <xs:element name="nextCursor" type="xs:int" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="trigger" type="xs:int" maxOccurs="1" minOccurs="0"/>
                     </xs:all>
                 </xs:complexType>
             </xs:element>

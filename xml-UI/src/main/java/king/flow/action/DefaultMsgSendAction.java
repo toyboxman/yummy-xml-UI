@@ -12,6 +12,8 @@ import com.github.jsonj.tools.JsonParser;
 import java.awt.HeadlessException;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
@@ -337,6 +339,23 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     }
                     panelJump(forwardPage);
                 } else {
+                    Integer trigger = next.getTrigger();
+                    if (trigger != null && getBlockMeta(trigger) != null) {
+                        final Component blockMeta = (Component) getBlockMeta(trigger);
+                        switch (blockMeta.getType()) {
+                            case COMBO_BOX:
+                                JComboBox triggerBlock = getBlock(trigger, JComboBox.class);
+                                ItemListener[] itemListeners = triggerBlock.getItemListeners();
+                                for (ItemListener itemListener : itemListeners) {
+                                    ItemEvent e = new ItemEvent(triggerBlock, ItemEvent.ITEM_STATE_CHANGED,
+                                            "ACTION4", ItemEvent.SELECTED);
+                                    itemListener.itemStateChanged(e);
+                                }
+                                break;
+                            default:
+                                break;
+                        }
+                    }
                     panelJump(next.getNextPanel());
                     Integer nextCursor = next.getNextCursor();
                     if (nextCursor != null && getBlockMeta(nextCursor) != null) {
