@@ -83,6 +83,7 @@
                     <nextPanel>201501001</nextPanel>
                     <display>201501004,201501006,201501008,201501010,201501023,201501012,201501017</display>
                     <nextCursor>201501014</nextCursor>
+                    <trigger>201501014</trigger>
                 </nextStep>
                 <exception> 
                     <nextPanel>201599</nextPanel>  
@@ -132,8 +133,7 @@
                 <width>1024</width>
                 <heigh>150</heigh>
             </rect>
-            <text>普卡代缴燃气费</text>
-			
+            <text>普卡代缴燃气费</text>	
         </attribute>
         <action>
             <setFontAction>
@@ -141,5 +141,4 @@
             </setFontAction>
         </action>
     </component>
-
 </panel>
