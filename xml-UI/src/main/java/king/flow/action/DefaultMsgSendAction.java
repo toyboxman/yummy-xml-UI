@@ -344,15 +344,23 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                         final Component blockMeta = (Component) getBlockMeta(trigger);
                         switch (blockMeta.getType()) {
                             case COMBO_BOX:
-                                JComboBox triggerBlock = getBlock(trigger, JComboBox.class);
-                                ItemListener[] itemListeners = triggerBlock.getItemListeners();
+                                JComboBox comboBlock = getBlock(trigger, JComboBox.class);
+                                ItemListener[] itemListeners = comboBlock.getItemListeners();
+                                ItemEvent e = new ItemEvent(comboBlock,
+                                        ItemEvent.ITEM_STATE_CHANGED,
+                                        comboBlock.getItemAt(comboBlock.getItemCount() - 1).toString(),
+                                        ItemEvent.SELECTED);
                                 for (ItemListener itemListener : itemListeners) {
-                                    ItemEvent e = new ItemEvent(triggerBlock, ItemEvent.ITEM_STATE_CHANGED,
-                                            "ACTION4", ItemEvent.SELECTED);
                                     itemListener.itemStateChanged(e);
                                 }
                                 break;
+                            case BUTTON:
+                                JButton btnBlock = getBlock(trigger, JButton.class);
+                                btnBlock.doClick();
                             default:
+                                Logger.getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
+                                        "Invalid trigger component[{0}] as unsupported type[{1}]",
+                                        new Object[]{trigger, blockMeta.getType()});
                                 break;
                         }
                     }
@@ -490,7 +498,6 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     getLogger(CommunicationWorker.class.getName()).log(Level.FINE, "Retrieve response from server : \n{0}", value);
                 } else {
                     getLogger(CommunicationWorker.class.getName()).log(Level.INFO, "Retrieve no response from server");
-//                    showErrorMsg(owner.getTopLevelAncestor(), "Receive nothing from server");
                     showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.no.response.prompt"));
                     return;
                 }
@@ -501,7 +508,6 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 if (result == null) {
                     getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                             "Receive invalidated result {0} from server", value);
-//                    showErrorMsg(owner.getTopLevelAncestor(), "Receive invalidated result from server");
                     showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.invalidated.response.prompt"));
                     return;
                 } else if (result.getRetCode() != 0) {
@@ -509,8 +515,6 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                             "Operation action failed with retcode {0}, root cause {1}",
                             new Object[]{result.getRetCode(), errMsg});
-//                        showDoneMsg(owner.getTopLevelAncestor(), result.getErrMsg());
-//                        showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.failed.operation.prompt") + result.getRetCode());
                     showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
                             ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
                     return;
@@ -523,13 +527,6 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 } else {
                     //show msg to dedicated component
                     showDoneMsg(result);
-//                    Object metaNode = getBlockMeta(next.getDisplay());
-//                    if (metaNode instanceof Component) {
-//                        showDoneMsg(result);
-//                    } else {
-//                        Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
-//                                "Invalidated display component type : {0}", metaNode.getClass().getName());
-//                    }
                 }
             } catch (InterruptedException | ExecutionException | JsonParseException ex) {
                 getLogger(CommunicationWorker.class.getName()).log(Level.WARNING, null, ex);

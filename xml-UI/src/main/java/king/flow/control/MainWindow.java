@@ -506,6 +506,8 @@ public class MainWindow {
 
                 checkNextCursorParameter(sendMsgAction.getNextStep().getNextCursor(),
                         actionName, component, panel, pageURI);
+                checkNextTriggerParameter(sendMsgAction.getNextStep().getTrigger(),
+                        actionName, component, panel, pageURI);
             } else {
                 //successful next step must be set
                 promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[nextStep]");
@@ -1086,6 +1088,17 @@ public class MainWindow {
         }
     }
 
+    private void checkNextTriggerParameter(Integer nextTrigger, final String actionName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        String propertyName = "trigger";
+        if (nextTrigger != null) {
+            if (!this.meta_blocks.containsKey(nextTrigger)) {
+                promptNonexistentBlockErr(nextTrigger, actionName, propertyName, component, panel, pageURI, null);
+            }
+            checkComponentType(nextTrigger, actionName, propertyName, component, panel, pageURI);
+        }
+    }
+
     private void checkSupportedAction(Component component, final String actionName,
             Panel panel, String pageURI) throws HeadlessException {
         if (!isActionSupport(component, actionName)) {
@@ -1279,8 +1292,8 @@ public class MainWindow {
         if (writeICardAction != null) {
             DeviceEnum cardType = writeICardAction.getCardType();
             String prsCode = writeICardAction.getCardAction().getPrsCode();
-            int cmdCode = writeICardAction.getCardAction().getCmdCode() == null ? -1 :
-                    writeICardAction.getCardAction().getCmdCode();
+            int cmdCode = writeICardAction.getCardAction().getCmdCode() == null ? -1
+                    : writeICardAction.getCardAction().getCmdCode();
             String conditions = writeICardAction.getCardAction().getConditions();
             MsgSendAction.NextStep nextStep = writeICardAction.getCardAction().getNextStep();
             MsgSendAction.Exception exception = writeICardAction.getCardAction().getException();
