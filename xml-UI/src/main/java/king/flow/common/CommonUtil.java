@@ -682,6 +682,9 @@ public class CommonUtil {
         int result = ABNORMAL;
         try {
             System.loadLibrary(getDriverDll(GZ_CARD));
+            getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                    "Write guozhen IC card by {0} and port {1}",
+                    new Object[]{getDriverDll(GZ_CARD), getDriverPort(GZ_CARD)});
             GzCardConductor icCardConductor = new GzCardConductor();
             result = icCardConductor.writeCard(getDriverPort(GZ_CARD),
                     Integer.parseInt(cardInfo.getString(GzCardConductor.CARD_FACTORY)),

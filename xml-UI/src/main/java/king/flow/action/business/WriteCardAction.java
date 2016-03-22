@@ -154,7 +154,8 @@ public class WriteCardAction extends BalanceTransAction {
                         || cardType.equals(GzCardConductor.CARD_3_TYPE)) {
                     cardInfo.put(GzCardConductor.WRITE_CARD_CODE, writeCardCode);
                 }
-                int writeResult = CommonUtil.writeGzICCard(cardInfo);
+                int writeResult = CommonConstants.ABNORMAL;
+                writeResult = CommonUtil.writeGzICCard(cardInfo);
                 if (writeResult != CommonConstants.NORMAL) {
                     throw new Exception("card driver returns failed result : [" + writeResult + "]");
                 }
