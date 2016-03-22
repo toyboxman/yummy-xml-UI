@@ -249,7 +249,9 @@
                 <conditions>201801118,201807,201808</conditions>
                 <nextStep>  
                     <nextPanel>201801301</nextPanel> 
-                    <display>201801304,201801306</display>  
+                    <display>201801304,201801306</display> 
+                    <nextCursor>201801316</nextCursor>
+                    <trigger>201801314</trigger> 
                 </nextStep>
                 <exception> 
                     <nextPanel>201899</nextPanel>  

@@ -126,9 +126,9 @@
             <swipe2In1CardAction>
                 <nextCursor>201801316</nextCursor>
                 <editable>true</editable>
-                <debug>
+                <!--<debug>
                     <cardId>6217888899999000</cardId>
-                </debug>
+                </debug>-->
             </swipe2In1CardAction>
         </action>
 		
@@ -139,7 +139,7 @@
         </action>
     </component>
     
-    <component>
+    <!--<component>
         <id>201801317</id>
         <type>Label</type>
         <attribute>
@@ -157,7 +157,7 @@
                 <fontStyle>PLAIN</fontStyle>
             </setFontAction>
         </action>
-    </component>
+    </component>-->
     
     <component>
         <id>201801315</id>

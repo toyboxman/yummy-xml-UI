@@ -2,7 +2,7 @@
 
 <panel
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../../../schema/WindowXmlSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
     <id>201501001</id>
     <type>Panel</type>
     <active>false</active>
@@ -251,18 +251,16 @@
             <swipe2In1CardAction>
                 <nextCursor>201501007</nextCursor>
                 <editable>true</editable>
-                <debug>
+                <!--<debug>
                     <cardId>622105786978523412</cardId>
-                </debug>
+                </debug>-->
             </swipe2In1CardAction>
         </action>
-		
         <action>
             <playMediaAction>
                 <media>./media/audio/gas_pay_account.wav</media>
             </playMediaAction>
         </action>
-		
     </component>
     
     <component>
@@ -417,7 +415,7 @@
             </setFontAction>
         </action>
     </component>
-    <component>
+    <!--<component>
         <id>201501024</id>
         <type>Label</type>
         <attribute>
@@ -435,5 +433,5 @@
                 <fontStyle>PLAIN</fontStyle>
             </setFontAction>
         </action>
-    </component>
+    </component>-->
 </panel>

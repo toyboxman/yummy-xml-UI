@@ -82,7 +82,7 @@
                 <nextStep>  
                     <nextPanel>201501001</nextPanel>
                     <display>201501004,201501006,201501008,201501010,201501023,201501012,201501017</display>
-                    <nextCursor>201501014</nextCursor>
+                    <nextCursor>201501016</nextCursor>
                     <trigger>201501014</trigger>
                 </nextStep>
                 <exception> 

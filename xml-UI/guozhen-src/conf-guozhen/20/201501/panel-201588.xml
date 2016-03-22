@@ -58,9 +58,9 @@
             <setPrinterAction>
                 <header>国祯燃气公司</header>
                 <tail>此凭条仅供参照,如有异议请联系客服中心:96669</tail>
-                <debug>
+                <!--<debug>
                     <prompt>&lt;html&gt;&#160;&#160;&#160;&#160;&#160;模拟打印结果&lt;br&gt;&lt;br&gt;国祯燃气公司&lt;br&gt;流水号:28999777887&lt;br&gt;缴费号:2001900018&lt;br&gt;用户名称:张胜利&lt;br&gt;缴费金额:356.00元&lt;br&gt;处理信息:缴费成功&lt;br&gt;此凭条仅供参照,如有异议请联系客服中心:96669&lt;/html&gt;</prompt>
-                </debug>
+                </debug>-->
             </setPrinterAction>
         </action>  
     </component>
