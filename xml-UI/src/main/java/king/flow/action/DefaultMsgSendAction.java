@@ -351,7 +351,13 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                                         comboBlock.getItemAt(comboBlock.getItemCount() - 1).toString(),
                                         ItemEvent.SELECTED);
                                 for (ItemListener itemListener : itemListeners) {
-                                    itemListener.itemStateChanged(e);
+                                    itemListener.itemStateChanged(e);//wait and hang on util progress dialog gets to dispose
+                                }
+                                if (comboBlock.isEditable()) {
+                                    String value = comboBlock.getEditor().getItem().toString();
+                                    if (value.length() == 0) {
+                                        return;
+                                    }
                                 }
                                 break;
                             case BUTTON:
