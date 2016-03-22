@@ -31,6 +31,7 @@ import javax.swing.WindowConstants;
 import king.flow.common.CommonConstants;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.setFont;
+import king.flow.swing.ProgressLabel;
 import king.flow.view.ComponentEnum;
 import king.flow.view.Rules;
 import org.jdesktop.swingx.JXDatePicker;
@@ -132,29 +133,17 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
     }
 
     private JDialog buildProgressDialog() {
-//        JProgressBar progress = new JProgressBar();
-//        progress.setIndeterminate(true);
-//        progress.setString("60s");
-//        progress.setStringPainted(true);
-//        progress.setPreferredSize(new Dimension(400, 50));
         JDialog dialog = new JDialog((Window) owner.getTopLevelAncestor());
         dialog.setModal(true);
-//        dialog.getContentPane().add(progress, BorderLayout.CENTER);
-//        JLabel backgroud = new JLabel(UIManager.getIcon(CommonConstants.KING_FLOW_BACKGROUND),
-//                SwingConstants.LEADING);
         Point centerPoint = GraphicsEnvironment.getLocalGraphicsEnvironment().getCenterPoint();
         Dimension dim = new Dimension(252, 256);
         int lx = (int) (centerPoint.getX() - dim.getWidth() / 2);
         int ly = (int) (centerPoint.getY() - dim.getHeight() / 2);
         final Rectangle progressBounds = new Rectangle(lx, ly, (int) dim.getWidth(), (int) dim.getHeight());
         dialog.setBounds(progressBounds);
-//        backgroud.setBounds(0, 0, (int) dim.getWidth(), (int) dim.getHeight());
-//        backgroud.setBorder(new LineBorder(Color.red));
-//        dialog.getContentPane().add(backgroud, -1);
-        JLabel progressAnimation = new JLabel(UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS));
+        JLabel progressAnimation = new ProgressLabel()/*.showCountDown()*/;
         Dimension ani_dim = new Dimension(dim);
         progressAnimation.setBounds(0, 0, (int) ani_dim.getWidth(), (int) ani_dim.getHeight());
-//        progressAnimation.setBorder(new LineBorder(Color.black));
         dialog.getContentPane().add(progressAnimation, 0);
 
         dialog.setUndecorated(true);
@@ -175,7 +164,7 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
         JLabel progressAnimation = null;
         if (animationFile == null || !CommonUtil.isValidResource(animationFile)) {
             final Icon defaultAnimation = UIManager.getIcon(CommonConstants.KING_FLOW_PROGRESS);
-            progressAnimation = new JLabel(defaultAnimation);
+            progressAnimation = new ProgressLabel()/*.showCountDown()*/;
             progressAnimation.setBounds(centerPoint.x - (defaultAnimation.getIconWidth() / 2),
                     centerPoint.y - (defaultAnimation.getIconHeight() / 2),
                     defaultAnimation.getIconWidth() - 5, // shrink actual width to hide white margin of default progress image
@@ -188,7 +177,6 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
                     animation.getIconWidth(),
                     animation.getIconHeight());
         }
-//        progressAnimation.setBorder(new LineBorder(Color.red, 2));
         dialog.getContentPane().add(progressAnimation, 0);
         dialog.setUndecorated(true);
         dialog.setDefaultCloseOperation(WindowConstants.DO_NOTHING_ON_CLOSE);

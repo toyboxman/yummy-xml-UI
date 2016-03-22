@@ -97,6 +97,10 @@ public class TunnelBuilder {
         this.channelTimeout = channelTimeout;
     }
 
+    public int getChannelTimeout() {
+        return channelTimeout;
+    }
+
     public String getTerminalID() {
         return terminalID;
     }
