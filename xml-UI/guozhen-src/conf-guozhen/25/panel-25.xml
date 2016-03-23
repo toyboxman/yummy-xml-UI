@@ -8,9 +8,9 @@
         <id>252</id>
         <type>Label</type>
         <attribute>
-            <text>IC卡表用户</text>
+            <text>IC卡表业务</text>
             <rect>
-                <x>500</x>
+                <x>540</x>
                 <y>80</y>
                 <width>600</width>
                 <heigh>150</heigh>

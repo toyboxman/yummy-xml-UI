@@ -11,12 +11,12 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>500</x>
+                <x>550</x>
                 <y>80</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>抄表用户交易</text>
+            <text>抄表业务</text>
         </attribute>
         <action>
             <setFontAction>

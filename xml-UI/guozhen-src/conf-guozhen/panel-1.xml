@@ -30,17 +30,17 @@
         <id>4</id>
         <type>Button</type>
         <attribute>
-            <text>抄表用户</text>
+            <text>抄表业务</text>
             <rect>
-                <x>990</x>
-                <y>280</y>
-                <width>200</width>
-                <heigh>65</heigh>
+                <x>950</x>
+                <y>170</y>
+                <width>220</width>
+                <heigh>100</heigh>
             </rect>
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>25</fontSize>
+                <fontSize>35</fontSize>
             </setFontAction>
         </action>
         <action>
@@ -54,12 +54,12 @@
         <id>10</id>
         <type>Button</type>
         <attribute>
-            <text>IC卡表用户</text>
+            <text>IC卡表业务</text>
             <rect>
-                <x>990</x>
-                <y>380</y>
-                <width>200</width>
-                <heigh>65</heigh>
+                <x>950</x>
+                <y>300</y>
+                <width>220</width>
+                <heigh>100</heigh>
             </rect>
         </attribute>
         <action>
@@ -69,7 +69,7 @@
         </action>
         <action> 
             <setFontAction>
-                <fontSize>25</fontSize>
+                <fontSize>35</fontSize>
             </setFontAction>
         </action>
     </component> 
