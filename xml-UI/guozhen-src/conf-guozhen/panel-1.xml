@@ -103,7 +103,7 @@
                 <width>300</width>
                 <heigh>40</heigh>
             </rect>
-            <text>序列号: 00001010</text>
+            <text>设备序列号: ${TERMINAL_ID}</text>
         </attribute>
         <action>
             <setFontAction>
