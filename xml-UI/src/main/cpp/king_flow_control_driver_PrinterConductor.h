@@ -9,27 +9,11 @@ extern "C" {
 #endif
 /*
  * Class:     king_flow_control_driver_PrinterConductor
- * Method:    printHead
- * Signature: (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+ * Method:    print
+ * Signature: (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
  */
-JNIEXPORT void JNICALL Java_king_flow_control_driver_PrinterConductor_printHead
-  (JNIEnv *, jobject, jstring, jstring, jstring);
-
-/*
- * Class:     king_flow_control_driver_PrinterConductor
- * Method:    printBody
- * Signature: (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
- */
-JNIEXPORT void JNICALL Java_king_flow_control_driver_PrinterConductor_printBody
-  (JNIEnv *, jobject, jstring, jstring, jstring);
-
-/*
- * Class:     king_flow_control_driver_PrinterConductor
- * Method:    printTail
- * Signature: (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
- */
-JNIEXPORT void JNICALL Java_king_flow_control_driver_PrinterConductor_printTail
-  (JNIEnv *, jobject, jstring, jstring, jstring);
+JNIEXPORT void JNICALL Java_king_flow_control_driver_PrinterConductor_print
+  (JNIEnv *, jobject, jstring, jstring, jstring, jstring, jstring);
 
 /*
  * Class:     king_flow_control_driver_PrinterConductor
@@ -38,6 +22,14 @@ JNIEXPORT void JNICALL Java_king_flow_control_driver_PrinterConductor_printTail
  */
 JNIEXPORT jint JNICALL Java_king_flow_control_driver_PrinterConductor_printState
   (JNIEnv *, jobject, jstring, jstring);
+
+/*
+ * Class:     king_flow_control_driver_PrinterConductor
+ * Method:    printPassBook
+ * Signature: (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)I
+ */
+JNIEXPORT jint JNICALL Java_king_flow_control_driver_PrinterConductor_printPassBook
+  (JNIEnv *, jobject, jstring, jstring, jstring);
 
 #ifdef __cplusplus
 }
