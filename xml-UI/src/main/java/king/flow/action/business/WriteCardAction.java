@@ -93,9 +93,9 @@ public class WriteCardAction extends BalanceTransAction {
                         "Sending balanced transaction TLS Message for timeout : \n{0}", strike_balance);
                 try {
                     if (cmdCode < 0) {
-                        resp = sendMessage(strike_balance);
+//                        resp = sendMessage(strike_balance);
                     } else {
-                        resp = sendMessage(cmdCode, strike_balance);
+//                        resp = sendMessage(cmdCode, strike_balance);
                     }
                 } catch (Exception exception) {
                     getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
