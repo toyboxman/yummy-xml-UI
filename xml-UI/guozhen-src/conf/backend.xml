@@ -20,6 +20,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <prsCode>sanlogin</prsCode>
         <terminalID>00000001</terminalID>
         <token>usjdfjksa75ks832okudsjd94877akjdua</token>
+        <unionPayID>9999</unionPayID>
         <branchno>test_bank_division</branchno>
         <heartbeat>10000</heartbeat>
     </registration>
