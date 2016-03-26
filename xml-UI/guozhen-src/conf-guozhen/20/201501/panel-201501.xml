@@ -59,6 +59,7 @@
         <action>
             <limitInputAction>
                 <length>10</length>
+                <enableNumberLimit>true</enableNumberLimit>
             </limitInputAction>
         </action>
     </component>
