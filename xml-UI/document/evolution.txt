@@ -1,4 +1,29 @@
 ************************************************************************************************************************
+2016.3.26
+************************************************************************************************************************
+增加银联设备唯一号的字段
+
+在backend配置文件中
+<Transportation
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../schema/TransportationSchema.xsd'>
+    <server>
+        <host>127.0.0.1</host>
+        <port>8080</port>
+        <timeout>20</timeout>
+    </server>
+    <registration>
+        <prsCode>sanlogin</prsCode>
+        <terminalID>00000001</terminalID>
+        <token>usjdfjksa75ks832okudsjd94877akjdua</token>
+        <unionPayID>9999</unionPayID>    ---银联标示字段
+        <branchno>test_bank_division</branchno>
+        <heartbeat>10000</heartbeat>
+    </registration>
+</Transportation>
+
+在心跳消息和普通消息中都会加上<unionpayid>这个新tag,值就是配置到backend中的银联标示字段
+************************************************************************************************************************
 2016.3.22
 ************************************************************************************************************************
 增强消息发送行为支持
