@@ -20,6 +20,7 @@
                         <xs:all>
                             <xs:element type="xs:string" name="prsCode"/>
                             <xs:element type="xs:string" name="terminalID"/>
+                            <xs:element type="xs:string" name="unionPayID"/>
                             <xs:element type="xs:string" name="token"/>
                             <xs:element type="xs:string" name="branchno"/>
                             <xs:element type="xs:int" name="heartbeat"/>

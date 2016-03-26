@@ -303,6 +303,7 @@ public class CommonUtil {
             list.add(tlsp.createMsgUidNode());
             list.add(tlsp.createPrsCodeNode(prsCode));
             list.add(tlsp.createTerminalID(TunnelBuilder.getTunnelBuilder().getTerminalID()));
+            list.add(tlsp.createUnionPayID(TunnelBuilder.getTunnelBuilder().getUnionPayID()));
             list.add(tlsp.createBranchno(TunnelBuilder.getTunnelBuilder().getBranchID()));
             if (retrieveCargo(CARGO) != null) {
                 list.add(createJAXBElement(new QName("", CARGO), retrieveCargo(CARGO)));

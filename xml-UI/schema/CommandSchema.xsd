@@ -30,6 +30,12 @@
             <xs:documentation>terminal token key</xs:documentation>
         </xs:annotation>
     </xs:element>
+    
+    <xs:element name="unionpayid" type="xs:string">
+        <xs:annotation>
+            <xs:documentation>unionPay identity</xs:documentation>
+        </xs:annotation>
+    </xs:element>
 	
     <xs:element name="branchno" type="xs:string">
         <xs:annotation>

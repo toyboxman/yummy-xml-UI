@@ -44,6 +44,7 @@ public class TunnelBuilder {
     private String terminalID;
     private String token;
     private String branchID;
+    private String unionPayID;
     private int period;
     private volatile int authorization_flag = Integer.MIN_VALUE;
     private Timer loop = null;
@@ -76,6 +77,7 @@ public class TunnelBuilder {
             this.prsCode = tsp.getRegistration().getPrsCode();
             this.terminalID = tsp.getRegistration().getTerminalID();
             this.token = tsp.getRegistration().getToken();
+            this.unionPayID = tsp.getRegistration().getUnionPayID();
             this.branchID = tsp.getRegistration().getBranchno();
             this.period = tsp.getRegistration().getHeartbeat();
         } catch (JAXBException ex) {
@@ -107,6 +109,10 @@ public class TunnelBuilder {
 
     public String getToken() {
         return token;
+    }
+
+    public String getUnionPayID() {
+        return unionPayID;
     }
 
     public String getBranchID() {

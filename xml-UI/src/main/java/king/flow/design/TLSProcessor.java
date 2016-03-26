@@ -81,6 +81,10 @@ public class TLSProcessor {
     public JAXBElement<String> createTerminalID(String id) {
         return factory.createTerminalid(id);
     }
+    
+    public JAXBElement<String> createUnionPayID(String unionPayID) {
+        return factory.createUnionpayid(unionPayID);
+    }
 
     public JAXBElement<String> createBranchno(String branchID) {
         return factory.createBranchno(branchID);
@@ -92,12 +96,15 @@ public class TLSProcessor {
         JAXBElement<String> ID = factory.createTerminalid(id);
         JAXBElement<String> tokenID = factory.createToken(token);
         JAXBElement<String> branchno = factory.createBranchno(getTunnelBuilder().getBranchID());
+        JAXBElement<String> unionPayID = factory.createUnionpayid(getTunnelBuilder().getUnionPayID());
         JAXBElement<Integer> terminalstate = factory.createTerminalstate(getTerminalStatusValue());
         JAXBElement<Long> startid = factory.createStartid(getStartTimeMillis());
         JAXBElement<Integer> keyboardstate = factory.createKeyboardstate(isKeyboardReady() ? NORMAL : ABNORMAL);
         JAXBElement<Integer> printerState = factory.createPrtstate(readPrinterStatus());
         JAXBElement<String> version = factory.createVersion(VERSION);
-        return buildTLS(counter, code, ID, tokenID, branchno, terminalstate, startid, keyboardstate, printerState, version);
+        return buildTLS(counter, code, ID, tokenID,
+                branchno, unionPayID, terminalstate,
+                startid, keyboardstate, printerState, version);
     }
 
     public String mockUpdateRegistryResp(int retCode, String id, int updateApp, String updateFile) {
@@ -108,7 +115,8 @@ public class TLSProcessor {
         return buildTLS(code, ID, updateBank, upgradeFile);
     }
 
-    public String mockRegistryResp(int retCode, String terminalId, String okmsg, String errmsg, String prtmsg, int restartApp, int downloadKey) {
+    public String mockRegistryResp(int retCode, String terminalId, String okmsg, String errmsg,
+            String prtmsg, int restartApp, int downloadKey) {
         JAXBElement<Integer> code = factory.createRetcode(retCode);
         JAXBElement<String> ID = factory.createTerminalid(terminalId);
         JAXBElement<String> ok = factory.createOkmsg(okmsg);
@@ -125,7 +133,8 @@ public class TLSProcessor {
         return buildTLS(code, ID, ok);
     }
 
-    public String mockGeneralResp(int retCode, String id, String okmsg, String errmsg, String prtmsg, String cargomsg, String redirection) {
+    public String mockGeneralResp(int retCode, String id, String okmsg, String errmsg,
+            String prtmsg, String cargomsg, String redirection) {
         List<JAXBElement> payload = new ArrayList<>();
         JAXBElement<Integer> code = factory.createRetcode(retCode);
         payload.add(code);
