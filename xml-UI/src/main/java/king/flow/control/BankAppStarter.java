@@ -247,6 +247,7 @@ public class BankAppStarter {
         UIManager.put("nimbusBlueGrey", new Color(115, 164, 209));
 //        UIManager.put("control", new Color(115, 164, 209));
         UIManager.put("control", new Color(145, 190, 220));
+        UIManager.put("TextField[Disabled].textForeground", new Color(82, 82, 82));
         /*
          * orange style
          */
