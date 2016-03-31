@@ -87,7 +87,9 @@ public class CommonConstants {
     public static final int REGISTRY_MSG_CODE = 1; //terminal registration message
     public static final int KEY_DOWNLOAD_MSG_CODE = 2; //download secret key message
     public static final int MANAGER_MSG_CODE = 100; //management message
-    public static final int MAX_MESSAGES_PER_READ = 9;
+    /*MAX_MESSAGES_PER_READ refers to DefaultChannelConfig, AdaptiveRecvByteBufAllocator, FixedRecvByteBufAllocator */
+    public static final int MAX_MESSAGES_PER_READ = 2; //how many read actions in one message conversation
+    public static final int RECEIVED_BUFFER_SIZE = 64 * 1024;
 
     /* keyboard cipher key */
     public static final String WORK_SECRET_KEY = "workSecretKey";

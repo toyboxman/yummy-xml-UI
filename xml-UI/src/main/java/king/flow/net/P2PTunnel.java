@@ -9,6 +9,7 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelOption;
 import io.netty.channel.EventLoopGroup;
+import io.netty.channel.FixedRecvByteBufAllocator;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioSocketChannel;
@@ -66,6 +67,8 @@ public class P2PTunnel implements Tunnel {
             b.option(ChannelOption.SO_KEEPALIVE, true); // (4)
             b.option(ChannelOption.MAX_MESSAGES_PER_READ,
                     CommonConstants.MAX_MESSAGES_PER_READ); // (4)
+            b.option(ChannelOption.RCVBUF_ALLOCATOR,
+                    new FixedRecvByteBufAllocator(CommonConstants.RECEIVED_BUFFER_SIZE));
             if (command == null || message == null) {
                 b.handler(new ChannelInitializerImpl());
             } else {

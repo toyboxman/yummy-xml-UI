@@ -221,7 +221,8 @@ public class TunnelBuilder {
                     }
                 }
             } catch (Exception e) {
-                getLogger(HeartBeatTask.class.getName()).log(Level.SEVERE, "Fail to do heart beat communication due to {0}", e.getMessage());
+                getLogger(HeartBeatTask.class.getName()).log(Level.SEVERE,
+                        "Fail to do heart beat communication due to {0}", e.getMessage());
                 grant(false);
             }
         }
