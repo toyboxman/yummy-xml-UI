@@ -2,6 +2,7 @@ package king.flow.net;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.buffer.ByteBuf;
+import io.netty.channel.AdaptiveRecvByteBufAllocator;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelHandler;
 import io.netty.channel.ChannelHandlerContext;
@@ -67,8 +68,13 @@ public class P2PTunnel implements Tunnel {
             b.option(ChannelOption.SO_KEEPALIVE, true); // (4)
             b.option(ChannelOption.MAX_MESSAGES_PER_READ,
                     CommonConstants.MAX_MESSAGES_PER_READ); // (4)
+//            b.option(ChannelOption.RCVBUF_ALLOCATOR,
+//                    new FixedRecvByteBufAllocator(CommonConstants.MAX_RECEIVED_BUFFER_SIZE));
             b.option(ChannelOption.RCVBUF_ALLOCATOR,
-                    new FixedRecvByteBufAllocator(CommonConstants.RECEIVED_BUFFER_SIZE));
+                    new AdaptiveRecvByteBufAllocator(
+                            CommonConstants.MIN_RECEIVED_BUFFER_SIZE,
+                            CommonConstants.RECEIVED_BUFFER_SIZE,
+                            CommonConstants.MAX_RECEIVED_BUFFER_SIZE));
             if (command == null || message == null) {
                 b.handler(new ChannelInitializerImpl());
             } else {
