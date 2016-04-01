@@ -339,6 +339,14 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     }
                     panelJump(forwardPage);
                 } else {
+                    panelJump(next.getNextPanel());
+                    Integer nextCursor = next.getNextCursor();
+                    if (nextCursor != null && getBlockMeta(nextCursor) != null) {
+                        JComponent block = getBlock(nextCursor, JComponent.class);
+                        block.requestFocusInWindow();
+                    }
+                    
+                    //trigger the action denoted in sendMsgAction
                     Integer trigger = next.getTrigger();
                     if (trigger != null && getBlockMeta(trigger) != null) {
                         final Component blockMeta = (Component) getBlockMeta(trigger);
@@ -369,14 +377,9 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                                         new Object[]{trigger, blockMeta.getType()});
                                 break;
                         }
-                    }
-                    panelJump(next.getNextPanel());
-                    Integer nextCursor = next.getNextCursor();
-                    if (nextCursor != null && getBlockMeta(nextCursor) != null) {
-                        JComponent block = getBlock(nextCursor, JComponent.class);
-                        block.requestFocusInWindow();
-                    }
-                }
+                    }//trigger dealing 
+
+                }// no redirection branch
             }
         });
     }
