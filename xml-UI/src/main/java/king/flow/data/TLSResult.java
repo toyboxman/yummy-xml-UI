@@ -27,6 +27,7 @@ public class TLSResult {
     public final static String PRS_CODE = _Prscode_QNAME.getLocalPart();
     public final static String UID = _Uid_QNAME.getLocalPart();
     public final static String PRT_MSG = "prtmsg";
+    public final static String CARD_INFO = "cardInfo";
 
     private int retCode;
     private String okMsg;

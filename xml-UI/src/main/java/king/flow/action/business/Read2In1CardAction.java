@@ -5,6 +5,8 @@
  */
 package king.flow.action.business;
 
+import com.github.jsonj.JsonObject;
+import com.github.jsonj.tools.JsonParser;
 import java.io.File;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
@@ -25,6 +27,8 @@ import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.getWindowNode;
 import static king.flow.common.CommonUtil.showMsg;
 import static king.flow.common.CommonUtil.swipe2In1Card;
+import king.flow.control.driver.TwoInOneCardConductor;
+import king.flow.data.TLSResult;
 import king.flow.view.Action.Swipe2In1CardAction;
 import king.flow.view.UiStyle;
 import king.flow.view.Window;
@@ -125,6 +129,8 @@ public class Read2In1CardAction extends ReadCardAction {
                         cardReadingState = CommonUtil.check2In1Card();
                     }
 
+                    JsonParser jsonParser = new JsonParser();
+                    JsonObject jsonElement = null;
                     switch (cardReadingState) {
                         case CommonConstants.MAGNET_CARD_STATE:
                             // should show tip to user and play audio prompt
@@ -153,7 +159,14 @@ public class Read2In1CardAction extends ReadCardAction {
                                 getLogger(Swipe2In1CardTask.class.getName()).log(Level.INFO,
                                         "Reading information {0} from magnet card", cardInfo);
                                 // need to change raw card information format
-                                return cardInfo.trim().substring(0, cardInfo.indexOf('='));
+                                //return cardInfo.trim().substring(0, cardInfo.indexOf('='));
+                                try {
+                                    jsonElement = jsonParser.parse(cardInfo).asObject();
+                                    CommonUtil.putCargo(TLSResult.CARD_INFO, cardInfo);
+                                } catch (Exception e) {
+                                    return null;
+                                }
+                                return jsonElement.getString(TwoInOneCardConductor.CARD_NO);
                             }
                         case CommonConstants.IC_CARD_STATE:
                             if (debugMode != null) {
@@ -171,7 +184,14 @@ public class Read2In1CardAction extends ReadCardAction {
                                 getLogger(Swipe2In1CardTask.class.getName()).log(Level.INFO,
                                         "Reading information {0} from IC card", cardInfo);
                                 // need to change raw card information format
-                                return cardInfo.trim();
+                                //return cardInfo.trim();
+                                try {
+                                    jsonElement = jsonParser.parse(cardInfo).asObject();
+                                    CommonUtil.putCargo(TLSResult.CARD_INFO, cardInfo);
+                                } catch (Exception e) {
+                                    return null;
+                                }
+                                return jsonElement.getString(TwoInOneCardConductor.CARD_NO);
                             }
                         case CommonConstants.INVALID_CARD_STATE:
                             break;

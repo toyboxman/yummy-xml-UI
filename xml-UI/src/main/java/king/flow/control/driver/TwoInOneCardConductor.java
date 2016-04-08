@@ -11,6 +11,8 @@ package king.flow.control.driver;
  */
 public class TwoInOneCardConductor {
 
+    public static final String CARD_NO = "cardno";
+
     /**
      * this method is targeting 2in1 type card-reading device, as caller doesn't
      * know card type, he should call this to make sure correct state

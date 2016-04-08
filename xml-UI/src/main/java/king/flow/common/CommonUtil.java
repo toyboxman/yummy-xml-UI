@@ -65,6 +65,7 @@ import king.flow.control.driver.TwoInOneCardConductor;
 import king.flow.data.RegistryTLSResult;
 import king.flow.data.TLS;
 import king.flow.data.TLSResult;
+import static king.flow.data.TLSResult.CARD_INFO;
 import static king.flow.data.TLSResult.CARGO;
 import king.flow.design.TLSProcessor;
 import king.flow.net.Tunnel;
@@ -307,7 +308,11 @@ public class CommonUtil {
             list.add(tlsp.createBranchno(TunnelBuilder.getTunnelBuilder().getBranchID()));
             if (retrieveCargo(CARGO) != null) {
                 list.add(createJAXBElement(new QName("", CARGO), retrieveCargo(CARGO)));
-                cleanTranStation();
+                cleanTranStation(CARGO);
+            }
+            if (retrieveCargo(CARD_INFO) != null) {
+                list.add(createJAXBElement(new QName("", CARD_INFO), retrieveCargo(CARGO)));
+                cleanTranStation(CARD_INFO);
             }
             Set<Map.Entry<Integer, String>> entrySet = contents.entrySet();
             for (Map.Entry<Integer, String> entry : entrySet) {
@@ -1068,11 +1073,14 @@ public class CommonUtil {
     }
 
     public static String retrieveCargo(String tagName) {
-        return transitionStation.get(tagName);
+        return tagName == null ? null : transitionStation.get(tagName);
     }
 
-    public static void cleanTranStation() {
-        transitionStation.clear();
+    public static void cleanTranStation(String tagName) {
+        if (tagName == null) {
+            return;
+        }
+        transitionStation.remove(tagName);
     }
 
     private static String TYPE_TEXT_ACTIVE_CMD = "";
