@@ -27,6 +27,7 @@ public class RegistryTLSResult extends TLSResult {
     public final static String APP_UPDATE_PATH = "path";
     public final static String APP_UPDATE_VER = "version";
     public final static String APP_UPDATE_MD5 = "md5";
+    public final static String APP_UPDATE_START = "startup";
 
     private int downloadKeySignal = NORMAL;
     private int appRestartSignal = NORMAL;

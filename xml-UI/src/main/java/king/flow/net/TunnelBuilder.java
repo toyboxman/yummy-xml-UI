@@ -28,6 +28,7 @@ import king.flow.data.RegistryTLSResult;
 import static king.flow.data.RegistryTLSResult.APP_UPDATE_MD5;
 import static king.flow.data.RegistryTLSResult.APP_UPDATE_PATH;
 import static king.flow.data.RegistryTLSResult.APP_UPDATE_VER;
+import static king.flow.data.RegistryTLSResult.APP_UPDATE_START;
 import king.flow.net.update.UpdateTools;
 import king.flow.net.update.http.HttpUpdateTool;
 
@@ -168,12 +169,15 @@ public class TunnelBuilder {
                         String version = null;
                         String appUpdatePath = null;
                         String appUpdateMd5 = null;
+                        String appStartName = null;
+                        JsonObject updateProperties = null;
                         if (appUpdateFile != null) {
                             JsonParser jsonParser = new JsonParser();
-                            JsonObject updateList = jsonParser.parse(appUpdateFile).asObject();
-                            version = updateList.getString(APP_UPDATE_VER);
-                            appUpdatePath = updateList.getString(APP_UPDATE_PATH);
-                            appUpdateMd5 = updateList.getString(APP_UPDATE_MD5);
+                            updateProperties = jsonParser.parse(appUpdateFile).asObject();
+                            version = updateProperties.getString(APP_UPDATE_VER);
+                            appUpdatePath = updateProperties.getString(APP_UPDATE_PATH);
+                            appUpdateMd5 = updateProperties.getString(APP_UPDATE_MD5);
+                            appStartName = updateProperties.getString(APP_UPDATE_START);
                         }
                         StringBuilder sb = new StringBuilder().append('[')
                                 .append("systemRestartSignal : ").append(systemRestartSignal).append(",\n")
@@ -182,16 +186,19 @@ public class TunnelBuilder {
                                 .append("appUpdateSignal : ").append(appUpdateSignal).append(",\n")
                                 .append("version : ").append(version).append(",\n")
                                 .append("appUpdatePath : ").append(appUpdatePath).append(",\n")
+                                .append("appStartName : ").append(appStartName).append(",\n")
                                 .append("appUpdateMd5 : ").append(appUpdateMd5)
                                 .append(']');
                         getLogger(HeartBeatTask.class.getName()).log(Level.INFO,
                                 "Received registration response message \n {0}", sb.toString());
                         if (systemRestartSignal == RESTART_SIGNAL) {
                             //restart operation system
-                            getLogger(HeartBeatTask.class.getName()).log(Level.WARNING, "Restart OS now");
+                            getLogger(HeartBeatTask.class.getName()).log(Level.WARNING,
+                                    "Try to restart OS now...");
                         } else if (appRestartSignal == RESTART_SIGNAL) {
                             //restart bankapp
-                            getLogger(HeartBeatTask.class.getName()).log(Level.WARNING, "Restart app now");
+                            getLogger(HeartBeatTask.class.getName()).log(Level.WARNING,
+                                    "Try to restart application now...");
                             setTerminalStatus(RESTART);
                             Window window = getCurrentView();
                             window.dispose();
@@ -199,19 +206,25 @@ public class TunnelBuilder {
                         } else if (downloadKeySignal == DOWNLOAD_KEY_SIGNAL) {
                             //download keyboard cipher key again
                             getLogger(HeartBeatTask.class.getName()).log(Level.WARNING,
-                                    "Download keyboard cipher key now");
+                                    "Try to download keyboard cipher key now...");
                             new DownloadCipherKey().execute();
                         } else if (appUpdateSignal == UPDATE_SIGNAL) {
-                            getLogger(HeartBeatTask.class.getName()).log(Level.WARNING, "Update app now");
-                            HttpUpdateTool updateTool = UpdateTools.getUpdateTool().createHttpUpdateTool(version,
-                                    new URL(appUpdatePath), appUpdateMd5);
+                            getLogger(HeartBeatTask.class.getName()).log(Level.WARNING,
+                                    "Try to update application now...");
+                            HttpUpdateTool updateTool = UpdateTools.getUpdateTool().createHttpUpdateTool(updateProperties);
                             File downloadFile = updateTool.downloadFile(updateTool.getUpdateUrl());
                             boolean isComprehensive = updateTool.checkSumFile(downloadFile, updateTool.getMd5());
                             if (isComprehensive) {
                                 boolean success = updateTool.updateApp(new ZipFile(downloadFile));
                                 if (success) {
                                     System.exit(0);
+                                } else {
+                                    getLogger(HeartBeatTask.class.getName()).log(Level.SEVERE,
+                                        "Fail to udpate application due to internal errors");
                                 }
+                            } else {
+                                getLogger(HeartBeatTask.class.getName()).log(Level.SEVERE,
+                                        "Fail to download udpate package from {0}", appUpdatePath);
                             }
                         }
                     } else {

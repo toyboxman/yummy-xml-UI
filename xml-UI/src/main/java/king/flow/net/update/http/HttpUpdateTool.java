@@ -3,6 +3,7 @@
  */
 package king.flow.net.update.http;
 
+import com.github.jsonj.JsonObject;
 import com.google.common.hash.HashCode;
 import com.google.common.hash.Hashing;
 import com.google.common.io.Files;
@@ -20,6 +21,10 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonUtil.getLogger;
+import static king.flow.data.RegistryTLSResult.APP_UPDATE_MD5;
+import static king.flow.data.RegistryTLSResult.APP_UPDATE_PATH;
+import static king.flow.data.RegistryTLSResult.APP_UPDATE_START;
+import static king.flow.data.RegistryTLSResult.APP_UPDATE_VER;
 import king.flow.net.update.Update;
 import static king.flow.net.update.Update.Protocol.HTTP;
 import org.apache.commons.io.FileUtils;
@@ -34,8 +39,8 @@ import org.apache.commons.io.IOUtils;
  */
 public class HttpUpdateTool implements Update {
 
-    private static final String BANKAPP_UPDATE_FOLDER_PREFIX = "../bankapp_";
-    private static final String BANK_EXE = "bank.exe";
+    private static final String APP_UPDATE_FOLDER_PREFIX = "../app_";
+    private static final String STARTUP_EXE = "bank.exe";
     private static final String UPDATE_FILE = "update.zip";
     private final String version;
     private final URL updateUrl;
@@ -43,12 +48,16 @@ public class HttpUpdateTool implements Update {
     private final String updateFolderPath;
     private final String startupCommand;
 
-    public HttpUpdateTool(String upgradeVersion, URL upgradeUrl, String md5Value) {
-        this.version = CommonConstants.VERSION.equals(upgradeVersion) ? (upgradeVersion + Math.random()) : upgradeVersion;
-        this.updateUrl = upgradeUrl;
-        this.md5 = md5Value;
-        this.updateFolderPath = BANKAPP_UPDATE_FOLDER_PREFIX + this.version;
-        this.startupCommand = this.updateFolderPath + File.separator + BANK_EXE;
+    public HttpUpdateTool(JsonObject updateProperties) throws MalformedURLException {
+        String upgradeVersion = updateProperties.getString(APP_UPDATE_VER);
+        this.version = CommonConstants.VERSION.equals(upgradeVersion)
+                ? (upgradeVersion + Math.random()) : upgradeVersion;
+        this.updateUrl = new URL(updateProperties.getString(APP_UPDATE_PATH));
+        this.md5 = updateProperties.getString(APP_UPDATE_MD5);
+        String appStartName = updateProperties.getString(APP_UPDATE_START);
+        this.updateFolderPath = APP_UPDATE_FOLDER_PREFIX + this.version;
+        this.startupCommand = this.updateFolderPath + File.separator
+                + (appStartName == null ? STARTUP_EXE : appStartName);
     }
 
     public String getVersion() {
@@ -171,7 +180,7 @@ public class HttpUpdateTool implements Update {
     }
 
     public static void main(String[] args) throws MalformedURLException, IOException {
-        URL url = new URL("http://10.117.5.10/bankApp-upgrade.zip");
+        /*URL url = new URL("http://10.117.5.10/bankApp-upgrade.zip");
         final String md5 = "81adb2fc08a7f3e40ea805a37ed24ede";
         final String ver = "2.1";
         HttpUpdateTool httpUpdateTool = new HttpUpdateTool(ver, url, md5);
@@ -189,7 +198,7 @@ public class HttpUpdateTool implements Update {
         } else {
             getLogger(HttpUpdateTool.class.getName()).log(Level.INFO,
                     "updated file verifies and get erroneous result");
-        }
+        }*/
     }
 
 }

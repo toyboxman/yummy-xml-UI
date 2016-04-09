@@ -5,7 +5,8 @@
  */
 package king.flow.net.update;
 
-import java.net.URL;
+import com.github.jsonj.JsonObject;
+import java.net.MalformedURLException;
 import king.flow.net.update.http.HttpUpdateTool;
 
 /**
@@ -27,8 +28,7 @@ public class UpdateTools {
         }
     }
     
-    public HttpUpdateTool createHttpUpdateTool(String upgradeVersion,
-            URL upgradeUrl, String md5Value) {
-        return new HttpUpdateTool(upgradeVersion, upgradeUrl, md5Value);
+    public HttpUpdateTool createHttpUpdateTool(JsonObject updateProperties) throws MalformedURLException {
+        return new HttpUpdateTool(updateProperties);
     }
 }
