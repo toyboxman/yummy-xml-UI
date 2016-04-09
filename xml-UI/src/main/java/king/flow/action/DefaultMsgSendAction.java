@@ -340,12 +340,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     panelJump(forwardPage);
                 } else {
                     panelJump(next.getNextPanel());
-                    Integer nextCursor = next.getNextCursor();
-                    if (nextCursor != null && getBlockMeta(nextCursor) != null) {
-                        JComponent block = getBlock(nextCursor, JComponent.class);
-                        block.requestFocusInWindow();
-                    }
-                    
+
                     //trigger the action denoted in sendMsgAction
                     Integer trigger = next.getTrigger();
                     if (trigger != null && getBlockMeta(trigger) != null) {
@@ -378,7 +373,12 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                                 break;
                         }
                     }//trigger dealing 
-
+                    //keep next cursor on correct component
+                    Integer nextCursor = next.getNextCursor();
+                    if (nextCursor != null && getBlockMeta(nextCursor) != null) {
+                        JComponent block = getBlock(nextCursor, JComponent.class);
+                        block.requestFocusInWindow();
+                    }
                 }// no redirection branch
             }
         });
