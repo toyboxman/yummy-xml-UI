@@ -65,7 +65,6 @@ import king.flow.control.driver.TwoInOneCardConductor;
 import king.flow.data.RegistryTLSResult;
 import king.flow.data.TLS;
 import king.flow.data.TLSResult;
-import static king.flow.data.TLSResult.CARD_INFO;
 import static king.flow.data.TLSResult.CARGO;
 import king.flow.design.TLSProcessor;
 import king.flow.net.Tunnel;
@@ -85,6 +84,7 @@ import static king.flow.view.FontstyleEnum.BOLD;
 import static king.flow.view.FontstyleEnum.ITALIC;
 import static king.flow.view.FontstyleEnum.PLAIN;
 import org.w3c.dom.DOMException;
+import static king.flow.data.TLSResult.UNIONPAY_CARD_INFO;
 
 /**
  *
@@ -310,9 +310,10 @@ public class CommonUtil {
                 list.add(createJAXBElement(new QName("", CARGO), retrieveCargo(CARGO)));
                 cleanTranStation(CARGO);
             }
-            if (retrieveCargo(CARD_INFO) != null) {
-                list.add(createJAXBElement(new QName("", CARD_INFO), retrieveCargo(CARGO)));
-                cleanTranStation(CARD_INFO);
+            if (retrieveCargo(UNIONPAY_CARD_INFO) != null) {
+                list.add(createJAXBElement(new QName("", UNIONPAY_CARD_INFO),
+                        retrieveCargo(UNIONPAY_CARD_INFO)));
+                cleanTranStation(UNIONPAY_CARD_INFO);
             }
             Set<Map.Entry<Integer, String>> entrySet = contents.entrySet();
             for (Map.Entry<Integer, String> entry : entrySet) {

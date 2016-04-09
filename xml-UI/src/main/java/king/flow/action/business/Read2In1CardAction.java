@@ -162,7 +162,7 @@ public class Read2In1CardAction extends ReadCardAction {
                                 //return cardInfo.trim().substring(0, cardInfo.indexOf('='));
                                 try {
                                     jsonElement = jsonParser.parse(cardInfo).asObject();
-                                    CommonUtil.putCargo(TLSResult.CARD_INFO, cardInfo);
+                                    CommonUtil.putCargo(TLSResult.UNIONPAY_CARD_INFO, cardInfo);
                                 } catch (Exception e) {
                                     return null;
                                 }
@@ -187,7 +187,7 @@ public class Read2In1CardAction extends ReadCardAction {
                                 //return cardInfo.trim();
                                 try {
                                     jsonElement = jsonParser.parse(cardInfo).asObject();
-                                    CommonUtil.putCargo(TLSResult.CARD_INFO, cardInfo);
+                                    CommonUtil.putCargo(TLSResult.UNIONPAY_CARD_INFO, cardInfo);
                                 } catch (Exception e) {
                                     return null;
                                 }
