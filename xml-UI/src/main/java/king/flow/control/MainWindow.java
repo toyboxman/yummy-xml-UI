@@ -1649,11 +1649,20 @@ public class MainWindow {
         ComponentEnum ctype = component.getType();
         switch (ctype) {
             case BUTTON:
-//                JButton jButton = new JButton();
                 JButton jButton = new JXButton();
                 jcomponent = jButton;
                 if (icon != null && icon.length() > 0) {
-                    jButton.setIcon(getImageIcon(icon));
+                    ArrayList<String> iconList = buildListParameters(icon);
+                    if (iconList.size() >= 3) {
+                        jButton.setIcon(getImageIcon(iconList.get(0)));
+                        jButton.setPressedIcon(getImageIcon(iconList.get(1)));
+                        jButton.setDisabledIcon(getImageIcon(iconList.get(2)));
+                    } else if(iconList.size() == 2){
+                        jButton.setIcon(getImageIcon(iconList.get(0)));
+                        jButton.setPressedIcon(getImageIcon(iconList.get(1)));
+                    } else {
+                        jButton.setIcon(getImageIcon(icon));
+                    }
                     jButton.setHorizontalTextPosition(JButton.CENTER);
                     jButton.setVerticalTextPosition(JButton.CENTER);
                 }
