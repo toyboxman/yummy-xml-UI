@@ -87,7 +87,8 @@ public class HttpUpdateTool implements Update {
             FileUtils.forceMkdir(updateFolder);
         } catch (IOException ex) {
             Logger.getLogger(HttpUpdateTool.class.getName()).log(Level.SEVERE,
-                    "mkDir for NewBankApp failed ", ex);
+                    "mkDir operation[{0}] for NewVersionApp failed due to: \n{1}",
+                    new Object[]{this.updateFolderPath, ex});
         }
         return updateFolder;
     }
@@ -103,7 +104,7 @@ public class HttpUpdateTool implements Update {
             }
         } catch (IOException ex) {
             getLogger(HttpUpdateTool.class.getName()).log(Level.SEVERE,
-                    "downloaded upgraded file and failed", ex);
+                    "fail to download upgraded file due to : \n{0}", ex);
         }
         return updateFile;
     }
@@ -123,7 +124,7 @@ public class HttpUpdateTool implements Update {
                 }
             } catch (IOException ex) {
                 Logger.getLogger(HttpUpdateTool.class.getName()).log(Level.SEVERE,
-                        "caculated md5 and failed", ex);
+                        "fail to caculate md5 of update package due to : \n{0}", ex);
                 return false;
             }
         } else {
@@ -172,7 +173,8 @@ public class HttpUpdateTool implements Update {
              getLogger(HttpUpdateTool.class.getName()).log(Level.INFO,
              "new bankapp directory has been created");*/
         } catch (IOException exception) {
-            getLogger(HttpUpdateTool.class.getName()).log(Level.SEVERE, "fail to upgrade file", exception);
+            getLogger(HttpUpdateTool.class.getName()).log(Level.SEVERE,
+                    "fail to upgrade app due to : \n{0}", exception);
             return false;
         }
 
