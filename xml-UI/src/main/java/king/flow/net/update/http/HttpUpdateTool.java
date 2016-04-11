@@ -14,6 +14,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.nio.charset.Charset;
 import java.util.Enumeration;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -75,6 +76,10 @@ public class HttpUpdateTool implements Update {
     @Override
     public Protocol getProtocolType() {
         return HTTP;
+    }
+
+    public String getUpdateFolderPath() {
+        return updateFolderPath;
     }
 
     @Override
@@ -158,12 +163,13 @@ public class HttpUpdateTool implements Update {
 //                    + "mkshortcut.vbs /target:\"" + workingFolder.getCanonicalPath() + "\"";
             Runtime.getRuntime().exec(makeShortcut, null, workingFolder);
             getLogger(HttpUpdateTool.class.getName()).log(Level.INFO,
-                    "create bank app shortcut on desktop, running {0}", makeShortcut);
+                    "create application shortcut on desktop, running {0}", makeShortcut);
 
             //2.start bankApp
             Runtime.getRuntime().exec(this.startupCommand);
             getLogger(HttpUpdateTool.class.getName()).log(Level.INFO,
-                    "new version bankapp has been started");
+                    "application version[{0}] has been started, running {1}",
+                    new Object[]{this.version, this.startupCommand});
 
             //3.change folder name
             /*FileUtils.moveDirectory(workingFolder, new File("../bankapp"));
@@ -182,25 +188,35 @@ public class HttpUpdateTool implements Update {
     }
 
     public static void main(String[] args) throws MalformedURLException, IOException {
-        /*URL url = new URL("http://10.117.5.10/bankApp-upgrade.zip");
-        final String md5 = "81adb2fc08a7f3e40ea805a37ed24ede";
+        URL url = new URL("http://10.117.5.10/Downloads/Bank_8.0.2.zip");
+        final String md5 = "f6d051013775d1f42c0315c072f2cdba";
         final String ver = "2.1";
-        HttpUpdateTool httpUpdateTool = new HttpUpdateTool(ver, url, md5);
+        JsonObject updateProperties = new JsonObject();
+        updateProperties.put(APP_UPDATE_VER, ver);
+        updateProperties.put(APP_UPDATE_PATH, url.toString());
+        updateProperties.put(APP_UPDATE_MD5, md5);
 
-        getLogger(HttpUpdateTool.class.getName()).log(Level.INFO, "start to download upgraded files");
-        File downloadedFile = httpUpdateTool.downloadFile(url);
-        getLogger(HttpUpdateTool.class.getName()).log(Level.INFO, "download is over");
-
-        boolean result = httpUpdateTool.checkSumFile(downloadedFile, md5);
-        if (result) {
-            getLogger(HttpUpdateTool.class.getName()).log(Level.INFO,
-                    "updated file verifies successfully");
-            ZipFile zipFile = new ZipFile(downloadedFile);
-            httpUpdateTool.updateApp(zipFile);
+        getLogger(HttpUpdateTool.class.getName()).log(Level.WARNING,
+                "Try to update application now...");
+        HttpUpdateTool updateTool = new HttpUpdateTool(updateProperties);
+        File downloadFile = updateTool.downloadFile(updateTool.getUpdateUrl());
+        boolean isComprehensive = updateTool.checkSumFile(downloadFile, updateTool.getMd5());
+        if (isComprehensive) {
+            Charset CP866 = Charset.forName("CP866");
+            //boolean success = updateTool.updateApp(new ZipFile(downloadFile, CP866));
+            Charset GB2312 = Charset.forName("GB2312");
+            boolean success = updateTool.updateApp(new ZipFile(downloadFile, GB2312));
+            //boolean success = updateTool.updateApp(new ZipFile(downloadFile));
+            if (success) {
+                System.exit(0);
+            } else {
+                getLogger(HttpUpdateTool.class.getName()).log(Level.SEVERE,
+                        "Fail to udpate application due to internal errors");
+            }
         } else {
-            getLogger(HttpUpdateTool.class.getName()).log(Level.INFO,
-                    "updated file verifies and get erroneous result");
-        }*/
+            getLogger(HttpUpdateTool.class.getName()).log(Level.SEVERE,
+                    "Fail to download udpate package from {0}", updateProperties.get(APP_UPDATE_PATH));
+        }
     }
 
 }

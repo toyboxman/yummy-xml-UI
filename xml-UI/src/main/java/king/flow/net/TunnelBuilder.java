@@ -4,7 +4,7 @@ import com.github.jsonj.JsonObject;
 import com.github.jsonj.tools.JsonParser;
 import java.awt.Window;
 import java.io.File;
-import java.net.URL;
+import java.nio.charset.Charset;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.logging.Level;
@@ -215,12 +215,16 @@ public class TunnelBuilder {
                             File downloadFile = updateTool.downloadFile(updateTool.getUpdateUrl());
                             boolean isComprehensive = updateTool.checkSumFile(downloadFile, updateTool.getMd5());
                             if (isComprehensive) {
-                                boolean success = updateTool.updateApp(new ZipFile(downloadFile));
+                                Charset GB2312 = Charset.forName("GB2312");
+                                boolean success = updateTool.updateApp(new ZipFile(downloadFile, GB2312));
                                 if (success) {
+                                    getLogger(HeartBeatTask.class.getName()).log(Level.INFO,
+                                            "Succeed in updating application, new application entry is :\n{0}",
+                                            updateTool.getUpdateFolderPath());
                                     System.exit(0);
                                 } else {
                                     getLogger(HeartBeatTask.class.getName()).log(Level.SEVERE,
-                                        "Fail to udpate application due to internal errors");
+                                            "Fail to udpate application due to internal errors");
                                 }
                             } else {
                                 getLogger(HeartBeatTask.class.getName()).log(Level.SEVERE,
