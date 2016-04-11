@@ -11,7 +11,10 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.Timer;
+import java.util.TimerTask;
 import java.util.concurrent.ExecutionException;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.ImageIcon;
@@ -152,7 +155,8 @@ public class BankAppStarter {
             Thread.sleep(2000);
             Runtime.getRuntime().exec(CommonUtil.getTypeMethodUnactiveCmd());
         } catch (IOException | InterruptedException ex) {
-            Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE, "fail to initiative chinese text type tool due to {0}", ex.getMessage());
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE,
+                    "fail to initiative chinese text type tool due to {0}", ex.getMessage());
         }
     }
 
@@ -173,6 +177,13 @@ public class BankAppStarter {
         if (imageIcon != null) {
             msgDialog.setIconImage(imageIcon.getImage());
         }
+        new Timer().schedule(new TimerTask() {
+            @Override
+            public void run() {
+                msgDialog.setVisible(false);
+                msgDialog.dispose();
+            }
+        }, TimeUnit.SECONDS.toMillis(6));
         msgDialog.setVisible(true);
     }
 
@@ -317,9 +328,11 @@ public class BankAppStarter {
         protected void done() {
             try {
                 showTip = !get();
-                Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO, "get download key result : {0}", get());
+                Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO,
+                        "get download key result : {0}", get());
             } catch (NullPointerException | InterruptedException | ExecutionException ex) {
-                Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE, "fail to download cipher key due to {0}", ex.getMessage());
+                Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE,
+                        "fail to download cipher key due to {0}", ex.getMessage());
                 showTip = true;
             } finally {
                 splash.setVisible(false);
