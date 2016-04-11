@@ -18,6 +18,7 @@ import static king.flow.common.CommonConstants.REGISTRY_MSG_CODE;
 import static king.flow.common.CommonConstants.RESTART_SIGNAL;
 import static king.flow.common.CommonConstants.SUCCESSFUL_MSG_CODE;
 import static king.flow.common.CommonConstants.UPDATE_SIGNAL;
+import king.flow.common.CommonUtil;
 import king.flow.common.CommonUtil.DownloadCipherKey;
 import static king.flow.common.CommonUtil.TerminalStatus.RESTART;
 import static king.flow.common.CommonUtil.getCurrentView;
@@ -81,6 +82,9 @@ public class TunnelBuilder {
             this.unionPayID = tsp.getRegistration().getUnionPayID();
             this.branchID = tsp.getRegistration().getBranchno();
             this.period = tsp.getRegistration().getHeartbeat();
+            if (tsp.getMisc() != null) {
+                CommonUtil.setBankCardPrefix(tsp.getMisc().getBankCardPrefix());
+            }
         } catch (JAXBException ex) {
             getLogger(TunnelBuilder.class.getName()).log(Level.SEVERE, null, ex);
         }

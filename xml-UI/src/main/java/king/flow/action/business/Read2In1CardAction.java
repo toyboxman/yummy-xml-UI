@@ -212,6 +212,7 @@ public class Read2In1CardAction extends ReadCardAction {
             try {
                 String cardNumber = get();
                 if (cardNumber == null) {
+                    CommonUtil.cleanTranStation(CommonConstants.VALID_BANK_CARD);
                     switch (cardReadingState) {
                         case CommonConstants.MAGNET_CARD_STATE:
                             showMsg(owner.getTopLevelAncestor(),
@@ -227,6 +228,7 @@ public class Read2In1CardAction extends ReadCardAction {
                     }
                 } else {
                     owner.setSelectedItem(cardNumber);
+                    CommonUtil.putCargo(CommonConstants.VALID_BANK_CARD, cardNumber);
                     if (nextFocus != id) {
                         owner.setFocusable(false); //prevent refocus action from playing wav file
                         getBlock(nextFocus, JComponent.class).requestFocusInWindow(); // switch focus
@@ -234,7 +236,9 @@ public class Read2In1CardAction extends ReadCardAction {
                     }
                 }
             } catch (InterruptedException | ExecutionException ex) {
-                getLogger(ReadCardAction.class.getName()).log(Level.SEVERE, "fail to read card information due to error {0}", ex.getMessage());
+                CommonUtil.cleanTranStation(CommonConstants.VALID_BANK_CARD);
+                getLogger(ReadCardAction.class.getName()).log(Level.SEVERE,
+                        "fail to read card information due to error {0}", ex.getMessage());
                 showMsg(owner.getTopLevelAncestor(),
                         getResourceMsg("operation.card.read.error"));
             }

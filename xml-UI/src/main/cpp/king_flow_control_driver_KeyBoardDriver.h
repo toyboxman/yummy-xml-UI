@@ -47,6 +47,38 @@ JNIEXPORT jstring JNICALL Java_king_flow_control_driver_KeyBoardDriver_closePin
 JNIEXPORT jstring JNICALL Java_king_flow_control_driver_KeyBoardDriver_getPin
   (JNIEnv *, jobject, jstring, jstring, jstring);
 
+/*
+ * Class:     king_flow_control_driver_KeyBoardDriver
+ * Method:    OpenComm
+ * Signature: (Ljava/lang/String;Ljava/lang/String;)I
+ */
+JNIEXPORT jint JNICALL Java_king_flow_control_driver_KeyBoardDriver_OpenComm
+  (JNIEnv *, jobject, jstring, jstring);
+
+/*
+ * Class:     king_flow_control_driver_KeyBoardDriver
+ * Method:    ScanKeyPress
+ * Signature: (Ljava/lang/String;)Ljava/lang/String;
+ */
+JNIEXPORT jstring JNICALL Java_king_flow_control_driver_KeyBoardDriver_ScanKeyPress
+  (JNIEnv *, jobject, jstring);
+
+/*
+ * Class:     king_flow_control_driver_KeyBoardDriver
+ * Method:    GetPinblock
+ * Signature: (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ */
+JNIEXPORT jstring JNICALL Java_king_flow_control_driver_KeyBoardDriver_GetPinblock
+  (JNIEnv *, jobject, jstring, jstring, jstring);
+
+/*
+ * Class:     king_flow_control_driver_KeyBoardDriver
+ * Method:    CloseComm
+ * Signature: (Ljava/lang/String;Ljava/lang/String;)I
+ */
+JNIEXPORT jint JNICALL Java_king_flow_control_driver_KeyBoardDriver_CloseComm
+  (JNIEnv *, jobject, jstring, jstring);
+
 #ifdef __cplusplus
 }
 #endif

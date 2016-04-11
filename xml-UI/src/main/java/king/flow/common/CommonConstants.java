@@ -53,6 +53,7 @@ public class CommonConstants {
     public static final String UID_PREFIX = "<" + TLSResult.UID + ">";
     public static final String UID_AFFIX = "</" + TLSResult.UID + ">";
     public static final String DEFAULT_DATE_FORMATE = "yyyy-MM-dd";
+    public static final String VALID_BANK_CARD = "validBankCard";
     public static final int CONTAINER_KEY = Integer.MAX_VALUE;
     public static final int NORMAL = 0;
     public static final int ABNORMAL = 1;

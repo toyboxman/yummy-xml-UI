@@ -155,18 +155,21 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     contents.put(id, value);
                     break;
                 case PASSWORD_FIELD:
-                    JPasswordField jpf = (JPasswordField) condition.getComponent();
+                    /*JPasswordField jpf = (JPasswordField) condition.getComponent();
                     final String unwrapped = new String(jpf.getPassword());
                     if (unwrapped.length() > 0) {
                         try {
                             value = CommonUtil.inputString(unwrapped);
                         } catch (Throwable e) {
-                            getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING, "crypto keyboard is out of work due to\n {0}", shapeErrPrompt(e));
+                            getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
+                                    "crypto keyboard is out of work due to\n {0}", shapeErrPrompt(e));
                             value = unwrapped;
                         }
                     } else {
                         value = unwrapped;
-                    }
+                    }*/
+                    value = CommonUtil.retrieveCargo(Integer.toString(id));
+                    CommonUtil.cleanTranStation(Integer.toString(id));
                     contents.put(id, value);
                     break;
                 default:

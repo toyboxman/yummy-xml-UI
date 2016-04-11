@@ -750,6 +750,93 @@ public class CommonUtil {
         return result;
     }
 
+    public static int openEncryptedKeyboard() {
+        int result = -1;
+        try {
+            System.loadLibrary(getDriverDll(KEYBOARD));
+            KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
+            String errMsg = "";
+            result = keyBoardDriver.OpenComm(getDriverPort(KEYBOARD), errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{KEYBOARD.value(), t.getMessage()});
+        }
+        return result;
+    }
+
+    public static int closeEncryptedKeyboard() {
+        int result = -1;
+        try {
+            System.loadLibrary(getDriverDll(KEYBOARD));
+            KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
+            String errMsg = "";
+            result = keyBoardDriver.CloseComm(getDriverPort(KEYBOARD), errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{KEYBOARD.value(), t.getMessage()});
+        }
+        return result;
+    }
+
+    public static String readEncryptedString(JPasswordField password) {
+        String result = null;
+        try {
+            System.loadLibrary(getDriverDll(KEYBOARD));
+            KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
+            String errMsg = "";
+            StringBuilder sb = new StringBuilder();
+            long start = System.currentTimeMillis();
+            while (true) {
+                long now = System.currentTimeMillis();
+                long duration = TimeUnit.MILLISECONDS.toSeconds(now - start);
+                if (duration > 20) {
+                    CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                            "read pin time out");
+                    break;
+                }
+                String ch = keyBoardDriver.ScanKeyPress(errMsg);
+                if (ch == null || ch.length() == 0) {
+                    continue;
+                }
+
+                switch (ch.indexOf(0)) {
+                    case 0x08://backspace
+                        if (sb.length() > 0) {
+                            sb.deleteCharAt(sb.length() - 1);
+                        }
+                        break;
+                    case 0xFF:
+                    case 0x1b:
+                        sb.delete(0, sb.length() - 1);
+                        break;
+                    case 0x0d:
+                        if (sb.length() > 3) {
+                            CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                    "read pin ends up");
+                            String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
+                            String cardType = isIssuedBankCard(cardNum) ? "1" : "2";
+                            result = keyBoardDriver.GetPinblock(cardNum, cardType, errMsg);
+                            CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                    "final reuslt {0}", result);
+                        }
+                        break;
+                    default:
+                        CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                "useful keyborad type value {0}", Integer.toHexString(ch.indexOf(0)));
+                        sb.append(ch);
+                }
+                password.setText(sb.toString());
+            }
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{KEYBOARD.value(), t.getMessage()});
+        }
+        return result;
+    }
+
     public static String inputString(String str) {
         String transformer = str;
         try {
@@ -1170,5 +1257,22 @@ public class CommonUtil {
     public static boolean isActionSupport(Component component, String actionName) {
         return CommonConstants.ACTION_COMPONENT_MAP.get(component.getType()) == null
                 ? false : CommonConstants.ACTION_COMPONENT_MAP.get(component.getType()).contains(actionName);
+    }
+
+    static List<String> bankCardPrefix = null;
+
+    public static void setBankCardPrefix(List<String> bankCardPrefix) {
+        CommonUtil.bankCardPrefix = bankCardPrefix;
+    }
+
+    public static boolean isIssuedBankCard(String cardNum) {
+        if (bankCardPrefix != null || bankCardPrefix.size() > 0) {
+            for (String prefix : bankCardPrefix) {
+                if (cardNum.startsWith(prefix)) {
+                    return true;
+                }
+            }
+        }
+        return false;
     }
 }

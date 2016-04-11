@@ -27,6 +27,17 @@
                         </xs:all>
                     </xs:complexType>
                 </xs:element>
+                <xs:element name="misc" maxOccurs="1" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="bankCardPrefix" maxOccurs="1" minOccurs="0">
+                                <xs:simpleType>
+                                    <xs:list itemType='xs:string'/>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
