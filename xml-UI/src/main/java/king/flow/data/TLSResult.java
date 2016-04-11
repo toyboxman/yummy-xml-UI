@@ -28,6 +28,7 @@ public class TLSResult {
     public final static String UID = _Uid_QNAME.getLocalPart();
     public final static String PRT_MSG = "prtmsg";
     public final static String UNIONPAY_CARD_INFO = "unioninfo";
+    public final static String UNIONPAY_MAC_INFO = "unionMAC";
 
     private int retCode;
     private String okMsg;

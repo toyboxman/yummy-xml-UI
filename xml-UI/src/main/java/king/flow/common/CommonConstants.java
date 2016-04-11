@@ -13,8 +13,8 @@ import java.util.List;
 import java.util.Map;
 import king.flow.action.business.ShowClockAction;
 import king.flow.data.TLSResult;
-import king.flow.view.Action;
 import king.flow.view.Action.CleanAction;
+import king.flow.view.Action.EncryptKeyboardAction;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Action.LimitInputAction;
 import king.flow.view.Action.MoveCursorAction;
@@ -33,6 +33,7 @@ import king.flow.view.Action.SwipeCardAction;
 import king.flow.view.Action.UploadFileAction;
 import king.flow.view.Action.UseTipAction;
 import king.flow.view.Action.VirtualKeyboardAction;
+import king.flow.view.Action.WriteICardAction;
 import king.flow.view.ComponentEnum;
 import king.flow.view.DefinedAction;
 import king.flow.view.JumpAction;
@@ -138,15 +139,16 @@ public class CommonConstants {
     public static final String OPEN_VIRTUAL_KEYBOARD_ACTION = VirtualKeyboardAction.class.getSimpleName();
     public static final String PRINT_RECEIPT_ACTION = SetPrinterAction.class.getSimpleName();
     public static final String INSERT_IC_ACTION = InsertICardAction.class.getSimpleName();
-    public static final String WRITE_IC_ACTION = Action.WriteICardAction.class.getSimpleName();
+    public static final String WRITE_IC_ACTION = WriteICardAction.class.getSimpleName();
     public static final String BALANCE_TRANS_ACTION = "BalanceTransAction";
     public static final String PRINT_PASSBOOK_ACTION = PrintPassbookAction.class.getSimpleName();
     public static final String UPLOAD_FILE_ACTION = UploadFileAction.class.getSimpleName();
     public static final String SWIPE_CARD_ACTION = SwipeCardAction.class.getSimpleName();
-    public static final String SWIPE_2IN1_CARD_ACTION = Swipe2In1CardAction.class.getSimpleName();
+    public static final String SWIPE_TWO_IN_ONE_CARD_ACTION = Swipe2In1CardAction.class.getSimpleName();
     public static final String READ_WRITE_FINGERPRINT_ACTION = RwFingerPrintAction.class.getSimpleName();
     public static final String PLAY_VIDEO_ACTION = PlayVideoAction.class.getSimpleName();
     public static final String CUSTOMIZED_ACTION = DefinedAction.class.getSimpleName();
+    public static final String ENCRYPT_KEYBORAD_ACTION = EncryptKeyboardAction.class.getSimpleName();
     static final Map<ComponentEnum, List<String>> ACTION_COMPONENT_MAP = new ImmutableMap.Builder<ComponentEnum, List<String>>()
             .put(ComponentEnum.BUTTON, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)
@@ -173,7 +175,7 @@ public class CommonConstants {
                     .add(USE_TIP_ACTION)
                     .add(SHOW_COMBOBOX_ACTION)
                     .add(SWIPE_CARD_ACTION)
-                    .add(SWIPE_2IN1_CARD_ACTION)
+                    .add(SWIPE_TWO_IN_ONE_CARD_ACTION)
                     .add(PLAY_MEDIA_ACTION)
                     .add(MOVE_CURSOR_ACTION)
                     .build())
@@ -201,6 +203,7 @@ public class CommonConstants {
                     .add(PLAY_MEDIA_ACTION)
                     .add(READ_WRITE_FINGERPRINT_ACTION)
                     .add(MOVE_CURSOR_ACTION)
+                    .add(ENCRYPT_KEYBORAD_ACTION)
                     .build())
             .put(ComponentEnum.TABLE, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)

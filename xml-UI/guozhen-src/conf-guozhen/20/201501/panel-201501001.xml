@@ -298,6 +298,11 @@
                 <media>./media/audio/gas_pay_password.wav</media>
             </playMediaAction>
         </action>
+        <action>
+            <encryptKeyboardAction>
+                <moneyId>201501012</moneyId>
+            </encryptKeyboardAction>
+        </action>
     </component>
     
     <decorator>

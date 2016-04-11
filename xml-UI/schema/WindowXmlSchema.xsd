@@ -337,6 +337,14 @@
                     </xs:all>
                 </xs:complexType>
             </xs:element>
+            
+            <xs:element name="encryptKeyboardAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="moneyId" type="xs:int"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
         </xs:sequence>
     </xs:complexType>
     
@@ -483,6 +491,7 @@
             <xs:enumeration  value="printer"/>
             <xs:enumeration  value="keyboard"/>
             <xs:enumeration  value="gzCard"/>
+            <xs:enumeration  value="pkg8583"/>
         </xs:restriction>
     </xs:simpleType>
     

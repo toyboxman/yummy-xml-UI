@@ -59,6 +59,7 @@ import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.BalanceTransAction;
 import king.flow.action.business.InsertCardAction;
+import king.flow.action.business.KeyboardEncryptAction;
 import king.flow.action.business.MoveCursorAction;
 import king.flow.action.business.OpenBrowserAction;
 import king.flow.action.business.PrintPassbookAction;
@@ -83,7 +84,6 @@ import static king.flow.common.CommonConstants.RUN_COMMAND_ACTION;
 import static king.flow.common.CommonConstants.SET_FONT_ACTION;
 import static king.flow.common.CommonConstants.SHOW_CLOCK_ACTION;
 import static king.flow.common.CommonConstants.SHOW_TABLE_ACTION;
-import static king.flow.common.CommonConstants.SWIPE_2IN1_CARD_ACTION;
 import static king.flow.common.CommonConstants.SWIPE_CARD_ACTION;
 import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
 import static king.flow.common.CommonConstants.UPLOAD_FILE_ACTION;
@@ -130,6 +130,7 @@ import king.flow.view.WindowEnum;
 import org.jdesktop.swingx.JXButton;
 import org.jdesktop.swingx.JXDatePicker;
 import org.jdesktop.swingx.JXLabel;
+import static king.flow.common.CommonConstants.SWIPE_TWO_IN_ONE_CARD_ACTION;
 
 /**
  *
@@ -424,6 +425,23 @@ public class MainWindow {
             validatePlayVideoAction(action.getPlayVideoAction(), component, panel, pageURI);
 
             validateShowClockAction(action.getShowClockAction(), component, panel, pageURI);
+
+            validateEncryptKeyboardAction(action.getEncryptKeyboardAction(), component, panel, pageURI);
+        }
+    }
+
+    private void validateEncryptKeyboardAction(king.flow.view.Action.EncryptKeyboardAction encryptKeyboardAction,
+            Component component, Panel panel, String pageURI) {
+        if (encryptKeyboardAction != null) {
+            final String actionName = encryptKeyboardAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
+            
+            int moneyId = encryptKeyboardAction.getMoneyId();
+            if (!this.meta_blocks.containsKey(moneyId)) {
+                promptNonexistentBlockErr(moneyId, actionName, "moneyId", component, panel, pageURI, null);
+            } else {
+                checkComponentType(moneyId, actionName, "moneyId", component, panel, pageURI);
+            }
         }
     }
 
@@ -751,7 +769,7 @@ public class MainWindow {
     private void validateSwipe2In1CardAction(king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction,
             Component component, Panel panel, String pageURI) {
         if (swipe2In1CardAction != null) {
-            checkSupportedAction(component, SWIPE_2IN1_CARD_ACTION, panel, pageURI);
+            checkSupportedAction(component, SWIPE_TWO_IN_ONE_CARD_ACTION, panel, pageURI);
         }
     }
 
@@ -1162,6 +1180,17 @@ public class MainWindow {
             doShowClockAction(actionNode, component);
 
             doBalanceTransAction(actionNode, component);
+
+            doEncryptKeyboardAction(actionNode, component);
+        }
+    }
+
+    private void doEncryptKeyboardAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.EncryptKeyboardAction encryptKeyboardAction = actionNode.getEncryptKeyboardAction();
+        if (encryptKeyboardAction != null) {
+            int moneyId = encryptKeyboardAction.getMoneyId();
+            KeyboardEncryptAction keyboardEncryptAction = new KeyboardEncryptAction(moneyId);
+            doAction(keyboardEncryptAction, component.getId());
         }
     }
 
@@ -1657,7 +1686,7 @@ public class MainWindow {
                         jButton.setIcon(getImageIcon(iconList.get(0)));
                         jButton.setPressedIcon(getImageIcon(iconList.get(1)));
                         jButton.setDisabledIcon(getImageIcon(iconList.get(2)));
-                    } else if(iconList.size() == 2){
+                    } else if (iconList.size() == 2) {
                         jButton.setIcon(getImageIcon(iconList.get(0)));
                         jButton.setPressedIcon(getImageIcon(iconList.get(1)));
                     } else {

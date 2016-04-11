@@ -60,6 +60,7 @@ import king.flow.control.driver.GzCardConductor;
 import king.flow.control.driver.ICCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
 import king.flow.control.driver.MagnetCardConductor;
+import king.flow.control.driver.PKG8583;
 import king.flow.control.driver.PrinterConductor;
 import king.flow.control.driver.TwoInOneCardConductor;
 import king.flow.data.RegistryTLSResult;
@@ -85,6 +86,8 @@ import static king.flow.view.FontstyleEnum.ITALIC;
 import static king.flow.view.FontstyleEnum.PLAIN;
 import org.w3c.dom.DOMException;
 import static king.flow.data.TLSResult.UNIONPAY_CARD_INFO;
+import static king.flow.data.TLSResult.UNIONPAY_MAC_INFO;
+import static king.flow.view.DeviceEnum.PKG_8583;
 
 /**
  *
@@ -314,6 +317,11 @@ public class CommonUtil {
                 list.add(createJAXBElement(new QName("", UNIONPAY_CARD_INFO),
                         retrieveCargo(UNIONPAY_CARD_INFO)));
                 cleanTranStation(UNIONPAY_CARD_INFO);
+            }
+             if (retrieveCargo(UNIONPAY_MAC_INFO) != null) {
+                list.add(createJAXBElement(new QName("", UNIONPAY_MAC_INFO),
+                        retrieveCargo(UNIONPAY_MAC_INFO)));
+                cleanTranStation(UNIONPAY_MAC_INFO);
             }
             Set<Map.Entry<Integer, String>> entrySet = contents.entrySet();
             for (Map.Entry<Integer, String> entry : entrySet) {
@@ -835,6 +843,34 @@ public class CommonUtil {
                     new String[]{KEYBOARD.value(), t.getMessage()});
         }
         return result;
+    }
+
+    public static String calculateMAC(
+            String transType,
+            String cardJson,
+            String pinblock,
+            String money,
+            String batchNo) {
+        String mac = null;
+        try {
+            System.loadLibrary(getDriverDll(PKG_8583));
+            PKG8583 pkG8583 = new PKG8583();
+            String errMsg = "";
+            mac = pkG8583.getMac(
+                    getDriverPort(PKG_8583),
+                    transType, cardJson, pinblock,
+                    Long.toString(tellMeCounter()),
+                    money, 
+                    TunnelBuilder.getTunnelBuilder().getTerminalID(),
+                    TunnelBuilder.getTunnelBuilder().getUnionPayID(),
+                    batchNo,
+                    errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{PKG_8583.value(), t.getMessage()});
+        }
+        return mac;
     }
 
     public static String inputString(String str) {
