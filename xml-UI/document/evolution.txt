@@ -1,4 +1,101 @@
 ************************************************************************************************************************
+2016.4.11
+************************************************************************************************************************
+1.集成密码键盘的驱动
+//add for keyboard encrption mode
+    public native int OpenComm(String comport, String errstring);
+    public native String ScanKeyPress(String errstring);
+    public native String GetPinblock(String cardno, String cardflag, String errstring);
+    public native int CloseComm(String comport, String errstring);
+
+2.增加encryptKeyboardAction配置
+<component>
+    <id>201501016</id>
+    <type>PasswordField</type>
+    <attribute>
+        <rect>
+            <x>250</x>
+            <y>500</y>
+            <width>200</width>
+            <heigh>60</heigh>
+        </rect>
+    </attribute>
+
+    <action>
+        <limitInputAction>
+            <length>6</length>
+        </limitInputAction>
+
+        <playMediaAction>
+            <media>./media/audio/gas_pay_password.wav</media>
+        </playMediaAction>
+    </action>
+    <action>
+        <encryptKeyboardAction>
+            <moneyId>201501012</moneyId>  --指定计算MAC对应金额的控件id
+        </encryptKeyboardAction>
+    </action>
+</component>
+
+3.backend文件中增加发卡行卡前缀的配置
+<Transportation
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../schema/TransportationSchema.xsd'>
+    <server>
+        <host>127.0.0.1</host>
+        <port>8080</port>
+        <timeout>20</timeout>  --设定前后之间超时时长
+    </server>
+    <registration>
+        <prsCode>sanlogin</prsCode>
+        <terminalID>00000001</terminalID>
+        <token>usjdfjksa75ks832okudsjd94877akjdua</token>
+        <unionPayID>9999</unionPayID>  --设定商户号或者银联唯一号
+        <branchno>test_bank_division</branchno>
+        <heartbeat>10000</heartbeat>
+    </registration>
+    <misc>
+        <bankCardPrefix>  --设定card bin类型
+            622953
+            621778
+            621526
+        </bankCardPrefix>
+    </misc>
+</Transportation>
+
+4.xml_window中新增PKG_8583驱动定义
+<driver>
+    <device>
+        <type>twoInOneCard</type>
+        <port>com1</port>
+        <dll>alldriver</dll>
+    </device>
+
+    <device>
+        <type>gzCard</type>
+        <port>com2</port>
+        <dll>alldriver</dll>
+    </device>
+
+    <device>
+        <type>printer</type>
+        <port>com3</port>
+        <dll>alldriver</dll>
+    </device>
+
+    <device>
+        <type>keyboard</type>
+        <port>com4</port>
+        <dll>alldriver</dll>
+    </device>
+
+    <device>    --PKG驱动配置
+        <type>pkg8583</type>
+        <port>com4</port>
+        <dll>alldriver</dll>
+    </device>
+</driver>
+************************************************************************************************************************
 2016.4.10
 ************************************************************************************************************************
 1.增强前端按钮图片设定
