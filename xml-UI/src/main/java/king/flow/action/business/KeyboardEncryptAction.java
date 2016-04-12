@@ -80,8 +80,7 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                     CommonConstants.UNION_PAY_TRANSACTION,
                     CommonUtil.retrieveCargo(TLSResult.UNIONPAY_CARD_INFO),
                     encryption,
-                    getBlock(moneyId, JTextField.class).getText(),
-                    Long.toString(CommonUtil.tellMeCounter()));
+                    getBlock(moneyId, JTextField.class).getText());
             if (calculatedMAC != null) {
                 CommonUtil.putCargo(TLSResult.UNIONPAY_MAC_INFO, calculatedMAC);
             }

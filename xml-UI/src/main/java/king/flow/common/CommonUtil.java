@@ -872,8 +872,7 @@ public class CommonUtil {
             String transType,
             String cardJson,
             String pinblock,
-            String money,
-            String batchNo) {
+            String money) {
         String mac = null;
         try {
             System.loadLibrary(getDriverDll(PKG_8583));
@@ -882,11 +881,9 @@ public class CommonUtil {
             mac = pkG8583.getMac(
                     getDriverPort(PKG_8583),
                     transType, cardJson, pinblock,
-                    Long.toString(tellMeCounter()),
                     money,
                     TunnelBuilder.getTunnelBuilder().getTerminalID(),
                     TunnelBuilder.getTunnelBuilder().getUnionPayID(),
-                    batchNo,
                     errMsg);
             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                             "final mac reuslt: {0}", mac);

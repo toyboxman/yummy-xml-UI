@@ -16,10 +16,8 @@ public class PKG8583 {
             String transType,
             String cardJson,
             String pinblock,
-            String termSeries,
             String money,
             String termNo,
             String merchantNo,
-            String batchNo,
             String err);
 }
