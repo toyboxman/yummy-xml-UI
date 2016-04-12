@@ -50,7 +50,7 @@
             </insertICardAction>
         </action>
     </component>
-    <component>
+    <!--component>
         <id>256</id>
         <type>Button</type>
         <attribute>
@@ -69,7 +69,7 @@
                     <nextPanel>201201</nextPanel>
                     <display>201204,201205,201206</display>
                     <hop>201211</hop>
-                    <!--<debug>9633242 12 2</debug>-->
+                    <debug>9633242 12 2</debug>
                 </nextStep>
                 <exception>
                     <nextPanel>201899</nextPanel>
@@ -77,15 +77,15 @@
                 </exception>
             </insertICardAction>
         </action>
-    </component>
+    </component-->
     <component>
         <id>258</id>
         <type>Button</type>
         <attribute>
             <text>IC卡余量查询</text>
             <rect>
-                <x>200</x>
-                <y>416</y>
+                <x>800</x>
+                <y>240</y>
                 <width>300</width>
                 <heigh>80</heigh>
             </rect>
@@ -111,8 +111,8 @@
         <attribute>
             <text>返回</text>
             <rect>
-                <x>800</x>
-                <y>800</y>
+                <x>850</x>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>

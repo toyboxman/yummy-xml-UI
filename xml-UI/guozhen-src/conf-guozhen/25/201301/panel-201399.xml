@@ -60,8 +60,8 @@
         <attribute>
             <text>返回</text>
             <rect>
-                <x>550</x>
-                <y>600</y>
+                <x>920</x>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>

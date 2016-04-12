@@ -16,7 +16,7 @@
         <attribute>
             <rect>
                 <x>350</x>
-                <y>70</y>
+                <y>90</y>
                 <width>610</width>
                 <heigh>150</heigh>
             </rect>
@@ -49,7 +49,7 @@
             <text>打印凭条</text>
             <rect>
                 <x>500</x>
-                <y>750</y>
+                <y>650</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -71,7 +71,7 @@
         <attribute>
             <rect>
                 <x>800</x>
-                <y>750</y>
+                <y>650</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -84,7 +84,7 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016,201501017,201501023</conditions>
+                <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016</conditions>
             </cleanAction>
         </action>   
     </component>

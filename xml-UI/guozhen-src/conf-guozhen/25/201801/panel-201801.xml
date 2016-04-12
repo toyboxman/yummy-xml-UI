@@ -106,8 +106,8 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>540</x>
-                <y>630</y>
+                <x>550</x>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -120,7 +120,7 @@
                 <nextStep>  
                     <nextPanel>201801001</nextPanel> 
                     <nextCursor>201801005</nextCursor>
-                    <display>201801004,201801006,201801008,201801010,201801012,201801104,201801106,201801108,201801110,201801112</display>  
+                    <display>201801004,201801006,201801008,201801010,201801012,201801104,201801106,201801108,201801110,201801112,201801089</display>  
                 </nextStep>
                 <exception> 
                     <nextPanel>201899</nextPanel>  
@@ -142,9 +142,9 @@
         <id>201812</id>
         <type>Button</type>
         <attribute>
-            <rect>
-                <x>820</x>
-                <y>630</y>
+            <rect>            
+                <x>850</x>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>

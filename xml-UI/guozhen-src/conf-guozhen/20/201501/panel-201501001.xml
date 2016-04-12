@@ -13,11 +13,11 @@
         <attribute>
             <rect>
                 <x>350</x>
-                <y>70</y>
+                <y>90</y>
                 <width>610</width>
                 <heigh>150</heigh>
             </rect>
-            <text>普卡代缴燃气费第2步(共3步)</text>
+            <text>普表代缴燃气费第2步(共3步)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -32,7 +32,7 @@
         <attribute>
             <rect>
                 <x>100</x>
-                <y>200</y>
+                <y>220</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -46,7 +46,7 @@
         <attribute>
             <rect>
                 <x>250</x>
-                <y>200</y>
+                <y>220</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -64,7 +64,7 @@
         <attribute>
             <rect>
                 <x>470</x>
-                <y>200</y>
+                <y>220</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -78,7 +78,7 @@
         <attribute>
             <rect>
                 <x>620</x>
-                <y>200</y>
+                <y>220</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -96,7 +96,7 @@
         <attribute>
             <rect>
                 <x>100</x>
-                <y>300</y>
+                <y>320</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
@@ -110,7 +110,7 @@
         <attribute>
             <rect>
                 <x>250</x>
-                <y>300</y>
+                <y>320</y>
                 <width>975</width>
                 <heigh>60</heigh>
             </rect>
@@ -128,7 +128,7 @@
         <attribute>
             <rect>
                 <x>840</x>
-                <y>200</y>
+                <y>220</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
@@ -142,7 +142,7 @@
         <attribute>
             <rect>
                 <x>990</x>
-                <y>200</y>
+                <y>220</y>
                 <width>230</width>
                 <heigh>60</heigh>
             </rect>
@@ -159,8 +159,8 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>840</x>
-                <y>500</y>
+                <x>100</x>
+                <y>410</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
@@ -173,9 +173,9 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>990</x>
-                <y>500</y>
-                <width>230</width>
+                 <x>250</x>
+                <y>410</y>
+                <width>140</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -185,14 +185,29 @@
             </limitInputAction>
         </action>
     </component>
-     
+    
+    <component>
+        <id>201501077</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>410</y>
+                <width>150</width>
+                <heigh>60</heigh>
+            </rect>
+            <text>元</text>
+        </attribute>
+    </component>
+    
+ 	<!-- 注释
     <component>
         <id>201501022</id>
         <type>Label</type>
         <attribute>
             <rect>
                 <x>470</x>
-                <y>500</y>
+                <y>520</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -206,7 +221,7 @@
         <attribute>
             <rect>
                 <x>620</x>
-                <y>500</y>
+                <y>520</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -217,6 +232,7 @@
             </limitInputAction>
         </action>
     </component>
+	-->
     
     <component>
         <id>201501013</id>
@@ -224,11 +240,11 @@
         <attribute>
             <rect>
                 <x>100</x>
-                <y>400</y>
+                <y>500</y>
                 <width>150</width>
                 <heigh>60</heigh>
             </rect>
-            <text>付款卡号:</text>
+            <text>银行卡号:</text>
         </attribute>
     </component>
     
@@ -238,7 +254,7 @@
         <attribute>
             <rect>
                 <x>250</x>
-                <y>400</y>
+                <y>500</y>
                 <width>420</width>
                 <heigh>60</heigh>
             </rect>
@@ -269,11 +285,11 @@
         <attribute>
             <rect>
                 <x>100</x>
-                <y>500</y>
+                <y>600</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
-            <text>支付密码:</text>
+            <text>密码:</text>
         </attribute>
     </component>
 	
@@ -283,7 +299,7 @@
         <attribute>
             <rect>
                 <x>250</x>
-                <y>500</y>
+                <y>600</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -292,26 +308,23 @@
         <action>
             <limitInputAction>
                 <length>6</length>
+                <enableNumberLimit>true</enableNumberLimit>
             </limitInputAction>
 			
             <playMediaAction>
                 <media>./media/audio/gas_pay_password.wav</media>
             </playMediaAction>
         </action>
-        <action>
-            <encryptKeyboardAction>
-                <moneyId>201501012</moneyId>
-            </encryptKeyboardAction>
-        </action>
     </component>
     
+    <!--注释
     <decorator>
         <id>201501021</id>
         <type>ScrollPanel</type>
         <attribute>
             <rect>
                 <x>100</x>
-                <y>700</y>
+                <y>720</y>
                 <width>1120</width>
                 <heigh>280</heigh>
             </rect>
@@ -323,14 +336,14 @@
             <attribute>
                 <rect>
                     <x>100</x>
-                    <y>700</y>
+                    <y>720</y>
                     <width>900</width>
                     <heigh>200</heigh>
                 </rect>
             </attribute>
             <action>
                 <showTableAction>
-                    <columnNames>序号,账期,数量,滞纳金,应交金额</columnNames>
+                    <columnNames>序号,账期,数量(立方),滞纳金(元),应交金额(元)</columnNames>
                 </showTableAction>
             </action>
             <action>
@@ -340,6 +353,7 @@
             </action>
         </component>
     </decorator>
+    -->
     
     <component>
         <id>201501018</id>
@@ -347,14 +361,14 @@
         <attribute>
             <rect>
                 <x>650</x>
-                <y>600</y>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
             <text>下一步</text>
         </attribute>		
         <action>
-            <sendMsgAction>
+            <balanceTransAction>
                 <prsCode>pay_pubiao</prsCode>
                 <conditions>201501014,201501016,201501012</conditions>
                 <nextStep>  
@@ -375,7 +389,7 @@
                         <errMsg>请用密码键盘输入密码</errMsg>
                     </notNull>
                 </checkRules>
-            </sendMsgAction>
+            </balanceTransAction>
         </action>
     </component>
 	
@@ -385,7 +399,7 @@
         <attribute>
             <rect>
                 <x>920</x>
-                <y>600</y>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -398,7 +412,7 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016,201501017,201501023</conditions>
+                 <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016</conditions>
             </cleanAction>
         </action>
     </component>

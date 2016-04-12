@@ -21,13 +21,13 @@
     <driver>
         <device>
             <type>twoInOneCard</type>
-            <port>com1</port>
+            <port>com2</port>
             <dll>alldriver</dll>
         </device>
         
         <device>
             <type>gzCard</type>
-            <port>com2</port>
+            <port>com6</port>
             <dll>alldriver</dll>
         </device>
         
@@ -56,6 +56,7 @@
         <page>./conf-guozhen/panel-1.xml</page>
         <page>./conf-guozhen/20/panel-20.xml</page>
         <page>./conf-guozhen/20/201101/panel-201101.xml</page>
+		<page>./conf-guozhen/20/201101/panel-2011066.xml</page>
         <page>./conf-guozhen/20/201101/panel-201199.xml</page>
         <page>./conf-guozhen/20/201501/panel-201501.xml</page>
         <page>./conf-guozhen/20/201501/panel-201501001.xml</page>

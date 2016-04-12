@@ -13,11 +13,11 @@
         <attribute>
             <rect>
                 <x>430</x>
-                <y>70</y>
+                <y>90</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>缴费记录查询失败</text>
+            <text>欠费查询失败</text>
         </attribute>
         <action>
             <setFontAction>
@@ -36,7 +36,7 @@
                 <width>600</width>
                 <heigh>50</heigh>
             </rect>
-            <text>错误信息:</text>
+            <text>提示信息:</text>
         </attribute>
     </component>
 	
@@ -73,7 +73,7 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>201104,201114</conditions>
+                <conditions>201104</conditions>
             </cleanAction>
         </action>   
     </component>

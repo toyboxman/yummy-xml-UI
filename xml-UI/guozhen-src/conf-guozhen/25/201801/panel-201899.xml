@@ -13,7 +13,7 @@
         <attribute>
             <rect>
                 <x>430</x>
-                <y>70</y>
+                <y>90</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
@@ -32,12 +32,19 @@
         <attribute>
             <rect>
                 <x>150</x>
-                <y>200</y>
+                <y>240</y>
                 <width>600</width>
                 <heigh>50</heigh>
             </rect>
-            <text>错误信息:</text>
+            <text>提示信息:</text>
         </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+                <fontStyle>BOLD</fontStyle> <!--optional setting, valid value is BOLD/PLAIN/ITALIC -->
+            </setFontAction>
+        </action>
+        
     </component>
 	
     <component>
@@ -46,7 +53,7 @@
         <attribute>
             <rect>
                 <x>350</x>
-                <y>200</y>
+                <y>220</y>
                 <width>900</width>
                 <heigh>300</heigh>
             </rect>

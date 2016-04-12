@@ -12,12 +12,12 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>450</x>
-                <y>70</y>
+                <x>500</x>
+                <y>90</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>缴费明细查询</text>
+            <text>普表欠费查询</text>
         </attribute>
         <action>
             <setFontAction>
@@ -31,8 +31,8 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>250</x>
-                <y>230</y>
+                <x>450</x>
+                <y>330</y>
                 <width>200</width>
                 <heigh>60</heigh>
             </rect>
@@ -45,9 +45,9 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>370</x>
-                <y>230</y>
-                <width>430</width>
+                <x>570</x>
+                <y>330</y>
+                <width>300</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -70,20 +70,21 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>480</x>
-                <y>430</y>
+                <x>620</x>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
             <text>查询</text>
         </attribute>
         <action>
+        	<!--
             <sendMsgAction>
                 <prsCode>query_pudetail</prsCode>
                 <conditions>201104</conditions>
                 <nextStep>  
-                    <nextPanel>201101</nextPanel> 
-                    <display>201114</display>  
+                    <nextPanel>2011066</nextPanel> 
+                    <display>20110667</display>  
                 </nextStep>
                 <exception> 
                     <nextPanel>201199</nextPanel>  
@@ -98,6 +99,26 @@
                 </checkRules>
                 
             </sendMsgAction>
+           -->
+             <sendMsgAction>
+                <prsCode>query_pubiao</prsCode>
+                <conditions>201104</conditions>
+                <nextStep>  
+                    <nextPanel>2011066</nextPanel>
+                    <!--显示的信息是按照顺序依次显示到下方控件中，201501012前的控件不需要删除后，必须填充一个控件来接受这个数据，这样它才能接受到原来的数据，这里使用201596来接受数据使201501012可以接受到原来位子上的数据-->
+                    <display>201501004,201501006,201501008,201501010,201596,20110670</display>
+                </nextStep>
+                <exception> 
+                    <nextPanel>201199</nextPanel>  
+                    <display>201196</display>  
+                </exception>
+                <checkRules>
+                    <notNull>
+                        <content>201104</content>
+                        <errMsg>请输入用户号</errMsg>
+                    </notNull>
+                </checkRules>
+            </sendMsgAction>
         </action>
     </component>
 	
@@ -106,8 +127,8 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>750</x>
-                <y>430</y>
+                <x>920</x>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
@@ -120,11 +141,11 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>201104,201114</conditions>
+                <conditions>201104</conditions>
             </cleanAction>
         </action>
     </component>
-    
+    <!--
     <decorator>
         <id>201113</id>
         <type>ScrollPanel</type>
@@ -160,7 +181,7 @@
             </action>
         </component>
     </decorator>
-	
+	-->
     <component>
         <id>201115</id>
         <type>Label</type>
@@ -171,7 +192,7 @@
                 <width>1024</width>
                 <heigh>70</heigh>
             </rect>
-            <text>查询最近20笔缴费记录</text>
+            <text>查询最近一年缴费记录</text>
         </attribute>
         <action>
             <setFontAction>

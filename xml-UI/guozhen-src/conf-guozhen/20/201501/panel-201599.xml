@@ -12,8 +12,8 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>430</x>
-                <y>70</y>
+                <x>490</x>
+                <y>90</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
@@ -37,7 +37,7 @@
                 <width>600</width>
                 <heigh>50</heigh>
             </rect>
-            <text>错误信息:</text>
+            <text>提示信息:</text>
         </attribute>
     </component>
 	
@@ -76,7 +76,7 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016,201501017,201501023</conditions>
+                <conditions>201504,201586,201501004,201501006,201501008,201501010,201501012,201501014,201501016</conditions>
             </cleanAction>
         </action>   
     </component>

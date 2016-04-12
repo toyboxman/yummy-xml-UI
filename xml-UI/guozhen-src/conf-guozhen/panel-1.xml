@@ -30,7 +30,7 @@
         <id>4</id>
         <type>Button</type>
         <attribute>
-            <text>抄表业务</text>
+            <text>普表业务</text>
             <rect>
                 <x>950</x>
                 <y>170</y>
@@ -74,7 +74,7 @@
         </action>
     </component> 
     
-    <component>
+    <!--component>
         <id>12</id>
         <type>Label</type>
         <attribute>
@@ -91,15 +91,15 @@
                 <fontSize>25</fontSize>
             </setFontAction>
         </action>
-    </component>
+    </component-->
     
     <component>
         <id>13</id>
         <type>Label</type>
         <attribute>
             <rect>
-                <x>100</x>
-                <y>900</y>
+                <x>10</x>
+                <y>975</y>
                 <width>300</width>
                 <heigh>40</heigh>
             </rect>
@@ -138,7 +138,7 @@
         <attribute>
             <rect>
                 <x>1015</x>
-                <y>900</y>
+                <y>975</y>
                 <width>300</width>
                 <heigh>40</heigh>
             </rect>

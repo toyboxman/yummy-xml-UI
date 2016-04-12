@@ -12,11 +12,11 @@
         <attribute>
             <rect>
                 <x>350</x>
-                <y>70</y>
+                <y>90</y>
                 <width>610</width>
                 <heigh>150</heigh>
             </rect>
-            <text>普卡代缴燃气费第1步(共3步)</text>
+            <text>普表代缴燃气费第1步(共3步)</text>
         </attribute>
         <action>
             <setFontAction>
@@ -30,7 +30,7 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>350</x>
+                <x>450</x>
                 <y>330</y>
                 <width>200</width>
                 <heigh>60</heigh>
@@ -44,7 +44,7 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>470</x>
+                <x>570</x>
                 <y>330</y>
                 <width>300</width>
                 <heigh>60</heigh>
@@ -69,7 +69,7 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>500</x>
+                <x>620</x>
                 <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
@@ -82,7 +82,8 @@
                 <conditions>201504</conditions>
                 <nextStep>  
                     <nextPanel>201501001</nextPanel>
-                    <display>201501004,201501006,201501008,201501010,201501023,201501012,201501017</display>
+                    <!--显示的信息是按照顺序依次显示到下方控件中，201501012前的控件不需要删除后，必须填充一个控件来接受这个数据，这样它才能接受到原来的数据，这里使用201596来接受数据使201501012可以接受到原来位子上的数据-->
+                    <display>201501004,201501006,201501008,201501010,201596,201501012</display>
                     <nextCursor>201501016</nextCursor>
                     <trigger>201501014</trigger>
                 </nextStep>
@@ -93,7 +94,7 @@
                 <checkRules>
                     <notNull>
                         <content>201504</content>
-                        <errMsg>请输入缴费号</errMsg>
+                        <errMsg>请输入用户号</errMsg>
                     </notNull>
                 </checkRules>
             </sendMsgAction>
@@ -105,7 +106,7 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>800</x>
+                <x>920</x>
                 <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>

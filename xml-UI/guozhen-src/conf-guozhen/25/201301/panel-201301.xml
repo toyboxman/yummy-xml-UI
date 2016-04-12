@@ -10,8 +10,8 @@
         <attribute>
             <text>IC卡余量查询</text>
             <rect>
-                <x>430</x>
-                <y>70</y>
+                <x>490</x>
+                <y>90</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
@@ -40,7 +40,7 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>450</x>
+                <x>488</x>
                 <y>284</y>
                 <width>430</width>
                 <heigh>60</heigh>
@@ -58,7 +58,7 @@
         <attribute>
             <text>卡内燃气余额:</text>
             <rect>
-                <x>234</x>
+                <x>270</x>
                 <y>392</y>
                 <width>280</width>
                 <heigh>60</heigh>
@@ -70,9 +70,9 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>452</x>
-                <y>397</y>
-                <width>430</width>
+                <x>488</x>
+                <y>390</y>
+                <width>130</width>
                 <heigh>60</heigh>
             </rect>
         </attribute>
@@ -82,14 +82,29 @@
             </limitInputAction>
         </action>
     </component>
+    
+    <component>
+        <id>201319</id>
+        <type>Label</type>
+        <attribute>
+            <text>立方</text>
+            <rect>
+                <x>630</x>
+                <y>392</y>
+                <width>280</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+    </component>
+    
     <component>
         <id>201312</id>
         <type>Button</type>
         <attribute>
             <text>返回</text>
             <rect>
-                <x>820</x>
-                <y>630</y>
+                <x>850</x>
+                <y>700</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>
