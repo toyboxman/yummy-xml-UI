@@ -216,11 +216,11 @@ public class Read2In1CardAction extends ReadCardAction {
                     switch (cardReadingState) {
                         case CommonConstants.MAGNET_CARD_STATE:
                             showMsg(owner.getTopLevelAncestor(),
-                                    getResourceMsg("operation.magnet.card.read.timeout"));
+                                    getResourceMsg("operation.magnet.card.read.error"));
                             return;
                         case CommonConstants.IC_CARD_STATE:
                             showMsg(owner.getTopLevelAncestor(),
-                                    getResourceMsg("operation.ic.card.read.timeout"));
+                                    getResourceMsg("operation.ic.card.read.error"));
                             return;
                         default:
                             showMsg(owner.getTopLevelAncestor(),
