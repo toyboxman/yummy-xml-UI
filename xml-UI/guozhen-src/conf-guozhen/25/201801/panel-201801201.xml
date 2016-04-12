@@ -221,6 +221,12 @@
                 <media>./media/audio/gas_pay_password.wav</media>
             </playMediaAction>
         </action>
+        <action>
+            <encryptKeyboardAction>
+                <moneyId>201801206</moneyId>
+                <trigger>201801219</trigger>
+            </encryptKeyboardAction>
+        </action>
     </component>
     
     <!--component>

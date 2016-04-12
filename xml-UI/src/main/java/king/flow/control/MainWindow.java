@@ -435,12 +435,21 @@ public class MainWindow {
         if (encryptKeyboardAction != null) {
             final String actionName = encryptKeyboardAction.getClass().getSimpleName();
             checkSupportedAction(component, actionName, panel, pageURI);
-            
+
             int moneyId = encryptKeyboardAction.getMoneyId();
             if (!this.meta_blocks.containsKey(moneyId)) {
                 promptNonexistentBlockErr(moneyId, actionName, "moneyId", component, panel, pageURI, null);
             } else {
                 checkComponentType(moneyId, actionName, "moneyId", component, panel, pageURI);
+            }
+
+            Integer trigger = encryptKeyboardAction.getTrigger();
+            if (trigger != null) {
+                if (!this.meta_blocks.containsKey(trigger)) {
+                    promptNonexistentBlockErr(trigger, actionName, "trigger", component, panel, pageURI, null);
+                } else {
+                    checkComponentType(trigger, actionName, "trigger", component, panel, pageURI);
+                }
             }
         }
     }
@@ -1189,7 +1198,8 @@ public class MainWindow {
         king.flow.view.Action.EncryptKeyboardAction encryptKeyboardAction = actionNode.getEncryptKeyboardAction();
         if (encryptKeyboardAction != null) {
             int moneyId = encryptKeyboardAction.getMoneyId();
-            KeyboardEncryptAction keyboardEncryptAction = new KeyboardEncryptAction(moneyId);
+            Integer trigger = encryptKeyboardAction.getTrigger();
+            KeyboardEncryptAction keyboardEncryptAction = new KeyboardEncryptAction(moneyId, trigger);
             doAction(keyboardEncryptAction, component.getId());
         }
     }

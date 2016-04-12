@@ -7,6 +7,10 @@ package king.flow.action.business;
 
 import java.awt.event.FocusAdapter;
 import java.awt.event.FocusEvent;
+import java.util.concurrent.ExecutionException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javax.swing.JButton;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 import javax.swing.SwingWorker;
@@ -22,9 +26,11 @@ import king.flow.data.TLSResult;
 public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
 
     private final int moneyId;
+    private final Integer trigger;
 
-    public KeyboardEncryptAction(int moneyId) {
+    public KeyboardEncryptAction(int moneyId, Integer trigger) {
         this.moneyId = moneyId;
+        this.trigger = trigger;
     }
 
     @Override
@@ -86,6 +92,20 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
             }
             
             return encryption;
+        }
+
+        @Override
+        protected void done() {
+            try {
+                String credentials = get();
+                if (credentials != null && trigger != null) {
+                    JButton next = getBlock(trigger, JButton.class);
+                    next.doClick();
+                }
+            } catch (InterruptedException | ExecutionException ex) {
+                Logger.getLogger(KeyboardEncryptAction.class.getName()).log(Level.WARNING,
+                        "encryption of keyboard is broken due to : \n{0}", ex);
+            }
         }
     }
 }
