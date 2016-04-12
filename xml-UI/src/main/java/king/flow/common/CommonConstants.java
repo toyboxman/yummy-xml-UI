@@ -121,6 +121,15 @@ public class CommonConstants {
     public static final int INVALID_CARD_STATE = -1;
     public static final int MAGNET_CARD_STATE = 2;
     public static final int IC_CARD_STATE = 3;
+    
+    /* union-pay transaction type */
+    public static final String UNION_PAY_REGISTRATION = "1";
+    public static final String UNION_PAY_TRANSACTION = "3";
+    public static final String UNION_PAY_TRANSACTION_BALANCE = "4";
+    
+    /* card affiliation type */
+    public static final String CARD_AFFILIATION_INTERNAL = "1";
+    public static final String CARD_AFFILIATION_EXTERNAL = "2";
 
     /* action-component relationship map */
     public static final String JUMP_ACTION = JumpAction.class.getSimpleName();

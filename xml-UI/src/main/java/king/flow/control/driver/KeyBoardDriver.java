@@ -21,7 +21,7 @@ public class KeyBoardDriver {
     
     //add for keyboard encrption mode
     public native int OpenComm(String comport, String errstring);
-    public native String ScanKeyPress(String errstring);
+    public native int ScanKeyPress(String errstring);
     public native String GetPinblock(String cardno, String cardflag, String errstring);
     public native int CloseComm(String comport, String errstring);
 }

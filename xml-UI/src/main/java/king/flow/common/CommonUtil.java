@@ -318,7 +318,7 @@ public class CommonUtil {
                         retrieveCargo(UNIONPAY_CARD_INFO)));
                 cleanTranStation(UNIONPAY_CARD_INFO);
             }
-             if (retrieveCargo(UNIONPAY_MAC_INFO) != null) {
+            if (retrieveCargo(UNIONPAY_MAC_INFO) != null) {
                 list.add(createJAXBElement(new QName("", UNIONPAY_MAC_INFO),
                         retrieveCargo(UNIONPAY_MAC_INFO)));
                 cleanTranStation(UNIONPAY_MAC_INFO);
@@ -795,7 +795,7 @@ public class CommonUtil {
             KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
             String errMsg = "";
             StringBuilder sb = new StringBuilder();
-            long start = System.currentTimeMillis();
+            final long start = System.currentTimeMillis();
             while (true) {
                 long now = System.currentTimeMillis();
                 long duration = TimeUnit.MILLISECONDS.toSeconds(now - start);
@@ -804,38 +804,61 @@ public class CommonUtil {
                             "read pin time out");
                     break;
                 }
-                String ch = keyBoardDriver.ScanKeyPress(errMsg);
-                if (ch == null || ch.length() == 0) {
+                int typeValue = keyBoardDriver.ScanKeyPress(errMsg);
+                if (typeValue == -1) {
                     continue;
                 }
-
-                switch (ch.indexOf(0)) {
+                
+                char ch = (char) typeValue; //char type is unsigned, it cannot be -1
+                switch (ch) {
                     case 0x08://backspace
+                        CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                "backspace value {0}", Integer.toHexString(ch));
                         if (sb.length() > 0) {
                             sb.deleteCharAt(sb.length() - 1);
                         }
                         break;
                     case 0xFF:
                     case 0x1b:
+                        CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                "clean value {0}", Integer.toHexString(ch));
                         sb.delete(0, sb.length() - 1);
                         break;
                     case 0x0d:
+                        CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                "submit value {0}", Integer.toHexString(ch));
                         if (sb.length() > 3) {
                             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                    "read pin ends up");
+                                    "read pin operation ends up");
                             String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
-                            String cardType = isIssuedBankCard(cardNum) ? "1" : "2";
+                            String cardType = retrieveBankCardAffiliation(cardNum);
                             result = keyBoardDriver.GetPinblock(cardNum, cardType, errMsg);
                             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                    "final reuslt {0}", result);
+                                    "final pinblock reuslt: {0}", result);
+                            return result;
                         }
                         break;
                     default:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                "useful keyborad type value {0}", Integer.toHexString(ch.indexOf(0)));
+                                "useful keyborad type value {0}/{1}",
+                                new Object[]{Integer.toHexString(ch), ch});
                         sb.append(ch);
+                        break;
                 }
+                CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                "keyboard type values length {0}/{1}",
+                                new Object[]{sb.length(), sb.toString()});
                 password.setText(sb.toString());
+                if (sb.length() == 6) {
+                    CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                            "read pin operation automatically ends up to maximun length");
+                    String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
+                    String cardType = retrieveBankCardAffiliation(cardNum);
+                    result = keyBoardDriver.GetPinblock(cardNum, cardType, errMsg);
+                    CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                            "final pinblock reuslt: {0}", result);
+                    return result;
+                }
             }
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
@@ -860,11 +883,13 @@ public class CommonUtil {
                     getDriverPort(PKG_8583),
                     transType, cardJson, pinblock,
                     Long.toString(tellMeCounter()),
-                    money, 
+                    money,
                     TunnelBuilder.getTunnelBuilder().getTerminalID(),
                     TunnelBuilder.getTunnelBuilder().getUnionPayID(),
                     batchNo,
                     errMsg);
+            CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                            "final mac reuslt: {0}", mac);
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
@@ -1301,14 +1326,14 @@ public class CommonUtil {
         CommonUtil.bankCardPrefix = bankCardPrefix;
     }
 
-    public static boolean isIssuedBankCard(String cardNum) {
+    public static String retrieveBankCardAffiliation(String cardNum) {
         if (bankCardPrefix != null || bankCardPrefix.size() > 0) {
             for (String prefix : bankCardPrefix) {
                 if (cardNum.startsWith(prefix)) {
-                    return true;
+                    return CommonConstants.CARD_AFFILIATION_INTERNAL;
                 }
             }
         }
-        return false;
+        return CommonConstants.CARD_AFFILIATION_EXTERNAL;
     }
 }

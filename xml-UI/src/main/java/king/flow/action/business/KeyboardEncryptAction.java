@@ -57,7 +57,6 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
         @Override
         public void focusLost(FocusEvent e) {
             CommonUtil.closeEncryptedKeyboard();
-            owner.setText("");
         }
 
     }
@@ -70,6 +69,7 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
             if (encryption == null) {
                 CommonUtil.showMsg(owner.getTopLevelAncestor(),
                         CommonUtil.getResourceMsg("encryption.keyboard.type.timeout.prompt"));
+                owner.setText("");
                 owner.setFocusable(false);
                 owner.setFocusable(true);
                 return null;
@@ -77,7 +77,7 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
             CommonUtil.putCargo(Integer.toString(id), encryption);
 
             String calculatedMAC = CommonUtil.calculateMAC(
-                    "3",
+                    CommonConstants.UNION_PAY_TRANSACTION,
                     CommonUtil.retrieveCargo(TLSResult.UNIONPAY_CARD_INFO),
                     encryption,
                     getBlock(moneyId, JTextField.class).getText(),

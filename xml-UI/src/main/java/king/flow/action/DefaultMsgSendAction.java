@@ -51,6 +51,7 @@ import static king.flow.common.CommonUtil.sendMessage;
 import static king.flow.common.CommonUtil.shapeErrPrompt;
 import king.flow.data.TLSResult;
 import king.flow.swing.JXMsgPanel;
+import king.flow.view.Action;
 import king.flow.view.MsgSendAction;
 import king.flow.view.Panel;
 import king.flow.view.Rules;
@@ -129,7 +130,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         button.addKeyListener(new EnterKeySendAction());
     }
 
-    protected Map<Integer, String> retrieveConditionValues() {
+    private Map<Integer, String> retrieveConditionValues(boolean cleanCargo) {
         HashMap<Integer, String> contents = new HashMap<>();
         for (Condition<JComponent, Component> condition : conditions) {
             String value = null;
@@ -155,21 +156,41 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     contents.put(id, value);
                     break;
                 case PASSWORD_FIELD:
-                    /*JPasswordField jpf = (JPasswordField) condition.getComponent();
-                    final String unwrapped = new String(jpf.getPassword());
-                    if (unwrapped.length() > 0) {
-                        try {
-                            value = CommonUtil.inputString(unwrapped);
-                        } catch (Throwable e) {
-                            getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
-                                    "crypto keyboard is out of work due to\n {0}", shapeErrPrompt(e));
-                            value = unwrapped;
+                    boolean isEncryption = false;
+                    List<Action> action = condition.getMeta().getAction();
+                    for (Action actionConf : action) {
+                        if (actionConf.getEncryptKeyboardAction() != null) {
+                            isEncryption = true;
+                            break;
+                        }
+                    }
+
+                    if (isEncryption) {
+                        getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
+                                        "use encrypted keyboard mode");
+                        value = CommonUtil.retrieveCargo(Integer.toString(id));
+                        //check notnull condition calling this method, so cannot clean pinblock
+                        if (cleanCargo) {
+                            CommonUtil.cleanTranStation(Integer.toString(id));
                         }
                     } else {
-                        value = unwrapped;
-                    }*/
-                    value = CommonUtil.retrieveCargo(Integer.toString(id));
-                    CommonUtil.cleanTranStation(Integer.toString(id));
+                        getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
+                                        "use normal keyboard mode");
+                        JPasswordField jpf = (JPasswordField) condition.getComponent();
+                        final String unwrapped = new String(jpf.getPassword());
+                        if (unwrapped.length() > 0) {
+                            try {
+                                value = CommonUtil.inputString(unwrapped);
+                            } catch (Throwable e) {
+                                getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
+                                        "crypto keyboard is out of work due to\n {0}", shapeErrPrompt(e));
+                                value = unwrapped;
+                            }
+                        } else {
+                            value = unwrapped;
+                        }
+                    }
+
                     contents.put(id, value);
                     break;
                 default:
@@ -179,6 +200,10 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
             }
         }
         return contents;
+    }
+    
+    protected Map<Integer, String> retrieveConditionValues() {
+        return retrieveConditionValues(true);
     }
 
     public void showResult(TLSResult result) throws HeadlessException {
@@ -405,7 +430,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
 
     @Override
     protected boolean checkNotNull() {
-        Map<Integer, String> conditionValues = retrieveConditionValues();
+        Map<Integer, String> conditionValues = retrieveConditionValues(false);
         Set<Map.Entry<Integer, String>> entrySet = conditionValues.entrySet();
         for (Map.Entry<Integer, String> set : entrySet) {
             String v = set.getValue();
