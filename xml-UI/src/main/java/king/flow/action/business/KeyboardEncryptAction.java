@@ -17,6 +17,8 @@ import javax.swing.SwingWorker;
 import king.flow.action.DefaultAction;
 import king.flow.common.CommonConstants;
 import king.flow.common.CommonUtil;
+import static king.flow.common.CommonUtil.retrieveBankCardAffiliation;
+import static king.flow.common.CommonUtil.retrieveCargo;
 import king.flow.data.TLSResult;
 
 /**
@@ -82,15 +84,19 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
             }
             CommonUtil.putCargo(Integer.toString(id), encryption);
 
-            String calculatedMAC = CommonUtil.calculateMAC(
-                    CommonConstants.UNION_PAY_TRANSACTION,
-                    CommonUtil.retrieveCargo(TLSResult.UNIONPAY_CARD_INFO),
-                    encryption,
-                    getBlock(moneyId, JTextField.class).getText());
-            if (calculatedMAC != null) {
-                CommonUtil.putCargo(TLSResult.UNIONPAY_MAC_INFO, calculatedMAC);
+            String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
+            String cardType = retrieveBankCardAffiliation(cardNum);
+            if (cardType.equals(CommonConstants.CARD_AFFILIATION_EXTERNAL)) {
+                String calculatedMAC = CommonUtil.calculateMAC(
+                        CommonConstants.UNION_PAY_TRANSACTION,
+                        CommonUtil.retrieveCargo(TLSResult.UNIONPAY_CARD_INFO),
+                        encryption,
+                        getBlock(moneyId, JTextField.class).getText());
+                if (calculatedMAC != null) {
+                    CommonUtil.putCargo(TLSResult.UNIONPAY_MAC_INFO, calculatedMAC);
+                }
             }
-            
+
             return encryption;
         }
 
