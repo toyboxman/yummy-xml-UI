@@ -831,7 +831,9 @@ public class CommonUtil {
                     case 0x0d:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                 "submit value {0}", Integer.toHexString(ch));
-                        if (sb.length() > 0) {
+                        password.setText("");
+                        return CommonConstants.INVALID_ENCRYPTION_LENGTH;
+                        /*if (sb.length() > 0) {
                             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                     "read pin operation ends up");
                             String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
@@ -840,8 +842,7 @@ public class CommonUtil {
                             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                     "final pinblock reuslt: {0}", result);
                             return result;
-                        }
-                        break;
+                        }*/
                     default:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                 "useful keyborad type value {0}/{1}",

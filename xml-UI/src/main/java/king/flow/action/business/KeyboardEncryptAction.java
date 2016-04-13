@@ -83,7 +83,6 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
             if (encryption == null || encryption.length() == 0) {
                 CommonUtil.showMsg(owner.getTopLevelAncestor(),
                         CommonUtil.getResourceMsg("encryption.keyboard.type.timeout.prompt"));
-                owner.setText("");
                 owner.setFocusable(false);
                 owner.setFocusable(true);
                 return null;
@@ -96,6 +95,14 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                     JButton cancel = getBlock(cancelTrigger, JButton.class);
                     cancel.doClick();
                 }
+                return null;
+            }
+            
+            if (encryption.equals(CommonConstants.INVALID_ENCRYPTION_LENGTH)) {
+                CommonUtil.showMsg(owner.getTopLevelAncestor(),
+                        CommonUtil.getResourceMsg("encryption.keyboard.type.length.prompt"));
+                owner.setFocusable(false);
+                owner.setFocusable(true);
                 return null;
             }
             
