@@ -26,22 +26,22 @@ import king.flow.data.TLSResult;
  * @author LiuJin
  */
 public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
-
+    
     private final int moneyId;
     private final Integer trigger;
-
+    
     public KeyboardEncryptAction(int moneyId, Integer trigger) {
         this.moneyId = moneyId;
         this.trigger = trigger;
     }
-
+    
     @Override
     public void setupListener() {
         owner.addFocusListener(new FocusAdapterImpl());
     }
-
+    
     private class FocusAdapterImpl extends FocusAdapter {
-
+        
         @Override
         public void focusGained(FocusEvent e) {
             String bankNum = CommonUtil.retrieveCargo(CommonConstants.VALID_BANK_CARD);
@@ -61,19 +61,23 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
             }
             new ReadEncryptionTask().execute();
         }
-
+        
         @Override
         public void focusLost(FocusEvent e) {
             CommonUtil.closeEncryptedKeyboard();
         }
-
+        
     }
-
+    
     private class ReadEncryptionTask extends SwingWorker<String, Integer> {
-
+        
         @Override
         protected String doInBackground() throws Exception {
             String encryption = CommonUtil.readEncryptedString(owner);
+            //if page has been moved, do not prompt user
+            if (!owner.isShowing()) {
+                return null;
+            }
             if (encryption == null || encryption.length() == 0) {
                 CommonUtil.showMsg(owner.getTopLevelAncestor(),
                         CommonUtil.getResourceMsg("encryption.keyboard.type.timeout.prompt"));
@@ -83,7 +87,7 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                 return null;
             }
             CommonUtil.putCargo(Integer.toString(id), encryption);
-
+            
             String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
             String cardType = retrieveBankCardAffiliation(cardNum);
             if (cardType.equals(CommonConstants.CARD_AFFILIATION_EXTERNAL)) {
@@ -96,10 +100,10 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                     CommonUtil.putCargo(TLSResult.UNIONPAY_MAC_INFO, calculatedMAC);
                 }
             }
-
+            
             return encryption;
         }
-
+        
         @Override
         protected void done() {
             try {
