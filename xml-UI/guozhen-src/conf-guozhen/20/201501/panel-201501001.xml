@@ -308,7 +308,6 @@
         <action>
             <limitInputAction>
                 <length>6</length>
-                <enableNumberLimit>true</enableNumberLimit>
             </limitInputAction>
 			
             <playMediaAction>
