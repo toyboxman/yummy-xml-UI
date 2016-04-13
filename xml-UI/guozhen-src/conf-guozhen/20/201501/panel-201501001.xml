@@ -317,7 +317,8 @@
         <action>
             <encryptKeyboardAction>
                 <moneyId>201501012</moneyId>
-                <trigger>201501018</trigger>
+                <nextTrigger>201501018</nextTrigger>
+                <cancelTrigger>201501019</cancelTrigger>
             </encryptKeyboardAction>
         </action>
     </component>

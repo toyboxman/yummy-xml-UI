@@ -224,7 +224,8 @@
         <action>
             <encryptKeyboardAction>
                 <moneyId>201801206</moneyId>
-                <trigger>201801219</trigger>
+                <nextTrigger>201801219</nextTrigger>
+                <cancelTrigger>201801220</cancelTrigger>
             </encryptKeyboardAction>
         </action>
     </component>
