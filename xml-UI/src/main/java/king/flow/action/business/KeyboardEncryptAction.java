@@ -74,7 +74,7 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
         @Override
         protected String doInBackground() throws Exception {
             String encryption = CommonUtil.readEncryptedString(owner);
-            if (encryption == null) {
+            if (encryption == null || encryption.length() == 0) {
                 CommonUtil.showMsg(owner.getTopLevelAncestor(),
                         CommonUtil.getResourceMsg("encryption.keyboard.type.timeout.prompt"));
                 owner.setText("");
@@ -92,7 +92,7 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                         CommonUtil.retrieveCargo(TLSResult.UNIONPAY_CARD_INFO),
                         encryption,
                         getBlock(moneyId, JTextField.class).getText());
-                if (calculatedMAC != null) {
+                if (calculatedMAC != null && calculatedMAC.length() > 0) {
                     CommonUtil.putCargo(TLSResult.UNIONPAY_MAC_INFO, calculatedMAC);
                 }
             }
