@@ -28,11 +28,13 @@ import king.flow.data.TLSResult;
 public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
     
     private final int moneyId;
-    private final Integer trigger;
-    
-    public KeyboardEncryptAction(int moneyId, Integer trigger) {
+    private final Integer nextTrigger;
+    private final Integer cancelTrigger;
+
+    public KeyboardEncryptAction(int moneyId, Integer nextTrigger, Integer cancelTrigger) {
         this.moneyId = moneyId;
-        this.trigger = trigger;
+        this.nextTrigger = nextTrigger;
+        this.cancelTrigger = cancelTrigger;
     }
     
     @Override
@@ -86,6 +88,17 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                 owner.setFocusable(true);
                 return null;
             }
+            
+            if (encryption.equals(CommonConstants.CANCEL_ENCRYPTION_KEYBOARD)) {
+                owner.setFocusable(false);
+                owner.setFocusable(true);
+                if (cancelTrigger != null) {
+                    JButton cancel = getBlock(cancelTrigger, JButton.class);
+                    cancel.doClick();
+                }
+                return null;
+            }
+            
             CommonUtil.putCargo(Integer.toString(id), encryption);
             
             String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
@@ -108,8 +121,8 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
         protected void done() {
             try {
                 String credentials = get();
-                if (credentials != null && trigger != null) {
-                    JButton next = getBlock(trigger, JButton.class);
+                if (credentials != null && nextTrigger != null) {
+                    JButton next = getBlock(nextTrigger, JButton.class);
                     next.doClick();
                 }
             } catch (InterruptedException | ExecutionException ex) {

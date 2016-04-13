@@ -443,12 +443,21 @@ public class MainWindow {
                 checkComponentType(moneyId, actionName, "moneyId", component, panel, pageURI);
             }
 
-            Integer trigger = encryptKeyboardAction.getTrigger();
-            if (trigger != null) {
-                if (!this.meta_blocks.containsKey(trigger)) {
-                    promptNonexistentBlockErr(trigger, actionName, "trigger", component, panel, pageURI, null);
+            Integer nextTrigger = encryptKeyboardAction.getNextTrigger();
+            if (nextTrigger != null) {
+                if (!this.meta_blocks.containsKey(nextTrigger)) {
+                    promptNonexistentBlockErr(nextTrigger, actionName, "nextTrigger", component, panel, pageURI, null);
                 } else {
-                    checkComponentType(trigger, actionName, "trigger", component, panel, pageURI);
+                    checkComponentType(nextTrigger, actionName, "nextTrigger", component, panel, pageURI);
+                }
+            }
+            
+            Integer cancelTrigger = encryptKeyboardAction.getCancelTrigger();
+            if (cancelTrigger != null) {
+                if (!this.meta_blocks.containsKey(cancelTrigger)) {
+                    promptNonexistentBlockErr(cancelTrigger, actionName, "cancelTrigger", component, panel, pageURI, null);
+                } else {
+                    checkComponentType(cancelTrigger, actionName, "cancelTrigger", component, panel, pageURI);
                 }
             }
         }
@@ -1198,8 +1207,9 @@ public class MainWindow {
         king.flow.view.Action.EncryptKeyboardAction encryptKeyboardAction = actionNode.getEncryptKeyboardAction();
         if (encryptKeyboardAction != null) {
             int moneyId = encryptKeyboardAction.getMoneyId();
-            Integer trigger = encryptKeyboardAction.getTrigger();
-            KeyboardEncryptAction keyboardEncryptAction = new KeyboardEncryptAction(moneyId, trigger);
+            Integer nextTrigger = encryptKeyboardAction.getNextTrigger();
+            Integer cancelTrigger = encryptKeyboardAction.getCancelTrigger();
+            KeyboardEncryptAction keyboardEncryptAction = new KeyboardEncryptAction(moneyId, nextTrigger, cancelTrigger);
             doAction(keyboardEncryptAction, component.getId());
         }
     }

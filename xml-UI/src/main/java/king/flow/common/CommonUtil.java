@@ -819,15 +819,19 @@ public class CommonUtil {
                         }
                         break;
                     case 0xFF:
-                    case 0x1b:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                 "clean value {0}", Integer.toHexString(ch));
                         sb.delete(0, sb.length() - 1);
                         break;
+                    case 0x1b:
+                        CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                "quit value {0}", Integer.toHexString(ch));
+                        password.setText("");
+                        return CommonConstants.CANCEL_ENCRYPTION_KEYBOARD;
                     case 0x0d:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                 "submit value {0}", Integer.toHexString(ch));
-                        if (sb.length() > 3) {
+                        if (sb.length() > 0) {
                             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                     "read pin operation ends up");
                             String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
