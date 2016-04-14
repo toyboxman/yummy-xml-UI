@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
 import javax.swing.SwingWorker;
+import javax.xml.bind.JAXBElement;
 import king.flow.common.CommonConstants;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.createTLSMessage;
@@ -24,6 +25,8 @@ import king.flow.view.DeviceEnum;
 import king.flow.view.MsgSendAction;
 import king.flow.view.Rules;
 import static king.flow.common.CommonUtil.sendMessage;
+import king.flow.data.TLS;
+import king.flow.design.TLSProcessor;
 
 /**
  *
@@ -164,6 +167,34 @@ public class WriteCardAction extends BalanceTransAction {
                         "Fail to write card due to : \n{0}", e.getMessage());
                 //launch strike-balance for card writing failure
                 String strike_balance = buildBalancedMsg(conditionValues, msg);
+                //add balance MAC
+                TLSProcessor tlsProcess = new TLSProcessor().init();
+                TLS strikeTLS = tlsProcess.parse(strike_balance);
+                TLS previousTLS = tlsProcess.parse(msg);
+                for (Object tag : previousTLS.getAny()) {
+                    JAXBElement element = (JAXBElement) tag;
+                    switch (element.getName().getLocalPart()) {
+                        case TLSResult.UNIONPAY_CARD_INFO:
+                            strikeTLS.getAny().add(element);
+                            break;
+                        case TLSResult.UNIONPAY_MAC_INFO:
+                            final String balancedPayMac = CommonUtil.retrieveCargo(
+                                    CommonConstants.BALANCED_PAY_MAC);
+                            if (balancedPayMac != null) {
+                                element.setValue(balancedPayMac);
+                            } else {
+                                element.setValue("");
+                            }
+                            strikeTLS.getAny().add(element);
+                            CommonUtil.cleanTranStation(
+                                    CommonConstants.BALANCED_PAY_MAC);
+                            break;
+                        default:
+                            break;
+                    }
+                }
+
+                strike_balance = tlsProcess.buildTLS(strikeTLS);
                 getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                         "Sending balanced transaction TLS Message for card-writing failure: \n{0}", strike_balance);
                 try {

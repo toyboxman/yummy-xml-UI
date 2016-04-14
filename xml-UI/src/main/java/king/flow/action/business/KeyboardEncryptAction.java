@@ -122,6 +122,15 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                 if (calculatedMAC != null && calculatedMAC.length() > 0) {
                     CommonUtil.putCargo(TLSResult.UNIONPAY_MAC_INFO, calculatedMAC);
                 }
+                
+                String balancedMAC = CommonUtil.calculateMAC(
+                        CommonConstants.UNION_PAY_TRANSACTION_BALANCE,
+                        CommonUtil.retrieveCargo(TLSResult.UNIONPAY_CARD_INFO),
+                        encryption,
+                        getBlock(moneyId, JTextField.class).getText());
+                if (balancedMAC != null && balancedMAC.length() > 0) {
+                    CommonUtil.putCargo(CommonConstants.BALANCED_PAY_MAC, balancedMAC);
+                }
             }
 
             return encryption;

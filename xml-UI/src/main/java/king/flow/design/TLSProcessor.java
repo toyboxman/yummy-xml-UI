@@ -189,4 +189,19 @@ public class TLSProcessor {
     public String buildTLS(JAXBElement... parameters) {
         return buildTLS(Arrays.asList(parameters));
     }
+    
+    public String buildTLS(TLS tls) {
+        if (tls == null) {
+            return null;
+        }
+        
+        StringWriter sw = new StringWriter();
+        try {
+            Marshaller marshaller = this.context.createMarshaller();
+            marshaller.marshal(tls, sw);
+        } catch (JAXBException ex) {
+            Logger.getLogger(TLSProcessor.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        return sw.toString();
+    }
 }
