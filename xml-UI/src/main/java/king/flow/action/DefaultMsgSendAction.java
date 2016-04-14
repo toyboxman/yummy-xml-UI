@@ -439,7 +439,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                         ? CommonUtil.getResourceMsg("operation.submit.inadequate.prompt")
                         : notNullMsg.get(set.getKey());
                 getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO, "{0} for component id {1} value {2}",
-                        new Object[]{err, set.getKey(), v});
+                        new Object[]{err, Integer.toString(set.getKey()), v});
                 CommonUtil.showMsg(owner.getTopLevelAncestor(), err);
                 return false;
             }

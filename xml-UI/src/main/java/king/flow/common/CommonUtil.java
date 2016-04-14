@@ -801,7 +801,7 @@ public class CommonUtil {
                 long duration = TimeUnit.MILLISECONDS.toSeconds(now - start);
                 if (duration > 20) {
                     CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                            "read pin time out");
+                            "read pin time out as duration {0} greater than 20s", duration);
                     break;
                 }
                 int typeValue = keyBoardDriver.ScanKeyPress(errMsg);
@@ -813,24 +813,24 @@ public class CommonUtil {
                 switch (ch) {
                     case 0x08://backspace
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                "backspace value {0}", Integer.toHexString(ch));
+                                "backspace is hit value {0}", Integer.toHexString(ch));
                         if (sb.length() > 0) {
                             sb.deleteCharAt(sb.length() - 1);
                         }
                         break;
                     case 0xFF:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                "clean value {0}", Integer.toHexString(ch));
+                                "clean is hit value {0}", Integer.toHexString(ch));
                         sb.delete(0, sb.length() - 1);
                         break;
                     case 0x1b:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                "quit value {0}", Integer.toHexString(ch));
+                                "quit is hit value {0}", Integer.toHexString(ch));
                         password.setText("");
                         return CommonConstants.CANCEL_ENCRYPTION_KEYBOARD;
                     case 0x0d:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                "submit value {0}", Integer.toHexString(ch));
+                                "submit is hit value {0}", Integer.toHexString(ch));
                         password.setText("");
                         return CommonConstants.INVALID_ENCRYPTION_LENGTH;
                         /*if (sb.length() > 0) {
@@ -851,7 +851,7 @@ public class CommonUtil {
                         break;
                 }
                 CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                "keyboard type values length {0}/{1}",
+                                "keyboard type content length {0}/{1}",
                                 new Object[]{sb.length(), sb.toString()});
                 password.setText(sb.toString());
                 if (sb.length() == 6) {
