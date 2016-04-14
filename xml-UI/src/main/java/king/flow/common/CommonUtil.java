@@ -789,7 +789,7 @@ public class CommonUtil {
     }
 
     public static String readEncryptedString(JPasswordField password) {
-        String result = null;
+        String result = CommonConstants.ERROR_ENCRYPTION_TYPE;
         try {
             System.loadLibrary(getDriverDll(KEYBOARD));
             KeyBoardDriver keyBoardDriver = new KeyBoardDriver();
@@ -802,7 +802,8 @@ public class CommonUtil {
                 if (duration > 20) {
                     CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                             "read pin time out as duration {0} greater than 20s", duration);
-                    break;
+                    password.setText("");
+                    return CommonConstants.TIMEOUT_ENCRYPTION_TYPE;
                 }
                 int typeValue = keyBoardDriver.ScanKeyPress(errMsg);
                 if (typeValue == -1) {

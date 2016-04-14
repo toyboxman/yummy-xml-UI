@@ -56,7 +56,9 @@ public class CommonConstants {
     public static final String DEFAULT_DATE_FORMATE = "yyyy-MM-dd";
     public static final String VALID_BANK_CARD = "validBankCard";
     public static final String CANCEL_ENCRYPTION_KEYBOARD = "[QUIT]";
-    public static final String INVALID_ENCRYPTION_LENGTH = "[INVALID]";
+    public static final String INVALID_ENCRYPTION_LENGTH = "encryption.keyboard.type.length.prompt";
+    public static final String TIMEOUT_ENCRYPTION_TYPE = "encryption.keyboard.type.timeout.prompt";
+    public static final String ERROR_ENCRYPTION_TYPE = "encryption.keyboard.type.fail.prompt";
     public static final int CONTAINER_KEY = Integer.MAX_VALUE;
     public static final int NORMAL = 0;
     public static final int ABNORMAL = 1;
