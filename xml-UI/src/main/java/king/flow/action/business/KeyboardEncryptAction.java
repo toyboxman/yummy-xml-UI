@@ -57,14 +57,11 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
             readEncryptionTask = new ReadEncryptionTask();
             readEncryptionTask.execute();
         }
-        
 
         @Override
         public void focusLost(FocusEvent e) {
             if (readEncryptionTask != null) {
-                readEncryptionTask.cancel(true);
                 readEncryptionTask = null;
-                CommonUtil.closeEncryptedKeyboard();
             }
         }
 
@@ -75,7 +72,7 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
         @Override
         protected String doInBackground() throws Exception {
             //if page has been moved, do not prompt user
-            if (!owner.isShowing()) {
+            if (!owner.isShowing() || !owner.isFocusOwner()) {
                 return null;
             }
 
@@ -88,10 +85,6 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
 
             String encryption = CommonUtil.readEncryptedString(owner);
 
-            if (!owner.isShowing()) {
-                return null;
-            }
-
             switch (encryption) {
                 case CommonConstants.ERROR_ENCRYPTION_TYPE:
                 case CommonConstants.TIMEOUT_ENCRYPTION_TYPE:
@@ -99,6 +92,9 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                     removeCursor();
                     CommonUtil.showMsg(owner.getTopLevelAncestor(),
                             CommonUtil.getResourceMsg(encryption));
+                    return null;
+                case CommonConstants.QUIT_ENCRYPTION_KEYBOARD:
+                    removeCursor();
                     return null;
                 case CommonConstants.CANCEL_ENCRYPTION_KEYBOARD:
                     removeCursor();

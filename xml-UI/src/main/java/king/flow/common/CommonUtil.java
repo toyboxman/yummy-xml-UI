@@ -797,6 +797,9 @@ public class CommonUtil {
             StringBuilder sb = new StringBuilder();
             final long start = System.currentTimeMillis();
             while (true) {
+                if (!password.isShowing() || !password.isFocusOwner()) {
+                    return CommonConstants.QUIT_ENCRYPTION_KEYBOARD;
+                }
                 Thread.sleep(200);
                 long now = System.currentTimeMillis();
                 long duration = TimeUnit.MILLISECONDS.toSeconds(now - start);
@@ -810,7 +813,7 @@ public class CommonUtil {
                 if (typeValue == -1) {
                     continue;
                 }
-                
+
                 char ch = (char) typeValue; //char type is unsigned, it cannot be -1
                 switch (ch) {
                     case 0x08://backspace
@@ -835,7 +838,7 @@ public class CommonUtil {
                                 "submit is hit value {0}", Integer.toHexString(ch));
                         password.setText("");
                         return CommonConstants.INVALID_ENCRYPTION_LENGTH;
-                        /*if (sb.length() > 0) {
+                    /*if (sb.length() > 0) {
                             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                     "read pin operation ends up");
                             String cardNum = retrieveCargo(CommonConstants.VALID_BANK_CARD);
@@ -845,16 +848,22 @@ public class CommonUtil {
                                     "final pinblock reuslt: {0}", result);
                             return result;
                         }*/
-                    default:
+                    case 0x2a:
                         CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
                                 "useful keyborad type value {0}/{1}",
                                 new Object[]{Integer.toHexString(ch), ch});
                         sb.append(ch);
                         break;
+                    default:
+                        CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                                "invalid keyborad type value {0}/{1}",
+                                new Object[]{Integer.toHexString(ch), ch});
+                        sb.append(ch);
+                        continue;
                 }
                 CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                                "keyboard type content length {0}/{1}",
-                                new Object[]{sb.length(), sb.toString()});
+                        "keyboard type content length {0}/{1}",
+                        new Object[]{sb.length(), sb.toString()});
                 password.setText(sb.toString());
                 if (sb.length() == 6) {
                     CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
@@ -893,7 +902,7 @@ public class CommonUtil {
                     TunnelBuilder.getTunnelBuilder().getUnionPayID(),
                     errMsg);
             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                            "final mac reuslt: {0}", mac);
+                    "final mac reuslt: {0}", mac);
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
