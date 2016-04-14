@@ -38,6 +38,12 @@
             </rect>
             <text>提示信息:</text>
         </attribute>
+		 <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+                <fontStyle>BOLD</fontStyle> <!--optional setting, valid value is BOLD/PLAIN/ITALIC -->
+            </setFontAction>
+        </action>
     </component>
 	
     <component>
