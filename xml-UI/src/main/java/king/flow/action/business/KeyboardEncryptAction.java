@@ -30,6 +30,7 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
     private final int moneyId;
     private final Integer nextTrigger;
     private final Integer cancelTrigger;
+    private ReadEncryptionTask readEncryptionTask;
 
     public KeyboardEncryptAction(int moneyId, Integer nextTrigger, Integer cancelTrigger) {
         this.moneyId = moneyId;
@@ -53,8 +54,18 @@ public class KeyboardEncryptAction extends DefaultAction<JPasswordField> {
                 removeCursor();
                 return;
             }
+            readEncryptionTask = new ReadEncryptionTask();
+            readEncryptionTask.execute();
+        }
+        
 
-            new ReadEncryptionTask().execute();
+        @Override
+        public void focusLost(FocusEvent e) {
+            if (readEncryptionTask != null) {
+                readEncryptionTask.cancel(true);
+                readEncryptionTask = null;
+                CommonUtil.closeEncryptedKeyboard();
+            }
         }
 
     }

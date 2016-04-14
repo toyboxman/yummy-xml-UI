@@ -797,6 +797,7 @@ public class CommonUtil {
             StringBuilder sb = new StringBuilder();
             final long start = System.currentTimeMillis();
             while (true) {
+                Thread.sleep(200);
                 long now = System.currentTimeMillis();
                 long duration = TimeUnit.MILLISECONDS.toSeconds(now - start);
                 if (duration > 20) {
