@@ -79,7 +79,13 @@ public class InsertCardAction extends DefaultBaseAction {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
+                if (cardType == DeviceEnum.GZ_CARD) {
+                    progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"
+                            + "." + DeviceEnum.GZ_CARD.value()));
+                } else {
+                    progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
+                }
+                
                 Window windowNode = getWindowNode();
                 UiStyle uiStyle = windowNode.getUiStyle();
                 if (uiStyle != null && uiStyle.getFont() != null && uiStyle.getFont().getName() != null) {
