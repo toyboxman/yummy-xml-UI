@@ -1349,4 +1349,15 @@ public class CommonUtil {
         }
         return CommonConstants.CARD_AFFILIATION_EXTERNAL;
     }
+    
+    static Boolean allowCPUCard = false;
+
+    public static boolean allowCPUCard() {
+        return allowCPUCard == null ? false : allowCPUCard;
+    }
+
+    public static void setAllowCPUCard(boolean allowCPUCard) {
+        CommonUtil.allowCPUCard = allowCPUCard;
+    }
+    
 }

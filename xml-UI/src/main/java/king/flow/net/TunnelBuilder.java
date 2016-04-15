@@ -84,6 +84,7 @@ public class TunnelBuilder {
             this.period = tsp.getRegistration().getHeartbeat();
             if (tsp.getMisc() != null) {
                 CommonUtil.setBankCardPrefix(tsp.getMisc().getBankCardPrefix());
+                CommonUtil.setAllowCPUCard(tsp.getMisc().isAllowCPU());
             }
         } catch (JAXBException ex) {
             getLogger(TunnelBuilder.class.getName()).log(Level.SEVERE, null, ex);
