@@ -12,6 +12,7 @@ import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 import king.flow.common.CommonConstants;
+import static king.flow.common.CommonUtil.getLogger;
 import king.flow.net.Transportation;
 
 /**
@@ -31,7 +32,8 @@ public class NetConfProcessor {
         try {
             this.context = JAXBContext.newInstance(CommonConstants.NET_CONF_PACKAGE_CONTEXT);
         } catch (JAXBException ex) {
-            Logger.getLogger(NetConfProcessor.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(NetConfProcessor.class.getName()).log(Level.SEVERE,
+                    "cannot init backend parser due to: \n{0}", ex);
             throw ex;
         }
         return this;
@@ -47,7 +49,9 @@ public class NetConfProcessor {
             Transportation transportation = (Transportation) unmarshaller.unmarshal(new File(this.xmlPath));
             return transportation;
         } catch (JAXBException ex) {
-            Logger.getLogger(NetConfProcessor.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(NetConfProcessor.class.getName()).log(Level.SEVERE,
+                    "fail to parse {0} due to: \n{1}",
+                    new Object[]{this.xmlPath, ex});
             throw ex;
         }
     }

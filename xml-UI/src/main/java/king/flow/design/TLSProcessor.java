@@ -17,6 +17,7 @@ import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.ABNORMAL;
 import static king.flow.common.CommonConstants.NORMAL;
 import static king.flow.common.CommonConstants.VERSION;
+import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getStartTimeMillis;
 import static king.flow.common.CommonUtil.getTerminalStatusValue;
 import static king.flow.common.CommonUtil.isKeyboardReady;
@@ -42,7 +43,8 @@ public class TLSProcessor {
             this.context = JAXBContext.newInstance(CommonConstants.TLS_PACKAGE_CONTEXT);
             this.factory = new ObjectFactory();
         } catch (JAXBException ex) {
-            Logger.getLogger(TLSProcessor.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(TLSProcessor.class.getName()).log(Level.SEVERE,
+                    "cannot init TLS parser due to: \n{0}", ex);
             throw ex;
         }
         return this;
@@ -61,7 +63,9 @@ public class TLSProcessor {
             Unmarshaller unmarshaller = this.context.createUnmarshaller();
             return (TLS) unmarshaller.unmarshal(new StringReader(tls));
         } catch (JAXBException ex) {
-            Logger.getLogger(TLSProcessor.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(TLSProcessor.class.getName()).log(Level.SEVERE,
+                    "fail to parse {0} due to: \n{1}",
+                    new Object[]{tls, ex});
             throw ex;
         }
     }
@@ -81,7 +85,7 @@ public class TLSProcessor {
     public JAXBElement<String> createTerminalID(String id) {
         return factory.createTerminalid(id);
     }
-    
+
     public JAXBElement<String> createUnionPayID(String unionPayID) {
         return factory.createUnionpayid(unionPayID);
     }
@@ -144,17 +148,17 @@ public class TLSProcessor {
         payload.add(ok);
         JAXBElement<String> err = factory.createErrmsg(errmsg);
         payload.add(err);
-        
+
         if (cargomsg != null) {
             JAXBElement<String> cargo = factory.createCargo(cargomsg);
             payload.add(cargo);
         }
-        
+
         if (prtmsg != null) {
             JAXBElement<String> prt = buildJAXBElement(prtmsg, TLSResult.PRT_MSG);
             payload.add(prt);
         }
-        
+
         if (redirection != null) {
             JAXBElement<String> redirectionPage = factory.createRedirection(redirection);
             payload.add(redirectionPage);
@@ -181,7 +185,8 @@ public class TLSProcessor {
             Marshaller marshaller = this.context.createMarshaller();
             marshaller.marshal(tls, sw);
         } catch (JAXBException ex) {
-            Logger.getLogger(TLSProcessor.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(TLSProcessor.class.getName()).log(Level.SEVERE,
+                    "fail to build TLS due to: \n{0}", ex);
         }
         return sw.toString();
     }
@@ -189,18 +194,19 @@ public class TLSProcessor {
     public String buildTLS(JAXBElement... parameters) {
         return buildTLS(Arrays.asList(parameters));
     }
-    
+
     public String buildTLS(TLS tls) {
         if (tls == null) {
             return null;
         }
-        
+
         StringWriter sw = new StringWriter();
         try {
             Marshaller marshaller = this.context.createMarshaller();
             marshaller.marshal(tls, sw);
         } catch (JAXBException ex) {
-            Logger.getLogger(TLSProcessor.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(TLSProcessor.class.getName()).log(Level.SEVERE,
+                    "fail to build TLS due to: \n{0}", ex);
         }
         return sw.toString();
     }
