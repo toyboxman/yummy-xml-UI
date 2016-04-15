@@ -120,13 +120,17 @@ public class WriteCardAction extends BalanceTransAction {
                 showErrMsg(Integer.MIN_VALUE,
                         getResourceMsg("terminal.invalidated.response.prompt"));
                 return resp;
-            } else if (result.getRetCode() != 0) {
+            } else if (result.getRetCode() != CommonConstants.NORMAL) {
                 final String errMsg = result.getErrMsg();
                 getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                         "Operation action failed with retcode {0}, root cause : \n{1}",
                         new Object[]{result.getRetCode(), errMsg});
-                showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
-                        ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
+                if (result.getRetCode() == CommonConstants.BALANCE) {
+                    return strikeBalance(conditionValues, msg);
+                } else {
+                    showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
+                            ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
+                }
                 return resp;
             }
 
@@ -166,52 +170,7 @@ public class WriteCardAction extends BalanceTransAction {
                 getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
                         "Fail to write card due to : \n{0}", e.getMessage());
                 //launch strike-balance for card writing failure
-                String strike_balance = buildBalancedMsg(conditionValues, msg);
-                //add balance MAC
-                TLSProcessor tlsProcess = new TLSProcessor().init();
-                TLS strikeTLS = tlsProcess.parse(strike_balance);
-                TLS previousTLS = tlsProcess.parse(msg);
-                for (Object tag : previousTLS.getAny()) {
-                    JAXBElement element = (JAXBElement) tag;
-                    switch (element.getName().getLocalPart()) {
-                        case TLSResult.UNIONPAY_CARD_INFO:
-                            strikeTLS.getAny().add(element);
-                            break;
-                        case TLSResult.UNIONPAY_MAC_INFO:
-                            final String balancedPayMac = CommonUtil.retrieveCargo(
-                                    CommonConstants.BALANCED_PAY_MAC);
-                            if (balancedPayMac != null) {
-                                element.setValue(balancedPayMac);
-                            } else {
-                                element.setValue("");
-                            }
-                            strikeTLS.getAny().add(element);
-                            CommonUtil.cleanTranStation(
-                                    CommonConstants.BALANCED_PAY_MAC);
-                            break;
-                        default:
-                            break;
-                    }
-                }
-
-                strike_balance = tlsProcess.buildTLS(strikeTLS);
-                getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
-                        "Sending balanced transaction TLS Message for card-writing failure: \n{0}", strike_balance);
-                try {
-                    if (cmdCode < 0) {
-                        resp = sendMessage(strike_balance);
-                    } else {
-                        resp = sendMessage(cmdCode, strike_balance);
-                    }
-                } catch (Exception exception) {
-                    getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
-                            "Fail to send strike-balance message due to : {0}", exception.getMessage());
-                    throw exception;
-                } finally {
-                    showErrMsg(Integer.MIN_VALUE, getResourceMsg("operation.card.write.error"));
-                }
-
-                return resp;
+                return strikeBalance(conditionValues, msg);
             }
 
             //be successful and show final result to user
@@ -224,6 +183,56 @@ public class WriteCardAction extends BalanceTransAction {
             } else {
                 //show msg to dedicated component
                 showDoneMsg(showResult);
+            }
+
+            return resp;
+        }
+
+        private String strikeBalance(Map<Integer, String> conditionValues, String msg) throws Exception {
+            String strike_balance = buildBalancedMsg(conditionValues, msg);
+            //add balance MAC
+            TLSProcessor tlsProcess = new TLSProcessor().init();
+            TLS strikeTLS = tlsProcess.parse(strike_balance);
+            TLS previousTLS = tlsProcess.parse(msg);
+            for (Object tag : previousTLS.getAny()) {
+                JAXBElement element = (JAXBElement) tag;
+                switch (element.getName().getLocalPart()) {
+                    case TLSResult.UNIONPAY_CARD_INFO:
+                        strikeTLS.getAny().add(element);
+                        break;
+                    case TLSResult.UNIONPAY_MAC_INFO:
+                        final String balancedPayMac = CommonUtil.retrieveCargo(
+                                CommonConstants.BALANCED_PAY_MAC);
+                        if (balancedPayMac != null) {
+                            element.setValue(balancedPayMac);
+                        } else {
+                            element.setValue("");
+                        }
+                        strikeTLS.getAny().add(element);
+                        CommonUtil.cleanTranStation(
+                                CommonConstants.BALANCED_PAY_MAC);
+                        break;
+                    default:
+                        break;
+                }
+            }
+
+            strike_balance = tlsProcess.buildTLS(strikeTLS);
+            getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
+                    "Sending balanced transaction TLS Message for card-writing failure: \n{0}", strike_balance);
+            String resp = null;
+            try {
+                if (cmdCode < 0) {
+                    resp = sendMessage(strike_balance);
+                } else {
+                    resp = sendMessage(cmdCode, strike_balance);
+                }
+            } catch (Exception exception) {
+                getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
+                        "Fail to send strike-balance message due to : {0}", exception.getMessage());
+                throw exception;
+            } finally {
+                showErrMsg(Integer.MIN_VALUE, getResourceMsg("operation.card.write.error"));
             }
 
             return resp;
