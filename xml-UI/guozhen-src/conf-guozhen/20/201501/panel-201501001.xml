@@ -374,7 +374,7 @@
             <text>下一步</text>
         </attribute>		
         <action>
-            <sendMsgAction>
+            <balanceTransAction>
                 <prsCode>pay_pubiao</prsCode>
                 <conditions>201501014,201501016,201501012</conditions>
                 <nextStep>  
@@ -395,7 +395,7 @@
                         <errMsg>请用密码键盘输入密码</errMsg>
                     </notNull>
                 </checkRules>
-            </sendMsgAction>
+            </balanceTransAction>
         </action>
     </component>
 	
