@@ -236,7 +236,7 @@
             </action>
         </component>
     </decorator>
-	-->
+	
     <component>
         <id>20110668</id>
         <type>Label</type>
@@ -255,5 +255,5 @@
             </setFontAction>
         </action>
     </component>
-    
+    -->
 </panel>
