@@ -90,24 +90,7 @@ public class WriteCardAction extends BalanceTransAction {
             } else {
                 getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
                         "Retrieve nothing from server");
-                //launch strike-balance for previous transaction timeout
-                String strike_balance = buildBalancedMsg(conditionValues, msg);
-                getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
-                        "Sending balanced transaction TLS Message for timeout : \n{0}", strike_balance);
-                try {
-                    if (cmdCode < 0) {
-//                        resp = sendMessage(strike_balance);
-                    } else {
-//                        resp = sendMessage(cmdCode, strike_balance);
-                    }
-                } catch (Exception exception) {
-                    getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
-                            "Fail to send strike-balance message due to : {0}", exception.getMessage());
-                    throw exception;
-                } finally {
-                    showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.no.response.prompt"));
-                }
-
+                showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.no.response.prompt"));
                 return resp;
             }
 
