@@ -87,6 +87,7 @@ import static king.flow.view.FontstyleEnum.PLAIN;
 import org.w3c.dom.DOMException;
 import static king.flow.data.TLSResult.UNIONPAY_CARD_INFO;
 import static king.flow.data.TLSResult.UNIONPAY_MAC_INFO;
+import king.flow.net.Transportation;
 import static king.flow.view.DeviceEnum.PKG_8583;
 
 /**
@@ -1350,14 +1351,18 @@ public class CommonUtil {
         return CommonConstants.CARD_AFFILIATION_EXTERNAL;
     }
     
-    static Boolean allowCPUCard = false;
+    static Transportation.Misc.AllowCPU allowCPUCard = null;
 
     public static boolean allowCPUCard() {
-        return allowCPUCard == null ? false : allowCPUCard;
+        return allowCPUCard != null;
     }
 
-    public static void setAllowCPUCard(boolean allowCPUCard) {
+    public static void setAllowCPUCard(Transportation.Misc.AllowCPU allowCPUCard) {
         CommonUtil.allowCPUCard = allowCPUCard;
+    }
+
+    public static Transportation.Misc.AllowCPU getAllowCPUConfig() {
+        return allowCPUCard;
     }
     
 }

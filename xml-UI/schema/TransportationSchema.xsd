@@ -35,7 +35,20 @@
                                     <xs:list itemType='xs:string'/>
                                 </xs:simpleType>
                             </xs:element>
-                            <xs:element type="xs:boolean" name="allowCPU"  maxOccurs="1" minOccurs="0"/>
+                            <xs:element name="allowCPU"  maxOccurs="1" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:all>
+                                        <xs:element name="period">
+                                            <xs:complexType>
+                                                <xs:all>
+                                                    <xs:element name="start" type="xs:time"/>
+                                                    <xs:element name="end" type="xs:time"/>
+                                                </xs:all>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:all>
+                                </xs:complexType>
+                            </xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
