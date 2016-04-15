@@ -85,7 +85,7 @@ public class InsertCardAction extends DefaultBaseAction {
                 } else {
                     progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
                 }
-                
+
                 Window windowNode = getWindowNode();
                 UiStyle uiStyle = windowNode.getUiStyle();
                 if (uiStyle != null && uiStyle.getFont() != null && uiStyle.getFont().getName() != null) {
@@ -171,6 +171,11 @@ public class InsertCardAction extends DefaultBaseAction {
                     JsonElement gasSurplus = element.get(GzCardConductor.CARD_SPARE);
                     if (gasSurplus == null) {
                         gasSurplus = new JsonPrimitive("0");
+                        element.put(GzCardConductor.CARD_SPARE, gasSurplus);
+                    }
+
+                    if (!String.valueOf(gasSurplus).equals("0")) {
+                        throw new Exception(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT);
                     }
 
                     JsonElement cardType = element.get(GzCardConductor.CARD_FACTORY);

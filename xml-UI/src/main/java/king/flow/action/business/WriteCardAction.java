@@ -153,8 +153,8 @@ public class WriteCardAction extends BalanceTransAction {
                 cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
                 cardInfo.put(GzCardConductor.CARD_GAS_COUNT, gasCount);
                 String cardType = cardInfo.getString(GzCardConductor.CARD_FACTORY);
-                if (cardType.equals(GzCardConductor.CARD_2_TYPE)
-                        || cardType.equals(GzCardConductor.CARD_3_TYPE)) {
+                if (cardType.equals(GzCardConductor.CARD2_TYPE)
+                        || cardType.equals(GzCardConductor.CARD3_TYPE)) {
                     cardInfo.put(GzCardConductor.WRITE_CARD_CODE, writeCardCode);
                 }
                 int writeResult = CommonConstants.ABNORMAL;
