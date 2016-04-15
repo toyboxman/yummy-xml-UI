@@ -12,6 +12,7 @@ import com.github.jsonj.tools.JsonParser;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.List;
 import java.util.logging.Level;
 import javax.swing.ImageIcon;
@@ -23,6 +24,7 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.SwingWorker;
 import javax.swing.plaf.FontUIResource;
+import javax.xml.datatype.XMLGregorianCalendar;
 import king.flow.action.DefaultBaseAction;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
@@ -34,6 +36,7 @@ import king.flow.view.Component;
 import king.flow.view.UiStyle;
 import king.flow.view.Window;
 import static king.flow.common.CommonUtil.swipeGzICCard;
+import king.flow.net.Transportation;
 import king.flow.view.DeviceEnum;
 
 /**
@@ -190,6 +193,14 @@ public class InsertCardAction extends DefaultBaseAction {
                         case GzCardConductor.CARD4_TYPE:
                             if (!CommonUtil.allowCPUCard()) {
                                 throw new Exception(GzCardConductor.GUOZHEN_CARD_OPERATION_PROMPT);
+                            } else {
+                                Transportation.Misc.AllowCPU allowCPUConfig = CommonUtil.getAllowCPUConfig();
+                                long start = CommonUtil.convertCalendarToMills(allowCPUConfig.getPeriod().getStart());
+                                long end = CommonUtil.convertCalendarToMills(allowCPUConfig.getPeriod().getEnd());
+                                long now = System.currentTimeMillis();
+                                if (now < start || now > end) {
+                                    throw new Exception(GzCardConductor.GUOZHEN_CARD_PERIOD_PROMPT);
+                                }
                             }
                             break;
                         default:

@@ -44,6 +44,7 @@ import javax.swing.SwingWorker;
 import javax.swing.UIManager;
 import javax.xml.bind.JAXBElement;
 import javax.xml.bind.JAXBException;
+import javax.xml.datatype.XMLGregorianCalendar;
 import javax.xml.namespace.QName;
 import king.flow.action.DefaultAction;
 import static king.flow.common.CommonConstants.ABNORMAL;
@@ -1350,7 +1351,7 @@ public class CommonUtil {
         }
         return CommonConstants.CARD_AFFILIATION_EXTERNAL;
     }
-    
+
     static Transportation.Misc.AllowCPU allowCPUCard = null;
 
     public static boolean allowCPUCard() {
@@ -1364,5 +1365,14 @@ public class CommonUtil {
     public static Transportation.Misc.AllowCPU getAllowCPUConfig() {
         return allowCPUCard;
     }
-    
+
+    public static long convertCalendarToMills(XMLGregorianCalendar calendar) {
+        Calendar markStart = Calendar.getInstance();
+        markStart.setTimeInMillis(System.currentTimeMillis());
+        markStart.set(Calendar.HOUR_OF_DAY, calendar.getHour());
+        markStart.set(Calendar.MINUTE, calendar.getMinute());
+        markStart.set(Calendar.SECOND, calendar.getSecond());
+        return markStart.getTimeInMillis();
+    }
+
 }

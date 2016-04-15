@@ -22,6 +22,7 @@ public class GzCardConductor {
     public static final String UNSUPPORT_CARD_TYPE = "0";
     public static final String GUOZHEN_CARD_OPERATION_PROMPT = "guozhen.operation.card.type.prompt";
     public static final String GUOZHEN_CARD_BUY_PROMPT = "guozhen.operation.card.surplus.prompt";
+     public static final String GUOZHEN_CARD_PERIOD_PROMPT = "guozhen.operation.card.period.prompt";
 
     public native String readCard(String comport);
 
