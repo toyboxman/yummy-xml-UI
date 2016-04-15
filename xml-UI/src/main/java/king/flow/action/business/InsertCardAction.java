@@ -180,10 +180,20 @@ public class InsertCardAction extends DefaultBaseAction {
 
                     JsonElement cardType = element.get(GzCardConductor.CARD_FACTORY);
                     if (cardType == null) {
-                        cardType = new JsonPrimitive("0");
-                    } else if (String.valueOf(cardType)
-                            .equals(GzCardConductor.UNSUPPORT_CARD_TYPE)) {
-                        throw new Exception(GzCardConductor.GUOZHEN_CARD_OPERATION_PROMPT);
+                        cardType = new JsonPrimitive(GzCardConductor.UNSUPPORT_CARD_TYPE);
+                        element.put(GzCardConductor.CARD_FACTORY, cardType);
+                    }
+
+                    switch (String.valueOf(cardType)) {
+                        case GzCardConductor.UNSUPPORT_CARD_TYPE:
+                            throw new Exception(GzCardConductor.GUOZHEN_CARD_OPERATION_PROMPT);
+                        case GzCardConductor.CARD4_TYPE:
+                            if (!CommonUtil.allowCPUCard()) {
+                                throw new Exception(GzCardConductor.GUOZHEN_CARD_OPERATION_PROMPT);
+                            }
+                            break;
+                        default:
+                            break;
                     }
 
                     //cache current card information for writing action

@@ -18,7 +18,8 @@ public class GzCardConductor {
     public static final String WRITE_CARD_CODE = "writecardcode";
     public static final String CARD2_TYPE = "2";
     public static final String CARD3_TYPE = "3";
-    public static final String UNSUPPORT_CARD_TYPE = "4";
+    public static final String CARD4_TYPE = "4";
+    public static final String UNSUPPORT_CARD_TYPE = "0";
     public static final String GUOZHEN_CARD_OPERATION_PROMPT = "guozhen.operation.card.type.prompt";
     public static final String GUOZHEN_CARD_BUY_PROMPT = "guozhen.operation.card.surplus.prompt";
 
