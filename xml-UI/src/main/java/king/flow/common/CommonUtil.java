@@ -29,6 +29,7 @@ import java.util.Random;
 import java.util.ResourceBundle;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 import java.util.logging.Level;
@@ -1197,6 +1198,16 @@ public class CommonUtil {
                 }
             }
             return result;
+        }
+
+        @Override
+        protected void done() {
+            try {
+                setKeyboardStatus(get());
+            } catch (InterruptedException | ExecutionException ex) {
+                Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                        "fail to download cipher due to :\n{0}", ex);
+            }
         }
 
     }
