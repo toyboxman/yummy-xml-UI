@@ -64,7 +64,7 @@ public class CommonConstants {
     public static final int CONTAINER_KEY = Integer.MAX_VALUE;
     public static final int NORMAL = 0;
     public static final int ABNORMAL = 1;
-    public static final int BALANCE = 11;
+    public static final int BALANCE = 12345;
     public static final int RESTART_SIGNAL = 1;
     public static final int DOWNLOAD_KEY_SIGNAL = 1;
     public static final int UPDATE_SIGNAL = 1;
