@@ -8,7 +8,9 @@ package king.flow.action.business;
 import com.sun.org.apache.xerces.internal.dom.ElementNSImpl;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.SwingWorker;
 import javax.xml.bind.JAXBElement;
 import king.flow.action.DefaultMsgSendAction;
@@ -58,6 +60,60 @@ public class BalanceTransAction extends DefaultMsgSendAction {
         return balancedMsg;
     }
 
+    protected String strikeBalance(Map<Integer, String> conditionValues, String previousMsg, String errMsg) throws Exception {
+        String strike_balance = buildBalancedMsg(conditionValues, previousMsg);
+        //add balance MAC
+        TLSProcessor tlsProcess = new TLSProcessor().init();
+        TLS strikeTLS = tlsProcess.parse(strike_balance);
+        TLS previousTLS = tlsProcess.parse(previousMsg);
+        for (Object tag : previousTLS.getAny()) {
+            JAXBElement element = null;
+            if (tag instanceof ElementNSImpl) {
+                ElementNSImpl rawElement = (ElementNSImpl) tag;
+                element = CommonUtil.createJAXBElement(rawElement.getLocalName(), rawElement.getTextContent());
+            } else {
+                element = (JAXBElement) tag;
+            }
+            switch (element.getName().getLocalPart()) {
+                case TLSResult.UNIONPAY_CARD_INFO:
+                case TLSResult.UNIONPAY_MAC_INFO:
+                    strikeTLS.getAny().add(element);
+                    break;
+                default:
+                    break;
+            }
+        }
+        final String balancedPayMac = CommonUtil.retrieveCargo(
+                CommonConstants.BALANCED_PAY_MAC);
+        if (balancedPayMac != null) {
+            strikeTLS.getAny().add(CommonUtil.createJAXBElement(
+                    TLSResult.BALANCE_UNIONPAY_MAC_INFO,
+                    balancedPayMac));
+            CommonUtil.cleanTranStation(
+                    CommonConstants.BALANCED_PAY_MAC);
+        }
+
+        strike_balance = tlsProcess.buildTLS(strikeTLS);
+        getLogger(BalanceTRXTask.class.getName()).log(Level.INFO,
+                "Sending balanced transaction TLS Message : \n{0}", strike_balance);
+        String resp = null;
+        try {
+            if (cmdCode < 0) {
+                resp = sendMessage(strike_balance);
+            } else {
+                resp = sendMessage(cmdCode, strike_balance);
+            }
+        } catch (Exception exception) {
+            getLogger(BalanceTRXTask.class.getName()).log(Level.WARNING,
+                    "Fail to send strike-balance message due to : {0}", exception.getMessage());
+            throw exception;
+        } finally {
+            showErrMsg(Integer.MIN_VALUE, errMsg);
+        }
+
+        return resp;
+    }
+
     private class BalanceTRXTask extends SwingWorker<String, Integer> {
 
         @Override
@@ -87,7 +143,7 @@ public class BalanceTransAction extends DefaultMsgSendAction {
                 getLogger(BalanceTRXTask.class.getName()).log(Level.WARNING,
                         "Retrieve nothing from server");
                 //launch strike-balance for previous transaction timeout
-                return strikeBalance(conditionValues, msg);
+                return strikeBalance(conditionValues, msg, getResourceMsg("terminal.no.response.prompt"));
             }
 
             TLSResult result = parseTLSMessage(resp);
@@ -104,7 +160,7 @@ public class BalanceTransAction extends DefaultMsgSendAction {
                         "Operation action failed with retcode {0}, root cause : \n{1}",
                         new Object[]{result.getRetCode(), errMsg});
                 if (result.getRetCode() == CommonConstants.BALANCE) {
-                    return strikeBalance(conditionValues, msg);
+                    return strikeBalance(conditionValues, msg, getResourceMsg("terminal.no.response.prompt"));
                 } else {
                     showErrMsg(Integer.MIN_VALUE, (errMsg == null || errMsg.length() == 0)
                             ? getResourceMsg("terminal.failed.operation.prompt") : errMsg);
@@ -125,60 +181,16 @@ public class BalanceTransAction extends DefaultMsgSendAction {
             return resp;
         }
 
-        private String strikeBalance(Map<Integer, String> conditionValues, String msg) throws Exception {
-            String strike_balance = buildBalancedMsg(conditionValues, msg);
-            //add balance MAC
-            TLSProcessor tlsProcess = new TLSProcessor().init();
-            TLS strikeTLS = tlsProcess.parse(strike_balance);
-            TLS previousTLS = tlsProcess.parse(msg);
-            for (Object tag : previousTLS.getAny()) {
-                JAXBElement element = null;
-                if (tag instanceof ElementNSImpl) {
-                    ElementNSImpl rawElement = (ElementNSImpl) tag;
-                    element = CommonUtil.createJAXBElement(rawElement.getLocalName(), rawElement.getTextContent());
-                } else {
-                    element = (JAXBElement) tag;
-                }
-                switch (element.getName().getLocalPart()) {
-                    case TLSResult.UNIONPAY_CARD_INFO:
-                        strikeTLS.getAny().add(element);
-                        break;
-                    case TLSResult.UNIONPAY_MAC_INFO:
-                        final String balancedPayMac = CommonUtil.retrieveCargo(
-                                CommonConstants.BALANCED_PAY_MAC);
-                        if (balancedPayMac != null) {
-                            element.setValue(balancedPayMac);
-                        } else {
-                            element.setValue("");
-                        }
-                        strikeTLS.getAny().add(element);
-                        CommonUtil.cleanTranStation(
-                                CommonConstants.BALANCED_PAY_MAC);
-                        break;
-                    default:
-                        break;
-                }
-            }
-
-            strike_balance = tlsProcess.buildTLS(strikeTLS);
-            getLogger(BalanceTRXTask.class.getName()).log(Level.INFO,
-                    "Sending balanced transaction TLS Message : \n{0}", strike_balance);
-            String resp = null;
+        @Override
+        protected void done() {
             try {
-                if (cmdCode < 0) {
-                    resp = sendMessage(strike_balance);
-                } else {
-                    resp = sendMessage(cmdCode, strike_balance);
-                }
-            } catch (Exception exception) {
-                getLogger(BalanceTRXTask.class.getName()).log(Level.WARNING,
-                        "Fail to send strike-balance message due to : {0}", exception.getMessage());
-                throw exception;
-            } finally {
-                showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.no.response.prompt"));
+                get();
+            } catch (InterruptedException | ExecutionException ex) {
+                Logger.getLogger(BalanceTransAction.class.getName()).log(Level.WARNING,
+                        "fail to do this transaction due to :\n{0}", ex);
             }
-
-            return resp;
         }
+
     }
+
 }

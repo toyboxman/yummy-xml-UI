@@ -29,6 +29,7 @@ public class TLSResult {
     public final static String PRT_MSG = "prtmsg";
     public final static String UNIONPAY_CARD_INFO = "unioninfo";
     public final static String UNIONPAY_MAC_INFO = "unionMAC";
+    public final static String BALANCE_UNIONPAY_MAC_INFO = "bunionMAC";
 
     private int retCode;
     private String okMsg;
