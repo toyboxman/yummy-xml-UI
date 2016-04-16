@@ -220,6 +220,9 @@ public class TunnelBuilder {
                             File downloadFile = updateTool.downloadFile(updateTool.getUpdateUrl());
                             boolean isComprehensive = updateTool.checkSumFile(downloadFile, updateTool.getMd5());
                             if (isComprehensive) {
+                                getLogger(HeartBeatTask.class.getName()).log(Level.INFO,
+                                        "Succeed in downloading package {0}, new application entry will be :\n{1}",
+                                        new Object[]{appUpdatePath, updateTool.getUpdateFolderPath()});
                                 Charset GB2312 = Charset.forName("GB2312");
                                 boolean success = updateTool.updateApp(new ZipFile(downloadFile, GB2312));
                                 if (success) {

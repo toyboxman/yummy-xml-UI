@@ -157,6 +157,10 @@ public class HttpUpdateTool implements Update {
                 }
             }
             zipFile.close();
+            getLogger(HttpUpdateTool.class.getName()).log(Level.INFO,
+                    "unzip downloaded package {0} in folder {1}",
+                    new Object[]{zipFile.getName(), workingFolder.getPath()});
+            
             String makeShortcut = "cmd /C " + workingFolder.getCanonicalPath() + File.separator
                     + "mkshortcut /target:\"" + workingFolder.getCanonicalPath() + "\"";
 //            makeShortcut = "cscript " + workingFolder.getCanonicalPath() + File.separator
