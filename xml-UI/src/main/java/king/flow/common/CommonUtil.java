@@ -208,7 +208,7 @@ public class CommonUtil {
                      "Unuseful registry response JAXBElement : {0}", e.getName().toString());
                      }*/
                 } else {
-                    getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                    getLogger(CommonUtil.class.getName()).log(Level.CONFIG,
                             "Unuseful registry response com.sun.org.apache.xerces.internal.dom.ElementNSImpl Element : {0} with value {1}",
                             new Object[]{((ElementNSImpl) o).getLocalName(), ((ElementNSImpl) o).getFirstChild().getNodeValue()});
                 }
