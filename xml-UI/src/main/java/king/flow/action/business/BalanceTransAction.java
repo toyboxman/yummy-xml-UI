@@ -5,6 +5,7 @@
  */
 package king.flow.action.business;
 
+import com.sun.org.apache.xerces.internal.dom.ElementNSImpl;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
@@ -131,7 +132,13 @@ public class BalanceTransAction extends DefaultMsgSendAction {
             TLS strikeTLS = tlsProcess.parse(strike_balance);
             TLS previousTLS = tlsProcess.parse(msg);
             for (Object tag : previousTLS.getAny()) {
-                JAXBElement element = (JAXBElement) tag;
+                JAXBElement element = null;
+                if (tag instanceof ElementNSImpl) {
+                    ElementNSImpl rawElement = (ElementNSImpl) tag;
+                    element = CommonUtil.createJAXBElement(rawElement.getLocalName(), rawElement.getTextContent());
+                } else {
+                    element = (JAXBElement) tag;
+                }
                 switch (element.getName().getLocalPart()) {
                     case TLSResult.UNIONPAY_CARD_INFO:
                         strikeTLS.getAny().add(element);
