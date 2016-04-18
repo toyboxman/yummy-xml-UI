@@ -177,10 +177,6 @@ public class InsertCardAction extends DefaultBaseAction {
                         element.put(GzCardConductor.CARD_SPARE, gasSurplus);
                     }
 
-                    if (!String.valueOf(gasSurplus).equals("0")) {
-                        throw new Exception(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT);
-                    }
-
                     JsonElement cardType = element.get(GzCardConductor.CARD_FACTORY);
                     if (cardType == null) {
                         cardType = new JsonPrimitive(GzCardConductor.UNSUPPORT_CARD_TYPE);

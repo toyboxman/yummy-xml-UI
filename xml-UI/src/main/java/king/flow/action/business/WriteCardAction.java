@@ -136,6 +136,11 @@ public class WriteCardAction extends BalanceTransAction {
 
             try {
                 JsonObject cardInfo = CommonUtil.uncacheCardInfo();
+                JsonElement gasSpare = cardInfo.get(GzCardConductor.CARD_SPARE);
+                if (!String.valueOf(gasSpare).equals("0")) {
+                    showErrMsg(Integer.MIN_VALUE, getResourceMsg(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT));
+                    throw new Exception(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT);
+                }
                 cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
                 cardInfo.put(GzCardConductor.CARD_GAS_COUNT, gasCount);
                 String cardType = cardInfo.getString(GzCardConductor.CARD_FACTORY);
@@ -156,6 +161,8 @@ public class WriteCardAction extends BalanceTransAction {
             }
 
             //be successful and show final result to user
+            CommonUtil.cleanTranStation(
+                    CommonConstants.BALANCED_PAY_MAC);
             TLSResult showResult = new TLSResult(result.getRetCode(),
                     successJson.getString("result"), result.getErrMsg(), result.getPrtMsg());
             if (next == null) {
@@ -177,6 +184,8 @@ public class WriteCardAction extends BalanceTransAction {
             } catch (InterruptedException | ExecutionException ex) {
                 Logger.getLogger(WriteCardAction.class.getName()).log(Level.WARNING,
                         "fail to write card due to : \n{0}", ex);
+                CommonUtil.cleanTranStation(
+                        CommonConstants.BALANCED_PAY_MAC);
             }
         }
     }
