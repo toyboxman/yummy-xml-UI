@@ -69,7 +69,7 @@ public class CommonConstants {
     public static final int DOWNLOAD_KEY_SIGNAL = 1;
     public static final int UPDATE_SIGNAL = 1;
     public static final String VERSION;
-    
+
     //    public static final String VERSION = Paths.get(".").toAbsolutePath().normalize().toString();
     static {
         String workingPath = System.getProperty("user.dir");
@@ -81,6 +81,15 @@ public class CommonConstants {
         }
 
     }
+
+    /* JMX configuration */
+    private static String getJmxRmiUrl(int port) {
+        return "service:jmx:rmi:///jndi/rmi://localhost:" + port + "/jmxrmi";
+    }
+    private static final int APP_JMX_RMI_PORT = 9998;
+    public static final String APP_JMX_RMI_URL = getJmxRmiUrl(APP_JMX_RMI_PORT);
+    private static final int WATCHDOG_JMX_RMI_PORT = 9999;
+    public static final String WATCHDOG_JMX_RMI_URL = getJmxRmiUrl(WATCHDOG_JMX_RMI_PORT);
 
     /* system variable pattern */
     public static final String SYSTEM_VAR_PATTERN = "\\$\\{(_?\\p{Alpha}+_\\p{Alpha}+)+\\}";
@@ -128,12 +137,12 @@ public class CommonConstants {
     public static final int INVALID_CARD_STATE = -1;
     public static final int MAGNET_CARD_STATE = 2;
     public static final int IC_CARD_STATE = 3;
-    
+
     /* union-pay transaction type */
     public static final String UNION_PAY_REGISTRATION = "1";
     public static final String UNION_PAY_TRANSACTION = "3";
     public static final String UNION_PAY_TRANSACTION_BALANCE = "4";
-    
+
     /* card affiliation type */
     public static final String CARD_AFFILIATION_INTERNAL = "1";
     public static final String CARD_AFFILIATION_EXTERNAL = "2";

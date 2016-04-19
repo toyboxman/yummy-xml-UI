@@ -8,6 +8,8 @@ import java.awt.HeadlessException;
 import java.awt.Point;
 import java.awt.Rectangle;
 import java.io.IOException;
+import java.lang.management.ManagementFactory;
+import java.rmi.registry.LocateRegistry;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -17,6 +19,10 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.management.MBeanServer;
+import javax.management.remote.JMXConnectorServer;
+import javax.management.remote.JMXConnectorServerFactory;
+import javax.management.remote.JMXServiceURL;
 import javax.swing.ImageIcon;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
@@ -36,7 +42,6 @@ import king.flow.common.CommonUtil.DownloadCipherKey;
 import static king.flow.common.CommonUtil.TerminalStatus.RESTART;
 import static king.flow.common.CommonUtil.TerminalStatus.RUNNING;
 import static king.flow.common.CommonUtil.TerminalStatus.STARTUP;
-import static king.flow.common.CommonUtil.buildListParameters;
 import static king.flow.common.CommonUtil.createFont;
 import static king.flow.common.CommonUtil.saveDriverConf;
 import static king.flow.common.CommonUtil.getLogger;
@@ -71,6 +76,21 @@ public class BankAppStarter {
         if (getTerminalStatus() != RESTART) {
             setTerminalStatus(STARTUP);
         }
+
+        try {
+            MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
+            //about url referring to http://stackoverflow.com/questions/2768087/explain-jmx-url
+            //protocol:rmi, host:localhot, port:random, url:/jndi/rmi://localhost:1099/jmxrmi
+            LocateRegistry.createRegistry(9998);
+            JMXServiceURL serviceURL = new JMXServiceURL(CommonConstants.APP_JMX_RMI_URL);
+            JMXConnectorServer jcs = JMXConnectorServerFactory.newJMXConnectorServer(serviceURL, null, mbeanServer);
+            jcs.start();
+        } catch (IOException e) {
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE,
+                    "fail to initiative JMXConnectorServer with URL[{0}] due to :\n{1}",
+                    new Object[]{CommonConstants.APP_JMX_RMI_URL, e.getMessage()});
+        }
+
         String logConf = System.getProperty(LOG_CONF);
         if (logConf == null) {
             System.setProperty(LOG_CONF, DEFAULT_LOG_CONF);
@@ -149,6 +169,7 @@ public class BankAppStarter {
 
         frame.setVisible(true);
         setTerminalStatus(RUNNING);
+
         String textTypeConfig = System.getProperty(TEXT_TYPE_TOOL_CONFIG);
         try {
             Runtime.getRuntime().exec(textTypeConfig + "AVF.exe");
