@@ -86,9 +86,9 @@ public class CommonConstants {
     private static String getJmxRmiUrl(int port) {
         return "service:jmx:rmi:///jndi/rmi://localhost:" + port + "/jmxrmi";
     }
-    private static final int APP_JMX_RMI_PORT = 9998;
+    public static final int APP_JMX_RMI_PORT = 9998;
     public static final String APP_JMX_RMI_URL = getJmxRmiUrl(APP_JMX_RMI_PORT);
-    private static final int WATCHDOG_JMX_RMI_PORT = 9999;
+    public static final int WATCHDOG_JMX_RMI_PORT = 9999;
     public static final String WATCHDOG_JMX_RMI_URL = getJmxRmiUrl(WATCHDOG_JMX_RMI_PORT);
 
     /* system variable pattern */

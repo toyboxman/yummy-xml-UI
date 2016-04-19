@@ -67,12 +67,12 @@ public class Numen {
 
         MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
         try {
-            ObjectName numenName = new ObjectName("king.flow.control.deamon:Name=NumenMonitor,Type=CheckNumen");
+            ObjectName numenName = new ObjectName(NumenMonitor.JMX_BEAN_NAME);
             mbeanServer.registerMBean(new NumenMonitor(), numenName);
             //about url referring to http://stackoverflow.com/questions/2768087/explain-jmx-url
             //protocol:rmi, host:localhot, port:random, url:/jndi/rmi://localhost:1099/jmxrmi
-            LocateRegistry.createRegistry(9999);
-            JMXServiceURL serviceURL = new JMXServiceURL("service:jmx:rmi:///jndi/rmi://localhost:9999/jmxrmi");
+            LocateRegistry.createRegistry(CommonConstants.WATCHDOG_JMX_RMI_PORT);
+            JMXServiceURL serviceURL = new JMXServiceURL(CommonConstants.WATCHDOG_JMX_RMI_URL);
             JMXConnectorServer jcs = JMXConnectorServerFactory.newJMXConnectorServer(serviceURL, null, mbeanServer);
             jcs.start();
         } catch (MalformedObjectNameException | InstanceAlreadyExistsException | MBeanRegistrationException | NotCompliantMBeanException | IOException ex) {

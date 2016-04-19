@@ -11,6 +11,8 @@ import static king.flow.common.CommonUtil.getLogger;
 
 public class NumenMonitor implements CheckNumen {
 
+    public static final String JMX_BEAN_NAME = "king.flow.control.deamon:Name=NumenMonitor,Type=CheckNumen";
+
     @Override
     public String getVersion() {
         return CommonConstants.VERSION;

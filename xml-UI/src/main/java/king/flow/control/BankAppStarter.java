@@ -19,7 +19,15 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.management.InstanceNotFoundException;
+import javax.management.MBeanException;
 import javax.management.MBeanServer;
+import javax.management.MBeanServerConnection;
+import javax.management.MalformedObjectNameException;
+import javax.management.ObjectName;
+import javax.management.ReflectionException;
+import javax.management.remote.JMXConnector;
+import javax.management.remote.JMXConnectorFactory;
 import javax.management.remote.JMXConnectorServer;
 import javax.management.remote.JMXConnectorServerFactory;
 import javax.management.remote.JMXServiceURL;
@@ -52,6 +60,7 @@ import static king.flow.common.CommonUtil.registryAppType;
 import static king.flow.common.CommonUtil.resetStartTimeMillis;
 import static king.flow.common.CommonUtil.setKeyboardStatus;
 import static king.flow.common.CommonUtil.setTerminalStatus;
+import king.flow.control.deamon.NumenMonitor;
 import king.flow.design.FlowProcessor;
 import king.flow.net.TunnelBuilder;
 import king.flow.view.BasicAttribute;
@@ -81,7 +90,7 @@ public class BankAppStarter {
             MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
             //about url referring to http://stackoverflow.com/questions/2768087/explain-jmx-url
             //protocol:rmi, host:localhot, port:random, url:/jndi/rmi://localhost:1099/jmxrmi
-            LocateRegistry.createRegistry(9998);
+            LocateRegistry.createRegistry(CommonConstants.APP_JMX_RMI_PORT);
             JMXServiceURL serviceURL = new JMXServiceURL(CommonConstants.APP_JMX_RMI_URL);
             JMXConnectorServer jcs = JMXConnectorServerFactory.newJMXConnectorServer(serviceURL, null, mbeanServer);
             jcs.start();
@@ -170,13 +179,48 @@ public class BankAppStarter {
         frame.setVisible(true);
         setTerminalStatus(RUNNING);
 
+        //check if deamon is alive and version is matched
+        String methodName = "getVersion";
+        JMXConnector jmxc = null;
+        try {
+            JMXServiceURL url = new JMXServiceURL(CommonConstants.WATCHDOG_JMX_RMI_URL);
+            jmxc = JMXConnectorFactory.connect(url, null);
+            MBeanServerConnection msc = jmxc.getMBeanServerConnection();
+            final ObjectName objectName = new ObjectName(NumenMonitor.JMX_BEAN_NAME);
+            String watchdogVer = (String) msc.invoke(objectName, methodName, null, null);
+            if (!CommonConstants.VERSION.equals(watchdogVer)) {
+                methodName = "killDeamon";
+                msc.invoke(objectName, methodName, null, null);
+                //start watchdog
+                Runtime.getRuntime().exec("./jre/bin/javaw.exe");
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
+                    "fail to ping watchdog due to :\n{0}", ex.getMessage());
+            //start watchdog
+
+        } catch (MalformedObjectNameException | InstanceNotFoundException | MBeanException | ReflectionException ex) {
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
+                    "fail to invoke method {0} due to : \n{1}",
+                    new Object[]{methodName, ex.getMessage()});
+        } finally {
+            if (jmxc != null) {
+                try {
+                    jmxc.close();
+                } catch (IOException ex) {
+                    Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
+                            "Fail to close JMXConnector to watchdog due to :\n{0}", ex.getMessage());
+                }
+            }
+        }
+
         String textTypeConfig = System.getProperty(TEXT_TYPE_TOOL_CONFIG);
         try {
             Runtime.getRuntime().exec(textTypeConfig + "AVF.exe");
             Thread.sleep(2000);
             Runtime.getRuntime().exec(CommonUtil.getTypeMethodUnactiveCmd());
         } catch (IOException | InterruptedException ex) {
-            Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE,
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
                     "fail to initiative chinese text type tool due to {0}", ex.getMessage());
         }
     }
