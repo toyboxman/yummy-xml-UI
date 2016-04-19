@@ -66,6 +66,13 @@ public class WriteCardAction extends BalanceTransAction {
         @Override
         protected String doInBackground() throws Exception {
             Thread.sleep(1000);
+            JsonObject cardInfo = CommonUtil.uncacheCardInfo();
+            String gasSpare = cardInfo.getString(GzCardConductor.CARD_SPARE);
+            if (!"0".equals(gasSpare)) {
+                showErrMsg(Integer.MIN_VALUE, getResourceMsg(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT));
+                throw new Exception(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT);
+            }
+
             Map<Integer, String> conditionValues = retrieveConditionValues();
             String msg = createTLSMessage(prsCode, conditionValues);
             getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
@@ -135,12 +142,7 @@ public class WriteCardAction extends BalanceTransAction {
             }
 
             try {
-                JsonObject cardInfo = CommonUtil.uncacheCardInfo();
-                JsonElement gasSpare = cardInfo.get(GzCardConductor.CARD_SPARE);
-                if (!String.valueOf(gasSpare).equals("0")) {
-                    showErrMsg(Integer.MIN_VALUE, getResourceMsg(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT));
-                    throw new Exception(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT);
-                }
+                cardInfo = CommonUtil.uncacheCardInfo();
                 cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
                 cardInfo.put(GzCardConductor.CARD_GAS_COUNT, gasCount);
                 String cardType = cardInfo.getString(GzCardConductor.CARD_FACTORY);
