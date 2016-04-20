@@ -41,7 +41,7 @@ import org.apache.commons.io.IOUtils;
 public class HttpUpdateTool implements Update {
 
     private static final String APP_UPDATE_FOLDER_PREFIX = "../app_";
-    private static final String STARTUP_EXE = "bank.exe";
+    private static final String STARTUP_EXE = CommonConstants.APP_STARTUP_ENTRY;
     private static final String UPDATE_FILE = "update.zip";
     private final String version;
     private final URL updateUrl;

@@ -1386,4 +1386,21 @@ public class CommonUtil {
         return markStart.getTimeInMillis();
     }
 
+    public static void startWatchDog() {
+        final String initd = "./jre/bin/javaw.exe -cp "
+                + "./lib/xml-UI-2.0-SNAPSHOT.jar;"
+                + "./lib/jsonj-0.8.jar;"
+                + "./lib/commons-lang-2.6.jar;"
+                + "./lib/jna-3.2.3.jar;"
+                + "./lib/commons-io-2.4.jar;"
+                + "./lib/guava-18.0.jar"
+                + " king.flow.control.deamon.Numen";
+        try {
+            Runtime.getRuntime().exec(initd);
+        } catch (IOException ex) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    "fail to start watchdog deamon '{0}' due to :\n{1}",
+                    new Object[]{initd, ex.getMessage()});
+        }
+    }
 }

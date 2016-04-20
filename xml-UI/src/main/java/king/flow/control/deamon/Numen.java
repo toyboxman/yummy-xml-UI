@@ -32,7 +32,6 @@ import static king.flow.common.CommonUtil.getLogger;
 public class Numen {
 
     public static void main(String[] args) {
-
         Thread deamon = new Thread(() -> {
             JMXConnector jmxc = null;
             while (true) {
@@ -49,7 +48,13 @@ public class Numen {
                 } catch (IOException ex) {
                     Logger.getLogger(Numen.class.getName()).log(Level.WARNING,
                             "Fail to ping application due to :\n{0}", ex.getMessage());
-                    // should restart application again
+                    try {
+                        // should restart application again
+                        Runtime.getRuntime().exec(CommonConstants.APP_STARTUP_ENTRY);
+                    } catch (IOException e) {
+                        Logger.getLogger(Numen.class.getName()).log(Level.WARNING,
+                                "fail to restart dead application again due to :\n{0}", e.getMessage());
+                    }
                 } finally {
                     if (jmxc != null) {
                         try {

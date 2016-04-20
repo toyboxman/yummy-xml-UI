@@ -45,6 +45,7 @@ import king.flow.view.MsgSendAction;
  */
 public class CommonConstants {
 
+    public static final String APP_STARTUP_ENTRY = "bank.exe";
     public static final Charset UTF8 = Charset.forName("UTF-8");
     static final File[] SYS_ROOTS = File.listRoots();
     public static final int DRIVER_COUNT = SYS_ROOTS.length;

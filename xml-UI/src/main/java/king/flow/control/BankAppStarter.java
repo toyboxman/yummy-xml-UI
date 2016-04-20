@@ -60,6 +60,7 @@ import static king.flow.common.CommonUtil.registryAppType;
 import static king.flow.common.CommonUtil.resetStartTimeMillis;
 import static king.flow.common.CommonUtil.setKeyboardStatus;
 import static king.flow.common.CommonUtil.setTerminalStatus;
+import static king.flow.common.CommonUtil.startWatchDog;
 import king.flow.control.deamon.NumenMonitor;
 import king.flow.design.FlowProcessor;
 import king.flow.net.TunnelBuilder;
@@ -86,6 +87,8 @@ public class BankAppStarter {
             setTerminalStatus(STARTUP);
         }
 
+        getLogger(BankAppStarter.class.getName()).log(Level.INFO, "Startup application type : {0}");
+        
         try {
             MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
             //about url referring to http://stackoverflow.com/questions/2768087/explain-jmx-url
@@ -192,13 +195,11 @@ public class BankAppStarter {
                 methodName = "killDeamon";
                 msc.invoke(objectName, methodName, null, null);
                 //start watchdog
-                Runtime.getRuntime().exec("./jre/bin/javaw.exe");
+                startWatchDog();
             }
         } catch (IOException ex) {
             Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
                     "fail to ping watchdog due to :\n{0}", ex.getMessage());
-            //start watchdog
-
         } catch (MalformedObjectNameException | InstanceNotFoundException | MBeanException | ReflectionException ex) {
             Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
                     "fail to invoke method {0} due to : \n{1}",
@@ -407,8 +408,8 @@ public class BankAppStarter {
 
     }
 
-    private static final String DEFAULT_LOG_CONF = "./conf/logging.properties";
-    private static final String LOG_CONF = "java.util.logging.config.file";
+    public static final String DEFAULT_LOG_CONF = "./conf/logging.properties";
+    public static final String LOG_CONF = "java.util.logging.config.file";
 
     public static final String DEFAULT_WINDOW_XML = "./conf/xml_window.xml";
     public static final String DEFAULT_MANAGER_XML = "./conf-auth/xml_logon.xml";
