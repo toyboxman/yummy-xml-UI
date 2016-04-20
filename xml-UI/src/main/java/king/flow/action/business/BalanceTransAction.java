@@ -13,6 +13,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.SwingWorker;
 import javax.xml.bind.JAXBElement;
+import javax.xml.namespace.QName;
 import king.flow.action.DefaultMsgSendAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.UID_AFFIX;
@@ -70,7 +71,7 @@ public class BalanceTransAction extends DefaultMsgSendAction {
             JAXBElement element = null;
             if (tag instanceof ElementNSImpl) {
                 ElementNSImpl rawElement = (ElementNSImpl) tag;
-                element = CommonUtil.createJAXBElement(rawElement.getLocalName(), rawElement.getTextContent());
+                element = CommonUtil.createJAXBElement(new QName(rawElement.getLocalName()), rawElement.getTextContent());
             } else {
                 element = (JAXBElement) tag;
             }
