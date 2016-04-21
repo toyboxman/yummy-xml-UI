@@ -13,6 +13,9 @@ import javax.management.MXBean;
  */
 @MXBean
 public interface CheckNumen{
+    String GET_VERSOPM_NAME = "getVersion";
+    String KILL_DEAMON_NAME = "killDeamon";
+    
     String getVersion();
     void killDeamon();
 }

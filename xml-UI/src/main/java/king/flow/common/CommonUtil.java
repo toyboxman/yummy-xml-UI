@@ -1419,4 +1419,20 @@ public class CommonUtil {
         return (watchDogConfig == null || watchDogConfig.getCheckInterval() < WATCHDOG_CHECK_INTERVAL)
                 ? WATCHDOG_CHECK_INTERVAL : watchDogConfig.getCheckInterval();
     }
+
+    public static String showSystemInfo() {
+        StringBuilder appInfo = new StringBuilder();
+        appInfo.append("********************************************************************************************")
+                .append('\n')
+                .append("* Starting Up Application Now")
+                .append('\n')
+                .append('*')
+                .append('\n')
+                .append("* Working Folder : ").append(System.getProperty("user.dir"))
+                .append('\n')
+                .append("* Java Runtime Environment  : ").append(System.getProperty("java.home"))
+                .append('\n')
+                .append("********************************************************************************************");
+        return appInfo.toString();
+    }
 }

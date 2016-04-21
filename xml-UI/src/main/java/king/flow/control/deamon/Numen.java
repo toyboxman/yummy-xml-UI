@@ -7,9 +7,11 @@ package king.flow.control.deamon;
 
 import java.io.IOException;
 import java.lang.management.ManagementFactory;
+import java.net.URL;
 import java.rmi.registry.LocateRegistry;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
+import java.util.logging.LogManager;
 import java.util.logging.Logger;
 import javax.management.InstanceAlreadyExistsException;
 import javax.management.MBeanRegistrationException;
@@ -23,7 +25,9 @@ import javax.management.remote.JMXConnectorServer;
 import javax.management.remote.JMXConnectorServerFactory;
 import javax.management.remote.JMXServiceURL;
 import king.flow.common.CommonConstants;
+import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
+import static king.flow.control.BankAppStarter.LOG_CONF;
 
 /**
  *
@@ -58,6 +62,12 @@ public class Numen {
     }
 
     private void startup() {
+        if (!CommonUtil.isWatchDogEnabled()) {
+            getLogger(Numen.class.getName()).log(Level.INFO,
+                    "Disable watch dog service, Numen will exit now");
+            return;
+        }
+
         if (initConnectorServer()) {
             Thread deamon = new Thread(() -> {
                 JMXConnector jmxc = null;
@@ -81,11 +91,11 @@ public class Numen {
                                 Runtime.getRuntime().exec(CommonConstants.APP_STARTUP_ENTRY);
                             } else {
                                 times = 3;
-                                Logger.getLogger(Numen.class.getName()).log(Level.INFO,
-                                    "wait a duration {0} seconds to see if application is really dead", checkInterval * times);
+                                getLogger(Numen.class.getName()).log(Level.INFO,
+                                        "wait a duration {0} seconds to see if application is really dead", checkInterval * times);
                             }
                         } catch (IOException e) {
-                            Logger.getLogger(Numen.class.getName()).log(Level.WARNING,
+                            getLogger(Numen.class.getName()).log(Level.WARNING,
                                     "fail to restart dead application due to :\n{0}", e.getMessage());
                         }
                     } finally {
@@ -93,7 +103,7 @@ public class Numen {
                             try {
                                 jmxc.close();
                             } catch (IOException ex) {
-                                Logger.getLogger(Numen.class.getName()).log(Level.WARNING,
+                                getLogger(Numen.class.getName()).log(Level.WARNING,
                                         "Fail to close JMXConnector to application due to :\n{0}", ex.getMessage());
                             }
                         }
@@ -103,12 +113,21 @@ public class Numen {
             deamon.setName("Deamon of King");
             deamon.start();
         } else {
-            Logger.getLogger(Numen.class.getName()).log(Level.SEVERE,
+            getLogger(Numen.class.getName()).log(Level.SEVERE,
                     "Fail to start up Numen deamon, exiting now");
         }
     }
 
     public static void main(String[] args) {
-        new Numen(5).startup();
+        try {
+            LogManager.getLogManager().readConfiguration(Numen.class.getResourceAsStream("/numen.properties"));
+        } catch (IOException | SecurityException ex) {
+            System.setProperty(LOG_CONF, "./conf/logging.properties");
+            Logger.getLogger(Numen.class.getName()).log(Level.WARNING,
+                    "cannot find numen.properties due to :\n{0}", ex.getMessage());
+        }
+
+        getLogger(Numen.class.getName()).log(Level.INFO, "\n{0}", CommonUtil.showSystemInfo());
+        new Numen(CommonUtil.getWatchDogInterval()).startup();
     }
 }

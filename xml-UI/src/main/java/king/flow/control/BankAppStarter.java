@@ -61,6 +61,7 @@ import static king.flow.common.CommonUtil.resetStartTimeMillis;
 import static king.flow.common.CommonUtil.setKeyboardStatus;
 import static king.flow.common.CommonUtil.setTerminalStatus;
 import static king.flow.common.CommonUtil.startWatchDog;
+import king.flow.control.deamon.CheckNumen;
 import king.flow.control.deamon.NumenMonitor;
 import king.flow.design.FlowProcessor;
 import king.flow.net.TunnelBuilder;
@@ -87,17 +88,12 @@ public class BankAppStarter {
             setTerminalStatus(STARTUP);
         }
 
-        StringBuilder appInfo = new StringBuilder();
-        appInfo.append("*************************************************")
-                .append('\n')
-                .append("* Starting Up Application Now")
-                .append('\n')
-                .append("* Working Folder : ").append(System.getProperty("user.dir"))
-                .append('\n')
-                .append("* Java Runtime Environment  : ").append(System.getProperty("java.home"))
-                .append('\n')
-                .append("*************************************************");
-        getLogger(BankAppStarter.class.getName()).log(Level.INFO, "\n{0}", appInfo);
+        String logConf = System.getProperty(LOG_CONF);
+        if (logConf == null) {
+            System.setProperty(LOG_CONF, DEFAULT_LOG_CONF);
+        }
+
+        getLogger(BankAppStarter.class.getName()).log(Level.INFO, "\n{0}", CommonUtil.showSystemInfo());
 
         try {
             MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
@@ -114,10 +110,6 @@ public class BankAppStarter {
             System.exit(CommonConstants.ABNORMAL);
         }
 
-        String logConf = System.getProperty(LOG_CONF);
-        if (logConf == null) {
-            System.setProperty(LOG_CONF, DEFAULT_LOG_CONF);
-        }
         String property = System.getProperty(UI_BUILD_SCHEME, DEFAULT_WINDOW_XML);
         switch (property) {
             case DEFAULT_WINDOW_XML:
@@ -194,7 +186,7 @@ public class BankAppStarter {
         setTerminalStatus(RUNNING);
 
         //check if deamon is alive and version is matched
-        String methodName = "getVersion";
+        String methodName = CheckNumen.GET_VERSOPM_NAME;
         JMXConnector jmxc = null;
         try {
             JMXServiceURL url = new JMXServiceURL(CommonConstants.WATCHDOG_JMX_RMI_URL);
@@ -218,13 +210,13 @@ public class BankAppStarter {
                 String watchdogVer = (String) msc.invoke(objectName, methodName, null, null);
                 if (CommonUtil.isWatchDogEnabled()) {
                     if (!CommonConstants.VERSION.equals(watchdogVer)) {
-                        methodName = "killDeamon";
+                        methodName = CheckNumen.KILL_DEAMON_NAME;
                         msc.invoke(objectName, methodName, null, null);
                         //start watchdog
                         startWatchDog();
                     }
                 } else {
-                    methodName = "killDeamon";
+                    methodName = CheckNumen.KILL_DEAMON_NAME;
                     msc.invoke(objectName, methodName, null, null);
                 }
 
