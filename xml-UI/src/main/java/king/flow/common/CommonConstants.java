@@ -69,6 +69,7 @@ public class CommonConstants {
     public static final int RESTART_SIGNAL = 1;
     public static final int DOWNLOAD_KEY_SIGNAL = 1;
     public static final int UPDATE_SIGNAL = 1;
+    public static final int WATCHDOG_CHECK_INTERVAL = 5;
     public static final String VERSION;
 
     //    public static final String VERSION = Paths.get(".").toAbsolutePath().normalize().toString();

@@ -54,6 +54,7 @@ import static king.flow.common.CommonConstants.KEY_DOWNLOAD_MSG_CODE;
 import static king.flow.common.CommonConstants.MANAGER_MSG_CODE;
 import static king.flow.common.CommonConstants.NORMAL;
 import static king.flow.common.CommonConstants.SUCCESSFUL_MSG_CODE;
+import static king.flow.common.CommonConstants.WATCHDOG_CHECK_INTERVAL;
 import static king.flow.common.CommonConstants.XML_NODE_PREFIX;
 import static king.flow.common.CommonUtil.AppType.TERMINAL;
 import king.flow.control.MainWindow;
@@ -1402,5 +1403,20 @@ public class CommonUtil {
                     "fail to start watchdog deamon '{0}' due to :\n{1}",
                     new Object[]{initd, ex.getMessage()});
         }
+    }
+
+    static Transportation.Misc.WatchDog watchDogConfig = null;
+
+    public static void setWatchDogConfig(Transportation.Misc.WatchDog watchDogConfig) {
+        CommonUtil.watchDogConfig = watchDogConfig;
+    }
+
+    public static boolean isWatchDogEnabled() {
+        return watchDogConfig == null ? false : watchDogConfig.isEnabled();
+    }
+
+    public static int getWatchDogInterval() {
+        return (watchDogConfig == null || watchDogConfig.getCheckInterval() < WATCHDOG_CHECK_INTERVAL)
+                ? WATCHDOG_CHECK_INTERVAL : watchDogConfig.getCheckInterval();
     }
 }

@@ -30,6 +30,14 @@
                 <xs:element name="misc" maxOccurs="1" minOccurs="0">
                     <xs:complexType>
                         <xs:sequence>
+                            <xs:element name="watchDog"  maxOccurs="1" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="checkInterval" type="xs:int" maxOccurs="1" minOccurs="1"/>
+                                    </xs:sequence>
+                                    <xs:attribute name="enabled" type="xs:boolean" default="true" use="optional"/>
+                                </xs:complexType>
+                            </xs:element>
                             <xs:element name="bankCardPrefix" maxOccurs="1" minOccurs="0">
                                 <xs:simpleType>
                                     <xs:list itemType='xs:string'/>

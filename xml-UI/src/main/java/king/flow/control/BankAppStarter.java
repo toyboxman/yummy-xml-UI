@@ -87,8 +87,18 @@ public class BankAppStarter {
             setTerminalStatus(STARTUP);
         }
 
-        getLogger(BankAppStarter.class.getName()).log(Level.INFO, "Startup application type : {0}");
-        
+        StringBuilder appInfo = new StringBuilder();
+        appInfo.append("*************************************************")
+                .append('\n')
+                .append("* Starting Up Application Now")
+                .append('\n')
+                .append("* Working Folder : ").append(System.getProperty("user.dir"))
+                .append('\n')
+                .append("* Java Runtime Environment  : ").append(System.getProperty("java.home"))
+                .append('\n')
+                .append("*************************************************");
+        getLogger(BankAppStarter.class.getName()).log(Level.INFO, "\n{0}", appInfo);
+
         try {
             MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
             //about url referring to http://stackoverflow.com/questions/2768087/explain-jmx-url
@@ -101,6 +111,7 @@ public class BankAppStarter {
             Logger.getLogger(BankAppStarter.class.getName()).log(Level.SEVERE,
                     "fail to initiative JMXConnectorServer with URL[{0}] due to :\n{1}",
                     new Object[]{CommonConstants.APP_JMX_RMI_URL, e.getMessage()});
+            System.exit(CommonConstants.ABNORMAL);
         }
 
         String logConf = System.getProperty(LOG_CONF);
@@ -188,24 +199,40 @@ public class BankAppStarter {
         try {
             JMXServiceURL url = new JMXServiceURL(CommonConstants.WATCHDOG_JMX_RMI_URL);
             jmxc = JMXConnectorFactory.connect(url, null);
-            MBeanServerConnection msc = jmxc.getMBeanServerConnection();
-            final ObjectName objectName = new ObjectName(NumenMonitor.JMX_BEAN_NAME);
-            String watchdogVer = (String) msc.invoke(objectName, methodName, null, null);
-            if (!CommonConstants.VERSION.equals(watchdogVer)) {
-                methodName = "killDeamon";
-                msc.invoke(objectName, methodName, null, null);
-                //start watchdog
-                startWatchDog();
-            }
         } catch (IOException ex) {
             Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
                     "fail to ping watchdog due to :\n{0}", ex.getMessage());
-        } catch (MalformedObjectNameException | InstanceNotFoundException | MBeanException | ReflectionException ex) {
-            Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
-                    "fail to invoke method {0} due to : \n{1}",
-                    new Object[]{methodName, ex.getMessage()});
-        } finally {
-            if (jmxc != null) {
+            if (CommonUtil.isWatchDogEnabled()) {
+                //start watchdog
+                startWatchDog();
+            }
+        }
+
+        if (jmxc != null) {
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO,
+                    "connect to Numen monitor and check its version");
+            MBeanServerConnection msc;
+            try {
+                msc = jmxc.getMBeanServerConnection();
+                final ObjectName objectName = new ObjectName(NumenMonitor.JMX_BEAN_NAME);
+                String watchdogVer = (String) msc.invoke(objectName, methodName, null, null);
+                if (CommonUtil.isWatchDogEnabled()) {
+                    if (!CommonConstants.VERSION.equals(watchdogVer)) {
+                        methodName = "killDeamon";
+                        msc.invoke(objectName, methodName, null, null);
+                        //start watchdog
+                        startWatchDog();
+                    }
+                } else {
+                    methodName = "killDeamon";
+                    msc.invoke(objectName, methodName, null, null);
+                }
+
+            } catch (IOException | MalformedObjectNameException | InstanceNotFoundException | MBeanException | ReflectionException ex) {
+                Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
+                        "fail to invoke method {0} due to : \n{1}",
+                        new Object[]{methodName, ex.getMessage()});
+            } finally {
                 try {
                     jmxc.close();
                 } catch (IOException ex) {
