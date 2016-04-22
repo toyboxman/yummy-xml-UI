@@ -11,6 +11,43 @@ $文档格式格式如下：
 修改项3
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ************************************************************************************************************************
+2016.4.22
+************************************************************************************************************************
+1.backend文件中增加watch dog的配置
+<Transportation
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../schema/TransportationSchema.xsd'>
+    <server>
+        <host>127.0.0.1</host>
+        <port>8080</port>
+        <timeout>120</timeout>
+    </server>
+    <registration>
+        <prsCode>sanlogin</prsCode>
+        <terminalID>00000001</terminalID>
+        <token>usjdfjksa75ks832okudsjd94877akjdua</token>
+        <unionPayID>9999</unionPayID>
+        <branchno>test_bank_division</branchno>
+        <heartbeat>10000</heartbeat>
+    </registration>
+    <misc>
+        <watchDog enabled="true"> -- 打开关闭watch dog
+            <checkInterval>10</checkInterval>  -- watch dog 监控间隔
+        </watchDog>
+        <bankCardPrefix>
+            622953
+            621778
+            621526
+        </bankCardPrefix>
+        <allowCPU>
+            <period>
+                <start>18:00:00</start>
+                <end>21:00:00</end>
+            </period>
+        </allowCPU>
+    </misc>
+</Transportation>
+************************************************************************************************************************
 2016.4.15
 ************************************************************************************************************************
 1.backend文件中增加允许CPU卡使用的配置
