@@ -97,9 +97,17 @@ public class TunnelBuilder {
         return this;
     }
 
+    public String getHostName() {
+        return hostName;
+    }
+
     public TunnelBuilder setPortNumber(int portNumber) {
         this.portNumber = portNumber;
         return this;
+    }
+
+    public int getPortNumber() {
+        return portNumber;
     }
 
     public void setChannelTimeout(int channelTimeout) {
@@ -248,7 +256,7 @@ public class TunnelBuilder {
                 }
             } catch (Exception e) {
                 getLogger(HeartBeatTask.class.getName()).log(Level.SEVERE,
-                        "Fail to do heart beat communication due to : \n{0}", e);
+                        "Fail to do heart beat communication due to : \n{0}", e.getMessage());
                 grant(false);
             }
         }

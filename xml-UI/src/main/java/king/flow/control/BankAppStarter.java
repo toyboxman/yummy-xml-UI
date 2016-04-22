@@ -19,6 +19,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.management.AttributeNotFoundException;
 import javax.management.InstanceNotFoundException;
 import javax.management.MBeanException;
 import javax.management.MBeanServer;
@@ -92,6 +93,9 @@ public class BankAppStarter {
         if (logConf == null) {
             System.setProperty(LOG_CONF, DEFAULT_LOG_CONF);
         }
+
+        //force to read backend.xml configuration
+        TunnelBuilder.getTunnelBuilder();
 
         getLogger(BankAppStarter.class.getName()).log(Level.INFO, "\n{0}", CommonUtil.showSystemInfo());
 
@@ -186,7 +190,6 @@ public class BankAppStarter {
         setTerminalStatus(RUNNING);
 
         //check if deamon is alive and version is matched
-        String methodName = CheckNumen.GET_VERSOPM_NAME;
         JMXConnector jmxc = null;
         try {
             JMXServiceURL url = new JMXServiceURL(CommonConstants.WATCHDOG_JMX_RMI_URL);
@@ -195,6 +198,8 @@ public class BankAppStarter {
             Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
                     "fail to ping watchdog due to :\n{0}", ex.getMessage());
             if (CommonUtil.isWatchDogEnabled()) {
+                Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO,
+                        "there is no Numen service running and watchDog config is enabled, let start it now");
                 //start watchdog
                 startWatchDog();
             }
@@ -207,23 +212,32 @@ public class BankAppStarter {
             try {
                 msc = jmxc.getMBeanServerConnection();
                 final ObjectName objectName = new ObjectName(NumenMonitor.JMX_BEAN_NAME);
-                String watchdogVer = (String) msc.invoke(objectName, methodName, null, null);
                 if (CommonUtil.isWatchDogEnabled()) {
+                    String watchdogVer = (String) msc.getAttribute(objectName, CheckNumen.VERSOPM_ATTRIBUTE);
                     if (!CommonConstants.VERSION.equals(watchdogVer)) {
-                        methodName = CheckNumen.KILL_DEAMON_NAME;
-                        msc.invoke(objectName, methodName, null, null);
+                        Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO,
+                                "as watchDog config is enabled and mutual version[APP-{0}/Numen-{1}] is not matched, let kill Numen service and restart now",
+                                new Object[]{CommonConstants.VERSION, watchdogVer});
+                        msc.invoke(objectName, CheckNumen.KILL_DEAMON_NAME, null, null);
                         //start watchdog
                         startWatchDog();
+                    } else {
+                        Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO,
+                                "as watchDog config is enabled and mutual version[APP-{0}/Numen-{1}] is matched, let keep numen service running",
+                                new Object[]{CommonConstants.VERSION, watchdogVer});
                     }
                 } else {
-                    methodName = CheckNumen.KILL_DEAMON_NAME;
-                    msc.invoke(objectName, methodName, null, null);
+                    Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO,
+                            "as watchDog config is disabled, let kill numen service now");
+                    msc.invoke(objectName, CheckNumen.KILL_DEAMON_NAME, null, null);
                 }
 
             } catch (IOException | MalformedObjectNameException | InstanceNotFoundException | MBeanException | ReflectionException ex) {
                 Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
-                        "fail to invoke method {0} due to : \n{1}",
-                        new Object[]{methodName, ex.getMessage()});
+                        "fail to invoke mbean method due to : \n{0}", ex.getMessage());
+            } catch (AttributeNotFoundException ex) {
+                Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
+                        "fail to get mbean attribute due to : \n{0}", ex.getMessage());
             } finally {
                 try {
                     jmxc.close();

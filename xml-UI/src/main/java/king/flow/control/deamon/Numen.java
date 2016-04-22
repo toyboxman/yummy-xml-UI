@@ -28,6 +28,7 @@ import king.flow.common.CommonConstants;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.control.BankAppStarter.LOG_CONF;
+import king.flow.net.TunnelBuilder;
 
 /**
  *
@@ -62,13 +63,13 @@ public class Numen {
     }
 
     private void startup() {
-        if (!CommonUtil.isWatchDogEnabled()) {
-            getLogger(Numen.class.getName()).log(Level.INFO,
-                    "Disable watch dog service, Numen will exit now");
-            return;
-        }
-
         if (initConnectorServer()) {
+            if (!CommonUtil.isWatchDogEnabled()) {
+                getLogger(Numen.class.getName()).log(Level.INFO,
+                        "Disable watch dog service, Numen will exit now");
+                return;
+            }
+
             Thread deamon = new Thread(() -> {
                 JMXConnector jmxc = null;
                 while (true) {
@@ -77,7 +78,7 @@ public class Numen {
                         JMXServiceURL url = new JMXServiceURL(CommonConstants.APP_JMX_RMI_URL);
                         jmxc = JMXConnectorFactory.connect(url, null);
                         times = 1;
-                        getLogger(Numen.class.getName()).log(Level.INFO,
+                        getLogger(Numen.class.getName()).log(Level.CONFIG,
                                 "Application runs well, do not restart it. Next check will be in {0} seconds\n", checkInterval);
                     } catch (InterruptedException ex) {
                         getLogger(Numen.class.getName()).log(Level.WARNING,
@@ -89,6 +90,9 @@ public class Numen {
                             // should restart application again
                             if (times > 1) {
                                 Runtime.getRuntime().exec(CommonConstants.APP_STARTUP_ENTRY);
+                                getLogger(Numen.class.getName()).log(Level.INFO,
+                                        "after a duration {0} seconds, let restart application[{1}]",
+                                        new Object[]{checkInterval * times, CommonConstants.APP_STARTUP_ENTRY});
                             } else {
                                 times = 3;
                                 getLogger(Numen.class.getName()).log(Level.INFO,
@@ -121,6 +125,8 @@ public class Numen {
     public static void main(String[] args) {
         try {
             LogManager.getLogManager().readConfiguration(Numen.class.getResourceAsStream("/numen.properties"));
+            //force to read backend configuration
+            TunnelBuilder.getTunnelBuilder();
         } catch (IOException | SecurityException ex) {
             System.setProperty(LOG_CONF, "./conf/logging.properties");
             Logger.getLogger(Numen.class.getName()).log(Level.WARNING,

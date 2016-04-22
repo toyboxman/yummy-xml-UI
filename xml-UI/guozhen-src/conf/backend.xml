@@ -8,7 +8,7 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
 
 <Transportation
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../schema/TransportationSchema.xsd'>
+    xsi:noNamespaceSchemaLocation='../schema/TransportationSchema.xsd'>
     <server>
         <host>127.0.0.1</host>
         <port>8080</port>
@@ -23,10 +23,19 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
         <heartbeat>10000</heartbeat>
     </registration>
     <misc>
+        <watchDog enabled="true">
+            <checkInterval>10</checkInterval>
+        </watchDog>
         <bankCardPrefix>
             622953
             621778
             621526
         </bankCardPrefix>
+        <allowCPU>
+            <period>
+                <start>18:00:00</start>
+                <end>21:00:00</end>
+            </period>
+        </allowCPU>
     </misc>
 </Transportation>

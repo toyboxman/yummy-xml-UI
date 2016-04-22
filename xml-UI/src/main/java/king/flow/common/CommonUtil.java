@@ -1387,17 +1387,30 @@ public class CommonUtil {
         return markStart.getTimeInMillis();
     }
 
+    static final char BLANK_SPACE = 0x20;
+    static final char NEW_BLANK_LINE = '\n';
+
     public static void startWatchDog() {
-        final String initd = "./jre/bin/javaw.exe -cp "
-                + "./lib/xml-UI-2.0-SNAPSHOT.jar;"
-                + "./lib/jsonj-0.8.jar;"
-                + "./lib/commons-lang-2.6.jar;"
-                + "./lib/jna-3.2.3.jar;"
-                + "./lib/commons-io-2.4.jar;"
-                + "./lib/guava-18.0.jar"
-                + " king.flow.control.deamon.Numen";
+        final String initd = new StringBuilder()
+                .append("./jre/bin/javaw.exe")
+                .append(BLANK_SPACE)
+                .append("-cp")
+                .append(BLANK_SPACE)
+                .append("./lib/xml-UI-2.0-SNAPSHOT.jar;")
+                .append("./lib/jsonj-0.8.jar;")
+                .append("./lib/commons-lang-2.6.jar;")
+                .append("./lib/jna-3.2.3.jar;")
+                .append("./lib/commons-io-2.4.jar;")
+                .append("./lib/guava-18.0.jar")
+                .append(BLANK_SPACE)
+                .append("-Dtunnel.build.scheme=../backend.xml")
+                .append(BLANK_SPACE)
+                .append("king.flow.control.deamon.Numen")
+                .toString();
         try {
             Runtime.getRuntime().exec(initd);
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.INFO,
+                    "start watchdog deamon :\n{0}", initd);
         } catch (IOException ex) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     "fail to start watchdog deamon '{0}' due to :\n{1}",
@@ -1423,15 +1436,26 @@ public class CommonUtil {
     public static String showSystemInfo() {
         StringBuilder appInfo = new StringBuilder();
         appInfo.append("********************************************************************************************")
-                .append('\n')
+                .append(NEW_BLANK_LINE)
                 .append("* Starting Up Application Now")
-                .append('\n')
+                .append(NEW_BLANK_LINE)
                 .append('*')
-                .append('\n')
+                .append(NEW_BLANK_LINE)
                 .append("* Working Folder : ").append(System.getProperty("user.dir"))
-                .append('\n')
-                .append("* Java Runtime Environment  : ").append(System.getProperty("java.home"))
-                .append('\n')
+                .append(NEW_BLANK_LINE)
+                .append("* Java Runtime Environment : ").append(System.getProperty("java.home"))
+                .append(NEW_BLANK_LINE)
+                .append("* Application Version : ").append(CommonConstants.VERSION)
+                .append(NEW_BLANK_LINE)
+                .append("* WatchDog Enablement : ").append(isWatchDogEnabled())
+                .append(NEW_BLANK_LINE)
+                .append("* WatchDog Poll Interval : ").append(getWatchDogInterval())
+                .append(NEW_BLANK_LINE)
+                .append("* Remote Server Address : ")
+                .append(TunnelBuilder.getTunnelBuilder().getHostName())
+                .append(":")
+                .append(TunnelBuilder.getTunnelBuilder().getPortNumber())
+                .append(NEW_BLANK_LINE)
                 .append("********************************************************************************************");
         return appInfo.toString();
     }
