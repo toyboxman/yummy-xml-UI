@@ -7,7 +7,6 @@ package king.flow.control.deamon;
 
 import java.io.IOException;
 import java.lang.management.ManagementFactory;
-import java.net.URL;
 import java.rmi.registry.LocateRegistry;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;

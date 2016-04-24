@@ -249,13 +249,18 @@ public class BankAppStarter {
         }
 
         String textTypeConfig = System.getProperty(TEXT_TYPE_TOOL_CONFIG);
-        try {
-            Runtime.getRuntime().exec(textTypeConfig + "AVF.exe");
-            Thread.sleep(2000);
-            Runtime.getRuntime().exec(CommonUtil.getTypeMethodUnactiveCmd());
-        } catch (IOException | InterruptedException ex) {
-            Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
-                    "fail to initiative chinese text type tool due to {0}", ex.getMessage());
+        if (textTypeConfig == null) {
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.INFO,
+                    "current system does not config Chinese text type tool");
+        } else {
+            try {
+                Runtime.getRuntime().exec(textTypeConfig + "AVF.exe");
+                Thread.sleep(2000);
+                Runtime.getRuntime().exec(CommonUtil.getTypeMethodUnactiveCmd());
+            } catch (IOException | InterruptedException ex) {
+                Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
+                        "fail to initiative chinese text type tool due to {0}", ex.getMessage());
+            }
         }
     }
 
