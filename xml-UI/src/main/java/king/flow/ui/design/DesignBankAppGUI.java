@@ -19,6 +19,7 @@ import java.awt.event.MouseMotionListener;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.Vector;
 import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -106,6 +107,19 @@ public class DesignBankAppGUI {
 
     private static class MouseListenerImpl implements MouseListener, MouseMotionListener {
 
+        private static class PropertiesTableModel extends DefaultTableModel {
+
+            private PropertiesTableModel(String[][] propertiesData, String[] columns) {
+                super(propertiesData, columns);
+            }
+
+            @Override
+            public boolean isCellEditable(int row, int column) {
+                return column != 0;
+            }
+
+        }
+
         Map.Entry<Panel, String> panel;
         king.flow.view.Component componentMeta;
         JComponent srcComp;
@@ -159,26 +173,41 @@ public class DesignBankAppGUI {
                             propertiesDialog.getContentPane().setLayout(new BorderLayout());
                             final JPanel controlPanel = new JPanel(new FlowLayout(FlowLayout.TRAILING));
                             final JButton okButton = new JButton("OK");
+                            final Font font = new Font(propertiesDialog.getFont().getName(),
+                                    propertiesDialog.getFont().getStyle(),
+                                    16);
+                            okButton.setFont(font);
                             okButton.addActionListener((ActionEvent okEvent) -> {
                                 propertiesDialog.setVisible(false);
+                                propertiesDialog.dispose();
                             });
                             controlPanel.add(okButton);
                             final JButton cancelButton = new JButton("Cancel");
+                            cancelButton.setFont(font);
                             cancelButton.addActionListener((ActionEvent cancelEvent) -> {
                                 propertiesDialog.setVisible(false);
+                                propertiesDialog.dispose();
                             });
                             controlPanel.add(cancelButton);
                             propertiesDialog.getContentPane().add(controlPanel, BorderLayout.SOUTH);
-                            DefaultTableModel defaultTableModel = new DefaultTableModel(new String[]{"Name", "Value"}, 10);
-                            final JTable valueTable = new JTable(defaultTableModel);
+                            String[][] propertiesData = new String[][]{
+                                {"ID", String.valueOf(this.componentMeta.getId())},
+                                {"Type", this.componentMeta.getType().value()},
+                                {"X", String.valueOf(this.srcComp.getX())},
+                                {"Y", String.valueOf(this.srcComp.getY())},
+                                {"Width", String.valueOf(this.srcComp.getWidth())},
+                                {"Height", String.valueOf(this.srcComp.getHeight())}
+                            };
+                            String[] columns = new String[]{"Name", "Value"};
+                            PropertiesTableModel tableModel = new PropertiesTableModel(propertiesData, columns);
+                            final JTable valueTable = new JTable(tableModel);
                             valueTable.getTableHeader().setResizingAllowed(false);
                             valueTable.getTableHeader().setReorderingAllowed(false);
                             valueTable.setRowHeight(TABLE_ROW_HEIGHT);
-                            valueTable.getTableHeader().setFont(new Font(valueTable.getFont().getName(),
-                                    valueTable.getFont().getStyle(),
-                                    16));
+                            valueTable.setFont(font);
+                            valueTable.getTableHeader().setFont(font);
                             final JScrollPane viewPanel = new JScrollPane(valueTable);
-                            viewPanel.setPreferredSize(new Dimension(150, 300));
+                            viewPanel.setPreferredSize(new Dimension(360, 300));
                             propertiesDialog.getContentPane().add(viewPanel, BorderLayout.CENTER);
                             propertiesDialog.pack();
                             propertiesDialog.setLocationRelativeTo(null);
@@ -284,7 +313,7 @@ public class DesignBankAppGUI {
                         "Succeed in saving component edited in {0}", fileUrl);
             } catch (InterruptedException | ExecutionException ex) {
                 Logger.getLogger(DesignBankAppGUI.class.getName()).log(Level.SEVERE,
-                        "Fail to save component edited due to error : \n{0}", ex);
+                        "Fail to save component edited due to error : \n{0}", ex.getMessage());
                 CommonUtil.showErrorMsg(CommonUtil.getCurrentView(), CommonUtil.shapeErrPrompt(ex));
             }
         }
