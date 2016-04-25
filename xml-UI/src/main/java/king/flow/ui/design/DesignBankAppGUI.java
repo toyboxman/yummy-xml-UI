@@ -5,9 +5,14 @@
  */
 package king.flow.ui.design;
 
+import java.awt.BorderLayout;
 import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.FlowLayout;
 import java.awt.Font;
+import java.awt.Window;
 import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
@@ -17,12 +22,20 @@ import java.util.Set;
 import java.util.concurrent.ExecutionException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JButton;
 import javax.swing.JComponent;
+import javax.swing.JDialog;
 import javax.swing.JMenuItem;
+import javax.swing.JPanel;
 import javax.swing.JPopupMenu;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
 import javax.swing.SwingWorker;
 import javax.swing.border.LineBorder;
 import javax.swing.border.TitledBorder;
+import javax.swing.plaf.FontUIResource;
+import javax.swing.table.DefaultTableModel;
+import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import king.flow.control.BankAppStarter;
@@ -77,7 +90,7 @@ public class DesignBankAppGUI {
 
     private enum EditMenu {
         SHOW_BOUND("Show Bound"), HIDE_BOUND("Hide Bound"),
-        PROPERTIES("Edit Properties"), REDO("Redo"), SAVE("Save"),
+        PROPERTIES("Edit Properties"), UNDO("Undo"), SAVE("Save"),
         EXIT("Exit");
 
         private final String menuName;
@@ -130,7 +143,7 @@ public class DesignBankAppGUI {
                             srcComp.setBorder(null);
                         });
                         break;
-                    case REDO:
+                    case UNDO:
                         actionMenu.addActionListener((ActionEvent e) -> {
                             BasicAttribute attribute = componentMeta.getAttribute();
                             king.flow.view.Bound rect = attribute.getRect();
@@ -141,7 +154,35 @@ public class DesignBankAppGUI {
                     case PROPERTIES:
                         this.popupMenu.addSeparator();
                         actionMenu.addActionListener((ActionEvent e) -> {
-
+                            JDialog propertiesDialog = new JDialog((Window) srcComp.getTopLevelAncestor(), "Properties");
+                            propertiesDialog.setModal(true);
+                            propertiesDialog.getContentPane().setLayout(new BorderLayout());
+                            final JPanel controlPanel = new JPanel(new FlowLayout(FlowLayout.TRAILING));
+                            final JButton okButton = new JButton("OK");
+                            okButton.addActionListener((ActionEvent okEvent) -> {
+                                propertiesDialog.setVisible(false);
+                            });
+                            controlPanel.add(okButton);
+                            final JButton cancelButton = new JButton("Cancel");
+                            cancelButton.addActionListener((ActionEvent cancelEvent) -> {
+                                propertiesDialog.setVisible(false);
+                            });
+                            controlPanel.add(cancelButton);
+                            propertiesDialog.getContentPane().add(controlPanel, BorderLayout.SOUTH);
+                            DefaultTableModel defaultTableModel = new DefaultTableModel(new String[]{"Name", "Value"}, 10);
+                            final JTable valueTable = new JTable(defaultTableModel);
+                            valueTable.getTableHeader().setResizingAllowed(false);
+                            valueTable.getTableHeader().setReorderingAllowed(false);
+                            valueTable.setRowHeight(TABLE_ROW_HEIGHT);
+                            valueTable.getTableHeader().setFont(new Font(valueTable.getFont().getName(),
+                                    valueTable.getFont().getStyle(),
+                                    16));
+                            final JScrollPane viewPanel = new JScrollPane(valueTable);
+                            viewPanel.setPreferredSize(new Dimension(150, 300));
+                            propertiesDialog.getContentPane().add(viewPanel, BorderLayout.CENTER);
+                            propertiesDialog.pack();
+                            propertiesDialog.setLocationRelativeTo(null);
+                            propertiesDialog.setVisible(true);
                         });
                         break;
                     case SAVE:

@@ -100,6 +100,7 @@ public class CommonConstants {
 
     /* swing default config */
     public static final int DEFAULT_TABLE_ROW_COUNT = 15;
+    public static final int TABLE_ROW_HEIGHT = 25;
     public static final int DEFAULT_VIDEO_REPLAY_INTERVAL_SECOND = 20;
 
     /* packet header ID */
@@ -129,7 +130,6 @@ public class CommonConstants {
     public static final String KING_FLOW_BACKGROUND = "king.flow.background";
     public static final String KING_FLOW_PROGRESS = "king.flow.progress";
     public static final String TEXT_TYPE_TOOL_CONFIG = "chinese.text.type.config";
-    public static final int TABLE_ROW_HEIGHT = 25;
     public static final String COMBOBOX_ITEMS_PROPERTY_PATTERN = "([^,/]*/[^,/]*,)*+([^,/]*/[^,/]*){1}+";
     public static final String ADVANCED_TABLE_TOTAL_PAGES = "total";
     public static final String ADVANCED_TABLE_VALUE = "value";
