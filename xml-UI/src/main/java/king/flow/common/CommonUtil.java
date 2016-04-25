@@ -280,7 +280,7 @@ public class CommonUtil {
         } catch (JAXBException | NumberFormatException | DOMException ex) {
             getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     "Invalid response received:\n{0} \nresponse parsing hits error :\n{1} ",
-                    new Object[]{TLSResp, ex});
+                    new Object[]{TLSResp, ex.getMessage()});
         }
 
         return result;
@@ -292,7 +292,8 @@ public class CommonUtil {
             TLSProcessor tlsp = new TLSProcessor().init();
             msg = tlsp.createRegistryMsg(prsCode, terminalID, token);
         } catch (JAXBException ex) {
-            getLogger(CommonUtil.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    "fail to create registry TLS message due to :\n{0}", ex.getMessage());
         }
 
         return msg;
@@ -333,7 +334,8 @@ public class CommonUtil {
             }
             msg = tlsp.buildTLS(list);
         } catch (JAXBException ex) {
-            getLogger(CommonUtil.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    "fail to create TLS message due to :\n{0}", ex.getMessage());
         }
 
         return msg;
@@ -343,9 +345,16 @@ public class CommonUtil {
         String msg = null;
         try {
             TLSProcessor tlsp = new TLSProcessor().init();
-            msg = tlsp.mockRegistryResp(retCode, TunnelBuilder.getTunnelBuilder().getTerminalID(), "", errMsg, "", NORMAL, NORMAL);
+            msg = tlsp.mockRegistryResp(retCode,
+                    TunnelBuilder.getTunnelBuilder().getTerminalID(),
+                    "",
+                    errMsg,
+                    "",
+                    NORMAL,
+                    NORMAL);
         } catch (JAXBException ex) {
-            getLogger(CommonUtil.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    "fail to create unauthorized TLS message due to :\n{0}", ex.getMessage());
         }
 
         return msg;
@@ -446,8 +455,8 @@ public class CommonUtil {
             bundle = new PropertyResourceBundle(
                     CommonUtil.class.getResourceAsStream("/lang/message.properties"));
         } catch (IOException ex) {
-            Logger.getLogger(CommonUtil.class.getName()).log(Level.SEVERE,
-                    "fail to load resource due to error:\n{0}", ex);
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    "fail to load resource due to error :\n{0}", ex.getMessage());
         }
     }
 
@@ -456,7 +465,7 @@ public class CommonUtil {
             return bundle.getString(key);
         } catch (Exception e) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
-                    "fail to catch resource item by key[{0}] due to error:\n{1}",
+                    "fail to catch resource item by key[{0}] due to error :\n{1}",
                     new Object[]{key, e.getMessage()});
         }
         return null;

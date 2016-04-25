@@ -142,7 +142,6 @@ public class WriteCardAction extends BalanceTransAction {
             }
 
             try {
-                cardInfo = CommonUtil.uncacheCardInfo();
                 cardInfo.put(GzCardConductor.CARD_SPARE, gasSurplus);
                 cardInfo.put(GzCardConductor.CARD_GAS_COUNT, gasCount);
                 String cardType = cardInfo.getString(GzCardConductor.CARD_FACTORY);
@@ -185,7 +184,7 @@ public class WriteCardAction extends BalanceTransAction {
                 get();
             } catch (InterruptedException | ExecutionException ex) {
                 Logger.getLogger(WriteCardAction.class.getName()).log(Level.WARNING,
-                        "fail to write card due to : \n{0}", ex);
+                        "fail to execute GZWriteCardTask due to : \n{0}", ex.getMessage());
                 CommonUtil.cleanTranStation(
                         CommonConstants.BALANCED_PAY_MAC);
             }
