@@ -109,13 +109,31 @@ public class DesignBankAppGUI {
 
         private static class PropertiesTableModel extends DefaultTableModel {
 
+            public static final String PROPERTY_ID = "ID";
+            public static final String PROPERTY_TYPE = "Type";
+            public static final String PROPERTY_X = "X";
+            public static final String PROPERTY_Y = "Y";
+            public static final String PROPERTY_WIDTH = "Width";
+            public static final String PROPERTY_HEIGHT = "Height";
+            public static final String PROPERTY_TEXT = "Text";
+
             private PropertiesTableModel(String[][] propertiesData, String[] columns) {
                 super(propertiesData, columns);
             }
 
             @Override
             public boolean isCellEditable(int row, int column) {
-                return column != 0;
+                if (column == 0) {
+                    return false;
+                } else {
+                    String propertyName = (String) getValueAt(row, 0);
+                    switch (propertyName) {
+                        case PropertiesTableModel.PROPERTY_TYPE:
+                            return false;
+                        default:
+                            return true;
+                    }
+                }
             }
 
         }
@@ -191,12 +209,13 @@ public class DesignBankAppGUI {
                             controlPanel.add(cancelButton);
                             propertiesDialog.getContentPane().add(controlPanel, BorderLayout.SOUTH);
                             String[][] propertiesData = new String[][]{
-                                {"ID", String.valueOf(this.componentMeta.getId())},
-                                {"Type", this.componentMeta.getType().value()},
-                                {"X", String.valueOf(this.srcComp.getX())},
-                                {"Y", String.valueOf(this.srcComp.getY())},
-                                {"Width", String.valueOf(this.srcComp.getWidth())},
-                                {"Height", String.valueOf(this.srcComp.getHeight())}
+                                {PropertiesTableModel.PROPERTY_ID, String.valueOf(this.componentMeta.getId())},
+                                {PropertiesTableModel.PROPERTY_TYPE, this.componentMeta.getType().value()},
+                                {PropertiesTableModel.PROPERTY_X, String.valueOf(this.srcComp.getX())},
+                                {PropertiesTableModel.PROPERTY_Y, String.valueOf(this.srcComp.getY())},
+                                {PropertiesTableModel.PROPERTY_WIDTH, String.valueOf(this.srcComp.getWidth())},
+                                {PropertiesTableModel.PROPERTY_HEIGHT, String.valueOf(this.srcComp.getHeight())},
+                                {PropertiesTableModel.PROPERTY_TEXT, String.valueOf(this.componentMeta.getAttribute().getText())}
                             };
                             String[] columns = new String[]{"Name", "Value"};
                             PropertiesTableModel tableModel = new PropertiesTableModel(propertiesData, columns);
