@@ -1468,4 +1468,16 @@ public class CommonUtil {
                 .append("********************************************************************************************");
         return appInfo.toString();
     }
+    
+    public static String dumpExceptionStack(Throwable exception) {
+        if (exception == null) {
+            return "";
+        }
+        
+        StringBuilder stackInfo = new StringBuilder();
+        for (StackTraceElement trace : exception.getStackTrace()) {
+            stackInfo.append("at ").append(trace.toString()).append('\n');
+        }
+        return stackInfo.toString();
+    }
 }

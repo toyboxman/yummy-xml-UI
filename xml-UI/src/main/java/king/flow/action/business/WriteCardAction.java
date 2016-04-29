@@ -67,8 +67,17 @@ public class WriteCardAction extends BalanceTransAction {
         protected String doInBackground() throws Exception {
             Thread.sleep(1000);
             JsonObject cardInfo = CommonUtil.uncacheCardInfo();
+            if (cardInfo == null) {
+                getLogger(GZWriteCardTask.class.getName()).log(Level.WARNING,
+                        "no cardInfo has been read from gzICCard, this is an invalid cardInfo[{0}]", cardInfo);
+                showErrMsg(Integer.MIN_VALUE, getResourceMsg(GzCardConductor.GUOZHEN_CARD_INVALID_PROMPT));
+                throw new Exception(GzCardConductor.GUOZHEN_CARD_INVALID_PROMPT);
+            }
+
             String gasSpare = cardInfo.getString(GzCardConductor.CARD_SPARE);
             if (!"0".equals(gasSpare)) {
+                getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
+                        "current gas spare amount in card is : \n{0}", gasSpare);
                 showErrMsg(Integer.MIN_VALUE, getResourceMsg(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT));
                 throw new Exception(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT);
             }
@@ -185,6 +194,8 @@ public class WriteCardAction extends BalanceTransAction {
             } catch (InterruptedException | ExecutionException ex) {
                 Logger.getLogger(WriteCardAction.class.getName()).log(Level.WARNING,
                         "fail to execute GZWriteCardTask due to : \n{0}", ex.getMessage());
+                Logger.getLogger(WriteCardAction.class.getName()).log(Level.CONFIG,
+                        "detailed exception stack is : \n{0}", CommonUtil.dumpExceptionStack(ex));
                 CommonUtil.cleanTranStation(
                         CommonConstants.BALANCED_PAY_MAC);
             }
