@@ -20,10 +20,12 @@ public class GzCardConductor {
     public static final String CARD3_TYPE = "3";
     public static final String CARD4_TYPE = "4";
     public static final String UNSUPPORT_CARD_TYPE = "0";
+    public static final String UNREGISTRY_CARD_TYPE = "134";
     public static final String GUOZHEN_CARD_OPERATION_PROMPT = "guozhen.operation.card.type.prompt";
     public static final String GUOZHEN_CARD_BUY_PROMPT = "guozhen.operation.card.surplus.prompt";
     public static final String GUOZHEN_CARD_PERIOD_PROMPT = "guozhen.operation.card.period.prompt";
     public static final String GUOZHEN_CARD_INVALID_PROMPT = "guozhen.operation.card.invalid.prompt";
+    public static final String GUOZHEN_CARD_UNREGISTRY_PROMPT = "guozhen.operation.card.unregistry.prompt";
 
     public native String readCard(String comport);
 

@@ -164,6 +164,9 @@ public class InsertCardAction extends DefaultBaseAction {
                 if (debug.isEmpty()) {
                     Thread.sleep(1000);
                     String cardInfo = swipeGzICCard();
+                    if (cardInfo != null && cardInfo.equals(GzCardConductor.UNREGISTRY_CARD_TYPE)) {
+                        throw new Exception(GzCardConductor.GUOZHEN_CARD_UNREGISTRY_PROMPT);
+                    }
                     JsonParser jsonParser = new JsonParser();
                     JsonObject element = jsonParser.parse(cardInfo).asObject();
                     String cardId = element.getString(GzCardConductor.CARD_NO);
