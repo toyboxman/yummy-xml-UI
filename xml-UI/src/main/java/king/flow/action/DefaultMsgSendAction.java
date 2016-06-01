@@ -449,9 +449,30 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
 
     protected boolean validateRules() {
         if (rules != null) {
-            return checkNotNull() & checkTemplate()
-                    & checkCJK() & checkEqualConditions()
-                    & checkNotEqualConditions();
+            boolean checkNotNull = checkNotNull();
+            if (!checkNotNull) {
+                return checkNotNull;
+            }
+            
+            boolean checkTemplate = checkTemplate();
+            if (!checkTemplate) {
+                return checkTemplate;
+            }
+            
+            boolean checkCJK = checkCJK();
+            if (!checkCJK) {
+                return checkCJK;
+            }
+            
+            boolean checkEqualConditions = checkEqualConditions();
+            if (!checkEqualConditions) {
+                return checkEqualConditions;
+            }
+            
+            boolean checkNotEqualConditions = checkNotEqualConditions();
+            if (!checkNotEqualConditions) {
+                return checkNotEqualConditions;
+            }
         }
         return true;
     }

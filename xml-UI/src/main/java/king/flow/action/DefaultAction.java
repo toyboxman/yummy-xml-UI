@@ -328,7 +328,12 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
                 int content = t.getContent();
                 String pattern = t.getPattern();
                 String value = retrieveString(content);
-                if (!value.startsWith(pattern)) {
+                // what is Positive lookahead and Negative lookahead
+                // use lookaround regular expression to solve non-zero condition
+                // if 0.00 is incorrect, you can use Negative lookahead mode
+                // pattern = "(?!0\\.00$).*"; if content is not matched 0.00, look ahead and match '.*'
+                // http://stackoverflow.com/questions/2973436/regex-lookahead-lookbehind-and-atomic-groups
+                if (!value.matches(pattern)) {
                     CommonUtil.getLogger(DefaultAction.class.getName()).info(t.getErrMsg()
                             + " value " + value + "/ pattern " + pattern);
                     CommonUtil.showMsg(owner.getTopLevelAncestor(), t.getErrMsg());
