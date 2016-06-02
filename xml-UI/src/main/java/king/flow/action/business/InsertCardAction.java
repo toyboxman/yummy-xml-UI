@@ -176,7 +176,7 @@ public class InsertCardAction extends DefaultBaseAction {
 
                     JsonElement gasSurplus = element.get(GzCardConductor.CARD_SPARE);
                     if (gasSurplus == null) {
-                        gasSurplus = new JsonPrimitive("0");
+                        gasSurplus = new JsonPrimitive(GzCardConductor.ZERO_GAS_SURPLUS);
                         element.put(GzCardConductor.CARD_SPARE, gasSurplus);
                     }
 

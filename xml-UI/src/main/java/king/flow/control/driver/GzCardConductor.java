@@ -21,6 +21,7 @@ public class GzCardConductor {
     public static final String CARD4_TYPE = "4";
     public static final String UNSUPPORT_CARD_TYPE = "0";
     public static final String UNREGISTRY_CARD_TYPE = "134";
+    public static final String ZERO_GAS_SURPLUS = "0";
     public static final String GUOZHEN_CARD_OPERATION_PROMPT = "guozhen.operation.card.type.prompt";
     public static final String GUOZHEN_CARD_BUY_PROMPT = "guozhen.operation.card.surplus.prompt";
     public static final String GUOZHEN_CARD_PERIOD_PROMPT = "guozhen.operation.card.period.prompt";

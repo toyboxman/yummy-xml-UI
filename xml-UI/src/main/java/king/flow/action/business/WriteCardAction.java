@@ -75,7 +75,7 @@ public class WriteCardAction extends BalanceTransAction {
             }
 
             String gasSpare = cardInfo.getString(GzCardConductor.CARD_SPARE);
-            if (!"0".equals(gasSpare)) {
+            if (!GzCardConductor.ZERO_GAS_SURPLUS.equals(gasSpare)) {
                 getLogger(GZWriteCardTask.class.getName()).log(Level.INFO,
                         "current gas spare amount in card is : \n{0}", gasSpare);
                 showErrMsg(Integer.MIN_VALUE, getResourceMsg(GzCardConductor.GUOZHEN_CARD_BUY_PROMPT));
