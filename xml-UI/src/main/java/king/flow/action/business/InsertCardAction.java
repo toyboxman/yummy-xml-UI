@@ -38,6 +38,7 @@ import king.flow.view.Window;
 import static king.flow.common.CommonUtil.swipeGzICCard;
 import king.flow.net.Transportation;
 import king.flow.view.DeviceEnum;
+import org.apache.commons.lang.StringEscapeUtils;
 
 /**
  *
@@ -130,7 +131,7 @@ public class InsertCardAction extends DefaultBaseAction {
         switch (meta.getType()) {
             case LABEL:
                 JLabel label = getBlock(meta.getId(), JLabel.class);
-                label.setText(value);
+                label.setText(StringEscapeUtils.unescapeHtml(value));
                 break;
             case TEXT_FIELD:
                 JTextField textField = getBlock(meta.getId(), JTextField.class);

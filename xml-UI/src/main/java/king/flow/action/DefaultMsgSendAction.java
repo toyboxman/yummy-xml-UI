@@ -55,6 +55,7 @@ import king.flow.view.Action;
 import king.flow.view.MsgSendAction;
 import king.flow.view.Panel;
 import king.flow.view.Rules;
+import org.apache.commons.lang.StringEscapeUtils;
 import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
 
@@ -234,7 +235,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                         model.addRow(rowData);
                     }
                 } catch (Exception e) {
-                    Logger.getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
+                    getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
                             "Invalid array data [ {0} ] for TABLE component[{1}], \n exception is {2}",
                             new Object[]{result.getOkMsg(), String.valueOf(meta.getId()), e});
                 }
@@ -246,7 +247,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     Integer total = jsonObj.getInt(ADVANCED_TABLE_TOTAL_PAGES);
                     Integer page = jsonObj.getInt(ADVANCED_TABLE_CURRENT_PAGE);
                     arrays = jsonObj.getArray(ADVANCED_TABLE_VALUE);
-                    Logger.getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
+                    getLogger(CommunicationWorker.class.getName()).log(Level.INFO,
                             "Dump JSON DATA for ADVANCED_TABLE: \n{0} \ntotal: {1} \npage: {2}",
                             new Object[]{jsonObj.toString(), total, page});
                     JXMsgPanel advanceTable = getBlock(meta.getId(), JXMsgPanel.class);
@@ -254,7 +255,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     advanceTable.refreshCurrentPage(page);
                     advanceTable.refreshTable(arrays);
                 } catch (Exception e) {
-                    Logger.getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
+                    getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
                             "Invalid complex data [ {0} ] for ADVANCED_TABLE component[{1}] \n exception is {2}",
                             new Object[]{result.getOkMsg(), String.valueOf(meta.getId()), e});
                 }
@@ -262,9 +263,9 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
             case LABEL:
                 JLabel label = getBlock(meta.getId(), JLabel.class);
                 if (result.getRetCode() == 0) {
-                    label.setText(result.getOkMsg());
+                    label.setText(StringEscapeUtils.unescapeHtml(result.getOkMsg()));
                 } else {
-                    label.setText(result.getErrMsg());
+                    label.setText(StringEscapeUtils.unescapeHtml(result.getErrMsg()));
                 }
                 break;
             case TEXT_FIELD:
