@@ -13,6 +13,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
+import javax.swing.JLabel;
 import javax.swing.JPasswordField;
 import javax.swing.JTable;
 import javax.swing.JTextField;
@@ -76,6 +77,10 @@ public class DefaultCleanAction extends DefaultBaseAction {
 //                                combo.setSelectedIndex(0);
 //                            }
                             combo.setSelectedIndex(0);
+                            break;
+                        case LABEL:
+                            JLabel label = getBlock(id, JLabel.class);
+                            label.setText("");
                             break;
                         default:
                             Logger.getLogger(DefaultCleanAction.CleanActionImpl.class.getName()).log(Level.INFO,
