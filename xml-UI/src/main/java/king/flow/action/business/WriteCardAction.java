@@ -194,10 +194,8 @@ public class WriteCardAction extends BalanceTransAction {
             } catch (InterruptedException | ExecutionException ex) {
                 Logger.getLogger(WriteCardAction.class.getName()).log(Level.WARNING,
                         "fail to execute GZWriteCardTask due to : \n{0}", ex.getMessage());
-                Logger.getLogger(WriteCardAction.class.getName()).log(Level.CONFIG,
+                Logger.getLogger(WriteCardAction.class.getName()).log(Level.INFO,
                         "detailed exception stack is : \n{0}", CommonUtil.dumpExceptionStack(ex));
-                CommonUtil.cleanTranStation(
-                        CommonConstants.BALANCED_PAY_MAC);
             }
         }
     }

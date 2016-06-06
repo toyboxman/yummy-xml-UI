@@ -915,7 +915,7 @@ public class CommonUtil {
                     TunnelBuilder.getTunnelBuilder().getUnionPayID(),
                     errMsg);
             CommonUtil.getLogger(CommonUtil.class.getName()).log(Level.INFO,
-                    "final mac reuslt: {0}", mac);
+                    "final mac result: {0}", mac);
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
