@@ -131,6 +131,7 @@ import org.jdesktop.swingx.JXButton;
 import org.jdesktop.swingx.JXDatePicker;
 import org.jdesktop.swingx.JXLabel;
 import static king.flow.common.CommonConstants.SWIPE_TWO_IN_ONE_CARD_ACTION;
+import org.apache.commons.lang.StringEscapeUtils;
 
 /**
  *
@@ -451,7 +452,7 @@ public class MainWindow {
                     checkComponentType(nextTrigger, actionName, "nextTrigger", component, panel, pageURI);
                 }
             }
-            
+
             Integer cancelTrigger = encryptKeyboardAction.getCancelTrigger();
             if (cancelTrigger != null) {
                 if (!this.meta_blocks.containsKey(cancelTrigger)) {
@@ -1720,7 +1721,8 @@ public class MainWindow {
             case LABEL:
                 JLabel jLabel = new JXLabel();
                 jcomponent = jLabel;
-                jLabel.setText(CommonUtil.replaceSysVar(text));
+                final String txt = StringEscapeUtils.unescapeHtml(CommonUtil.replaceSysVar(text));
+                jLabel.setText(txt);
                 if (icon != null && icon.length() > 0) {
                     jLabel.setIcon(getImageIcon(icon));
                     jLabel.setHorizontalTextPosition(JLabel.CENTER);
