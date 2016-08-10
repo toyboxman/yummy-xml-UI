@@ -431,6 +431,19 @@ public class MainWindow {
         }
     }
 
+    private void validateJumpAction(JumpAction jumpPanelAction, Component component,
+            Panel panel, String pageURI) throws HeadlessException {
+        if (jumpPanelAction != null) {
+            final String actionName = jumpPanelAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
+            String propertyName = "nextPanel";
+            checkNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
+                    propertyName, component, panel, pageURI);
+            checkNextCursorParameter(jumpPanelAction.getNextCursor(), actionName, component, panel, pageURI);
+            checkNextTriggerParameter(jumpPanelAction.getTrigger(), actionName, component, panel, pageURI);
+        }
+    }
+
     private void validateEncryptKeyboardAction(king.flow.view.Action.EncryptKeyboardAction encryptKeyboardAction,
             Component component, Panel panel, String pageURI) {
         if (encryptKeyboardAction != null) {
@@ -820,6 +833,16 @@ public class MainWindow {
         }
     }
 
+    private void validateCleanAction(king.flow.view.Action.CleanAction cleanAction, Component component,
+            Panel panel, String pageURI) throws HeadlessException {
+        if (cleanAction != null) {
+            final String actionName = cleanAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
+            checkConditionsParameter(cleanAction.getConditions(), actionName, "conditions",
+                    component, panel, pageURI);
+        }
+    }
+
     public void checkReachableBlock(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         List<Component> pageComponents = panel.getComponent();
@@ -844,9 +867,27 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) throws HeadlessException {
         Object meta = meta_blocks.get(id);
         if (!(meta instanceof Component)) {
-            String configErrMsgFooter = "\ncorrect type must be Component type not " + meta.getClass().getSimpleName();
+            String configErrMsgFooter = String.format("\ncorrect type must be [Component] not [%s] type",
+                    meta.getClass().getSimpleName());
             promptMistakenTypeBlockErr(id, actionName, propertyName,
                     component, panel, pageURI, configErrMsgFooter);
+        }
+    }
+
+    private void checkTriggerType(int id, final String actionName, final String propertyName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        checkComponentType(id, actionName, propertyName, component, panel, pageURI);
+        Object meta = meta_blocks.get(id);
+        Component trigger = (Component) meta;
+        switch (trigger.getType()) {
+            case BUTTON:
+            case COMBO_BOX:
+                break;
+            default:
+                String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s, %s]",
+                        trigger.getType(), ComponentEnum.BUTTON, ComponentEnum.COMBO_BOX);
+                promptMistakenTypeBlockErr(id, actionName, propertyName,
+                        component, panel, pageURI, configErrMsgFooter);
         }
     }
 
@@ -980,6 +1021,43 @@ public class MainWindow {
         }
     }
 
+    private void checkNextPanelParameter(int nextPanel, String actionName, String properyName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        String configErrMsg;
+        String configErrMsgFooter;
+        if (properyName == null) {
+            configErrMsgFooter = " for property[nextPanel]";
+        } else {
+            configErrMsgFooter = " for property[" + properyName + "]";
+        }
+
+        Object np = this.meta_blocks.get(nextPanel);
+        if (np == null) {
+            promptNonexistentBlockErr(nextPanel, actionName, properyName, component, panel, pageURI, configErrMsgFooter);
+        } else if (!(np instanceof Panel)) {
+            String type = null;
+            if (np instanceof Component) {
+                type = ((Component) np).getType().toString();
+            } else if (np instanceof king.flow.view.Window) {
+                type = ((king.flow.view.Window) np).getType().toString();
+            } else if (np instanceof Decorator) {
+                type = ((Decorator) np).getType().toString();
+            } else if (np instanceof Menuitem) {
+                type = "MenuItem";
+            } else if (np instanceof Menubar) {
+                type = "MenuBar";
+            } else if (np instanceof Menuoption) {
+                type = "MenuOption";
+            }
+            configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                    .append(actionName).append('\n')
+                    .append("with invalid panel type").append('[').append(type).append(']').append('\n')
+                    .append("and value").append('[').append(nextPanel).append(']')
+                    .append(configErrMsgFooter).toString();
+            CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+        }
+    }
+
     private void promptNonexistentBlockErr(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
@@ -1046,53 +1124,6 @@ public class MainWindow {
         CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
     }
 
-    private void checkNextPanelParameter(int nextPanel, String actionName, String properyName,
-            Component component, Panel panel, String pageURI) throws HeadlessException {
-        String configErrMsg;
-        String configErrMsgFooter;
-        if (properyName == null) {
-            configErrMsgFooter = " for property[nextPanel]";
-        } else {
-            configErrMsgFooter = " for property[" + properyName + "]";
-        }
-
-        Object np = this.meta_blocks.get(nextPanel);
-        if (np == null) {
-            promptNonexistentBlockErr(nextPanel, actionName, properyName, component, panel, pageURI, configErrMsgFooter);
-        } else if (!(np instanceof Panel)) {
-            String type = null;
-            if (np instanceof Component) {
-                type = ((Component) np).getType().toString();
-            } else if (np instanceof king.flow.view.Window) {
-                type = ((king.flow.view.Window) np).getType().toString();
-            } else if (np instanceof Decorator) {
-                type = ((Decorator) np).getType().toString();
-            } else if (np instanceof Menuitem) {
-                type = "MenuItem";
-            } else if (np instanceof Menubar) {
-                type = "MenuBar";
-            } else if (np instanceof Menuoption) {
-                type = "MenuOption";
-            }
-            configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
-                    .append(actionName).append('\n')
-                    .append("with invalid panel type").append('[').append(type).append(']').append('\n')
-                    .append("and value").append('[').append(nextPanel).append(']')
-                    .append(configErrMsgFooter).toString();
-            CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
-        }
-    }
-
-    private void validateCleanAction(king.flow.view.Action.CleanAction cleanAction, Component component,
-            Panel panel, String pageURI) throws HeadlessException {
-        if (cleanAction != null) {
-            final String actionName = cleanAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
-            checkConditionsParameter(cleanAction.getConditions(), actionName, "conditions",
-                    component, panel, pageURI);
-        }
-    }
-
     public StringBuilder buildConfigErrMsgHeader(Component component, Panel panel, String pageURI) {
         StringBuilder configErrMsg = new StringBuilder().append(component.getType().toString())
                 .append('[').append(component.getId()).append(']').append(" of ")
@@ -1100,18 +1131,6 @@ public class MainWindow {
                 .append("in ").append(pageURI).append('\n')
                 .append("mistakenly configures ");
         return configErrMsg;
-    }
-
-    private void validateJumpAction(JumpAction jumpPanelAction, Component component,
-            Panel panel, String pageURI) throws HeadlessException {
-        if (jumpPanelAction != null) {
-            final String actionName = jumpPanelAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
-            String propertyName = "nextPanel";
-            checkNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
-                    propertyName, component, panel, pageURI);
-            checkNextCursorParameter(jumpPanelAction.getNextCursor(), actionName, component, panel, pageURI);
-        }
     }
 
     private void checkNextCursorParameter(Integer nextCursor, final String actionName,
@@ -1132,7 +1151,7 @@ public class MainWindow {
             if (!this.meta_blocks.containsKey(nextTrigger)) {
                 promptNonexistentBlockErr(nextTrigger, actionName, propertyName, component, panel, pageURI, null);
             }
-            checkComponentType(nextTrigger, actionName, propertyName, component, panel, pageURI);
+            checkTriggerType(nextTrigger, actionName, propertyName, component, panel, pageURI);
         }
     }
 
@@ -1588,7 +1607,8 @@ public class MainWindow {
         if (jumpPanelAction != null) {
             int nextPanel = jumpPanelAction.getNextPanel();
             Integer nextCursor = jumpPanelAction.getNextCursor();
-            Action buttonAction = nextCursor == null ? new DefaultButtonAction(nextPanel) : new DefaultButtonAction(nextPanel, nextCursor);
+            Integer trigger = jumpPanelAction.getTrigger();
+            Action buttonAction = new DefaultButtonAction(nextPanel, nextCursor, trigger);
             doAction(buttonAction, component.getId());
         }
     }
