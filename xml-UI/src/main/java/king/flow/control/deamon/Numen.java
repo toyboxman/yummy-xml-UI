@@ -45,7 +45,7 @@ public class Numen {
     private boolean initConnectorServer() {
         try {
             MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
-            ObjectName numenName = new ObjectName(NumenMonitor.JMX_BEAN_NAME);
+            ObjectName numenName = new ObjectName(NumenMonitor.NUMEN_MONITOR_JMX_BEAN_NAME);
             mbeanServer.registerMBean(new NumenMonitor(), numenName);
             //about url referring to http://stackoverflow.com/questions/2768087/explain-jmx-url
             //protocol:rmi, host:localhot, port:random, url:/jndi/rmi://localhost:1099/jmxrmi

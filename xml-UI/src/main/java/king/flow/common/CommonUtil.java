@@ -1112,10 +1112,12 @@ public class CommonUtil {
                     resp = getTunnelBuilder().createTunnel().connect(MANAGER_MSG_CODE, msg);
                     break;
                 default:
-                    getLogger(CommonUtil.class.getName()).log(Level.SEVERE, "Unknown App type({0}) and don't know how to deal message", getAppType());
+                    getLogger(CommonUtil.class.getName()).log(Level.SEVERE,
+                            "Unknown App type({0}) and don't know how to deal message", getAppType());
             }
         } catch (Exception e) {
-            getLogger(CommonUtil.class.getName()).log(Level.SEVERE, "Networks cannot be accessed normally now", e);
+            getLogger(CommonUtil.class.getName()).log(Level.SEVERE,
+                    "Networks cannot be accessed normally now\n", e);
             throw e;
         }
         return resp;
