@@ -128,7 +128,7 @@ public class Numen {
             TunnelBuilder.getTunnelBuilder();
         } catch (IOException | SecurityException ex) {
             System.setProperty(LOG_CONF, "./conf/logging.properties");
-            Logger.getLogger(Numen.class.getName()).log(Level.WARNING,
+            getLogger(Numen.class.getName()).log(Level.WARNING,
                     "cannot find numen.properties due to :\n{0}", ex.getMessage());
         }
 

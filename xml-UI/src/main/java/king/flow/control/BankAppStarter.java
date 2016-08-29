@@ -257,7 +257,7 @@ public class BankAppStarter {
                     jmxc.close();
                 } catch (IOException ex) {
                     Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
-                            "Fail to close JMXConnector to watchdog due to :\n{0}", ex.getMessage());
+                            "fail to close JMXConnector to watchdog due to :\n{0}", ex.getMessage());
                 }
             }
         }
