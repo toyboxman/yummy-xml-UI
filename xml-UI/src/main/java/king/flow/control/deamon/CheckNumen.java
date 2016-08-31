@@ -12,10 +12,12 @@ import javax.management.MXBean;
  * @author king
  */
 @MXBean
-public interface CheckNumen{
+public interface CheckNumen {
+
     String VERSOPM_ATTRIBUTE = "Version";
     String KILL_DEAMON_NAME = "killDeamon";
-    
+
     String getVersion();
+
     void killDeamon();
 }

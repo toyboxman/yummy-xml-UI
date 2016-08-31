@@ -20,11 +20,14 @@ import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.management.AttributeNotFoundException;
+import javax.management.InstanceAlreadyExistsException;
 import javax.management.InstanceNotFoundException;
 import javax.management.MBeanException;
+import javax.management.MBeanRegistrationException;
 import javax.management.MBeanServer;
 import javax.management.MBeanServerConnection;
 import javax.management.MalformedObjectNameException;
+import javax.management.NotCompliantMBeanException;
 import javax.management.ObjectName;
 import javax.management.ReflectionException;
 import javax.management.remote.JMXConnector;
@@ -62,6 +65,7 @@ import static king.flow.common.CommonUtil.resetStartTimeMillis;
 import static king.flow.common.CommonUtil.setKeyboardStatus;
 import static king.flow.common.CommonUtil.setTerminalStatus;
 import static king.flow.common.CommonUtil.startWatchDog;
+import king.flow.control.agent.OpenShell;
 import king.flow.control.deamon.CheckNumen;
 import king.flow.control.deamon.NumenMonitor;
 import king.flow.design.FlowProcessor;
@@ -112,6 +116,16 @@ public class BankAppStarter {
                     "fail to initiative JMXConnectorServer with URL[{0}] due to :\n{1}",
                     new Object[]{CommonConstants.APP_JMX_RMI_URL, e.getMessage()});
             System.exit(CommonConstants.ABNORMAL);
+        }
+
+        //inject into OpenShell MXBean
+        try {
+            MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
+            final ObjectName openShellName = new ObjectName(OpenShell.OPEN_SHELL_JMX_BEAN_NAME);
+            mbeanServer.registerMBean(new OpenShell(), openShellName);
+        } catch (MalformedObjectNameException | InstanceAlreadyExistsException | MBeanRegistrationException | NotCompliantMBeanException ex) {
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
+                    "fail to load OpenShell Plugin due to :\n{0}", ex.getMessage());
         }
 
         String property = System.getProperty(UI_BUILD_SCHEME, DEFAULT_WINDOW_XML);
@@ -211,7 +225,7 @@ public class BankAppStarter {
             MBeanServerConnection msc;
             try {
                 msc = jmxc.getMBeanServerConnection();
-                final ObjectName objectName = new ObjectName(NumenMonitor.JMX_BEAN_NAME);
+                final ObjectName objectName = new ObjectName(NumenMonitor.NUMEN_MONITOR_JMX_BEAN_NAME);
                 if (CommonUtil.isWatchDogEnabled()) {
                     String watchdogVer = (String) msc.getAttribute(objectName, CheckNumen.VERSOPM_ATTRIBUTE);
                     if (!CommonConstants.VERSION.equals(watchdogVer)) {
@@ -243,7 +257,7 @@ public class BankAppStarter {
                     jmxc.close();
                 } catch (IOException ex) {
                     Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
-                            "Fail to close JMXConnector to watchdog due to :\n{0}", ex.getMessage());
+                            "fail to close JMXConnector to watchdog due to :\n{0}", ex.getMessage());
                 }
             }
         }
