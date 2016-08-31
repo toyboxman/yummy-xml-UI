@@ -395,8 +395,9 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                             case BUTTON:
                                 JButton btnBlock = getBlock(trigger, JButton.class);
                                 btnBlock.doClick();
+                                break;
                             default:
-                                Logger.getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
+                                getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
                                         "Invalid trigger component[{0}] as unsupported type[{1}]",
                                         new Object[]{trigger, blockMeta.getType()});
                                 break;
