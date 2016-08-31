@@ -110,7 +110,7 @@ public class OpenShell implements OpenCLI {
             getLogger(OpenShell.class.getName()).log(Level.INFO, "\n{0}", CommonUtil.showSystemInfo());
         }
 
-        if (!(args.length > 1 && COMMAND_SET.contains(args[0]))) {
+        if (!(args.length > 0 && COMMAND_SET.contains(args[0]))) {
             StringBuilder sb = new StringBuilder();
             sb.append("\nErroneous open shell command [").append(args.length < 1 ? "null" : args[0]).append(']').append('\n')
                     .append("Available OpenShell commands include:").append('\n')
