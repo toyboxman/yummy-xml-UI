@@ -23,7 +23,7 @@ public interface OpenCLI {
     
     ImmutableSet<String> COMMAND_SET = ImmutableSet.of(HIDE_APP_NAME, SHOW_APP_NAME);
 
-    void showApp();
+    void showApp(String jsonData);
 
     void hideApp();
 

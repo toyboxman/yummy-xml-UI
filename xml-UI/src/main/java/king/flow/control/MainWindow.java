@@ -141,8 +141,8 @@ public class MainWindow {
 
     private king.flow.view.Window winNode = null;
     private Window window = null;
-    private Map<Integer, Object> building_blocks = null;
-    private Map<Integer, Object> meta_blocks = null;
+    Map<Integer, Object> building_blocks = null;
+    Map<Integer, Object> meta_blocks = null;
     private Map<Panel, String> panelNodes = null;
     private List<Menuitem> menuNodes = null;
 

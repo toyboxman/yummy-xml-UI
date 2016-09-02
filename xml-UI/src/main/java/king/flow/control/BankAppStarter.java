@@ -117,17 +117,7 @@ public class BankAppStarter {
                     new Object[]{CommonConstants.APP_JMX_RMI_URL, e.getMessage()});
             System.exit(CommonConstants.ABNORMAL);
         }
-
-        //inject into OpenShell MXBean
-        try {
-            MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
-            final ObjectName openShellName = new ObjectName(OpenShell.OPEN_SHELL_JMX_BEAN_NAME);
-            mbeanServer.registerMBean(new OpenShell(), openShellName);
-        } catch (MalformedObjectNameException | InstanceAlreadyExistsException | MBeanRegistrationException | NotCompliantMBeanException ex) {
-            Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
-                    "fail to load OpenShell Plugin due to :\n{0}", ex.getMessage());
-        }
-
+        
         String property = System.getProperty(UI_BUILD_SCHEME, DEFAULT_WINDOW_XML);
         switch (property) {
             case DEFAULT_WINDOW_XML:
@@ -203,6 +193,16 @@ public class BankAppStarter {
         frame.setVisible(true);
         setTerminalStatus(RUNNING);
 
+        //inject into OpenShell MXBean
+        try {
+            MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
+            final ObjectName openShellName = new ObjectName(OpenShell.OPEN_SHELL_JMX_BEAN_NAME);
+            mbeanServer.registerMBean(new OpenShell(frame.building_blocks, frame.meta_blocks), openShellName);
+        } catch (MalformedObjectNameException | InstanceAlreadyExistsException | MBeanRegistrationException | NotCompliantMBeanException ex) {
+            Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
+                    "fail to load OpenShell Plugin due to :\n{0}", ex.getMessage());
+        }
+        
         //check if deamon is alive and version is matched
         JMXConnector jmxc = null;
         try {
