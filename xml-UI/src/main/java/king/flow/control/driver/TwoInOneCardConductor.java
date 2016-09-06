@@ -38,4 +38,12 @@ public class TwoInOneCardConductor {
      * <br> empty string meaning timeout of driver reading
      */
     public native String readCard(String comPort, int type, String errMsg);
+    
+    /**
+     * this method will forcibly eject bank card injected in card slot
+     * @param comPort
+     * @param errMsg
+     * @return
+     */
+    public native String ejectCard(String comPort, String errMsg);
 }
