@@ -58,6 +58,7 @@ import king.flow.action.DefaultVideoAction;
 import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.BalanceTransAction;
+import king.flow.action.business.Eject2In1CardAction;
 import king.flow.action.business.InsertCardAction;
 import king.flow.action.business.KeyboardEncryptAction;
 import king.flow.action.business.MoveCursorAction;
@@ -71,6 +72,7 @@ import king.flow.action.business.ShowClockAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.BALANCE_TRANS_ACTION;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
+import static king.flow.common.CommonConstants.EJECT_TWO_IN_ONE_CARD_ACTION;
 import static king.flow.common.CommonConstants.INSERT_IC_ACTION;
 import static king.flow.common.CommonConstants.LIMIT_INPUT_ACTION;
 import static king.flow.common.CommonConstants.OPEN_BROWSER_ACTION;
@@ -420,6 +422,8 @@ public class MainWindow {
             validateOpenBroswerAction(action.getOpenBrowserAction(), component, panel, pageURI);
 
             validateSwipe2In1CardAction(action.getSwipe2In1CardAction(), component, panel, pageURI);
+
+            validateEject2In1CardAction(action.getEject2In1CardAction(), component, panel, pageURI);
 
             validatePrintPassbookAction(action.getPrintPassbookAction(), component, panel, pageURI);
 
@@ -802,6 +806,13 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (swipe2In1CardAction != null) {
             checkSupportedAction(component, SWIPE_TWO_IN_ONE_CARD_ACTION, panel, pageURI);
+        }
+    }
+
+    private void validateEject2In1CardAction(king.flow.view.Action.Eject2In1CardAction eject2In1CardAction,
+            Component component, Panel panel, String pageURI) {
+        if (eject2In1CardAction != null) {
+            checkSupportedAction(component, EJECT_TWO_IN_ONE_CARD_ACTION, panel, pageURI);
         }
     }
 
@@ -1211,6 +1222,8 @@ public class MainWindow {
 
             doSwipe2In1CardAction(actionNode, component);
 
+            doEject2In1CardAction(actionNode, component);
+
             doPrintPassbookAction(actionNode, component);
 
             doPlayVideoAction(actionNode, component, parentContainer);
@@ -1220,6 +1233,14 @@ public class MainWindow {
             doBalanceTransAction(actionNode, component);
 
             doEncryptKeyboardAction(actionNode, component);
+        }
+    }
+
+    private void doEject2In1CardAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.Eject2In1CardAction ejectCardAction = actionNode.getEject2In1CardAction();
+        if (ejectCardAction != null) {
+            Eject2In1CardAction eject2In1CardAction = new Eject2In1CardAction();
+            doAction(eject2In1CardAction, component.getId());
         }
     }
 

@@ -14,6 +14,7 @@ import java.util.Map;
 import king.flow.action.business.ShowClockAction;
 import king.flow.data.TLSResult;
 import king.flow.view.Action.CleanAction;
+import king.flow.view.Action.Eject2In1CardAction;
 import king.flow.view.Action.EncryptKeyboardAction;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Action.LimitInputAction;
@@ -172,6 +173,7 @@ public class CommonConstants {
     public static final String UPLOAD_FILE_ACTION = UploadFileAction.class.getSimpleName();
     public static final String SWIPE_CARD_ACTION = SwipeCardAction.class.getSimpleName();
     public static final String SWIPE_TWO_IN_ONE_CARD_ACTION = Swipe2In1CardAction.class.getSimpleName();
+    public static final String EJECT_TWO_IN_ONE_CARD_ACTION = Eject2In1CardAction.class.getSimpleName();
     public static final String READ_WRITE_FINGERPRINT_ACTION = RwFingerPrintAction.class.getSimpleName();
     public static final String PLAY_VIDEO_ACTION = PlayVideoAction.class.getSimpleName();
     public static final String CUSTOMIZED_ACTION = DefinedAction.class.getSimpleName();
@@ -195,6 +197,7 @@ public class CommonConstants {
                     .add(PRINT_PASSBOOK_ACTION)
                     .add(UPLOAD_FILE_ACTION)
                     .add(BALANCE_TRANS_ACTION)
+                    .add(EJECT_TWO_IN_ONE_CARD_ACTION)
                     .build())
             .put(ComponentEnum.COMBO_BOX, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)

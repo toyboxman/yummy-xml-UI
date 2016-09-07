@@ -755,6 +755,18 @@ public class CommonUtil {
         }
         return cardNumber;
     }
+    
+    public static void eject2In1Card() {
+        try {
+            System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
+            String errMsg = "";
+            TIOCardConductor.ejectCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{TWO_IN_ONE_CARD.value(), t.getMessage()});
+        }
+    }
 
     public static boolean downloadKey(String maKey, String masterKey, String workSecretKey) {
         boolean result = false;

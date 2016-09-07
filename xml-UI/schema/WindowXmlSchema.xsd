@@ -254,6 +254,14 @@
                 </xs:complexType>
             </xs:element>
             
+            <xs:element name="eject2In1CardAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="desc" type="xs:string"  maxOccurs="1" minOccurs="0"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            
             <xs:element name="rwFingerPrintAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
