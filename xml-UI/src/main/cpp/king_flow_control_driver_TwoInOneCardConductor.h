@@ -23,6 +23,14 @@ JNIEXPORT jint JNICALL Java_king_flow_control_driver_TwoInOneCardConductor_check
 JNIEXPORT jstring JNICALL Java_king_flow_control_driver_TwoInOneCardConductor_readCard
   (JNIEnv *, jobject, jstring, jint, jstring);
 
+/*
+ * Class:     king_flow_control_driver_TwoInOneCardConductor
+ * Method:    ejectCard
+ * Signature: (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ */
+JNIEXPORT jstring JNICALL Java_king_flow_control_driver_TwoInOneCardConductor_ejectCard
+  (JNIEnv *, jobject, jstring, jstring);
+
 #ifdef __cplusplus
 }
 #endif
