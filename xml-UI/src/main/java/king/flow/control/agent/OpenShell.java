@@ -48,9 +48,11 @@ public class OpenShell {
             StringBuilder sb = new StringBuilder();
             sb.append("Erroneous open shell command [").append(args.length < 1 ? "null" : args[0]).append(']').append('\n')
                     .append("\nAvailable OpenShell commands include:").append('\n')
-                    .append(OpenCLI.SHOW_APP_NAME).append("       --show application").append('\n')
-                    .append(OpenCLI.HIDE_APP_NAME).append("       --hide application").append('\n')
-                    .append(OpenCLI.VERSOPM_ATTRIBUTE).append("       --get application version");
+                    .append(' ').append(OpenCLI.SHOW_APP_NAME).append("\n          --show application").append('\n').append('\n')
+                    .append(' ').append(OpenCLI.SHOW_APP_NAME).append(" [json]\n          --show application with parameters").append('\n').append('\n')
+                    .append(' ').append(OpenCLI.HIDE_APP_NAME).append("\n          --hide application").append('\n').append('\n')
+                    .append(' ').append(OpenCLI.VERSOPM_ATTRIBUTE).append("\n          --get application version").append('\n').append('\n')
+                    .append(' ').append(OpenCLI.SHOW_APP_INFO_NAME).append("\n          --show information");
             LOGGER.log(Level.SEVERE, sb.toString());
             return;
         }
@@ -76,6 +78,12 @@ public class OpenShell {
                             String version = (String) msc.getAttribute(beanName, VERSOPM_ATTRIBUTE);
                             StringBuilder output = new StringBuilder();
                             output.append("OK!").append("\napplication version: ").append(version);
+                            LOGGER.log(Level.INFO, output.toString());
+                            break;
+                        case OpenCLI.SHOW_APP_INFO_NAME:
+                            String info = (String) msc.invoke(beanName, args[0], null, null);
+                            output = new StringBuilder();
+                            output.append("OK!").append("\n").append(info);
                             LOGGER.log(Level.INFO, output.toString());
                             break;
                         default:

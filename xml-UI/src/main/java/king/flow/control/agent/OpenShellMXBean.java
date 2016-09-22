@@ -21,6 +21,7 @@ import javax.swing.JComboBox;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 import king.flow.common.CommonConstants;
+import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getCurrentView;
 import static king.flow.common.CommonUtil.getLogger;
 import king.flow.view.Component;
@@ -196,5 +197,10 @@ public class OpenShellMXBean implements OpenCLI {
         robot.setAutoWaitForIdle(true);
         robot.setAutoDelay(10);
         return robot;
+    }
+
+    @Override
+    public String showAppInfo() {
+        return CommonUtil.showSystemInfo();
     }
 }
