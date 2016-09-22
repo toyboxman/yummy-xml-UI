@@ -13,9 +13,11 @@ import java.util.List;
 import java.util.Map;
 import king.flow.action.business.ShowClockAction;
 import king.flow.data.TLSResult;
+import king.flow.view.Action;
 import king.flow.view.Action.CleanAction;
 import king.flow.view.Action.Eject2In1CardAction;
 import king.flow.view.Action.EncryptKeyboardAction;
+import king.flow.view.Action.HideAction;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Action.LimitInputAction;
 import king.flow.view.Action.MoveCursorAction;
@@ -154,6 +156,7 @@ public class CommonConstants {
     public static final String JUMP_ACTION = JumpAction.class.getSimpleName();
     public static final String SET_FONT_ACTION = SetFontAction.class.getSimpleName();
     public static final String CLEAN_ACTION = CleanAction.class.getSimpleName();
+    public static final String HIDE_ACTION = HideAction.class.getSimpleName();
     public static final String USE_TIP_ACTION = UseTipAction.class.getSimpleName();
     public static final String PLAY_MEDIA_ACTION = PlayMediaAction.class.getSimpleName();
     public static final String SEND_MSG_ACTION = MsgSendAction.class.getSimpleName();
@@ -184,6 +187,7 @@ public class CommonConstants {
                     .add(JUMP_ACTION)
                     .add(SET_FONT_ACTION)
                     .add(CLEAN_ACTION)
+                    .add(HIDE_ACTION)
                     .add(USE_TIP_ACTION)
                     .add(PLAY_MEDIA_ACTION)
                     .add(OPEN_BROWSER_ACTION)

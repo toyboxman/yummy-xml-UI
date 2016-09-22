@@ -114,6 +114,14 @@
                     </xs:all>
                 </xs:complexType>
             </xs:element>
+            
+            <xs:element name="hideAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="desc" type="xs:string"  maxOccurs="1" minOccurs="0"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
 			
             <xs:element name="uploadFileAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>

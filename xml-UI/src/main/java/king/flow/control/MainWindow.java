@@ -46,6 +46,7 @@ import king.flow.action.DefaultCleanAction;
 import king.flow.action.DefaultComboBoxAction;
 import king.flow.action.DefaultFileUploadAction;
 import king.flow.action.DefaultFontAction;
+import king.flow.action.DefaultHideAction;
 import king.flow.action.DefaultMsgSendAction;
 import king.flow.action.DefaultTableAction;
 import king.flow.action.DefaultTextFieldAction;
@@ -71,6 +72,7 @@ import king.flow.action.business.Read2In1CardAction;
 import king.flow.action.business.ShowClockAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.BALANCE_TRANS_ACTION;
+import static king.flow.common.CommonConstants.CLEAN_ACTION;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
 import static king.flow.common.CommonConstants.EJECT_TWO_IN_ONE_CARD_ACTION;
 import static king.flow.common.CommonConstants.INSERT_IC_ACTION;
@@ -390,6 +392,8 @@ public class MainWindow {
             validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
 
             validateCleanAction(action.getCleanAction(), component, panel, pageURI);
+            
+            validateHideAction(action.getHideAction(), component, panel, pageURI);
 
             validateLimitInputAction(action.getLimitInputAction(), component, panel, pageURI);
 
@@ -847,10 +851,16 @@ public class MainWindow {
     private void validateCleanAction(king.flow.view.Action.CleanAction cleanAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (cleanAction != null) {
-            final String actionName = cleanAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
-            checkConditionsParameter(cleanAction.getConditions(), actionName, "conditions",
+            checkSupportedAction(component, CLEAN_ACTION, panel, pageURI);
+            checkConditionsParameter(cleanAction.getConditions(), CLEAN_ACTION, "conditions",
                     component, panel, pageURI);
+        }
+    }
+    
+    private void validateHideAction(king.flow.view.Action.HideAction hideAction, Component component,
+            Panel panel, String pageURI) throws HeadlessException {
+        if (hideAction != null) {
+            checkSupportedAction(component, CommonConstants.HIDE_ACTION, panel, pageURI);
         }
     }
 
@@ -1192,6 +1202,8 @@ public class MainWindow {
 
             doCleanAction(actionNode, component);
 
+            doHideAction(actionNode, component);
+
             doLimitInputAction(actionNode, component);
 
             doPlayMediaAction(actionNode, component);
@@ -1233,6 +1245,14 @@ public class MainWindow {
             doBalanceTransAction(actionNode, component);
 
             doEncryptKeyboardAction(actionNode, component);
+        }
+    }
+
+    private void doHideAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.HideAction hideAction = actionNode.getHideAction();
+        if (hideAction != null) {
+            DefaultHideAction defaultHideAction = new DefaultHideAction();
+            doAction(defaultHideAction, component.getId());
         }
     }
 
