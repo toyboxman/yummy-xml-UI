@@ -65,6 +65,7 @@ import static king.flow.common.CommonUtil.resetStartTimeMillis;
 import static king.flow.common.CommonUtil.setKeyboardStatus;
 import static king.flow.common.CommonUtil.setTerminalStatus;
 import static king.flow.common.CommonUtil.startWatchDog;
+import king.flow.control.agent.OpenShellMXBean;
 import king.flow.control.agent.OpenShell;
 import king.flow.control.deamon.CheckNumen;
 import king.flow.control.deamon.NumenMonitor;
@@ -196,8 +197,8 @@ public class BankAppStarter {
         //inject into OpenShell MXBean
         try {
             MBeanServer mbeanServer = ManagementFactory.getPlatformMBeanServer();
-            final ObjectName openShellName = new ObjectName(OpenShell.OPEN_SHELL_JMX_BEAN_NAME);
-            mbeanServer.registerMBean(new OpenShell(frame.building_blocks, frame.meta_blocks), openShellName);
+            final ObjectName openShellName = new ObjectName(OpenShellMXBean.OPEN_SHELL_JMX_BEAN_NAME);
+            mbeanServer.registerMBean(new OpenShellMXBean(frame.building_blocks, frame.meta_blocks), openShellName);
         } catch (MalformedObjectNameException | InstanceAlreadyExistsException | MBeanRegistrationException | NotCompliantMBeanException ex) {
             Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
                     "fail to load OpenShell Plugin due to :\n{0}", ex.getMessage());
