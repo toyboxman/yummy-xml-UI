@@ -51,6 +51,7 @@ public class OpenShell {
                     .append(' ').append(OpenCLI.SHOW_APP_NAME).append("\n          --show application").append('\n').append('\n')
                     .append(' ').append(OpenCLI.SHOW_APP_NAME).append(" [json]\n          --show application with parameters").append('\n').append('\n')
                     .append(' ').append(OpenCLI.HIDE_APP_NAME).append("\n          --hide application").append('\n').append('\n')
+                    .append(' ').append(OpenCLI.LAUNCH_ACTION_NAME).append(" [json]\n          --launch action with parameters").append('\n').append('\n')
                     .append(' ').append(OpenCLI.VERSOPM_ATTRIBUTE).append("\n          --get application version").append('\n').append('\n')
                     .append(' ').append(OpenCLI.SHOW_APP_INFO_NAME).append("\n          --show information");
             LOGGER.log(Level.SEVERE, sb.toString());
@@ -86,11 +87,15 @@ public class OpenShell {
                             output.append("OK!").append("\n").append(info);
                             LOGGER.log(Level.INFO, output.toString());
                             break;
+                        case OpenCLI.LAUNCH_ACTION_NAME:
+                            LOGGER.log(Level.INFO, "invalid parameter!");
+                            break;
                         default:
                             LOGGER.log(Level.WARNING, "Unsupported command {0}", args[0]);
                     }
                 } else {
                     msc.invoke(beanName, args[0], new Object[]{args[1]}, new String[]{String.class.getName()});
+                    LOGGER.log(Level.INFO, "OK!");
                 }
             }
         } catch (IOException | MalformedObjectNameException | InstanceNotFoundException | MBeanException | AttributeNotFoundException | ReflectionException ex) {

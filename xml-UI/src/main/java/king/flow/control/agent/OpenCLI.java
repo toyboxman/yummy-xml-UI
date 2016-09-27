@@ -23,7 +23,10 @@ public interface OpenCLI {
 
     String SHOW_APP_INFO_NAME = "showAppInfo";
 
-    ImmutableSet<String> COMMAND_SET = ImmutableSet.of(HIDE_APP_NAME, SHOW_APP_NAME, VERSOPM_ATTRIBUTE, SHOW_APP_INFO_NAME);
+    String LAUNCH_ACTION_NAME = "launchAction";
+
+    ImmutableSet<String> COMMAND_SET = ImmutableSet.of(HIDE_APP_NAME, SHOW_APP_NAME,
+            VERSOPM_ATTRIBUTE, SHOW_APP_INFO_NAME, LAUNCH_ACTION_NAME);
 
     void showApp(String jsonData);
 
@@ -32,4 +35,6 @@ public interface OpenCLI {
     String getVersion();
 
     String showAppInfo();
+
+    void launchAction(String jsonData);
 }
