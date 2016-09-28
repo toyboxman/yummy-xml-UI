@@ -32,7 +32,7 @@ import static king.flow.control.deamon.CheckNumen.VERSOPM_ATTRIBUTE;
  */
 public class OpenShell {
 
-    private static final Logger LOGGER = getLogger("");
+    private static final Logger LOGGER = getLogger(OpenShell.class.getName());
 
     public static void main(String[] args) {
         try {
@@ -78,17 +78,15 @@ public class OpenShell {
                         case OpenCLI.VERSOPM_ATTRIBUTE:
                             String version = (String) msc.getAttribute(beanName, VERSOPM_ATTRIBUTE);
                             StringBuilder output = new StringBuilder();
-                            output.append("OK!").append("\napplication version: ").append(version);
+                            output.append("Application version: ").append(version);
                             LOGGER.log(Level.INFO, output.toString());
                             break;
                         case OpenCLI.SHOW_APP_INFO_NAME:
                             String info = (String) msc.invoke(beanName, args[0], null, null);
-                            output = new StringBuilder();
-                            output.append("OK!").append("\n").append(info);
-                            LOGGER.log(Level.INFO, output.toString());
+                            LOGGER.log(Level.INFO, info);
                             break;
                         case OpenCLI.LAUNCH_ACTION_NAME:
-                            LOGGER.log(Level.INFO, "invalid parameter!");
+                            LOGGER.log(Level.INFO, "Invalid parameter!");
                             break;
                         default:
                             LOGGER.log(Level.WARNING, "Unsupported command {0}", args[0]);
