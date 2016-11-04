@@ -100,12 +100,10 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
             } else {
                 owner.getTopLevelAncestor().setCursor(Cursor.getPredefinedCursor(Cursor.DEFAULT_CURSOR));
             }
+        } else if (busy) {
+            container.setCursor(Cursor.getPredefinedCursor(Cursor.WAIT_CURSOR));
         } else {
-            if (busy) {
-                container.setCursor(Cursor.getPredefinedCursor(Cursor.WAIT_CURSOR));
-            } else {
-                container.setCursor(Cursor.getPredefinedCursor(Cursor.DEFAULT_CURSOR));
-            }
+            container.setCursor(Cursor.getPredefinedCursor(Cursor.DEFAULT_CURSOR));
         }
     }
 
@@ -115,7 +113,9 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
             setCursorBusy(true, dialog);
             task.addPropertyChangeListener(new ProgressMonitor(dialog));
             task.execute();
-            dialog.setVisible(true);
+            if (CommonUtil.getCurrentView().isVisible()) {
+                dialog.setVisible(true);
+            }
         }
     }
 
@@ -125,7 +125,9 @@ public abstract class DefaultAction<O extends JComponent> extends BaseAction {
                 setCursorBusy(true, animation);
                 task.addPropertyChangeListener(new ProgressMonitor(animation));
                 task.execute();
-                animation.setVisible(true);
+                if (CommonUtil.getCurrentView().isVisible()) {
+                    animation.setVisible(true);
+                }
             } else {
                 waitCommunicationTask(task);
             }
