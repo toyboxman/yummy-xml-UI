@@ -159,7 +159,7 @@ public class BalanceTransAction extends DefaultMsgSendAction {
                 final String errMsg = result.getErrMsg();
                 getLogger(BalanceTRXTask.class.getName()).log(Level.INFO,
                         "Operation action failed with retcode {0}, root cause : \n{1}",
-                        new Object[]{result.getRetCode(), errMsg});
+                        new Object[]{String.valueOf(result.getRetCode()), errMsg});
                 if (result.getRetCode() == CommonConstants.BALANCE) {
                     return strikeBalance(conditionValues, msg, getResourceMsg("terminal.no.response.prompt"));
                 } else {
@@ -188,7 +188,7 @@ public class BalanceTransAction extends DefaultMsgSendAction {
                 get();
             } catch (InterruptedException | ExecutionException ex) {
                 Logger.getLogger(BalanceTransAction.class.getName()).log(Level.WARNING,
-                        "fail to do this transaction due to :\n{0}", ex);
+                        "fail to do this transaction due to :\n{0}", ex.getMessage());
             }
         }
 

@@ -168,15 +168,16 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
 
                     if (isEncryption) {
                         getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
-                                        "use encrypted keyboard mode");
+                                "use encrypted keyboard mode");
                         value = CommonUtil.retrieveCargo(Integer.toString(id));
+                        value = (value == null) ? "" : value;
                         //check notnull condition calling this method, so cannot clean pinblock
                         if (cleanCargo) {
                             CommonUtil.cleanTranStation(Integer.toString(id));
                         }
                     } else {
                         getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
-                                        "use normal keyboard mode");
+                                "use normal keyboard mode");
                         JPasswordField jpf = (JPasswordField) condition.getComponent();
                         final String unwrapped = new String(jpf.getPassword());
                         if (unwrapped.length() > 0) {
@@ -202,7 +203,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
         }
         return contents;
     }
-    
+
     protected Map<Integer, String> retrieveConditionValues() {
         return retrieveConditionValues(true);
     }
@@ -455,22 +456,22 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
             if (!checkNotNull) {
                 return checkNotNull;
             }
-            
+
             boolean checkTemplate = checkTemplate();
             if (!checkTemplate) {
                 return checkTemplate;
             }
-            
+
             boolean checkCJK = checkCJK();
             if (!checkCJK) {
                 return checkCJK;
             }
-            
+
             boolean checkEqualConditions = checkEqualConditions();
             if (!checkEqualConditions) {
                 return checkEqualConditions;
             }
-            
+
             boolean checkNotEqualConditions = checkNotEqualConditions();
             if (!checkNotEqualConditions) {
                 return checkNotEqualConditions;
