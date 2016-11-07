@@ -14,6 +14,7 @@ $文档格式格式如下：
 2016.9.27
 ************************************************************************************************************************
 给系统增加open shell的交互接口
+LaunchAction 参数和showApp的一样，唯一区别是不用显示界面在后台发起动作
 Available OpenShell commands include:
  showApp
           --show application
