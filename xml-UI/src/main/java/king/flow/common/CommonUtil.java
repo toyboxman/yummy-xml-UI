@@ -49,6 +49,7 @@ import javax.xml.datatype.XMLGregorianCalendar;
 import javax.xml.namespace.QName;
 import king.flow.action.DefaultAction;
 import static king.flow.common.CommonConstants.ABNORMAL;
+import static king.flow.common.CommonConstants.BALANCED_PAY_MAC;
 import static king.flow.common.CommonConstants.GENERAL_MSG_CODE;
 import static king.flow.common.CommonConstants.KEY_DOWNLOAD_MSG_CODE;
 import static king.flow.common.CommonConstants.MANAGER_MSG_CODE;
@@ -327,6 +328,10 @@ public class CommonUtil {
                 list.add(createJAXBElement(new QName("", UNIONPAY_MAC_INFO),
                         retrieveCargo(UNIONPAY_MAC_INFO)));
                 cleanTranStation(UNIONPAY_MAC_INFO);
+            }
+            if (retrieveCargo(BALANCED_PAY_MAC) != null) {
+                list.add(createJAXBElement(new QName("", BALANCED_PAY_MAC),
+                        retrieveCargo(BALANCED_PAY_MAC)));
             }
             Set<Map.Entry<Integer, String>> entrySet = contents.entrySet();
             for (Map.Entry<Integer, String> entry : entrySet) {
