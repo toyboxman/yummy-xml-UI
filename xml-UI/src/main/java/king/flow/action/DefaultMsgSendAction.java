@@ -111,6 +111,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     case DATE:
                     case COMBO_BOX:
                     case PASSWORD_FIELD:
+                    case TABLE:
                         conditions.add(new Condition<>(getBlock(id, JComponent.class), cm));
                         break;
                     default:
@@ -194,6 +195,15 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     }
 
                     contents.put(id, value);
+                    break;
+                case TABLE:
+                    JTable table = (JTable) condition.getComponent();
+                    if (table.getSelectedRow() == -1) {
+                        contents.put(id, null);
+                    } else {
+                        Vector vRow = (Vector) ((DefaultTableModel) table.getModel()).getDataVector().elementAt(table.getSelectedRow());
+                        contents.put(id, vRow.toString());
+                    }
                     break;
                 default:
                     getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
