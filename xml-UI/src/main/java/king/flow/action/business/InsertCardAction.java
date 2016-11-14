@@ -86,6 +86,9 @@ public class InsertCardAction extends DefaultBaseAction {
                 if (cardType == DeviceEnum.GZ_CARD) {
                     progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"
                             + "." + DeviceEnum.GZ_CARD.value()));
+                } else if (cardType == DeviceEnum.HS_CARD) {
+                    progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"
+                            + "." + DeviceEnum.HS_CARD.value()));
                 } else {
                     progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
                 }

@@ -510,6 +510,7 @@
             <xs:enumeration  value="printer"/>
             <xs:enumeration  value="keyboard"/>
             <xs:enumeration  value="gzCard"/>
+            <xs:enumeration  value="hsCard"/>
             <xs:enumeration  value="pkg8583"/>
         </xs:restriction>
     </xs:simpleType>
