@@ -59,6 +59,7 @@
             <xs:enumeration  value="WebBroswer"/>
             <xs:enumeration  value="NativeBroswer"/>
             <xs:enumeration  value="VideoPlayer"/>
+            <xs:enumeration  value="Grid"/>
         </xs:restriction>
     </xs:simpleType>
     
