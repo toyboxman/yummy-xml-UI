@@ -11,12 +11,17 @@ import java.awt.Dimension;
 import java.awt.GridLayout;
 import java.awt.Rectangle;
 import java.awt.event.ActionEvent;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicReference;
 import java.util.logging.Level;
+import javax.swing.JComponent;
 import javax.swing.JDialog;
+import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import javax.swing.border.LineBorder;
 import king.flow.common.CommonUtil;
@@ -36,6 +41,7 @@ public class JXGridPanel extends JXPanel {
     private final JXButton previousBtn;
     private JXPanel currentPage;
     private int cursor;
+    private final AtomicReference<GridElement> choosenElement;
 
     public JXGridPanel(int row, int column, int hgap, int vgap, int width, int height) {
         super(new BorderLayout());
@@ -46,6 +52,7 @@ public class JXGridPanel extends JXPanel {
         this.hgap = hgap;
         this.vgap = vgap;
         this.centralPanels = new ArrayList<>();
+        choosenElement = new AtomicReference<>();
 
         final JXPanel previousPanel = new JXPanel();
         super.add(previousPanel, BorderLayout.WEST);
@@ -85,9 +92,8 @@ public class JXGridPanel extends JXPanel {
             JXPanel centralPanel = new JXPanel(new GridLayout(row, column, hgap, vgap));
             centralPanels.add(centralPanel);
             for (int j = i * maxDataCount; j < ((i + 1) * maxDataCount < dataModel.length ? (i + 1) * maxDataCount : dataModel.length); j++) {
-                JXLabel gridElement = new JXLabel(dataModel[j]);
-                gridElement.setBorder(new LineBorder(Color.BLACK, 1));
-                centralPanel.add(gridElement);
+                GridElement<JXLabel> gridElement = new GridElement<>(new JXLabel(dataModel[j]));
+                gridElement.insert(centralPanel);
             }
         }
         cursor = -1;
@@ -139,5 +145,40 @@ public class JXGridPanel extends JXPanel {
             jDialog.setLocationRelativeTo(null);
             jDialog.setVisible(true);
         });
+    }
+
+    private class GridElement<E extends JComponent> {
+
+        E component;
+
+        public GridElement(E component) {
+            this.component = component;
+            component.setBorder(new LineBorder(Color.BLACK, 1));
+            this.component.addMouseListener(new GridElementMouseAdapter(component));
+        }
+
+        public void insert(JPanel panel) {
+            panel.add(component);
+        }
+
+        private class GridElementMouseAdapter extends MouseAdapter {
+
+            private final E component;
+
+            public GridElementMouseAdapter(E component) {
+                this.component = component;
+            }
+
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                if (choosenElement.get() != null) {
+                    GridElement old = choosenElement.getAndSet(GridElement.this);
+                    old.component.setBorder(new LineBorder(Color.BLACK, 1));
+                } else {
+                    choosenElement.set(GridElement.this);
+                }
+                component.setBorder(new LineBorder(Color.RED, 1));
+            }
+        }
     }
 }
