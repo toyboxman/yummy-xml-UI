@@ -16,9 +16,11 @@ import java.awt.event.MouseEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicReference;
 import java.util.logging.Level;
+import javafx.util.Pair;
 import javax.swing.JComponent;
 import javax.swing.JDialog;
 import javax.swing.JPanel;
@@ -28,6 +30,10 @@ import king.flow.common.CommonUtil;
 import org.jdesktop.swingx.JXButton;
 import org.jdesktop.swingx.JXLabel;
 import org.jdesktop.swingx.JXPanel;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
 
 /**
  *
@@ -78,26 +84,34 @@ public class JXGridPanel extends JXPanel {
         });
     }
 
-    public void setDataModel(String[] dataModel) {
+    public void setDataModel(List<Pair<String, String>> dataModel) {
         if (dataModel == null) {
             CommonUtil.getLogger(JXGridPanel.class.getName()).log(Level.WARNING,
                     "Invalid gridPanel data model {0}", dataModel);
             return;
         }
         int maxDataCount = row * column;
-        int divide = dataModel.length / maxDataCount;
-        int surplus = dataModel.length % maxDataCount;
+        int divide = dataModel.size() / maxDataCount;
+        int surplus = dataModel.size() % maxDataCount;
         int pageNum = divide + (surplus == 0 ? 0 : 1);
         for (int i = 0; i < pageNum; i++) {
             JXPanel centralPanel = new JXPanel(new GridLayout(row, column, hgap, vgap));
             centralPanels.add(centralPanel);
-            for (int j = i * maxDataCount; j < ((i + 1) * maxDataCount < dataModel.length ? (i + 1) * maxDataCount : dataModel.length); j++) {
-                GridElement<JXLabel> gridElement = new GridElement<>(new JXLabel(dataModel[j]));
+            for (int j = i * maxDataCount; j < ((i + 1) * maxDataCount < dataModel.size() ? (i + 1) * maxDataCount : dataModel.size()); j++) {
+                final Pair<String, String> pair = dataModel.get(j);
+                GridElement<JXLabel> gridElement = new GridElement<>(pair, new JXLabel(pair.getValue()));
                 gridElement.insert(centralPanel);
             }
         }
         cursor = -1;
         fadeIn();
+    }
+
+    public String getValue() {
+        if (choosenElement.get() != null) {
+            return (String) choosenElement.get().getPair().getKey();
+        }
+        return null;
     }
 
     private void fadeIn() {
@@ -127,10 +141,25 @@ public class JXGridPanel extends JXPanel {
     }
 
     public static void main(String[] args) {
-        String[] data = new String[]{"AAA20", "BBB20", "CCC10", "DDD10"};
+        String jsonData = "[{\"131\":\"AA\"},{\"137\":\"BB\"},{\"177\":\"CC\"},{\"154\":\"DD\"}]";
+        List<Pair<String, String>> dataList = new ArrayList<>();
+        JSONParser jsonParser = new JSONParser();
+        try {
+            JSONArray array = (JSONArray) jsonParser.parse(jsonData);
+            for (Iterator it = array.iterator(); it.hasNext();) {
+                JSONObject data = (JSONObject) it.next();
+                data.forEach((t, u) -> {
+                    Pair<String, String> pair = new Pair(t, u);
+                    dataList.add(pair);
+                });
+            }
+        } catch (ParseException ex) {
+            System.out.println("king.flow.swing.JXGridPanel.main() exception \n" + ex.getMessage());
+        }
+
         JDialog jDialog = new JDialog();
         final JXGridPanel jxGridPanel = new JXGridPanel(1, 2, 10, 10, 800, 600);
-        jxGridPanel.setDataModel(data);
+        jxGridPanel.setDataModel(dataList);
 //        jDialog.getRootPane().getContentPane().setLayout(null);
         jDialog.getRootPane().getContentPane().add(jxGridPanel, BorderLayout.CENTER);
 //        jxGridPanel.setBounds(0, 0, 800, 600);
@@ -150,15 +179,21 @@ public class JXGridPanel extends JXPanel {
     private class GridElement<E extends JComponent> {
 
         E component;
+        Pair<String, String> pair;
 
-        public GridElement(E component) {
-            this.component = component;
+        public GridElement(Pair<String, String> p, E e) {
+            this.component = e;
+            this.pair = p;
             component.setBorder(new LineBorder(Color.BLACK, 1));
             this.component.addMouseListener(new GridElementMouseAdapter(component));
         }
 
         public void insert(JPanel panel) {
             panel.add(component);
+        }
+
+        public Pair<String, String> getPair() {
+            return pair;
         }
 
         private class GridElementMouseAdapter extends MouseAdapter {
@@ -177,7 +212,7 @@ public class JXGridPanel extends JXPanel {
                 } else {
                     choosenElement.set(GridElement.this);
                 }
-                component.setBorder(new LineBorder(Color.RED, 1));
+                component.setBorder(new LineBorder(Color.RED, 2, true));
             }
         }
     }
