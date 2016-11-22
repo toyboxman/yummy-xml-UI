@@ -39,13 +39,43 @@ import org.json.simple.parser.ParseException;
  */
 public class JXGridPanel extends JXPanel {
 
-    private final int row, column, hgap, vgap;
+    private int row, column, hgap, vgap;
     private final List<JXPanel> centralPanels;
     private final JXButton nextBtn;
     private final JXButton previousBtn;
     private JXPanel currentPage;
     private int cursor;
     private final AtomicReference<GridElement> choosenElement;
+
+    public JXGridPanel() {
+        super(new BorderLayout());
+        ((BorderLayout) super.getLayout()).setHgap(5);
+        this.row = 2;
+        this.column = 2;
+        this.hgap = 10;
+        this.vgap = 10;
+        this.centralPanels = new ArrayList<>();
+        choosenElement = new AtomicReference<>();
+
+        final JXPanel previousPanel = new JXPanel();
+        super.add(previousPanel, BorderLayout.WEST);
+        previousBtn = new JXButton("<html><h3>&lt;&lt;</html>");
+        nextBtn = new JXButton("<html><h3>&gt;&gt;</html>");
+        previousPanel.setLayout(null);
+        previousPanel.add(previousBtn);
+        previousBtn.addActionListener((ActionEvent e) -> {
+            fadeOut();
+        });
+
+        final JXPanel nextPanel = new JXPanel();
+        super.add(nextPanel, BorderLayout.EAST);
+
+        nextPanel.setLayout(null);
+        nextPanel.add(nextBtn);
+        nextBtn.addActionListener((ActionEvent e) -> {
+            fadeIn();
+        });
+    }
 
     public JXGridPanel(int row, int column, int hgap, int vgap, int width, int height) {
         super(new BorderLayout());
@@ -82,6 +112,20 @@ public class JXGridPanel extends JXPanel {
         });
     }
 
+    @Override
+    public void setBounds(int x, int y, int width, int height) {
+        super.setBounds(x, y, width, height);
+        previousBtn.setBounds(0, (height - 50) / 2, 50, 50);
+        nextBtn.setBounds(0, (height - 50) / 2, 50, 50);
+    }
+
+    public void setGridLayout(int row, int column, int hgap, int vgap) {
+        this.row = row;
+        this.column = column;
+        this.hgap = hgap;
+        this.vgap = vgap;
+    }
+
     public void setDataModel(JSONArray dataModel) {
         if (dataModel == null) {
             CommonUtil.getLogger(JXGridPanel.class.getName()).log(Level.WARNING,
@@ -116,7 +160,7 @@ public class JXGridPanel extends JXPanel {
         cursor = -1;
         fadeIn();
     }
-    
+
     private static final String ID_KEY = "id";
     private static final String DISPLAY_KEY = "display";
 
@@ -164,7 +208,7 @@ public class JXGridPanel extends JXPanel {
         }
 
         JDialog jDialog = new JDialog();
-        final JXGridPanel jxGridPanel = new JXGridPanel(1, 2, 10, 10, 800, 600);
+        final JXGridPanel jxGridPanel = new JXGridPanel(2, 2, 10, 10, 800, 600);
         jxGridPanel.setDataModel(array);
 //        jDialog.getRootPane().getContentPane().setLayout(null);
         jDialog.getRootPane().getContentPane().add(jxGridPanel, BorderLayout.CENTER);

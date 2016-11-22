@@ -365,6 +365,17 @@
                     </xs:all>
                 </xs:complexType>
             </xs:element>
+            
+            <xs:element name="showGridAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="row" type="xs:int" maxOccurs="1" minOccurs="1"/>
+                        <xs:element name="column" type="xs:int" maxOccurs="1" minOccurs="1"/>
+                        <xs:element name="hgap" type="xs:int" maxOccurs="1" minOccurs="1"/>
+                        <xs:element name="vgap" type="xs:int" maxOccurs="1" minOccurs="1"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
         </xs:sequence>
     </xs:complexType>
     

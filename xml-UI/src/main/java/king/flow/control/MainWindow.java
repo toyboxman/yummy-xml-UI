@@ -46,6 +46,7 @@ import king.flow.action.DefaultCleanAction;
 import king.flow.action.DefaultComboBoxAction;
 import king.flow.action.DefaultFileUploadAction;
 import king.flow.action.DefaultFontAction;
+import king.flow.action.DefaultGridAction;
 import king.flow.action.DefaultHideAction;
 import king.flow.action.DefaultMsgSendAction;
 import king.flow.action.DefaultTableAction;
@@ -135,6 +136,7 @@ import org.jdesktop.swingx.JXButton;
 import org.jdesktop.swingx.JXDatePicker;
 import org.jdesktop.swingx.JXLabel;
 import static king.flow.common.CommonConstants.SWIPE_TWO_IN_ONE_CARD_ACTION;
+import king.flow.swing.JXGridPanel;
 import org.apache.commons.lang.StringEscapeUtils;
 
 /**
@@ -392,7 +394,7 @@ public class MainWindow {
             validateSendMsgAction(action.getSendMsgAction(), component, panel, pageURI);
 
             validateCleanAction(action.getCleanAction(), component, panel, pageURI);
-            
+
             validateHideAction(action.getHideAction(), component, panel, pageURI);
 
             validateLimitInputAction(action.getLimitInputAction(), component, panel, pageURI);
@@ -856,7 +858,7 @@ public class MainWindow {
                     component, panel, pageURI);
         }
     }
-    
+
     private void validateHideAction(king.flow.view.Action.HideAction hideAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (hideAction != null) {
@@ -1245,6 +1247,16 @@ public class MainWindow {
             doBalanceTransAction(actionNode, component);
 
             doEncryptKeyboardAction(actionNode, component);
+
+            doShowGridAction(actionNode, component);
+        }
+    }
+
+    private void doShowGridAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.ShowGridAction showGridAction = actionNode.getShowGridAction();
+        if (showGridAction != null) {
+            DefaultGridAction defaultGridAction = new DefaultGridAction(showGridAction);
+            doAction(defaultGridAction, component.getId());
         }
     }
 
@@ -1843,6 +1855,10 @@ public class MainWindow {
                 this.building_blocks.put(id, videoPlayer);
                 this.meta_blocks.put(id, component);
                 return null;
+            case GRID:
+                JXGridPanel gridPanel = new JXGridPanel();
+                jcomponent = gridPanel;
+                break;
             default:
                 final AssertionError configError = new AssertionError("Mistaken configuration type out of components : " + ctype.value());
                 getLogger(MainWindow.class.getName()).log(Level.SEVERE,
