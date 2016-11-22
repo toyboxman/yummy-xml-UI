@@ -30,6 +30,7 @@ import king.flow.view.Action.RwFingerPrintAction;
 import king.flow.view.Action.SetFontAction;
 import king.flow.view.Action.SetPrinterAction;
 import king.flow.view.Action.ShowComboBoxAction;
+import king.flow.view.Action.ShowGridAction;
 import king.flow.view.Action.ShowTableAction;
 import king.flow.view.Action.Swipe2In1CardAction;
 import king.flow.view.Action.SwipeCardAction;
@@ -181,6 +182,7 @@ public class CommonConstants {
     public static final String PLAY_VIDEO_ACTION = PlayVideoAction.class.getSimpleName();
     public static final String CUSTOMIZED_ACTION = DefinedAction.class.getSimpleName();
     public static final String ENCRYPT_KEYBORAD_ACTION = EncryptKeyboardAction.class.getSimpleName();
+    public static final String SHOW_GRID_ACTION = ShowGridAction.class.getSimpleName();
     static final Map<ComponentEnum, List<String>> ACTION_COMPONENT_MAP = new ImmutableMap.Builder<ComponentEnum, List<String>>()
             .put(ComponentEnum.BUTTON, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)
@@ -254,6 +256,9 @@ public class CommonConstants {
             .put(ComponentEnum.VIDEO_PLAYER, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)
                     .add(PLAY_VIDEO_ACTION)
+                    .build())
+            .put(ComponentEnum.GRID, new ImmutableList.Builder<String>()
+                    .add(SHOW_GRID_ACTION)
                     .build())
             .build();
 

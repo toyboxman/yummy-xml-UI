@@ -5,6 +5,9 @@
  */
 package king.flow.swing;
 
+import com.github.jsonj.JsonArray;
+import com.github.jsonj.JsonObject;
+import com.github.jsonj.tools.JsonParser;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -28,10 +31,6 @@ import king.flow.common.CommonUtil;
 import org.jdesktop.swingx.JXButton;
 import org.jdesktop.swingx.JXLabel;
 import org.jdesktop.swingx.JXPanel;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
 
 /**
  *
@@ -49,7 +48,7 @@ public class JXGridPanel extends JXPanel {
 
     public JXGridPanel() {
         super(new BorderLayout());
-        ((BorderLayout) super.getLayout()).setHgap(5);
+        super.setOpaque(false);
         this.row = 2;
         this.column = 2;
         this.hgap = 10;
@@ -63,6 +62,8 @@ public class JXGridPanel extends JXPanel {
         nextBtn = new JXButton("<html><h3>&gt;&gt;</html>");
         previousPanel.setLayout(null);
         previousPanel.add(previousBtn);
+        previousPanel.setPreferredSize(new Dimension(50, 50));
+        previousPanel.setOpaque(false);
         previousBtn.addActionListener((ActionEvent e) -> {
             fadeOut();
         });
@@ -72,6 +73,8 @@ public class JXGridPanel extends JXPanel {
 
         nextPanel.setLayout(null);
         nextPanel.add(nextBtn);
+        nextPanel.setPreferredSize(new Dimension(50, 50));
+        nextPanel.setOpaque(false);
         nextBtn.addActionListener((ActionEvent e) -> {
             fadeIn();
         });
@@ -79,8 +82,7 @@ public class JXGridPanel extends JXPanel {
 
     public JXGridPanel(int row, int column, int hgap, int vgap, int width, int height) {
         super(new BorderLayout());
-        super.setBounds(new Rectangle(width, height));
-        ((BorderLayout) super.getLayout()).setHgap(5);
+        super.setOpaque(false);
         this.row = row;
         this.column = column;
         this.hgap = hgap;
@@ -110,6 +112,8 @@ public class JXGridPanel extends JXPanel {
         nextBtn.addActionListener((ActionEvent e) -> {
             fadeIn();
         });
+        
+        super.setBounds(new Rectangle(width, height));
     }
 
     @Override
@@ -126,7 +130,7 @@ public class JXGridPanel extends JXPanel {
         this.vgap = vgap;
     }
 
-    public void setDataModel(JSONArray dataModel) {
+    public void setDataModel(JsonArray dataModel) {
         if (dataModel == null) {
             CommonUtil.getLogger(JXGridPanel.class.getName()).log(Level.WARNING,
                     "Invalid gridPanel data model {0}", dataModel);
@@ -146,15 +150,20 @@ public class JXGridPanel extends JXPanel {
         int pageNum = divide + (surplus == 0 ? 0 : 1);
         for (int i = 0; i < pageNum; i++) {
             JXPanel centralPanel = new JXPanel(new GridLayout(row, column, hgap, vgap));
+            centralPanel.setOpaque(false);
             centralPanels.add(centralPanel);
             for (int j = i * maxDataCount; j < ((i + 1) * maxDataCount < dataModel.size() ? (i + 1) * maxDataCount : dataModel.size()); j++) {
-                JSONObject cell = (JSONObject) dataModel.get(j);
-                GridElement<JXLabel> gridElement = new GridElement<>(cell, new JXLabel(cell.get(DISPLAY_KEY).toString()));
+                JsonObject cell = dataModel.get(j).asObject();
+                final JXLabel cellElement = new JXLabel(cell.getString(DISPLAY_KEY));
+                cellElement.setOpaque(false);
+                GridElement<JXLabel> gridElement = new GridElement<>(cell, cellElement);
                 gridElement.insert(centralPanel);
             }
             int emptyCount = (i + 1) * maxDataCount - dataModel.size();
             if (emptyCount > 0) {
-                centralPanel.add(new JXLabel());
+                final JXLabel vacantCell = new JXLabel();
+                vacantCell.setOpaque(false);
+                centralPanel.add(vacantCell);
             }
         }
         cursor = -1;
@@ -166,9 +175,9 @@ public class JXGridPanel extends JXPanel {
 
     public String getValue() {
         if (choosenElement.get() != null) {
-            return (String) choosenElement.get().getData().get(ID_KEY);
+            return choosenElement.get().getData().getString(ID_KEY);
         }
-        return null;
+        return "";
     }
 
     private void fadeIn() {
@@ -199,13 +208,9 @@ public class JXGridPanel extends JXPanel {
 
     public static void main(String[] args) {
         String jsonData = "[{\"id\":\"131\", \"display\":\"AA\"},{\"id\":\"157\", \"display\":\"BB\"},{\"id\":\"171\", \"display\":\"CC\"}]";
-        JSONParser jsonParser = new JSONParser();
-        JSONArray array = null;
-        try {
-            array = (JSONArray) jsonParser.parse(jsonData);
-        } catch (ParseException ex) {
-            System.out.println("king.flow.swing.JXGridPanel.main() exception \n" + ex.getMessage());
-        }
+        JsonParser jsonParser = new JsonParser();
+        JsonArray array = null;
+        array = jsonParser.parse(jsonData).asArray();
 
         JDialog jDialog = new JDialog();
         final JXGridPanel jxGridPanel = new JXGridPanel(2, 2, 10, 10, 800, 600);
@@ -229,9 +234,9 @@ public class JXGridPanel extends JXPanel {
     private class GridElement<E extends JComponent> {
 
         E component;
-        JSONObject data;
+        JsonObject data;
 
-        public GridElement(JSONObject json, E e) {
+        public GridElement(JsonObject json, E e) {
             this.component = e;
             this.data = json;
             component.setBorder(new LineBorder(Color.BLACK, 1));
@@ -242,7 +247,7 @@ public class JXGridPanel extends JXPanel {
             panel.add(component);
         }
 
-        public JSONObject getData() {
+        public JsonObject getData() {
             return data;
         }
 

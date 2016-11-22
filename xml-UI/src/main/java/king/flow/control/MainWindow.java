@@ -137,6 +137,7 @@ import org.jdesktop.swingx.JXDatePicker;
 import org.jdesktop.swingx.JXLabel;
 import static king.flow.common.CommonConstants.SWIPE_TWO_IN_ONE_CARD_ACTION;
 import king.flow.swing.JXGridPanel;
+import king.flow.view.Action.ShowGridAction;
 import org.apache.commons.lang.StringEscapeUtils;
 
 /**
@@ -438,6 +439,16 @@ public class MainWindow {
             validateShowClockAction(action.getShowClockAction(), component, panel, pageURI);
 
             validateEncryptKeyboardAction(action.getEncryptKeyboardAction(), component, panel, pageURI);
+
+            validateShowGridAction(action.getShowGridAction(), component, panel, pageURI);
+        }
+    }
+
+    private void validateShowGridAction(ShowGridAction showGridAction,
+            Component component, Panel panel, String pageURI) {
+        if (showGridAction != null) {
+            final String actionName = showGridAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
         }
     }
 

@@ -50,6 +50,7 @@ import static king.flow.common.CommonUtil.getResourceMsg;
 import static king.flow.common.CommonUtil.sendMessage;
 import static king.flow.common.CommonUtil.shapeErrPrompt;
 import king.flow.data.TLSResult;
+import king.flow.swing.JXGridPanel;
 import king.flow.swing.JXMsgPanel;
 import king.flow.view.Action;
 import king.flow.view.MsgSendAction;
@@ -111,6 +112,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     case DATE:
                     case COMBO_BOX:
                     case PASSWORD_FIELD:
+                    case GRID:
                         conditions.add(new Condition<>(getBlock(id, JComponent.class), cm));
                         break;
                     default:
@@ -149,6 +151,11 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     } else {
                         value = jcb.getSelectedItem() == null ? null : jcb.getSelectedItem().toString();
                     }
+                    contents.put(id, value);
+                    break;
+                case GRID:
+                    JXGridPanel grid = (JXGridPanel) condition.getComponent();
+                    value = grid.getValue();
                     contents.put(id, value);
                     break;
                 case DATE:
@@ -236,7 +243,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                         model.addRow(rowData);
                     }
                 } catch (Exception e) {
-                    getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
+                    getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
                             "Invalid array data [ {0} ] for TABLE component[{1}], \n exception is {2}",
                             new Object[]{result.getOkMsg(), String.valueOf(meta.getId()), e});
                 }
@@ -256,8 +263,20 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     advanceTable.refreshCurrentPage(page);
                     advanceTable.refreshTable(arrays);
                 } catch (Exception e) {
-                    getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
+                    getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
                             "Invalid complex data [ {0} ] for ADVANCED_TABLE component[{1}] \n exception is {2}",
+                            new Object[]{result.getOkMsg(), String.valueOf(meta.getId()), e});
+                }
+                break;
+            case GRID:
+                try {
+                    jsonParser = new JsonParser();
+                    arrays = jsonParser.parse(result.getOkMsg()).asArray();
+                    JXGridPanel grid = getBlock(meta.getId(), JXGridPanel.class);
+                    grid.setDataModel(arrays);
+                } catch (Exception e) {
+                    getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
+                            "Invalid array data [ {0} ] for GRID component[{1}], \n exception is {2}",
                             new Object[]{result.getOkMsg(), String.valueOf(meta.getId()), e});
                 }
                 break;
