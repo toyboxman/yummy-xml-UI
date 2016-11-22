@@ -16,11 +16,9 @@ import java.awt.event.MouseEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicReference;
 import java.util.logging.Level;
-import javafx.util.Pair;
 import javax.swing.JComponent;
 import javax.swing.JDialog;
 import javax.swing.JPanel;
@@ -84,12 +82,20 @@ public class JXGridPanel extends JXPanel {
         });
     }
 
-    public void setDataModel(List<Pair<String, String>> dataModel) {
+    public void setDataModel(JSONArray dataModel) {
         if (dataModel == null) {
             CommonUtil.getLogger(JXGridPanel.class.getName()).log(Level.WARNING,
                     "Invalid gridPanel data model {0}", dataModel);
             return;
         }
+
+        for (JXPanel panel : centralPanels) {
+            if (this.isAncestorOf(panel)) {
+                this.remove(panel);
+            }
+        }
+        centralPanels.clear();
+
         int maxDataCount = row * column;
         int divide = dataModel.size() / maxDataCount;
         int surplus = dataModel.size() % maxDataCount;
@@ -98,18 +104,25 @@ public class JXGridPanel extends JXPanel {
             JXPanel centralPanel = new JXPanel(new GridLayout(row, column, hgap, vgap));
             centralPanels.add(centralPanel);
             for (int j = i * maxDataCount; j < ((i + 1) * maxDataCount < dataModel.size() ? (i + 1) * maxDataCount : dataModel.size()); j++) {
-                final Pair<String, String> pair = dataModel.get(j);
-                GridElement<JXLabel> gridElement = new GridElement<>(pair, new JXLabel(pair.getValue()));
+                JSONObject cell = (JSONObject) dataModel.get(j);
+                GridElement<JXLabel> gridElement = new GridElement<>(cell, new JXLabel(cell.get(DISPLAY_KEY).toString()));
                 gridElement.insert(centralPanel);
+            }
+            int emptyCount = (i + 1) * maxDataCount - dataModel.size();
+            if (emptyCount > 0) {
+                centralPanel.add(new JXLabel());
             }
         }
         cursor = -1;
         fadeIn();
     }
+    
+    private static final String ID_KEY = "id";
+    private static final String DISPLAY_KEY = "display";
 
     public String getValue() {
         if (choosenElement.get() != null) {
-            return (String) choosenElement.get().getPair().getKey();
+            return (String) choosenElement.get().getData().get(ID_KEY);
         }
         return null;
     }
@@ -141,25 +154,18 @@ public class JXGridPanel extends JXPanel {
     }
 
     public static void main(String[] args) {
-        String jsonData = "[{\"131\":\"AA\"},{\"137\":\"BB\"},{\"177\":\"CC\"},{\"154\":\"DD\"}]";
-        List<Pair<String, String>> dataList = new ArrayList<>();
+        String jsonData = "[{\"id\":\"131\", \"display\":\"AA\"},{\"id\":\"157\", \"display\":\"BB\"},{\"id\":\"171\", \"display\":\"CC\"}]";
         JSONParser jsonParser = new JSONParser();
+        JSONArray array = null;
         try {
-            JSONArray array = (JSONArray) jsonParser.parse(jsonData);
-            for (Iterator it = array.iterator(); it.hasNext();) {
-                JSONObject data = (JSONObject) it.next();
-                data.forEach((t, u) -> {
-                    Pair<String, String> pair = new Pair(t, u);
-                    dataList.add(pair);
-                });
-            }
+            array = (JSONArray) jsonParser.parse(jsonData);
         } catch (ParseException ex) {
             System.out.println("king.flow.swing.JXGridPanel.main() exception \n" + ex.getMessage());
         }
 
         JDialog jDialog = new JDialog();
         final JXGridPanel jxGridPanel = new JXGridPanel(1, 2, 10, 10, 800, 600);
-        jxGridPanel.setDataModel(dataList);
+        jxGridPanel.setDataModel(array);
 //        jDialog.getRootPane().getContentPane().setLayout(null);
         jDialog.getRootPane().getContentPane().add(jxGridPanel, BorderLayout.CENTER);
 //        jxGridPanel.setBounds(0, 0, 800, 600);
@@ -179,11 +185,11 @@ public class JXGridPanel extends JXPanel {
     private class GridElement<E extends JComponent> {
 
         E component;
-        Pair<String, String> pair;
+        JSONObject data;
 
-        public GridElement(Pair<String, String> p, E e) {
+        public GridElement(JSONObject json, E e) {
             this.component = e;
-            this.pair = p;
+            this.data = json;
             component.setBorder(new LineBorder(Color.BLACK, 1));
             this.component.addMouseListener(new GridElementMouseAdapter(component));
         }
@@ -192,8 +198,8 @@ public class JXGridPanel extends JXPanel {
             panel.add(component);
         }
 
-        public Pair<String, String> getPair() {
-            return pair;
+        public JSONObject getData() {
+            return data;
         }
 
         private class GridElementMouseAdapter extends MouseAdapter {
