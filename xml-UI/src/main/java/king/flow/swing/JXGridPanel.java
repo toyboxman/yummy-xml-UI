@@ -58,11 +58,11 @@ public class JXGridPanel extends JXPanel {
 
         final JXPanel previousPanel = new JXPanel();
         super.add(previousPanel, BorderLayout.WEST);
-        previousBtn = new JXButton("<html><h3>&lt;&lt;</html>");
-        nextBtn = new JXButton("<html><h3>&gt;&gt;</html>");
+        previousBtn = new JXButton("<html><h1>&lt;&lt;</html>");
+        nextBtn = new JXButton("<html><h1>&gt;&gt;</html>");
         previousPanel.setLayout(null);
         previousPanel.add(previousBtn);
-        previousPanel.setPreferredSize(new Dimension(50, 50));
+        previousPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));
         previousPanel.setOpaque(false);
         previousBtn.addActionListener((ActionEvent e) -> {
             fadeOut();
@@ -73,12 +73,14 @@ public class JXGridPanel extends JXPanel {
 
         nextPanel.setLayout(null);
         nextPanel.add(nextBtn);
-        nextPanel.setPreferredSize(new Dimension(50, 50));
+        nextPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));
         nextPanel.setOpaque(false);
         nextBtn.addActionListener((ActionEvent e) -> {
             fadeIn();
         });
     }
+    private static final int BUTTON_HEIGHT = 60;
+    private static final int BUTTON_WIDTH = 60;
 
     public JXGridPanel(int row, int column, int hgap, int vgap, int width, int height) {
         super(new BorderLayout());
@@ -96,8 +98,8 @@ public class JXGridPanel extends JXPanel {
         nextBtn = new JXButton("<html><h3>&gt;&gt;</html>");
         previousPanel.setLayout(null);
         previousPanel.add(previousBtn);
-        previousPanel.setPreferredSize(new Dimension(50, 50));
-        previousBtn.setBounds(0, (height - 50) / 2, 50, 50);
+        previousPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));
+        previousBtn.setBounds(0, (height - BUTTON_HEIGHT) / 2, BUTTON_WIDTH, BUTTON_HEIGHT);
         previousBtn.addActionListener((ActionEvent e) -> {
             fadeOut();
         });
@@ -107,20 +109,20 @@ public class JXGridPanel extends JXPanel {
 
         nextPanel.setLayout(null);
         nextPanel.add(nextBtn);
-        nextPanel.setPreferredSize(new Dimension(50, 50));
-        nextBtn.setBounds(0, (height - 50) / 2, 50, 50);
+        nextPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));
+        nextBtn.setBounds(0, (height - BUTTON_HEIGHT) / 2, BUTTON_WIDTH, BUTTON_HEIGHT);
         nextBtn.addActionListener((ActionEvent e) -> {
             fadeIn();
         });
-        
+
         super.setBounds(new Rectangle(width, height));
     }
 
     @Override
     public void setBounds(int x, int y, int width, int height) {
         super.setBounds(x, y, width, height);
-        previousBtn.setBounds(0, (height - 50) / 2, 50, 50);
-        nextBtn.setBounds(0, (height - 50) / 2, 50, 50);
+        previousBtn.setBounds(0, (height - BUTTON_HEIGHT) / 2, BUTTON_WIDTH, BUTTON_HEIGHT);
+        nextBtn.setBounds(0, (height - BUTTON_HEIGHT) / 2, BUTTON_WIDTH, BUTTON_HEIGHT);
     }
 
     public void setGridLayout(int row, int column, int hgap, int vgap) {
@@ -263,12 +265,16 @@ public class JXGridPanel extends JXPanel {
             public void mouseClicked(MouseEvent e) {
                 if (choosenElement.get() != null) {
                     GridElement old = choosenElement.getAndSet(GridElement.this);
-                    old.component.setBorder(new LineBorder(Color.BLACK, 1));
+                    old.component.setBorder(new LineBorder(UNSELECTED_COLOR, UNSELECTED_LINE_THICKNESS, true));
                 } else {
                     choosenElement.set(GridElement.this);
                 }
-                component.setBorder(new LineBorder(Color.RED, 2, true));
+                component.setBorder(new LineBorder(SELECTED_COLOR, SELECTED_LINE_THICKNESS, true));
             }
         }
     }
+    private static final Color SELECTED_COLOR = Color.RED;
+    private static final int SELECTED_LINE_THICKNESS = 2;
+    private static final Color UNSELECTED_COLOR = Color.BLACK;
+    private static final int UNSELECTED_LINE_THICKNESS = 1;
 }

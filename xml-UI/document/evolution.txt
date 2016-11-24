@@ -14,26 +14,26 @@ $文档格式格式如下：
 2016.11.22
 ************************************************************************************************************************
 给系统增加Grid类型组件
-    <component>
-        <id>33115</id>
-        <type>Grid</type>
-        <attribute>
-            <rect>
-                <x>100</x>
-                <y>400</y>
-                <width>680</width>
-                <heigh>300</heigh>
-            </rect>
-        </attribute>
-        <action>
-            <showGridAction>
-                <row>1</row>  一页显示几行
-                <column>2</column>  一页显示几列
-                <hgap>15</hgap> 行间距
-                <vgap>15</vgap>  列间距
-            </showGridAction>
-        </action>
-    </component>
+<component>
+    <id>33115</id>
+    <type>Grid</type>
+    <attribute>
+        <rect>
+            <x>100</x>
+            <y>400</y>
+            <width>680</width>
+            <heigh>300</heigh>
+        </rect>
+    </attribute>
+    <action>
+        <showGridAction>
+            <row>1</row>  一页显示几行
+            <column>2</column>  一页显示几列
+            <hgap>15</hgap> 行间距
+            <vgap>15</vgap>  列间距
+        </showGridAction>
+    </action>
+</component>
 
 Grid组件可以接受的输入json数据格式
 "guahao" : {
