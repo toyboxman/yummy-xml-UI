@@ -70,6 +70,7 @@ import king.flow.action.business.RWFingerPrintAction;
 import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
 import king.flow.action.business.Read2In1CardAction;
+import king.flow.action.business.ReadIDCardAction;
 import king.flow.action.business.ShowClockAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.BALANCE_TRANS_ACTION;
@@ -90,6 +91,7 @@ import static king.flow.common.CommonConstants.SET_FONT_ACTION;
 import static king.flow.common.CommonConstants.SHOW_CLOCK_ACTION;
 import static king.flow.common.CommonConstants.SHOW_TABLE_ACTION;
 import static king.flow.common.CommonConstants.SWIPE_CARD_ACTION;
+import static king.flow.common.CommonConstants.SWIPE_ID_CARD_ACTION;
 import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
 import static king.flow.common.CommonConstants.UPLOAD_FILE_ACTION;
 import static king.flow.common.CommonConstants.USE_TIP_ACTION;
@@ -423,6 +425,8 @@ public class MainWindow {
             validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
 
             validateSwipeCardAction(action.getSwipeCardAction(), component, panel, pageURI);
+            
+            validateSwipeIdCardAction(action.getSwipeIDCardAction(), component, panel, pageURI);
 
             validateReadWriteFingerPrintAction(action.getRwFingerPrintAction(), component, panel, pageURI);
 
@@ -819,6 +823,13 @@ public class MainWindow {
         }
     }
 
+    private void validateSwipeIdCardAction(king.flow.view.Action.SwipeIDCardAction swipeIdCardAction,
+            Component component, Panel panel, String pageURI) {
+        if (swipeIdCardAction != null) {
+            checkSupportedAction(component, SWIPE_ID_CARD_ACTION, panel, pageURI);
+        }
+    }
+    
     private void validateSwipe2In1CardAction(king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction,
             Component component, Panel panel, String pageURI) {
         if (swipe2In1CardAction != null) {
@@ -1260,9 +1271,33 @@ public class MainWindow {
             doEncryptKeyboardAction(actionNode, component);
 
             doShowGridAction(actionNode, component);
+            
+            doSwipeIDCardAction(actionNode, component);
         }
     }
 
+    private void doSwipeIDCardAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.SwipeIDCardAction swipeIdCardAction = actionNode.getSwipeIDCardAction();
+        if (swipeIdCardAction != null) {
+            Integer nextCursor = swipeIdCardAction.getNextCursor();
+            Boolean editable = swipeIdCardAction.isEditable();
+            String mediaTip = swipeIdCardAction.getMediaTip();
+            String animationTip = swipeIdCardAction.getAnimationTip();
+            nextCursor = nextCursor == null ? component.getId() : nextCursor;
+            king.flow.view.Action.SwipeIDCardAction.Debug debug = swipeIdCardAction.getDebug();
+            ReadIDCardAction readIdCardAction;
+            if (debug == null) {
+                readIdCardAction = editable == null ? new ReadIDCardAction(nextCursor, mediaTip, animationTip)
+                        : new ReadIDCardAction(nextCursor, editable, mediaTip, animationTip);
+            } else {
+                readIdCardAction = editable == null ? new ReadIDCardAction(nextCursor, mediaTip, animationTip, debug)
+                        : new ReadIDCardAction(nextCursor, editable, mediaTip, animationTip, debug);
+            }
+
+            doAction(readIdCardAction, component.getId());
+        }
+    }
+    
     private void doShowGridAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowGridAction showGridAction = actionNode.getShowGridAction();
         if (showGridAction != null) {

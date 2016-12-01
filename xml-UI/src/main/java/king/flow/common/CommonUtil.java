@@ -62,6 +62,7 @@ import king.flow.control.MainWindow;
 import king.flow.control.driver.FingerPrintDrive;
 import king.flow.control.driver.GzCardConductor;
 import king.flow.control.driver.ICCardConductor;
+import king.flow.control.driver.IDCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
 import king.flow.control.driver.MagnetCardConductor;
 import king.flow.control.driver.PKG8583;
@@ -92,6 +93,7 @@ import org.w3c.dom.DOMException;
 import static king.flow.data.TLSResult.UNIONPAY_CARD_INFO;
 import static king.flow.data.TLSResult.UNIONPAY_MAC_INFO;
 import king.flow.net.Transportation;
+import static king.flow.view.DeviceEnum.ID_CARD;
 import static king.flow.view.DeviceEnum.PKG_8583;
 
 /**
@@ -771,6 +773,21 @@ public class CommonUtil {
                     DRIVER_LOG_TEMPLATE,
                     new String[]{TWO_IN_ONE_CARD.value(), t.getMessage()});
         }
+    }
+    
+    private static final IDCardConductor IDCardConductor = new IDCardConductor();
+    
+    public static String swipeIDCard() {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(ID_CARD));
+            cardInfo = IDCardConductor.readCard(getDriverPort(ID_CARD));
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{ID_CARD.value(), t.getMessage()});
+        }
+        return cardInfo;
     }
 
     public static boolean downloadKey(String maKey, String masterKey, String workSecretKey) {

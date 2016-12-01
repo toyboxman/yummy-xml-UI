@@ -376,6 +376,25 @@
                     </xs:all>
                 </xs:complexType>
             </xs:element>
+            
+            <xs:element name="swipeIDCardAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:all>
+                        <xs:element name="nextCursor" type="xs:int" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="editable" type="xs:boolean" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="mediaTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="animationTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="debug" maxOccurs="1" minOccurs="0">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="cardInfo" type="xs:string"  maxOccurs="1" minOccurs="1"/>
+                                </xs:sequence>
+                                <xs:attribute name="limit" type="xs:boolean" default="true" use="optional"/>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
         </xs:sequence>
     </xs:complexType>
     
@@ -517,6 +536,7 @@
         <xs:restriction base="xs:string">
             <xs:enumeration  value="magnetCard"/>
             <xs:enumeration  value="ICCard"/>
+            <xs:enumeration  value="IDCard"/>
             <xs:enumeration  value="sensorCard"/>
             <xs:enumeration  value="twoInOneCard"/>
             <xs:enumeration  value="printer"/>
