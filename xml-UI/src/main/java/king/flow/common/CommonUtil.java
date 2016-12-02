@@ -62,7 +62,7 @@ import king.flow.control.MainWindow;
 import king.flow.control.driver.FingerPrintDrive;
 import king.flow.control.driver.GzCardConductor;
 import king.flow.control.driver.ICCardConductor;
-import king.flow.control.driver.IDCardConductor;
+import king.flow.control.driver.PIDCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
 import king.flow.control.driver.MagnetCardConductor;
 import king.flow.control.driver.PKG8583;
@@ -775,7 +775,7 @@ public class CommonUtil {
         }
     }
     
-    private static final IDCardConductor IDCardConductor = new IDCardConductor();
+    private static final PIDCardConductor IDCardConductor = new PIDCardConductor();
     
     public static String swipeIDCard() {
         String cardInfo = null;

@@ -9,7 +9,9 @@ package king.flow.control.driver;
  *
  * @author liujin
  */
-public class IDCardConductor {
+public class HISCardConductor {
 
-    public native String readCard(String comport);
+    public native String getCard(String comport);
+
+    public native String ejectCard(String comport);
 }
