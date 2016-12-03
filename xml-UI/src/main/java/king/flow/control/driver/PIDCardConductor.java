@@ -11,5 +11,8 @@ package king.flow.control.driver;
  */
 public class PIDCardConductor {
 
+    public static final String PID_CARD_READ_ERROR_PROMPT = "pid.operation.card.read.error.prompt";
+    public static final String PID_CARD_INSERT_PROMPT = "pid.operation.card.insert.prompt";
+
     public native String readCard(String comport);
 }

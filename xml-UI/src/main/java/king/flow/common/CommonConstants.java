@@ -11,11 +11,11 @@ import java.io.File;
 import java.nio.charset.Charset;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.TimeUnit;
 import king.flow.action.business.ShowClockAction;
 import king.flow.data.TLSResult;
-import king.flow.view.Action;
 import king.flow.view.Action.CleanAction;
-import king.flow.view.Action.Eject2In1CardAction;
+import king.flow.view.Action.EjectCardAction;
 import king.flow.view.Action.EncryptKeyboardAction;
 import king.flow.view.Action.HideAction;
 import king.flow.view.Action.InsertICardAction;
@@ -34,7 +34,6 @@ import king.flow.view.Action.ShowGridAction;
 import king.flow.view.Action.ShowTableAction;
 import king.flow.view.Action.Swipe2In1CardAction;
 import king.flow.view.Action.SwipeCardAction;
-import king.flow.view.Action.SwipeIDCardAction;
 import king.flow.view.Action.UploadFileAction;
 import king.flow.view.Action.UseTipAction;
 import king.flow.view.Action.VirtualKeyboardAction;
@@ -76,6 +75,8 @@ public class CommonConstants {
     public static final int UPDATE_SIGNAL = 1;
     public static final int WATCHDOG_CHECK_INTERVAL = 5;
     public static final String VERSION;
+    public static final long DEBUG_MODE_PROGRESS_TIME = TimeUnit.SECONDS.toMillis(3);
+    public static final long RUN_MODE_PROGRESS_TIME = TimeUnit.SECONDS.toMillis(1);
 
     //    public static final String VERSION = Paths.get(".").toAbsolutePath().normalize().toString();
     static {
@@ -177,9 +178,8 @@ public class CommonConstants {
     public static final String PRINT_PASSBOOK_ACTION = PrintPassbookAction.class.getSimpleName();
     public static final String UPLOAD_FILE_ACTION = UploadFileAction.class.getSimpleName();
     public static final String SWIPE_CARD_ACTION = SwipeCardAction.class.getSimpleName();
-    public static final String SWIPE_ID_CARD_ACTION = SwipeIDCardAction.class.getSimpleName();
     public static final String SWIPE_TWO_IN_ONE_CARD_ACTION = Swipe2In1CardAction.class.getSimpleName();
-    public static final String EJECT_TWO_IN_ONE_CARD_ACTION = Eject2In1CardAction.class.getSimpleName();
+    public static final String EJECT_CARD_ACTION = EjectCardAction.class.getSimpleName();
     public static final String READ_WRITE_FINGERPRINT_ACTION = RwFingerPrintAction.class.getSimpleName();
     public static final String PLAY_VIDEO_ACTION = PlayVideoAction.class.getSimpleName();
     public static final String CUSTOMIZED_ACTION = DefinedAction.class.getSimpleName();
@@ -205,7 +205,7 @@ public class CommonConstants {
                     .add(PRINT_PASSBOOK_ACTION)
                     .add(UPLOAD_FILE_ACTION)
                     .add(BALANCE_TRANS_ACTION)
-                    .add(EJECT_TWO_IN_ONE_CARD_ACTION)
+                    .add(EJECT_CARD_ACTION)
                     .build())
             .put(ComponentEnum.COMBO_BOX, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)
@@ -213,7 +213,6 @@ public class CommonConstants {
                     .add(USE_TIP_ACTION)
                     .add(SHOW_COMBOBOX_ACTION)
                     .add(SWIPE_CARD_ACTION)
-                    .add(SWIPE_ID_CARD_ACTION)
                     .add(SWIPE_TWO_IN_ONE_CARD_ACTION)
                     .add(PLAY_MEDIA_ACTION)
                     .add(MOVE_CURSOR_ACTION)

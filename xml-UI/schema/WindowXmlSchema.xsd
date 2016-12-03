@@ -263,10 +263,10 @@
                 </xs:complexType>
             </xs:element>
             
-            <xs:element name="eject2In1CardAction" maxOccurs="1" minOccurs="0">
+            <xs:element name="ejectCardAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:sequence>
-                        <xs:element name="desc" type="xs:string"  maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="cardType" type="device_enum" maxOccurs="1" minOccurs="1"/>
                     </xs:sequence>
                 </xs:complexType>
             </xs:element>
@@ -315,7 +315,7 @@
                                 <xs:all>
                                     <xs:element name="nextPanel" type="xs:int"/>
                                     <xs:element name="display" type="xs:string"/>
-                                    <xs:element name="hop" type="xs:int" maxOccurs="1" minOccurs="0"/>
+                                    <xs:element name="trigger" type="xs:int" maxOccurs="1" minOccurs="0"/>
                                     <xs:element name="debug" maxOccurs="1" minOccurs="0">
                                         <xs:simpleType>
                                             <xs:list itemType='xs:string'/>
@@ -376,25 +376,6 @@
                     </xs:all>
                 </xs:complexType>
             </xs:element>
-            
-            <xs:element name="swipeIDCardAction" maxOccurs="1" minOccurs="0">
-                <xs:complexType>
-                    <xs:all>
-                        <xs:element name="nextCursor" type="xs:int" maxOccurs="1" minOccurs="0"/>
-                        <xs:element name="editable" type="xs:boolean" maxOccurs="1" minOccurs="0"/>
-                        <xs:element name="mediaTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
-                        <xs:element name="animationTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
-                        <xs:element name="debug" maxOccurs="1" minOccurs="0">
-                            <xs:complexType>
-                                <xs:sequence>
-                                    <xs:element name="cardInfo" type="xs:string"  maxOccurs="1" minOccurs="1"/>
-                                </xs:sequence>
-                                <xs:attribute name="limit" type="xs:boolean" default="true" use="optional"/>
-                            </xs:complexType>
-                        </xs:element>
-                    </xs:all>
-                </xs:complexType>
-            </xs:element>
         </xs:sequence>
     </xs:complexType>
     
@@ -418,6 +399,7 @@
                     <xs:all>
                         <xs:element name="nextPanel" type="xs:int"/>
                         <xs:element name="display" type="xs:string"/>
+                        <xs:element name="trigger" type="xs:int" maxOccurs="1" minOccurs="0"/>
                     </xs:all>
                 </xs:complexType>
             </xs:element>
@@ -536,14 +518,15 @@
         <xs:restriction base="xs:string">
             <xs:enumeration  value="magnetCard"/>
             <xs:enumeration  value="ICCard"/>
-            <xs:enumeration  value="IDCard"/>
             <xs:enumeration  value="sensorCard"/>
             <xs:enumeration  value="twoInOneCard"/>
             <xs:enumeration  value="printer"/>
             <xs:enumeration  value="keyboard"/>
             <xs:enumeration  value="gzCard"/>
-            <xs:enumeration  value="hsCard"/>
+            <xs:enumeration  value="PIDCard"/>
+            <xs:enumeration  value="HISCard"/>
             <xs:enumeration  value="pkg8583"/>
+            <xs:enumeration  value="Unknown"/>
         </xs:restriction>
     </xs:simpleType>
     

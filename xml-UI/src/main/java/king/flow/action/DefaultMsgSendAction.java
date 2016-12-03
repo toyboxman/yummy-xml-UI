@@ -59,6 +59,7 @@ import king.flow.view.Rules;
 import org.apache.commons.lang.StringEscapeUtils;
 import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
+import static king.flow.common.CommonUtil.sendMessage;
 
 /**
  *
@@ -334,6 +335,11 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 }
 
                 panelJump(error.getNextPanel());
+                //trigger the action denoted in sendMsgAction
+                Integer trigger = error.getTrigger();
+                if (trigger != null && getBlockMeta(trigger) != null) {
+                    triggerAction(trigger);
+                }//trigger dealing 
             }
         });
     }
@@ -393,34 +399,15 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     //trigger the action denoted in sendMsgAction
                     Integer trigger = next.getTrigger();
                     if (trigger != null && getBlockMeta(trigger) != null) {
-                        final Component blockMeta = (Component) getBlockMeta(trigger);
-                        switch (blockMeta.getType()) {
-                            case COMBO_BOX:
-                                JComboBox comboBlock = getBlock(trigger, JComboBox.class);
-                                ItemListener[] itemListeners = comboBlock.getItemListeners();
-                                ItemEvent e = new ItemEvent(comboBlock,
-                                        ItemEvent.ITEM_STATE_CHANGED,
-                                        comboBlock.getItemAt(comboBlock.getItemCount() - 1).toString(),
-                                        ItemEvent.SELECTED);
-                                for (ItemListener itemListener : itemListeners) {
-                                    itemListener.itemStateChanged(e);//wait and hang on util progress dialog gets to dispose
+                        Component blockMeta = triggerAction(trigger);
+                        if (blockMeta.getType() == ComponentEnum.COMBO_BOX) {
+                            JComboBox comboBlock = getBlock(trigger, JComboBox.class);
+                            if (comboBlock.isEditable()) {
+                                String value = comboBlock.getEditor().getItem().toString();
+                                if (value.length() == 0) {
+                                    return;
                                 }
-                                if (comboBlock.isEditable()) {
-                                    String value = comboBlock.getEditor().getItem().toString();
-                                    if (value.length() == 0) {
-                                        return;
-                                    }
-                                }
-                                break;
-                            case BUTTON:
-                                JButton btnBlock = getBlock(trigger, JButton.class);
-                                btnBlock.doClick();
-                                break;
-                            default:
-                                getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
-                                        "Invalid trigger component[{0}] as unsupported type[{1}]",
-                                        new Object[]{trigger, blockMeta.getType()});
-                                break;
+                            }
                         }
                     }//trigger dealing 
                     //keep next cursor on correct component
@@ -431,7 +418,35 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     }
                 }// no redirection branch
             }
+
         });
+    }
+
+    private Component triggerAction(Integer trigger) {
+        final Component blockMeta = (Component) getBlockMeta(trigger);
+        switch (blockMeta.getType()) {
+            case COMBO_BOX:
+                JComboBox comboBlock = getBlock(trigger, JComboBox.class);
+                ItemListener[] itemListeners = comboBlock.getItemListeners();
+                ItemEvent e = new ItemEvent(comboBlock,
+                        ItemEvent.ITEM_STATE_CHANGED,
+                        comboBlock.getItemAt(comboBlock.getItemCount() - 1).toString(),
+                        ItemEvent.SELECTED);
+                for (ItemListener itemListener : itemListeners) {
+                    itemListener.itemStateChanged(e);//wait and hang on util progress dialog gets to dispose
+                }
+                break;
+            case BUTTON:
+                JButton btnBlock = getBlock(trigger, JButton.class);
+                btnBlock.doClick();
+                break;
+            default:
+                getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
+                        "Invalid trigger component[{0}] as unsupported type[{1}]",
+                        new Object[]{trigger, blockMeta.getType()});
+                break;
+        }
+        return blockMeta;
     }
 
     private Map<Integer, String> initialNotNullTips() {

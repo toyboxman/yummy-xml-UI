@@ -60,7 +60,7 @@ import king.flow.action.DefaultVideoAction;
 import king.flow.action.DefaultVirtualKeyBoardAction;
 import king.flow.action.DefaultWebLoadAction;
 import king.flow.action.business.BalanceTransAction;
-import king.flow.action.business.Eject2In1CardAction;
+import king.flow.action.business.EjectCardAction;
 import king.flow.action.business.InsertCardAction;
 import king.flow.action.business.KeyboardEncryptAction;
 import king.flow.action.business.MoveCursorAction;
@@ -70,13 +70,11 @@ import king.flow.action.business.RWFingerPrintAction;
 import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
 import king.flow.action.business.Read2In1CardAction;
-import king.flow.action.business.ReadIDCardAction;
 import king.flow.action.business.ShowClockAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.BALANCE_TRANS_ACTION;
 import static king.flow.common.CommonConstants.CLEAN_ACTION;
 import static king.flow.common.CommonConstants.CONTAINER_KEY;
-import static king.flow.common.CommonConstants.EJECT_TWO_IN_ONE_CARD_ACTION;
 import static king.flow.common.CommonConstants.INSERT_IC_ACTION;
 import static king.flow.common.CommonConstants.LIMIT_INPUT_ACTION;
 import static king.flow.common.CommonConstants.OPEN_BROWSER_ACTION;
@@ -91,7 +89,6 @@ import static king.flow.common.CommonConstants.SET_FONT_ACTION;
 import static king.flow.common.CommonConstants.SHOW_CLOCK_ACTION;
 import static king.flow.common.CommonConstants.SHOW_TABLE_ACTION;
 import static king.flow.common.CommonConstants.SWIPE_CARD_ACTION;
-import static king.flow.common.CommonConstants.SWIPE_ID_CARD_ACTION;
 import static king.flow.common.CommonConstants.TABLE_ROW_HEIGHT;
 import static king.flow.common.CommonConstants.UPLOAD_FILE_ACTION;
 import static king.flow.common.CommonConstants.USE_TIP_ACTION;
@@ -141,6 +138,7 @@ import static king.flow.common.CommonConstants.SWIPE_TWO_IN_ONE_CARD_ACTION;
 import king.flow.swing.JXGridPanel;
 import king.flow.view.Action.ShowGridAction;
 import org.apache.commons.lang.StringEscapeUtils;
+import static king.flow.common.CommonConstants.EJECT_CARD_ACTION;
 
 /**
  *
@@ -425,8 +423,6 @@ public class MainWindow {
             validateMoveCursorAction(action.getMoveCursorAction(), component, panel, pageURI);
 
             validateSwipeCardAction(action.getSwipeCardAction(), component, panel, pageURI);
-            
-            validateSwipeIdCardAction(action.getSwipeIDCardAction(), component, panel, pageURI);
 
             validateReadWriteFingerPrintAction(action.getRwFingerPrintAction(), component, panel, pageURI);
 
@@ -434,7 +430,7 @@ public class MainWindow {
 
             validateSwipe2In1CardAction(action.getSwipe2In1CardAction(), component, panel, pageURI);
 
-            validateEject2In1CardAction(action.getEject2In1CardAction(), component, panel, pageURI);
+            validateEjectCardAction(action.getEjectCardAction(), component, panel, pageURI);
 
             validatePrintPassbookAction(action.getPrintPassbookAction(), component, panel, pageURI);
 
@@ -725,17 +721,17 @@ public class MainWindow {
                     }
                 }
 
-                Integer hop = insertICardAction.getNextStep().getHop();
-                if (hop != null) {
-                    if (!this.meta_blocks.containsKey(hop)) {
-                        promptNonexistentBlockErr(hop, actionName, "hop", component, panel, pageURI, null);
+                Integer trigger = insertICardAction.getNextStep().getTrigger();
+                if (trigger != null) {
+                    if (!this.meta_blocks.containsKey(trigger)) {
+                        promptNonexistentBlockErr(trigger, actionName, "trigger", component, panel, pageURI, null);
                     }
 
-                    Object blockMeta = getBlockMeta(hop);
+                    Object blockMeta = getBlockMeta(trigger);
                     if (!(blockMeta instanceof Component)
                             || ((Component) blockMeta).getType() != ComponentEnum.BUTTON) {
-                        promptMistakenTypeBlockErr(hop, actionName, nextStepPropertyName,
-                                component, panel, pageURI, "\ncorrect <hop> type should be [BUTTON]");
+                        promptMistakenTypeBlockErr(trigger, actionName, nextStepPropertyName,
+                                component, panel, pageURI, "\ncorrect <trigger> type should be [BUTTON]");
                     }
                 }
             } else {
@@ -822,13 +818,6 @@ public class MainWindow {
             checkSupportedAction(component, OPEN_BROWSER_ACTION, panel, pageURI);
         }
     }
-
-    private void validateSwipeIdCardAction(king.flow.view.Action.SwipeIDCardAction swipeIdCardAction,
-            Component component, Panel panel, String pageURI) {
-        if (swipeIdCardAction != null) {
-            checkSupportedAction(component, SWIPE_ID_CARD_ACTION, panel, pageURI);
-        }
-    }
     
     private void validateSwipe2In1CardAction(king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction,
             Component component, Panel panel, String pageURI) {
@@ -837,10 +826,10 @@ public class MainWindow {
         }
     }
 
-    private void validateEject2In1CardAction(king.flow.view.Action.Eject2In1CardAction eject2In1CardAction,
+    private void validateEjectCardAction(king.flow.view.Action.EjectCardAction ejectCardAction,
             Component component, Panel panel, String pageURI) {
-        if (eject2In1CardAction != null) {
-            checkSupportedAction(component, EJECT_TWO_IN_ONE_CARD_ACTION, panel, pageURI);
+        if (ejectCardAction != null) {
+            checkSupportedAction(component, EJECT_CARD_ACTION, panel, pageURI);
         }
     }
 
@@ -1258,7 +1247,7 @@ public class MainWindow {
 
             doSwipe2In1CardAction(actionNode, component);
 
-            doEject2In1CardAction(actionNode, component);
+            doEjectCardAction(actionNode, component);
 
             doPrintPassbookAction(actionNode, component);
 
@@ -1271,30 +1260,6 @@ public class MainWindow {
             doEncryptKeyboardAction(actionNode, component);
 
             doShowGridAction(actionNode, component);
-            
-            doSwipeIDCardAction(actionNode, component);
-        }
-    }
-
-    private void doSwipeIDCardAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.SwipeIDCardAction swipeIdCardAction = actionNode.getSwipeIDCardAction();
-        if (swipeIdCardAction != null) {
-            Integer nextCursor = swipeIdCardAction.getNextCursor();
-            Boolean editable = swipeIdCardAction.isEditable();
-            String mediaTip = swipeIdCardAction.getMediaTip();
-            String animationTip = swipeIdCardAction.getAnimationTip();
-            nextCursor = nextCursor == null ? component.getId() : nextCursor;
-            king.flow.view.Action.SwipeIDCardAction.Debug debug = swipeIdCardAction.getDebug();
-            ReadIDCardAction readIdCardAction;
-            if (debug == null) {
-                readIdCardAction = editable == null ? new ReadIDCardAction(nextCursor, mediaTip, animationTip)
-                        : new ReadIDCardAction(nextCursor, editable, mediaTip, animationTip);
-            } else {
-                readIdCardAction = editable == null ? new ReadIDCardAction(nextCursor, mediaTip, animationTip, debug)
-                        : new ReadIDCardAction(nextCursor, editable, mediaTip, animationTip, debug);
-            }
-
-            doAction(readIdCardAction, component.getId());
         }
     }
     
@@ -1314,11 +1279,11 @@ public class MainWindow {
         }
     }
 
-    private void doEject2In1CardAction(king.flow.view.Action actionNode, Component component) {
-        king.flow.view.Action.Eject2In1CardAction ejectCardAction = actionNode.getEject2In1CardAction();
+    private void doEjectCardAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.EjectCardAction ejectCardAction = actionNode.getEjectCardAction();
         if (ejectCardAction != null) {
-            Eject2In1CardAction eject2In1CardAction = new Eject2In1CardAction();
-            doAction(eject2In1CardAction, component.getId());
+            EjectCardAction ejectCard = new EjectCardAction(ejectCardAction.getCardType());
+            doAction(ejectCard, component.getId());
         }
     }
 

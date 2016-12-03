@@ -12,7 +12,6 @@ import com.github.jsonj.tools.JsonParser;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.List;
 import java.util.logging.Level;
 import javax.swing.ImageIcon;
@@ -24,8 +23,8 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.SwingWorker;
 import javax.swing.plaf.FontUIResource;
-import javax.xml.datatype.XMLGregorianCalendar;
 import king.flow.action.DefaultBaseAction;
+import king.flow.common.CommonConstants;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.getResourceMsg;
@@ -36,6 +35,8 @@ import king.flow.view.Component;
 import king.flow.view.UiStyle;
 import king.flow.view.Window;
 import static king.flow.common.CommonUtil.swipeGzICCard;
+import king.flow.control.driver.HISCardConductor;
+import king.flow.control.driver.PIDCardConductor;
 import king.flow.net.Transportation;
 import king.flow.view.DeviceEnum;
 import org.apache.commons.lang.StringEscapeUtils;
@@ -57,7 +58,7 @@ public class InsertCardAction extends DefaultBaseAction {
             InsertICardAction.NextStep successfulPage,
             InsertICardAction.Exception failedPage,
             String animation) {
-        this.cardType = cardType;
+        this.cardType = (cardType == null ? DeviceEnum.UNKNOWN : cardType);
         this.successfulPage = successfulPage;
         this.failedPage = failedPage;
         this.animationFile = animation;
@@ -83,14 +84,19 @@ public class InsertCardAction extends DefaultBaseAction {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                if (cardType == DeviceEnum.GZ_CARD) {
-                    progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"
-                            + "." + DeviceEnum.GZ_CARD.value()));
-                } else if (cardType == DeviceEnum.HS_CARD) {
-                    progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"
-                            + "." + DeviceEnum.HS_CARD.value()));
-                } else {
-                    progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
+                switch (cardType) {
+                    case GZ_CARD:
+                        progressTip = new JLabel(getResourceMsg(GzCardConductor.GUOZHEN_CARD_INSERT_PROMPT));
+                        break;
+                    case PID_CARD:
+                        progressTip = new JLabel(getResourceMsg(PIDCardConductor.PID_CARD_INSERT_PROMPT));
+                        break;
+                    case HIS_CARD:
+                        progressTip = new JLabel(getResourceMsg(HISCardConductor.HIS_CARD_PICKUP_PROMPT));
+                        break;
+                    default:
+                        progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
+                        break;
                 }
 
                 Window windowNode = getWindowNode();
@@ -116,6 +122,12 @@ public class InsertCardAction extends DefaultBaseAction {
                 switch (cardType) {
                     case GZ_CARD:
                         waitCommunicationTask(new GZReadCardTask(), progressAnimation);
+                        break;
+                    case PID_CARD:
+                        waitCommunicationTask(new PIDReadCardTask(), progressAnimation);
+                        break;
+                    case HIS_CARD:
+                        waitCommunicationTask(new HISProvisionCardTask(), progressAnimation);
                         break;
                     default:
                         getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
@@ -158,6 +170,116 @@ public class InsertCardAction extends DefaultBaseAction {
         panelJump(failedPage.getNextPanel());
     }
 
+    private class HISProvisionCardTask extends SwingWorker<String, String> {
+
+        @Override
+        protected String doInBackground() throws Exception {
+            try {
+                List<String> debug = successfulPage.getDebug();
+
+                if (debug.isEmpty()) {
+                    Thread.sleep(CommonConstants.RUN_MODE_PROGRESS_TIME);
+
+                    String cardInfo = CommonUtil.pickUpHISCard();// driver will blocking thread and wait IC card information return
+                    if (cardInfo == null || cardInfo.length() == 0) {
+                        //fail to read card information
+                        throw new Exception(HISCardConductor.HIS_CARD_PICKUP_ERROR_PROMPT);
+                    }
+
+                    getLogger(HISProvisionCardTask.class.getName()).log(Level.INFO,
+                            "Reading information from ID card:\n{0}", cardInfo);
+                    JsonParser jsonParser = new JsonParser();
+                    JsonObject element = jsonParser.parse(cardInfo).asObject();
+
+                    List<String> displayValues = new ArrayList<>(element.size());
+                    for (JsonElement value : element.values()) {
+                        displayValues.add(value.toString());
+                    }
+                    int len = Math.min(displayValues.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), displayValues.get(i));
+                    }
+                } else {
+                    //debug mode
+                    Thread.sleep(CommonConstants.DEBUG_MODE_PROGRESS_TIME);
+                    int len = Math.min(debug.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), debug.get(i));
+                    }
+                }
+
+                Integer trigger = successfulPage.getTrigger();
+                if (trigger == null) {
+                    panelJump(successfulPage.getNextPanel());
+                } else {
+                    getBlock(trigger, JButton.class).doClick();
+                }
+                return "Success";
+            } catch (Throwable t) {
+                getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
+                        "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
+                String errPrompt = getResourceMsg(t.getMessage());
+                handleErr(errPrompt);
+                throw new Exception(t);
+            }
+        }
+    }
+
+    private class PIDReadCardTask extends SwingWorker<String, String> {
+
+        @Override
+        protected String doInBackground() throws Exception {
+            try {
+                List<String> debug = successfulPage.getDebug();
+
+                if (debug.isEmpty()) {
+                    Thread.sleep(CommonConstants.RUN_MODE_PROGRESS_TIME);
+
+                    String cardInfo = CommonUtil.swipeIDCard();// driver will blocking thread and wait IC card information return
+                    if (cardInfo == null || cardInfo.length() == 0) {
+                        //fail to read card information
+                        throw new Exception(PIDCardConductor.PID_CARD_READ_ERROR_PROMPT);
+                    }
+
+                    getLogger(PIDReadCardTask.class.getName()).log(Level.INFO,
+                            "Reading information from ID card:\n{0}", cardInfo);
+                    JsonParser jsonParser = new JsonParser();
+                    JsonObject element = jsonParser.parse(cardInfo).asObject();
+
+                    List<String> displayValues = new ArrayList<>(element.size());
+                    for (JsonElement value : element.values()) {
+                        displayValues.add(value.toString());
+                    }
+                    int len = Math.min(displayValues.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), displayValues.get(i));
+                    }
+                } else {
+                    //debug mode
+                    Thread.sleep(CommonConstants.DEBUG_MODE_PROGRESS_TIME);
+                    int len = Math.min(debug.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), debug.get(i));
+                    }
+                }
+
+                Integer trigger = successfulPage.getTrigger();
+                if (trigger == null) {
+                    panelJump(successfulPage.getNextPanel());
+                } else {
+                    getBlock(trigger, JButton.class).doClick();
+                }
+                return "Success";
+            } catch (Throwable t) {
+                getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
+                        "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
+                String errPrompt = getResourceMsg(t.getMessage());
+                handleErr(errPrompt);
+                throw new Exception(t);
+            }
+        }
+    }
+
     private class GZReadCardTask extends SwingWorker<String, String> {
 
         @Override
@@ -166,7 +288,7 @@ public class InsertCardAction extends DefaultBaseAction {
                 List<String> debug = successfulPage.getDebug();
 
                 if (debug.isEmpty()) {
-                    Thread.sleep(1000);
+                    Thread.sleep(CommonConstants.RUN_MODE_PROGRESS_TIME);
                     String cardInfo = swipeGzICCard();
                     if (cardInfo != null && cardInfo.equals(GzCardConductor.UNREGISTRY_CARD_TYPE)) {
                         throw new Exception(GzCardConductor.GUOZHEN_CARD_UNREGISTRY_PROMPT);
@@ -223,18 +345,18 @@ public class InsertCardAction extends DefaultBaseAction {
                     }
                 } else {
                     //debug mode
-                    Thread.sleep(3000);
+                    Thread.sleep(CommonConstants.DEBUG_MODE_PROGRESS_TIME);
                     int len = Math.min(debug.size(), successfulDisplay.size());
                     for (int i = 0; i < len; i++) {
                         showOnComponent(successfulDisplay.get(i), debug.get(i));
                     }
                 }
 
-                Integer hop = successfulPage.getHop();
-                if (hop == null) {
+                Integer trigger = successfulPage.getTrigger();
+                if (trigger == null) {
                     panelJump(successfulPage.getNextPanel());
                 } else {
-                    getBlock(hop, JButton.class).doClick();
+                    getBlock(trigger, JButton.class).doClick();
                 }
                 return "Success";
             } catch (Throwable t) {

@@ -61,6 +61,7 @@ import static king.flow.common.CommonUtil.AppType.TERMINAL;
 import king.flow.control.MainWindow;
 import king.flow.control.driver.FingerPrintDrive;
 import king.flow.control.driver.GzCardConductor;
+import king.flow.control.driver.HISCardConductor;
 import king.flow.control.driver.ICCardConductor;
 import king.flow.control.driver.PIDCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
@@ -93,7 +94,8 @@ import org.w3c.dom.DOMException;
 import static king.flow.data.TLSResult.UNIONPAY_CARD_INFO;
 import static king.flow.data.TLSResult.UNIONPAY_MAC_INFO;
 import king.flow.net.Transportation;
-import static king.flow.view.DeviceEnum.ID_CARD;
+import static king.flow.view.DeviceEnum.HIS_CARD;
+import static king.flow.view.DeviceEnum.PID_CARD;
 import static king.flow.view.DeviceEnum.PKG_8583;
 
 /**
@@ -580,11 +582,11 @@ public class CommonUtil {
 
     /* finger printer driver section end*/
  /* JNI type driver calling*/
-    private static final HashMap<DeviceEnum, String[]> driverRepo = new HashMap<>();
+    private static final HashMap<DeviceEnum, String[]> DRIVER_REPO = new HashMap<>();
     final static String DRIVER_LOG_TEMPLATE = "Fail to call driver {0} due to error:\n{1}";
 
     private static void lookForDriverConfig(DeviceEnum device) throws Exception {
-        String[] deviceConf = driverRepo.get(device);
+        String[] deviceConf = DRIVER_REPO.get(device);
         if (deviceConf == null || deviceConf.length < 2) {
             throw new Exception("Fail to look for "
                     + device.name()
@@ -594,16 +596,16 @@ public class CommonUtil {
 
     public static String getDriverDll(DeviceEnum device) throws Exception {
         lookForDriverConfig(device);
-        return driverRepo.get(device)[0];
+        return DRIVER_REPO.get(device)[0];
     }
 
     public static String getDriverPort(DeviceEnum device) throws Exception {
         lookForDriverConfig(device);
-        return driverRepo.get(device)[1];
+        return DRIVER_REPO.get(device)[1];
     }
 
     public static void saveDriverConf(DeviceEnum device, String[] conf) {
-        driverRepo.put(device, conf);
+        DRIVER_REPO.put(device, conf);
     }
 
     public static int readPrinterStatus() {
@@ -733,14 +735,14 @@ public class CommonUtil {
         return result;
     }
 
-    private static final TwoInOneCardConductor TIOCardConductor = new TwoInOneCardConductor();
+    private static final TwoInOneCardConductor TIO_CARD_CONDUCTOR = new TwoInOneCardConductor();
 
     public static int check2In1Card() {
         int checkResult = ABNORMAL;
         try {
             System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
             String errMsg = "";
-            checkResult = TIOCardConductor.checkCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
+            checkResult = TIO_CARD_CONDUCTOR.checkCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
@@ -754,7 +756,7 @@ public class CommonUtil {
         try {
             System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
             String errMsg = "";
-            cardNumber = TIOCardConductor.readCard(getDriverPort(TWO_IN_ONE_CARD), type, errMsg);
+            cardNumber = TIO_CARD_CONDUCTOR.readCard(getDriverPort(TWO_IN_ONE_CARD), type, errMsg);
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
@@ -767,7 +769,7 @@ public class CommonUtil {
         try {
             System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
             String errMsg = "";
-            TIOCardConductor.ejectCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
+            TIO_CARD_CONDUCTOR.ejectCard(getDriverPort(TWO_IN_ONE_CARD), errMsg);
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
@@ -775,17 +777,45 @@ public class CommonUtil {
         }
     }
     
-    private static final PIDCardConductor IDCardConductor = new PIDCardConductor();
+    private static final PIDCardConductor PID_CARD_CONDUCTOR = new PIDCardConductor();
     
     public static String swipeIDCard() {
         String cardInfo = null;
         try {
-            System.loadLibrary(getDriverDll(ID_CARD));
-            cardInfo = IDCardConductor.readCard(getDriverPort(ID_CARD));
+            System.loadLibrary(getDriverDll(PID_CARD));
+            cardInfo = PID_CARD_CONDUCTOR.readCard(getDriverPort(PID_CARD));
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
-                    new String[]{ID_CARD.value(), t.getMessage()});
+                    new String[]{PID_CARD.value(), t.getMessage()});
+        }
+        return cardInfo;
+    }
+    
+    private static final HISCardConductor HIS_CARD_CONDUCTOR = new HISCardConductor();
+    
+    public static String pickUpHISCard() {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(HIS_CARD));
+            cardInfo = HIS_CARD_CONDUCTOR.getCard(getDriverPort(HIS_CARD));
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{HIS_CARD.value(), t.getMessage()});
+        }
+        return cardInfo;
+    }
+    
+    public static String ejectHISCard() {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(HIS_CARD));
+            cardInfo = HIS_CARD_CONDUCTOR.ejectCard(getDriverPort(HIS_CARD));
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{HIS_CARD.value(), t.getMessage()});
         }
         return cardInfo;
     }
