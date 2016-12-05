@@ -271,6 +271,14 @@
                 </xs:complexType>
             </xs:element>
             
+            <xs:element name="withdrawCardAction" maxOccurs="1" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="cardType" type="device_enum" maxOccurs="1" minOccurs="1"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            
             <xs:element name="rwFingerPrintAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
                     <xs:all>
@@ -525,6 +533,7 @@
             <xs:enumeration  value="gzCard"/>
             <xs:enumeration  value="PIDCard"/>
             <xs:enumeration  value="HISCard"/>
+            <xs:enumeration  value="PatientCard"/>
             <xs:enumeration  value="pkg8583"/>
             <xs:enumeration  value="Unknown"/>
         </xs:restriction>

@@ -37,6 +37,7 @@ import king.flow.view.Window;
 import static king.flow.common.CommonUtil.swipeGzICCard;
 import king.flow.control.driver.HISCardConductor;
 import king.flow.control.driver.PIDCardConductor;
+import king.flow.control.driver.PatientCardConductor;
 import king.flow.net.Transportation;
 import king.flow.view.DeviceEnum;
 import org.apache.commons.lang.StringEscapeUtils;
@@ -46,6 +47,8 @@ import org.apache.commons.lang.StringEscapeUtils;
  * @author liujin
  */
 public class InsertCardAction extends DefaultBaseAction {
+
+    private static final String OPERATION_CARD_READ_ERROR = "operation.ic.card.read.error";
 
     private final DeviceEnum cardType;
     private final InsertICardAction.NextStep successfulPage;
@@ -94,6 +97,9 @@ public class InsertCardAction extends DefaultBaseAction {
                     case HIS_CARD:
                         progressTip = new JLabel(getResourceMsg(HISCardConductor.HIS_CARD_PICKUP_PROMPT));
                         break;
+                    case PATIENT_CARD:
+                        progressTip = new JLabel(getResourceMsg(PatientCardConductor.HIS_CARD_INSERT_PROMPT));
+                        break;
                     default:
                         progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
                         break;
@@ -129,10 +135,13 @@ public class InsertCardAction extends DefaultBaseAction {
                     case HIS_CARD:
                         waitCommunicationTask(new HISProvisionCardTask(), progressAnimation);
                         break;
+                    case PATIENT_CARD:
+                        waitCommunicationTask(new HISReadCardTask(), progressAnimation);
+                        break;
                     default:
                         getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
                                 "Unsupported card type[{0}] for InsertCardAction", cardType.name());
-                        handleErr(getResourceMsg(GzCardConductor.GUOZHEN_CARD_OPERATION_PROMPT));
+                        handleErr(getResourceMsg(OPERATION_CARD_READ_ERROR));
                 }
             }
         });
@@ -166,8 +175,64 @@ public class InsertCardAction extends DefaultBaseAction {
 
     private void handleErr(String errPrompt) {
         showOnComponent(failedDisplay.get(0),
-                errPrompt == null ? getResourceMsg("operation.ic.card.read.error") : errPrompt);
+                errPrompt == null ? getResourceMsg(OPERATION_CARD_READ_ERROR) : errPrompt);
         panelJump(failedPage.getNextPanel());
+    }
+
+    private class HISReadCardTask extends SwingWorker<String, String> {
+
+        @Override
+        protected String doInBackground() throws Exception {
+            try {
+                List<String> debug = successfulPage.getDebug();
+
+                if (debug.isEmpty()) {
+                    Thread.sleep(CommonConstants.RUN_MODE_PROGRESS_TIME);
+
+                    String cardInfo = CommonUtil.readPatientCard();// driver will blocking thread and wait IC card information return
+                    if (cardInfo == null || cardInfo.length() == 0) {
+                        //fail to read card information
+                        throw new Exception(PatientCardConductor.HIS_CARD_READ_ERROR_PROMPT);
+                    }
+
+                    getLogger(HISReadCardTask.class.getName()).log(Level.INFO,
+                            "Reading information from ID card:\n{0}", cardInfo);
+                    JsonParser jsonParser = new JsonParser();
+                    JsonObject element = jsonParser.parse(cardInfo).asObject();
+
+                    List<String> displayValues = new ArrayList<>(element.size());
+                    for (JsonElement value : element.values()) {
+                        displayValues.add(value.toString());
+                    }
+                    int len = Math.min(displayValues.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), displayValues.get(i));
+                    }
+                } else {
+                    //debug mode
+                    Thread.sleep(CommonConstants.DEBUG_MODE_PROGRESS_TIME);
+                    int len = Math.min(debug.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), debug.get(i));
+                    }
+                }
+
+                Integer trigger = successfulPage.getTrigger();
+                if (trigger == null) {
+                    panelJump(successfulPage.getNextPanel());
+                } else {
+                    getBlock(trigger, JButton.class).doClick();
+                }
+                return "Success";
+            } catch (Throwable t) {
+                getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
+                        "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
+                String errPrompt = getResourceMsg(t.getMessage());
+                handleErr(errPrompt);
+                throw new Exception(t);
+            }
+        }
+
     }
 
     private class HISProvisionCardTask extends SwingWorker<String, String> {

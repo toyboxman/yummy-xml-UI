@@ -11,6 +11,72 @@ $文档格式格式如下：
 修改项3
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ************************************************************************************************************************
+2016.12.5
+************************************************************************************************************************
+1.给系统增加驱动集成，当前支持驱动类型包括
+<xs:enumeration  value="magnetCard"/>
+<xs:enumeration  value="ICCard"/>
+<xs:enumeration  value="sensorCard"/>
+<xs:enumeration  value="twoInOneCard"/>
+<xs:enumeration  value="printer"/>
+<xs:enumeration  value="keyboard"/>
+<xs:enumeration  value="gzCard"/>
+<xs:enumeration  value="PIDCard"/>
+<xs:enumeration  value="HISCard"/>
+<xs:enumeration  value="PatientCard"/>
+<xs:enumeration  value="pkg8583"/>
+<xs:enumeration  value="Unknown"/>
+
+2.修改ejectCard的配置，增加卡类型参数
+<ejectCardAction>
+    <cardType>HISCard</cardType>
+</ejectCardAction>
+
+3.修改msgSendAction的配置，增加失败exception触发器
+        <sendMsgAction>
+                <prsCode>query_pubiao</prsCode>
+                <conditions>201504</conditions>
+                <nextStep>
+                    <nextPanel>201501001</nextPanel>
+                    <display>201501004,201501006,201501008,201501010,201596,201501012</display>
+                    <nextCursor>201501016</nextCursor>
+                    <trigger>201501014</trigger>
+                </nextStep>
+                <exception>
+                    <nextPanel>201577</nextPanel>
+                    <display>201575</display>
+                    <trigger>201501014</trigger>
+                </exception>
+                <checkRules>
+                    <notNull>
+                        <content>201504</content>
+                        <errMsg>请输入用户号</errMsg>
+                    </notNull>
+                </checkRules>
+            </sendMsgAction>
+
+4.修改insertICardAction的配置，修改hop属性名为trigger
+            <insertICardAction>
+                <cardType>HISCard</cardType>
+                <nextStep>
+                    <nextPanel>201501</nextPanel>
+                    <display>20150421</display>
+                    <debug>医疗卡序号-11111111</debug>
+                    <trigger>2015043</trigger>
+                </nextStep>
+                <exception>
+                    <nextPanel>201899</nextPanel>
+                    <display>201896</display>
+                </exception>
+            </insertICardAction>
+
+5.增加撤销发卡withdrawCardAction的配置
+        <action>
+            <withdrawCardAction>
+                <cardType>HISCard</cardType>
+            </withdrawCardAction>
+        </action>
+************************************************************************************************************************
 2016.11.22
 ************************************************************************************************************************
 给系统增加Grid类型组件

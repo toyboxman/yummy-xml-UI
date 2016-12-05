@@ -71,6 +71,7 @@ import king.flow.action.business.ReadCardAction;
 import king.flow.action.business.WriteCardAction;
 import king.flow.action.business.Read2In1CardAction;
 import king.flow.action.business.ShowClockAction;
+import king.flow.action.business.WithdrawCardAction;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonConstants.BALANCE_TRANS_ACTION;
 import static king.flow.common.CommonConstants.CLEAN_ACTION;
@@ -139,6 +140,7 @@ import king.flow.swing.JXGridPanel;
 import king.flow.view.Action.ShowGridAction;
 import org.apache.commons.lang.StringEscapeUtils;
 import static king.flow.common.CommonConstants.EJECT_CARD_ACTION;
+import static king.flow.common.CommonConstants.WITHDRAW_CARD_ACTION;
 
 /**
  *
@@ -431,6 +433,8 @@ public class MainWindow {
             validateSwipe2In1CardAction(action.getSwipe2In1CardAction(), component, panel, pageURI);
 
             validateEjectCardAction(action.getEjectCardAction(), component, panel, pageURI);
+            
+            validateWithdrawCardAction(action.getWithdrawCardAction(), component, panel, pageURI);
 
             validatePrintPassbookAction(action.getPrintPassbookAction(), component, panel, pageURI);
 
@@ -830,6 +834,13 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (ejectCardAction != null) {
             checkSupportedAction(component, EJECT_CARD_ACTION, panel, pageURI);
+        }
+    }
+    
+    private void validateWithdrawCardAction(king.flow.view.Action.WithdrawCardAction withdrawCardAction,
+            Component component, Panel panel, String pageURI) {
+        if (withdrawCardAction != null) {
+            checkSupportedAction(component, WITHDRAW_CARD_ACTION, panel, pageURI);
         }
     }
 
@@ -1248,6 +1259,8 @@ public class MainWindow {
             doSwipe2In1CardAction(actionNode, component);
 
             doEjectCardAction(actionNode, component);
+            
+            doWithdrawCardAction(actionNode, component);
 
             doPrintPassbookAction(actionNode, component);
 
@@ -1284,6 +1297,14 @@ public class MainWindow {
         if (ejectCardAction != null) {
             EjectCardAction ejectCard = new EjectCardAction(ejectCardAction.getCardType());
             doAction(ejectCard, component.getId());
+        }
+    }
+    
+    private void doWithdrawCardAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.WithdrawCardAction wca = actionNode.getWithdrawCardAction();
+        if (wca != null) {
+            WithdrawCardAction withdrawCardAction = new WithdrawCardAction(wca.getCardType());
+            doAction(withdrawCardAction, component.getId());
         }
     }
 

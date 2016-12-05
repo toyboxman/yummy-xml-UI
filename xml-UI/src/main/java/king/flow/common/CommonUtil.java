@@ -67,6 +67,7 @@ import king.flow.control.driver.PIDCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
 import king.flow.control.driver.MagnetCardConductor;
 import king.flow.control.driver.PKG8583;
+import king.flow.control.driver.PatientCardConductor;
 import king.flow.control.driver.PrinterConductor;
 import king.flow.control.driver.TwoInOneCardConductor;
 import king.flow.data.RegistryTLSResult;
@@ -94,6 +95,7 @@ import org.w3c.dom.DOMException;
 import static king.flow.data.TLSResult.UNIONPAY_CARD_INFO;
 import static king.flow.data.TLSResult.UNIONPAY_MAC_INFO;
 import king.flow.net.Transportation;
+import static king.flow.view.DeviceEnum.PATIENT_CARD;
 import static king.flow.view.DeviceEnum.HIS_CARD;
 import static king.flow.view.DeviceEnum.PID_CARD;
 import static king.flow.view.DeviceEnum.PKG_8583;
@@ -764,7 +766,7 @@ public class CommonUtil {
         }
         return cardNumber;
     }
-    
+
     public static void eject2In1Card() {
         try {
             System.loadLibrary(getDriverDll(TWO_IN_ONE_CARD));
@@ -776,9 +778,9 @@ public class CommonUtil {
                     new String[]{TWO_IN_ONE_CARD.value(), t.getMessage()});
         }
     }
-    
+
     private static final PIDCardConductor PID_CARD_CONDUCTOR = new PIDCardConductor();
-    
+
     public static String swipeIDCard() {
         String cardInfo = null;
         try {
@@ -791,9 +793,9 @@ public class CommonUtil {
         }
         return cardInfo;
     }
-    
+
     private static final HISCardConductor HIS_CARD_CONDUCTOR = new HISCardConductor();
-    
+
     public static String pickUpHISCard() {
         String cardInfo = null;
         try {
@@ -806,7 +808,7 @@ public class CommonUtil {
         }
         return cardInfo;
     }
-    
+
     public static String ejectHISCard() {
         String cardInfo = null;
         try {
@@ -816,6 +818,35 @@ public class CommonUtil {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
                     new String[]{HIS_CARD.value(), t.getMessage()});
+        }
+        return cardInfo;
+    }
+
+    public static String withdrawHISCard() {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(HIS_CARD));
+            cardInfo = HIS_CARD_CONDUCTOR.withdrawCard(getDriverPort(HIS_CARD));
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{HIS_CARD.value(), t.getMessage()});
+        }
+        return cardInfo;
+    }
+
+    private static final PatientCardConductor PATIENT_CARD_CONDUCTOR = new PatientCardConductor();
+
+    public static String readPatientCard() {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(PATIENT_CARD));
+            String errMsg = "";
+            cardInfo = PATIENT_CARD_CONDUCTOR.readCard(getDriverPort(PATIENT_CARD), errMsg);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{PATIENT_CARD.value(), t.getMessage()});
         }
         return cardInfo;
     }
@@ -1534,12 +1565,12 @@ public class CommonUtil {
                 .append("********************************************************************************************");
         return appInfo.toString();
     }
-    
+
     public static String dumpExceptionStack(Throwable exception) {
         if (exception == null) {
             return "";
         }
-        
+
         StringBuilder stackInfo = new StringBuilder();
         for (StackTraceElement trace : exception.getStackTrace()) {
             stackInfo.append("at ").append(trace.toString()).append('\n');

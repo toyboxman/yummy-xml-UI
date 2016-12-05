@@ -17,4 +17,6 @@ public class HISCardConductor {
     public native String getCard(String comport);
 
     public native String ejectCard(String comport);
+    
+    public native String withdrawCard(String comport);
 }
