@@ -27,59 +27,60 @@ $ÎÄµµ¸ñÊ½¸ñÊ½ÈçÏÂ£º
 <xs:enumeration  value="pkg8583"/>
 <xs:enumeration  value="Unknown"/>
 
-2.ĞŞ¸ÄejectCardµÄÅäÖÃ£¬Ôö¼Ó¿¨ÀàĞÍ²ÎÊı
-<ejectCardAction>
-    <cardType>HISCard</cardType>
+2.1.ĞŞ¸Äeject2In1CardActionÃû³Æ£¬Ôö¼Ó¿¨ÀàĞÍÊôĞÔ
+<ejectCardAction> ---´Óeject2In1CardAction±ä³ÉÍ¨ÓÃµÄÃû³Æ
+    <cardType>HISCard</cardType>   ---Ôö¼Ó¿¨ÀàĞÍ²ÎÊı
 </ejectCardAction>
 
 3.ĞŞ¸ÄmsgSendActionµÄÅäÖÃ£¬Ôö¼ÓÊ§°Üexception´¥·¢Æ÷
-        <sendMsgAction>
-                <prsCode>query_pubiao</prsCode>
-                <conditions>201504</conditions>
-                <nextStep>
-                    <nextPanel>201501001</nextPanel>
-                    <display>201501004,201501006,201501008,201501010,201596,201501012</display>
-                    <nextCursor>201501016</nextCursor>
-                    <trigger>201501014</trigger>
-                </nextStep>
-                <exception>
-                    <nextPanel>201577</nextPanel>
-                    <display>201575</display>
-                    <trigger>201501014</trigger>
-                </exception>
-                <checkRules>
-                    <notNull>
-                        <content>201504</content>
-                        <errMsg>ÇëÊäÈëÓÃ»§ºÅ</errMsg>
-                    </notNull>
-                </checkRules>
-            </sendMsgAction>
+<sendMsgAction>
+        <prsCode>query_pubiao</prsCode>
+        <conditions>201504</conditions>
+        <nextStep>
+            <nextPanel>201501001</nextPanel>
+            <display>201501004,201501006,201501008,201501010,201596,201501012</display>
+            <nextCursor>201501016</nextCursor>
+            <trigger>201501014</trigger>
+        </nextStep>
+        <exception>
+            <nextPanel>201577</nextPanel>
+            <display>201575</display>
+            <trigger>201501014</trigger>   --Ê§°Üºó¿É´¥·¢²Ù×÷
+        </exception>
+        <checkRules>
+            <notNull>
+                <content>201504</content>
+                <errMsg>ÇëÊäÈëÓÃ»§ºÅ</errMsg>
+            </notNull>
+        </checkRules>
+    </sendMsgAction>
 
 4.ĞŞ¸ÄinsertICardActionµÄÅäÖÃ£¬ĞŞ¸ÄhopÊôĞÔÃûÎªtrigger
-            <insertICardAction>
-                <cardType>HISCard</cardType>
-                <nextStep>
-                    <nextPanel>201501</nextPanel>
-                    <display>20150421</display>
-                    <debug>Ò½ÁÆ¿¨ĞòºÅ-11111111</debug>
-                    <trigger>2015043</trigger>
-                </nextStep>
-                <exception>
-                    <nextPanel>201899</nextPanel>
-                    <display>201896</display>
-                </exception>
-            </insertICardAction>
+<insertICardAction>
+    <cardType>HISCard</cardType>  --Ôö¼ÓcardTypeÊôĞÔ
+    <nextStep>
+        <nextPanel>201501</nextPanel>
+        <display>20150421</display>
+        <debug>Ò½ÁÆ¿¨ĞòºÅ-11111111</debug>
+        <trigger>2015043</trigger>  --Ö®Ç°hopÊôĞÔ¸ÄÃûÎªtrigger
+    </nextStep>
+    <exception>
+        <nextPanel>201899</nextPanel>
+        <display>201896</display>
+    </exception>
+    <animationTip>/image/swipe.gif</animationTip>  --¶¨ÖÆË¢¿¨ÌáÊ¾Í¼Æ¬
+</insertICardAction>
 
 5.Ôö¼Ó³·Ïú·¢¿¨withdrawCardActionµÄÅäÖÃ
-        <action>
-            <withdrawCardAction>
-                <cardType>HISCard</cardType>
-            </withdrawCardAction>
-        </action>
+<action>
+    <withdrawCardAction>
+        <cardType>HISCard</cardType>
+    </withdrawCardAction>
+</action>
 ************************************************************************************************************************
 2016.11.22
 ************************************************************************************************************************
-¸øÏµÍ³Ôö¼ÓGridÀàĞÍ×é¼ş
+¸øÏµÍ³Ôö¼ÓGridÀàĞÍ×é¼ş£¬ÀàËÆtextÍ¨¹ıgetValue»ñÈ¡Ñ¡ÖĞµ¥ÔªµÄidÖµ
 <component>
     <id>33115</id>
     <type>Grid</type>
@@ -279,10 +280,10 @@ openshell showApp "{\"trigger\":\"4\", \"display\":{\"8\":\"1112\"}}"  --- Í¨¹ı²
 ************************************************************************************************************************
 1.¼¯³ÉÃÜÂë¼üÅÌµÄÇı¶¯
 //add for keyboard encrption mode
-    public native int OpenComm(String comport, String errstring);
-    public native String ScanKeyPress(String errstring);
-    public native String GetPinblock(String cardno, String cardflag, String errstring);
-    public native int CloseComm(String comport, String errstring);
+public native int OpenComm(String comport, String errstring);
+public native String ScanKeyPress(String errstring);
+public native String GetPinblock(String cardno, String cardflag, String errstring);
+public native int CloseComm(String comport, String errstring);
 
 2.Ôö¼ÓencryptKeyboardActionÅäÖÃ
 <component>
@@ -623,27 +624,27 @@ openshell showApp "{\"trigger\":\"4\", \"display\":{\"8\":\"1112\"}}"  --- Í¨¹ı²
 3.ÅäÖÃ¼ì²éÖĞÔö¼Ó¶ÔĞÂ²ÎÊıµÄÓĞĞ§ĞÔ¼ì²é
 
 ÅäÖÃÈçÏÂ:
-        <action>
-            <sendMsgAction>
-                <prsCode>query_pubiao</prsCode>
-                <conditions>201504</conditions>
-                <nextStep>  
-                    <nextPanel>201501001</nextPanel>
-                    <display>201501004,201501006,201501008,201501010,201501023,201501012,201501017</display>
-                    <nextCursor>201501014</nextCursor>
-                </nextStep>
-                <exception> 
-                    <nextPanel>201599</nextPanel>  
-                    <display>201596</display>  
-                </exception>
-                <checkRules>
-                    <notNull>
-                        <content>201504</content>
-                        <errMsg>ÇëÊäÈë½É·ÑºÅ</errMsg>
-                    </notNull>
-                </checkRules>
-            </sendMsgAction>
-        </action>
+<action>
+    <sendMsgAction>
+        <prsCode>query_pubiao</prsCode>
+        <conditions>201504</conditions>
+        <nextStep>  
+            <nextPanel>201501001</nextPanel>
+            <display>201501004,201501006,201501008,201501010,201501023,201501012,201501017</display>
+            <nextCursor>201501014</nextCursor>
+        </nextStep>
+        <exception> 
+            <nextPanel>201599</nextPanel>  
+            <display>201596</display>  
+        </exception>
+        <checkRules>
+            <notNull>
+                <content>201504</content>
+                <errMsg>ÇëÊäÈë½É·ÑºÅ</errMsg>
+            </notNull>
+        </checkRules>
+    </sendMsgAction>
+</action>
 
 ************************************************************************************************************************
 2016.2.3
@@ -657,20 +658,20 @@ openshell showApp "{\"trigger\":\"4\", \"display\":{\"8\":\"1112\"}}"  --- Í¨¹ı²
 4.¶ÁÈ¡Ê§°Ü,ÏÔÊ¾´íÎóÔ­ÒòÔÚ´íÎóÒ³
 
 ÅäÖÃÈçÏÂ:
-        <action>
-            <insertICardAction>
-                <nextStep>
-                    <nextPanel>370</nextPanel>
-                    <display>370005, 370006</display>
-                    <hop>370007</hop>  --hop±ØĞëÊÇÏÔÊ¾Ò³Ìá½»°´Å¥µÄID
-                </nextStep>
-                <exception>
-                    <nextPanel>200</nextPanel>
-                    <display>201</display>
-                </exception>
-                <animationTip>/image/swipe.gif</animationTip>
-            </insertICardAction>
-        </action>
+<action>
+    <insertICardAction>
+        <nextStep>
+            <nextPanel>370</nextPanel>
+            <display>370005, 370006</display>
+            <hop>370007</hop>  --hop±ØĞëÊÇÏÔÊ¾Ò³Ìá½»°´Å¥µÄID
+        </nextStep>
+        <exception>
+            <nextPanel>200</nextPanel>
+            <display>201</display>
+        </exception>
+        <animationTip>/image/swipe.gif</animationTip>
+    </insertICardAction>
+</action>
 
 ************************************************************************************************************************
 2016.1.31
@@ -684,38 +685,38 @@ openshell showApp "{\"trigger\":\"4\", \"display\":{\"8\":\"1112\"}}"  --- Í¨¹ı²
 4.¶ÁÈ¡Ê§°Ü,ÏÔÊ¾´íÎóÔ­ÒòÔÚ´íÎóÒ³
 
 ÅäÖÃÈçÏÂ:
-        <action>
-            <insertICardAction>
-                <nextStep>
-                    <nextPanel>370</nextPanel>
-                    <display>370005, 370006</display>
-                </nextStep>
-                <exception>
-                    <nextPanel>200</nextPanel>
-                    <display>201</display>
-                </exception>
-                <animationTip>/image/swipe.gif</animationTip>
-            </insertICardAction>
-        </action>
+<action>
+    <insertICardAction>
+        <nextStep>
+            <nextPanel>370</nextPanel>
+            <display>370005, 370006</display>
+        </nextStep>
+        <exception>
+            <nextPanel>200</nextPanel>
+            <display>201</display>
+        </exception>
+        <animationTip>/image/swipe.gif</animationTip>
+    </insertICardAction>
+</action>
 
 Èç¹ûÃ»ÓĞÇı¶¯ĞèÒªÓÃdebugµÄÊä³ö,¿ÉÒÔ¼ÓÉÏ°´ÈçÏÂ¼ÓÉÏ.Ã¿Ò»ĞĞĞÅÏ¢»á¶ÔÓ¦ÏÔÊ¾ÔÚdisplayÖĞµÄ¿Ø¼şÉÏ
-        <action>
-            <insertICardAction>
-                <nextStep>
-                    <nextPanel>370</nextPanel>
-                    <display>370005, 370006</display>
-                    <debug>
-                        ÀîÈåËÎ
-                        7ºÅÂ¥9-801ÊÒ
-                    </debug>
-                </nextStep>
-                <exception>
-                    <nextPanel>200</nextPanel>
-                    <display>201</display>
-                </exception>
-                <animationTip>/image/swipe.gif</animationTip>
-            </insertICardAction>
-        </action>
+<action>
+    <insertICardAction>
+        <nextStep>
+            <nextPanel>370</nextPanel>
+            <display>370005, 370006</display>
+            <debug>
+                ÀîÈåËÎ
+                7ºÅÂ¥9-801ÊÒ
+            </debug>
+        </nextStep>
+        <exception>
+            <nextPanel>200</nextPanel>
+            <display>201</display>
+        </exception>
+        <animationTip>/image/swipe.gif</animationTip>
+    </insertICardAction>
+</action>
 
 ************************************************************************************************************************
 2016.1.24

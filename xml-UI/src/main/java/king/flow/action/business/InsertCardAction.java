@@ -195,7 +195,7 @@ public class InsertCardAction extends DefaultBaseAction {
                         throw new Exception(PatientCardConductor.HIS_CARD_READ_ERROR_PROMPT);
                     }
 
-                    getLogger(HISReadCardTask.class.getName()).log(Level.INFO,
+                    getLogger(InsertCardAction.class.getName()).log(Level.INFO,
                             "Reading information from ID card:\n{0}", cardInfo);
                     JsonParser jsonParser = new JsonParser();
                     JsonObject element = jsonParser.parse(cardInfo).asObject();
@@ -251,7 +251,7 @@ public class InsertCardAction extends DefaultBaseAction {
                         throw new Exception(HISCardConductor.HIS_CARD_PICKUP_ERROR_PROMPT);
                     }
 
-                    getLogger(HISProvisionCardTask.class.getName()).log(Level.INFO,
+                    getLogger(InsertCardAction.class.getName()).log(Level.INFO,
                             "Reading information from ID card:\n{0}", cardInfo);
                     JsonParser jsonParser = new JsonParser();
                     JsonObject element = jsonParser.parse(cardInfo).asObject();
@@ -306,7 +306,7 @@ public class InsertCardAction extends DefaultBaseAction {
                         throw new Exception(PIDCardConductor.PID_CARD_READ_ERROR_PROMPT);
                     }
 
-                    getLogger(PIDReadCardTask.class.getName()).log(Level.INFO,
+                    getLogger(InsertCardAction.class.getName()).log(Level.INFO,
                             "Reading information from ID card:\n{0}", cardInfo);
                     JsonParser jsonParser = new JsonParser();
                     JsonObject element = jsonParser.parse(cardInfo).asObject();
