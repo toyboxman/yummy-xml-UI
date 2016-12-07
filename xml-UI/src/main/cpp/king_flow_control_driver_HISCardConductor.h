@@ -23,6 +23,14 @@ JNIEXPORT jstring JNICALL Java_king_flow_control_driver_HISCardConductor_getCard
 JNIEXPORT jstring JNICALL Java_king_flow_control_driver_HISCardConductor_ejectCard
   (JNIEnv *, jobject, jstring);
 
+/*
+ * Class:     king_flow_control_driver_HISCardConductor
+ * Method:    withdrawCard
+ * Signature: (Ljava/lang/String;)Ljava/lang/String;
+ */
+JNIEXPORT jstring JNICALL Java_king_flow_control_driver_HISCardConductor_withdrawCard
+  (JNIEnv *, jobject, jstring);
+
 #ifdef __cplusplus
 }
 #endif
