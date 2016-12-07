@@ -35,6 +35,7 @@ import king.flow.view.Component;
 import king.flow.view.UiStyle;
 import king.flow.view.Window;
 import static king.flow.common.CommonUtil.swipeGzICCard;
+import king.flow.control.driver.CashConductor;
 import king.flow.control.driver.HISCardConductor;
 import king.flow.control.driver.PIDCardConductor;
 import king.flow.control.driver.PatientCardConductor;
@@ -56,15 +57,18 @@ public class InsertCardAction extends DefaultBaseAction {
     private final String animationFile;
     private final ArrayList<Integer> successfulDisplay;
     private final ArrayList<Integer> failedDisplay;
+    private final List<String> parameters;
 
     public InsertCardAction(DeviceEnum cardType,
             InsertICardAction.NextStep successfulPage,
             InsertICardAction.Exception failedPage,
-            String animation) {
+            String animation,
+            List<String> parameters) {
         this.cardType = (cardType == null ? DeviceEnum.UNKNOWN : cardType);
         this.successfulPage = successfulPage;
         this.failedPage = failedPage;
         this.animationFile = animation;
+        this.parameters = parameters;
         ArrayList<String> displayList = CommonUtil.buildListParameters(successfulPage.getDisplay());
         successfulDisplay = new ArrayList<>();
         for (String id : displayList) {
@@ -99,6 +103,9 @@ public class InsertCardAction extends DefaultBaseAction {
                         break;
                     case PATIENT_CARD:
                         progressTip = new JLabel(getResourceMsg(PatientCardConductor.HIS_CARD_INSERT_PROMPT));
+                        break;
+                    case CASH_SAVER:
+                        progressTip = new JLabel(getResourceMsg(CashConductor.CASH_INSERT_PROMPT));
                         break;
                     default:
                         progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
@@ -137,6 +144,9 @@ public class InsertCardAction extends DefaultBaseAction {
                         break;
                     case PATIENT_CARD:
                         waitCommunicationTask(new HISReadCardTask(), progressAnimation);
+                        break;
+                    case CASH_SAVER:
+                        waitCommunicationTask(new CashDepositeTask(), progressAnimation);
                         break;
                     default:
                         getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
@@ -177,6 +187,86 @@ public class InsertCardAction extends DefaultBaseAction {
         showOnComponent(failedDisplay.get(0),
                 errPrompt == null ? getResourceMsg(OPERATION_CARD_READ_ERROR) : errPrompt);
         panelJump(failedPage.getNextPanel());
+    }
+
+    private class CashDepositeTask extends SwingWorker<String, String> {
+
+        @Override
+        protected String doInBackground() throws Exception {
+            try {
+                List<String> debug = successfulPage.getDebug();
+
+                if (debug.isEmpty()) {
+                    Thread.sleep(CommonConstants.RUN_MODE_PROGRESS_TIME);
+
+                    String cardIndex = parameters.get(0);
+                    String cardId = null;
+                    Object meta = getBlockMeta(Integer.parseInt(cardIndex));
+                    if (!(meta instanceof Component)) {
+                        throw new Exception("No Correct Card Number Component set in parameters attribute");
+                    }
+                    final Component componentMeta = (Component) meta;
+                    switch (componentMeta.getType()) {
+                        case LABEL:
+                            JLabel label = getBlock(componentMeta.getId(), JLabel.class);
+                            cardId = label.getText();
+                            break;
+                        case TEXT_FIELD:
+                            JTextField textField = getBlock(componentMeta.getId(), JTextField.class);
+                            cardId = textField.getText();
+                            break;
+                        case COMBO_BOX:
+                            JComboBox combobox = getBlock(componentMeta.getId(), JComboBox.class);
+                            cardId = combobox.getEditor().getItem().toString();
+                            break;
+                        default:
+                            throw new Exception("No Valid Card Number Component set in parameters attribute");
+                    }
+
+                    String cardInfo = CommonUtil.depositeCash(cardId);// driver will blocking thread and wait IC card information return
+                    if (cardInfo == null || cardInfo.length() == 0) {
+                        //fail to read card information
+                        throw new Exception(CashConductor.CASH_DEPOSITE_ERROR_PROMPT);
+                    }
+
+                    getLogger(InsertCardAction.class.getName()).log(Level.INFO,
+                            "Reading information from ID card:\n{0}", cardInfo);
+                    JsonParser jsonParser = new JsonParser();
+                    JsonObject element = jsonParser.parse(cardInfo).asObject();
+
+                    List<String> displayValues = new ArrayList<>(element.size());
+                    for (JsonElement value : element.values()) {
+                        displayValues.add(value.toString());
+                    }
+                    int len = Math.min(displayValues.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), displayValues.get(i));
+                    }
+                } else {
+                    //debug mode
+                    Thread.sleep(CommonConstants.DEBUG_MODE_PROGRESS_TIME);
+                    int len = Math.min(debug.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), debug.get(i));
+                    }
+                }
+
+                Integer trigger = successfulPage.getTrigger();
+                if (trigger == null) {
+                    panelJump(successfulPage.getNextPanel());
+                } else {
+                    getBlock(trigger, JButton.class).doClick();
+                }
+                return "Success";
+            } catch (Throwable t) {
+                getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
+                        "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
+                String errPrompt = getResourceMsg(t.getMessage());
+                handleErr(errPrompt);
+                throw new Exception(t);
+            }
+        }
+
     }
 
     private class HISReadCardTask extends SwingWorker<String, String> {

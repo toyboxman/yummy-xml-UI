@@ -49,6 +49,9 @@ public class EjectCardAction extends DefaultBaseAction {
                 case HIS_CARD:
                     CommonUtil.ejectHISCard();
                     break;
+                case CASH_SAVER:
+                    CommonUtil.closeCashSaver();
+                    break;
                 default:
                     getLogger(EjectCardTask.class.getName()).log(Level.WARNING,
                         "Unsupported ejected IC card type : {0}", type.value());

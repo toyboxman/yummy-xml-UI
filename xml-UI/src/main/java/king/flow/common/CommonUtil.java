@@ -59,6 +59,7 @@ import static king.flow.common.CommonConstants.WATCHDOG_CHECK_INTERVAL;
 import static king.flow.common.CommonConstants.XML_NODE_PREFIX;
 import static king.flow.common.CommonUtil.AppType.TERMINAL;
 import king.flow.control.MainWindow;
+import king.flow.control.driver.CashConductor;
 import king.flow.control.driver.FingerPrintDrive;
 import king.flow.control.driver.GzCardConductor;
 import king.flow.control.driver.HISCardConductor;
@@ -95,6 +96,7 @@ import org.w3c.dom.DOMException;
 import static king.flow.data.TLSResult.UNIONPAY_CARD_INFO;
 import static king.flow.data.TLSResult.UNIONPAY_MAC_INFO;
 import king.flow.net.Transportation;
+import static king.flow.view.DeviceEnum.CASH_SAVER;
 import static king.flow.view.DeviceEnum.PATIENT_CARD;
 import static king.flow.view.DeviceEnum.HIS_CARD;
 import static king.flow.view.DeviceEnum.PID_CARD;
@@ -847,6 +849,38 @@ public class CommonUtil {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
                     new String[]{PATIENT_CARD.value(), t.getMessage()});
+        }
+        return cardInfo;
+    }
+
+    private static final CashConductor CASH_CONDUCTOR = new CashConductor();
+
+    public static String depositeCash(String cardId) {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(CASH_SAVER));
+            if (cardId == null) {
+                cardId = "";
+            }
+            cardInfo = CASH_CONDUCTOR.readCash(getDriverPort(CASH_SAVER), cardId);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{CASH_SAVER.value(), t.getMessage()});
+        }
+        return cardInfo;
+    }
+
+    public static String closeCashSaver() {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(CASH_SAVER));
+            String cardId = "";
+            cardInfo = CASH_CONDUCTOR.close(getDriverPort(CASH_SAVER), cardId);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{CASH_SAVER.value(), t.getMessage()});
         }
         return cardInfo;
     }

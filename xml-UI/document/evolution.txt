@@ -11,6 +11,45 @@ $文档格式格式如下：
 修改项3
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ************************************************************************************************************************
+2016.12.7
+************************************************************************************************************************
+1.给系统增加驱动集成，当前支持驱动类型包括
+<xs:enumeration  value="magnetCard"/>
+<xs:enumeration  value="ICCard"/>
+<xs:enumeration  value="sensorCard"/>
+<xs:enumeration  value="twoInOneCard"/>
+<xs:enumeration  value="printer"/>
+<xs:enumeration  value="keyboard"/>
+<xs:enumeration  value="gzCard"/>
+<xs:enumeration  value="PIDCard"/>
+<xs:enumeration  value="HISCard"/>
+<xs:enumeration  value="PatientCard"/>
+<xs:enumeration  value="CashSaver"/>  --- 纸币机器驱动
+<xs:enumeration  value="pkg8583"/>
+<xs:enumeration  value="Unknown"/>
+
+2.修改insertICardAction的配置，增加属性parameters
+<insertICardAction>
+    <cardType>CashSaver</cardType>
+    <nextStep>
+        <nextPanel>201501</nextPanel>
+        <display>20150421</display>
+        <debug>医疗卡序号-11111111</debug>
+        <trigger>2015043</trigger>
+    </nextStep>
+    <exception>
+        <nextPanel>201899</nextPanel>
+        <display>201896</display>
+    </exception>
+    <animationTip>/image/swipe.gif</animationTip>
+    <parameters>201899 201891 201892</parameters>  --允许调用时候指定从控件得到输入值,例如纸币存入需要指定卡号
+</insertICardAction>
+
+3.支持弹出操作关闭纸币器
+<ejectCardAction>
+    <cardType>CashSaver</cardType>   ---关闭机器
+</ejectCardAction>
+************************************************************************************************************************
 2016.12.5
 ************************************************************************************************************************
 1.给系统增加驱动集成，当前支持驱动类型包括
