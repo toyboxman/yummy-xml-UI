@@ -24,6 +24,7 @@ import java.util.concurrent.atomic.AtomicReference;
 import java.util.logging.Level;
 import javax.swing.JComponent;
 import javax.swing.JDialog;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import javax.swing.border.LineBorder;
@@ -132,6 +133,10 @@ public class JXGridPanel extends JXPanel {
         this.vgap = vgap;
     }
 
+    public void setGridElementBgColor(Color bgColor) {
+        BACKGROUND_COLOR = bgColor;
+    }
+
     public void setDataModel(JsonArray dataModel) {
         if (dataModel == null) {
             CommonUtil.getLogger(JXGridPanel.class.getName()).log(Level.WARNING,
@@ -156,9 +161,15 @@ public class JXGridPanel extends JXPanel {
             centralPanels.add(centralPanel);
             for (int j = i * maxDataCount; j < ((i + 1) * maxDataCount < dataModel.size() ? (i + 1) * maxDataCount : dataModel.size()); j++) {
                 JsonObject cell = dataModel.get(j).asObject();
-                final JXLabel cellElement = new JXLabel(cell.getString(DISPLAY_KEY));
-                cellElement.setOpaque(false);
-                GridElement<JXLabel> gridElement = new GridElement<>(cell, cellElement);
+                final JLabel cellElement = new JLabel(cell.getString(DISPLAY_KEY));
+                if (BACKGROUND_COLOR != null) {
+                    cellElement.setOpaque(true);
+                    cellElement.setBackground(BACKGROUND_COLOR);
+                } else {
+                    cellElement.setOpaque(false);
+                }
+
+                GridElement<JLabel> gridElement = new GridElement<>(cell, cellElement);
                 gridElement.insert(centralPanel);
             }
             int emptyCount = (i + 1) * maxDataCount - dataModel.size();
@@ -274,7 +285,8 @@ public class JXGridPanel extends JXPanel {
         }
     }
     private static final Color SELECTED_COLOR = Color.RED;
-    private static final int SELECTED_LINE_THICKNESS = 2;
+    private static final int SELECTED_LINE_THICKNESS = 5;
     private static final Color UNSELECTED_COLOR = Color.BLACK;
     private static final int UNSELECTED_LINE_THICKNESS = 1;
+    private static Color BACKGROUND_COLOR = null;
 }

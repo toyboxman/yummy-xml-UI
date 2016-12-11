@@ -386,6 +386,17 @@
                         <xs:element name="column" type="xs:int" maxOccurs="1" minOccurs="1"/>
                         <xs:element name="hgap" type="xs:int" maxOccurs="1" minOccurs="1"/>
                         <xs:element name="vgap" type="xs:int" maxOccurs="1" minOccurs="1"/>
+                        <xs:element name="misc" maxOccurs="1" minOccurs="0">
+                            <xs:complexType>
+                                <xs:all>
+                                    <xs:element name="bgColor" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                                    <xs:element name="selectedColor" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                                    <xs:element name="selectedThickness" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                                    <xs:element name="unselectedColor" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                                    <xs:element name="unselectedThickness" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                                </xs:all>
+                            </xs:complexType>
+                        </xs:element>
                     </xs:all>
                 </xs:complexType>
             </xs:element>
