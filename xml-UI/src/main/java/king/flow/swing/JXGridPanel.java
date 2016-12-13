@@ -188,7 +188,7 @@ public class JXGridPanel extends JXPanel {
 
     public String getValue() {
         if (choosenElement.get() != null) {
-            return choosenElement.get().getData().getString(ID_KEY);
+            return choosenElement.get().getData().toString();
         }
         return "";
     }
