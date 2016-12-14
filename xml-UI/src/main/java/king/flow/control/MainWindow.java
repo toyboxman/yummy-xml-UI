@@ -53,6 +53,7 @@ import king.flow.action.DefaultTableAction;
 import king.flow.action.DefaultTextFieldAction;
 import king.flow.action.DefaultMediaAction;
 import king.flow.action.DefaultMenuAction;
+import king.flow.action.DefaultNumericPadAction;
 import king.flow.action.DefaultPrinterAction;
 import king.flow.action.DefaultRunCommandAction;
 import king.flow.action.DefaultTipAction;
@@ -141,6 +142,8 @@ import king.flow.view.Action.ShowGridAction;
 import org.apache.commons.lang.StringEscapeUtils;
 import static king.flow.common.CommonConstants.EJECT_CARD_ACTION;
 import static king.flow.common.CommonConstants.WITHDRAW_CARD_ACTION;
+import king.flow.swing.JXNumericPad;
+import king.flow.view.Action.NumericPadAction;
 
 /**
  *
@@ -433,7 +436,7 @@ public class MainWindow {
             validateSwipe2In1CardAction(action.getSwipe2In1CardAction(), component, panel, pageURI);
 
             validateEjectCardAction(action.getEjectCardAction(), component, panel, pageURI);
-            
+
             validateWithdrawCardAction(action.getWithdrawCardAction(), component, panel, pageURI);
 
             validatePrintPassbookAction(action.getPrintPassbookAction(), component, panel, pageURI);
@@ -445,6 +448,16 @@ public class MainWindow {
             validateEncryptKeyboardAction(action.getEncryptKeyboardAction(), component, panel, pageURI);
 
             validateShowGridAction(action.getShowGridAction(), component, panel, pageURI);
+
+            validateTypeNumericPadAction(action.getNumericPadAction(), component, panel, pageURI);
+        }
+    }
+
+    private void validateTypeNumericPadAction(NumericPadAction typePadAction,
+            Component component, Panel panel, String pageURI) {
+        if (typePadAction != null) {
+            String actionName = typePadAction.getClass().getSimpleName();
+            checkSupportedAction(component, actionName, panel, pageURI);
         }
     }
 
@@ -822,7 +835,7 @@ public class MainWindow {
             checkSupportedAction(component, OPEN_BROWSER_ACTION, panel, pageURI);
         }
     }
-    
+
     private void validateSwipe2In1CardAction(king.flow.view.Action.Swipe2In1CardAction swipe2In1CardAction,
             Component component, Panel panel, String pageURI) {
         if (swipe2In1CardAction != null) {
@@ -836,7 +849,7 @@ public class MainWindow {
             checkSupportedAction(component, EJECT_CARD_ACTION, panel, pageURI);
         }
     }
-    
+
     private void validateWithdrawCardAction(king.flow.view.Action.WithdrawCardAction withdrawCardAction,
             Component component, Panel panel, String pageURI) {
         if (withdrawCardAction != null) {
@@ -1259,7 +1272,7 @@ public class MainWindow {
             doSwipe2In1CardAction(actionNode, component);
 
             doEjectCardAction(actionNode, component);
-            
+
             doWithdrawCardAction(actionNode, component);
 
             doPrintPassbookAction(actionNode, component);
@@ -1273,9 +1286,19 @@ public class MainWindow {
             doEncryptKeyboardAction(actionNode, component);
 
             doShowGridAction(actionNode, component);
+
+            doNumericPadAction(actionNode, component);
         }
     }
-    
+
+    private void doNumericPadAction(king.flow.view.Action actionNode, Component component) {
+        king.flow.view.Action.NumericPadAction numericPadAction = actionNode.getNumericPadAction();
+        if (numericPadAction != null) {
+            DefaultNumericPadAction padAction = new DefaultNumericPadAction(numericPadAction.getTargetId());
+            doAction(padAction, component.getId());
+        }
+    }
+
     private void doShowGridAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.ShowGridAction showGridAction = actionNode.getShowGridAction();
         if (showGridAction != null) {
@@ -1299,7 +1322,7 @@ public class MainWindow {
             doAction(ejectCard, component.getId());
         }
     }
-    
+
     private void doWithdrawCardAction(king.flow.view.Action actionNode, Component component) {
         king.flow.view.Action.WithdrawCardAction wca = actionNode.getWithdrawCardAction();
         if (wca != null) {
@@ -1891,6 +1914,10 @@ public class MainWindow {
             case GRID:
                 JXGridPanel gridPanel = new JXGridPanel();
                 jcomponent = gridPanel;
+                break;
+            case NUMERIC_PAD:
+                JXNumericPad numericPad = new JXNumericPad();
+                jcomponent = numericPad;
                 break;
             default:
                 final AssertionError configError = new AssertionError("Mistaken configuration type out of components : " + ctype.value());

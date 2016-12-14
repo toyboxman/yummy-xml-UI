@@ -22,6 +22,7 @@ import king.flow.view.Action.HideAction;
 import king.flow.view.Action.InsertICardAction;
 import king.flow.view.Action.LimitInputAction;
 import king.flow.view.Action.MoveCursorAction;
+import king.flow.view.Action.NumericPadAction;
 import king.flow.view.Action.OpenBrowserAction;
 import king.flow.view.Action.PlayMediaAction;
 import king.flow.view.Action.PlayVideoAction;
@@ -187,6 +188,7 @@ public class CommonConstants {
     public static final String CUSTOMIZED_ACTION = DefinedAction.class.getSimpleName();
     public static final String ENCRYPT_KEYBORAD_ACTION = EncryptKeyboardAction.class.getSimpleName();
     public static final String SHOW_GRID_ACTION = ShowGridAction.class.getSimpleName();
+    public static final String TYPE_NUMERIC_PAD_ACTION = NumericPadAction.class.getSimpleName();
     static final Map<ComponentEnum, List<String>> ACTION_COMPONENT_MAP = new ImmutableMap.Builder<ComponentEnum, List<String>>()
             .put(ComponentEnum.BUTTON, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)
@@ -264,6 +266,9 @@ public class CommonConstants {
                     .build())
             .put(ComponentEnum.GRID, new ImmutableList.Builder<String>()
                     .add(SHOW_GRID_ACTION)
+                    .build())
+            .put(ComponentEnum.NUMERIC_PAD, new ImmutableList.Builder<String>()
+                    .add(TYPE_NUMERIC_PAD_ACTION)
                     .build())
             .build();
 
