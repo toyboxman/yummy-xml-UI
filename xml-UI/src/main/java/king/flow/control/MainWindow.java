@@ -1,5 +1,6 @@
 package king.flow.control;
 
+import com.google.common.collect.ImmutableSet;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.GraphicsEnvironment;
@@ -144,6 +145,7 @@ import static king.flow.common.CommonConstants.EJECT_CARD_ACTION;
 import static king.flow.common.CommonConstants.WITHDRAW_CARD_ACTION;
 import king.flow.swing.JXNumericPad;
 import king.flow.view.Action.NumericPadAction;
+import static king.flow.view.ComponentEnum.TEXT_FIELD;
 
 /**
  *
@@ -457,7 +459,21 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (typePadAction != null) {
             String actionName = typePadAction.getClass().getSimpleName();
+            final String propertyName = "targetId";
             checkSupportedAction(component, actionName, panel, pageURI);
+            int targetId = typePadAction.getTargetId();
+
+            if (!this.meta_blocks.containsKey(targetId)) {
+                promptNonexistentBlockErr(targetId, actionName, propertyName, component, panel, pageURI, null);
+            }
+            checkComponentType(targetId, actionName, propertyName, component, panel, pageURI);
+            final ComponentEnum type = ((Component) this.meta_blocks.get(targetId)).getType();
+            if (type != ComponentEnum.TEXT_FIELD) {
+                String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s]",
+                        type, ComponentEnum.TEXT_FIELD);
+                promptMistakenTypeBlockErr(targetId, actionName, propertyName,
+                        component, panel, pageURI, configErrMsgFooter);
+            }
         }
     }
 
@@ -712,12 +728,50 @@ public class MainWindow {
             checkSupportedAction(component, INSERT_IC_ACTION, panel, pageURI);
 
             //validate card type config
+            ImmutableSet<DeviceEnum> validTypeSet = new ImmutableSet.Builder<DeviceEnum>()
+                    .add(DeviceEnum.GZ_CARD)
+                    .add(DeviceEnum.CASH_SAVER)
+                    .add(DeviceEnum.HIS_CARD)
+                    .add(DeviceEnum.PID_CARD)
+                    .add(DeviceEnum.PATIENT_CARD)
+                    .build();
+            String typeTips = "";
+            for (DeviceEnum deviceType : validTypeSet) {
+                typeTips += deviceType.value() + "\n";
+            }
+            final String invalidTypeTip = "\n[cardType] configuration\n"
+                    + "valid type includes:\n["
+                    + typeTips + "]";
             if (insertICardAction.getCardType() == null) {
-                final String valid_type = "[cardType] configuration\n"
-                        + "valid type includes["
-                        + DeviceEnum.GZ_CARD.value()
-                        + "]";
-                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, valid_type);
+                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, invalidTypeTip);
+            } else if (!validTypeSet.contains(insertICardAction.getCardType())) {
+                promptMistakenTypeBlockErr(component.getId(), actionName, "cardType",
+                        component, panel, pageURI, invalidTypeTip);
+            }
+
+            if (insertICardAction.getCardType() == DeviceEnum.CASH_SAVER) {
+                List<String> parameters = insertICardAction.getParameters();
+                String propertyName = "parameters";
+                if (parameters.size() != 1) {
+                    String configErrMsgFooter = "[" + propertyName + "]" + " property \nfor " + DeviceEnum.CASH_SAVER.value();
+                    promptIncompleteActionBlockErr(actionName, component, panel, pageURI, configErrMsgFooter);
+                } else {
+                    int cardNumCompId = Integer.MIN_VALUE;
+                    try {
+                        cardNumCompId = Integer.parseInt(parameters.get(0));
+                    } catch (Exception e) {
+                        promptMistakenNumberBlockErr(parameters.get(0), actionName,
+                                propertyName, component, panel, pageURI, "");
+                    }
+                    checkComponentType(cardNumCompId, actionName, propertyName, component, panel, pageURI);
+                    final ComponentEnum type = ((Component) this.meta_blocks.get(cardNumCompId)).getType();
+                    if (type != ComponentEnum.TEXT_FIELD) {
+                        String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s]",
+                                type, ComponentEnum.TEXT_FIELD);
+                        promptMistakenTypeBlockErr(cardNumCompId, actionName, propertyName,
+                                component, panel, pageURI, configErrMsgFooter);
+                    }
+                }
             }
 
             //validate successful path parameter config
@@ -1116,6 +1170,35 @@ public class MainWindow {
         }
     }
 
+    private void checkNextCursorParameter(Integer nextCursor, final String actionName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        String propertyName = "nextCursor";
+        if (nextCursor != null) {
+            if (!this.meta_blocks.containsKey(nextCursor)) {
+                promptNonexistentBlockErr(nextCursor, actionName, propertyName, component, panel, pageURI, null);
+            }
+            checkComponentType(nextCursor, actionName, propertyName, component, panel, pageURI);
+        }
+    }
+
+    private void checkNextTriggerParameter(Integer nextTrigger, final String actionName,
+            Component component, Panel panel, String pageURI) throws HeadlessException {
+        String propertyName = "trigger";
+        if (nextTrigger != null) {
+            if (!this.meta_blocks.containsKey(nextTrigger)) {
+                promptNonexistentBlockErr(nextTrigger, actionName, propertyName, component, panel, pageURI, null);
+            }
+            checkTriggerType(nextTrigger, actionName, propertyName, component, panel, pageURI);
+        }
+    }
+
+    private void checkSupportedAction(Component component, final String actionName,
+            Panel panel, String pageURI) throws HeadlessException {
+        if (!isActionSupport(component, actionName)) {
+            promptUnsupportedActionBlockErr(actionName, component, panel, pageURI, null);
+        }
+    }
+
     private void promptNonexistentBlockErr(int blockId, String actionName, String propertyName,
             Component component, Panel panel, String pageURI, String configErrMsgFooter) throws HeadlessException {
         String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
@@ -1189,35 +1272,6 @@ public class MainWindow {
                 .append("in ").append(pageURI).append('\n')
                 .append("mistakenly configures ");
         return configErrMsg;
-    }
-
-    private void checkNextCursorParameter(Integer nextCursor, final String actionName,
-            Component component, Panel panel, String pageURI) throws HeadlessException {
-        String propertyName = "nextCursor";
-        if (nextCursor != null) {
-            if (!this.meta_blocks.containsKey(nextCursor)) {
-                promptNonexistentBlockErr(nextCursor, actionName, propertyName, component, panel, pageURI, null);
-            }
-            checkComponentType(nextCursor, actionName, propertyName, component, panel, pageURI);
-        }
-    }
-
-    private void checkNextTriggerParameter(Integer nextTrigger, final String actionName,
-            Component component, Panel panel, String pageURI) throws HeadlessException {
-        String propertyName = "trigger";
-        if (nextTrigger != null) {
-            if (!this.meta_blocks.containsKey(nextTrigger)) {
-                promptNonexistentBlockErr(nextTrigger, actionName, propertyName, component, panel, pageURI, null);
-            }
-            checkTriggerType(nextTrigger, actionName, propertyName, component, panel, pageURI);
-        }
-    }
-
-    private void checkSupportedAction(Component component, final String actionName,
-            Panel panel, String pageURI) throws HeadlessException {
-        if (!isActionSupport(component, actionName)) {
-            promptUnsupportedActionBlockErr(actionName, component, panel, pageURI, null);
-        }
     }
 
     private void setupAction(Component component, Panel parentContainer) {

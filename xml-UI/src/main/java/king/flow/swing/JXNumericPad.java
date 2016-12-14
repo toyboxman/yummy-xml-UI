@@ -19,7 +19,10 @@ import javax.swing.JTextField;
  */
 public class JXNumericPad extends JPanel {
 
-    private static final String[] PAD_LAYOUT = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "", "0", "X"};
+    private static final String DEL = "X";
+    private static final String EMPTY = "";
+
+    private static final String[] PAD_LAYOUT = {"1", "2", "3", "4", "5", "6", "7", "8", "9", EMPTY, "0", DEL};
     private JTextField target;
 
     public JXNumericPad() {
@@ -28,6 +31,7 @@ public class JXNumericPad extends JPanel {
 
     private void init() {
         setLayout(new GridLayout(4, 3));
+        setOpaque(false);
         for (String value : PAD_LAYOUT) {
             final JButton button = new JButton(value);
             button.setActionCommand(value);
@@ -39,12 +43,12 @@ public class JXNumericPad extends JPanel {
                 String inputValue = e.getActionCommand();
                 StringBuilder text = new StringBuilder(target.getText());
                 switch (inputValue) {
-                    case "X":
+                    case DEL:
                         if (text.length() > 0) {
                             text.deleteCharAt(text.length() - 1);
                         }
                         break;
-                    case "":
+                    case EMPTY:
                         break;
                     default:
                         text.append(inputValue);
