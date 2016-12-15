@@ -19,7 +19,7 @@ import javax.swing.JTextField;
  */
 public class JXNumericPad extends JPanel {
 
-    private static final String DEL = "X";
+    private static final String DEL = "<html><h1 style=\"font-size:180%;color:black\">&#8592;</h1></html>";
     private static final String EMPTY = "";
 
     private static final String[] PAD_LAYOUT = {"1", "2", "3", "4", "5", "6", "7", "8", "9", EMPTY, "0", DEL};
