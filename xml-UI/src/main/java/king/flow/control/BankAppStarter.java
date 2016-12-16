@@ -66,7 +66,6 @@ import static king.flow.common.CommonUtil.setKeyboardStatus;
 import static king.flow.common.CommonUtil.setTerminalStatus;
 import static king.flow.common.CommonUtil.startWatchDog;
 import king.flow.control.agent.OpenShellMXBean;
-import king.flow.control.agent.OpenShell;
 import king.flow.control.deamon.CheckNumen;
 import king.flow.control.deamon.NumenMonitor;
 import king.flow.design.FlowProcessor;
@@ -118,7 +117,7 @@ public class BankAppStarter {
                     new Object[]{CommonConstants.APP_JMX_RMI_URL, e.getMessage()});
             System.exit(CommonConstants.ABNORMAL);
         }
-        
+
         String property = System.getProperty(UI_BUILD_SCHEME, DEFAULT_WINDOW_XML);
         switch (property) {
             case DEFAULT_WINDOW_XML:
@@ -147,11 +146,17 @@ public class BankAppStarter {
             if (driver != null) {
                 List<Driver.Device> device = driver.getDevice();
                 for (Driver.Device d : device) {
+                    if (!CommonUtil.isDeviceSupport(d)) {
+                        String configErrMsg = String.format("There is Unkonwn Device type in %s\nValid devices only include\n%s",
+                                property, CommonUtil.showValidDeviceInfo());
+                        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+                    }
                     saveDriverConf(d.getType(), new String[]{d.getDll(), d.getPort()});
                 }
             }
         } catch (JAXBException ex) {
-            getLogger(BankAppStarter.class.getName()).log(Level.SEVERE, null, ex);
+            getLogger(BankAppStarter.class.getName()).log(Level.SEVERE,
+                    "Window Configuration hits error :\n{0} ", ex.getMessage());
             System.exit(1);
         }
 
@@ -203,7 +208,7 @@ public class BankAppStarter {
             Logger.getLogger(BankAppStarter.class.getName()).log(Level.WARNING,
                     "fail to load OpenShell Plugin due to :\n{0}", ex.getMessage());
         }
-        
+
         //check if deamon is alive and version is matched
         JMXConnector jmxc = null;
         try {

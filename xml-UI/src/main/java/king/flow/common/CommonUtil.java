@@ -29,6 +29,7 @@ import java.util.Random;
 import java.util.ResourceBundle;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.StringJoiner;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
@@ -101,6 +102,7 @@ import static king.flow.view.DeviceEnum.PATIENT_CARD;
 import static king.flow.view.DeviceEnum.HIS_CARD;
 import static king.flow.view.DeviceEnum.PID_CARD;
 import static king.flow.view.DeviceEnum.PKG_8583;
+import king.flow.view.Driver;
 
 /**
  *
@@ -1485,6 +1487,18 @@ public class CommonUtil {
     public static boolean isActionSupport(Component component, String actionName) {
         return CommonConstants.ACTION_COMPONENT_MAP.get(component.getType()) == null
                 ? false : CommonConstants.ACTION_COMPONENT_MAP.get(component.getType()).contains(actionName);
+    }
+
+    public static boolean isDeviceSupport(Driver.Device device) {
+        return device == null ? false : CommonConstants.SUPPORTED_DEVICES.contains(device.getType());
+    }
+
+    public static String showValidDeviceInfo() {
+        StringJoiner joiner = new StringJoiner(",\n", "[", "]");
+        for (DeviceEnum device : CommonConstants.SUPPORTED_DEVICES) {
+            joiner.add(device.value());
+        }
+        return joiner.toString();
     }
 
     static List<String> bankCardPrefix = null;

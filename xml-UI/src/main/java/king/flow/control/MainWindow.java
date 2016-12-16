@@ -1,5 +1,6 @@
 package king.flow.control;
 
+import com.google.common.base.Joiner;
 import com.google.common.collect.ImmutableSet;
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -735,12 +736,8 @@ public class MainWindow {
                     .add(DeviceEnum.PID_CARD)
                     .add(DeviceEnum.PATIENT_CARD)
                     .build();
-            String typeTips = "";
-            for (DeviceEnum deviceType : validTypeSet) {
-                typeTips += deviceType.value() + "\n";
-            }
-            final String invalidTypeTip = "\n[cardType] configuration\n"
-                    + "valid type includes:\n["
+            String typeTips = Joiner.on(",\n").join(validTypeSet);
+            final String invalidTypeTip = "\nvalid type includes:\n["
                     + typeTips + "]";
             if (insertICardAction.getCardType() == null) {
                 promptIncompleteActionBlockErr(actionName, component, panel, pageURI, invalidTypeTip);

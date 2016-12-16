@@ -7,6 +7,7 @@ package king.flow.common;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.ImmutableSet;
 import java.io.File;
 import java.nio.charset.Charset;
 import java.util.List;
@@ -42,6 +43,7 @@ import king.flow.view.Action.VirtualKeyboardAction;
 import king.flow.view.Action.WriteICardAction;
 import king.flow.view.ComponentEnum;
 import king.flow.view.DefinedAction;
+import king.flow.view.DeviceEnum;
 import king.flow.view.JumpAction;
 import king.flow.view.MsgSendAction;
 
@@ -156,6 +158,22 @@ public class CommonConstants {
     /* card affiliation type */
     public static final String CARD_AFFILIATION_INTERNAL = "1";
     public static final String CARD_AFFILIATION_EXTERNAL = "2";
+
+    /* supported driver types */
+    static final ImmutableSet<DeviceEnum> SUPPORTED_DEVICES = new ImmutableSet.Builder<DeviceEnum>()
+            .add(DeviceEnum.IC_CARD)
+            .add(DeviceEnum.CASH_SAVER)
+            .add(DeviceEnum.GZ_CARD)
+            .add(DeviceEnum.HIS_CARD)
+            .add(DeviceEnum.KEYBOARD)
+            .add(DeviceEnum.MAGNET_CARD)
+            .add(DeviceEnum.PATIENT_CARD)
+            .add(DeviceEnum.PID_CARD)
+            .add(DeviceEnum.PKG_8583)
+            .add(DeviceEnum.PRINTER)
+            .add(DeviceEnum.SENSOR_CARD)
+            .add(DeviceEnum.TWO_IN_ONE_CARD)
+            .build();
 
     /* action-component relationship map */
     public static final String JUMP_ACTION = JumpAction.class.getSimpleName();
