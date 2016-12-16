@@ -15,6 +15,7 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 import king.flow.action.business.ShowClockAction;
 import king.flow.data.TLSResult;
+import king.flow.view.Action;
 import king.flow.view.Action.CleanAction;
 import king.flow.view.Action.EjectCardAction;
 import king.flow.view.Action.WithdrawCardAction;
@@ -207,6 +208,7 @@ public class CommonConstants {
     public static final String ENCRYPT_KEYBORAD_ACTION = EncryptKeyboardAction.class.getSimpleName();
     public static final String SHOW_GRID_ACTION = ShowGridAction.class.getSimpleName();
     public static final String TYPE_NUMERIC_PAD_ACTION = NumericPadAction.class.getSimpleName();
+    public static final String WEB_LOAD_ACTION = Action.WebLoadAction.class.getSimpleName();
     static final Map<ComponentEnum, List<String>> ACTION_COMPONENT_MAP = new ImmutableMap.Builder<ComponentEnum, List<String>>()
             .put(ComponentEnum.BUTTON, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)
@@ -229,6 +231,7 @@ public class CommonConstants {
                     .add(BALANCE_TRANS_ACTION)
                     .add(EJECT_CARD_ACTION)
                     .add(WITHDRAW_CARD_ACTION)
+                    .add(WEB_LOAD_ACTION)
                     .build())
             .put(ComponentEnum.COMBO_BOX, new ImmutableList.Builder<String>()
                     .add(CUSTOMIZED_ACTION)

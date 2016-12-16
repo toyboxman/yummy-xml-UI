@@ -143,6 +143,15 @@ import king.flow.swing.JXGridPanel;
 import king.flow.view.Action.ShowGridAction;
 import org.apache.commons.lang.StringEscapeUtils;
 import static king.flow.common.CommonConstants.EJECT_CARD_ACTION;
+import static king.flow.common.CommonConstants.ENCRYPT_KEYBORAD_ACTION;
+import static king.flow.common.CommonConstants.HIDE_ACTION;
+import static king.flow.common.CommonConstants.JUMP_ACTION;
+import static king.flow.common.CommonConstants.MOVE_CURSOR_ACTION;
+import static king.flow.common.CommonConstants.SEND_MSG_ACTION;
+import static king.flow.common.CommonConstants.SHOW_COMBOBOX_ACTION;
+import static king.flow.common.CommonConstants.SHOW_GRID_ACTION;
+import static king.flow.common.CommonConstants.TYPE_NUMERIC_PAD_ACTION;
+import static king.flow.common.CommonConstants.WEB_LOAD_ACTION;
 import static king.flow.common.CommonConstants.WITHDRAW_CARD_ACTION;
 import king.flow.swing.JXNumericPad;
 import king.flow.view.Action.NumericPadAction;
@@ -459,20 +468,19 @@ public class MainWindow {
     private void validateTypeNumericPadAction(NumericPadAction typePadAction,
             Component component, Panel panel, String pageURI) {
         if (typePadAction != null) {
-            String actionName = typePadAction.getClass().getSimpleName();
             final String propertyName = "targetId";
-            checkSupportedAction(component, actionName, panel, pageURI);
+            checkSupportedAction(component, TYPE_NUMERIC_PAD_ACTION, panel, pageURI);
             int targetId = typePadAction.getTargetId();
 
             if (!this.meta_blocks.containsKey(targetId)) {
-                promptNonexistentBlockErr(targetId, actionName, propertyName, component, panel, pageURI, null);
+                promptNonexistentBlockErr(targetId, TYPE_NUMERIC_PAD_ACTION, propertyName, component, panel, pageURI, null);
             }
-            checkComponentType(targetId, actionName, propertyName, component, panel, pageURI);
+            checkComponentType(targetId, TYPE_NUMERIC_PAD_ACTION, propertyName, component, panel, pageURI);
             final ComponentEnum type = ((Component) this.meta_blocks.get(targetId)).getType();
             if (type != ComponentEnum.TEXT_FIELD) {
                 String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s]",
                         type, ComponentEnum.TEXT_FIELD);
-                promptMistakenTypeBlockErr(targetId, actionName, propertyName,
+                promptMistakenTypeBlockErr(targetId, TYPE_NUMERIC_PAD_ACTION, propertyName,
                         component, panel, pageURI, configErrMsgFooter);
             }
         }
@@ -481,52 +489,58 @@ public class MainWindow {
     private void validateShowGridAction(ShowGridAction showGridAction,
             Component component, Panel panel, String pageURI) {
         if (showGridAction != null) {
-            final String actionName = showGridAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
+            checkSupportedAction(component, SHOW_GRID_ACTION, panel, pageURI);
         }
     }
 
     private void validateJumpAction(JumpAction jumpPanelAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (jumpPanelAction != null) {
-            final String actionName = jumpPanelAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
+            checkSupportedAction(component, JUMP_ACTION, panel, pageURI);
             String propertyName = "nextPanel";
-            checkNextPanelParameter(jumpPanelAction.getNextPanel(), actionName,
+            checkNextPanelParameter(jumpPanelAction.getNextPanel(), JUMP_ACTION,
                     propertyName, component, panel, pageURI);
-            checkNextCursorParameter(jumpPanelAction.getNextCursor(), actionName, component, panel, pageURI);
-            checkNextTriggerParameter(jumpPanelAction.getTrigger(), actionName, component, panel, pageURI);
+            checkNextCursorParameter(jumpPanelAction.getNextCursor(), JUMP_ACTION, component, panel, pageURI);
+            checkNextTriggerParameter(jumpPanelAction.getTrigger(), JUMP_ACTION, component, panel, pageURI);
         }
     }
 
     private void validateEncryptKeyboardAction(king.flow.view.Action.EncryptKeyboardAction encryptKeyboardAction,
             Component component, Panel panel, String pageURI) {
         if (encryptKeyboardAction != null) {
-            final String actionName = encryptKeyboardAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
+            checkSupportedAction(component, ENCRYPT_KEYBORAD_ACTION, panel, pageURI);
 
             int moneyId = encryptKeyboardAction.getMoneyId();
+            final String moneyIdProperty = "moneyId";
             if (!this.meta_blocks.containsKey(moneyId)) {
-                promptNonexistentBlockErr(moneyId, actionName, "moneyId", component, panel, pageURI, null);
+                promptNonexistentBlockErr(moneyId, ENCRYPT_KEYBORAD_ACTION,
+                        moneyIdProperty, component, panel, pageURI, null);
             } else {
-                checkComponentType(moneyId, actionName, "moneyId", component, panel, pageURI);
+                checkComponentType(moneyId, ENCRYPT_KEYBORAD_ACTION,
+                        moneyIdProperty, component, panel, pageURI);
             }
 
             Integer nextTrigger = encryptKeyboardAction.getNextTrigger();
+            final String nextTriggerProperty = "nextTrigger";
             if (nextTrigger != null) {
                 if (!this.meta_blocks.containsKey(nextTrigger)) {
-                    promptNonexistentBlockErr(nextTrigger, actionName, "nextTrigger", component, panel, pageURI, null);
+                    promptNonexistentBlockErr(nextTrigger, ENCRYPT_KEYBORAD_ACTION,
+                            nextTriggerProperty, component, panel, pageURI, null);
                 } else {
-                    checkComponentType(nextTrigger, actionName, "nextTrigger", component, panel, pageURI);
+                    checkComponentType(nextTrigger, ENCRYPT_KEYBORAD_ACTION,
+                            nextTriggerProperty, component, panel, pageURI);
                 }
             }
 
             Integer cancelTrigger = encryptKeyboardAction.getCancelTrigger();
+            final String cancelTriggerProperty = "cancelTrigger";
             if (cancelTrigger != null) {
                 if (!this.meta_blocks.containsKey(cancelTrigger)) {
-                    promptNonexistentBlockErr(cancelTrigger, actionName, "cancelTrigger", component, panel, pageURI, null);
+                    promptNonexistentBlockErr(cancelTrigger, ENCRYPT_KEYBORAD_ACTION,
+                            cancelTriggerProperty, component, panel, pageURI, null);
                 } else {
-                    checkComponentType(cancelTrigger, actionName, "cancelTrigger", component, panel, pageURI);
+                    checkComponentType(cancelTrigger, ENCRYPT_KEYBORAD_ACTION,
+                            cancelTriggerProperty, component, panel, pageURI);
                 }
             }
         }
@@ -536,12 +550,14 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (definedActions != null && !definedActions.isEmpty()) {
             for (DefinedAction definedAction : definedActions) {
-                String className = (definedAction.getClassName() == null || definedAction.getClassName().isEmpty()) ? "[empty name]" : definedAction.getClassName();
+                String className = (definedAction.getClassName() == null || definedAction.getClassName().isEmpty())
+                        ? "[empty name]" : definedAction.getClassName();
                 try {
                     Class.forName(className);
                 } catch (ClassNotFoundException ex) {
                     String configErrMsgFooter = "\nCannot load " + className;
-                    promptUnfoundClassBlockErr(component.getId(), "customizedAction", "className", component, panel, pageURI, configErrMsgFooter);
+                    promptUnfoundClassBlockErr(component.getId(), "customizedAction",
+                            "className", component, panel, pageURI, configErrMsgFooter);
                 }
             }
         }
@@ -550,12 +566,12 @@ public class MainWindow {
     private void validateShowComboBoxAction(king.flow.view.Action.ShowComboBoxAction showComboBoxAction,
             Component component, Panel panel, String pageURI) {
         if (showComboBoxAction != null) {
-            final String actionName = showComboBoxAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
+            checkSupportedAction(component, SHOW_COMBOBOX_ACTION, panel, pageURI);
             String items = showComboBoxAction.getItems();
             if (items == null || !items.matches(CommonConstants.COMBOBOX_ITEMS_PROPERTY_PATTERN)) {
                 String configErrMsgFooter = "\nCorrect format is [key/value, ... ,key/value]";
-                promptMistakenFormatBlockErr(component.getId(), actionName, "items", component, panel, pageURI, configErrMsgFooter);
+                promptMistakenFormatBlockErr(component.getId(), SHOW_COMBOBOX_ACTION,
+                        "items", component, panel, pageURI, configErrMsgFooter);
             }
         }
     }
@@ -563,21 +579,26 @@ public class MainWindow {
     private void validateMoveCursorAction(king.flow.view.Action.MoveCursorAction moveCursorAction,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (moveCursorAction != null) {
-            String actionName = moveCursorAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
+            checkSupportedAction(component, MOVE_CURSOR_ACTION, panel, pageURI);
             int upCursor = moveCursorAction.getUpCursor();
             int downCursor = moveCursorAction.getDownCursor();
 
+            final String upCursorProperty = "upCursor";
             if (!this.meta_blocks.containsKey(upCursor)) {
-                promptNonexistentBlockErr(upCursor, actionName, "upCursor", component, panel, pageURI, null);
+                promptNonexistentBlockErr(upCursor, MOVE_CURSOR_ACTION,
+                        upCursorProperty, component, panel, pageURI, null);
             } else {
-                checkReachableBlock(upCursor, actionName, "upCursor", component, panel, pageURI);
+                checkReachableBlock(upCursor, MOVE_CURSOR_ACTION,
+                        upCursorProperty, component, panel, pageURI);
             }
-
+            
+            final String downCursorProperty = "downCursor";
             if (!this.meta_blocks.containsKey(downCursor)) {
-                promptNonexistentBlockErr(downCursor, moveCursorAction.getClass().getSimpleName(), "downCursor", component, panel, pageURI, null);
+                promptNonexistentBlockErr(downCursor, MOVE_CURSOR_ACTION,
+                        downCursorProperty, component, panel, pageURI, null);
             } else {
-                checkReachableBlock(upCursor, actionName, "downCursor", component, panel, pageURI);
+                checkReachableBlock(upCursor, MOVE_CURSOR_ACTION,
+                        downCursorProperty, component, panel, pageURI);
             }
         }
     }
@@ -585,65 +606,64 @@ public class MainWindow {
     private void validateSendMsgAction(MsgSendAction sendMsgAction,
             Component component, Panel panel, String pageURI) throws HeadlessException {
         if (sendMsgAction != null) {
-            final String actionName = sendMsgAction.getClass().getSimpleName();
-            checkSupportedAction(component, actionName, panel, pageURI);
+            checkSupportedAction(component, SEND_MSG_ACTION, panel, pageURI);
             //validate parameter config concerning data collection from components 
-            checkConditionsParameter(sendMsgAction.getConditions(), actionName, "conditions",
+            checkConditionsParameter(sendMsgAction.getConditions(), SEND_MSG_ACTION, "conditions",
                     component, panel, pageURI);
 
             //validate successful path parameter config
             if (sendMsgAction.getNextStep() != null) {
                 final String nextStepPropertyName = sendMsgAction.getNextStep().getClass().getSimpleName();
-                checkNextPanelParameter(sendMsgAction.getNextStep().getNextPanel(), actionName, nextStepPropertyName,
+                checkNextPanelParameter(sendMsgAction.getNextStep().getNextPanel(), SEND_MSG_ACTION, nextStepPropertyName,
                         component, panel, pageURI);
 
                 ArrayList<String> displayParameters = buildListParameters(sendMsgAction.getNextStep().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
                         int id = Integer.parseInt(displayId);
-                        checkDisplayParameter(id, actionName, nextStepPropertyName, component, panel, pageURI);
-                        checkComponentType(id, actionName, nextStepPropertyName, component, panel, pageURI);
+                        checkDisplayParameter(id, SEND_MSG_ACTION, nextStepPropertyName, component, panel, pageURI);
+                        checkComponentType(id, SEND_MSG_ACTION, nextStepPropertyName, component, panel, pageURI);
                     } catch (Exception e) {
-                        promptMistakenNumberBlockErr(displayId, actionName, nextStepPropertyName,
+                        promptMistakenNumberBlockErr(displayId, SEND_MSG_ACTION, nextStepPropertyName,
                                 component, panel, pageURI, null);
                     }
                 }
 
                 checkNextCursorParameter(sendMsgAction.getNextStep().getNextCursor(),
-                        actionName, component, panel, pageURI);
+                        SEND_MSG_ACTION, component, panel, pageURI);
                 checkNextTriggerParameter(sendMsgAction.getNextStep().getTrigger(),
-                        actionName, component, panel, pageURI);
+                        SEND_MSG_ACTION, component, panel, pageURI);
             } else {
                 //successful next step must be set
-                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[nextStep]");
+                promptIncompleteActionBlockErr(SEND_MSG_ACTION, component, panel, pageURI, "[nextStep]");
             }
 
             //validate exceptional path parameter config
             if (sendMsgAction.getException() != null) {
                 final String exceptionPropertyName = sendMsgAction.getException().getClass().getSimpleName();
-                checkNextPanelParameter(sendMsgAction.getException().getNextPanel(), actionName, exceptionPropertyName,
+                checkNextPanelParameter(sendMsgAction.getException().getNextPanel(), SEND_MSG_ACTION, exceptionPropertyName,
                         component, panel, pageURI);
 
                 ArrayList<String> displayParameters = buildListParameters(sendMsgAction.getException().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
                         int id = Integer.parseInt(displayId);
-                        checkDisplayParameter(id, actionName, exceptionPropertyName, component, panel, pageURI);
-                        checkComponentType(id, actionName, exceptionPropertyName, component, panel, pageURI);
+                        checkDisplayParameter(id, SEND_MSG_ACTION, exceptionPropertyName, component, panel, pageURI);
+                        checkComponentType(id, SEND_MSG_ACTION, exceptionPropertyName, component, panel, pageURI);
                     } catch (Exception e) {
-                        promptMistakenNumberBlockErr(displayId, actionName, exceptionPropertyName,
+                        promptMistakenNumberBlockErr(displayId, SEND_MSG_ACTION, exceptionPropertyName,
                                 component, panel, pageURI, null);
                     }
                 }
             } else {
                 //exception next step must be set
-                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[exception]");
+                promptIncompleteActionBlockErr(SEND_MSG_ACTION, component, panel, pageURI, "[exception]");
             }
 
             //validate rules path parameter config
             if (sendMsgAction.getCheckRules() != null) {
                 final String checkRulesPropertyName = sendMsgAction.getCheckRules().getClass().getSimpleName();
-                checkRulesParameter(sendMsgAction.getCheckRules(), actionName,
+                checkRulesParameter(sendMsgAction.getCheckRules(), SEND_MSG_ACTION,
                         checkRulesPropertyName, component, panel, pageURI);
             }
         }
@@ -653,12 +673,11 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (setFontAction != null) {
             checkSupportedAction(component, SET_FONT_ACTION, panel, pageURI);
-            final String actionName = setFontAction.getClass().getSimpleName();
             final String correctionTips = "\ncorrect value should be like [255,255,0]";
             if (setFontAction.getFontColor() != null) {
                 Color fontColor = CommonUtil.getTrueColor(setFontAction.getFontColor());
                 if (fontColor == null) {
-                    promptMistakenFormatBlockErr(component.getId(), actionName, "fontColor",
+                    promptMistakenFormatBlockErr(component.getId(), SET_FONT_ACTION, "fontColor",
                             component, panel, pageURI, correctionTips);
                 }
             }
@@ -666,7 +685,7 @@ public class MainWindow {
             if (setFontAction.getFontBgColor() != null) {
                 Color backgroundColor = CommonUtil.getTrueColor(setFontAction.getFontBgColor());
                 if (backgroundColor == null) {
-                    promptMistakenFormatBlockErr(component.getId(), actionName, "fontBgColor",
+                    promptMistakenFormatBlockErr(component.getId(), SET_FONT_ACTION, "fontBgColor",
                             component, panel, pageURI, correctionTips);
                 }
             }
@@ -725,24 +744,23 @@ public class MainWindow {
     private void validateInsertICardAction(king.flow.view.Action.InsertICardAction insertICardAction,
             Component component, Panel panel, String pageURI) {
         if (insertICardAction != null) {
-            final String actionName = insertICardAction.getClass().getSimpleName();
             checkSupportedAction(component, INSERT_IC_ACTION, panel, pageURI);
 
             //validate card type config
-            ImmutableSet<DeviceEnum> validTypeSet = new ImmutableSet.Builder<DeviceEnum>()
-                    .add(DeviceEnum.GZ_CARD)
-                    .add(DeviceEnum.CASH_SAVER)
-                    .add(DeviceEnum.HIS_CARD)
-                    .add(DeviceEnum.PID_CARD)
-                    .add(DeviceEnum.PATIENT_CARD)
+            ImmutableSet<String> validTypeSet = new ImmutableSet.Builder<String>()
+                    .add(DeviceEnum.GZ_CARD.value())
+                    .add(DeviceEnum.CASH_SAVER.value())
+                    .add(DeviceEnum.HIS_CARD.value())
+                    .add(DeviceEnum.PID_CARD.value())
+                    .add(DeviceEnum.PATIENT_CARD.value())
                     .build();
             String typeTips = Joiner.on(",\n").join(validTypeSet);
             final String invalidTypeTip = "\nvalid type includes:\n["
                     + typeTips + "]";
             if (insertICardAction.getCardType() == null) {
-                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, invalidTypeTip);
-            } else if (!validTypeSet.contains(insertICardAction.getCardType())) {
-                promptMistakenTypeBlockErr(component.getId(), actionName, "cardType",
+                promptIncompleteActionBlockErr(INSERT_IC_ACTION, component, panel, pageURI, invalidTypeTip);
+            } else if (!validTypeSet.contains(insertICardAction.getCardType().value())) {
+                promptMistakenTypeBlockErr(component.getId(), INSERT_IC_ACTION, "cardType",
                         component, panel, pageURI, invalidTypeTip);
             }
 
@@ -751,21 +769,21 @@ public class MainWindow {
                 String propertyName = "parameters";
                 if (parameters.size() != 1) {
                     String configErrMsgFooter = "[" + propertyName + "]" + " property \nfor " + DeviceEnum.CASH_SAVER.value();
-                    promptIncompleteActionBlockErr(actionName, component, panel, pageURI, configErrMsgFooter);
+                    promptIncompleteActionBlockErr(INSERT_IC_ACTION, component, panel, pageURI, configErrMsgFooter);
                 } else {
                     int cardNumCompId = Integer.MIN_VALUE;
                     try {
                         cardNumCompId = Integer.parseInt(parameters.get(0));
                     } catch (Exception e) {
-                        promptMistakenNumberBlockErr(parameters.get(0), actionName,
+                        promptMistakenNumberBlockErr(parameters.get(0), INSERT_IC_ACTION,
                                 propertyName, component, panel, pageURI, "");
                     }
-                    checkComponentType(cardNumCompId, actionName, propertyName, component, panel, pageURI);
+                    checkComponentType(cardNumCompId, INSERT_IC_ACTION, propertyName, component, panel, pageURI);
                     final ComponentEnum type = ((Component) this.meta_blocks.get(cardNumCompId)).getType();
                     if (type != ComponentEnum.TEXT_FIELD) {
                         String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s]",
                                 type, ComponentEnum.TEXT_FIELD);
-                        promptMistakenTypeBlockErr(cardNumCompId, actionName, propertyName,
+                        promptMistakenTypeBlockErr(cardNumCompId, INSERT_IC_ACTION, propertyName,
                                 component, panel, pageURI, configErrMsgFooter);
                     }
                 }
@@ -774,17 +792,17 @@ public class MainWindow {
             //validate successful path parameter config
             if (insertICardAction.getNextStep() != null) {
                 final String nextStepPropertyName = insertICardAction.getNextStep().getClass().getSimpleName();
-                checkNextPanelParameter(insertICardAction.getNextStep().getNextPanel(), actionName, nextStepPropertyName,
+                checkNextPanelParameter(insertICardAction.getNextStep().getNextPanel(), INSERT_IC_ACTION, nextStepPropertyName,
                         component, panel, pageURI);
 
                 ArrayList<String> displayParameters = buildListParameters(insertICardAction.getNextStep().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
                         int id = Integer.parseInt(displayId);
-                        checkDisplayParameter(id, actionName, nextStepPropertyName, component, panel, pageURI);
-                        checkComponentType(id, actionName, nextStepPropertyName, component, panel, pageURI);
+                        checkDisplayParameter(id, INSERT_IC_ACTION, nextStepPropertyName, component, panel, pageURI);
+                        checkComponentType(id, INSERT_IC_ACTION, nextStepPropertyName, component, panel, pageURI);
                     } catch (Exception e) {
-                        promptMistakenNumberBlockErr(displayId, actionName, nextStepPropertyName,
+                        promptMistakenNumberBlockErr(displayId, INSERT_IC_ACTION, nextStepPropertyName,
                                 component, panel, pageURI, null);
                     }
                 }
@@ -792,41 +810,41 @@ public class MainWindow {
                 Integer trigger = insertICardAction.getNextStep().getTrigger();
                 if (trigger != null) {
                     if (!this.meta_blocks.containsKey(trigger)) {
-                        promptNonexistentBlockErr(trigger, actionName, "trigger", component, panel, pageURI, null);
+                        promptNonexistentBlockErr(trigger, INSERT_IC_ACTION, "trigger", component, panel, pageURI, null);
                     }
 
                     Object blockMeta = getBlockMeta(trigger);
                     if (!(blockMeta instanceof Component)
                             || ((Component) blockMeta).getType() != ComponentEnum.BUTTON) {
-                        promptMistakenTypeBlockErr(trigger, actionName, nextStepPropertyName,
+                        promptMistakenTypeBlockErr(trigger, INSERT_IC_ACTION, nextStepPropertyName,
                                 component, panel, pageURI, "\ncorrect <trigger> type should be [BUTTON]");
                     }
                 }
             } else {
                 //successful next step must be set
-                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[nextStep]");
+                promptIncompleteActionBlockErr(INSERT_IC_ACTION, component, panel, pageURI, "[nextStep]");
             }
 
             //validate exceptional path parameter config
             if (insertICardAction.getException() != null) {
                 final String exceptionPropertyName = insertICardAction.getException().getClass().getSimpleName();
-                checkNextPanelParameter(insertICardAction.getException().getNextPanel(), actionName, exceptionPropertyName,
+                checkNextPanelParameter(insertICardAction.getException().getNextPanel(), INSERT_IC_ACTION, exceptionPropertyName,
                         component, panel, pageURI);
 
                 ArrayList<String> displayParameters = buildListParameters(insertICardAction.getException().getDisplay());
                 for (String displayId : displayParameters) {
                     try {
                         int id = Integer.parseInt(displayId);
-                        checkDisplayParameter(id, actionName, exceptionPropertyName, component, panel, pageURI);
-                        checkComponentType(id, actionName, exceptionPropertyName, component, panel, pageURI);
+                        checkDisplayParameter(id, INSERT_IC_ACTION, exceptionPropertyName, component, panel, pageURI);
+                        checkComponentType(id, INSERT_IC_ACTION, exceptionPropertyName, component, panel, pageURI);
                     } catch (Exception e) {
-                        promptMistakenNumberBlockErr(displayId, actionName, exceptionPropertyName,
+                        promptMistakenNumberBlockErr(displayId, INSERT_IC_ACTION, exceptionPropertyName,
                                 component, panel, pageURI, null);
                     }
                 }
             } else {
                 //exception next step must be set
-                promptIncompleteActionBlockErr(actionName, component, panel, pageURI, "[exception]");
+                promptIncompleteActionBlockErr(INSERT_IC_ACTION, component, panel, pageURI, "[exception]");
             }
         }
     }
@@ -898,6 +916,21 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (ejectCardAction != null) {
             checkSupportedAction(component, EJECT_CARD_ACTION, panel, pageURI);
+            //validate card type config
+            ImmutableSet<String> validTypeSet = new ImmutableSet.Builder<String>()
+                    .add(DeviceEnum.CASH_SAVER.value())
+                    .add(DeviceEnum.HIS_CARD.value())
+                    .add(DeviceEnum.TWO_IN_ONE_CARD.value())
+                    .build();
+            String typeTips = Joiner.on(",\n").join(validTypeSet);
+            final String invalidTypeTip = "\nvalid type includes:\n["
+                    + typeTips + "]";
+            if (ejectCardAction.getCardType() == null) {
+                promptIncompleteActionBlockErr(EJECT_CARD_ACTION, component, panel, pageURI, invalidTypeTip);
+            } else if (!validTypeSet.contains(ejectCardAction.getCardType().value())) {
+                promptMistakenTypeBlockErr(component.getId(), EJECT_CARD_ACTION, "cardType",
+                        component, panel, pageURI, invalidTypeTip);
+            }
         }
     }
 
@@ -905,6 +938,19 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (withdrawCardAction != null) {
             checkSupportedAction(component, WITHDRAW_CARD_ACTION, panel, pageURI);
+            //validate card type config
+            ImmutableSet<String> validTypeSet = new ImmutableSet.Builder<String>()
+                    .add(DeviceEnum.HIS_CARD.value())
+                    .build();
+            String typeTips = Joiner.on(",\n").join(validTypeSet);
+            final String invalidTypeTip = "\nvalid type includes:\n["
+                    + typeTips + "]";
+            if (withdrawCardAction.getCardType() == null) {
+                promptIncompleteActionBlockErr(WITHDRAW_CARD_ACTION, component, panel, pageURI, invalidTypeTip);
+            } else if (!validTypeSet.contains(withdrawCardAction.getCardType().value())) {
+                promptMistakenTypeBlockErr(component.getId(), WITHDRAW_CARD_ACTION, "cardType",
+                        component, panel, pageURI, invalidTypeTip);
+            }
         }
     }
 
@@ -932,7 +978,7 @@ public class MainWindow {
     private void validateLoadWebAction(king.flow.view.Action.WebLoadAction webLoadAction,
             Component component, Panel panel, String pageURI) {
         if (webLoadAction != null) {
-            checkSupportedAction(component, webLoadAction.getClass().getSimpleName(), panel, pageURI);
+            checkSupportedAction(component, WEB_LOAD_ACTION, panel, pageURI);
         }
     }
 
@@ -948,7 +994,7 @@ public class MainWindow {
     private void validateHideAction(king.flow.view.Action.HideAction hideAction, Component component,
             Panel panel, String pageURI) throws HeadlessException {
         if (hideAction != null) {
-            checkSupportedAction(component, CommonConstants.HIDE_ACTION, panel, pageURI);
+            checkSupportedAction(component, HIDE_ACTION, panel, pageURI);
         }
     }
 
