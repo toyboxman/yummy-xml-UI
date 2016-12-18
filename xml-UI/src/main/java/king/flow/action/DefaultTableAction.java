@@ -1,5 +1,6 @@
 package king.flow.action;
 
+import java.awt.Checkbox;
 import java.awt.Component;
 import java.util.List;
 import javax.swing.JLabel;
@@ -49,6 +50,24 @@ public class DefaultTableAction extends DefaultAction<JTable> {
         public Component getTableCellRendererComponent(JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {
             JLabel cellRenderer = (JLabel) super.getTableCellRendererComponent(table, value, isSelected, hasFocus, row, column);
             return cellRenderer;
+        }
+
+    }
+
+    static class CommonTableModel extends DefaultTableModel {
+
+        private int boolColumnId = -1;
+
+        public CommonTableModel(int boolColumnId) {
+            this.boolColumnId = boolColumnId;
+        }
+
+        @Override
+        public Class<?> getColumnClass(int columnIndex) {
+            if (this.boolColumnId == columnIndex) {
+                return Boolean.class;
+            }
+            return super.getColumnClass(columnIndex);
         }
 
     }

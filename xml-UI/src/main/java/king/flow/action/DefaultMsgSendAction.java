@@ -7,6 +7,7 @@ package king.flow.action;
 
 import com.github.jsonj.JsonArray;
 import com.github.jsonj.JsonObject;
+import com.github.jsonj.JsonPrimitive;
 import com.github.jsonj.exceptions.JsonParseException;
 import com.github.jsonj.tools.JsonParser;
 import java.awt.HeadlessException;
@@ -36,6 +37,7 @@ import javax.swing.JPasswordField;
 import javax.swing.SwingUtilities;
 import javax.swing.SwingWorker;
 import javax.swing.table.DefaultTableModel;
+import king.flow.action.DefaultTableAction.CommonTableModel;
 import static king.flow.common.CommonConstants.ADVANCED_TABLE_CURRENT_PAGE;
 import static king.flow.common.CommonConstants.ADVANCED_TABLE_TOTAL_PAGES;
 import static king.flow.common.CommonConstants.ADVANCED_TABLE_VALUE;
@@ -47,7 +49,6 @@ import static king.flow.common.CommonUtil.getLogger;
 import static king.flow.common.CommonUtil.createTLSMessage;
 import static king.flow.common.CommonUtil.parseTLSMessage;
 import static king.flow.common.CommonUtil.getResourceMsg;
-import static king.flow.common.CommonUtil.sendMessage;
 import static king.flow.common.CommonUtil.shapeErrPrompt;
 import king.flow.data.TLSResult;
 import king.flow.swing.JXGridPanel;
@@ -114,6 +115,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     case COMBO_BOX:
                     case PASSWORD_FIELD:
                     case GRID:
+                    case TABLE:
                         conditions.add(new Condition<>(getBlock(id, JComponent.class), cm));
                         break;
                     default:
@@ -203,6 +205,46 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
 
                     contents.put(id, value);
                     break;
+                case TABLE:
+                    JTable table = (JTable) condition.getComponent();
+                    int multipleRowsMode = -1;
+                    for (int i = 0; i < table.getColumnCount(); i++) {
+                        if (table.getColumnClass(i) == Boolean.class) {
+                            multipleRowsMode = i;
+                        }
+                    }
+
+                    if (multipleRowsMode != -1) {
+                        JsonArray jsonArray = new JsonArray();
+                        JsonArray rowRecord = null;
+                        for (int i = 0; i < table.getRowCount(); i++) {
+                            boolean selected = (boolean) table.getValueAt(i, multipleRowsMode);
+                            if (selected) {
+                                rowRecord = new JsonArray();
+                                for (int j = 0; j < table.getColumnCount(); j++) {
+                                    rowRecord.add(new JsonPrimitive(table.getValueAt(i, j)));
+                                }
+                                jsonArray.add(rowRecord);
+                            }
+                        }
+                        
+                        if (jsonArray.size() > 0) {
+                            value = jsonArray.toString();
+                        } else {
+                            value = null;
+                        }
+                    } else if (table.getSelectedRow() != -1) {
+                        int selectedRow = table.getSelectedRow();
+                        JsonArray jsonArray = new JsonArray();
+                        for (int i = 0; i < table.getColumnCount(); i++) {
+                            jsonArray.add(new JsonPrimitive(table.getValueAt(selectedRow, i)));
+                        }
+                        value = jsonArray.toString();
+                    } else {
+                        value = null;
+                    }
+                    contents.put(id, value);
+                    break;
                 default:
                     getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
                             "Ignore useless component is : {0}", condition.getMeta().getType().value());
@@ -235,14 +277,29 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     JTable table = getBlock(meta.getId(), JTable.class);
                     DefaultTableModel model = (DefaultTableModel) table.getModel();
                     model.setRowCount(0);
+                    int columnId = -1;
                     for (Iterator it = arrays.iterator(); it.hasNext();) {
                         JsonArray row = (JsonArray) it.next();
-                        Vector<String> rowData = new Vector<>();
-                        for (Object v : row) {
-                            rowData.add(v.toString());
+                        Vector<Object> rowData = new Vector<>();
+                        for (int i = 0; i < row.size(); i++) {
+                            final String cellValue = row.get(i).toString();
+                            if (cellValue.equalsIgnoreCase("false")
+                                    || cellValue.equalsIgnoreCase("true")) {
+                                rowData.add(Boolean.valueOf(cellValue));
+                                columnId = i;
+                            } else {
+                                rowData.add(cellValue);
+                            }
                         }
                         model.addRow(rowData);
                     }
+                    CommonTableModel tableModel = new CommonTableModel(columnId);
+                    Vector<String> columnVector = new Vector<>();
+                    for (int i = 0; i < model.getColumnCount(); i++) {
+                        columnVector.add(model.getColumnName(i));
+                    }
+                    tableModel.setDataVector(model.getDataVector(), columnVector);
+                    table.setModel(tableModel);
                 } catch (Exception e) {
                     getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
                             "Invalid array data [ {0} ] for TABLE component[{1}], \n exception is {2}",
