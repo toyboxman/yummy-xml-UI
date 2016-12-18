@@ -16,42 +16,43 @@ $文档格式格式如下：
 1.支持表格作为提交数据源，并支持表格显示boolean类型数据为checkbox
 
 表格输入boolean型数据如下：
-"success" : {
-						"okmsg" : [
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"],
-							["20010105", "800.00", "200.00", "false"]
-						]
-					}
+"success" : 
+{
+    "okmsg" : [
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"],
+        ["20010105", "800.00", "200.00", "false"]
+    ]
+}
 
 
 <action>
-            <sendMsgAction>
-                <prsCode>tableSubmit</prsCode>
-                <conditions>34114</conditions>  --指定表格id
-                <checkRules>
-                    <notNull>
-                        <content>34114</content>  --指定表格不允许输出空值
-                        <errMsg>必须选中表格记录</errMsg>
-                    </notNull>
-                </checkRules>
-                <nextStep>
-                    <display>201596</display>
-                    <nextPanel>201599</nextPanel>
-                </nextStep>
-                <exception>
-                    <display>201596</display>
-                    <nextPanel>201599</nextPanel>
-                </exception>
-            </sendMsgAction>
-        </action>
+    <sendMsgAction>
+        <prsCode>tableSubmit</prsCode>
+        <conditions>34114</conditions>  --指定表格id
+        <checkRules>
+            <notNull>
+                <content>34114</content>  --指定表格不允许输出空值
+                <errMsg>必须选中表格记录</errMsg>
+            </notNull>
+        </checkRules>
+        <nextStep>
+            <display>201596</display>
+            <nextPanel>201599</nextPanel>
+        </nextStep>
+        <exception>
+            <display>201596</display>
+            <nextPanel>201599</nextPanel>
+        </exception>
+    </sendMsgAction>
+</action>
 ************************************************************************************************************************
 2016.12.14
 ************************************************************************************************************************
