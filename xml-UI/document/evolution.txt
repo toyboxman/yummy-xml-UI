@@ -18,18 +18,18 @@ $文档格式格式如下：
 
 2.支持表格的列进行sum操作
 <action>
-                <showTableAction>
-                    <columnNames>医师,级别,剩余号,select</columnNames>
-                    <sum>
-                        <columnName>剩余号</columnName>  --对选中列进行加和
-                        <display>34202</display>   --显示加和结果的组件ID
-                    </sum>
-                    <sum>
-                        <columnName>级别</columnName>
-                        <display>34203</display>
-                    </sum>
-                </showTableAction>
-            </action>
+    <showTableAction>
+        <columnNames>医师,级别,剩余号,select</columnNames>
+        <sum>
+            <columnName>剩余号</columnName>  --对选中列进行加和
+            <display>34202</display>   --显示加和结果的组件ID
+        </sum>
+        <sum>
+            <columnName>级别</columnName>
+            <display>34203</display>
+        </sum>
+    </showTableAction>
+</action>
 ************************************************************************************************************************
 2016.12.18
 ************************************************************************************************************************
