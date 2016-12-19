@@ -164,9 +164,17 @@
             
             <xs:element name="showTableAction" maxOccurs="1" minOccurs="0">
                 <xs:complexType>
-                    <xs:all>
+                    <xs:sequence>
                         <xs:element name="columnNames" type="xs:string"/>
-                    </xs:all>
+                        <xs:element name="sum" maxOccurs="10" minOccurs="0">
+                            <xs:complexType>
+                                <xs:all>
+                                    <xs:element name="columnName" type="xs:string"/>
+                                    <xs:element name="display" type="xs:int"/>
+                                </xs:all>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
                 </xs:complexType>
             </xs:element>
             

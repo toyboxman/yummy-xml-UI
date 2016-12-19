@@ -227,7 +227,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                                 jsonArray.add(rowRecord);
                             }
                         }
-                        
+
                         if (jsonArray.size() > 0) {
                             value = jsonArray.toString();
                         } else {
@@ -278,6 +278,7 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     DefaultTableModel model = (DefaultTableModel) table.getModel();
                     model.setRowCount(0);
                     int columnId = -1;
+                    List<Vector> tableData = new ArrayList<>();
                     for (Iterator it = arrays.iterator(); it.hasNext();) {
                         JsonArray row = (JsonArray) it.next();
                         Vector<Object> rowData = new Vector<>();
@@ -291,15 +292,19 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                                 rowData.add(cellValue);
                             }
                         }
-                        model.addRow(rowData);
+                        tableData.add(rowData);
                     }
-                    CommonTableModel tableModel = new CommonTableModel(columnId);
-                    Vector<String> columnVector = new Vector<>();
-                    for (int i = 0; i < model.getColumnCount(); i++) {
-                        columnVector.add(model.getColumnName(i));
-                    }
-                    tableModel.setDataVector(model.getDataVector(), columnVector);
-                    table.setModel(tableModel);
+                    ((CommonTableModel) model).setBoolColumnId(columnId);
+                    tableData.forEach((row) -> {
+                        model.addRow(row);
+                    });
+//                    CommonTableModel tableModel = new CommonTableModel(columnId);
+//                    Vector<String> columnVector = new Vector<>();
+//                    for (int i = 0; i < model.getColumnCount(); i++) {
+//                        columnVector.add(model.getColumnName(i));
+//                    }
+//                    tableModel.setDataVector(model.getDataVector(), columnVector);
+//                    table.setModel(tableModel);
                 } catch (Exception e) {
                     getLogger(DefaultMsgSendAction.class.getName()).log(Level.WARNING,
                             "Invalid array data [ {0} ] for TABLE component[{1}], \n exception is {2}",

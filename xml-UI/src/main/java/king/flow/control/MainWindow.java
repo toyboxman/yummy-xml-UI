@@ -591,7 +591,7 @@ public class MainWindow {
                 checkReachableBlock(upCursor, MOVE_CURSOR_ACTION,
                         upCursorProperty, component, panel, pageURI);
             }
-            
+
             final String downCursorProperty = "downCursor";
             if (!this.meta_blocks.containsKey(downCursor)) {
                 promptNonexistentBlockErr(downCursor, MOVE_CURSOR_ACTION,
@@ -696,6 +696,48 @@ public class MainWindow {
             Component component, Panel panel, String pageURI) {
         if (showTableAction != null) {
             checkSupportedAction(component, SHOW_TABLE_ACTION, panel, pageURI);
+            ArrayList<String> colsNames = buildListParameters(showTableAction.getColumnNames());
+            if (colsNames.isEmpty()) {
+                String configErrMsgFooter = "\nCorrect format is [name, ... ,name]";
+                promptMistakenFormatBlockErr(component.getId(), SHOW_TABLE_ACTION,
+                        "columnName", component, panel, pageURI, configErrMsgFooter);
+            }
+            List<king.flow.view.Action.ShowTableAction.Sum> sumFunctions = showTableAction.getSum();
+            if (!sumFunctions.isEmpty()) {
+                //validate card type config
+                ImmutableSet<String> validTypeSet = new ImmutableSet.Builder<String>()
+                        .add(ComponentEnum.LABEL.value())
+                        .add(ComponentEnum.TEXT_FIELD.value())
+                        .build();
+                String typeTips = Joiner.on(",\n").join(validTypeSet);
+                final String invalidTypeTip = "\nvalid type includes:\n["
+                        + typeTips + "]";
+
+                for (king.flow.view.Action.ShowTableAction.Sum sum : sumFunctions) {
+                    if (!colsNames.contains(sum.getColumnName())) {
+                        String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                                .append(SHOW_TABLE_ACTION).append('\n')
+                                .append("with nonexistent ").append("columnName").append('[').append(sum.getColumnName()).append(']')
+                                .append("\nfor column sum function").toString();
+                        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+                    }
+
+                    final Object displayBlockMeta = getBlockMeta(sum.getDisplay());
+                    if (displayBlockMeta == null) {
+                        promptNonexistentBlockErr(sum.getDisplay(), SHOW_TABLE_ACTION,
+                                "display", component, panel, pageURI, null);
+                    }
+
+                    if (!(displayBlockMeta instanceof Component)
+                            || !validTypeSet.contains(((Component) displayBlockMeta).getType().value())) {
+                        String configErrMsg = buildConfigErrMsgHeader(component, panel, pageURI)
+                                .append(SHOW_TABLE_ACTION).append('\n')
+                                .append("with invalid property display").append('[').append(sum.getDisplay()).append(']')
+                                .append(invalidTypeTip).toString();
+                        CommonUtil.showBlockedErrorMsg(null, configErrMsg, true);
+                    }
+                }
+            }
         }
     }
 
@@ -1750,14 +1792,19 @@ public class MainWindow {
         if (tableShowAction != null) {
             String columnNames = tableShowAction.getColumnNames();
             ArrayList<String> colsNames = buildListParameters(columnNames);
-            DefaultTableAction tableAction = new DefaultTableAction(colsNames);
-            if (component.getType() == ComponentEnum.TABLE) {
-                doAction(tableAction, component.getId());
-            } else if (component.getType() == ComponentEnum.ADVANCED_TABLE) {
-                JXMsgPanel advancedTable = (JXMsgPanel) building_blocks.get(component.getId());
-                advancedTable.initialTableAction(tableAction);
-            } else {
-                getLogger(MainWindow.class.getName()).log(Level.INFO, "Mistaken table type {0}", component.getType());
+            DefaultTableAction tableAction = new DefaultTableAction(colsNames, tableShowAction.getSum());
+            switch (component.getType()) {
+                case TABLE:
+                    doAction(tableAction, component.getId());
+                    break;
+                case ADVANCED_TABLE:
+                    JXMsgPanel advancedTable = (JXMsgPanel) building_blocks.get(component.getId());
+                    advancedTable.initialTableAction(tableAction);
+                    break;
+                default:
+                    getLogger(MainWindow.class.getName()).log(Level.INFO,
+                            "Mistaken table type {0}", component.getType());
+                    break;
             }
         }
     }

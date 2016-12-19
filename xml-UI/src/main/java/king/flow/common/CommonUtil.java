@@ -402,13 +402,13 @@ public class CommonUtil {
         while (scanner.hasNext()) {
             names.add(scanner.next().trim());
         }
-        if (names.isEmpty()) {
-            getLogger(CommonUtil.class.getName()).log(Level.WARNING, "Config empty list parameters");
-            names.add("A");
-            names.add("B");
-            names.add("C");
-            names.add("D");
-        }
+//        if (names.isEmpty()) {
+//            getLogger(CommonUtil.class.getName()).log(Level.WARNING, "Config empty list parameters");
+//            names.add("A");
+//            names.add("B");
+//            names.add("C");
+//            names.add("D");
+//        }
         return names;
     }
 
