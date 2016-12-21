@@ -146,7 +146,8 @@ public class InsertCardAction extends DefaultBaseAction {
                         waitCommunicationTask(new HISReadCardTask(), progressAnimation);
                         break;
                     case CASH_SAVER:
-                        waitCommunicationTask(new CashDepositeTask(), progressAnimation);
+                        //waitCommunicationTask(new CashDepositeTask(), progressAnimation);
+                        new CashDepositeTask().execute();
                         break;
                     default:
                         getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
@@ -222,17 +223,18 @@ public class InsertCardAction extends DefaultBaseAction {
                         default:
                             throw new Exception("No Valid Card Number Component set in parameters attribute");
                     }
-
-                    String cardInfo = CommonUtil.depositeCash(cardId);// driver will blocking thread and wait IC card information return
-                    if (cardInfo == null || cardInfo.length() == 0) {
+                    
+                    panelJump(successfulPage.getNextPanel());
+                    String cashAmount = CommonUtil.depositeCash(cardId);// driver will blocking thread and wait IC card information return
+                    if (cashAmount == null || cashAmount.length() == 0) {
                         //fail to read card information
                         throw new Exception(CashConductor.CASH_DEPOSITE_ERROR_PROMPT);
                     }
 
                     getLogger(InsertCardAction.class.getName()).log(Level.INFO,
-                            "Reading information from ID card:\n{0}", cardInfo);
+                            "depositing cash amount : {0}", cashAmount);
                     JsonParser jsonParser = new JsonParser();
-                    JsonObject element = jsonParser.parse(cardInfo).asObject();
+                    JsonObject element = jsonParser.parse(cashAmount).asObject();
 
                     List<String> displayValues = new ArrayList<>(element.size());
                     for (JsonElement value : element.values()) {
