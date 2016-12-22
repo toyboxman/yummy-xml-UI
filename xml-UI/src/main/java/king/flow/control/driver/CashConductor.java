@@ -5,6 +5,8 @@
  */
 package king.flow.control.driver;
 
+import java.util.concurrent.atomic.AtomicBoolean;
+
 /**
  *
  * @author liujin
@@ -13,6 +15,8 @@ public class CashConductor {
 
     public static String CASH_INSERT_PROMPT = "cash.operation.insert.prompt";
     public static String CASH_DEPOSITE_ERROR_PROMPT = "cash.operation.deposite.error.prompt";
+    
+    public static final AtomicBoolean CONTINUE_CASH_DEPOSITION = new AtomicBoolean(true);
 
     public native String readCash(String comport, String cardId);
 

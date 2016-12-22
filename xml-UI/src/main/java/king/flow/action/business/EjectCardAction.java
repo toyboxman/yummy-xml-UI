@@ -13,6 +13,7 @@ import javax.swing.SwingWorker;
 import king.flow.action.DefaultBaseAction;
 import king.flow.common.CommonUtil;
 import static king.flow.common.CommonUtil.getLogger;
+import static king.flow.control.driver.CashConductor.CONTINUE_CASH_DEPOSITION;
 import king.flow.view.DeviceEnum;
 
 /**
@@ -50,13 +51,14 @@ public class EjectCardAction extends DefaultBaseAction {
                     CommonUtil.ejectHISCard();
                     break;
                 case CASH_SAVER:
+                    CONTINUE_CASH_DEPOSITION.getAndSet(false);
                     CommonUtil.closeCashSaver();
                     break;
                 default:
                     getLogger(EjectCardTask.class.getName()).log(Level.WARNING,
-                        "Unsupported ejected IC card type : {0}", type.value());
+                            "Unsupported ejected IC card type : {0}", type.value());
             }
-            
+
             return null;
         }
 
