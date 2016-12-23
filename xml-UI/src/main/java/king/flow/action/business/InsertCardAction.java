@@ -222,6 +222,7 @@ public class InsertCardAction extends DefaultBaseAction {
                             throw new Exception("No Valid Card Number Component set in parameters attribute");
                     }
 
+                    CommonUtil.openCashSaver();
                     CashConductor.CONTINUE_CASH_DEPOSITION.set(true);
                     panelJump(successfulPage.getNextPanel());
 

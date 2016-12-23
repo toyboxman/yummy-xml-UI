@@ -9,6 +9,14 @@ extern "C" {
 #endif
 /*
  * Class:     king_flow_control_driver_CashConductor
+ * Method:    open
+ * Signature: (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ */
+JNIEXPORT jstring JNICALL Java_king_flow_control_driver_CashConductor_open
+  (JNIEnv *, jobject, jstring, jstring);
+
+/*
+ * Class:     king_flow_control_driver_CashConductor
  * Method:    readCash
  * Signature: (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
  */

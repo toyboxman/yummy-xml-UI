@@ -873,6 +873,20 @@ public class CommonUtil {
         return cardInfo;
     }
 
+    public static String openCashSaver() {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(CASH_SAVER));
+            String cardId = "";
+            cardInfo = CASH_CONDUCTOR.open(getDriverPort(CASH_SAVER), cardId);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{CASH_SAVER.value(), t.getMessage()});
+        }
+        return cardInfo;
+    }
+
     public static String closeCashSaver() {
         String cardInfo = null;
         try {
