@@ -15,23 +15,23 @@ $文档格式格式如下：
 ************************************************************************************************************************
 1.集成医保卡驱动
 <xs:simpleType name="device_enum">
-        <xs:restriction base="xs:string">
-            <xs:enumeration  value="magnetCard"/>
-            <xs:enumeration  value="ICCard"/>
-            <xs:enumeration  value="sensorCard"/>
-            <xs:enumeration  value="twoInOneCard"/>
-            <xs:enumeration  value="printer"/>
-            <xs:enumeration  value="keyboard"/>
-            <xs:enumeration  value="gzCard"/>
-            <xs:enumeration  value="PIDCard"/>
-            <xs:enumeration  value="HISCard"/>
-            <xs:enumeration  value="PatientCard"/>
-            <xs:enumeration  value="MedicareCard"/>  --医保卡
-            <xs:enumeration  value="CashSaver"/>
-            <xs:enumeration  value="pkg8583"/>
-            <xs:enumeration  value="Unknown"/>
-        </xs:restriction>
-    </xs:simpleType>
+    <xs:restriction base="xs:string">
+        <xs:enumeration  value="magnetCard"/>
+        <xs:enumeration  value="ICCard"/>
+        <xs:enumeration  value="sensorCard"/>
+        <xs:enumeration  value="twoInOneCard"/>
+        <xs:enumeration  value="printer"/>
+        <xs:enumeration  value="keyboard"/>
+        <xs:enumeration  value="gzCard"/>
+        <xs:enumeration  value="PIDCard"/>
+        <xs:enumeration  value="HISCard"/>
+        <xs:enumeration  value="PatientCard"/>
+        <xs:enumeration  value="MedicareCard"/>  --医保卡
+        <xs:enumeration  value="CashSaver"/>
+        <xs:enumeration  value="pkg8583"/>
+        <xs:enumeration  value="Unknown"/>
+    </xs:restriction>
+</xs:simpleType>
 
 <insertICardAction>
     <cardType>MedicareCard</cardType>
@@ -46,10 +46,10 @@ $文档格式格式如下：
     </exception>
     <animationTip>/image/swipe.gif</animationTip>
     <parameters>
-201899
- 201891
- 201892
-</parameters>  --允许调用时候从指定组件得到输入值，并以json数组格式组合
+        201899
+        201891
+        201892
+    </parameters>  --允许调用时候从指定组件得到输入值，并以json数组格式组合
 </insertICardAction>
 ************************************************************************************************************************
 2016.12.21
