@@ -567,6 +567,7 @@
             <xs:enumeration  value="PIDCard"/>
             <xs:enumeration  value="HISCard"/>
             <xs:enumeration  value="PatientCard"/>
+            <xs:enumeration  value="MedicareCard"/>
             <xs:enumeration  value="CashSaver"/>
             <xs:enumeration  value="pkg8583"/>
             <xs:enumeration  value="Unknown"/>

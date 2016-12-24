@@ -5,6 +5,7 @@
  */
 package king.flow.action.business;
 
+import com.github.jsonj.JsonArray;
 import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
 import com.github.jsonj.JsonPrimitive;
@@ -37,6 +38,7 @@ import king.flow.view.Window;
 import static king.flow.common.CommonUtil.swipeGzICCard;
 import king.flow.control.driver.CashConductor;
 import king.flow.control.driver.HISCardConductor;
+import king.flow.control.driver.MedicareCardConductor;
 import king.flow.control.driver.PIDCardConductor;
 import king.flow.control.driver.PatientCardConductor;
 import king.flow.net.Transportation;
@@ -107,6 +109,9 @@ public class InsertCardAction extends DefaultBaseAction {
                     case CASH_SAVER:
                         progressTip = new JLabel(getResourceMsg(CashConductor.CASH_INSERT_PROMPT));
                         break;
+                    case MEDICARE_CARD:
+                        progressTip = new JLabel(getResourceMsg(MedicareCardConductor.MEDICARE_CARD_INSERT_PROMPT));
+                        break;
                     default:
                         progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
                         break;
@@ -149,6 +154,9 @@ public class InsertCardAction extends DefaultBaseAction {
                         //waitCommunicationTask(new CashDepositeTask(), progressAnimation);
                         new CashDepositeTask().execute();
                         break;
+                    case MEDICARE_CARD:
+                        waitCommunicationTask(new MedicareRunTask(), progressAnimation);
+                        break;
                     default:
                         getLogger(InsertCardAction.class.getName()).log(Level.WARNING,
                                 "Unsupported card type[{0}] for InsertCardAction", cardType.name());
@@ -188,6 +196,86 @@ public class InsertCardAction extends DefaultBaseAction {
         showOnComponent(failedDisplay.get(0),
                 errPrompt == null ? getResourceMsg(OPERATION_CARD_READ_ERROR) : errPrompt);
         panelJump(failedPage.getNextPanel());
+    }
+
+    private class MedicareRunTask extends SwingWorker<String, String> {
+
+        @Override
+        protected String doInBackground() throws Exception {
+
+            try {
+                List<String> debug = successfulPage.getDebug();
+
+                if (debug.isEmpty()) {
+                    JsonArray jsonParameters = new JsonArray();
+                    for (String param : parameters) {
+                        Object meta = getBlockMeta(Integer.parseInt(param));
+                        String paramValue = null;
+                        final Component componentMeta = (Component) meta;
+                        switch (componentMeta.getType()) {
+                            case LABEL:
+                                JLabel label = getBlock(componentMeta.getId(), JLabel.class);
+                                paramValue = label.getText();
+                                break;
+                            case TEXT_FIELD:
+                                JTextField textField = getBlock(componentMeta.getId(), JTextField.class);
+                                paramValue = textField.getText();
+                                break;
+                            case COMBO_BOX:
+                                JComboBox combobox = getBlock(componentMeta.getId(), JComboBox.class);
+                                paramValue = combobox.getEditor().getItem().toString();
+                                break;
+                            default:
+                                throw new Exception("No Valid Parameter Component set in parameters attribute");
+                        }
+
+                        jsonParameters.add(paramValue);
+                    }
+
+                    String result = CommonUtil.runMedicareCardCmd(jsonParameters.toString());
+                    if (result == null || result.length() == 0) {
+                        //fail to read card information
+                        throw new Exception(MedicareCardConductor.MEDICARE_CARD_OPERATION_ERROR_PROMPT);
+                    }
+
+                    getLogger(InsertCardAction.class.getName()).log(Level.INFO,
+                            "Medicare card operation reuslt : \n{0}", result);
+                    JsonParser jsonParser = new JsonParser();
+                    JsonObject element = jsonParser.parse(result).asObject();
+
+                    List<String> displayValues = new ArrayList<>(element.size());
+                    for (JsonElement value : element.values()) {
+                        displayValues.add(value.toString());
+                    }
+                    int len = Math.min(displayValues.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), displayValues.get(i));
+                    }
+                } else {
+                    //debug mode
+                    Thread.sleep(CommonConstants.DEBUG_MODE_PROGRESS_TIME);
+                    int len = Math.min(debug.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), debug.get(i));
+                    }
+                }
+
+                Integer trigger = successfulPage.getTrigger();
+                if (trigger == null) {
+                    panelJump(successfulPage.getNextPanel());
+                } else {
+                    getBlock(trigger, JButton.class).doClick();
+                }
+                return "Success";
+            } catch (Throwable t) {
+                getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
+                        "Occur problem during running Medicare card, root cause comes from \n{0}", t.getMessage());
+                String errPrompt = getResourceMsg(t.getMessage());
+                handleErr(errPrompt);
+                throw new Exception(t);
+            }
+        }
+
     }
 
     private class CashDepositeTask extends SwingWorker<String, String> {
@@ -269,7 +357,7 @@ public class InsertCardAction extends DefaultBaseAction {
                 return "Success";
             } catch (Throwable t) {
                 getLogger(InsertCardAction.class.getName()).log(Level.SEVERE,
-                        "Occur problem during reading IC card, root cause comes from \n{0}", t.getMessage());
+                        "Occur problem during depositing cash, root cause comes from \n{0}", t.getMessage());
                 String errPrompt = getResourceMsg(t.getMessage());
                 handleErr(errPrompt);
                 throw new Exception(t);

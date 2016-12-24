@@ -795,6 +795,7 @@ public class MainWindow {
                     .add(DeviceEnum.HIS_CARD.value())
                     .add(DeviceEnum.PID_CARD.value())
                     .add(DeviceEnum.PATIENT_CARD.value())
+                    .add(DeviceEnum.MEDICARE_CARD.value())
                     .build();
             String typeTips = Joiner.on(",\n").join(validTypeSet);
             final String invalidTypeTip = "\nvalid type includes:\n["
@@ -806,6 +807,11 @@ public class MainWindow {
                         component, panel, pageURI, invalidTypeTip);
             }
 
+            //validate card type config
+            ImmutableSet<String> validCompTypeSet = new ImmutableSet.Builder<String>()
+                    .add(ComponentEnum.TEXT_FIELD.value())
+                    .add(ComponentEnum.LABEL.value())
+                    .build();
             if (insertICardAction.getCardType() == DeviceEnum.CASH_SAVER) {
                 List<String> parameters = insertICardAction.getParameters();
                 String propertyName = "parameters";
@@ -820,13 +826,48 @@ public class MainWindow {
                         promptMistakenNumberBlockErr(parameters.get(0), INSERT_IC_ACTION,
                                 propertyName, component, panel, pageURI, "");
                     }
+                    if (!this.meta_blocks.containsKey(cardNumCompId)) {
+                        promptNonexistentBlockErr(cardNumCompId, INSERT_IC_ACTION,
+                                propertyName, component, panel, pageURI, "");
+                    }
                     checkComponentType(cardNumCompId, INSERT_IC_ACTION, propertyName, component, panel, pageURI);
                     final ComponentEnum type = ((Component) this.meta_blocks.get(cardNumCompId)).getType();
-                    if (type != ComponentEnum.TEXT_FIELD) {
-                        String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s]",
-                                type, ComponentEnum.TEXT_FIELD);
+                    if (!validCompTypeSet.contains(type.value())) {
+                        String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s, %s]",
+                                type, ComponentEnum.TEXT_FIELD, ComponentEnum.LABEL);
                         promptMistakenTypeBlockErr(cardNumCompId, INSERT_IC_ACTION, propertyName,
                                 component, panel, pageURI, configErrMsgFooter);
+                    }
+                }
+            }
+
+            if (insertICardAction.getCardType() == DeviceEnum.MEDICARE_CARD) {
+                List<String> parameters = insertICardAction.getParameters();
+                String propertyName = "parameters";
+                if (parameters.size() < 1) {
+                    String configErrMsgFooter = "[" + propertyName + "]" + " property \nfor " + DeviceEnum.MEDICARE_CARD.value();
+                    promptIncompleteActionBlockErr(INSERT_IC_ACTION, component, panel, pageURI, configErrMsgFooter);
+                } else {
+                    for (String param : parameters) {
+                        int paramCompId = Integer.MIN_VALUE;
+                        try {
+                            paramCompId = Integer.parseInt(param);
+                        } catch (Exception e) {
+                            promptMistakenNumberBlockErr(param, INSERT_IC_ACTION,
+                                    propertyName, component, panel, pageURI, "");
+                        }
+                        if (!this.meta_blocks.containsKey(paramCompId)) {
+                            promptNonexistentBlockErr(paramCompId, INSERT_IC_ACTION,
+                                    propertyName, component, panel, pageURI, "");
+                        }
+                        checkComponentType(paramCompId, INSERT_IC_ACTION, propertyName, component, panel, pageURI);
+                        final ComponentEnum type = ((Component) this.meta_blocks.get(paramCompId)).getType();
+                        if (!validCompTypeSet.contains(type.value())) {
+                            String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s, %s]",
+                                    type, ComponentEnum.TEXT_FIELD, ComponentEnum.LABEL);
+                            promptMistakenTypeBlockErr(paramCompId, INSERT_IC_ACTION, propertyName,
+                                    component, panel, pageURI, configErrMsgFooter);
+                        }
                     }
                 }
             }

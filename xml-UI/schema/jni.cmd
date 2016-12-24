@@ -6,6 +6,7 @@
 @rem %JAVA_HOME%\bin\javah.exe -d ..\src\main\cpp -verbose -classpath ..\target\classes king.flow.control.driver.TwoInOneCardConductor
 @rem %JAVA_HOME%\bin\javah.exe -d ..\src\main\cpp -verbose -classpath ..\target\classes king.flow.control.driver.PKG8583
 @rem %JAVA_HOME%\bin\javah.exe -d ..\src\main\cpp -verbose -classpath ..\target\classes king.flow.control.driver.PrinterConductor
+%JAVA_HOME%\bin\javah.exe -d ..\src\main\cpp -verbose -classpath ..\target\classes king.flow.control.driver.MedicareCardConductor
 %JAVA_HOME%\bin\javah.exe -d ..\src\main\cpp -verbose -classpath ..\target\classes king.flow.control.driver.CashConductor
 %JAVA_HOME%\bin\javah.exe -d ..\src\main\cpp -verbose -classpath ..\target\classes king.flow.control.driver.HISCardConductor
 %JAVA_HOME%\bin\javah.exe -d ..\src\main\cpp -verbose -classpath ..\target\classes king.flow.control.driver.PatientCardConductor

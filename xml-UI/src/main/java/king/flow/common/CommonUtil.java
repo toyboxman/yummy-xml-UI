@@ -68,6 +68,7 @@ import king.flow.control.driver.ICCardConductor;
 import king.flow.control.driver.PIDCardConductor;
 import king.flow.control.driver.KeyBoardDriver;
 import king.flow.control.driver.MagnetCardConductor;
+import king.flow.control.driver.MedicareCardConductor;
 import king.flow.control.driver.PKG8583;
 import king.flow.control.driver.PatientCardConductor;
 import king.flow.control.driver.PrinterConductor;
@@ -82,13 +83,6 @@ import king.flow.net.TunnelBuilder;
 import static king.flow.net.TunnelBuilder.getTunnelBuilder;
 import king.flow.view.Bound;
 import king.flow.view.Component;
-import king.flow.view.DeviceEnum;
-import static king.flow.view.DeviceEnum.GZ_CARD;
-import static king.flow.view.DeviceEnum.IC_CARD;
-import static king.flow.view.DeviceEnum.KEYBOARD;
-import static king.flow.view.DeviceEnum.MAGNET_CARD;
-import static king.flow.view.DeviceEnum.PRINTER;
-import static king.flow.view.DeviceEnum.TWO_IN_ONE_CARD;
 import king.flow.view.FontstyleEnum;
 import static king.flow.view.FontstyleEnum.BOLD;
 import static king.flow.view.FontstyleEnum.ITALIC;
@@ -97,12 +91,20 @@ import org.w3c.dom.DOMException;
 import static king.flow.data.TLSResult.UNIONPAY_CARD_INFO;
 import static king.flow.data.TLSResult.UNIONPAY_MAC_INFO;
 import king.flow.net.Transportation;
+import king.flow.view.Driver;
+import king.flow.view.DeviceEnum;
+import static king.flow.view.DeviceEnum.GZ_CARD;
+import static king.flow.view.DeviceEnum.IC_CARD;
+import static king.flow.view.DeviceEnum.KEYBOARD;
+import static king.flow.view.DeviceEnum.MAGNET_CARD;
+import static king.flow.view.DeviceEnum.PRINTER;
+import static king.flow.view.DeviceEnum.TWO_IN_ONE_CARD;
 import static king.flow.view.DeviceEnum.CASH_SAVER;
+import static king.flow.view.DeviceEnum.MEDICARE_CARD;
 import static king.flow.view.DeviceEnum.PATIENT_CARD;
 import static king.flow.view.DeviceEnum.HIS_CARD;
 import static king.flow.view.DeviceEnum.PID_CARD;
 import static king.flow.view.DeviceEnum.PKG_8583;
-import king.flow.view.Driver;
 
 /**
  *
@@ -897,6 +899,21 @@ public class CommonUtil {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
                     new String[]{CASH_SAVER.value(), t.getMessage()});
+        }
+        return cardInfo;
+    }
+
+    private static final MedicareCardConductor MEDICARE_CARD_CONDUCTOR = new MedicareCardConductor();
+
+    public static String runMedicareCardCmd(String jsonParameter) {
+        String cardInfo = null;
+        try {
+            System.loadLibrary(getDriverDll(MEDICARE_CARD));
+            cardInfo = MEDICARE_CARD_CONDUCTOR.runCmd(jsonParameter);
+        } catch (Throwable t) {
+            Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
+                    DRIVER_LOG_TEMPLATE,
+                    new String[]{MEDICARE_CARD.value(), t.getMessage()});
         }
         return cardInfo;
     }
