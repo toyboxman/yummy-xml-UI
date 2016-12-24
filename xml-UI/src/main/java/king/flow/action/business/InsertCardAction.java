@@ -222,35 +222,35 @@ public class InsertCardAction extends DefaultBaseAction {
                             throw new Exception("No Valid Card Number Component set in parameters attribute");
                     }
 
-                    CommonUtil.openCashSaver();
-                    CashConductor.CONTINUE_CASH_DEPOSITION.set(true);
+//                    CommonUtil.openCashSaver();
+//                    CashConductor.CONTINUE_CASH_DEPOSITION.set(true);
                     panelJump(successfulPage.getNextPanel());
 
-                    while (CashConductor.CONTINUE_CASH_DEPOSITION.get()) {
-                        Thread.sleep(CommonConstants.RUN_MODE_PROGRESS_TIME);
-                        if (!CashConductor.CONTINUE_CASH_DEPOSITION.get()) {
-                            break;
-                        }
-                        String cashAmount = CommonUtil.depositeCash(cardId);// driver will blocking thread and wait IC card information return
-                        if (cashAmount == null || cashAmount.length() == 0) {
-                            //fail to read card information
-                            throw new Exception(CashConductor.CASH_DEPOSITE_ERROR_PROMPT);
-                        }
-
-                        getLogger(InsertCardAction.class.getName()).log(Level.INFO,
-                                "depositing cash amount : {0}", cashAmount);
-                        JsonParser jsonParser = new JsonParser();
-                        JsonObject element = jsonParser.parse(cashAmount).asObject();
-
-                        List<String> displayValues = new ArrayList<>(element.size());
-                        for (JsonElement value : element.values()) {
-                            displayValues.add(value.toString());
-                        }
-                        int len = Math.min(displayValues.size(), successfulDisplay.size());
-                        for (int i = 0; i < len; i++) {
-                            showOnComponent(successfulDisplay.get(i), displayValues.get(i));
-                        }
+//                    while (CashConductor.CONTINUE_CASH_DEPOSITION.get()) {
+//                        Thread.sleep(CommonConstants.RUN_MODE_PROGRESS_TIME);
+//                        if (!CashConductor.CONTINUE_CASH_DEPOSITION.get()) {
+//                            break;
+//                        }
+                    String cashAmount = CommonUtil.depositeCash(cardId);// driver will blocking thread and wait IC card information return
+                    if (cashAmount == null || cashAmount.length() == 0) {
+                        //fail to read card information
+                        throw new Exception(CashConductor.CASH_DEPOSITE_ERROR_PROMPT);
                     }
+
+                    getLogger(InsertCardAction.class.getName()).log(Level.INFO,
+                            "depositing cash amount : {0}", cashAmount);
+                    JsonParser jsonParser = new JsonParser();
+                    JsonObject element = jsonParser.parse(cashAmount).asObject();
+
+                    List<String> displayValues = new ArrayList<>(element.size());
+                    for (JsonElement value : element.values()) {
+                        displayValues.add(value.toString());
+                    }
+                    int len = Math.min(displayValues.size(), successfulDisplay.size());
+                    for (int i = 0; i < len; i++) {
+                        showOnComponent(successfulDisplay.get(i), displayValues.get(i));
+                    }
+//                    }
                 } else {
                     //debug mode
                     Thread.sleep(CommonConstants.DEBUG_MODE_PROGRESS_TIME);
