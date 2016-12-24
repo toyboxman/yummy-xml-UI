@@ -11,6 +11,47 @@ $文档格式格式如下：
 修改项3
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ************************************************************************************************************************
+2016.12.24
+************************************************************************************************************************
+1.集成医保卡驱动
+<xs:simpleType name="device_enum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration  value="magnetCard"/>
+            <xs:enumeration  value="ICCard"/>
+            <xs:enumeration  value="sensorCard"/>
+            <xs:enumeration  value="twoInOneCard"/>
+            <xs:enumeration  value="printer"/>
+            <xs:enumeration  value="keyboard"/>
+            <xs:enumeration  value="gzCard"/>
+            <xs:enumeration  value="PIDCard"/>
+            <xs:enumeration  value="HISCard"/>
+            <xs:enumeration  value="PatientCard"/>
+            <xs:enumeration  value="MedicareCard"/>  --医保卡
+            <xs:enumeration  value="CashSaver"/>
+            <xs:enumeration  value="pkg8583"/>
+            <xs:enumeration  value="Unknown"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+<insertICardAction>
+    <cardType>MedicareCard</cardType>
+    <nextStep>
+        <nextPanel>201501</nextPanel>
+        <display>20150421</display>
+        <trigger>2015043</trigger>
+    </nextStep>
+    <exception>
+        <nextPanel>201899</nextPanel>
+        <display>201896</display>
+    </exception>
+    <animationTip>/image/swipe.gif</animationTip>
+    <parameters>
+201899
+ 201891
+ 201892
+</parameters>  --允许调用时候从指定组件得到输入值，并以json数组格式组合
+</insertICardAction>
+************************************************************************************************************************
 2016.12.21
 ************************************************************************************************************************
 1.支持钱币器驱动修改,可以长期打开存取，由用户决定关闭
