@@ -156,6 +156,7 @@ import static king.flow.common.CommonConstants.WITHDRAW_CARD_ACTION;
 import king.flow.swing.JXNumericPad;
 import king.flow.view.Action.NumericPadAction;
 import static king.flow.view.ComponentEnum.TEXT_FIELD;
+import king.flow.view.Driver;
 
 /**
  *
@@ -798,11 +799,18 @@ public class MainWindow {
                     .add(DeviceEnum.MEDICARE_CARD.value())
                     .build();
             String typeTips = Joiner.on(",\n").join(validTypeSet);
-            final String invalidTypeTip = "\nvalid type includes:\n["
+            String invalidTypeTip = "\nvalid type includes:\n["
                     + typeTips + "]";
             if (insertICardAction.getCardType() == null) {
                 promptIncompleteActionBlockErr(INSERT_IC_ACTION, component, panel, pageURI, invalidTypeTip);
             } else if (!validTypeSet.contains(insertICardAction.getCardType().value())) {
+                promptMistakenTypeBlockErr(component.getId(), INSERT_IC_ACTION, "cardType",
+                        component, panel, pageURI, invalidTypeTip);
+            } else if (!winNode.getDriver().getDevice()
+                    .stream()
+                    .anyMatch(
+                            (Driver.Device device) -> device.getType() == insertICardAction.getCardType())) {
+                invalidTypeTip = String.format("\nNo device driver config set for cardType [%s]", insertICardAction.getCardType().value());
                 promptMistakenTypeBlockErr(component.getId(), INSERT_IC_ACTION, "cardType",
                         component, panel, pageURI, invalidTypeTip);
             }

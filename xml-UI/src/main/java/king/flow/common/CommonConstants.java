@@ -168,6 +168,7 @@ public class CommonConstants {
             .add(DeviceEnum.HIS_CARD)
             .add(DeviceEnum.KEYBOARD)
             .add(DeviceEnum.MAGNET_CARD)
+            .add(DeviceEnum.MEDICARE_CARD)
             .add(DeviceEnum.PATIENT_CARD)
             .add(DeviceEnum.PID_CARD)
             .add(DeviceEnum.PKG_8583)
