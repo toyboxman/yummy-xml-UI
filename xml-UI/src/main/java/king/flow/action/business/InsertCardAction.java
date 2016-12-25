@@ -231,7 +231,9 @@ public class InsertCardAction extends DefaultBaseAction {
 
                         jsonParameters.add(paramValue);
                     }
-
+                    
+                    getLogger(InsertCardAction.class.getName()).log(Level.INFO,
+                            "Medicare card operation parameters : \n{0}", jsonParameters.toString());
                     String result = CommonUtil.runMedicareCardCmd(jsonParameters.toString());
                     if (result == null || result.length() == 0) {
                         //fail to read card information
