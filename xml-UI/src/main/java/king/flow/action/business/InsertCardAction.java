@@ -9,6 +9,7 @@ import com.github.jsonj.JsonArray;
 import com.github.jsonj.JsonElement;
 import com.github.jsonj.JsonObject;
 import com.github.jsonj.JsonPrimitive;
+import com.github.jsonj.tools.JsonBuilder;
 import com.github.jsonj.tools.JsonParser;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -207,7 +208,7 @@ public class InsertCardAction extends DefaultBaseAction {
                 List<String> debug = successfulPage.getDebug();
 
                 if (debug.isEmpty()) {
-                    JsonArray jsonParameters = new JsonArray();
+                    JsonArray jsonParameters = JsonBuilder.array();
                     for (String param : parameters) {
                         Object meta = getBlockMeta(Integer.parseInt(param));
                         String paramValue = null;
@@ -229,9 +230,9 @@ public class InsertCardAction extends DefaultBaseAction {
                                 throw new Exception("No Valid Parameter Component set in parameters attribute");
                         }
 
-                        jsonParameters.add(paramValue);
+                        jsonParameters.add(String.format("\"%s\"", paramValue));
                     }
-                    
+
                     getLogger(InsertCardAction.class.getName()).log(Level.INFO,
                             "Medicare card operation parameters : \n{0}", jsonParameters.toString());
                     String result = CommonUtil.runMedicareCardCmd(jsonParameters.toString());
