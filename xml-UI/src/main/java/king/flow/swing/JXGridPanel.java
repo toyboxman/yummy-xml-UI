@@ -59,8 +59,8 @@ public class JXGridPanel extends JXPanel {
 
         final JXPanel previousPanel = new JXPanel();
         super.add(previousPanel, BorderLayout.WEST);
-        previousBtn = new JXButton("<html><h1>&lt;&lt;</html>");
-        nextBtn = new JXButton("<html><h1>&gt;&gt;</html>");
+        previousBtn = new JXButton(PREVIOUS_TXT);
+        nextBtn = new JXButton(NEXT_TXT);
         previousPanel.setLayout(null);
         previousPanel.add(previousBtn);
         previousPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));
@@ -80,8 +80,12 @@ public class JXGridPanel extends JXPanel {
             fadeIn();
         });
     }
-    private static final int BUTTON_HEIGHT = 60;
-    private static final int BUTTON_WIDTH = 60;
+    
+    //http://character-code.com/arrows-html-codes.php
+    private static final String NEXT_TXT = "<html><h1 style=\"font-size:160%;color:black\">&#10095;</html>";
+    private static final String PREVIOUS_TXT = "<html><h1 style=\"font-size:160%;color:black\">&#10094;</html>";
+    private static final int BUTTON_HEIGHT = 90;
+    private static final int BUTTON_WIDTH = 90;
 
     public JXGridPanel(int row, int column, int hgap, int vgap, int width, int height) {
         super(new BorderLayout());
@@ -95,8 +99,8 @@ public class JXGridPanel extends JXPanel {
 
         final JXPanel previousPanel = new JXPanel();
         super.add(previousPanel, BorderLayout.WEST);
-        previousBtn = new JXButton("<html><h3>&lt;&lt;</html>");
-        nextBtn = new JXButton("<html><h3>&gt;&gt;</html>");
+        previousBtn = new JXButton(PREVIOUS_TXT);
+        nextBtn = new JXButton(NEXT_TXT);
         previousPanel.setLayout(null);
         previousPanel.add(previousBtn);
         previousPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));

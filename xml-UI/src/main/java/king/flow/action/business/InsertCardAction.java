@@ -111,7 +111,7 @@ public class InsertCardAction extends DefaultBaseAction {
                         progressTip = new JLabel(getResourceMsg(CashConductor.CASH_INSERT_PROMPT));
                         break;
                     case MEDICARE_CARD:
-                        progressTip = new JLabel(getResourceMsg(MedicareCardConductor.MEDICARE_CARD_INSERT_PROMPT));
+                        //progressTip = new JLabel(getResourceMsg(MedicareCardConductor.MEDICARE_CARD_INSERT_PROMPT));
                         break;
                     default:
                         progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
