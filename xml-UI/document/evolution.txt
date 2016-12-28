@@ -11,6 +11,29 @@ $ÎÄµµ¸ñÊ½¸ñÊ½ÈçÏÂ£º
 ĞŞ¸ÄÏî3
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 ************************************************************************************************************************
+2016.12.28
+************************************************************************************************************************
+1.ÔöÇ¿Ç°ÖÃÖØ¶¨ÏòÖ¸Áî¼¯
+Ô­ÏÈÖ»ÓĞÇ¿ÖÆÌø×ªµ½ÁíÒ»¸öÒ³ÃæÖ¸Áî
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TLS>
+    <retcode>0</retcode>
+    <terminalid>00000001</terminalid>
+    <okmsg>ÕË»§Óà¶î:1896.36Ôª</okmsg>
+    <errmsg/>
+    <redirection>601</redirection>
+</TLS>
+
+ÏÖÔÚÔö¼ÓÌø×ªºó»¹ÄÜ´¥·¢¶¯×÷Ö¸Áî
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TLS>
+    <retcode>0</retcode>
+    <terminalid>00000001</terminalid>
+    <okmsg>ÕË»§Óà¶î:1896.36Ôª</okmsg>
+    <errmsg/>
+    <redirection>{"page":"123456", "trigger" : "4556"}</redirection>
+</TLS>
+************************************************************************************************************************
 2016.12.24
 ************************************************************************************************************************
 1.¼¯³ÉÒ½±£¿¨Çı¶¯
@@ -456,21 +479,21 @@ openshell showApp "{\"trigger\":\"4\", \"display\":{\"8\":\"1112\"}}"  --- Í¨¹ı²
 ************************************************************************************************************************
 1.Ôö¼ÓencryptKeyboardActionÅäÖÃÏî
 <action>
-        <encryptKeyboardAction>
-            <moneyId>201501012</moneyId>  --Ö¸¶¨¼ÆËãMAC¶ÔÓ¦½ğ¶îµÄ¿Ø¼şid,±ØÉèÏî
-            <nextTrigger>201801219</nextTrigger>  --Èç¹ûĞèÒª¸ù¾İ¼üÅÌÌá½»¶¯×÷´¥·¢½çÃæÏÂÒ»²½²Ù×÷¿ÉÒÔÉèÎª°´Å¥ID,¿ÉÑ¡Ïî
-            <cancelTrigger>201801219</cancelTrigger>  --Èç¹ûĞèÒª¸ù¾İ¼üÅÌÍË³ö¶¯×÷´¥·¢½çÃæ·µ»Ø²Ù×÷¿ÉÒÔÉèÎª°´Å¥ID,¿ÉÑ¡Ïî
-        </encryptKeyboardAction>
+    <encryptKeyboardAction>
+        <moneyId>201501012</moneyId>  --Ö¸¶¨¼ÆËãMAC¶ÔÓ¦½ğ¶îµÄ¿Ø¼şid,±ØÉèÏî
+        <nextTrigger>201801219</nextTrigger>  --Èç¹ûĞèÒª¸ù¾İ¼üÅÌÌá½»¶¯×÷´¥·¢½çÃæÏÂÒ»²½²Ù×÷¿ÉÒÔÉèÎª°´Å¥ID,¿ÉÑ¡Ïî
+        <cancelTrigger>201801219</cancelTrigger>  --Èç¹ûĞèÒª¸ù¾İ¼üÅÌÍË³ö¶¯×÷´¥·¢½çÃæ·µ»Ø²Ù×÷¿ÉÒÔÉèÎª°´Å¥ID,¿ÉÑ¡Ïî
+    </encryptKeyboardAction>
 </action>
 ************************************************************************************************************************
 2016.4.12
 ************************************************************************************************************************
 1.Ôö¼ÓencryptKeyboardActionÅäÖÃÏî
 <action>
-        <encryptKeyboardAction>
-            <moneyId>201501012</moneyId>  --Ö¸¶¨¼ÆËãMAC¶ÔÓ¦½ğ¶îµÄ¿Ø¼şid,±ØÉèÏî
-            <trigger>201801219</trigger>  --Èç¹ûĞèÒª¸ù¾İ¼üÅÌÌá½»¶¯×÷´¥·¢½çÃæÏÂÒ»²½²Ù×÷¿ÉÒÔÉèÎª°´Å¥ID,¿ÉÑ¡Ïî
-        </encryptKeyboardAction>
+    <encryptKeyboardAction>
+        <moneyId>201501012</moneyId>  --Ö¸¶¨¼ÆËãMAC¶ÔÓ¦½ğ¶îµÄ¿Ø¼şid,±ØÉèÏî
+        <trigger>201801219</trigger>  --Èç¹ûĞèÒª¸ù¾İ¼üÅÌÌá½»¶¯×÷´¥·¢½çÃæÏÂÒ»²½²Ù×÷¿ÉÒÔÉèÎª°´Å¥ID,¿ÉÑ¡Ïî
+    </encryptKeyboardAction>
 </action>
 ************************************************************************************************************************
 2016.4.11
@@ -748,31 +771,31 @@ public native int CloseComm(String comport, String errstring);
 
 ÅäÖÃÈçÏÂ£º
 1.ÊÂÎñĞÔĞĞÎª
-  balanceTransAction ¶¨Òå: ÔÚ³¬Ê±Çé¿öÏÂÄÜ¹»×Ô¶¯·¢ËÍ³åÕË±¨ÎÄ
-       <action>
-            <balanceTransAction>
-                <prsCode>pay_pubiao</prsCode>
-                <conditions>201501014,201501016,201501012</conditions>
-                <nextStep>  
-                    <nextPanel>201588</nextPanel> 
-                    <display>201586</display>  
-                </nextStep>
-                <exception> 
-                    <nextPanel>201599</nextPanel>  
-                    <display>201596</display>  
-                </exception>
-                <checkRules>
-                    <notNull>
-                        <content>201501014</content>
-                        <errMsg>Çëµã»÷¿¨ºÅ¿òÓÒ²à°´Å¥¶ÁÈ¡ÒøĞĞ¿¨</errMsg>
-                    </notNull>
-                    <notNull>
-                        <content>201501016</content>
-                        <errMsg>ÇëÓÃÃÜÂë¼üÅÌÊäÈëÃÜÂë</errMsg>
-                    </notNull>
-                </checkRules>
-            </balanceTransAction>
-        </action>
+balanceTransAction ¶¨Òå: ÔÚ³¬Ê±Çé¿öÏÂÄÜ¹»×Ô¶¯·¢ËÍ³åÕË±¨ÎÄ
+<action>
+    <balanceTransAction>
+        <prsCode>pay_pubiao</prsCode>
+        <conditions>201501014,201501016,201501012</conditions>
+        <nextStep>  
+            <nextPanel>201588</nextPanel> 
+            <display>201586</display>  
+        </nextStep>
+        <exception> 
+            <nextPanel>201599</nextPanel>  
+            <display>201596</display>  
+        </exception>
+        <checkRules>
+            <notNull>
+                <content>201501014</content>
+                <errMsg>Çëµã»÷¿¨ºÅ¿òÓÒ²à°´Å¥¶ÁÈ¡ÒøĞĞ¿¨</errMsg>
+            </notNull>
+            <notNull>
+                <content>201501016</content>
+                <errMsg>ÇëÓÃÃÜÂë¼üÅÌÊäÈëÃÜÂë</errMsg>
+            </notNull>
+        </checkRules>
+    </balanceTransAction>
+</action>
 
 2.³¬Ê±Éè¶¨
 ÔÚbackend.xmlÔö¼ÓÒ»Ïî³¬Ê±ÅäÖÃ£¬µ¥Î»ÎªÃë
@@ -802,13 +825,13 @@ public native int CloseComm(String comport, String errstring);
 2.¼ÓÈë¶Ô×ÖÌå±³¾°ÑÕÉ«Ö§³Ö
 
 ÅäÖÃÈçÏÂ£º
-        <action> 
-            <setFontAction>
-                <fontSize>25</fontSize>
-                <fontColor>255,255,0</fontColor>
-                <fontBgColor>255,0,255</fontBgColor>
-            </setFontAction>
-        </action>
+<action> 
+    <setFontAction>
+        <fontSize>25</fontSize>
+        <fontColor>255,255,0</fontColor>
+        <fontBgColor>255,0,255</fontBgColor>
+    </setFontAction>
+</action>
 
 ************************************************************************************************************************
 2016.2.19
@@ -927,10 +950,26 @@ public native int CloseComm(String comport, String errstring);
 Ç°ÖÃÔÚ·µ»ØÕıÈ·½á¹ûÊ±ºòĞèÒª¼ÓÉÏÖØ¶¨Ïò¡¾redirection¡¿µÄ±êÇ©
 
 Ç°¶Ë·¢ËÍÕÊ»§Óà¶î²éÑ¯ÇëÇó
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><counter>3</counter><uid>20160124201906151024</uid><prscode>queryAcount</prscode><terminalid>00000001</terminalid><branchno>test_bank_division</branchno><N_601304>123</N_601304><N_601306>123</N_601306></TLS>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TLS>
+    <counter>3</counter>
+    <uid>20160124201906151024</uid>
+    <prscode>queryAcount</prscode>
+    <terminalid>00000001</terminalid>
+    <branchno>test_bank_division</branchno>
+    <N_601304>123</N_601304>
+    <N_601306>123</N_601306>
+</TLS>
 
 Ç°ÖÃ·µ»Ø½á¹û£¬²¢ÇÒÒªÇóºöÂÔÅäÖÃµÄÌø×ª£¬Ç¿ÖÆÌø×ªµ½ÁíÒ»¸öÒ³Ãæ601
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><retcode>0</retcode><terminalid>00000001</terminalid><okmsg>ÕË»§Óà¶î:1896.36Ôª</okmsg><errmsg></errmsg><redirection>601</redirection></TLS>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TLS>
+    <retcode>0</retcode>
+    <terminalid>00000001</terminalid>
+    <okmsg>ÕË»§Óà¶î:1896.36Ôª</okmsg>
+    <errmsg/>
+    <redirection>601</redirection>
+</TLS>
 
 Ç°¶Ë»á¼ÇÂ¼ÈÕÖ¾ÈçÏÂ
 Ò»ÔÂ 24, 2016 8:19:09 ÏÂÎç king.flow.action.DefaultMsgSendAction$2 run
@@ -960,8 +999,8 @@ public native int CloseComm(String comport, String errstring);
 ÅäÖÃÖ÷ÒªÔÚÅäÖÃÎÄµµÖĞ¹ØÓÚsendMsgActionµÄÕÂ½Ú£¬ÆäÖĞÓĞĞÂÔöµÄAdvanced action configurationËµÃ÷
 ±ä»¯ÔÚnextStep±êÇ©ÅäÖÃÉÏ
 <nextStep> 
-        <nextPanel>300</nextPanel> 
-        <display>311, 312</display>  --Õâ¸öµØ·½Ô­ÏÈÖ»Ö§³ÖÒ»¸öÏÔÊ¾¿Ø¼ş£¬ÏÖÔÚ¿ÉÒÔÖ§³Ö¶à¸ö  
+    <nextPanel>300</nextPanel> 
+    <display>311, 312</display>  --Õâ¸öµØ·½Ô­ÏÈÖ»Ö§³ÖÒ»¸öÏÔÊ¾¿Ø¼ş£¬ÏÖÔÚ¿ÉÒÔÖ§³Ö¶à¸ö  
 </nextStep>
 
 Ç°ÖÃ·µ»ØÊı¾İÊ±ºò£¬¾ÍĞèÒª¸ù¾İÕâÖÖÇé¿ö·µ»ØJSONµÄÊı×éÊı¾İ£¬ÑùÀıÈçÏÂ£º
@@ -975,10 +1014,34 @@ public native int CloseComm(String comport, String errstring);
 1.³åÕË±¨ÎÄµÄxml tag¾Í½Ğbid ±íÊ¾balanceID£» uid±íÊ¾µ±Ç°³åÕË²Ù×÷µÄÁ÷Ë®ºÅ£¬bidÓÃÔÚ³åÕË±¨ÎÄÖĞ±íÊ¾³åµôµÄÄÇÒ»ÌõÁ÷Ë®ºÅ
 2.³åÕË±¨ÎÄ¸ñÊ½ÈçÏÂÕâ¸öÑù×Ó£º
 1.Ô­±¨ÎÄ
-INFO: TLS Message : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><counter>3</counter><uid>20150817145454534229</uid><prscode>buygas</prscode><terminalid>00000001</terminalid><branchno>test_bank_division</branchno><N_370005>111111</N_370005><N_370004>123</N_370004><N_370006>123</N_370006></TLS>
+TLS Message : 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TLS>
+    <counter>3</counter>
+    <uid>20150817145454534229</uid>
+    <prscode>buygas</prscode>
+    <terminalid>00000001</terminalid>
+    <branchno>test_bank_division</branchno>
+    <N_370005>111111</N_370005>
+    <N_370004>123</N_370004>
+    <N_370006>123</N_370006>
+</TLS>
 
 2.Ğ´Èëic¿¨Ê§°Üºó£¬·¢³ö³åÕË±¨ÎÄ
-INFO: TLS Message : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><TLS><counter>4</counter><uid>20150817145454615229</uid><bid>20150817145454534229</bid><prscode>buygas</prscode><terminalid>00000001</terminalid><branchno>test_bank_division</branchno><cargo></cargo><N_370005>111111</N_370005><N_370004>123</N_370004><N_370006>123</N_370006></TLS>
+TLS Message : 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TLS>
+    <counter>4</counter>
+    <uid>20150817145454615229</uid>
+    <bid>20150817145454534229</bid>
+    <prscode>buygas</prscode>
+    <terminalid>00000001</terminalid>
+    <branchno>test_bank_division</branchno>
+    <cargo/>
+    <N_370005>111111</N_370005>
+    <N_370004>123</N_370004>
+    <N_370006>123</N_370006>
+</TLS>
 
 ¶şÕßÇø±ğÔÚÓÚ¶àÒ»¸öbid
 

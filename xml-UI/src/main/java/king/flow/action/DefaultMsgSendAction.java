@@ -77,6 +77,8 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
     protected Map<Integer, String> notNullMsg = null;
     protected final List<Integer> doneDisplayList = new ArrayList<>();
     protected final List<Integer> errDisplayList = new ArrayList<>();
+    protected static final String REDIRECTION_TRIGGER_INSTRUCTION = "trigger";
+    protected static final String REDIRECTION_PAGE_INSTRUCTION = "page";
 
     public DefaultMsgSendAction(String prsCode, int cmdCode, List<String> conditionList, MsgSendAction.NextStep next,
             MsgSendAction.Exception expPage, Rules checkRules) {
@@ -439,9 +441,21 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
                             "Be forced to jump to page[{0}], ignore designated page[{1}]",
                             new Object[]{redirection, String.valueOf(next.getNextPanel())});
-                    int forwardPage = 0;
+                    int forwardPage = -1;
+                    int trigger = -1;
                     try {
-                        forwardPage = Integer.parseInt(redirection);
+                        JsonParser jsonParser = new JsonParser();
+                        JsonObject instruction = jsonParser.parse(redirection).asObject();
+                        if (instruction.getString(REDIRECTION_PAGE_INSTRUCTION) != null) {
+                            forwardPage = Integer.parseInt(instruction.getString(REDIRECTION_PAGE_INSTRUCTION));
+                        }
+                        if (instruction.getString(REDIRECTION_TRIGGER_INSTRUCTION) != null) {
+                            trigger = Integer.parseInt(instruction.getString(REDIRECTION_TRIGGER_INSTRUCTION));
+                        }
+                        getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
+                                "Get redirection instruction to jump to page[{0}], trigger component[{1}]",
+                                new Object[]{String.valueOf(forwardPage),
+                                    String.valueOf(trigger)});
                     } catch (Exception e) {
                         panelJump(next.getNextPanel());
                         return;
@@ -455,6 +469,9 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                         return;
                     }
                     panelJump(forwardPage);
+                    if (trigger != -1) {
+                        triggerAction(trigger);
+                    }
                 } else {
                     panelJump(next.getNextPanel());
 
@@ -480,7 +497,6 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     }
                 }// no redirection branch
             }
-
         });
     }
 
