@@ -112,6 +112,7 @@ public class InsertCardAction extends DefaultBaseAction {
                         break;
                     case MEDICARE_CARD:
                         //progressTip = new JLabel(getResourceMsg(MedicareCardConductor.MEDICARE_CARD_INSERT_PROMPT));
+                        progressTip = new JLabel("");
                         break;
                     default:
                         progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
@@ -197,6 +198,10 @@ public class InsertCardAction extends DefaultBaseAction {
         showOnComponent(failedDisplay.get(0),
                 errPrompt == null ? getResourceMsg(OPERATION_CARD_READ_ERROR) : errPrompt);
         panelJump(failedPage.getNextPanel());
+        Integer trigger = failedPage.getTrigger();
+        if (getBlockMeta(trigger) != null && (getBlockMeta(trigger) instanceof Component)) {
+            getBlock(trigger, JButton.class).doClick();
+        }
     }
 
     private class MedicareRunTask extends SwingWorker<String, String> {
@@ -233,16 +238,19 @@ public class InsertCardAction extends DefaultBaseAction {
                         jsonParameters.add(String.format("\"%s\"", paramValue));
                     }
 
+                    String variousParam = jsonParameters.toString();
                     getLogger(InsertCardAction.class.getName()).log(Level.INFO,
-                            "Medicare card operation parameters : \n{0}", jsonParameters.toString());
-                    String result = CommonUtil.runMedicareCardCmd(jsonParameters.toString());
-                    if (result == null || result.length() == 0) {
+                            "Medicare card operation parameters : \n{0}", variousParam);
+                    String result = CommonUtil.runMedicareCardCmd(variousParam);
+                    if (result == null) {
                         //fail to read card information
                         throw new Exception(MedicareCardConductor.MEDICARE_CARD_OPERATION_ERROR_PROMPT);
+                    } else if (result.length() == 0) {
+                        throw new Exception(variousParam);
                     }
 
                     getLogger(InsertCardAction.class.getName()).log(Level.INFO,
-                            "Medicare card operation reuslt : \n{0}", result);
+                            "Medicare card operation result : \n{0}", result);
                     JsonParser jsonParser = new JsonParser();
                     JsonObject element = jsonParser.parse(result).asObject();
 

@@ -485,7 +485,7 @@ public class CommonUtil {
                     "fail to catch resource item by key[{0}] due to error :\n{1}",
                     new Object[]{key, e.getMessage()});
         }
-        return null;
+        return key;
     }
 
     /* finger printer driver section */
@@ -909,7 +909,9 @@ public class CommonUtil {
         String cardInfo = null;
         try {
             System.loadLibrary(getDriverDll(MEDICARE_CARD));
-            cardInfo = MEDICARE_CARD_CONDUCTOR.runCmd(jsonParameter);
+            String errMsg = "";
+            cardInfo = MEDICARE_CARD_CONDUCTOR.runCmd(jsonParameter, errMsg);
+            jsonParameter = errMsg;
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,

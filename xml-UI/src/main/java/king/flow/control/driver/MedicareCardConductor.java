@@ -14,5 +14,5 @@ public class MedicareCardConductor {
     public static String MEDICARE_CARD_INSERT_PROMPT = "medicare.operation.insert.prompt";
     public static String MEDICARE_CARD_OPERATION_ERROR_PROMPT = "medicare.operation.error.prompt";
 
-    public native String runCmd(String jsonParameters);
+    public native String runCmd(String jsonParameters, String errMsg);
 }

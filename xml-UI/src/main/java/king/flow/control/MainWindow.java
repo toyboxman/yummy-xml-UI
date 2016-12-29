@@ -933,6 +933,20 @@ public class MainWindow {
                                 component, panel, pageURI, null);
                     }
                 }
+                
+                Integer trigger = insertICardAction.getException().getTrigger();
+                if (trigger != null) {
+                    if (!this.meta_blocks.containsKey(trigger)) {
+                        promptNonexistentBlockErr(trigger, INSERT_IC_ACTION, "trigger", component, panel, pageURI, null);
+                    }
+
+                    Object blockMeta = getBlockMeta(trigger);
+                    if (!(blockMeta instanceof Component)
+                            || ((Component) blockMeta).getType() != ComponentEnum.BUTTON) {
+                        promptMistakenTypeBlockErr(trigger, INSERT_IC_ACTION, exceptionPropertyName,
+                                component, panel, pageURI, "\ncorrect <trigger> type should be [BUTTON]");
+                    }
+                }
             } else {
                 //exception next step must be set
                 promptIncompleteActionBlockErr(INSERT_IC_ACTION, component, panel, pageURI, "[exception]");
