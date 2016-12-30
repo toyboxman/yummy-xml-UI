@@ -242,17 +242,19 @@ public class InsertCardAction extends DefaultBaseAction {
                     getLogger(InsertCardAction.class.getName()).log(Level.INFO,
                             "Medicare card operation parameters : \n{0}", variousParam);
                     String result = CommonUtil.runMedicareCardCmd(variousParam);
-                    if (result == null) {
+                    if (result == null || result.length() == 0) {
                         //fail to read card information
                         throw new Exception(MedicareCardConductor.MEDICARE_CARD_OPERATION_ERROR_PROMPT);
-                    } else if (result.length() == 0) {
-                        throw new Exception(variousParam);
                     }
 
                     getLogger(InsertCardAction.class.getName()).log(Level.INFO,
                             "Medicare card operation result : \n{0}", result);
                     JsonParser jsonParser = new JsonParser();
                     JsonObject element = jsonParser.parse(result).asObject();
+                    JsonElement error = element.get("Error");
+                    if (error != null) {
+                        throw new Exception(error.toString()); 
+                    }
 
                     List<String> displayValues = new ArrayList<>(element.size());
                     for (JsonElement value : element.values()) {

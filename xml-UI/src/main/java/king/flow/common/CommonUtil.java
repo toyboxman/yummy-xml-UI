@@ -911,7 +911,6 @@ public class CommonUtil {
             System.loadLibrary(getDriverDll(MEDICARE_CARD));
             String errMsg = "";
             cardInfo = MEDICARE_CARD_CONDUCTOR.runCmd(jsonParameter, errMsg);
-            jsonParameter = errMsg;
         } catch (Throwable t) {
             Logger.getLogger(CommonUtil.class.getName()).log(Level.WARNING,
                     DRIVER_LOG_TEMPLATE,
