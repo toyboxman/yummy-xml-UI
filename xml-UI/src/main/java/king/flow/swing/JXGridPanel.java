@@ -81,9 +81,10 @@ public class JXGridPanel extends JXPanel {
         });
     }
     
-    //http://character-code.com/arrows-html-codes.php
-    private static final String NEXT_TXT = "<html><h1 style=\"font-size:160%;color:black\">&#10095;</html>";
-    private static final String PREVIOUS_TXT = "<html><h1 style=\"font-size:160%;color:black\">&#10094;</html>";
+    // http://htmlarrows.com/
+    // http://character-code.com/arrows-html-codes.php
+    private static final String NEXT_TXT = "<html><h1 style=\"font-size:240%;color:black\">&#8680;</html>";
+    private static final String PREVIOUS_TXT = "<html><h1 style=\"font-size:240%;color:black\">&#8678;</html>";
     private static final int BUTTON_HEIGHT = 90;
     private static final int BUTTON_WIDTH = 90;
 
