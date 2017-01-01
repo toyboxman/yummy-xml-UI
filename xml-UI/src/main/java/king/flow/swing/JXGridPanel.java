@@ -82,8 +82,8 @@ public class JXGridPanel extends JXPanel {
         });
     }
 
-    // http://htmlarrows.com/
-    // http://character-code.com/arrows-html-codes.php
+    // character icon http://htmlarrows.com/
+    // character icon http://character-code.com/arrows-html-codes.php
     private static final String NEXT_TXT = "<html><h1 style=\"font-size:220%;color:black\">&gt;</html>";
     private static final String PREVIOUS_TXT = "<html><h1 style=\"font-size:220%;color:black\">&lt;</html>";
     private static final int BUTTON_HEIGHT = 80;
