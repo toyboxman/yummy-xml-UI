@@ -13,8 +13,13 @@ import com.github.jsonj.tools.JsonBuilder;
 import com.github.jsonj.tools.JsonParser;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.ComponentAdapter;
+import java.awt.event.ComponentEvent;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Timer;
+import java.util.TimerTask;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
@@ -119,25 +124,57 @@ public class InsertCardAction extends DefaultBaseAction {
                         break;
                 }
 
+                JLabel timeoutTip = new JLabel();
                 Window windowNode = getWindowNode();
                 UiStyle uiStyle = windowNode.getUiStyle();
                 if (uiStyle != null && uiStyle.getFont() != null && uiStyle.getFont().getName() != null) {
                     progressTip.setFont(new FontUIResource(uiStyle.getFont().getName(), java.awt.Font.BOLD, 50));
+                    timeoutTip.setFont(new FontUIResource(uiStyle.getFont().getName(), java.awt.Font.BOLD, 50));
                 } else {
                     progressTip.setFont(new FontUIResource("Dialog", java.awt.Font.BOLD, 50));
+                    timeoutTip.setFont(new FontUIResource("Dialog", java.awt.Font.BOLD, 50));
                 }
                 progressTip.setHorizontalAlignment(SwingConstants.CENTER);
                 progressTip.setVerticalAlignment(SwingConstants.BOTTOM);
+                timeoutTip.setHorizontalAlignment(SwingConstants.CENTER);
+                timeoutTip.setVerticalAlignment(SwingConstants.BOTTOM);
+
                 final JDialog progressAnimation = buildAnimationDialog(animationFile);
                 progressTip.setBounds(0, 120, progressAnimation.getBounds().width, 80);
-                progressAnimation.getContentPane().add(progressTip, 1);
+                //progressTip.setBorder(new LineBorder(Color.yellow));
+                timeoutTip.setBounds(0, 60, progressAnimation.getBounds().width, 60);
+                //timeoutTip.setBorder(new LineBorder(Color.red));
+
+                progressAnimation.getContentPane().add(timeoutTip, 1);
+                progressAnimation.getContentPane().add(progressTip, 2);
+
                 final ImageIcon bgImage = CommonUtil.getImageIcon("/image/2.jpg");
                 //final ImageIcon bgImage = CommonUtil.getDefaultBackgroundImage();
                 if (bgImage != null) {
-                    progressAnimation.getContentPane().add(new JLabel(bgImage), 2);
+                    progressAnimation.getContentPane().add(new JLabel(bgImage), 3);
                 } else {
-                    progressAnimation.getContentPane().add(new JLabel(), 2);
+                    progressAnimation.getContentPane().add(new JLabel(), 3);
                 }
+
+                progressAnimation.addComponentListener(new ComponentAdapter() {
+                    final Timer timer = new Timer();
+
+                    @Override
+                    public void componentShown(ComponentEvent e) {
+
+                        timer.scheduleAtFixedRate(new TimerTask() {
+                            int i = 40;
+
+                            public void run() {
+                                timeoutTip.setText(String.valueOf(i--));
+                                if (i < 0) {
+                                    timer.cancel();
+                                }
+                            }
+                        }, 0, TimeUnit.SECONDS.toMillis(1));
+                    }
+
+                });
 
                 switch (cardType) {
                     case GZ_CARD:
@@ -253,7 +290,7 @@ public class InsertCardAction extends DefaultBaseAction {
                     JsonObject element = jsonParser.parse(result).asObject();
                     JsonElement error = element.get("Error");
                     if (error != null) {
-                        throw new Exception(error.toString()); 
+                        throw new Exception(error.toString());
                     }
 
                     List<String> displayValues = new ArrayList<>(element.size());
