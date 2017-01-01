@@ -29,6 +29,7 @@ import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.border.LineBorder;
+import javax.swing.plaf.FontUIResource;
 import king.flow.common.CommonUtil;
 import org.jdesktop.swingx.JXButton;
 import org.jdesktop.swingx.JXLabel;
@@ -84,8 +85,9 @@ public class JXGridPanel extends JXPanel {
 
     // character icon http://htmlarrows.com/
     // character icon http://character-code.com/arrows-html-codes.php
-    private static final String NEXT_TXT = "<html><h1 style=\"font-size:220%;color:black\">&gt;</html>";
-    private static final String PREVIOUS_TXT = "<html><h1 style=\"font-size:220%;color:black\">&lt;</html>";
+    //private static final String NEXT_TXT = "<html><h1 style=\"font-size:220%\">&gt;</html>";
+    private static final String NEXT_TXT = ">";
+    private static final String PREVIOUS_TXT = "<";
     private static final int BUTTON_HEIGHT = 80;
     private static final int BUTTON_WIDTH = 80;
 
@@ -103,10 +105,12 @@ public class JXGridPanel extends JXPanel {
         super.add(previousPanel, BorderLayout.WEST);
         previousBtn = new JXButton(PREVIOUS_TXT);
         nextBtn = new JXButton(NEXT_TXT);
-        previousBtn.setHorizontalTextPosition(SwingConstants.CENTER);
-        previousBtn.setVerticalTextPosition(SwingConstants.CENTER);
-        nextBtn.setHorizontalTextPosition(SwingConstants.CENTER);
-        nextBtn.setVerticalTextPosition(SwingConstants.CENTER);
+        previousBtn.setHorizontalAlignment(SwingConstants.LEFT);
+        previousBtn.setVerticalAlignment(SwingConstants.TOP);
+        previousBtn.setFont(new FontUIResource("Dialog", java.awt.Font.BOLD, 64));
+        nextBtn.setHorizontalAlignment(SwingConstants.RIGHT);
+        nextBtn.setVerticalAlignment(SwingConstants.TOP);
+        nextBtn.setFont(new FontUIResource("Dialog", java.awt.Font.BOLD, 64));
         previousPanel.setLayout(null);
         previousPanel.add(previousBtn);
         previousPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));

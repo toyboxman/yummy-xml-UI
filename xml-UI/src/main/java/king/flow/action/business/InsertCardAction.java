@@ -11,6 +11,7 @@ import com.github.jsonj.JsonObject;
 import com.github.jsonj.JsonPrimitive;
 import com.github.jsonj.tools.JsonBuilder;
 import com.github.jsonj.tools.JsonParser;
+import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.ComponentAdapter;
@@ -136,13 +137,14 @@ public class InsertCardAction extends DefaultBaseAction {
                 }
                 progressTip.setHorizontalAlignment(SwingConstants.CENTER);
                 progressTip.setVerticalAlignment(SwingConstants.BOTTOM);
-                timeoutTip.setHorizontalAlignment(SwingConstants.CENTER);
+                timeoutTip.setHorizontalAlignment(SwingConstants.RIGHT);
                 timeoutTip.setVerticalAlignment(SwingConstants.BOTTOM);
+                timeoutTip.setForeground(Color.red);
 
                 final JDialog progressAnimation = buildAnimationDialog(animationFile);
                 progressTip.setBounds(0, 120, progressAnimation.getBounds().width, 80);
                 //progressTip.setBorder(new LineBorder(Color.yellow));
-                timeoutTip.setBounds(0, 60, progressAnimation.getBounds().width, 60);
+                timeoutTip.setBounds(0, 30, progressAnimation.getBounds().width, 60);
                 //timeoutTip.setBorder(new LineBorder(Color.red));
 
                 progressAnimation.getContentPane().add(timeoutTip, 1);
