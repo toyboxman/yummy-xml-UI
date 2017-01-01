@@ -26,6 +26,7 @@ import javax.swing.JComponent;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+import javax.swing.SwingConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.border.LineBorder;
 import king.flow.common.CommonUtil;
@@ -80,13 +81,13 @@ public class JXGridPanel extends JXPanel {
             fadeIn();
         });
     }
-    
+
     // http://htmlarrows.com/
     // http://character-code.com/arrows-html-codes.php
-    private static final String NEXT_TXT = "<html><h1 style=\"font-size:240%;color:black\">&#8680;</html>";
-    private static final String PREVIOUS_TXT = "<html><h1 style=\"font-size:240%;color:black\">&#8678;</html>";
-    private static final int BUTTON_HEIGHT = 90;
-    private static final int BUTTON_WIDTH = 90;
+    private static final String NEXT_TXT = "<html><h1 style=\"font-size:220%;color:black\">&gt;</html>";
+    private static final String PREVIOUS_TXT = "<html><h1 style=\"font-size:220%;color:black\">&lt;</html>";
+    private static final int BUTTON_HEIGHT = 80;
+    private static final int BUTTON_WIDTH = 80;
 
     public JXGridPanel(int row, int column, int hgap, int vgap, int width, int height) {
         super(new BorderLayout());
@@ -102,6 +103,10 @@ public class JXGridPanel extends JXPanel {
         super.add(previousPanel, BorderLayout.WEST);
         previousBtn = new JXButton(PREVIOUS_TXT);
         nextBtn = new JXButton(NEXT_TXT);
+        previousBtn.setHorizontalTextPosition(SwingConstants.CENTER);
+        previousBtn.setVerticalTextPosition(SwingConstants.CENTER);
+        nextBtn.setHorizontalTextPosition(SwingConstants.CENTER);
+        nextBtn.setVerticalTextPosition(SwingConstants.CENTER);
         previousPanel.setLayout(null);
         previousPanel.add(previousBtn);
         previousPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));
