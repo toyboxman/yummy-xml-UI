@@ -668,9 +668,10 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                 String value = get();
                 if (value != null) {
                     value = value.trim();
-                    getLogger(CommunicationWorker.class.getName()).log(Level.FINE, "Retrieve response from server : \n{0}", value);
+                    getLogger(CommunicationWorker.class.getName()).log(Level.FINE,
+                            "Retrieve response from server : \n{0}", value);
                 } else {
-                    getLogger(CommunicationWorker.class.getName()).log(Level.INFO, "Retrieve no response from server");
+                    getLogger(CommunicationWorker.class.getName()).log(Level.INFO, "Retrieve nothing from server");
                     showErrMsg(Integer.MIN_VALUE, getResourceMsg("terminal.no.response.prompt"));
                     return;
                 }
@@ -702,7 +703,8 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     showDoneMsg(result);
                 }
             } catch (InterruptedException | ExecutionException | JsonParseException ex) {
-                getLogger(CommunicationWorker.class.getName()).log(Level.WARNING, null, ex);
+                getLogger(CommunicationWorker.class.getName()).log(Level.WARNING,
+                        "Hit unexpected response-handling error :\n{0}", ex.getMessage());
             }
         }
 
