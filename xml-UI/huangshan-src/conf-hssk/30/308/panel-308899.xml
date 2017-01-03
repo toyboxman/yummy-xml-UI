@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
+    <id>308899</id>
+    <type>Panel</type>
+    <active>false</active>
+    <background>/image/2.png</background>
+
+    <component>
+        <id>308896</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>150</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+            <text>住院预交金充值失败</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    <component>
+        <id>308897</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>350</y>
+                <width>600</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>提示信息:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+                <fontStyle>BOLD</fontStyle> <!--optional setting, valid value is BOLD/PLAIN/ITALIC -->
+            </setFontAction>
+        </action>
+        
+    </component>
+    <component>
+        <id>308895</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>550</x>
+                <y>600</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>30</nextPanel>
+            </jumpPanelAction>
+        </action>
+       <action>
+            <cleanAction>
+                  <conditions>3080104,3080204,3080206,3080208,3080404</conditions>
+            </cleanAction> 
+        </action> 
+    </component>
+
+</panel>

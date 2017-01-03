@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
+    <id>401899</id>
+    <type>Panel</type>
+    <active>false</active>
+    <background>/image/2.png</background>
+
+    <component>
+        <id>401896</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>150</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+            <text>当日挂号失败</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    <component>
+        <id>401897</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>350</x>
+                <y>350</y>
+                <width>600</width>
+                <heigh>50</heigh>
+            </rect>
+            <text>提示信息:</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+                <fontStyle>BOLD</fontStyle> <!--optional setting, valid value is BOLD/PLAIN/ITALIC -->
+            </setFontAction>
+        </action>
+        
+    </component>
+    
+    <component>
+        <id>401895</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>550</x>
+                <y>600</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>40</nextPanel>
+            </jumpPanelAction>
+        </action>
+       <action>
+            <cleanAction>
+                <conditions>4010203,4010205,4010207,4010209,4010212,4010214,4010224,4010219,4010220,4010221,4010304,4010404,4010406,4010407,4010409,4010420,4010424,4010425,4010426,4010427</conditions>
+            </cleanAction> 
+        </action> 
+    </component>
+    
+
+
+</panel>

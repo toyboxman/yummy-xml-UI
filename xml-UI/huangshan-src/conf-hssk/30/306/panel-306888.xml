@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     发送医院后台HIS扣款
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
+    <id>306888</id>
+    <type>Panel</type>
+    <active>false</active>
+    <background>/image/2.jpg</background>
+    <component>
+        <id>306887</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>90</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>门诊清单查询成功</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>306886</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>220</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+        </attribute>
+    </component>
+    
+    <component>
+        <id>306884</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>80</x>
+                <y>78</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>确认完成</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>30</nextPanel>
+            </jumpPanelAction>
+        </action>
+        <action>
+            <cleanAction>
+                <conditions>3060203,3060304,3060306,3060308,3060310,3060310,3060314</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+    <component>
+        <id>306883</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>20</x>
+                <y>920</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>门诊清单查询</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+</panel>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+    <id>40101</id>
+    <type>Panel</type>
+    <active>false</active>
+    <background>/image/3.png</background>
+    <component>
+        <id>4010102</id>
+        <type>Button</type>
+        <attribute>
+            <text>当日挂号</text>
+            <rect>
+                <x>1231</x>
+                <y>453</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <insertICardAction>
+                <cardType>MedicareCard</cardType>
+                <nextStep>
+                    <nextPanel>40102</nextPanel>
+                    <display>4010203,4010205,4010207,4010209,4010212,4010214,4010224</display>
+                    <!--<trigger>4010104</trigger>-->
+                    <!--<debug>1012003284</debug>-->
+                    <!--<nextPanel>201501</nextPanel>
+                    <display>20150411,20150412</display>
+                    <trigger>2015042</trigger>
+                    <debug>章三 10120032210038484</debug>-->
+                </nextStep>
+                <exception>
+                    <nextPanel>401899</nextPanel>
+                    <display>401897</display>
+                </exception>
+            	<animationTip>/image/sk_yb.gif</animationTip>
+            	<parameters>
+            		4010105
+				</parameters> 
+				<display>
+				   4010203
+				   4010205
+				   4010207
+				   4010209
+				   4010212
+				   4010214
+				   4010224
+				</display>
+            </insertICardAction>
+        </action>
+    </component>
+
+  <component>
+        <id>4010104</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>920</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>40</nextPanel>
+            </jumpPanelAction>
+        </action>
+        <action>
+            <cleanAction>
+                <conditions>4010203,4010205,4010207,4010209,4010212,4010214,4010224</conditions>
+            </cleanAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>4010105</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>1400</x>
+                <y>1400</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>2101ybdrgh</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
+</panel>
+

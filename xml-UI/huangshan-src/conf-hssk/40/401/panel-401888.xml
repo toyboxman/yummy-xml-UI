@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
+    <id>401888</id>
+    <type>Panel</type>
+    <active>false</active>
+    <background>/image/2.jpg</background>
+    <component>
+        <id>401887</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>90</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>当日挂号成功</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+	
+    <component>
+        <id>401886</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>400</x>
+                <y>220</y>
+                <width>900</width>
+                <heigh>300</heigh>
+            </rect>
+        </attribute>
+    </component>
+    
+    <component>
+        <id>401884</id>
+        <type>Button</type>
+        <attribute>
+            <rect>
+                <x>80</x>
+                <y>78</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+            <text>确认完成</text>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>40</nextPanel>
+            </jumpPanelAction>
+        </action>
+        <action>
+            <cleanAction>
+                <conditions>4010203,4010205,4010207,4010209,4010212,4010214,4010224,4010219,4010220,4010221,4010304,4010404,4010406,4010407,4010409,4010420,4010424,4010425,4010426,4010427</conditions>
+            </cleanAction>
+        </action>   
+    </component>
+    
+   <component>
+        <id>401882</id>
+        <type>Button</type>
+        <attribute>
+            <text>打印</text>
+            <rect>
+                <x>1500</x>
+                <y>1780</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setPrinterAction>
+                <header>当天挂号凭条</header>
+                <tail>温馨提示:,1.请妥善保持您的凭条,2.请以医生实际接诊实际为准</tail>
+                <!--<debug>
+                    <prompt>&lt;html&gt;&#160;&#160;&#160;&#160;&#160;模拟打印结果&lt;br&gt;&lt;br&gt;国祯燃气公司&lt;br&gt;流水号:28999777887&lt;br&gt;缴费号:2001900018&lt;br&gt;用户名称:张胜利&lt;br&gt;缴费金额:356.00元&lt;br&gt;处理信息:缴费成功&lt;br&gt;此凭条仅供参照,如有异议请联系客服中心:96669&lt;/html&gt;</prompt>
+                </debug>-->
+            </setPrinterAction>
+        </action> 
+    </component>
+    
+    <component>
+        <id>401883</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>20</x>
+                <y>920</y>
+                <width>1024</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>当日挂号</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>25</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+</panel>

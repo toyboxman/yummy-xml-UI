@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+    <id>30201</id>
+    <type>Panel</type>
+    <active>false</active>
+    <background>/image/4.jpg</background>
+    <component>
+        <id>3020102</id>
+        <type>Label</type>
+        <attribute>
+            <text>办理就诊卡</text>
+            <rect>
+                <x>350</x>
+                <y>90</y>
+                <width>610</width>
+                <heigh>150</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+   <component>
+        <id>3020103</id>
+        <type>Button</type>
+        <attribute>
+            <text>读取身份证</text>
+            <rect>
+                <x>231</x>
+                <y>453</y>
+                <width>300</width>
+                <heigh>60</heigh>
+            </rect>
+        </attribute>
+
+        <action>
+            <insertICardAction>
+                <cardType>PIDCard</cardType>
+                <nextStep>
+                    <nextPanel>30202</nextPanel>
+                    <display>3020203,3020205,3020207,3020209,3020212,3020214</display>
+                    <!--<trigger>2015042</trigger>-->
+                    <!--<debug>章三 10120032210038484</debug>-->
+                    <!--<nextPanel>201501</nextPanel>
+                    <display>20150411,20150412</display>
+                    <trigger>2015042</trigger>
+                    <debug>章三 10120032210038484</debug>-->
+                </nextStep>
+                <exception>
+                    <nextPanel>302899</nextPanel>
+                    <display>302897</display>
+                </exception>
+            	  <animationTip>/image/swipe_id.gif</animationTip>
+            </insertICardAction>
+        </action>
+    </component>
+
+    <component>
+        <id>3020104</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>920</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>30</nextPanel>
+            </jumpPanelAction>
+        </action>
+        <action>
+            <cleanAction>
+                <conditions>3020203,3020205,3020207,3020209,3020212,3020214</conditions>
+            </cleanAction>
+        </action>
+    </component>
+
+</panel>
