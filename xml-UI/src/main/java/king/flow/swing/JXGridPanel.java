@@ -152,6 +152,7 @@ public class JXGridPanel extends JXPanel {
     }
 
     public void setDataModel(JsonArray dataModel) {
+        choosenElement.getAndSet(null);
         if (dataModel == null) {
             CommonUtil.getLogger(JXGridPanel.class.getName()).log(Level.WARNING,
                     "Invalid gridPanel data model {0}", dataModel);
