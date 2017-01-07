@@ -253,7 +253,6 @@ public class InsertCardAction extends DefaultBaseAction {
 
         @Override
         protected String doInBackground() throws Exception {
-            Thread.sleep(3000);
             try {
                 List<String> debug = successfulPage.getDebug();
 
