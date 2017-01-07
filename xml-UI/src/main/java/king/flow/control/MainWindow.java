@@ -478,9 +478,15 @@ public class MainWindow {
             }
             checkComponentType(targetId, TYPE_NUMERIC_PAD_ACTION, propertyName, component, panel, pageURI);
             final ComponentEnum type = ((Component) this.meta_blocks.get(targetId)).getType();
-            if (type != ComponentEnum.TEXT_FIELD) {
+            //validate supported component type config
+            ImmutableSet<String> supportedTypeSet = new ImmutableSet.Builder<String>()
+                    .add(ComponentEnum.TEXT_FIELD.value())
+                    .add(ComponentEnum.PASSWORD_FIELD.value())
+                    .build();
+            String typeTips = Joiner.on(",\n").join(supportedTypeSet);
+            if (!supportedTypeSet.contains(type.value())) {
                 String configErrMsgFooter = String.format("\n [%s] type cannot be supported here,\nonly for [%s]",
-                        type, ComponentEnum.TEXT_FIELD);
+                        type, typeTips);
                 promptMistakenTypeBlockErr(targetId, TYPE_NUMERIC_PAD_ACTION, propertyName,
                         component, panel, pageURI, configErrMsgFooter);
             }
