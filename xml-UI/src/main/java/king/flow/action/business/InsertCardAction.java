@@ -64,6 +64,7 @@ public class InsertCardAction extends DefaultBaseAction {
     private final InsertICardAction.NextStep successfulPage;
     private final InsertICardAction.Exception failedPage;
     private final String animationFile;
+    private final String operationPrompt;
     private final ArrayList<Integer> successfulDisplay;
     private final ArrayList<Integer> failedDisplay;
     private final List<String> parameters;
@@ -72,11 +73,13 @@ public class InsertCardAction extends DefaultBaseAction {
             InsertICardAction.NextStep successfulPage,
             InsertICardAction.Exception failedPage,
             String animation,
+            String prompt,
             List<String> parameters) {
         this.cardType = (cardType == null ? DeviceEnum.UNKNOWN : cardType);
         this.successfulPage = successfulPage;
         this.failedPage = failedPage;
         this.animationFile = animation;
+        this.operationPrompt = prompt;
         this.parameters = parameters;
         ArrayList<String> displayList = CommonUtil.buildListParameters(successfulPage.getDisplay());
         successfulDisplay = new ArrayList<>();
@@ -100,29 +103,32 @@ public class InsertCardAction extends DefaultBaseAction {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                switch (cardType) {
-                    case GZ_CARD:
-                        progressTip = new JLabel(getResourceMsg(GzCardConductor.GUOZHEN_CARD_INSERT_PROMPT));
-                        break;
-                    case PID_CARD:
-                        progressTip = new JLabel(getResourceMsg(PIDCardConductor.PID_CARD_INSERT_PROMPT));
-                        break;
-                    case HIS_CARD:
-                        progressTip = new JLabel(getResourceMsg(HISCardConductor.HIS_CARD_PICKUP_PROMPT));
-                        break;
-                    case PATIENT_CARD:
-                        progressTip = new JLabel(getResourceMsg(PatientCardConductor.HIS_CARD_INSERT_PROMPT));
-                        break;
-                    case CASH_SAVER:
-                        progressTip = new JLabel(getResourceMsg(CashConductor.CASH_INSERT_PROMPT));
-                        break;
-                    case MEDICARE_CARD:
-                        //progressTip = new JLabel(getResourceMsg(MedicareCardConductor.MEDICARE_CARD_INSERT_PROMPT));
-                        progressTip = new JLabel("");
-                        break;
-                    default:
-                        progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
-                        break;
+                if (operationPrompt != null) {
+                    progressTip = new JLabel(operationPrompt);
+                } else {
+                    switch (cardType) {
+                        case GZ_CARD:
+                            progressTip = new JLabel(getResourceMsg(GzCardConductor.GUOZHEN_CARD_INSERT_PROMPT));
+                            break;
+                        case PID_CARD:
+                            progressTip = new JLabel(getResourceMsg(PIDCardConductor.PID_CARD_INSERT_PROMPT));
+                            break;
+                        case HIS_CARD:
+                            progressTip = new JLabel(getResourceMsg(HISCardConductor.HIS_CARD_PICKUP_PROMPT));
+                            break;
+                        case PATIENT_CARD:
+                            progressTip = new JLabel(getResourceMsg(PatientCardConductor.HIS_CARD_INSERT_PROMPT));
+                            break;
+                        case CASH_SAVER:
+                            progressTip = new JLabel(getResourceMsg(CashConductor.CASH_INSERT_PROMPT));
+                            break;
+                        case MEDICARE_CARD:
+                            progressTip = new JLabel(getResourceMsg(MedicareCardConductor.MEDICARE_CARD_INSERT_PROMPT));
+                            break;
+                        default:
+                            progressTip = new JLabel(getResourceMsg("operation.ic.card.insert.prompt"));
+                            break;
+                    }
                 }
 
                 JLabel timeoutTip = new JLabel();
@@ -247,7 +253,7 @@ public class InsertCardAction extends DefaultBaseAction {
 
         @Override
         protected String doInBackground() throws Exception {
-
+            Thread.sleep(3000);
             try {
                 List<String> debug = successfulPage.getDebug();
 

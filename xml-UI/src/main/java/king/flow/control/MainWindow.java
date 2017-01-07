@@ -1698,8 +1698,10 @@ public class MainWindow {
             king.flow.view.Action.InsertICardAction.NextStep suceessfulPanel = insertICardAction.getNextStep();
             king.flow.view.Action.InsertICardAction.Exception failedPanel = insertICardAction.getException();
             String animation = insertICardAction.getAnimationTip();
+            String prompt = insertICardAction.getPromptTip();
             List<String> parameters = insertICardAction.getParameters();
-            InsertCardAction insertCardAction = new InsertCardAction(cardType, suceessfulPanel, failedPanel, animation, parameters);
+            InsertCardAction insertCardAction = new InsertCardAction(cardType, suceessfulPanel, failedPanel,
+                    animation, prompt, parameters);
             doAction(insertCardAction, component.getId());
         }
     }

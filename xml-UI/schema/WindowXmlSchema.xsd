@@ -351,6 +351,7 @@
                             </xs:complexType>
                         </xs:element>
                         <xs:element name="animationTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
+                        <xs:element name="promptTip" type="xs:string" maxOccurs="1" minOccurs="0"/>
                         <xs:element name="parameters" maxOccurs="1" minOccurs="0">
                             <xs:simpleType>
                                 <xs:list itemType='xs:string'/>

@@ -398,9 +398,12 @@ public class CommonUtil {
     }
 
     public static ArrayList<String> buildListParameters(String columnNames) {
+        ArrayList<String> names = new ArrayList<>();
+        if (columnNames == null) {
+            return names;
+        }
         Scanner scanner = new Scanner(columnNames);
         scanner.useDelimiter(",");
-        ArrayList<String> names = new ArrayList<>();
         while (scanner.hasNext()) {
             names.add(scanner.next().trim());
         }
