@@ -326,9 +326,9 @@
             <jumpPanelAction>
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
-            <cleanAction>
-                <conditions>30503011,30503013,30503015,30503017,30503018</conditions>
-            </cleanAction>
+			<cleanAction>
+				<conditions>3050103,3050204,3050206,3050208,3050210,3050304,3050404,3050210,3050214,30503011,30503013,30503015,30503017,30503018,30503011,30503013,30503015,30503017,30503018,30504011,30504013,30504015,30504017,30504018</conditions>
+			</cleanAction>
         </action>
         <action> 
             <setFontAction>

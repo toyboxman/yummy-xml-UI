@@ -34,7 +34,7 @@
                 <x>350</x>
                 <y>350</y>
                 <width>600</width>
-                <heigh>50</heigh>
+                <heigh>150</heigh>
             </rect>
             <text>提示信息:</text>
         </attribute>

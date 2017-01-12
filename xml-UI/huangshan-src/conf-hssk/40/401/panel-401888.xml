@@ -8,7 +8,7 @@
     <id>401888</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/2.jpg</background>
+    <background>/image/6.png</background>
     <component>
         <id>401887</id>
         <type>Label</type>
@@ -46,8 +46,8 @@
         <type>Button</type>
         <attribute>
             <rect>
-                <x>80</x>
-                <y>78</y>
+                <x>500</x>
+                <y>600</y>
                 <width>250</width>
                 <heigh>80</heigh>
             </rect>

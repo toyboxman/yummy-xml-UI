@@ -277,7 +277,7 @@
         </attribute>
    
        <action>
-       	   <!--检查医保卡在医院是否已经建档，如果没有建档则自动建档，如果已经建档则直接返回成功-->
+       	   <!--检查医保卡在医院是否已经建档-->
             <sendMsgAction>
                 <prsCode>query_renyuanxx_yibao_mzjs</prsCode>
                 <conditions>4050203,4050205,4050207,4050209,4050212,4050214,4050224</conditions>
@@ -313,7 +313,7 @@
                 <nextPanel>40</nextPanel>
             </jumpPanelAction>
             <cleanAction>
-                <conditions>4050203,4050205,4050207,4050209,4050212,4050214,4050224</conditions>
+                <conditions>4050203,4050205,4050207,4050209,4050212,4050214,4050224,4050217,4050219,4050220,4050221,4050222</conditions>
             </cleanAction>
         </action>
         <action> 
@@ -345,6 +345,35 @@
         <id>4050218</id>
         <type>Button</type>
         <attribute>
+            <text></text>
+            <rect>
+                <x>1420</x>
+                <y>700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+   	 <action>
+            <sendMsgAction>
+                <prsCode>query_zhanghucx_mzjf_yibao</prsCode>
+                <conditions>4050221</conditions>
+                <nextStep>  
+                    <nextPanel>40503</nextPanel> 
+                    <display>40503011,40503013,40503015</display>
+                    <trigger>4050229</trigger>
+                </nextStep>
+                <exception> 
+                    <nextPanel>405899</nextPanel>  
+                    <display>405897</display>  
+                </exception>
+            </sendMsgAction>
+        </action>
+    </component>
+    
+    <component>
+        <id>4050229</id>
+        <type>Button</type>
+        <attribute>
             <text>确认</text>
 			<!--<icon>/image/105.png</icon>-->
             <rect>
@@ -369,7 +398,8 @@
                 </exception>
             </sendMsgAction>
         </action>
-    </component>  
+    </component>
+    
     <component>
         <id>4050219</id>
         <type>TextField</type>

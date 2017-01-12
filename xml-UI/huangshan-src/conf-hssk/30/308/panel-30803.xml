@@ -15,8 +15,8 @@
             <rect>
                 <x>400</x>
                 <y>400</y>
-                <width>220</width>
-                <heigh>120</heigh>
+                <width>280</width>
+                <heigh>100</heigh>
             </rect>
         </attribute>
         <action>
@@ -46,15 +46,15 @@
             <rect>
                 <x>700</x>
                 <y>400</y>
-                <width>220</width>
-                <heigh>120</heigh>
+                <width>280</width>
+                <heigh>100</heigh>
             </rect>
         </attribute>
         <action>
             <setFontAction>
                 <fontSize>35</fontSize>
                 <fontColor>248,248,255</fontColor>
-                <fontBgColor>30, 144, 255</fontBgColor>
+                <fontBgColor>127, 127, 127</fontBgColor>
             </setFontAction>
         </action>
     </component>  

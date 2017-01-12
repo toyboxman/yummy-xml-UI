@@ -8,7 +8,7 @@
     <id>404888</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/2.jpg</background>
+    <background>/image/6.png</background>
     <component>
         <id>404887</id>
         <type>Label</type>

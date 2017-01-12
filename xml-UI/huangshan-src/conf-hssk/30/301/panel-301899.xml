@@ -66,9 +66,9 @@
         </action>
        <action>
             <cleanAction>
-                <conditions>3010103,3010204,3010206,3010208,3010210,3010214,3010304,3010404,3010406,3010407,3010409,301886</conditions>
-            </cleanAction> 
-        </action> 
+                <conditions>3010103,3010204,3010206,3010208,3010210,3010214,3010304,3010404,3010435,3010406,3010407,3010409,301897</conditions>
+            </cleanAction>
+        </action>  
     </component>
 
 </panel>

@@ -209,7 +209,7 @@
             <setFontAction>
                 <fontSize>35</fontSize>
                 <fontColor>248,248,255</fontColor>
-                <fontBgColor>30, 144, 255</fontBgColor>
+                <fontBgColor>127, 127, 127</fontBgColor>
             </setFontAction>
         </action>
     </component>  

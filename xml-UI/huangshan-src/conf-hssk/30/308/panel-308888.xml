@@ -9,7 +9,7 @@
     <id>308888</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/2.jpg</background>
+    <background>/image/6.png</background>
     <component>
         <id>308887</id>
         <type>Label</type>
@@ -56,7 +56,7 @@
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>30</nextPanel>
+                <nextPanel>1</nextPanel>
             </jumpPanelAction>
         </action>
         <action>

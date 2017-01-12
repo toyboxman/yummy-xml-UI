@@ -40,13 +40,18 @@
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
         </action>
+        <action>
+            <cleanAction>
+                <conditions>3030103,3030204,3030206,3030208,3030210,3030214,3030304,3030404,3030504</conditions>
+            </cleanAction>
+        </action>   
     </component>
     <component>
         <id>3030304</id>
         <type>Grid</type>
         <attribute>
             <rect>
-                <x>100</x>
+                <x>60</x>
                 <y>200</y>
                 <width>1200</width>
                 <heigh>600</heigh>

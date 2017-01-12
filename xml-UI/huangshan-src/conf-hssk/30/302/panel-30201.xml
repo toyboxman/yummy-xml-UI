@@ -16,6 +16,7 @@
                 <heigh>150</heigh>
             </rect>
         </attribute>
+
         <action>
             <setFontAction>
                 <fontSize>45</fontSize>
@@ -34,7 +35,6 @@
                 <heigh>60</heigh>
             </rect>
         </attribute>
-
         <action>
             <insertICardAction>
                 <cardType>PIDCard</cardType>
@@ -54,6 +54,11 @@
                 </exception>
             	  <animationTip>/image/swipe_id.gif</animationTip>
             </insertICardAction>
+        </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/id_card.wav</media>
+            </playMediaAction>
         </action>
     </component>
 
@@ -76,9 +81,9 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>3020203,3020205,3020207,3020209,3020212,3020214</conditions>
-            </cleanAction>
-        </action>
+                <conditions>3020203,3020205,3020207,3020209,3020212,3020214,3020405,3020303</conditions>
+            </cleanAction> 
+        </action> 
     </component>
 
 </panel>

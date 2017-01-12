@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+-->
+
+<panel
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
+    <id>405777</id>
+    <type>Panel</type>
+    <active>false</active>
+    <background>/image/2.jpg</background>
+    <component>
+        <id>405776</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>1400</x>
+                <y>90</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text></text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+
+</panel>

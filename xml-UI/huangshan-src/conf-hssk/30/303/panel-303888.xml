@@ -9,7 +9,7 @@
     <id>303888</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/2.jpg</background>
+    <background>/image/6.png</background>
     <component>
         <id>303887</id>
         <type>Label</type>
@@ -24,7 +24,7 @@
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>45</fontSize>
+                <fontSize>40</fontSize>
             </setFontAction>
         </action>
     </component>
@@ -61,7 +61,7 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>3030103,3030202,3030204,3030206,3030208,3030210,3030214,3030304,3030404,3030504</conditions>
+                <conditions>3030103,3030204,3030206,3030208,3030210,3030214,3030304,3030404,3030504</conditions>
             </cleanAction>
         </action>   
     </component>
@@ -98,8 +98,8 @@
         </attribute>
         <action>
             <setPrinterAction>
-                <header>门诊预约凭条</header>
-                <tail>此凭条仅供参照,如有异议请联系客服中心,电话:0559-2310909</tail>
+                <header>预约挂号凭条</header>
+                <tail>温馨提示:,1.请妥善保持您的凭条,2.请以医生实际接诊实际为准</tail>
                 <!--<debug>
                     <prompt>&lt;html&gt;&#160;&#160;&#160;&#160;&#160;模拟打印结果&lt;br&gt;&lt;br&gt;国祯燃气公司&lt;br&gt;流水号:28999777887&lt;br&gt;缴费号:2001900018&lt;br&gt;用户名称:张胜利&lt;br&gt;缴费金额:356.00元&lt;br&gt;处理信息:缴费成功&lt;br&gt;此凭条仅供参照,如有异议请联系客服中心:96669&lt;/html&gt;</prompt>
                 </debug>-->

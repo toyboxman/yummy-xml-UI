@@ -240,6 +240,11 @@
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
         </action>
+         <action>
+            <cleanAction>
+                <conditions>3050103,3050204,3050206,3050208,3050210,3050304,3050404,3050210,3050214</conditions>
+            </cleanAction>
+        </action>   
         <action> 
             <setFontAction>
                 <fontSize>24</fontSize>

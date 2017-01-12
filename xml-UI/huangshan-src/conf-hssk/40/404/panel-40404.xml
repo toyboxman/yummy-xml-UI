@@ -52,6 +52,11 @@
 				<parameters>4040221</parameters>
 			</insertICardAction>
         </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/rmb_card.wav</media>
+            </playMediaAction>
+        </action>
     </component>
     <component>
         <id>4040405</id>

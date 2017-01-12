@@ -3,7 +3,7 @@
     <id>30</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/1.png</background>
+    <background>/image/10.png</background>
     <component>
         <id>31</id>
         <type>Button</type>
@@ -16,6 +16,7 @@
                 <heigh>100</heigh>
             </rect>
         </attribute>
+
         <action>
             <setFontAction>
                 <fontSize>35</fontSize>

@@ -5,7 +5,7 @@
     <id>40704</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/2.png</background>
+    <background>/image/2.jpg</background>
     
     <!--1、调用挂号取号交易 
     2、调用医保预结算， 返回自付金额
@@ -143,6 +143,7 @@
                 <exception>
                     <nextPanel>407899</nextPanel>
                     <display>407897</display>
+										<trigger>4070450</trigger>
                 </exception>
                 <checkRules>
                     <notNull>
@@ -150,7 +151,7 @@
                         <errMsg>请选择挂号单</errMsg>
                     </notNull>
                 </checkRules>
-            	<!--<animationTip>/image/swipe.gif</animationTip>-->
+            	<animationTip>/image/chuli.gif</animationTip>
             	<parameters>
             		4070415  <!--交易码-->
             		4070220  <!--病人ID-->
@@ -325,7 +326,34 @@
             </sendMsgAction>
         </action> 
     </component>
-    
+   <!--只用于挂号取消-->
+   <component>
+        <id>4070450</id>
+        <type>Button</type>
+        <attribute>
+            <text>挂号取消</text>
+            <rect>
+                <x>1700</x>
+                <y>1700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <sendMsgAction>
+                <prsCode>execute_quxiaoghycl_yyqh_yibao</prsCode>
+                <conditions>4070412,4070304</conditions>
+                <nextStep>
+                    <nextPanel>407899</nextPanel>
+                    <display>407897</display>
+                </nextStep>
+                <exception>
+                    <nextPanel>407899</nextPanel>
+                    <display>407897</display>
+                </exception>
+            </sendMsgAction>
+        </action>
+    </component>
       <!--同时走医保结算和院内账户使用-->
      <component>
         <id>4070429</id>
@@ -351,8 +379,9 @@
                 <exception>  <!--调用医保结算出错直接报错结束交易-->
                     <nextPanel>407899</nextPanel>
                     <display>407897</display>
+                    <trigger>4070450</trigger>
                 </exception>
-            	<animationTip>/image/swipe.gif</animationTip>
+            	<animationTip>/image/chuli.gif</animationTip>
             	<parameters>
             		4070431
             		4070220
@@ -447,7 +476,6 @@
                 <exception>
                     <nextPanel>407899</nextPanel>
                     <display>407897</display>
-                    <trigger>4070453</trigger>
                 </exception>
                 <checkRules>
                     <notNull>
@@ -501,7 +529,7 @@
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
 			<!--<icon>/image/105.png</icon>-->
             <rect>
-                <x>100</x>
+                <x>1600</x>
                 <y>80</y>
                 <width>150</width>
                 <heigh>100</heigh>
@@ -541,7 +569,35 @@
             </setFontAction>
         </action>
     </component>
-    
+ 
+   <!--用于挂号取消,并联动医保结算冲正-->
+   <component>
+        <id>4070479</id>
+        <type>Button</type>
+        <attribute>
+            <text>挂号取消</text>
+            <rect>
+                <x>1700</x>
+                <y>1700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <sendMsgAction>
+                <prsCode>execute_quxiaoghycl_yyqh_yibao</prsCode>
+                <conditions>4070412,4070304</conditions>
+                <nextStep>
+                    <nextPanel>407899</nextPanel>
+                    <display>407897</display>
+                </nextStep>
+                <exception>
+                    <nextPanel>407899</nextPanel>
+                    <display>407897</display>
+                </exception>
+            </sendMsgAction>
+        </action>
+    </component>
     <component>
         <id>4070453</id>
         <type>Button</type>
@@ -562,12 +618,14 @@
                 <nextStep>
                     <nextPanel>407899</nextPanel>
                     <display>407897</display>
+                    <trigger>4070479</trigger>
                 </nextStep>
                 <exception>
                     <nextPanel>407899</nextPanel>
                     <display>407897</display>
+                    <trigger>4070479</trigger>
                 </exception>
-            	<!--<animationTip>/image/swipe.gif</animationTip>-->
+            	<animationTip>/image/reverse.gif</animationTip>
             	<parameters>
             		4070435
             		4070427

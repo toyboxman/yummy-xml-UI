@@ -11,7 +11,7 @@
         <id>4020301</id>
         <type>Label</type>
         <attribute>
-            <text>首次关联</text>
+            <text>医保建档</text>
             <rect>
                 <x>450</x>
                 <y>150</y>
@@ -101,7 +101,7 @@
         <action>
             <sendMsgAction>
                 <prsCode>execute_ryzhuce_yibao</prsCode>
-                <conditions>4020203,4020205,4020207,4020209,4020212,4020214,4020224,4020303,4020219</conditions>
+                <conditions>4020203,4020205,4020207,4020209,4020212,4020214,4020224,4020303,4020219,4020225</conditions>
                 <nextStep>
                     <nextPanel>402888</nextPanel>
                     <display>402886</display>

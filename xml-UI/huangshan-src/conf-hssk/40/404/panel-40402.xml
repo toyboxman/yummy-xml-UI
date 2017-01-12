@@ -212,7 +212,7 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>280</x>
+                <x>300</x>
                 <y>500</y>
                 <width>950</width>
                 <heigh>50</heigh>
@@ -248,7 +248,7 @@
         <type>TextField</type>
         <attribute>
             <rect>
-                <x>280</x>
+                <x>350</x>
                 <y>550</y>
                 <width>300</width>
                 <heigh>50</heigh>

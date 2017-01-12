@@ -58,7 +58,6 @@
         </component>
     </decorator>
     
-    <!--支付金额-->
     <component>
         <id>40503017</id>
         <type>TextField</type>
@@ -77,7 +76,6 @@
         </action>
     </component>
     
-    <!--结算ID-->
     <component>
         <id>40503018</id>
         <type>TextField</type>
@@ -132,8 +130,8 @@
                 <prsCode>query_zhanghucx_jfmx_yibao</prsCode>
                 <conditions>4050221</conditions>
                 <nextStep>
-                    <nextPanel>40503</nextPanel>
-                    <display>40503011,40503013,40503015</display>
+                    <nextPanel>40504</nextPanel>
+                    <display>40504011,40504013,40504015</display>
                     <trigger>4050306</trigger>
                 </nextStep>
                 <exception>
@@ -161,8 +159,8 @@
                 <prsCode>query_menzhenfymx_jfmx_yibao</prsCode>
                 <conditions>4050221</conditions>
                 <nextStep>
-                    <nextPanel>40503</nextPanel>
-                    <display>4050304,40503017,40503018</display>
+                    <nextPanel>40504</nextPanel>
+                    <display>4050404,40504017,40504018</display>
                 </nextStep>
                 <exception>
                     <nextPanel>405899</nextPanel>
@@ -197,7 +195,7 @@
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
                 </exception>
-            	<!--<animationTip>/image/swipe.gif</animationTip>-->
+            	<animationTip>/image/chuli.gif</animationTip>
             	<parameters>
             		4050315  <!--交易码-->
             		4050220  <!--病人ID-->
@@ -236,7 +234,11 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   
+        <action>
+            <jumpPanelAction>
+                <nextPanel>405777</nextPanel>
+            </jumpPanelAction>
+        </action> 
         <action>
             <sendMsgAction>
                 <prsCode>sim_zifuamt_iszero_mzjs</prsCode>
@@ -412,7 +414,7 @@
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
                 </exception>
-            	<animationTip>/image/swipe.gif</animationTip>
+            	<animationTip>/image/chuli.gif</animationTip>
             	<parameters>
             		4050331
             		4050220
@@ -507,7 +509,6 @@
                 <exception>
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
-                    <trigger>4050353</trigger>
                 </exception>
             </sendMsgAction>
         </action>
@@ -538,7 +539,7 @@
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
                 </exception>
-            	<!--<animationTip>/image/swipe.gif</animationTip>-->
+            	<animationTip>/image/reverse.gif</animationTip>
             	<parameters>
             		4050335
             		4050327
@@ -795,7 +796,7 @@
                 <nextPanel>40</nextPanel>
             </jumpPanelAction>
             <cleanAction>
-                <conditions>40503011,40503013,40503015,40503017,40503018</conditions>
+                <conditions>4050203,4050205,4050207,4050209,4050212,4050214,4050224,4050217,4050219,4050220,4050221,4050222,4050304,4050304,40503017,40503018,4050324,4050325,4050326,4050327</conditions>
             </cleanAction>
         </action>
         <action> 

@@ -283,7 +283,7 @@
             </jumpPanelAction>
         </action>-->
        <action>
-       	   <!--检查医保卡在医院是否已经建档，如果没有建档则自动建档，如果已经建档则直接返回成功-->
+       	   <!--检查医保卡在医院是否已经建档-->
             <sendMsgAction>
                 <prsCode>query_renyuanxx_yibao</prsCode>
                 <conditions>4010203,4010205,4010207,4010209,4010212,4010214,4010224</conditions>

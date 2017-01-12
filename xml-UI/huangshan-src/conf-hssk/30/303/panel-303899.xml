@@ -65,7 +65,7 @@
         </action>
        <action>
             <cleanAction>
-                <conditions>3030103,3030202,3030204,3030206,3030208,3030210,3030214,3030304,3030404,3030504</conditions>
+                <conditions>3030103,3030204,3030206,3030208,3030210,3030214,3030304,3030404,3030504</conditions>
             </cleanAction> 
         </action> 
     </component>

@@ -8,7 +8,7 @@
         <id>4020102</id>
         <type>Button</type>
         <attribute>
-            <text>首次关联</text>
+            <text>医保建档</text>
             <rect>
                 <x>1231</x>
                 <y>453</y>
@@ -21,7 +21,7 @@
                 <cardType>MedicareCard</cardType>
                 <nextStep>
                     <nextPanel>40202</nextPanel>
-                    <display>4020203,4020205,4020207,4020209,4020212,4020214,4020224</display>
+                    <display>4020203,4020205,4020207,4020209,4020212,4020214,4020224,4020225</display>
                 </nextStep>
                 <exception>
                     <nextPanel>402899</nextPanel>
@@ -39,8 +39,14 @@
 				   4020212
 				   4020214
 				   4020224
+				   4020225
 				</display>
             </insertICardAction>
+        </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/yibao_card.wav</media>
+            </playMediaAction>
         </action>
     </component>
     <component>

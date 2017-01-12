@@ -55,7 +55,7 @@
             <setFontAction>
                 <fontSize>35</fontSize>
                 <fontColor>248,248,255</fontColor>
-                <fontBgColor>30, 144, 255</fontBgColor>
+                <fontBgColor>127, 127, 127</fontBgColor>
             </setFontAction>
         </action>
     </component>  
@@ -77,6 +77,11 @@
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
         </action>
+        <action>
+            <cleanAction>
+                <conditions>3040103,3040204,3040206,3040208,3040304,3040210,3040214,3040404</conditions>
+            </cleanAction>
+        </action> 
         <action> 
             <setFontAction>
                 <fontSize>24</fontSize>

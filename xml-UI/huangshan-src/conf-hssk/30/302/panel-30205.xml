@@ -76,6 +76,11 @@
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
         </action>
+        <action>
+            <cleanAction>
+                <conditions>3020203,3020205,3020207,3020209,3020212,3020214,3020405,3020303</conditions>
+            </cleanAction> 
+        </action> 
         <action> 
             <setFontAction>
                 <fontSize>24</fontSize>

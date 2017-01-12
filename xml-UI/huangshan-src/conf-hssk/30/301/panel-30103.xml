@@ -24,29 +24,11 @@
     </component>
 
     <component>
-        <id>3010303</id>
-        <type>Button</type>
-        <attribute>
-            <text>返回</text>
-            <rect>
-                <x>943</x>
-                <y>860</y>
-                <width>250</width>
-                <heigh>80</heigh>
-            </rect>
-        </attribute>
-        <action>
-            <jumpPanelAction>
-                <nextPanel>30</nextPanel>
-            </jumpPanelAction>
-        </action>
-    </component>
-    <component>
         <id>3010304</id>
         <type>Grid</type>
         <attribute>
             <rect>
-                <x>100</x>
+                <x>60</x>
                 <y>200</y>
                 <width>1200</width>
                 <heigh>600</heigh>
@@ -102,5 +84,28 @@
                 </checkRules>
             </sendMsgAction>
         </action>
+    </component>
+    <component>
+        <id>3010306</id>
+        <type>Button</type>
+        <attribute>
+            <text>返回</text>
+            <rect>
+                <x>943</x>
+                <y>860</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <jumpPanelAction>
+                <nextPanel>30</nextPanel>
+            </jumpPanelAction>
+        </action>
+         <action>
+            <cleanAction>
+                <conditions>3010103,3010204,3010206,3010208,3010210,3010214,3010304,3010404</conditions>
+            </cleanAction>
+        </action>  
     </component>
 </panel>

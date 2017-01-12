@@ -18,8 +18,7 @@
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>40</fontSize>
-                <fontColor>30, 144, 255</fontColor>
+                <fontSize>45</fontSize>
             </setFontAction>
         </action>
     </component>
@@ -53,6 +52,11 @@
 				<parameters>3080104</parameters>
 			</insertICardAction>
         </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/rmb_card.wav</media>
+            </playMediaAction>
+        </action>
     </component>
     <component>
         <id>3080405</id>
@@ -68,7 +72,7 @@
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>33</fontSize>
+                <fontSize>35</fontSize>
             </setFontAction>
         </action>
     </component>
@@ -115,7 +119,8 @@
                 <nextStep>  
                     <nextPanel>308888</nextPanel> 
                     <display>308886</display>
-                    <trigger>3080407</trigger>
+                    <trigger>308882</trigger>
+                  <!--  <trigger>3080407</trigger>-->
                 </nextStep>
                 <exception> 
                     <nextPanel>308899</nextPanel>  
@@ -135,7 +140,7 @@
             </sendMsgAction>
         </action>
     </component>
-    <component>
+ <!--   <component>
         <id>3080407</id>
         <type>Button</type>
         <attribute>
@@ -162,7 +167,7 @@
                 </exception>
             </sendMsgAction>
         </action>
-    </component>
+    </component>-->
     <component>
         <id>3080408</id>
         <type>Label</type>
@@ -197,7 +202,7 @@
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>30</nextPanel>
+                <nextPanel>1</nextPanel>
             </jumpPanelAction>
         </action>
         <action> 

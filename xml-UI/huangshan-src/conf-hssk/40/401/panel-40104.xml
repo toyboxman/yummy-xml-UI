@@ -58,7 +58,7 @@
         <type>Grid</type>
         <attribute>
             <rect>
-                <x>100</x>
+                <x>60</x>
                 <y>200</y>
                 <width>1200</width>
                 <heigh>600</heigh>
@@ -68,10 +68,10 @@
             <showGridAction>
                 <row>4</row>
                 <column>4</column>
-                <hgap>150</hgap>
+                <hgap>100</hgap>
                 <vgap>60</vgap>
-                <misc>
-					<bgColor>30,144,255</bgColor> 
+				<misc>
+					<bgColor>30,144,255</bgColor>  
 				</misc>
             </showGridAction>
         </action>
@@ -86,7 +86,7 @@
         <id>4010405</id>
         <type>Button</type>
         <attribute>
-            <text>下一步</text>
+            <text>确认</text>
             <rect>
                 <x>643</x>
                 <y>860</y>
@@ -100,7 +100,7 @@
                 <prsCode>execute_guahaoyuchuli_yibao</prsCode>
                 <conditions>4010203,4010205,4010207,4010209,4010212,4010304,4010404,4010219,4010220,4010221</conditions>
                 <nextStep>
-                    <nextPanel>40104</nextPanel>
+                    <nextPanel>401777</nextPanel>
                     <display>4010406,4010407,4010409,4010455</display>
                     <trigger>4010408</trigger>
                 </nextStep>
@@ -117,47 +117,7 @@
             </sendMsgAction>
         </action>
     </component>
-     <!--返回的挂号ID-->
-        <component>
-        <id>4010406</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1400</x>
-                <y>1400</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
-    <!--返回的结算ID-->
-    <component>
-        <id>4010407</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1500</x>
-                <y>1500</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    <!--返回的挂号费-->
-    <component>
-        <id>4010409</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1600</x>
-                <y>1600</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
+ 
    <component>
         <id>4010408</id>
         <type>Button</type>
@@ -175,7 +135,7 @@
             <insertICardAction>
                 <cardType>MedicareCard</cardType>
                 <nextStep>
-                    <nextPanel>40104</nextPanel>
+                    <nextPanel>401777</nextPanel>
                     <display>4010420</display>
                     <trigger>4010439</trigger>
                 </nextStep>
@@ -189,7 +149,7 @@
                         <errMsg>请选择医生</errMsg>
                     </notNull>
                 </checkRules>
-            	<!--<animationTip>/image/swipe.gif</animationTip>-->
+            	<animationTip>/image/chuli.gif</animationTip>
             	<parameters>
             		4010415
             		4010220
@@ -205,6 +165,35 @@
    <!--只用于挂号取消-->
    <component>
         <id>4010413</id>
+        <type>Button</type>
+        <attribute>
+            <text>挂号取消</text>
+            <rect>
+                <x>1700</x>
+                <y>1700</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <sendMsgAction>
+                <prsCode>execute_quxiaoghycl_yibao</prsCode>
+                <conditions>4010203,4010205,4010207,4010209,4010212,4010304,4010404,4010304,4010406,4010407,4010409</conditions>
+                <nextStep>
+                    <nextPanel>401899</nextPanel>
+                    <display>401897</display>
+                </nextStep>
+                <exception>
+                    <nextPanel>401899</nextPanel>
+                    <display>401897</display>
+                </exception>
+            </sendMsgAction>
+        </action>
+    </component>
+    
+   <!--用于挂号取消,并联动医保结算冲正-->
+   <component>
+        <id>4010479</id>
         <type>Button</type>
         <attribute>
             <text>挂号取消</text>
@@ -258,7 +247,7 @@
                     <nextPanel>401899</nextPanel>
                     <display>401897</display>
                 </exception>
-            	<!--<animationTip>/image/swipe.gif</animationTip>-->
+            	<animationTip>/image/reverse.gif</animationTip>
             	<parameters>
             		4010419
             		4010427
@@ -309,20 +298,6 @@
         </action>
     </component>
    
-    <!--医保预结算返回的预算金额-->
-   <component>
-        <id>4010420</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1600</x>
-                <y>1600</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
     <!--同时走医保结算和院内账户使用-->
      <component>
         <id>4010429</id>
@@ -341,16 +316,16 @@
             <insertICardAction>
                 <cardType>MedicareCard</cardType>
                 <nextStep>
-                    <nextPanel>40104</nextPanel>
+                    <nextPanel>401777</nextPanel>
                     <display>4010424,4010425,4010426,4010427</display>
                     <trigger>4010449</trigger>
                 </nextStep>
                 <exception>
-                    <nextPanel>40104</nextPanel>
-                    <display>4010414</display>
+                    <nextPanel>401899</nextPanel>
+                    <display>401897</display>
                     <trigger>4010413</trigger>
                 </exception>
-            	<animationTip>/image/swipe.gif</animationTip>
+            	<animationTip>/image/chuli.gif</animationTip>
             	<parameters>
             		4010431
             		4010220
@@ -403,7 +378,7 @@
                 <prsCode>query_zhanghucx_ybguahao</prsCode>
                 <conditions>4010431,4010220,4010407,4010203,4010207,4010304,4010404,4010424,4010425,4010426,4010221</conditions>
                 <nextStep>
-                    <nextPanel>40104</nextPanel>
+                    <nextPanel>401777</nextPanel>
                     <display>4010441,4010442,4010443,4010444,4010445</display>
                     <trigger>4010440</trigger>
                 </nextStep>
@@ -433,15 +408,12 @@
                 <prsCode>sim_zifuamt_iszero</prsCode>
                 <conditions>4010420</conditions>
                 <nextStep>
-                    <nextPanel>40104</nextPanel>
+                    <nextPanel>401777</nextPanel>
                     <display>4010435</display>
                 </nextStep>
                 <exception>
                 	<nextPanel>401899</nextPanel>
                     <display>401897</display>
-                    <!-- <nextPanel>40104</nextPanel>
-                    <display>4010435</display>
-                   <trigger>4010438</trigger>-->
                 </exception>
             </sendMsgAction>
         </action> 
@@ -465,7 +437,7 @@
                 <prsCode>sim_check_money</prsCode>
                 <conditions>4010431,4010220,4010407,4010203,4010207,4010304,4010404,4010420,4010424,4010425,4010426,4010443</conditions>
                 <nextStep>
-                    <nextPanel>40104</nextPanel>
+                    <nextPanel>401777</nextPanel>
                     <display>4010435</display>
                     <trigger>4010429</trigger>
                 </nextStep>
@@ -515,131 +487,6 @@
         </action> 
     </component>
     
-    <!--医保结算返回的交易流水号-->
-     <component>
-        <id>4010424</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1900</x>
-                <y>1900</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    <!--医保结算返回的医保结算ID-->
-     <component>
-        <id>4010425</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>2000</x>
-                <y>2000</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
-     <!--医保结算返回的需自付金额-->
-     <component>
-        <id>4010426</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>2000</x>
-                <y>2000</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
-     <!--医保结算返回的发票ID-->
-     <component>
-        <id>4010427</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>2000</x>
-                <y>2000</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
-     <!--医保卡院内账户查询返回姓名-->
-     <component>
-        <id>4010441</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1900</x>
-                <y>1900</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
-     <!--医保卡院内账户查询返回就诊卡卡号-->
-     <component>
-        <id>4010442</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1900</x>
-                <y>1900</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
-     <!--医保卡院内账户查询返回当前余额-->
-     <component>
-        <id>4010443</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1900</x>
-                <y>1900</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
-     <!--医保卡院内账户查询返回联系电话-->
-     <component>
-        <id>4010444</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1900</x>
-                <y>1900</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
-    <!--医保卡院内账户查询返回身份证号-->
-     <component>
-        <id>4010445</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>1900</x>
-                <y>1900</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
     <component>
         <id>4010449</id>
         <type>Button</type>
@@ -663,9 +510,9 @@
                     <trigger>401882</trigger>
                 </nextStep>
                 <exception>
-                    <nextPanel>40104</nextPanel>
-                    <display>4010414</display>
-                    <trigger>4010413</trigger>
+                    <nextPanel>401899</nextPanel>
+                    <display>401897</display>
+                    <!--<trigger>4010413</trigger>-->
                 </exception>
                 <checkRules>
                     <notNull>
@@ -695,38 +542,5 @@
             </setFontAction>
         </action>
     </component>
-    
-   <component>
-        <id>4010435</id>
-        <type>Label</type>
-        <attribute>
-            <rect>
-                <x>1800</x>
-                <y>1800</y>
-                <width>600</width>
-                <heigh>150</heigh>
-            </rect>
-            <text>xxxx</text>
-        </attribute>
-        <action>
-            <setFontAction>
-                <fontSize>45</fontSize>
-            </setFontAction>
-        </action>
-    </component>
-    
-     <!--挂号预处理返回的cargo数据-->
-     <component>
-        <id>4010455</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>2000</x>
-                <y>2000</y>
-                <width>400</width>
-                <heigh>50</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
+   
 </panel>

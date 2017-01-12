@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
 xml配置文件是用来描述界面组件的关系,对应节点的定义请参照xsd文件
 引用 http://www.freeformatter.com/xsd-generator.html
@@ -10,32 +10,27 @@ xml配置文件是用来描述界面组件的关系,对应节点的定义请参�
     xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
     xsi:noNamespaceSchemaLocation='../schema/TransportationSchema.xsd'>
     <server>
-        <host>127.0.0.1</host>
-        <port>8080</port>
-        <timeout>120</timeout>
+        <host>10.10.1.14</host>
+        <port>6973</port>
+        <timeout>20</timeout>
     </server>
     <registration>
         <prsCode>sanlogin</prsCode>
-        <terminalID>00000001</terminalID>
+        <terminalID>10455843</terminalID>
         <token>usjdfjksa75ks832okudsjd94877akjdua</token>
-        <unionPayID>9999</unionPayID>
-        <branchno>test_bank_division</branchno>
-        <heartbeat>10000</heartbeat>
+        <unionPayID>947341249002001</unionPayID>
+        <branchno>{"HospitalId":"2301","CAOZUOYDM":"AUTO1","CAOZUOYXM":"zizhuji1"}</branchno>
+        <heartbeat>600000</heartbeat> 
     </registration>
     <misc>
-        <watchDog enabled="true">
+    	
+    	<!--<watchDog enabled="true">
             <checkInterval>10</checkInterval>
-        </watchDog>
+        </watchDog> -->
         <bankCardPrefix>
             622953
             621778
-            621526
+            621526 
         </bankCardPrefix>
-        <allowCPU>
-            <period>
-                <start>18:00:00</start>
-                <end>21:00:00</end>
-            </period>
-        </allowCPU>
     </misc>
 </Transportation>

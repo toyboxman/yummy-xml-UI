@@ -59,6 +59,7 @@
                 <fontColor>30, 144, 255</fontColor>
             </setFontAction>
         </action>
+
    </component>
     <component>
         <id>3080104</id>
@@ -71,15 +72,15 @@
                 <heigh>50</heigh>
             </rect>
         </attribute>
-       <action>
-            <playMediaAction>
-                <media>./media/audio/sk_patient_no.wav</media>
-            </playMediaAction>
-        </action>
         <action>
             <limitInputAction>
                 <length>15</length>
             </limitInputAction>
+        </action>
+       <action>
+            <playMediaAction>
+                <media>./media/audio/sk_patient_no.wav</media>
+            </playMediaAction>
         </action>
     </component>
    <component>

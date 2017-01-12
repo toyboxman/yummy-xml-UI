@@ -67,6 +67,7 @@
         <page>./conf-hssk/panel-1.xml</page>
 		<page>./conf-hssk/30/panel-30.xml</page>
 		<page>./conf-hssk/40/panel-40.xml</page>
+		<page>./conf-hssk/40/panel-41.xml</page>
         <page>./conf-hssk/30/301/panel-30101.xml</page>
 		<page>./conf-hssk/30/301/panel-30102.xml</page>
 		<page>./conf-hssk/30/301/panel-30103.xml</page>
@@ -124,6 +125,7 @@
 		<page>./conf-hssk/40/401/panel-40102.xml</page>
 		<page>./conf-hssk/40/401/panel-40103.xml</page>
 		<page>./conf-hssk/40/401/panel-40104.xml</page>
+		<page>./conf-hssk/40/401/panel-401777.xml</page>
 		<page>./conf-hssk/40/401/panel-401888.xml</page>
 		<page>./conf-hssk/40/401/panel-401899.xml</page>
 		<page>./conf-hssk/40/402/panel-40201.xml</page>
@@ -149,6 +151,7 @@
 		<page>./conf-hssk/40/405/panel-40502.xml</page>
 		<page>./conf-hssk/40/405/panel-40503.xml</page>
 		<page>./conf-hssk/40/405/panel-40504.xml</page>
+		<page>./conf-hssk/40/405/panel-405777.xml</page>
 		<page>./conf-hssk/40/405/panel-405888.xml</page>
 		<page>./conf-hssk/40/405/panel-405899.xml</page>
 		<page>./conf-hssk/40/407/panel-40701.xml</page>

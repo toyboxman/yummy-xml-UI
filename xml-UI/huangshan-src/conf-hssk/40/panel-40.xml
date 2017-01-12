@@ -3,12 +3,12 @@
     <id>40</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/1.png</background>
+    <background>/image/11.png</background>
     <component>
         <id>41</id>
         <type>Button</type>
         <attribute>
-            <text>首次关联</text>
+            <text>医保建档</text>
             <rect>
                 <x>763</x>
                 <y>250</y>
@@ -168,8 +168,8 @@
         <attribute>
             <text>查询</text>
             <rect>
-                <x>763</x>
-                <y>510</y>
+                <x>1763</x>
+                <y>1510</y>
                 <width>220</width>
                 <heigh>100</heigh>
             </rect>
@@ -186,6 +186,34 @@
                 <nextPanel>40601</nextPanel>
             </jumpPanelAction>
         </action>-->
+    </component>
+    
+     <component>
+        <id>48</id>
+        <type>Button</type>
+        <attribute>
+            <text></text>
+            <icon>/image/an_niu.png</icon>
+            <rect>
+                <x>10</x>
+                <y>944</y>
+                <width>80</width>
+                <heigh>40</heigh>
+            </rect>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>35</fontSize>
+                <fontColor>248,248,255</fontColor>
+                <fontBgColor>30, 144, 255</fontBgColor>
+            </setFontAction>
+        </action>
+         <action>
+            <jumpPanelAction>
+                <nextPanel>4111</nextPanel>
+                <nextCursor>4112</nextCursor>
+            </jumpPanelAction>
+        </action>
     </component>
 
     <component>

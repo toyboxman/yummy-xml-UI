@@ -27,7 +27,7 @@
                     <nextPanel>407899</nextPanel>
                     <display>407897</display>
                 </exception>
-            	<animationTip>/image/swipe.gif</animationTip>
+            	<animationTip>/image/sk_yb.gif</animationTip>
             	<parameters>
             		4070105
 				</parameters> 
@@ -41,6 +41,11 @@
 				   4070224
 				</display>
             </insertICardAction>
+        </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/yibao_card.wav</media>
+            </playMediaAction>
         </action>
     </component>
     <component>

@@ -52,6 +52,11 @@
 				<parameters>3040103</parameters>
 			</insertICardAction>
         </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/rmb_card.wav</media>
+            </playMediaAction>
+        </action>
     </component>
     <component>
         <id>3040405</id>
@@ -172,7 +177,7 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>3040103,3040204,3040206,3040208,3040304,3040210,3040214,3040404</conditions>
+                <conditions>3040103,3040204,3040206,3040208,3040210,3040214,3040404</conditions>
             </cleanAction>
         </action>   
         <action>

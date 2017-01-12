@@ -9,7 +9,7 @@
     <id>307888</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/2.jpg</background>
+    <background>/image/6.png</background>
     <component>
         <id>307887</id>
         <type>Label</type>
@@ -24,7 +24,7 @@
         </attribute>
         <action>
             <setFontAction>
-                <fontSize>45</fontSize>
+                <fontSize>40</fontSize>
             </setFontAction>
         </action>
     </component>

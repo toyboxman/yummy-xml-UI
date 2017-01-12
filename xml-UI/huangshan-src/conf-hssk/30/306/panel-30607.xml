@@ -24,7 +24,7 @@
             </setFontAction>
         </action>
     </component>
-    <decorator>
+   <decorator>
         <id>3060703</id>
         <type>ScrollPanel</type>     
         <attribute>
@@ -58,6 +58,7 @@
             </action>
         </component>
     </decorator>
+
 
 	<component>
         <id>3060706</id>

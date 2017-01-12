@@ -35,6 +35,11 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
+         <action>
+            <cleanAction>
+                <conditions>3010103,3010204,3010206,3010208,3010210,3010214,3010304,3010404,3010435,3010406,3010407,3010409</conditions>
+            </cleanAction>
+        </action>
         <action>
             <jumpPanelAction>
                 <nextPanel>30</nextPanel>
@@ -70,13 +75,70 @@
         </action>-->
     </component>
     
+    
+    <component>
+        <id>3010411</id>
+        <type>Button</type>
+        <attribute>
+            <text>确认</text>
+            <rect>
+                <x>643</x>
+                <y>860</y>
+                <width>250</width>
+                <heigh>80</heigh>
+            </rect>
+        </attribute>
+   
+        <action>
+            <sendMsgAction>
+                <prsCode>sim_check_money_drgh</prsCode>
+                <conditions>3010208,3010404</conditions>
+                <nextStep>
+                    <nextPanel>30104</nextPanel>
+                    <display>3010435</display>
+                    <trigger>3010405</trigger>
+                </nextStep>
+                <exception>
+                    <nextPanel>301899</nextPanel>
+                    <display>301897</display>
+                </exception>
+                <checkRules>
+                    <notNull>
+                        <content>3010404</content>
+                        <errMsg>请选择号源</errMsg>
+                    </notNull>
+                </checkRules>
+            </sendMsgAction>
+        </action> 
+
+    </component>
+    
+   <component>
+        <id>3010435</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>1800</x>
+                <y>1800</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>xxxx</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
+    
    <component>
         <id>3010405</id>
         <type>Button</type>
         <attribute>
             <text>确认</text>
             <rect>
-                <x>643</x>
+                <x>1443</x>
                 <y>860</y>
                 <width>250</width>
                 <heigh>80</heigh>
@@ -164,9 +226,8 @@
                     <trigger>301882</trigger>
                 </nextStep>
                 <exception>
-                    <nextPanel>30104</nextPanel>
-                    <display>3010414</display>
-                    <trigger>3010413</trigger>
+                    <nextPanel>301899</nextPanel>
+                    <display>301897</display>
                 </exception>
                 <checkRules>
                     <notNull>

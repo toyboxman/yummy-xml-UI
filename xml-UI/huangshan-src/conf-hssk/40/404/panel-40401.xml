@@ -42,6 +42,11 @@
 				</display>
             </insertICardAction>
         </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/yibao_card.wav</media>
+            </playMediaAction>
+        </action>
     </component>
     <component>
         <id>4040103</id>

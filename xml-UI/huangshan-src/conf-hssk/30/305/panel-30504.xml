@@ -233,11 +233,11 @@
         </attribute>
         <action>
             <jumpPanelAction>
-                <nextPanel>30</nextPanel>
+                <nextPanel>30503</nextPanel>
             </jumpPanelAction>
         </action>
             <cleanAction>
-                <conditions>30503011,30503013,30503015,30503017,30503018,30504011,30504013,30504015,30504017,30504018</conditions>
+                <conditions>30504011,30504013,30504015,30504017,30504018</conditions>
             </cleanAction>
     </component>
 </panel>

@@ -113,13 +113,13 @@
                 <prsCode>execute_menzhenjs_yyqh</prsCode>
                 <conditions>3070103,3070204,3070206,3070208,3070210,3070214,3070304,3070411,3070412,3070414,3070417,3070418</conditions>
                 <nextStep>
-                    <nextPanel>301888</nextPanel>
-                    <display>301886</display>
+                    <nextPanel>307888</nextPanel>
+                    <display>307886</display>
                     <trigger>307882</trigger>
                 </nextStep>
                 <exception>
-                    <nextPanel>301899</nextPanel>
-                    <display>301897</display>
+                    <nextPanel>307899</nextPanel>
+                    <display>307897</display>
                 </exception>
                 <checkRules>
                     <notNull>

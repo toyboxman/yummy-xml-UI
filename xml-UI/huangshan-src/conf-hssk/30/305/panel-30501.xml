@@ -36,6 +36,11 @@
             	  <animationTip>/image/swift_card.gif</animationTip>
             </insertICardAction>
         </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/patient_card.wav</media>
+            </playMediaAction>
+        </action>
     </component>
     <component>
         <id>3050103</id>

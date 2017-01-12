@@ -9,9 +9,9 @@
         <type>Label</type>
         <attribute>
             <rect>
-                <x>400</x>
-                <y>150</y>
-                <width>600</width>
+                <x>500</x>
+                <y>250</y>
+                <width>500</width>
                 <heigh>40</heigh>
             </rect>
             <text>住院预交金查询</text>

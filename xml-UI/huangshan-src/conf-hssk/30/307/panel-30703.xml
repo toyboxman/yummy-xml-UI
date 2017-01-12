@@ -70,7 +70,53 @@
         </action>-->
          
     </component>
-
+    <component>
+        <id>3070308</id>
+        <type>Button</type>
+        <attribute>
+            <text>就诊卡付款取号</text>
+            <rect>
+                <x>200</x>
+                <y>800</y>
+                <width>300</width>
+                <heigh>100</heigh>
+            </rect>
+        </attribute>
+   
+        <action>
+            <sendMsgAction>
+                <prsCode>sim_check_money_yyqh_jzk</prsCode>
+                <conditions>3070208,3070304</conditions>
+                <nextStep>
+                    <nextPanel>30703</nextPanel>
+                    <display>3070309</display>
+                    <trigger>3070305</trigger>
+                </nextStep>
+                <exception>
+                    <nextPanel>307899</nextPanel>
+                    <display>307897</display>
+                </exception>
+            </sendMsgAction>
+        </action> 
+    </component>
+   <component>
+        <id>3070309</id>
+        <type>Label</type>
+        <attribute>
+            <rect>
+                <x>1800</x>
+                <y>1800</y>
+                <width>600</width>
+                <heigh>150</heigh>
+            </rect>
+            <text>xxxx</text>
+        </attribute>
+        <action>
+            <setFontAction>
+                <fontSize>45</fontSize>
+            </setFontAction>
+        </action>
+    </component>
      <component>
         <id>3070305</id>
         <type>Button</type>

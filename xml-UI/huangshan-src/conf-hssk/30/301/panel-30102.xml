@@ -211,6 +211,11 @@
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
         </action>
+         <action>
+            <cleanAction>
+                <conditions>3010103,3010204,3010206,3010208,3010210,3010214,3010304,3010404</conditions>
+            </cleanAction>
+        </action>   
         <action> 
             <setFontAction>
                 <fontSize>24</fontSize>

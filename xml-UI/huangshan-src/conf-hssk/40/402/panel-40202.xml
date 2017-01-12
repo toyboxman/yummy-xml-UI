@@ -261,6 +261,25 @@
         </action>
     </component>-->
     
+    <!--医保卡返回费用性质-->
+    <component>
+        <id>4020225</id>
+        <type>TextField</type>
+        <attribute>
+            <rect>
+                <x>2280</x>
+                <y>2550</y>
+                <width>300</width>
+                <heigh>50</heigh>
+            </rect>
+        </attribute> 
+        <action>
+            <limitInputAction editable="false">
+                <length>200</length>
+            </limitInputAction>
+        </action>
+    </component>-->
+    
 	<component>
         <id>4020215</id>
         <type>Button</type>
@@ -279,7 +298,7 @@
        <action>
             <sendMsgAction>
                 <prsCode>query_renyuanxx_ybinit</prsCode>
-                <conditions>4020203,4020205,4020207,4020209,4020212,4020214,4020224</conditions>
+                <conditions>4020203,4020205,4020207,4020209,4020212,4020214,4020224,4020225</conditions>
                 <nextStep>  
                     <nextPanel>402888</nextPanel> 
                     <display>402886</display>-->

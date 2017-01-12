@@ -9,7 +9,7 @@
     <id>405888</id>
     <type>Panel</type>
     <active>false</active>
-    <background>/image/2.jpg</background>
+    <background>/image/6.png</background>
     <component>
         <id>405887</id>
         <type>Label</type>
@@ -61,7 +61,7 @@
         </action>
         <action>
             <cleanAction>
-                <conditions>4050103,4050204,4050206,4050208,4050210,4050304,4050404,4050210,4050214</conditions>
+                <conditions>4050203,4050205,4050207,4050209,4050212,4050214,4050224,4050217,4050219,4050220,4050221,4050222,4050304,4050304,40503017,40503018,4050324,4050325,4050326,4050327,40504011,40504013,40504015</conditions>
             </cleanAction>
         </action>   
     </component>

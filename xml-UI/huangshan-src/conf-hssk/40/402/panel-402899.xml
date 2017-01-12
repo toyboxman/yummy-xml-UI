@@ -18,7 +18,7 @@
                 <width>900</width>
                 <heigh>300</heigh>
             </rect>
-            <text>当日挂号失败</text>
+            <text>医保建档失败</text>
         </attribute>
         <action>
             <setFontAction>
@@ -34,7 +34,7 @@
                 <x>350</x>
                 <y>350</y>
                 <width>600</width>
-                <heigh>50</heigh>
+                <heigh>150</heigh>
             </rect>
             <text>提示信息:</text>
         </attribute>
@@ -66,7 +66,7 @@
         </action>
        <action>
             <cleanAction>
-                <conditions>4020203,4020205,4020207,4020209,4020212,4020214,4020224,4020303,4020305,4020403</conditions>
+                <conditions>4020203,4020205,4020207,4020209,4020212,4020214,4020224,4020303,4020305,4020403,4020225</conditions>
             </cleanAction> 
         </action> 
     </component>

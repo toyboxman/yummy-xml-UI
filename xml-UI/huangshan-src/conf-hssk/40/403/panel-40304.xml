@@ -49,9 +49,9 @@
         <type>Grid</type>
         <attribute>
             <rect>
-                <x>100</x>
+                <x>60</x>
                 <y>200</y>
-                <width>1100</width>
+                <width>1200</width>
                 <heigh>600</heigh>
             </rect>
         </attribute>
@@ -61,7 +61,7 @@
                 <column>4</column>
                 <hgap>100</hgap>
                 <vgap>60</vgap>
-                <misc>
+				<misc>
 					<bgColor>30,144,255</bgColor>  
 				</misc>
             </showGridAction>
@@ -77,7 +77,7 @@
         <id>4030405</id>
         <type>Button</type>
         <attribute>
-            <text>下一步</text>
+            <text>确认</text>
             <rect>
                 <x>643</x>
                 <y>860</y>

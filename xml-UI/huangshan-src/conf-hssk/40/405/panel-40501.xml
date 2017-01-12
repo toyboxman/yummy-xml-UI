@@ -27,7 +27,7 @@
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
                 </exception>
-            	<animationTip>/image/swipe.gif</animationTip>
+            	<animationTip>/image/sk_yb.gif</animationTip>
             	<parameters>
             		4050105
 				</parameters> 
@@ -42,20 +42,13 @@
 				</display>
             </insertICardAction>
         </action>
+        <action>
+            <playMediaAction>
+                <media>./media/audio/yibao_card.wav</media>
+            </playMediaAction>
+        </action>
     </component>
-    <component>
-        <id>4050103</id>
-        <type>TextField</type>
-        <attribute>
-            <rect>
-                <x>561</x>
-                <y>453</y>
-                <width>300</width>
-                <heigh>60</heigh>
-            </rect>
-        </attribute>
-    </component>
-    
+
     <component>
         <id>4050105</id>
         <type>Label</type>
