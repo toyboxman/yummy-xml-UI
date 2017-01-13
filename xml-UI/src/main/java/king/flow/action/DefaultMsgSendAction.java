@@ -462,8 +462,9 @@ public class DefaultMsgSendAction extends DefaultBaseAction {
                     }
                     Object blockMeta = getBlockMeta(forwardPage);
                     if (blockMeta == null || !(blockMeta instanceof Panel)) {
-                        getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO,
-                                "Be forced to jump to page[{0}], but page[{0}] is invalid Panel type. It is type[{1}]",
+                        String log = blockMeta == null ? "Be forced to jump to page[{0}], but page is nonexistent"
+                                : "Be forced to jump to page[{0}], but it is not Panel type and is type[{1}]";
+                        getLogger(DefaultMsgSendAction.class.getName()).log(Level.INFO, log,
                                 new Object[]{redirection, (blockMeta == null ? "NULL" : blockMeta.getClass().getSimpleName())});
                         panelJump(next.getNextPanel());
                         return;
