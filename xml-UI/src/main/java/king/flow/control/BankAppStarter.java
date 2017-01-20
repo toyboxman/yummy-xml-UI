@@ -196,7 +196,10 @@ public class BankAppStarter {
             }
         });
 
-        frame.setVisible(true);
+        String runMode = System.getProperty(RUN_HIDE_MODE, DEFAULT_RUN_HIDE_MODE);
+        if (runMode.equalsIgnoreCase(DEFAULT_RUN_HIDE_MODE)) {
+            frame.setVisible(true);
+        }
         setTerminalStatus(RUNNING);
 
         //inject into OpenShell MXBean
@@ -307,7 +310,7 @@ public class BankAppStarter {
                 msgDialog.setVisible(false);
                 msgDialog.dispose();
             }
-        }, TimeUnit.SECONDS.toMillis(6));
+        }, TimeUnit.SECONDS.toMillis(3));
         msgDialog.setVisible(true);
     }
 
@@ -475,6 +478,8 @@ public class BankAppStarter {
     static final String DEFAULT_BANK_APP_ICON = "/image/bank-icon-256.png";
 
     public static final String UI_BUILD_SCHEME = "ui.build.scheme";
+    public static final String RUN_HIDE_MODE = "run.hide.mode";
+    public static final String DEFAULT_RUN_HIDE_MODE = "false";
 
     public static void main(String args[]) {
         /* Create and display the dialog */
