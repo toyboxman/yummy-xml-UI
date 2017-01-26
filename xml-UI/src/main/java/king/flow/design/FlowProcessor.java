@@ -1,5 +1,6 @@
 package king.flow.design;
 
+import java.awt.TrayIcon.MessageType;
 import java.io.File;
 import java.util.logging.Level;
 import javax.xml.bind.JAXBContext;
@@ -7,6 +8,8 @@ import javax.xml.bind.JAXBElement;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
+import javax.xml.bind.annotation.XmlType;
+import javax.xml.namespace.QName;
 import king.flow.common.CommonConstants;
 import static king.flow.common.CommonUtil.getLogger;
 
@@ -61,6 +64,27 @@ public class FlowProcessor {
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
             marshaller.setProperty(Marshaller.JAXB_NO_NAMESPACE_SCHEMA_LOCATION, SCHEMA_LOCATION);
             marshaller.marshal(node, new File(xmlPath));
+        } catch (JAXBException ex) {
+            getLogger(FlowProcessor.class.getName()).log(Level.SEVERE,
+                    "Fail to write configuration down to config file[{0}] due to error : \n{1}",
+                    new Object[]{this.xmlPath, ex});
+            throw ex;
+        }
+    }
+
+    // this is workaround method to avoid no @XmlRootElement in jaxb class definition header
+    public <T> void writeOut(T node, Class<T> declaredType) throws JAXBException {
+        try {
+            if (this.context == null) {
+                init();
+            }
+
+            Marshaller marshaller = this.context.createMarshaller();
+            marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+            marshaller.setProperty(Marshaller.JAXB_NO_NAMESPACE_SCHEMA_LOCATION, SCHEMA_LOCATION);
+            marshaller.marshal(new JAXBElement(
+                    new QName(declaredType.getDeclaredAnnotation(XmlType.class).name()), declaredType, node),
+                    new File(xmlPath));
         } catch (JAXBException ex) {
             getLogger(FlowProcessor.class.getName()).log(Level.SEVERE,
                     "Fail to write configuration down to config file[{0}] due to error : \n{1}",

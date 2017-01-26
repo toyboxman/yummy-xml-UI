@@ -629,6 +629,7 @@
             <xs:element name="driver" type="driver" maxOccurs="1" minOccurs="0"/>
             <xs:element name="attribute" type="basic_attribute" maxOccurs="1" minOccurs="1"/>
             <xs:element name="heartbeat" type="xs:boolean" maxOccurs="1" minOccurs="0"/>
+            <xs:element name="format" type="xs:boolean" maxOccurs="1" minOccurs="0"/>
             <xs:element name="menubar" type="menubar" maxOccurs="1" minOccurs="0"/>
             <xs:element name="contents">
                 <xs:complexType>

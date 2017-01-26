@@ -193,8 +193,12 @@ public class MainWindow {
             String defaultBackground = style.getBackground() == null ? null : style.getBackground().trim();
             for (String pageURI : pages) {
                 page = pageURI;
-                Panel pNode = new FlowProcessor(pageURI).parse(Panel.class);
-
+                final FlowProcessor flowProcessor = new FlowProcessor(pageURI);
+                Panel pNode = flowProcessor.parse(Panel.class);
+                if (winNode.isFormat() != null && winNode.isFormat()) {
+                    flowProcessor.writeOut(pNode);
+                }
+                
                 if (this.meta_blocks.containsKey(pNode.getId())) {
                     CommonUtil.showBlockedErrorMsg(null, CommonUtil.buildErrMsg(pNode.getType().toString(), pNode.getId(), pageURI).toString(), true);
                 }

@@ -142,6 +142,9 @@ public class BankAppStarter {
             if ((enableHeartbeat == null || enableHeartbeat) && getTerminalStatus() != RESTART) {
                 TunnelBuilder.getTunnelBuilder().enableHeartBeat();
             }
+            if (winNode.isFormat() != null && winNode.isFormat()) {
+                parser.writeOut(winNode, Window.class);
+            }
             Driver driver = winNode.getDriver();
             if (driver != null) {
                 List<Driver.Device> device = driver.getDevice();
