@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-     发送银行扣款，并向燃气公司发送缴费确认
--->
-
-<panel
-    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>303888</id>
     <type>Panel</type>
     <active>false</active>
@@ -14,13 +8,13 @@
         <id>303887</id>
         <type>Label</type>
         <attribute>
+            <text>预约挂号成功</text>
             <rect>
                 <x>400</x>
                 <y>90</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>预约挂号成功</text>
         </attribute>
         <action>
             <setFontAction>
@@ -28,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-	
     <component>
         <id>303886</id>
         <type>Label</type>
@@ -41,18 +34,17 @@
             </rect>
         </attribute>
     </component>
-    
     <component>
         <id>303884</id>
         <type>Button</type>
         <attribute>
+            <text>确认完成</text>
             <rect>
                 <x>500</x>
                 <y>600</y>
                 <width>200</width>
                 <heigh>70</heigh>
             </rect>
-            <text>确认完成</text>
         </attribute>
         <action>
             <jumpPanelAction>
@@ -63,19 +55,19 @@
             <cleanAction>
                 <conditions>3030103,3030204,3030206,3030208,3030210,3030214,3030304,3030404,3030504</conditions>
             </cleanAction>
-        </action>   
+        </action>
     </component>
     <component>
         <id>303883</id>
         <type>Label</type>
         <attribute>
+            <text>预约挂号</text>
             <rect>
                 <x>20</x>
                 <y>920</y>
                 <width>1024</width>
                 <heigh>150</heigh>
             </rect>
-            <text>预约挂号</text>
         </attribute>
         <action>
             <setFontAction>
@@ -83,8 +75,7 @@
             </setFontAction>
         </action>
     </component>
-    
-     <component>
+    <component>
         <id>303882</id>
         <type>Button</type>
         <attribute>
@@ -100,11 +91,7 @@
             <setPrinterAction>
                 <header>预约挂号凭条</header>
                 <tail>温馨提示:,1.请妥善保持您的凭条,2.请以医生实际接诊实际为准</tail>
-                <!--<debug>
-                    <prompt>&lt;html&gt;&#160;&#160;&#160;&#160;&#160;模拟打印结果&lt;br&gt;&lt;br&gt;国祯燃气公司&lt;br&gt;流水号:28999777887&lt;br&gt;缴费号:2001900018&lt;br&gt;用户名称:张胜利&lt;br&gt;缴费金额:356.00元&lt;br&gt;处理信息:缴费成功&lt;br&gt;此凭条仅供参照,如有异议请联系客服中心:96669&lt;/html&gt;</prompt>
-                </debug>-->
             </setPrinterAction>
-        </action> 
+        </action>
     </component>
-
 </panel>

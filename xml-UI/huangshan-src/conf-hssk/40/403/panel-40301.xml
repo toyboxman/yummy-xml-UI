@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40301</id>
     <type>Panel</type>
     <active>false</active>
@@ -27,19 +27,8 @@
                     <nextPanel>403899</nextPanel>
                     <display>403897</display>
                 </exception>
-            	<animationTip>/image/sk_yb.gif</animationTip>
-            	<parameters>
-            		4030105
-				</parameters> 
-				<display>
-				   4030203
-				   4030205
-				   4030207
-				   4030209
-				   4030212
-				   4030214
-				   4030224
-				</display>
+                <animationTip>/image/sk_yb.gif</animationTip>
+                <parameters>4030105</parameters>
             </insertICardAction>
         </action>
         <action>
@@ -60,18 +49,17 @@
             </rect>
         </attribute>
     </component>
-    
     <component>
         <id>4030105</id>
         <type>Label</type>
         <attribute>
+            <text>2101yygh</text>
             <rect>
                 <x>1400</x>
                 <y>1400</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>2101yygh</text>
         </attribute>
         <action>
             <setFontAction>
@@ -79,6 +67,4 @@
             </setFontAction>
         </action>
     </component>
-
 </panel>
-

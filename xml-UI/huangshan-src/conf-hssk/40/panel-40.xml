@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40</id>
     <type>Panel</type>
     <active>false</active>
@@ -75,7 +75,7 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-         <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>40301</nextPanel>
                 <trigger>4030102</trigger>
@@ -101,7 +101,7 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-       <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>40401</nextPanel>
                 <trigger>4040102</trigger>
@@ -127,14 +127,13 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-       <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>40701</nextPanel>
                 <trigger>4070102</trigger>
             </jumpPanelAction>
         </action>
     </component>
-
     <component>
         <id>46</id>
         <type>Button</type>
@@ -154,14 +153,13 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-         <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>40501</nextPanel>
                 <trigger>4050102</trigger>
             </jumpPanelAction>
         </action>
     </component>
-    
     <component>
         <id>47</id>
         <type>Button</type>
@@ -181,25 +179,19 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-        <!-- <action>
-            <jumpPanelAction>
-                <nextPanel>40601</nextPanel>
-            </jumpPanelAction>
-        </action>-->
     </component>
-    
-     <component>
+    <component>
         <id>48</id>
         <type>Button</type>
         <attribute>
             <text></text>
-            <icon>/image/an_niu.png</icon>
             <rect>
                 <x>10</x>
                 <y>944</y>
                 <width>80</width>
                 <heigh>40</heigh>
             </rect>
+            <icon>/image/an_niu.png</icon>
         </attribute>
         <action>
             <setFontAction>
@@ -208,14 +200,13 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-         <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>4111</nextPanel>
                 <nextCursor>4112</nextCursor>
             </jumpPanelAction>
         </action>
     </component>
-
     <component>
         <id>49</id>
         <type>Label</type>
@@ -257,13 +248,11 @@
             </showClockAction>
         </action>
     </component>
-    
-      <component>
+    <component>
         <id>4999</id>
         <type>Button</type>
         <attribute>
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1000</x>
                 <y>800</y>

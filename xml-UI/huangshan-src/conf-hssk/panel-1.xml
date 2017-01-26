@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>1</id>
     <type>Panel</type>
     <active>true</active>
@@ -9,13 +9,13 @@
         <type>Button</type>
         <attribute>
             <text></text>
-            <icon>/image/patient_id_card.png</icon>
             <rect>
                 <x>763</x>
                 <y>250</y>
                 <width>350</width>
                 <heigh>240</heigh>
             </rect>
+            <icon>/image/patient_id_card.png</icon>
         </attribute>
         <action>
             <setFontAction>
@@ -24,7 +24,7 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-       <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
@@ -35,13 +35,13 @@
         <type>Button</type>
         <attribute>
             <text></text>
-            <icon>/image/social_card.png</icon>
             <rect>
                 <x>763</x>
                 <y>500</y>
                 <width>350</width>
                 <heigh>240</heigh>
             </rect>
+            <icon>/image/social_card.png</icon>
         </attribute>
         <action>
             <setFontAction>
@@ -50,7 +50,7 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-       <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>40</nextPanel>
             </jumpPanelAction>

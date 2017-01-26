@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30401</id>
     <type>Panel</type>
     <active>false</active>
@@ -23,17 +23,12 @@
                     <nextPanel>30401</nextPanel>
                     <display>3040103</display>
                     <trigger>3040104</trigger>
-                    <!--<debug>章三 10120032210038484</debug>-->
-                    <!--<nextPanel>201501</nextPanel>
-                    <display>20150411,20150412</display>
-                    <trigger>2015042</trigger>
-                    <debug>章三 10120032210038484</debug>-->
                 </nextStep>
                 <exception>
                     <nextPanel>304899</nextPanel>
                     <display>304897</display>
                 </exception>
-            	  <animationTip>/image/swift_card.gif</animationTip>
+                <animationTip>/image/swift_card.gif</animationTip>
             </insertICardAction>
         </action>
         <action>
@@ -54,7 +49,6 @@
             </rect>
         </attribute>
     </component>
-
     <component>
         <id>3040104</id>
         <type>Button</type>
@@ -67,21 +61,19 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   	 <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_zhanghucx</prsCode>
                 <conditions>3040103</conditions>
-                <nextStep>  
-                    <nextPanel>30402</nextPanel> 
-                    <display>3040204,3040206,3040208,3040210,3040214</display>  
+                <nextStep>
+                    <nextPanel>30402</nextPanel>
+                    <display>3040204,3040206,3040208,3040210,3040214</display>
                 </nextStep>
-                <exception> 
-                    <nextPanel>304899</nextPanel>  
-                    <display>304897</display>  
+                <exception>
+                    <nextPanel>304899</nextPanel>
+                    <display>304897</display>
                 </exception>
             </sendMsgAction>
         </action>
     </component>
-
 </panel>
-

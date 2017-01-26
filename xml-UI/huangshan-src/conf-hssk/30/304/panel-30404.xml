@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30404</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>3040403</id>
         <type>Button</type>
@@ -35,22 +34,20 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-       <action>
-			<insertICardAction>
-				<cardType>CashSaver</cardType>
-				<nextStep>
-					<nextPanel>30404</nextPanel>
-					<display>3040404</display>
-					<!--<debug>医疗卡序号-11111111</debug>-->
-					<!--<trigger>2015043</trigger>-->
-				</nextStep>
-				<exception>
-					<nextPanel>304899</nextPanel>
-					<display>304897</display>
-				</exception>
-				<animationTip>/image/cash_id.gif</animationTip>
-				<parameters>3040103</parameters>
-			</insertICardAction>
+        <action>
+            <insertICardAction>
+                <cardType>CashSaver</cardType>
+                <nextStep>
+                    <nextPanel>30404</nextPanel>
+                    <display>3040404</display>
+                </nextStep>
+                <exception>
+                    <nextPanel>304899</nextPanel>
+                    <display>304897</display>
+                </exception>
+                <animationTip>/image/cash_id.gif</animationTip>
+                <parameters>3040103</parameters>
+            </insertICardAction>
         </action>
         <action>
             <playMediaAction>
@@ -76,7 +73,7 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>3040404</id>
         <type>TextField</type>
         <attribute>
@@ -86,7 +83,6 @@
                 <width>200</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <limitInputAction editable="false">
@@ -94,7 +90,7 @@
             </limitInputAction>
         </action>
     </component>
-   <component>
+    <component>
         <id>3040407</id>
         <type>Button</type>
         <attribute>
@@ -111,28 +107,28 @@
                 <cardType>CashSaver</cardType>
             </ejectCardAction>
         </action>
-   	    <action>
+        <action>
             <sendMsgAction>
                 <prsCode>execute_chongzhi</prsCode>
                 <conditions>3040103,3040404,3040210,3040214,3040204,3040207</conditions>
-                <nextStep>  
-                    <nextPanel>304888</nextPanel> 
-                    <display>304886</display>  
+                <nextStep>
+                    <nextPanel>304888</nextPanel>
+                    <display>304886</display>
                     <trigger>304882</trigger>
                 </nextStep>
-                <exception> 
-                    <nextPanel>304899</nextPanel>  
-                    <display>304897</display>  
+                <exception>
+                    <nextPanel>304899</nextPanel>
+                    <display>304897</display>
                 </exception>
                 <checkRules>
                     <notNull>
                         <content>3040404</content>
                         <errMsg>充值金额不能为0</errMsg>
                     </notNull>
-                   <template>
-                     <content>3040404</content>
-                     <pattern>(?!0*$).*</pattern>
-                     <errMsg>充值金额不能为0</errMsg>
+                    <template>
+                        <content>3040404</content>
+                        <pattern>(?!0*$).*</pattern>
+                        <errMsg>充值金额不能为0</errMsg>
                     </template>
                 </checkRules>
             </sendMsgAction>
@@ -157,12 +153,11 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>3040409</id>
         <type>Button</type>
         <attribute>
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1000</x>
                 <y>800</y>
@@ -179,16 +174,16 @@
             <cleanAction>
                 <conditions>3040103,3040204,3040206,3040208,3040210,3040214,3040404</conditions>
             </cleanAction>
-        </action>   
+        </action>
         <action>
             <jumpPanelAction>
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
         </action>
-        <action> 
+        <action>
             <setFontAction>
                 <fontSize>24</fontSize>
             </setFontAction>
         </action>
-    </component>  
+    </component>
 </panel>

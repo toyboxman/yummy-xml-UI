@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40703</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>4070303</id>
         <type>Button</type>
@@ -61,20 +60,13 @@
                 <column>1</column>
                 <hgap>100</hgap>
                 <vgap>60</vgap>
-				<misc>
-					<bgColor>30,144,255</bgColor>
-				</misc>
+                <misc>
+                    <bgColor>30,144,255</bgColor>
+                </misc>
             </showGridAction>
         </action>
-        <!-- <action>
-            <setFontAction>
-                <fontSize>22</fontSize>
-            </setFontAction>
-        </action>-->
-         
     </component>
-
-     <component>
+    <component>
         <id>4070305</id>
         <type>Button</type>
         <attribute>
@@ -86,18 +78,18 @@
                 <heigh>100</heigh>
             </rect>
         </attribute>
-   	 <action>
+        <action>
             <sendMsgAction>
                 <prsCode>execute_yuyuequhao_yibao</prsCode>
                 <conditions>4070221,4070203,4070209,4070304</conditions>
-                <nextStep>  
-                    <nextPanel>40704</nextPanel> 
+                <nextStep>
+                    <nextPanel>40704</nextPanel>
                     <display>4070411,4070412,4070414,4070417,4070418,4070455</display>
                     <trigger>4070413</trigger>
                 </nextStep>
-                <exception> 
-                    <nextPanel>407899</nextPanel>  
-                    <display>407897</display>  
+                <exception>
+                    <nextPanel>407899</nextPanel>
+                    <display>407897</display>
                 </exception>
                 <checkRules>
                     <notNull>
@@ -108,8 +100,7 @@
             </sendMsgAction>
         </action>
     </component>
-    
-     <component>
+    <component>
         <id>4070306</id>
         <type>Button</type>
         <attribute>
@@ -128,22 +119,5 @@
                 <fontBgColor>127, 127, 127</fontBgColor>
             </setFontAction>
         </action>
-        
-     <!--银行卡业务暂时不开通，暂时封掉
-   	 <action>
-            <sendMsgAction>
-                <prsCode>execute_yuyuequhao</prsCode>
-                <conditions>4070103,4070204,4070206,4070208,4070210,4070214,4070304</conditions>
-                <nextStep>  
-                    <nextPanel>40704</nextPanel> 
-                    <display>4070204,4070206,4070208,4070210,4070214</display>  
-                </nextStep>
-                <exception> 
-                    <nextPanel>407899</nextPanel>  
-                    <display>407897</display>  
-                </exception>
-            </sendMsgAction>
-     </action> -->
     </component>
-    
 </panel>

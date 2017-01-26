@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30605</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,41 +22,6 @@
             </setFontAction>
         </action>
     </component>
-    <decorator>
-        <id>3060503</id>
-        <type>ScrollPanel</type>     
-        <attribute>
-            <rect>
-                <x>100</x>
-                <y>300</y>
-                <width>1100</width>
-                <heigh>400</heigh>
-            </rect>
-        </attribute>	
-        <component>
-            <id>3060504</id>
-            <type>Table</type>
-            <attribute>
-                <rect>
-                    <x>150</x>
-                    <y>300</y>
-                    <width>900</width>
-                    <heigh>600</heigh>
-                </rect>
-            </attribute>
-            <action>
-             <showTableAction>
-                <columnNames>交易日期,支付方式,支付金额</columnNames>
-             </showTableAction>
-            </action>
-            <action>
-                <setFontAction>
-                    <fontSize>20</fontSize>
-                </setFontAction>
-            </action>
-        </component>
-    </decorator>
-
     <component>
         <id>3060509</id>
         <type>Button</type>
@@ -75,5 +40,38 @@
             </jumpPanelAction>
         </action>
     </component>
-
+    <decorator>
+        <id>3060503</id>
+        <type>ScrollPanel</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>300</y>
+                <width>1100</width>
+                <heigh>400</heigh>
+            </rect>
+        </attribute>
+        <component>
+            <id>3060504</id>
+            <type>Table</type>
+            <attribute>
+                <rect>
+                    <x>150</x>
+                    <y>300</y>
+                    <width>900</width>
+                    <heigh>600</heigh>
+                </rect>
+            </attribute>
+            <action>
+                <showTableAction>
+                    <columnNames>交易日期,支付方式,支付金额</columnNames>
+                </showTableAction>
+            </action>
+            <action>
+                <setFontAction>
+                    <fontSize>20</fontSize>
+                </setFontAction>
+            </action>
+        </component>
+    </decorator>
 </panel>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<window
-    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../schema/WindowXmlSchema.xsd'>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<window xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>0</id>
     <type>Frame</type>
     <ui-style>
@@ -13,36 +11,30 @@
         </font>
         <background>/image/1.jpg</background>
         <progress>/image/loader_orange_256.gif</progress>
-       <!-- <color>30, 144, 255</color>
-        <textcolor>248, 248, 255</textcolor>-->
-		<color>210, 210, 210</color>
-
+        <color>210, 210, 210</color>
     </ui-style>
-	
     <driver>
         <device>
             <type>PIDCard</type>
             <port>com1</port>
             <dll>PersonID</dll>
         </device>
-        
         <device>
             <type>HISCard</type>
             <port>com7</port>
             <dll>CardSender</dll>
         </device>
-        
         <device>
             <type>PatientCard</type>
             <port>com6</port>
             <dll>PatientCard</dll>
         </device>
-         <device>
+        <device>
             <type>CashSaver</type>
             <port>com3</port>
             <dll>Bill</dll>
-        </device>       
-         <device>
+        </device>
+        <device>
             <type>printer</type>
             <port>com2</port>
             <dll>Printer</dll>
@@ -52,113 +44,106 @@
             <port>com40</port>
             <dll>MedicareCard</dll>
         </device>
-
     </driver>
     <attribute>
         <text>黄山首康医院自助系统</text>
-      <!--  <rect>
-            <x>0</x>
-            <y>0</y>
-            <width>1280</width>
-            <heigh>800</heigh>
-        </rect>-->
     </attribute>
     <contents>
         <page>./conf-hssk/panel-1.xml</page>
-		<page>./conf-hssk/30/panel-30.xml</page>
-		<page>./conf-hssk/40/panel-40.xml</page>
-		<page>./conf-hssk/40/panel-41.xml</page>
+        <page>./conf-hssk/30/panel-30.xml</page>
+        <page>./conf-hssk/40/panel-40.xml</page>
+        <page>./conf-hssk/40/panel-41.xml</page>
         <page>./conf-hssk/30/301/panel-30101.xml</page>
-		<page>./conf-hssk/30/301/panel-30102.xml</page>
-		<page>./conf-hssk/30/301/panel-30103.xml</page>
-		<page>./conf-hssk/30/301/panel-30104.xml</page>
-		<page>./conf-hssk/30/301/panel-301888.xml</page>
-		<page>./conf-hssk/30/301/panel-301899.xml</page>
-		<page>./conf-hssk/30/302/panel-30201.xml</page>
-		<page>./conf-hssk/30/302/panel-30202.xml</page>
-		<page>./conf-hssk/30/302/panel-30203.xml</page>
-		<page>./conf-hssk/30/302/panel-30204.xml</page>
-		<page>./conf-hssk/30/302/panel-30205.xml</page>
-		<page>./conf-hssk/30/302/panel-302888.xml</page>
-		<page>./conf-hssk/30/302/panel-302899.xml</page>
-		<page>./conf-hssk/30/303/panel-30301.xml</page>
-		<page>./conf-hssk/30/303/panel-30302.xml</page>
-		<page>./conf-hssk/30/303/panel-30303.xml</page>
-		<page>./conf-hssk/30/303/panel-30304.xml</page>
-		<page>./conf-hssk/30/303/panel-30305.xml</page>
-		<page>./conf-hssk/30/303/panel-303888.xml</page>
-		<page>./conf-hssk/30/303/panel-303899.xml</page>
-		<page>./conf-hssk/30/304/panel-30401.xml</page>
-		<page>./conf-hssk/30/304/panel-30402.xml</page>
-		<page>./conf-hssk/30/304/panel-30403.xml</page>
-		<page>./conf-hssk/30/304/panel-30404.xml</page>
-		<page>./conf-hssk/30/304/panel-304888.xml</page>
-		<page>./conf-hssk/30/304/panel-304899.xml</page>
-		<page>./conf-hssk/30/305/panel-30501.xml</page>
-		<page>./conf-hssk/30/305/panel-30502.xml</page>
-		<page>./conf-hssk/30/305/panel-30503.xml</page>
-		<page>./conf-hssk/30/305/panel-30504.xml</page>
-		<page>./conf-hssk/30/305/panel-305888.xml</page>
-		<page>./conf-hssk/30/305/panel-305899.xml</page>
-		<page>./conf-hssk/30/306/panel-30601.xml</page>
-		<page>./conf-hssk/30/306/panel-30602.xml</page>
-		<page>./conf-hssk/30/306/panel-30603.xml</page>
-		<page>./conf-hssk/30/306/panel-30604.xml</page>
-		<page>./conf-hssk/30/306/panel-30605.xml</page>
-		<page>./conf-hssk/30/306/panel-30606.xml</page>
-		<page>./conf-hssk/30/306/panel-30607.xml</page>
-		<page>./conf-hssk/30/306/panel-306888.xml</page>
-		<page>./conf-hssk/30/306/panel-306899.xml</page>
-		<page>./conf-hssk/30/307/panel-30701.xml</page>
-		<page>./conf-hssk/30/307/panel-30702.xml</page>
-		<page>./conf-hssk/30/307/panel-30703.xml</page>
-		<page>./conf-hssk/30/307/panel-30704.xml</page>
-		<page>./conf-hssk/30/307/panel-307888.xml</page>
-		<page>./conf-hssk/30/307/panel-307899.xml</page>
-		<page>./conf-hssk/30/308/panel-30801.xml</page>
-		<page>./conf-hssk/30/308/panel-30802.xml</page>
-		<page>./conf-hssk/30/308/panel-30803.xml</page>
-		<page>./conf-hssk/30/308/panel-30804.xml</page>
-		<page>./conf-hssk/30/308/panel-308888.xml</page>
-		<page>./conf-hssk/30/308/panel-308899.xml</page>
+        <page>./conf-hssk/30/301/panel-30102.xml</page>
+        <page>./conf-hssk/30/301/panel-30103.xml</page>
+        <page>./conf-hssk/30/301/panel-30104.xml</page>
+        <page>./conf-hssk/30/301/panel-301888.xml</page>
+        <page>./conf-hssk/30/301/panel-301899.xml</page>
+        <page>./conf-hssk/30/302/panel-30201.xml</page>
+        <page>./conf-hssk/30/302/panel-30202.xml</page>
+        <page>./conf-hssk/30/302/panel-30203.xml</page>
+        <page>./conf-hssk/30/302/panel-30204.xml</page>
+        <page>./conf-hssk/30/302/panel-30205.xml</page>
+        <page>./conf-hssk/30/302/panel-302888.xml</page>
+        <page>./conf-hssk/30/302/panel-302899.xml</page>
+        <page>./conf-hssk/30/303/panel-30301.xml</page>
+        <page>./conf-hssk/30/303/panel-30302.xml</page>
+        <page>./conf-hssk/30/303/panel-30303.xml</page>
+        <page>./conf-hssk/30/303/panel-30304.xml</page>
+        <page>./conf-hssk/30/303/panel-30305.xml</page>
+        <page>./conf-hssk/30/303/panel-303888.xml</page>
+        <page>./conf-hssk/30/303/panel-303899.xml</page>
+        <page>./conf-hssk/30/304/panel-30401.xml</page>
+        <page>./conf-hssk/30/304/panel-30402.xml</page>
+        <page>./conf-hssk/30/304/panel-30403.xml</page>
+        <page>./conf-hssk/30/304/panel-30404.xml</page>
+        <page>./conf-hssk/30/304/panel-304888.xml</page>
+        <page>./conf-hssk/30/304/panel-304899.xml</page>
+        <page>./conf-hssk/30/305/panel-30501.xml</page>
+        <page>./conf-hssk/30/305/panel-30502.xml</page>
+        <page>./conf-hssk/30/305/panel-30503.xml</page>
+        <page>./conf-hssk/30/305/panel-30504.xml</page>
+        <page>./conf-hssk/30/305/panel-305888.xml</page>
+        <page>./conf-hssk/30/305/panel-305899.xml</page>
+        <page>./conf-hssk/30/306/panel-30601.xml</page>
+        <page>./conf-hssk/30/306/panel-30602.xml</page>
+        <page>./conf-hssk/30/306/panel-30603.xml</page>
+        <page>./conf-hssk/30/306/panel-30604.xml</page>
+        <page>./conf-hssk/30/306/panel-30605.xml</page>
+        <page>./conf-hssk/30/306/panel-30606.xml</page>
+        <page>./conf-hssk/30/306/panel-30607.xml</page>
+        <page>./conf-hssk/30/306/panel-306888.xml</page>
+        <page>./conf-hssk/30/306/panel-306899.xml</page>
+        <page>./conf-hssk/30/307/panel-30701.xml</page>
+        <page>./conf-hssk/30/307/panel-30702.xml</page>
+        <page>./conf-hssk/30/307/panel-30703.xml</page>
+        <page>./conf-hssk/30/307/panel-30704.xml</page>
+        <page>./conf-hssk/30/307/panel-307888.xml</page>
+        <page>./conf-hssk/30/307/panel-307899.xml</page>
+        <page>./conf-hssk/30/308/panel-30801.xml</page>
+        <page>./conf-hssk/30/308/panel-30802.xml</page>
+        <page>./conf-hssk/30/308/panel-30803.xml</page>
+        <page>./conf-hssk/30/308/panel-30804.xml</page>
+        <page>./conf-hssk/30/308/panel-308888.xml</page>
+        <page>./conf-hssk/30/308/panel-308899.xml</page>
         <page>./conf-hssk/40/401/panel-40101.xml</page>
-		<page>./conf-hssk/40/401/panel-40102.xml</page>
-		<page>./conf-hssk/40/401/panel-40103.xml</page>
-		<page>./conf-hssk/40/401/panel-40104.xml</page>
-		<page>./conf-hssk/40/401/panel-401777.xml</page>
-		<page>./conf-hssk/40/401/panel-401888.xml</page>
-		<page>./conf-hssk/40/401/panel-401899.xml</page>
-		<page>./conf-hssk/40/402/panel-40201.xml</page>
-		<page>./conf-hssk/40/402/panel-40202.xml</page>
-		<page>./conf-hssk/40/402/panel-40203.xml</page>
-		<page>./conf-hssk/40/402/panel-40204.xml</page>
-		<page>./conf-hssk/40/402/panel-402888.xml</page>
-		<page>./conf-hssk/40/402/panel-402899.xml</page>
-		<page>./conf-hssk/40/403/panel-40301.xml</page>
-		<page>./conf-hssk/40/403/panel-40302.xml</page>
-		<page>./conf-hssk/40/403/panel-40303.xml</page>
-		<page>./conf-hssk/40/403/panel-40304.xml</page>
-		<page>./conf-hssk/40/403/panel-40305.xml</page>
-		<page>./conf-hssk/40/403/panel-403888.xml</page>
-		<page>./conf-hssk/40/403/panel-403899.xml</page>
-		<page>./conf-hssk/40/404/panel-40401.xml</page>
-		<page>./conf-hssk/40/404/panel-40402.xml</page>
-		<page>./conf-hssk/40/404/panel-40403.xml</page>
-		<page>./conf-hssk/40/404/panel-40404.xml</page>
-		<page>./conf-hssk/40/404/panel-404888.xml</page>
-		<page>./conf-hssk/40/404/panel-404899.xml</page>
-		<page>./conf-hssk/40/405/panel-40501.xml</page>
-		<page>./conf-hssk/40/405/panel-40502.xml</page>
-		<page>./conf-hssk/40/405/panel-40503.xml</page>
-		<page>./conf-hssk/40/405/panel-40504.xml</page>
-		<page>./conf-hssk/40/405/panel-405777.xml</page>
-		<page>./conf-hssk/40/405/panel-405888.xml</page>
-		<page>./conf-hssk/40/405/panel-405899.xml</page>
-		<page>./conf-hssk/40/407/panel-40701.xml</page>
-		<page>./conf-hssk/40/407/panel-40702.xml</page>
-		<page>./conf-hssk/40/407/panel-40703.xml</page>
-		<page>./conf-hssk/40/407/panel-40704.xml</page>
-		<page>./conf-hssk/40/407/panel-407888.xml</page>
-		<page>./conf-hssk/40/407/panel-407899.xml</page>
+        <page>./conf-hssk/40/401/panel-40102.xml</page>
+        <page>./conf-hssk/40/401/panel-40103.xml</page>
+        <page>./conf-hssk/40/401/panel-40104.xml</page>
+        <page>./conf-hssk/40/401/panel-401777.xml</page>
+        <page>./conf-hssk/40/401/panel-401888.xml</page>
+        <page>./conf-hssk/40/401/panel-401899.xml</page>
+        <page>./conf-hssk/40/402/panel-40201.xml</page>
+        <page>./conf-hssk/40/402/panel-40202.xml</page>
+        <page>./conf-hssk/40/402/panel-40203.xml</page>
+        <page>./conf-hssk/40/402/panel-40204.xml</page>
+        <page>./conf-hssk/40/402/panel-402888.xml</page>
+        <page>./conf-hssk/40/402/panel-402899.xml</page>
+        <page>./conf-hssk/40/403/panel-40301.xml</page>
+        <page>./conf-hssk/40/403/panel-40302.xml</page>
+        <page>./conf-hssk/40/403/panel-40303.xml</page>
+        <page>./conf-hssk/40/403/panel-40304.xml</page>
+        <page>./conf-hssk/40/403/panel-40305.xml</page>
+        <page>./conf-hssk/40/403/panel-403888.xml</page>
+        <page>./conf-hssk/40/403/panel-403899.xml</page>
+        <page>./conf-hssk/40/404/panel-40401.xml</page>
+        <page>./conf-hssk/40/404/panel-40402.xml</page>
+        <page>./conf-hssk/40/404/panel-40403.xml</page>
+        <page>./conf-hssk/40/404/panel-40404.xml</page>
+        <page>./conf-hssk/40/404/panel-404888.xml</page>
+        <page>./conf-hssk/40/404/panel-404899.xml</page>
+        <page>./conf-hssk/40/405/panel-40501.xml</page>
+        <page>./conf-hssk/40/405/panel-40502.xml</page>
+        <page>./conf-hssk/40/405/panel-40503.xml</page>
+        <page>./conf-hssk/40/405/panel-40504.xml</page>
+        <page>./conf-hssk/40/405/panel-405777.xml</page>
+        <page>./conf-hssk/40/405/panel-405888.xml</page>
+        <page>./conf-hssk/40/405/panel-405899.xml</page>
+        <page>./conf-hssk/40/407/panel-40701.xml</page>
+        <page>./conf-hssk/40/407/panel-40702.xml</page>
+        <page>./conf-hssk/40/407/panel-40703.xml</page>
+        <page>./conf-hssk/40/407/panel-40704.xml</page>
+        <page>./conf-hssk/40/407/panel-407888.xml</page>
+        <page>./conf-hssk/40/407/panel-407899.xml</page>
     </contents>
 </window>

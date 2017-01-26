@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30103</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>3010304</id>
         <type>Grid</type>
@@ -40,17 +39,11 @@
                 <column>4</column>
                 <hgap>100</hgap>
                 <vgap>60</vgap>
-				<misc>
-					<bgColor>30,144,255</bgColor>  
-				</misc>
+                <misc>
+                    <bgColor>30,144,255</bgColor>
+                </misc>
             </showGridAction>
         </action>
-        <!-- <action>
-            <setFontAction>
-                <fontSize>22</fontSize>
-            </setFontAction>
-        </action>-->
-         
     </component>
     <component>
         <id>3010305</id>
@@ -64,7 +57,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-       <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_ghpaiban</prsCode>
                 <conditions>3010304</conditions>
@@ -102,10 +95,10 @@
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
         </action>
-         <action>
+        <action>
             <cleanAction>
                 <conditions>3010103,3010204,3010206,3010208,3010210,3010214,3010304,3010404</conditions>
             </cleanAction>
-        </action>  
+        </action>
     </component>
 </panel>

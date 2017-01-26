@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30503</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,43 +22,6 @@
             </setFontAction>
         </action>
     </component>
-    <decorator>
-        <id>3050303</id>
-        <type>ScrollPanel</type>     
-        <attribute>
-            <rect>
-                <x>100</x>
-                <y>300</y>
-                <width>1100</width>
-                <heigh>400</heigh>
-            </rect>
-        </attribute>	
-        <component>
-            <id>3050304</id>
-            <type>Table</type>
-            <attribute>
-                <rect>
-                    <x>150</x>
-                    <y>300</y>
-                    <width>900</width>
-                    <heigh>600</heigh>
-                </rect>
-            </attribute>
-
-            <action>
-             <showTableAction>
-                <columnNames>开单日期,开单科室,开单医生,费用类型,金额</columnNames>
-             </showTableAction>
-            </action>
-            <action>
-                <setFontAction>
-                    <fontSize>20</fontSize>
-                </setFontAction>
-            </action>
-        </component>
-    </decorator>
-
-
     <component>
         <id>3050305</id>
         <type>Button</type>
@@ -71,7 +34,7 @@
                 <heigh>60</heigh>
             </rect>
         </attribute>
-         <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_zhanghucx_jfmx</prsCode>
                 <conditions>3050103</conditions>
@@ -87,7 +50,6 @@
             </sendMsgAction>
         </action>
     </component>
-
     <component>
         <id>3050306</id>
         <type>Button</type>
@@ -100,7 +62,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-         <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_menzhenfymx_jfmx</prsCode>
                 <conditions>3050103</conditions>
@@ -115,7 +77,6 @@
             </sendMsgAction>
         </action>
     </component>
-
     <component>
         <id>3050307</id>
         <type>Button</type>
@@ -128,7 +89,7 @@
                 <heigh>70</heigh>
             </rect>
         </attribute>
-         <action>
+        <action>
             <sendMsgAction>
                 <prsCode>execute_menzhenjs</prsCode>
                 <conditions>3050103,30503017,30503018,3050204</conditions>
@@ -144,26 +105,24 @@
             </sendMsgAction>
         </action>
     </component>
-
-	<component>
+    <component>
         <id>30503010</id>
         <type>Label</type>
         <attribute>
-        <text>姓  名：</text>
+            <text>姓  名：</text>
             <rect>
                 <x>100</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
         </action>
-   </component>
+    </component>
     <component>
         <id>30503011</id>
         <type>Label</type>
@@ -181,18 +140,17 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>30503012</id>
         <type>Label</type>
         <attribute>
-        <text>就诊卡号:</text>
+            <text>就诊卡号:</text>
             <rect>
                 <x>350</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -217,18 +175,17 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>30503014</id>
         <type>Label</type>
         <attribute>
-        <text>卡余额:</text>
+            <text>卡余额:</text>
             <rect>
                 <x>660</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -253,20 +210,17 @@
             </setFontAction>
         </action>
     </component>
-
-
-	<component>
+    <component>
         <id>30503016</id>
         <type>Label</type>
         <attribute>
-        <text>缴费总金额:</text>
+            <text>缴费总金额:</text>
             <rect>
                 <x>100</x>
                 <y>700</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -308,32 +262,64 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>3050309</id>
         <type>Button</type>
         <attribute>
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1000</x>
                 <y>800</y>
                 <width>150</width>
                 <heigh>100</heigh>
             </rect>
-			
         </attribute>
         <action>
             <jumpPanelAction>
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
-			<cleanAction>
-				<conditions>3050103,3050204,3050206,3050208,3050210,3050304,3050404,3050210,3050214,30503011,30503013,30503015,30503017,30503018,30503011,30503013,30503015,30503017,30503018,30504011,30504013,30504015,30504017,30504018</conditions>
-			</cleanAction>
+            <cleanAction>
+                <conditions>3050103,3050204,3050206,3050208,3050210,3050304,3050404,3050210,3050214,30503011,30503013,30503015,30503017,30503018,30503011,30503013,30503015,30503017,30503018,30504011,30504013,30504015,30504017,30504018</conditions>
+            </cleanAction>
         </action>
-        <action> 
+        <action>
             <setFontAction>
                 <fontSize>24</fontSize>
             </setFontAction>
         </action>
-    </component>  
+    </component>
+    <decorator>
+        <id>3050303</id>
+        <type>ScrollPanel</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>300</y>
+                <width>1100</width>
+                <heigh>400</heigh>
+            </rect>
+        </attribute>
+        <component>
+            <id>3050304</id>
+            <type>Table</type>
+            <attribute>
+                <rect>
+                    <x>150</x>
+                    <y>300</y>
+                    <width>900</width>
+                    <heigh>600</heigh>
+                </rect>
+            </attribute>
+            <action>
+                <showTableAction>
+                    <columnNames>开单日期,开单科室,开单医生,费用类型,金额</columnNames>
+                </showTableAction>
+            </action>
+            <action>
+                <setFontAction>
+                    <fontSize>20</fontSize>
+                </setFontAction>
+            </action>
+        </component>
+    </decorator>
 </panel>

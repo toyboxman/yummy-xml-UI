@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40503</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,42 +22,6 @@
             </setFontAction>
         </action>
     </component>
-    <decorator>
-        <id>4050303</id>
-        <type>ScrollPanel</type>     
-        <attribute>
-            <rect>
-                <x>100</x>
-                <y>300</y>
-                <width>1100</width>
-                <heigh>400</heigh>
-            </rect>
-        </attribute>	
-        <component>
-            <id>4050304</id>
-            <type>Table</type>
-            <attribute>
-                <rect>
-                    <x>150</x>
-                    <y>300</y>
-                    <width>900</width>
-                    <heigh>600</heigh>
-                </rect>
-            </attribute>
-
-            <action>
-             <showTableAction>
-                <columnNames>开单日期,开单科室,开单医生,费用类型,金额</columnNames>
-             </showTableAction>
-            </action>
-            <action>
-                <setFontAction>
-                    <fontSize>20</fontSize>
-                </setFontAction>
-            </action>
-        </component>
-    </decorator>
-    
     <component>
         <id>40503017</id>
         <type>TextField</type>
@@ -75,7 +39,6 @@
             </setFontAction>
         </action>
     </component>
-    
     <component>
         <id>40503018</id>
         <type>TextField</type>
@@ -93,8 +56,6 @@
             </setFontAction>
         </action>
     </component>
-    
-     <!--明细查询返回cargo信息-->
     <component>
         <id>40503019</id>
         <type>TextField</type>
@@ -112,7 +73,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>4050305</id>
         <type>Button</type>
@@ -125,7 +85,7 @@
                 <heigh>60</heigh>
             </rect>
         </attribute>
-         <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_zhanghucx_jfmx_yibao</prsCode>
                 <conditions>4050221</conditions>
@@ -141,7 +101,6 @@
             </sendMsgAction>
         </action>
     </component>
-
     <component>
         <id>4050306</id>
         <type>Button</type>
@@ -154,7 +113,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-         <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_menzhenfymx_jfmx_yibao</prsCode>
                 <conditions>4050221</conditions>
@@ -169,7 +128,6 @@
             </sendMsgAction>
         </action>
     </component>
-    
     <component>
         <id>4050307</id>
         <type>Button</type>
@@ -182,8 +140,7 @@
                 <heigh>70</heigh>
             </rect>
         </attribute>
-           <!--调用医保预结算-->
-          <action>
+        <action>
             <insertICardAction>
                 <cardType>MedicareCard</cardType>
                 <nextStep>
@@ -195,21 +152,12 @@
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
                 </exception>
-            	<animationTip>/image/chuli.gif</animationTip>
-            	<parameters>
-            		4050315  <!--交易码-->
-            		4050220  <!--病人ID-->
-            		40503018  <!--结算ID-->
-				</parameters> 
-				<display>
-				   4050320  <!--返回自付金额-->
-				</display>
+                <animationTip>/image/chuli.gif</animationTip>
+                <parameters>4050315 4050220 40503018</parameters>
             </insertICardAction>
         </action>
     </component>
-    
-     <!--医保预结算返回的自付金额-->
-     <component>
+    <component>
         <id>4050320</id>
         <type>TextField</type>
         <attribute>
@@ -220,8 +168,7 @@
                 <heigh>50</heigh>
             </rect>
         </attribute>
-     </component>
-    
+    </component>
     <component>
         <id>4050339</id>
         <type>Button</type>
@@ -238,7 +185,7 @@
             <jumpPanelAction>
                 <nextPanel>405777</nextPanel>
             </jumpPanelAction>
-        </action> 
+        </action>
         <action>
             <sendMsgAction>
                 <prsCode>sim_zifuamt_iszero_mzjs</prsCode>
@@ -246,20 +193,15 @@
                 <nextStep>
                     <nextPanel>40503</nextPanel>
                     <display>4050337</display>
-                    <!--<trigger>4050323</trigger>-->
                 </nextStep>
                 <exception>
-                	<nextPanel>405899</nextPanel>
+                    <nextPanel>405899</nextPanel>
                     <display>405897</display>
-                    <!-- <nextPanel>40503</nextPanel>
-                    <display>4050335</display>
-                   <trigger>4050338</trigger>-->
                 </exception>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-    
-   <component>
+    <component>
         <id>4050338</id>
         <type>Button</type>
         <attribute>
@@ -285,11 +227,9 @@
                     <display>405897</display>
                 </exception>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-    
-        <!--医保卡院内账户查询返回姓名-->
-     <component>
+    <component>
         <id>4050341</id>
         <type>TextField</type>
         <attribute>
@@ -301,9 +241,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保卡院内账户查询返回就诊卡卡号-->
-     <component>
+    <component>
         <id>4050342</id>
         <type>TextField</type>
         <attribute>
@@ -315,9 +253,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保卡院内账户查询返回当前余额-->
-     <component>
+    <component>
         <id>4050343</id>
         <type>TextField</type>
         <attribute>
@@ -329,9 +265,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保卡院内账户查询返回联系电话-->
-     <component>
+    <component>
         <id>4050344</id>
         <type>TextField</type>
         <attribute>
@@ -343,9 +277,7 @@
             </rect>
         </attribute>
     </component>
-    
-    <!--医保卡院内账户查询返回身份证号-->
-     <component>
+    <component>
         <id>4050345</id>
         <type>TextField</type>
         <attribute>
@@ -357,8 +289,7 @@
             </rect>
         </attribute>
     </component>
-    
-      <component>
+    <component>
         <id>4050340</id>
         <type>Button</type>
         <attribute>
@@ -370,7 +301,6 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   
         <action>
             <sendMsgAction>
                 <prsCode>sim_check_money_mzjs</prsCode>
@@ -378,18 +308,15 @@
                 <nextStep>
                     <nextPanel>40503</nextPanel>
                     <display>4050336</display>
-                    <!--<trigger>4050329</trigger>-->
                 </nextStep>
                 <exception>
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
                 </exception>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-     
-     <!--同时走医保结算和院内账户使用-->
-     <component>
+    <component>
         <id>4050329</id>
         <type>Button</type>
         <attribute>
@@ -401,8 +328,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-          <!--调用医保结算-->
-          <action>
+        <action>
             <insertICardAction>
                 <cardType>MedicareCard</cardType>
                 <nextStep>
@@ -410,28 +336,16 @@
                     <display>4050324,4050325,4050326,4050327</display>
                     <trigger>4050319</trigger>
                 </nextStep>
-                <exception>  <!--调用医保结算出错直接报错结束交易-->
+                <exception>
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
                 </exception>
-            	<animationTip>/image/chuli.gif</animationTip>
-            	<parameters>
-            		4050331
-            		4050220
-            		40503018
-				</parameters> 
-				<display>
-				   4050324
-				   4050325
-				   4050326
-				   4050327
-				</display>
+                <animationTip>/image/chuli.gif</animationTip>
+                <parameters>4050331 4050220 40503018</parameters>
             </insertICardAction>
         </action>
     </component>
-    
-     <!--医保结算返回的交易流水号-->
-     <component>
+    <component>
         <id>4050324</id>
         <type>TextField</type>
         <attribute>
@@ -443,8 +357,7 @@
             </rect>
         </attribute>
     </component>
-    <!--医保结算返回的医保结算ID-->
-     <component>
+    <component>
         <id>4050325</id>
         <type>TextField</type>
         <attribute>
@@ -456,9 +369,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保结算返回的需自付金额-->
-     <component>
+    <component>
         <id>4050326</id>
         <type>TextField</type>
         <attribute>
@@ -470,9 +381,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保结算返回的发票ID-->
-     <component>
+    <component>
         <id>4050327</id>
         <type>TextField</type>
         <attribute>
@@ -484,7 +393,6 @@
             </rect>
         </attribute>
     </component>
-    
     <component>
         <id>4050319</id>
         <type>Button</type>
@@ -497,7 +405,7 @@
                 <heigh>70</heigh>
             </rect>
         </attribute>
-         <action>
+        <action>
             <sendMsgAction>
                 <prsCode>execute_menzhenjs_mzjs_yibao</prsCode>
                 <conditions>4050221,4050326,40503018,4050203,40503019,4050324,4050325,4050326,4050327</conditions>
@@ -513,8 +421,7 @@
             </sendMsgAction>
         </action>
     </component>
-   
-     <component>
+    <component>
         <id>4050353</id>
         <type>Button</type>
         <attribute>
@@ -526,9 +433,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   
-       <!--需要对医保结算进行冲正-->
-       <action>
+        <action>
             <insertICardAction>
                 <cardType>MedicareCard</cardType>
                 <nextStep>
@@ -539,29 +444,22 @@
                     <nextPanel>405899</nextPanel>
                     <display>405897</display>
                 </exception>
-            	<animationTip>/image/reverse.gif</animationTip>
-            	<parameters>
-            		4050335
-            		4050327
-				</parameters> 
-				<display>
-				   405897
-				</display>
+                <animationTip>/image/reverse.gif</animationTip>
+                <parameters>4050335 4050327</parameters>
             </insertICardAction>
         </action>
-     </component>
-    
-      <component>
+    </component>
+    <component>
         <id>4050315</id>
         <type>Label</type>
         <attribute>
+            <text>2102mzjs</text>
             <rect>
                 <x>1400</x>
                 <y>1400</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>2102mzjs</text>
         </attribute>
         <action>
             <setFontAction>
@@ -569,18 +467,17 @@
             </setFontAction>
         </action>
     </component>
-    
-     <component>
+    <component>
         <id>4050331</id>
         <type>Label</type>
         <attribute>
+            <text>2103mzjs</text>
             <rect>
                 <x>1400</x>
                 <y>1400</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>2103mzjs</text>
         </attribute>
         <action>
             <setFontAction>
@@ -588,18 +485,17 @@
             </setFontAction>
         </action>
     </component>
-    
-     <component>
+    <component>
         <id>4050335</id>
         <type>Label</type>
         <attribute>
+            <text>2104mzjs</text>
             <rect>
                 <x>1800</x>
                 <y>1800</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>2104mzjs</text>
         </attribute>
         <action>
             <setFontAction>
@@ -607,26 +503,24 @@
             </setFontAction>
         </action>
     </component>
-
-	<component>
+    <component>
         <id>40503010</id>
         <type>Label</type>
         <attribute>
-        <text>姓  名：</text>
+            <text>姓  名：</text>
             <rect>
                 <x>100</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
         </action>
-   </component>
+    </component>
     <component>
         <id>40503011</id>
         <type>Label</type>
@@ -644,18 +538,17 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>40503012</id>
         <type>Label</type>
         <attribute>
-        <text>就诊卡号:</text>
+            <text>就诊卡号:</text>
             <rect>
                 <x>350</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -680,18 +573,17 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>40503014</id>
         <type>Label</type>
         <attribute>
-        <text>卡余额:</text>
+            <text>卡余额:</text>
             <rect>
                 <x>660</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -716,20 +608,17 @@
             </setFontAction>
         </action>
     </component>
-
-
-	<component>
+    <component>
         <id>40503016</id>
         <type>Label</type>
         <attribute>
-        <text>缴费总金额:</text>
+            <text>缴费总金额:</text>
             <rect>
                 <x>100</x>
                 <y>700</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -737,19 +626,17 @@
             </setFontAction>
         </action>
     </component>
-    
     <component>
         <id>4050336</id>
         <type>Label</type>
         <attribute>
-        <text>4050336</text>
+            <text>4050336</text>
             <rect>
                 <x>2000</x>
                 <y>2000</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -761,14 +648,13 @@
         <id>4050337</id>
         <type>Label</type>
         <attribute>
-        <text>4050337</text>
+            <text>4050337</text>
             <rect>
                 <x>2100</x>
                 <y>2100</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -776,20 +662,17 @@
             </setFontAction>
         </action>
     </component>
-   
-	<component>
+    <component>
         <id>4050309</id>
         <type>Button</type>
         <attribute>
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1000</x>
                 <y>800</y>
                 <width>150</width>
                 <heigh>100</heigh>
             </rect>
-			
         </attribute>
         <action>
             <jumpPanelAction>
@@ -799,10 +682,44 @@
                 <conditions>4050203,4050205,4050207,4050209,4050212,4050214,4050224,4050217,4050219,4050220,4050221,4050222,4050304,4050304,40503017,40503018,4050324,4050325,4050326,4050327</conditions>
             </cleanAction>
         </action>
-        <action> 
+        <action>
             <setFontAction>
                 <fontSize>24</fontSize>
             </setFontAction>
         </action>
-    </component>  
+    </component>
+    <decorator>
+        <id>4050303</id>
+        <type>ScrollPanel</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>300</y>
+                <width>1100</width>
+                <heigh>400</heigh>
+            </rect>
+        </attribute>
+        <component>
+            <id>4050304</id>
+            <type>Table</type>
+            <attribute>
+                <rect>
+                    <x>150</x>
+                    <y>300</y>
+                    <width>900</width>
+                    <heigh>600</heigh>
+                </rect>
+            </attribute>
+            <action>
+                <showTableAction>
+                    <columnNames>开单日期,开单科室,开单医生,费用类型,金额</columnNames>
+                </showTableAction>
+            </action>
+            <action>
+                <setFontAction>
+                    <fontSize>20</fontSize>
+                </setFontAction>
+            </action>
+        </component>
+    </decorator>
 </panel>

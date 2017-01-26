@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<panel
-    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../schema/WindowXmlSchema.xsd'>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40403</id>
     <type>Panel</type>
     <active>false</active>
     <background>/image/6.png</background>
-    <component>	
+    <component>
         <id>4040302</id>
         <type>Label</type>
         <attribute>
+            <text>院内账户余额</text>
             <rect>
                 <x>500</x>
                 <y>250</y>
                 <width>260</width>
                 <heigh>40</heigh>
             </rect>
-            <text>院内账户余额</text>
         </attribute>
         <action>
             <setFontAction>
@@ -24,25 +22,24 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4040303</id>
         <type>Label</type>
         <attribute>
-        <text>姓    名:</text>
+            <text>姓    名:</text>
             <rect>
                 <x>300</x>
                 <y>350</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
         </action>
-   </component>
+    </component>
     <component>
         <id>4040304</id>
         <type>TextField</type>
@@ -60,11 +57,11 @@
             </limitInputAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4040305</id>
         <type>Label</type>
         <attribute>
-        <text>就诊卡号:</text>
+            <text>就诊卡号:</text>
             <rect>
                 <x>300</x>
                 <y>400</y>
@@ -95,11 +92,11 @@
             </limitInputAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4040307</id>
         <type>Label</type>
         <attribute>
-        <text>卡 余 额:</text>
+            <text>卡 余 额:</text>
             <rect>
                 <x>300</x>
                 <y>450</y>
@@ -130,7 +127,7 @@
             </limitInputAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4040310</id>
         <type>TextField</type>
         <attribute>
@@ -140,7 +137,6 @@
                 <width>400</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <limitInputAction editable="false">
@@ -148,7 +144,7 @@
             </limitInputAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4040314</id>
         <type>TextField</type>
         <attribute>
@@ -165,13 +161,11 @@
             </limitInputAction>
         </action>
     </component>
-    
     <component>
         <id>4040301</id>
         <type>Button</type>
         <attribute>
             <text>现金充值</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>400</x>
                 <y>650</y>
@@ -192,8 +186,8 @@
                 <trigger>4040403</trigger>
             </jumpPanelAction>
         </action>
-    </component>  
-	<component>
+    </component>
+    <component>
         <id>4040313</id>
         <type>Button</type>
         <attribute>
@@ -212,21 +206,18 @@
                 <fontBgColor>127, 127, 127</fontBgColor>
             </setFontAction>
         </action>
-    </component>  
-    
-	<component>
+    </component>
+    <component>
         <id>4040312</id>
         <type>Button</type>
         <attribute>
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1000</x>
                 <y>800</y>
                 <width>150</width>
                 <heigh>100</heigh>
             </rect>
-			
         </attribute>
         <action>
             <jumpPanelAction>
@@ -236,12 +227,10 @@
                 <conditions>4040203,4040205,4040207,4040209,4040212,4040214,4040224,4040219,4040220,4040221,4040222,4040304,4040306,4040308,4040310,4040314</conditions>
             </cleanAction>
         </action>
-        
-        <action> 
+        <action>
             <setFontAction>
                 <fontSize>24</fontSize>
             </setFontAction>
         </action>
-    </component>  
-    
+    </component>
 </panel>

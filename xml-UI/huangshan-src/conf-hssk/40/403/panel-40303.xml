@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40303</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>4030303</id>
         <type>Button</type>
@@ -35,8 +34,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-        
-         <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>40</nextPanel>
             </jumpPanelAction>
@@ -44,7 +42,6 @@
                 <conditions>4030203,4030205,4030207,4030209,4030212,4030214,4030224,4030217,4030219,4030220,4030221,4030304</conditions>
             </cleanAction>
         </action>
-   
     </component>
     <component>
         <id>4030304</id>
@@ -63,17 +60,11 @@
                 <column>4</column>
                 <hgap>100</hgap>
                 <vgap>60</vgap>
-				<misc>
-					<bgColor>30,144,255</bgColor>  
-				</misc>
+                <misc>
+                    <bgColor>30,144,255</bgColor>
+                </misc>
             </showGridAction>
         </action>
-        <!-- <action>
-            <setFontAction>
-                <fontSize>22</fontSize>
-            </setFontAction>
-        </action>-->
-         
     </component>
     <component>
         <id>4030305</id>
@@ -87,7 +78,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-       <action>
+        <action>
             <sendMsgAction>
                 <prsCode>getweekinfo</prsCode>
                 <conditions>4030304</conditions>

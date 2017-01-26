@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30501</id>
     <type>Panel</type>
     <active>false</active>
@@ -23,17 +23,12 @@
                     <nextPanel>30501</nextPanel>
                     <display>3050103</display>
                     <trigger>3050104</trigger>
-                    <!--<debug>1012003284</debug>-->
-                    <!--<nextPanel>201501</nextPanel>
-                    <display>20150411,20150412</display>
-                    <trigger>2015042</trigger>
-                    <debug>章三 10120032210038484</debug>-->
                 </nextStep>
                 <exception>
                     <nextPanel>305899</nextPanel>
                     <display>305897</display>
                 </exception>
-            	  <animationTip>/image/swift_card.gif</animationTip>
+                <animationTip>/image/swift_card.gif</animationTip>
             </insertICardAction>
         </action>
         <action>
@@ -66,21 +61,19 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   	 <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_zhanghucx_mzjf</prsCode>
                 <conditions>3050103</conditions>
-                <nextStep>  
-                    <nextPanel>30502</nextPanel> 
+                <nextStep>
+                    <nextPanel>30502</nextPanel>
                     <display>3050204,3050206,3050208,3050210,3050214</display>
                 </nextStep>
-                <exception> 
-                    <nextPanel>305899</nextPanel>  
-                    <display>305897</display>  
+                <exception>
+                    <nextPanel>305899</nextPanel>
+                    <display>305897</display>
                 </exception>
             </sendMsgAction>
         </action>
     </component>
-
 </panel>
-

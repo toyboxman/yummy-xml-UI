@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40103</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>4010303</id>
         <type>Button</type>
@@ -41,7 +40,7 @@
             </jumpPanelAction>
         </action>
         <action>
-             <cleanAction>
+            <cleanAction>
                 <conditions>4010203,4010205,4010207,4010209,4010212,4010214,4010224,4010219,4010220,4010221,4010304</conditions>
             </cleanAction>
         </action>
@@ -63,17 +62,11 @@
                 <column>4</column>
                 <hgap>100</hgap>
                 <vgap>60</vgap>
-				<misc>
-					<bgColor>30,144,255</bgColor>  
-				</misc>
+                <misc>
+                    <bgColor>30,144,255</bgColor>
+                </misc>
             </showGridAction>
         </action>
-        <!-- <action>
-            <setFontAction>
-                <fontSize>22</fontSize>
-            </setFontAction>
-        </action>-->
-         
     </component>
     <component>
         <id>4010305</id>
@@ -87,7 +80,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-       <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_ghpaiban_yibao</prsCode>
                 <conditions>4010304</conditions>

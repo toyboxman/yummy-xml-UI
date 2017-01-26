@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30701</id>
     <type>Panel</type>
     <active>false</active>
@@ -23,13 +23,12 @@
                     <nextPanel>30701</nextPanel>
                     <display>3070103</display>
                     <trigger>3070104</trigger>
-                   <!--<debug>1012003284</debug>-->
                 </nextStep>
                 <exception>
                     <nextPanel>307899</nextPanel>
                     <display>307897</display>
                 </exception>
-            	  <animationTip>/image/swift_card.gif</animationTip>
+                <animationTip>/image/swift_card.gif</animationTip>
             </insertICardAction>
         </action>
         <action>
@@ -62,21 +61,19 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   	 <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_zhanghucx_yyqh</prsCode>
                 <conditions>3070103</conditions>
-                <nextStep>  
-                    <nextPanel>30702</nextPanel> 
-                    <display>3070204,3070206,3070208,3070210,3070214</display>  
+                <nextStep>
+                    <nextPanel>30702</nextPanel>
+                    <display>3070204,3070206,3070208,3070210,3070214</display>
                 </nextStep>
-                <exception> 
-                    <nextPanel>307899</nextPanel>  
-                    <display>307897</display>  
+                <exception>
+                    <nextPanel>307899</nextPanel>
+                    <display>307897</display>
                 </exception>
             </sendMsgAction>
         </action>
     </component>
-
 </panel>
-

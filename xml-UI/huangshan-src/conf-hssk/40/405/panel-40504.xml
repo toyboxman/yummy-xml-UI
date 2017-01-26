@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40504</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,60 +22,24 @@
             </setFontAction>
         </action>
     </component>
-    <decorator>
-        <id>4050403</id>
-        <type>ScrollPanel</type>     
-        <attribute>
-            <rect>
-                <x>100</x>
-                <y>300</y>
-                <width>1100</width>
-                <heigh>400</heigh>
-            </rect>
-        </attribute>	
-        <component>
-            <id>4050404</id>
-            <type>Table</type>
-            <attribute>
-                <rect>
-                    <x>150</x>
-                    <y>300</y>
-                    <width>1100</width>
-                    <heigh>400</heigh>
-                </rect>
-            </attribute>
-            <action>
-             <showTableAction>
-                <columnNames>就诊日期,费用类型,项目,单价,数量,金额</columnNames>
-             </showTableAction>
-            </action>
-            <action>
-                <setFontAction>
-                    <fontSize>20</fontSize>
-                </setFontAction>
-            </action>
-        </component>
-    </decorator>
-
-	<component>
+    <component>
         <id>40504010</id>
         <type>Label</type>
         <attribute>
-        <text>姓  名：</text>
+            <text>姓  名：</text>
             <rect>
                 <x>100</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
         </action>
-   </component>
+    </component>
     <component>
         <id>40504011</id>
         <type>Label</type>
@@ -93,18 +57,17 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>40504012</id>
         <type>Label</type>
         <attribute>
-        <text>就诊卡号:</text>
+            <text>就诊卡号:</text>
             <rect>
                 <x>350</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -129,18 +92,17 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>40504014</id>
         <type>Label</type>
         <attribute>
-        <text>卡余额:</text>
+            <text>卡余额:</text>
             <rect>
                 <x>660</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -165,18 +127,17 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>40504016</id>
         <type>Label</type>
         <attribute>
-        <text>缴费总金额:</text>
+            <text>缴费总金额:</text>
             <rect>
                 <x>100</x>
                 <y>700</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -218,7 +179,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>4050409</id>
         <type>Button</type>
@@ -236,8 +196,39 @@
                 <nextPanel>40503</nextPanel>
             </jumpPanelAction>
         </action>
-            <cleanAction>
-                <conditions>40504011,40504013,40504014,40504015,40504017,40504018,4050404</conditions>
-            </cleanAction>
     </component>
+    <decorator>
+        <id>4050403</id>
+        <type>ScrollPanel</type>
+        <attribute>
+            <rect>
+                <x>100</x>
+                <y>300</y>
+                <width>1100</width>
+                <heigh>400</heigh>
+            </rect>
+        </attribute>
+        <component>
+            <id>4050404</id>
+            <type>Table</type>
+            <attribute>
+                <rect>
+                    <x>150</x>
+                    <y>300</y>
+                    <width>1100</width>
+                    <heigh>400</heigh>
+                </rect>
+            </attribute>
+            <action>
+                <showTableAction>
+                    <columnNames>就诊日期,费用类型,项目,单价,数量,金额</columnNames>
+                </showTableAction>
+            </action>
+            <action>
+                <setFontAction>
+                    <fontSize>20</fontSize>
+                </setFontAction>
+            </action>
+        </component>
+    </decorator>
 </panel>

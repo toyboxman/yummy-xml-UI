@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<panel
-    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../schema/WindowXmlSchema.xsd'>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40702</id>
     <type>Panel</type>
     <active>false</active>
     <background>/image/2.png</background>
-	<component>
+    <component>
         <id>4070202</id>
         <type>Label</type>
         <attribute>
-        <text>姓     名:</text>
+            <text>姓     名:</text>
             <rect>
                 <x>200</x>
                 <y>250</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -42,18 +39,17 @@
             </limitInputAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4070204</id>
         <type>Label</type>
         <attribute>
-        <text>性     别:</text>
+            <text>性     别:</text>
             <rect>
                 <x>200</x>
                 <y>300</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -78,18 +74,17 @@
             </limitInputAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4070206</id>
         <type>Label</type>
         <attribute>
-        <text>医 保 号:</text>
+            <text>医 保 号:</text>
             <rect>
                 <x>200</x>
                 <y>350</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -114,18 +109,17 @@
             </limitInputAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4070208</id>
         <type>Label</type>
         <attribute>
-        <text>身份证号:</text>
+            <text>身份证号:</text>
             <rect>
                 <x>200</x>
                 <y>400</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <setFontAction>
@@ -133,18 +127,17 @@
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4070209</id>
         <type>TextField</type>
         <attribute>
-		 <text></text>
+            <text></text>
             <rect>
                 <x>350</x>
                 <y>400</y>
                 <width>400</width>
                 <heigh>50</heigh>
             </rect>
-           
         </attribute>
         <action>
             <limitInputAction editable="false">
@@ -152,26 +145,25 @@
             </limitInputAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4070210</id>
         <type>Label</type>
         <attribute>
             <text>出生日期:</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>200</x>
                 <y>450</y>
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
-		<action>
+        </attribute>
+        <action>
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4070212</id>
         <type>TextField</type>
         <attribute>
@@ -181,15 +173,14 @@
                 <width>400</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
+        </attribute>
         <action>
             <limitInputAction editable="false">
                 <length>15</length>
             </limitInputAction>
         </action>
     </component>
-
-	<component>
+    <component>
         <id>4070213</id>
         <type>Label</type>
         <attribute>
@@ -200,14 +191,14 @@
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
-		<action>
+        </attribute>
+        <action>
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4070214</id>
         <type>TextField</type>
         <attribute>
@@ -217,14 +208,13 @@
                 <width>950</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
+        </attribute>
         <action>
             <limitInputAction editable="false">
                 <length>200</length>
             </limitInputAction>
         </action>
-    </component>-->
-    
+    </component>
     <component>
         <id>4070223</id>
         <type>Label</type>
@@ -236,14 +226,14 @@
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
-		<action>
+        </attribute>
+        <action>
             <setFontAction>
                 <fontSize>30</fontSize>
             </setFontAction>
         </action>
     </component>
-	<component>
+    <component>
         <id>4070224</id>
         <type>TextField</type>
         <attribute>
@@ -253,60 +243,52 @@
                 <width>300</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
+        </attribute>
         <action>
             <limitInputAction editable="false">
                 <length>200</length>
             </limitInputAction>
         </action>
-    </component>-->
-    
-	<component>
+    </component>
+    <component>
         <id>4070215</id>
         <type>Button</type>
         <attribute>
             <text>确认</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>500</x>
                 <y>800</y>
                 <width>200</width>
                 <heigh>70</heigh>
             </rect>
-			
         </attribute>
-   
-       <action>
-       	   <!--检查医保卡在医院是否已经建档，如果没有建档则自动建档，如果已经建档则直接返回成功-->
+        <action>
             <sendMsgAction>
                 <prsCode>query_renyuanxx_yibao_yyqh</prsCode>
                 <conditions>4070203,4070205,4070207,4070209,4070212,4070214,4070224</conditions>
-                <nextStep>  
-                    <nextPanel>40702</nextPanel> 
-                    <display>4070219,4070220,4070221,4070222</display>-->
+                <nextStep>
+                    <nextPanel>40702</nextPanel>
+                    <display>4070219,4070220,4070221,4070222</display>
                     <trigger>4070218</trigger>
                 </nextStep>
-                <exception> 
-                    <nextPanel>407899</nextPanel>  
-                    <display>407897</display>  
+                <exception>
+                    <nextPanel>407899</nextPanel>
+                    <display>407897</display>
                 </exception>
             </sendMsgAction>
-        </action>-->
-
-    </component>  
-	<component>
+        </action>
+    </component>
+    <component>
         <id>4070216</id>
         <type>Button</type>
         <attribute>
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1000</x>
                 <y>800</y>
                 <width>150</width>
                 <heigh>100</heigh>
             </rect>
-			
         </attribute>
         <action>
             <jumpPanelAction>
@@ -316,13 +298,12 @@
                 <conditions>4070203,4070205,4070207,4070209,4070212,4070214,4070224,4070219,4070220,4070221,4070222</conditions>
             </cleanAction>
         </action>
-        <action> 
+        <action>
             <setFontAction>
                 <fontSize>24</fontSize>
             </setFontAction>
         </action>
-    </component> 
-    
+    </component>
     <component>
         <id>4070217</id>
         <type>TextField</type>
@@ -333,32 +314,30 @@
                 <width>950</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
+        </attribute>
         <action>
             <limitInputAction editable="false">
                 <length>200</length>
             </limitInputAction>
         </action>
     </component>
-    
     <component>
         <id>4070218</id>
         <type>Button</type>
         <attribute>
             <text>确认</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1500</x>
                 <y>1600</y>
                 <width>200</width>
                 <heigh>70</heigh>
-            </rect>			
+            </rect>
         </attribute>
-         <action>
+        <action>
             <sendMsgAction>
                 <prsCode>query_yuyuexxcx_yibao</prsCode>
                 <conditions>4070203,4070209,4070221,4070222,4070103,4070204,4070206,4070208,4070210,4070214</conditions>
-              <nextStep>
+                <nextStep>
                     <nextPanel>40703</nextPanel>
                     <display>4070304</display>
                 </nextStep>
@@ -368,7 +347,7 @@
                 </exception>
             </sendMsgAction>
         </action>
-    </component>  
+    </component>
     <component>
         <id>4070219</id>
         <type>TextField</type>
@@ -379,14 +358,13 @@
                 <width>950</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
+        </attribute>
         <action>
             <limitInputAction editable="false">
                 <length>200</length>
             </limitInputAction>
         </action>
     </component>
-    <!--查询人员信息返回医保卡对应的病人ID-->
     <component>
         <id>4070220</id>
         <type>TextField</type>
@@ -397,15 +375,13 @@
                 <width>950</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
+        </attribute>
         <action>
             <limitInputAction editable="false">
                 <length>200</length>
             </limitInputAction>
         </action>
     </component>
-    
-    <!--查询人员信息返回医保卡对应的就诊卡号-->
     <component>
         <id>4070221</id>
         <type>TextField</type>
@@ -416,15 +392,13 @@
                 <width>950</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
+        </attribute>
         <action>
             <limitInputAction editable="false">
                 <length>200</length>
             </limitInputAction>
         </action>
     </component>
-    
-     <!--查询人员信息返回医保卡对应的联系电话-->
     <component>
         <id>4070222</id>
         <type>TextField</type>
@@ -435,12 +409,11 @@
                 <width>950</width>
                 <heigh>50</heigh>
             </rect>
-        </attribute> 
+        </attribute>
         <action>
             <limitInputAction editable="false">
                 <length>200</length>
             </limitInputAction>
         </action>
     </component>
-    
 </panel>

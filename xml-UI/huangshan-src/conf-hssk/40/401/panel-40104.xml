@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
-<!--    1、调用挂号预处理-->
-<!--    2、调用医保预结算， 返回自付金额-->
-<!--    3、调用检查自付金额是否等于0.00，如果自付金额等于0.00则调用医保结算和门诊结算-->
-<!--    4、如果自付金额不等于0.00，则查询院内账户余额是否大于等于自付金额，如果小于自付金额则报错提示进行院内账户的充值-->
-<!--    5、如果院内账户余额大于自付金额，则调用医保结算和门诊结算交易-->
-<!--    6、如果门诊结算交易失败，则需要调用挂号取消交易和医保结算冲正交易，然后提示交易失败-->
-<!--    7、医保结算失败的情况下，需要调用挂号取消交易，然后报错结束交易-->
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>40104</id>
     <type>Panel</type>
     <active>false</active>
@@ -29,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>4010403</id>
         <type>Button</type>
@@ -48,7 +40,7 @@
             </jumpPanelAction>
         </action>
         <action>
-             <cleanAction>
+            <cleanAction>
                 <conditions>4010203,4010205,4010207,4010209,4010212,4010214,4010224,4010219,4010220,4010221,4010304,4010404,4010406,4010407,4010409,4010420,4010424,4010425,4010426,4010427</conditions>
             </cleanAction>
         </action>
@@ -70,19 +62,13 @@
                 <column>4</column>
                 <hgap>100</hgap>
                 <vgap>60</vgap>
-				<misc>
-					<bgColor>30,144,255</bgColor>  
-				</misc>
+                <misc>
+                    <bgColor>30,144,255</bgColor>
+                </misc>
             </showGridAction>
         </action>
-        <!-- <action>
-            <setFontAction>
-                <fontSize>22</fontSize>
-            </setFontAction>
-        </action>-->
     </component>
-    
-   <component>
+    <component>
         <id>4010405</id>
         <type>Button</type>
         <attribute>
@@ -95,7 +81,6 @@
             </rect>
         </attribute>
         <action>
-        	<!--挂号预处理-->
             <sendMsgAction>
                 <prsCode>execute_guahaoyuchuli_yibao</prsCode>
                 <conditions>4010203,4010205,4010207,4010209,4010212,4010304,4010404,4010219,4010220,4010221</conditions>
@@ -117,8 +102,7 @@
             </sendMsgAction>
         </action>
     </component>
- 
-   <component>
+    <component>
         <id>4010408</id>
         <type>Button</type>
         <attribute>
@@ -130,8 +114,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-          <!--调用医保预结算-->
-          <action>
+        <action>
             <insertICardAction>
                 <cardType>MedicareCard</cardType>
                 <nextStep>
@@ -143,27 +126,12 @@
                     <nextPanel>401899</nextPanel>
                     <display>401897</display>
                 </exception>
-                <checkRules>
-                    <notNull>
-                        <content>4010404</content>
-                        <errMsg>请选择医生</errMsg>
-                    </notNull>
-                </checkRules>
-            	<animationTip>/image/chuli.gif</animationTip>
-            	<parameters>
-            		4010415
-            		4010220
-            		4010407
-				</parameters> 
-				<display>
-				   4010420
-				</display>
+                <animationTip>/image/chuli.gif</animationTip>
+                <parameters>4010415 4010220 4010407</parameters>
             </insertICardAction>
         </action>
     </component>
-    
-   <!--只用于挂号取消-->
-   <component>
+    <component>
         <id>4010413</id>
         <type>Button</type>
         <attribute>
@@ -190,9 +158,7 @@
             </sendMsgAction>
         </action>
     </component>
-    
-   <!--用于挂号取消,并联动医保结算冲正-->
-   <component>
+    <component>
         <id>4010479</id>
         <type>Button</type>
         <attribute>
@@ -221,8 +187,7 @@
             </sendMsgAction>
         </action>
     </component>
-    
-     <component>
+    <component>
         <id>4010453</id>
         <type>Button</type>
         <attribute>
@@ -234,9 +199,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   
-       <!--需要对医保结算进行冲正-->
-       <action>
+        <action>
             <insertICardAction>
                 <cardType>MedicareCard</cardType>
                 <nextStep>
@@ -247,49 +210,41 @@
                     <nextPanel>401899</nextPanel>
                     <display>401897</display>
                 </exception>
-            	<animationTip>/image/reverse.gif</animationTip>
-            	<parameters>
-            		4010419
-            		4010427
-				</parameters> 
-				<display>
-				   401897
-				</display>
+                <animationTip>/image/reverse.gif</animationTip>
+                <parameters>4010419 4010427</parameters>
             </insertICardAction>
         </action>
     </component>
-    
-      <component>
+    <component>
         <id>4010414</id>
         <type>Label</type>
         <attribute>
+            <text>提示信息:</text>
             <rect>
                 <x>2100</x>
                 <y>2100</y>
                 <width>600</width>
                 <heigh>50</heigh>
             </rect>
-            <text>提示信息:</text>
         </attribute>
         <action>
             <setFontAction>
                 <fontSize>35</fontSize>
-                <fontStyle>BOLD</fontStyle> <!--optional setting, valid value is BOLD/PLAIN/ITALIC -->
+                <fontStyle>BOLD</fontStyle>
             </setFontAction>
         </action>
     </component>
-    
-      <component>
+    <component>
         <id>4010415</id>
         <type>Label</type>
         <attribute>
+            <text>2102drgh</text>
             <rect>
                 <x>1400</x>
                 <y>1400</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>2102drgh</text>
         </attribute>
         <action>
             <setFontAction>
@@ -297,9 +252,7 @@
             </setFontAction>
         </action>
     </component>
-   
-    <!--同时走医保结算和院内账户使用-->
-     <component>
+    <component>
         <id>4010429</id>
         <type>Button</type>
         <attribute>
@@ -311,8 +264,7 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-          <!--调用医保结算-->
-          <action>
+        <action>
             <insertICardAction>
                 <cardType>MedicareCard</cardType>
                 <nextStep>
@@ -325,33 +277,22 @@
                     <display>401897</display>
                     <trigger>4010413</trigger>
                 </exception>
-            	<animationTip>/image/chuli.gif</animationTip>
-            	<parameters>
-            		4010431
-            		4010220
-            		4010407
-				</parameters> 
-				<display>
-				   4010424
-				   4010425
-				   4010426
-				   4010427
-				</display>
+                <animationTip>/image/chuli.gif</animationTip>
+                <parameters>4010431 4010220 4010407</parameters>
             </insertICardAction>
         </action>
     </component>
-    
     <component>
         <id>4010431</id>
         <type>Label</type>
         <attribute>
+            <text>2103drgh</text>
             <rect>
                 <x>1400</x>
                 <y>1400</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>2103drgh</text>
         </attribute>
         <action>
             <setFontAction>
@@ -359,7 +300,6 @@
             </setFontAction>
         </action>
     </component>
-    
     <component>
         <id>4010438</id>
         <type>Button</type>
@@ -372,7 +312,6 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   
         <action>
             <sendMsgAction>
                 <prsCode>query_zhanghucx_ybguahao</prsCode>
@@ -387,10 +326,9 @@
                     <display>401897</display>
                 </exception>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-    
-   <component>
+    <component>
         <id>4010439</id>
         <type>Button</type>
         <attribute>
@@ -402,7 +340,6 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   
         <action>
             <sendMsgAction>
                 <prsCode>sim_zifuamt_iszero</prsCode>
@@ -412,14 +349,13 @@
                     <display>4010435</display>
                 </nextStep>
                 <exception>
-                	<nextPanel>401899</nextPanel>
+                    <nextPanel>401899</nextPanel>
                     <display>401897</display>
                 </exception>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-    
-     <component>
+    <component>
         <id>4010440</id>
         <type>Button</type>
         <attribute>
@@ -431,7 +367,6 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   
         <action>
             <sendMsgAction>
                 <prsCode>sim_check_money</prsCode>
@@ -446,18 +381,9 @@
                     <display>401897</display>
                 </exception>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-    
-<!--4010431  交易码2103-->
-<!--4010220  病人ID-->
-<!--4010407  结算ID-->
-<!--4010203  姓名-->
-<!--4010207  医保卡号-->
-<!--4010304  科室信息-->
-<!--4010404  医生号源信息-->
-
-     <component>
+    <component>
         <id>4010421</id>
         <type>Button</type>
         <attribute>
@@ -469,7 +395,6 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-   
         <action>
             <sendMsgAction>
                 <prsCode>req_sim_print</prsCode>
@@ -484,9 +409,8 @@
                     <display>401897</display>
                 </exception>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-    
     <component>
         <id>4010449</id>
         <type>Button</type>
@@ -499,7 +423,6 @@
                 <heigh>80</heigh>
             </rect>
         </attribute>
-       <!--调用HIS结算-->
         <action>
             <sendMsgAction>
                 <prsCode>execute_menzhenjs_drgh_yibao</prsCode>
@@ -512,7 +435,6 @@
                 <exception>
                     <nextPanel>401899</nextPanel>
                     <display>401897</display>
-                    <!--<trigger>4010413</trigger>-->
                 </exception>
                 <checkRules>
                     <notNull>
@@ -521,20 +443,19 @@
                     </notNull>
                 </checkRules>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-    
     <component>
         <id>4010419</id>
         <type>Label</type>
         <attribute>
+            <text>2104drgh</text>
             <rect>
                 <x>1400</x>
                 <y>1400</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>2104drgh</text>
         </attribute>
         <action>
             <setFontAction>
@@ -542,5 +463,4 @@
             </setFontAction>
         </action>
     </component>
-   
 </panel>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30304</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>3030403</id>
         <type>Button</type>
@@ -40,11 +39,11 @@
                 <nextPanel>30</nextPanel>
             </jumpPanelAction>
         </action>
-         <action>
+        <action>
             <cleanAction>
                 <conditions>3030103,3030204,3030206,3030208,3030210,3030214,3030304,3030404,3030504</conditions>
             </cleanAction>
-        </action>   
+        </action>
     </component>
     <component>
         <id>3030404</id>
@@ -64,18 +63,12 @@
                 <hgap>100</hgap>
                 <vgap>60</vgap>
                 <misc>
-					<bgColor>30,144,255</bgColor>  
-				</misc>
+                    <bgColor>30,144,255</bgColor>
+                </misc>
             </showGridAction>
         </action>
-        <!-- <action>
-            <setFontAction>
-                <fontSize>22</fontSize>
-            </setFontAction>
-        </action>-->
     </component>
-    
-   <component>
+    <component>
         <id>3030405</id>
         <type>Button</type>
         <attribute>
@@ -108,38 +101,4 @@
             </sendMsgAction>
         </action>
     </component>
-    <!--<decorator>
-        <id>30313</id>
-        <type>ScrollPanel</type>
-        <attribute>
-            <rect>
-                <x>0</x>
-                <y>550</y>
-                <width>1280</width>
-                <heigh>400</heigh>
-            </rect>
-        </attribute>
-        <component>
-            <id>30314</id>
-            <type>Table</type>
-            <attribute>
-                <rect>
-                    <x>0</x>
-                    <y>560</y>
-                    <width>1280</width>
-                    <heigh>400</heigh>
-                </rect>
-            </attribute>
-            <action>
-                <showTableAction>
-                    <columnNames>医师,级别,剩余号</columnNames>
-                </showTableAction>
-            </action>
-            <action>
-                <setFontAction>
-                    <fontSize>22</fontSize>
-                </setFontAction>
-            </action>
-        </component>
-    </decorator>-->
 </panel>

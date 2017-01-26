@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/king/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30703</id>
     <type>Panel</type>
     <active>false</active>
@@ -22,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>3070303</id>
         <type>Button</type>
@@ -58,17 +57,11 @@
                 <column>1</column>
                 <hgap>100</hgap>
                 <vgap>60</vgap>
-				<misc>
-					<bgColor>30,144,255</bgColor>
-				</misc>
+                <misc>
+                    <bgColor>30,144,255</bgColor>
+                </misc>
             </showGridAction>
         </action>
-        <!-- <action>
-            <setFontAction>
-                <fontSize>22</fontSize>
-            </setFontAction>
-        </action>-->
-         
     </component>
     <component>
         <id>3070308</id>
@@ -82,7 +75,6 @@
                 <heigh>100</heigh>
             </rect>
         </attribute>
-   
         <action>
             <sendMsgAction>
                 <prsCode>sim_check_money_yyqh_jzk</prsCode>
@@ -97,19 +89,19 @@
                     <display>307897</display>
                 </exception>
             </sendMsgAction>
-        </action> 
+        </action>
     </component>
-   <component>
+    <component>
         <id>3070309</id>
         <type>Label</type>
         <attribute>
+            <text>xxxx</text>
             <rect>
                 <x>1800</x>
                 <y>1800</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>xxxx</text>
         </attribute>
         <action>
             <setFontAction>
@@ -117,7 +109,7 @@
             </setFontAction>
         </action>
     </component>
-     <component>
+    <component>
         <id>3070305</id>
         <type>Button</type>
         <attribute>
@@ -129,18 +121,18 @@
                 <heigh>100</heigh>
             </rect>
         </attribute>
-   	 <action>
+        <action>
             <sendMsgAction>
                 <prsCode>execute_yuyuequhao</prsCode>
                 <conditions>3070103,3070204,3070206,3070208,3070210,3070214,3070304</conditions>
-                <nextStep>  
-                    <nextPanel>30704</nextPanel> 
+                <nextStep>
+                    <nextPanel>30704</nextPanel>
                     <display>3070411,3070412,3070414,3070417,3070418</display>
                     <trigger>3070413</trigger>
                 </nextStep>
-                <exception> 
-                    <nextPanel>307899</nextPanel>  
-                    <display>307897</display>  
+                <exception>
+                    <nextPanel>307899</nextPanel>
+                    <display>307897</display>
                 </exception>
                 <checkRules>
                     <notNull>
@@ -151,8 +143,7 @@
             </sendMsgAction>
         </action>
     </component>
-    
-     <component>
+    <component>
         <id>3070306</id>
         <type>Button</type>
         <attribute>
@@ -171,22 +162,5 @@
                 <fontBgColor>127, 127, 127</fontBgColor>
             </setFontAction>
         </action>
-        
-     <!--银行卡业务暂时不开通，暂时封掉
-   	 <action>
-            <sendMsgAction>
-                <prsCode>execute_yuyuequhao</prsCode>
-                <conditions>3070103,3070204,3070206,3070208,3070210,3070214,3070304</conditions>
-                <nextStep>  
-                    <nextPanel>30704</nextPanel> 
-                    <display>3070204,3070206,3070208,3070210,3070214</display>  
-                </nextStep>
-                <exception> 
-                    <nextPanel>307899</nextPanel>  
-                    <display>307897</display>  
-                </exception>
-            </sendMsgAction>
-     </action> -->
     </component>
-    
 </panel>

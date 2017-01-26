@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/Users/liujin/NetBeansProjects/yummy-xml-UI/xml-UI/schema/WindowXmlSchema.xsd">
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30</id>
     <type>Panel</type>
     <active>false</active>
@@ -16,7 +16,6 @@
                 <heigh>100</heigh>
             </rect>
         </attribute>
-
         <action>
             <setFontAction>
                 <fontSize>35</fontSize>
@@ -53,7 +52,7 @@
         <action>
             <jumpPanelAction>
                 <nextPanel>30101</nextPanel>
-                 <trigger>3010102</trigger>
+                <trigger>3010102</trigger>
             </jumpPanelAction>
         </action>
     </component>
@@ -76,7 +75,7 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-         <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>30301</nextPanel>
                 <trigger>3030102</trigger>
@@ -102,7 +101,7 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-       <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>30401</nextPanel>
                 <trigger>3040102</trigger>
@@ -128,14 +127,13 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-       <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>30701</nextPanel>
                 <trigger>3070102</trigger>
             </jumpPanelAction>
         </action>
     </component>
-
     <component>
         <id>36</id>
         <type>Button</type>
@@ -155,14 +153,13 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-         <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>30501</nextPanel>
                 <trigger>3050102</trigger>
             </jumpPanelAction>
         </action>
     </component>
-
     <component>
         <id>37</id>
         <type>Button</type>
@@ -182,13 +179,12 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-         <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>30601</nextPanel>
             </jumpPanelAction>
         </action>
     </component>
-
     <component>
         <id>38</id>
         <type>Button</type>
@@ -208,20 +204,18 @@
                 <fontBgColor>30, 144, 255</fontBgColor>
             </setFontAction>
         </action>
-         <action>
+        <action>
             <jumpPanelAction>
                 <nextPanel>30801</nextPanel>
                 <trigger>3080102</trigger>
             </jumpPanelAction>
         </action>
     </component>
-    
-     <component>
+    <component>
         <id>3999</id>
         <type>Button</type>
         <attribute>
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1000</x>
                 <y>800</y>
@@ -242,7 +236,6 @@
             </setFontAction>
         </action>
     </component>
-
     <component>
         <id>39</id>
         <type>Label</type>

@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<panel
-    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../schema/WindowXmlSchema.xsd'>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>30205</id>
     <type>Panel</type>
     <active>false</active>
     <background>/image/2.png</background>
-    <component>	
+    <component>
         <id>3020501</id>
         <type>Label</type>
         <attribute>
+            <text>就诊卡办理成功,请取走就诊卡</text>
             <rect>
                 <x>300</x>
                 <y>450</y>
                 <width>600</width>
                 <heigh>40</heigh>
             </rect>
-            <text>就诊卡办理成功,请取走就诊卡</text>
         </attribute>
         <action>
             <setFontAction>
@@ -24,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-    
     <component>
         <id>3020504</id>
         <type>Label</type>
@@ -37,8 +34,7 @@
             </rect>
         </attribute>
     </component>
-	
-     <component>
+    <component>
         <id>3020502</id>
         <type>Button</type>
         <attribute>
@@ -56,20 +52,17 @@
             </ejectCardAction>
         </action>
     </component>
-	
-	<component>
+    <component>
         <id>3020503</id>
         <type>Button</type>
         <attribute>
             <text>&lt;html&gt;&lt;center&gt;返回&lt;br&gt;主界面&lt;center&gt;&lt;/html&gt;</text>
-			<!--<icon>/image/105.png</icon>-->
             <rect>
                 <x>1000</x>
                 <y>800</y>
                 <width>150</width>
                 <heigh>100</heigh>
             </rect>
-			
         </attribute>
         <action>
             <jumpPanelAction>
@@ -79,12 +72,12 @@
         <action>
             <cleanAction>
                 <conditions>3020203,3020205,3020207,3020209,3020212,3020214,3020405,3020303</conditions>
-            </cleanAction> 
-        </action> 
-        <action> 
+            </cleanAction>
+        </action>
+        <action>
             <setFontAction>
                 <fontSize>24</fontSize>
             </setFontAction>
         </action>
-    </component>  
+    </component>
 </panel>

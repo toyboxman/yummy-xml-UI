@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
--->
-
-<panel
-    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-    xsi:noNamespaceSchemaLocation='../../../schema/WindowXmlSchema.xsd'>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="F:\free\bankApp\yummy-xml-UI\xml-UI\schema\WindowXmlSchema.xsd">
     <id>401777</id>
     <type>Panel</type>
     <active>false</active>
@@ -13,13 +8,13 @@
         <id>401776</id>
         <type>Label</type>
         <attribute>
+            <text></text>
             <rect>
                 <x>400</x>
                 <y>90</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text></text>
         </attribute>
         <action>
             <setFontAction>
@@ -27,7 +22,6 @@
             </setFontAction>
         </action>
     </component>
-	
     <component>
         <id>401775</id>
         <type>Label</type>
@@ -40,18 +34,17 @@
             </rect>
         </attribute>
     </component>
-    
     <component>
         <id>401772</id>
         <type>Label</type>
         <attribute>
+            <text>当日挂号</text>
             <rect>
                 <x>20</x>
                 <y>920</y>
                 <width>1024</width>
                 <heigh>150</heigh>
             </rect>
-            <text>当日挂号</text>
         </attribute>
         <action>
             <setFontAction>
@@ -59,9 +52,7 @@
             </setFontAction>
         </action>
     </component>
-    
-        <!--挂号预处理返回的挂号ID-->
-        <component>
+    <component>
         <id>4010406</id>
         <type>TextField</type>
         <attribute>
@@ -73,8 +64,6 @@
             </rect>
         </attribute>
     </component>
-    
-    <!--挂号预处理返回的结算ID-->
     <component>
         <id>4010407</id>
         <type>TextField</type>
@@ -87,7 +76,6 @@
             </rect>
         </attribute>
     </component>
-    <!--挂号预处理返回的挂号费-->
     <component>
         <id>4010409</id>
         <type>TextField</type>
@@ -100,9 +88,7 @@
             </rect>
         </attribute>
     </component>
-    
-      <!--挂号预处理返回的cargo数据-->
-     <component>
+    <component>
         <id>4010455</id>
         <type>TextField</type>
         <attribute>
@@ -114,9 +100,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保预结算返回的预算金额-->
-   <component>
+    <component>
         <id>4010420</id>
         <type>TextField</type>
         <attribute>
@@ -128,9 +112,7 @@
             </rect>
         </attribute>
     </component>
-    
-         <!--医保卡院内账户查询返回姓名-->
-     <component>
+    <component>
         <id>4010441</id>
         <type>TextField</type>
         <attribute>
@@ -142,9 +124,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保卡院内账户查询返回就诊卡卡号-->
-     <component>
+    <component>
         <id>4010442</id>
         <type>TextField</type>
         <attribute>
@@ -156,9 +136,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保卡院内账户查询返回当前余额-->
-     <component>
+    <component>
         <id>4010443</id>
         <type>TextField</type>
         <attribute>
@@ -170,9 +148,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保卡院内账户查询返回联系电话-->
-     <component>
+    <component>
         <id>4010444</id>
         <type>TextField</type>
         <attribute>
@@ -184,9 +160,7 @@
             </rect>
         </attribute>
     </component>
-    
-    <!--医保卡院内账户查询返回身份证号-->
-     <component>
+    <component>
         <id>4010445</id>
         <type>TextField</type>
         <attribute>
@@ -198,9 +172,7 @@
             </rect>
         </attribute>
     </component>
-
-  <!--医保结算返回的交易流水号-->
-     <component>
+    <component>
         <id>4010424</id>
         <type>TextField</type>
         <attribute>
@@ -212,8 +184,7 @@
             </rect>
         </attribute>
     </component>
-    <!--医保结算返回的医保结算ID-->
-     <component>
+    <component>
         <id>4010425</id>
         <type>TextField</type>
         <attribute>
@@ -225,9 +196,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保结算返回的需自付金额-->
-     <component>
+    <component>
         <id>4010426</id>
         <type>TextField</type>
         <attribute>
@@ -239,9 +208,7 @@
             </rect>
         </attribute>
     </component>
-    
-     <!--医保结算返回的发票ID-->
-     <component>
+    <component>
         <id>4010427</id>
         <type>TextField</type>
         <attribute>
@@ -253,18 +220,17 @@
             </rect>
         </attribute>
     </component>
-    
-      <component>
+    <component>
         <id>4010435</id>
         <type>Label</type>
         <attribute>
+            <text>xxxx</text>
             <rect>
                 <x>1800</x>
                 <y>1800</y>
                 <width>600</width>
                 <heigh>150</heigh>
             </rect>
-            <text>xxxx</text>
         </attribute>
         <action>
             <setFontAction>
