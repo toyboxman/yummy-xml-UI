@@ -19,6 +19,7 @@ import io.netty.handler.codec.Delimiters;
 import io.netty.handler.codec.FixedLengthFrameDecoder;
 import io.netty.handler.codec.LengthFieldPrepender;
 import io.netty.handler.codec.MessageToByteEncoder;
+import io.netty.handler.codec.bytes.ByteArrayDecoder;
 import io.netty.handler.codec.string.StringDecoder;
 import io.netty.handler.codec.string.StringEncoder;
 import java.util.concurrent.TimeUnit;
@@ -155,6 +156,54 @@ public class P2PTunnel implements Tunnel {
         }
     }
 
+    private class ByteMessageClientHandler extends ChannelInboundHandlerAdapter {
+
+        private String message = null;
+        private byte[] content = null;
+
+        public ByteMessageClientHandler() {
+        }
+
+        public ByteMessageClientHandler(String msg) {
+            this.message = msg;
+        }
+
+        public ByteMessageClientHandler setMessage(String message) {
+            this.message = message;
+            return this;
+        }
+
+        @Override
+        public void channelActive(ChannelHandlerContext ctx) throws Exception {
+            ctx.writeAndFlush(this.message);
+        }
+
+        @Override
+        public void channelRead(ChannelHandlerContext ctx, Object msg) {
+            byte[] block = (byte[]) msg;
+            if (content == null) {
+                content = block;
+            } else {
+                byte[] enlarge = new byte[content.length + block.length];
+                System.arraycopy(content, 0, enlarge, 0, content.length);
+                System.arraycopy(block, 0, enlarge, content.length, block.length);
+                content = enlarge;
+            }
+        }
+
+        @Override
+        public void channelReadComplete(ChannelHandlerContext ctx) throws Exception {
+            P2PTunnel.this.responseMSG = new String((content == null ? new byte[0] : content), CommonConstants.UTF8);
+            ctx.disconnect();
+        }
+
+        @Override
+        public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) {
+            Logger.getLogger(MessageClientHandler.class.getName()).log(Level.SEVERE, cause.getMessage(), cause);
+            ctx.close();
+        }
+    }
+
     public static void main(String... args) throws JAXBException {
         // Parse options.
         String host = "127.0.0.1";
@@ -190,8 +239,11 @@ public class P2PTunnel implements Tunnel {
 
         public ChannelInitializerImpl(int command, String message) {
             this.handler_list = new ChannelHandler[]{new CMDFieldPrepender(command), new LengthFieldPrepender(4),
-                new StringEncoder(CommonConstants.UTF8), new StringDecoder(CommonConstants.UTF8),
-                new MessageClientHandler(message)};//new DelimiterBasedFrameDecoder(2048, Delimiters.lineDelimiter()), 
+                //new StringEncoder(CommonConstants.UTF8), new StringDecoder(CommonConstants.UTF8),
+                new StringEncoder(CommonConstants.UTF8), new ByteArrayDecoder(),
+                //new MessageClientHandler(message)};
+                new ByteMessageClientHandler(message)};
+                //new DelimiterBasedFrameDecoder(2048, Delimiters.lineDelimiter()), 
         }
 
         public ChannelInitializerImpl(ChannelHandler... ch) {
