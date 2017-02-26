@@ -5060,7 +5060,7 @@ Survival ark at cutting edge of tsunami safety(CBS)
 In Empire State Killing, a Grudge Boiled Over(TIMES)
 在纽约州谋杀事件中,怨恨已沸腾
 
-观点 意见 sentiment
+观点 意见 sentiment  经济观点 economic sentiment
 World economic sentiment turns gloomy(CBS)
 世界经济观点变得晦暗的让人沮丧的
 Tokens of corporate appreciation can be a measure of economic sentiment(WAPOST) 
@@ -5073,6 +5073,8 @@ Holiday shopping marathon starts as consumer sentiment shaky(Yahoo)
 假日购物马拉松开始,消费者观点不坚定
 Consumer sentiment eases despite rate stability(ABC)
 消费意愿疲软尽管利率稳定
+Egypt's Islamists play to anti-Israel sentiment(Yahoo)
+埃及伊斯兰主义者迎合反以色列情绪
 
 情感 情绪 sentiment   点燃愤怒情感 inflame sentiment
 Forceful arrests inflame sentiment toward LAPD(Yahoo) 
@@ -5514,12 +5516,6 @@ Paroled sex offenders disarming tracking devices(LATIMES)
 Gingrich looks for a bright side in Fla. defeat(AP)
 金里奇寻求在佛州胜利的光明面
 
-僵局 停滞 standstill/standoff/gridlock/impasse/stagnancy
-Hiring standstill points to growing recession risk(AP)
-就业停滞表明衰退风险增加
-Strike-hit Greece heads to standstill ahead of crucial vote(Reuters)
-在关键的选举投票前碰上罢工的希腊转向停滞
-
 碰上罢工的 Strike-hit
 Strike-hit Greece heads to standstill ahead of crucial vote(Reuters)
 在关键的选举投票前碰上罢工的希腊转向停滞
@@ -5721,6 +5717,8 @@ How would random districting change Congress?(WAPOST)
 隐士 hermit/recluse
 In mourning, hermit kingdom North Korea seals itself off(Reuters) 
 在悼念期间,隐士北朝鲜封锁自己
+Auction of recluse's gold nets $3.5 million(Yahoo)
+隐士的黄金拍卖价值数百万
 
 领悟力 感觉 perception 自我感受 self-perception/self-conception  在..认识上 in perception of
 Clothes and Self-Perception(TIMES)
@@ -6289,13 +6287,15 @@ Egypt satirist faces probe for insulting president(Yahoo)
 Deficits Push Municipalities to Desperation(TIMES)
 赤字推动市政当局不顾一起
 
-子宫 womb  宫外的 out of womb
+子宫 womb/uterus  宫外的 out of womb
 Ky. woman faces life for cutting baby out of womb(CBS)
 肯塔基女子面对生命问题,在她打掉宫外孕的婴儿时候
 Video: Twin babies fighting for space in womb?(CBS)
 两婴孩在母亲子宫中为空间而争夺
 Study links BPA exposure in womb to behavior problems in toddler girls(WAPOST)
 研究将双酚A暴露出现在子宫与学步女孩错误行为关联起来
+Man undergoes hernia surgery - docs find uterus(CBS)
+男人接受疝气手术,医生们发现子宫
 
 局面改变者 游戏改变人 game-changer
 Will the year 2012 be an apocalyptic game-changer?(LATIMES)
@@ -6416,14 +6416,6 @@ Ohio health care question cleared for fall ballot(AP)
 交换 trade-off/exchange
 The Trade-Off That Created Germany's Job Miracle(TIMES)
 交换创造了德国的就业奇迹
-
-僵局 impasse/gridlock/standoff/standstill
-Greek election impasse heralds lengthy instability
-希腊选举僵局宣告了长期不稳定来临
-Debt Impasse Fuels Sharp Fall in Stocks(TIMES)
-债务僵局加速股市急剧下跌
-Impasse Lingers Between Indian Hunger Striker and Government(TIMES)
-僵局徘徊在印度绝食斗争者与政府间
 
 战俘 POW(prison of war)
 P.O.W. Is Focus of Talks on Taliban Prisoner Swap(TIMES)
@@ -7792,7 +7784,1490 @@ Salazar plan puts half of Alaska petroleum reserve off-limits to drilling(WAPOST
 Heinz CEO entitled to $56 million golden parachute(Yahoo)
 公司执行官有资格获得价值千万的金降落伞
 
+肥料 manure  马粪 horse manure
+Norco's can-do proposal: turning horse manure into energy(LATIMES)
+积极可做的建议:将马粪变成能源
+
+强力角色 muscular role
+Egypt Military Moves to Cement a Muscular Role in Government(TIMES)
+埃及军方开始巩固加强在政府内的强力角色
+
+分离主义者 secessionist
+Yemen: 1 killed at southern secessionist march(Yahoo)
+在分离主义者游行中一人被杀死
+White House responds to secessionists, impeachment advocates and beer aficionados(WAPOST)
+白宫对分离主义者采取行动,控告分离支持者和啤酒狂热爱好者
+
+后备 保留 fallback/backup
+Plan to use Amtrak as fallback for high-speed rail criticized(LATIMES) 
+美计划用'美铁'作为后备,因为高铁计划受到批评
+
+骑师 骑马的 equestrian
+Royal makes Olympic equestrian debut(CBS)
+皇室揭开奥运骑师首秀
+
+佛罗里达农机大 A&M(Agricultural and Mechanical University)
+Death of Florida A&M drum major ruled a homicide(AP) 
+佛罗里达农机大学鼓乐队指挥手的死亡被裁定为一起谋杀案
+
+少数民族 少数 minority  少量股票交易 minority stake sale
+Wealth gap between whites, minorities widens(CBS)
+在白人和少数民族人之间财富鸿沟扩大
+Minorities Lead Growth in Biggest Cities(TIMES)
+少数民族在大城市增长
+Yahoo eyes minority stake sale, recap: sources(Reuters)
+雅虎注意少量股份的交易,及交易扼要重述
+
+疲劳 fatigue/tiredness  慢性的疲劳 chronic fatigue  避免疲劳 avoid fatigue
+For some consumers, surveys breed feedback fatigue(AP)
+对于某些消费者,调查导致反馈疲劳
+Study linking virus and chronic fatigue retracted(AP) 
+研究发现病毒与慢性的疲劳减退的关系
+Feds extend pilots' rest time to avoid fatigue(CBS) 
+联邦政府增加飞行员休息时间来避免疲劳
+
+山峰 达到顶峰 peak   跳过山峰 skip peak  在合适时机达到顶峰 peak at right time
+Everest climber skips peak to rescue fallen friend(CBS)
+珠穆朗玛爬山者跳过山峰拯救跌落的朋友
+Israel Protests Peak as 400,000 Take to Streets(TIMES)
+以色列示威者达到顶峰,40万人开始占据街道
+In Iowa, Romney peaking at right time(CBS) 
+衣阿华州,鲁梅尼在合适时机达到顶峰
+Has the flu epidemic peaked?(CBS)
+流感发病已到顶峰了吗
+
+暴力犯罪 violent crime
+Violent crime plunges 12 percent in US in 2010(AP)
+美国暴力犯罪在2010年下降12%比例
+
+地狱的边境 遗忘边缘 limbo  处于遗忘边缘 in limbo
+Kids' cancer drugs stuck in federal limbo(CBS)
+儿童癌症药物陷入遗忘边缘
+Thousands to be stuck in NBN 'limbo'(ABC)
+数千人陷入新生儿病房被忘却
+Senate Leaves F.A.A. in Limbo(TIMES)
+参院让空管局处于遗忘边缘
+Returning to China, Engineer Finds Jail and Then Limbo(TIMES) 
+返回中国,工程师发觉入狱然后被遗忘
+Lulled into a fog-induced limbo aboard an Indian train(LATIMES)
+抚慰由于雾气导致事故的一列印度火车上遗忘的乘客
+
+新常态 new normal
+Nation's weather extremes may be the new normal(LATIMES)
+国家天气的极端可能是一个新常态
+
+残余 遗迹 vestige
+Vestiges of Hosni Mubarak's Order Stifle Birth of New Egypt(TIMES) 
+穆巴拉克集团的残余遏制新埃及的诞生
+
+水汽 蒸汽 vapor  蒸汽云 vapor cloud
+Video shows vapor cloud before refinery fire(Yahoo)
+在精炼厂大火后看蒸汽云
+
+火葬 cremate
+Director Tony Scott cremated; scholarship created(Yahoo)
+托尼被火葬,其奖学金被建立
+
+罪犯 刑事被告 culprit
+Norway rampage culprit held in isolation(AP)
+挪威到处杀人的犯罪者被单独监禁
+
+斋月 ramadan
+Suicide Attacks Escalate in Afghanistan Before End of Ramadan(TIMES)
+在斋月结束前阿富汗自杀袭击加剧
+Syrian Security Forces Fire on Worshipers as Ramadan Ends(TIMES)
+叙利亚安全部队向礼拜人群开火在斋月结束后
+
+诋毁 诽谤 slur   含混不清的 slurred  含混不清的录音 slurred audio 种族性诽谤 racial slur  诋毁移民 immigrant slur
+Limbaugh slur of law student draws Obama into fray(AP)
+诋毁法律学生的妇女让奥巴马卷入争吵
+Soccer Star Acquitted in British Trial Over Racial Slur(TIMES)
+特里在英国队种族中伤诽谤案中无罪释放
+Escobar suspended 3 games for slur on eye-black(Yahoo)
+因为在比赛中对眼下方抹油防太阳光做法的诋毁,暂停3种比赛
+Racial slurs yelled at Ole Miss Obama protest(CBS)
+种族性诽谤言语出现在反第一夫人的示威中
+Jackson family shocked by slurred audio(CBS)
+杰克逊家人被含混不清的录音震惊了
+Perry backpedaling over Texas ranch slur(CBS)
+佩里从德州的农场诋毁上后退/食言
+Ratner resigns from Oscars after gay slur(LATIMES)
+在指其是同性恋诋毁出现后拉特纳从奥斯卡辞职
+House Speaker admonishes fellow Republican for immigrant slur(Yahoo) 
+议长责备共和党议员对移民法诋毁
+
+荡妇 slut
+Obama backs woman Limbaugh called a 'slut'(LATIMES)
+奥巴马支持被称为'荡妇'的妇女
+
+对决 faceoff
+Quiet Pa. town center stage for Sandusky faceoff(AP) 
+安静的宾西法利亚州城市中心舞台为桑达斯基与鲁梅尼对决
+
+思想动态 心态 mind-set
+Joe Biden blasts Mitt Romney's CEO mind-set on national security(LATIMES)
+拜登攻击鲁梅尼在国家安全上心态
+
+仇视性犯罪 hate crime
+Miss. teen pleads guilty in rundown hate crime(CBS)
+十来岁的姑娘对逐条核对仇视性犯罪认罪
+Roommate charged with hate crime in webcam case(AP)
+同屋被起诉仇视性犯罪因网络摄像头
+FBI arrests 7 Amish men on hate-crime charges(LATIMES) 
+联邦调查局逮捕门诺教派7人因为其仇视性犯罪
+
+不埋葬 non-burial
+British billionaire charged for wife's non-burial(CBS)
+英国亿万富翁被起诉不埋葬妻子
+
+呈阳性药检 positive drug test
+NL MVP Ryan Braun has positive drug test, appealing(CBS) 
+美国冰球联盟最佳球员瑞恩药检呈阳性,其上诉
+
+生命维持 life support
+Egypt's Mubarak is on life support(CBS)
+埃及前总统处于生命维持阶段
+
+宫颈癌 cervical cancer
+Guidelines on cervical cancer tests present dilemma(CBS)
+宫颈癌检测指导出现困境
+
+半流质食物 粥类食物 奶头 pap
+Doctors: Pap remains best test for cervical cancer(AP)
+半流质食物有最好的对宫颈癌检验测试
+
+小额信贷 microcredit
+Microcredit doesn't end poverty, despite all the hype(WAPOST)
+小额贷款并未结束贫困,尽管有天花乱坠的报道
+
+门卫 janitor
+"Janitor satellite" for space junk(CBS)
+针对太空垃圾的预警卫星
+From janitor to Ivy League graduate(CBS)
+从门卫到常青藤学校毕业
+Lindsay Lohan to work as janitor for community service hours
+做门卫充当社区服务时间
+
+斥责 怨言 earful  得到抱怨 get an earful
+Jan Brewer gets an earful from Obama(CBS)
+简从奥巴马出得到责骂
+Romney ventures onto Democratic turf, gets earful in Philadelphia(LATIMES)
+鲁梅尼冒险争取民主党地盘,得到臭骂
+
+孤独症 autism(autistic)  精神分裂症 schizophrenia
+CDC sees autism rate rise 25%(CBS)
+疾控中心说孤独症发病率上升很多
+Father's Age Linked to Autism and Schizophrenia(TIMES)
+父亲年龄和孤独症和精神分裂症相关
+
+派别 教派 宗派 sect  隐遁的教派 reclusive sect  宗派斗争 sect attack
+In Amish Hate-Crime Trial, a Look at Reclusive Sect(TIMES)  
+在门诺教仇恨犯罪审判中,看一看隐遁的教派
+At least 143 killed in Nigerian sect attacks(CBS)
+在尼日利亚宗派斗争中至少143人死亡
+
+歇斯底里症 hysteria  群体歇斯底里症 心意病 mass hysteria
+Mass hysteria rare, but usually seen in girls(AP)
+心意病很少见,但常见于女孩群体中
+
+被告人 defendant  原告 plaintiff
+American Defendants Leave Egypt(TIMES)
+几个美国被告人离开埃及
+Ft. Hood suspect cries name of defendant in 2009 rampage(LATIMES)
+胡德堡事件疑犯叫喊2009暴力事件被告名字
+
+纲领 platform  反堕胎政治纲领 anti-abortion platform
+No exceptions for rape in GOP's anti-abortion platform(LATIMES)
+对于共和党强奸导致怀孕的反堕胎政治纲领,没有反对
+
+素描 速写 草拟 sketch  嫌疑犯素描 Sketch of Suspect  草拟议程 sketch agenda  制定策略 sketch strategy 拟定出 sketch out
+In Queens Firebombings, Sketch of Suspect Is Released(TIMES)
+皇后地区燃烧弹案中,嫌疑犯素描被发出
+Gingrich sketches Day 1 agenda for his presidency(AP)
+金里奇概述他若为总统的首日议程
+Obama sketches four-pronged strategy for Europe, sees EU consensus
+奥巴马草拟四种方式对欧洲策略
+Secretary of State Clinton sketches out path for Syria
+国务卿拟定叙利亚问题路线图
+Scholars sketch bleak economic picture for black Americans(WAPOST)
+学者们描绘美国黑人暗淡的经济图画
+
+制服 外套 uniform
+Dressing Up the iPhone's Dull Uniform(TIMES)
+穿上iphone傻傻的外套
+U.S. Olympic uniforms could shave time off sprint(CBS)
+美国奥运比赛服装可能减少冲刺时间
+
+出现 turnout  皇室成员出现 Royal turnout  过低参加人数 low/small turnout
+Royal turnout for Zara at equestrian cross-country(Yahoo)
+皇室出现在越野赛马的现场
+Romanian referendum invalid due to low turnout(Yahoo)
+罗马利亚全民公决无效由于过低投票人数
+Latino vote: About 24 million eligible, but small turnout likely(LATIMES)
+拉丁美洲裔选民投票:大约2400万有资格,但可能很少人参加投票
+Small turnout for May Day march(LATIMES)
+小聚集人群劳动节游行
+
+径赛 跑道 track
+Roger Bannister Won Track Immortality, but Not Olympic Gold(TIMES)
+罗杰赢得径赛的不朽名声,除了没有奥运金牌
+
+不朽 永生  immortality 不朽的 immortal(immortalize)
+Roger Bannister Won Track Immortality, but Not Olympic Gold(TIMES)
+罗杰赢得径赛的不朽名声,除了没有奥运金牌
+Bob Gruen captures the immortals of rock(CBS)
+鲍勃找到历经久远的岩石
+
+不合拍 Off the Beat
+Undercover Officers Under Strain, With No Clear Way Off the Beat(TIMES)
+秘密的官员们承受着压力,有着合拍的清晰路线
+
+全盘托出的 坦率的 tell-all  全盘托出的书 tell-all book
+Rielle Hunter writes tell-all book about affair with John Edwards(LATIMES)
+亨特写了关于爱德华偷情事件全盘托出的书
+Watch: Monica Lewinsky to pen tell-all?(CBS)
+莱温斯基要合盘的写出所有事
+
+传染 蔓延 contagion
+Debt Contagion Threatens Italy(TIMES) 
+债务危机的传染蔓延,威胁到意大利
+
+学区 school district  学区重新划分 school district rebuild
+School district rebuilds after fraudulent testing(Yahoo)
+在欺骗的测试后,学区重新划分
+
+自然原因 natural cause   自然死亡 die of natural causes
+Iron Butterfly bassist died of natural causes(Yahoo)
+乐队低音歌手正常死亡
+
+鼹鼠 echidna
+A baby echidna is both weird and adorable(WAPOST)
+鼹鼠幼崽既怪异又可爱的
+
+唱经班 choir
+Palin to CPAC: "Stop preaching to the choir"(CBS) 
+佩林说停止给唱经班鼓吹宣传
+
+乡村 countryside  在乡村勉力活的 struggle in countryside
+Fleeing Syrians Struggle in Countryside Amid Indiscriminate Violence(TIMES)
+在随意的暴力活动中,逃离的叙利亚人在乡村勉强生活着
+
+古物 antiquity  古玩市场 antiquity market
+Turkey asks U.S. museums for return of antiquities(LATIMES)
+土耳其要求美国博物馆归还古物
+Antiquity Market Grapples With Stricter Guidelines(TIMES)
+古玩市场努力克服严格指导方针
+Syria official warns of trafficking in antiquities(Yahoo)
+叙利亚官方警告在古城的非法交易
+
+货物卖出概不退换 Caveat emptor
+Analysis: "Caveat emptor" as foreigners rush to ride China rebound(Yahoo)
+货物卖出概不退换,由于外国人蜂拥来坐上中国经济反弹
+
+门票 entry price  门票上涨 entry price jump
+Theme parks' entry prices jump(LATIMES)
+主题公园门票上涨
+
+障碍 barrier/hurdle/obstacle  声障 sound barrier  洪水阻隔坝 Flood barriers
+Skydiver breaks sound barrier in record jump(Yahoo)
+高空跳伞运动员在创纪录的跳伞中突破声障
+Flood barriers will determine Thai capital's fate(AP)
+洪水坝将决定泰国首都命运
+
+踏脚空间 legroom
+Airlines shrink seats, offer extra legroom for a fee(LATIMES)
+航空公司减少座位,提供额外的收费踏脚空间
+
+防晒油 sunscreen
+Consumer Reports rates top sunscreens for 2012(CBS)
+消费者报告排列出顶级防晒油
+
+袭击 raid  极关键的袭击 fatal raid  激烈的袭击 fierce raid
+Admiral Defends Use of Navy Seals Unit in Fatal Raid(TIMES)
+海军将军反对在关键袭击中使用海豹突击队
+Syrians Strike Restive Cities in Fierce Raids(TIMES)
+在激烈的打击中,叙利亚进攻不安定的城市
+Raided American Groups Rebut Egyptian Accusations(TIMES)
+被袭击的美国团体反驳埃及的指控
+Obama meets with SEALs who raided bin Laden(CBS)
+奥氏会晤袭击拉登海豹队员
+Olympus offices to be raided this week: report(Reuters) 
+奥林巴斯办公室被突袭搜查
+
+割包皮 circumcision(circumcise)   割包皮减少 circumcision decline
+As circumcision declines, health costs will go up, study projects(LATIMES)
+由于割包皮减少,健康代价上升
+
+正在进行 underway
+Official: Coup d'etat underway in Mali(CBS)
+马里军事政变正在进行
+Navy jet crash: Evacuations, search for injured underway in Va.(LATIMES)
+疏散,搜寻受伤者正在进行中
+
+石灰石矿 limestone mine
+Finns open 'pop-down' restaurant in limestone mine(Yahoo)
+芬兰人在石灰石矿上面开设餐馆
+
+套马 套牛 马术 rodeo  年度套牛赛 annual rodeo
+La. prison holds annual rodeo(CBS)
+洛杉矶监狱举办年度牛仔大赛
+
+小鸡 胆小懦弱的 chicken
+Gingrich to rivals: You're chicken(CBS)
+金里奇说对手是胆小懦弱的
+Mets find farm upstate for famous prank chicken
+大都会球队为闻名的恶作剧小鸡们找到北部的农场
+
+跳蚤 flea   跳蚤市场 flea market  洗掉宠物身上跳蚤 flea bath
+Mass. family: Cat taken for flea bath euthanized(CBS)
+洗掉身上跳蚤的猫被实施安乐死
+Renoir painting found at US flea market(Yahoo)
+雷诺瓦画作在跳蚤市场中被发现
+
+民间英雄 folk hero
+Skeleton of Ned Kelly, Australian Outlaw and Folk Hero, Is Identified(TIMES)
+内德的遗骸被确认,一位澳大利亚民间英雄和逃犯
+
+煨 爆发 沸点 simmer  使平静下来 simmer down
+Asian stocks fall as European problems simmer
+由于欧洲问题接近爆发,亚洲股市下跌
+Change Unlikely From Angolan Election, but Discontent Still Simmers(TIMES) 
+改变不可能来自安哥拉选举,但不满意依旧接近爆发
+Western embassies edgy as Muslim anger at film simmers(Yahoo)
+西方的大使馆都很紧张的,由于穆斯林对于电影导致的怒火
+Embattled City in Syria Simmers as Monitors Enter(TIMES) 
+叙利亚严阵以待的城市处在爆发状态,当观察监督员进入
+
+洛杉矶地区 洛杉矶范围 L.A.-bound
+Man accused of disrupting L.A.-bound flight(CBS)
+男子被控扰乱洛杉矶地区空中飞行
+
+搁浅地 aground  搁浅 go aground/run aground  搁浅的 grounded  搁浅的钻探船 grounded drilling ship
+Luxury cruise ship runs aground in Italy(CBS)
+奢侈巡游船在意大利搁浅
+Migrant boat runs aground near Italian port(ABC)
+移民船搁浅
+No sign of leaks from grounded drilling ship(CBS)
+搁浅的钻探船没有泄露迹象
+Grounded cargo ship breaks apart on NZ reef(AP)
+搁浅的货船在新泽西暗礁处碰碎
+
+胡萝卜或大棒 carrot or stick
+Tax policy for manufacturing jobs - carrots or sticks?(WAPOST)
+税务政策对制造行业就业是胡萝卜或是大棒
+
+彻底击败 连续重击 clobber
+Snowstorm clobbers Boston, NYC; 1 to 3 feet possible(CBS)
+雪暴彻底瘫痪波士顿
+
+模型飞机 model plane
+Model plane hobbyists know the risks of lithium-ion batteries(WAPOST)
+模型飞机成瘾者知道锂电池风险
+
+结果 outcome/result  依赖于结果 hinge on outcome
+Wisconsin outcome signals opportunity for Romney
+威斯康辛州选举结果给鲁梅尼发出机会信号
+Jerry Brown's legacy rides on outcome of tax hike initiative(LATIMES)
+布朗的遗留政策骑在增税行动的结果之上
+BP's future hinges on outcome of Russian oil-venture deal, charges in gulf oil spill(WAPOST) 
+英国石油公司未来依赖于俄国石油风险交易和湾区泄漏的罚款两项结果
+Osama bin Laden's surrender wasn't a likely outcome in raid
+投降的人不是预期的突袭结果
+Businesses wary of supercommittee outcome(WAPOST) 
+商业结构对超级委员会结果很谨慎小心
+
+自计量 自我量化 self-quantifier
+For self-quantifiers using, life is but a spreadsheet(WAPOST)
+对于自计量的使用,生命仅仅是空白程序表
+
+阉人 太监 eunuch
+13 eunuchs killed in fire in India(AP) 
+13个阉人在印度的一场交火中丧生
+
+热度 发烧 fever  极激动状态 狂热 fever pitch
+'Hunger Games' fever makes archery cool for kids
+饥饿游戏热度让孩子们对射箭冷淡
+Coe drums up Olympic fever for London Games(Yahoo)
+科尔为奥运比赛招揽热度
+Fmr. President Bush battling "stubborn" fever(CBS)
+前总统老布什与顽固不退的高烧抗争
+Extravagant wedding photo fever hits China(CBS)
+奢侈结婚照热风靡中国
+Endorsement fever: Bobby Jindal backs Rick Perry(LATIMES)
+背书站台激动兴奋:波比支持佩里
+Battle over Stop Online Piracy Act reaches fever pitch(WAPOST) 
+停止在线隐私法案的斗争达到狂热
+
+基督诞生 耶稣降生 nativity  基督诞生剧表演 nativity play
+U.K. parent's finger bitten off at Nativity play(CBS) 
+英国父母的手指在基督诞生剧中被截断
+Atheist messages displace CA park nativity scenes(AP) 
+无神论者的宣传替换了公园中耶稣诞生场景
+Atheists 'hijack' nativity display in Santa Monica, critics say(LATIMES) 
+批评者说无神论者劫持耶稣诞生剧演出
+Gay nativity scene vandalized at Claremont church(LATIMES) 
+在克莱蒙特教堂由同性恋者表演的耶稣降生剧情景被破坏
+
+自负 自尊 self-esteem/ego  尊重 esteem/regard/respect
+Study: Facebook addicts may have low self-esteem(CBS)
+脸谱的沉迷者往往有低度自尊自负
+
+配给 配额 ration
+Gas rationing, shortage fray nerves in NYC(Yahoo)
+汽油配给,短缺正在磨损纽约应付灾难勇气
+Egypt to start rationing subsidized fuel in July(Yahoo)
+埃及7月开始配额制补贴用油
+
+偷猎者 poacher
+Mexican shark poachers tough to attack(CBS) 
+墨西哥鲨鱼偷猎者很艰难攻击
+
+信件封盖 flap  证件封面 credentials flap  简历封面 resume flap
+Yahoo! launches probe in CEO credentials flap
+雅虎启动对CEO证件封盖的调查
+Yahoo CEO steps down after resume flap(CBS)
+在简历封盖造假后,雅虎执行官辞职
+
+美国副总统 veep   选定副总统竞选搭档 veepstakes
+Mitch Daniels weighs in on the presidential veepstakes(LATIMES)
+丹尼尔慎重考虑成为副总统候选人
+
+一系列有据可查的 a record of
+Analysis: Behind North Korea bluster, a record of troubling actions(Yahoo)
+在朝鲜虚张声势狂言后面,是一系列有记载的麻烦行为
+
+沥青 asphalt/pitch 
+Northbound 710 Freeway closed after truck spills liquid asphalt(LATIMES)
+卡车泄露液体沥青后往北的高速公路关闭
+
+遗赠 死亡 转让 demise
+In Egypt, Rumor of Pyramids' Demise Proves Flimsy(TIMES)
+埃及,关于金字塔转让的谣言被证实是电影界新闻
+A Ford plant's demise tells the euro's tale(WAPOST)
+福特工厂关闭讲述欧元的故事
+Bin Laden's demise: US rejoices after a decade(AP) 
+拉登死亡美国极高兴
+
+交通拥塞 traffic jam
+Traffic jam at Everest "death zone"(CBS)
+在珠穆朗玛峰死亡地带出现交通拥塞
+
+宣言 manifesto/declaration
+Hanna Rosin: Why 'The End of Men' isn't a 'triumphantly feminist manifesto'(WAPOST)
+为何男人终结不是一个胜利的男女平等宣言
+"How the Holstee manifesto became the new 'Just Do It'(WAPOST) 
+霍斯特宣言怎样变成新的"就这么干
+
+宗教信仰 religious faith
+Thinking can undermine religious faith, study finds(LATIMES)
+思考能暗中损害宗教信仰
+
+录像裁决 photo finish
+USA's Adrian wins gold in photo finish(CBS)
+美国队员最后通过录像裁决获得金牌
+
+上涨 好转 upswing/upturn
+Economy ends tough 2011 on a surprising upswing(AP) 
+在出现让人惊奇的上涨后,严酷的2011年经济状况结束
+
+孤立的事件 isolated incident
+Secret Service director says Colombia prostitution scandal was isolated incident(LATIMES)
+特勤局领导说哥伦比亚招妓事件是发生的孤立的事件
+
+石油领域 油区 oil sector
+After the Revolution, Hurdles in Reviving the Oil Sector(TIMES)
+在革命之后,障碍出现在石油领域的复苏中
+
+小便 urination(urinate)  尿 urine
+Marines brass investigating urination video(CBS)
+陆战队官员调查小便的视频
+Marines to be court-martialed in urination case(CBS)
+因为对尸体撒尿事件,海军陆战队被军事法庭审判
+
+煤矿 coal mine
+14 miners trapped in Mexican coal mine explosion(AP) 
+矿工陷入爆炸的煤矿
+19 rescued from flooded China coal mine(CBS)
+19人被救出从透水的中国煤矿
+
+胸外按压 chest compression
+Chest compression cut off homeless man's oxygen, expert says(LATIMES)
+胸外按压切断男子氧气
+
+服务行业 service sector
+Service sector growth slowest since 2010(Reuters)
+服务行业增长非常慢
+
+偏见 不公平 bias  政治偏见 political bias  种族偏见 racial bias  借贷不公 lending bias  有偏见的 biased/unbiased
+Study: Wikipedia perpetuates political bias(WAPOST)
+维基百科让政治偏见永存
+Wal-Mart to argue sex-bias case in Supreme Court 
+沃尔玛在上诉法院争辩性别歧视案
+Proposition 8 ruling should be voided because gay judge was biased, backers say(LATIMES)
+建议主张于裁决应使之无效因为同性恋法官是公正的支持者宣称
+Ex-NBA star accuses restaurant of racial bias(CBS)
+前球星指控餐馆种族偏见
+Michele Bachmann sees bias in stray email(LATIMES) 
+巴克曼在丢失的电邮中看到不平等
+Bachmann: "Fallon" dustup shows bias, sexism(CBS) 
+"法伦"(一个社区)骚动显示不公平和性别歧视
+$335 Million Settlement on Countrywide Lending Bias(TIMES) 
+美国银行以3亿美元代价解决全国范围的借贷不公控诉
+
+举重选手 weighlifter
+Albanian weightlifter is 1st doping case in London(Yahoo)
+阿尔巴尼亚举重选手是伦敦第一例嗑药选手
+
+泪珠 teardrop/tear-drop
+'Teardrop' rapist strikes again after lengthy break(LATIMES)
+在很长的蛰伏后,泪珠强奸犯再次袭击
+
+贬值 devaluation(devalue)  让美元贬值 devalue dollar
+Opposition slams Venezuela devaluation, shoppers fret(Yahoo)
+反对者指责委内瑞拉货币贬值,购物者发火
+Will Mitt Romney devalue the dollar?(WAPOST)
+鲁梅尼将让美元贬值吗
+
+私人之手 private hands
+L.A. considers putting zoo operations in private hands(LATIMES)
+洛杉矶考虑把动物园运营交给私人
+
+归还 赔偿 Restitution
+DealBook: Libor Rate-Rigging Scandal Sets Off Legal Fights for Restitution(TIMES)
+汇率操纵丑闻激起对赔偿的合法斗争
+
+(指费用超过保险额度由病人和保险公司的)共付医疗费 门诊费医保 copay/copayment
+Coverage with no copay extended to birth control(AP)
+门诊费用保险覆盖扩大到生育控制
+
+右翼 right-wing 右翼观点 right-wing sentiment
+Norway Attacks Put Spotlight on Rise of Right-Wing Sentiment in Europe(TIMES)
+挪威袭击让右翼观点上升暴露在聚光灯下
+
+小故障 glitch
+SEC's new safety mechanism contains fallout from trading glitches on BATS(WAPOST)
+证监委新的安全措施阻止电子证�交易公司交易故障的余波
+Computer glitch sent markets into a tizzy(WAPOST)
+计算机错误让市场陷入慌乱紧张
+NAB branches open after system glitch
+在系统小故障完后美职篮分支开放
+
+酒商 wine dealer
+Wine Dealer Accused of Trying to Sell Counterfeits(TIMES)
+酒商被指控试图卖假货
+
+一堆 一阵 一系列 flurry of
+Pope sends flurry of tweets after Twitter launch(CBS)
+教皇在推特上发布一堆话语
+Brown's flurry of law signing will anger cyclists, GOP, but please sharks(LATIMES)
+布朗的一系列法案签署爆发将激怒骑车人,共和党,但让敲诈勒索的一类人高兴
+Southeast hit by flurry of suspected tornadoes(CBS) 
+东南部被疑似的一阵龙卷风打击
+
+药物滥用 毒品滥用 substance-abuse/drug-abuse
+Federal substance-abuse agencies lumber toward a merger(LATIMES) 
+联邦药物滥用部门慢慢地走向合并
+
+好处 津贴 perk  车补 vehicle perk  纳税补贴 tax perk
+Molina wants details on sheriff's perks for reserve deputies(LATIMES)
+莫利纳要关于治安官为保留副手得到好处的细节
+Coliseum officials got big vehicle perks(LATIMES)
+大体育场官员得到大车子的补贴
+4 surprise tax perks in the "fiscal cliff" deal(CBS)
+在财政悬崖议案中四种让人奇怪的税补贴
+
+尼古丁贴片 Nicotine patches
+Study Finds Nicotine Gum and Patches Don't Help Smokers Quit(TIMES)
+研究发现尼古丁口香糖和贴片不能帮助吸烟者戒烟
+
+天然食品 whole food
+Whole Foods Faces Decisive Vote in Brooklyn(TIMES)
+天然食品面对决断
+
+精心准备的传统食物 家常菜 comfort food 
+Shining a Light on Myanmar's Comfort Food(TIMES)
+让缅甸精心准备的传统食物发扬光大
+
+交汇 交叉 intersection
+2013 Jaguar XJL: The intersection of excess and practicality(WAPOST)
+产品功能过量和实用性的交汇
+
+纵火 arson  纵火犯 arsonist  连串纵火 大量纵火 rash of arson  致命的纵火袭击 deadly arson attack
+L.A.-area residents fear arsonist may strike again(LATIMES) 
+洛杉矶地区居民担忧纵火犯再次袭击
+Rash of arson fires continues, spreads across wider area(LATIMES)
+纵火的大量出现,扩大到更多地区
+Mexico reels from deadly arson attack on civilians(AP)
+对平民死亡纵火袭击事件中,墨西哥在眩晕
+
+庄家 赔率计算者 oddsmaker
+Vegas oddsmakers favor 49ers in the Super Bowl(CBS)
+拉斯维加斯庄家支持49人对夺冠
+
+止疼药 pain med/pain killer
+Cops: Son caused dad's death, sold his pain meds(CBS) 
+儿子弄死父亲,卖掉他止疼药
+
+一小撮 a dash of
+Tragedy, danger -- and a dash of dumb luck in Mo.(CBS)
+悲剧危险和一小撮傻人有傻福
+
+围堵 遏制 containment  围堵政策 containment policy
+Netanyahu: Containment policy for Iran won't work(Yahoo)
+围堵政策对伊朗不起作用
+
+计量仪表 测量 米 meter/metre  停车收费器 parking meter
+Memo From Paris: As French Candidates Speak, the Meter Is Running(TIMES)
+就像法国候选人说的,竞选计时表已开始运行
+Santa Monica Resets Parking Meter System(TIMES)
+加州重置停车收费器
+
+很多 host of
+BCS: 'Host of intricate details' being discussed
+很多错综复杂的细节被讨论
+
+赌注 奖金 股票 桩 stake 大赌注 high stakes  普利克內斯跑马大奖赛  Preakness Stakes
+High stakes for Rick Santorum at tonight's GOP debate(LATIMES)
+在辩论会上,桑多拉姆准备投下大赌注
+I'll Have Another Wins 137th Preakness Stakes(TIMES)
+将赢得137届巴尔第摩赛马锦标
+Apple prevails over Samsung in high-stakes patent trial, will get $1 billion(LATIMES)
+在高价值专利审判中,苹果战胜三星
+High stakes for Mitt Romney in tonight's convention speech(LATIMES)
+对鲁梅尼今晚大会上发言有很大期望
+Maple ups stakes in battle for Canada's TMX(Reuters) 
+马培提高出资在与多伦多股交集团争夺中
+MLB investigates Alex Rodriguez for alleged high-stakes gambling(LATIMES)
+职棒联盟调查alex,为被指称的高赌注赌博的事情
+Dismal jobs numbers raise the stakes for Obama(CBS)
+阴沉的就业数提升奥巴马赌注
+Abbas stakes Palestinian claim to state at U.N.(Reuters)
+阿巴斯在联大上对巴勒斯坦人建国提出要求
+High-stakes trial begins over 2010 Gulf oil spill(Yahoo)
+在漏油钻探平台复工前进行高投资的测试
+
+恶作剧 hoax/prank
+Portrait of Mary Todd Lincoln Is Deemed a Hoax(TIMES)
+玛丽的肖像认为是个恶作剧
+Ex-school police officer to pay $309,000 in shooting hoax(LATIMES)
+前校警在枪击恶作剧事件中赔偿40万美元
+What a birthday: Hoax removes man from Philly jet(Yahoo)
+恶作剧让男子被带离飞机
+Nurse who died after Kate hoax call was from India(Yahoo)
+凯特王妃戏弄电话事件后当值护士自杀
+Family mourns nurse in duchess hoax(CBS)
+家庭成员悼念在女公爵恶作剧中自杀护士
+
+入口处 inlet/entry
+Small plane crashes in Long Island inlet(CBS) 
+小飞机坠毁在长岛入口处
+
+余波 后果 fallout/aftermath/result/consequence
+In Komen fallout, abortion-breast cancer myth is resurrected(LATIMES)
+在科曼余波中,失败的乳癌神话被复活
+SEC's new safety mechanism contains fallout from trading glitches on BATS(WAPOST)
+证监委新的安全措施阻止电子证�交易公司交易故障的余波
+Cain struggles to contain allegations fallout(AP)
+凯恩努力阻止指控的冲击波/原子辐射尘
+Analysis: Deal building to pump up IMF to handle Europe fallout(Reuters) 
+余波问题鼓劲打气
+
+欢乐 高兴 glee/happiness  欣喜和内疚 glee and guilt
+Seattle filled with glee and guilt over NBA bid(LATIMES)
+在寻求NBA球队落地的努力中西雅图充满欣喜和内疚
+
+获得公民权仪式 入籍仪式 citizenship ceremony
+World Briefing | The Americas: Canada: Government Bans Veils at Citizenship Ceremonies(TIMES) 
+美国加拿大禁止在获得公民权仪式上戴面纱口罩
+
+生化武器 chemical and biological weapons
+Obama warns Syria against using chemical or biological weapons(LATIMES)
+奥巴马警告叙利亚不要使用生化武器
+
+二人组 duo  两大巨头垄断 duopoly  二人恐怖主义组 terrorist duo
+Quiet Duo Forged Road Deal for U.S. and Pakistan(TIMES)
+静悄悄的二人组打造出美巴间运输公路协议
+Beer merger would worsen existing duopoly by AB InBev, SABMiller(WAPOST)
+啤酒商合并将加剧存在的市场双头垄断情况
+U.S. offers $10M for info leading to American terrorist duo(CBS) 
+美国提供千万美元给提供恐怖二人组的爆料者
+
+管道工 水管工 plumber
+Sandy boosts business for local plumbers, electricians(WAPOST) 
+风暴增加管道工和电工的业务
+
+无用的 废物 dud  衣服 duds
+Solar storm is a bit of a dud -- but wait, there's more to come(LATIMES)
+太阳风暴是一点点无用的废物,等会,会有更多到来
+As hours tick by, "Judgment Day" looks a dud(Reuters) 
+时间临近审判日看起来无用的
+Royals and stars dazzle in designer duds(CBS) 
+王室成员和明星闪耀在设计师衣服发布会
+
+寻欢作乐 玩乐 spree/revelry  
+Seeking clues in the ashes of an L.A. arson spree(LATIMES)
+寻求线索,在洛杉矶纵火娱乐的灰烬中
+Spending spree and aggressive land grab may cost Aubrey McClendon his company(WAPOST)
+游乐花费和激烈的土地抢夺可能要牺牲其公司
+5 killed, 1 hurt in Yuma, Ariz. Shooting spree (CBS)
+亚利桑那州发生枪击玩乐事件
+Ax-Wielding Farmer Goes on Killing Spree in Central China(TIMES)
+中国中部使用斧头的农民继续杀戮娱乐
+
+山体滑坡 landslide
+Landslide Peril Near Chinese Reservoir Grows, Official Says(TIMES)
+靠近水库地方发生山崩滑坡的危险增加
+Deadly earthquake buries Afghans in landslide(CBS)
+致命的地址导致山崩掩埋阿富汗
+17 killed, two missing in Indonesian landslide(ABC)
+印尼山体滑坡17人死亡
+San Pedro landslide called 'life-threatening hazard'(LATIMES) 
+圣佩德罗山崩被称为威胁生命的危险
+
+车道 跑道 lane  喜欢快车道 take to fast lane
+Most southbound lanes of I-15 reopened; 1,100-acre fire still burning(LATIMES)
+大部分往南的15号州际公路重新开放,1100英亩土地仍在燃烧
+Allowed Behind the Wheel, Women Take to Fast Lane(TIMES) 
+被允许驾驶后,妇女开始喜欢快车道
+
+类似 类比 analogy  奴隶制度类比 slavery analogy
+Ga. school used slavery analogy to teach math(CBS)
+佐治亚州学校使用奴隶比喻类推来教数学
+
+小孩 tot/kid
+2 tots rescued after slow chase of stolen yacht(CBS)
+两个幼儿被援救,在减慢对被偷游艇的追击后
+
+携带 手提 tote  携带枪支的 gun-toting
+Mythbusting: Israel and Switzerland are not gun-toting utopias(WAPOST)
+以色列和瑞士是没有枪支携带的乌托邦
+
+鼓乐队指挥手 drum major
+Drum major who died in hazing was 'Mr. Band'(AP) 
+死于屈辱的乐队指挥人是班德先生
+Death of Florida A&M drum major ruled a homicide(AP) 
+佛罗里达农机大学鼓乐队指挥手的死亡被裁定为一起谋杀案
+
+救援资金 rescue fund
+Merkel risks rebellion on euro rescue fund(Reuters)
+默克尔在救援资金上冒着背叛风险
+
+疫苗拒受者 vaccine refuser
+Doctors "firing" vaccine refusers(CBS)
+医生对疫苗拒绝者发火
+
+协调 一致 harmony/accord
+Pope Benedict XVI ends Lebanon trip, urges interreligious harmony(LATIMES)
+教皇结束黎巴嫩之行,要求各宗教间协调一致
+
+不当行为 犯罪 foul play
+Foul Play Ruled Out in Fire That Killed 5 in Connecticut,(TIMES) 
+不当行为被排除在康涅狄格大火原因之外
+
+挑选的几个 a select few
+Ties to Putin Generate Fabulous Wealth for a Select Few(TIMES)
+为与普京有关系的精选的几个人创造大量的财富
+
+幻想 错觉 illusion  看穿错觉 see through illusion
+Notion of Syria power transition "an illusion": Iran FM(Yahoo)
+对叙利亚权利变更的想法是幻想
+Seeing Through the Illusions of the Sports Hero(TIMES) 
+看穿有错觉的体育英雄
+
+挑选的几个 a select few
+Ties to Putin Generate Fabulous Wealth for a Select Few(TIMES)
+为与普京有关系的精选的几个人创造大量的财富
+
+幻想 错觉 illusion  看穿错觉 see through illusion
+Notion of Syria power transition "an illusion": Iran FM(Yahoo)
+对叙利亚权利变更的想法是幻想
+Seeing Through the Illusions of the Sports Hero(TIMES) 
+看穿有错觉的体育英雄
+
+僵局 停滞 gridlock/impasse/standstill/standoff/stagnancy 交通堵塞 traffic gridlock  政治僵局 political gridlock
+Obama tries to sell jobs plan, end gridlock(Reuters)
+奥巴马试图兜售就业计划,结束僵局
+Obama traffic gridlock expected during West Hollywood visit(LATIMES)
+在奥巴马对西好莱坞访问期间预计有交通堵塞
+Dow hits record high as markets are undaunted by tepid economic growth, political gridlock(WAPOST)
+道琼斯创新高,由于市场未受到经济不冷不热增长和政治僵局的影响
+Greek election impasse heralds lengthy instability
+希腊选举僵局宣告了长期不稳定来临
+Debt Impasse Fuels Sharp Fall in Stocks(TIMES)
+债务僵局加速股市急剧下跌
+Impasse Lingers Between Indian Hunger Striker and Government(TIMES)
+僵局徘徊在印度绝食斗争者与政府间
+Hiring standstill points to growing recession risk(AP)
+就业停滞表明衰退风险增加
+Strike-hit Greece heads to standstill ahead of crucial vote(Reuters)
+在关键的选举投票前碰上罢工的希腊转向停滞
+僵持 standoff/standstill/impasse/gridlock
+French police set off explosions in standoff(CBS)
+法国警察在僵持中引发爆炸
+Mother not surprised son died in crane standoff
+儿子死于起重机死锁
+Ivory Coast standoff may be near end amid battles(AP)
+内战后科平手僵局可能出现
+
+董事会 boardroom
+Flaws in Videoconferencing Systems Make Boardrooms Vulnerable(TIMES)
+视频会议系统漏洞让董事会易受攻击
+Olympus ex-CEO Woodford mobbed as enters boardroom(Reuters) 
+奥林巴斯前主管进入董事会议室时被围住
+
+棺材 coffin  加速失败/死亡 a nail in sb's/sth's coffin  移除风险 move nails in coffin
+Analysis: China currency move nails hard landing risk coffin
+中国货币要解决硬着陆的风险
+
+上瘾者 hobbyist/addict
+Model plane hobbyists know the risks of lithium-ion batteries(WAPOST)
+模型飞机成瘾者知道锂电池风险
+
+电影海报 movie poster
+Rare movie posters found in Pennsylvania attic fetch $503K(CBS)
+罕见的电影海报在宾州阁楼中被找到,被卖50万美元
+
+划刻度 校准计量 calibration(calibrate)
+In Dalton, Ga., 'Carpet Capital of the World,' Job Losses Force Recalibration(TIMES)
+世界地毯之都,工作减少强迫重新标准化产业
+
+董事 摄政王 regent
+Two arrested in protest outside UC regents meeting(LATIMES)
+两名在加州大学董事会议外示威者被捕
+UC regents recoil at idea of 16% tuition increase(LATIMES)
+加州大学董事在学费增长想法上退缩
+Protesters gather at UCLA for UC regents meeting(LATIMES) 
+示威者聚集在加大洛杉矶分校等待校董事会议
+
+书架 隔板 shelf(shelves)  搁置 暂缓 shelve  虚拟书架 virtual shelves  搁置计划 shelve plan  畅销 卖得好 fly off (the) shelves
+As demand for e-books soars, libraries struggle to stock their virtual shelves(WAPOST)
+由于电子书需求上升,图书馆努力提供它们虚拟的书架
+AMC Entertainment shelves IPO plan(LATIMES)
+娱乐公司搁置公募计划
+As gun control debate heats up, bullets fly off shelves (CBS)
+由于枪支管制争论升温,子弹卖的火
+Senate shelves Reid bill as final debt-ceiling plan comes into focus(LATIMES)
+由于最终债务上限计划清晰,参议院缓议雷德议案
+2nd Jonah Lehrer book being pulled from shelves(Yahoo)
+作者第二本书被从书架上撤下
+
+欺诈 gouge 价格欺诈 price-gouging
+New York cracks down on price-gouging in Sandy's aftermath(LATIMES)
+在飓风后纽约打击价格欺诈行为
+
+保险公司 insurer
+Private insurers increasingly reliant on government business(WAPOST)
+私有保险公司增大对政府业务的依赖
+Insurers see costs in Obama birth control rule(Reuters)
+保险公司明白奥巴马生育控制管理的成本代价
+U.S. insurer faces criminal investigation over Iraqis' unpaid death benefits(LATIMES)
+美保险公司面对犯罪调查在未对伊拉克死亡者支付赔偿金
+
+按摩浴缸 jacuzzi
+Homework and Jacuzzis as Dorms Move to McMansions in California(TIMES) 
+家庭作业和按摩浴缸作为宿舍进入MC豪宅
+
+繁茂 勃勃生机 极度欢乐 exuberance  焦虑与极度兴奋交织着 anxiety compete with exuberance
+In Towns Along the Road to Tripoli, Anxieties Compete With Exuberance(TIMES)
+去往的黎波里路上,焦虑与兴高采烈竞争着
+
+狂热 巨大 enthusiasm/exuberance  巨大鸿沟 enthusiasm gap  巨大领先 enthusiasm edge
+In health technology, an enthusiasm gap between startups and doctors(WAPOST) 
+103. 在健康技术上,一个巨大鸿沟横亘于启动和医生之间
+Has the GOP lost its enthusiasm edge?(LATIMES)
+共和党已经失去其相对民主党选民热情的领先
+
+破产 out of business
+The Filene's Basement going-out-of-business blues(WAPOST) 
+美国名品折扣店将进入破产的消息让人沮丧
+
+孝行 虔诚 piety  显示虔诚 make a display of piety
+On a Bleak Holiday, Assad Makes a Display of Piety(TIMES)
+在阴郁的节日中阿萨德显示他的虔诚
+Beijing Updates Parables, "The 24 Paragons of Filial Piety"(TIMES)
+北京更新寓言,子女虔诚的模范人物
+
+目击证人 eyewitness
+Eyewitness to Qaddafi's last moments in charge(CBS)
+卡扎菲最后时刻目击者被捕
+Supreme Court considers role of eyewitness testimony(LATIMES)
+最高法院考虑目击证人在作证方面角色
+
 －－－－－ 动词 Verb －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+吸引 诱惑 tempt(temptation)/attract/allure/lure/entice  鲁莽冒险 tempt fate/tempt providence
+Obama warns Gulf coast residents not to 'tempt fate' with Isaac(LATIMES)
+奥巴马警告湾区居民面对风暴不要鲁莽冒险
+2012 Audi A6 3.0T: Speed us into temptation(WAPOST) 
+奥迪加速诱惑
+
+警告 alert/warn  发出警告 flex alert
+U.S. Alert as China's Cash Buys Inroads in Caribbean(TIMES)
+美国对中国现金购买侵入加勒比地区发出警告
+Electricity flex alert lifted for weekend, but conservation urged(LATIMES)
+电力发出警告在周末已被解决,但要求避免浪费
+Ammonia leak at San Onofre nuclear plant prompts emergency alert(LATIMES)
+加州核工厂氨泄露提示紧急情况告警
+
+关进畜栏 畜栏 corral
+Zebra, mini horse corralled after NYC street jaunt(Yahoo)
+在纽约短途游览后,小斑马被赶进圈中
+
+证实 attest (to)
+Land Carvings Attest to Amazon's Lost World(TIMES)
+土地的切割砍伐证实亚马逊失去的世界
+
+光泽 闪亮 shine/gloss  表现的机会 a chance to shine  阐明 清楚显示 shine light on/shed light on  星光依旧 star still shine
+Tennis star may bring shine back to Serbia's tarnished reputation(LATIMES)
+网球明星给塞尔维亚晦暗的声誉带来光耀
+Americans shine at sunny U.S. Open(CBS)
+美国人在阳光的美网公开赛上闪光
+Cook's time to shine with new Apple iPhone(Reuters)
+库克时代与新iphone5手机一块闪耀
+Debate gives Gingrich a chance to shine(CBS) 
+辩论给了格林里奇机会来表现自己
+Wikileaks disclosure shines light on Big Brother(CBS) 
+维基解密披露内容让专制国家行为曝露出来
+Auction Shows Elizabeth Taylor's Star Still Shines(TIMES) 
+拍卖显示出伊利莎白泰勒星光依旧
+
+公布文件 file document
+Libyan spy files document Qaddafi regime's fall(CBS)
+利比亚间谍公布卡扎菲政权倒台文件
+
+藐视 嘲笑 flout/contempt
+Study Finds New York Hospitals Flout Charity Rules(TIMES)
+研究发现纽约医院藐视慈善规则
+Some GOP lawmakers now flout anti-tax man Norquist(Yahoo)
+一些共和党议员公然藐视反税人士
+
+逃避 规避 elude(elusion)/evade(evasion) 躲避审查 elude censor
+Essay: How Chinese Writers Elude Censors(TIMES)
+作家如何躲避审查
+Easy fix eludes power outage problems in US(Yahoo)
+很简单的方式来避开能源中断问题
+Rick Snyder, a G.O.P. Governor Who Eludes Labels(TIMES)
+一个不愿意贴上标签的共和党州长
+Financial equality still eludes married gays(CBS)
+结婚的同性恋不理解经济上平等
+
+跛的 跛行 limp/lame/cripple/falter  行动上拖拖拉拉 limp into motion  跌跌撞撞前行 limp towards
+Battered racing yacht, crew limp into S.F.(CBS)
+经年破旧的赛艇,船员们蹒跚到旧金山
+Romney's storm-delayed convention limps into motion(Yahoo)
+风暴导致延迟的共和党大会在行动上拖拖拉拉
+In Germany, a Limp Domestic Economy Stifled by Regulation(TIMES)
+德国跛足的本地经济被管理所遏制
+Ahmadinejad limps towards last year in charge(CBS)
+内贾德跌跌撞撞完成去年对伊朗管理
+No consensus as Europe limps toward Greece summit(Reuters)
+没有一致意见,因此欧洲蹒跚行进在希腊峰会上
+
+没兴趣 不抱幻想 disenchant(disenchantment)
+Disenchantment may keep Mexico's young voters on sidelines(LATIMES)
+对政治不着迷让墨西哥年轻选民处于核心之外
+New TV ad features disenchanted Obama backers(Yahoo)
+新电视广告让奥巴马支持者不再抱幻想
+
+使再生 复兴 reinvigorate/resurrect  使有精神 激励 invigorate
+Mexican Doctor's Baths for Corpses Reinvigorate Cold Cases(TIMES)
+出现尸体复活的墨西哥医生浴室
+
+润色 修改 touch up
+Wendy's pigtails get first touchup since 1983(Yahoo)
+温迪的辫子自从1983年以来得到第一次的修改
+
+准备 brace for/prepare
+Davos 2012: Across the World, Leaders Brace for Discontent and Upheaval(TIMES)
+全世界领袖们准备应对不满和动乱
+US braces for debt deal vote amid default jitters(AFP)
+在债务违约紧张时刻, 美国准备债务议案投票
+
+挥手告别 wave goodbye
+Waving California goodbye(LATIMES) 
+挥手告别加州
+
+恳求 呼吁 上诉 appeal for  恳求帮助 呼吁帮助 appeal for help
+Karzai appeals for Pakistan's help in peace deal(CBS)
+在达成和平协议上,卡尔扎伊恳求巴基斯坦帮助
+Ohio rapist appeals for serial killer's life(CBS)
+俄亥俄州强奸犯,为连环杀手的死刑判决上诉
+London police appeal for calm after riots, looting(LATIMES)
+在骚乱,抢掠后,伦敦警察呼吁冷静
+Madoff trustee can appeal JPMorgan $19 billion loss(Reuters) 
+麦道夫受托人可以为带来摩根190亿损失事件上诉
+9/11 rage Texas death row inmate loses appeal(CBS)
+暴怒的德州监狱死囚区犯人输掉上诉
+
+切断 cut off
+Bloc threatens to seal off Mali, cut off money
+西方集团威胁要封锁马里,切断资金
+Chest compression cut off homeless man's oxygen, expert says(LATIMES)
+胸外按压切断男子氧气
+Woman accused of  cutting off husband's penis held on $1 million bail(LATIMES) 
+被控割掉丈夫阴茎的妇女,抓住100万美元保释机会
+
+用药过量 剂量过大 overdose  剂量 用药 dose  减少最大剂量 cut maximum dose
+Houston possibly overdosed, face down in bath: coroner
+休斯顿可能药物过量,溺毙浴室中
+Thomas Kinkade died of accidental alcohol, Valium overdose(LATIMES)
+托马斯死于意外的酒精中毒和安定药过量
+J&J cuts maximum Tylenol dose to prevent overdoses(AP)
+强生削减退烧药最大剂量,来阻止过度剂量使用
+Deaths from painkiller overdose triple in decade(AP)
+过去十年来自于止痛药过量的死亡增加三倍
+
+好转 转危为安 turn the corner
+Study: Women-owned businesses have "turned the corner" in recession recovery(WAPOST)
+衰退恢复期,妇女掌控企业有转机
+
+落后 fall behind
+Yes, the middle class really is falling behind(WAPOST)
+中产阶级状况正在落后
+
+推动其前进 push ahead
+TransCanada chops up Keystone XL to push it ahead(Reuters)
+整个加拿大猛批石油管道公司,以推动其前进
+
+吞咽下 掩盖 吞没 swallow  鲸吞 whale swallow
+JPMorgan Chase: London whale swallows $2B(CBS)
+摩根追逐:伦敦鲸计划耗费20亿美圆
+Sinkhole that swallowed Fla. man 'unstable'(Yahoo)
+吞没男子的大坑不稳定
+
+使高兴 愉快 exhilarate/elate
+Move by central banks exhilarates Wall Street(AP) 
+中央银行采取得行动让华尔街兴奋高兴
+
+尊重 respect/esteem/regard  尊重核心利益 respect core interest  尊重权利 respect right
+Vice President Xi of China Urges U.S. to Respect 'Core Interests'(TIMES)
+副主席要求美国尊重中国核心利益
+Romney respects Israel's right to attack Iran, aide says(LATIMES)
+鲁梅尼尊重以色列打击伊朗权力
+
+展开 逐渐发生 结束 play out
+"State of the Union" debate to play out all week on campaign trail(CBS)
+在一整周竞选旅行活动中,国情咨文辩论逐步展开
+Near Melrose, a national healthcare predicament plays out(LATIMES)
+国家医保窘况逐渐发生
+
+反对 object (to)  反抗安全搜查 object to security search
+Two elderly women object to security search at JFK(AP) 
+两位老妇人反抗肯尼迪国际机场安全搜查
+
+掌击 拍打 耳光 slap  增加新费用 slap new fees (on)   增加关税 slap tariff (on)
+EU slaps Iran with oil embargo over nukes(CBS)
+欧盟在核问题上用石油禁运打击伊朗
+U.S. slaps new fees on Chinese solar panels(CBS)
+美国给中国太阳能面板加新费用
+U.S. Slaps Tariffs on Chinese Solar Panels(TIMES)
+美国给产自中国太阳能板增加关税
+Far-Right Politician in Greece Slaps Rival on TV(TIMES)
+极右翼政治家在电视上抽对手耳光
+U.S. House approves Russia trade bill with human rights slap(Yahoo)
+虽有人权问题被提出但国会仍批准与俄国贸易议案
+How a slap sparked Tunisia's revolution(CBS) 
+一个耳光如何引发突尼斯革命
+Citibank slaps customers with $15 monthly fee for checking (account)(LATIMES)
+花旗银行(在现有情况下)增加客户在活期存款账户15元每月的费用
+Senate slap of China a sign that patience is wearing thin on trade(The Christian Science Monitor)
+参院对中国抨击是一个迹象对贸易的耐心即将磨薄耗尽
+Mother: Boy slapped on plane is now apprehensive(CBS)
+在飞机上被掌掴的男孩现在很害怕的
+
+冲刺 猛冲 破折号 dash  
+Gatlin, Gay book London 100m dash berths
+加特林获得伦敦百米短跑参赛名额
+Hopes for Competitive Governor's Race in Ryazan Are Dashed(TIMES)
+州长选战竞争的希望正在冲刺
+
+向...讲述  tell (sb) of
+Jon Corzine tells House panel of 'stunned disbelief'(LATIMES) 
+琼向国会委员会讲述让人震惊的怀疑
+
+螺旋 盘旋 上升 增长 spiral/gyre
+Researchers: Ocean garbage gyre impacting sea life
+海洋垃圾的增多影响到海洋生物
+Western wildfires spiral out of control(CBS)
+西部大火在增强,已失去控制
+States face double fiscal whammy: Federal aid cuts and spiraling health-care costs(WAPOST)
+州政府面对双重晦气:联邦政府援助削减和医保成本上升
+UK govt defends Murdoch ties as scandal spirals(AP) 
+英政府为与默多克关系而辩解,由于丑闻盘旋连续增长
+Debt-reduction panel spirals toward failure(Reuters) 
+债务缩减委员会朝失败快速前进
+
+截获 拦截 intercept  截获电话 intercept call
+Hackers intercept FBI, U.K. police call(CBS)
+黑客截获联邦调查局和英国警察的通话
+
+掠过 冲入 storm  冲入大使馆 storm embassy
+In Tehran, Protesters Storm British Embassy(TIMES) 
+德黑兰示威者冲入洗掠英国大使馆
+
+公告出来 公布出来 pencil out
+Park closures just don't pencil out(LATIMES)
+公园关闭并没有公布出来
+
+得意 欢愉 使活跃 perk  购物快乐 perks of shopping  使活跃 增值 perk up
+The perks of shopping local on Black Friday(WAPOST) 
+黑色星期五本地购物的欢愉
+Consumer confidence perks up, house prices sag(Reuters) 
+消费者信心活跃起来,住房价格下跌
+
+开始 踢出 kick off  开始旅程 kick off tour  赶出飞机 kick off plane
+Clinton kicks off Africa tour with plaudits for Senegal(Yahoo)
+希拉里开始非洲之行在塞内加尔获得(plaudit)鼓掌喝彩
+Men punch pilot after being kicked off plane(CBS)
+男子拳击机长在被请出飞机后
+
+发出警告 raise alarm
+F. Sherwood Rowland, 84, Dies; Raised Alarm Over Aerosols(TIMES)
+罗兰德,提出烟(气)雾剂的警告
+
+碰到 冲撞 与..竞争 run against
+Mitt Romney may have to run against his own image(LATIMES)
+鲁梅尼可能已经与自己的形象竞争
+
+对..描述 阐述 account to sth/account of
+In His Own Hand, a Suspect's Account to a Grisly Crime(TIMES)
+在自己的手中,疑犯对恐怖的犯罪的描述说明
+Pakistan Rejects U.S. Account of Clash That Ended With Airstrike(TIMES)
+巴基斯坦拒绝美国对以空袭方式结束的冲突的叙述
+
+拧 扭 调整 胶着 tweak  调味道 tweak taste  调整边锋 tweak lineup
+The Flavorists: Tweaking tastes, creating cravings(CBS)
+调味师:调味道,制造美食渴望
+Turkey tweaks cult of national founder
+土耳其在对国家创立者的膜拜问题上拧起来了
+Orange Bowl deal helps spur playoff rotation tweak(Yahoo)
+协议帮助刺激循环季后赛的胶着
+Obama tweets for the first time, tweaks Republicans(Reuters)
+奥巴马首次喋喋不休,和共和党扭拧上了
+Texas tweaks lineup against lefty Garcia(AP)
+得克萨斯微调边锋阵容对付加西亚队左翼
+UN tweaks Libya arms embargo amid concern over spread of weapons(Yahoo)
+担忧武器扩散,联合国拧紧利比亚武器禁运
+
+阻碍 tie up/jam/bar  阻碍交通 tie up traffic
+Wall Street protesters tie up traffic in protests around the US; more than 200 arrested(WAPOST) 
+华尔街示威者阻碍交通
+
+沉溺 浸透 steep
+Final days of Obama campaign steeped in nostalgia(Yahoo)
+奥巴马选战最后的日子中沉溺于怀旧
+
+唤醒 激起 arouse 唤醒乐观主义 arouse optimism
+Jobs report arouses new optimism(LATIMES)
+就业报告唤醒乐观主义
+
+扰乱 使不舒服 unsettle/jar/shake
+Immigrant Worker Firings Unsettle Pomona College(TIMES)
+移民职员的解雇事情扰乱大学校园
+
+告知 透露 impart
+Investing star Charlie Munger imparts a final few words of wisdom(LATIMES)
+投资明星查理透露一些智慧的话
+
+产生能量 make power
+Project to pour water into volcano to make power(AP)
+将水倾注到火山中来产生能量的工程
+
+接纳 吸收 absorb  接受损失 absorb loss  接纳穷人 absorb poor
+Brazil's Boom Absorbs Haiti's Poor, For Now(TIMES)
+巴西的繁荣接纳海地的穷人
+Now it's Saints who should absorb a knockout blow(LATIMES)
+现在圣徒队应该吸取被击败的打击教训
+Home of Betty Ford's rehab center absorbs loss(AP) 
+前第一夫人福特故居修复中心接受损失
+
+蠕动 扭动 局促不安 squirm
+AutoSlash, a Rate Sleuth, Makes Rental Car Companies Squirm - Your Money(TIMES)
+费率调查让租车公司不自在
+Egypt's Islamists Tread Lightly, but Skeptics Squirm(TIMES)
+埃及伊斯兰者踏着轻声,但怀疑者仍旧不安
+British Tories Squirm as They Feel the Heat in Murdoch's Embrace(TIMES)
+英保守党员们难为情,好像他们感受到默多克拥抱的热度
+
+比较研究 study in contrasts
+China political star Xi Jinping a study in contrasts(LATIMES)
+对中国政治新星的对比比较研究
+
+飞离 离开 fly out of
+American activists fly out of Egypt, defusing row(Reuters)
+美国活动者离开埃及,平息争吵
+
+赞扬 laud/praise/acclaim
+Giants lauded as Super Bowl champs in NYC parade(AP)
+在超级碗冠军游行中,巨人队被赞扬
+Secure Despite Rocket Fiasco, N.Korea's Kim Lauds Military(TIMES)
+尽管火箭发射失败但安全的,朝鲜领导人称赞军事人员
+Community lauds victim of apparent school prank(Yahoo)
+社区称赞了非常明显学校恶作剧的受害者
+Obama designates Elisse Walter as new SEC chief, lauds Schapiro(LATIMES)
+奥巴马指定沃尔特为新的证监会主席,并称赞前任
+Obama lauds Polish democracy(Reuters) 
+奥氏称赞波兰民主
+UC Davis pepper spray cop once lauded(CBS) 
+加大戴维斯分校喷辣椒粉警察曾被称赞
+Pope Francis lauded for interfaith dialogue(Yahoo) 
+新教皇称赞不同信仰者的对话
+
+骑小马赢大马 play the pony and win big
+Qatar is playing the ponies, and winning big(WAPOST)
+卡塔尔是骑小马,赢大马
+
+挠痒痒 胳肢 tickle/itch  给大脑呵痒 tickle your brain
+TechBit: 94 Seconds tickles your brain with quick-fire quiz games(WAPOST) 
+用竞赛游戏给你大脑挠痒痒
+
+恐慌 拍打 [航]襟翼  flap
+Backlash over Komen-Planned Parenthood flap(CBS)
+在科曼计划生育不安上的反弹
+As birth control flap goes on, who benefits most? Santorum? Obama?(The Christian Science Monitor)
+由于生育控制摇摆继续,谁将获利最多
+Obama pushes back on 'You Didn't Build That' flap(Yahoo)
+奥巴马反击鲁梅尼指责其不重视小商业造成紧张的指责
+A tortilla flap over whether Henry's Tacos folds(LATIMES)
+有历史的亨利墨西哥卷饼店关闭与否导致玉米饼售卖紧张
+Nancy Grace tweets flashing flap"evidence"(CBS)
+南希推特发布闪光的拍打证据
+Huntsman: Mormon flap is 'ridiculous sideshow'(CBS)
+魔门教的忐忑不安是荒唐的杂耍表演
+New details emerge on HP-Hurd flap(Reuters) 
+关于惠普和赫德之间紧张的新细节出现
+
+鞭子 鞭打 抽打 lash  猛烈抨击 lash out at/rip against
+A Frustrated Gingrich Looks Past Iowa and Lashes Back at Romney(TIMES)
+泄气的格林里奇回看衣阿华州竞选,猛烈回击鲁梅尼
+Turks Lash Out at France Over Genocide Bill(TIMES)
+土耳其猛烈抨击法国种族灭绝议案
+Fran Drescher lashes out at Kirk Cameron(CBS)
+弗兰猛烈抨击卡梅隆
+Cuba lashes out at Gross health charges
+古巴猛烈抨击肥胖健康收费
+Rivals Lash Into French President Fran?ois Hollande(TIMES)
+对手猛烈抨击法国总统霍兰德
+Syrian State TV Lashes Out at Hamas Leader(TIMES)
+叙利亚政府电视痛击哈马斯领袖
+Wind and Rain From Irene Lash New York(TIMES)
+艾琳飓风带来的风和雨抽打纽约
+Saudi king spares female driver the lash(CBS)
+沙特国王宽恕女性司机的鞭刑
+Pakistanis lash out at U.S. over border fight(CBS) 
+巴基斯坦人痛批美国边境袭击
+
+展示力量 flex arm/flex muscles
+NASA rover flexes arm for first time on Mars(Yahoo)
+好奇号在火星上首次展示力量
+
+不理会 解散 驳回 dismiss  不理会道德的担忧 dismiss ethic worry  不理会批评 dismiss critic  驳回案件 dismiss case
+Newt Gingrich, in Sunday victory lap, dismisses ethics worries(LATIMES)
+金里奇在周日胜利中,不理会道德的担忧
+West dismisses Syria constitution vote as 'farce'(AP)
+西方不屑叙利亚宪法投票,认为是笑剧
+Obama dismisses critics of his apology to Afghans(CBS)
+奥巴马不理会对其向阿富汗人道歉的批评
+'Porn makers dismiss Santorum attack as pandering
+色情片制作商不理会桑多拉姆攻击其'诱人向恶
+Supreme Court dismisses case over whether plaintiffs must show harm to sue(WAPOST)
+最高法院驳回案件,原告必须出示诉讼伤害
+'Labor dismisses plebiscite 'stunt'(ABC) 
+英工党驳回公民投票(stunt)'惊人之举
+Parts of Suit Against Mets Owners Are Dismissed(TIMES)
+部分对纽约大都会球队所有者的诉讼被驳回
+
+拖延 drag on/last
+GOP slug-fest could drag on till June(LATIMES)
+共和党内激烈互殴会拖延到6月份
+
+数目上超过 数量超过 outnumber
+Women outnumber men on US Olympic team(Yahoo)
+美国奥运队女选手数目超过男选手
+Drug deaths now outnumber traffic fatalities in U.S., data show(LATIMES)
+数据显示毒品死亡人数超过交通事故死亡人数
+Natives soon will outnumber newcomers in L.A. County(LATIMES)
+本地人口很快就要在数量上超过外来人口了
+
+怒发冲冠 引发怒火 raise hackle 颈上的羽毛 hackle 
+Embassy Changes by Congo Republic in Capital Raise Hackles(TIMES) 
+刚果共和国大使馆改变事件在首都引起怒气
+
+驱逐 expel/expulse(expulsion)/evict  驱逐外交代表 Expel Diplomat  驱走担忧 Expel the Fear
+Britain Shuts Vandalized Embassy in Tehran and Expels Iranian Diplomats(TIMES) 
+英国关闭被肆意破坏的大使馆并驱逐伊朗外交代表
+Libyans Struggle to Expel the Fear That Qaddafi Bred(TIMES)
+利比亚人努力驱散对卡扎菲再次滋生的担忧情绪
+
+担忧 fear   担忧肥胖 fear obesity
+Baby boomers fear cancer, should fear obesity(CBS)
+婴儿潮担忧癌症,应担忧肥胖
+
+肘击 胳膊肘 elbow  肘击某人 elbow sb  红肿的胳膊肘 inflamed elbow
+Metta World Peace suspended seven games for elbowing James Harden(LATIMES)
+阿泰斯特因肘击哈登被禁赛7场
+Zach Greinke has inflamed elbow, gets injection(Yahoo)
+扎克肘部红肿的,需要注射治疗
+
+举枪自杀 turn gun on self
+Man kills 2 Edison co-workers before turning gun on self(LATIMES) 
+男子杀死两名同事在对自己举枪自杀前
+
+复制 replicate
+Chinese Village's Revolution Unlikely to Be Replicated(TIMES)
+村庄的革命不可能被复制
+
+预测 foretell/predict/foresee
+Los Angeles riots: Gangsta rap foretold them and grew after them(LATIMES)
+hip-hop音乐预测会流行增长
+
+写 pen/write  写出所有东西 pen tell-all
+Watch: Monica Lewinsky to pen tell-all?(CBS)
+莱温斯基要合盘的写出所有事
+
+跟踪 track  跟踪海盗 track pirate  追查资产 track down asset
+Tracking Somali Pirates to Their Lair(TIMES)
+跟踪索马里海盗到他们的巢穴
+Officials track down assets of disgraced Iowa CEO(Yahoo)
+丢脸的CEO被官方追查资产
+Arson suspect's anti-American rant helped track him, authorities say(LATIMES)
+纵火疑犯反美的高调说话帮助警察跟踪到他,当局说
+
+保持立场 keep stand on
+Methodists vote to keep stand on homosexuality
+严守教规者投票保持在同性恋上立场
+
+发起 申请 file for
+Troubled brokerage files for Ch. 7 liquidation(Yahoo)
+有问题的经纪机构发起清算申请
+Private equity giant Carlyle files for IPO(Reuters)
+私募巨人申请上市
+Kris Humphries files for annulment, citing fraud(CBS) 
+克里斯申请废除判决,引述诈骗
+
+翻转 turn over
+B. Clinton: Romney's dad "turning over" in grave(CBS)
+鲁梅尼的父亲在坟墓中翻滚
+
+放弃 摈弃 forego  前述的 上述的 foregoing 
+The Thiel Fellows, Forgoing College to Pursue Dreams(TIMES)
+放弃大学去追求梦想
+
+舞台 阶段 上演 举行 展示 stage  做了开枪举动 stage shooting  举行坦克演习 stage tank exercises  早期阶段痴呆 early-stage dementia
+Cop who staged shooting may serve only fraction of sentence(LATIMES) 
+做了开枪的警察可能仅承担小部分的判决
+Turkish military stages tank exercises near Syria border(Yahoo)
+土耳其军方举行坦克军演
+Courtney Love erupts on stage over Cobain photo(CBS) 
+科特尼的爱通过科佩恩的照片暴露
+Ex-QB Jim McMahon talks of early-stage dementia(Yahoo)
+吉姆谈到早期阶段痴呆
+
+跳下 开始 jump off   从楼顶跳下 jump off roof   跌落下舞台 fall off stage
+Student who jumped off high school roof was bullied, parents say(LATIMES)
+从楼顶跳下的学生被欺负,其父母说
+"Idol" Scotty McCreery falls off stage during concert(CBS)
+偶像斯科蒂在音乐会期间掉下舞台
+
+脱臼 扰乱 dislocate  脱臼的膝盖 dislocated knee
+Lattimore dislocated knee and has ligament damage(Yahoo) 
+拉蒂默尔膝盖脱臼并且韧带撕裂
+
+拥抱 cuddle/hug/embrace
+Watch: Gorilla and child cuddle in home video(CBS)
+在家庭视频中大猩猩和孩子拥抱
+
+猛击 打击 batter/bombard  攻击城市 batter city
+Syrian army batters parts of Damascus, 47 killed(Yahoo)
+叙利亚军队攻击大马士革部分区域
+
+通过 flow through
+China's Push for Electric Cars Flows Through Grid Operators(TIMES) 
+中国对电动汽车行业的推动通过了电网运营商支持
+
+优先于 处在前面 precede 先例 precedent 有先例的 precedented  无先例的 空前的 unprecedented
+Civics 101: Health care and legal precedents
+城市的101:医保和立法的先例
+Concerns About Racism Precede European Soccer Championships(TIMES)
+对于种族问题的关注优先于欧洲杯
+
+污染 玷污 taint/contaminate  被铅污染的 tainted by lead
+Joe Paterno, revered coach tainted by scandal, dies(Reuters)
+乔,一个受人敬仰的却被丑闻所影响的教练死去
+Haiti's Cholera Outraced the Experts and Tainted the U.N.(TIMES)
+海地霍乱感染专家们并污染联合国驻地
+16 L.A. businesses accused of selling jewelry tainted with lead(LATIMES)
+16家洛杉矶商业机构被指控售卖被铅污染的珠宝
+More die from tainted Spanish cucumbers(ABC)
+来自西班牙的污染黄瓜导致多人死亡
+Woman accused in penis attack may have tainted victim's tofu soup(LATIMES)
+阴茎损害案中被指控妇女,可能已经污染受害者豆腐汤
+Listeria-tainted shredded lettuce recalled (CBS)
+李氏杆菌污染的碎的生菜记忆
+
+点亮 burn bright
+Berlin Journal: Germany's Capital Burns Bright, and Without Explanation(TIMES)
+德国首都燃烧点亮,但没有解释说明
+
+代人受过 take the fall
+Could Murdoch deputy Hinton take the fall?(Reuters) 
+默多克副手代人受过
+
+空中滑翔 paraglide
+Wounded Vets Try Paragliding From Wheelchairs(TIMES)
+受伤的老兵尝试坐轮椅滑翔降落
+
+绝育 消毒 sterilize
+Sterilized by North Carolina, she felt raped once more(LATIMES)
+被北卡州消毒,她感到再次被强奸
+
+使混乱 confound
+Greece confounds euro zone, Spain not seen seeking bailout(Yahoo)
+希腊让欧元区混乱,西班牙未看到寻求援助
+
+有明码实价 have a price  是有代价 come with a price
+Flattering News Coverage Has a Price in China(TIMES)
+谄媚的新闻报道有明码实价
+Anti-tax group's support can come with a price(LATIMES) 
+反税集团的支持是有代价的
+
+紧握 掌握 grip 保持对权利的绝对控制 keep grip on power  城市一直短缺 shortages grip city  城市骚乱不止 upheaval grips city
+Chinese Security Chief Seems to Keep Grip on Power(TIMES)
+安全部门视乎保持对权利的绝对控制
+Shortages grip Libyan capital as rebels hunt Gaddafi(Reuters)
+当反对派搜捕卡扎菲时, 短缺抓紧利比亚首都
+Upheaval Grips South Africa as Hopes for Its Workers Fade(TIMES)
+由于工人的希望破灭,南非产生动乱
+Heavy fighting loosens Gbagbo grip on Ivory Coast
+激烈战斗放松巴博对科国的紧握
+Is Eric Holder's grip on the 'Fast and Furious' fiasco slipping?(The Christian Science Monitor) 
+霍德尔掌控住快速下滑的失败了吗
+
+首次露面 debut  让孩子首次露面 debut baby  首秀 make debut
+Beyonce debuts her baby bump at VMAs, will be first kid with Jay-Z(CBS)
+碧昂斯首次将与Jay-Z的孩子向公众露面
+Royal makes Olympic equestrian debut(CBS)
+皇室揭开奥运骑师首秀
+
+摇摆 影响 sway  影响到下一任领导 Sway Next Leader
+Advocates of Iran Sanctions Try to Sway Next Chinese Leader(TIMES)
+伊朗制裁的支持者试图影响到下一任中国领导人
+Tea Party unlikely to sway Fla. primary(CBS)
+茶党不可能影响到佛州初选
+
+战胜 大胜 完胜 overwhelm/rout/defeat/beat  压倒性地 overwhelmingly
+US overwhelms Australia 119-86 in Olympic hoops(Yahoo)
+美国对在篮球赛上横扫澳大利亚
+Bill to dissolve Vernon overwhelmingly approved by state Assembly
+解散法案压倒性过州议会
+Williams overwhelms Azarenka early at US Open(AP)
+威廉姆斯在美国公开赛上完胜对手
+Amanda Knox: I'm overwhelmed(CBS)
+我完全被打败了
+
+淹没 覆盖 压垮 overwhelm/engulf/bear down
+Need Overwhelms Makeshift Clinic in Syria Camp(TIMES) 
+在叙利亚校园,医疗需求淹没临时诊所
 
 窒息 塞满 choke  阻塞 阻碍 choke up/obstruct  锁喉 掐住脖子 choke hold
 Man strangling baby is subdued by cop's choke hold(CBS)
@@ -9308,9 +10783,19 @@ Bread queues, destruction as war comes to Damascus(Yahoo)
 Pies thrash dispirited Roos(ABC) 
 派斯打败沮丧的鲁斯
 
-功亏一篑 fall short on
+功亏一篑 不足 fall short (of/on)
+Facebook IPO falls short of the hype(LATIMES)
+脸谱上市没达到夸大宣传的目的
+Greek bond swap falling short, governments may fill gap: sources(Reuters)
+希腊债券交易不足,政府填平缺口
+Aiming for Clarity, Fed Falls Short in Some Eyes(TIMES)
+想进行特勤局丑闻澄清,但政府在很多人看来做的不足
+Murray falls short as British wait continues(Yahoo)
+墨菲输给费德勒功亏一篑,结果英国人要继续等待本土冠军
 Obama, lawmakers fall short on debt deal(Reuters) 
 奥巴马和国会在债务谈判上功亏一篑
+International aid to Somalia famine falls short(CBS)
+国际援助索马里饥荒计划功亏一篑
 
 没收 扣押 impound  扣押飞机 impound plane
 L.A. Police Commission approves easing of car impound rules(LATIMES)
@@ -12863,7 +14348,7 @@ In Western Washington, Gas Prices Buck the Trend(TIMES)
 Serial killer's lone survivor torn by conscience(LATIMES) 
 连环杀手孤独的幸存者受良心折磨
 
-冷落 怠慢 蔑视 嗤之以鼻 拒绝 snub/rebuff/spurn/scorn/spurn/decline/slight/contempt/neglect/dismiss/reject/thumb one's nose at 拒绝追求拉关系 spurn advance
+冷落 怠慢 蔑视 嗤之以鼻 拒绝 snub/rebuff/spurn/scorn/spurn//belittle/decline/slight/contempt/neglect/dismiss/reject/thumb one's nose at  国际上蔑视 int'l scorn 拒绝追求拉关系 spurn advance
 Soccer Fans' Chants Fire Up Home Team or Slight the Opponent(TIMES)
 足球迷们的高唱激怒主队,轻蔑对手
 Syria's first lady faces sanctions, contempt
@@ -12894,6 +14379,8 @@ White House spurns Republican offer on 'fiscal cliff' negotiations(LATIMES)
 白宫轻蔑拒绝共和党提出的财政悬崖协商
 Libya rebel truce offer spurned amid battle for Brega(AFP)
 利反对派停火协议被蔑视拒绝
+Syria facing renegade troops, int'l scorn(CBS) 
+叙利亚面对背叛的军队和国际范围蔑视
 
 冷漠对待 受冷落 give the cold shoulder/get the cold shoulder
 White House 'cliff' offer gets GOP cold shoulder(Yahoo)
@@ -17260,9 +18747,11 @@ On the Road: Flying a Circuitous Route May Land the Best Fare(TIMES)
 An electrical engineer's circuitous path to entrepreneurship(WAPOST)
 一个电气工程师成为企业家迂回之路
 
-悬而未决 up in the air/pending
+不确定的 悬而未决的 up in the sky(air)/pending
+Companies look for power way, way up in the sky(AP) 
+公司寻找变强之路,但道路是不确定的
 Honolulu rail project up in the air, again(LATIMES) 
-檀香山铁路工程悬而未决
+檀香山铁路工程目前是悬而未决的
 
 无结果的 非决定性的 inconclusive
 Inconclusive Italian elections roil European, Asian financial markets(WAPOST)
@@ -17723,6 +19212,271 @@ Budding Environmental Movement Finds Resonance Across China(TIMES)
 巨大的 titanic/vast  巨大的努力 titanic struggle
 Axelrod: Obama faces 'titanic struggle'(AP)
 奥巴马面对巨大的努力
+
+繁盛的 丰富的 exuberant
+2013US auto industry exuberant heading into 2013(Yahoo)
+美国汽车工业繁盛的进入
+
+裸的 裸体 nude/naked  裸体照 nude photo  摆出裸体姿势 pose nude
+Airport stripper says he was 'nude but not lewd'
+机场清洁工说他裸体但不猥琐下流
+Prince Harry pal blasts 'despicable' nude photo leaker(Yahoo)
+哈里王子斥责卑鄙的裸体照片泄露者
+Nude dip in holy sea puts Kansas rep. in spotlight(Yahoo)
+堪萨斯州代表在以色列裸体跳入圣海引发关注
+Egyptian activist poses nude, inciting furor(CBS) 
+埃及政治活跃分子摆出裸体,煽动狂热
+
+刚被水淹没的 泛滥的 awash
+Awash in liquidity, the global economy remains sluggish(WAPOST)
+流通性方面泛滥,全球经济保持乏力
+
+意见一致的 无异议的 unanimous
+Mayweather wins unanimous decision over Cotto(CBS)
+梅威瑟赢得裁判一致同意的决定
+Verlander wins AL Cy Young in unanimous vote(AP) 
+维兰德在一致同意的投票中获胜
+House Tax deal vote Fri. needs unanimous consent(CBS) 
+国会税议案周五投票,需要一致性的同意
+
+国外的 abroad  来自国外的人 from abroad
+For Obama abroad, side issues tend to befall him
+对于奥巴马国外的活动,枝节问题发生
+From Abroad, Trying to Mold a Post-Assad Syria(TIMES)
+来自国外的人,试图建立后阿萨德的叙利亚
+CFTC investigates JPMorgan loss, argues against derivatives loophole abroad(WAPOST)
+调查大摩损失,在对付衍生的国外交易漏洞上有争论
+Brits say being drunk abroad is national trait(ABC)
+英国人说国外醉酒是其国家特征
+Kerry makes calls abroad in first weekend on job(Yahoo)
+克里接任国务卿第一周给各国通电话
+
+基于资深者的 基于年长者的 seniority-based 
+L.A. Unified settlement bypassing seniority-based layoffs nullified(LATIMES)
+洛杉矶联合学区绕过年长者解雇的解决方案被废弃
+
+实体的 有形的 tangible 有形资产 tangible asset
+Investors put money into more tangible assets: Art. Wine. Winnie-the-Pooh?(WAPOST)
+投资者将钱投入到更多的有形资产
+
+悲惨的 tragic  悲惨的爱情 tragic love  悲惨的困境 tragic plight
+Baryshnikov in 'In Paris,' a Tragic Love Story(TIMES)
+在巴黎一个悲惨的爱情故事
+In battered Syrian city, cries of `tragic' plight(AP)                                                                                                                                                  
+在战争中叙利亚城市悲惨的境况的哭喊
+
+傲慢的 高尚的 高的 lofty
+Overnighter: Moganshan, China, a Lofty Retreat from Sweltering Shanghai(TIMES)
+去莫干山避暑,一个高尚的撤离,离开酷热的上海
+
+难以置信的 fabulous  巨额的财富 难以置信的财富 Fabulous Wealth
+Television Review: 'Absolutely Fabulous' 20th Anniversary Specials - Review(TIMES)
+电视评论:'绝对地难以置信的',第二十届年度特别事物
+Ties to Putin Generate Fabulous Wealth for a Select Few(TIMES)
+为与普京有关系的精选的几个人创造大量的财富
+
+同情的 sympathetic(sympathy/sympathize)/compassionate(compassion)
+Poll: 30% think Muslims sympathetic to terrorists(CBS)
+30%的穆斯林对恐怖分子是同情的
+
+巨大的 jumbo
+Jumbo squid invasion attracts eager anglers(LATIMES)
+巨大的乌贼入侵吸引来热心的钓鱼者
+
+外部的 外面的 outer  外岸 outer bank   外部边缘 outer band
+Irene's outer bands reach N.C.(CBS)
+艾琳外部的边缘风带,抵达北卡州
+Highway 12, Outer Banks Lifeline, Is Under Siege by Nature(TIMES)
+12号高速公路,外岸的生命线,处于自然灾害的围困
+
+寒冷的 frigid/chilled/cool/chilly
+Police: Alaska girl locked in frigid bedroom dies(AP)
+阿拉斯加女孩被锁在极寒冷的卧室死亡
+Revelers gather in NY's frigid Times Square on New Year's Eve(Yahoo)
+新年前夕狂欢者聚集在寒冷的时代广场
+
+可恶的 讨厌的 darned   缝补 织补 darn
+NJ Gov. demands Irene aid now, budget cuts be darned(CBS)
+新泽西州府要求艾琳救助,预算削减是可恶的
+
+狭窄的 使变窄 narrow  缺口变小 gap narrow
+Second Greek bailout in reach, funding gap narrows(Reuters)
+第二轮希腊救援协议达成,资金缺口减小
+
+免疫的 不受影响的 immune(immunity)  免疫系统 immune system
+Immune System, Loaded With Remade T-cells, Vanquishes Cancer(TIMES)
+免疫系统,装入再造的T细胞,战胜癌症
+
+欺骗性的 deceptive/misleading
+Regulators want Avalon to clean up its deceptively clear water(LATIMES)
+管理者要求公司清除它欺骗性的净水
+Old photos may be deceptive in Fla. shooting case
+在佛罗里达州枪击案件中,旧照片将是欺骗性的
+
+选择性的 selective
+S&P downgrades Greece to selective default(Reuters)
+标准普尔将希腊将为选择性的违债
+
+调和的 安抚的 conciliatory  抚慰 调解 conciliate 
+Harry Reid says he will be "conciliatory"(CBS) 
+哈里说他将会是安抚的
+
+史诗 史无前例的 epic  史无前例的暴雨 epic downpour  爱国的史诗 patriotic epic
+An Epic Downpour Exposes a Creakier Beijing(TIMES)
+一场史无前例的暴雨暴露了破陋的北京城
+Waiting for Harry, Chinese Filmgoers Get Patriotic Epic(TIMES)
+等待哈利波特,中国影迷得到爱国的史诗影片
+
+虔诚的 pious
+Enemies of Assad in Syria fit a mold: Poor, pious, rural(CBS)
+阿萨德的敌人都符合一种模型:贫穷的,虔诚的,乡下的
+
+全面的 所有的 across-the-board
+Sequestration could mean across-the-board pain(CBS)
+没收意味着所有的痛苦
+
+地缘政治的 geopolitical  地缘政治对手 geopolitical adversary  地缘政治敌人 geopolitical foe
+White House declares Al Qaeda 'No. 1 geopolitical foe'(LATIMES)
+白宫宣布基地组织是第一号地缘政治的敌人
+Mitt Romney calls Russia 'geopolitical adversary'(LATIMES)
+鲁梅尼成俄国是地缘政治的对手
+
+合理的 正当理由的 justified
+"ECB's Noyer says French downgrade "not justified"(Reuters) 
+欧洲央行说法国信用降级是"没有正当理由的
+
+不可计算的 不可估量的 incalculable  难以估量的破坏 incalculable damage
+Obama to warn of 'incalculable damage' if no debt deal(AFP)
+奥巴马警告如果没有债务议案,会造成不可计算的损失
+
+应受谴责的 reprehensible  批评 reprehend
+Reprehensible Behavior Is a Risk of Combat, Experts Say(TIMES)
+应受谴责的行为是打斗的风险
+Diamond admits traders' behavior "reprehensible"(Yahoo)
+戴蒙承认交易员行为是因受批评的
+Christie: NRA ad on Obama daughters "reprehensible"(CBS)
+步枪协会针对奥巴马女儿的负面宣传广告是该受指责的
+
+不稳定的 波动的 volatile  易变化的数据 volatile data
+Economix Blog: How Bureau of Labor Statistics Tames Volatile Raw Data for Jobs Reports(TIMES)
+劳工部就业报告统计数字修改易变化的原始数据
+ECB bond plan boosts euro; dollar volatile(Reuters)
+欧洲中央银行债券计划加强欧元,美元是波动的
+
+陡峭的 steep  最大的下跌 steepest decline  高关税 steep duty
+Dow falls 512 in steepest decline since '08 crisis(AP)
+道指发生最陡峭的跌落
+U.S. sets steep final duties on Chinese solar panels(Yahoo)
+美国给中国太阳能板设定高关税
+
+不打草稿的 unscripted  无草稿的对话 unscripted dialogue
+Biden's unscripted moments keep campaign on its toes(LATIMES)
+拜登无草稿的讲话时刻对选战保持不退让
+
+猛烈点 wildly  变化巨大 vary wildly
+Study: Appendix surgery costs vary wildly in US(CBS)
+阑尾手术价格变化巨大
+Around world, gun rules, and results, vary wildly(Yahoo)
+世界范围枪支管理和其后果变化很快
+
+食尸鬼似的 残忍的 ghoulish
+NYC officer detained in ghoulish kidnap plot(Yahoo)
+在恐怖的绑架阴谋中纽约官员被捕
+
+超薄的 super-thin
+At CES 2012, the worlds of tablets and super-thin laptops will start to blur(WAPOST)
+在CES大会上,平板电脑和超薄笔记本界限变模糊
+
+替代的 选择 alternative
+Pension Funds Making Alternative Bets Struggle to Keep Up(TIMES)
+进行替代赌博的退休基金努力保持升值
+Conservative Romney alternatives vie for Iowa edge(AP)
+保守的鲁梅尼为衣阿华州竞争取胜的选择
+Paul emerges as outsider alternative in GOP race(AP) 
+保罗出现作为改变共和党内竞选的局外人选择
+
+摇晃的 不牢固的 rocky  不稳定的关系 Rocky Relations
+GOP candidate Rick Santorum's rocky ascendency to the national stage(CBS)
+桑多拉姆不牢固的优势
+Philippines Navigates Rocky Relations With China(TIMES) 
+菲律宾同中国的关系趋向不稳定
+
+独眼的 one-eyed
+Diplomat knew Algeria attack leader as his captor, one-eyed "Jack"(Yahoo)
+外交官视阿尔及利亚袭击首领为劫持者独眼龙杰克
+
+臭的 发臭的 stinky
+Stinky fish helps limit potfest at Colo university
+臭鱼限制大麻狂欢节
+
+宗教间的 interreligious/inter-religious
+Pope Benedict XVI ends Lebanon trip, urges interreligious harmony(LATIMES)
+教皇结束黎巴嫩之行,要求各宗教间协调一致
+
+单方的 单边的 unilateral  单方面缴械 unilateral disarm  单方打击 unilateral strike
+GOP 'super PAC' leader: On fundraising, 'neither side is going to unilaterally disarm'(The Christian Science Monitor) 
+共和党新势力领导:在筹款方面,没有哪一边将单方面缴械
+Israel's Peres Criticizes Talk of Unilateral Iran Strike(TIMES)
+以色列批评单边打击伊朗的讨论
+
+探险的 探测的 exploratory   探测的油井 exploratory oil well
+Repsol: Exploratory oil well off Cuba comes up dry
+古巴外探测的油井变干枯
+
+有特色的 与众不同的 distinctive/characteristic
+Distinctive salutes run the political gamut
+有特色的致敬存在于政治范畴
+
+微小的 苗条的 瘦的 slim  红肉渣 经过氨消毒的做狗粮原料 被快餐业大量使用 pink slime
+Paul: Odds of winning presidency slim but possible(AP)
+赢得总统选举胜利的奇迹机会是微小的,但是可能的
+Schools getting choice on beef: Pink slime or no?
+学校选择牛肉标准:粉红肉渣还是其他
+Kenya: Jubilation after slimmest of election leads(Yahoo)
+在最微弱的选举领先胜利后的欢呼庆祝
+
+空的 空白的 vacant
+NYC Occupy protesters scale fence at vacant lot(CBS) 
+纽约市占领示威者在空的停车场扩大栅栏范围
+Alleged maternity hotel now appears to be vacant(LATIMES)
+所谓的孕妇的旅馆现在似乎是空的了
+
+潮湿的 使潮湿 抑制 damp/dampen  灭火 damp fire
+UK police under scrutiny as Murdoch tries to damp fire(Reuters)
+由于默多克试图灭火,英国警察在彻底检查检讨
+
+有细微差别的 nuanced  细微差异 nuance  遮盖细微差别 overshadow nuance
+D.A. candidates take a nuanced view on crime-fighting(LATIMES)
+在打击犯罪问题上,多名地区检察官候选人观点有稍许差异
+More nuanced view of Roberts after health care law(Yahoo) 
+医保法案后,罗伯特更加细微的视角
+Election-Year Stakes Overshadow Nuances of Benghazi Investigation(TIMES)
+选举年双方较劲让,遮盖住了班加西事件调查的细微差别
+
+困难的 棘手的 别扭的 尴尬的 awkward/embarrassed
+KLM offers way to avoid awkward in-flight chats(WAPOST)
+荷兰皇家航空提供方式,避免别扭的飞行中聊天
+Man named in Connecticut shooting recalled as shy, awkward(LATIMES)
+康涅狄格州枪手性格被旧友视为害羞的尴尬的
+US caught in awkward embrace of Myanmar 'crony'(Yahoo)
+美国在与缅甸密友别扭的拥抱中被捕捉到
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
