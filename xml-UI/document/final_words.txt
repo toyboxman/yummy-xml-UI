@@ -11006,9 +11006,11 @@ Coroner: No proof Jackson gave self fatal dose(CBS)
 Kremlin Points to Medvedev Speech as Proof of Change(TIMES) 
 克里姆林宫指出梅德韦杰夫讲话就是改变的证明
 
-八卦 gossip/shoot the breeze
+八卦 流言  gossip/shoot the breeze
 Small-Town Gossip Moves to the Web, Anonymous and Vicious(TIMES)
-小城八卦上了互联网,匿名的和恶毒的
+小城八卦由匿名的和恶毒的人弄上了互联网
+The Gossip Machine, Churning Out Cash(TIMES)
+流言制造机大量产生(粗制滥造)现金
 
 单轨铁路 monorail  跳下单轨车 jump off monorail
 Man jumps off Bronx Zoo monorail, mauled by tiger(Yahoo)
@@ -15637,12 +15639,6 @@ Ind. prison drug ring shows contraband phone risks(Yahoo)
 Smugglers find creative ways to move contraband (AP)
 走私者找到创造性方式运送走私品
 
-八卦 流言  gossip/shoot the breeze
-Small-Town Gossip Moves to the Web, Anonymous and Vicious(TIMES)
-小城八卦由匿名的和恶毒的人弄上了互联网
-The Gossip Machine, Churning Out Cash(TIMES)
-流言制造机大量产生(粗制滥造)现金
-
 环 圈 箍 ring/hoop  边框 rim
 A 5-Ring Circus: Olympic Opening Is Oddly, Confidently British(TIMES)
 奥运五环竞技场,开幕式是奇异的,自信的英国人
@@ -16213,23 +16209,79 @@ Romney sails through soft Republican debate(Reuters)
 U.S. gymnasts sail through first round(CBS)
 美国体操队轻松通过第一轮
 
-搅动 翻腾 扰乱破坏 churn/roil/disturb/disorder/stir/disrupt/bother/play(wreak) havoc with/dislocate/unsettle
-Tropical Storm Ernesto churns toward Jamaica(Yahoo)
-热带风暴翻腾前往牙买加
-Tropical Storm Lee churns to Gulf Coast(CBS)
-热带风暴李搅动着墨西哥湾沿岸
+破坏 churn/wreak havoc
 Over 1.5 million without power as Sandy churns(CBS)
-由于风暴桑迪搅乱生活超过150万人没有电 
+由于风暴桑迪破坏生活超过150万人没有电 
+Rare October snowstorm wreaks havoc in Northeast(AP)
+罕见的十月风暴肆虐东北部
+
+搅乱 混乱 disarray/snarl/disturb/disorder/disrupt/bother/dislocate  让交通瘫痪 snarl traffic  使陷入混乱 leave sb in disarray
+Effort to put marijuana legalization measure on ballot is in disarray(LATIMES)
+让大麻合法化投票的努力,变成乱七八糟
+Rush for Christmas start leaves NBA in disarray(AP) 
+匆忙的诞节前开战安排,让NBA陷入混乱
+Kuwait protesters disrupt parliament(CBS) 
+科威特示威者扰乱议会
+Miracle Mile shooting shuts Wilshire, snarls traffic(LATIMES)
+洛杉矶地区枪击事件让交通混乱不堪
+Sepulveda Pass brush fire snarls traffic; Getty Center evacuated(LATIMES)
+丛林大火使交通混乱
+Winter storms hit eastern U.S., snarl post-holiday travel(Yahoo)
+风暴袭击美国东部,造成节后交通混乱
+Surfacing: In Amman, Unwinding From the City's Snarl(TIMES)
+安曼城,从混乱中恢复
+California windstorm snarls traffic, leaves 340,000 without power(LATIMES) 
+加州大风暴搅乱交通,让30多万人断电
+
+脱臼 dislocate  脱臼的膝盖 dislocated knee
+Lattimore dislocated knee and has ligament damage(Yahoo) 
+拉蒂默尔膝盖脱臼并且韧带撕裂
+
+牵连 涉及 卷入 implicate/embroil/involve/entangle 
+Player regrets getting entangled with match-fixing(Yahoo)
+球员后悔卷入假球案
+Barclays ex-CEO avoids implicating UK authorities(Yahoo)
+巴克莱前CEO避免与英国当局有牵连
+Trial Implicates Bo Xilai in Heywood Cover-up(TIMES)
+审判将薄牵涉到案件掩盖中
+New Study Implicates Environmental Factors in Autism(TIMES)
+新研究涉及孤独症环境因素
+More U.S. agencies implicated in Mexico gun-trafficking probe(LATIMES)
+很多美政府机构牵涉到枪支非法交易调查中
+U.S., China embroiled in trade spat over chicken feet(WAPOST) 
+美中两国被卷入鸡腿贸易争吵
+
+纠纷 纠缠 tangle/twist 和犯罪活动有瓜葛 tangled in criminal activity
+Santorum and Gingrich tangle over leadership(LATIMES)
+桑多拉姆和金里奇在领导力上发生纠缠
+Supreme Court to enter tangled Texas redistricting case(The Christian Science Monitor)
+高等法院介入纠缠的德州重新划分选区的案子
+Fishermen free tangled whale that went missing
+渔夫们释放了被缠住的鲸鱼,鲸鱼不知所踪了
+Afghan police units tangled in criminal activity(LATIMES)
+阿富汗警察部门和犯罪活动有瓜葛
+
+解开 untangle  理清措施 untangle measure
+Ministers seek to untangle measures to help euro(Yahoo)
+部长们寻求理清救助欧元的措施
+
+搅拌 搅动 churn/roil/stir/unsettle
+Tropical Storm Ernesto churns toward Jamaica(Yahoo)
+热带风暴肆虐前往牙买加
+Tropical Storm Lee churns to Gulf Coast(CBS)
+热带风暴李肆虐着墨西哥湾沿岸
+Over 1.5 million without power as Sandy churns(CBS) 
+由于风暴肆虐超过150万人没有电
 Pala tribe roiled by bloodline dispute(LATIMES)
 帕拉部落被血统争论搅动
 Coast to coast, Jobs' death stirs emotions(CBS)
 乔布斯的去世搅动着横跨国家大陆的情感
 Immigrant Worker Firings Unsettle Pomona College(TIMES)
 解雇移民职员的事情扰乱大学校园
-Rare October snowstorm wreaks havoc in Northeast(AP)
-罕见的十月风暴扰乱破坏东北部
-Kuwait protesters disrupt parliament(CBS) 
-科威特示威者扰乱议会
+
+大量产生 粗制滥造 churn out
+Companies churn out profits but not jobs(Reuters)
+公司炮制利润,但未增加工作
 
 震动 jar/shock/jolt/rattle/rock
 Anti-U.S. protests jar Mideast with message of uncertainty(LATIMES)
@@ -17027,16 +17079,6 @@ Annan resigning as UN envoy to civil-war wracked Syria(LATIMES)
 Saturn wracked by monster tempest(CBS) 
 土星被巨大的风暴毁坏
 
-牵连 涉及 implicate/embroil/involve
-Barclays ex-CEO avoids implicating UK authorities(Yahoo)
-巴克莱前CEO避免与英国当局有牵连
-Trial Implicates Bo Xilai in Heywood Cover-up(TIMES)
-审判将薄牵涉到案件掩盖中
-New Study Implicates Environmental Factors in Autism(TIMES)
-新研究涉及孤独症环境因素
-More U.S. agencies implicated in Mexico gun-trafficking probe(LATIMES)
-很多美政府机构牵涉到枪支非法交易调查中
-
 皮带扣 扣住 屈服 buckle  发誓不屈服 vow not to buckle  扣好安全带 buckle up
 Author of U.S. online piracy bill vows not to buckle(Reuters)
 美国网络盗版议案作者发誓不再屈服
@@ -17076,16 +17118,6 @@ On Wall Street, realization is sinking in over the elusiveness of 'fiscal cliff'
 华尔街认识到财政悬崖协议的不确定性正在消失
 Russian Drilling Rig Sinks Off Sakhalin, 51 Missing(TIMES) 
 俄国钻探平台沉入萨哈林岛,51人失踪
-
-交织 纠葛 卷入 发生争吵 tangle/embroil/entangle/twist/snarl 和犯罪活动有瓜葛 tangled in criminal activity
-Supreme Court to enter tangled Texas redistricting case(The Christian Science Monitor)
-高等法院介入纠缠的德州重新划分选区的案子
-Santorum and Gingrich tangle over leadership(LATIMES)
-桑多拉姆和金里奇在领导力上发生争吵
-Fishermen free tangled whale that went missing
-渔夫们释放了被缠住的鲸鱼,鲸鱼不知所踪了
-Afghan police units tangled in criminal activity(LATIMES)
-阿富汗警察部门和犯罪活动有瓜葛
 
 打起精神 随时应对的准备 keep one's powder dry
 Gingrich keeping his powder dry, almost(CBS) 
@@ -17424,16 +17456,6 @@ Deadly blizzard paralyzes Great Plains(CBS)
 突然出现 crop up/appear
 Poll problems cropping up in spots around US(Yahoo)
 民调问题在美国很多地方突然出现
-
-搅拌 搅动 churn  大量产生 粗制滥造 churn out
-Tropical Storm Ernesto churns toward Jamaica(Yahoo)
-热带风暴搅动牙买加
-Over 1.5 million without power as Sandy churns(CBS) 
-由于风暴搅乱超过150万人没有电
-Companies churn out profits but not jobs(Reuters)
-公司炮制利润,但未增加工作
-Tropical Storm Lee churns to Gulf Coast(CBS)
-热带风暴李搅动着墨西哥湾沿岸
 
 爆发 break out/burst/erupt
 Fistfight breaks out at Chicago Symphony Orchestra(CBS)
@@ -17934,18 +17956,6 @@ Discharged for Being Gay, Many Seek to Re-enlist(TIMES)
 懊悔 自责 remorse
 JPMorgan remorse on Bear Stearns prompts question: Were crisis mergers worth it?(WAPOST) 
 摩根懊悔于贝尔提出的问题
-
-使混乱 搅乱 怒吠 snarl/tangle/twist  让交通瘫痪 snarl traffic
-Miracle Mile shooting shuts Wilshire, snarls traffic(LATIMES)
-洛杉矶地区枪击事件让交通混乱不堪
-Sepulveda Pass brush fire snarls traffic; Getty Center evacuated(LATIMES)
-丛林大火使交通混乱
-Winter storms hit eastern U.S., snarl post-holiday travel(Yahoo)
-风暴袭击美国东部,造成节后交通混乱
-Surfacing: In Amman, Unwinding From the City's Snarl(TIMES)
-安曼城,从混乱中恢复
-California windstorm snarls traffic, leaves 340,000 without power(LATIMES) 
-加州大风暴搅乱交通,让30多万人断电
 
 使烦恼 烦躁 焦虑 fret
 Mailers fret over post's looming payment default(Yahoo)
@@ -20574,12 +20584,6 @@ Rescued kidnapping victim Smart engaged(CBS)
 Democrats stiffen spine against trimming benefits(Yahoo)
 民主党强化立场来反对福利削减
 
-混乱 disarray/disorder  使陷入混乱 leave sb in disarray
-Effort to put marijuana legalization measure on ballot is in disarray(LATIMES)
-让大麻合法化投票的努力,变成乱七八糟
-Rush for Christmas start leaves NBA in disarray(AP) 
-匆忙的诞节前开战安排,让NBA陷入混乱
-
 完成 round out/complete/wrap up/finish
 Obama may round out natl. security team next week(Yahoo)
 奥巴马圆满完成国家的安全团队组建
@@ -21210,10 +21214,6 @@ Analysis: Euro zone strugglers lack innovative knack(Reuters)
 Resolution on Iran nuclear program hailed by US, but lacks teeth(The Christian Science Monitor) 
 关于伊朗核计划的决议案受美国热情的欢迎但缺少实效
 
-解开 untangle  理清措施 untangle measure
-Ministers seek to untangle measures to help euro(Yahoo)
-部长们寻求理清救助欧元的措施
-
 掺入(酒 毒品) lace/spike  掺入沙门氏菌的蛋 salmonella-laced eggs  掺杂暴力的生活 a Life Laced With Violence 搀兑药物的油 drug-laced oil
 Scientist: Sick Iowa hens laid salmonella-laced eggs(CBS)
 生病的衣阿华母鸡生下混入沙门氏菌的蛋
@@ -21805,10 +21805,6 @@ Courtney Love erupts on stage over Cobain photo(CBS)
 科特尼的爱通过科佩恩的照片暴露
 Ex-QB Jim McMahon talks of early-stage dementia(Yahoo)
 吉姆谈到早期阶段痴呆
-
-脱臼 扰乱 dislocate  脱臼的膝盖 dislocated knee
-Lattimore dislocated knee and has ligament damage(Yahoo) 
-拉蒂默尔膝盖脱臼并且韧带撕裂
 
 拥抱 cuddle/hug/embrace
 Watch: Gorilla and child cuddle in home video(CBS)
@@ -22531,10 +22527,6 @@ Syria Army Defectors Said to Kill 27 Soldiers in Coordinated Assault(TIMES)
 叙利亚军队的叛变人士据说在协同进攻中杀死27名士兵
 Drinks and joy as defectors embrace Kim's death(AP) 
 喝酒与欢庆当反对者欢迎金的死亡
-
-卷入 embroil (in)/tangle (with)
-U.S., China embroiled in trade spat over chicken feet(WAPOST) 
-美中两国被卷入鸡腿贸易争吵
 
 解开 防松 unwind
 Surfacing: In Amman, Unwinding From the City's Snarl(TIMES)
@@ -33767,10 +33759,6 @@ Libyan Transitional Leader Urges Reconciliation, Using Symbolism of Tripoli Site
 辛辣的 酸的 俗气装饰 tart
 In Central Valley, where raisins reign, concern over a tart upstart(LATIMES)
 美国中央谷葡萄干盛行,关注一个俗气暴发户
-
-被卷入的 陷入 entangled/involved/tangled/embroiled
-Player regrets getting entangled with match-fixing(Yahoo)
-球员后悔卷入假球案
 
 不可分的 inseparable
 US, China economies 'inseparable': China official(Yahoo)
