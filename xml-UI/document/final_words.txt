@@ -6118,9 +6118,19 @@ For American, a blemish on a distinguished history(AP)
 NBA players present unified front in labor impasse(AP)
 职业球员在劳资僵局上提出联合阵线
 
-赦免 原谅 pardon   发布赦免令 decree pardon/order pardon
+赦免 宽恕 原谅 remission/pardon 发布赦免令 decree pardon/order pardon 赢得宽恕 win pardon
 Egypt president decrees pardon for protesters(Yahoo)
 埃及总统发布对示威者的赦免令
+Doctor: Colts coach Pagano's leukemia in remission(Yahoo)
+柯尔特教白血病囚犯获得赦免
+As debate roars over Haley Barbour pardons, five released convicts vanish(The Christian Science Monitor)
+对于哈雷州长宽恕/赦免的争吵非常激烈,五名被释放的囚犯消失
+Insight: Mississippi pardons benefited whites by big margin(Reuters)
+密西西比州赦免行动大幅度地有利于白人囚犯
+President of Ecuador to Pardon Four in Libel Case(TIMES)
+厄瓜多尔总统赦免诽谤案中四人
+Jailed Afghan rape victim wins pardon after agreeing to marry attacker(LATIMES) 
+被囚禁的强奸受害者在同意与侵害者结婚后赢得宽恕
 
 接近结束 接近完成 near an end
 Chimps' Days in Research May Be Near an End(TIMES) 
@@ -10862,10 +10872,6 @@ Catchphrases obscure who pays for 'base-broadening' tax reform(WAPOST)
 Cops: Cannonball fired by husband kills wife(CBS)
 丈夫用发射炮弹杀死妻子
 
-留下印记  留下深远影响 make a mark
-Olympic hopeful looks to make a mark(CBS)
-奥林匹克有希望的人指望留下深远影响
-
 朋友 结为朋友 pal  笔友 pen pal
 Separated by years and oceans, pen pals reconnect(LATIMES)
 数年被大洋分隔后,笔友重新联络上
@@ -11238,13 +11244,13 @@ Bernanke Offers No Plan for New Stimulus(TIMES)
 Contours of Obama jobs package coming into focus(Reuters)
 奥巴马就业一揽子计划轮廓引人瞩目
 
-给..拨款 标记 earmark
-Santorum defends earmarks, past statements(AP)
-桑托勒姆为拨款和过去的声明辩解
+标记 earmark
 Behind Army's $17,000 Drip Pan, Harold Rogers's Earmark(TIMES)
 军队昂贵的烤肉接油盘后面,哈罗德的标记
-Russia earmarks $40 billion as euro zone crisis buffer: FT
-俄国拨款400亿作为欧元危机缓冲
+
+拨款 earmark
+Santorum defends earmarks, past statements(AP)
+桑托勒姆为拨款和过去的声明辩解
 McCaskill-led earmark probe finds $834 million in requests(WAPOST) 
 麦卡斯基尔领导的拨款调查发现8亿美元正在申请中
 
@@ -14341,18 +14347,6 @@ Scam artists can prey on homeowners' troubles(CBS)
 In L.A., inexperienced teachers more likely to be assigned to students behind in math, study says(LATIMES)
 洛杉矶地区无经验的老师往往教数学成绩落后的学生
 
-赦免 宽恕 pardon 发布赦免令 decree pardon 赢得宽恕 win pardon
-As debate roars over Haley Barbour pardons, five released convicts vanish(The Christian Science Monitor)
-对于哈雷州长宽恕/赦免的争吵非常激烈,五名被释放的囚犯消失
-Insight: Mississippi pardons benefited whites by big margin(Reuters)
-密西西比州赦免行动大幅度地有利于白人囚犯
-President of Ecuador to Pardon Four in Libel Case(TIMES)
-厄瓜多尔总统赦免诽谤案中四人
-Egypt president decrees pardon for protesters(Yahoo)
-埃及总统发布对示威者的赦免令
-Jailed Afghan rape victim wins pardon after agreeing to marry attacker(LATIMES) 
-被囚禁的强奸受害者在同意与侵害者结婚后赢得宽恕
-
 岸边 shore
 Shell vessel re-anchors after moving toward shore(Yahoo) 
 在向岸边前进后,船只再次抛锚停泊
@@ -14496,10 +14490,6 @@ Woman's torso found floating near Niagara Falls(CBS)
 女子躯体被发现漂浮在尼亚加拉瀑布附近
 Police: Man mauled by tiger has torso puncture wounds, did not lose leg, jumped into exhibit.(Yahoo)
 男子被老虎撕咬,受了躯体贯穿性伤害,但没有失去大腿,当时他跳入展示区
-
-宽恕 赦免 remission/pardon
-Doctor: Colts coach Pagano's leukemia in remission(Yahoo)
-柯尔特教白血病囚犯获得赦免
 
 浮游生物 plankton
 Scientists hunt plankton, find plastic(CBS)
@@ -15725,20 +15715,6 @@ Witness screamed in Sandusky basement(CBS)
 
 －－－－－ 动词 Verb －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
 
-庆祝 mark
-Preservation Hall Jazz Band marks 50 years at fest
-在节日上,爵士乐队庆祝成立五十年
-
-流放 exile
-Exile hangs over China's blind activist
-流放笼罩活动家
-
-再见 bid adieu/bid farewell/say goodbye
-NYC, world ring in 2012, bid adieu to a tough year(AP)
-纽约市，2012世界环，向艰难的一年(bid adieu)说再见
-Giffords says goodbye with a plea for civility(AP)
-吉弗德用礼貌谦恭方式说再见
-
 怒吼 大声轰鸣 咆哮 roar/rant/scream/rave
 Midwest factories roar, but labor market weak(Reuters)
 中西部工厂轰鸣但劳工市场疲软
@@ -15881,55 +15857,15 @@ Syria facing renegade troops, int'l scorn(CBS)
 Some Disdain Both Options in Egypt's Narrowed Race(TIMES)
 一些人蔑视埃及受限选举竞争中双方观点
 
-发怒 激怒 fire up
-Soccer Fans' Chants Fire Up Home Team or Slight the Opponent(TIMES)
-足球迷们的高唱激怒主队,轻蔑对手
-
-诋毁 诽谤 玷污 besmirch/befoul/smirch
-Russian Show Besmirching Protesters Stirs Outrage(TIMES)
-俄国公开被诋毁的示威者引发愤怒
-Tuvalu: A Pacific Landscape Befouled(TIMES)
-太平洋地区风景被玷污了
-
-宣布不合适 官方宣称有缺陷或不宜使用 condemn
-Buildings condemned, hundreds displaced in Massachusetts blast(LATIMES)
-马萨诸塞州爆炸中数百人疏散离开,建筑物被宣布不适合使用
-
-使离开 疏散 displace/evacuate
-Buildings condemned, hundreds displaced in Massachusetts blast(LATIMES)
-马萨诸塞州爆炸中数百人疏散离开,建筑物被宣布不适合使用
-Nicaragua evacuates 3,000 as volcano spews ash(Yahoo)
-尼加拉瓜疏散3千人由于火山喷发出火山灰
-Sepulveda Pass brush fire snarls traffic; Getty Center evacuated(LATIMES)
-丛林大火使交通混乱
-Australian-chartered ship evacuates Libyan civilians(ABC)
-澳洲特许船撤离利国民
-Residents evacuated after major train derailment(LATIMES)
-在干线火车出轨后居民疏散撤离
-1,500 Calif. homes evacuated due to wildfire(CBS)
-由于山火部分加州居民被疏散
-
-脱轨 出轨 使事情流产失败 derail/go off the rails
-Residents evacuated after major train derailment(LATIMES)
-在干线火车出轨后居民疏散撤离
-Editorial Board: Derail this gravy train(WAPOST)
-让贪污行为出轨
-NJ derailment evacuations curtailed, tests offered(CBS)
-纽约脱轨事故疏散过程被缩短
-House GOP tries to derail Dodd-Frank express(Reuters) 
-共和党试图让强制华尔街改革议案流产
-Goal of GOP rivals at debate: Derail the Cain train(LATIMES)
-共和党对手在辩论中目标:让凯恩一系列选战策略脱轨
-How Herman Cain's train went off the rails(LATIMES) 
-凯恩的火车如何脱轨
-
-缩短 减少 curtail/shrink/shorten/dwindle/reduce/retrench/diminish
+缩短 减少 减弱 curtail/shrink/shorten/dwindle/reduce/diminish/decrease/abate/retrench(retrenchment) 供应减少 supply dwindle 优势减少 majority shrink 
+Appeals court curtails Alabama immigration law, for now(The Christian Science Monitor)
+上诉法院剥夺阿拉巴马州移民法
+New NBA deal may curtail Lakers' free-spending ways(LATIMES) 
+新合同将削减湖人队挥金如土的方式
 NJ derailment evacuations curtailed, tests offered(CBS)
 纽约脱轨事故疏散被缩短
 British press ethics inquiry could be curtailed
 英国新闻界道德调查可能被缩短
-Appeals court curtails Alabama immigration law, for now(The Christian Science Monitor)
-上诉法院缩减阿拉巴马州移民法
 New NBA deal may curtail Lakers' free-spending ways(LATIMES) 
 新合同将削减湖人队挥金如土的方式
 Europe Weighs Implications of Shrinking U.S. Troop Presence(TIMES)
@@ -15969,9 +15905,9 @@ Japan Diminishes Its Economic Outlook
 Drought diminishes mighty Mississippi, puts heat on Congress(Yahoo)
 干旱极度减弱,将热度推向国会
 
-消退 减小 减弱 recede/fall off/wane/fade
+消退 减小 减弱 fall off/recede/wane/fade 失业减少 unemployment recede 问题减少 issue recede  水褪去 Waters recede 轮子磨损完 the wheels fall off 希望破灭 hope fade  灾难减弱 Disaster Fade  逐渐消失的传统 A fading tradition
 Chances of Iran Strike Receding, U.S. Officials Say(TIMES)
-美国官员认为，打击伊朗机会消失
+美国官员认为，打击伊朗机会逐步消失
 House approves measure to block new business regulations until unemployment recedes(WAPOST)
 国会批准措施来禁止新的商业管理规则,直到失业状况转好
 Job worries surge as debt-limit issue recedes(AP)
@@ -15990,60 +15926,15 @@ After Russia Elects Putin, a Protest Wanes(TIMES)
 在俄国人选择普京后，示威活动减弱
 Osama bin Laden's appeal had waned in Arab world(LATIMES)
 拉登在阿拉伯世界的吸引力减弱
+Hope fades of finding more survivors on cruise ship off Italy(LATIMES)
+在意大利搁浅游船上,找到更多幸存者的希望破灭消失
+Church ladies and their big, bold hats: A fading tradition(WAPOST)
+教堂女士和他们大的,帽檐明显的帽子:逐渐消失的传统
 
-落下 fall off
-"Idol" Scotty McCreery falls off stage during concert(CBS)
-偶像斯科蒂在音乐会期间掉下舞台
-Jefferson County, Ala., Falls Off the Bankruptcy Cliff(TIMES)
-杰斐逊郡落下财政悬崖
-
-展开 打开 open up/fold up  公开声带手术信息 open up vocal surgery
-"60 Minutes" preview: Adele opens up about vocal surgery(CBS)
-奥黛丽展开声带手术
-
-宽恕 赦免 原谅 pardon/excuse/spare
-Insight: Mississippi pardons benefited whites by big margin(Reuters)
-密西西比州赦免行动大幅度地有利于白人囚犯
-President of Ecuador to Pardon Four in Libel Case(TIMES)
-厄瓜多尔总统赦免诽谤案中四人
-Egypt president decrees pardon for protesters(Yahoo)
-埃及总统发布对示威者的赦免令
-Jailed Afghan rape victim wins pardon after agreeing to marry attacker(LATIMES) 
-被囚禁的强奸受害者在同意与侵害者结婚后赢得宽恕
-Teen is excused in Md. neighborhood watch trial
-在社区公开审判中,少年被宽恕
-Sisters want brother who killed their kids spared
-杀害孩子凶手的姐姐请求宽恕他
-Saudi king spares female driver the lash(CBS)
-沙特国王宽恕女性司机不受鞭刑
-定罪 convict 宣布无罪acquit,exonerate
-Egyptian Court Acquits Doctor Over 'Virginity Tests'(TIMES)
-埃及法庭宣判进行处女检查的医生无罪
-Texas jury convicts Warren Jeffs follower of bigamy(LATIMES)
-德州陪审团宣判沃伦从属重婚罪
-Exonerated ex-convicts band together(CBS)
-被免罪的前定罪囚犯们联合起来
-Registry tallies over 2,000 wrongful convictions since 1989(LATIMES)
-登记核对超过两千起错误判决
-Students help free wrongfully convicted man(CBS)
-学生帮助释放错误被判刑的人
-
-消失 vanish/disappear/fade
-Whooping cough deaths in California vanish in 2011; cases plummet(LATIMES)
-百日咳死亡在加州消失,死亡案例急剧下降
-Libyans Seek News of Vanished Relatives (Times)
-利比亚人正在找寻失踪亲人的消息
-Black Rhino extinct; Other rhino types vanishing(CBS)
-绝种的黑犀牛,其他类型的消失
-Study: Whooping cough vaccination fades in 3 years(AP)
-百日咳疫苗接种三年后将消失
-Hopes Fade for Dozens of Sunken Russian Rig Workers(TIMES) 
-救援沉入海底的俄国钻探工人的希望逐渐消失
-
-控告 起诉 传讯 arraign/subpoena/sue/charge/impeach/indict/accuse/prosecute/go to court
+控告 起诉 传讯 subpoena/sue/charge/impeach/indict/accuse/prosecute/go to court/arraign(arraignment) 法院传票 subpoena
 George Zimmerman is held pending arraignment(LATIMES)
 马丁案疑犯继续羁押待传讯
-Harris Bank subpoenaed, workers sue over MF Global(Reuters) 
+Harris Bank subpoenaed, workers sue over MF Global(Reuters)
 哈里斯银行被法庭传召,职员起诉曼氏国际
 9/11 families prepare for Guantanamo arraignment
 911受害家庭准备好对关塔那摩囚犯进行控诉
@@ -16067,6 +15958,130 @@ Chile Indicts Ex-U.S. Officer in 1973 Killings(TIMES)
 智利控告前美国官员在1973年政变罪行
 Philippine Chief Justice Is Impeached(TIMES)
 菲律宾首席法官被控告
+California attorney general subpoenas foreclosure firm LPS(LATIMES)
+检察长传唤抵押权赎回公司
+Issa: 'Fast and furious' subpoenas issued soon(AP)
+快速的传票很快发出
+Developer indicted in connection with alleged illegal campaign contributions to Villaraigosa, ex-councilman(LATIMES)
+开发者被控告与非法竞选捐助有关
+Grand jury indicts two men in Saudi envoy plot(Reuters)
+美国大陪审团控告起诉两名在沙特大使谋杀阴谋中的男子
+
+转移 疏散 撤离 displace/evacuate
+Buildings condemned, hundreds displaced in Massachusetts blast(LATIMES)
+马萨诸塞州爆炸中数百人疏散离开,建筑物被宣布不适合使用
+Nicaragua evacuates 3,000 as volcano spews ash(Yahoo)
+尼加拉瓜疏散3千人由于火山喷发出火山灰
+Sepulveda Pass brush fire snarls traffic; Getty Center evacuated(LATIMES)
+丛林大火使交通混乱
+Australian-chartered ship evacuates Libyan civilians(ABC)
+澳洲特许船撤离利国民
+Residents evacuated after major train derailment(LATIMES)
+在干线火车出轨后居民疏散撤离
+1,500 Calif. homes evacuated due to wildfire(CBS)
+由于山火部分加州居民被疏散
+
+替代 displace/replace/take the place of 
+As the Displaced Return to Iraq, New Tensions Arise(TIMES)
+由于被替代的政治人物返回伊拉克,新的紧张出现
+Atheist messages displace CA park nativity scenes(AP) 
+无神论者的宣传替换了公园中耶稣诞生场景
+
+脱轨 出轨 使事情失败 derail/go off the rails
+Residents evacuated after major train derailment(LATIMES)
+在干线火车出轨后居民疏散撤离
+Editorial Board: Derail this gravy train(WAPOST)
+让贪污行为出轨
+NJ derailment evacuations curtailed, tests offered(CBS)
+纽约脱轨事故疏散过程被缩短
+House GOP tries to derail Dodd-Frank express(Reuters) 
+共和党试图让强制华尔街改革议案流产
+Goal of GOP rivals at debate: Derail the Cain train(LATIMES)
+共和党对手在辩论中目标:让凯恩一系列选战策略脱轨
+How Herman Cain's train went off the rails(LATIMES) 
+凯恩的火车如何脱轨
+Residents evacuated after major train derailment(LATIMES)
+居民疏散撤离,在火车出轨后
+
+消失 vanish/disappear
+Whooping cough deaths in California vanish in 2011; cases plummet(LATIMES)
+百日咳死亡在加州消失,死亡案例急剧下降
+Libyans Seek News of Vanished Relatives (Times)
+利比亚人正在找寻失踪亲人的消息
+Black Rhino extinct; Other rhino types vanishing(CBS)
+绝种的黑犀牛,其他类型的消失
+Study: Whooping cough vaccination fades in 3 years(AP)
+百日咳疫苗接种三年后将消失
+Hopes Fade for Dozens of Sunken Russian Rig Workers(TIMES) 
+救援沉入海底的俄国钻探工人的希望逐渐消失
+
+展开 开展 unfold/unwrap/open up/fold up 公开声带手术信息 open up about vocal surgery
+'Romney: Obama's health law an 'unfolding disaster'
+鲁梅尼说奥巴马的健康法案是一个'正在展开的灾难
+Obama woos Brazil while Libya air assault unfolds
+利打击行动展开时候总统寻求巴西支持
+Exiled Islamists Watch Rebellion Unfold at Home(TIMES)
+遭流放的回教徒,看到反抗在家展开
+North Korean Succession Unfolds in Cloud of Mystery(TIMES) 
+北朝鲜权利继承在一团神秘疑云中展开
+"60 Minutes" preview: Adele opens up about vocal surgery(CBS)
+奥黛丽展公开声带手术信息
+Dems open up line of attack on Gingrich(CBS) 
+民主党展开对格林里奇的排队攻击
+
+宽恕 赦免 原谅 pardon/excuse/spare 赢得宽恕 win pardon
+Insight: Mississippi pardons benefited whites by big margin(Reuters)
+密西西比州赦免行动大幅度地有利于白人囚犯
+President of Ecuador to Pardon Four in Libel Case(TIMES)
+厄瓜多尔总统赦免诽谤案中四人
+Egypt president decrees pardon for protesters(Yahoo)
+埃及总统发布对示威者的赦免令
+Jailed Afghan rape victim wins pardon after agreeing to marry attacker(LATIMES) 
+被囚禁的强奸受害者在同意与侵害者结婚后赢得宽恕
+Teen is excused in Md. neighborhood watch trial
+在社区公开审判中,少年被宽恕
+Sisters want brother who killed their kids spared
+杀害孩子凶手的姐姐请求宽恕他
+Saudi king spares female driver the lash(CBS)
+沙特国王宽恕女性司机不受鞭刑
+
+使免遭.. 节省 spare  不遗余力 spare no effort  免遭灾难 Spare calamity  免受最坏结果 spare worst
+Memphis readies for big river; Ky. Spared calamity (AP) 
+孟菲斯为大河出现意外做预备,肯塔基州免遭灾难
+Irene floods northeast, Manhattan spared worst(Reuters)
+艾琳给东北部造成洪灾,曼哈顿未受损失
+
+定罪 convict(conviction)
+Texas jury convicts Warren Jeffs follower of bigamy(LATIMES)
+德州陪审团宣判沃伦从属重婚罪
+Exonerated ex-convicts band together(CBS)
+被免罪的前定罪囚犯们联合起来
+Registry tallies over 2,000 wrongful convictions since 1989(LATIMES)
+登记核对超过两千起错误判决
+Students help free wrongfully convicted man(CBS)
+学生帮助释放错误被判刑的人
+Supreme court nixes La. murder conviction(CBS)
+高等法院否决拉斯维加斯谋杀判决
+As debate roars over Haley Barbour pardons, five released convicts vanish(The Christian Science Monitor)
+对于哈雷州长赦免的争吵非常激烈,五名被释放的囚犯消失
+
+宣布无罪 acquit/exonerate 要求无罪释放 urge acquittal 免除嫌疑 exonerate suspect
+Egyptian Court Acquits Doctor Over 'Virginity Tests'(TIMES)
+埃及法庭宣判进行处女检查的医生无罪
+Japan veteran lawmaker acquitted in fund scandal
+日本老兵立法者在资金丑闻是被宣布无罪
+Rajaratnam defense in last shot to urge acquittal
+拉贾在最后一次尝试机会中辩护求无罪释放
+Amanda Knox acquitted of murder(CBS)
+阿曼达被宣告在谋杀案上无罪
+Exonerated ex-convicts band together(CBS)
+被免罪的前定罪囚犯们联合起来
+Former high school football standout exonerated in rape case(LATIMES)
+前高中橄榄球著名球员在强奸官司中被宣布无罪
+Attorneys say hotel video could exonerate suspect in beating
+律师称视频证明搏斗中疑犯无罪
+LAPD exonerates suspect in Bryan Stow beating, source says(LATIMES)
+在斗殴案中洛杉矶警察宣布嫌犯无罪
 
 发誓 vow
 Qaddafi son vows to fight to death, says dad OK(CBS)
@@ -16076,9 +16091,7 @@ Anti-Wall Street protesters vow to keep up fight(Reuters)
 Cain vows won't be forced out of 2012 campaign(Reuters)
 凯恩发誓不会被挤出竞选
 
-承认 公开宣称 avow/admit/concede/confess/acknowledge/own up 
-Moshe Katsav, Ex-Israeli President, Prepares for Prison and Avows Innocence(TIMES)
-前以色列总统准备入狱但然公开声称无辜 
+承认 own up (to)/avow/admit/concede/acknowledge/confess(confession) 承认罪过 owns up to 'sins'
 John Edwards owns up to 'sins' in wake of mistrial(LATIMES)
 错误审判之后,约翰承认过失
 David Cameron concedes error in hiring aide linked to hacking(LATIMES)
@@ -16093,8 +16106,30 @@ Mayor who admitted affair faces wrath of San Fernando residents(LATIMES)
 承认偷情的市长面对民众怒火
 Senegal president concedes defeat to ex-protege
 塞内加尔总统承认在选举中对以前提携的对手的失败
+NYC TV meteorologist admits false attack claims(CBS)
+气象学者承认错误预报
+"Iran state TV airs "confession" of detained CIA spy(Reuters) 
+伊朗政府电视台公布被拘捕中情局间谍的"招供承认
 
-不承认 否认 disavow/deny
+声称 公开宣称 avow/assert 宣称无辜 avow innocence 声称权力 asserts power
+Moshe Katsav, Ex-Israeli President, Prepares for Prison and Avows Innocence(TIMES) 
+前以色列总统准备入狱但然公开声称无辜
+Countering China, Obama asserts US a Pacific power(AP) 
+反击中国,奥巴马声称美国是太平洋主要力量
+
+坚持 坚称 assert/affirm 坚持出现 assert presence 坚持主权 Assert Sovereignty
+Asserting Its Sovereignty, Iraq Detains American Contractors(TIMES)
+坚持主权,伊拉克拘捕美国合同工
+With Rally, Christian Group Asserts Its Presence in '12 Race(TIMES)
+通过召集重整,基督教团体坚称比赛中出现
+
+重申 reassert  重申权利 reassert claim
+Beijing Reasserts Its Claims in South China Sea(TIMES)
+中国重申对南中国海拥有权
+General Reasserts Military's Power in Post-Election Egypt(TIMES) 
+将军再次重申选后埃及的军方力量
+
+不承认 否认 disavow/deny(denial)
 Tenn. Dems disavow Sen. nominee, cite hate group(CBS)
 田纳西州民主党不赞成国会提名人士,提到憎恶集团
 Bishop disavows anti-Muslim Facebook friend(ABC)
@@ -16118,11 +16153,65 @@ Cain manages crisis with denial, humor, song(AP)
 Bells ring marking year since Tucson attack(CBS)
 铃声响起纪念土桑市枪击事件一周年
 
-轻易通过 breeze/romp through
+落下 掉下 fall off 掉下舞台 fall off stage
+"Idol" Scotty McCreery falls off stage during concert(CBS)
+偶像斯科蒂在音乐会期间掉下舞台
+Jefferson County, Ala., Falls Off the Bankruptcy Cliff(TIMES)
+杰斐逊郡掉下财政悬崖
+
+跳下 开始 jump off 从楼顶跳下 jump off roof
+Student who jumped off high school roof was bullied, parents say(LATIMES)
+从楼顶跳下的学生被欺负,其父母说
+
+庆祝 mark
+Preservation Hall Jazz Band marks 50 years at fest
+在节日上,爵士乐队庆祝成立五十年
+
+留下印记  留下深远影响 make a mark
+Olympic hopeful looks to make a mark(CBS)
+奥林匹克有希望的人指望留下深远影响
+
+拨款 earmark
+Russia earmarks $40 billion as euro zone crisis buffer: FT
+俄国拨款400亿作为欧元危机缓冲资本
+McCaskill-led earmark probe finds $834 million in requests(WAPOST) 
+麦卡斯基尔领导的专款调查发现8亿美元正在申请中
+
+流放 exile
+Exile hangs over China's blind activist
+流放笼罩活动家
+
+再见 bid adieu/bid farewell/say goodbye
+NYC, world ring in 2012, bid adieu to a tough year(AP)
+纽约市，2012世界环，向艰难的一年(bid adieu)说再见
+Giffords says goodbye with a plea for civility(AP)
+吉弗德用礼貌谦恭方式说再见
+
+发怒 激怒 fire up
+Soccer Fans' Chants Fire Up Home Team or Slight the Opponent(TIMES)
+足球迷们的高唱激怒主队,轻蔑对手
+
+诋毁 诽谤 玷污 besmirch/befoul/smirch
+Russian Show Besmirching Protesters Stirs Outrage(TIMES)
+俄国公开被诋毁的示威者引发愤怒
+Tuvalu: A Pacific Landscape Befouled(TIMES)
+太平洋地区风景被玷污了
+
+宣布不合适 官方宣称有缺陷或不宜使用 condemn
+Buildings condemned, hundreds displaced in Massachusetts blast(LATIMES)
+马萨诸塞州爆炸中数百人疏散离开,建筑物被宣布不适合使用
+
+轻易通过 breeze through/sail through/romp through  轻易获胜 win in romp
 ID card for illegal immigrants breezes through L.A. council panel(LATIMES)
-非法移民获取身份证轻易通过议会委员会讨论
+非法移民获取身份证轻易通过议会委员会审查
 Federer romps, Murray struggles in US Open sweatshop(Yahoo)
 费德勒轻易通过首轮,墨菲还在美国公开赛血汗工厂上努力
+Knicks end Spurs' 7-game winning streak in romp(Yahoo)
+尼克斯轻易获胜结束马刺7连胜好运
+Romney sails through soft Republican debate(Reuters)
+鲁梅尼轻松通过不猛烈的共和党辩论
+U.S. gymnasts sail through first round(CBS)
+美国体操队轻松通过第一轮
 
 搅动 翻腾 扰乱破坏 churn/roil/disturb/disorder/stir/disrupt/bother/play(wreak) havoc with/dislocate/unsettle
 Tropical Storm Ernesto churns toward Jamaica(Yahoo)
@@ -16319,22 +16408,6 @@ US ignores vet graves in Philippines(AP)
 美国忽视了在菲律宾的老兵墓穴
 Iraq vet killed when tossed by roller 
 伊战老兵死亡,当坐过山车时被甩出
-
-减少 dwindle/shrink  供应减少 supply dwindles
-Amid Cold in Europe, Gas Supply From Russia Dwindles(TIMES)
-在寒冷侵袭欧洲期间,来自俄罗斯的天然气供应减少
-Dwindling helium stockpile has Congress, businesses worried(WAPOST)
-减少氦气储存让国会和商人们担忧
-
-缩小 减少 shrink/dwindle  优势减少 majority shrink
-Airlines shrink seats, offer extra legroom for a fee(LATIMES)
-航空公司减少座位,提供额外的收费踏脚空间
-Citi profit sags as revenue shrinks, expenses grow
-花旗集团收益下陷由于收入收缩成本增长
-Middle-Class Neighborhoods Shrinking, Report Finds(TIMES) 
-中产阶级社区缩小
-United Russia Leads in Elections, But Its Majority Shrinks(TIMES) 
-统一俄罗斯党在选举中领先,但优势率缩减
 
 打败 战胜 vanquish/conquer
 Rinderpest, Scourge of Cattle, Is Vanquished(TIMES)
@@ -16896,24 +16969,6 @@ Pa. mistrial declared when prosthetic eye pops out(Yahoo)
 Lesser-known Emancipation document gets spotlight(Yahoo)
 几乎不为人知的解放文档得到瞩目注意
 
-掉下 减少 fall off  掉下舞台 fall off stage  车轮磨掉 wheels fall off
-Jefferson County, Ala., Falls Off the Bankruptcy Cliff(TIMES)
-杰斐逊郡减少降低银行破产
-Tips to used-car drivers who will ride it till the wheels fall off(WAPOST)
-给二手车司机提示,他们将驾驶车直到轮子磨损完
-"Idol" Scotty McCreery falls off stage during concert(CBS)
-偶像斯科蒂在音乐会期间掉下舞台
-
-缩短 削减 curtail/shorten
-British press ethics inquiry could be curtailed
-英国新闻界道德调查可能被
-NJ derailment evacuations curtailed, tests offered(CBS)
-纽约脱轨事故疏散被缩短
-Appeals court curtails Alabama immigration law, for now(The Christian Science Monitor)
-上诉法院缩短削减阿拉巴马州移民法
-New NBA deal may curtail Lakers' free-spending ways(LATIMES) 
-新合同将削减湖人队挥金如土的方式
-
 拿走 提 cart (off)
 Yanks' Rivera carted off after twisting knee in BP
 洋基队里维拉被带走,在膝盖扭伤后
@@ -17323,16 +17378,6 @@ Man dies after being handcuffed(ABC)
 再被拷起来(限制)后死亡
 Lindsay Lohan in handcuffs after probation revoked(LATIMES)
 林德赛在缓刑被撤消后重新戴上手铐
-
-展开 unfold/unwrap/open up
-'Romney: Obama's health law an 'unfolding disaster'
-鲁梅尼说奥巴马的健康法案是一个'正在展开的灾难
-Obama woos Brazil while Libya air assault unfolds
-利打击行动展开时候总统寻求巴西支持
-Exiled Islamists Watch Rebellion Unfold at Home(TIMES)
-遭流放的回教徒,看到反抗在家展开
-North Korean Succession Unfolds in Cloud of Mystery(TIMES) 
-北朝鲜权利继承在一团神秘疑云中展开
 
 干预 干涉 meddle/intervene/interfere
 Critics see gov't meddling in school lunch swap(AP)
@@ -17796,16 +17841,6 @@ Olympic flame is lit in Greece(LATIMES)
 Coe drums up Olympic fever for London Games(Yahoo)
 科尔为奥运比赛招揽热度
 
-后退 减少 recede/withdraw/retreat/diminish/decrease/abate  失业减少 unemployment recede 问题减少 issue recede  水褪去 Waters recede
-Chances of Iran Strike Receding, U.S. Officials Say(TIMES)
-美国官员认为,打击伊朗机会减退
-House approves measure to block new business regulations until unemployment recedes(WAPOST)
-国会批准禁止新的商业管理措施直到失业状况减缓
-Job worries surge as debt-limit issue recedes(AP)
-由于债务上限问题减少,就业担忧上升
-Waters recede but storm victims suffer in East(Reuters)
-水褪去但风暴受害者遭受痛苦
-
 增强 提高 bump  薪水增加 pay bump
 Netflix CEO gets pay bump after 2012 cut(Yahoo)
 网站的总裁在去年收入削减后获得薪水增加
@@ -18025,22 +18060,6 @@ Cisco kills Flip camera in first revamp step(Reuters)
 思科翻新重建第一步砍掉子公司
 Boeing sees Gulf interest in revamped 737(Reuters)
 波音看到海湾国家对翻新737客机的兴趣
-
-宣告无罪 acquit  宣判有罪 定罪 convict   无罪 acquittal
-Egyptian Court Acquits Doctor Over 'Virginity Tests'(TIMES)
-埃及法庭宣判进行处女检查的医生无罪
-Japan veteran lawmaker acquitted in fund scandal
-日本老兵立法者在资金丑闻是被宣布无罪
-Rajaratnam defense in last shot to urge acquittal
-拉贾在最后一次尝试机会中辩护求无罪释放
-Amanda Knox acquitted of murder(CBS)
-阿曼达被宣告在谋杀案上无罪
-
-定罪 convict(conviction)
-Supreme court nixes La. murder conviction(CBS)
-高等法院否决拉斯维加斯谋杀判决
-As debate roars over Haley Barbour pardons, five released convicts vanish(The Christian Science Monitor)
-对于哈雷州长赦免的争吵非常激烈,五名被释放的囚犯消失
 
 支撑 支持 shore up
 Cameron Tries to Shore Up Support in Hacking Scandal(TIMES)
@@ -18463,12 +18482,6 @@ Snakes in pants - alleged pet thief nabbed in AZ(CBS)
 蛇放在口袋中-所说的宠物小偷被逮住
 Suspect in Hells Angels boss slay nabbed/seized in S.F.(CBS)
 在老板谋杀案中疑犯在三番被抓住
-
-轻易通过 romp  轻易通过 romp through  轻易获胜 win in romp
-Federer romps, Murray struggles in US Open sweatshop(Yahoo)  
-费德勒轻易获胜,墨菲还在美国公开赛血汗工厂上努力
-Knicks end Spurs' 7-game winning streak in romp(Yahoo)
-尼克斯轻易获胜结束马刺7连胜好运
 
 彻底破坏 摧毁 raze/rase  破坏历史建筑 raze historic house
 In Beijing, Razing of Historic House Stirs Outrage(TIMES)
@@ -19983,14 +19996,6 @@ Insight: Fannie Mae, Freddie Mac clamping down on banks(Yahoo)
 Police in India clamp down on protests over gang rape(CBS)
 印度警察镇压轮奸案的示威者
 
-肯定 声称 坚定 assert/affirm/confirm  坚持出现 assert presence
-Asserting Its Sovereignty, Iraq Detains American Contractors(TIMES)
-坚定表达主权,伊拉克拘捕美国合同工
-With Rally, Christian Group Asserts Its Presence in '12 Race(TIMES)
-通过召集重整,基督教团体坚称比赛中出现
-Countering China, Obama asserts US a Pacific power(AP) 
-反击中国,奥巴马强调美国在太平洋力量
-
 迫使做..  oblige to do
 AIG says obliged to consider joining lawsuit against government(Yahoo)
 友邦集团说被迫考虑加入反政府的诉讼
@@ -20370,12 +20375,6 @@ New prostate cancer test advice overturns dogma(AP)
 新前列腺癌检测建议颠覆社会信条
 California Supreme Court overturns convictions of L.A. gang leader and alleged accomplice(LATIMES) 
 加州高等法院推翻对犯罪团伙首脑和指称的从犯定罪
-
-使免遭.. 宽恕 节省 spare  不遗余力 spare no effort  免遭灾难 Spare calamity  免受最坏结果 spare worst
-Memphis readies for big river; Ky. Spared calamity (AP) 
-孟菲斯为大河出现意外做预备,肯塔基州免遭灾难
-Irene floods northeast, Manhattan spared worst(Reuters)
-艾琳给东北部造成洪灾,曼哈顿未受损失
 
 用冗长演讲阻挠决议的行为 filibuster
 Reid moves to end GOP filibuster on judges
@@ -21807,12 +21806,6 @@ Courtney Love erupts on stage over Cobain photo(CBS)
 Ex-QB Jim McMahon talks of early-stage dementia(Yahoo)
 吉姆谈到早期阶段痴呆
 
-跳下 开始 jump off   从楼顶跳下 jump off roof   跌落下舞台 fall off stage
-Student who jumped off high school roof was bullied, parents say(LATIMES)
-从楼顶跳下的学生被欺负,其父母说
-"Idol" Scotty McCreery falls off stage during concert(CBS)
-偶像斯科蒂在音乐会期间掉下舞台
-
 脱臼 扰乱 dislocate  脱臼的膝盖 dislocated knee
 Lattimore dislocated knee and has ligament damage(Yahoo) 
 拉蒂默尔膝盖脱臼并且韧带撕裂
@@ -22108,10 +22101,6 @@ Strong winds down trees and power lines in West(AP)
 互相骂 insult fly between/trade insult
 Insults fly between Clinton aide, reporter(CBS)
 克林顿助手相互侮辱
-
-轻易通过 breeze through/sail through/romp through
-ID card for illegal immigrants breezes through L.A. council panel(LATIMES)
-非法移民的身份证轻易通过议会委员会
 
 减轻 降低 使容易 ease  降低生活成本 ease cost of Living  减轻病症 ease symptom 降低过量供应 ease glut  缓解痛苦 ease woe 简化进入门槛 ease bar to entry
 Israeli Panel Offers Plan to Ease Cost of Living(TIMES)
@@ -23001,10 +22990,6 @@ SEC: China-based coal mining company Puda an empty shell, defrauded investors(WA
 Armstrong teammate Floyd Landis admits defrauding supporters(Yahoo)
 阿姆斯特朗队友承认欺骗支持者
 
-节省 缩短 减少 retrench(retrenchment)/reduce/shorten
-Banks Retrench in Europe While Keeping Up Appearances(TIMES) 
-欧洲银行节省开支然而撑门面
-
 打扮 修饰 spiff up/make up  装饰过的 spiffed-up
 Nissan rolling out spiffed-up food trucks(LATIMES) 
 尼桑首展装饰过的食品卡车
@@ -23549,14 +23534,6 @@ Oil hovers above $88 as hopes fade for Fed easing(Yahoo)
 Hurricane Isaac hovering over Gulf Coast; so far, levees holding(LATIMES)
 风暴在湾区盘旋徘徊,目前为止防洪坝抵挡住了
 
-疏散 撤离 evacuate
-Nicaragua evacuates 3,000 as volcano spews ash(Yahoo)
-尼加拉瓜疏散3千人由于火山喷发出火山灰
-Australian-chartered ship evacuates Libyan civilians(ABC)
-澳洲特许船撤离利国民
-1,500 Calif. homes evacuated due to wildfire(CBS)
-由于山火部分加州居民被疏散
-
 体会言外之意 从字里行间看 read between the lines
 Reading between the lines, he knew it was a Dear John letter.
 从字里行间看这是绝交信
@@ -23628,12 +23605,6 @@ Military society subtlety changes as gay ban ends(AP)
 同性恋参军禁令解除,军队社会微妙改变
 Subtle acts reshape military amid gay ban repeal(CBS)
 微妙行为重新形成军队在同性恋禁令被废除撤销
-
-轻松通过 sail through/romp through
-Romney sails through soft Republican debate(Reuters)
-鲁梅尼轻松通过不猛烈的共和党辩论
-U.S. gymnasts sail through first round(CBS)
-美国体操队轻松通过第一轮
 
 受够了 感到厌倦 fed up with
 Fed up with spoiled daughter, dad shoots her laptop(WAPOST)
@@ -24029,10 +24000,6 @@ Cain backers in N.H. decamp for Gingrich(CBS)
 Drought to Drive Up Food Prices Next Year, U.S. Says(TIMES)
 干旱会推高明年的食品价格
 
-声称 avow/assert 声称无辜 avow innocence 承认 avow/admit/acknowledge  
-Moshe Katsav, Ex-Israeli President, Prepares for Prison and Avows Innocence(TIMES) 
-前以色列总统准备入狱但然公开声称无辜
-
 锁定 lock up  锁定榜首位置 lock up title spot
 Phelps locks up another 8-race program in London(Yahoo)
 菲尔普斯锁定伦敦奥运会8个项目
@@ -24060,16 +24027,6 @@ Boehner comes up with 'Plan B' in fiscal cliff talks(WAPOST)
 用排挤手段谋取 (赛马中)挤占其他骑师有利位置  jockey for
 Gadget makers jockey for edge in holiday lineups(Yahoo)
 小器具制造商谋取假期排队购物季中多点销量
-
-免罪 免除 exonerate 免除嫌疑 exonerate suspect
-Exonerated ex-convicts band together(CBS)
-被免罪的前定罪囚犯们联合起来
-Former high school football standout exonerated in rape case(LATIMES)
-前高中橄榄球著名球员在强奸官司中被宣布无罪
-Attorneys say hotel video could exonerate suspect in beating
-律师称视频证明搏斗中疑犯无罪
-LAPD exonerates suspect in Bryan Stow beating, source says(LATIMES)
-在斗殴案中洛杉矶警察宣布嫌犯无罪
 
 感染 注入 infect(infection)/contagion
 CDC links eye infections to troubled Fla. pharmacy
@@ -25044,10 +25001,6 @@ Demystifying your credit report(WAPOST)
 Videos demystify the Osama bin Laden legend(CBS)
 视频公开澄清本拉登故事
 
-承认 acknowledge/admit/confess
-NYC TV meteorologist admits false attack claims(CBS)
-气象学者承认错误预报
-
 旋转 螺旋上升(增多) gyre(gyral 旋转的)  旋转 不停转动 gyrate/circle/spiral
 Researchers: Ocean garbage gyre impacting sea life
 海洋垃圾的增多影响到海洋生物
@@ -25114,11 +25067,17 @@ New Libyan government sworn in(CBS)
 Outpouring for family in falling airport sign tragedy(CBS) 
 机场标志掉落伤人悲剧中,伤者家庭流泻出悲痛
 
-进行 发动 wage  进行战斗 wage battle
+进行 发动 wage  进行战斗 wage battle 发动战争 wage warfare
 Rick Santorum Vows to Wage a Long, Fierce Battle(TIMES)
 桑朵拉姆发誓要进行长期,激烈的战斗
 Syria wages new onslaughts on two main cities(Yahoo)
 叙利亚发动新的猛攻
+California lawmakers again waging political warfare over welfare(LATIMES)
+加州议员们在福利问题上再次发动政治战
+Conrad Murray waged coverup of Jackson health, witnesses say(LATIMES)
+康雷对杰克逊死亡做了掩盖,证人说
+Romney: Obama is waging "the real war on women"(CBS)
+奥巴马正在进行对女性的斗争
 
 使愤怒 使烦恼 irritate(irate/angry 愤怒的)/irk/vex/annoy/provoke
 Japan irate after French TV host's Fukushima joke(CBS)
@@ -25632,12 +25591,6 @@ Paul Ryan's budget plan betrays his own views on income inequality(WAPOST)
 Intrigue, betrayal in Rome as Berlusconi fights on(Reuters)
 阴谋,背叛在罗马出现因为贝卢斯科尼在斗争
 
-承认 confess(confession)/concede/admit
-32-year-old Norway suspect confesses to massacre(CBS)
-挪威疑犯承认大屠杀
-"Iran state TV airs "confession" of detained CIA spy(Reuters) 
-伊朗政府电视台公布被拘捕中情局间谍的"招供承认
-
 增加 up  增加压力 up press
 Obama ups pressure over transportation(Reuters)
 奥巴马给交通运输部增加压力
@@ -25968,12 +25921,6 @@ Newt Gingrich weeps, Mitt Romney attacks Ron Paul(AP)
 India Suspends Plan to Let in Foreign Retailers(TIMES) 
 印度暂停外资零售的准入计划
 
-展开 开展 open up/unfold
-"60 Minutes" preview: Adele opens up about vocal surgery(CBS)
-奥黛丽展开声带手术 
-Dems open up line of attack on Gingrich(CBS) 
-民主党展开对格林里奇的排队攻击
-
 引出 释放出 推出 tap  推出计划 tap plan
 How small and mid-sized businesses can tap the power of big data(WAPOST)
 中小公司如何引出大数据的力量
@@ -26089,10 +26036,6 @@ Fraud allegations swirl around firm run by two L.A. candidates(LATIMES)
 放宽 broaden   放宽范围 broaden reach of
 Obama seeks to broaden reach of housing assistance(AP)
 奥巴马寻求放宽住房帮助的范围
-
-脱轨 go off rail/derail
-How Herman Cain's train went off the rails(LATIMES) 
-凯恩的火车如何脱轨
 
 活的更久 保留到最后 outlast
 Blue Jays outlast Indians in 16th of record opener
@@ -26564,12 +26507,6 @@ When you get the urge to splurge, just stop, drop and roll(WAPOST)
 French Senate Passes Genocide Bill, Angering Turks(TIMES)
 法国通过种族灭绝大屠杀法案,激怒土耳其
 
-重申 reassert  重申权利 reassert claim
-Beijing Reasserts Its Claims in South China Sea(TIMES)
-中国重申对南中国海拥有权
-General Reasserts Military's Power in Post-Election Egypt(TIMES) 
-将军再次重申选后埃及的军方力量
-
 逃跑 逃避 bolt/flee
 Did Monaco's new princess try to bolt, or not?(CBS)
 摩洛哥新王子试图逃避吗
@@ -26684,14 +26621,6 @@ Hollywood bets heavily on razzle-dazzle action and effects(LATIMES)
 Emirates Airline Bets on Glamour(TIMES)
 酋长国航空公司在吸引力上下功夫
 
-传唤 传召 法院传票 subpoena
-California attorney general subpoenas foreclosure firm LPS(LATIMES)
-检察长传唤抵押权赎回公司
-Issa: 'Fast and furious' subpoenas issued soon(AP)
-快速的传票很快发出
-Harris Bank subpoenaed, workers sue over MF Global(Reuters) 
-哈里斯银行被法庭传召,职员起诉曼氏国际
-
 减速 decelerate(deceleration)
 With home prices down, economists seize on signs of 'deceleration'(LATIMES)
 随着住房价格下降,经济学家把握减速迹象
@@ -26796,10 +26725,6 @@ Report faults Energy Dept. for handling of stalled electric transmission line(WA
 Inquiry faults Forest Service on Station fire, but leaves questions(LATIMES) 
 调查找出大火中森林服务部门的过失,但留下疑问
 
-发动 wage 发动战争 wage warfare
-California lawmakers again waging political warfare over welfare(LATIMES)
-加州议员们在福利问题上再次发动政治战
-
 侵蚀 腐蚀 corrode/erode  腐蚀信任 corrode trust
 Afghan Insider Attacks on West's Forces Corrode Trust(TIMES) 
 阿富汗内部人士攻击西方军队腐蚀信任
@@ -26845,20 +26770,6 @@ You're greedy: Romney, Gingrich tussle before Iowa(AP)
 你是贪婪的:鲁梅尼和格林里奇争斗扭打
 Surfers, Marines in a tussle over Trestles(LATIMES) 
 冲浪运动员和海军陆战队士兵在条凳之上进行扭打
-
-消失 vanish/disappear/fade
-Study: 40 Mediterranean fish species could vanish (AP)
-多种地中海鱼种类可能消失
-Study: Whooping cough vaccination fades in 3 years(AP)
-百日咳疫苗接种三年后将消失
-
-褪色 凋谢 消失 fade/wane  希望破灭 hope fade  灾难减弱 Disaster Fades  逐渐消失的传统 A fading tradition
-Hope fades of finding more survivors on cruise ship off Italy(LATIMES)
-在意大利搁浅游船上,找到更多幸存者的希望破灭消失
-Deepwater Oil Drilling Picks Up Again as BP Disaster Fades(TIMES)
-由于英石油灾难影响逐渐消退,深海石油钻探继续
-Church ladies and their big, bold hats: A fading tradition(WAPOST)
-教堂女士和他们大的,帽檐明显的帽子:逐渐消失的传统
 
 使放松 loosen  放松控制 loosen grip/rein
 Dam Limits Loosened to Feed Grand Canyon(TIMES)
@@ -26987,12 +26898,6 @@ Israelis Feel Tug of Protests, Reviving the Left's Spirits(TIMES)
 发展 进步 make progress/gain ground
 Cuban entrepreneurs gaining ground(CBS)
 古巴企业家们正在发展
-
-替代 displace/replace/take the place of 
-As the Displaced Return to Iraq, New Tensions Arise(TIMES)
-由于被替代的政治人物返回伊拉克,新的紧张出现
-Atheist messages displace CA park nativity scenes(AP) 
-无神论者的宣传替换了公园中耶稣诞生场景
 
 略微占先 step lightly on
 In SC, Perry steps lightly on Republican rivals(AP)
@@ -27190,16 +27095,6 @@ Insight: New bankruptcy ripples may emerge in tough economy(Reuters)
 World Bank head sees ripple effects from euro woes(Reuters) 
 世行首脑看到来自欧元悲剧的涟漪效应
 
-脱轨 阻碍 derail/go off the rails
-NJ derailment evacuations curtailed, tests offered(CBS)
-纽约脱轨事故疏散被缩短
-House GOP tries to derail Dodd-Frank express(Reuters) 
-共和党试图阻碍表达议案
-Residents evacuated after major train derailment(LATIMES)
-居民疏散撤离,在火车出轨后
-How Herman Cain's train went off the rails(LATIMES) 
-凯恩的火车如何脱轨
-
 避开 绕开 躲避 skirt/shun/evade/dodge   裙子 skirt  避税 skirt/evade/dodge tax 逃税 tax evasion  规避的 evasive
 Microsoft, HP skirted taxes via offshore units: U.S. Senate panel(Yahoo)
 微软和惠普通过海外机构避开税收
@@ -27290,18 +27185,6 @@ Ahmadinejad's Latin America trip kicks sand in US eyes, but is it threatening?(T
 Heat Forces Ranchers to Sell Herds to Cut Losses(TIMES)
 酷热迫使农场经营者卖掉牧群来削减损失
 
-发动 进行 wage
-Rick Santorum Vows to Wage a Long, Fierce Battle(TIMES)
-桑朵拉姆发誓要进行长期,激烈的战斗
-California lawmakers again waging political warfare over welfare(LATIMES)
-加州议员们在福利问题上再次发动政治战
-Syria wages new onslaughts on two main cities(Yahoo)
-叙利亚发动新的猛攻
-Conrad Murray waged coverup of Jackson health, witnesses say(LATIMES)
-康雷对杰克逊死亡做了掩盖,证人说
-Romney: Obama is waging "the real war on women"(CBS)
-奥巴马正在进行对女性的斗争
-
 关注 盯着 eye/aim at
 Skydiver, eying record, jumps from 14-mile height(CBS)
 高空跳伞运动员,瞄准新记录,从14英里高空跳下
@@ -27369,10 +27252,6 @@ Foul Play Ruled Out in Fire That Killed 5 in Connecticut,(TIMES)
 过时了 go out  信息过时了 不准确了 message goes out
 For second 405 Freeway closure, less-dire traffic message goes out(LATIMES)
 对于405高速路第二次关闭,较糟糕的交通信息不准确了
-
-承认 own up (to)/admit/acknowledge
-John Edwards owns up to 'sins' in wake of mistrial(LATIMES)
-错误审判之后,约翰承认过失
 
 担忧 害怕 dread  糟糕的 dreadful
 Athens Journal: Greeks Dread Future as Their World Deteriorates(TIMES)
@@ -27455,10 +27334,6 @@ Chinese firms and Gulf sheiks are snatching up farmland worldwide. Why?(WAPOST)
 待在顶尖 保持领先 stay atop     待在原地 stay put
 As race ramps up, GOP asks if Perry can stay atop(AP)
 由于竞选渐热,共和党询问是否佩里能否保持领先
-
-赢得宽恕 win pardon
-Jailed Afghan rape victim wins pardon after agreeing to marry attacker(LATIMES) 
-被囚禁的强奸受害者在同意与侵害者结婚后赢得宽恕
 
 指望 look to/count on/bank on/hinge on
 Between banks and venture capital, some start-ups look to a pay-as-you-go model(WAPOST)
@@ -28076,14 +27951,6 @@ Mixed Reaction to Europe's Talk of Bolstering a Bailout Fund(TIMES)
 IMF beefs up lending tools as debt crisis spreads(Reuters) 
 国际货币基金组织在债务危机扩大后增强借贷手段
 
-控告 indict/sue
-Developer indicted in connection with alleged illegal campaign contributions to Villaraigosa, ex-councilman(LATIMES)
-开发者被控告与非法竞选捐助有关
-Grand jury indicts two men in Saudi envoy plot(Reuters)
-美国大陪审团控告起诉两名在沙特大使谋杀阴谋中的男子
-Chile Indicts Ex-U.S. Officer in 1973 Killings(TIMES) 
-智利控告前美国官员在1973年政变
-
 逆风 顶风 困境 headwind
 Bernanke: Economy faces 'significant headwinds'(LATIMES)
 经济面对明显的逆风
@@ -28683,12 +28550,6 @@ Helicopters scour Indian river for ferry survivors
 直升机搜寻印度渡船沉没后幸存者
 Crews scour sea for Indonesia plane crash victims(ABC)
 船员们搜寻海面找寻印尼飞机坠海的遇难者
-
-拨专款 earmark
-Russia earmarks $40 billion as euro zone crisis buffer: FT
-俄国拨款400亿作为欧元危机缓冲资本
-McCaskill-led earmark probe finds $834 million in requests(WAPOST) 
-麦卡斯基尔领导的专款调查发现8亿美元正在申请中
 
 堆积 总和 stack up/pile up 比较 stack up against
 AT&T releases shared data plans. How do they stack up against Verizon's?(WAPOST)
