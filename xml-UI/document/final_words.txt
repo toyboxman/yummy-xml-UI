@@ -24,6 +24,10 @@ Longtime graffiti cop has answered the scrawl(LATIMES)
 Rome's Trevi Fountain gets $2.9 million facelift(Yahoo)
 意大利某人进行了两百多万的整容
 
+流放 exile
+Exile hangs over China's blind activist
+流放笼罩活动家
+
 致命弱点 阿喀琉斯之踵 one's Achilles' heel
 Is auto bailout Romney's Achilles' heel?(CBS)
 汽车业救援行动是鲁梅尼的致命弱点吗
@@ -113,6 +117,14 @@ Small business weekly: A war of words over waterways(WAPOST)
 壁架 岩石突出部 暗礁 ledge
 Cracks appear on ledge at Chicago's Willis Tower(Yahoo)
 芝加哥大楼外壁出现裂纹
+
+坚持 继续 抵抗 holdout  武装抵抗者 armed holdouts
+In New Jersey, authorities rescue storm holdouts(LATIMES) 
+新泽西政府救援风暴坚持待援者
+Argentina to court: revert order on debt holdouts(Yahoo)
+阿根廷恢复在债务抵制方面的命令
+Libyan rebels battle heavily armed regime holdouts(LATIMES)
+利比亚反对派沉重地打击前政权武装抵抗
 
 驼背 hunchback
 Study: King Richard III maligned as hunchback(Yahoo)
@@ -15841,7 +15853,9 @@ U.N. nuclear watchdog board rebukes defiant Iran(Reuters)
 North Korea says will boost nuclear deterrent after U.N. rebuke(Yahoo)
 在联合国指责后朝鲜说将加强核遏制
 
-妨碍 阻碍 impede/hamper/hobble/cripple/hinder(hindrance)/foil/inhibit/stymie/block/logjam/deter(deterrence)/thwart/bar  阻碍审判 hinder trial 解决僵局 fix logjam
+阻止 妨碍 阻碍 impede/hamper/hobble/cripple/hinder(hindrance)/foil/inhibit/stymie/block/logjam/deter(deterrence)/thwart/bar  阻止预算削减 head off spending cuts 阻碍审判 hinder trial 解决僵局 fix logjam
+Obama urges Congress to head off spending cuts(Yahoo)
+奥巴马要求国会阻止预算削减
 More obstacles impede crews in Japan nuke crisis
 核电厂修复人员受到很多困难障碍的阻滞
 Bachmann: Migraines won't impede White House goals(AP)
@@ -16699,10 +16713,6 @@ Russia earmarks $40 billion as euro zone crisis buffer: FT
 McCaskill-led earmark probe finds $834 million in requests(WAPOST) 
 麦卡斯基尔领导的专款调查发现8亿美元正在申请中
 
-流放 exile
-Exile hangs over China's blind activist
-流放笼罩活动家
-
 再见 bid adieu/bid farewell/say goodbye
 NYC, world ring in 2012, bid adieu to a tough year(AP)
 纽约市，2012世界环，向艰难的一年(bid adieu)说再见
@@ -16991,10 +17001,6 @@ Bernanke: Economy faces 'significant headwinds'(LATIMES)
 Obama warns of economic "headwinds," sees euro surviving(Yahoo)
 看到欧元逐渐变好情况,奥巴马仍旧警告经济逆风
 
-阻止 head off  阻止预算削减 head off spending cuts
-Obama urges Congress to head off spending cuts(Yahoo)
-奥巴马要求国会阻止预算削减
-
 痛击 knock someone's head off
 When you knock someone's head off, look like a lady(LATIMES) 
 当你痛击别人时,看起来像个妇人
@@ -17085,15 +17091,55 @@ U.S. swimmer Nathan Adrian squeaks out win in 100-meter freestyle(LATIMES)
 'Binders full of women' effort predated Romney(Yahoo)
 工作早于鲁梅尼
 
-布上阴云 cast shadow on
+蒙上阴影 布上阴云 overshadow/overcloud/cast shadow(cloud) on(over)
 Factory growth slows, casts shadow on economy(Reuters)
 工厂增长放缓,给经济布上阴云
+Limbaugh comments overshadow GOP contest(AP)
+林博的评论给共和党竞争蒙上阴影
+Discord overshadows Rio environment summit
+纷争让里约环境峰会蒙上阴影
+Election-Year Stakes Overshadow Nuances of Benghazi Investigation(TIMES)
+选举年双方较劲让,遮盖住了班加西事件调查的细微差别
+Politics, ideology overshadow debt limit talks (Reuters)
+政治思想意识让谈判蒙上阴影
+In debt talks' new phase, blame game overshadows fiscal blueprint(WAPOST) 
+债务讨论新阶段,指责游戏让财政计划蒙上阴影
 
-坚决地做.. be firm with
+走出阴影 rise out of shadow
+With UN bid, Abbas rises out of Arafat's shadow(AP)
+通过入联努力,阿巴斯走出阿拉法特阴影
+
+预示 foreshadow/forecast/foretell/foresee/predict(prediction)
+North Korea's failed missile may foreshadow nuclear test(LATIMES)
+朝鲜卫星发射失败预示核试验
+Beverly Hills earthquakes unlikely to foreshadow larger temblor(LATIMES)
+比弗利山地震未必会预示更大的地震
+Modest gains forecast for Jan. jobs report(WAPOST)
+对一月就业报告预测得到中等的评价
+Apple crushes forecasts again, iPad backlogged
+苹果再次打破预期平板产品积压
+Budget forecasts 500,000 new jobs: Swan(ABC)
+预算预测新工作机会:宣称
+Heat Deaths Rise, but Cooler Air Is in the Forecast(TIMES)
+热死亡上升,但冷空气依旧预期中
+White House forecasts high unemployment through 2012(LATIMES)
+白宫预测明年高失业率
+Romney backpedals on Iowa win prediction(CBS)
+在衣阿华州竞选胜利语言上,鲁梅尼食言
+Analysts blame recovery's unevenness as they predict modest 2.5 percent growth(WAPOST)
+分析师指责经济恢复不平衡,因而预测中等增长率
+Critical shortage of doctors predicted(CBS)
+医生濒临短缺被预测
+Well: Predicting Sex Life After Prostate Cancer(TIMES)
+在前列腺癌之后,可预计的性生活
+Fed up! McCain predicts rise of third political party(Reuters)
+厌烦了!凯恩预计第三大政治党派上升
+
+对……严格 对坚决 be firm with
 Obama friendly but firm with China heir apparent(Reuters)
-奥巴马友好的但坚决的对待确定继承人
+奥巴马对待确定继承人友好但坚决
 
-单独囚禁 confine(confinement)  单独监禁 solitary confinement
+单独囚禁 confine(confinement) 单独监禁 solitary confinement
 Suspected O.C. serial killer held in solitary confinement(LATIMES)
 连环杀手疑犯被单独囚禁
 Prisoners call upon United Nations to investigate solitary confinement(LATIMES)
@@ -17109,15 +17155,69 @@ Who will be whispering in Hillary Clinton's ear now?(The Christian Science Monit
 Romney campaign turns to shallow pockets(LATIMES)
 鲁梅尼竞选活动变成拮据
 
-继续 roll on
+继续 roll on/pick up/continue/proceed/move on/grind on/rage on/persist/go on 战斗继续 fight persist   僵局持续 deadlock persist
 After Devastating Floods, Debate Over Mission of the Missouri Rolls On(TIMES)
 在毁灭性的洪水后,关于密苏里任务的争论继续进行
+Deepwater Oil Drilling Picks Up Again as BP Disaster Fades(TIMES)
+由于英石油灾难影响逐渐消退,深海石油钻探继续
+Palestinians to proceed with UN recognition bid(AP) 
+巴国继续承认努力
+Dock strike proceeds despite last-ditch plea
+码头港口攻击继续尽管最后一搏的借口
+Drilling Off Cyprus Will Proceed Despite Warnings From Turkey(TIMES)
+尽管有来自土耳其的警告,塞浦路斯外部的钻探活动将继续
+49ers proceed into bye week with emotional coach(AP)
+49人继续与性情的有感情的教练告别周
+Romney, Gingrich proceed carefully in GOP showdown(AP) 
+在共和党内对决中,鲁梅尼和金里奇谨慎地继续前进
+Bombs kill 4 in Iraq as violence grinds on(Yahoo) 
+伊拉克炸弹炸死四人,暴力继续
+The Cleanup Grinds On For Months After Disasters(TIMES)
+灾后数月,清理工作坚定地进行
+As fighting persists in Libya, Kadafi remains at large(LATIMES)
+由于战斗继续,卡扎菲仍未被捕获
+Debt crisis moves to Senate, deadlock persists(Reuters)
+债务危机移向参议院,死锁继续
+Joplin grad orphaned by tornado tries to move on(CBS)
+奥普灵市因为龙卷风沦为孤儿毕业生试图继续生活
+Drilling Off Cyprus Will Proceed Despite Warnings From Turkey(TIMES)
+尽管有来自土耳其的警告,塞浦路斯外部的钻探活动将继续
+Wrangling over anti-bribery law rages on, with top firms facing investigation(WAPOST)
+反腐败法上争吵继续,顶级公司都面对调查
+Lesson not learned: Partisan bickering rages on(CBS)
+教训没有学会:党派的争吵继续蔓延
+Cairo street battles rage on through the night(Reuters) 
+开罗街头的打斗持续蔓延一夜
+
+继续前进 move forward
+In Nevada, Gingrich fumbles but moves forward(AP)
+在内华达州金里奇在摸索但继续前进
+Canada-Texas oil pipeline moves forward(LATIMES)
+加拿大到德州输油管往前继续铺设
+
+继续 保持 keep up  保持常态 装门面 keep up appearance
+Pension Funds Making Alternative Bets Struggle to Keep Up(TIMES)
+进行替代赌博的退休基金努力保持升值
+Metal recycling firms burgeon in state, but regulators can't keep up(LATIMES)
+金属回收公司快速增长,但管理者不能保持管理
+Anti-Wall Street protesters vow to keep up fight(Reuters)
+反华尔街示威者发誓要继续战斗
+Banks Retrench in Europe While Keeping Up Appearances(TIMES) 
+欧洲银行节省开支然而撑门面
+
+延长时间 继续延长 prolong/spin out  持续很长时间的 prolonging
+Paul Ryan: Prolonging GOP race would be 'counterproductive'(LATIMES)
+持续很长时间的共和党竞选将是产生不良后果的
+Morsi stands by decrees, prolonging showdown(CBS) 
+在延迟摊牌时间后,埃及总统穆尔西坚持颁布命令
+Eastside record label still spinning out the music(LATIMES)
+音乐碟仍旧延长售卖
 
 悲惨地死去 像狗一样死去 die a dog's death
 Trauma: To Highlight Benefits of a Clotting Drug, a Cartoon Figure Dies a Messy Death(TIMES) 
 创伤:为突出凝血药物的好处,一幅卡通画展示了一种混乱的死亡
 
-提供 转化 使...成为 render  使纽约港不合适 Render New York Harbor Unfit
+渲染 使得 致使 提供 render  使纽约港不合适 Render New York Harbor Unfit
 Sewage Spill Renders New York Harbor Unfit(TIMES)
 下水道污物泄露,让纽约港湾置于不适宜状况
 
@@ -18623,10 +18723,6 @@ Romney picks up important New Hampshire endorsement(Reuters)
 The Caucus: G.O.P. Contenders Scramble to Pick Up Cain's Supporters(TIMES) 
 共和党内竞争者争夺获取凯恩的支持者
 
-继续 pick up/continue
-Deepwater Oil Drilling Picks Up Again as BP Disaster Fades(TIMES)
-由于英石油灾难影响逐渐消退,深海石油钻探继续
-
 接受 pick up/take up
 Red Sox decline to pick up option on Francona(AP)
 雷德拒绝接受弗兰科纳的条件
@@ -18798,30 +18894,6 @@ Some fear post-revolution Libya may look like Iraq(LATIMES)
 一些人害怕革命后的利比亚像伊拉克
 When you knock someone's head off, look like a lady(LATIMES) 
 当你复制别人的想法时,看起来像个妇人
-
-蒙上阴影 overshadow/overcloud/cast shadow(cloud) on(over)
-Limbaugh comments overshadow GOP contest(AP)
-林博的评论给共和党竞争蒙上阴影
-Discord overshadows Rio environment summit
-纷争让里约环境峰会蒙上阴影
-Election-Year Stakes Overshadow Nuances of Benghazi Investigation(TIMES)
-选举年双方较劲让,遮盖住了班加西事件调查的细微差别
-Politics, ideology overshadow debt limit talks (Reuters)
-政治思想意识让谈判蒙上阴影
-In debt talks' new phase, blame game overshadows fiscal blueprint(WAPOST) 
-债务讨论新阶段,指责游戏让财政计划蒙上阴影
-
-继续 起诉 proceed/move on/continue
-Palestinians to proceed with UN recognition bid(AP) 
-巴国继续承认努力
-Dock strike proceeds despite last-ditch plea
-码头港口攻击继续尽管最后一搏的借口
-Drilling Off Cyprus Will Proceed Despite Warnings From Turkey(TIMES)
-尽管有来自土耳其的警告,塞浦路斯外部的钻探活动将继续
-49ers proceed into bye week with emotional coach(AP)
-49人继续与性情的有感情的教练告别周
-Romney, Gingrich proceed carefully in GOP showdown(AP) 
-在共和党内对决中,鲁梅尼和金里奇谨慎地继续前进
 
 有做..嗜好爱好 be bent on doing/for sth
 Police say ex-cop was bent on exacting revenge(LATIMES)
@@ -20675,10 +20747,6 @@ Censors Pull Reins as China TV, Chasing Profit, Gets Racy(TIMES)
 How a Soviet spy outmaneuvered John Maynard Keynes to ensure U.S. financial dominance(WAPOST)
 一个苏联间谍如何被约翰用策略击败,因而确保美国金融统治地位
 
-走出阴影 rise out of shadow
-With UN bid, Abbas rises out of Arafat's shadow(AP)
-通过入联努力,阿巴斯走出阿拉法特阴影
-
 负面展望 outlook negative
 Moody's confirms U.S. rating at AAA, outlook negative(Reuters)
 穆迪确认美信用评级是3A,前景负面
@@ -20762,12 +20830,6 @@ Powerful typhoon lumbers toward Japan's Okinawa(Yahoo)
 强烈的台风缓慢向日本移动
 Federal substance-abuse agencies lumber toward a merger(LATIMES) 
 联邦药物滥用部门慢慢地走向合并
-
-继续 坚定地向前 grind on
-Bombs kill 4 in Iraq as violence grinds on(Yahoo) 
-伊拉克炸弹炸死四人,暴力继续
-The Cleanup Grinds On For Months After Disasters(TIMES)
-灾后数月,清理工作坚定地进行
 
 放弃 relinquish
 France Says Qaddafi Can Stay in Libya if He Relinquishes Power(TIMES)
@@ -22395,12 +22457,6 @@ Giffords leads crowd in Pledge of Allegiance(AP)
 As Joy Dies Down After Arab Revolts, Uncertainty Settles In(TIMES)
 在阿拉伯人反抗后,由于快乐逐渐减弱,对未来不确定出现
 
-继续 坚持 persist  战斗继续 fight persist   僵局持续 deadlock persist
-As fighting persists in Libya, Kadafi remains at large(LATIMES)
-由于战斗继续,卡扎菲仍未被捕获
-Debt crisis moves to Senate, deadlock persists(Reuters)
-债务危机移向参议院,死锁继续
-
 据信是 (be) believed to  据说是 (be) said to
 Explosions in Ankara Are Believed to Be Terrorism(TIMES)
 安卡拉的爆炸据信是恐怖活动
@@ -23071,12 +23127,6 @@ Heed these rules before biting into Apple(WAPOST)
 Razzies put bite on "Twilight" as worst picture(CBS)
 瑞兹狠狠挖苦批评暮光为一部糟糕电影
 
-继续前进 move forward
-In Nevada, Gingrich fumbles but moves forward(AP)
-在内华达州金里奇在摸索但继续前进
-Canada-Texas oil pipeline moves forward(LATIMES)
-加拿大到德州输油管往前继续铺设
-
 反击 fire back (at)
 Marshall fires back at Sapp for "retard" comment(CBS)
 马歇尔因为迟缓的评论而对沙普反击
@@ -23104,12 +23154,6 @@ Prisons Rethink Isolation, Saving Money, Lives and Sanity(TIMES)
 监狱重新考虑隔离,节约费用,保护生命和精神正常
 Trucker rethinks next haul after crash with bees(AP)
 在与蜜蜂群相撞后卡车司机重新考虑下一次大检修
-
-预示 foreshadow/forecast/predict
-North Korea's failed missile may foreshadow nuclear test(LATIMES)
-朝鲜卫星发射失败预示核试验
-Beverly Hills earthquakes unlikely to foreshadow larger temblor(LATIMES)
-比弗利山地震未必会预示更大的地震
 
 欺骗 欺诈 defraud(fraud)  欺骗支持者 defraud supporter
 SEC: China-based coal mining company Puda an empty shell, defrauded investors(WAPOST)
@@ -24278,18 +24322,6 @@ Democratic Convention Spotlight Beckons San Antonio Mayor(TIMES)
 When work still beckons(WAPOST)
 何时工作将召唤
 
-预示 forecast/foreshadow/predict/foresee
-Modest gains forecast for Jan. jobs report(WAPOST)
-对一月就业报告预测得到中等的评价
-Apple crushes forecasts again, iPad backlogged
-苹果再次打破预期平板产品积压
-Budget forecasts 500,000 new jobs: Swan(ABC)
-预算预测新工作机会:宣称
-Heat Deaths Rise, but Cooler Air Is in the Forecast(TIMES)
-热死亡上升,但冷空气依旧预期中
-White House forecasts high unemployment through 2012(LATIMES)
-白宫预测明年高失业率
-
 释放 放开 解开束缚 unleash/loosen/unravel  释放怒火 unleash anger/unleash fury
 Egyptian Protesters Unleash Anger After Soccer Violence(TIMES)
 在足球骚扰后,埃及示威者释放怒火
@@ -24658,18 +24690,6 @@ Eagles swoop in and snag Asomugha(AP)
 How to raise revenue and cut childhood obesity in one fell swoop(WAPOST)
 如何在提高收入和减少儿童肥胖问题上狠狠来一下子
 
-继续 move on/rage on/proceed/continue
-Joplin grad orphaned by tornado tries to move on(CBS)
-奥普灵市因为龙卷风沦为孤儿毕业生试图继续生活
-Drilling Off Cyprus Will Proceed Despite Warnings From Turkey(TIMES)
-尽管有来自土耳其的警告,塞浦路斯外部的钻探活动将继续
-Wrangling over anti-bribery law rages on, with top firms facing investigation(WAPOST)
-反腐败法上争吵继续,顶级公司都面对调查
-Lesson not learned: Partisan bickering rages on(CBS)
-教训没有学会:党派的争吵继续蔓延
-Cairo street battles rage on through the night(Reuters) 
-开罗街头的打斗持续蔓延一夜
-
 意识到 理解 perceive
 Americans feel defriended over perceived Eduardo Saverin tax dodge(LATIMES)
 在认识到爱德华多逃税后,美国人感到不被当成朋友
@@ -24725,18 +24745,6 @@ Obama chides China, hopes to use as campaign wedge(Yahoo)
 奥巴马指责中国,希望用作与对手的选战差异
 'Fiscal cliff' drives a wedge into the business world as Obama meets with CEOs(WAPOST)
 当奥巴马会见CEO时候,财政悬崖问题制造商业世界中分裂
-
-预示 预测 predict(prediction)/foreshadow/forecast/foretell/foresee
-Romney backpedals on Iowa win prediction(CBS)
-在衣阿华州竞选胜利语言上,鲁梅尼食言
-Analysts blame recovery's unevenness as they predict modest 2.5 percent growth(WAPOST)
-分析师指责经济恢复不平衡,因而预测中等增长率
-Critical shortage of doctors predicted(CBS)
-医生濒临短缺被预测
-Well: Predicting Sex Life After Prostate Cancer(TIMES)
-在前列腺癌之后,可预计的性生活
-Fed up! McCain predicts rise of third political party(Reuters)
-厌烦了!凯恩预计第三大政治党派上升
 
 展现 实现 演出 进行 enact/act out/perform
 Europe must take "deep breath" and enact reforms: Merkel(Yahoo)
@@ -25308,16 +25316,6 @@ Raided American Groups Rebut Egyptian Accusations(TIMES)
 Ann Romney rebuts Bill Clinton's criticisms(CBS)
 鲁梅尼反驳克林顿批评
 
-继续 保持 keep up  保持常态 装门面 keep up appearance
-Pension Funds Making Alternative Bets Struggle to Keep Up(TIMES)
-进行替代赌博的退休基金努力保持升值
-Metal recycling firms burgeon in state, but regulators can't keep up(LATIMES)
-金属回收公司快速增长,但管理者不能保持管理
-Anti-Wall Street protesters vow to keep up fight(Reuters)
-反华尔街示威者发誓要继续战斗
-Banks Retrench in Europe While Keeping Up Appearances(TIMES) 
-欧洲银行节省开支然而撑门面
-
 使醒悟 幻想破灭 disillusion/disillusionment
 Interviews with swing-state voters: The longtime Republican disillusioned with her party(WAPOST) 
 对摇摆州选民采访:共和党长期让其希望破灭
@@ -25858,14 +25856,6 @@ Norwegians heckle mass killer with children's song(CBS)
  Na heckled at Players, slides down leaderboard
 纳被质问诘问,为何从高尔夫选手排名榜上滑落
 
-延长时间 继续延长 prolong/spin out  持续很长时间的 prolonging
-Paul Ryan: Prolonging GOP race would be 'counterproductive'(LATIMES)
-持续很长时间的共和党竞选将是产生不良后果的
-Morsi stands by decrees, prolonging showdown(CBS) 
-在延迟摊牌时间后,埃及总统穆尔西坚持颁布命令
-Eastside record label still spinning out the music(LATIMES)
-音乐碟仍旧延长售卖
-
 据说 be said to 
 Libyan Rebels Press Gains as Some Loyalists Are Said to Flee(TIMES)
 一些卡扎菲忠诚者据说逃离,利比亚反对派发布进攻结果
@@ -26293,12 +26283,6 @@ More ground turkey recalled over salmonella fear(CBS)
 逐渐停止 grind
 Stocks grind higher, pushing Dow toward record(Yahoo)
 股市缓慢走高停盘,推动道琼斯创纪录
-
-继续 grind on/go on
-Bombs kill 4 in Iraq as violence grinds on(Yahoo) 
-伊拉克炸弹炸死四人,暴力继续
-The Cleanup Grinds On For Months After Disasters(TIMES)
-灾后数月,清理工作坚定地进行
 
 制定 lay out/map  安排计划 lay out plan
 DNC lays out plans for convention, weather(LATIMES)
@@ -26973,14 +26957,6 @@ Gingrich racks up more debt as his campaign disintegrates(WAPOST)
 待在后面 stay in background
 As Greece Turns Leftward, Its Tycoons Stay in Background(TIMES)
 由于希腊转向左,大亨们待在后台
-
-坚持 继续 抵抗 holdout  武装抵抗者 armed holdouts
-In New Jersey, authorities rescue storm holdouts(LATIMES) 
-新泽西政府救援风暴坚持待援者
-Argentina to court: revert order on debt holdouts(Yahoo)
-阿根廷恢复在债务抵制方面的命令
-Libyan rebels battle heavily armed regime holdouts(LATIMES)
-利比亚反对派沉重地打击前政权武装抵抗
 
 痛击 打击 sock
 Netflix socks subscribers with 59% price hike(CBS) 
