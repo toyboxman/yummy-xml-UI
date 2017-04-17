@@ -36,6 +36,10 @@ Unemployment leading to California exodus(CBS)
 Exile hangs over China's blind activist
 流放笼罩活动家
 
+低调 低声 undertone
+A 50th anniversary at Dodger Stadium, with a sober undertone(LATIMES)
+在道奇体育场50周年庆典上,清醒的低语调
+
 致命弱点 阿喀琉斯之踵 one's Achilles' heel
 Is auto bailout Romney's Achilles' heel?(CBS)
 汽车业救援行动是鲁梅尼的致命弱点吗
@@ -18115,7 +18119,7 @@ Author of U.S. online piracy bill vows not to buckle(Reuters)
 Antsy toddler won't buckle up, booted from plane(CBS)
 不耐烦的学步儿童没有扣紧安全带,被赶出飞机
 
-渗出 泄漏 seep(seepage)  渗入食物 seep into hot food
+渗出 泄漏 seep(seepage)  渗入食物 seep into food
 Deepwater Horizon site seeping again?(CBS)
 深海钻探平台再次发生泄漏
 In Tunisian Town of Arab Spring Martyr, Disillusionment Seeps In(TIMES)
@@ -18123,7 +18127,7 @@ In Tunisian Town of Arab Spring Martyr, Disillusionment Seeps In(TIMES)
 Melamine chemical found to seep into hot food(CBS)
 三聚氰胺化学物质被发现渗入热食品
 
-脱下 难以置信完成 非常困难地做到 pull off
+脱下 难以置信完成 非常困难地做到 pull off 让所有官员完成巡逻 pull officers off patrol
 Vandy pulls off triple steal in win over Florida
 范迪难以置信完成三次偷垒帮助棒球队战胜对手
 How "payday" lenders pull off rates(CBS)
@@ -18131,17 +18135,25 @@ How "payday" lenders pull off rates(CBS)
 LAPD to pull officers off patrol to deal with influx of offenders(LATIMES)
 洛杉矶警局所有官员都完成巡逻处理抗议者汇入城市
 
-乞讨 mooch sth off/from sb
+要别人白给 揩油 mooch sth off sb 从美国弄到钱 mooch off the U.S.
 Is Sweden awesome because it mooches off the U.S.?(WAPOST)
-瑞典是了不起的因为它向美国乞讨
+瑞典是了不起的因为它从美国弄到钱了
 
-使气馁 使畏缩 daunt/dismay
+使气馁 使畏缩 失去勇气信心 unnerve/daunt  使华尔街失去信心 unnerve Wall Street
+Art World Unnerved by China's Detention of Two(TIMES)
+中国拘捕两人让艺术界气馁
+Radical Islamic Attacks in Moderate Region Unnerve Kremlin(TIMES)
+对中立温和地区进行激进的伊斯兰袭击让克里姆林宫气馁
+Cost surge under new Google CEO unnerves Wall Street
+新老板执掌谷歌后成本上升让华尔街失去信心
+Oakland police action unnerves some protesters(AP)
+奥克兰警察的行动让一些示威者失去勇 
 A daunting Obama ground game awaits Romney(LATIMES)
 气馁的奥巴马放下玩乐等待鲁梅尼
 
-通过 席卷 sink in/pass through
+渗入 起作用 sink in 龙卷风破坏影响到各方面 Tornado's Devastation Sinks In
 In Illinois, Tornado's Devastation Sinks In(TIMES)
-在伊利诺伊州,龙卷风破坏席卷
+在伊利诺伊州,龙卷风破坏影响到各方面
 
 下沉 陷落 消失 sink  认识正在消失 realization is sinking  沉没 sink off
 On Wall Street, realization is sinking in over the elusiveness of 'fiscal cliff' deal(WAPOST)
@@ -18172,10 +18184,6 @@ Tripoli chaos raises fear of missiles going to terrorists(LATIMES)
 的黎波里骚乱增加对导弹进入恐怖分子手中的担忧
 Bombs rock Baghdad, raising fears of sectarian war(AP) 
 炸弹震撼巴格达,增加对教派间战争担忧
-
-低调 低声 undertone
-A 50th anniversary at Dodger Stadium, with a sober undertone(LATIMES)
-在道奇体育场50周年庆典上,清醒的低语调
 
 擦边而过 sideswipe
 Amendment to highway bill sideswipes Little Tobacco River(WAPOST)
@@ -27844,16 +27852,6 @@ Romney paid $100,000 to purge records - report(CBS)
 扩大 延伸 outreach
 Losing faith in Democrats' religious outreach
 民主党审慎的扩大过程中信仰在失去
-
-气馁 失去勇气信心 unnerve
-Art World Unnerved by China's Detention of Two(TIMES)
-中国拘捕两人让艺术界气馁
-Radical Islamic Attacks in Moderate Region Unnerve Kremlin(TIMES)
-对中立温和地区进行激进的伊斯兰袭击让克里姆林宫气馁
-Cost surge under new Google CEO unnerves Wall Street
-新老板执掌谷歌后成本上升让华尔街失去信心
-Oakland police action unnerves some protesters(AP)
-奥克兰警察的行动让一些示威者失去勇气
 
 引人注目 stand out
 Analysis: Three states stand out in 2012 presidential election(LATIMES)
