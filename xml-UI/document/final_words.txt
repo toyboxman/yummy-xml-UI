@@ -768,7 +768,7 @@ San Fran. cop posts video of "drunk" joyride(CBS)
 Irvine 11 D.A.'s closing statement branded 'political theater'(LATIMES)
 欧文(美国加州一城市名)地方检察官的最后陈述被贴上政治宣传的标签
 
-干涉 干预 intervene(intervention)/interfere(interference)
+干涉 干预 intervention/interference
 China offers plan on Syria but nixes intervention(CBS)
 中国提出叙利亚计划,但拒绝干涉
 China says U.S. human rights outcry is interference(Reuters)
@@ -7738,7 +7738,7 @@ Heat wave plunges much of U.S. into a deep fryer(Reuters)
 "Unrelenting" heat wave scorches Midwest(CBS)
 持续的热浪,烫焦中西部
 
-报复 retaliation(retaliate)/vengeance(avenge)
+报复 retaliation/vengeance
 Parents: FAMU hazing was retaliation(CBS)
 佛州农机大学欺辱案是报复
 Anonymous defaces security firm's Web site in retaliation for arrests(WAPOST)
@@ -15801,7 +15801,9 @@ N.F.L. Roars Back to Life as Labor Standoff Ends(TIMES)
 Kim family myths renew with a roar(CBS) 
 伴随欢呼声金家族神话秘密再次开始
 
-谴责 痛斥 condemn/deplore/denounce/criticize/berate/decry/chide/rebuke/scold/reprimand/blame
+谴责 痛斥 condemn/censure/deplore/denounce/criticize/berate/decry/chide/rebuke/scold/reprimand/blame
+UK and France pile censure on Israel's new settlement plan(Yahoo)
+英法两国严厉批评以色列新解决巴以问题计划
 U.S. Deplores Video of Marines Urinating on Taliban(TIMES)
 美国谴责陆战队士兵朝塔利班尸体撒尿的视频
 Gingrich angrily denounces 'open marriage' claim at GOP debate(LATIMES)
@@ -18563,13 +18565,15 @@ Republicans bash Pakistan in debate(Reuters)
 Cardinals told to zip lips ahead of conclave(CBS)
 秘密会议之前主教们被要求封嘴
 
-责难 谴责 censure/rebuke
-UK and France pile censure on Israel's new settlement plan(Yahoo)
-英法两国严厉批评以色列新解决巴以问题计划
-
-复苏 复活 revitalize/rally/revive/resurrect
+使复活 复苏 resurrect(resurrection)/revive/revitalize
 Activists Aim to Revitalize Israeli Protests(TIMES)
 活动者想复活以色列抗议活动
+In Komen fallout, abortion-breast cancer myth is resurrected(LATIMES)
+在科曼余波中,失败的乳癌神话被复活
+J.C. Penney resurrects the word "sale" (CBS)
+彭妮复活词语销售
+Resurrecting the extinct(CBS)
+复活灭绝的东西
 
 相应减少 相应缩减 scale back
 Memos show Obama scaled back his ambitions(CBS)
@@ -18579,9 +18583,25 @@ U.S. debt talks scaled back over tax rift(Reuters)
 Deficit-cutting panel may scale back efforts(Reuters) 
 赤字削减委员会将相应缩减工作量
 
-戏弄 嘲弄 deride/ridicule/tease/mock
+嘲弄 戏弄 tease/mock/ridicule(ridiculous)/deride        
+Watch: Obama teases David Beckham (CBS)
+奥巴马逗弄贝克汉姆
+Park ranger teases man walking dogs off-leash(CBS)
+公园巡查人嘲弄不用狗皮带束缚而遛狗的男子
+Michelle Obama teases Gabby Douglas over fast food(Yahoo)
+奥巴马夫人嘲笑黑人奥运体操冠军道格拉斯夺冠吃快餐
+Teenage boy teases shark, gets bitten(ABC)
+十岁小孩逗弄鲨鱼被咬
+Romney ridicules rival Gingrich on eve of Florida vote(Reuters)
+在佛州投票前夜,鲁梅尼嘲讽对手金里奇
+Bristol Palin ridiculing Obama on gay marriage? Cue the backlash(LATIMES)
+在同性婚姻上佩林嘲弄挪揄奥巴马, 暗示强烈反应
 Many derided by Romney for paying no income tax do pay other taxes(LATIMES)
 很多被鲁梅尼嘲笑的人没交收入税但交了其他税
+
+梳理 tease/comb   梳理出 选出 tease out
+Tropical storm teases parched Texas, but fizzles(AP)
+热带风暴梳理被烤干的德州,但接近尾声
 
 联合起来 band together
 Exonerated ex-convicts band together(CBS)
@@ -18605,13 +18625,21 @@ Man dies after being handcuffed(ABC)
 Lindsay Lohan in handcuffs after probation revoked(LATIMES)
 林德赛在缓刑被撤消后重新戴上手铐
 
-干预 干涉 meddle/intervene/interfere
+干预 干涉 meddle/intervene/interfere 干涉协议 intervene pact
 Critics see gov't meddling in school lunch swap(AP)
 批评说政府的干预影响到学校免费午餐
 Syria accuses US of meddling(AFP)
 叙利亚指责美国干涉
 Lawmaker probing if Treasury meddled in S&P rating(Reuters)
 议员调查是否财政部干预标准普尔定级
+NY seeks to intervene in BoA $8.5 billion pact(Reuters)
+纽约寻求干涉协议
+News Analysis: Famine Hits Somalia in World Less Likely to Intervene(TIMES)
+饥荒袭击索马里在世界缺少干预可能的情况下
+Japan intervened to stem yen's climb: finance minister(Reuters)
+日本干预遏制日元上升
+Group of 7 To Intervene To Stabilize Yen's Value (NY Times)
+富国俱乐部决定联合干预阻止日元波动
 
 排优先级 prioritize
 Obama prioritizing election over economy(CBS)
@@ -18621,11 +18649,19 @@ Obama prioritizing election over economy(CBS)
 Bolivia expropriates Spanish energy subsidiaries(Yahoo)
 玻利维亚没收西班牙能源附属企业
 
-报复 retaliate(retaliation)/venge/avenge
+报复 avenge/revenge/retaliate(retaliation)/venge  复仇者 avenger
 Israel retaliates for deadly blast, rocket attacks (AP)
 以色列对自杀爆炸和火箭攻击进行报复
+Anonymous defaces security firm's Web site in retaliation for arrests(WAPOST)
+匿名者损坏安全公司网站为报复被捕者
+Al-Qaeda vows to avenge death of 'martyr' bin Laden(AFP)
+基地发誓报复烈士之死
+Man avenges bee-stung friend, sets hive on fire(CBS)
+男子为蜜蜂蛰伤的朋友复仇,烧毁蜂箱
+Air Force buys an Avenger, its biggest and fastest armed drone(LATIMES) 
+空军购买复仇者,这是最大最快的无人攻击机
 
-未给...留下深刻印象 underwhelm  未留下深刻印象的 Underwhelming
+未给...留下深刻印象 underwhelm  未留下深刻印象的 Underwhelming 压倒性的 无法抗拒的 overwhelming
 Underwhelming debut for YSL's Slimane(Yahoo)
 未留下深刻印象的苏莱曼首次亮相
 BofA plans 30,000 job cuts; investors underwhelmed(Reuters)
@@ -21291,16 +21327,6 @@ Federal substance-abuse agencies lumber toward a merger(LATIMES)
 France Says Qaddafi Can Stay in Libya if He Relinquishes Power(TIMES)
 法国说如果放弃权利,卡扎菲能留在利比亚
 
-报复 avenge/revenge/retaliate(retaliation)  复仇者 avenger
-Anonymous defaces security firm's Web site in retaliation for arrests(WAPOST)
-匿名者损坏安全公司网站为报复被捕者
-Al-Qaeda vows to avenge death of 'martyr' bin Laden(AFP)
-基地发誓报复烈士之死
-Man avenges bee-stung friend, sets hive on fire(CBS)
-男子为蜜蜂蛰伤的朋友复仇,烧毁蜂箱
-Air Force buys an Avenger, its biggest and fastest armed drone(LATIMES) 
-空军购买复仇者,这是最大最快的无人攻击机
-
 注意 提防 beware
 Did Black Friday save the season? Beware the retail hype.(WAPOST) 
 黑色星期五拯救本季度,当心零售业天花乱坠的宣传报道
@@ -21566,14 +21592,6 @@ Greek Abbot Jailed Over Land Swap Scandal(TIMES)
 回到原地 恢复原状 come full circle
 Heads Up: Berlin's Galleries Come Full Circle(TIMES)
 柏林画廊恢复原状
-
-使复活 复苏 resurrect(resurrection)/revive/revitalize
-In Komen fallout, abortion-breast cancer myth is resurrected(LATIMES)
-在科曼余波中,失败的乳癌神话被复活
-J.C. Penney resurrects the word "sale" (CBS)
-彭妮复活词语销售
-Resurrecting the extinct(CBS)
-复活灭绝的东西
 
 打滑 减速 刹住 skid  增长终止 growth skid  滑离跑道 skid off runway  打住下滑 snap skid
 Facebook revenue growth skids, shares plunge(Yahoo)
@@ -24193,24 +24211,6 @@ Speaker Boehner bows to pressure on tax deal(Reuters)
 If your parents have financial problems, get the full picture before diving in to help(WAPOST)
 如果你父母有金融问题在投入帮助前先了解大致情况
 
-嘲弄 戏弄 tease/mock/ridicule(ridiculous)/deride        
-Watch: Obama teases David Beckham (CBS)
-奥巴马逗弄贝克汉姆
-Park ranger teases man walking dogs off-leash(CBS)
-公园巡查人嘲弄不用狗皮带束缚而遛狗的男子
-Michelle Obama teases Gabby Douglas over fast food(Yahoo)
-奥巴马夫人嘲笑黑人奥运体操冠军道格拉斯夺冠吃快餐
-Teenage boy teases shark, gets bitten(ABC)
-十岁小孩逗弄鲨鱼被咬
-Romney ridicules rival Gingrich on eve of Florida vote(Reuters)
-在佛州投票前夜,鲁梅尼嘲讽对手金里奇
-Bristol Palin ridiculing Obama on gay marriage? Cue the backlash(LATIMES)
-在同性婚姻上佩林嘲弄挪揄奥巴马, 暗示强烈反应
-
-梳理 tease/comb   梳理出 选出 tease out
-Tropical storm teases parched Texas, but fizzles(AP)
-热带风暴梳理被烤干的德州,但接近尾声
-
 退位 隐退 abdicate
 India cosmetic queen shows no sign of abdicating
 印度化妆美容女王没显示隐退迹象
@@ -24266,24 +24266,6 @@ Teams race to reconnect power to Japan nuke plant (AP)
 日本正在加速核电站的电源恢复工作
 New Italian, Greek governments race to limit damage(Reuters) 
 新的意大利和希腊政府加速限制经济破坏
-
-intervene(intervention)/interfere(interference)  干涉协议 intervene pact
-China offers plan on Syria but nixes intervention(CBS)
-中国提出叙利亚计划但禁止干涉
-NY seeks to intervene in BoA $8.5 billion pact(Reuters)
-纽约寻求干涉协议
-News Analysis: Famine Hits Somalia in World Less Likely to Intervene(TIMES)
-饥荒袭击索马里在世界缺少干预可能的情况下
-Japan intervened to stem yen's climb: finance minister(Reuters)
-日本干预遏制日元上升
-Group of 7 To Intervene To Stabilize Yen's Value (NY Times)
-富国俱乐部决定联合干预阻止日元波动 
-G7 agrees joint intervention to restrain yen (Reuters)  
-七国集团干预日元稳定其价值
- Military intervention looms in Libya (Reuters)
-军事干预利比亚可能性重现
-Analysis: Dollar's many woes complicate Japan intervention(Reuters)
-美元的痛苦让日本干预货币复杂化/困难
 
 制服 节制 subdue/curb/overpower  有节制的 不兴奋的 被抑制的 subdued  低沉情绪 subdued mood 
 Factory output subdued going into 2012(Reuters)
