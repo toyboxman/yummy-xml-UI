@@ -1,5 +1,6 @@
-*[markdown_pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)*
-*[markdown_html](https://guides.github.com/features/mastering-markdown/)*
+### *markdown syntax guide*
+[markdown_pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)<br>
+[markdown_html](https://guides.github.com/features/mastering-markdown/)
 
 ---
 
