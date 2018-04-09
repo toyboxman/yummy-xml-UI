@@ -1,3 +1,8 @@
+*[markdown_pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)*
+*[markdown_html](https://guides.github.com/features/mastering-markdown/)*
+
+---
+
 > [Stream 2 String](https://stackoverflow.com/questions/309424/read-convert-an-inputstream-to-a-string) 
 
 ***
