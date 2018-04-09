@@ -8,19 +8,41 @@ Platform Redhat Enterprise Server
 
 ---
 
-####1.monitor system information
+#### 1.monitor system information
 * print kernel&driver message
 ```shell
 dmesg
 ```
-~~~~~  df -h ./ -- display disk info
-~~~~~  du -sh ./ -- display current folder utilization info
-~~~~~  free -m -- display memory info by mega
-~~~~~  top -- list processes
-~~~~~  service -- config system services(GUI config is system-config-services)
-~~~~~  chkconfig -- config runlevel info of system services 
-|                    e.g. chkconfig mysql on  --set mysql service run automatically when machine runs
-~~~~~  pstree -alA  -- show full processes tree using ascii
+* display disk info
+```shell
+df -h ./
+```
+* display current folder utilization info
+```shell
+du -sh ./
+```
+* display memory info by mega
+```shell
+free -m
+```
+* list processes
+```shell
+top
+```
+* config system services(GUI config is system-config-services)
+```shell
+service
+```
+* config runlevel info of system services
+```shell
+chkconfig
+```
+> e.g. chkconfig mysql on  --set mysql service run automatically when machine runs
+* show full processes tree using ascii
+```shell
+pstree -alA
+```          
+
 ~~~~~  man -E GB2312 nc  -- read nc manual with GB2312 encoding
 ~~~~~  cat /etc/services  -- check all ports used by system services, for example, grep db2c_DB2 /etc/services, find 50000 is connection port number
 ~~~~~  cat /etc/issue  cat /proc/version  uname -a  -- check Linux release version
