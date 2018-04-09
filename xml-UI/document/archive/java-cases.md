@@ -5,7 +5,7 @@
 ## Ways to convert an InputStream to a String:
 
 ### 1.Using IOUtils.toString (Apache Utils)
-```
+```java
 String result = IOUtils.toString(inputStream, StandardCharsets.UTF_8);
 ```
 ### 2.Using CharStreams (guava)
