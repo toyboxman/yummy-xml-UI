@@ -8,7 +8,7 @@ Platform Redhat Enterprise Server
 
 ---
 
-#### 1.monitor system information
+#### monitor system information
 * print kernel&driver message
 ```shell
 dmesg
@@ -42,20 +42,47 @@ chkconfig
 ```shell
 pstree -alA
 ```          
+* read nc manual with GB2312 encoding
+```shell
+man -E GB2312 nc
+```
+* check all ports used by system services
+```shell
+cat /etc/services
+```
+> e.g. grep db2c_DB2 /etc/services, find if db2 connection port is 50000
+* check Linux release version
+```shell
+cat /etc/issue
+cat /proc/version
+uname -a
+```
+* see all network interfaces name, like 'ifconfig -a'
+```shell
+ls -1 /sys/class/net
+```
+* turn off color highlight
+```shell
+ls --color=never
+```
+> permanently turn off via adding alias ls='ls --color=never'  in .bashrc
+* see netcard hardware information
+```shell
+hwinfo --netcard
+```
+* set eth0 ip address via dhcp
+```shell
+dhclient eth0
+```
+* show routing table
+```shell
+route -n
+```
+* see all user list
+```shell
+awk -F':' '{print $1}' /etc/passwd
+```
 
-~~~~~  man -E GB2312 nc  -- read nc manual with GB2312 encoding
-~~~~~  cat /etc/services  -- check all ports used by system services, for example, grep db2c_DB2 /etc/services, find 50000 is connection port number
-~~~~~  cat /etc/issue  cat /proc/version  uname -a  -- check Linux release version
-~~~~~  ls -1 /sys/class/net  -- see all network interfaces name, like 'ifconfig -a'
-~~~~~  ls --color=never  -- No color highlight of command output, turn off via adding alias ls='ls --color=never'  in .bashrc
-~~~~~  hwinfo --netcard  -- see netcard hardware information
-~~~~~  dhclient eth0  -- set eth0 ip address via dhcp
-~~~~~  route -n  -- show routing table
-~~~~~  iptables -I INPUT -p tcp --dport 3306 -j ACCEPT  -- open mysql 3306 port in firewall
-~~~~~  service iptables save  -- save firewall config
-~~~~~  awk -F':' '{print $1}' /etc/passwd   -- see all user list
-|
-|
 2.usual command
 ~~~~~  find -- search a file by some condition
 |                    e.g. find /etc -name network.sh
@@ -165,6 +192,7 @@ iptables -I INPUT -p tcp --dport 22 -j ACCEPT
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT
 iptables -I INPUT -p tcp --dport 8080 -j ACCEPT   把8080端口规则插入INPUT表头
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT  把8081端口规则添加INPUT表尾
+iptables -I INPUT -p tcp --dport 3306 -j ACCEPT  -- open mysql 3306 port in firewall
 # Allow local-only connections
 iptables -A INPUT  -i lo -j ACCEPT
 然后保存,查看状态
