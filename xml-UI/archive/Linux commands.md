@@ -9,7 +9,7 @@ Platform Redhat Enterprise Server
 ---
 
 ####1.monitor system information
-#####print kernel&driver message
+* print kernel&driver message
 ```shell
 dmesg
 ```
