@@ -242,43 +242,55 @@ gitk file
 ### 代码的review
 1.安装支持git的reviewt专用软件 (http://en.wikipedia.org/wiki/List_of_tools_for_code_review)<br>
 2.通过gerrit review的命令来操作, 或者通过git-review命令.
-	a.git-review是openstack组织开发贡献的. 需要额外安装 sudo pip install git-review 或 aptitude install git-review
-	b.创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件 touch .gitreview
-		.gitreview配置文件类似Windows .ini文件格式，存放Gerrit安装的相关信息
-		模板如下:
-		[gerrit]
-		scheme=ssh   
-		host=gitreview.example.com
-		port=29418
-		project=XXX.git
-		defaultbranch=master
-
-		设定默认rebase到zero ，将使git-review不会rebase changes (same as the -R command line option)
-		[gerrit]
-		scheme=ssh   --default scheme (ssh/http/https) of gerrit remote
-		host=review.example.com  --gerrit remote server
-		port=29418
-		project=department/project.git   --对应的文件仓库
-		defaultbranch=master
-		defaultremote=review
-		defaultrebase=0
-		track=0
-	   
+	a.git-review是openstack组织开发贡献的. 需要额外安装
+	```shell
+	sudo pip install git-review
+	```
+	或
+	```shell
+	aptitude install git-review
+	```
+	b.创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件
+	```shell
+	touch .gitreview
+	```
+	.gitreview配置文件类似Windows .ini文件格式，存放Gerrit安装的相关信息
+	模板如下:
+	```shell
+	[gerrit]
+	scheme=ssh   
+	host=gitreview.example.com
+	port=29418
+	project=XXX.git
+	defaultbranch=master
+	```
+	设定默认rebase到zero ，将使git-review不会rebase changes (same as the -R command line option)
+	```shell
+	[gerrit]
+	scheme=ssh   --default scheme (ssh/http/https) of gerrit remote
+	host=review.example.com  --gerrit remote server
+	port=29418
+	project=department/project.git   --对应的文件仓库
+	defaultbranch=master
+	defaultremote=review
+	defaultrebase=0
+	track=0
+	```   
 	c.创建全局review用户名
-		```shell
-		git config -l    -- list all current config
-		# update author/email per repo, useful for current repo config
-		git config user.name "Gene"
-		git config user.email "Gene@genesis.org"
-		
-		# update global author/email， impact on all git repo
-		git config --global user.name "Gene"
-		git config --global user.email "Gene@genesis.org"
-		
-		#remove global config
-		git config --global --unset-all user.name
-		```
-		*当相同配置通过.gitreview配置文件或命令参数同时生效时候，命令行参数优先*
+	```shell
+	git config -l    -- list all current config
+	# update author/email per repo, useful for current repo config
+	git config user.name "Gene"
+	git config user.email "Gene@genesis.org"
+	
+	# update global author/email， impact on all git repo
+	git config --global user.name "Gene"
+	git config --global user.email "Gene@genesis.org"
+	
+	#remove global config
+	git config --global --unset-all user.name
+	```
+	*当相同配置通过.gitreview配置文件或命令参数同时生效时候，命令行参数优先*
 
 	d.设定commit-msg中自动产生Change-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
 	```shell
