@@ -251,13 +251,16 @@ Or, use yast2 in Suse to change network config and rename nic
 * show current bridge
 ```shell
 brctl show
-
+result:
 bridge name	bridge id		STP enabled	interfaces
 br0		8000.0030488e31ac	no		eth0
 br1		8000.0030488e31ad	no		eth1
 
 brctl showmacs br0
-ifconfig br0 or ip addr show br0
+
+ifconfig br0
+
+ip addr show br0
 ```
 * CentOS 6 iptables 打开端口80 3306 22等
 > [Link](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)
@@ -272,61 +275,50 @@ iptables -A INPUT -p tcp --dport 8081 -j ACCEPT  把8081端口规则添加INPUT表尾
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT  -- open mysql 3306 port in firewall
 ```
 * Allow local-only connections
+```shell
 iptables -A INPUT  -i lo -j ACCEPT
-然后保存,查看状态
-service iptables save
-service iptables status  or /etc/init.d/iptables status
+service iptables save  --保存
+service iptables status  
+/etc/init.d/iptables status
+```
 
-#check remote port status
-nc -zv 127.0.0.1 20-30  check Range of ports
-nc -zv 127.0.0.1 22 80 8080 check three ports
+* check remote port status
+```shell
+nc -zv 127.0.0.1 20-30  ---check Range of ports
+nc -zv 127.0.0.1 22 80 8080 ---check three ports
 nc -zv 10.117.7.110 9092
+
 Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
--------------------------------------------------------------------------------------------------------------------------
-# txt operation 
-http://www.thegeekstuff.com/2014/12/patch-command-examples/
--------------------------------------------------------------------------------------------------------------------------
+```
+
+---
+
+#### txt operation 
+> [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
+* patch for codes
+```shell
+diff -u hello.c hello_new.c > hello.patch  --创建patch
+
 patch -p 10 --dry-run < ../rb1138637.patch  --测试从patch文件导出差异
 patch < ../rb1138637.patch  --从patch文件直接导出差异，忽略文件路径信息
 checking file EndPoint.java
-在patch文件中源文件目录是'/src/java/controller/rest-server/src/test/java/com/vmware/controller/restserver/impl/EndPoint.java'
+在patch文件中源文件目录是'/src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java'
 patch -p1 < ../rb1138637.patch  --从patch文件导出差异，忽略前1个'/'路径
-checking file src/java/controller/rest-server/src/test/java/com/vmware/controller/restserver/impl/EndPoint.java
+checking file src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java
 patch -p 5 < ../rb1138637.patch  --从patch文件导出差异，忽略前5个'/'路径
 checking file src/test/java/com/example/EndPoint.java
-
-diff -u hello.c hello_new.c > hello.patch  --创建patch
-
-#count code lines
+```
+* count code lines
+```shell
 find . -name *.java |xargs wc -l
 find . -name *.java | xargs cat | wc -l
-
-#count word amount
+```
+* count word amount
+```shell
 ps -ef | grep -c 'sshd'  -- count how many sshd deamon running
-
--------------------------------------------------------------------------------------------------------------------------
-# kill process
--------------------------------------------------------------------------------------------------------------------------
-A process can be sent a SIGTERM signal in three ways (the process ID is '1234' in this case):
-    * kill 1234
-    * kill -TERM 1234
-    * kill -15 1234
-The process can be sent a SIGKILL signal in two ways:
-    * kill -KILL 1234
-    * kill -9 1234
-|
--------------------------------------------------------------------------------------------------------------------------
-# file/dir/package operation
--------------------------------------------------------------------------------------------------------------------------
-make a directory : mkdir directoryName
-delete a directory : rm -dfrv directoryName
-rename a file : rename firefox-2.30.tar.gz firefox.tar.gz firefox*
-move(rename) a file/directory : mv -f source destination
-install rpm file
-new install : rpm -ivh file.rpm
-update install: rpm -Uvh file.rpm
-
-#sed
+```
+* sed
+```shell
 sed 's/ /\t/g'--- what to do
 a b c d
 e  f  g  h
@@ -363,8 +355,9 @@ root@photon-machine# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*
 255.255.253.0
 root@photon-machine# grep 'netmask' vminfo.txt|awk -F'value="' '{print $2}'|awk -F'"' '{print $1}'
 255.255.253.0
-
-#awk
+```
+* awk
+```shell
 root@photon-machine [ /etc/systemd/system ]# ps -ef |grep java
 root      1211   340 10 08:38 pts/0    00:00:01 java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
 root      1265   340  0 08:38 pts/0    00:00:00 grep --color=auto java
@@ -379,15 +372,48 @@ root@photon-machine [ /etc/systemd/system ]# ps -ef |grep java|xargs|awk -F' ' '
 root@photon-machine [ ~ ]# kill -9 `ps -ef |grep 'com.vmware.controller.Main'|xargs|awk -F' ' '{print $2}'`
 root@photon-machine [ ~ ]# 
 [1]+  Killed                  /usr/bin/java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
+```
 
-
-#read
+* read
+```shell
 read -a topic <<< "1 2 3";echo $topic
 1
 read -a topic <<< "1 2 3";echo $topic[1]
 1[1]
 read -a topic <<< "1 2 3";echo $topic[2]
 1[2]
+```
+
+---
+
+#### kill process
+* send signal
+A process can be sent a SIGTERM signal in three ways (the process ID is '1234' in this case):
+```shell
+kill 1234
+kill -TERM 1234
+kill -15 1234
+```
+The process can be sent a SIGKILL signal in two ways:
+```shell
+kill -KILL 1234
+kill -9 1234
+```
+
+---
+
+#### file/dir/package operation
+```shell
+make a directory : mkdir directoryName
+delete a directory : rm -dfrv directoryName
+rename a file : rename firefox-2.30.tar.gz firefox.tar.gz firefox*
+move(rename) a file/directory : mv -f source destination
+install rpm file
+new install : rpm -ivh file.rpm
+update install: rpm -Uvh file.rpm
+```
+
+
 
 #IFS
 IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, i. e. how to recognize word boundaries.
