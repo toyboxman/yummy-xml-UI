@@ -242,7 +242,7 @@ gitk file
 ### 代码的review
 1.安装支持git的reviewt专用软件 (http://en.wikipedia.org/wiki/List_of_tools_for_code_review)<br>
 2.通过gerrit review的命令来操作, 或者通过git-review命令.
-	a.git-review是openstack组织开发贡献的. 需要额外安装
+	- a.git-review是openstack组织开发贡献的. 需要额外安装
 	```shell
 	sudo pip install git-review
 	```
@@ -250,7 +250,7 @@ gitk file
 	```shell
 	aptitude install git-review
 	```
-	b.创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件
+	- b.创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件
 	```shell
 	touch .gitreview
 	```
