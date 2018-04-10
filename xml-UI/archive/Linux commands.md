@@ -291,6 +291,60 @@ nc -zv 10.117.7.110 9092
 
 Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
 ```
+* traffic check
+```shell
+ping -I port1 192.168.2.10   --set l3 ping packet from port to other  using ICMP
+arping -I p1 192.168.139.140  --set l2 ping using ARP
+traceroute 172.18.0.1
+route
+route add default gw 192.168.1.254 eth0 -- add gateway 'route add default gw {IP-ADDRESS} {INTERFACE-NAME}'
+route add -net 172.18.0.0 netmask 255.255.0.0  dev eth1
+route add -net 172.19.0.0 netmask 255.255.0.0  dev eth1
+ip route show   --show routing table
+ip route add 192.168.1.0/24 dev eth0
+ip route add 192.168.1.0/24 via 192.168.1.254
+cat /proc/net/arp    ---show arp table and Flags 0x0 and HW address of 00:00:00:00:00:00 mean it is a failed ARP.
+```
+* tcpdump
+> [Link](https://danielmiessler.com/study/tcpdump/#examples)
+```shell
+tcpdump -D  --show all interfaces
+tcpdump -vvv -i p1    ---capture packet from port p1
+tcpdump -A -vvv -n host hostname    -A (ascii)  -vvv (the most detailed verbose output) ---listen src&dest host packet
+tcpdump -v -w capture.cap     ---dump record into capture.cap file, using wireshark to watch text content
+tcpdump -tttt -r data.pcap        ---read pcap file
+tcpdump -i eth0  tcpdump -i any  ---listen eth0 , listen all interfaces
+tcpdump -n dst net 192.168.1.0/24  tcpdump -n src net 192.168.1.0/24  tcpdump -n net 192.168.1.0/24 ---listen dest/src/all ipaddress
+
+tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
+-c 20: Exit after capturing 20 packets.
+-s 0: Don't limit the amount of payload data that is printed out. Print it all.
+-i eth1: Capture packets on interface eth1
+-A: Print packets in ASCII.
+host 192.168.1.1: Only capture packets coming to or from 192.168.1.1.
+and tcp port http: Only capture HTTP packets.
+```
+* nmap
+```shell
+nmap -O -sS localhost
+nmap -v -A localhost    -- scan current host network information and produce a map to describe
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     OpenSSH 6.6.1 (protocol 2.0)
+| ssh-hostkey:
+|   1024 60:fc:ec:f6:a9:74:eb:07:94:7d:34:c9:27:6f:40:31 (DSA)
+|   2048 ce:c3:e9:60:1f:9c:75:94:62:ca:a3:e9:a4:68:e4:77 (RSA)
+|_  256 94:bc:b2:16:e8:07:04:b2:2f:c1:f8:2e:10:5d:02:88 (ECDSA)
+25/tcp  open  smtp    Postfix smtpd
+|_smtp-commands: Suse-leap.eng.vmware.com, PIPELINING, SIZE, ETRN, ENHANCEDSTATUSCODES, 8BITMIME, DSN,
+631/tcp open  ipp     CUPS 1.7
+| http-methods: GET HEAD OPTIONS POST PUT
+| Potentially risky methods: PUT
+|_See http://nmap.org/nsedoc/scripts/http-methods.html
+| http-robots.txt: 1 disallowed entry
+|_/
+|_http-title: Home - CUPS 1.7.5
+Service Info: Host: Suse-leap.example.com
+```
 
 ---
 
@@ -457,9 +511,11 @@ sh test.sh 1 2 '3 4'
 ```shell
 crontab -l --list current running cron task
 crontab -e  --open cron task editor and insert a curl task periodically by 1 second
+result:
 min hour day month weekday command
 */1   *    *    *    * echo `curl -i -k http://blog.sina.com.cn/s/blog_46d0362d0102vmuc.html` > /dev/pts/0
-Or, vi cronTask 
+
+vi cronTask 
 crontab ./cronTask
 crontab -r  --remove current running cron task
 ```
@@ -484,60 +540,14 @@ curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
 			
 curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
             -H "Content-Type: application/json"	
-```		
--------------------------------------------------------------------------------------------------------------------------
-#network example
--------------------------------------------------------------------------------------------------------------------------            
-ping -I port1 192.168.2.10   --set l3 ping packet from port to other  using ICMP
-arping -I p1 192.168.139.140  --set l2 ping using ARP
-traceroute 172.18.0.1
-route
-route add default gw 192.168.1.254 eth0 -- add gateway 'route add default gw {IP-ADDRESS} {INTERFACE-NAME}'
-route add -net 172.18.0.0 netmask 255.255.0.0  dev eth1
-route add -net 172.19.0.0 netmask 255.255.0.0  dev eth1
-ip route show   --show routing table
-ip route add 192.168.1.0/24 dev eth0
-ip route add 192.168.1.0/24 via 192.168.1.254
-cat /proc/net/arp    ---show arp table and Flags 0x0 and HW address of 00:00:00:00:00:00 mean it is a failed ARP.
+```
+		
+---
+          
 
-https://danielmiessler.com/study/tcpdump/#examples
-tcpdump -D  --show all interfaces
-tcpdump -vvv -i p1    ---capture packet from port p1
-tcpdump -A -vvv -n host hostname    -A (ascii)  -vvv (the most detailed verbose output) ---listen src&dest host packet
-tcpdump -v -w capture.cap     ---dump record into capture.cap file, using wireshark to watch text content
-tcpdump -tttt -r data.pcap        ---read pcap file
-tcpdump -i eth0  tcpdump -i any  ---listen eth0 , listen all interfaces
-tcpdump -n dst net 192.168.1.0/24  tcpdump -n src net 192.168.1.0/24  tcpdump -n net 192.168.1.0/24 ---listen dest/src/all ipaddress
-
-tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
--c 20: Exit after capturing 20 packets.
--s 0: Don't limit the amount of payload data that is printed out. Print it all.
--i eth1: Capture packets on interface eth1
--A: Print packets in ASCII.
-host 192.168.1.1: Only capture packets coming to or from 192.168.1.1.
-and tcp port http: Only capture HTTP packets.
-
-nmap -O -sS localhost
-nmap -v -A localhost    -- scan current host network information and produce a map to describe
-PORT    STATE SERVICE VERSION
-22/tcp  open  ssh     OpenSSH 6.6.1 (protocol 2.0)
-| ssh-hostkey:
-|   1024 60:fc:ec:f6:a9:74:eb:07:94:7d:34:c9:27:6f:40:31 (DSA)
-|   2048 ce:c3:e9:60:1f:9c:75:94:62:ca:a3:e9:a4:68:e4:77 (RSA)
-|_  256 94:bc:b2:16:e8:07:04:b2:2f:c1:f8:2e:10:5d:02:88 (ECDSA)
-25/tcp  open  smtp    Postfix smtpd
-|_smtp-commands: Suse-leap.eng.vmware.com, PIPELINING, SIZE, ETRN, ENHANCEDSTATUSCODES, 8BITMIME, DSN,
-631/tcp open  ipp     CUPS 1.7
-| http-methods: GET HEAD OPTIONS POST PUT
-| Potentially risky methods: PUT
-|_See http://nmap.org/nsedoc/scripts/http-methods.html
-| http-robots.txt: 1 disallowed entry
-|_/
-|_http-title: Home - CUPS 1.7.5
-Service Info: Host: Suse-leap.example.com
--------------------------------------------------------------------------------------------------------------------------
-#VM Image modify example
--------------------------------------------------------------------------------------------------------------------------  
+#### VM Image operation
+* guestfish
+```shell
 virt-copy-out -a controller.vmdk /opt/nvp/etc/api_server.conf ./
 virt-copy-in -a controller.vmdk api_server.conf /opt/nvp/etc
 virt-edit -a controller.vmdk /opt/nvp/etc/api_server.conf
@@ -579,4 +589,4 @@ qemu-img info controller.vmdk
 qemu-img convert -O raw controller.vmdk nsx.img  -- convert w/o compression
 qemu-img convert -O vmdk controller.vmdk nsx.vmdk  -- decompress controller.vmdk with same format
 qemu-img convert -O vmdk -o subformat=streamOptimized controller.vmdk nsx.vmdk  -- compression vmdk that is read-only image
-
+```
