@@ -1,3 +1,9 @@
+### *markdown syntax guide*
+[markdown_pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)<br>
+[markdown_html](https://guides.github.com/features/mastering-markdown/)
+
+---
+
 ### *Following content is usual bash commands I encountered in working, those maybe are useful*
 > [bash list](http://ss64.com/bash)<br>
 > [blog](http://blog.sina.com.cn/s/blog_46d0362d0100mn09.html)
@@ -193,43 +199,69 @@ vncserver -kill :1; vncserver
 ls >> file or ls > file -- output result to file, double greater than sign goes, result appends to file; one greater than sign overrides file
 ```
 #### management&configuration
-~~~~~  root add a new user :
-|                    e.g.  useradd test  -- add new user test by default configuration
-|                    e.g.  passwd test   -- change test initial pwd
-|                    e.g.  groups test  -- see which group test user in
-|                    e.g.  id test  -- see test user details about uid gid etc.
-|                    e.g.  usermod -g root  test  -- force test user to take root group id
-|                    e.g.  usermod -G root,test  test  -- put test user into root and test groups
-~~~~~  vncserver [:number] -- startup vnc server process
-~~~~~  vncserver -kill :number -- shutdown designated vnc server process
-|                          (note: Ultravnc is another alternative vncserver with file transfer functionality)
-|
-~~~~~  system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
-|~~~~~~~~~~~~~~~~-services -- open service configuration GUI(just like system services of windows)
-|                                -samba   -- open samba service configuration GUI
-|                                -httpd     -- open apache service configuration GUI
-|                                -packages -- open installed packages GUI(just like add/remove component of windows)
-|                                -users     -- open user&group configuration GUI
-|                                -lvm -- open Logical Volume Manager GUI
-|                                -date       -- open date&time configuration GUI
-|                                -display  -- open monitor configuration GUI
-|                                -keyboard -- open keyboard configuration GUI
-|                                -authentication -- open authentication configuration GUI
-|                                -kdump -- open kernel dump configuration GUI
-|                                -language -- open system language configuration GUI
-|                                -printer -- open printer configuration GUI
-~~~~~  gdm -- GNOME display manager
-|                          (note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart')
-*************************************************************************************
--------------------------------------------------------------------------------------------------------------------------
-#basic network configuration of  Linux
--------------------------------------------------------------------------------------------------------------------------
+* add a new user
+```shell
+useradd test  -- add new user test by default configuration
+passwd test   -- change test initial pwd
+groups test  -- see which group test user in
+id test  -- see test user details about uid gid etc.
+usermod -g root  test  -- force test user to take root group id
+usermod -G root,test  test  -- put test user into root and test groups
+```
+* system setting
+```shell
+system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
+                    -services -- open service configuration GUI(just like system services of windows)
+                    -samba   -- open samba service configuration GUI
+                    -httpd     -- open apache service configuration GUI
+                    -packages -- open installed packages GUI(just like add/remove component of windows)
+                    -users     -- open user&group configuration GUI
+                    -lvm -- open Logical Volume Manager GUI
+                    -date       -- open date&time configuration GUI
+                    -display  -- open monitor configuration GUI
+                    -keyboard -- open keyboard configuration GUI
+                    -authentication -- open authentication configuration GUI
+                    -kdump -- open kernel dump configuration GUI
+                    -language -- open system language configuration GUI
+                    -printer -- open printer configuration GUI
+```
+* GNOME display manager
+```shell
+gdm --(note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart')
+```
+
+---
+
+#### basic network configuration of  Linux
+* network config files
+```shell
 /etc/sysconfig/network   ----net mask
 /etc/sysconfig/network-scripts/ifcfg-eth0  ----gateway, ethernet
 /etc/resolv.conf  ----DNS nameserver
 /etc/hosts   ----host info
-#CentOS 6 iptables 开放端口80 3306 22等
-https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules
+```
+* Change Network Interface Name
+The best way to rename a network interface is through udev.
+```shell
+1.ifconfig -a | grep -i --color hwaddr  -- query net interface mac address
+2.Edit the file /etc/udev/rules.d/70-persistent-net.rules to change the interface name of a network device.
+3.reboot
+```
+Or, use yast2 in Suse to change network config and rename nic
+* show current bridge
+```shell
+brctl show
+
+bridge name	bridge id		STP enabled	interfaces
+br0		8000.0030488e31ac	no		eth0
+br1		8000.0030488e31ad	no		eth1
+
+brctl showmacs br0
+ifconfig br0 or ip addr show br0
+```
+* CentOS 6 iptables 打开端口80 3306 22等
+> [Link](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)
+```shell
 sudo iptables -L --line-numbers  列出防火墙所有规则，按规则号显示
 sudo iptables -D INPUT 3  删除INPUT表的第三条规则
 iptables -I INPUT -p tcp --dport 80 -j ACCEPT
@@ -238,24 +270,13 @@ iptables -I INPUT -p tcp --dport 3306 -j ACCEPT
 iptables -I INPUT -p tcp --dport 8080 -j ACCEPT   把8080端口规则插入INPUT表头
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT  把8081端口规则添加INPUT表尾
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT  -- open mysql 3306 port in firewall
-# Allow local-only connections
+```
+* Allow local-only connections
 iptables -A INPUT  -i lo -j ACCEPT
 然后保存,查看状态
 service iptables save
 service iptables status  or /etc/init.d/iptables status
-# Change Network Interface Name
-The best way to rename a network interface is through udev.
-1.ifconfig -a | grep -i --color hwaddr  -- query net interface mac address
-2.Edit the file /etc/udev/rules.d/70-persistent-net.rules to change the interface name of a network device.
-3.reboot
-Or, use yast2 in Suse to change network config and rename nic
-# show current bridge
-#brctl show
-bridge name	bridge id		STP enabled	interfaces
-br0		8000.0030488e31ac	no		eth0
-br1		8000.0030488e31ad	no		eth1
-#brctl showmacs br0
-#ifconfig br0 or ip addr show br0
+
 #check remote port status
 nc -zv 127.0.0.1 20-30  check Range of ports
 nc -zv 127.0.0.1 22 80 8080 check three ports
