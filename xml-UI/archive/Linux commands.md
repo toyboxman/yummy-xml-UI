@@ -198,6 +198,7 @@ vncserver -kill :1; vncserver
 ```shell
 ls >> file or ls > file -- output result to file, double greater than sign goes, result appends to file; one greater than sign overrides file
 ```
+* tty  --show current console id
 #### management&configuration
 * add a new user
 ```shell
@@ -413,19 +414,25 @@ new install : rpm -ivh file.rpm
 update install: rpm -Uvh file.rpm
 ```
 
+---
 
-
-#IFS
-IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, i. e. how to recognize word boundaries.
+#### Shell programming
+> [Link](http://www.freeos.com/guides/lsst/)
+* IFS
+IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
+i. e. how to recognize word boundaries.
+```shell
 mystring="foo:bar baz rab"
 for word in $mystring; do
   echo "Word: $word"
 done
-
+```
 The default value for IFS consists of whitespace characters (to be precise: space, tab and newline)
 Now, the shell splits mystring into words as well -- but now, it only treats a colon as the word boundary.
-The first character of IFS is special: It is used to delimit words in the output when using the special $* variable (example taken from the Advanced Bash Scripting Guide, where you can also find more information on special variables like that one):
-
+The first character of IFS is special: It is used to delimit words in the output when using the special $* 
+variable (example taken from the Advanced Bash Scripting Guide, where you can also find more information 
+on special variables like that one):
+```shell
 $ bash -c 'set w x y z; IFS=":-;"; echo "$*"'
 w:x:y:z
 
@@ -433,11 +440,10 @@ Compare to:
 
 $ bash -c 'set w x y z; IFS="-:;"; echo "$*"'
 w-x-y-z
-
--------------------------------------------------------------------------------------------------------------------------
-#Shell programming  http://www.freeos.com/guides/lsst/
--------------------------------------------------------------------------------------------------------------------------
-1.Use "$@" to represent all the arguments:
+```
+* FOR
+```shell
+Use "$@" to represent all the arguments:
 for var in "$@"
 do
     echo "$var"
@@ -445,21 +451,21 @@ done
 sh test.sh 1 2 '3 4'
 1
 2
-3 4 
--------------------------------------------------------------------------------------------------------------------------
-#Crontab example
--------------------------------------------------------------------------------------------------------------------------
+3 4
+```
+* Crontab
+```shell
 crontab -l --list current running cron task
 crontab -e  --open cron task editor and insert a curl task periodically by 1 second
-#min hour day month weekday command
+min hour day month weekday command
 */1   *    *    *    * echo `curl -i -k http://blog.sina.com.cn/s/blog_46d0362d0102vmuc.html` > /dev/pts/0
 Or, vi cronTask 
 crontab ./cronTask
 crontab -r  --remove current running cron task
-tty  --show current console id
--------------------------------------------------------------------------------------------------------------------------
-#Curl example http://conqueringthecommandline.com/book/curl
--------------------------------------------------------------------------------------------------------------------------
+```
+* Curl
+> [Link](http://conqueringthecommandline.com/book/curl)
+```shell
 curl -i -k -X POST https://10.162.122.147/ws.v1/login \
             -H "Content-Type: application/x-www-form-urlencoded" \
             -d 'username=admin&password=Defaultca$hc0w'
@@ -477,7 +483,8 @@ curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
             -H "Content-Type: application/json"
 			
 curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
-            -H "Content-Type: application/json"			
+            -H "Content-Type: application/json"	
+```		
 -------------------------------------------------------------------------------------------------------------------------
 #network example
 -------------------------------------------------------------------------------------------------------------------------            
