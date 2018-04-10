@@ -9,147 +9,237 @@
 ---
 
 * 设置git用户的信息
-```git
-git config --global user.email "XXXX@YYY.com"; git config --global user.name "XWXW"
+```shell
+git config --global user.name "XWXW"
+git config --global user.email "XXXX@YYY.com"
 ```
-
-#初始化一个空的本地git仓库
+* 初始化一个空的本地git仓库
+```shell
 git init
-#直接克隆一个远端代码仓库到本地
-git clone
+```
+* 直接克隆一个远端代码仓库到本地
+```shell
 $git clone https://github.com/openstack/glance.git
-#在仓库中添加一个远程代码源
-git remote add
+```
+* 在仓库中添加一个远程代码源
+```shell
 $git remote add glance https://github.com/openstack/glance.git
-#建立一个可供其他机器下载的remote repo
+```
+* 建立一个可供其他机器下载的remote repo
+```shell
 $git remote add myAppName ssh://192.168.149.128/~/source/app/.git 创建一个myAppName对应的远程git repo映射
 $git push myAppName master  将本地repo推送到remote repo中master分支
-#查看远端repo
+```
+* 查看远端repo
+```shell
 git remote show
 $git remote show appName
-#更新远程代码源
+```
+* 更新远程代码源
+```shell
 git remote update
-#从远端代码库中获取最新的分支代码，覆盖本地分支
+```
+* 从远端代码库中获取最新的分支代码，覆盖本地分支
+```shell
 git pull
-
-#查看仓库中文件状态
+```
+* 查看仓库中文件状态
+```shell
 git status
-#在本地分支中添加文件或目录
-git add
+```
+* 在本地分支中添加文件或目录
+```shell
 $git add ./source 将source中所有文件子目录都加入待提交staged状态
 $git add -i  文字菜单方式查看当前所有待提交文件状态
-#提交代码变更到本地分支中
+```
+* 提交代码变更到本地分支中
+```shell
 git commit
 $git commit -a 提交全部更改的文件
 $git commit --amend 修正本地分支的代码提交
-
-#查看当前代码库全部分支
+```
+* 查看当前代码库全部分支
+```shell
 $git branch -a  
-#查看本地分支和远程分支关系,包括分支间关联,提交状态对比
+```
+* 查看本地分支和远程分支关系,包括分支间关联,提交状态对比
+```shell
 $git branch -vv
-#将某个分支checkout成一个本地分支
+```
+* 将某个分支checkout成一个本地分支
+```shell
 git checkout -b local_name branch_name
 $git checkout master glance/stable/icehouse
-#删除分支
+```
+* 删除分支
+```shell
 $git branch -D master  强制删除master分支
 $git branch -d master  删除master分支，但需要所有本地提交已经合并到upstream或者没有变化
-#切换到某一个本地分支
+```
+* 切换到某一个本地分支
+```shell
 $git checkout master  从当前分支切换到master分支
-#临时切换到指定提交位置，会与当前的分支HEAD脱离，处于无分支checkout态
+```
+* 临时切换到指定提交位置，会与当前的分支HEAD脱离，处于无分支checkout态
+```shell
 $git checkout 0d1d7fc32
-#查看当前代码库全部tag快照
+```
+* 查看当前代码库全部tag快照
+```shell
 git tag
 $git tag --help  查看如何创建删除标签
-#把tag对应的快照checkout成本地分支，仓库快照本身无法修改，只能变成本地分支才能改
+```
+* 把tag对应的快照checkout成本地分支，仓库快照本身无法修改，只能变成本地分支才能改
+```shell
 git checkout -b branch_name tag_name
 $git checkout -b branch1 2014.1.1
-#丢弃本地分支代码修改
+```
+* 丢弃本地分支代码修改
+```shell
 $git checkout -f  整个分支代码回滚到upstream HEAD
 $git checkout -- Run.java  丢弃Run文件的修改
-
-#在当前的文件夹中所有文件行数汇总
+```
+* 在当前的文件夹中所有文件行数汇总
+```shell
 $git ls-files | xargs cat | wc -l
-#在当前的文件夹中所有文件行数汇总详细信息
+```
+* 在当前的文件夹中所有文件行数汇总详细信息
+```shell
 git ls-files | xargs wc -l
-
-#合并两分支代码，与rebase命令有些区别，体现在分支树节点上
+```
+* 合并两分支代码，与rebase命令有些区别，体现在分支树节点上
+```shell
 git merge branch_a   
 $git merge stable/icehouse 将社区分支合并到当前分支中
-#合并分支区别 rebase／merge
+```
+* 合并分支区别 rebase／merge
+```shell
 master branch : patch1<-patch2<-patch3
 b1 branch from patch2 : patch1<-patch2<-patch4
 b2 branch from patch2 : patch1<-patch2<-patch4
 git log --oneline 检查分支合并结果
-b1-git merge master : patch1<-patch2<-patch4<-patch3<-auto-merge-patch 'Merge branch 'master' into b1' 把master中最新提交归并到b1分支最后，并产生一个自动合并提交
+b1-git merge master : patch1<-patch2<-patch4<-patch3<-auto-merge-patch 'Merge branch 'master' into b1'
+                                                                                  把master中最新提交归并到b1分支最后，并产生一个自动合并提交
 b2-git rebase master : patch1<-patch2<-patch3<-patch4 归并到master分支中，跟在最近提交后面
-#提交代码到远程代码库
+```
+* 提交代码到远程代码库
+```shell
 git push
-#可以指定代码提交到某个分支
+```
+* 可以指定代码提交到某个分支
+```shell
 $git push glance HEAD:refs/heads/icehouse
-
-#修改本地已提交的历史(https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)
+```
+* 修改本地已提交的历史
+> [Link1](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)
+> [Link2](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
+```shell
 $git rebase -i @~9   # Show the last 9 commits in a text editor, @ is shorthand for HEAD, and ~ is the commit before the specified commit
-								 #in a text editor change 'pick' to 'e' (edit), and save and close the file. Git will rewind to that commit
-								 #(https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
+                                   #in a text editor change 'pick' to 'e' (edit), and save and close the file. Git will rewind to that commit
 $git add -A
 $git commit --amend #make changes
 $git reset @~  #discard the last commit, but not the changes to the files
 $git rebase --continue  #Git will replay the subsequent changes on top of your modified commit
-
-#回退变更,提交
-git reset/revert   ---二者最大区别在于,如果commit没有publish出去，那么就可以在本地丢弃，用reset即可；如果已经publish到公共repo了，那么就用revert，它会产生新的commit去undo已存在提交
-#从HEAD回退到指定提交位置，未提交的任何本地改变都会丢弃
+```
+* 回退变更,提交
+```shell
+git reset/revert   ---二者最大区别在于,如果commit没有publish出去，那么就可以在本地丢弃，用reset即可；
+                                  如果已经publish到公共repo了，那么就用revert，它会产生新的commit去undo已存在提交
+```
+* 从HEAD回退到指定提交位置，未提交的任何本地改变都会丢弃
+```shell
 $git reset --hard 0d1d7fc32
-#或者回退到分支最新提交点
+```
+* 或者回退到分支最新提交点
+```shell
 $git reset --hard HEAD
-#先临时保存未提交的本地变更，然后回退到提交点，再将临时保存修改应用到新基点。
+```
+* 先临时保存未提交的本地变更，然后回退到提交点，再将临时保存修改应用到新基点。
+```shell
 $git stash; git reset --hard 0d1d7fc32; git stash pop
-#通过软复位也可以达到上一命令相同效果  hard/soft前后两种方式区别就在于是否保留未提交更改
+```
+* 通过软复位也可以达到上一命令相同效果  hard/soft前后两种方式区别就在于是否保留未提交更改
+```shell
 $git reset --soft 0d1d7fc32
-#回退已提交的三个commit
+```
+* 回退已提交的三个commit
+```shell
 $git revert a867b4af 25eee4ca 0766c053
-#回退从当前HEAD往前2个commit
+```
+* 回退从当前HEAD往前2个commit
+```shell
 $git revert HEAD~2..HEAD
-#回退提交，不自动产生undo的commit，手动提交
+```
+* 回退提交，不自动产生undo的commit，手动提交
+```shell
 $git revert --no-commit 0766c053..HEAD; git commit
-
-#查看某个提交中哪些文件被修改
+```
+* 查看某个提交中哪些文件被修改
+```shell
 $git show e96a53a68b2ed1ce9b98661b07f8071e789d2319
-#查看某个提交在哪些分支中
+```
+* 查看某个提交在哪些分支中
+```shell
 $git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
-#在当前代码分支中合并某个提交代码
+```
+* 在当前代码分支中合并某个提交代码
+```shell
 git cherry-pick -x
-#在当前代码分支中合并其他分支某个提交代码
+```
+* 在当前代码分支中合并其他分支某个提交代码
+```shell
 git cherry-pick branch
 $git cherry-pick dev  --获取dev分支最后一个提交
 $git cherry-pick dev^  --获取dev分支倒数第二提交
 $git cherry-pick dev~2  --获取dev分支倒数第三提交
-#比较本地分支和remote分支差异
+```
+* 比较本地分支和remote分支差异
+```shell
 $git diff origin/master  --比较本地master分支和remote master分支的差异
 $git diff myBranch origin/master  --比较本地myBranch分支和remote master分支的差异
-#比较某个文件在不同tag快照中区别
+```
+* 比较某个文件在不同tag快照中区别
+```shell
 git diff tag1 tag2  -- filename
 $git diff 0.12.0 0.13.0 -- glanceclient/common/http.py  --查看文件两标签间修改
-#查看修改提交出现在哪些标签中
+```
+* 查看修改提交出现在哪些标签中
+```shell
 git tag --contains commitID
 $git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
-#查看分支中某个作者的提交列表
+```
+* 查看分支中某个作者的提交列表
+```shell
 git log --author name  --查看匹配name的所有作者提交
-#查看某个代码分支所有提交日志summary
+```
+* 查看某个代码分支所有提交日志summary
+```shell
 git log --oneline branch
 $git log --oneline  --查看当前分支日志列表
-#查看代码分支在两个tag快照之间的所有提交日志
+```
+* 查看代码分支在两个tag快照之间的所有提交日志
+```shell
 git log tag1..tag2
-#查看某个文件的所有修改细节
+```
+* 查看某个文件的所有修改细节
+```shell
 git blame filename
 $git blame glanceclient/common/http.py  --查看http.py文件每一行修改记录
-#创建源代码文件补丁
+```
+* 创建源代码文件补丁
+```shell
 $git format-patch -1 HEAD  --在当前分支下为最新的一个提交(head -1)打出补丁
 $git format-patch -1   --在当前分支下为某一个提交(sha -1)打出补丁
-#GUI方式查看分支修改记录
-gitk  or gitk file
+```
+* GUI方式查看分支修改记录
+```shell
+gitk
+gitk file
+```
 
-#代码的review
+---
+
+### 代码的review
 1.安装支持git的reviewt专用软件 (http://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 2.通过gerrit review的命令来操作, 或者通过git-review命令.
 		a.git-review是openstack组织开发贡献的. 需要额外安装 sudo pip install git-review 或 aptitude install git-review
