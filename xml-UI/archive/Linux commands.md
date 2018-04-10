@@ -83,71 +83,116 @@ route -n
 awk -F':' '{print $1}' /etc/passwd
 ```
 
-2.usual command
-~~~~~  find -- search a file by some condition
-|                    e.g. find /etc -name network.sh
-|                    e.g. find /home -user root -exec file '{}'[blank space] \;  -- search all files in home folder and then determine its file type(append action)
-~~~~~  scp -- remote cp file
-|                    e.g. scp *.log king@ip:/home/king  --cp local file to remote folder
-|                    e.g. scp king@ip:/home/king/1.log ./king  --cp remote file to local folder
-~~~~~  lsof -- list current opened files
-|
-~~~~~  file -- determine file type
-|
-~~~~~  cksum -- calculate file sum using CRC32
-~~~~~  md5sum -- calculate file sum using MD5
-~~~~~  sha1sum --calculate or check file sum using SHA1
-~~~~~  base64 --base64 encode/decode string
-|                    e.g. echo -n 'linux.com' | base64  -- return encoded string 'bGludXguY29t'
-|                    e.g. echo -n bGludXguY29t | base64 -d  -- return 'linux.com'
-~~~~~  stat -- check file status, like ls -lh or du -h ./
-|                    e.g. stat index.htm  --Reports the status of file index.htm
-|                    e.g. ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  -- return king:users
-~~~~~  grep -- search string(pattern) in files
-|                    e.g. grep DB_VERSION_STRING /usr/local/db.h
-|                    e.g. grep -nr --include="*.h" DB_VERSION_STRING ./src  -- recursively search keyword in src folder from *.h files
-|                    e.g. grep -n -B5 -A1 [Ee]xception 1.log  -- search keyword 'Exception/exception' in log with 5 lines before and  1 line after showing
-|                    e.g. grep -i error 1.log  -- search keyword 'error' case insensitive
-~~~~~  chmod -- change permission of files 
-|                    e.g. ugoa(owner,group,others, all users) rwx(4,2,1)
-|                    e.g. chmod ugoa+rwx file == chmod 7777 file
-~~~~~  chown -- change owner of files  or folders
-|                    e.g. chown -hR stack filea    change filea owner from current user to stack recursive
-~~~~~  chgrp -- change group of files 
-|                    e.g. chgrp -hR stack fileb     change group of fileb from current group to stack recursive
-~~~~~ tar -- pack or unpack folder or file
-|                    e.g. tar -cvf a.tar folder1 folder2   --pack folder1 and folder2 into a.tar
-|                    e.g. tar -xvf a.tar  --unpack a.tar file
-|                    e.g. tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  --pipeline tar&gzip,"-" is a special signal to the tar command to write to its standard output instead of a file with a name
-~~~~~ gzip/(zip/unzip) -- compress or decompress folder or file
-|                    e.g. gzip -fv file.tar  force to compress a tar file
-|                    e.g. gzip -dv a.gz  decompress gzip file z.gz
-|                    e.g. unzip -dv a.zip  decompress zip file a.zip to ./v folder in current path
-|                    e.g. unzip a.zip -d /usr/share/tmp  extract zip file to designated folder
-|                    e.g. gzip -dv < bankApp.tar.gz | tar xvf -   --pipeline gzip&tar
-~~~~~  netstat -- monitor port status.  e.g netstat -tlnpu
-|
-~~~~~ nohup -- no hangup task. e.g. nohup command & -- put task to background without hangup
-|
-~~~~~  fold -- wrap text.  e.g netstat -tlnpu|fold -w 120
-|
-~~~~~  unix2dos/dos2unix -- format transfer.  e.g dos2unix file
-|
-~~~~~  ln -- link a file to destination, it is better to use absolute path instead of relative path, unless it will lead broken link file
-|                    e.g. ln ./java   /home/root -- same action to copy java to /home/root folder
-|                    e.g. ln -s ./java  /home/ -- link java to folder /home, just like shortcut of windows
-~~~~~  mount/umount -- add/remove a mount point
-|                    e.g. mount -t nfs 10.137.16.80:/nfsroot/jars /home/king/tor -- mount remote nfs folder jars to local tor folder
-|                    e.g. umount -fv /home/king/tor -- force to remove mounted folder
-|                    e.g. umount -lv /home/king/tor -- Lazy unmount, and cleanup all references to the filesystem as soon as it is not busy anymore.
-~~~~~  chsh -- change default shell in login
-|                    e.g. chsh -s /bin/bash -- change default shell command to bash
-|                    e.g. which sh -- which is current default shell
-~~~~~  command1; command2; command3 -- batch execute command
-|                    e.g. vncserver -kill :1; vncserver                  
-~~~~~  command1 >> file -- redirect file
-|                    e.g. ls >> file or ls > file -- output result to file, double greater than sign goes , result appends to file; or override file
-3.management&configuration
+#### usual command
+* search a file by some condition
+```shell
+find /etc -name network.sh  -- search a file by some condition
+find /home -user root -exec file {} \;  -- search all files in home folder and then determine its file type(append action)
+```
+* remote copy file
+```shell
+scp *.log king@ip:/home/king  --cp local file to remote folder
+scp king@ip:/home/king/1.log ./king  --cp remote file to local folder
+```
+* list current opened files
+```shell
+lsof
+```
+* determine file type
+```shell
+file log.txt
+```
+* calculate file sum using CRC32/MD5/SHA1
+```shell
+cksum
+md5sum
+sha1sum
+```
+* base64 encode/decode string
+```shell
+echo -n 'linux.com' | base64  -- return encoded string 'bGludXguY29t'
+echo -n bGludXguY29t | base64 -d  -- return 'linux.com'
+```
+* check file status, like ls -lh or du -h ./
+```shell
+stat index.htm  --Reports the status of file index.htm
+ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  -- return king:users
+```
+* search string(pattern) in files
+```shell
+grep DB_VERSION_STRING /usr/local/db.h
+grep -nr --include="*.h" DB_VERSION_STRING ./src  -- recursively search keyword in src folder from *.h files
+grep -n -B5 -A1 [Ee]xception 1.log  -- search keyword 'Exception/exception' in log with 5 lines before and  1 line after showing
+grep -i error 1.log  -- search keyword 'error' case insensitive
+```
+* change permission of files 
+```shell
+ugoa(owner,group,others, all users) rwx(4,2,1)
+chmod ugoa+rwx file == chmod 7777 file
+```
+* change owner of files or folders
+```shell
+chown -hR stack filea    change filea owner from current user to stack recursive
+```
+* change group of files
+```shell
+chgrp -hR stack fileb     change group of fileb from current group to stack recursive
+```
+* pack or unpack folder or file
+```shell
+tar -cvf a.tar folder1 folder2   --pack folder1 and folder2 into a.tar
+tar -xvf a.tar  --unpack a.tar file
+tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  --pipeline tar&gzip,"-" is a special signal to the tar command to write to its standard output instead of a file with a name
+```
+* gzip/(zip/unzip) -- compress or decompress folder or file
+```shell
+gzip -fv file.tar  force to compress a tar file
+gzip -dv a.gz  decompress gzip file z.gz
+unzip -dv a.zip  decompress zip file a.zip to ./v folder in current path
+unzip a.zip -d /usr/share/tmp  extract zip file to designated folder
+gzip -dv < bankApp.tar.gz | tar xvf -   --pipeline gzip&tar
+```
+* monitor port status
+```shell
+netstat -tlnpu
+```
+* no hangup task
+```shell
+nohup command & -- put task to background without hangup
+```
+* fold --wrap text
+```shell
+netstat -tlnpu|fold -w 120
+```
+* unix2dos/dos2unix -- format transfer
+```shell
+dos2unix file
+```
+* ln -- link a file to destination, it is better to use absolute path instead of relative path, unless it will lead broken link file
+```shell
+ln ./java   /home/root -- same action to copy java to /home/root folder
+ln -s ./java  /home/ -- link java to folder /home, just like shortcut of windows
+```
+* mount/umount -- add/remove a mount point
+```shell
+mount -t nfs 10.137.16.80:/nfsroot/jars /home/king/tor -- mount remote nfs folder jars to local tor folder
+umount -fv /home/king/tor -- force to remove mounted folder
+umount -lv /home/king/tor -- Lazy unmount, and cleanup all references to the filesystem as soon as it is not busy anymore.
+```
+* chsh -- change default shell in login
+```shell
+chsh -s /bin/bash -- change default shell command to bash
+which sh -- which is current default shell
+```
+* command1; command2; command3 -- batch execute command
+```shell
+vncserver -kill :1; vncserver
+```
+* command1 >> file -- redirect file
+```shell
+ls >> file or ls > file -- output result to file, double greater than sign goes, result appends to file; one greater than sign overrides file
+```
+#### management&configuration
 ~~~~~  root add a new user :
 |                    e.g.  useradd test  -- add new user test by default configuration
 |                    e.g.  passwd test   -- change test initial pwd
