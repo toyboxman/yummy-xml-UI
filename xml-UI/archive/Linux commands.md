@@ -147,7 +147,7 @@ grep -i error 1.log
 ```
 * change permission of files 
 ```shell
-ugoa(owner,group,others, all users) rwx(4,2,1)
+# ugoa(owner,group,others, all users) rwx(4,2,1)
 chmod ugoa+rwx file == chmod 7777 file
 ```
 * change owner of files or folders
@@ -428,7 +428,7 @@ Service Info: Host: Suse-leap.example.com
 
 ---
 
-#### txt operation 
+#### TXT operation 
 > [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
 * patch for codes
 ```shell
@@ -444,7 +444,8 @@ patch < ../rb1138637.patch
 # 从patch文件导出差异，忽略前1个'/'路径
 patch -p1 < ../rb1138637.patch  
 checking file src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java
-patch -p 5 < ../rb1138637.patch  --从patch文件导出差异，忽略前5个'/'路径
+# 从patch文件导出差异，忽略前5个'/'路径
+patch -p 5 < ../rb1138637.patch  
 checking file src/test/java/com/example/EndPoint.java
 ```
 * count code lines
@@ -563,13 +564,18 @@ kill -9 1234
 
 #### file/dir/package operation
 ```shell
-make a directory : mkdir directoryName
-delete a directory : rm -dfrv directoryName
-rename a file : rename firefox-2.30.tar.gz firefox.tar.gz firefox*
-move(rename) a file/directory : mv -f source destination
-install rpm file
-new install : rpm -ivh file.rpm
-update install: rpm -Uvh file.rpm
+# make a directory
+mkdir directoryName
+# delete a directory
+rm -dfrv directoryName
+# rename a file
+rename firefox-2.30.tar.gz firefox.tar.gz
+# move(rename) a file/directory
+mv -f source destination
+# install rpm file
+rpm -ivh file.rpm
+# update install
+rpm -Uvh file.rpm
 ```
 
 ---
