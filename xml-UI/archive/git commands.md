@@ -369,9 +369,9 @@ gitk file
 			 The following configuration keys are supported:
 
 			 gitreview.username
-						   Default username used to access the repository. If not specified in the Git 
-						   configuration, Git remote or .gitreview file, the user will be prompted
-						   to specify the username.
+						   Default username used to access the repository. If not specified 
+						   in the Git configuration, Git remote or .gitreview file, the user 
+						   will be prompted to specify the username.
 
 						   Example entry in the .gitconfig file:
 
@@ -405,40 +405,50 @@ gitk file
 						   that the local topic branch is tracking should be used for submit 
 						   and rebase operations, rather than the defaultremote and defaultbranch.
 
-						   When downloading a patch, creates the local branch to track the appropriate 
-						   remote and branch in order to choose that branch by default when submit-
-						   ting modifications to that changeset.
+						   When downloading a patch, creates the local branch to track the 
+						   appropriate remote and branch in order to choose that branch by 
+						   default when submitting modifications to that changeset.
 
 						   A value of 'true' or 'false' should be specified.
 
-						   true          Do prefer the currently-tracked branch (if any) - equivalent to 
-											setting --track when submitting changes.
+						   true          Do prefer the currently-tracked branch (if any) - 
+											equivalent to setting --track when submitting 
+											changes.
 
-						   false         Ignore tracking branches - equivalent to setting --no-track (the default) 
-										   or providing an explicit branch name when submitting changes. This is 
-										   the default value unless overridden by .gitreview file, and is implied by 
-										   providing a specific branch name on the command line.
+						   false         Ignore tracking branches - equivalent to setting 
+											--no-track (the default) or providing an explicit 
+											branch name when submitting changes. This is 
+										   the default value unless overridden by 
+										   .gitreview file, and is implied by providing a 
+										   specific branch name on the command line.
 
 			gitreview.rebase
-						   This setting determines whether changes submitted will be rebased to the newest state of the branch.
+						   This setting determines whether changes submitted will be rebased 
+						   to the newest state of the branch.
 
 						   A value of 'true' or 'false' should be specified.
 
-						   false         Do not rebase changes on submit - equivalent to setting -R when submitting changes.
+						   false         Do not rebase changes on submit - equivalent to setting -R 
+											when submitting changes.
 
-						   true          Do rebase changes on submit. This is the default value unless overridden by .gitreview file.
+						   true          Do rebase changes on submit. This is the default value 
+											unless overridden by .gitreview file.
 
-						   This setting takes precedence over repository-specific configuration in the .gitreview file.
+						   This setting takes precedence over repository-specific configuration 
+						   in the .gitreview file.
 
-			 color.review  Whether to use ANSI escape sequences to add color to the output displayed by this 
-									command. Default value is determined by color.ui.
+			 color.review  Whether to use ANSI escape sequences to add color to the 
+									output displayed by this command. Default value is 
+									determined by color.ui.
 
-						   auto or true  If you want output to use color when written to the terminal (default with Git 1.8.4 and newer).
+						   auto or true  If you want output to use color when written to the 
+												terminal (default with Git 1.8.4 and newer).
 
 						   always        If you want all output to use color
 
 						   never or false
-										 If you wish not to use color for any output. (default with Git older than 1.8.4)
+										 If you wish not to use color for any output. (default 
+										 with Git older than 1.8.4)
 		```								
 
 
