@@ -467,7 +467,9 @@ root@photon# grep 'netmask' vminfo.txt|awk -F'value="' '{print $2}'|awk -F'"' '{
 ```shell
 root@photon [ /etc/systemd/system ]# ps -ef |grep java
 root      1211   340 10 08:38 pts/0    00:00:01 java -Djava.net.preferIPv4Stack=true 
--Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar
+-Dlog4j.configuration=file:/opt/controller/log4j-controller.properties 
+-server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar
+:/opt/controller/slf4j-log4j12-1.7.5.jar
 :/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
 root      1265   340  0 08:38 pts/0    00:00:00 grep --color=auto java
 
@@ -482,7 +484,8 @@ root@photon [ /etc/systemd/system ]# ps -ef |grep java|xargs|awk -F' ' '{print $
 root@photon [ ~ ]# kill -9 `ps -ef |grep 'com.vmware.controller.Main'|xargs|awk -F' ' '{print $2}'`
 root@photon [ ~ ]# 
 [1]+  Killed                  /usr/bin/java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=
-file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar
+file:/opt/controller/log4j-controller.properties -server -Xmx4096m 
+-cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar
 :/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
 ```
 
