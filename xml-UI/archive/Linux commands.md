@@ -582,7 +582,7 @@ rpm -Uvh file.rpm
 
 #### Shell programming
 > [Link](http://www.freeos.com/guides/lsst/)
-* IFS
+* IFS  
 IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
 i. e. how to recognize word boundaries.
 ```shell
