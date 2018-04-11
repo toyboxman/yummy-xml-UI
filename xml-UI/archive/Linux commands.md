@@ -165,11 +165,16 @@ tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz
 ```
 * gzip/(zip/unzip) -- compress or decompress folder or file
 ```shell
-gzip -fv file.tar  force to compress a tar file
-gzip -dv a.gz  decompress gzip file z.gz
-unzip -dv a.zip  decompress zip file a.zip to ./v folder in current path
-unzip a.zip -d /usr/share/tmp  extract zip file to designated folder
-gzip -dv < bankApp.tar.gz | tar xvf -   --pipeline gzip&tar
+# force to compress a tar file
+gzip -fv file.tar  
+# decompress gzip file z.gz
+gzip -dv a.gz  
+# decompress zip file a.zip to ./v folder in current path
+unzip -dv a.zip  
+# extract zip file to designated folder
+unzip a.zip -d /usr/share/tmp  
+# pipeline gzip&tar
+gzip -dv < bankApp.tar.gz | tar xvf -   
 ```
 * monitor port status
 ```shell
@@ -191,8 +196,11 @@ dos2unix file
 ```shell
 # link a file to destination, it is better to use absolute 
 # path instead of relative path, unless it will lead broken link file
-ln ./java   /home/root -- same action to copy java to /home/root folder
-ln -s ./java  /home/ -- link java to folder /home, just like shortcut of windows
+
+# same action to copy java to /home/root folder
+ln ./java   /home/root 
+# link java to folder /home, just like shortcut of windows
+ln -s ./java  /home/ 
 ```
 * mount/umount -- add/remove a mount point
 ```shell
@@ -215,7 +223,10 @@ vncserver -kill :1; vncserver
 ```
 * command1 >> file -- redirect file
 ```shell
-ls >> file or ls > file -- output result to file, double greater than sign goes, result appends to file; one greater than sign overrides file
+# output result to file, double greater than sign goes, result appends to file
+ls >> file 
+# one greater than sign overrides file
+ls > file 
 ```
 * tty  --show current console id
 #### management&configuration
@@ -327,26 +338,37 @@ cat /proc/net/arp    ---show arp table and Flags 0x0 and HW address of 00:00:00:
 * tcpdump
 > [Link](https://danielmiessler.com/study/tcpdump/#examples)
 ```shell
-tcpdump -D  --show all interfaces
-tcpdump -vvv -i p1    ---capture packet from port p1
-tcpdump -A -vvv -n host hostname    -A (ascii)  -vvv (the most detailed verbose output) ---listen src&dest host packet
-tcpdump -v -w capture.cap     ---dump record into capture.cap file, using wireshark to watch text content
-tcpdump -tttt -r data.pcap        ---read pcap file
-tcpdump -i eth0  tcpdump -i any  ---listen eth0 , listen all interfaces
-tcpdump -n dst net 192.168.1.0/24  tcpdump -n src net 192.168.1.0/24  tcpdump -n net 192.168.1.0/24 ---listen dest/src/all ipaddress
+# show all interfaces
+tcpdump -D  
+# capture packet from port p1
+tcpdump -vvv -i p1    
+# listen src&dest host packet, -A (ascii)  -vvv (the most detailed verbose output)
+tcpdump -A -vvv -n host hostname    
+# dump record into capture.cap file, using wireshark to watch text content
+tcpdump -v -w capture.cap     
+# read pcap file
+tcpdump -tttt -r data.pcap        
+# listen eth0 , listen all interfaces
+tcpdump -i eth0  tcpdump -i any  
+# listen dest/src/all ipaddress
+tcpdump -n dst net 192.168.1.0/24  
+tcpdump -n src net 192.168.1.0/24  
+tcpdump -n net 192.168.1.0/24 
 
+
+# -c 20: Exit after capturing 20 packets.
+# -s 0: Don't limit the amount of payload data that is printed out. Print it all.
+# -i eth1: Capture packets on interface eth1
+# -A: Print packets in ASCII.
+# host 192.168.1.1: Only capture packets coming to or from 192.168.1.1.
+# and tcp port http: Only capture HTTP packets.
 tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
--c 20: Exit after capturing 20 packets.
--s 0: Don't limit the amount of payload data that is printed out. Print it all.
--i eth1: Capture packets on interface eth1
--A: Print packets in ASCII.
-host 192.168.1.1: Only capture packets coming to or from 192.168.1.1.
-and tcp port http: Only capture HTTP packets.
 ```
 * nmap
 ```shell
 nmap -O -sS localhost
-nmap -v -A localhost    -- scan current host network information and produce a map to describe
+# scan current host network information and produce a map to describe
+nmap -v -A localhost    
 PORT    STATE SERVICE VERSION
 22/tcp  open  ssh     OpenSSH 6.6.1 (protocol 2.0)
 | ssh-hostkey:
@@ -393,21 +415,29 @@ ps -ef | grep -c 'sshd'  -- count how many sshd deamon running
 ```
 * sed
 ```shell
-sed 's/ /\t/g'--- what to do
+# a.txt contains string of  two lines
+# characters split with 1 blank space in first line 
+# characters split with 2 blank space in first line 
 a b c d
 e  f  g  h
+
+# wholly replace blank space
 cat a.txt | sed 's/ /\t/g'
 result:
 atbtctd
 ettfttgtth
+
+# replace the first blank space in each line
 cat a.txt | sed 's/ /\t/'
 result:
 atb c d
 et f  g  h
 
+# test substitution not write down to server.properties
+sed 's/#delete.topic.enable/delete.topic.enable/g' ./server.properties  
+# write down to server.properties
+sed -i 's/#delete.topic.enable/delete.topic.enable/g' ./server.properties  
 sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config
-sed 's/#delete.topic.enable/delete.topic.enable/g' ./server.properties  -- test substitution not write down to server.properties
-sed -i 's/#delete.topic.enable/delete.topic.enable/g' ./server.properties  -- write down to server.properties
 
 king@suse-leap:> echo "atestb" | sed 's/.*\(test\).*/\0/'
 atestb
@@ -416,35 +446,39 @@ test
 king@suse-leap:> echo "atestb" | sed 's/.*\(test\).*/\2/'
 sed: -e expressio #1, char 18: invalid reference \2 on s commands RHS
 
-king@suse-leap:> echo "atestb" | sed 's/.*\(t\(es\)t\).*/\0/'  -- regex whole match substitute grep output
+# regex whole match substitute grep output
+king@suse-leap:> echo "atestb" | sed 's/.*\(t\(es\)t\).*/\0/'  
 atestb
-king@suse-leap:> echo "atestb" | sed 's/.*\(t\(es\)t\).*/\1/' -- regex first braces group substitute grep output
+# regex first braces group substitute grep output
+king@suse-leap:> echo "atestb" | sed 's/.*\(t\(es\)t\).*/\1/' 
 test
-king@suse-leap:> echo "atestb" | sed 's/.*\(t\(es\)t\).*/\2/' -- regex second braces group substitute grep output 
+# regex second braces group substitute grep output 
+king@suse-leap:> echo "atestb" | sed 's/.*\(t\(es\)t\).*/\2/' 
 es
 
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
-root@photon-machine# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
+root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 255.255.253.0
-root@photon-machine# grep 'netmask' vminfo.txt|awk -F'value="' '{print $2}'|awk -F'"' '{print $1}'
+root@photon# grep 'netmask' vminfo.txt|awk -F'value="' '{print $2}'|awk -F'"' '{print $1}'
 255.255.253.0
 ```
 * awk
 ```shell
-root@photon-machine [ /etc/systemd/system ]# ps -ef |grep java
+root@photon [ /etc/systemd/system ]# ps -ef |grep java
 root      1211   340 10 08:38 pts/0    00:00:01 java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
 root      1265   340  0 08:38 pts/0    00:00:00 grep --color=auto java
 
-root@photon-machine [ /etc/systemd/system ]# ps -ef |grep java|awk -F' ' '{print $2}'  --blank space splits and the second string
+# blank space splits and the second string
+root@photon [ /etc/systemd/system ]# ps -ef |grep java|awk -F' ' '{print $2}'  
 1211
 1265
 
-root@photon-machine [ /etc/systemd/system ]# ps -ef |grep java|xargs|awk -F' ' '{print $2}'
+root@photon [ /etc/systemd/system ]# ps -ef |grep java|xargs|awk -F' ' '{print $2}'
 1211
 
-root@photon-machine [ ~ ]# kill -9 `ps -ef |grep 'com.vmware.controller.Main'|xargs|awk -F' ' '{print $2}'`
-root@photon-machine [ ~ ]# 
+root@photon [ ~ ]# kill -9 `ps -ef |grep 'com.vmware.controller.Main'|xargs|awk -F' ' '{print $2}'`
+root@photon [ ~ ]# 
 [1]+  Killed                  /usr/bin/java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
 ```
 
