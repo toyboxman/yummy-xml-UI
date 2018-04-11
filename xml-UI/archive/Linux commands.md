@@ -92,8 +92,10 @@ awk -F':' '{print $1}' /etc/passwd
 #### usual command
 * search a file by some condition
 ```shell
-find /etc -name network.sh  -- search a file by some condition
-find /home -user root -exec file {} \;  -- search all files in home folder and then determine its file type(append action)
+# search a file by some condition
+find /etc -name network.sh  
+# search all files in home folder and then determine its file type(append action)
+find /home -user root -exec file {} \;  
 ```
 * remote copy file
 ```shell
@@ -127,9 +129,15 @@ ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  -- return king
 * search string(pattern) in files
 ```shell
 grep DB_VERSION_STRING /usr/local/db.h
-grep -nr --include="*.h" DB_VERSION_STRING ./src  -- recursively search keyword in src folder from *.h files
-grep -n -B5 -A1 [Ee]xception 1.log  -- search keyword 'Exception/exception' in log with 5 lines before and  1 line after showing
-grep -i error 1.log  -- search keyword 'error' case insensitive
+
+# recursively search keyword in src folder from *.h files
+grep -nr --include="*.h" DB_VERSION_STRING ./src  
+
+# search keyword 'Exception/exception' in log with 5 lines before and  1 line after showing
+grep -n -B5 -A1 [Ee]xception 1.log  
+
+# search keyword 'error' case insensitive
+grep -i error 1.log  
 ```
 * change permission of files 
 ```shell
@@ -146,9 +154,13 @@ chgrp -hR stack fileb     change group of fileb from current group to stack recu
 ```
 * pack or unpack folder or file
 ```shell
-tar -cvf a.tar folder1 folder2   --pack folder1 and folder2 into a.tar
-tar -xvf a.tar  --unpack a.tar file
-tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  --pipeline tar&gzip,"-" is a special signal to the tar command to write to its standard output instead of a file with a name
+# pack folder1 and folder2 into a.tar
+tar -cvf a.tar folder1 folder2   
+# unpack a.tar file
+tar -xvf a.tar  
+
+# pipeline tar&gzip,"-" is a special signal to the tar command to write to its standard output instead of a file with a name
+tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  
 ```
 * gzip/(zip/unzip) -- compress or decompress folder or file
 ```shell
