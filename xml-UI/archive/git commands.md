@@ -119,7 +119,7 @@ b1 branch from patch2 : patch1<-patch2<-patch4
 b2 branch from patch2 : patch1<-patch2<-patch4
 git log --oneline 检查分支合并结果
 b1-git merge master : patch1<-patch2<-patch4<-patch3<-auto-merge-patch 'Merge branch 'master' into b1'
-                                                                                  把master中最新提交归并到b1分支最后，并产生一个自动合并提交
+                                    把master中最新提交归并到b1分支最后，并产生一个自动合并提交
 b2-git rebase master : patch1<-patch2<-patch3<-patch4 归并到master分支中，跟在最近提交后面
 ```
 * 提交代码到远程代码库
