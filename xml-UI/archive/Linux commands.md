@@ -99,8 +99,10 @@ find /home -user root -exec file {} \;
 ```
 * remote copy file
 ```shell
-scp *.log king@ip:/home/king  --cp local file to remote folder
-scp king@ip:/home/king/1.log ./king  --cp remote file to local folder
+# cp local file to remote folder
+scp *.log king@ip:/home/king  
+# cp remote file to local folder
+scp king@ip:/home/king/1.log ./king  
 ```
 * list current opened files
 ```shell
@@ -118,13 +120,17 @@ sha1sum
 ```
 * base64 encode/decode string
 ```shell
-echo -n 'linux.com' | base64  -- return encoded string 'bGludXguY29t'
-echo -n bGludXguY29t | base64 -d  -- return 'linux.com'
+# return encoded string 'bGludXguY29t'
+echo -n 'linux.com' | base64  
+# return 'linux.com'
+echo -n bGludXguY29t | base64 -d  
 ```
 * check file status, like ls -lh or du -h ./
 ```shell
-stat index.htm  --Reports the status of file index.htm
-ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  -- return king:users
+# reports the status of file index.htm
+stat index.htm  
+# return king:users
+ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
 ```
 * search string(pattern) in files
 ```shell
@@ -146,11 +152,13 @@ chmod ugoa+rwx file == chmod 7777 file
 ```
 * change owner of files or folders
 ```shell
-chown -hR stack filea    change filea owner from current user to stack recursive
+# change filea owner from current user to stack recursive
+chown -hR stack filea    
 ```
 * change group of files
 ```shell
-chgrp -hR stack fileb     change group of fileb from current group to stack recursive
+# change group of fileb from current group to stack recursive
+chgrp -hR stack fileb     
 ```
 * pack or unpack folder or file
 ```shell
@@ -182,7 +190,8 @@ netstat -tlnpu
 ```
 * no hangup task
 ```shell
-nohup command & -- put task to background without hangup
+# put task to background without hangup
+nohup command & 
 ```
 * fold --wrap text
 ```shell
@@ -214,8 +223,10 @@ umount -lv /home/king/tor
 ```
 * chsh -- change default shell in login
 ```shell
-chsh -s /bin/bash -- change default shell command to bash
-which sh -- which is current default shell
+# change default shell command to bash
+chsh -s /bin/bash 
+# which is current default shell
+which sh 
 ```
 * command1; command2; command3 -- batch execute command
 ```shell
@@ -232,12 +243,18 @@ ls > file
 #### management&configuration
 * add a new user
 ```shell
-useradd test  -- add new user test by default configuration
-passwd test   -- change test initial pwd
-groups test  -- see which group test user in
-id test  -- see test user details about uid gid etc.
-usermod -g root  test  -- force test user to take root group id
-usermod -G root,test  test  -- put test user into root and test groups
+# add new user test by default configuration
+useradd test  
+# change test initial pwd
+passwd test 
+# see which group test user in  
+groups test  
+# see test user details about uid gid etc
+id test  
+# force test user to take root group id
+usermod -g root  test  
+# put test user into root and test groups
+usermod -G root,test  test  
 ```
 * system setting
 ```shell
@@ -258,7 +275,8 @@ system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
 ```
 * GNOME display manager
 ```shell
-gdm --(note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart')
+# note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart'
+gdm 
 ```
 
 ---
@@ -266,16 +284,22 @@ gdm --(note: When vnc desktop has conflict, it maybe has impact performing 'gdm-
 #### basic network configuration of  Linux
 * network config files
 ```shell
-/etc/sysconfig/network   ----net mask
-/etc/sysconfig/network-scripts/ifcfg-eth0  ----gateway, ethernet
-/etc/resolv.conf  ----DNS nameserver
-/etc/hosts   ----host info
+# net mask
+/etc/sysconfig/network   
+# gateway, ethernet
+/etc/sysconfig/network-scripts/ifcfg-eth0  
+# DNS nameserver
+/etc/resolv.conf  
+# host info
+/etc/hosts   
 ```
 * Change Network Interface Name
 The best way to rename a network interface is through udev.
 ```shell
-1.ifconfig -a | grep -i --color hwaddr  -- query net interface mac address
-2.Edit the file /etc/udev/rules.d/70-persistent-net.rules to change the interface name of a network device.
+# query net interface mac address
+1.ifconfig -a | grep -i --color hwaddr  
+#  change the interface name of a network device.
+2.vi /etc/udev/rules.d/70-persistent-net.rules
 3.reboot
 ```
 Or, use yast2 in Suse to change network config and rename nic
@@ -296,44 +320,59 @@ ip addr show br0
 * CentOS 6 iptables 打开端口80 3306 22等
 > [Link](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)
 ```shell
-sudo iptables -L --line-numbers  列出防火墙所有规则，按规则号显示
-sudo iptables -D INPUT 3  删除INPUT表的第三条规则
+# 列出防火墙所有规则，按规则号显示
+sudo iptables -L --line-numbers  
+# 删除INPUT表的第三条规则
+sudo iptables -D INPUT 3  
 iptables -I INPUT -p tcp --dport 80 -j ACCEPT
 iptables -I INPUT -p tcp --dport 22 -j ACCEPT
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT
-iptables -I INPUT -p tcp --dport 8080 -j ACCEPT   把8080端口规则插入INPUT表头
-iptables -A INPUT -p tcp --dport 8081 -j ACCEPT  把8081端口规则添加INPUT表尾
-iptables -I INPUT -p tcp --dport 3306 -j ACCEPT  -- open mysql 3306 port in firewall
+# 把8080端口规则插入INPUT表头
+iptables -I INPUT -p tcp --dport 8080 -j ACCEPT   
+# 把8081端口规则添加INPUT表尾
+iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
+# open mysql 3306 port in firewall  
+iptables -I INPUT -p tcp --dport 3306 -j ACCEPT  
 ```
 * Allow local-only connections
 ```shell
 iptables -A INPUT  -i lo -j ACCEPT
-service iptables save  --保存
+# 保存iptables修改
+service iptables save 
 service iptables status  
 /etc/init.d/iptables status
 ```
 
 * check remote port status
 ```shell
-nc -zv 127.0.0.1 20-30  ---check Range of ports
-nc -zv 127.0.0.1 22 80 8080 ---check three ports
+# check Range of ports
+nc -zv 127.0.0.1 20-30  
+# check three ports
+nc -zv 127.0.0.1 22 80 8080 
 nc -zv 10.117.7.110 9092
 
 Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
 ```
 * traffic check
 ```shell
-ping -I port1 192.168.2.10   --set l3 ping packet from port to other  using ICMP
-arping -I p1 192.168.139.140  --set l2 ping using ARP
+# set L3 ping packet from port to other  using ICMP
+ping -I port1 192.168.2.10   
+# set L2 ping using ARP
+arping -I p1 192.168.139.140  
+
 traceroute 172.18.0.1
+
 route
-route add default gw 192.168.1.254 eth0 -- add gateway 'route add default gw {IP-ADDRESS} {INTERFACE-NAME}'
+# add gateway 'route add default gw {IP-ADDRESS} {INTERFACE-NAME}'
+route add default gw 192.168.1.254 eth0 
 route add -net 172.18.0.0 netmask 255.255.0.0  dev eth1
 route add -net 172.19.0.0 netmask 255.255.0.0  dev eth1
-ip route show   --show routing table
+# show routing table
+ip route show   
 ip route add 192.168.1.0/24 dev eth0
 ip route add 192.168.1.0/24 via 192.168.1.254
-cat /proc/net/arp    ---show arp table and Flags 0x0 and HW address of 00:00:00:00:00:00 mean it is a failed ARP.
+# show arp table and Flags 0x0 and HW address of 00:00:00:00:00:00 mean it is a failed ARP.
+cat /proc/net/arp  
 ```
 * tcpdump
 > [Link](https://danielmiessler.com/study/tcpdump/#examples)
@@ -393,13 +432,17 @@ Service Info: Host: Suse-leap.example.com
 > [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
 * patch for codes
 ```shell
-diff -u hello.c hello_new.c > hello.patch  --创建patch
+# 创建patch
+diff -u hello.c hello_new.c > hello.patch  
 
-patch -p 10 --dry-run < ../rb1138637.patch  --测试从patch文件导出差异
-patch < ../rb1138637.patch  --从patch文件直接导出差异，忽略文件路径信息
-checking file EndPoint.java
-在patch文件中源文件目录是'/src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java'
-patch -p1 < ../rb1138637.patch  --从patch文件导出差异，忽略前1个'/'路径
+# 测试从patch文件导出差异
+patch -p 10 --dry-run < ../rb1138637.patch  
+# 从patch文件直接导出差异，忽略文件路径信息
+patch < ../rb1138637.patch  
+
+# 在patch文件中源文件目录是'/src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java'
+# 从patch文件导出差异，忽略前1个'/'路径
+patch -p1 < ../rb1138637.patch  
 checking file src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java
 patch -p 5 < ../rb1138637.patch  --从patch文件导出差异，忽略前5个'/'路径
 checking file src/test/java/com/example/EndPoint.java
@@ -411,7 +454,8 @@ find . -name *.java | xargs cat | wc -l
 ```
 * count word amount
 ```shell
-ps -ef | grep -c 'sshd'  -- count how many sshd deamon running
+# count how many sshd deamon running
+ps -ef | grep -c 'sshd' 
 ```
 * sed
 ```shell
@@ -569,15 +613,18 @@ sh test.sh 1 2 '3 4'
 ```
 * Crontab
 ```shell
-crontab -l --list current running cron task
-crontab -e  --open cron task editor and insert a curl task periodically by 1 second
+# list current running cron task
+crontab -l 
+# open cron task editor and insert a curl task periodically by 1 second
+crontab -e  
 result:
 min hour day month weekday command
 */1   *    *    *    * echo `curl -i -k http://blog.sina.com.cn/s/blog_46d0362d0102vmuc.html` > /dev/pts/0
 
 vi cronTask 
 crontab ./cronTask
-crontab -r  --remove current running cron task
+# remove current running cron task
+crontab -r  
 ```
 * Curl
 > [Link](http://conqueringthecommandline.com/book/curl)
