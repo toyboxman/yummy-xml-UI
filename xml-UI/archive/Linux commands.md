@@ -159,7 +159,8 @@ tar -cvf a.tar folder1 folder2
 # unpack a.tar file
 tar -xvf a.tar  
 
-# pipeline tar&gzip,"-" is a special signal to the tar command to write to its standard output instead of a file with a name
+# pipeline tar&gzip,"-" is a special signal to the tar command to 
+# write to its standard output instead of a file with a name
 tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  
 ```
 * gzip/(zip/unzip) -- compress or decompress folder or file
@@ -186,16 +187,22 @@ netstat -tlnpu|fold -w 120
 ```shell
 dos2unix file
 ```
-* ln -- link a file to destination, it is better to use absolute path instead of relative path, unless it will lead broken link file
+* ln
 ```shell
+# link a file to destination, it is better to use absolute 
+# path instead of relative path, unless it will lead broken link file
 ln ./java   /home/root -- same action to copy java to /home/root folder
 ln -s ./java  /home/ -- link java to folder /home, just like shortcut of windows
 ```
 * mount/umount -- add/remove a mount point
 ```shell
-mount -t nfs 10.137.16.80:/nfsroot/jars /home/king/tor -- mount remote nfs folder jars to local tor folder
-umount -fv /home/king/tor -- force to remove mounted folder
-umount -lv /home/king/tor -- Lazy unmount, and cleanup all references to the filesystem as soon as it is not busy anymore.
+# mount remote nfs folder jars to local tor folder
+mount -t nfs 10.137.16.80:/nfsroot/jars /home/king/tor 
+# force to remove mounted folder
+umount -fv /home/king/tor 
+# Lazy unmount, and cleanup all references to the 
+# filesystem as soon as it is not busy anymore.
+umount -lv /home/king/tor 
 ```
 * chsh -- change default shell in login
 ```shell
