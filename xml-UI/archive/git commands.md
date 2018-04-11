@@ -134,10 +134,12 @@ $git push glance HEAD:refs/heads/icehouse
 > [Link1](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
 > [Link2](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
 ```shell
-$git rebase -i @~9   # Show the last 9 commits in a text editor<br>
-                                 # @ is shorthand for HEAD, and ~ is the commit before the specified commit<br>
-                                 # in a text editor change 'pick' to 'e' (edit), and save and close the file.<br>
-								#Git will rewind to that commit
+# Show the last 9 commits in a text editor, @ is shorthand for HEAD, 
+# and ~ is the commit before the specified commit
+# in a text editor change 'pick' to 'e' (edit), and save and close the file.
+# Git will rewind to that commit
+$git rebase -i @~9   
+
 $git add -A
 $git commit --amend #make changes
 $git reset @~  #discard the last commit, but not the changes to the files
