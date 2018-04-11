@@ -307,11 +307,13 @@ gitk file
 	```shell
 	$ chmod u+x ~/source/.git/hooks/commit-msg
 	```
-	Ok，修改commit到本地之后就会在提交信息中产生一个Change-ID了,  如Change-Id: I5b8ecff9d0b6dddda4c76e162629017ac5026341
+	Ok，修改commit到本地之后就会在提交信息中产生一个Change-ID了, 如Change-Id: I5b8ecff9d0b6dddda4c76e162629017ac5026341
 
-3.git review 操作参考
+    - git review 操作参考
 	在本地repo提交commit后，即可通过 git review创建review request, 或者 git review branchName 创建指定分支的review request
+	
 			如下结果输出:
+			```shell
 			$ git review master
 			remote: Resolving deltas: 100% (4/4)
 			remote: Counting objects: 61302, done
@@ -323,109 +325,110 @@ gitk file
 			To ssh://Gene@gitreview.example.com:29418/xxx.git
 			* [new branch]      HEAD -> refs/for/master/master
 	
-     a.To fetch a remote change number 3004:
+			$ To fetch a remote change number 3004:
 
-           $ git-review -d 3004
-           Downloading refs/changes/04/3004/1 from gerrit into
-           review/someone/topic_name
-           Switched to branch 'review/someone/topic_name
-           $ git branch
-             master
-           * review/author/topic_name
+				   $ git-review -d 3004
+				   Downloading refs/changes/04/3004/1 from gerrit into
+				   review/someone/topic_name
+				   Switched to branch 'review/someone/topic_name
+				   $ git branch
+					 master
+				   * review/author/topic_name
 
-     Gerrit looks up both name of the author and the topic name from Gerrit to name a local branch. This facilitates easier identification of changes.
+			 Gerrit looks up both name of the author and the topic name from Gerrit to name a local branch. This facilitates easier identification of changes.
 
-     b.To fetch a remote patchset number 5 from change number 3004:
+			 $ To fetch a remote patchset number 5 from change number 3004:
 
-           $ git-review -d 3004,5
-           Downloading refs/changes/04/3004/5 from gerrit into
-           review/someone/topic_name-patch5
-           Switched to branch 'review/someone/topic_name-patch5
-           $ git branch
-             master
-           * review/author/topic_name-patch5	 
+				   $ git-review -d 3004,5
+				   Downloading refs/changes/04/3004/5 from gerrit into
+				   review/someone/topic_name-patch5
+				   Switched to branch 'review/someone/topic_name-patch5
+				   $ git branch
+					 master
+				   * review/author/topic_name-patch5	 
 
-	 c.To send a change for review and delete local branch afterwards:
+			 $ To send a change for review and delete local branch afterwards:
 
-           $ git-review -f
-           remote: Resolving deltas:   0% (0/8)
-           To ssh://username@review.example.com/department/project.git
-            * [new branch]      HEAD -> refs/for/master/topic_name
-           Switched to branch 'master'
-           Deleted branch 'review/someone/topic_name'
-           $ git branch
-           * master
+				   $ git-review -f
+				   remote: Resolving deltas:   0% (0/8)
+				   To ssh://username@review.example.com/department/project.git
+					* [new branch]      HEAD -> refs/for/master/topic_name
+				   Switched to branch 'master'
+				   Deleted branch 'review/someone/topic_name'
+				   $ git branch
+				   * master
+			```
+		- 命令行参数具体说明参考 man git-review
+		```shell
+		CONFIGURATION
+			 This utility can be configured by adding entries to Git configuration.
 
-命令行参数具体说明参考 man git-review
-		
-CONFIGURATION
-     This utility can be configured by adding entries to Git configuration.
+			 The following configuration keys are supported:
 
-     The following configuration keys are supported:
+			 gitreview.username
+						   Default username used to access the repository. If not specified in the Git configuration, Git remote or .gitreview file, the user will be prompted
+						   to specify the username.
 
-     gitreview.username
-                   Default username used to access the repository. If not specified in the Git configuration, Git remote or .gitreview file, the user will be prompted
-                   to specify the username.
+						   Example entry in the .gitconfig file:
 
-                   Example entry in the .gitconfig file:
+								 [gitreview]
+								 username=mygerrituser
 
-                         [gitreview]
-                         username=mygerrituser
+			 gitreview.scheme
+						   This setting determines the 
 
-     gitreview.scheme
-                   This setting determines the 
+			 gitreview.host
+						   This setting determines the default hostname of gerrit remote
 
-     gitreview.host
-                   This setting determines the default hostname of gerrit remote
+			 gitreview.port
+						   This setting determines the default port of gerrit remote
+						   
+			gitreview.project
+						   This setting determines the default name of gerrit git repo
 
-     gitreview.port
-                   This setting determines the default port of gerrit remote
-				   
-	gitreview.project
-                   This setting determines the default name of gerrit git repo
+			 gitreview.remote
+						   This setting determines the default name to use for gerrit remote
 
-     gitreview.remote
-                   This setting determines the default name to use for gerrit remote
+			 gitreview.branch
+						   This setting determines the default branch
 
-     gitreview.branch
-                   This setting determines the default branch
+			 gitreview.track
+						   Determines whether to prefer the currently-tracked branch (if any) and the branch against which the changeset was submitted to Gerrit (if there is
+						   exactly one such branch) to the defaultremote and defaultbranch for submitting and rebasing against.  If the local topic branch is tracking a remote
+						   branch, the remote and branch that the local topic branch is tracking should be used for submit and rebase operations, rather than the defaultremote
+						   and defaultbranch.
 
-     gitreview.track
-                   Determines whether to prefer the currently-tracked branch (if any) and the branch against which the changeset was submitted to Gerrit (if there is
-                   exactly one such branch) to the defaultremote and defaultbranch for submitting and rebasing against.  If the local topic branch is tracking a remote
-                   branch, the remote and branch that the local topic branch is tracking should be used for submit and rebase operations, rather than the defaultremote
-                   and defaultbranch.
+						   When downloading a patch, creates the local branch to track the appropriate remote and branch in order to choose that branch by default when submit-
+						   ting modifications to that changeset.
 
-                   When downloading a patch, creates the local branch to track the appropriate remote and branch in order to choose that branch by default when submit-
-                   ting modifications to that changeset.
+						   A value of 'true' or 'false' should be specified.
 
-                   A value of 'true' or 'false' should be specified.
+						   true          Do prefer the currently-tracked branch (if any) - equivalent to setting --track when submitting changes.
 
-                   true          Do prefer the currently-tracked branch (if any) - equivalent to setting --track when submitting changes.
+						   false         Ignore tracking branches - equivalent to setting --no-track (the default) or providing an explicit branch name when submitting
+										 changes. This is the default value unless overridden by .gitreview file, and is implied by providing a specific branch name on the
+										 command line.
 
-                   false         Ignore tracking branches - equivalent to setting --no-track (the default) or providing an explicit branch name when submitting
-                                 changes. This is the default value unless overridden by .gitreview file, and is implied by providing a specific branch name on the
-                                 command line.
+			gitreview.rebase
+						   This setting determines whether changes submitted will be rebased to the newest state of the branch.
 
-	gitreview.rebase
-                   This setting determines whether changes submitted will be rebased to the newest state of the branch.
+						   A value of 'true' or 'false' should be specified.
 
-                   A value of 'true' or 'false' should be specified.
+						   false         Do not rebase changes on submit - equivalent to setting -R when submitting changes.
 
-                   false         Do not rebase changes on submit - equivalent to setting -R when submitting changes.
+						   true          Do rebase changes on submit. This is the default value unless overridden by .gitreview file.
 
-                   true          Do rebase changes on submit. This is the default value unless overridden by .gitreview file.
+						   This setting takes precedence over repository-specific configuration in the .gitreview file.
 
-                   This setting takes precedence over repository-specific configuration in the .gitreview file.
+			 color.review  Whether to use ANSI escape sequences to add color to the output displayed by this command. Default value is determined by color.ui.
 
-     color.review  Whether to use ANSI escape sequences to add color to the output displayed by this command. Default value is determined by color.ui.
+						   auto or true  If you want output to use color when written to the terminal (default with Git 1.8.4 and newer).
 
-                   auto or true  If you want output to use color when written to the terminal (default with Git 1.8.4 and newer).
+						   always        If you want all output to use color
 
-                   always        If you want all output to use color
-
-                   never or false
-                                 If you wish not to use color for any output. (default with Git older than 1.8.4)
+						   never or false
+										 If you wish not to use color for any output. (default with Git older than 1.8.4)
+		```								
 
 
 		   
