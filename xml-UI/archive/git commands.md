@@ -131,11 +131,13 @@ git push
 $git push glance HEAD:refs/heads/icehouse
 ```
 * 修改本地已提交的历史
-> [Link1](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)
+> [Link1](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
 > [Link2](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
 ```shell
-$git rebase -i @~9   # Show the last 9 commits in a text editor, @ is shorthand for HEAD, and ~ is the commit before the specified commit
-                                   #in a text editor change 'pick' to 'e' (edit), and save and close the file. Git will rewind to that commit
+$git rebase -i @~9   # Show the last 9 commits in a text editor
+								 # @ is shorthand for HEAD, and ~ is the commit before the specified commit
+                                 # in a text editor change 'pick' to 'e' (edit), and save and close the file.
+								#Git will rewind to that commit
 $git add -A
 $git commit --amend #make changes
 $git reset @~  #discard the last commit, but not the changes to the files
@@ -335,7 +337,8 @@ gitk file
 				 master
 			   * review/author/topic_name
 
-		 Gerrit looks up both name of the author and the topic name from Gerrit to name a local branch. This facilitates easier identification of changes.
+		 Gerrit looks up both name of the author and the topic name from Gerrit to name a local branch.
+		 This facilitates easier identification of changes.
 
 		 $ To fetch a remote patchset number 5 from change number 3004:
 
@@ -366,7 +369,8 @@ gitk file
 			 The following configuration keys are supported:
 
 			 gitreview.username
-						   Default username used to access the repository. If not specified in the Git configuration, Git remote or .gitreview file, the user will be prompted
+						   Default username used to access the repository. If not specified in the Git 
+						   configuration, Git remote or .gitreview file, the user will be prompted
 						   to specify the username.
 
 						   Example entry in the .gitconfig file:
@@ -393,21 +397,27 @@ gitk file
 						   This setting determines the default branch
 
 			 gitreview.track
-						   Determines whether to prefer the currently-tracked branch (if any) and the branch against which the changeset was submitted to Gerrit (if there is
-						   exactly one such branch) to the defaultremote and defaultbranch for submitting and rebasing against.  If the local topic branch is tracking a remote
-						   branch, the remote and branch that the local topic branch is tracking should be used for submit and rebase operations, rather than the defaultremote
-						   and defaultbranch.
+						   Determines whether to prefer the currently-tracked branch (if any) 
+						   and the branch against which the changeset was submitted to Gerrit 
+						   (if there is exactly one such branch) to the defaultremote and 
+						   defaultbranch for submitting and rebasing against.  If the local 
+						   topic branch is tracking a remote branch, the remote and branch 
+						   that the local topic branch is tracking should be used for submit 
+						   and rebase operations, rather than the defaultremote and defaultbranch.
 
-						   When downloading a patch, creates the local branch to track the appropriate remote and branch in order to choose that branch by default when submit-
+						   When downloading a patch, creates the local branch to track the appropriate 
+						   remote and branch in order to choose that branch by default when submit-
 						   ting modifications to that changeset.
 
 						   A value of 'true' or 'false' should be specified.
 
-						   true          Do prefer the currently-tracked branch (if any) - equivalent to setting --track when submitting changes.
+						   true          Do prefer the currently-tracked branch (if any) - equivalent to 
+											setting --track when submitting changes.
 
-						   false         Ignore tracking branches - equivalent to setting --no-track (the default) or providing an explicit branch name when submitting
-										 changes. This is the default value unless overridden by .gitreview file, and is implied by providing a specific branch name on the
-										 command line.
+						   false         Ignore tracking branches - equivalent to setting --no-track (the default) 
+										   or providing an explicit branch name when submitting changes. This is 
+										   the default value unless overridden by .gitreview file, and is implied by 
+										   providing a specific branch name on the command line.
 
 			gitreview.rebase
 						   This setting determines whether changes submitted will be rebased to the newest state of the branch.
@@ -420,7 +430,8 @@ gitk file
 
 						   This setting takes precedence over repository-specific configuration in the .gitreview file.
 
-			 color.review  Whether to use ANSI escape sequences to add color to the output displayed by this command. Default value is determined by color.ui.
+			 color.review  Whether to use ANSI escape sequences to add color to the output displayed by this 
+									command. Default value is determined by color.ui.
 
 						   auto or true  If you want output to use color when written to the terminal (default with Git 1.8.4 and newer).
 
