@@ -584,34 +584,41 @@ rpm -Uvh file.rpm
 > [Link](http://www.freeos.com/guides/lsst/)
 * IFS  
 IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
-i. e. how to recognize word boundaries.
+i. e. how to recognize word boundaries. The default value for IFS consists of whitespace 
+characters (to be precise: space, tab and newline) Now, the shell splits mystring into words as well
 ```shell
+#!/usr/bin/sh
 mystring="foo:bar baz rab"
 for word in $mystring; do
   echo "Word: $word"
 done
+
+Word: foo:bar
+Word: baz
+Word: rab
 ```
-The default value for IFS consists of whitespace characters (to be precise: space, tab and newline)
-Now, the shell splits mystring into words as well -- but now, it only treats a colon as the word boundary.
-The first character of IFS is special: It is used to delimit words in the output when using the special $* 
-variable (example taken from the Advanced Bash Scripting Guide, where you can also find more information 
-on special variables like that one):
+But now, it can only treats a colon as the word boundary. because the first character of IFS is special: 
+It is used to delimit words in the output when using the special $* variable (example taken from the 
+Advanced Bash Scripting Guide, where you can also find more information on special 
+variables like that one):
 ```shell
 $ bash -c 'set w x y z; IFS=":-;"; echo "$*"'
 w:x:y:z
 
-Compare to:
-
 $ bash -c 'set w x y z; IFS="-:;"; echo "$*"'
 w-x-y-z
+
+$ bash -c 'set w x y z; IFS="+:-;"; echo "$*"'
+w+x+y+z
 ```
 * FOR
 ```shell
-Use "$@" to represent all the arguments:
+# Use "$@" to represent all the arguments in test.sh
 for var in "$@"
 do
     echo "$var"
 done
+
 sh test.sh 1 2 '3 4'
 1
 2
