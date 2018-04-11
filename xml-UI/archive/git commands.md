@@ -240,9 +240,11 @@ gitk file
 ---
 
 ### 代码的review
-1.安装支持git的reviewt专用软件 (http://en.wikipedia.org/wiki/List_of_tools_for_code_review)<br>
-2.通过gerrit review的命令来操作, 或者通过git-review命令.
-	- a.git-review是openstack组织开发贡献的. 需要额外安装
+1. 安装支持git的reviewt专用软件 (http://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+2. 通过gerrit review的命令来操作, 或者通过git-review命令
+
+	- git-review是openstack组织开发贡献的. 需要额外安装
 	```shell
 	sudo pip install git-review
 	```
@@ -250,11 +252,11 @@ gitk file
 	```shell
 	aptitude install git-review
 	```
-	- b.创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件
+	- 创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件
 	```shell
 	touch .gitreview
 	```
-	.gitreview配置文件类似Windows .ini文件格式，存放Gerrit安装的相关信息
+	- .gitreview配置文件类似Windows .ini文件格式，存放Gerrit安装的相关信息
 	模板如下:
 	```shell
 	[gerrit]
@@ -264,7 +266,7 @@ gitk file
 	project=XXX.git
 	defaultbranch=master
 	```
-	设定默认rebase到zero ，将使git-review不会rebase changes (same as the -R command line option)
+	- 设定默认rebase到zero ，将使git-review不会rebase changes (same as the -R command line option)
 	```shell
 	[gerrit]
 	scheme=ssh   --default scheme (ssh/http/https) of gerrit remote
@@ -276,7 +278,7 @@ gitk file
 	defaultrebase=0
 	track=0
 	```   
-	c.创建全局review用户名
+3. 创建全局review用户名
 	```shell
 	git config -l    -- list all current config
 	# update author/email per repo, useful for current repo config
@@ -292,15 +294,16 @@ gitk file
 	```
 	*当相同配置通过.gitreview配置文件或命令参数同时生效时候，命令行参数优先*
 
-	d.设定commit-msg中自动产生Change-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
+4. 设定commit-msg中自动产生Change-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
 	```shell
 	$ scp -p -P 29418 king@review.example.com:hooks/commit-msg ~/source/.git/hooks/
 	```
 	或
 	```shell
 	$ curl -Lo ~/source/.git/hooks/commit-msg https://review.example.com/tools/hooks/commit-msg
-	如果出现权限问题，一般是gerrit服务器上没有保存本机公钥，需要通过ssh-keygen命令产生~/.ssh/id_rsa.pub，并复制到gerrit管理界面上。
-	如之后得到的commit-msg文件没有执行权限，还需要修改一下执行权限。
+    ```	*如果出现权限问题，一般是gerrit服务器上没有保存本机公钥，需要通过ssh-keygen命令产生~/.ssh/id_rsa.pub，并复制到gerrit管理界面上。
+	如之后得到的commit-msg文件没有执行权限，还需要修改一下执行权限*
+	```shell
 	$ chmod u+x ~/source/.git/hooks/commit-msg
 	```
 	Ok，修改commit到本地之后就会在提交信息中产生一个Change-ID了,  如Change-Id: I5b8ecff9d0b6dddda4c76e162629017ac5026341
