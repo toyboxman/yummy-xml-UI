@@ -466,7 +466,9 @@ root@photon# grep 'netmask' vminfo.txt|awk -F'value="' '{print $2}'|awk -F'"' '{
 * awk
 ```shell
 root@photon [ /etc/systemd/system ]# ps -ef |grep java
-root      1211   340 10 08:38 pts/0    00:00:01 java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
+root      1211   340 10 08:38 pts/0    00:00:01 java -Djava.net.preferIPv4Stack=true 
+-Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar
+:/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
 root      1265   340  0 08:38 pts/0    00:00:00 grep --color=auto java
 
 # blank space splits and the second string
@@ -479,7 +481,9 @@ root@photon [ /etc/systemd/system ]# ps -ef |grep java|xargs|awk -F' ' '{print $
 
 root@photon [ ~ ]# kill -9 `ps -ef |grep 'com.vmware.controller.Main'|xargs|awk -F' ' '{print $2}'`
 root@photon [ ~ ]# 
-[1]+  Killed                  /usr/bin/java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
+[1]+  Killed                  /usr/bin/java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=
+file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/core-1.0.jar:/opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar
+:/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
 ```
 
 * read
@@ -605,16 +609,20 @@ virt-copy-out -a controller.vmdk /opt/nvp/etc/api_server.conf ./
 virt-copy-in -a controller.vmdk api_server.conf /opt/nvp/etc
 virt-edit -a controller.vmdk /opt/nvp/etc/api_server.conf
 
-guestfish --rw -i -a controller.vmdk touch /opt/nvp/test  -- create a new file in image
-guestfish --rw -i -a controller.vmdk write /opt/nvp/test "test guestfish"  -- append content into file
-guestfish -h  -- show all commands supported
+# create a new file in image
+guestfish --rw -i -a controller.vmdk touch /opt/nvp/test  
+# append content into file
+guestfish --rw -i -a controller.vmdk write /opt/nvp/test "test guestfish"  
+# show all commands supported
+guestfish -h  
 guestfish -a controller.vmdk
 <fs> run
 <fs> list_filesystems
 /dev/sda1: ext4
 /dev/sda2: ext4
 /dev/sda3: ext4
-<fs>mount /dev/sda2 /  -- mount partition to booted root folder
+# mount partition to booted root folder
+<fs>mount /dev/sda2 /  
 <fs> ls /
 bin
 boot
@@ -627,7 +635,8 @@ libguestfs: error: upload: /opt/nvp/etc/d1K68brg: Read-only file system
 <fs> help copy-in
 <fs> copy-in /home/king/source/python/cluster-1.0.jar /opt/cloudnet/bin/java/vnetcontroller/
 <fs> help copy-out
-<fs> copy-out /opt/cloudnet/bin/java/vnetcontroller/ .    -- copy vnetcontroller dir to local current folder
+# copy vnetcontroller dir to local current folder
+<fs> copy-out /opt/cloudnet/bin/java/vnetcontroller/ .    
 <fs> exit
 
 virt-filesystems -a controller.vmdk
@@ -635,11 +644,15 @@ virt-filesystems -a controller.vmdk
 /dev/sda2
 /dev/sda3
 
-guestmount -a controller.vmdk -i --ro /dev1  -- mount image to local folder
+# mount image to local folder
+guestmount -a controller.vmdk -i --ro /dev1  
 guestunmount /dev1
 
 qemu-img info controller.vmdk
-qemu-img convert -O raw controller.vmdk nsx.img  -- convert w/o compression
-qemu-img convert -O vmdk controller.vmdk nsx.vmdk  -- decompress controller.vmdk with same format
-qemu-img convert -O vmdk -o subformat=streamOptimized controller.vmdk nsx.vmdk  -- compression vmdk that is read-only image
+# convert w/o compression
+qemu-img convert -O raw controller.vmdk nsx.img  
+# decompress controller.vmdk with same format
+qemu-img convert -O vmdk controller.vmdk nsx.vmdk  
+# compression vmdk that is read-only image
+qemu-img convert -O vmdk -o subformat=streamOptimized controller.vmdk nsx.vmdk  
 ```
