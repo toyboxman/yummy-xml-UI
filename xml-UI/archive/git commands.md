@@ -311,53 +311,53 @@ gitk file
 
     - git review 操作参考
 	在本地repo提交commit后，即可通过 git review创建review request, 或者 git review branchName 创建指定分支的review request
-			<br>如下结果输出:<br>
-			
-			```shell
-			$ git review master
-			remote: Resolving deltas: 100% (4/4)
-			remote: Counting objects: 61302, done
-			remote: Processing changes: new: 1, refs: 1, done
-			remote:
-			remote: New Changes:
-			remote:   https://gitreview.example.com:8443/20509
-			remote:
-			To ssh://Gene@gitreview.example.com:29418/xxx.git
-			* [new branch]      HEAD -> refs/for/master/master
-	
-			$ To fetch a remote change number 3004:
+	<br>如下结果输出:<br>
+		
+		```shell
+		$ git review master
+		remote: Resolving deltas: 100% (4/4)
+		remote: Counting objects: 61302, done
+		remote: Processing changes: new: 1, refs: 1, done
+		remote:
+		remote: New Changes:
+		remote:   https://gitreview.example.com:8443/20509
+		remote:
+		To ssh://Gene@gitreview.example.com:29418/xxx.git
+		* [new branch]      HEAD -> refs/for/master/master
 
-				   $ git-review -d 3004
-				   Downloading refs/changes/04/3004/1 from gerrit into
-				   review/someone/topic_name
-				   Switched to branch 'review/someone/topic_name
-				   $ git branch
-					 master
-				   * review/author/topic_name
+		$ To fetch a remote change number 3004:
 
-			 Gerrit looks up both name of the author and the topic name from Gerrit to name a local branch. This facilitates easier identification of changes.
+			   $ git-review -d 3004
+			   Downloading refs/changes/04/3004/1 from gerrit into
+			   review/someone/topic_name
+			   Switched to branch 'review/someone/topic_name
+			   $ git branch
+				 master
+			   * review/author/topic_name
 
-			 $ To fetch a remote patchset number 5 from change number 3004:
+		 Gerrit looks up both name of the author and the topic name from Gerrit to name a local branch. This facilitates easier identification of changes.
 
-				   $ git-review -d 3004,5
-				   Downloading refs/changes/04/3004/5 from gerrit into
-				   review/someone/topic_name-patch5
-				   Switched to branch 'review/someone/topic_name-patch5
-				   $ git branch
-					 master
-				   * review/author/topic_name-patch5	 
+		 $ To fetch a remote patchset number 5 from change number 3004:
 
-			 $ To send a change for review and delete local branch afterwards:
+			   $ git-review -d 3004,5
+			   Downloading refs/changes/04/3004/5 from gerrit into
+			   review/someone/topic_name-patch5
+			   Switched to branch 'review/someone/topic_name-patch5
+			   $ git branch
+				 master
+			   * review/author/topic_name-patch5	 
 
-				   $ git-review -f
-				   remote: Resolving deltas:   0% (0/8)
-				   To ssh://username@review.example.com/department/project.git
-					* [new branch]      HEAD -> refs/for/master/topic_name
-				   Switched to branch 'master'
-				   Deleted branch 'review/someone/topic_name'
-				   $ git branch
-				   * master
-			```
+		 $ To send a change for review and delete local branch afterwards:
+
+			   $ git-review -f
+			   remote: Resolving deltas:   0% (0/8)
+			   To ssh://username@review.example.com/department/project.git
+				* [new branch]      HEAD -> refs/for/master/topic_name
+			   Switched to branch 'master'
+			   Deleted branch 'review/someone/topic_name'
+			   $ git branch
+			   * master
+		```
 	- 命令行参数具体说明参考 man git-review
 		```shell
 		CONFIGURATION
