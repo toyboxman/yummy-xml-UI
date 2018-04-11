@@ -311,8 +311,8 @@ gitk file
 
     - git review 操作参考
 	在本地repo提交commit后，即可通过 git review创建review request, 或者 git review branchName 创建指定分支的review request
-	
 			如下结果输出:
+
 			```shell
 			$ git review master
 			remote: Resolving deltas: 100% (4/4)
@@ -358,7 +358,7 @@ gitk file
 				   $ git branch
 				   * master
 			```
-		- 命令行参数具体说明参考 man git-review
+	- 命令行参数具体说明参考 man git-review
 		```shell
 		CONFIGURATION
 			 This utility can be configured by adding entries to Git configuration.
