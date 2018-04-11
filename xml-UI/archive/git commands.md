@@ -278,7 +278,7 @@ gitk file
 	defaultrebase=0
 	track=0
 	```   
-3. 创建全局review用户名
+   - 创建全局review用户名
 	```shell
 	git config -l    -- list all current config
 	# update author/email per repo, useful for current repo config
@@ -294,14 +294,15 @@ gitk file
 	```
 	*当相同配置通过.gitreview配置文件或命令参数同时生效时候，命令行参数优先*
 
-4. 设定commit-msg中自动产生Change-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
+    - 设定commit-msg中自动产生Change-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
 	```shell
 	$ scp -p -P 29418 king@review.example.com:hooks/commit-msg ~/source/.git/hooks/
 	```
 	或
 	```shell
 	$ curl -Lo ~/source/.git/hooks/commit-msg https://review.example.com/tools/hooks/commit-msg
-    ```	*如果出现权限问题，一般是gerrit服务器上没有保存本机公钥，需要通过ssh-keygen命令产生~/.ssh/id_rsa.pub，并复制到gerrit管理界面上。
+    ```	
+	*如果出现权限问题，一般是gerrit服务器上没有保存本机公钥，需要通过ssh-keygen命令产生~/.ssh/id_rsa.pub，并复制到gerrit管理界面上。
 	如之后得到的commit-msg文件没有执行权限，还需要修改一下执行权限*
 	```shell
 	$ chmod u+x ~/source/.git/hooks/commit-msg
