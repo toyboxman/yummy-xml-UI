@@ -1,7 +1,7 @@
 ### *markdown syntax guide*
 [markdown_pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)<br>
 [markdown_html](https://guides.github.com/features/mastering-markdown/)
-
+[markdown_syntax](https://sourceforge.net/p/freemind/wiki/markdown_syntax/)
 ---
 
 ### *Following content is usual bash commands I encountered in working, those maybe are useful*
