@@ -1,6 +1,6 @@
 ### *markdown syntax guide*
 [markdown_pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)<br>
-[markdown_html](https://guides.github.com/features/mastering-markdown/)
+[markdown_html](https://guides.github.com/features/mastering-markdown/)<br>
 [markdown_syntax](https://sourceforge.net/p/freemind/wiki/markdown_syntax/)
 ---
 
