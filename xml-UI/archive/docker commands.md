@@ -101,18 +101,29 @@ Caution - These steps depend on your current /var/lib/docker being <br>an actual
 6) Start docker back up service docker start  
 7) restart your containers  
 
-#docker tool
-sudo zypper install docker-compose  -- docker-compose is a tool for defining and running multi-container Docker applications
-example https://github.com/lukeolbrish/examples/tree/master/zookeeper/five-server-docker
-git clone https://github.com/lukeolbrish/examples.git
-docker-compose ps  -- check all compose containers
-docker-compose rm  -- remove invalid containers
-docker-compose -f docker-compose-define.yml up  //run all compose services in yml, default yml: docker-compose.yml
-docker-compose up -- run all compose service, start five zookeeper nodes by yaml config
-docker-compose up -d  // run all compose service with detached mode
-docker rm fiveserverdocker_zookeeper5_1  // remove zk5 node and zk4 will be selected as leader
-docker-compose up <serviceName>  -- docker-compose up -d zookeeper5  // again startup zk5 node, it becomes a follower
-docker-compose down  // shutdown all compose service
+#### docker-compose
+> [example](https://github.com/lukeolbrish/examples/tree/master/zookeeper/five-server-docker)
+```shell
+# docker-compose is for defining and running multi-container applications
+# install docker-compose package
+sudo zypper install docker-compose  
+# check all compose containers
+docker-compose ps  
+# remove invalid containers
+docker-compose rm
+  
+# run all compose services by default yaml file, docker-compose.yml
+docker-compose up
+# run all compose services by yaml file, default yaml: docker-compose.yml
+docker-compose -f docker-compose-define.yml up  
+# run all compose service with detached mode
+docker-compose up -d  
+# re-run a service node, like 'docker-compose up -d zookeeper5', startup zk5 node again, it becomes a follower
+docker-compose up <serviceName>  
+# shutdown all compose service
+docker-compose down  
+```
+
 $check zk cluster
 docker-compose run --rm zkcli -server zookeeper3  // create a zkcli container to connect zk3 server and enter cli mode, -rm parameter means kill container after command closes
 or
