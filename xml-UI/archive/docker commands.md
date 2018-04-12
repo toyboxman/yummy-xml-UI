@@ -8,56 +8,98 @@
 
 ---
 
-#docker installation on SUSE
-1.sudo zypper in yast2-docker
-2.Giving non-root user privelege to access, The docker daemon always runs as the root user
-sudo groupadd docker    -- create group docker
-sudo gpasswd -a ${USER} docker   -- sudo gpasswd -a king docker //Adding user king to group docker
+#### docker installation on SUSE
+* install package
+```shell
+sudo zypper in yast2-docker
+```
+* Giving non-root user privilege to access, the docker daemon always runs as the root user
+```shell
+# create group docker
+sudo groupadd docker
+# Adding user king to group docker, sudo gpasswd -a ${USER} docker
+sudo gpasswd -a king docker 
 sudo service docker restart
-logout and login  -- make user group effective
-3.set docker image pull proxy
+# relogin and make user group effective
+logout and login  
+```
+* set docker image pull proxy
+```shell
 sudo systemctl stop docker
 sudo mkdir -p /etc/systemd/system/docker.service.d
+
 sudo touch /etc/systemd/system/docker.service.d/http-proxy.conf
 [Service]
 Environment="HTTP_PROXY=http://proxy.example.com:80/"
-OR, Environment="HTTP_PROXY=http://proxy.example.com:80/" "NO_PROXY=localhost,127.0.0.1,docker-registry.somecorporation.com"
-sudo /etc/systemd/system/docker.service.d/https-proxy.conf
+OR, 
+Environment="HTTP_PROXY=http://proxy.example.com:80/" \
+"NO_PROXY=localhost,127.0.0.1,docker-registry.somecorporation.com"
+
+sudo touch /etc/systemd/system/docker.service.d/https-proxy.conf
 [Service]
 Environment="HTTPS_PROXY=https://proxy.example.com:443/"
+
+# restart docker service and make changes effective
 sudo systemctl daemon-reload
 sudo systemctl restart docker
 systemctl show --property=Environment docker
+```
 
-#docker command
-docker ps -a -- list docker instances
-docker images/docker image ls -- list images
-docker search default -- search default image hub
-docker run --name jdk-dev -it java  -- create container instance 'jdk-dev' and start. like create+start cmd
-docker pull java  -- pull registry image to local repo /var/lib/docker/btrfs/subvolumes
-docker rm <NAME | ID>  -- remove container by name
-docker stop <NAME | ID>  -- Stop one or more running containers
-docker network ls  -- list docker network
+
+#### docker command
+```shell
+# list docker instances
+docker ps -a 
+# list images
+docker images
+docker image ls 
+# search default image hub
+docker search <NAME>
+# pull registry image to local repo /var/lib/docker/btrfs/subvolumes
+docker pull java
+# remove image forcibly
+docker rmi -f <NAME | ID>  
+
+# create container instance 'jdk-dev' by image 'java' and start
+docker run --name jdk-dev -it java  
+# run image as container with mapping port 2181 to host's port 8081
+docker run -p8081:2181 solo_zk  
+# remove container by name/id
+docker rm <NAME | ID>  
+# Stop one or more running containers
+docker stop <NAME | ID>  
+
+# copy locally current file to docker instance folder
 docker cp ./zkCache.sh <NAME | ID>:/opt/zk
-docker cp -L ./zkCache.sh <NAME | ID>:/opt/zk // symbolic link copy
-docker exec -it <NAME | ID> bash  -- attach to existing docker container instance
-docker inspect <NAME | ID> | grep IP
-docker network inspect <network_name>
-docker build -t solo_zk . -- build local image, like three files, Dockerfile  zoo.cfg  zookeeper-entrypoint.sh in ./ folder
-docker rmi -f <NAME | ID>  -- remove image forcily
-docker run -p8081:2181 solo_zk  -- run image as container with mapping port 2181 to host's port 8081
-docker commit 10cab gene/kafka:latest  -- commit container as new image
+# symbolic link copy
+docker cp -L ./zkCache.sh <NAME | ID>:/opt/zk 
+# attach to existing docker container instance
+docker exec -it <NAME | ID> bash  
 
-#change docker local image repo
-Caution - These steps depend on your current /var/lib/docker being an actual directory (not a symlink to another location).
-1) Stop docker: service docker stop. Verify no docker process is running ps -ef|grep faux
-2) Double check docker really isn't running. Take a look at the current docker directory: ls /var/lib/docker/
-2b) Make a backup, tar -zcC /var/lib docker > /mnt/pd0/var_lib_docker-backup-$(date +%s).tar.gz
-3) Move the /var/lib/docker directory to your new partition: mv /var/lib/docker /mnt/pd0/docker
-4) Make a symlink: ln -s /mnt/pd0/docker /var/lib/docker
-5) Take a peek at the directory structure to make sure it looks like it did before the mv: ls /var/lib/docker/ (note the trailing slash to resolve the symlink)
-6) Start docker back up service docker start
-7) restart your containers
+# list docker network
+docker network ls  
+# network detail examination
+docker inspect <NAME | ID> | grep <IP>
+docker network inspect <network_name>
+
+# build local image, need three files, Dockerfile  zoo.cfg  zookeeper-entrypoint.sh in ./ folder
+docker build -t solo_zk ./ 
+# commit container as new image
+docker commit 10cab gene/kafka:latest  
+```
+
+
+
+#### change docker local image repo
+Caution - These steps depend on your current /var/lib/docker being <br>an actual directory (not a symlink to another location).<br>
+1) Stop docker: service docker stop. Verify no docker process is running ps -ef|grep faux  
+2) Double check docker really isn't running. Take a look at the current docker directory: ls /var/lib/docker/  
+2b) Make a backup, tar -zcC /var/lib docker > /mnt/pd0/var_lib_docker-backup-$(date +%s).tar.gz  
+3) Move the /var/lib/docker directory to your new partition: mv /var/lib/docker /mnt/pd0/docker  
+4) Make a symlink: ln -s /mnt/pd0/docker /var/lib/docker  
+5) Take a peek at the directory structure to make sure it looks like it did <br>before the mv: ls /var/lib/docker/ (note the trailing slash to resolve the symlink)  
+6) Start docker back up service docker start  
+7) restart your containers  
 
 #docker tool
 sudo zypper install docker-compose  -- docker-compose is a tool for defining and running multi-container Docker applications
