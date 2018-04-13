@@ -6,10 +6,17 @@
 ---
 
 ### *Following content is about shell programming*
-shell脚本调试方法:
-sh -n script.sh  读一遍脚本中的命令但不执行，用于检查脚本中的语法错误
-sh -v script.sh  一边执行脚本，一边将执行过的脚本命令打印到标准错误输出
-sh -x script.sh  提供跟踪执行信息，将执行的每一条命令和结果依次打印出来
+* shell脚本调试方法
+```shell
+# 读一遍脚本中的命令但不执行，用于检查脚本中的语法错误
+sh -n script.sh  
+
+# 一边执行脚本，一边将执行过的脚本命令打印到标准错误输出
+sh -v script.sh  
+
+# 提供跟踪执行信息，将执行的每一条命令和结果依次打印出来
+sh -x script.sh  
+```
 使用这些选项有三种方法，
 
 一是在命令行提供参数 $ sh -x ./script.sh
