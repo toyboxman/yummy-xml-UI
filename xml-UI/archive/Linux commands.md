@@ -34,6 +34,11 @@ free -m
 ```
 * list processes
 ```shell
+# 'h' for help content
+# 'Z' enable color
+# 'R' for sort of columns
+# 'x' highlight sorted column
+# '<'£¬'>' move highlighted column sorted
 top
 ```
 * config system services(GUI config is system-config-services)
