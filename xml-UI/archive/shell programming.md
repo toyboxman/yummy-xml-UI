@@ -381,6 +381,7 @@ done
     ```
 
     * input parameter of bash script
+    > [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)
         - parameter type
         ```shell
         # the name of the command executing
@@ -443,103 +444,118 @@ done
         expect "#"
         send "exit\n"
         interact
+
+        # 尝试连接远程主机  ./connect.sh 192.168.0.1
+        #!/usr/bin/expect -f
+        # 获取expect脚本的第一个参数 192.168.0.1
+        set host [lindex $argv 0];  
+        spawn ssh admin@$host
+        # 需要处理首次连接和再次连接的if 条件
+        expect {   
+         "Are you sure you want to continue connecting (yes/no)?" {
+          send "yes\n"
+          # 表明此条件完成后,继续后续其他选择条件
+          # 如password 如果没有exp_continue则跳出
+          # 选择条件，执行后面指令
+          exp_continue  
+         }
+         "password:" {
+          send "default\n"
+         }
+        }
+        expect ">"
+        send "enable\n"
+        expect "Password"
+        send "default\n"
+        send "exit\n"
+        interact
         ```
-如果需要打开ssh的root访问权限，需要修改ssh配置文件。通过远程操控vi来处理比较困难，可以只通过sed来做
-#send "grep 'PermitRootLogin no' /etc/ssh/sshd_config\n"  --需要允许PermitRootLogin权限
-send "sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config\n"  --通过sed在当前文件中替换字符串
 
-sed语法 sed -i 's/old-word/new-word/g' *.txt  
--i表示在当前文件中 in-place, *.txt 指定在所有当前txt文件中， 此命令将替换所有符合条件的字符串
-sed -i 's/INFO/DEBUG/g' test.txt  --将当前test.txt中所有INFO 替换成DEBUG
-如果只想替换第一个符合的条件，需要加参数
-sed -i '0,/DEBUG/s/DEBUG/INFO/g' test.txt  --将当前test.txt中第一个DEBUG替换成INFO
- 
-如果需要在expect中增加条件选择，可以如下处理
-connect.sh  --尝试连接远程主机  ./connect.sh 192.168.0.1
-#!/usr/bin/expect -f
-set host [lindex $argv 0];  --获取expect脚本的第一个参数
-spawn ssh admin@$host
-expect {   --需要处理首次连接和再次连接的if 条件
- "Are you sure you want to continue connecting (yes/no)?" {
-  send "yes\n"
-  exp_continue  -- 表明此条件完成后,继续后续其他选择条件，如password。如果没有exp_continue则跳出选择条件，执行后面指令
- }
- "password:" {
-  send "default\n"
- }
-}
-expect ">"
-send "enable\n"
-expect "Password"
-send "default\n"
-send "exit\n"
-interact
+* Expect
+Expect is a program that "talks" to other interactive programs according to a script.
+Following the script, Expect knows what can be expected from a program and 
+what the correct response should be. An interpreted language provides branching 
+and high-level control structures to direct the dialogue. In addition, the user 
+can take control and interact directly when desired, afterward returning control 
+to the script.  
 
-来自系统文档的对Expect的定义
-Expect is a program that "talks" to other interactive programs according to a script. Following the script, Expect knows what can be expected from a program and what the correct response should be. An interpreted language provides branching and high-level control structures to direct the dialogue. In addition, the user can take control and interact directly when desired, afterward returning control to the script.
-Expectk is a mixture of Expect and Tk. It behaves just like Expect and Tk's wish. Expect can also be used directly in C or C++ (that is, without Tcl). 
+Expectk is a mixture of Expect and Tk. It behaves just like Expect and Tk's 
+wish. Expect can also be used directly in C or C++ (that is, without Tcl). 
 
-能用Expect做哪些事情呢，我觉得做些简单但又重复的工作比较合适。比如说登录远程主机，查看一下状态等等。因为每个主机除了密码不同，其他都差不多。归集起来就是相当于做循环操作，如果是更加复杂的安装卸载之类，可能就需要通过chef，puppet这类的框架做更容易更灵活。
-https://en.wikipedia.org/wiki/Expect
-https://www.pantz.org/software/expect/expect_examples_and_tips.html
+能用Expect做哪些事情呢，我觉得做些简单但又重复的工作比较合适。
+比如说登录远程主机，查看一下状态等等。因为每个主机除了密码不同，
+其他都差不多。归集起来就是相当于做循环操作，如果是更加复杂的
+安装卸载之类，可能就需要通过chef，puppet这类的框架做更容易更灵活。
+> [wiki](https://en.wikipedia.org/wiki/Expect)  
+> [tips](https://www.pantz.org/software/expect/expect_examples_and_tips.html)
 
-case1:
-通过一个场景来看看Expect作用，有几台远端主机没有打开sshd的root用户登录权限，需要手动打开。如果一个一个登录的话，你需要通过putty登录每一个远程机器，然后修改ssh配置文件，再重启。这个过程可能需要数分钟，而且很麻烦需要不停输入密码。如果通过expect脚本，则半分钟可能就完成了。
+    * case1
+    有几台远端主机没有打开sshd的root用户登录权限，需要手动打开。
+    如果一个一个登录的话，你需要通过putty登录每一个远程机器，
+    然后修改ssh配置文件，再重启。这个过程可能需要数分钟，而且
+    很麻烦需要不停输入密码。如果通过expect脚本，则半分钟可能就完成了。
+    首先，设计一个循环执行的shell脚本(ssh_open.sh)，remote机器地
+    址通过命令参数传入
+    ```shell
+    #!/usr/bin/sh
+    #循环获取传入参数
+    for host in $@   
+    do
+        echo "Will open ssh in $host"
+        #删除远程机器保存在本机的ssh公钥
+        ssh-keygen -R $host  
+        #执行expect脚本
+        ./open.sh $host   
+        echo 'End ssh operation in' $host
+    done
+    ```
+    然后，设计一个Expect脚本(open.sh)，登录远程主机修改ssh的权限
+    ```shell
+    #!/usr/bin/expect -f  
+    # expect脚本和普通shell不一样，需要通过expect来解释
+    # expect中赋值操作，将传入脚本的第一个参数赋值给变量host
 
-首先，设计一个循环执行的shell脚本(ssh_open.sh)，remote机器地址通过命令参数传入
-#!/usr/bin/sh
-for host in $@   ---循环获取传入参数
-do
-    echo "Will open ssh in $host"
-    ssh-keygen -R $host  ---删除远程机器保存在本机的ssh公钥
-    ./open.sh $host   ---执行expect脚本
-    echo 'End ssh operation in' $host
-done
-
-$@表示全部传入参数列表，传入参数通过空格分隔
-shell的特殊变量可以参考 https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html
-
-然后，设计一个Expect脚本(open.sh)，登录远程主机修改ssh的权限
-#!/usr/bin/expect -f  ---expect脚本和普通shell不一样，需要通过expect来解释
-#  ---expect中赋值操作，将传入脚本的第一个参数赋值给变量host
-set host [lindex $argv 0];
-# ---expect中创建一个新进程来执行ssh登录
-spawn ssh admin@$host
-expect {  ---expect中等待结果输出
-    "Are you sure you want to continue connecting (yes/no)?" {
-        # ---expect中达到条件发送给远程交互输入 '\n'想当回车
-        send "yes\n"
-        #  ---如果此条件执行完继续执行后面条件
-        exp_continue
+    set host [lindex $argv 0];
+    # ---expect中创建一个新进程来执行ssh登录
+    spawn ssh admin@$host
+    expect {  ---expect中等待结果输出
+        "Are you sure you want to continue connecting (yes/no)?" {
+            # ---expect中达到条件发送给远程交互输入 '\n'想当回车
+            send "yes\n"
+            #  ---如果此条件执行完继续执行后面条件
+            exp_continue
+        }
+        "password:" {
+            #---如果此条件执行完直接跳出等待输入 如果是'$'符号需要转义，否则解释成变量
+            send "Defaultca\$hc0w\n"
+        }
+        "Password:" {
+            send "Defaultca\$hc0w\n"
+        }
     }
-    "password:" {
-        #---如果此条件执行完直接跳出等待输入 如果是'$'符号需要转义，否则解释成变量
-        send "Defaultca\$hc0w\n"
-    }
-    "Password:" {
-        send "Defaultca\$hc0w\n"
-    }
-}
-#  ---执行等待1秒
-sleep 1
-expect "#"
-send "su\n"
-expect "password"
-send "lIfV+6sfh9uBNgt/nxkn\n"
-expect "root"
-#  ---通过sed替换/etc/ssh/sshd_config配置文件中'PermitRootLogin no'  'PermitRootLogin yes'
-send "sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config\n"
-sleep 1
-send "service ssh restart\n"
-expect "ssh start/running"
-send "exit\n"
-expect "#"
-send "exit\n"
+    #  ---执行等待1秒
+    sleep 1
+    expect "#"
+    send "su\n"
+    expect "password"
+    send "lIfV+6sfh9uBNgt/nxkn\n"
+    expect "root"
+    #  ---通过sed替换/etc/ssh/sshd_config配置文件中'PermitRootLogin no'  'PermitRootLogin yes'
+    send "sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config\n"
+    sleep 1
+    send "service ssh restart\n"
+    expect "ssh start/running"
+    send "exit\n"
+    expect "#"
+    send "exit\n"
 
-#  ---将当前进程控制权返回给用户
-interact
-#  ---关闭当前进程连接
-close
+    #  ---将当前进程控制权返回给用户
+    interact
+    #  ---关闭当前进程连接
+    close
+    ```
+
+
 
 sed基本命令
 sed 's/color/colour/g' filename  表示将filename文件中全部color全部替换成colour s指令是substitute  g指令是global全局
@@ -626,6 +642,24 @@ interact
 
 puts "complete loop $i cycle"
 }
+
+如果需要打开ssh的root访问权限，需要修改ssh配置文件。通过远程操控vi来处理比较困难，可以只通过sed来做
+#send "grep 'PermitRootLogin no' /etc/ssh/sshd_config\n"  --需要允许PermitRootLogin权限
+send "sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config\n"  --通过sed在当前文件中替换字符串
+
+sed语法 sed -i 's/old-word/new-word/g' *.txt  
+-i表示在当前文件中 in-place, *.txt 指定在所有当前txt文件中， 此命令将替换所有符合条件的字符串
+sed -i 's/INFO/DEBUG/g' test.txt  --将当前test.txt中所有INFO 替换成DEBUG
+如果只想替换第一个符合的条件，需要加参数
+sed -i '0,/DEBUG/s/DEBUG/INFO/g' test.txt  --将当前test.txt中第一个DEBUG替换成INFO
+ 
+
+
+
+
+
+
+
 
 
 vi编辑器有3种模式：命令模式、输入模式、末行模式。掌握这三种模式十分重要：
