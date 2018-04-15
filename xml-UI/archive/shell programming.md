@@ -329,7 +329,6 @@ done
     通过ssh进行远程交互, 批量操作时候, 需要处理输入得到输出.   
     Linux平台上有一个方便的命令行处理工具expect，这是一个   
     可编程的工具, 通过预期结果和发送命令来操作远程机器。
-
     expect基本组成结构为几部分: 
         解释声明->spawn->expect->send->interact   
     ```shell
