@@ -310,9 +310,12 @@ done
     echo -n "$API_KEY" | base64 -d > $VMINFO/controller.pem
     echo -n "$API_CERT" | base64 -d >> $VMINFO/controller.pem
     echo "create controller.pem..." >> $VMINFO/result.log
-    openssl pkcs12 -export -in $VMINFO/controller.pem -out $VMINFO/controller.p12 -name controller -passout pass:123456
+    openssl pkcs12 -export -in $VMINFO/controller.pem -out \
+        $VMINFO/controller.p12 -name controller -passout pass:123456
     echo "create controller.p12..." >> $VMINFO/result.log
-    keytool -v -importkeystore -srckeystore $VMINFO/controller.p12 -srcstoretype PKCS12 -srcstorepass 123456 -alias controller -deststorepass 123456 -destkeystore $VMINFO/keystore.jks
+    keytool -v -importkeystore -srckeystore $VMINFO/controller.p12 \
+        -srcstoretype PKCS12 -srcstorepass 123456 -alias controller \
+        -deststorepass 123456 -destkeystore $VMINFO/keystore.jks
     echo "import controller entry..." >> $VMINFO/result.log
     else
     echo "incomplete certs $API_KEY and $API_CERT" >> $VMINFO/result.log
