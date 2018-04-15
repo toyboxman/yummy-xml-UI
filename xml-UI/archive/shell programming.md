@@ -381,7 +381,7 @@ done
     ```
 
     * input parameter of bash script
-    > [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)<br>
+        > [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)<br>
         - parameter type
         ```shell
         # the name of the command executing
