@@ -116,6 +116,8 @@
 
     * 字符串比较
     ```shell
+    # 习惯于使用""来测试字符串是一种好习惯
+
     # 当两个串有相同内容、长度时为真
     str1 = str2　
 
@@ -123,9 +125,13 @@
     str1 != str2
 
     # 当串的长度大于0时为真(串非空)
+    # -n 字符串不为"null"
+    # 使用-n在[]结构中测试必须要用""把变量引起来
     -n str1
 
     # 当串的长度为0时为真(空串)
+    # -z 字符串为"null" 就是长度为0
+    # 使用一个未被""的字符串来使用 ! -z
     -z str1　
 
     # 当串str1为非空时为真
@@ -141,56 +147,59 @@
     # 2. [[ $a == "z*" ]] 如果$a等于z*(字符匹配),那么结果为true
     # 3. [ $a == z* ]      File globbing 和word splitting将会发生
     # 4. [ "$a" == "z*" ] 如果$a等于z*(字符匹配),那么结果为true
-    ```　　　
-    
-    一点解释,关于File globbing是一种关于文件的速记法,比如"*.c"就是,再如~也是.
-    但是file globbing并不是严格的正则表达式,虽然绝大多数情况下结构比较像.
-    != 不等于,如:if [ "$a" != "$b" ]
-    这个操作符将在[[]]结构中使用模式匹配.
-    <  小于,在ASCII字母顺序下.如:
+    # 关于File globbing是一种关于文件的速记法,比如"*.c"就是,再如 ~ 也是.
+    # 但是file globbing并不是严格的正则表达式,虽然绝大多数情况下结构比较像.
+
+    # != 不等于
+    if [ "$a" != "$b" ]
+    # 这个操作符将在 [[]] 结构中使用模式匹配
+
+    # <  小于 在ASCII字母顺序下
     if [[ "$a" < "$b" ]]
+    # 在 [] 结构中"<"需要被转义
     if [ "$a" \< "$b" ]
-    注意:在[]结构中"<"需要被转义.
-    >  大于,在ASCII字母顺序下.如:
+
+    # >  大于 在ASCII字母顺序下
     if [[ "$a" > "$b" ]]
+    # 在[]结构中">"需要被转义
     if [ "$a" \> "$b" ]
-    注意:在[]结构中">"需要被转义.
-    具体参考Example 26-11来查看这个操作符应用的例子.
-    -z 字符串为"null".就是长度为0.
-    -n 字符串不为"null"
-    注意:
-    使用-n在[]结构中测试必须要用""把变量引起来.使用一个未被""的字符串来使用! -z
-    或者就是未用""引用的字符串本身,放到[]结构中。虽然一般情况下可
-    以工作,但这是不安全的.习惯于使用""来测试字符串是一种好习惯.
+    ```
 
-3.IF控制流
-if ....; then
-....
-elif ....; then
-....
-else
-....
-fi
+* IF 控制流
+    ```shell
+    if ....; then
+    ....
+    elif ....; then
+    ....
+    else
+    ....
+    fi
 
-[ -f "somefile" ] ：判断是否是一个文件
-[ -x "/bin/ls" ] ：判断/bin/ls是否存在并有可执行权限
-[ -n "$var" ] ：判断$var变量是否有值
-[ "$a" = "$b" ] ：判断$a和$b是否相等
-注意中括号两边都有一个空格，否则执行会报命令找不到
+    #!/bin/sh
 
-For Example
-#!/bin/sh
+    eval user=`whoami`
 
-eval user=`whoami`
+    if [ "$user" = "root" ] ; then
+    echo first
+    else
+    echo second
+    fi
+    ```
 
-if [ "$user" = "root" ] ;
-then
-echo first
-else
-echo second
-fi
+    - 常用判断
+    ```shell
+    # 判断是否是一个文件
+    [ -f "somefile" ]
+    # 判断/bin/ls是否存在并有可执行权限
+    [ -x "/bin/ls" ] 
+    # 判断$var变量是否有值
+    [ -n "$var" ] 
+    # 判断$a和$b是否相等
+    [ "$a" = "$b" ] 
+    # 注意中括号两边都有一个空格，否则执行会报命令找不到
+    ```
 
-4.LOOP 控制流
+* LOOP 控制流
 Reference:
 http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
 https://www.garron.me/en/articles/bash-for-loop-examples.html
