@@ -200,10 +200,9 @@
     ```
 
 * LOOP ¿ØÖÆÁ÷
-Reference:
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
-https://www.garron.me/en/articles/bash-for-loop-examples.html
-https://www.cyberciti.biz/faq/bash-for-loop/
+> [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
+> [Link-2](https://www.garron.me/en/articles/bash-for-loop-examples.html)   
+> [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
 
 for VARIABLE in 1 2 3 4 5 .. N
 do
