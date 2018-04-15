@@ -17,93 +17,151 @@ sh -v script.sh
 # 提供跟踪执行信息，将执行的每一条命令和结果依次打印出来
 sh -x script.sh  
 ```
-使用这些选项有三种方法，
+    * 使用这些选项有三种方法，
 
-一是在命令行提供参数 $ sh -x ./script.sh
+        * 在命令行提供参数
+        ```shell
+        $ sh -x ./script.sh
+        ```
 
-二是在脚本开头提供参数 #! /bin/sh -x
+        * 在脚本开头提供参数 
+        ```shell
+        #! /bin/sh -x
+        ```
 
-第三种方法是在脚本中用set命令启用或禁用参数
+        * 在脚本中用set命令启用或禁用参数
+        ```shell
+        #! /bin/sh
+        # 通过启用和禁用X参数,只对脚本中的某一段进行跟踪调试
+        if [ -z "$1" ]; then
+        # 启用x参数
+        set -x
+        echo "ERROR: Insufficient Args."
+        exit 1
+        else
+        # 禁用x参数
+        set +x
+        fi
+        ```
 
-#! /bin/sh
-if [ -z "$1" ]; then
-set -x
-echo "ERROR: Insufficient Args."
-exit 1
-else
-set +x
-fi
-set -x和set +x分别表示启用和禁用-x参数，这样可以只对脚本中的某一段进行跟踪调试。
-
-
-1.变量赋值
+* 变量赋值   
 经常需要将命令执行结果赋值给shell中变量，可以用下面两种方式
-eval A=`whoami` // 执行命令将结果赋给变量,注意命令不是单引号('')包括，而是`｀号(～按键)
-   OR
-B=`whoami | awk '{print $1}'` //赋值等号两边不要有空格
-C=`ls ./log.txt | xargs stat --printf " %U:%G \n"` //输出log.txt文件owner/group
-上面的命令都可以把当前用户名赋值给变量
-Example:
-eclipse_pid=`ps -ef|grep eclipse|awk 'NR==2{print $2,$3}'` //读第二行，打印第二列 第三列(awk example)
-echo "current eclipse pid is $eclipse_pid, will kill it"
-echo "kill -9 $eclipse_pid"
-kill -9 $eclipse_pid
-//awk reference : http://baike.baidu.com/view/209681.htm or http://zh.wikipedia.org/wiki/AWK
 
-2.数值比较
-For Example
+    - eval命令
+    ```shell
+    # 执行命令将结果赋给变量,注意命令不是单引号(' ')包括, 而是`｀号(～按键)
+    eval A=`whoami` 
+    ```
+   - 直接赋值
+    ```shell
+    # 赋值等号两边不要有空格
+    # 把当前用户名赋值给变量
+    B=`whoami | awk '{print $1}'` 
+    # 输出log.txt文件owner/group
+    C=`ls ./log.txt | xargs stat --printf " %U:%G \n"` 
+    
+    # 读第二行，打印第二列 第三列(awk example)
+    eclipse_pid=`ps -ef|grep eclipse|awk 'NR==2{print $2,$3}'`
+    echo "current eclipse pid is $eclipse_pid, will kill it"
+    echo "kill -9 $eclipse_pid"
+    kill -9 $eclipse_pid
+    ```
+    > [AWK-wiki](http://zh.wikipedia.org/wiki/AWK)
+    > [AWK-baike](http://baike.baidu.com/view/209681.htm)
+
+* 数值比较
+```shell
+# 关键要点：
+# 1. 使用单个等号
+# 2. 注意到等号两边各有一个空格,这是unix shell的要求
+# 3. 注意到"$test"x最后的x, 这是特意安排的，因为当$test为空的时候，
+#    上面的表达式就变成了x = testx，显然是不相等的。而如果没有这个x，
+#    表达式就会报错：[: =: unary operator expected
+#    二元比较操作符,比较变量或者比较数字.注意数字与字符串的区别.
 if [ "$test"x = "test"x ]; then
-这里的关键有几点：
-1. 使用单个等号
-2. 注意到等号两边各有一个空格：这是unix shell的要求
-3. 注意到"$test"x最后的x，这是特意安排的，因为当$test为空的时候，上面的表达式就变成了x = testx，显然是不相等的。而如果没有这个x，表达式就会报错：[: =: unary operator expected
-二元比较操作符,比较变量或者比较数字.注意数字与字符串的区别.
+```
 
-#整数比较
--eq       等于,如:if [ "$a" -eq "$b" ]
--ne       不等于,如:if [ "$a" -ne "$b" ]
--gt       大于,如:if [ "$a" -gt "$b" ]
--ge       大于等于,如:if [ "$a" -ge "$b" ]
--lt       小于,如:if [ "$a" -lt "$b" ]
--le       小于等于,如:if [ "$a" -le "$b" ]
-<       小于(需要双括号),如:(("$a" < "$b"))
-<=       小于等于(需要双括号),如:(("$a" <= "$b"))
->       大于(需要双括号),如:(("$a" > "$b"))
->=       大于等于(需要双括号),如:(("$a" >= "$b"))
-小数据比较可使用AWK
+    * 整数比较
+    ```shell
+    # 等于 -eq
+    if [ "$a" -eq "$b" ]
 
-#字符串比较
-1. str1 = str2　　　　　　当两个串有相同内容、长度时为真
-2. str1 != str2　　　　　 当串str1和str2不等时为真
-3. -n str1　　　　　　　 当串的长度大于0时为真(串非空)
-4. -z str1　　　　　　　 当串的长度为0时为真(空串)
-5. str1　　　　　　　　 当串str1为非空时为真
-=  等于,如:if [ "$a" = "$b" ]
-==  等于,如:if [ "$a" == "$b" ],与=等价
-注意:==的功能在[[]]和[]中的行为是不同的,如下:
-1. [[ $a == z* ]]    # 如果$a以"z"开头(模式匹配)那么将为true
-2. [[ $a == "z*" ]] # 如果$a等于z*(字符匹配),那么结果为true
-3. [ $a == z* ]      # File globbing 和word splitting将会发生
-4. [ "$a" == "z*" ] # 如果$a等于z*(字符匹配),那么结果为true
-一点解释,关于File globbing是一种关于文件的速记法,比如"*.c"就是,再如~也是.
-但是file globbing并不是严格的正则表达式,虽然绝大多数情况下结构比较像.
-!= 不等于,如:if [ "$a" != "$b" ]
-这个操作符将在[[]]结构中使用模式匹配.
-<  小于,在ASCII字母顺序下.如:
-if [[ "$a" < "$b" ]]
-if [ "$a" \< "$b" ]
-注意:在[]结构中"<"需要被转义.
->  大于,在ASCII字母顺序下.如:
-if [[ "$a" > "$b" ]]
-if [ "$a" \> "$b" ]
-注意:在[]结构中">"需要被转义.
-具体参考Example 26-11来查看这个操作符应用的例子.
--z 字符串为"null".就是长度为0.
--n 字符串不为"null"
-注意:
-使用-n在[]结构中测试必须要用""把变量引起来.使用一个未被""的字符串来使用! -z
-或者就是未用""引用的字符串本身,放到[]结构中。虽然一般情况下可
-以工作,但这是不安全的.习惯于使用""来测试字符串是一种好习惯.
+    # 不等于 -ne 
+    if [ "$a" -ne "$b" ]
+
+    # 大于 -gt
+    if [ "$a" -gt "$b" ]
+           
+    # 大于等于 -ge 
+    if [ "$a" -ge "$b" ]
+
+    #小于 -lt  
+    if [ "$a" -lt "$b" ]
+
+    # 小于等于 -le  
+    if [ "$a" -le "$b" ]
+    
+    # 小于(需要双括号) <  
+    (("$a" < "$b"))
+
+    # 小于等于(需要双括号) <=  
+    (("$a" <= "$b"))
+
+    # 大于(需要双括号) > 
+    (("$a" > "$b"))
+
+    # 大于等于(需要双括号) >= 
+    (("$a" >= "$b"))
+    ```
+
+    * 字符串比较
+    ```shell
+    # 当两个串有相同内容、长度时为真
+    str1 = str2　
+
+    # 当串str1和str2不等时为真
+    str1 != str2
+
+    # 当串的长度大于0时为真(串非空)
+    -n str1
+
+    # 当串的长度为0时为真(空串)
+    -z str1　
+
+    # 当串str1为非空时为真
+    str1
+
+    # =  等于
+    if [ "$a" = "$b" ]
+
+    # ==  等于,与=等价
+    if [ "$a" == "$b" ]
+    # 注意 == 的功能在 [[]] 和 [] 中的行为是不同的,如下:
+    # 1. [[ $a == z* ]]    如果$a以"z"开头(模式匹配)那么将为true
+    # 2. [[ $a == "z*" ]] 如果$a等于z*(字符匹配),那么结果为true
+    # 3. [ $a == z* ]      File globbing 和word splitting将会发生
+    # 4. [ "$a" == "z*" ] 如果$a等于z*(字符匹配),那么结果为true
+    ```　　　
+    
+    一点解释,关于File globbing是一种关于文件的速记法,比如"*.c"就是,再如~也是.
+    但是file globbing并不是严格的正则表达式,虽然绝大多数情况下结构比较像.
+    != 不等于,如:if [ "$a" != "$b" ]
+    这个操作符将在[[]]结构中使用模式匹配.
+    <  小于,在ASCII字母顺序下.如:
+    if [[ "$a" < "$b" ]]
+    if [ "$a" \< "$b" ]
+    注意:在[]结构中"<"需要被转义.
+    >  大于,在ASCII字母顺序下.如:
+    if [[ "$a" > "$b" ]]
+    if [ "$a" \> "$b" ]
+    注意:在[]结构中">"需要被转义.
+    具体参考Example 26-11来查看这个操作符应用的例子.
+    -z 字符串为"null".就是长度为0.
+    -n 字符串不为"null"
+    注意:
+    使用-n在[]结构中测试必须要用""把变量引起来.使用一个未被""的字符串来使用! -z
+    或者就是未用""引用的字符串本身,放到[]结构中。虽然一般情况下可
+    以工作,但这是不安全的.习惯于使用""来测试字符串是一种好习惯.
 
 3.IF控制流
 if ....; then
