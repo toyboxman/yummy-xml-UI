@@ -330,7 +330,7 @@ done
     Linux平台上有一个方便的命令行处理工具expect，这是一个   
     可编程的工具, 通过预期结果和发送命令来操作远程机器。
     expect基本组成结构为几部分: 
-        解释声明->spawn->expect->send->interact   
+    解释声明->spawn->expect->send->interact   
     ```shell
     # 指定脚本解释器
     #!/usr/bin/expect -f    
