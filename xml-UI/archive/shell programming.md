@@ -70,16 +70,16 @@
     > [AWK-baike](http://baike.baidu.com/view/209681.htm)
 
 * 数值比较
-```shell
-# 关键要点：
-# 1. 使用单个等号
-# 2. 注意到等号两边各有一个空格,这是unix shell的要求
-# 3. 注意到"$test"x最后的x, 这是特意安排的，因为当$test为空的时候，
-#    上面的表达式就变成了x = testx，显然是不相等的。而如果没有这个x，
-#    表达式就会报错：[: =: unary operator expected
-#    二元比较操作符,比较变量或者比较数字.注意数字与字符串的区别.
-if [ "$test"x = "test"x ]; then
-```
+    ```shell
+    # 关键要点：
+    # 1. 使用单个等号
+    # 2. 注意到等号两边各有一个空格,这是unix shell的要求
+    # 3. 注意到"$test"x最后的x, 这是特意安排的，因为当$test为空的时候，
+    #    上面的表达式就变成了x = testx，显然是不相等的。而如果没有这个x，
+    #    表达式就会报错：[: =: unary operator expected
+    #    二元比较操作符,比较变量或者比较数字.注意数字与字符串的区别.
+    if [ "$test"x = "test"x ]; then
+    ```
 
     * 整数比较
     ```shell
