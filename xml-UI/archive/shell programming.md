@@ -321,77 +321,126 @@ done
 
     echo "complete boot setting" >> $VMINFO/result.log
     ```
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-SSH+EXPECT
-通过ssh进行远程交互批量操作时候，需要处理输入得到输出。linux平台上有一个方便的命令行处理工具expect，这是一个可编程的工具，通过预期结果和发送命令来操作远程机器。
 
-expect基本组成结构为几部分，解释声明->spawn->expect->send->interact，如下例子
+    * SSH+EXPECT
+    通过ssh进行远程交互, 批量操作时候, 需要处理输入得到输出.   
+    Linux平台上有一个方便的命令行处理工具expect，这是一个   
+    可编程的工具, 通过预期结果和发送命令来操作远程机器。
 
-#!/usr/bin/expect -f    ---脚本解释器指定
+    expect基本组成结构为几部分: 
+        解释声明->spawn->expect->send->interact   
+    ```shell
+    # 指定脚本解释器
+    #!/usr/bin/expect -f    
+    
+    #Tells interpreter where the expect program is located.  
+    #This may need adjusting according to
+    #your specific environment.  Type ' which expect ' (without quotes) 
+    #at a command prompt to find where it is located on your 
+    #system and adjust the following line accordingly.
+    #
+    #
+    #连接远端机器
+    spawn ssh 192.168.1.4
+    #
+    #The first thing we should see is a User Name prompt
+    #期望输出结果为 login as:
+    expect "login as:"    
+    #
+    #Send a valid username to the device
+    #发送用户名 admin+回车，某些系统回车是\r
+    send "admin\n"    
+    #
+    #The next thing we should see is a Password prompt
+    #期望输出结果为 password:
+    expect "password:"  
+    #
+    #Send a vaild password to the device
+    #发送密码 default+回车
+    send "default\n"   
+    #
+    #If the device automatically assigns us to a priviledged 
+    #level after successful logon,
+    #then we should be at an enable prompt
+    #期望输出结果为 Last login:
+    expect "Last login:"  
+    #
+    #Exit out of the network device
+    #发送退出连接+回车
+    send "exit\n"   
+    # 
+    #The interact command is part of the expect script, which 
+    #tells the script to hand off control to the user.
+    #This will allow you to continue to stay in the device 
+    #for issuing future commands, instead of just closing
+    #the session after finishing running all the commands.
+    interact
+    ```
 
-#Tells interpreter where the expect program is located.  This may need adjusting according to
-#your specific environment.  Type ' which expect ' (without quotes) at a command prompt
-#to find where it is located on your system and adjust the following line accordingly.
-#
-#
-#Use the built in telnet program to connect to an IP and port number
-#spawn ssh 192.168.1.4 -l admin
-#
-spawn ssh 192.168.1.4    --连接远端机器
-#The first thing we should see is a User Name prompt
-expect "login as:"    --期望输出结果为 login as:
-#
-#Send a valid username to the device
-send "admin\n"    --发送用户名 admin+回车，某些系统回车是\r
-#
-#The next thing we should see is a Password prompt
-expect "password:"  --期望输出结果为 password:
-#
-#Send a vaild password to the device
-send "default\n"   --发送密码 default+回车
-#
-#If the device automatically assigns us to a priviledged level after successful logon,
-#then we should be at an enable prompt
-expect "Last login:"  --期望输出结果为 Last login:
-#
-#Exit out of the network device
-send "exit\n"   --发送退出连接+回车
-# 
-#The interact command is part of the expect script, which tells the script to hand off control to the user.
-#This will allow you to continue to stay in the device for issuing future commands, instead of just closing
-#the session after finishing running all the commands.`enter code here`
-interact
+    * input parameter of bash script
+        - parameter type
+        ```shell
+        # the name of the command executing
+        $0 
 
-bash script input parameter meaning:
-$0 is the name of the command
-$1 first parameter
-$2 second parameter
-$3 third parameter etc.
-$# total number of parameters
-$@ all the parameters will be listed, returns a sequence of strings (''$1'', ''$2'', ... ''$n'') wherein each positional parameter remains separate from the others.
-$*  all the parameters will be listed, returns a single string (''$1, $2 ... $n'') comprising all of the positional parameters separated by the internal field separator character (defined by the IFS environment variable).
+        # the first parameter
+        $1 
 
-如果需要通过脚本输入参数来进行expect操作，可以通过bash+expect脚本方式，因为expect获得外部参数较复杂些，如下实现
-#!/usr/bin/sh
-for host in $@  --For loop来获取命令行传入机器地址
-do
-    echo "Will check data in $host"  --变量可以在双引号中被解释
-    ./check_ccp.sh $host   --bash中调用expect脚本
-    echo 'End check data in' $host   --变量不能在单引号中解释
-done
+        # the second parameter
+        $2 
 
-#!/usr/bin/expect -f
-set host [lindex $argv 0];  # Grab the first command line parameter
-spawn ssh admin@$host
-expect "password"
-send "Defaultmm\$hd0w\n"  --密码中$符号需要转义，否则解释为变量
-expect "#"
-send "top\n"
-sleep 2   --等待两秒，或者通过指令set timeout 2
-expect "#"
-send "exit\n"
-interact
+        # the third parameter, etc.
+        $3 
 
+        # the total number of parameters
+        $# 
+
+        # all the parameters will be listed, returns 
+        # a sequence of strings (''$1'', ''$2'', ... ''$n'') 
+        # wherein each positional parameter remains 
+        # separate from the others.
+        $@ 
+
+        # all the parameters will be listed, returns 
+        # a single string (''$1, $2 ... $n'') comprising 
+        # all of the positional parameters separated 
+        # by the internal field separator character 
+        # (defined by the IFS environment variable).
+        $*  
+        ```
+
+        - parameter for expect script
+        如果需要通过脚本输入参数来进行expect操作，可以   
+        通过bash+expect脚本方式，因为expect获得外部参数
+        较复杂些，如下实现    
+        ```shell
+        #!/usr/bin/sh
+        #For loop来获取命令行传入机器地址
+        for host in $@  
+        do
+            #变量可以在双引号中被解释
+            echo "Will check data in $host"  
+            #bash中调用expect脚本
+            ./check_ccp.sh $host   
+            #变量不能在单引号中解释
+            echo 'End check data in' $host   
+        done
+
+        #!/usr/bin/expect -f
+        # Grab the first command line parameter
+        set host [lindex $argv 0];  
+        spawn ssh admin@$host
+        expect "password"
+        #密码中$符号需要转义，否则解释为变量
+        send "Defaultmm\$hd0w\n"  
+        expect "#"
+        send "top\n"
+        #等待两秒，或者通过指令set timeout 2
+        sleep 2   
+        expect "#"
+        send "exit\n"
+        interact
+        ```
 如果需要打开ssh的root访问权限，需要修改ssh配置文件。通过远程操控vi来处理比较困难，可以只通过sed来做
 #send "grep 'PermitRootLogin no' /etc/ssh/sshd_config\n"  --需要允许PermitRootLogin权限
 send "sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config\n"  --通过sed在当前文件中替换字符串
