@@ -203,7 +203,7 @@
 > [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
 > [Link-2](https://www.garron.me/en/articles/bash-for-loop-examples.html)   
 > [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
-
+```shell
 for VARIABLE in 1 2 3 4 5 .. N
 do
 command1
@@ -225,94 +225,102 @@ command1 on $OUTPUT
 command2 on $OUTPUT
 commandN
 done
+```
 
-5.Logical 条件
-Reference:
-http://www.geekpills.com/operating-system/linux/bash-and-or-operators
+* Logical 条件
+> [Link](http://www.geekpills.com/operating-system/linux/bash-and-or-operators)
+```shell
+# OR operator
+||
+# AND operator 
+&&
+```
 
-OR operator ||
-AND operator &&
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Example: 得到VM的guestinfo信息，读出ip/netmask/default gateway, 然后设定到网络配置
-#!/usr/bin/sh
+* Shell Example
+    * 设定网络配置
+    ```shell
+    #!/usr/bin/sh
+    # 1.得到VM的guestinfo信息
+    # 2.读出ip/netmask/default gateway
+    # 3.然后设定到网络配置
 
-#设定变量
-VMTOOL=/usr/bin/vmtoolsd
-VMINFO=/opt/controller/bin
+    #设定变量
+    VMTOOL=/usr/bin/vmtoolsd
+    VMINFO=/opt/controller/bin
 
-#如果已经执行过，则退出
-RESULT=`grep 'complete boot setting' $VMINFO/result.log`
-if [ "$RESULT" ]; then
-exit 0
-fi
+    #如果已经执行过，则退出
+    RESULT=`grep 'complete boot setting' $VMINFO/result.log`
+    if [ "$RESULT" ]; then
+    exit 0
+    fi
 
-#初始化log文件
-echo 'controller boot result:' > $VMINFO/result.log
-#循环获取ovfenv变量，得到退出loop，否则sleep继续循环
-for try in {1..10}
-do
-OVF_ENV=`$VMTOOL --cmd 'info-get guestinfo.ovfenv'`
-if [ "$OVF_ENV" ]; then
-echo "get valid ovf env...[$OVF_ENV]" >> $VMINFO/result.log
-break
-else
-echo "no ovf env, wait and try $try time again" >> $VMINFO/result.log 
-sleep 5
-fi
-done
+    #初始化log文件
+    echo 'controller boot result:' > $VMINFO/result.log
+    #循环获取ovfenv变量，得到退出loop，否则sleep继续循环
+    for try in {1..10}
+    do
+    OVF_ENV=`$VMTOOL --cmd 'info-get guestinfo.ovfenv'`
+    if [ "$OVF_ENV" ]; then
+    echo "get valid ovf env...[$OVF_ENV]" >> $VMINFO/result.log
+    break
+    else
+    echo "no ovf env, wait and try $try time again" >> $VMINFO/result.log 
+    sleep 5
+    fi
+    done
 
-$VMTOOL --cmd 'info-get guestinfo.ovfenv' > $VMINFO/vminfo.txt
-#读取变量
-VM_IP=`grep 'management_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
-VM_NETMASK=`grep 'netmask' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
-VM_GW=`grep 'gateway_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
-API_KEY=`grep 'api_private_cert' $VMINFO/vminfo.txt | sed 's/.*"\(.*\)".*/\1/'`
-API_CERT=`grep 'api_public_cert' $VMINFO/vminfo.txt | sed 's/.*"\(.*\)".*/\1/'`
+    $VMTOOL --cmd 'info-get guestinfo.ovfenv' > $VMINFO/vminfo.txt
+    #读取变量
+    VM_IP=`grep 'management_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
+    VM_NETMASK=`grep 'netmask' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
+    VM_GW=`grep 'gateway_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
+    API_KEY=`grep 'api_private_cert' $VMINFO/vminfo.txt | sed 's/.*"\(.*\)".*/\1/'`
+    API_CERT=`grep 'api_public_cert' $VMINFO/vminfo.txt | sed 's/.*"\(.*\)".*/\1/'`
 
-if [ "$VM_IP" ]; then
-echo "set vm valid management ip: $VM_IP" >> $VMINFO/result.log
-else
-echo "no valid management ip" >> $VMINFO/result.log
-fi
+    if [ "$VM_IP" ]; then
+    echo "set vm valid management ip: $VM_IP" >> $VMINFO/result.log
+    else
+    echo "no valid management ip" >> $VMINFO/result.log
+    fi
 
-if [ "$VM_NETMASK" ]; then
-echo "set vm valid netmask: $VM_NETMASK" >> $VMINFO/result.log
-else
-echo "no valid netmask" >> $VMINFO/result.log
-fi
+    if [ "$VM_NETMASK" ]; then
+    echo "set vm valid netmask: $VM_NETMASK" >> $VMINFO/result.log
+    else
+    echo "no valid netmask" >> $VMINFO/result.log
+    fi
 
-if [ "$VM_GW" ]; then
-echo "set vm valid gateway: $VM_GW" >> $VMINFO/result.log
-else
-echo "no valid gateway" >> $VMINFO/result.log
-fi
+    if [ "$VM_GW" ]; then
+    echo "set vm valid gateway: $VM_GW" >> $VMINFO/result.log
+    else
+    echo "no valid gateway" >> $VMINFO/result.log
+    fi
 
-#设定网卡ip，增加网关路由信息
-if [ "$VM_IP" ] && [ "$VM_NETMASK" ] && [ "$VM_GW" ]; then
-ifconfig eth0 $VM_IP netmask $VM_NETMASK
-route add default gw $VM_GW eth0
-echo "succeed in setting vm networks configuration" >> $VMINFO/result.log
-else
-exit 1
-fi
+    #设定网卡ip，增加网关路由信息
+    if [ "$VM_IP" ] && [ "$VM_NETMASK" ] && [ "$VM_GW" ]; then
+    ifconfig eth0 $VM_IP netmask $VM_NETMASK
+    route add default gw $VM_GW eth0
+    echo "succeed in setting vm networks configuration" >> $VMINFO/result.log
+    else
+    exit 1
+    fi
 
-#导入pem格式证书
-if [ "$API_KEY" ] && [ "$API_CERT" ]; then
-echo "transform pem cert to jks" >> $VMINFO/result.log
-echo -n "$API_KEY" | base64 -d > $VMINFO/controller.pem
-echo -n "$API_CERT" | base64 -d >> $VMINFO/controller.pem
-echo "create controller.pem..." >> $VMINFO/result.log
-openssl pkcs12 -export -in $VMINFO/controller.pem -out $VMINFO/controller.p12 -name controller -passout pass:123456
-echo "create controller.p12..." >> $VMINFO/result.log
-keytool -v -importkeystore -srckeystore $VMINFO/controller.p12 -srcstoretype PKCS12 -srcstorepass 123456 -alias controller -deststorepass 123456 -destkeystore $VMINFO/keystore.jks
-echo "import controller entry..." >> $VMINFO/result.log
-else
-echo "incomplete certs $API_KEY and $API_CERT" >> $VMINFO/result.log
-exit 1
-fi
+    #导入pem格式证书
+    if [ "$API_KEY" ] && [ "$API_CERT" ]; then
+    echo "transform pem cert to jks" >> $VMINFO/result.log
+    echo -n "$API_KEY" | base64 -d > $VMINFO/controller.pem
+    echo -n "$API_CERT" | base64 -d >> $VMINFO/controller.pem
+    echo "create controller.pem..." >> $VMINFO/result.log
+    openssl pkcs12 -export -in $VMINFO/controller.pem -out $VMINFO/controller.p12 -name controller -passout pass:123456
+    echo "create controller.p12..." >> $VMINFO/result.log
+    keytool -v -importkeystore -srckeystore $VMINFO/controller.p12 -srcstoretype PKCS12 -srcstorepass 123456 -alias controller -deststorepass 123456 -destkeystore $VMINFO/keystore.jks
+    echo "import controller entry..." >> $VMINFO/result.log
+    else
+    echo "incomplete certs $API_KEY and $API_CERT" >> $VMINFO/result.log
+    exit 1
+    fi
 
-echo "complete boot setting" >> $VMINFO/result.log
-
+    echo "complete boot setting" >> $VMINFO/result.log
+    ```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SSH+EXPECT
 通过ssh进行远程交互批量操作时候，需要处理输入得到输出。linux平台上有一个方便的命令行处理工具expect，这是一个可编程的工具，通过预期结果和发送命令来操作远程机器。
