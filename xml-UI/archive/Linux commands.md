@@ -469,7 +469,7 @@ ps -ef | grep -c 'sshd'
 > [sample](http://sed.sourceforge.net/sed1line_zh-CN.html)
 ```shell
 # s 指令是substitute  g指令是global全局
-# -i 表示在当前文件中 in-place 
+# -i 表示在当前文件中 in-place, 无此参数不会实际替换文件,仅测试执行结果 
 # *.txt 指定在所有当前txt文件中, 此命令将替换所有符合条件的字符串
 sed -i 's/old-word/new-word/g' *.txt  
 
@@ -477,10 +477,10 @@ sed -i 's/old-word/new-word/g' *.txt
 sed -i 's/INFO/DEBUG/g' test.txt  
 
 # 表示将filename文件中全部color全部替换成colour 
-sed 's/color/colour/g' *.txt  
+sed -i 's/color/colour/g' *.txt  
 
 # 表示将第一个发生位置的字符串替换掉
-sed '0,/pattern/s/pattern/replacement/' filename  
+sed -i '0,/pattern/s/pattern/replacement/' filename  
 # 将当前test.txt中第一个DEBUG替换成INFO
 sed -i '0,/DEBUG/s/DEBUG/INFO/g' test.txt  
 
@@ -509,7 +509,6 @@ et f  g  h
 sed 's/#delete.topic.enable/delete.topic.enable/g' ./server.properties  
 # write down to server.properties
 sed -i 's/#delete.topic.enable/delete.topic.enable/g' ./server.properties  
-sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config
 
 king@suse-leap:> echo "atestb" | sed 's/.*\(test\).*/\0/'
 atestb
