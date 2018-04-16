@@ -587,6 +587,7 @@ rpm -Uvh file.rpm
 ---
 
 #### Shell programming
+> [programming](https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/shell%20programming.md)<br>
 > [Link](http://www.freeos.com/guides/lsst/)
 * IFS  
 IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
