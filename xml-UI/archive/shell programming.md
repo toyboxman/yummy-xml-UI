@@ -488,7 +488,7 @@ done
 	> [wiki](https://en.wikipedia.org/wiki/Expect)  
 	> [tips](https://www.pantz.org/software/expect/expect_examples_and_tips.html)
 
-    * case1
+    * case1    
     有几台远端主机没有打开sshd的root用户登录权限，需要手动打开。   
     如果一个一个登录的话，你需要通过putty登录每一个远程机器，   
     然后修改ssh配置文件，再重启。这个过程可能需要数分钟，而且    
