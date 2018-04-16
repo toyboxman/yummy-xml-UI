@@ -559,7 +559,8 @@ done
 	另一个场景，在一台主机上进行操作，然后去另外主机上检查状态变化，并且希望能够重复进行。
 	这个需要用的expect的高级用法，条件和循环
 		- if 条件判断   
-		if 后面要有空格，否者出错; 不用（ ）来包含条件，而是｛ ｝ if {$var == value} { } else { }
+		if 后面要有空格，否者出错; 不用（ ）来包含条件，而是｛ ｝<br> 
+		if {$var == value} { } else { }
 		- loop 循环
 		设定循环变量，条件，计算需要分三个｛ ｝<br>
 		for {initialization} {conditions} {incrementation or decrementation} { ... }<br>
