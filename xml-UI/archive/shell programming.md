@@ -167,6 +167,7 @@
 
 * IF 控制流
     ```shell
+	# *注意* if 与后面括号要有空格，否者出错
     if ....; then
     ....
     elif ....; then
@@ -174,11 +175,10 @@
     else
     ....
     fi
+	
 
     #!/bin/sh
-
     eval user=`whoami`
-
     if [ "$user" = "root" ] ; then
     echo first
     else
@@ -555,8 +555,91 @@ done
     close
     ```
 
+	* case2    
+	另一个场景，在一台主机上进行操作，然后去另外主机上检查状态变化，并且希望能够重复进行。
+	这个需要用的expect的高级用法，条件和循环
+		- if 条件判断   
+		if 后面要有空格，否者出错; 不用（ ）来包含条件，而是｛ ｝ if {$var == value} { } else { }
+		- loop 循环
+		设定循环变量，条件，计算需要分三个｛｝
+		for {initialization} {conditions} {incrementation or decrementation} { ... }
+		set count 5; while {$count > 0 } { puts "count : $count\n"; set count [expr $count-1]; }
+	```shell
+	#!/usr/bin/expect -f
+	#设定默认expect超时为5秒
+	set timeout 5 
+	for {set i 1} {$i < 4} {incr i 1} {
+	# 设定down变量值为1
+	set down 1  
+	# 打印信息
+	puts "**************start loop $i cycle**********************  
+	spawn ssh root@192.163.255.202
+	sleep 3
+	expect "password"
+	send "pwd\n"
+	sleep 2
+	expect "#"
+	# 检查网卡状态
+	send "ifconfig|grep eth2\n"    
+	sleep 1
+	expect {
+		"37" {
+			# 如果存在网卡的mac值，就把网卡关闭
+			send "ifconfig eth2 down\n"  
+			set down 1
+		}
+		"#" {
+			# 如果没有网卡的mac值，就把网卡打开
+			send "ifconfig eth2 up\n"  
+			set down 0
+		}
+	}
+	sleep 1
+	# 根据条件打印
+	if {$down == 0} {  
+		puts "VM's nic up operation"
+	} else {
+		puts "VM's nic down operation"
+	}
+	send "exit\n"
+	interact
+	puts "**************check ovsdb****************************
+	#check ovsdb
+	spawn ssh root@192.163.255.213
+	sleep 3
+	expect "password"
+	send "pwd\n"
+	sleep 2
+	expect "root@machine:~#"
+	sleep 1
+	send "vtep-ctl list Ucast_Macs_Remote|grep '00:50:56:a8:e9:37'\n"
+	sleep 1
+	if {$down == 0} {
+		set broken 1
+		expect "00:50:56:a8:e9:37" {
+			send "exit\n"
+			puts "MAC add in ovsdb"
+			set broken 0
+		}
+		# quit是个无效命令，会导致出错终止脚本执行
+		if {$broken == 1} {quit}  
+	} else {
+		set stop 0
+		expect "\"00:50:56:a8:e9:37\"" {
+			set stop 1
+		}
+		if {$stop == 1} {
+			quit
+		} else {
+			send "exit\n"
+			puts "MAC remove in ovsdb"
+		}
+	}
+	interact
 
-
+	puts "complete loop $i cycle"
+	}
+	```
 sed基本命令
 sed 's/color/colour/g' filename  表示将filename文件中全部color全部替换成colour s指令是substitute  g指令是global全局
 sed '0,/pattern/s/pattern/replacement/' filename  表示将第一个发生位置的字符串替换掉
@@ -564,84 +647,7 @@ sed '0,/pattern/s/pattern/replacement/' filename  表示将第一个发生位置的字符串替
 http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example
 http://sed.sourceforge.net/sed1line_zh-CN.html
 
-case2:
-另一个场景，在一台主机上进行操作，然后去另外主机上检查状态变化，并且希望能够重复进行。
-这个需要用的expect的高级用法，条件和循环
-conditional ：注意 if后面要有空格，否者出错。第二不是用（）来包含条件，而是｛｝
-if {$var == value} {
-} else {
-}
 
-loop  ：设定循环变量，条件，计算需要分三个｛｝
-for {initialization} {conditions} {incrementation or decrementation} { ... }
-set count 5; while {$count > 0 } { puts "count : $count\n"; set count [expr $count-1]; }
-
-#!/usr/bin/expect -f
-set timeout 5 ---设定默认expect超时为5秒
-for {set i 1} {$i < 4} {incr i 1} {
-set down 1  ---设定down变量值为1
-puts "**************start loop $i cycle**********************  ---打印信息
-spawn ssh root@192.163.255.202
-sleep 3
-expect "password"
-send "pwd\n"
-sleep 2
-expect "#"
-send "ifconfig|grep eth2\n"    ---检查网卡状态
-sleep 1
-expect {
-    "37" {
-        send "ifconfig eth2 down\n"  --如果存在网卡的mac值，就把网卡关闭
-        set down 1
-    }
-    "#" {
-        send "ifconfig eth2 up\n"  --如果没有网卡的mac值，就把网卡打开
-        set down 0
-    }
-}
-sleep 1
-if {$down == 0} {  --根据条件打印
-    puts "VM's nic up operation"
-} else {
-    puts "VM's nic down operation"
-}
-send "exit\n"
-interact
-puts "**************check ovsdb****************************
-#check ovsdb
-spawn ssh root@192.163.255.213
-sleep 3
-expect "password"
-send "pwd\n"
-sleep 2
-expect "root@machine:~#"
-sleep 1
-send "vtep-ctl list Ucast_Macs_Remote|grep '00:50:56:a8:e9:37'\n"
-sleep 1
-if {$down == 0} {
-    set broken 1
-    expect "00:50:56:a8:e9:37" {
-        send "exit\n"
-        puts "MAC add in ovsdb"
-        set broken 0
-    }
-    if {$broken == 1} {quit}  --quit是个无效命令，会导致出错终止脚本执行
-} else {
-    set stop 0
-    expect "\"00:50:56:a8:e9:37\"" {
-        set stop 1
-    }
-    if {$stop == 1} {
-        quit
-    } else {
-        send "exit\n"
-        puts "MAC remove in ovsdb"
-    }
-}
-interact
-
-puts "complete loop $i cycle"
-}
 
 如果需要打开ssh的root访问权限，需要修改ssh配置文件。通过远程操控vi来处理比较困难，可以只通过sed来做
 #send "grep 'PermitRootLogin no' /etc/ssh/sshd_config\n"  --需要允许PermitRootLogin权限
