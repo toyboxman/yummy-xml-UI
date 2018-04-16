@@ -66,7 +66,7 @@
     echo "kill -9 $eclipse_pid"
     kill -9 $eclipse_pid
     ```
-    > [AWK-wiki](http://zh.wikipedia.org/wiki/AWK)
+    > [AWK-wiki](http://zh.wikipedia.org/wiki/AWK)    
     > [AWK-baike](http://baike.baidu.com/view/209681.htm)
 
 * 数值比较
@@ -326,10 +326,10 @@ done
     ```
 
     * SSH+EXPECT
-    通过ssh进行远程交互, 批量操作时候, 需要处理输入得到输出.   
-    Linux平台上有一个方便的命令行处理工具expect，这是一个   
-    可编程的工具, 通过预期结果和发送命令来操作远程机器。
-    expect基本组成结构为几部分: 
+    通过ssh进行远程交互, 批量操作时候, 需要处理输入得到输出   
+    Linux平台上有一个方便的命令行处理工具expect，这是一个      
+    可编程的工具, 通过预期结果和发送命令来操作远程机器。    
+    expect基本组成结构为几部分:      
     解释声明->spawn->expect->send->interact   
     ```shell
     # 指定脚本解释器
@@ -470,30 +470,30 @@ done
         interact
         ```
 
-* Expect
-Expect is a program that "talks" to other interactive programs according to a script.
-Following the script, Expect knows what can be expected from a program and 
-what the correct response should be. An interpreted language provides branching 
-and high-level control structures to direct the dialogue. In addition, the user 
-can take control and interact directly when desired, afterward returning control 
-to the script.  
+* Expect    
+	Expect is a program that "talks" to other interactive programs according to a script.
+	Following the script, Expect knows what can be expected from a program and 
+	what the correct response should be. An interpreted language provides branching 
+	and high-level control structures to direct the dialogue. In addition, the user 
+	can take control and interact directly when desired, afterward returning control 
+	to the script.  
 
-Expectk is a mixture of Expect and Tk. It behaves just like Expect and Tk's 
-wish. Expect can also be used directly in C or C++ (that is, without Tcl). 
+	Expectk is a mixture of Expect and Tk. It behaves just like Expect and Tk's 
+	wish. Expect can also be used directly in C or C++ (that is, without Tcl). 
 
-能用Expect做哪些事情呢，我觉得做些简单但又重复的工作比较合适。
-比如说登录远程主机，查看一下状态等等。因为每个主机除了密码不同，
-其他都差不多。归集起来就是相当于做循环操作，如果是更加复杂的
-安装卸载之类，可能就需要通过chef，puppet这类的框架做更容易更灵活。
-> [wiki](https://en.wikipedia.org/wiki/Expect)  
-> [tips](https://www.pantz.org/software/expect/expect_examples_and_tips.html)
+	能用Expect做哪些事情呢，我觉得做些简单但又重复的工作比较合适。
+	比如说登录远程主机，查看一下状态等等。因为每个主机除了密码不同，
+	其他都差不多。归集起来就是相当于做循环操作，如果是更加复杂的
+	安装卸载之类，可能就需要通过chef，puppet这类的框架做更容易更灵活。
+	> [wiki](https://en.wikipedia.org/wiki/Expect)  
+	> [tips](https://www.pantz.org/software/expect/expect_examples_and_tips.html)
 
     * case1
-    有几台远端主机没有打开sshd的root用户登录权限，需要手动打开。
-    如果一个一个登录的话，你需要通过putty登录每一个远程机器，
-    然后修改ssh配置文件，再重启。这个过程可能需要数分钟，而且
-    很麻烦需要不停输入密码。如果通过expect脚本，则半分钟可能就完成了。
-    首先，设计一个循环执行的shell脚本(ssh_open.sh)，remote机器地
+    有几台远端主机没有打开sshd的root用户登录权限，需要手动打开。   
+    如果一个一个登录的话，你需要通过putty登录每一个远程机器，   
+    然后修改ssh配置文件，再重启。这个过程可能需要数分钟，而且    
+    很麻烦需要不停输入密码。如果通过expect脚本，则半分钟可能就完成了。   
+    首先，设计一个循环执行的shell脚本(ssh_open.sh)，remote机器地    
     址通过命令参数传入
     ```shell
     #!/usr/bin/sh
@@ -515,31 +515,32 @@ wish. Expect can also be used directly in C or C++ (that is, without Tcl).
     # expect中赋值操作，将传入脚本的第一个参数赋值给变量host
 
     set host [lindex $argv 0];
-    # ---expect中创建一个新进程来执行ssh登录
+    # expect中创建一个新进程来执行ssh登录
     spawn ssh admin@$host
-    expect {  ---expect中等待结果输出
+	# expect中等待结果输出
+    expect {  
         "Are you sure you want to continue connecting (yes/no)?" {
-            # ---expect中达到条件发送给远程交互输入 '\n'想当回车
+            # expect中达到条件发送给远程交互输入 '\n'想当回车
             send "yes\n"
-            #  ---如果此条件执行完继续执行后面条件
+            # 如果此条件执行完继续执行后面条件
             exp_continue
         }
         "password:" {
-            #---如果此条件执行完直接跳出等待输入 如果是'$'符号需要转义，否则解释成变量
+            # 如果此条件执行完直接跳出等待输入 如果是'$'符号需要转义，否则解释成变量
             send "Defaultca\$hc0w\n"
         }
         "Password:" {
             send "Defaultca\$hc0w\n"
         }
     }
-    #  ---执行等待1秒
+    # 执行等待1秒
     sleep 1
     expect "#"
     send "su\n"
     expect "password"
     send "lIfV+6sfh9uBNgt/nxkn\n"
     expect "root"
-    #  ---通过sed替换/etc/ssh/sshd_config配置文件中'PermitRootLogin no'  'PermitRootLogin yes'
+    # 通过sed替换/etc/ssh/sshd_config配置文件中'PermitRootLogin no'  'PermitRootLogin yes'
     send "sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config\n"
     sleep 1
     send "service ssh restart\n"
@@ -548,9 +549,9 @@ wish. Expect can also be used directly in C or C++ (that is, without Tcl).
     expect "#"
     send "exit\n"
 
-    #  ---将当前进程控制权返回给用户
+    # 将当前进程控制权返回给用户
     interact
-    #  ---关闭当前进程连接
+    # 关闭当前进程连接
     close
     ```
 
