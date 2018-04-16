@@ -465,7 +465,28 @@ find . -name *.java | xargs cat | wc -l
 ps -ef | grep -c 'sshd' 
 ```
 * sed
+> [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)<br>
+> [sample](http://sed.sourceforge.net/sed1line_zh-CN.html)
 ```shell
+# s 指令是substitute  g指令是global全局
+# -i 表示在当前文件中 in-place 
+# *.txt 指定在所有当前txt文件中, 此命令将替换所有符合条件的字符串
+sed -i 's/old-word/new-word/g' *.txt  
+
+# 将当前test.txt中所有INFO 替换成DEBUG
+sed -i 's/INFO/DEBUG/g' test.txt  
+
+# 表示将filename文件中全部color全部替换成colour 
+sed 's/color/colour/g' *.txt  
+
+# 表示将第一个发生位置的字符串替换掉
+sed '0,/pattern/s/pattern/replacement/' filename  
+# 将当前test.txt中第一个DEBUG替换成INFO
+sed -i '0,/DEBUG/s/DEBUG/INFO/g' test.txt  
+
+# 将sshd_config 配置不允许root登录的选项替换成允许
+sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config
+
 # a.txt contains string of  two lines
 # characters split with 1 blank space in first line 
 # characters split with 2 blank space in first line 

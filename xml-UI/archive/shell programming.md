@@ -641,34 +641,6 @@ done
 	puts "complete loop $i cycle"
 	}
 	```
-sed基本命令
-sed 's/color/colour/g' filename  表示将filename文件中全部color全部替换成colour s指令是substitute  g指令是global全局
-sed '0,/pattern/s/pattern/replacement/' filename  表示将第一个发生位置的字符串替换掉
-
-http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example
-http://sed.sourceforge.net/sed1line_zh-CN.html
-
-
-
-如果需要打开ssh的root访问权限，需要修改ssh配置文件。通过远程操控vi来处理比较困难，可以只通过sed来做
-#send "grep 'PermitRootLogin no' /etc/ssh/sshd_config\n"  --需要允许PermitRootLogin权限
-send "sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config\n"  --通过sed在当前文件中替换字符串
-
-sed语法 sed -i 's/old-word/new-word/g' *.txt  
--i表示在当前文件中 in-place, *.txt 指定在所有当前txt文件中， 此命令将替换所有符合条件的字符串
-sed -i 's/INFO/DEBUG/g' test.txt  --将当前test.txt中所有INFO 替换成DEBUG
-如果只想替换第一个符合的条件，需要加参数
-sed -i '0,/DEBUG/s/DEBUG/INFO/g' test.txt  --将当前test.txt中第一个DEBUG替换成INFO
- 
-
-
-
-
-
-
-
-
-
 vi编辑器有3种模式：命令模式、输入模式、末行模式。掌握这三种模式十分重要：
 
 　　命令模式：vi启动后默认进入的是命令模式，从这个模式使用命令可以切换到另外两种模式，同时无论在任何模式下只要按一下[Esc]键都可以返回命令模式。在命令模式中输入字幕“i”就可以进入vi的输入模式编辑文件。
