@@ -561,8 +561,8 @@ done
 		- if 条件判断   
 		if 后面要有空格，否者出错; 不用（ ）来包含条件，而是｛ ｝ if {$var == value} { } else { }
 		- loop 循环
-		设定循环变量，条件，计算需要分三个｛｝
-		for {initialization} {conditions} {incrementation or decrementation} { ... }
+		设定循环变量，条件，计算需要分三个｛ ｝<br>
+		for {initialization} {conditions} {incrementation or decrementation} { ... }<br>
 		set count 5; while {$count > 0 } { puts "count : $count\n"; set count [expr $count-1]; }
 	```shell
 	#!/usr/bin/expect -f
