@@ -609,7 +609,7 @@ rpm -Uvh file.rpm
 #### Vim
    Operation  | Description
  ------------- | -------------
-        :line        |  :15 跳到15行
+        :line |  :15 跳到15行
       Home       |  光标到行首
 　　 End        |  光标到行尾
 Page Up/Down | 上下翻页
