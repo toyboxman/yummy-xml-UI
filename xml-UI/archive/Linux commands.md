@@ -610,11 +610,12 @@ rpm -Uvh file.rpm
   Operation  | Description
 ------------- | -------------
    Home        |  光标到行首
-   \:line           |  \:15 跳到15行
+   End            |  光标到行尾
+   :line           |  :15 跳到15行
 
 
 
-　　 End        |  光标到行尾
+
 Page Up/Down | 上下翻页
           x           |  删除光标处字符, 3x删除光标处向右的三个字符
          dd         |  删除, 剪切 光标所在行, 3dd从当前行开始向下删除三行文本
