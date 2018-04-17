@@ -610,7 +610,7 @@ rpm -Uvh file.rpm
   Operation  | Description
 ------------- | -------------
    Home        |  光标到行首
-   :line           |  :15 跳到15行
+   \:line           |  \:15 跳到15行
 
 
 
