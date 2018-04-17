@@ -627,19 +627,15 @@ Page Up/Down | 上下翻页
    /             |  至上而下的查找, /work 查找work字符串
    ?             |  至下而上的查找, ?work 查找work字符串
    :s/s1/s2             |  :s/old/new 用new替换行中首次出现的old<br>
-                             :s/old/new/g 用new替换行中所有出现的old<br>:m,n s/old/new/g用new替换从第＃行到第＃行中出现的old
+:s/old/new/g 用new替换行中所有出现的old<br>
+:m,n s/old/new/g用new替换从第m行到第n行中出现的old<br>
+:s/old/new/c 或s/old/new/gc 强制每个替换需要用户进行确认
    ?             |  至下而上的查找, ?work 查找work字符串
   Ctrl+r        |  回退使用u命令的取消操作
    i(insert)   |  插入光标处编辑
    a(append)   |  光标后编辑
 
-
-　　替换
-　　
-　　:#,# s/old/new/g用new替换从第＃行到第＃行中出现的old
-　　：% s/old/new/g用new替换整篇中出现的old
-
-　　如果替换的范围较大时，在所有的命令尾加一个c命令，强制每个替换需要用户进行确认，例如:s/old/new/c 或s/old/new/gc
+　　如果替换的范围较大时，在所有的命令尾加一个c命令，，例如:
 
 　　6恢复文件
 　　vi在编辑某一个文件时，会生成一个临时文件，这个文件以 . 开头并以 .swp结尾。正常退出该文件自动删除，如果意外退出例如忽然断电，该文件不会删除，我们在下次编辑时可以选择一下命令处理：
