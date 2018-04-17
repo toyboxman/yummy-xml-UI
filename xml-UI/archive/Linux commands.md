@@ -609,8 +609,9 @@ rpm -Uvh file.rpm
 #### Vim
   Operation  | Description
 ------------- | -------------
-    :line |  :15 跳到15行
       Home       |  光标到行首
+  :line |  :15 跳到15行
+
 　　 End        |  光标到行尾
 Page Up/Down | 上下翻页
           x           |  删除光标处字符, 3x删除光标处向右的三个字符
