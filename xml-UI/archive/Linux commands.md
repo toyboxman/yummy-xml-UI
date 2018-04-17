@@ -607,8 +607,8 @@ rpm -Uvh file.rpm
 ---
 
 #### Vim
-    Operation  | Description
- ------------- | -------------
+  Operation  | Description
+------------- | -------------
     :line |  :15 跳到15行
       Home       |  光标到行首
 　　 End        |  光标到行尾
