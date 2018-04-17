@@ -626,7 +626,8 @@ Page Up/Down | 上下翻页
    p             |  粘贴缓存区复制的内容
    /             |  至上而下的查找, /work 查找work字符串
    ?             |  至下而上的查找, ?work 查找work字符串
-   :s/s1/s2             |  :s/old/new 用new替换行中首次出现的old<br>:s/old/new/g 用new替换行中所有出现的old
+   :s/s1/s2             |  :s/old/new 用new替换行中首次出现的old<br>
+                             :s/old/new/g 用new替换行中所有出现的old<br>:m,n s/old/new/g用new替换从第＃行到第＃行中出现的old
    ?             |  至下而上的查找, ?work 查找work字符串
   Ctrl+r        |  回退使用u命令的取消操作
    i(insert)   |  插入光标处编辑
@@ -634,7 +635,6 @@ Page Up/Down | 上下翻页
 
 
 　　替换
-　　:s/old/new用new替换行中首次出现的old
 　　
 　　:#,# s/old/new/g用new替换从第＃行到第＃行中出现的old
 　　：% s/old/new/g用new替换整篇中出现的old
