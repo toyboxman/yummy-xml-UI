@@ -610,8 +610,9 @@ rpm -Uvh file.rpm
   Operation  | Description
 ------------- | -------------
    Home        |  光标到行首
+   :line           |  :15 跳到15行
 
-  :line |  :15 跳到15行
+
 
 　　 End        |  光标到行尾
 Page Up/Down | 上下翻页
