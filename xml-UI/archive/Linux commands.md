@@ -454,6 +454,29 @@ checking file src/java/controller/rest-server/src/test/java/controller/restserve
 patch -p 5 < ../rb1138637.patch  
 checking file src/test/java/com/example/EndPoint.java
 ```
+* xargs
+```shell
+# xargs把管道传入的结果转成一行,空格分隔出的每一个词可以作为后面命令输入参数
+# 比如 cat <file1>  <file2>  <file3>可以打印三个文件内容
+
+# 1.列出当前目录下所有文件名
+# 2.转成多个输入文件参数,由cat打印出内容
+ls ./ | xargs cat
+git ls-files | xargs cat | wc -l
+```
+
+* wc
+```shell
+# wc 打印 newline, word, and byte counts
+# -l, --lines  print the newline counts
+
+# 统计文件的行数
+# 1.列出当前目录下所有文件名
+# 2.转成多个输入文件参数,由cat打印出内容
+# 3.由wc统计出新行的数目
+git ls-files | xargs cat | wc -l
+```
+
 * count code lines
 ```shell
 find . -name *.java | xargs cat | wc -l
@@ -462,7 +485,7 @@ find . -name *.java | xargs cat | wc -l
 ```shell
 # count how many sshd deamon running
 ps -ef | grep -c 'sshd' 
-等同于
+# 等同于
 ps -ef | grep 'sshd' | wc -l
 ```
 * sed
