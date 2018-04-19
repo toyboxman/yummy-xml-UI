@@ -456,13 +456,14 @@ checking file src/test/java/com/example/EndPoint.java
 ```
 * count code lines
 ```shell
-find . -name *.java |xargs wc -l
 find . -name *.java | xargs cat | wc -l
 ```
 * count word amount
 ```shell
 # count how many sshd deamon running
 ps -ef | grep -c 'sshd' 
+等同于
+ps -ef | grep 'sshd' | wc -l
 ```
 * sed
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)<br>
@@ -529,9 +530,24 @@ es
 
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
+
 root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 255.255.253.0
-root@photon# grep 'netmask' vminfo.txt|awk -F'value="' '{print $2}'|awk -F'"' '{print $1}'
+
+root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $0}'
+<Property oe:key="netmask" oe:value="255.255.253.0" />
+root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $1}'
+<Property oe:key="netmask" oe:
+root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}'
+255.255.253.0" />
+root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $3}'
+
+king@suse-leap:~/source/python> grep 'netmask' a.txt | awk -F'value="' '{print $2 $1}'
+255.255.253.0" /><Property oe:key="netmask" oe:
+# 把变量2的值传给变量1,打印变量1
+king@suse-leap:~/source/python> grep 'netmask' a.txt | awk -F'value="' '{print $1=$2}'
+255.255.253.0" />
+root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}' | awk -F'"' '{print $1}'
 255.255.253.0
 ```
 * awk
@@ -545,11 +561,11 @@ root      1211   340 10 08:38 pts/0    00:00:01 java -Djava.net.preferIPv4Stack=
 root      1265   340  0 08:38 pts/0    00:00:00 grep --color=auto java
 
 # blank space splits and the second string
-root@photon [ /etc/systemd/system ]# ps -ef |grep java|awk -F' ' '{print $2}'  
+root@photon [ /etc/systemd/system ]# ps -ef | grep java | awk -F' ' '{print $2}'  
 1211
 1265
 
-root@photon [ /etc/systemd/system ]# ps -ef |grep java|xargs|awk -F' ' '{print $2}'
+root@photon [ /etc/systemd/system ]# ps -ef | grep java | xargs | awk -F' ' '{print $2}'
 1211
 
 root@photon [ ~ ]# kill -9 `ps -ef |grep 'com.vmware.controller.Main'|xargs|awk -F' ' '{print $2}'`

@@ -136,10 +136,7 @@ $git ls-files
 # 统计当前目录及子目录中所有文件的行数
 $git ls-files | xargs cat | wc -l
 ```
-* 在当前的文件夹中所有文件行数汇总详细信息
-```shell
-git ls-files | xargs wc -l
-```
+
 * 合并两分支代码，与rebase命令有些区别，体现在分支树节点上
 ```shell
 git merge branch_a   
@@ -262,6 +259,13 @@ $git diff 0.12.0 0.13.0 -- glanceclient/common/http.py
 git tag --contains commitID
 $git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
 ```
+* 查看某个代码分支所有提交日志summary
+```shell
+git log --oneline <branch>
+# 查看当前分支日志列表
+$git log --oneline  
+```
+
 * 查看分支中某个作者的提交列表
 ```shell
 # 查看匹配name的作者所有提交详情
@@ -270,17 +274,15 @@ git log --author <name>
 # 查看匹配name的作者所有提交简要统计
 git log --author <name> --oneline --shortstat
 
+# 查看匹配name的作者所有提交增删简要统计
+git log --author <name> --oneline --numstat
+
 # 查看匹配name的作者所有提交的统计
 git shortlog --author <name>
 git shortlog -s | grep <name>
 git log --author <name> | grep <name> | wc -l 
 ```
-* 查看某个代码分支所有提交日志summary
-```shell
-git log --oneline branch
-# 查看当前分支日志列表
-$git log --oneline  
-```
+
 * 查看代码分支在两个tag快照之间的所有提交日志
 ```shell
 git log tag1..tag2
