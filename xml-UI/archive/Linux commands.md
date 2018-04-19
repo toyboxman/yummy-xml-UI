@@ -595,6 +595,22 @@ cat a.txt | awk -F' ' '{print $1 * $2}'
 # 除
 cat a.txt | awk -F' ' '{print $3 * $2}'
 1.5
+# 求和
+$ cat a.txt
+77 88 99
+55 66 77
+11 22 33
+$ cat a.txt | awk -F' ' '{print $1}'
+77
+55
+11
+$ cat a.txt | awk -F' ' '{s+=$1} {print s}'
+77
+132  -- 77+55=132
+143  -- 132+11=143
+# END表示做完再打印 参考 man awk
+$ cat a.txt | awk -F' ' '{s+=$1} END {print s}'
+143
 
 # 杀掉进程
 root@photon [ /etc/systemd/system ]# ps -ef |grep java
