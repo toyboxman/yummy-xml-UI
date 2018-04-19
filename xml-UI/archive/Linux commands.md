@@ -555,6 +555,13 @@ root@photon-machine# grep 'netmask' vminfo.txt
 
 root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 255.255.253.0
+```
+
+* awk
+```shell
+# ×Ö·û´®Æ´½Ó
+root@photon-machine# grep 'netmask' vminfo.txt
+<Property oe:key="netmask" oe:value="255.255.253.0" />
 
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $0}'
 <Property oe:key="netmask" oe:value="255.255.253.0" />
@@ -571,9 +578,25 @@ king@suse-leap:~/source/python> grep 'netmask' a.txt | awk -F'value="' '{print $
 255.255.253.0" />
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}' | awk -F'"' '{print $1}'
 255.255.253.0
-```
-* awk
-```shell
+
+# Êý×Ö¼ÆËã
+$ echo '11 22 33 44 55 66 77 88' > a.txt 
+$ cat a.txt | awk -F' ' '{print $1 $2}'
+1122
+# ¼Ó
+cat a.txt | awk -F' ' '{print $1 + $2}'
+33
+# ¼õ
+cat a.txt | awk -F' ' '{print $1 - $2}'
+-11
+# ³Ë
+cat a.txt | awk -F' ' '{print $1 * $2}'
+242
+# ³ý
+cat a.txt | awk -F' ' '{print $3 * $2}'
+1.5
+
+# É±µô½ø³Ì
 root@photon [ /etc/systemd/system ]# ps -ef |grep java
 root      1211   340 10 08:38 pts/0    00:00:01 java -Djava.net.preferIPv4Stack=true 
 -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties 
