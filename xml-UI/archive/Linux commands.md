@@ -462,7 +462,6 @@ checking file src/test/java/com/example/EndPoint.java
 # 1.列出当前目录下所有文件名
 # 2.转成多个输入文件参数,由cat打印出内容
 ls ./ | xargs cat
-git ls-files | xargs cat | wc -l
 ```
 
 * wc
