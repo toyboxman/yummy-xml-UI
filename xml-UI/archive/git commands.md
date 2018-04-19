@@ -128,8 +128,12 @@ $git checkout -f
 # 丢弃Run.java文件的修改
 $git checkout -- Run.java  
 ```
-* 在当前的文件夹中所有文件行数汇总
+* 当前的文件夹中文件信息汇总
 ```shell
+# 列出当前目录及子目录中所有文件
+$git ls-files
+
+# 统计当前目录及子目录中所有文件的行数
 $git ls-files | xargs cat | wc -l
 ```
 * 在当前的文件夹中所有文件行数汇总详细信息
@@ -260,8 +264,16 @@ $git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
 ```
 * 查看分支中某个作者的提交列表
 ```shell
-# 查看匹配name的所有作者提交
-git log --author name  
+# 查看匹配name的作者所有提交详情
+git log --author <name>  
+
+# 查看匹配name的作者所有提交简要统计
+git log --author <name> --oneline --shortstat
+
+# 查看匹配name的作者所有提交的统计
+git shortlog --author <name>
+git shortlog -s | grep <name>
+git log --author <name> | grep <name> | wc -l 
 ```
 * 查看某个代码分支所有提交日志summary
 ```shell
