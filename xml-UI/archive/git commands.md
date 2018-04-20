@@ -281,6 +281,11 @@ git log --author <name> --oneline --numstat
 git shortlog --author <name>
 git shortlog -s | grep <name>
 git log --author <name> | grep <name> | wc -l 
+
+# 查看匹配作者的全部增删代码行统计
+git log --author=<name> --pretty=tformat: --numstat | awk \
+'{ add += $1; subs += $2; loc += $1 - $2 } END \
+{ printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
 ```
 
 * 查看代码分支在两个tag快照之间的所有提交日志

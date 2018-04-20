@@ -596,6 +596,9 @@ cat a.txt | awk -F' ' '{print $1 * $2}'
 cat a.txt | awk -F' ' '{print $3 * $2}'
 1.5
 # 求和
+$ echo '77 88 99' > a.txt 
+$ echo '55 66 77' >> a.txt 
+$ echo '11 22 33' >> a.txt 
 $ cat a.txt
 77 88 99
 55 66 77
@@ -611,6 +614,10 @@ $ cat a.txt | awk -F' ' '{s+=$1} {print s}'
 # END表示做完再打印 参考 man awk
 $ cat a.txt | awk -F' ' '{s+=$1} END {print s}'
 143
+# awk默认用空格分隔,不用-F参数也行
+$ cat a.txt | awk '{ add += $1; subs += $2; loc += $1 - $2 } END \
+{ printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
+added lines: 143, removed lines: 176, total lines: -33
 
 # 杀掉进程
 root@photon [ /etc/systemd/system ]# ps -ef |grep java
