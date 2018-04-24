@@ -151,6 +151,15 @@ grep -n -B5 -A1 [Ee]xception 1.log
 # search keyword 'error' case insensitive
 grep -i error 1.log  
 ```
+* search string(pattern) in compressed files
+```shell
+# zgrep search keyword in current folder from *.gz files  
+# show more detailed information
+find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} +
+
+# show less detailed information
+find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
+```
 * change permission of files 
 ```shell
 # ugoa(owner,group,others, all users) rwx(4,2,1)
