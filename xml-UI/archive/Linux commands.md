@@ -48,8 +48,11 @@ service
 * config runlevel info of system services
 ```shell
 chkconfig
+
+# set mysql service run automatically when machine runs
+chkconfig mysql on  
 ```
-> e.g. chkconfig mysql on  --set mysql service run automatically when machine runs
+
 * show full processes tree using ascii
 ```shell
 pstree -alA
@@ -61,8 +64,11 @@ man -E GB2312 nc
 * check all ports used by system services
 ```shell
 cat /etc/services
+
+# find if db2 connection port is 50000
+grep db2c_DB2 /etc/services
 ```
-> e.g. grep db2c_DB2 /etc/services, find if db2 connection port is 50000
+
 * check Linux release version
 ```shell
 cat /etc/issue
