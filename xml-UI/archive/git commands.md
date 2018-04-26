@@ -271,6 +271,9 @@ $git log --oneline
 # 查看匹配name的作者所有提交详情
 git log --author <name>  
 
+# 查看匹配name的作者在指定文件目录下提交详情
+git log --author <name> ./src-1/test/ ./src-2/test/
+
 # 查看匹配name的作者所有提交简要统计
 git log --author <name> --oneline --shortstat
 
