@@ -156,6 +156,9 @@ grep -n -B5 -A1 [Ee]xception 1.log
 
 # search keyword 'error' case insensitive
 grep -i error 1.log  
+
+# search keyword 'error' and count
+grep -c error 1.log  
 ```
 * search string(pattern) in compressed files
 ```shell
