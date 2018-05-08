@@ -2,7 +2,8 @@
 
 ## leader election in ZK cluster
 
-常常使用一些第三方库的时候，无法配置Logger。但又需要依赖日志来跟踪程序，此时可以通过reflect方式来实现
+Curator框架提供了一套基于ZK的选举接口，可以很方便地完成在cluster中选中一个节点作为leader，
+来履行统一信息发布的功能
 ```java
 package example.curator.cluster;
 
@@ -43,12 +44,12 @@ public class LeaderElector extends LeaderSelectorListenerAdapter
     public LeaderElector(CuratorFramework client, String name) {
         this.name = name;
 
-// create a leader selector using the given path for management
-// all participants in a given leader selection must use the same path
+        // create a leader selector using the given path for management
+        // all participants in a given leader selection must use the same path
         leaderSelector = new LeaderSelector(client, VOTE_PATH, this);
 
-// for most cases you will want your instance to requeue when it
-// relinquishes leadership
+        // for most cases you will want your instance to requeue when it
+        // relinquishes leadership
         leaderSelector.autoRequeue();
         leaderSelector.setId(client.getZookeeperClient().getCurrentConnectionString());
         pathChildrenCache = new PathChildrenCache(client, VOTE_PATH, false);
@@ -62,8 +63,8 @@ public class LeaderElector extends LeaderSelectorListenerAdapter
 
     @Override
     public void takeLeadership(CuratorFramework client) throws Exception {
-// we are now the leader. This method should not return until we want to
-// relinquish leadership
+        // we are now the leader. This method should not return until we want to
+        // relinquish leadership
         holdLeader.set(true);
         System.out.println(name + " is the leader now." + " from " + name);
         if (!clusterListeners.isEmpty()) {
@@ -75,7 +76,7 @@ public class LeaderElector extends LeaderSelectorListenerAdapter
         } else {
             System.out.println("#cluster#" + "No listener monitors leader election event");
         }
-// hold master role till to die
+        // hold master role till to die
         while (holdLeader.get()) {
             System.out.println("#cluster#" + name + " still is holding leader role");
             Thread.sleep(TimeUnit.SECONDS.toMillis(5));
