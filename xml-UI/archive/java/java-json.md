@@ -3,7 +3,7 @@
 ## Ways to json processing
 
 ### 1.use com.fasterxml.jackson
-- 由String构造JsonNode
+- 由 String 构造 JsonNode
 ```java 
 ObjectMapper mapper = new ObjectMapper();
 JsonNode sliceNode = mapper.readTree(new String(childData.getData()));
@@ -16,7 +16,8 @@ for (JsonNode jsonNode : slice) {
     BitSet assignment = BitSet.valueOf(occupation);
 }
 ``` 
-- 创建JsonNode导出String格式
+- 创建 JsonNode 导出 String 格式
+```java
 ObjectMapper mapper = new ObjectMapper();
 ObjectNode rootNode = mapper.createObjectNode();
 NodeAssignment firstNode = nodeAssignments.get(0);
