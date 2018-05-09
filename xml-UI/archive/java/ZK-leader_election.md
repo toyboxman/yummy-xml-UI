@@ -133,3 +133,165 @@ public class LeaderElector extends LeaderSelectorListenerAdapter
     }
 }
 ``` 
+
+定义cluster事件监听通知的接口
+```java
+public interface ClusterEventListener {
+    default public void memberUpdate(ClusterEvent event) {
+    }
+
+    default public void leaderChange(ClusterEvent event) {
+    }
+}
+```
+
+定义cluster事件类型
+```java
+public class ClusterEvent {
+    public static enum EventType {
+        LEADER, MEMBER;
+    }
+
+    private final EventType type;
+
+    private String leaderId = null;
+    private Set<String> participants = null;
+
+    public ClusterEvent(EventType type) {
+        this.type = type;
+    }
+
+    public EventType getType() {
+        return type;
+    }
+
+    public void setLeaderId(String leaderId) {
+        this.leaderId = leaderId;
+    }
+
+    public String getLeaderId() {
+        return leaderId;
+    }
+
+    public void setParticipants(Set<String> participants) {
+        this.participants = participants;
+    }
+
+    public Set<String> getParticipants() {
+        return participants;
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder().append("{Event type: [").append(type.name()).append("], ");
+        switch (type) {
+        case LEADER:
+            sb.append("Leader ID: [").append(leaderId).append(']');
+            break;
+        case MEMBER:
+            sb.append("Member list: [").append(String.join(", ", participants)).append(']');
+            break;
+        default:
+            break;
+        }
+        return sb.append('}').toString();
+    }
+}
+```
+
+定义cluster service提供选举服务
+```java
+public class ZKClusterService implements ClusterEventListener, NodeCacheListener {
+    private static final String PORT = "2888";
+
+    private static final String CLUSTER_SHARDING = "/sharding";
+
+    private static final Logger logger = LoggerFactory.getLogger(ZKClusterService.class);
+
+    private static ZKClusterService instance;
+    private static UUID myUuid;
+    private static CuratorFramework cf;
+
+    private Set<String> memberList = Sets.newHashSet();
+
+    private static NodeCache nodeCache;
+    private static LeaderElector voter;
+
+    private ZKClusterService() {
+    }
+
+    public static ZKClusterService getInstance() {
+        return instance;
+    }
+
+    /**
+     * Initialize a zk cluster service management. before get a cluster service,
+     * you need to call init firstly.
+     *
+     * @param cf
+     *            curator framework instance, which handle client connection to
+     *            zookeeper server
+     * @param uuid
+     *            current node UUID
+     * @throws Exception
+     */
+    public static void init(final CuratorFramework curatorFramework, final UUID uuid)
+            throws Exception {
+        instance = new ZKClusterService();
+        cf = curatorFramework;
+        myUuid = uuid;
+        instance.joinCluster();
+    }
+
+    private void joinCluster() throws Exception {
+        cf.getConnectionStateListenable().addListener((client, state) -> {
+            if (state.equals(ConnectionState.CONNECTED)) {
+                Executors.newSingleThreadScheduledExecutor().execute(() -> {
+                    try {
+                        ...
+                        if (cf.checkExists().forPath(CLUSTER_SHARDING) == null) {
+                            cf.create().forPath(CLUSTER_SHARDING, "".getBytes());
+                        }
+
+                        if (cf.checkExists().forPath(VOTE_PATH) == null) {
+                            cf.create().forPath(VOTE_PATH, "".getBytes());
+                        }
+                        voter = new LeaderElector(cf);
+                        voter.addEventListener(instance);
+                        nodeCache = new NodeCache(cf, CLUSTER_SHARDING);
+                        nodeCache.getListenable().addListener(instance);
+                        voter.startVote();
+                        nodeCache.start();
+                        logger.info("#cluster#[{}] succeeds in joining cluster", voter.getName());
+                    } catch (Exception e) {
+                        logger.warn("#cluster#Fail to join cluster due to : ", e);
+                    }
+                });
+            } else {
+                logger.info("#cluster#local zk [{}] connection state becomes to [{}]",
+                        cf.getZookeeperClient().getCurrentConnectionString(), state);
+            }
+        });
+        cf.start();
+    }
+
+    @Override
+    public void memberUpdate(ClusterEvent event) {
+        // Create a new member map
+        logger.info("#cluster#Members changed to {}", event);
+        ...
+    }
+
+    @Override
+    public void leaderChange(ClusterEvent event) {
+        logger.info("#cluster#Leader changed to {}", event);
+        ...
+    }
+
+    @Override
+    public void nodeChanged() throws Exception {
+    ...
+    }
+}
+
+```
