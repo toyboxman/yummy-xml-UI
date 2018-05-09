@@ -1,15 +1,19 @@
 
 ---
 
-### *不同类型安全证书转换*
-> [bash list](http://ss64.com/bash)<br>
-> [blog](http://blog.sina.com.cn/s/blog_46d0362d0100mn09.html)
+### *不同类型的安全证书转换*
+- [digital signature/certificate](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)<br>
 
 ---
 
-Java的应用如果使能TLS协议，需要处理安全证书。JDK自带keystore来存储map entry[private RSA key， public certificate]，标准X.509支持格式PKCS12。 不过很多证书使用pem格式，如果将pem格式证书导入java keystore必须转换成PKCS12格式，然后才能通过keytool导入
+Java的应用如果使能TLS协议，需要处理安全证书。JDK自带keystore来存储map entry[private RSA key, public certificate]，
+标准X.509规范支持PKCS12格式, 证书后缀名".p12"，JDK支持X.509
 
-https://www.digitalocean.com/community/tutorials/java-keytool-essentials-working-with-java-keystores#creating-and-importing-keystore-entries
+事实上的certificate和key格式标准PEM(Privacy-enhanced Electronic Mail), 证书后缀名".pem",".cer",".crt",公私钥后缀名".key"
+有时候也会将密钥和证书都放入一个pem的文件中
+
+如果要将pem格式证书导入JDK keystore必须转换成PKCS12格式，然后才能通过JDK提供的keytool导入
+- [certificate-transform](https://www.digitalocean.com/community/tutorials/java-keytool-essentials-working-with-java-keystores)
 
 -------------------------------keytool--------------------------------------------------------------------
 #create java keystore repo
