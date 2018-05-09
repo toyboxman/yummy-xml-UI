@@ -1,7 +1,8 @@
 ***
 
 ## leader election in ZK cluster
-
+[zk_explain](https://zookeeper.apache.org/doc/current/recipes.html#sc_leaderElection)
+---
 Curator框架提供了一套基于ZK的选举接口，可以很方便地完成在cluster中选中一个节点作为leader，
 来履行统一信息发布的功能
 ```java
