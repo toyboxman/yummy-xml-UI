@@ -15,11 +15,13 @@ Java的应用如果使能TLS协议，需要处理安全证书。JDK自带keystor
 如果要将pem格式证书导入JDK keystore必须转换成PKCS12格式，然后才能通过JDK提供的keytool导入
 - [certificate-transform](https://www.digitalocean.com/community/tutorials/java-keytool-essentials-working-with-java-keystores)
 
--------------------------------keytool--------------------------------------------------------------------
-#create java keystore repo
+## *keytool*
+
+* create java keystore repo
+```shell
 keytool -keystore keystore.jks -genkey -alias controller
 keytool -keystore ./keystore.jks -genkeypair -alias controller -keyalg RSA
-
+```
 #The default JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format
 keytool -importkeystore -srckeystore ./keystore.jks -destkeystore ./keystore.jks -deststoretype pkcs12
 
