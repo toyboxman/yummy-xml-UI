@@ -30,7 +30,7 @@ for (Assignment node : AssignmentList) {
     slice.put(NODE_UUID, node.getUuid().toString());
     slice.put(NODE_IP, nodeMap.get(node.getUuid()));
     slice.put(SLICE_COUNT, node.getCount());
-	//对bytes数据处理输出BASE64格式String,防止通过网络传输出现错误
+    //对bytes数据处理输出BASE64格式String,防止通过网络传输出现错误
     slice.put(OCCUPATION, BinaryNode.valueOf(node.getAssignment().toByteArray()).asText());
     sliceNode.add(slice);
 }
