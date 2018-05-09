@@ -3,7 +3,7 @@
 ## Ways to json processing
 
 ### 1.use com.fasterxml.jackson
-- �� String ���� JsonNode
+- 由String构造JsonNode
 ```java 
 ObjectMapper mapper = new ObjectMapper();
 JsonNode sliceNode = mapper.readTree(new String(childData.getData()));
@@ -16,31 +16,27 @@ for (JsonNode jsonNode : slice) {
     BitSet assignment = BitSet.valueOf(occupation);
 }
 ``` 
-- ���� JsonNode ���� String ��ʽ
+- 创建JsonNode导出String
 ```java
 ObjectMapper mapper = new ObjectMapper();
+//创建json的根节点
 ObjectNode rootNode = mapper.createObjectNode();
-NodeAssignment firstNode = nodeAssignments.get(0);
-rootNode.put(AUTHOR, firstNode.getAuthor().toString());
-rootNode.put(TIMESTAMP, firstNode.getTimestamp());
+rootNode.put(AUTHOR, getAuthor().toString());
+rootNode.put(TIMESTAMP, getTimestamp());
+//根节点下创建一个数组型子节点
 ArrayNode sliceNode = rootNode.putArray(SLICE);
-for (NodeAssignment node : nodeAssignments) {
-    logger.info("#cluster#Leader[{}] dispenses sharding data for node[{}]\n{}", voter.getName(), node.getUuid(),
-            node);
+for (Assignment node : AssignmentList) {
     ObjectNode slice = mapper.createObjectNode();
     slice.put(NODE_UUID, node.getUuid().toString());
     slice.put(NODE_IP, nodeMap.get(node.getUuid()));
-    slice.put(SLICE_COUNT, node.getAssignment().cardinality());
+    slice.put(SLICE_COUNT, node.getCount());
+	//对bytes数据处理输出BASE64格式String,防止通过网络传输出现错误
     slice.put(OCCUPATION, BinaryNode.valueOf(node.getAssignment().toByteArray()).asText());
     sliceNode.add(slice);
 }
 String jsonString = null;
 try {
     jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(rootNode);
-    logger.info("#cluster#Leader[{}] tries to save latest sharding data into zk \n{}", voter.getName(),
-            jsonString);
-    cf.setData().forPath(CLUSTER_SHARDING, jsonString.getBytes());
 } catch (Exception e) {
-    logger.error("Error while saving sharding data due to: {}", e);
 }
 ```
