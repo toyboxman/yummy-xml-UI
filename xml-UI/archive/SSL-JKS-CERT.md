@@ -121,7 +121,8 @@ Certificate fingerprint (SHA1): AA:B8:4E:7A:0E:D8:D8:A9:48:1A:37:EC:13:D0:C7:42:
 $ openssl pkcs12 -export -out eneCert.pkcs12 -in eneCert.pem
 
 #Generate a PKCS12 KeyStore with the private key and certificate from one pem file.
-#The noiter and nomaciter options must be specified to allow the generated KeyStore to be recognized properly by JSSE.
+#The noiter and nomaciter options must be specified to allow the generated 
+#KeyStore to be recognized properly by JSSE.
 $ cat mykey.pem.txt mycertificate.pem.txt>mykeycertificate.pem.txt
 $ openssl pkcs12 -export -in mykeycertificate.pem.txt -out mykeystore.pkcs12 -name -noiter -nomaciter
 
