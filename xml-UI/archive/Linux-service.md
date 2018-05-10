@@ -2,9 +2,9 @@
 ---
 
 ### 在Linux上创建service
-Reference
+Reference   
 	- [photon-config](http://www.vmtocloud.com/how-to-configure-photon-os-to-auto-start-containers-at-boot-time/)<br>
-	- [java-config](https://stackoverflow.com/questions/11203483/run-a-java-application-as-a-service-on-linux)
+	- [java-config](https://stackoverflow.com/questions/11203483/run-a-java-application-as-a-service-on-linux)<br>
 	- [service](http://www.csdn.net/article/2015-02-27/2824034)
 
 ---
@@ -12,8 +12,8 @@ Reference
 在Linux平台上要把应用进程变成后台服务，能够在OS boot时候自动启动，或在应用进程crash时候能够自动 restart。 可以通过systemctl 和service两种方式来做
 
 ## *systemctl*
-在Photon OS 2.0上验证过以下步骤，成功
-1.创建一个服务文件
+在Photon OS 2.0上验证过以下步骤，成功    
+1. 创建一个服务文件
 ```bash
 vi /etc/systemd/system/my.controller.service
 ------------------------------------------------------------------
@@ -38,7 +38,7 @@ WantedBy=multi-user.target
 ------------------------------------------------------------------
 ```
 
-+.使能服务
++ 使能服务
 ```bash
 # 此命令将会创建一个link文件在/etc/systemd/system/multi-user.target.wants/
 systemctl enable my.controller
@@ -47,12 +47,12 @@ file /etc/systemd/system/multi-user.target.wants/my.controller.service
 lrwxrwxrwx 1 root root   42 Jan  3 02:55 my.controller.service -> /etc/systemd/system/my.controller.service
 ```
 
-+.重启生效
++ 重启生效
 ```bash
 shutdown now -r
 ```
 
-4.排错
+4. 排错
 如果service有问题，可以通过命令检查
 ```bash
 systemctl status my.controller
