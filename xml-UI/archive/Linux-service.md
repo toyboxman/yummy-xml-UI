@@ -28,7 +28,11 @@ Restart=always
 # crash之后，3秒重启
 RestartSec=3
 # 启动命令，或者把此命令写成shell脚本，在此处调用
-ExecStart=/usr/bin/java -Djava.net.preferIPv4Stack=true -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties -server -Xmx4096m -cp /opt/controller/slf4j-api-1.7.5.jar:/opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar example.controller.Main
+ExecStart=/usr/bin/java -Djava.net.preferIPv4Stack=true \
+-Dlog4j.configuration=file:/opt/controller/log4j-controller.properties \
+-server -Xmx4096m -cp /opt/controller/slf4j-api-1.7.5.jar:\
+/opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar \
+example.controller.Main
  # 停止服务脚本
 ExecStop=/opt/controller/stop.sh
 
