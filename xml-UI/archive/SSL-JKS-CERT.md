@@ -6,7 +6,7 @@
 
 ---
 
-Java的应用如果使能TLS协议，需要处理安全证书。JDK自带keystore来存储map entry[private RSA key, public certificate]，
+Java的应用如果使能TLS协议，需要处理安全证书, 证书通过JDK自带keystore来存储map entry[private RSA key, public certificate]，
 标准X.509规范支持PKCS12格式, 证书后缀名".p12"，JDK支持X.509
 
 事实上的certificate和key格式标准PEM(Privacy-enhanced Electronic Mail), 证书后缀名".pem",".cer",".crt",公私钥后缀名".key"
@@ -19,12 +19,34 @@ Java的应用如果使能TLS协议，需要处理安全证书。JDK自带keystor
 
 * create java keystore repo
 ```shell
-keytool -keystore keystore.jks -genkey -alias controller
-keytool -keystore ./keystore.jks -genkeypair -alias controller -keyalg RSA
+# create keystore.jks in current folder, meanwhile generate a key pair with alias name 'controller'
+root@photon# keytool -keystore keystore.jks -genkey -alias controller
+# same as command above, specially designate generation with algorithm RSA
+root@photon# keytool -keystore ./keystore.jks -genkeypair -alias controller -keyalg RSA
+Enter keystore password:  
+Re-enter new password: 
+What is your first and last name?
+  [Unknown]:  
+What is the name of your organizational unit?
+  [Unknown]:  
+What is the name of your organization?
+  [Unknown]:  
+What is the name of your City or Locality?
+  [Unknown]:  
+What is the name of your State or Province?
+  [Unknown]:  
+What is the two-letter country code for this unit?
+  [Unknown]:  
+Is CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown correct?
+  [no]:  yes
+
+Enter key password for <controller>
+        (RETURN if same as keystore password):  
+
 
 #The default JKS keystore uses a proprietary format. It is recommended 
 #to migrate to PKCS12 which is an industry standard format
-keytool -importkeystore -srckeystore ./keystore.jks -destkeystore ./keystore.jks -deststoretype pkcs12
+root@photon# keytool -importkeystore -srckeystore ./keystore.jks -destkeystore ./keystore.jks -deststoretype pkcs12
 ```
 * list keystore repo content
 ```shell
@@ -40,23 +62,26 @@ Certificate fingerprint (SHA1): 4A:6B:B8:FF:9B:9B:A0:17:3C:91:BA:DD:54:DC:50:CA:
 ```
 
 * import the PKCS12 file into the Java keystore
-```bash
+```shell
 $ keytool -importkeystore -srckeystore /tmp/hostname.p12 -srcstoretype PKCS12 \
--srcstorepass -alias hostname -deststorepass \
--destkeypass -destkeystore /opt/cloudera/security/jks/hostname-keystore.jks
+-srcstorepass <password> -alias hostname -deststorepass \
+-destkeypass <password> -destkeystore /opt/cloudera/security/jks/hostname-keystore.jks
 
-$ keytool -v -importkeystore -srckeystore eneCert.pkcs12 -srcstoretype PKCS12 -destkeystore keystore.ks -deststoretype JKS
-example:
-keytool -v -importkeystore -srckeystore b.pkcs12 -srcstoretype PKCS12 -srcstorepass 123456 -alias controller -deststorepass 123456 -destkeystore keystore.jks
+$ keytool -v -importkeystore -srckeystore eneCert.pkcs12 -srcstoretype PKCS12 -destkeystore keystore.jks -deststoretype JKS
+
+root@photon# keytool -v -importkeystore -srckeystore b.pkcs12 -srcstoretype PKCS12 -srcstorepass 123456 \
+-alias controller -deststorepass 123456 -destkeystore keystore.jks
 ```
 
-* Export the private key and certificate
+* export the private key and certificate
 $ keytool -importkeystore -srckeystore /opt/cloudera/security/jks/hostname-keystore.jks \
--srcstorepass password -srckeypass password -destkeystore /tmp/hostname-keystore.p12 \
--deststoretype PKCS12 -srcalias hostname -deststorepass password -destkeypass password
+-srcstorepass <password> -srckeypass <password> -destkeystore /tmp/hostname-keystore.p12 \
+-deststoretype PKCS12 -srcalias hostname -deststorepass <password> -destkeypass <password>
 
-#Delete Alias
+* Delete Alias
+```sh
 $ keytool -delete -alias controller -keystore keystore.jks
+```
 
 #Rename Alias
 $ keytool -changealias -alias controller -destalias newcontroller -keystore keystore.jks
