@@ -62,7 +62,7 @@ Certificate fingerprint (SHA1): 4A:6B:B8:FF:9B:9B:A0:17:3C:91:BA:DD:54:DC:50:CA:
 ```
 
 * import the PKCS12 file into the Java keystore
-```shell
+``` bash
 $ keytool -importkeystore -srckeystore /tmp/hostname.p12 -srcstoretype PKCS12 \
 -srcstorepass <password> -alias hostname -deststorepass \
 -destkeypass <password> -destkeystore /opt/cloudera/security/jks/hostname-keystore.jks
@@ -79,7 +79,7 @@ $ keytool -importkeystore -srckeystore /opt/cloudera/security/jks/hostname-keyst
 -deststoretype PKCS12 -srcalias hostname -deststorepass <password> -destkeypass <password>
 
 * Delete Alias
-```sh
+``` bash
 $ keytool -delete -alias controller -keystore keystore.jks
 ```
 
