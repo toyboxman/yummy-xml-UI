@@ -167,6 +167,7 @@ case "$1" in
   *)
     echo $"Usage: $0 {start|stop|status|restart|reload}"
     exit 1
+# esac represents the end of case statement like fi	
 esac
 exit 0
 ```
