@@ -6,11 +6,11 @@
 ---
 
 ### *Following content is about shell programming*
-
+- [脚本调试](#shell脚本调试方法)
 
 ---
 
-# shell脚本调试方法
+### shell脚本调试方法
     ```shell
     # 读一遍脚本中的命令但不执行，用于检查脚本中的语法错误
     sh -n script.sh  
