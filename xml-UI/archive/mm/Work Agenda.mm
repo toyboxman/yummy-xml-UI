@@ -321,7 +321,7 @@
 <node COLOR="#990000" CREATED="1519698050694" ID="ID_718508895" LINK="https://github.com/ripple/" MODIFIED="1519698056135" TEXT="ripple">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node COLOR="#990000" CREATED="1520404703549" ID="ID_178201273" LINK="../../../king/ethereum/ethereum.mm" MODIFIED="1520404703552" TEXT="ethereum">
+<node COLOR="#990000" CREATED="1520404703549" ID="ID_178201273" LINK="ethereum.mm" MODIFIED="1526026791068" TEXT="ethereum">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 <node COLOR="#990000" CREATED="1519880992059" ID="ID_758080422" LINK="https://github.com/EOSIO/eos" MODIFIED="1519881003274" TEXT="eos ">
