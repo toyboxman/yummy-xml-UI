@@ -18,42 +18,42 @@
 ---
 
 ### shell脚本调试方法
-    ```bash
-    # 读一遍脚本中的命令但不执行，用于检查脚本中的语法错误
-    sh -n script.sh  
+```bash
+# 读一遍脚本中的命令但不执行，用于检查脚本中的语法错误
+sh -n script.sh  
 
-    # 一边执行脚本，一边将执行过的脚本命令打印到标准错误输出
-    sh -v script.sh  
+# 一边执行脚本，一边将执行过的脚本命令打印到标准错误输出
+sh -v script.sh  
 
-    # 提供跟踪执行信息，将执行的每一条命令和结果依次打印出来
-    sh -x script.sh  
-    ```
-    * 使用这些选项有三种方法，
+# 提供跟踪执行信息，将执行的每一条命令和结果依次打印出来
+sh -x script.sh  
+```
+* 使用这些选项有三种方法，
 
-        * 在命令行提供参数
-        ```shell
-        $ sh -x ./script.sh
-        ```
+	* 在命令行提供参数
+	```shell
+	$ sh -x ./script.sh
+	```
 
-        * 在脚本开头提供参数 
-        ```shell
-        #! /bin/sh -x
-        ```
+	* 在脚本开头提供参数 
+	```shell
+	#! /bin/sh -x
+	```
 
-        * 在脚本中用set命令启用或禁用参数
-        ```shell
-        #! /bin/sh
-        # 通过启用和禁用X参数,只对脚本中的某一段进行跟踪调试
-        if [ -z "$1" ]; then
-        # 启用x参数
-        set -x
-        echo "ERROR: Insufficient Args."
-        exit 1
-        else
-        # 禁用x参数
-        set +x
-        fi
-        ```
+	* 在脚本中用set命令启用或禁用参数
+	```shell
+	#! /bin/sh
+	# 通过启用和禁用X参数,只对脚本中的某一段进行跟踪调试
+	if [ -z "$1" ]; then
+	# 启用x参数
+	set -x
+	echo "ERROR: Insufficient Args."
+	exit 1
+	else
+	# 禁用x参数
+	set +x
+	fi
+	```
 
 ### 变量赋值   
 经常需要将命令执行结果赋值给shell中变量，可以用下面两种方式
