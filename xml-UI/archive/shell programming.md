@@ -171,7 +171,7 @@
     if [ "$a" \> "$b" ]
     ```
 
-* IF 控制流
+### IF 控制流
     ```shell
 	# *注意* if 与后面括号要有空格，否者出错
     if ....; then
@@ -205,7 +205,7 @@
     # 注意中括号两边都有一个空格，否则执行会报命令找不到
     ```
 
-* LOOP 控制流
+### LOOP 控制流
 > [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
 > [Link-2](https://www.garron.me/en/articles/bash-for-loop-examples.html)   
 > [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
@@ -233,7 +233,7 @@ commandN
 done
 ```
 
-* Logical 条件
+### Logical 条件
 > [Link](http://www.geekpills.com/operating-system/linux/bash-and-or-operators)
 ```shell
 # OR operator
@@ -242,7 +242,7 @@ done
 &&
 ```
 
-* Shell Example
+### Shell Example
     * 设定网络配置
     ```shell
     #!/usr/bin/sh
