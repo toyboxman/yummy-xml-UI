@@ -31,17 +31,17 @@ sh -x script.sh
 * 使用这些选项有三种方法，
 
 	* 在命令行提供参数
-	```shell
+	```bash
 	$ sh -x ./script.sh
 	```
 
 	* 在脚本开头提供参数 
-	```shell
+	```bash
 	#! /bin/sh -x
 	```
 
 	* 在脚本中用set命令启用或禁用参数
-	```shell
+	```bash
 	#! /bin/sh
 	# 通过启用和禁用X参数,只对脚本中的某一段进行跟踪调试
 	if [ -z "$1" ]; then
@@ -58,126 +58,126 @@ sh -x script.sh
 ### 变量赋值   
 经常需要将命令执行结果赋值给shell中变量，可以用下面两种方式
 
-    - eval命令
-    ```shell
-    # 执行命令将结果赋给变量,注意命令不是单引号(' ')包括, 而是`｀号(～按键)
-    eval A=`whoami` 
-    ```
-   - 直接赋值
-    ```shell
-    # 赋值等号两边不要有空格
-    # 把当前用户名赋值给变量
-    B=`whoami | awk '{print $1}'` 
-    # 输出log.txt文件owner/group
-    C=`ls ./log.txt | xargs stat --printf " %U:%G \n"` 
-    
-    # 读第二行，打印第二列 第三列(awk example)
-    eclipse_pid=`ps -ef|grep eclipse|awk 'NR==2{print $2,$3}'`
-    echo "current eclipse pid is $eclipse_pid, will kill it"
-    echo "kill -9 $eclipse_pid"
-    kill -9 $eclipse_pid
-    ```
-    > [AWK-wiki](http://zh.wikipedia.org/wiki/AWK)    
-    > [AWK-baike](http://baike.baidu.com/view/209681.htm)
+- eval命令
+```bash
+# 执行命令将结果赋给变量,注意命令不是单引号(' ')包括, 而是`｀号(～按键)
+eval A=`whoami` 
+```
+- 直接赋值
+```bash
+# 赋值等号两边不要有空格
+# 把当前用户名赋值给变量
+B=`whoami | awk '{print $1}'` 
+# 输出log.txt文件owner/group
+C=`ls ./log.txt | xargs stat --printf " %U:%G \n"` 
+
+# 读第二行，打印第二列 第三列(awk example)
+eclipse_pid=`ps -ef|grep eclipse|awk 'NR==2{print $2,$3}'`
+echo "current eclipse pid is $eclipse_pid, will kill it"
+echo "kill -9 $eclipse_pid"
+kill -9 $eclipse_pid
+```
+> [AWK-wiki](http://zh.wikipedia.org/wiki/AWK)    
+> [AWK-baike](http://baike.baidu.com/view/209681.htm)
 
 ### 数值比较
-    ```shell
-    # 关键要点：
-    # 1. 使用单个等号
-    # 2. 注意到等号两边各有一个空格,这是unix shell的要求
-    # 3. 注意到"$test"x最后的x, 这是特意安排的，因为当$test为空的时候，
-    #    上面的表达式就变成了x = testx，显然是不相等的。而如果没有这个x，
-    #    表达式就会报错：[: =: unary operator expected
-    #    二元比较操作符,比较变量或者比较数字.注意数字与字符串的区别.
-    if [ "$test"x = "test"x ]; then
-    ```
+```bash
+# 关键要点：
+# 1. 使用单个等号
+# 2. 注意到等号两边各有一个空格,这是unix shell的要求
+# 3. 注意到"$test"x最后的x, 这是特意安排的，因为当$test为空的时候，
+#    上面的表达式就变成了x = testx，显然是不相等的。而如果没有这个x，
+#    表达式就会报错：[: =: unary operator expected
+#    二元比较操作符,比较变量或者比较数字.注意数字与字符串的区别.
+if [ "$test"x = "test"x ]; then
+```
 
-    * 整数比较
-    ```shell
-    # 等于 -eq
-    if [ "$a" -eq "$b" ]
+* 整数比较
+```bash
+# 等于 -eq
+if [ "$a" -eq "$b" ]
 
-    # 不等于 -ne 
-    if [ "$a" -ne "$b" ]
+# 不等于 -ne 
+if [ "$a" -ne "$b" ]
 
-    # 大于 -gt
-    if [ "$a" -gt "$b" ]
-           
-    # 大于等于 -ge 
-    if [ "$a" -ge "$b" ]
+# 大于 -gt
+if [ "$a" -gt "$b" ]
+	   
+# 大于等于 -ge 
+if [ "$a" -ge "$b" ]
 
-    #小于 -lt  
-    if [ "$a" -lt "$b" ]
+#小于 -lt  
+if [ "$a" -lt "$b" ]
 
-    # 小于等于 -le  
-    if [ "$a" -le "$b" ]
-    
-    # 小于(需要双括号) <  
-    (("$a" < "$b"))
+# 小于等于 -le  
+if [ "$a" -le "$b" ]
 
-    # 小于等于(需要双括号) <=  
-    (("$a" <= "$b"))
+# 小于(需要双括号) <  
+(("$a" < "$b"))
 
-    # 大于(需要双括号) > 
-    (("$a" > "$b"))
+# 小于等于(需要双括号) <=  
+(("$a" <= "$b"))
 
-    # 大于等于(需要双括号) >= 
-    (("$a" >= "$b"))
-    ```
+# 大于(需要双括号) > 
+(("$a" > "$b"))
 
-    * 字符串比较
-    ```shell
-    # 习惯于使用""来测试字符串是一种好习惯
+# 大于等于(需要双括号) >= 
+(("$a" >= "$b"))
+```
 
-    # 当两个串有相同内容、长度时为真
-    str1 = str2　
+* 字符串比较
+```bash
+# 习惯于使用""来测试字符串是一种好习惯
 
-    # 当串str1和str2不等时为真
-    str1 != str2
+# 当两个串有相同内容、长度时为真
+str1 = str2　
 
-    # 当串的长度大于0时为真(串非空)
-    # -n 字符串不为"null"
-    # 使用-n在[]结构中测试必须要用""把变量引起来
-    -n str1
+# 当串str1和str2不等时为真
+str1 != str2
 
-    # 当串的长度为0时为真(空串)
-    # -z 字符串为"null" 就是长度为0
-    # 使用一个未被""的字符串来使用 ! -z
-    -z str1　
+# 当串的长度大于0时为真(串非空)
+# -n 字符串不为"null"
+# 使用-n在[]结构中测试必须要用""把变量引起来
+-n str1
 
-    # 当串str1为非空时为真
-    str1
+# 当串的长度为0时为真(空串)
+# -z 字符串为"null" 就是长度为0
+# 使用一个未被""的字符串来使用 ! -z
+-z str1　
 
-    # =  等于
-    if [ "$a" = "$b" ]
+# 当串str1为非空时为真
+str1
 
-    # ==  等于,与=等价
-    if [ "$a" == "$b" ]
-    # 注意 == 的功能在 [[]] 和 [] 中的行为是不同的,如下:
-    # 1. [[ $a == z* ]]    如果$a以"z"开头(模式匹配)那么将为true
-    # 2. [[ $a == "z*" ]] 如果$a等于z*(字符匹配),那么结果为true
-    # 3. [ $a == z* ]      File globbing 和word splitting将会发生
-    # 4. [ "$a" == "z*" ] 如果$a等于z*(字符匹配),那么结果为true
-    # 关于File globbing是一种关于文件的速记法,比如"*.c"就是,再如 ~ 也是.
-    # 但是file globbing并不是严格的正则表达式,虽然绝大多数情况下结构比较像.
+# =  等于
+if [ "$a" = "$b" ]
 
-    # != 不等于
-    if [ "$a" != "$b" ]
-    # 这个操作符将在 [[]] 结构中使用模式匹配
+# ==  等于,与=等价
+if [ "$a" == "$b" ]
+# 注意 == 的功能在 [[]] 和 [] 中的行为是不同的,如下:
+# 1. [[ $a == z* ]]    如果$a以"z"开头(模式匹配)那么将为true
+# 2. [[ $a == "z*" ]] 如果$a等于z*(字符匹配),那么结果为true
+# 3. [ $a == z* ]      File globbing 和word splitting将会发生
+# 4. [ "$a" == "z*" ] 如果$a等于z*(字符匹配),那么结果为true
+# 关于File globbing是一种关于文件的速记法,比如"*.c"就是,再如 ~ 也是.
+# 但是file globbing并不是严格的正则表达式,虽然绝大多数情况下结构比较像.
 
-    # <  小于 在ASCII字母顺序下
-    if [[ "$a" < "$b" ]]
-    # 在 [] 结构中"<"需要被转义
-    if [ "$a" \< "$b" ]
+# != 不等于
+if [ "$a" != "$b" ]
+# 这个操作符将在 [[]] 结构中使用模式匹配
 
-    # >  大于 在ASCII字母顺序下
-    if [[ "$a" > "$b" ]]
-    # 在[]结构中">"需要被转义
-    if [ "$a" \> "$b" ]
-    ```
+# <  小于 在ASCII字母顺序下
+if [[ "$a" < "$b" ]]
+# 在 [] 结构中"<"需要被转义
+if [ "$a" \< "$b" ]
+
+# >  大于 在ASCII字母顺序下
+if [[ "$a" > "$b" ]]
+# 在[]结构中">"需要被转义
+if [ "$a" \> "$b" ]
+```
 
 ### IF 控制流
-    ```shell
+    ```bash
 	# *注意* if 与后面括号要有空格，否者出错
     if ....; then
     ....
@@ -198,7 +198,7 @@ sh -x script.sh
     ```
 
     - 常用判断
-    ```shell
+    ```bash
     # 判断是否是一个文件
     [ -f "somefile" ]
     # 判断/bin/ls是否存在并有可执行权限
@@ -214,7 +214,7 @@ sh -x script.sh
 > [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
 > [Link-2](https://www.garron.me/en/articles/bash-for-loop-examples.html)   
 > [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
-```shell
+```bash
 for VARIABLE in 1 2 3 4 5 .. N
 do
 command1
@@ -240,7 +240,7 @@ done
 
 ### Logical 条件
 > [Link](http://www.geekpills.com/operating-system/linux/bash-and-or-operators)
-```shell
+```bash
 # OR operator
 ||
 # AND operator 
@@ -249,7 +249,7 @@ done
 
 ### Shell Example
     * 设定网络配置
-    ```shell
+    ```bash
     #!/usr/bin/sh
     # 1.得到VM的guestinfo信息
     # 2.读出ip/netmask/default gateway
@@ -342,7 +342,7 @@ done
     可编程的工具, 通过预期结果和发送命令来操作远程机器。    
     expect基本组成结构为几部分:      
     解释声明->spawn->expect->send->interact   
-    ```shell
+    ```bash
     # 指定脚本解释器
     #!/usr/bin/expect -f    
     
@@ -393,7 +393,7 @@ done
     * input parameter of bash script
         > [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)<br>
         - parameter type
-        ```shell
+        ```bash
         # the name of the command executing
         $0 
 
@@ -427,7 +427,7 @@ done
         如果需要通过脚本输入参数来进行expect操作，可以   
         通过bash+expect脚本方式，因为expect获得外部参数
         较复杂些，如下实现    
-        ```shell
+        ```bash
         #!/usr/bin/sh
         #For loop来获取命令行传入机器地址
         for host in $@  
@@ -506,7 +506,7 @@ done
     很麻烦需要不停输入密码。如果通过expect脚本，则半分钟可能就完成了。   
     首先，设计一个循环执行的shell脚本(ssh_open.sh)，remote机器地    
     址通过命令参数传入
-    ```shell
+    ```bash
     #!/usr/bin/sh
     #循环获取传入参数
     for host in $@   
@@ -520,7 +520,7 @@ done
     done
     ```
     然后，设计一个Expect脚本(open.sh)，登录远程主机修改ssh的权限
-    ```shell
+    ```bash
     #!/usr/bin/expect -f  
     # expect脚本和普通shell不一样，需要通过expect来解释
     # expect中赋值操作，将传入脚本的第一个参数赋值给变量host
@@ -576,7 +576,7 @@ done
 		设定循环变量，条件，计算需要分三个｛ ｝<br>
 		for {initialization} {conditions} {incrementation or decrementation} { ... }<br>
 		set count 5; while {$count > 0 } { puts "count : $count\n"; set count [expr $count-1]; }
-	```shell
+	```bash
 	#!/usr/bin/expect -f
 	#设定默认expect超时为5秒
 	set timeout 5 
