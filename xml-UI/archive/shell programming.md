@@ -9,11 +9,16 @@
 - [bash调试](#shell脚本调试方法)
 - [变量赋值](#变量赋值)
 - [数值比较](#数值比较)
+- [IF](#if-控制流)
+- [LOOP](#loop-控制流)
+- [Logical](#logical-条件)
+- [Examples](#shell-example)
+
 
 ---
 
 ### shell脚本调试方法
-    ```shell
+    ```bash
     # 读一遍脚本中的命令但不执行，用于检查脚本中的语法错误
     sh -n script.sh  
 
