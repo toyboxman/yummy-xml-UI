@@ -177,38 +177,38 @@ if [ "$a" \> "$b" ]
 ```
 
 ### IF 控制流
-    ```bash
-	# *注意* if 与后面括号要有空格，否者出错
-    if ....; then
-    ....
-    elif ....; then
-    ....
-    else
-    ....
-    fi
-	
+```bash
+# *注意* if 与后面括号要有空格，否者出错
+if ....; then
+....
+elif ....; then
+....
+else
+....
+fi
 
-    #!/bin/sh
-    eval user=`whoami`
-    if [ "$user" = "root" ] ; then
-    echo first
-    else
-    echo second
-    fi
-    ```
 
-    - 常用判断
-    ```bash
-    # 判断是否是一个文件
-    [ -f "somefile" ]
-    # 判断/bin/ls是否存在并有可执行权限
-    [ -x "/bin/ls" ] 
-    # 判断$var变量是否有值
-    [ -n "$var" ] 
-    # 判断$a和$b是否相等
-    [ "$a" = "$b" ] 
-    # 注意中括号两边都有一个空格，否则执行会报命令找不到
-    ```
+#!/bin/sh
+eval user=`whoami`
+if [ "$user" = "root" ] ; then
+echo first
+else
+echo second
+fi
+```
+
+- 常用判断
+```bash
+# 判断是否是一个文件
+[ -f "somefile" ]
+# 判断/bin/ls是否存在并有可执行权限
+[ -x "/bin/ls" ] 
+# 判断$var变量是否有值
+[ -n "$var" ] 
+# 判断$a和$b是否相等
+[ "$a" = "$b" ] 
+# 注意中括号两边都有一个空格，否则执行会报命令找不到
+```
 
 ### LOOP 控制流
 > [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
@@ -248,238 +248,238 @@ done
 ```
 
 ### Shell Example
-    * 设定网络配置
-    ```bash
-    #!/usr/bin/sh
-    # 1.得到VM的guestinfo信息
-    # 2.读出ip/netmask/default gateway
-    # 3.然后设定到网络配置
+* 设定网络配置
+```bash
+#!/usr/bin/sh
+# 1.得到VM的guestinfo信息
+# 2.读出ip/netmask/default gateway
+# 3.然后设定到网络配置
 
-    #设定变量
-    VMTOOL=/usr/bin/vmtoolsd
-    VMINFO=/opt/controller/bin
+#设定变量
+VMTOOL=/usr/bin/vmtoolsd
+VMINFO=/opt/controller/bin
 
-    #如果已经执行过，则退出
-    RESULT=`grep 'complete boot setting' $VMINFO/result.log`
-    if [ "$RESULT" ]; then
-    exit 0
-    fi
+#如果已经执行过，则退出
+RESULT=`grep 'complete boot setting' $VMINFO/result.log`
+if [ "$RESULT" ]; then
+exit 0
+fi
 
-    #初始化log文件
-    echo 'controller boot result:' > $VMINFO/result.log
-    #循环获取ovfenv变量，得到退出loop，否则sleep继续循环
-    for try in {1..10}
-    do
-    OVF_ENV=`$VMTOOL --cmd 'info-get guestinfo.ovfenv'`
-    if [ "$OVF_ENV" ]; then
-    echo "get valid ovf env...[$OVF_ENV]" >> $VMINFO/result.log
-    break
-    else
-    echo "no ovf env, wait and try $try time again" >> $VMINFO/result.log 
-    sleep 5
-    fi
-    done
+#初始化log文件
+echo 'controller boot result:' > $VMINFO/result.log
+#循环获取ovfenv变量，得到退出loop，否则sleep继续循环
+for try in {1..10}
+do
+OVF_ENV=`$VMTOOL --cmd 'info-get guestinfo.ovfenv'`
+if [ "$OVF_ENV" ]; then
+echo "get valid ovf env...[$OVF_ENV]" >> $VMINFO/result.log
+break
+else
+echo "no ovf env, wait and try $try time again" >> $VMINFO/result.log 
+sleep 5
+fi
+done
 
-    $VMTOOL --cmd 'info-get guestinfo.ovfenv' > $VMINFO/vminfo.txt
-    #读取变量
-    VM_IP=`grep 'management_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
-    VM_NETMASK=`grep 'netmask' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
-    VM_GW=`grep 'gateway_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
-    API_KEY=`grep 'api_private_cert' $VMINFO/vminfo.txt | sed 's/.*"\(.*\)".*/\1/'`
-    API_CERT=`grep 'api_public_cert' $VMINFO/vminfo.txt | sed 's/.*"\(.*\)".*/\1/'`
+$VMTOOL --cmd 'info-get guestinfo.ovfenv' > $VMINFO/vminfo.txt
+#读取变量
+VM_IP=`grep 'management_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
+VM_NETMASK=`grep 'netmask' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
+VM_GW=`grep 'gateway_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
+API_KEY=`grep 'api_private_cert' $VMINFO/vminfo.txt | sed 's/.*"\(.*\)".*/\1/'`
+API_CERT=`grep 'api_public_cert' $VMINFO/vminfo.txt | sed 's/.*"\(.*\)".*/\1/'`
 
-    if [ "$VM_IP" ]; then
-    echo "set vm valid management ip: $VM_IP" >> $VMINFO/result.log
-    else
-    echo "no valid management ip" >> $VMINFO/result.log
-    fi
+if [ "$VM_IP" ]; then
+echo "set vm valid management ip: $VM_IP" >> $VMINFO/result.log
+else
+echo "no valid management ip" >> $VMINFO/result.log
+fi
 
-    if [ "$VM_NETMASK" ]; then
-    echo "set vm valid netmask: $VM_NETMASK" >> $VMINFO/result.log
-    else
-    echo "no valid netmask" >> $VMINFO/result.log
-    fi
+if [ "$VM_NETMASK" ]; then
+echo "set vm valid netmask: $VM_NETMASK" >> $VMINFO/result.log
+else
+echo "no valid netmask" >> $VMINFO/result.log
+fi
 
-    if [ "$VM_GW" ]; then
-    echo "set vm valid gateway: $VM_GW" >> $VMINFO/result.log
-    else
-    echo "no valid gateway" >> $VMINFO/result.log
-    fi
+if [ "$VM_GW" ]; then
+echo "set vm valid gateway: $VM_GW" >> $VMINFO/result.log
+else
+echo "no valid gateway" >> $VMINFO/result.log
+fi
 
-    #设定网卡ip，增加网关路由信息
-    if [ "$VM_IP" ] && [ "$VM_NETMASK" ] && [ "$VM_GW" ]; then
-    ifconfig eth0 $VM_IP netmask $VM_NETMASK
-    route add default gw $VM_GW eth0
-    echo "succeed in setting vm networks configuration" >> $VMINFO/result.log
-    else
-    exit 1
-    fi
+#设定网卡ip，增加网关路由信息
+if [ "$VM_IP" ] && [ "$VM_NETMASK" ] && [ "$VM_GW" ]; then
+ifconfig eth0 $VM_IP netmask $VM_NETMASK
+route add default gw $VM_GW eth0
+echo "succeed in setting vm networks configuration" >> $VMINFO/result.log
+else
+exit 1
+fi
 
-    #导入pem格式证书
-    if [ "$API_KEY" ] && [ "$API_CERT" ]; then
-    echo "transform pem cert to jks" >> $VMINFO/result.log
-    echo -n "$API_KEY" | base64 -d > $VMINFO/controller.pem
-    echo -n "$API_CERT" | base64 -d >> $VMINFO/controller.pem
-    echo "create controller.pem..." >> $VMINFO/result.log
-    openssl pkcs12 -export -in $VMINFO/controller.pem -out \
-        $VMINFO/controller.p12 -name controller -passout pass:123456
-    echo "create controller.p12..." >> $VMINFO/result.log
-    keytool -v -importkeystore -srckeystore $VMINFO/controller.p12 \
-        -srcstoretype PKCS12 -srcstorepass 123456 -alias controller \
-        -deststorepass 123456 -destkeystore $VMINFO/keystore.jks
-    echo "import controller entry..." >> $VMINFO/result.log
-    else
-    echo "incomplete certs $API_KEY and $API_CERT" >> $VMINFO/result.log
-    exit 1
-    fi
+#导入pem格式证书
+if [ "$API_KEY" ] && [ "$API_CERT" ]; then
+echo "transform pem cert to jks" >> $VMINFO/result.log
+echo -n "$API_KEY" | base64 -d > $VMINFO/controller.pem
+echo -n "$API_CERT" | base64 -d >> $VMINFO/controller.pem
+echo "create controller.pem..." >> $VMINFO/result.log
+openssl pkcs12 -export -in $VMINFO/controller.pem -out \
+	$VMINFO/controller.p12 -name controller -passout pass:123456
+echo "create controller.p12..." >> $VMINFO/result.log
+keytool -v -importkeystore -srckeystore $VMINFO/controller.p12 \
+	-srcstoretype PKCS12 -srcstorepass 123456 -alias controller \
+	-deststorepass 123456 -destkeystore $VMINFO/keystore.jks
+echo "import controller entry..." >> $VMINFO/result.log
+else
+echo "incomplete certs $API_KEY and $API_CERT" >> $VMINFO/result.log
+exit 1
+fi
 
-    echo "complete boot setting" >> $VMINFO/result.log
-    ```
+echo "complete boot setting" >> $VMINFO/result.log
+```
 
-    * SSH+EXPECT
-    通过ssh进行远程交互, 批量操作时候, 需要处理输入得到输出   
-    Linux平台上有一个方便的命令行处理工具expect，这是一个      
-    可编程的工具, 通过预期结果和发送命令来操作远程机器。    
-    expect基本组成结构为几部分:      
-    解释声明->spawn->expect->send->interact   
-    ```bash
-    # 指定脚本解释器
-    #!/usr/bin/expect -f    
-    
-    #Tells interpreter where the expect program is located.  
-    #This may need adjusting according to
-    #your specific environment.  Type ' which expect ' (without quotes) 
-    #at a command prompt to find where it is located on your 
-    #system and adjust the following line accordingly.
-    #
-    #
-    #连接远端机器
-    spawn ssh 192.168.1.4
-    #
-    #The first thing we should see is a User Name prompt
-    #期望输出结果为 login as:
-    expect "login as:"    
-    #
-    #Send a valid username to the device
-    #发送用户名 admin+回车，某些系统回车是\r
-    send "admin\n"    
-    #
-    #The next thing we should see is a Password prompt
-    #期望输出结果为 password:
-    expect "password:"  
-    #
-    #Send a vaild password to the device
-    #发送密码 default+回车
-    send "default\n"   
-    #
-    #If the device automatically assigns us to a priviledged 
-    #level after successful logon,
-    #then we should be at an enable prompt
-    #期望输出结果为 Last login:
-    expect "Last login:"  
-    #
-    #Exit out of the network device
-    #发送退出连接+回车
-    send "exit\n"   
-    # 
-    #The interact command is part of the expect script, which 
-    #tells the script to hand off control to the user.
-    #This will allow you to continue to stay in the device 
-    #for issuing future commands, instead of just closing
-    #the session after finishing running all the commands.
-    interact
-    ```
+* SSH+EXPECT
+通过ssh进行远程交互, 批量操作时候, 需要处理输入得到输出   
+Linux平台上有一个方便的命令行处理工具expect，这是一个      
+可编程的工具, 通过预期结果和发送命令来操作远程机器。    
+expect基本组成结构为几部分:      
+解释声明->spawn->expect->send->interact   
+```bash
+# 指定脚本解释器
+#!/usr/bin/expect -f    
 
-    * input parameter of bash script
-        > [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)<br>
-        - parameter type
-        ```bash
-        # the name of the command executing
-        $0 
+#Tells interpreter where the expect program is located.  
+#This may need adjusting according to
+#your specific environment.  Type ' which expect ' (without quotes) 
+#at a command prompt to find where it is located on your 
+#system and adjust the following line accordingly.
+#
+#
+#连接远端机器
+spawn ssh 192.168.1.4
+#
+#The first thing we should see is a User Name prompt
+#期望输出结果为 login as:
+expect "login as:"    
+#
+#Send a valid username to the device
+#发送用户名 admin+回车，某些系统回车是\r
+send "admin\n"    
+#
+#The next thing we should see is a Password prompt
+#期望输出结果为 password:
+expect "password:"  
+#
+#Send a vaild password to the device
+#发送密码 default+回车
+send "default\n"   
+#
+#If the device automatically assigns us to a priviledged 
+#level after successful logon,
+#then we should be at an enable prompt
+#期望输出结果为 Last login:
+expect "Last login:"  
+#
+#Exit out of the network device
+#发送退出连接+回车
+send "exit\n"   
+# 
+#The interact command is part of the expect script, which 
+#tells the script to hand off control to the user.
+#This will allow you to continue to stay in the device 
+#for issuing future commands, instead of just closing
+#the session after finishing running all the commands.
+interact
+```
 
-        # the first parameter
-        $1 
+* input parameter of bash script
+	> [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)<br>
+	- parameter type
+	```bash
+	# the name of the command executing
+	$0 
 
-        # the second parameter
-        $2 
+	# the first parameter
+	$1 
 
-        # the third parameter, etc.
-        $3 
+	# the second parameter
+	$2 
 
-        # the total number of parameters
-        $# 
+	# the third parameter, etc.
+	$3 
 
-        # all the parameters will be listed, returns 
-        # a sequence of strings (''$1'', ''$2'', ... ''$n'') 
-        # wherein each positional parameter remains 
-        # separate from the others.
-        $@ 
+	# the total number of parameters
+	$# 
 
-        # all the parameters will be listed, returns 
-        # a single string (''$1, $2 ... $n'') comprising 
-        # all of the positional parameters separated 
-        # by the internal field separator character 
-        # (defined by the IFS environment variable).
-        $*  
-        ```
+	# all the parameters will be listed, returns 
+	# a sequence of strings (''$1'', ''$2'', ... ''$n'') 
+	# wherein each positional parameter remains 
+	# separate from the others.
+	$@ 
 
-        - parameter for expect script
-        如果需要通过脚本输入参数来进行expect操作，可以   
-        通过bash+expect脚本方式，因为expect获得外部参数
-        较复杂些，如下实现    
-        ```bash
-        #!/usr/bin/sh
-        #For loop来获取命令行传入机器地址
-        for host in $@  
-        do
-            #变量可以在双引号中被解释
-            echo "Will check data in $host"  
-            #bash中调用expect脚本
-            ./check_ccp.sh $host   
-            #变量不能在单引号中解释
-            echo 'End check data in' $host   
-        done
+	# all the parameters will be listed, returns 
+	# a single string (''$1, $2 ... $n'') comprising 
+	# all of the positional parameters separated 
+	# by the internal field separator character 
+	# (defined by the IFS environment variable).
+	$*  
+	```
 
-        #!/usr/bin/expect -f
-        # Grab the first command line parameter
-        set host [lindex $argv 0];  
-        spawn ssh admin@$host
-        expect "password"
-        #密码中$符号需要转义，否则解释为变量
-        send "Defaultmm\$hd0w\n"  
-        expect "#"
-        send "top\n"
-        #等待两秒，或者通过指令set timeout 2
-        sleep 2   
-        expect "#"
-        send "exit\n"
-        interact
+	- parameter for expect script
+	如果需要通过脚本输入参数来进行expect操作，可以   
+	通过bash+expect脚本方式，因为expect获得外部参数
+	较复杂些，如下实现    
+	```bash
+	#!/usr/bin/sh
+	#For loop来获取命令行传入机器地址
+	for host in $@  
+	do
+		#变量可以在双引号中被解释
+		echo "Will check data in $host"  
+		#bash中调用expect脚本
+		./check_ccp.sh $host   
+		#变量不能在单引号中解释
+		echo 'End check data in' $host   
+	done
 
-        # 尝试连接远程主机  ./connect.sh 192.168.0.1
-        #!/usr/bin/expect -f
-        # 获取expect脚本的第一个参数 192.168.0.1
-        set host [lindex $argv 0];  
-        spawn ssh admin@$host
-        # 需要处理首次连接和再次连接的if 条件
-        expect {   
-         "Are you sure you want to continue connecting (yes/no)?" {
-          send "yes\n"
-          # 表明此条件完成后,继续后续其他选择条件
-          # 如password 如果没有exp_continue则跳出
-          # 选择条件，执行后面指令
-          exp_continue  
-         }
-         "password:" {
-          send "default\n"
-         }
-        }
-        expect ">"
-        send "enable\n"
-        expect "Password"
-        send "default\n"
-        send "exit\n"
-        interact
-        ```
+	#!/usr/bin/expect -f
+	# Grab the first command line parameter
+	set host [lindex $argv 0];  
+	spawn ssh admin@$host
+	expect "password"
+	#密码中$符号需要转义，否则解释为变量
+	send "Defaultmm\$hd0w\n"  
+	expect "#"
+	send "top\n"
+	#等待两秒，或者通过指令set timeout 2
+	sleep 2   
+	expect "#"
+	send "exit\n"
+	interact
+
+	# 尝试连接远程主机  ./connect.sh 192.168.0.1
+	#!/usr/bin/expect -f
+	# 获取expect脚本的第一个参数 192.168.0.1
+	set host [lindex $argv 0];  
+	spawn ssh admin@$host
+	# 需要处理首次连接和再次连接的if 条件
+	expect {   
+	 "Are you sure you want to continue connecting (yes/no)?" {
+	  send "yes\n"
+	  # 表明此条件完成后,继续后续其他选择条件
+	  # 如password 如果没有exp_continue则跳出
+	  # 选择条件，执行后面指令
+	  exp_continue  
+	 }
+	 "password:" {
+	  send "default\n"
+	 }
+	}
+	expect ">"
+	send "enable\n"
+	expect "Password"
+	send "default\n"
+	send "exit\n"
+	interact
+	```
 
 * Expect    
 	Expect is a program that "talks" to other interactive programs according to a script.
