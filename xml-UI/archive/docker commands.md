@@ -6,8 +6,8 @@
 ---
 
 ### *Following content is docker commands used usually*
-- [Docker Installation](#docker installation on SUSE)
-- [Docker Command](#docker command)
+- [Docker Installation](#docker-installation-on-SUSE)
+- [Docker Command](#docker-command)
 - [Docker Compose](#docker-compose)
 
 ---
