@@ -6,7 +6,9 @@
 ---
 
 ### *Following content is about shell programming*
-- [脚本调试](#shell脚本调试方法)
+- [bash调试](#shell脚本调试方法)
+- [变量赋值](#变量赋值)
+- [数值比较](#数值比较)
 
 ---
 
@@ -48,7 +50,7 @@
         fi
         ```
 
-* 变量赋值   
+### 变量赋值   
 经常需要将命令执行结果赋值给shell中变量，可以用下面两种方式
 
     - eval命令
@@ -73,7 +75,7 @@
     > [AWK-wiki](http://zh.wikipedia.org/wiki/AWK)    
     > [AWK-baike](http://baike.baidu.com/view/209681.htm)
 
-* 数值比较
+### 数值比较
     ```shell
     # 关键要点：
     # 1. 使用单个等号
