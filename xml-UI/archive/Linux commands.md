@@ -344,7 +344,8 @@ ip addr show br0
 
 * iptables/firewall
 > [Link](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
-> [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)
+> [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
+> [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
 ```bash
 # 列出防火墙所有规则，按规则号显示
 # --list/-L  List the rules
@@ -376,7 +377,7 @@ service iptables status
 /etc/init.d/iptables status
 
 # Limit max connections per IP address
-# --match/-m
+# --match/-m 扩展匹配条件[MAC/Owner/Mark/Limit...]
 iptables -A INPUT -p tcp --syn --dport 80 -m connlimit --connlimit-above 15 --connlimit-mask 32 -j REJECT --reject-with tcp-reset 
 # Limit new connections per second 
 iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit --limit 150/second --limit-burst 160 -j ACCEPT
