@@ -17,23 +17,23 @@ Platform Redhat Enterprise Server
 
 #### monitor system information
 * print kernel&driver message
-```shell
+```bash
 dmesg
 ```
 * display disk info
-```shell
+```bash
 df -h ./
 ```
 * display current folder utilization info
-```shell
+```bash
 du -sh ./
 ```
 * display memory info by mega
-```shell
+```bash
 free -m
 ```
 * list processes
-```shell
+```bash
 # 'h' for help content
 # 'Z' enable color
 # 'R' for sort of columns
@@ -42,11 +42,11 @@ free -m
 top
 ```
 * config system services(GUI config is system-config-services)
-```shell
+```bash
 service
 ```
 * config runlevel info of system services
-```shell
+```bash
 chkconfig
 
 # set mysql service run automatically when machine runs
@@ -54,15 +54,15 @@ chkconfig mysql on
 ```
 
 * show full processes tree using ascii
-```shell
+```bash
 pstree -alA
 ```          
 * read nc manual with GB2312 encoding
-```shell
+```bash
 man -E GB2312 nc
 ```
 * check all ports used by system services
-```shell
+```bash
 cat /etc/services
 
 # find if db2 connection port is 50000
@@ -70,82 +70,82 @@ grep db2c_DB2 /etc/services
 ```
 
 * check Linux release version
-```shell
+```bash
 cat /etc/issue
 cat /proc/version
 uname -a
 ```
 * see all network interfaces name, like 'ifconfig -a'
-```shell
+```bash
 ls -1 /sys/class/net
 ```
 * turn off color highlight
-```shell
+```bash
 ls --color=never
 ```
 > permanently turn off via adding alias ls='ls --color=never'  in .bashrc
 * see netcard hardware information
-```shell
+```bash
 hwinfo --netcard
 ```
 * set eth0 ip address via dhcp
-```shell
+```bash
 dhclient eth0
 ```
 * show routing table
-```shell
+```bash
 route -n
 ```
 * see all user list
-```shell
+```bash
 awk -F':' '{print $1}' /etc/passwd
 ```
 
 #### usual command
 * search a file by some condition
-```shell
+```bash
 # search a file by some condition
 find /etc -name network.sh  
 # search all files in home folder and then determine its file type(append action)
 find /home -user root -exec file {} \;  
 ```
 * remote copy file
-```shell
+```bash
 # cp local file to remote folder
 scp *.log king@ip:/home/king  
 # cp remote file to local folder
 scp king@ip:/home/king/1.log ./king  
 ```
 * list current opened files
-```shell
+```bash
 lsof
 ```
 * determine file type
-```shell
+```bash
 file log.txt
 ```
 * calculate file sum using CRC32/MD5/SHA1
-```shell
+```bash
 cksum
 md5sum
 sha1sum
 ```
 * base64 encode/decode string
-```shell
+```bash
 # return encoded string 'bGludXguY29t'
 echo -n 'linux.com' | base64  
 # return 'linux.com'
 echo -n bGludXguY29t | base64 -d  
 ```
 * check file status, like ls -lh or du -h ./
-```shell
+```bash
 # reports the status of file index.htm
 stat index.htm  
 # return king:users
 ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
 ```
 * search string(pattern) in files
-```shell
+```bash
 grep DB_VERSION_STRING /usr/local/db.h
 
 # recursively search keyword in src folder from *.h files
@@ -161,7 +161,7 @@ grep -i error 1.log
 grep -c error 1.log  
 ```
 * search string(pattern) in compressed files
-```shell
+```bash
 # zgrep search keyword in current folder from *.gz files  
 # show more detailed information
 find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} +
@@ -170,22 +170,22 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} +
 find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 ```
 * change permission of files 
-```shell
+```bash
 # ugoa(owner,group,others, all users) rwx(4,2,1)
 chmod ugoa+rwx file == chmod 7777 file
 ```
 * change owner of files or folders
-```shell
+```bash
 # change filea owner from current user to stack recursive
 chown -hR stack filea    
 ```
 * change group of files
-```shell
+```bash
 # change group of fileb from current group to stack recursive
 chgrp -hR stack fileb     
 ```
 * pack or unpack folder or file
-```shell
+```bash
 # pack folder1 and folder2 into a.tar
 tar -cvf a.tar folder1 folder2   
 # unpack a.tar file
@@ -196,7 +196,7 @@ tar -xvf a.tar
 tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  
 ```
 * gzip/(zip/unzip) -- compress or decompress folder or file
-```shell
+```bash
 # force to compress a tar file
 gzip -fv file.tar  
 # decompress gzip file z.gz
@@ -209,24 +209,24 @@ unzip a.zip -d /usr/share/tmp
 gzip -dv < bankApp.tar.gz | tar xvf -   
 ```
 * monitor port status
-```shell
+```bash
 netstat -tlnpu
 ```
 * no hangup task
-```shell
+```bash
 # put task to background without hangup
 nohup command & 
 ```
 * fold --wrap text
-```shell
+```bash
 netstat -tlnpu|fold -w 120
 ```
 * unix2dos/dos2unix -- format transfer
-```shell
+```bash
 dos2unix file
 ```
 * ln
-```shell
+```bash
 # link a file to destination, it is better to use absolute 
 # path instead of relative path, unless it will lead broken link file
 
@@ -236,7 +236,7 @@ ln ./java   /home/root
 ln -s ./java  /home/ 
 ```
 * mount/umount -- add/remove a mount point
-```shell
+```bash
 # mount remote nfs folder jars to local tor folder
 mount -t nfs 10.137.16.80:/nfsroot/jars /home/king/tor 
 # force to remove mounted folder
@@ -246,18 +246,18 @@ umount -fv /home/king/tor
 umount -lv /home/king/tor 
 ```
 * chsh -- change default shell in login
-```shell
+```bash
 # change default shell command to bash
 chsh -s /bin/bash 
 # which is current default shell
 which sh 
 ```
 * command1; command2; command3 -- batch execute command
-```shell
+```bash
 vncserver -kill :1; vncserver
 ```
 * command1 >> file -- redirect file
-```shell
+```bash
 # output result to file, double greater than sign goes, result appends to file
 ls >> file 
 # one greater than sign overrides file
@@ -266,7 +266,7 @@ ls > file
 * tty  --show current console id
 #### management&configuration
 * add a new user
-```shell
+```bash
 # add new user test by default configuration
 useradd test  
 # change test initial pwd
@@ -281,7 +281,7 @@ usermod -g root  test
 usermod -G root,test  test  
 ```
 * system setting
-```shell
+```bash
 system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
                     -services -- open service configuration GUI(just like system services of windows)
                     -samba   -- open samba service configuration GUI
@@ -298,7 +298,7 @@ system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
                     -printer -- open printer configuration GUI
 ```
 * GNOME display manager
-```shell
+```bash
 # note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart'
 gdm 
 ```
@@ -307,7 +307,7 @@ gdm
 
 #### basic network configuration of  Linux
 * network config files
-```shell
+```bash
 # net mask
 /etc/sysconfig/network   
 # gateway, ethernet
@@ -319,7 +319,7 @@ gdm
 ```
 * Change Network Interface Name
 The best way to rename a network interface is through udev.
-```shell
+```bash
 # query net interface mac address
 1.ifconfig -a | grep -i --color hwaddr  
 #  change the interface name of a network device.
@@ -328,7 +328,7 @@ The best way to rename a network interface is through udev.
 ```
 Or, use yast2 in Suse to change network config and rename nic
 * show current bridge
-```shell
+```bash
 brctl show
 result:
 bridge name	bridge id		STP enabled	interfaces
@@ -341,34 +341,49 @@ ifconfig br0
 
 ip addr show br0
 ```
-* CentOS 6 iptables 打开端口80 3306 22等
-> [Link](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)
-```shell
+
+* iptables/firewall
+> [Link](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
+> [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)
+```bash
 # 列出防火墙所有规则，按规则号显示
+# --list/-L  List the rules
 sudo iptables -L --line-numbers  
+
 # 删除INPUT表的第三条规则
-sudo iptables -D INPUT 3  
+# --delete/-D  Delete the rules
+sudo iptables -D INPUT 3 
+
+# CentOS iptables 打开端口80 3306 22等 
+# --insert/-I 表示插入INPUT表头
+# --append/-A 表示追加INPUT表尾
+# --protocol/-p 表示规则目标协议
+# --dport 表示规则目标端口
+# --jump/-j <target>, target are [ACCEPT/DROP/LOG/CLASSIFY/DNAT...]
 iptables -I INPUT -p tcp --dport 80 -j ACCEPT
 iptables -I INPUT -p tcp --dport 22 -j ACCEPT
-iptables -I INPUT -p tcp --dport 3306 -j ACCEPT
-# 把8080端口规则插入INPUT表头
-iptables -I INPUT -p tcp --dport 8080 -j ACCEPT   
+iptables -I INPUT -p tcp --dport 3306 -j ACCEPT 
 # 把8081端口规则添加INPUT表尾
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
-# open mysql 3306 port in firewall  
-iptables -I INPUT -p tcp --dport 3306 -j ACCEPT  
-```
-* Allow local-only connections
-```shell
-iptables -A INPUT  -i lo -j ACCEPT
+
+# Allow local-only connections
+# --in-interface/-i  network interface name
+iptables -A INPUT -i lo -j ACCEPT
+
 # 保存iptables修改
 service iptables save 
 service iptables status  
 /etc/init.d/iptables status
+
+# Limit max connections per IP address
+# --match/-m
+iptables -A INPUT -p tcp --syn --dport 80 -m connlimit --connlimit-above 15 --connlimit-mask 32 -j REJECT --reject-with tcp-reset 
+# Limit new connections per second 
+iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit --limit 150/second --limit-burst 160 -j ACCEPT
 ```
 
 * check remote port status
-```shell
+```bash
 # check Range of ports
 nc -zv 127.0.0.1 20-30  
 # check three ports
@@ -378,7 +393,7 @@ nc -zv 10.117.7.110 9092
 Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
 ```
 * traffic check
-```shell
+```bash
 # set L3 ping packet from port to other  using ICMP
 ping -I port1 192.168.2.10   
 # set L2 ping using ARP
@@ -400,7 +415,7 @@ cat /proc/net/arp
 ```
 * tcpdump
 > [Link](https://danielmiessler.com/study/tcpdump/#examples)
-```shell
+```bash
 # show all interfaces
 tcpdump -D  
 # capture packet from port p1
@@ -428,7 +443,7 @@ tcpdump -n net 192.168.1.0/24
 tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
 ```
 * nmap
-```shell
+```bash
 nmap -O -sS localhost
 # scan current host network information and produce a map to describe
 nmap -v -A localhost    
@@ -455,7 +470,7 @@ Service Info: Host: Suse-leap.example.com
 #### TXT operation 
 > [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
 * patch for codes
-```shell
+```bash
 # 创建patch
 diff -u hello.c hello_new.c > hello.patch  
 
@@ -473,7 +488,7 @@ patch -p 5 < ../rb1138637.patch
 checking file src/test/java/com/example/EndPoint.java
 ```
 * xargs
-```shell
+```bash
 # xargs把管道传入的结果转成一行,空格分隔出的每一个词可以作为后面命令输入参数
 # 比如 cat <file1>  <file2>  <file3>可以打印三个文件内容
 
@@ -483,7 +498,7 @@ ls ./ | xargs cat
 ```
 
 * wc
-```shell
+```bash
 # wc 打印 newline, word, and byte counts
 # -l, --lines  print the newline counts
 
@@ -495,11 +510,11 @@ git ls-files | xargs cat | wc -l
 ```
 
 * count code lines
-```shell
+```bash
 find . -name *.java | xargs cat | wc -l
 ```
 * count word amount
-```shell
+```bash
 # count how many sshd deamon running
 ps -ef | grep -c 'sshd' 
 # 等同于
@@ -508,7 +523,7 @@ ps -ef | grep 'sshd' | wc -l
 * sed
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)<br>
 > [sample](http://sed.sourceforge.net/sed1line_zh-CN.html)
-```shell
+```bash
 # s 指令是substitute  g指令是global全局
 # -i 表示在当前文件中 in-place, 无此参数不会实际替换文件,仅测试执行结果 
 # *.txt 指定在所有当前txt文件中, 此命令将替换所有符合条件的字符串
@@ -576,7 +591,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 ```
 
 * awk
-```shell
+```bash
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
@@ -663,7 +678,7 @@ file:/opt/controller/log4j-controller.properties -server -Xmx4096m
 ```
 
 * read
-```shell
+```bash
 read -a topic <<< "1 2 3";echo $topic
 1
 read -a topic <<< "1 2 3";echo $topic[1]
@@ -677,13 +692,13 @@ read -a topic <<< "1 2 3";echo $topic[2]
 #### kill process
 * send signal
 A process can be sent a SIGTERM signal in three ways (the process ID is '1234' in this case):
-```shell
+```bash
 kill 1234
 kill -TERM 1234
 kill -15 1234
 ```
 The process can be sent a SIGKILL signal in two ways:
-```shell
+```bash
 kill -KILL 1234
 kill -9 1234
 ```
@@ -691,7 +706,7 @@ kill -9 1234
 ---
 
 #### file/dir/package operation
-```shell
+```bash
 # make a directory
 mkdir directoryName
 # delete a directory
@@ -749,7 +764,7 @@ Shift+Insert   |  粘贴系统剪贴板内容
 IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
 i. e. how to recognize word boundaries. The default value for IFS consists of whitespace 
 characters (to be precise: space, tab and newline) Now, the shell splits mystring into words as well
-```shell
+```bash
 #!/usr/bin/sh
 mystring="foo:bar baz rab"
 for word in $mystring; do
@@ -764,7 +779,7 @@ But now, it can only treats a colon as the word boundary. because the first char
 It is used to delimit words in the output when using the special $* variable (example taken from the 
 Advanced Bash Scripting Guide, where you can also find more information on special 
 variables like that one):
-```shell
+```bash
 $ bash -c 'set w x y z; IFS=":-;"; echo "$*"'
 w:x:y:z
 
@@ -787,7 +802,7 @@ w+x+y+z
     - $! is the PID of the most recent background command.
     - $0 is the name of the shell or shell script.
 > [Link](https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables)
-```shell
+```bash
 # test.sh
 #!/bin/sh
 echo '$#' $#
@@ -800,7 +815,7 @@ $@  1 2 3
 $?  0
 ```
 * FOR
-```shell
+```bash
 # Use "$@" to represent all the arguments in test.sh
 for var in "$@"
 do
@@ -813,7 +828,7 @@ sh test.sh 1 2 '3 4'
 3 4
 ```
 * Crontab
-```shell
+```bash
 # list current running cron task
 crontab -l 
 # open cron task editor and insert a curl task periodically by 1 second
@@ -829,7 +844,7 @@ crontab -r
 ```
 * Curl
 > [Link](http://conqueringthecommandline.com/book/curl)
-```shell
+```bash
 curl -i -k -X POST https://10.162.122.147/ws.v1/login \
             -H "Content-Type: application/x-www-form-urlencoded" \
             -d 'username=admin&password=Defaultca$hc0w'
@@ -855,7 +870,7 @@ curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
 
 #### VM Image operation
 * guestfish
-```shell
+```bash
 virt-copy-out -a controller.vmdk /opt/nvp/etc/api_server.conf ./
 virt-copy-in -a controller.vmdk api_server.conf /opt/nvp/etc
 virt-edit -a controller.vmdk /opt/nvp/etc/api_server.conf
