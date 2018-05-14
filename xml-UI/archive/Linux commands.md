@@ -360,7 +360,7 @@ sudo iptables -D INPUT 3
 # --append/-A 表示追加INPUT表尾
 # --protocol/-p 表示规则目标协议
 # --dport 表示规则目标端口
-# --jump/-j <target>, target are [ACCEPT/DROP/LOG/CLASSIFY/DNAT...]
+# --jump/-j <target>, target are [ACCEPT/DROP/REJECT/LOG/CLASSIFY/DNAT...]
 iptables -I INPUT -p tcp --dport 80 -j ACCEPT
 iptables -I INPUT -p tcp --dport 22 -j ACCEPT
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT 
@@ -376,11 +376,21 @@ service iptables save
 service iptables status  
 /etc/init.d/iptables status
 
-# Limit max connections per IP address
+# 限制连接到80端口的同一个ip的最大连接数小于15,超过则拒绝
 # --match/-m 扩展匹配条件[MAC/Owner/Mark/Limit...]
-iptables -A INPUT -p tcp --syn --dport 80 -m connlimit --connlimit-above 15 --connlimit-mask 32 -j REJECT --reject-with tcp-reset 
-# Limit new connections per second 
-iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit --limit 150/second --limit-burst 160 -j ACCEPT
+# --connlimit-above <n> Match if the number of existing connections is above n
+# --connlimit-mask <prefix_length> 网段限制,对于IPv4前缀0-32,对于IPv6前缀0-128,默认使用协议对应最大前缀长度
+# --reject-with tcp-reset 告诉REJECT发送一个TCP RST packet
+# --syn SYN packet是建立TCP连接请求的第一个初始报文，如果希望远端到本地端口建立连接，需要允许此报文。
+# -m state --state NEW 指定状态和SYN等同效果，但可以支持TCP/UDP/ICMP
+iptables -A INPUT -p tcp --syn --dport 80 -m connlimit \
+--connlimit-above 15 --connlimit-mask 32 -j REJECT --reject-with tcp-reset 
+
+# 设定在最大每秒150个新连接报文到限之前，可以最大允许实际160个新连接请求报文
+# --limit rate[/second|/minute|/hour|/day] 最大平均初始连接报文速率，默认 3/hour
+# --limit-burst 最大初始连接报文数，此配置只有在上面连接率未超标时生效，默认是5
+iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit \
+--limit 150/second --limit-burst 160 -j ACCEPT
 ```
 
 * check remote port status
