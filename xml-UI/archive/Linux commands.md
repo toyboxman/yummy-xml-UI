@@ -392,21 +392,28 @@ iptables -A INPUT -p tcp --syn --dport 80 -m connlimit \
 iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit \
 --limit 150/second --limit-burst 160 -j ACCEPT
 
-# 创建一个chain
+# 创建一个chain 命名MY_CHAIN
 iptables -N MY_CHAIN
-# 进入MY_CHAIN的处理加上日志设定，输出到syslog 然后拒掉任何packet
+# 设定日志格式,进入MY_CHAIN处理的packet,日志输出到syslog 然后拒掉.返回icmp port不可达
 iptables -A MY_CHAIN -j LOG --log-prefix "XXXXX: " --log-level warning                 
+# 默认REJECT返回发起方icmp-port-unreachable,如果防止网络攻击可以用DROP
+# DROP丢弃报文不回复,发送方只能等待超时.对于TCP,足够长超时可以防止频繁发起连接
 iptables -A MY_CHAIN -j REJECT 
-    
+# LOG target满足条件还能继续执行后面规则
+# ACCEPT/REJECT/DROP 满足条件就不会执行其他target
 iptables -L MY_CHAIN --line-numbers
 Chain LOG_DROP (1 references)
 num  target     prot opt source               destination         
 1    LOG        all  --  anywhere             anywhere             LOG level warning prefix "XXXXX: "
 2    REJECT     all  --  anywhere             anywhere             reject-with icmp-port-unreachable
 
-# 设定一个IP地址源只允许一个ssh连接 否则 jump入MY_CHAIN
+# 先设定一个IP地址源只允许一个ssh连接 否则 jump入MY_CHAIN
+# 然后设定允许anywhere发起的ssh连接
+# 限定规则要放前面,否则满足ACCEPT,不会再jump其他target
 iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
 --state NEW,ESTABLISHED -m connlimit --connlimit-above 2 -j MY_CHAIN
+iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
+--state NEW,ESTABLISHED ACCEPT
 
 # 再次ssh到目标机器 连接被拒
 ssh root@10.192.120.124
