@@ -357,14 +357,12 @@ sudo iptables -L INPUT --line-numbers
 # --delete/-D  Delete the third rule in INPUT chain
 sudo iptables -D INPUT 3 
 
-# CentOS iptables 打开端口80 3306 22等 
+# CentOS iptables 打开端口3306 
 # --insert/-I 表示插入INPUT表头
 # --append/-A 表示追加INPUT表尾
 # --protocol/-p 表示规则目标协议
 # --dport 表示规则目标端口
 # --jump/-j <target>, target are [ACCEPT/DROP/REJECT/LOG/CLASSIFY/DNAT...]
-iptables -I INPUT -p tcp --dport 80 -j ACCEPT
-iptables -I INPUT -p tcp --dport 22 -j ACCEPT
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT 
 # 把8081端口规则添加INPUT表尾
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
@@ -393,6 +391,30 @@ iptables -A INPUT -p tcp --syn --dport 80 -m connlimit \
 # --limit-burst 最大初始连接报文数，此配置只有在上面连接率未超标时生效，默认是5
 iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit \
 --limit 150/second --limit-burst 160 -j ACCEPT
+
+# 创建一个chain
+iptables -N MY_CHAIN
+# 进入MY_CHAIN的处理加上日志设定，输出到syslog 然后拒掉任何packet
+iptables -A MY_CHAIN -j LOG --log-prefix "XXXXX: " --log-level warning                 
+iptables -A MY_CHAIN -j REJECT 
+    
+iptables -L MY_CHAIN --line-numbers
+Chain LOG_DROP (1 references)
+num  target     prot opt source               destination         
+1    LOG        all  --  anywhere             anywhere             LOG level warning prefix "XXXXX: "
+2    REJECT     all  --  anywhere             anywhere             reject-with icmp-port-unreachable
+
+# 设定一个IP地址源只允许一个ssh连接 否则 jump入MY_CHAIN
+iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
+--state NEW,ESTABLISHED -m connlimit --connlimit-above 2 -j MY_CHAIN
+
+# 再次ssh到目标机器 连接被拒
+ssh root@10.192.120.124
+ssh: connect to host 10.192.120.124 port 22: Connection refused
+# 按设定前缀搜寻日志
+grep -r 'XXXXX:' /var/log
+/var/log/syslog: ... kernel - - - [771409.900044] XXXXX: IN=eth0 OUT= MAC=02:00:2e:5c:29:4b:8c:60:4f:b7:6e:7c:08:00 SRC=10.117.5.175 DST=10.192.120.124 LEN=72 TOS=0x00 PREC=0x00 TTL=52 ID=59711 PROTO=TCP SPT=55614 DPT=22 WINDOW=16384 RES=0x00 SYN URGP=0 
+/var/log/kern.log: ... kernel - - - [771409.900044] XXXXX: IN=eth0 OUT= MAC=02:00:2e:5c:29:4b:8c:60:4f:b7:6e:7c:08:00 SRC=10.117.5.175 DST=10.192.120.124 LEN=72 TOS=0x00 PREC=0x00 TTL=52 ID=59711 PROTO=TCP SPT=55614 DPT=22 WINDOW=16384 RES=0x00 SYN URGP=0
 ```
 
 * check remote port status
