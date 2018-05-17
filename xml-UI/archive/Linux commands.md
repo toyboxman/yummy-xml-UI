@@ -343,16 +343,18 @@ ip addr show br0
 ```
 
 * iptables/firewall
-> [Link](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
+> [Basic](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
 > [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
 > [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
 ```bash
 # 列出防火墙所有规则，按规则号显示
-# --list/-L  List the rules
+# --list/-L  List all the rules
 sudo iptables -L --line-numbers  
+# List INPUT chain rules
+sudo iptables -L INPUT --line-numbers  
 
 # 删除INPUT表的第三条规则
-# --delete/-D  Delete the rules
+# --delete/-D  Delete the third rule in INPUT chain
 sudo iptables -D INPUT 3 
 
 # CentOS iptables 打开端口80 3306 22等 
@@ -397,11 +399,17 @@ iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit \
 ```bash
 # check Range of ports
 nc -zv 127.0.0.1 20-30  
-# check three ports
-nc -zv 127.0.0.1 22 80 8080 
-nc -zv 10.117.7.110 9092
 
+# check three ports 22/80/8080
+nc -zv 127.0.0.1 22 80 8080 
+
+# -z just scan for listening daemons, without sending any data to them
+nc -zv 10.117.7.110 9092
 Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
+
+# -w 设定连接超时5秒
+nc -zv -w 5 10.192.120.124 1235
+nc: connect to 10.192.120.124 port 1235 (tcp) timed out: Operation now in progress
 ```
 * traffic check
 ```bash
