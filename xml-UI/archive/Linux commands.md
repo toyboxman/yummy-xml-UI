@@ -413,8 +413,22 @@ ssh root@10.192.120.124
 ssh: connect to host 10.192.120.124 port 22: Connection refused
 # 按设定前缀搜寻日志
 grep -r 'XXXXX:' /var/log
-/var/log/syslog: ... kernel - - - [771409.900044] XXXXX: IN=eth0 OUT= MAC=02:00:2e:5c:29:4b:8c:60:4f:b7:6e:7c:08:00 SRC=10.117.5.175 DST=10.192.120.124 LEN=72 TOS=0x00 PREC=0x00 TTL=52 ID=59711 PROTO=TCP SPT=55614 DPT=22 WINDOW=16384 RES=0x00 SYN URGP=0 
-/var/log/kern.log: ... kernel - - - [771409.900044] XXXXX: IN=eth0 OUT= MAC=02:00:2e:5c:29:4b:8c:60:4f:b7:6e:7c:08:00 SRC=10.117.5.175 DST=10.192.120.124 LEN=72 TOS=0x00 PREC=0x00 TTL=52 ID=59711 PROTO=TCP SPT=55614 DPT=22 WINDOW=16384 RES=0x00 SYN URGP=0
+/var/log/syslog: ... kernel - - - [771409.900044] XXXXX: 
+IN=eth0 
+OUT= MAC=02:00:2e:5c:29:4b:8c:60:4f:b7:6e:7c:08:00 
+SRC=10.117.5.175 
+DST=10.192.120.124 
+LEN=72 
+TOS=0x00 
+PREC=0x00 
+TTL=52 
+ID=59711 
+PROTO=TCP 
+SPT=55614 
+DPT=22 
+WINDOW=16384 
+RES=0x00 
+SYN URGP=0
 ```
 
 * check remote port status
