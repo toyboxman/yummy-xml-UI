@@ -184,6 +184,11 @@ chown -hR stack filea
 # change group of fileb from current group to stack recursive
 chgrp -hR stack fileb     
 ```
+* list env
+```bash
+env | more
+printenv | less
+```
 * pack or unpack folder or file
 ```bash
 # pack folder1 and folder2 into a.tar
@@ -194,6 +199,14 @@ tar -xvf a.tar
 # pipeline tar&gzip,"-" is a special signal to the tar command to 
 # write to its standard output instead of a file with a name
 tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  
+
+# tar default uses current path instead of absolute path
+# use absolute path will pack whole path in tar package
+tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
+tar: Removing leading `/' from member names
+/usr/lib64/jvm/jre-1.8.0-openjdk
+# -P or --absolute-names allow to use whole path
+tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz 
 ```
 * gzip/(zip/unzip) -- compress or decompress folder or file
 ```bash
