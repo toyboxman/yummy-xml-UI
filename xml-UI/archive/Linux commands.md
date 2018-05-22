@@ -202,9 +202,11 @@ tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz
 
 # tar default uses current path instead of absolute path
 # use absolute path will pack whole path in tar package
+# tar command below will fail
 tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
 tar: Removing leading `/' from member names
 /usr/lib64/jvm/jre-1.8.0-openjdk
+# 
 # -P or --absolute-names allow to use whole path
 tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz 
 ```
