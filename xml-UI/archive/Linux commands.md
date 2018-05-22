@@ -196,7 +196,7 @@ printenv | less
 wget -c --no-cookies \
 --no-check-certificate \
 --header "Cookie: oraclelicense=accept-securebackup-cookie" \
-"http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk-8u171-linux-x64.tar.gz" \
+"http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz" \
 -O jdk-8-linux-x64.tar.gz
 
 # curl download jdk package w/ header
@@ -205,7 +205,7 @@ wget -c --no-cookies \
 # -b / --cookie Same as -H / --header "Cookie: ...", but accepts files too
 # -O Required for curl to save files
 curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
-http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk-8u171-linux-x64.tar.gz
+http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz
 ```
 * pack or unpack folder or file
 ```bash
