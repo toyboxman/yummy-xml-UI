@@ -189,12 +189,37 @@ chgrp -hR stack fileb
 env | more
 printenv | less
 ```
+* download
+```bash
+# wget download jdk package w/ header
+# -c / --continue  Continue getting a partially-downloaded file
+wget -c --no-cookies \
+--no-check-certificate \
+--header "Cookie: oraclelicense=accept-securebackup-cookie" \
+"http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk-8u171-linux-x64.tar.gz" \
+-O jdk-8-linux-x64.tar.gz
+
+# curl download jdk package w/ header
+# -L / --location Required for curl to redirect through all the mirrors
+# -C -/ --continue-at -  See above, curl requires the dash (-) in the end
+# -b / --cookie Same as -H / --header "Cookie: ...", but accepts files too
+# -O Required for curl to save files
+curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
+http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk-8u171-linux-x64.tar.gz
+```
 * pack or unpack folder or file
 ```bash
+# List all files in archive.tar verbosely
+tar -tvf archive.tar
 # pack folder1 and folder2 into a.tar
 tar -cvf a.tar folder1 folder2   
 # unpack a.tar file
-tar -xvf a.tar  
+tar -xvf a.tar
+
+# pack and zip a tar.gz file
+tar -czvf a.tar.gz folder1 folder2   
+# unzip and unpack a tar.gz file
+tar -xzvf jdk-8-linux-x64.tar.gz
 
 # pipeline tar&gzip,"-" is a special signal to the tar command to 
 # write to its standard output instead of a file with a name
