@@ -2,7 +2,7 @@
 
 ## JDK operations
 
-### 1.运行错误处理
+### 运行错误处理
 遇到过linux上面JDK启动失败错误
 ```bash
 #download jdk8 package
@@ -36,4 +36,17 @@ java version "1.8.0_171"
 Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
 ```
-### 2.使用参数
+### 使用命令
+- jps 查看当前jvm实例
+```bash 
+ >jps
+4048 Jps
+9653 RemoteMavenServer
+9578 Main
+
+> jps -l
+9653 org.jetbrains.idea.maven.server.RemoteMavenServer
+4070 sun.tools.jps.Jps
+9578 com.intellij.idea.Main
+
+```
