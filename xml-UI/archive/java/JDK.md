@@ -3,7 +3,7 @@
 ## JDK operations
 
 ### 运行错误处理
-遇到过linux上面JDK启动失败错误
+####Operation not permitted
 ```bash
 #download jdk8 package
 wget -c --no-cookies \
@@ -36,17 +36,46 @@ java version "1.8.0_171"
 Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
 ```
+####Unable to deduce type of thread
+```bash 
+> jstack -l -F 26191
+Attaching to process ID 26191, please wait...
+Debugger attached successfully.
+Server compiler detected.
+JVM version is 25.171-b11
+Deadlock Detection:
+
+java.lang.RuntimeException: Unable to deduce type of thread from address...
+```
+这个错误提示不明确，实际上是由于执行jstack的user和java process的owner不一致
+```bash 
+
+```
+
 ### 使用命令
 #### jps 查看当前jvm实例
 ```bash 
- >jps
+ > jps
 4048 Jps
 9653 RemoteMavenServer
 9578 Main
 
-> jps -l
+> jps -lv
 9653 org.jetbrains.idea.maven.server.RemoteMavenServer
 4070 sun.tools.jps.Jps
 9578 com.intellij.idea.Main
-
+```
+#### jstack 查看当前stack信息
+```bash 
+#connect to running process
+#-m to print both java and native frames (mixed mode)
+#-l  long listing. Prints additional information about locks
+> jstack -l 2555
+#connect to a hung process
+#-F to force a thread dump. Use when jstack <pid> does not respond (process is hung)
+> jstack -F -l 2566 > stack.txt
+#connect to a core file
+#create coredump for java process
+> kill -3 2577       
+> jstack -m -l /usr/bin/java core.dump
 ```

@@ -96,11 +96,6 @@ dhclient eth0
 ```bash
 route -n
 ```
-* see all user list
-```bash
-awk -F':' '{print $1}' /etc/passwd
-```
-
 #### usual command
 * search a file by some condition
 ```bash
@@ -168,21 +163,6 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} +
 
 # show less detailed information
 find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
-```
-* change permission of files 
-```bash
-# ugoa(owner,group,others, all users) rwx(4,2,1)
-chmod ugoa+rwx file == chmod 7777 file
-```
-* change owner of files or folders
-```bash
-# change filea owner from current user to stack recursive
-chown -hR stack filea    
-```
-* change group of files
-```bash
-# change group of fileb from current group to stack recursive
-chgrp -hR stack fileb     
 ```
 * list env
 ```bash
@@ -285,13 +265,6 @@ umount -fv /home/king/tor
 # filesystem as soon as it is not busy anymore.
 umount -lv /home/king/tor 
 ```
-* chsh -- change default shell in login
-```bash
-# change default shell command to bash
-chsh -s /bin/bash 
-# which is current default shell
-which sh 
-```
 * command1; command2; command3 -- batch execute command
 ```bash
 vncserver -kill :1; vncserver
@@ -319,6 +292,52 @@ id test
 usermod -g root  test  
 # put test user into root and test groups
 usermod -G root,test  test  
+```
+* see all user list
+```bash
+#list users
+awk -F':' '{print $1}' /etc/passwd
+#count user number
+cat /etc/passwd | wc -l
+
+#The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
+#for user¡¯s account with additional properties related to user password
+cat /etc/shadow | wc -l
+```
+* change permission of files 
+```bash
+# ugoa(owner,group,others, all users) rwx(4,2,1)
+chmod ugoa+rwx file == chmod 7777 file
+```
+* change owner of files or folders
+```bash
+# change filea owner from current user to stack recursive
+chown -hR stack filea    
+```
+* change group of files
+```bash
+# change group of fileb from current group to stack recursive
+chgrp -hR stack fileb     
+```
+* chsh -- change default shell in login
+```bash
+# change default shell command to bash
+chsh -s /bin/bash 
+# which is current default shell
+which sh 
+
+#"This account is currently not available" error means what is says
+#The account you are trying to ¡°su¡± to or trying to login with is 
+#currently not available because there is no valid shell set for this user
+> su mysql
+This account is currently not available.
+> cat /etc/passwd | grep mysql*
+mysql:x:500:500::/home/mysql:/sbin/nologin
+mysqld:x:501:501::/home/mysqld:/bin/false
+> chsh -s /bin/bash mysql
+> chsh -s /bin/bash mysqld
+> cat /etc/passwd | grep mysql
+mysql:x:500:500::/home/mysql:/bin/bash
 ```
 * system setting
 ```bash
