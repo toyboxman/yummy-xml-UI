@@ -37,8 +37,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
 ```
 ### 使用命令
-
-	## jps 查看当前jvm实例
+#### jps 查看当前jvm实例
 ```bash 
  >jps
 4048 Jps
