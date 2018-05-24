@@ -5,7 +5,7 @@
 	- [Operation not permitted](#operation-not-permitted)
 	- [Unable to open socket file](#unable-to-open-socket-file)
 	- [cannot open shared object file](#cannot-open-shared-object-file)
-	- [Can't attach to the process: ptrace](#cant-attach-to-the-process:-ptrace)
+	- [Can't attach to the process: ptrace](#cant-attach-to-the-process-ptrace)
 - [命令使用](#使用命令)
 	- [jps](#jps)
 	- [jstack](#jstack)
@@ -227,5 +227,6 @@ java.vm.version = 1.6.0-rc-b100
 #查看dump文件中信息
 > jinfo $JAVA_HOME/bin/java core.29620
 ```
-
+tee
 jstat	
+greys
