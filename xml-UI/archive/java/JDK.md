@@ -64,6 +64,24 @@ java.lang.RuntimeException: Unable to deduce type of thread from address...
 > ps -ef | grep 26191
 > sudo -u owner jstack -l 26191
 ```
+如果出现lib找不到, 文件目录不存在，按照下面处理排除错误
+#### error while loading shared libraries, cannot open shared object file, No such file or directory
+```bash 
+> sudo -u owner jstack -l 26191> ls -al /
+drwx------   7 root root     4096 May 24 06:10 root
+./jstack: error while loading shared libraries: libjli.so: cannot open shared object file: No such file or directory
+```
+这种错误实际上是由于当前目录执行权限不足造成
+```bash 
+#查看执行路径权限
+> pwd
+/root/jdk/bin
+#由于非root用户无法访问操作,需要给owner用户操作权限
+> chmod 777 /root
+# 成功将进程栈信息dump到文件中
+> sudo -u owner jstack -l 26191 > stack.log
+```
+
 ### 使用命令
 #### jps 查看当前jvm实例
 ```bash 
