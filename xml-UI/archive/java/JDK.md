@@ -5,9 +5,12 @@
 	- [Operation not permitted](#operation-not-permitted)
 	- [Unable to open socket file](#unable-to-open-socket-file)
 	- [cannot open shared object file](#cannot-open-shared-object-file)
+	- [Can't attach to the process: ptrace](#can't-attach-to-the-process:-ptrace)
 - [命令使用](#使用命令)
 	- [jps](#jps)
 	- [jstack](#jstack)
+	- [jmap](#jmap)
+	- [jinfo](#jinfo)
 
 ***
 
@@ -90,8 +93,26 @@ drwx------   7 root root     4096 May 24 06:10 root
 # 成功将进程栈信息dump到文件中
 > sudo -u owner jstack -l 26191 > stack.log
 ```
+#### Can't attach to the process: ptrace
+```bash 
+sudo -u nsx ./jmap 1180    
+Attaching to process ID 1180, please wait...
+Error attaching to process: sun.jvm.hotspot.debugger.DebuggerException: Can't attach to the process: ptrace(PTRACE_ATTACH, ..)...
+```
+这种错误是由于系统ptrace(process trace)没有设定成调试模式
+```bash 
+#临时修改方案是将内核变量修改,重启后会失效
+#不过有些系统并无此文件/proc/sys/kernel/yama/ptrace_scope
+$ echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
 
-### 使用命令
+#永久修改方案是将ptrace的开关打开
+$ sudo vi /etc/sysctl.d/10-ptrace.conf
+#将ptrace_scope值改成0
+#重启系统
+kernel.yama.ptrace_scope = 0
+```
+
+### 命令
 #### jps
 ```bash 
 #查看当前jvm实例
@@ -120,3 +141,91 @@ drwx------   7 root root     4096 May 24 06:10 root
 > kill -3 2577       
 > jstack -m -l /usr/bin/java core.dump
 ```
+#### jmap
+```bash 
+#dump当前堆信息
+# -dump:<dump-options> to dump java heap in hprof binary format
+#		<dump-options>
+#   			live     dump only live objects; if not specified,
+#							all objects in the heap are dumped.
+#				format=b     binary format
+#				file=<file>  dump heap to <file>
+#
+> sudo -u owner ./jmap -dump:live,format=b,file=heap.bin 1180
+# dump出来的bin文件可以用jvisualvm打开 也可以用jhat打开
+# jhat会启动一个web服务,不过jvisualvm可视化分析更好
+> ./jhat heap.bin  
+Reading from heap.bin...
+Dump file created Thu May 24 07:13:03 UTC 2018
+Snapshot read, resolving...
+Resolving 502948 objects...
+Chasing references, expect 100 dots....................................................................................................
+Eliminating duplicate references....................................................................................................
+Snapshot resolved.
+Started HTTP server on port 7000
+Server is ready
+
+
+#查看当前堆信息
+#print same info as Solaris pmap
+#-F      force. Use with -dump:<dump-options> <pid> or -histo
+#          to force a heap dump or histogram when <pid> does not respond
+#-J<flag>    pass <flag> directly to the runtime system
+#-clstats      print class loader statistics
+#-finalizerinfo    print information on objects awaiting finalization
+> ./jmap 1409
+...
+0x0000000000200000      2052K   /usr/java/jre1.8.0_171/bin/java
+0x000075f78277d000      87K     /lib/x86_64-linux-gnu/libgcc_s.so.1
+...
+
+#-heap  print java heap summary
+> ./jmap -heap 1409            
+...
+using thread-local object allocation.
+Garbage-First (G1) GC with 2 thread(s)
+
+Heap Configuration:
+   MinHeapFreeRatio         = 40
+   MaxHeapFreeRatio         = 70
+   MaxHeapSize              = 12884901888 (12288.0MB)
+   NewSize                  = 1363144 (1.2999954223632812MB)
+   MaxNewSize               = 7730102272 (7372.0MB)
+   OldSize                  = 5452592 (5.1999969482421875MB)
+   NewRatio                 = 2
+   SurvivorRatio            = 8
+   MetaspaceSize            = 21807104 (20.796875MB)
+   CompressedClassSpaceSize = 1073741824 (1024.0MB)
+   MaxMetaspaceSize         = 17592186044415 MB
+   G1HeapRegionSize         = 2097152 (2.0MB)
+...
+
+# -histo:live    print histogram of java object heap; if the "live"
+#                      suboption is specified, only count live objects
+> sudo -u nsx ./jmap -histo 1409 | less
+num     #instances         #bytes  class name
+----------------------------------------------
+   1:        142153       85660576  [B
+   2:         50612       32093784  [I
+   3:        250895       26593720  [C
+   4:        246006        7872192  java.util.HashMap$Node
+   5:        101489        5630888  [Ljava.lang.Object;
+   6:         62718        4607936  [Ljava.util.HashMap$Node;
+...  
+```
+#### jinfo
+```bash 
+#查看当前jvm实例的信息
+ > jinfo 29620
+...
+Java System Properties:
+
+java.runtime.name = Java(TM) SE Runtime Environment
+sun.boot.library.path = /usr/jdk/instances/jdk1.6.0/jre/lib/sparc
+java.vm.version = 1.6.0-rc-b100
+...
+#查看dump文件中信息
+> jinfo $JAVA_HOME/bin/java core.29620
+```
+
+jstat	
