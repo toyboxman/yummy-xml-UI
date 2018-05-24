@@ -311,13 +311,13 @@ chmod ugoa+rwx file == chmod 7777 file
 ```
 * change owner of files or folders
 ```bash
-# change filea owner from current user to stack recursive
-chown -hR stack filea    
+# change folder owner to user stack recursive
+chown -hR stack folder/    
 ```
 * change group of files
 ```bash
-# change group of fileb from current group to stack recursive
-chgrp -hR stack fileb     
+# change group of folder to root group recursive
+chgrp -hR root folder/     
 ```
 * chsh -- change default shell in login
 ```bash
