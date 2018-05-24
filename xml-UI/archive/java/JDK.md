@@ -1,6 +1,15 @@
 ***
 
 ## JDK operations
+- [错误处理](#运行错误处理)
+	- [Operation not permitted](#operation-not-permitted)
+	- [Unable to open socket file](#unable-to-open-socket-file)
+	- [cannot open shared object file](#cannot-open-shared-object-file)
+- [命令使用](#使用命令)
+	- [jps](#jps)
+	- [jstack](#jstack)
+
+***
 
 ### 运行错误处理
 #### Operation not permitted
@@ -65,7 +74,7 @@ java.lang.RuntimeException: Unable to deduce type of thread from address...
 > sudo -u owner jstack -l 26191
 ```
 如果出现lib找不到, 文件目录不存在，按照下面处理排除错误
-#### error while loading shared libraries, cannot open shared object file, No such file or directory
+#### cannot open shared object file
 ```bash 
 > sudo -u owner jstack -l 26191> ls -al /
 drwx------   7 root root     4096 May 24 06:10 root
@@ -83,8 +92,9 @@ drwx------   7 root root     4096 May 24 06:10 root
 ```
 
 ### 使用命令
-#### jps 查看当前jvm实例
+#### jps
 ```bash 
+#查看当前jvm实例
  > jps
 4048 Jps
 9653 RemoteMavenServer
@@ -95,8 +105,9 @@ drwx------   7 root root     4096 May 24 06:10 root
 4070 sun.tools.jps.Jps
 9578 com.intellij.idea.Main
 ```
-#### jstack 查看当前stack信息
+#### jstack
 ```bash 
+#查看当前stack信息
 #connect to running process
 #-m to print both java and native frames (mixed mode)
 #-l  long listing. Prints additional information about locks
