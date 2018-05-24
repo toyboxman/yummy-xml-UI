@@ -5,7 +5,7 @@
 	- [Operation not permitted](#operation-not-permitted)
 	- [Unable to open socket file](#unable-to-open-socket-file)
 	- [cannot open shared object file](#cannot-open-shared-object-file)
-	- [Can't attach to the process: ptrace](#can't-attach-to-the-process:-ptrace)
+	- [Can't attach to the process: ptrace](#cant-attach-to-the-process:-ptrace)
 - [命令使用](#使用命令)
 	- [jps](#jps)
 	- [jstack](#jstack)
