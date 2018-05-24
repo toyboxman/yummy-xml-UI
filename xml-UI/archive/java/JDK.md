@@ -3,7 +3,7 @@
 ## JDK operations
 
 ### 运行错误处理
-####Operation not permitted
+#### Operation not permitted
 ```bash
 #download jdk8 package
 wget -c --no-cookies \
@@ -36,9 +36,20 @@ java version "1.8.0_171"
 Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
 ```
-####Unable to deduce type of thread
+#### Unable to open socket file
 ```bash 
-> jstack -l -F 26191
+> jstack -l 2554
+2554: Unable to open socket file: target process not responding or HotSpot VM not loaded
+The -F option can be used when the target process is not responding
+```
+这个错误可能是目标process hung住,可以强制dump thread信息
+```bash 
+> jstack -l -F 2554
+```
+如果出现deduce type错误则按照下面错误处理方式去排除
+#### Unable to deduce type of thread
+```bash 
+> jstack -l 26191
 Attaching to process ID 26191, please wait...
 Debugger attached successfully.
 Server compiler detected.
@@ -49,9 +60,10 @@ java.lang.RuntimeException: Unable to deduce type of thread from address...
 ```
 这个错误提示不明确，实际上是由于执行jstack的user和java process的owner不一致
 ```bash 
-
+#查看26191进程的owner
+> ps -ef | grep 26191
+> sudo -u owner jstack -l 26191
 ```
-
 ### 使用命令
 #### jps 查看当前jvm实例
 ```bash 
