@@ -11,6 +11,7 @@
 	- [jstack](#jstack)
 	- [jmap](#jmap)
 	- [jinfo](#jinfo)
+	- [jstat](#jstat)
 
 ***
 
@@ -147,7 +148,7 @@ kernel.yama.ptrace_scope = 0
 # -dump:<dump-options> to dump java heap in hprof binary format
 #		<dump-options>
 #   			live     dump only live objects; if not specified,
-#							all objects in the heap are dumped.
+#							<br>all objects in the heap are dumped.
 #				format=b     binary format
 #				file=<file>  dump heap to <file>
 #
@@ -227,6 +228,41 @@ java.vm.version = 1.6.0-rc-b100
 #查看dump文件中信息
 > jinfo $JAVA_HOME/bin/java core.29620
 ```
+#### jstat
+```bash 
+#查看及诊断当前jvm实例的性能问题
+#Samples for Generation Collection
+> jstat -gcutil 2834 250 7
+  S0     S1     E      O      M     YGC     YGCT    FGC    FGCT     GCT   
+  0.00  99.74  13.49   7.86  95.82      3    0.124     0    0.000    0.124
+  0.00  99.74  13.49   7.86  95.82      3    0.124     0    0.000    0.124
+  ...
+  
+#Samples for Young Generation Collection
+> jstat -gcnew -h3 2834 250
+S0C    S1C    S0U    S1U   TT MTT  DSS      EC       EU     YGC     YGCT  
+ 192.0  192.0    0.0    0.0 15  15   96.0   1984.0    942.0    218    1.999
+ 192.0  192.0    0.0    0.0 15  15   96.0   1984.0   1024.8    218    1.999
+ 192.0  192.0    0.0    0.0 15  15   96.0   1984.0   1068.1    218    1.999
+ S0C    S1C    S0U    S1U   TT MTT  DSS      EC       EU     YGC     YGCT  
+ 192.0  192.0    0.0    0.0 15  15   96.0   1984.0   1109.0    218    1.999
+ 192.0  192.0    0.0  103.2  1  15   96.0   1984.0      0.0    219    2.019
+ 192.0  192.0    0.0  103.2  1  15   96.0   1984.0     71.6    219    2.019
+ S0C    S1C    S0U    S1U   TT MTT  DSS      EC       EU     YGC     YGCT  
+ 192.0  192.0    0.0  103.2  1  15   96.0   1984.0     73.7    219    2.019
+ 192.0  192.0    0.0  103.2  1  15   96.0   1984.0     78.0    219    2.019
+ 192.0  192.0    0.0  103.2  1  15   96.0   1984.0    116.1    219    2.019
+
+#Samples for Old Generation Capacity 
+> jstat -gcoldcapacity -t 21891 250 3
+Timestamp    OGCMN     OGCMX       OGC        OC   YGC   FGC     FGCT     GCT
+    150.1   1408.0   60544.0   11696.0   11696.0   194    80    2.874   3.799
+    150.4   1408.0   60544.0   13820.0   13820.0   194    81    2.938   3.863
+    150.7   1408.0   60544.0   13820.0   13820.0   194    81    2.938   3.863
+
+#options supports
+> jstat -options	
+```
 tee
-jstat	
+	
 greys
