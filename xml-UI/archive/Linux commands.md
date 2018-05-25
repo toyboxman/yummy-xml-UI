@@ -808,6 +808,18 @@ read -a topic <<< "1 2 3";echo $topic[2]
 1[2]
 ```
 
+* tee
+```bash
+#read from standard input and write to standard output and files
+> echo 123 | tee a.log
+> cat a.log
+123
+> echo 456 | tee -a a.log
+> cat a.log
+123
+456
+```
+
 ---
 
 #### kill process
