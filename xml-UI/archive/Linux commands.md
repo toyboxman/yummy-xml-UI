@@ -322,9 +322,9 @@ chgrp -hR root folder/
 * chsh -- change default shell in login
 ```bash
 # change default shell command to bash
-chsh -s /bin/bash 
+> chsh -s /bin/bash 
 # which is current default shell
-which sh 
+> which sh 
 
 #"This account is currently not available" error means what is says
 #The account you are trying to ¡°su¡± to or trying to login with is 

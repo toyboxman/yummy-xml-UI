@@ -263,6 +263,5 @@ Timestamp    OGCMN     OGCMX       OGC        OC   YGC   FGC     FGCT     GCT
 #options supports
 > jstat -options	
 ```
-tee
-	
+
 greys
