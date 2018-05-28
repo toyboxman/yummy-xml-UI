@@ -85,6 +85,7 @@ kill -9 $eclipse_pid
 > [括号中比较](http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash)  
 <br>
 在脚本中使用中括号来进行变量逻辑运算时候，[]与[[]]有一些共性规则，也存在一些差异，主要如下
+
 * 相同规则
 	1. 括号左右两端与变量都要有空格分隔，如 if [[ "$a" > "$b" ]], if [ "$a" \> "$b" ]
 	2. 内部操作符与操作变量之间要有空格：如 if [ "$a" = "$b" ]
