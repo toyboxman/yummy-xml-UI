@@ -231,6 +231,7 @@ gzip -dv < bankApp.tar.gz | tar xvf -
 * monitor port status
 ```bash
 netstat -tlnpu
+netstat -anp|grep LIST
 ```
 * no hangup task
 ```bash
