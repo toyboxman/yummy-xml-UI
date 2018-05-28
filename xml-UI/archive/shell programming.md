@@ -81,6 +81,8 @@ kill -9 $eclipse_pid
 > [AWK-baike](http://baike.baidu.com/view/209681.htm)
 
 ### ()括号 (())双括号 []中括号 [[]]双中括号
+> [括号区别](http://www.linfengyushu.com/269.html/)   
+> [括号中比较](http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash)  
 在脚本中使用中括号来进行变量逻辑运算时候，[]与[[]]有一些共性规则，也存在一些差异，主要如下
 * 相同规则
 	1. 括号左右两端与变量都要有空格分隔，如 if [[ "$a" > "$b" ]], if [ "$a" \> "$b" ]
@@ -89,33 +91,36 @@ kill -9 $eclipse_pid
 
 * 单中括号 [ ]
 	1. 进行字符串比较时，> < 需要写成\>, \< 进行转义
-	5. [] 中可以使用 -e 进行逻辑运算
-	6. [] are bash Builtins
+	5. [] 中可以使用-a -o进行逻辑运算
+	6. [] is bash Builtins, POSIX
 
 * 双中括号 [[]]
 	1. 字符串比较中，可以直接使用 > < 无需转义
-	5. [[ ]] 内部可以使用 && || 进行逻辑运算
-	6. [[ ]] are bash Keywords
+	5. [[ ]] 内部可以使用 && || 等进行逻辑运算
+	6. [[ ]] is bash Keywords, a Bash extension
 
 在不同平台使用中括号时可能遇到问题。例如在ubuntu下使用[[ ]] 时，可能会报 “ [[: not found ”
 这是因为 ubuntu 默认是用dash, 而不是bash, 可以使用 sudo bash xxxx.sh 执行脚本即可。
+> [小括号区别](http://justcoding.iteye.com/blog/2252338)   
+* 单括号 ()
+	1. 对一段比较长的命令进行合并,单括号中的命令用-0或-a来进行衔接
 
-单括号是对一段比较长的命令进行合并，单括号中的命令用-0或-a来进行衔接；是不是非常简单？
+* 双括号 (())
+	1. 涉及变量引用的话,$((命令))=命令,双括号可以在数值计算中引用
+	
+* 单引号 ''
+	1. 仅能是一般字符 ，而不会有特殊符号。不会将引号内的内容像变量一类的进行转换
 
- 双中括号就复杂多了，一半而言，涉及变量引用的话，$((命令))=命令 ，双括号可以在数值计算中引用，只要大家牢记上述基本的‘公式’。
-
-  好了，这里再给大家介绍一下双引号和单引号的区别，像之前老师说的，单引号与双引号的最大不同在于双引号仍然可以保有变量的内容，但单引号内仅能是一般字符 ，而不会有特殊符号。所以说单引号比较笨一点，它不会将引号内的内容像变量一类的进行转换，举个例子：用echo显示变量：
-
- export filename=GG
-
- echo "$filename"=GG
-
- echo ' $filename'=$filename
-
-http://www.linfengyushu.com/269.html/
-https://blog.csdn.net/claytonzeng/article/details/10267225
-http://justcoding.iteye.com/blog/2252338
-http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash
+* 双引号 ""
+	1. 引用时可以保有变量的内容
+```bash
+export filename=AAA
+echo "$filename"=BBB
+echo '$filename'=$filename
+#output
+AAA=BBB
+$filename=AAA
+```
 
 ### 数值比较
 ```bash
