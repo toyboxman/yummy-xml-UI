@@ -8,6 +8,10 @@
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 </node>
+<node COLOR="#0033ff" CREATED="1341825951480" ID="ID_160887175" LINK="http://www.infoworld.com/d/adventures-in-it/it-survivor-7-tips-career-growth-in-tight-times-726" MODIFIED="1527663980284" POSITION="right" TEXT="career growth">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+</node>
 <node COLOR="#0033ff" CREATED="1423460971291" ID="ID_1664439667" LINK="http://en.wikipedia.org/wiki/SWOT_analysis" MODIFIED="1515984601875" POSITION="right" TEXT="SWOT Analysis">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
@@ -20,22 +24,14 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1331541867989" ID="ID_1884619748" LINK="http://support.mozilla.org/en-US/kb/Keyboard%20shortcuts?s=shortcut&amp;r=1&amp;e=sph&amp;as=s" MODIFIED="1411613271856" POSITION="left" TEXT="Firefox shortcut">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
 <node COLOR="#0033ff" CREATED="1334813997984" ID="ID_159237567" LINK="http://en.wikipedia.org/wiki/List_of_portable_software" MODIFIED="1515984629227" POSITION="right" TEXT="portable software">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
-<node COLOR="#0033ff" CREATED="1341825951480" ID="ID_160887175" LINK="http://www.infoworld.com/d/adventures-in-it/it-survivor-7-tips-career-growth-in-tight-times-726" MODIFIED="1515985087923" POSITION="left" TEXT="career growth">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 </node>
 <node COLOR="#0033ff" CREATED="1393468759407" ID="ID_365513406" LINK="F:\DEV\tech-training\Programming" MODIFIED="1525680894326" POSITION="left" TEXT="Programming">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1331111567511" ID="ID_927233730" MODIFIED="1411613271918" TEXT="Algorithm">
+<node COLOR="#00b439" CREATED="1331111567511" FOLDED="true" ID="ID_927233730" MODIFIED="1527664028330" TEXT="Algorithm">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1336981780745" ID="ID_1485894456" LINK="http://introcs.cs.princeton.edu" MODIFIED="1411613271918" TEXT="Introduction">
@@ -59,39 +55,58 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-</node>
-<node COLOR="#0033ff" CREATED="1411612688587" ID="ID_622137093" LINK="C:\king\document\document\vmware.mm" MODIFIED="1515984586091" POSITION="right" TEXT="vmware">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
-<node COLOR="#0033ff" CREATED="1414038116415" ID="ID_428207164" LINK="E:\dev\tech-doc" MODIFIED="1525851651810" POSITION="right" TEXT="Tech Doc">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1422262900650" ID="ID_845361524" LINK="../../../../G:/king/VMware.vcp550.266Q.pdf" MODIFIED="1422262926137" TEXT="VCP certificate">
+<node COLOR="#00b439" CREATED="1433136997346" ID="ID_364691355" MODIFIED="1527663917165" TEXT="Java">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1422263009038" ID="ID_312610221" LINK="G:\king\storage" MODIFIED="1422263057372" TEXT="SDStorage">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1422263077780" ID="ID_1735642620" LINK="G:\king\programming language" MODIFIED="1422263095419" TEXT="Programming">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1419822171603" ID="ID_837910254" MODIFIED="1422263102574" TEXT="Git">
+<node COLOR="#990000" CREATED="1335256192912" FOLDED="true" ID="ID_186029309" LINK="http://en.wikipedia.org/wiki/Category:Java_development_tools" MODIFIED="1527663744023" TEXT="Dev tools">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#111111" CREATED="1419822269003" ID="ID_1969969827" LINK="http://blog.sina.com.cn/s/blog_46d0362d0102uyad.html" MODIFIED="1422263102575" TEXT="My notes">
+<node COLOR="#111111" CREATED="1335256204332" ID="ID_1218897033" LINK="http://en.wikipedia.org/wiki/General_Architecture_for_Text_Engineering" MODIFIED="1527663596548" TEXT="Language process engine">
+<edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1419822203174" ID="ID_268005054" LINK="../../../../G:/king/programming%20language/OReilly.Version.Control.With.Git.May.2009.RET.pdf" MODIFIED="1422263102575" TEXT="OReilly Git Guide">
+<node COLOR="#111111" CREATED="1335256497770" ID="ID_236375354" LINK="http://logging.apache.org/chainsaw/" MODIFIED="1527663596548" TEXT="log inspect">
+<edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1419822175169" ID="ID_906956608" LINK="../../../../G:/king/programming%20language/Git%20Community%20Book%20&#x4e2d;&#x6587;&#x7248;.pdf" MODIFIED="1422263102576" TEXT="Community Book">
+<node COLOR="#111111" CREATED="1335256785593" ID="ID_45662837" LINK="http://ispras.linuxbase.org/index.php/Java_API_Compliance_Checker" MODIFIED="1527663596548" TEXT="Java API Compliance Checker">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1335256984055" ID="ID_1414849204" LINK="http://en.wikipedia.org/wiki/JRipples" MODIFIED="1527663596548" TEXT="change impact analysis tool">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1335257493171" ID="ID_995119294" LINK="http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects" MODIFIED="1527663596548" TEXT="List of Apache Software">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1335257700690" ID="ID_1602201701" LINK="http://en.wikipedia.org/wiki/List_of_Eclipse_projects" MODIFIED="1527663596548" TEXT="List of Eclipse projects">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1335257745666" ID="ID_1720059688" LINK="http://en.wikipedia.org/wiki/List_of_JBoss_software" MODIFIED="1527663596548" TEXT="List of JBoss software">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1335257868065" ID="ID_576488100" LINK="http://en.wikipedia.org/wiki/Google_Plugin_for_Eclipse" MODIFIED="1527663596548" TEXT="Google Plugin for Eclipse">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1413858897972" ID="ID_1914496444" MODIFIED="1527663596548" TEXT="Opensource RIA Apache pivotal">
+<edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#990000" CREATED="1414038128123" ID="ID_575752651" LINK="../../../../G:/king/programming%20language/Java%20NIO.pdf" MODIFIED="1422263104877" TEXT="NIO">
+<node COLOR="#990000" CREATED="1433137057509" ID="ID_1728610832" LINK="http://en.wikipedia.org/wiki/Category:Java_platform" MODIFIED="1527663624908" TEXT="Platform">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1433137096749" ID="ID_319724120" LINK="http://en.wikipedia.org/wiki/Category:Java_platform_software" MODIFIED="1527663624908" TEXT="platform software">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1433137125589" ID="ID_1917369804" LINK="http://en.wikipedia.org/wiki/Category:Java_programming_language_family" MODIFIED="1527663624908" TEXT="language family">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
@@ -99,18 +114,14 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node COLOR="#990000" CREATED="1425537963827" ID="ID_344558156" LINK="../../../../G:/king/programming%20language/O&apos;Reilly%20-%20Java%20IO.pdf" MODIFIED="1425537975674" TEXT="IO">
-<font NAME="SansSerif" SIZE="14"/>
-</node>
 <node COLOR="#990000" CREATED="1433137241129" ID="ID_1878715608" LINK="http://www.luaj.org/luaj/3.0/README.html" MODIFIED="1433137333619" TEXT="LuaJ">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
+<node COLOR="#990000" CREATED="1527663920913" ID="ID_336329973" LINK="http://www.javapractices.com/home/HomeAction.do" MODIFIED="1527663940683" TEXT="practice">
+<font NAME="SansSerif" SIZE="14"/>
 </node>
-<node COLOR="#00b439" CREATED="1422263137283" ID="ID_885132027" LINK="G:\king\networks" MODIFIED="1422263154312" TEXT="networking">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1505703110968" ID="ID_1196948541" MODIFIED="1505703114028" TEXT="web">
+<node COLOR="#00b439" CREATED="1505703110968" FOLDED="true" ID="ID_1196948541" MODIFIED="1527663890550" TEXT="web">
 <edge STYLE="bezier" WIDTH="thin"/>
 <node COLOR="#990000" CREATED="1505703119678" ID="ID_1124745693" LINK="https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx.html" MODIFIED="1505703131426" TEXT="Nginx">
 <font NAME="SansSerif" SIZE="14"/>
@@ -122,7 +133,7 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1515984756415" ID="ID_276036334" MODIFIED="1515984760427" TEXT="security">
+<node COLOR="#00b439" CREATED="1515984756415" FOLDED="true" ID="ID_276036334" MODIFIED="1527663891719" TEXT="security">
 <edge STYLE="bezier" WIDTH="thin"/>
 <node COLOR="#990000" CREATED="1515984762095" ID="ID_226975596" LINK="https://en.wikipedia.org/wiki/X.509#Certificate_filename_extensions" MODIFIED="1515984853445" TEXT="X.509">
 <font NAME="SansSerif" SIZE="14"/>
@@ -136,7 +147,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#990000" CREATED="1515994258818" ID="ID_1417948261" LINK="https://security.stackexchange.com/questions/1824/is-ssl-key-generation-client-side-server-side-or-both" MODIFIED="1515994283063" TEXT="TLS exchange keys">
+<node COLOR="#990000" CREATED="1515994258818" FOLDED="true" ID="ID_1417948261" LINK="https://security.stackexchange.com/questions/1824/is-ssl-key-generation-client-side-server-side-or-both" MODIFIED="1527663883842" TEXT="TLS exchange keys">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1515994309796" ID="ID_1854850416" MODIFIED="1515994345708" TEXT="session key">
 <font NAME="SansSerif" SIZE="12"/>
@@ -148,7 +159,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#990000" CREATED="1515996583072" ID="ID_1006487207" LINK="https://stackoverflow.com/questions/8985685/difference-between-keystore-file-and-jks-file" MODIFIED="1515996652564" TEXT="keystore">
+<node COLOR="#990000" CREATED="1515996583072" FOLDED="true" ID="ID_1006487207" LINK="https://stackoverflow.com/questions/8985685/difference-between-keystore-file-and-jks-file" MODIFIED="1527663885039" TEXT="keystore">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1515996620390" ID="ID_601259541" MODIFIED="1515996622193" TEXT="keystore is a container of certificates, private keys etc">
 <font NAME="SansSerif" SIZE="12"/>
@@ -161,8 +172,25 @@
 </node>
 </node>
 </node>
+<node COLOR="#00b439" CREATED="1419822171603" FOLDED="true" ID="ID_837910254" MODIFIED="1527663888109" TEXT="Git">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1419822269003" ID="ID_1969969827" LINK="http://blog.sina.com.cn/s/blog_46d0362d0102uyad.html" MODIFIED="1527663818841" TEXT="My notes">
+<font NAME="SansSerif" SIZE="14"/>
 </node>
-<node COLOR="#0033ff" CREATED="1415958374736" ID="ID_337449598" LINK="http://blog.sina.com.cn/s/blog_46d0362d0101alfc.html" MODIFIED="1515984702010" POSITION="right">
+<node COLOR="#990000" CREATED="1419822203174" ID="ID_268005054" LINK="../../../../G:/king/programming%20language/OReilly.Version.Control.With.Git.May.2009.RET.pdf" MODIFIED="1527663818841" TEXT="OReilly Git Guide">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1419822175169" ID="ID_906956608" LINK="../../../../G:/king/programming%20language/Git%20Community%20Book%20&#x4e2d;&#x6587;&#x7248;.pdf" MODIFIED="1527663818841" TEXT="Community Book">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1411612688587" ID="ID_622137093" LINK="C:\king\document\document\vmware.mm" MODIFIED="1515984586091" POSITION="right" TEXT="vmware">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+</node>
+<node COLOR="#0033ff" CREATED="1415958374736" FOLDED="true" ID="ID_337449598" LINK="http://blog.sina.com.cn/s/blog_46d0362d0101alfc.html" MODIFIED="1527663853467" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -190,6 +218,10 @@
 <node COLOR="#00b439" CREATED="1523926939434" ID="ID_599435853" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/shell%20programming.md" MODIFIED="1523926955454" TEXT="Shell">
 <edge STYLE="bezier" WIDTH="thin"/>
 </node>
+</node>
+<node COLOR="#0033ff" CREATED="1503041607773" ID="ID_1290727593" LINK="https://a16z.com/tech-topics/" MODIFIED="1527664003241" POSITION="right" TEXT="a16z">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
 </node>
 <node COLOR="#0033ff" CREATED="1504572924168" FOLDED="true" ID="ID_1227640010" MODIFIED="1519352023022" POSITION="right" TEXT="video">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
@@ -232,70 +264,6 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-</node>
-<node COLOR="#0033ff" CREATED="1433136997346" FOLDED="true" ID="ID_364691355" MODIFIED="1526547496506" POSITION="left" TEXT="Java Category">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1335256192912" ID="ID_186029309" LINK="http://en.wikipedia.org/wiki/Category:Java_development_tools" MODIFIED="1433137047919" TEXT="Dev tools">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1335256204332" ID="ID_1218897033" LINK="http://en.wikipedia.org/wiki/General_Architecture_for_Text_Engineering" MODIFIED="1433137015129" TEXT="Language process engine">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1335256497770" ID="ID_236375354" LINK="http://logging.apache.org/chainsaw/" MODIFIED="1433137015129" TEXT="log inspect">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1335256785593" ID="ID_45662837" LINK="http://ispras.linuxbase.org/index.php/Java_API_Compliance_Checker" MODIFIED="1433137015129" TEXT="Java API Compliance Checker">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1335256984055" ID="ID_1414849204" LINK="http://en.wikipedia.org/wiki/JRipples" MODIFIED="1433137015129" TEXT="change impact analysis tool">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1335257493171" ID="ID_995119294" LINK="http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects" MODIFIED="1433137015139" TEXT="List of Apache Software">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1335257700690" ID="ID_1602201701" LINK="http://en.wikipedia.org/wiki/List_of_Eclipse_projects" MODIFIED="1433137015139" TEXT="List of Eclipse projects">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1335257745666" ID="ID_1720059688" LINK="http://en.wikipedia.org/wiki/List_of_JBoss_software" MODIFIED="1433137015139" TEXT="List of JBoss software">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1335257868065" ID="ID_576488100" LINK="http://en.wikipedia.org/wiki/Google_Plugin_for_Eclipse" MODIFIED="1433137015139" TEXT="Google Plugin for Eclipse">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1413858897972" ID="ID_1914496444" MODIFIED="1433137015139" TEXT="Opensource RIA Apache pivotal">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-</node>
-<node COLOR="#00b439" CREATED="1433137057509" ID="ID_1728610832" LINK="http://en.wikipedia.org/wiki/Category:Java_platform" MODIFIED="1433137077759" TEXT="Platform">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1433137096749" ID="ID_319724120" LINK="http://en.wikipedia.org/wiki/Category:Java_platform_software" MODIFIED="1433137106999" TEXT="platform software">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1433137125589" ID="ID_1917369804" LINK="http://en.wikipedia.org/wiki/Category:Java_programming_language_family" MODIFIED="1433137133389" TEXT="language family">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1503041607773" ID="ID_1290727593" LINK="https://a16z.com/tech-topics/" MODIFIED="1503041618637" POSITION="left" TEXT="a16z">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
-<node COLOR="#0033ff" CREATED="1504681382881" ID="ID_472296662" LINK="https://convertio.co/" MODIFIED="1504681406203" POSITION="left" TEXT="Online Converter">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
 </node>
 <node COLOR="#0033ff" CREATED="1516677475085" ID="ID_1923992502" MODIFIED="1516677483406" POSITION="left" TEXT="Opensource">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
@@ -388,6 +356,14 @@
 <attribute NAME="p2" VALUE="griffin&#x5f00;&#x6e90;&#x673a;&#x4f1a;"/>
 <attribute NAME="p2" VALUE="blockchain"/>
 </node>
+</node>
+<node COLOR="#0033ff" CREATED="1331541867989" ID="ID_1884619748" LINK="http://support.mozilla.org/en-US/kb/Keyboard%20shortcuts?s=shortcut&amp;r=1&amp;e=sph&amp;as=s" MODIFIED="1411613271856" POSITION="right" TEXT="Firefox shortcut">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+</node>
+<node COLOR="#0033ff" CREATED="1504681382881" ID="ID_472296662" LINK="https://convertio.co/" MODIFIED="1504681406203" POSITION="right" TEXT="Online Converter">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
 </node>
 </node>
 </map>
