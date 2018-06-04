@@ -2,10 +2,6 @@
 
 ## 反编译的工具
 
-### jd-gui
-jd-gui是一套图形化Java反编译工具，也提供IDE集成的插件。独立使用非常方便，不过目前版本不支持closure方式代码
-![jd-gui for windows](http://jd.benow.ca/img/screenshot17.png)
-
 ### CFR
 CFR是一套命令行Java反编译工具，使用命令较复杂，不过目前支持到Java9风格代码。运行时候需要加载一个lib
 ```bash
@@ -83,4 +79,11 @@ java -jar cfr_128.jar --help jarfilter
    --help                           (string)
 ```
 
+### jd-gui
+jd-gui是一套图形化Java反编译工具，也提供IDE集成的插件。独立使用非常方便，不过目前版本不支持closure方式代码<br>
+![jd-gui for windows](http://jd.benow.ca/img/screenshot17.png)
+
+### IntelliJ
+IntelliJ社区版默认提供一个插件，可以在IDE中直接反编译<br>
+![IntelliJ](https://en.wikipedia.org/wiki/IntelliJ_IDEA#/media/File:IntelliJIDEA_2016.3_Community.png)
 
