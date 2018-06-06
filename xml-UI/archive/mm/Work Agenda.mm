@@ -4,29 +4,135 @@
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1331527523338" ID="ID_125318634" LINK="http://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order" MODIFIED="1528079828106" POSITION="right" TEXT="Robert&apos;s Rules of Order">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
+<node COLOR="#0033ff" CREATED="1528273056349" ID="ID_1178157321" MODIFIED="1528273629165" POSITION="right" TEXT="Principles">
+<edge COLOR="#669900" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1331527523338" ID="ID_125318634" LINK="http://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order" MODIFIED="1528273102352" TEXT="Robert&apos;s Rules of Order">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#0033ff" CREATED="1341825951480" ID="ID_160887175" LINK="http://www.infoworld.com/d/adventures-in-it/it-survivor-7-tips-career-growth-in-tight-times-726" MODIFIED="1528079828107" POSITION="right" TEXT="career growth">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1341825951480" ID="ID_160887175" LINK="http://www.infoworld.com/d/adventures-in-it/it-survivor-7-tips-career-growth-in-tight-times-726" MODIFIED="1528273105916" TEXT="career growth">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#0033ff" CREATED="1423460971291" ID="ID_1664439667" LINK="http://en.wikipedia.org/wiki/SWOT_analysis" MODIFIED="1528079828108" POSITION="right" TEXT="SWOT Analysis">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
-<node COLOR="#0033ff" CREATED="1423461048848" ID="ID_332087405" LINK="http://en.wikipedia.org/wiki/DOT_%28graph_description_language%29" MODIFIED="1528079828108" POSITION="right" TEXT="DOT (graph description language)">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1466402648047" ID="ID_1554196891" LINK="http://asciiflow.com/" MODIFIED="1528079828109" TEXT="Acsii draw">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<node COLOR="#00b439" CREATED="1423460971291" ID="ID_1664439667" LINK="http://en.wikipedia.org/wiki/SWOT_analysis" MODIFIED="1528273107763" TEXT="SWOT Analysis">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1334813997984" ID="ID_159237567" LINK="http://en.wikipedia.org/wiki/List_of_portable_software" MODIFIED="1528079828110" POSITION="right" TEXT="portable software">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
+<node COLOR="#0033ff" CREATED="1528273287574" ID="ID_1008043489" MODIFIED="1528273641984" POSITION="right" TEXT="Tools">
+<edge COLOR="#669900" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1423461048848" ID="ID_332087405" LINK="http://en.wikipedia.org/wiki/DOT_%28graph_description_language%29" MODIFIED="1528273295095" TEXT="DOT (graph description language)">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1466402648047" ID="ID_1554196891" LINK="http://asciiflow.com/" MODIFIED="1528273295095" TEXT="Acsii draw">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1331541867989" ID="ID_1884619748" LINK="https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly" MODIFIED="1528273476525" TEXT="Firefox shortcut">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1504681382881" ID="ID_472296662" LINK="https://convertio.co/" MODIFIED="1528273579530" TEXT="File Online Converter">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1334813997984" ID="ID_159237567" LINK="http://en.wikipedia.org/wiki/List_of_portable_software" MODIFIED="1528273595746" TEXT="Portable software">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1528275722921" ID="ID_692884072" MODIFIED="1528275732700" POSITION="right" TEXT="Archives">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1415958374736" ID="ID_337449598" LINK="http://blog.sina.com.cn/s/blog_46d0362d0101alfc.html" MODIFIED="1528275748433">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Blog Index
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1521288343745" ID="ID_1748930897" LINK="https://cn.nytimes.com/opinion/20170901/silicon-valley-work-life-balance-/dual/" MODIFIED="1528275748433" TEXT="silicon-valley-work-life-balanc">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1523512142948" ID="ID_1383945627" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/Linux%20commands.md" MODIFIED="1528275748433" TEXT="Linux command">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1523512189360" ID="ID_1335770884" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/git%20commands.md" MODIFIED="1528275748433" TEXT="Git command">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1523512198704" ID="ID_1681045733" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/git%20commands.md" MODIFIED="1528275748433" TEXT="Docker command">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1523926939434" ID="ID_599435853" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/shell%20programming.md" MODIFIED="1528275748433" TEXT="Shell">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1503041607773" ID="ID_1290727593" LINK="https://a16z.com/tech-topics/" MODIFIED="1528275752793" TEXT="a16z">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1504572924168" FOLDED="true" ID="ID_1227640010" MODIFIED="1528275773054" TEXT="video">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1504572941657" ID="ID_1017952878" LINK="https://youtu.be/HAnw168huqA" MODIFIED="1528275773054" TEXT="Think Fast, Talk Smart: Communication Techniques">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1504676460123" ID="ID_426966435" LINK="https://youtu.be/rYodcvhh7b8" MODIFIED="1528275773069" TEXT="Packet Traveling">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1505263512013" ID="ID_1418255170" LINK="https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA" MODIFIED="1528275773069" TEXT="Infographics Show">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1507810919562" ID="ID_769585338" MODIFIED="1528275773069" TEXT=" Eng">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1507810954192" ID="ID_1211679260" LINK="https://youtu.be/PNJeUIPC6T0" MODIFIED="1528275773069" TEXT="bad phrase">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1507811241442" ID="ID_332974766" LINK="https://youtu.be/-UwahaXtrj0" MODIFIED="1528275773069" TEXT="inproper phrase">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1507811368996" ID="ID_1336045801" LINK="https://youtu.be/s-gdaq9SagI" MODIFIED="1528275773069" TEXT="US characters">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1507811517714" ID="ID_237683943" LINK="https://youtu.be/sRlIRRRnZs0" MODIFIED="1528275773069" TEXT="bad cases">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1507811924903" ID="ID_1622769989" LINK="https://youtu.be/0bjiZErg5-U" MODIFIED="1528275773069" TEXT="ironic phrase">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1508219756602" ID="ID_1654930495" MODIFIED="1528275773069" TEXT="poem">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1508219764755" ID="ID_401955540" LINK="https://youtu.be/KwJZhEwHrms" MODIFIED="1528275773069" TEXT="spring dawn">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1393468759407" ID="ID_365513406" LINK="F:\DEV\tech-training\Programming" MODIFIED="1528079828111" POSITION="left" TEXT="Programming">
 <edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
@@ -225,82 +331,6 @@
 <edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 </node>
-<node COLOR="#0033ff" CREATED="1415958374736" ID="ID_337449598" LINK="http://blog.sina.com.cn/s/blog_46d0362d0101alfc.html" MODIFIED="1528079828128" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Blog Index
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1521288343745" ID="ID_1748930897" LINK="https://cn.nytimes.com/opinion/20170901/silicon-valley-work-life-balance-/dual/" MODIFIED="1528079828129" TEXT="silicon-valley-work-life-balanc">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-<node COLOR="#00b439" CREATED="1523512142948" ID="ID_1383945627" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/Linux%20commands.md" MODIFIED="1528079828130" TEXT="Linux command">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-<node COLOR="#00b439" CREATED="1523512189360" ID="ID_1335770884" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/git%20commands.md" MODIFIED="1528079828131" TEXT="Git command">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-<node COLOR="#00b439" CREATED="1523512198704" ID="ID_1681045733" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/git%20commands.md" MODIFIED="1528079828132" TEXT="Docker command">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-<node COLOR="#00b439" CREATED="1523926939434" ID="ID_599435853" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/shell%20programming.md" MODIFIED="1528079828132" TEXT="Shell">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1503041607773" ID="ID_1290727593" LINK="https://a16z.com/tech-topics/" MODIFIED="1528079828133" POSITION="right" TEXT="a16z">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
-<node COLOR="#0033ff" CREATED="1504572924168" FOLDED="true" ID="ID_1227640010" MODIFIED="1528079828136" POSITION="right" TEXT="video">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1504572941657" ID="ID_1017952878" LINK="https://youtu.be/HAnw168huqA" MODIFIED="1528079828137" TEXT="Think Fast, Talk Smart: Communication Techniques">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-<node COLOR="#00b439" CREATED="1504676460123" ID="ID_426966435" LINK="https://youtu.be/rYodcvhh7b8" MODIFIED="1528079828137" TEXT="Packet Traveling">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-<node COLOR="#00b439" CREATED="1505263512013" ID="ID_1418255170" LINK="https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA" MODIFIED="1528079828138" TEXT="Infographics Show">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-<node COLOR="#00b439" CREATED="1507810919562" ID="ID_769585338" MODIFIED="1528079828138" TEXT=" Eng">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-<node COLOR="#990000" CREATED="1507810954192" ID="ID_1211679260" LINK="https://youtu.be/PNJeUIPC6T0" MODIFIED="1528079828138" TEXT="bad phrase">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1507811241442" ID="ID_332974766" LINK="https://youtu.be/-UwahaXtrj0" MODIFIED="1528079828138" TEXT="inproper phrase">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1507811368996" ID="ID_1336045801" LINK="https://youtu.be/s-gdaq9SagI" MODIFIED="1528079828139" TEXT="US characters">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1507811517714" ID="ID_237683943" LINK="https://youtu.be/sRlIRRRnZs0" MODIFIED="1528079828139" TEXT="bad cases">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1507811924903" ID="ID_1622769989" LINK="https://youtu.be/0bjiZErg5-U" MODIFIED="1528079828139" TEXT="ironic phrase">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-</node>
-<node COLOR="#00b439" CREATED="1508219756602" ID="ID_1654930495" MODIFIED="1528079828139" TEXT="poem">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-<node COLOR="#990000" CREATED="1508219764755" ID="ID_401955540" LINK="https://youtu.be/KwJZhEwHrms" MODIFIED="1528079828140" TEXT="spring dawn">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-</node>
-</node>
 <node COLOR="#0033ff" CREATED="1516677475085" ID="ID_1923992502" MODIFIED="1528079828140" POSITION="left" TEXT="Opensource">
 <edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
@@ -421,14 +451,6 @@
 <attribute NAME="p2" VALUE="griffin&#x5f00;&#x6e90;&#x673a;&#x4f1a;"/>
 <attribute NAME="p2" VALUE="blockchain"/>
 </node>
-</node>
-<node COLOR="#0033ff" CREATED="1331541867989" ID="ID_1884619748" LINK="http://support.mozilla.org/en-US/kb/Keyboard%20shortcuts?s=shortcut&amp;r=1&amp;e=sph&amp;as=s" MODIFIED="1528079828154" POSITION="right" TEXT="Firefox shortcut">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
-<node COLOR="#0033ff" CREATED="1504681382881" ID="ID_472296662" LINK="https://convertio.co/" MODIFIED="1528079828154" POSITION="right" TEXT="Online Converter">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
 </node>
 </node>
 </map>
