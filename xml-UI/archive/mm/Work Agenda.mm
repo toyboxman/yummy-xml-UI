@@ -1,28 +1,23 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1321239283876" ID="Freemind_Link_1208921045" MODIFIED="1528079946343" TEXT="Works">
-<edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="1"/>
-<font NAME="SansSerif" SIZE="20"/>
-<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1528273056349" ID="ID_1178157321" MODIFIED="1528273629165" POSITION="right" TEXT="Principles">
-<edge COLOR="#669900" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1331527523338" ID="ID_125318634" LINK="http://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order" MODIFIED="1528273102352" TEXT="Robert&apos;s Rules of Order">
+<node BACKGROUND_COLOR="#ffffff" COLOR="#333333" CREATED="1528767037887" ID="ID_933806250" MODIFIED="1528767977668" TEXT="Works">
+<edge COLOR="#009900" WIDTH="2"/>
+<font BOLD="true" NAME="SansSerif" SIZE="18"/>
+<node COLOR="#000000" CREATED="1528767135020" ID="ID_171106743" MODIFIED="1528767579384" POSITION="right" STYLE="fork" TEXT="Principles">
+<node COLOR="#00b439" CREATED="1331527523338" ID="ID_125318634" LINK="http://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order" MODIFIED="1528767523601" TEXT="Robert&apos;s Rules of Order">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1341825951480" ID="ID_160887175" LINK="http://www.infoworld.com/d/adventures-in-it/it-survivor-7-tips-career-growth-in-tight-times-726" MODIFIED="1528273105916" TEXT="career growth">
+<node COLOR="#00b439" CREATED="1341825951480" ID="ID_160887175" LINK="http://www.infoworld.com/d/adventures-in-it/it-survivor-7-tips-career-growth-in-tight-times-726" MODIFIED="1528767523601" TEXT="career growth">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1423460971291" ID="ID_1664439667" LINK="http://en.wikipedia.org/wiki/SWOT_analysis" MODIFIED="1528273107763" TEXT="SWOT Analysis">
+<node COLOR="#00b439" CREATED="1423460971291" ID="ID_1664439667" LINK="http://en.wikipedia.org/wiki/SWOT_analysis" MODIFIED="1528767523601" TEXT="SWOT Analysis">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1528273287574" ID="ID_1008043489" MODIFIED="1528273641984" POSITION="right" TEXT="Tools">
-<edge COLOR="#669900" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
+<node CREATED="1528767138748" ID="ID_1583911373" MODIFIED="1528767634382" POSITION="right" TEXT="Tools">
 <node COLOR="#00b439" CREATED="1423461048848" ID="ID_332087405" LINK="http://en.wikipedia.org/wiki/DOT_%28graph_description_language%29" MODIFIED="1528273295095" TEXT="DOT (graph description language)">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
@@ -44,9 +39,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1528275722921" ID="ID_692884072" MODIFIED="1528275732700" POSITION="right" TEXT="Archives">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
+<node CREATED="1528767591762" ID="ID_894764331" MODIFIED="1528767666083" POSITION="right" TEXT="Archives">
 <node COLOR="#00b439" CREATED="1415958374736" ID="ID_337449598" LINK="http://blog.sina.com.cn/s/blog_46d0362d0101alfc.html" MODIFIED="1528275748433">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -134,10 +127,19 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1393468759407" ID="ID_365513406" LINK="F:\DEV\tech-training\Programming" MODIFIED="1528079828111" POSITION="left" TEXT="Programming">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1331111567511" FOLDED="true" ID="ID_927233730" MODIFIED="1528079828111" TEXT="Algorithm">
+<node CREATED="1528767605568" ID="ID_64045817" LINK="C:\king\document\document\vmware.mm" MODIFIED="1528767735766" POSITION="right" TEXT="VMware"/>
+<node CREATED="1528767786015" ID="ID_434247652" MODIFIED="1528767813360" POSITION="right" TEXT="Plan">
+<node COLOR="#00b439" CREATED="1517281187051" HGAP="43" ID="ID_71562387" MODIFIED="1528079828153" TEXT="2018" VSHIFT="4">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<attribute_layout VALUE_WIDTH="144"/>
+<attribute NAME="p1" VALUE="&#x6b66;&#x6c49;&#x8d2d;&#x623f;&#x843d;&#x6237;"/>
+<attribute NAME="p2" VALUE="&#x627e;&#x627e;&#x673a;&#x4f1a;"/>
+<attribute NAME="p2" VALUE="griffin&#x5f00;&#x6e90;&#x673a;&#x4f1a;"/>
+<attribute NAME="p2" VALUE="blockchain"/>
+</node>
+</node>
+<node CREATED="1528767842313" ID="ID_158529629" MODIFIED="1528767843591" POSITION="left" TEXT="Programming">
+<node COLOR="#00b439" CREATED="1331111567511" FOLDED="true" ID="ID_927233730" MODIFIED="1528767888652" TEXT="Algorithm">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1336981780745" ID="ID_1485894456" LINK="http://introcs.cs.princeton.edu" MODIFIED="1528079828112" TEXT="Introduction">
@@ -149,6 +151,22 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 <node COLOR="#990000" CREATED="1393468694481" ID="ID_1028152230" LINK="F:\DEV\tech-training\algorithm" MODIFIED="1528079828112" TEXT="Book">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1331111567511" FOLDED="true" ID="ID_1635206985" MODIFIED="1528079828111" TEXT="Algorithm">
+<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1336981780745" ID="ID_167941021" LINK="http://introcs.cs.princeton.edu" MODIFIED="1528079828112" TEXT="Introduction">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1336981672682" ID="ID_1910947873" LINK="http://algs4.cs.princeton.edu/home/" MODIFIED="1528079828112" TEXT="Princeton course">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1393468694481" ID="ID_159095543" LINK="F:\DEV\tech-training\algorithm" MODIFIED="1528079828112" TEXT="Book">
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
@@ -167,7 +185,7 @@
 <node COLOR="#00b439" CREATED="1433136997346" ID="ID_364691355" MODIFIED="1528079828114" TEXT="Java">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1335256192912" FOLDED="true" ID="ID_186029309" LINK="http://en.wikipedia.org/wiki/Category:Java_development_tools" MODIFIED="1528079828115" TEXT="Dev tools">
+<node COLOR="#990000" CREATED="1335256192912" FOLDED="true" ID="ID_186029309" LINK="http://en.wikipedia.org/wiki/Category:Java_development_tools" MODIFIED="1528767906959" TEXT="Dev tools">
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1335256204332" ID="ID_1218897033" LINK="http://en.wikipedia.org/wiki/General_Architecture_for_Text_Engineering" MODIFIED="1528079724226" TEXT="Language process engine">
@@ -310,7 +328,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1419822171603" FOLDED="true" ID="ID_837910254" MODIFIED="1528079828125" TEXT="Git">
+<node COLOR="#00b439" CREATED="1419822171603" FOLDED="true" ID="ID_837910254" MODIFIED="1528767912055" TEXT="Git">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1419822269003" ID="ID_1969969827" LINK="http://blog.sina.com.cn/s/blog_46d0362d0102uyad.html" MODIFIED="1528079828125" TEXT="My notes">
@@ -327,13 +345,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1411612688587" ID="ID_622137093" LINK="C:\king\document\document\vmware.mm" MODIFIED="1528079828127" POSITION="right" TEXT="vmware">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
-<node COLOR="#0033ff" CREATED="1516677475085" ID="ID_1923992502" MODIFIED="1528079828140" POSITION="left" TEXT="Opensource">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
+<node CREATED="1528767924930" ID="ID_908308386" MODIFIED="1528767925967" POSITION="left" TEXT="Opensource">
 <node COLOR="#00b439" CREATED="1516677487105" ID="ID_1793652038" LINK="https://github.com/Kong/kong" MODIFIED="1528079828141" TEXT="API Gateway">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 </node>
@@ -431,25 +443,6 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1517202369234" ID="ID_390288845" MODIFIED="1528079828151" POSITION="right" TEXT="&#x5c0f;&#x5b66;&#x6570;&#x5b66;">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1517202381041" ID="ID_409558699" LINK="http://www.huabeisai.cn/list3.vpage?page=1&amp;colId=16" MODIFIED="1528079828152" TEXT="&#x534e;&#x7f57;&#x5e9a;&#x676f;">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1517281166689" ID="ID_1700128191" MODIFIED="1528079828152" POSITION="right" TEXT="plan">
-<edge COLOR="#00b439" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1517281187051" HGAP="43" ID="ID_71562387" MODIFIED="1528079828153" TEXT="2018" VSHIFT="4">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-<attribute_layout VALUE_WIDTH="144"/>
-<attribute NAME="p1" VALUE="&#x6b66;&#x6c49;&#x8d2d;&#x623f;&#x843d;&#x6237;"/>
-<attribute NAME="p2" VALUE="&#x627e;&#x627e;&#x673a;&#x4f1a;"/>
-<attribute NAME="p2" VALUE="griffin&#x5f00;&#x6e90;&#x673a;&#x4f1a;"/>
-<attribute NAME="p2" VALUE="blockchain"/>
 </node>
 </node>
 </node>
