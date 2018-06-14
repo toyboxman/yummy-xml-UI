@@ -1,8 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffffff" COLOR="#333333" CREATED="1528767037887" ID="ID_933806250" MODIFIED="1528767977668" TEXT="Works">
+<node BACKGROUND_COLOR="#ffffff" COLOR="#333333" CREATED="1528767037887" ID="ID_933806250" MODIFIED="1528957123592" TEXT="Works">
 <edge COLOR="#009900" WIDTH="2"/>
-<font BOLD="true" NAME="SansSerif" SIZE="18"/>
+<font BOLD="true" NAME="Times New Roman" SIZE="20"/>
 <node COLOR="#000000" CREATED="1528767135020" ID="ID_171106743" MODIFIED="1528767579384" POSITION="right" STYLE="fork" TEXT="Principles">
 <node COLOR="#00b439" CREATED="1331527523338" ID="ID_125318634" LINK="http://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order" MODIFIED="1528767523601" TEXT="Robert&apos;s Rules of Order">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
