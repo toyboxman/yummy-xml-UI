@@ -204,13 +204,14 @@ $git reset --soft 0d1d7fc32
 ```
 * 回退已提交的三个commit
 ```shell
+# 自动产生一个revert的commit
 $git revert a867b4af 25eee4ca 0766c053
 ```
 * 回退从当前HEAD往前2个commit
 ```shell
 $git revert HEAD~2..HEAD
 ```
-* 回退提交，不自动产生undo的commit，手动提交
+* 回退提交，不自动产生revert的commit，手动提交
 ```shell
 $git revert --no-commit 0766c053..HEAD; git commit
 ```
