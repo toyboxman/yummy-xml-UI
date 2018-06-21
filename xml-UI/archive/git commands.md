@@ -49,6 +49,9 @@ glance  https://github.com/openstack/glance.git (fetch)
 glance  https://github.com/openstack/glance.git (push)
 origin  https://github.com/apache/incubator-griffin.git (fetch)
 origin  https://github.com/apache/incubator-griffin.git (push)
+
+# 删除remote代码源映射
+git remote remove glance
 ```
 
 * 查看远端repo
