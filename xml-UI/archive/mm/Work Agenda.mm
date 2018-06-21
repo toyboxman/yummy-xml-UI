@@ -64,6 +64,14 @@
 <node COLOR="#990000" CREATED="1523512189360" ID="ID_1335770884" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/git%20commands.md" MODIFIED="1528275748433" TEXT="Git command">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#990000" CREATED="1419822203174" ID="ID_268005054" LINK="../../../../G:/king/programming%20language/OReilly.Version.Control.With.Git.May.2009.RET.pdf" MODIFIED="1528079828126" TEXT="OReilly Git Guide">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1419822175169" ID="ID_906956608" LINK="../../../../G:/king/programming%20language/Git%20Community%20Book%20&#x4e2d;&#x6587;&#x7248;.pdf" MODIFIED="1528079828126" TEXT="Community Book">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
 </node>
 <node COLOR="#990000" CREATED="1523512198704" ID="ID_1681045733" LINK="https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/git%20commands.md" MODIFIED="1528275748433" TEXT="Docker command">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
@@ -139,23 +147,7 @@
 </node>
 </node>
 <node CREATED="1528767842313" ID="ID_158529629" MODIFIED="1528767843591" POSITION="left" TEXT="Programming">
-<node COLOR="#00b439" CREATED="1331111567511" FOLDED="true" ID="ID_927233730" MODIFIED="1528767888652" TEXT="Algorithm">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1336981780745" ID="ID_1485894456" LINK="http://introcs.cs.princeton.edu" MODIFIED="1528079828112" TEXT="Introduction">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1336981672682" ID="ID_1845354061" LINK="http://algs4.cs.princeton.edu/home/" MODIFIED="1528079828112" TEXT="Princeton course">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1393468694481" ID="ID_1028152230" LINK="F:\DEV\tech-training\algorithm" MODIFIED="1528079828112" TEXT="Book">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-</node>
-<node COLOR="#00b439" CREATED="1331111567511" FOLDED="true" ID="ID_1635206985" MODIFIED="1528079828111" TEXT="Algorithm">
+<node COLOR="#00b439" CREATED="1331111567511" ID="ID_1635206985" MODIFIED="1529562842953" TEXT="Algorithm">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1336981780745" ID="ID_167941021" LINK="http://introcs.cs.princeton.edu" MODIFIED="1528079828112" TEXT="Introduction">
@@ -185,7 +177,7 @@
 <node COLOR="#00b439" CREATED="1433136997346" ID="ID_364691355" MODIFIED="1528079828114" TEXT="Java">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1335256192912" FOLDED="true" ID="ID_186029309" LINK="http://en.wikipedia.org/wiki/Category:Java_development_tools" MODIFIED="1528767906959" TEXT="Dev tools">
+<node COLOR="#990000" CREATED="1335256192912" FOLDED="true" ID="ID_186029309" LINK="http://en.wikipedia.org/wiki/Category:Java_development_tools" MODIFIED="1529562863791" TEXT="Dev tools">
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1335256204332" ID="ID_1218897033" LINK="http://en.wikipedia.org/wiki/General_Architecture_for_Text_Engineering" MODIFIED="1528079724226" TEXT="Language process engine">
@@ -326,22 +318,6 @@
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-</node>
-</node>
-<node COLOR="#00b439" CREATED="1419822171603" FOLDED="true" ID="ID_837910254" MODIFIED="1528767912055" TEXT="Git">
-<edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1419822269003" ID="ID_1969969827" LINK="http://blog.sina.com.cn/s/blog_46d0362d0102uyad.html" MODIFIED="1528079828125" TEXT="My notes">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1419822203174" ID="ID_268005054" LINK="../../../../G:/king/programming%20language/OReilly.Version.Control.With.Git.May.2009.RET.pdf" MODIFIED="1528079828126" TEXT="OReilly Git Guide">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node COLOR="#990000" CREATED="1419822175169" ID="ID_906956608" LINK="../../../../G:/king/programming%20language/Git%20Community%20Book%20&#x4e2d;&#x6587;&#x7248;.pdf" MODIFIED="1528079828126" TEXT="Community Book">
-<edge COLOR="#111111" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
 </node>

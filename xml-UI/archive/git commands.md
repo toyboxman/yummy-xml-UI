@@ -11,8 +11,19 @@
 
 * 设置git用户的信息
 ```shell
-git config --global user.name "XWXW"
-git config --global user.email "XXXX@YYY.com"
+# list全部属性
+git config -l
+
+# 设置当前git用户名及邮件属性，仅作用于当前git仓库
+git config user.name "Gene"
+git config user.email "Gene@genesis.org"
+
+# 设置全局性git用户名及邮件属性，会作用于全部git仓库
+git config --global user.name "Gene"
+git config --global user.email "Gene@genesis.org"
+
+# remove global config
+git config --global --unset-all user.name
 ```
 * 初始化一个空的本地git仓库
 ```shell
@@ -24,21 +35,51 @@ $git clone https://github.com/openstack/glance.git
 ```
 * 在仓库中添加一个远程代码源
 ```shell
-$git remote add glance https://github.com/openstack/glance.git
-```
-* 建立一个可供其他机器下载的remote repo
-```shell
-# 创建一个myAppName对应的远程git repo映射
-$git remote add myAppName ssh://192.168.149.128/~/source/app/.git 
+# 在本地创建一个alias为glance的remote仓库(glance.git)映射
+git remote add glance https://github.com/openstack/glance.git
 
-# 将本地repo推送到remote repo中master分支
-$git push myAppName master  
+# 在本地创建一个alias为Eugene的remote仓库映射
+git remote add Eugene https://github.com/toyboxman/incubator-griffin.git
+
+# list当前仓库所有remote代码源
+git remote -v
+Eugene  https://github.com/toyboxman/incubator-griffin.git (fetch)
+Eugene  https://github.com/toyboxman/incubator-griffin.git (push)
+glance  https://github.com/openstack/glance.git (fetch)
+glance  https://github.com/openstack/glance.git (push)
+origin  https://github.com/apache/incubator-griffin.git (fetch)
+origin  https://github.com/apache/incubator-griffin.git (push)
 ```
+
 * 查看远端repo
 ```shell
-git remote show
-$git remote show appName
+git remote show Eugene
+* remote Eugene
+  Fetch URL: https://github.com/toyboxman/incubator-griffin.git
+  Push  URL: https://github.com/toyboxman/incubator-griffin.git
+  HEAD branch: master
+  Remote branches:
+    feature/update_measure_pom   tracked
+    griffin-0.1.5-incubating-rc1 new (next fetch will store in remotes/Eugene)
+    griffin-0.1.5-incubating-rc2 new (next fetch will store in remotes/Eugene)
+    griffin-0.1.5-incubating-rc3 new (next fetch will store in remotes/Eugene)
+    master                       new (next fetch will store in remotes/Eugene)
+    refactor/update-cases        tracked
+  Local refs configured for 'git push':
+    griffin-0.1.5-incubating-rc3 pushes to griffin-0.1.5-incubating-rc3 (up to date)
+    master                       pushes to master                       (fast-forwardable)
 ```
+
+* 建立一个可供其他机器下载的remote repo
+```shell
+# 先在remote指定目录中init一个仓库
+# 本地创建一个远程git repo映射的alias
+git remote add myAppName ssh://192.168.149.128/~/source/app/.git 
+
+# 将本地repo推送到remote repo中master分支
+git push myAppName master
+```
+
 * 更新远程代码源
 ```shell
 git remote update
