@@ -73,6 +73,15 @@ git remote show Eugene
     master                       pushes to master                       (fast-forwardable)
 ```
 
+* 更新远程代码源,不会覆盖本地分支
+```shell
+git remote update
+```
+* 获取远端代码库中最新的代码，覆盖本地分支
+```shell
+git pull
+```
+
 * 建立一个可供其他机器下载的remote repo
 ```shell
 # 先在remote指定目录中init一个仓库
@@ -83,14 +92,6 @@ git remote add myAppName ssh://192.168.149.128/~/source/app/.git
 git push myAppName master
 ```
 
-* 更新远程代码源
-```shell
-git remote update
-```
-* 从远端代码库中获取最新的分支代码，覆盖本地分支
-```shell
-git pull
-```
 * 查看仓库中文件状态
 ```shell
 git status
