@@ -10,7 +10,7 @@
 ---
 
 * 设置git用户的信息
-```shell
+```bash
 # list全部属性
 git config -l
 
@@ -26,15 +26,15 @@ git config --global user.email "Gene@genesis.org"
 git config --global --unset-all user.name
 ```
 * 初始化一个空的本地git仓库
-```shell
+```bash
 git init
 ```
 * 直接克隆一个远端代码仓库到本地
-```shell
+```bash
 $git clone https://github.com/openstack/glance.git
 ```
 * 在仓库中添加一个远程代码源
-```shell
+```bash
 # 在本地创建一个alias为glance的remote仓库(glance.git)映射
 git remote add glance https://github.com/openstack/glance.git
 
@@ -52,52 +52,77 @@ origin  https://github.com/apache/incubator-griffin.git (push)
 
 # 删除remote代码源映射
 git remote remove glance
-```
 
-* 查看远端repo
-```shell
+# 查看远端repo
 git remote show Eugene
 * remote Eugene
   Fetch URL: https://github.com/toyboxman/incubator-griffin.git
   Push  URL: https://github.com/toyboxman/incubator-griffin.git
   HEAD branch: master
   Remote branches:
-    feature/update_measure_pom   tracked
-    griffin-0.1.5-incubating-rc1 new (next fetch will store in remotes/Eugene)
-    griffin-0.1.5-incubating-rc2 new (next fetch will store in remotes/Eugene)
-    griffin-0.1.5-incubating-rc3 new (next fetch will store in remotes/Eugene)
-    master                       new (next fetch will store in remotes/Eugene)
-    refactor/update-cases        tracked
+    griffin-0.1.5-incubating-rc1                   tracked
+    griffin-0.1.5-incubating-rc2                   tracked
+    griffin-0.1.5-incubating-rc3                   tracked
+    master                                         tracked
+    refs/remotes/Eugene/feature/update_measure_pom stale (use 'git remote prune' to remove)
+    refs/remotes/Eugene/refactor/testcases         stale (use 'git remote prune' to remove)
+    refs/remotes/Eugene/refactor/update-cases      stale (use 'git remote prune' to remove)
   Local refs configured for 'git push':
     griffin-0.1.5-incubating-rc3 pushes to griffin-0.1.5-incubating-rc3 (up to date)
     master                       pushes to master                       (fast-forwardable)
+
+# 清除remote已删除本地还存在的stale分支
+git remote prune --dry-run Eugene
+git remote prune Eugene
+Pruning Eugene
+URL: https://github.com/toyboxman/incubator-griffin.git
+ * [pruned] Eugene/feature/update_measure_pom
+ * [pruned] Eugene/refactor/testcases
+ * [pruned] Eugene/refactor/update-cases
 ```
 
-* 更新远程代码源,不会覆盖本地分支
-```shell
+* 更新代码仓库
+```bash
+# 更新本地远程代码源,不会覆盖本地分支
 git remote update
-```
-* 获取远端代码库中最新的代码，覆盖本地分支
-```shell
+# 获取远端代码库中最新的代码，并且覆盖本地分支
 git pull
 ```
 
+* 提交代码到远程代码库
+```bash
+# 把本地当前分支提交到remote映射的分支上
+git push
+
+# 把本地glance目录下最新push到remote的icehouse分支
+git push glance HEAD:refs/heads/icehouse
+
+# Eugene目录中master分支不存在，推送失败
+git push Eugene master:refactor/testcases   
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/toyboxman/incubator-griffin.git'
+# 推送Eugene目录下m0分支到remote的refactor/testcases分支成功
+git push Eugene m0:refactor/testcases
+To https://github.com/toyboxman/incubator-griffin.git
+ * [new branch]      m0 -> refactor/testcases
+```
+
 * 建立一个可供其他机器下载的remote repo
-```shell
+```bash
 # 先在remote指定目录中init一个仓库
 # 本地创建一个远程git repo映射的alias
 git remote add myAppName ssh://192.168.149.128/~/source/app/.git 
 
-# 将本地repo推送到remote repo中master分支
+# 将本地myAppName目录下master分支推送到remote repo
 git push myAppName master
 ```
 
 * 查看仓库中文件状态
-```shell
+```bash
 git status
 ```
 * 在本地分支中添加文件或目录
-```shell
+```bash
 # 将source中所有文件子目录都加入待提交staged状态
 $git add ./source 
 
@@ -108,7 +133,7 @@ $git add -i
 $git add --all  
 ```
 * 提交代码变更到本地分支中
-```shell
+```bash
 git commit
 
 # 提交全部更改的文件
@@ -118,7 +143,7 @@ $git commit -a
 $git commit --amend 
 ```
 * 代码库分支查看
-```shell
+```bash
 # 查看当前代码库全部分支
 $git branch -a  
 
@@ -127,7 +152,7 @@ $git branch -vv
 ```
 
 * 删除分支
-```shell
+```bash
 # 强制删除master分支
 $git branch -D master  
 
@@ -136,37 +161,37 @@ $git branch -d master
 ```
 
 * 将某个分支checkout成一个本地分支
-```shell
+```bash
 git checkout -b local_name branch_name
 $git checkout master glance/stable/icehouse
 ```
 
 * 切换到某一个本地分支
-```shell
+```bash
 # 从当前分支切换到master分支
 $git checkout master 
 ```
 
 * 临时切换到指定提交位置，会与当前的分支HEAD脱离，处于无分支checkout态
-```shell
+```bash
 $git checkout 0d1d7fc32
 ```
 
 * 查看当前代码库全部tag快照
-```shell
+```bash
 git tag
 # 查看如何创建删除标签
 $git tag --help  
 ```
 
 * 把tag对应的快照checkout成本地分支，仓库快照本身无法修改，只能变成本地分支才能改
-```shell
+```bash
 git checkout -b branch_name tag_name
 $git checkout -b branch1 2014.1.1
 ```
 
 * 丢弃本地分支代码修改
-```shell
+```bash
 # 整个分支代码回滚到upstream HEAD
 $git checkout -f  
 
@@ -174,7 +199,7 @@ $git checkout -f
 $git checkout -- Run.java  
 ```
 * 当前的文件夹中文件信息汇总
-```shell
+```bash
 # 列出当前目录及子目录中所有文件
 $git ls-files
 
@@ -183,13 +208,13 @@ $git ls-files | xargs cat | wc -l
 ```
 
 * 合并两分支代码，与rebase命令有些区别，体现在分支树节点上
-```shell
+```bash
 git merge branch_a   
 # 将社区分支合并到当前分支中
 $git merge stable/icehouse 
 ```
 * 合并分支区别 rebase／merge
-```shell
+```bash
 master branch : patch1<-patch2<-patch3
 b1 branch from patch2 : patch1<-patch2<-patch4
 b2 branch from patch2 : patch1<-patch2<-patch4
@@ -199,18 +224,11 @@ b1-git merge master : patch1<-patch2<-patch4<-patch3<-auto-merge-patch 'Merge br
                                     把master中最新提交归并到b1分支最后，并产生一个自动合并提交
 b2-git rebase master : patch1<-patch2<-patch3<-patch4 归并到master分支中，跟在最近提交后面
 ```
-* 提交代码到远程代码库
-```shell
-git push
-```
-* 可以指定代码提交到某个分支
-```shell
-$git push glance HEAD:refs/heads/icehouse
-```
+
 * 修改本地已提交的历史
 > [Link1](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
 > [Link2](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
-```shell
+```bash
 # Show the last 9 commits in a text editor, @ is shorthand for HEAD, 
 # and ~ is the commit before the specified commit
 # in a text editor change 'pick' to 'e' (edit), and save and close the file.
@@ -226,54 +244,54 @@ $git reset @~
 $git rebase --continue  
 ```
 * 回退变更,提交
-```shell
+```bash
 # 二者最大区别在于,如果commit没有publish出去，那么就可以在本地丢弃，用reset即可
 # 如果已经publish到公共repo了，那么就用revert，它会产生新的commit去undo已存在提交
 git reset/revert                      
 ```
 * 从HEAD回退到指定提交位置，未提交的任何本地改变都会丢弃
-```shell
+```bash
 $git reset --hard 0d1d7fc32
 ```
 * 或者回退到分支最新提交点
-```shell
+```bash
 $git reset --hard HEAD
 ```
 * 先临时保存未提交的本地变更，然后回退到提交点，再将临时保存修改应用到新基点。
-```shell
+```bash
 $git stash; git reset --hard 0d1d7fc32; git stash pop
 ```
 * 通过软复位也可以达到上一命令相同效果  hard/soft前后两种方式区别就在于是否保留未提交更改
-```shell
+```bash
 $git reset --soft 0d1d7fc32
 ```
 * 回退已提交的三个commit
-```shell
+```bash
 # 自动产生一个revert的commit
 $git revert a867b4af 25eee4ca 0766c053
 ```
 * 回退从当前HEAD往前2个commit
-```shell
+```bash
 $git revert HEAD~2..HEAD
 ```
 * 回退提交，不自动产生revert的commit，手动提交
-```shell
+```bash
 $git revert --no-commit 0766c053..HEAD; git commit
 ```
 * 查看某个提交中哪些文件被修改
-```shell
+```bash
 $git show e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ```
 * 查看某个提交在哪些分支中
-```shell
+```bash
 $git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ```
 * 在当前代码分支中合并某个提交代码
-```shell
+```bash
 git cherry-pick -x
 ```
 * 在当前代码分支中合并其他分支某个提交代码
-```shell
+```bash
 git cherry-pick branch
 # 获取dev分支最后一个提交
 $git cherry-pick dev  
@@ -286,7 +304,7 @@ $git cherry-pick dev~2
 ```
 
 * 比较本地分支和remote分支差异
-```shell
+```bash
 # 比较本地master分支和remote master分支的差异
 $git diff origin/master  
 
@@ -294,26 +312,26 @@ $git diff origin/master
 $git diff myBranch origin/master  
 ```
 * 比较某个文件在不同tag快照中区别
-```shell
+```bash
 git diff tag1 tag2  -- filename
 
 # 查看文件两标签间修改
 $git diff 0.12.0 0.13.0 -- glanceclient/common/http.py  
 ```
 * 查看修改提交出现在哪些标签中
-```shell
+```bash
 git tag --contains commitID
 $git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
 ```
 * 查看某个代码分支所有提交日志summary
-```shell
+```bash
 git log --oneline <branch>
 # 查看当前分支日志列表
 $git log --oneline  
 ```
 
 * 查看分支中某个作者的提交列表
-```shell
+```bash
 # 查看匹配name的作者所有提交详情
 git log --author <name>  
 
@@ -338,17 +356,17 @@ git log --author=<name> --pretty=tformat: --numstat | awk \
 ```
 
 * 查看代码分支在两个tag快照之间的所有提交日志
-```shell
+```bash
 git log tag1..tag2
 ```
 * 查看某个文件的所有修改细节
-```shell
+```bash
 git blame filename
 # 查看http.py文件每一行修改记录
 $git blame glanceclient/common/http.py  
 ```
 * 创建源代码文件补丁
-```shell
+```bash
 # 在当前分支下为最新的一个提交(head -1)打出补丁
 $git format-patch -1 HEAD  
 
@@ -357,7 +375,7 @@ $git format-patch -1
 ```
 
 * GUI方式查看分支修改记录
-```shell
+```bash
 gitk
 gitk file
 ```
@@ -370,20 +388,20 @@ gitk file
 2. 通过gerrit review的命令来操作, 或者通过git-review命令
 
 	- git-review是openstack组织开发贡献的. 需要额外安装
-	```shell
+	```bash
 	sudo pip install git-review
 	```
 	或
-	```shell
+	```bash
 	aptitude install git-review
 	```
 	- 创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件
-	```shell
+	```bash
 	touch .gitreview
 	```
 	- .gitreview配置文件类似Windows .ini文件格式，存放Gerrit安装的相关信息
 	模板如下:
-	```shell
+	```bash
 	[gerrit]
 	scheme=ssh   
 	host=gitreview.example.com
@@ -392,7 +410,7 @@ gitk file
 	defaultbranch=master
 	```
 	- 设定默认rebase到zero ，将使git-review不会rebase changes (same as the -R command line option)
-	```shell
+	```bash
 	[gerrit]
 	scheme=ssh   --default scheme (ssh/http/https) of gerrit remote
 	host=review.example.com  --gerrit remote server
@@ -404,7 +422,7 @@ gitk file
 	track=0
 	```   
    - 创建全局review用户名
-	```shell
+	```bash
 	git config -l    -- list all current config
 	# update author/email per repo, useful for current repo config
 	git config user.name "Gene"
@@ -420,16 +438,16 @@ gitk file
 	*当相同配置通过.gitreview配置文件或命令参数同时生效时候，命令行参数优先*
 
     - 设定commit-msg中自动产生Change-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
-	```shell
+	```bash
 	$ scp -p -P 29418 king@review.example.com:hooks/commit-msg ~/source/.git/hooks/
 	```
 	或
-	```shell
+	```bash
 	$ curl -Lo ~/source/.git/hooks/commit-msg https://review.example.com/tools/hooks/commit-msg
     ```	
 	*如果出现权限问题，一般是gerrit服务器上没有保存本机公钥，需要通过ssh-keygen命令产生~/.ssh/id_rsa.pub，并复制到gerrit管理界面上。
 	如之后得到的commit-msg文件没有执行权限，还需要修改一下执行权限*
-	```shell
+	```bash
 	$ chmod u+x ~/source/.git/hooks/commit-msg
 	```
 	Ok，修改commit到本地之后就会在提交信息中产生一个Change-ID了, 如Change-Id: I5b8ecff9d0b6dddda4c76e162629017ac5026341
@@ -438,7 +456,7 @@ gitk file
 	在本地repo提交commit后，即可通过 git review创建review request, 或者 git review branchName 创建指定分支的review request
 	<br>如下结果输出:<br>
 		
-		```shell
+		```bash
 		$ git review master
 		remote: Resolving deltas: 100% (4/4)
 		remote: Counting objects: 61302, done
@@ -485,7 +503,7 @@ gitk file
 			   * master
 		```
 	- 命令行参数具体说明参考 man git-review
-		```shell
+		```bash
 		CONFIGURATION
 			 This utility can be configured by adding entries to Git configuration.
 
