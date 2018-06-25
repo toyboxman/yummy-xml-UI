@@ -124,14 +124,21 @@ git status
 * 在本地分支中添加文件或目录
 ```bash
 # 将source中所有文件子目录都加入待提交staged状态
-$git add ./source 
+git add ./source 
 
 # 文字菜单方式查看当前所有待提交文件状态
-$git add -i  
+git add -i  
 
-# 把所有修改文件加入待提交状态
-$git add --all  
+# 把所有修改文件加入待提交staged状态
+git add --all  
 ```
+
+* 在本地分支中删除文件或目录
+```bash
+# 将source中所有文件子目录都从待提交staged状态改成untracked状态
+git rm --cached ./source
+```
+
 * 提交代码变更到本地分支中
 ```bash
 git commit
