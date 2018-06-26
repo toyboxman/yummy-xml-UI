@@ -141,13 +141,14 @@ git rm --cached ./source
 
 * 提交代码变更到本地分支中
 ```bash
-git commit
-
 # 提交全部更改的文件
 $git commit -a 
 
 # 修正本地分支的代码提交
 $git commit --amend 
+
+# 修正本地分支的代码提交中作者信息
+$git commit --amend --author="Gene <Gene@genesis.org>" --no-edit
 ```
 * 代码库分支查看
 ```bash
