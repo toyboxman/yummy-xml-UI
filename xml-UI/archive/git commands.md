@@ -288,21 +288,19 @@ $git revert --no-commit 0766c053..HEAD; git commit
 $git show e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ```
 
-* 在当前代码分支中合并某个提交代码
+* 代码库cherry-pick操作
 ```bash
-git cherry-pick -x
-```
-* 在当前代码分支中合并其他分支某个提交代码
-```bash
-git cherry-pick branch
-# 获取dev分支最后一个提交
-$git cherry-pick dev  
+# 在当前分支中获得dev上commit ID是6d17945cefa的提交
+git cherry-pick dev 6d17945cefa
 
-# 获取dev分支倒数第二提交
-$git cherry-pick dev^  
+# 在当前分支中获取dev分支最后一个提交
+git cherry-pick dev  
 
-# 获取dev分支倒数第三提交
-$git cherry-pick dev~2  
+# 在当前分支中获取dev分支倒数第二提交
+git cherry-pick dev^  
+
+# 在当前分支中获取dev分支倒数第三提交
+git cherry-pick dev~2  
 ```
 
 * 比较本地分支和remote分支差异
