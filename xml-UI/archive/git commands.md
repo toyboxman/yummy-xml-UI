@@ -142,47 +142,52 @@ git rm --cached ./source
 * 提交代码变更到本地分支中
 ```bash
 # 提交全部更改的文件
-$git commit -a 
+git commit -a 
 
 # 修正本地分支的代码提交
-$git commit --amend 
+git commit --amend 
 
 # 修正本地分支的代码提交中作者信息
-$git commit --amend --author="Gene <Gene@genesis.org>" --no-edit
+git commit --amend --author="Gene <Gene@genesis.org>" --no-edit
 ```
-* 代码库分支查看
+
+* 代码库分支操作
 ```bash
 # 查看当前代码库全部分支
-$git branch -a  
+git branch -a  
 
 # 查看本地分支和远程分支关系,包括分支间关联,提交状态对比
-$git branch -vv
-```
+git branch -vv
 
-* 删除分支
-```bash
 # 强制删除master分支
-$git branch -D master  
+git branch -D master  
 
 # 删除master分支，但需要所有本地提交已经合并到upstream或者没有变化
-$git branch -d master  
+git branch -d master  
+
+# 重命名当前分支成 master-dev
+git branch -m master-dev
+
+# 查看某个提交存在哪些分支中
+git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ```
 
-* 将某个分支checkout成一个本地分支
+* 代码库分支checkout操作
 ```bash
-git checkout -b local_name branch_name
-$git checkout master glance/stable/icehouse
-```
+# 将glance/stable/icehouse分支checkout成一个本地master分支
+git checkout master glance/stable/icehouse
 
-* 切换到某一个本地分支
-```bash
 # 从当前分支切换到master分支
 $git checkout master 
-```
 
-* 临时切换到指定提交位置，会与当前的分支HEAD脱离，处于无分支checkout态
-```bash
-$git checkout 0d1d7fc32
+# 临时切换到某个commit位置,切换后会与当前的分支脱离,处于无分支checkout状态
+git checkout 0d1d7fc32
+
+# 将当前分支代码回滚到upstream HEAD位置
+git checkout -f  
+
+# 丢弃在当前分支中对Run.java文件的修改,此时文件处于未提交状态
+git checkout -- Run.java  
 ```
 
 * 查看当前代码库全部tag快照
@@ -198,14 +203,6 @@ git checkout -b branch_name tag_name
 $git checkout -b branch1 2014.1.1
 ```
 
-* 丢弃本地分支代码修改
-```bash
-# 整个分支代码回滚到upstream HEAD
-$git checkout -f  
-
-# 丢弃Run.java文件的修改
-$git checkout -- Run.java  
-```
 * 当前的文件夹中文件信息汇总
 ```bash
 # 列出当前目录及子目录中所有文件
@@ -290,10 +287,7 @@ $git revert --no-commit 0766c053..HEAD; git commit
 ```bash
 $git show e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ```
-* 查看某个提交在哪些分支中
-```bash
-$git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
-```
+
 * 在当前代码分支中合并某个提交代码
 ```bash
 git cherry-pick -x
