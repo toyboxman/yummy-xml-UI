@@ -56,6 +56,9 @@
 <node CREATED="1508987656675" ID="ID_1068319294" LINK="https://stackoverflow.com/questions/9698677/privatethis-vs-private" MODIFIED="1508987722891" TEXT="private[this]"/>
 </node>
 </node>
+<node CREATED="1530607384432" ID="ID_1589150847" LINK="https://stackoverflow.com/questions/22617713/whats-the-current-state-of-static-analysis-tools-for-scala" MODIFIED="1530607408389" TEXT="static analysis">
+<node CREATED="1530607410108" ID="ID_1897773027" LINK="https://github.com/sksamuel/scapegoat" MODIFIED="1530607434482" TEXT="scapegoat"/>
+</node>
 </node>
 <node COLOR="#00b439" CREATED="1508204537978" FOLDED="true" ID="ID_1796130615" LINK="https://github.com/apache/spark" MODIFIED="1523513481206" POSITION="left" TEXT="spark">
 <edge STYLE="bezier" WIDTH="thin"/>

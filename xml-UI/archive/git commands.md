@@ -139,7 +139,7 @@ git add --all
 git rm --cached ./source
 ```
 
-* 提交代码变更到本地分支中
+* 代码库commit操作
 ```bash
 # 提交全部更改的文件
 git commit -a 
@@ -151,7 +151,7 @@ git commit --amend
 git commit --amend --author="Gene <Gene@genesis.org>" --no-edit
 ```
 
-* 代码库分支操作
+* 代码库branch操作
 ```bash
 # 查看当前代码库全部分支
 git branch -a  
@@ -172,7 +172,7 @@ git branch -m master-dev
 git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ```
 
-* 代码库分支checkout操作
+* 代码库checkout操作
 ```bash
 # 将glance/stable/icehouse分支checkout成一个本地master分支
 git checkout master glance/stable/icehouse
