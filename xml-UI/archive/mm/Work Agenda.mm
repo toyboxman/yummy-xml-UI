@@ -254,7 +254,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1505703110968" FOLDED="true" ID="ID_1196948541" MODIFIED="1528079828120" TEXT="web">
+<node COLOR="#00b439" CREATED="1505703110968" FOLDED="true" ID="ID_1196948541" MODIFIED="1530517496184" TEXT="web">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <node COLOR="#990000" CREATED="1505703119678" ID="ID_1124745693" LINK="https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx.html" MODIFIED="1528079828120" TEXT="Nginx">
 <edge COLOR="#111111" WIDTH="thin"/>
@@ -325,7 +325,7 @@
 <node COLOR="#00b439" CREATED="1516677487105" ID="ID_1793652038" LINK="https://github.com/Kong/kong" MODIFIED="1528079828141" TEXT="API Gateway">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node COLOR="#00b439" CREATED="1508204693303" ID="ID_241322075" LINK="Griffin.mm" MODIFIED="1528079828142" TEXT="Griffin">
+<node COLOR="#00b439" CREATED="1508204693303" ID="ID_241322075" LINK="Griffin.mm" MODIFIED="1530606956845" TEXT="Griffin">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
