@@ -167,6 +167,8 @@ git branch -d master
 
 # 重命名当前分支成 master-dev
 git branch -m master-dev
+# 重命名 master-dev 为 master
+git branch -m master-dev master
 
 # 查看某个提交存在哪些分支中
 git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319

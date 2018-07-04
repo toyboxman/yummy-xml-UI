@@ -10,7 +10,7 @@
 <node CREATED="1511143495921" ID="ID_651908249" LINK="https://alvinalexander.com/scala/functional-programming-simplified-ebook" MODIFIED="1511143540094" TEXT="scala-simplified"/>
 </node>
 <node CREATED="1508395038955" ID="ID_603020956" LINK="https://www.tutorialspoint.com/compile_scala_online.php" MODIFIED="1508395057003" TEXT="web execution"/>
-<node CREATED="1508395206036" FOLDED="true" ID="ID_953668782" MODIFIED="1523513468645" TEXT="syntax">
+<node CREATED="1508395206036" ID="ID_953668782" MODIFIED="1530622311937" TEXT="syntax">
 <node COLOR="#990000" CREATED="1507605486599" ID="ID_1779610205" LINK="https://en.wikibooks.org/wiki/Scala/Import" MODIFIED="1507605493701" TEXT="import">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
