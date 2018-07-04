@@ -9,9 +9,15 @@
 
 ---
 
-* 设置git用户的信息
+[TOC]
+
+# Section 1
+## Sub-section 1
+# Section 2
+
+* git config 操作
 ```bash
-# list全部属性
+# list 代码仓库全部属性
 git config -l
 
 # 设置当前git用户名及邮件属性，仅作用于当前git仓库
@@ -25,8 +31,10 @@ git config --global user.email "Gene@genesis.org"
 # remove global config
 git config --global --unset-all user.name
 ```
-* 初始化一个空的本地git仓库
+
+* git init 操作
 ```bash
+# 初始化一个空的本地git仓库
 git init
 ```
 * 直接克隆一个远端代码仓库到本地
