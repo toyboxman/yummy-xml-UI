@@ -9,13 +9,10 @@
 
 ---
 
-[TOC]
+- [git config](#git-config)
+- [Service](#service)
 
-# Section 1
-## Sub-section 1
-# Section 2
-
-* git config 操作
+### git config
 ```bash
 # list 代码仓库全部属性
 git config -l
