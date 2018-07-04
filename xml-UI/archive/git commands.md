@@ -21,6 +21,10 @@
 - [git commit](#git-commit)
 - [git branch](#git-branch)
 - [git checkout](#git-checkout)
+- [git tag](#git-tag)
+- [git ls-files](#git-ls-files)
+- [git review](#git-review)
+- [gitk](#gitk)
 
 ### git config
 ```bash
@@ -199,7 +203,11 @@ git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
 git checkout master glance/stable/icehouse
 
 # 从当前分支切换到master分支
-$git checkout master 
+git checkout master 
+
+# 把tag(2014.1.1)对应的快照checkout成本地分支tag-dev
+# 仓库的快照本身不能修改,只能变成本地分支才能修改
+git checkout -b tag-dev 2014.1.1
 
 # 临时切换到某个commit位置,切换后会与当前的分支脱离,处于无分支checkout状态
 git checkout 0d1d7fc32
@@ -211,26 +219,21 @@ git checkout -f
 git checkout -- Run.java  
 ```
 
-* 查看当前代码库全部tag快照
+### git tag 
 ```bash
+# 查看当前代码库全部tag快照
 git tag
 # 查看如何创建删除标签
-$git tag --help  
+git tag --help  
 ```
 
-* 把tag对应的快照checkout成本地分支，仓库快照本身无法修改，只能变成本地分支才能改
-```bash
-git checkout -b branch_name tag_name
-$git checkout -b branch1 2014.1.1
-```
-
-* 当前的文件夹中文件信息汇总
+### git ls-files
 ```bash
 # 列出当前目录及子目录中所有文件
-$git ls-files
+git ls-files
 
 # 统计当前目录及子目录中所有文件的行数
-$git ls-files | xargs cat | wc -l
+git ls-files | xargs cat | wc -l
 ```
 
 * 合并两分支代码，与rebase命令有些区别，体现在分支树节点上
@@ -395,15 +398,18 @@ $git format-patch -1 HEAD
 $git format-patch -1   
 ```
 
-* GUI方式查看分支修改记录
+### gitk 
 ```bash
+# GUI方式查看分支修改记录
 gitk
+
+# 查看文件修改记录
 gitk file
 ```
 
 ---
 
-### 代码的review
+### git review
 1. 安装支持git的reviewt专用软件 (http://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
 2. 通过gerrit review的命令来操作, 或者通过git-review命令
