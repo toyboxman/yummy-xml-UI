@@ -21,6 +21,12 @@
 - [git commit](#git-commit)
 - [git branch](#git-branch)
 - [git checkout](#git-checkout)
+- [git cherry-pick](#git-cherry-pick)
+- [git diff](#git-diff)
+- [git show](#git-show)
+- [git log](#git-log)
+- [git blame](#git-blame)
+- [git format-patch](#git-format-patch)
 - [git tag](#git-tag)
 - [git ls-files](#git-ls-files)
 - [git review](#git-review)
@@ -223,8 +229,12 @@ git checkout -- Run.java
 ```bash
 # 查看当前代码库全部tag快照
 git tag
+
 # 查看如何创建删除标签
 git tag --help  
+
+# 查看commit出现在哪些仓库标签快照中
+$git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
 ```
 
 ### git ls-files
@@ -312,7 +322,7 @@ $git revert --no-commit 0766c053..HEAD; git commit
 $git show e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ```
 
-* 代码库cherry-pick操作
+### cherry-pick
 ```bash
 # 在当前分支中获得dev上commit ID是6d17945cefa的提交
 git cherry-pick dev 6d17945cefa
@@ -327,35 +337,26 @@ git cherry-pick dev^
 git cherry-pick dev~2  
 ```
 
-* 比较本地分支和remote分支差异
+### git diff
 ```bash
-# 比较本地master分支和remote master分支的差异
-$git diff origin/master  
+# 比较当前master分支和remote的master分支的差异
+git diff origin/master  
 
 # 比较本地myBranch分支和remote master分支的差异
-$git diff myBranch origin/master  
-```
-* 比较某个文件在不同tag快照中区别
-```bash
-git diff tag1 tag2  -- filename
+git diff myBranch origin/master  
 
-# 查看文件两标签间修改
-$git diff 0.12.0 0.13.0 -- glanceclient/common/http.py  
+# 查看文件两标签快照(0.12.0-0.13.0)之间的差异
+git diff 0.12.0 0.13.0 -- glanceclient/common/http.py  
 ```
-* 查看修改提交出现在哪些标签中
+
+### git log 
 ```bash
-git tag --contains commitID
-$git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
-```
-* 查看某个代码分支所有提交日志summary
-```bash
-git log --oneline <branch>
-# 查看当前分支日志列表
+# 简要汇总flash-dev分支所有提交日志
+git log --oneline flash-dev
+
+# 简要汇总当前分支日志
 $git log --oneline  
-```
 
-* 查看分支中某个作者的提交列表
-```bash
 # 查看匹配name的作者所有提交详情
 git log --author <name>  
 
@@ -377,25 +378,30 @@ git log --author <name> | grep <name> | wc -l
 git log --author=<name> --pretty=tformat: --numstat | awk \
 '{ add += $1; subs += $2; loc += $1 - $2 } END \
 { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
-```
 
-* 查看代码分支在两个tag快照之间的所有提交日志
-```bash
+# 汇总当前分支在两个tag快照之间的所有提交日志
 git log tag1..tag2
 ```
-* 查看某个文件的所有修改细节
+
+### git blame
 ```bash
-git blame filename
 # 查看http.py文件每一行修改记录
-$git blame glanceclient/common/http.py  
+git blame glanceclient/common/http.py  
 ```
-* 创建源代码文件补丁
+
+### git show
+```bash
+# 显示master分支最后一个提交的内容
+git show master @ 
+```
+
+### git format-patch
 ```bash
 # 在当前分支下为最新的一个提交(head -1)打出补丁
-$git format-patch -1 HEAD  
+git format-patch -1 HEAD  
 
 # 在当前分支下为某一个提交(sha -1)打出补丁
-$git format-patch -1   
+git format-patch -1   
 ```
 
 ### gitk 
