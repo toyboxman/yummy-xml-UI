@@ -10,7 +10,17 @@
 ---
 
 - [git config](#git-config)
-- [Service](#service)
+- [git init](#git-init)
+- [git clone](#git-clone)
+- [git remote](#git-remote)
+- [git pull](#git-pull)
+- [git push](#git-push)
+- [git status](#git-status)
+- [git add](#git-add)
+- [git rm](#git-rm)
+- [git commit](#git-commit)
+- [git branch](#git-branch)
+- [git checkout](#git-checkout)
 
 ### git config
 ```bash
@@ -29,16 +39,27 @@ git config --global user.email "Gene@genesis.org"
 git config --global --unset-all user.name
 ```
 
-* git init 操作
+### git init
 ```bash
 # 初始化一个空的本地git仓库
 git init
+
+# 建立一个可供其他机器下载的remote repo
+# 先在remote机器上指定目录中init一个仓库
+# 本地创建一个远程git repo映射的alias myAppName
+git remote add myAppName ssh://192.168.149.128/~/source/app/.git 
+
+# 将本地myAppName目录下master分支推送到remote repo
+git push myAppName master
 ```
-* 直接克隆一个远端代码仓库到本地
+
+### git clone 
 ```bash
+# 克隆一个远端代码仓库到本地
 $git clone https://github.com/openstack/glance.git
 ```
-* 在仓库中添加一个远程代码源
+
+### git remote
 ```bash
 # 在本地创建一个alias为glance的remote仓库(glance.git)映射
 git remote add glance https://github.com/openstack/glance.git
@@ -57,6 +78,9 @@ origin  https://github.com/apache/incubator-griffin.git (push)
 
 # 删除remote代码源映射
 git remote remove glance
+
+# 更新本地的remote代码源,不会覆盖本地分支
+git remote update
 
 # 查看远端repo
 git remote show Eugene
@@ -86,15 +110,13 @@ URL: https://github.com/toyboxman/incubator-griffin.git
  * [pruned] Eugene/refactor/update-cases
 ```
 
-* 更新代码仓库
+### git pull
 ```bash
-# 更新本地远程代码源,不会覆盖本地分支
-git remote update
-# 获取远端代码库中最新的代码，并且覆盖本地分支
+# 获取远端代码仓库中最新的代码，并且覆盖本地分支
 git pull
 ```
 
-* 提交代码到远程代码库
+### git push
 ```bash
 # 把本地当前分支提交到remote映射的分支上
 git push
@@ -112,21 +134,13 @@ To https://github.com/toyboxman/incubator-griffin.git
  * [new branch]      m0 -> refactor/testcases
 ```
 
-* 建立一个可供其他机器下载的remote repo
+### git status
 ```bash
-# 先在remote指定目录中init一个仓库
-# 本地创建一个远程git repo映射的alias
-git remote add myAppName ssh://192.168.149.128/~/source/app/.git 
-
-# 将本地myAppName目录下master分支推送到remote repo
-git push myAppName master
-```
-
-* 查看仓库中文件状态
-```bash
+# 查看仓库中文件状态
 git status
 ```
-* 在本地分支中添加文件或目录
+
+### git add
 ```bash
 # 将source中所有文件子目录都加入待提交staged状态
 git add ./source 
@@ -138,13 +152,13 @@ git add -i
 git add --all  
 ```
 
-* 在本地分支中删除文件或目录
+### git rm
 ```bash
 # 将source中所有文件子目录都从待提交staged状态改成untracked状态
 git rm --cached ./source
 ```
 
-* 代码库commit操作
+### git commit
 ```bash
 # 提交全部更改的文件
 git commit -a 
@@ -156,7 +170,7 @@ git commit --amend
 git commit --amend --author="Gene <Gene@genesis.org>" --no-edit
 ```
 
-* 代码库branch操作
+### git branch
 ```bash
 # 查看当前代码库全部分支
 git branch -a  
@@ -179,7 +193,7 @@ git branch -m master-dev master
 git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ```
 
-* 代码库checkout操作
+### git checkout
 ```bash
 # 将glance/stable/icehouse分支checkout成一个本地master分支
 git checkout master glance/stable/icehouse
