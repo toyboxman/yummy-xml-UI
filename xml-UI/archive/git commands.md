@@ -128,10 +128,13 @@ git pull
 
 ### git push
 ```bash
-# 把本地当前分支提交到remote映射的分支上
-git push
+# 把本地当前最新分支push到Eugene目录下remote的bugs分支
+git push Eugene HEAD:bugs
 
-# 把本地glance目录下最新push到remote的icehouse分支
+# 把本地当前最新分支(dev)push到Eugene目录下remote的同名分支dev
+git push Eugene dev
+
+# 把本地glance目录下最新分支push到remote的分支(refs/heads/icehouse)
 git push glance HEAD:refs/heads/icehouse
 
 # Eugene目录中master分支不存在，推送失败
