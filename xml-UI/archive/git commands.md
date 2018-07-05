@@ -24,6 +24,8 @@
 - [git cherry-pick](#git-cherry-pick)
 - [git diff](#git-diff)
 - [git show](#git-show)
+- [git merge/rebase](#git-merge-rebase)
+- [git reset/revert](#git-reset-revert)
 - [git log](#git-log)
 - [git blame](#git-blame)
 - [git format-patch](#git-format-patch)
@@ -249,80 +251,69 @@ git ls-files
 git ls-files | xargs cat | wc -l
 ```
 
-* 合并两分支代码，与rebase命令有些区别，体现在分支树节点上
-```bash
-git merge branch_a   
-# 将社区分支合并到当前分支中
-$git merge stable/icehouse 
-```
-* 合并分支区别 rebase／merge
-```bash
-master branch : patch1<-patch2<-patch3
-b1 branch from patch2 : patch1<-patch2<-patch4
-b2 branch from patch2 : patch1<-patch2<-patch4
-# 检查分支合并结果
-git log --oneline 
-b1-git merge master : patch1<-patch2<-patch4<-patch3<-auto-merge-patch 'Merge branch 'master' into b1'
-                                    把master中最新提交归并到b1分支最后，并产生一个自动合并提交
-b2-git rebase master : patch1<-patch2<-patch3<-patch4 归并到master分支中，跟在最近提交后面
-```
-
-* 修改本地已提交的历史
+### git merge rebase
 > [Link1](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
 > [Link2](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
 ```bash
+# 将社区分支(stable/icehouse )合并到当前分支中
+git merge stable/icehouse 
+
+# b1 b2分支上做rebase/merge 操作结果的差异
+master branch : patch1 <- patch2 <- patch3
+b1 branch forking from patch2 : patch1 <- patch2 <- patch4
+b2 branch forking from patch2 : patch1 <- patch2 <- patch4
+# 检查分支合并结果, merge后会产生合并点, rebase后原分支顺序不会保留
+git log --oneline 
+b1 > git merge master : patch1<-patch2<-patch4<-patch3<-auto-merge-patch 'Merge branch 'master' into b1'
+                                    把master上patch2之后提交都合并到b1分支最后，并产生一个自动合并提交
+b2 > git rebase master : patch1<-patch2<-patch3<-patch4
+                                    把master上patch2之后提交都插入到b1分支patch2之后
+									
+# 修改本地提交历史基本步骤(如果分支已经push到remote, 修改提交会产生内容不一致)
 # Show the last 9 commits in a text editor, @ is shorthand for HEAD, 
 # and ~ is the commit before the specified commit
 # in a text editor change 'pick' to 'e' (edit), and save and close the file.
 # Git will rewind to that commit
-$git rebase -i @~9   
 
-$git add -A
-#make changes
-$git commit --amend 
+# rebase当前分支倒数9个提交
+git rebase -i @~9   
+# 在vi编辑器中把想修改的commit选项从'pick'改成'e', 保存退出
+# 如果想调整提交顺序, 在vi编辑器中调整提交行的前后顺序即可
+# 修改一些文件然后置为staged状态
+git add -A
+# 提交修改
+git commit --amend 
 #discard the last commit, but not the changes to the files
-$git reset @~  
-#Git will replay the subsequent changes on top of your modified commit
-$git rebase --continue  
+git reset @~  
+# Git will replay the subsequent changes on top of your modified commit
+git rebase --continue  
 ```
-* 回退变更,提交
+
+### git reset revert
 ```bash
-# 二者最大区别在于,如果commit没有publish出去，那么就可以在本地丢弃，用reset即可
-# 如果已经publish到公共repo了，那么就用revert，它会产生新的commit去undo已存在提交
-git reset/revert                      
-```
-* 从HEAD回退到指定提交位置，未提交的任何本地改变都会丢弃
-```bash
-$git reset --hard 0d1d7fc32
-```
-* 或者回退到分支最新提交点
-```bash
-$git reset --hard HEAD
-```
-* 先临时保存未提交的本地变更，然后回退到提交点，再将临时保存修改应用到新基点。
-```bash
-$git stash; git reset --hard 0d1d7fc32; git stash pop
-```
-* 通过软复位也可以达到上一命令相同效果  hard/soft前后两种方式区别就在于是否保留未提交更改
-```bash
-$git reset --soft 0d1d7fc32
-```
-* 回退已提交的三个commit
-```bash
-# 自动产生一个revert的commit
-$git revert a867b4af 25eee4ca 0766c053
-```
-* 回退从当前HEAD往前2个commit
-```bash
-$git revert HEAD~2..HEAD
-```
-* 回退提交，不自动产生revert的commit，手动提交
-```bash
-$git revert --no-commit 0766c053..HEAD; git commit
-```
-* 查看某个提交中哪些文件被修改
-```bash
-$git show e96a53a68b2ed1ce9b98661b07f8071e789d2319
+# 二者最大区别在于, 如果commit没有push, 那么就可以在本地丢弃, 用reset即可
+# 如果已经push到remote的仓库, 那么就用revert, 它会产生新的commit去undo已存在提交
+
+# 从HEAD回退到指定提交位置, 未提交的任何本地改变都会丢弃
+git reset --hard 0d1d7fc32
+
+# 回退到分支最新提交点
+git reset --hard HEAD
+
+# 先临时保存未提交的本地变更, 然后回退到提交点, 再将临时保存修改应用到新基点
+git stash; git reset --hard 0d1d7fc32; git stash pop
+
+# 通过软复位也可以达到上一命令相同效果  hard/soft前后两种方式区别就在于是否保留未提交更改
+git reset --soft 0d1d7fc32
+
+# 回退已提交的三个commit, git自动产生一个revert的commit
+git revert a867b4af  25eee4ca 0766c053
+
+# 回退从当前HEAD往前2个commit, git自动产生一个revert的commit
+git revert HEAD~2..HEAD
+
+# 回退提交, 不自动产生revert的commit, 手动提交
+git revert --no-commit 0766c053..HEAD; git commit
 ```
 
 ### cherry-pick
@@ -396,6 +387,9 @@ git blame glanceclient/common/http.py
 ```bash
 # 显示master分支最后一个提交的内容
 git show master @ 
+
+# 查看某个提交中哪些文件被修改
+git show e96a53a68b2ed1ce
 ```
 
 ### git format-patch
