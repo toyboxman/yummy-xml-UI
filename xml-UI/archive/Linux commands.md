@@ -11,6 +11,10 @@
 
 ---
 
+- [download](#download)
+
+---
+
 Platform Redhat Enterprise Server
 
 ---
@@ -171,7 +175,7 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 env | more
 printenv | less
 ```
-* download
+## download
 ```bash
 # wget download jdk package w/ header
 # -c / --continue  Continue getting a partially-downloaded file
