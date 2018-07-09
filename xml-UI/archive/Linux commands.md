@@ -11,7 +11,8 @@
 
 ---
 
-- [download](#download)
+- [usual command](#usual-command)
+    - [download](#download)
 
 ---
 
@@ -175,7 +176,7 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 env | more
 printenv | less
 ```
-## download
+##### download
 ```bash
 # wget download jdk package w/ header
 # -c / --continue  Continue getting a partially-downloaded file
