@@ -12,6 +12,8 @@
 ---
 
 - [usual command](#usual-command)
+    - [env](#env)
+    - [find](#find)
     - [download](#download)
     - [search txt](#search-txt)
     - [search gz](#search-gz)
@@ -102,8 +104,14 @@ dhclient eth0
 ```bash
 route -n
 ```
-#### usual command
-* search a file by some condition
+### usual command
+#### env
+```bash
+env | more
+printenv | less
+```
+
+#### find
 ```bash
 # search a file by some condition
 find /etc -name network.sh  
@@ -176,11 +184,6 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} +
 
 # show less detailed information
 find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
-```
-* list env
-```bash
-env | more
-printenv | less
 ```
 
 ##### download
