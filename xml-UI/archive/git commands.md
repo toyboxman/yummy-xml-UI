@@ -139,7 +139,7 @@ git push Eugene dev
 # 把本地glance目录下最新分支push到remote的分支(refs/heads/icehouse)
 git push glance HEAD:refs/heads/icehouse
 
-# Eugene目录中master分支不存在，推送失败
+# Eugene目录中master分支不存在,推送失败
 git push Eugene master:refactor/testcases   
 error: src refspec master does not match any.
 error: failed to push some refs to 'https://github.com/toyboxman/incubator-griffin.git'
@@ -147,6 +147,21 @@ error: failed to push some refs to 'https://github.com/toyboxman/incubator-griff
 git push Eugene m0:refactor/testcases
 To https://github.com/toyboxman/incubator-griffin.git
  * [new branch]      m0 -> refactor/testcases
+
+# Eugene目录中pr-345分支与remote的headOption分支有差异,推送失败
+git push Eugene pr-345:headOption
+To https://github.com/toyboxman/incubator-griffin.git
+ ! [rejected]        pr-345 -> headOption (non-fast-forward)
+error: failed to push some refs to 'https://github.com/toyboxman/incubator-griffin.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. Check out this branch and integrate the remote changes
+hint: (e.g. 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+# 强制推送成功 --force
+git push -f Eugene pr-345:headOption
+remote: Resolving deltas: 100% (9/9), completed with 9 local objects.
+To https://github.com/toyboxman/incubator-griffin.git
+ + cd523f4...62ef1ad pr-345 -> headOption (forced update)
 ```
 
 ### git status
