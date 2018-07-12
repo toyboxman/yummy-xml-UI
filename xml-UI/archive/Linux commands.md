@@ -13,7 +13,8 @@
 
 - [usual command](#usual-command)
     - [download](#download)
-
+    - [search txt](#search-txt)
+    - [search gz](#search-gz)
 ---
 
 Platform Redhat Enterprise Server
@@ -144,12 +145,16 @@ stat index.htm
 # return king:users
 ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
 ```
-* search string(pattern) in files
+
+#### search txt
 ```bash
 grep DB_VERSION_STRING /usr/local/db.h
 
 # recursively search keyword in src folder from *.h files
 grep -nr --include="*.h" DB_VERSION_STRING ./src  
+
+# recursively search keyword in src folder excluding *.jar/*.class files
+grep -nr "VersionMBean" --exclude=\*.{jar,class} ~/src
 
 # search keyword 'Exception/exception' in log with 5 lines before and  1 line after showing
 grep -n -B5 -A1 [Ee]xception 1.log  
@@ -160,7 +165,8 @@ grep -i error 1.log
 # search keyword 'error' and count
 grep -c error 1.log  
 ```
-* search string(pattern) in compressed files
+
+#### search gz
 ```bash
 # zgrep search keyword in current folder from *.gz files
 zgrep -in "#bare" *.gz
@@ -176,6 +182,7 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 env | more
 printenv | less
 ```
+
 ##### download
 ```bash
 # wget download jdk package w/ header
