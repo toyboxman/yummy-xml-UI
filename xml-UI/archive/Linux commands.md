@@ -896,6 +896,7 @@ Page Up/Down | 上下翻页
    x           |  删除光标处字符, 3x删除光标处向右的三个字符
    dd         |  删除, 剪切 光标所在行, 3dd从当前行开始向下删除三行文本
    u           |  取消最近一次的操作，可以使用多次来恢复原有的操作
+  Ctrl+r        |  回退使用u命令的取消操作
    yy           | 复制当前整行的内容到vi缓冲区, 5yy就是复制5行
    m, ny         | :3,5y 复制第三行到第五行内容到缓存区
    yw           | 复制一个单词, 2yw就是复制两个单词
@@ -905,7 +906,6 @@ Page Up/Down | 上下翻页
    /             |  至上而下的查找, /work 查找work字符串, n下一个, shift+n上一个
    ?             |  至下而上的查找, ?work 查找work字符串
    :s/s1/s2             |  :s/old/new 用new替换当前行中首次出现的old<br>:%s/old/new/g 用new替换全文中所有出现的old<br>:m,n s/old/new/g用new替换从第m行到第n行中出现的old<br>:%s/old//n 统计全文出现的old的次数<br>:s/old/new/g 用new替换当前行中所有出现的old<br>:s/old/new/c 或 :s/old/new/gc 强制每个替换需要用户进行确认
-  Ctrl+r        |  回退使用u命令的取消操作
    i(insert)   |  插入光标处编辑
    a(append)   |  光标后编辑
    :sp [filename]   |  在同一编辑窗打开第二个文件
