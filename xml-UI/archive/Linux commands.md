@@ -19,6 +19,7 @@
     - [Download](#download)
     - [Search txt](#search-txt)
     - [Search gz](#search-gz)
+    - [Text Operation](#txt-operation)
     - [Image Operation](#vm-image-operation)
 ---
 
