@@ -19,8 +19,9 @@
     - [Download](#download)
     - [Search txt](#search-txt)
     - [Search gz](#search-gz)
-    - [Text Operation](#txt-operation)
-    - [Image Operation](#vm-image-operation)
+    - [Vim](#vim)
+- [Text Operation](#txt-operation)
+- [Image Operation](#vm-image-operation)
 ---
 
 Platform Redhat Enterprise Server
@@ -615,7 +616,7 @@ Service Info: Host: Suse-leap.example.com
 
 ---
 
-#### TXT operation 
+### TXT operation 
 > [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
 * patch for codes
 ```bash
@@ -917,7 +918,7 @@ Shift+Insert   |  Õ³ÌùÏµÍ³¼ôÌù°åÄÚÈÝ
 
 ---
 
-#### Shell programming
+### Shell programming
 > [programming](https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/shell%20programming.md)<br>
 > [Link](http://www.freeos.com/guides/lsst/)
 * IFS  
@@ -1028,7 +1029,7 @@ curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
 ---
           
 
-#### VM Image operation
+### VM Image operation
 * guestfish
 ```bash
 virt-copy-out -a controller.vmdk /opt/nvp/etc/api_server.conf ./
