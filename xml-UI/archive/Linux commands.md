@@ -14,6 +14,7 @@
 - [usual command](#usual-command)
     - [env](#env)
     - [find](#find)
+    - [netstat](#netstat)
     - [firewall](#iptablesfirewall)
     - [download](#download)
     - [search txt](#search-txt)
@@ -246,10 +247,15 @@ unzip a.zip -d /usr/share/tmp
 # pipeline gzip&tar
 gzip -dv < bankApp.tar.gz | tar xvf -   
 ```
-* monitor port status
+#### netstat
 ```bash
+# monitor port status
 netstat -tlnpu
-netstat -anp|grep LIST
+
+# List Active Internet connections and UNIX domain sockets
+netstat -anp
+# Filter Listen state
+netstat -anp|grep LISTEN
 ```
 * no hangup task
 ```bash
