@@ -14,7 +14,7 @@
 - [usual command](#usual-command)
     - [env](#env)
     - [find](#find)
-    - [firewall](#iptables-firewall)
+    - [firewall](#iptablesfirewall)
     - [download](#download)
     - [search txt](#search-txt)
     - [search gz](#search-gz)
