@@ -56,6 +56,18 @@ free -m
 # 'x' highlight sorted column
 # '<'£¬'>' move highlighted column sorted
 top
+
+# save top output in file
+# -b instructs top to operate in batch mode
+# -n specify the amount of interation the command should output
+top -b -n 1 > top.log
+
+# save process top output
+# -p specify process id
+top -p 678 -b -n3 > process.log
+
+# redirect loop output
+for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
 ```
 
 * config system services(GUI config is system-config-services)
