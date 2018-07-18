@@ -11,6 +11,11 @@
 
 ---
 - [monitor system information](#monitor-system-information)
+    - [List System Details](#list-system-details)
+    - [Show Linux Version](#show-linux-version)
+    - [Show Network Details](#show-network-details)
+    - [Show Disk Details](#show-disk-details)
+    - [Show Memory Details](#show-memory-details)
     - [Top](#top)
 - [usual command](#usual-command)
     - [Env](#env)
@@ -30,21 +35,39 @@ Platform Redhat Enterprise Server
 ---
 
 ### monitor system information
-* print kernel&driver message
+#### list system details
 ```bash
 dmesg
 ```
-* display disk info
+
+#### show Linux version
 ```bash
-df -h ./
+cat /etc/issue
+cat /proc/version
+uname -a
 ```
-* display current folder utilization info
+
+#### show network details
 ```bash
+cat /proc/sys/net/ipv4/ip_local_port_range
+```
+
+#### show disk details
+```bash
+# show current folder disk info
+df -h ./
+
+# show current folder utilization info
 du -sh ./
 ```
-* display memory info by mega
+
+#### show memory details
 ```bash
+# show memory info by mega
 free -m
+
+# show memory info by giga
+free -g
 ```
 
 #### top
@@ -98,12 +121,6 @@ cat /etc/services
 grep db2c_DB2 /etc/services
 ```
 
-* check Linux release version
-```bash
-cat /etc/issue
-cat /proc/version
-uname -a
-```
 * see all network interfaces name, like 'ifconfig -a'
 ```bash
 ls -1 /sys/class/net
