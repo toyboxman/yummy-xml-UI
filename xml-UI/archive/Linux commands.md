@@ -10,7 +10,8 @@
 > [blog](http://blog.sina.com.cn/s/blog_46d0362d0100mn09.html)
 
 ---
-
+- [monitor system information](#monitor-system-information)
+    - [Top](#top)
 - [usual command](#usual-command)
     - [Env](#env)
     - [Find](#find)
@@ -28,7 +29,7 @@ Platform Redhat Enterprise Server
 
 ---
 
-#### monitor system information
+### monitor system information
 * print kernel&driver message
 ```bash
 dmesg
@@ -45,8 +46,10 @@ du -sh ./
 ```bash
 free -m
 ```
-* list processes
+
+#### top
 ```bash
+# list processes/memory etc.
 # 'h' for help content
 # 'Z' enable color
 # 'R' for sort of columns
@@ -54,6 +57,7 @@ free -m
 # '<'，'>' move highlighted column sorted
 top
 ```
+
 * config system services(GUI config is system-config-services)
 ```bash
 service
@@ -895,6 +899,8 @@ Page Up/Down | 上下翻页
    :line           |  :15 跳到15行
    x           |  删除光标处字符, 3x删除光标处向右的三个字符
    dd         |  删除, 剪切 光标所在行, 3dd从当前行开始向下删除三行文本
+   o(open)         |  在光标行上新开一行
+   O(open)         |  在光标行下新开一行
    u           |  取消最近一次的操作，可以使用多次来恢复原有的操作
   Ctrl+r        |  回退使用u命令的取消操作
    yy           | 复制当前整行的内容到vi缓冲区, 5yy就是复制5行
@@ -906,8 +912,10 @@ Page Up/Down | 上下翻页
    /             |  至上而下的查找, /work 查找work字符串, n下一个, shift+n上一个
    ?             |  至下而上的查找, ?work 查找work字符串
    :s/s1/s2             |  :s/old/new 用new替换当前行中首次出现的old<br>:%s/old/new/g 用new替换全文中所有出现的old<br>:m,n s/old/new/g用new替换从第m行到第n行中出现的old<br>:%s/old//n 统计全文出现的old的次数<br>:s/old/new/g 用new替换当前行中所有出现的old<br>:s/old/new/c 或 :s/old/new/gc 强制每个替换需要用户进行确认
-   i(insert)   |  插入光标处编辑
+   i(insert)   |  光标处插入编辑
+   I(insert)   |  光标行首处插入编辑
    a(append)   |  光标后编辑
+   A(append)   |  光标行尾编辑
    :sp [filename]   |  在同一编辑窗打开第二个文件
   Ctrl+w        |  在同窗口多个编辑文件之间切换
 Shift+Insert   |  粘贴系统剪贴板内容
