@@ -80,6 +80,9 @@ free -g
 # '<'£¬'>' move highlighted column sorted
 top
 
+# list two processes
+top -p1846 -p20607
+
 # save top output in file
 # -b instructs top to operate in batch mode
 # -n specify the amount of interation the command should output
