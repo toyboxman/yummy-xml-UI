@@ -232,6 +232,9 @@ java.vm.version = 1.6.0-rc-b100
 ```bash 
 #查看及诊断当前jvm实例的性能问题
 #Samples for Generation Collection
+# 2834 is process id
+# 250 is time period
+# 7 is running collection seven times
 > jstat -gcutil 2834 250 7
   S0     S1     E      O      M     YGC     YGCT    FGC    FGCT     GCT   
   0.00  99.74  13.49   7.86  95.82      3    0.124     0    0.000    0.124
