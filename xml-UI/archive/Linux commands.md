@@ -22,6 +22,8 @@
     - [Find](#find)
     - [Copy](#cp)
     - [Scp](#scp)
+    - [Tar](#tar)
+    - [Gzip](#gzip)
     - [Netstat](#netstat)
     - [Firewall](#iptablesfirewall)
     - [Download](#download)
@@ -36,7 +38,7 @@ Platform Redhat Enterprise Server
 
 ---
 
-### monitor system information
+### Monitor system information
 #### list system details
 ```bash
 dmesg
@@ -147,7 +149,7 @@ dhclient eth0
 ```bash
 route -n
 ```
-### usual command
+### Usual command
 #### env
 ```bash
 env | more
@@ -162,13 +164,13 @@ find /etc -name network.sh
 find /home -user root -exec file {} \;  
 ```
 
-### cp
+#### cp
 ```bash
 # copy directory
 cp -rv /home/king/source ./
 ```
 
-### scp
+#### scp
 ```bash
 # remote copy file
 # cp local file to remote folder
@@ -256,7 +258,8 @@ wget -c --no-cookies \
 curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
 http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz
 ```
-* pack or unpack folder or file
+
+#### tar
 ```bash
 # List all files in archive.tar verbosely
 tar -tvf archive.tar
@@ -284,7 +287,8 @@ tar: Removing leading `/' from member names
 # -P or --absolute-names allow to use whole path
 tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz 
 ```
-* gzip/(zip/unzip) -- compress or decompress folder or file
+
+#### gzip
 ```bash
 # force to compress a tar file
 gzip -fv file.tar  
@@ -297,6 +301,7 @@ unzip a.zip -d /usr/share/tmp
 # pipeline gzip&tar
 gzip -dv < bankApp.tar.gz | tar xvf -   
 ```
+
 #### netstat
 ```bash
 # monitor port status
