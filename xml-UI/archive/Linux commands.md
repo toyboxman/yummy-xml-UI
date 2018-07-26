@@ -20,6 +20,8 @@
 - [usual command](#usual-command)
     - [Env](#env)
     - [Find](#find)
+    - [Copy](#cp)
+    - [Scp](#scp)
     - [Netstat](#netstat)
     - [Firewall](#iptablesfirewall)
     - [Download](#download)
@@ -159,13 +161,22 @@ find /etc -name network.sh
 # search all files in home folder and then determine its file type(append action)
 find /home -user root -exec file {} \;  
 ```
-* remote copy file
+
+### cp
 ```bash
+# copy directory
+cp -rv /home/king/source ./
+```
+
+### scp
+```bash
+# remote copy file
 # cp local file to remote folder
 scp *.log king@ip:/home/king  
 # cp remote file to local folder
 scp king@ip:/home/king/1.log ./king  
 ```
+
 * list current opened files
 ```bash
 lsof
