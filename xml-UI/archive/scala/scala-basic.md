@@ -14,7 +14,7 @@
 - **Nothing**: is a Trait. It's a subtype of everything. But not superclass of anything. There are no instances of Nothing.
 - **Nil**: Represents an empty List of anything of zero length. It's not that it refers to nothing but it refers to List which has no contents.
 - **None**: Used to represent a sensible return value. Just to avoid null pointer exception. Option has exactly 2 subclasses- Some and None. None signifies no result from the method.
-- **Unit**: Type of method that doesn¡¯t return a value of anys sort.
+- **Unit**: Type of method that doesn't return a value of any sort.
 ```scala
 # Nothing
 // List of Strings
@@ -35,6 +35,7 @@ scala> System.identityHashCode(Nil)
 374527572
 scala> System.identityHashCode(List())
 374527572
+
 scala> List(1, 2, 3).foldLeft(List[Int]())((x, y) => y :: x)
 res6: List[Int] = List(3, 2, 1)
 scala> List(1, 2, 3).foldLeft(Nil)((x, y) => y :: x)
@@ -53,14 +54,9 @@ StringContext("Hello, ", "").s(name)
 ```
 
 ### Option/Some/None
-A powerful Scala idiom is to use the Option class when returning a value from a function that can be null. Simply stated, 
-instead of returning one object when a function succeeds and null when it fails, your function should instead return an instance of 
-an Option, where the instance is either:
-    An instance of the Scala Some class
-    An instance of the Scala None class
+A powerful Scala idiom is to use the Option class when returning a value from a function that can be null.   
 Because Some and None are both children of Option, your function signature just declares that you're returning an Option 
-that contains some type (such as the Int type shown below). At the very least, this has the tremendous benefit of letting 
-the user of your function know what¡¯s going on.
+that contains some type (such as the Int type shown below).
 ```scala
 object HelloWorld {
     
@@ -92,7 +88,7 @@ object HelloWorld {
    }
 }
 ```
-run the codes above
+Run the codes above
 ```scala
 $scalac *.scala
 $scala HelloWorld
@@ -104,6 +100,8 @@ That didn't work.
 ```
 
 ### def/val
+- **def**: define method
+- **val**: define variable
 ```scala
 object HelloWorld {
     //Declaring methods
