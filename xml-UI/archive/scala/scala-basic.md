@@ -51,13 +51,15 @@ StringContext("Hello, ", "").s(name)
 ```
 
 ### Option/Some/None
-A powerful Scala idiom is to use the Option class when returning a value from a function that can be null. Simply stated, instead of returning one object when a function succeeds and null when it fails, your function should instead return an instance of an Option, where the instance is either:
-
+A powerful Scala idiom is to use the Option class when returning a value from a function that can be null. Simply stated, 
+instead of returning one object when a function succeeds and null when it fails, your function should instead return an instance of 
+an Option, where the instance is either:
     An instance of the Scala Some class
     An instance of the Scala None class
-
-Because Some and None are both children of Option, your function signature just declares that you're returning an Option that contains some type (such as the Int type shown below). At the very least, this has the tremendous benefit of letting the user of your function know what¡¯s going on.
-
+Because Some and None are both children of Option, your function signature just declares that you're returning an Option 
+that contains some type (such as the Int type shown below). At the very least, this has the tremendous benefit of letting 
+the user of your function know what¡¯s going on.
+```scala
 object HelloWorld {
     
     def toInt(in: String): Option[Int] = {
@@ -87,7 +89,9 @@ object HelloWorld {
         })
    }
 }
-
+```
+run the codes above
+```scala
 $scalac *.scala
 $scala HelloWorld
 Hello, world!Some(77)
@@ -95,8 +99,10 @@ Sum:6
 88
 99
 That didn't work.
+```
 
 ### def/val
+```scala
 object HelloWorld {
     //Declaring methods
    //private[this]     method is only available to the current instance
@@ -163,3 +169,4 @@ object HelloWorld {
        println(p(scala.math.E, 2)) // 7.3890560989306495
    }    
 }
+```
