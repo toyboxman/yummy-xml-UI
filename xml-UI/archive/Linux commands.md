@@ -20,6 +20,7 @@
 - [usual command](#usual-command)
     - [Env](#env)
     - [Find](#find)
+    - [SSH](#ssh)
     - [Copy](#cp)
     - [Scp](#scp)
     - [Tar](#tar)
@@ -154,6 +155,25 @@ route -n
 ```bash
 env | more
 printenv | less
+```
+
+#### ssh
+```bash
+# Generating public/private rsa key pair
+ssh-keygen -t rsa
+# login remote host
+ssh root@172.16.8.38
+# 'ls -al /root' folder in remote host
+ssh root@172.16.8.38 ls -al
+
+# Specifies that connections to the given TCP port on the remote (server) host 
+# are to be forwarded to the given host and port on the local side
+# -R [bind_address:]port:host:hostport
+# 如果目标机器在私有网段,需要通过jumphost才能访问.那么通过多次转发方式可以将
+# 内部机器一些端口数据转发出来进行分析监控,例如 public -> jumphost -> private
+# 可以配置转发 private -> jumphost -> public
+# 将172.16.1.13上端口54321数据转发本机54321端口
+ssh -R 54321:localhost:54321 root@172.16.1.13
 ```
 
 #### find
