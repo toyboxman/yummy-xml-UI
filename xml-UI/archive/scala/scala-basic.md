@@ -1,17 +1,22 @@
 - [Basic Language Concepts](#Basic-Language-Concepts)
-    - [Null](#null)
+    - [Null/Nil/Nothing/Unit](#nullnilnothingunit)
+    - [Option/Some/None](#optionsomenone)
+    - [Def/Val](#defval)
     - [String](#string)
 
 ***
 
 ## Basic Language Concepts
 
-### Null
-Null, null, Nil, Nothing, None, and Unit in Scala
+### Null/Nil/Nothing/Unit
+- **Null**每 It's a Trait.
+- **null**每 Its an instance of Null- Similar to Java null.
+- **Nothing**每 is a Trait. It's a subtype of everything. But not superclass of anything. There are no instances of Nothing.
+- **Nil**每 Represents an empty List of anything of zero length. It's not that it refers to nothing but it refers to List which has no contents.
+- **None**每 Used to represent a sensible return value. Just to avoid null pointer exception. Option has exactly 2 subclasses- Some and None. None signifies no result from the method.
+- **Unit**每 Type of method that doesn＊t return a value of anys sort.
 ```scala
-Null每 It's a Trait.
-null每 Its an instance of Null- Similar to Java null.
-Nothing is a Trait. It's a subtype of everything. But not superclass of anything. There are no instances of Nothing.
+# Nothing
 // List of Strings
 val fruit: List[String] = List("apples", "oranges", "pears")
 // List of Integers
@@ -19,7 +24,7 @@ val nums: List[Int] = List(1, 2, 3, 4)
 // Empty List.
 val empty: List[Nothing] = List()
 
-Nil每 Represents an empty List of anything of zero length. It's not that it refers to nothing but it refers to List which has no contents.
+#Nil
 scala> println (Nil == List())
 true
 scala> println (Nil eq List())
@@ -37,9 +42,6 @@ scala> List(1, 2, 3).foldLeft(Nil)((x, y) => y :: x)
  found   : List[Int]
  required: scala.collection.immutable.Nil.type
        List(1, 2, 3).foldLeft(Nil)((x, y) => y :: x)
-
-None每 Used to represent a sensible return value. Just to avoid null pointer exception. Option has exactly 2 subclasses- Some and None. None signifies no result from the method.
-Unit每 Type of method that doesn＊t return a value of anys sort.
 ``` 
 
 ### String
