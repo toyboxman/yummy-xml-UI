@@ -9,12 +9,12 @@
 ## Basic Language Concepts
 
 ### Null/Nil/Nothing/Unit
-- **Null**每 It's a Trait.
-- **null**每 Its an instance of Null- Similar to Java null.
-- **Nothing**每 is a Trait. It's a subtype of everything. But not superclass of anything. There are no instances of Nothing.
-- **Nil**每 Represents an empty List of anything of zero length. It's not that it refers to nothing but it refers to List which has no contents.
-- **None**每 Used to represent a sensible return value. Just to avoid null pointer exception. Option has exactly 2 subclasses- Some and None. None signifies no result from the method.
-- **Unit**每 Type of method that doesn＊t return a value of anys sort.
+- **Null**: It's a Trait.
+- **null**: Its an instance of Null- Similar to Java null.
+- **Nothing**: is a Trait. It's a subtype of everything. But not superclass of anything. There are no instances of Nothing.
+- **Nil**: Represents an empty List of anything of zero length. It's not that it refers to nothing but it refers to List which has no contents.
+- **None**: Used to represent a sensible return value. Just to avoid null pointer exception. Option has exactly 2 subclasses- Some and None. None signifies no result from the method.
+- **Unit**: Type of method that doesn＊t return a value of anys sort.
 ```scala
 # Nothing
 // List of Strings
