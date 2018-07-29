@@ -3,6 +3,8 @@
     - [Option/Some/None](#optionsomenone)
     - [Def/Val](#defval)
     - [String](#string)
+    - [Head](scala-head.md)
+    - [Collection](scala-collections.md)
 
 ***
 
