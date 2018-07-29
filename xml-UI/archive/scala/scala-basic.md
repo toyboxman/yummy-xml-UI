@@ -2,6 +2,7 @@
     - [Null/Nil/Nothing/Unit](#nullnilnothingunit)
     - [Option/Some/None](#optionsomenone)
     - [Def/Val](#defval)
+    - [classOf/isInstanceOf/asInstanceOf](#classofisinstanceofasinstanceof)
     - [String](#string)
     - [Head](scala-head.md)
     - [Collection](scala-collections.md)
@@ -172,3 +173,10 @@ object HelloWorld {
    }    
 }
 ```
+
+### classOf/isInstanceOf/asInstanceOf
+  Scala  | Java 
+------------- | -------------
+   obj.isInstanceOf[C]        |  obj instanceof C
+   obj.asInstanceOf[C]        |  (C)obj
+   classOf[C]        |  C.class
