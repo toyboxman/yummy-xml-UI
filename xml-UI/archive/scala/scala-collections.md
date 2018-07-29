@@ -2,8 +2,7 @@
 
 ## Use Collection
 
-### head potentially leads NPE
-scala的集合提供获取第一个元素操作，但如果是空集合就会导致空指针异常抛出
+### Array/List/Set/Tuple/Map
 ```scala
 object HelloWorld {
    println("Hello, world")
@@ -61,7 +60,9 @@ object HelloWorld {
       
    }
 }
-
+```
+Run the codes
+```scala
 $scalac *.scala
 $scala HelloWorld
 Hello, world
@@ -78,8 +79,23 @@ Some(bar)
 true
 bar
 Some(function)
+```
 
-Functional Combinators
+### Functional Combinators
+* map
+* range
+* foreach
+* filter
+* zip
+* partition
+* find
+* drop
+* dropWhile
+* foldLeft
+* foldRight
+* flatten
+* flatMap
+```scala
 object HelloWorld {
    def main(args: Array[String]) {
         //map function
