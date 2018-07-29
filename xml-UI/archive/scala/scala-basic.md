@@ -180,3 +180,46 @@ object HelloWorld {
    obj.isInstanceOf[C]        |  obj instanceof C
    obj.asInstanceOf[C]        |  (C)obj
    classOf[C]        |  C.class
+
+考虑这个function,把输入类型转化成List[Int], 或者一个更加复杂parameterized type如Map[Int, List[Int]].
+```scala
+object HelloWorld {
+  def castToType[A](x: Any): A = {
+    // throws if A is not the right type
+    x.asInstanceOf[A]
+  }
+
+   def main(args: Array[String]) {
+      val x = List(1, 2, 3)
+      val y = castToType[List[String]](x)
+      println(y)  // List(1, 2, 3)
+      println(y(0))  // 1
+   }
+}
+```
+
+- p.isInstanceOf[C] 判断p是否为C对象的实例, 如果类型匹配则用p.asInstanceOf[C]把p转换成C对象的实例
+- 如果没有用isInstanceOf先判断对象是否为指定类的实例,就直接用asInstanceOf转换则可能会抛出异常
+- 如果对象是null,则isInstanceOf一定返回false,asInstanceOf一定返回null
+- isInstanceOf只能判断出对象是否为指定类以及其子类的对象,而不能精确的判断对象就是指定类的对象
+- 如果要求精确地判断出对象就是指定类的对象,就只能使用getClass和classOf 
+- p.getClass和classOf[C]可以获取对象的类,然后使用==操作符即可判断是否匹配
+
+```scala
+class HelloWorldAncestor {}
+class HelloWorld extends HelloWorldAncestor
+object HelloWorld{
+    def main(args: Array[String]) {
+        val p:HelloWorldAncestor = new HelloWorld
+        //判断p是否为HelloWorldAncestor类的实例
+        println(p.isInstanceOf[HelloWorldAncestor])//true
+        //判断p的类型是否为HelloWorldAncestor类
+        println(p.getClass == classOf[HelloWorldAncestor])//false
+        //判断p的类型是否为HelloWorld类
+        println(p.getClass == classOf[HelloWorld])//true
+    }
+}
+```
+
+## Scala Compile
+* 使用scalac -Xprint:cleanup <Name>.scala, Scala编译器可以输出代码的抽象语法树(AST)

@@ -169,7 +169,7 @@
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node COLOR="#990000" CREATED="1508395524831" ID="ID_1142017138" LINK="https://codepad.remoteinterview.io" MODIFIED="1528079828114" TEXT="remoteinterview">
+<node COLOR="#990000" CREATED="1508395524831" ID="ID_1142017138" LINK="https://codeinterview.io/" MODIFIED="1528079828114" TEXT="remoteinterview">
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
