@@ -1,4 +1,4 @@
-- [Basic Language Concepts](#Basic-Language-Concepts)
+- [Basic Language Concepts](#basic-language-concepts)
     - [Null/Nil/Nothing/Unit](#nullnilnothingunit)
     - [Option/Some/None](#optionsomenone)
     - [Def/Val](#defval)
@@ -6,7 +6,7 @@
     - [String](#string)
     - [Head](scala-head.md)
     - [Collection](scala-collections.md)
-
+- [Scala Compile](#scala-compile)
 ***
 
 ## Basic Language Concepts
