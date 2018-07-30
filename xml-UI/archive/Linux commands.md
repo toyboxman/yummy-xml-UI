@@ -10,26 +10,27 @@
 > [blog](http://blog.sina.com.cn/s/blog_46d0362d0100mn09.html)
 
 ---
-- [monitor system information](#monitor-system-information)
+- [Monitor System Information](#monitor-system-information)
     - [List System Details](#list-system-details)
     - [Show Linux Version](#show-linux-version)
     - [Show Network Details](#show-network-details)
     - [Show Disk Details](#show-disk-details)
     - [Show Memory Details](#show-memory-details)
     - [Top](#top)
-- [usual command](#usual-command)
+- [Usual Command](#usual-command)
+    - [Copy](#cp)
+    - [Download](#download)
     - [Env](#env)
     - [Find](#find)
-    - [SSH](#ssh)
-    - [Copy](#cp)
-    - [Scp](#scp)
-    - [Tar](#tar)
-    - [Gzip](#gzip)
-    - [Netstat](#netstat)
     - [Firewall](#iptablesfirewall)
-    - [Download](#download)
+    - [Gzip](#gzip)
+    - [Mount/Unmount](#mountunmount)
+    - [Netstat](#netstat)
+    - [SSH](#ssh)
+    - [Scp](#scp)
     - [Search txt](#search-txt)
     - [Search gz](#search-gz)
+    - [Tar](#tar)
     - [Vim](#vim)
 - [Text Operation](#txt-operation)
 - [Image Operation](#vm-image-operation)
@@ -355,16 +356,20 @@ ln ./java   /home/root
 # link java to folder /home, just like shortcut of windows
 ln -s ./java  /home/ 
 ```
-* mount/umount -- add/remove a mount point
+
+#### mount/umount
 ```bash
 # mount remote nfs folder jars to local tor folder
 mount -t nfs 10.137.16.80:/nfsroot/jars /home/king/tor 
+
 # force to remove mounted folder
 umount -fv /home/king/tor 
+
 # Lazy unmount, and cleanup all references to the 
 # filesystem as soon as it is not busy anymore.
 umount -lv /home/king/tor 
 ```
+
 * command1; command2; command3 -- batch execute command
 ```bash
 vncserver -kill :1; vncserver
