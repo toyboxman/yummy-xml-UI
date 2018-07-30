@@ -24,7 +24,7 @@
     - [Find](#find)
     - [Firewall](#iptablesfirewall)
     - [Gzip](#gzip)
-    - [Mount/Unmount](#mountunmount)
+    - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [SSH](#ssh)
     - [Scp](#scp)
