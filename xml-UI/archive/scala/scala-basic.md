@@ -206,6 +206,8 @@ object HelloWorld {
 - p.getClass和classOf[C]可以获取对象的类,然后使用==操作符即可判断是否匹配
 
 ```scala
+import scala.reflect._
+
 class HelloWorldAncestor {}
 class HelloWorld extends HelloWorldAncestor
 object HelloWorld{
@@ -217,6 +219,16 @@ object HelloWorld{
         println(p.getClass == classOf[HelloWorldAncestor])//false
         //判断p的类型是否为HelloWorld类
         println(p.getClass == classOf[HelloWorld])//true
+        
+        val ct = classTag[HelloWorldAncestor]
+        println(ct) // HelloWorldAncestor
+        val ctc = ct.runtimeClass
+        println(ctc) // class HelloWorldAncestor
+        val c1 = ctc.asInstanceOf[Class[HelloWorldAncestor]]
+        println(c1) // class HelloWorldAncestor
+        val c2 = classOf[HelloWorldAncestor]
+        println(c2) // class HelloWorldAncestor
+        println(c1 == c2) // true
     }
 }
 ```
