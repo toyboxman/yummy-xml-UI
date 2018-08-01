@@ -25,15 +25,16 @@
     - [Env](#env)
     - [Find](#find)
     - [Firewall](#iptablesfirewall)
+    - [Grep](#search-txt)
     - [Gzip](#gzip)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [SSH](#ssh)
     - [Scp](#scp)
-    - [Search txt](#search-txt)
-    - [Search gz](#search-gz)
     - [Tar](#tar)
     - [Vim](#vim)
+    - [Zgrep](#search-gz)
+    - [Zcat](#zcat)
 - [Text Operation](#txt-operation)
 - [Image Operation](#vm-image-operation)
 ---
@@ -261,6 +262,12 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} +
 
 # show less detailed information
 find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
+```
+
+#### zcat
+```bash
+# show file content by page
+zcat syslog.1.gz | less
 ```
 
 ##### download
