@@ -11,6 +11,7 @@
 
 ---
 - [Monitor System Information](#monitor-system-information)
+    - [Activate Account](#activate-account)
     - [List System Details](#list-system-details)
     - [Show Linux Version](#show-linux-version)
     - [Show Network Details](#show-network-details)
@@ -19,6 +20,7 @@
     - [Top](#top)
 - [Usual Command](#usual-command)
     - [Copy](#cp)
+    - [Chsh](#chsh)
     - [Download](#download)
     - [Env](#env)
     - [Find](#find)
@@ -424,26 +426,32 @@ chown -hR stack folder/
 # change group of folder to root group recursive
 chgrp -hR root folder/     
 ```
-* chsh -- change default shell in login
+#### chsh
 ```bash
 # change default shell command to bash
-> chsh -s /bin/bash 
+chsh -s /bin/bash 
 # which is current default shell
-> which sh 
+which sh 
+```
 
-#"This account is currently not available" error means what is says
-#The account you are trying to ¡°su¡± to or trying to login with is 
-#currently not available because there is no valid shell set for this user
-> su mysql
-This account is currently not available.
-> cat /etc/passwd | grep mysql*
+#### activate account
+```bash
+# activate an account via chsh
+# "This account is currently not available" error means what is says
+# The account you are trying to ¡°su¡± to or trying to login with is 
+# currently not available because there is no valid shell set for this user
+su mysql
+# This account is currently not available.
+cat /etc/passwd | grep mysql*
 mysql:x:500:500::/home/mysql:/sbin/nologin
 mysqld:x:501:501::/home/mysqld:/bin/false
-> chsh -s /bin/bash mysql
-> chsh -s /bin/bash mysqld
-> cat /etc/passwd | grep mysql
+
+chsh -s /bin/bash mysql
+chsh -s /bin/bash mysqld
+cat /etc/passwd | grep mysql
 mysql:x:500:500::/home/mysql:/bin/bash
 ```
+
 * system setting
 ```bash
 system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
