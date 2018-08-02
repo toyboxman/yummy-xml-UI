@@ -235,7 +235,7 @@ object HelloWorld{
 ```
 
 ### Object/Case Class/Trait
-* Object
+* *Object*  
 简单说就是单例类,类似于Java中Enum.另一个作用是定义static的method和field只能放在object中<br>
 An object is a type of class that can have no more than one instance,known in object-oriented design as a singleton. 
 ```bash
@@ -259,7 +259,7 @@ object Hello {
 }
 ```
 
-* Case Class
+* *Case Class*  
 简单说作用类似于Java中Bean和DTO概念<br>
 A case class is an instantiable class that includes several automatically generated methods. 
 Case classes work great for data transfer objects, the kind of classes that are mainly used for 
@@ -296,7 +296,7 @@ object HelloWorld {
 }
 ```
 
-* Trait
+* *Trait*  
 简单说作用等同于Java中interface<br>
 A trait is a kind of class that enables multiple inheritance. Classes, case classes, objects, and (yes) traits 
 can all extend no more than one class but can extend multiple traits at the same time. 
