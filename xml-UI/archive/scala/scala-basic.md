@@ -236,31 +236,31 @@ object HelloWorld{
 
 ### Object/Case Class/Trait
 Object
-简单说就是单例类,类似于Java中Enum.另一个作用是定义static的method和field只能放在object中
-An object is a type of class that can have no more than one instance, known in object-oriented design as a singleton. 
+简单说就是单例类,类似于Java中Enum.另一个作用是定义static的method和field只能放在object中<br>
+An object is a type of class that can have no more than one instance,known in object-oriented design as a singleton. 
 ```bash
 object HelloWorld {
    def main(args: Array[String]) {
-	  // this call will trigger Hello instantiation/initialization
+      // this call will trigger Hello instantiation/initialization
       println(Hello.hi)  // in Hello
-	                               // hi
+	                 // hi
 	  
-	  // Repeating the call to the object’s “hi” method reused the same global instance 
-	  // so there was no additional initialization
+      // Repeating the call to the object's “hi”method reused the same global instance 
+      // so there was no additional initialization
       println(Hello.hi)  // hi
    }
 }
 
 object Hello { 
-     // This println at the top level of the object is invoked at instantiation/initialization,
-	 // which only occurs when it is accessed for the first time
+    // This println at the top level of the object is invoked at instantiation/initialization,
+    // which only occurs when it is accessed for the first time
     println("in Hello"); 
     def hi = "hi" 
 }
 ```
 
 Case Class
-简单说作用类似于Java中Bean和DTO概念
+简单说作用类似于Java中Bean和DTO概念<br>
 A case class is an instantiable class that includes several automatically generated methods. 
 Case classes work great for data transfer objects, the kind of classes that are mainly used for 
 storing data, given the data-based methods that are generated.
@@ -271,33 +271,33 @@ case class Character(name: String, isThief: Boolean)
 
 object HelloWorld {
    def main(args: Array[String]) {
-		  // Here’s our companion object’s factory method, Character.apply()
-		  val h = Character("Hadrian", true)
-		  Console.println(h.name)  // Hadrian
-		  //The generated toString method
-		  println(h)  // Character(Hadrian,true)
-		  
-		  val r = h.copy(name = "Royce")
-		  println(r)  // Character(Royce,true)
-		  
-		  // the == operator triggers an instance’s equals method
-		  println(h == r) // false
-		  
-		  val judgment = h match {
-				// The companion object’s unapply method allows us to 
-				// decompose the instance into its parts, binding the first 
-				// field (see Matching with Wildcard Patterns) and using 
-				// a literal value to match the second field. 
-				case Character(x, true) => s"$x is a thief"         
-				case Character(x, false) => s"$x is not a thief"
-		 }
-		 println(judgment) //Hadrian is a thief
+        // Here’s our companion object’s factory method, Character.apply()
+        val h = Character("Hadrian", true)
+        Console.println(h.name)  // Hadrian
+        //The generated toString method
+        println(h)  // Character(Hadrian,true)
+
+        val r = h.copy(name = "Royce")
+        println(r)  // Character(Royce,true)
+
+        // the == operator triggers an instance’s equals method
+        println(h == r) // false
+
+        val judgment = h match {
+            // The companion object’s unapply method allows us to 
+            // decompose the instance into its parts, binding the first 
+            // field (see Matching with Wildcard Patterns) and using 
+            // a literal value to match the second field. 
+            case Character(x, true) => s"$x is a thief"         
+            case Character(x, false) => s"$x is not a thief"
+       }
+       println(judgment) //Hadrian is a thief
    }
 }
 ```
 
 Trait
-简单说作用等同于Java中interface
+简单说作用等同于Java中interface<br>
 A trait is a kind of class that enables multiple inheritance. Classes, case classes, objects, and (yes) traits 
 can all extend no more than one class but can extend multiple traits at the same time. 
 Unlike the other types, however, traits cannot be instantiated.
@@ -306,22 +306,22 @@ and B and C are traits, would be reimplemented by the compiler as class D extend
 The rightmost trait is the immediate parent of the class being defined, and either the class or the first trait becomes the last parent class.
 ```bash
 trait HtmlUtils {
-	def removeMarkup(input: String) = {
-		 input
-		   .replaceAll("""</?\w[^>]*>""","")
-		   .replaceAll("<.*>","")
-	}
+    def removeMarkup(input: String) = {
+             input
+               .replaceAll("""</?\w[^>]*>""","")
+               .replaceAll("<.*>","")
+    }
 }
 
 class Page(val s: String) extends HtmlUtils {
-	def asPlainText = removeMarkup(s)
+    def asPlainText = removeMarkup(s)
 }
 
 object Page {
-	def main(args: Array[String]) {
-		val result = new Page("<html><body><h1>Introduction</h1></body></html>").asPlainText
-		println(result)  // Introduction
-	}
+    def main(args: Array[String]) {
+        val result = new Page("<html><body><h1>Introduction</h1></body></html>").asPlainText
+        println(result)  // Introduction
+    }
 }
 ```
 
@@ -340,20 +340,20 @@ object HelloWorld {
 }
 
 # 默认编译
-/src # scalac HelloWorld.scala
-/src # ls
+/src $ scalac HelloWorld.scala
+/src $ ls
 Character$.class   Character.class    HelloWorld$.class  HelloWorld.class   HelloWorld.scala
 
 # 指定编译输出目录
-/src # scalac -d bin HelloWorld.scala 
+/src $ scalac -d bin HelloWorld.scala 
 scalac error: bin does not exist or is not a directory
-/src # mkdir bin
-/src # scalac -d bin HelloWorld.scala 
-/src # ls bin/
+/src $ mkdir bin
+/src $ scalac -d bin HelloWorld.scala 
+/src $ ls bin/
 Character$.class   Character.class    HelloWorld$.class  HelloWorld.class
 
 # 运行
-/src # scala -cp bin HelloWorld
+/src $ scala -cp bin HelloWorld
 Hello, world !
 Hadrian
 Character(Hadrian,true)
@@ -362,7 +362,7 @@ Character(Hadrian,true)
 * [Scalac](https://www.scala-lang.org/files/archive/nightly/docs-2.10.2/manual/html/scalac.html)
 * 使用-Xshow-phases, Scala编译器可以输出代码的编译过程
 ```bash
-$scalac -Xshow-phases *.scala
+$ scalac -Xshow-phases *.scala
              phase name  id  description
              ----------  --  -----------
                  parser   1  parse source into ASTs, perform simple desugaring
