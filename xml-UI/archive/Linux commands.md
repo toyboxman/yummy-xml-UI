@@ -38,10 +38,13 @@
 - [Text Operation](#txt-operation)
     - [Awk](#awk)
     - [Hd/Od](#hdod)
-    - [Patch](#patch)
+    - [Diff/Patch](#diffpatch)
     - [Read](#read)
     - [Sed](#sed)
+    - [Sort](#sort)
+    - [Script](#script)
     - [Tee](#tee)
+    - [Uniq](#uniq)
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Image Operation](#vm-image-operation)
@@ -718,7 +721,7 @@ Service Info: Host: Suse-leap.example.com
 
 ### TXT operation 
 > [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
-#### patch
+#### diff/patch
 ```bash
 # 创建patch
 diff -u hello.c hello_new.c > hello.patch  
@@ -769,6 +772,45 @@ ps -ef | grep -c 'sshd'
 # 等同于
 ps -ef | grep 'sshd' | wc -l
 ```
+
+#### Hd/Od
+hexdump, hd — ASCII, decimal, hexadecimal, octal dump   
+od - dump files in octal and other formats
+```bash
+# -c 输入字符串按字节逐个显示字符,offset中对应显示16进制格式 
+echo xxxxxxCONTROL-V CONTROL-U | hd -c
+00000000  78 78 78 78 78 78 43 4f  4e 54 52 4f 4c 2d 56 20  |xxxxxxCONTROL-V |
+0000000   x   x   x   x   x   x   C   O   N   T   R   O   L   -   V    
+00000010  43 4f 4e 54 52 4f 4c 2d  55 0a                    |CONTROL-U.|
+0000010   C   O   N   T   R   O   L   -   U  \n                        
+000001a
+
+# -b 输入字符串按字节逐个显示8进制格式,offset中对应显示16进制格式
+echo xxxxxxCONTROL-V CONTROL-U | hd -b
+00000000  78 78 78 78 78 78 43 4f  4e 54 52 4f 4c 2d 56 20  |xxxxxxCONTROL-V |
+0000000 170 170 170 170 170 170 103 117 116 124 122 117 114 055 126 040
+00000010  43 4f 4e 54 52 4f 4c 2d  55 0a                    |CONTROL-U.|
+0000010 103 117 116 124 122 117 114 055 125 012                        
+000001a
+
+# -a same as -t a, select named characters, ignoring high-order bit
+echo xxxxxxCONTROL-V CONTROL-U | od -a
+0000000   x   x   x   x   x   x   C   O   N   T   R   O   L   -   V  sp
+0000020   C   O   N   T   R   O   L   -   U  nl
+0000032
+
+# -b same as -t o1, select octal bytes
+echo xxxxxxCONTROL-V CONTROL-U | od -b
+0000000 170 170 170 170 170 170 103 117 116 124 122 117 114 055 126 040
+0000020 103 117 116 124 122 117 114 055 125 012
+
+# -c same as -t c,select ASCII characters or backslash escapes
+echo xxxxxxCONTROL-V CONTROL-U | od -c
+0000000   x   x   x   x   x   x   C   O   N   T   R   O   L   -   V    
+0000020   C   O   N   T   R   O   L   -   U  \n
+0000032
+```
+
 #### sed
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)<br>
 > [sample](http://sed.sourceforge.net/sed1line_zh-CN.html)
@@ -936,14 +978,85 @@ read -a topic <<< "1 2 3";echo $topic[2]
 1[2]
 ```
 
+#### sort
+```bash
+# sort displays the lines of a file in order
+$ sort days.txt
+Friday
+Monday
+Saturday
+Sunday
+Thursday
+Tuesday
+Wednesday
+
+# sort by random hash of keys
+$ ls | sort -R
+```
+
+#### uniq
+显示文件内容,删除相同行(不改变原文件内容)
+```bash
+$ cat dups.txt
+Cathy
+Fred
+Joe
+John
+Mary
+Mary
+
+$ uniq dups.txt
+Cathy
+Fred
+Joe
+John
+Mary
+```
+
+#### head/tail
+显示文件首/尾内容
+```bash
+# -4 显示首四行
+$ sort months | head -4
+Apr
+Aug
+Dec
+Feb
+
+# 监控加到文件尾的内容
+$ tail -f logfile
+```
+
+#### script
+录制一个session中多个命令交互输出
+```bash
+# 启动一次session录制,默认录制文件名typescript
+$ script
+Script started, file is typescript
+$ whoami
+sam
+$ ls -l /bin | head -5
+total 5024
+-rwxr-xr-x 1 root root 2928 Sep 21 21:42 archdetect
+-rwxr-xr-x 1 root root 1054 Apr 26 15:37 autopartition
+-rwxr-xr-x 1 root root 7168 Sep 21 19:18 autopartition-loop
+-rwxr-xr-x 1 root root 701008 Aug 27 02:41 bash
+$ exit
+exit
+Script done, file is typescript
+
+# 查看录制输出
+$ cat typescript
+```
+
 #### tee
 ```bash
-#read from standard input and write to standard output and files
-> echo 123 | tee a.log
-> cat a.log
+# read from standard input and write to standard output and files
+$ echo 123 | tee a.log
+$ cat a.log
 123
-> echo 456 | tee -a a.log
-> cat a.log
+$ echo 456 | tee -a a.log
+$ cat a.log
 123
 456
 ```
