@@ -36,6 +36,14 @@
     - [Zgrep](#search-gz)
     - [Zcat](#zcat)
 - [Text Operation](#txt-operation)
+    - [Awk](#awk)
+    - [Hd/Od](#hdod)
+    - [Patch](#patch)
+    - [Read](#read)
+    - [Sed](#sed)
+    - [Tee](#tee)
+    - [Wc](#wc)
+    - [Xargs](#xargs)
 - [Image Operation](#vm-image-operation)
 ---
 
@@ -710,7 +718,7 @@ Service Info: Host: Suse-leap.example.com
 
 ### TXT operation 
 > [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
-* patch for codes
+#### patch
 ```bash
 # 创建patch
 diff -u hello.c hello_new.c > hello.patch  
@@ -728,7 +736,7 @@ checking file src/java/controller/rest-server/src/test/java/controller/restserve
 patch -p 5 < ../rb1138637.patch  
 checking file src/test/java/com/example/EndPoint.java
 ```
-* xargs
+#### xargs
 ```bash
 # xargs把管道传入的结果转成一行,空格分隔出的每一个词可以作为后面命令输入参数
 # 比如 cat <file1>  <file2>  <file3>可以打印三个文件内容
@@ -738,7 +746,7 @@ checking file src/test/java/com/example/EndPoint.java
 ls ./ | xargs cat
 ```
 
-* wc
+#### wc
 ```bash
 # wc 打印 newline, word, and byte counts
 # -l, --lines  print the newline counts
@@ -761,7 +769,7 @@ ps -ef | grep -c 'sshd'
 # 等同于
 ps -ef | grep 'sshd' | wc -l
 ```
-* sed
+#### sed
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)<br>
 > [sample](http://sed.sourceforge.net/sed1line_zh-CN.html)
 ```bash
@@ -831,7 +839,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 255.255.253.0
 ```
 
-* awk
+#### awk
 ```bash
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
@@ -918,7 +926,7 @@ file:/opt/controller/log4j-controller.properties -server -Xmx4096m
 :/opt/controller/log4j-1.2.17.jar:/opt/controller/bootstrap.jar com.vmware.controller.Main
 ```
 
-* read
+#### read
 ```bash
 read -a topic <<< "1 2 3";echo $topic
 1
@@ -928,7 +936,7 @@ read -a topic <<< "1 2 3";echo $topic[2]
 1[2]
 ```
 
-* tee
+#### tee
 ```bash
 #read from standard input and write to standard output and files
 > echo 123 | tee a.log
