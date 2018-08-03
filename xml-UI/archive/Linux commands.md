@@ -37,6 +37,7 @@
     - [Zcat](#zcat)
 - [Text Operation](#txt-operation)
     - [Awk](#awk)
+    - [Head/Tail](#headtail)
     - [Hd/Od](#hdod)
     - [Diff/Patch](#diffpatch)
     - [Read](#read)
