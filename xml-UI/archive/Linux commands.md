@@ -18,7 +18,7 @@
     - [Show Network Details](#show-network-details)
     - [Show Disk Details](#dfdu)
     - [Show Memory Details](#free)
-    - [Show File System Status](#stat)	
+    - [Show File System Status](#statgetfaclsetfacl)	
     - [Top](#top)
 - [Usual Command](#usual-command)
     - [Copy](#cp)
@@ -96,7 +96,7 @@ free -m
 free -g
 ```
 
-#### stat
+#### stat/getfacl/setfacl
 ```bash
 # display the maximum length of a filename
 # Namelen: is the maximum number of characters permitted in 
@@ -104,6 +104,23 @@ free -g
 # ¨Cf option tells stat to display filesystem status instead of file status
 $ stat -f /home | grep -i name
 ID: 48fef7d1240ee054 Namelen: 255     Type: ext2/ext3
+
+# displays the same information as an ls ¨Cl command, albeit in a different format
+$ getfacl /home
+# file: home
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# -x option removes ACL rules for a user or a group
+# -m == --modify
+$ setfacl --modify u:sam:rw- report == $ setfacl --modify u:sam:6 report
+$ getfacl --omit-header report
+user::rwuser:
+sam:rwgroup::r--
+mask::rwother::r--
 ```
 
 #### top
