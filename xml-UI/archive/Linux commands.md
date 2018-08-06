@@ -94,6 +94,9 @@ free -m
 
 # show memory info by giga
 free -g
+
+# show memory details
+cat /proc/meminfo
 ```
 
 #### stat/getfacl/setfacl
