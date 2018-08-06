@@ -12,14 +12,19 @@
 ---
 - [Monitor System Information](#monitor-system-information)
     - [Activate Account](#activate-account)
+    - [List All Users](#list-all-users)	
     - [List System Details](#list-system-details)
     - [Show Linux Version](#show-linux-version)
     - [Show Network Details](#show-network-details)
-    - [Show Disk Details](#show-disk-details)
-    - [Show Memory Details](#show-memory-details)
+    - [Show Disk Details](#dfdu)
+    - [Show Memory Details](#free)
+    - [Show File System Status](#stat)	
     - [Top](#top)
 - [Usual Command](#usual-command)
     - [Copy](#cp)
+    - [Chmod](#chmod)
+    - [Chown](#chown)
+    - [Chgrp](#chgrp)	
     - [Chsh](#chsh)
     - [Download](#download)
     - [Env](#env)
@@ -73,7 +78,7 @@ uname -a
 cat /proc/sys/net/ipv4/ip_local_port_range
 ```
 
-#### show disk details
+#### df/du
 ```bash
 # show current folder disk info
 df -h ./
@@ -82,13 +87,23 @@ df -h ./
 du -sh ./
 ```
 
-#### show memory details
+#### free
 ```bash
 # show memory info by mega
 free -m
 
 # show memory info by giga
 free -g
+```
+
+#### stat
+```bash
+# display the maximum length of a filename
+# Namelen: is the maximum number of characters permitted in 
+# a filename on the specified filesystem (/home)
+# ¨Cf option tells stat to display filesystem status instead of file status
+$ stat -f /home | grep -i name
+ID: 48fef7d1240ee054 Namelen: 255     Type: ext2/ext3
 ```
 
 #### top
@@ -419,7 +434,7 @@ usermod -g root  test
 # put test user into root and test groups
 usermod -G root,test  test  
 ```
-* see all user list
+#### list all users
 ```bash
 #list users
 awk -F':' '{print $1}' /etc/passwd
@@ -430,21 +445,25 @@ cat /etc/passwd | wc -l
 #for user¡¯s account with additional properties related to user password
 cat /etc/shadow | wc -l
 ```
-* change permission of files 
+
+#### chmod
 ```bash
 # ugoa(owner,group,others, all users) rwx(4,2,1)
 chmod ugoa+rwx file == chmod 7777 file
 ```
-* change owner of files or folders
+
+#### chown
 ```bash
 # change folder owner to user stack recursive
 chown -hR stack folder/    
 ```
-* change group of files
+
+#### chgrp
 ```bash
 # change group of folder to root group recursive
 chgrp -hR root folder/     
 ```
+
 #### chsh
 ```bash
 # change default shell command to bash
