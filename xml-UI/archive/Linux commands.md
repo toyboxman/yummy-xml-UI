@@ -1071,6 +1071,11 @@ Tuesday
 Wednesday
 
 # sort by random hash of keys
+# -R, --random-sort shuffle, but group identical keys
+# -r, --reverse reverse the result of comparisons
+# -n, --numeric-sort compare according to string numerical value
+# -h, --human-numeric-sort compare human readable numbers (e.g., 2K 1G)
+# -M, --month-sort compare (unknown) < 'JAN' < ... < 'DEC'
 $ ls | sort -R
 ```
 
