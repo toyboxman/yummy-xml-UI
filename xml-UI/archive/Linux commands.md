@@ -281,23 +281,63 @@ ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"
 
 #### search txt
 ```bash
-grep DB_VERSION_STRING /usr/local/db.h
-
-# recursively search keyword in src folder from *.h files
+# search keyword in src and its sub folders
+# -n show line number
+# -r recursively search
+# --include="*.h" only search *.h files
 grep -nr --include="*.h" DB_VERSION_STRING ./src  
 
-# recursively search keyword in src folder excluding *.jar/*.class files
+# --exclude=\*.{jar,class} don't search *.jar and *.class files
 grep -nr "VersionMBean" --exclude=\*.{jar,class} ~/src
 
-# search keyword 'Exception/exception' in log with 5 lines before and  1 line after showing
+# [Ee]xception search string matching 'Exception' or 'exception'
+# -B5 show 5 lines before matched line
+# -A1 show 1 line after matched line
 grep -n -B5 -A1 [Ee]xception 1.log  
 
-# search keyword 'error' case insensitive
+# -i search case insensitive
 grep -i error 1.log  
 
-# search keyword 'error' and count
+# -c search keyword 'error' and count
 grep -c error 1.log  
+
+# -H, --with-filename Print the file name for each match,default setting
+# -h, --no-filename without filename in output
+# search all related log records and sort by time line
+grep -h 'BaseApp' *log | sort > BaseApp.log
+
+# -s suppress messages about nonexistent or unreadable files
+$ grep  show *
+check.sh:#send "show \n"
+grep: legacy: Is a directory
+$ grep -s show *
+check.sh:#send "show \n"
+
+# -v show lines which do not match the pattern
+# 出现show的行都不会显示 
+$ grep -v show *
+check.sh:#send "other \n"
+
+# -E pattern is treated as being an extended regular expression
+$ grep -sE 'de.*' *
+check.sh:set host [lindex $argv 0]; 
+open.sh:set host [lindex $argv 0];
+open.sh:send ": debug os-shell\n"
+
+# Filtering all lines excluding 'www' or 'ftp'
+grep -vE "(www|ftp)"
 ```
+  Symbol      | Result
+------------- | -------------
+   .          |  匹配任意字符
+   *          |  前面字符出现0次或多次
+   +          |  前面字符出现1次或多次
+  [] 	      |  匹配中括号中任何字符
+  ()          |  子表达式
+  |           |  OR运算符; (www|ftp)匹配“www”或“ftp”
+  ^           |  匹配一行的开始
+  $           |  匹配一行结尾
+  \           |  转义符 由于'.'匹配任意字符，当本身匹配时需转义'\.'
 
 #### search gz
 ```bash
