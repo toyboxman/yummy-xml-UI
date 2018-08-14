@@ -31,6 +31,7 @@
     - [Find](#find)
     - [Firewall](#iptablesfirewall)
     - [Grep](#search-txt)
+		- [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
@@ -329,6 +330,7 @@ open.sh:send ": debug os-shell\n"
 # Filtering all lines excluding 'www' or 'ftp'
 grep -vE "(www|ftp)"
 ```
+##### grep regular symbol
   Symbol      | Result
 ------------- | -------------
    .          |  Æ¥ÅäÈÎÒâ×Ö·û     
@@ -1061,7 +1063,7 @@ read -a topic <<< "1 2 3";echo $topic[2]
 ```
 
 #### redirect symbol
-* < >
+* < >      
 The shell recognizes the redirect symbols, does not require that the name 
 of the program appear first on the command line
 ```bash
@@ -1085,7 +1087,7 @@ bash: tmp: cannot overwrite existing file
 $ set +o noclobber
 $ echo "hi there" > tmp
 ```
-* >|
+* >&#166;
 ```bash
 $ date > tmp2
 $ set -o noclobber
@@ -1094,9 +1096,9 @@ bash: a: cannot overwrite existing file
 # override noclobber by putting a pipe symbol after the redirect symbol (>|).
 $ date >| tmp2
 ```
-* /dev/null
-The /dev/null device is a data sink, commonly referred to as a bit bucket
-redirect output that you do not want to keep or see to /dev/null and 
+* /dev/null    
+The /dev/null device is a data sink, commonly referred to as a bit bucket      
+you can redirect output that you do not want to keep or see to /dev/null and 
 the output will disappear without a trace
 ```bash
 $ echo "hi there" > /dev/null
