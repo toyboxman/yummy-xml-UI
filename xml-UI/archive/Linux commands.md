@@ -46,6 +46,8 @@
     - [Hd/Od](#hdod)
     - [Diff/Patch](#diffpatch)
     - [Read](#read)
+    - [Redirect Symbol](#redirect-symbol)	
+    - [Regular Expression](#regular-expression)		
     - [Sed](#sed)
     - [Sort](#sort)
     - [Script](#script)
@@ -1056,6 +1058,85 @@ read -a topic <<< "1 2 3";echo $topic[1]
 1[1]
 read -a topic <<< "1 2 3";echo $topic[2]
 1[2]
+```
+
+#### redirect symbol
+* < >
+The shell recognizes the redirect symbols, does not require that the name 
+of the program appear first on the command line
+```bash
+# ¶Á³ö <  ¶ÁÈë >
+# runs cat with standard input coming from the file named aa 
+# and standard output going to the file named bb
+$ >bb <aa cat
+
+# redirect inputs from three files into sypply_orders
+$ cat stationery tape pens > supply_orders
+```
+* noclobber
+Avoids Overwriting Files
+```bash
+$ touch tmp
+# enable noclobber feature, 'set noclobber' in csh
+$ set -o noclobber
+$ echo "hi there" > tmp
+bash: tmp: cannot overwrite existing file
+# disable noclobber feature, 'unset noclobber' in csh
+$ set +o noclobber
+$ echo "hi there" > tmp
+```
+* >|
+```bash
+$ date > tmp2
+$ set -o noclobber
+$ date > tmp2
+bash: a: cannot overwrite existing file
+# override noclobber by putting a pipe symbol after the redirect symbol (>|).
+$ date >| tmp2
+```
+* /dev/null
+The /dev/null device is a data sink, commonly referred to as a bit bucket
+redirect output that you do not want to keep or see to /dev/null and 
+the output will disappear without a trace
+```bash
+$ echo "hi there" > /dev/null
+$
+# When you read from /dev/null, you get a null string
+$ ls -l messages
+-rw-r--r-- 1 max pubs 25315 Oct 24 10:55 messages
+$ cat /dev/null > messages
+# file size becomes zero
+$ ls -l messages
+-rw-r--r-- 1 max pubs 0 Oct 24 11:02 messages
+```
+
+#### regular expression
+```bash
+# (?) match one character
+$ ls ?old
+hold
+$ ls \?old
+ls: ?old: No such file or directory
+
+# asterisk(*) point(!) caret(^) hyphen(¨C)
+$ ls
+aa ab ac ad ba bb bc bd cc dd
+# [^tsq]* matches any filename that does not begin with t, s, or q
+# *[^ab] matches filenames that do not end with the letters a or b 
+$ ls *[^ab]
+ac ad bc bd cc dd
+# [^b-d]* matches filenames that do not begin with b, c, or d
+$ ls [^b-d]*
+aa ab ac ad
+
+# A pair of brackets([])
+# lists the names of all files in the working directory
+# that begin with a, e, i, o, or u.
+$ echo [aeiou]*
+...
+# displays the contents of the files named page2.txt, page4.txt, page6.txt, and page8.txt.
+$ less page[2468].txt
+...
 ```
 
 #### sort
