@@ -1087,7 +1087,7 @@ bash: tmp: cannot overwrite existing file
 $ set +o noclobber
 $ echo "hi there" > tmp
 ```
-* >&#166;
+* &#62;&#166;
 ```bash
 $ date > tmp2
 $ set -o noclobber
