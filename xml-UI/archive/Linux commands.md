@@ -133,7 +133,7 @@ mask::rwother::r--
 ```bash
 # list processes/memory etc.
 # 'h' for help content
-# 'Z' enable color
+# 'z' enable color
 # 'R' for sort of columns
 # 'x' highlight sorted column
 # '<'£¬'>' move highlighted column sorted
