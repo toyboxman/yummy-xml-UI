@@ -309,8 +309,10 @@ grep -c error 1.log
 # search all related log records and sort by time line
 grep -h 'BaseApp' *log | sort > BaseApp.log
 
-# -s suppress messages about nonexistent or unreadable files
-$ grep  show *
+# -s 
+# --no-messages 
+# suppress messages about nonexistent or unreadable files
+$ grep show *
 check.sh:#send "show \n"
 grep: legacy: Is a directory
 $ grep -s show *
