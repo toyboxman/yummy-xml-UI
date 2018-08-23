@@ -19,6 +19,7 @@
 - [git cherry-pick](#git-cherry-pick)
 - [git diff](#git-diff)
 - [git format-patch](#git-format-patch)
+- [git gc](#git-gc)
 - [git init](#git-init)
 - [gitk](#gitk)
 - [git log](#git-log)
@@ -414,6 +415,12 @@ git format-patch -1 HEAD
 
 # 在当前分支下为某一个提交(sha -1)打出补丁
 git format-patch -1   
+```
+
+### git gc
+```bash
+# 长期运行后 .git目录会占用大量空间,可以通过gc来回收空间
+git gc --aggressive --prune
 ```
 
 ### gitk 

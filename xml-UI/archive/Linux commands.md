@@ -84,10 +84,40 @@ cat /proc/sys/net/ipv4/ip_local_port_range
 #### df/du
 ```bash
 # show current folder disk info
-df -h ./
+# -h size unit using Giga
+# -m size unit using Mega
+df -h
 
+# -T, --print-type
+# show disk info with file system type
+df -T
+
+# -t, --type=TYPE
+# limit listing to file systems of type TYPE
+df -Tht xfs
+Filesystem     Type  Size  Used  Avail  Use%  Mounted on
+/dev/sda3        xfs    37G   28G  9.4G   75%    /home
+
+#-s, --summarize display only a total for each argument
 # show current folder utilization info
-du -sh ./
+du -sh
+2.4G    .
+
+du -h
+1.6G    ./legacy
+840M    ./nsx
+2.4G    .
+
+# count home utilization and sort by descending
+# sort parameters
+# -r, --reverse reverse the result of comparisons
+# -h, --human-numeric-sort compare human readable numbers (e.g., 2K 1G)
+du -h /home | sort -hr | less
+28G     /home/king
+28G     /home
+17G     /home/king/source
+9.5G    /home/king/source/gitlab
+6.2G    /home/king/source/gitlab/nsx
 ```
 
 #### free
