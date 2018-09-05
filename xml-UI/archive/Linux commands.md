@@ -20,6 +20,7 @@
     - [Show Memory Details](#free)
     - [Show File System Status](#statgetfaclsetfacl)	
     - [Top](#top)
+    - [Disk Management](#lvm)
 - [Usual Command](#usual-command)
     - [Copy](#cp)
     - [Chmod](#chmod)
@@ -183,6 +184,67 @@ top -p 678 -b -n3 > process.log
 
 # redirect loop output
 for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
+```
+
+#### lvm
+```bash
+$ cat /proc/partitions 
+major minor  #blocks  name
+   2        0          4 fd0
+   8        0   83886080 sda
+   8        1    2103296 sda1
+   8        2   26290176 sda2
+   8        3   38714368 sda3
+   8        4   16777216 sda4
+  11        0    1048575 sr0
+  
+# list block devices
+$ lsblk -f
+NAME   FSTYPE LABEL UUID                                 MOUNTPOINT
+fd0                                                      
+sda                                                      
+©À©¤sda1 swap         dae040be-c25d-477a-b6a0-97048e9971a7 [SWAP]
+©À©¤sda2 btrfs        71eaff99-493b-4798-a127-10745e62252a /
+©À©¤sda3 xfs          388bc304-31f5-4a01-8ce6-52301fde7081 /home
+©¸©¤sda4 btrfs        bb05d1a3-50c2-417b-b241-b243b422fc77 /usr/local/docker/btrfs
+sr0 
+
+# scan new scsi disk device if add a physical disk
+$ rescan-scsi-bus.sh -a
+
+# if VM resizes storage capacity, need to restart VM. otherwise, fdisk -l doesn't show latest capacity
+# list one directory, fdisk -l /dev/sda4
+$ fdisk -l
+Disk /dev/sda: 80 GiB, 85899345920 bytes, 167772160 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x0009f08a
+
+Device     Boot     Start       End  Sectors  Size Id Type
+/dev/sda1            2048   4208639  4206592    2G 82 Linux swap / Solaris
+/dev/sda2  *      4208640  56788991 52580352 25.1G 83 Linux
+/dev/sda3        56788992 134217727 77428736 36.9G 83 Linux
+/dev/sda4       134217728 167772159 33554432   16G 83 Linux
+
+# LVM2 tools containing all commands like vgscan/lvs/pvs
+# lvs ¡ª report information about logical volumes
+lvs -a
+
+# pvs ¡ª Report information about Physical Volumes.
+pvs -a
+PV         VG   Fmt Attr PSize PFree
+/dev/sda1           ---           0     0 
+/dev/sda2           ---           0     0 
+/dev/sda3           ---           0     0 
+/dev/sda4           ---           0     0 
+
+# vgscan ¡ª scan all disks for volume groups and rebuild caches
+vgscan -v
+
+# pvscan ¡ª Scan all disks for Physical Volumes.
+pvscan -v
 ```
 
 * config system services(GUI config is system-config-services)
