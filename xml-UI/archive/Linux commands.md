@@ -27,6 +27,8 @@
     - [Chown](#chown)
     - [Chgrp](#chgrp)	
     - [Chsh](#chsh)
+    - [Crontab](#crontab)
+    - [Curl](#curl)
     - [Download](#download)
     - [Env](#env)
     - [Find](#find)
@@ -57,6 +59,7 @@
     - [Uniq](#uniq)
     - [Wc](#wc)
     - [Xargs](#xargs)
+- [Shell Programming](#shell-programming)
 - [Image Operation](#vm-image-operation)
 ---
 
@@ -214,6 +217,7 @@ $ rescan-scsi-bus.sh -a
 
 # if VM resizes storage capacity, need to restart VM. otherwise, fdisk -l doesn't show latest capacity
 # list one directory, fdisk -l /dev/sda4
+# active subcommands, fdisk /dev/sda
 $ fdisk -l
 Disk /dev/sda: 80 GiB, 85899345920 bytes, 167772160 sectors
 Units: sectors of 1 * 512 = 512 bytes
@@ -453,6 +457,45 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 ```bash
 # show file content by page
 zcat syslog.1.gz | less
+```
+
+#### Crontab
+```bash
+# list current running cron task
+crontab -l 
+# open cron task editor and insert a curl task periodically by 1 second
+crontab -e  
+result:
+min hour day month weekday command
+*/1   *    *    *    * echo `curl -i -k http://blog.sina.com.cn/s/blog_46d0362d0102vmuc.html` > /dev/pts/0
+
+vi cronTask 
+crontab ./cronTask
+# remove current running cron task
+crontab -r  
+```
+
+#### Curl
+> [Link](http://conqueringthecommandline.com/book/curl)
+```bash
+curl -i -k -X POST https://10.162.122.147/ws.v1/login \
+            -H "Content-Type: application/x-www-form-urlencoded" \
+            -d 'username=admin&password=Defaultca$hc0w'
+            
+HTTP/1.1 200 OK
+Content-Type: text/plain; charset=UTF-8
+Content-Length: 110
+Set-Cookie: nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e; Path=/; secure
+Date: Fri, 10 Jul 2015 08:26:02 GMT
+Successful Authentication.
+You successfully authenticated.  Use the cookie in this reply in future requests.    
+
+curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
+            https://10.162.122.147/ws.v1/control-cluster/node?fields=* \
+            -H "Content-Type: application/json"
+			
+curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
+            -H "Content-Type: application/json"	
 ```
 
 ##### download
@@ -1467,44 +1510,7 @@ sh test.sh 1 2 '3 4'
 2
 3 4
 ```
-* Crontab
-```bash
-# list current running cron task
-crontab -l 
-# open cron task editor and insert a curl task periodically by 1 second
-crontab -e  
-result:
-min hour day month weekday command
-*/1   *    *    *    * echo `curl -i -k http://blog.sina.com.cn/s/blog_46d0362d0102vmuc.html` > /dev/pts/0
-
-vi cronTask 
-crontab ./cronTask
-# remove current running cron task
-crontab -r  
-```
-* Curl
-> [Link](http://conqueringthecommandline.com/book/curl)
-```bash
-curl -i -k -X POST https://10.162.122.147/ws.v1/login \
-            -H "Content-Type: application/x-www-form-urlencoded" \
-            -d 'username=admin&password=Defaultca$hc0w'
-            
-HTTP/1.1 200 OK
-Content-Type: text/plain; charset=UTF-8
-Content-Length: 110
-Set-Cookie: nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e; Path=/; secure
-Date: Fri, 10 Jul 2015 08:26:02 GMT
-Successful Authentication.
-You successfully authenticated.  Use the cookie in this reply in future requests.    
-
-curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
-            https://10.162.122.147/ws.v1/control-cluster/node?fields=* \
-            -H "Content-Type: application/json"
-			
-curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
-            -H "Content-Type: application/json"	
-```
-		
+	
 ---
           
 
