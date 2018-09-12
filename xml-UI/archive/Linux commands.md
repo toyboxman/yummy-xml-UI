@@ -1447,12 +1447,12 @@ sh test.sh 1 2 '3 4'
 	
 ---
 
-#### lvm
+#### LVM
 With LVM, we can create logical partitions that can span across one or more physical hard drives.<br>
 * First, the hard drives are divided into physical volumes, 
 * Then those physical volumes are combined together to create the volume group,
-* Finally the logical volumes are created from volume group.
-<br>[SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
+* Finally the logical volumes are created from volume group.<br>
+Reference : [SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
 ```bash
 $ cat /proc/partitions 
 major minor  #blocks  name
