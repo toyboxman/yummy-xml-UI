@@ -34,7 +34,7 @@
     - [Find](#find)
     - [Firewall](#iptablesfirewall)
     - [Grep](#search-txt)
-		- [Grep Regular Symbol](#grep-regular-symbol)
+	- [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
@@ -189,72 +189,6 @@ top -p 678 -b -n3 > process.log
 for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
 ```
 
-#### lvm
-```bash
-$ cat /proc/partitions 
-major minor  #blocks  name
-   2        0          4 fd0
-   8        0   83886080 sda
-   8        1    2103296 sda1
-   8        2   26290176 sda2
-   8        3   38714368 sda3
-   8        4   16777216 sda4
-  11        0    1048575 sr0
-  
-# list block devices
-$ lsblk -f
-NAME   FSTYPE LABEL UUID                                 MOUNTPOINT
-fd0                                                      
-sda                                                      
-©À©¤sda1 swap         dae040be-c25d-477a-b6a0-97048e9971a7 [SWAP]
-©À©¤sda2 btrfs        71eaff99-493b-4798-a127-10745e62252a /
-©À©¤sda3 xfs          388bc304-31f5-4a01-8ce6-52301fde7081 /home
-©¸©¤sda4 btrfs        bb05d1a3-50c2-417b-b241-b243b422fc77 /usr/local/docker/btrfs
-sr0 
-
-# scan new scsi disk device if add a physical disk
-$ rescan-scsi-bus.sh -a
-
-# if VM resizes storage capacity, need to restart VM. otherwise, fdisk -l doesn't show latest capacity
-# list one directory, fdisk -l /dev/sda4
-# active subcommands, fdisk /dev/sda
-$ fdisk -l
-Disk /dev/sda: 80 GiB, 85899345920 bytes, 167772160 sectors
-Units: sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 512 bytes
-I/O size (minimum/optimal): 512 bytes / 512 bytes
-Disklabel type: dos
-Disk identifier: 0x0009f08a
-
-Device     Boot     Start       End  Sectors  Size Id Type
-/dev/sda1            2048   4208639  4206592    2G 82 Linux swap / Solaris
-/dev/sda2  *      4208640  56788991 52580352 25.1G 83 Linux
-/dev/sda3        56788992 134217727 77428736 36.9G 83 Linux
-/dev/sda4       134217728 167772159 33554432   16G 83 Linux
-
-# LVM2 tools containing all commands like vgscan/lvs/pvs
-# lvs ¡ª report information about logical volumes
-lvs -a
-
-# pvs ¡ª Report information about Physical Volumes.
-pvs -a
-PV         VG   Fmt Attr PSize PFree
-/dev/sda1           ---           0     0 
-/dev/sda2           ---           0     0 
-/dev/sda3           ---           0     0 
-/dev/sda4           ---           0     0 
-
-# vgscan ¡ª scan all disks for volume groups and rebuild caches
-vgscan -v
-
-# pvscan ¡ª Scan all disks for Physical Volumes.
-pvscan -v
-```
-
-* config system services(GUI config is system-config-services)
-```bash
-service
-```
 * config runlevel info of system services
 ```bash
 chkconfig
@@ -1512,7 +1446,175 @@ sh test.sh 1 2 '3 4'
 ```
 	
 ---
-          
+
+#### lvm
+With LVM, we can create logical partitions that can span across one or more physical hard drives.<br>
+* First, the hard drives are divided into physical volumes, 
+* Then those physical volumes are combined together to create the volume group,
+* Finally the logical volumes are created from volume group.
+<br>[SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
+```bash
+$ cat /proc/partitions 
+major minor  #blocks  name
+   2        0          4 fd0
+   8        0   83886080 sda
+   8        1    2103296 sda1
+   8        2   26290176 sda2
+   8        3   38714368 sda3
+   8        4   16777216 sda4
+  11        0    1048575 sr0
+  
+# list block devices
+$ lsblk -f
+NAME   FSTYPE LABEL UUID                                 MOUNTPOINT
+fd0                                                      
+sda                                                      
+©À©¤sda1 swap         dae040be-c25d-477a-b6a0-97048e9971a7 [SWAP]
+©À©¤sda2 btrfs        71eaff99-493b-4798-a127-10745e62252a /
+©À©¤sda3 xfs          388bc304-31f5-4a01-8ce6-52301fde7081 /home
+©¸©¤sda4 btrfs        bb05d1a3-50c2-417b-b241-b243b422fc77 /usr/local/docker/btrfs
+sr0 
+
+# scan new scsi disk device if add a physical disk
+$ rescan-scsi-bus.sh -a
+
+# if VM resizes storage capacity, need to restart VM. otherwise, fdisk -l doesn't show latest capacity
+# list one directory, fdisk -l /dev/sda4
+# active subcommands, fdisk /dev/sda
+$ fdisk -l
+Disk /dev/sda: 80 GiB, 85899345920 bytes, 167772160 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x0009f08a
+
+Device     Boot     Start       End  Sectors  Size Id Type
+/dev/sda1            2048   4208639  4206592    2G 82 Linux swap / Solaris
+/dev/sda2  *      4208640  56788991 52580352 25.1G 83 Linux
+/dev/sda3        56788992 134217727 77428736 36.9G 83 Linux
+/dev/sda4       134217728 167772159 33554432   16G 83 Linux
+
+# LVM2 tools containing all commands like vgscan/lvs/pvs
+# pvs ¡ª Report information about Physical Volumes.
+pvs -a
+PV         VG   Fmt Attr PSize PFree
+/dev/sda1           ---           0     0 
+/dev/sda2           ---           0     0 
+/dev/sda3           ---           0     0 
+/dev/sda4           ---           0     0 
+
+# create physical volumes
+$ pvcreate /dev/sda6 /dev/sda7
+Physical volume "/dev/sda6" successfully created
+Physical volume "/dev/sda7" successfully created
+
+# pvscan ¡ª Scan all disks for Physical Volumes.
+pvscan -v
+PV /dev/sda6                      lvm2 [1.86 GB]
+PV /dev/sda7                      lvm2 [1.86 GB]
+Total: 2 [3.72 GB] / in use: 0 [0   ] / in no VG: 2 [3.72 GB]
+
+# pvdisplay - display attributes of a physical volume
+$ pvdisplay
+--- Physical volume ---
+  PV Name             /dev/sda6
+  VG Name
+  PV Size               1.86 GB / not usable 2.12 MB
+  Allocatable           yes
+  PE Size (KByte)    4096
+  Total PE              476
+  Free PE               456
+  Allocated PE          20
+  PV UUID               m67TXf-EY6w-6LuX-NNB6-kU4L-wnk8-NjjZf
+
+# vgcreate ¡ª create a volume group
+$ vgcreate vol_grp1 /dev/sda6 /dev/sda7
+  Volume  group "vol_grp1" successfully created
+
+# vgdisplay ¡ª display attributes of volume groups
+$ vgdisplay
+  --- Volume group ---
+  VG Name                     vol_grp1
+  System ID
+  Format                        lvm2
+  Metadata Areas            2
+  Metadata Sequence No  1
+  VG Access                   read/write
+  VG Status                    resizable
+  MAX LV                       0
+  Cur LV                        0
+  Open LV                      0
+  Max PV                       0
+  Cur PV                        2
+  Act PV                       2
+  VG Size                      3.72 GB
+  PE Size                      4.00 MB
+  Total PE                     952
+  Alloc PE / Size             0 / 0
+  Free  PE / Size            952 / 3.72 GB
+  VG UUID                     Kk1ufB-rT15-bSWe-5270-KDfZ-shUX
+
+# vgscan ¡ª scan all disks for volume groups and rebuild caches
+vgscan -v
+
+# LVM Create Logical Volumes
+# lvcreate - create a logical volume in an existing volume group
+$ lvcreate -l 20 -n logical_vol1 vol_grp1
+  Logical volume "logical_vol1" created
+
+# lvdisplay ¡ª display attributes of a logical volume
+$ lvdisplay
+  --- Logical volume ---
+  LV Name                /dev/vol_grp1/logical_vol1
+  VG Name                vol_grp1
+  LV UUID                 ap8sZ2-WqE1-6401-Kupm-DbnO-2P7g-x1HwtQ
+  LV Write Access      read/write
+  LV Status              available
+  # open                  0
+  LV Size                  80.00 MB
+  Current LE              20
+  Segments               1
+  Allocation               inherit
+  Read ahead sectors  auto
+  - currently set to     256
+  Block device            252:0
+  
+# lvs ¡ª report information about logical volumes
+lvs -a  
+
+# creating the appropriate filesystem on the logical volumes
+# mke2fs - create an ext2/ext3/ext4 filesystem
+# mkfs/mkfs.btrfs/mkfs.ext2/mkfs.ext4/mkfs.msdos/mkfs.ntfs/...
+$ mkfs.ext3 /dev/vol_grp1/logical_vol1
+
+# Change the size of the logical volumes
+$ lvextend -L100 /dev/vol_grp1/logical_vol1
+  Extending logical volume logical_vol1 to 100.00 MB
+  Logical volume logical_vol1 successfully resized
+
+$ lvextend -L+100 /dev/vol_grp1/logical_vol1
+  Extending logical volume logical_vol1 to 200.00 MB
+  Logical volume logical_vol1 successfully resized  
+  
+# resize root folder extending 100M bytes
+$ btrfs filesystem resize +100m /
+Resize '/' of '+100m'
+ERROR: unable to resize '/': no enough free space
+
+# Expand the PV on /dev/sda1 after enlarging the partition with fdisk:
+pvresize /dev/sda1
+# Shrink the PV on /dev/sda1 prior to shrinking the partition with fdisk 
+# ensure that the PV size is appropriate for your intended new partition size
+pvresize --setphysicalvolumesize 40G /dev/sda1
+
+# grow your partition you can do it with the root mounted
+$ resize2fs /dev/sda1
+$ resize2fs /dev/sda1 25G
+$ resize2fs /dev/sda1 25400M
+```          
+
+---
 
 ### VM Image operation
 * guestfish
