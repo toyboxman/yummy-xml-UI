@@ -60,7 +60,7 @@
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Shell Programming](#shell-programming)
-- [Debug Operation](#vm-image-operation)
+- [Debug Operation](#debug)
     - [Gdb](#gdb)
     - [Objdump](#objdump)
     - [Size](#size)
