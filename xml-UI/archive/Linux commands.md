@@ -1709,7 +1709,8 @@ $ fdisk /dev/sda
 
 # let Linux kernel know the change you made to /dev/sda
 $ partprobe
-# if root file system is changed, reboot OS to let kernel see the change. If it is not a root filesystem, skip this step
+# if root file system is changed, reboot OS to let kernel see the change. 
+# If it is not a root filesystem, skip this step
 $ shutdown -r now
 
 # resize root folder extending 100M bytes
