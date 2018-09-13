@@ -1529,20 +1529,6 @@ major minor  #blocks  name
    8        3   38714368 sda3
    8        4   16777216 sda4
   11        0    1048575 sr0
-  
-# list block devices
-$ lsblk -f
-NAME   FSTYPE LABEL UUID                                 MOUNTPOINT
-fd0                                                      
-sda                                                      
-©À©¤sda1 swap         dae040be-c25d-477a-b6a0-97048e9971a7 [SWAP]
-©À©¤sda2 btrfs        71eaff99-493b-4798-a127-10745e62252a /
-©À©¤sda3 xfs          388bc304-31f5-4a01-8ce6-52301fde7081 /home
-©¸©¤sda4 btrfs        bb05d1a3-50c2-417b-b241-b243b422fc77 /usr/local/docker/btrfs
-sr0 
-
-# scan new scsi disk device if add a physical disk
-$ rescan-scsi-bus.sh -a
 
 # if VM resizes storage capacity, need to restart VM. otherwise, fdisk -l doesn't show latest capacity
 # list one directory, fdisk -l /dev/sda4
@@ -1563,7 +1549,7 @@ Device     Boot     Start       End  Sectors  Size Id Type
 
 # LVM2 tools containing all commands like vgscan/lvs/pvs
 # pvs ¡ª Report information about Physical Volumes.
-pvs -a
+$ pvs -a
 PV         VG   Fmt Attr PSize PFree
 /dev/sda1           ---           0     0 
 /dev/sda2           ---           0     0 
@@ -1576,7 +1562,7 @@ Physical volume "/dev/sda6" successfully created
 Physical volume "/dev/sda7" successfully created
 
 # pvscan ¡ª Scan all disks for Physical Volumes.
-pvscan -v
+$ pvscan -v
 PV /dev/sda6                      lvm2 [1.86 GB]
 PV /dev/sda7                      lvm2 [1.86 GB]
 Total: 2 [3.72 GB] / in use: 0 [0   ] / in no VG: 2 [3.72 GB]
@@ -1622,7 +1608,7 @@ $ vgdisplay
   VG UUID                     Kk1ufB-rT15-bSWe-5270-KDfZ-shUX
 
 # vgscan ¡ª scan all disks for volume groups and rebuild caches
-vgscan -v
+$ vgscan -v
 
 # LVM Create Logical Volumes
 # lvcreate - create a logical volume in an existing volume group
@@ -1647,7 +1633,7 @@ $ lvdisplay
   Block device            252:0
   
 # lvs ¡ª report information about logical volumes
-lvs -a  
+$ lvs -a  
 
 # creating the appropriate filesystem on the logical volumes
 # mke2fs - create an ext2/ext3/ext4 filesystem
@@ -1662,23 +1648,88 @@ $ lvextend -L100 /dev/vol_grp1/logical_vol1
 $ lvextend -L+100 /dev/vol_grp1/logical_vol1
   Extending logical volume logical_vol1 to 200.00 MB
   Logical volume logical_vol1 successfully resized  
-  
+```   
+It is a common requirement to resize/expand btrfs file system since btrfs is widely used in Linux and also as Docker¡¯s backend storage driver. There are two kinds of way to resize/expand root volume.
+- Add a new disk into the same btrfs volume
+```bash
+# you can add a new disk to the system by either presenting a new LUN 
+# or attach a new virtual disk if you are running a virtual machine
+# reboot system to make the new disk visible to OS
+
+# scan new scsi disk device if add a physical disk
+$ rescan-scsi-bus.sh -a
+
+# verify the new disk can be seen by operating system
+# list block devices
+$ lsblk -f
+NAME   FSTYPE LABEL UUID                                 MOUNTPOINT
+fd0                                                      
+sda                                                      
+©À©¤sda1 swap         dae040be-c25d-477a-b6a0-97048e9971a7 [SWAP]
+©À©¤sda2 btrfs        71eaff99-493b-4798-a127-10745e62252a /
+©À©¤sda3 xfs          388bc304-31f5-4a01-8ce6-52301fde7081 /home
+©¸©¤sda4 btrfs        bb05d1a3-50c2-417b-b241-b243b422fc77 /usr/local/docker/btrfs
+sdax  -- this is new physical disk
+
+# check new physical disk
+$ fdisk -l /dev/sdax
+
+Disk /dev/sdax: 10.7 GB, 10737418240 bytes, 20971520 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+# add new disk /dev/sdax to root volume
+$ btrfs device add /dev/sdax /
+
+# distribute meta data from 1st disk /dev/sda to the 2nd disk /dev/sdax
+$ btrfs filesystem balance /
+WARNING:
+
+Full balance without filters requested. This operation is very
+intense and takes potentially very long. It is recommended to
+use the balance filters to narrow down the balanced data.
+Use 'btrfs balance start --full-balance' option to skip this
+warning. The operation will start in 10 seconds.
+Use Ctrl-C to stop it.
+10 9 8 7 6 5 4 3 2 1
+Starting balance without any filters.
+Done, had to relocate 9 out of 9 chunks
+
+# verify the new size of the filesystem
+$ df -h /
+Filesystem    Size    Used    Avail    Use%    Mounted on
+/dev/sda3    56G     2.5G    52G      5%      /
+```
+- Expand to use available space on original disk
+```bash
+# fdisk does not support resize partition, so you need to delete the old partition which you want to change and create a new one.
+$ fdisk /dev/sda
+
+# let Linux kernel know the change you made to /dev/sda
+$ partprobe
+# if root file system is changed, reboot OS to let kernel see the change. If it is not a root filesystem, skip this step
+$ shutdown -r now
+
 # resize root folder extending 100M bytes
 $ btrfs filesystem resize +100m /
 Resize '/' of '+100m'
 ERROR: unable to resize '/': no enough free space
+# resize to maxium
+$ btrfs filesystem resize max /
+Resize '/' of 'max'
 
 # Expand the PV on /dev/sda1 after enlarging the partition with fdisk:
-pvresize /dev/sda1
+$ pvresize /dev/sda1
 # Shrink the PV on /dev/sda1 prior to shrinking the partition with fdisk 
 # ensure that the PV size is appropriate for your intended new partition size
-pvresize --setphysicalvolumesize 40G /dev/sda1
+$ pvresize --setphysicalvolumesize 40G /dev/sda1
 
 # grow your partition you can do it with the root mounted
 $ resize2fs /dev/sda1
 $ resize2fs /dev/sda1 25G
 $ resize2fs /dev/sda1 25400M
-```          
+```
 
 ---
 
