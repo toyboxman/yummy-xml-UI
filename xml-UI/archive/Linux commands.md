@@ -1703,7 +1703,8 @@ Filesystem    Size    Used    Avail    Use%    Mounted on
 ```
 - Expand to use available space on original disk
 ```bash
-# fdisk does not support resize partition, so you need to delete the old partition which you want to change and create a new one.
+# fdisk does not support resize partition, so you need to delete the old partition
+# and create a new one partition
 $ fdisk /dev/sda
 
 # let Linux kernel know the change you made to /dev/sda
