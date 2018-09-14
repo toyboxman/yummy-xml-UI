@@ -14,6 +14,7 @@
     - [Activate Account](#activate-account)
     - [List All Users](#list-all-users)	
     - [List System Details](#list-system-details)
+    - [List Opened Files](#lsof)
     - [Show Linux Version](#show-linux-version)
     - [Show Network Details](#show-network-details)
     - [Show Disk Details](#dfdu)
@@ -27,16 +28,19 @@
     - [Service on/off](#chkconfig)
     - [Turn off Console Color](#turn-off-console-color)
 - [Usual Command](#usual-command)
+    - [Base64](#base64)
     - [Copy](#cp)
     - [Chmod](#chmod)
     - [Chown](#chown)
     - [Chgrp](#chgrp)	
     - [Chsh](#chsh)
+    - [Checksum](#checksum)
     - [Crontab](#crontab)
     - [Curl](#curl)
     - [Download](#download)
     - [Env](#env)
     - [Find](#find)
+    - [File](#file)
     - [Firewall](#iptablesfirewall)
     - [Grep](#search-txt)
 	- [Grep Regular Symbol](#grep-regular-symbol)
@@ -47,6 +51,7 @@
     - [Pstree](#pstree)
     - [SSH](#ssh)
     - [Scp](#scp)
+    - [Stat](#stat)
     - [Tar](#tar)
     - [Vim](#vim)
     - [Zgrep](#search-gz)
@@ -287,6 +292,17 @@ ls --color=never
 $ hwinfo --netcard
 ```
 
+#### lsof
+```bash
+# list opened files
+$ lsof | less
+COMMAND     PID   TID       USER   FD      TYPE             DEVICE  SIZE/OFF       NODE NAME
+ntpd       1181              ntp  rtd       DIR               0,38       294        256 /
+ntpd       1181              ntp  txt       REG               0,38    859304    7010720 /usr/sbin/ntpd
+ntpd       1181              ntp  mem       REG               0,38     88280    7228151 /lib64/libz.so.1.2.8
+ntpd       1181              ntp  mem       REG               0,38     18712    7297500 /lib64/libdl-2.22.so
+```
+
 ### Usual command
 #### env
 ```bash
@@ -338,45 +354,67 @@ find /home -user root -exec file {} \;
 #### cp
 ```bash
 # copy directory
-cp -rv /home/king/source ./
+$ cp -rv /home/king/source ./
 ```
 
 #### scp
 ```bash
 # remote copy file
 # cp local file to remote folder
-scp *.log king@ip:/home/king  
+$ scp *.log king@ip:/home/king  
 # cp remote file to local folder
-scp king@ip:/home/king/1.log ./king  
+$ scp king@ip:/home/king/1.log ./king  
 ```
 
-* list current opened files
+#### file
 ```bash
-lsof
+# determine file type
+$ file pom.xml
+pom.xml: XML document text
 ```
-* determine file type
+
+#### checksum
 ```bash
-file log.txt
+# calculate file sum using CRC32
+$ cksum pom.xml 
+45631085 17500 pom.xml
+
+# calculate file sum using MD5
+$ md5sum pom.xml 
+fd3a531ef4c4eaee39ad0f8f5bb69958  pom.xml
+
+#calculate file sum using SHA1
+$ sha1sum pom.xml 
+c21e5d0d44640854c17bc5cb614530ca721486ab  pom.xml
 ```
-* calculate file sum using CRC32/MD5/SHA1
+
+#### base64
 ```bash
-cksum
-md5sum
-sha1sum
+# encode string
+$ echo -n 'linux.com' | base64
+bGludXguY29t
+
+# decode string
+$ echo -n bGludXguY29t | base64 -d  
+linux.com
 ```
-* base64 encode/decode string
+
+#### stat
 ```bash
-# return encoded string 'bGludXguY29t'
-echo -n 'linux.com' | base64  
-# return 'linux.com'
-echo -n bGludXguY29t | base64 -d  
-```
-* check file status, like ls -lh or du -h ./
-```bash
-# reports the status of file index.htm
-stat index.htm  
-# return king:users
-ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
+# check file status, like ls -lh or du -h ./
+$ stat pom.xml 
+  File: 'pom.xml'
+  Size: 17500           Blocks: 40         IO Block: 4096   regular file
+Device: 803h/2051d      Inode: 37912934    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    king)   Gid: (  100/   users)
+Access: 2018-09-14 16:29:35.863110661 +0800
+Modify: 2018-09-11 14:34:38.435743906 +0800
+Change: 2018-09-11 14:34:38.435743906 +0800
+ Birth: -
+ 
+# show file's owner/group
+$ ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
+king:users
 ```
 
 #### search txt
