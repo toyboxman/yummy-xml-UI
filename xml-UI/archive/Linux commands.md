@@ -18,11 +18,14 @@
     - [Show Network Details](#show-network-details)
     - [Show Disk Details](#dfdu)
     - [Show Memory Details](#free)
+    - [Show Hardware Details](#hwinfo)
     - [Show File System Status](#statgetfaclsetfacl)	
     - [Top](#top)
     - [Disk Management](#lvm)
     - [Set kernel parameters](#sysctl)
     - [Service Management](#systemctl)
+    - [Service on/off](#chkconfig)
+    - [Turn off Console Color](#turn-off-console-color)
 - [Usual Command](#usual-command)
     - [Copy](#cp)
     - [Chmod](#chmod)
@@ -38,8 +41,10 @@
     - [Grep](#search-txt)
 	- [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
+    - [Man](#man)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
+    - [Pstree](#pstree)
     - [SSH](#ssh)
     - [Scp](#scp)
     - [Tar](#tar)
@@ -61,6 +66,9 @@
     - [Uniq](#uniq)
     - [Wc](#wc)
     - [Xargs](#xargs)
+- [Network Configuration](#network-config)
+    - [Dhclient](#dhclient)
+    - [Route](#route)
 - [Shell Programming](#shell-programming)
 - [Debug Operation](#debug)
     - [Gdb](#gdb)
@@ -76,19 +84,34 @@ Platform Redhat Enterprise Server
 ### Monitor system information
 #### list system details
 ```bash
-dmesg
+$ dmesg | less
 ```
 
 #### show Linux version
 ```bash
-cat /etc/issue
-cat /proc/version
-uname -a
+$ cat /etc/issue
+$ cat /proc/version
+$ uname -a
 ```
 
 #### show network details
 ```bash
-cat /proc/sys/net/ipv4/ip_local_port_range
+# list ip local port range
+$ cat /proc/sys/net/ipv4/ip_local_port_range
+
+# list all ports used by system services
+$ cat /etc/services | less
+# find which port is used by db2 connection
+$ grep db2c_DB2 /etc/services
+
+# list all network interfaces name, like 'ifconfig -a'
+$ ls -1 /sys/class/net
+# find eth0 mtu setting
+$ cat /sys/class/net/eth0/mtu
+1500
+# find eth0 speed setting
+$ cat /sys/class/net/eth0/speed
+1000
 ```
 
 #### df/du
@@ -236,56 +259,53 @@ Aug 29 10:46:30 suse-leap systemd[1]: Mounted /home.
 $ systemctl link /path/to/servicename.service
 ```
 
-* config runlevel info of system services
+#### chkconfig
+enable or disable system services
 ```bash
-chkconfig
+# list service config status
+$ chkconfig -l
 
 # set mysql service run automatically when machine runs
-chkconfig mysql on  
+$ chkconfig mysql on  
+
+# list service status
+$ systemctl -a
+# disable mysql service
+$ systemctl disable mysql
 ```
 
-* show full processes tree using ascii
-```bash
-pstree -alA
-```          
-* read nc manual with GB2312 encoding
-```bash
-man -E GB2312 nc
-```
-* check all ports used by system services
-```bash
-cat /etc/services
-
-# find if db2 connection port is 50000
-grep db2c_DB2 /etc/services
-```
-
-* see all network interfaces name, like 'ifconfig -a'
-```bash
-ls -1 /sys/class/net
-```
-* turn off color highlight
+#### turn off console color
 ```bash
 ls --color=never
+
+# permanently turn-off via adding alias ls='ls --color=never'  in .bashrc
 ```
-> permanently turn off via adding alias ls='ls --color=never'  in .bashrc
-* see netcard hardware information
+
+#### hwinfo
 ```bash
-hwinfo --netcard
+# see netcard hardware information
+$ hwinfo --netcard
 ```
-* set eth0 ip address via dhcp
-```bash
-dhclient eth0
-```
-* show routing table
-```bash
-route -n
-```
+
 ### Usual command
 #### env
 ```bash
 env | more
 printenv | less
+```
+
+#### pstree
+```bash
+# -a Show command line arguments
+# -A Use ASCII characters to draw the tree
+# -l Display long lines
+# -h highlight current process
+$ pstree -alA
+```          
+#### man
+```bash
+# read nc manual with GB2312 encoding
+$ man -E GB2312 nc
 ```
 
 #### ssh
@@ -1490,6 +1510,25 @@ sh test.sh 1 2 '3 4'
 1
 2
 3 4
+```
+
+---
+
+### Network Config
+#### dhclient
+```bash
+# set eth0 ip address via dhcp
+dhclient eth0
+```
+
+#### route
+```bash
+# show routing table
+$ route -n
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.117.7.253    0.0.0.0         UG    0      0        0 eth0
+10.117.4.0      0.0.0.0         255.255.252.0   U     0      0        0 eth0
 ```
 
 ---
