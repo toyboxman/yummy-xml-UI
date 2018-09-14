@@ -21,6 +21,8 @@
     - [Show File System Status](#statgetfaclsetfacl)	
     - [Top](#top)
     - [Disk Management](#lvm)
+    - [Set kernel parameters](#sysctl)
+    - [Service Management](#systemctl)
 - [Usual Command](#usual-command)
     - [Copy](#cp)
     - [Chmod](#chmod)
@@ -191,6 +193,47 @@ top -p 678 -b -n3 > process.log
 
 # redirect loop output
 for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
+```
+
+#### sysctl
+sysctl  is  used  to modify kernel parameters at runtime. The parameters available are those listed under /proc/sys/, sysctl both reads and writes sysctl data
+```bash
+# list kernel parameters
+$ /sbin/sysctl -a
+
+# show kernel.hostname's value
+# -n only show value, otherwise show key/value pair
+$ /sbin/sysctl -n kernel.hostname
+
+# write a parameter with new value
+$ /sbin/sysctl -w vm.max_map_count=262144        
+$ /sbin/sysctl -w kernel.domainname="example.com"
+```
+
+#### systemctl 
+Control the systemd system and service manager
+```bash
+# start sshd service
+$ systemctl start sshd
+
+# list directory status
+$ systemctl status /home
+¡ñ home.mount - /home
+   Loaded: loaded (/etc/fstab; bad; vendor preset: disabled)
+   Active: active (mounted) since Wed 2018-08-29 10:46:30 CST; 2 weeks 2 days ago
+    Where: /home
+     What: /dev/sda3
+     Docs: man:fstab(5)
+           man:systemd-fstab-generator(8)
+    Tasks: 0 (limit: 512)
+   Memory: 0B
+      CPU: 0
+
+Aug 29 10:46:28 suse-leap systemd[1]: Mounting /home...
+Aug 29 10:46:30 suse-leap systemd[1]: Mounted /home.
+
+# link a service file not in default systemd path /etc/systemd/system
+$ systemctl link /path/to/servicename.service
 ```
 
 * config runlevel info of system services
