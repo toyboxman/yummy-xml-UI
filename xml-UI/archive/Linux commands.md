@@ -676,14 +676,18 @@ usermod -G root,test  test
 ```
 #### list all users
 ```bash
-#list users
-awk -F':' '{print $1}' /etc/passwd
-#count user number
-cat /etc/passwd | wc -l
+# list users
+$ awk -F':' '{print $1}' /etc/passwd
 
-#The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
-#for user¡¯s account with additional properties related to user password
-cat /etc/shadow | wc -l
+# count user number
+$ cat /etc/passwd | wc -l
+
+# The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
+# for user¡¯s account with additional properties related to user password
+$ cat /etc/shadow | wc -l
+
+# Run psql with postgresSQL user
+$ sudo -u postgresSQL /home/vpostgres/9.6/bin/psql -c "select * from user;"
 ```
 
 #### chmod
@@ -695,7 +699,7 @@ chmod ugoa+rwx file == chmod 7777 file
 #### chown
 ```bash
 # change folder owner to user stack recursive
-chown -hR stack folder/    
+$ chown -hR stack folder/    
 ```
 
 #### chgrp
