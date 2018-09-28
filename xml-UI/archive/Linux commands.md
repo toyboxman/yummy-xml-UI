@@ -58,9 +58,10 @@
     - [Zcat](#zcat)
 - [Text Operation](#txt-operation)
     - [Awk](#awk)
+    - [Diff/Patch](#diffpatch)
     - [Head/Tail](#headtail)
     - [Hd/Od](#hdod)
-    - [Diff/Patch](#diffpatch)
+    - [JSON/jq](#jq)
     - [Read](#read)
     - [Redirect Symbol](#redirect-symbol)	
     - [Regular Expression](#regular-expression)		
@@ -1373,6 +1374,41 @@ Feb
 
 # 监控加到文件尾的内容
 $ tail -f logfile
+```
+
+#### jq
+JSON 命令行处理
+```bash
+$ cat name.json 
+[{"id": 1, "name": "Arthur", "age": "21"},{"id": 2, "name": "Richard", "age": "32"}]
+# 格式化JSON数据 '.'是最简单的格式化filter
+$ cat name.json | jq '.'
+[
+  {
+    "id": 1,
+    "name": "Arthur",
+    "age": "21"
+  },
+  {
+    "id": 2,
+    "name": "Richard",
+    "age": "32"
+  }
+]
+
+# 根据filter查询value
+$ cat name.json | jq '.[0]'
+{
+  "id": 1,
+  "name": "Arthur",
+  "age": "21"
+}
+$ cat name.json | jq '.[0].name'
+"Arthur"
+
+# 整形id进行加法计算
+$ cat name.json | jq '.[0].id + 10'
+11
 ```
 
 #### script
