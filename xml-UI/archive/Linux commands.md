@@ -1151,7 +1151,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
-
+# 用value="字符串作为token分隔行
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $0}'
 <Property oe:key="netmask" oe:value="255.255.253.0" />
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $1}'
