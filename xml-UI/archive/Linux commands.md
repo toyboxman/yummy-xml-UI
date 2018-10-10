@@ -58,9 +58,10 @@
     - [Zcat](#zcat)
 - [Text Operation](#txt-operation)
     - [Awk](#awk)
+    - [Diff/Patch](#diffpatch)
     - [Head/Tail](#headtail)
     - [Hd/Od](#hdod)
-    - [Diff/Patch](#diffpatch)
+    - [JSON/jq](#jq)
     - [Read](#read)
     - [Redirect Symbol](#redirect-symbol)	
     - [Regular Expression](#regular-expression)		
@@ -676,14 +677,18 @@ usermod -G root,test  test
 ```
 #### list all users
 ```bash
-#list users
-awk -F':' '{print $1}' /etc/passwd
-#count user number
-cat /etc/passwd | wc -l
+# list users
+$ awk -F':' '{print $1}' /etc/passwd
 
-#The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
-#for user’s account with additional properties related to user password
-cat /etc/shadow | wc -l
+# count user number
+$ cat /etc/passwd | wc -l
+
+# The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
+# for user’s account with additional properties related to user password
+$ cat /etc/shadow | wc -l
+
+# Run psql with postgresSQL user
+$ sudo -u postgresSQL /home/vpostgres/9.6/bin/psql -c "select * from user;"
 ```
 
 #### chmod
@@ -695,7 +700,7 @@ chmod ugoa+rwx file == chmod 7777 file
 #### chown
 ```bash
 # change folder owner to user stack recursive
-chown -hR stack folder/    
+$ chown -hR stack folder/    
 ```
 
 #### chgrp
@@ -1146,7 +1151,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
-
+# 用 value=" 字符串作为token分隔行
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $0}'
 <Property oe:key="netmask" oe:value="255.255.253.0" />
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $1}'
@@ -1369,6 +1374,41 @@ Feb
 
 # 监控加到文件尾的内容
 $ tail -f logfile
+```
+
+#### jq
+JSON 命令行处理
+```bash
+$ cat name.json 
+[{"id": 1, "name": "Arthur", "age": "21"},{"id": 2, "name": "Richard", "age": "32"}]
+# 格式化JSON数据 '.'是最简单的格式化filter
+$ cat name.json | jq '.'
+[
+  {
+    "id": 1,
+    "name": "Arthur",
+    "age": "21"
+  },
+  {
+    "id": 2,
+    "name": "Richard",
+    "age": "32"
+  }
+]
+
+# 根据filter查询value
+$ cat name.json | jq '.[0]'
+{
+  "id": 1,
+  "name": "Arthur",
+  "age": "21"
+}
+$ cat name.json | jq '.[0].name'
+"Arthur"
+
+# 整形id进行加法计算
+$ cat name.json | jq '.[0].id + 10'
+11
 ```
 
 #### script

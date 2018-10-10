@@ -1,18 +1,18 @@
 
 ---
 
-### *ä¸åŒç±»å‹çš„å®‰å…¨è¯ä¹¦è½¬æ¢*
+### *²»Í¬ÀàĞÍµÄ°²È«Ö¤Êé×ª»»*
 - [digital signature/certificate](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)<br>
 
 ---
 
-Javaçš„åº”ç”¨å¦‚æœä½¿èƒ½TLSåè®®ï¼Œéœ€è¦å¤„ç†å®‰å…¨è¯ä¹¦, è¯ä¹¦é€šè¿‡JDKè‡ªå¸¦keystoreæ¥å­˜å‚¨map entry[private RSA key, public certificate]ï¼Œ
-æ ‡å‡†X.509è§„èŒƒæ”¯æŒPKCS12æ ¼å¼, è¯ä¹¦åç¼€å".p12"ï¼ŒJDKæ”¯æŒX.509
+JavaµÄÓ¦ÓÃÈç¹ûÊ¹ÄÜTLSĞ­Òé£¬ĞèÒª´¦Àí°²È«Ö¤Êé, Ö¤ÊéÍ¨¹ıJDK×Ô´økeystoreÀ´´æ´¢map entry[private RSA key, public certificate]£¬
+±ê×¼X.509¹æ·¶Ö§³ÖPKCS12¸ñÊ½, Ö¤Êéºó×ºÃû".p12"£¬JDKÖ§³ÖX.509
 
-äº‹å®ä¸Šçš„certificateå’Œkeyæ ¼å¼æ ‡å‡†PEM(Privacy-enhanced Electronic Mail), è¯ä¹¦åç¼€å".pem",".cer",".crt",å…¬ç§é’¥åç¼€å".key"
-æœ‰æ—¶å€™ä¹Ÿä¼šå°†å¯†é’¥å’Œè¯ä¹¦éƒ½æ”¾å…¥ä¸€ä¸ªpemçš„æ–‡ä»¶ä¸­
+ÊÂÊµÉÏµÄcertificateºÍkey¸ñÊ½±ê×¼PEM(Privacy-enhanced Electronic Mail), Ö¤Êéºó×ºÃû".pem",".cer",".crt",¹«Ë½Ô¿ºó×ºÃû".key"
+ÓĞÊ±ºòÒ²»á½«ÃÜÔ¿ºÍÖ¤Êé¶¼·ÅÈëÒ»¸öpemµÄÎÄ¼şÖĞ
 
-å¦‚æœè¦å°†pemæ ¼å¼è¯ä¹¦å¯¼å…¥JDK keystoreå¿…é¡»è½¬æ¢æˆPKCS12æ ¼å¼ï¼Œç„¶åæ‰èƒ½é€šè¿‡JDKæä¾›çš„keytoolå¯¼å…¥
+Èç¹ûÒª½«pem¸ñÊ½Ö¤Êéµ¼ÈëJDK keystore±ØĞë×ª»»³ÉPKCS12¸ñÊ½£¬È»ºó²ÅÄÜÍ¨¹ıJDKÌá¹©µÄkeytoolµ¼Èë
 - [certificate-transform](https://www.digitalocean.com/community/tutorials/java-keytool-essentials-working-with-java-keystores)
 
 ## *JDK keytool*
@@ -90,10 +90,10 @@ $ keytool -delete -alias controller -keystore keystore.jks
 ``` bash
 $ keytool -changealias -alias <old> -destalias <new> -keystore keystore.jks
 
-# æŠŠaliasä¸º1çš„entryæ”¹ä¸ºcontroller
+# °ÑaliasÎª1µÄentry¸ÄÎªcontroller
 $ keytool -changealias -alias 1 -destalias controller -keystore keystore.jks
 
-# ä¿®æ”¹å‰entry
+# ĞŞ¸ÄÇ°entry
 Keystore type: JKS
 Keystore provider: SUN
 
@@ -102,7 +102,7 @@ Your keystore contains 1 entry
 1, Jan 16, 2018, PrivateKeyEntry, 
 Certificate fingerprint (SHA1): AA:B8:4E:7A:0E:D8:D8:A9:48:1A:37:EC:13:D0:C7:42:35:56:E9:19
 
-# ä¿®æ”¹åentry
+# ĞŞ¸Äºóentry
 Keystore type: JKS
 Keystore provider: SUN
 
@@ -153,4 +153,18 @@ $ openssl x509 -inform der -in /opt/cloudera/security/pki/hostname.cer -out /tmp
 * Converting PEM Encoded Certificates to DER
 ```bash
 $ openssl x509 -outform der -in certificate.pem -out certificate.der
+```
+
+## *Show certificate*
+```bash
+# °´ÕÕÎÄ±¾¸ñÊ½Õ¹Ê¾Ö¤ÊéÄÚÈİ
+$ openssl x509 -in certificate.pem -text
+$ openssl x509 -in MYCERT.crt -text
+
+# ´òÓ¡Ö¤ÊéÎÄ±¾¸ñÊ½
+$ keytool -printcert -file certificate.pem
+$ keytool -printcert -file MYCERT.crt
+
+# °´ÕÕÎÄ±¾¸ñÊ½Õ¹Ê¾derÖ¤ÊéÄÚÈİ
+$ openssl x509 -in MYCERT.der -inform der -text
 ```

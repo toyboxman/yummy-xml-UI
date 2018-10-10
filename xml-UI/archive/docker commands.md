@@ -14,11 +14,11 @@
 
 #### docker installation on SUSE
 * install package
-```shell
+```bash
 sudo zypper in yast2-docker
 ```
 * Giving non-root user privilege to access, the docker daemon always runs as the root user
-```shell
+```bash
 # create group docker
 sudo groupadd docker
 # Adding user king to group docker, sudo gpasswd -a ${USER} docker
@@ -28,7 +28,7 @@ sudo service docker restart
 logout and login  
 ```
 * set docker image pull proxy
-```shell
+```bash
 sudo systemctl stop docker
 sudo mkdir -p /etc/systemd/system/docker.service.d
 
@@ -50,16 +50,23 @@ systemctl show --property=Environment docker
 ```
 
 #### docker command
-```shell
-# list docker instances
+```bash
+# list all docker instances(up/exited/...)
 docker ps -a 
+# list up instances
+docker ps
+docker container ls
+
 # list images
 docker images
 docker image ls 
+
 # search default image hub
 docker search <NAME>
+
 # pull registry image to local repo /var/lib/docker/btrfs/subvolumes
 docker pull java
+
 # remove image forcibly
 docker rmi -f <NAME | ID>  
 
@@ -106,7 +113,7 @@ Caution - These steps depend on your current /var/lib/docker being <br>an actual
 
 #### docker-compose
 > [example](https://github.com/lukeolbrish/examples/tree/master/zookeeper/five-server-docker)
-```shell
+```bash
 # docker-compose is for defining and running multi-container applications
 # install docker-compose package
 sudo zypper install docker-compose  
@@ -135,7 +142,7 @@ docker-compose run
 docker-compose run --rm zkcli -server zookeeper3  
 ```
 #### zk command
-```shell
+```bash
 # enter zkCli mode
 /bin/zkCli.sh -server 172.18.0.3:2181  
 # check zk node follower or leader
@@ -149,12 +156,12 @@ get /zk_test
 ```
 
 #### spark command
-```shell
+```bash
 > spark-submit --class org.apache.griffin.measure.Application --master yarn-client \
  --queue default --verbose griffin-measure.jar env.json config.json local,local
 ```
 #### kafka command
-```shell
+```bash
 #topic creation
 > bin/kafka-topics.sh --create \
     --zookeeper localhost:2181 \
