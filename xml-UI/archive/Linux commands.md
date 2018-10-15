@@ -12,20 +12,21 @@
 ---
 - [Monitor System Information](#monitor-system-information)
     - [Activate Account](#activate-account)
+    - [Disk Management](#lvm)
     - [List All Users](#list-all-users)	
     - [List System Details](#list-system-details)
     - [List Opened Files](#lsof)
+    - [Query Systemd Log](#journalctl)
     - [Show Linux Version](#show-linux-version)
     - [Show Network Details](#show-network-details)
     - [Show Disk Details](#dfdu)
     - [Show Memory Details](#free)
     - [Show Hardware Details](#hwinfo)
     - [Show File System Status](#statgetfaclsetfacl)	
-    - [Top](#top)
-    - [Disk Management](#lvm)
     - [Set kernel parameters](#sysctl)
     - [Service Management](#systemctl)
     - [Service on/off](#chkconfig)
+    - [Top](#top)
     - [Turn off Console Color](#turn-off-console-color)
 - [Usual Command](#usual-command)
     - [Base64](#base64)
@@ -265,6 +266,40 @@ Aug 29 10:46:30 suse-leap systemd[1]: Mounted /home.
 
 # link a service file not in default systemd path /etc/systemd/system
 $ systemctl link /path/to/servicename.service
+```
+
+#### journalctl
+[query the systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
+```bash
+# list system log reversely
+$ journalctl -r
+-- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
+Oct 15 09:26:08 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Emitting configChanged()
+Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Output 71 : connected = true , enabled = true
+
+# list following system log, like tail -f
+$ journalctl -f
+
+# list recent 3 records
+$ journalctl -n 3
+-- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
+Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr:         Primary: true
+Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Output 71 : connected = true , enabled = true
+Oct 15 09:26:08 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Emitting configChanged()
+
+# check journal log size
+$ journalctl --disk-usage
+Archived and active journals take up 16.0M on disk.
+
+# list sshd service log by json format
+$ journalctl -b -u sshd -o json-pretty
+{
+        "MESSAGE_ID" : "7d4958e842da4a758f6c1cdc7b36dcc5",
+        "_CMDLINE" : "/usr/lib/systemd/systemd --switched-root --system --deserialize 23",
+        "UNIT" : "sshd.service",
+        "MESSAGE" : "Starting OpenSSH Daemon...",
+        "_SOURCE_REALTIME_TIMESTAMP" : "1537263825319040"
+}
 ```
 
 #### chkconfig
