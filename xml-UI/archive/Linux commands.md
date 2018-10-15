@@ -1560,6 +1560,11 @@ rpm -Uvh file.rpm
 ---
 
 #### Vim
+```bash
+# open a file and position to line denoted
+$ vi +18809 /var/log/sshd.log
+```
+
   Operation  | Description
 ------------- | -------------
    Home        |  光标到行首
