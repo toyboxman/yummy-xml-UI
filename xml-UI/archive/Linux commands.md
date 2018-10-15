@@ -58,6 +58,7 @@
     - [Zcat](#zcat)
 - [Text Operation](#txt-operation)
     - [Awk](#awk)
+    - [Cut](#cut)
     - [Diff/Patch](#diffpatch)
     - [Head/Tail](#headtail)
     - [Hd/Od](#hdod)
@@ -68,6 +69,7 @@
     - [Sed](#sed)
     - [Sort](#sort)
     - [Script](#script)
+    - [Strings](#strings)
     - [Tee](#tee)
     - [Uniq](#uniq)
     - [Wc](#wc)
@@ -1374,6 +1376,47 @@ Feb
 
 # 监控加到文件尾的内容
 $ tail -f logfile
+```
+
+#### strings
+查看文件中可显示字符内容
+```bash
+# 查看系统journal文件
+$ strings /var/log/journal/a0848146a8854c519ce698d28901e824/user-1000.journal | grep -i message
+MESSAGE=kscreen.xcb.helper: RRScreenChangeNotify
+MESSAGE=kscreen.xcb.helper:     Window: 35651588
+```
+
+#### cut
+删除文件行中部分内容
+```bash
+# -b(byte) 按指定字节数截取内容
+# -b 1-8 截取第1到8字节
+# -b 2,5,7 截取第2,5,7字节
+# -b 1-3,5-7 截取第1到3字节加第5到7字节
+# -b 1- 截取第1到行末尾字节
+# -b -8 截取行首到第8字节
+$ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -b 1-8
+MESSAGE=
+MESSAGE=
+
+# -c (column) 按指定列数截取内容
+# 用法和-b类似
+# -c 1,3,6 截取第1,3,6字节
+$ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -c 1,3,6
+MSG
+MSG
+
+# -f (field) 按分隔后的字段截取内容
+# -d "delimiter" 指定分隔符
+$ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 2
+kscreen.xcb.helper: RRScreenChangeNotify
+kscreen.xcb.helper:     Window: 35651588
+
+# --output-delimiter 将分隔符替换成指定显示字符截取内容
+$ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 1,2  --output-delimiter='=%='
+MESSAGE=%=kscreen.xcb.helper: RRScreenChangeNotify
+MESSAGE=%=kscreen.xcb.helper:     Window: 35651588
 ```
 
 #### jq
