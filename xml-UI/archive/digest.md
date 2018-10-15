@@ -429,3 +429,26 @@ Resource - An XML resource to be loaded by XmlBeanDefinitionReader, or a groovy 
 Package - A Java package to be scanned by ClassPathBeanDefinitionScanner
 CharSequence - A class name, resource handle or package name to loaded as appropriate. If the CharSequence cannot be 
 resolved to class and does not resolve to a Resource that exists it will be considered a Package.
+
+
+https://cwiki.apache.org/confluence/display/HAWQ/ASF+Maturity+Evaluation
+https://cwiki.apache.org/confluence/display/CARBONDATA/Apache+Maturity+Model+Assessment+for+CarbonData
+? security statement
+? license tree
+? dependency tree
+
+http://carbondata.apache.org/pdf/CarbonData-TPCH-Report.pdf
+? performance data
+
+https://cwiki.apache.org/confluence/display/HAWQ/Contributing+to+HAWQ
+https://cwiki.apache.org/confluence/display/IMPALA/Contributing+to+Impala
+? how to contribute
+
+https://scan.coverity.com/projects/apache-incubator-hawq
+? coverity
+
+https://stackoverflow.com/questions/tagged/hawq
+? social media(stackoverflow, tweet)
+
+https://cwiki.apache.org/confluence/display/IMPALA/Effective+Coding+Practices
+?code standard
