@@ -383,10 +383,20 @@ ssh -R 54321:localhost:54321 root@172.16.1.13
 
 #### find
 ```bash
-# search a file by some condition
-find /etc -name network.sh  
+# search a file by strict name
+$ find /etc -name network.sh  
+# search a file by name regex condition
+$ find /etc -name '[nN]etwork.sh'
+# search a file by name regex condition case insensitive
+$ find /etc -iname '*network*'
 # search all files in home folder and then determine its file type(append action)
-find /home -user root -exec file {} \;  
+$ find /home -user king -exec file {} \;  
+/home/king: directory
+/home/king/.profile: ASCII text
+/home/king/.bash_history: ASCII text
+/home/king/.xim.template: POSIX shell script, UTF-8 Unicode text executable
+/home/king/public_html: directory
+/home/king/public_html/.directory: ASCII text
 ```
 
 #### cp
