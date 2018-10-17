@@ -7,6 +7,10 @@ Qualifiers for functions are: static, extern, inline
 
 Modifier(ÐÞÊÎ·ûºÅ)
 
+### hive
+https://stackoverflow.com/questions/10276584/hive-table-partition-with-column-in-the-middle
+
+### spring
 org.springframework.boot.autoconfigure.SpringBootApplication
 Indicates a configuration class that declares one or more @Bean methods 
 and also triggers auto-configuration and component scanning. This is a convenience 
