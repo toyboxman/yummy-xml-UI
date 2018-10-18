@@ -10,6 +10,15 @@ Modifier(ÐÞÊÎ·ûºÅ)
 ### hive
 https://stackoverflow.com/questions/10276584/hive-table-partition-with-column-in-the-middle
 
+### superset
+https://superset.incubator.apache.org/
+
+### Druid
+https://en.wikipedia.org/wiki/Druid_(open-source_data_store)
+
+### Flink
+https://en.wikipedia.org/wiki/Apache_Flink
+
 ### spring
 org.springframework.boot.autoconfigure.SpringBootApplication
 Indicates a configuration class that declares one or more @Bean methods 
