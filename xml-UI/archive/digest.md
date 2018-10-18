@@ -20,12 +20,12 @@ https://en.wikipedia.org/wiki/Druid_(open-source_data_store)
 https://en.wikipedia.org/wiki/Apache_Flink
 
 ### spring
-org.springframework.boot.autoconfigure.SpringBootApplication
+* org.springframework.boot.autoconfigure.SpringBootApplication
 Indicates a configuration class that declares one or more @Bean methods 
 and also triggers auto-configuration and component scanning. This is a convenience 
 annotation that is equivalent to declaring @Configuration, @EnableAutoConfiguration and @ComponentScan.
 
-org.springframework.context.annotation.Bean
+* org.springframework.context.annotation.Bean
 Indicates that a method produces a bean to be managed by the Spring container(方法产生的bean对象由容器托管)
 @Bean({"b1", "b2"}) // bean available as 'b1' and 'b2', but not 'myBean'
        public MyBean myBean() {
@@ -93,7 +93,7 @@ Special consideration must be taken for @Bean methods that return Spring BeanFac
 By marking this method as static, it can be invoked without causing instantiation of its declaring @Configuration class, thus avoiding the above-mentioned lifecycle conflicts. Note however that static @Bean methods will not be enhanced for scoping and AOP semantics as mentioned above. This works out in BFPP cases, as they are not typically referenced by other @Bean methods. As a reminder, a WARN-level log message will be issued for any non-static @Bean methods having a return type assignable to BeanFactoryPostProcessor.
 
 
-org.springframework.scheduling.annotation.EnableScheduling
+* org.springframework.scheduling.annotation.EnableScheduling
 Enables Spring's scheduled task execution capability, similar to functionality found in Spring's <task:*> XML namespace. To be used on @Configuration classes as follows:
    @Configuration
    @EnableScheduling
