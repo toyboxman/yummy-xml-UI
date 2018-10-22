@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffffff" COLOR="#333333" CREATED="1528767037887" ID="ID_933806250" MODIFIED="1528957123592" TEXT="Works">
+<node BACKGROUND_COLOR="#ffffff" COLOR="#333333" CREATED="1528767037887" ID="ID_933806250" MODIFIED="1539665489187" TEXT="Works">
 <edge COLOR="#009900" WIDTH="2"/>
 <font BOLD="true" NAME="Times New Roman" SIZE="20"/>
 <node COLOR="#000000" CREATED="1528767135020" ID="ID_171106743" MODIFIED="1528767579384" POSITION="right" STYLE="fork" TEXT="Principles">
@@ -81,12 +81,13 @@
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
+<node CREATED="1540195894755" ID="ID_1972485601" LINK="https://www.programcreek.com/" MODIFIED="1540195911119" TEXT="programcreek"/>
 </node>
 <node COLOR="#00b439" CREATED="1503041607773" ID="ID_1290727593" LINK="https://a16z.com/tech-topics/" MODIFIED="1528275752793" TEXT="a16z">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1504572924168" FOLDED="true" ID="ID_1227640010" MODIFIED="1528275773054" TEXT="video">
+<node COLOR="#00b439" CREATED="1504572924168" FOLDED="true" ID="ID_1227640010" MODIFIED="1537336326435" TEXT="video">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1504572941657" ID="ID_1017952878" LINK="https://youtu.be/HAnw168huqA" MODIFIED="1528275773054" TEXT="Think Fast, Talk Smart: Communication Techniques">
@@ -101,7 +102,7 @@
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node COLOR="#990000" CREATED="1507810919562" ID="ID_769585338" MODIFIED="1528275773069" TEXT=" Eng">
+<node COLOR="#990000" CREATED="1507810919562" ID="ID_769585338" MODIFIED="1537336325571" TEXT=" Eng">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1507810954192" ID="ID_1211679260" LINK="https://youtu.be/PNJeUIPC6T0" MODIFIED="1528275773069" TEXT="bad phrase">
@@ -125,7 +126,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#990000" CREATED="1508219756602" ID="ID_1654930495" MODIFIED="1528275773069" TEXT="poem">
+<node COLOR="#990000" CREATED="1508219756602" ID="ID_1654930495" MODIFIED="1537336324465" TEXT="poem">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1508219764755" ID="ID_401955540" LINK="https://youtu.be/KwJZhEwHrms" MODIFIED="1528275773069" TEXT="spring dawn">

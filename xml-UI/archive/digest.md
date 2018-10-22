@@ -7,6 +7,24 @@ Qualifiers for functions are: static, extern, inline
 
 Modifier(ÐÞÊÎ·ûºÅ)
 
+### python
+$ python -V
+Python 2.7.13
+$ python3 -V
+Python 3.4.6
+show how to run unit test
+$ python3 -m unittest -h
+run unit test with Test Discovery
+$ python -m unittest
+
+# list installed modules
+$ python3
+>help("modules")
+>quit()
+# Output installed packages in requirements format
+$ pip freeze 
+$ pip list
+
 ### hive
 https://stackoverflow.com/questions/10276584/hive-table-partition-with-column-in-the-middle
 

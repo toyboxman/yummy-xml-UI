@@ -60,7 +60,7 @@
 <node CREATED="1530607410108" ID="ID_1897773027" LINK="https://github.com/sksamuel/scapegoat" MODIFIED="1530607434482" TEXT="scapegoat"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1508204537978" FOLDED="true" ID="ID_1796130615" LINK="https://github.com/apache/spark" MODIFIED="1523513481206" POSITION="left" TEXT="spark">
+<node COLOR="#00b439" CREATED="1508204537978" FOLDED="true" ID="ID_1796130615" LINK="https://github.com/apache/spark" MODIFIED="1533110924209" POSITION="left" TEXT="spark">
 <edge STYLE="bezier" WIDTH="thin"/>
 <node COLOR="#990000" CREATED="1508204547678" ID="ID_1871521280" LINK="https://github.com/apache/spark/blob/master/core/src/main/scala/org/apache/spark/SparkContext.scala" MODIFIED="1508210110114" TEXT="SparkContext">
 <font NAME="SansSerif" SIZE="14"/>
@@ -81,13 +81,13 @@
 <node CREATED="1509330761988" ID="ID_265151965" LINK="https://kafka.apache.org/documentation/#gettingStarted" MODIFIED="1509330768647" POSITION="left" TEXT="kafka">
 <node CREATED="1509333226397" ID="ID_646803074" LINK="https://cwiki.apache.org/confluence/display/KAFKA/System+Tools" MODIFIED="1509333231214" TEXT="tools"/>
 </node>
-<node CREATED="1512699812214" FOLDED="true" ID="ID_1980218337" LINK="https://github.com/apache/incubator-griffin/blob/master/griffin-doc/roadmap.md" MODIFIED="1523513461501" POSITION="right" TEXT="features">
+<node CREATED="1512699812214" FOLDED="true" ID="ID_1980218337" LINK="https://github.com/apache/incubator-griffin/blob/master/griffin-doc/roadmap.md" MODIFIED="1533110901145" POSITION="right" TEXT="features">
 <node CREATED="1512699903542" ID="ID_1874945750" MODIFIED="1512699914640" TEXT="data asset mgr"/>
 <node CREATED="1512699951281" ID="ID_969659115" MODIFIED="1512699955405" TEXT="job scheduler"/>
 <node CREATED="1512699937091" ID="ID_1768044794" MODIFIED="1512699943918" TEXT="measure mgr"/>
 <node CREATED="1512699970608" ID="ID_483393538" MODIFIED="1512699978523" TEXT="measure exec on spark"/>
 </node>
-<node CREATED="1508210233911" FOLDED="true" ID="ID_1089774748" MODIFIED="1523513464222" POSITION="right" TEXT="measure">
+<node CREATED="1508210233911" FOLDED="true" ID="ID_1089774748" MODIFIED="1533110897235" POSITION="right" TEXT="measure">
 <edge STYLE="sharp_bezier" WIDTH="1"/>
 <node CREATED="1508207875312" ID="ID_1446262220" MODIFIED="1508207901874" TEXT="Algorithm">
 <node CREATED="1508207904085" ID="ID_1351470309" LINK="https://github.com/toyboxman/incubator-griffin/blob/master/measure/src/main/scala/org/apache/griffin/measure/algo/batch/BatchAccuracyAlgo.scala" MODIFIED="1508210336996" TEXT="BatchAccuracyAlgo">
