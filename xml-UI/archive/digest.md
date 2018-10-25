@@ -38,6 +38,19 @@ https://en.wikipedia.org/wiki/Druid_(open-source_data_store)
 https://en.wikipedia.org/wiki/Apache_Flink
 
 ### spring
+* junit integrates with spring
+1.simply annotate a JUnit 4 based test class with @RunWith(SpringRunner.class)
+code sample:
+[1](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L54)   
+2.org.springframework.test.web.servlet.MockMvc, server-side Spring MVC test support
+code sample:
+[1](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L67)
+3.org.springframework.boot.test.mock.web.SpringBootMockServletContext
+4.org.springframework.boot.test.autoconfigure.json.JsonTestersAutoConfiguration
+
+* Boot Configuration Binding
+https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding
+
 * org.springframework.boot.autoconfigure.SpringBootApplication
 Indicates a configuration class that declares one or more @Bean methods 
 and also triggers auto-configuration and component scanning. This is a convenience 
