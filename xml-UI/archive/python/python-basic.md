@@ -96,8 +96,8 @@ Python 3.4.6
 
 - **run unit test**
 ```python
+# run unit test with Test Discovery
 $ python3 -m unittest -h
-run unit test with Test Discovery
 $ python -m unittest
 ```
 
