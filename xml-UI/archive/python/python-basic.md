@@ -1,6 +1,7 @@
 - [Basic Language Concepts](#basic-language-concepts)
     - [Collections](#collections)
     - [Flow](#flow)
+- [Python CLI](#python-cli)
 ***
 
 ## Basic Language Concepts
@@ -83,3 +84,30 @@ if a > b or a > c:
       if x == "banana":
         break
     ```
+
+## Python CLI
+- **show version**
+```python
+$ python -V
+Python 2.7.13
+$ python3 -V
+Python 3.4.6
+```
+
+- **run unit test**
+```python
+$ python3 -m unittest -h
+run unit test with Test Discovery
+$ python -m unittest
+```
+
+- **list installed packages**
+```python
+# list installed modules
+$ python3
+>help("modules")
+>quit()
+# Output installed packages in requirements format
+$ pip freeze 
+$ pip list
+```python
