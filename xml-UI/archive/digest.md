@@ -43,6 +43,10 @@ code sample:
 * test in spring boot
 https://www.baeldung.com/spring-boot-testing
 
+* @NoRepositoryBean
+public interface CrudRepository
+mock entity probably hit problem running with spring test entity manager
+
 * Boot Configuration Binding
 https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding
 code sample:
