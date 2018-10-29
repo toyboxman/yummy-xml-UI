@@ -8,7 +8,10 @@ Qualifiers for functions are: static, extern, inline
 Modifier(ÐÞÊÎ·ûºÅ)
 
 ### python
-
+import json
+ctlist = json.loads(controllers)
+for ctl in ctlist["controllers"]:
+    self.controller_list.append(ctlist["id"])
 
 ### hive
 https://stackoverflow.com/questions/10276584/hive-table-partition-with-column-in-the-middle
