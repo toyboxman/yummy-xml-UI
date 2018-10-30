@@ -1,9 +1,9 @@
 ***
 
-## ä¸€äº›ç±»åž‹è½¬æ¢
+## Ò»Ð©ÀàÐÍ×ª»»
 
 ### primitive long
-ç³»ç»Ÿé»˜è®¤æ•°å€¼ç±»åž‹æ˜¯intï¼Œå› æ­¤å½“æ•°å€¼è¶…å‡ºèŒƒå›´æ—¶å€™ä¼šæŠ¥é”™ã€‚è¿™ä¸ªæ—¶å€™å¯ä»¥åœ¨æ•°å°¾åŠ ä¸ŠL/læŒ‡å®šç±»åž‹ï¼Œä¸è¿‡å°å†™lè·Ÿæ•°å­—1å¾ˆåƒï¼Œç”¨å¤§å†™æ›´åˆç†
+ÏµÍ³Ä¬ÈÏÊýÖµÀàÐÍÊÇint£¬Òò´Ëµ±ÊýÖµ³¬³ö·¶Î§Ê±ºò»á±¨´í¡£Õâ¸öÊ±ºò¿ÉÒÔÔÚÊýÎ²¼ÓÉÏL/lÖ¸¶¨ÀàÐÍ£¬²»¹ýÐ¡Ð´l¸úÊý×Ö1ºÜÏñ£¬ÓÃ´óÐ´¸üºÏÀí
 ```java 
 long value = 3504235896859348553;
 compile error:
@@ -11,14 +11,14 @@ integer number too large: 3504235896859348553
 #compile successfully
 long value = 3504235896859348553L;
 
-#longæ•°å€¼ä»æ—§æŠ¥é”™ï¼Œè¡¨æ˜Žè¿™ä¸ªæ•°å€¼è¶…å‡ºlongåž‹èŒƒå›´
+#longÊýÖµÈÔ¾É±¨´í£¬±íÃ÷Õâ¸öÊýÖµ³¬³ölongÐÍ·¶Î§
 long value = 12999962314720761107L;
 compile error:
 integer number too large: 12999962314720761107
-#å¯ä»¥å°†å…¶å¯¹å¾…æˆæ— ç¬¦å·longï¼ŒæŠŠæœ€é«˜ä½å½“æˆç¬¦å·ä½ï¼Œè§£æžæˆæœ‰ç¬¦å·long
+#¿ÉÒÔ½«Æä¶Ô´ý³ÉÎÞ·ûºÅlong£¬°Ñ×î¸ßÎ»µ±³É·ûºÅÎ»£¬½âÎö³ÉÓÐ·ûºÅlong
 long right = Long.parseUnsignedLong("12999962314720761107");
 ``` 
-æœ‰äº›UUIDè¿˜åŽŸéœ€è¦è¿™æ ·å¤„ç†ï¼Œæ¯”å¦‚google protobufä¼šæŠŠUUIDè½¬æˆå¦‚ä¸‹è¾“å‡ºï¼Œé«˜ä½å’Œä½Žä½çš„longéƒ½æ˜¯20ä¸ªæ•°ä½è¶…è¿‡èŒƒå›´ï¼Œåªèƒ½å½“æˆæ— ç¬¦å·long
+ÓÐÐ©UUID»¹Ô­ÐèÒªÕâÑù´¦Àí£¬±ÈÈçgoogle protobuf»á°ÑUUID×ª³ÉÈçÏÂÊä³ö£¬¸ßÎ»ºÍµÍÎ»µÄlong¶¼ÊÇ20¸öÊýÎ»³¬¹ý·¶Î§£¬Ö»ÄÜµ±³ÉÎÞ·ûºÅlong
 ```java 
 node_uuid {
   left: 10546586156302093832

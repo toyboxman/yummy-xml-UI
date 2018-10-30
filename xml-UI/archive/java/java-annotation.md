@@ -1,6 +1,6 @@
 ***
 
-## å¸¸ç”¨annotation
+## ³£ÓÃannotation
 
 ### javax.annotation.concurrent.ThreadSafe
 Does this annotation actually make the class Thread Safe or is it just for readability

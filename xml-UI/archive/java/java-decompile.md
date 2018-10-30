@@ -1,9 +1,9 @@
 ***
 
-## 鍙嶇紪璇戠殑宸ュ叿
+## 反编译的工具
 
 ### CFR
-CFR鏄竴濂楀懡浠よJava鍙嶇紪璇戝伐鍏凤紝浣跨敤鍛戒护杈冨鏉傦紝涓嶈繃鐩墠鏀寔鍒癑ava9椋庢牸浠ｇ爜銆傝繍琛屾椂鍊欓渶瑕佸姞杞戒竴涓猯ib<br>
+CFR是一套命令行Java反编译工具，使用命令较复杂，不过目前支持到Java9风格代码。运行时候需要加载一个lib<br>
 **project homepage**  <http://www.benf.org/other/cfr/>   
 ```bash
 #decompile a jar named main-1.0.jar
@@ -81,10 +81,10 @@ java -jar cfr_128.jar --help jarfilter
 ```
 
 ### jd-gui
-jd-gui鏄竴濂楀浘褰㈠寲Java鍙嶇紪璇戝伐鍏凤紝涔熸彁渚汭DE闆嗘垚鐨勬彃浠躲�傜嫭绔嬩娇鐢ㄩ潪甯告柟渚匡紝涓嶈繃鐩墠鐗堟湰涓嶆敮鎸乧losure鏂瑰紡浠ｇ爜<br>
+jd-gui是一套图形化Java反编译工具，也提供IDE集成的插件。独立使用非常方便，不过目前版本不支持closure方式代码<br>
 ![jd-gui for windows](http://jd.benow.ca/img/screenshot17.png)
 
 ### IntelliJ
-IntelliJ绀惧尯鐗堥粯璁ゆ彁渚涗竴涓彃浠讹紝鍙互鍦↖DE涓洿鎺ュ弽缂栬瘧<br>
+IntelliJ社区版默认提供一个插件，可以在IDE中直接反编译<br>
 ![IntelliJ](https://www.jetbrains.com/idea/features/screenshots/16/why_decompiler.png)
 

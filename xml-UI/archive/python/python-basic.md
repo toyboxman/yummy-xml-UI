@@ -116,6 +116,7 @@ $ python -m unittest
 
 - **list installed packages**
 ```python
+pip -V
 # list installed modules
 $ python3
 >help("modules")

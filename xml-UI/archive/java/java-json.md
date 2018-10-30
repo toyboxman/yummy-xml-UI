@@ -3,7 +3,7 @@
 ## Ways to json processing
 
 ### 1.use com.fasterxml.jackson
-- ç”±Stringæ„é€ JsonNode
+- ÓÉString¹¹ÔìJsonNode
 ```java 
 ObjectMapper mapper = new ObjectMapper();
 JsonNode sliceNode = mapper.readTree(new String(childData.getData()));
@@ -16,21 +16,21 @@ for (JsonNode jsonNode : slice) {
     BitSet assignment = BitSet.valueOf(occupation);
 }
 ``` 
-- åˆ›å»ºJsonNodeå¯¼å‡ºString
+- ´´½¨JsonNodeµ¼³öString
 ```java
 ObjectMapper mapper = new ObjectMapper();
-//åˆ›å»ºjsonçš„æ ¹èŠ‚ç‚¹
+//´´½¨jsonµÄ¸ù½Úµã
 ObjectNode rootNode = mapper.createObjectNode();
 rootNode.put(AUTHOR, getAuthor().toString());
 rootNode.put(TIMESTAMP, getTimestamp());
-//æ ¹èŠ‚ç‚¹ä¸‹åˆ›å»ºä¸€ä¸ªæ•°ç»„å‹å­èŠ‚ç‚¹
+//¸ù½ÚµãÏÂ´´½¨Ò»¸öÊı×éĞÍ×Ó½Úµã
 ArrayNode sliceNode = rootNode.putArray(SLICE);
 for (Assignment node : AssignmentList) {
     ObjectNode slice = mapper.createObjectNode();
     slice.put(NODE_UUID, node.getUuid().toString());
     slice.put(NODE_IP, nodeMap.get(node.getUuid()));
     slice.put(SLICE_COUNT, node.getCount());
-    //å¯¹bytesæ•°æ®å¤„ç†è¾“å‡ºBASE64æ ¼å¼String,é˜²æ­¢é€šè¿‡ç½‘ç»œä¼ è¾“å‡ºç°é”™è¯¯
+    //¶ÔbytesÊı¾İ´¦ÀíÊä³öBASE64¸ñÊ½String,·ÀÖ¹Í¨¹ıÍøÂç´«Êä³öÏÖ´íÎó
     slice.put(OCCUPATION, BinaryNode.valueOf(node.getAssignment().toByteArray()).asText());
     sliceNode.add(slice);
 }
