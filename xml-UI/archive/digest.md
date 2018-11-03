@@ -65,6 +65,8 @@ Note that the @Bean annotation does not provide attributes for scope, depends-on
            return obj;
        }
 
+https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started
+
 @Bean Methods in @Configuration Classes
 Typically, @Bean methods are declared within @Configuration classes. 
 In this case, bean methods may reference other @Bean methods in the same class by calling them directly. 
