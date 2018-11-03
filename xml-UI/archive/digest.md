@@ -48,6 +48,8 @@ Indicates a configuration class that declares one or more @Bean methods
 and also triggers auto-configuration and component scanning. This is a convenience 
 annotation that is equivalent to declaring @Configuration, @EnableAutoConfiguration and @ComponentScan.
 
+https://www.baeldung.com/junit-assert-exception
+
 * org.springframework.context.annotation.Bean
 Indicates that a method produces a bean to be managed by the Spring container(方法产生的bean对象由容器托管)
 @Bean({"b1", "b2"}) // bean available as 'b1' and 'b2', but not 'myBean'
