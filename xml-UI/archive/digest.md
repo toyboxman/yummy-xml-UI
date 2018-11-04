@@ -50,24 +50,6 @@ annotation that is equivalent to declaring @Configuration, @EnableAutoConfigurat
 
 https://www.baeldung.com/junit-assert-exception
 
-* org.springframework.context.annotation.Bean
-Indicates that a method produces a bean to be managed by the Spring container(方法产生的bean对象由容器托管)
-@Bean({"b1", "b2"}) // bean available as 'b1' and 'b2', but not 'myBean'
-       public MyBean myBean() {
-           // instantiate and configure MyBean obj
-           return obj;
-       }
-
-Scope, DependsOn, Primary, and Lazy
-Note that the @Bean annotation does not provide attributes for scope, depends-on, primary, or lazy. Rather, it should be used in conjunction with @Scope, @DependsOn, @Primary, and @Lazy annotations to achieve those semantics. For example:
-       @Bean
-       @Scope("prototype")
-       public MyBean myBean() {
-           // instantiate and configure MyBean obj
-           return obj;
-       }
-
-https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started
 
 @Bean Methods in @Configuration Classes
 Typically, @Bean methods are declared within @Configuration classes. 
@@ -231,16 +213,7 @@ Configures component scanning directives for use with @Configuration classes. Pr
 Either basePackageClasses or basePackages (or its alias value) may be specified to define specific packages to scan. If specific packages are not defined, scanning will occur from the package of the class that declares this annotation.
 Note that the <context:component-scan> element has an annotation-config attribute; however, this annotation does not. This is because in almost all cases when using @ComponentScan, default annotation config processing (e.g. processing @Autowired and friends) is assumed. Furthermore, when using AnnotationConfigApplicationContext, annotation config processors are always registered, meaning that any attempt to disable them at the @ComponentScan level would be ignored.
 
-@Configuration
-Indicates that a class declares one or more @Bean methods and may be processed by the Spring container to generate bean definitions and service requests for those beans at runtime, for example:
-   @Configuration
-   public class AppConfig {
-  
-       @Bean
-       public MyBean myBean() {
-           // instantiate, configure and return bean ...
-       }
-   }
+
 Bootstrapping @Configuration classes
 Via AnnotationConfigApplicationContext
 @Configuration classes are typically bootstrapped using either AnnotationConfigApplicationContext or its web-capable variant, AnnotationConfigWebApplicationContext. A simple example with the former follows:
