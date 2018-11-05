@@ -11,6 +11,7 @@ Modifier(ÐÞÊÎ·ûºÅ)
 1.python3 must return value, other get None type in [] loop not like python2 ?
 2.python3 class def method must use self.method() otherwise no definition ?
 3.method must (self) parameter, otherwise call failure ?
+4.global free_disk_space
 
 ### hive
 https://stackoverflow.com/questions/10276584/hive-table-partition-with-column-in-the-middle
