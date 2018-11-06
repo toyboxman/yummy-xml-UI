@@ -385,10 +385,13 @@ ssh -R 54321:localhost:54321 root@172.16.1.13
 ```bash
 # search a file by strict name
 $ find /etc -name network.sh  
+
 # search a file by name regex condition
 $ find /etc -name '[nN]etwork.sh'
+
 # search a file by name regex condition case insensitive
 $ find /etc -iname '*network*'
+
 # search all files in home folder and then determine its file type(append action)
 $ find /home -user king -exec file {} \;  
 /home/king: directory
@@ -397,6 +400,9 @@ $ find /home -user king -exec file {} \;
 /home/king/.xim.template: POSIX shell script, UTF-8 Unicode text executable
 /home/king/public_html: directory
 /home/king/public_html/.directory: ASCII text
+
+# remove all files with 'tgz' suffix found
+$ find / -iname '*.tgz' -exec rm {} \;
 ```
 
 #### cp
