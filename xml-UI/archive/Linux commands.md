@@ -371,6 +371,9 @@ ssh root@172.16.8.38
 # 'ls -al /root' folder in remote host
 ssh root@172.16.8.38 ls -al
 
+# login with private key file
+ssh -i private.key root@172.16.8.38
+
 # Specifies that connections to the given TCP port on the remote (server) host 
 # are to be forwarded to the given host and port on the local side
 # -R [bind_address:]port:host:hostport
