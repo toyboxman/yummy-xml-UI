@@ -35,6 +35,9 @@ code sample:
 * test in spring boot
 https://www.baeldung.com/spring-boot-testing
 
+* spring xml schema
+https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/xsd-config.html
+
 * @NoRepositoryBean
 public interface CrudRepository
 mock entity probably hit problem running with spring test entity manager
@@ -51,6 +54,12 @@ annotation that is equivalent to declaring @Configuration, @EnableAutoConfigurat
 
 https://www.baeldung.com/junit-assert-exception
 
+@Primary, @Order and @Qualifier
+@dependon
+@ConditionalXXXX
+@ObjectMapper
+
+In module A I have a class annotated with @Configuration and also @AutoConfigureBefore(ClassFromModuleD.class). In module B I have another class annotated with @Configuration and also @AutoConfigureBefore(ClassFromModuleA.class)
 
 @Bean Methods in @Configuration Classes
 Typically, @Bean methods are declared within @Configuration classes. 
