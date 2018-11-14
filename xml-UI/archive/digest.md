@@ -37,6 +37,7 @@ https://www.baeldung.com/spring-boot-testing
 
 * spring xml schema
 https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/xsd-config.html
+https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/spring-core.html
 
 * @NoRepositoryBean
 public interface CrudRepository

@@ -81,7 +81,6 @@
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node CREATED="1540195894755" ID="ID_1972485601" LINK="https://www.programcreek.com/" MODIFIED="1540195911119" TEXT="programcreek"/>
 </node>
 <node COLOR="#00b439" CREATED="1503041607773" ID="ID_1290727593" LINK="https://a16z.com/tech-topics/" MODIFIED="1528275752793" TEXT="a16z">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
@@ -255,7 +254,14 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1505703110968" FOLDED="true" ID="ID_1196948541" MODIFIED="1531210393055" TEXT="web">
+<node CREATED="1542165257516" ID="ID_1469222839" MODIFIED="1542165260696" TEXT="go">
+<node CREATED="1542165267821" ID="ID_724136195" LINK="https://gobyexample.com/" MODIFIED="1542165285205" TEXT="gobyexample"/>
+<node CREATED="1542165295897" ID="ID_1759307522" LINK="https://www.tutorialspoint.com/go/" MODIFIED="1542165312548" TEXT="gotutorial"/>
+</node>
+<node CREATED="1540195894755" ID="ID_1972485601" LINK="https://www.programcreek.com/" MODIFIED="1542165442247" TEXT="programcreek">
+<node CREATED="1542164775771" ID="ID_1443708526" LINK="https://www.geeksforgeeks.org/" MODIFIED="1542164793775" TEXT="geeksforgeeks"/>
+</node>
+<node COLOR="#00b439" CREATED="1505703110968" FOLDED="true" ID="ID_1196948541" MODIFIED="1542165254731" TEXT="web">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <node COLOR="#990000" CREATED="1505703119678" ID="ID_1124745693" LINK="https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx.html" MODIFIED="1528079828120" TEXT="Nginx">
 <edge COLOR="#111111" WIDTH="thin"/>
@@ -270,7 +276,7 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1515984756415" FOLDED="true" ID="ID_276036334" MODIFIED="1528079828121" TEXT="security">
+<node COLOR="#00b439" CREATED="1515984756415" FOLDED="true" ID="ID_276036334" MODIFIED="1542165252260" TEXT="security">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <node COLOR="#990000" CREATED="1515984762095" ID="ID_226975596" LINK="https://en.wikipedia.org/wiki/X.509#Certificate_filename_extensions" MODIFIED="1528079828121" TEXT="X.509">
 <edge COLOR="#111111" WIDTH="thin"/>
