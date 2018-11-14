@@ -70,10 +70,12 @@ docker pull java
 # remove image forcibly
 docker rmi -f <NAME | ID>  
 
-# create container instance 'jdk-dev' by image 'java' and start
+# create container instance with name 'jdk-dev', tty interaction using image 'java' and start
 docker run --name jdk-dev -it java  
+# create container instance using golang image with detached mode
+docker run -d -it golang
 # run image as container with mapping port 2181 to host's port 8081
-docker run -p8081:2181 solo_zk  
+docker run -p8081:2181 -it solo_zk  
 # remove container by name/id
 docker rm <NAME | ID>  
 # Stop one or more running containers
