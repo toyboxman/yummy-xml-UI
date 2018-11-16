@@ -98,24 +98,35 @@ for ctl in ctlist["controllers"]:
     controller_list.append(ctlist["id"])
 ```
 
-## Go CLI
-- **show version**
+## Basic Structure
+### skeleton
+- **package**
 ```go
-$ go version
-go version go1.10.1 linux/amd64
-```
+//------------------------------------------------------------------
+// package a complex name like java
+package bug/analysis/tool
 
-- **build and run**
-```go
-# build go file
-$ go build untar.go
-# build and run go file
-$ go run untar.go
-```
+import (
+	"archive/tar"
+	"compress/gzip"
+	"io"
+	"log"
+	"os"
+)
 
-- **list installed packages**
-```go
-../go-ethereum/vendor/gopkg.in/urfave/cli.v1/help.go
+// build this program, get a failure
+go build untar.go 
+can't load package: package main: 
+untar.go:1:12: expected ';', found '/'
+
+//-> package simple name
+packge analysis
+
+go build pass
+
+//-------------------------------------------------------------------------
+// sample package/import codes from ethereum
+//go-ethereum/vendor/gopkg.in/urfave/cli.v1/help.go
 
 package cli
 
@@ -127,8 +138,8 @@ import (
         "text/tabwriter"
         "text/template"
 )
---------------------------------------------------------------------------
-../go-ethereum/whisper/mailserver/mailserver.go
+//--------------------------------------------------------------------------
+//go-ethereum/whisper/mailserver/mailserver.go
 
 package mailserver
 
@@ -146,7 +157,7 @@ import (
         "github.com/syndtr/goleveldb/leveldb/util"
 )
 --------------------------------------------------------------------------
-../go-ethereum/whisper/whisperv6/whisper.go
+go-ethereum/whisper/whisperv6/whisper.go
 
 package whisperv6
 
@@ -171,36 +182,39 @@ import (
         "golang.org/x/sync/syncmap"
         set "gopkg.in/fatih/set.v0"
 )
-------------------------------------------------------------------
+```
 
-package bug/analysis/tool
-
-import (
-	"archive/tar"
-	"compress/gzip"
-	"io"
-	"log"
-	"os"
-)
-
-go build untar.go 
-can't load package: package main: 
-untar.go:1:12: expected ';', found '/'
-
-
--> 
-packge analysis
-
-go build pass
-
--------------------------------------------------------------------------
+- **main**
+```go
+/* run go program, get non-main failure 
 go run untar.go 
-go run: cannot run non-main package
+go run: cannot run non-main package */
 
--> You need to use the main package
 package main
+..
+func main() {
+}
 
-The entry point of each go program is main.main, i.e. a function called main in a package called main. You have to provide such a main package.
+/* sample codes
+go-ethereum/build/update-license.go:package main
+go-ethereum/build/ci.go:package main
+go-ethereum/cmd/abigen/main.go:package main 
+The entry point of each go program is main.main, i.e. a function called main in a package called main. 
+You have to provide such a main package.
+*/
+```
 
-../go-ethereum/build/ci.go:package main
+## Go CLI
+- **show version**
+```go
+$ go version
+go version go1.10.1 linux/amd64
+```
+
+- **build and run**
+```go
+// build go file
+$ go build untar.go
+// build and run go file
+$ go run untar.go
 ```
