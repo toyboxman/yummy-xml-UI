@@ -188,7 +188,11 @@ import (
 ```go
 /* run go program, get non-main failure 
 go run untar.go 
-go run: cannot run non-main package */
+go run: cannot run non-main package 
+
+The entry point of each go program is main.main, i.e. a function called main in a package called main. 
+You have to provide such a main package, otherwise you get an error above
+*/
 
 package main
 ..
@@ -199,9 +203,26 @@ func main() {
 go-ethereum/build/update-license.go:package main
 go-ethereum/build/ci.go:package main
 go-ethereum/cmd/abigen/main.go:package main 
-The entry point of each go program is main.main, i.e. a function called main in a package called main. 
-You have to provide such a main package.
 */
+```
+
+- **multiple-value**
+go语言函数支持多返回值，如果赋值变量不够，会提示错误
+```go
+d := os.Create("./disk.sum")  // mistake
+// show1multiple-value os.Create() in single-value context
+
+d, _ := os.Create("./disk.sum")  // correct
+```
+- **declared and not used**
+go语言声明的变量不使用，会提示错误
+```go
+res, _ := dw.WriteString(line)  // mistake
+os.Exit(1)
+// show "res declared and not used"
+
+dw.WriteString(line) // correct
+os.Exit(1)
 ```
 
 ## Go CLI
@@ -218,3 +239,4 @@ $ go build untar.go
 // build and run go file
 $ go run untar.go
 ```
+
