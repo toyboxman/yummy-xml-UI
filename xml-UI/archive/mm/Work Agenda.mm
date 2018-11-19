@@ -256,6 +256,7 @@
 </node>
 <node CREATED="1542165257516" ID="ID_1469222839" MODIFIED="1542165260696" TEXT="go">
 <node CREATED="1542165267821" ID="ID_724136195" LINK="https://gobyexample.com/" MODIFIED="1542165285205" TEXT="gobyexample"/>
+<node CREATED="1542616413733" ID="ID_358281757" LINK="http://golangcookbook.com/" MODIFIED="1542616462984" TEXT="gocookbook"/>
 <node CREATED="1542165295897" ID="ID_1759307522" LINK="https://www.tutorialspoint.com/go/" MODIFIED="1542165312548" TEXT="gotutorial"/>
 </node>
 <node CREATED="1540195894755" ID="ID_1972485601" LINK="https://www.programcreek.com/" MODIFIED="1542165442247" TEXT="programcreek">
