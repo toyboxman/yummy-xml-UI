@@ -207,7 +207,7 @@ go-ethereum/cmd/abigen/main.go:package main
 ```
 
 - **multiple-value**
-go语言函数支持多返回值，如果赋值变量不够，会提示错误
+<br>go语言函数支持多返回值，如果赋值变量不够，会提示错误
 ```go
 d := os.Create("./disk.sum")  // mistake
 // show1multiple-value os.Create() in single-value context
@@ -215,7 +215,7 @@ d := os.Create("./disk.sum")  // mistake
 d, _ := os.Create("./disk.sum")  // correct
 ```
 - **declared and not used**
-go语言声明的变量不使用，会提示错误
+<br>go语言声明的变量不使用，会提示错误
 ```go
 res, _ := dw.WriteString(line)  // mistake
 os.Exit(1)
