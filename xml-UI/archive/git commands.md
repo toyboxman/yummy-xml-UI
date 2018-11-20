@@ -50,6 +50,14 @@ git config --global user.email "Gene@genesis.org"
 
 # remove global config
 git config --global --unset-all user.name
+
+# mac系统默认配置 credential.helper=osxkeychain 
+# 所有本地仓库都会使用同一个用户名和密码，每次git push不用输入密码
+# 想使用不同账户 git push，需要删除系统默认的印信认证方式
+# 否则 remote: Permission to user1/incubator-griffin.git denied to user2
+git config --local --unset credential.helper
+git config --global --unset credential.helper
+git config --system --unset credential.helper
 ```
 
 ### git init
