@@ -225,6 +225,36 @@ dw.WriteString(line) // correct
 os.Exit(1)
 ```
 
+- [**variable**](https://gobyexample.com/variables)
+<br>The := syntax is shorthand for declaring and initializing a variable, e.g. ***f := "short"*** for ***var f string = "short"*** in this case.
+
+- **print**
+<br>Go offers a series of fmt.print-like function to print something
+```go
+fmt.Println(" --- ", header.Name) // print a line to stdout
+//io.Copy(os.Stdout, tarReader)  // directly read all contents to stdout
+fmt.Println(" --- ")
+var lineCount int = 0
+var stuff string = ""
+d, _ := os.Create("./disk.sum")
+dw := bufio.NewWriter(d)
+// print a line of string to a file
+fmt.Fprintln(dw, "***************************************************")
+// format print string
+fmt.Fprintf(dw, "Scan %s \n", header.Name)
+fmt.Fprintln(dw, "")
+fmt.Fprint(dw, "Result: disk usage exceeding 60%\n")
+fmt.Fprintln(dw, "")
+```
+[example](https://github.com/ethereum/go-ethereum/blob/d876f214e5500962d6acc1f99a6f2f7c5f63db8b/vendor/golang.org/x/text/encoding/htmlindex/gen.go#L69)
+
+- **defer/panic/recover**
+https://blog.golang.org/defer-panic-and-recover
+https://gobyexample.com/defer
+Defer is used to ensure that a function call is performed later in a program¡¯s execution, usually for purposes of cleanup. defer is often used where e.g. ensure and finally would be used in other languages.
+
+Suppose we wanted to create a file, write to it, and then close when we¡¯re done. Here¡¯s how we could do that with defer.
+
 ## Go CLI
 - **show version**
 ```go

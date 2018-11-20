@@ -75,22 +75,42 @@ func ExtractTarGz(gzipStream io.Reader) {
                 fmt.Println(" --- ", header.Name)
                 //io.Copy(os.Stdout, tarReader)  // directly read all contents to stdout
                 fmt.Println(" --- ")
+                var lineCount int = 0
+                var stuff string = ""
                 d, _ := os.Create("./disk.sum")
+                defer d.Close()
                 dw := bufio.NewWriter(d)
+                fmt.Fprintln(dw, "***************************************************")
+                fmt.Fprintf(dw, "Scan %s \n", header.Name)
+                fmt.Fprintln(dw, "")
+                fmt.Fprint(dw, "Result: disk usage exceeding 60%\n")
+                fmt.Fprintln(dw, "")
+                
                 scanner := bufio.NewScanner(tarReader)
                 r, _ := regexp.Compile("6[0-9]%") // match number exceeding 60%
                 for scanner.Scan() {             // internally, it advances token based on sperator
                     line := scanner.Text()
                     if strings.Contains(line, "Use%") {
                         fmt.Println(line)  // print table header
-                        dw.WriteString(line + "\n")
+                        //dw.WriteString(line + "\n")
+                        stuff = stuff + line + "\n"
+                        lineCount++
                     }
                     if r.FindString(line) != "" {
                         fmt.Println(line)  // print token in unicode-char
                         //fmt.Println(scanner.Bytes()) // print token in bytes
-                        dw.WriteString(line + "\n")
+                        //dw.WriteString(line + "\n")
+                        stuff = stuff + line + "\n"
+                        lineCount++
                     }
                 }
+                //fmt.Fprintf(dw, "linecount %d \n", lineCount)
+                if lineCount > 1 {
+                    dw.WriteString(stuff)
+                } else {
+                    dw.WriteString("No suspicous log found in disk usage\n")
+                }
+                fmt.Fprintln(dw, "***************************************************")
                 dw.Flush()
                 os.Exit(0)
                 break
