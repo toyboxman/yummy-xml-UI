@@ -249,7 +249,6 @@ fmt.Fprintln(dw, "")
 [example](https://github.com/ethereum/go-ethereum/blob/d876f214e5500962d6acc1f99a6f2f7c5f63db8b/vendor/golang.org/x/text/encoding/htmlindex/gen.go#L69)
 
 - [**defer/panic/recover**](https://blog.golang.org/defer-panic-and-recover)
-<br>
 [**Defer**](https://gobyexample.com/defer) is used to ensure that a function call is performed later in a program¡¯s execution, usually for purposes of cleanup. defer is often used where e.g. ensure and finally would be used in other languages.
 ```go
 // Suppose we wanted to create a file, write to it, and then close when we¡¯re done. Here¡¯s how we could do that with defer.
