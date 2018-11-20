@@ -248,12 +248,19 @@ fmt.Fprintln(dw, "")
 ```
 [example](https://github.com/ethereum/go-ethereum/blob/d876f214e5500962d6acc1f99a6f2f7c5f63db8b/vendor/golang.org/x/text/encoding/htmlindex/gen.go#L69)
 
-- **defer/panic/recover**
-https://blog.golang.org/defer-panic-and-recover
-https://gobyexample.com/defer
-Defer is used to ensure that a function call is performed later in a program¡¯s execution, usually for purposes of cleanup. defer is often used where e.g. ensure and finally would be used in other languages.
-
-Suppose we wanted to create a file, write to it, and then close when we¡¯re done. Here¡¯s how we could do that with defer.
+- [**defer/panic/recover**](https://blog.golang.org/defer-panic-and-recover)
+<br>
+[**Defer**](https://gobyexample.com/defer) is used to ensure that a function call is performed later in a program¡¯s execution, usually for purposes of cleanup. defer is often used where e.g. ensure and finally would be used in other languages.
+```go
+// Suppose we wanted to create a file, write to it, and then close when we¡¯re done. Here¡¯s how we could do that with defer.
+func main() {
+// Immediately after getting a file object with createFile, we defer the closing of that file with closeFile. 
+// This will be executed at the end of the enclosing function (main), after writeFile has finished.
+    f := createFile("/tmp/defer.txt")
+    defer closeFile(f)
+    writeFile(f)
+}
+```
 
 ## Go CLI
 - **show version**
@@ -262,11 +269,22 @@ $ go version
 go version go1.10.1 linux/amd64
 ```
 
-- **build and run**
+- [**build and run**](https://www.digitalocean.com/community/tutorials/how-to-build-go-executables-for-multiple-platforms-on-ubuntu-16-04)
 ```go
 // build go file
 $ go build untar.go
 // build and run go file
 $ go run untar.go
+
+// This command creates the executable 'scanner', 
+// and also creates the ./build directory if it doesn't exist.
+$ go build -o ./build/scanner ./untar.go
+
+// install an executable, followed by the package import path
+$ go install github.com/mholt/caddy/caddy
 ```
+
+
+
+
 
