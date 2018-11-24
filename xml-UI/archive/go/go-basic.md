@@ -101,6 +101,7 @@ for ctl in ctlist["controllers"]:
 ## Basic Structure
 ### skeleton
 - **package**
+go语言中package与java的定义不一样。java中使用多级目录结构(x.y.z)，为源文件实际路径(x/y/z/f.java)。go中都是一级目录(x)，为源文件当前目录名(x/f.go)。
 ```go
 //------------------------------------------------------------------
 // package a complex name like java
@@ -250,6 +251,7 @@ fmt.Fprintln(dw, "")
 
 - [**defer/panic/recover**](https://blog.golang.org/defer-panic-and-recover)<br>
 [**Defer**](https://gobyexample.com/defer) is used to ensure that a function call is performed later in a program’s execution, usually for purposes of cleanup. defer is often used where e.g. ensure and finally would be used in other languages.
+<br>类似java中的closable接口用法，都是允许资源在程序完成后自动关闭
 ```go
 // Suppose we wanted to create a file, write to it, and then close when we’re done. 
 func main() {
