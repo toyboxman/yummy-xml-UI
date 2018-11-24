@@ -14,51 +14,6 @@ Modifier(ÐÞÊÎ·ûºÅ)
 4.global free_disk_space
 
 ### go
-https://github.com/golang/go/wiki/GithubCodeLayout
-https://www.golang-book.com/books/intro/11#section1
-
-go-ethereum/accounts/abi/abi.go:package abi
-go-ethereum/accounts/abi/bind/template.go:import "github.com/ethereum/go-ethereum/accounts/abi"
-
-https://stackoverflow.com/questions/25216765/gobin-not-set-cannot-run-go-install
-Check your GOPATH variable.
-Make sure:
-
-        your sources are under GOPATH/src
-        you have a bin folder within your GOPATH folder.
-
-
-go install scanner/controller/cp_scan.go 
-go install: no install location for .go files listed on command line (GOBIN not set)
-// no env var
-echo $GOBIN
-
-https://github.com/golang/go/wiki/GithubCodeLayout
-https://www.golang-book.com/books/intro/11#section1
-
-go-ethereum/accounts/abi/abi.go:package abi
-go-ethereum/accounts/abi/bind/template.go:import "github.com/ethereum/go-ethereum/accounts/abi"
-
-go install scanner/controller/cp_scan.go 
-go install: no install location for .go files listed on command line (GOBIN not set)
-// no env var
-echo $GOBIN
-
-go get scanner/controller/cp_scan.go 
-package scanner/controller/cp_scan.go: unrecognized import path "scanner/controller/cp_scan.go" (import path does not begin with hostname)
-
-
-go# env
-GOLANG_VERSION=1.10.1
-HOSTNAME=457925f0a75b
-GOPATH=/go
-PWD=/go/src/go
-HOME=/root
-TERM=xterm
-SHLVL=1
-PATH=/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-_=/usr/bin/env
-OLDPWD=/go/src
 
 go run analyze.go 
 # command-line-arguments

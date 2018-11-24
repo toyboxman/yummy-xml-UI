@@ -100,8 +100,9 @@ for ctl in ctlist["controllers"]:
 
 ## Basic Structure
 ### skeleton
-- **package**
-go语言中package与java的定义不一样。java中使用多级目录结构(x.y.z)，为源文件实际路径(x/y/z/f.java)。go中都是一级目录(x)，为源文件当前目录名(x/f.go)。
+go语言文件的[*组织结构*](https://github.com/golang/go/wiki/GithubCodeLayout#code-layout)与其他语言有些不同，$GOPATH是所有项目根目录。 
+- [**package**](https://www.golang-book.com/books/intro/11#section1)
+<br>go语言中package与java的定义不一样。java中使用多级目录结构(x.y.z)，为源文件实际路径(x/y/z/f.java)。go中都是一级目录(x)，为源文件当前目录名(x/f.go)。
 ```go
 //------------------------------------------------------------------
 // package a complex name like java
@@ -280,12 +281,45 @@ $ go run untar.go
 // This command creates the executable 'scanner', 
 // and also creates the ./build directory if it doesn't exist.
 $ go build -o ./build/scanner ./untar.go
-
-// install an executable, followed by the package import path
-$ go install github.com/mholt/caddy/caddy
 ```
 
+- [**install**](https://stackoverflow.com/questions/25216765/gobin-not-set-cannot-run-go-install)
+```go
+// install an executable, followed by the package import path
+$ go install github.com/mholt/caddy/caddy
 
+go install scanner/controller/cp_scan.go 
+go install: no install location for .go files listed on command line (GOBIN not set)
+// no env var
+echo $GOBIN
+
+https://github.com/golang/go/wiki/GithubCodeLayout
+https://www.golang-book.com/books/intro/11#section1
+
+go-ethereum/accounts/abi/abi.go:package abi
+go-ethereum/accounts/abi/bind/template.go:import "github.com/ethereum/go-ethereum/accounts/abi"
+
+go install scanner/controller/cp_scan.go 
+go install: no install location for .go files listed on command line (GOBIN not set)
+// no env var
+echo $GOBIN
+
+go get scanner/controller/cp_scan.go 
+package scanner/controller/cp_scan.go: unrecognized import path "scanner/controller/cp_scan.go" (import path does not begin with hostname)
+
+
+go# env
+GOLANG_VERSION=1.10.1
+HOSTNAME=457925f0a75b
+GOPATH=/go
+PWD=/go/src/go
+HOME=/root
+TERM=xterm
+SHLVL=1
+PATH=/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+_=/usr/bin/env
+OLDPWD=/go/src
+```
 
 
 
