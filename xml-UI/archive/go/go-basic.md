@@ -186,9 +186,11 @@ import (
 )
 ```
 
-- **main**
+- [**main**](https://motion-express.com/blog/organizing-a-go-project)
+go程序的入口就是main函数，与其他语言类似，不同的是这个main函数必须存在main包中。否则运行程序会提示错误。
 ```go
-/* run go program, get non-main failure 
+/* 
+run go program, get non-main failure 
 go run untar.go 
 go run: cannot run non-main package 
 
@@ -208,6 +210,14 @@ go-ethereum/cmd/abigen/main.go:package main
 */
 ```
 
+- [**cannot refer to unexported name**](https://www.sneppets.com/golang/cannot-refer-unexported-name-undefined-error-go/)
+<br>go语言函数名**首字母必须大写**，否则外部引用时会提示名称未导出
+```go
+func scan() {}  // mistake
+// show "./analyze.go:38:9: cannot refer to unexported name controller.scan"
+
+func Scan() {} // correct
+```
 - **multiple-value**
 <br>go语言函数支持多返回值，如果赋值变量不够，会提示错误
 ```go
@@ -270,6 +280,21 @@ func main() {
 $ go version
 go version go1.10.1 linux/amd64
 ```
+- **help**
+```go
+// show install command manual
+$ go help install
+usage: go install [-i] [build flags] [packages]
+
+Install compiles and installs the packages named by the import paths.
+
+The -i flag installs the dependencies of the named packages as well.
+
+For more about the build flags, see 'go help build'.
+For more about specifying packages, see 'go help packages'.
+
+See also: go build, go get, go clean.
+```
 
 - [**build and run**](https://www.digitalocean.com/community/tutorials/how-to-build-go-executables-for-multiple-platforms-on-ubuntu-16-04)
 ```go
@@ -281,6 +306,12 @@ $ go run untar.go
 // This command creates the executable 'scanner', 
 // and also creates the ./build directory if it doesn't exist.
 $ go build -o ./build/scanner ./untar.go
+
+// 包结构需要存在$GOPATH或$GOROO路径下，否者运行时候寻不到
+$ go run analyze.go 
+analyze.go:8:5: cannot find package "scanner/controller" in any of:
+        /usr/local/go/src/scanner/controller (from $GOROOT)
+        /go/src/scanner/controller (from $GOPATH)
 ```
 
 - [**install**](https://stackoverflow.com/questions/25216765/gobin-not-set-cannot-run-go-install)
@@ -288,37 +319,20 @@ $ go build -o ./build/scanner ./untar.go
 // install an executable, followed by the package import path
 $ go install github.com/mholt/caddy/caddy
 
-go install scanner/controller/cp_scan.go 
+$ go install scanner/controller/cp_scan.go 
 go install: no install location for .go files listed on command line (GOBIN not set)
-// no env var
-echo $GOBIN
 
-https://github.com/golang/go/wiki/GithubCodeLayout
-https://www.golang-book.com/books/intro/11#section1
-
-go-ethereum/accounts/abi/abi.go:package abi
-go-ethereum/accounts/abi/bind/template.go:import "github.com/ethereum/go-ethereum/accounts/abi"
-
-go install scanner/controller/cp_scan.go 
-go install: no install location for .go files listed on command line (GOBIN not set)
-// no env var
-echo $GOBIN
-
-go get scanner/controller/cp_scan.go 
+$ go get scanner/controller/cp_scan.go 
 package scanner/controller/cp_scan.go: unrecognized import path "scanner/controller/cp_scan.go" (import path does not begin with hostname)
 
+$ go install /go/src/go/
+can't load package: package /go/src/go: import "/go/src/go": cannot import absolute path
 
-go# env
-GOLANG_VERSION=1.10.1
-HOSTNAME=457925f0a75b
-GOPATH=/go
-PWD=/go/src/go
-HOME=/root
-TERM=xterm
-SHLVL=1
-PATH=/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-_=/usr/bin/env
-OLDPWD=/go/src
+$ /go/src/go/scanner/controller# go install cp_scan.go /go/src/gene/          
+named files must be .go files
+
+$ /go/src/go/scanner/controller# go install cp_scan.go /go/src/go/scanner/controller/cp_scan.go
+named files must all be in one directory; have ./ and /go/src/go/scanner/controller/
 ```
 
 
