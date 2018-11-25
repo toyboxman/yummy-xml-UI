@@ -187,7 +187,7 @@ import (
 ```
 
 - [**main**](https://motion-express.com/blog/organizing-a-go-project)
-go程序的入口就是main函数，与其他语言类似，不同的是这个main函数必须存在main包中。否则运行程序会提示错误。
+<br>go程序的入口就是main函数，与其他语言类似，不同的是这个main函数必须存在main包中。否则运行程序会提示错误。
 ```go
 /* 
 run go program, get non-main failure 
