@@ -1,7 +1,7 @@
 - [Basic Language Concepts](#basic-language-concepts)
     - [Collections](#collections)
     - [Flow](#flow)
-- [Text Processing](#text-processing)
+- [Basic Structure](#basic-structure)
 - [Go CLI](#go-cli)
 ***
 
@@ -85,18 +85,6 @@ if a > b or a > c:
       if x == "banana":
         break
     ```
-
-## Text Processing
-### json
-```python
-import json
-# load json string
-ctlist = json.loads(json_txt)
-# loop controllers list in json string
-controller_list = []
-for ctl in ctlist["controllers"]:
-    controller_list.append(ctlist["id"])
-```
 
 ## Basic Structure
 ### skeleton
