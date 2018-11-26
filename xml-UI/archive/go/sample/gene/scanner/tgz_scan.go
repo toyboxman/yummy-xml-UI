@@ -42,6 +42,7 @@ func ExtractTarGz(gzipStream io.Reader) *tar.Reader{
     uncompressedStream, err := gzip.NewReader(gzipStream)
     if err != nil {
         log.Fatal("ExtractTarGz: NewReader failed")
+        os.Exit(1)
     }
 
     tarReader := tar.NewReader(uncompressedStream)
@@ -49,67 +50,54 @@ func ExtractTarGz(gzipStream io.Reader) *tar.Reader{
     return tarReader
 }
 
-func pickup(opt int, reader *tar.Reader, header *tar.Header) bool {
+func pickup(opt int, reader *tar.Reader) {
     switch opt {
 		case 1:
-        return analyzeDisk(reader, header)
+        analyzeDisk(reader)
         default :
         log.Fatal("Unknown directive")
-        return false
     }
 }
 
-func analyzeDisk(reader *tar.Reader, header *tar.Header) bool{
-    if strings.Contains(header.Name, "df-alT.out") {
-		fmt.Println(" --- ", header.Name)
-		//io.Copy(os.Stdout, tarReader)  // directly read all contents to stdout
-		fmt.Println(" --- ")
-		var lineCount int = 0
-		var stuff string = ""
-		d, _ := os.Create("./disk.sum")
-		defer d.Close()
-		dw := bufio.NewWriter(d)
-		fmt.Fprintln(dw, "***************************************************")
-		fmt.Fprintf(dw, "Scan %s \n", header.Name)
-		fmt.Fprintln(dw, "")
-		fmt.Fprint(dw, "Result: disk usage exceeding 60%\n")
-		fmt.Fprintln(dw, "")
-		
-		scanner := bufio.NewScanner(reader)
-		r, _ := regexp.Compile("6[0-9]%") // match number exceeding 60%
-		for scanner.Scan() {             // internally, it advances token based on sperator
-			line := scanner.Text()
-			if strings.Contains(line, "Use%") {
-				fmt.Println(line)  // print table header
-				//dw.WriteString(line + "\n")
-				stuff = stuff + line + "\n"
-				lineCount++
-			}
-			if r.FindString(line) != "" {
-				fmt.Println(line)  // print token in unicode-char
-				//fmt.Println(scanner.Bytes()) // print token in bytes
-				//dw.WriteString(line + "\n")
-				stuff = stuff + line + "\n"
-				lineCount++
-			}
-		}
-		//fmt.Fprintf(dw, "linecount %d \n", lineCount)
-		if lineCount > 1 {
-			dw.WriteString(stuff)
-		} else {
-			dw.WriteString("No suspicous log found in disk usage\n")
-		}
-		fmt.Fprintln(dw, "***************************************************")
-		dw.Flush()
-		return true
-	}
-	return false
+func analyze_df_alT_out(scanner *bufio.Scanner, dw *bufio.Writer, fname string) {
+    var lineCount int = 0
+    var stuff string = ""
+    fmt.Fprintln(dw, "***************************************************")
+    fmt.Fprintf(dw, "Scan %s \n", fname)
+    fmt.Fprintln(dw, "")
+    fmt.Fprint(dw, "Result: disk usage exceeding 60%\n")
+    fmt.Fprintln(dw, "")
+    r, _ := regexp.Compile("6[0-9]%") // match number exceeding 60%
+    for scanner.Scan() {             // internally, it advances token based on sperator
+        line := scanner.Text()
+        if strings.Contains(line, "Use%") {
+            fmt.Println(line)  // print table header
+            //dw.WriteString(line + "\n")
+            stuff = stuff + line + "\n"
+            lineCount++
+        }
+        if r.FindString(line) != "" {
+            fmt.Println(line)  // print token in unicode-char
+            //fmt.Println(scanner.Bytes()) // print token in bytes
+            //dw.WriteString(line + "\n")
+            stuff = stuff + line + "\n"
+            lineCount++
+        }
+    }
+    //fmt.Fprintf(dw, "linecount %d \n", lineCount)
+    if lineCount > 1 {
+        dw.WriteString(stuff)
+    } else {
+        dw.WriteString("No suspicous log found in disk usage\n")
+    }
+    fmt.Fprintln(dw, "***************************************************")
+    dw.Flush()
 }
 
-func Summarize(gzipStream *tar.Reader, option int) {
-    var hit bool = false
-    for !hit {
-        header, err := gzipStream.Next()
+func analyzeDisk(reader *tar.Reader) {
+    var end int = 2
+    for !(end == 0) {
+        header, err := reader.Next()
 
         if err == io.EOF {
             break
@@ -127,7 +115,18 @@ func Summarize(gzipStream *tar.Reader, option int) {
             }*/
             continue
         case tar.TypeReg:
-            hit = pickup(option, gzipStream, header)
+            if strings.Contains(header.Name, "df-alT.out") {
+            fmt.Println(" --- ", header.Name)
+            //io.Copy(os.Stdout, tarReader)  // directly read all contents to stdout
+            fmt.Println(" --- ")
+            
+            d, _ := os.Create("./disk.sum")
+            defer d.Close()
+            dw := bufio.NewWriter(d)
+            scanner := bufio.NewScanner(reader)
+            analyze_df_alT_out(scanner, dw, header.Name)
+            end--
+            }
         default:
             log.Fatalf(
                 "ExtractTarGz: uknown type: %s in %s",
@@ -135,4 +134,8 @@ func Summarize(gzipStream *tar.Reader, option int) {
                 header.Name)
         }
     }
+}
+
+func Summarize(gzipStream *tar.Reader, option int) {
+    pickup(option, gzipStream)
 }

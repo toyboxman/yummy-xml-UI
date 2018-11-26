@@ -199,12 +199,17 @@ go-ethereum/cmd/abigen/main.go:package main
 ```
 
 - [**cannot refer to unexported name**](https://www.sneppets.com/golang/cannot-refer-unexported-name-undefined-error-go/)
-<br>go语言函数名**首字母必须大写**，否则外部引用时会提示名称未导出。如果想保持函数**不对外公开使用**，方法名首字母可以小写。
+<br>go语言函数名**首字母必须大写**，否则外部引用时会提示名称未导出。如果想保持函数**不对外公开使用**，方法名首字母可以小写。另外，函数名不允许使用横线**method-v1**，只能使用下划线**method_v1**
 ```go
-func scan() {}  // mistake
+func scan() {}  // private
 // show "./analyze.go:38:9: cannot refer to unexported name controller.scan"
 
-func Scan() {} // correct
+func Scan() {} // public
+
+func scan-log() {}  // mistake
+// show "syntax error: unexpected -, expecting ("
+
+func Scan_log() {} // correct
 ```
 - **undefined**
 <br>如果变量或类型找不到，go语言提示undefined
