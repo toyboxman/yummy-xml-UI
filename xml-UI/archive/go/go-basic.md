@@ -10,6 +10,8 @@
         - [Multiple-value](#multiple-value)
         - [Declared and not used](#declared-and-not-used)
         - [Variable](#variable)
+        - [Print](#print)
+        - [Defer/Panic/Recover](#defer-panic-recover)
 - [Go CLI](#go-cli)
 ***
 
@@ -98,7 +100,7 @@ if a > b or a > c:
 ### skeleton
 go语言文件的[*组织结构*](https://github.com/golang/go/wiki/GithubCodeLayout#code-layout)与其他语言有些不同，$GOPATH是所有项目根目录。 
 #### [**package**](https://www.golang-book.com/books/intro/11#section1)
-<br>go语言中package与java的定义不一样。java中使用多级目录结构(x.y.z)，为源文件实际路径(x/y/z/f.java)。go中都是一级目录(x)，为源文件当前目录名(x/f.go)。
+go语言中package与java的定义不一样。java中使用多级目录结构(x.y.z)，为源文件实际路径(x/y/z/f.java)。go中都是一级目录(x)，为源文件当前目录名(x/f.go)。
 ```go
 //------------------------------------------------------------------
 // package a complex name like java
@@ -183,7 +185,7 @@ import (
 ```
 
 #### [**main**](https://motion-express.com/blog/organizing-a-go-project)
-<br>go程序的入口就是main函数，与其他语言类似，不同的是这个main函数必须存在main包中。否则运行程序会提示错误。
+go程序的入口就是main函数，与其他语言类似，不同的是这个main函数必须存在main包中。否则运行程序会提示错误。
 ```go
 /* 
 run go program, get non-main failure 
@@ -207,7 +209,7 @@ go-ethereum/cmd/abigen/main.go:package main
 ```
 
 #### [**unexported name**](https://www.sneppets.com/golang/cannot-refer-unexported-name-undefined-error-go/)
-<br>go语言函数名**首字母必须大写**，否则外部引用时会提示名称未导出。如果想保持函数**不对外公开使用**，方法名首字母可以小写。另外，函数名不允许使用横线**method-v1**，只能使用下划线**method_v1**
+go语言函数名**首字母必须大写**，否则外部引用时会提示名称未导出。如果想保持函数**不对外公开使用**，方法名首字母可以小写。另外，函数名不允许使用横线**method-v1**，只能使用下划线**method_v1**
 ```go
 func scan() {}  // private
 // show "./analyze.go:38:9: cannot refer to unexported name controller.scan"
@@ -220,7 +222,7 @@ func scan-log() {}  // mistake
 func Scan_log() {} // correct
 ```
 #### **undefined**
-<br>如果变量或类型找不到，go语言提示undefined
+如果变量或类型找不到，go语言提示undefined
 ```go
 func ExtractTarGz(gzipStream io.Reader) *Reader{}  // mistake
 // show "undefined: Reader"
@@ -229,7 +231,7 @@ func ExtractTarGz(gzipStream io.Reader) *Reader{}  // mistake
 func ExtractTarGz(gzipStream io.Reader) *tar.Reader{}  // correct
 ```
 #### **multiple-value**
-<br>go语言函数支持多返回值，如果赋值变量不够，会提示错误
+go语言函数支持多返回值，如果赋值变量不够，会提示错误
 ```go
 d := os.Create("./disk.sum")  // mistake
 // show "multiple-value os.Create() in single-value context"
@@ -237,7 +239,7 @@ d := os.Create("./disk.sum")  // mistake
 d, _ := os.Create("./disk.sum")  // correct
 ```
 #### **declared and not used**
-<br>go语言声明的变量不使用，会提示错误
+go语言声明的变量不使用，会提示错误
 ```go
 res, _ := dw.WriteString(line)  // mistake
 os.Exit(1)
@@ -248,15 +250,15 @@ os.Exit(1)
 ```
 
 #### [**variable**](https://gobyexample.com/variables)
-<br>The := syntax is shorthand for declaring and initializing a variable, e.g. ***f := "short"*** for ***var f string = "short"*** in this case.
+The := syntax is shorthand for declaring and initializing a variable, e.g. ***f := "short"*** for ***var f string = "short"*** in this case.
 ```go
 var hit bool = false // correct
 
 hit := false // correct
 ```
 
-- **print**
-<br>Go offers a series of fmt.print-like function to print something
+#### **print**
+Go offers a series of fmt.print-like function to print something
 ```go
 fmt.Println(" --- ", header.Name) // print a line to stdout
 //io.Copy(os.Stdout, tarReader)  // directly read all contents to stdout
@@ -275,7 +277,7 @@ fmt.Fprintln(dw, "")
 ```
 [example](https://github.com/ethereum/go-ethereum/blob/d876f214e5500962d6acc1f99a6f2f7c5f63db8b/vendor/golang.org/x/text/encoding/htmlindex/gen.go#L69)
 
-- [**defer/panic/recover**](https://blog.golang.org/defer-panic-and-recover)<br>
+#### [**defer/panic/recover**](https://blog.golang.org/defer-panic-and-recover)
 [**Defer**](https://gobyexample.com/defer) is used to ensure that a function call is performed later in a program’s execution, usually for purposes of cleanup. defer is often used where e.g. ensure and finally would be used in other languages.
 <br>类似java中的closable接口用法，都是允许资源在程序完成后自动关闭
 ```go
