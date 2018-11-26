@@ -11,6 +11,7 @@
         - [Declared and not used](#declared-and-not-used)
         - [Variable](#variable)
         - [Print](#print)
+        - [Strings](#strings)
         - [Defer/Panic/Recover](#deferpanicrecover)
 - [Go CLI](#go-cli)
 ***
@@ -276,6 +277,31 @@ fmt.Fprint(dw, "Result: disk usage exceeding 60%\n")
 fmt.Fprintln(dw, "")
 ```
 [example](https://github.com/ethereum/go-ethereum/blob/d876f214e5500962d6acc1f99a6f2f7c5f63db8b/vendor/golang.org/x/text/encoding/htmlindex/gen.go#L69)
+
+#### **strings**
+Go提供字符串来进行比较相似，包含，连接等操作
+```go
+import (
+    "io"
+    "os"
+    "fmt"
+    "strings"
+    "regexp"
+)
+
+if strings.Contains(line, "Use%") {} //判断字符串line中是否包含"Use%"
+
+stuff = stuff + line + "\n"  // 字符串连接成新串
+
+if strings.Contains(strings.ToUpper(line), "TRUE") {} //没有java类似的case insensitive
+//只能通过全转大小写来实现equals-ignore-case
+
+fmt.Println(strings.EqualFold("Go", "go")) //是否两个串interpreted as UTF-8 strings, are equal under Unicode case-folding
+//类似equals-ignore-case
+
+r, _ := regexp.Compile("6[0-9]%") // match number exceeding 60%
+if r.FindString(line) != "" {} //是否匹配正则表达式
+```
 
 #### [**defer/panic/recover**](https://blog.golang.org/defer-panic-and-recover)
 [**Defer**](https://gobyexample.com/defer) is used to ensure that a function call is performed later in a program’s execution, usually for purposes of cleanup. defer is often used where e.g. ensure and finally would be used in other languages.
