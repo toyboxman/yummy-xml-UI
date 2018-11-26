@@ -34,8 +34,7 @@ func main() {
 		
 		switch choice {
 		case 1:
-        fmt.Println("one")
-        controller.Scan()
+        scanner.Scan(choice)
 		case 2,3,4:
         fmt.Println("unsupported options")
 		case 5:

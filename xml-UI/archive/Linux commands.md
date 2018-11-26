@@ -346,6 +346,12 @@ ntpd       1181              ntp  mem       REG               0,38     18712    
 ```bash
 env | more
 printenv | less
+
+# add an env variable
+export GOBIN="/go/bin"
+
+# delete an env variable
+unset GOBIN
 ```
 
 #### pstree

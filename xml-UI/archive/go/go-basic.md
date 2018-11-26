@@ -199,12 +199,21 @@ go-ethereum/cmd/abigen/main.go:package main
 ```
 
 - [**cannot refer to unexported name**](https://www.sneppets.com/golang/cannot-refer-unexported-name-undefined-error-go/)
-<br>go语言函数名**首字母必须大写**，否则外部引用时会提示名称未导出
+<br>go语言函数名**首字母必须大写**，否则外部引用时会提示名称未导出。如果想保持函数未内部使用，方法名首字母可以小写。
 ```go
 func scan() {}  // mistake
 // show "./analyze.go:38:9: cannot refer to unexported name controller.scan"
 
 func Scan() {} // correct
+```
+- **undefined**
+<br>如果变量或类型找不到，go语言提示undefined
+```go
+func ExtractTarGz(gzipStream io.Reader) *Reader{}  // mistake
+// show "undefined: Reader"
+// 多个package都有type Reader的定义，go无法对应匹配
+
+func ExtractTarGz(gzipStream io.Reader) *tar.Reader{}  // correct
 ```
 - **multiple-value**
 <br>go语言函数支持多返回值，如果赋值变量不够，会提示错误
@@ -227,6 +236,11 @@ os.Exit(1)
 
 - [**variable**](https://gobyexample.com/variables)
 <br>The := syntax is shorthand for declaring and initializing a variable, e.g. ***f := "short"*** for ***var f string = "short"*** in this case.
+```go
+var hit bool = false // correct
+
+hit := false // correct
+```
 
 - **print**
 <br>Go offers a series of fmt.print-like function to print something
