@@ -11,7 +11,7 @@
         - [Declared and not used](#declared-and-not-used)
         - [Variable](#variable)
         - [Print](#print)
-        - [Defer/Panic/Recover](#defer-panic-recover)
+        - [Defer/Panic/Recover](#deferpanicrecover)
 - [Go CLI](#go-cli)
 ***
 
