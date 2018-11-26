@@ -305,7 +305,7 @@ See also: go build, go get, go clean.
 
 - [**build and run**](https://www.digitalocean.com/community/tutorials/how-to-build-go-executables-for-multiple-platforms-on-ubuntu-16-04)
 ```go
-// build go file
+// build go file and create untar execution binary
 $ go build untar.go
 // build and run go file
 $ go run untar.go

@@ -91,11 +91,43 @@ func analyze_df_alT_out(scanner *bufio.Scanner, dw *bufio.Writer, fname string) 
         dw.WriteString("No suspicous log found in disk usage\n")
     }
     fmt.Fprintln(dw, "***************************************************")
+    fmt.Println()
+    dw.Flush()
+}
+
+func analyze_iostat_alert_log(scanner *bufio.Scanner, dw *bufio.Writer, fname string) {
+    var lineCount int = 0
+    var stuff string = ""
+    fmt.Fprintln(dw, "***************************************************")
+    fmt.Fprintf(dw, "Scan %s \n", fname)
+    fmt.Fprintln(dw, "")
+    fmt.Fprint(dw, "Result: disk iostat alert\n")
+    fmt.Fprintln(dw, "")
+    for scanner.Scan() {             // internally, it advances token based on sperator
+        line := scanner.Text()
+        if strings.Contains(strings.ToUpper(line), "TRUE") {
+            fmt.Println(line)  // print table header
+            //dw.WriteString(line + "\n")
+            stuff = stuff + line + "\n"
+            lineCount++
+        }
+    }
+    //fmt.Fprintf(dw, "linecount %d \n", lineCount)
+    if lineCount > 0 {
+        dw.WriteString(stuff)
+    } else {
+        dw.WriteString("No suspicous log found in disk iostat\n")
+    }
+    fmt.Fprintln(dw, "***************************************************")
+    fmt.Println()
     dw.Flush()
 }
 
 func analyzeDisk(reader *tar.Reader) {
     var end int = 2
+    d, _ := os.Create("./disk.sum")
+    defer d.Close()
+    dw := bufio.NewWriter(d)
     for !(end == 0) {
         header, err := reader.Next()
 
@@ -116,17 +148,23 @@ func analyzeDisk(reader *tar.Reader) {
             continue
         case tar.TypeReg:
             if strings.Contains(header.Name, "df-alT.out") {
-            fmt.Println(" --- ", header.Name)
-            //io.Copy(os.Stdout, tarReader)  // directly read all contents to stdout
-            fmt.Println(" --- ")
-            
-            d, _ := os.Create("./disk.sum")
-            defer d.Close()
-            dw := bufio.NewWriter(d)
-            scanner := bufio.NewScanner(reader)
-            analyze_df_alT_out(scanner, dw, header.Name)
-            end--
+                fmt.Println(" ------------------------------------------------------------------ ")
+                fmt.Println(" - analyze : ", header.Name)
+                //io.Copy(os.Stdout, tarReader)  // directly read all contents to stdout
+                fmt.Println(" ------------------------------------------------------------------ ")
+                scanner := bufio.NewScanner(reader)
+                analyze_df_alT_out(scanner, dw, header.Name)
+                end--
             }
+            if strings.Contains(header.Name, "var/log/cloudnet/run/iostat/iostat_alert.log") {
+                fmt.Println(" ------------------------------------------------------------------ ")
+                fmt.Println(" - analyze : ", header.Name)
+                fmt.Println(" ------------------------------------------------------------------ ")
+                scanner := bufio.NewScanner(reader)
+                analyze_iostat_alert_log(scanner, dw, header.Name)
+                end--
+            }
+            dw.Flush()
         default:
             log.Fatalf(
                 "ExtractTarGz: uknown type: %s in %s",
