@@ -2,6 +2,14 @@
     - [Collections](#collections)
     - [Flow](#flow)
 - [Basic Structure](#basic-structure)
+    - [Skeleton](#skeleton)
+        - [Package](#package)
+        - [Main](#main)
+        - [Unexported Name](#unexported-name)
+        - [Undefined](#undefined)
+        - [Multiple-value](#multiple-value)
+        - [Declared and not used](#declared-and-not-used)
+        - [Variable](#variable)
 - [Go CLI](#go-cli)
 ***
 
@@ -89,7 +97,7 @@ if a > b or a > c:
 ## Basic Structure
 ### skeleton
 go语言文件的[*组织结构*](https://github.com/golang/go/wiki/GithubCodeLayout#code-layout)与其他语言有些不同，$GOPATH是所有项目根目录。 
-- [**package**](https://www.golang-book.com/books/intro/11#section1)
+#### [**package**](https://www.golang-book.com/books/intro/11#section1)
 <br>go语言中package与java的定义不一样。java中使用多级目录结构(x.y.z)，为源文件实际路径(x/y/z/f.java)。go中都是一级目录(x)，为源文件当前目录名(x/f.go)。
 ```go
 //------------------------------------------------------------------
@@ -174,7 +182,7 @@ import (
 )
 ```
 
-- [**main**](https://motion-express.com/blog/organizing-a-go-project)
+#### [**main**](https://motion-express.com/blog/organizing-a-go-project)
 <br>go程序的入口就是main函数，与其他语言类似，不同的是这个main函数必须存在main包中。否则运行程序会提示错误。
 ```go
 /* 
@@ -198,7 +206,7 @@ go-ethereum/cmd/abigen/main.go:package main
 */
 ```
 
-- [**cannot refer to unexported name**](https://www.sneppets.com/golang/cannot-refer-unexported-name-undefined-error-go/)
+#### [**unexported name**](https://www.sneppets.com/golang/cannot-refer-unexported-name-undefined-error-go/)
 <br>go语言函数名**首字母必须大写**，否则外部引用时会提示名称未导出。如果想保持函数**不对外公开使用**，方法名首字母可以小写。另外，函数名不允许使用横线**method-v1**，只能使用下划线**method_v1**
 ```go
 func scan() {}  // private
@@ -211,7 +219,7 @@ func scan-log() {}  // mistake
 
 func Scan_log() {} // correct
 ```
-- **undefined**
+#### **undefined**
 <br>如果变量或类型找不到，go语言提示undefined
 ```go
 func ExtractTarGz(gzipStream io.Reader) *Reader{}  // mistake
@@ -220,7 +228,7 @@ func ExtractTarGz(gzipStream io.Reader) *Reader{}  // mistake
 
 func ExtractTarGz(gzipStream io.Reader) *tar.Reader{}  // correct
 ```
-- **multiple-value**
+#### **multiple-value**
 <br>go语言函数支持多返回值，如果赋值变量不够，会提示错误
 ```go
 d := os.Create("./disk.sum")  // mistake
@@ -228,7 +236,7 @@ d := os.Create("./disk.sum")  // mistake
 
 d, _ := os.Create("./disk.sum")  // correct
 ```
-- **declared and not used**
+#### **declared and not used**
 <br>go语言声明的变量不使用，会提示错误
 ```go
 res, _ := dw.WriteString(line)  // mistake
@@ -239,7 +247,7 @@ dw.WriteString(line) // correct
 os.Exit(1)
 ```
 
-- [**variable**](https://gobyexample.com/variables)
+#### [**variable**](https://gobyexample.com/variables)
 <br>The := syntax is shorthand for declaring and initializing a variable, e.g. ***f := "short"*** for ***var f string = "short"*** in this case.
 ```go
 var hit bool = false // correct
