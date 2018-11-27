@@ -442,7 +442,7 @@ gitk file
 
 ---
 
-### git review
+### [git review](https://osm.etsi.org/wikipub/index.php/Using_git-review_to_push_and_review_changes)
 1. 安装支持git的reviewt专用软件 (http://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
 2. 通过gerrit review的命令来操作, 或者通过git-review命令
@@ -473,7 +473,7 @@ gitk file
 	```bash
 	[gerrit]
 	scheme=ssh   --default scheme (ssh/http/https) of gerrit remote
-	host=review.example.com  --gerrit remote server
+	host=review.example.com  --gerrit remote server 可以查看.git/config中配置
 	port=29418
 	project=department/project.git   --对应的文件仓库
 	defaultbranch=master

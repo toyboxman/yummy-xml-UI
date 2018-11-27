@@ -121,7 +121,12 @@ pip -V
 $ python3
 >help("modules")
 >quit()
+
 # Output installed packages in requirements format
 $ pip freeze 
 $ pip list
+
+# upgrade pip installed packages
+$ sudo pip install [package_name] -U
+$ sudo pip install [package_name] --upgrade
 ```python
