@@ -11,6 +11,7 @@
         - [Declared and not used](#declared-and-not-used)
         - [Variable](#variable)
         - [Print](#print)
+        - [Run Command](#run-command)
         - [Strings](#strings)
         - [Defer/Panic/Recover](#deferpanicrecover)
 - [Go CLI](#go-cli)
@@ -277,6 +278,26 @@ fmt.Fprint(dw, "Result: disk usage exceeding 60%\n")
 fmt.Fprintln(dw, "")
 ```
 [example](https://github.com/ethereum/go-ethereum/blob/d876f214e5500962d6acc1f99a6f2f7c5f63db8b/vendor/golang.org/x/text/encoding/htmlindex/gen.go#L69)
+
+#### **run command**
+Go允许调用本地系统命令
+```go
+// 调用命令返回go的执行路径
+if out, err := exec.Command("which", "go").CombinedOutput(); err == nil {
+	fmt.Fprintf(dw, "which go: \n%s \n", out)
+	out, err := exec.Command(cmd).Output()
+}
+
+if sdk := os.Getenv("ANDROID_HOME"); sdk == "" {
+		// Android SDK not explicitly given, try to auto-resolve
+		autopath := filepath.Join(os.Getenv("HOME"), "Android", "Sdk")
+		if _, err := os.Stat(autopath); err != nil {
+			t.Skip("ANDROID_HOME environment var not set, skipping")
+		}
+		os.Setenv("ANDROID_HOME", autopath)
+}
+```
+[example](https://github.com/ethereum/go-ethereum/blob/master/mobile/android_test.go#L163)
 
 #### **strings**
 Go提供字符串来进行比较相似，包含，连接等操作
