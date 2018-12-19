@@ -88,9 +88,9 @@ host    all             all             127.0.0.1/32            password
 # 修改后需要重启服务
 sudo systemctl restart postgresql     # ubuntu
 ```
-password方法指对客户端来的连接使用明文密码
+**password**方法指对客户端来的连接使用明文密码
 <br>
-MD5方法指对客户端来的连接使用MD5 hash变换密码
+**MD5**方法指对客户端来的连接使用MD5 hash变换密码
 <br>   
 如果修改后连接仍旧被拒，可能是没给用户设定密码。如果默认密码是空，安全验证会一直失败。
 ```bash
