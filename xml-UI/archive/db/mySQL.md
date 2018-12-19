@@ -72,58 +72,24 @@ mysql> delete from user where user='';
 mysql> flush privileges;
 ```
 意思是删除匿名用户，然后就可以从localhost登录
-
-
-常用命令
-1:使用SHOW语句找出在服务器上当前存在什么数据库：
-mysql> SHOW DATABASES;
-2:2、创建一个数据库MYSQLDATA
-mysql> CREATE DATABASE MYSQLDATA;
-CREATE DATABASE IF NOT EXISTS my_db default charset utf8 COLLATE utf8_general_ci;
-COLLATE参数用来指定字符集校对规则
-CREATE DATABASE db_name 
-[[DEFAULT] CHARACTER SET charset_name] 
-[[DEFAULT] COLLATE collation_name] 
-ALTER DATABASE db_name 
-[[DEFAULT] CHARACTER SET charset_name] 
-[[DEFAULT] COLLATE collation_name] 
-MySQL这样选择数据库字符集和数据库校对规则： 
-·如果指定了CHARACTER SET X和COLLATE Y，那么采用字符集X和校对规则Y。 
-·如果指定了CHARACTER SET X而没有指定COLLATE Y，那么采用CHARACTER SET X和CHARACTER SET X的默认校对规则。 
-·否则，采用服务器字符集和服务器校对规则。
-3:选择你所创建的数据库
-mysql> USE MYSQLDATA; (按回车键出现Database changed 时说明操作成功！)
-4:查看现在的数据库中存在什么表
-mysql> SHOW TABLES;
-5:创建一个数据库表
-mysql> CREATE TABLE MYTABLE (name VARCHAR(20), sex CHAR(1));
-6:显示表的结构：
-mysql> DESCRIBE MYTABLE;
-7:往表中加入记录
-mysql> insert into MYTABLE values (”hyq”,”M”);
-8:用文本方式将数据装入数据库表中（例如D:/mysql.txt）
-mysql> LOAD DATA LOCAL INFILE “D:/mysql.txt” INTO TABLE MYTABLE;
-9:导入.sql文件命令（例如D:/mysql.sql）
-mysql>use database;
-mysql>source d:/mysql.sql;
-10:删除表
-mysql>drop TABLE MYTABLE;
-11:清空表
-mysql>delete from MYTABLE;
-12:更新表中数据
-mysql>update MYTABLE set sex=”f” where name=’hyq’;
-
-安全设置
-用户不应该只用root用户进行连接数据库,虽然使用root用户进行测试时很方便,但会给系统带来重大安全隐患.我们给一个应用中使用的用户赋予最恰当的数据库权限。如一个只进行数据插入的用户不应赋予其删除数据的权限.MySql的用户管理是通过 User表来实现的,添加新用户常用的方法有两个
-一是在User表插入相应的数据行,同时设置相应的权限；创建及删除用户命令
-二是通过GRANT命令创建具有某种权限的用 户.其中GRANT的常用用法如下：
+<br>
+##### 安全设置
+用户不应该只用root用户进行连接数据库,虽然使用root用户进行测试时很方便,但会给系统带来重大安全隐患.
+<br>我们给一个应用中使用的用户赋予最恰当的数据库权限。如一个只进行数据插入的用户不应赋予其删除数据的权限.
+<br>MySql的用户管理是通过 User表来实现的,添加新用户常用的方法有两个
+<br>一.是在User表插入相应的数据行,同时设置相应的权限；创建及删除用户命令
+<br>二.是通过GRANT命令创建具有某种权限的用 户.其中GRANT的常用用法如下：
+```sql
 grant all on mydb.* to NewUserName@HostName identified by “password” ;
 grant usage on *.* to NewUserName@HostName identified by “password”;
 grant select,insert,update on mydb.* to NewUserName@HostName identified by “password”;
 grant update,delete on mydb.TestTable to NewUserName@HostName identified by “password”;
-若要给此用户赋予他在相应对象上的grant权限的能力,可在GRANT后面添加WITH GRANT OPTION选项.而对于用插入User表添加的用户,Password字段应用PASSWORD 函数进行更新加密,以防被窃看密码.
-对于那些已经不用的用户应给予清除,权限过界的用户应及时回收权限,回收权限可以通过更新User表相应字段， 也可以使用REVOKE操作。
+```
+若要给此用户赋予他在相应对象上的grant权限的能力,可在GRANT后面添加WITH GRANT OPTION选项.
+<br>对于用插入User表添加的用户,Password字段应用PASSWORD 函数进行更新加密,以防被窃看密码.
+<br>对于那些已经不用的用户应给予清除,权限过界的用户应及时回收权限,回收权限可以通过更新User表相应字段， 也可以使用REVOKE操作。
 全局管理权限：
+```
 FILE: 在MySQL服务器上读写文件。
 PROCESS: 显示或杀死属于其它用户的服务线程。
 RELOAD: 重载访问控制表，刷新日志等。
@@ -140,3 +106,50 @@ UPDATE: 修改表中已存在的记录。
 特别的权限：
 ALL: 允许做任何事(和root一样)。
 USAGE: 只允许登录–其它什么也不允许做。
+```
+#### 常用命令
+```
+# 1:使用SHOW语句找出在服务器上当前存在什么数据库：
+mysql> SHOW DATABASES;
+
+# 2:创建一个数据库MYSQLDATA
+CREATE DATABASE db_name 
+ALTER DATABASE db_name 
+# COLLATE参数用来指定字符集校对规则
+# MySQL这样选择数据库字符集和数据库校对规则： 
+# 如果指定了CHARACTER SET X和COLLATE Y，那么采用字符集X和校对规则Y。 
+# 如果指定了CHARACTER SET X而没有指定COLLATE Y，那么采用CHARACTER SET X和CHARACTER SET X的默认校对规则。 
+# 否则，采用服务器字符集和服务器校对规则。
+CREATE DATABASE IF NOT EXISTS my_db default charset utf8 COLLATE utf8_general_ci;
+
+# 3:选择你所创建的数据库
+mysql> USE MYSQLDATA; (按回车键出现Database changed 时说明操作成功！)
+
+# 4:查看现在的数据库中存在什么表
+mysql> SHOW TABLES;
+
+# 5:创建一个数据库表
+mysql> CREATE TABLE MYTABLE (name VARCHAR(20), sex CHAR(1));
+
+# 6:显示表的结构：
+mysql> DESCRIBE MYTABLE;
+
+# 7:往表中加入记录
+mysql> insert into MYTABLE values (”hyq”,”M”);
+
+# 8:用文本方式将数据装入数据库表中（例如D:/mysql.txt）
+mysql> LOAD DATA LOCAL INFILE “D:/mysql.txt” INTO TABLE MYTABLE;
+
+# 9:导入.sql文件命令（例如D:/mysql.sql）
+mysql>use database;
+mysql>source d:/mysql.sql;
+
+# 10:删除表
+mysql>drop TABLE MYTABLE;
+
+# 11:清空表
+mysql>delete from MYTABLE;
+
+12:更新表中数据
+mysql>update MYTABLE set sex=”f” where name=’hyq’;
+```
