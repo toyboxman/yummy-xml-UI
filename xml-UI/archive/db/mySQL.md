@@ -49,9 +49,9 @@ mysql> use dbname
 客户端工具：***SQuirreL SQL Client***,   ***SQL Power Architect***
 #### 数据库配置
 默认情况下，远程无法连接到数据库服务器，有以下原因
-1.防火墙没有关闭 通过 service iptables status 来查看防火墙状态
-2.端口(3306)被占用 通过 netstat -tlnpu 查看mysqld 端口状态
-3.数据库中mysql实例的“user”表里的“host”项只允许本地地址  
+<br>1.防火墙没有关闭 通过 service iptables status 来查看防火墙状态
+<br>2.端口(3306)被占用 通过 netstat -tlnpu 查看mysqld 端口状态
+<br>3.数据库中mysql实例的“user”表里的“host”项只允许本地地址  
      ```
      1.改表法, 修改host值(以通配符%的内容增加主机/IP地址),或直接增加IP地址"localhost"改称'%'
        mysql>update user set host = '%' where user = 'root';
@@ -62,13 +62,15 @@ mysql> use dbname
       使myuser从ip为192.168.1.3的主机连接到mysql服务器
       GRANT ALL PRIVILEGES ON *.* TO 'myuser'@'192.168.1.3' IDENTIFIED BY 'mypassword' WITH GRANT OPTION;
 	  ```
-如果myuser@%无法通过localhost登录数据库，
+如果myuser@%无法通过localhost登录数据库
+```
 root@controller:~# mysql -h localhost -u myuser -ppassword
 ERROR 1045 (28000): Access denied for user 'keystone'@'localhost' (using password: YES)
-可以进行如下操作
+
 mysql> use mysql;
 mysql> delete from user where user='';
 mysql> flush privileges;
+```
 意思是删除匿名用户，然后就可以从localhost登录
 
 
