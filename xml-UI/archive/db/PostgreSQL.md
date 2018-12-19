@@ -64,7 +64,7 @@ king@ubuntu:~/software$ psql -U king -W -h localhost -d myDB
 ```
 #### 数据库配置
 PostgreSQL server默认使用5432端口提供连接，如果连接被拒，有可能是安全权限配置问题。
-所有有关的配置都在**[pg_hba.conf]**(https://www.postgresql.org/docs/10/auth-pg-hba-conf.html)
+所有有关的配置都在[**pg_hba.conf**](https://www.postgresql.org/docs/10/auth-pg-hba-conf.html)
 ```
 # IPv4 local connections:
 # /etc/postgresql/10/main/pg_hba.conf
@@ -89,11 +89,13 @@ host    all             all             127.0.0.1/32            password
 sudo systemctl restart postgresql     # ubuntu
 ```
 password方法指对客户端来的连接使用明文密码
+<br>
 MD5方法指对客户端来的连接使用MD5 hash变换密码
 <br>   
 如果修改后连接仍旧被拒，可能是没给用户设定密码。如果默认密码是空，安全验证会一直失败。
 ```bash
-# SQL commands CREATE USER and ALTER USER, e.g., CREATE USER foo WITH PASSWORD 'secret';. By default, that is, if no password has been set up, the stored password is null and password authentication will always fail for that user.
+# SQL commands CREATE USER and ALTER USER, e.g., CREATE USER foo WITH PASSWORD 'secret';. 
+# By default, that is, if no password has been set up, the stored password is null and password authentication will always fail for that user.
 postgres=# ALTER USER king WITH PASSWORD 'secret';
 sudo systemctl restart postgresql
 ```
