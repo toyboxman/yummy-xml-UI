@@ -53,7 +53,7 @@ mysql> use dbname
 <br>2.端口(3306)被占用 通过 netstat -tlnpu 查看mysqld 端口状态
 <br>3.数据库中mysql实例的“user”表里的“host”项只允许本地地址  
 
-     ```1.改表法, 修改host值(以通配符%的内容增加主机/IP地址),或直接增加IP地址"localhost"改称'%'
+     1.改表法, 修改host值(以通配符%的内容增加主机/IP地址),或直接增加IP地址"localhost"改称'%'
        mysql>update user set host = '%' where user = 'root';
        mysql>select host, user from user;  
      2. 授权法
@@ -61,7 +61,7 @@ mysql> use dbname
       GRANT ALL PRIVILEGES ON *.* TO 'myuser'@'%' IDENTIFIED BY 'mypassword' WITH GRANT OPTION;
       使myuser从ip为192.168.1.3的主机连接到mysql服务器
       GRANT ALL PRIVILEGES ON *.* TO 'myuser'@'192.168.1.3' IDENTIFIED BY 'mypassword' WITH GRANT OPTION;
-	  ```
+	  
 如果myuser@%无法通过localhost登录数据库
 ```
 root@controller:~# mysql -h localhost -u myuser -ppassword
