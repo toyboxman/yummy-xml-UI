@@ -95,7 +95,8 @@ MD5方法指对客户端来的连接使用MD5 hash变换密码
 如果修改后连接仍旧被拒，可能是没给用户设定密码。如果默认密码是空，安全验证会一直失败。
 ```bash
 # SQL commands CREATE USER and ALTER USER, e.g., CREATE USER foo WITH PASSWORD 'secret';. 
-# By default, that is, if no password has been set up, the stored password is null and password authentication will always fail for that user.
+# By default, that is, if no password has been set up, the stored password is null 
+# and password authentication will always fail for that user.
 postgres=# ALTER USER king WITH PASSWORD 'secret';
 sudo systemctl restart postgresql
 ```
