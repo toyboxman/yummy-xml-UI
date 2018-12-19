@@ -1,41 +1,59 @@
-### PostgreSQL(https://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e/16974197#16974197)
-在Linux上使用mysql数据库
-1.安装
-   可以使用yum(redhat) apt(ubuntu) zypper(suse)
-     客户端 yum install mysql
-     服务器端 yum install mysql_server
-     安装完毕查看状态 service mysqld status
-     如果数据库启动正常可以在本机登录。mysql只有一个默认的root用户,密码为空,只允许localhost连接
-          mysql -h localhost -u root -ppassword
-2. 修改密码
-   如果用root用户安装后，需要修改mysql登录密码
-      1.先停止mysqld服务 service mysqld stop
-      2.启动安全模式/usr/bin/mysqld_safe --skip-grant-tables
-      3.通过mysql客户端登入 mysql              
-            mysql> UPDATE mysql.user SET Password=PASSWORD('MyNewPass') WHERE User='root';
-            mysql> FLUSH PRIVILEGES;
-            mysql> quit
-      4.重启mysqld  service mysqld restart
-3. 使用密码登录
-     mysql -u root -pMyNewPass dbname  or mysql> use dbname
+### MySQL
+#### 安装
+在Linux上使用mysql数据库,可以使用yum(redhat) apt(ubuntu) zypper(suse)
+```
+# client package
+yum install mysql
 
-可以通过mysqlmanager来创建用户 可以通过mysqladmin来创建新数据库实例
-
-客户端工具：SQuirreL SQL Client   SQL Power Architect
-mysql连接URL：
+# server package
+yum install mysql_server
+     
+# 安装完毕查看状态 
+service mysqld status
+```
+#### 连接
+```
+# mysql只有一个默认的root用户,密码为空,只允许localhost连接
+mysql -h localhost -u root -ppassword
+```
+JDBC URI
+```
+# 在使用数据库连接池的情况下，最好设置如下两个参数：
+# autoReconnect=true&failOverReadOnly=false
 jdbc:mysql://localhost:3306/test?user=root&password=&useUnicode=true&characterEncoding=utf8&autoReconnect=true&failOverReadOnly=false
-
-在使用数据库连接池的情况下，最好设置如下两个参数：
-autoReconnect=true&failOverReadOnly=false
-
-需要注意的是，在xml配置文件中，url中的&符号需要转义成&。比如在tomcat的server.xml中配置数据库连接池时，mysql jdbc url样例如下：
-jdbc:mysql://localhost:3306/test?user=root&password=&useUnicode=true&characterEncoding=utf8&autoReconnect=true&failOverReadOnly
-
+```
+需要注意的是，在应用xml配置文件中，jdbc url中的&符号需要转义。比如在tomcat的server.xml中配置数据库连接池时，mysql jdbc url样例如下：
+```
+jdbc:mysql://localhost:3306/test?user=root&amp;password=&amp;useUnicode=true&amp;characterEncoding=utf8&amp;autoReconnect=true&amp;failOverReadOnly
+```
+#### 数据库操作     
+如果用root用户安装后，需要修改mysql登录密码
+```
+# 1.先停止mysqld服务 
+service mysqld stop
+# 2.启动安全模式
+/usr/bin/mysqld_safe --skip-grant-tables
+# 3.通过mysql客户端登入 
+mysql              
+mysql> UPDATE mysql.user SET Password=PASSWORD('MyNewPass') WHERE User='root';
+mysql> FLUSH PRIVILEGES;
+mysql> quit
+# 4.重启
+mysqld  service mysqld restart
+# 5.使用密码登录
+mysql -u root -pMyNewPass dbname
+mysql> use dbname
+```
+可以通过mysqlmanager来创建用户 可以通过mysqladmin来创建新数据库实例
+<br>
+客户端工具：***SQuirreL SQL Client***,   ***SQL Power Architect***
+#### 数据库配置
 默认情况下，远程无法连接到数据库服务器，有以下原因
 1.防火墙没有关闭 通过 service iptables status 来查看防火墙状态
 2.端口(3306)被占用 通过 netstat -tlnpu 查看mysqld 端口状态
 3.数据库中mysql实例的“user”表里的“host”项只允许本地地址  
-      1.改表法, 修改host值(以通配符%的内容增加主机/IP地址),或直接增加IP地址"localhost"改称'%'
+     ```
+     1.改表法, 修改host值(以通配符%的内容增加主机/IP地址),或直接增加IP地址"localhost"改称'%'
        mysql>update user set host = '%' where user = 'root';
        mysql>select host, user from user;  
      2. 授权法
@@ -43,6 +61,7 @@ jdbc:mysql://localhost:3306/test?user=root&password=&useUnicode=true&characterEn
       GRANT ALL PRIVILEGES ON *.* TO 'myuser'@'%' IDENTIFIED BY 'mypassword' WITH GRANT OPTION;
       使myuser从ip为192.168.1.3的主机连接到mysql服务器
       GRANT ALL PRIVILEGES ON *.* TO 'myuser'@'192.168.1.3' IDENTIFIED BY 'mypassword' WITH GRANT OPTION;
+	  ```
 如果myuser@%无法通过localhost登录数据库，
 root@controller:~# mysql -h localhost -u myuser -ppassword
 ERROR 1045 (28000): Access denied for user 'keystone'@'localhost' (using password: YES)

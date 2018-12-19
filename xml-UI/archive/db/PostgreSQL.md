@@ -21,6 +21,11 @@ Type "help" for help.
 
 postgres-# \q
 ```
+JDBC URI
+```
+# default port 5432
+jdbc:postgresql://127.0.0.1/myDB?ssl=false
+```
 #### 数据库操作
 ```bash
 # 通过超级用户来创建其他用户
