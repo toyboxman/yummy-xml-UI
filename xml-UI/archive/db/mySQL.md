@@ -88,7 +88,7 @@ grant update,delete on mydb.TestTable to NewUserName@HostName identified by “pa
 若要给此用户赋予他在相应对象上的grant权限的能力,可在GRANT后面添加WITH GRANT OPTION选项.
 <br>对于用插入User表添加的用户,Password字段应用PASSWORD 函数进行更新加密,以防被窃看密码.
 <br>对于那些已经不用的用户应给予清除,权限过界的用户应及时回收权限,回收权限可以通过更新User表相应字段， 也可以使用REVOKE操作。
-全局管理权限：
+<br>全局管理权限：
 ```
 FILE: 在MySQL服务器上读写文件。
 PROCESS: 显示或杀死属于其它用户的服务线程。
