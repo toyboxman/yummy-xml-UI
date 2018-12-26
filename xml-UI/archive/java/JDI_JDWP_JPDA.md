@@ -68,8 +68,8 @@ while (true) {
 #                         所以main方法始终在redefine后无法即时生效
 #                        如果改成方法体外循环，那么redefine class后新方法会即时生效
 #    循环体替换方法：只能强行先将stack frame清空，popFrames后redefine才生效
-# 										  popFrames执行前提是thread需要处于sleeping状态，即暂停执行thread
-#                                       设定断点或调用suspend方法都可以达到效果，否则pop会失败提示thread运行中
+#                       popFrames执行前提是thread需要处于sleeping状态，即暂停执行thread
+#                       设定断点或调用suspend方法都可以达到效果，否则pop会失败提示thread运行中
 threadReference.popFrames(stackFrame);
 HashMap<ReferenceType, byte[]> map = new HashMap<>();
 Path path = FileSystems.getDefault().getPath("./", "Target.class");
