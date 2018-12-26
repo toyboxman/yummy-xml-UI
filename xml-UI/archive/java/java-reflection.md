@@ -1,7 +1,11 @@
 ***
 
 ## Ways to reflect
-
+有时候处理一些对象受到Modifier(修饰符号)域的限制，无法直接访问，需要通过反射来做。
+<br>Modifier(修饰符号) 包括 public protected private
+<br>Qualifier(限定符号) is an extra name given to either variables or functions , showing an extra quality or extra meaning for that variable or function. like Dr in Dr Arun Kumar
+<br>Qualifiers for variables are (TYPE qualifiers): signed, unsigned, long, short, long long, const, volatile, static, auto, extern, register
+<br>Qualifiers for functions are: static, extern, inline
 ### 1.access private field
 常常使用一些第三方库的时候，无法配置Logger。但又需要依赖日志来跟踪程序，此时可以通过reflect方式来实现
 ```java
@@ -26,4 +30,13 @@ private void addLogger(Class res) throws NoSuchFieldException,
         logger.addAppender(appender);
         logger.setLevel(Level.ALL);
 }
+```
+### 2.access private constructor
+想构造一些对象实例，但是无法调用non-public的构造方法
+```java 
+// 此处如果使用Class.getConstructor，由于是private modifier会返回null
+Constructor<IntegerValueImpl> valueConstructor = IntegerValueImpl
+                                    .class.getDeclaredConstructor(VirtualMachine.class, int.class);
+valueConstructor.setAccessible(true);
+IntegerValueImpl integerValue = valueConstructor.newInstance(vm, 500);
 ```
