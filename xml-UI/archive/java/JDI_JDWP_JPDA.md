@@ -64,9 +64,12 @@ while (true) {
 # note:
 # redefine方法执行后，按文档描述所有断点都会被删除
 # 经测试main thread似乎不支持refine后及时生效??? 
-# 后续new的object使用新的class定义 当前stack中运行的object无法改变
-# 只能先将stack frame清空popFrames后redefine才生效
-# popFrames执行前提是有断点suspend执行thread或调用suspend方法，否则失败提示thread运行中
+#    原因分析：测试Target类的main方法中是一个无穷循环，导致旧方法始终无法退出，新方法无法reload
+#                         所以main方法始终在redefine后无法即时生效
+#                        如果改成方法体外循环，那么redefine class后新方法会即时生效
+#    循环体替换方法：只能强行先将stack frame清空，popFrames后redefine才生效
+# 										  popFrames执行前提是thread需要处于sleeping状态，即暂停执行thread
+#                                       设定断点或调用suspend方法都可以达到效果，否则pop会失败提示thread运行中
 threadReference.popFrames(stackFrame);
 HashMap<ReferenceType, byte[]> map = new HashMap<>();
 Path path = FileSystems.getDefault().getPath("./", "Target.class");
