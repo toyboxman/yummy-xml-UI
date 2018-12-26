@@ -2,8 +2,8 @@
 
 ## Ways to Remote Debug
 JPDA(Java Platform Debugger Architecture)ÊÇÒ»Ì×ÍêÕûµÄJVMµ÷ÊÔ¼Ü¹¹£¬ÓĞÉÏÖĞÏÂÈı²ã¡£·Ö±ğÊÇAPI²ãJDI£¬Ğ­Òé²ãJDWP£¬JVM½Ó¿ÚÊµÏÖ²ãJVMDI¡£ÏÖÔÚIDEËùÊµÏÖµÄremote debug°üÀ¨hotswap¶¼ÊÇ»ùÓÚ´ËÀ´ÊµÏÖ¡£ÏêÏ¸ÃèÊö¿ÉÒÔ²Î¿´[¹Ù·½ÎÄµµ](https://docs.oracle.com/javase/8/docs/technotes/guides/jpda/enhancements1.4.html)
-### dev on JDI
-JDI(com.sun.jdi)ÊÇËæJDKµÄ°æ±¾·¢²¼£¬±àÒëÔÚtools.jarÖĞ¡£Èç¹û»ùÓÚmaven¹¤³ÌµÄ»°£¬ĞèÒªÖ¸¶¨±¾µØ±àÒëÒÀÀµÂ·¾¶£¬public repoÖĞÃ»ÓĞ´Ëjar¡£
+### dev on JPDA
+JDI(com.sun.jdi)ÊÇËæJDKµÄ°æ±¾·¢²¼£¬±àÒëÔÚtools.jarÖĞ£¬¿ÉÒÔ²Î¿¼[APIÎÄµµ](https://docs.oracle.com/javase/8/docs/jdk/api/jpda/jdi/index.html)¡£Èç¹û»ùÓÚmaven¹¤³ÌµÄ»°£¬ĞèÒªÖ¸¶¨±¾µØ±àÒëÒÀÀµÂ·¾¶£¬public repoÖĞÃ»ÓĞ´Ëjar¡£
 ```xml
 <dependency>
 	<groupId>com.sun</groupId>
@@ -14,8 +14,110 @@ JDI(com.sun.jdi)ÊÇËæJDKµÄ°æ±¾·¢²¼£¬±àÒëÔÚtools.jarÖĞ¡£Èç¹û»ùÓÚmaven¹¤³ÌµÄ»°£¬ĞèÒ
 </dependency>
 }
 ``` 
-APIÎÄµµ¿ÉÒÔ²Î¿¼[JDI(com.sun.jdi)](https://docs.oracle.com/javase/8/docs/jdk/api/jpda/jdi/index.html)
-<br>ÀíÂÛÉÏÈç¹ûÄÜ¹»´¦ÀíJDWPĞ­Òé£¬ÈÎºÎÓïÑÔÊµÏÖµÄ¿Í»§¶Ë¶¼¿ÉÒÔÍê³ÉJDIµÄ¹¦ÄÜ¡£
+ÀíÂÛÉÏÈç¹ûÄÜ¹»´¦ÀíJDWPĞ­Òé£¬ÈÎºÎÓïÑÔÊµÏÖµÄ¿Í»§¶Ë¶¼¿ÉÒÔÍê³ÉJDIµÄ¹¦ÄÜ¡£¹ØÓÚÕâ¿é¿ÉÒÔ²Î¿´[´ËÎÄ](https://ioactive.com/hacking-java-debug-wire-protocol-or-how/)£¬ÒÔ¼°[ÊµÏÖ](https://github.com/IOActive/jdwp-shellifier)
+### use of JDI
+µ÷ÓÃJDIµÄ½Ó¿ÚÖ÷Òª°üÀ¨Á¬½ÓJVM ºÍ·¢ËÍÖ¸ÁîÁ½²½£¬ÏÂÃæµÄ´úÂë¿éÍê³ÉÕâĞ©¹¦ÄÜ¡£
+* »ñÈ¡remote jvmµÄconnector
 ```java 
+VirtualMachineManager vmManager = Bootstrap.virtualMachineManager();
 
+for (Connector connector : vmManager.attachingConnectors()) {
+	if ("com.sun.jdi.SocketAttach".equals(connector.name()))
+		return (AttachingConnector) connector;
+}
 ```
+* connectorÁ¬½Óµ½Ä¿±êJVM
+```java
+Map<String, Connector.Argument> args = connector.defaultArguments();
+Connector.Argument portArg = args.get("port");
+portArg.setValue(port);
+Connector.Argument addressArg = args.get("hostname");
+addressArg.setValue(host);
+
+connector.attach(args);
+```
+* Éè¶¨debug¶Ïµã/¼àÌı
+```java
+EventRequestManager erm = machine.eventRequestManager();
+try {
+	List<Location> line = refer.locationsOfLine(8);
+	BreakpointRequest br = erm.createBreakpointRequest(line.get(0));
+	br.setEnabled(true);
+	System.out.println("All breakpoints :" + erm.breakpointRequests().size());
+	debugee.listenForData(machine, refer);
+} catch (Exception e) {
+	e.printStackTrace();
+}
+
+EventQueue eventQueue = vm.eventQueue();
+while (true) {
+	System.out.println("POLL EVENT: ");
+	EventSet eventSet = eventQueue.remove(1000);
+	System.out.println("Get EVENT: ");
+	if (eventSet == null) continue;
+	for (Event ev : eventSet) {
+		if (ev instanceof BreakpointEvent) {...}
+}
+```
+* hotswap classÎÄ¼ş
+```bash
+# note:
+# ¾­²âÊÔmain threadËÆºõ²»Ö§³Örefineºó¼°Ê±ÉúĞ§???
+# Ö»ÄÜÏÈ½«stack frameÇå¿ÕpopFramesºóredefine²ÅÉúĞ§
+# popFramesÖ´ĞĞÇ°ÌáÊÇÓĞ¶ÏµãsuspendÖ´ĞĞthread»òµ÷ÓÃsuspend·½·¨£¬·ñÔòÊ§°ÜÌáÊ¾threadÔËĞĞÖĞ
+# Èç¹ûÌæ»»·½·¨²»ÔÚmain classÖĞ£¬ÀıÈçÁíÍâÒ»¸öclassÖĞ£¬redefine·½·¨¿ÉÒÔ¼°Ê±ÉúĞ§£¬²»ĞèÒªÇå¿Õµ±Ç°Õ»
+threadReference.popFrames(stackFrame);
+HashMap<ReferenceType, byte[]> map = new HashMap<>();
+Path path = FileSystems.getDefault().getPath("./", "Target.class");
+byte[] clsBytes = Files.readAllBytes(path);
+map.put(refer, clsBytes);
+vm.redefineClasses(map);
+```
+* ´ò¿ªjdwpÈÕÖ¾Êä³ö
+```bash
+VirtualMachine machine = debugee.connect("127.0.0.1", 9000);
+// Ä¬ÈÏÎª0²»Êä³öjdwp¹ı³ÌÈÕÖ¾
+// ´óÓÚ1»áÊä³öÏêÏ¸ĞÅÏ¢£¬±ÈÈçredefine½«ĞÂÀàÎÄ¼ş·¢ËÍµ½jvm
+machine.setDebugTraceMode(1);
+
+
+threadReference.popFrames(stackFrame);
+HashMap<ReferenceType, byte[]> map = new HashMap<>();
+Path path = FileSystems.getDefault().getPath("./", "Target.class");
+byte[] clsBytes = Files.readAllBytes(path);
+map.put(refer, clsBytes);
+vm.redefineClasses(map);
+
+[JDI: Sending Command(id=70) JDWP.VirtualMachine.RedefineClasses]
+[JDI: Sending:                 classes(ClassDef[]): ]
+[JDI: Sending:                     classes[i](ClassDef): ]
+[JDI: Sending:                     refType(ReferenceTypeImpl): ref=7]
+[JDI: Sending:                     classfile(byte[]): ]
+[JDI: Sending:                         classfile[i](byte): -54]
+[JDI: Sending:                         classfile[i](byte): -2]
+```
+* ÔËĞĞsample´úÂë
+ÍêÕû´úÂë²é¿´Á´½Ó[Sample Codes](./sample/Debugee.java)
+```bash
+#1.Æô¶¯Target½ø³Ì
+java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=127.0.0.1:9000 cn.gene.debuger.Target
+#2.ĞŞ¸ÄTargetÔ´ÎÄ¼ş£¬loop·½·¨ÖĞÔö¼ÓÒ»ĞĞ´òÓ¡
+#3.Æô¶¯Debugee½ø³ÌÁ¬½Ó127.0.0.1:9000
+java cn.gene.debuger.Debugee
+
+#¹Û²ìÖ´ĞĞ½á¹û, Target½ø³Ì¿ØÖÆÌ¨ÔÚdebugeeÁ¬½ÓÉÏÇ°ºó»áÊä³öÁ½ÖÖ´òÓ¡Óï¾ä
+Listening for transport dt_socket at address: 9000
+run target program
+hit target 1
+hit target 2
+hit target 3
+hit target 4
+hit target 1   -->Ôö¼ÓĞÂµÄ´òÓ¡
+just wait 5000
+hit target 2
+just wait 5000
+```
+### ²Î¿¼ÏîÄ¿
+[https://github.com/Jody7/JDWP-Client](https://github.com/Jody7/JDWP-Client)
+[https://github.com/kherink/jdwp-analyzer](https://github.com/kherink/jdwp-analyzer)
+[https://github.com/HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent)
