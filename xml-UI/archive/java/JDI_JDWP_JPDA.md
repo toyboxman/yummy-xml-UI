@@ -62,10 +62,11 @@ while (true) {
 * hotswap class文件
 ```bash
 # note:
-# 经测试main thread似乎不支持refine后及时生效???
+# redefine方法执行后，按文档描述所有断点都会被删除
+# 经测试main thread似乎不支持refine后及时生效??? 
+# 后续new的object使用新的class定义 当前stack中运行的object无法改变
 # 只能先将stack frame清空popFrames后redefine才生效
 # popFrames执行前提是有断点suspend执行thread或调用suspend方法，否则失败提示thread运行中
-# 如果替换方法不在main class中，例如另外一个class中，redefine方法可以及时生效，不需要清空当前栈
 threadReference.popFrames(stackFrame);
 HashMap<ReferenceType, byte[]> map = new HashMap<>();
 Path path = FileSystems.getDefault().getPath("./", "Target.class");
