@@ -80,14 +80,6 @@ VirtualMachine machine = debugee.connect("127.0.0.1", 9000);
 // 大于1会输出详细信息，比如redefine将新类文件发送到jvm
 machine.setDebugTraceMode(1);
 
-
-threadReference.popFrames(stackFrame);
-HashMap<ReferenceType, byte[]> map = new HashMap<>();
-Path path = FileSystems.getDefault().getPath("./", "Target.class");
-byte[] clsBytes = Files.readAllBytes(path);
-map.put(refer, clsBytes);
-vm.redefineClasses(map);
-
 [JDI: Sending Command(id=70) JDWP.VirtualMachine.RedefineClasses]
 [JDI: Sending:                 classes(ClassDef[]): ]
 [JDI: Sending:                     classes[i](ClassDef): ]
@@ -119,5 +111,5 @@ just wait 5000
 ```
 ### 参考项目
 [https://github.com/Jody7/JDWP-Client](https://github.com/Jody7/JDWP-Client)
-[https://github.com/kherink/jdwp-analyzer](https://github.com/kherink/jdwp-analyzer)
-[https://github.com/HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent)
+<br>[https://github.com/kherink/jdwp-analyzer](https://github.com/kherink/jdwp-analyzer)
+<br>[https://github.com/HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent)
