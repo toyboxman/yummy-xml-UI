@@ -1,17 +1,23 @@
-Qualifier(限定符号)
-Qualifier is an extra name given to either variables or functions , showing an extra quality or extra meaning for that variable or function. like Dr in Dr Arun Kumar
-
-Qualifiers for variables are (TYPE qualifiers): signed, unsigned, long, short, long long, const, volatile, static, auto, extern, register
-
-Qualifiers for functions are: static, extern, inline
-
-Modifier(修饰符号)
-
 ### python
 1.python3 must return value, other get None type in [] loop not like python2 ?
 2.python3 class def method must use self.method() otherwise no definition ?
 3.method must (self) parameter, otherwise call failure ?
 4.global free_disk_space
+
+### replacement
+notepad++ replacement 
+curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
+{
+    "name":"accuracy_measure",
+    "measure.type":"griffin",
+    "dq.type":"accuracy",
+    "process.type":"batch",
+    "owner":"test",
+    "description":"measure description"
+}
+需要在json每一行末尾增加一个'\', 字符后不能有空格，否则无法与上一行接起来
+
+'\r\n'  --> '  \\\r\n'
 
 ### go
 
@@ -478,3 +484,124 @@ https://stackoverflow.com/questions/tagged/hawq
 
 https://cwiki.apache.org/confluence/display/IMPALA/Effective+Coding+Practices
 ?code standard
+
+https://github.com/ratpack/ratpack
+Ratpack is a simple, capable, toolkit for creating high performance web applications.
+Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.
+
+Apache Druid (incubating)
+Apache Druid (incubating) is a high performance analytics data store for event-driven data.
+
+### griffin
+Elasticsearch
+102      26701 26682  8 13:14 ?        00:00:16 /docker-java-home/jre/bin/java -Xms2g -Xmx2g -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -XX:+AlwaysPreTouch -server -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -Djdk.io.permissionsUseCanonicalPath=true -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Dlog4j.skipJansi=true -XX:+HeapDumpOnOutOfMemoryError -Des.path.home=/usr/share/elasticsearch -cp /usr/share/elasticsearch/lib/* org.elasticsearch.bootstrap.Elasticsearch
+
+https://hadoop.apache.org/docs/r2.9.1/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution
+
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 in .bashrc
+root@griffin:/apache/hadoop-2.6.5# cat /etc/hosts
+127.0.0.1       localhost
+172.17.0.2      es es
+172.17.0.3      griffin
+root@griffin:/apache# cat /etc/hostname 
+griffin
+
+root@griffin:/apache# env
+ES_HOSTNAME=es
+ES_ENV_JAVA_HOME=/docker-java-home/jre
+ES_PORT_9300_TCP=tcp://172.17.0.2:9300
+ES_ENV_CA_CERTIFICATES_JAVA_VERSION=20170531+nmu1
+ES_PORT_9300_TCP_PORT=9300
+ES_PORT_9200_TCP=tcp://172.17.0.2:9200
+ES_PORT_9300_TCP_PROTO=tcp
+ES_ENV_JAVA_VERSION=8u141
+ES_ENV_LANG=C.UTF-8
+ES_ENV_ELASTICSEARCH_VERSION=5.5.2
+ES_PORT_9200_TCP_PROTO=tcp
+ES_ENV_JAVA_DEBIAN_VERSION=8u141-b15-1~deb9u1
+ES_PORT_9200_TCP_ADDR=172.17.0.2
+ES_ENV_ELASTICSEARCH_DEB_VERSION=5.5.2
+ES_ENV_GOSU_VERSION=1.10
+ES_PORT_9300_TCP_ADDR=172.17.0.2
+ES_PORT=tcp://172.17.0.2:9200
+ES_PORT_9200_TCP_PORT=9200
+ES_NAME=/griffin/es
+   
+   https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool
+   Run schemaTool to create the initial DB structure https://mapr.com/docs/61/Hive/Config-RemotePostgreSQLForHiveMetastore.html
+  172  hive/bin/schematool -dbType postgres -initSchema
+  173  hive/bin/schematool -dbType postgres -initSchema -dryRun
+  Get schema information:
+/apache/hive/bin/schematool -dbType postgres -info
+
+
+griffin/service
+root     29711 26909 59 13:15 pts/0    00:01:15 java -jar -Xmx1500m -Xms1500m service.jar
+
+yarn-site.xml
+<property>
+	<name>yarn.resourcemanager.hostname</name>
+	<value>localhost</value>
+</property>
+<property>
+	<name>yarn.nodemanager.aux-services</name>
+	<value>mapreduce_shuffle</value>
+</property>
+<property>
+	<name>yarn.nodemanager.aux-services.mapreduce.shuffle.class</name>
+	<value>org.apache.hadoop.mapred.ShuffleHandler</value>
+</property>
+<property>
+	<name>yarn.nodemanager.log-dirs</name>
+	<value>/tmp/logs</value>
+</property>
+<property>
+	<name>yarn.log-aggregation-enable</name>
+	<value>true</value>
+</property>
+<property>
+	<name>yarn.nodemanager.remote-app-log-dir</name>
+	<value>/yarn-logs/logs</value>
+</property>
+<property>
+	<name>yarn.nodemanager.remote-app-log-dir-suffix</name>
+	<value>logs</value>
+</property>
+<property>
+	<name>yarn.log-aggregation.retain-seconds</name>
+	<value>360000</value>
+</property>
+<property>
+	<name>yarn.log.server.url</name>
+	<value>http://localhost:19888/jobhistory/logs</value>
+</property>
+<!-- for java 8 -->
+<property>
+    <name>yarn.nodemanager.pmem-check-enabled</name>
+    <value>false</value>
+</property>
+<property>
+    <name>yarn.nodemanager.vmem-check-enabled</name>
+    <value>false</value>
+</property>
+
+
+yarn resource manager HA to ZK https://www.ibm.com/support/knowledgecenter/en/SSGSMK_7.1.0/management_sym/configuring_yarn_rm_ha_zookeeper.html
+Modify the YARN configuration file ($HADOOP_CONF_DIR/yarn-site.xml) on all resource manager hosts and the node manager hosts. Do this by adding Apache ZooKeeper HA properties to the file. For example, the following is based on open-source YARN configuration:
+
+<property>
+	<name>yarn.resourcemanager.ha.enabled</name>
+	<value>true</value>
+</property>
+<property>
+	<name>yarn.resourcemanager.zk-address</name>
+	<value>zk1:port1,zk2:port2,..., zkN:portN</value>
+</property>
+<property>
+	<name>yarn.resourcemanager.recovery.enabled</name>
+	<value>true</value>
+</property>
+<property>
+	<name>yarn.resourcemanager.ha.automatic-failover.enabled</name>
+	<value>true</value>
+</property>
