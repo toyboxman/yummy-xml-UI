@@ -1,5 +1,10 @@
 /*
 * Monitored Object Query Language
+* https://github.com/antlr/antlr4
+* https://github.com/teverett/antlr4example
+* https://github.com/antlr/antlr4/blob/master/doc/index.md
+* https://github.com/antlr/antlr4/blob/master/doc/getting-started.md
+* https://regex101.com/r/OaG4wo/2
 */
 grammar Moql;
 
