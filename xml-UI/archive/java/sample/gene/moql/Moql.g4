@@ -9,28 +9,29 @@
 grammar Moql;
 
 parse
- : ( moql_stmt_list | error )* EOF
+ : ( moql_stmt_list /*| error*/ )+
  ;
 
 error
- : UNEXPECTED_CHAR
+ : INVALID_TOKEN
    {
-     throw new RuntimeException("UNEXPECTED_CHAR=" + $UNEXPECTED_CHAR.text);
+     throw new gene.moql.MOQLSyntaxError("Invalid Token : " + $INVALID_TOKEN.text.split("\\s")[0]);
    }
  ;
 
 moql_stmt_list
- : ';'* moql_stmt ( ';'+ moql_stmt )* ';'*
+ /*: moql_stmt ( ';'+ moql_stmt )* ';'* */
+ : moql_stmt ';'
  ;
 
 moql_stmt
  : ( query_stmt
       | update_stmt
-      | delete_stmt )
+      | delete_stmt)
  ;
 
 query_stmt
- : K_QUERY object_name ( ',' object_name )*
+ : K_QUERY object_name (',' object_name)*
    K_IN class_name
    K_FROM target_vm
    K_WHERE expr
@@ -45,31 +46,18 @@ delete_stmt
  ;
 
 expr
- : K_LINE '==' NUMERIC_LITERAL
+ : K_LINE '==' NUMERIC
  ;
 
 target_vm
- : any_name ':' port
- ;
-
-port
- : DIGIT+
+ : any_name ':' NUMERIC
  ;
 
 class_name
- : STRING_LITERAL
- ;
-
-object_name
- : var_name
- | field_name
- ;
-
-var_name
  : any_name
  ;
 
-field_name
+object_name
  : any_name
  ;
 
@@ -106,16 +94,19 @@ IDENTIFIER
  | [a-zA-Z_] [a-zA-Z_0-9]* // TODO check: needs more chars in set
  ;
 
+NUMERIC
+ : DIGIT+
+ ;
+
 STRING_LITERAL
  : '\'' ( ~'\'' | '\'\'' )* '\''
  ;
 
-NUMERIC_LITERAL
- : DIGIT+ ( '.' DIGIT* )? ( E [-+]? DIGIT+ )?
- | '.' DIGIT+ ( E [-+]? DIGIT+ )?
+SPACES
+ : [ \u000B\t\r\n] -> channel(HIDDEN)
  ;
 
-UNEXPECTED_CHAR
+INVALID_TOKEN
  : .
  ;
 
