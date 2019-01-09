@@ -9,7 +9,7 @@
 grammar Moql;
 
 parse
- : ( moql_stmt_list /*| error*/ )+
+ : ( moql_stmt_list | error )+
  ;
 
 error
@@ -50,7 +50,7 @@ expr
  ;
 
 target_vm
- : any_name ':' NUMERIC
+ : NUMERIC '.' NUMERIC '.' NUMERIC '.' NUMERIC ':' NUMERIC
  ;
 
 class_name
