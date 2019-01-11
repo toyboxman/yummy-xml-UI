@@ -40,3 +40,25 @@ logger.setLevel(Level.OFF);
 #disable via log4j config
 -Dlog4j.configuration=file:C:\Users\me\log4j.xml
 ```
+
+### 3.filter output
+有时候希望自己控制console输出，可以实现System类的outputsteam
+```java
+#filter output including 'springframework'
+static class ConsoleOutputStream extends PrintStream {
+
+        public ConsoleOutputStream(OutputStream out) {
+            super(out);
+        }
+
+        @Override
+        public void write(byte[] buf, int off, int len) {
+            String output = new String(buf);
+            // disable spring template log
+            if (output.contains("springframework")) return;
+            super.write(buf, off, len);
+        }
+}
+
+System.setOut(new ConsoleOutputStream(System.out));
+```
