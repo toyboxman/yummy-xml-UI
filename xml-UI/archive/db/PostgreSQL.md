@@ -45,7 +45,8 @@ myDB=>
 # 指定SQL脚本来初始化数据库
 king@ubuntu:~/software$ psql -U king -f init_db_postgres.sql myDB
 
-# 列出当前用户表
+# 列出当前所有数据库用户
+# postgre支持tab键的自动补齐和提示，例如select某个表时候可以来补齐table名
 king@ubuntu:~/software$ sudo -u postgres psql
 [sudo] password for king: 
 psql (10.6 (Ubuntu 10.6-0ubuntu0.18.10.1))
