@@ -602,7 +602,7 @@ curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
 
 # 如果url中存在&字符 bash会当成linux后台运行命令解释，因此需要处理一下
 # 比如 api/v1/jobs/instances?jobId={}&page={}执行会失败 可以用curl参数
-# -G, --get  Send the -d data with a HTTP GET (H)
+# -G, --get  Put the post data in the URL and use GET 将-d参数放到url中
 curl -k -H "Accept: application/json" -G http://127.0.0.1:8080/api/v1/jobs/instances -d jobId=827 -d page=1
 ```
 
