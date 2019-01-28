@@ -4,7 +4,7 @@
 #### overleaf
 [***overleaf***](https://www.overleaf.com/project)是一个基于laTeX做文章排版的web编辑工具，提供很多类型paper的模板，例如ACM论文.
 * 1.图表
-<br>
+<br>样例图
 ![Image of Curve](https://cdn.sharelatex.com/learn-scripts/images/4/43/Pgfplots4.png)
 <br>
 可以参考[Usage of Plot](https://www.overleaf.com/learn/latex/Pgfplots_package)
