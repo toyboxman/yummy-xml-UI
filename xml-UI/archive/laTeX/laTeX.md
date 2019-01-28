@@ -1,6 +1,7 @@
 ### laTeX
 本质上讲，laTeX是提供meta数据编辑命令，然后编译生成目标格式文件如pdf，和MD(markdown language)类似。但是它包含丰富的公式，图表，
-第三方插件，因而在编辑论文方面异常强大。
+第三方插件，因而在编辑论文方面异常强大。<br>
+[***plain-vanilla grammar***](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 #### overleaf
 [***overleaf***](https://www.overleaf.com/project)是一个基于laTeX做文章排版的web编辑工具，提供很多类型paper的模板，例如ACM论文.
 * 1.图表<br>
@@ -61,3 +62,11 @@
 * 3.表格<br>
 ![Image of Table](https://cdn.sharelatex.com/learn-scripts/images/3/34/TablesEx12.png)<br>
 可以参考[***Usage of Table***](https://www.overleaf.com/learn/latex/Tables)
+
+* 4.颜色<br>
+![Image of Color](https://cdn.sharelatex.com/learn-scripts/images/6/60/ColoursEx3.png)<br>
+可以参考[***Usage of Table***](https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX)
+
+* 5.位置<br>
+![Image of Position](https://cdn.sharelatex.com/learn-scripts/images/7/75/InsertingImagesEx4.png)<br>
+可以参考[***Usage of Table***](https://www.overleaf.com/learn/latex/Inserting_Images)
