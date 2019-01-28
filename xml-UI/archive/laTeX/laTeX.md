@@ -2,10 +2,13 @@
 本质上讲，laTeX是提供meta数据编辑命令，然后编译生成目标格式文件如pdf，和MD(markdown language)类似。但是它包含丰富的公式，图表，
 第三方插件，因而在编辑论文方面异常强大。
 #### overleaf
-***[overleaf](https://www.overleaf.com/project)***是一个基于laTeX做文章排版的web编辑工具，提供很多类型paper的模板，例如ACM论文.
+[***overleaf***](https://www.overleaf.com/project)是一个基于laTeX做文章排版的web编辑工具，提供很多类型paper的模板，例如ACM论文.
 * 1.图表
+<br>
 ![Image of Curve](https://cdn.sharelatex.com/learn-scripts/images/4/43/Pgfplots4.png)
+<br>
 可以参考[Usage of Plot](https://www.overleaf.com/learn/latex/Pgfplots_package)
+<br>
 [Try It](https://www.sharelatex.com/project/new/template?zipUrl=/project/52e9d314f908c6363f001e44/download/zip&templateName=Data%20Plot%202d&compiler=pdflatex)
 
 * 2.
