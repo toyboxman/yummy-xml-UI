@@ -8,7 +8,7 @@
 可以参考[***Usage of Plot***](https://www.overleaf.com/learn/latex/Pgfplots_package)<br>
 在线试用[Try It](https://www.sharelatex.com/project/new/template?zipUrl=/project/52e9d314f908c6363f001e44/download/zip&templateName=Data%20Plot%202d&compiler=pdflatex)
 
-* 2.
-![Image of Formula](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Latex_example_text_formulas.png/600px-Latex_example_text_formulas.png)
-可以参考[Usage of Picture](https://www.overleaf.com/learn/latex/Picture_environment)
+* 2.画图<br>
+![Image of Formula](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Latex_example_text_formulas.png/600px-Latex_example_text_formulas.png)<br>
+可以参考[***Usage of Picture***](https://www.overleaf.com/learn/latex/Picture_environment)
 ```
