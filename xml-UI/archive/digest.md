@@ -21,8 +21,10 @@ curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POS
 
 ### go
 
+### interview
+https://www.journaldev.com/2366/core-java-interview-questions-and-answers
+
 ### hive
-https://stackoverflow.com/questions/10276584/hive-table-partition-with-column-in-the-middle
 
 ### superset
 https://superset.incubator.apache.org/
