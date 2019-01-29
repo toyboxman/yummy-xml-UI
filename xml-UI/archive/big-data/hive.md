@@ -16,7 +16,8 @@
 
 #### 使用
 - create a table with partitions from existing files on Hadoop
-Here is the sample:
+
+示例:
 
 分区表有四列(id INT, first_name STRING, date STRING, last_name STRING), 其中date是一个用来分区的列
 
@@ -26,7 +27,8 @@ Here is the sample:
 | 2 | Austin | 2012-02-22 | Powers |
 | ... | ... | ... | ... |
 
-创建分区表语句
+创建分区表语句：
+
 CREATE EXTERNAL TABLE my_table (id INT, first_name STRING, last_name STRING)
 PARTITIONED BY (date STRING)
 LOCATION '/usr/hive/warehouse/my_table';
