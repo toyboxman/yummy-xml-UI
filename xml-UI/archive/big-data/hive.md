@@ -15,6 +15,94 @@
 当查询hive tables或database, 查询请求会自动在hive service和hive server之间交互。需要创建新service或project，可以使用thrift protocols，此协议可以实现跨语言的web-service。
 
 #### 使用
+- **setup hive**
+
+下载[Hive](http://apache.claz.org/hive/)，解压到设定目录。Copy hive/conf/hive-default.xml.template to hive/conf/hive-site.xml修改以下配置属性。
+```
+   <property>
+     <name>hive.exec.local.scratchdir</name>
+-    <value>${system:java.io.tmpdir}/${system:user.name}</value>
++    <value>/apache/tmp/hive</value>
+     <description>Local scratch space for Hive jobs</description>
+   </property>
+   <property>
+     <name>hive.downloaded.resources.dir</name>
+-    <value>${system:java.io.tmpdir}/${hive.session.id}_resources</value>
++    <value>/apache/tmp/hive/${hive.session.id}_resources</value>
+     <description>Temporary local directory for added resources in the remote file system.</description>
+   </property>
+   <property>
+@@ -368,7 +368,7 @@
+   </property>
+   <property>
+     <name>hive.metastore.uris</name>
+-    <value/>
++    <value>thrift://127.0.0.1:9083</value>
+     <description>Thrift URI for the remote metastore. Used by metastore client to connect to remote metastore.</description>
+   </property>
+   <property>
+@@ -527,7 +527,7 @@
+   </property>
+   <property>
+     <name>javax.jdo.option.ConnectionPassword</name>
+-    <value>mine</value>
++    <value>secret</value>
+     <description>password to use against metastore database</description>
+   </property>
+   <property>
+@@ -542,7 +542,7 @@
+   </property>
+   <property>
+     <name>javax.jdo.option.ConnectionURL</name>
+-    <value>jdbc:derby:;databaseName=metastore_db;create=true</value>
++    <value>jdbc:postgresql://127.0.0.1/myDB?ssl=false</value>
+     <description>
+       JDBC connect string for a JDBC metastore.
+       To use SSL to encrypt/authenticate the connection, provide database-specific SSL flag in the connection URL.
+@@ -1017,7 +1017,7 @@
+   </property>
+   <property>
+     <name>javax.jdo.option.ConnectionDriverName</name>
+-    <value>org.apache.derby.jdbc.EmbeddedDriver</value>
++    <value>org.postgresql.Driver</value>
+     <description>Driver class name for a JDBC metastore</description>
+   </property>
+   <property>
+@@ -1042,7 +1042,7 @@
+   </property>
+   <property>
+     <name>javax.jdo.option.ConnectionUserName</name>
+-    <value>APP</value>
++    <value>king</value>
+     <description>Username to use against metastore database</description>
+   </property>
+   <property>
+@@ -1682,7 +1682,7 @@
+   </property>
+   <property>
+     <name>hive.querylog.location</name>
+-    <value>${system:java.io.tmpdir}/${system:user.name}</value>
++    <value>/apache/tmp/hive</value>
+     <description>Location of Hive run time structured log file</description>
+   </property>
+   <property>
+@@ -3973,7 +3973,7 @@
+   </property>
+   <property>
+     <name>hive.server2.logging.operation.log.location</name>
+-    <value>${system:java.io.tmpdir}/${system:user.name}/operation_logs</value>
++    <value>/apache/tmp/hive/operation_logs</value>
+     <description>Top level directory where operation logs are stored if logging functionality is enabled</description>
+   </property>
+   <property>
+```
+启动metastore service ：`/apache/hive/bin/hive --service metastore`
+
+登录hive CLI Client：`/apache/hive/bin/hive --database default`
+
+参考命令行文档[hive CLI]https://cwiki.apache.org/confluence/display/Hive/GettingStarted#GettingStarted-RunningHiveCLI, [CLI manual](
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Cli)
+
 - **create a table with partitions from existing files on Hadoop**
 
 示例:
