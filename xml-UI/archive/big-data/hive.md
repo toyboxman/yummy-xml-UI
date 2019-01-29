@@ -100,7 +100,9 @@
 
 登录hive CLI Client：`/apache/hive/bin/hive --database default`
 
-参考命令行文档[hive CLI]https://cwiki.apache.org/confluence/display/Hive/GettingStarted#GettingStarted-RunningHiveCLI, [CLI manual](
+CLI: hive> SHOW TABLES;
+
+参考命令行文档[hive CLI](https://cwiki.apache.org/confluence/display/Hive/GettingStarted#GettingStarted-RunningHiveCLI), [CLI manual](
 https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Cli)
 
 - **create a table with partitions from existing files on Hadoop**
