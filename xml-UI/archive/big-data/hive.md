@@ -29,21 +29,16 @@
 
 创建分区表语句：
 
-CREATE EXTERNAL TABLE my_table (id INT, first_name STRING, last_name STRING)
-PARTITIONED BY (date STRING)
-LOCATION '/usr/hive/warehouse/my_table';
+**CREATE EXTERNAL TABLE my_table (id INT, first_name STRING, last_name STRING) PARTITIONED BY (date STRING) LOCATION '/usr/hive/warehouse/my_table';**
 
-When you insert data into this table (via INSERT OVERWRITE command, say) and go check the HDFS location (/usr/hive/warehouse/my_table), you would find that the data is stored in directories; one directory per partition. The name of the directory would be something like dt=2012-01-01 or dt=2012-02-22. Inside these directories would be your actual data in whatever format you had selected it to be stored in. The partition column is not stored with this data; it is a virtual column that is deciphered from the partition directory your data is present in.
+当试图往表中插入数据(via INSERT OVERWRITE command)，并检查HDFS存储位置(/usr/hive/warehouse/my_table), 会发现数据存储在此目录中。一套分区数据一个目录，目录名类似date=2012-01-10 or date=2012-02-22，这些目录中包含所有你按选择目标格式存入的数据。分区列不与这些数据存储在一起，它是一个虚拟列，通过存储数据的分区目录来解析。
 
-Now let's get to your question. Since partitioning column is a virtual column, you can not put a partitioned Hive table on top of your data as it is (regardless of whether your to-be-partitioning column is present in the middle of the file or at the end). You need the appropriate directory structure to be present in HDFS for partitioning to work. You would want to create a staging table that is not partitioned.
+如果希望分区列也作为普通数据存储在文件目录中，你就需要staging table。
 
-CREATE EXTERNAL TABLE my_table_staging (id INT, fname STRING, dt STRING, lname STRING)
-LOCATION '/usr/hive/warehouse/my_table_staging';
+创建分区表语句：
 
-Then use this staging table as a source to populate your partitioned table using Dynamic partitioning. You can use a command like the one below for this:
+**CREATE EXTERNAL TABLE my_table_staging (id INT, first_name STRING, date STRING, last_name STRING) LOCATION '/usr/hive/warehouse/my_table_staging';**
 
-INSERT OVERWRITE TABLE my_table PARTITION (dt)
-SELECT id, fname, lname, dt FROM my_table_staging;
+使用staging table作为数据源，通过Dynamic partitioning来产生分区表。步骤就是从staging table读出数据insert到partitioned table, 同时创建HDFS上合适的存储目录。
 
-This command will read the data from your staging table and insert it into the partitioned table, creating the appropriate directory structure for you on the HDFS.
 
