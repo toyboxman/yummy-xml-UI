@@ -14,16 +14,21 @@
 - Usage:
 当查询hive tables或database, 查询请求会自动在hive service和hive server之间交互。需要创建新service或project，可以使用thrift protocols，此协议可以实现跨语言的web-service。
 
-create a table with partitions from existing files on Hadoop. The datevalue on which I need to partition is available in the files, but the datevalue column position is not last. It is in the middle. How can I create the table for the same?
+#### 使用
+- create a table with partitions from existing files on Hadoop
 Here is the sample:
 
-1  John    2012-01-10 Miller  
-2  Austin  2012-02-22 Powers
+分区表有四列(id INT, first_name STRING, date STRING, last_name STRING), 其中date是一个用来分区的列
 
- you want to have a partitioned hive table with three columns (id INT, fname STRING, dt STRING, lname STRING) where id, fname, lname are columns that store an integer id, string first name and a string last name respecitvely and dt is a partition column of type string that contains date in yyyy-MM-dd format. To create a table like this you would issue a command like:
+| id | first_name | date | last_name |
+| ---- | ------ | ------------------ | ------ |
+| 1 | John | 2012-01-10 | Miller |
+| 2 | Austin | 2012-02-22 | Powers |
+| ... | ... | ... | ... |
 
-CREATE EXTERNAL TABLE my_table (id INT, fname STRING, lname STRING)
-PARTITIONED BY (dt STRING)
+创建分区表语句
+CREATE EXTERNAL TABLE my_table (id INT, first_name STRING, last_name STRING)
+PARTITIONED BY (date STRING)
 LOCATION '/usr/hive/warehouse/my_table';
 
 When you insert data into this table (via INSERT OVERWRITE command, say) and go check the HDFS location (/usr/hive/warehouse/my_table), you would find that the data is stored in directories; one directory per partition. The name of the directory would be something like dt=2012-01-01 or dt=2012-02-22. Inside these directories would be your actual data in whatever format you had selected it to be stored in. The partition column is not stored with this data; it is a virtual column that is deciphered from the partition directory your data is present in.
