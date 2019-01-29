@@ -3,31 +3,16 @@
 
 #### 架构
 ![Image of Arch](https://cdn.intellipaat.com/blog/wp-content/uploads/2016/12/Architecture-of-Apache-Hive.jpg)<br>
-Hive metastore service将Hive tables和partitions这些metadata保存在关系数据库中, 并提供metastore service API来访问这些信息。metastore service有三种配置模式[embedded/local/remote](https://www.cloudera.com/documentation/enterprise/5-8-x/topics/cdh_ig_hive_metastore_configure.html)
+- HiveServer2(HS2)是让clients执行Hive查询的应用，是HiveServer1的替代，核心是Thrift-based Hive service。HS2支持multi-client并发和认证，与JDBC/ODBC集成更好。参看[HS2] (https://cwiki.apache.org/confluence/display/Hive/HiveServer2+Overview)
+- Hive Service就是运行于client node上的daemon进程，通过thrift protocols将查询发送到HS2
+- Hive metastore service将Hive tables和partitions这些metadata保存在关系数据库中, 并提供metastore service API来访问这些信息。metastore service有三种配置模式[embedded/local/remote](https://www.cloudera.com/documentation/enterprise/5-8-x/topics/cdh_ig_hive_metastore_configure.html)
+- Thrift是RPC framework用来构建cross-platform服务，其功能栈包括4层: Server, Transport, Protocol, and Processor. 细节可以参看[concepts](https://thrift.apache.org/docs/concepts)
 
 #### 部署
 ![Image of Arch](https://image.slidesharecdn.com/integrationofapachehiveandhbasefinal-120504182337-phpapp01/95/integration-of-hive-and-hbase-34-728.jpg?cb=1336156004)<br>
-HiveServer2(HS2) is a service that enables clients to execute queries against Hive. HiveServer2 is the successor to HiveServer1 which has been deprecated. HS2 supports multi-client concurrency and authentication. It is designed to provide better support for open API clients like JDBC and ODBC. You can find more details about hiveserver at https://cwiki.apache.org/confluence/display/Hive/HiveServer2+Overview
 
-Hive Service is nothing but daemon which runs on your client node which sends requests to Hive Server.
-
-Thrift is an RPC framework for building cross-platform services. Its stack consists of 4 layers: Server, Transport, Protocol, and Processor. You can find more details about the layers at https://thrift.apache.org/docs/concepts.
-
-Relation between all these:
-
-The Thrift-based Hive service is the core of HS2 and responsible for servicing the Hive queries (e.g., from Beeline). In simple terms Hive server is based on thrift protocols which sends queries from hive client i.e., your command line interface or from HUE interface to the underlying data which can be in your HDFS or any other data sources.
-
-
-Usage:
-
-When you query any hive tables or database, in background automatically your requests is transferred between hive service and hive server
-when you want to create your own service or project you can use thrift protocols which will help you in creating layers, think this as you are creating your user defined functions using libraries, so in that case libraries will be thrift.
-
-What is Apache Thrift: It is framework for scalable for cross-language service development.
-
-When we can use Apache Thrift: Developing web-service that uses service developed in one language access that is in another language.
-
-What is HiveServer : It is a service that allows a remote client to submit requests to hive. Using a variety of programming languages, and retrieve results.
+- Usage:
+当查询hive tables或database, 查询请求会自动在hive service和hive server之间交互。需要创建新service或project，可以使用thrift protocols，此协议可以实现跨语言的web-service。
 
 create a table with partitions from existing files on Hadoop. The datevalue on which I need to partition is available in the files, but the datevalue column position is not last. It is in the middle. How can I create the table for the same?
 Here is the sample:
