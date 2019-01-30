@@ -65,8 +65,8 @@
 
 * 4.颜色<br>
 ![Image of Color](https://cdn.sharelatex.com/learn-scripts/images/6/60/ColoursEx3.png)<br>
-可以参考[***Usage of Table***](https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX)
+可以参考[***Usage of Color***](https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX)
 
 * 5.位置<br>
 ![Image of Position](https://cdn.sharelatex.com/learn-scripts/images/7/75/InsertingImagesEx4.png)<br>
-可以参考[***Usage of Table***](https://www.overleaf.com/learn/latex/Inserting_Images)
+可以参考[***Usage of Image***](https://www.overleaf.com/learn/latex/Inserting_Images)
