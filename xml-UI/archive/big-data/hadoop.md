@@ -2,20 +2,21 @@
 [***Apache Hadoop***](https://en.wikipedia.org/wiki/Apache_Hadoop)是一套open-source的大数据工具集，通过利用网络计算机集群来进行大数据的计算工作，核心组件有storage被称为Hadoop Distributed File System (HDFS), 计算处理被称为MapReduce programming model。Hadoop把计算目标文件分割成多个block并分布于集群中节点上，然后将计算代码包上传到各个节点，在各个节点之上进行并行计算。这样做法学习了超算的架构，但相比超算需要利用高速网络和并行文件系统计算来说，基于本地数据计算会更加有效和快速。<br>
 Apache Hadoop framework由下面一些模块组成:
 
-    Hadoop Common – contains libraries and utilities needed by other Hadoop modules;
-    Hadoop Distributed File System (HDFS) – a distributed file-system that stores data on commodity machines, providing very high aggregate bandwidth across the cluster;
-    Hadoop YARN – introduced in 2012 is a platform responsible for managing computing resources in clusters and using them for scheduling users' applications;
-    Hadoop MapReduce – an implementation of the MapReduce programming model for large-scale data processing.
+    - Hadoop Common – contains libraries and utilities needed by other Hadoop modules
+    - Hadoop Distributed File System (HDFS) – a distributed file-system that stores data on commodity machines
+    - Hadoop YARN – a platform responsible for managing computing resources in clusters and using them for scheduling users' applications
+    - Hadoop MapReduce – an implementation of the MapReduce programming model for large-scale data processing.
 
 广义的Hadoop常常包含更多应用模块属于大数据生态系统，例如 Apache Pig, Apache Hive, Apache HBase, Apache Phoenix, Apache Spark, Apache ZooKeeper, Cloudera Impala, Apache Flume, Apache Sqoop, Apache Oozie, and Apache Storm 
 
-#### 架构
-![Image of Arch](https://cdn.intellipaat.com/blog/wp-content/uploads/2016/12/Architecture-of-Apache-Hive.jpg)<br>
-- HiveServer2(HS2)是让clients执行Hive查询的应用，是HiveServer1的替代，核心是Thrift-based Hive service。HS2支持multi-client并发和认证，与JDBC/ODBC集成更好。参看[HS2] (https://cwiki.apache.org/confluence/display/Hive/HiveServer2+Overview)
-- Hive Service就是运行于client node上的daemon进程，通过thrift protocols将查询发送到HS2
-- Hive metastore service将Hive tables和partitions这些metadata保存在关系数据库中, 并提供metastore service API来访问这些信息。metastore service有三种配置模式[embedded/local/remote](https://www.cloudera.com/documentation/enterprise/5-8-x/topics/cdh_ig_hive_metastore_configure.html)
-- Thrift是RPC framework用来构建cross-platform服务，其功能栈包括4层: Server, Transport, Protocol, and Processor. 细节可以参看[concepts](https://thrift.apache.org/docs/concepts)
+#### 生态系统
+![Image of Arch](https://c2programming.files.wordpress.com/2016/05/scaling-up-with-hadoop-and-banyan-hadoop-family.png)<br>
+- 完整的Hadoop系统包括了多个子系统组件，覆盖输入、输出、存储、查询、展示多种功能
+![Image of ecosystem](https://2.bp.blogspot.com/-w7KeAnwWnBQ/WfYBJzgtvQI/AAAAAAAAAMk/D58SpZfK7lkJ8QnKnQZW268mKzRvuOOnACLcBGAs/s1600/HadoopStack.png)<br>
+- 与更多第三方组件集成之后，整个[ecosystem](http://blog.newtechways.com/2017/10/apache-hadoop-ecosystem.html)更加丰富
+![Image of map](http://bigdataanalyticsnews.com/wp-content/uploads/2014/02/hadoop_map1.png)
 
+#### 架构
 #### 部署
 ![Image of Arch](https://image.slidesharecdn.com/integrationofapachehiveandhbasefinal-120504182337-phpapp01/95/integration-of-hive-and-hbase-34-728.jpg?cb=1336156004)<br>
 
