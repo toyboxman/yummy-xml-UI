@@ -15,7 +15,7 @@ Apache Hadoop framework由下面一些模块组成:
 - 与更多第三方组件集成之后，整个[ecosystem](http://blog.newtechways.com/2017/10/apache-hadoop-ecosystem.html)更加丰富
 ![Image of map](http://bigdataanalyticsnews.com/wp-content/uploads/2014/02/hadoop_map1.png)
 
-#### 架构
+#### 整体架构
 ![Image of Arch](https://opensource.com/sites/default/files/resize/images/life-uploads/hadoop-HighLevel_hadoop_architecture-640x460.png)<br>
 - 架构细节参看[描述](https://opensource.com/life/14/8/intro-apache-hadoop-big-data)
 - 简要教程参看[链接](https://data-flair.training/blogs/hadoop-tutorial/)
@@ -32,10 +32,18 @@ Apache Hadoop framework由下面一些模块组成:
 #### 内部组件
 ![Image of Arch](http://ownself.me/wp-content/uploads/hadoop-cluster-architecture-and-core-components-5b12311e509c1.jpg)<br>
 
+#### YARN架构
+![Image of yarn](https://i.ytimg.com/vi/ZFbkNY6Xn94/maxresdefault.jpg)<br>
+![Image of yarn](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/yarn_architecture.gif)<br>
+![Image of yarn](https://image.slidesharecdn.com/t-525p-230c-kambatla-140617151032-phpapp01/95/yarn-high-availability-3-638.jpg?cb=1403018043)<br>
+NodeManager (NM)是运行在YARN节点上的agent, 负责管理本地的计算节点，包括与ResourceManager (RM)同步, containers生命周期管理 ，监控容器物理资源使用(memory, CPU), 节点健康状态, 日志管理和维系与其他YARN applications之间通讯的auxiliary services。
+
+ResourceManager (RM)是管理节点，负责所有集群资源间仲裁，管理运行于YARN system之上的分布式应用。RM需要与管理计算节点的NodeManagers (NMs) 和管理应用的ApplicationMasters (AMs)协同工作。NM从RM上获取指令调度节点上可用资源，AM与ResourceManager协商资源并与NM协作启动containers.
+
 #### 使用
 - **命令行**
 
-![Image of Arch](https://s3.amazonaws.com/files.dezyre.com/images/Tutorials/Hadoop+Online+Tutorial+%E2%80%93+Hadoop+HDFS+Commands+Guide/Hadoop+HDFS+Commands+Tutorial.png)<br>
+![Image of cmd](https://s3.amazonaws.com/files.dezyre.com/images/Tutorials/Hadoop+Online+Tutorial+%E2%80%93+Hadoop+HDFS+Commands+Guide/Hadoop+HDFS+Commands+Tutorial.png)<br>
 基本命令可以参考[链接](https://www.dezyre.com/hadoop-tutorial/hadoop-hdfs-commands)
 
 
