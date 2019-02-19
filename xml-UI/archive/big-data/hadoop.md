@@ -19,6 +19,7 @@ Apache Hadoop framework由下面一些模块组成:
 ![Image of Arch](https://opensource.com/sites/default/files/resize/images/life-uploads/hadoop-HighLevel_hadoop_architecture-640x460.png)<br>
 - 架构细节参看[描述](https://opensource.com/life/14/8/intro-apache-hadoop-big-data)
 - 简要教程参看[链接](https://data-flair.training/blogs/hadoop-tutorial/)
+
 ![Image of Arch](http://www.devx.com/imagesvr_ce/6661/HDFS%20Architecture.png)<br>
 ![Image of Arch](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2017/07/hadoop-hdfs-architecture-1.jpg)<br>
 ![Image of Arch](https://www.researchgate.net/profile/Kamal_Al-Barznji/publication/321808354/figure/fig1/AS:571574165217285@1513285308576/Hadoop-Framework-211-HDFS-Hadoop-Distributed-File-System-HDFS-stands-for-Hadoop.png)<br>
