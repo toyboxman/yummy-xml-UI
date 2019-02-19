@@ -34,6 +34,7 @@ Apache Hadoop framework由下面一些模块组成:
 
 #### 使用
 - **命令行**
+
 ![Image of Arch](https://s3.amazonaws.com/files.dezyre.com/images/Tutorials/Hadoop+Online+Tutorial+%E2%80%93+Hadoop+HDFS+Commands+Guide/Hadoop+HDFS+Commands+Tutorial.png)<br>
 基本命令可以参考[链接](https://www.dezyre.com/hadoop-tutorial/hadoop-hdfs-commands)
 
