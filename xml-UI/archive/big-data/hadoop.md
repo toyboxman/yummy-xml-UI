@@ -22,14 +22,15 @@ Apache Hadoop framework由下面一些模块组成:
 
 ![Image of Arch](http://www.devx.com/imagesvr_ce/6661/HDFS%20Architecture.png)<br>
 ![Image of Arch](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2017/07/hadoop-hdfs-architecture-1.jpg)<br>
-![Image of Arch](https://www.researchgate.net/profile/Kamal_Al-Barznji/publication/321808354/figure/fig1/AS:571574165217285@1513285308576/Hadoop-Framework-211-HDFS-Hadoop-Distributed-File-System-HDFS-stands-for-Hadoop.png)<br>
+
+#### MapReduce
+![Image of mr](https://www.researchgate.net/profile/Kamal_Al-Barznji/publication/321808354/figure/fig1/AS:571574165217285@1513285308576/Hadoop-Framework-211-HDFS-Hadoop-Distributed-File-System-HDFS-stands-for-Hadoop.png)<br>
+![Image of mr](https://www.researchgate.net/profile/Ok-Kyoon_Ha/publication/270672980/figure/fig6/AS:328313378754574@1455287417640/Works-of-MapReduce-in-the-Hadoop-framework.png)<br>
+![Image of mr](http://3.bp.blogspot.com/-FW44i28u6Ak/VRBpIoytlDI/AAAAAAAABxc/X37UT2XNmCw/s1600/CAYwTFFVEAE2onl.png-large.png)<br>
+![Image of mr](https://rbpaonline.com/wp-content/uploads/2018/09/hadoop-map-reduce-architecture-example-728x543.jpg)<br>
+
+#### 内部组件
 ![Image of Arch](http://ownself.me/wp-content/uploads/hadoop-cluster-architecture-and-core-components-5b12311e509c1.jpg)<br>
-
-#### 部署
-![Image of Arch](https://image.slidesharecdn.com/integrationofapachehiveandhbasefinal-120504182337-phpapp01/95/integration-of-hive-and-hbase-34-728.jpg?cb=1336156004)<br>
-
-- Usage:
-当查询hive tables或database, 查询请求会自动在hive service和hive server之间交互。需要创建新service或project，可以使用thrift protocols，此协议可以实现跨语言的web-service。
 
 #### 使用
 - **命令行**
