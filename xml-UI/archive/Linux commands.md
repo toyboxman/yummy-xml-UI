@@ -77,7 +77,7 @@
 - [Network Configuration](#network-config)
     - [Firewall](#iptablesfirewall)
 	- [NC](#nc)
-	- [Ping](#nc)
+	- [Ping](#pingarping)
     - [Dhclient](#dhclient)
     - [Route](#route)
 - [Shell Programming](#shell-programming)
@@ -981,7 +981,7 @@ nc -zv -w 5 10.192.120.124 1235
 nc: connect to 10.192.120.124 port 1235 (tcp) timed out: Operation now in progress
 ```
 
-#### ping/arping/route
+#### ping/arping
 traffic check
 ```bash
 # set L3 ping packet from port to other  using ICMP
