@@ -78,6 +78,7 @@
     - [Firewall](#iptablesfirewall)
     - [NC](#nc)
     - [Ping](#pingarping)
+    - [Nmap](#namp)
     - [Tcpdump](#tcpdump)
     - [Dhclient](#dhclient)
     - [Route](#route)
@@ -868,195 +869,6 @@ ifconfig br0
 ip addr show br0
 ```
 
-#### iptables/firewall
-> [Basic](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
-> [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
-> [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
-```bash
-# 列出防火墙所有规则，按规则号显示
-# --list/-L  List all the rules
-sudo iptables -L --line-numbers  
-# List INPUT chain rules
-sudo iptables -L INPUT --line-numbers  
-
-# 删除INPUT表的第三条规则
-# --delete/-D  Delete the third rule in INPUT chain
-sudo iptables -D INPUT 3 
-
-# CentOS iptables 打开端口3306 
-# --insert/-I 表示插入INPUT表头
-# --append/-A 表示追加INPUT表尾
-# --protocol/-p 表示规则目标协议
-# --dport 表示规则目标端口
-# --jump/-j <target>, target are [ACCEPT/DROP/REJECT/LOG/CLASSIFY/DNAT...]
-iptables -I INPUT -p tcp --dport 3306 -j ACCEPT 
-# 把8081端口规则添加INPUT表尾
-iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
-
-# Allow local-only connections
-# --in-interface/-i  network interface name
-iptables -A INPUT -i lo -j ACCEPT
-
-# 保存iptables修改
-service iptables save 
-service iptables status  
-/etc/init.d/iptables status
-
-# 限制连接到80端口的同一个ip的最大连接数小于15,超过则拒绝
-# --match/-m 扩展匹配条件[MAC/Owner/Mark/Limit...]
-# --connlimit-above <n> Match if the number of existing connections is above n
-# --connlimit-mask <prefix_length> 网段限制,对于IPv4前缀0-32,对于IPv6前缀0-128,默认使用协议对应最大前缀长度
-# --reject-with tcp-reset 告诉REJECT发送一个TCP RST packet
-# --syn SYN packet是建立TCP连接请求的第一个初始报文，如果希望远端到本地端口建立连接，需要允许此报文。
-# -m state --state NEW 指定状态和SYN等同效果，但可以支持TCP/UDP/ICMP
-iptables -A INPUT -p tcp --syn --dport 80 -m connlimit \
---connlimit-above 15 --connlimit-mask 32 -j REJECT --reject-with tcp-reset 
-
-# 设定在最大每秒150个新连接报文到限之前，可以最大允许实际160个新连接请求报文
-# --limit rate[/second|/minute|/hour|/day] 最大平均初始连接报文速率，默认 3/hour
-# --limit-burst 最大初始连接报文数，此配置只有在上面连接率未超标时生效，默认是5
-iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit \
---limit 150/second --limit-burst 160 -j ACCEPT
-
-# 创建一个chain 命名MY_CHAIN
-iptables -N MY_CHAIN
-# 设定日志格式,进入MY_CHAIN处理的packet,日志输出到syslog 然后拒掉.返回icmp port不可达
-iptables -A MY_CHAIN -j LOG --log-prefix "XXXXX: " --log-level warning                 
-# 默认REJECT返回发起方icmp-port-unreachable,如果防止网络攻击可以用DROP
-# DROP丢弃报文不回复,发送方只能等待超时.对于TCP,足够长超时可以防止频繁发起连接
-iptables -A MY_CHAIN -j REJECT 
-# LOG target满足条件还能继续执行后面规则
-# ACCEPT/REJECT/DROP 满足条件就不会执行其他target
-iptables -L MY_CHAIN --line-numbers
-Chain LOG_DROP (1 references)
-num  target     prot opt source               destination         
-1    LOG        all  --  anywhere             anywhere             LOG level warning prefix "XXXXX: "
-2    REJECT     all  --  anywhere             anywhere             reject-with icmp-port-unreachable
-
-# 先设定一个IP地址源只允许一个ssh连接 否则 jump入MY_CHAIN
-# 然后设定允许anywhere发起的ssh连接
-# 限定规则要放前面,否则满足ACCEPT,不会再jump其他target
-iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
---state NEW,ESTABLISHED -m connlimit --connlimit-above 2 -j MY_CHAIN
-iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
---state NEW,ESTABLISHED ACCEPT
-
-# 再次ssh到目标机器 连接被拒
-ssh root@10.192.120.124
-ssh: connect to host 10.192.120.124 port 22: Connection refused
-# 按设定前缀搜寻日志
-grep -r 'XXXXX:' /var/log
-/var/log/syslog: ... kernel - - - [771409.900044] XXXXX: 
-IN=eth0 
-OUT= MAC=02:00:2e:5c:29:4b:8c:60:4f:b7:6e:7c:08:00 
-SRC=10.117.5.175 
-DST=10.192.120.124 
-LEN=72 
-TOS=0x00 
-PREC=0x00 
-TTL=52 
-ID=59711 
-PROTO=TCP 
-SPT=55614 
-DPT=22 
-WINDOW=16384 
-RES=0x00 
-SYN URGP=0
-```
-
-#### nc
-check remote port status
-```bash
-# check Range of ports
-nc -zv 127.0.0.1 20-30  
-
-# check three ports 22/80/8080
-nc -zv 127.0.0.1 22 80 8080 
-
-# -z just scan for listening daemons, without sending any data to them
-nc -zv 10.117.7.110 9092
-Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
-
-# -w 设定连接超时5秒
-nc -zv -w 5 10.192.120.124 1235
-nc: connect to 10.192.120.124 port 1235 (tcp) timed out: Operation now in progress
-```
-
-#### ping/arping
-traffic check
-```bash
-# set L3 ping packet from port to other  using ICMP
-ping -I port1 192.168.2.10   
-# set L2 ping using ARP
-arping -I p1 192.168.139.140  
-
-traceroute 172.18.0.1
-
-route
-# add gateway 'route add default gw {IP-ADDRESS} {INTERFACE-NAME}'
-route add default gw 192.168.1.254 eth0 
-route add -net 172.18.0.0 netmask 255.255.0.0  dev eth1
-route add -net 172.19.0.0 netmask 255.255.0.0  dev eth1
-# show routing table
-ip route show   
-ip route add 192.168.1.0/24 dev eth0
-ip route add 192.168.1.0/24 via 192.168.1.254
-# show arp table and Flags 0x0 and HW address of 00:00:00:00:00:00 mean it is a failed ARP.
-cat /proc/net/arp  
-```
-
-#### tcpdump
-> [Link](https://danielmiessler.com/study/tcpdump/#examples)
-```bash
-# show all interfaces
-tcpdump -D  
-# capture packet from port p1
-tcpdump -vvv -i p1    
-# listen src&dest host packet, -A (ascii)  -vvv (the most detailed verbose output)
-tcpdump -A -vvv -n host hostname    
-# dump record into capture.cap file, using wireshark to watch text content
-tcpdump -v -w capture.cap     
-# read pcap file
-tcpdump -tttt -r data.pcap        
-# listen eth0 , listen all interfaces
-tcpdump -i eth0  tcpdump -i any  
-# listen dest/src/all ipaddress
-tcpdump -n dst net 192.168.1.0/24  
-tcpdump -n src net 192.168.1.0/24  
-tcpdump -n net 192.168.1.0/24 
-
-
-# -c 20: Exit after capturing 20 packets.
-# -s 0: Don't limit the amount of payload data that is printed out. Print it all.
-# -i eth1: Capture packets on interface eth1
-# -A: Print packets in ASCII.
-# host 192.168.1.1: Only capture packets coming to or from 192.168.1.1.
-# and tcp port http: Only capture HTTP packets.
-tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
-```
-* nmap
-```bash
-nmap -O -sS localhost
-# scan current host network information and produce a map to describe
-nmap -v -A localhost    
-PORT    STATE SERVICE VERSION
-22/tcp  open  ssh     OpenSSH 6.6.1 (protocol 2.0)
-| ssh-hostkey:
-|   1024 60:fc:ec:f6:a9:74:eb:07:94:7d:34:c9:27:6f:40:31 (DSA)
-|   2048 ce:c3:e9:60:1f:9c:75:94:62:ca:a3:e9:a4:68:e4:77 (RSA)
-|_  256 94:bc:b2:16:e8:07:04:b2:2f:c1:f8:2e:10:5d:02:88 (ECDSA)
-25/tcp  open  smtp    Postfix smtpd
-|_smtp-commands: Suse-leap.eng.vmware.com, PIPELINING, SIZE, ETRN, ENHANCEDSTATUSCODES, 8BITMIME, DSN,
-631/tcp open  ipp     CUPS 1.7
-| http-methods: GET HEAD OPTIONS POST PUT
-| Potentially risky methods: PUT
-|_See http://nmap.org/nsedoc/scripts/http-methods.html
-| http-robots.txt: 1 disallowed entry
-|_/
-|_http-title: Home - CUPS 1.7.5
-Service Info: Host: Suse-leap.example.com
-```
-
 ---
 
 ### TXT operation 
@@ -1714,20 +1526,209 @@ sh test.sh 1 2 '3 4'
 ---
 
 ### Network Config
+#### iptables/firewall
+> [Basic](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
+> [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
+> [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
+```bash
+# 列出防火墙所有规则，按规则号显示
+# --list/-L  List all the rules
+sudo iptables -L --line-numbers  
+# List INPUT chain rules
+sudo iptables -L INPUT --line-numbers  
+
+# 删除INPUT表的第三条规则
+# --delete/-D  Delete the third rule in INPUT chain
+sudo iptables -D INPUT 3 
+
+# CentOS iptables 打开端口3306 
+# --insert/-I 表示插入INPUT表头
+# --append/-A 表示追加INPUT表尾
+# --protocol/-p 表示规则目标协议
+# --dport 表示规则目标端口
+# --jump/-j <target>, target are [ACCEPT/DROP/REJECT/LOG/CLASSIFY/DNAT...]
+iptables -I INPUT -p tcp --dport 3306 -j ACCEPT 
+# 把8081端口规则添加INPUT表尾
+iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
+
+# Allow local-only connections
+# --in-interface/-i  network interface name
+iptables -A INPUT -i lo -j ACCEPT
+
+# 保存iptables修改
+service iptables save 
+service iptables status  
+/etc/init.d/iptables status
+
+# 限制连接到80端口的同一个ip的最大连接数小于15,超过则拒绝
+# --match/-m 扩展匹配条件[MAC/Owner/Mark/Limit...]
+# --connlimit-above <n> Match if the number of existing connections is above n
+# --connlimit-mask <prefix_length> 网段限制,对于IPv4前缀0-32,对于IPv6前缀0-128,默认使用协议对应最大前缀长度
+# --reject-with tcp-reset 告诉REJECT发送一个TCP RST packet
+# --syn SYN packet是建立TCP连接请求的第一个初始报文，如果希望远端到本地端口建立连接，需要允许此报文。
+# -m state --state NEW 指定状态和SYN等同效果，但可以支持TCP/UDP/ICMP
+iptables -A INPUT -p tcp --syn --dport 80 -m connlimit \
+--connlimit-above 15 --connlimit-mask 32 -j REJECT --reject-with tcp-reset 
+
+# 设定在最大每秒150个新连接报文到限之前，可以最大允许实际160个新连接请求报文
+# --limit rate[/second|/minute|/hour|/day] 最大平均初始连接报文速率，默认 3/hour
+# --limit-burst 最大初始连接报文数，此配置只有在上面连接率未超标时生效，默认是5
+iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit \
+--limit 150/second --limit-burst 160 -j ACCEPT
+
+# 创建一个chain 命名MY_CHAIN
+iptables -N MY_CHAIN
+# 设定日志格式,进入MY_CHAIN处理的packet,日志输出到syslog 然后拒掉.返回icmp port不可达
+iptables -A MY_CHAIN -j LOG --log-prefix "XXXXX: " --log-level warning                 
+# 默认REJECT返回发起方icmp-port-unreachable,如果防止网络攻击可以用DROP
+# DROP丢弃报文不回复,发送方只能等待超时.对于TCP,足够长超时可以防止频繁发起连接
+iptables -A MY_CHAIN -j REJECT 
+# LOG target满足条件还能继续执行后面规则
+# ACCEPT/REJECT/DROP 满足条件就不会执行其他target
+iptables -L MY_CHAIN --line-numbers
+Chain LOG_DROP (1 references)
+num  target     prot opt source               destination         
+1    LOG        all  --  anywhere             anywhere             LOG level warning prefix "XXXXX: "
+2    REJECT     all  --  anywhere             anywhere             reject-with icmp-port-unreachable
+
+# 先设定一个IP地址源只允许一个ssh连接 否则 jump入MY_CHAIN
+# 然后设定允许anywhere发起的ssh连接
+# 限定规则要放前面,否则满足ACCEPT,不会再jump其他target
+iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
+--state NEW,ESTABLISHED -m connlimit --connlimit-above 2 -j MY_CHAIN
+iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
+--state NEW,ESTABLISHED ACCEPT
+
+# 再次ssh到目标机器 连接被拒
+ssh root@10.192.120.124
+ssh: connect to host 10.192.120.124 port 22: Connection refused
+# 按设定前缀搜寻日志
+grep -r 'XXXXX:' /var/log
+/var/log/syslog: ... kernel - - - [771409.900044] XXXXX: 
+IN=eth0 
+OUT= MAC=02:00:2e:5c:29:4b:8c:60:4f:b7:6e:7c:08:00 
+SRC=10.117.5.175 
+DST=10.192.120.124 
+LEN=72 
+TOS=0x00 
+PREC=0x00 
+TTL=52 
+ID=59711 
+PROTO=TCP 
+SPT=55614 
+DPT=22 
+WINDOW=16384 
+RES=0x00 
+SYN URGP=0
+```
+
+#### nc
+check remote port status
+```bash
+# check Range of ports
+nc -zv 127.0.0.1 20-30  
+
+# check three ports 22/80/8080
+nc -zv 127.0.0.1 22 80 8080 
+
+# -z just scan for listening daemons, without sending any data to them
+nc -zv 10.117.7.110 9092
+Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
+
+# -w 设定连接超时5秒
+nc -zv -w 5 10.192.120.124 1235
+nc: connect to 10.192.120.124 port 1235 (tcp) timed out: Operation now in progress
+```
+
+#### ping/arping
+traffic check
+```bash
+# set L3 ping packet from port to other  using ICMP
+ping -I port1 192.168.2.10   
+# set L2 ping using ARP
+arping -I p1 192.168.139.140  
+
+# show arp table and Flags 0x0 and HW address of 00:00:00:00:00:00 mean it is a failed ARP.
+cat /proc/net/arp  
+```
+
+#### tcpdump
+> [Link](https://danielmiessler.com/study/tcpdump/#examples)
+```bash
+# show all interfaces
+tcpdump -D  
+# capture packet from port p1
+tcpdump -vvv -i p1    
+# listen src&dest host packet, -A (ascii)  -vvv (the most detailed verbose output)
+tcpdump -A -vvv -n host hostname    
+# dump record into capture.cap file, using wireshark to watch text content
+tcpdump -v -w capture.cap     
+# read pcap file
+tcpdump -tttt -r data.pcap        
+# listen eth0 , listen all interfaces
+tcpdump -i eth0  tcpdump -i any  
+# listen dest/src/all ipaddress
+tcpdump -n dst net 192.168.1.0/24  
+tcpdump -n src net 192.168.1.0/24  
+tcpdump -n net 192.168.1.0/24 
+
+
+# -c 20: Exit after capturing 20 packets.
+# -s 0: Don't limit the amount of payload data that is printed out. Print it all.
+# -i eth1: Capture packets on interface eth1
+# -A: Print packets in ASCII.
+# host 192.168.1.1: Only capture packets coming to or from 192.168.1.1.
+# and tcp port http: Only capture HTTP packets.
+tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
+```
+#### nmap
+```bash
+nmap -O -sS localhost
+# scan current host network information and produce a map to describe
+nmap -v -A localhost    
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     OpenSSH 6.6.1 (protocol 2.0)
+| ssh-hostkey:
+|   1024 60:fc:ec:f6:a9:74:eb:07:94:7d:34:c9:27:6f:40:31 (DSA)
+|   2048 ce:c3:e9:60:1f:9c:75:94:62:ca:a3:e9:a4:68:e4:77 (RSA)
+|_  256 94:bc:b2:16:e8:07:04:b2:2f:c1:f8:2e:10:5d:02:88 (ECDSA)
+25/tcp  open  smtp    Postfix smtpd
+|_smtp-commands: Suse-leap.eng.vmware.com, PIPELINING, SIZE, ETRN, ENHANCEDSTATUSCODES, 8BITMIME, DSN,
+631/tcp open  ipp     CUPS 1.7
+| http-methods: GET HEAD OPTIONS POST PUT
+| Potentially risky methods: PUT
+|_See http://nmap.org/nsedoc/scripts/http-methods.html
+| http-robots.txt: 1 disallowed entry
+|_/
+|_http-title: Home - CUPS 1.7.5
+Service Info: Host: Suse-leap.example.com
+```
+
 #### dhclient
 ```bash
 # set eth0 ip address via dhcp
-dhclient eth0
+$ dhclient eth0
 ```
 
 #### route
 ```bash
 # show routing table
+$ ip route show  
 $ route -n
 Kernel IP routing table
 Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 0.0.0.0         10.117.7.253    0.0.0.0         UG    0      0        0 eth0
 10.117.4.0      0.0.0.0         255.255.252.0   U     0      0        0 eth0
+
+# add gateway 'route add default gw {IP-ADDRESS} {INTERFACE-NAME}'
+$ ip route add 192.168.1.0/24 dev eth0
+$ ip route add 192.168.1.0/24 via 192.168.1.254
+$ route add default gw 192.168.1.254 eth0 
+$ route add -net 172.18.0.0 netmask 255.255.0.0  dev eth1
+$ route add -net 172.19.0.0 netmask 255.255.0.0  dev eth1
+
+# show trace route
+$ traceroute 172.18.0.1
 ```
 
 ---
