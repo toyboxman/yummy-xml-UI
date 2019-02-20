@@ -42,7 +42,6 @@
     - [Env](#env)
     - [Find](#find)
     - [File](#file)
-    - [Firewall](#iptablesfirewall)
     - [Grep](#search-txt)
 	- [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
@@ -76,6 +75,9 @@
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Network Configuration](#network-config)
+    - [Firewall](#iptablesfirewall)
+	- [NC](#nc)
+	- [Ping](#nc)
     - [Dhclient](#dhclient)
     - [Route](#route)
 - [Shell Programming](#shell-programming)
@@ -961,7 +963,8 @@ RES=0x00
 SYN URGP=0
 ```
 
-* check remote port status
+#### nc
+check remote port status
 ```bash
 # check Range of ports
 nc -zv 127.0.0.1 20-30  
@@ -977,7 +980,9 @@ Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
 nc -zv -w 5 10.192.120.124 1235
 nc: connect to 10.192.120.124 port 1235 (tcp) timed out: Operation now in progress
 ```
-* traffic check
+
+#### ping/arping/route
+traffic check
 ```bash
 # set L3 ping packet from port to other  using ICMP
 ping -I port1 192.168.2.10   
@@ -998,6 +1003,7 @@ ip route add 192.168.1.0/24 via 192.168.1.254
 # show arp table and Flags 0x0 and HW address of 00:00:00:00:00:00 mean it is a failed ARP.
 cat /proc/net/arp  
 ```
+
 * tcpdump
 > [Link](https://danielmiessler.com/study/tcpdump/#examples)
 ```bash
