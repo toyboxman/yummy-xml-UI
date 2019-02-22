@@ -46,5 +46,23 @@ ResourceManager (RM)ÊÇ¹ÜÀí½Úµã£¬¸ºÔğËùÓĞ¼¯Èº×ÊÔ´¼äÖÙ²Ã£¬¹ÜÀíÔËĞĞÓÚYARN systemÖ®É
 ![Image of cmd](https://s3.amazonaws.com/files.dezyre.com/images/Tutorials/Hadoop+Online+Tutorial+%E2%80%93+Hadoop+HDFS+Commands+Guide/Hadoop+HDFS+Commands+Tutorial.png)<br>
 »ù±¾ÃüÁî¿ÉÒÔ²Î¿¼[Á´½Ó](https://www.dezyre.com/hadoop-tutorial/hadoop-hdfs-commands)
 
+* **start/stop hadoop nodes**
+```bash
+# format name node
+# NOTE: ¸ñÊ½»¯namenodeÊ±ºòÈç¹ûÖ®Ç°ÒÑ¾­´æÔÚdatanode£¬¸ñÊ½»¯Ö®ºó¿ÉÄÜ»áÔì³É
+# ¶şÕßµÄVERSIONÎÄ¼şÖĞµÄcluster ID²»Ò»ÖÂ£¬ĞèÒªÊÖ¶¯ĞŞ¸ÄDataNodeµÄÖµ
+# ÓënamenodeµÄ±£³ÖÒ»ÖÂ¡£·ñÕßdata nodeÆô¶¯½«»áÊ§°Ü¡£
+/apache/hadoop/bin/hdfs namenode -format
+# Æô¶¯ËùÓĞ½Úµã
+# NOTE: Æô¶¯Ö®ºóÓÃ 'ps -ef|grep java' ¼ì²éÊÇ·ñnamenode/secondary namenode/datanodeÈ«²¿³É¹¦
+# ÈÎºÎÆô¶¯´íÎó¿ÉÒÔ´Ó/apache/hadoop/logs/ÖĞ²é¿´ÈÕÖ¾
+/apache/hadoop/sbin/start-dfs.sh
+# Í£Ö¹ËùÓĞ½Úµã
+/apache/hadoop/sbin/stop-dfs.sh
+```
+³É¹¦Æô¶¯Ö®ºó¿ÉÒÔÍ¨¹ıhttp://127.0.0.1:50070/ ²é¿´name-nodeĞÅÏ¢£¬¸ü¶à[¶Ë¿ÚĞÅÏ¢](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_reference/content/hdfs-ports.html)
+
+ÔÚHDFSÉÏ´´½¨Ä¿Â¼ `bin/hadoop dfs -mkdir /foodir` , ¸ü¶à[ÃüÁî](https://hadoop.apache.org/docs/current1/hdfs_design.html)
+
 
 

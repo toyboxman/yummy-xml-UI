@@ -98,12 +98,16 @@
 ```
 启动metastore service ：`/apache/hive/bin/hive --service metastore`
 
-登录hive CLI Client：`/apache/hive/bin/hive --database default`
+登录hive CLI Client：`/apache/hive/bin/hive` or `/apache/hive/bin/hive --database default`
 
 CLI: hive> SHOW TABLES;
 
 参考命令行文档[hive CLI](https://cwiki.apache.org/confluence/display/Hive/GettingStarted#GettingStarted-RunningHiveCLI), [CLI manual](
 https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Cli)
+
+hive> select * from table;
+
+Hive SQL 语法可以参考[hive SQL](https://hortonworks.com/blog/hive-cheat-sheet-for-sql-users/)
 
 - **create a table with partitions from existing files on Hadoop**
 
@@ -131,4 +135,5 @@ https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Cli)
 
 使用staging table作为数据源，通过Dynamic partitioning来产生分区表。步骤就是从staging table读出数据insert到partitioned table, 同时创建HDFS上合适的存储目录。
 
+Hive服务的端口信息可查看[端口表](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_reference/content/hive-ports.html)
 
