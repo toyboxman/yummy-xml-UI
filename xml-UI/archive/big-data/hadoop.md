@@ -62,7 +62,10 @@ ResourceManager (RM)ÊÇ¹ÜÀí½Úµã£¬¸ºÔğËùÓĞ¼¯Èº×ÊÔ´¼äÖÙ²Ã£¬¹ÜÀíÔËĞĞÓÚYARN systemÖ®É
 ```
 ³É¹¦Æô¶¯Ö®ºó¿ÉÒÔÍ¨¹ıhttp://127.0.0.1:50070/ ²é¿´name-nodeĞÅÏ¢£¬¸ü¶à[¶Ë¿ÚĞÅÏ¢](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_reference/content/hdfs-ports.html)
 
-ÔÚHDFSÉÏ´´½¨Ä¿Â¼ `bin/hadoop dfs -mkdir /foodir` , ¸ü¶à[ÃüÁî](https://hadoop.apache.org/docs/current1/hdfs_design.html)
+»¹¿ÉÒÔÍ¨¹ı http://127.0.0.1:8088/cluster À´²é¿´hadoop cluster, hadoop daemonsÍ¨¹ıHTTPĞ­Òé
+ÀıÈç http://127.0.0.1:8088/stacks ±©Â¶¸ü¶àÄÚ²¿ĞÅÏ¢. ¿É²ÎÔÄ[blog](https://blog.cloudera.com/blog/2009/08/hadoop-default-ports-quick-reference/)
 
+
+ÔÚHDFSÉÏ´´½¨Ä¿Â¼ `bin/hadoop dfs -mkdir /foodir` , ¸ü¶à[ÃüÁî](https://hadoop.apache.org/docs/current1/hdfs_design.html)
 
 
