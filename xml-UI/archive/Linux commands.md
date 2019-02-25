@@ -704,6 +704,12 @@ dos2unix file
 ln ./java   /home/root 
 # link java to folder /home, just like shortcut of windows
 ln -s ./java  /home/ 
+
+# link a folder to another path
+# symbolic link software folder to /apache folder
+sudo ln -s /home/king/software /apache
+# and then link /home/king/software/data to /data folder
+sudo ln -s /apache/data /data
 ```
 
 #### mount/umount
