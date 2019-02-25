@@ -97,6 +97,15 @@ controller_list = []
 for ctl in ctlist["controllers"]:
     controller_list.append(ctlist["id"])
 ```
+### timestamp
+```python
+import time
+# get current time
+ts = time.time()
+# print("timestamp:" + ts) will throw exception that float type
+# cannot support + with string
+print("timestamp:" + str(ts))
+```
 
 ## Python CLI
 - **show version**
