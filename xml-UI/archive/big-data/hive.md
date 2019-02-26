@@ -109,6 +109,8 @@ hive> select * from table;
 
 Hive SQL 语法可以参考[hive SQL](https://hortonworks.com/blog/hive-cheat-sheet-for-sql-users/)
 
+Hive JDBC 访问与对应SQL参考 [DDL](https://www.tutorialspoint.com/hive/hive_drop_table.htm)
+
 - **create a table with partitions from existing files on Hadoop**
 
 示例:
