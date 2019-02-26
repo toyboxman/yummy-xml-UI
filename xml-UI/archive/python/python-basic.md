@@ -89,7 +89,9 @@ if a > b or a > c:
     ```
 
 ## Text Processing
+
 <div id = "t1"></div>
+
 ### json
 ```python
 import json
@@ -100,7 +102,9 @@ controller_list = []
 for ctl in ctlist["controllers"]:
     controller_list.append(ctlist["id"])
 ```
+
 <div id = "t2"></div>
+
 ### timestamp/sleep
 [sample](https://www.pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/)
 ```python
