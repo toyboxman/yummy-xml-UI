@@ -2,8 +2,8 @@
     - [Collections](#collections)
     - [Flow](#flow)
 - [Text Processing](#text-processing)
-	- [Json](#t1)
-	- [Time/Sleep](#t2)
+    - [Json](#t1)
+    - [Time/Sleep](#t2)
 - [Python CLI](#python-cli)
 ***
 
@@ -32,7 +32,7 @@ True
 ```
 - **[Dictionary](https://www.w3schools.com/python/python_dictionaries.asp)**: is a collection which is unordered, changeable and indexed. No duplicate members.
 ```python
-thisdict =	{
+thisdict =  {
   "brand": "Ford",
   "model": "Mustang",
   "year": 1964
@@ -118,7 +118,7 @@ print("timestamp:" + str(ts))
 i = 1
 while i < 4:
     print(time.time())
-	# sleep 2 seconds, time.sleep(0.200) will sleep 200 milliseconds
+    # sleep 2 seconds, time.sleep(0.200) will sleep 200 milliseconds
     time.sleep(2)
     i += 1
 ```
