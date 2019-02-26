@@ -2,6 +2,8 @@
     - [Collections](#collections)
     - [Flow](#flow)
 - [Text Processing](#text-processing)
+	- [Json](#t1)
+	- [Time/Sleep](#t2)
 - [Python CLI](#python-cli)
 ***
 
@@ -87,6 +89,7 @@ if a > b or a > c:
     ```
 
 ## Text Processing
+<div id = "t1"></div>
 ### json
 ```python
 import json
@@ -97,7 +100,9 @@ controller_list = []
 for ctl in ctlist["controllers"]:
     controller_list.append(ctlist["id"])
 ```
-### timestamp
+<div id = "t2"></div>
+### timestamp/sleep
+[sample](https://www.pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/)
 ```python
 import time
 # get current time
@@ -105,6 +110,13 @@ ts = time.time()
 # print("timestamp:" + ts) will throw exception that float type
 # cannot support + with string
 print("timestamp:" + str(ts))
+
+i = 1
+while i < 4:
+    print(time.time())
+	# sleep 2 seconds, time.sleep(0.200) will sleep 200 milliseconds
+    time.sleep(2)
+    i += 1
 ```
 
 ## Python CLI
