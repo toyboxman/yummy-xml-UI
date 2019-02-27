@@ -110,6 +110,26 @@ hive> select * from table;
 Hive SQL 语法可以参考[hive SQL](https://hortonworks.com/blog/hive-cheat-sheet-for-sql-users/)
 
 Hive JDBC 访问与对应SQL参考 [DDL](https://www.tutorialspoint.com/hive/hive_drop_table.htm)
+```
+hive> describe demo_src;
+OK
+id                  	bigint              	                    
+age                 	int                 	                    
+desc                	string              	                    
+dt                  	string              	                    
+hour                	string              	                    
+	 	 
+# Partition Information	 	 
+# col_name            	data_type           	comment             
+	 	 
+dt                  	string              	                    
+hour                	string              	                    
+Time taken: 0.537 seconds, Fetched: 11 row(s)
+
+hive> set hive.cli.print.header=true;
+hive> select * from demo_src limit 10;
+hive> set hive.cli.print.header=false;
+```
 
 - **create a table with partitions from existing files on Hadoop**
 
