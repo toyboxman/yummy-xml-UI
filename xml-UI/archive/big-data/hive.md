@@ -129,6 +129,30 @@ Time taken: 0.537 seconds, Fetched: 11 row(s)
 hive> set hive.cli.print.header=true;
 hive> select * from demo_src limit 10;
 hive> set hive.cli.print.header=false;
+
+hive> show create table demo_src;
+OK
+CREATE EXTERNAL TABLE `demo_src`(
+  `id` bigint, 
+  `age` int, 
+  `desc` string)
+PARTITIONED BY ( 
+  `dt` string, 
+  `hour` string)
+ROW FORMAT SERDE 
+  'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe' 
+WITH SERDEPROPERTIES ( 
+  'field.delim'='|', 
+  'serialization.format'='|') 
+STORED AS INPUTFORMAT 
+  'org.apache.hadoop.mapred.TextInputFormat' 
+OUTPUTFORMAT 
+  'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+LOCATION
+  'hdfs://127.0.0.1:9000/griffin/data/batch/demo_src'
+TBLPROPERTIES (
+  'transient_lastDdlTime'='1551168613')
+Time taken: 3.762 seconds, Fetched: 20 row(s)
 ```
 
 - **create a table with partitions from existing files on Hadoop**
