@@ -38,7 +38,7 @@
      <name>hive.metastore.uris</name>
 -    <value/>
 +    <value>thrift://127.0.0.1:9083</value>
-     <description>Thrift URI for the remote metastore. Used by metastore client to connect to remote metastore.</description>
+     <description>Thrift URI for the remote metastore.</description>
    </property>
    <property>
 @@ -527,7 +527,7 @@
@@ -58,7 +58,7 @@
 +    <value>jdbc:postgresql://127.0.0.1/myDB?ssl=false</value>
      <description>
        JDBC connect string for a JDBC metastore.
-       To use SSL to encrypt/authenticate the connection, provide database-specific SSL flag in the connection URL.
+       To use SSL to encrypt/authenticate the connection, provide database-specific SSL flag in connection URL.
 @@ -1017,7 +1017,7 @@
    </property>
    <property>
