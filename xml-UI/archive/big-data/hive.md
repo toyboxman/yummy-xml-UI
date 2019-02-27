@@ -92,7 +92,6 @@
      <name>hive.server2.logging.operation.log.location</name>
 -    <value>${system:java.io.tmpdir}/${system:user.name}/operation_logs</value>
 +    <value>/apache/tmp/hive/operation_logs</value>
-     <description>Top level directory where operation logs are stored if logging functionality is enabled</description>
    </property>
    <property>
 ```
