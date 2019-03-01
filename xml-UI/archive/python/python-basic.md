@@ -4,6 +4,11 @@
 - [Text Processing](#text-processing)
     - [Json](#t1)
     - [Time/Sleep](#t2)
+    - [Flow](#flow)
+- [System Processing](#system-processing)	
+	- [thread/kill/sizeof](#s1)
+	- [file](#s2)
+### 
 - [Python CLI](#python-cli)
 ***
 
@@ -122,6 +127,50 @@ while i < 4:
     time.sleep(2)
     i += 1
 ```
+
+microsecond sample
+```python
+import sys
+from datetime import datetime
+
+with open("/dev/zero") as f:
+    for i in range(10):
+        # print(str(sys.getsizeof(i))+ " bytes")
+        tsp1 = datetime.now()
+		# read about  2M from device zero
+        value = f.read(2000000)
+        tsp2 = datetime.now()
+        print("read value time " + str(tsp2.microsecond - tsp1.microsecond) + " microsecond")
+        print("value is " + str(sys.getsizeof(value))+ " bytes")
+f.close()
+```
+
+## System Processing
+
+<div id = "s1"></div>
+
+### thread/os-kill/sys-getsizeof
+[sample](./sample/call_dev_multithread.py)
+```python
+_thread.start_new_thread(read_dev, ("Thread-0", 0.01,))
+
+os.kill(os.getpid(), signal.SIGUSR1)
+```
+more [details](https://www.tutorialspoint.com/python3/python_multithreading.htm)
+
+<div id = "s2"></div>
+
+### file
+```python
+import sys
+with open("/dev/zero") as f:
+    for i in range(10):
+        print(str(sys.getsizeof(i))+ " bytes")
+        value = f.read(2000000)
+        print("value is " + str(sys.getsizeof(value))+ " bytes")
+f.close()
+```
+more [details](https://www.tutorialspoint.com/python3/python_files_io.htm)
 
 ## Python CLI
 - **show version**
