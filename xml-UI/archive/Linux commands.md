@@ -265,7 +265,22 @@ In ubuntu-18, you can easily change them forever, systemd has an option for this
 $ more /etc/systemd/system.conf | grep NOFILE
 DefaultLimitNOFILE=65536
 ```
-if you hope to change them forever, please update config files related by this [blog](https://medium.com/@muhammadtriwibowo/set-permanently-ulimit-n-open-files-in-ubuntu-4d61064429a).
+if you hope to change them in other way, please update config files related.
+```
+# edit the following file
+$ sudo vim /etc/security/limits.conf
+# add following lines to it
+king   -     nofile         65535
+
+# edit the following file
+$ sudo vim /etc/pam.d/common-session
+# add this line to it
+session required pam_limits.so
+
+# restart or logout and login and try the following command
+$ ulimit -n
+65535
+```
 
 #### systemctl 
 Control the systemd system and service manager
