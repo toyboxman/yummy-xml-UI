@@ -13,7 +13,7 @@
 - [Monitor System Information](#monitor-system-information)
     - [Activate Account](#activate-account)
     - [Disk Management](#lvm)
-    - [List All Users](#list-all-users)	
+    - [List All Users](#list-all-users) 
     - [List System Details](#list-system-details)
     - [List Opened Files](#lsof)
     - [Query Systemd Log](#journalctl)
@@ -22,8 +22,9 @@
     - [Show Disk Details](#dfdu)
     - [Show Memory Details](#free)
     - [Show Hardware Details](#hwinfo)
-    - [Show File System Status](#statgetfaclsetfacl)	
-    - [Set kernel parameters](#sysctl)
+    - [Show File System Status](#statgetfaclsetfacl)    
+    - [Set Kernel Parameters](#sysctl)
+    - [Set Shell Resource Limit](#ulimit)
     - [Service Management](#systemctl)
     - [Service on/off](#chkconfig)
     - [Top](#top)
@@ -33,7 +34,7 @@
     - [Copy](#cp)
     - [Chmod](#chmod)
     - [Chown](#chown)
-    - [Chgrp](#chgrp)	
+    - [Chgrp](#chgrp)   
     - [Chsh](#chsh)
     - [Checksum](#checksum)
     - [Crontab](#crontab)
@@ -64,8 +65,8 @@
     - [Hd/Od](#hdod)
     - [JSON/jq](#jq)
     - [Read](#read)
-    - [Redirect Symbol](#redirect-symbol)	
-    - [Regular Expression](#regular-expression)		
+    - [Redirect Symbol](#redirect-symbol)   
+    - [Regular Expression](#regular-expression)     
     - [Sed](#sed)
     - [Sort](#sort)
     - [Script](#script)
@@ -245,6 +246,26 @@ $ /sbin/sysctl -n kernel.hostname
 $ /sbin/sysctl -w vm.max_map_count=262144        
 $ /sbin/sysctl -w kernel.domainname="example.com"
 ```
+
+#### ulimit
+Ulimit modify shell resource limits. Provides control over the resources available to the shell and processes it creates, on systems that allow such control.
+```bash
+# list all
+$ ulimit -a
+
+# show the maximum number of open file descriptors
+$ ulimit -n
+1024
+
+# set the maximum number of open file descriptors to 4096
+$ ulimit -n 4096
+```
+In ubuntu-18, you can easily change them forever, systemd has an option for this:
+```
+$ more /etc/systemd/system.conf | grep NOFILE
+DefaultLimitNOFILE=65536
+```
+if you hope to change them forever, please update config files related by this [blog](https://medium.com/@muhammadtriwibowo/set-permanently-ulimit-n-open-files-in-ubuntu-4d61064429a).
 
 #### systemctl 
 Control the systemd system and service manager
@@ -540,7 +561,7 @@ grep -vE "(www|ftp)"
    .          |  匹配任意字符     
    &#42;      |  前面字符出现0次或多次
    &#43;      |  前面字符出现1次或多次
-  [] 	      |  匹配中括号中任何字符
+  []          |  匹配中括号中任何字符
   ()          |  子表达式
   &#166;      |  OR运算符; (www&#166;ftp)匹配“www”或“ftp”
   ^           |  匹配一行的开始
@@ -600,9 +621,9 @@ You successfully authenticated.  Use the cookie in this reply in future requests
 curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
             https://10.162.122.147/ws.v1/control-cluster/node?fields=* \
             -H "Content-Type: application/json"
-			
+            
 curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
-            -H "Content-Type: application/json"	
+            -H "Content-Type: application/json" 
 
 # 如果url中存在&字符 bash会当成linux后台运行命令解释，因此需要处理一下
 # 比如 api/v1/jobs/instances?jobId={}&page={}执行会失败 可以用curl参数
@@ -864,9 +885,9 @@ Or, use yast2 in Suse to change network config and rename nic
 ```bash
 brctl show
 result:
-bridge name	bridge id		STP enabled	interfaces
-br0		8000.0030488e31ac	no		eth0
-br1		8000.0030488e31ad	no		eth1
+bridge name bridge id       STP enabled interfaces
+br0     8000.0030488e31ac   no      eth0
+br1     8000.0030488e31ad   no      eth1
 
 brctl showmacs br0
 
