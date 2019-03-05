@@ -79,7 +79,7 @@
     - [Firewall](#iptablesfirewall)
     - [NC](#nc)
     - [Ping](#pingarping)
-    - [Nmap](#namp)
+    - [Nmap](#nmap)
     - [Tcpdump](#tcpdump)
     - [Dhclient](#dhclient)
     - [Route](#route)
