@@ -65,7 +65,19 @@ ResourceManager (RM)ÊÇ¹ÜÀí½Úµã£¬¸ºÔğËùÓĞ¼¯Èº×ÊÔ´¼äÖÙ²Ã£¬¹ÜÀíÔËĞĞÓÚYARN systemÖ®É
 »¹¿ÉÒÔÍ¨¹ı http://127.0.0.1:8088/cluster À´²é¿´hadoop cluster, hadoop daemonsÍ¨¹ıHTTPĞ­Òé
 ÀıÈç http://127.0.0.1:8088/stacks ±©Â¶¸ü¶àÄÚ²¿ĞÅÏ¢. ¿É²ÎÔÄ[blog](https://blog.cloudera.com/blog/2009/08/hadoop-default-ports-quick-reference/)
 
-
 ÔÚHDFSÉÏ´´½¨Ä¿Â¼ `bin/hadoop dfs -mkdir /foodir` , ¸ü¶à[ÃüÁî](https://hadoop.apache.org/docs/current1/hdfs_design.html)
+```
+# list dfsÉÏËùÓĞÎÄ¼ş
+$ hdfs dfs -ls -R /yarn-logs
+drwxrwxrwt   - king king          0 2019-02-26 17:00 /yarn-logs/logs/application_1551229300465_0107/ubuntu_33233
+drwxrwxrwt   - king king          0 2019-02-26 17:05 /yarn-logs/logs/application_1551229300465_0107/ubuntu_33234
 
+# ²é¿´ÎÄ¼şÄÚÈİ
+$ hdfs dfs -cat /yarn-logs/logs/king/logs/application_1551229300465_0107/ubuntu_33233
 
+# ÔÚdfsÄ¿Â¼Ö®¼äcopy
+$ hdfs dfs -cp /yarn-logs/logs/king/logs/application_1551229300465_0107/ubuntu_33233 /yarn-logs
+
+# ´ÓdfsÄ¿Â¼ÖĞcopyµ½±¾µØ
+$ hdfs dfs -copyToLocal /yarn-logs/logs/king/logs/application_1551229300465_0107/ubuntu_33233 ./
+```
