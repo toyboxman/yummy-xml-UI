@@ -381,6 +381,28 @@ sbt:griffin> run
 ```
 sbt使用example可以参考[文档](https://www.scala-sbt.org/1.0/docs/sbt-by-example.html)
 
+- 如果遇到编译错误，例如dependency错误, scalaj.http包找不到
+```
+import scalaj.http._
+
+object HttpUtil {
+    println("Hello, world")
+}
+```
+需要修改`build.sbt`工程文件，加入依赖声明
+```
+# 依赖对应的pom文件地址 
+# https://repo1.maven.org/maven2/org/scalaj/scalaj-http_2.7.7/0.2.9/scalaj-http_2.7.7-0.2.9.pom
+libraryDependencies += "org.scalaj" % "scalaj-http_2.7.7" % "0.2.9"
+```
+sbt manage dependencies操作参考[文档](https://alvinalexander.com/scala/sbt-how-to-manage-project-dependencies-in-scala)
+
+- 如果遇到下载timeout，可能是proxy设定问题, 需要导出jvm参数变量
+```
+export JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxy.vmware.com -Dhttp.proxyPort=3128 -Dhttps.proxyHost=proxy.vmware.com
+```
+proxy设定方式参考[文档](http://www.alternatestack.com/uncategorized/sbt-behind-proxy/)
+
 * [Scalac](https://www.scala-lang.org/files/archive/nightly/docs-2.10.2/manual/html/scalac.html)
 * 使用-Xshow-phases, Scala编译器可以输出代码的编译过程
 ```bash
