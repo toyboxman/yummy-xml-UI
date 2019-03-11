@@ -243,8 +243,8 @@ object HelloWorld {
    def main(args: Array[String]) {
       // this call will trigger Hello instantiation/initialization
       println(Hello.hi)  // in Hello
-	                 // hi
-	  
+                     // hi
+      
       // Repeating the call to the object's “hi”method reused the same global instance 
       // so there was no additional initialization
       println(Hello.hi)  // hi
@@ -358,6 +358,28 @@ Hello, world !
 Hadrian
 Character(Hadrian,true)
 ```
+
+* SBT
+
+sbt是Scala的工程编译工具，类似make/Maven，能够帮助解决编译依赖等问题。
+
+sbt需要手动安装，如下是Ubuntu系统安装步骤
+```
+echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2EE0EA64E40A89B84B2DF73499E82A75642AC823
+sudo apt-get update
+sudo apt-get install sbt
+```
+其他安装方式参考[文档](https://www.scala-sbt.org/1.0/docs/Installing-sbt-on-Linux.html)
+
+安装完成后就可以编译和执行了
+```
+$ touch build.sbt
+$ sbt
+sbt:griffin> compile
+sbt:griffin> run
+```
+sbt使用example可以参考[文档](https://www.scala-sbt.org/1.0/docs/sbt-by-example.html)
 
 * [Scalac](https://www.scala-lang.org/files/archive/nightly/docs-2.10.2/manual/html/scalac.html)
 * 使用-Xshow-phases, Scala编译器可以输出代码的编译过程
