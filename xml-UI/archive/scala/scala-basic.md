@@ -8,6 +8,7 @@
     - [Head](scala-head.md)
     - [Collection](scala-collections.md)
 - [Scala Compile](#scala-compile)
+- [Samples](#scala-samples)
 ***
 
 ## Basic Language Concepts
@@ -358,6 +359,16 @@ Hello, world !
 Hadrian
 Character(Hadrian,true)
 ```
+如果编译碰到`Caused by: java.lang.ClassNotFoundException: scala.Product$class`，表明使用的lib所对应的Scala版本与当前shell中Scala版本号不一致，需要用下面命令查看版本号，然后使用对应编译版本的lib。
+
+* 查看版本信息
+```
+scala> util.Properties.versionString
+res0: String = version 2.12.8
+
+scala> util.Properties.versionMsg
+res1: String = Scala library version 2.12.8 -- Copyright 2002-2018, LAMP/EPFL and Lightbend, Inc.
+```
 
 * SBT
 
@@ -376,8 +387,12 @@ sudo apt-get install sbt
 ```
 $ touch build.sbt
 $ sbt
+# 支持tab键自动提示
+sbt:griffin> clean
 sbt:griffin> compile
 sbt:griffin> run
+# 修改build.sbt后刷新项目设定
+sbt:griffin> reload
 ```
 sbt使用example可以参考[文档](https://www.scala-sbt.org/1.0/docs/sbt-by-example.html)
 
@@ -386,7 +401,9 @@ sbt使用example可以参考[文档](https://www.scala-sbt.org/1.0/docs/sbt-by-example.h
 import scalaj.http._
 
 object HttpUtil {
-    println("Hello, world")
+    def main(args: Array[String]): Unit = {
+        println("Hello, world!")
+  }
 }
 ```
 需要修改`build.sbt`工程文件，加入依赖声明
@@ -438,3 +455,6 @@ inlineExceptionHandlers  24  optimization: inline exception handlers
                     jvm  27  generate JVM bytecode
                terminal  28  The last phase in the compiler chain
 ```
+
+## Scala Samples
+- [http rest](./sample/es.scala)
