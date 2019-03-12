@@ -12,7 +12,9 @@ object HttpUtil {
     val header = Map[String, Object](("Content-Type", "application/json"))
     val data = "{\"accuracy\" : \"great\"}"
     httpRequest("http://127.0.0.1:9200/griffin/accuracy", "post", params, header, data)
-    println("Run, http request!")
+    println("Run, http post request!")
+    httpRequest("http://127.0.0.1:9200/griffin/accuracy/_search?pretty=true", "get", params, header, "")
+    println("Run, http get request!")
   }
 
   def httpRequest(url: String,
@@ -28,6 +30,10 @@ object HttpUtil {
         res.isSuccess
       case PUT_REGEX() =>
         val res = httpReq.put(data).asString
+        res.isSuccess
+      case GET_REGEX() =>
+        val res = httpReq.put(data).method("GET").asString
+        println(res)
         res.isSuccess
       case _ => false
     }
