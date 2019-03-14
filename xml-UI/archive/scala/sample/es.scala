@@ -1,3 +1,6 @@
+import org.apache.http.client.methods.HttpPost
+import org.apache.http.entity.{ContentType, StringEntity}
+import org.apache.http.impl.client.HttpClientBuilder
 import scalaj.http._
 
 object HttpUtil {
@@ -8,13 +11,33 @@ object HttpUtil {
 
   def main(args: Array[String]): Unit = {
     println("Hello, world!")
+    val post_url = "http://127.0.0.1:9200/griffin/accuracy"
+    val get_url = "http://127.0.0.1:9200/griffin/accuracy/_search?pretty=true"
     val params = Map[String, Object]()
     val header = Map[String, Object](("Content-Type", "application/json"))
     val data = "{\"accuracy\" : \"great\"}"
-    httpRequest("http://127.0.0.1:9200/griffin/accuracy", "post", params, header, data)
+    httpRequest(post_url, "post", params, header, data)
     println("Run, http post request!")
-    httpRequest("http://127.0.0.1:9200/griffin/accuracy/_search?pretty=true", "get", params, header, "")
+    httpRequest(get_url, "get", params, header, "")
     println("Run, http get request!")
+
+    println("********************** another http client")
+
+    val post = new HttpPost(post_url)
+    post.addHeader("Content-Type", "application/json")
+
+    val client = HttpClientBuilder.create.build
+
+    post.setEntity(new StringEntity(data, ContentType.APPLICATION_JSON));
+
+    // send the post request
+    val response = client.execute(post)
+    println("--- HEADERS ---")
+    response.getAllHeaders.foreach(arg => println(arg))
+    println("--- Response Contents ---")
+    println(response)
+    println("--- Response Code ---")
+    println(response.getStatusLine.getStatusCode)
   }
 
   def httpRequest(url: String,
