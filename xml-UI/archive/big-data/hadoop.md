@@ -80,4 +80,7 @@ $ hdfs dfs -cp /yarn-logs/logs/king/logs/application_1551229300465_0107/ubuntu_3
 
 # 从dfs目录中copy到本地
 $ hdfs dfs -copyToLocal /yarn-logs/logs/king/logs/application_1551229300465_0107/ubuntu_33233 ./
+
+# 从dfs目录中remove文件
+$ hdfs dfs -rm /yarn-logs/logs/king/logs/application_1551229300465_0107/ubuntu_33233
 ```
