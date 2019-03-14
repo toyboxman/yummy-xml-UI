@@ -12,6 +12,7 @@
 ***
 
 ## Basic Language Concepts
+基本语法规则参看[描述](https://data-flair.training/blogs/scala-syntax/)
 
 ### Null/Nil/Nothing/Unit
 - **Null**: It's a Trait.
@@ -262,7 +263,7 @@ object Hello {
 
 * *Case Class*  
 简单说作用类似于Java中Bean和DTO概念<br>
-A case class is an instantiable class that includes several automatically generated methods. 
+A [case class](https://data-flair.training/blogs/scala-case-class/) is an instantiable class that includes several automatically generated methods. 
 Case classes work great for data transfer objects, the kind of classes that are mainly used for 
 storing data, given the data-based methods that are generated.
 ```bash
@@ -409,16 +410,29 @@ object HttpUtil {
 需要修改`build.sbt`工程文件，加入依赖声明
 ```
 # 依赖对应的pom文件地址 
-# https://repo1.maven.org/maven2/org/scalaj/scalaj-http_2.7.7/0.2.9/scalaj-http_2.7.7-0.2.9.pom
-libraryDependencies += "org.scalaj" % "scalaj-http_2.7.7" % "0.2.9"
+# https://repo1.maven.org/maven2/org/scalaj/scalaj-http_2.12/2.4.0/scalaj-http_2.12-2.4.0.pom
+libraryDependencies += "org.scalaj" % "scalaj-http_2.12" % "2.4.0"
+libraryDependencies += "org.apache.httpcomponents" % "httpclient" % "4.5.7"
 ```
 sbt manage dependencies操作参考[文档](https://alvinalexander.com/scala/sbt-how-to-manage-project-dependencies-in-scala)
 
 - 如果遇到下载timeout，可能是proxy设定问题, 需要导出jvm参数变量
 ```
-export JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxy.vmware.com -Dhttp.proxyPort=3128 -Dhttps.proxyHost=proxy.vmware.com
+export JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxy.server -Dhttp.proxyPort=3328 -Dhttps.proxyHost=proxy.server
 ```
 proxy设定方式参考[文档](http://www.alternatestack.com/uncategorized/sbt-behind-proxy/)
+
+- 如果遇到下载scala.MatchError，一般都是case语句条件没有匹配，需要检查代码
+```scala
+scala.MatchError: org.apache.hadoop.fs.FsUrlConnection:http://127.0.0.1:9200/griffin/accuracy (of class org.apache.hadoop.fs.FsUrlConnection)
+    at scalaj.http.HttpRequest.scalaj$http$HttpRequest$$doConnection(Http.scala:343)
+    at scalaj.http.HttpRequest.exec(Http.scala:335)
+
+    proxyConfig.map(urlToFetch.openConnection).getOrElse(urlToFetch.openConnection) match {
+      case conn: HttpURLConnection =>
+        ...
+    }    
+```
 
 * [Scalac](https://www.scala-lang.org/files/archive/nightly/docs-2.10.2/manual/html/scalac.html)
 * 使用-Xshow-phases, Scala编译器可以输出代码的编译过程
@@ -458,3 +472,5 @@ inlineExceptionHandlers  24  optimization: inline exception handlers
 
 ## Scala Samples
 - [http rest](./sample/es.scala)
+
+    

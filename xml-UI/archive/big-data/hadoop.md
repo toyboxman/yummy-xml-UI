@@ -83,4 +83,8 @@ $ hdfs dfs -copyToLocal /yarn-logs/logs/king/logs/application_1551229300465_0107
 
 # 从dfs目录中remove文件
 $ hdfs dfs -rm /yarn-logs/logs/king/logs/application_1551229300465_0107/ubuntu_33233
+
+# 创建目录
+# -p option behavior is much like Unix mkdir -p, creating parent directories along the path.
+$ hdfs dfs -mkdir -p /home/spark_conf
 ```
