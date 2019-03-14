@@ -44,6 +44,10 @@ git config -l
 git config user.name "Gene"
 git config user.email "Gene@genesis.org"
 
+# 设置proxy
+git config http.proxy myproxy.server:8888
+git config https.proxy myproxy.server:8888
+
 # 设置全局性git用户名及邮件属性，会作用于全部git仓库
 git config --global user.name "Gene"
 git config --global user.email "Gene@genesis.org"
