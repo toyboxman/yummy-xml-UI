@@ -13,6 +13,7 @@
 - [Monitor System Information](#monitor-system-information)
     - [Activate Account](#activate-account)
     - [Disk Management](#lvm)
+    - [Device](#device)
     - [List All Users](#list-all-users) 
     - [List System Details](#list-system-details)
     - [List Opened Files](#lsof)
@@ -177,6 +178,36 @@ free -g
 
 # show memory details
 cat /proc/meminfo
+```
+
+#### device
+Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。
+
+- [zero](https://en.wikipedia.org/wiki//dev/zero)
+
+可以读出任意大小的内容，如1k，1M，100M，所有内容均为0。可以用来做内存初始化，模拟读写开销，参看[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)。
+
+- [null](https://en.wikipedia.org/wiki/Null_device), [random](https://en.wikipedia.org/wiki//dev/random)
+
+常常用来丢弃数据流，有点类似垃圾箱功能。
+```bash
+# redirects stdout to null
+$ ls > /dev/null
+# shortcut for the command above
+$ ls 1 > /dev/null
+
+# redirects stderr to null
+$ ls 2 > /dev/null
+
+# redirects stdout and stderr to null
+$ ls &> /dev/null
+
+# Run list command in the background, discard stdout and stderr
+# Using 2>&1 will redirect stderr to stdout
+ls > /dev/null 2>&1 &
+
+# Using 1>&2 will redirect stdout to stderr
+ls > /dev/null 1>&2
 ```
 
 #### stat/getfacl/setfacl
