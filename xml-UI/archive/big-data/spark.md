@@ -29,9 +29,9 @@ SPARK集群主要包括master节点和很多worker节点。
 #### 使用
 - **setup Spark**
 
-下载[Spark](http://spark.apache.org/downloads.html)，解压到设定目录。如果安装Pseudo Distributed/Single Node Cluster,可以参考[help](http://why-not-learn-something.blogspot.com/2015/06/spark-installation-pseudo.html).Copy hive/conf/hive-default.xml.template to hive/conf/hive-site.xml修改以下配置属性。
+下载[Spark](http://spark.apache.org/downloads.html)，解压到设定目录。如果安装Pseudo Distributed/Single Node Cluster,可以参考[help](http://why-not-learn-something.blogspot.com/2015/06/spark-installation-pseudo.html).
 
-Check $SPARK_HOME/conf/spark-default.conf
+参考如下配置项 $SPARK_HOME/conf/spark-default.conf
 ```
 spark.master                    yarn-cluster
 spark.serializer                org.apache.spark.serializer.KryoSerializer
@@ -39,7 +39,7 @@ spark.yarn.jars                 hdfs:///home/spark_lib/*
 spark.yarn.dist.files		hdfs:///home/spark_conf/hive-site.xml
 spark.sql.broadcastTimeout  500
 ```
-Check $SPARK_HOME/conf/spark-env.sh
+$SPARK_HOME/conf/spark-env.sh
 ```
 HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
 SPARK_MASTER_HOST=localhost
@@ -68,4 +68,27 @@ cp /apache/hive/conf/hive-site.xml /apache/spark/conf/
 
 # stop all
 /apache/spark/sbin/stop-all.sh
+```
+
+- **Spark shell**
+
+使用命令之前需要确认[Scala](https://downloads.lightbend.com/scala/2.12.8/scala-2.12.8.tgz)已经在本地安装好，官网[link](https://www.scala-lang.org/)。
+
+导出路径到 .bashrc
+```
+export SPARK_HOME=/apache/spark
+export SCALA_HOME=/apache/scala
+
+export PATH=$PATH:$SPARK_HOME/bin:$SCALA_HOME/bin
+```
+进入spark shell交互界面。
+```
+$ spark-shell
+scala> :help
+scala> :quit
+```
+Create an RDD through Parallelized Collection, more refer to [commands](https://data-flair.training/blogs/scala-spark-shell-commands/)
+```
+scala> val no = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+scala> val noData = sc.parallelize(no)
 ```
