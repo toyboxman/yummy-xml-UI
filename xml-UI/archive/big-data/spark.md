@@ -1,27 +1,27 @@
 ### Spark
-[***Apache Spark***](https://en.wikipedia.org/wiki/Apache_Spark)æ˜¯é€šç”¨åˆ†å¸ƒå¼é›†ç¾¤è®¡ç®—æ¡†æ¶ï¼Œæä¾›ä¸€ä¸ªéšå«æ•°æ®å¹¶è¡Œå’Œå®¹é”™çš„æ¥å£ï¼Œæ¥å¯¹æ•´ä¸ªé›†ç¾¤ç¼–ç¨‹ã€‚Sparkæ¶æ„åŸºäºresilient distributed dataset (RDD), ä¸€ç§åªè¯»çš„åˆ†å¸ƒåœ¨å¤šä¸ªé›†ç¾¤æœºå™¨ä¸Šçš„æ•°æ®å¤šé‡é›†åˆï¼Œè¿™äº›é›†åˆé€šè¿‡fault-tolerantæœºåˆ¶ç»´æŠ¤ã€‚Dataframe APIæ˜¯RDDå±‚ä¹‹ä¸Šçš„æŠ½è±¡æ¥å£, Dataset APIéµä»è¿™äº›æ¥å£ã€‚Spark 1.xç‰ˆæœ¬ä¸­RDDæ˜¯ä¸»è¦çš„ç¼–ç¨‹æ¥å£, ä½†Spark 2.xä¹‹åæ¨èä½¿ç”¨Dataset APIï¼Œä½†RDDæŠ€æœ¯ä»æ—§æ˜¯å…¶åº•å±‚ä¾èµ–ã€‚
+[***Apache Spark***](https://en.wikipedia.org/wiki/Apache_Spark)ÊÇÍ¨ÓÃ·Ö²¼Ê½¼¯Èº¼ÆËã¿ò¼Ü£¬Ìá¹©Ò»¸öÒşº¬Êı¾İ²¢ĞĞºÍÈİ´íµÄ½Ó¿Ú£¬À´¶ÔÕû¸ö¼¯Èº±à³Ì¡£Spark¼Ü¹¹»ùÓÚresilient distributed dataset (RDD), Ò»ÖÖÖ»¶ÁµÄ·Ö²¼ÔÚ¶à¸ö¼¯Èº»úÆ÷ÉÏµÄÊı¾İ¶àÖØ¼¯ºÏ£¬ÕâĞ©¼¯ºÏÍ¨¹ıfault-tolerant»úÖÆÎ¬»¤¡£Dataframe APIÊÇRDD²ãÖ®ÉÏµÄ³éÏó½Ó¿Ú, Dataset API×ñ´ÓÕâĞ©½Ó¿Ú¡£Spark 1.x°æ±¾ÖĞRDDÊÇÖ÷ÒªµÄ±à³Ì½Ó¿Ú, µ«Spark 2.xÖ®ºóÍÆ¼öÊ¹ÓÃDataset API£¬µ«RDD¼¼ÊõÈÔ¾ÉÊÇÆäµ×²ãÒÀÀµ¡£
 
-#### æ¶æ„
+#### ¼Ü¹¹
 ![Image of Stack](https://d1.awsstatic.com/Data%20Lake/what-is-apache-spark.b3a3099296936df595d9a7d3610f1a77ff0749df.PNG)
 
 ![Image of Stack1](https://i2.wp.com/www.jenunderwood.com/wp-content/uploads/2016/10/SparkArchitecture-Databrickss.gif?ssl=1)
 
 ![Image of Arch](https://tekclasses.com/wp-content/uploads/2017/06/WHAT-IS-APACHE-SPARK-_-WHY-YOU-SHOULD-LEARN-IT-NOW.png)
 
-#### éƒ¨ç½²
+#### ²¿Êğ
 ![Image of Deploy](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97bc4145-21de-47f4-b1ef-12bd4635c47a.png)
 
 ![Image of Deploy1](https://docs.microsoft.com/en-us/azure/cosmos-db/media/lambda-architecture/lambda-architecture-re-architected.png)
 
-#### è¿è¡Œ
+#### ÔËĞĞ
 ![Image of Run](http://aptuz.com/static/media/uploads/blog/hadoop_echosystem.png)
 
 ![Image of Run1](https://sigmoid.com/wp-content/uploads/2015/03/Apache_Spark1.png)
 
-#### ä½¿ç”¨
+#### Ê¹ÓÃ
 - **setup hive**
 
-ä¸‹è½½[Hive](http://apache.claz.org/hive/)ï¼Œè§£å‹åˆ°è®¾å®šç›®å½•ã€‚Copy hive/conf/hive-default.xml.template to hive/conf/hive-site.xmlä¿®æ”¹ä»¥ä¸‹é…ç½®å±æ€§ã€‚
+ÏÂÔØ[Hive](http://apache.claz.org/hive/)£¬½âÑ¹µ½Éè¶¨Ä¿Â¼¡£Copy hive/conf/hive-default.xml.template to hive/conf/hive-site.xmlĞŞ¸ÄÒÔÏÂÅäÖÃÊôĞÔ¡£
 ```
    <property>
      <name>hive.exec.local.scratchdir</name>
@@ -99,20 +99,20 @@
    </property>
    <property>
 ```
-å¯åŠ¨metastore service ï¼š`/apache/hive/bin/hive --service metastore`
+Æô¶¯metastore service £º`/apache/hive/bin/hive --service metastore`
 
-ç™»å½•hive CLI Clientï¼š`/apache/hive/bin/hive` or `/apache/hive/bin/hive --database default`
+µÇÂ¼hive CLI Client£º`/apache/hive/bin/hive` or `/apache/hive/bin/hive --database default`
 
 CLI: hive> SHOW TABLES;
 
-å‚è€ƒå‘½ä»¤è¡Œæ–‡æ¡£[hive CLI](https://cwiki.apache.org/confluence/display/Hive/GettingStarted#GettingStarted-RunningHiveCLI), [CLI manual](
+²Î¿¼ÃüÁîĞĞÎÄµµ[hive CLI](https://cwiki.apache.org/confluence/display/Hive/GettingStarted#GettingStarted-RunningHiveCLI), [CLI manual](
 https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Cli)
 
 hive> select * from table;
 
-Hive SQL è¯­æ³•å¯ä»¥å‚è€ƒ[hive SQL](https://hortonworks.com/blog/hive-cheat-sheet-for-sql-users/)
+Hive SQL Óï·¨¿ÉÒÔ²Î¿¼[hive SQL](https://hortonworks.com/blog/hive-cheat-sheet-for-sql-users/)
 
-Hive JDBC è®¿é—®ä¸å¯¹åº”SQLå‚è€ƒ [DDL](https://www.tutorialspoint.com/hive/hive_drop_table.htm)
+Hive JDBC ·ÃÎÊÓë¶ÔÓ¦SQL²Î¿¼ [DDL](https://www.tutorialspoint.com/hive/hive_drop_table.htm)
 ```
 hive> describe demo_src;
 OK
@@ -160,9 +160,9 @@ Time taken: 3.762 seconds, Fetched: 20 row(s)
 
 - **create a table with partitions from existing files on Hadoop**
 
-ç¤ºä¾‹:
+Ê¾Àı:
 
-åˆ†åŒºè¡¨æœ‰å››åˆ—(id INT, first_name STRING, date STRING, last_name STRING), å…¶ä¸­dateæ˜¯ä¸€ä¸ªç”¨æ¥åˆ†åŒºçš„åˆ—
+·ÖÇø±íÓĞËÄÁĞ(id INT, first_name STRING, date STRING, last_name STRING), ÆäÖĞdateÊÇÒ»¸öÓÃÀ´·ÖÇøµÄÁĞ
 
 | id | first_name | date | last_name |
 | ---- | ------ | ------------------ | ------ |
@@ -170,19 +170,19 @@ Time taken: 3.762 seconds, Fetched: 20 row(s)
 | 2 | Austin | 2012-02-22 | Powers |
 | ... | ... | ... | ... |
 
-åˆ›å»ºåˆ†åŒºè¡¨è¯­å¥ï¼š
+´´½¨·ÖÇø±íÓï¾ä£º
 
 ***CREATE EXTERNAL TABLE my_table (id INT, first_name STRING, last_name STRING) PARTITIONED BY (date STRING) LOCATION '/usr/hive/warehouse/my_table';***
 
-å½“è¯•å›¾å¾€è¡¨ä¸­æ’å…¥æ•°æ®(via INSERT OVERWRITE command)ï¼Œå¹¶æ£€æŸ¥HDFSå­˜å‚¨ä½ç½®(/usr/hive/warehouse/my_table), ä¼šå‘ç°æ•°æ®å­˜å‚¨åœ¨æ­¤ç›®å½•ä¸­ã€‚ä¸€å¥—åˆ†åŒºæ•°æ®ä¸€ä¸ªç›®å½•ï¼Œç›®å½•åç±»ä¼¼date=2012-01-10 or date=2012-02-22ï¼Œè¿™äº›ç›®å½•ä¸­åŒ…å«æ‰€æœ‰ä½ æŒ‰é€‰æ‹©ç›®æ ‡æ ¼å¼å­˜å…¥çš„æ•°æ®ã€‚åˆ†åŒºåˆ—ä¸ä¸è¿™äº›æ•°æ®å­˜å‚¨åœ¨ä¸€èµ·ï¼Œå®ƒæ˜¯ä¸€ä¸ªè™šæ‹Ÿåˆ—ï¼Œé€šè¿‡å­˜å‚¨æ•°æ®çš„åˆ†åŒºç›®å½•æ¥è§£æã€‚
+µ±ÊÔÍ¼Íù±íÖĞ²åÈëÊı¾İ(via INSERT OVERWRITE command)£¬²¢¼ì²éHDFS´æ´¢Î»ÖÃ(/usr/hive/warehouse/my_table), »á·¢ÏÖÊı¾İ´æ´¢ÔÚ´ËÄ¿Â¼ÖĞ¡£Ò»Ì×·ÖÇøÊı¾İÒ»¸öÄ¿Â¼£¬Ä¿Â¼ÃûÀàËÆdate=2012-01-10 or date=2012-02-22£¬ÕâĞ©Ä¿Â¼ÖĞ°üº¬ËùÓĞÄã°´Ñ¡ÔñÄ¿±ê¸ñÊ½´æÈëµÄÊı¾İ¡£·ÖÇøÁĞ²»ÓëÕâĞ©Êı¾İ´æ´¢ÔÚÒ»Æğ£¬ËüÊÇÒ»¸öĞéÄâÁĞ£¬Í¨¹ı´æ´¢Êı¾İµÄ·ÖÇøÄ¿Â¼À´½âÎö¡£
 
-å¦‚æœå¸Œæœ›åˆ†åŒºåˆ—ä¹Ÿä½œä¸ºæ™®é€šæ•°æ®å­˜å‚¨åœ¨æ–‡ä»¶ç›®å½•ä¸­ï¼Œä½ å°±éœ€è¦staging tableã€‚
+Èç¹ûÏ£Íû·ÖÇøÁĞÒ²×÷ÎªÆÕÍ¨Êı¾İ´æ´¢ÔÚÎÄ¼şÄ¿Â¼ÖĞ£¬Äã¾ÍĞèÒªstaging table¡£
 
-åˆ›å»ºåˆ†åŒºè¡¨è¯­å¥ï¼š
+´´½¨·ÖÇø±íÓï¾ä£º
 
 ***CREATE EXTERNAL TABLE my_table_staging (id INT, first_name STRING, date STRING, last_name STRING) LOCATION '/usr/hive/warehouse/my_table_staging';***
 
-ä½¿ç”¨staging tableä½œä¸ºæ•°æ®æºï¼Œé€šè¿‡Dynamic partitioningæ¥äº§ç”Ÿåˆ†åŒºè¡¨ã€‚æ­¥éª¤å°±æ˜¯ä»staging tableè¯»å‡ºæ•°æ®insertåˆ°partitioned table, åŒæ—¶åˆ›å»ºHDFSä¸Šåˆé€‚çš„å­˜å‚¨ç›®å½•ã€‚
+Ê¹ÓÃstaging table×÷ÎªÊı¾İÔ´£¬Í¨¹ıDynamic partitioningÀ´²úÉú·ÖÇø±í¡£²½Öè¾ÍÊÇ´Óstaging table¶Á³öÊı¾İinsertµ½partitioned table, Í¬Ê±´´½¨HDFSÉÏºÏÊÊµÄ´æ´¢Ä¿Â¼¡£
 
-HiveæœåŠ¡çš„ç«¯å£ä¿¡æ¯å¯æŸ¥çœ‹[ç«¯å£è¡¨](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_reference/content/hive-ports.html)
+Hive·şÎñµÄ¶Ë¿ÚĞÅÏ¢¿É²é¿´[¶Ë¿Ú±í](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_reference/content/hive-ports.html)
 
