@@ -4,49 +4,68 @@
 #### 架构
 ![Image of Stack](https://d1.awsstatic.com/Data%20Lake/what-is-apache-spark.b3a3099296936df595d9a7d3610f1a77ff0749df.PNG)
 
-SPARK核心分成四大块功能，分别对应机器学习，实时分析，非结构化数据查询和图处理
+SPARK核心分成四大块功能，分别对应机器学习，实时分析，非结构化数据查询和图处理。
+
 ![Image of Stack1](https://i2.wp.com/www.jenunderwood.com/wp-content/uploads/2016/10/SparkArchitecture-Databrickss.gif?ssl=1)
 
+SPARK集群可以对接各种数据源，如传统数据库，非结构化文本数据，消息队列等。集群可以通过云，容器编排系统，Hadoop集群来调度。
+
 ![Image of Arch](https://tekclasses.com/wp-content/uploads/2017/06/WHAT-IS-APACHE-SPARK-_-WHY-YOU-SHOULD-LEARN-IT-NOW.png)
+
+SPARK集群对实时数据的计算分析功能很突出。
 
 #### 部署
 ![Image of Deploy](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97bc4145-21de-47f4-b1ef-12bd4635c47a.png)
 
-![Image of Deploy1](https://docs.microsoft.com/en-us/azure/cosmos-db/media/lambda-architecture/lambda-architecture-re-architected.png)
+SPARK集群主要包括master节点和很多worker节点。
+
+![Image of Deploy1](http://aptuz.com/static/media/uploads/blog/hadoop_echosystem.png)
 
 #### 运行
-![Image of Run](http://aptuz.com/static/media/uploads/blog/hadoop_echosystem.png)
-
 ![Image of Run1](https://sigmoid.com/wp-content/uploads/2015/03/Apache_Spark1.png)
 
 ![Image of Run2](https://databricks.com/wp-content/uploads/2018/05/Apache-Spark-Streaming-ecosystem-diagram.png)
 
 #### 使用
-- **setup hive**
+- **setup Spark**
 
-下载[Hive](http://apache.claz.org/hive/)，解压到设定目录。Copy hive/conf/hive-default.xml.template to hive/conf/hive-site.xml修改以下配置属性。
+下载[Spark](http://spark.apache.org/downloads.html)，解压到设定目录。如果安装Pseudo Distributed/Single Node Cluster,可以参考[help](http://why-not-learn-something.blogspot.com/2015/06/spark-installation-pseudo.html).Copy hive/conf/hive-default.xml.template to hive/conf/hive-site.xml修改以下配置属性。
+
+Check $SPARK_HOME/conf/spark-default.conf
 ```
-
+spark.master                    yarn-cluster
+spark.serializer                org.apache.spark.serializer.KryoSerializer
+spark.yarn.jars                 hdfs:///home/spark_lib/*
+spark.yarn.dist.files		hdfs:///home/spark_conf/hive-site.xml
+spark.sql.broadcastTimeout  500
 ```
-启动metastore service ：`/apache/hive/bin/hive --service metastore`
-
-登录hive CLI Client：`/apache/hive/bin/hive` or `/apache/hive/bin/hive --database default`
-
-CLI: hive> SHOW TABLES;
-
-参考命令行文档[hive CLI](https://cwiki.apache.org/confluence/display/Hive/GettingStarted#GettingStarted-RunningHiveCLI), [CLI manual](
-https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Cli)
-
-hive> select * from table;
-
-Hive SQL 语法可以参考[hive SQL](https://hortonworks.com/blog/hive-cheat-sheet-for-sql-users/)
-
-Hive JDBC 访问与对应SQL参考 [DDL](https://www.tutorialspoint.com/hive/hive_drop_table.htm)
+Check $SPARK_HOME/conf/spark-env.sh
 ```
-
+HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
+SPARK_MASTER_HOST=localhost
+SPARK_MASTER_PORT=7077
+SPARK_MASTER_WEBUI_PORT=8082
+SPARK_LOCAL_IP=localhost
+SPARK_PID_DIR=/apache/pids
 ```
+Upload some files otherwise you will hit `Error: Could not find or load main class org.apache.spark.deploy.yarn.ApplicationMaster`, when you schedule spark applications.
+```bash
+hdfs dfs -mkdir /home/spark_lib
+hdfs dfs -mkdir /home/spark_conf
+hdfs dfs -put $SPARK_HOME/jars/*  hdfs:///home/spark_lib/
+hdfs dfs -put $HIVE_HOME/conf/hive-site.xml hdfs:///home/spark_conf/
+```
+- **start/stop spark nodes**
+```bash
+cp /apache/hive/conf/hive-site.xml /apache/spark/conf/
+# start master and slave nodes
+/apache/spark/sbin/start-master.sh
+/apache/spark/sbin/start-slave.sh  spark://localhost:7077
 
-- **create a table with partitions from existing files on Hadoop**
+# stop master and slave nodes
+/apache/spark/sbin/stop-slaves.sh 
+/apache/spark/sbin/stop-master.sh 
 
-
-
+# stop all
+/apache/spark/sbin/stop-all.sh
+```
