@@ -2,14 +2,14 @@
 [***Apache Spark***](https://en.wikipedia.org/wiki/Apache_Spark)是通用分布式集群计算框架，提供一个隐含数据并行和容错的接口，来对整个集群编程。Spark架构基于resilient distributed dataset (RDD), 一种只读的分布在多个集群机器上的数据多重集合，这些集合通过fault-tolerant机制维护。Dataframe API是RDD层之上的抽象接口, Dataset API遵从这些接口。Spark 1.x版本中RDD是主要的编程接口, 但Spark 2.x之后推荐使用Dataset API，但RDD技术仍旧是其底层依赖。
 
 #### 架构
-![Image of Arch](https://cdn.intellipaat.com/blog/wp-content/uploads/2016/12/Architecture-of-Apache-Hive.jpg)<br>
-- HiveServer2(HS2)是让clients执行Hive查询的应用，是HiveServer1的替代，核心是Thrift-based Hive service。HS2支持multi-client并发和认证，与JDBC/ODBC集成更好。参看[HS2] (https://cwiki.apache.org/confluence/display/Hive/HiveServer2+Overview)
-- Hive Service就是运行于client node上的daemon进程，通过thrift protocols将查询发送到HS2
-- Hive metastore service将Hive tables和partitions这些metadata保存在关系数据库中, 并提供metastore service API来访问这些信息。metastore service有三种配置模式[embedded/local/remote](https://www.cloudera.com/documentation/enterprise/5-8-x/topics/cdh_ig_hive_metastore_configure.html)
-- Thrift是RPC framework用来构建cross-platform服务，其功能栈包括4层: Server, Transport, Protocol, and Processor. 细节可以参看[concepts](https://thrift.apache.org/docs/concepts)
+![Image of Stack](https://spark.apache.org/images/spark-stack.png)
+
+![Image of Arch](https://tekclasses.com/wp-content/uploads/2017/06/WHAT-IS-APACHE-SPARK-_-WHY-YOU-SHOULD-LEARN-IT-NOW.png)
 
 #### 部署
-![Image of Arch](https://image.slidesharecdn.com/integrationofapachehiveandhbasefinal-120504182337-phpapp01/95/integration-of-hive-and-hbase-34-728.jpg?cb=1336156004)<br>
+![Image of Deploy](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97bc4145-21de-47f4-b1ef-12bd4635c47a.png)
+
+![Image of Deploy1](https://docs.microsoft.com/en-us/azure/cosmos-db/media/lambda-architecture/lambda-architecture-re-architected.png)
 
 - Usage:
 当查询hive tables或database, 查询请求会自动在hive service和hive server之间交互。需要创建新service或project，可以使用thrift protocols，此协议可以实现跨语言的web-service。
