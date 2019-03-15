@@ -67,6 +67,9 @@ king@ubuntu:~/software$ psql -U king -W -d myDB
 password for king: 
 
 king@ubuntu:~/software$ psql -U king -W -h localhost -d myDB
+
+#  run sql without login
+$ sudo -u king /opt/vpostgres/9.6/bin/psql -c "select * from mytable;"
 ```
 #### 数据库配置
 PostgreSQL server默认使用5432端口提供连接，如果连接被拒，有可能是安全权限配置问题。
