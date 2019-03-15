@@ -187,7 +187,7 @@ Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。
 
 可以读出任意大小的内容，如1k，1M，100M，所有内容均为0。可以用来做内存初始化，模拟读写开销，参看[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)。
 
-- [null](https://en.wikipedia.org/wiki/Null_device), [random](https://en.wikipedia.org/wiki//dev/random)
+- [null](https://en.wikipedia.org/wiki/Null_device)
 
 常常用来丢弃数据流，有点类似垃圾箱功能。
 ```bash
@@ -209,6 +209,10 @@ ls > /dev/null 2>&1 &
 # Using 1>&2 will redirect stdout to stderr
 ls > /dev/null 1>&2
 ```
+
+- [random](https://en.wikipedia.org/wiki//dev/random)
+
+通过内核来产生随机数
 
 #### stat/getfacl/setfacl
 ```bash
