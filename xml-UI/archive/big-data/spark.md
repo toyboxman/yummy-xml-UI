@@ -100,7 +100,7 @@ scala> val noData = sc.parallelize(no)
 ##### HiveContext
 Hive加上Spark library打包在一起就是HiveContext, 从SQLContext继承的一种概念. 使用HiveContext, 你能够create/find tables in the HiveMetaStore并且可以用HiveQL写查询功能。没有部署Hive服务的用户也可以create a HiveContext。如果没有通过hive-site.xml指定配置, the context自动创建一个名为metastore_db的metastore和一个名为warehouse的目录。refer to [explanation](https://www.tutorialspoint.com/spark_sql/spark_sql_hive_tables.htm)
 
-Spark < 2.0的发布版本中，如果要集成Hive，你必须使用HiveContext。除此之外，与SQLContext最大不同在于对[window functions](#windowfunction)的支持和访问Hive UDFs(user defined functions)的能力。
+Spark < 2.0的发布版本中，如果要集成Hive，你必须使用HiveContext。除此之外，与SQLContext最大不同在于对[window functions](#window-function)的支持和访问Hive UDFs(user defined functions)的能力。
 
 window functions是很酷的特性，能用来解决复杂问题而不用在RDDs和DataFrames之间来来回回。性能也相当好，特别是没有PARTITION BY语句。
 
