@@ -4,6 +4,16 @@
 3.method must (self) parameter, otherwise call failure ?
 4.global free_disk_space
 
+pip install pyyaml
+import yaml
+
+with open("example.yaml", 'r') as stream:
+    try:
+        print(yaml.load(stream))
+    except yaml.YAMLError as exc:
+        print(exc)
+        
+
 ### replacement
 notepad++ replacement 
 curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
@@ -26,6 +36,16 @@ https://www.journaldev.com/2366/core-java-interview-questions-and-answers
 
 ### hive
 
+### Kubernetes
+https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads
+
+### 微服务配置中心
+https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/
+Spring Cloud（七）：配置中心（Git 版与动态刷新）
+https://windmt.com/2018/04/19/spring-cloud-7-config-sample/
+
+### hadoop
+  
 ### superset
 https://superset.incubator.apache.org/
 

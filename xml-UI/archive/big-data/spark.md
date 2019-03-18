@@ -28,8 +28,6 @@ SPARK集群主要包括master节点和很多worker节点。
 
 ![Image of Run3](https://sdtimes.com/wp-content/uploads/2018/03/image7.png)
 
-![Image of Run4](https://databricks.com/wp-content/uploads/2018/05/Apache-Spark-Streaming-ecosystem-diagram.png)
-
 #### 使用
 - **setup Spark**
 
@@ -96,3 +94,24 @@ Create an RDD through Parallelized Collection, more refer to [commands](https://
 scala> val no = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 scala> val noData = sc.parallelize(no)
 ```
+
+#### 术语概念
+
+##### HiveContext
+Hive加上Spark library打包在一起就是HiveContext, 从SQLContext继承的一种概念. 使用HiveContext, 你能够create/find tables in the HiveMetaStore并且可以用HiveQL写查询功能。没有部署Hive服务的用户也可以create a HiveContext。如果没有通过hive-site.xml指定配置, the context自动创建一个名为metastore_db的metastore和一个名为warehouse的目录。refer to [explanation](https://www.tutorialspoint.com/spark_sql/spark_sql_hive_tables.htm)
+
+Spark < 2.0的发布版本中，如果要集成Hive，你必须使用HiveContext。除此之外，与SQLContext最大不同在于对[window functions](#windowfunction)的支持和访问Hive UDFs(user defined functions)的能力。
+
+window functions是很酷的特性，能用来解决复杂问题而不用在RDDs和DataFrames之间来来回回。性能也相当好，特别是没有PARTITION BY语句。
+
+Hive UDFs现在不是什么严重问题，但在Spark 1.5之前很多SQL functions已经用Hive UDFs实现，因而也需要HiveContext继续工作。其最大问题可能就是依赖东西太多。
+
+Spark 2.0+以后版本提供了native window functions，因此较少依赖Hive来完成核心功能。
+
+##### Window Function
+Spark 1.5之前, Spark SQL支持两种类型function来计算一个单独的返回值，Built-in functions或称为UDFs, 例如substr和round, 从单独一行数据获得输入, 然后计算产生一个单独的返回值，每一行的计算规则都是如此。Aggregate functions, 例如SUM和MAX, 操作a group of rows，然后计算一个返回值，每一组的计算规则都如此。
+
+但实际上这两种方式不足以满足所有需求，例如无法计算a group of rows后却仍旧为每一行数据返回一个值。这样限制使不同的data processing tasks变得困难，例如计算变化的平均值, 计算累计的合。但幸运的是Spark SQL的用户可以用window functions来解决这些困难。
+
+一个window function为一组数据行称为Frame中每一条数据计算返回值。每一个输入行都有唯一的frame与之关联。这个特性使window functions更加强大，能够表达更多很困难表示出来的数据处理任务。refer to [explanation](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
+
