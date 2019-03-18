@@ -24,7 +24,9 @@ SPARK集群主要包括master节点和很多worker节点。
 #### 运行
 ![Image of Run1](https://sigmoid.com/wp-content/uploads/2015/03/Apache_Spark1.png)
 
-![Image of Run2](https://databricks.com/wp-content/uploads/2018/05/Apache-Spark-Streaming-ecosystem-diagram.png)
+![Image of Run2](https://cdn.intellipaat.com/mediaFiles/2017/02/three-ways-Apache-Spark.jpg)
+
+![Image of Run3](https://databricks.com/wp-content/uploads/2018/05/Apache-Spark-Streaming-ecosystem-diagram.png)
 
 #### 使用
 - **setup Spark**
