@@ -52,6 +52,7 @@
     - [Netstat](#netstat)
     - [Pstree](#pstree)
     - [SSH](#ssh)
+    - [OpenSSL](SSL-JKS-CERT.md#show-certificate)
     - [Scp](#scp)
     - [Stat](#stat)
     - [Tar](#tar)
@@ -535,6 +536,15 @@ bGludXguY29t
 # decode string
 $ echo -n bGludXguY29t | base64 -d  
 linux.com
+
+# ±ÜÃâecho»ØÏÔ»»ĞĞ·û
+# -n  do not output the trailing newline
+king@suse-leap:~/source/github/griffin> echo -n 'linux.com'
+linux.comking@suse-leap:~/source/github/griffin> 
+# Ä¬ÈÏ»á½«»»ĞĞ·û»ØÏÔ
+king@suse-leap:~/source/github/griffin> echo 'linux.com'
+linux.com
+king@suse-leap:~/source/github/griffin> 
 ```
 
 #### stat

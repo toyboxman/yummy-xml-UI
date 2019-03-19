@@ -167,4 +167,10 @@ $ keytool -printcert -file MYCERT.crt
 
 # 按照文本格式展示der证书内容
 $ openssl x509 -in MYCERT.der -inform der -text
+
+# 查看远端server的证书链
+$ echo -n | openssl s_client -connect scan.coverity.com:443
+# 将远端server的证书内容写入本地文件
+$ echo -n | openssl s_client -connect scan.coverity.com:443 \
+| sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' | sudo tee -a /etc/ssl/certs/ca-
 ```
