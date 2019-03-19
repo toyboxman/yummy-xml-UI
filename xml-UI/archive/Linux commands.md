@@ -666,6 +666,11 @@ crontab -r
 #### Curl
 > [Link](http://conqueringthecommandline.com/book/curl)
 ```bash
+# (H) means HTTP/HTTPS only, (F) means FTP only
+# -i, --include   Include protocol headers in the output (H/F)
+# -k, --insecure  Allow connections to SSL sites without certs (H)
+# -d, --data DATA     HTTP POST data (H)
+# --data-raw DATA  HTTP POST data, '@' allowed (H)
 curl -i -k -X POST https://10.162.122.147/ws.v1/login \
             -H "Content-Type: application/x-www-form-urlencoded" \
             -d 'username=admin&password=Defaultca$hc0w'
@@ -689,6 +694,14 @@ curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
 # 比如 api/v1/jobs/instances?jobId={}&page={}执行会失败 可以用curl参数
 # -G, --get  Put the post data in the URL and use GET 将-d参数放到url中
 curl -k -H "Accept: application/json" -G http://127.0.0.1:8080/api/v1/jobs/instances -d jobId=827 -d page=1
+
+# -s, --silent        Silent mode (don't output anything)
+# -S, --show-error    Show error
+# --form CONTENT  Specify HTTP multipart POST data (H)
+# --form-string STRING  Specify HTTP multipart POST data (H)
+$ curl -s --form project="toyboxman/griffin" --form token="Gq7XIfGqmUJcDrC7XVr4vw" \
+https://scan.coverity.com/api/upload_permitted
+{"upload_permitted":true}
 ```
 
 ##### download
