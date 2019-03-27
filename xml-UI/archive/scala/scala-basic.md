@@ -472,5 +472,6 @@ inlineExceptionHandlers  24  optimization: inline exception handlers
 
 ## Scala Samples
 - [http rest](./sample/es.scala)
+- [wrap long line](./sample/wrap-line.scala)
 
     

@@ -1,10 +1,3 @@
-***
-
-## Use headOption instead of head
-
-### head potentially leads NPE
-scala的集合提供获取第一个元素操作，但如果是空集合就会导致空指针异常抛出
-```scala
 package org.apache.griffin.measure.utils
 
 import scala.io.Source
@@ -137,5 +130,3 @@ object WrapUtil {
   }
 
 }
-
-```
