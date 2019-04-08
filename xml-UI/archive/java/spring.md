@@ -6,8 +6,7 @@
 #### Spring boot
 Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML configuration，减少应用开发时间，提供快速简单启动应用的方式。
 
-包括如下特点：
-
+包括如下特点：<br>
     1. A flexible way to configure Java Beans, XML configurations, and Database Transactions.
     2. A powerful batch processing and manages REST endpoints.
     3. In Spring Boot, everything is auto configured; no manual configurations are needed.
