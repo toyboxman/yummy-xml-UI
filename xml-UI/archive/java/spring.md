@@ -8,12 +8,12 @@ Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂
 
 包括如下特点：
 
-    * A flexible way to configure Java Beans, XML configurations, and Database Transactions.
-    - A powerful batch processing and manages REST endpoints.
-    - In Spring Boot, everything is auto configured; no manual configurations are needed.
-    - It offers annotation-based spring application
-    - Eases dependency management
-    - It includes Embedded Servlet Container
+    1. A flexible way to configure Java Beans, XML configurations, and Database Transactions.
+    2. A powerful batch processing and manages REST endpoints.
+    3. In Spring Boot, everything is auto configured; no manual configurations are needed.
+    4. It offers annotation-based spring application
+    5. Eases dependency management
+    6. It includes Embedded Servlet Container
 
 - @EnableAutoConfiguration
 
