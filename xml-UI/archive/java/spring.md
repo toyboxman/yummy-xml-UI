@@ -7,6 +7,7 @@
 Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML configuration，减少应用开发时间，提供快速简单启动应用的方式。
 
 包括如下特点：
+
     - A flexible way to configure Java Beans, XML configurations, and Database Transactions.
     - A powerful batch processing and manages REST endpoints.
     - In Spring Boot, everything is auto configured; no manual configurations are needed.
@@ -15,12 +16,15 @@ Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂
     - It includes Embedded Servlet Container
 
 - @EnableAutoConfiguration
+
 通过此annotation设定，Spring Boot能基于项目依赖自动配置应用. 例如，如果MySQL database在classpath中, 而你没配置database connection, 但Spring Boot会自动配置一个in-memory database.
 
 - @ComponentScan
+
 Spring Boot自动扫描所有项目中用此标签声明的components。
 
 - @Configuration
+
 表明有@Bean声明method的class会由Spring container管理，产生bean definitions和运行期对这些bean的service requests。
 ```java
 // 声明AppConfig类实例由容器管理
