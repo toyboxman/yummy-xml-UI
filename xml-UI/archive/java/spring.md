@@ -3,7 +3,7 @@
 ## Spring Notes
 
 ### Concept
-#### [Spring boot](Spring boot)
+#### [Spring boot](https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm)
 Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML configuration，减少应用开发时间，提供快速简单启动应用的方式。
 
 包括如下特点：<br>
