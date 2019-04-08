@@ -3,12 +3,12 @@
 ## Spring Notes
 
 ### Concept
-#### Spring boot
+#### [Spring boot](Spring boot)
 Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML configuration，减少应用开发时间，提供快速简单启动应用的方式。
 
 包括如下特点：<br>
-  1. A flexible way to configure Java Beans, XML configurations, and Database Transactions.
-  2. A powerful batch processing and manages REST endpoints.
+1. A flexible way to configure Java Beans, XML configurations, and Database Transactions.
+2. A powerful batch processing and manages REST endpoints.
 3. In Spring Boot, everything is auto configured; no manual configurations are needed.
 4. It offers annotation-based spring application
 5. Eases dependency management
@@ -46,7 +46,7 @@ Spring Boot应用的入口是设定此annotation class的main method，会自动触发auto-confi
 
 Spring Boot会提供一些模板化依赖关系，来解决不同类型工程依赖管理难题。所有Spring Boot starters遵循相同命名规则 spring-boot-starter- *, *表明哪种应用。例如，如果开发Spring与JPA来访问数据库应用, 在工程中包含spring-boot-starter-data-jpa的依赖就足够了。
 
-    * write a Rest Endpoints
+* write a Rest Endpoints
     ```
     <dependency>
         <groupId>org.springframework.boot</groupId>
