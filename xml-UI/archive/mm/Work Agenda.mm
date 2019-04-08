@@ -174,7 +174,12 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1433136997346" ID="ID_364691355" MODIFIED="1528079828114" TEXT="Java">
+<node CREATED="1553759045742" ID="ID_1505612463" MODIFIED="1553759051331" TEXT="github">
+<node CREATED="1553759063797" ID="ID_1494450932" LINK="https://github.com/search/advanced" MODIFIED="1553759099864" TEXT="search"/>
+<node CREATED="1553759210665" ID="ID_1398316539" LINK="https://help.github.com/en/articles/searching-code#search-within-a-users-or-organizations-repositories" MODIFIED="1553759240114" TEXT="code search guide"/>
+</node>
+<node CREATED="1554688595799" ID="ID_703275505" LINK="http://cwe.mitre.org/" MODIFIED="1554688649698" TEXT="weakness"/>
+<node COLOR="#00b439" CREATED="1433136997346" FOLDED="true" ID="ID_364691355" MODIFIED="1554688529976" TEXT="Java">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1335256192912" FOLDED="true" ID="ID_186029309" LINK="http://en.wikipedia.org/wiki/Category:Java_development_tools" MODIFIED="1529562863791" TEXT="Dev tools">
@@ -262,7 +267,7 @@
 <node CREATED="1540195894755" ID="ID_1972485601" LINK="https://www.programcreek.com/" MODIFIED="1542165442247" TEXT="programcreek">
 <node CREATED="1542164775771" ID="ID_1443708526" LINK="https://www.geeksforgeeks.org/" MODIFIED="1542164793775" TEXT="geeksforgeeks"/>
 </node>
-<node COLOR="#00b439" CREATED="1505703110968" FOLDED="true" ID="ID_1196948541" MODIFIED="1542165254731" TEXT="web">
+<node COLOR="#00b439" CREATED="1505703110968" FOLDED="true" ID="ID_1196948541" MODIFIED="1554688546816" TEXT="web">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <node COLOR="#990000" CREATED="1505703119678" ID="ID_1124745693" LINK="https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx.html" MODIFIED="1528079828120" TEXT="Nginx">
 <edge COLOR="#111111" WIDTH="thin"/>
@@ -277,7 +282,7 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1515984756415" FOLDED="true" ID="ID_276036334" MODIFIED="1542165252260" TEXT="security">
+<node COLOR="#00b439" CREATED="1515984756415" FOLDED="true" ID="ID_276036334" MODIFIED="1554688511024" TEXT="security">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <node COLOR="#990000" CREATED="1515984762095" ID="ID_226975596" LINK="https://en.wikipedia.org/wiki/X.509#Certificate_filename_extensions" MODIFIED="1528079828121" TEXT="X.509">
 <edge COLOR="#111111" WIDTH="thin"/>

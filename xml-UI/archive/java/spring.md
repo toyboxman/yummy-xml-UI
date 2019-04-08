@@ -2,6 +2,52 @@
 
 ## Spring Notes
 
+### Concept
+#### Spring boot
+Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML configuration，减少应用开发时间，提供快速简单启动应用的方式。
+
+包括如下特点：
+    - A flexible way to configure Java Beans, XML configurations, and Database Transactions.
+    - A powerful batch processing and manages REST endpoints.
+    - In Spring Boot, everything is auto configured; no manual configurations are needed.
+    - It offers annotation-based spring application
+    - Eases dependency management
+    - It includes Embedded Servlet Container
+
+- @EnableAutoConfiguration
+通过此annotation设定，Spring Boot能基于项目依赖自动配置应用. 例如，如果MySQL database在classpath中, 而你没配置database connection, 但Spring Boot会自动配置一个in-memory database.
+
+- @ComponentScan
+Spring Boot自动扫描所有项目中用此标签声明的components。
+
+- @Configuration
+表明有@Bean声明method的class会由Spring container管理，产生bean definitions和运行期对这些bean的service requests。
+```java
+// 声明AppConfig类实例由容器管理
+@Configuration
+public class AppConfig {
+
+    // 声明MyBean类实例由容器管理
+    @Bean
+    public MyBean myBean() {
+        // instantiate, configure and return bean ...
+    }
+}
+```
+
+- @SpringBootApplication
+Spring Boot应用的入口是设定此annotation class的main method，会自动触发auto-configuration和component scanning行为。这是一个convenience annotation，等价于declaring @Configuration, @EnableAutoConfiguration和@ComponentScan。
+
+- Spring Boot starters
+Spring Boot会提供一些模板化依赖关系，来解决不同类型工程依赖管理难题。所有Spring Boot starters遵循相同命名规则 spring-boot-starter- *, *表明哪种应用。例如，如果开发Spring与JPA来访问数据库应用, 在工程中包含spring-boot-starter-data-jpa的依赖就足够了。
+    - write a Rest Endpoints
+    ```
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    ```
+
 ### 1.Unit Test
 spring框架提供了和junit集成的方式
 * junit integrates with spring<br>
