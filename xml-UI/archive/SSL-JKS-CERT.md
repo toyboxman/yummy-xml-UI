@@ -1,7 +1,7 @@
 
 ---
 
-### *不同类型的安全证书转换*
+### *安全与加密*
 - [digital signature/certificate](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)<br>
 
 ---
@@ -15,7 +15,7 @@ Java的应用如果使能TLS协议，需要处理安全证书, 证书通过JDK自带keystore来存储map en
 如果要将pem格式证书导入JDK keystore必须转换成PKCS12格式，然后才能通过JDK提供的keytool导入
 - [certificate-transform](https://www.digitalocean.com/community/tutorials/java-keytool-essentials-working-with-java-keystores)
 
-## *JDK keytool*
+### *JDK keytool*
 
 * Create java keystore repo
 ```shell
@@ -113,7 +113,7 @@ Certificate fingerprint (SHA1): AA:B8:4E:7A:0E:D8:D8:A9:48:1A:37:EC:13:D0:C7:42:
 
 ```
 
-## *OpenSSL pkcs12*
+### *OpenSSL pkcs12*
 * Create p12 keystore importing from pem file
 ``` bash
 #The generated KeyStore is eneCert.pkcs12 with an entry specified by the myAlias alias.
@@ -144,7 +144,7 @@ $ openssl pkcs12 -in /tmp/hostname-keystore.p12 -passin pass:password \
   -nokeys -out /opt/cloudera/security/pki/hostname.pem
 ```
 
-## *OpenSSL x509*
+### *OpenSSL x509*
 - [pem format](https://www.digicert.com/ssl-support/pem-ssl-creation.htm)
 * Converting DER Encoded Certificates to PEM
 ``` bash
@@ -155,7 +155,7 @@ $ openssl x509 -inform der -in /opt/cloudera/security/pki/hostname.cer -out /tmp
 $ openssl x509 -outform der -in certificate.pem -out certificate.der
 ```
 
-## *Show certificate*
+### *Show certificate*
 ```bash
 # 按照文本格式展示证书内容
 $ openssl x509 -in certificate.pem -text
@@ -173,4 +173,20 @@ $ echo -n | openssl s_client -connect scan.coverity.com:443
 # 将远端server的证书内容写入本地文件
 $ echo -n | openssl s_client -connect scan.coverity.com:443 \
 | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' | sudo tee -a /etc/ssl/certs/ca-
+```
+
+### *GPG*
+[GnuPG/GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)是Symantec's PGP加密套件的免费替代软件，遵循RFC 4880 OpenPGP规范。 Keyservers在公钥加密体系中扮演一个重要角色，因为公钥需要能在全网分布式存储并且公开访问。例如，签名消息的收方需要使用发送方的公钥来验证消息签名的合法性，而加密消息的发送方需要收方公钥来加密发送的消息。Keyservers就成为发布公钥的central repositories。
+
+OpenPGP clients连接到keyservers, 上传导入public keys, 如果原公钥已经不在本地的public key-ring中，例如被更改或撤销，那么公钥也需要被更新。两方交换使用HKP (OpenPGP HTTP Keyserver Protocol) protocol or HKPS for the the TLS secured version。互联网上有很多keyservers，这些server之间会做信息交换，像[MIT](https://pgp.mit.edu/) , [Ubuntu](http://keyserver.ubuntu.com:11371/)
+```
+# 全新生成key pair对
+$ gpg --full-generate-key
+
+# 查看当前系统中的public key和签名
+$ gpg --list-keys
+$ gpg --list-signatures
+
+# 将uid为邮件地址的PGP PUBLIC KEY BLOCK导出为文件
+$ gpg --armor --export xxx@mail.org > mykey.asc
 ```
