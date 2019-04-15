@@ -79,3 +79,59 @@ In many rural areas of the Russian Far East and Siberia, there are few other way
 When pressed, she declined to discuss her concessions in detail, but according to the company’s website, she had invested $20 million in Russia by 2015
 在被追问时，她拒绝谈论自己的特许权的详情，但该公司网站显示，截至2015年，她已在俄罗斯投资了2000万美元
 
+The business can be quite profitable, especially when Bitcoin prices are soaring, but the process requires considerable amounts of electricity.
+这项业务非常有利可图，特别是在比特币价格飙升的时候，但这个过程需要耗费大量电力
+
+At one point, China accounted for roughly two-thirds of all Bitcoin produced.
+中国一度占到比特币总算力的三分之二左右。
+
+But China keeps a tight grip over how much money flows in and out of its borders, and cryptocurrencies — which are traded on decentralized computer networks and allow people to make transactions anonymously — threatened to undermine those capital controls.
+但中国严格控制资金的进出，而加密货币在分散的计算机网络上交易，并允许人们匿名交易，这就有可能破坏它对资本的管制。
+
+The Chinese authorities began to ratchet up pressure on Bitcoin miners.
+中国当局开始对比特币矿工施压
+
+Just since 1990, the mortality rate for children under 5 has fallen in China by 83 percent — suggesting, by my calculations, that an additional 676,000 Chinese children survive each year who previously would have died.
+自1990年以来，中国五岁以下儿童死亡率下降了83%——根据我的计算，这意味着中国每年新增67.6万名儿童存活下来，在此之前他们可能死亡。
+
+I used to believe that China was best approached with ambivalence, but in the last few years the ambivalence has faded into wariness.
+我曾经认为，与中国打交道最好是带着点矛盾心理，但在最近几年，这种矛盾已逐渐演变成警惕。
+
+First, to the extent possible, we should try to curb Chinese high-technology firms’ access to Western markets. These businesses are a security threat, and the Trump administration is right to be concerned. If a company like Huawei is asked to cooperate with Chinese State Security spies, its executives simply can’t say no.
+首先，我们应该尽可能地限制中国高科技公司进入西方市场。这些企业是安全威胁，特朗普政府有理由感到担忧。如果像华为这样的公司被要求与中国国家安全间谍合作，它的高管们肯定不会说不。
+
+China purchased a Boeing 767 in 2000 to be its presidential jet and it arrived riddled with listening devices. China inevitably will try to do to us what we already did to it.
+2000年，中国购买了一架波音767飞机作为其领导人专机，飞机交付时安装了许多监听设备。中国将会试图对我们做的事情，我们也做过，这是不可避免的。
+
+A few days ago, China announced that it would soon ban all variants of fentanyl, a welcome step that may make a difference. But China often promises cooperation that does not materialize, and everything will depend on enforcement over the country’s 160,000 chemical companies. Too many lives hang in the balance to take China at its word.
+几天前，中国宣布将很快禁止所有种类的芬太尼，这是一个令人欣喜的举措，可能会产生效果。但中国承诺的合作经常得不到实现，一切将取决于对中国16万家化工企业的执法。这关系到太多生命，不能只听中国嘴上说说就当真。
+
+Neighbors become informants. Children are interrogated. Mosques are monitored.
+邻居成为告密者。儿童遭到审问。清真寺被监控。
+
+Muslim minorities line up, stone-faced, to swipe their official identity cards. At big checkpoints, they lift their chins while a machine takes their photos, and wait to be notified if they can go on.
+少数民族穆斯林面无表情地排队刷身份证。大型岗哨会有机器给他们拍照，他们抬起下巴，等待放行通知。
+
+The extra money is not coming from Juilliard. The local government is footing the bill. And that could become a problem for officials struggling with debt after an epic spending spree to develop a new commercial center from scratch.
+额外的钱不是由茱莉亚学院出资，而是由当地政府埋单。对已经在大举花钱从无到有建起一座商业中心的政府而言，这可能会成为问题。
+
+Four-fifths of the office space stands empty. Construction on other buildings has stopped, leaving skeletons in the sky. A sprawling mall has few shoppers. 
+其中五分之四的办公空间是空的。其他建筑物的建设已经停止，只留下高耸的骨架。一个庞大的购物中心几乎没有顾客。
+
+Chinese local governments are swimming in debt. By official accounts, that debt totals $4.5 trillion. By unofficial estimates, it could be as large as $10 trillion. No one knows for sure because much of the borrowing for projects like the Tianjin Juilliard campus is rarely disclosed.
+中国地方政府债台高筑。据官方统计，债务总额为4.5万亿美元。据非官方估计，这一数字可能高达10万亿美元。没有人确切知道，因为像天津茱莉亚音乐学院这种项目的贷款很少被披露。
+
+But China is not growing as fast as it used to, and it is not clear that the “build it and they will come” model will save Yujiapu and other places with big debts. The national government now must find other ways to spur growth — without making the debt problem worse.
+但中国的经济增长速度已不如从前，“只要盖好了，一切都会来”的模式能否拯救于家堡等债台高筑的地方，目前还不清楚。国家政府现在必须找到其他方法来刺激经济增长——同时不让债务问题更加恶化。
+
+If Yujiapu really is the Manhattan of China, it has a way to go to catch up to the real thing. Its avenues, some nearly as wide as Broadway, are eerily quiet.
+如果于家堡真是中国的曼哈顿，那它还有很长的路要走。它的街道有些几乎和百老汇一样宽，但是出奇的安静
+
+If the political will collapses for the Binhai area, then the bank loans will begin to dry up and the whole area is in trouble
+如果滨海新区的政治意志崩溃，那么银行贷款将开始枯竭，整个地区都会陷入困境
+
+Many residents believe Yujiapu’s problems have been overstated and try to cast its emptiness in a positive light
+许多居民认为于家堡的问题被夸大了，并试图从正面看待空置现象
+
+“Now, there are quite a lot of internet companies, including some e-commerce platforms,” he said, speculating that these companies could move into his building in the future.
+“现在你看互联网公司就比较多了，包括一些电商平台，”他说，他猜测这些公司将来会搬进他所在的大楼。
