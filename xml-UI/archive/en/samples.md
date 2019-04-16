@@ -135,3 +135,54 @@ Many residents believe Yujiapu’s problems have been overstated and try to cast 
 
 “Now, there are `quite a lot of` internet companies, including some e-commerce platforms,” he said, `speculating` that these companies could move into his building in the future.
 “现在你看互联网公司就比较多了，包括一些电商平台，”他说，他`猜测`这些公司将来会搬进他所在的大楼。
+
+Just as he had on previous trips, Zhu Feng bolted down his lunch at the Los Angeles airport before sprinting to catch his Air China flight back to Beijing.
+和前几次旅行时一样，朱峰在洛杉矶机场匆匆吃完午餐后，跑去赶中国国际航空公司的航班回北京。
+
+They flipped to the well-used 10-year visa to the United States and crossed out the page with a black pen.
+他们翻到已经用过多次的来美10年签证那页，用一支黑笔在上面打了个大叉。
+
+Now, that door appears to be closing, with the two nations ramping up their strategic rivalry and each regarding academic visitors from the other with greater suspicion — of espionage, commercial theft and political meddling.
+现在，这扇门似乎正在关闭，两国之间的战略竞争日益加剧，彼此都对对方的学术访问者有更大的怀疑，怀疑他们从事间谍活动、商业盗窃和政治干预。
+
+“These people are among the most sophisticated in how the U.S. works and are some of the strongest advocates of good relations with the United States,”
+We are alienating some of America’s best friends in China.”
+“这些人中有些是最了解美国如何运作的人，也是最强烈主张与美国保持良好关系的人，我们正在疏远美国在中国的一些最好的朋友。”
+
+A driving rain lashed the hills while the premier was there on Thursday.
+在总理到访的周二，山上下起了暴雨。
+
+The reassuring language was part of a broader effort to convince increasingly skeptical European nations that China comes in peace.
+此种安抚性的表述属于一项总体行动的一部分，其目标是让日益持怀疑态度的欧洲国家确信，中国没有恶意。
+
+The thickening ranks of China’s economic allies have left European officials increasingly wary. Last month, Italy formally signed on to China’s vast ‘‘One Belt, One Road’’ project, new Silk Road into Europe. On Friday, the summit meeting was capped by Greece’s announcement that it had joined, too.
+中国经济盟友队伍的扩大使欧洲官员越来越警惕。上月，意大利正式加入中国庞大的“一带一路”项目，即进入欧洲的新丝绸之路。在周五的峰会上，希腊也宣布加入。
+
+That does not mean that all is roses even between China and its newly forged economic allies in the group. But by aggressively courting the nations on Europe’s eastern and southern flank, Western officials worry that China is stoking division within the European Union.
+这并不意味着一团和气，即便在中国和集团内的新经济盟友之间都谈不上。但是，如此大举拉拢欧洲东部和南部侧翼的国家，令西方官员担心中国正在加剧欧盟内部的分裂。
+
+“I think that the fact that today we became 17 plus one is the good news of the day,” Greek Prime Minister Alexis Tspiras said on Friday. “I look forward to working with all of you in the framework of this initiative in full respect of the rules and procedures of the European Union.”
+“我认为，今天我们成为17+1这一事实是重大利好，”希腊总理亚历克西斯·齐普拉斯(Alexis Tspiras)周五表示。“我期待在充分尊重欧盟规则和程序的情况下，在这项倡议的框架内与大家合作。”
+
+China’s presence is no longer a novelty in this part of Europe, where its track record is decidedly more complicated than it was when the economic bloc was formed.
+在欧洲的这一区域，中国的存在已经不是新鲜事，但此时中国的过往表现无疑要比经济集团形成时更复杂。
+
+Similarly, the Czech Republic, led by the avowed Sinophile President Milos Zeman, has traditionally been among Europe’s most solicitous nations. But calls by its cybersecurity agency to limit the use of Huawei as well as the tech giant ZTE in critical infrastructure have infuriated Beijing.
+捷克共和国在公开表示亲华的总统米洛什·泽曼(Milos Zeman)领导下，历来是对中国最热情的欧洲国家之一。但其网络安全机构同样要求限制华为和科技巨头中兴在关键基础设施中的使用，令北京大为光火。
+
+In Hungary, Prime Minister Viktor Orban declared his China friendly ‘‘Opening to the East’’ policy in 2010, and has sought to use the prospect of a flood of money from China as leverage in his ongoing battles with Brussels over his government’s authoritarian drift. Yet there have been no major new Chinese investments for the past seven years.
+在匈牙利，总理欧尔班·维克托(Viktor Orban)2010年宣布了对中国友好的“向东开放”政策，并在同欧盟就其政府的威权主义倾向展开的持续斗争中，利用中国资金大量涌入的前景为筹码。然而，在过去七年里，中国没有进行任何重大的新投资。
+
+“Instead of engaging endlessly with China and pleading for it to change its ways,” said Fran?ois Godement, a senior adviser for Asia at the Institut Montaigne in Paris, “the Commission suggests that Europe should change track and adopt a set of robust defensive policies, some of which will have an effect whatever China’s response may be.”
+“与其无休止地与中国接触，恳求中国改变它的方式，”巴黎蒙田研究所的资深亚洲问题专家顾德明(Fran?ois Godement)说，“欧盟委员会建议，欧洲应该改变方向，采用一套坚定的防御政策，其中一些无论中国作出什么反应都会起作用。”
+
+Now, China has agreed to cut the price tag on the project by one-third to $11 billion, in a tacit acknowledgment that the economics of the original deal did not make financial sense.
+现在，中国已同意将该项目的价格降低三分之一，减为110亿美元，默认了原来的协议在经济上行不通。
+
+the program provided a way to use the country’s economic clout to build trade ties and win friends across Asia, Africa and Europe
+该项目为利用中国的经济影响力建立贸易联系，在亚洲、非洲和欧洲广交朋友提供了一条途径。
+
+As the new government began to pare back the debt, Mr. Mahathir announced that the administration would halt the East Coast Rail Link project and the gas pipeline deal, citing the high costs.
+随着新政府开始削减债务，马哈蒂尔宣布，由于成本高昂，政府将暂停东海岸铁路线项目和天然气管道交易。
+
+
