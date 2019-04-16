@@ -133,5 +133,5 @@ If the political will collapses for the Binhai area, then the bank loans will be
 Many residents believe Yujiapu’s problems have been overstated and try to cast its emptiness in a positive light
 许多居民认为于家堡的问题被夸大了，并试图从正面看待空置现象
 
-“Now, there are quite a lot of internet companies, including some e-commerce platforms,” he said, speculating that these companies could move into his building in the future.
-“现在你看互联网公司就比较多了，包括一些电商平台，”他说，他猜测这些公司将来会搬进他所在的大楼。
+“Now, there are `quite a lot of` internet companies, including some e-commerce platforms,” he said, `speculating` that these companies could move into his building in the future.
+“现在你看互联网公司就比较多了，包括一些电商平台，”他说，他`猜测`这些公司将来会搬进他所在的大楼。
