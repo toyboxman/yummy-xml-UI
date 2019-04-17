@@ -14,15 +14,15 @@ Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂
 5. Eases dependency management
 6. It includes Embedded Servlet Container
 
-- @EnableAutoConfiguration
+- **@EnableAutoConfiguration**
 
 通过此annotation设定，Spring Boot能基于项目依赖自动配置应用. 例如，如果MySQL database在classpath中, 而你没配置database connection, 但Spring Boot会自动配置一个in-memory database.
 
-- @ComponentScan
+- **@ComponentScan**
 
 Spring Boot自动扫描所有项目中用此标签声明的components。
 
-- @Configuration
+- **@Configuration**
 
 表明有@Bean声明method的class会由Spring container管理，产生bean definitions和运行期对这些bean的service requests。
 ```java
@@ -38,19 +38,27 @@ public class AppConfig {
 }
 ```
 
-- @SpringBootApplication
+- **@SpringBootApplication**
 
 Spring Boot应用的入口是设定此annotation class的main method，会自动触发auto-configuration和component scanning行为。这是一个convenience annotation，等价于declaring @Configuration, @EnableAutoConfiguration和@ComponentScan。
 
-- @Component
+- **@Component**
 
 表明被声明的class是一个"component"，使用自动配置和classpath scanning时候，这样的classes能够被自动找到(auto-detection)。其他class-level annotations也可被认为声明一个component。e.g. @Repository annotation or AspectJ's @Aspect annotation。
 
-- @Service
+- **@Service**
 
 表明被声明的class是一个"Service", 原始定义来自于Domain-Driven Design (Evans, 2003)，"an operation offered as an interface that stands alone in the model, with no encapsulated state." 也能理解为class是一个"Business Service Facade" (in the Core J2EE patterns sense)。此标签是个general-purpose stereotype，使用者可以根据使用需求缩小其语义范畴。可看做@Component的一种特例(specialization), 允许实现类通过classpath scanning被自动搜索到。
 
-- Spring Boot starters<br>Spring Boot会提供一些模板化依赖关系，来解决不同类型工程依赖管理难题。所有Spring Boot starters遵循相同命名规则 spring-boot-starter- *, *表明哪种应用。例如，如果开发Spring与JPA来访问数据库应用, 在工程中包含spring-boot-starter-data-jpa的依赖就足够了。
+- **@Controller**
+
+表明被声明的class是一个"Controller" (e.g. a web controller)。这是@Component的一种特例，允许实现类被自动搜索到。典型应用是Class与@RequestMapping声明的handler方法组合一起来处理web URL的映射。
+
+- **@Repository**
+表明被声明的class是一个"Repository", 作为一种封装存储、获取和搜寻数据行为的机制。
+Spring 2.5之后, 此标签也作为@Component的一种特例, 允许实现类通过classpath scanning被自动搜索到。
+
+- **Spring Boot starters**<br>Spring Boot会提供一些模板化依赖关系，来解决不同类型工程依赖管理难题。所有Spring Boot starters遵循相同命名规则 spring-boot-starter- *, *表明哪种应用。例如，如果开发Spring与JPA来访问数据库应用, 在工程中包含spring-boot-starter-data-jpa的依赖就足够了。
     * write a Rest Endpoints
     ```
     <dependency>
