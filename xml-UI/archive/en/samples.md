@@ -1,4 +1,4 @@
-we have an old saying: “tian gao, huangdi yuan,” or, “the emperor is as far away as the sky.” We use it to reassure ourselves 
+we have `an old saying`: “tian gao, huangdi yuan,” or, “the emperor is `as far away as the sky`.” We use it to `reassure` ourselves 
 有句老话，叫“天高皇帝远”。我们用它来宽慰自己
 
 a professor in international relations explained that Singapore was an authoritarian state, where the government wielded tremendous control over citizens’ daily lives.
