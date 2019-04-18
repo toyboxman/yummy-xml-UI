@@ -283,3 +283,69 @@ Sure, it’s possible that is overstating the matter. It’s possible they are jus
 
 But judging by Lululemon’s recent results, which saw net revenue rise 21 percent in the third quarter of 2018, and the fact that part of Levi’s much-heralded IPO was attributed to the “stretch” now included in jeans to cater to the leggings market, this “popular clothing choice” (as The Observer labeled them) is not going away any time soon. All this suggests that the Notre Dame uproar may not be a fluke, but a harbinger.
 但请看Lululemon近期的销售结果，该品牌在2018年第三季度净营收增长21%；事实上，李维斯(Levi’s)新一轮大肆宣传的IPO部分是为迎合紧身裤市场而为牛仔裤加入的“拉伸”元素所带来的，因此这种“流行着装选择”（这是《观察者》为紧身裤打上的标签）在短期内不会消失。所有这些都表明，圣母大学的喧嚣可能不是一种偶然，而是预示着更多东西。
+
+Earlier in the day, Mr. Gou donned a baseball cap and sunglasses and visited a temple in Taipei dedicated to a popular Taoist and Buddhist goddess, Mazu, who is believed to protect seafarers.
+当天早些时候，郭台铭戴着棒球帽和太阳镜，前往台北一个供奉道教和佛教女神妈祖的寺庙参拜，妈祖被认为是航海者的保护神。
+
+Unlike his rivals, he has no experience in government, but his personal wealth, estimated by Forbes to exceed $7 billion, will be an asset, both in terms of prestige and financing his campaign.
+不同于竞选对手，他没有从政的经验，但他的个人财富——据《福布斯》(Forbes)估计超过70亿美元——无论是对他的声望，还是在提供竞选资金方面，都很有用。
+
+Mr. Gou has long toyed with the idea of a presidential run, Mr. Gou’s business background will set him apart from candidates in both the parties.
+郭台铭早有竞选总统的念头,郭台铭的商业背景将使他有别于民进党和国民党的其他候选人。
+
+ Just days after Mr. Trump lavished praise on him in Washington, Mr. Gou showed China’s premier, Li Keqiang, around a Foxconn manufacturing facility in the central Chinese city of Zhengzhou.
+就在特朗普在华盛顿对郭台铭大加赞扬的几天后，郭台铭带着中国总理李克强参观了富士康位于中国中部城市郑州的一个生产园区。
+
+Regardless who emerges as the Kuomintang candidate, the race promises to focus heavily on Taiwan’s tricky relationship with China. 
+无论谁在国民党初选中胜出，台湾与中国大陆的微妙关系都将成为这次总统大选的重点。
+
+President Tsai is facing a primary challenge within her party from her former premier, William Lai, who is an outspoken supporter of independence for Taiwan, in contrast to Ms. Tsai’s pragmatic approach.
+蔡英文总统在党内面临着来自前行政院长赖清德的主要挑战。赖清德直言不讳地支持台湾独立，这与蔡英文的务实做法形成鲜明对比。
+
+TikTok, the Chinese video app whose growth has been as viral as one of its lip-synced dance clips, has encountered a roadblock in India.
+TikTok的成长速度就像它上面某个爆红的对口型跳舞视频一样，现在这款来自中国的视频应用在印度遇阻。
+
+The lower court, based in Tamil Nadu State, is hearing a petition seeking a ban on the app, on the grounds that it spreads pornography and threatens the well-being of children.
+泰米尔纳德邦的下级法院正在就寻求禁止这款应用的请愿书举行听证，理由是它散播色情信息，危害儿童健康。
+
+TikTok’s lax controls have also incurred the wrath of American regulators.
+TikTok管控上的松懈也招致了美国监管机构的愤怒。
+
+Internet companies in the United States are supposed to seek such consent before allowing children to use their services, but India has no such regulations. That has left communities struggling to cope with technology’s influence on their children.
+在美国，互联网企业在允许儿童使用其服务前要先征得父母同意，但印度没有这类规定。这已导致众多社区很难应对科技对儿童的影响。
+
+More broadly, India’s central government is wrestling with an overhaul of its rules governing online services. 
+更广泛地说，印度中央政府正全力以赴，对其在线服务管理规则进行全面改革。
+
+Some Indian officials suspect that China’s government is using popular Chinese apps to scoop up private data on Indians.
+一些印度官员怀疑，中国政府正在利用这些热门中国应用采集印度公民的私人信息。
+
+“Wow, that’s quite an achievement!” Quake wrote back. “Hopefully she will carry to term …”
+“哇，这真是一个了不起的成就！”奎克回信说。“希望她能坚持到分娩……”
+
+Quake’s interactions with He reflect issues that leading scientific institutions are now grappling with.
+奎克与贺建奎的互动反映了领先的科研机构目前正在努力解决的问题。
+
+Quake is an entrepreneur whose inventions include blood tests to detect Down syndrome in pregnancy and to avoid organ transplant rejection.
+奎克是一名企业家，他的发明包括用于检测妊娠期唐氏综合症以及避免器官移植排异的血液检测。
+
+“I said, ‘That’s a terrible idea. Why would you want to do that?’” Quake recalled. “He kind of pushed back and it was clear that he wasn’t listening to me.”
+“我说，‘这是个糟糕的主意。你为什么要做这个呢？’”奎克回忆说。“他有点反驳的意思，显然他没听我的话。”
+
+“I didn’t think it was something he would seriously do,” said Quake, adding that he assumed if He sought ethical approval and was rebuffed, “presumably he’d stop.”
+“我当时没觉得他会把这事当真，”奎克说，他接着说他以为贺建奎寻求过伦理审批然后被拒了，“很可能他会罢休。”
+
+“If in my interactions with JK I had any hint of misconduct, I would have handled it completely differently. And I think I would have been very aggressive about telling people about that.”
+奎克在接受采访时表示。“如果在跟JK的互动中，我觉察到了任何行为不端的迹象，那么我的处理方式会完全不同。并且我会非常积极地去通报这件事。”
+
+He’s response unsettled him, he said. “The little corner-cutting thing came up again: ‘Well, there were actually two hospitals involved and you know, we had approval from one and we did work at both hospitals.’ And I said, ‘Well you better make sure you have that straightened out.’”
+他说，贺建奎的回答让他感到不安。“投机取巧的小花招又出现了：‘实际上有两家医院参与，你知道，我们得到了一家医院的批准，我们在两家医院都在做。’我说，‘你最好把这个解决好。’”
+
+Quake pushed back: “It is prudent to let the peer review process follow its course.”
+奎克反驳说：“让同行评审按部就班完成这个过程是明智之举。”
+
+“He was spinning up this huge press thing around it,” Quake explained in the interview. “It was going to go well or poorly, I didn’t really know. But it wasn’t something I was involved in and I didn’t want my name on it.”
+“他是在围绕这件事大肆炒作，”奎克在接受采访时解释说。“我真的不知道结果是好还是坏。但这件事与我无关，我不想让我的名字出现在上面。”
+
+“What do you want to be when you grow up?”When I was a kid, I dreaded the question. 
+“长大后你想做什么？”在我的孩提时代，我害怕这个问题。
