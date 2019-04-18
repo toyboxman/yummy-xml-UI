@@ -28,43 +28,43 @@ As the United States and China `edge closer to` a trade agreement, the ability t
 But it `remains unclear` which `provisions` of the trade deal will `be subject to enforcement` and how much power the United States will have to punish Beijing if it `reneges on` the agreement. The ability to `secure a firm commitment` from China to `hold up its end of the pact` or face repercussions will be a key determinant in whether President Trump’s trade deal is seen as a true win or a `capitulation`.
 但目前尚不清楚贸易协议的哪些条款在这种执行的范围之内，以及如果北京违反协议，美国将拥有多大的惩罚权力。特朗普总统的贸易协议是被视为真正的胜利还是投降，关键决定因素将在于能否让中国明确承诺会履行协议，否则要面临报复。
 
-China experts say enforcement is necessary given that the United States wants Beijing to make significant structural changes that will take time.
+China experts say enforcement is necessary `given that` the United States wants Beijing to `make significant structural changes` that will take time.
 中国问题专家表示，鉴于美国希望北京做出的重大结构改革并非短时间内能完成，执行的机制是必要的
 
-“I remain very cautious on this,” Mr. Allen said. “Will the Chinese really renounce the ability to retaliate at what they feel is an unfair trade action? I think it defies Chinese tradition.”
+“I `remain very cautious on` this,” Mr. Allen said. “Will the Chinese really `renounce` the ability to `retaliate` at what they feel is an unfair trade action? I think it `defies` Chinese tradition.”
 “我对此仍然非常谨慎，”艾伦说。“中国人真的会放弃报复的能力，哪怕看到他们认为不公平的贸易行为？我认为这不符合中国的一贯方式。”
 
-Mr. Trump, who met with a Chinese delegation in the Oval Office last week, said negotiators might require four more weeks to finish ironing out the deal.
+Mr. Trump, who met with a Chinese delegation in the `Oval Office` last week, said negotiators might require four more weeks to finish `ironing out` the deal.
 特朗普上周在椭圆形办公室会见了中国代表团，他表示谈判代表可能需要再过四周才能最终敲定协议。
 
-I remain confident in the prospects of a deal, but I think we need to be cleareyed and understand that China could walk away from expected commitments in purchases, market access, intellectual property and other areas if they don’t get something out of this deal, and that’s tariff relief
+I `remain confident` in the `prospects` of a deal, but I think we need to be `cleareyed` and understand that China could `walk away` from expected commitments in purchases, market access, intellectual property and other areas if they don’t get something out of this deal, and that’s `tariff relief`
 我对交易的前景仍然充满信心，但我认为我们需要保持清醒的头脑，并且明白如果不能从协议中获得些什么，中国可能会放弃采购、市场准入、知识产权及其他方面预计会有的承诺，而他们想要的就是关税减免。
 
-Far from panicking at his misfortune, he used his five months of severance pay to hang out for a few weeks with friends and ponder other career options
+Far from `panicking` at his misfortune, he used his five months of severance pay to `hang out` for a few weeks with friends and `ponder` other career options
 他非但没有对自己的厄运感到恐慌，反而用他拿到的五个月的遣散费和朋友们潇洒了几周，琢磨其他的职业选择
 
-Yet as the Ford layoffs show, economic warning signs are starting to emerge in China. Inflation has gradually crept up. Economic growth has slowly eroded.
+Yet as the Ford layoffs show, `economic warning signs` are starting to `emerge` in China. Inflation has `gradually crept up`. Economic growth has slowly `eroded`.
 然而，如福特的裁员所显示的那样，经济预警信号已开始在中国出现。通货膨胀率已逐渐上升。经济增长则在慢慢减缓。
 
-A huge pedestrian plaza in the Guanyinqiao neighborhood pulses with lights and crowds even on weekday nights. The trees are illuminated with bright lanterns.
+A huge `pedestrian plaza` in the Guanyinqiao neighborhood `pulses with` lights and crowds even on weekday nights. The trees are `illuminated with bright lanterns`.
 观音桥附近的一个巨大的步行广场灯火通明，即使在工作日的晚上也是人潮涌动。树上挂着明亮的灯笼。
 
-Under the ground burrows an extensive subway system. The monorail and subway were almost entirely built in the last 15 years.
+Under the ground `burrows` an extensive subway system. The monorail and subway were almost `entirely` built in the last 15 years.
 城市的地下有一个巨大的地铁系统。单轨和地铁几乎都是在过去15年里建起来的。
 
-Mr. Bo ended up sentenced to life in prison for bribetaking, embezzlement and abuse of power.
+Mr. Bo `ended up` sentenced to life in prison for bribetaking, `embezzlement` and abuse of power.
 最终因受贿、贪污和滥用职权被判处无期徒刑。
 
-From the Altai Mountains to the Pacific Coast, logging is ravaging Russia’s vast forests, leaving behind swathes of scarred earth studded with dying stumps.
+From the Altai Mountains to the Pacific Coast, `logging` is `ravaging` Russia’s vast forests, leaving behind `swathes of scarred` earth `studded with dying stumps`.
 从阿尔泰山脉到太平洋沿岸，砍伐正在毁坏俄罗斯广袤的森林，之后留下的，是伤痕累累的土地上遍布着的垂死树桩。
 
-Since China began restricting commercial logging in its own natural forests two decades ago, it has increasingly turned to Russia, importing huge amounts of wood in 2017 to satisfy the voracious appetite of its construction companies and furniture manufacturers.
+Since China began restricting commercial logging in its own natural forests two decades ago, it has `increasingly` turned to Russia, importing huge amounts of wood in 2017 to satisfy the `voracious appetite` of its construction companies and furniture manufacturers.
 自二十年前开始限制本国天然森林的商业采伐以来，中国已日益将矛头转向俄罗斯，2017年进口了巨量木材，以满足其建筑公司和家具制造商的巨大需求。
 
-Environmentalists say China has simply shifted the harm of unbridled logging from home to abroad, even as it reaps the economic benefits. Some warn that the scale of logging today could deplete what unspoiled forests remain, contributing to global warming.
+Environmentalists say China has simply shifted the harm of `unbridled` logging from home to abroad, even as it `reaps` the economic benefits. Some warn that the scale of logging today could `deplete` what `unspoiled` forests remain, `contributing to` global warming.
 环保主义者称，中国只是把肆无忌惮的采伐的危害从国内转移到了海外，甚至从中获得了经济利益。一些人士警告称，今天的伐木规模可能会耗尽未遭破坏的森林，从而加剧全球变暖。
 
-It is one thing for Chinese demand to overwhelm small, poor nations desperate for cash, but it is another for it to drain the resources of a far larger country, one that regards itself as a superpower and a strategic partner to China.
+It is one thing for Chinese demand to `overwhelm` small, poor nations desperate for cash, but it is another for it to `drain the resources` of a far larger country, one that regards itself as a superpower and a strategic partner to China.
 中国的需求令急需现金的穷困小国无法招架是一回事，耗尽一个大国的资源就是另一回事了，而这个国家还将自己视为超级大国，以及中国的战略伙伴。
 
 What we are doing now in Siberia and the Far East is destroying what is left of the original intact forest landscapes
