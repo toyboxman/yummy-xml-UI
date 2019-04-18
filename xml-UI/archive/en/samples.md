@@ -1,31 +1,31 @@
 we have `an old saying`: “tian gao, huangdi yuan,” or, “the emperor is `as far away as the sky`.” We use it to `reassure` ourselves 
 有句老话，叫“天高皇帝远”。我们用它来宽慰自己
 
-a professor in international relations explained that Singapore was an authoritarian state, where the government wielded tremendous control over citizens’ daily lives.
+a professor in international relations explained that Singapore was an `authoritarian state`, where the government `wielded tremendous control` over citizens’ daily lives.
 一位国际关系教授解释说，新加坡是一个专制国家，政府对民众的日常生活指手画脚。
 
-we could follow the commentary posted by public intellectuals there, so we wouldn’t have to simply accept the government’s narrative
+we could `follow the commentary` posted by `public intellectuals` there, so we `wouldn’t have to simply accept the government’s narrative`
 可以在上面关注那些公共知识分子发表的评论，这样我们就不用只接受政府的一面之词
 
-I couldn’t wait to go back home; I believed it was poised to become a place where idealists like me would thrive.
+I `couldn’t wait to` go back home; I believed `it was poised to` become a place where idealists like me would `thrive`.
 我迫不及待地想回家；我相信它会成为一个像我这样的理想主义者如鱼得水的地方
 
-security checks were instituted in the subway system. We grew used to policemen checking people’s identity cards in interchange stations.
+security checks `were instituted` in the subway system. We `grew used to` policemen checking people’s identity cards in interchange stations.
 地铁系统增加了安检。慢慢地，我们习惯了警察在换乘站检查身份证。
 
-a story that had gone viral in my WeChat feeds overnight: “A BBC reporter challenged China’s surveillance network — and it took only seven minutes to capture him!” I couldn’t tell which terrified me more: China’s all-encompassing network of facial recognition surveillance cameras, or that my countrymen were proudly cheering them on.
+a story that had `gone viral` in my WeChat `feeds overnight`: “A BBC reporter challenged China’s surveillance network — and it took only seven minutes to capture him!” I couldn’t tell which terrified me more: China’s `all-encompassing network of facial recognition` surveillance cameras, or that my `countrymen` were proudly cheering them on.
 看到一篇一夜走红的报道：“BBC记者挑战中国天网工程，潜逃七分钟后被抓获！”我说不出哪个更让我害怕：是中国无所不在的人脸识别监控摄像头网络，还是我的同胞们在骄傲地为它喝彩。
 
-Entering train stations felt like crossing border control at an international airport — my identity was not only confirmed by someone checking my documents, but also by one of the ubiquitous facial recognition cameras. 
+Entering train stations felt like crossing border control at an international airport — my identity was not only confirmed by someone checking my documents, but also by one of the `ubiquitous facial recognition cameras`. 
 进入火车站就像在国际机场通过边境管制一样——不仅有人检查我的文件并确认我的身份，无处不在的面部识别摄像头也在确认我的身份
 
-Our mind-set, long ago, was wired to see safety and freedom as an either-or choice
+Our `mind-set`, `long ago`, `was wired to` see safety and freedom as `an either-or choice`
 长久以来，我们的思维定势是将安全和自由视为非此即彼的选择
 
-As the United States and China edge closer to a trade agreement, the ability to reach a final deal is coming down to a central question: Will Beijing live up to its promises?
+As the United States and China `edge closer to` a trade agreement, the ability to reach a final deal is `coming down to` a central question: Will Beijing `live up to` its promises?
 随着美国和中国距离一项贸易协议越来越近，最终达成协议将取决于一个核心问题：北京是否会兑现其承诺？
 
-But it remains unclear which provisions of the trade deal will be subject to enforcement and how much power the United States will have to punish Beijing if it reneges on the agreement. The ability to secure a firm commitment from China to hold up its end of the pact or face repercussions will be a key determinant in whether President Trump’s trade deal is seen as a true win or a capitulation.
+But it `remains unclear` which `provisions` of the trade deal will `be subject to enforcement` and how much power the United States will have to punish Beijing if it `reneges on` the agreement. The ability to `secure a firm commitment` from China to `hold up its end of the pact` or face repercussions will be a key determinant in whether President Trump’s trade deal is seen as a true win or a `capitulation`.
 但目前尚不清楚贸易协议的哪些条款在这种执行的范围之内，以及如果北京违反协议，美国将拥有多大的惩罚权力。特朗普总统的贸易协议是被视为真正的胜利还是投降，关键决定因素将在于能否让中国明确承诺会履行协议，否则要面临报复。
 
 China experts say enforcement is necessary given that the United States wants Beijing to make significant structural changes that will take time.
