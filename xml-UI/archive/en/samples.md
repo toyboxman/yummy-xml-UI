@@ -349,3 +349,55 @@ Quake pushed back: “It is prudent to let the peer review process follow its cou
 
 “What do you want to be when you grow up?”When I was a kid, I dreaded the question. 
 “长大后你想做什么？”在我的孩提时代，我害怕这个问题。
+
+My first beef with the question is that it forces kids to define themselves in terms of work. When you’re asked what you want to be when you grow up, it’s not socially acceptable to say, “A father,” or, “A mother,” let alone, “A person of integrity.” 
+对于这个问题我的第一个不满是，它逼迫孩子们用一种工作来定义自己。当你被问到长大以后想做什么时，回答“一个父亲”、“一个母亲”在社交意义上是不可接受的，更不要说“一个正直的人”了。
+
+Although having a calling can be a source of joy, research shows that searching for one leaves students feeling lost and confused. And even if you’re lucky enough to stumble onto a calling, it might not be a viable career.
+尽管拥有天职会是一种欢乐之源，但研究显示，寻找天职会让学生们感到迷茫和困惑。而且即便你足够幸运碰上了一样天职，它也可能不是个可行的职业。
+
+Maybe four of them could be anything they want to be. But the other 2,000 had better learn how to weld. He added: “Tell the kids the truth. You can be anything you’re good at — as long as they’re hiring.”
+也许他们中有四人可能会成为任何他们想成为的人。但其他2000人最好学会怎么焊接。他接着说：“跟孩子说实话。你可以去做任何你擅长的事——前提是他们在招人。”
+
+If you manage to overcome those obstacles, there is a third hurdle: Careers rarely live up to your childhood dreams.
+如果你能克服这些障碍，还有第三道：职业很少能达到你童年梦想的期望。
+
+In one study, looking for the ideal job left college seniors feeling more anxious, stressed, overwhelmed and depressed throughout the process — and less satisfied with the outcome. As Tim Urban writes, happiness is reality minus expectations. If you’re looking for bliss, you’re bound to be disappointed. 
+在一项研究中，寻找理想工作让高年级大学生在整个过程中感到更加焦虑、压抑、无力和沮丧——并对结果更加不满。如蒂姆·厄本(Tim Urban)所写，幸福等于现实状况减去期望值。如果你寻找的是狂喜，那么你注定会失望。
+
+The upside of low expectations is that they erase the gap between what we wanted and what we got. Extensive evidence shows that instead of painting a rosy picture of a job, you’re better off going in with a realistic preview of what it’s really like, warts and all.
+低期望值的一个好处是，它们能消弭我们所想与所得之间的差距。大量证据表明，与其把一份工作想象得很美好，还不如在入职时贴合实际地预想一下它真实的样子，并且毫无保留。
+
+I’m all for encouraging youngsters to aim high and dream big. 
+我完全支持年轻人力争上游、志存高远。
+
+Mr. Pillsbury said he took that to imply that his visa application had been stymied in reprisal for the new restrictions.
+白邦瑞说，他把该官员的意思理解为，他的签证申请受阻是对这些新限制的报复。
+
+He used a Chinese idiom to characterize the move: killing a chicken to scare the monkeys, which means sending a warning by making someone an example.
+他用了一个中国成语来形容这种报复：杀鸡儆猴，意思是惩罚某人以警戒他人。
+
+F.B.I. had rescinded or put on review the visas of as many as 30 Chinese scholars who visit the United States, reflecting growing concern about Chinese intelligence-gathering.
+FBI吊销了或重新审查了多达30名来美国访问的中国学者的签证，反映出政府对中国情报收集活动的担忧日益加剧。
+
+Some people in China have their own label for the polarizing American president: savior.
+对于这位让公众意见两极分化的美国总统，中国一些人有自己的标签：救世主。
+
+At dinner tables, in social media chats and in discreet conversations, some of the country’s intellectual and business elite are half-jokingly, half-seriously cheering on the leader
+在餐桌上、在社交媒体聊天时、在谨慎的交谈中，中国一些知识分子和商界精英半开玩笑半认真地为这位领导人喝彩
+
+The chances that Mr. Trump alone can change China's ways are exceedingly slim.
+单凭特朗普一人改变中国行事方式的几率极其渺茫。
+
+“There’s only a pool of stagnant water.”
+“只有一潭死水。”
+
+leadership has embraced some modest liberalization. The government has promised to cut taxes, ease other burdens on the private sector and give markets a somewhat bigger role in the economy.
+领导层已经接受了某种适度的自由化。政府已承诺减税、减轻民营部门负担，并让市场在经济中发挥更大作用。
+
+But there’s little evidence that the leadership is easing its grip in a lasting way. The few business-friendly gestures are reactive rather than proactive. 
+但鲜有证据表明，中国的领导层正在以持久的方式放松管控。为数不多的企业友好表态是应对之举，而不是主动求变。
+
+There is a caveat: The signs of improvement most likely do not stem from a sudden burst of confidence in the strength of the country’s economy among Chinese business leaders.
+但需要警告的是：经济好转的迹象很可能并非源自中国商界领袖对中国经济实力的信心突然爆发。
+
