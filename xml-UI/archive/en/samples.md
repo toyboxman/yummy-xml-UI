@@ -278,32 +278,32 @@ When did leggings make the leap from garment to cultural lightning rod? For what
 As a result, what the leggings uproar may have exposed is not so much anyone’s physique per se, but rather a cultural fault line that runs through generations. 
 因此，紧身裤风波所暴露的，与其说是什么人的身材，还不如说是贯穿几代人的文化断层。
 
-Sure, it’s possible that is overstating the matter. It’s possible they are just stretchy footless tights that are easy to wear.
-当然，这有可能夸大了事实。它很可能仅仅是一种容易穿上身的不连袜弹力紧身裤。
+Sure, it’s possible that is `overstating the matter`. It’s possible they are just `stretchy footless tights` that are easy to wear.
+当然，这有可能`夸大了事实`。它很可能仅仅是一种容易穿上身的`不连袜弹力紧身裤`。
 
-But judging by Lululemon’s recent results, which saw net revenue rise 21 percent in the third quarter of 2018, and the fact that part of Levi’s much-heralded IPO was attributed to the “stretch” now included in jeans to cater to the leggings market, this “popular clothing choice” (as The Observer labeled them) is not going away any time soon. All this suggests that the Notre Dame uproar may not be a fluke, but a harbinger.
-但请看Lululemon近期的销售结果，该品牌在2018年第三季度净营收增长21%；事实上，李维斯(Levi’s)新一轮大肆宣传的IPO部分是为迎合紧身裤市场而为牛仔裤加入的“拉伸”元素所带来的，因此这种“流行着装选择”（这是《观察者》为紧身裤打上的标签）在短期内不会消失。所有这些都表明，圣母大学的喧嚣可能不是一种偶然，而是预示着更多东西。
+But `judging by` Lululemon’s recent results, which saw net revenue rise 21 percent in the third quarter of 2018, and the fact that part of Levi’s `much-heralded` IPO `was attributed to` the “stretch” now included in jeans to cater to the `leggings market`, this “popular clothing choice” (as The Observer labeled them) is `not going away any time soon`. All this suggests that the Notre Dame `uproar` may not be a `fluke, but a harbinger`.
+但`请看Lululemon近期的销售结果`，该品牌在2018年第三季度净营收增长21%；事实上，李维斯(Levi’s)新一轮`大肆宣传的`IPO部分是为`迎合紧身裤市场`而为牛仔裤加入的“拉伸”元素所带来的，因此这种“流行着装选择”（这是《观察者》为紧身裤打上的标签）在`短期内不会消失`。所有这些都表明，圣母大学的`喧嚣`可能不是一种`偶然`，而是`预示`着更多东西。
 
-Earlier in the day, Mr. Gou donned a baseball cap and sunglasses and visited a temple in Taipei dedicated to a popular Taoist and Buddhist goddess, Mazu, who is believed to protect seafarers.
-当天早些时候，郭台铭戴着棒球帽和太阳镜，前往台北一个供奉道教和佛教女神妈祖的寺庙参拜，妈祖被认为是航海者的保护神。
+`Earlier in the day`, Mr. Gou `donned a baseball cap and sunglasses` and visited a temple in Taipei `dedicated to` a popular `Taoist and Buddhist` goddess, Mazu, who `is believed to` protect seafarers.
+`当天早些时候`，郭台铭`戴着棒球帽`和太阳镜，前往台北一个`供奉道教和佛教`女神妈祖的寺庙参拜，妈祖`被认为`是航海者的保护神。
 
-Unlike his rivals, he has no experience in government, but his personal wealth, estimated by Forbes to exceed $7 billion, will be an asset, both in terms of prestige and financing his campaign.
-不同于竞选对手，他没有从政的经验，但他的个人财富——据《福布斯》(Forbes)估计超过70亿美元——无论是对他的声望，还是在提供竞选资金方面，都很有用。
+`Unlike his rivals`, he has no experience in government, but his personal wealth, estimated by Forbes to exceed $7 billion, will be an asset, `both in terms of prestige` and financing his campaign.
+`不同于竞选对手`，他没有从政的经验，但他的个人财富—据《福布斯》(Forbes)估计超过70亿美元—无论是对他的`声望`，还是在提供竞选资金方面，都很有用。
 
-Mr. Gou has long toyed with the idea of a presidential run, Mr. Gou’s business background will set him apart from candidates in both the parties.
-郭台铭早有竞选总统的念头,郭台铭的商业背景将使他有别于民进党和国民党的其他候选人。
+Mr. Gou has `long toyed with the idea of a presidential run`, Mr. Gou’s business background will `set him apart from` candidates in both the parties.
+郭台铭`早有竞选总统的念头`,郭台铭的商业背景将使他`有别于`民进党和国民党的其他候选人。
 
- Just days after Mr. Trump lavished praise on him in Washington, Mr. Gou showed China’s premier, Li Keqiang, around a Foxconn manufacturing facility in the central Chinese city of Zhengzhou.
-就在特朗普在华盛顿对郭台铭大加赞扬的几天后，郭台铭带着中国总理李克强参观了富士康位于中国中部城市郑州的一个生产园区。
+`Just days after` Mr. Trump `lavished praise on` him in Washington, Mr. Gou showed China’s premier, Li Keqiang, around a Foxconn manufacturing facility in the central Chinese city of Zhengzhou.
+就在特朗普在华盛顿对郭台铭`大加赞扬`的`几天后`，郭台铭带着中国总理李克强参观了富士康位于中国中部城市郑州的一个生产园区。
 
-Regardless who emerges as the Kuomintang candidate, the race promises to focus heavily on Taiwan’s tricky relationship with China. 
-无论谁在国民党初选中胜出，台湾与中国大陆的微妙关系都将成为这次总统大选的重点。
+`Regardless` who emerges as the Kuomintang candidate, the race `promises to focus heavily` on Taiwan’s tricky relationship with China. 
+`无论`谁在国民党初选中胜出，台湾与中国大陆的微妙关系都`将成为这次总统大选的重点`。
 
-President Tsai is facing a primary challenge within her party from her former premier, William Lai, who is an outspoken supporter of independence for Taiwan, in contrast to Ms. Tsai’s pragmatic approach.
-蔡英文总统在党内面临着来自前行政院长赖清德的主要挑战。赖清德直言不讳地支持台湾独立，这与蔡英文的务实做法形成鲜明对比。
+President Tsai is `facing a primary challenge within her party` from her former premier, William Lai, who is an `outspoken` supporter of independence for Taiwan, `in contrast to` Ms. Tsai’s `pragmatic approach`.
+蔡英文总统在党内`面临`着来自前行政院长赖清德的主要挑战。赖清德`直言不讳`地支持台湾独立，这与蔡英文的`务实做法`形成`鲜明对比`。
 
-TikTok, the Chinese video app whose growth has been as viral as one of its lip-synced dance clips, has encountered a roadblock in India.
-TikTok的成长速度就像它上面某个爆红的对口型跳舞视频一样，现在这款来自中国的视频应用在印度遇阻。
+TikTok, the Chinese video app whose growth has been `as viral as` one of its `lip-synced dance clips`, has `encountered a roadblock` in India.
+TikTok的成长速度就像它上面某个`爆红的对口型跳舞视频`一样，现在这款来自中国的视频应用在印度`遇阻`。
 
 The lower court, based in Tamil Nadu State, is `hearing a petition` seeking a `ban` on the app, `on the grounds that` it `spreads pornography` and threatens the `well-being` of children.
 泰米尔纳德邦的下级法院正在就寻求`禁止`这款应用的`请愿书举行听证`，`理由是`它`散播`色情信息，危害儿童`健康`。
