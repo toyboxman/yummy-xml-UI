@@ -305,86 +305,86 @@ President Tsai is facing a primary challenge within her party from her former pr
 TikTok, the Chinese video app whose growth has been as viral as one of its lip-synced dance clips, has encountered a roadblock in India.
 TikTok的成长速度就像它上面某个爆红的对口型跳舞视频一样，现在这款来自中国的视频应用在印度遇阻。
 
-The lower court, based in Tamil Nadu State, is hearing a petition seeking a ban on the app, on the grounds that it spreads pornography and threatens the well-being of children.
-泰米尔纳德邦的下级法院正在就寻求禁止这款应用的请愿书举行听证，理由是它散播色情信息，危害儿童健康。
+The lower court, based in Tamil Nadu State, is `hearing a petition` seeking a `ban` on the app, `on the grounds that` it `spreads pornography` and threatens the `well-being` of children.
+泰米尔纳德邦的下级法院正在就寻求`禁止`这款应用的`请愿书举行听证`，`理由是`它`散播`色情信息，危害儿童`健康`。
 
-TikTok’s lax controls have also incurred the wrath of American regulators.
-TikTok管控上的松懈也招致了美国监管机构的愤怒。
+TikTok’s `lax controls` have also `incurred the wrath` of American regulators.
+TikTok`管控上的松懈`也`招致`了美国监管机构的`愤怒`。
 
-Internet companies in the United States are supposed to seek such consent before allowing children to use their services, but India has no such regulations. That has left communities struggling to cope with technology’s influence on their children.
-在美国，互联网企业在允许儿童使用其服务前要先征得父母同意，但印度没有这类规定。这已导致众多社区很难应对科技对儿童的影响。
+Internet companies in the United States `are supposed to seek such consent` before allowing children to use their services, but India has no such regulations. That has left communities `struggling to cope with` technology’s influence on their children.
+在美国，互联网企业在允许儿童使用其服务前`要先征得父母同意`，但印度没有这类规定。这已导致众多社区`很难应对`科技对儿童的影响。
 
-More broadly, India’s central government is wrestling with an overhaul of its rules governing online services. 
-更广泛地说，印度中央政府正全力以赴，对其在线服务管理规则进行全面改革。
+`More broadly`, India’s central government is `wrestling with` an `overhaul` of its rules governing online services. 
+`更广泛地说`，印度中央政府正`全力以赴`，对其在线服务管理规则进行`全面改革`。
 
-Some Indian officials suspect that China’s government is using popular Chinese apps to scoop up private data on Indians.
-一些印度官员怀疑，中国政府正在利用这些热门中国应用采集印度公民的私人信息。
+Some Indian officials suspect that China’s government is using popular Chinese apps to `scoop up private data` on Indians.
+一些印度官员怀疑，中国政府正在利用这些热门中国应用`采集印度公民的私人信息`。
 
-“Wow, that’s quite an achievement!” Quake wrote back. “Hopefully she will carry to term …”
-“哇，这真是一个了不起的成就！”奎克回信说。“希望她能坚持到分娩……”
+“Wow, that’s `quite an achievement`!” Quake wrote back. “Hopefully she will `carry to term` …”
+“哇，这真是一个`了不起的成就`！”奎克回信说。“希望她能`坚持到分娩`……”
 
-Quake’s interactions with He reflect issues that leading scientific institutions are now grappling with.
-奎克与贺建奎的互动反映了领先的科研机构目前正在努力解决的问题。
+Quake’s interactions with He reflect issues that leading scientific institutions are now `grappling with`.
+奎克与贺建奎的互动反映了领先的科研机构目前正在`努力解决`的问题。
 
-Quake is an entrepreneur whose inventions include blood tests to detect Down syndrome in pregnancy and to avoid organ transplant rejection.
-奎克是一名企业家，他的发明包括用于检测妊娠期唐氏综合症以及避免器官移植排异的血液检测。
+Quake is an entrepreneur whose inventions include blood tests to detect Down syndrome in pregnancy and to `avoid organ transplant rejection`.
+奎克是一名企业家，他的发明包括用于检测妊娠期唐氏综合症以及`避免器官移植排异`的血液检测。
 
-“I said, ‘That’s a terrible idea. Why would you want to do that?’” Quake recalled. “He kind of pushed back and it was clear that he wasn’t listening to me.”
-“我说，‘这是个糟糕的主意。你为什么要做这个呢？’”奎克回忆说。“他有点反驳的意思，显然他没听我的话。”
+“I said, ‘That’s a terrible idea. Why would you want to do that?’” Quake `recalled`. “He `kind of pushed back` and it was clear that he wasn’t listening to me.”
+“我说，‘这是个糟糕的主意。你为什么要做这个呢？’”奎克`回忆`说。“他`有点反驳`的意思，显然他没听我的话。”
 
-“I didn’t think it was something he would seriously do,” said Quake, adding that he assumed if He sought ethical approval and was rebuffed, “presumably he’d stop.”
-“我当时没觉得他会把这事当真，”奎克说，他接着说他以为贺建奎寻求过伦理审批然后被拒了，“很可能他会罢休。”
+“I didn’t think it was something `he would seriously do`,” said Quake, adding that he assumed if He sought `ethical approval` and was `rebuffed`, “`presumably` he’d stop.”
+“我当时没觉得他`会把这事当真`，”奎克说，他接着说他以为贺建奎寻求过`伦理审批`然后被`拒`了，“`很可能`他会罢休。”
 
-“If in my interactions with JK I had any hint of misconduct, I would have handled it completely differently. And I think I would have been very aggressive about telling people about that.”
-奎克在接受采访时表示。“如果在跟JK的互动中，我觉察到了任何行为不端的迹象，那么我的处理方式会完全不同。并且我会非常积极地去通报这件事。”
+“If in my interactions with JK I had any `hint of misconduct`, I would have handled it completely differently. And I think `I would have been very aggressive about telling` people about that.”
+奎克在接受采访时表示。“如果在跟JK的互动中，我觉察到了任何`行为不端的迹象`，那么我的处理方式会完全不同。并且我会`非常积极地去通报`这件事。”
 
-He’s response unsettled him, he said. “The little corner-cutting thing came up again: ‘Well, there were actually two hospitals involved and you know, we had approval from one and we did work at both hospitals.’ And I said, ‘Well you better make sure you have that straightened out.’”
-他说，贺建奎的回答让他感到不安。“投机取巧的小花招又出现了：‘实际上有两家医院参与，你知道，我们得到了一家医院的批准，我们在两家医院都在做。’我说，‘你最好把这个解决好。’”
+He’s response `unsettled` him, he said. “`The little corner-cutting thing came up` again: ‘Well, there were actually two hospitals involved and you know, we had approval from one and we did work at both hospitals.’ And I said, ‘Well you better make sure you `have that straightened out`.’”
+他说，贺建奎的回答让他`感到不安`。“`投机取巧的小花招又出现了`：‘实际上有两家医院参与，你知道，我们得到了一家医院的批准，我们在两家医院都在做。’我说，‘你最好`把这个解决好`。’”
 
-Quake pushed back: “It is prudent to let the peer review process follow its course.”
-奎克反驳说：“让同行评审按部就班完成这个过程是明智之举。”
+Quake `pushed back`: “It is `prudent` to let the peer review process `follow its course`.”
+奎克`反驳`说：“让同行评审`按部就班`完成这个过程是`明智之举`。”
 
-“He was spinning up this huge press thing around it,” Quake explained in the interview. “It was going to go well or poorly, I didn’t really know. But it wasn’t something I was involved in and I didn’t want my name on it.”
-“他是在围绕这件事大肆炒作，”奎克在接受采访时解释说。“我真的不知道结果是好还是坏。但这件事与我无关，我不想让我的名字出现在上面。”
+“He was `spinning up this huge press thing` around it,” Quake explained in the interview. “`It was going to go well or poorly`, I didn’t really know. But `it wasn’t something I was involved in` and I didn’t want my name on it.”
+“他是在围绕这件事`大肆炒作`，”奎克在接受采访时解释说。“我真的`不知道结果是好还是坏`。`但这件事与我无关`，我不想让我的名字出现在上面。”
 
-“What do you want to be when you grow up?”When I was a kid, I dreaded the question. 
-“长大后你想做什么？”在我的孩提时代，我害怕这个问题。
+“What do you want to be when you grow up?”When I was a kid, I `dreaded` the question. 
+“长大后你想做什么？”在我的孩提时代，我`害怕`这个问题。
 
-My first beef with the question is that it forces kids to define themselves in terms of work. When you’re asked what you want to be when you grow up, it’s not socially acceptable to say, “A father,” or, “A mother,” let alone, “A person of integrity.” 
-对于这个问题我的第一个不满是，它逼迫孩子们用一种工作来定义自己。当你被问到长大以后想做什么时，回答“一个父亲”、“一个母亲”在社交意义上是不可接受的，更不要说“一个正直的人”了。
+My first `beef with the question` is that it forces kids to define themselves `in terms of` work. When you’re asked what you want to be when you grow up, it’s not `socially acceptable to say`, “A father,” or, “A mother,” let alone, “A person of integrity.” 
+对于这个问题我的第一个`不满`是，它逼迫孩子们用一种工作来定义自己。当你被问到长大以后想做什么时，回答“一个父亲”、“一个母亲”在`社交意义上是不可接受的`，更不要说“一个正直的人”了。
 
-Although having a calling can be a source of joy, research shows that searching for one leaves students feeling lost and confused. And even if you’re lucky enough to stumble onto a calling, it might not be a viable career.
-尽管拥有天职会是一种欢乐之源，但研究显示，寻找天职会让学生们感到迷茫和困惑。而且即便你足够幸运碰上了一样天职，它也可能不是个可行的职业。
+Although `having a calling` can be a source of joy, research shows that searching for one leaves students feeling `lost and confused`. And even if you’re `lucky enough to stumble onto a calling`, it might not be a `viable career`.
+尽管`拥有天职`会是一种欢乐之源，但研究显示，寻找天职会让学生们感到`迷茫和困惑`。而且即便你`足够幸运碰上了一样天职`，它也可能不是个`可行的职业`。
 
-Maybe four of them could be anything they want to be. But the other 2,000 had better learn how to weld. He added: “Tell the kids the truth. You can be anything you’re good at — as long as they’re hiring.”
-也许他们中有四人可能会成为任何他们想成为的人。但其他2000人最好学会怎么焊接。他接着说：“跟孩子说实话。你可以去做任何你擅长的事——前提是他们在招人。”
+Maybe four of them could be anything they want to be. But the other 2,000 `had better learn` how to `weld`. He added: “Tell the kids the truth. You can be anything you’re good at — as long as they’re hiring.”
+也许他们中有四人可能会成为任何他们想成为的人。但其他2000人`最好学会`怎么`焊接`。他接着说：“跟孩子说实话。你可以去做任何你擅长的事——前提是他们在招人。”
 
-If you manage to overcome those obstacles, there is a third hurdle: Careers rarely live up to your childhood dreams.
-如果你能克服这些障碍，还有第三道：职业很少能达到你童年梦想的期望。
+If you `manage to overcome` those `obstacles`, there is a third `hurdle`: Careers `rarely live up to` your childhood dreams.
+如果你`能克服`这些`障碍`，还有第三道：职业`很少能达到`你童年梦想的期望。
 
-In one study, looking for the ideal job left college seniors feeling more anxious, stressed, overwhelmed and depressed throughout the process — and less satisfied with the outcome. As Tim Urban writes, happiness is reality minus expectations. If you’re looking for bliss, you’re bound to be disappointed. 
-在一项研究中，寻找理想工作让高年级大学生在整个过程中感到更加焦虑、压抑、无力和沮丧——并对结果更加不满。如蒂姆·厄本(Tim Urban)所写，幸福等于现实状况减去期望值。如果你寻找的是狂喜，那么你注定会失望。
+In one study, looking for the ideal job left college seniors feeling more `anxious, stressed, overwhelmed and depressed` throughout the process — and less satisfied with the outcome. As Tim Urban writes, `happiness is reality minus expectations`. If you’re looking for `bliss`, you’re `bound to` be disappointed. 
+在一项研究中，寻找理想工作让高年级大学生在整个过程中感到更加`焦虑、压抑、无力和沮丧`—并对结果更加不满。如蒂姆·厄本(Tim Urban)所写，`幸福等于现实状况减去期望值`。如果你寻找的是`狂喜`，那么你`注定`会失望。
 
-The upside of low expectations is that they erase the gap between what we wanted and what we got. Extensive evidence shows that instead of painting a rosy picture of a job, you’re better off going in with a realistic preview of what it’s really like, warts and all.
-低期望值的一个好处是，它们能消弭我们所想与所得之间的差距。大量证据表明，与其把一份工作想象得很美好，还不如在入职时贴合实际地预想一下它真实的样子，并且毫无保留。
+The `upside` of low expectations is that they `erase the gap` between what we wanted and what we got. `Extensive evidence` shows that instead of `painting a rosy picture` of a job, `you’re better off going in` with a realistic preview of what it’s really like, `warts and all`.
+低期望值的一个`好处`是，它们能`消弭`我们所想与所得之间的差距。`大量证据`表明，与其把一份工作想象得很美好，还不如在入职时贴合实际地预想一下它真实的样子，并且`毫无保留`。
 
-I’m all for encouraging youngsters to aim high and dream big. 
-我完全支持年轻人力争上游、志存高远。
+I’m all for encouraging youngsters to `aim high and dream big`. 
+我完全支持年轻人`力争上游、志存高远`。
 
-Mr. Pillsbury said he took that to imply that his visa application had been stymied in reprisal for the new restrictions.
-白邦瑞说，他把该官员的意思理解为，他的签证申请受阻是对这些新限制的报复。
+Mr. Pillsbury said he took that to imply that his visa application had been `stymied` in `reprisal` for the new restrictions.
+白邦瑞说，他把该官员的意思理解为，他的签证申请`受阻`是对这些新限制的`报复`。
 
-He used a Chinese idiom to characterize the move: killing a chicken to scare the monkeys, which means sending a warning by making someone an example.
-他用了一个中国成语来形容这种报复：杀鸡儆猴，意思是惩罚某人以警戒他人。
+He used a `Chinese idiom` to `characterize` the move: killing a chicken to scare the monkeys, which means sending a warning by making someone an example.
+他用了一个`中国成语`来`形容`这种报复：杀鸡儆猴，意思是惩罚某人以警戒他人。
 
-F.B.I. had rescinded or put on review the visas of as many as 30 Chinese scholars who visit the United States, reflecting growing concern about Chinese intelligence-gathering.
-FBI吊销了或重新审查了多达30名来美国访问的中国学者的签证，反映出政府对中国情报收集活动的担忧日益加剧。
+F.B.I. had `rescinded` or put on review the visas of as many as 30 Chinese scholars who visit the United States, reflecting `growing concern` about Chinese intelligence-gathering.
+FBI`吊销`了或重新审查了多达30名来美国访问的中国学者的签证，反映出政府对中国情报收集活动的`担忧日益加剧`。
 
-Some people in China have their own label for the polarizing American president: savior.
-对于这位让公众意见两极分化的美国总统，中国一些人有自己的标签：救世主。
+Some people in China have their own label for the `polarizing` American president: savior.
+对于这位让公众意见`两极分化的`美国总统，中国一些人有自己的标签：救世主。
 
-At dinner tables, in social media chats and in discreet conversations, some of the country’s intellectual and business elite are half-jokingly, half-seriously cheering on the leader
-在餐桌上、在社交媒体聊天时、在谨慎的交谈中，中国一些知识分子和商界精英半开玩笑半认真地为这位领导人喝彩
+At dinner tables, in social media chats and in `discreet conversations`, some of the country’s `intellectual` and business elite are `half-jokingly, half-seriously` cheering on the leader
+在餐桌上、在社交媒体聊天时、在`谨慎的交谈`中，中国一些`知识分子`和商界精英`半开玩笑半认真地`为这位领导人喝彩
 
 The chances that Mr. Trump alone can change China's ways are `exceedingly slim`.
 单凭特朗普一人改变中国行事方式的几率`极其渺茫`。
