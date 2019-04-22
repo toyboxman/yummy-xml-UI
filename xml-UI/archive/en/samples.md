@@ -386,18 +386,18 @@ Some people in China have their own label for the polarizing American president:
 At dinner tables, in social media chats and in discreet conversations, some of the country’s intellectual and business elite are half-jokingly, half-seriously cheering on the leader
 在餐桌上、在社交媒体聊天时、在谨慎的交谈中，中国一些知识分子和商界精英半开玩笑半认真地为这位领导人喝彩
 
-The chances that Mr. Trump alone can change China's ways are exceedingly slim.
-单凭特朗普一人改变中国行事方式的几率极其渺茫。
+The chances that Mr. Trump alone can change China's ways are `exceedingly slim`.
+单凭特朗普一人改变中国行事方式的几率`极其渺茫`。
 
-“There’s only a pool of stagnant water.”
+“There’s only `a pool of stagnant water`.”
 “只有一潭死水。”
 
-leadership has embraced some modest liberalization. The government has promised to cut taxes, ease other burdens on the private sector and give markets a somewhat bigger role in the economy.
-领导层已经接受了某种适度的自由化。政府已承诺减税、减轻民营部门负担，并让市场在经济中发挥更大作用。
+leadership has `embraced` some `modest liberalization`. The government has promised to cut taxes, `ease other burdens` on the private sector and give markets `a somewhat bigger role` in the economy.
+领导层已经接受了某种`适度的自由化`。政府已承诺减税、减轻民营部门负担，并让市场在经济中发挥更大作用。
 
-But there’s little evidence that the leadership is easing its grip in a lasting way. The few business-friendly gestures are reactive rather than proactive. 
-但鲜有证据表明，中国的领导层正在以持久的方式放松管控。为数不多的企业友好表态是应对之举，而不是主动求变。
+But there’s little evidence that the leadership is `easing its grip in a lasting way`. The few `business-friendly gestures` are `reactive rather than proactive`. 
+但鲜有证据表明，中国的领导层正在`以持久的方式放松管控`。为数不多的企业友好表态是`应对之举，而不是主动求变`。
 
-There is a caveat: The signs of improvement most likely do not stem from a sudden burst of confidence in the strength of the country’s economy among Chinese business leaders.
-但需要警告的是：经济好转的迹象很可能并非源自中国商界领袖对中国经济实力的信心突然爆发。
+There is a `caveat`: The signs of improvement most likely do not `stem from` a sudden burst of confidence in the strength of the country’s economy among Chinese business leaders.
+但需要`警告`的是：经济好转的迹象很可能并非`源自`中国商界领袖对中国经济实力的信心突然爆发。
 
