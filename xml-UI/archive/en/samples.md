@@ -200,83 +200,83 @@ Assange, the world’s most famous self-proclaimed political refugee, lived there
 His words were a harbinger of the single charge of conspiracy to commit computer intrusion against Assange that the Justice Department unsealed Thursday.
 他的话预示了美国司法部周四公布的一项对阿桑奇密谋实施电脑入侵的指控。
 
-In some ways, Assange, 47, has never fully shed the rebellious, secretive ways of the precocious Australian teenager with a complicated family background who, with two pals, formed a hacking collective called the International Subversives.
-在某些方面，现年47岁的阿桑奇从未完全摆脱那个早熟的澳大利亚少年叛逆、隐秘的生活方式。他有着复杂的家庭背景，少年时曾与两个朋友组成一个名为“国际颠覆者”(International Subversives)的黑客组织。
+In some ways, Assange, 47, has never fully `shed` the rebellious, secretive ways of the `precocious` Australian teenager with a complicated family background who, with two `pals`, formed a hacking collective called the International Subversives.
+在某些方面，现年47岁的阿桑奇从未完全摆脱那个`早熟的`澳大利亚少年叛逆、隐秘的生活方式。他有着复杂的家庭背景，少年时曾与两个`朋友`组成一个名为“国际颠覆者”(International Subversives)的黑客组织。
 
-By 2006, when he founded WikiLeaks, Assange had adopted a nomadic lifestyle, roaming the world and pronouncing sometimes cryptic principles about secrecy and information
-到2006年创建维基解密时，阿桑奇已经开始过着四处流浪的生活，在世界各地漫游，有时还宣布一些语焉不详的保密和信息原则。
+By 2006, when he founded WikiLeaks, Assange had adopted a `nomadic lifestyle`, `roaming the world` and pronouncing sometimes cryptic principles about secrecy and information
+到2006年创建维基解密时，阿桑奇已经开始过着`四处流浪的生活`，`在世界各地漫游`，有时还宣布一些语焉不详的保密和信息原则。
 
-Bored and harboring doubts about the war and American foreign policy, she began copying thousands of documents from a classified network onto CDs that she marked as Lady Gaga songs to avoid detection.
-出于对战争和美国外交政策的厌倦和疑虑，她把一个机密网络中的数千份文件复制到光盘上，并将其标记为Lady Gaga的歌曲，以免被发现。
+`Bored and harboring doubts` about the war and American foreign policy, she began copying thousands of documents from a classified network onto CDs that she marked as Lady Gaga songs to avoid detection.
+出于对战争和美国外交政策的`厌倦和疑虑`，她把一个机密网络中的数千份文件复制到光盘上，并将其标记为Lady Gaga的歌曲，以免被发现。
 
-The War Logs, as they were called, were published in coordination with Le Monde, The Guardian and Der Spiegel, and they shed new light on civilian casualties, soldiers’ morale, the treatment of detainees and the use of contractors. 
-这些被他们称为“战争日志”的文件是与《世界报》(Le Monde)、《卫报》(Guardian)和《明镜周刊》(Der Spiegel)合作发布的，让人们对平民伤亡、士兵士气、被拘押者的待遇以及承包商的使用有了新的了解。
+The War Logs, as they were called, were `published in coordination` with Le Monde, The Guardian and Der Spiegel, and they `shed new light on` civilian casualties, soldiers’ morale, the treatment of detainees and the use of contractors. 
+这些被他们称为“战争日志”的文件是与《世界报》(Le Monde)、《卫报》(Guardian)和《明镜周刊》(Der Spiegel)`合作发布的`，让人们对平民伤亡、士兵士气、被拘押者的待遇以及承包商的使用有了`新的了解`。
 
-An editor’s note explained that they provided “a real-time history of the war,” but also struck an ambivalent chord about their source, WikiLeaks, which the note said “was not involved in the news organizations’ research, reporting, analysis and writing.”
-一份编辑手记解释说，它们提供了“战争的实时历史”；但同时对它们的来源维基解密表示出矛盾心态，该手记中写道，维基解密“没有参与新闻机构的研究、报道、分析和写作”。
+An editor’s note explained that they provided “a real-time history of the war,” but also `struck an ambivalent chord` about their source, WikiLeaks, which the note said “was not involved in the news organizations’ research, reporting, analysis and writing.”
+一份编辑手记解释说，它们提供了“战争的实时历史”；但同时对它们的来源维基解密`表示出矛盾心态`，该手记中写道，维基解密“没有参与新闻机构的研究、报道、分析和写作”。
 
-When the diplomatic cables were published, The Times and other news organizations worked closely with WikiLeaks to redact names to protect vulnerable people — but later, in a dispute with a British editor, Assange decided simply to publish the massive cable collection without any edits.
-公布外交电报时，时报和其他新闻机构曾与维基解密密切合作，对人名进行涂黑，以保护会面临危险的人——但后来在与一名英国编辑发生争执后，阿桑奇决定不做任何编辑，直接公布大量电文。
+When the diplomatic cables were published, The Times and other news organizations worked closely with WikiLeaks to `redact names` to protect vulnerable people — but later, in a dispute with a British editor, Assange decided simply to publish the `massive cable` collection without any edits.
+公布外交电报时，时报和其他新闻机构曾与维基解密密切合作，`对人名进行涂黑`，以保护会面临危险的人——但后来在与一名英国编辑发生争执后，阿桑奇决定不做任何编辑，直接公布`大量电文`。
 
-Meanwhile, WikiLeaks was plagued with infighting, often touched off by Assange’s astringent style and ego. Two women complained to Swedish authorities about Assange’s sexual conduct with them, setting off a yearslong quest of investigators to question him.
-与此同时，维基解密被内斗所困扰，它们往往是由阿桑奇的尖刻风格和自负引发的。两名女性就阿桑奇与她们的性行为向瑞典当局报案，引发了调查人员对他长达一年的问讯。
+Meanwhile, WikiLeaks `was plagued with` infighting, often `touched off` by Assange’s `astringent style and ego`. Two women complained to Swedish authorities about Assange’s sexual conduct with them, `setting off a yearslong quest` of investigators to question him.
+与此同时，维基解密被内斗`所困扰`，它们往往是由阿桑奇的`尖刻风格和自负引发的`。两名女性就阿桑奇与她们的性行为向瑞典当局报案，`引发了调查人员对他长达一年的问讯`。
 
-In 2012, Ecuador’s foreign minister announced that Assange was at the embassy in London and had asked for political asylum. Small as they were, Assange’s quarters there did not cramp his desire to remain in the limelight. 
-2012年，厄瓜多尔外交部长宣布阿桑奇在该国驻伦敦大使馆，并且申请了政治庇护。他在那里的住所很小，但这并没有打击他继续待在风口浪尖的愿望。
+In 2012, Ecuador’s foreign minister announced that Assange was at the embassy in London and had asked for `political asylum`. Small as they were, Assange’s quarters there did not `cramp his desire` to remain `in the limelight`. 
+2012年，厄瓜多尔外交部长宣布阿桑奇在该国驻伦敦大使馆，并且申请了`政治庇护`。他在那里的住所很小，但这并没有打击他继续待在`风口浪尖`的愿望。
 
-Eventually, Assange’s isolation began to wear on him, He was becoming deeply depressed and wondered about simply walking out, the friend said, speaking on the condition of anonymity. And relations with his hosts were becoming deeply strained, even adversarial, as diplomats grew tired of his behavior. Even Assange’s friends called him difficult, a narcissist with an outsize view of his importance and little interest in mundane matters like hygiene.
-他终于开始感到孤立无援,这位不愿透露姓名的朋友说，他变得非常沮丧，想着要不要干脆直接走出去。随着外交官们对他的行为日益厌倦，他与收留他的人的关系变得非常紧张，甚至有敌意。连阿桑奇的朋友也称他很难相处，说他非常自恋，把自己看得过于重要，对清洁卫生等琐事没什么兴趣。
+Eventually, Assange’s `isolation began to wear on him`, He was becoming `deeply depressed` and `wondered about simply walking out`, the friend said, `speaking on the condition of anonymity`. And relations with his hosts were becoming `deeply strained`, even `adversarial`, as diplomats `grew tired of` his behavior. Even Assange’s friends called him difficult, a narcissist with an `outsize view` of his importance and little interest in mundane matters like hygiene.
+他终于开始感到孤立无援,这位`不愿透露姓名的`朋友说，他变得`非常沮丧`，想着要不要干脆`直接走出去`。随着外交官们对他的行为`日益厌倦`，他与收留他的人的关系变得`非常紧张`，甚至有`敌意`。连阿桑奇的朋友也称他很难相处，说他非常自恋，把自己`看得过于重要`，对清洁卫生等琐事没什么兴趣。
 
-Appearing in the Westminster Magistrates’ Court, his silver hair tied in a bun, Assange looked composed in a navy suit. The scene underscored the obvious: that Assange will use his legal predicament as a new platform for his defiance of authority and his crusade for WikiLeaks.
-将一头银发盘成髻的阿桑奇出现在威斯敏斯特地方法院，身着深蓝色西装，看上去泰然自若。这一幕表明，阿桑奇显然将利用他的法律困境作为一个新的平台，挑战权威，为维基解密而战。
+`Appearing in` the Westminster Magistrates’ Court, his silver hair `tied in a bun`, Assange looked composed in `a navy suit`. The `scene underscored` the obvious: that Assange will use his `legal predicament` as a new platform for his `defiance of authority` and his `crusade` for WikiLeaks.
+将一头银发`盘成髻`的阿桑奇`出现在`威斯敏斯特地方法院，身着`深蓝色西装`，看上去泰然自若。`这一幕表明`，阿桑奇显然将利用他的`法律困境`作为一个新的平台，`挑战权威`，为维基解密而战。
 
-A six-month investigation by The New York Times covering three continents and including more than 150 interviews has described how Mr. Murdoch and his feuding sons turned their media outlets into right-wing political influence machines that have destabilized democracy in North America, Europe and Australia.
-《纽约时报》进行了为期六个月的调查，覆盖三大洲、包括超过150次采访。透过调查可以看到，默多克与几个长期不和的儿子如何将他们的媒体机构转变为右翼政治影响力机器，并破坏北美、欧洲和澳大利亚的民主。
+A six-month investigation by The New York Times `covering three continents` and including more than 150 interviews has described how Mr. Murdoch and his `feuding sons` turned their `media outlets` into right-wing political influence machines that have `destabilized` democracy in North America, Europe and Australia.
+进行了为期六个月的调查，`覆盖三大洲`、包括超过150次采访。透过调查可以看到，默多克与几个`长期不和的儿子`如何将他们的`媒体机构`转变为右翼政治影响力机器，并`破坏`北美、欧洲和澳大利亚的民主。
 
-Here are some key takeaways from The Times’s investigation into the Murdoch family and its role in the illiberal, right-wing political wave sweeping the globe.
-以下是《纽约时报》对默多克家族调查中的一些要点，其中涉及该家族在席卷全球的反自由主义、右翼政治浪潮中发挥的作用。
+Here are some `key takeaways` from The Times’s investigation into the Murdoch family and its role in the `illiberal`, right-wing political wave `sweeping the globe`.
+以下是对默多克家族调查中的`一些要点`，其中涉及该家族在`席卷全球的反自由主义`、右翼政治浪潮中发挥的作用。
 
-Fox News has long exerted a gravitational pull on the Republican Party in the United States, where it most recently amplified the nativist revolt that has fueled the rise of the far right and the election of President Trump.
-长期以来，福克斯新闻一直对美国共和党施加压力，后者近年放大了本土主义的反抗，进而推动极右翼势力的崛起和特朗普总统的当选。
+Fox News has long `exerted a gravitational pull` on the Republican Party in the United States, where it most recently `amplified the nativist revolt` that has `fueled` the rise of the far right and the election of President Trump.
+长期以来，福克斯新闻一直对美国共和党`施加压力`，后者近年`放大了本土主义的反抗`，进而`推动`极右翼势力的崛起和特朗普总统的当选。
 
-Mr. Murdoch’s newspaper The Sun spent years demonizing the European Union to its readers in Britain, where it helped lead the Brexit campaign that persuaded a slim majority of voters in a 2016 referendum to endorse pulling out of the bloc. Political havoc has reigned in Britain ever since.
-默多克手下的报纸《太阳报》(The Sun)多年来一直向英国读者呈现一个被妖魔化的欧盟，成为引领脱欧运动、在2016年公投中说服超过半数选民支持退出欧盟的势力之一。自那以后，英国一直深陷政治混乱。
+Mr. Murdoch’s newspaper The Sun spent years `demonizing the European Union` to its readers in Britain, where it helped lead the Brexit campaign that persuaded `a slim majority` of voters in a 2016 `referendum` to endorse pulling out of the bloc. `Political havoc` has `reigned` in Britain `ever since`.
+默多克手下的报纸《太阳报》(The Sun)多年来一直向英国读者呈现一个被`妖魔化的欧盟`，成为引领脱欧运动、在2016年`公投`中说服`超过半数`选民支持退出欧盟的势力之一。`自那以后`，英国一直深陷`政治混乱`。
 
-At the center of this upheaval sits the Murdoch family, a clan whose dysfunction has both shaped and mirrored the global tumult of recent years.
-默多克家族位于这一动荡局面的中心，这个家族本身的紊乱塑造和映照了近年来的全球骚动。
+At the center of this `upheaval sits` the Murdoch family, a `clan` whose dysfunction has both `shaped and mirrored` the `global tumult` of recent years.
+默多克家族位于这一`动荡局面`的中心，这个`家族`本身的紊乱`塑造和映照`了近年来的`全球骚动`。
 
-His two sons are very different people. James wanted the company to become more digitally focused and more politically moderate, while Lachlan wanted to lean into the reactionary politics of the moment.
-他的两个儿子是截然不同的人。詹姆斯希望公司变得更加注重数字化、在政治上更温和，而拉克兰则希望能够趋近当下的反动政治。
+His two sons are very different people. James wanted the company to become more digitally focused and more `politically moderate`, while Lachlan wanted to `lean into the reactionary politics` of the moment.
+他的两个儿子是截然不同的人。詹姆斯希望公司变得更加注重数字化、在`政治上更温和`，而拉克兰则希望能够`趋近当下的反动政治`。
 
-James briefly quit the company in protest. But he was lured back by a carefully crafted compromise that put Lachlan in charge but allowed James to save face by maintaining the public illusion that he was the heir.
-詹姆斯很快退出了公司以示抗议。但又被一个精心设计的妥协诱引回来，即让拉克兰掌权，但让詹姆斯对外保持他是继承人的错觉，以帮他挽回面子
+James briefly quit the company in protest. But he was `lured` back by a `carefully crafted` compromise that put Lachlan in charge but allowed James to `save face` by maintaining the `public illusion` that he was the `heir`.
+詹姆斯很快退出了公司以示抗议。但又被一个`精心设计的`妥协`诱引`回来，即让拉克兰掌权，但让詹姆斯对外保持他是`继承人`的`错觉`，以帮他`挽回面子`
 
-But all of these succession plans — as well as the lucrative Disney deal — were thrown into chaos last year when Mr. Murdoch broke his spine and collapsed on a yacht.
-但所有这些继任计划——以及获利丰厚的迪士尼交易——去年都陷入了混乱，当时默多克摔断了脊椎，瘫倒在了一艘游艇上。
+But all of these `succession plans` — as well as the `lucrative` Disney deal — were `thrown into chaos` last year when Mr. Murdoch broke his spine and collapsed on a `yacht`.
+但所有这些`继任计划`—以及`获利丰厚的`迪士尼交易—去年都`陷入了混乱`，当时默多克摔断了脊椎，瘫倒在了一艘`游艇`上。
 
-The Murdoch empire has also boldly flexed its muscles in Australia, which was for many years Lachlan’s domain.
-默多克帝国还在澳大利亚大举展示自己的力量，那里多年来是拉克兰的领地。
+The Murdoch empire has also `boldly flexed its muscles` in Australia, which was for many years Lachlan’s domain.
+默多克帝国还在澳大利亚`大举展示自己的力量`，那里多年来是拉克兰的领地。
 
-In Australia, Lachlan expressed disdain for efforts to fight climate change and once rebuked the staff at one of his family’s newspapers,
-在澳大利亚，拉克兰表达了对抗击气候变化相关努力的蔑视，并曾因一则支持同性婚姻的社论，斥责过他的家族报纸《澳大利亚人》(The Australian)的员工
+In Australia, Lachlan expressed `disdain` for efforts to fight climate change and once `rebuked` the staff at one of his family’s newspapers,
+在澳大利亚，拉克兰表达了对抗击气候变化相关努力的`蔑视`，并曾因一则支持同性婚姻的社论，`斥责`过他的家族报纸的员工
 
-They quickly introduced a slate of right-wing opinion shows that often focused on race, immigration and climate change.
-他们迅速推介了一系列右翼观点节目，通常聚焦种族、移民和气候变化。
+They quickly introduced `a slate of` right-wing opinion shows that often focused on race, immigration and climate change.
+他们迅速推介了`一系列`右翼观点节目，通常聚焦种族、移民和气候变化。
 
-James wanted to revamp the network as a less partisan news outlet. He even floated the idea of hiring David Rhodes, a CBS executive.
-当时，詹姆斯希望将福克斯新闻网改造成一个党派色彩不那么浓厚的新闻机构。他甚至提出了雇用CBS高管戴维·罗兹(David Rhodes)的想法。
+James wanted to `revamp` the network as a `less partisan` news outlet. He even `floated the idea` of hiring David Rhodes, a CBS executive.
+当时，詹姆斯希望将福克斯新闻网`改造`成一个`党派色彩不那么浓厚的`新闻机构。他甚至`提出了`雇用CBS高管戴维·罗兹的想法。
 
-His proposals went nowhere. Lachlan and Rupert opposed any change to what they saw as a winning formula and decided to stick with Fox’s incendiary programming.
-他的提议未能得到采纳。拉克兰和鲁珀特不同意对他们心目中的成功方案做出任何改变，并决定坚持福克斯的煽动性节目。
+His proposals `went nowhere`. Lachlan and Rupert opposed any change to what they saw as a `winning formula` and decided to stick with Fox’s `incendiary programming`.
+他的提议`未能得到采纳`。拉克兰和鲁珀特不同意对他们心目中的`成功方案`做出任何改变，并决定坚持福克斯的`煽动性节目`。
 
-But James believed he had seen firsthand the damage that outlets like Fox News were doing to the company.
+But James believed he had seen `firsthand the damage` that outlets like Fox News were doing to the company.
 但詹姆斯相信，他目睹了福克斯新闻等媒体对公司造成的损害。
 
-When did leggings make the leap from garment to cultural lightning rod? For what are essentially stretchy footless tights in a seemingly endless array of patterns and colors, they have been an unexpected source of controversy.
-从什么时候开始，紧身裤从一种服装变成了文化上的众矢之的？这种带有无数图案与颜色的弹力不连袜紧身裤成了意想不到的争议之源。
+When did leggings make the leap from `garment` to cultural `lightning rod`? For what are essentially stretchy footless tights in a `seemingly endless array of` patterns and colors, they have been an unexpected source of controversy.
+从什么时候开始，紧身裤从一种`服装`变成了文化上的`众矢之的`？这种带有`无数`图案与颜色的弹力不连袜紧身裤成了意想不到的争议之源。
 
-As a result, what the leggings uproar may have exposed is not so much anyone’s physique per se, but rather a cultural fault line that runs through generations. 
-因此，紧身裤风波所暴露的，与其说是什么人的身材，还不如说是贯穿几代人的文化断层。
+`As a result`, what the leggings `uproar` may have exposed is not so much anyone’s physique `per se`, but rather `a cultural fault line` that runs through generations. 
+`因此`，紧身裤`风波`所暴露的，与其说是什么人的身材，还不如说是贯穿几代人的`文化断层`。
 
 Sure, it’s possible that is `overstating the matter`. It’s possible they are just `stretchy footless tights` that are easy to wear.
 当然，这有可能`夸大了事实`。它很可能仅仅是一种容易穿上身的`不连袜弹力紧身裤`。
