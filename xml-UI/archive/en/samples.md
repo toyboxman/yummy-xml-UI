@@ -130,75 +130,75 @@ If Yujiapu really is the Manhattan of China, it has a way to go to catch up to t
 If the political will collapses for the Binhai area, then the bank loans will begin to dry up and the whole area is in trouble
 如果滨海新区的政治意志崩溃，那么银行贷款将开始枯竭，整个地区都会陷入困境
 
-Many residents believe Yujiapu’s problems have been overstated and try to cast its emptiness in a positive light
-许多居民认为于家堡的问题被夸大了，并试图从正面看待空置现象
+Many residents believe Yujiapu’s problems have been `overstated` and try to `cast its emptiness in a positive light`
+许多居民认为于家堡的问题被`夸大`了，并试图`从正面看待空置现象`
 
 “Now, there are `quite a lot of` internet companies, including some e-commerce platforms,” he said, `speculating` that these companies could move into his building in the future.
 “现在你看互联网公司就比较多了，包括一些电商平台，”他说，他`猜测`这些公司将来会搬进他所在的大楼。
 
-Just as he had on previous trips, Zhu Feng bolted down his lunch at the Los Angeles airport before sprinting to catch his Air China flight back to Beijing.
-和前几次旅行时一样，朱峰在洛杉矶机场匆匆吃完午餐后，跑去赶中国国际航空公司的航班回北京。
+Just as he had on previous trips, Zhu Feng `bolted down` his lunch at the Los Angeles airport before `sprinting to catch` his Air China flight back to Beijing.
+和前几次旅行时一样，朱峰在洛杉矶机场`匆匆吃完`午餐后，`跑去赶`中国国际航空公司的航班回北京。
 
-They flipped to the well-used 10-year visa to the United States and crossed out the page with a black pen.
-他们翻到已经用过多次的来美10年签证那页，用一支黑笔在上面打了个大叉。
+They `flipped to` the well-used 10-year visa to the United States and `crossed out` the page with a black pen.
+他们`翻到`已经用过多次的来美10年签证那页，用一支黑笔在上面`打了个大叉`。
 
-Now, that door appears to be closing, with the two nations ramping up their strategic rivalry and each regarding academic visitors from the other with greater suspicion — of espionage, commercial theft and political meddling.
-现在，这扇门似乎正在关闭，两国之间的战略竞争日益加剧，彼此都对对方的学术访问者有更大的怀疑，怀疑他们从事间谍活动、商业盗窃和政治干预。
+Now, that door appears to be closing, with the two nations `ramping up their strategic rivalry` and each regarding academic visitors from the other with greater suspicion — of espionage, commercial theft and `political meddling`.
+现在，这扇门似乎正在关闭，两国之间的`战略竞争日益加剧`，彼此都对对方的学术访问者有更大的怀疑，怀疑他们从事间谍活动、商业盗窃和`政治干预`。
 
-“These people are among the most sophisticated in how the U.S. works and are some of the strongest advocates of good relations with the United States,”
-We are alienating some of America’s best friends in China.”
-“这些人中有些是最了解美国如何运作的人，也是最强烈主张与美国保持良好关系的人，我们正在疏远美国在中国的一些最好的朋友。”
+“These people are among the most `sophisticated` in how the U.S. works and are some of the `strongest advocates` of good relations with the United States,”
+We are `alienating` some of America’s best friends in China.”
+“这些人中有些是`最了解`美国如何运作的人，也是`最强烈主张`与美国保持良好关系的人，我们正在`疏远`美国在中国的一些最好的朋友。”
 
-A driving rain lashed the hills while the premier was there on Thursday.
-在总理到访的周二，山上下起了暴雨。
+`A driving rain lashed the hills` while the premier was there on Thursday.
+在总理到访的周二，`山上下起了暴雨`。
 
-The reassuring language was part of a broader effort to convince increasingly skeptical European nations that China comes in peace.
-此种安抚性的表述属于一项总体行动的一部分，其目标是让日益持怀疑态度的欧洲国家确信，中国没有恶意。
+The `reassuring language` was part of `a broader effort` to convince `increasingly skeptical` European nations that China comes in peace.
+此种`安抚性的表述`属于`一项总体行动`的一部分，其目标是让`日益持怀疑态度的`欧洲国家确信，中国没有恶意。
 
-The thickening ranks of China’s economic allies have left European officials increasingly wary. Last month, Italy formally signed on to China’s vast ‘‘One Belt, One Road’’ project, new Silk Road into Europe. On Friday, the summit meeting was capped by Greece’s announcement that it had joined, too.
-中国经济盟友队伍的扩大使欧洲官员越来越警惕。上月，意大利正式加入中国庞大的“一带一路”项目，即进入欧洲的新丝绸之路。在周五的峰会上，希腊也宣布加入。
+The `thickening ranks` of China’s economic allies have left European officials `increasingly wary`. Last month, Italy formally signed on to China’s vast ‘‘One Belt, One Road’’ project, new Silk Road into Europe. On Friday, the summit meeting was `capped by Greece’s announcement` that it had joined, too.
+中国经济盟友队伍的`扩大`使欧洲官员`越来越警惕`。上月，意大利正式加入中国庞大的“一带一路”项目，即进入欧洲的新丝绸之路。在周五的峰会上，希腊也宣布加入。
 
-That does not mean that all is roses even between China and its newly forged economic allies in the group. But by aggressively courting the nations on Europe’s eastern and southern flank, Western officials worry that China is stoking division within the European Union.
-这并不意味着一团和气，即便在中国和集团内的新经济盟友之间都谈不上。但是，如此大举拉拢欧洲东部和南部侧翼的国家，令西方官员担心中国正在加剧欧盟内部的分裂。
+That does not mean that `all is roses` even between China and its newly `forged economic allies` in the group. But by `aggressively courting the nations` on Europe’s eastern and `southern flank`, Western officials worry that China is `stoking division` within the European Union.
+这并不意味着`一团和气`，即便在中国和集团内的`新经济盟友`之间都谈不上。但是，如此`大举拉拢`欧洲东部和`南部侧翼`的国家，令西方官员担心中国正在`加剧欧盟内部的分裂`。
 
-“I think that the fact that today we became 17 plus one is the good news of the day,” Greek Prime Minister Alexis Tspiras said on Friday. “I look forward to working with all of you in the framework of this initiative in full respect of the rules and procedures of the European Union.”
-“我认为，今天我们成为17+1这一事实是重大利好，”希腊总理亚历克西斯·齐普拉斯(Alexis Tspiras)周五表示。“我期待在充分尊重欧盟规则和程序的情况下，在这项倡议的框架内与大家合作。”
+“I think that the fact that today we became `17 plus one` is the good news of the day,” Greek Prime Minister Alexis Tspiras said on Friday. “I look forward to working with all of you `in the framework of this initiative` in `full respect of the rules and procedures` of the European Union.”
+“我认为，今天我们成为`17+1`这一事实是重大利好，”希腊总理亚历克西斯·齐普拉斯(Alexis Tspiras)周五表示。“我期待在`充分尊重欧盟规则和程序`的情况下，在这项`倡议的框架内`与大家合作。”
 
-China’s presence is no longer a novelty in this part of Europe, where its track record is decidedly more complicated than it was when the economic bloc was formed.
-在欧洲的这一区域，中国的存在已经不是新鲜事，但此时中国的过往表现无疑要比经济集团形成时更复杂。
+China’s presence is no longer `a novelty` in this part of Europe, where its track record is `decidedly more complicated` than it was when the `economic bloc` was formed.
+在欧洲的这一区域，中国的存在已经不是`新鲜事`，但此时中国的过往表现`无疑`要比`经济集团`形成时更复杂。
 
-Similarly, the Czech Republic, led by the avowed Sinophile President Milos Zeman, has traditionally been among Europe’s most solicitous nations. But calls by its cybersecurity agency to limit the use of Huawei as well as the tech giant ZTE in critical infrastructure have infuriated Beijing.
-捷克共和国在公开表示亲华的总统米洛什·泽曼(Milos Zeman)领导下，历来是对中国最热情的欧洲国家之一。但其网络安全机构同样要求限制华为和科技巨头中兴在关键基础设施中的使用，令北京大为光火。
+Similarly, the Czech Republic, led by the `avowed Sinophile` President Milos Zeman, has traditionally been among Europe’s `most solicitous` nations. But calls by its cybersecurity agency to limit the use of Huawei as well as the tech giant ZTE in critical infrastructure have `infuriated` Beijing.
+捷克共和国在`公开表示亲华的`总统米洛什·泽曼领导下，历来是对中国`最热情的`欧洲国家之一。但其网络安全机构同样要求限制华为和科技巨头中兴在关键基础设施中的使用，令北京`大为光火`。
 
-In Hungary, Prime Minister Viktor Orban declared his China friendly ‘‘Opening to the East’’ policy in 2010, and has sought to use the prospect of a flood of money from China as leverage in his ongoing battles with Brussels over his government’s authoritarian drift. Yet there have been no major new Chinese investments for the past seven years.
-在匈牙利，总理欧尔班·维克托(Viktor Orban)2010年宣布了对中国友好的“向东开放”政策，并在同欧盟就其政府的威权主义倾向展开的持续斗争中，利用中国资金大量涌入的前景为筹码。然而，在过去七年里，中国没有进行任何重大的新投资。
+In Hungary, Prime Minister Viktor Orban declared his China friendly ‘‘Opening to the East’’ policy in 2010, and has sought to `use the prospect of a flood of money` from China as leverage in his `ongoing battles` with Brussels over his government’s `authoritarian drift`. Yet there have been no major new Chinese investments for the past seven years.
+在匈牙利，总理欧尔班·维克托(Viktor Orban)2010年宣布了对中国友好的“向东开放”政策，并在同欧盟就其政府的`威权主义倾向`展开的`持续斗争`中，`利用中国资金大量涌入的前景`为筹码。然而，在过去七年里，中国没有进行任何重大的新投资。
 
-“Instead of engaging endlessly with China and pleading for it to change its ways,” said Fran?ois Godement, a senior adviser for Asia at the Institut Montaigne in Paris, “the Commission suggests that Europe should change track and adopt a set of robust defensive policies, some of which will have an effect whatever China’s response may be.”
-“与其无休止地与中国接触，恳求中国改变它的方式，”巴黎蒙田研究所的资深亚洲问题专家顾德明(Fran?ois Godement)说，“欧盟委员会建议，欧洲应该改变方向，采用一套坚定的防御政策，其中一些无论中国作出什么反应都会起作用。”
+“Instead of `engaging endlessly` with China and `pleading for` it to change its ways,” said Francois Godement, a senior adviser for Asia at the Institut Montaigne in Paris, “the Commission suggests that Europe should change track and `adopt` a set of robust defensive policies, some of which will have an effect whatever China’s response may be.”
+“与其`无休止地与中国接触`，`恳求`中国改变它的方式，”巴黎蒙田研究所的资深亚洲问题专家顾德明说，“欧盟委员会建议，欧洲应该改变方向，`采用`一套坚定的防御政策，其中一些无论中国作出什么反应都会起作用。”
 
-Now, China has agreed to cut the price tag on the project by one-third to $11 billion, in a tacit acknowledgment that the economics of the original deal did not make financial sense.
-现在，中国已同意将该项目的价格降低三分之一，减为110亿美元，默认了原来的协议在经济上行不通。
+Now, China has agreed to cut the price tag on the project by one-third to $11 billion, in a `tacit acknowledgment` that the economics of the original deal did not `make financial sense`.
+现在，中国已同意将该项目的价格降低三分之一，减为110亿美元，默认了原来的协议在`经济上行不通`。
 
-the program provided a way to use the country’s economic clout to build trade ties and win friends across Asia, Africa and Europe
-该项目为利用中国的经济影响力建立贸易联系，在亚洲、非洲和欧洲广交朋友提供了一条途径。
+the program provided a way to use the country’s `economic clout` to build trade ties and win friends across Asia, Africa and Europe
+该项目为利用中国的`经济影响力`建立贸易联系，在亚洲、非洲和欧洲广交朋友提供了一条途径。
 
-As the new government began to pare back the debt, Mr. Mahathir announced that the administration would halt the East Coast Rail Link project and the gas pipeline deal, citing the high costs.
-随着新政府开始削减债务，马哈蒂尔宣布，由于成本高昂，政府将暂停东海岸铁路线项目和天然气管道交易。
+As the new government began to `pare back the debt`, Mr. Mahathir announced that the administration would halt the East Coast Rail Link project and the gas pipeline deal, `citing the high costs`.
+随着新政府开始`削减债务`，马哈蒂尔宣布，`由于成本高昂`，政府将暂停东海岸铁路线项目和天然气管道交易。
 
-The shaky video clips of Julian Assange’s arrest flashed around the world Thursday, the white-bearded prophet of the age of leaks being hauled by unsmiling security officers to a gray van marked Police.
-朱利安·阿桑奇(Julian Assange)周四被捕的场面被晃动的视频捕捉下来，迅速在全球范围内传播。这位蓄着白胡子的泄密时代先知，被面无笑容的安保人员拖上了一辆带有“警察”字样的灰色面包车。
+The `shaky` video clips of Julian Assange’s arrest `flashed around the world` Thursday, the white-bearded `prophet` of the age of leaks being `hauled` by `unsmiling` security officers to a gray van marked Police.
+朱利安·阿桑奇(Julian Assange)周四被捕的场面被`晃动的`视频捕捉下来，`迅速在全球范围内传播`。这位蓄着白胡子的泄密时代`先知`，被`面无笑容的`安保人员`拖上`了一辆带有“警察”字样的灰色面包车。
 
-It was also the latest — and surely not the last — dramatic turn in a career marked by both brilliant achievement and dubious judgment. Assange has long had a knack for celebrity, and as a tech-savvy, global, almost stateless figure, he captured the new influence the internet could give to individual citizens.
-这也是他职业生涯中最新的——当然也不会是最后一次——戏剧性转折，这段生涯既有辉煌的成就，也有令人起疑的判断。长期以来，阿桑奇深谙成名之道。作为一个精通技术、四海为家、几乎没有国籍的人物，他抓住了互联网可能给个体民众带来的新影响力。
+It was also the latest — and surely not the last — `dramatic turn` in a career marked by both brilliant achievement and `dubious judgment`. Assange has long had `a knack for celebrity`, and as a `tech-savvy`, global, almost `stateless figure`, he captured the new influence the internet could give to individual citizens.
+这也是他职业生涯中最新的—当然也不会是最后一次—`戏剧性转折`，这段生涯既有辉煌的成就，也有令人`起疑的判断`。长期以来，阿桑奇`深谙成名之道`。作为一个`精通技术`、四海为家、`几乎没有国籍的`人物，他抓住了互联网可能给个体民众带来的新影响力。
 
-But Assange has always elicited fervent reactions: He has been hailed as a hero of free information, or despised as a treacherous criminal worthy of death by drone
-但阿桑奇总是引发强烈的反应：他或者被誉为公开信息的英雄；或者被鄙视为一个变节的罪犯，应该被无人机处死
+But Assange has always `elicited fervent reactions`: He has been `hailed as a hero` of free information, or `despised` as a treacherous criminal worthy of death by drone
+但阿桑奇总是`引发强烈的反应`：他或者`被誉为`公开信息的英雄；或者被`鄙视为`一个变节的罪犯，应该被无人机处死
 
-Assange, the world’s most famous self-proclaimed political refugee, lived there with his cat in a small corner room
-作为世界上最著名的自封政治难民，阿桑奇和他的猫住在位于一个角落的小房间里
+Assange, the world’s most famous `self-proclaimed` political refugee, lived there with his cat in a small corner room
+作为世界上最著名的`自封`政治难民，阿桑奇和他的猫住在位于一个角落的小房间里
 
-His words were a harbinger of the single charge of conspiracy to commit computer intrusion against Assange that the Justice Department unsealed Thursday.
-他的话预示了美国司法部周四公布的一项对阿桑奇密谋实施电脑入侵的指控。
+His words were a `harbinger` of the single charge of conspiracy to `commit computer intrusion` against Assange that the Justice Department unsealed Thursday.
+他的话`预示了`美国司法部周四公布的一项对阿桑奇密谋`实施电脑入侵`的指控。
 
 In some ways, Assange, 47, has never fully `shed` the rebellious, secretive ways of the `precocious` Australian teenager with a complicated family background who, with two `pals`, formed a hacking collective called the International Subversives.
 在某些方面，现年47岁的阿桑奇从未完全摆脱那个`早熟的`澳大利亚少年叛逆、隐秘的生活方式。他有着复杂的家庭背景，少年时曾与两个`朋友`组成一个名为“国际颠覆者”(International Subversives)的黑客组织。
