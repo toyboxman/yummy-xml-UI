@@ -16,6 +16,7 @@
 基本语法规则参看[描述](https://data-flair.training/blogs/scala-syntax/)
 
 <div id="21">
+
 ### extends/with
 If you have multiple classes or traits to inherit, the first one is always extends, and the following >=0 class/trait to be withs.
 
