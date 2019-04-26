@@ -18,9 +18,7 @@
 <div id="21">
 
 ### extends/with
-If you have multiple classes or traits to inherit, the first one is always extends, and the following >=0 class/trait to be withs.
-
-But remember that you can only inherit <=1 (abstract) class, which means if you need to inherit a parent class (Parent), it should always comes at first of the form ... extends Parent ..., and no more classes can be inherited to the derived class.
+Scala语法仅仅支持继承一个class, 如果有多个class或trait需要继承, 其中第一个继承关系使用extends class表示, 后面的trait就用with. 
 ```
 trait T1
 trait T2
@@ -34,7 +32,6 @@ class C4 extends P1 with T1
 /// class C5 extends T1 with P1 // invalid
 /// class C6 extends P1 with P2 // invalid
 ```
-with is in fact bound to the class/trait that is extended, e.g., class C7 extends P1 with T1 with T2 reads class C7 extends (P1 with T1 with T2).
 
 ### Null/Nil/Nothing/Unit
 - **Null**: It's a Trait.
