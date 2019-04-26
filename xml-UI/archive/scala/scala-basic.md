@@ -41,7 +41,7 @@ class C4 extends P1 with T1
 
 - **Implicit parameters**
 
-一个方法的最后的参数列表(final parameter list)可以标识成implicit, 这意味参数值将从调用context获得。如果没有正确类型的implicit值，将无法编译。为避免冲突implicit值必须解析(resolve)成一个唯一值，因此一个好实现方式是写代码时让类型与目的强一致相关，例如不要要求方法去发现implicit Int
+一个方法的最后的参数列表(final parameter list)可以标识成implicit, 这意味参数值将从调用context获得。如果没有正确类型的implicit值，将无法编译。为避免冲突implicit值必须解析(resolve)成一个唯一值，因此一个好实现方式是写代码时让类型与目的强一致相关，例如不要要求方法去发现implicit Int,  参看[example](https://alvinalexander.com/scala/scala-implicit-method-arguments-fields-example)
 ```
 // probably in a library
 class Prefixer(val prefix: String)
