@@ -1,6 +1,7 @@
 - [Basic Language Concepts](#basic-language-concepts)
     - [Object/Case Class/Trait](#objectcase-classtrait)
     - [Extends/With](#21)
+    - [Implicit](#22)
     - [Null/Nil/Nothing/Unit](#nullnilnothingunit)
     - [Option/Some/None](#optionsomenone)
     - [Def/Val](#defval)
@@ -32,6 +33,40 @@ class C4 extends P1 with T1
 /// class C5 extends T1 with P1 // invalid
 /// class C6 extends P1 with P2 // invalid
 ```
+
+<div id="22">
+
+### Implicit
+下面两个是典型的应用，参看[详细说明](https://www.artima.com/pins1ed/implicit-conversions-and-parameters.html)
+
+- **Implicit parameters**
+
+一个方法的最后的参数列表(final parameter list)可以标识成implicit, 这意味参数值将从调用context获得。如果没有正确类型的implicit值，将无法编译。为避免冲突implicit值必须解析(resolve)成一个唯一值，因此一个好实现方式是写代码时让类型与目的强一致相关，例如不要要求方法去发现implicit Int
+```
+// probably in a library
+class Prefixer(val prefix: String)
+def addPrefix(s: String)(implicit p: Prefixer) = p.prefix + s
+
+// then probably in your application
+implicit val myImplicitPrefixer = new Prefixer("***")
+addPrefix("abc")  // returns "***abc"
+```
+
+- **Implicit conversions**
+
+当编译器从上下文中发现一个错误类型的表达式, 将寻找一个类型的implicit Function value，来进行typecheck。因此当需要A是却发现是B类型时候, 将寻找type B => A的implicit Function value。
+
+例如当需要Int却发现Double类型，标注implicit的方法将被编译器插入一些实现。
+```
+implicit def doubleToInt(d: Double) = d.toInt
+val x: Int = 42.0
+```
+实际会如下执行
+```
+def doubleToInt(d: Double) = d.toInt
+val x: Int = doubleToInt(42.0)
+```
+第二段代码中我们手动进行类型转换，第一段代码则由编译器来自动完成。
 
 ### Null/Nil/Nothing/Unit
 - **Null**: It's a Trait.
