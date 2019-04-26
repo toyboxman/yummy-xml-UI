@@ -257,24 +257,22 @@ object HelloWorld{
 
 ### Object/Case Class/Trait
 * *Object*  
-简单说就是单例类,类似于Java中Enum.另一个作用是定义static的method和field只能放在object中<br>
-An object is a type of class that can have no more than one instance,known in object-oriented design as a singleton. 
+简单说就是单例类(singleton class), 类似于Java中Enum，只存在一个实例。一个用处是封装一些与上下文无关的fields和methods，还有用处是作为其他class对象的创建工厂。参看[说明](https://en.wikibooks.org/wiki/Scala/Objects)
 ```bash
 object HelloWorld {
    def main(args: Array[String]) {
-      // this call will trigger Hello instantiation/initialization
-      println(Hello.hi)  // in Hello
-                     // hi
-      
-      // Repeating the call to the object's “hi”method reused the same global instance 
-      // so there was no additional initialization
-      println(Hello.hi)  // hi
+      // 此处调用触发Hello类对象的创建和初始化(instantiation/initialization)
+      // in Hello  --对象初始化先执行println
+      // hi   --打印对象的field
+      println(Hello.hi)  
+
+      // 重复打印语句仍旧是全局的Hello对象
+      // hi   --不会再次初始化，执行println
+      println(Hello.hi)  
    }
 }
 
-object Hello { 
-    // This println at the top level of the object is invoked at instantiation/initialization,
-    // which only occurs when it is accessed for the first time
+object Hello {
     println("in Hello"); 
     def hi = "hi" 
 }
