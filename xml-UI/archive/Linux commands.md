@@ -32,7 +32,7 @@
     - [Turn off Console Color](#turn-off-console-color)
 - [Usual Command](#usual-command)
     - [Base64](#base64)
-    - [Copy](#cp)
+    - [Copy/Mkdir](#cp)
     - [Chmod](#chmod)
     - [Chown](#chown)
     - [Chgrp](#chgrp)   
@@ -493,8 +493,27 @@ $ find / -iname '*.tgz' -exec rm {} \;
 
 #### cp
 ```bash
-# copy directory
+# -r copy directory
 $ cp -rv /home/king/source ./
+
+# create folder in /root
+$ mkdir /root/folder
+# -p, --parents     no error if existing, make parent directories as needed
+$ mkdir -p /root/folder/folder1/folder11
+
+# delete a directory
+rm -dfrv /root/folder
+---
+
+# --parents    copy file with full parent path/folder
+# src /root/folder/folder1/folder11 
+# dest /root/folder/folder2/folder22
+
+# dest /root/folder/folder2/folder11
+$ cp -r  /root/folder/folder1/folder11 /root/folder/folder2
+
+# dest /root/folder/folder2/root/folder/folder1/folder11
+$ cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
 ```
 
 #### scp
@@ -1488,24 +1507,6 @@ The process can be sent a SIGKILL signal in two ways:
 ```bash
 kill -KILL 1234
 kill -9 1234
-```
-
----
-
-#### file/dir/package operation
-```bash
-# make a directory
-mkdir directoryName
-# delete a directory
-rm -dfrv directoryName
-# rename a file
-rename firefox-2.30.tar.gz firefox.tar.gz
-# move(rename) a file/directory
-mv -f source destination
-# install rpm file
-rpm -ivh file.rpm
-# update install
-rpm -Uvh file.rpm
 ```
 
 ---
