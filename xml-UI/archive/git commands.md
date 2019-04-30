@@ -199,6 +199,12 @@ git add --all
 ```bash
 # 将source中所有文件子目录都从待提交staged状态改成untracked状态
 git rm --cached ./source
+
+# 将文件从tracked的状态置为deleted，并且从文件系统中删除
+git rm readme.md
+# 置为deleted状态的文件只能通过重新checkout来恢复
+git checkout HEAD readme.md
+git checkout @ readme.md
 ```
 
 ### git commit
