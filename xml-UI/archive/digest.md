@@ -26,6 +26,7 @@ Grafana是一个开源的时序性统计平台，同时也有功能强大的界面编辑器。支持Graphite, E
 大致来说kibana能做的图形，grafana都可以做，grafana能做的展示效果，kibana不一定做的到。如果你想做dashboard来展示的话，强烈推荐grafana，如果你是用来展示log的明细，且可以写条件搜索的话，那建议使用kibana。kibana是没有用户认证的，并且没有权限管理的，而grafana有，并且还有组织管理的概念。[grafana vs kibana](https://www.zhihu.com/question/54388690)
 
 - [Prometheus](https://zhuanlan.zhihu.com/p/46309207)
+
 开源监控系统，Prometheus 在2016年继 Kurberntes 之后，加入了 Cloud Native Computing Foundation。大部分Prometheus components由Go实现，其他一些由Java, Python, and Ruby实现。
 
 Node Exporter提供一组与Linux/Unix systems相关的machine-level metrics，例如CPU usage, memory, disk utilization, filesystem fullness, and network bandwidth. 通过这种方式就可以监控物理机器。
