@@ -7,7 +7,8 @@
 
 ### *Following content is usual bash commands I encountered in working, those maybe are useful*
 > [bash list](http://ss64.com/bash)<br>
-> [blog](http://blog.sina.com.cn/s/blog_46d0362d0100mn09.html)
+> [search](https://wangchujiang.com/linux-command/)<br>
+> [commands](https://github.com/jaywcjlove/linux-command#%E7%9B%AE%E5%BD%95)
 
 ---
 - [Monitor System Information](#monitor-system-information)
