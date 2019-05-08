@@ -81,6 +81,8 @@ kill -9 $eclipse_pid
 > [AWK-baike](http://baike.baidu.com/view/209681.htm)
 
 ### ()括号 (())双括号 []中括号 [[]]双中括号
+> [方括号使用](https://mp.weixin.qq.com/s/OLe0QKzivwi9fxMZRe8kog)    
+>[花括号使用](https://linux.cn/article-10624-1.html)    
 > [括号区别](http://www.linfengyushu.com/269.html/)   
 > [括号中比较](http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash)  
 <br>
