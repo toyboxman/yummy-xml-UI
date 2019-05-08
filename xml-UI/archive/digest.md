@@ -45,6 +45,20 @@ CAT ÊÇÓÉÃÀÍÅ¿ªÔ´µÄÒ»¸öAPMÏîÄ¿£¬Ò²Àú¾­ÁË¶àÄêµÄµü´úÉı¼¶£¬ÓµÓĞ´óÁ¿µÄÆóÒµ¼¶ÓÃ»§£¬¶ÔÓ
 
 - [ÈÕÖ¾·ÖÎö](https://mp.weixin.qq.com/s/k9Nmmq7PD-yAm4HBIuNbxw)
 
+### maven
+- build 
+```
+mvn -X -DskipTests package
+```
+
+- check dependencies
+```
+mvn dependency:tree
+
+# filter spring related dependencies
+mvn dependency:tree -Dincludes=:spring*::
+```
+
 ### python
 1.python3 must return value, other get None type in [] loop not like python2 ?
 2.python3 class def method must use self.method() otherwise no definition ?
