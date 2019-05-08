@@ -46,6 +46,21 @@ CAT  «”…√¿Õ≈ø™‘¥µƒ“ª∏ˆAPMœÓƒø£¨“≤¿˙æ≠¡À∂‡ƒÍµƒµ¸¥˙…˝º∂£¨”µ”–¥Û¡øµƒ∆Û“µº∂”√ªß£¨∂‘”
 - [»’÷æ∑÷Œˆ](https://mp.weixin.qq.com/s/k9Nmmq7PD-yAm4HBIuNbxw)
 
 ### maven
+- configuration
+
+ƒ¨»œ≈‰÷√Œƒº˛‘⁄∞≤◊∞¬∑æ∂œ¬ apache-maven-3.5.3/conf/settings.xml
+
+–ﬁ∏ƒmaven±æ…ÌJDKª∑æ≥ø…“‘‘⁄.bashrc÷– export JAVA_HOME£¨÷¥–– ±∫Úmavenª·◊‘∂Ø—°‘Ò
+```
+> mvn -X -DskipTests -DskipGenerateApiDocs clean install
+Apache Maven 3.5.3 (3383c37e1f9e9b3bc3df5050c29c8aff9f295297; 2018-02-25T03:49:05+08:00)
+Maven home: /home/king/software/apache-maven-3.5.3
+Java version: 1.8.0_201, vendor: Oracle Corporation
+Java home: /home/king/software/jdk8/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "4.4.175-89-default", arch: "amd64", family: "unix"
+```
+
 - build 
 ```
 mvn -X -DskipTests package
@@ -56,7 +71,13 @@ mvn -X -DskipTests package
 mvn dependency:tree
 
 # filter spring related dependencies
-mvn dependency:tree -Dincludes=:spring*::
+mvn dependency:tree -Dincludes=:spring*
+```
+
+- compile
+```
+#  π”√÷∏∂®µƒ±‡“Î∆˜
+mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compile
 ```
 
 ### python
