@@ -97,7 +97,10 @@ with open("example.yaml", 'r') as stream:
         
 
 ### replacement
-notepad++ replacement 
+- notepad++
+
+需要在curl payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
+```
 curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
 {
     "name":"accuracy_measure",
@@ -107,9 +110,8 @@ curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POS
     "owner":"test",
     "description":"measure description"
 }
-需要在json每一行末尾增加一个'\', 字符后不能有空格，否则无法与上一行接起来
-
-'\r\n'  --> '  \\\r\n'
+```
+Replace All : '\r\n'  --> '  \\\r\n'
 
 ### go
 
