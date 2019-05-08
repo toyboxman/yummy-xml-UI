@@ -15,6 +15,7 @@
     - Account Management
         - [Activate Account](#activate-account)
         - [List All Users](#list-all-users) 
+        - [sudo](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig) 
     - System Management
         - [List System Details](#list-system-details)
         - [Top](#top)
@@ -27,11 +28,12 @@
         - [free](#free)
         - [hwinfo](#hwinfo)
         - [Turn off Console Color](#turn-off-console-color)
+        - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
     - Disk Management
         - [LVM](#lvm)
         - [df/du](#dfdu)
         - [lsof](#lsof)
-        - [Show File System Status](#statgetfaclsetfacl)
+        - [stat/getfacl/setfacl](#statgetfaclsetfacl)
         - [iotop/iostat](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w)    
     - Device Management
         - [ZERO/NULL](#device)
