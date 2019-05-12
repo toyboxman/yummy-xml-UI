@@ -60,3 +60,30 @@ the second son, around 31, was `more withdrawn`. Merchants on Old Moor Street `b
 
 “He was `clearly reluctant`,” the family member said. “He was always `more connected to people` than Ilham.”
 “他`显然很犹豫`，”这位家庭成员说。“他总是比伊尔沙姆`更喜欢和人打交道`。”
+
+to try to protect his `aura of indomitability` or retreat after President Trump accused China of `reneging on the terms` of a draft agreement and threatened to raise tariffs.
+是坚守`不屈不挠的光环`，还是在特朗普总统指责中国在协议草案的条款上`出尔反尔`并威胁增加关税后退缩。
+
+The `stakes rose sharply` for the Chinese leader this week, The `sticking point` appeared to be a late decision
+这位中国领导人所面临的`风险急剧上升`。`症结`似乎是最后关头作出决定
+
+He is `walking a tightrope`, He is going to be the one that has to `make the most concessions`, and that `makes all this more difficult for him`.”
+他在走钢丝，他将会是那个必须作出最大让步的一方，那将使得所有这些对他而言难上加难。
+
+Even if the timing of the launches is a `coincidence`, they could `serve to remind` the United States that it needs China’s help to maintain pressure on the North and keep its nuclear program in check.
+即便发射的时机`纯属巧合`，它也`有助于提醒`美国，在持续给朝鲜施压、控制它的核项目方面，美国需要中国的帮助。
+
+I come `bearing sincerity`, and hope in the current special circumstances to `hold a reasoned, frank exchange of views with` the U.S. side. China believes that `increasing tariffs` won’t solve problems, won’t benefit China or the United States, and nor will it benefit the global economy.
+我是`带着诚意`而来，希望在当前特殊形势下，`理性、坦诚地`与美方交换意见，中方认为，`加征关税`不是解决问题的办法，对中美双方不利，对世界也不利。
+
+any legislative change or `policy reversal` could be a very public — and `potentially humbling` — reminder that it `gave ground under pressure`.
+任何立法上的变更或`政策逆转`都可能无异于非常公开地——并且`可能是令人羞辱地`——表明它`在压力之下做出了让步`。
+
+The `blaring nature` of the Trump administration’s `broadsides` has `sharpened the dilemma`
+特朗普政府发出刺耳的`猛烈抨击`，`加剧了在谈判中所面临的困境`。
+
+We organize the money in our wallets in `units of currency, dollars and cents, bills and coins`.
+钱夹里的钱，我们会`按货币单位、美元和美分、纸币和硬币分类整理`。
+
+I got the usual looks from people `fresh out of bars` or parties, either because of the stench of a hard night’s work on my clothes or because I was `muttering to myself` while `feverishly flipping flashcards`.
+`刚出酒吧`或参加完派对的人朝我递来惯常的目光，要么是因为辛苦工作一整晚后，我的衣服上发着恶臭，要么是我`一边疯狂翻动学习卡片，一边低声自言自语`。
