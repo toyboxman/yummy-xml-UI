@@ -87,3 +87,27 @@ We organize the money in our wallets in `units of currency, dollars and cents, b
 
 I got the usual looks from people `fresh out of bars` or parties, either because of the stench of a hard night’s work on my clothes or because I was `muttering to myself` while `feverishly flipping flashcards`.
 `刚出酒吧`或参加完派对的人朝我递来惯常的目光，要么是因为辛苦工作一整晚后，我的衣服上发着恶臭，要么是我`一边疯狂翻动学习卡片，一边低声自言自语`。
+
+China `moved to retaliate against` the United States, announcing plans on Monday to raise tariffs on American goods `ranging from` beer and wine to swimsuits, shirts and `liquefied natural gas`.
+中国`采取行动报复`美国，宣布计划提高从啤酒、葡萄酒到泳衣、衬衫和`液化天然气`等美国商品的关税。
+
+The last of these threats once `unnerved markets` but has since `lost some of its edge`. China has been `diversifying` for the past decade where it parks its money, and had to spend a quarter of its huge hoard of `foreign currency reserves` three years ago to `stem a decline` in its currency.
+最后一项威胁曾令市场`感到不安`，但现在已经`失去了一些威力`。过去10年，中国一直在实现外汇储备`多元化`，三年前不得不动用其巨额`外汇储备`的四分之一来`阻止人民币贬值`。
+
+it won’t take effect for a few weeks, `giving both sides a bit more room to` reach a deal.
+其在几周内不会生效，给了双方`更多达成协议的空间`
+
+Not many 17-year-old girls know how to `solder two copper pipes together` or light the `pilot light` on a `water heater`. I venture that most people would `struggle to tell the difference` between a regular 90-degree PVC elbow and a street 90.
+没有几个17岁的女孩知道怎么把两根铜管焊在一起，或者点燃热水器的长明火。我敢说，大多数人分不清90度普通PVC弯头和90度公母弯头。
+
+Each `humid` morning, I `wrestle myself into` a pair of used men’s jeans from Goodwill that most of my peers would refuse to be seen wearing in public. I slip my `tape measure` onto my belt, tie my hair back as I run out the door, and climb into the passenger seat of the `plumber truck`, which is really an aged white minivan with two kinds of pipes `strapped to the top`.
+每个`潮湿的`早晨，我都要勉强穿上一条Goodwill慈善二手店里买来的男式牛仔裤，大多数同龄人都不愿意在公共场合穿成这样。我把卷尺挂在腰带上，跑出家门时匆匆把头发束成辫子，爬上`管道工施工车`的副驾驶座。这是一辆有年头的白色小面包车，`车顶绑着`两种管子。
+
+As my peers begin their `shifts nannying`, lifeguarding or `checking out groceries`, my dad and I `haul` unwieldy toolboxes and heavy-duty saws into the depths of people’s houses. Although at times we work in the `gold-plated` master bathrooms of mansions with lake views, we usually end up in `dank`, mildewed basements where I get lost in `mazes of` storage boxes looking for the `water meter`.
+我的同龄人当兼职保姆、救生员或者清点杂货的时候，我帮着爸爸把笨重的工具箱和重型锯子拖到人们房子的深处。虽然有时也在湖景豪宅的镀金主浴室里干活，但我们往往还是在潮湿发霉的地下室里，我得在迷宫般的储物箱之间找水表。
+
+I `constantly` leap over tangled piles of wrenches and `extension cords`. My mouth and nose are covered by a dust mask; my jeans are `smudged` with pipe `dope`, and my hands are `blackened` with the `grime` of a hard day’s work.
+我一次又一次地跳过一堆堆杂乱的扳手和延长线；鼻子和嘴上蒙着厚厚的灰尘；牛仔裤上沾满管道涂料，双手也因为一整天的辛苦工作而变得黑乎乎的。
+
+And when I think about it, I `cope with` messes all the time. The `uncertainties and contradictions` of my teenage brain are far more tangled than any extension cord, but I keep trying to `sort them out`. Life is a process of accepting the messes and learning to clean them up, and plumbing work `is no different`.
+当我思考这个问题的时候，我也一直都在处理混乱。作为青少年，我头脑里的不确定性和矛盾比任何延长线都要复杂得多，但我一直在试图理清它们。生活是一个接受混乱并且学会清理的过程，管道工作也不例外。
