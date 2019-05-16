@@ -111,3 +111,15 @@ I `constantly` leap over tangled piles of wrenches and `extension cords`. My mou
 
 And when I think about it, I `cope with` messes all the time. The `uncertainties and contradictions` of my teenage brain are far more tangled than any extension cord, but I keep trying to `sort them out`. Life is a process of accepting the messes and learning to clean them up, and plumbing work `is no different`.
 当我思考这个问题的时候，我也一直都在处理混乱。作为青少年，我头脑里的不确定性和矛盾比任何延长线都要复杂得多，但我一直在试图理清它们。生活是一个接受混乱并且学会清理的过程，管道工作也不例外。
+
+“China is being very `upfront` about some of the potential `turmoil` and telling its public to get ready for it,” he said.
+“中国对某些潜在的动荡形势非常坦率，并在告知公众要做好准备，”他说。
+
+The `anchor`, Kang Hui, above, `dismissed` the trade dispute as `a blip` in China’s 5,000-year history and said the country would “fight until the world is made new.”
+播音员康辉驳斥贸易争端不过是中国5000年历史进程中的一道坎儿，中国将“迎难而上”，直至“斗出一片新天地”。
+
+“Trump’s behavior will only hurt the innocent, damaging the global economy and `causing destruction` to both sides,” a user wrote on Weibo, a Chinese social media site `similar to` Twitter.
+“特朗普的行为只会伤及无辜，危害全球经济，两败俱伤，”一名用户在类似推特的中国社交媒体微博上写道。
+
+“They `realize` they have to let the anger be `unleashed`, otherwise this could be a social disruption for the `regime`,” said Yu Jie, a fellow at Chatham House, a research institution in London.
+“他们意识到，必须让怒气发泄出来，否则就会给政权带来社会混乱，”伦敦的皇家国际事务研究所(Chatham House)研究员于杰说。
