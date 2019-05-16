@@ -260,8 +260,13 @@ git checkout 0d1d7fc32
 # 将当前分支代码回滚到upstream HEAD位置
 git checkout -f  
 
-# 丢弃在当前分支中对Run.java文件的修改,此时文件处于未提交状态
+# 文件处于untracked, 丢弃在当前分支中对Run.java文件的修改
 git checkout -- Run.java  
+
+# 从dev分支中获取Run.java，覆盖本地分支文件
+git checkout dev -- Run.java  
+# 从某个commit中获取Run.java，覆盖本地分支文件
+git checkout 0d1d7fc32 -- Run.java 
 ```
 
 ### git tag 
@@ -424,6 +429,14 @@ git show master @
 
 # 查看某个提交中哪些文件被修改
 git show e96a53a68b2ed1ce
+# 查看某个提交中test.java内容
+git show e96a53a68b2ed1ce:src/test.java
+
+# 查看dev分支中test.java内容
+git show dev:test/src/test.java
+
+# 把dev分支中test.java导入当前分支中
+mkdir -p test/src; git show dev:test/src/test.java > ~/test/src/test.java
 ```
 
 ### git format-patch

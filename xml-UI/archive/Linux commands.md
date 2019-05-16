@@ -486,6 +486,19 @@ $ find /etc -name '[nN]etwork.sh'
 # search a file by name regex condition case insensitive
 $ find /etc -iname '*network*'
 
+# search a file by type 
+# d      directory
+# f      regular file
+# l      symbolic  link
+# s      socket
+$ find . -type f -name *.xml
+./pom.xml
+
+# find a file with full path
+$ find $PWD -type f -name *.xml
+$ find $(pwd) -type f -name *.xml
+/home/king/source/pom.xml
+
 # search all files in home folder and then determine its file type(append action)
 $ find /home -user king -exec file {} \;  
 /home/king: directory
