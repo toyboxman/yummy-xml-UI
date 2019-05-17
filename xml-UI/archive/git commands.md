@@ -245,10 +245,10 @@ git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
 ### git checkout
 ```bash
 # 将glance/stable/icehouse分支checkout成一个本地master分支
-git checkout master glance/stable/icehouse
+git checkout -b master glance/stable/icehouse
 
 # 从当前分支切换到master分支
-git checkout master 
+git checkout master
 
 # 把tag(2014.1.1)对应的快照checkout成本地分支tag-dev
 # 仓库的快照本身不能修改,只能变成本地分支才能修改
@@ -267,6 +267,9 @@ git checkout -- Run.java
 git checkout dev -- Run.java  
 # 从某个commit中获取Run.java，覆盖本地分支文件
 git checkout 0d1d7fc32 -- Run.java 
+
+# 从dev分支中获取src目录下所有文件，覆盖本地分支文件
+git checkout dev -- ./java/src/
 ```
 
 ### git tag 
