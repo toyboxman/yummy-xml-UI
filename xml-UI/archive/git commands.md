@@ -440,6 +440,8 @@ git show dev:test/src/test.java
 git show dev:test/src/
 # ls-tree提供相似功能
 git ls-tree --full-tree -r --name-only dev | less
+# ls-files提供当前工作branch上文件列表
+git ls-files
 
 # 把dev分支中test.java导入当前分支中
 mkdir -p test/src; git show dev:test/src/test.java > ~/test/src/test.java
