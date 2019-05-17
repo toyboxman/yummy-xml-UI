@@ -435,6 +435,12 @@ git show e96a53a68b2ed1ce:src/test.java
 # 查看dev分支中test.java内容
 git show dev:test/src/test.java
 
+# 查看dev分支中src目录下内容
+# 支持tab提示功能
+git show dev:test/src/
+# ls-tree提供相似功能
+git ls-tree --full-tree -r --name-only dev | less
+
 # 把dev分支中test.java导入当前分支中
 mkdir -p test/src; git show dev:test/src/test.java > ~/test/src/test.java
 ```
