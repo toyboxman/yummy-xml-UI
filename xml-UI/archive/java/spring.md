@@ -97,6 +97,8 @@ spring框架提供了和junit集成的方式
 
 
 ### 2.claim bean managed by spring container
+[bean scope explanation](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/SpringBean.md#%E4%B8%80--bean%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F)
+
 * @Configuration
 Indicates that a class declares one or more @Bean methods and may be processed by the Spring container to generate bean definitions and service requests for those beans at runtime, for example:
 ```java
