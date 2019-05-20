@@ -74,7 +74,7 @@ Spring中完成AOP support工具方法集合，参看[api doc](https://docs.spring.io/spring
 
 - **ReflectionUtils**
 
-Spring工具类用来简化反射API使用并处理反射调用产生异常。参看[api doc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/index.html?org/springframework/aop/support/AopUtils.html)
+Spring工具类用来简化反射API使用并处理反射调用产生异常。参看[api doc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/ReflectionUtils.html)
 
 - **AnnotationUtils**
 
