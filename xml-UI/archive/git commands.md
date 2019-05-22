@@ -198,7 +198,7 @@ git add --all
 ### git rm
 ```bash
 # 将source中所有文件子目录都从待提交staged状态改成untracked状态
-git rm --cached ./source
+git rm --cached -r ./source
 
 # 将文件从tracked的状态置为deleted，并且从文件系统中删除
 git rm readme.md
@@ -377,6 +377,8 @@ git cherry-pick dev~2
 ```bash
 # 比较当前master分支和remote的master分支的差异
 git diff origin/master  
+# 比较当前master分支和remote的master分支中指定文件的差异
+git diff origin/master  -- Run.java
 
 # 比较本地myBranch分支和remote master分支的差异
 git diff myBranch origin/master  
