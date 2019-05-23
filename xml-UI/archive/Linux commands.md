@@ -815,7 +815,9 @@ netstat -tlnpu
 # List Active Internet connections and UNIX domain sockets
 netstat -anp
 # Filter Listen state
-netstat -anp|grep LISTEN
+netstat -anp | grep LISTEN
+# list active internet connections incoming/outgoing address
+netstat -tanp | less
 ```
 * no hangup task
 ```bash
