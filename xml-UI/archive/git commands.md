@@ -181,6 +181,13 @@ To https://github.com/toyboxman/incubator-griffin.git
 ```bash
 # 查看仓库中文件状态
 git status
+
+# 查看仓库中untracked files
+git status -u
+
+# 忽略仓库中untracked files
+# equivalent to git status --untracked-files=no
+git status -uno
 ```
 
 ### git add

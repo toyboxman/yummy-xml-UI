@@ -88,7 +88,7 @@ ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖÐÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃ
 ### Unit Test
 spring¿ò¼ÜÌá¹©ÁËºÍjunit¼¯³ÉµÄ·½Ê½
 * junit integrates with spring<br>
-  1. simply annotate a JUnit 4 based test class with **@RunWith(SpringRunner.class)**<br>[***sample***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
+  1. simply annotate a JUnit 4 based test class with **@RunWith(SpringRunner.class)**<br>[***1.description***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***2.code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
   2. org.springframework.test.web.servlet.**MockMvc**, server-side Spring MVC test support<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L67)
   3. ...
   4. ...
