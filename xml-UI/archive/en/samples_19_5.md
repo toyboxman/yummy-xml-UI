@@ -123,3 +123,27 @@ The `anchor`, Kang Hui, above, `dismissed` the trade dispute as `a blip` in Chin
 
 “They `realize` they have to let the anger be `unleashed`, otherwise this could be a social disruption for the `regime`,” said Yu Jie, a fellow at Chatham House, a research institution in London.
 “他们意识到，必须让怒气发泄出来，否则就会给政权带来社会混乱，”伦敦的皇家国际事务研究所(Chatham House)研究员于杰说。
+
+Other trading partners, notably Japan and South Korea, could become `collateral damage`. And in an `odd turnabout`, China’s own needs have made it `somewhat` dependent on ore from the United States.
+其他贸易伙伴可能遭受附带伤害，尤其是日本和韩国。此外颇为不巧的是，中国自身的需求已使其多少依赖于美国的矿石。
+
+`In large part`, that is because so much manufacturing has shifted out of the United States. `Nearly a decade ago`, Beijing began `putting heavy pressure on` manufacturers of products like electric motor magnets and `light-emitting diodes` to move factories to China if they wanted reliable access to rare-earth metal supplies.
+在很大程度上，这是因为太多制造业务已转移出美国。近十年前，北京当局开始给电机磁铁和发光二极管等产品制造商大力施压，如果它们想通过可靠渠道获得稀土金属供应，就要把工厂搬到中国。
+
+Oil companies in the United States keep several months of `catalysts in stockpiles`
+美国石油公司储存了几个月的催化剂
+
+`Thanks to circuitous global supply chains`, really blocking American access to rare-earth products could meaning cutting off much of the rest of the world as well. 
+由于迂回的全球供应链，要想真正阻止美国获得稀土产品，可能意味着要切断世界其他大部分地区的供应。
+
+In an odd and `little-noticed reversal`, China has actually become `somewhat dependent on` the United States for rare-earth ore
+此外还有一个奇怪的、不太引人注意的逆转，中国实际上已经有些依赖美国稀土矿。
+
+That plan is based `partly` on his assessment that `trade frictions will persist` and that the United States will `seek self-sufficiency`.
+该计划部分基于他的评估，即贸易摩擦将持续存在，美国将寻求自给自足。
+
+The global economy is going to `bifurcate into` the U.S. `bloc` and the China bloc.
+全球经济将分化为美国集团和中国集团。
+
+When it comes to rare earths, an American bloc would `be hard pressed to catch up`, despite the reopening of Mountain Pass. China so completely dominates one key stage of the manufacturing process — converting the `oxides` to metals — and has so much low-cost `overcapacity` that companies elsewhere are `leery of` investing in their own facilities. “We’re `a long way off`,” said Mr. Cox of Anchor House. “`We’re nowhere`.”
+在稀土问题上，美国集团将很难迎头赶上，尽管门廷帕斯重新开放。中国在制造过程的一个关键阶段——将氧化物转化为金属——完全占据主导地位，而且存在大量低成本过剩产能，因此其它国家的企业不敢投资自己的工厂。
