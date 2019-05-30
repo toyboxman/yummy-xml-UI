@@ -428,6 +428,7 @@ ntpd       1181              ntp  mem       REG               0,38     18712    
 
 ### Usual command
 #### env
+[config env](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614303&idx=1&sn=ae14179470cf3d2253566e6571b0dc49)
 ```bash
 env | more
 printenv | less
@@ -733,16 +734,29 @@ curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
 
 # 如果url中存在&字符 bash会当成linux后台运行命令解释，因此需要处理一下
 # 比如 api/v1/jobs/instances?jobId={}&page={}执行会失败 可以用curl参数
-# -G, --get  Put the post data in the URL and use GET 将-d参数放到url中
+# -G, --get  Put the post data in the URL(将-d指定参数放到url中)
 curl -k -H "Accept: application/json" -G http://127.0.0.1:8080/api/v1/jobs/instances -d jobId=827 -d page=1
 
 # -s, --silent        Silent mode (don't output anything)
 # -S, --show-error    Show error
 # --form CONTENT  Specify HTTP multipart POST data (H)
 # --form-string STRING  Specify HTTP multipart POST data (H)
+# 提交表单型参数 发起 HTTP GET
 $ curl -s --form project="toyboxman/griffin" --form token="Gq7XIfGqmUJcDrC7XVr4vw" \
 https://scan.coverity.com/api/upload_permitted
+
+Response:
 {"upload_permitted":true}
+
+# 提交多行json data
+$ curl -i -k -u admin:admin -X PUT https://127.0.0.1/api/v1/jobs/09d3a97b-5ecb-4d78-b85a-4689d7bd95db \
+-H "Content-Type: application/json" \
+-d @- <<EOF
+{
+	"type": "COMPUTE",
+	"enabled": true
+}
+EOF
 ```
 
 ##### download
