@@ -437,7 +437,13 @@ git blame glanceclient/common/http.py
 ### git show
 ```bash
 # 显示master分支最后一个提交的内容
-git show master @ 
+git show master @
+# 显示master分支倒数第二个提交的内容
+git show master^ 
+# 显示master分支倒数第三个提交的内容
+git show master~2
+# 显示master分支倒数第四个提交的内容
+git show master^~2
 
 # 查看某个提交中哪些文件被修改
 git show e96a53a68b2ed1ce
