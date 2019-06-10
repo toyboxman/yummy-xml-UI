@@ -1,0 +1,3 @@
+President Trump was right to engage in some trade `shock therapy` with Beijing. China no longer just wants to sell the U.S. toys and tennis shoes. It now wants to sell the same high-tech products, like 5G telecom, robotics, electric cars and A.I. systems, that America `specializes in`. So China `had to be made to bluntly understand` that the U.S. would not look the other way anymore from China’s `longstanding abusive` trade practices, nor would it be `bought off`, either.
+特朗普总统对北京采取某种贸易休克疗法是对的。中国不再只想把玩具和网球鞋卖给美国。它现在想出售跟美国所擅长的同样的高科技产品，比如5G电信、机器人、电动汽车和人工智能系统。因此，必须单刀直入地让中国认识到，美国不会再对中国长期的贸易滥用行为视而不见，也不会被买通。
+

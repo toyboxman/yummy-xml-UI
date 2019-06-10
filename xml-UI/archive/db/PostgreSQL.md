@@ -20,6 +20,18 @@ psql (10.6 (Ubuntu 10.6-0ubuntu0.18.10.1))
 Type "help" for help.
 
 postgres-# \q
+
+# help 
+king@ubuntu:~/software$ psql --help
+
+# -W, --password           force password prompt
+king@ubuntu:~/software$ psql -U king -W -d myDB
+password for king: 
+
+king@ubuntu:~/software$ psql -U king -W -h localhost -d myDB
+
+#  run sql without login
+$ sudo -u king /opt/vpostgres/9.6/bin/psql -c "select * from mytable;"
 ```
 JDBC URI
 ```
@@ -27,6 +39,7 @@ JDBC URI
 jdbc:postgresql://127.0.0.1/myDB?ssl=false
 ```
 #### 数据库操作
+[tutorial](http://www.postgresqltutorial.com/postgresql-administration/)
 ```bash
 # 通过超级用户来创建其他用户
 king@ubuntu:~/software$ sudo -u postgres createuser king
@@ -52,24 +65,44 @@ king@ubuntu:~/software$ sudo -u postgres psql
 psql (10.6 (Ubuntu 10.6-0ubuntu0.18.10.1))
 Type "help" for help.
 
+# List of roles
 postgres=# \du
-                                   List of roles
+
  Role name |                         Attributes                         | Member of 
 -----------+------------------------------------------------------------+-----------
  king         |                                                                     |              {}
  postgres  | Superuser, Create role, Create DB, Replication, Bypass RLS | {}
  
-# help 
-king@ubuntu:~/software$ psql --help
+# List of databases 
 
-# -W, --password           force password prompt
-king@ubuntu:~/software$ psql -U king -W -d myDB
-password for king: 
+mydb=> \list
+   Name    |  Owner   | Encoding |   Collate   |    Ctype    |   Access privileges   
+-----------+----------+----------+-------------+-------------+-----------------------
+ mydb      | bjdev    | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =Tc/bjdev            +
+           |          |          |             |             | bjdev=CTc/bjdev
+ postgres  | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ template0 | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/postgres          +
+           |          |          |             |             | postgres=CTc/postgres
+ template1 | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/postgres          +
+           |          |          |             |             | postgres=CTc/postgres
 
-king@ubuntu:~/software$ psql -U king -W -h localhost -d myDB
+# List of relations(tables)
+mydb=> \dt
 
-#  run sql without login
-$ sudo -u king /opt/vpostgres/9.6/bin/psql -c "select * from mytable;"
+ Schema |         Name         | Type  | Owner 
+--------+----------------------+-------+-------
+ public | san_average_tps_time | table | bjdev
+ public | san_sys_proc         | table | bjdev
+ public | san_sys_vmstat       | table | bjdev
+
+# describe table 
+mydb=> \d san_sys_vmstat_pkey 
+Index "public.san_sys_vmstat_pkey"
+ Column |  Type   | Definition 
+--------+---------+------------
+ id     | integer | id
+primary key, btree, for table "public.san_sys_vmstat"
+ 
 ```
 #### 数据库配置
 PostgreSQL server默认使用5432端口提供连接，如果连接被拒，有可能是安全权限配置问题。
