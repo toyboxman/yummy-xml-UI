@@ -10,6 +10,7 @@
 	- [file](#s2)
 ### 
 - [Python CLI](#python-cli)
+- [Python 图像编辑](https://linux.cn/article-10679-1.html)
 ***
 
 ## Basic Language Concepts
