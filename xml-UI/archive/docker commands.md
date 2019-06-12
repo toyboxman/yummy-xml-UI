@@ -82,6 +82,9 @@ $ docker run -p8081:2181 -it solo_zk
 # 将container中文件内容导出本地，执行完成后kill container
 # -rm parameter means kill container after command closes
 $ docker run -i --rm postgres cat /usr/share/postgresql/postgresql.conf.sample > my-postgres.conf
+# postgres image guide https://github.com/docker-library/docs/blob/master/postgres/README.md
+# -e 指定container的环境变量
+$ docker run --name some-postgres -e POSTGRES_PASSWORD_FILE=/run/secrets/postgres-passwd -d postgres
 # remove container by name/id
 $ docker rm <NAME | ID>  
 # Stop one or more running containers
