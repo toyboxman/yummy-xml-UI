@@ -79,6 +79,9 @@ $ docker run --name jdk-dev -it java
 $ docker run -d -it golang
 # run image as container with mapping port 2181 to host's port 8081
 $ docker run -p8081:2181 -it solo_zk  
+# 将container中文件内容导出本地，执行完成后kill container
+# -rm parameter means kill container after command closes
+$ docker run -i --rm postgres cat /usr/share/postgresql/postgresql.conf.sample > my-postgres.conf
 # remove container by name/id
 $ docker rm <NAME | ID>  
 # Stop one or more running containers
