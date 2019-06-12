@@ -38,6 +38,39 @@ JDBC URI
 # default port 5432
 jdbc:postgresql://127.0.0.1/myDB?ssl=false
 ```
+[Remote Connection](https://blog.bigbinary.com/2016/01/23/configure-postgresql-to-allow-remote-connection.html)
+```
+# 默认配置下 listen_addresses = 'localhost' 外部通过public ip访问不到数据库
+king@ubuntu:~$ netstat -tlnpu |grep 5432
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+tcp        0      0 127.0.0.1:5432          0.0.0.0:*               LISTEN      -                   
+
+king@ubuntu:~$ nc -zv 127.0.0.1 5432
+Connection to 127.0.0.1 5432 port [tcp/postgresql] succeeded!
+
+king@ubuntu:~$ nc -zv 10.117.4.20 5432
+nc: connect to 10.117.4.20 port 5432 (tcp) failed: Connection refused
+
+king@ubuntu:~$ sudo find / -name "postgresql.conf"
+/etc/postgresql/10/main/postgresql.conf
+
+# 修改 listen_addresses = '*'
+king@ubuntu:~$ sudo vi /etc/postgresql/10/main/postgresql.conf
+king@ubuntu:~$ sudo systemctl restart postgresql
+king@ubuntu:~$ nc -zv 127.0.0.1 5432
+Connection to 127.0.0.1 5432 port [tcp/postgresql] succeeded!
+king@ubuntu:~$ nc -zv 10.117.4.20 5432
+Connection to 10.117.4.20 5432 port [tcp/postgresql] succeeded!
+ 
+king@ubuntu:~$ netstat -tlnpu |grep 5432
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+tcp        0      0 0.0.0.0:5432            0.0.0.0:*               LISTEN      -                   
+tcp6       0      0 :::5432                 :::*                    LISTEN      -  
+```
+如果连接仍被拒，就需要检查后面提到的pg_hba.conf
+
 #### 数据库操作
 [tutorial](http://www.postgresqltutorial.com/postgresql-administration/)
 ```bash
