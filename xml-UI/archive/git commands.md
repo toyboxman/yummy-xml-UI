@@ -204,8 +204,13 @@ git add --all
 
 ### git rm
 ```bash
+# untracked:新建文件  unstaged:修改过repo tree上的文件 staged:git add后待commit的文件
 # 将source中所有文件子目录都从待提交staged状态改成untracked状态
+# 此命令仅对git add untracked-files起到undo的效果，如果对git add unstaged-files执行会从本地tree中删除文件
 git rm --cached -r ./source
+
+# 将git add unstaged-files文件从staged状态undo回原状态unstaged
+git reset @ readme.md
 
 # 将文件从tracked的状态置为deleted，并且从文件系统中删除
 git rm readme.md
