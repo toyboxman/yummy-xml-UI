@@ -356,6 +356,11 @@ git reset --hard HEAD
 
 # 先临时保存未提交的本地变更, 然后回退到提交点, 再将临时保存修改应用到新基点
 git stash; git reset --hard 0d1d7fc32; git stash pop
+# git stash是一组操作命令，用来临时保存更新修改。通过tab键可以自动提示
+git stash list
+git stash push <file>
+git stash clear
+git stash show
 
 # 通过软复位也可以达到上一命令相同效果  hard/soft前后两种方式区别就在于是否保留未提交更改
 git reset --soft 0d1d7fc32
