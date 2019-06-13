@@ -19,6 +19,9 @@ king@ubuntu:~/software$ sudo -u postgres psql
 psql (10.6 (Ubuntu 10.6-0ubuntu0.18.10.1))
 Type "help" for help.
 
+# change user password
+postgres-# \password
+# quit
 postgres-# \q
 
 # help 
