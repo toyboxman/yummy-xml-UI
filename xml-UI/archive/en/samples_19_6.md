@@ -57,3 +57,36 @@ officials would “effectively guarantee the market supply of `daily necessities`
 
 “These four options are just `trying to smooth things over`,” one person wrote. “It’s obviously inflation.” “I can’t `afford eating` now,” said one commenter. “Fruit is `as expensive as gold`.”
 “四个选项就是和稀泥，”一个人写道。“明明是通货膨胀。”  “吃不起啊！”一位评论者说。“水果贵如黄金。”
+
+Details about the meetings, the latest move in two weeks of `high-stakes economic brinkmanship` between the United States and China, were shared by two people familiar with them, who asked not to be named because they were not authorized to discuss them and could `face retribution`.
+过去两周以来，美国和中国互相采取了一些高风险的经济边缘政策，而此番约谈是其中的最新发展。因未被授权讨论此事且可能遭惩罚，透露会议细节的两名知情人士要求不具名
+
+This is now `extremely delicate` because the Trump administration, through its `brinkmanship tactics`, has destabilized the entire relationship, commercial and `otherwise`
+这个问题如今极其敏感，因为特朗普政府已通过它的边缘政策，破坏了商业及其他方面的整个关系的稳定
+
+There is `a strong perception` in Beijing that the U.S. government `is intent on blunting` China’s technology rise, and that if this process is not slowed or stopped, the future of China’s entire digital economy is at risk
+北京方面`强烈感觉`到，美国政府`有意阻止`中国在技术上的崛起，且如不使这一过程放缓或止步，则中国整个数字经济的未来将面临风险
+
+American companies aren’t going to violate American laws, especially in such a `high-profile context` where their actions are `scrutinized`,” he said. “The companies are `between a rock and a hard place`, but that hard place will win out
+美国公司不会违反美国法律，尤其是在现在这个备受瞩目的语境下，它们的一举一动都有人在看着，”他说。“这些公司处于进退两难的境地，但是他们会选择其中一方。
+
+“The China deal’s going to `work out`,” Mr. Trump said in an interview on CNBC. “You know why? Because of tariffs. Because right now China is `getting absolutely decimated` by companies that are leaving China, going to other countries, including our own, because they don’t want to pay the tariffs.”
+“对中国的政策会见效的，”特朗普在接受CNBC采访时说。“你知道为什么嘛？因为有关税。因为现在那些离开中国的公司正在彻底重挫中国，它们去了其他国家，包括我们国家，因为它们不想支付关税。”
+
+The president has `long favored tariffs` as an immediate and `unilateral` policy tool. But his increasing confidence that the `levies` have helped `accomplish his goals` without harming the United States sets up an even more tumultuous period ahead for businesses, consumers and foreign countries.
+总统长期以来一直偏爱将关税作为直接的、单方面的政策工具。但他越来越相信，征税已在不伤害美国的情况下帮助实现其目标，这种自信，将给企业、消费者和各国带来一个更加动荡的时期。
+
+Markets are already `counting on` the Federal Reserve to come to the rescue by `cutting interest rates`. Fed officials `have begun signaling` they are prepared to help `prop up` the economy to `counter any slowdown` from Mr. Trump’s trade war, a development that could give the president even more `leeway` to carry out an aggressive trade policy.
+市场已经指望美联储通过降息来施以救助。美联储官员已开始暗示，他们做好了帮助支撑经济，以应对特朗普贸易战导致的任何放缓的准备，此举可能会给总统更多的空间去实施积极强硬的贸易政策。
+
+“They `devalue their currency`. They have for years,” he said. “It’s put them at a `tremendous competitive advantage`, and we don’t have that advantage because we have a Fed that doesn’t `lower interest rates`.”
+“他们贬值货币。他们已经这么做很多年了，“他说。“这使他们拥有巨大的竞争优势，我们没有这种优势，因为我们有一个不愿降息的美联储。”
+
+The president insisted his tariffs were having their `intended effect` — pressuring other countries to make deals, `prompting companies` to move factories back to the United States and generating an enormous amount of money, all without costing American consumers.
+总统坚称，他的关税起到了应有的作用——迫使其他国家签订协议，促使企业把工厂迁回美国，并收获了一大批钱，且全都不会给美国消费者造成损失。
+
+Mr. Trump said on Monday that he `saw no downside` to taxing nearly everything China sends into the United States, saying it would continue to boost the American economy.
+特朗普周一表示，他看不出给中国出口到美国的几乎每样商品征税有什么不妥，称这将继续推动美国经济。
+
+`In the meantime`, the United States continues to prepare for the next round of Chinese tariffs. That round of tariffs would hit `a wide range of` consumer goods, including `sneakers, televisions and cribs`.
+与此同时，美国继续在为下一轮中国关税做准备。这一轮关税将打击多个门类的消费品，包括运动鞋、电视和婴儿床。
