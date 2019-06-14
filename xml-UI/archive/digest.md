@@ -5,7 +5,13 @@ Nagios是用来监控服务器和应用运行状态的监控工具，包括针对systems, networks和infra
 
 - Zabbix
 
-Zabbix是一个基于WEB界面提供分布式系统监控以及网络监控功能的企业级开源运维平台，也是目前国内互联网用户中使用最广的监控软件。它支持多种采集方式和采集客户端，有专用的Agent，也可以支持SNMP、IPMI、JMX、Telnet、SSH等多种协议。Zabbix易于管理和配置，其自动发现功能可以大大减轻日常管理的工作量，灵活的告警机制能够满足不同用户在不同情形下的工作需要。
+Zabbix是一个基于WEB界面提供分布式系统监控以及网络监控功能的企业级开源运维平台，也是目前国内互联网用户中使用最广的监控软件。它支持多种采集方式和采集客户端，有专用的Agent，也可以支持SNMP、IPMI、JMX、Telnet、SSH等多种协议。Zabbix 使用 MySQL、PostgreSQL、SQLite、Oracle 或 IBM DB2 儲存資料。Server 端基於 C語言、Web 前端則是基於 PHP 所製作的。Zabbix 可以使用多種方式監視。可以只使用 Simple Check 不需要安裝 Client 端，亦可基於 SMTP 或 HTTP 等各種協定做死活監視。在客戶端如 UNIX、Windows 中安裝 Zabbix Agent 之後，可監視 CPU 負荷、网络使用狀況、磁盘容量等各種狀態。
+
+- Nagios vs Zabbix
+    - Nagios最大的亮点是轻量灵活，且报警机制很强，如果你只是需要监控服务器/服务是否在运行，nagios足矣。但是如果牵涉到画图方面，我通过这段时间的亲身体会，感觉nagios+cacti的结合是不如zabbix的all in one方式的。
+
+    - 监控平台的话，各有优劣，但基本都可以满足需求。等达到一定监控指标后，发现，最困难的是监控项目的管理。 中小规模（服务器<=1k）：Zabbix 大规模（1k>=服务器<=10k）：Nagios进行二次开发  超大规模（服务器>=10k）：开发适应自己平台的监控软件吧
+
 
 - Splunk
 
