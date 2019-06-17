@@ -63,9 +63,11 @@
     - [Grep](#search-txt)
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
+    - [Link/ln](#ln)
     - [Man](#man)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
+    - [Nohup](#nohup)
     - [Pstree](#pstree)
     - [SSH](#ssh)
     - [OpenSSL](SSL-JKS-CERT.md#show-certificate)
@@ -80,6 +82,8 @@
     - [Awk](#awk)
     - [Cut](#cut)
     - [Diff/Patch](#diffpatch)
+    - [Expand/Unexpand](#expandunexpand)
+    - [Fold](#fold)
     - [Head/Tail](#headtail)
     - [Hd/Od](#hdod)
     - [JSON/jq](#jq)
@@ -92,6 +96,7 @@
     - [Strings](#strings)
     - [Tee](#tee)
     - [Uniq](#uniq)
+    - [Unix2dos/Dos2unix](#unix2dos/dos2unix)
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Shell Programming](#shell-programming)
@@ -821,32 +826,7 @@ unzip a.zip -d /usr/share/tmp
 gzip -dv < bankApp.tar.gz | tar xvf -   
 ```
 
-#### netstat
-```bash
-# monitor port status
-netstat -tlnpu
-
-# List Active Internet connections and UNIX domain sockets
-netstat -anp
-# Filter Listen state
-netstat -anp | grep LISTEN
-# list active internet connections incoming/outgoing address
-netstat -tanp | less
-```
-* no hangup task
-```bash
-# put task to background without hangup
-nohup command & 
-```
-* fold --wrap text
-```bash
-netstat -tlnpu|fold -w 120
-```
-* unix2dos/dos2unix -- format transfer
-```bash
-dos2unix file
-```
-* ln
+#### ln
 ```bash
 # link a file to destination, it is better to use absolute 
 # path instead of relative path, unless it will lead broken link file
@@ -861,6 +841,26 @@ ln -s ./java  /home/
 sudo ln -s /home/king/software /apache
 # and then link /home/king/software/data to /data folder
 sudo ln -s /apache/data /data
+```
+
+#### netstat
+```bash
+# monitor port status
+netstat -tlnpu
+
+# List Active Internet connections and UNIX domain sockets
+netstat -anp
+# Filter Listen state
+netstat -anp | grep LISTEN
+# list active internet connections incoming/outgoing address
+netstat -tanp | less
+```
+
+#### nohup
+run a command immune to hangups, with output to a non-tty
+```bash
+# put task to background without hangup
+nohup command & 
 ```
 
 #### mount/umount
@@ -1040,7 +1040,7 @@ patch -p 10 --dry-run < ../rb1138637.patch
 # 从patch文件直接导出差异，忽略文件路径信息
 patch < ../rb1138637.patch  
 
-# 在patch文件中源文件目录是'/src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java'
+# patch中源文件目录是'/src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java'
 # 从patch文件导出差异，忽略前1个'/'路径
 patch -p1 < ../rb1138637.patch  
 checking file src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java
@@ -1080,6 +1080,39 @@ find . -name *.java | xargs cat | wc -l
 ps -ef | grep -c 'sshd' 
 # 等同于
 ps -ef | grep 'sshd' | wc -l
+```
+
+####  expand/unexpand
+[expand](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614435&idx=3&sn=9155d9cc9f0e401992afe31cf3c096a7) - convert tabs to spaces
+```bash
+#  默认TAB 的宽度8
+expand tech.txt
+# 设置每个 TAB 的宽度
+expand -t=5 tech.txt
+#  不转换非空白字符后的TAB
+expand -i tech.txt
+
+# 仅转换一行开头的空格
+unexpand --first-only tech.txt
+# 转换所有空格
+unexpand -a tech.txt
+# 设定多少个空格替换成一个 TAB，而不是 8（会启用 -a）：
+unexpand -t 5 tech.txt
+# 使用逗号分隔指定多个 TAB 的位置
+unexpand -t 5,10,15 tech.txt
+```
+
+####  fold
+fold - wrap each input line to fit in specified width
+```bash
+# -w, --width=WIDTH use WIDTH columns instead of 80
+netstat -tlnpu | fold -w 120
+```
+
+####  unix2dos/dos2unix
+unix2dos/dos2unix -- format transfer
+```bash
+dos2unix file
 ```
 
 #### Hd/Od
