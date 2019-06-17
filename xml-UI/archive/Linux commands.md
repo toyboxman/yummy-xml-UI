@@ -96,7 +96,7 @@
     - [Strings](#strings)
     - [Tee](#tee)
     - [Uniq](#uniq)
-    - [Unix2dos/Dos2unix](#unix2dos/dos2unix)
+    - [Unix2dos/Dos2unix](#unix2dosdos2unix)
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Shell Programming](#shell-programming)
