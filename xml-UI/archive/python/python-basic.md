@@ -18,10 +18,19 @@
 
 ### Collections
 - **[List](https://www.w3schools.com/python/python_lists.asp)**: is a collection which is ordered and changeable. Allows duplicate members.
-```python
-thislist = ["apple", "banana", "cherry"]
-print(thislist[1])
-```
+    - **[construct list]**(https://www.geeksforgeeks.org/python-list/)
+    ```python
+    thislist = ["apple", "banana", "cherry"]
+    print(thislist[1])
+    
+    list = list([1,2,3])
+    print(list)
+    ```
+    output
+    ```
+    banana
+    [1, 2, 3]
+    ```
 
     - **[print list]**(https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/)
     ```
