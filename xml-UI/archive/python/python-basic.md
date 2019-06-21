@@ -25,13 +25,21 @@
     
     list = list([1,2,3])
     print(list)
+    del list
+    # 通过range产生数列 [1, 11)
+    list = [x for x in range(1,11)]
+    print(list)
+    list = [x ** 2  for x in range (1, 11)   if  x % 2 == 1] 
+    print(list)
     ```
     output
     ```
     banana
     [1, 2, 3]
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    [1, 9, 25, 49, 81]
     ```
-    
+
     - **[slice list](https://www.geeksforgeeks.org/python-slicing-list-from-kth-element-to-last-element/)**
     ```python
     a = [0, 1, 2, 3, 4, 5]
@@ -79,17 +87,20 @@
     ```python
     a =["Geeks", "for", "Geeks"] 
     # print the list using join function() 
+    # 空格作为分隔符
     print(' '.join(a)) 
     # print the list by converting a list of  integers to string  
-    a = [1, 2, 3, 4, 5] 
+    a = [0, 1, 2, 3, 4, 5] 
+    # list转成string后会带上中括号
+    print(str(a))
+    # 相当于对字符串做slice，去掉收尾中括号符
     print(str(a)[1:-1])
-    print(a)
     ```
     output
     ```
     Geeks for Geeks
-    1, 2, 3, 4, 5
-    [1, 2, 3, 4, 5]
+    [0, 1, 2, 3, 4, 5]
+    0, 1, 2, 3, 4, 5
     ```
     - **error**
         - **[TypeError: 'list' object is not callable in python](https://stackoverflow.com/questions/31087111/typeerror-list-object-is-not-callable-in-python?noredirect=1&lq=1)**
@@ -254,7 +265,7 @@ print (x[2:5])
 # 截取[2..5)子串并且丢弃其中第二个字符
 print (x[2:5:2])
 # 从后往前截取[2..5)
-print(y[-5:-2])
+print(x[-5:-2])
 ```
 output
 ```
