@@ -31,9 +31,34 @@
     banana
     [1, 2, 3]
     ```
-
-    - **[print list](https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/)**
+    
+    - **[slice list](https://www.geeksforgeeks.org/python-slicing-list-from-kth-element-to-last-element/)**
+    ```python
+    a = [0, 1, 2, 3, 4, 5]
+    print(a)
+    # 截取顺数第三至末尾数据
+    print(a[2 : None])
+    # 截取顺数第四至末尾数据
+    print(a[3 :])
+    # 截取顺数第四倒数第一之间数据，不包含倒数第一的‘5’
+    # list区间数学表示 [3 : 6)
+    print(a[3 : -1])
+    # 截取顺数第一至倒数第一间数据，不包含倒数第一
+    # 等价print(a[0 : -1]) ， print(a[None : -1])
+    # list区间数学表示 [0 : 6)
+    print(a[: -1])
     ```
+    output
+    ```
+    [0, 1, 2, 3, 4, 5]
+    [2, 3, 4, 5]
+    [3, 4, 5]
+    [3, 4]
+    [0, 1, 2, 3, 4]
+    ```
+    
+    - **[print list](https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/)**
+    ```python
     a = [1, 2, 3, 4, 5] 
     # printing the list using * operator separated by space  
     print(*a) 
@@ -51,7 +76,7 @@
     5
     ```
     - **[convert list](https://thispointer.com/python-how-to-convert-a-list-to-string/)**
-    ```
+    ```python
     a =["Geeks", "for", "Geeks"] 
     # print the list using join function() 
     print(' '.join(a)) 
@@ -144,7 +169,7 @@ if a > b or a > c:
 
 ### Object
 - **[list attributes](https://www.geeksforgeeks.org/class-instance-attributes-python/)**
-```
+```python
 class emp: 
     def __init__(self): 
         self.name = 'xyz'
@@ -221,7 +246,7 @@ f.close()
 ### string
 - **[Strings are Immutable](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-1/)**
 - **[Strings Slicing](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-2/)**
-```
+```python
 x = "0123456789"
 # Prints substring from 2nd to 5th character, excluding 5th
 # [2..5)
