@@ -22,6 +22,7 @@
 thislist = ["apple", "banana", "cherry"]
 print(thislist[1])
 ```
+
     - **[print list]**(https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/)
     ```
     a = [1, 2, 3, 4, 5] 
