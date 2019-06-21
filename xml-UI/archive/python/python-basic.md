@@ -5,7 +5,7 @@
 - [Text Processing](#text-processing)
     - [Json](#t1)
     - [Time/Sleep](#t2)
-    - [Flow](#flow)
+    - [String](#t3)
 - [System Processing](#system-processing)	
 	- [thread/kill/sizeof](#s1)
 	- [file](#s2)
@@ -57,12 +57,14 @@
     print(' '.join(a)) 
     # print the list by converting a list of  integers to string  
     a = [1, 2, 3, 4, 5] 
-    print str(a)[1:-1]
+    print(str(a)[1:-1])
+    print(a)
     ```
     output
     ```
     Geeks for Geeks
     1, 2, 3, 4, 5
+    [1, 2, 3, 4, 5]
     ```
     - **error**
         - **[TypeError: 'list' object is not callable in python](https://stackoverflow.com/questions/31087111/typeerror-list-object-is-not-callable-in-python?noredirect=1&lq=1)**
@@ -213,6 +215,28 @@ with open("/dev/zero") as f:
         print("value is " + str(sys.getsizeof(value))+ " bytes")
 f.close()
 ```
+
+<div id = "t3"></div>
+
+### string
+    - **[Strings are Immutable](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-1/)**
+    - **[Strings Slicing](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-2/)**
+    ```
+    x = "0123456789"
+    # Prints substring from 2nd to 5th character, excluding 5th
+    # [2..5)
+    print (x[2:5])
+    # 截取[2..5)子串并且丢弃其中第二个字符
+    print (x[2:5:2])
+    # 从后往前截取[2..5)
+    print(y[-5:-2])
+    ```
+    output
+    ```
+    234
+    24
+    567
+    ```
 
 ## System Processing
 
