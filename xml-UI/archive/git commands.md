@@ -423,7 +423,7 @@ git diff 0.12.0 0.13.0 -- glanceclient/common/http.py
 git log --oneline flash-dev
 
 # 简要汇总当前分支日志
-$git log --oneline  
+git log --oneline  
 
 # 查看匹配name的作者所有提交详情
 git log --author <name>  
@@ -449,6 +449,8 @@ git log --author=<name> --pretty=tformat: --numstat | awk \
 
 # 汇总当前分支在两个tag快照之间的所有提交日志
 git log tag1..tag2
+# 汇总两分支之间的提交差异
+git log master..origin/master
 ```
 
 ### git blame
