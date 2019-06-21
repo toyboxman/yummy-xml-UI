@@ -219,24 +219,24 @@ f.close()
 <div id = "t3"></div>
 
 ### string
-    - **[Strings are Immutable](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-1/)**
-    - **[Strings Slicing](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-2/)**
-    ```
-    x = "0123456789"
-    # Prints substring from 2nd to 5th character, excluding 5th
-    # [2..5)
-    print (x[2:5])
-    # 截取[2..5)子串并且丢弃其中第二个字符
-    print (x[2:5:2])
-    # 从后往前截取[2..5)
-    print(y[-5:-2])
-    ```
-    output
-    ```
-    234
-    24
-    567
-    ```
+- **[Strings are Immutable](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-1/)**
+- **[Strings Slicing](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-2/)**
+```
+x = "0123456789"
+# Prints substring from 2nd to 5th character, excluding 5th
+# [2..5)
+print (x[2:5])
+# 截取[2..5)子串并且丢弃其中第二个字符
+print (x[2:5:2])
+# 从后往前截取[2..5)
+print(y[-5:-2])
+```
+output
+```
+234
+24
+567
+```
 
 ## System Processing
 
