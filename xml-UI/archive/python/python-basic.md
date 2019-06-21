@@ -18,7 +18,7 @@
 
 ### Collections
 - **[List](https://www.w3schools.com/python/python_lists.asp)**: is a collection which is ordered and changeable. Allows duplicate members.
-    - **[construct list]**(https://www.geeksforgeeks.org/python-list/)
+    - **[construct list](https://www.geeksforgeeks.org/python-list/)**
     ```python
     thislist = ["apple", "banana", "cherry"]
     print(thislist[1])
@@ -32,7 +32,7 @@
     [1, 2, 3]
     ```
 
-    - **[print list]**(https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/)
+    - **[print list](https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/)**
     ```
     a = [1, 2, 3, 4, 5] 
     # printing the list using * operator separated by space  
@@ -50,7 +50,7 @@
     4
     5
     ```
-    - **[convert list]**(https://thispointer.com/python-how-to-convert-a-list-to-string/)
+    - **[convert list](https://thispointer.com/python-how-to-convert-a-list-to-string/)**
     ```
     a =["Geeks", "for", "Geeks"] 
     # print the list using join function() 
@@ -64,6 +64,8 @@
     Geeks for Geeks
     1, 2, 3, 4, 5
     ```
+    - **error**
+        - **[TypeError: 'list' object is not callable in python](https://stackoverflow.com/questions/31087111/typeerror-list-object-is-not-callable-in-python?noredirect=1&lq=1)**
 
 - **[Tuple](https://www.w3schools.com/python/python_tuples.asp)**: is a collection which is ordered and unchangeable. Allows duplicate members.
 ```python
