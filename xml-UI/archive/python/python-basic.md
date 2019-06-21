@@ -1,6 +1,7 @@
 - [Basic Language Concepts](#basic-language-concepts)
     - [Collections](#collections)
     - [Flow](#flow)
+    - [Object](#object)
 - [Text Processing](#text-processing)
     - [Json](#t1)
     - [Time/Sleep](#t2)
@@ -21,6 +22,39 @@
 thislist = ["apple", "banana", "cherry"]
 print(thislist[1])
 ```
+    - **[print list]**(https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/)
+    ```
+    a = [1, 2, 3, 4, 5] 
+    # printing the list using * operator separated by space  
+    print(*a) 
+    print(*a, sep = ", ")  
+    print(*a, sep = "\n") 
+    ```
+    output
+    ```
+    1 2 3 4 5
+    1, 2, 3, 4, 5
+    1
+    2
+    3
+    4
+    5
+    ```
+    - **[convert list]**(https://thispointer.com/python-how-to-convert-a-list-to-string/)
+    ```
+    a =["Geeks", "for", "Geeks"] 
+    # print the list using join function() 
+    print(' '.join(a)) 
+    # print the list by converting a list of  integers to string  
+    a = [1, 2, 3, 4, 5] 
+    print str(a)[1:-1]
+    ```
+    output
+    ```
+    Geeks for Geeks
+    1, 2, 3, 4, 5
+    ```
+
 - **[Tuple](https://www.w3schools.com/python/python_tuples.asp)**: is a collection which is ordered and unchangeable. Allows duplicate members.
 ```python
 thistuple = ("apple", "banana", "cherry")
@@ -93,6 +127,28 @@ if a > b or a > c:
       if x == "banana":
         break
     ```
+
+### Object
+- **[list attributes](https://www.geeksforgeeks.org/class-instance-attributes-python/)**
+```
+class emp: 
+    def __init__(self): 
+        self.name = 'xyz'
+        self.salary = 4000
+  
+    def show(self): 
+        print self.name 
+        print self.salary 
+  
+e1 = emp() 
+print "Dictionary form :", vars(e1) 
+print dir(e1) 
+```
+output
+```
+Dictionary form :{'salary': 4000, 'name': 'xyz'}
+['__doc__', '__init__', '__module__', 'name', 'salary', 'show']
+```
 
 ## Text Processing
 
