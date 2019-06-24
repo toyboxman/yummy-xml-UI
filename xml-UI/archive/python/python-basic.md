@@ -421,7 +421,7 @@ IndexError: tuple index out of range
 
 Geeks love GeeksforGeeks!!
 ```
-- **[Strings Spliting]**
+- **Strings Spliting**
 ```python
 # 将网卡查询结果按换行符转成数组
 # 去掉每个element的前后空白符
