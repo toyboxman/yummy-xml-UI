@@ -1,3 +1,4 @@
+***
 - [Basic Language Concepts](#basic-language-concepts)
     - [Collections](#collections)
     - [Flow](#flow)
@@ -9,7 +10,6 @@
 - [System Processing](#system-processing)	
 	- [thread/kill/sizeof](#s1)
 	- [file](#s2)
-### 
 - [Python CLI](#python-cli)
 - [Python 图像编辑](https://linux.cn/article-10679-1.html)
 ***
@@ -208,6 +208,86 @@ output
 Dictionary form :{'salary': 4000, 'name': 'xyz'}
 ['__doc__', '__init__', '__module__', 'name', 'salary', 'show']
 ```
+- **[unpacking/packing argument](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)**
+```python
+def fun(a, b, c, d): 
+    print(a, b, c, d) 
+  
+# Driver Code 
+my_list = [1, 2, 3, 4] 
+  
+# This doesn't work 
+fun(my_list) 
+
+# Unpacking list into four arguments 
+fun(*my_list) 
+
+# ** is used for dictionaries
+def fun(a, b, c): 
+    print(a, b, c) 
+  
+# A call with unpacking of dictionary 
+d = {'a':2, 'b':4, 'c':10} 
+fun(**d) 
+
+>>> range(3, 6)  # normal call with separate arguments 
+[3, 4, 5] 
+>>> args = [3, 6] 
+>>> range(*args)  # call with arguments unpacked from a list 
+[3, 4, 5] 
+```
+output
+```
+TypeError: fun() takes exactly 4 arguments (1 given)
+(1, 2, 3, 4)
+2 4 10
+```
+- **[print](http://blog.sina.com.cn/s/blog_46d0362d0101cu1w.html)**
+```python
+# 打印调用栈 
+import traceback  
+traceback.print_stack()
+
+# 打印时间点 
+import datetime  
+now = datetime.datetime.now().time().isoformat()  
+print now
+
+# 打印时间和执行行号
+import inspect
+f = lambda: inspect.currentframe().f_code.co_filename + ':' + str(inspect.currentframe().f_lineno);
+print f()
+
+# 按照json格式打印dict/hashmap
+import json
+print json.dumps([{'name': k, 'value' : v} for k, v in image_meta.items()], indent = 4)
+[
+    {
+        "name": "name",
+        "value": "cirros-x86_64"
+    },
+    {
+        "name": "container_format",
+        "value": "bare"
+    },
+    {
+        "name": "disk_format",
+        "value": "qcow2"
+    },
+    {
+        "name": "min_disk",
+        "value": 1333167616
+    },
+    {
+        "name": "is_public",
+        "value": true
+    },
+    {
+        "name": "properties",
+        "value": {}
+    }
+]
+```
 
 ## Text Processing
 
@@ -222,6 +302,15 @@ ctlist = json.loads(json_txt)
 controller_list = []
 for ctl in ctlist["controllers"]:
     controller_list.append(ctlist["id"])
+
+# pip install pyyaml
+import yaml
+
+with open("example.yaml", 'r') as stream:
+    try:
+        print(yaml.load(stream))
+    except yaml.YAMLError as exc:
+        print(exc)    
 ```
 
 <div id = "t2"></div>
@@ -332,6 +421,13 @@ IndexError: tuple index out of range
 
 Geeks love GeeksforGeeks!!
 ```
+- **[Strings Spliting]
+```python
+# 将网卡查询结果按换行符转成数组
+# 去掉每个element的前后空白符
+# 过滤掉空白element
+nic_list = set([y for y in (x.strip() for x in ipconfig_nics.splitlines()) if y])
+```
 
 ## System Processing
 
@@ -368,13 +464,25 @@ Python 2.7.13
 $ python3 -V
 Python 3.4.6
 ```
-
+- **[export  LD_LIBRARY_PATH env variable]**
+```
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64
+```
+- **[find site-package location](https://stackoverflow.com/questions/122327/how-do-i-find-the-location-of-my-python-site-packages-directory))**
+```
+# global setting
+python -m site
+python -c "import site; print(site.getsitepackages())"
+# per user site-packages
+python -m site --user-site
+```
 - **run unit test**
 ```python
 # run unit test with Test Discovery
 $ python3 -m unittest -h
 $ python -m unittest
 ```
+- **[run Tox test](https://www.oschina.net/translate/open-sourcing-a-python-project-the-right-way?print)**
 
 - **list installed packages**
 ```python
