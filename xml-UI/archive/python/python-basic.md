@@ -19,6 +19,7 @@
 ### Collections
 - **[List](https://www.w3schools.com/python/python_lists.asp)**: is a collection which is ordered and changeable. Allows duplicate members.
     - **[construct list](https://www.geeksforgeeks.org/python-list/)**
+    - **[comprehension](https://www.geeksforgeeks.org/python-list-comprehension-and-slicing/)**
     ```python
     thislist = ["apple", "banana", "cherry"]
     print(thislist[1])
@@ -41,6 +42,7 @@
     ```
 
     - **[slice list](https://www.geeksforgeeks.org/python-slicing-list-from-kth-element-to-last-element/)**
+    - **[slice range](https://www.geeksforgeeks.org/python-alternate-range-slicing-in-list/)**
     ```python
     a = [0, 1, 2, 3, 4, 5]
     print(a)
@@ -113,13 +115,20 @@ thistuple[1] = "blackcurrant"
 print(thistuple)
 ```
 - **[Set](https://www.w3schools.com/python/python_sets.asp)**: is a collection which is unordered and unindexed. No duplicate members.
-```python
-thisset = {"apple", "banana", "cherry"}
-# if "banana" exists in set
-print("banana" in thisset)
-
-True
-```
+    - **[construct](https://www.geeksforgeeks.org/python-sets/)**
+    ```python
+    thisset = {"apple", "banana", "cherry"}
+    # if "banana" exists in set
+    print("banana" in thisset)
+    
+    s = set([0,1,2,3,2,1])
+    print(s)
+    ```
+    output
+    ```
+    True
+    {0, 1, 2, 3}
+    ```
 - **[Dictionary](https://www.w3schools.com/python/python_dictionaries.asp)**: is a collection which is unordered, changeable and indexed. No duplicate members.
 ```python
 thisdict =  {
@@ -256,6 +265,32 @@ f.close()
 
 ### string
 - **[Strings are Immutable](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-1/)**
+```python
+a = 'Geeks'
+# output is displayed 
+print(a) 
+a[2] = 'E'
+print(a) # causes error 
+a = a + 'for'
+print(a) # works fine 
+
+string1 = "Hello"
+string2 = "Hello"
+# id() function is used to return the identity of an object
+print(id(string1)) 
+print(id(string2)) 
+```
+output
+```
+Geeks
+Traceback (most recent call last):
+  File "/home/adda662df52071c1e472261a1249d4a1.py", line 9, in 
+    a[2] = 'E'
+TypeError: 'str' object does not support item assignment
+Geeksfor
+93226944
+93226944
+```
 - **[Strings Slicing](https://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-2/)**
 ```python
 x = "0123456789"
@@ -272,6 +307,30 @@ output
 234
 24
 567
+```
+- **[Strings Formatting](https://www.geeksforgeeks.org/python-format-function/)**
+```python
+# 格式参数数目和实际传入值数目要一致
+my_string = "{}, is a {} {} science portal for {}"
+print (my_string.format("GeeksforGeeks", "computer", "geeks")) 
+
+print("{1} love {0}!!".format("GeeksforGeeks", "Geeks")) 
+
+# awk命令自带{}会被认为是format参数导致错误
+ping_check = "ping -I {0} -i 1 -c 3 -W 2 {1} | tail -n +7 | head -n -2 | awk '{print $1, $4}'"
+# 这种格式化可以把原始字符串拆开，避免解析失败
+ping_check = "ping -I {0} -i 1 -c 3 -W 2 {1} | tail -n +7 | head -n -2"
+cmd_awk = " | awk '{print $1, $4}'"
+format_ping_check = ping_check.format("eth0", "10.0.0.1") + cmd_awk
+```
+output
+```
+Traceback (most recent call last):
+  File "/home/949ca7b5b7e26575871639f03193d1b3.py", line 2, in 
+    print (my_string.format("GeeksforGeeks", "computer", "geeks"))
+IndexError: tuple index out of range
+
+Geeks love GeeksforGeeks!!
 ```
 
 ## System Processing
