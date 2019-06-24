@@ -468,7 +468,7 @@ Python 3.4.6
 ```
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64
 ```
-- **[find site-package location](https://stackoverflow.com/questions/122327/how-do-i-find-the-location-of-my-python-site-packages-directory))**
+- **[find site-package location](https://stackoverflow.com/questions/122327/how-do-i-find-the-location-of-my-python-site-packages-directory)**
 ```
 # global setting
 python -m site
