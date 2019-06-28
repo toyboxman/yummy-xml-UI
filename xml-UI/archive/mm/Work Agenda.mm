@@ -176,10 +176,11 @@
 </node>
 <node CREATED="1553759045742" ID="ID_1505612463" MODIFIED="1553759051331" TEXT="github">
 <node CREATED="1553759063797" ID="ID_1494450932" LINK="https://github.com/search/advanced" MODIFIED="1553759099864" TEXT="search"/>
-<node CREATED="1553759210665" ID="ID_1398316539" LINK="https://help.github.com/en/articles/searching-code#search-within-a-users-or-organizations-repositories" MODIFIED="1553759240114" TEXT="code search guide"/>
+<node CREATED="1561617914060" ID="ID_1700380473" LINK="https://help.github.com/en/articles/understanding-the-search-syntax" MODIFIED="1561617951974" TEXT="search syntax"/>
+<node CREATED="1553759210665" ID="ID_1398316539" LINK="https://help.github.com/en/articles/searching-code#search-within-a-users-or-organizations-repositories" MODIFIED="1561617965589" TEXT="code search"/>
 </node>
 <node CREATED="1554688595799" ID="ID_703275505" LINK="http://cwe.mitre.org/" MODIFIED="1554688649698" TEXT="weakness"/>
-<node COLOR="#00b439" CREATED="1433136997346" FOLDED="true" ID="ID_364691355" MODIFIED="1554688529976" TEXT="Java">
+<node COLOR="#00b439" CREATED="1433136997346" FOLDED="true" ID="ID_364691355" MODIFIED="1561617636063" TEXT="Java">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1335256192912" FOLDED="true" ID="ID_186029309" LINK="http://en.wikipedia.org/wiki/Category:Java_development_tools" MODIFIED="1529562863791" TEXT="Dev tools">
@@ -259,13 +260,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1542165257516" ID="ID_1469222839" MODIFIED="1542165260696" TEXT="go">
+<node CREATED="1542165257516" FOLDED="true" ID="ID_1469222839" MODIFIED="1561617644294" TEXT="go">
 <node CREATED="1542165267821" ID="ID_724136195" LINK="https://gobyexample.com/" MODIFIED="1542165285205" TEXT="gobyexample"/>
 <node CREATED="1542616413733" ID="ID_358281757" LINK="http://golangcookbook.com/" MODIFIED="1542616462984" TEXT="gocookbook"/>
 <node CREATED="1542165295897" ID="ID_1759307522" LINK="https://www.tutorialspoint.com/go/" MODIFIED="1542165312548" TEXT="gotutorial"/>
 </node>
 <node CREATED="1540195894755" ID="ID_1972485601" LINK="https://www.programcreek.com/" MODIFIED="1542165442247" TEXT="programcreek">
 <node CREATED="1542164775771" ID="ID_1443708526" LINK="https://www.geeksforgeeks.org/" MODIFIED="1542164793775" TEXT="geeksforgeeks"/>
+<node CREATED="1561617753088" ID="ID_1399550395" LINK="https://www.codota.com/code" MODIFIED="1561617783701" TEXT="codota"/>
 </node>
 <node COLOR="#00b439" CREATED="1505703110968" FOLDED="true" ID="ID_1196948541" MODIFIED="1554688546816" TEXT="web">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
