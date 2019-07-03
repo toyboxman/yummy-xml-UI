@@ -15,6 +15,7 @@
     - Account Management
         - [Activate Account](#activate-account)
         - [List All Users](#list-all-users) 
+        - [Add New Users](#add-new-users)
         - [sudo](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig) 
     - System Management
         - [List System Details](#list-system-details)
@@ -429,6 +430,57 @@ ntpd       1181              ntp  rtd       DIR               0,38       294    
 ntpd       1181              ntp  txt       REG               0,38    859304    7010720 /usr/sbin/ntpd
 ntpd       1181              ntp  mem       REG               0,38     88280    7228151 /lib64/libz.so.1.2.8
 ntpd       1181              ntp  mem       REG               0,38     18712    7297500 /lib64/libdl-2.22.so
+```
+
+#### activate account
+下面操作通过chsh来解锁账户，锁定解锁账户还可以通过[passwd-usermod](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614551&idx=4&sn=1fe26891f317be58f23e5c8b345cb935)来实现
+```bash
+# activate an account via chsh
+# "This account is currently not available" error means what is says
+# The account you are trying to “su” to or trying to login with is 
+# currently not available because there is no valid shell set for this user
+su mysql
+# This account is currently not available.
+cat /etc/passwd | grep mysql*
+mysql:x:500:500::/home/mysql:/sbin/nologin
+mysqld:x:501:501::/home/mysqld:/bin/false
+
+chsh -s /bin/bash mysql
+chsh -s /bin/bash mysqld
+cat /etc/passwd | grep mysql
+mysql:x:500:500::/home/mysql:/bin/bash
+```
+
+#### list all users
+```bash
+# list users
+$ awk -F':' '{print $1}' /etc/passwd
+
+# count user number
+$ cat /etc/passwd | wc -l
+
+# The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
+# for user’s account with additional properties related to user password
+$ cat /etc/shadow | wc -l
+
+# Run psql with postgresSQL user
+$ sudo -u postgresSQL /home/vpostgres/9.6/bin/psql -c "select * from user;"
+```
+
+#### add new users
+```bash
+# add new user test by default configuration
+useradd test  
+# change test initial pwd
+passwd test 
+# see which group test user in  
+groups test  
+# see test user details about uid gid etc
+id test  
+# force test user to take root group id
+usermod -g root  test  
+# put test user into root and test groups
+usermod -G root,test  test  
 ```
 
 ### Usual command
@@ -888,36 +940,27 @@ ls >> file
 ls > file 
 ```
 * tty  --show current console id
-#### management&configuration
-* add a new user
+* system setting
 ```bash
-# add new user test by default configuration
-useradd test  
-# change test initial pwd
-passwd test 
-# see which group test user in  
-groups test  
-# see test user details about uid gid etc
-id test  
-# force test user to take root group id
-usermod -g root  test  
-# put test user into root and test groups
-usermod -G root,test  test  
+system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
+                    -services -- open service configuration GUI(just like system services of windows)
+                    -samba   -- open samba service configuration GUI
+                    -httpd     -- open apache service configuration GUI
+                    -packages -- open installed packages GUI(just like add/remove component of windows)
+                    -users     -- open user&group configuration GUI
+                    -lvm -- open Logical Volume Manager GUI
+                    -date       -- open date&time configuration GUI
+                    -display  -- open monitor configuration GUI
+                    -keyboard -- open keyboard configuration GUI
+                    -authentication -- open authentication configuration GUI
+                    -kdump -- open kernel dump configuration GUI
+                    -language -- open system language configuration GUI
+                    -printer -- open printer configuration GUI
 ```
-#### list all users
+* GNOME display manager
 ```bash
-# list users
-$ awk -F':' '{print $1}' /etc/passwd
-
-# count user number
-$ cat /etc/passwd | wc -l
-
-# The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
-# for user’s account with additional properties related to user password
-$ cat /etc/shadow | wc -l
-
-# Run psql with postgresSQL user
-$ sudo -u postgresSQL /home/vpostgres/9.6/bin/psql -c "select * from user;"
+# note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart'
+gdm 
 ```
 
 #### chmod
@@ -944,47 +987,6 @@ chgrp -hR root folder/
 chsh -s /bin/bash 
 # which is current default shell
 which sh 
-```
-
-#### activate account
-```bash
-# activate an account via chsh
-# "This account is currently not available" error means what is says
-# The account you are trying to “su” to or trying to login with is 
-# currently not available because there is no valid shell set for this user
-su mysql
-# This account is currently not available.
-cat /etc/passwd | grep mysql*
-mysql:x:500:500::/home/mysql:/sbin/nologin
-mysqld:x:501:501::/home/mysqld:/bin/false
-
-chsh -s /bin/bash mysql
-chsh -s /bin/bash mysqld
-cat /etc/passwd | grep mysql
-mysql:x:500:500::/home/mysql:/bin/bash
-```
-
-* system setting
-```bash
-system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
-                    -services -- open service configuration GUI(just like system services of windows)
-                    -samba   -- open samba service configuration GUI
-                    -httpd     -- open apache service configuration GUI
-                    -packages -- open installed packages GUI(just like add/remove component of windows)
-                    -users     -- open user&group configuration GUI
-                    -lvm -- open Logical Volume Manager GUI
-                    -date       -- open date&time configuration GUI
-                    -display  -- open monitor configuration GUI
-                    -keyboard -- open keyboard configuration GUI
-                    -authentication -- open authentication configuration GUI
-                    -kdump -- open kernel dump configuration GUI
-                    -language -- open system language configuration GUI
-                    -printer -- open printer configuration GUI
-```
-* GNOME display manager
-```bash
-# note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart'
-gdm 
 ```
 
 ---

@@ -95,6 +95,22 @@ mvn dependency:tree -Dincludes=:spring*
 mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compile
 ```
 
+### digest
+德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
+
+冯友兰说，“哲学，特别是形而上学，对我们增进对事实的知识并无用处，但是它为我们提高我们的心智，则是必不可少的。”冯友兰认为，人和其他动物的不同之处在于，动物是没有自知力和反思力，而人对于自己的行为有一种觉解，这种觉解对他正在做的事情产生了意义，这些意义最终形成的整体，构成他的人生境界。
+
+西方的斯多葛学派与冯友兰的观点类似，在他们看来，哲学可以带来对于人生的慰藉。马克·奥勒留说：“人所执着的是什么呢？啊，除哲学别无他物。唯哲学可以保持我心中的神性，使我们免受伤害与屈辱，使我们超然于苦乐之上。使我们不致装聋卖傻或矫情掩饰，使我们无需仰人鼻息，使人驱使。何止于此，哲学使我们的心灵虽遭逆顺而安之若素。”
+
+庄子说的“知其已知者”在一个很基本的意义上，哲学就是在干这个事。维特根斯坦也说过几乎和庄子一模一样的话：科学是在不断地了解未知的世界，而哲学一直是在收集回忆。
+
+### Kubernetes
+root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
+kubectl get ds -n kube-system
+
+### algorithm
+[PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
+
 ### python
 
 ### replacement
