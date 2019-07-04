@@ -79,6 +79,8 @@ $ docker run --name jdk-dev -it java
 $ docker run -d -it golang
 # run image as container with mapping port 2181 to host's port 8081
 $ docker run -p8081:2181 -it solo_zk  
+# 多端口映射和udp类型映射
+$ docker run -d -p 5775:5775/udp -p 16686:16686 jaegertracing/all-in-one:latest
 # 将container中文件内容导出本地，执行完成后kill container
 # -rm parameter means kill container after command closes
 $ docker run -i --rm postgres cat /usr/share/postgresql/postgresql.conf.sample > my-postgres.conf

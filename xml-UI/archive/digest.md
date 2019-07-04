@@ -95,6 +95,34 @@ mvn dependency:tree -Dincludes=:spring*
 mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compile
 ```
 
+- running
+```
+mvn package exec:exec
+
+<plugin>
+    <groupId>org.codehaus.mojo</groupId>
+    <artifactId>exec-maven-plugin</artifactId>
+    <version>1.6.0</version>
+    <executions>
+        <execution>
+            <goals>
+                <goal>exec</goal>
+            </goals>
+        </execution>
+    </executions>
+    <configuration>
+        <executable>java</executable>
+        <arguments>
+            <argument>-cp</argument>
+            <argument>target/api-1.0-SNAPSHOT.jar</argument>
+            <argument>-Dorg.eclipse.jetty.util.log.classrg.eclipse.jetty.util.log.StdErrLog</argument>
+            <argument>com.otsample.api.App</argument>
+            <argument>./tracer_config.properties</argument>
+        </arguments>
+    </configuration>
+</plugin>
+```
+
 ### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
 
