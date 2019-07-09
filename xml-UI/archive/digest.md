@@ -97,6 +97,9 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
 
 - running
 ```
+# running two commands
+mvn clean install && mvn -Dassemble package
+
 mvn package exec:exec
 
 <plugin>
@@ -131,6 +134,8 @@ mvn package exec:exec
 西方的斯多葛学派与冯友兰的观点类似，在他们看来，哲学可以带来对于人生的慰藉。马克·奥勒留说：“人所执着的是什么呢？啊，除哲学别无他物。唯哲学可以保持我心中的神性，使我们免受伤害与屈辱，使我们超然于苦乐之上。使我们不致装聋卖傻或矫情掩饰，使我们无需仰人鼻息，使人驱使。何止于此，哲学使我们的心灵虽遭逆顺而安之若素。”
 
 庄子说的“知其已知者”在一个很基本的意义上，哲学就是在干这个事。维特根斯坦也说过几乎和庄子一模一样的话：科学是在不断地了解未知的世界，而哲学一直是在收集回忆。
+
+什么是追求独异？吃饭不只求饱，而要吃得“正确”“健康”；不参加“大众旅游”，而要最“纯正”的“旅行”；工作不应只为稻粱谋，而要意义和乐趣。“成功地实现自我”，这是晚现代文化的生活方式导向，也是新中产追求的目标。然而事实上，基于此的个人幸福却显得虚无缥缈——一方面这取决于变化无常的个人体验，另一方面取决于难以捉摸的文化市场。
 
 ### Kubernetes
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system

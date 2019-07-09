@@ -19,6 +19,7 @@
         - [sudo](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig) 
     - System Management
         - [List System Details](#list-system-details)
+        - [List Kernel Modules](#list-kernel-modules)
         - [Top](#top)
         - [journalctl](#journalctl)
         - [Show Linux Version](#show-linux-version)
@@ -113,9 +114,21 @@ Platform Redhat Enterprise Server
 ---
 
 ### Monitor system information
+
 #### list system details
 ```bash
 $ dmesg | less
+```
+
+#### list kernel modules
+Linux提供一些检查[kernel module](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=1&sn=7159c073e8b89edf4a7920227308e25f)的命令
+```bash
+$ lsmod
+Module                  Size  Used by
+fuse                  106496  3 
+af_packet              45056  0 
+iscsi_ibft             16384  0 
+iscsi_boot_sysfs       20480  1 iscsi_ibft
 ```
 
 #### show Linux version
@@ -299,7 +312,7 @@ $ /sbin/sysctl -w kernel.domainname="example.com"
 ```
 
 #### ulimit
-Ulimit modify shell resource limits. Provides control over the resources available to the shell and processes it creates, on systems that allow such control.
+[Ulimit](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=2&sn=2a52adca9e4d1a4c496bccbbba8bd0ca) modify shell resource limits. Provides control over the resources available to the shell and processes it creates, on systems that allow such control.
 ```bash
 # list all
 $ ulimit -a
