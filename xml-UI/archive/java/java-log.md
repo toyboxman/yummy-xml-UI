@@ -2,7 +2,7 @@
 
 ## Ways to log setting
 
-### 1.config log manually
+### config log manually
 常常使用一些第三方库的时候，无法配置Logger。但又需要依赖日志来跟踪程序，此时可以通过reflect方式来实现
 ```java
 class A {
@@ -27,7 +27,7 @@ private void addLogger(Class res) throws NoSuchFieldException,
         logger.setLevel(Level.ALL);
 }
 ```
-### 2.close all log output
+### close all log output
 有时候log4j也会输出过多日志，可以通过小技巧关闭输出
 ```java
 #disable log4j output
@@ -41,7 +41,7 @@ logger.setLevel(Level.OFF);
 -Dlog4j.configuration=file:C:\Users\me\log4j.xml
 ```
 
-### 3.filter output
+### filter output
 有时候希望自己控制console输出，可以实现System类的outputsteam
 ```java
 #filter output including 'springframework'
@@ -61,4 +61,43 @@ static class ConsoleOutputStream extends PrintStream {
 }
 
 System.setOut(new ConsoleOutputStream(System.out));
+```
+
+### config slf4j
+想使用slf4j需要在工程文件加依赖库，或者在classpath中加入lib
+```xml
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>1.7.5</version>
+</dependency>
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-log4j12</artifactId>
+    <version>1.7.5</version>
+</dependency>
+```
+如果使用log4j准备一个配置文件
+```
+log4j.rootLogger=debug, stdout, R
+
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+
+# Pattern to output the caller's file name and line number.
+log4j.appender.stdout.layout.ConversionPattern=%5p [%t] (%F:%L) - %m%n
+
+log4j.appender.R=org.apache.log4j.RollingFileAppender
+log4j.appender.R.File=example.log
+
+log4j.appender.R.MaxFileSize=100KB
+# Keep one backup file
+log4j.appender.R.MaxBackupIndex=1
+
+log4j.appender.R.layout=org.apache.log4j.PatternLayout
+log4j.appender.R.layout.ConversionPattern=%p %t %c - %m%n
+```
+启动应用时候加上参数
+```
+-Dlog4j.debug=true -Dlog4j.configuration=file:///home/king/source/github/java-opentracing-walkthrough/microdonuts/log4j.properties
 ```
