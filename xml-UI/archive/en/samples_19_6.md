@@ -177,4 +177,3 @@ in new companies to create equity value,”“But these stocks have consistently `
 “If Gou uses the `businessman mind-set` practice in politics,” “he may bring changes to `cross-strait` 
 relations and the U.S.-China-Taiwan `trilateral relationship`, and bring some new ideas.”
 “如果他用一个商人思维来从事政治的话，可能会给两岸关系与涉及到台湾的大三角的关系，就是中美和台湾之间的关系，带来一种新的思路。”
-

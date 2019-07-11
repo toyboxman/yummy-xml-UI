@@ -50,3 +50,40 @@ backs off, as it appears he is doing, it will `dramatically undercut` our abilit
 Even if they try to `thread the needle` here on how they implement whatever Trump has decided, his message 
 alone seriously undercuts the efforts put in to try and persuade our allies to join us
 即使他们试图在如何执行特朗普已经决定的事情上尽力而为，单是他释放的这个信息本身就严重削弱了为说服盟友加入到我们的行列所做的努力
+
+The son of a former South Korean foreign minister who `fled to` North Korea in the 1980s also `defected to` 
+the North last week, according to the North’s state-run news media.
+据朝鲜官方新闻媒体报道，上世纪80年代叛逃至朝鲜的一名韩国前外长的儿子，上周也叛逃到了朝鲜
+
+Days of `turbulent` street protests against an `incinerator project` in Wuhan, south-central China’s largest 
+city, have `prompted the local government to assure` residents it has no plans to build the facility any 
+time soon.
+在中国中南部最大城市武汉连续几天爆发反对垃圾焚烧厂项目的街头抗议活动之后，当地政府被迫向居民保证，没有马上修建该设施的计划。
+
+The people’s government of the district fully guarantees the `participation rights and supervision rights of 
+the masses`,Public security organizations will `resolutely crack down on` illegal criminal acts such as `malicious incitement and provocation`.
+区人民政府充分保障广大群众的参与权和监督权，对恶意煽动、挑唆串联等违法犯罪行为，公安机关将坚决依法打击
+
+Local officials acknowledge `being caught off guard by the public backlash`
+当地官员承认，公众的反应让他们措手不及
+
+On Friday evening, a street market several blocks away had been allowed to reopen. But `steel shutters` were 
+down at `storefronts` at the hub of protests, a `gritty neighborhood of older concrete walk-up buildings`
+周五晚上，位于几个街区以外的一个街市被允许重新开业。但抗议活动中心地带的店面仍拉着钢铁卷帘门，这是一个有不少
+混凝土无电梯建筑的老旧社区
+
+Many plainclothes officers were evident
+这里显然有许多便衣警察
+
+The local government tried to reassure them by announcing that it was putting `thicker plastic film` over 
+the waste and installing an `air purification system`.
+当地政府试图安抚居民，政府宣布，将在垃圾填埋场上覆盖一层更厚的塑料薄膜，并将安装一个空气净化系统。
+
+Street protests were `set off` by noisy construction work near the landfill that apparently led some 
+residents to believe that work on the incinerator had begun
+街头抗议是被垃圾填埋场附近建筑施工的噪音引发的，这显然让一些居民认为，焚烧厂已开工建设
+
+That did not `mollify` protesters
+这并未能安抚抗议者
+
+

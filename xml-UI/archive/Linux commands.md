@@ -130,6 +130,20 @@ af_packet              45056  0
 iscsi_ibft             16384  0 
 iscsi_boot_sysfs       20480  1 iscsi_ibft
 ```
+[ldd命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614629&idx=1&sn=f51ea2e0e705ce633242414a40457e92)可以检查任何程序文件使用的共享库(so或dll)。LD_PRELOAD 环境变量是在进程启动时加载共享库的最简单且最受欢迎的方法，可以将此环境变量配置到共享库的路径，以便在加载其他共享对象之前加载该共享库。
+```bash
+$ export LD_PRELOAD=/home/showme.so
+$ ldd /usr/bin/ls
+        linux-vdso.so.1 (0x00007ffe75d87000)
+        /home/showme.so (0x00007f1e6b65f000)     <== there it is
+        libselinux.so.1 => /lib64/libselinux.so.1 (0x00007fc399591000)
+        libcap.so.2 => /lib64/libcap.so.2 (0x00007fc39938c000)
+        libc.so.6 => /lib64/libc.so.6 (0x00007fc398fe7000)
+        libpcre.so.1 => /usr/lib64/libpcre.so.1 (0x00007fc398d78000)
+        libdl.so.2 => /lib64/libdl.so.2 (0x00007fc398b74000)
+        /lib64/ld-linux-x86-64.so.2 (0x00007fc3997b7000)
+        libpthread.so.0 => /lib64/libpthread.so.0 (0x00007fc398957000)
+```
 
 #### show Linux version
 ```bash
