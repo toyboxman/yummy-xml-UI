@@ -1767,7 +1767,7 @@ iptables -A INPUT -i lo -j ACCEPT
 # Drop意味chain中没有匹配规则, 则禁止traffic
 iptables -P INPUT DROP
 
-# 保存iptables修改
+# 修改过的规则如果没保存，会在重启iptables后失效
 service iptables save 
 service iptables status  
 /etc/init.d/iptables status
@@ -1880,13 +1880,30 @@ tcpdump -D
 # capture packet from interface p1
 tcpdump -vvv -i p1    
 # listen src&dest host packet, -A (ascii)  -vvv (the most detailed verbose output)
-tcpdump -A -vvv -n host hostname    
-# dump record into capture.cap file, using wireshark to watch text content
+tcpdump -A -vvv -n host hostname  
+  
+# dump record into capture.cap file, 可以通过wireshark portable版本来查看
 tcpdump -v -w capture.cap     
+
 # read pcap file
-tcpdump -tttt -r data.pcap        
-# listen eth0 , listen all interfaces
-tcpdump -i eth0  tcpdump -i any  
+$ tcpdump -tttt -r capture.cap
+2019-07-11 06:43:54.086105 IP vm11-dhcp.56980 > 04-dhcp117.6831: UDP, length 3
+$ tcpdump -tttt -nnr capture.cap 
+2019-07-11 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
+$ tcpdump -qns 0 -A -r capture.cap
+06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
+E...VV@.@..t
+.Hy
+u.u......b....
+$ tcpdump -qns 0 -X -r capture.cap
+06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
+        0x0000:  4500 001f 5656 4000 4011 8274 0aa1 4879  E...VV@.@..t..Hy
+        0x0010:  0a75 0475 de94 1aaf 000b 6220 0a17 0c    .u.u......b....
+    
+# listen eth0
+tcpdump -i eth0
+# listen all interfaces
+tcpdump -i any  
 # listen dest/src/all ipaddress
 tcpdump -n dst net 192.168.1.0/24  
 tcpdump -n src net 192.168.1.0/24  
