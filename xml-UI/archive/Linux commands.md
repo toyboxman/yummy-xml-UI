@@ -1749,12 +1749,23 @@ sudo iptables -D INPUT 3
 # --dport 表示规则目标端口
 # --jump/-j <target>, target are [ACCEPT/DROP/REJECT/LOG/CLASSIFY/DNAT...]
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT 
+
 # 把8081端口规则添加INPUT表尾
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
+
+# 在一条规则中允许多个端口
+# -m, --match multiport --dports
+iptables -A OUTPUT -p udp -m multiport --dports 5775,6831,6832 -j ACCEPT
 
 # Allow local-only connections
 # --in-interface/-i  network interface name
 iptables -A INPUT -i lo -j ACCEPT
+
+# 设定chain的默认policy
+# -P, --policy 指定chain的default policy为DROP/ACCEPT
+# Accept意味chain中没有匹配规则, 则允许traffic
+# Drop意味chain中没有匹配规则, 则禁止traffic
+iptables -P INPUT DROP
 
 # 保存iptables修改
 service iptables save 
@@ -1804,6 +1815,7 @@ iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
 ssh root@10.192.120.124
 ssh: connect to host 10.192.120.124 port 22: Connection refused
 # 按设定前缀搜寻日志
+# dpt = destination port
 grep -r 'XXXXX:' /var/log
 /var/log/syslog: ... kernel - - - [771409.900044] XXXXX: 
 IN=eth0 
@@ -1839,6 +1851,13 @@ Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
 # -w 设定连接超时5秒
 nc -zv -w 5 10.192.120.124 1235
 nc: connect to 10.192.120.124 port 1235 (tcp) timed out: Operation now in progress
+
+# -u 测试udp协议
+nc -uzv 10.117.4.117 5775
+Connection to 10.117.4.117 5775 port [udp/*] succeeded!
+
+# 测试路径中加代理
+nc -x10.2.3.4:8080 -Xconnect -Puser host.example.com 42
 ```
 
 #### ping/arping
@@ -1858,7 +1877,7 @@ cat /proc/net/arp
 ```bash
 # show all interfaces
 tcpdump -D  
-# capture packet from port p1
+# capture packet from interface p1
 tcpdump -vvv -i p1    
 # listen src&dest host packet, -A (ascii)  -vvv (the most detailed verbose output)
 tcpdump -A -vvv -n host hostname    
@@ -1881,6 +1900,9 @@ tcpdump -n net 192.168.1.0/24
 # host 192.168.1.1: Only capture packets coming to or from 192.168.1.1.
 # and tcp port http: Only capture HTTP packets.
 tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
+
+# 捕获与10.117.4.117往来udp报文
+tcpdump -i eth0 host 10.117.4.117 and udp -w capture.cap
 ```
 #### nmap
 ```bash

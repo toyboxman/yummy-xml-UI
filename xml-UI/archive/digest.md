@@ -163,6 +163,19 @@ curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POS
 ```
 Replace All : '\r\n'  --> '  \\\r\n'
 
+### java
+try (DatagramSocket datagramSocket = new DatagramSocket()) {
+    byte[] buffer = {10, 23, 12};
+    byte[] IP = {10, 117, 4, 117};
+    InetAddress address = InetAddress.getByAddress(IP);
+    DatagramPacket packet = new DatagramPacket(
+        buffer, buffer.length, address, 6831
+    );
+    datagramSocket.send(packet);
+} catch (IOException e) {
+    e.printStackTrace();
+}
+
 ### go
 
 ### interview
