@@ -86,4 +86,50 @@ residents to believe that work on the incinerator had begun
 That did not `mollify` protesters
 这并未能安抚抗议者
 
+The United States has `tentatively` approved the sale of $2 billion in `military hardware` to Taiwan, 
+`demonstrating support` for its unofficial ally in a move likely to `exacerbate deteriorating ties` between Washington and Beijing.
+美国初步批准向台湾出售价值20亿美元的军事装备，显示了对自己非官方盟友的支持，此举可能会加剧华盛顿与北京之间不断恶化的关系。
+
+The first `notification` included 108 M1A2T Abrams tanks, as well as `Hercules armored vehicles` and heavy 
+equipment transporters. The second included more than $220 million in `Stinger antiaircraft missiles`.
+第一份通报包括108辆M1A2T艾布拉姆斯坦克，以及大力神装甲车和重型装备运输车。第二份包括价值逾2.2亿美元的“毒刺”防空导弹。
+
+These tanks and missiles will provide the Taiwan army with a modern capability to `deter and complicate` the 
+operational planning of the People’s Liberation Army forces that `coerce and threaten` Taiwan, They will also 
+offer new opportunities to engage in cooperation with the United States in both the deployment and operations phases.
+这些坦克和导弹将为台湾军队提供现代化的能力，从而遏制和打乱解放军强迫和威胁台湾的作战计划，它们还将提供在部署和行动阶段与美国合作的新机会
+
+The American government continues to take concrete actions to `fulfill its commitments` under the Taiwan 
+Relations Act and the Six Assurances, assisting Taiwan in strengthening its defensive capabilities,
+We express our `deepest gratitude`.
+美国政府持续以具体行动履行对台湾关系法与六项保证的承诺，协助台湾强化自我防卫力量，表达由衷感谢。
+
+Officials in Kyrgyzstan knew they could `no longer put off the decision`. An `aging` plant that provided 
+`nearly all` the heat and electricity for the country’s capital was `on its last legs`.
+吉尔吉斯斯坦的官员知道，这件事必须做个决定了。负责该国首都几乎全部供暖和供电的一座老厂，已经坚持不了多久。
+
+Despite the growing ties, however, a `deep-seated` rivalry remains between the two former `adversaries`, one that this case exposes.
+然而，通过本文提到的案例可以看到，即便关系往来不断加强，这两个曾经敌对国家之间仍然存在深层次的竞争。
+
+The statement `offered a rare insider’s acknowledgment` that China, with the world’s largest `foreign 
+exchange reserves`, can `tilt the business playing field` abroad to serve its interests 
+`no matter what` local residents think or rivals offer.
+这份声明罕见地从一个内部人士的角度确认，拥有世界上最大外汇储备的中国可以出于自己的利益左右海外商业竞争，无视当地居民的想法或竞争对手的报价
+
+The whole project `smelled bad` from the start, but if `there had not been` an accident, nobody would have noticed
+整个项目从一开始就有猫腻，但如果不是出了事故，没有人会注意到
+
+The bank’s loans to Kyrgyzstan, just $9 million in 2008, have `ballooned` to more than $1.7 billion
+该银行在2008年向吉尔吉斯斯坦提供的贷款只有900万美元，现在已经增长到17亿美元以上
+
+this is the final position of the Chinese side
+这是中方的最终立场
+
+Construction started `shortly afterward`.
+之后没多久，施工开始了。
+
+“It was `obscene`,” he said. “We were all in shock.”
+“这太卑鄙了，”他说，“我们都很震惊。”
+
+
 
