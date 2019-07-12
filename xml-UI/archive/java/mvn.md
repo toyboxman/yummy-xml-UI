@@ -62,7 +62,7 @@ mvn dependency:tree -Dincludes=:spring*
     ```
     # -v Prints all class-level dependencies
     # -P -profile Shows profile or the file containing a package
-    /usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/bin/jdeps -P target/nsx-sha-1.0.jar
+    /usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/bin/jdeps -P target/sha-1.0.jar
     ```
 
 - compile
@@ -72,7 +72,7 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
 ```
 
 - package
-`mvn package`默认只把当前工程文件打包成jar文件，也可以选择把依赖关系一起打包[jar-with-dependencies](http://maven.apache.org/plugins/maven-assembly-plugin/usage.html)
+`mvn package`默认只把当前工程文件打包成jar文件target/sha-1.0.jar，也可以选择把依赖关系一起打包[jar-with-dependencies](http://maven.apache.org/plugins/maven-assembly-plugin/usage.html), 打包一个全集jar文件target/sha-1.0-jar-with-dependencies.jar
 ```
 <plugin>
     <artifactId>maven-assembly-plugin</artifactId>
