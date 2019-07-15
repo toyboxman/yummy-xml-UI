@@ -261,6 +261,7 @@ ls > /dev/null 1>&2
 通过内核来产生随机数
 
 #### stat/getfacl/setfacl
+通过[***stat***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614362&idx=1&sn=9159b08467717eab2520c4ff73a9d5c1)命令可以获取文件包括权限在内的完整信息
 ```bash
 # display the maximum length of a filename
 # Namelen: is the maximum number of characters permitted in 
