@@ -60,7 +60,7 @@ mvn -X -DskipTests package
     ```
     `mvn dependency:copy-dependencies`执行按照默认参数，将依赖树上所有包拷贝出来
     
-    *[jdeps](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jdeps.html)
+    * [jdeps](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jdeps.html)
     
     JDK自带工具分析包依赖，基于import语句做分析
     ```
