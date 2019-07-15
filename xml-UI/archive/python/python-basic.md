@@ -464,7 +464,7 @@ Python 2.7.13
 $ python3 -V
 Python 3.4.6
 ```
-- **[export  LD_LIBRARY_PATH env variable]**
+- **export  LD_LIBRARY_PATH env variable**
 ```
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64
 ```
@@ -484,6 +484,10 @@ $ python -m unittest
 ```
 - **[run Tox test](https://www.oschina.net/translate/open-sourcing-a-python-project-the-right-way?print)**
 
+- **[Pipx](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=3&sn=0a42b3632a73644a1a9c50e8e09618d0)**
+
+在隔离环境中安装和运行 Python 应用
+
 - **list installed packages**
 ```python
 pip -V
@@ -499,4 +503,4 @@ $ pip list
 # upgrade pip installed packages
 $ sudo pip install [package_name] -U
 $ sudo pip install [package_name] --upgrade
-```python
+```
