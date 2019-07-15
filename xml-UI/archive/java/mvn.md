@@ -22,6 +22,7 @@ mvn -X -DskipTests package
 
 - dependencies
     * show dependencies
+    
     展示pom文件中定义的依赖树的完整关系
     ```
     mvn dependency:tree
@@ -32,6 +33,7 @@ mvn -X -DskipTests package
     mvn dependency:tree -Dincludes=:spring*
     ```
     * [copy dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-project-dependencies.html)
+    
     `mvn -X -DskipTests clean package`在package stage，会将依赖包copy到`target/dependency`目录
     ```
     <plugin>
@@ -59,6 +61,7 @@ mvn -X -DskipTests package
     `mvn dependency:copy-dependencies`执行按照默认参数，将依赖树上所有包拷贝出来
     
     *[jdeps](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jdeps.html)
+    
     JDK自带工具分析包依赖，基于import语句做分析
     ```
     # -v Prints all class-level dependencies
@@ -73,6 +76,7 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
 ```
 
 - package
+
 `mvn package`默认只把当前工程文件打包成jar文件target/sha-1.0.jar，也可以选择把依赖关系一起打包[jar-with-dependencies](http://maven.apache.org/plugins/maven-assembly-plugin/usage.html), 打包一个全集jar文件target/sha-1.0-jar-with-dependencies.jar
 ```
 <plugin>
@@ -98,6 +102,7 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
 ```
 
 - running
+
 运行多条mvn命令
 ```
 mvn clean install && mvn -Dassemble package
