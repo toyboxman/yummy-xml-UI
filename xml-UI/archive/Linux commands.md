@@ -20,6 +20,7 @@
     - System Management
         - [List System Details](#list-system-details)
         - [List Kernel Modules](#list-kernel-modules)
+        - [List Services Port](#list-services-port)
         - [Top](#top)
         - [journalctl](#journalctl)
         - [Show Linux Version](#show-linux-version)
