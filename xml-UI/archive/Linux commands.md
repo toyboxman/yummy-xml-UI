@@ -88,6 +88,7 @@
     - [Fold](#fold)
     - [Head/Tail](#headtail)
     - [Hd/Od](#hdod)
+    - [Markdown/pandoc](#pandoc)
     - [JSON/jq](#jq)
     - [Read](#read)
     - [Redirect Symbol](#redirect-symbol)   
@@ -620,6 +621,12 @@ $ cp -r  /root/folder/folder1/folder11 /root/folder/folder2
 
 # dest /root/folder/folder2/root/folder/folder1/folder11
 $ cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
+```
+如果只想复制全部或部分文本内容，而不是文件可以使用[***xclip***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=2&sn=83c9441c9b570038ea8f8e75a89a3cb6)
+```bash
+#复制logfile.logw文件最后 30 行
+# -sel clip 选项可确保内容复制到系统剪贴板
+$ tail -n 30 logfile.log | xclip -sel clip
 ```
 
 #### scp
@@ -1556,6 +1563,12 @@ $ cat name.json | jq '.[0].name'
 # 整形id进行加法计算
 $ cat name.json | jq '.[0].id + 10'
 11
+```
+
+#### pandoc
+使用 Pandoc 将 Markdown 格式的文件转换为 HTML
+```bash
+$ pandoc -t html file.md
 ```
 
 #### script
