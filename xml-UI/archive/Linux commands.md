@@ -663,7 +663,7 @@ pom.xml: XML document text
 ```
 
 #### checksum
-利用[***cksum/diff/fslint/rdfind***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614382&idx=3&sn=17456b335c1c8350f6b8a43307cfdb5b)这些命令可以帮助找出系统中一些重复的文件，比如内容完全相同
+利用[***cksum/md5sum/diff/fslint/rdfind***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614382&idx=3&sn=17456b335c1c8350f6b8a43307cfdb5b)这些命令可以帮助找出系统中一些重复的文件，比如内容完全相同
 ```bash
 # calculate file sum using CRC32
 $ cksum pom.xml 
