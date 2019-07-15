@@ -16,6 +16,7 @@
 ### Kubernetes
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
 kubectl get ds -n kube-system
+[≈‰÷√ Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
 
 ### algorithm
 [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)

@@ -361,6 +361,19 @@ $ ulimit -n
 65535
 ```
 
+#### list services port
+可以通过[***getent***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614586&idx=4&sn=1355e222ddbbfc52663ffe0585d610a9)或grep命令来实现
+```bash
+$ getent services http ssh
+http                  80/tcp
+ssh                   22/tcp
+
+$ grep ssh /etc/services 
+ssh                22/tcp       # The Secure Shell (SSH) Protocol  [RFC4251]
+ssh                22/udp       # The Secure Shell (SSH) Protocol  [RFC4251]
+ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
+```
+
 #### systemctl 
 Control the systemd system and service manager
 ```bash
