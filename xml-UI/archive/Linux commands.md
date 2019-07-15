@@ -108,6 +108,7 @@
     - [Gdb](#gdb)
     - [Objdump](#objdump)
     - [Size](#size)
+    - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
 - [Image Operation](#vm-image-operation)
 ---
 
@@ -313,7 +314,7 @@ for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
 ```
 
 #### sysctl
-sysctl  is  used  to modify kernel parameters at runtime. The parameters available are those listed under /proc/sys/, sysctl both reads and writes sysctl data
+sysctl is used to modify kernel parameters at runtime. The parameters available are those listed under /proc/sys/, sysctl both reads and writes sysctl data
 ```bash
 # list kernel parameters
 $ /sbin/sysctl -a
@@ -1135,11 +1136,11 @@ ps -ef | grep 'sshd' | wc -l
 ####  expand/unexpand
 [expand](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614435&idx=3&sn=9155d9cc9f0e401992afe31cf3c096a7) - convert tabs to spaces
 ```bash
-#  默认TAB 的宽度8
+# 默认TAB 的宽度8
 expand tech.txt
 # 设置每个 TAB 的宽度
 expand -t=5 tech.txt
-#  不转换非空白字符后的TAB
+# 不转换非空白字符后的TAB
 expand -i tech.txt
 
 # 仅转换一行开头的空格
@@ -1204,8 +1205,9 @@ echo xxxxxxCONTROL-V CONTROL-U | od -c
 ```
 
 #### sed
-> [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)<br>
-> [sample](http://sed.sourceforge.net/sed1line_zh-CN.html)
+> [中文sample](http://sed.sourceforge.net/sed1line_zh-CN.html)<br>
+> [流编辑器sed详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666544328&idx=1&sn=b83a92ab2f678052ac4c4faa3fb02ee7)<br>
+> [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)
 ```bash
 # s 指令是substitute  g指令是global全局
 # -i 表示在当前文件中 in-place, 无此参数不会实际替换文件,仅测试执行结果 

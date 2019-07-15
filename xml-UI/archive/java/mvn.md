@@ -21,15 +21,16 @@ mvn -X -DskipTests package
 ```
 
 - dependencies
-展示pom文件中定义的依赖树的完整关系
-```
-mvn dependency:tree
+    * show dependencies
+    展示pom文件中定义的依赖树的完整关系
+    ```
+    mvn dependency:tree
 
-# 显示包含org.apache的groupId依赖包
-mvn dependency:tree -Dincludes=org.apache*
-# 显示包含':spring'字符串的artifactId依赖包
-mvn dependency:tree -Dincludes=:spring*
-```
+    # 显示包含org.apache的groupId依赖包
+    mvn dependency:tree -Dincludes=org.apache*
+    # 显示包含':spring'字符串的artifactId依赖包
+    mvn dependency:tree -Dincludes=:spring*
+    ```
     * [copy dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-project-dependencies.html)
     `mvn -X -DskipTests clean package`在package stage，会将依赖包copy到`target/dependency`目录
     ```
