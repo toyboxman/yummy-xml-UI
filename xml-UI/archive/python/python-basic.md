@@ -12,6 +12,7 @@
 	- [file](#s2)
 - [Python CLI](#python-cli)
 - [Python 图像编辑](https://linux.cn/article-10679-1.html)
+- [Python+Scribus做渲染](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=1&sn=9f0a072257f284eab2b2cb993361926b)
 ***
 
 ## Basic Language Concepts
