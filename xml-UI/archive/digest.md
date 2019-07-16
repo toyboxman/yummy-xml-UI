@@ -14,6 +14,15 @@
 + ***Linux***
     - 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
 
++ ***blockchain***
+    - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)
+
++ ***http***
+    - [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)
+    
++ ***microservice***
+    - [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
+
 ### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
 
@@ -26,6 +35,8 @@
 什么是追求独异？吃饭不只求饱，而要吃得“正确”“健康”；不参加“大众旅游”，而要最“纯正”的“旅行”；工作不应只为稻粱谋，而要意义和乐趣。“成功地实现自我”，这是晚现代文化的生活方式导向，也是新中产追求的目标。然而事实上，基于此的个人幸福却显得虚无缥缈——一方面这取决于变化无常的个人体验，另一方面取决于难以捉摸的文化市场。
 
 在《论法的精神》中，孟德斯鸠宣称权力显示出一种自我膨胀并滥用自身特权的自然倾向，它不会停止，直到在它的外部找到一种限制。这一教训在任何时间和任何地点都适用。如今，不停膨胀并不断自主化的权力是经济权力、金融权力。
+
+[堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 
 ### ansible
 Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
