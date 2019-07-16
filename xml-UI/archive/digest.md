@@ -1,18 +1,9 @@
-[TOC]
-
-# Section 1
-## Sub-section 1
-# Section 2
-### 多媒体处理
-#### [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
-### [system monitor](system-monitor/monitor.md)
-
 + 多媒体处理
-    + [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
+    - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
 
-* [system monitor](system-monitor/monitor.md)
++ [system monitor](system-monitor/monitor.md)
 
-* [maven](java/mvn.md)
++ [maven](java/mvn.md)
 
 ### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
