@@ -1,9 +1,16 @@
-+ ****多媒体处理****
++ ***多媒体处理***
     - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
 
-+ [system monitor](system-monitor/monitor.md)
++ [***system monitor***](system-monitor/monitor.md)
 
-+ [maven](java/mvn.md)
++ ***Java***
+    - [maven](java/mvn.md)
+
++ ***database***
+    - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
+    - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
+    - [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
+
 
 ### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
@@ -62,13 +69,6 @@ try (DatagramSocket datagramSocket = new DatagramSocket()) {
 } catch (IOException e) {
     e.printStackTrace();
 }
-
-### database
-[实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
-
-[MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
-
-[2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)
 
 ### Geekbench 4
 [测试不同公有云服务](https://www.ithome.com/0/431/894.htm)
