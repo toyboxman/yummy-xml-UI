@@ -454,11 +454,13 @@ $ systemctl disable mysql
 ```
 
 #### turn off console color
+通过管理[环境变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614303&idx=1&sn=ae14179470cf3d2253566e6571b0dc49)可以对console进行配置
 ```bash
 ls --color=never
 
-# permanently turn-off via adding alias ls='ls --color=never'  in .bashrc
+# permanently turn-off via adding " alias ls='ls --color=never' " in .bashrc
 ```
+通过alias-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664612965&idx=3&sn=e970df20ee0ca36d14deb3dad5232924),  [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614310&idx=2&sn=ed24581eeef6369457250ef599dca913)可以自己构建的命令
 
 #### hwinfo
 ```bash
