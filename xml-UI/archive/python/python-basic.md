@@ -13,6 +13,7 @@
 - [Python CLI](#python-cli)
 - [Python 图像编辑](https://linux.cn/article-10679-1.html)
 - [Python+Scribus做渲染](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=1&sn=9f0a072257f284eab2b2cb993361926b)
+- Python实现Game-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664609878&idx=2&sn=b968cada284149de49b672967715c18c),  [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614166&idx=1&sn=e6e5f6db8e49a48dbdf845dfeb4287a7),  [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614188&idx=3&sn=4346b0c0b8c9a2baecbbc0f82550131b),  [**4**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614216&idx=3&sn=cbd92c452bc3a13754d6cde62d1708a1),  [**5**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614234&idx=3&sn=5a9eb0b4e95a2aee08d620dbfd25304a)
 ***
 
 ## Basic Language Concepts
