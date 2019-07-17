@@ -10,6 +10,7 @@
 - [System Processing](#system-processing)	
 	- [thread/kill/sizeof](#s1)
 	- [file](#s2)
+- [Python Snippet-随机数/文件路径/排序/字符串](https://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=2650743777&idx=5&sn=e46f94a69d734bb40bfae4ab3537a4da)
 - [Python CLI](#python-cli)
 - [Python 图像编辑](https://linux.cn/article-10679-1.html)
 - [Python+Scribus做渲染](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=1&sn=9f0a072257f284eab2b2cb993361926b)
