@@ -131,5 +131,35 @@ Construction started `shortly afterward`.
 “It was `obscene`,” he said. “We were all in shock.”
 “这太卑鄙了，”他说，“我们都很震惊。”
 
+The meeting comes at a `fraught momen` in the history of `arms control` between Washington and Moscow
+此次会晤时值华盛顿与莫斯科军控历史上的一个紧张时刻
 
+Instead, Mr. Trump’s administration argues that two-way Russian-American arms agreements `dating to` the 
+Cold War are `antiquated` in a world where China is a rising power, although it remains unclear how committed 
+he really is to any new accord given his administration’s skepticism of arms control.
+相反，特朗普政府认为，在一个中国正在崛起的世界里，可追溯至冷战时期的俄美双向武器协议已经过时，但鉴于他的政府对军控的怀疑，尚不清楚他对新协议到底有多投入。
 
+Those totals include both `strategic warheads` limited by the New Start treaty as well as shorter-range 
+weapons that are not covered and other warheads that are no longer in military service and awaiting `dismantlement`.
+这些数字包括受《新条约》限制的战略弹头，以及未包括在内的短程武器和其他已经退役并等待拆除的弹头
+
+As to the `trilateral negotiations` on arms control, China’s position is `clear-cut`,The `premise and basis` 
+for trilateral arms control negotiations do not exist at all, and China will never participate in them.
+关于所谓的中美俄三边军控谈判问题，中方的态度十分明确，搞这样所谓的三边军控谈判的前提和基础根本不存在，中方也绝不会参加。
+
+it “would be `malpractice`” to renew the treaty unless it were rewritten to cover weapons not currently limited
+除非涵盖目前不受限制的武器，否则续签该条约“将存在弊端”
+
+Trade talks with China have `faltered` in recent months, and Mr. Trump and his aides appear to be `in no hurry` 
+to resolve the dispute, `projecting confidence` that China is suffering more of the harm, if not all of it.
+近几个月来，与中国的贸易谈判一直步履蹒跚，特朗普和助手们似乎并不急于解决争端，这表示他们相信，在贸易战中，中国遭受的损害更大，如果不是全部损害的话。
+
+Mr. Trump’s tariffs are `undeniably` hurting China
+不可否认，特朗普的关税对中国造成了伤害
+
+Certainly it is absolute `folly` to suggest that this is `cost free` for the U.S..
+要说这不会让美国付出代价，那当然是绝对愚蠢的
+
+An order in January encouraged companies to use American `iron, steel, aluminum, cement` and other products 
+to the extent practical, but did not `set any binding target`.
+今年1月的一项命令鼓励企业尽量使用美国的钢铝和水泥等产品，但没有设定任何有约束力的目标
