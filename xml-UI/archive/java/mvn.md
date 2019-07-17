@@ -101,6 +101,30 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
 </plugin>
 ```
 
+使用maven-shade-plugin也可以把all dependencies打包到一个jar文件 -->
+```
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-shade-plugin</artifactId>
+    <version>3.2.1</version>
+    <executions>
+        <execution>
+            <phase>package</phase>
+            <goals>
+                <goal>shade</goal>
+            </goals>
+            <configuration>
+                <transformers>
+                    <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                        <mainClass>gene.moql.TestMain</mainClass>
+                    </transformer>
+                </transformers>
+            </configuration>
+        </execution>
+    </executions>
+</plugin>
+```
+
 - running
 
 运行多条mvn命令
