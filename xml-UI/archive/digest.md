@@ -1,3 +1,7 @@
+https://en.wikipedia.org/wiki/Nslookup
+https://en.wikipedia.org/wiki/Dig_(command)
+https://stackoverflow.com/questions/24182950/how-to-get-hostname-from-ip-linux
+https://unix.stackexchange.com/questions/20784/how-can-i-resolve-a-hostname-to-an-ip-address-in-a-bash-script
 + ***多媒体处理***
     - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
 
