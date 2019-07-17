@@ -3,9 +3,17 @@
 
 + [***System Monitor***](system-monitor/monitor.md)
 
-+ ***Java***
-    - [maven](java/mvn.md)
-    - 变量搜索-[**codelf**](https://unbug.github.io/codelf/),  [介绍](https://zhuanlan.zhihu.com/p/53360901)
++ ***Programming Languages***
+    - ***Java***
+        - [maven](java/mvn.md)
+        - 变量搜索-[**codelf**](https://unbug.github.io/codelf/),  [介绍](https://zhuanlan.zhihu.com/p/53360901)
+        - [protobuf](#protobuf)
+    - ***Scala***
+        - [basic](scala/scala-basic.md)
+        - [collections](scala/scala-collections.md)
+        - [head](scala/scala-head.md)
+    - ***Python***
+        - [basic](python/python-basic.md)
 
 + ***database***
     - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
@@ -24,7 +32,7 @@
 + ***microservice***
     - [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
 
-### digest
+#### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
 
 冯友兰说，“哲学，特别是形而上学，对我们增进对事实的知识并无用处，但是它为我们提高我们的心智，则是必不可少的。”冯友兰认为，人和其他动物的不同之处在于，动物是没有自知力和反思力，而人对于自己的行为有一种觉解，这种觉解对他正在做的事情产生了意义，这些意义最终形成的整体，构成他的人生境界。
@@ -39,22 +47,34 @@
 
 [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 
-### ansible
+#### protobuf
+protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
+因此，需要在.proto定义文件头加上`option java_generic_services = true;`
+
+```
+#!/bin/bash
+
+for file in `find src/main/proto -name "*.proto"`; do
+    protoc --proto_path=src/main/proto --java_out=src/main/java/ $file
+done
+```
+
+#### ansible
 Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
 
-### Kubernetes
+#### Kubernetes
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
 kubectl get ds -n kube-system
 [Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
 [配置 Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
 [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
 
-### algorithm
+#### algorithm
 [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
 
-### python
+#### python
 
-### replacement
+#### replacement
 - notepad++
 
 需要在curl payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
@@ -71,7 +91,7 @@ curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POS
 ```
 Replace All : '\r\n'  --> '  \\\r\n'
 
-### java
+#### java
 try (DatagramSocket datagramSocket = new DatagramSocket()) {
     byte[] buffer = {10, 23, 12};
     byte[] IP = {10, 117, 4, 117};
@@ -84,47 +104,47 @@ try (DatagramSocket datagramSocket = new DatagramSocket()) {
     e.printStackTrace();
 }
 
-### Geekbench 4
+#### Geekbench 4
 [测试不同公有云服务](https://www.ithome.com/0/431/894.htm)
 
-### GraphQL
+#### GraphQL
 [工具和库 ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017395&idx=3&sn=ab0b3c87c20d4cdaad82321764195210)
 
-### NPM
+#### NPM
 [Web开发包注册中心的NPM](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016822&idx=2&sn=d38c1f59ebd04052d95f2136fb950d5c)
 
-### go
+#### go
 
-### interview
+#### interview
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
 
-### hive
+#### hive
 
-### Kubernetes
+#### Kubernetes
 https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads
 
-### 微服务配置中心
+#### 微服务配置中心
 https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/
 Spring Cloud（七）：配置中心（Git 版与动态刷新）
 https://windmt.com/2018/04/19/spring-cloud-7-config-sample/
 
-### hadoop
+#### hadoop
   
-### superset
+#### superset
 https://superset.incubator.apache.org/
 
-### Druid
+#### Druid
 https://en.wikipedia.org/wiki/Druid_(open-source_data_store)
 
-### Flink
+#### Flink
 https://en.wikipedia.org/wiki/Apache_Flink
 
-### junit/mock
+#### junit/mock
 @InjectMocks/@Mock
 code sample:
 [1](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L62)
 
-### spring
+#### spring
 * junit integrates with spring
 * test in spring boot
 https://www.baeldung.com/spring-boot-testing
@@ -578,7 +598,7 @@ Ratpack is built on Java and the Netty event-driven networking engine. The API i
 Apache Druid (incubating)
 Apache Druid (incubating) is a high performance analytics data store for event-driven data.
 
-### griffin
+#### griffin
 Elasticsearch
 102      26701 26682  8 13:14 ?        00:00:16 /docker-java-home/jre/bin/java -Xms2g -Xmx2g -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -XX:+AlwaysPreTouch -server -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -Djdk.io.permissionsUseCanonicalPath=true -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Dlog4j.skipJansi=true -XX:+HeapDumpOnOutOfMemoryError -Des.path.home=/usr/share/elasticsearch -cp /usr/share/elasticsearch/lib/* org.elasticsearch.bootstrap.Elasticsearch
 
