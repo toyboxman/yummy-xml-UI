@@ -237,8 +237,18 @@ Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。
 
 - [null](https://en.wikipedia.org/wiki/Null_device)
 
-常常用来丢弃数据流，有点类似垃圾箱功能。
+/dev/null device是数据容器，常常用来丢弃数据流，有点类似垃圾箱功能, 你可以把所有不想保留的和不想回显的都重定向过去。
 ```bash
+$ echo "hi there" > /dev/null
+$
+# When you read from /dev/null, you get a null string
+$ ls -l messages
+-rw-r--r-- 1 max pubs 25315 Oct 24 10:55 messages
+$ cat /dev/null > messages
+# file size becomes zero
+$ ls -l messages
+-rw-r--r-- 1 max pubs 0 Oct 24 11:02 messages
+
 # redirects stdout to null
 $ ls > /dev/null
 # shortcut for the command above
@@ -1380,18 +1390,16 @@ read -a topic <<< "1 2 3";echo $topic[2]
 
 #### redirect symbol
 * < >      
-The shell recognizes the redirect symbols, does not require that the name 
-of the program appear first on the command line
+shell识别redirect symbols, 并不需要把执行命令写在行首，如下例子
 ```bash
-# 读出 <  读入 >
-# runs cat with standard input coming from the file named aa 
-# and standard output going to the file named bb
+#  < (读出)       > (写入)
+# 运行cat读出文件aa中内容，然后写入到文件bb
 $ >bb <aa cat
 
 # redirect inputs from three files into sypply_orders
 $ cat stationery tape pens > supply_orders
 ```
-* noclobber
+* noclobber    
 Avoids Overwriting Files
 ```bash
 $ touch tmp
@@ -1403,7 +1411,8 @@ bash: tmp: cannot overwrite existing file
 $ set +o noclobber
 $ echo "hi there" > tmp
 ```
-* &#62;&#166;
+* &#62;&#166;      
+用redirect symbol (>|)覆盖noclobber限制
 ```bash
 $ date > tmp2
 $ set -o noclobber
@@ -1411,21 +1420,6 @@ $ date > tmp2
 bash: a: cannot overwrite existing file
 # override noclobber by putting a pipe symbol after the redirect symbol (>|).
 $ date >| tmp2
-```
-* /dev/null    
-The /dev/null device is a data sink, commonly referred to as a bit bucket      
-you can redirect output that you do not want to keep or see to /dev/null and 
-the output will disappear without a trace
-```bash
-$ echo "hi there" > /dev/null
-$
-# When you read from /dev/null, you get a null string
-$ ls -l messages
--rw-r--r-- 1 max pubs 25315 Oct 24 10:55 messages
-$ cat /dev/null > messages
-# file size becomes zero
-$ ls -l messages
--rw-r--r-- 1 max pubs 0 Oct 24 11:02 messages
 ```
 
 #### regular expression
