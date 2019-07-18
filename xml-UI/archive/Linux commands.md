@@ -1292,6 +1292,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 ```
 
 #### awk
+>[awk-loop](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)
 ```bash
 # ×Ö·û´®Æ´½Ó
 root@photon-machine# grep 'netmask' vminfo.txt
