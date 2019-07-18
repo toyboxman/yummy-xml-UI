@@ -180,6 +180,8 @@ $ echo -n | openssl s_client -connect scan.coverity.com:443 \
 [GnuPG/GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)是Symantec's PGP加密套件的免费替代软件，遵循RFC 4880 OpenPGP规范。 Keyservers在公钥加密体系中扮演一个重要角色，因为公钥需要能在全网分布式存储并且公开访问。例如，签名消息的收方需要使用发送方的公钥来验证消息签名的合法性，而加密消息的发送方需要收方公钥来加密发送的消息。Keyservers就成为发布公钥的central repositories。
 
 OpenPGP clients连接到keyservers, 上传导入public keys, 如果原公钥已经不在本地的public key-ring中，例如被更改或撤销，那么公钥也需要被更新。两方交换使用HKP (OpenPGP HTTP Keyserver Protocol) protocol or HKPS for the the TLS secured version。互联网上有很多keyservers，这些server之间会做信息交换，像[MIT](https://pgp.mit.edu/) , [Ubuntu](http://keyserver.ubuntu.com:11371/)
+
+Ubuntu 中删除仓库及其 GPG 密钥[操作介绍](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614691&idx=3&sn=9eb660b669dfddeb4e391e4e6c289f0a)
 ```
 # 全新生成key pair对
 $ gpg --full-generate-key
