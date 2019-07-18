@@ -50,6 +50,7 @@
         - [Tcpdump](#tcpdump)
         - [Dhclient](#dhclient)
         - [Route](#route)
+        - [Show IP/Name Pair In DNS](#nslookup-dig)
 - [Usual Command](#usual-command)
     - [Base64](#base64)
     - [Copy/Mkdir](#cp)
@@ -104,7 +105,7 @@
     - [Unix2dos/Dos2unix](#unix2dosdos2unix)
     - [Wc](#wc)
     - [Xargs](#xargs)
-- [Shell Programming](#shell-programming)
+- [Shell Programming](#shell%20programming.md)
 - [Debug Operation](#debug)
     - [Gdb](#gdb)
     - [Objdump](#objdump)
@@ -1687,80 +1688,8 @@ Shift+Insert   |  粘贴系统剪贴板内容
 
 ---
 
-### Shell programming
-> [programming](https://github.com/toyboxman/yummy-xml-UI/blob/finalWord/xml-UI/archive/shell%20programming.md)<br>
-> [Link](http://www.freeos.com/guides/lsst/)
-* IFS  
-IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
-i. e. how to recognize word boundaries. The default value for IFS consists of whitespace 
-characters (to be precise: space, tab and newline) Now, the shell splits mystring into words as well
-```bash
-#!/usr/bin/sh
-mystring="foo:bar baz rab"
-for word in $mystring; do
-  echo "Word: $word"
-done
-
-Word: foo:bar
-Word: baz
-Word: rab
-```
-But now, it can only treats a colon as the word boundary. because the first character of IFS is special: 
-It is used to delimit words in the output when using the special $* variable (example taken from the 
-Advanced Bash Scripting Guide, where you can also find more information on special 
-variables like that one):
-```bash
-$ bash -c 'set w x y z; IFS=":-;"; echo "$*"'
-w:x:y:z
-
-$ bash -c 'set w x y z; IFS="-:;"; echo "$*"'
-w-x-y-z
-
-$ bash -c 'set w x y z; IFS="+:-;"; echo "$*"'
-w+x+y+z
-```
-* Bash Built-in variables
-    - $1, $2, $3, ... are the positional parameters.
-    - $@ is an array-like construct of all positional parameters, {$1, $2, $3 ...}.
-    - $* is the IFS expansion of all positional parameters, $1 $2 $3 ....
-    - $# is the number of positional parameters.
-    - $- current options set for the shell.
-    - $$ pid of the current shell (not subshell).
-    - $_ most recent parameter (or the abs path of the command to start the current shell immediately after startup).
-    - $IFS is the (input) field separator.
-    - $? is the most recent foreground pipeline exit status.
-    - $! is the PID of the most recent background command.
-    - $0 is the name of the shell or shell script.
-> [Link](https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables)
-```bash
-# test.sh
-#!/bin/sh
-echo '$#' $#
-echo '$@' $@
-echo '$?' $?
-
-> ./test.sh 1 2 3
-$#  3
-$@  1 2 3
-$?  0
-```
-* FOR
-```bash
-# Use "$@" to represent all the arguments in test.sh
-for var in "$@"
-do
-    echo "$var"
-done
-
-sh test.sh 1 2 '3 4'
-1
-2
-3 4
-```
-
----
-
 ### Network Config
+
 #### iptables/firewall
 > [Basic](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
 > [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
@@ -2003,6 +1932,63 @@ $ route add -net 172.19.0.0 netmask 255.255.0.0  dev eth1
 
 # show trace route
 $ traceroute 172.18.0.1
+```
+
+#### nslookup-dig
+[nslookup](https://en.wikipedia.org/wiki/Nslookup)是用来查询DNS保存的域名和IP映射关系的，可用来通过Name和IP互查关系
+```
+$ nslookup 10.0.0.1
+$ nslookup google.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 172.217.160.110
+Name:	google.com
+Address: 2404:6800:4012:1::200e
+```
+[dig](https://en.wikipedia.org/wiki/Dig_(command))也是网络管理命令，来查询DNS信息的
+```
+$ dig unix.stackexchange.com
+; <<>> DiG 9.11.5-P1-1ubuntu2.5-Ubuntu <<>> unix.stackexchange.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28446
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;unix.stackexchange.com.		IN	A
+
+;; ANSWER SECTION:
+unix.stackexchange.com.	280	IN	A	151.101.1.69
+unix.stackexchange.com.	280	IN	A	151.101.193.69
+unix.stackexchange.com.	280	IN	A	151.101.129.69
+unix.stackexchange.com.	280	IN	A	151.101.65.69
+
+;; Query time: 0 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53)
+;; WHEN: Thu Jul 18 13:48:23 CST 2019
+;; MSG SIZE  rcvd: 115
+
+# +short , queries DNS servers directly, does not look at /etc/hosts/NSS/etc
+$ dig +short unix.stackexchange.com
+151.101.1.69
+151.101.193.69
+151.101.129.69
+151.101.65.69
+
+# If dig +short is unavailable, 使用awk过滤ANSWER SECTION部分输出
+# getline function读下一行同时将脚本执行移到文件下一行，因此连续执行getline可以到文件尾
+dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { getline ; print $5; getline ; print $5;}'
+151.101.1.69
+151.101.193.69
+
+# 如果只想输出一个IP, 直接在awk's workflow加入exit命令
+dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { getline ; print $5 ; exit }'
+151.101.1.69
 ```
 
 ---

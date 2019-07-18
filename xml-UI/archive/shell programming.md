@@ -7,15 +7,75 @@
 
 ### *Following content is about shell programming*
 - [bash调试](#shell脚本调试方法)
+- [默认变量](#built-in-variables)
 - [变量赋值](#变量赋值)
 - [括号](#括号-双括号-中括号-双中括号)
 - [数值比较](#数值比较)
+- [IFs](#ifs)
 - [IF](#if-控制流)
 - [LOOP](#loop-控制流)
 - [Logical](#logical-条件)
 - [Examples](#shell-example)
 
+> [Link](http://www.freeos.com/guides/lsst/)
+
 ---
+
+### IFS
+IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
+i. e. how to recognize word boundaries. The default value for IFS consists of whitespace 
+characters (to be precise: space, tab and newline) Now, the shell splits mystring into words as well
+```bash
+#!/usr/bin/sh
+mystring="foo:bar baz rab"
+for word in $mystring; do
+  echo "Word: $word"
+done
+
+Word: foo:bar
+Word: baz
+Word: rab
+```
+But now, it can only treats a colon as the word boundary. because the first character of IFS is special: 
+It is used to delimit words in the output when using the special $* variable (example taken from the 
+Advanced Bash Scripting Guide, where you can also find more information on special 
+variables like that one):
+```bash
+$ bash -c 'set w x y z; IFS=":-;"; echo "$*"'
+w:x:y:z
+
+$ bash -c 'set w x y z; IFS="-:;"; echo "$*"'
+w-x-y-z
+
+$ bash -c 'set w x y z; IFS="+:-;"; echo "$*"'
+w+x+y+z
+```
+
+### Built-in variables
+- $1, $2, $3, ... are the positional parameters.
+- $@ is an array-like construct of all positional parameters, {$1, $2, $3 ...}.
+- $* is the IFS expansion of all positional parameters, $1 $2 $3 ....
+- $# is the number of positional parameters.
+- $- current options set for the shell.
+- $$ pid of the current shell (not subshell).
+- $_ most recent parameter (or the abs path of the command to start the current shell immediately after startup).
+- $IFS is the (input) field separator.
+- $? is the most recent foreground pipeline exit status.
+- $! is the PID of the most recent background command.
+- $0 is the name of the shell or shell script.
+> [Link](https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables)
+```bash
+# test.sh
+#!/bin/sh
+echo '$#' $#
+echo '$@' $@
+echo '$?' $?
+
+> ./test.sh 1 2 3
+$#  3
+$@  1 2 3
+$?  0
+```
 
 ### shell脚本调试方法
 ```bash
@@ -281,6 +341,19 @@ command1 on $OUTPUT
 command2 on $OUTPUT
 commandN
 done
+```
+还可以传入循环参数
+```bash
+# Use "$@" to represent all the arguments in test.sh
+for var in "$@"
+do
+    echo "$var"
+done
+
+sh test.sh 1 2 '3 4'
+1
+2
+3 4
 ```
 
 ### Logical 条件
