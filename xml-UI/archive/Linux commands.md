@@ -1980,8 +1980,19 @@ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { getline ; print $5; g
 151.101.1.69
 151.101.193.69
 
+# 通过loop来连续处理awk's workflow
+$ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {getline; print $5}}'
+$ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { \
+for (i=1;i<=4;i++) { \
+    getline; print $5 \
+}}'
+151.101.193.69
+151.101.129.69
+151.101.65.69
+151.101.1.69
+
 # 如果只想输出一个IP, 直接在awk's workflow加入exit命令
-dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { getline ; print $5 ; exit }'
+$ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {getline; print $5; exit}}'
 151.101.1.69
 ```
 
