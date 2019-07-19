@@ -6,9 +6,13 @@
 + ***Programming Languages***
     - ***Java***
         - [maven](java/mvn.md)
+            - [basic](https://github.com/eugenp/tutorials/tree/master/maven)
         - ±äÁ¿ËÑË÷-[**codelf**](https://unbug.github.io/codelf/),  [½éÉÜ](https://zhuanlan.zhihu.com/p/53360901)
         - [protobuf](#protobuf)
         - [spring](java/spring.md)
+            - [tutorials](https://github.com/eugenp/tutorials)
+            - [spring core](https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/spring-core.html)
+            - [spring junit](https://www.baeldung.com/spring-boot-testing)
     - ***Scala***
         - [basic](scala/scala-basic.md)
         - [collections](scala/scala-collections.md)
@@ -146,14 +150,6 @@ code sample:
 [1](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L62)
 
 #### spring
-* junit integrates with spring
-* test in spring boot
-https://www.baeldung.com/spring-boot-testing
-
-* spring xml schema
-https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/xsd-config.html
-https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/spring-core.html
-
 * @NoRepositoryBean
 public interface CrudRepository
 mock entity probably hit problem running with spring test entity manager
