@@ -298,6 +298,7 @@ print json.dumps([{'name': k, 'value' : v} for k, v in image_meta.items()], inde
 <div id = "t1"></div>
 
 ### json
+Python中可以很轻松地处理JSON数据，进行多种[读写操作](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614724&idx=2&sn=69f5b1c5bbbc159870189440a89cc741)
 ```python
 import json
 # load json string

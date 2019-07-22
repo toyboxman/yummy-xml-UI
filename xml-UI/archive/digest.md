@@ -127,6 +127,8 @@ https://www.journaldev.com/2366/core-java-interview-questions-and-answers
 
 #### Kubernetes
 https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads
+[Kubernetes配置的工具](
+https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
 
 #### 微服务配置中心
 https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/
