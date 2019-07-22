@@ -14,7 +14,7 @@
             - [spring core](https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/spring-core.html)
             - [spring junit](https://www.baeldung.com/spring-boot-testing)
         - snippet
-            - [tcp/udp](#java/java-udp-tcp.md)
+            - [tcp/udp](java/java-udp-tcp.md)
     - ***Scala***
         - [basic](scala/scala-basic.md)
         - [collections](scala/scala-collections.md)
@@ -38,19 +38,19 @@
     - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 
 + ***blockchain***
-    - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)
+    - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
 
-+ ***[notepad++]***(#notepad++)
++ [***notepad++***](#notepad++)
 
 + ***http***
-    - [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)
+    - [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)   
 
 + ***bench test***
     - [Geekbench测试不同公有云服务](https://www.ithome.com/0/431/894.htm)    
 
 + ***microservice***
     - [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
-    - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)
+    - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)   
     -[Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
 
 + ***algorithm***
@@ -84,8 +84,10 @@ done
 ```
 
 #### kubernetes
+```
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
 kubectl get ds -n kube-system
+```
 
 #### notepad++
 需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
