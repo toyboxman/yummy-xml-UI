@@ -13,6 +13,8 @@
             - [tutorials](https://github.com/eugenp/tutorials)
             - [spring core](https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/spring-core.html)
             - [spring junit](https://www.baeldung.com/spring-boot-testing)
+        - snippet
+            - [tcp/udp](#java/java-udp-tcp.md)
     - ***Scala***
         - [basic](scala/scala-basic.md)
         - [collections](scala/scala-collections.md)
@@ -27,15 +29,32 @@
 
 + ***Linux***
     - 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
+    - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
+
++ [***Kubernetes***](#kubernetes)
+    - [Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
+    - [配置 Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
+    - [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
+    - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)
 
++ ***[notepad++]***(#notepad++)
+
 + ***http***
     - [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)
-    
+
++ ***bench test***
+    - [Geekbench测试不同公有云服务](https://www.ithome.com/0/431/894.htm)    
+
 + ***microservice***
     - [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
+    - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)
+    -[Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
+
++ ***algorithm***
+    - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
 
 #### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
@@ -64,25 +83,12 @@ for file in `find src/main/proto -name "*.proto"`; do
 done
 ```
 
-#### ansible
-Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
-
-#### Kubernetes
+#### kubernetes
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
 kubectl get ds -n kube-system
-[Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
-[配置 Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
-[k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
 
-#### algorithm
-[PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
-
-#### python
-
-#### replacement
-- notepad++
-
-需要在curl payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
+#### notepad++
+需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
 ```
 curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
 {
@@ -94,23 +100,17 @@ curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POS
     "description":"measure description"
 }
 ```
-Replace All : '\r\n'  --> '  \\\r\n'
-
-#### java
-try (DatagramSocket datagramSocket = new DatagramSocket()) {
-    byte[] buffer = {10, 23, 12};
-    byte[] IP = {10, 117, 4, 117};
-    InetAddress address = InetAddress.getByAddress(IP);
-    DatagramPacket packet = new DatagramPacket(
-        buffer, buffer.length, address, 6831
-    );
-    datagramSocket.send(packet);
-} catch (IOException e) {
-    e.printStackTrace();
+设定搜索模式'Extended' 然后Replace All : '\r\n'  --> '  \\\r\n'
+```
+{  \
+    "name":"accuracy_measure",  \
+    "measure.type":"griffin",  \
+    "dq.type":"accuracy",  \
+    "process.type":"batch",  \
+    "owner":"test",  \
+    "description":"measure description"  \
 }
-
-#### Geekbench 4
-[测试不同公有云服务](https://www.ithome.com/0/431/894.htm)
+```
 
 #### GraphQL
 [工具和库 ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017395&idx=3&sn=ab0b3c87c20d4cdaad82321764195210)
@@ -124,16 +124,6 @@ try (DatagramSocket datagramSocket = new DatagramSocket()) {
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
 
 #### hive
-
-#### Kubernetes
-https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads
-[Kubernetes配置的工具](
-https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
-
-#### 微服务配置中心
-https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/
-Spring Cloud（七）：配置中心（Git 版与动态刷新）
-https://windmt.com/2018/04/19/spring-cloud-7-config-sample/
 
 #### hadoop
   
