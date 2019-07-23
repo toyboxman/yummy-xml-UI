@@ -35,8 +35,41 @@ mvn -X -DskipTests package
     * [purge dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/purging-local-repository.html)
     
     经常能遇到local-repository(~/.m2/repository)下的installed文件不是最新版本，但是通过build相关命令却不能强制refresh，由此可能
-    导致工程compile中的依赖关系错误。这种情况下，可以将相关安装目录删除`rm ~/.m2/repository/org/apache/griffin`af
+    导致工程compile中的依赖关系错误。这种情况下，可以先将相关安装目录删除，再重新安装下载。
+    ```
+    rm ~/.m2/repository/org/apache/griffin
+    mvn install
+    ```
+    或者使用purge命令
+    ```
+    # 清除repository中groupId=org.apache.griffin 的文件
+    mvn dependency:purge-local-repository -DmanualInclude=org.apache.griffin
+    $ ls -al ~/.m2/repository/org/apache/griffin/
+    ls: cannot access '~/.m2/repository/org/apache/griffin/': No such file or directory
     
+    # 清除repository中匹配groupId:artifactId:version 的文件
+    mvn dependency:purge-local-repository -DmanualInclude=org.apache.jmeter:jorphan:2.8
+    $ ls -al ~/.m2/repository/org/apache/jmeter/jorphan
+    drwxr-xr-x  2 king users  140 Mar 19 15:40 2.10
+    drwxr-xr-x  2 king users  140 Mar 19 15:39 2.13
+    
+    # 清除repository中com目录下所有文件
+    mvn dependency:purge-local-repository -DmanualInclude=com
+    $ ls -al ~/.m2/repository/com/
+    ls: cannot access '/home/king/.m2/repository/com/': No such file or directory
+    ```
+    清除repository之后如果还想指定重新下载，可以使用如下命令
+    ```
+    # 仅下载安装项目依赖文件不编译工程
+    mvn dependency:resolve
+    # 指定下载一个文件
+    # mvn dependency:get -Dartifact=groupId:artifactId:version
+    mvn dependency:get -Dartifact=org.apache.jmeter:jorphan:2.8
+    $ ls -al ~/.m2/repository/org/apache/jmeter/jorphan
+    drwxr-xr-x  2 king users  140 Mar 19 15:40 2.10
+    drwxr-xr-x  2 king users  140 Mar 19 15:39 2.13
+    drwxr-xr-x  2 king users  136 Jul 23 16:29 2.8
+    ```
     
     * [copy dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-project-dependencies.html)
     
