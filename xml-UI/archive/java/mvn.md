@@ -32,6 +32,12 @@ mvn -X -DskipTests package
     # 显示包含':spring'字符串的artifactId依赖包
     mvn dependency:tree -Dincludes=:spring*
     ```
+    * [purge dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/purging-local-repository.html)
+    
+    经常能遇到local-repository(~/.m2/repository)下的installed文件不是最新版本，但是通过build相关命令却不能强制refresh，由此可能
+    导致工程compile中的依赖关系错误。这种情况下，可以将相关安装目录删除`rm ~/.m2/repository/org/apache/griffin`af
+    
+    
     * [copy dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-project-dependencies.html)
     
     `mvn -X -DskipTests clean package`在package stage，会将依赖包copy到`target/dependency`目录
