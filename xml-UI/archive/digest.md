@@ -17,7 +17,7 @@
         - snippet
             - [JDK command](java/JDK.md)
             - [tcp/udp](java/java-udp-tcp.md)
-            - [stream2string](java-stream2string.md)
+            - [stream2string](java/java-stream2string.md)
             - [reflection](java/java-reflection.md)
             - [log](java/java-log.md)
             - [json](java/java-json.md)
