@@ -163,6 +163,7 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
     </executions>
 </plugin>
 ```
+更多打包插件参考[***1***](https://www.baeldung.com/executable-jar-with-maven)
 
 - running
 
