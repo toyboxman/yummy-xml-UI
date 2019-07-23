@@ -1,7 +1,8 @@
-+ ***多媒体处理***
-    - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
-
-+ [***System Monitor***](system-monitor/monitor.md)
++ ***Linux***
+    - [commands](Linux%20commands.md)
+    - [git](git%20commands.md)
+    - 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
+    - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
 
 + ***Programming Languages***
     - ***Java***
@@ -14,7 +15,17 @@
             - [spring core](https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/spring-core.html)
             - [spring junit](https://www.baeldung.com/spring-boot-testing)
         - snippet
+            - [JDK command](java/JDK.md)
             - [tcp/udp](java/java-udp-tcp.md)
+            - [stream2string](java-stream2string.md)
+            - [reflection](java/java-reflection.md)
+            - [log](java/java-log.md)
+            - [json](java/java-json.md)
+            - [decompile](java/java-decompile.md)
+            - [convert](java/java-convert.md)
+            - [annotation](java/java-annotation.md)
+            - [zk-election](java/ZK-leader_election.md)
+            - [JPDA](java/JDI_JDWP_JPDA.md)
     - ***Scala***
         - [basic](scala/scala-basic.md)
         - [collections](scala/scala-collections.md)
@@ -22,16 +33,15 @@
     - ***Python***
         - [basic](python/python-basic.md)
 
++ ***多媒体处理***
+    - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
+
++ [***System Monitor***](system-monitor/monitor.md)
+
 + ***database***
     - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
     - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
     - [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
-
-+ ***Linux***
-    - [commands](Linux%20commands.md)
-    - [git](git%20commands.md)
-    - 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
-    - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
 
 + [***Kubernetes***](#kubernetes)
     - [Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
