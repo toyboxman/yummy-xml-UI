@@ -87,6 +87,7 @@ ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖĞÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃ
 
 ### Usage
 <div id = "u1"></div>
+
 #### properties injection
 springÔÊĞíÍ¨¹ı**value[[***1***](https://www.baeldung.com/spring-value-annotation), [***2***](https://www.baeldung.com/properties-with-spring)]** annotation·½Ê½À´½«ÅäÖÃÎÄ¼şÖĞµÄÖµÖ±½Ó¸³ÓèfieldÓò£¬Ê¡ÂÔ³ÌĞò×ÔĞĞ¼ÓÔØ¶ÁÈ¡¹ı³Ì¡£²¢ÇÒ»¹¿ÉÒÔÖ§³Ö¶Ôvalue½øĞĞ[ÔËËã](https://www.baeldung.com/spring-expression-language)
 
