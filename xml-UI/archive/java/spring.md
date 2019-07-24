@@ -85,6 +85,11 @@ Spring工具类用来简化反射API使用并处理反射调用产生异常。参看[api doc](https://doc
 一种Factory hook允许对新bean实例做定制修改, 例如检查marker interfaces(不包含方法定义的接口)、用proxies来包装(wrap)这些bean。
 ApplicationContexts能自动在bean的定义中找到BeanPostProcessor标注的beans，并将它们应用到后续bean实例的产生。普通(Plain)bean工厂允许程序式进行post-processors注册, 并应用到工厂产生的所有bean实例上。典型使用方式，如果产生bean实例应该实现接口中postProcessBeforeInitialization, 如果用proxies来包装这些bean则实现postProcessAfterInitialization。 
 
+### Usage
+<div id = "u1"></div>
+#### properties injection
+spring允许通过**value[[***1***](https://www.baeldung.com/spring-value-annotation), [***2***](https://www.baeldung.com/properties-with-spring)]** annotation方式来将配置文件中的值直接赋予field域，省略程序自行加载读取过程。并且还可以支持对value进行[运算](https://www.baeldung.com/spring-expression-language)
+
 ### Unit Test
 spring框架提供了和junit集成的方式
 * junit integrates with spring<br>

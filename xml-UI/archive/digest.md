@@ -11,6 +11,7 @@
         - ±äÁ¿ËÑË÷-[**codelf**](https://unbug.github.io/codelf/),  [½éÉÜ](https://zhuanlan.zhihu.com/p/53360901)
         - [protobuf](#protobuf)
         - [spring](java/spring.md)
+            - [properties jnjection](java/spring.md#u1)
             - [tutorials](https://github.com/eugenp/tutorials)
             - [spring core](https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/spring-core.html)
             - [spring junit](https://www.baeldung.com/spring-boot-testing)

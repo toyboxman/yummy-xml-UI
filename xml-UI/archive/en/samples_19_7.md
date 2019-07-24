@@ -163,3 +163,41 @@ Certainly it is absolute `folly` to suggest that this is `cost free` for the U.S
 An order in January encouraged companies to use American `iron, steel, aluminum, cement` and other products 
 to the extent practical, but did not `set any binding target`.
 今年1月的一项命令鼓励企业尽量使用美国的钢铝和水泥等产品，但没有设定任何有约束力的目标
+
+Its economy is `entwined with` China’s, and Beijing has embraced the country’s Communist Party leaders in Hanoi as `ideological brethren`.
+它在经济上与中国密不可分，而且北京把河内的越共领导人视为意识形态上的兄弟
+
+That means Viettel and Huawei could still `team up` someday
+这意味着有一天，越南电信与华为仍然有机会合作
+
+But observers expect that Vietnamese carriers will `err on the side of caution` when they sign commercial 5G agreements. 
+但观察人士预计，越南的运营商在签署商用5G协议时会非常谨慎
+
+After China placed an `oil rig` off Vietnam’s coast in 2014, `marauding` crowds of Vietnamese workers `stormed factories` and attacked Chinese laborers.
+In response, Hanoi has cautiously `cultivated closer ties` with Washington.
+中国在越南海岸附近建造了一座石油钻井平台后，大批四处劫掠的越南工人闯入工厂，袭击中国工人. 作为回应，河内方面谨慎地拉近了同华盛顿的关系
+
+The numbers are `striking`. Hong Kong’s gap between the rich and the poor is `at its widest` in nearly half a century, and among `the starkest` in the world. It `boasts` the world’s longest working hours and the highest rents. Wages have not `kept up with rent`, which has increased by nearly a quarter over the past six years. Housing prices have `more than tripled` over the past decade.
+这些数字令人震惊。香港的贫富差距达到近半个世纪以来的最高水平，是世界上最明显的贫富差距之一。它有着世界上最长的工作时间和最高的房租。房租在过去六年上涨了近四分之一，而工资跟不上房租上涨的速度。过去10年，房价上涨了两倍多
+
+Similar protests, such as the Yellow Vest movement in France, `echo worries` that a `booming global economy` has `left behind` too many people.
+法国的“黄马甲”等类似的抗议活动也表明了同样的焦虑：蓬勃发展的全球经济让太多人掉队。
+
+Hong Kong leaders have `shelved` but not killed
+香港领导人搁置但未彻底取消的法案
+
+`Perched on` a series of islands and a `swath of `mountainous land `descending from` mainland China, Hong Kong already has `relatively little space` for housing.
+香港坐落在一系列岛屿以及从中国大陆向下延伸的大片山地上，已经没有多少土地可用于住房建设
+
+The whole system is totally controlled by the `vested interests of the elite`
+整个体制完全被精英阶层的既得利益所控制
+
+The government has also `favored wealthy mainlanders`, believing that Chinese buyers could `push up property values` and make Hong Kong households feel richer
+政府还偏袒富有的大陆人，认为中国买家可以推高物业价值，让香港家庭感觉更富有
+
+Many young people see there is `little way out economically and politically`, and it is the background of their desperation and anger at the `status quo`
+很多年轻人认为在经济和政治上几乎没有出路，而这是他们对现状产生绝望与愤怒的背景
+
+One protester, Roger Cheng, a 52 year old consumer products salesman, was `marching peacefully` on July 1 when another nearby group began to `ram metal rods` through the glass doors of the Legislative Council. Like others around him, he was unwilling to oppose the violence.
+抗议者现年52岁，从事消费产品销售工作，7月1日参加和平游行时，附近的另一群人开始用金属棍棒冲击立法会的玻璃门。和身边很多人一样，他不打算去反对这种暴力。
+
