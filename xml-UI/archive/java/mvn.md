@@ -32,6 +32,30 @@ mvn -X -DskipTests package
     # 显示包含':spring'字符串的artifactId依赖包
     mvn dependency:tree -Dincludes=:spring*
     ```
+    * analyze dependencies
+    分析pom文件中定义的依赖树的有效性
+    ```
+    mvn dependency:analyze
+    ```
+    也可以把分析执行加入到mvn执行流程中
+    ```
+    <plugin>
+        <artifactId>maven-dependency-plugin</artifactId>
+        <version>2.8</version>
+        <executions>
+            <execution>
+                <id>analyze</id>
+                <goals>
+                    <goal>analyze-only</goal>
+                </goals>
+                <configuration>
+                    <failOnWarning>true</failOnWarning>
+                    <outputXML>true</outputXML>
+                </configuration>
+            </execution>
+        </executions>
+    </plugin>
+    ```
     * [purge dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/purging-local-repository.html)
     
     经常能遇到local-repository(~/.m2/repository)下的installed文件不是最新版本，但是通过build相关命令却不能强制refresh，由此可能
@@ -195,4 +219,16 @@ mvn clean install && mvn -Dassemble package
         </arguments>
     </configuration>
 </plugin>
+```
+更多使用[参看](http://www.vineetmanohar.com/2009/11/3-ways-to-run-java-main-from-maven/)
+```
+# 如果执行的classpath需要层级依赖各项目的lib，上面profile配置就不用手动指定cp
+ <configuration>
+    <executable>java</executable>
+    <arguments>
+        <argument>-cp</argument>
+        <classpath/>
+        <argument>com.trace.TracerConfig</argument>
+    </arguments>
+</configuration>
 ```

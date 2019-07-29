@@ -91,22 +91,13 @@ ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖĞÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃ
 #### properties injection
 springÔÊĞíÍ¨¹ı **@PropertySources** **@PropertySource** **@Value** **@ConfigurationProperties** **@TestPropertySource** [[***1***](https://www.baeldung.com/spring-value-annotation), [***2***](https://www.baeldung.com/properties-with-spring)] ·½Ê½À´½«ÅäÖÃÎÄ¼şÖĞµÄÖµÖ±½Ó¸³ÓèfieldÓò£¬Ê¡ÂÔ³ÌĞò×ÔĞĞ¼ÓÔØ¶ÁÈ¡¹ı³Ì¡£²¢ÇÒ»¹¿ÉÒÔÖ§³Ö¶Ôvalue½øĞĞ[ÔËËã](https://www.baeldung.com/spring-expression-language)
 
-### Unit Test
-spring¿ò¼ÜÌá¹©ÁËºÍjunit¼¯³ÉµÄ·½Ê½
-* junit integrates with spring<br>
-  1. simply annotate a JUnit 4 based test class with **@RunWith(SpringRunner.class)**<br>[***1.description***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***2.code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
-  2. org.springframework.test.web.servlet.**MockMvc**, server-side Spring MVC test support<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L67)
-  3. ...
-  4. ...
-* [test in spring boot](https://www.baeldung.com/spring-boot-testing)
-  1. **@DataJpaTest** combinates with @RunWith(SpringRunner.class) for a typical JPA test, which will use an embedded in-memory database<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobInstanceBeanRepoTest.java#L53)
+<div id = "u2"></div>
 
+#### bean creation
+springÔÊĞíÍ¨¹ı **@Component** **@Configuration** **@Bean** [[***1***](https://www.baeldung.com/spring-bean)] ·½Ê½À´ÉêÃ÷ÓÉspringÈİÆ÷¹ÜÀíµÄbean£¬Í¬Ê±¿ÉÒÔÖ¸¶¨×÷ÓÃ·¶Î§[bean scope](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBean.md)
 
-### 2.claim bean managed by spring container
-[bean scope explanation](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/SpringBean.md#%E4%B8%80--bean%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F)
-
-* @Configuration
-Indicates that a class declares one or more @Bean methods and may be processed by the Spring container to generate bean definitions and service requests for those beans at runtime, for example:
+- **@Configuration**
+±íÃ÷´ËclassÉùÃ÷Ò»¸ö»ò¶à¸ö@Bean·½·¨£¬ÕâĞ©·½·¨½«»á±»Spring containerµ÷ÓÃÔÚruntimeÊ±À´²úÉúbean definitionsºÍservice requests
 ```java
 // ÉùÃ÷AppConfigÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
 @Configuration
@@ -119,8 +110,8 @@ public class AppConfig {
     }
 }
 ```
-* @bean
-Indicates that a method produces a bean to be managed by the Spring container(·½·¨²úÉúµÄbean¶ÔÏóÓÉÈİÆ÷ÍĞ¹Ü)
+-  **@Bean**
+±íÃ÷·½·¨²úÉúµÄbean¶ÔÏóÓÉÈİÆ÷ÍĞ¹Ü
 ```java
 // bean available as 'b1' and 'b2', but not 'myBean'
 // ApplicationContext.getBean(name)
@@ -130,8 +121,8 @@ public MyBean myBean() {
     return obj;
 }
 ```
-Scope, DependsOn, Primary, and Lazy
-Note that the @Bean annotation does not provide attributes for scope, depends-on, primary, or lazy. Rather, it should be used in conjunction with @Scope, @DependsOn, @Primary, and @Lazy annotations to achieve those semantics. For example:
+- **@Scope, @DependsOn, @Primary, @Lazy**
+@Bean²»Ìá¹©¸ü¶àÊôĞÔÉèÖÃ£¬Òò´ËÆäÓ¦Óë@Scope, @DependsOn, @Primary, and @LazyÀ´ÁªºÏÊ¹ÓÃ£¬[reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
 ```java
 @Bean
 @Scope("prototype")
@@ -140,20 +131,40 @@ public MyBean myBean() {
     return obj;
 }
 ```
-https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started
-* bean conflict
+- **bean conflict**
 Í¬Ò»¸öÀàÈç¹û¼´ÓÃ@configuration£¬ÓÖÓÃ@beanÉùÃ÷µÄ»°£¬spring»áÌáÊ¾Í¬Ò»¸öbeanÓĞÁ½¸öÊµÀı£¬ÎŞ·¨autowire
 ```java
+// ÉùÃ÷ListenerÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
 @configuration
 public class Listener {
     
-    @bean
+    // ÉùÃ÷ÈİÆ÷Í¨¹ı´Ë·½·¨²úÉúListenerÊµÀı
+    @Bean
     public Listener getListener() {
     }
 }
 
+ERROR£º
 Could not autowire. There is more than one bean of 'Listener' type.
 Beans:
 getListener?? (Listener.java) 
 listener?? (Listener.java) 
 ```
+
+### Troubleshooting
+<div id = "t1"></div>
+
+#### NoUniqueBeanDefinitionException
+Èç¹û¸ø¶¨µÄÀàĞÍ´æÔÚ¶à¸öbeanÊµÀı£¬ÔÚ×öÒÀÀµ×¢ÈëÊ±ºòÄãĞèÒª¸æËßSpringÈİÆ÷ÒªÊ¹ÓÃÄÄÒ»¸öbeanÊµÀı¡£Èç¹ûÃ»ÓĞÖ¸¶¨Spring»áthrow a NoUniqueBeanDefinitionException£¬¸æËßÄãÈİÆ÷²»ÖªµÀÓ¦¸Ã×¢ÈëÄÄÒ»¸öbeanÊµÀı¡£
+
+ÓĞÁ½ÖÖ·½Ê½À´Ö¸¶¨×¢ÈëbeanÊµÀı£¬Ê¹ÓÃ@Primary±êÇ©£¬Ëü»á¸æËßSpringÈİÆ÷primary beanÊµÀıÔÚautowireÊ±ºòÓÅÏÈÆäËûÊµÀı¡£»òÊ¹ÓÃ@Qualifier±êÇ©£¬ËüÄÜ¸æËßSpringÄãÒª×¢ÈëbeanÊµÀıµÄname¡£Ä¬ÈÏÇé¿öÏÂbeanÊµÀıÒıÓÃnameÊÇÊ××ÖÄ¸Ğ¡Ğ´µÄclass name¡£[ÒıÎÄ](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
+
+### Unit Test
+spring¿ò¼ÜÌá¹©ÁËºÍjunit¼¯³ÉµÄ·½Ê½
+* junit integrates with spring<br>
+  1. simply annotate a JUnit 4 based test class with **@RunWith(SpringRunner.class)**<br>[***1.description***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***2.code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
+  2. org.springframework.test.web.servlet.**MockMvc**, server-side Spring MVC test support<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L67)
+  3. ...
+  4. ...
+* [test in spring boot](https://www.baeldung.com/spring-boot-testing)
+  1. **@DataJpaTest** combinates with @RunWith(SpringRunner.class) for a typical JPA test, which will use an embedded in-memory database<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobInstanceBeanRepoTest.java#L53)

@@ -15,7 +15,11 @@
                 - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
                 - [spring core-2](https://github.com/eugenp/tutorials/tree/master/spring-all)
                 - [properties jnjection](java/spring.md#u1)
+                - [bean creation](java/spring.md#u2)
                 - [spring junit](https://www.baeldung.com/spring-boot-testing)
+            - [spring exceptions](https://www.baeldung.com/spring-exceptions)
+                - [NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)
+                - [NoUniqueBeanDefinitionException](java/spring.md#t1)
             - [spring doc center](https://docs.spring.io/spring/docs/)
                 - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
         - snippet
@@ -30,6 +34,8 @@
             - [annotation](java/java-annotation.md)
             - [zk-election](java/ZK-leader_election.md)
             - [JPDA](java/JDI_JDWP_JPDA.md)
+        - [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
+
     - ***Scala***
         - [basic](scala/scala-basic.md)
         - [collections](scala/scala-collections.md)
