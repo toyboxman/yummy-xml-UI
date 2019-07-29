@@ -122,7 +122,7 @@ public MyBean myBean() {
 }
 ```
 - **@Scope, @DependsOn, @Primary, @Lazy**
-@Bean不提供更多属性设置，因此其应与@Scope, @DependsOn, @Primary, and @Lazy来联合使用，[reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
+由于@Bean不提供更多属性设置，因此其应与@Scope, @DependsOn, @Primary, and @Lazy来联合使用，[Reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
 ```java
 @Bean
 @Scope("prototype")
@@ -155,9 +155,9 @@ listener?? (Listener.java)
 <div id = "t1"></div>
 
 #### NoUniqueBeanDefinitionException
-如果给定的类型存在多个bean实例，在做依赖注入时候你需要告诉Spring容器要使用哪一个bean实例。如果没有指定Spring会throw a NoUniqueBeanDefinitionException，告诉你容器不知道应该注入哪一个bean实例。
+如果给定的类型存在多个bean实例，在做依赖注入时候你需要告诉Spring容器要使用哪一个bean实例。如果没有指定Spring会throw a NoUniqueBeanDefinitionException，告诉你容器不知道应该注入哪一个bean实例
 
-有两种方式来指定注入bean实例，使用@Primary标签，它会告诉Spring容器primary bean实例在autowire时候优先其他实例。或使用@Qualifier标签，它能告诉Spring你要注入bean实例的name。默认情况下bean实例引用name是首字母小写的class name。[引文](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
+有两种方式来指定注入bean实例，使用@Primary标签，它会告诉Spring容器primary bean实例在autowire时候优先其他实例。或使用@Qualifier标签，它能告诉Spring你要注入bean实例的name。默认情况下bean实例引用name是首字母小写的class name[引文](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
 
 ### Unit Test
 spring框架提供了和junit集成的方式
