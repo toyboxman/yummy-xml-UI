@@ -14,8 +14,10 @@
             - [tutorials](https://github.com/eugenp/tutorials)
                 - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
                 - [spring core-2](https://github.com/eugenp/tutorials/tree/master/spring-all)
+                - [spring mvc](https://github.com/eugenp/tutorials/tree/master/spring-mvc-java)
                 - [properties jnjection](java/spring.md#u1)
                 - [bean creation](java/spring.md#u2)
+                - [AOP](java/spring.md#u3)
                 - [spring junit](https://www.baeldung.com/spring-boot-testing)
             - [spring exceptions](https://www.baeldung.com/spring-exceptions)
                 - [NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)
@@ -77,6 +79,9 @@
 
 + ***algorithm***
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
+
++ ***blog***    
+    - [jayway](https://blog.jayway.com/)
 
 #### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”

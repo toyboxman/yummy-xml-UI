@@ -151,6 +151,11 @@ getListener?? (Listener.java)
 listener?? (Listener.java) 
 ```
 
+<div id = "u3"></div>
+
+#### aop
+Spring AOP提供对Aspect-Oriented Programming支持。参看Reference[[***1***](https://howtodoinjava.com/spring-aop-tutorial/), [***2***](https://www.baeldung.com/spring-aop-pointcut-tutorial)]
+
 ### Troubleshooting
 <div id = "t1"></div>
 
