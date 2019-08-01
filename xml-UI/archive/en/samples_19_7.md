@@ -201,3 +201,38 @@ Many young people see there is `little way out economically and politically`, an
 One protester, Roger Cheng, a 52 year old consumer products salesman, was `marching peacefully` on July 1 when another nearby group began to `ram metal rods` through the glass doors of the Legislative Council. Like others around him, he was unwilling to oppose the violence.
 抗议者现年52岁，从事消费产品销售工作，7月1日参加和平游行时，附近的另一群人开始用金属棍棒冲击立法会的玻璃门。和身边很多人一样，他不打算去反对这种暴力。
 
+Trade talks between the United States and China resumed on Monday `with prospects dimming` for a `transformative deal`
+美国和中国于周一恢复贸易谈判，然而达成一项具有划时代意义的协议的前景颇为黯淡
+
+but months of meetings have so failed to yield consensus on the most difficult issues and `there is little to suggest` that a compromise is `within reach`
+但数月的会谈未能就最棘手的问题达成共识，也没有迹象表明达成妥协是可能的
+
+Chinese negotiators previously `objected to` demands that `certain provisions be enshrined` in Chinese law, and have pushed for a `more vaguely` worded text
+中国谈判代表此前反对将某些条款写入中国法律的要求，并一直在推动一份措辞更为模糊的文本
+
+If there are loopholes and gray areas `subject to interpretation`, then the extensive appeal process the Trump administration has designed will be a `recipe` for a decade of `acrimony`
+如果存在漏洞和`有待解释的`灰色地带，那么特朗普政府设计的详尽上诉程序将在未来十年引发许多`争吵`
+
+The trade war is also `dragging on` the Chinese economy. The `shift` of multinational companies out of China
+贸易战也在拖累中国经济。跨国公司纷纷撤出
+
+The Chinese economy is `decelerating`, but the process has been `gradual`. Further increases in the country’s already huge amount of `infrastructure spending` have `cushioned the shock`
+中国经济正在减速，但这个过程是渐进的。中国本已庞大的基础设施支出进一步增加，这缓解了经济放缓带来的冲击
+
+China’s exports to the United States have `dipped`, but they have not `plunged` during the trade war
+中国对美国的出口有所下降，但在贸易战期间并没有出现暴跌
+
+Then Mr. Sun, `citing ill health`, postponed the lunch three days before it was to happen, sending the Chinese media and internet into `overdrive`
+然后，孙宇晨以生病为由，将午餐时间推迟三天，这让中国的媒体和互联网炸了锅
+
+But the reports, `while sounding as though` they had been `ripped from` the pages of an `overwrought thriller`, were not `without precedent`
+不过，这些报道虽然听起来像是来自某部扣人心弦的惊悚小说，但也并非没有先例
+
+The incidents are part of China’s `broader scrutiny of fault lines` in the country’s economy and a crackdown on `risky and speculative` investing activities
+中国在对经济隐患进行更广泛的审查，打击高风险和投机性投资活动，这些事件就是其中的一部分行动
+
+He also posted a `selfie` holding a sheet of paper with a sequence of numbers known as a blockchain hash
+他还发了一张自拍，其中他手拿一张纸，上面有一串称为区块链哈希的数字
+
+Justin Sun’s main crime is probably to have so `openly flaunted his wealth`, the authorities don’t like this kind of `personality cult` and this `money being thrown around`
+孙宇晨的主要罪行很可能在于如此公开炫富,当局不喜欢这种个人崇拜和挥霍行为

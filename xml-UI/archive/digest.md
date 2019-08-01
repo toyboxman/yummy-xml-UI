@@ -17,6 +17,7 @@
                 - [spring mvc](https://github.com/eugenp/tutorials/tree/master/spring-mvc-java)
                 - [properties jnjection](java/spring.md#u1)
                 - [bean creation](java/spring.md#u2)
+                - [bean creation order](java/spring.md#u2s1)
                 - [AOP](java/spring.md#u3)
                 - [spring junit](https://www.baeldung.com/spring-boot-testing)
             - [spring exceptions](https://www.baeldung.com/spring-exceptions)

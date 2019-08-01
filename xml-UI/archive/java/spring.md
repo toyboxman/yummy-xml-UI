@@ -108,17 +108,14 @@ public class AppConfig {
     public MyBean myBean() {
         // instantiate, configure and return bean ...
     }
-}
-```
--  **@Bean**
-表明方法产生的bean对象由容器托管
-```java
-// bean available as 'b1' and 'b2', but not 'myBean'
-// ApplicationContext.getBean(name)
-@Bean(name = {"b1", "b2"}) 
-public MyBean myBean() {
-    // instantiate and configure MyBean obj
-    return obj;
+    
+    // bean available as 'b1' and 'b2', but not 'yourBean'
+    // yourBean = ApplicationContext.getBean('b1')
+    @Bean(name = {"b1", "b2"}) 
+    public YourBean yourBean() {
+        // instantiate and configure MyBean obj
+        return obj;
+    }
 }
 ```
 - **@Scope, @DependsOn, @Primary, @Lazy**
@@ -135,7 +132,7 @@ public MyBean myBean() {
 同一个类如果即用@configuration，又用@bean声明的话，spring会提示同一个bean有两个实例，无法autowire
 ```java
 // 声明Listener类实例由容器管理
-@configuration
+@Configuration
 public class Listener {
     
     // 声明容器通过此方法产生Listener实例
@@ -150,6 +147,27 @@ Beans:
 getListener?? (Listener.java) 
 listener?? (Listener.java) 
 ```
+同理一个类如果即用@component，又用@bean声明的话，spring会初始化出不同的instance, 因而不要混用。 如下例根据listener实例的id可判断出实例不同，使用@bean方式好处是可以在创建过程中做一些操作。
+```java
+// 声明Listener类实例由容器管理
+@Component
+public class Listener {
+    private String id = UUID.random()
+    public Listener(){...}
+}
+
+@Configuration
+public class ListenerConfig {
+    
+    @Bean
+    public getListener(){...}
+}
+```
+
+<div id = "u2s1"></div>
+
+##### bean creation order
+Spring自动产生bean实例的时候可以指定先后顺序，通过[**@Order**](https://www.baeldung.com/spring-order), [**@DependsOn**](https://www.baeldung.com/spring-depends-on)可以让bean顺序产生
 
 <div id = "u3"></div>
 
