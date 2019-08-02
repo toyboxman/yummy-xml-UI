@@ -17,14 +17,20 @@
                 - [spring mvc](https://github.com/eugenp/tutorials/tree/master/spring-mvc-java)
                 - [properties jnjection](java/spring.md#u1)
                 - [bean creation](java/spring.md#u2)
-                - [bean creation order](java/spring.md#u2s1)
+                    - [bean creation order](java/spring.md#u2s1)
+                    - [bean injection](java/spring.md#u2s2)
+                    - [bean creation stages](java/spring.md#u2s3)
                 - [AOP](java/spring.md#u3)
+                    - [aspect bean injection](java/spring.md#u3s1)
+                - [JPA](java/spring.md#u4)
+                    - [aspect bean injection](java/spring.md#u3s1)
                 - [spring junit](https://www.baeldung.com/spring-boot-testing)
             - [spring exceptions](https://www.baeldung.com/spring-exceptions)
                 - [NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)
                 - [NoUniqueBeanDefinitionException](java/spring.md#t1)
             - [spring doc center](https://docs.spring.io/spring/docs/)
                 - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
+                - [pdf/excel/html report integration](https://www.baeldung.com/spring-jasper)
         - snippet
             - [JDK command](java/JDK.md)
             - [tcp/udp](java/java-udp-tcp.md)
@@ -172,10 +178,6 @@ code sample:
 [1](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L62)
 
 #### spring
-* @NoRepositoryBean
-public interface CrudRepository
-mock entity probably hit problem running with spring test entity manager
-
 * Boot Configuration Binding
 https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding
 code sample:

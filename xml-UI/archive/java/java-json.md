@@ -40,3 +40,18 @@ try {
 } catch (Exception e) {
 }
 ```
+- 将json String转换成pojo对象
+```java
+ObjectMapper mapper = new ObjectMapper();
+try {
+    TypeFactory typeFactory = mapper.getTypeFactory();
+    //按照集合类型读出pojo list
+    CollectionType collectionType = typeFactory.constructCollectionType(List.class, TracerPojo.class);
+    List<TracerPojo> list = mapper.readValue(vertical_configs.getValue().toString(), collectionType);
+    //按照集合类型读出pojo list
+    TypeReference<List<TracerPojo>> typeReference = new TypeReference<List<TracerPojo>>() {};
+    list = mapper.readValue(json, typeReference);
+} catch (IOException e) {
+    e.printStackTrace();
+}
+```

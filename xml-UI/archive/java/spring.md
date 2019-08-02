@@ -166,13 +166,48 @@ public class ListenerConfig {
 
 <div id = "u2s1"></div>
 
-##### bean creation order
+#### bean creation order
 Spring自动产生bean实例的时候可以指定先后顺序，通过[**@Order**](https://www.baeldung.com/spring-order), [**@DependsOn**](https://www.baeldung.com/spring-depends-on)可以让bean顺序产生
+
+<div id = "u2s2"></div>
+
+#### bean reference
+引用Spring产生的bean实例有多种方式[**@Autowired/@Inject/@Resource**](https://www.baeldung.com/spring-annotations-resource-inject-autowire) , 对于抽象类还支持[**autowired-abstract-class**](https://www.baeldung.com/spring-autowired-abstract-class).  如果不期望即时injection发生可以[**lazy-injection**](https://www.baeldung.com/spring-lazy-annotation)
+
+<div id = "u2s3"></div>
+
+#### bean stages
+Spring产生的bean实例各阶段中可以插入一些逻辑[**@PostConstruct/InitializingBean/ApplicationListener/initMethod**](https://www.baeldung.com/running-setup-logic-on-startup-in-spring)
 
 <div id = "u3"></div>
 
 #### aop
 Spring AOP提供对Aspect-Oriented Programming支持。参看Reference[[***1***](https://howtodoinjava.com/spring-aop-tutorial/), [***2***](https://www.baeldung.com/spring-aop-pointcut-tutorial)]
+
+<div id = "u3s1"></div>
+
+#### aspect bean injection
+定义一个aspect之后， 会根据需要注入一些bean实例
+```java
+@Aspect
+@Component
+public class MyclassAspect {
+    @Autowired
+    private MyBean bean;
+```
+用aspect工具weave compile上述代码，运行的时候发现bean始终为null, 关于此[问题讨论](https://stackoverflow.com/questions/9633840/spring-autowired-bean-for-aspect-aspect-is-null). 原因简言之aspect bean是一个在Spring container之外创建的单例对象，因此无法被注入. 解决办法就是用**@configuration**来配置, 还可以用[其他方式](https://blog.csdn.net/zlp1992/article/details/81037529)
+```java
+@Aspect
+@Configurable(autowire = Autowire.BY_TYPE)
+public class MyclassAspect {
+    @Autowired
+    private MyBean bean;
+```
+
+<div id = "u4"></div>
+
+#### jpa
+使用[**@NoRepositoryBean**](https://www.baeldung.com/spring-data-jpa-method-in-all-repositories) 来定义Base Repository Interface, 测试时候mock entity与spring test entity manager配合是可能会碰到问题
 
 ### Troubleshooting
 <div id = "t1"></div>
