@@ -95,7 +95,13 @@ mvn -X -DskipTests package
     drwxr-xr-x  2 king users  136 Jul 23 16:29 2.8
     ```
     
-    * [copy dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-project-dependencies.html)
+    * [copy dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/index.html)
+    
+    `mvn dependency:copy-dependencies`执行按照默认参数，将依赖树上所有lib拷贝出来，除了parent pom的依赖
+
+    `mvn dependency:copy-dependencies -DincludeScope=runtime -Dmdep.addParentPoms` 将依赖树上所有runtime and compile dependencies lib拷贝出来，包括parent pom的依赖
+    
+    `mvn dependency:copy-dependencies -DincludeScope=runtime -DincludeGroupIds=com.example.api,org.apache.common` 将依赖树上所有runtime and compile dependencies lib拷贝出来，只包括groupid符合条件的
     
     `mvn -X -DskipTests clean package`在package stage，会将依赖包copy到`target/dependency`目录
     ```
@@ -121,7 +127,6 @@ mvn -X -DskipTests package
         </executions>
     </plugin>
     ```
-    `mvn dependency:copy-dependencies`执行按照默认参数，将依赖树上所有包拷贝出来
     
     * [jdeps](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jdeps.html)
     
