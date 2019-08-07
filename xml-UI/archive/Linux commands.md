@@ -70,6 +70,7 @@
     - [Gzip](#gzip)
     - [Link/ln](#ln)
     - [Man](#man)
+    - [Make](#make)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [Nohup](#nohup)
@@ -563,10 +564,27 @@ unset GOBIN
 # -h highlight current process
 $ pstree -alA
 ```          
+
 #### man
 ```bash
 # read nc manual with GB2312 encoding
 $ man -E GB2312 nc
+```
+
+#### make
+make命令用来在Linux平台上手动编译安装软件包
+```bash
+# compile and install
+./configure
+make
+make check
+make install
+
+# uninstall and clean, and appoint installation path at /usr
+sudo make uninstall
+sudo make distclean
+sudo make clean
+./configure --prefix=/usr
 ```
 
 #### ssh
