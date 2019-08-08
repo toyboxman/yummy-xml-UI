@@ -3,6 +3,7 @@
 ## Spring Notes
 
 ### Concept
+
 #### [Spring boot](https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm)
 Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML configuration，减少应用开发时间，提供快速简单启动应用的方式。
 
@@ -13,6 +14,25 @@ Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂
 4. It offers annotation-based spring application
 5. Eases dependency management
 6. It includes Embedded Servlet Container
+
+### Spring Boot Usage
+
+<div id = "bu1"></div>
+
+#### Configuration Binding
+Spring Boot提供[**@ConfigurationProperties**](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding)来声明class的root prefix，然后用一个增强binder自动将Environment中匹配prefixes的值绑定到properties，它也将自动将绑定对象exposes成Spring Bean
+
+<div id = "bu2"></div>
+
+#### application entry
+Spring Boot提供@SpringBootApplication来声明application的入口，表示这个configuration classs申明一个或多个@Bean methods ，并且触发auto-configuration与component scanning行为. 这是个convenience使用标签，等同于同时声明@Configuration, @EnableAutoConfiguration和@ComponentScan. 
+
+**code sample:**
+[1](https://github.com/apache/incubator-griffin/blob/master/service/src/main/java/org/apache/griffin/core/GriffinWebApplication.java#L31)
+
+<div id = "bubp"></div>
+
+#### [best practices](https://github.com/spring-projects/spring-boot/wiki/Building-On-Spring-Boot)
 
 - **@EnableAutoConfiguration**
 
@@ -85,7 +105,8 @@ Spring工具类用来简化反射API使用并处理反射调用产生异常。参看[api doc](https://doc
 一种Factory hook允许对新bean实例做定制修改, 例如检查marker interfaces(不包含方法定义的接口)、用proxies来包装(wrap)这些bean。
 ApplicationContexts能自动在bean的定义中找到BeanPostProcessor标注的beans，并将它们应用到后续bean实例的产生。普通(Plain)bean工厂允许程序式进行post-processors注册, 并应用到工厂产生的所有bean实例上。典型使用方式，如果产生bean实例应该实现接口中postProcessBeforeInitialization, 如果用proxies来包装这些bean则实现postProcessAfterInitialization。 
 
-### Usage
+### Spring Usage
+
 <div id = "u1"></div>
 
 #### properties injection
@@ -118,6 +139,24 @@ public class AppConfig {
     }
 }
 ```
+典型用法中@Bean methods被声明在@Configuration classes中，@Bean methods可以直接call同一个@Configuration class的其他@Bean methods。这确保beans之间的引用是强类型和互达的称为'inter-bean references'，因此@Configuration classes所有bean工厂方法必须是非final和private修饰符
+
+@Bean methods也可以不通过典型方式声明. 例如可以声明在@Component class甚至a plain old class. 这种方式称之为'lite'. 
+Bean methods在lite mode下被spring容器看做普通工厂方法(类似factory-method declarations in XML), 也有scoping and lifecycle callbacks特性. 这些产生的容器对象除了不能修改, 也没有特别的限制. 与之相反，不像通过@Configuration classes产生的beans, 'inter-bean references'在lite mode不支持. 当在lite mode尝试@Bean-method调用另一个@Bean-method, 这个调用是一个标准的Java method invocation，Spring不会通过CGLIB proxy来截获invocation. 这与inter-@Transactional method互相之间调用相似，也是通过proxy mode, Spring不截获invocation.
+```
+@Component
+public class Calculator {
+   public int sum(int a, int b) {
+       return a+b;
+   }
+
+   @Bean
+   public MyBean myBean() {
+       return new MyBean();
+   }
+}
+```
+
 - **@Scope, @DependsOn, @Primary, @Lazy**
 由于@Bean不提供更多属性设置，因此其应与@Scope, @DependsOn, @Primary, and @Lazy来联合使用，[Reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
 ```java

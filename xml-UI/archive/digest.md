@@ -15,7 +15,7 @@
                 - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
                 - [spring core-2](https://github.com/eugenp/tutorials/tree/master/spring-all)
                 - [spring mvc](https://github.com/eugenp/tutorials/tree/master/spring-mvc-java)
-                - [properties jnjection](java/spring.md#u1)
+                - [properties injection](java/spring.md#u1)
                 - [bean creation](java/spring.md#u2)
                     - [bean creation order](java/spring.md#u2s1)
                     - [bean injection](java/spring.md#u2s2)
@@ -31,6 +31,10 @@
             - [spring doc center](https://docs.spring.io/spring/docs/)
                 - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
                 - [pdf/excel/html report integration](https://www.baeldung.com/spring-jasper)
+            - [boot tutorials](https://www.tutorialspoint.com/spring_boot/spring_boot_quick_start.htm)
+                - [properties injection](java/spring.md#bu1)
+                - [application entry](java/spring.md#bu2)
+                - [best practices](java/spring.md#bubp)
         - snippet
             - [JDK command](java/JDK.md)
             - [tcp/udp](java/java-udp-tcp.md)
@@ -102,6 +106,8 @@
 什么是追求独异？吃饭不只求饱，而要吃得“正确”“健康”；不参加“大众旅游”，而要最“纯正”的“旅行”；工作不应只为稻粱谋，而要意义和乐趣。“成功地实现自我”，这是晚现代文化的生活方式导向，也是新中产追求的目标。然而事实上，基于此的个人幸福却显得虚无缥缈——一方面这取决于变化无常的个人体验，另一方面取决于难以捉摸的文化市场。
 
 在《论法的精神》中，孟德斯鸠宣称权力显示出一种自我膨胀并滥用自身特权的自然倾向，它不会停止，直到在它的外部找到一种限制。这一教训在任何时间和任何地点都适用。如今，不停膨胀并不断自主化的权力是经济权力、金融权力。
+
+《韩非子》说赛马的妙法，在于“不为最先，不耻最后”
 
 [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 
@@ -178,16 +184,6 @@ code sample:
 [1](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L62)
 
 #### spring
-* Boot Configuration Binding
-https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding
-code sample:
-[1](https://github.com/apache/incubator-griffin/blob/master/service/src/main/java/org/apache/griffin/core/GriffinWebApplication.java#L31)
-
-* org.springframework.boot.autoconfigure.SpringBootApplication
-Indicates a configuration class that declares one or more @Bean methods 
-and also triggers auto-configuration and component scanning. This is a convenience 
-annotation that is equivalent to declaring @Configuration, @EnableAutoConfiguration and @ComponentScan.
-
 https://www.baeldung.com/junit-assert-exception
 
 @Primary, @Order and @Qualifier
@@ -195,47 +191,8 @@ https://www.baeldung.com/junit-assert-exception
 @ConditionalXXXX
 @ObjectMapper
 
-In module A I have a class annotated with @Configuration and also @AutoConfigureBefore(ClassFromModuleD.class). In module B I have another class annotated with @Configuration and also @AutoConfigureBefore(ClassFromModuleA.class)
+在module A中有a class用@Configuration和@AutoConfigureBefore(ClassFromModuleD.class)标注. 在module B中有a class用@Configuration和@AutoConfigureBefore(ClassFromModuleA.class)标注
 
-@Bean Methods in @Configuration Classes
-Typically, @Bean methods are declared within @Configuration classes. 
-In this case, bean methods may reference other @Bean methods in the same class by calling them directly. 
-This ensures that references between beans are strongly typed and navigable. 
-Such so-called 'inter-bean references' are guaranteed to respect scoping and AOP semantics,
-just like getBean() lookups would. These are the semantics known from the original 
-'Spring JavaConfig' project which require CGLIB subclassing of each such configuration class at runtime. 
-As a consequence, @Configuration classes and their factory methods must not be marked as final or private in this mode. For example:
-   @Configuration
-   public class AppConfig {
-  
-       @Bean
-       public FooService fooService() {
-           return new FooService(fooRepository());
-       }
-  
-       @Bean
-       public FooRepository fooRepository() {
-           return new JdbcFooRepository(dataSource());
-       }
-  
-       // ...
-   }
-@Bean Lite Mode
-@Bean methods may also be declared within classes that are not annotated with @Configuration. For example, bean methods may be declared in a @Component class or even in a plain old class. In such cases, a @Bean method will get processed in a so-called 'lite' mode.
-Bean methods in lite mode will be treated as plain factory methods by the container (similar to factory-method declarations in XML), with scoping and lifecycle callbacks properly applied. The containing class remains unmodified in this case, and there are no unusual constraints for the containing class or the factory methods.
-In contrast to the semantics for bean methods in @Configuration classes, 'inter-bean references' are not supported in lite mode. Instead, when one @Bean-method invokes another @Bean-method in lite mode, the invocation is a standard Java method invocation; Spring does not intercept the invocation via a CGLIB proxy. This is analogous to inter-@Transactional method calls where in proxy mode, Spring does not intercept the invocation — Spring does so only in AspectJ mode.
-For example:
-   @Component
-   public class Calculator {
-       public int sum(int a, int b) {
-           return a+b;
-       }
-  
-       @Bean
-       public MyBean myBean() {
-           return new MyBean();
-       }
-   }
 Bootstrapping
 See @Configuration Javadoc for further details including how to bootstrap the container using AnnotationConfigApplicationContext and friends.
 BeanFactoryPostProcessor-returning @Bean methods
