@@ -40,23 +40,7 @@ Spring BootÌá¹©@SpringBootApplicationÀ´ÉùÃ÷applicationµÄÈë¿Ú£¬±íÊ¾Õâ¸öconfigurat
 
 - **@ComponentScan**
 
-Spring Boot×Ô¶¯É¨ÃèËùÓĞÏîÄ¿ÖĞÓÃ´Ë±êÇ©ÉùÃ÷µÄcomponents¡£
-
-- **@Configuration**
-
-±íÃ÷ÓĞ@BeanÉùÃ÷methodµÄclass»áÓÉSpring container¹ÜÀí£¬²úÉúbean definitionsºÍÔËĞĞÆÚ¶ÔÕâĞ©beanµÄservice requests¡£
-```java
-// ÉùÃ÷AppConfigÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
-@Configuration
-public class AppConfig {
-
-    // ÉùÃ÷MyBeanÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
-    @Bean
-    public MyBean myBean() {
-        // instantiate, configure and return bean ...
-    }
-}
-```
+Spring Boot×Ô¶¯É¨ÃèËùÓĞÏîÄ¿ÖĞÓÃ´Ë±êÇ©ÉùÃ÷µÄcomponents
 
 - **@SpringBootApplication**
 
@@ -107,6 +91,44 @@ ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖĞÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃ
 
 ### Spring Usage
 
+<div id = "u0"></div>
+
+#### bootstrap
+
+´ó¶àÊı³¡¾°ÖĞSpringApplication.run(Object, String[]) method±»Ö±½Ó´Ómain methodµ÷ÓÃÀ´bootstrap application, Ä¬ÈÏbootstrap application»á×öÒÔÏÂ¼¸¼şÊÂ£º
+
+1. Create an appropriate ApplicationContext instance (depending on your classpath)
+2. Register a CommandLinePropertySource to expose command line arguments as Spring properties
+3. Refresh the application context, loading all singleton beans
+4. Trigger any CommandLineRunner beans
+
+```
+@Configuration
+@EnableAutoConfiguration
+public class MyApplication  {
+
+    // ... Bean definitions
+
+    public static void main(String[] args) throws Exception {
+    SpringApplication.run(MyApplication.class, args);
+    }
+}
+```
+¸ü¶à¶¨ÖÆÅäÖÃµÄÆô¶¯¿ÉÒÔÈçÏÂÊµÏÖ
+``` 
+public static void main(String[] args) throws Exception {
+     SpringApplication app = new SpringApplication(MyApplication.class);
+     // ... customize app settings here
+     app.run(args)
+}
+```
+SpringApplicationsÄÜ¹»´Ó¶àÖÖÔ´¶ÁÈ¡bean¶¨Òå. Ò»°ã½¨ÒéÓÃa single @Configuration classÀ´bootstrap application, È»¶øÒ²¿ÉÒÔÓĞÆäËûÑ¡Ôñ
+
+1. Class - A Java class to be loaded by AnnotatedBeanDefinitionReader
+2. Resource - An XML resource to be loaded by XmlBeanDefinitionReader, or a groovy script to be loaded by GroovyBeanDefinitionReader
+3. Package - A Java package to be scanned by ClassPathBeanDefinitionScanner
+4. CharSequence - A class name, resource handle or package name to loaded as appropriate. If the CharSequence cannot be resolved to class and does not resolve to a Resource that exists it will be considered a Package.
+
 <div id = "u1"></div>
 
 #### properties injection
@@ -118,16 +140,21 @@ springÔÊĞíÍ¨¹ı **@PropertySources** **@PropertySource** **@Value** **@Configurat
 springÔÊĞíÍ¨¹ı **@Component** **@Configuration** **@Bean** [[***1***](https://www.baeldung.com/spring-bean)] ·½Ê½À´ÉêÃ÷ÓÉspringÈİÆ÷¹ÜÀíµÄbean£¬Í¬Ê±¿ÉÒÔÖ¸¶¨×÷ÓÃ·¶Î§[bean scope](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBean.md)
 
 - **@Configuration**
-±íÃ÷´ËclassÉùÃ÷Ò»¸ö»ò¶à¸ö@Bean·½·¨£¬ÕâĞ©·½·¨½«»á±»Spring containerµ÷ÓÃÔÚruntimeÊ±À´²úÉúbean definitionsºÍservice requests
+±íÃ÷´ËclassÉùÃ÷Ò»¸ö»ò¶à¸ö@Bean·½·¨£¬ÕâĞ©·½·¨½«»á±»Spring containerµ÷ÓÃÔÚruntimeÊ±À´²úÉúbean definitionsºÍservice requests. Configuration classes±ØĞëÊÇnon-final, non-local (i.e. not as instances returned from factory methods), allowing for runtime enhancements through a generated subclass.
 ```java
 // ÉùÃ÷AppConfigÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
 @Configuration
 public class AppConfig {
 
+    @Autowired Environment env;
+
     // ÉùÃ÷MyBeanÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
     @Bean
     public MyBean myBean() {
         // instantiate, configure and return bean ...
+        MyBean myBean = new MyBean();
+        myBean.setName(env.getProperty("bean.name"));
+        return myBean;
     }
     
     // bean available as 'b1' and 'b2', but not 'yourBean'
@@ -140,6 +167,28 @@ public class AppConfig {
 }
 ```
 µäĞÍÓÃ·¨ÖĞ@Bean methods±»ÉùÃ÷ÔÚ@Configuration classesÖĞ£¬@Bean methods¿ÉÒÔÖ±½ÓcallÍ¬Ò»¸ö@Configuration classµÄÆäËû@Bean methods¡£ÕâÈ·±£beansÖ®¼äµÄÒıÓÃÊÇÇ¿ÀàĞÍºÍ»¥´ïµÄ³ÆÎª'inter-bean references'£¬Òò´Ë@Configuration classesËùÓĞbean¹¤³§·½·¨±ØĞëÊÇ·ÇfinalºÍprivateĞŞÊÎ·û
+
+@Configuration classes»¹¿ÉÒÔÖ§³ÖÇ¶Ì×Ê¹ÓÃ, nested configuration classes±ØĞëÊÇstatic. ·Ç¾²Ì¬@Bean methods²»»áÒÀ´Î²úÉú¸ü¶àconfiguration classes, ¼´Ê¹ÕâĞ©beanÓÃÁË@Configuration±ê×¢£¬ÏµÍ³Ò²»áºöÂÔµô£¬½«ÆäÊÓÎªÆÕÍ¨²úÉúbean
+```
+@Configuration
+public class AppConfig {
+
+   @Inject DataSource dataSource;
+
+   @Bean
+   public MyBean myBean() {
+       return new MyBean(dataSource);
+   }
+
+   @Configuration
+   static class DatabaseConfig {
+       @Bean
+       DataSource dataSource() {
+           return new EmbeddedDatabaseBuilder().build();
+       }
+   }
+}
+```
 
 @Bean methodsÒ²¿ÉÒÔ²»Í¨¹ıµäĞÍ·½Ê½ÉùÃ÷. ÀıÈç¿ÉÒÔÉùÃ÷ÔÚ@Component classÉõÖÁa plain old class. ÕâÖÖ·½Ê½³ÆÖ®Îª'lite'. 
 Bean methodsÔÚlite modeÏÂ±»springÈİÆ÷¿´×öÆÕÍ¨¹¤³§·½·¨(ÀàËÆfactory-method declarations in XML), Ò²ÓĞscoping and lifecycle callbacksÌØĞÔ. ÕâĞ©²úÉúµÄÈİÆ÷¶ÔÏó³ıÁË²»ÄÜĞŞ¸Ä, Ò²Ã»ÓĞÌØ±ğµÄÏŞÖÆ. ÓëÖ®Ïà·´£¬²»ÏñÍ¨¹ı@Configuration classes²úÉúµÄbeans, 'inter-bean references'ÔÚlite mode²»Ö§³Ö. µ±ÔÚlite mode³¢ÊÔ@Bean-methodµ÷ÓÃÁíÒ»¸ö@Bean-method, Õâ¸öµ÷ÓÃÊÇÒ»¸ö±ê×¼µÄJava method invocation£¬Spring²»»áÍ¨¹ıCGLIB proxyÀ´½Ø»ñinvocation. ÕâÓëinter-@Transactional method»¥ÏàÖ®¼äµ÷ÓÃÏàËÆ£¬Ò²ÊÇÍ¨¹ıproxy mode, Spring²»½Ø»ñinvocation.
@@ -156,8 +205,94 @@ public class Calculator {
    }
 }
 ```
+@Configuration¿ÉÒÔÍ¨¹ı[AnnotationConfigApplicationContext](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Configuration.html)À´³õÊ¼»¯ÈİÆ÷
+```
+AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
+ctx.register(AppConfig.class);
+ctx.refresh();
+MyBean myBean = ctx.getBean(MyBean.class);
+// use myBean ...
+```
 
-- **@Scope, @DependsOn, @Primary, @Lazy**
+ÓĞĞ©ÌØÊâÇé¿öÏÂĞèÒª@Bean methods·µ»Ø[BeanFactoryPostProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/BeanFactoryPostProcessor.html)(BFPP) types. ÓÉÓÚBFPP¶ÔÏóÄÜ¸ÉÔ¤ÔÚ@Configuration classesÖĞÒ»Ğ©±êÇ©µÄ´¦ÀíÈç@Autowired, @Value, @PostConstruct. ÎªÁË±ÜÃâ³öÏÖlifecycle issues, BFPP¶ÔÏó±ØĞëÔÚcontainer lifecycleÔçÆÚ±»ÊµÀı»¯, ¿ÉÒÔ½«BFPP-returning @Bean methodsÉèÎªstaticÀàĞÍ
+```
+@Bean
+public static PropertyPlaceholderConfigurer ppc() {
+   // instantiate, configure and return ppc ...
+}
+```   
+È»¶østatic @Bean methods²»»á±»scoping and AOP semantics¶¯Ì¬ÔöÇ¿£¬½öÔÚBFPP casesÖĞÓĞĞ§, Í¬Ê±Ò²ÎŞ·¨±»Õı³£µÄÆäËû@Bean methodsÒıÓÃµ½.×÷ÎªÌáÊ¾, Ò»ÌõWARN-level logĞÅÏ¢»á±»¼ÇÂ¼£¬any non-static @Bean methods having a return type assignable to BeanFactoryPostProcessor.
+
+- **@Import @ImportResource**
+ÓÃ@import±êÇ©Ò²¿ÉÒÔ×¢Èëbean¶ÔÏó(e.g. via constructor injection) 
+```
+@Configuration
+public class DatabaseConfig {
+
+   @Bean
+   public DataSource dataSource() {
+       // instantiate, configure and return DataSource
+   }
+}
+
+@Configuration
+@Import(DatabaseConfig.class)
+public class AppConfig {
+
+   private final DatabaseConfig dataConfig;
+
+   public AppConfig(DatabaseConfig dataConfig) {
+       this.dataConfig = dataConfig;
+   }
+
+   @Bean
+   public MyBean myBean() {
+       // reference the dataSource() bean method
+       return new MyBean(dataConfig.dataSource());
+   }
+}
+```
+Èç¹ûÊ¹ÓÃSpring XMLÅäÖÃ£¬@Configuration classes¾ÍĞèÒªÊ¹ÓÃ@ImportResource±êÇ©
+```
+@Configuration
+@ImportResource("classpath:/com/acme/database-config.xml")
+public class AppConfig {
+
+   @Inject DataSource dataSource; // from XML
+
+   @Bean
+   public MyBean myBean() {
+       // inject the XML-defined dataSource bean
+       return new MyBean(this.dataSource);
+   }
+}
+```
+
+- **@Profile**
+@Configuration classesÊ¹ÓÃ@Profile±íÃ÷¿É¸ù¾İÖ¸¶¨profileÀ´´¦Àí²»Í¬bean
+```
+@Profile("embedded")
+@Configuration
+public class EmbeddedDatabaseConfig {
+
+   @Bean
+   public DataSource dataSource() {
+       // instantiate, configure and return embedded DataSource
+   }
+}
+
+@Profile("production")
+@Configuration
+public class ProductionDatabaseConfig {
+
+   @Bean
+   public DataSource dataSource() {
+       // instantiate, configure and return production DataSource
+   }
+}
+``` 
+
+- **@Scope, @DependsOn, @Primary, @Lazy @AutoConfigureBefore**
 ÓÉÓÚ@Bean²»Ìá¹©¸ü¶àÊôĞÔÉèÖÃ£¬Òò´ËÆäÓ¦Óë@Scope, @DependsOn, @Primary, and @LazyÀ´ÁªºÏÊ¹ÓÃ£¬[Reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
 ```java
 @Bean
@@ -218,6 +353,111 @@ Spring×Ô¶¯²úÉúbeanÊµÀıµÄÊ±ºò¿ÉÒÔÖ¸¶¨ÏÈºóË³Ğò£¬Í¨¹ı[**@Order**](https://www.baeld
 #### bean stages
 Spring²úÉúµÄbeanÊµÀı¸÷½×¶ÎÖĞ¿ÉÒÔ²åÈëÒ»Ğ©Âß¼­[**@PostConstruct/InitializingBean/ApplicationListener/initMethod**](https://www.baeldung.com/running-setup-logic-on-startup-in-spring)
 
+<div id = "u2s4"></div>
+
+#### bean schedule
+Í¨¹ı**@EnableScheduling @Scheduled**¿ÉÒÔÊ¹ÓÃSpring's scheduled task¹¦ÄÜ,ÀàËÆ±êÇ©»¹ÓĞ**@EnableAsync, @EnableScheduling, @EnableTransactionManagement, @EnableAspectJAutoProxy, @EnableWebMvc**
+```
+@Configuration
+@EnableScheduling
+public class AppConfig {
+
+   @Bean
+   public MyTask task() {
+       return new MyTask();
+   }
+}
+
+package com.example.tasks;
+
+public class MyTask {
+   // ensure that MyTask.work() is called once every 1000 ms
+   @Scheduled(fixedRate=1000)
+   public void work() {
+       // task execution logic
+   }
+}
+```   
+Èç¹ûMyTaskÖ±½ÓÍ¨¹ı@ComponentÉùÃ÷, AppConfig¿ÉÒÔÖ±½ÓComponentScanÕÒµ½MyTaskÀ´µ÷¶È
+```
+@Configuration
+@EnableScheduling
+@ComponentScan(basePackages="com.example.tasks")
+public class AppConfig {
+}
+
+package com.example.tasks;
+
+public class MyTask {
+   // ensure that MyTask.work() is called once every 1000 ms
+   @Scheduled(fixedRate=1000)
+   public void work() {
+       // task execution logic
+   }
+}
+```   
+@ScheduledÒ²¿ÉÒÔÖ±½ÓÉùÃ÷µ½@Configuration classesµÄ·½·¨ÉÏ
+```
+@Configuration
+@EnableScheduling
+public class AppConfig {
+
+   @Scheduled(fixedRate=1000)
+   public void work() {
+       // task execution logic
+   }
+}
+```
+SpringÒ²ÔÊĞí¶¨ÖÆschedulerÊµÏÖ£¬Ä¬ÈÏÇé¿öÏÂÊ¹ÓÃcontextÖĞÎ¨Ò»µÄTaskScheduler bean»òÕßjava.util.concurrent.ScheduledExecutorService bean.Èç¹û¶şÕßruntimeÊ±¿Ì¶¼ÎŞ·¨resolvable, a local single-threaded default scheduler½«±»´´½¨Ê¹ÓÃ.Èç¹û¶¨ÖÆschedulerĞèÒªÊµÏÖSchedulingConfigurer
+```
+@Configuration
+@EnableScheduling
+public class AppConfig implements SchedulingConfigurer {
+
+   @Override
+   public void configureTasks(ScheduledTaskRegistrar taskRegistrar) {
+       taskRegistrar.setScheduler(taskExecutor());
+   }
+
+    // ensures that the task executor is properly shut down 
+    // when the Spring application context itself is closed.
+   @Bean(destroyMethod="shutdown")
+   public Executor taskExecutor() {
+       return Executors.newScheduledThreadPool(100);
+   }
+}
+```   
+Èç¹ûÏë×öÏ¸Á£¶È¿ØÖÆ(fine-grained control) ÈÎÎñ×¢²á£¬»¹¿ÉÒÔ¶¨ÖÆtrigger
+```
+@Configuration
+@EnableScheduling
+public class AppConfig implements SchedulingConfigurer {
+
+   @Override
+   public void configureTasks(ScheduledTaskRegistrar taskRegistrar) {
+       taskRegistrar.setScheduler(taskScheduler());
+       taskRegistrar.addTriggerTask(
+           new Runnable() {
+               public void run() {
+                   myTask().work();
+               }
+           },
+           new CustomTrigger() //¶¨ÖÆ´¥·¢Âß¼­
+       );
+   }
+
+   @Bean(destroyMethod="shutdown")
+   public Executor taskScheduler() {
+       return Executors.newScheduledThreadPool(42);
+   }
+
+   @Bean
+   public MyTask myTask() {
+       return new MyTask();
+   }
+}
+```
+
 <div id = "u3"></div>
 
 #### aop
@@ -257,6 +497,25 @@ public class MyclassAspect {
 ÓĞÁ½ÖÖ·½Ê½À´Ö¸¶¨×¢ÈëbeanÊµÀı£¬Ê¹ÓÃ@Primary±êÇ©£¬Ëü»á¸æËßSpringÈİÆ÷primary beanÊµÀıÔÚautowireÊ±ºòÓÅÏÈÆäËûÊµÀı¡£»òÊ¹ÓÃ@Qualifier±êÇ©£¬ËüÄÜ¸æËßSpringÄãÒª×¢ÈëbeanÊµÀıµÄname¡£Ä¬ÈÏÇé¿öÏÂbeanÊµÀıÒıÓÃnameÊÇÊ××ÖÄ¸Ğ¡Ğ´µÄclass name[ÒıÎÄ](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
 
 ### Unit Test
+<div id = "ut1"></div>
+
+#### junit
+The Spring TestContext frameworkÌá¹©[**@ContextConfiguration**](https://www.baeldung.com/junit-assert-exception), ÆäÄÜ½ÓÊÜan array of @Configuration Class objects
+```
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration(classes={AppConfig.class, DatabaseConfig.class})
+public class MyTests {
+
+   @Autowired MyBean myBean;
+
+   @Autowired DataSource dataSource;
+
+   @Test
+   public void test() {
+       // assertions against myBean ...
+   }
+}
+```   
 spring¿ò¼ÜÌá¹©ÁËºÍjunit¼¯³ÉµÄ·½Ê½
 * junit integrates with spring<br>
   1. simply annotate a JUnit 4 based test class with **@RunWith(SpringRunner.class)**<br>[***1.description***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***2.code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
