@@ -22,6 +22,8 @@ Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂
 #### Configuration Binding
 Spring Boot提供[**@ConfigurationProperties**](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding)来声明class的root prefix，然后用一个增强binder自动将Environment中匹配prefixes的值绑定到properties，它也将自动将绑定对象exposes成Spring Bean
 
+Spring Framework本身还提供泛型注入[autowire-generics-type](https://www.baeldung.com/spring-autowire-generics), 集合注入[injecting-collections-type](https://www.baeldung.com/spring-injecting-collections)
+
 <div id = "bu2"></div>
 
 #### application entry
@@ -134,10 +136,15 @@ SpringApplications能够从多种源读取bean定义. 一般建议用a single @Configuration cl
 #### properties injection
 spring允许通过 **@PropertySources** **@PropertySource** **@Value** **@ConfigurationProperties** **@TestPropertySource** [[***1***](https://www.baeldung.com/spring-value-annotation), [***2***](https://www.baeldung.com/properties-with-spring)] 方式来将配置文件中的值直接赋予field域，省略程序自行加载读取过程。并且还可以支持对value进行[运算](https://www.baeldung.com/spring-expression-language)
 
+另外还能支持对非容器管理[Not-Managed-bean](https://www.baeldung.com/inject-properties-value-non-spring-class)来注入properties
+
 <div id = "u2"></div>
 
 #### bean creation
 spring允许通过 **@Component** **@Configuration** **@Bean** [[***1***](https://www.baeldung.com/spring-bean)] 方式来申明由spring容器管理的bean，同时可以指定作用范围[bean scope](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBean.md)
+
+- **Application Context Events**
+可以通过[@EventListener](https://www.baeldung.com/spring-context-events)来侦听context过程事件
 
 - **@Configuration**
 表明此class声明一个或多个@Bean方法，这些方法将会被Spring container调用在runtime时来产生bean definitions和service requests. Configuration classes必须是non-final, non-local (i.e. not as instances returned from factory methods), allowing for runtime enhancements through a generated subclass.
@@ -337,6 +344,8 @@ public class ListenerConfig {
     public getListener(){...}
 }
 ```
+- **bean Circular Dependencies**
+出现beans之间互相依赖可以用这样[lazy-workaround](https://www.baeldung.com/circular-dependencies-in-spring)等方式解决
 
 <div id = "u2s1"></div>
 
