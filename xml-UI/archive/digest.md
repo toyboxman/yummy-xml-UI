@@ -31,6 +31,7 @@
         - [head](scala/scala-head.md)
     - ***Python***
         - [basic](python/python-basic.md)
+    - [***Interview***](#interview)
 
 + ***多媒体处理***
     - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
@@ -43,10 +44,6 @@
     - [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
 
 + [***Kubernetes***](#kubernetes)
-    - [Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
-    - [配置 Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
-    - [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
-    - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
@@ -69,6 +66,46 @@
 
 + ***blog***    
     - [jayway](https://blog.jayway.com/)
+
+#### notepad++
+需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
+```
+curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
+{
+    "name":"accuracy_measure",
+    "measure.type":"griffin",
+    "dq.type":"accuracy",
+    "process.type":"batch",
+    "owner":"test",
+    "description":"measure description"
+}
+```
+设定搜索模式'Extended' 然后Replace All : '\r\n'  --> '  \\\r\n'
+```
+{  \
+    "name":"accuracy_measure",  \
+    "measure.type":"griffin",  \
+    "dq.type":"accuracy",  \
+    "process.type":"batch",  \
+    "owner":"test",  \
+    "description":"measure description"  \
+}
+```
+
+#### interview
+https://www.journaldev.com/2366/core-java-interview-questions-and-answers
+
+#### protobuf
+protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
+因此，需要在.proto定义文件头加上`option java_generic_services = true;`
+
+```
+#!/bin/bash
+
+for file in `find src/main/proto -name "*.proto"`; do
+    protoc --proto_path=src/main/proto --java_out=src/main/java/ $file
+done
+```
 
 #### spring
 - [spring](java/spring.md)
@@ -99,6 +136,16 @@
         - [application entry](java/spring.md#bu2)
         - [best practices](java/spring.md#bubp)
 
+#### kubernetes
+- [Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
+    - [配置 Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
+    - [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
+    - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
+```
+root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
+kubectl get ds -n kube-system
+```
+
 #### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
 
@@ -115,49 +162,7 @@
 《韩非子》说赛马的妙法，在于“不为最先，不耻最后”
 
 [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
-
-#### protobuf
-protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
-因此，需要在.proto定义文件头加上`option java_generic_services = true;`
-
-```
-#!/bin/bash
-
-for file in `find src/main/proto -name "*.proto"`; do
-    protoc --proto_path=src/main/proto --java_out=src/main/java/ $file
-done
-```
-
-#### kubernetes
-```
-root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
-kubectl get ds -n kube-system
-```
-
-#### notepad++
-需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
-```
-curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
-{
-    "name":"accuracy_measure",
-    "measure.type":"griffin",
-    "dq.type":"accuracy",
-    "process.type":"batch",
-    "owner":"test",
-    "description":"measure description"
-}
-```
-设定搜索模式'Extended' 然后Replace All : '\r\n'  --> '  \\\r\n'
-```
-{  \
-    "name":"accuracy_measure",  \
-    "measure.type":"griffin",  \
-    "dq.type":"accuracy",  \
-    "process.type":"batch",  \
-    "owner":"test",  \
-    "description":"measure description"  \
-}
-```
+[古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
 
 #### GraphQL
 [工具和库 ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017395&idx=3&sn=ab0b3c87c20d4cdaad82321764195210)
@@ -166,9 +171,6 @@ curl -k -H "Content-Type: application/json" -H "Accept: application/json" -X POS
 [Web开发包注册中心的NPM](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016822&idx=2&sn=d38c1f59ebd04052d95f2136fb950d5c)
 
 #### go
-
-#### interview
-https://www.journaldev.com/2366/core-java-interview-questions-and-answers
 
 #### hive
 
@@ -179,6 +181,7 @@ https://superset.incubator.apache.org/
 
 #### Druid
 https://en.wikipedia.org/wiki/Druid_(open-source_data_store)
+Apache Druid (incubating) is a high performance analytics data store for event-driven data.
 
 #### Flink
 https://en.wikipedia.org/wiki/Apache_Flink
@@ -188,34 +191,10 @@ https://en.wikipedia.org/wiki/Apache_Flink
 code sample:
 [1](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L62)
 
-https://cwiki.apache.org/confluence/display/HAWQ/ASF+Maturity+Evaluation
-https://cwiki.apache.org/confluence/display/CARBONDATA/Apache+Maturity+Model+Assessment+for+CarbonData
-? security statement
-? license tree
-? dependency tree
-
-http://carbondata.apache.org/pdf/CarbonData-TPCH-Report.pdf
-? performance data
-
-https://cwiki.apache.org/confluence/display/HAWQ/Contributing+to+HAWQ
-https://cwiki.apache.org/confluence/display/IMPALA/Contributing+to+Impala
-? how to contribute
-
-https://scan.coverity.com/projects/apache-incubator-hawq
-? coverity
-
-https://stackoverflow.com/questions/tagged/hawq
-? social media(stackoverflow, tweet)
-
-https://cwiki.apache.org/confluence/display/IMPALA/Effective+Coding+Practices
-?code standard
-
+#### Ratpack
 https://github.com/ratpack/ratpack
 Ratpack is a simple, capable, toolkit for creating high performance web applications.
 Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.
-
-Apache Druid (incubating)
-Apache Druid (incubating) is a high performance analytics data store for event-driven data.
 
 #### griffin
 Elasticsearch
@@ -223,110 +202,12 @@ Elasticsearch
 
 https://hadoop.apache.org/docs/r2.9.1/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution
 
-export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 in .bashrc
-root@griffin:/apache/hadoop-2.6.5# cat /etc/hosts
-127.0.0.1       localhost
-172.17.0.2      es es
-172.17.0.3      griffin
-root@griffin:/apache# cat /etc/hostname 
-griffin
-
-root@griffin:/apache# env
-ES_HOSTNAME=es
-ES_ENV_JAVA_HOME=/docker-java-home/jre
-ES_PORT_9300_TCP=tcp://172.17.0.2:9300
-ES_ENV_CA_CERTIFICATES_JAVA_VERSION=20170531+nmu1
-ES_PORT_9300_TCP_PORT=9300
-ES_PORT_9200_TCP=tcp://172.17.0.2:9200
-ES_PORT_9300_TCP_PROTO=tcp
-ES_ENV_JAVA_VERSION=8u141
-ES_ENV_LANG=C.UTF-8
-ES_ENV_ELASTICSEARCH_VERSION=5.5.2
-ES_PORT_9200_TCP_PROTO=tcp
-ES_ENV_JAVA_DEBIAN_VERSION=8u141-b15-1~deb9u1
-ES_PORT_9200_TCP_ADDR=172.17.0.2
-ES_ENV_ELASTICSEARCH_DEB_VERSION=5.5.2
-ES_ENV_GOSU_VERSION=1.10
-ES_PORT_9300_TCP_ADDR=172.17.0.2
-ES_PORT=tcp://172.17.0.2:9200
-ES_PORT_9200_TCP_PORT=9200
-ES_NAME=/griffin/es
-   
-   https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool
-   Run schemaTool to create the initial DB structure https://mapr.com/docs/61/Hive/Config-RemotePostgreSQLForHiveMetastore.html
-  172  hive/bin/schematool -dbType postgres -initSchema
-  173  hive/bin/schematool -dbType postgres -initSchema -dryRun
-  Get schema information:
+https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool
+Run schemaTool to create the initial DB structure https://mapr.com/docs/61/Hive/Config-RemotePostgreSQLForHiveMetastore.html
+172  hive/bin/schematool -dbType postgres -initSchema
+173  hive/bin/schematool -dbType postgres -initSchema -dryRun
+Get schema information:
 /apache/hive/bin/schematool -dbType postgres -info
-
-
-griffin/service
-root     29711 26909 59 13:15 pts/0    00:01:15 java -jar -Xmx1500m -Xms1500m service.jar
-
-yarn-site.xml
-<property>
-	<name>yarn.resourcemanager.hostname</name>
-	<value>localhost</value>
-</property>
-<property>
-	<name>yarn.nodemanager.aux-services</name>
-	<value>mapreduce_shuffle</value>
-</property>
-<property>
-	<name>yarn.nodemanager.aux-services.mapreduce.shuffle.class</name>
-	<value>org.apache.hadoop.mapred.ShuffleHandler</value>
-</property>
-<property>
-	<name>yarn.nodemanager.log-dirs</name>
-	<value>/tmp/logs</value>
-</property>
-<property>
-	<name>yarn.log-aggregation-enable</name>
-	<value>true</value>
-</property>
-<property>
-	<name>yarn.nodemanager.remote-app-log-dir</name>
-	<value>/yarn-logs/logs</value>
-</property>
-<property>
-	<name>yarn.nodemanager.remote-app-log-dir-suffix</name>
-	<value>logs</value>
-</property>
-<property>
-	<name>yarn.log-aggregation.retain-seconds</name>
-	<value>360000</value>
-</property>
-<property>
-	<name>yarn.log.server.url</name>
-	<value>http://localhost:19888/jobhistory/logs</value>
-</property>
-<!-- for java 8 -->
-<property>
-    <name>yarn.nodemanager.pmem-check-enabled</name>
-    <value>false</value>
-</property>
-<property>
-    <name>yarn.nodemanager.vmem-check-enabled</name>
-    <value>false</value>
-</property>
-
 
 yarn resource manager HA to ZK https://www.ibm.com/support/knowledgecenter/en/SSGSMK_7.1.0/management_sym/configuring_yarn_rm_ha_zookeeper.html
 Modify the YARN configuration file ($HADOOP_CONF_DIR/yarn-site.xml) on all resource manager hosts and the node manager hosts. Do this by adding Apache ZooKeeper HA properties to the file. For example, the following is based on open-source YARN configuration:
-
-<property>
-	<name>yarn.resourcemanager.ha.enabled</name>
-	<value>true</value>
-</property>
-<property>
-	<name>yarn.resourcemanager.zk-address</name>
-	<value>zk1:port1,zk2:port2,..., zkN:portN</value>
-</property>
-<property>
-	<name>yarn.resourcemanager.recovery.enabled</name>
-	<value>true</value>
-</property>
-<property>
-	<name>yarn.resourcemanager.ha.automatic-failover.enabled</name>
-	<value>true</value>
-</property>
