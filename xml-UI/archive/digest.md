@@ -16,6 +16,7 @@
     - [***Interview***](#interview)
 
 + [***System Monitor***](system-monitor/monitor.md)
+    - [NetData性能监控](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=2&sn=6eeb1cc8c0b93a3de2b6428891a74f11)
 
 + ***database***
     - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
@@ -23,6 +24,7 @@
     - [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
 
 + [***Kubernetes***](#kubernetes)
++ [***ElasticSearch***](#elasticsearch)
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
@@ -45,6 +47,7 @@
 
 + ***blog***    
     - [jayway](https://blog.jayway.com/)
+    -[资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
 
 #### java
 - [maven](java/mvn.md)
@@ -92,7 +95,7 @@ curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1
 ```
 
 #### interview
-https://www.journaldev.com/2366/core-java-interview-questions-and-answers
++ [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
 
 #### protobuf
 protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
@@ -170,6 +173,11 @@ kubectl get ds -n kube-system
 [Web开发包注册中心的NPM](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016822&idx=2&sn=d38c1f59ebd04052d95f2136fb950d5c)
 
 #### go
+
+#### ElasticSearch
++ [简单教程](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282222&idx=1&sn=a937009d8f0a66aaa327cd6f83955ee5)
++ [安装 Elasticsearch 和 Kibana](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=3&sn=66d57f1ecd5d4de53d458da11babbc38)
++ [日均5亿查询量的京东订单中心，舍MySQL用ElasticSearch](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282197&idx=1&sn=5067069706e0e56601436609451d2aa7)
 
 #### hive
 

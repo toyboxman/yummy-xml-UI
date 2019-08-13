@@ -193,3 +193,5 @@ $ gpg --list-signatures
 # 将uid为邮件地址的PGP PUBLIC KEY BLOCK导出为文件
 $ gpg --armor --export xxx@mail.org > mykey.asc
 ```
+
+用gpg和sha256两个工具来验证 ISO 镜像的[可靠性和安全性](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614885&idx=1&sn=731c1f7c945020d3793cbe74b66a47f3)

@@ -16,6 +16,7 @@
 - [LOOP](#loop-控制流)
 - [Logical](#logical-条件)
 - [Examples](#shell-example)
+    + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
 
 > [Link](http://www.freeos.com/guides/lsst/)
 

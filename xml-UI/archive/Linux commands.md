@@ -12,6 +12,13 @@
 
 ---
 - [Monitor System Information](#monitor-system-information)
+    - [Troubleshooting](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=1&sn=0eeadb81e3e6b48c56af99da900895cf)
+        - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
+        - [恢复 rm -f](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
+        - [Debug Operation](#debug)
+            - [Gdb](#gdb)
+            - [Objdump](#objdump)
+            - [Size](#size)
     - Account Management
         - [Activate Account](#activate-account)
         - [List All Users](#list-all-users) 
@@ -33,6 +40,7 @@
         - [Turn off Console Color](#turn-off-console-color)
         - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
             + [ntp sync check](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614368&idx=2&sn=39f7e4fc960d997380ee166b5bf21059)
+            + [timedatectl sync check](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=2&sn=956f94aea34ff1962992beaf61f9cfdf)
     - Disk Management
         - [LVM](#lvm)
         - [df/du](#dfdu)
@@ -52,6 +60,7 @@
         - [Route](#route)
         - [Show IP/Name Pair In DNS](#nslookup-dig)
 - [Usual Command](#usual-command)
+    - [Alias](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614821&idx=1&sn=2f38694271ec23361cd9cb34c042dbef)
     - [Base64](#base64)
     - [Copy/Mkdir](#cp)
     - [Chmod](#chmod)
@@ -107,11 +116,6 @@
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Shell Programming](shell%20programming.md)
-- [Debug Operation](#debug)
-    - [Gdb](#gdb)
-    - [Objdump](#objdump)
-    - [Size](#size)
-    - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
 - [Image Operation](#vm-image-operation)
 ---
 
@@ -479,6 +483,7 @@ ls --color=never
 # see netcard hardware information
 $ hwinfo --netcard
 ```
+还可以通过lshw(硬件列表)查看[硬件规格的详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=3&sn=69177e23e332ca7fe24e134babee8879)
 
 #### lsof
 ```bash
@@ -572,7 +577,7 @@ $ man -E GB2312 nc
 ```
 
 #### make
-make命令用来在Linux平台上手动编译安装软件包
+make命令用来在Linux平台上手动编译安装软件包, 还可以用[Autotools 打包DEB 和 RPM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)
 ```bash
 # compile and install
 ./configure
@@ -647,6 +652,7 @@ $ find / -iname '*.tgz' -exec rm {} \;
 ```
 
 #### cp
+用cp 命令可以用来[备份文件及文件夹](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614871&idx=3&sn=ecfdd00002757af5b360e5e025063d88)
 ```bash
 # -r copy directory
 $ cp -rv /home/king/source ./
@@ -1566,7 +1572,7 @@ MESSAGE=%=kscreen.xcb.helper:     Window: 35651588
 ```
 
 #### jq
-JSON 命令行处理
+用命令来[解析和格式化输出 JSON](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614864&idx=2&sn=788bd41fde948f2704d4671d0c6e1b31)
 ```bash
 $ cat name.json 
 [{"id": 1, "name": "Arthur", "age": "21"},{"id": 2, "name": "Richard", "age": "32"}]
