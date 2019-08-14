@@ -6,6 +6,7 @@
     - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
 
 + ***Programming Languages***
+    - [***Github***](#github)
     - [***Java***](#java)
     - ***Scala***
         - [basic](scala/scala-basic.md)
@@ -48,6 +49,20 @@
 + ***blog***    
     - [jayway](https://blog.jayway.com/)
     -[资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
+
+#### github
+github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github)  [code search语法](https://help.github.com/en/articles/searching-code)
+```
+# 从java语言的项目(language:java)中
+# 搜寻扩展名是java(extension:java)的文件内容(in:file)
+# 匹配关键字process
+process in:file language:java extension:java
+```
+由于github不支持正则表达搜索,因此可以用google做一些搜索
+```
+"key" site::https://github.com
+```
+还有[https://searchcode.com/](https://searchcode.com/)可以提供code search服务，不过以上都不完美无法达到grep效果
 
 #### java
 - [maven](java/mvn.md)
