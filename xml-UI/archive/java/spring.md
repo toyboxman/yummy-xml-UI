@@ -27,7 +27,7 @@ Spring Framework本身还提供泛型注入[autowire-generics-type](https://www.baeldung.
 <div id = "bu2"></div>
 
 #### application entry
-Spring Boot提供**@SpringBootApplication**来声明application的入口，表示这个configuration classs申明一个或多个@Bean methods ，并且触发auto-configuration与component scanning行为. 这是个convenience使用标签，等同于同时声明**@Configuration, @EnableAutoConfiguration和@ComponentScan**   参看[spring bootstrap](#u0)
+Spring Boot提供 **@SpringBootApplication** 来声明application的入口，表示这个configuration classs申明一个或多个@Bean methods ，并且触发auto-configuration与component scanning行为. 这是个convenience使用标签，等同于同时声明 **@Configuration, @EnableAutoConfiguration和@ComponentScan**   参看[spring bootstrap](#u0)
 
 **code sample:**
 [1](https://github.com/apache/incubator-griffin/blob/master/service/src/main/java/org/apache/griffin/core/GriffinWebApplication.java#L31)
