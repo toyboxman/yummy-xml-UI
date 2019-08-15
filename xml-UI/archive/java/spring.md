@@ -19,7 +19,7 @@ Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂
 
 <div id = "bu1"></div>
 
-#### Configuration Binding
+#### configuration binding
 Spring Boot提供[**@ConfigurationProperties**](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding)来声明class的root prefix，然后用一个增强binder自动将Environment中匹配prefixes的值绑定到properties，它也将自动将绑定对象exposes成Spring Bean
 
 Spring Framework本身还提供泛型注入[autowire-generics-type](https://www.baeldung.com/spring-autowire-generics), 集合注入[injecting-collections-type](https://www.baeldung.com/spring-injecting-collections)
@@ -27,7 +27,7 @@ Spring Framework本身还提供泛型注入[autowire-generics-type](https://www.baeldung.
 <div id = "bu2"></div>
 
 #### application entry
-Spring Boot提供@SpringBootApplication来声明application的入口，表示这个configuration classs申明一个或多个@Bean methods ，并且触发auto-configuration与component scanning行为. 这是个convenience使用标签，等同于同时声明@Configuration, @EnableAutoConfiguration和@ComponentScan. 
+Spring Boot提供**@SpringBootApplication**来声明application的入口，表示这个configuration classs申明一个或多个@Bean methods ，并且触发auto-configuration与component scanning行为. 这是个convenience使用标签，等同于同时声明**@Configuration, @EnableAutoConfiguration和@ComponentScan**   参看[spring bootstrap](#u0)
 
 **code sample:**
 [1](https://github.com/apache/incubator-griffin/blob/master/service/src/main/java/org/apache/griffin/core/GriffinWebApplication.java#L31)
@@ -397,6 +397,7 @@ public class AppConfig {
 
 package com.example.tasks;
 
+@Component
 public class MyTask {
    // ensure that MyTask.work() is called once every 1000 ms
    @Scheduled(fixedRate=1000)
