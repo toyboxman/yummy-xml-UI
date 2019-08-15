@@ -496,7 +496,14 @@ public class MyclassAspect {
 <div id = "u4"></div>
 
 #### jpa
+[spring-data-jpa](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)为spring提供操作数据对象的能力
+
 使用[**@NoRepositoryBean**](https://www.baeldung.com/spring-data-jpa-method-in-all-repositories) 来定义Base Repository Interface, 测试时候mock entity与spring test entity manager配合是可能会碰到问题
+
+<div id = "u4s1"></div>
+
+#### Repository
+[**CrudRepository, JpaRepository, and PagingAndSortingRepository**](https://www.baeldung.com/spring-data-repositories)是主要几种仓库类型，其中[CrudRepository](https://www.baeldung.com/spring-data-crud-repository-save) 是generic CRUD operations类型，它提供多种容器外(out of the box)方法来与数据库交互
 
 ### Troubleshooting
 <div id = "t1"></div>
