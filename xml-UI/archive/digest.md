@@ -111,6 +111,7 @@ curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1
 
 #### interview
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
++ [Q&A-spring](https://quizlet.com/306762411/baeldung-top-spring-framework-interview-questions-spring-core-flash-cards/)
 
 #### protobuf
 protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
@@ -129,10 +130,13 @@ done
     - [properties injection](java/spring.md#bu1)
     - [application entry](java/spring.md#bu2)
         - [Bootstrap Web Application ](https://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration)
+        - [Shutdown Boot Application](https://www.baeldung.com/spring-boot-shutdown)
     - [best practices](java/spring.md#bubp)
 - [spring](java/spring.md)
     - [tutorials](https://github.com/eugenp/tutorials)
         - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
+            - [ClassPathXmlApplicationContext](https://www.baeldung.com/spring-classpathxmlapplicationcontext)
+            - [Web Contexts](https://www.baeldung.com/spring-web-contexts)
         - [spring core-2](https://github.com/eugenp/tutorials/tree/master/spring-all)
         - [spring mvc](https://github.com/eugenp/tutorials/tree/master/spring-mvc-java)
             - [concept of Controller ](https://www.baeldung.com/spring-controllers)
@@ -145,6 +149,7 @@ done
             - [bean injection](java/spring.md#u2s2)
             - [bean creation stages](java/spring.md#u2s3)
             - [bean schedule](java/spring.md#u2s4)
+            - [Get All Spring-Managed Beans](https://www.baeldung.com/spring-show-all-beans)
             - [Scheduling with Quartz](https://www.baeldung.com/spring-quartz-schedule)
         - [AOP](java/spring.md#u3)
             - [aspect bean injection](java/spring.md#u3s1)
