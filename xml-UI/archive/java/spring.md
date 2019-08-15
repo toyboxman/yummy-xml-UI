@@ -365,7 +365,7 @@ Spring产生的bean实例各阶段中可以插入一些逻辑[**@PostConstruct/InitializingBean/A
 <div id = "u2s4"></div>
 
 #### bean schedule
-通过**@EnableScheduling @Scheduled**可以使用Spring's scheduled task功能,类似标签还有**@EnableAsync, @EnableScheduling, @EnableTransactionManagement, @EnableAspectJAutoProxy, @EnableWebMvc**
+通过 **@EnableScheduling @Scheduled** 可以使用Spring's scheduled task功能,类似标签还有 **@EnableAsync, @EnableScheduling, @EnableTransactionManagement, @EnableAspectJAutoProxy, @EnableWebMvc**
 ```
 @Configuration
 @EnableScheduling

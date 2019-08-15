@@ -125,6 +125,10 @@ done
 ```
 
 #### spring
+- [spring boot tutorials](https://www.tutorialspoint.com/spring_boot/spring_boot_quick_start.htm)
+        - [properties injection](java/spring.md#bu1)
+        - [application entry](java/spring.md#bu2)
+        - [best practices](java/spring.md#bubp)
 - [spring](java/spring.md)
     - [tutorials](https://github.com/eugenp/tutorials)
         - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
@@ -148,10 +152,6 @@ done
     - [spring doc center](https://docs.spring.io/spring/docs/)
         - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
         - [pdf/excel/html report integration](https://www.baeldung.com/spring-jasper)
-    - [boot tutorials](https://www.tutorialspoint.com/spring_boot/spring_boot_quick_start.htm)
-        - [properties injection](java/spring.md#bu1)
-        - [application entry](java/spring.md#bu2)
-        - [best practices](java/spring.md#bubp)
 
 #### kubernetes
 - [Kubernetes Ñ§Ï°ÇúÏß](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
