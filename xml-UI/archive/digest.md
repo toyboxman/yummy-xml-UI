@@ -47,11 +47,11 @@
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
 
 + ***blog***    
-    - [jayway](https://blog.jayway.com/)
+    - [jayway](https://blog.jayway.com/)      
     -[资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
 
 #### github
-github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github)  [code search语法](https://help.github.com/en/articles/searching-code)
+github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github),   [code search语法](https://help.github.com/en/articles/searching-code)
 ```
 # 从java语言的项目(language:java)中
 # 搜寻扩展名是java(extension:java)的文件内容(in:file)
@@ -126,9 +126,9 @@ done
 
 #### spring
 - [spring boot tutorials](https://www.tutorialspoint.com/spring_boot/spring_boot_quick_start.htm)
-        - [properties injection](java/spring.md#bu1)
-        - [application entry](java/spring.md#bu2)
-        - [best practices](java/spring.md#bubp)
+    - [properties injection](java/spring.md#bu1)
+    - [application entry](java/spring.md#bu2)
+    - [best practices](java/spring.md#bubp)
 - [spring](java/spring.md)
     - [tutorials](https://github.com/eugenp/tutorials)
         - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
