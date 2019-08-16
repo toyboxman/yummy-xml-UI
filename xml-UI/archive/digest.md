@@ -33,7 +33,8 @@
 + [***notepad++***](#notepad)
 
 + ***http***
-    - [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)   
+    - [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
+    - [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 
 + ***bench test***
     - [Geekbench测试不同公有云服务](https://www.ithome.com/0/431/894.htm)    
