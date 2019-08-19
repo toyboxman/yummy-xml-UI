@@ -47,6 +47,8 @@ Grafana是一个开源的时序性统计平台，同时也有功能强大的界�
 
 开源监控系统，Prometheus 在2016年继 Kurberntes 之后，加入了 Cloud Native Computing Foundation。大部分Prometheus components由Go实现，其他一些由Java, Python, and Ruby实现。
 
++[Prometheus安装使用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614923&idx=2&sn=0a66146e5b5e52d90158538128b98fff)
+
 Node Exporter提供一组与Linux/Unix systems相关的machine-level metrics，例如CPU usage, memory, disk utilization, filesystem fullness, and network bandwidth. 通过这种方式就可以监控物理机器。
 
 - APM(Application Performance Management & Monitoring)

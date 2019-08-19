@@ -184,4 +184,38 @@ Her writing showed me, and continues to show me, that history, `vulnerable to` t
 History can be `manipulated, whitewashed` and rewritten
 历史是可以被操纵、粉饰和重写的
 
+`The veiled threat`, broadcast over state-run news media this week as President Trump `ratcheted up` his trade war against Beijing, was clear
+在特朗普总统加强与北京方面的贸易战之际，这种隐晦的威胁本周通过官方新闻媒体播出，其义自现
 
+Other trading partners, `notably` Japan and South Korea, could become `collateral damage`. And in `an odd turnabout`, China’s own needs have made it somewhat `dependent on ore` from the United States.
+其他贸易伙伴可能遭受附带伤害，尤其是日本和韩国。此外颇为不巧的是，中国自身的需求已使其多少依赖于美国的矿石
+
+It is `far from clear` that China will `harness rare earths` as a weapon
+目前还不清楚中国是否会动用稀土这一武器
+
+The minerals `wind up in everything` from iPhones to wind `turbines` and missiles. They are used to `polish camera lenses` and to `refine crude oil` into gasoline, diesel and jet fuel.
+这些矿物最终出现在从iPhone到风力涡轮机、导弹等各种产品里。它们被用于抛光照相机镜头，以及将原油提炼为汽油、柴油和喷气燃料
+
+The `appetite` in the United States for products that include rare earths is enormous. But while the country still imports large quantities of cheap `rare-earth catalysts` for use in oil refineries
+美国对含稀土产品的需求十分庞大。然而，尽管美国仍进口大量炼油厂使用的廉价稀土催化剂
+
+`In large part`, that is because so much manufacturing has `shifted out of` the United States. Nearly a decade ago, Beijing began `putting heavy pressure on` manufacturers of products like `electric motor magnets and light-emitting diodes` to move factories to China
+在很大程度上，这是因为太多制造业务已转移出美国。近十年前，北京当局开始给电机磁铁和发光二极管等产品制造商大力施压
+
+The `dilemma` for Beijing `lies in whether to jeopardize` its central role in `global supply chains` by `halting exports` of crucial components to the West
+北京的困境在于，是否要中断关键零部件对西方的出口，进而危及它在全球供应链中的核心地位
+
+A Chinese `export embargo` would have other `drawbacks`
+中国的出口禁令还会有其他弊端
+
+That plan is `based partly on his assessment` that `trade frictions will persist` and that the United States will `seek self-sufficiency`
+该计划部分基于他的评估，即贸易摩擦将持续存在，美国将寻求自给自足
+
+The global economy is going to `bifurcate into` the U.S. bloc and the China bloc
+全球经济将分化为美国集团和中国集团
+
+China so `completely dominates` one key stage of the manufacturing process — converting the `oxides to metals` — and has so much `low-cost overcapacity` that companies elsewhere `are leery of investing` in their own facilities
+中国在制造过程的一个关键阶段——将氧化物转化为金属——完全占据主导地位，而且存在大量低成本过剩产能，因此其它国家的企业不敢投资自己的工厂
+
+We’re a long way off, We’re nowhere
+我们落后很多，我们什么进展也没有
