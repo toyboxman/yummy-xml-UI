@@ -90,3 +90,98 @@ The fact that these things are `proliferating` again at a time of `entrenched ec
 
 More debt may be `floating around` China’s corporate world and `goes untracked` if the notes are being traded for less than their `face value`
 如果这些欠条以低于面值的价格进行交易，那么中国企业界的流动债务可能更高，并且无法追踪
+
+The global economy is `under increasing stress as growth cools` and trade tensions `take a mounting toll`. On Wednesday, the `tremors` were felt worldwide.
+随着增长降温，贸易紧张关系导致全球经济受到的负面影响越来越大，全球经济受到的压力日益增加。周三，全世界各地都感受到了波动
+
+The `global backdrop` has slowed more than anticipated, We’re not `immune` to the slowdown.
+全球总体的放缓比人们预期要严重，我们也会受经济放缓的影响
+
+Economic data have `softened and are increasingly sending recession signals`, particularly from the industrial side
+经济数据疲软，并且在日益给出衰退信号，尤其是来自工业方面
+
+The president’s decision Tuesday to delay some `duties` on Chinese imports `was meant to soften the blow` to U.S. consumers, easing the `economic headwinds`
+总统周二推迟一些针对中国进口品加征关税的决定，意在减轻美国消费者受到的打击，缓和经济逆风
+
+One major factor in the slide is the `barrage` of trade threats that have `unsettled` Chinese consumers, discouraging them from buying `big-ticket goods`
+其中一个主要因素是接连不断的贸易威胁令中国消费者感到不安，不愿购买高价商品
+
+That is `a humbling experience` for Germany, which has `lectured other countries` on how to manage their economies and `scolded them` for having too much debt
+德国曾就如何管理本国经济教训其他国家，并指责这些国家背负了太多债务，这样的经济表现，对它来说显得非常丢脸
+
+That industrial downturn `weighed on growth`, in the United States and around the world. But `a full-blown recession never materialized`
+工业衰退给美国和世界各地的经济增长带来了压力。但一场全面的衰退并未成为现实
+
+as they try to `fend off regulation` and `avoid being broken up`, some of the largest companies in Silicon Valley `are tripping over` their Allbirds in a race to `cozy up to` the United States government
+硅谷一些最大的公司正试图避开监管，避免被拆分，它们脚蹬着Allbirds牌鞋子，在一场巴结美国政府的竞赛中纷纷绊倒
+
+`Either way`, the game is the same: Salute the flag, `save our bacon`.
+无论如何，玩都是同一套：向国旗敬礼，守卫我们的家园
+
+Mr. Thiel, who did not respond to a request for comment, `is far from` the only `tech titan` trading in his hoodie for `a flag pin`.
+蒂尔没有回应置评请求，但他绝不是唯一一个用连帽衫换国旗胸针的科技业巨子
+
+If we `fail to act`, we could soon see a digital currency controlled by others whose values are `dramatically different`
+如果我们不采取行动，我们可能很快就会看到被其他价值观截然不同的人所控制的数字货币
+
+He has spent much of the last decade `trying desperately to curry favor with` the Chinese government `in hopes of `getting Facebook’s apps — which are banned there — permission to operate in one of `the world’s most lucrative markets`
+过去10年的大部分时间里，他都在拼命讨好中国政府，希望能让Facebook的应用获准在中国这个全球最赚钱的市场之一运营——它在那里遭到了禁止
+
+Like Mr. Zuckerberg, Mr. Pichai was a China `booster` before he began `distancing himself from the country`
+像扎克伯格一样，在与中国保持距离前，皮查伊也一直是这个国家的支持者
+
+Amazon and Apple, two tech giants that love America so much that they have gone to `elaborate lengths to` avoid paying taxes to its Treasury, are also `promoting themselves as national champions`
+亚马逊和苹果这两大巨头如此之热爱美国，以至于他们极尽能事，就为了避免向财政部交税。它们也将自己宣传成“国家骄傲”
+
+`characterized` the tech industry’s scaremongering about China as a tactical move `meant to deflect criticism`.
+科技业渲染的中国恐怖论是一种策略，意在转移批评
+
+It’s a really `convenient narrative`, It `evokes nationalism` and `a red scare trope` that has worked in the past. And it implies that regulation, accountability and taking a pause to consider ethics would be `counter` to ‘winning.
+这种叙事用起来顺手，能撩拨民族主义，还能激起过去曾经奏效过的红色恐惧比喻。它还暗示，监管、问责、伦理反思这些都将对‘获胜’不利”
+
+There is `nothing inherently wrong with the belief` that America’s values are superior to those found in Shanghai and Shenzhen, or that American tech companies should `act in the country’s best interest`
+相信美国价值观优于上海、深圳的价值观，本身并没有错，相信美国科技企业的行动应当考虑到国家利益也没错
+
+Mr. Trump and his advisers are `staying on the sidelines`
+特朗普及其顾问都在作壁上观
+
+But as `violence escalates` and `old animosities are rekindled` across Asia, Washington has `chosen inaction`, and governments are ignoring the Trump administration’s `mild admonitions` and `calls for calm`
+但随着亚洲各地暴力丛生、敌意重燃，华盛顿选择不作为，各国政府也在无视特朗普政府不痛不痒的警告和保持冷静的呼吁
+
+Without `the steady centripetal force` of American diplomacy, disorder in Asia is `spinning` in all sorts of dangerous directions, `The net result` is not only increased risk of `regional turbulence`, but also long-term `corrosion of American influence`.
+没有了稳定的美国外交向心力，亚洲的混乱开始向各种危险的方向跑，最终结果不仅是地区动荡风险加剧，还有美国影响力长期遭到弱化
+
+South Korea and Japan have to sit down and `get along with each other`
+韩国和日本必须坐下来，好好相处
+
+But it was Mr. Trump who `escalated the Huawei affair`, turning `a discrete legal case` into `the showpiece` of his broader trade war
+但正是特朗普让华为事件升级，把一个独立的法律案件变成他的广泛贸易战的一件代表作
+
+Huawei did `commit intellectual property theft`, but it is also investing heavily in research and development
+华为的确侵犯了知识产权，但它也在大力投资研发
+
+Its supply contracts with American companies `amount to some $11 billion` a year. It `counts many foreign citizens on` its staff, including at senior levels
+它每年与美国公司签订的供货合同总额约为110亿美元。它的工作人员中有许多外国公民，包括高层人员
+
+it `stands for values` that should `resonate with` Americans, too: `a can-do attitude`, independent outlook and openness to the world
+它所代表的价值观：积极进取的态度、独立的观点、向全世界开放——这些同样也应该能够引起美国人的共鸣
+
+as the `trade war grinds on` — how long that strength will `last` and whether it will be enough to `blunt other headwinds`
+随着贸易战持续，这股力量能持续多久，是否足以减弱其他经济不利因素
+
+The company received `an unwelcome bit of publicity` last week
+上周，该公司收获了一些他们不太欢迎的曝光
+
+but it took `some maneuvering` to find her books
+但我花了些功夫才找到她的书
+
+I liked the song, `sad and heavy`, a contrast to the `propaganda music` we grew up with
+我喜欢这首歌，它悲伤而沉重，和我们从小听到的政治宣传音乐很不一样
+
+Her writing showed me, and continues to show me, that history, `vulnerable to` the attacks of misused and misleading language, can be protected by the language that `achieves the purity of truth`
+她的作品向我展示了，而且还在继续向我展示，历史容易遭到被误用和误导的语言的攻击，但是具有真理纯洁性的语言也可以保护它
+
+History can be `manipulated, whitewashed` and rewritten
+历史是可以被操纵、粉饰和重写的
+
+
