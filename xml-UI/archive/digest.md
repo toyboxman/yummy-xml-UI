@@ -19,11 +19,7 @@
 + [***System Monitor***](system-monitor/monitor.md)
     - [NetData性能监控](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=2&sn=6eeb1cc8c0b93a3de2b6428891a74f11)
 
-+ ***database***
-    - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
-    - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
-    - [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
-
++ [***database***](#database)
 + [***Kubernetes***](#kubernetes)
 + [***ElasticSearch***](#elasticsearch)
 
@@ -50,6 +46,14 @@
 + ***blog***    
     - [jayway](https://blog.jayway.com/)      
     -[资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
+
+#### database
+- [mysql](db/mySQL.md)
+- [postgres](db/PostgreSQL.md)
+- [oracle](db/oracle.md)
+ - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
+- [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
+- [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
 
 #### github
 github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github),   [code search语法](https://help.github.com/en/articles/searching-code)
@@ -132,6 +136,7 @@ done
     - [application entry](java/spring.md#bu2)
         - [Bootstrap Web Application ](https://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration)
         - [Shutdown Boot Application](https://www.baeldung.com/spring-boot-shutdown)
+        - [Run Boot Application](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html)
     - [best practices](java/spring.md#bubp)
 - [spring](java/spring.md)
     - [tutorials](https://github.com/eugenp/tutorials)
