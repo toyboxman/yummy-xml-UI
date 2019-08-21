@@ -27,6 +27,7 @@
     - System Management
         - [List System Details](#list-system-details)
         - [List Kernel Modules](#list-kernel-modules)
+            - [Kconfig/Kbuild](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=1&sn=74b41ef32688862b70a83ba350489970)
         - [List Services Port](#list-services-port)
         - [Top](#top)
         - [journalctl](#journalctl)
@@ -61,6 +62,7 @@
         - [Show IP/Name Pair In DNS](#nslookup-dig)
 - [Usual Command](#usual-command)
     - [Alias](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614821&idx=1&sn=2f38694271ec23361cd9cb34c042dbef)
+    - [List/ls](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614784&idx=1&sn=7057d99d5901a33a5329e17ceea8f9bf)
     - [Base64](#base64)
     - [Copy/Mkdir](#cp)
     - [Chmod](#chmod)
@@ -116,6 +118,7 @@
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Shell Programming](shell%20programming.md)
+    - [Shell Built-in Commands](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614778&idx=1&sn=0431d3c3dd54068af34b0d5a9ed3e2f9)
 - [Image Operation](#vm-image-operation)
 ---
 

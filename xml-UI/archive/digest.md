@@ -1,6 +1,8 @@
 + ***Linux***
     - [commands](Linux%20commands.md)
     - [git](git%20commands.md)
+    - [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
+    - [pdftk操作 PDF](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=4&sn=30aa0df34d11b8e3a246e5dae1aa5a2f)
     - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
     - 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
     - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
@@ -14,15 +16,17 @@
         - [head](scala/scala-head.md)
     - ***Python***
         - [basic](python/python-basic.md)
-    - [***Interview***](#interview)
 
 + [***System Monitor***](system-monitor/monitor.md)
     - [NetData性能监控](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=2&sn=6eeb1cc8c0b93a3de2b6428891a74f11)
+    - [分布式跟踪方案](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018739&idx=5&sn=9016fde08c6b83ac782d7cda427e70e5)
 
++ [***Architecture***](#architecture)
 + [***Database***](#database)
 + [***Docker***](#docker)
 + [***Kubernetes***](#kubernetes)
 + [***ElasticSearch***](#elasticsearch)
++ [***Interview***](#interview)
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
@@ -48,12 +52,29 @@
     - [jayway](https://blog.jayway.com/)      
     -[资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
 
+#### architecture
++ [开源的7大理念](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282238&idx=2&sn=ed204263aaab673d1537c61c1f209ec1)
++ [农行分布式架构](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282254&idx=2&sn=ddea3e87a3476aef1b8647b02c6256ef)
++ 构建微服务架构([**1**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485798&idx=1&sn=c644bcbd49b873a5220a2d82bfcbf17a), [**2**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485806&idx=1&sn=0afb17f3ced0b8ba29d4c48fad22e1e7), [**3**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485813&idx=1&sn=c4d1916782a09523ce77617c4959449a))
++ [技术选型](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017963&idx=1&sn=2f4da571976237ef4276f7afaced3c48)
++ [高并发系统的设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485740&idx=1&sn=df7b6f26efae178765841ae615b9b32d)
++ [数据迁移](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282269&idx=1&sn=05e22eff6aa577bab2c61fcd41c76991)
++ [分布式锁解读](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282212&idx=2&sn=71659867ed0415421219f8cbd581d0ec)
++ [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
++ [分页查询](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282168&idx=2&sn=0c3a2696ffbce577d91e9c523c697176)
+
 #### database
 + [mysql](db/mySQL.md)
+    - [MySQL规范](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=1&sn=09e5454c9531cff382920692b48980aa)
+    - [鸟瞰 MySQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=2&sn=fdcea4fd03456374f711ec9038330b5f)
+    -[理解SQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282207&idx=1&sn=13e5649852c7921fc513df7c94de1bb8)
+    -[MySQL union](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282197&idx=2&sn=f2308df403c486c45fb258b9824147a8)
     - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
     - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
 + [postgres](db/PostgreSQL.md)
 + [oracle](db/oracle.md)
++ [Sql Or NoSql](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216812&idx=2&sn=764739274dc0a21c89a60d8e72abe7a7)
++ [数据库减负](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282242&idx=2&sn=ec9eea12cb00f6122dcd466168eca1ca)
 + [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
 
 #### docker
@@ -122,6 +143,7 @@ curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1
 #### interview
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
 + [Q&A-spring](https://quizlet.com/306762411/baeldung-top-spring-framework-interview-questions-spring-core-flash-cards/)
++ [数据库面试题](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282156&idx=1&sn=89d95d07046eee418980ec7ed13ccb49)
 
 #### protobuf
 protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
