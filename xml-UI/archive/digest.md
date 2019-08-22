@@ -51,7 +51,7 @@
 
 + ***blog***    
     - [jayway](https://blog.jayway.com/)      
-    -[资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
+    - [资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
 
 #### architecture
 + [开源的7大理念](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282238&idx=2&sn=ed204263aaab673d1537c61c1f209ec1)
