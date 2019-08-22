@@ -14,7 +14,12 @@ service mysqld status
 #### 连接
 ```
 # mysql只有一个默认的root用户,密码为空,只允许localhost连接
+mysql -h localhost -u root
+# 如果设置过密码就需要使用-p指定密码
 mysql -h localhost -u root -ppassword
+
+# 在Ubuntu系统上root用户被禁用，因此需要通过sudo连接
+sudo mysql
 ```
 JDBC URI
 ```
@@ -30,21 +35,49 @@ jdbc:mysql://localhost:3306/test?user=root&amp;password=&amp;useUnicode=true&amp
 如果用root用户安装后，需要修改mysql登录密码
 ```
 # 1.先停止mysqld服务 
+# ubuntu上服务名是 service mysql status
 service mysqld stop
 # 2.启动安全模式
+# sudo mysqld_safe --skip-grant-tables --skip-networking &
 /usr/bin/mysqld_safe --skip-grant-tables
 # 3.通过mysql客户端登入 
-mysql              
+# 查看表结构 desc mysql.user;
+# 新版本mysql.user table 'password' column name改成'authentication_string'
+# 查看表数据 select host, user, authentication_string from user; 
+# 清空密码 UPDATE mysql.user SET authentication_string=PASSWORD('') WHERE User='root';
+$ mysql              
 mysql> UPDATE mysql.user SET Password=PASSWORD('MyNewPass') WHERE User='root';
 mysql> FLUSH PRIVILEGES;
 mysql> quit
 # 4.重启
-mysqld  service mysqld restart
+service mysqld restart
 # 5.使用密码登录
 mysql -u root -pMyNewPass dbname
 mysql> use dbname
 ```
-可以通过mysqlmanager来创建用户 可以通过mysqladmin来创建新数据库实例
+MySQL新旧版本认证方式有变化，因此上面修改密码方式可能需要修改
+```
+# root@localhost用户认证plugin默认是auth_socket不是mysql_native_password
+mysql> select host, user, authentication_string, plugin from mysql.user\G;
+*************************** 1. row ***************************
+                 host: localhost
+                 user: root
+authentication_string: *23AE809DDACAF96AF0FD78ED04B6A265E05AA257
+               plugin: auth_socket
+*************************** 2. row ***************************
+                 host: localhost
+                 user: mysql.session
+authentication_string: *THISISNOTAVALIDPASSWORDTHATCANBEUSEDHERE
+               plugin: mysql_native_password
+
+# 修改认证方式和密码
+# CREATE USER 'valerie'@'localhost' IDENTIFIED WITH auth_socket;
+# ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password;
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
+mysql> FLUSH PRIVILEGES;
+```
+通过mysqlmanager可以创建用户, 通过mysqladmin可以创建新数据库实例
 <br>
 客户端工具：***SQuirreL SQL Client***,   ***SQL Power Architect***
 #### 数据库配置
@@ -156,4 +189,7 @@ mysql>delete from MYTABLE;
 
 12:更新表中数据
 mysql>update MYTABLE set sex=”f” where name=’hyq’;
+
+13.查看SQL执行的错误
+mysql> show warnings;
 ```

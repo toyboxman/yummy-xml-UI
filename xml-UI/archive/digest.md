@@ -30,6 +30,7 @@
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
+    - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
 
 + [***notepad++***](#notepad)
 
@@ -164,6 +165,7 @@ done
         - [Bootstrap Web Application ](https://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration)
         - [Shutdown Boot Application](https://www.baeldung.com/spring-boot-shutdown)
         - [Run Boot Application](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html)
+    - [Tomcat configuration](https://www.baeldung.com/spring-boot-configure-tomcat)
     - [best practices](java/spring.md#bubp)
 - [spring](java/spring.md)
     - [tutorials](https://github.com/eugenp/tutorials)
@@ -225,6 +227,7 @@ kubectl get ds -n kube-system
 
 [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
+[诗经简史](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650477344&idx=1&sn=727f1c3e1b5f2bbf388247f9b639915d)
 
 #### GraphQL
 [工具和库 ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017395&idx=3&sn=ab0b3c87c20d4cdaad82321764195210)
