@@ -159,7 +159,9 @@ $ ldd /usr/bin/ls
 ```
 
 #### show Linux version
+查找 Linux 发行版[版本和内核详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614992&idx=2&sn=be38dea71cd45f28ac4664e8d1daeb01)
 ```bash
+$ cat /etc/*-release
 $ cat /etc/issue
 $ cat /proc/version
 $ uname -a

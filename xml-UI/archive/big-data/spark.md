@@ -94,6 +94,20 @@ Create an RDD through Parallelized Collection, more refer to [commands](https://
 scala> val no = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 scala> val noData = sc.parallelize(no)
 ```
+Submit a Scala job to Spark
+```
+# submit python task
+/opt/spark/bin/spark-submit --master yarn-client test.py
+
+# submit scala task
+/opt/spark/bin/spark-submit --master yarn-client --class "HelloWorld" path_to.jar
+# scala source
+object HelloWorld {
+    def main(args: Array[String]): Unit = {
+        println("Hello, world!")
+    }
+}
+```
 
 ####  ı”Ô∏≈ƒÓ
 
