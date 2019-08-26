@@ -80,9 +80,9 @@
 + [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
 
 #### bigdata
-+ [spark](#big-data/spark.md)
-+ [hadoop](#big-data/hadoop.md)
-+ [hive](#big-data/hive.md)
++ [spark](big-data/spark.md)
++ [hadoop](big-data/hadoop.md)
++ [hive](big-data/hive.md)
 
 #### docker
 + [docker](docker%20commands.md)
