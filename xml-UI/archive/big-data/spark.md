@@ -5,14 +5,21 @@
 ![Image of Stack](https://d1.awsstatic.com/Data%20Lake/what-is-apache-spark.b3a3099296936df595d9a7d3610f1a77ff0749df.PNG)
 
 SPARK核心分成四大块功能，分别对应机器学习，实时分析，非结构化数据查询和图处理。
++ Spark core – Foundation for data processing
++ Spark SQL – Based on Shark and helps in data extracting, loading and transformation
++ Spark streaming – Light API helps in batch processing and streaming of data
++ Machine learning library – Helps in machine learning algorithm implementation.
++ Graph Analytics(GraphX) – Helps in representing Resilient Distributed Graph
++ Spark Cassandra Connector
++ Spark R integration
 
 ![Image of Stack1](https://i2.wp.com/www.jenunderwood.com/wp-content/uploads/2016/10/SparkArchitecture-Databrickss.gif?ssl=1)
 
-SPARK集群可以对接各种数据源，如传统数据库，非结构化文本数据，消息队列等。集群可以通过云，容器编排系统，Hadoop集群来调度。
+SPARK集群可以对接各种数据源，如传统数据库，非结构化文本数据，消息队列等。集群可以通过云，容器编排系统，Hadoop集群来调度。Spark处理引擎与Hadoop data相适配，能处理data in HDFS, HBase, Cassandra, Hive, and any Hadoop InputFormat. 处理引擎可以做batch processing (similar to MapReduce)和streaming, interactive queries, and machine learning. 
 
-![Image of Arch](https://tekclasses.com/wp-content/uploads/2017/06/WHAT-IS-APACHE-SPARK-_-WHY-YOU-SHOULD-LEARN-IT-NOW.png)
+相比Spark架构，Hadoop作为大数据处理架构最大不足是MapReduce 只是一个native batch processing engine，而且Hadoop处理速度没有Spark快。除此之外，如今大数据处理要求兼具batch processing和real-time processing. 而Hadoop’s MapReduce仅能处理batch data，并且无法满足大数据处理low latency要求. 
 
-SPARK集群对实时数据的计算分析功能很突出。
+因而，将Spark跑在Hadoop之上，利用hybrid framework和resilient distributed dataset (RDD), 当运行Spark时候数据能存储于内存中来加速处理. 没有Spark的能力，Hadoop无法完成Real-time and faster data processing. 没有Hadoop的能力，Spark也无法使用其分布式文件系统来保存multi-petabytes的data. Spark本身是一个cluster computing system而不是data storage system，因此它需要通过外部数据源来读写data. 如果不需要使用HDFS上文件，数据源可以是local file system，也可以是no SQL database like Apache Cassandra or HBase or Amazon’s S3. 这种场景下运行Spark without Hadoop.
 
 #### 部署
 ![Image of Deploy](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97bc4145-21de-47f4-b1ef-12bd4635c47a.png)
@@ -20,6 +27,20 @@ SPARK集群对实时数据的计算分析功能很突出。
 SPARK集群主要包括master节点和很多worker节点。
 
 ![Image of Deploy1](http://aptuz.com/static/media/uploads/blog/hadoop_echosystem.png)
+
+三种方式来部署运行Spark in Hadoop cluster: Standalone, Over YARN, In MapReduce (SIMR)
+
++ Standalone Deployment
+
+极简方式，resources静态分配到Hadoop cluster所有nodes或者subsets of nodes. 并行运行Spark与MapReduce，Spark管理自己cluster. 这是Hadoop 1.x推荐部署方式
+
++ Over YARN Deployment
+
+这是Hadoop and Spark集成的简单方法，不需要pre-installation或admin配置. YARN是唯一安全的cluster manager，在大Hadoop cluster产品环境下是个好的部署选择
+
++ Spark In MapReduce (SIMR)
+
+这种方式下不需要YARN，Spark jobs可以在MapReduce中发起.
 
 #### 运行
 ![Image of Run1](https://sigmoid.com/wp-content/uploads/2015/03/Apache_Spark1.png)
@@ -35,7 +56,7 @@ SPARK集群主要包括master节点和很多worker节点。
 
 参考如下配置项 $SPARK_HOME/conf/spark-default.conf
 ```
-spark.master                    yarn-cluster
+spark.master                    yarn
 spark.serializer                org.apache.spark.serializer.KryoSerializer
 spark.yarn.jars                 hdfs:///home/spark_lib/*
 spark.yarn.dist.files		hdfs:///home/spark_conf/hive-site.xml
@@ -91,8 +112,18 @@ scala> :quit
 ```
 Create an RDD through Parallelized Collection, more refer to [commands](https://data-flair.training/blogs/scala-spark-shell-commands/)
 ```
+scala> import org.apache.spark.{SparkConf,SparkContext}
+
+//Create conf object
+scala> val conf = new SparkConf().setAppName("Count")
+// 默认一个jvm中只有一个context运行
+//scala> conf.set("spark.driver.allowMultipleContexts","true")
+//create spark context object
+scala> val sc = new SparkContext(conf)
+
 scala> val no = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 scala> val noData = sc.parallelize(no)
+scala> sc.stop
 ```
 Submit a Scala job to Spark
 ```
