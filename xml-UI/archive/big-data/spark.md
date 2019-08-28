@@ -111,6 +111,8 @@ scala> :help
 scala> :quit
 ```
 Create an RDD through Parallelized Collection, more refer to [commands](https://data-flair.training/blogs/scala-spark-shell-commands/)
+
+本地使用spark-shell时候需要先把Hadoop和Yarn的服务启动，[参考使用](https://github.com/apache/griffin/blob/master/griffin-doc/deploy/deploy-guide.md#hadoop)
 ```
 scala> import org.apache.spark.{SparkConf,SparkContext}
 
@@ -120,11 +122,59 @@ scala> val conf = new SparkConf().setAppName("Count")
 //scala> conf.set("spark.driver.allowMultipleContexts","true")
 //create spark context object
 scala> val sc = new SparkContext(conf)
+scala> sc
+res0: org.apache.spark.SparkContext = org.apache.spark.SparkContext@bc4a9b0
 
 scala> val no = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+no: Array[Int] = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 scala> val noData = sc.parallelize(no)
+noData: org.apache.spark.rdd.RDD[Int] = ParallelCollectionRDD[0] at parallelize at <console>:27
+
+// 将结果写入文件系统，后面发现'nodata.txt'是Hadoop的目录名
+scala> noData.saveAsTextFile("nodata.txt")
 scala> sc.stop
 ```
+通过Hadoop的命令来检查写入的文件
+```
+$ hdfs dfs -find / nodata*
+nodata.txt
+nodata.txt/_SUCCESS
+nodata.txt/part-00000
+nodata.txt/part-00001
+
+// 'nodata.txt'是目录不是文件
+$ hdfs dfs -cat nodata.txt
+cat: `nodata.txt': Is a directory
+
+// 空文件
+$ hdfs dfs -cat nodata.txt/_SUCCESS
+
+$ hdfs dfs -cat nodata.txt/part*
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+$ hdfs dfs -cat nodata.txt/part-00000
+1
+2
+3
+4
+5
+$ hdfs dfs -cat nodata.txt/part-00001
+6
+7
+8
+9
+10
+```
+
 Submit a Scala job to Spark
 ```
 # submit python task
