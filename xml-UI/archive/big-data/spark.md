@@ -127,6 +127,7 @@ res0: org.apache.spark.SparkContext = org.apache.spark.SparkContext@bc4a9b0
 
 scala> val no = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 no: Array[Int] = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+// 默认partition成2 parts,  sc.parallelize(no, 3)会partition成3 parts
 scala> val noData = sc.parallelize(no)
 noData: org.apache.spark.rdd.RDD[Int] = ParallelCollectionRDD[0] at parallelize at <console>:27
 
