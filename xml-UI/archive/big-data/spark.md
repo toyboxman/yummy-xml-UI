@@ -175,7 +175,7 @@ $ hdfs dfs -cat nodata.txt/part-00001
 9
 10
 ```
-每一个SparkContext有一个web UI, 默认访问地址 http://<driver-node>:4040, 用来显示application信息，包括scheduler stages/tasks/RDD sizes/memory usage/Environmental/running executors  [*spark application monitoring rest-api*](https://spark.apache.org/docs/latest/monitoring.html#rest-api)
+每一个SparkContext有一个web UI, 默认访问地址 http://driver-node:4040, 用来显示application信息，包括scheduler stages/tasks/RDD sizes/memory usage/Environmental/running executors  [*spark application monitoring rest-api*](https://spark.apache.org/docs/latest/monitoring.html#rest-api)
 
 如果多个SparkContexts运行在同一台host上, web服务会依次往后绑定端口4040 (4041, 4042, etc). 如果直接访问spark web服务失败，还可以通过Hadoop代理来访问 http://127.0.0.1:8088/proxy/application_1566972520413_0001/stages/
 
