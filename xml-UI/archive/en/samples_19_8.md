@@ -219,3 +219,72 @@ China so `completely dominates` one key stage of the manufacturing process — co
 
 We’re a long way off, We’re nowhere
 我们落后很多，我们什么进展也没有
+
+And there’s evidence that Beijing has been trying to `prop the currency up, rather than weaken it drastically`.
+有证据表明，中国政府一直在努力支撑人民币，而不是令人民币大幅贬值
+
+`By definition`, any analysis of the movements of China’s currency `is partly a guessing game`. 
+从本质上说，任何对人民币走势的分析在一定程度上都是猜谜游戏
+
+`for relatively straightforward reasons`: They’re designed to cut the exports of the country on which they’re `levied`, in this case China’s exports to the United States.
+原因相对简单：关税旨在削减被征收国的出口，在当前情况下，就是中国对美国的出口
+
+`A vicious cycle` can follow a falling currency
+货币贬值可能导致恶性循环
+
+`The dour outlook` for the economy may also be `prompting` some global investors to `pull money out of` China
+黯淡的经济前景也可能促使一些全球投资者将资金撤出中国
+
+A weakening renminbi itself can also `spur capital outflows` from wealthy Chinese seeking to protect their savings from `devaluation`
+人民币贬值本身也可能刺激中国富人的资本外流，他们希望保护自己的储蓄不受贬值影响
+
+China’s `stockpile of dollars` is another clue
+中国的美元储备是另一个线索
+
+The trade conflict between the United States and China has `become so caustic that` the two countries `cannot even agree` if they are talking.
+美中两国之间的贸易冲突已变得如此尖锐，以至于两国甚至无法就它们是否在谈判达成一致
+
+`The alleged overtures` would have come hours after Mr. Trump `raised tariffs on Chinese imports`
+这一所谓的示好到来前几小时，特朗普提高了对中国进口商品的关税
+
+President Trump `jolted markets` and `left world leaders scratching their heads` on Monday 
+这个说法震动了市场，也让其他世界领导人摸不着头脑
+
+The back and forth capped a `whiplash-inducing` 72 hours in the trade war 
+这番来回应对让贸易战中急速转变的72小时达到高潮
+
+It also left Mr. Trump’s `top economic aides` straining to back up the president without `contradicting him`
+它还让特朗普的最高经济助手在支持他的同时，竭力不和他的说法相矛盾
+
+Mr. Trump `has a long history of citing` telephone overtures from `unnamed callers to buttress an argument`
+特朗普一直爱引用不具体说明来电者是谁的电话示好来支持自己的论点
+
+The confusion over the China calls left commentators in the United States and China `grasping for answers` about whether one side was lying or if something was lost in translation
+中国来电一事造成的困惑，让美中两国的评论人士争相猜测，是一方在撒谎，还是翻译中漏掉了一些东西
+
+The two sides have been `keeping contact at technical level`, it doesn’t have `significance` that President Trump suggested
+双方在技术层面一直保持着联络，但没有特朗普总统所暗示的重大意义
+
+What he’s saying is, ‘Hey, I’ll deal.’ People are so `obtuse`
+他的意思是，‘嘿，我可以谈。’大家太迟钝了
+
+`stocks plunged` on Friday amid news that China and the United States were both `ratcheting up tariffs`
+中美提高关税的消息导致上周五股市暴跌
+
+some analysts said `the relatively modest uptick` showed that investors were not going to be `mollified` by Mr. Trump’s `offhand statements` given how quickly his views `tend to shift`
+有一些分析师表示，`有限的涨幅`表明，鉴于特朗普的观点往往多变，投资者不会因他随口一说而得到抚慰
+
+They are `paying less attention to remarks` that `lack specificity` from American officials
+他们不大重视美国官员语焉不详的言论
+
+Mr. Mnuchin and Mr. Kudlow are “`having much less effect on pumping the market` as they used to, and Trump as well,” 
+马努钦和库德洛“对推动市场方面的影响已不比过去，特朗普也是
+
+It makes short-term investing a nightmare and long-term investment `draining`
+这让短期投资像噩梦一样，并且让长期投资枯竭
+
+`The volatility` is unlikely to stabilize `anytime soon`. Mr. Trump `made clear this week that` he views his ability to `sow instability as a feature rather than a bug`
+这种波动性在短期内稳定下来的可能性不大。特朗普本周明确表示，他认为自己播下不稳定种子的能力是特色，而非缺陷
+
+`True enough`, and people often say that `China will never kill the goose that lays golden eggs`. But as Chris Patten once `dryly noted`, that `phrase came into existence` only because “history `is littered with the carcasses of decapitated geese`.”
+完全没错，人们也常说中国绝不会杀会生金蛋的鹅。但正如曾经冷冷地指出的，这个习语之所以存在，是因为“历史满是被砍头的鹅的尸体。”

@@ -473,6 +473,9 @@ public class AppConfig implements SchedulingConfigurer {
 #### aop
 Spring AOP提供对Aspect-Oriented Programming支持。参看Reference[[***1***](https://howtodoinjava.com/spring-aop-tutorial/), [***2***](https://www.baeldung.com/spring-aop-pointcut-tutorial)]
 
++ [Spring AOP  Proxying Mechanisms](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop-proxying)
++ [Spring AOP vs AspectJ](https://www.baeldung.com/spring-aop-vs-aspectj)
+
 <div id = "u3s1"></div>
 
 #### aspect bean injection
