@@ -17,6 +17,7 @@
 + [***notepad++***](#notepad)
 
 + ***http***
+	- [SSR](https://alligator.io/react/server-side-rendering/)
     - [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
     - [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 
