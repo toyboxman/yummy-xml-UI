@@ -506,6 +506,10 @@ git format-patch -1
 # 由于repo本身有索引，所以速度远快于grep
 # repo本身是树状，没有-r参数，默认全路径搜索
 git grep -in 'if(' ./
+
+# 相当于grep中 --include参数
+# 但后面不能指定路径参数否则出错
+git grep -in 'if(' -- '*.java' '*.cpp'
 ```
 
 ### git gc
