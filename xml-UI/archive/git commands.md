@@ -19,6 +19,7 @@
 - [git cherry-pick](#git-cherry-pick)
 - [git diff](#git-diff)
 - [git format-patch](#git-format-patch)
+- [git grep](#git-grep)
 - [git gc](#git-gc)
 - [git init](#git-init)
 - [gitk](#gitk)
@@ -497,6 +498,14 @@ git format-patch -1 HEAD
 
 # 在当前分支下为某一个提交(sha -1)打出补丁
 git format-patch -1   
+```
+
+### git grep
+```bash
+# 按照模式搜索repo中匹配的内容
+# 由于repo本身有索引，所以速度远快于grep
+# repo本身是树状，没有-r参数，默认全路径搜索
+git grep -in 'if(' ./
 ```
 
 ### git gc
