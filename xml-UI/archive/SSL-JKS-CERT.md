@@ -4,6 +4,7 @@
 ### *安全与加密*
 - [digital signature/certificate](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)
 - [证书颁发](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614310&idx=1&sn=23fd620702f241c8ff4eebd4d4ba0e92)
+- [凭据管理](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615016&idx=3&sn=4b27e31d86b7c58246dd4ac7fbb29923)
 
 ---
 

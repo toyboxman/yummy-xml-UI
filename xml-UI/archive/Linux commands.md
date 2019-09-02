@@ -1212,7 +1212,7 @@ dos2unix file
 ```
 
 #### Hd/Od
-hexdump, hd — ASCII, decimal, hexadecimal, octal dump   
+[hexdump, hd](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615031&idx=1&sn=a700b7e2c0c94ddc9d9a927a9add599f) — ASCII, decimal, hexadecimal, octal dump   
 od - dump files in octal and other formats
 ```bash
 # -c 输入字符串按字节逐个显示字符,offset中对应显示16进制格式 
@@ -1252,6 +1252,7 @@ echo xxxxxxCONTROL-V CONTROL-U | od -c
 #### sed
 > [中文sample](http://sed.sourceforge.net/sed1line_zh-CN.html)<br>
 > [流编辑器sed详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666544328&idx=1&sn=b83a92ab2f678052ac4c4faa3fb02ee7)<br>
+> [删除文件中的行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615008&idx=1&sn=40529d874b3634ce7c3587916e78c17d)<br>
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)
 ```bash
 # s 指令是substitute  g指令是global全局

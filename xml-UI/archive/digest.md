@@ -10,6 +10,7 @@
 + [***System Monitor***](system-monitor/monitor.md)
     - [NetData性能监控](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=2&sn=6eeb1cc8c0b93a3de2b6428891a74f11)
     - [分布式跟踪方案](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018739&idx=5&sn=9016fde08c6b83ac782d7cda427e70e5)
+    - [性能监控与负载测试工具](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655826410&idx=2&sn=e404e30a99be69ea91090bbb6bf276ec)
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
     - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
@@ -17,8 +18,10 @@
 + [***notepad++***](#notepad)
 
 + ***http***
-    - [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
-    - [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
+    + [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
+    + [login验证码](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217022&idx=2&sn=734636f29230bae68f77fc963fcdcdb9)
+    + [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
+    + [Node.js 进程与线程](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216926&idx=2&sn=e9d748a9b393b6b0d2e81d16cf194b80)
 
 + ***bench test***
     - [Geekbench测试不同公有云服务](https://www.ithome.com/0/431/894.htm)    
@@ -27,9 +30,11 @@
     - [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
     - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)   
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
+    - [你可能不需要微服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018984&idx=1&sn=3244a8b7bfcd224a53134862a40c96b9)
 
 + ***algorithm***
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
+    - [获取网络日志以发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
 
 + ***blog***    
     - [jayway](https://blog.jayway.com/)      
@@ -38,9 +43,11 @@
 #### Linux
 + [commands](Linux%20commands.md)
 + [git](git%20commands.md)
++ [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
 + [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
 + [pdftk操作 PDF](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=4&sn=30aa0df34d11b8e3a246e5dae1aa5a2f)
 + [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
++ [LiVES 视频编辑器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614985&idx=2&sn=a89937b425799b1d3fc24f30fda0c82c)
 + 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
 + Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
 
@@ -64,9 +71,11 @@
 + [分布式锁解读](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282212&idx=2&sn=71659867ed0415421219f8cbd581d0ec)
 + [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
 + [分页查询](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282168&idx=2&sn=0c3a2696ffbce577d91e9c523c697176)
++ [缓存三大问题及解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=2&sn=481704a1ce0e205aaf0ec67b668f5bfd)
 
 #### database
 + [mysql](db/mySQL.md)
+    - [MySQL入门](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282311&idx=2&sn=53994ae8d6421671a3e3e1f86cb47982)
     - [MySQL规范](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=1&sn=09e5454c9531cff382920692b48980aa)
     - [鸟瞰 MySQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=2&sn=fdcea4fd03456374f711ec9038330b5f)
     -[理解SQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282207&idx=1&sn=13e5649852c7921fc513df7c94de1bb8)
@@ -76,7 +85,9 @@
 + [postgres](db/PostgreSQL.md)
 + [oracle](db/oracle.md)
 + [Sql Or NoSql](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216812&idx=2&sn=764739274dc0a21c89a60d8e72abe7a7)
++ [SQL returns back](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=1&sn=07c106dd5a29eac18cd2aa6477a04714)
 + [数据库减负](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282242&idx=2&sn=ec9eea12cb00f6122dcd466168eca1ca)
++ [数据库中间件详解 ](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282330&idx=2&sn=993e620322085155f2544b895a3aa710)
 + [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
 
 #### bigdata
@@ -234,6 +245,7 @@ kubectl get ds -n kube-system
 [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
 [诗经简史](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650477344&idx=1&sn=727f1c3e1b5f2bbf388247f9b639915d)
+[古文十篇](https://mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657450567&idx=1&sn=d9292a4ff1acbbc8fe4f00c685557fec)
 
 #### GraphQL
 [工具和库 ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017395&idx=3&sn=ab0b3c87c20d4cdaad82321764195210)
