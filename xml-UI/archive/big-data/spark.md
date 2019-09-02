@@ -49,6 +49,10 @@ SPARK集群主要包括master节点和很多worker节点。
 
 ![Image of Run3](https://sdtimes.com/wp-content/uploads/2018/03/image7.png)
 
+![Image of Run4](https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram_Amazon-Kinesis-Data-Streams.074de94302fd60948e1ad070e425eeda73d350e7.png)
+
+Amazon Elastic MapReduce (EMR)是Amazon Web Services (AWS)大数据处理工具, 基于Apache Hadoop技术之上
+
 #### 使用
 - **setup Spark**
 
@@ -215,4 +219,10 @@ Spark 1.5之前, Spark SQL支持两种类型function来计算一个单独的返回值，Built-in fun
 但实际上这两种方式不足以满足所有需求，例如无法计算a group of rows后却仍旧为每一行数据返回一个值。这样限制使不同的data processing tasks变得困难，例如计算变化的平均值, 计算累计的合。但幸运的是Spark SQL的用户可以用window functions来解决这些困难。
 
 一个window function为一组数据行称为Frame中每一条数据计算返回值。每一个输入行都有唯一的frame与之关联。这个特性使window functions更加强大，能够表达更多很困难表示出来的数据处理任务。refer to [explanation](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
+
+##### Apache Sqoop
+[Sqoop](https://cwiki.apache.org/confluence/display/SQOOP/Home)是一个command-line interface应用，在relational databases和Hadoop之间转换数据
+
+##### BlinkDB
+[BlinkDB](http://blinkdb.org/) 是一个大规模并行的查询引擎，可以在超大规模的数据集上执行交互式SQL queries
 

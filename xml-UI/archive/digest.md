@@ -115,12 +115,12 @@ process in:file language:java extension:java
 还有[https://searchcode.com/](https://searchcode.com/)可以提供code search服务，不过以上都不完美无法达到grep效果
 
 #### java
-- [maven](java/mvn.md)
++ [maven](java/mvn.md)
     - [basic](https://github.com/eugenp/tutorials/tree/master/maven)
-- 变量搜索-[**codelf**](https://unbug.github.io/codelf/),  [介绍](https://zhuanlan.zhihu.com/p/53360901)
-- [protobuf](#protobuf)
-- [spring](#spring)
-- snippet
++ 变量搜索-[**codelf**](https://unbug.github.io/codelf/),  [介绍](https://zhuanlan.zhihu.com/p/53360901)
++ [protobuf](#protobuf)
++ [spring](#spring)
++ snippet  
     - [JDK command](java/JDK.md)
     - [tcp/udp](java/java-udp-tcp.md)
     - [stream2string](java/java-stream2string.md)
@@ -130,9 +130,12 @@ process in:file language:java extension:java
     - [decompile](java/java-decompile.md)
     - [convert](java/java-convert.md)
     - [annotation](java/java-annotation.md)
+        - annotation custom[[***1***](https://www.baeldung.com/java-custom-annotation), [***2***](https://www.javatpoint.com/java-annotation)]
     - [zk-election](java/ZK-leader_election.md)
     - [JPDA](java/JDI_JDWP_JPDA.md)
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
++ [javatpoint](https://www.javatpoint.com/java-tutorial)
++ [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
++ [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
 
 #### notepad++
 需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
@@ -177,7 +180,7 @@ done
 ```
 
 #### spring
-- [spring boot tutorials](https://www.tutorialspoint.com/spring_boot/spring_boot_quick_start.htm)
+- spring boot tutorials[[***1***](https://www.tutorialspoint.com/spring_boot/spring_boot_quick_start.htm), [***2***](https://www.mkyong.com/tutorials/spring-boot-tutorials/)]
     - [properties injection](java/spring.md#bu1)
     - [application entry](java/spring.md#bu2)
         - [Bootstrap Web Application ](https://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration)
