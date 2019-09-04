@@ -1,0 +1,2 @@
+However, vmware stock has collapsed lately. actually, vmware has been on a `REALITY CHECK` over the last months. You should not buy `one-trick pony` application software bubbles like SLACK etc.
+然而vmware的股票最近大跌，实际上其成为最近数月股市真实状况的事实检测。你不应该买那些一招鲜式公司的虚高泡沫股票
