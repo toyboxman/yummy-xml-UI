@@ -5,6 +5,7 @@
     - [Null/Nil/Nothing/Unit](#nullnilnothingunit)
     - [Option/Some/None](#optionsomenone)
     - [Def/Val](#defval)
+        - [val/var](https://data-flair.training/blogs/scala-variables/)
     - [classOf/isInstanceOf/asInstanceOf](#classofisinstanceofasinstanceof)
     - [String](#string)
     - [Head](scala-head.md)
@@ -14,7 +15,7 @@
 ***
 
 ## Basic Language Concepts
-基本语法规则参看[描述](https://data-flair.training/blogs/scala-syntax/)
+基本语法规则参看[scala-syntax](https://data-flair.training/blogs/scala-syntax/)
 
 <div id="21">
 
@@ -161,7 +162,8 @@ That didn't work.
 
 ### def/val
 - **def**: define method
-- **val**: define variable
+- **val**: define immutable variable
+- **var**: define mutable variable
 ```scala
 object HelloWorld {
     //Declaring methods
