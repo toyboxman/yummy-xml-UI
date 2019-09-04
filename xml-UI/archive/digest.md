@@ -140,6 +140,8 @@ process in:file language:java extension:java
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
 
 #### notepad++
++ replace
+
 需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
 ```
 curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
@@ -163,6 +165,10 @@ curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1
     "description":"measure description"  \
 }
 ```
+
++ plugin/JSTool
+
+用来格式化JS/JSON输入，JSMin用来把JavaScript代码minification，JSFormat可以将minification的代码还原
 
 #### interview
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
