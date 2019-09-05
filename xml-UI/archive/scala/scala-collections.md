@@ -1,6 +1,13 @@
 ***
 
 ## Use Collection
+Scala中集合类型关系图如下
+![Image of Collection](https://i.stack.imgur.com/2fjoA.png)
+
++ [Seq vs List](https://stackoverflow.com/questions/10866639/difference-between-a-seq-and-a-list-in-scala)
+
+站在Java角度, Scala's Seq(trait)就是Java's List接口, Scala's List(abstract class)就是Java's LinkedList实现, 但Scala's List是immutable, 此点与LinkedList不同. Seq是列数组类型的一个很好泛化接口, 有三种类型: *collection.Seq*, *collection.mutable.Seq*和*collection.immutable.Seq*, 最后一种是"default"使用类型. 还有*GenSeq*和*ParSeq*类型, 后者方法是做parallel处理, 前者是所有Seq, ParSeq的父类型.
+    
 
 ### Array/List/Set/Tuple/Map
 ```scala
@@ -22,7 +29,8 @@ object HelloWorld {
       
       //A tuple groups together simple logical collections of items without using a class.
       val tuple = ("localhost", 80)
-      //Unlike case classes, they don’t have named accessors, instead they have accessors that are named by their position and is 1-based rather than 0-based
+      //Unlike case classes, they don’t have named accessors, instead they have accessors 
+      //that are named by their position and is 1-based rather than 0-based
       println(tuple._1)  // localhost
       println(tuple._2)  // 80
       
