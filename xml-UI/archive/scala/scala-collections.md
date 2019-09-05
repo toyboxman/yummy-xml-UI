@@ -10,6 +10,7 @@ Scala中集合类型关系图如下
     
 
 ### Array/List/Set/Tuple/Map
++ [scala-list](https://data-flair.training/blogs/scala-list/)
 ```scala
 object HelloWorld {
    println("Hello, world")
