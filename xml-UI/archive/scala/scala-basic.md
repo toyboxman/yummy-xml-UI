@@ -4,6 +4,7 @@
     - [Extends/With](#21)
         - [Upper Type Bounds <:](https://docs.scala-lang.org/tour/upper-type-bounds.html)
         - [Lower Type Bounds >:](https://docs.scala-lang.org/tour/lower-type-bounds.html)
+        - [Advanced Type Bounds](https://twitter.github.io/scala_school/advanced-types.html#otherbounds)
     - [Implicit](#22)
     - [Null/Nil/Nothing/Unit](#nullnilnothingunit)
     - [Option/Some/None](#optionsomenone)
@@ -13,6 +14,7 @@
     - [String](#string)
     - [Head](scala-head.md)
     - [Collection](scala-collections.md)
+        - [Seq +:/++:/:+/:++](https://docs.scala-lang.org/zh-cn/overviews/collections/seqs.html)
 - [Scala Compile](#scala-compile)
 - [Samples](#scala-samples)
 ***
