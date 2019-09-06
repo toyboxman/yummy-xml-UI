@@ -18,6 +18,7 @@
 ## Basic Language Concepts
 基本语法规则参看
 > [scala-syntax](https://data-flair.training/blogs/scala-syntax/)
+
 > [tour-of-scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
 
 <div id="21">
