@@ -1,4 +1,5 @@
 - [Basic Language Concepts](#basic-language-concepts)
+    - [Keywords/Symbols](https://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html)
     - [Object/Case Class/Trait](#11)
         - [Companion object](#111)
     - [Extends/With](#21)
