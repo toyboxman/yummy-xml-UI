@@ -2,6 +2,8 @@
     - [Object/Case Class/Trait](#11)
         - [Companion object](#111)
     - [Extends/With](#21)
+        - [Upper Type Bounds <:](https://docs.scala-lang.org/tour/upper-type-bounds.html)
+        - [Lower Type Bounds >:](https://docs.scala-lang.org/tour/lower-type-bounds.html)
     - [Implicit](#22)
     - [Null/Nil/Nothing/Unit](#nullnilnothingunit)
     - [Option/Some/None](#optionsomenone)
