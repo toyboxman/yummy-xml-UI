@@ -1,5 +1,6 @@
 - [Basic Language Concepts](#basic-language-concepts)
-    - [Object/Case Class/Trait](#objectcase-classtrait)
+    - [Object/Case Class/Trait](#11)
+        - [Companion object](#111)
     - [Extends/With](#21)
     - [Implicit](#22)
     - [Null/Nil/Nothing/Unit](#nullnilnothingunit)
@@ -292,6 +293,8 @@ object HelloWorld{
 }
 ```
 
+<div id="11">
+
 ### Object/Case Class/Trait
 * *Object*  
 简单说就是单例类(singleton class), 类似于Java中Enum，只存在一个实例。一个用处是封装一些与上下文无关的fields和methods，还有用处是作为其他class对象的创建工厂。参看[说明](https://en.wikibooks.org/wiki/Scala/Objects)
@@ -379,6 +382,37 @@ object Page {
         println(result)  // Introduction
     }
 }
+```
+
+<div id="111">
+
+### Companion object
+Scala中会将a class/trait和an object在同一个文件中定义成相同name, 但the object并不extend the trait/class. 伴生对象可以访问class和 trait中的private域和方法，如下代码示例
++ trait
+```
+trait Simple {
+private def line = "Line"
+}
+
+object Simple {
+val objTrait = new Simple{}
+def lineObj=objTrait.line
+}
+
+Simple.lineObj
+```
++ class
+```
+class Simple {
+private def line = "Line"
+}
+
+object Simple {
+val objTrait = new Simple{}
+def lineObj=objTrait.line
+}
+
+Simple.lineObj
 ```
 
 ## Scala Compile
