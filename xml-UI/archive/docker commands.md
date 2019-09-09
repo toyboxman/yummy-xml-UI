@@ -65,6 +65,12 @@ $ docker image ls
 
 # search default image hub
 $ docker search <NAME>
+# 'docker search' executes rest api, n=page_size, page, q=<NAME>
+$ curl 'https://index.docker.io/v1/search?q=griffin&n=5&page=2'
+# get Bearer Authentication token
+$ curl 'https://auth.docker.io/token'
+# access docker registry
+$ curl 'https://registry-1.docker.io/v2/' -H 'Authorization: Bearer <TOKEN>'
 
 # pull registry image to local repo /var/lib/docker/btrfs/subvolumes
 $ docker pull java
