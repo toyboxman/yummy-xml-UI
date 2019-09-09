@@ -75,6 +75,12 @@ $ docker pull registry.docker-cn.com/library/golang
 # remove image forcibly
 $ docker rmi -f <NAME | ID>  
 
+# export image
+$ docker save nginx > /tmp/nginx.tgz
+
+# import image
+$ docker load < /tmp/nginx.tgz
+
 # create container instance with name 'jdk-dev', tty interaction using image 'java' and start
 $ docker run --name jdk-dev -it java  
 # create container instance using golang image with detached mode
