@@ -86,6 +86,7 @@
     - [Netstat](#netstat)
     - [Nohup](#nohup)
     - [Pstree](#pstree)
+    - [Rename](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615055&idx=1&sn=c8f1ffb240295d14dad745757f7be12b)
     - [SSH](#ssh)
     - [OpenSSL](SSL-JKS-CERT.md#show-certificate)
     - [GPG](SSL-JKS-CERT.md#gpg)
