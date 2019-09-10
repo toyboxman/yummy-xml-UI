@@ -84,7 +84,7 @@
         ```
         Authorization: Bearer <token>
         ```
-        令牌是加密字符串, 常由server端产生，通过login request的response会给client. client后续requests必须在Authorization header带上此token
+        令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token
 
 + [Chrome前端调试](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485526&idx=1&sn=019654aaa0c314886cc6fd6e1fe0e174)
 + [SSR](https://alligator.io/react/server-side-rendering/)
