@@ -71,13 +71,19 @@
 + [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 + [Authentication](https://swagger.io/docs/specification/authentication/)
     - Basic Authentication
+
         一种简单的内置于HTTP协议中认证办法.客户端发送携带Authorization header的HTTP requests，header包含base64-encoded字符串'username:password',如下样式
-        ```Authorization: Basic ZGVtbzpwQDU1dzByZA==```
+        ```
+        Authorization: Basic ZGVtbzpwQDU1dzByZA==
+        ```
         因为base64字符串易于被解码,这种认证授权方式应该与其他安全机制配合使用，如HTTPS/SSL.
+
     - Bearer Authentication
+
         也称为token authentication，是包含安全令牌(bearer tokens)的HTTP认证方法. 名字意思就是“赋予令牌携带者访问权” 样式如下
         ```Authorization: Bearer <token>```
         令牌是加密字符串, 常由server端产生，通过login request的response会给client. client后续requests必须在Authorization header带上此token
+
 + [Chrome前端调试](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485526&idx=1&sn=019654aaa0c314886cc6fd6e1fe0e174)
 + [SSR](https://alligator.io/react/server-side-rendering/)
 + [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485542&idx=2&sn=ecf1410ffa2e68ca626a1b98b7faf5f2)
