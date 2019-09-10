@@ -60,6 +60,9 @@
     - [head](scala/scala-head.md)
 + ***Python***
     - [basic](python/python-basic.md)
++ [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
++ ***Algorithm***
+    - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
 
 #### Web
 + [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
@@ -68,6 +71,7 @@
 + [Minification](https://en.wikipedia.org/wiki/Minification_(programming))
 + [js/html beautifier](https://beautifier.io/)
 + [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
++ [http基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md#%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 + [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 + [Authentication](https://swagger.io/docs/specification/authentication/)
     - Basic Authentication
@@ -100,6 +104,8 @@
 + [技术选型](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017963&idx=1&sn=2f4da571976237ef4276f7afaced3c48)
 + [高并发系统的设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485740&idx=1&sn=df7b6f26efae178765841ae615b9b32d)
 + [数据迁移](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282269&idx=1&sn=05e22eff6aa577bab2c61fcd41c76991)
++ [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
++ [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)
 + [分布式锁解读](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282212&idx=2&sn=71659867ed0415421219f8cbd581d0ec)
 + [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
 + [分页查询](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282168&idx=2&sn=0c3a2696ffbce577d91e9c523c697176)
@@ -117,11 +123,15 @@
     - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
 + [postgres](db/PostgreSQL.md)
 + [oracle](db/oracle.md)
++ [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
++ [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)
++ [SQL基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
 + [Sql Or NoSql](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216812&idx=2&sn=764739274dc0a21c89a60d8e72abe7a7)
 + [SQL returns back](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=1&sn=07c106dd5a29eac18cd2aa6477a04714)
 + [数据库减负](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282242&idx=2&sn=ec9eea12cb00f6122dcd466168eca1ca)
 + [数据库中间件详解 ](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282330&idx=2&sn=993e620322085155f2544b895a3aa710)
 + [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
++ [Leetcode-Database](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)
 
 #### bigdata
 + [spark](big-data/spark.md)
