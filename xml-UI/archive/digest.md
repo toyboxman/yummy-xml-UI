@@ -28,10 +28,6 @@
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
     - [你可能不需要微服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018984&idx=1&sn=3244a8b7bfcd224a53134862a40c96b9)
 
-+ ***algorithm***
-    - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
-    - [获取网络日志以发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
-
 + ***blog***    
     - [jayway](https://blog.jayway.com/)      
     - [资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
@@ -63,6 +59,8 @@
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + ***Algorithm***
     - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
+    - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
+    - [获取网络日志发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
 
 #### Web
 + [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
