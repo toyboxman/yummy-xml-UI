@@ -12,6 +12,7 @@
 	- [jmap](#jmap)
 	- [jinfo](#jinfo)
 	- [jstat](#jstat)
+    - [javap](#javap)
 
 ***
 
@@ -229,8 +230,8 @@ java.vm.version = 1.6.0-rc-b100
 > jinfo $JAVA_HOME/bin/java core.29620
 ```
 #### jstat
+查看及诊断当前jvm实例的性能问题
 ```bash 
-#查看及诊断当前jvm实例的性能问题
 #Samples for Generation Collection
 # 2834 is process id
 # 250 is time period
@@ -267,4 +268,18 @@ Timestamp    OGCMN     OGCMX       OGC        OC   YGC   FGC     FGCT     GCT
 > jstat -options	
 ```
 
-greys
+#### javap
+反汇编字节码文件
+```bash
+# -s Print internal type signatures
+> javap -s java.lang.String | less
+
+# disassemble HelloWorld.class
+> javap HelloWorld
+
+# -v Print more details of instruments
+# -p Print private fields/methods
+> javap -v -p HelloWorld
+```
+
+### github greys

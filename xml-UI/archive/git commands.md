@@ -294,7 +294,7 @@ git checkout dev -- Run.java
 # 从某个commit中获取Run.java，覆盖本地分支文件
 git checkout 0d1d7fc32 -- Run.java 
 
-# 从dev分支中获取src目录下所有文件，覆盖本地分支文件
+# 从dev分支中获取./java/src目录下所有文件，新建或覆盖本地分支./java/src/下文件
 git checkout dev -- ./java/src/
 ```
 

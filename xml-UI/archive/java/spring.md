@@ -509,12 +509,19 @@ public class MyclassAspect {
 [**CrudRepository, JpaRepository, and PagingAndSortingRepository**](https://www.baeldung.com/spring-data-repositories)是主要几种仓库类型，其中[CrudRepository](https://www.baeldung.com/spring-data-crud-repository-save) 是generic CRUD operations类型，它提供多种容器外(out of the box)方法来与数据库交互
 
 ### Troubleshooting
-<div id = "t1"></div>
+<div id = "ts1"></div>
 
 #### NoUniqueBeanDefinitionException
 如果给定的类型存在多个bean实例，在做依赖注入时候你需要告诉Spring容器要使用哪一个bean实例。如果没有指定Spring会throw a NoUniqueBeanDefinitionException，告诉你容器不知道应该注入哪一个bean实例
 
 有两种方式来指定注入bean实例，使用@Primary标签，它会告诉Spring容器primary bean实例在autowire时候优先其他实例。或使用@Qualifier标签，它能告诉Spring你要注入bean实例的name。默认情况下bean实例引用name是首字母小写的class name[引文](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
+
+<div id = "ts2"></div>
+
+#### NoSuchBeanDefinitionException
+[**NoSuchBeanDefinitionException**](https://www.baeldung.com/spring-nosuchbeandefinitionexception)是一种常见的注入错误，常常由于找不到bean实例,或者class定义找不到而产生。
+
+但有时候也会由于bean创建先后顺序而产生，例如bean1先于bean2创建，bean1定义中autowire了bean2，这个时候也会产生这样错误。解决办法就是让bean1*@lazy* autowire bean2，或者[指定加载顺序](#u2s1)
 
 ### Unit Test
 <div id = "ut1"></div>

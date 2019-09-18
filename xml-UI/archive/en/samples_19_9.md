@@ -43,3 +43,5 @@ She `absorbed the lesson` that `ruthlessness is the sine qua non` of authoritari
 Bruce Xu’s factory in southern China produces just about `the most all-American footwear` there is: `real leather` cowboy boots, `complete with generous heels` and `expressive stitching up the sides`
 布鲁斯在中国南方的工厂生产的，是一种最具美国特色的鞋：真皮牛仔靴，粗高跟，侧面有富有表现力的缝线
 
+`Anti-sweatshop` activists praise Mr Charney as a pioneer of the fair treatment of garment workers.
+反“血汗工厂”活动人士称赞恰尼为制衣工人提供公平待遇的做法在业界起到表率作用
