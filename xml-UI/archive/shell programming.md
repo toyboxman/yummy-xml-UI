@@ -8,6 +8,7 @@
 ### *Following content is about shell programming*
 - [bash调试](#shell脚本调试方法)
 - [默认变量](#built-in-variables)
+    + [在 Linux 中使用变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615147&idx=3&sn=97d593103d55ccbb62f1b11993fb7e2b)
 - [变量赋值](#变量赋值)
 - [括号](#括号-双括号-中括号-双中括号)
 - [数值比较](#数值比较)

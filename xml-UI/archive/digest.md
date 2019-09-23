@@ -12,6 +12,7 @@
     - [NetData性能监控](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=2&sn=6eeb1cc8c0b93a3de2b6428891a74f11)
     - [分布式跟踪方案](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018739&idx=5&sn=9016fde08c6b83ac782d7cda427e70e5)
     - [性能监控与负载测试工具](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655826410&idx=2&sn=e404e30a99be69ea91090bbb6bf276ec)
+    - [从 SAR 报告中获取 CPU 和内存使用情况](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615155&idx=4&sn=d2527a658c57aa81ed3bd688c989b342)
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
@@ -41,6 +42,7 @@
     + [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
 + [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
 + [发现截断的数据项](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=3&sn=6f51206fd04451ad879fd44d7bb3d9d3)
++ [Linux 内核的五大创新](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=1&sn=93ea4bc3d9506f445b736bb12a5adecd)
 + [pdftk操作 PDF](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=4&sn=30aa0df34d11b8e3a246e5dae1aa5a2f)
 + [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
 + [LiVES 视频编辑器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614985&idx=2&sn=a89937b425799b1d3fc24f30fda0c82c)
@@ -56,6 +58,8 @@
     - [head](scala/scala-head.md)
 + ***Python***
     - [basic](python/python-basic.md)
+    - [Python代替Excel](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217203&idx=3&sn=038247853987b685add5298ce8314a10)
+    - [Pandas数据操作](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217294&idx=2&sn=70bc94cc6a6da5823bca73d2262aa645)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + ***Algorithm***
     - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
@@ -94,8 +98,10 @@
 + [Node.js 进程与线程](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216926&idx=2&sn=e9d748a9b393b6b0d2e81d16cf194b80)
 + [前端开发 20 年变迁史](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485492&idx=1&sn=61b30d5573573580357c809e5a187329)
 + [JS中重要api实现](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485500&idx=1&sn=45b0e7a9025ee98c8355d5f2035d4cd2)
++ [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615192&idx=2&sn=d411c88807d9753c0274041e986ad119)
 
 #### Architecture
++ [漫画中台](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217263&idx=2&sn=538709da2248a8c82a6d18dceab0d920)
 + [开源的7大理念](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282238&idx=2&sn=ed204263aaab673d1537c61c1f209ec1)
 + [农行分布式架构](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282254&idx=2&sn=ddea3e87a3476aef1b8647b02c6256ef)
 + 构建微服务架构([**1**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485798&idx=1&sn=c644bcbd49b873a5220a2d82bfcbf17a), [**2**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485806&idx=1&sn=0afb17f3ced0b8ba29d4c48fad22e1e7), [**3**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485813&idx=1&sn=c4d1916782a09523ce77617c4959449a))
@@ -121,7 +127,9 @@
     - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
 + [postgres](db/PostgreSQL.md)
 + [oracle](db/oracle.md)
+    - [Persistent Memory Store](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=2&sn=c2a3ea86e98a0d79c786cd9962b3f87e)
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
+    - [Redis复制原理](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282436&idx=1&sn=8c3aedf4844fd0d209cf7ac624661fd8)
 + [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)
 + [SQL基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
 + [Sql Or NoSql](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216812&idx=2&sn=764739274dc0a21c89a60d8e72abe7a7)
@@ -129,6 +137,7 @@
 + [数据库减负](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282242&idx=2&sn=ec9eea12cb00f6122dcd466168eca1ca)
 + [数据库中间件详解 ](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282330&idx=2&sn=993e620322085155f2544b895a3aa710)
 + [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
++ [数据建模工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=1&sn=90b5214abd6fae7f28b3ea775c830549)
 + [Leetcode-Database](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)
 
 #### bigdata
@@ -142,6 +151,9 @@
     - [Docker从入门到实践](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
 
 #### github
++ [12306 抢票项目](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019389&idx=6&sn=cb48d93961b148521493d7c3ef34fb68)
++ [netease-music](https://github.com/mbinary/netease-music-cracker)
+
 github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github),   [code search语法](https://help.github.com/en/articles/searching-code)
 ```
 # 从java语言的项目(language:java)中

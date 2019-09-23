@@ -24,6 +24,7 @@
         - [List All Users](#list-all-users) 
         - [Add New Users](#add-new-users)
         - [sudo](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig) 
+        - [设置安全保护](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446013&idx=1&sn=a06b5f2554c8a6fc6bbc62d847994ab2)
     - System Management
         - [List System Details](#list-system-details)
         - [List Kernel Modules](#list-kernel-modules)
@@ -55,6 +56,7 @@
         - [Firewall](#iptablesfirewall)
         - [NC](#nc)
         - [Ping](#pingarping)
+        - [ss-Socket Statistics](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446033&idx=2&sn=90e6f8a4dbc9cc7259014859e519bbdf)
         - [Nmap](#nmap)
         - [Tcpdump](#tcpdump)
         - [Dhclient](#dhclient)
@@ -72,6 +74,7 @@
     - [Checksum](#checksum)
     - [Crontab](#crontab)
     - [Curl](#curl)
+        - [HTTPie替换curl/wget](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615121&idx=2&sn=c8882c19b56d6aaa5a6f4a058cd21518)
     - [Download](#download)
     - [Env](#env)
     - [Find](#find)
@@ -79,8 +82,10 @@
     - [Grep](#search-txt)
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
+    - [History](#history)
     - [Link/ln](#ln)
     - [Man](#man)
+        - [cheat/tldr](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446027&idx=1&sn=6c2a457270a42ef03392a9f142ae55d4)
     - [Make](#make)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
@@ -655,6 +660,20 @@ $ find /home -user king -exec file {} \;
 
 # remove all files with 'tgz' suffix found
 $ find / -iname '*.tgz' -exec rm {} \;
+```
+
+#### history
+list系统执行过的命令
+```bash
+# 执行过最后30条命令中的ssh
+$ history 30 | grep ssh
+
+# 执行第15条命令
+$ history
+$ !15
+
+# 执行倒数第二条命令
+$ !-2
 ```
 
 #### cp
@@ -1254,6 +1273,7 @@ echo xxxxxxCONTROL-V CONTROL-U | od -c
 > [中文sample](http://sed.sourceforge.net/sed1line_zh-CN.html)<br>
 > [流编辑器sed详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666544328&idx=1&sn=b83a92ab2f678052ac4c4faa3fb02ee7)<br>
 > [删除文件中的行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615008&idx=1&sn=40529d874b3634ce7c3587916e78c17d)<br>
+> [查找和替换文件中的字符串的 16 个示例](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=2&sn=35b89d57c5fc46d461f9cb0cb95d7de1)<br>
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)
 ```bash
 # s 指令是substitute  g指令是global全局
