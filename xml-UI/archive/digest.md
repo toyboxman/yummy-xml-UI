@@ -3,6 +3,7 @@
 + [***Architecture***](#architecture)
 + [***Database***](#database)
 + [***BigData***](#bigdata)
++ [***Machine Learning***](#machinelearning)
 + [***Docker***](#docker)
 + [***Kubernetes***](#kubernetes)
 + [***ElasticSearch***](#elasticsearch)
@@ -144,6 +145,10 @@
 + [spark](big-data/spark.md)
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
+
+#### machine learning
++ [± º«](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
+    - [± º«ΩÈ…‹](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770249&idx=2&sn=f7042c0c07074046e1ec3436c2bba0c0)
 
 #### docker
 + [docker](docker%20commands.md)
