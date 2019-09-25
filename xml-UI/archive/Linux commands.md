@@ -827,6 +827,11 @@ open.sh:send ": debug os-shell\n"
 
 # Filtering all lines excluding 'www' or 'ftp'
 grep -vE "(www|ftp)"
+
+# 查找时间戳大于某个时间的日志
+$ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:40"'
+# 查找某个时间段的日志
+$ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" '
 ```
 ##### grep regular symbol
   Symbol      | Result

@@ -180,6 +180,8 @@ process in:file language:java extension:java
 + [spring](#spring)
 + snippet  
     - [JDK command](java/JDK.md)
+    - [string](java/java-string.md)
+    - [threadlocal](java/java-thread-local.md)
     - [tcp/udp](java/java-udp-tcp.md)
     - [stream2string](java/java-stream2string.md)
     - [reflection](java/java-reflection.md)
