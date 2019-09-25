@@ -102,6 +102,7 @@
 + [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615192&idx=2&sn=d411c88807d9753c0274041e986ad119)
 
 #### Architecture
++ [二进制世界](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217312&idx=2&sn=f50f973c3530af9c24cd6e46701481a3)
 + [漫画中台](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217263&idx=2&sn=538709da2248a8c82a6d18dceab0d920)
 + [开源的7大理念](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282238&idx=2&sn=ed204263aaab673d1537c61c1f209ec1)
 + [农行分布式架构](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282254&idx=2&sn=ddea3e87a3476aef1b8647b02c6256ef)
@@ -135,6 +136,7 @@
 + [SQL基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
 + [Sql Or NoSql](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216812&idx=2&sn=764739274dc0a21c89a60d8e72abe7a7)
 + [SQL returns back](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=1&sn=07c106dd5a29eac18cd2aa6477a04714)
++ [group by慢查询优化](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282530&idx=2&sn=56dea4f765888809b45f03e73c2dec01)
 + [数据库减负](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282242&idx=2&sn=ec9eea12cb00f6122dcd466168eca1ca)
 + [数据库中间件详解 ](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282330&idx=2&sn=993e620322085155f2544b895a3aa710)
 + [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    

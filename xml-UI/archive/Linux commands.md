@@ -49,6 +49,7 @@
         - [lsof](#lsof)
         - [stat/getfacl/setfacl](#statgetfaclsetfacl)
         - [iotop/iostat](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w)    
+        - [dstat/ioping/atop](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615220&idx=5&sn=35d401f16c00f2114c3f7bd781d38393)
     - Device Management
         - [ZERO/NULL](#device)
     - [Network Management](#network-config)        
@@ -84,6 +85,7 @@
     - [Gzip](#gzip)
     - [History](#history)
     - [Link/ln](#ln)
+        + [unlink](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615210&idx=4&sn=bd2ecde9e068650688fb389e27897162)
     - [Man](#man)
         - [cheat/tldr](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446027&idx=1&sn=6c2a457270a42ef03392a9f142ae55d4)
     - [Make](#make)
