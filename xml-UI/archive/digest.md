@@ -68,14 +68,6 @@
     - [获取网络日志发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
 
 #### Web
-+ [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
-+ [login验证码](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217022&idx=2&sn=734636f29230bae68f77fc963fcdcdb9)
-+ [浏览器缓存机制](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217039&idx=2&sn=318df329b8711066e97f026468ccd24a)
-+ [Minification](https://en.wikipedia.org/wiki/Minification_(programming))
-+ [js/html beautifier](https://beautifier.io/)
-+ [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
-+ [http基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md#%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
-+ [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 + [Authentication](https://swagger.io/docs/specification/authentication/)
     - Basic Authentication
 
@@ -91,8 +83,16 @@
         ```
         Authorization: Bearer <token>
         ```
-        令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token
-
+        令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
+        与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
++ [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
++ [login验证码](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217022&idx=2&sn=734636f29230bae68f77fc963fcdcdb9)
++ [浏览器缓存机制](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217039&idx=2&sn=318df329b8711066e97f026468ccd24a)
++ [Minification](https://en.wikipedia.org/wiki/Minification_(programming))
++ [js/html beautifier](https://beautifier.io/)
++ [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
++ [http基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md#%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
++ [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 + [Chrome前端调试](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485526&idx=1&sn=019654aaa0c314886cc6fd6e1fe0e174)
 + [SSR](https://alligator.io/react/server-side-rendering/)
 + [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485542&idx=2&sn=ecf1410ffa2e68ca626a1b98b7faf5f2)
