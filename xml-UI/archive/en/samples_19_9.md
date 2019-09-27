@@ -45,3 +45,93 @@ Bruce Xu’s factory in southern China produces just about `the most all-American
 
 `Anti-sweatshop` activists praise Mr Charney as a pioneer of the fair treatment of garment workers.
 反“血汗工厂”活动人士称赞恰尼为制衣工人提供公平待遇的做法在业界起到表率作用
+
+China is `funneling vast amounts of public and private data into` huge databases aimed at tightening its control over its nearly 1.4 billion people
+中国正将海量公共和私有数据输入一个庞大数据库，意在加强对近14亿人口的控制
+
+Beijing is `increasingly amassing information` now divided among various government agencies and industry associations — including `court decisions`, payroll data, environmental records, copyright violations
+北京正不断集聚现分散在各政府机构和行业协会的数据——包括法院判决、薪资数据、环境记录、侵权行为
+
+It was aimed at `replicating the credit scoring system` common in the United States and other places, as well as `taming behavior` in a country where `laws are inconsistently enforced`
+计划旨在照搬美国及其他地方常见的信用得分体系，并在一个执法不一致的国家驯服人们的行为
+
+Competing, inefficient government ministries `hinder enforcement`. Local governments `shelter powerful businesses`. The result has been `widespread pollution, rampant violations of labor laws` and other problems.
+政府部门之间相互竞争、效率低下，阻碍了执法。地方政府也会袒护强大的企业。结果造成污染泛滥、违反劳动法行为猖獗及其他问题
+
+Ms. Fei said that for years her family’s silk factory had been `given dispensation to break environmental rules` by local government authorities `eager for` economic growth
+急于发展经济的地方政府多年来一直纵容她家的丝绸厂违反环保规定
+
+But companies have `little recourse` if the data is `inaccurate` or punishments `disproportionately disruptive`, experts say
+但专家表示，如果数据不准确或惩罚措施破坏性过分强，企业几乎无处申诉
+
+I might have heard about it somewhere but I think it’s `none of my business` and not relevant to our lives in the village
+我可能在什么地方听说过，我觉得这不关我的事，和我们村的生活没什么关系
+
+I `am accustomed to onerous visa rules, hassles` at the airport and `arbitrary detentions` in the countryside
+我习惯了繁琐的签证规定、机场的麻烦以及在农村的随意扣留
+
+Officer Wang, strong but `slumping`, with `gray tufts of hair springing from under his navy cap`, grew impatient
+王警官体格强壮，却一副没精打采的样子，蓝帽子下冒出一撮撮灰白的头发，他开始有些不耐烦了
+
+The city has imposed bans on `flying kites, drones, balloons and captive pigeons`, a popular `pastime`, in many areas
+北京已在很多地区禁止放风筝、无人机、气球和圈养鸽子，后者是在很多地方都常见的一种消遣娱乐
+
+“Seek happiness for the Chinese people, `seek rejuvenation` for the Chinese nation,” one banner says. “Everybody is a `witness, pioneer and builder of the new era`, We are all chasing the dream”
+“为中国人民谋幸福，为中华民族谋复兴，”一条横幅写道。每一个人都是新时代的见证者、开创者、建设者，我们都是追梦人
+
+On weekends, during `rehearsals for the parade`, tanks `rumble down` the street and fighter jets and helicopters `patrol the skies`, carrying red `hammer-and-sickle flags` as cargo
+周末阅兵彩排期间，坦克隆隆驶过街道，悬挂着红色锤子镰刀旗的战斗机和直升机在空中飞过
+
+In messages `slipped under my door`, the authorities thanked me for my cooperation in the security campaign, known as `“safe and sound Beijing.”`
+在从门缝里塞进来的信中，有关部门感谢我对所谓“平安北京”安全行动的配合
+
+The parade `was set to culminate` in Tiananmen
+游行活动将在天安门达到高潮
+
+He had `stocked up on instant noodles` and rice `in anticipation`. He said he was `most looking forward to` the cannons and fighter jets, which are expected to `be featured alongside` intercontinental ballistic missiles, drones and other weapons.
+他事先储备好了方便面和米饭。他说，他最期待的是大炮和战斗机，它们预计将和洲际弹道导弹、无人机和其他武器一起出现
+
+Let patriotism become every Chinese person’s `firm belief and spiritual sustenance`
+让爱国主义成为每一个中国人的坚定信念和精神依靠
+
+Inside, construction workers `napped on benches`. Small groups of `chain-smoking men` played poker, `shouting obscenities` as they `slapped cards on the table`
+公园里面，建筑工人在长凳上打盹。一小群人在打扑克，他们一根接一根地抽着烟，一边把牌拍在桌子上，一边喊着脏话
+
+With the `curfew approaching`, I headed home. From my window, I could see police officers gathering on nearby rooftops, `assembling tents` and surveying the neighborhood through `binoculars`.
+随着宵禁临近，我开始往家走。从我的窗口，可以看到警察聚集在附近的屋顶上，搭起帐篷，用双筒望远镜观察周围
+
+It was clear that `there was no room for negotiation`, that I had no choice but to `obey the rules.`
+很明显，没有讨价还价的余地，我别无选择，只能奉命行事
+
+As police officers patrolled the neighborhood and office workers `submitted to pat-downs`, the `monks` stood before the flags and `smiled blissfully, snapping selfies in the late-summer sun`
+警察在附近巡逻，办公室职员接受搜身检查，僧侣们站在这些旗帜前面，在夏末的阳光下幸福地微笑自拍
+
+they were `decidedly out of place`, an `irreverent diversion` from the sea of black-and-gray office buildings that surround my home
+置身我家周围黑色与灰色的办公楼海洋之间，它们显得格格不入，莫名其妙
+
+They believe the new accusations against Mr. Trump are simple and serious enough to be `grasped by a public overwhelmed by the constant din` of complex charges and `countercharges` that has become the `norm` in today’s Washington
+他们相信对特朗普的新指控简单而且严重，足以被公众了解，而此前，公众已被不断传来的复杂指控和反指控的喧闹声所淹没，这在当今的华盛顿已成为常态
+
+It has `shifted the ground`, It makes the `brazenness` of the conduct and the simplicity of the misconduct easy for everybody to understand.
+它已经改变了局面，它让所有人都很容易理解这种行为的无耻性质和不当行为的简单性
+
+`Make no mistake`, these recent allegations are `certainly dire`, They point to a direct abuse of power `at the expense of our national security`
+不要搞错，最近的指控肯定很可怕，它们指向对权力的直接滥用，损害了我们的国家安全
+
+Long a `progressive hero`, Ms. Pelosi had already `drawn fire from the left for failing to act`
+长期以来，佩洛西一直是进步主义的英雄，但由于未能采取行动，她已经遭到左派的抨击
+
+The decision to `back the inquiry` was not easy for Democrats who had been `hesitant to get on board.` I certainly didn’t run for Congress to be part of an `impeachment` inquiry, It’s `heartbreaking` to look something like impeachment in the face, `No matter who` the president is, we want them to succeed. At the same time, I have to maintain the rule of law and checks and balances
+支持调查的决定对民主党人来说并不容易，因为他们一直在犹豫是否要卷入此事。我竞选国会议员当然不是为了参与弹劾调查，面对弹劾这样的事情令人伤心，不管总统是谁，我们都希望他们成功。与此同时，我必须维护法治和权力制衡
+
+the `revelation of the whistle-blower complaint` broke the `logjam on impeachment`
+举报的披露打破了弹劾的僵局
+
+For months, it appeared that Ms. Pelosi’s `calculus` and the `deep reservations` of Democrats in `swing districts` would keep the House from moving forward on impeachment
+几个月来，佩洛西的盘算，以及摇摆选区民主党人的强烈保留，似乎都阻止了众议院推进弹劾
+
+By now, Qiqi had a `well-practiced pitch`: Commercial `surrogacy`, which is illegal in China and most places in the world, enjoys full legal protection in California. American bodies are big and strong, `better suited for childbirth`. And if you choose a `dark-skinned surrogate`, don’t worry — your baby’s skin will still `be white as snow.`
+到目前为止，琪琪已经有了一套成熟的推销说辞：商业代孕在中国和世界上大多数地方都是非法的，但在加州却受到全面的法律保护。美国人的身体又大又壮，更适合生孩子。如果你选择了一个深色皮肤的代孕妈妈，别担心，你宝宝的皮肤还是会像雪一样白
+
+
+
