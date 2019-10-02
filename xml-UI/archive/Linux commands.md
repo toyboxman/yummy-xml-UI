@@ -955,6 +955,20 @@ wget -c --no-cookies \
 curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
 http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz
 ```
+上面两种方式都是单线程下载模式，如果希望支持多协议多线程模式，可以使用[aria2](https://aria2.github.io/), 支持
+HTTP/HTTPS, FTP, SFTP, BitTorrent／Metalink
+```bash
+# install on mac
+brew search aria2
+brew install aria2
+
+# Download using 7 connections per host
+aria2c -x 7 https://github.com/testerSunshine/12306/archive/master.zip
+# Download from 2 sources
+$ aria2c http://a/f.iso ftp://b/f.iso
+# Download BitTorrent Magnet URI
+$ aria2c 'magnet:?xt=urn:btih:248D0A1CD08284299DE78D5C1ED359BB46717D8C'
+```
 
 #### tar
 ```bash
