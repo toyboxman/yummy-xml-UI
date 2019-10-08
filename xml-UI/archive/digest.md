@@ -60,6 +60,8 @@
     - [basic](python/python-basic.md)
     - [Python代替Excel](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217203&idx=3&sn=038247853987b685add5298ce8314a10)
     - [Pandas数据操作](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217294&idx=2&sn=70bc94cc6a6da5823bca73d2262aa645)
++ ***Go***    
+    - [basic](go/go-basic.md)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + ***Algorithm***
     - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
@@ -350,16 +352,10 @@ kubectl get ds -n kube-system
 #### NPM
 [Web开发包注册中心的NPM](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016822&idx=2&sn=d38c1f59ebd04052d95f2136fb950d5c)
 
-#### go
-
 #### ElasticSearch
 + [简单教程](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282222&idx=1&sn=a937009d8f0a66aaa327cd6f83955ee5)
 + [安装 Elasticsearch 和 Kibana](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=3&sn=66d57f1ecd5d4de53d458da11babbc38)
 + [日均5亿查询量的京东订单中心，舍MySQL用ElasticSearch](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282197&idx=1&sn=5067069706e0e56601436609451d2aa7)
-
-#### hive
-
-#### hadoop
   
 #### superset
 https://superset.incubator.apache.org/
