@@ -58,7 +58,11 @@ Amazon Elastic MapReduce (EMR)是Amazon Web Services (AWS)大数据处理工具, 基于Apa
 
 下载[Spark](http://spark.apache.org/downloads.html)，解压到设定目录。如果安装Pseudo Distributed/Single Node Cluster,可以参考[help](http://why-not-learn-something.blogspot.com/2015/06/spark-installation-pseudo.html).
 
-参考如下配置项 $SPARK_HOME/conf/spark-default.conf
+参考如下配置项 [$SPARK_HOME/conf/spark-default.conf](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-SparkConf.html)
+
++ [spark.master](https://spark.apache.org/docs/latest/submitting-applications.html#master-urls)
++ [Spark Configuration](http://spark.apache.org/docs/latest/configuration.html)
+
 ```
 spark.master                    yarn
 spark.serializer                org.apache.spark.serializer.KryoSerializer
