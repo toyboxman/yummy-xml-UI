@@ -8,6 +8,7 @@
 + [***Kubernetes***](#kubernetes)
 + [***ElasticSearch***](#elasticsearch)
 + [***Web***](#web)
++ [***Tools***](#tools)
 + [***Interview***](#interview)
 + [***System Monitor***](system-monitor/monitor.md)
     - [NetData性能监控](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=2&sn=6eeb1cc8c0b93a3de2b6428891a74f11)
@@ -18,8 +19,6 @@
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
     - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
-
-+ [***notepad++***](#notepad)
 
 + ***bench test***
     - [Geekbench测试不同公有云服务](https://www.ithome.com/0/431/894.htm)    
@@ -85,6 +84,7 @@
         ```
         令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
         与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
++ [Web前端学习图文教程](https://github.com/qianguyihao/Web)        
 + [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
 + [login验证码](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217022&idx=2&sn=734636f29230bae68f77fc963fcdcdb9)
 + [浏览器缓存机制](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217039&idx=2&sn=318df329b8711066e97f026468ccd24a)
@@ -95,6 +95,7 @@
 + [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 + [Chrome前端调试](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485526&idx=1&sn=019654aaa0c314886cc6fd6e1fe0e174)
 + [SSR](https://alligator.io/react/server-side-rendering/)
++ [Web移动端开发栈 ](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485671&idx=1&sn=24738ca1f524d147b86652e1eac3a56c)
 + [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485542&idx=2&sn=ecf1410ffa2e68ca626a1b98b7faf5f2)
 + [Node.js 进程与线程](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216926&idx=2&sn=e9d748a9b393b6b0d2e81d16cf194b80)
 + [前端开发 20 年变迁史](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485492&idx=1&sn=61b30d5573573580357c809e5a187329)
@@ -116,18 +117,20 @@
 + [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
 + [分页查询](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282168&idx=2&sn=0c3a2696ffbce577d91e9c523c697176)
 + [缓存三大问题及解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=2&sn=481704a1ce0e205aaf0ec67b668f5bfd)
++ [Dubbo架构](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217330&idx=2&sn=f131d1dcdbc24838dc62c973081f74c6)
 
 #### Database
-+ [mysql](db/mySQL.md)
++ [MySQL](db/mySQL.md)
     - [MySQL入门](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282311&idx=2&sn=53994ae8d6421671a3e3e1f86cb47982)
     - [MySQL规范](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=1&sn=09e5454c9531cff382920692b48980aa)
     - [鸟瞰 MySQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=2&sn=fdcea4fd03456374f711ec9038330b5f)
+    - [MySQL 优化19条](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217344&idx=2&sn=eb047a4f1bfb481acecdd4c471ed8962)
     - [理解SQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282207&idx=1&sn=13e5649852c7921fc513df7c94de1bb8)
     - [MySQL union](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282197&idx=2&sn=f2308df403c486c45fb258b9824147a8)
     - [MySQL EXPLAIN结果集分析](https://mp.weixin.qq.com/s?__biz=MzU5MDY1MzcyOQ==&mid=2247484136&idx=1&sn=3c1d97204a87d8d5ab658dd138acc3f5)
     - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
     - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
-+ [postgres](db/PostgreSQL.md)
++ [Postgre](db/PostgreSQL.md)
 + [oracle](db/oracle.md)
     - [Persistent Memory Store](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=2&sn=c2a3ea86e98a0d79c786cd9962b3f87e)
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
@@ -142,6 +145,7 @@
 + [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
 + [数据建模工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=1&sn=90b5214abd6fae7f28b3ea775c830549)
 + [Leetcode-Database](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)
++ [数据库‘状态’字段设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485894&idx=1&sn=52f9c7de204e3debe6cb0252049c3378)
 
 #### bigdata
 + [spark](big-data/spark.md)
@@ -149,8 +153,14 @@
 + [hive](big-data/hive.md)
 
 #### machine learning
-+ [笔记](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
++ Machine Learning Course  
+    - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
+    - [d2l-zh](https://github.com/d2l-ai/d2l-zh)
+    - [笔记](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
     - [笔记介绍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770249&idx=2&sn=f7042c0c07074046e1ec3436c2bba0c0)
++ face-swapping
+    - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+    - [Deepfakes](https://github.com/deepfakes/faceswap)
 
 #### docker
 + [docker](docker%20commands.md)
@@ -174,6 +184,8 @@ process in:file language:java extension:java
 ```
 还有[https://searchcode.com/](https://searchcode.com/)可以提供code search服务，不过以上都不完美无法达到grep效果
 
+本地免费文件检索工具还有[EveryThing](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446051&idx=2&sn=de6c0215e1c33fe4cdbb09f7f3605a9f)
+
 #### java
 + [maven](java/mvn.md)
     - [basic](https://github.com/eugenp/tutorials/tree/master/maven)
@@ -195,41 +207,47 @@ process in:file language:java extension:java
         - annotation custom[[***1***](https://www.baeldung.com/java-custom-annotation), [***2***](https://www.javatpoint.com/java-annotation)]
     - [zk-election](java/ZK-leader_election.md)
     - [JPDA](java/JDI_JDWP_JPDA.md)
+    - [Lambda](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217420&idx=2&sn=f355d35962291ab4f24c1bfb14456607)
 + [javatpoint](https://www.javatpoint.com/java-tutorial)
 + [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
 
-#### notepad++
-+ replace
+#### tools
++ ***notepad++***
+    - replace    
+    需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
+    ```
+    curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
+    {
+        "name":"accuracy_measure",
+        "measure.type":"griffin",
+        "dq.type":"accuracy",
+        "process.type":"batch",
+        "owner":"test",
+        "description":"measure description"
+    }
+    ```
+    设定搜索模式'Extended' 然后Replace All : '\r\n'  --> '  \\\r\n'
+    ```
+    {  \
+        "name":"accuracy_measure",  \
+        "measure.type":"griffin",  \
+        "dq.type":"accuracy",  \
+        "process.type":"batch",  \
+        "owner":"test",  \
+        "description":"measure description"  \
+    }
+    ```
 
-需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
-```
-curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
-{
-    "name":"accuracy_measure",
-    "measure.type":"griffin",
-    "dq.type":"accuracy",
-    "process.type":"batch",
-    "owner":"test",
-    "description":"measure description"
-}
-```
-设定搜索模式'Extended' 然后Replace All : '\r\n'  --> '  \\\r\n'
-```
-{  \
-    "name":"accuracy_measure",  \
-    "measure.type":"griffin",  \
-    "dq.type":"accuracy",  \
-    "process.type":"batch",  \
-    "owner":"test",  \
-    "description":"measure description"  \
-}
-```
+    + plugin/JSTool   
+    用来格式化JS/JSON输入，JSMin用来把JavaScript代码minification，JSFormat可以将minification的代码还原
 
-+ plugin/JSTool
-
-用来格式化JS/JSON输入，JSMin用来把JavaScript代码minification，JSFormat可以将minification的代码还原
-
++ ***Dash***    
+    一个好用的 API 文档浏览器和代码段管理器。程序员经常查看各种 API 文档，Dash 可以帮你从繁琐的搜索中解脱，它基本覆盖了所有主流和非主流语言、框架和库的文档。你还可以生成自己的文档集、请求文档集或从第三方来源下载文档集
+    
++ ***Paw***    
+    一站式 HTTP/REST 服务测试工具。Paw 具有功能齐全的可视化编辑器和 HTTP 工具集，可以让 Web 开发者模拟发送各种 HTTP 请求、测试和迭代自己的 API 或探索新的 API，测试响应数据。另外，Paw 能多人协作，同步 API 测试配置，进行无冲突的更改并获取实时更新
+    
 #### interview
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
 + [Q&A-spring](https://quizlet.com/306762411/baeldung-top-spring-framework-interview-questions-spring-core-flash-cards/)
@@ -256,6 +274,10 @@ done
         - [Run Boot Application](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html)
     - [Tomcat configuration](https://www.baeldung.com/spring-boot-configure-tomcat)
     - [best practices](java/spring.md#bubp)
+    - spring-boot-based product
+        - [eladmin后台管理系统](https://github.com/elunez/eladmin)
+        - [xxl-job分布式调度平台](https://github.com/xuxueli/xxl-job)
+        - [七个开源项目](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217434&idx=2&sn=72fab0ba2386ecc2f7367fe47b2cb2ca)
 - [spring](java/spring.md)
     - [tutorials](https://github.com/eugenp/tutorials)
         - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
@@ -288,6 +310,7 @@ done
     - [spring doc center](https://docs.spring.io/spring/docs/)
         - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
         - [pdf/excel/html report integration](https://www.baeldung.com/spring-jasper)
+        - [阅读笔记](https://github.com/seaswalker/spring-analysis)
 
 #### kubernetes
 - [Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
@@ -316,6 +339,7 @@ kubectl get ds -n kube-system
 
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
++ [晚唐十大诗人](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650478933&idx=1&sn=0fd800cb7da49648a223ac70d6aacbd0)
 + [诗经简史](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650477344&idx=1&sn=727f1c3e1b5f2bbf388247f9b639915d)
 + [古文十篇](https://mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657450567&idx=1&sn=d9292a4ff1acbbc8fe4f00c685557fec)
 + [经济学眼镜蛇效应](https://mp.weixin.qq.com/s?__biz=MzAxMzg2ODMyNA==&mid=2652503536&idx=2&sn=1542b3789c2868c549aa65b1609842f9)
