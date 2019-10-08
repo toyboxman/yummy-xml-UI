@@ -127,6 +127,7 @@
     - [Xargs](#xargs)
 - [Shell Programming](shell%20programming.md)
     - [Shell Built-in Commands](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614778&idx=1&sn=0431d3c3dd54068af34b0d5a9ed3e2f9)
+    - [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 - [Image Operation](#vm-image-operation)
 ---
 
