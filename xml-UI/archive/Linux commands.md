@@ -603,6 +603,8 @@ make命令用来在Linux平台上手动编译安装软件包, 还可以用[Autotools 打包DEB 和 RPM](
 make
 make check
 make install
+# <optional> refresh shared library cache
+sudo ldconfig 
 
 # uninstall and clean, and appoint installation path at /usr
 sudo make uninstall
