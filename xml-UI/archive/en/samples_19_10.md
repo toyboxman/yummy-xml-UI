@@ -55,4 +55,52 @@ Other Republicans `were more temperate`
 Chinese officials have also been `laying the groundwork for` a potential agreement `by subtly shifting their stance` in recent weeks
 最近几周，中国官员还通过微妙地转变立场，为可能达成的协议奠定基础。
 
+`An earnest propaganda anthem` from 1985, the song typically wouldn’t `stand a chance against` Taylor Swift, K-pop and other modern tunes the 18-year-old college student and her friends like to listen to.
+这首郑重其事的宣传歌曲创作于1985年，一般来说，本不会让这名18岁的大学生和她的朋友们感兴趣，她们喜欢听泰勒·斯威夫特(Taylor Swift)、韩国流行音乐(K-pop)和其他现代歌曲。
+
+Then they `shed more tears` while watching Tuesday’s parade in Beijing celebrating the 70th anniversary of the founding of the People’s Republic of China, a procession `replete with images of progress and sacrifice.`
+接下来，她们上周二观看在北京举行的庆祝中华人民共和国成立70周年的阅兵式时，流了更多的眼泪，游行中充满了进步和牺牲的画面。
+
+After I watched the movie and the military parade, I sang it `from the bottom of my heart`
+看了电影和阅兵之后，唱起来是发自肺腑的
+
+Angry demonstrators showing their dislike of the Chinese government have left many people in China `feeling both defensive and proud of their country’s accomplishments.`
+愤怒的示威者表达了对中国政府的厌恶，这让许多中国人既有抵触情绪，又为自己国家的成就感到骄傲。
+
+In 40 years, they have `lifted their country out of poverty` while avoiding the wars and unrest that have `plagued much of the developing world`. Modern China has its problems, but most Chinese believe it is still `vibrant and full of opportunity` 40年来，他们使国家摆脱了贫困，避免了困扰许多发展中国家的战争和动荡。虽然现代中国有自己的问题，但大多数中国人认为国家仍然充满活力和机会
+
+The Chinese internet has proved to be `a fruitful place` for the party to spread its message
+事实证明，中国的互联网是中共传播信息的一个富有成效的地方
+
+The characters were `flawed human beings` instead of the `epic heroes` one usually sees in patriotic films, he wrote in a social media post.
+他在社交媒体上发帖写道，影片中的角色是有人性瑕疵的普通人，而不是人们通常在爱国电影中看到的大英雄。
+
+China certainly didn’t invent `tug-at-the-heart patriotism`, as anybody who has seen “Saving Private Ryan” can `attest`
+中国当然不是牵动人心的爱国主义的发明者，任何看过《拯救大兵瑞恩》的人都可以证明这一点。
+
+When supplies of China’s favorite meat `run low`, Beijing `calls upon its strategic pork reserve`, a name that brings to mind `vast piles of sausages, bacon and spareribs housed in secret underground vaults` across the country.
+当猪肉供应不足时，北京会动用这种中国人最喜爱的肉类的战略储备，听起来仿佛是全国各地的秘密地窖里有堆积成山的香肠、培根和排骨。
+
+Pork prices in China today are `skyrocketing`, the result of `an epidemic that is ravaging the country’s hogs`, and the government has been `drawing upon its reserves` to lift supplies for shoppers.
+由于一场在生猪中肆虐的流行病，中国的猪肉价格飞涨，政府一直在动用储备增加对消费者的供应
+
+As the country introduced market reforms, reserves became a tool for `controlling price swings`, not just for pork, but for beef, chicken and lamb, too.
+随着中国引入市场改革，储备成为控制价格波动的手段，并且不仅有猪肉，也有牛肉、鸡肉和羊肉
+
+The investment bank predicts that the nation will `produce 30 percent less pork this year compared with last year`, a drop of 16 million tons. Against those numbers, even 200,000 tons of emergency meat can `seem like a drop in the ocean.`
+投资银行预测，中国今年的猪肉产量将比去年降低30%，减少1600万吨。在这些数字面前，即便20万吨的肉类紧急储备似乎也是杯水车薪
+
+These companies mostly keep their pork in `unmarked suburban warehouses`, where the meat stays at `the state-mandated temperature of minus-18 degrees Celsius, or just under zero degrees Fahrenheit. `
+这些公司大多将猪肉存放在无标记的郊区仓库中，在那里，猪肉保持着国家规定的温度，即零下18摄氏度或华氏零度以下
+
+In 2007, when reporters in Shandong `visited a farm that bred pigs` for the provincial reserve, they found tens of thousands of hogs running around in what `sounded like pretty idyllic conditions`: “The area is lush with vegetation and shaded by trees. The hog house is `tall and spacious`. There is heating in the winter and `ventilator fans` in the summer.”
+2007年，山东的记者走访了一个为省级储备肉基地饲养猪的养殖场，他们发现成千上万的猪在听起来像是优美的田园环境中四处活动：“猪舍周围植被茂密，绿树成阴，猪舍高大宽敞，冬天有供暖，夏天有换气扇。”
+
+It was cheaper than the “non-reserve pork” he found at the same `meat counter`, he said, so he `gave it a shot.`
+这块肉比他在同一个肉柜台里找到的“非储备猪肉”便宜，所以他试了一下
+
+
+
+
+
 
