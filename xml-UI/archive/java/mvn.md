@@ -1,5 +1,14 @@
 ### maven
 
+---
+
+- [configuration](#configuration)
+- [build](#build)
+- [compile](#compile)
+- [package](#package)
+- [dependencies](#dependencies)
+- [running](#running)
+
 #### configuration
 
 默认maven配置文件在安装路径下 apache-maven-3.5.3/conf/settings.xml
