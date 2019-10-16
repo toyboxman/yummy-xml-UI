@@ -423,8 +423,18 @@ git diff 0.12.0 0.13.0 -- glanceclient/common/http.py
 # 简要汇总flash-dev分支所有提交日志
 git log --oneline flash-dev
 
-# 简要汇总当前分支日志
-git log --oneline  
+# 简要汇总当前分支src目录下前5条日志
+git log -5 --oneline  -- src/
+
+# 查看已删除文件路径src/main/java所对应的commit记录
+git log --oneline -- src/main/java 或者 git rev-list -n 1 HEAD -- src/main/java
+git log f2edbe81730 --summary 
+
+# 汇总commit提交文件信息
+git log --stat f2edbe81730
+
+# 查看src/main/java目录下匹配rpc关键字的所有提交
+git log --grep=rpc -- src/main/java
 
 # 查看匹配name的作者所有提交详情
 git log --author <name>  
