@@ -842,6 +842,8 @@ grep -vE "(www|ftp)"
 $ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:40"'
 # 查找某个时间段的日志
 $ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" '
+# 查找某个时间段的日志并且过滤名称为key的日志
+$ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" && $4!="key" '
 ```
 ##### grep regular symbol
   Symbol      | Result
