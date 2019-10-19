@@ -99,8 +99,26 @@ In 2007, when reporters in Shandong `visited a farm that bred pigs` for the prov
 It was cheaper than the “non-reserve pork” he found at the same `meat counter`, he said, so he `gave it a shot.`
 这块肉比他在同一个肉柜台里找到的“非储备猪肉”便宜，所以他试了一下
 
+Researchers in China have found `a significant link` between air pollution and `the risk of miscarriage`
+中国研究人员发现，空气污染和流产风险之间存在显著的相关性
 
+The researchers looked at `four types of air pollutants: a deadly fine particulate matter` known as PM2.5, `sulfur dioxide, ozone and carbon monoxide`
+研究人员查看了四类污染物：被称为PM2.5的致命细颗粒物、二氧化硫、臭氧和一氧化碳
 
+There has been a lot of evidence `suggesting a link between air pollution and pregnancy outcomes in general`, particularly the risk of a premature birth and a low weight baby, This is one of the first studies to `link particle pollution to` this particular outcome of pregnancy so `in that sense it’s very important`.
+有大量证据表明，空气污染与怀孕结果总体上存在关联，尤其是早产和婴儿出生体重低的风险，这是首批将颗粒污染与怀孕结果联系起来的研究之一，从这个意义上讲，它很重要。
+
+`Footage of the parade` showed Chinese `military aircraft streaking multicolored smoke trails across grimy skies`
+阅兵画面显示，中国军机在污浊的天空中拖着五颜六色的烟雾
+
+When the Chinese came to the village of Lat Thahae, `perched on a muddy bend of` a Mekong River tributary, they `scrawled a Chinese character on` the walls of homes, schools and Buddhist temples.
+中国人来到坐落于湄公河支流一个泥泞转弯处的拉特海村后，在房屋、学校和寺庙的墙上写下一个汉字
+
+This year, a dam will begin transforming `this stretch of jagged hills and pristine jungle` in one of the world’s most remote countries, part of a broader effort to `propel some of Asia’s least-developed economies`
+今年，一座大坝已在这里建成，它将开始改变这个世界上最偏远国家之一的一片崎岖山峦和原始丛林，这是推动亚洲一些最不发达经济体的更广泛努力的一部分
+
+Are these dams `for the good of the Mekong downstream countries`, or are they for the good of a country that’s trying to `gain economic influence and offload excess capacity?`
+这些大坝是为了湄公河下游国家的利益呢，还是这样试图获得经济影响力、转嫁过剩产能的国家的利益呢？
 
 
 
