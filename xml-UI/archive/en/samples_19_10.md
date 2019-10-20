@@ -120,5 +120,130 @@ This year, a dam will begin transforming `this stretch of jagged hills and prist
 Are these dams `for the good of the Mekong downstream countries`, or are they for the good of a country that’s trying to `gain economic influence and offload excess capacity?`
 这些大坝是为了湄公河下游国家的利益呢，还是这样试图获得经济影响力、转嫁过剩产能的国家的利益呢？
 
+`Poor and landlocked`, Laos is betting that `hydropower will become its largest moneymaker` by 2025
+贫穷且地处内陆的老挝下的赌注是，到2025年，水力发电将成为该国最大的赚钱机器
+
+Critics worry that Laos’s plan for `vaulting out of the least-developed country bracket` through dams will `instead widen income disparity`
+批评人士担心，老挝用修建大坝来跳出最不发达国家行列的计划反而会扩大收入差距
+
+In the United States, where hydropower was once `celebrated as man’s triumph over nature`, dams are being `dismantled to let rivers flow unimpeded again`
+在美国，水力发电曾一度被颂扬为人类征服自然的成就，现在，为了让河流再次畅通无阻，大坝正在被拆除
+
+`“Progress means eating bitterness”` he said, using a Chinese idiom
+不吃苦中苦，难得甜中甜, 他用一个中国说法
+
+The Mekong’s `headwaters spring forth high in the Tibetan plateau`, but in China the river `holds little utility for humans`. The Lancang, as the Mekong is known there — a name that means “turbulent” — `is too fast and steep to do much more than power turbines`
+湄公河的发源地在青藏高原，但这条河在中国境内对人类没有多大用途。湄公河在中国境内叫澜沧江，这个名字有水流过急的意思，这里的江水太快、两岸太陡，除了驱动涡轮发电机外，没有太多别的用途
+
+But for the `downriver nations`, the Mekong is `a lifeblood`. Like `the Nile, the Tigris and the Yangtze, the Mekong watered empires`. Two capitals, Vientiane of Laos and Phnom Penh of Cambodia, `stand on its banks`
+但对于下游国家来说，湄公河是它们的生命线。与尼罗河、底格里斯河和长江一样，湄公河灌溉着整个国家。老挝首都万象和柬埔寨首都金边都坐落在湄公河岸上
+
+`The world’s most productive rice growers`, in Thailand and Vietnam, depend on the Mekong’s `generosity in depositing rich alluvial soil` during the rainy season. The river network is `the world’s largest inland fishery.` More than any other country, Cambodia `is nourished by the Mekong`. The country’s 16 million people get about 80 percent of their `protein intake` from its system
+世界上产量最高的水稻种植国泰国和越南都靠湄公河雨季冲积下来的丰富土壤。湄公河流域是世界上最大的内陆渔场。柬埔寨比其他国家更需要湄公河的滋养。该国1600万人口约80%的蛋白质摄入来自湄公河流域
+
+Prime Minister Hun Sen, Asia’s longest serving leader, has `turned his back on Western patrons` whose aid has failed to `catalyze democratic overhauls`
+柬埔寨首相洪森已对西方资助者不感兴趣。西方的援助未能促成柬埔寨的民主改革
+
+During the war, its `natural deepwater harbor` across from Guadalcanal `made it a military gem fought and died for.`
+“二战”期间，该岛与瓜达尔卡纳尔岛隔海相望的天然深水港使其成为兵家必争之地。
+
+the projects could give Beijing an opening to `establish a military foothold` for everything from ships and planes to its own version of the Global Positioning System. China is also pushing to end the region’s status as `a diplomatic stronghold` for Taiwan
+这些项目可能会给北京提供一个机会，为从舰队、飞机，到中国自己的全球定位系统等所有东西提供军事立足点. 中国也在努力结束该地区作为台湾外交据点的地位
+
+I want to make clear that the agreement does not `bear the official stamp` of the province so it is not official and formalized yet
+我想明确说明，这份协议还没有盖官印，因此还不是正式的最后版本
+
+A `military installation` would `carry strategic and symbolic significance`
+军事设施带有战略意义和象征意义
+
+businesses and officials have `cultivated local politicians` for years with bribes and gifts like luxury trips to Singapore
+企业和官员多年来一直在用贿赂和礼物与当地政客拉关系，比如为他们安排去新加坡的豪华旅行
+
+Protests also `greeted Mr. Sogavare’s election win in April, with demonstrators marching` toward the capital’s Chinatown to `register discontent.`
+今年4月，索加瓦雷在选举中获胜后，也发生过抗议活动，示威者朝着首都的唐人街游行，以表示不满。
+
+But the “`agreement in principle`” is limited in scope, and exact details have yet to be put in writing — a process that has `derailed negotiations` with China in the past.
+但这项“原则上的协议”范围有限，确切的细节尚未以书面形式确定——这一过程曾导致与中国的谈判偏离轨道
+
+From Mr. Trump’s perspective, `the centerpiece of the pact` is a commitment by China to buy $40 billion to $50 billion of American agricultural products per year
+在特朗普看来，该协议的核心是中国承诺每年购买价值400亿至500亿美元的美国农产品
+
+But that still `leaves a huge part of tariffs intact`
+但仍有很大一部分关税未受影响
+
+Chinese laws `block multinational companies from moving much of the data they gather on Chinese customers out of the country`, meaning that many technology and retail companies must `silo off their China business from the rest of their global operations`. Chinese officials `insist this is a matter of national security and have signaled they are unlikely to yield on this point.`
+中国的法律禁止跨国企业将其收集的中国客户数据转移出中国，这意味着很多科技和零售企业必须将中国的业务同全球运营的其余部分分隔开来。中国官员坚称这事关国家安全，并表示在这一点上不大可能让步
+
+Seven thousand miles was a long way to `go for a tiny scrap of paper`. The note was `pinned to my daughter’s sweater` when she was found at seven weeks old on a bridge in Yixing, China
+对于一张小小的纸片来说，7000英里是很远的一段路程。我女儿七周大的时候在中国宜兴的一座桥上被人发现时，这张纸条就别在她的毛衣上
+
+I could not bring myself to `utter the well-meaning evasion` that she was “born in my heart,” as had many adoptive mothers I knew. But it didn’t matter what I said; `her world had been upended and she kept trying to right it`
+我做不到像我认识的许多养母那样，善意地回避问题，说她“出生在我心里”。但我说什么并不重要；她的世界被颠覆了，她一直在努力纠正它
+
+At times she would `plead`, “Mommy, do you know her? Can we call her?”
+有时她会恳求道，“妈妈，你认识她吗？我们能给她打电话吗？”
+
+I believed that, `as she matured`, it wouldn’t be enough for her to know that she was part of a generation of 35 million lost daughters who, under the “one child” policy, were apparently aborted, abandoned or worse. Or that she was born into a culture where `bloodlines pass through sons` and `folk wisdom holds that you’re better off raising geese than girls.`
+我相信，随着她的长大，要让她知道自己和其他3500万女孩一样，因为独生子女政策而被人为流产、遗弃或被更糟糕对待是远远不够的。不仅如此，她所出生的文化信奉通过儿子来传宗接代，那里的老百姓都觉得养女还不如养鹅
+
+She no longer `enacted abandonment scenes` with her toys; she `spent her downtime practicing the horse dance` from “Gangnam Style.” Her past no longer `seemed to haunt her, but it did me.`
+她不再用玩具演遗弃的故事，还利用休息时间练习《江南Style》里的骑马舞。那些过往的身世似乎不再困扰她了，但依旧困扰着我
+
+I `was glued to the frozen landscape` out the window; Sophie was glued to her iPod.
+我一路贪看窗外的寒冬，索菲则一路玩她的iPod
+
+I had imagined one of those `elegant crescent bridges in ancient Chinese paintings`, but Yuedi Bridge was `a concrete slab over a polluted canal.`
+我曾猜想是中国古画里常见的那种优美的月牙桥，结果却是架在污浊运河上的混凝土板
+
+She `instructed my daughter to study hard`, help others, always love her mother and take care of me when I am old.Sophie `managed a polite smile, though I sensed her eye roll.`
+她教导我女儿要努力学习、乐于助人、孝敬母亲，在我老了的时候要好好照顾我。索菲勉强挤出一个礼貌的笑，但我感觉她是在翻白眼。
+
+I began to `leaf through and saw the adoption papers` I had signed 10 years before. Then I noticed `something stuck between two pages: a torn, weathered bit of notebook paper with ballpoint scribbles.`
+我匆匆翻阅，看到我在10年前签署的收养文件。然后我注意到有什么东西夹在两张纸之间，那是一张从笔记本上撕下来的纸，经过岁月的侵蚀已经残破，上面有圆珠笔草草写下的字。
+
+I `lifted the weightless scrap`. The lines had `faded`. There were a few Mandarin characters and numbers.
+我举起这张轻如无物的纸片。上面的线条已经褪色了，只有几个汉字和数字
+
+She `seemed unmoved, but I was overcome`. Through tears, I `snapped image after image`.
+她似乎无动于衷，但我却泪如雨下。在泪水中，我拍下了一张又一张照片
+
+“Mommy, `massage my feet`?” These days, it’s the only `physical contact` she invites. `I’ll take what I can get. I knead her soft soles`, notice her toenails, pearly and perfect. 
+“妈咪，给我按摩一下脚？”如今，这是她唯一邀请我与她身体接触的方式。我当然愿意效劳。我揉捏着她柔软的脚底，注意到她的脚趾甲，洁白无瑕
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
