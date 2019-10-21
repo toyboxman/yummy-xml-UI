@@ -1897,7 +1897,10 @@ nc -uzv 10.117.4.117 5775
 Connection to 10.117.4.117 5775 port [udp/*] succeeded!
 
 # 测试路径中加代理
-nc -x10.2.3.4:8080 -Xconnect -Puser host.example.com 42
+# -X proxy_protocol 支持“4” (SOCKS v.4), “5” (SOCKS v.5) and “connect” (HTTPS proxy)
+# 不指定protocol, SOCKS version 5 is used.
+# -x proxy_address[:port] 端口不指定默认1080 for SOCKS, 3128 for HTTPS
+nc -x10.2.3.4:8080 -Xconnect -Puser -w5 host.example.com 42
 ```
 
 #### ping/arping

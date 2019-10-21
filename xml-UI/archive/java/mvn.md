@@ -24,6 +24,22 @@ Default locale: en_US, platform encoding: UTF-8
 OS name: "linux", version: "4.4.175-89-default", arch: "amd64", family: "unix"
 ```
 
+可以在conf/settings.xml增加proxy设定
+```
+<proxies>
+    <proxy>
+      <id>optional</id>
+      <active>true</active>
+      <protocol>http</protocol>
+      <username>proxyuser</username>
+      <password>proxypass</password>
+      <host>proxy.host.net</host>
+      <port>1234</port>
+      <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
+    </proxy>
+</proxies>
+```
+
 #### build
 ```
 # package仅在工程目录完成编译，如果希望安装到 .m2/repository需要执行install

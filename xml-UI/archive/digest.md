@@ -190,7 +190,7 @@ process in:file language:java extension:java
 
 #### java
 + [maven](java/mvn.md)
-    - [basic](https://github.com/eugenp/tutorials/tree/master/maven)
+    - [basic](https://github.com/eugenp/tutorials/tree/master/maven-all/maven)
 + ±äÁ¿ËÑË÷-[**codelf**](https://unbug.github.io/codelf/),  [½éÉÜ](https://zhuanlan.zhihu.com/p/53360901)
 + [protobuf](#protobuf)
 + [spring](#spring)
