@@ -515,11 +515,11 @@ git format-patch -1
 # 搜索当前branch当前目录中匹配的内容
 # 由于repo本身有索引，所以速度远快于grep
 # repo本身是树状，没有-r参数，默认全路径搜索
-git grep -in 'if(' ./
+git grep -in 'if('
 
 # 搜索多个branch
 git grep -in 'Converter' origin/master origin/dev
-# 当前所在目录project/src/main/java, 搜索多个branch中java目录
+# 如果当前所在目录是project/src/main/java则上面命令执行目录等同于下面命令
 git grep -in 'Converter' origin/master:src/main/java origin/dev:src/main/java
 
 # 相当于grep中 --include参数

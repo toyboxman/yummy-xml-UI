@@ -104,7 +104,7 @@
     - [Tar](#tar)
     - [Vim](#vim)
     - [Zgrep](#search-gz)
-    - [Zcat](#zcat)
+    - [Zcat/cat/tac](#zcat)
 - [Text Operation](#txt-operation)
     - [Awk](#awk)
     - [Cut](#cut)
@@ -871,9 +871,14 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 ```
 
 #### zcat
+zcat用来读取压缩文件内容
 ```bash
 # show file content by page
 zcat syslog.1.gz | less
+```
+tac就是cat倒序命令，可以从后往前读取文件内容
+```bash
+tac pom.xml | grep 'schema'
 ```
 
 #### Crontab
