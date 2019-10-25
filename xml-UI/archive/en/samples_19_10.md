@@ -210,17 +210,77 @@ She `seemed unmoved, but I was overcome`. Through tears, I `snapped image after 
 “Mommy, `massage my feet`?” These days, it’s the only `physical contact` she invites. `I’ll take what I can get. I knead her soft soles`, notice her toenails, pearly and perfect. 
 “妈咪，给我按摩一下脚？”如今，这是她唯一邀请我与她身体接触的方式。我当然愿意效劳。我揉捏着她柔软的脚底，注意到她的脚趾甲，洁白无瑕
 
+he said that `the wealth disparity` in America is `“a moral and economic outrage.”`
+他说美国的贫富差距是“一种道德和经济暴行”
 
+`This era, in length and gains, dwarfs the “greed is good”` 1980s, that era of yellow ties, `nigiri rolls` and designer `espresso machines` that has come to symbolize `gilded excess in popular imagination`.
+这个时代无论在时间长度还是在增长方面，都让奉行“贪婪是好事”的1980年代相形见绌，也就是那个黄色领带、手握寿司和设计师款意式咖啡机成为大众想象中的富华象征的时代
 
+And yet the only thing we know in this casino-like economy — a casino that may, in fact, `soon be shuttered` — is that for those at the top, `too much is never enough`
+然而，在这个赌场式经济——事实上这座赌场可能即将关闭——中，我们所知的唯一一件事是，对于那些处于顶层的人来说，再多也永远不够
 
+Elon Musk, the man behind Tesla and SpaceX, `is worth some $23 billion but nevertheless` considers it a victory that he `dialed back` his “bonkers” 120-hour workweeks to a more “manageable” 80 or 90
+Tesla和SpaceX的掌门人身家约230亿美元，他把自己每周120小时的“疯狂”工作时间调至更“好对付”的80或90小时，但尽管如此他还觉得这是一种胜利
 
+Almost everything rich people touch `makes money`, but this current `financial inferno` has meant little for the bottom 50% of earners in the United States, who have 32% `less wealth` than they did in 2003.
+富人接触的几乎所有东西都能赚钱，但目前的金融地狱对美国收入最低的50%的人来说意义不大，他们的财富比2003年减少了32%
 
+`Fine vintage watches`, which have become `a must-have` for the young male money class, are exploding in value, with prices on `certain five-figure models` of Rolexes doubling in just a few years. Gold, once `derided as a relic`, is up 40% in the past few years.
+高档古董表已成为年轻男性富人阶层的必备品，其价值正呈现爆炸式增长，某些劳力士5位数型号的价格在短短几年内翻了一番 一度被嘲笑为过时的黄金在过去几年价格上涨了40%
 
+Some hit their number and `some went bust`, but Silicon Valley is more than ever a showcase for `the unfettered capitalism` of 2019. Yesterday’s big score is just `seed capital` for tomorrow’s bigger one.
+有些人达到了目标，有些人破产了，但是2019年的硅谷比以往任何时候都更能让人看到，什么是不受约束的资本主义。昨天的大数字只是明天更大数字的种子资本。
 
+“People say, ‘Why don’t you `develop a hobby, or do philanthropy`?’ ” “But for many, they `simply can’t stop doing it`. They `derive transcendent meaning` from capitalism. Without their money, what else would they have?”
+人们会说，‘你为什么不培养一种爱好，或者做点慈善呢？但是对于很多人来说，他们就是停不下来。他们从资本主义中获得了卓越的意义。没了钱他们还能有什么？
 
+At a time of `low taxes, friendly interest rates and torrents` of venture capital available to `would-be moguls`, it’s a historical moment in `the quest for more` among the entrepreneurial class.
+这是一个低税收、利率友好、未来大亨可以拥有源源不断的风险资本的时代，这是创业阶层寻求更多机会的历史性时刻。
 
+Tim Ferriss, `the life-hacking` author and podcast star who was an angel investor in Silicon Valley for nearly a decade, wrote in an email that many of these people have been “`navigating work and life in sixth gear` for decades.”
+TimFerriss是生活破解领域的作者和播客明星，曾在硅谷做了近十年的天使投资人，他在电子邮件中写道，这些人中的许多人“几十年来一直以第六档的高速度在工作和生活中行驶”。
 
+They’re like `drag racers` who now have to learn to `navigate the turns and intersections` of neighborhoods at 30 mph.
+他们就像直线竞速赛车手，现在必须学会以每小时30英里的速度在居民区街角和十字路口驾驶
 
+“Without ambitious projects to `fill space`,” he added, “there is often `a void` that makes some of the bigger questions hard to avoid. The things you neglected are no longer `drowned out by noise`; they are the signal. It’s like facing the Ghost of Christmas Past.”
+“如果没有雄心勃勃的项目来填补空间，”他还写道，“往往会出现空白，让一些更大的问题无从避免。你忽略的事情不再被噪音淹没；它们成了信号。就像面对旧日圣诞节幽灵一样。”
+
+We are a nation founded on `the overthrow of kings and the idle rich`, so `the hustle is deeply baked into mainstream notions` of what it means to be American
+我们的国家建国的基础就是推翻国王和无所事事的富人，所以这种忙碌感深深融入了美国人身份认同的主流观念
+
+you may think that the rich are finally `feeling flush enough to ease up, kick back, chill out`.
+你可能会认为，富人们终于感到手头宽裕，可以休息、放松、舒服一下了
+
+Sociologists have long talked about “`relative income hypothesis`.” We tend to `measure material satisfaction by those around us — not in absolute terms.`
+社会学家一直在讨论“相对收入假说”。也就是说，我们倾向于用周围的人来衡量自己对物质的满足——而不是使用绝对的标准。
+
+Living inside bubbles, the rich `need greater excess just to feel the same high,` If you’re an alcoholic, you’re going to take one drink, two drinks, five drinks, six drinks to `feel the buzz`. Well, when you get a million dollars, you need 10 million dollars to feel like a king. Money is `an addictive substance.`
+生活在与外界隔绝的泡泡之中的富人需要更多的放纵，才能感受到同样的快感。如果你是个酒鬼，你喝上一杯，之后就得再喝上两杯、五杯、六杯，才能感受到酒精的刺激。当你有一百万美元的时候，你需要一千万美元才能感觉自己像个国王。钱是会令人上瘾的东西
+
+As a hedge fund veteran, `precious metals adviser` and financial author, He believes that the current `debt-fueled recovery` may be `a prelude for an economic collapse to dwarf the Great Recession`
+作为一名对冲基金老手、贵金属顾问和金融作家，他认为，目前由债务推动的复苏可能是一场使大萧条相形见绌的经济崩溃的前奏
+
+`Literally, in a matter of weeks`, certainly a couple of months, the phone calls have had `a different tone` to them, What I’m hearing is, ‘I’ve got the money. How do I `hang on to it`?’ ‘Are `gold futures` going to hold up or should I `have bullion`?’ ‘If I have bullion, should I put it in a bag in `a private vault`?’ It’s a level of concern that I’ve never heard from the superrich
+实际上，在几周、当然是几个月的时间里，电话里的语气不同了，我现在听到的是，‘我手里有钱。怎么才能保住’？‘黄金期货能撑住吗，还是应该持有金条？‘如果我有金条，我该把它放在私人保险库的袋子里吗？这样的担忧程度，我从来没从超级富豪那里听到过
+
+Some administration officials, `along with many` in the business and scientific communities, assert that `too-tight restrictions risk pushing research offshore`, `crippling the commerce` that `gave rise to` America’s technological superiority in the first place
+一些政府官员以及工商界和科学界的许多人断言，过于严格的限制存在将研究推向海外的危险，从而削弱当初为美国带来技术优势的工商业
+
+You can’t `do science with walls around it`, If security dominates the conversation, our scientific leadership may `lose out.`
+你不能在有围墙的情况下搞科学，如果对安全的考虑主导对话的话，我们可能会失去科学上的领导地位。
+
+Companies like Google, General Motors, Microsoft, Toyota and Raytheon have urged the government to `tailor its controls as narrowly as possible` to avoid `disrupting their ability` to compete around the globe.
+谷歌、通用汽车、微软、丰田和雷神等企业已敦促政府尽可能缩小管控范围，以免扰乱它们的全球竞争力
+
+Ultimately, `it is far better` for U.S. national and economic security for foreign countries to use U.S. technology products than for the U.S. to be forced to use theirs
+归根结底，对美国的国家和经济安全而言，外国使用美国的技术产品比美国被迫使用外国的产品要好得多
+
+`Put plainly`, China seems determined to steal its way up the economic ladder, at our expense
+简单地说，中国看来已决心要用偷的方法来爬上经济阶梯，这是以我们为代价的
+
+Pressured by `a fading popularity` and `an unnerved agribusiness sector fearing commercial retaliations` from European countries, Mr. Bolsonaro deployed the Brazilian Army to the Amazon to implement a 60-day ban on burning. Would they be able to effectively `fight deforestation`? Only the market can solve this.
+在下降的支持率和担心遭到欧洲国家商业报复的农产品部门的双重压力下，博索纳罗将巴西陆军部署到亚马孙，实施为期60天的禁烧令。他们能够有效地打击森林砍伐吗？只有市场可以解决这个问题。
 
 
 

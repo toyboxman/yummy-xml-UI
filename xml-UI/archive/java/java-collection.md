@@ -2,6 +2,7 @@
 
 ## Ways to use collections
 + [Collection的使用](https://www.javatpoint.com/collections-in-java)
++ [Collections in Java](https://howtodoinjava.com/java-collections/)
 
 ### 用stream/map方式转换list中数据
 ```java 
