@@ -15,6 +15,7 @@
     - [分布式跟踪方案](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018739&idx=5&sn=9016fde08c6b83ac782d7cda427e70e5)
     - [性能监控与负载测试工具](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655826410&idx=2&sn=e404e30a99be69ea91090bbb6bf276ec)
     - [从 SAR 报告中获取 CPU 和内存使用情况](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615155&idx=4&sn=d2527a658c57aa81ed3bd688c989b342)
+    - [CPU使用率低高负载](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651680131&idx=1&sn=d5494a45fe1d9a57ef555794954ec434)
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
@@ -28,6 +29,7 @@
     - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)   
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
     - [你可能不需要微服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018984&idx=1&sn=3244a8b7bfcd224a53134862a40c96b9)
+    - [Tomcat bug导致链路失效 ](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490615&idx=3&sn=9a2ce631c89af6732ce4933bfc95f179)
 
 + ***blog***    
     - [jayway](https://blog.jayway.com/)      
@@ -43,9 +45,11 @@
 + [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
 + [发现截断的数据项](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=3&sn=6f51206fd04451ad879fd44d7bb3d9d3)
 + [Linux 内核的五大创新](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=1&sn=93ea4bc3d9506f445b736bb12a5adecd)
++ [Linux阅码场](https://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652666358&idx=1&sn=543f316af4d7e0e3b90c823632213180)
 + [pdftk操作 PDF](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=4&sn=30aa0df34d11b8e3a246e5dae1aa5a2f)
 + [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
 + [LiVES 视频编辑器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614985&idx=2&sn=a89937b425799b1d3fc24f30fda0c82c)
++ [Photoshop开源替代品](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615399&idx=3&sn=6c76f99079a1a2455a477fd40ce9ade4)
 + 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
 + Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
 
@@ -98,6 +102,7 @@
 + [Chrome前端调试](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485526&idx=1&sn=019654aaa0c314886cc6fd6e1fe0e174)
 + [SSR](https://alligator.io/react/server-side-rendering/)
 + [Web移动端开发栈 ](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485671&idx=1&sn=24738ca1f524d147b86652e1eac3a56c)
++ [H5 移动端开发](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217491&idx=2&sn=95cb58baad3ee90095a984dc8bed5e43)
 + [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485542&idx=2&sn=ecf1410ffa2e68ca626a1b98b7faf5f2)
 + [Node.js 进程与线程](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216926&idx=2&sn=e9d748a9b393b6b0d2e81d16cf194b80)
 + [前端开发 20 年变迁史](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485492&idx=1&sn=61b30d5573573580357c809e5a187329)
@@ -132,6 +137,7 @@
     - [MySQL EXPLAIN结果集分析](https://mp.weixin.qq.com/s?__biz=MzU5MDY1MzcyOQ==&mid=2247484136&idx=1&sn=3c1d97204a87d8d5ab658dd138acc3f5)
     - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281971&idx=1&sn=08bd75dd606f06ef1d67409d13d23a47)
     - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
+    - [MySQL Router高可用](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490615&idx=1&sn=54faa8277b7bb5e2a66debc1bd49305a)
 + [Postgre](db/PostgreSQL.md)
 + [oracle](db/oracle.md)
     - [Persistent Memory Store](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=2&sn=c2a3ea86e98a0d79c786cd9962b3f87e)
@@ -172,6 +178,8 @@
 #### github
 + [12306 抢票项目](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019389&idx=6&sn=cb48d93961b148521493d7c3ef34fb68)
 + [netease-music](https://github.com/mbinary/netease-music-cracker)
++ [Real-Time-Voice-Cloning](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490602&idx=2&sn=09752ffe957dbe2051b8e92d9c985d35)
++ [命令行备忘工具 navi](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217568&idx=2&sn=e25c3187bdf612f2dd68264669d0f092)
 
 github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github),   [code search语法](https://help.github.com/en/articles/searching-code)
 ```
@@ -320,6 +328,7 @@ done
     - [配置 Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
     - [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
     - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
+    - Kubernetes系列[ [2](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660650&idx=2&sn=0a7d468d92d58a683422796de938b29e),[3](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660702&idx=2&sn=caac340acbf9c4d22751f79e3c011024),[4](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660760&idx=3&sn=c66a40e21a26824b5a4fd3699c82cd9b) ]
 ```
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
 kubectl get ds -n kube-system

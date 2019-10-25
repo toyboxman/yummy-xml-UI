@@ -32,6 +32,7 @@
             - [Update kernel](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615302&idx=1&sn=3cfea2d97a4155e3b82511ea73b589c5)
         - [List Services Port](#list-services-port)
         - [Top](#top)
+        - [uptime运行时间报告](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=3&sn=bf95c6eb5ebc1b95bbc8d86b94410414)
         - [journalctl](#journalctl)
         - [Show Linux Version](#show-linux-version)
         - [sysctl](#sysctl)
@@ -86,15 +87,19 @@
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
     - [History](#history)
+        - [history快捷方式](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615359&idx=1&sn=9b67378cd423eeb759ee506814e100dd)
     - [Link/ln](#ln)
         + [unlink](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615210&idx=4&sn=bd2ecde9e068650688fb389e27897162)
     - [Man](#man)
         - [cheat/tldr](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446027&idx=1&sn=6c2a457270a42ef03392a9f142ae55d4)
     - [Make](#make)
+        - [RPM 包初窥](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=1&sn=010147fe09f855ce0e579925041ce392)
+        - [Autotools](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)]
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [Nohup](#nohup)
     - [Pstree](#pstree)
+        - [tree](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615366&idx=1&sn=d8d05984e278d79e8b7626120af58932)
     - [Rename](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615055&idx=1&sn=c8f1ffb240295d14dad745757f7be12b)
     - [SSH](#ssh)
     - [OpenSSL](SSL-JKS-CERT.md#show-certificate)
@@ -325,6 +330,7 @@ mask::rwother::r--
 ```
 
 #### top
++ [批处理模式下运行top](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615438&idx=3&sn=db97844f1644ddbdce0b00739f58d1d4)
 ```bash
 # list processes/memory etc.
 # 'h' for help content
@@ -899,7 +905,8 @@ crontab -r
 [cron expression](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 
 #### Curl
-> [Link](http://conqueringthecommandline.com/book/curl)
+> [Link](http://conqueringthecommandline.com/book/curl)  
+> [Curl学习指南](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446117&idx=2&sn=711f87e47a0c3565164612138d8dc811)
 ```bash
 # (H) means HTTP/HTTPS only, (F) means FTP only
 # -i, --include   Include protocol headers in the output (H/F)
