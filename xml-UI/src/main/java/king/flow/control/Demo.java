@@ -5,9 +5,13 @@
  */
 package king.flow.control;
 
+import java.util.AbstractList;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.stream.Collectors;
 import org.apache.commons.lang.StringUtils;
 
 /**
@@ -47,5 +51,34 @@ public class Demo {
             });
         }
         newFixedThreadPool.shutdown();
+
+        List<Integer> ids = new ArrayList<>();
+        ids.add(1);
+        ids.add(2);
+        ids.add(3);
+        List<node> nodes = ids.stream()
+                .map(id -> new node(id).setName("node-" + id))
+                .collect(Collectors.toList());
+        nodes.forEach(n -> System.out.println(n));
+        nodes.forEach(System.out::println);
+    }
+
+    static class node {
+        private int id;
+        private String name;
+
+        public node(int id) {
+            this.id = id;
+        }
+
+        public node setName(String name) {
+            this.name = name;
+            return this;
+        }
+
+        @Override
+        public String toString() {
+            return "node{" + "id=" + id + ", name=" + name + '}';
+        }
     }
 }
