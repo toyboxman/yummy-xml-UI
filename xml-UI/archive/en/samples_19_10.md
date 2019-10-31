@@ -282,6 +282,40 @@ Ultimately, `it is far better` for U.S. national and economic security for forei
 Pressured by `a fading popularity` and `an unnerved agribusiness sector fearing commercial retaliations` from European countries, Mr. Bolsonaro deployed the Brazilian Army to the Amazon to implement a 60-day ban on burning. Would they be able to effectively `fight deforestation`? Only the market can solve this.
 在下降的支持率和担心遭到欧洲国家商业报复的农产品部门的双重压力下，博索纳罗将巴西陆军部署到亚马孙，实施为期60天的禁烧令。他们能够有效地打击森林砍伐吗？只有市场可以解决这个问题。
 
+International agribusiness companies `looking to expand their food exports to China` have heavily invested in some of `the least-developed` Brazilian regions, `Cattle ranching in Brazil and soy cultivation`, are the largest drivers of deforestation
+希望扩大对华食品出口的国际农业企业已经在巴西一些最不发达地区进行了大量投资,巴西的养牛场和大豆种植是森林砍伐的最大驱动因素
+
+But this isn’t `a zero-sum game`, despite Mr. Bolsonaro’s contention that it is
+但这不是一场零和博弈，尽管博索纳罗主张它是
+
+China wants `a more “harmonious coexistence between humanity and nature`.” Using his `unmatched leverage` with Mr. Bolsonaro to preserve a strategic region to fight both climate change and `the global loss of biodiversity`, he now has a perfect opportunity to show the world that he is truly committed to this goal.
+中国要实现“人与自然的和谐相处”。通过利用他对博索纳罗无可匹敌的影响力去保护一个战略区域，以同时应对气候变化和全球生物多样性的损失，他现在有绝佳的机会向世界表明，他真正致力于实现这一目标
+
+Despite `the considerable pomp and a series of banquets` that were to continue through the evening, the government decided to postpone `a celebratory parade` through the streets of Tokyo `in deference to the victims of Typhoon Hagibis`
+虽然大典排场不小，而且一系列的宴会将持续到晚上，但政府还是决定推迟在东京街头举行的庆祝游行，以表示对台风海贝思罹难者的尊重
+
+`Each throne is made of thousands of small wood parts`. In preparation for Tuesday’s ceremony, the thrones `were disassembled more than a year ago` and shipped in trucks to the Imperial Palace in Tokyo. `Craftsmen reconstructed them and touched up their lacquer coating`
+每个宝座都是由几千块木头拼装出来的。为了准备周二的仪式，这两个宝座已在一年多前被拆开，然后用卡车运到了东京的皇宫。工匠们已将它们重新组装起来，并对上面的油漆进行了修补
+
+Naruhito `appeared in a silk orange robe and a crown`. Some reports say the robe `was dyed with` the juice of sumac berries, but others say it was merely `a chemical dye`. In any case, the color `is meant to symbolize the orange hue of the sun` when it reaches its highest point in the sky — Japan, after all, is the Land of the Rising Sun.
+德仁穿着一件橙色丝质长袍，头戴皇冠。一些报道称长袍是用漆树莓的汁液染的色，但另一些报道则称颜色只不过来自一种化学染料。无论如何，这种颜色意在象征太阳在天空最高点时的橙色色调——毕竟，日本的意思是太阳升起之地
+
+After the curtains opened on the thrones, the guests `bowed to the emperor` (although `foreign dignitaries` had been told they did not have to bow unless they chose to.)
+宝座的遮蓬拉开后，在场的人向天皇鞠躬（不过，外国政要被告知，他们不一定要鞠躬，除非他们选择那样做）
+
+he emperor is “the symbol of the state and of the unity of the people, `deriving his position from the will of the people` with whom `resides sovereign power.`
+天皇“是日本国民整体的象征，其地位以主权所在的全体日本国民的意志为依据”
+
+`a secret ritual`, known as the daijosai, that occurs inside two of a series of temporary `wooden buildings erected` just for the occasion in the east gardens of the Imperial Palace
+这个名为“大尝祭”的秘密仪式将在皇宫东花园里专门为仪式搭建的两处系列临时木结构建筑内举行
+
+There is a bed inside, so some say the emperor `lies down with his ancestors and enters into spiritual communion with the gods`. Others say he actually becomes a god (though the emperor’s `godlike status was annulled` by the Americans after World War II). Another theory holds that he has `a conjugal visit` with the sun goddess
+圣所里有一张床，所以有些人说，天皇将与他的祖先在精神上躺在一起，领受神的圣体。还有些人说，他实际上在那里变成了神（尽管天皇的神性已在第二次世界大战后被美国人废除了）。另一种理论则认为，他在那里与太阳女神敦伦
+
+Unless the Imperial Household Law is revised to `admit women as heirs to the throne`, the teenage Hisahito could be the end of the line, and debates over the `validity of enthronement ceremonies` and their cost could be `moot`
+除非修订《皇室典范》，允许女性继承皇位，否则十几岁的小悠仁可能会是最后一位皇位继承人，而关于登基仪式是否符合宪法以及费用的争论也可能会变得毫无意义
+
+
 
 
 

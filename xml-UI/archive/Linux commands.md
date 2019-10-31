@@ -1804,9 +1804,11 @@ iptables -I INPUT -p tcp --dport 3306 -j ACCEPT
 
 # 把8081端口规则添加INPUT表尾
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
+# 把6831端口允许tracer用户发送udp报文规则添加OUTPUT表尾
+iptables -A OUTPUT -p udp --dport 6831 -m owner --uid-owner tracer -j ACCEPT
 
 # 在一条规则中允许多个端口
-# -m, --match multiport --dports
+# -m multiport --dports
 iptables -A OUTPUT -p udp -m multiport --dports 5775,6831,6832 -j ACCEPT
 
 # Allow local-only connections

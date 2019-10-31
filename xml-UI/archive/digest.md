@@ -204,17 +204,18 @@ process in:file language:java extension:java
 + [spring](#spring)
 + snippet  
     - [JDK command](java/JDK.md)
-    - [string](java/java-string.md)
-    - [threadlocal](java/java-thread-local.md)
-    - [collection/list/set/map](java/java-collection.md)
-    - [tcp/udp](java/java-udp-tcp.md)
-    - [stream2string](java/java-stream2string.md)
-    - [reflection](java/java-reflection.md)
-    - [log](java/java-log.md)
-    - [json](java/java-json.md)
-    - [decompile](java/java-decompile.md)
-    - [type-convert](java/java-convert.md)
-    - [annotation](java/java-annotation.md)
+    - [String](java/java-string.md)
+    - [Threadlocal](java/java-thread-local.md)
+    - [Collection/List/Set/Map](java/java-collection.md)
+    - [ServiceLoader/ClassLoader](java/java-loader.md)
+    - [Tcp/Udp](java/java-udp-tcp.md)
+    - [Stream2string](java/java-stream2string.md)
+    - [Reflection](java/java-reflection.md)
+    - [Log](java/java-log.md)
+    - [Json](java/java-json.md)
+    - [Decompile](java/java-decompile.md)
+    - [Type-convert](java/java-convert.md)
+    - [Annotation](java/java-annotation.md)
         - annotation custom[[***1***](https://www.baeldung.com/java-custom-annotation), [***2***](https://www.javatpoint.com/java-annotation)]
     - [zk-election](java/ZK-leader_election.md)
     - [JPDA](java/JDI_JDWP_JPDA.md)
@@ -348,6 +349,8 @@ kubectl get ds -n kube-system
 在《论法的精神》中，孟德斯鸠宣称权力显示出一种自我膨胀并滥用自身特权的自然倾向，它不会停止，直到在它的外部找到一种限制。这一教训在任何时间和任何地点都适用。如今，不停膨胀并不断自主化的权力是经济权力、金融权力。
 
 《韩非子》说赛马的妙法，在于“不为最先，不耻最后”
+
+春秋五霸之首齐桓公“盟而不用歃”（不举行歃血的仪式）时所解释的那样的，“盟而有信，歃无所加；盟而无信，用歃何为”--国与国之间契约的牢固，关键在于信用和互信，而不在于一时、一地的签约仪式。
 
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
