@@ -18,6 +18,10 @@
 - [Logical](#logical-条件)
 - [Examples](#shell-example)
     + [汇总日志](#exp1)
+    + [设定网络配置](#exp2)
+    + [SSH+EXPECT](#exp3)
+    + [bash输入参数处理](#exp4)
+    + [Expect远程操作](#exp5)
     + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
     + [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
 
@@ -382,8 +386,11 @@ echo $now
 previous=`date -d "-2 minutes" +"%Y-%m-%dT%T"`
 echo $previous
 
-cat /var/log/proton/nsxapi.log /var/log/cloudnet/nsx-ccp.log | awk -v start="$previous" -v end="$now" '$0 > start && $0 < end ' > summary.log
+cat /var/log/proton/nsxapi.log /var/log/cloudnet/nsx-ccp.log \
+| awk -v start="$previous" -v end="$now" '$0 > start && $0 < end ' > summary.log
 ```
+
+<div id = "exp2"></div>
 
 * 设定网络配置
 ```bash
@@ -473,11 +480,12 @@ fi
 echo "complete boot setting" >> $VMINFO/result.log
 ```
 
-* SSH+EXPECT
-通过ssh进行远程交互, 批量操作时候, 需要处理输入得到输出   
-Linux平台上有一个方便的命令行处理工具expect，这是一个      
-可编程的工具, 通过预期结果和发送命令来操作远程机器。    
-expect基本组成结构为几部分:      
+<div id = "exp3"></div>
+
+* SSH+EXPECT    
+通过ssh进行远程交互, 批量操作时候, 需要处理输入得到输出Linux平台上有一个方便的
+命令行处理工具expect，这是一个可编程的工具, 通过预期结果和发送命令来操作远程机器。    
+expect基本组成结构为几部分:       
 解释声明->spawn->expect->send->interact   
 ```bash
 # 指定脚本解释器
@@ -527,7 +535,9 @@ send "exit\n"
 interact
 ```
 
-* input parameter of bash script
+<div id = "exp4"></div>
+
+* bash输入参数处理
 	> [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)<br>
 	- parameter type
 	```bash
@@ -560,10 +570,9 @@ interact
 	$*  
 	```
 
-	- parameter for expect script
-	如果需要通过脚本输入参数来进行expect操作，可以   
-	通过bash+expect脚本方式，因为expect获得外部参数
-	较复杂些，如下实现    
+	- expect script的参数
+	如果需要通过脚本输入参数来进行expect操作，可以通过bash+expect脚本方式，因为
+    expect获得外部参数较复杂些，如下实现    
 	```bash
 	#!/usr/bin/sh
 	#For loop来获取命令行传入机器地址
@@ -618,7 +627,9 @@ interact
 	interact
 	```
 
-* Expect    
+<div id = "exp5"></div>
+
+* Expect远程操作    
 	Expect is a program that "talks" to other interactive programs according to a script.
 	Following the script, Expect knows what can be expected from a program and 
 	what the correct response should be. An interpreted language provides branching 
