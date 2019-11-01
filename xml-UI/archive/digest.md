@@ -352,6 +352,10 @@ kubectl get ds -n kube-system
 
 春秋五霸之首齐桓公“盟而不用歃”（不举行歃血的仪式）时所解释的那样的，“盟而有信，歃无所加；盟而无信，用歃何为”--国与国之间契约的牢固，关键在于信用和互信，而不在于一时、一地的签约仪式。
 
+每临大事有静气。不要急，急也没用
+
+万物同理，减法永远比加法难，正如郑板桥一句诗：“删繁就简三秋树，领异标新二月花”。
+
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
 + [晚唐十大诗人](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650478933&idx=1&sn=0fd800cb7da49648a223ac70d6aacbd0)

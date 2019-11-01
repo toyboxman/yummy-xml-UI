@@ -32,7 +32,9 @@
             - [Update kernel](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615302&idx=1&sn=3cfea2d97a4155e3b82511ea73b589c5)
         - [List Services Port](#list-services-port)
         - [Top](#top)
-        - [uptime运行时间报告](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=3&sn=bf95c6eb5ebc1b95bbc8d86b94410414)
+            - [w/uptime/cal]()
+            - [uptime运行时间报告](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=3&sn=bf95c6eb5ebc1b95bbc8d86b94410414)
+        - [date](#date)
         - [journalctl](#journalctl)
         - [Show Linux Version](#show-linux-version)
         - [sysctl](#sysctl)
@@ -137,7 +139,6 @@
 - [Shell Programming](shell%20programming.md)
     - [Shell Built-in Commands](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614778&idx=1&sn=0431d3c3dd54068af34b0d5a9ed3e2f9)
     - [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
-    - [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
 - [Image Operation](#vm-image-operation)
 ---
 
@@ -354,6 +355,74 @@ top -p 678 -b -n3 > process.log
 
 # redirect loop output
 for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
+```
+
+#### w/uptime/cal
+```bash
+$ w
+06:31:39 up 2 days, 4 min,  1 user,  load average: 2.84, 2.83, 2.54
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+root     pts/0    10.117.5.175     Tue06    1.00s  0.59s  0.59s -bash
+
+$ uptime
+06:32:09 up 2 days, 5 min,  1 user,  load average: 2.82, 2.83, 2.55
+
+$ cal
+    October 2019      
+Su Mo Tu We Th Fr Sa  
+             1    2    3   4   5  
+ 6   7    8    9   10 11 12  
+13 14 15  16  17 18 19  
+20 21 22  23  24 25 26  
+27 28 29  30  31       
+```
+
+#### date
+更多[时间格式参数](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
+```bash
+# %y	last two digits of year (00..99)
+# %d	day of month (e.g, 01)
+# %m	month (01..12)
+$ date +"%m-%d-%y"
+10-31-19
+
+# %D	date same as %m/%d/%y
+$ date +"%D"
+10/31/19
+
+# %Y	four digits of year
+# %M	minute (00..59)
+# %H	hour (00..23)
+# %I	hour (01..12)
+# %S	second (00..60)
+$ date +"%m-%d-%Y %H:%M:%S"
+10-31-2019 08:28:27
+
+# %T	time same as %H:%M:%S
+$ date +"%m-%d-%y-%T"
+10-31-19-08:14:15
+
+# %N	nanoseconds (000000000..999999999)
+# %s	seconds since 1970-01-01 00:00:00 UTC
+$ date +"%D %T:%N"
+10/31/19 08:34:34:093112244
+$ date +"%D %T:%s"
+10/31/19 08:34:56:1572510896
+
+# 加减时间，只能支持整数类型
+$ date +'%T'; date -d "+1 hours 10 minutes 5 seconds" +'%T'
+09:07:57
+10:18:02
+$ date +'%T'; date -d "-10 minutes" +'%T'
+09:10:05
+09:00:05
+
+# 把date结果作为参数给echo
+$ echo `date +"%D"`
+10/31/19
+
+$ date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
+2019
 ```
 
 #### sysctl
@@ -1408,6 +1477,12 @@ king@suse-leap:~/source/python> grep 'netmask' a.txt | awk -F'value="' '{print $
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}' | awk -F'"' '{print $1}'
 255.255.253.0
 
+# Awk脚本导入外部变量(Awk执行shell与外部shell非同一个,因此无法识别外部变量)
+# 把[2019-10-31T09:24:27---2019-10-31T09:26:27]时间段日志汇总导出
+# -v 将外部变量导入成为Awk内部变量
+$ export now=`date +"%Y-%m-%dT%T"`; export previous=`date -d "-2 minutes" +"%Y-%m-%dT%T"`
+$ cat /var/log/api.log /var/log/run.log | awk -v start="$previous" -v end="$now" '$0 > start && $0 < end ' > scope.log
+
 # 数字计算
 $ echo '11 22 33 44 55 66 77 88' > a.txt 
 $ cat a.txt | awk -F' ' '{print $1 $2}'
@@ -1686,6 +1761,7 @@ $ pandoc -t html file.md
 录制一个session中多个命令交互输出
 ```bash
 # 启动一次session录制,默认录制文件名typescript
+# script [file-name] 可以指定录制文件名
 $ script
 Script started, file is typescript
 $ whoami

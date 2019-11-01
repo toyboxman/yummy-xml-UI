@@ -17,7 +17,9 @@
 - [LOOP](#loop-控制流)
 - [Logical](#logical-条件)
 - [Examples](#shell-example)
+    + [汇总日志](#exp1)
     + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
+    + [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
 
 > [Link](http://www.freeos.com/guides/lsst/)
 
@@ -368,6 +370,20 @@ sh test.sh 1 2 '3 4'
 ```
 
 ### Shell Example
+<div id = "exp1"></div>
+* 汇总日志      
+脚本执行后将两分钟内日志导出，如2019-10-31T09:24:27至2019-10-31T09:26:27
+```bash
+#!/bin/sh
+
+now=`date +"%Y-%m-%dT%T"`
+echo $now
+previous=`date -d "-2 minutes" +"%Y-%m-%dT%T"`
+echo $previous
+
+cat /var/log/proton/nsxapi.log /var/log/cloudnet/nsx-ccp.log | awk -v start="$previous" -v end="$now" '$0 > start && $0 < end ' > summary.log
+```
+
 * 设定网络配置
 ```bash
 #!/usr/bin/sh
