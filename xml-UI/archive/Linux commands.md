@@ -410,6 +410,24 @@ $ date +"%D %T:%s"
 10/31/19 08:34:56:1572510896
 
 # 加减时间，只能支持整数类型
+#
+# 将系统时间往前调20秒
+# s, --set=STRING    将系统时间调整成STRING指定时间 
+$ date -s "+20 seconds"
+# 系统调整为如下时间
+$ date -s '2009-02-13 11:31:30'
+$ date -s 'next day'
+$ date -s 'tomorrow'
+$ date -s 'last day'
+$ date -s 'yesterday'
+$ date -s 'friday'
+$ date -s 'next year'
+$ date -s 'last year'
+$ date -s 'last month'
+$ date -s 'next month'
+
+# 显示当前时间和一小时之后时间
+# -d, --date=STRING   解析显示STRING参数传入的date
 $ date +'%T'; date -d "+1 hours 10 minutes 5 seconds" +'%T'
 09:07:57
 10:18:02
