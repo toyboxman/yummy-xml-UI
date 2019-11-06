@@ -314,30 +314,3 @@ There is a bed inside, so some say the emperor `lies down with his ancestors and
 
 Unless the Imperial Household Law is revised to `admit women as heirs to the throne`, the teenage Hisahito could be the end of the line, and debates over the `validity of enthronement ceremonies` and their cost could be `moot`
 除非修订《皇室典范》，允许女性继承皇位，否则十几岁的小悠仁可能会是最后一位皇位继承人，而关于登基仪式是否符合宪法以及费用的争论也可能会变得毫无意义
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
