@@ -1110,16 +1110,35 @@ tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
 
 #### gzip
 ```bash
-# force to compress a tar file
-gzip -fv file.tar  
-# decompress gzip file z.gz
-gzip -dv a.gz  
-# decompress zip file a.zip to ./v folder in current path
-unzip -dv a.zip  
+# list zip file named spring.jar by zipinfo
+zipinfo -1 spring.jar
+# list zip file named tomcat.jar by unzip
+unzip -l tomcat.jar
+
+# gzip只能压缩文件,不能压缩目录结构
+# 如果想压缩目录只能先打包tar文件再压缩
+# 把1.log压缩成1.log.gz
+gzip 1.log
+# 把1.log解压缩成1.log
+# -d指定当前目录
+gzip -d 1.log.gz
+# 强制压缩myfile.tar成为myfile.tar.gz
+gzip -fv myfile.tar  
+# decompress a gzip file named a.gz into ./test folder
+# -d 指定解压目录
+gzip -dtest a.gz  
+
+# decompress zip file named a.zip to ./test folder
+unzip -dtest a.zip  
 # extract zip file to designated folder
 unzip a.zip -d /usr/share/tmp  
 # pipeline gzip&tar
 gzip -dv < bankApp.tar.gz | tar xvf -   
+
+# 把当前目录下org整个打包成apache.jar
+jar cvf apache.jar ./org/*
+# 查看打包的文件内容
+jar tvf apache.jar
 ```
 
 #### ln
@@ -1494,6 +1513,14 @@ king@suse-leap:~/source/python> grep 'netmask' a.txt | awk -F'value="' '{print $
 255.255.253.0" />
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}' | awk -F'"' '{print $1}'
 255.255.253.0
+
+# 把jar文件中文件列表按照修改时间排序
+# unzip的输出中 $2是日期 $3是time $4是文件名
+# 为了用date+time排序 print $2$3 or $2 $3 格式为'2018-10-1516:27'
+# $2$3之间不能加逗号否则'$2,$3'输出就是'2018-10-15 16:27'
+$ unzip -l open-tracing.jar | awk '{print $2 $3, $4}' | sort -r
+2018-10-1516:27 com/twitter/zipkin/thriftjava/Annotation$1.class
+2018-01-1219:46 META-INF/maven/io.opentracing/opentracing-util/pom.properties
 
 # Awk脚本导入外部变量(Awk执行shell与外部shell非同一个,因此无法识别外部变量)
 # 把[2019-10-31T09:24:27---2019-10-31T09:26:27]时间段日志汇总导出
