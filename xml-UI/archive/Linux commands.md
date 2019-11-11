@@ -1114,7 +1114,7 @@ $ tar rvf cls.tar src/test/
 # tar文件中出现相同重复文件src/test/resources/
 $ tar tvf cls.tar
 ...
--rw-r--r-- king/users    21711 2019-11-07 22:28 target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler2186072818813841806arguments
+-rw-r--r-- king/users    21711 2019-11-07 22:28 target/classes/org.codehaus.plexus.compiler.javac.arguments
 -rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
 drwxr-xr-x king/users        0 2019-10-10 14:00 src/test/resources/
 -rw-r--r-- king/users     1249 2018-03-05 17:08 src/test/resources/log4j2-test.xml
@@ -1138,7 +1138,7 @@ tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz
 ```
 
 #### gzip
-```bash
+```shell
 # list zip file named spring.jar by zipinfo
 # jar文件是标准zip格式能用相关命令处理
 zipinfo -1 spring.jar
