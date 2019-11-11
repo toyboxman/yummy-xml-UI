@@ -150,13 +150,13 @@ Platform Redhat Enterprise Server
 
 #### list system details
 ```console
-$ dmesg | less
+dmesg | less
 ```
 
 #### list kernel modules
 Linux提供一些检查[kernel module](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=1&sn=7159c073e8b89edf4a7920227308e25f)的命令
 ```console
-$ lsmod
+lsmod
 Module                  Size  Used by
 fuse                  106496  3 
 af_packet              45056  0 
@@ -165,8 +165,8 @@ iscsi_boot_sysfs       20480  1 iscsi_ibft
 ```
 [ldd命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614629&idx=1&sn=f51ea2e0e705ce633242414a40457e92)可以检查任何程序文件使用的共享库(so或dll)。LD_PRELOAD 环境变量是在进程启动时加载共享库的最简单且最受欢迎的方法，可以将此环境变量配置到共享库的路径，以便在加载其他共享对象之前加载该共享库。
 ```console
-$ export LD_PRELOAD=/home/showme.so
-$ ldd /usr/bin/ls
+export LD_PRELOAD=/home/showme.so
+ldd /usr/bin/ls
         linux-vdso.so.1 (0x00007ffe75d87000)
         /home/showme.so (0x00007f1e6b65f000)     <== there it is
         libselinux.so.1 => /lib64/libselinux.so.1 (0x00007fc399591000)
@@ -181,29 +181,29 @@ $ ldd /usr/bin/ls
 #### show Linux version
 查找 Linux 发行版[版本和内核详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614992&idx=2&sn=be38dea71cd45f28ac4664e8d1daeb01)
 ```console
-$ cat /etc/*-release
-$ cat /etc/issue
-$ cat /proc/version
-$ uname -a
+cat /etc/*-release
+cat /etc/issue
+cat /proc/version
+uname -a
 ```
 
 #### show network details
 ```console
 # list ip local port range
-$ cat /proc/sys/net/ipv4/ip_local_port_range
+cat /proc/sys/net/ipv4/ip_local_port_range
 
 # list all ports used by system services
-$ cat /etc/services | less
+cat /etc/services | less
 # find which port is used by db2 connection
-$ grep db2c_DB2 /etc/services
+grep db2c_DB2 /etc/services
 
 # list all network interfaces name, like 'ifconfig -a'
-$ ls -1 /sys/class/net
+ls -1 /sys/class/net
 # find eth0 mtu setting
-$ cat /sys/class/net/eth0/mtu
+cat /sys/class/net/eth0/mtu
 1500
 # find eth0 speed setting
-$ cat /sys/class/net/eth0/speed
+cat /sys/class/net/eth0/speed
 1000
 ```
 
@@ -269,26 +269,26 @@ Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。
 
 /dev/null device是数据容器，常常用来丢弃数据流，有点类似垃圾箱功能, 你可以把所有不想保留的和不想回显的都重定向过去。
 ```console
-$ echo "hi there" > /dev/null
+echo "hi there" > /dev/null
 $
 # When you read from /dev/null, you get a null string
-$ ls -l messages
+ls -l messages
 -rw-r--r-- 1 max pubs 25315 Oct 24 10:55 messages
-$ cat /dev/null > messages
+cat /dev/null > messages
 # file size becomes zero
-$ ls -l messages
+ls -l messages
 -rw-r--r-- 1 max pubs 0 Oct 24 11:02 messages
 
 # redirects stdout to null
-$ ls > /dev/null
+ls > /dev/null
 # shortcut for the command above
-$ ls 1 > /dev/null
+ls 1 > /dev/null
 
 # redirects stderr to null
-$ ls 2 > /dev/null
+ls 2 > /dev/null
 
 # redirects stdout and stderr to null
-$ ls &> /dev/null
+ls &> /dev/null
 
 # Run list command in the background, discard stdout and stderr
 # Using 2>&1 will redirect stderr to stdout
@@ -309,11 +309,11 @@ ls > /dev/null 1>&2
 # Namelen: is the maximum number of characters permitted in 
 # a filename on the specified filesystem (/home)
 # –f option tells stat to display filesystem status instead of file status
-$ stat -f /home | grep -i name
+stat -f /home | grep -i name
 ID: 48fef7d1240ee054 Namelen: 255     Type: ext2/ext3
 
 # displays the same information as an ls –l command, albeit in a different format
-$ getfacl /home
+getfacl /home
 # file: home
 # owner: root
 # group: root
@@ -323,8 +323,8 @@ other::r-x
 
 # -x option removes ACL rules for a user or a group
 # -m == --modify
-$ setfacl --modify u:sam:rw- report == $ setfacl --modify u:sam:6 report
-$ getfacl --omit-header report
+setfacl --modify u:sam:rw- report == setfacl --modify u:sam:6 report
+getfacl --omit-header report
 user::rwuser:
 sam:rwgroup::r--
 mask::rwother::r--
@@ -359,15 +359,15 @@ for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
 
 #### w/uptime/cal
 ```console
-$ w
+w
 06:31:39 up 2 days, 4 min,  1 user,  load average: 2.84, 2.83, 2.54
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
 root     pts/0    10.117.5.175     Tue06    1.00s  0.59s  0.59s -bash
 
-$ uptime
+uptime
 06:32:09 up 2 days, 5 min,  1 user,  load average: 2.82, 2.83, 2.55
 
-$ cal
+cal
     October 2019      
 Su Mo Tu We Th Fr Sa  
              1    2    3   4   5  
@@ -383,11 +383,11 @@ Su Mo Tu We Th Fr Sa
 # %y	last two digits of year (00..99)
 # %d	day of month (e.g, 01)
 # %m	month (01..12)
-$ date +"%m-%d-%y"
+date +"%m-%d-%y"
 10-31-19
 
 # %D	date same as %m/%d/%y
-$ date +"%D"
+date +"%D"
 10/31/19
 
 # %Y	four digits of year
@@ -395,51 +395,51 @@ $ date +"%D"
 # %H	hour (00..23)
 # %I	hour (01..12)
 # %S	second (00..60)
-$ date +"%m-%d-%Y %H:%M:%S"
+date +"%m-%d-%Y %H:%M:%S"
 10-31-2019 08:28:27
 
 # %T	time same as %H:%M:%S
-$ date +"%m-%d-%y-%T"
+date +"%m-%d-%y-%T"
 10-31-19-08:14:15
 
 # %N	nanoseconds (000000000..999999999)
 # %s	seconds since 1970-01-01 00:00:00 UTC
-$ date +"%D %T:%N"
+date +"%D %T:%N"
 10/31/19 08:34:34:093112244
-$ date +"%D %T:%s"
+date +"%D %T:%s"
 10/31/19 08:34:56:1572510896
 
 # 加减时间，只能支持整数类型
 #
 # 将系统时间往前调20秒
 # s, --set=STRING    将系统时间调整成STRING指定时间 
-$ date -s "+20 seconds"
+date -s "+20 seconds"
 # 系统调整为如下时间
-$ date -s '2009-02-13 11:31:30'
-$ date -s 'next day'
-$ date -s 'tomorrow'
-$ date -s 'last day'
-$ date -s 'yesterday'
-$ date -s 'friday'
-$ date -s 'next year'
-$ date -s 'last year'
-$ date -s 'last month'
-$ date -s 'next month'
+date -s '2009-02-13 11:31:30'
+date -s 'next day'
+date -s 'tomorrow'
+date -s 'last day'
+date -s 'yesterday'
+date -s 'friday'
+date -s 'next year'
+date -s 'last year'
+date -s 'last month'
+date -s 'next month'
 
 # 显示当前时间和一小时之后时间
 # -d, --date=STRING   解析显示STRING参数传入的date
-$ date +'%T'; date -d "+1 hours 10 minutes 5 seconds" +'%T'
+date +'%T'; date -d "+1 hours 10 minutes 5 seconds" +'%T'
 09:07:57
 10:18:02
-$ date +'%T'; date -d "-10 minutes" +'%T'
+date +'%T'; date -d "-10 minutes" +'%T'
 09:10:05
 09:00:05
 
 # 把date结果作为参数给echo
-$ echo `date +"%D"`
+echo `date +"%D"`
 10/31/19
 
-$ date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
+date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
 2019
 ```
 
@@ -447,60 +447,60 @@ $ date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
 sysctl is used to modify kernel parameters at runtime. The parameters available are those listed under /proc/sys/, sysctl both reads and writes sysctl data
 ```console
 # list kernel parameters
-$ /sbin/sysctl -a
+/sbin/sysctl -a
 
 # show kernel.hostname's value
 # -n only show value, otherwise show key/value pair
-$ /sbin/sysctl -n kernel.hostname
+/sbin/sysctl -n kernel.hostname
 
 # write a parameter with new value
-$ /sbin/sysctl -w vm.max_map_count=262144        
-$ /sbin/sysctl -w kernel.domainname="example.com"
+/sbin/sysctl -w vm.max_map_count=262144        
+/sbin/sysctl -w kernel.domainname="example.com"
 ```
 
 #### ulimit
 [Ulimit](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=2&sn=2a52adca9e4d1a4c496bccbbba8bd0ca) modify shell resource limits. Provides control over the resources available to the shell and processes it creates, on systems that allow such control.
 ```console
 # list all
-$ ulimit -a
+ulimit -a
 
 # show the maximum number of open file descriptors
-$ ulimit -n
+ulimit -n
 1024
 
 # set the maximum number of open file descriptors to 4096
-$ ulimit -n 4096
+ulimit -n 4096
 ```
 In ubuntu-18, you can easily change them forever, systemd has an option for this:
 ```console
-$ more /etc/systemd/system.conf | grep NOFILE
+more /etc/systemd/system.conf | grep NOFILE
 DefaultLimitNOFILE=65536
 ```
 if you hope to change them in other way, please update config files related.
 ```console
 # edit the following file
-$ sudo vim /etc/security/limits.conf
+sudo vim /etc/security/limits.conf
 # add following lines to it
 king   -     nofile         65535
 
 # edit the following file
-$ sudo vim /etc/pam.d/common-session
+sudo vim /etc/pam.d/common-session
 # add this line to it
 session required pam_limits.so
 
 # restart or logout and login and try the following command
-$ ulimit -n
+ulimit -n
 65535
 ```
 
 #### list services port
 可以通过[***getent***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614586&idx=4&sn=1355e222ddbbfc52663ffe0585d610a9)或grep命令来实现
 ```console
-$ getent services http ssh
+getent services http ssh
 http                  80/tcp
 ssh                   22/tcp
 
-$ grep ssh /etc/services 
+grep ssh /etc/services 
 ssh                22/tcp       # The Secure Shell (SSH) Protocol  [RFC4251]
 ssh                22/udp       # The Secure Shell (SSH) Protocol  [RFC4251]
 ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
@@ -510,10 +510,10 @@ ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
 Control the systemd system and service manager
 ```console
 # start sshd service
-$ systemctl start sshd
+systemctl start sshd
 
 # list directory status
-$ systemctl status /home
+systemctl status /home
 ● home.mount - /home
    Loaded: loaded (/etc/fstab; bad; vendor preset: disabled)
    Active: active (mounted) since Wed 2018-08-29 10:46:30 CST; 2 weeks 2 days ago
@@ -529,34 +529,34 @@ Aug 29 10:46:28 suse-leap systemd[1]: Mounting /home...
 Aug 29 10:46:30 suse-leap systemd[1]: Mounted /home.
 
 # link a service file not in default systemd path /etc/systemd/system
-$ systemctl link /path/to/servicename.service
+systemctl link /path/to/servicename.service
 ```
 
 #### journalctl
 [query the systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
 ```console
 # list system log reversely
-$ journalctl -r
+journalctl -r
 -- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
 Oct 15 09:26:08 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Emitting configChanged()
 Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Output 71 : connected = true , enabled = true
 
 # list following system log, like tail -f
-$ journalctl -f
+journalctl -f
 
 # list recent 3 records
-$ journalctl -n 3
+journalctl -n 3
 -- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
 Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr:         Primary: true
 Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Output 71 : connected = true , enabled = true
 Oct 15 09:26:08 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Emitting configChanged()
 
 # check journal log size
-$ journalctl --disk-usage
+journalctl --disk-usage
 Archived and active journals take up 16.0M on disk.
 
 # list sshd service log by json format
-$ journalctl -b -u sshd -o json-pretty
+journalctl -b -u sshd -o json-pretty
 {
         "MESSAGE_ID" : "7d4958e842da4a758f6c1cdc7b36dcc5",
         "_CMDLINE" : "/usr/lib/systemd/systemd --switched-root --system --deserialize 23",
@@ -570,15 +570,15 @@ $ journalctl -b -u sshd -o json-pretty
 enable or disable system services
 ```console
 # list service config status
-$ chkconfig -l
+chkconfig -l
 
 # set mysql service run automatically when machine runs
-$ chkconfig mysql on  
+chkconfig mysql on  
 
 # list service status
-$ systemctl -a
+systemctl -a
 # disable mysql service
-$ systemctl disable mysql
+systemctl disable mysql
 ```
 
 #### turn off console color
@@ -593,14 +593,14 @@ ls --color=never
 #### hwinfo
 ```console
 # see netcard hardware information
-$ hwinfo --netcard
+hwinfo --netcard
 ```
 还可以通过lshw(硬件列表)查看[硬件规格的详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=3&sn=69177e23e332ca7fe24e134babee8879)
 
 #### lsof
 ```console
 # list opened files
-$ lsof | less
+lsof | less
 COMMAND     PID   TID       USER   FD      TYPE             DEVICE  SIZE/OFF       NODE NAME
 ntpd       1181              ntp  rtd       DIR               0,38       294        256 /
 ntpd       1181              ntp  txt       REG               0,38    859304    7010720 /usr/sbin/ntpd
@@ -630,17 +630,17 @@ mysql:x:500:500::/home/mysql:/bin/bash
 #### list all users
 ```console
 # list users
-$ awk -F':' '{print $1}' /etc/passwd
+awk -F':' '{print $1}' /etc/passwd
 
 # count user number
-$ cat /etc/passwd | wc -l
+cat /etc/passwd | wc -l
 
 # The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
 # for user’s account with additional properties related to user password
-$ cat /etc/shadow | wc -l
+cat /etc/shadow | wc -l
 
 # Run psql with postgresSQL user
-$ sudo -u postgresSQL /home/vpostgres/9.6/bin/psql -c "select * from user;"
+sudo -u postgresSQL /home/vpostgres/9.6/bin/psql -c "select * from user;"
 ```
 
 #### add new users
@@ -679,13 +679,13 @@ unset GOBIN
 # -A Use ASCII characters to draw the tree
 # -l Display long lines
 # -h highlight current process
-$ pstree -alA
+pstree -alA
 ```          
 
 #### man
 ```console
 # read nc manual with GB2312 encoding
-$ man -E GB2312 nc
+man -E GB2312 nc
 ```
 
 #### make
@@ -731,29 +731,29 @@ ssh -R 54321:localhost:54321 root@172.16.1.13
 #### find
 ```console
 # search a file by strict name
-$ find /etc -name network.sh  
+find /etc -name network.sh  
 
 # search a file by name regex condition
-$ find /etc -name '[nN]etwork.sh'
+find /etc -name '[nN]etwork.sh'
 
 # search a file by name regex condition case insensitive
-$ find /etc -iname '*network*'
+find /etc -iname '*network*'
 
 # search a file by type 
 # d      directory
 # f      regular file
 # l      symbolic  link
 # s      socket
-$ find . -type f -name *.xml
+find . -type f -name *.xml
 ./pom.xml
 
 # find a file with full path
-$ find $PWD -type f -name *.xml
-$ find $(pwd) -type f -name *.xml
+find $PWD -type f -name *.xml
+find $(pwd) -type f -name *.xml
 /home/king/source/pom.xml
 
 # search all files in home folder and then determine its file type(append action)
-$ find /home -user king -exec file {} \;  
+find /home -user king -exec file {} \;  
 /home/king: directory
 /home/king/.profile: ASCII text
 /home/king/.bash_history: ASCII text
@@ -762,33 +762,33 @@ $ find /home -user king -exec file {} \;
 /home/king/public_html/.directory: ASCII text
 
 # remove all files with 'tgz' suffix found
-$ find / -iname '*.tgz' -exec rm {} \;
+find / -iname '*.tgz' -exec rm {} \;
 ```
 
 #### history
 list系统执行过的命令
 ```console
 # 执行过最后30条命令中的ssh
-$ history 30 | grep ssh
+history 30 | grep ssh
 
 # 执行第15条命令
-$ history
-$ !15
+history
+!15
 
 # 执行倒数第二条命令
-$ !-2
+!-2
 ```
 
 #### cp
 用cp 命令可以用来[备份文件及文件夹](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614871&idx=3&sn=ecfdd00002757af5b360e5e025063d88)
 ```console
 # -r copy directory
-$ cp -rv /home/king/source ./
+cp -rv /home/king/source ./
 
 # create folder in /root
-$ mkdir /root/folder
+mkdir /root/folder
 # -p, --parents     no error if existing, make parent directories as needed
-$ mkdir -p /root/folder/folder1/folder11
+mkdir -p /root/folder/folder1/folder11
 
 # delete a directory
 rm -dfrv /root/folder
@@ -799,31 +799,31 @@ rm -dfrv /root/folder
 # dest /root/folder/folder2/folder22
 
 # dest /root/folder/folder2/folder11
-$ cp -r  /root/folder/folder1/folder11 /root/folder/folder2
+cp -r  /root/folder/folder1/folder11 /root/folder/folder2
 
 # dest /root/folder/folder2/root/folder/folder1/folder11
-$ cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
+cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
 ```
 如果只想复制全部或部分文本内容，而不是文件可以使用[***xclip***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=2&sn=83c9441c9b570038ea8f8e75a89a3cb6)
 ```console
 #复制logfile.logw文件最后 30 行
 # -sel clip 选项可确保内容复制到系统剪贴板
-$ tail -n 30 logfile.log | xclip -sel clip
+tail -n 30 logfile.log | xclip -sel clip
 ```
 
 #### scp
 ```console
 # remote copy file
 # cp local file to remote folder
-$ scp *.log king@ip:/home/king  
+scp *.log king@ip:/home/king  
 # cp remote file to local folder
-$ scp king@ip:/home/king/1.log ./king  
+scp king@ip:/home/king/1.log ./king  
 ```
 
 #### file
 ```console
 # determine file type
-$ file pom.xml
+file pom.xml
 pom.xml: XML document text
 ```
 
@@ -831,26 +831,26 @@ pom.xml: XML document text
 利用[***cksum/md5sum/diff/fslint/rdfind***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614382&idx=3&sn=17456b335c1c8350f6b8a43307cfdb5b)这些命令可以帮助找出系统中一些重复的文件，比如内容完全相同
 ```console
 # calculate file sum using CRC32
-$ cksum pom.xml 
+cksum pom.xml 
 45631085 17500 pom.xml
 
 # calculate file sum using MD5
-$ md5sum pom.xml 
+md5sum pom.xml 
 fd3a531ef4c4eaee39ad0f8f5bb69958  pom.xml
 
 #calculate file sum using SHA1
-$ sha1sum pom.xml 
+sha1sum pom.xml 
 c21e5d0d44640854c17bc5cb614530ca721486ab  pom.xml
 ```
 
 #### base64
 ```console
 # encode string
-$ echo -n 'linux.com' | base64
+echo -n 'linux.com' | base64
 bGludXguY29t
 
 # decode string
-$ echo -n bGludXguY29t | base64 -d  
+echo -n bGludXguY29t | base64 -d  
 linux.com
 
 # 避免echo回显换行符
@@ -866,7 +866,7 @@ king@suse-leap:~/source/github/griffin>
 #### stat
 ```console
 # check file status, like ls -lh or du -h ./
-$ stat pom.xml 
+stat pom.xml 
   File: 'pom.xml'
   Size: 17500           Blocks: 40         IO Block: 4096   regular file
 Device: 803h/2051d      Inode: 37912934    Links: 1
@@ -877,7 +877,7 @@ Change: 2018-09-11 14:34:38.435743906 +0800
  Birth: -
  
 # show file's owner/group
-$ ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
+ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
 king:users
 ```
 
@@ -911,19 +911,19 @@ grep -h 'BaseApp' *log | sort > BaseApp.log
 # -s 
 # --no-messages 
 # suppress messages about nonexistent or unreadable files
-$ grep show *
+grep show *
 check.sh:#send "show \n"
 grep: legacy: Is a directory
-$ grep -s show *
+grep -s show *
 check.sh:#send "show \n"
 
 # -v show lines which do not match the pattern
 # 出现show的行都不会显示 
-$ grep -v show *
+grep -v show *
 check.sh:#send "other \n"
 
 # -E pattern is treated as being an extended regular expression
-$ grep -sE 'de.*' *
+grep -sE 'de.*' *
 check.sh:set host [lindex $argv 0]; 
 open.sh:set host [lindex $argv 0];
 open.sh:send ": debug os-shell\n"
@@ -932,11 +932,11 @@ open.sh:send ": debug os-shell\n"
 grep -vE "(www|ftp)"
 
 # 查找时间戳大于某个时间的日志
-$ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:40"'
+grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:40"'
 # 查找某个时间段的日志
-$ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" '
+grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" '
 # 查找某个时间段的日志并且过滤名称为key的日志
-$ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" && $4!="key" '
+grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" && $4!="key" '
 ```
 ##### grep regular symbol
   Symbol      | Result
@@ -948,7 +948,7 @@ $ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "20
   ()          |  子表达式
   &#166;      |  OR运算符; (www&#166;ftp)匹配“www”或“ftp”
   ^           |  匹配一行的开始
-  $           |  匹配一行结尾
+            |  匹配一行结尾
   &#92;       |  转义符 由于'.'匹配任意字符，当本身匹配时需转义'&#92;.'
 
 #### search gz
@@ -1029,14 +1029,14 @@ curl -k -H "Accept: application/json" -G http://127.0.0.1:8080/api/v1/jobs/insta
 # --form CONTENT  Specify HTTP multipart POST data (H)
 # --form-string STRING  Specify HTTP multipart POST data (H)
 # 提交表单型参数 发起 HTTP GET
-$ curl -s --form project="toyboxman/griffin" --form token="Gq7XIfGqmUJcDrC7XVr4vw" \
+curl -s --form project="toyboxman/griffin" --form token="Gq7XIfGqmUJcDrC7XVr4vw" \
 https://scan.coverity.com/api/upload_permitted
 
 Response:
 {"upload_permitted":true}
 
 # 提交多行json data
-$ curl -i -k -u admin:admin -X PUT https://127.0.0.1/api/v1/jobs/09d3a97b-5ecb-4d78-b85a-4689d7bd95db \
+curl -i -k -u admin:admin -X PUT https://127.0.0.1/api/v1/jobs/09d3a97b-5ecb-4d78-b85a-4689d7bd95db \
 -H "Content-Type: application/json" \
 -d @- <<EOF
 {
@@ -1074,9 +1074,9 @@ brew install aria2
 # Download using 7 connections per host
 aria2c -x 7 https://github.com/testerSunshine/12306/archive/master.zip
 # Download from 2 sources
-$ aria2c http://a/f.iso ftp://b/f.iso
+aria2c http://a/f.iso ftp://b/f.iso
 # Download BitTorrent Magnet URI
-$ aria2c 'magnet:?xt=urn:btih:248D0A1CD08284299DE78D5C1ED359BB46717D8C'
+aria2c 'magnet:?xt=urn:btih:248D0A1CD08284299DE78D5C1ED359BB46717D8C'
 ```
 
 #### tar
@@ -1092,11 +1092,11 @@ tar -xvf a.tar
 # tar命令默认使用当前路径寻找指定目录
 # 如果指定完整路径需要使用-P or --absolute-names allow to use whole path
 # 否则会提示打包目录在当前路径下找不到
-$ tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
+tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
 tar: Removing leading `/' from member names
 /usr/lib64/jvm/jre-1.8.0-openjdk
 # -P or --absolute-names allow to use whole path
-$ tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz 
+tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz 
 
 # 打包和解包 tar.gz/tgz 
 # 打包目录folder1 folder2 同时zip压缩tar文件为a.tar.gz
@@ -1107,12 +1107,12 @@ tar -xzvf jdk-8-linux-x64.tar.gz
 # tar文件中增加新文件
 #  -r (or –append) option to add/append a new file to the end of the archive
 # 把pom.xml和src/test/resources/添加到cls.tar文件最后
-$ tar rvf cls.tar pom.xml src/test/resources/
+tar rvf cls.tar pom.xml src/test/resources/
 # 把src/test/添加到cls.tar文件最后
-$ tar rvf cls.tar src/test/
+tar rvf cls.tar src/test/
 # 查看cls.tar会发现由于上述命令添加两次src/test/resources/
 # tar文件中出现相同重复文件src/test/resources/
-$ tar tvf cls.tar
+tar tvf cls.tar
 ...
 -rw-r--r-- king/users    21711 2019-11-07 22:28 target/classes/org.codehaus.plexus.compiler.javac.arguments
 -rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
@@ -1125,10 +1125,10 @@ drwxr-xr-x king/users        0 2018-03-05 17:08 src/test/java/
 drwxr-xr-x king/users        0 2019-10-10 14:00 src/test/resources/
 -rw-r--r-- king/users     1249 2018-03-05 17:08 src/test/resources/log4j2-test.xml
 # 类似参数还有 -u (or –update) 仅添加比tar中文件更新的文件
-$ tar uvf cls.tar pom.xml
+tar uvf cls.tar pom.xml
 -rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
-$ vi pom.xml
-$ tar uvf cls.tar pom.xml
+vi pom.xml
+tar uvf cls.tar pom.xml
 -rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
 -rw-r--r-- king/users    12648 2019-11-11 10:21 pom.xml
 
@@ -1141,47 +1141,47 @@ tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz
 ```console
 # list zip file named spring.jar by zipinfo
 # jar文件是标准zip格式能用相关命令处理
-$ zipinfo -1 spring.jar
+zipinfo -1 spring.jar
 # list zip file named tomcat.jar by unzip
-> unzip -l tomcat.jar
+unzip -l tomcat.jar
 
 # gzip只能压缩文件,不能压缩目录结构，试图压缩目录会提示错误
 # 如果想压缩目录只能先把整个目录打包成tar文件再压缩
 # 将spring.log压缩成spring.log.gz
-$ gzip spring.log
+gzip spring.log
 
 # 把spring.log.gz解压缩成spring.log
 # -d 默认指定当前目录
-$ gzip -d spring.log.gz
+gzip -d spring.log.gz
 
 # 强制压缩myfile.tar成为myfile.tar.gz
-$ gzip -fv myfile.tar  
+gzip -fv myfile.tar  
 
 # decompress gzip file named spring.gz into ./test folder
 # -d 指定解压目录 ./test
-$ gzip -dtest spring.gz  
+gzip -dtest spring.gz  
 
 # decompress zip file named lib.zip to ./lib folder
-$ unzip -dlib lib.zip  
+unzip -dlib lib.zip  
 # extract zip file to designated folder
-$ unzip lib.zip -d /usr/share/tmp  
+unzip lib.zip -d /usr/share/tmp  
 
 # pipeline gzip&tar
 # tar xvf - 减号指定stdin读取内容并在当前目录解压
-$ gzip -dv < bankApp.tar.gz | tar xvf -   
+gzip -dv < bankApp.tar.gz | tar xvf -   
 
 # -rv 增加并更新zip中文件, 与tar -rv只增加不替换文件处理不一样
 # -uv 更新zip中文件
 # 把antrun/build-main.xml 添加到auth-1.0.jar
-$ zip -rv auth-1.0.jar antrun/build-main.xml 
+zip -rv auth-1.0.jar antrun/build-main.xml 
 # 查看auth-1.0.jar最新文件列表
-$ unzip -l userauth-1.0-tests.jar 
+unzip -l userauth-1.0-tests.jar 
 211  2019-11-07 22:28   antrun/build-main.xml
 # 编辑antrun/build-main.xml再执行更新-rv操作
 # zip文件中对应文件已经被update成最新
 214  2019-11-11 10:50   antrun/build-main.xml
 # 执行-uv也能达到更新作用
-$ zip -uv auth-1.0.jar antrun/build-main.xml 
+zip -uv auth-1.0.jar antrun/build-main.xml 
 
 # -d 删除zip中的文件
 zip -d auth-1.0.jar antrun/build-main.xml
@@ -1191,12 +1191,12 @@ zip -d auth-1.0.jar src/*
 # 注意jar支持参数可以不加- 但zip/gzip 命令参数前都需要-
 
 # 把当前目录下org整个打包成apache.jar
-$ jar cvf apache.jar ./org/*
+jar cvf apache.jar ./org/*
 # 查看打包的文件内容
-$ jar tvf apache.jar
+jar tvf apache.jar
 # -uvf 增加更新jar文件内容
 # jar不支持-r参数
-$ jar uvf auth-1.0.jar ../src/test/resources/
+jar uvf auth-1.0.jar ../src/test/resources/
 ...
 213  2019-11-11 11:00   antrun/build-main.xml
 0  2019-10-10 14:00   src/test/resources/
@@ -1301,7 +1301,7 @@ chmod ugoa+rwx file == chmod 7777 file
 #### chown
 ```console
 # change folder owner to user stack recursive
-$ chown -hR stack folder/    
+chown -hR stack folder/    
 ```
 
 #### chgrp
@@ -1584,19 +1584,19 @@ root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}' | awk -F'"
 # unzip的输出中 $2是日期 $3是time $4是文件名
 # 为了用date+time排序 print $2$3 or $2 $3 格式为'2018-10-1516:27'
 # $2$3之间不能加逗号否则'$2,$3'输出就是'2018-10-15 16:27'
-$ unzip -l open-tracing.jar | awk '{print $2 $3, $4}' | sort -r
+unzip -l open-tracing.jar | awk '{print $2 $3, $4}' | sort -r
 2018-10-1516:27 com/twitter/zipkin/thriftjava/Annotation$1.class
 2018-01-1219:46 META-INF/maven/io.opentracing/opentracing-util/pom.properties
 
 # Awk脚本导入外部变量(Awk执行shell与外部shell非同一个,因此无法识别外部变量)
 # 把[2019-10-31T09:24:27---2019-10-31T09:26:27]时间段日志汇总导出
 # -v 将外部变量导入成为Awk内部变量
-$ export now=`date +"%Y-%m-%dT%T"`; export previous=`date -d "-2 minutes" +"%Y-%m-%dT%T"`
-$ cat /var/log/api.log /var/log/run.log | awk -v start="$previous" -v end="$now" '$0 > start && $0 < end ' > scope.log
+export now=`date +"%Y-%m-%dT%T"`; export previous=`date -d "-2 minutes" +"%Y-%m-%dT%T"`
+cat /var/log/api.log /var/log/run.log | awk -v start="$previous" -v end="$now" '$0 > start && $0 < end ' > scope.log
 
 # 数字计算
-$ echo '11 22 33 44 55 66 77 88' > a.txt 
-$ cat a.txt | awk -F' ' '{print $1 $2}'
+echo '11 22 33 44 55 66 77 88' > a.txt 
+cat a.txt | awk -F' ' '{print $1 $2}'
 1122
 # 加
 cat a.txt | awk -F' ' '{print $1 + $2}'
@@ -1611,26 +1611,26 @@ cat a.txt | awk -F' ' '{print $1 * $2}'
 cat a.txt | awk -F' ' '{print $3 * $2}'
 1.5
 # 求和
-$ echo '77 88 99' > a.txt 
-$ echo '55 66 77' >> a.txt 
-$ echo '11 22 33' >> a.txt 
-$ cat a.txt
+echo '77 88 99' > a.txt 
+echo '55 66 77' >> a.txt 
+echo '11 22 33' >> a.txt 
+cat a.txt
 77 88 99
 55 66 77
 11 22 33
-$ cat a.txt | awk -F' ' '{print $1}'
+cat a.txt | awk -F' ' '{print $1}'
 77
 55
 11
-$ cat a.txt | awk -F' ' '{s+=$1} {print s}'
+cat a.txt | awk -F' ' '{s+=$1} {print s}'
 77
 132  -- 77+55=132
 143  -- 132+11=143
 # END表示做完再打印 参考 man awk
-$ cat a.txt | awk -F' ' '{s+=$1} END {print s}'
+cat a.txt | awk -F' ' '{s+=$1} END {print s}'
 143
 # awk默认用空格分隔,不用-F参数也行
-$ cat a.txt | awk '{ add += $1; subs += $2; loc += $1 - $2 } END \
+cat a.txt | awk '{ add += $1; subs += $2; loc += $1 - $2 } END \
 { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
 added lines: 143, removed lines: 176, total lines: -33
 
@@ -1675,67 +1675,67 @@ shell识别redirect symbols, 并不需要把执行命令写在行首，如下例子
 ```console
 #  < (读出)       > (写入)
 # 运行cat读出文件aa中内容，然后写入到文件bb
-$ >bb <aa cat
+>bb <aa cat
 
 # redirect inputs from three files into sypply_orders
-$ cat stationery tape pens > supply_orders
+cat stationery tape pens > supply_orders
 ```
 * noclobber    
 Avoids Overwriting Files
 ```console
-$ touch tmp
+touch tmp
 # enable noclobber feature, 'set noclobber' in csh
-$ set -o noclobber
-$ echo "hi there" > tmp
+set -o noclobber
+echo "hi there" > tmp
 bash: tmp: cannot overwrite existing file
 # disable noclobber feature, 'unset noclobber' in csh
-$ set +o noclobber
-$ echo "hi there" > tmp
+set +o noclobber
+echo "hi there" > tmp
 ```
 * &#62;&#166;      
 用redirect symbol (>|)覆盖noclobber限制
 ```console
-$ date > tmp2
-$ set -o noclobber
-$ date > tmp2
+date > tmp2
+set -o noclobber
+date > tmp2
 bash: a: cannot overwrite existing file
 # override noclobber by putting a pipe symbol after the redirect symbol (>|).
-$ date >| tmp2
+date >| tmp2
 ```
 
 #### regular expression
 ```console
 # (?) match one character
-$ ls ?old
+ls ?old
 hold
-$ ls \?old
+ls \?old
 ls: ?old: No such file or directory
 
 # asterisk(*) point(!) caret(^) hyphen(–)
-$ ls
+ls
 aa ab ac ad ba bb bc bd cc dd
 # [^tsq]* matches any filename that does not begin with t, s, or q
 # *[^ab] matches filenames that do not end with the letters a or b 
-$ ls *[^ab]
+ls *[^ab]
 ac ad bc bd cc dd
 # [^b-d]* matches filenames that do not begin with b, c, or d
-$ ls [^b-d]*
+ls [^b-d]*
 aa ab ac ad
 
 # A pair of brackets([])
 # lists the names of all files in the working directory
 # that begin with a, e, i, o, or u.
-$ echo [aeiou]*
+echo [aeiou]*
 ...
 # displays the contents of the files named page2.txt, page4.txt, page6.txt, and page8.txt.
-$ less page[2468].txt
+less page[2468].txt
 ...
 ```
 
 #### sort
 ```console
 # sort displays the lines of a file in order
-$ sort days.txt
+sort days.txt
 Friday
 Monday
 Saturday
@@ -1750,13 +1750,13 @@ Wednesday
 # -n, --numeric-sort compare according to string numerical value
 # -h, --human-numeric-sort compare human readable numbers (e.g., 2K 1G)
 # -M, --month-sort compare (unknown) < 'JAN' < ... < 'DEC'
-$ ls | sort -R
+ls | sort -R
 ```
 
 #### uniq
 显示文件内容,删除相同行(不改变原文件内容)
 ```console
-$ cat dups.txt
+cat dups.txt
 Cathy
 Fred
 Joe
@@ -1764,7 +1764,7 @@ John
 Mary
 Mary
 
-$ uniq dups.txt
+uniq dups.txt
 Cathy
 Fred
 Joe
@@ -1776,21 +1776,21 @@ Mary
 显示文件首/尾内容
 ```console
 # -4 显示首四行
-$ sort months | head -4
+sort months | head -4
 Apr
 Aug
 Dec
 Feb
 
 # 监控加到文件尾的内容
-$ tail -f logfile
+tail -f logfile
 ```
 
 #### strings
 查看文件中可显示字符内容
 ```console
 # 查看系统journal文件
-$ strings /var/log/journal/a0848146a8854c519ce698d28901e824/user-1000.journal | grep -i message
+strings /var/log/journal/a0848146a8854c519ce698d28901e824/user-1000.journal | grep -i message
 MESSAGE=kscreen.xcb.helper: RRScreenChangeNotify
 MESSAGE=kscreen.xcb.helper:     Window: 35651588
 ```
@@ -1804,25 +1804,25 @@ MESSAGE=kscreen.xcb.helper:     Window: 35651588
 # -b 1-3,5-7 截取第1到3字节加第5到7字节
 # -b 1- 截取第1到行末尾字节
 # -b -8 截取行首到第8字节
-$ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -b 1-8
+strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -b 1-8
 MESSAGE=
 MESSAGE=
 
 # -c (column) 按指定列数截取内容
 # 用法和-b类似
 # -c 1,3,6 截取第1,3,6字节
-$ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -c 1,3,6
+strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -c 1,3,6
 MSG
 MSG
 
 # -f (field) 按分隔后的字段截取内容
 # -d "delimiter" 指定分隔符
-$ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 2
+strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 2
 kscreen.xcb.helper: RRScreenChangeNotify
 kscreen.xcb.helper:     Window: 35651588
 
 # --output-delimiter 将分隔符替换成指定显示字符截取内容
-$ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 1,2  --output-delimiter='=%='
+strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 1,2  --output-delimiter='=%='
 MESSAGE=%=kscreen.xcb.helper: RRScreenChangeNotify
 MESSAGE=%=kscreen.xcb.helper:     Window: 35651588
 ```
@@ -1830,10 +1830,10 @@ MESSAGE=%=kscreen.xcb.helper:     Window: 35651588
 #### jq
 用命令来[解析和格式化输出 JSON](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614864&idx=2&sn=788bd41fde948f2704d4671d0c6e1b31)
 ```console
-$ cat name.json 
+cat name.json 
 [{"id": 1, "name": "Arthur", "age": "21"},{"id": 2, "name": "Richard", "age": "32"}]
 # 格式化JSON数据 '.'是最简单的格式化filter
-$ cat name.json | jq '.'
+cat name.json | jq '.'
 [
   {
     "id": 1,
@@ -1848,24 +1848,24 @@ $ cat name.json | jq '.'
 ]
 
 # 根据filter查询value
-$ cat name.json | jq '.[0]'
+cat name.json | jq '.[0]'
 {
   "id": 1,
   "name": "Arthur",
   "age": "21"
 }
-$ cat name.json | jq '.[0].name'
+cat name.json | jq '.[0].name'
 "Arthur"
 
 # 整形id进行加法计算
-$ cat name.json | jq '.[0].id + 10'
+cat name.json | jq '.[0].id + 10'
 11
 ```
 
 #### pandoc
 使用 Pandoc 将 Markdown 格式的文件转换为 HTML
 ```console
-$ pandoc -t html file.md
+pandoc -t html file.md
 ```
 
 #### script
@@ -1873,32 +1873,32 @@ $ pandoc -t html file.md
 ```console
 # 启动一次session录制,默认录制文件名typescript
 # script [file-name] 可以指定录制文件名
-$ script
+script
 Script started, file is typescript
-$ whoami
+whoami
 sam
-$ ls -l /bin | head -5
+ls -l /bin | head -5
 total 5024
 -rwxr-xr-x 1 root root 2928 Sep 21 21:42 archdetect
 -rwxr-xr-x 1 root root 1054 Apr 26 15:37 autopartition
 -rwxr-xr-x 1 root root 7168 Sep 21 19:18 autopartition-loop
 -rwxr-xr-x 1 root root 701008 Aug 27 02:41 bash
-$ exit
+exit
 exit
 Script done, file is typescript
 
 # 查看录制输出
-$ cat typescript
+cat typescript
 ```
 
 #### tee
 ```console
 # read from standard input and write to standard output and files
-$ echo 123 | tee a.log
-$ cat a.log
+echo 123 | tee a.log
+cat a.log
 123
-$ echo 456 | tee -a a.log
-$ cat a.log
+echo 456 | tee -a a.log
+cat a.log
 123
 456
 ```
@@ -1924,7 +1924,7 @@ kill -9 1234
 #### Vim
 ```console
 # open a file and position to line denoted
-$ vi +18809 /var/log/sshd.log
+vi +18809 /var/log/sshd.log
 ```
 
   Operation  | Description
@@ -1944,7 +1944,7 @@ Page Up/Down | 上下翻页
    yy           | 复制当前整行的内容到vi缓冲区, 5yy就是复制5行
    m, ny         | :3,5y 复制第三行到第五行内容到缓存区
    yw           | 复制一个单词, 2yw就是复制两个单词
-   y$           | 复制光标所在位置到行尾内容到缓存区
+   y          | 复制光标所在位置到行尾内容到缓存区
    y^          | 复制光标所在位置到行首内容到缓存区
    p             |  粘贴缓存区复制的内容, 5p就是粘贴五次
    /             |  至上而下的查找, /work 查找work字符串, n下一个, shift+n上一个
@@ -2130,16 +2130,16 @@ tcpdump -A -vvv -n host hostname
 tcpdump -v -w capture.cap     
 
 # read pcap file
-$ tcpdump -tttt -r capture.cap
+tcpdump -tttt -r capture.cap
 2019-07-11 06:43:54.086105 IP vm11-dhcp.56980 > 04-dhcp117.6831: UDP, length 3
-$ tcpdump -tttt -nnr capture.cap 
+tcpdump -tttt -nnr capture.cap 
 2019-07-11 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
-$ tcpdump -qns 0 -A -r capture.cap
+tcpdump -qns 0 -A -r capture.cap
 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
 E...VV@.@..t
 .Hy
 u.u......b....
-$ tcpdump -qns 0 -X -r capture.cap
+tcpdump -qns 0 -X -r capture.cap
 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
         0x0000:  4500 001f 5656 4000 4011 8274 0aa1 4879  E...VV@.@..t..Hy
         0x0010:  0a75 0475 de94 1aaf 000b 6220 0a17 0c    .u.u......b....
@@ -2191,35 +2191,35 @@ Service Info: Host: Suse-leap.example.com
 #### dhclient
 ```console
 # set eth0 ip address via dhcp
-$ dhclient eth0
+dhclient eth0
 ```
 
 #### route
 ```console
 # show routing table
-$ ip route show  
-$ route -n
+ip route show  
+route -n
 Kernel IP routing table
 Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 0.0.0.0         10.117.7.253    0.0.0.0         UG    0      0        0 eth0
 10.117.4.0      0.0.0.0         255.255.252.0   U     0      0        0 eth0
 
 # add gateway 'route add default gw {IP-ADDRESS} {INTERFACE-NAME}'
-$ ip route add 192.168.1.0/24 dev eth0
-$ ip route add 192.168.1.0/24 via 192.168.1.254
-$ route add default gw 192.168.1.254 eth0 
-$ route add -net 172.18.0.0 netmask 255.255.0.0  dev eth1
-$ route add -net 172.19.0.0 netmask 255.255.0.0  dev eth1
+ip route add 192.168.1.0/24 dev eth0
+ip route add 192.168.1.0/24 via 192.168.1.254
+route add default gw 192.168.1.254 eth0 
+route add -net 172.18.0.0 netmask 255.255.0.0  dev eth1
+route add -net 172.19.0.0 netmask 255.255.0.0  dev eth1
 
 # show trace route
-$ traceroute 172.18.0.1
+traceroute 172.18.0.1
 ```
 
 #### nslookup-dig
 [nslookup](https://en.wikipedia.org/wiki/Nslookup)是用来查询DNS保存的域名和IP映射关系的，可用来通过Name和IP互查关系
 ```console
-$ nslookup 10.0.0.1
-$ nslookup google.com
+nslookup 10.0.0.1
+nslookup google.com
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
@@ -2231,7 +2231,7 @@ Address: 2404:6800:4012:1::200e
 ```
 [dig](https://en.wikipedia.org/wiki/Dig_(command))也是网络管理命令，来查询DNS信息的
 ```console
-$ dig unix.stackexchange.com
+dig unix.stackexchange.com
 ; <<>> DiG 9.11.5-P1-1ubuntu2.5-Ubuntu <<>> unix.stackexchange.com
 ;; global options: +cmd
 ;; Got answer:
@@ -2255,7 +2255,7 @@ unix.stackexchange.com.	280	IN	A	151.101.65.69
 ;; MSG SIZE  rcvd: 115
 
 # +short , queries DNS servers directly, does not look at /etc/hosts/NSS/etc
-$ dig +short unix.stackexchange.com
+dig +short unix.stackexchange.com
 151.101.1.69
 151.101.193.69
 151.101.129.69
@@ -2268,8 +2268,8 @@ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { getline ; print $5; g
 151.101.193.69
 
 # 通过loop来连续处理awk's workflow
-$ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {getline; print $5}}'
-$ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { \
+dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {getline; print $5}}'
+dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { \
 for (i=1;i<=4;i++) { \
     getline; print $5 \
 }}'
@@ -2279,7 +2279,7 @@ for (i=1;i<=4;i++) { \
 151.101.1.69
 
 # 如果只想输出一个IP, 直接在awk's workflow加入exit命令
-$ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {getline; print $5; exit}}'
+dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {getline; print $5; exit}}'
 151.101.1.69
 ```
 
@@ -2290,12 +2290,12 @@ $ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {
 A core file is an image of a process that has crashed It contains all process information pertinent to debugging: contents of hardware registers, process status, and process data. Gdb will allow you use this file to determine where your program crashed. 
 ```console
 # finding out what made a core file in the first place
-$ cat core |strings |grep -E '^_='
+cat core |strings |grep -E '^_='
 _=./willcore.exe
 
 # gdb <program> -c <core file>
 # gdb core-file
-$ gdb --core core
+gdb --core core
 Core was generated by `./willcore.exe'.
 Program terminated with signal 11, Segmentation fault.
 #0  0x080483d4 in ?? ()
@@ -2354,7 +2354,7 @@ With LVM, we can create logical partitions that can span across one or more phys
 * Finally the logical volumes are created from volume group.<br>
 ***Reference*** : [SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
 ```console
-$ cat /proc/partitions 
+cat /proc/partitions 
 major minor  #blocks  name
    2        0          4 fd0
    8        0   83886080 sda
@@ -2367,7 +2367,7 @@ major minor  #blocks  name
 # if VM resizes storage capacity, need to restart VM. otherwise, fdisk -l doesn't show latest capacity
 # list one directory, fdisk -l /dev/sda4
 # active subcommands, fdisk /dev/sda
-$ fdisk -l
+fdisk -l
 Disk /dev/sda: 80 GiB, 85899345920 bytes, 167772160 sectors
 Units: sectors of 1 * 512 = 512 bytes
 Sector size (logical/physical): 512 bytes / 512 bytes
@@ -2383,7 +2383,7 @@ Device     Boot     Start       End  Sectors  Size Id Type
 
 # LVM2 tools containing all commands like vgscan/lvs/pvs
 # pvs — Report information about Physical Volumes.
-$ pvs -a
+pvs -a
 PV         VG   Fmt Attr PSize PFree
 /dev/sda1           ---           0     0 
 /dev/sda2           ---           0     0 
@@ -2391,18 +2391,18 @@ PV         VG   Fmt Attr PSize PFree
 /dev/sda4           ---           0     0 
 
 # create physical volumes
-$ pvcreate /dev/sda6 /dev/sda7
+pvcreate /dev/sda6 /dev/sda7
 Physical volume "/dev/sda6" successfully created
 Physical volume "/dev/sda7" successfully created
 
 # pvscan — Scan all disks for Physical Volumes.
-$ pvscan -v
+pvscan -v
 PV /dev/sda6                      lvm2 [1.86 GB]
 PV /dev/sda7                      lvm2 [1.86 GB]
 Total: 2 [3.72 GB] / in use: 0 [0   ] / in no VG: 2 [3.72 GB]
 
 # pvdisplay - display attributes of a physical volume
-$ pvdisplay
+pvdisplay
 --- Physical volume ---
   PV Name             /dev/sda6
   VG Name
@@ -2415,11 +2415,11 @@ $ pvdisplay
   PV UUID               m67TXf-EY6w-6LuX-NNB6-kU4L-wnk8-NjjZf
 
 # vgcreate — create a volume group
-$ vgcreate vol_grp1 /dev/sda6 /dev/sda7
+vgcreate vol_grp1 /dev/sda6 /dev/sda7
   Volume  group "vol_grp1" successfully created
 
 # vgdisplay — display attributes of volume groups
-$ vgdisplay
+vgdisplay
   --- Volume group ---
   VG Name                     vol_grp1
   System ID
@@ -2442,15 +2442,15 @@ $ vgdisplay
   VG UUID                     Kk1ufB-rT15-bSWe-5270-KDfZ-shUX
 
 # vgscan — scan all disks for volume groups and rebuild caches
-$ vgscan -v
+vgscan -v
 
 # LVM Create Logical Volumes
 # lvcreate - create a logical volume in an existing volume group
-$ lvcreate -l 20 -n logical_vol1 vol_grp1
+lvcreate -l 20 -n logical_vol1 vol_grp1
   Logical volume "logical_vol1" created
 
 # lvdisplay — display attributes of a logical volume
-$ lvdisplay
+lvdisplay
   --- Logical volume ---
   LV Name                /dev/vol_grp1/logical_vol1
   VG Name                vol_grp1
@@ -2467,19 +2467,19 @@ $ lvdisplay
   Block device            252:0
   
 # lvs — report information about logical volumes
-$ lvs -a  
+lvs -a  
 
 # creating the appropriate filesystem on the logical volumes
 # mke2fs - create an ext2/ext3/ext4 filesystem
 # mkfs/mkfs.btrfs/mkfs.ext2/mkfs.ext4/mkfs.msdos/mkfs.ntfs/...
-$ mkfs.ext3 /dev/vol_grp1/logical_vol1
+mkfs.ext3 /dev/vol_grp1/logical_vol1
 
 # Change the size of the logical volumes
-$ lvextend -L100 /dev/vol_grp1/logical_vol1
+lvextend -L100 /dev/vol_grp1/logical_vol1
   Extending logical volume logical_vol1 to 100.00 MB
   Logical volume logical_vol1 successfully resized
 
-$ lvextend -L+100 /dev/vol_grp1/logical_vol1
+lvextend -L+100 /dev/vol_grp1/logical_vol1
   Extending logical volume logical_vol1 to 200.00 MB
   Logical volume logical_vol1 successfully resized  
 ```   
@@ -2491,11 +2491,11 @@ It is a common requirement to resize/expand btrfs file system since btrfs is wid
 # reboot system to make the new disk visible to OS
 
 # scan new scsi disk device if add a physical disk
-$ rescan-scsi-bus.sh -a
+rescan-scsi-bus.sh -a
 
 # verify the new disk can be seen by operating system
 # list block devices
-$ lsblk -f
+lsblk -f
 NAME   FSTYPE LABEL UUID                                 MOUNTPOINT
 fd0                                                      
 sda                                                      
@@ -2506,7 +2506,7 @@ sda
 sdax  -- this is new physical disk
 
 # check new physical disk
-$ fdisk -l /dev/sdax
+fdisk -l /dev/sdax
 
 Disk /dev/sdax: 10.7 GB, 10737418240 bytes, 20971520 sectors
 Units = sectors of 1 * 512 = 512 bytes
@@ -2514,10 +2514,10 @@ Sector size (logical/physical): 512 bytes / 512 bytes
 I/O size (minimum/optimal): 512 bytes / 512 bytes
 
 # add new disk /dev/sdax to root volume
-$ btrfs device add /dev/sdax /
+btrfs device add /dev/sdax /
 
 # distribute meta data from 1st disk /dev/sda to the 2nd disk /dev/sdax
-$ btrfs filesystem balance /
+btrfs filesystem balance /
 WARNING:
 
 Full balance without filters requested. This operation is very
@@ -2531,7 +2531,7 @@ Starting balance without any filters.
 Done, had to relocate 9 out of 9 chunks
 
 # verify the new size of the filesystem
-$ df -h /
+df -h /
 Filesystem    Size    Used    Avail    Use%    Mounted on
 /dev/sda3    56G     2.5G    52G      5%      /
 ```
@@ -2539,32 +2539,32 @@ Filesystem    Size    Used    Avail    Use%    Mounted on
 ```console
 # fdisk does not support resize partition, so you need to delete the old partition
 # and create a new one partition
-$ fdisk /dev/sda
+fdisk /dev/sda
 
 # let Linux kernel know the change you made to /dev/sda
-$ partprobe
+partprobe
 # if root file system is changed, reboot OS to let kernel see the change. 
 # If it is not a root filesystem, skip this step
-$ shutdown -r now
+shutdown -r now
 
 # resize root folder extending 100M bytes
-$ btrfs filesystem resize +100m /
+btrfs filesystem resize +100m /
 Resize '/' of '+100m'
 ERROR: unable to resize '/': no enough free space
 # resize to maxium
-$ btrfs filesystem resize max /
+btrfs filesystem resize max /
 Resize '/' of 'max'
 
 # Expand the PV on /dev/sda1 after enlarging the partition with fdisk:
-$ pvresize /dev/sda1
+pvresize /dev/sda1
 # Shrink the PV on /dev/sda1 prior to shrinking the partition with fdisk 
 # ensure that the PV size is appropriate for your intended new partition size
-$ pvresize --setphysicalvolumesize 40G /dev/sda1
+pvresize --setphysicalvolumesize 40G /dev/sda1
 
 # grow your partition you can do it with the root mounted
-$ resize2fs /dev/sda1
-$ resize2fs /dev/sda1 25G
-$ resize2fs /dev/sda1 25400M
+resize2fs /dev/sda1
+resize2fs /dev/sda1 25G
+resize2fs /dev/sda1 25400M
 ```
 
 ---
