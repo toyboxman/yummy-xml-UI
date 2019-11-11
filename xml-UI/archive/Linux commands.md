@@ -1080,65 +1080,131 @@ $ aria2c 'magnet:?xt=urn:btih:248D0A1CD08284299DE78D5C1ED359BB46717D8C'
 ```
 
 #### tar
-```bash
+```console
 # List all files in archive.tar verbosely
 tar -tvf archive.tar
+
 # pack folder1 and folder2 into a.tar
 tar -cvf a.tar folder1 folder2   
 # unpack a.tar file
 tar -xvf a.tar
 
-# pack and zip a tar.gz file
+# tar命令默认使用当前路径寻找指定目录
+# 如果指定完整路径需要使用-P or --absolute-names allow to use whole path
+# 否则会提示打包目录在当前路径下找不到
+$ tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
+tar: Removing leading `/' from member names
+/usr/lib64/jvm/jre-1.8.0-openjdk
+# -P or --absolute-names allow to use whole path
+$ tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz 
+
+# 打包和解包 tar.gz/tgz 
+# 打包目录folder1 folder2 同时zip压缩tar文件为a.tar.gz
 tar -czvf a.tar.gz folder1 folder2   
 # unzip and unpack a tar.gz file
 tar -xzvf jdk-8-linux-x64.tar.gz
 
-# pipeline tar&gzip,"-" is a special signal to the tar command to 
-# write to its standard output instead of a file with a name
-tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  
+# tar文件中增加新文件
+#  -r (or –append) option to add/append a new file to the end of the archive
+# 把pom.xml和src/test/resources/添加到cls.tar文件最后
+$ tar rvf cls.tar pom.xml src/test/resources/
+# 把src/test/添加到cls.tar文件最后
+$ tar rvf cls.tar src/test/
+# 查看cls.tar会发现由于上述命令添加两次src/test/resources/
+# tar文件中出现相同重复文件src/test/resources/
+$ tar tvf cls.tar
+...
+-rw-r--r-- king/users    21711 2019-11-07 22:28 target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler2186072818813841806arguments
+-rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
+drwxr-xr-x king/users        0 2019-10-10 14:00 src/test/resources/
+-rw-r--r-- king/users     1249 2018-03-05 17:08 src/test/resources/log4j2-test.xml
+...
+drwxr-xr-x king/users        0 2018-03-05 17:08 src/test/
+drwxr-xr-x king/users        0 2018-03-05 17:08 src/test/java/
+...
+drwxr-xr-x king/users        0 2019-10-10 14:00 src/test/resources/
+-rw-r--r-- king/users     1249 2018-03-05 17:08 src/test/resources/log4j2-test.xml
+# 类似参数还有 -u (or –update) 仅添加比tar中文件更新的文件
+$ tar uvf cls.tar pom.xml
+-rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
+$ vi pom.xml
+$ tar uvf cls.tar pom.xml
+-rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
+-rw-r--r-- king/users    12648 2019-11-11 10:21 pom.xml
 
-# tar default uses current path instead of absolute path
-# use absolute path will pack whole path in tar package
-# tar command below will fail
-tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
-tar: Removing leading `/' from member names
-/usr/lib64/jvm/jre-1.8.0-openjdk
-# 
-# -P or --absolute-names allow to use whole path
-tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz 
+# pipeline tar&gzip,"-" 减号对tar命令是一个特殊signal
+# 把执行压缩结果写入stdout(standard output)而不是路径指定文件中
+tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  
 ```
 
 #### gzip
 ```bash
 # list zip file named spring.jar by zipinfo
+# jar文件是标准zip格式能用相关命令处理
 zipinfo -1 spring.jar
 # list zip file named tomcat.jar by unzip
 unzip -l tomcat.jar
 
-# gzip只能压缩文件,不能压缩目录结构
-# 如果想压缩目录只能先打包tar文件再压缩
-# 把1.log压缩成1.log.gz
-gzip 1.log
-# 把1.log解压缩成1.log
-# -d指定当前目录
-gzip -d 1.log.gz
+# gzip只能压缩文件,不能压缩目录结构，试图压缩目录会提示错误
+# 如果想压缩目录只能先把整个目录打包成tar文件再压缩
+# 将spring.log压缩成spring.log.gz
+gzip spring.log
+
+# 把spring.log.gz解压缩成spring.log
+# -d 默认指定当前目录
+gzip -d spring.log.gz
+
 # 强制压缩myfile.tar成为myfile.tar.gz
 gzip -fv myfile.tar  
-# decompress a gzip file named a.gz into ./test folder
-# -d 指定解压目录
-gzip -dtest a.gz  
 
-# decompress zip file named a.zip to ./test folder
-unzip -dtest a.zip  
+# decompress gzip file named spring.gz into ./test folder
+# -d 指定解压目录 ./test
+gzip -dtest spring.gz  
+
+# decompress zip file named lib.zip to ./lib folder
+unzip -dlib lib.zip  
 # extract zip file to designated folder
-unzip a.zip -d /usr/share/tmp  
+unzip lib.zip -d /usr/share/tmp  
+
 # pipeline gzip&tar
+# tar xvf - 减号指定stdin读取内容并在当前目录解压
 gzip -dv < bankApp.tar.gz | tar xvf -   
 
+# -rv 增加并更新zip中文件, 与tar -rv只增加不替换文件处理不一样
+# -uv 更新zip中文件
+# 把antrun/build-main.xml 添加到auth-1.0.jar
+$ zip -rv auth-1.0.jar antrun/build-main.xml 
+# 查看auth-1.0.jar最新文件列表
+$ unzip -l userauth-1.0-tests.jar 
+211  2019-11-07 22:28   antrun/build-main.xml
+# 编辑antrun/build-main.xml再执行更新-rv操作
+# zip文件中对应文件已经被update成最新
+214  2019-11-11 10:50   antrun/build-main.xml
+# 执行-uv也能达到更新作用
+$ zip -uv auth-1.0.jar antrun/build-main.xml 
+
+# -d 删除zip中的文件
+zip -d auth-1.0.jar antrun/build-main.xml
+# 删除zip中的文件目录
+zip -d auth-1.0.jar src/*
+# jar不支持-d 因此只能用zip来删除其中文件
+# 注意jar支持参数可以不加- 但zip/gzip 命令参数前都需要-
+
 # 把当前目录下org整个打包成apache.jar
-jar cvf apache.jar ./org/*
+$ jar cvf apache.jar ./org/*
 # 查看打包的文件内容
-jar tvf apache.jar
+$ jar tvf apache.jar
+# -uvf 增加更新jar文件内容
+# jar不支持-r参数
+$ jar uvf auth-1.0.jar ../src/test/resources/
+...
+213  2019-11-11 11:00   antrun/build-main.xml
+0  2019-10-10 14:00   src/test/resources/
+1249  2018-03-05 17:08   src/test/resources/log4j2-test.xml
+# 编辑log4j2-test.xml再执行uvf操作, 能发现jar(zip)格式文件已更新
+213  2019-11-11 11:00   antrun/build-main.xml
+0  2019-11-11 11:08   src/test/resources/
+1248  2019-11-11 11:08   src/test/resources/log4j2-test.xml
 ```
 
 #### ln
