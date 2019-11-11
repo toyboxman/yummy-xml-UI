@@ -149,13 +149,13 @@ Platform Redhat Enterprise Server
 ### Monitor system information
 
 #### list system details
-```bash
+```console
 $ dmesg | less
 ```
 
 #### list kernel modules
 Linux提供一些检查[kernel module](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=1&sn=7159c073e8b89edf4a7920227308e25f)的命令
-```bash
+```console
 $ lsmod
 Module                  Size  Used by
 fuse                  106496  3 
@@ -164,7 +164,7 @@ iscsi_ibft             16384  0
 iscsi_boot_sysfs       20480  1 iscsi_ibft
 ```
 [ldd命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614629&idx=1&sn=f51ea2e0e705ce633242414a40457e92)可以检查任何程序文件使用的共享库(so或dll)。LD_PRELOAD 环境变量是在进程启动时加载共享库的最简单且最受欢迎的方法，可以将此环境变量配置到共享库的路径，以便在加载其他共享对象之前加载该共享库。
-```bash
+```console
 $ export LD_PRELOAD=/home/showme.so
 $ ldd /usr/bin/ls
         linux-vdso.so.1 (0x00007ffe75d87000)
@@ -180,7 +180,7 @@ $ ldd /usr/bin/ls
 
 #### show Linux version
 查找 Linux 发行版[版本和内核详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614992&idx=2&sn=be38dea71cd45f28ac4664e8d1daeb01)
-```bash
+```console
 $ cat /etc/*-release
 $ cat /etc/issue
 $ cat /proc/version
@@ -188,7 +188,7 @@ $ uname -a
 ```
 
 #### show network details
-```bash
+```console
 # list ip local port range
 $ cat /proc/sys/net/ipv4/ip_local_port_range
 
@@ -208,7 +208,7 @@ $ cat /sys/class/net/eth0/speed
 ```
 
 #### df/du
-```bash
+```console
 # show current folder disk info
 # -h size unit using Giga
 # -m size unit using Mega
@@ -247,7 +247,7 @@ du -h /home | sort -hr | less
 ```
 
 #### free
-```bash
+```console
 # show memory info by mega
 free -m
 
@@ -268,7 +268,7 @@ Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。
 - [null](https://en.wikipedia.org/wiki/Null_device)
 
 /dev/null device是数据容器，常常用来丢弃数据流，有点类似垃圾箱功能, 你可以把所有不想保留的和不想回显的都重定向过去。
-```bash
+```console
 $ echo "hi there" > /dev/null
 $
 # When you read from /dev/null, you get a null string
@@ -304,7 +304,7 @@ ls > /dev/null 1>&2
 
 #### stat/getfacl/setfacl
 通过[***stat***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614362&idx=1&sn=9159b08467717eab2520c4ff73a9d5c1)命令可以获取文件包括权限在内的完整信息
-```bash
+```console
 # display the maximum length of a filename
 # Namelen: is the maximum number of characters permitted in 
 # a filename on the specified filesystem (/home)
@@ -332,7 +332,7 @@ mask::rwother::r--
 
 #### top
 + [批处理模式下运行top](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615438&idx=3&sn=db97844f1644ddbdce0b00739f58d1d4)
-```bash
+```console
 # list processes/memory etc.
 # 'h' for help content
 # 'z' enable color
@@ -358,7 +358,7 @@ for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
 ```
 
 #### w/uptime/cal
-```bash
+```console
 $ w
 06:31:39 up 2 days, 4 min,  1 user,  load average: 2.84, 2.83, 2.54
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
@@ -379,7 +379,7 @@ Su Mo Tu We Th Fr Sa
 
 #### date
 更多[时间格式参数](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
-```bash
+```console
 # %y	last two digits of year (00..99)
 # %d	day of month (e.g, 01)
 # %m	month (01..12)
@@ -445,7 +445,7 @@ $ date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
 
 #### sysctl
 sysctl is used to modify kernel parameters at runtime. The parameters available are those listed under /proc/sys/, sysctl both reads and writes sysctl data
-```bash
+```console
 # list kernel parameters
 $ /sbin/sysctl -a
 
@@ -460,7 +460,7 @@ $ /sbin/sysctl -w kernel.domainname="example.com"
 
 #### ulimit
 [Ulimit](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=2&sn=2a52adca9e4d1a4c496bccbbba8bd0ca) modify shell resource limits. Provides control over the resources available to the shell and processes it creates, on systems that allow such control.
-```bash
+```console
 # list all
 $ ulimit -a
 
@@ -495,7 +495,7 @@ $ ulimit -n
 
 #### list services port
 可以通过[***getent***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614586&idx=4&sn=1355e222ddbbfc52663ffe0585d610a9)或grep命令来实现
-```bash
+```console
 $ getent services http ssh
 http                  80/tcp
 ssh                   22/tcp
@@ -508,7 +508,7 @@ ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
 
 #### systemctl 
 Control the systemd system and service manager
-```bash
+```console
 # start sshd service
 $ systemctl start sshd
 
@@ -534,7 +534,7 @@ $ systemctl link /path/to/servicename.service
 
 #### journalctl
 [query the systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
-```bash
+```console
 # list system log reversely
 $ journalctl -r
 -- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
@@ -568,7 +568,7 @@ $ journalctl -b -u sshd -o json-pretty
 
 #### chkconfig
 enable or disable system services
-```bash
+```console
 # list service config status
 $ chkconfig -l
 
@@ -583,7 +583,7 @@ $ systemctl disable mysql
 
 #### turn off console color
 通过管理[环境变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614303&idx=1&sn=ae14179470cf3d2253566e6571b0dc49)可以对console进行配置
-```bash
+```console
 ls --color=never
 
 # permanently turn-off via adding " alias ls='ls --color=never' " in .bashrc
@@ -591,14 +591,14 @@ ls --color=never
 通过alias-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664612965&idx=3&sn=e970df20ee0ca36d14deb3dad5232924),  [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614310&idx=2&sn=ed24581eeef6369457250ef599dca913)可以自己构建的命令
 
 #### hwinfo
-```bash
+```console
 # see netcard hardware information
 $ hwinfo --netcard
 ```
 还可以通过lshw(硬件列表)查看[硬件规格的详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=3&sn=69177e23e332ca7fe24e134babee8879)
 
 #### lsof
-```bash
+```console
 # list opened files
 $ lsof | less
 COMMAND     PID   TID       USER   FD      TYPE             DEVICE  SIZE/OFF       NODE NAME
@@ -610,7 +610,7 @@ ntpd       1181              ntp  mem       REG               0,38     18712    
 
 #### activate account
 下面操作通过chsh来解锁账户，锁定解锁账户还可以通过[passwd-usermod](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614551&idx=4&sn=1fe26891f317be58f23e5c8b345cb935)来实现
-```bash
+```console
 # activate an account via chsh
 # "This account is currently not available" error means what is says
 # The account you are trying to “su” to or trying to login with is 
@@ -628,7 +628,7 @@ mysql:x:500:500::/home/mysql:/bin/bash
 ```
 
 #### list all users
-```bash
+```console
 # list users
 $ awk -F':' '{print $1}' /etc/passwd
 
@@ -644,7 +644,7 @@ $ sudo -u postgresSQL /home/vpostgres/9.6/bin/psql -c "select * from user;"
 ```
 
 #### add new users
-```bash
+```console
 # add new user test by default configuration
 useradd test  
 # change test initial pwd
@@ -662,7 +662,7 @@ usermod -G root,test  test
 ### Usual command
 #### env
 [config env](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614303&idx=1&sn=ae14179470cf3d2253566e6571b0dc49)
-```bash
+```console
 env | more
 printenv | less
 
@@ -674,7 +674,7 @@ unset GOBIN
 ```
 
 #### pstree
-```bash
+```console
 # -a Show command line arguments
 # -A Use ASCII characters to draw the tree
 # -l Display long lines
@@ -683,14 +683,14 @@ $ pstree -alA
 ```          
 
 #### man
-```bash
+```console
 # read nc manual with GB2312 encoding
 $ man -E GB2312 nc
 ```
 
 #### make
 make命令用来在Linux平台上手动编译安装软件包, 还可以用[Autotools 打包DEB 和 RPM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)
-```bash
+```console
 # compile and install
 ./configure
 make
@@ -707,7 +707,7 @@ sudo make clean
 ```
 
 #### ssh
-```bash
+```console
 # Generating public/private rsa key pair
 ssh-keygen -t rsa
 # login remote host
@@ -729,7 +729,7 @@ ssh -R 54321:localhost:54321 root@172.16.1.13
 ```
 
 #### find
-```bash
+```console
 # search a file by strict name
 $ find /etc -name network.sh  
 
@@ -767,7 +767,7 @@ $ find / -iname '*.tgz' -exec rm {} \;
 
 #### history
 list系统执行过的命令
-```bash
+```console
 # 执行过最后30条命令中的ssh
 $ history 30 | grep ssh
 
@@ -781,7 +781,7 @@ $ !-2
 
 #### cp
 用cp 命令可以用来[备份文件及文件夹](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614871&idx=3&sn=ecfdd00002757af5b360e5e025063d88)
-```bash
+```console
 # -r copy directory
 $ cp -rv /home/king/source ./
 
@@ -805,14 +805,14 @@ $ cp -r  /root/folder/folder1/folder11 /root/folder/folder2
 $ cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
 ```
 如果只想复制全部或部分文本内容，而不是文件可以使用[***xclip***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=2&sn=83c9441c9b570038ea8f8e75a89a3cb6)
-```bash
+```console
 #复制logfile.logw文件最后 30 行
 # -sel clip 选项可确保内容复制到系统剪贴板
 $ tail -n 30 logfile.log | xclip -sel clip
 ```
 
 #### scp
-```bash
+```console
 # remote copy file
 # cp local file to remote folder
 $ scp *.log king@ip:/home/king  
@@ -821,7 +821,7 @@ $ scp king@ip:/home/king/1.log ./king
 ```
 
 #### file
-```bash
+```console
 # determine file type
 $ file pom.xml
 pom.xml: XML document text
@@ -829,7 +829,7 @@ pom.xml: XML document text
 
 #### checksum
 利用[***cksum/md5sum/diff/fslint/rdfind***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614382&idx=3&sn=17456b335c1c8350f6b8a43307cfdb5b)这些命令可以帮助找出系统中一些重复的文件，比如内容完全相同
-```bash
+```console
 # calculate file sum using CRC32
 $ cksum pom.xml 
 45631085 17500 pom.xml
@@ -844,7 +844,7 @@ c21e5d0d44640854c17bc5cb614530ca721486ab  pom.xml
 ```
 
 #### base64
-```bash
+```console
 # encode string
 $ echo -n 'linux.com' | base64
 bGludXguY29t
@@ -864,7 +864,7 @@ king@suse-leap:~/source/github/griffin>
 ```
 
 #### stat
-```bash
+```console
 # check file status, like ls -lh or du -h ./
 $ stat pom.xml 
   File: 'pom.xml'
@@ -882,7 +882,7 @@ king:users
 ```
 
 #### search txt
-```bash
+```console
 # search keyword in src and its sub folders
 # -n show line number
 # -r recursively search
@@ -952,7 +952,7 @@ $ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "20
   &#92;       |  转义符 由于'.'匹配任意字符，当本身匹配时需转义'&#92;.'
 
 #### search gz
-```bash
+```console
 # zgrep search keyword in current folder from *.gz files
 zgrep -in "#bare" *.gz
 
@@ -965,17 +965,17 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 
 #### zcat
 zcat用来读取压缩文件内容
-```bash
+```console
 # show file content by page
 zcat syslog.1.gz | less
 ```
 tac就是cat倒序命令，可以从后往前读取文件内容
-```bash
+```console
 tac pom.xml | grep 'schema'
 ```
 
 #### Crontab
-```bash
+```console
 # list current running cron task
 crontab -l 
 # open cron task editor and insert a curl task periodically by 1 second
@@ -994,7 +994,7 @@ crontab -r
 #### Curl
 > [Link](http://conqueringthecommandline.com/book/curl)  
 > [Curl学习指南](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446117&idx=2&sn=711f87e47a0c3565164612138d8dc811)
-```bash
+```console
 # (H) means HTTP/HTTPS only, (F) means FTP only
 # -i, --include   Include protocol headers in the output (H/F)
 # -k, --insecure  Allow connections to SSL sites without certs (H)
@@ -1047,7 +1047,7 @@ EOF
 ```
 
 ##### download
-```bash
+```console
 # wget download jdk package w/ header
 # -c / --continue  Continue getting a partially-downloaded file
 wget -c --no-cookies \
@@ -1066,7 +1066,7 @@ http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61a
 ```
 上面两种方式都是单线程下载模式，如果希望支持多协议多线程模式，可以使用[aria2](https://aria2.github.io/), 支持
 HTTP/HTTPS, FTP, SFTP, BitTorrent／Metalink
-```bash
+```console
 # install on mac
 brew search aria2
 brew install aria2
@@ -1208,7 +1208,7 @@ $ jar uvf auth-1.0.jar ../src/test/resources/
 ```
 
 #### ln
-```bash
+```console
 # link a file to destination, it is better to use absolute 
 # path instead of relative path, unless it will lead broken link file
 
@@ -1225,7 +1225,7 @@ sudo ln -s /apache/data /data
 ```
 
 #### netstat
-```bash
+```console
 # monitor port status
 netstat -tlnpu
 
@@ -1239,13 +1239,13 @@ netstat -tanp | less
 
 #### nohup
 run a command immune to hangups, with output to a non-tty
-```bash
+```console
 # put task to background without hangup
 nohup command & 
 ```
 
 #### mount/umount
-```bash
+```console
 # mount remote nfs folder jars to local tor folder
 mount -t nfs 10.137.16.80:/nfsroot/jars /home/king/tor 
 
@@ -1258,11 +1258,11 @@ umount -lv /home/king/tor
 ```
 
 * command1; command2; command3 -- batch execute command
-```bash
+```console
 vncserver -kill :1; vncserver
 ```
 * command1 >> file -- redirect file
-```bash
+```console
 # output result to file, double greater than sign goes, result appends to file
 ls >> file 
 # one greater than sign overrides file
@@ -1270,7 +1270,7 @@ ls > file
 ```
 * tty  --show current console id
 * system setting
-```bash
+```console
 system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
                     -services -- open service configuration GUI(just like system services of windows)
                     -samba   -- open samba service configuration GUI
@@ -1287,31 +1287,31 @@ system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
                     -printer -- open printer configuration GUI
 ```
 * GNOME display manager
-```bash
+```console
 # note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart'
 gdm 
 ```
 
 #### chmod
-```bash
+```console
 # ugoa(owner,group,others, all users) rwx(4,2,1)
 chmod ugoa+rwx file == chmod 7777 file
 ```
 
 #### chown
-```bash
+```console
 # change folder owner to user stack recursive
 $ chown -hR stack folder/    
 ```
 
 #### chgrp
-```bash
+```console
 # change group of folder to root group recursive
 chgrp -hR root folder/     
 ```
 
 #### chsh
-```bash
+```console
 # change default shell command to bash
 chsh -s /bin/bash 
 # which is current default shell
@@ -1322,7 +1322,7 @@ which sh
 
 #### basic network configuration of  Linux
 * network config files
-```bash
+```console
 # net mask
 /etc/sysconfig/network   
 # gateway, ethernet
@@ -1334,7 +1334,7 @@ which sh
 ```
 * Change Network Interface Name
 The best way to rename a network interface is through udev.
-```bash
+```console
 # query net interface mac address
 1.ifconfig -a | grep -i --color hwaddr  
 #  change the interface name of a network device.
@@ -1343,7 +1343,7 @@ The best way to rename a network interface is through udev.
 ```
 Or, use yast2 in Suse to change network config and rename nic
 * show current bridge
-```bash
+```console
 brctl show
 result:
 bridge name bridge id       STP enabled interfaces
@@ -1362,7 +1362,7 @@ ip addr show br0
 ### TXT operation 
 > [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
 #### diff/patch
-```bash
+```console
 # 创建patch
 diff -u hello.c hello_new.c > hello.patch  
 
@@ -1380,7 +1380,7 @@ patch -p 5 < ../rb1138637.patch
 checking file src/test/java/com/example/EndPoint.java
 ```
 #### xargs
-```bash
+```console
 # xargs把管道传入的结果转成一行,空格分隔出的每一个词可以作为后面命令输入参数
 # 比如 cat <file1>  <file2>  <file3>可以打印三个文件内容
 
@@ -1390,7 +1390,7 @@ ls ./ | xargs cat
 ```
 
 #### wc
-```bash
+```console
 # wc 打印 newline, word, and byte counts
 # -l, --lines  print the newline counts
 
@@ -1402,11 +1402,11 @@ git ls-files | xargs cat | wc -l
 ```
 
 * count code lines
-```bash
+```console
 find . -name *.java | xargs cat | wc -l
 ```
 * count word amount
-```bash
+```console
 # count how many sshd deamon running
 ps -ef | grep -c 'sshd' 
 # 等同于
@@ -1415,7 +1415,7 @@ ps -ef | grep 'sshd' | wc -l
 
 ####  expand/unexpand
 [expand](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614435&idx=3&sn=9155d9cc9f0e401992afe31cf3c096a7) - convert tabs to spaces
-```bash
+```console
 # 默认TAB 的宽度8
 expand tech.txt
 # 设置每个 TAB 的宽度
@@ -1435,21 +1435,21 @@ unexpand -t 5,10,15 tech.txt
 
 ####  fold
 fold - wrap each input line to fit in specified width
-```bash
+```console
 # -w, --width=WIDTH use WIDTH columns instead of 80
 netstat -tlnpu | fold -w 120
 ```
 
 ####  unix2dos/dos2unix
 unix2dos/dos2unix -- format transfer
-```bash
+```console
 dos2unix file
 ```
 
 #### Hd/Od
 [hexdump, hd](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615031&idx=1&sn=a700b7e2c0c94ddc9d9a927a9add599f) — ASCII, decimal, hexadecimal, octal dump   
 od - dump files in octal and other formats
-```bash
+```console
 # -c 输入字符串按字节逐个显示字符,offset中对应显示16进制格式 
 echo xxxxxxCONTROL-V CONTROL-U | hd -c
 00000000  78 78 78 78 78 78 43 4f  4e 54 52 4f 4c 2d 56 20  |xxxxxxCONTROL-V |
@@ -1490,7 +1490,7 @@ echo xxxxxxCONTROL-V CONTROL-U | od -c
 > [删除文件中的行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615008&idx=1&sn=40529d874b3634ce7c3587916e78c17d)<br>
 > [查找和替换文件中的字符串的 16 个示例](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=2&sn=35b89d57c5fc46d461f9cb0cb95d7de1)<br>
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)
-```bash
+```console
 # s 指令是substitute  g指令是global全局
 # -i 表示在当前文件中 in-place, 无此参数不会实际替换文件,仅测试执行结果 
 # *.txt 指定在所有当前txt文件中, 此命令将替换所有符合条件的字符串
@@ -1559,7 +1559,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 
 #### awk
 >[awk-loop](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)
-```bash
+```console
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
@@ -1660,7 +1660,7 @@ file:/opt/controller/log4j-controller.properties -server -Xmx4096m
 ```
 
 #### read
-```bash
+```console
 read -a topic <<< "1 2 3";echo $topic
 1
 read -a topic <<< "1 2 3";echo $topic[1]
@@ -1672,7 +1672,7 @@ read -a topic <<< "1 2 3";echo $topic[2]
 #### redirect symbol
 * < >      
 shell识别redirect symbols, 并不需要把执行命令写在行首，如下例子
-```bash
+```console
 #  < (读出)       > (写入)
 # 运行cat读出文件aa中内容，然后写入到文件bb
 $ >bb <aa cat
@@ -1682,7 +1682,7 @@ $ cat stationery tape pens > supply_orders
 ```
 * noclobber    
 Avoids Overwriting Files
-```bash
+```console
 $ touch tmp
 # enable noclobber feature, 'set noclobber' in csh
 $ set -o noclobber
@@ -1694,7 +1694,7 @@ $ echo "hi there" > tmp
 ```
 * &#62;&#166;      
 用redirect symbol (>|)覆盖noclobber限制
-```bash
+```console
 $ date > tmp2
 $ set -o noclobber
 $ date > tmp2
@@ -1704,7 +1704,7 @@ $ date >| tmp2
 ```
 
 #### regular expression
-```bash
+```console
 # (?) match one character
 $ ls ?old
 hold
@@ -1733,7 +1733,7 @@ $ less page[2468].txt
 ```
 
 #### sort
-```bash
+```console
 # sort displays the lines of a file in order
 $ sort days.txt
 Friday
@@ -1755,7 +1755,7 @@ $ ls | sort -R
 
 #### uniq
 显示文件内容,删除相同行(不改变原文件内容)
-```bash
+```console
 $ cat dups.txt
 Cathy
 Fred
@@ -1774,7 +1774,7 @@ Mary
 
 #### head/tail
 显示文件首/尾内容
-```bash
+```console
 # -4 显示首四行
 $ sort months | head -4
 Apr
@@ -1788,7 +1788,7 @@ $ tail -f logfile
 
 #### strings
 查看文件中可显示字符内容
-```bash
+```console
 # 查看系统journal文件
 $ strings /var/log/journal/a0848146a8854c519ce698d28901e824/user-1000.journal | grep -i message
 MESSAGE=kscreen.xcb.helper: RRScreenChangeNotify
@@ -1797,7 +1797,7 @@ MESSAGE=kscreen.xcb.helper:     Window: 35651588
 
 #### cut
 删除文件行中部分内容
-```bash
+```console
 # -b(byte) 按指定字节数截取内容
 # -b 1-8 截取第1到8字节
 # -b 2,5,7 截取第2,5,7字节
@@ -1829,7 +1829,7 @@ MESSAGE=%=kscreen.xcb.helper:     Window: 35651588
 
 #### jq
 用命令来[解析和格式化输出 JSON](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614864&idx=2&sn=788bd41fde948f2704d4671d0c6e1b31)
-```bash
+```console
 $ cat name.json 
 [{"id": 1, "name": "Arthur", "age": "21"},{"id": 2, "name": "Richard", "age": "32"}]
 # 格式化JSON数据 '.'是最简单的格式化filter
@@ -1864,13 +1864,13 @@ $ cat name.json | jq '.[0].id + 10'
 
 #### pandoc
 使用 Pandoc 将 Markdown 格式的文件转换为 HTML
-```bash
+```console
 $ pandoc -t html file.md
 ```
 
 #### script
 录制一个session中多个命令交互输出
-```bash
+```console
 # 启动一次session录制,默认录制文件名typescript
 # script [file-name] 可以指定录制文件名
 $ script
@@ -1892,7 +1892,7 @@ $ cat typescript
 ```
 
 #### tee
-```bash
+```console
 # read from standard input and write to standard output and files
 $ echo 123 | tee a.log
 $ cat a.log
@@ -1908,13 +1908,13 @@ $ cat a.log
 #### kill process
 * send signal
 A process can be sent a SIGTERM signal in three ways (the process ID is '1234' in this case):
-```bash
+```console
 kill 1234
 kill -TERM 1234
 kill -15 1234
 ```
 The process can be sent a SIGKILL signal in two ways:
-```bash
+```console
 kill -KILL 1234
 kill -9 1234
 ```
@@ -1922,7 +1922,7 @@ kill -9 1234
 ---
 
 #### Vim
-```bash
+```console
 # open a file and position to line denoted
 $ vi +18809 /var/log/sshd.log
 ```
@@ -1970,7 +1970,7 @@ Shift+Insert   |  粘贴系统剪贴板内容
 > [Basic](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
 > [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
 > [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
-```bash
+```console
 # 列出防火墙所有规则，按规则号显示
 # --list/-L  List all the rules
 sudo iptables -L --line-numbers  
@@ -2078,7 +2078,7 @@ SYN URGP=0
 
 #### nc
 check remote port status
-```bash
+```console
 # check Range of ports
 nc -zv 127.0.0.1 20-30  
 
@@ -2106,7 +2106,7 @@ nc -x10.2.3.4:8080 -Xconnect -Puser -w5 host.example.com 42
 
 #### ping/arping
 traffic check
-```bash
+```console
 # set L3 ping packet from port to other  using ICMP
 ping -I port1 192.168.2.10   
 # set L2 ping using ARP
@@ -2118,7 +2118,7 @@ cat /proc/net/arp
 
 #### tcpdump
 > [Link](https://danielmiessler.com/study/tcpdump/#examples)
-```bash
+```console
 # show all interfaces
 tcpdump -D  
 # capture packet from interface p1
@@ -2166,7 +2166,7 @@ tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
 tcpdump -i eth0 host 10.117.4.117 and udp -w capture.cap
 ```
 #### nmap
-```bash
+```console
 nmap -O -sS localhost
 # scan current host network information and produce a map to describe
 nmap -v -A localhost    
@@ -2189,13 +2189,13 @@ Service Info: Host: Suse-leap.example.com
 ```
 
 #### dhclient
-```bash
+```console
 # set eth0 ip address via dhcp
 $ dhclient eth0
 ```
 
 #### route
-```bash
+```console
 # show routing table
 $ ip route show  
 $ route -n
@@ -2288,7 +2288,7 @@ $ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {
 ### DEBUG
 #### gdb
 A core file is an image of a process that has crashed It contains all process information pertinent to debugging: contents of hardware registers, process status, and process data. Gdb will allow you use this file to determine where your program crashed. 
-```bash
+```console
 # finding out what made a core file in the first place
 $ cat core |strings |grep -E '^_='
 _=./willcore.exe
@@ -2334,13 +2334,13 @@ $4 = 0x0
 ```
 
 #### objdump
-```bash
+```console
 # objdump - display information from object files.
 objdump -s core
 ```
 
 #### size
-```bash
+```console
 # size - list section sizes and total size.
 size -td core
 ```
@@ -2353,7 +2353,7 @@ With LVM, we can create logical partitions that can span across one or more phys
 * Then those physical volumes are combined together to create the volume group,
 * Finally the logical volumes are created from volume group.<br>
 ***Reference*** : [SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
-```bash
+```console
 $ cat /proc/partitions 
 major minor  #blocks  name
    2        0          4 fd0
@@ -2485,7 +2485,7 @@ $ lvextend -L+100 /dev/vol_grp1/logical_vol1
 ```   
 It is a common requirement to resize/expand btrfs file system since btrfs is widely used in Linux and also as Docker’s backend storage driver. There are two kinds of way to resize/expand root volume.
 - Add a new disk into the same btrfs volume
-```bash
+```console
 # you can add a new disk to the system by either presenting a new LUN 
 # or attach a new virtual disk if you are running a virtual machine
 # reboot system to make the new disk visible to OS
@@ -2536,7 +2536,7 @@ Filesystem    Size    Used    Avail    Use%    Mounted on
 /dev/sda3    56G     2.5G    52G      5%      /
 ```
 - Expand to use available space on original disk
-```bash
+```console
 # fdisk does not support resize partition, so you need to delete the old partition
 # and create a new one partition
 $ fdisk /dev/sda
@@ -2571,7 +2571,7 @@ $ resize2fs /dev/sda1 25400M
 
 ### VM Image operation
 * guestfish
-```bash
+```console
 virt-copy-out -a controller.vmdk /opt/nvp/etc/api_server.conf ./
 virt-copy-in -a controller.vmdk api_server.conf /opt/nvp/etc
 virt-edit -a controller.vmdk /opt/nvp/etc/api_server.conf
