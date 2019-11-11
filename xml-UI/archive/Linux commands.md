@@ -710,16 +710,20 @@ sudo make clean
 ```console
 # Generating public/private rsa key pair
 ssh-keygen -t rsa
-# login remote host
+# login remote host with password prompt
 ssh root@172.16.8.38
+# login with private key file
+ssh -i private.key root@172.16.8.38
+# 省略password输入步骤
+# 先用ssh-keygen产生秘钥对再ssh-copy-id安装remote server
+# 后续ssh login就不用手动输入密码,包括scp操作也不用密码
+ssh-copy-id root@172.16.8.38
+
+# ssh远程执行命令
 # 'ls -al /root' folder in remote host
 ssh root@172.16.8.38 ls -al
 
-# login with private key file
-ssh -i private.key root@172.16.8.38
-
-# Specifies that connections to the given TCP port on the remote (server) host 
-# are to be forwarded to the given host and port on the local side
+# 指定remote host上给定的TCP port转发报文到指定本地host某个port
 # -R [bind_address:]port:host:hostport
 # 如果目标机器在私有网段,需要通过jumphost才能访问.那么通过多次转发方式可以将
 # 内部机器一些端口数据转发出来进行分析监控,例如 public -> jumphost -> private
@@ -818,6 +822,14 @@ tail -n 30 logfile.log | xclip -sel clip
 scp *.log king@ip:/home/king  
 # cp remote file to local folder
 scp king@ip:/home/king/1.log ./king  
+
+# -r 远程拷贝目录
+# 如果希望scp操作不用每次输入login密码
+# 可以通过ssh部分免密ssh-copy-id设置
+# 还可以使用sshpass需要额外安装
+sshpass -p "password" scp -r user@172.10.1.1:/remote/path /local/path
+# 或者使用密码文件
+sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/path
 ```
 
 #### file
