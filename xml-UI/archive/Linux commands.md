@@ -1138,7 +1138,7 @@ tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz
 ```
 
 #### gzip
-```shell
+```{r, engine='bash', count_lines}
 # list zip file named spring.jar by zipinfo
 # jar文件是标准zip格式能用相关命令处理
 zipinfo -1 spring.jar
