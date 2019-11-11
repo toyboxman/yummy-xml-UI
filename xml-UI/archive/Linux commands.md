@@ -1138,37 +1138,37 @@ tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz
 ```
 
 #### gzip
-```{r, engine='bash', count_lines}
+```console
 # list zip file named spring.jar by zipinfo
 # jar文件是标准zip格式能用相关命令处理
-zipinfo -1 spring.jar
+$ zipinfo -1 spring.jar
 # list zip file named tomcat.jar by unzip
-unzip -l tomcat.jar
+king@suse > unzip -l tomcat.jar
 
 # gzip只能压缩文件,不能压缩目录结构，试图压缩目录会提示错误
 # 如果想压缩目录只能先把整个目录打包成tar文件再压缩
 # 将spring.log压缩成spring.log.gz
-gzip spring.log
+$ gzip spring.log
 
 # 把spring.log.gz解压缩成spring.log
 # -d 默认指定当前目录
-gzip -d spring.log.gz
+$ gzip -d spring.log.gz
 
 # 强制压缩myfile.tar成为myfile.tar.gz
-gzip -fv myfile.tar  
+$ gzip -fv myfile.tar  
 
 # decompress gzip file named spring.gz into ./test folder
 # -d 指定解压目录 ./test
-gzip -dtest spring.gz  
+$ gzip -dtest spring.gz  
 
 # decompress zip file named lib.zip to ./lib folder
-unzip -dlib lib.zip  
+$ unzip -dlib lib.zip  
 # extract zip file to designated folder
-unzip lib.zip -d /usr/share/tmp  
+$ unzip lib.zip -d /usr/share/tmp  
 
 # pipeline gzip&tar
 # tar xvf - 减号指定stdin读取内容并在当前目录解压
-gzip -dv < bankApp.tar.gz | tar xvf -   
+$ gzip -dv < bankApp.tar.gz | tar xvf -   
 
 # -rv 增加并更新zip中文件, 与tar -rv只增加不替换文件处理不一样
 # -uv 更新zip中文件
