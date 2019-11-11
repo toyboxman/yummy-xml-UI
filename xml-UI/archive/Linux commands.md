@@ -472,12 +472,12 @@ $ ulimit -n
 $ ulimit -n 4096
 ```
 In ubuntu-18, you can easily change them forever, systemd has an option for this:
-```
+```console
 $ more /etc/systemd/system.conf | grep NOFILE
 DefaultLimitNOFILE=65536
 ```
 if you hope to change them in other way, please update config files related.
-```
+```console
 # edit the following file
 $ sudo vim /etc/security/limits.conf
 # add following lines to it
@@ -2217,7 +2217,7 @@ $ traceroute 172.18.0.1
 
 #### nslookup-dig
 [nslookup](https://en.wikipedia.org/wiki/Nslookup)是用来查询DNS保存的域名和IP映射关系的，可用来通过Name和IP互查关系
-```
+```console
 $ nslookup 10.0.0.1
 $ nslookup google.com
 Server:		127.0.0.53
@@ -2230,7 +2230,7 @@ Name:	google.com
 Address: 2404:6800:4012:1::200e
 ```
 [dig](https://en.wikipedia.org/wiki/Dig_(command))也是网络管理命令，来查询DNS信息的
-```
+```console
 $ dig unix.stackexchange.com
 ; <<>> DiG 9.11.5-P1-1ubuntu2.5-Ubuntu <<>> unix.stackexchange.com
 ;; global options: +cmd
