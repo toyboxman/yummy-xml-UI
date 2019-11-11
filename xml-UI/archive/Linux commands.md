@@ -1143,7 +1143,7 @@ tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz
 # jar文件是标准zip格式能用相关命令处理
 $ zipinfo -1 spring.jar
 # list zip file named tomcat.jar by unzip
-@ unzip -l tomcat.jar
+> unzip -l tomcat.jar
 
 # gzip只能压缩文件,不能压缩目录结构，试图压缩目录会提示错误
 # 如果想压缩目录只能先把整个目录打包成tar文件再压缩
