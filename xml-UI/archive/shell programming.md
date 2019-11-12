@@ -22,6 +22,7 @@
     + [SSH+EXPECT](#exp3)
     + [bash输入参数处理](#exp4)
     + [Expect远程操作](#exp5)
+    + [update jar文件并重启服务](#exp6)
     + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
     + [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
 
@@ -33,7 +34,7 @@
 IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
 i. e. how to recognize word boundaries. The default value for IFS consists of whitespace 
 characters (to be precise: space, tab and newline) Now, the shell splits mystring into words as well
-```bash
+```console
 #!/usr/bin/sh
 mystring="foo:bar baz rab"
 for word in $mystring; do
@@ -48,7 +49,7 @@ But now, it can only treats a colon as the word boundary. because the first char
 It is used to delimit words in the output when using the special $* variable (example taken from the 
 Advanced Bash Scripting Guide, where you can also find more information on special 
 variables like that one):
-```bash
+```console
 $ bash -c 'set w x y z; IFS=":-;"; echo "$*"'
 w:x:y:z
 
@@ -72,7 +73,7 @@ w+x+y+z
 - $! is the PID of the most recent background command.
 - $0 is the name of the shell or shell script.
 > [Link](https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables)
-```bash
+```console
 # test.sh
 #!/bin/sh
 echo '$#' $#
@@ -86,7 +87,7 @@ $?  0
 ```
 
 ### shell脚本调试方法
-```bash
+```console
 # 读一遍脚本中的命令但不执行，用于检查脚本中的语法错误
 sh -n script.sh  
 
@@ -99,17 +100,17 @@ sh -x script.sh
 * 使用这些选项有三种方法，
 
 	* 在命令行提供参数
-	```bash
+	```console
 	$ sh -x ./script.sh
 	```
 
 	* 在脚本开头提供参数 
-	```bash
+	```console
 	#! /bin/sh -x
 	```
 
 	* 在脚本中用set命令启用或禁用参数
-	```bash
+	```console
 	#! /bin/sh
 	# 通过启用和禁用X参数,只对脚本中的某一段进行跟踪调试
 	if [ -z "$1" ]; then
@@ -127,12 +128,12 @@ sh -x script.sh
 经常需要将命令执行结果赋值给shell中变量，可以用下面两种方式
 
 - eval命令
-```bash
+```console
 # 执行命令将结果赋给变量,注意命令不是单引号(' ')包括, 而是`｀号(～按键)
 eval A=`whoami` 
 ```
 - 直接赋值
-```bash
+```console
 # 赋值等号两边不要有空格
 # 把当前用户名赋值给变量
 B=`whoami | awk '{print $1}'` 
@@ -185,7 +186,7 @@ kill -9 $eclipse_pid
 
 * 双引号 ""
 	1. 引用时可以保有变量的内容
-```bash
+```console
 export filename=AAA
 echo "$filename"=BBB
 echo '$filename'=$filename
@@ -195,7 +196,7 @@ $filename=AAA
 ```
 
 ### 数值比较
-```bash
+```console
 # 关键要点：
 # 1. 使用单个等号
 # 2. 注意到等号两边各有一个空格,这是unix shell的要求
@@ -207,7 +208,7 @@ if [ "$test"x = "test"x ]; then
 ```
 
 * 整数比较
-```bash
+```console
 # 等于 -eq
 if [ "$a" -eq "$b" ]
 
@@ -240,7 +241,7 @@ if [ "$a" -le "$b" ]
 ```
 
 * 字符串比较
-```bash
+```console
 # 习惯于使用""来测试字符串是一种好习惯
 
 # 当两个串有相同内容、长度时为真
@@ -290,7 +291,7 @@ if [[ "$a" > "$b" ]]
 if [ "$a" \> "$b" ]
 ```
 ### IF 控制流
-```bash
+```console
 # *注意* if 与后面括号要有空格，否者出错
 if ....; then
 ....
@@ -311,7 +312,7 @@ fi
 ```
 
 - 常用判断
-```bash
+```console
 # 判断是否是一个文件
 [ -f "somefile" ]
 # 判断/bin/ls是否存在并有可执行权限
@@ -327,7 +328,7 @@ fi
 > [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
 > [Link-2](https://www.garron.me/en/articles/bash-for-loop-examples.html)   
 > [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
-```bash
+```console
 for VARIABLE in 1 2 3 4 5 .. N
 do
 command1
@@ -351,7 +352,7 @@ commandN
 done
 ```
 还可以传入循环参数
-```bash
+```console
 # Use "$@" to represent all the arguments in test.sh
 for var in "$@"
 do
@@ -366,7 +367,7 @@ sh test.sh 1 2 '3 4'
 
 ### Logical 条件
 > [Link](http://www.geekpills.com/operating-system/linux/bash-and-or-operators)
-```bash
+```console
 # OR operator
 ||
 # AND operator 
@@ -378,7 +379,7 @@ sh test.sh 1 2 '3 4'
 
 * 汇总日志      
 脚本执行后将两分钟内日志导出，如2019-10-31T09:24:27至2019-10-31T09:26:27
-```bash
+```console
 #!/bin/sh
 
 now=`date +"%Y-%m-%dT%T"`
@@ -393,7 +394,7 @@ cat /var/log/proton/nsxapi.log /var/log/cloudnet/nsx-ccp.log \
 <div id = "exp2"></div>
 
 * 设定网络配置
-```bash
+```console
 #!/usr/bin/sh
 # 1.得到VM的guestinfo信息
 # 2.读出ip/netmask/default gateway
@@ -487,7 +488,7 @@ echo "complete boot setting" >> $VMINFO/result.log
 命令行处理工具expect，这是一个可编程的工具, 通过预期结果和发送命令来操作远程机器。    
 expect基本组成结构为几部分:       
 解释声明->spawn->expect->send->interact   
-```bash
+```console
 # 指定脚本解释器
 #!/usr/bin/expect -f    
 
@@ -540,7 +541,7 @@ interact
 * bash输入参数处理
 	> [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)<br>
 	- parameter type
-	```bash
+	```console
 	# the name of the command executing
 	$0 
 
@@ -573,7 +574,7 @@ interact
 	- expect script的参数
 	如果需要通过脚本输入参数来进行expect操作，可以通过bash+expect脚本方式，因为
     expect获得外部参数较复杂些，如下实现    
-	```bash
+	```console
 	#!/usr/bin/sh
 	#For loop来获取命令行传入机器地址
 	for host in $@  
@@ -654,7 +655,7 @@ interact
     很麻烦需要不停输入密码。如果通过expect脚本，则半分钟可能就完成了。   
     首先，设计一个循环执行的shell脚本(ssh_open.sh)，remote机器地    
     址通过命令参数传入
-    ```bash
+    ```console
     #!/usr/bin/sh
     #循环获取传入参数
     for host in $@   
@@ -668,7 +669,7 @@ interact
     done
     ```
     然后，设计一个Expect脚本(open.sh)，登录远程主机修改ssh的权限
-    ```bash
+    ```console
     #!/usr/bin/expect -f  
     # expect脚本和普通shell不一样，需要通过expect来解释
     # expect中赋值操作，将传入脚本的第一个参数赋值给变量host
@@ -724,7 +725,7 @@ interact
 		设定循环变量，条件，计算需要分三个｛ ｝<br>
 		for {initialization} {conditions} {incrementation or decrementation} { ... }<br>
 		set count 5; while {$count > 0 } { puts "count : $count\n"; set count [expr $count-1]; }
-	```bash
+	```console
 	#!/usr/bin/expect -f
 	#设定默认expect超时为5秒
 	set timeout 5 
@@ -800,3 +801,32 @@ interact
 	puts "complete loop $i cycle"
 	}
 	```
+
+<div id = "exp6"></div>    
+
+* Update jar文件并重启服务     
+编译某些class之后替换到对应的jar包中，然后重启服务
+```console    
+#!/bin/sh
+
+# shell变量只能支持下划线连接，减号连接会解释失败
+java_adapter="/home/king/source/gitlab/java/adapter"
+destination="/home/king/source/gitlab/java/dist/old"
+cp $java_adapter/target/classes/com/example/mediator/Transaction.class $destination/com/example/mediator/ -v
+cp $java_adapter/target/classes/com/example/config/ConfigImpl.class $destination/com/example/config/ -v
+
+# 跟新jar之前检查文件状态
+echo "original adapter.jar"
+unzip -l ../adapter.jar | grep -E "(ConfigImpl|Transaction)"
+
+# 跟新jar文件指令
+zip -u ../adapter.jar com/example/config/ConfigImpl.class \
+com/example/mediator/Transaction.class
+
+# 跟新jar之后检查文件状态
+echo "updated adapter.jar"
+unzip -l ../adapter.jar | grep -E "(ConfigImpl|Transaction)"
+
+scp ../adapter.jar root@172.20.14.56:/root
+ssh root@172.20.14.56 service db-adapter restart
+```

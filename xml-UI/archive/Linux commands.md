@@ -929,16 +929,17 @@ grep: legacy: Is a directory
 grep -s show *
 check.sh:#send "show \n"
 
-# -v show lines which do not match the pattern
-# 出现show的行都不会显示 
-grep -v show *
-check.sh:#send "other \n"
-
 # -E pattern is treated as being an extended regular expression
+# 使用正则匹配时候pattern必须用单引号或双引号标记否则无效
 grep -sE 'de.*' *
 check.sh:set host [lindex $argv 0]; 
 open.sh:set host [lindex $argv 0];
 open.sh:send ": debug os-shell\n"
+
+# -v show lines which do not match the pattern
+# 出现show的行都不会显示 
+grep -v show *
+check.sh:#send "other \n"
 
 # Filtering all lines excluding 'www' or 'ftp'
 grep -vE "(www|ftp)"
