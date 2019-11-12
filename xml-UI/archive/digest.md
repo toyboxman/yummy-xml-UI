@@ -37,6 +37,7 @@
 
 #### Linux
 + [commands](Linux%20commands.md)
+    - [Shell Programming](shell%20programming.md)
 + [git](git%20commands.md)
     - [Git 建立和托管网站](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=1&sn=e903d8860640c61baf94d4547609ee06)
 + [开源工具构建 DevOps](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615071&idx=1&sn=076ede5dea71d33fa6064c070dfcd633)    
