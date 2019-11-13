@@ -14,6 +14,7 @@
 - [Monitor System Information](#monitor-system-information)
     - [Troubleshooting](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=1&sn=0eeadb81e3e6b48c56af99da900895cf)
         - [strace追踪系统调用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=1&sn=ed92854608e76b1c37f46e58ebbc1912)
+        - [Crash+/dev/mem调试内存 ](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446208&idx=2&sn=a598e1bcebedae58049f30bf46259aa8)
         - [配置Rsyslog服务器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615466&idx=3&sn=8a8e44e1e7cae494e4c9a4bc730e1e2b)
         - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
         - [rm -f undo](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
