@@ -69,6 +69,7 @@
     - [basic](go/go-basic.md)
     - [OAuth](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615474&idx=4&sn=40f51dfeabdb4665c4ef000d8e43c16e)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
++ [***laTeX***](laTeX/laTeX.md)
 + ***Algorithm***
     - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
     - [分布式唯一 ID之Snowflake算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217772&idx=3&sn=9c7d6ae01ae1e78db3734cf428c01b1c)
