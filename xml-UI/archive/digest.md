@@ -38,9 +38,11 @@
 #### Linux
 + [commands](Linux%20commands.md)
     - [Shell Programming](shell%20programming.md)
+    - [Linux 100问](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446171&idx=2&sn=3e9cd077ef4b256ac7a9a0ddf42f117a)
 + [git](git%20commands.md)
     - [Git 建立和托管网站](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=1&sn=e903d8860640c61baf94d4547609ee06)
 + [开源工具构建 DevOps](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615071&idx=1&sn=076ede5dea71d33fa6064c070dfcd633)    
+    - [Jenkins构建CI/CD](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615559&idx=2&sn=4a035d79fcfb1ae5a0ba40aeaddf900e)
 + [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
     + [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
 + [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
@@ -63,15 +65,17 @@
     - [head](scala/scala-head.md)
 + ***Python***
     - [basic](python/python-basic.md)
-    - [Python代替Excel](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217203&idx=3&sn=038247853987b685add5298ce8314a10)
-    - [Pandas数据操作](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217294&idx=2&sn=70bc94cc6a6da5823bca73d2262aa645)
 + ***Go***    
     - [basic](go/go-basic.md)
+    - [OAuth](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615474&idx=4&sn=40f51dfeabdb4665c4ef000d8e43c16e)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + ***Algorithm***
     - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
+    - [分布式唯一 ID之Snowflake算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217772&idx=3&sn=9c7d6ae01ae1e78db3734cf428c01b1c)
+    - [压缩算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217836&idx=2&sn=f2934003c968143832e5a60390b28eaa)
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
     - [获取网络日志发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
+    - [内存与数据结构 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217699&idx=3&sn=f30c0be3d15e1d2d2327ce2cb8608023)
 
 #### Web
 + [Authentication](https://swagger.io/docs/specification/authentication/)
@@ -97,7 +101,10 @@
 + [浏览器缓存机制](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217039&idx=2&sn=318df329b8711066e97f026468ccd24a)
 + [Minification](https://en.wikipedia.org/wiki/Minification_(programming))
 + [js/html beautifier](https://beautifier.io/)
-+ [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
++ [webpack打包工具](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485903&idx=2&sn=bd6b2321301c61f3be683841c7a6b620)
++ CSS
+    - [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
+    - [CSS第四级选择器](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485929&idx=1&sn=1e7c6bfb43b5a209a038fc1904e6fec9)
 + [http基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md#%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 + [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 + [Chrome前端调试](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485526&idx=1&sn=019654aaa0c314886cc6fd6e1fe0e174)
@@ -108,6 +115,8 @@
 + [Node.js 进程与线程](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216926&idx=2&sn=e9d748a9b393b6b0d2e81d16cf194b80)
 + [前端开发 20 年变迁史](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485492&idx=1&sn=61b30d5573573580357c809e5a187329)
 + [JS中重要api实现](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485500&idx=1&sn=45b0e7a9025ee98c8355d5f2035d4cd2)
++ [JS 数组精简](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217694&idx=3&sn=213c80e46d8b49bc38f6e7ccaff1061c)
++ [JS异步任务](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217735&idx=3&sn=f2ea5592f8fb11a2368b88dec4b8ff0b)
 + [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615192&idx=2&sn=d411c88807d9753c0274041e986ad119)
 
 #### Architecture
@@ -126,6 +135,7 @@
 + [分页查询](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282168&idx=2&sn=0c3a2696ffbce577d91e9c523c697176)
 + [缓存三大问题及解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=2&sn=481704a1ce0e205aaf0ec67b668f5bfd)
 + [Dubbo架构](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217330&idx=2&sn=f131d1dcdbc24838dc62c973081f74c6)
++ [日志实时数据聚合 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217862&idx=3&sn=78ef580a2227204a21e92a8a980edbdd)
 
 #### Database
 + [MySQL](db/mySQL.md)
@@ -142,6 +152,7 @@
 + [Postgre](db/PostgreSQL.md)
 + [oracle](db/oracle.md)
     - [Persistent Memory Store](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=2&sn=c2a3ea86e98a0d79c786cd9962b3f87e)
+    - [数据迁移工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282864&idx=1&sn=0bb4795f0794808b04eb5f3001fdd1ad)
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
     - [Redis复制原理](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282436&idx=1&sn=8c3aedf4844fd0d209cf7ac624661fd8)
 + [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)
@@ -155,6 +166,7 @@
 + [数据建模工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=1&sn=90b5214abd6fae7f28b3ea775c830549)
 + [Leetcode-Database](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)
 + [数据库‘状态’字段设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485894&idx=1&sn=52f9c7de204e3debe6cb0252049c3378)
++ [分库分表](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217729&idx=2&sn=de3d24920819d600ded3e8609359703c)
 
 #### bigdata
 + [spark](big-data/spark.md)
@@ -175,12 +187,15 @@
 + [docker](docker%20commands.md)
     - [Docker架构原理、功能及使用](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282275&idx=2&sn=d0b5c3525fc756b101c2d32b04c7150d)
     - [Docker从入门到实践](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
+    - [ansible-bender构建容器镜像](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615493&idx=2&sn=c44e68fd5eb6908460604369428051b2)
 
 #### github
 + [12306 抢票项目](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019389&idx=6&sn=cb48d93961b148521493d7c3ef34fb68)
 + [netease-music](https://github.com/mbinary/netease-music-cracker)
 + [Real-Time-Voice-Cloning](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490602&idx=2&sn=09752ffe957dbe2051b8e92d9c985d35)
 + [命令行备忘工具 navi](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217568&idx=2&sn=e25c3187bdf612f2dd68264669d0f092)
++ [Polynote多语言笔记本](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651021946&idx=1&sn=da5aa42bc438f4d517563b4f5a70947c)
++ [2019-10 hot project](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446183&idx=2&sn=6b65cd6d1571df0672e408df601d9383)
 
 github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github),   [code search语法](https://help.github.com/en/articles/searching-code)
 ```
@@ -224,6 +239,8 @@ process in:file language:java extension:java
 + [javatpoint](https://www.javatpoint.com/java-tutorial)
 + [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
++ [深入Java Lock](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217659&idx=2&sn=77830b512bf68e06653a64033d4a1e06)
++ [Java网络协议](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217724&idx=2&sn=01c7f798325acd209bdef73c317b0ca8)
 
 #### tools
 + ***notepad++***
@@ -356,6 +373,8 @@ kubectl get ds -n kube-system
 每临大事有静气。不要急，急也没用
 
 万物同理，减法永远比加法难，正如郑板桥一句诗：“删繁就简三秋树，领异标新二月花”。
+
+传曰“其身正，不令而行；其身不正，虽令不从”，其李将军之谓也？余睹李将军，悛悛如鄙人，口不能道辞。及死之日，天下知与不知，皆为尽哀。彼其忠实心诚信于士大夫也？谚曰“桃李不言，下自成蹊”。此言虽小，可以谕大也。司马迁说的“李将军”是李广而不是李陵，然陵为广孙，有其家风，就连命运的悲惨都一模一样。读者若拿这段话去对比一下苏建评卫青的话，所谓“大将军至尊重，而天下之贤大夫毋称焉”（《卫将军传》赞引），他的“无言”不是更胜于“有言”吗？
 
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)

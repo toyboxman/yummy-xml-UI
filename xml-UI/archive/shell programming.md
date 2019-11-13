@@ -7,6 +7,7 @@
 
 ### *Following content is about shell programming*
 - [bash调试](#shell脚本调试方法)
+    + [bash执行顺序](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446174&idx=1&sn=7dd9229ff977b5c982e4602abb72f824)
 - [默认变量](#built-in-variables)
     + [在 Linux 中使用变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615147&idx=3&sn=97d593103d55ccbb62f1b11993fb7e2b)
 - [变量赋值](#变量赋值)

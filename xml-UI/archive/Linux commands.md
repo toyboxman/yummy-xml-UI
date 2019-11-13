@@ -13,8 +13,11 @@
 ---
 - [Monitor System Information](#monitor-system-information)
     - [Troubleshooting](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=1&sn=0eeadb81e3e6b48c56af99da900895cf)
+        - [strace追踪系统调用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=1&sn=ed92854608e76b1c37f46e58ebbc1912)
+        - [配置Rsyslog服务器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615466&idx=3&sn=8a8e44e1e7cae494e4c9a4bc730e1e2b)
         - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
         - [rm -f undo](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
+        - [排查机器入侵](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446188&idx=2&sn=0d1bedb695c5ffd45a147a14539ebb5c)
         - [Debug Operation](#debug)
             - [Gdb](#gdb)
             - [Objdump](#objdump)
@@ -23,6 +26,7 @@
         - [Activate Account](#activate-account)
         - [List All Users](#list-all-users) 
         - [Add New Users](#add-new-users)
+        - [umask Linux权限](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615582&idx=1&sn=a681362b9f046c121de8357285c65b63)
         - [sudo](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig) 
         - [设置安全保护](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446013&idx=1&sn=a06b5f2554c8a6fc6bbc62d847994ab2)
     - System Management
@@ -59,6 +63,7 @@
     - [Network Management](#network-config)        
         - [Show Network Details](#show-network-details)
         - [Firewall](#iptablesfirewall)
+         - [nftables](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615486&idx=3&sn=9838f8089df016e39e0b25078b3068f8)
         - [NC](#nc)
         - [Ping](#pingarping)
         - [ss-Socket Statistics](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446033&idx=2&sn=90e6f8a4dbc9cc7259014859e519bbdf)
@@ -67,6 +72,7 @@
         - [Dhclient](#dhclient)
         - [Route](#route)
         - [Show IP/Name Pair In DNS](#nslookup-dig)
+        - [bmon查看网络带宽](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615559&idx=3&sn=19444be1dad88edc5dcb2ffc36823ee6)
         - [Config Static IP](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615235&idx=4&sn=8aa8381c4cd69aabb12aef1bd4d290cb)
 - [Usual Command](#usual-command)
     - [Alias](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614821&idx=1&sn=2f38694271ec23361cd9cb34c042dbef)
@@ -85,6 +91,8 @@
     - [Env](#env)
     - [Find](#find)
     - [File](#file)
+        - [Linux split大文件](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446161&idx=2&sn=8357ded5f748c2b86fdf152245dfab80)
+        - [可执行ELF文件的操作](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446175&idx=2&sn=2fa75445447f08876c0c0d0e6f46c3eb)
     - [Grep](#search-txt)
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
@@ -97,6 +105,8 @@
     - [Make](#make)
         - [RPM 包初窥](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=1&sn=010147fe09f855ce0e579925041ce392)
         - [Autotools](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)]
+        - [RPM 制作](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615524&idx=1&sn=2ecec73ef961e236d9fc1f2437edbf4c)
+        - [RPM的spec文件](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615544&idx=2&sn=29fd8892ba2bc9e1d1264893c699064e)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [Nohup](#nohup)
@@ -208,10 +218,12 @@ cat /sys/class/net/eth0/speed
 ```
 
 #### df/du
++ [获取Linux 中的目录大小](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615458&idx=1&sn=862b943fa3fb806257d1a7450d3cedea)
 ```console
 # show current folder disk info
 # -h size unit using Giga
 # -m size unit using Mega
+# --max-depth= 目录的打印深度
 df -h
 
 # -T, --print-type
@@ -224,7 +236,7 @@ df -Tht xfs
 Filesystem     Type  Size  Used  Avail  Use%  Mounted on
 /dev/sda3        xfs    37G   28G  9.4G   75%    /home
 
-#-s, --summarize display only a total for each argument
+# -s, --summarize display only a total for each argument
 # show current folder utilization info
 du -sh
 2.4G    .
@@ -378,7 +390,7 @@ Su Mo Tu We Th Fr Sa
 ```
 
 #### date
-更多[时间格式参数](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
++ [时间格式参数](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
 ```console
 # %y	last two digits of year (00..99)
 # %d	day of month (e.g, 01)
@@ -1571,7 +1583,8 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 ```
 
 #### awk
->[awk-loop](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)
++ [awk入门](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=2&sn=3a0b56b403f4dcf7c204bdb67161f7fe)
++ [awk-loop](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)
 ```console
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
