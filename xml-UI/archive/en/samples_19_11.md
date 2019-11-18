@@ -130,10 +130,74 @@ The smartphone also `altered the business dynamics` of the tech industry, and `d
 Apple’s dominance `came despite the fact` that the company made some big mistakes and was late to many big innovations. Samsung, not Apple, invented huge-screen phones. Apple’s Mac line `was plagued by delays and dead ends`
 苹果公司占据主导地位的同时也犯了一些大错，而且在很多重大创新上都晚了一步。发明大屏幕手机的不是苹果，而是三星。苹果的Mac系列产品频频出现延期，找不到出路
 
+`Recurrent fevers abate and flare up` again
+反复发烧减退而后再次发热
 
+`Conditions domestically and abroad` are undergoing `deep and complicated changes`
+国际国内的情况正在经历深刻的变化
 
+HK has been part of Chinese territory `since ancient times`, Support `the absorption of HK into` China
+自古以来香港就是中国一部分 支持香港并入中国
 
+Destruction was `particularly acute`, which was subjected to `napalm bombing`
+破坏尤为严重，遭遇凝固汽油弹轰炸
 
+The committal hearing of cardinal `is expected to adjourn`
+对枢机主教听证会预计休会
+
+A woman of color so `publicly adored`
+深色肤色女性受如此爱戴
+
+Students have been imprisoned for their `legal advocacy`
+学生们因法律主张遭监禁
+
+`Think tank affiliated with` the government warned this week
+政府下属的一个精英智库于本周警告
+
+I remain `agnostic`
+我保持无知论的态度
+
+A sense of the scale of `the agreed-upon increases`
+双方商定的增加规模
+
+nano flats `are all the rage`
+超微型公寓风靡一时
+
+`allude to a famous saying`
+间接提到一句名言
+
+It is also trying to `curb problems caused by business run amok`, like pollution and poor treatment of workers, as well as years of companies `dodging taxes.`
+政府也在试图遏制企业疯狂发展所带来的诸多问题，例如环境污染、工人待遇不佳，以及多年来的企业逃税行为
+
+Punish expressions of disrespect for `the national anthem`
+惩罚不尊重国歌行为
+
+`Party apparatus` at every level `seemed ineffectual`
+党的机制在每一层次视乎都失效
+
+Approval of US has `collapsed to a record low of 30 percent`
+对美国支持率下降到历史低位
+
+He killed himself by `severing the arteries` in his legs
+他切断腿部动脉自杀
+
+As close as lips to teeth
+唇齿相依 唇亡齿寒
+
+Simply `ascribing human emotions and desires` to dogs
+简单把人类感情和欲望附加在狗身上
+
+He had `aspired to study Chinese literature`
+他本打算学习中国文学
+
+They `outlined a vision` that is `sharply at odds with other worldview`
+他们提出了一个与其他世界观不一样的愿景
+
+it was `not average royal wedding`
+这不是一般的王室婚姻
+
+The comments `provoked a sharp backlash` from hard-liners `across the political spectrum`
+这些评论引发政界强硬人士的强烈反弹
 
 
 
