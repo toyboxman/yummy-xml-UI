@@ -810,6 +810,9 @@ interact
 ```console    
 #!/bin/sh
 
+# 提示执行的目录位置
+echo "execute shell in" "$PWD"
+
 # shell变量只能支持下划线连接，减号连接会解释失败
 java_adapter="/home/king/source/gitlab/java/adapter"
 destination="/home/king/source/gitlab/java/dist/old"
@@ -828,6 +831,7 @@ com/example/mediator/Transaction.class
 echo "updated adapter.jar"
 unzip -l ../adapter.jar | grep -E "(ConfigImpl|Transaction)"
 
-scp ../adapter.jar root@172.20.14.56:/root
-ssh root@172.20.14.56 service db-adapter restart
+server="172.20.14.56"
+scp ../adapter.jar root@$server:/root
+ssh root@$server service db-adapter restart
 ```
