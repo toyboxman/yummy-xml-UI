@@ -181,8 +181,17 @@ Approval of US has `collapsed to a record low of 30 percent`
 He killed himself by `severing the arteries` in his legs
 他切断腿部动脉自杀
 
-As close as lips to teeth
-唇齿相依 唇亡齿寒
+`As close as lips to teeth`   `historical baggage`  `bides his time`  `bittersweet`  `blatant ball-tampering`  `blue-ribbon`
+唇齿相依 唇亡齿寒       历史包袱         等待时机      苦乐参半的        公然作弊   第一流的
+
+`bolster ability to do`      `briefing room`   `marketing brochure`   `brush aside threats`  `buck the rule`
+增强能力    接待室   营销宣传册    对威胁不予理会    打破规则
+
+`During the bulk of her childhood`   `buttoned-down party look`  `buy time for economy`
+在童年大部分时间里     保守的作风     为经济争取时间
+
+`bon vivant`    `c'est la vie`
+(法)讲究美食及生活享受的人   这就是生活
 
 Simply `ascribing human emotions and desires` to dogs
 简单把人类感情和欲望附加在狗身上
@@ -199,13 +208,73 @@ it was `not average royal wedding`
 The comments `provoked a sharp backlash` from hard-liners `across the political spectrum`
 这些评论引发政界强硬人士的强烈反弹
 
+Each representation `diminishes impressive creature` to an object of most `banal imagination`
+各个表现形式将令人赞叹的创造贬低成最平庸的想象客体
 
+Half of that band is more `heavily populated`
+一半区域人口更密集
 
+A friend `banged on his dormitory door`
+一位朋友猛敲他宿舍大门
 
+`Even while banished` from news media
+尽管(即便)遭到媒体封杀
 
+Party elite had `been battered by infighting`
+党内精英被内斗所击垮
 
+Party was `beset by laxity and softness`
+党受困于管理松软
 
+It would probably `be better off` on its own
+可能会对它更加有益
 
+she `was devoted to` Princess Diana
+她一直崇拜戴安娜王妃
 
+he said `with a half-bemused shake of his head`
+他有些困惑地摇着头说
+
+Months of `struggling with` economic problems at home and `bickering with` President 
+在经济问题上持续数月的斗争，以及同总统在贸易方面的争吵
+
+Fueled an `overseas buying binge` of hotels  `borrowing binge`
+加速购买海外酒店的疯狂   借贷狂潮
+
+`Bizarrely backed` a blockade of Qatar
+奇怪地支持封锁卡塔尔
+
+`Blowing the whistle` on deceptive practices
+揭露欺骗行为
+
+Left villages for the `booming cities`
+离开村子去往繁华的城市
+
+They won't `hold accountable for anything`，even if `it borders on treason`
+就算接近叛国边缘，他们也不会承担任何责任
+
+Lawyers `bowed out`
+律师退出
+
+Expanding at `a breakneck pace` within the country and around the world
+在国内外迅速扩张
+
+He `pleaded not guilty` to charges that he tried to `bribe top officials`
+他拒绝对贿赂高官认罪
+
+In order to `bring it in line with` history curriculum on the mainland
+为了使历史课程与大陆保持一致
+
+Atlanta city government has been `brought to its knees` by `a ransomware attack`
+亚特兰大市府被勒索软件攻击击垮
+
+Real estate agents are `brushing up on` their Mandarin as Chinese investors `flock to` phnompenh
+随着中国投资者涌向金边，房地产经济人正在练习普通话
+
+Beijing `bustles with` Internet entrepreneur
+北京到处是互联网创业者
+
+`Wean cadres off fancy meals，heavy drinking`
+断绝干部队伍享乐美食，豪饮
 
 
