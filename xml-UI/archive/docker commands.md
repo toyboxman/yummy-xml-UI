@@ -16,113 +16,115 @@
 
 #### docker installation on SUSE
 * install package
-```bash
-$ sudo zypper in yast2-docker
+```console
+sudo zypper in yast2-docker
 ```
 * Giving non-root user privilege to access, the docker daemon always runs as the root user
-```bash
+```console
 # create group docker
-$ sudo groupadd docker
+sudo groupadd docker
 # Adding user king to group docker, sudo gpasswd -a ${USER} docker
-$ sudo gpasswd -a king docker 
-$ sudo service docker restart
+sudo gpasswd -a king docker 
+sudo service docker restart
 # relogin and make user group effective
 logout and login  
 ```
 * set docker image pull proxy
-```bash
-$ sudo systemctl stop docker
-$ sudo mkdir -p /etc/systemd/system/docker.service.d
+```console
+sudo systemctl stop docker
+sudo mkdir -p /etc/systemd/system/docker.service.d
 
-$ sudo touch /etc/systemd/system/docker.service.d/http-proxy.conf
+sudo touch /etc/systemd/system/docker.service.d/http-proxy.conf
 [Service]
 Environment="HTTP_PROXY=http://proxy.example.com:80/"
 OR, 
 Environment="HTTP_PROXY=http://proxy.example.com:80/" \
 "NO_PROXY=localhost,127.0.0.1,docker-registry.somecorporation.com"
 
-$ sudo touch /etc/systemd/system/docker.service.d/https-proxy.conf
+sudo touch /etc/systemd/system/docker.service.d/https-proxy.conf
 [Service]
 Environment="HTTPS_PROXY=https://proxy.example.com:443/"
 
 # restart docker service and make changes effective
-$ sudo systemctl daemon-reload
-$ sudo systemctl restart docker
-$ systemctl show --property=Environment docker
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+systemctl show --property=Environment docker
 ```
 
 #### docker command
-```bash
+```console
 # list all docker instances(up/exited/...)
-$ docker ps -a 
+docker ps -a 
 # list up instances
-$ docker ps
-$ docker container ls
+docker ps
+docker container ls
 
 # list images
-$ docker images
-$ docker image ls 
+docker images
+docker image ls 
+# list image build config
+docker inspect <image NAME | ID>
 
 # search default image hub
-$ docker search <NAME>
+docker search <NAME>
 # 'docker search' executes rest api, n=page_size, page, q=<NAME>
-$ curl 'https://index.docker.io/v1/search?q=griffin&n=5&page=2'
+curl 'https://index.docker.io/v1/search?q=griffin&n=5&page=2'
 # get Bearer Authentication token
-$ curl 'https://auth.docker.io/token'
+curl 'https://auth.docker.io/token'
 # access docker registry
-$ curl 'https://registry-1.docker.io/v2/' -H 'Authorization: Bearer <TOKEN>'
+curl 'https://registry-1.docker.io/v2/' -H 'Authorization: Bearer <TOKEN>'
 
 # pull registry image to local repo /var/lib/docker/btrfs/subvolumes
-$ docker pull java
+docker pull java
 # pull mirror image
 # https://www.docker-cn.com/registry-mirror
-$ docker pull registry.docker-cn.com/library/golang
+docker pull registry.docker-cn.com/library/golang
 
 # remove image forcibly
-$ docker rmi -f <NAME | ID>  
+docker rmi -f <NAME | ID>  
 
 # export image
-$ docker save nginx > /tmp/nginx.tgz
+docker save nginx > /tmp/nginx.tgz
 
 # import image
-$ docker load < /tmp/nginx.tgz
+docker load < /tmp/nginx.tgz
 
 # create container instance with name 'jdk-dev', tty interaction using image 'java' and start
-$ docker run --name jdk-dev -it java  
+docker run --name jdk-dev -it java  
 # create container instance using golang image with detached mode
-$ docker run -d -it golang
+docker run -d -it golang
 # run image as container with mapping port 2181 to host's port 8081
-$ docker run -p8081:2181 -it solo_zk  
+docker run -p8081:2181 -it solo_zk  
 # 多端口映射和udp类型映射
-$ docker run -d -p 5775:5775/udp -p 16686:16686 jaegertracing/all-in-one:latest
+docker run -d -p 5775:5775/udp -p 16686:16686 jaegertracing/all-in-one:latest
 # 将container中文件内容导出本地，执行完成后kill container
 # -rm parameter means kill container after command closes
-$ docker run -i --rm postgres cat /usr/share/postgresql/postgresql.conf.sample > my-postgres.conf
+docker run -i --rm postgres cat /usr/share/postgresql/postgresql.conf.sample > my-postgres.conf
 # postgres image guide https://github.com/docker-library/docs/blob/master/postgres/README.md
 # -e 指定container的环境变量
-$ docker run --name some-postgres -e POSTGRES_PASSWORD_FILE=/run/secrets/postgres-passwd -d postgres
+docker run --name some-postgres -e POSTGRES_PASSWORD_FILE=/run/secrets/postgres-passwd -d postgres
 # remove container by name/id
-$ docker rm <NAME | ID>  
+docker rm <NAME | ID>  
 # Stop one or more running containers
-$ docker stop <NAME | ID>  
+docker stop <NAME | ID>  
 
 # copy locally current file to docker instance folder
-$ docker cp ./zkCache.sh <NAME | ID>:/opt/zk
+docker cp ./zkCache.sh <NAME | ID>:/opt/zk
 # symbolic link copy
-$ docker cp -L ./zkCache.sh <NAME | ID>:/opt/zk 
+docker cp -L ./zkCache.sh <NAME | ID>:/opt/zk 
 # attach to existing docker container instance
-$ docker exec -it <NAME | ID> bash  
+docker exec -it <NAME | ID> bash  
 
 # list docker network
-$ docker network ls  
+docker network ls  
 # network detail examination
-$ docker inspect <NAME | ID> | grep <IP>
-$ docker network inspect <network_name>
+docker inspect <NAME | ID> | grep <IP>
+docker network inspect <network_name>
 
 # build local image, need three files, Dockerfile  zoo.cfg  zookeeper-entrypoint.sh in ./ folder
-$ docker build -t solo_zk ./ 
+docker build -t solo_zk ./ 
 # commit container as new image
-$ docker commit 10cab gene/kafka:latest  
+docker commit 10cab gene/kafka:latest  
 ```
 #### build docker network
 > [Link](http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/)
@@ -140,55 +142,55 @@ Caution - These steps depend on your current /var/lib/docker being <br>an actual
 
 #### docker-compose
 > [example](https://github.com/lukeolbrish/examples/tree/master/zookeeper/five-server-docker)
-```bash
+```console
 # docker-compose is for defining and running multi-container applications
 # install docker-compose package
-$ sudo zypper install docker-compose  
+sudo zypper install docker-compose  
 # check all compose containers
-$ docker-compose ps  
+docker-compose ps  
 # remove invalid containers
-$ docker-compose rm
+docker-compose rm
   
 # run all compose services by default yaml file, docker-compose.yml
-$ docker-compose up
+docker-compose up
 # run all compose services by yaml file, default yaml: docker-compose.yml
-$ docker-compose -f docker-compose-define.yml up  
+docker-compose -f docker-compose-define.yml up  
 # run all compose service with detached mode
-$ docker-compose up -d  
+docker-compose up -d  
 # re-run a service node, like 'docker-compose up -d zookeeper5', 
 # startup zk5 node again, it becomes a follower
-$ docker-compose up <serviceName>  
+docker-compose up <serviceName>  
 # shutdown all compose service
-$ docker-compose down  
+docker-compose down  
 
 # Run a one-off command on a service
-$ docker-compose run
+docker-compose run
 # create a container of zk client to connect zk3 server
 # open zk client CLI mode
 # -rm parameter means kill container after command closes
-$ docker-compose run --rm zkcli -server zookeeper3  
+docker-compose run --rm zkcli -server zookeeper3  
 ```
 #### zk command
-```bash
+```console
 # enter zkCli mode
-$ /bin/zkCli.sh -server 172.18.0.3:2181  
+/bin/zkCli.sh -server 172.18.0.3:2181  
 # check zk node follower or leader
-$ echo stat | nc localhost 2181| grep Mode  
+echo stat | nc localhost 2181| grep Mode  
 # list zNodes
-$ ls /  
+ls /  
 # create zNode 'zk_test' to save data
-$ create /zk_test <data>  
+create /zk_test <data>  
 # get data saved in zk_test
-$ get /zk_test   
+get /zk_test   
 ```
 
 #### spark command
-```bash
+```console
 > spark-submit --class org.apache.griffin.measure.Application --master yarn-client \
  --queue default --verbose griffin-measure.jar env.json config.json local,local
 ```
 #### kafka command
-```bash
+```console
 #topic creation
 > bin/kafka-topics.sh --create \
     --zookeeper localhost:2181 \
