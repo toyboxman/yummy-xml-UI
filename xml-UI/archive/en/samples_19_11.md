@@ -130,151 +130,80 @@ The smartphone also `altered the business dynamics` of the tech industry, and `d
 Apple’s dominance `came despite the fact` that the company made some big mistakes and was late to many big innovations. Samsung, not Apple, invented huge-screen phones. Apple’s Mac line `was plagued by delays and dead ends`
 苹果公司占据主导地位的同时也犯了一些大错，而且在很多重大创新上都晚了一步。发明大屏幕手机的不是苹果，而是三星。苹果的Mac系列产品频频出现延期，找不到出路
 
-`Recurrent fevers abate and flare up` again
-反复发烧减退而后再次发热
+The three days `leading up to` Thanksgiving are manic at Kau Kau BBQ Market & Restaurant, `a mainstay` in Seattle’s Chinatown that `specializes in` Chinese barbecue. At least two extra cooks are brought on to help `clean, brine, dry, baste and roast` holiday turkeys 24 hours a day in the kitchen’s already `packed ovens: crisp-skinned, five-spice-seasoned birds` that Kau Kau makes according to the same process it uses for its roast duck.
+感恩节前的三天，巧巧海鲜烧腊饭店一片忙乱，这是西雅图华埠主打中式烧烤的一家招牌餐厅。餐厅至少多雇了两名厨师，帮忙一天24小时清洗、腌渍、风干火鸡，然后刷汁塞进已经满满当当的烤箱里烤：巧巧用制作烤鸭的同样流程制作的脆皮五香火鸡
 
-`Conditions domestically and abroad` are undergoing `deep and complicated changes`
-国际国内的情况正在经历深刻的变化
+There is one day of the year when roast duck, `soy-sauce chicken, char siu and crispy roast pork` may be cast aside for `plump turkeys`. Available from chains like 99 Ranch Market and `mom-and-pop shops alike`, and often with `sticky rice, steamed buns and hoisin-based sauces` on the side, these Chinese barbecue-style turkeys provide `an inroad to` Thanksgiving for many Chinese-Americans
+一年中总有一天，烤鸭、酱油鸡、叉烧和脆皮烧肉可能会被人们抛到一边，转而享用圆滚滚的火鸡。这种中式烧烤火鸡可以从大华超级市场和夫妻档店铺买到，一般会配上糯米、馒头和海鲜酱，对很多华裔美国人而言，它们是往感恩节中注入自己的影响的一个好办法
 
-HK has been part of Chinese territory `since ancient times`, Support `the absorption of HK into` China
-自古以来香港就是中国一部分 支持香港并入中国
+“If they don’t, we usually `kind of worry`,” Mr. Chang said. “We `hope nothing happened to them`.”
+“如果他们没点，我们通常会有点担心，”理查德·张说。“我们希望他们平安无事。”
 
-Destruction was `particularly acute`, which was subjected to `napalm bombing`
-破坏尤为严重，遭遇凝固汽油弹轰炸
+But `the main draw of` a turkey roasted according to `the lengthy procedures` of professional Chinese barbecue is `juicy, flavorful meat`.
+但按照中国专业烧烤的漫长程序烤制的火鸡，主要吸引力是多汁、美味的肉
 
-The committal hearing of cardinal `is expected to adjourn`
-对枢机主教听证会预计休会
+`Rather than filling the turkey’s cavity with a bready stuffing` to roast, Chinese barbecue cooks typically fill it many hours ahead `with a wet, mushy marinade` that may include toasted `dry spices, onions, garlic, ginger and plenty of salt`, then `skewer the cavity shut`.
+中国的烧烤厨师通常会提前几小时用湿糊状的腌料填满火鸡腔，其中可能包括烘烤过的干香料、洋葱、大蒜、姜和大量的盐，然后用串肉扦把内腔合上，而不是用面包填料填满腔体，进行烤制
 
-A woman of color so `publicly adored`
-深色肤色女性受如此爱戴
+He `passed that knowledge on to` his sons, although the brothers have `made slight tweaks to the classic recipes`. That includes the shop’s Thanksgiving turkey, which `dates back to the time before` their father joined the business
+他把这些知识传给了两个儿子，尽管兄弟俩对这些经典食谱做了些小的修改。其中包括这家店的感恩节火鸡，这道菜在他们的父亲进入这家店工作之前就已经有了
 
-Students have been imprisoned for their `legal advocacy`
-学生们因法律主张遭监禁
+For their `in-demand turkey`, the Cheungs apply `a dry rub of Chinese spices like star anise and licorice to the cavity`, then fill it with `a mixture of onions, garlic and celery`. The turkeys, like ducks, are then `skewered up to close` the cavity, `scalded with hot water to tighten the skin` and clean off any `seasoning mixture, coated in vinegar`, and hung to dry for 12 hours
+对于他们的热销火鸡，郑氏兄弟将八角和甘草等中国香料干擦在火鸡腔内壁，再用洋葱、大蒜和芹菜的混合物填满火鸡腔。然后，把火鸡像鸭子一样串起，合上腔体，用热水烫一下，收紧鸡皮，清理掉任何调料混合物，涂上醋，挂起来晾12个小时
 
-`Think tank affiliated with` the government warned this week
-政府下属的一个精英智库于本周警告
+To `further set themselves apart from` other Chinese barbecue restaurants in the area, Eric Cheung created a Southern-style `cream gravy to go with their turkey, using the necks, gizzards and liver` — a twist he said `was inspired by his fondness` for chicken-fried steak at places like IHOP
+为了进一步将自己与该地区其他中国烧烤餐厅区分开来，埃里克·郑用鸡脖、胗和肝制作了一道南方风味的奶油肉汁来搭配他们的火鸡——他说，这一变化的灵感来自于他喜欢吃的IHOP等餐厅的炸鸡排
 
-I remain `agnostic`
-我保持无知论的态度
+For Hing Lung’s customers, who are `predominantly Chinese-American`, the turkey `strikes a balance`, allowing them to `assimilate to American holiday conventions without sacrificing their tastes`. After all, what could be more American than `having things your way?`
+对于以美籍华人为主的兴隆的顾客而言，火鸡实现了一种平衡，让他们在不牺牲口感的同时融入美国的节日习俗。毕竟，还有什么比随心所欲更具美国特色呢?
 
-A sense of the scale of `the agreed-upon increases`
-双方商定的增加规模
+American turkey can also be hard to `cook well. Prone to bland, dry breast meat and blackened wing tips`, the bulky bird is a challenge for home cooks all over
+而且美国火鸡也很难做好。大块头的火鸡容易做出淡而干燥的胸脯肉和变黑的翼尖，对所有的家庭厨师来说都是一个挑战
 
-nano flats `are all the rage`
-超微型公寓风靡一时
+Many `were totally unaccustomed to` using their ovens, `let alone for such a large bird`, so they asked the restaurant for help. (Ovens are not a typical feature of home kitchens in China, and most Chinese home cooking occurs `on the stovetop`.)
+许多人完全不习惯使用他们的烤箱，更不用说这么大的鸡，于是他们向餐厅求助。(烤箱并非中国家庭厨房的典型配置，大多数中国家庭烹饪都在灶台上进行。)
 
-`allude to a famous saying`
-间接提到一句名言
+Their recipe has also `gradually changed to adapt to the oversize bird`. They started out with `a standard five-spice seasoning` based on their roast duck, but found it wasn’t enough to `flavor whole turkeys`, which have a much higher ratio of meat to skin and bone. They added ginger and `cilantro` to the inside-brine mixture, and `boosted the overall seasoning` so it was stronger.
+他们的食谱也逐渐改变，以便适应这种超大禽类。他们一开始用的是适合烤鸭的标准五香调料，但发现这不足以给整只火鸡调味，因为和鸭子相比，它们肉多，皮和骨头少。他们在卤汁中加入生姜和香菜，提高整体调味效果，使其更加浓郁。
 
-It is also trying to `curb problems caused by business run amok`, like pollution and poor treatment of workers, as well as years of companies `dodging taxes.`
-政府也在试图遏制企业疯狂发展所带来的诸多问题，例如环境污染、工人待遇不佳，以及多年来的企业逃税行为
+Bryan Cardenas, who is not of `Chinese descent`, has been `serving Sun Wah’s turkey` at Thanksgiving for more than a decade. He has also `incorporated Chinese flavors into` his holiday cooking, `tinkering with dishes` like his fresh cranberry sauce. “I added `a tablespoon` of Chinese five-spice,” he said. “`It was out of this world.”`
+布莱恩·卡德纳斯不是华裔，十多年来，他感恩节吃的一直是新华供应的火鸡。他还将中国风味融入到自己的假日烹饪中，用他自己的新鲜蔓越莓酱等菜式进行小小修改。“我加了一大勺中国五香粉，”他说。“感觉太棒了。”
 
-Punish expressions of disrespect for `the national anthem`
-惩罚不尊重国歌行为
+But no one particularly cared if it was good or not: “The only reason we wanted her to cook it was to `make congee` the next day,” Ms. Cheng said `with a laugh.`
+但是没有人特别在意它是好是坏：“我们想让她做的唯一原因就是第二天可以做粥，”郑文彩笑着说
 
-`Party apparatus` at every level `seemed ineffectual`
-党的机制在每一层次视乎都失效
+“It’s such `an ingrained part` of American culture that we wanted to bring home, but to my parents, it was still `completely foreign` to them,” said Andrew Shiue, the Chinese-American writer behind the blog Beyond Chinatown. “We wanted to `take part in this American tradition`.”
+“这是美国文化中根深蒂固的一部分，我们想把它带回家，但这对我的父母来说还是完全陌生的，”博客“城里城外”的博主，华裔美国作家薛唯中(Andrew Shiue)说。“我们想加入这个美国传统。”
 
-Approval of US has `collapsed to a record low of 30 percent`
-对美国支持率下降到历史低位
+Wilson Tang, the owner of Nom Wah `Tea Parlor` in Manhattan’s Chinatown, said his family `dabbled in roasting turkey` at home when he was growing up, with results that were `“hit or miss.”`
+曼哈顿华埠南华茶室(Nom Wah Tea Parlor)的老板邓伟说，在他小时候，他的家人曾在家里尝试烤火鸡，最终结果如何要“看运气”。
 
-He killed himself by `severing the arteries` in his legs
-他切断腿部动脉自杀
+Yee Li, on nearby Bayard Street, became his family’s `go-to source`. The meat was `moister` than American-style turkey, Mr. Tang said, and the shop would also `carve the turkey in neat pieces`, just like a roast duck or `soy-sauce chicken.`
+附近摆也街上的裕利肉铺(Yee Li)是他家购买火鸡的主要去处。邓伟说，那里的肉比美式火鸡多汁，而且店家还会把火鸡切成整齐的小块，就像烤鸭或豉油鸡一样。
 
-`As close as lips to teeth`   `historical baggage`  `bides his time`  `bittersweet`  `blatant ball-tampering`  `blue-ribbon`
-唇齿相依 唇亡齿寒       历史包袱         等待时机      苦乐参半的        公然作弊   第一流的
+Although Yee Li closed this year after more than 30 years on Bayard Street, John Chan, `a scion of `the family that had owned the shop, opened New Yee Li in January in Dyker Heights, Brooklyn, `filling a niche for classic Cantonese roast meats and other specialties` in an area with a growing population of Chinese immigrants.
+裕利在摆也街上经营了30多年，于今年关门歇业，其所有者的后裔约翰·陈于1月在布鲁克林的戴克高地开了新裕利(New Yee Li)，用传统粤式烤肉和其他特色菜填补这个中国移民人口不断增长地区的小市场。
 
-`bolster ability to do`      `briefing room`   `marketing brochure`   `brush aside threats`  `buck the rule`
-增强能力    接待室   营销宣传册    对威胁不予理会    打破规则
+Quick, who is your favorite president? Is it Abraham Lincoln? Well, you’ll never believe this but Tom Hanks `is related to him`. The `maiden name` of Lincoln’s mother, Nancy, was Hanks, and yes, it’s the same Hanks.
+问一下，你最喜欢的总统是？是亚伯拉罕·林肯吗？你绝对不会相信，汤姆·汉克斯和他是亲戚。林肯母亲南希的娘家姓是汉克斯，没错，就是这个汉克斯。
 
-`During the bulk of her childhood`   `buttoned-down party look`  `buy time for economy`
-在童年大部分时间里     保守的作风     为经济争取时间
+Once, in 2015, he `stopped by a table` of Girl Scout Cookies and bought some boxes, donated an additional $20, then `offered selfies to passersby as an enticement to buy`. That same year, he found a young woman’s student ID in a park and used `his charming Twitter feed`, which is filled with found items, to get it back to her
+有一次，2015年，他在一个女童子军饼干摊前驻足，买了几盒饼干，又捐了20美元，然后向路人提供合影机会，吸引他们买饼干。同一年，他在公园里捡到一个女孩的学生证，他利用他那招人喜爱的Twitter账号——里面有各种遗失物品的照片——把证件还给了她
 
-`bon vivant`    `c'est la vie`
-(法)讲究美食及生活享受的人   这就是生活
+“People have said that Tom is `Hollywood’s Everyman`; that he’s this generation’s Jimmy Stewart or Gary Cooper. But he’s just Tom Hanks. And that’s enough. `That’s more than enough`.” Two years later, Obama gave him `the Presidential Medal of Freedom.`
+“人们说汤姆是好莱坞的普通人；他是这一代人的吉米·斯图尔特或加里·库珀。但他只是汤姆·汉克斯。这就足够了。已经太够了。”两年后，奥巴马授予汉克斯总统自由勋章。
 
-Simply `ascribing human emotions and desires` to dogs
-简单把人类感情和欲望附加在狗身上
+That does not really ever happen, an actor waiting for me ahead of `the appointed time, versus clearly dreading me two hours past it`. “I think a long time ago, I learned how important it was to `show up a little bit early`,” Hanks told me. “`Be ready to go`, you know? And to respect the whole process, and I think that you could respect the whole process `even when` the other people don’t.”
+这种事真是前所未有，一个演员在约定时间之前等我，而不是用迟到两小时来威吓我。“我想很久以前，我就知道早到是多么重要，”汉克斯告诉我。“做好准备，对吧？尊重整个过程，我认为你可以尊重整个过程，即使其他人不是那么尊重。”
 
-He had `aspired to study Chinese literature`
-他本打算学习中国文学
+`In the panels after the premiere`, some of the questions seemed to be based on `the notion` that Tom Hanks is so wonderful and Mister Rogersy that he just had to show up and read some lines since hey, they’re both `essentially the same: easygoing nice men` with graying hair.
+在首映式后的座谈上，有些问题似乎是基于这样一种观念：汤姆·汉克斯太棒了，他只要一出场、说几句台词就是罗杰斯先生，因为，嘿，他们的本质是一样的：随和、友善、头发花白的男人。
 
-They `outlined a vision` that is `sharply at odds with other worldview`
-他们提出了一个与其他世界观不一样的愿景
+He is `most often cast in roles` that need what Robert Zemeckis (who directed “Forrest Gump,” among other Hanks movies) calls “that `classic Everyman quality`.” Over my reporting, many, many people told me what an Everyman he is.
+他最常饰演的那些角色都需要《阿甘正传》的导演罗伯特·泽米基斯所说的那种“经典的普通人品质”。在我做采访期间，很多很多人告诉我，汉克斯是一个普通人。
 
-it was `not average royal wedding`
-这不是一般的王室婚姻
+He `was never angry at` his parents; he’s still not. He saw `how hard it was for them to function`. They never explained things to him. Now he knows, “it’s because they didn’t `have the verbiage`. They didn’t `have the vocabulary`. And they `were so racked with self-loathing and guilt and et cetera`, all that stuff that `went along`, and there were four of us, for God’s sake, and they just, you know, couldn’t do it. Now, I’ve got four kids myself, and as soon as you start having your own kids, you go, like, oh, I get it.”
+他从不生父母的气；现在依然没有。他明白他们很难尽到父母的职责。他们从不向他解释任何事情。现在他明白了，“那是因为他们没法长篇大论。他们无话可说。他们被自憎和内疚这些东西折磨得痛苦不堪，所有这些都随之而来，有四个孩子，看在上帝的份上，他们就是做不到。现在，我自己也有了四个孩子，当你自己有了孩子的时候，你会说，哦，我明白了。”
 
-The comments `provoked a sharp backlash` from hard-liners `across the political spectrum`
-这些评论引发政界强硬人士的强烈反弹
-
-Each representation `diminishes impressive creature` to an object of most `banal imagination`
-各个表现形式将令人赞叹的创造贬低成最平庸的想象客体
-
-Half of that band is more `heavily populated`
-一半区域人口更密集
-
-A friend `banged on his dormitory door`
-一位朋友猛敲他宿舍大门
-
-`Even while banished` from news media
-尽管(即便)遭到媒体封杀
-
-Party elite had `been battered by infighting`
-党内精英被内斗所击垮
-
-Party was `beset by laxity and softness`
-党受困于管理松软
-
-It would probably `be better off` on its own
-可能会对它更加有益
-
-she `was devoted to` Princess Diana
-她一直崇拜戴安娜王妃
-
-he said `with a half-bemused shake of his head`
-他有些困惑地摇着头说
-
-Months of `struggling with` economic problems at home and `bickering with` President 
-在经济问题上持续数月的斗争，以及同总统在贸易方面的争吵
-
-Fueled an `overseas buying binge` of hotels  `borrowing binge`
-加速购买海外酒店的疯狂   借贷狂潮
-
-`Bizarrely backed` a blockade of Qatar
-奇怪地支持封锁卡塔尔
-
-`Blowing the whistle` on deceptive practices
-揭露欺骗行为
-
-Left villages for the `booming cities`
-离开村子去往繁华的城市
-
-They won't `hold accountable for anything`，even if `it borders on treason`
-就算接近叛国边缘，他们也不会承担任何责任
-
-Lawyers `bowed out`
-律师退出
-
-Expanding at `a breakneck pace` within the country and around the world
-在国内外迅速扩张
-
-He `pleaded not guilty` to charges that he tried to `bribe top officials`
-他拒绝对贿赂高官认罪
-
-In order to `bring it in line with` history curriculum on the mainland
-为了使历史课程与大陆保持一致
-
-Atlanta city government has been `brought to its knees` by `a ransomware attack`
-亚特兰大市府被勒索软件攻击击垮
-
-Real estate agents are `brushing up on` their Mandarin as Chinese investors `flock to` phnompenh
-随着中国投资者涌向金边，房地产经济人正在练习普通话
-
-Beijing `bustles with` Internet entrepreneur
-北京到处是互联网创业者
-
-`Wean cadres off fancy meals，heavy drinking`
-断绝干部队伍享乐美食，豪饮
-
-
+He remembers Oprah once asked him on her show about `his dysfunctional family growing up`, and he thought, “`What’s that? Oh, that’s us.`”
+他记得奥普拉曾经在节目中问他，在不正常的家庭成长是什么样的感受，他想，“什么意思？噢，是说我们。”
