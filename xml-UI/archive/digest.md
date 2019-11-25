@@ -65,6 +65,7 @@
     - [head](scala/scala-head.md)
 + ***Python***
     - [basic](python/python-basic.md)
+    - [kite-编写python代码的AI](https://mp.weixin.qq.com/s?__biz=MzIxNjM4NDE2MA==&mid=2247492104&idx=2&sn=95d59b96659d8ed74ac1f79bb6225486)
 + ***Go***    
     - [basic](go/go-basic.md)
     - [OAuth](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615474&idx=4&sn=40f51dfeabdb4665c4ef000d8e43c16e)
@@ -75,10 +76,13 @@
     - [分布式唯一 ID之Snowflake算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217772&idx=3&sn=9c7d6ae01ae1e78db3734cf428c01b1c)
     - [压缩算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217836&idx=2&sn=f2934003c968143832e5a60390b28eaa)
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
+    - [图解基数排序](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217939&idx=2&sn=e4356b156508b5c5570b96b548061d97)
     - [获取网络日志发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
     - [内存与数据结构 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217699&idx=3&sn=f30c0be3d15e1d2d2327ce2cb8608023)
+     - [进程与线程图解 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217929&idx=2&sn=c582a01762f593b170a1b4390c235c42)
 
 #### Web
++ [Nginx反向代理](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217914&idx=2&sn=45f244835cf5f81d5fce175c8fc1abdb)
 + [Authentication](https://swagger.io/docs/specification/authentication/)
     - Basic Authentication
 
@@ -102,7 +106,9 @@
 + [浏览器缓存机制](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217039&idx=2&sn=318df329b8711066e97f026468ccd24a)
 + [Minification](https://en.wikipedia.org/wiki/Minification_(programming))
 + [js/html beautifier](https://beautifier.io/)
++ [MVC/MVVM 模型](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217942&idx=3&sn=a8a33f091c6535d4a037479b14c81af2)
 + [webpack打包工具](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485903&idx=2&sn=bd6b2321301c61f3be683841c7a6b620)
+    - [webpack 常用配置](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218008&idx=3&sn=542d4518ca1aa40ea06a4975841e3172)
 + CSS
     - [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
     - [CSS第四级选择器](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485929&idx=1&sn=1e7c6bfb43b5a209a038fc1904e6fec9)
@@ -120,6 +126,7 @@
 + [JS 数组精简](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217694&idx=3&sn=213c80e46d8b49bc38f6e7ccaff1061c)
 + [JS异步任务](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217735&idx=3&sn=f2ea5592f8fb11a2368b88dec4b8ff0b)
 + [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615192&idx=2&sn=d411c88807d9753c0274041e986ad119)
++ [使用 Flutter开发Web应用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615683&idx=2&sn=715cf495ef2e6c37c9aa57a1d3139c99)
 
 #### Architecture
 + [二进制世界](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217312&idx=2&sn=f50f973c3530af9c24cd6e46701481a3)
@@ -144,6 +151,7 @@
     - [MySQL入门](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282311&idx=2&sn=53994ae8d6421671a3e3e1f86cb47982)
     - [MySQL规范](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=1&sn=09e5454c9531cff382920692b48980aa)
     - [鸟瞰 MySQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=2&sn=fdcea4fd03456374f711ec9038330b5f)
+    - [MySQL命令学习笔记](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650371249&idx=2&sn=90ac7ea2283db11c8a2f08cac35f8d38)
     - [MySQL 优化19条](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217344&idx=2&sn=eb047a4f1bfb481acecdd4c471ed8962)
     - [理解SQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282207&idx=1&sn=13e5649852c7921fc513df7c94de1bb8)
     - [MySQL union](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282197&idx=2&sn=f2308df403c486c45fb258b9824147a8)
@@ -152,6 +160,7 @@
     - [MySQL 8 vs PostgreSQL 10](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281707&idx=1&sn=52fdb59331e5decd81f48d5099a11436)
     - [MySQL Router高可用](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490615&idx=1&sn=54faa8277b7bb5e2a66debc1bd49305a)
 + [Postgre](db/PostgreSQL.md)
+    - [PostgreSQL入门](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615663&idx=3&sn=a09a9a54b68383d8a5621faf73809171)
 + [oracle](db/oracle.md)
     - [Persistent Memory Store](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=2&sn=c2a3ea86e98a0d79c786cd9962b3f87e)
     - [数据迁移工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282864&idx=1&sn=0bb4795f0794808b04eb5f3001fdd1ad)
@@ -243,6 +252,8 @@ process in:file language:java extension:java
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
 + [深入Java Lock](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217659&idx=2&sn=77830b512bf68e06653a64033d4a1e06)
 + [Java网络协议](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217724&idx=2&sn=01c7f798325acd209bdef73c317b0ca8)
++ [JVM GC](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022362&idx=5&sn=6fea10b7c630b6f2609d9dc8cb1e78bf)
+    - [对象不用赋值null ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218043&idx=3&sn=b75f9e2cf296d75e42aa3ca13bfb12b3)
 
 #### tools
 + ***notepad++***
@@ -286,6 +297,8 @@ process in:file language:java extension:java
 + [数据库面试题](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282156&idx=1&sn=89d95d07046eee418980ec7ed13ccb49)
 
 #### protobuf
++ [简要使用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615676&idx=1&sn=3510d507e3e37741c828e4380cab0985)
+
 protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
 因此，需要在.proto定义文件头加上`option java_generic_services = true;`
 
@@ -350,6 +363,7 @@ done
     - [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
     - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
     - Kubernetes系列[ [2](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660650&idx=2&sn=0a7d468d92d58a683422796de938b29e),[3](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660702&idx=2&sn=caac340acbf9c4d22751f79e3c011024),[4](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660760&idx=3&sn=c66a40e21a26824b5a4fd3699c82cd9b) ]
+    - [Pod间容器通信 ](https://mp.weixin.qq.com/s?__biz=MzAwMDc2NjQ4Nw==&mid=2663495069&idx=1&sn=0dac4fead9cf936caa1adf0f62ab4162)
 ```
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
 kubectl get ds -n kube-system
@@ -388,6 +402,8 @@ kubectl get ds -n kube-system
 + [诗经简史](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650477344&idx=1&sn=727f1c3e1b5f2bbf388247f9b639915d)
 + [古文十篇](https://mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657450567&idx=1&sn=d9292a4ff1acbbc8fe4f00c685557fec)
 + [经济学眼镜蛇效应](https://mp.weixin.qq.com/s?__biz=MzAxMzg2ODMyNA==&mid=2652503536&idx=2&sn=1542b3789c2868c549aa65b1609842f9)
++ [小心求证, 大胆假设](https://mp.weixin.qq.com/s?__biz=MzAxNzU1NDczOQ==&mid=2651083535&idx=3&sn=d5833d4bc4db821350e9596fc0412e72)
++ [你打你的, 我打我的](https://mp.weixin.qq.com/s?__biz=MzAwMjExNDU1Mw==&mid=2650575681&idx=1&sn=fb1f7ab37600e82e17a472c441b48ccd)
 
 #### GraphQL
 [工具和库 ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017395&idx=3&sn=ab0b3c87c20d4cdaad82321764195210)

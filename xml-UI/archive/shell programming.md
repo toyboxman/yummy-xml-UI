@@ -26,6 +26,7 @@
     + [update jar文件并重启服务](#exp6)
     + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
     + [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
+    + [Bash生成补丁合规报告](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615629&idx=2&sn=f96822255ce6ea98f2a1f71787b53699)
 
 > [Link](http://www.freeos.com/guides/lsst/)
 

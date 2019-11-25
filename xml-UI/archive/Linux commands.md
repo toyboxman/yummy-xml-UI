@@ -28,7 +28,7 @@
         - [List All Users](#list-all-users) 
         - [Add New Users](#add-new-users)
         - [umask Linux权限](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615582&idx=1&sn=a681362b9f046c121de8357285c65b63)
-        - [sudo](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig) 
+        - sudo[[1](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [2](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615663&idx=1&sn=fc6094c51908f8ab95b97a1438e81377)]  
         - [设置安全保护](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446013&idx=1&sn=a06b5f2554c8a6fc6bbc62d847994ab2)
     - System Management
         - [List System Details](#list-system-details)
@@ -1586,6 +1586,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 #### awk
 + [awk入门](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=2&sn=3a0b56b403f4dcf7c204bdb67161f7fe)
 + [awk-loop](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)
++ [awk-NR/NF变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615695&idx=2&sn=a8058e8ad8203e94c20b26eea4b82849)
 ```console
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
