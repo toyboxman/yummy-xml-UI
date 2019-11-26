@@ -312,11 +312,80 @@ The dog is posed in `a distinctively person-like way`
 VC are `pouring vast sums into a dizzying array of start-up`
 风投把大量资金投入眼花缭乱的初创企业
 
-The history of `domestication`
-驯养的历史
+The history of `domestication`  `dumbfounded` the news media
+驯养的历史   让新闻界目瞪口呆
 
 `Doubling down on` political brainwashing this way is unlikely to serve cause
 施加双倍政治洗脑不太可能达到目的
 
 He has `taken his drive for transparency` beyond borders
 他带着寻求真相的决心走出国门
+
+Trump `participated in dubious tax schemes` during the 1990s, including `instances of outright fraud`
+特朗普总统在上世纪90年代采取了一些可疑的避税方案，包括一些完全属于欺诈的做法
+
+make me `grumpy`, not `elated`
+使我感到烦躁而非兴奋
+
+they were `elated but still cautious`
+他们为此高兴但仍旧谨慎
+
+must not be exported to `embargoed nations`
+不得出口到禁运国家
+
+charge him with `embezzlement`
+指控其贪污
+
+rewrite Constitution to `emulate` China
+修改宪法仿效中国
+
+`infringing on the rule of law` and potentially `endangering national security`
+破坏法治可能会危及国家安全
+
+he `was engulfed in the mass persecutions`
+他被卷入大规模迫害中
+
+`relatively enlightened`  `erratic behavior`
+相对开明的   不稳定的行为
+
+he is expected to `enshrine his authoritarian vision`
+他期望把自己思想奉为权威
+
+Stricter `social security tax collections` could `erode China’s corporate profits` by 2.5 percent 
+更严格的社保征收可能会使企业利润下降2.5％
+
+`escalate his feud with Mark`   `evade recession` for 27 years
+加剧他们间不和  多年未出现经济衰退
+
+Australia's `claim to playing hard but fair has evaporated`
+澳洲队敢打敢拼却诚实的说法不存在了
+
+a financial `panic had risen significantly`, shaking markets `even more `
+出现金融恐慌的可能性显著上升，这进一步震撼了市场
+
+`an ever-wandering revolutionary`  `point to history as evidence`
+一名浪迹天涯的革命者   援引历史作为证据
+
+`exacerbate medical problems`  `excel at` professional human sports
+加重健康问题    特别擅长人类的专业运动
+ 
+`excessive intervention` in the economy
+过度经济干预
+
+`echoed with` the exhortations of a preacher and a gospel choir
+一位牧师的敦促和福音唱诗班的歌声在回荡
+
+he `lived in exile` in US
+他流亡美国多年
+
+sixty diplomats are `expelled`
+60名外交官遭驱逐
+
+careful examination of `the expenditures`
+仔细审查开支
+
+`exploit gaps` in regulatory responsibility
+利用监管责任空白
+
+`extract papers` from `reluctant` librarians at archives
+从不情愿的图书管员那获得一些文件
