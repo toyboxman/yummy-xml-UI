@@ -345,8 +345,8 @@ rewrite Constitution to `emulate` China
 he `was engulfed in the mass persecutions`
 他被卷入大规模迫害中
 
-`relatively enlightened`  `erratic behavior`
-相对开明的   不稳定的行为
+`relatively enlightened`  `erratic behavior`  `exuberant expression`
+相对开明的   不稳定的行为   热情流露
 
 he is expected to `enshrine his authoritarian vision`
 他期望把自己思想奉为权威
@@ -389,3 +389,234 @@ careful examination of `the expenditures`
 
 `extract papers` from `reluctant` librarians at archives
 从不情愿的图书管员那获得一些文件
+
+`face up to` 10 years in prison
+面临十年刑期
+
+we `fact-checked` president's assertion
+我们对总统说法进行了事实核查
+
+`fan nationalist`  `a fatalistic orientation`  `the ferocity of attacks`  `feverish overseas investment`  `fine particulate`
+煽动民族主义  听天由命的态度   激烈攻击    狂热的海外投资   细小颗粒物
+
+HK is `faring no better politically`
+香港在政治方面并不好
+
+identified herself as `feminist`
+认为自己是女权主义者
+
+sometimes to `fend for themselves`
+有的只能自力更生
+
+evolution is from `optimistic ferment to the reversals`
+改革从最初的乐观发酵到现在出现逆转
+
+`a well-considered fictionalized account`     `furry emoji`
+精心构思的虚构描述      毛茸茸的表情包
+
+`a fledgling movement` in the country  `full-fledged`
+在这个国家的新运动  羽翼丰满的, 有充分资格的
+
+the company `was fined 1.2 billion and forbade from selling`
+该公司被罚款并被禁售
+
+Korea `was flatten`，Koreans see the bombing as `holocaust`
+朝鲜被夷为平地，朝鲜人视轰炸为大屠杀
+
+`minted` graduates have `flouted hymn`   `frost-covered hair`
+毕业生对国歌不敬    结满霜的头发
+
+`getting enough fluids`，watching for urine that `becomes dark in color`
+多饮水注意尿液颜色变深
+
+`flung a banana peel` at cameramen  `produce formidable growth`  `forward-looking young people`
+向摄影师扔香蕉皮   促生巨大的增长  高瞻远瞩的年轻人
+
+`a flurry of speculation` surrounding `diplomatic quarter`
+外交圈被一系列猜测包围
+
+`fluttering red hammer-and-sickle flags`   `the smell of foliage`  `diplomatic foray`
+飘舞的锤子镰刀旗帜  树叶(植物)的气息   外交攻势
+
+`footage` of the astronauts inside the space station
+宇航员在空间站的镜头
+
+`forestall the possibility` of a trade war and secure China's purchase
+预先阻止可能的贸易战并且保证中国未来增加购买
+
+He also helped `formulate a strategy to undervalue` his parents’ real estate holdings by hundreds of millions of dollars 
+他还帮助制订了一个策略，将纳税申报单上父母持有的房产的价值低估了数亿美元
+
+has long `cherished its special，if fraught，connection` to Japan
+一直珍视与日本特殊且充满波折的联系
+
+these are quiet but `fretful days`  `fret so much`  `power grab`
+这是一段平静而烦闷的时期  十分担忧  权力争夺
+
+he also offered `a full-throated defense` of the country’s big state-controlled companies  `full-throated capitalism`
+他也有力地为大型国有公司辩护   完全的资本主义
+
+PM `would be in big trouble` if Canada were caught `funneling money to private organization`
+如果加拿大被抓到向私人组织转移金钱，总理会陷入大麻烦
+
+No one will `make much of a fuss`  
+没人会大惊小怪  
+
+`facing political gale`  `garner the headlines`  `garrison state`
+面对政治风暴  抢了头条   军事体制国家
+
+dogs are uniquely attentive to the `human gaze`
+狗对人类的视线尤为敏感
+
+sporting events have long been `a window into geopolitics`
+长期以来体育事件一直是观察地缘政治的窗口
+
+the government is `going after individuals`
+政府将追究一些个人责任
+
+Trump’s `soft spot` for authoritarianism `goes way back`
+川普对专制主义的喜爱由来已久
+
+space station `gradually brushes against the upper atmosphere`
+空间站逐渐划过上层大气
+
+two countries `grapple with the strident nationalism`
+两国忙着应对强硬的民族主义
+
+`the Outlook is bright，the challenges are also grim`
+前景是光明的，挑战是严峻的
+
+`gross domestic product` per person
+人均国内生产总值
+
+state `security chieftain` had grown `grossly corrupt`
+国家安全首脑已十分腐败
+
+threatened with `gruff humor`
+用生硬的幽默方式威胁
+
+produce `a profound anti-grumpiness`
+产生深切的止躁作用
+
+it was always `his guts and gumption that overcame setbacks `
+永远是他的勇气和进取心让他克服了困难
+
+`hail a ride` downtown   `ham-handed`   `harrowing story`   `head off tariffs`  `head-spinning decision`
+叫车去市中心  笨手笨脚的   可怕的故事   阻止关税  摸不着头脑的决定
+
+`take a hard line against` China since the president `took office` 
+自从总统上台以来对中国立场强硬
+
+`increasingly heavy-handed`   `heavy-headed`  `suffer a home invasion`  `humiliating snub`   `hunting ground`
+日益严厉的  迟钝的,昏昏欲睡的   遭遇家中入侵   侮辱性的怠慢  有希望找到所寻求东西的地方
+
+it created `a growth machine` that helped make China second only to the United States `in terms of economic heft. `
+帮助中国的经济总量达到了仅次于美国的水平
+
+60 killed and more than 1700 `hospitalized `
+60人丧生，超过1700人入院治疗
+
+what would once have been `hot-button issues`
+某些问题过去肯定会成为热点
+
+people had `camped out all night`，`huddling in blanket and clutching hot-water bottles`
+人们在外面露营一宿，挤在毯子下拿着热水瓶取暖
+
+`illiterate` grandparents
+目不识丁的祖父母
+
+reduce the multibillion-dollar `trade imbalance`
+减少数千亿的贸易不平衡
+
+100,000 pages of documents describing the inner workings and `immense profitability of his empire` 
+描述他的房产帝国内部运作和巨大盈利能力的逾10万页的文件
+
+it's `imperative` that we do not `back off one iota`
+我们一定要寸步不让
+
+has a long past as `an imperialist power`
+很长一段时间也是一个帝国主义大国
+
+`impose tariffs` on Chinese imports such as steel
+对中国进口商品征税
+
+life imprisonment   life sentence
+终身监禁    无期徒刑
+
+Trump helped his father `take improper tax deductions worth millions more `
+特朗普帮助父亲使用不正当的税收减免,总减免数额高达数百万美元
+
+preachers delivered `a loose，improvisational sermon`
+牧师们做了一场轻松即兴的布道
+
+what we hope is that `cool heads and rational actions will prevail` instead of `emotions or impulses holding away` 
+我们希望保持理性而非感情用事
+
+`in a sense`，this was the first war    `in some respects`   `in the wake of`
+从某种意义上讲，这是第一次战争    在某些方面   随着…而来
+
+`in an effort to` start a new era of closer cooperation
+旨在开启新时代更加密切的合作
+
+new measures would `be in place` by the end of the month
+新举措将在本月底之前到位
+
+betray the nation's security `in return for a bribe`
+出卖国家安全换取贿赂
+
+`mercantilist` trade practices are `indefensible`
+重商主义贸易行为是不可原谅的
+
+seems simply `indifferent`   `indigenous language`  `ineffectual`  `inequality`
+似乎无动于衷  土著语  无效的  不平等
+
+`income inequality`  `inexplicable`
+薪酬不均  无法说明的,不能解释的
+
+`brutal` military conquests led by the `infamous` first emperor
+臭名昭著的皇帝发起残酷的军事征服
+
+my field is `in its infancy`
+我的研究领域处在初期阶段
+
+`infectious disease specialist`   `install a party boss`   `trust instinct`
+传染病专家   任命党委书记  相信直觉
+
+how `inflammatory` FB posts `stirred ethnic violence`
+具有煽动性脸书帖子是如何激起民族暴力的
+
+`infringe on the rights` of immigrants
+侵犯移民的权利
+
+mark his place in the party's history by `inscribing his idea`
+通过写入思想而在党史留名
+
+`instigated` a week of protests   `invigorate` party control
+煽动一周的抗议活动  加强党的领导
+
+use several `instruments` to observe the Earth
+使用多种仪器观测地球
+
+this is `unnecessarily instrusive` and `beyond ridiculous`
+这是过分侵扰，是再荒唐不过的做法
+
+`insurgents overran` the Afghan city
+叛军入侵了阿富汗城市
+
+drivers had tagged her as an `'intellectual beauty' and 'sweetheart'`
+司机给她打上'知性美女'和'小可爱'标签
+
+back off `one iota`
+退一小步
+
+this is `joyous time to be alive`
+这是个好时代
+
+newspapers `swung the klieg lights of their attention to` her `estranged half siblings`
+报纸把强大注意力聚焦她没有来往的同父异母兄弟姐妹们
+
+this is my `last-ditch attempt`
+这是我最后的尝试
+
+between 43 `degrees north` and 43 `degrees south latitudes`
+北纬43度和南纬43度之间
