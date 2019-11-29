@@ -207,3 +207,65 @@ He `was never angry at` his parents; he’s still not. He saw `how hard it was fo
 
 He remembers Oprah once asked him on her show about `his dysfunctional family growing up`, and he thought, “`What’s that? Oh, that’s us.`”
 他记得奥普拉曾经在节目中问他，在不正常的家庭成长是什么样的感受，他想，“什么意思？噢，是说我们。”
+
+“`The Reality television show’s` awareness of `safety precautions is too poor`,” Xu Zheng, a prominent actor and director, wrote on Weibo. “`It must be held responsible`!”
+“真人秀节目的安全防范意识也太差了，”著名演员、导演徐峥在微博上写道。“绝对要负责啊！”
+
+`Adrenaline-pumping moments are a staple`, often filmed at night in a downtown stretch of Ningbo. In one recent episode, a professional boxer `fell into a ball pit and struggled to emerge` as his teammates watched on.
+使人热血沸腾的兴奋时刻是节目的主要内容，拍摄现场通常是夜间的宁波市区。在最近的一集里，一名职业拳击运动员掉进了一个球坑，在队友的注视下挣扎着爬了出来
+
+Early on Wednesday, Mr. Gao was `filming a guest appearance on the ninth episode` of “Chase Me” when he collapsed, according to the statement by the show’s producers. The show’s medical staff tried to `revive him`, but when they could not, Mr. Gao was taken to a hospital and `pronounced dead`, the producers said.
+据节目组周三早些时候的声明，高以翔在拍摄《追我吧》第九集时突然晕倒。节目组说，现场的医务人员试图对他进行救治，但未成功，高以翔被送往医院，并在那里被宣布死亡
+
+“Everyone can make a difference,” he wrote in a post in July, `“one small step at a time.”`“每个人都能有所作为，”他在今年7月的一个帖子中写道，“只要持之以恒。”
+
+`Given that`, you might expect me to think that Thanksgiving is one of the most important days of the year. `After all`, if there’s a day on which the benefits of gratitude are maximized, surely it’s the national holiday `set aside for the purpose of expressing that emotion.`
+因此，你可能会觉得我认为感恩节是一年中最重要的日子之一。毕竟，如果某一天感恩的好处被最大化，那这一天一定会是为了表达这种感情而专门设置的国家节日.
+
+`But truth be told`, gratitude is wasted on Thanksgiving. `Don’t get me wrong`: I love the `rhythms and rituals of the day as much as anyone`
+但说实话，感恩在感恩节实属浪费。不要误解我的意思：我和大家一样喜欢这一天的节奏和仪式传统
+
+Consider that one of gratitude’s `central purposes` is to help us `form strong bonds with` other people
+感恩的核心目的之一，就是帮助我们与他人建立牢固的联系
+
+`To be clear`, I’m not saying that taking time to `reflect on and show appreciation for the good in life isn’t worthwhile`. It’s surely `a noble act`. But from a scientific perspective — where emotions exist to `nudge our decisions and behaviors toward certain ends` — the benefits that gratitude offers `tend to be rendered irrelevant on the day it’s most expressed`.
+需要明确的是，我并不是说花时间反省、表达对生活中美好事物的欣赏是不值得的。这当然是一种高尚的行为。但从科学的角度看——情绪的存在会推动我们决定和行为朝着特定方向发展——感恩带来的好处，往往在表达最多的那一天变得无关紧要
+
+When my colleagues and I asked people to report whether a coin they `flipped` in private `came up heads or tails` (heads meant they’d get more money), those who had been made to feel grateful (by `counting their blessings`) cheated at half the rate of others. (We knew who cheated because the coin `was rigged to come up tails`.)
+当我和同事们让人们报告他们私下掷出的硬币是正面还是反面时（正面意味着他们会得到更多钱），那些（通过历数自己的幸福）变得心怀感激的人作弊率只有其他人的一半。（我们知道谁作弊了，因为硬币被设计成反面朝上。）
+
+Research by me and my colleagues found that people feeling grateful `made less impulsive financial choices` — they were more willing to be patient for future investment gains than to `take smaller amounts of money in hand`
+我和同事的研究发现，感恩的人更少做冲动的财务选择——他们更愿对未来的投资收益保持耐心，而不是贪图眼前小利
+
+Gratitude also `drives us to be more productive.` There’s one other benefit of gratitude I want to point out: `It reduces materialism`
+感恩还会让我们更有效率, 我想指出感恩的另一个好处：它可以减少物质主义
+
+This finding `jibes with research` by the psychologist Thomas Gilovich that shows that people tend to be more grateful for time spent with others than for `gifts of big-ticket items`
+这一发现与心理学家托马斯·基洛维奇的研究相符，该研究表明，比起昂贵的礼物，人们往往对与他人相处的时间更有感激之情
+
+Yet on the other 364 days of the year — the ones when you might feel lonely, `stressed at work, tempted to dishonesty or stinginess` — pausing to `cultivate a sense` of gratitude can make a big difference
+但在一年中的其他364天——那些你可能会感到孤独、工作压力大、受惑去欺骗或小家子气的日子里，停下来培养感恩之心就会带来很大的不同
+
+The `ripping sound you hear` is the sound of two giant economies starting to decouple.
+你听到的撕裂声，是两个经济大国开始脱钩的声音
+
+`Protracted visa delays` and “`harsh rhetoric` against most immigrants,” Reif added, are sending a message that “the U.S. is closing the door — that we no longer seek to be `a magnet for the world’s most driven and creative individuals.”`
+赖夫还说，长期的签证延误和“针对大多数移民的严厉措辞”发出了这样一个信息，即“美国正在关闭大门——我们不再寻求成为磁石，吸引世界上最具动力和创造力的个人”
+
+This decoupling is not all Trump’s fault — not `by a long shot`
+这种脱钩并不全是特朗普的错——绝对不是
+
+“Levi’s started it all and definitely we have `had a lot of inspiration from` Levi’s,” she said, “but we `tend not to follow anyone and try to have our own originality.”`
+“李维斯开创了这一切，毫无疑问，我们从李维斯那里得到了很多灵感，”她说，“但我们不会跟着别人走，而是试着拿出自己的创意。”
+
+“They are uncomfortable at the beginning, as the material `is really quite stiff`. And also because `in the waist` you buy them quite tight at the beginning, about one inch,” Ms. Makino said. “But if you can `bear with them for a while`, they `get really well-fitting` and you can just wear them every day.”
+“一开始会不舒服，因为面料真的很硬。而且刚买完的时候穿会感觉腰部比较紧，大约有一英寸，”牧野说。“但如果你能忍受一段时间，它们会变得非常合身，你可以每天都穿。”
+
+To `make their own truly domestic denim`, Japanese manufacturers had to forget much of what they’d learned in `a millennium of dyeing with indigo`. If the color went all the way through the fabric, the jeans `wouldn’t fade`. They had to `dye the threads more shallowly`, maintaining a white center that would start to show over time
+为了制造真正属于本土的牛仔，日本制造商不得不忘掉他们在千年蓝染传统中学到的许多东西。如果颜色渗透布料，就不会褪色了。他们不得不将线股染得更浅，保持其中心是白色，这样随着时间的推移，白色才会显露出来
+
+Brands `branched off with different levels of dedication to strict tradition`, from the `copper rivets to the chain-stitched hems to the classic cut to the selvage denim`, which signifies that the fabric was made on `small-batch looms.` It comes from this really `Confucian idea`
+不同品牌对严格的传统也有不同程度的执着，从铜铆钉到链式缝边到经典剪裁再到镶边牛仔，都表明这些布料是在小批量织布机上生产的. 这种思想其实很儒家
+
+“`Beware of imitations`,” the labels say. Around the Warehouse website and catalog, a word often leaned on is `“authentic.”` “So how do you `make authentic jeans`?” Mr. Marx asked. “If you can make the jeans authentically to `how they used to be made`, then you have a claim to authenticity, and that’s what Japan has done.”
+他们的服装标签上写着“当心仿制品”。而在Warehouse的网站及商品目录中，“正宗”是经常出现的词。 “那么，怎样才能做出正宗的牛仔裤？”马克斯问，“如果你能按照过去的方式制作正宗的牛仔裤，那你就有资格说自己正宗。日本就是这么做的。”
