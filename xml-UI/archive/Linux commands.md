@@ -391,6 +391,7 @@ Su Mo Tu We Th Fr Sa
 ```
 
 #### date
++ [date命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615723&idx=2&sn=0aaccd7ae822e5ba8ed4586e780eb254)  
 + [时间格式参数](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
 ```console
 # %y	last two digits of year (00..99)
@@ -1511,10 +1512,11 @@ echo xxxxxxCONTROL-V CONTROL-U | od -c
 ```
 
 #### sed
-> [中文sample](http://sed.sourceforge.net/sed1line_zh-CN.html)<br>
-> [流编辑器sed详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666544328&idx=1&sn=b83a92ab2f678052ac4c4faa3fb02ee7)<br>
-> [删除文件中的行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615008&idx=1&sn=40529d874b3634ce7c3587916e78c17d)<br>
-> [查找和替换文件中的字符串的 16 个示例](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=2&sn=35b89d57c5fc46d461f9cb0cb95d7de1)<br>
++ [中文sample](http://sed.sourceforge.net/sed1line_zh-CN.html)<br>
++ [Sed技巧 ](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446261&idx=2&sn=b2b7f1b5efbc5d504b6c77f8128b9e52)<br>
++ [流编辑器sed详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666544328&idx=1&sn=b83a92ab2f678052ac4c4faa3fb02ee7)<br>
++ [删除文件中的行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615008&idx=1&sn=40529d874b3634ce7c3587916e78c17d)<br>
++ [查找和替换文件中的字符串的 16 个示例](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=2&sn=35b89d57c5fc46d461f9cb0cb95d7de1)<br>
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)
 ```console
 # s 指令是substitute  g指令是global全局

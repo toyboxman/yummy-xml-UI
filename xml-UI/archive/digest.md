@@ -34,6 +34,7 @@
 + ***blog***    
     - [jayway](https://blog.jayway.com/)      
     - [资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
+    - [offer negociation](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022657&idx=1&sn=19d390f55f4192f845a4e76ed35cd8f1)
 
 #### Linux
 + [commands](Linux%20commands.md)
@@ -66,9 +67,12 @@
 + ***Python***
     - [basic](python/python-basic.md)
     - [kite-编写python代码的AI](https://mp.weixin.qq.com/s?__biz=MzIxNjM4NDE2MA==&mid=2247492104&idx=2&sn=95d59b96659d8ed74ac1f79bb6225486)
+    - [Pandas并行处理](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022607&idx=5&sn=83e8b21e89b123461377a8c6283a6502)
 + ***Go***    
     - [basic](go/go-basic.md)
+    - [Golang编译器原理](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218158&idx=2&sn=1710ed8b0e7d57c96d5c26153a8f77a3)
     - [OAuth](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615474&idx=4&sn=40f51dfeabdb4665c4ef000d8e43c16e)
+    - [go实现负载均衡服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022459&idx=2&sn=48e26093bf201e20e842b23ba57096ce)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + [***laTeX***](laTeX/laTeX.md)
 + ***Algorithm***
@@ -125,6 +129,7 @@
 + [JS中重要api实现](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485500&idx=1&sn=45b0e7a9025ee98c8355d5f2035d4cd2)
 + [JS 数组精简](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217694&idx=3&sn=213c80e46d8b49bc38f6e7ccaff1061c)
 + [JS异步任务](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217735&idx=3&sn=f2ea5592f8fb11a2368b88dec4b8ff0b)
++ [交互式图的 JS库](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218149&idx=2&sn=39013bc90af351c129ea2aa7ea9014b9)
 + [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615192&idx=2&sn=d411c88807d9753c0274041e986ad119)
 + [使用 Flutter开发Web应用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615683&idx=2&sn=715cf495ef2e6c37c9aa57a1d3139c99)
 
@@ -149,6 +154,7 @@
 #### Database
 + [MySQL](db/mySQL.md)
     - [MySQL入门](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282311&idx=2&sn=53994ae8d6421671a3e3e1f86cb47982)
+    - [MySQL重要知识点](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650865584&idx=1&sn=61415dc17f2845bd1d1dc126659306e5)
     - [MySQL规范](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=1&sn=09e5454c9531cff382920692b48980aa)
     - [鸟瞰 MySQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=2&sn=fdcea4fd03456374f711ec9038330b5f)
     - [MySQL命令学习笔记](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650371249&idx=2&sn=90ac7ea2283db11c8a2f08cac35f8d38)
@@ -181,6 +187,7 @@
 
 #### bigdata
 + [spark](big-data/spark.md)
+    - [图计算框架Plato](https://mp.weixin.qq.com/s?__biz=MzI4NDMyNTU2Mw==&mid=2247484188&idx=1&sn=f43c3e9fc2c1a53aa5ba00d4a64eac9f)
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
 
@@ -190,6 +197,7 @@
     - [d2l-zh](https://github.com/d2l-ai/d2l-zh)
     - [笔记](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
     - [笔记介绍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770249&idx=2&sn=f7042c0c07074046e1ec3436c2bba0c0)
+    - [叶斯定理](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657465140&idx=4&sn=7162b8d3f465481b8856e989a8ca8f3e)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
@@ -250,10 +258,12 @@ process in:file language:java extension:java
 + [javatpoint](https://www.javatpoint.com/java-tutorial)
 + [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
++ [Lombok简化Java编程 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218154&idx=2&sn=b0f8177a60363fe2bc10df20a7b7e521)
 + [深入Java Lock](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217659&idx=2&sn=77830b512bf68e06653a64033d4a1e06)
 + [Java网络协议](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217724&idx=2&sn=01c7f798325acd209bdef73c317b0ca8)
 + [JVM GC](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022362&idx=5&sn=6fea10b7c630b6f2609d9dc8cb1e78bf)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218043&idx=3&sn=b75f9e2cf296d75e42aa3ca13bfb12b3)
+    - [JVM面试问题](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218082&idx=3&sn=5f8aca3ae79d8924b0d451aabe0b8946)
 
 #### tools
 + ***notepad++***
@@ -356,10 +366,12 @@ done
         - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
         - [pdf/excel/html report integration](https://www.baeldung.com/spring-jasper)
         - [阅读笔记](https://github.com/seaswalker/spring-analysis)
+        - [RBAC访问实现](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218093&idx=3&sn=9b82ec2ace31b04165d350d90552748b)
 
 #### kubernetes
 - [Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
-    - [配置 Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
+    - [k8s简介](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615729&idx=1&sn=2c08423255bad3aa9005afa943960672)
+    - [配置Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
     - [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
     - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
     - Kubernetes系列[ [2](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660650&idx=2&sn=0a7d468d92d58a683422796de938b29e),[3](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660702&idx=2&sn=caac340acbf9c4d22751f79e3c011024),[4](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660760&idx=3&sn=c66a40e21a26824b5a4fd3699c82cd9b) ]
