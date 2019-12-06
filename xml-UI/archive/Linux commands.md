@@ -272,7 +272,8 @@ cat /proc/meminfo
 ```
 
 #### device
-Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。
+Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。 
++ [Linux的特殊文件](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446269&idx=2&sn=ee48a435e4385f5eaf41847b7d41b13f)
 
 - [zero](https://en.wikipedia.org/wiki//dev/zero)
 
@@ -1254,7 +1255,7 @@ sudo ln -s /apache/data /data
 #### netstat
 ```console
 # monitor port status
-netstat -tlnpu
+netstat -tlnpua
 
 # List Active Internet connections and UNIX domain sockets
 netstat -anp

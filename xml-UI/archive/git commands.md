@@ -19,6 +19,7 @@
 - [git cherry-pick](#git-cherry-pick)
 - [git diff](#git-diff)
 - [git format-patch](#git-format-patch)
+- [git apply-patch](#git-apply-patch)
 - [git grep](#git-grep)
 - [git gc](#git-gc)
 - [git init](#git-init)
@@ -37,7 +38,7 @@
 - [git tag](#git-tag)
 
 ### git config
-```bash
+```console
 # list 代码仓库全部属性
 git config -l
 
@@ -66,7 +67,7 @@ git config --system --unset credential.helper
 ```
 
 ### git init
-```bash
+```console
 # 初始化一个空的本地git仓库
 git init
 
@@ -80,13 +81,13 @@ git push myAppName master
 ```
 
 ### git clone 
-```bash
+```console
 # 克隆一个远端代码仓库到本地
 $git clone https://github.com/openstack/glance.git
 ```
 
 ### git remote
-```bash
+```console
 # 在本地创建一个alias为glance的remote仓库(glance.git)映射
 git remote add glance https://github.com/openstack/glance.git
 
@@ -137,13 +138,13 @@ URL: https://github.com/toyboxman/incubator-griffin.git
 ```
 
 ### git pull
-```bash
+```console
 # 获取远端代码仓库中最新的代码，并且覆盖本地分支
 git pull
 ```
 
 ### git push
-```bash
+```console
 # 把本地当前最新分支push到Eugene目录下remote的bugs分支
 git push Eugene HEAD:bugs
 
@@ -179,7 +180,7 @@ To https://github.com/toyboxman/incubator-griffin.git
 ```
 
 ### git status
-```bash
+```console
 # 查看仓库中文件状态
 git status
 
@@ -192,7 +193,7 @@ git status -uno
 ```
 
 ### git add
-```bash
+```console
 # 将source中所有文件子目录都加入待提交staged状态
 git add ./source 
 
@@ -204,7 +205,7 @@ git add --all
 ```
 
 ### git rm
-```bash
+```console
 # untracked:新建文件  unstaged:修改过repo tree上的文件 staged:git add后待commit的文件
 # 将source中所有文件子目录都从待提交staged状态改成untracked状态
 # 此命令仅对git add untracked-files起到undo的效果，如果对git add unstaged-files执行会从本地tree中删除文件
@@ -221,7 +222,7 @@ git checkout @ readme.md
 ```
 
 ### git commit
-```bash
+```console
 # 提交全部更改的文件
 git commit -a 
 
@@ -233,7 +234,7 @@ git commit --amend --author="Gene <Gene@genesis.org>" --no-edit
 ```
 
 ### git branch
-```bash
+```console
 # 查看当前代码库全部分支
 git branch -a  
 
@@ -269,7 +270,7 @@ git branch --no-contains 45eb3ae0a5ccce683a74625409bd015c1fd6d312
 ```
 
 ### git checkout
-```bash
+```console
 # 将glance/stable/icehouse分支checkout成一个本地master分支
 git checkout -b master glance/stable/icehouse
 
@@ -299,7 +300,7 @@ git checkout dev -- ./java/src/
 ```
 
 ### git tag 
-```bash
+```console
 # 查看当前代码库全部tag快照
 git tag
 
@@ -311,7 +312,7 @@ $git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
 ```
 
 ### git ls-files
-```bash
+```console
 # 列出当前目录及子目录中所有文件
 git ls-files
 
@@ -322,7 +323,7 @@ git ls-files | xargs cat | wc -l
 ### git merge rebase
 > [Link1](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
 > [Link2](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
-```bash
+```console
 # 将社区分支(stable/icehouse )合并到当前分支中
 git merge stable/icehouse 
 
@@ -358,7 +359,7 @@ git rebase --continue
 ```
 
 ### git reset revert
-```bash
+```console
 # 二者最大区别在于, 如果commit没有push, 那么就可以在本地丢弃, 用reset即可
 # 如果已经push到remote的仓库, 那么就用revert, 它会产生新的commit去undo已存在提交
 
@@ -390,7 +391,7 @@ git revert --no-commit 0766c053..HEAD; git commit
 ```
 
 ### git cherry-pick
-```bash
+```console
 # 在当前分支中获得dev上commit ID是6d17945cefa的提交
 git cherry-pick dev 6d17945cefa
 
@@ -405,7 +406,7 @@ git cherry-pick dev~2
 ```
 
 ### git diff
-```bash
+```console
 # 比较当前master分支和remote的master分支的差异
 git diff origin/master  
 # 比较当前master分支和remote的master分支中指定文件的差异
@@ -419,7 +420,7 @@ git diff 0.12.0 0.13.0 -- glanceclient/common/http.py
 ```
 
 ### git log 
-```bash
+```console
 # 简要汇总flash-dev分支所有提交日志
 git log --oneline flash-dev
 
@@ -465,13 +466,13 @@ git log master..origin/master
 ```
 
 ### git blame
-```bash
+```console
 # 查看http.py文件每一行修改记录
 git blame glanceclient/common/http.py  
 ```
 
 ### git show
-```bash
+```console
 # 显示master分支最后一个提交的内容
 git show master @
 # 显示master分支倒数第二个提交的内容
@@ -502,16 +503,35 @@ mkdir -p test/src; git show dev:test/src/test.java > ~/test/src/test.java
 ```
 
 ### git format-patch
-```bash
+```console
 # 在当前分支下为最新的一个提交(head -1)打出补丁
 git format-patch -1 HEAD  
 
-# 在当前分支下为某一个提交(sha -1)打出补丁
-git format-patch -1   
+# 给dev分支最新的一个提交(head -1)打出补丁
+git format-patch -1 dev  
+
+# 给当前分支从f5f8ff546b3开始到HEAD所有提交打出补丁
+git format-patch f5f8ff546b3  
+
+# 给当前分支f5f8ff546b3提交打出补丁
+git format-patch -1 f5f8ff546b3  
+```
+
+### git apply-patch
+```console
+# 查看补丁的内容
+git apply --stat my.patch
+# 检查patch是否存在错误
+git apply --check my.patch
+# 应用patch产生unstaged changes
+git apply my.patch
+
+#应用patch产生一个commit
+git am my.patch
 ```
 
 ### git grep
-```bash
+```console
 # 搜索当前branch当前目录中匹配的内容
 # 由于repo本身有索引，所以速度远快于grep
 # repo本身是树状，没有-r参数，默认全路径搜索
@@ -528,13 +548,13 @@ git grep -in 'if(' -- '*.java' '*.cpp'
 ```
 
 ### git gc
-```bash
+```console
 # 长期运行后 .git目录会占用大量空间,可以通过gc来回收空间
 git gc --aggressive --prune
 ```
 
 ### gitk 
-```bash
+```console
 # GUI方式查看分支修改记录
 gitk
 
@@ -550,20 +570,20 @@ gitk file
 2. 通过gerrit review的命令来操作, 或者通过git-review命令
 
 	- git-review是openstack组织开发贡献的. 需要额外安装
-	```bash
+	```console
 	sudo pip install git-review
 	```
 	或
-	```bash
+	```console
 	aptitude install git-review
 	```
 	- 创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件
-	```bash
+	```console
 	touch .gitreview
 	```
 	- .gitreview配置文件类似Windows .ini文件格式，存放Gerrit安装的相关信息
 	模板如下:
-	```bash
+	```console
 	[gerrit]
 	scheme=ssh   
 	host=gitreview.example.com
@@ -572,7 +592,7 @@ gitk file
 	defaultbranch=master
 	```
 	- 设定默认rebase到zero ，将使git-review不会rebase changes (same as the -R command line option)
-	```bash
+	```console
 	[gerrit]
 	scheme=ssh   --default scheme (ssh/http/https) of gerrit remote
 	host=review.example.com  --gerrit remote server 可以查看.git/config中配置
@@ -584,7 +604,7 @@ gitk file
 	track=0
 	```   
    - 创建全局review用户名
-	```bash
+	```console
 	git config -l    -- list all current config
 	# update author/email per repo, useful for current repo config
 	git config user.name "Gene"
@@ -600,16 +620,16 @@ gitk file
 	*当相同配置通过.gitreview配置文件或命令参数同时生效时候，命令行参数优先*
 
     - 设定commit-msg中自动产生Change-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
-	```bash
+	```console
 	$ scp -p -P 29418 king@review.example.com:hooks/commit-msg ~/source/.git/hooks/
 	```
 	或
-	```bash
+	```console
 	$ curl -Lo ~/source/.git/hooks/commit-msg https://review.example.com/tools/hooks/commit-msg
     ```	
 	*如果出现权限问题，一般是gerrit服务器上没有保存本机公钥，需要通过ssh-keygen命令产生~/.ssh/id_rsa.pub，并复制到gerrit管理界面上。
 	如之后得到的commit-msg文件没有执行权限，还需要修改一下执行权限*
-	```bash
+	```console
 	$ chmod u+x ~/source/.git/hooks/commit-msg
 	```
 	Ok，修改commit到本地之后就会在提交信息中产生一个Change-ID了, 如Change-Id: I5b8ecff9d0b6dddda4c76e162629017ac5026341
@@ -618,7 +638,7 @@ gitk file
 	在本地repo提交commit后，即可通过 git review创建review request, 或者 git review branchName 创建指定分支的review request
 	<br>如下结果输出:<br>
 		
-		```bash
+		```console
 		$ git review master
 		remote: Resolving deltas: 100% (4/4)
 		remote: Counting objects: 61302, done
@@ -665,7 +685,7 @@ gitk file
 			   * master
 		```
 	- 命令行参数具体说明参考 man git-review
-		```bash
+		```console
 		CONFIGURATION
 			 This utility can be configured by adding entries to Git configuration.
 

@@ -7,6 +7,7 @@ package king.flow.control;
 
 import java.util.AbstractList;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
@@ -21,7 +22,15 @@ import org.apache.commons.lang.StringUtils;
 public class Demo {
 
     public static void main(String[] args) {
-        System.out.println("king.flow.control.Demo.main()");
+        System.out.println("long -8794668755132899000L unsigned string " 
+                + Long.toUnsignedString(-8794668755132899000L));
+        System.out.println("unsigned long 9652075318576652616 is equal -8794668755132899000L, " 
+                + Long.toUnsignedString(-8794668755132899000L).equals("9652075318576652616"));
+        System.out.println("king.flow.control.Demo.main() " + System.currentTimeMillis());
+        final Calendar date = Calendar.getInstance();
+        System.out.println("king.flow.control.Demo.main() " + date.getTime().getTime());
+        date.roll(Calendar.HOUR, true);
+        System.out.println("king.flow.control.Demo.main() " + date.getTime().getTime());
         HashMap<String, Object> hashMap = new HashMap<>();
         StackOverflowError stackOverflowError = new StackOverflowError();
         hashMap.put("JSESSIONID=BD630DE2614A157CB4BAF8D9698DC899; JSESSIONID=F176DA45D8CB22B2BC5D092A64F42355", stackOverflowError);
