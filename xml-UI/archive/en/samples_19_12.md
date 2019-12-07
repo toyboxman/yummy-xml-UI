@@ -85,6 +85,44 @@ Huawei has also `filed libel complaints` in France against a researcher of the F
 Huawei has the right, and `in fact a duty`, to report the facts of any `suspected illegal conduct` to authorities. We `respect the decisions made by the authorities`, If Li Hongyuan believes that he has `suffered damages or that his rights have been infringed`, we support his right to `seek satisfaction through legal means, up to and including lawsuit` against Huawei
 华为有权利，也有义务，并基于事实对于涉嫌违法的行为向司法机关举报。如果认为他的权益受到了损害，华为支持他运用法律武器维护自己的权益，包括起诉华为
 
+The elephant `stepped on you`, but you can step back on it. Once a company `becomes a cold, dehumanized grinding machine`, what’s the point for it to exist?
+大象踩你一脚，你可以踩回去. 一旦强化成了一种去人性化的、冰冷的碾压机器，那么所谓企业存在的意义又究竟在哪里
+
+Huawei `cultivated an aggressive “wolf culture”` that encouraged its employees to work extremely hard
+华为曾培养一种咄咄逼人的“狼性文化”，鼓励员工拼命工作
+
+`A Chinese banquet` can be many things, but it is never `a gastronomic occasion.`
+中国的饭局可以各种各样，但绝对和美食无关
+
+All business meetings `end up in` private dining rooms, `employing pork and chicken as icebreakers` and closing deals over dumplings and rice
+所有的商务会议最后都在餐厅包间里结束，猪肉和鸡肉可以用来打破僵局，吃着饺子和米饭可以做成生意
+
+`The most prominent guest gets the “upper seat`,” the one squarely facing the entrance, so `his authority is appreciated` as soon as a guest arrives. Opposite the upper seat, in the chair closest to the doorway, is the so-called manager, the one who sends out invitations, orders dishes, arranges the seating, urges people to drink more and then `shoves the drunks into taxis afterward`
+最重要的客人坐“上座”，也就是正对着包间门的座位，其他客人到来时，一眼就能看出他的权威。上座的对面，也就是离门最近的那把椅子留给管事儿的人，他负责发邀请、点菜、安排座位、劝酒，然后把醉汉送进出租车
+
+“It’s a pleasure to meet you,” he said. “`I’ve been looking forward to meeting you for a long time`.”
+“幸会、幸会，”他说。“久仰大名，如雷贯耳。”
+
+Those in this seat can `expect to receive`: an absurd amount of `secondhand smoke`; a number of `judgmental looks` from men and women around the table; `inexhaustible baijiu refills` and, occasionally, a squeeze on the shoulder or a hand on the back
+坐在这个位子上的人可能会收到：多得离谱的二手烟；桌边男男女女们的上下打量；永远喝不完的白酒续杯，以及肩膀上偶尔的一捏，或落在背上的手
+
+Yet she pushed on, `shot after shot, knocking back baijiu` as the critics and editors `cheered like a mob`.
+但她仍在继续，把一杯杯的白酒喝下去，那些评论家和编辑们像暴民似地为她大声叫好
+
+The ultimate purpose of a banquet is to get its diners drunk. Only in this way can we connect and become friends, squeeze each other’s shoulders and `make dirty jokes`
+饭局的最终目的是把用餐者灌醉。只有大家都醉了，才能建立关系，成为朋友，互捏肩膀，讲荤笑话
+
+Once this became apparent, the president `sat in boredom`, picking at vegetables in his bowl, `sipping buckwheat tea`. Around half an hour later, he ordered and ate some noodles and took his leave
+这一切变得明朗之后，社长无聊地坐在那里，用筷子在自己的碗里挑来挑去，喝着荞麦茶。大约半小时后，他要了碗面条，吃完就走了
+
+But that was before everything changed — before China `emerged as a textile powerhouse, undercutting local businesses`
+但那是之前——中国成为纺织强国，本地企业被削弱之前；她和她的同事失业之前
+
+Despite its `Marxist trappings and solidarity with` the Soviet Union, the Italian Communist Party was never `devoted to the revolutionary overthrow of capitalism`. It was `left wing` in the same way as Nordic countries like Sweden, its leaders `intent on equitably distributing the gains of economic growth`
+尽管有马克思主义的外表，且和苏联保持了一致，意大利共产党从未致力于革命推翻资本主义。它的左翼性质与瑞典等北欧国家一样，其领导人意在公平分配经济增长的收益
+
+They `could govern by promising good salaries`, a pension system and health care. When there was `an expansive economy`, the left was strong, because the left offers you jobs
+他们可以通过承诺高薪、养老金制度和医保来治理。当经济增长时，左派力量强大，因为左派提供了就业
 
 
 
