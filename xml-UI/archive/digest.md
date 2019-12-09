@@ -23,6 +23,8 @@
 
 + ***bench test***
     - [Geekbench测试不同公有云服务](https://www.ithome.com/0/431/894.htm)    
+    - [Lighthouse做前端性能监控实践](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247486046&idx=1&sn=84caed75c1dc0e4bc73e666a502e855e)
+    - [go/java/python效率测试](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022843&idx=5&sn=17b863d27ee48634c7f22c6c2495978d)
 
 + ***microservice***
     - [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
@@ -78,6 +80,7 @@
 + ***Algorithm***
     - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
     - [分布式唯一 ID之Snowflake算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217772&idx=3&sn=9c7d6ae01ae1e78db3734cf428c01b1c)
+    - [小内存遇上大量数据](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022674&idx=5&sn=0796eda613607b4abfbf68a84aef0667)
     - [压缩算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217836&idx=2&sn=f2934003c968143832e5a60390b28eaa)
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
     - [图解基数排序](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217939&idx=2&sn=e4356b156508b5c5570b96b548061d97)
@@ -117,6 +120,13 @@
     - [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
     - [CSS第四级选择器](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485929&idx=1&sn=1e7c6bfb43b5a209a038fc1904e6fec9)
     - [CSS Grid](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485954&idx=1&sn=fe1687b658d8a0bd24cf8b3997b8f110)
++ JavaScript
+    - [JS中context和stack](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218210&idx=3&sn=b82c5b1d1b750accd7e72421b07f8519)
+    - [JS中重要api实现](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485500&idx=1&sn=45b0e7a9025ee98c8355d5f2035d4cd2)
+    - [JS 数组精简](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217694&idx=3&sn=213c80e46d8b49bc38f6e7ccaff1061c)
+    - [JS异步任务](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217735&idx=3&sn=f2ea5592f8fb11a2368b88dec4b8ff0b)
+    - [交互式图的 JS库](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218149&idx=2&sn=39013bc90af351c129ea2aa7ea9014b9)
+    - [正则表达式](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446283&idx=1&sn=22b9f99809135e163697a3e87cc537a9)
 + [http基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md#%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 + [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
 + [Chrome前端调试](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485526&idx=1&sn=019654aaa0c314886cc6fd6e1fe0e174)
@@ -126,10 +136,7 @@
 + [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485542&idx=2&sn=ecf1410ffa2e68ca626a1b98b7faf5f2)
 + [Node.js 进程与线程](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216926&idx=2&sn=e9d748a9b393b6b0d2e81d16cf194b80)
 + [前端开发 20 年变迁史](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485492&idx=1&sn=61b30d5573573580357c809e5a187329)
-+ [JS中重要api实现](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485500&idx=1&sn=45b0e7a9025ee98c8355d5f2035d4cd2)
-+ [JS 数组精简](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217694&idx=3&sn=213c80e46d8b49bc38f6e7ccaff1061c)
-+ [JS异步任务](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217735&idx=3&sn=f2ea5592f8fb11a2368b88dec4b8ff0b)
-+ [交互式图的 JS库](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218149&idx=2&sn=39013bc90af351c129ea2aa7ea9014b9)
+
 + [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615192&idx=2&sn=d411c88807d9753c0274041e986ad119)
 + [使用 Flutter开发Web应用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615683&idx=2&sn=715cf495ef2e6c37c9aa57a1d3139c99)
 
@@ -143,6 +150,7 @@
 + [高并发系统的设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485740&idx=1&sn=df7b6f26efae178765841ae615b9b32d)
 + [数据迁移](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282269&idx=1&sn=05e22eff6aa577bab2c61fcd41c76991)
 + [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
++ [分布式架构的前世今生](https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247487804&idx=2&sn=35f9b770f26f71b66e9df1f70e55dcf7)
 + [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)
 + [分布式锁解读](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282212&idx=2&sn=71659867ed0415421219f8cbd581d0ec)
 + [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
@@ -214,7 +222,7 @@
 + [Real-Time-Voice-Cloning](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490602&idx=2&sn=09752ffe957dbe2051b8e92d9c985d35)
 + [命令行备忘工具 navi](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217568&idx=2&sn=e25c3187bdf612f2dd68264669d0f092)
 + [Polynote多语言笔记本](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651021946&idx=1&sn=da5aa42bc438f4d517563b4f5a70947c)
-+ [2019-10 hot project](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446183&idx=2&sn=6b65cd6d1571df0672e408df601d9383)
++ 2019-hot-project[[10](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446183&idx=2&sn=6b65cd6d1571df0672e408df601d9383), [11](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446296&idx=1&sn=65b92fd734ca2774c3f0a90688853ecf)]
 
 github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github),   [code search语法](https://help.github.com/en/articles/searching-code)
 ```

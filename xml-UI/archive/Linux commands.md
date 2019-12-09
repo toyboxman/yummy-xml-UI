@@ -19,6 +19,7 @@
         - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
         - [rm -f undo](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
         - [排查机器入侵](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446188&idx=2&sn=0d1bedb695c5ffd45a147a14539ebb5c)
+        - [防止机器被黑](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446283&idx=1&sn=22b9f99809135e163697a3e87cc537a9)
         - [Debug Operation](#debug)
             - [Gdb](#gdb)
             - [Objdump](#objdump)
@@ -130,6 +131,7 @@
     - [Expand/Unexpand](#expandunexpand)
     - [Fold](#fold)
     - [Head/Tail](#headtail)
+        - [multitail](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=2&sn=2be0fa4438995d2392274621575d2920)
     - [Hd/Od](#hdod)
     - [Markdown/pandoc](#pandoc)
     - [JSON/jq](#jq)
@@ -522,6 +524,8 @@ ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
 ```
 
 #### systemctl 
++ [列出systemd所有服务](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446287&idx=2&sn=bdc6f1e024e95902cfab6fca9c7ea16f)
+
 Control the systemd system and service manager
 ```console
 # start sshd service
@@ -1020,8 +1024,10 @@ crontab -r
 [cron expression](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 
 #### Curl
-> [Link](http://conqueringthecommandline.com/book/curl)  
-> [Curl学习指南](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446117&idx=2&sn=711f87e47a0c3565164612138d8dc811)
++ [Link](http://conqueringthecommandline.com/book/curl)  
++ [Curl学习指南](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446117&idx=2&sn=711f87e47a0c3565164612138d8dc811)
++ [21个curl 命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615768&idx=2&sn=1db213cc4aa8e753921bec03e4f4dee8)
+
 ```console
 # (H) means HTTP/HTTPS only, (F) means FTP only
 # -i, --include   Include protocol headers in the output (H/F)
@@ -1587,8 +1593,8 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 ```
 
 #### awk
-+ [awk入门](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=2&sn=3a0b56b403f4dcf7c204bdb67161f7fe)
-+ [awk-loop](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)
++ awk入门[[1](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=2&sn=3a0b56b403f4dcf7c204bdb67161f7fe), [2](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615790&idx=1&sn=8d11c37e041ca676f3ca9f2b40e64cab)]
++ awk-LOOP[[1](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615749&idx=2&sn=6205977bb0f0943b1e3df2728d70aa06), [2](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)]
 + [awk-NR/NF变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615695&idx=2&sn=a8058e8ad8203e94c20b26eea4b82849)
 ```console
 # 字符串拼接
@@ -1764,6 +1770,8 @@ less page[2468].txt
 ```
 
 #### sort
++ [sort做排序](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615790&idx=2&sn=e7ab687bfce92b8f539253d7d94f3d38)
+
 ```console
 # sort displays the lines of a file in order
 sort days.txt
@@ -2247,6 +2255,8 @@ traceroute 172.18.0.1
 ```
 
 #### nslookup-dig
++ [查找域名IP](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615749&idx=3&sn=59740061e6995644423089f0fd66b756)
+
 [nslookup](https://en.wikipedia.org/wiki/Nslookup)是用来查询DNS保存的域名和IP映射关系的，可用来通过Name和IP互查关系
 ```console
 nslookup 10.0.0.1
@@ -2317,7 +2327,9 @@ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {ge
 ---
 
 ### DEBUG
-#### gdb
+#### GDB
++ [GDB技巧](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615768&idx=1&sn=9690755e7f6837eb8790cb8329b85e86)
+
 A core file is an image of a process that has crashed It contains all process information pertinent to debugging: contents of hardware registers, process status, and process data. Gdb will allow you use this file to determine where your program crashed. 
 ```console
 # finding out what made a core file in the first place
