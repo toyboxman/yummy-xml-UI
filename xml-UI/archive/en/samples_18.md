@@ -620,3 +620,98 @@ this is my `last-ditch attempt`
 
 between 43 `degrees north` and 43 `degrees south latitudes`
 北纬43度和南纬43度之间
+
+too `lax` , too corrupt  `left-behind children`  `legitimate question`
+太松懈太腐败  留守儿童  合理的问题
+
+the subject of `agitated speculation` for weeks `leading up to` the wedding
+婚礼前几周激烈讨论的话题
+
+more and more HKers seem to feel `less and less` Chinese
+越来越多香港人似乎不再认为自己中国人
+
+`felt let down` by the way magazines portrayed Asian cuisines
+感觉杂志呈现亚洲美食方式令人失望
+
+social media `lit up with the wind-burned face`
+被风刮的通红的脸照片点亮社交网络
+
+`like-minded` academice have `retreated into silence`
+志同道合的学者开始选择沉默
+
+`a high likelihood` of impeachment
+很大可能被弹劾
+
+visa application will `likely to` be rejected
+签证可能被拒签
+
+the impacts `linger more than 60 years`
+影响延续60多年
+
+`lionized him as a trailblazer`  `longstanding ties with`   `regulatory loophole`
+视他为先驱   长期的关系   监管漏洞
+
+Private entrepreneurs `are loath to speak out` for fear of `attracting official condemnation `
+民营企业家害怕招来官方的责备不敢发声
+
+one could say that `long before 1997`     `memorandum` of conversation    `mercurial` leader 
+可以说在97年之前很久         谈话备忘录     善变的领袖
+
+seek `a better long-term future` thru `more lucrative employment`
+通过更丰厚的工作寻求更好的长远未来
+
+it `breaks a taboo`，it is `magnificent`   `minted` graduates
+它打破一个禁忌，相当赞    毕业生们
+
+in hopes of `making eye contact`   diplomatic `maneuvering`   legal `maverick`
+希望看他们一眼(眼神交流)   外交斡旋   法律界异见(特立独行)人士
+
+`These maneuvers met with little resistance` from the Internal Revenue Service 
+这些做法几乎没有受到来自美国国税局的反对
+
+he insisted that it was `manifestly unfair` for the government to `tax his fortune` as it passed to his children 他却坚持认为政府在他把财产过户给子女时征税是明显不公平的
+
+China `marches forward`，US is `standing still`
+中国前进，美国原地踏步
+
+all democrats here `essentially hate the authoritarian`，its bullying and its `meddling with autonomy`
+这里的民主人士基本上都痛恨威权，它的恃强凌弱和对自治的干涉
+
+`it's fair to say` the meme intends to make cinema
+公平的讲这些米姆并非想做电影
+
+while `the merits of` punishing for unfair trade practices are strong
+尽管惩罚不公平贸易行为亦有重大意义
+
+`income mobility charts` make your `own comparisons`
+收入流动性图表让你能自行比较
+
+losing power to `mobilize protests`    
+失去动员抗议的力量      
+
+they plan to `project a more inclusive monarchy`
+他们计划呈现一个更具包容性的君主制
+
+dogs can `feel mortified`   `nationalist bent `    `reshape norms`
+狗能感到屈辱    民族主义倾向    形成规范
+
+the state-run people's daily, considered `a mouthpiece`
+官媒人民日报被视为喉舌
+
+response has so far been `muted`    `near-impossible`
+迄今为止反应较为温和   几乎不可能的
+
+apparently bolstered by `newfound wealth and might`
+显然有了新获财富与力量撑腰
+
+skeptics `notwithstanding`, China's model bringing more people out of poverty
+尽管有人怀疑, 但中国模式让更多人脱贫
+
+an actress `nudged the royal family into` a new era   `become obsessed by art`
+美国女演员将英国王室带入新时代    迷上了艺术
+
+time is `of the essence`    `of late years`
+时间非常重要    近年来
+
+offer `an Olive branch` amid trade war
+贸易战中伸出橄榄枝
