@@ -392,7 +392,7 @@ git revert --no-commit 0766c053..HEAD; git commit
 
 ### git cherry-pick
 ```console
-# 在当前分支中获得dev上commit ID是6d17945cefa的提交
+# 在当前分支中获得dev分支commit ID是6d17945cefa的提交
 git cherry-pick dev 6d17945cefa
 
 # 在当前分支中获取dev分支最后一个提交

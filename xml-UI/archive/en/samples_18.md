@@ -715,3 +715,48 @@ time is `of the essence`    `of late years`
 
 offer `an Olive branch` amid trade war
 贸易战中伸出橄榄枝
+
+`weirdly, the omnipresence of subject` begins making me `grumpy`
+奇怪的是, 研究对象无处不在却让我开始感到烦躁
+
+everyone has been `on pins and needles`    `onerous jobs`   `open-necked shirt`
+每个人坐立不安       繁重的工作   开领衬衫
+
+while space station was `operational`   `keep space stations in orbit`
+空间站运转期间   维持空间站在轨
+
+she `stood opposite` him   `iron ore`
+她站他对面       铁矿石
+
+Beijing `adjusted the optics` in other areas
+北京在其他领域也有所动作
+
+`ostensibly` fearing social unrest   `overhaul supervision`
+看着挺担心造成社会不稳定   全面改革监管
+
+`outright` transformation seemed `out of reach`
+彻底改变似乎遥不可及
+
+she is `biracial` and `outspoken in her views`
+她混血而且对自己观点直言不讳
+
+`depicting stories` have been `overlooked or misrepresented`
+描述的故事被忽视或曲解
+
+China is a long way from `overtaking` US
+中国要赶超美国还需要很长路要走
+
+marriage is often viewed as `a social pact` and attitudes remain `deeply conservative`
+婚姻往往被看作一种社会契约，民众态度依然十分保守
+
+`pageantry` of goose-stepping soldiers   `a pathway` to US citizenship
+壮观的正步走军团    获得美国公民的途径
+
+`notwithstanding a parting warning` and `a call to arm` from Obama
+经管收到奥巴马政府临别警告和战斗号召
+
+it was an attempt to `promote this so-called patriotic education`
+推广所谓爱国主义教育的尝试
+
+`peculiar` foreign policy   `impeccable pedigree`   `peer too deeply`
+特殊的外交政策   完美的家族背景   深入窥视
