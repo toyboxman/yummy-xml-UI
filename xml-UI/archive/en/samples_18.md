@@ -760,3 +760,27 @@ it was an attempt to `promote this so-called patriotic education`
 
 `peculiar` foreign policy   `impeccable pedigree`   `peer too deeply`
 特殊的外交政策   完美的家族背景   深入窥视
+
+`pendulum swinging back toward` the government   `Korean peninsula`
+钟摆正在倒向政府的方向    朝鲜半岛
+
+pictures `pepper` Twitter feeds and Facebook posts
+推特和脸书上全是那些照片
+
+how dogs `perceive the world`   `swallowing pesticide`
+狗狗如何感知世界    吞服农药
+
+`perceived as cozy with` the industries they regulate
+被认为与监管行业关系亲密
+
+feel `peril close at hand`  perform the `periodic boost`
+感到危机在旁    做周期性助推
+
+`Persona non grata` in his country    `picturesque village`
+他是最不受欢迎的国人    风景如画的村子
+
+They described how Mr. Trump `piggybacked off` his father’s banking connections to `gain a foothold` in Manhattan real estate. 
+他们描述了特朗普如何利用他父亲的银行关系，在曼哈顿的房地产市场站稳了脚跟
+
+`placate trade hawks `
+安抚贸易强硬派
