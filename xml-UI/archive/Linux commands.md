@@ -1054,9 +1054,17 @@ curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
             -H "Content-Type: application/json" 
 
 # 如果url中存在&字符 bash会当成linux后台运行命令解释，因此需要处理一下
-# 比如 api/v1/jobs/instances?jobId={}&page={}执行会失败 可以用curl参数
+# 比如 api/v1/jobs/instances?jobId={}&page={}执行会失败 可以用curl参数 -G
 # -G, --get  Put the post data in the URL(将-d指定参数放到url中)
 curl -k -H "Accept: application/json" -G http://127.0.0.1:8080/api/v1/jobs/instances -d jobId=827 -d page=1
+# 或者用双引号把URL包含
+curl -k -H "Accept: application/json" "http://127.0.0.1:8080/api/v1/jobs/instances?jobId=827&page=1"
+# 如果希望参数做URL encode，可以使用--data-urlencode  %20为空格的encode结果
+curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
+> GET /data?msg=hello%20world&msg2=hello%20world2 HTTP/1.1
+> User-Agent: curl/7.19.7 (x86_64-redhat-linux-gnu)
+> Host: localhost
+> Accept: */*
 
 # -s, --silent        Silent mode (don't output anything)
 # -S, --show-error    Show error
