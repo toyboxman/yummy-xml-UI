@@ -124,5 +124,78 @@ Despite its `Marxist trappings and solidarity with` the Soviet Union, the Italia
 They `could govern by promising good salaries`, a pension system and health care. When there was `an expansive economy`, the left was strong, because the left offers you jobs
 他们可以通过承诺高薪、养老金制度和医保来治理。当经济增长时，左派力量强大，因为左派提供了就业
 
+Critics say the council, which `is stacked with conservative figures` and unable to `summon witnesses, is toothless`
+批评人士说，主要由保守派人士组成的监警会无法传唤证人，没有实权
 
+The whole incident has become `an international laughingstock`, seeking foreign expertise could `rationalize their irrational state of affairs`, but now the `opposite has happened`.
+整件事成为一个国际笑话, 把外国专家找来可以使没有道理的情况合理化，但现在发生了相反的事情
+
+TikTok has become `a hotbed of talent`, and there’s `so much discoverability` on the platform that it can be used as this mechanism to discover new voices
+TikTok已经成为人才的温床，在这个平台上有很多可发现的东西，可以用来作为发现新声音的机制
+
+You don’t need a single follower on the app to `have a video blow up`. You just need to `tap into the right trend`, or do the right dance at the right time
+不需要有任何关注者，你的视频也能火爆。你只需要跟上正确的潮流，或者在适当的时候跳个适当的舞
+
+Anyone can `have a viral moment`. Often we see creators take a topic and `put their own spin on it` and it really does have this `viral effect`. Because TikTok tends to `lower the barrier of entry`, creation is really being `democratized`
+任何人都能有一个走红时刻。我们常常看到创作者选择一个主题，对其加上他们自己的解释，其结果真的有这种走红效应。因为TikTok往往会降低进入的门槛，所以创造真正地民主化了
+
+For me, `what’s been interesting` is that now anyone can become a creator. People are owning their own voice, not having to `express a polished version` of themselves. When you look at other platforms there’s different versions of yourself you’re `putting out there`, TikTok is about being yourself, `warts and all`, and this new generation of creators is really embracing that
+对我来说有趣的是，现在任何人都可以成为创造者。人们为自己发声，不需要去表达一个包装过的自己。在其他平台上，你会放上不同版本的自己，而TikTok就是要让你做自己，毫无遮掩，而新一代的创作者真的很喜欢这一点
+
+I think as `a platform of scale` you can’t not think about these things today and there’s `a level of responsibility` we have to take on
+我认为作为一个如此规模的平台，如今你没法不去思考这些事，我们要承担起一定的责任
+
+We want to make sure we’re `safeguarding` our users from things like misinformation. We have a number of things we’re `beefing up`: our policies, ensuring we have `expert moderators` who know how to define that type of content, what is misinformation, and ensuring we have the technology `in place` to scan for things like coordinated abuse. We’re `looking across` the industry and looking at what we can learn from
+我们想要确保，我们可以保护用户不受虚假信息等问题的伤害。我们有很多方面正在加强：我们的政策，确保我们有专业的懂得辨别这类内容的版主，什么是虚假信息，并确保我们拥有技术来审查诸如协作虐待之类的行为。我们观察整个行业并寻找可以学到的东西
+
+This is something that I want to `wholeheartedly stress`: We do not censor any content based on political sensitivities
+这是我要真心诚意强调的：我们不会基于政治敏感性审查任何内容
+
+Our president `holds the ultimate public trust`, When he `betrays that trust and puts himself before country`, he endangers the Constitution, he endangers our democracy, and he endangers our national security.
+我们的总统拥有最大的公众信任，当他背叛这种信任、把自己置于国家之上时，他就危及了宪法，危及了我们的民主，危及了我们的国家安全
+
+The Trump administration is `sending mixed signals` on delaying them as the United States and China `keep haggling over a trade deal`
+在中美继续就贸易协议的达成讨价还价之际，特朗普政府发出了推迟征税的含糊信号
+
+We’re still `in a high-stakes poker game`, Having another round of tariffs would be `a poison pill in the context of` the current U.S.-China negotiations, and in the context of the global economy
+我们仍在玩一场下重注的扑克, 在当前的美中谈判以及全球经济背景下，再来一轮关税无异于下毒
+
+a Hudson Institute scholar who advises Mr. Trump, `drafted a memo that has been circulated to` the White House `outlining possible actions`
+哈德逊研究所学者起草了一份备忘录，概述了有可能采取的行动，并已提交给白宫
+
+The two sides were `in constant contact` and that an agreement should not be `sidetracked by an “arbitrary” deadline`
+双方一致保持着紧密联系，并且贸易协议不能被一个“随意”的期限喧宾夺主
+
+Negotiations have `centered on` whether the United States would lift the tariffs it has imposed since September, or whether it might `slash the overall rate` for all or some of the tariffs in effect — for example reducing the existing tax on China `by half`
+谈判的焦点是美国是否将取消自9月以来征收的关税，或者是否可能将现行的所有或部分关税的整体税率下调——例如将现有的对华税收减半
+
+Any tariff cuts were `left for later phases`, an arrangement that `was assailed` in China as `too favorable` to the United States
+任何降低关税的措施都留在了以后阶段，中方抨击这种处理太偏向美国一方
+
+But China has `been wary of offering` further concessions to `offset a tariff rollback`. That has `stymied negotiators at least temporarily`
+但中国不太愿意通过进一步的妥协来补偿关税回滚。这至少短期内束缚了谈判人员的手脚
+
+`A rolling rumbling mass of ash tumbled over the cliff face`, in all directions, and it completely `engulfed the island`, It `cut out the sun`, it went dark. You couldn’t see that there was an island there. It was completely covered in ash
+一团团火山灰轰鸣着从悬崖跌落，向各个方向翻滚，淹没了整个岛，它遮住了阳光，天暗下来。你都看不出那里有过小岛。它完全被火山灰覆盖了
+
+There has to be more respect for nature. We `can’t assume` we can access anything we want, This is something policymakers and the public need to consider. Even though this is such a great place, should we be allowing people to go `in such large numbers?`
+必须给大自然更多尊重。我们不能以为我们可以去任何想要去的地方, 这是政策制定者和公众需要考虑的事情。即使这个地方很棒，我们是否应该允许人们大量涌入
+
+Already, locals `are concerned about` the effect the eruption will have on the community as questions of disclosure and `negligence swirl`
+由于信息公开和玩忽职守问题的浮现，当地人已经开始担心火山喷发对社区的影响
+
+Around 70 percent of the volcano `sits under` the water, and tourists walk into its crater and `up to the lip` of its crater lake, `peering into` its cavity to see its `endlessly boiling core`
+约70%的火山位于水下，游客走进火山口一直到火山湖口的边缘，凝视火山内部不断沸腾的核心
+
+You’re walking into `this enclosed amphitheater`, onto the floor of a very active volcano where there are `steaming gas vents`, where there are crater lakes filled with hot water close to `boiling temperatures`
+进入这个封闭的圆形剧场，走在非常活跃的火山表面，那里有蒸腾的气口，因为那里的火山湖充满了接近沸腾的热水
+
+`That tells you` there’s a source of heat under the volcano that is constantly supplying hot gasses and heating up fluids under the molten rock or magma, Basically you have `this hot cooker system` at constant high temperature and high pressure that could explode at any time
+这意味着在火山下有一个持续提供热气的热源，它在加热熔融岩石或岩浆下的流体，基本上来说，这就像一个持续高温高压的锅炉系统，随时可能爆炸
+
+`Gas masks` help you get near `roaring steam vents`, `bubbling pits of mud`, hot volcanic streams and the amazing lake of `steaming acid`. And `the vivid hues` of yellow and orange `resulting from all sulfur on` the island make for remarkable photos, so have your camera ready
+防毒面具可以帮你到达咆哮的蒸汽喷口、冒泡的泥坑、炙热的岩浆，和惊艳的酸性火山湖。岛上大量的硫磺所产生的鲜艳的黄色和橙色构成绝佳的影像，准备好你的相机
+
+I was going to buy one of those tours for `my in-laws` for Christmas
+我本来打算出钱让公公婆婆圣诞节到这里来旅行
 

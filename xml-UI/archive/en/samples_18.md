@@ -782,5 +782,21 @@ feel `peril close at hand`  perform the `periodic boost`
 They described how Mr. Trump `piggybacked off` his father’s banking connections to `gain a foothold` in Manhattan real estate. 
 他们描述了特朗普如何利用他父亲的银行关系，在曼哈顿的房地产市场站稳了脚跟
 
-`placate trade hawks `
-安抚贸易强硬派
+`placate trade hawks`    `create a plethora` of leadership groups
+安抚贸易强硬派     造成领导机构过剩
+
+it's well `within the bounds of possibility`，even `plausibility`
+这事完全在可能范围内，甚至在合理范围内
+
+The government has `pledged to inject` nearly $150 million into the company. 
+政府承诺向该公司注入近1.5亿美元的资金
+
+the advocates of `political pluralism`    `political stand`
+倡导政治多元化     政治立场
+
+They `poked holes` in his `go-to talking point` about the $1 million loan 
+他们戳穿了他对那项100万美元贷款的常用说法
+
+news media `portrayed the meeting`  `crude meddling` in China’s `internal affairs`
+新闻媒体呈现会晤    对中国内政的粗暴干涉
+
