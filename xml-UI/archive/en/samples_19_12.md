@@ -199,3 +199,35 @@ You’re walking into `this enclosed amphitheater`, onto the floor of a very acti
 I was going to buy one of those tours for `my in-laws` for Christmas
 我本来打算出钱让公公婆婆圣诞节到这里来旅行
 
+`The ideological confrontation` between the United States and China `has sharpened` 
+美国与中国的意识形态冲突已经加剧
+
+`“Hide our capacities and bide our time,”` advised Deng Xiaoping
+邓小平曾提出要“韬光养晦”
+
+Institutions `upholding the law` fought back in 2019 against leaders who believed that they `were above it`. 
+维护法律的机构在2019年对那些认为自己凌驾于法律之上的领导人进行了反击
+
+President Trump is facing impeachment in the House of Representatives on charges of `abuse of power and obstruction of Congress`. He has responded to the whole process `with cries of “lynching”` and called the Democrats “crazy.” Israeli Prime Minister Benjamin Netanyahu `was indicted on` corruption charges. He dismissed the accusations as `a “coup.”`
+特朗普正面临众议院的弹劾，罪名是滥用权力和妨碍国会调查。他对整个程序的回应是大喊自己受了“私刑”，称民主党人“疯了”。以色列总理本雅明·内塔尼亚胡被控腐败，受到起诉。他将这些指控斥为“政变”
+
+His foreign policy is `laughably erratic`
+他的外交政策反复无常到可笑的程度
+
+President Trump will `almost certainly escape conviction` in the Senate and remain in office to fight in the November 2020 election. Mr. Netanyahu may yet `wriggle out of his legal corner`. For both men, `clinging to power` has become `something more than` a political struggle. It is `a desperate attempt` to stay out of jail.
+几乎可以肯定，特朗普会逃脱被参议院判定有罪，从而继续留任，参加2020年11月的总统竞选。内塔尼亚胡也许还未摆脱他的法律困境。对这两人来说，抓住权力不放已不仅仅是一场政治斗争，而是一种要逃脱牢狱之灾的不顾一切的努力
+
+To be evil you have to be `focused and purposeful`. Much of Mr. Trump’s behavior is `inconsistent and inconsequential`. Still, it is damaging
+够得上邪恶的人必须专注且有目的。特朗普的很多行为不一致且微不足道。尽管如此，他的行为仍具有破坏性
+
+Mr. Trump `is a symptom, not a cause`. A decade ago, the world `was mired in` the global financial crisis. Those responsible walked away. `Insurrection` today is `the child of impunity and inequity`
+特朗普只是一种症状，不是病因. 10年前，世界陷入了全球金融危机的泥潭。那些对此负有责任的人逃之夭夭。今天的造反是有罪不罚和不公平的产物
+
+Behind Mr. Imamoglu’s desk `hung a portrait of` Mustafa Kemal Ataturk, the founder of modern Turkey’s `secular republic.` 
+伊马姆奥卢的办公桌后面挂着穆斯塔法·凯末尔·阿塔图尔克的画像，他是现代土耳其世俗共和国的创始人。
+
+It had just been `rehung`. Followers of Mr. Erdogan, `an anti-secular leader with dreams of` a restored Ottoman Empire, had earlier removed it. 
+画像刚被重新挂上。埃尔多安的追随者以前把画像摘了下来。埃尔多安是一名反世俗的领导人，梦想着重建奥斯曼帝国
+
+The portrait’s `back-and-forth struck me as an image of` a world `hovering between autocracy and resistance`
+这幅画像的摘与挂让我猛然想到，这是一个徘徊在专制和反抗之间的世界的象征
