@@ -7,8 +7,8 @@ We `make no promise to renounce` the use of force and `reserve the option` of ta
 But the deterioration of Russian-American `relations pales in comparison to` the rise in Sino-American `antagonism that has unfolded` over the past couple of years
 但是，与过去几年来不断升级的中美对抗相比，俄美关系的恶化相形见绌
 
-Older readers will probably regard another Cold War as a bad idea. Their memories of the original might include `near-Armageddon experiences`, such the 1962 Cuban missile crisis, and multiple conventional wars fought in countries from Vietnam to El Salvador. But there is no obvious reason Cold War II should `feature nuclear brinkmanship or proxy wars`
-年纪大点的读者可能会认为，再打一场冷战是个坏主意。他们对冷战的记忆可能包括接近世界末日的体验，比如1962年的古巴导弹危机，以及在好几个国家的常规战争，从越南到萨尔瓦多。但没有明显的理由表明，第二次冷战应该以核边缘政策或代理人战争为特征
+Their memories of the original might include `near-Armageddon experiences`, such the 1962 Cuban missile crisis, and multiple conventional wars fought in countries from Vietnam to El Salvador. But there is no obvious reason Cold War II should `feature nuclear brinkmanship or proxy wars`
+他们对冷战的记忆可能包括接近世界末日的体验，比如1962年的古巴导弹危机，以及在好几个国家的常规战争，从越南到萨尔瓦多。但没有明显的理由表明，第二次冷战应该以核边缘政策或代理人战争为特征
 
 Back then, there was also `a political benefit`. Once `the spasm of McCarthyism had passed`, as Americans `came to a consensus` that they all `faced a common foe, domestic divisions decreased notably`
 那时还有一个政治上的好处。麦卡锡主义的发作过去之后，随着美国人对他们面临一个共同敌人达成共识，国内的分歧明显减少
