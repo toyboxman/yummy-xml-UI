@@ -231,3 +231,33 @@ It had just been `rehung`. Followers of Mr. Erdogan, `an anti-secular leader wit
 
 The portrait’s `back-and-forth struck me as an image of` a world `hovering between autocracy and resistance`
 这幅画像的摘与挂让我猛然想到，这是一个徘徊在专制和反抗之间的世界的象征
+
+China’s companies `racked up some towering bills` as they expanded, and the world’s investors and lenders `rushed to offer` them even more money
+中国企业在扩张中积攒了如山的债务，而全世界的投资和借贷者也争相给它们送去更多的资金
+
+Now the bills are `coming due`, and a growing number of Chinese companies can’t `pay up`, `in a sign that` the world’s No. 2 economy is `feeling the stress` from its worst slowdown in nearly three decades
+如今，账单即将到期，越来越多的中国企业无法偿还贷款，显示全球第二大经济体正感受到30年来最严重经济放缓的压力
+
+Chinese corporate borrowers have `defaulted` on nearly $20 billion in loans this year
+中国企业借方今年已经出现近200亿美元的债务违约
+
+The amount is small compared with China’s overall economy, but `the toll is rising`
+与中国整体经济相比，这个数字很小，但是造成的损害正在上升
+
+But Beijing has `shown a greater willingness to` let companies `go insolvent` to teach them a lesson about borrowing too much, and many local governments now `lack the funds to help their hometown champions`
+但中国政府已表现出更多让企业破产的意愿，以此教训它们不要过度借贷，而许多地方政府现在缺乏资金来帮助本地的龙头企业
+
+It’s quite `a hairy situation`, Many investors expected Tewoo would `at least pay off its offshore debt`
+情况相当棘手,许多投资者原本预计天津物产集团至少会偿还其海外债务
+
+Two years ago, officials began to `tackle the mess`. They `clamped down on an unruly shadow banking sector`, where `murky platforms` linked borrowers with lenders willing to hand over money in exchange for `big returns`
+两年前，官员们开始着手解决这个问题。他们取缔了不守规则的影子银行产业，在这样的银行中，不透明的平台将借款人与愿意用金钱换取巨额回报的贷款人联系在一起
+
+They allowed more bankruptcies, hoping to send a message that companies that `spend recklessly` will be allowed to fail
+还允许更多的公司破产，希望传递出这样一个信息：肆意挥霍的公司是可以垮掉的
+
+But regulators are `walking a tightrope`. Slowing lending has `contributed to faltering economic growth`. Beijing continues to look for ways to `pour fresh money into the financial system` even as it tries to `clean up the mess` left behind by some of its biggest borrowers
+但监管机构此举无异于走钢丝。贷款放缓导致经济增长乏力。北京仍在寻找向金融体系注入新资金的途径，同时也在努力清理一些最大的借贷者留下的烂摊子
+
+Previously you could `roll over the bond repayment`,but when `uncertainty is heightened`, then people are `less willing to give you leeway`
+以前你可以将债券展期，但当不确定性上升时，人们就不太愿意给你回旋的余地
