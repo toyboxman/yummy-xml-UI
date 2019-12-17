@@ -261,3 +261,24 @@ But regulators are `walking a tightrope`. Slowing lending has `contributed to fa
 
 Previously you could `roll over the bond repayment`,but when `uncertainty is heightened`, then people are `less willing to give you leeway`
 以前你可以将债券展期，但当不确定性上升时，人们就不太愿意给你回旋的余地
+
+Macmillan Press published a book by `a relatively obscure British Treasury official` who had resigned from the government `in protest over the Versailles treaty` that brought `the epochal trauma` of the First World War to its conclusion
+麦克米伦出版社出版了一本书，作者是一位相对无名的英国财政部官员，为抗议结束了第一次世界大战划时代创伤的《凡尔赛和约》，他辞去了政府职务
+
+The book, “The Economic Consequences of the Peace,” `turned out to be a phenomenon`. It `swiftly went through six printings`
+结果，《〈凡尔赛和约〉的经济后果》获得了巨大成功。很快就印刷了六次
+
+His `incisive, candid portrayals` of the peacemakers reflected the `no-holds-barred influence` of Lytton Strachey’s recently celebrated “Eminent Victorians.”
+他对和平缔造者入木三分的、坦率的刻画，反映了Lytton Strachey不久前广受关注的《维多利亚时代四名人传》一书不加约束写法的影响
+
+Keynes’s book is `essentially correct` with regard to its most `important arguments`
+凯恩斯的书在其最重要的论点上，基本上是正确的
+
+Keynes `was sounding an alarm` about `the fragility` of the European order
+凯恩斯是在对欧洲秩序的脆弱性发出警告
+
+Keynes argued that while many Europeans were celebrating a new era in the continent’s economy, `too much of what emerged` from the war `rested on longstanding, underappreciated and elaborately enmeshed networks and foundations`
+凯恩斯认为，尽管许多欧洲人都在庆祝欧洲大陆经济的新纪元，但战后出现的东西中有太多是建立在存在已久、未得到充分认识、精心编织的网络和基础之上的
+
+`Reconstituting` the general economic order, not `exacting shortsighted retribution`, was `the imperative` of the day
+重建广义的经济秩序，而不是短视地施加报复，才是当时的当务之急

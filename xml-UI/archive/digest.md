@@ -469,3 +469,6 @@ Get schema information:
 
 yarn resource manager HA to ZK https://www.ibm.com/support/knowledgecenter/en/SSGSMK_7.1.0/management_sym/configuring_yarn_rm_ha_zookeeper.html
 Modify the YARN configuration file ($HADOOP_CONF_DIR/yarn-site.xml) on all resource manager hosts and the node manager hosts. Do this by adding Apache ZooKeeper HA properties to the file. For example, the following is based on open-source YARN configuration:
+
+#### Contract
++ [劳动合同到期续签](https://mp.weixin.qq.com/s?__biz=MjM5NDAwMjg1NA==&mid=2649702542&idx=1&sn=21e77702421799d8e6a36675ead8d162)
