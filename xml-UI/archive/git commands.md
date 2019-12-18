@@ -454,6 +454,15 @@ git shortlog --author <name>
 git shortlog -s | grep <name>
 git log --author <name> | grep <name> | wc -l 
 
+# 查看时间段(2018全年)所有提交的概要
+git shortlog --since=2018 --before=2019
+# 查看时间段内当前branch所有提交的数量汇总
+git rev-list --count @ --since="Dec 3 2015"  --before="Jan 3 2016"
+# 查看时间段内全部branch所有提交的数量汇总
+git rev-list --count --since="Dec 3 2015"  --before="Jan 3 2016" --all
+# 查看时间段内全部branch所有提交的数量汇总,忽略merge-commits
+git rev-list --count --since="Dec 3 2015"  --before="Jan 3 2016" --all --no-merges
+
 # 查看匹配作者的全部增删代码行统计
 git log --author=<name> --pretty=tformat: --numstat | awk \
 '{ add += $1; subs += $2; loc += $1 - $2 } END \
