@@ -13,7 +13,7 @@
 ---
 - [Monitor System Information](#monitor-system-information)
     - [Troubleshooting](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=1&sn=0eeadb81e3e6b48c56af99da900895cf)
-        - [strace追踪系统调用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=1&sn=ed92854608e76b1c37f46e58ebbc1912)
+        - strace追踪系统调用[[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=1&sn=ed92854608e76b1c37f46e58ebbc1912), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615818&idx=1&sn=4f470a37afb205ce52836e67941697c3)]
         - [Crash+/dev/mem调试内存 ](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446208&idx=2&sn=a598e1bcebedae58049f30bf46259aa8)
         - [配置Rsyslog服务器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615466&idx=3&sn=8a8e44e1e7cae494e4c9a4bc730e1e2b)
         - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
@@ -38,8 +38,6 @@
             - [Update kernel](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615302&idx=1&sn=3cfea2d97a4155e3b82511ea73b589c5)
         - [List Services Port](#list-services-port)
         - [Top](#top)
-            - [w/uptime/cal]()
-            - [uptime运行时间报告](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=3&sn=bf95c6eb5ebc1b95bbc8d86b94410414)
         - [date](#date)
         - [journalctl](#journalctl)
         - [Show Linux Version](#show-linux-version)
@@ -348,6 +346,8 @@ mask::rwother::r--
 
 #### top
 + [批处理模式下运行top](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615438&idx=3&sn=db97844f1644ddbdce0b00739f58d1d4)
++ [uptime运行时间报告](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=3&sn=bf95c6eb5ebc1b95bbc8d86b94410414)
++ [top找出 CPU占用高的进程](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615839&idx=2&sn=e8edd7e252ce39ef7026e6e9a5795a36)
 ```console
 # list processes/memory etc.
 # 'h' for help content
@@ -1604,6 +1604,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 + awk入门[[1](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=2&sn=3a0b56b403f4dcf7c204bdb67161f7fe), [2](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615790&idx=1&sn=8d11c37e041ca676f3ca9f2b40e64cab)]
 + awk-LOOP[[1](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615749&idx=2&sn=6205977bb0f0943b1e3df2728d70aa06), [2](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)]
 + [awk-NR/NF变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615695&idx=2&sn=a8058e8ad8203e94c20b26eea4b82849)
++ [awk删掉重复行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615818&idx=2&sn=7d426b4a3b1170fcf11bd8443a07f759)
 ```console
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt

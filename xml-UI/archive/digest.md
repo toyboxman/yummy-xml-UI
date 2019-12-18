@@ -27,6 +27,7 @@
     - [go/java/python效率测试](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022843&idx=5&sn=17b863d27ee48634c7f22c6c2495978d)
 
 + ***microservice***
+    + 构建微服务架构([**1**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485798&idx=1&sn=c644bcbd49b873a5220a2d82bfcbf17a), [**2**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485806&idx=1&sn=0afb17f3ced0b8ba29d4c48fad22e1e7), [**3**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485813&idx=1&sn=c4d1916782a09523ce77617c4959449a))
     - [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
     - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)   
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
@@ -42,22 +43,27 @@
 + [commands](Linux%20commands.md)
     - [Shell Programming](shell%20programming.md)
     - [Linux 100问](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446171&idx=2&sn=3e9cd077ef4b256ac7a9a0ddf42f117a)
+    - [系统管理员24问](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615832&idx=1&sn=b2dfeedd2f11bfcb9a502fff68bdb887)
 + [git](git%20commands.md)
     - [Git 建立和托管网站](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=1&sn=e903d8860640c61baf94d4547609ee06)
-+ [开源工具构建 DevOps](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615071&idx=1&sn=076ede5dea71d33fa6064c070dfcd633)    
++ 性能分析
+    - [Linux性能分析工具合集](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446320&idx=1&sn=a153a3b893b0e6f418c1c47ff7dc246e)
+    - [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
+    - [发现截断的数据项](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=3&sn=6f51206fd04451ad879fd44d7bb3d9d3)
++ 开源工具
+    - [开源工具构建 DevOps](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615071&idx=1&sn=076ede5dea71d33fa6064c070dfcd633)    
     - [Jenkins构建CI/CD](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615559&idx=2&sn=4a035d79fcfb1ae5a0ba40aeaddf900e)
-+ [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
-    + [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
-+ [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
-+ [发现截断的数据项](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=3&sn=6f51206fd04451ad879fd44d7bb3d9d3)
-+ [Linux 内核的五大创新](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=1&sn=93ea4bc3d9506f445b736bb12a5adecd)
-+ [Linux阅码场](https://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652666358&idx=1&sn=543f316af4d7e0e3b90c823632213180)
-+ [pdftk操作 PDF](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=4&sn=30aa0df34d11b8e3a246e5dae1aa5a2f)
-+ [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
-+ [LiVES 视频编辑器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614985&idx=2&sn=a89937b425799b1d3fc24f30fda0c82c)
-+ [Photoshop开源替代品](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615399&idx=3&sn=6c76f99079a1a2455a477fd40ce9ade4)
-+ 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
-+ Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
+    - [pdftk操作 PDF](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=4&sn=30aa0df34d11b8e3a246e5dae1aa5a2f)
+    - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
+    - [LiVES 视频编辑器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614985&idx=2&sn=a89937b425799b1d3fc24f30fda0c82c)
+    - [Photoshop开源替代品](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615399&idx=3&sn=6c76f99079a1a2455a477fd40ce9ade4)
+    - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
++ 设计分析
+    - [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
+    - [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
+    - [Linux 内核的五大创新](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=1&sn=93ea4bc3d9506f445b736bb12a5adecd)
+    - [Linux阅码场](https://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652666358&idx=1&sn=543f316af4d7e0e3b90c823632213180)
+    - 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
 
 #### Programming
 + [***Github***](#github)
@@ -69,6 +75,7 @@
 + ***Python***
     - [basic](python/python-basic.md)
     - [kite-编写python代码的AI](https://mp.weixin.qq.com/s?__biz=MzIxNjM4NDE2MA==&mid=2247492104&idx=2&sn=95d59b96659d8ed74ac1f79bb6225486)
+    - [Heartrate执行可视化](https://mp.weixin.qq.com/s?__biz=MjM5MzI5MTQ1Mg==&mid=2247486807&idx=2&sn=2312d5553b0e6351662483bceec13a06)
     - [Pandas并行处理](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022607&idx=5&sn=83e8b21e89b123461377a8c6283a6502)
 + ***Go***    
     - [basic](go/go-basic.md)
@@ -87,6 +94,7 @@
     - [获取网络日志发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
     - [内存与数据结构 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217699&idx=3&sn=f30c0be3d15e1d2d2327ce2cb8608023)
      - [进程与线程图解 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217929&idx=2&sn=c582a01762f593b170a1b4390c235c42)
+     - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218296&idx=2&sn=997afa84580ce56cd95a5f60e6218b47)
 
 #### Web
 + [Nginx反向代理](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217914&idx=2&sn=45f244835cf5f81d5fce175c8fc1abdb)
@@ -107,6 +115,7 @@
         ```
         令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
         与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
++ [REST API面临的安全威胁](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022949&idx=5&sn=9bbd2e8d298788c86d88a40b074d5147)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)        
 + [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
 + [login验证码](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217022&idx=2&sn=734636f29230bae68f77fc963fcdcdb9)
@@ -120,6 +129,7 @@
     - [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
     - [CSS第四级选择器](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485929&idx=1&sn=1e7c6bfb43b5a209a038fc1904e6fec9)
     - [CSS Grid](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485954&idx=1&sn=fe1687b658d8a0bd24cf8b3997b8f110)
+    - [CSS 样式的解析过程](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247486085&idx=1&sn=f37259ff79b678c8107667704972f65e)
 + JavaScript
     - [JS中context和stack](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218210&idx=3&sn=b82c5b1d1b750accd7e72421b07f8519)
     - [JS中重要api实现](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485500&idx=1&sn=45b0e7a9025ee98c8355d5f2035d4cd2)
@@ -144,16 +154,17 @@
 + [二进制世界](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217312&idx=2&sn=f50f973c3530af9c24cd6e46701481a3)
 + [漫画中台](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217263&idx=2&sn=538709da2248a8c82a6d18dceab0d920)
 + [开源的7大理念](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282238&idx=2&sn=ed204263aaab673d1537c61c1f209ec1)
-+ [农行分布式架构](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282254&idx=2&sn=ddea3e87a3476aef1b8647b02c6256ef)
-+ 构建微服务架构([**1**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485798&idx=1&sn=c644bcbd49b873a5220a2d82bfcbf17a), [**2**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485806&idx=1&sn=0afb17f3ced0b8ba29d4c48fad22e1e7), [**3**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485813&idx=1&sn=c4d1916782a09523ce77617c4959449a))
++ 分布式架构
+    - [农行分布式架构](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282254&idx=2&sn=ddea3e87a3476aef1b8647b02c6256ef)
+    - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
+    - [分布式系统原理](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650283531&idx=1&sn=fe48b43f5b2711fed8c0926f91bb0062)
+    - [分布式架构的前世今生](https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247487804&idx=2&sn=35f9b770f26f71b66e9df1f70e55dcf7)
+    - [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)
+    - [分布式锁解读](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282212&idx=2&sn=71659867ed0415421219f8cbd581d0ec)
+    - [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
 + [技术选型](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017963&idx=1&sn=2f4da571976237ef4276f7afaced3c48)
 + [高并发系统的设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485740&idx=1&sn=df7b6f26efae178765841ae615b9b32d)
 + [数据迁移](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282269&idx=1&sn=05e22eff6aa577bab2c61fcd41c76991)
-+ [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
-+ [分布式架构的前世今生](https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247487804&idx=2&sn=35f9b770f26f71b66e9df1f70e55dcf7)
-+ [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)
-+ [分布式锁解读](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282212&idx=2&sn=71659867ed0415421219f8cbd581d0ec)
-+ [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
 + [分页查询](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282168&idx=2&sn=0c3a2696ffbce577d91e9c523c697176)
 + [缓存三大问题及解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=2&sn=481704a1ce0e205aaf0ec67b668f5bfd)
 + [Dubbo架构](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217330&idx=2&sn=f131d1dcdbc24838dc62c973081f74c6)
@@ -175,6 +186,7 @@
     - [MySQL Router高可用](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490615&idx=1&sn=54faa8277b7bb5e2a66debc1bd49305a)
 + [Postgre](db/PostgreSQL.md)
     - [PostgreSQL入门](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615663&idx=3&sn=a09a9a54b68383d8a5621faf73809171)
+    - [PostgreSQL DBA常用SQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650283567&idx=1&sn=6c6bbaafbbb680915c9a71b636db88fb)
 + [oracle](db/oracle.md)
     - [Persistent Memory Store](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=2&sn=c2a3ea86e98a0d79c786cd9962b3f87e)
     - [数据迁移工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282864&idx=1&sn=0bb4795f0794808b04eb5f3001fdd1ad)
@@ -196,6 +208,7 @@
 #### bigdata
 + [spark](big-data/spark.md)
     - [图计算框架Plato](https://mp.weixin.qq.com/s?__biz=MzI4NDMyNTU2Mw==&mid=2247484188&idx=1&sn=f43c3e9fc2c1a53aa5ba00d4a64eac9f)
+    - [编写可伸缩代码](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218390&idx=2&sn=519675a307f9138bc16f5c6469504cc3)
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
 
@@ -205,7 +218,8 @@
     - [d2l-zh](https://github.com/d2l-ai/d2l-zh)
     - [笔记](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
     - [笔记介绍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770249&idx=2&sn=f7042c0c07074046e1ec3436c2bba0c0)
-    - [叶斯定理](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657465140&idx=4&sn=7162b8d3f465481b8856e989a8ca8f3e)
+    - [贝叶斯定理](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657465140&idx=4&sn=7162b8d3f465481b8856e989a8ca8f3e)
+    - [Metaflow](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218390&idx=1&sn=c72c7dac2e24388ddafcaba3400cd9da)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
@@ -215,6 +229,7 @@
     - [Docker架构原理、功能及使用](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282275&idx=2&sn=d0b5c3525fc756b101c2d32b04c7150d)
     - [Docker从入门到实践](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
     - [ansible-bender构建容器镜像](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615493&idx=2&sn=c44e68fd5eb6908460604369428051b2)
+    - [docker-slim等工具](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023037&idx=2&sn=ddbb8c2b882e0fe58c4bd2930b5ade65)
 
 #### github
 + [12306 抢票项目](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019389&idx=6&sn=cb48d93961b148521493d7c3ef34fb68)
@@ -274,10 +289,10 @@ process in:file language:java extension:java
     - [JVM面试问题](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218082&idx=3&sn=5f8aca3ae79d8924b0d451aabe0b8946)
 
 #### tools
-+ ***notepad++***
++ ***Notepad++***
     - replace    
     需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
-    ```
+    ```console
     curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
     {
         "name":"accuracy_measure",
@@ -289,7 +304,7 @@ process in:file language:java extension:java
     }
     ```
     设定搜索模式'Extended' 然后Replace All : '\r\n'  --> '  \\\r\n'
-    ```
+    ```console
     {  \
         "name":"accuracy_measure",  \
         "measure.type":"griffin",  \
@@ -308,6 +323,9 @@ process in:file language:java extension:java
     
 + ***Paw***    
     一站式 HTTP/REST 服务测试工具。Paw 具有功能齐全的可视化编辑器和 HTTP 工具集，可以让 Web 开发者模拟发送各种 HTTP 请求、测试和迭代自己的 API 或探索新的 API，测试响应数据。另外，Paw 能多人协作，同步 API 测试配置，进行无冲突的更改并获取实时更新
+
++ ***Arya***    
+    Arya 是一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析
     
 #### interview
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
@@ -472,3 +490,4 @@ Modify the YARN configuration file ($HADOOP_CONF_DIR/yarn-site.xml) on all resou
 
 #### Contract
 + [劳动合同到期续签](https://mp.weixin.qq.com/s?__biz=MjM5NDAwMjg1NA==&mid=2649702542&idx=1&sn=21e77702421799d8e6a36675ead8d162)
++ [王叔文权谋](https://mp.weixin.qq.com/s?__biz=MjM5MzQ5MTAzNw==&mid=2651221862&idx=1&sn=c59732fbb1a038c777f7ab1a457367cf)
