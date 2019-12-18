@@ -282,3 +282,7 @@ Keynes argued that while many Europeans were celebrating a new era in the contin
 
 `Reconstituting` the general economic order, not `exacting shortsighted retribution`, was `the imperative` of the day
 重建广义的经济秩序，而不是短视地施加报复，才是当时的当务之急
+
+And so when economists and historians, then and `ever since, zeroed in on questions` about, say, whether Keynes `underestimated Germany’s capacity` to pay its `war reparations` — they miss the larger point
+因此，当经济学家和历史学家们——那时的和那以后的——把注意力集中在诸如凯恩斯是否低估了德国支付战争赔款的能力等问题上时，他们忽略了更重要的问题
+
