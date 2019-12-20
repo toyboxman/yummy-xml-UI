@@ -46,7 +46,7 @@
         - [systemctl](#systemctl)
         - [chkconfig](#chkconfig)
         - [free](#free)
-        - [hwinfo](#hwinfo)
+        - [hwinfo/lshw](#hwinfo)
         - [Turn off Console Color](#turn-off-console-color)
         - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
             + [ntp sync check](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614368&idx=2&sn=39f7e4fc960d997380ee166b5bf21059)
@@ -614,7 +614,11 @@ ls --color=never
 # see netcard hardware information
 hwinfo --netcard
 ```
-还可以通过lshw(硬件列表)查看[硬件规格的详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=3&sn=69177e23e332ca7fe24e134babee8879)
+还可以通过***lshw***[查看硬件规格的详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=3&sn=69177e23e332ca7fe24e134babee8879)
+```console
+# 查看cpu硬件信息
+lshw | grep cpu
+```
 
 #### lsof
 ```console

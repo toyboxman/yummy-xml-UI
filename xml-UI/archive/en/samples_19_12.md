@@ -286,3 +286,91 @@ Keynes argued that while many Europeans were celebrating a new era in the contin
 And so when economists and historians, then and `ever since, zeroed in on questions` about, say, whether Keynes `underestimated Germany’s capacity` to pay its `war reparations` — they miss the larger point
 因此，当经济学家和历史学家们——那时的和那以后的——把注意力集中在诸如凯恩斯是否低估了德国支付战争赔款的能力等问题上时，他们忽略了更重要的问题
 
+Forcing Germany into, essentially, `servitude`, he argued, “will `sow the decay` of the whole of civilized life of Europe.”
+他认为，迫使德国陷入本质上的奴役状态，“将播下欧洲整个文明生活走向衰落的种子”
+
+Keynes `was well positioned to grasp` the severity of this `most perilous macroeconomic muddle`
+凯恩斯对把握住这场最危险的宏观经济乱局的严重性有充分的准备
+
+The young Treasury man `negotiated the terms` of an emergency shipment of food to Germany, then `on the brink of mass starvation`
+这位年轻的财政部官员谈妥了向德国紧急运送粮食的条款，当时德国已处于大规模饥荒的边缘
+
+The broader peace process, however, was `a catastrophe` — and Keynes `had a front-row seat`
+然而，更广泛的和平进程是一场灾难，凯恩斯从近距离目睹了这一切
+
+Germany, with no foreign troops `on its soil`, imagined it was `bargaining` for the loser’s share of a negotiated peace, not `submitting to what amounted to unconditional surrender`: colonies `stripped`, territory lost, navy `sunk`, army `disbanded`, reparations imposed
+并没有被外国军队占领的德国，本以为在达成的和约中争取到输家的份额，未曾料想接受的是相当于无条件投降的条件：殖民地被剥夺，领土丧失，海军沉没，军队解散，被强制缴纳赔款
+
+Keynes, as he would write in “Economic Consequences” and emphasize repeatedly `in the wake of` its publication, was concerned “not with the justice of the treaty,” but with its “wisdom and with its consequences.” `Behind the scenes`, he fought for a more `farsighted approach`
+正如凯恩斯在《经济后果》一书中所写，并在该书出版后多次强调的，他关心的“不是条约的公正性”，而是条约“是否明智及其后果”。他曾在暗地里为争取一个更有远见的方案而努力
+
+The Americans would not easily `part with their money`, nor the French `with their vengeance`
+美国人不会轻易放弃他们的钱，法国人也不会轻易放弃他们的复仇
+
+He sent `an anguished note` to his mother, telling her of his plans to resign, but `hung on, “so sick at what goes on`,” for three more weeks
+他给母亲写了一封痛苦不堪的信，把辞职的计划告诉了母亲，不过，尽管“对发生的事情感到非常厌倦”，他仍坚持了三周多
+
+Keynes `waged an intellectual campaign` alongside his book, which, `despite its runaway success`, `did little to influence` the foreign policies of the relevant powers
+凯恩斯在写书的同时发起了一场智识运动，尽管书取得了巨大成功，但对有关大国的外交政策影响甚微
+
+`Bloodshed, misery and fanaticism prevail` from the Rhine eastwards through two continents
+流血、痛苦和狂热却从莱茵河向东穿过两大洲普遍存在
+
+Few listened. The Americans’ brief `flirtation with Wilsonian internationalism` yielded to `a resurgence of nationalism and nativism. `
+没有几个人听到了这些话。美国人对威尔逊的国际主义的一时之兴，很快让位于民族主义和本土主义的复苏。
+
+Prioritizing domestic demands `over global concerns`, the United States `stubbornly and shortsightedly` added to Europe’s `economic woes` with `an unyielding stance` on the question of war debts
+美国将国内的要求置于全球忧虑之上，在战争债务问题上顽固而短视的强硬立场加剧了欧洲的经济困境
+
+The occupation, which `lasted two and a half years` and `was met with passive resistance and hyperinflation`, seemed to prove Keynes’s point
+持续了两年半的占领遭遇了消极抵抗和恶性通货胀涨，似乎证明了凯恩斯的观点
+
+Those politics meant that `the crisis was not contained`. It `spiraled out of control`, sending the world economy `tumbling into the depths of the Great Depression`, and `contributing directly to` the rise of fascism in Germany and Japan
+这些政治方面的问题意味着危机没有得到控制。危机失控，把世界经济送进了大萧条的深渊，并直接导致了法西斯主义在德国和日本的兴起
+
+“Men will not always `die quietly`,” Keynes warned in “The Economic Consequences of the Peace,” and “`in their distress` may `overturn the remnants` of organization, and `submerge civilization itself.”`
+凯恩斯在书中警告，“人们不总会毫不挣扎地死去”，而“他们在痛苦中可能颠覆机构的残余部分，并湮灭文明本身”
+
+Three years of costs were `all for nothing`
+过去三年白干了
+
+China has `long viewed food security as tantamount` to national security. It had become `essentially self-reliant` in pork as well as in rice and wheat `thanks to subsidies and aggressive farmland` management. 
+中国长期以来一直把粮食安全放在国家安全的高度。靠政府提供的补贴和农田的大力管理，中国在猪肉、大米和小麦等方面基本上已经实现了自给自足
+
+`The swine fever epidemic` will `test that commitment` to its increasingly affluent people, who more often expect meat at the dinner table
+这场猪瘟将考验政府对日益富裕起来的人民的这种承诺，他们希望更经常地在餐桌上看到肉
+
+Brazil is now `ramping up` beef and chicken production to `meet demand`, `partly by burning forests` in the Amazon to clear land for agriculture
+巴西现在正在增加牛肉和鸡肉的产量以满足需求，部分通过烧毁亚马孙的森林，为农业开垦用地
+
+The epidemic could have `broad and deep economic impacts` at the global level, We don’t think there’s enough pork in the world to `offset China’s shortfall`
+这场猪瘟可能会对全球经济有广泛而深远的影响, 我们认为，世界上没有足够的猪肉来弥补中国的短缺
+
+Guangxi Yangxiang, printed `red banners` to `recruit potential farmers` that read, “`Raise 10 sows` and drive a BMW next year.”
+广西扬翔股份有限公司为招募养殖户打出了红色横幅，上面写着:"养10头母猪，明年开宝马"
+
+To get that `partial reimbursement`, many farmers had to deal with `tightfisted local officials`
+为了获得部分赔偿，许多农民不得不与吝啬的地方官员打交道
+
+It is not clear where the rest of the country’s `vanished herds went`, but food experts say many were likely `butchered and turned into food`. That would worsen the spread, because the disease can `lurk in meat for months`
+虽然目前不清楚中国其他的消失了猪群去哪儿了，但食品专家说，其中许多可能在屠宰后变成了食物。这会加剧传播，因为这种疾病能在肉中潜伏长达几个月的时间
+
+For now, dying pigs and rising pork prices are `changing diets and cooking practices` across China
+目前，正在死掉的猪和猪肉价格的上涨已经在改变中国各地的饮食和烹饪习惯
+
+“I can `barely cover my costs`,” he said, `a large cleaver in his hand` as he stood behind a table with only a few `bloody slabs of pork`
+“我勉强能做，”他说，手里拿着一把砍肉刀，站在一张案台后面，上面只有几块带血的猪肉
+
+Su Dezhi, a pork butcher at `an open-air market` about 20 miles from Mr. Chen’s farm, The wholesale price per pound for him to buy pigs has `more than tripled.`
+苏德志是距离陈先生的农场约30公里远的一个露天市场的猪肉屠夫。现在进货的批发价每斤涨了两倍多
+
+Yet many in China `seem reluctant to` eat anything else
+然而，许多中国人似乎不愿吃其他的肉
+
+As a football club, Arsenal always `adheres to the principle` of keeping out of politics
+阿森纳作为一家足球俱乐部一贯坚持不涉及政治的原则
+
+There are only `a handful of countries capable of fielding` aircraft carriers, and China now has two, which puts it in `elite company`
+有能力部署航空母舰的国家屈指可数，而中国现在有两艘，这使其进入了精英团体
+
+
