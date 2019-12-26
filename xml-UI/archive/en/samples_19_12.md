@@ -559,3 +559,38 @@ I had always `sneered at the victims` for trusting strangers on the phone. Who c
 After they got Laolao’s attention, a handler `impersonated a government official` and `appealed to her` to cooperate with his team to clear her name
 在引起姥姥的注意后，一名操纵者冒充政府官员，请求她与自己的团队合作，为她洗脱罪名
 
+Under his `meticulous direction`, Laolao `purchased a burner phone` and communicated with him under the call sign “Eagle.” 
+在他的悉心指导下，姥姥买了部一次性手机，并以“雄鹰”为呼号与他进行沟通。
+
+After two weeks of `constant contact`, Laolao `was picked up and taken to` a remote hotel, where she `was instructed to turn over` her bank information so that the task force could use it to `trace the maneuvers of the criminals`. Laolao told me she `had some misgivings, but complied.`
+经过两周的不断接触，姥姥被带到一家偏远的酒店，在那里她被要求交出银行信息，以便特遣部队追踪罪犯的行动。姥姥告诉我她有些疑虑，但还是照办了
+
+I `briefly wondered if` this `lapse of judgment` was a sign that `her mind was going`
+我一度怀疑，这种判断失误是不是她脑子开始不正常的迹象
+
+He was quite `a high-caliber individual`. He was so `eloquent` and natural, and he `sounded so dedicated to` the welfare of our country, which is something I have `devoted my entire life to`
+他是个很能干的人。很会说话，很自然，听起来又是如此关心国家利益，而这是我一生都致力于的事业
+
+She was once a woman `in complete control`, and she had `given China a lifetime of service.`
+她曾经是一个掌控一切的女人，为中国奉献了一辈子 
+
+She survived `Land Reform, the Great Leap Forward, and the Cultural Revolution`. As a government official, she helped `shape national policy`
+她经历了土地改革、大跃进和文化大革命。作为政府官员，她帮助制定了国家政策
+
+Laolao `railed about` the old ways being `swept away`, and we, her family, `could do nothing but` help her pay bills on her phone
+姥姥抱怨旧的生活方式被一扫而空，而我们——她的家人，除了帮她支付手机账单，什么也做不了
+
+But she had `become stranded` in a country she `no longer recognized`. She complained about `the news vendors` who refused to accept cash, the taxis that ignored her
+但她身陷一个她不再认识的国度。她抱怨报摊不再收现金，出租车不理她
+
+Those charming scammers turned out to be the perfect antidote. They spun an irresistible fantasy of a high-stakes patriotic mission where her actions and commitment mattered, where a mysterious, well-spoken man made her feel relevant and in control. “If he ever gets caught I should like to speak to him again,” she told me. “He’s so talented that he could be rehabilitated to do some good.”
+而那些迷人的诈骗犯就成了最完美的解药。他们编织了一个难以抗拒的幻象：一桩重大的爱国使命，她的行动和承诺很重要，一个神秘的、谈吐得体的男人让她觉得自己是有用的、有控制权的。“如果他被抓住，我想再和他谈谈，”她告诉我。“他那么有才，可以改过自新做些好事。”
+
+It’s been months since Laolao’s misadventure, and she has returned to work and her orderly, frugal life. But every now and then, when she starts complaining about all the ways young people disappoint her, she reminisces about her former handler, how naturally their conversation flowed, how attentively he listened. “I know he was just winning my trust to get my money, but if he didn’t choose this life he could be doing great things for our country.” Laolao told me, “If they ever caught him I should like to make friends with him.”
+姥姥的不幸遭遇已经过去了几个月，她回到了工作岗位，恢复了有秩序的、节俭的生活。但时不时地，当她抱怨年轻人如何让她失望时，她仍会想起以前那位上线，他们的谈话是多么自然流畅，他又是多么专心地倾听。“我知道他只是想赢得我的信任骗我的钱，但如果他不选择这种生活，他可以为我们国家做很多好事。”姥姥告诉我，“如果他们抓到他，我愿意和他交朋友。”
+
+In a twisted way, she misses him. It’s a sharp reminder for me of how we have all failed, as a family and as a society, to help her feel less alone. In China, we like to believe we honor the elderly. We pamper them with gifts of fancy fruit baskets, imported foods and other indulgences.
+她以一种扭曲的方式思念着他。对我来说，这让我们清醒地意识到，作为家庭和社会，没能帮她化解孤独。在中国，我们乐于相信自己敬老。我们用高档果篮、进口食品和其他宽纵作为礼物宠着他们。
+
+But this shallow perspective on aging infantilizes the elderly and neglects to preserve their dignity. They are people who have “consumed more salt than we have of rice,” as the saying goes. They deserve better.
+但这种关于衰老的肤浅观点把老年人当成小儿对待，忽视了维护他们的尊严。俗话说，老人“吃过的盐比我们吃过的饭还多”。他们本应得到更好的生活。
