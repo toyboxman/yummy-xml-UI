@@ -373,4 +373,189 @@ As a football club, Arsenal always `adheres to the principle` of keeping out of 
 There are only `a handful of countries capable of fielding` aircraft carriers, and China now has two, which puts it in `elite company`
 有能力部署航空母舰的国家屈指可数，而中国现在有两艘，这使其进入了精英团体
 
+Anyone who thinks you would change China `in one stroke of the pen` “is foolish
+认为可以轻易改变中国的人都是在“犯蠢”
+
+Those factors have `added new costs for businesses`, forced them to `undertake expensive changes` to their supply chains and `caused them to put off investments` and new hiring
+这些因素增加了企业的成本，迫使它们对供应链进行代价不菲的改革，并推迟投资和新的招聘
+
+They also include `many goods` for which the Trump administration `is leery of having` the United States depend on China for national security or economic security reasons, such as `nuclear reactor parts` or certain widely used `industrial pumps and motors`
+它们还包括特朗普政府出于国家安全或经济安全原因，不希望美国依赖中国的许多商品，例如核反应堆零件或某些广泛使用的工业泵和发动机
+
+The deal will need to `make up a lot of ground` in the area of agriculture, as well
+该协议还需在农业领域收复大量失地
+
+But economists say American growth would be even stronger `if not for the trade war`
+但经济学者认为，如果没有贸易战，美国的经济增长会更强劲
+
+You can `see the fingerprints` of the trade war clearly in the manufacturing sector
+在制造业，你可以清楚地看到贸易战的痕迹
+
+A lawyer for `the American Down and Feather Council`, said that `levies would remain in effect` on down and feathers from China, but not on Chinese-made `comforters and pillows`
+律师表示，对来自中国的羽绒和羽毛征收的关税仍将有效，但对中国制造的被子和枕头则不会
+
+It will help to `shore up confidence in` the global economy
+这将有利于为世界经济注入信心
+
+The Phase 1 `pact was based on principles of mutual respect` between China and the United States — `a crucial requirement and endorsement` from Beijing’s perspective
+第一阶段协定是基于中美之间相互尊重的原则——这是北京方面的一个重要诉求和认可
+
+Mexico has described the idea as `a violation of its sovereignty`
+墨西哥称这一打算是对其主权的侵犯
+
+`For its part`, the Chinese government `appeared over the weekend to be keeping up its end` of `the deal struck on Friday`, starting with the cancellation on Sunday of plans to impose further `retaliatory tariffs` against the United States.
+从周日取消对美国征收报复性关税的计划开始，中国政府在周末似乎一直在履行上周五达成的协议
+
+President Trump’s initial `retreat from` his trade-war threats has `handed hard-liners in China a victory`. A longer, `pricklier trade war` and `stiff Chinese resistance` to economic reforms could result
+特朗普总统在贸易战上的首次退却，把胜利送给了中国的强硬派。这可能会导致一场更持久、更棘手的贸易战，以及中国对经济改革的强硬抵制
+
+The nationalists, the people urging President to `dig in his heels` and not `concede much`, have `carried the day`
+那些敦促其固执己见、不做出太多让步的民族主义者取得了成功
+
+Western economists warn that `bloated state-owned industries` are `holding down the Chinese economy` and `soaking up money and attention` that should go to private firms
+西方经济学家警告，臃肿的国有企业正在拖累中国经济，吸走本应流向私营企业的资金和注意力
+
+He really needs the trade deal, both for economic reasons — to `boost the flagging economy` — and to `strengthen his own position`
+他的确需要达成贸易协议，这既有经济方面的原因——他需要提振疲弱的经济，同时也是为了巩固自己的地位
+
+One state-owned enterprise has `erected 110 vast hangars`, computerized design studios and other buildings `on the outskirts of` Shanghai to build commercial aircraft in competition with Boeing
+中国一家国有企业为了建造与波音竞争的商用飞机，已在上海郊区建起了110栋建筑，包括大型机库、电脑化设计工作室等
+
+`The mood` among Chinese officials `gradually shifted from deeply worried to cautious`
+中国官员的情绪慢慢地从深感担忧转向谨慎
+
+Those purchases would `most likely be carried out` by state-controlled companies, `preserving their indispensable role` in Chinese `commodities trade`
+这些采购很大可能由国有企业来进行，从而保护了它们在中国大宗商品贸易中不可或缺的角色
+
+`In the long term`, the U.S. is going to have to `address the practical impact`, and not just the political impact, of `the industrial imbalance` caused by China’s policies
+从长远来看，美国将不得不解决中国政策造成的产业失衡所带来的实际影响，而不仅仅是政治影响
+
+`The stark contrast` over religious protections for Muslims reveals `an undercurrent` in high-level meetings this week between the United States and India on `a range of`diplomatic and military issues
+这种在穆斯林宗教保护问题上的鲜明差异，揭示了本周美国和印度就一系列外交和军事问题举行的高级别会议背后的算计
+
+I don’t want to `diminish the challenges` that we have in the relationship. The message I want to `leave with you` is that there are challenges, but we’re working together to `overcome them in ways` that would have `seemed impossible in the past`.”
+我无意淡化我们两国关系所面临的挑战, 我想传达的信息是挑战的确存在，但我们正在共同努力，以在过去不可想象的方式克服挑战
+
+Residents in Kashmir `are entitled to` their full rights under the Indian Constitution, which `enshrines the respect` for religious freedom of all Indians
+克什米尔居民理应享有印度宪法规定的全部权利，对全体印度人宗教自由的尊重，已经庄严载入这部宪法
+
+All governments `have a duty to protect people from harm regardless of their beliefs`, and to `hold perpetrators of persecution accountable`
+不论是何种信仰，所有政府都有责任保护人民不受伤害，并追究迫害者的责任
+
+We need `like-minded partners`, That’s why `the vitality` of the U.S.-India partnership is such an important factor in determining whether China `ultimately succeeds in reshaping` Asia to its purposes
+我们需要志同道合的伙伴，这就是为什么美印伙伴关系的活力如此重要，它是决定最终中国能否按其意图重塑亚洲的重要因素
+
+Although he `cited religious freedom as a value` that both India and the United States `“hold dear.”`
+尽管他将宗教自由视为印度和美国共同“珍视”的价值观
+
+The United States and India had `made great strides` over the last two years, `syncing lines of communications`, holding `annual amphibious military exercises` and increasing arms sales to India
+过去两年来，美国和印度关系取得巨大进展，实现通讯线路同步，每年举行两栖军事演习，并增加了对印度的武器销售
+
+Ms. Ayano, 70, had `arrayed more than 40 handmade dolls` in `a lifelike tableau` on the grounds of `the shuttered school`
+70岁的绫野在已经关闭的学校的操场上，将40多个手工人偶摆得犹如一副活画
+
+`Recreating` a school sports day known as “undokai,” `a staple of the Japanese calendar`, she had `posed child-size dolls in a footrace`, `perched on a swing set and tossing balls`
+为了重现运动会--日本年历上的保留节目(主打节目)，她把真人儿童大小的人偶摆成赛跑、荡秋千和扔球的样子
+
+Japan’s `population is shrinking and aging`, and `nowhere is the trend` felt more intensively than in its rural regions, where a low birthrate `is exacerbated by dwindling employment opportunities` and `an inconvenient lifestyle`
+日本正在经历人口萎缩和老龄化，这种趋势在乡村地区尤为明显，就业机会的减少和不便的生活方式加剧了低出生率
+
+Some 350 dolls made by Ms. Ayano and her friends `outnumber the human residents by more than 10 to 1`. 
+绫野和朋友们做的350个人偶比这里的人口多出了10倍
+
+She has `staged the dolls` — made of wood and `wire frames, stuffed with newspapers` and dressed in old clothes donated from across Japan — in various scenes `evoking the real people` who once populated the village
+她把这些人偶（用木头和铁丝制作，塞满报纸，穿上日本各地捐献的旧衣服）摆在各种场景中，模仿曾经居住在村子里的真实的人
+
+An old woman `tends a roadside grave`, while another `rests in a wheelchair`. Construction workers smoke cigarettes `on break` while others wait at the bus stop. A father `pulls a wagon` full of children. `A mischief maker` shakes chestnuts from a tree
+一个老妇人在路边扫墓，而另一个则坐在轮椅上。休息时抽烟的建筑工人，还有在公交站等车的乘客。一位父亲拉着一辆装着好多孩子的平板车。一个淘气鬼把栗子从树上摇下来
+
+`The overall effect`, of a town dominated by dolls, is not `as eerie as it might initially sound`, I don’t think it’s `creepy`
+在这样的整体效果下，一个以人偶为主的小镇并不像听上去那么诡异, 我不觉得这怪异
+
+Nagoro, which `sits in what is known as` the Iya Valley surrounded by `vast mountainsides blanketed by cedar trees`, was never a big place. Shikoku is `by far the smallest and least populated` of Japan’s four main islands
+名顷从来都不大，位于群山环绕、雪松覆盖的祖谷。四国岛是日本四个主要岛屿中最小、人口最少的地区
+
+During the 1950s and ’60s, the region was `fueled by forestry, road construction and dam building` for `hydroelectric plants`
+在上世纪五六十年代，林业、道路建设和用于水力发电的筑坝为该地区提供了活力
+
+Once the dams were built, many people left. Those who stayed operate their own `pumps to bring water to grow their own vegetables`
+大坝建成后，很多人离开了。那些留下的人操作自己的水泵灌溉自己种植的蔬菜
+
+Three years ago, as `business dwindled to nothing`, the family shut down a general store and inn in Nagoro
+三年前，由于生意惨淡，家族关闭了在名顷的杂货店和旅馆
+
+It looked like a real human, not `a conventional scarecrow`, She added three or four dolls `in the shape of women weeding the field` and others on the side of the road
+看起来像个真人，而不是传统的稻草人 她又加了三四个女性人偶，都做成在田里除草的样子，路边也放了几个
+
+`Up until dark`, Ms. Ayano `meticulously stitched arms`, hair and clothing `into place`. After an overnight rain, she `was up before dawn`, refreshing her work
+绫野仔细将人偶的手臂、头发和衣服缝好，一直忙到天黑。下了一夜雨之后，天没亮她就起床了，继续忙活
+
+`By the time` the festival opened, `the sun emerged`. Residents `set up food stalls` serving `soba noodles`, fried potatoes and `octopus balls`
+运动会开幕的时候，太阳出来了。居民摆起小吃摊，供应荞麦面、炸土豆和章鱼烧
+
+During `a tug of war`, people joined dolls whose hands Ms. Ayano had `sewn to the rope`. There were not enough human children, so competitors in their 80s `gave it their all`
+在拔河比赛中，人跟绫野手工缝在绳子上的人偶一起比赛。由于儿童不够，所以80多岁的参赛者全力以赴
+
+I immediately `sensed that something was amiss`. My mother is `a typical Chinese parent`. She always `feels obliged to withhold bad news from me` until she has no other choice
+我立刻觉得有什么地方不对劲。妈妈是那种典型的中国家长，总觉得要把坏消息瞒着我，直到瞒不住为止
+
+I `thought back to` my most recent visit to Laolao’s `shabby apartment` here. She had just turned 88, and `other than the usual age-related forgetfulness and grumbling about kids` these days, she `was her usual self`
+我回想起上一次去姥姥住的破旧公寓看她时的情形。她刚过了88岁生日，除了一贯的老年健忘和对时下孩子的抱怨外，她跟平时没什么两样
+
+My mother’s next message `unnerved me even more`. “Was she of `sound mind`?”
+妈妈的下一条信息让我更紧张了。“她脑子还清楚吗？”
+
+I `fought the urge to berate her` and began to `scour the internet for information on bank scams` that involved `sworn secrecy`. My `heart sank` when results filled my screen, describing our situation exactly
+我抑制住了责备她的冲动，在网上搜寻和发誓保密有关的银行诈骗信息。满屏的搜索结果描述的情况和我们遇到的事一模一样，我的心不禁沉了下去
+
+`By this point`, my family `was mobilized`, but Laolao was `stonewalling`. All she would say was, “`This goes deeper than any of you realize`.”
+到这个时候，我家所有人都动员起来了，但是姥姥却在阻挠我。她只是说：“这里的水比你们想的要深多了
+
+My laolao (the northern Chinese word for `maternal grandmother`) is an `exceedingly proud` woman. 
+姥姥（这是中国北方对外祖母的称呼）是个非常骄傲的女人
+
+As a teenager during the 1940s, she was `an operative` in `an underground Communist resistance` movement fighting Kuomintang rule, and I grew up on stories of her `astonishing achievements.`
+40年代，她只有十几岁，就当成为了地下党，反对国民党的统治，我是听着她的各种丰功伟绩长大的 
+
+She was a single mother, and worked as `a civil servant` in Beijing through decades of `political upheaval`. She had `gone up against impossible odds` all of her life
+她是单身母亲，在北京当公务员，经历了几十年的政治动荡。她一生都在与各种艰难困苦作斗争
+
+In Chinese, we have a word, fu lao (“`to yield to aging`”) It is about accepting change, admitting defeat. Laolao would not yield. She `treated aging as just another trivial obstacle`, not something that would ever `humble her`
+中文里有一个词叫“服老”（“屈服于衰老”），意思是接受改变，承认失败。姥姥还不服。她把衰老当作另一个微不足道的障碍，而不是让她低声下气的东西
+
+`The scammers` convinced Laolao that they were `an elite government task force` trying to `bust an international crime ring`, and they needed her help
+诈骗犯们让姥姥相信，他们是一个试图打击国际犯罪集团的政府精英特遣部队，他们需要她的帮助
+
+This `elaborate fantasy` involved secret meetings, daily calls on a dedicated phone, call signs, and at least `one dead drop`
+他们需要她的帮助。这个精心设计的骗局包括秘密会议、每天的专用电话通话、通信呼号和至少一个秘密情报传递点
+
+I didn’t `put two and two together`, but your grandmother has been making strange phone calls the last couple of weeks
+我不想推断什么，但你的姥姥最近几周一直在打奇怪的电话
+
+When the emergency operator picked up, `I was sobbing`. She `calmly asked me for` Laolao’s address and transferred me to `the police station` in her neighborhood
+当接线员接听电话时，我已经在哭了。她平静地问我姥姥的地址，然后把我转接到她家附近的派出所
+
+She has been involved in `a phone scam`, so we brought her to the station. She’s `giving her statement` now
+她卷入了一起电话诈骗案，所以我们把她带到了派所处。现在她正在做笔录
+
+A few moments later, Laolao was on the phone, `sounding as if this were the most ordinary thing in the world`
+过了一会儿，姥姥接了电话，听起来好像是在讲世界上最平常不过的事情
+
+She had lost almost all of the money she had carefully `put away` over more than 70 years. 
+她失去了悉心存了70多年的几乎所有积蓄
+
+I expected to `be greeted by a distraught, unkempt old woman`, but Laolao looked just as she always did. 
+我以为迎接我的会是一个心烦意乱、衣冠不整的老妇人，但姥姥看上去和往常一样
+
+Her `eyebrows were neatly drawn`, her face `was relaxed, even peaceful`, as she explained what happened
+在解释发生的事情时，她的眉毛还是画得整整齐齐，脸部表情很放松，甚至称得上平和
+
+The basic `narrative was a classic`: Someone called and told her that her identity had been `compromised`. That she `was implicated in a money-laundering case` with hundreds of millions on the line, and that she would soon be arrested
+基本情况可算经典：有人打电话告诉她，她的身份被泄露了。她卷入了一起数亿规模的洗钱案，她很快就会被逮捕
+
+I had always `sneered at the victims` for trusting strangers on the phone. Who could be `so gullible`? But these scammers `get to know their marks thoroughly `and are `adept at ensnaring their prey`
+我总是嘲笑那些在电话里信任陌生人的受害者。谁会这么容易上当呢？但这些骗子对自己的目标了如指掌，且非常善于诱捕猎物
+
+After they got Laolao’s attention, a handler `impersonated a government official` and `appealed to her` to cooperate with his team to clear her name
+在引起姥姥的注意后，一名操纵者冒充政府官员，请求她与自己的团队合作，为她洗脱罪名
 
