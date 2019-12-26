@@ -583,14 +583,26 @@ Laolao `railed about` the old ways being `swept away`, and we, her family, `coul
 But she had `become stranded` in a country she `no longer recognized`. She complained about `the news vendors` who refused to accept cash, the taxis that ignored her
 但她身陷一个她不再认识的国度。她抱怨报摊不再收现金，出租车不理她
 
-Those charming scammers turned out to be the perfect antidote. They spun an irresistible fantasy of a high-stakes patriotic mission where her actions and commitment mattered, where a mysterious, well-spoken man made her feel relevant and in control. “If he ever gets caught I should like to speak to him again,” she told me. “He’s so talented that he could be rehabilitated to do some good.”
-而那些迷人的诈骗犯就成了最完美的解药。他们编织了一个难以抗拒的幻象：一桩重大的爱国使命，她的行动和承诺很重要，一个神秘的、谈吐得体的男人让她觉得自己是有用的、有控制权的。“如果他被抓住，我想再和他谈谈，”她告诉我。“他那么有才，可以改过自新做些好事。”
+Those `charming scammers` turned out to be the perfect `antidote`. They spun an `irresistible fantasy` of a `high-stakes patriotic mission` where her actions and `commitment mattered`, where a mysterious, `well-spoken man` made her `feel relevant and in control`. 
+而那些迷人的诈骗犯就成了最完美的解药。他们编织了一个难以抗拒的幻象：一桩重大的爱国使命，她的行动和承诺很重要，一个神秘的、谈吐得体的男人让她觉得自己是有用的、有控制权的
 
-It’s been months since Laolao’s misadventure, and she has returned to work and her orderly, frugal life. But every now and then, when she starts complaining about all the ways young people disappoint her, she reminisces about her former handler, how naturally their conversation flowed, how attentively he listened. “I know he was just winning my trust to get my money, but if he didn’t choose this life he could be doing great things for our country.” Laolao told me, “If they ever caught him I should like to make friends with him.”
-姥姥的不幸遭遇已经过去了几个月，她回到了工作岗位，恢复了有秩序的、节俭的生活。但时不时地，当她抱怨年轻人如何让她失望时，她仍会想起以前那位上线，他们的谈话是多么自然流畅，他又是多么专心地倾听。“我知道他只是想赢得我的信任骗我的钱，但如果他不选择这种生活，他可以为我们国家做很多好事。”姥姥告诉我，“如果他们抓到他，我愿意和他交朋友。”
+He’s so talented that he could be `rehabilitated to do some good`.
+他那么有才，可以改过自新做些好事
 
-In a twisted way, she misses him. It’s a sharp reminder for me of how we have all failed, as a family and as a society, to help her feel less alone. In China, we like to believe we honor the elderly. We pamper them with gifts of fancy fruit baskets, imported foods and other indulgences.
-她以一种扭曲的方式思念着他。对我来说，这让我们清醒地意识到，作为家庭和社会，没能帮她化解孤独。在中国，我们乐于相信自己敬老。我们用高档果篮、进口食品和其他宽纵作为礼物宠着他们。
+It’s been months since Laolao’s `misadventure`, and she has returned to work and `her orderly, frugal life`. 
+姥姥的不幸遭遇已经过去了几个月，她回到了工作岗位，恢复了有秩序的、节俭的生活
 
-But this shallow perspective on aging infantilizes the elderly and neglects to preserve their dignity. They are people who have “consumed more salt than we have of rice,” as the saying goes. They deserve better.
-但这种关于衰老的肤浅观点把老年人当成小儿对待，忽视了维护他们的尊严。俗话说，老人“吃过的盐比我们吃过的饭还多”。他们本应得到更好的生活。
+`But every now and then`, when she starts complaining about `all the ways` young people disappoint her, she `reminisces about` her former handler, how naturally their `conversation flowed`, how `attentively` he listened. 
+但时不时地，当她抱怨年轻人如何让她失望时，她仍会想起以前那位上线，他们的谈话是多么自然流畅，他又是多么专心地倾听
+
+`In a twisted way`, she misses him. It’s `a sharp reminder` for me of how we have all failed, as a family and as a society, to help her feel less alone. 
+她以一种扭曲的方式思念着他。对我来说，这让我们清醒地意识到，作为家庭和社会，没能帮她化解孤独
+
+In China, we like to believe we `honor the elderly`. We `pamper them` with gifts of `fancy fruit baskets`, imported foods and other `indulgences`.
+。在中国，我们乐于相信自己敬老。我们用高档果篮、进口食品和其他宽纵作为礼物宠着他们。
+
+But this `shallow perspective` on aging `infantilizes the elderly` and `neglects to preserve their dignity`. 
+但这种关于衰老的肤浅观点把老年人当成小儿对待，忽视了维护他们的尊严。
+
+They are people who have “`consumed more salt than we have of rice`,” `as the saying goes`. They deserve better.
+俗话说，老人“吃过的盐比我们吃过的饭还多”。他们本应得到更好的生活。
