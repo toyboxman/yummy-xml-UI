@@ -606,3 +606,111 @@ But this `shallow perspective` on aging `infantilizes the elderly` and `neglects
 
 They are people who have “`consumed more salt than we have of rice`,” `as the saying goes`. They deserve better.
 俗话说，老人“吃过的盐比我们吃过的饭还多”。他们本应得到更好的生活。
+
+Hokkaido announced that it `would not pursue` the development of `an integrated resort` for `the time being`, `citing environmental concerns`
+北海道以环境问题为由宣布暂时不建设综合度假区
+
+But the decision to allow `blackjack, roulette` and other table games into Japan `opened up a potentially enormous new market` for casino operators around the world
+但是允许21点、轮盘赌和其他桌上游戏进入日本的决定，为全球赌场运营业者打开了一个潜在的巨大的新市场
+
+Mr. Akimoto, who has `yet to be formally charged`, has `denied wrongdoing`
+秋元司尚未被正式起诉，他否认存在不法行为
+
+Every person can `look back on their life` and see a great opera
+每个人都可以回顾自己的生活，看到一出精彩的歌剧   约翰·焦尔诺(John Giorno)
+
+I’ll never be able to explain why these `vibrating frequencies` have the power to transport us to levels of `consciousness that defy words` — I simply accept the fact that music has this `miraculous` power for me and for `myriad` other people I have known
+我永远无法解释，为什么这些振动的频率拥有将我们带到无法用言语描述的意识水平的能量——我只是接受这个事实，音乐对我和我认识的其他许多人来说，具有如此神奇的力量  克里斯托弗·劳瑟(Christopher Rouse)
+
+I never thought I was `shocking`. I say this all the time and it `sounds disingenuous`, but I always thought: ‘This is something they need. My culture is going to recognize it’s missing something
+我从不觉得我会感到震惊。我一直这么说，这听起来很虚伪，但我一直想：‘这是他们需要的。我的文化将认识到，它缺少某些东西  卡洛莉·史尼曼(Carolee Schneemann)
+
+You no longer have to do just `Broadway shows`, or movies, or conduct — you can do any or all of them
+你不再只能做百老汇剧、或电影、或指挥；你可以做其中任何一个，或者全部  安德烈·普列文(André Previn)
+
+You have to `judge a director` by his `very best work`, and then get it out of him
+你必须通过一个导演最好的作品来评判他，然后再把那部作品从他身上抽离出来     罗伯特·埃文斯(Robert Evans)
+
+I like to write for the `so-called pedestrian people`
+我喜欢写那些所谓的路人  黎锦扬(C.Y. Lee)
+
+I don’t think any musician plays anything that is new. `Everything musical has been played`
+我不认为任何音乐家演奏的任何东西是新的。一切音乐都被演奏过了  约翰博士(Dr. John)
+
+I don’t `feature myself as being the head man`. I `would much rather` stand in the background and `make small, funny things go` than be up at the head of the class
+我不把自己视为头领。我宁愿站在背景里做些有趣的小事，也不愿意站在前面   蒂姆·康维(Tim Conway)
+
+Jazz to me is `a lifelong quest`, because you never finish `searching for that high you can reach` when everything’s clickin’ and the audience `is right there` with you
+对我而言，爵士乐是一项终生的追求，因为当所有东西响起来，而听众就在你身边时，你永远都无法完成对可以达到之高度的追寻  克劳拉·布莱恩特(Clora Bryant)
+
+`In many instances` I am reminding actors of things that they knew but had forgotten, and in other instances I am asking them to forget that they have learned `beforehand` if it is `obstructing a way forward`
+很多时候，我提醒演员们那些他们知道、但是忘了的事；而在其他时候，我要求他们忘记他们此前了解到的事，如果那些事阻碍了前进的道路的话   乔纳森·米勒(Jonathan Miller)
+
+Rhoda, like most of us, was `a victorious loser`
+罗达，就像我们大多数人一样，是一个胜利的失败者   瓦莱丽·哈勃(Valerie Harper)
+
+I have always believed that opera is a planet where `the muses work together`, join hands and celebrate all the arts
+我一直认为歌剧是一个行星，各种灵感在那里相互协作、携手颂扬所有的艺术  佛朗哥·泽菲雷里(Franco Zeffirelli)
+
+My films are the celebration of reality, of life, of my friends, of actual daily life that passes and `is gone tomorrow`
+我的电影是对现实、生活、我的朋友，以及过去和未来的真实日常生活的庆祝  乔纳斯·梅卡斯(Jonas Mekas)
+
+You know, if you’re lucky enough to have two `smash hit shows`, the traffic of the world goes through your `dressing room`
+你知道的，如果你足够幸运，出演了两部热门电影，那全世界的车流都会穿过你的更衣室  卡罗尔·钱宁(Carol Channing)
+
+I’m `having an affair with` dance, and it’s the best thing I ever could have done. `It’s like water to a duck`; it’s natural
+我和舞蹈有段恋情，这是我做过的最棒的事。就像水之于鸭子，是很自然的事  梅尔·A·汤姆林森(Mel A. Tomlinson)
+
+Let the other guys do the `crybaby stuff`. `Go for the laughs`
+让别人去做爱哭鬼做的事吧。追求点值得一笑的事  雷普·汤恩(Rip Torn)
+
+I am not a decorator. The only place I `decorate` is my own house
+我不是一个装饰者。我装饰的唯一一个地方就是我自己的房子  弗洛朗斯·诺尔·巴塞特(Florence Knoll Bassett)
+
+The cinema `saved me from being a delinquent`
+电影救了我，让我没成为一个流氓  约翰·辛格顿(John Singleton)
+
+We had the right to vote as American citizens. We didn’t `have to be granted it by some bunch of guys`
+我们有权以美国公民的身份投票。我们不需要被一群男人授予权利   科基·罗伯茨(Cokie Roberts)
+
+The desire to `reach for` the sky runs very deep in the `human psyche`
+触摸天空的渴望在人类的心灵中深深扎根   西萨·佩里(Cesar Pelli)
+
+How many actresses receive a call at 50 to play `an overdressed black bitch` on an international hit show like ‘Dynasty?
+有多少女演员会在50岁的时候接到电话，让她在《豪门恩怨》(Dynasty)这样的国际热门电视剧中扮演一个穿着夸张的黑婊子？  黛汉恩·卡罗尔(Diahann Carroll)
+
+The job of `a drummer` is to make the singer or guitarist sound really good. So it’s all about listening, and it’s `all about improvising`, responding to what’s going on around you
+鼓手的工作是让主唱或吉他手的声音真正棒起来。所以重要的是聆听，是即兴创作，对你周围发生的事情做出反应  金格·贝克(Ginger Baker)
+
+When it’s over, I want to say: all my life I was a bride married to amazement. I was `the bridegroom, taking the world into my arms`
+当它结束时，我想说：我的一生是一个嫁给惊喜的新娘。我是新郎，将世界带入我的怀抱  玛丽·奥利弗(Mary Oliver)，《当死亡来临时》(When Death Comes)
+
+Different films `resonate with viewers` for different reasons, but `the common thread` seems to be that my films are `uplifting`
+不同的电影因为不同的原因引发观众的共鸣，但共同点似乎是，我的电影是令人振奋的   多丽丝·戴(Doris Day)
+
+I `write these lyrics`, and sometimes I read them `afterwards` on the `album sleeve` and `think to myself`, ‘God, what an attitude!
+我写这些歌词，有时我后来在专辑封面上读到它们，然后自己想，‘上帝啊，这么有态度！ 里克·奥卡西克(Ric Ocasek)
+
+I really don’t `spend time thinking about the past`. I think about the future
+我真不会花时间思考过去。我思考未来  哈尔·普林斯(Hal Prince)
+
+I `cherish every mini-second` of this life
+我珍惜生活中的每一微秒   朱斯·沃尔德(Juice WRLD)
+
+`There is never a question` of `what to paint`, but only how to paint. The how of painting has always been the image — the end product
+画什么不重要，怎么画才是个问题。绘画的重点永远是图像——最终的作品  罗伯特·雷曼(Robert Ryman)
+
+I believe that my dancing is `the most eloquent testament` that I shall leave
+我相信，在我离开时，我的舞蹈就是最动人的遗书   阿莉西亚·阿隆索(Alicia Alonso)
+
+It may be `a waning art`, the art of reading closely, lovingly, `scrupulously with the excitement` of seeing how the text will unfold
+这可能是一种衰落的艺术，仔细、钟情、谨慎地带着兴奋之情去发现文本将如何展开的阅读的艺术
+
+`Pigeonholes` are for pigeons
+鸽舍是属于鸽子的。（鸽舍[pigeonholes]一词有限制、束之高阁的意思）  杰西·诺曼(Jessye Norman)
+
+In my films I always wanted to `make people see deeply`. I don’t want to show things, but to `give people the desire to see`
+在我的电影中，我一直想让人们看到深入的内容。我不想展示事物，而是让人们渴望去看到  阿涅斯·瓦尔达(Agnes Varda)
+
+Architecture is `the very mirror of life`. You only have to `cast your eyes on buildings` to `feel the presence` of the past, the spirit of a place; they are the `reflection of society`
+建筑是生活的一面镜子。你只需要把目光投向建筑物，感受过去的存在、一个地方的精神，它们是社会的反映    贝聿铭(I.M. Pei)
