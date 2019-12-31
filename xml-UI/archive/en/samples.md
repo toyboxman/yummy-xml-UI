@@ -401,3 +401,278 @@ But there’s little evidence that the leadership is `easing its grip in a lastin
 There is a `caveat`: The signs of improvement most likely do not `stem from` a sudden burst of confidence in the strength of the country’s economy among Chinese business leaders.
 但需要`警告`的是：经济好转的迹象很可能并非`源自`中国商界领袖对中国经济实力的信心突然爆发。
 
+Richard searched the taxi and then the park, `scouring around the gardens`, the playgrounds and `a bronze statue of Peter Pan`
+理查德先在出租车里搜寻，然后进了公园，在花园、游乐场和彼得·潘的铜像周围寻找
+
+Richard Chow `discovered his younger brother’s taxi abandoned outside` Carl Schurz Park, a 15-acre Manhattan `oasis overlooking the East River`. He `began to panic`
+理查德·周发现弟弟的出租车被遗弃在俯瞰东河的15英亩曼哈顿绿洲——卡尔·舒尔茨公园外。他开始紧张起来
+
+For months, he had watched his brother and fellow `cabdriver`, Kenny, `struggle under enormous debt`. Kenny had `grown distant and despondent`
+几个月来，他眼睁睁地看着弟弟、出租车司机肯尼(Kenny)为巨额债务而挣扎。肯尼变得疏远和沮丧
+
+Taxi industry leaders `artificially inflated medallion prices` and `channeled purchasers into exploitative loans` that they could not afford. 
+出租车行业领导者人为地抬高了勋章的价格，并且引导购买者背上无力偿还的剥削性贷款
+
+`The medallion bubble began to collapse` in late 2014. `Prices plummeted`. But the drivers `remained stuck with massive loans`
+勋章泡沫在2014年底开始破裂，价格暴跌。但这些司机仍然背负着巨额贷款
+
+Richard had `looked after` Kenny their entire lives. His first memory was of a soccer game when his brother `got into an argument` and he `intervened to` protect him from `getting beat up`
+理查德毕生都在照顾肯尼。他最早的记忆是一场足球赛，当时弟弟卷入争吵，他上去干预，让弟弟免遭毒打
+
+The brothers got jobs at the same factory, `dyeing wool for sweaters.`
+兄弟俩进入同一家毛衣用羊毛印染厂工作 
+
+They saved most of their earnings, but `occasionally they splurged on a trip to` the movies to see the latest American `action film`
+他们把大部分收入存起来，不过偶尔也会挥霍一下，去看最新的美国动作片
+
+They began as `restaurant deliverymen`, `fighting the rain and snow to` deliver Chinese food. Then they joined the jewelry business, as `diamond setters`
+他们一开始给饭店当送餐员，冒着雨雪送中餐。然后他们进入珠宝行业，做钻石镶嵌
+
+By then, medallion prices were `skyrocketing`. Large fleet owners like Freidman were `intentionally overpaying` for medallions to increase the value of their portfolios. 
+那时，执照勋章价格飞涨。像弗莱德曼这样的大出租车公司老板为增加自己投资组合的价值，故意炒高勋章的价格
+
+Lenders were `issuing reckless loans`, and as in the housing bubble, the easy money inflated prices more
+放贷人不计后果地发放贷款，就像在房地产泡沫时一样，宽松的贷款使得价格进一步膨胀
+
+The younger brother could not `secure a conventional loan`. But he later told friends that a broker helped him to `leverage the equity in his house for a down payment` to make it work.
+无法获得常规贷款。但他后来告诉朋友，一位经纪人帮他做房产抵押贷款付了首期，解决了这个问题
+
+After his loan `hit the four-year mark`, when he was supposed to `repay everything`
+当贷款达到了四年期限，他应该偿还所有债务时
+
+In the fall of 2017, the family `received another blow`. Doctors diagnosed Kenny’s wife with `Stage 4 colon cancer`
+2017年秋天，这个家庭又遭受了一次打击。医生诊断肯尼的妻子患了4期结肠癌
+
+But he `fell far behind on his mortgage` and other expenses. He also could no longer help pay his daughter’s `college tuition`, and she decided to `drop out` to help the family
+但他难以支付抵押贷款和其他费用。他也无法再支付女儿的大学学费，于是女儿决定辍学帮助家庭
+
+Richard `clung to hope`. He knew driving could be exhausting, so he thought his brother had `lain down and fallen into a deep slumber`. Or maybe he went on `a meditation retreat`, or on `a hunt for extra money`
+理查德抱着一线希望。他知道开车很累，所以他以为弟弟只是躺下沉沉睡去了。或者去做冥想治疗了，又或者是去赚外快了
+
+Someone `spotted a body` in the East River near the Brooklyn Bridge. At a vigil, Richard `could barely speak`
+有人在布鲁克林大桥附近的东河边发现了一具尸体, 悼念仪式上的理查德几乎说不出话来
+
+Because of the change listing Kenny’s wife as a co-debtor, she `inherited his loan` when he died. But it did not `torment her for long`. Their daughter, who did not `get entrapped in` the loan, has returned to college
+由于合同变化，肯尼的妻子也被列为共同债务人，肯尼去世后，她继承了他的贷款。但这并没有令她痛苦很久。他们的女儿没有被这笔贷款所困，已经回到大学
+
+It is impossible to know why anyone `takes his or her own life`. But friends believe Kenny `was overwhelmed by his loans` and by competition from `ride-hailing`. They do not think it was `a coincidence`
+一个人自杀的原因可能永远无从得知。但朋友们认为，肯尼被贷款和网约车服务的竞争压垮了. 他们认为不是巧合
+
+Taxi industry leaders `seized on the brothers’ story`. One group `tapped Richard to headline` an event
+出租车行业的领导者们注意到这对兄弟的故事。一个组织让理查德在一个媒体活动中担任主角
+
+We columnists imagine our articles `going viral, sweeping the world`, carried into `cabinet rooms`, changing history
+我们专栏作家总是想象我们的文章能走红网络、席卷世界、被带进政府内阁、改变历史
+
+This is my `annual list` of my columns that no one read. I’d say that they `bombed`, except that would `connote impact`. Let’s just call them `duds. Flops. Busts. Losers`
+这里是我没人读的专栏的年度清单。我倒是想说这些文章是写砸了，但砸字还显得留下了点影响似的。权且称它们为废物,失策,水货,卢瑟
+
+`Growing evidence` that hope is a critical factor in `overcoming poverty`
+越来越多的证据表明，希望是战胜贫困的关键因素
+
+`Invariably when` I give a talk at a university, someone will `lament` that more journalists don’t `cover humanitarian stories`
+当我在大学演讲时，总有人会哀叹如今越来越多的记者不去报道人道主义新闻了
+
+Zhao Lin had `become accustomed to the single life`. But his days and nights were growing lonely, and he decided it was time to `find Ms. Right`
+赵林已经习惯了单身生活。但是日复一日，他感到越来越孤独，决定是时候该找个伴了
+
+`A fixture` at one of the dozens of `senior singles scenes popping up` in public parks around China. So far, he admits, `the pickings have been slim`
+在中国各地的公园里，冒出很多单身老人相亲角，他是其中一个的常客。他承认，到目前为止，收获甚微
+
+In Chinese media, the phenomenon has been labeled `“twilight love.”` `Contestants well into` their later years now make regular appearances on Chinese dating shows with names like “`Peach Blossoms Bloom`,” “`Exciting Old Friends`” and “`Holding Hands`.”
+在中国的媒体上，这种现象被称为“黄昏恋”。在中国的相亲节目中，如《桃花朵朵开》、《精彩老朋友》和《牵手》，步入晚年的选手频频露面
+
+It’s a practical way for `a group gathering`, In the park, you can `increase the chance of` having successful `blind dates`. `Demographics` is behind it all
+这种聚会方式很实用，在公园里，你可以增加成功相亲的机会 这一切的背后是人口结构
+
+`An aging population` means more people are `outliving their spouses`. 
+人口老龄化意味着越来越多的人比配偶长寿 
+
+The number of `widows and widowers` totals nearly 48 million, And `four out of five` widows and widowers want to remarry
+寡妇和鳏夫加起来的总数接近4800万
+
+`That lack of knowledge is understandable`. When China’s elders were young, talking about sex was `taboo`. People met their `prospective spouses` through friends or `matchmakers`. Dating was almost `unheard-of`
+缺乏知识是可以理解的。中国的老年人在年轻时，性是不能谈论的禁忌。人们通过朋友或媒人认识未来的伴侣。约会几乎是闻所未闻
+
+Minutes later, they `struck up a conversation`.
+几分钟后，他们聊了起来
+
+In China’s parks, that can make for `awkward scenes`. `A strip of greenery next to` the Forbidden City, elderly men `clustered together, scoping out` the women and men `milling around like wallflowers`
+在中国的公园里，这可能会造成尴尬的场面。最近的一个周二，在紫禁城旁边绿树成荫的菖蒲河，老年男性们聚集在一起，仔细观察像壁花一样徜徉的男男女女
+
+The widowed were `more desirable than the divorced`, said some. `Less emotional baggage`, they explained
+一些人说，丧偶的比离婚的受欢迎。他们解释说，前者的情感负担较少
+
+Guan Yongnian `sees himself as a catch`. He is healthy and successful, `a calligraphy expert`, a writer and a teacher of tai chi, `a gentle form of martial arts` popular in China
+关永年认为自己的条件不错。他身体健康、事业有成，是书法家、作家和太极拳老师。太极拳是在中国流行的一种柔和的武术形式
+
+“Nowadays, many people are not `hygienic, dress poorly` and are not `imbued with sophistication and good breeding`,” he `sniffed`
+“现在这人都不讲卫生，穿得很差，很没内在的修养，”他嗤之以鼻地说
+
+Most of `the characters` here are pretty bad, At this stage, `love at first sight` is impossible. She was `pessimistic about her prospects`
+大部分人品太差了 你说这岁数一见钟情，我觉得不可能  她对自己的前景感到悲观
+
+He `bemoaned the directness` of some of the women, They ask you directly to change the names in `the property deed`
+他感叹，有些女人太直接  来了就直接你把房本能改了吗？一见面就先提这个
+
+But he still `longed for a mate` to `ward off his loneliness`
+但他仍然渴望有个伴来排遣寂寞
+
+If you’ve never `experienced` these three `big treasures`, how can you understand what is `bliss`? 
+这三大宝，你不懂这三大宝，你怎么理解人生什么叫幸福，什么叫痛苦
+
+This is what I’m feeling right now. But I never `used to feel like that`
+我就现在特别感觉这样，我原来我没感觉到
+
+During that time, I have seen interest in `high-intensity exercise` soar and enthusiasm for barefoot running fizzle. 
+在这期间，我看到人们对高强度运动的兴趣高涨，对赤脚跑步的热情减退
+
+We have learned `contracting muscles talk to baby neurons`, creativity `blooms` from walking, a minute of `exertion can be ample`, aging is elastic and `a chubby dog` may be our best exercise motivator
+我们了解到，收缩肌肉可以影响婴儿的神经元，散步可以促进创造力，一分钟的锻炼是足够的，衰老是可以改善的，一只胖狗可能是最好的锻炼激励
+
+Multiple studies and `subsequent columns reiterating` that `super-short, strenuous workouts` — known as high-intensity interval training — improve fitness and health to about the `same extent as much longer, more moderate exercise`
+多项研究和随后的专栏文章都不断重申，这种超短、高强度的锻炼，和时间长很多且较和缓的锻炼比起来，对体能和健康的改善效果是差不多的
+
+`In what may be`, for me, the most inspiring area of `fitness research` from the past decade, scientists have `found and reaffirmed the extent` to which movement, of almost any kind and amount, may `remake how we think and feel`
+对我来说，过去十年的健身研究可能是最鼓舞人心的领域，科学家们发现并一再确认，几乎任何种类和数量的运动都可能在很大程度上重塑我们的思维和感觉
+
+Exercise also seems able to `buoy moods far more than most of us`, including scientists, might have expected 10 years ago
+锻炼对情绪的提振效果似乎远远超出我们大多数人——包括科学家——在10年前的估计
+
+Walking, jogging, `gardening, weight training`, swimming, biking, hiking or even rising from an office or living room chair often and `strolling across` the room seemed to make people happier and `less prone to mood problems than remaining still`
+散步、慢跑、园艺、举重、游泳、骑车、徒步旅行，甚至经常从办公室或客厅的椅子上站起来，在房间里散步，似乎都比静止更能让人快乐，更不易出现情绪问题
+
+People who exercise `harbor different types and amounts` of proteins in their `bloodstreams`, for instance, even if they have not been `working out recently`, and these `patterns of proteins` may play a role in reducing risks for `metabolic problems` such as diabetes or heart disease
+例如，经常运动者的血液中含有不同类型和数量的蛋白质，即使他们近期内没有健身，这些蛋白质的模式依然可能在降低糖尿病或心脏病等代谢问题风险中发挥作用
+
+whether those needs differ as we age or if wish to `deploy exercise` to `fend off or treat specific conditions`, such as high blood pressure, diabetes or a family history of weight problems
+如果需要通过锻炼来预防或治疗高血压、糖尿病或遗传体重问题等特定疾病，这个标准是否也应有所变化
+
+`Renovated` five years ago at the government’s expense, the temple is used by a group of `retirees who run pilgrimages` to a holy mountain, schoolchildren who come to learn traditional culture and `a Taoist priest` who `preaches to wealthy urbanites` about the traditional values of ancient China
+五年前，政府出资对这座寺庙进行了翻新，现在一群退休人士前往这里朝拜圣山，学童来此地学习传统文化，一位道士在这里宣讲中国古代传统价值观
+
+In the northern suburbs of this city is a small temple to a Chinese `folk deity, Lord Guan`, a famous warrior `deified more than a millennium ago`
+在这座城市的北郊有一座小寺庙，供奉的是一位中国民间的神祇——关公，他是1000多年前一位被神化的著名武士
+
+`Perched atop` a hillock `overlooking the sprawling capital`, the temple is `a microcosm` of a new civil religion taking shape in China
+寺庙坐落在一座小山上，俯瞰着地域辽阔的都城，它是中国正在形成的一种新的民间宗教的缩影
+
+Most Chinese believe in `an amalgam of Buddhism, Taoism, Confucianism` and other traditional values and ideas that still `resonate deeply`
+大多数中国人信奉的是一种融合了佛教、道教、儒教以及其他仍然能够引起强烈共鸣的传统价值观和思想的混合体
+
+`From the 19th century onward`, China’s elites argued that the country’s traditions and faiths were `a major reason for its decline`
+自19世纪以降，中国的精英阶层就认为，它的传统与信仰是其衰落的主因
+
+The plan `stems from a widespread feeling` that China’s `relentless drive to get ahead economically` has created `a spiritual vacuum`, and sometimes `justifies breaking rules` and `trampling civility`. 
+这项计划源于人们普遍的感受：中国追求经济发展的不懈欲望造成了精神上的真空，有时还导致明目张胆地破坏规则和践踏文明。
+
+Many people do not trust one another. The government’s `blueprint for handling this moral crisis` calls for `endorsing certain traditional beliefs.`
+人与人之间缺乏互信。政府为应对这一道德危机制定蓝图，呼吁人们认可某些传统信仰
+
+The men and women `sat around` a big wooden table, `wielding brushes to write out`, over and over again, his most `famous phrase: “zhi xing he yi” (knowledge and action are one)`. This knowledge, according to Wang, `comes from an inner light, a conscience`
+这些男男女女围坐在一张大木桌旁，挥舞毛笔，一遍又一遍地写下他最著名的格言：“知行合一”  根据他的说法，这种认知源于一种内心的指引，一种良知
+
+The plan orders to `promote “ancient and worthy sages,”` as well as to `“deeply expound”` traditional concepts such as “ren’ai” (`benevolence`), “zhengyi” (`righteousness`) and “jianyi zhengwei” (`standing up bravely for the truth`)
+这份新计划要求推广“古圣先贤”，并且对“仁爱”、“正义”、“见义勇为”等传统观念进行“深入阐发”
+
+He `parks in the same lot` where he’d take breaks and read his wife’s letters, sent from Montreal while they `courted by post` in the late 1970s. He `seats his regulars` at the same tables where his three daughters did homework
+他的车泊在同一个停车场，小憩的时候，他曾在那里读未婚妻从蒙特利尔的来信，那是20世纪70年代末，他们还在远距离地谈恋爱。若是熟客上门，他会让他们坐在三个女儿曾经做作业的那张桌子
+
+Their children, `educated and raised in America`, are `pursuing professional careers` that do not demand the same `grueling labor` as food service
+他们的子女在美国长大，接受了高等教育，从事的职业不需要像食品服务业这样累人的劳动
+
+It doesn’t seem that `interest in the cuisine has faltered`
+人们对中餐的兴趣似乎并没有减退
+
+But those are not Chinese-restaurant-specific factors, and do not explain `the wave of closings`. Instead, a big reason seems to be `the economic mobility` of the second generation
+但这些都不是中餐馆特有的困难，无法解释中餐馆关闭的潮流。相反，一个很大的原因似乎是第二代华人的经济流动性
+
+In 1882, the Chinese Exclusion Act `halted what had been a steady rise` in people coming from China. `It was not revoked until 1943`, and `large-scale immigration resumed` only after 1965, when other race-targeting `quotas were abolished`
+1882年的《排华法案》阻止了中国移民的稳步增长。这个法案直到1943年才被撤销，其他针对族裔的配额在1965年被废除后，大规模的移民才得以恢复
+
+An `often violent social and political upheaval` that started in 1966, `prompted many young people to emigrate` to the United States, a country that `projected an image of` freedom and economic possibility
+这场充满暴力的社会和政治动荡促使许多年轻人逃离中国，移民到给人以自由和经济可能性印象的美国
+
+He `hiked, climbed and swam his way to` Hong Kong, filling his pants with pine cones as `an improvised flotation device`
+他一路翻山越岭，最后靠游泳来到香港，他在裤腿里塞满松果，权当漂浮装置
+
+Although he had never worked in a restaurant, the heat from the woks `was much less intense` than what he experienced at a Hong Kong `plastics factory` where he had worked
+尽管他从未在餐馆工作过，但炒菜锅的灼热远不及他在香港一家塑料厂工作时所经历的
+
+They `served Hunan and Cantonese foods` on `linen tablecloths` to `bejeweled, curious diners` at places like Shun Lee Palace in New York
+在纽约顺利宫餐馆这样的地方，他们烹饪的湘菜和粤菜能端上铺着亚麻桌布的餐桌，为佩戴珠宝的好奇食客享用
+
+We started getting `regional practitioners of fine regional cuisine` to come to this country and `do their thing`
+从那时开始，我们有了中国地方菜系的从业者来美国做他们的菜
+
+`Mostly, though`, the `newly minted chefs` cooked quickly and cheaply. They `adapted their method of` cooking to American tastes, `developing dishes` like beef chow fun, fortune cookies and egg drop soup, often brought home in the signature `takeout containers`
+不过，大多数情况下，新掌勺的厨师靠的是快速和价格便宜的烹饪。他们根据美国人的口味作出调整，推出了干炒牛河、幸运饼干和蛋花汤等菜肴，人们通常把这些菜装在中餐特有的外卖盒里带回家吃
+
+They were not `precious`, These people did not `come to be chefs`; they came to be immigrants, and cooking was `the way they made a living`
+这些菜不娇贵，这些人来美国不是为了当厨师, 他们是移民，烹饪只是他们谋生的方法
+
+Other immigrant groups `follow a similar pattern`. With `social mobility and inclusion` in more `mainstream parts of the economy`, the children of immigrants `are less likely than` their parents to own their own businesses
+其他移民群体也有类似的经历。移民子女因社会流动性和包容性进入更主流的经济领域后，他们拥有自己生意的可能性比父母的要低
+
+`In some ways`, the children are `regaining the status` of the first generation that they have lost while migrating
+从某种意义上来说，这些子女在恢复父母作为第一代移民在其间失去的地位
+
+When they `do become entrepreneurs`, these children `tend to work` in industries like tech or consulting, `rather than in food service or nail salons`
+如果他们成为了企业家的话，子女往往在技术或咨询等行业，而不是在食品服务或美甲沙龙工作
+
+Some members of the second generation have also `chosen to take charge of` family restaurants. Nom Wah Tea Parlor, a New York `dim sum restaurant` that opened in 1920, has `stayed a family business`
+第二代中的个别人还是选择了接管家庭餐馆。1920年开业的纽约早茶馆南华茶室一直是家庭生意
+
+`Initially`, his parents `balked at his decision` As immigrants, it’s the only thing you can do; if it’s not restaurants, it’s `a laundromat`
+起初，他的父母不赞成他的这个决定 作为移民，你只能干这行；如果不是开餐馆，就是自助洗衣店
+
+`On any given night`, groups of guests wait for a table outside the Chinatown location `for up to an hour`, `huddled in the bend of` Doyers Street
+每天晚上，成群结队的客人挤在坐落于宰也街拐角的这家唐人街本店门外，要等位一个小时才能吃上
+
+`In a parallel effort`, the team behind Junzi Kitchen, `a fast-casual Chinese restaurant chain` based in New York, recently raised $5 million to research and buy places like Eng’s, `rebranding` them with Junzi’s `modern take on the cuisine`
+还有另一种让中餐馆继续下去的努力，总部设在纽约的中式休闲快餐连锁店君子食堂(Junzi Kitchen)背后的团队最近筹集到了500万美元，用于研究和收购像Eng’s这样的餐馆，将它们重塑为“君子”品牌下的现代中餐馆
+
+Ms. Sit `feels more ready to retire` than her husband. `Normally talkative`, he can `be evasive` whenever the family tries to bring up a successor
+薛女士比丈夫更愿意退休。虽然他通常健谈，但每当家人试图提起餐馆继承人的话题是，他总是闪烁其词
+
+“They’ll have to work hard,” she said, `her eyes sparkling as she teased her husband`. But she is proud of what he built
+“他们一定要是像汤姆·薛那样努力干活的人，”神采飞扬地揶揄丈夫说.但她对丈夫的成就感到自豪
+
+The `airstrip stretches like a scar through` what was once `unspoiled Cambodian jungle`
+飞机跑道像一条伤疤，穿过这片曾经完好无损的柬埔寨丛林
+
+When completed next year on `a remote stretch of shoreline`, Dara Sakor International Airport will `boast the longest runway` in Cambodia, complete with the kind of `tight turning bay` favored by fighter jet pilots
+七星海国际机场地处一段偏远的海岸线上，明年完工后，它将拥有柬埔寨最长的跑道，有战斗机飞行员喜欢的那种急转弯区
+
+But the scale of the land deal at Dara Sakor has `raised eyebrows`, especially since the portion of the project built so far is already `moldering in malarial jungle`
+但七星海项目的土地交易规模已引起了人们的关注，特别是自从目前已建成的部分在这片疟疾肆虐的丛林中无人问津以来
+
+The activity at Dara Sakor is `stirring fears` that Beijing plans to turn this small Southeast Asian nation into `a de facto military outpost`
+七星海的活动正在引起担心，即北京打算把这个东南亚小国变成事实上的军事前哨
+
+This will allow China to `project its air power` through the region, and it changes the whole game
+这将使中国能够在该地区投射空中力量，也将改变整个游戏规则
+
+As China `extends its might overseas`, it is `bumping up` against a `regional security umbrella` shaped by the United States decades ago
+随着中国向海外扩张，它正在与美国几十年前形成的区域安全保护伞发生碰撞
+
+But to win his place as Asia’s `longest-serving leader`, Prime Minister Hun Sen of Cambodia `has turned his back on` free elections and rule of law
+但柬埔寨首相洪森已背弃了自由选举和法治，成为亚洲任期最长的领导人
+
+Dara Sakor’s runway and port will transform this `remote rainforest` into `a global logistics hub` that will “make miracles possible,” as Dara Sakor’s `promotional literature` puts it
+七星海的跑道和港口将把这片偏远的雨林变成一个全球物流中心，正如七星海宣传资料所说的“让奇迹成为可能”
+
+Other villagers who attended the meeting `confirmed his account`. Land officials wouldn’t comment.
+参加了那个会的其他村民证实了他的说法。土地管理官员不予置评
+
+The company `was exempted from` any `lease payments` for a decade
+这家公司还在头10年内免交任何租金
+
+Even with `generous lease terms`, the one part of Dara Sakor that has been built, `a resort complex`, is `languishing`. 
+即使有慷慨的租赁条款，七星海已经落成的一个度假村看上去还是一片萧条。
+
+On a recent day, `the golf course` was empty and `the casino deserted`. The `marina restaurant` attracted one Chinese family, which had brought seafood in `a plastic bag` to avoid paying resort prices
+在不久前的一天，这里的高尔夫球场空无一人，赌场也空无一人。游艇停靠区的餐厅里只有一家中国人，他们用塑料袋自带海鲜，以免支付度假村高昂的价格
+
+We `are frankly fed up`, Do we have to ask the United States to `develop our sovereignty`?
+坦率地说，我们忍无可忍了，我们难道非得要美国来发展我们的主权吗？
