@@ -115,6 +115,7 @@
         ```
         令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
         与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
++ [网络广告商的像素追踪](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615938&idx=1&sn=a23b4329ee7c27282e1881804ea09a3d)        
 + [REST API面临的安全威胁](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022949&idx=5&sn=9bbd2e8d298788c86d88a40b074d5147)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)        
 + [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
@@ -204,6 +205,7 @@
 + [Leetcode-Database](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)
 + [数据库‘状态’字段设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485894&idx=1&sn=52f9c7de204e3debe6cb0252049c3378)
 + [分库分表](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217729&idx=2&sn=de3d24920819d600ded3e8609359703c)
++ [有序索引](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650735583&idx=3&sn=09cf5202a361a25fcf1b5965214ec1da)
 
 #### bigdata
 + [spark](big-data/spark.md)

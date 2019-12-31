@@ -31,8 +31,10 @@
         - [umask Linux权限](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615582&idx=1&sn=a681362b9f046c121de8357285c65b63)
         - sudo[[1](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [2](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615663&idx=1&sn=fc6094c51908f8ab95b97a1438e81377)]  
         - [设置安全保护](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446013&idx=1&sn=a06b5f2554c8a6fc6bbc62d847994ab2)
+        - [PAM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615906&idx=1&sn=e01d9a7b3fe6967014ac8056e588e67f)
     - System Management
         - [List System Details](#list-system-details)
+            - [更新 grub](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615938&idx=2&sn=ff239ff5ec2d44aa6b3321c234be8744)
         - [List Kernel Modules](#list-kernel-modules)
             - [Kconfig/Kbuild](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=1&sn=74b41ef32688862b70a83ba350489970)
             - [Update kernel](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615302&idx=1&sn=3cfea2d97a4155e3b82511ea73b589c5)
@@ -525,6 +527,7 @@ ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
 
 #### systemctl 
 + [列出systemd所有服务](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446287&idx=2&sn=bdc6f1e024e95902cfab6fca9c7ea16f)
++ [启动、停止和重启服务](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615931&idx=2&sn=cab338ea7053b503f89cd6c362d3b7ea)
 
 Control the systemd system and service manager
 ```console
@@ -2626,6 +2629,8 @@ resize2fs /dev/sda1 25400M
 ---
 
 ### VM Image operation
++ [ Cockpit 创建虚拟机](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615918&idx=2&sn=fe9da1050eeae55ef8523da17e7c64ae)
+
 * guestfish
 ```console
 virt-copy-out -a controller.vmdk /opt/nvp/etc/api_server.conf ./

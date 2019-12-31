@@ -6,6 +6,7 @@
 - [证书颁发](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614310&idx=1&sn=23fd620702f241c8ff4eebd4d4ba0e92)
 - [凭据管理](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615016&idx=3&sn=4b27e31d86b7c58246dd4ac7fbb29923)
 - [Kerberos authentication](https://zh.wikipedia.org/wiki/Kerberos)
+- [TLS、SSL 和 CA](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615882&idx=1&sn=ed2e486632dda4044e204f025294b628)
 
 ---
 

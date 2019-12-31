@@ -328,9 +328,10 @@ fi
 ```
 
 ### LOOP ¿ØÖÆÁ÷
-> [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
-> [Link-2](https://www.garron.me/en/articles/bash-for-loop-examples.html)   
-> [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
++ [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
++ [Link-2](https://www.garron.me/en/articles/bash-for-loop-examples.html)   
++ [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
++ [Ñ­»·](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615918&idx=1&sn=7f80263e0a5e7a320d25422ba6b26ce5)
 ```console
 for VARIABLE in 1 2 3 4 5 .. N
 do
