@@ -316,6 +316,10 @@ process in:file language:java extension:java
         "description":"measure description"  \
     }
     ```
+    
+    - regex
+        - [正则表达式匹配中文](https://www.w3cschool.cn/regexp/nck51pqj.html) 
+        - [正则表达式特殊字符](https://www.w3cschool.cn/regexp/p5cx1pqd.html)
 
     + plugin/JSTool   
     用来格式化JS/JSON输入，JSMin用来把JavaScript代码minification，JSFormat可以将minification的代码还原
