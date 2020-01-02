@@ -1121,6 +1121,8 @@ brew search aria2
 brew install aria2
 
 # Download using 7 connections per host
+# -h   list user manual
+# -k   下载文件分割大小，默认20M，根据-x指定连接数调整
 aria2c -x 7 https://github.com/testerSunshine/12306/archive/master.zip
 # Download from 2 sources
 aria2c http://a/f.iso ftp://b/f.iso
