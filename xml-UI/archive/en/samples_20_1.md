@@ -67,3 +67,71 @@ During `the peak harvest season`, as `fall turns into winter`, divers `plunge in
 When `plucked alive` from the sea, `blanched lightly and bathed in`, say, a sauce of garlic, `cilantro and chili oil` — as they `are served at` a small fish restaurant not far away — they `taste like a rubbery piece of cartilage`, bathed in a sauce of garlic, cilantro and chili oil.
 把从海中现捞的海参稍微焯一下，蘸上蒜末、香菜和辣椒油——附近的小海鲜店里就是这么做的——味道尝起来就像一块有弹性的软骨，再蘸点蒜末、香菜和辣椒油
 
+Mr. Xu’s note `was rich in metaphors` describing the difficult days ahead. Alternately `likening the company to plums bitten` by winter’s frost, `a bamboo stalk battered by wind` and an `embattled aircraft`
+徐直军的致辞也充满了用来描述未来艰难日子的隐喻。这位高管时而把公司比作严冬霜打下的梅花，时而将其比作被狂风吹打的竹子，时而又将其比作艰苦作战中的飞机
+
+`Even so`, Mr. Xu indicated that the confrontation with the United States would `continue to dampen growth` and said he expected Huawei to remain on the blacklist in 2020
+即便如此，徐直军仍表示与美国的对抗将继续抑制增长，并称他预计2020年华为将继续被列入“实体清单”
+
+Difficulty is `the prelude` to greater success, and `adversity the whetstone of an iron-willed team`
+困难从来都是更大胜利的前奏，挑战更是坚强队伍的磨刀石
+
+Huawei, he said, will “`need to go all out`” to develop software and services that work with its smartphones
+他说，华为将“需要全力”开发与智能手机兼容的软件和服务
+
+The company’s shares are not `publicly traded` and it `has no obligation to` announce its results. `In a nod to transparency`, Huawei has long announced financials, and this year it began reporting unaudited results quarterly
+华为并未上市，因此没有公布财报的义务。为了提高透明度，该公司长期以来一直对外公布财务数据，并于今年开始公开了未经审计的季度财报
+
+The experience `struck a chord` for many Chinese white-collar tech employees, who are now `facing sagging returns` for long hours at the office
+此事也引起了中国科技行业许多白领员工的共鸣，他们同样面临着长时间加班却难以获得回报的困境
+
+Despite `the renewed focus` on Huawei’s famous `hard-charging corporate spirit`, Mr. Xu did not `mince his metaphors` in describing the company’s outlook on its employees
+尽管人们开始重新关注华为著名的“狼性”文化，但在描述公司对员工的期望时，徐直军没有拐弯抹角
+
+“Managers at all levels need to `put company interests above personal gain` and go where they are `needed most`, including hardship regions,” he wrote, calling those willing to `put up with` such difficulties “tree growers.”
+“各级干部要以公司大局为重，上火线、下战壕，到业务最需要的地方，到艰苦区域作战，”他这样写道，并承诺将把愿意“栽树并持续贡献的”人提拔上来
+
+“We will remove `mediocre managers` more quickly — people who have `lost their enterprising spirit`, who have `built their position on personal connections` or `empty and unactionable reporting`, and those who `prioritize short-term gains and pass problems on to` their successors,” he wrote, calling such people “`the pit-diggers` among us.”
+华为将“加快对平庸干部淘汰，坚决把不思进取、靠混关系、做报告坐上管理岗位、历史上挖过坑的干部撤下来”，他写道
+
+The Chinese book world is `cautiously optimistic` that `the partial trade truce` reached this month between Beijing and Washington will `break the logjam`
+中国出版界谨慎乐观地认为，本月北京与华盛顿之间达成的局部贸易停战将结束这一停滞局面
+
+People in the publishing industry `are reluctant to` discuss publicly which books have been `held up` for fear that Beijing will target them for speaking out. Many spoke `on condition of anonymity`
+由于担心被针对，出版业人士不愿公开讨论哪些书被搁置。许多人要求匿名
+
+“China and Japan,” about `the turbulent history` between the Asian giants by the `influential Sinologist` Ezra Vogel
+汉学大家傅高义(Ezra Vogel)的《中国与日本》(China and Japan)，关于两个亚洲巨人之间的动荡历史
+
+Still, publishing industry `insiders` describe `a near freeze of regulatory approvals`, one that could make the publishing industry reluctant to `buy the rights to sell American books` in China
+不过出版业的内部人士称，监管机构的审批几乎完全冻结，这导致出版业不愿意购买美国图书在华销售的版权
+
+His `autobiography` had been `scrubbed of mentions of` the Arab Spring protests and other material
+其自传中，提及阿拉伯之春抗议活动等内容的部分已被删除
+
+`Given the vast gulf` in understanding and communication between the U.S. and China, we should be worried about any `narrowing of the flow of information`
+鉴于中美两国之间在理解和沟通方面存在的巨大鸿沟，我们有理由担心信息流通的缩窄
+
+Peter Navarro, his `hawkish trade adviser`, was ready with `a flurry of arguments` against the move
+鹰派贸易顾问彼得·纳瓦罗已准备好用一系列的论点反对此举
+
+It was a familiar argument for Mr. Trump’s top trade adviser, who has spent the past three years `fanning the president’s protectionist instincts` and encouraging him to `embark on` a punishing trade war with China
+特朗普首席贸易顾问的论点并不令人陌生，过去三年，他一直煽动总统的保护主义本能，鼓励总统与中国开展惩罚性的贸易战
+
+Mr. Trump `dismissed Mr. Navarro’s concerns`, `opting for` an initial deal with China
+特朗普不理会纳瓦罗的担忧，选择与中国达成初步协议
+
+`What happens in the Oval should stay in the Oval`, both for `the sanctity and security` of the internal discussions and `for the good of the country`
+为了内部讨论的神圣性和安全性，也为了国家的利益，椭圆形办公室发生的事情不应外传
+
+An academic `with little previous government or business experience`, Mr. Navarro has `managed to exert enormous influence over` United States trade policy by `tapping into` the president’s `disdain for globalization`
+纳瓦罗是一位几乎没有政府和商业经验的学者，他利用总统对全球化的蔑视，成功对美国贸易政策施加了巨大影响
+
+For all the criticism he gets from `the free trade wing of` the Republican Party, he was one of the first people to `ring the alarm` on China years ago
+尽管共和党自由贸易派对他做出了各种批评，但他仍是多年前首先敲响中国警钟的人之一
+
+He’s helped `step up inspections` of Chinese packages to `crack down on online counterfeiting` and gotten involved with a project to `revive American shipyards`
+他帮助加强了对中国包裹的检查，以打击网络假冒产品，并参与了一个重振美国造船厂的项目
+
+You don’t need to be `a big bloated bureaucracy`. All you need be is `lean and flat and nimble` enough to `harness agency resources` for the president and his agenda
+你不需要成为一个臃肿的官僚机构。你需要做的就是精简、扁平化和灵活地利用机构资源，为总统和他的议程服务
