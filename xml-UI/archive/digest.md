@@ -57,7 +57,9 @@
     - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
     - [LiVES 视频编辑器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614985&idx=2&sn=a89937b425799b1d3fc24f30fda0c82c)
     - [Photoshop开源替代品](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615399&idx=3&sn=6c76f99079a1a2455a477fd40ce9ade4)
-    - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
+    - Ansible
+        - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
+        - [Ansible同步 GitHub和GitLab ](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615959&idx=3&sn=ef5a0bd487d682f384fdafe310f2c793)
 + 设计分析
     - [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
     - [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
@@ -200,7 +202,7 @@
 + [group by慢查询优化](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282530&idx=2&sn=56dea4f765888809b45f03e73c2dec01)
 + [数据库减负](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282242&idx=2&sn=ec9eea12cb00f6122dcd466168eca1ca)
 + [数据库中间件详解 ](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282330&idx=2&sn=993e620322085155f2544b895a3aa710)
-+ [2019上半年合集](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d)    
++ 2019精选合集[[***1***](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281866&idx=1&sn=489001936b4855c88bf7b32e738ebc9d), [***2***](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650283629&idx=1&sn=c1c4fa68d6ff86bc7690778c0adfef19)]
 + [数据建模工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=1&sn=90b5214abd6fae7f28b3ea775c830549)
 + [Leetcode-Database](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)
 + [数据库‘状态’字段设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485894&idx=1&sn=52f9c7de204e3debe6cb0252049c3378)
