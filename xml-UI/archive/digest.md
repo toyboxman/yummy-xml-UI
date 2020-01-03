@@ -99,7 +99,9 @@
      - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218296&idx=2&sn=997afa84580ce56cd95a5f60e6218b47)
 
 #### Web
-+ [Nginx反向代理](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217914&idx=2&sn=45f244835cf5f81d5fce175c8fc1abdb)
++ Nginx
+    - [Nginx反向代理](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217914&idx=2&sn=45f244835cf5f81d5fce175c8fc1abdb)
+    - [Nginx日志监控](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446330&idx=2&sn=f858b653048d40cd8b51de3fd623b10e)
 + [Authentication](https://swagger.io/docs/specification/authentication/)
     - Basic Authentication
 
@@ -165,6 +167,7 @@
     - [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)
     - [分布式锁解读](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282212&idx=2&sn=71659867ed0415421219f8cbd581d0ec)
     - [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
+    - [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247492519&idx=1&sn=9c7d68271f2fc5a1bf65b8309809b75f)
 + [技术选型](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017963&idx=1&sn=2f4da571976237ef4276f7afaced3c48)
 + [高并发系统的设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485740&idx=1&sn=df7b6f26efae178765841ae615b9b32d)
 + [数据迁移](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282269&idx=1&sn=05e22eff6aa577bab2c61fcd41c76991)
@@ -172,6 +175,7 @@
 + [缓存三大问题及解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=2&sn=481704a1ce0e205aaf0ec67b668f5bfd)
 + [Dubbo架构](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217330&idx=2&sn=f131d1dcdbc24838dc62c973081f74c6)
 + [日志实时数据聚合 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217862&idx=3&sn=78ef580a2227204a21e92a8a980edbdd)
++ [云计算分析](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218483&idx=1&sn=677118e58aa57e03df1d07d9938fe512)
 
 #### Database
 + [MySQL](db/mySQL.md)
@@ -179,6 +183,7 @@
     - [MySQL重要知识点](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650865584&idx=1&sn=61415dc17f2845bd1d1dc126659306e5)
     - [MySQL规范](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=1&sn=09e5454c9531cff382920692b48980aa)
     - [鸟瞰 MySQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282280&idx=2&sn=fdcea4fd03456374f711ec9038330b5f)
+    - [MySQL互联网常用架构方案](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650283572&idx=2&sn=13bfd0216f26d989ae39ea99f52eaf71)
     - [MySQL命令学习笔记](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650371249&idx=2&sn=90ac7ea2283db11c8a2f08cac35f8d38)
     - [MySQL 优化19条](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217344&idx=2&sn=eb047a4f1bfb481acecdd4c471ed8962)
     - [理解SQL](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282207&idx=1&sn=13e5649852c7921fc513df7c94de1bb8)
