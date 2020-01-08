@@ -18,8 +18,8 @@
 
 没有k8s之前， 上线一个新服务，只能通过运维团队处理，没有办法把任务切分给其他业务团队，这就是原始DevOps，包括以下这些工作:
 
-  + Configure DNS (often internal service layers and external public-facing)
-  + Configure load balancers (often internal services and public-facing)
+   + Configure DNS (often internal service layers and external public-facing)
+   + Configure load balancers (often internal services and public-facing)
 + Configure shared access to files (large NFS servers, clustered file systems, etc.)
 + Configure clustering software (databases, service layers, etc.)
 + Configure webserver cluster (could be 10 or 50 servers)
