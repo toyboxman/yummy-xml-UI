@@ -408,17 +408,7 @@ done
         - [RBAC访问实现](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218093&idx=3&sn=9b82ec2ace31b04165d350d90552748b)
 
 #### kubernetes
-- [Kubernetes 学习曲线](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c)
-    - [k8s简介](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615729&idx=1&sn=2c08423255bad3aa9005afa943960672)
-    - [配置Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
-    - [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
-    - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
-    - Kubernetes系列[ [2](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660650&idx=2&sn=0a7d468d92d58a683422796de938b29e),[3](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660702&idx=2&sn=caac340acbf9c4d22751f79e3c011024),[4](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660760&idx=3&sn=c66a40e21a26824b5a4fd3699c82cd9b) ]
-    - [Pod间容器通信 ](https://mp.weixin.qq.com/s?__biz=MzAwMDc2NjQ4Nw==&mid=2663495069&idx=1&sn=0dac4fead9cf936caa1adf0f62ab4162)
-```
-root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
-kubectl get ds -n kube-system
-```
++ [k8s](k8s.md)
 
 #### digest
 德国诗人海涅说，不要轻视观念的影响力，教授在沉静的研究中所培育出来的哲学概念可能颠覆一个文明。“海涅这句话是形容康德的，但是我认为用来形容马克思更为合适。马克思的墓前刻了两行字：哲学家们只是用不同的方式解释世界,而问题在于改变世界。但是大家有没有想过，马克思是通过什么方式去改变世界的？他是通过解释世界去改变世界的。”
