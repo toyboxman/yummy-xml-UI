@@ -4,12 +4,6 @@
 ### kubernetes
 + [解决什么问题](#problem-digest)
 + [如何使用](#use-digest)
-- [k8s简介](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615729&idx=1&sn=2c08423255bad3aa9005afa943960672)
-- [配置Kubernetes](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
-- [k8s配置工具](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
-- [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
-- Kubernetes系列[ [2](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660650&idx=2&sn=0a7d468d92d58a683422796de938b29e),[3](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660702&idx=2&sn=caac340acbf9c4d22751f79e3c011024),[4](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660760&idx=3&sn=c66a40e21a26824b5a4fd3699c82cd9b) ]
-- [Pod间容器通信 ](https://mp.weixin.qq.com/s?__biz=MzAwMDc2NjQ4Nw==&mid=2663495069&idx=1&sn=0dac4fead9cf936caa1adf0f62ab4162)
 
 ---
 
@@ -33,12 +27,18 @@
 
 Kubernetes可以解决那些问题可以看看
 + Kubernetes 学习曲线[[1](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614519&idx=2&sn=924123937683f49e79fca00c71a4463c), [2](https://opensource.com/article/19/6/kubernetes-basics)]
++ [k8s简介](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615729&idx=1&sn=2c08423255bad3aa9005afa943960672)
++ [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
++ Kubernetes系列[[2](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660650&idx=2&sn=0a7d468d92d58a683422796de938b29e),[3](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660702&idx=2&sn=caac340acbf9c4d22751f79e3c011024),[4](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660760&idx=3&sn=c66a40e21a26824b5a4fd3699c82cd9b)]
++ [Pod间容器通信 ](https://mp.weixin.qq.com/s?__biz=MzAwMDc2NjQ4Nw==&mid=2663495069&idx=1&sn=0dac4fead9cf936caa1adf0f62ab4162)
 
 #### use-digest
 + k8s怎么用
 
 Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑的操作，下面是一些关于简单使用学习的文章
-+ [4 tools for k8s](https://opensource.com/article/19/6/tools-drive-kubernetes)
++ [Ubuntu MicroK8s运行Kubernetes环境](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
+    MicroK8s需要通过snap install安装到ubuntu vm上，国内安装速度较慢。替代使用[k3s](https://k3s.io/)或[Minikube](https://github.com/kubernetes/minikube)
++ [4 tools for k8s](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
 + [ansible自动化部署k8s](https://github.com/easzlab/kubeasz)
 
 ```

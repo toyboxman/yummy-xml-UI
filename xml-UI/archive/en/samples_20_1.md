@@ -135,3 +135,6 @@ He’s helped `step up inspections` of Chinese packages to `crack down on online 
 
 You don’t need to be `a big bloated bureaucracy`. All you need be is `lean and flat and nimble` enough to `harness agency resources` for the president and his agenda
 你不需要成为一个臃肿的官僚机构。你需要做的就是精简、扁平化和灵活地利用机构资源，为总统和他的议程服务
+
+VMware, `the jewel in the crown` at Dell Technologies, is one of the cheapest tech stocks you can buy right now
+VMware公司是Dell旗下如同王冠上的宝石，一个最便宜的你能够现在投资的技术股票
