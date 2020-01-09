@@ -138,3 +138,87 @@ You don’t need to be `a big bloated bureaucracy`. All you need be is `lean and 
 
 VMware, `the jewel in the crown` at Dell Technologies, is one of the cheapest tech stocks you can buy right now
 VMware公司是Dell旗下如同王冠上的宝石，一个最便宜的你能够现在投资的技术股票
+
+But TikTok’s popularity and its roots in China, where no large corporation can `thrive outside the good graces of the government`, have `prompted intense scrutiny` of the app’s content policies and data practices
+但是TikTok源于中国，在那里，任何一家大公司没有获得政府的好感是难以茁壮成长的，加之TikTok的流行程度，这促使人们对该应用程序的内容政策和数据实践进行了严格审查
+
+TikTok agreed to pay $5.7 million to `settle the complaint` and said it would `abide by` COPPA(Children’s Online Privacy Protection Act)
+TikTok同意支付570万美元达成和解，并表示将遵守《儿童在线隐私保护法》
+
+Dinat Yur `is fed up with living` in a place where `winters drag on` for six months and the average `annual temperature is below freezing`
+迪纳特·尤尔也厌倦了生活在这样一个地方：冬季长达六个月，年平均气温低于冰点
+
+`Born and raised in` a city proud of `its resilience against climatic` and `all other odds`, Mr. Yur has for the moment found `his calling in a defiantly contrarian occupation` for a place so cold: He makes ice cream
+尤尔出生并成长在一个以抵御恶劣气候和其他种种不利因素为荣的城市，如今，他的使命是在一个这么冷的地方从事一项一反常规的事业：制作冰淇淋
+
+He `was hard at work` mixing milk, sugar and `a raspberry mush imported` from Italy to produce `a summery swirl of frozen gelato`
+尤尔在辛勤地劳作着，把牛奶、糖和意大利进口的覆盆子糊做成一个充满夏日风情的意式冰激凌漩涡
+
+Eating his `confections outside` during winter, Mr. Yur `conceded, is not a good idea` — they quickly turn to `teeth-cracking chunks of ice`
+尤尔承认，冬天在室外吃他的甜品不是什么好主意——它们很快就会变成能崩碎牙齿的大冰块
+
+Russia’s `curious love affair with ice cream` has long been a subject of `theorizing about` how a country `plagued by such terrible weather` and other `miserable conditions` `manages to keep going`, `prevailing over seemingly unsurmountable hurdles`
+长期以来，人们一直在试图理解，一个如此饱受恶劣天气和其他恶劣条件折磨的国家，是怎么克服看似无法逾越的障碍努力前行的，而其国民对冰激凌的热爱就是课题之一
+
+`Particularly popular in Russia is a story`, probably `apocryphal`, about a visit to Moscow in the winter of 1944 by Winston Churchill
+在俄罗斯流行着一个可能是杜撰的故事，1944年冬天温斯顿·丘吉尔访问莫斯科
+
+Moscow, however, has winters that usually `hover in the 20s Fahrenheit` — meaning that Magadan is `pushing the limits of this against-the-odds spirit`
+然而，莫斯科的冬天通常在零下六摄氏度左右徘徊——这意味着马加丹是在挑战这种不畏困难精神的极限
+
+Only Russians never rushed to Magadan; they `were dragged there`. The only `recent rush has been to the exit`. Young people particularly are `making a run for it, a stampede`
+只是俄罗斯人并不是涌向马加丹，而是被拖到那里去的. 最近，那里唯一的热潮是人们竞相离开的浪潮. 年轻人尤其心急
+
+`Aside from its bleak weather` and even bleaker history, Magadan is, `if truth be told`, no worse — and `in some respects better` — than many provincial Russian towns
+说实话，除了荒凉的天气和更荒凉的历史，马加丹不比许多俄罗斯地方城镇差，并且在某些方面还更好
+
+`Another plus` is climate change, which is `making winters somewhat milder`
+还有个加分项是气候变化让这里的冬天稍微没那么可怕了
+
+But for many people in Magadan, the end of the Soviet Union meant `economic ruin`. The `slashing of` Soviet-era subsidies `sent Magadan salaries tumbling`
+但是对于马加丹州的许多人来说，苏联的解体意味着经济的崩溃。苏联时期的补贴被大幅削减，使马加丹的薪水大跌
+
+Mr. Putin, though, has `done the opposite`, stressing the importance of `keeping remote northern outposts alive`, `no matter the cost`. His `calculations include` security, patriotic pride in Russia’s reach, and economics: Most of Russia’s `natural resources lie beneath the ice` and snow of places like Magadan and the nearby wilds.
+不过，普京却做了相反的事情，他强调不计代价保住这个偏远的北部居住地的活力。他的筹算包括安全，对俄罗斯的爱国自豪感和经济因素：俄罗斯的大部分自然资源都位于马加丹和附近野外的冰雪覆盖下
+
+Government subsidies also help keep `the interest rate on mortgages` in town much lower than in warmer parts of Russia
+政府补贴还有助于使当地城镇抵押贷款的利率保持在远低于俄罗斯温暖地区的水平
+
+While Magadan `is blessed with` rich supplies of gold, silver and other natural resources, conditions are `so harsh that` some economists still question
+尽管马加丹拥有丰富的黄金、银和其他自然资源，但条件如此恶劣，以至于一些经济学家仍在质疑
+
+To `lift flagging spirits`, municipal buses `are emblazoned with a defiant statement` of the city’s will to survive: “Magadan was, is and will be.”
+为了振作精神，公交车上醒目地展示着对城市生存意愿的抗争声明：“马加丹有曾经，有现在，也有未来。”
+
+The phrase `borrows, inauspiciously, from a less-than-successful Soviet-era slogan` once plastered across the country: “Lenin lived, lives and will live!”
+这句话不太吉利地借用了曾经在全国范围宣传的、不太成功的苏联时代口号：“列宁活在过去，活在现在，也将永远活在未来！”
+
+For days, Li Bin `had what felt like a cold`, with a high fever of between 102 and 105
+几天来，李斌一直感冒，高烧在38.8到40.5度之间
+
+A doctor told him he had `a form of viral pneumonia`, without offering `specifics`. Mr. Li, 42, was hospitalized, then transferred to another facility and `quarantined with` other patients who had similarly unexplained symptoms
+医生告诉他，他患有某种形式的病毒性肺炎，但没有提供具体信息。42岁的李斌住院后，被转移到另一家医院，与其他有相似症状、病因不明的患者一起隔离
+
+The cases have `alarmed Chinese officials`, who are `racing to unravel the mystery` behind them in a region where the memory of an outbreak of `the dangerous respiratory disease` known as SARS `remains fresh`
+这些病例使中国官员感到担忧，他们正在努力找出这些神秘病例背后的原因，在该地区，被称作SARS的危险呼吸道疾病爆发的记忆还历历在目
+
+Symptoms of the new illness include high fever, `difficulty breathing and lung lesions`, the city government said they had `ruled out` as causes SARS, the Middle East Respiratory Syndrome (MERS), bird flu and the adenovirus
+新疾病的症状包括高烧、呼吸困难和肺部病变, 市政府表示，他们已经排除了SARS、中东呼吸综合征(MERS)、禽流感和腺病毒病原
+
+Experts have said `contact with infected animals` was `the likeliest source of transmission`
+专家说与被感染动物的接触是最可能的传播来源
+
+Those `strains are particularly evident` in `the convenience store` industry. Japan’s `chains` have greatly expanded in recent years `in an effort to` capture market share at one another’s expense
+这些压力在便利店行业中尤为明显。近年来，日本的连锁店已极速扩展，为了市场份额展开你死我活的竞争
+
+While the expenses for the chains were minimal, the expansion `took a toll on the franchisees` who operate the vast majority of Japan’s more than 55,000 convenience stores
+连锁企业的支出微乎其微，但扩张却给加盟商造成了损失，他们经营着日本5.5万多家便利店的绝大部分
+
+Even back then, I `was preoccupied with` store operations, worrying about `sudden cancellation by part-time workers`. I had to hold a mobile phone while I `soaked in a spa`
+即使在那时，我也得全神贯注于商店运营，担心兼职员工突然不来了。泡温泉时还必须得拿着手机
+
+`Supportive customers have shown up to shop` among his remaining inventory, which includes snacks, instant noodles, `stationery items, detergents and cosmetics`
+支持他的客人来到店里，在他剩余的存货中购买东西，其中包括零食、方便面、文具、清洁剂和化妆品
+
+I just want to `disclose everything` in my case. I believe `the justice will be given`. That is why, he said, he plans to `fight to the bitter end.`
+我只想公开我的全部情况。我相信会得到公正的对待. 他说，这就是为什么他打算战斗到最后一刻
