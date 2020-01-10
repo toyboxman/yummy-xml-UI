@@ -105,10 +105,6 @@
     - [Man](#man)
         - [cheat/tldr](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446027&idx=1&sn=6c2a457270a42ef03392a9f142ae55d4)
     - [Make](#make)
-        - [RPM 包初窥](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=1&sn=010147fe09f855ce0e579925041ce392)
-        - [Autotools](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)]
-        - [RPM 制作](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615524&idx=1&sn=2ecec73ef961e236d9fc1f2437edbf4c)
-        - [RPM的spec文件](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615544&idx=2&sn=29fd8892ba2bc9e1d1264893c699064e)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [Nohup](#nohup)
@@ -715,7 +711,13 @@ man -E GB2312 nc
 ```
 
 #### make
-make命令用来在Linux平台上手动编译安装软件包, 还可以用[Autotools 打包DEB 和 RPM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)
++ [Autotools 打包DEB 和 RPM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)
++ [RPM 包初窥](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=1&sn=010147fe09f855ce0e579925041ce392)
++ [Autotools](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)]
++ [RPM 制作](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615524&idx=1&sn=2ecec73ef961e236d9fc1f2437edbf4c)
++ [RPM的spec文件](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615544&idx=2&sn=29fd8892ba2bc9e1d1264893c699064e)
+
+make命令用来在Linux平台上手动编译安装软件包, 其他打包工具还包括rpm/dpkg    
 ```console
 # compile and install
 ./configure
@@ -730,6 +732,17 @@ sudo make uninstall
 sudo make distclean
 sudo make clean
 ./configure --prefix=/usr
+```
+dpkg命令用来[操作deb](https://blog.packagecloud.io/eng/2015/10/13/inspect-extract-contents-debian-packages/)类型文件
+```console
+# -c --contents  to list deb package stuff
+dpkg -c install_amd64.deb
+
+# -x to extract deb package instead of installtion
+# ar - create, modify, and extract from archives
+ar -x install_amd64.deb
+# dpkg-deb - Debian package archive (.deb) manipulation tool
+dpkg-deb -x ./path/to/test.deb ./path/to/destination
 ```
 
 #### ssh
