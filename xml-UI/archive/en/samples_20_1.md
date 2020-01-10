@@ -222,3 +222,47 @@ Even back then, I `was preoccupied with` store operations, worrying about `sudde
 
 I just want to `disclose everything` in my case. I believe `the justice will be given`. That is why, he said, he plans to `fight to the bitter end.`
 我只想公开我的全部情况。我相信会得到公正的对待. 他说，这就是为什么他打算战斗到最后一刻
+
+Water is pretty boring, `as far as beverages go`. It doesn’t `have a catchy jingle`, a secret `family recipe` or even a taste, really. Yet people can’t `seem to get enough of it`
+水是一种没什么意思的饮品。没有关于水的广告口水歌，没有水的家传秘方，它甚至连味道都没有，真的。可是人们好像怎么喝水都不够
+
+Another warns that if you `feel thirsty`, you’re already `dehydrated`
+还有一种建议警告说，如果你感到口渴，说明你已经脱水了
+
+Feeling `sluggish`? You probably need more water. `Uninspired and utterly hopeless` about your career and `romantic prospects`? Well, have you had any water today?
+觉得疲惫吗？你可能需要更多的水。事业和恋爱毫无灵感和希望？嗯，你今天喝水了吗？
+
+People `hydrate as if` their reputations depend on it. They `dutifully carry water bottles` with them wherever they go, `draining and refilling them with gusto`
+仿佛补水是一个关乎个人名誉的事。无论走到哪里，他们都忠实地随身携带水瓶，兴致勃勃地喝完水再灌满
+
+A study published in 2015, of `72 male subjects`, found that `full-fat milk, skim milk` and orange juice kept people more hydrated than still water did
+2015年发表的一项针对72名男性受试者的研究发现，全脂牛奶、脱脂牛奶和橙汁比饮用水的补水效果更好
+
+`It’s no accident that` it’s No. 1, If you had to `put together a perfect scenario` and plan how to build a category this would have been it
+它成为第一绝非偶然，这是建立完美场景，建立商品类别的好例子
+
+In the 1970s, `ad campaigns` by Evian and Perrier introduced the concept of bottled water as `a high-end refreshment beverage`
+1970年代，依云(Evian)和巴黎水(Perrier)的广告宣传引入了瓶装水概念，把它作为一种高端的、令人恢复活力的饮品
+
+While consumers may have begun to `curb their intake` of `caffeinated or sugary beverages`, they `had no reason to` put a limit on `zero-calorie, thirst-quenching water`. And they were carrying it around with them, `on the go`
+消费者可能会限制摄入咖啡因或含糖饮料，但他们没有理由限制零卡路里且解渴的水。他们去哪里都带着水
+
+As `single-use plastic` water bottles `proliferated`, an `environmentally conscious response` emerged: reusable water bottles
+随着一次性塑料水瓶的普及，可重复使用的水瓶这一环保意识也随之兴起
+
+Water is a `go-to remedy` for a variety of `ailments`: exhaustion, headaches, `digestive problems, inflammation`, dry skin, `acne`.
+水是治疗各种疾病的首选灵丹妙药：疲劳、头痛、消化不良、炎症、皮肤干燥、痤疮
+
+`Still`, many consumers treat water like `an anti-aging potion`
+尽管如此，许多消费者仍将水视为抗衰老的神物
+
+Water `appears immune` to claims that its benefits are `overblown` — we need it to survive, after all. Its benefits have even become `a meme`. 
+无论怎么说水的益处被夸大了，似乎都不会影响它——我们毕竟确实需要水才能生存。它的好处甚至成为了一种米姆
+
+There are social media accounts dedicated to `berating their followers` for not drinking enough water
+有一些社交媒体账号专门用来斥责关注者没有补充足够的水
+
+Coffee is a `hydrating beverage`, If you’re drinking it, `let go of the guilt`. Enjoy it
+咖啡是一种补水饮料，如果你喝了，就不要有负罪感。享受它
+
+
