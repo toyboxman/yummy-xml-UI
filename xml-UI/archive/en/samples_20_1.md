@@ -265,4 +265,101 @@ There are social media accounts dedicated to `berating their followers` for not 
 Coffee is a `hydrating beverage`, If you’re drinking it, `let go of the guilt`. Enjoy it
 咖啡是一种补水饮料，如果你喝了，就不要有负罪感。享受它
 
+One friend `gutted her downstairs bedroom` to `house five of the kangaroos`. Ms. Pulis has kept the youngest joeys `in quilt pouches `in another’s living room
+一位朋友把楼下卧室清空，安置了5只袋鼠。普利斯将最小的幼袋鼠们放在另一个客厅的棉布袋里
 
+As wildfires have killed at least 24 people, destroyed more than 1,400 homes and `ravaged 15 million acres`, they have also `inflicted a grievous toll` on Australia’s `renowned wildlife`
+野火已经造成至少24人丧生，1400多所房屋被毁，6万平方公里的土地遭到破坏，而且对澳大利亚著名的野生动植物造成了惨重的损失
+
+`Quilters` in the Netherlands have `made mittens` for koalas with burned paws. New Zealanders are `stitching joey pouches and bat wraps`
+荷兰的棉纺织者为爪子烧伤的考拉制作了手套。新西兰人正在缝制幼袋鼠布袋和蝙蝠襁褓
+
+Some experts have `been dubious of` the high numbers that have spread widely on social media, which are based on estimates of `population densities of mammals`, birds and `reptiles` from previously published studies
+一些专家对社交媒体上广泛传播的巨大数字表示怀疑，这些数字是从先前发表的研究中基于哺乳动物，鸟类和爬行动物的种群密度估算出来的
+
+`The death toll is arrived at` by multiplying the number of animals expected to inhabit a given area by the total acreage burned.
+死亡数字是用给定区域的预估动物数量乘以过火面积
+
+A video taken by a reporter showed `the scorched corpses` of sheep and cows `strewn along a highway`. `Carcasses` like these have raised biological fears around the country
+记者拍摄的一段视频显示，沿公路散落着烧焦的绵羊和母牛的尸体。这样的残骸在全国引起了人们对生物安全的恐慌
+
+Farmers had to `put down burned livestock` at a time when drought had already made `earning a living` nearly impossible
+在干旱已经使人们几乎无法谋生的时候，农民不得不杀死被烧伤的牲畜
+
+Farmers in the nearby town of Bairnsdale said that `a cattle sale was planned` Thursday to `unload their remaining livestock`, some of which may be injured
+附近城镇拜恩斯代尔的农民说，计划于周四进行家畜售卖，倾销剩余的牲畜，其中一些可能受了伤
+
+Around the country, people have `banded together` to help feed, find and `rehabilitate survivors`
+在全国各地，人们团结起来，帮助养活、寻找幸存动物，协助它们的康复
+
+Americans would `be wise to brace for` war with Iran. `Full-scale conflict` is not a certainty, but the probability is higher than at any point in decades
+美国最好为与伊朗的战争做好准备 全面冲突并不一定会发生，但它的可能性比几十年来的任何时候都要高
+
+Instead, `predictably, it induced` Tehran to `lash out with` a series of increasingly `bold military provocations` against Sunni Arab and Western targets while restarting `important aspects` of its nuclear program
+相反，可以预见的是，它促使德黑兰重新启动了其核计划的重要部分，同时对逊尼派阿拉伯人和西方目标进行了一系列日益大胆的军事挑衅
+
+`In deciding to` eliminate General Suleimani, Mr. Trump and his team argue they were acting `in self-defense` to `thwart imminent attacks` on Americans in Iraq and the region
+对于除掉苏莱曼尼将军的决定，特朗普和他的团队辩称，他们是在自卫，以制止即将对身在伊拉克和该地区的美国人发起的袭击
+
+Even in this `critical instance`, the administration `failed to brief, much less consult`, bipartisan leaders in Congress
+即使在这个关键时刻，本届政府也未能向国会的的两党领袖通报情况，更不用说征求意见了
+
+To `assess the fallout` of killing General Suleimani, we must understand that the Iranian regime cannot survive internal dissent or sustain its powerful position in the region if it `backs down from` this provocation
+为了评估杀害苏莱曼尼将军的后果，我们必须了解，如果伊朗在这次挑衅面前退却，伊朗政权将无法承受内部的分歧或维持在该地区的强大地位
+
+`There is no hope` now to `revive, much less strengthen`, the Iran nuclear deal
+现在已经没有希望恢复——更不用说加强——伊朗的核协议了
+
+When Iran does respond, its response will likely be `multifaceted` and `occur at unpredictable times` and in multiple places
+当伊朗真正做出回应时，可能会是多方面的，并且会在不可预测的时间和多个地方发生
+
+Oil prices `rattled skittishly`, everyone suddenly monitored ships, and headlines `speculated that` Israel might attack Iran’s nuclear sites
+油价波动不定，各方都突然跟踪船只往来，新闻大标题都是对以色列可能攻击伊朗核设施的猜测
+
+My `piece featured scenes` of `distraught young people` gathering on crowded `intersections singing the national anthem` — suddenly everyone a terrified Iranian citizen rather than an `aspiring guitarist` or a `day laborer`
+我在文章中展现的场景是心神狂乱的年轻人聚集在拥挤的十字路口唱国歌，大喊大叫的妈妈从超市买奶粉囤积——突然间，每个人都成了惊恐的伊朗公民，而不是有志成为吉他手的人、打短工的人
+
+The American-backed 1953 `coup` destroyed both my grandfather and `great uncle’s careers`, until then in service of the government, and `sent the latter into exile`
+1953年美国支持的伊朗政变，摧毁了原本在政府工作的祖父和叔祖父的职业，后者被迫流亡
+
+In the 1980s, Iran `cultivated regional groups and militias hostile` to Washington, and encouraged them to take Westerners hostages and staged attacks through these networks
+20世纪80年代，它扶植与华盛顿有敌意的地区组织和民兵，鼓励他们劫持西方人作人质，并通过这些网络发动袭击
+
+He was `a pivotal figure` in `vanquishing` the Islamic State, helping `repel its rapid march` across Iraq in 2014. In Syria, for the many Syrians who `endured the industrial-scale brutality` of the Assad regime, the general led what could only be understood as an offensive force
+他是击败伊斯兰国的关键人物，在2014年帮助击退了伊斯兰国在伊拉克的快速挺进。在叙利亚，对于许多忍受了阿萨德政权工业化规模暴行的叙利亚人来说，这位将军领导的是一支只能被理解为进攻性的力量
+
+It is for `these maneuvers`, `in part to provide Iran some deterrence` against relentless American hostility, that General Suleimani is remembered
+这些策略部分是为了给伊朗提供一些抵抗美国无情敌意的威慑，苏莱曼尼正是因为这些策略而被人铭记
+
+He had become `a patriarch` for an `ambivalent country adrift, forgiven`, at least by the hundreds of thousands who `turned out` for his funeral
+他已成为一个充满矛盾、漫无目的的国家德高望重的长者，至少那些参加了他葬礼的几十万人宽恕了他指挥那支力量时过分强硬的做法
+
+Even the reformist cleric Mehdi Karroubi, `an octogenarian` who `is confined under permanent house arrest, issued condolences`
+甚至已被永久软禁的改革派教士、八十多岁的迈赫迪·卡鲁比也表示了哀悼
+
+`In other words`, Trump’s latest attempt to bully another country `has backfired` — just like all his previous attempts.
+换句话说，特朗普最近霸凌另一个国家的企图适得其反——就像他之前的所有事情一样
+
+Trump has `acted on the apparent belief` that he could easily `intimidate foreign governments` — that they would `quickly fold` and allow themselves to `be humiliated`
+特朗普的所作所为就是基于这样一个显然的信念：他可以轻易恐吓外国政府——他们会很快屈服，任凭他蒙羞
+
+But this strategy keeps failing; the regimes he threatens are `strengthened rather than weakened`, and Trump is the one who `ends up making humiliating concessions`
+但这种策略一直失败；他所威胁的政权得以加强，而不是遭到削弱，最终做出丢人现眼的让步的是特朗普自己
+
+Or consider the trade war with China, which was supposed to `bring the Chinese to their knees`
+或者想想同中国的贸易战，它的本意是让中国人屈服
+
+`Ask yourself`, how would Americans have reacted if a foreign power had `assassinated Dick Cheney`, claiming that `he had the blood of` hundreds of thousands of Iraqis on his hands?
+扪心自问，如果一个外国势力暗杀了迪克·切尼，声称他手上沾有成千上万伊拉克人的鲜血，美国人会作何反应
+
+Even more important, however, was the fact that America was something more than a big country `throwing its weight around`. We always `stood for something larger`
+然而，更重要的是，美国并非只是一个到处发号施令的大国。我们一直在捍卫的是某种更大的东西
+
+Trump officials `seem taken aback` by the uniformly negative consequences of the Suleimani killing. But that’s what happens when you `betray` all your friends and `squander all your credibility`
+特朗普的官员们似乎对苏莱曼尼被杀带来的一边倒的负面后果感到吃惊。但是，背叛自己所有的朋友，挥霍自己所有的信誉，就是会导致这样的后果
+
+Trump, however, has `turned his back on everything` that used to make America great. Under his leadership, we’ve become `nothing more than a big, self-interested bully`
+然而，特朗普却抛弃了所有曾经让美国伟大的东西。在他的领导下，我们变成了一个自私自利的大恶霸
+
+Oh, and because we `were committed to enforcing rules`, we were also `relatively trustworthy`
+哦对了，由于我们致力于执行规则，我们也会相对值得信赖
