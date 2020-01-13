@@ -791,12 +791,316 @@ it's well `within the bounds of possibility`，even `plausibility`
 The government has `pledged to inject` nearly $150 million into the company. 
 政府承诺向该公司注入近1.5亿美元的资金
 
-the advocates of `political pluralism`    `political stand`
-倡导政治多元化     政治立场
+the advocates of `political pluralism`    `political stand`  `pour into streets`
+倡导政治多元化     政治立场  涌向街头
 
 They `poked holes` in his `go-to talking point` about the $1 million loan 
 他们戳穿了他对那项100万美元贷款的常用说法
 
 news media `portrayed the meeting`  `crude meddling` in China’s `internal affairs`
 新闻媒体呈现会晤    对中国内政的粗暴干涉
+
+he `possesses a blue-ribbon political pedigree`  `precursor trips`   `predatory practices`
+他这种拥有根正苗红的政治血统    先行访问   掠夺性行为
+
+a `pothole epidemic` turns the streets into `embarrassing mess`   `press freedom`
+坑坑洼洼的街道让城市令人尴尬，变得一团糟   新闻自由/出版自由
+
+Korea transformed into an `economic powerhouse`  `set a precedent`
+韩国变成一个经济强国  设定先例，开先河
+
+while mao `promoted class struggle` and deng `embraced pragmatic capitalism`
+毛提倡阶级斗争，邓拥抱实用的资本主义
+
+`presumably` the future king  `a pristine stretch` of ocean
+很可能的未来国王    一片未开发的狭长海域
+
+`preternatural sensitivity` to emotions and behavior   `pro rata`
+对感情和行为超自然的悟性  按比例的/adv.成比例
+
+`profligate lending` can worsen relations with other countries rather than help them
+肆意挥霍的借贷会令国家间关系恶化而不是促进
+
+`prohibitively high` tuition   `propaganda department`
+高的望而却步的学费   宣传部
+
+US proposed temporarily dividing the country along `the 38th Parallel`
+美国提出暂时沿38线划分朝鲜
+
+`his faction propounded`   `prosaic industries`
+他的一派提出    平凡的行业
+
+the city of `prose and fantasy`，of capitalist automatism，its streets `a triumph of cubism`
+散文和幻想之城，资本主义自动主义之城，这里街道是立体主义的胜利
+
+such positions are `provocative`   `punitive measures` 
+这样的立场是煽动性的   惩罚措施
+
+`burst of diplomacy punctuated` by nuclear tests
+外交突破时不时被核试验打断
+
+Japanese imperial `puppet state`    
+日帝国的傀儡政府  
+
+`quid pro quo`            `quasi`
+补偿物/交换条件    adj.准的类似的/adv.几乎似乎是
+
+was there `a quid pro quo`    `ransomware`
+这有没有交换条件      勒索软件
+
+he has `railed against` the country for weakening its currency 
+他曾指责对手故意令货币贬值
+
+`rarely do dogs get to be dogs`
+狗几乎不再是狗
+
+`ideological reactionary`    `realpolitik consideration`
+意识形态反动派     现实政治考量
+
+confident，reasonable，`willing to bargain`
+自信，讲道理愿意交易
+
+he `reasserted sweeping supremacy`
+他重申绝对的控制权
+
+in `an apparent rebuke of` president
+明显在指责主席
+
+`informer recanted`
+告密者公开认错
+
+leaders `recoiled from relaxation`
+领导人收缩宽松政策
+
+she `recuses herself from` the case
+她回避该案
+
+`redouble efforts to do `
+加倍努力做
+
+`highly regarded` historians
+享有盛誉的史学家
+
+`rein in` the growth of wealth management products
+控制理财产品增长
+
+`reinforce the point` to China that `our resolve` is strong
+向中国强调我们决心坚定
+
+`reinvent itself `at critical moments to survive
+在关键时刻重获新生
+
+using visit to `reinvigorate ties`   `food-delivery`
+利用访问来重振两国关系     外卖
+
+Fred Trump was `relentless and creative` in `finding ways to channel` this wealth to his children 
+弗雷德·特朗普殚精竭虑、千方百计把这笔财富转移给子女
+
+`renege on` these terms    `fear of reprisals`    `revolving door`
+违背这些条款         担心报复         旋转门
+
+we do not `hide feelings of repugnance` towards him
+我们不掩饰对他的厌恶
+
+`resent an arrangement`   `revamp the service`
+憎恨这个安排          整改该服务
+
+`this disconnect reveals a rift` within the Pro-democracy camp
+这种脱节暴露出民主派阵营内部的分歧
+
+`right-hand man`   `risk-taking behavior`  `roil politics` 
+左膀右臂的人     冒险行为          撼动政治
+
+pressures on private businesses could `create serious ripples.`
+民营工商业受挤压可能造成严重的后果
+
+journalist `was roughed up` and detained，while covering `the disciplinary hearing`
+在报道惩戒听证会时，记者遭到粗暴对待和拘留
+
+`is rumored to do`  `run-ins with system`
+据传做什么       与系统有冲突
+
+`highest rung` of power    `sap strength`
+最高政治地位        削弱实力
+
+we are `deeply saddened` by and sorry about the tragedy
+我们感到万分悲痛与愧疚
+
+`cast himself as the salvation` of both party and nation
+把自己当成党和国家中兴者
+
+`forerunners` sanctioned slavery
+祖先准许奴隶制
+
+the details have `been scant`
+但细节尚不清楚
+
+`the scars` from that time `were deeply felt`
+那个时代留下伤痕挺深
+
+`the scenic approach` to Windsor Castle
+通往温莎城堡风景优美的路
+
+he was involved in `two bribery schemes`
+他参与了两起贿赂计划
+
+`political schism deepens`   `scorched earth`
+政治分歧加深   焦土策略
+
+`scorn for the party`   `sedition charges`
+对政党的蔑视    煽动指控
+
+`advocate varying degrees of self-determination`
+主张实现不同程度自治
+
+Trump won the presidency `proclaiming himself a self-made billionaire `
+特朗普以一个白手起家的亿万富翁的形象赢得了总统大选
+
+`seminal work`    `sensational stories`   `shake-up`
+重要工作       骇人听闻的故事   人事改组
+
+`set the stage` for decades of tension
+为数十年的紧张关系埋下伏笔
+
+`set the tone` for Soviet-American rivalry
+为美苏竞争奠定了基调
+
+he killed himself by `severing the arteries in his legs`
+他切断腿部动脉自杀
+
+He and his siblings `set up a sham corporation` to `disguise` millions of dollars in gifts from their parents 
+他和他的兄弟姐妹们成立了一个皮包公司，用以遮掩父母赠送给他们的成百上千万美元
+
+`a sheen of permanence`
+永久的光辉
+
+`art center of gravity shifts toward Asia`
+艺术重心向亚洲转移
+
+`shine a light on` darkest secrets
+揭开最黑暗的秘密
+
+`high heart rate`   `shortness of breath`
+心跳加速     呼吸短促
+
+a plan `sends shudders` through `policy circles`
+计划让政策圈感到震惊
+
+the north not only `shunned the 1988 summer Olympic` but also tried to disrupt the games
+朝鲜不仅抵制88年奥运而且试图扰乱比赛
+
+`shuttered the company's business` and put tens of thousands of jobs at risk
+关停公司业务，致危及数万工作
+
+that idea `is under siege`   `border skirmish`
+这个观念正被围攻    边境冲突
+
+Korea `singled out him` for criticism
+朝鲜单挑出他批评
+
+`sit back and watch` as interests get hurt
+坐视利益受损
+
+I `sit down to` many movies `featuring dogs`
+我看了许多狗参演的电影
+
+`is sketchily understood` from China's point of view
+从中国的角度获得粗略的认识
+
+librarians `skilled at deflecting the inquiries`
+图书管理员很善于劝阻询问
+
+Such statements are wrong and `slanted `
+那些说法论调都是错误的片面的
+
+`slapstick comedy`      `smoldering crisis`
+闹剧/低级喜剧        积聚的批评
+
+`less visible` than `sleek modern skyscrapers`
+与光鲜亮丽现代摩天大楼比更不为人所见的是
+
+Beijing has `been smothered by sandstorm`
+北京笼罩在沙尘暴中
+
+`jailhouse snitch`  `soft spot`
+监狱告密者     弱点
+
+the deal `soothed fears`
+该协议缓和了担忧
+
+`rightful sovereign`   `spoiler`   `stagecraft`
+合法主权  剧透者   编剧才能/演出技术
+
+city `was subjected to` the sovereign of China
+受到中国的主权统治
+
+her furture `sparkled with promise`
+她前途一片光明
+
+they `spoke of `a need for free trade
+他们提到自由贸易的需要
+
+the subject of `agitated speculation` for weeks `leading up to` the wedding
+婚礼前几周激烈讨论的话题
+
+the spacecraft is `slowly spinning`
+航天器正慢速旋转
+
+began as `a spoil of bloody conquests`
+以血腥的征服开始
+
+journalists `spotted honor guard`
+记者们发现仪仗兵
+
+`take a tough stance`    `stand up to pressure` 
+采取强硬立场    经受压力/扛住压力
+
+she `stood apart from Diana`
+她和戴安娜很不一样
+
+`stand-ins` for emotions and sentiment
+情感和情绪的替身
+
+`starchy academic`  `stark example`
+古板的学者    明显的例子
+
+`start off fast`   `global statesman`
+快速开始      国际政治家
+
+`the most startling moments` came with `the sermon`
+最让人震惊的时刻是布道
+
+he said `in a calm，steady voice`
+他用平静而坚定的语气说
+
+Some of the government’s `efforts stem from necessity `
+政府的某些做法源于需要
+
+we need to `step up to win the trust` of our users
+我们辜负了用户的信任(需要增强赢得信任)
+
+the past five years have `been really stifling`
+这五年特别压抑的
+
+`ride the wave of credit stimulus`
+乘着信贷刺激的浪潮
+
+`stint running`
+担任过/管理一段时间
+
+`stray dog`
+流浪狗
+
+`strengthen/dilute control`
+加强/削弱控制
+
+`stretch the bounds of convention`
+打破常规限制
+
+`strident nationalism`
+聒噪的民族主义者
+
+`stringent media censorship`
+严格的媒体审查
+
 
