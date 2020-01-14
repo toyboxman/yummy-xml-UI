@@ -1103,4 +1103,262 @@ the past five years have `been really stifling`
 `stringent media censorship`
 严格的媒体审查
 
+`strode out` in the hall
+从大厅中走出来
+
+what `a strong hand` he has goes to negotiations
+他在谈判中有多大实力
+
+similar conquests `were undertaken subsequently`
+类似的征服随后相继发生
+
+persistent `high fever subside`
+持续高烧减退
+
+`supersensitive` corporation
+超级敏感的公司
+
+these memories `swelled`
+激起对往事回忆
+
+I didn't expect them to be so `impatient and swift`
+我没想到她们会那么急那么快
+
+speak `sympathetically`
+同情地说
+
+`break a taboo`
+打破一个禁忌
+
+come to `a tacit understanding`
+达成默契
+
+`take their toll on` China’s financial health 
+对金融健康造成损害
+
+he would `take the heat`
+他愿意承受攻击
+
+`industrial takeoff` and `feverish urban growth
+工业腾飞和城市发展
+
+`ball-tampering`
+球赛操控
+
+treating development and security `in tandem`
+同等对待发展和安全
+
+add `a tangible new requirement`
+增加一个新的实际要求
+
+tensions continue to mount amid missile tests and `taunts`
+紧张关系在导弹试射和谩骂声中升级
+
+Uniqlo，clothing giant is `teaming up with` the designer
+优衣库正与设计师合作
+
+`teeming fisheries`
+丰沛的渔场
+
+`tenacious` researchers
+执着的研究员
+
+`tend to` recommend
+倾向于建议
+
+one of `the least developed` in China
+中国最不发达的一个地方
+
+any wedding is `theater`，this one did not disappoint
+任何婚礼都是演戏，这次也没让人失望
+
+urban children have `thrived academically`
+城市儿童在学业上发展迅速
+
+`the throngs` filled the streets of Windsor
+温莎街道上挤满了人群
+
+when `throughout` the fall
+整个秋季
+
+`tighten sanctions `
+收紧制裁
+
+`time bomb`
+定时炸弹/潜在破坏因素
+
+`tit for tat`
+以牙还牙/针锋相对
+
+at `a torrid pace`
+以飞快的速度
+
+it's `torture` for people
+对人们来说就是一种受罪
+
+`tousled hair`
+蓬乱的头发
+
+bridesmaids and pageboys `trailed behind` her
+男女傧相跟着她后面
+
+`lionized him as a trailblazer`
+视他为先驱
+
+`trek` almost three miles to school
+跋涉几乎三英里去学校
+
+in a time of `tribalism and separation`
+在世界处于部落主义和隔阂的时代
+
+`triumphant stagecraft`
+出色的编剧能力
+
+that should not `be trivialized`
+那不应被轻视
+
+he came to China `bearing gifts，tried his hand at Mandarin`
+他带着礼物来中国，试着讲普通话
+
+`relies heavily on` archives in `Europe that tumbled` open
+很大程度上依赖来着倒台中欧国家公开的档案
+
+`ensure a credible turnout`
+确保有效票数
+
+`twisted path`
+曲折的道路
+
+`the ubiquity` of dogs in our culture
+狗在我们文化中无处不在
+
+`unbeknown` to him
+他不知道
+
+there was `no unbridgeable Gulf`
+那儿没有不可逾越的鸿沟
+
+our responsibilities in this case `are undeniable`
+在这件事上我们负有不可推卸的责任
+
+bribe him to `undermine national security`
+贿赂他破坏国家安全
+
+`underpinning` that dispute lies a more consequential struggle
+争论的根源是斗争
+
+`undue influence` is always a problem
+不正当的影响始终是个问题
+
+`"unharmonious voices"` were now `condemning` private enterprise. 
+一些“不谐和的声音”在声讨民营企业
+
+oppose the `unilateralism `
+反对单边主义
+
+referred repeatedly to social tensions `unleashed by` economic inequality，pollution and inadequate access to healthcare，schools and housing
+多次指出社会紧张来自于经济不平等，污染加上医疗教育和住房的不足
+
+US `is unnerved by` China's rise
+美国对中国崛起感到不安
+
+The experiment was `an unparalleled success. `
+这一尝试无比成功
+
+royal fans embraced the couple `unreservedly`
+王室粉丝们毫无保留地接受这对夫妇
+
+organize `an unsanctioned rally`
+组织未经批准的集会
+
+`unyielding` leader
+强硬的领导
+
+the nation was recovering from `the upheaval`
+国家从动荡中恢复
+
+`vast majority of otherwise` healthy children
+绝大多数健康的儿童
+
+historical record suggests `a vastly different` interpretation
+历史记录提供一种截然不同的解释
+
+the dim，`vaulted opening` of street
+光线暗的拱顶街入口
+
+the `vaunted` dream
+大肆宣传的梦想
+
+`vending machine`
+自动售货机
+
+drivers will be required to `be vetted` and go through a background check
+司机被要求接受审查并接受背景调查
+
+`vicious cycle`
+恶性循环
+
+violate `basic engineering standards`
+违反基本工程学规范
+
+photo `goes viral online`
+照片在网上病毒式传播开
+
+army `virtually collapsed`
+军队实际上奔溃了
+
+`virtually safe dose`
+实际安全服用剂量
+
+`wage a long legal fight` against Well Fargo
+向富国银行发起漫长法律战
+
+`walk the thin line`
+保持平衡
+
+`wary about/of` rising levels of debt
+警惕攀升的债务
+
+using `an upturned washbowl` balanced on knees as a desk
+用洗脸盆倒扣在膝盖上充当书桌
+
+I went `in hopeful`，I came `out waspish`
+我满怀期待进去，带着满身烦躁出来
+
+Beijing’s efforts to `wean the economy from` its dependence on borrowing 
+北京在努力摆脱经济对信贷的依赖
+
+`weather enough to know`
+饱经风雨知道
+
+`which is to say`
+也就是说
+
+four men `wielding swords` were shot dead at a security checkpoint
+四名挥舞剑的男子在一个安全检查站被击毙
+
+`in a wig` and a white dress
+头戴假发穿一件白色裙装
+
+`creating a will` is about your legacy
+创建关于你遗留的遗嘱
+
+both countries have `shown a willingness` to compromise to reduce trade tension
+双方表现出妥协意愿来缓和贸易紧张关系
+
+as the `negotiations wound down`，`mixed signals emerged` about the progress the two sides had made
+随着谈判结束，有关双方所获进展有喜有忧
+
+president has `dismissed it as a witch-hunt`， but FBI repeatedly took steps that benefited him
+总统称调查是政治迫害，但调查局多次采取对其有利的措施
+
+step into `a wonderland`
+置身仙境
+
+dogs `wriggling in the snow，sniffing or licking or wagging`
+狗在雪地扭动，嗅来嗅去，舔人，摇尾巴
+
+
+
+
 
