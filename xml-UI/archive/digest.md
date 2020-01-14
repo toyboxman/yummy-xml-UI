@@ -45,7 +45,8 @@
     - [Linux 100问](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446171&idx=2&sn=3e9cd077ef4b256ac7a9a0ddf42f117a)
     - [系统管理员24问](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615832&idx=1&sn=b2dfeedd2f11bfcb9a502fff68bdb887)
 + [git](git%20commands.md)
-    - [Git 建立和托管网站](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=1&sn=e903d8860640c61baf94d4547609ee06)
+    - [Git建立和托管网站](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=1&sn=e903d8860640c61baf94d4547609ee06)
+    - [Git共享文件](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616035&idx=1&sn=e2852dc52228760005bbbc3cdcc1e4b2)
 + 性能分析
     - [Linux性能分析工具合集](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446320&idx=1&sn=a153a3b893b0e6f418c1c47ff7dc246e)
     - [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
@@ -60,7 +61,9 @@
     - Ansible
         - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
         - [Ansible同步 GitHub和GitLab ](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615959&idx=3&sn=ef5a0bd487d682f384fdafe310f2c793)
+        - [提升自动化技巧](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616016&idx=3&sn=c5d03b15e01b41b4e8504de7cc5348f1)
 + 设计分析
+    - [系统结构详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666545341&idx=1&sn=14dd9a3ed7c987fe12dbf918b92f268a)
     - [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
     - [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
     - [Linux 内核的五大创新](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=1&sn=93ea4bc3d9506f445b736bb12a5adecd)
@@ -83,7 +86,8 @@
     - [basic](go/go-basic.md)
     - [Golang编译器原理](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218158&idx=2&sn=1710ed8b0e7d57c96d5c26153a8f77a3)
     - [OAuth](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615474&idx=4&sn=40f51dfeabdb4665c4ef000d8e43c16e)
-    - [go实现负载均衡服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022459&idx=2&sn=48e26093bf201e20e842b23ba57096ce)
+    - [Go实现负载均衡服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022459&idx=2&sn=48e26093bf201e20e842b23ba57096ce)
+    - [Go并发编程](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616056&idx=1&sn=701c0e342abf02d07300305169b64e4a)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + [***laTeX***](laTeX/laTeX.md)
 + ***Algorithm***
@@ -95,30 +99,36 @@
     - [图解基数排序](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217939&idx=2&sn=e4356b156508b5c5570b96b548061d97)
     - [获取网络日志发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
     - [内存与数据结构 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217699&idx=3&sn=f30c0be3d15e1d2d2327ce2cb8608023)
+    - [链表解题](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218718&idx=2&sn=169414b620b2cd95ab42b37ae751f2e5)
      - [进程与线程图解 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217929&idx=2&sn=c582a01762f593b170a1b4390c235c42)
      - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218296&idx=2&sn=997afa84580ce56cd95a5f60e6218b47)
 
 #### Web
++ HTTP/HTTPS
+    - [http基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md#%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
+    - [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
+    - [HTTPS原理](https://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=2651170839&idx=2&sn=1c33daad8ce1b36e959c790f4029381f)
+    - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651485978&idx=2&sn=0b9392dd0c6157bd6331d0c1e1c6d5f2)
+    - [Authentication](https://swagger.io/docs/specification/authentication/)
+        - Basic Authentication
+
+            一种简单的内置于HTTP协议中认证办法.客户端发送携带Authorization header的HTTP requests，header包含base64-encoded字符串'username:password',如下样式
+            ```
+            Authorization: Basic ZGVtbzpwQDU1dzByZA==
+            ```
+            因为base64字符串易于被解码,这种认证授权方式应该与其他安全机制配合使用，如HTTPS/SSL.
+
+        - Bearer Authentication
+
+            也称为token authentication，是包含安全令牌(bearer tokens)的HTTP认证方法. 名字意思就是“赋予令牌携带者访问权” 样式如下
+            ```
+            Authorization: Bearer <token>
+            ```
+            令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
+            与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
 + Nginx
     - [Nginx反向代理](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217914&idx=2&sn=45f244835cf5f81d5fce175c8fc1abdb)
     - [Nginx日志监控](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446330&idx=2&sn=f858b653048d40cd8b51de3fd623b10e)
-+ [Authentication](https://swagger.io/docs/specification/authentication/)
-    - Basic Authentication
-
-        一种简单的内置于HTTP协议中认证办法.客户端发送携带Authorization header的HTTP requests，header包含base64-encoded字符串'username:password',如下样式
-        ```
-        Authorization: Basic ZGVtbzpwQDU1dzByZA==
-        ```
-        因为base64字符串易于被解码,这种认证授权方式应该与其他安全机制配合使用，如HTTPS/SSL.
-
-    - Bearer Authentication
-
-        也称为token authentication，是包含安全令牌(bearer tokens)的HTTP认证方法. 名字意思就是“赋予令牌携带者访问权” 样式如下
-        ```
-        Authorization: Bearer <token>
-        ```
-        令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
-        与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
 + [网络广告商的像素追踪](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615938&idx=1&sn=a23b4329ee7c27282e1881804ea09a3d)        
 + [REST API面临的安全威胁](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022949&idx=5&sn=9bbd2e8d298788c86d88a40b074d5147)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)        
@@ -142,8 +152,7 @@
     - [JS异步任务](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217735&idx=3&sn=f2ea5592f8fb11a2368b88dec4b8ff0b)
     - [交互式图的 JS库](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218149&idx=2&sn=39013bc90af351c129ea2aa7ea9014b9)
     - [正则表达式](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446283&idx=1&sn=22b9f99809135e163697a3e87cc537a9)
-+ [http基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md#%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
-+ [http guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
+    - [Django编写Python Web API](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616048&idx=2&sn=1e68023fd16d2e063443909f743fab18)
 + [Chrome前端调试](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485526&idx=1&sn=019654aaa0c314886cc6fd6e1fe0e174)
 + [SSR](https://alligator.io/react/server-side-rendering/)
 + [Web移动端开发栈 ](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485671&idx=1&sn=24738ca1f524d147b86652e1eac3a56c)
@@ -151,7 +160,7 @@
 + [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485542&idx=2&sn=ecf1410ffa2e68ca626a1b98b7faf5f2)
 + [Node.js 进程与线程](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216926&idx=2&sn=e9d748a9b393b6b0d2e81d16cf194b80)
 + [前端开发 20 年变迁史](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485492&idx=1&sn=61b30d5573573580357c809e5a187329)
-
++ [Electron+Vue开发跨平台桌面应用](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218676&idx=2&sn=6bbe4d5756f45e32536ef6e28cc34c1d)
 + [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615192&idx=2&sn=d411c88807d9753c0274041e986ad119)
 + [使用 Flutter开发Web应用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615683&idx=2&sn=715cf495ef2e6c37c9aa57a1d3139c99)
 
@@ -159,6 +168,8 @@
 + [二进制世界](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217312&idx=2&sn=f50f973c3530af9c24cd6e46701481a3)
 + [漫画中台](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217263&idx=2&sn=538709da2248a8c82a6d18dceab0d920)
 + [开源的7大理念](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282238&idx=2&sn=ed204263aaab673d1537c61c1f209ec1)
++ [无服务器迁移实践](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247492803&idx=1&sn=a304c5fa329e09e037fe8f42770fd805)
++ [REST API的衰退](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=2&sn=de45d61d6ec81f4384040e7a8d2edd21)
 + 分布式架构
     - [农行分布式架构](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282254&idx=2&sn=ddea3e87a3476aef1b8647b02c6256ef)
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
@@ -200,6 +211,7 @@
     - [数据迁移工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282864&idx=1&sn=0bb4795f0794808b04eb5f3001fdd1ad)
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
     - [Redis复制原理](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282436&idx=1&sn=8c3aedf4844fd0d209cf7ac624661fd8)
++ [SQLite](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650283693&idx=1&sn=a1fb927e1ee113c97851fd76010e627b)
 + [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)
 + [SQL基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
 + [Sql Or NoSql](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650216812&idx=2&sn=764739274dc0a21c89a60d8e72abe7a7)
@@ -229,6 +241,7 @@
     - [笔记介绍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770249&idx=2&sn=f7042c0c07074046e1ec3436c2bba0c0)
     - [贝叶斯定理](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657465140&idx=4&sn=7162b8d3f465481b8856e989a8ca8f3e)
     - [Metaflow](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218390&idx=1&sn=c72c7dac2e24388ddafcaba3400cd9da)
+    - [十大算法](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=3&sn=5970502d6bdd967c282416ec83493508)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
@@ -239,6 +252,7 @@
     - [Docker从入门到实践](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
     - [ansible-bender构建容器镜像](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615493&idx=2&sn=c44e68fd5eb6908460604369428051b2)
     - [docker-slim等工具](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023037&idx=2&sn=ddbb8c2b882e0fe58c4bd2930b5ade65)
+    - [Docker安全开源工具](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=2&sn=362f9b615d49a54b9dad9185b0f7e430)
 
 #### github
 + [12306 抢票项目](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019389&idx=6&sn=cb48d93961b148521493d7c3ef34fb68)
@@ -338,7 +352,9 @@ process in:file language:java extension:java
     一站式 HTTP/REST 服务测试工具。Paw 具有功能齐全的可视化编辑器和 HTTP 工具集，可以让 Web 开发者模拟发送各种 HTTP 请求、测试和迭代自己的 API 或探索新的 API，测试响应数据。另外，Paw 能多人协作，同步 API 测试配置，进行无冲突的更改并获取实时更新
 
 + ***Arya***    
-    Arya 是一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析
+    Arya 是一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析    
+
++ [***VLC***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616056&idx=2&sn=4f7a8632f4d050dabbeb351a7d756f92)
     
 #### interview
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
@@ -443,10 +459,13 @@ done
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
 + [晚唐十大诗人](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650478933&idx=1&sn=0fd800cb7da49648a223ac70d6aacbd0)
 + [诗经简史](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650477344&idx=1&sn=727f1c3e1b5f2bbf388247f9b639915d)
++ [楚辞](https://mp.weixin.qq.com/s?__biz=MzAxMzg2ODMyNA==&mid=2652505215&idx=5&sn=e8e2a315a58fdf5cfcb9fe300391faef)
 + [古文十篇](https://mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657450567&idx=1&sn=d9292a4ff1acbbc8fe4f00c685557fec)
 + [经济学眼镜蛇效应](https://mp.weixin.qq.com/s?__biz=MzAxMzg2ODMyNA==&mid=2652503536&idx=2&sn=1542b3789c2868c549aa65b1609842f9)
 + [小心求证, 大胆假设](https://mp.weixin.qq.com/s?__biz=MzAxNzU1NDczOQ==&mid=2651083535&idx=3&sn=d5833d4bc4db821350e9596fc0412e72)
 + [你打你的, 我打我的](https://mp.weixin.qq.com/s?__biz=MzAwMjExNDU1Mw==&mid=2650575681&idx=1&sn=fb1f7ab37600e82e17a472c441b48ccd)
++ [戈恩在日产管理改革](https://mp.weixin.qq.com/s?__biz=MzU4NTA0NzMyOQ==&mid=2247504655&idx=4&sn=417347d2c74009a29c770f8471a03c4b)
++ [高中物理](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657467562&idx=4&sn=262ce93366c1fa08edfb92afb2443448)
 
 #### GraphQL
 [工具和库 ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017395&idx=3&sn=ab0b3c87c20d4cdaad82321764195210)

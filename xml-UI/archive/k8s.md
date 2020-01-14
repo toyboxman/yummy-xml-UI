@@ -31,6 +31,7 @@ Kubernetes可以解决那些问题可以看看
 + [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 + Kubernetes系列[[2](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660650&idx=2&sn=0a7d468d92d58a683422796de938b29e),[3](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660702&idx=2&sn=caac340acbf9c4d22751f79e3c011024),[4](https://mp.weixin.qq.com/s?__biz=MjM5NTU2MTQwNA==&mid=2650660760&idx=3&sn=c66a40e21a26824b5a4fd3699c82cd9b)]
 + [Pod间容器通信 ](https://mp.weixin.qq.com/s?__biz=MzAwMDc2NjQ4Nw==&mid=2663495069&idx=1&sn=0dac4fead9cf936caa1adf0f62ab4162)
++ [命名空间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615992&idx=2&sn=6682338284c2a1c1769c2f55ca49391e)
 
 #### use-digest
 + k8s怎么用
