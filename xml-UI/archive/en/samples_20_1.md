@@ -363,3 +363,77 @@ Trump, however, has `turned his back on everything` that used to make America gr
 
 Oh, and because we `were committed to enforcing rules`, we were also `relatively trustworthy`
 哦对了，由于我们致力于执行规则，我们也会相对值得信赖
+
+`The natural sugar` in `whole fruit (fructose)` is accompanied by `fiber and nutrients` and `makes a slow journey` through your body. But when sugar is added to beverages or `packaged foods`, it’s more quickly absorbed and burdens the liver
+水果中的天然糖分（果糖）是由纤维和营养物质组成的，它会在你的体内缓慢代谢。但是，当糖被添加到饮料或包装食品中，它的吸收会更快，会加重肝脏负担
+
+`Processed food is digested` quickly as soon as it enters our `intestines`. `Fiber-rich foods` like whole fruits break down slowly and `travel farther through the digestive track`, which triggers the release of `satiety hormones that make us feel full`
+加工食品一旦进入肠道就会被迅速消化。而全果这类富含纤维的食物则会慢慢分解，在消化系统中停留更长时间，从而触发饱足荷尔蒙的释放，让我们感觉很饱
+
+Bananas and grapes are particularly high in fructose `given the amount of fiber they contain`, so they give us `a faster sugar spike`
+香蕉和葡萄的果糖含量特别高，因为它们含有大量的纤维，所以它们会让血糖飙升得更快
+
+Dried fruit `is packed with nutrients`, but the drying process removes the water and `concentrates a lot of fruit sugar in` a very small `bite`. The risk is that it takes more dried fruit to `fill you up` than whole fruits
+干果富含营养物质，但在干燥过程中，水分会流失，这样很小的一口干果里就浓缩了大量的果糖。风险在于，要想填饱肚子，就得吃下比全果更多的干果
+
+`Raisins and dates` are about 60 to 65 percent sugar, `dried figs` and apricots are about 50 percent sugar, and `prunes` are about 38 percent sugar
+葡萄干和枣干含有60%到65%的糖，无花果干和杏干含有50%的糖，梅干含有38%的糖
+
+Another way to `weigh the pros and cons` of dried fruit is to look at `glycemic load`, a measure of how fast your body `converts a serving of food into sugar`
+衡量干果利弊的另一种方法是看升糖指数，这个数值是用来衡量身体将一份食物转化为糖的速度
+
+Strawberries, apricots, grapefruit, lemon, limes, cantaloupe, nectarines, oranges, pears, blueberries, peaches, plums, apples and pineapple have `glycemic loads of 6 or less`
+草莓、杏子、葡萄柚、柠檬、酸橙、哈密瓜、油桃、橙子、梨、蓝莓、桃子、李子、苹果和菠萝的升糖指数不超过6
+
+A quarter-cup of milk contains about `3 grams of` a natural sugar called lactose. The sugar in milk is not considered `an “added sugar`,” and it doesn’t `overwhelm the liver` the way added sugar does
+四分之一杯牛奶含有约3克被称为乳糖的天然糖。牛奶中的糖不被认为是“添加糖”，它也不像添加糖那样加重肝脏负担
+
+Adding milk or cream to your coffee and enjoying the naturally sweet taste of milk is a great way to `kick the added sugar habit` in the morning
+在咖啡中加入牛奶或奶油，享受牛奶天然的甜味，这是从早上开始戒掉添加糖习惯的好方法
+
+Over time you can `cut it in half` again and `wean yourself off` the sugar
+随着时间的推移，你可以把糖再减半，让自己摆脱对糖的依赖
+
+With so much added sugar `lurking in granola, cereals, pastries, breads and yogurts`, you might as well just call it `dessert`. But readers have `had a tough time figuring out alternatives` to popular grain-based breakfast foods
+格兰诺拉麦片、麦片、糕点、面包和酸奶中都含有大量添加糖，不妨把它们称为甜点。常见的早餐食品以谷物为主，读者们很难找到替代品
+
+Eggs are `a high-protein option`, and while they are also `high in cholesterol`, many people can probably `eat them in moderation `without worrying about heart risks
+鸡蛋是提供高蛋白的选择，虽然它们也含有高胆固醇，但许多人也许可以适量食用，无需担心心脏风险
+
+Consider eating `smoked salmon, tuna or chicken salad` for breakfast. `Make a vegan breakfast bowl` of sweet potatoes, beans and `avocado`
+可以考虑早餐吃烟熏三文鱼、金枪鱼或鸡肉沙拉。或者用红薯、豆子和鳄梨(牛油果)做一份素食早餐
+
+Try `plain, unsweetened yogurt` with `berries and nuts` or `sliced apples with sugar-free peanut butter`. Or just eat and `savor a whole orange` or make a fruit salad
+尝试普通无糖酸奶，加入浆果和坚果，或者苹果片和无糖花生酱。要不就吃一个完整的橘子，或者做一份水果沙拉
+
+Try a breakfast salad with avocado and `hard-boiled eggs`. Use `a big kale leaf` to make a breakfast `burrito or egg salad wrap`. `Experiment with cauliflower` to make `hash browns`. Bake a sweet potato and add salsa, yogurt or nuts
+试试用鳄梨和煮鸡蛋做早餐沙拉。用一片大甘蓝叶做早餐卷或鸡蛋沙拉卷。试试做一个花椰菜版的土豆丝饼。烤一个红薯，加入调味汁、酸奶或坚果
+
+Try `miso soup, butternut squash soup` or another variety of hot soup. You’d be surprised how great soup tastes on a winter morning
+尝试味噌汤、南瓜浓汤，或者其他种类的热汤。在冬天的早晨，你会惊讶地发现汤的味道实在太好了
+
+What about `steel-cut oats`? Or `regular oats`? Do they have added sugar?
+钢切燕麦片怎么样？或者普通燕麦呢？它们加糖了吗？
+
+Morning oat-eaters are `by far the biggest demographic` we’ve heard from since starting the Sugar Challenge
+自从发起“无糖挑战”以来，反响最强烈的就是早餐吃燕麦片的群体了
+
+Steel cut oats `are the least processed`, meaning they have more fiber and are the best choice. `Rolled oats have been partially cooked`, making them increase blood sugar faster. `Instant oats should be avoided`, because they will be rapidly converted to sugar
+钢切燕麦片是其中加工最少的，这意味着它们含有更多纤维，是最好的选择。碾压燕麦已部分煮熟，因此升血糖更快。应避免食用速溶燕麦，因为它们会很快转化为糖分
+
+The reward for doing a little extra research? Ms. McMullen gets to enjoy her `sprouted rye guilt-free and (mostly) sugar free`
+多做点功课有什么好处？麦克马伦可以毫不内疚地享受（基本上）不含糖的发芽黑麦面包了
+
+Some smaller companies have until 2021 to `comply with the rule`. As a result, you may see a mix of old and new `food labels` for another year. The new label will help consumers `distinguish between` sugars that occur naturally in foods and those that are added
+一些规模较小的公司则是从2021年才开始遵守这一规定。因此，新的一年里，新旧食品标签都有可能看到。新标签将帮助消费者区分食物中天然存在的糖和添加糖
+
+`As an example`, take a look at the label on `whole milk`, which shows 11 grams of sugar `in a one-cup serving`. That `sounds like a lot`, but the new label will make it clear that all that sugar `occurs naturally as lactose` and that the same cup of milk has zero grams of added sugar
+以全脂牛奶标签为例，上面显示一份牛奶含有11克糖。看起来好像很多，但是新的标签将清楚地表明，所有糖都是天然乳糖，不含添加糖
+
+
+
+
+
+
+
+
