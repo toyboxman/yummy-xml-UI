@@ -363,10 +363,10 @@ git rebase --continue
 # 二者最大区别在于, 如果commit没有push, 那么就可以在本地丢弃, 用reset即可
 # 如果已经push到remote的仓库, 那么就用revert, 它会产生新的commit去undo已存在提交
 
-# 从HEAD回退到指定提交位置, 未提交的任何本地改变都会丢弃
+# 从HEAD回退到指定提交位置, 未提交的任何本地修改都会丢弃
 git reset --hard 0d1d7fc32
 
-# 回退到分支最新提交点
+# 回退到分支HEAD提交点
 git reset --hard HEAD
 
 # 先临时保存未提交的本地变更, 然后回退到提交点, 再将临时保存修改应用到新基点
@@ -377,8 +377,13 @@ git stash push <file>
 git stash clear
 git stash show
 
-# 通过软复位也可以达到上一命令相同效果  hard/soft前后两种方式区别就在于是否保留未提交更改
+# 通过软复位也可以达到上一命令相同效果  hard/soft两种方式区别就在于是否保留未提交更改
 git reset --soft 0d1d7fc32
+
+# 将指定文件回退到前两个提交的点
+git reset @~2 -- maven_install.json
+# 所有文件回退到HEAD提交点
+git reset @
 
 # 回退已提交的三个commit, git自动产生一个revert的commit
 git revert a867b4af  25eee4ca 0766c053
