@@ -417,6 +417,9 @@ git diff myBranch origin/master
 
 # 查看文件两标签快照(0.12.0-0.13.0)之间的差异
 git diff 0.12.0 0.13.0 -- glanceclient/common/http.py  
+
+# 比较当前分支指定文件最新提交和前一个提交间的差异
+git diff @:./java_deps.bzl @^:./java_deps.bzl
 ```
 
 ### git log 
