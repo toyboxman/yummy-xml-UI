@@ -430,10 +430,36 @@ Some smaller companies have until 2021 to `comply with the rule`. As a result, y
 `As an example`, take a look at the label on `whole milk`, which shows 11 grams of sugar `in a one-cup serving`. That `sounds like a lot`, but the new label will make it clear that all that sugar `occurs naturally as lactose` and that the same cup of milk has zero grams of added sugar
 以全脂牛奶标签为例，上面显示一份牛奶含有11克糖。看起来好像很多，但是新的标签将清楚地表明，所有糖都是天然乳糖，不含添加糖
 
+`The spate of moves` offers some clues about Mr. Putin’s plans and priorities, but also raises questions about what may `lie ahead` for the Russian president
+这一系列举动提供了一些线索，让人们可以了解普京的计划和优先事项，但也让人对这位俄罗斯总统可能面临的前景产生了疑问
 
+Mr. Putin’s hold on power in Russia is `unrivaled`, built up over the last 20 years `in his posts` as president and prime minister.
+普京对俄罗斯权力的掌控无人能及，这是他在过去20年担任总统和总理期间建立起来的
 
+But Russia’s Constitution `bars a president from serving` more than `two consecutive terms`. To maintain his grip on power, as he has hinted he intends to do, Mr. Putin needs to find a way to `engineer a leadership transition` that will allow that to happen
 
+This and other changes could `give Mr. Putin more leeway` to find a position in which he can maintain power without violating the Constitution
 
+`A revamped State Council` could `become a vehicle` for Mr. Putin to maintain power if he `relinquishes the presidency`, particularly over the military and foreign policy
+如果普京放弃总统职位，改组后的国务委员会可能会成为他维持权力的工具，特别是在军事和外交政策方面的权力
 
+Despite Mr. Putin’s `immense sway`, he’d be taking a risk if he simply declared himself `president for life`
+尽管普京拥有巨大的影响力，但简单地宣布自己是终身总统会是一种冒险
 
+This time around, Mr. Putin `looks determined to orchestrate` his next move in `a slow-motion fashion` that’s less likely to produce `a backlash`
+这一次，普京似乎下定决心要以一种不太可能引起强烈反对的慢动作来策划下一步行动
 
+The changes to the Constitution he called for give him several options to hold on to power — while affording him as much as four years’ time to `set his course`
+他呼吁修改宪法，这给了他几个继续掌权的选择，同时也给了他四年的时间来制定自己的路线
+
+All of this means that the Kremlin is likely to `portray the resignation` on Wednesday of Mr. Medvedev and every cabinet minister as a sign that Mr. Putin has `heard Russians’ demand for change`
+这一切意味着，克里姆林宫可能会把周三梅德韦杰夫和全体内阁的辞职描述为普京听取了俄罗斯人要求改变的信号
+
+While Russians do increasingly blame Mr. Putin `for their ills`, many more blame `the bureaucrats below him`
+尽管俄罗斯人确实越来越多地因他们的困境指责普京，但更多的人指向了他下面的官僚
+
+`To drive home the point`, Mr. Putin proposed `a constitutional amendment` that offered the day’s clearest statement of how he views his successor
+为了阐明这一点，普京提出了一项宪法修正案，给出了当天关于他对继任者看法的最清晰的声明
+
+That was `an allusion` to Mr. Putin’s frequent charge the West is `fomenting political opposition` to undermine Russian sovereignty
+这是在间接提及，普京多次指控西方国家煽动政治反动派破坏俄罗斯主权
