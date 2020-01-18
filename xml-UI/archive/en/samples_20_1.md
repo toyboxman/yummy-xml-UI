@@ -463,3 +463,113 @@ While Russians do increasingly blame Mr. Putin `for their ills`, many more blame
 
 That was `an allusion` to Mr. Putin’s frequent charge the West is `fomenting political opposition` to undermine Russian sovereignty
 这是在间接提及，普京多次指控西方国家煽动政治反动派破坏俄罗斯主权
+
+China has `committed to buy` an additional $200 billion of American goods and services by 2021 and `crack down on business practices` that the Trump administration has criticized. But text of the accord does not provide enough information to `determine how it will work in practice`
+中国承诺在2021年底前再购买2000亿美元的美国商品和服务，并对特朗普政府批评的商业行为进行打击。但协议文本没有提供足够的信息来确定它将如何落实
+
+Mr. Trump said his deal is `a boon for farmers`, who have been among `the hardest hit` by his trade war
+特朗普说，这笔交易对农民来说是一个福音，因为他们是受到贸易战打击最严重的群体之一
+
+China is only agreeing to make purchases for the next two years and `is vague about what happens thereafter`
+中国仅同意在未来两年进行采购，对之后会发生什么并不清晰
+
+The agreement says the countries “`project that the trajectory`” of increased purchases would continue through 2025, but it remains to be seen how it will `actually play out`
+协议说，两国“预计”增加购买量的“轨迹”将持续到2025年，但落实情况仍有待观察
+
+Can it `get out of such commitments` if there isn’t `domestic demand`? Will the purchases `distort commodities markets`?
+如果国内需求不存在，它能从这种承诺中脱身吗？这种购买是否会扭曲大宗商品市场？
+
+Previous administrations have tried to get China to crack down on this practice `with limited success.`
+先前的政府曾试图让中国严厉打击这种做法，但收效甚微
+
+For instance, the deal requires China to “`enumerate additional acts constituting trade secret misappropriation`,” including “`electronic intrusions`,” a reference to hacking of computer systems
+例如，该交易要求中国“列举构成商业机密盗用的其他行为”，包括“电子入侵”，指对计算机系统的黑客入侵
+
+The agreement also aims to make it easier for companies to `seek redress` in China if they believe their trade secrets have been stolen. 
+该协议还旨在让企业认为自己的商业机密被窃取的时候，更容易在中国寻求赔偿
+
+`The pharmaceutical industry` appears to have `secured significant gains`, including commitments by the Chinese government to do more to protect patent owners from `copycats`
+制药业似乎获得了重大收益，包括中国政府承诺采取更多措施保护专利所有者免受仿制品的损害
+
+Among the biggest questions `going in to the negotiations` with China was how any agreement `would be enforced`. `Having watched `previous agreements with China fail to `live up to their promise`, many American experts and business executives `were skeptical` that the Trump administration could get China to keep the commitments it makes
+与中国进行谈判的最大问题之一是协议将如何执行。目睹先前与中国达成的协议未能兑现承诺后，许多美国专家和企业高管对特朗普政府能否让中国信守承诺表示怀疑
+
+The deal also includes `an appeals process` where issues can be `elevated from midlevel officials all the way up to` the offices of the United States trade representative and the vice premier of China
+该协议还包括一个上诉程序，问题可以从中层官员一直提升到美国贸易代表和中国副总理办公室
+
+If the United States or China believes that the other is acting `in bad faith`, either country can `give written notice and withdraw from the deal`
+如果美国或中国认为对方背信弃义，则其中一方可以发出书面通知并退出交易
+
+The Parties shall `work constructively to provide fair, effective, and nondiscriminatory market access` for each other’s services and services suppliers. `To that end`, the Parties shall take specific actions beginning with the actions `set forth in` this Chapter `with respect to` the financial services sector
+双方应进行建设性的工作，给予对方的服务和服务提供者公平、有效、非歧视的市场准入待遇。为此，双方应从本金融服务章节约定的行动开始，采取具体行动
+
+Even if China did approve their applications, it is not clear that those businesses would `make many inroads` in the country’s `advanced electronic payment system`, which `is dominated by` domestic companies
+即使中国批准了它们的申请，也不清楚这些企业是否会在中国由国内企业主导的先进电子支付系统中取得很大进展
+
+The Parties shall `refrain from competitive devaluations` and not target exchange rates for competitive purposes, including through `large-scale, persistent, one-sided intervention` in exchange markets
+双方应避免竞争性贬值，避免将汇率用于竞争性目的，包括对外汇市场进行大规模、持续、单向干预
+
+`Much of what` China is agreeing to do is `in line with commitments` it has already made through the Group of 20 and `its obligations` to the International Monetary Fund
+中国同意采取的行动，在很大程度上符合它通过20国集团做出的承诺，以及它对国际货币基金组织的义务
+
+Brad Setser, an economist at `the Council on Foreign Relations`, was `unimpressed by` the new currency provisions, `pointing out` that China is `primarily promising things` that it already does and that it will continue to `be circumspect about` its actual interventions
+美国外交关系委员会经济学家布拉德·塞策对新的汇率条款不以为然，他指出，中国主要是在承诺它已经在做的事情，并将继续对其实际干预行动保持谨慎态度
+
+Administration officials have said that they will not `lift those tariffs` until the countries `manage to agree to` a phase 2 agreement. `Prolonged strains` in the relationship could `prompt American firms to spend less` in China `and vice versa`
+政府官员表示，在两国达成第二阶段协议之前，他们不会取消这些关税。长期的紧张关系会促使美国公司减少在中国的投资，反之亦然
+
+PREAMBLE: REALIZING that it is in the interests of both countries that trade grow and that `there is adherence to international norms` `so as to` promote market-based outcomes
+序言 : 认识到贸易增长和遵循国际规范、以促进基于市场的成果，符合两国的利益
+
+A Chinese man in his 30s has `tested positive` for the `new coronavirus`, the Japanese health ministry said Thursday
+日本厚生劳动省周四表示，一名30多岁的中国男子被检测出新型冠状病毒呈阳性
+
+It is possible that the patient had `close contact with` an unknown patient with `lung inflammation while in China`
+在中国期间，该患者可能与一名未知的肺炎患者密切接触过
+
+The Wuhan health commission said on Wednesday that `the risk of a rapid spread of the virus among humans is low` but it could not `rule out the possibility of human-to-human transmission` of the virus. Officials also said they `detected the first cluster of` the virus involving members of a family
+武汉市卫健委周三表示，该病毒在人类中迅速传播的风险很低，但不能排除该病毒在人际之间传播的可能性。官员们还说，他们发现了首批家庭聚集性病例
+
+The World Health Organization has `reiterated that` there is no evidence of `human-to-human transmission of the virus`
+世界卫生组织重申，没有证据表明该病毒在人与人之间传播
+
+Experts say they want to know how the virus was transmitted to humans and `the incubation period` of the patients
+专家说，他们想知道病毒是如何传播给人类的，以及患者的潜伏期有多长
+
+While the new coronavirus appears to be `less virulent and deadly` than the virus that caused the 2003 `severe acute respiratory syndrome` outbreak, many questions remain
+尽管这一新型冠状病毒似乎不如引起2003年严重急性呼吸系统综合征爆发的病毒那样剧烈和致命，但仍有很多问题未解
+
+The whole trouble `with resolutions` is that keeping them is hard. Which makes sense: If it were easy to `keep a resolution, there would be no need to make one`
+决心的全部问题在于难以坚持。这不难懂：如果坚持决心容易的话，就不叫决心了
+
+In that spirit, I offer some `very doable resolutions` for l`iving more lightly on the earth`
+本着这种精神，我建议一些切实可行的新年决心，让我们能更环保地生活在地球上
+
+First, let’s `give credit where it is due`. Trump’s tough line on China has `shaken loose more apparent concessions` from the Chinese than previous administrations managed. 
+首先，该给的称赞还是要给。比起前几任政府，特朗普对中国的强硬立场促使中国人给出更为明显的让步。
+
+The previous, longstanding policy of `constructive engagement`, using `persuasion couched` in the language of mutual benefits, `bore little fruit`.
+过去的长期建设性接触政策，以互惠互利的措辞进行说服，收效甚微
+
+Why did China make these concessions? `Therein lies a deep irony`. Many of `the ostensible concessions` are in areas where Chinese reformers have long sought to create change `for their country’s own good.`
+中国为什么作出这些让步？这其中就很有讽刺意味了。许多看上去是让步的地方，中国的改革者出于自身利弊的考量本来就打算改变了。
+
+Even `a cease-fire`, and the prospects that further tariffs can be avoided, might help `mitigate the slump` in business sentiment and investment in China.
+仅是休战，以及可以避免进一步征收关税的前景，都可能有助于缓解中国商业信心和投资的低迷
+
+In that case, `all bets are off` and Washington wants Beijing to `override the market`
+在这种情况下，一切皆有可能，并且华盛顿会想要北京去推翻市场的决定
+
+These include China’s corporate subsidies, which `give its companies a leg up on` foreign competition, the dominance of state-owned enterprises in its economy
+其中包括中国的企业补贴，这些补贴使中国企业在国外竞争中处于优势地位，使国有企业在经济中占主导地位
+
+The deal with China and the recently `ratified` United States-Mexico-Canada Agreement `ought to help resolve that uncertainty`
+与中国的协议以及最近正式批准的《美国-墨西哥-加拿大协议》应有助于解决这一不确定性
+
+But given the Trump administration’s record of `mercurial policymaking`, `trade hostilities` could again `flare up` at the president’s `whim`, `undermining the certainty` businesses need before making decisions about their investments and supply chains
+但是，鉴于特朗普政府在政策制定上一贯的反复无常，贸易敌对可能再次因总统的突发奇想而爆发，破坏企业在做出有关投资和供应链决策之前所需要的确定性
+
+But China might `end up being the winner` when `the dust settles`
+但尘埃落定后，中国可能成为最终赢家
+
+
