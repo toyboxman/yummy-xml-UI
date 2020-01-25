@@ -572,4 +572,19 @@ But given the Trump administration’s record of `mercurial policymaking`, `trade
 But China might `end up being the winner` when `the dust settles`
 但尘埃落定后，中国可能成为最终赢家
 
+Summer temperatures can approach 100 degrees, `with heavy humidity`. Its `traditional dish`, and one of China’s `favorite noshes, is a pungent pasta concoction called reganmian, or “hot dry noodles.”`
+这里夏季气温可达100华氏度，湿度极大。它的传统菜肴——也是中国人最喜欢的小吃之一，是一种辛辣的面食，叫做热干面
+
+`The boom has come with problems`. Heavy pollution has provoked protests. Its streets `are often clogged with traffic. `
+繁荣之下，问题随之而来。严重的污染引发了抗议。它的街道经常被堵得水泄不通
+
+Its steel factories, `long a backbone of the local economy`, have struggled along with the rest of the inefficient industry in China `with overcapacity and pollution problems`, leading Beijing to combine the state-owned local giant, Wuhan Steel, with another company.
+武汉的钢铁厂长期以来一直是当地经济的支柱，但随着产能过剩和污染问题的出现，它们和中国其他效率低下的行业一样苦苦挣扎，北京方面最终将本地的国企巨头武钢与另一家公司合并
+
+Wuhan held a special place in the heart of Mao Zedong, who famously took a swim in the Yangtze there in 1966 to `show his vitality`
+武汉在毛泽东的心中享有特殊的地位。1966年，他曾在武汉的长江中游泳，以彰显自己的生命力，这件事很著名
+
+Experts said `the stunning scale of the shutdown`, isolating a major urban `transit hub` larger than New York City, was without precedent.“It’s `an unbelievable undertaking`,” said Dr. Howard Markel
+专家表示，此次封城相当于孤立了一个比纽约市还大的重要城市交通枢纽，规模之大令人震惊，这是史无前例的, “这是一项不可思议的工作”
+
 
