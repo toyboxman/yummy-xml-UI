@@ -288,6 +288,7 @@ process in:file language:java extension:java
     - [String](java/java-string.md)
     - [Threadlocal](java/java-thread-local.md)
     - [Collection/List/Set/Map](java/java-collection.md)
+    - [ASM](java/java-asm.md)
     - [ServiceLoader/ClassLoader](java/java-loader.md)
     - [Tcp/Udp](java/java-udp-tcp.md)
     - [Stream2string](java/java-stream2string.md)
