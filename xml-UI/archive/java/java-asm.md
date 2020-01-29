@@ -75,6 +75,10 @@ public class ClassA {
         this.number = index;
     }
 
+    private int index() {
+        return this.number;
+    }
+
     @Override
     public String toString() {
         return "ClassA{" +
@@ -83,7 +87,7 @@ public class ClassA {
     }
 }
 ```
-2. 
+2. 通过ClassWriter 修改字节码
 ```java
 package king.law.asm;
 
@@ -123,6 +127,21 @@ public class ConvertClass {
     }
 }
 ```
+
+修改class文件后会改变frames,local variables和operand
+stack sizes，如果希望ASM自动计算，创建ClassWriter时候需要指定不同参数.
+- ClassWriter(0) 表示不会自动计算，需要在visitMaxs/visitFrame方法中计算修改。
+- ClassWriter(ClassWriter.COMPUTE_MAXS) 表示 the sizes of the
+local variables and operand stack会自动计算，但仍需要调用visitMaxs方法,不过传入的参数都会被忽略不会纳入计算。而the frames仍需要自己计算处理。
+- ClassWriter(ClassWriter.COMPUTE_FRAMES) 表示所有都自动计算。不需要调用visitFrame,但必须显示调用visitMaxs(传入的参数都会被忽略不会纳入计算).
+
+不同的参数带来不同运行效果: 一般情况下相比ClassWriter(0)，COMPUTE_MAXS option会使 ClassWriter 10% slower, COMPUTE_FRAMES option使 ClassWriter 两倍slower。
+
+如果选择计算frames, 可以让ClassWriter class完成compression step，这样你就要调用visitFrame(F_NEW, nLocals, locals, nStack, stack)方法来visit uncompressed frames。nLocals和nStack是the number of locals and
+the operand stack size。locals和stack是arrays，包含相关types。
+
+为了自动计算frames，常常有必要计算两个给定类的common super class。默认ClassWriter在getCommonSuperClass方法中计算,通过加载two classes进JVM再使用reflection API。但这可能有问题，如果产生多个classes互相引用，因为被引用classes可能并不存在，因而这种情况下你要override方法getCommonSuperClass来解决问题。
+
 #### 修改Method层面字节码
 在方法层面的visitXXX 方法调用顺序如下，方法体由visitCode开始，visitEnd结束
 ```yaml
@@ -137,12 +156,17 @@ visitEnd
 修改方法体又分为stateless和stateful两种类型
 1. stateless
 
-将ClassA的toString修改成 `(number * 8)`
+将ClassA的toString代码做如下修改
 ```java
+// remove掉index()
+//private int index() {...}
+
 @Override
 public String toString() {
+    // 1.增加 println
+    System.out.println(this.number);
     return "ClassA{" +
-            // 修改 "number=" + number +
+            // 2.修改 "number=" + number +
             "number=" + (number * 8) +
             '}';
 }
@@ -150,7 +174,7 @@ public String toString() {
  * 先通过 TraceClassVisitor 来比较修改前后 toString方法字节码的差异
 
 修改前：
-```asm
+```java
 public toString()Ljava/lang/String;
     NEW java/lang/StringBuilder
     DUP
@@ -169,8 +193,14 @@ public toString()Ljava/lang/String;
 ```
 
 修改后：
-```asm
+```java
 public toString()Ljava/lang/String;
+    //////////// 新增 println(...) 指令
+    GETSTATIC java/lang/System.out : Ljava/io/PrintStream;
+    ALOAD 0
+    GETFIELD king/law/asm/src/ClassA.number : I
+    INVOKEVIRTUAL java/io/PrintStream.println (I)V
+    ////////////
     NEW java/lang/StringBuilder
     DUP
     INVOKESPECIAL java/lang/StringBuilder.<init> ()V
@@ -178,7 +208,7 @@ public toString()Ljava/lang/String;
     INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
     ALOAD 0
     GETFIELD king/law/asm/src/ClassA.number : I
-    //////////// 新增加的两条指令
+    //////////// 新增 (number*8) 指令
     BIPUSH 8
     IMUL
     ////////////
@@ -188,41 +218,152 @@ public toString()Ljava/lang/String;
     INVOKEVIRTUAL java/lang/StringBuilder.toString ()Ljava/lang/String;
     ARETURN
     MAXSTACK = 3
-    MAXLOCALS = 1
+    MAXLOCALS = 1   
 ```
 * 再对照指令差异来实现方法修改
+```java
+package king.law.asm;
 
+import king.law.asm.src.ClassA;
+import org.objectweb.asm.*;
 
-Hopefully ASM can compute this for you. When you create a ClassWriter
-you can specify what must be automatically computed:
-? with new ClassWriter(0) nothing is automatically computed. You
-have to compute yourself the frames and the local variables and operand
-stack sizes.
-? with new ClassWriter(ClassWriter.COMPUTE_MAXS) the sizes of the
-local variables and operand stack parts are computed for you. You must
-still call visitMaxs, but you can use any arguments: they will be ignored
-and recomputed. With this option you still have to compute the frames
-yourself.
-? with new ClassWriter(ClassWriter.COMPUTE_FRAMES) everything is
-computed automatically. You don’t have to call visitFrame, but you
-must still call visitMaxs (arguments will be ignored and recomputed).
-Using these options is convenient but this has a cost: the COMPUTE_MAXS option makes a ClassWriter 10% slower, and using the COMPUTE_FRAMES option
-makes it two times slower. This must be compared to the time it would take
-to compute this yourself: in specific situations there are often easier and faster
-algorithms for computing this, compared to the algorithm used in ASM, which
-must handle all cases.
-Note that if you choose to compute the frames yourself, you can let the
-ClassWriter class do the compression step for you. For this you just have to
-visit your uncompressed frames with visitFrame(F_NEW, nLocals, locals,
-44
-3.2. Interfaces and components
-nStack, stack), where nLocals and nStack are the number of locals and
-the operand stack size, and locals and stack are arrays containing the corresponding types (see the Javadoc for more details).
-Note also that, in order to compute frames automatically, it is sometimes
-necessary to compute the common super class of two given classes. By default
-the ClassWriter class computes this, in the getCommonSuperClass method,
-by loading the two classes into the JVM and by using the reflection API. This
-can be a problem if you are generating several classes that reference each other,
-because the referenced classes may not yet exist. In this case you can override
-the getCommonSuperClass method to solve this problem.
+import java.lang.reflect.Constructor;
+
+//定制visitor，来实现方法修改
+class ClsWr extends ClassVisitor {
+    public ClsWr(int flags) {
+        //ClassVisitor是proxy模式，必须由ClassWriter完成实际字节操作
+        super(/* latest api = */ Opcodes.ASM7, new ClassWriter(flags));
+    }
+
+    @Override
+    public MethodVisitor visitMethod(int access, String name,
+                                     String descriptor, String signature, String[] exceptions) {
+        // private int index(){} 字节码 private index()I
+        // name为index,  descriptor为()I
+        if (access == Opcodes.ACC_PRIVATE
+                && name.equals("index")
+                && descriptor.equals("()I")) {
+            // do not delegate to next visitor -> this removes the method
+            return null;
+        }
+        MethodVisitor mv = super.visitMethod(access, name, descriptor, signature, exceptions);
+        if (name.equals("toString")) {
+            mv = new MtWr(mv);
+        }
+        return mv;
+    }
+
+    public byte[] toByteArray() {
+        return ((ClassWriter) cv).toByteArray();
+    }
+}
+
+//定制visitor，来实现方法体修改
+class MtWr extends MethodVisitor {
+    private MethodVisitor mv = null;
+
+    public MtWr(MethodVisitor impl) {
+        super(/* latest api = */ Opcodes.ASM7, impl);
+        mv = impl;
+    }
+
+    @Override
+    public void visitCode() {
+        //1.开始进入方法体
+        super.visitCode();
+        //2.GETSTATIC java/lang/System.out : Ljava/io/PrintStream;
+        mv.visitFieldInsn(Opcodes.GETSTATIC, "java/lang/System",
+                "out", "Ljava/io/PrintStream;");
+        //3. ALOAD 0
+        mv.visitVarInsn(Opcodes.ALOAD, 0);
+        //4.GETFIELD king/law/asm/src/ClassA.number : I
+        mv.visitFieldInsn(Opcodes.GETFIELD, "king/law/asm/src/ClassA",
+                "number", "I");
+        //5.INVOKEVIRTUAL java/io/PrintStream.println (I)V
+        mv.visitMethodInsn(Opcodes.INVOKEVIRTUAL, "java/io/PrintStream",
+                "println", "(I)V", false);
+    }
+
+    @Override
+    public void visitFieldInsn(int opcode, String owner, String name, String descriptor) {
+        mv.visitFieldInsn(opcode, owner, name, descriptor);
+        //6.定位到GETFIELD king/law/asm/src/ClassA.number : I
+        if (opcode == Opcodes.GETFIELD) {
+            //7.BIPUSH 8
+            mv.visitIntInsn(Opcodes.BIPUSH, 8);
+            //8.IMUL
+            mv.visitInsn(Opcodes.IMUL);
+        }
+    }
+
+    @Override
+    public void visitMaxs(int maxStack, int maxLocals) {
+        //修改前 MAXSTACK = 2 MAXLOCALS = 1
+        //修改后 MAXSTACK = 3 MAXLOCALS = 1
+        //9.重新计算栈和本地变量大小
+        //new ClassWriter(0)不会自动计算，COMPUTE_MAXS作为参数能自动计算
+        mv.visitMaxs(maxStack + 1, maxLocals);
+    }
+}
+
+//定制ClassLoader载入修改后的class文件
+class UpdateClassLoader extends ClassLoader {
+    //可以直接调用defineClass来装载class文件
+    public Class defineClass(String name, byte[] b) {
+        //ClassLoader.defineClass是protected final,无法override
+        //只能通过proxy方式调用
+        return super.defineClass(name, b, 0, b.length);
+    }
+
+    //也可以通过覆写findClass方式来装载class文件
+    @Override
+    protected Class<?> findClass(String name)
+            throws ClassNotFoundException {
+        if (name.equals("king.law.asm.src.ClassA")) {
+            ClassWriter cw = new ClassWriter(0);
+            byte[] b = cw.toByteArray();
+            return defineClass(name, b, 0, b.length);
+        }
+        return super.findClass(name);
+    }
+}
+
+public class UpdateClass {
+    public static void main(String[] args) throws Exception {
+        //检查默认classloader中ClassA的toString/index两个方法
+        System.out.println("original ClassA(5) is : " + new ClassA(5));
+        System.out.println("has index() method? : " + ClassA.class.getDeclaredMethod("index"));
+        System.out.println("--------------------------");
+        ClassReader classReader = new ClassReader("king.law.asm.src.ClassA");
+        ClassVisitor cw = new ClsWr(0);
+        classReader.accept(cw, ClassReader.SKIP_DEBUG);
+
+        byte[] bytes = ((ClsWr) cw).toByteArray();
+        Class updatedClassA = new UpdateClassLoader()
+                .defineClass("king.law.asm.src.ClassA", bytes);
+        Constructor constructor = updatedClassA.getConstructor(Integer.TYPE);//等于 int.class
+        Object updatedObj = constructor.newInstance(5);
+        //检查修改后ClassA的toString/index两个方法
+        System.out.println("updated ClassA(5) is : " + updatedObj);
+        //private方法需要通过getDeclaredMethod获取
+        System.out.println("has index() method? : " + updatedClassA.getDeclaredMethod("index"));
+    }
+}
+```
+* 运行以上程序检查输出
+```console
+original ClassA(5) is : ClassA{number=5}
+has index() method? : private int king.law.asm.src.ClassA.index()
+--------------------------
+5
+updated ClassA(5) is : ClassA{number=40}
+Exception in thread "main" java.lang.NoSuchMethodException: king.law.asm.src.ClassA.index()
+	at java.lang.Class.getDeclaredMethod(Class.java:2130)
+	at king.law.asm.UpdateClass.main(UpdateClass.java:104)
+
+```
+5是由println输出，40也是5*8结果，index()方法不存在抛出异常，说明对ClassA的修改符合预期。
+
+2. stateful
 
