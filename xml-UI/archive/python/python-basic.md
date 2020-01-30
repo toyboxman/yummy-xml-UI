@@ -157,17 +157,19 @@ thisdict["year"] = 2018
 ### Flow
 - **[If...Else](https://www.w3schools.com/python/python_conditions.asp)**
 ```python
-a = 33
-b = 200
-if b > a:
-  print("b is greater than a")
+import random
 
+a = random.randint(1, 100)
+b = random.randint(5, 80)
 if b > a:
-  print("b is greater than a")
+    print("b=" + str(b) + ", a=" + str(a))
+    print("b is greater than a")
 elif a == b:
-  print("a and b are equal")
+    print("b=" + str(b) + ", a=" + str(a))
+    print("a and b are equal")
 else:
-  print("a is greater than b")
+    print("b=" + str(b) + ", a=" + str(a))
+    print("a is greater than b")
 
 # Short Hand If ... Else
 print("A") if a > b else print("=") if a == b else print("B") 
@@ -191,6 +193,7 @@ if a > b or a > c:
     ```
     - **[for](https://www.w3schools.com/python/python_for_loops.asp)**
     ```python
+    # for x in range (1,2):
     fruits = ["apple", "banana", "cherry"]
     for x in fruits:
       print(x)

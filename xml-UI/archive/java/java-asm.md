@@ -156,8 +156,11 @@ visitEnd
 修改方法体又分为stateless和stateful两种类型
 1. stateless
 
+字节码transformation只在当前方法中，不依赖之前已经visited过的指令。比如加到方法开始位置的新指令和插入RETURN instruction之前的新指令都属于stateless transformations。
+
 将ClassA的toString代码做如下修改
 ```java
+import java.util.Random;
 // remove掉index()
 //private int index() {...}
 
@@ -167,7 +170,7 @@ public String toString() {
     System.out.println(this.number);
     return "ClassA{" +
             // 2.修改 "number=" + number +
-            "number=" + (number * 8) +
+            "number=" + (number * new Random().nextInt()) +
             '}';
 }
 ```
@@ -208,8 +211,11 @@ public toString()Ljava/lang/String;
     INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
     ALOAD 0
     GETFIELD king/law/asm/src/ClassA.number : I
-    //////////// 新增 (number*8) 指令
-    BIPUSH 8
+    //////////// 新增 (number * new Random().nextInt()) 指令
+    NEW java/util/Random
+    DUP
+    INVOKESPECIAL java/util/Random.<init> ()V
+    INVOKEVIRTUAL java/util/Random.nextInt (I)I
     IMUL
     ////////////
     INVOKEVIRTUAL java/lang/StringBuilder.append (I)Ljava/lang/StringBuilder;
@@ -217,8 +223,10 @@ public toString()Ljava/lang/String;
     INVOKEVIRTUAL java/lang/StringBuilder.append (C)Ljava/lang/StringBuilder;
     INVOKEVIRTUAL java/lang/StringBuilder.toString ()Ljava/lang/String;
     ARETURN
-    MAXSTACK = 3
+    //////////// stack size扩大到4
+    MAXSTACK = 4
     MAXLOCALS = 1   
+    ////////////
 ```
 * 再对照指令差异来实现方法修改
 ```java
@@ -288,11 +296,20 @@ class MtWr extends MethodVisitor {
     @Override
     public void visitFieldInsn(int opcode, String owner, String name, String descriptor) {
         mv.visitFieldInsn(opcode, owner, name, descriptor);
-        //6.定位到GETFIELD king/law/asm/src/ClassA.number : I
+        //6.定位到 GETFIELD king/law/asm/src/ClassA.number : I
         if (opcode == Opcodes.GETFIELD) {
-            //7.BIPUSH 8
-            mv.visitIntInsn(Opcodes.BIPUSH, 8);
-            //8.IMUL
+            //7.NEW java/util/Random
+            //import statement在class文件中直接映射到指令中
+            mv.visitTypeInsn(Opcodes.NEW, "java/util/Random");
+            //8.DUP
+            mv.visitInsn(Opcodes.DUP);
+            //9.INVOKESPECIAL java/util/Random.<init> ()V
+            mv.visitMethodInsn(Opcodes.INVOKESPECIAL, "java/util/Random",
+                    "<init>", "()V", false);
+            //10.INVOKEVIRTUAL java/util/Random.nextInt (I)I
+            mv.visitMethodInsn(Opcodes.INVOKEVIRTUAL, "java/util/Random",
+                    "nextInt", "()I", false);
+            //12.IMUL
             mv.visitInsn(Opcodes.IMUL);
         }
     }
@@ -300,10 +317,10 @@ class MtWr extends MethodVisitor {
     @Override
     public void visitMaxs(int maxStack, int maxLocals) {
         //修改前 MAXSTACK = 2 MAXLOCALS = 1
-        //修改后 MAXSTACK = 3 MAXLOCALS = 1
-        //9.重新计算栈和本地变量大小
+        //修改后 MAXSTACK = 4 MAXLOCALS = 1
+        //12.重新计算栈和本地变量大小
         //new ClassWriter(0)不会自动计算，COMPUTE_MAXS作为参数能自动计算
-        mv.visitMaxs(maxStack + 1, maxLocals);
+        mv.visitMaxs(maxStack + 2, maxLocals);
     }
 }
 
@@ -367,3 +384,93 @@ Exception in thread "main" java.lang.NoSuchMethodException: king.law.asm.src.Cla
 
 2. stateful
 
+一种较复杂的transformations，需要缓存住一些之前visited过的指令状态。比如这种转换，把所有`ICONST_0 IADD`指令sequence都删除,这个指令执行`add 0`操作。当一个IADD instruction被visited, 只要上一个指令是ICONST_0，就需要把这二者都删除。这种类型转换都可以称为statefull transformations。
+
+考虑上面这个例子的具体实现，当ICONST_0被visited时,下一个instruction是什么不知道。因此需要postpone当前指令处理到下一个visit的instruction，如果下一个指令是IADD，那么删除这两个instructions；否者正常处理前一条ICONST_0和当前instruction。
+
+- 定义抽象基类存储指令状态
+```java
+public abstract class PatternMethodAdapter extends MethodVisitor {
+    //constant 标识ICONST_0指令未出现
+    protected final static int SEEN_NOTHING = 0;
+    //flag visit方法是否碰到ICONST_0指令的状态
+    protected int state;
+    public PatternMethodAdapter(int api, MethodVisitor mv) {
+        super(api, mv);
+    }
+    @Overrid public void visitInsn(int opcode) {
+        //处理ICONST_0/IADD指令前先调用状态处理方法
+        visitInsn();
+        mv.visitInsn(opcode);
+    }
+    @Override public void visitIntInsn(int opcode, int operand) {
+        //处理BIPUSH/SIPUSH/NEWARRAY指令前先调用状态处理方法
+        visitInsn();
+        mv.visitIntInsn(opcode, operand);
+    }
+    ...
+    //根据state对instruction特殊处理
+    protected abstract void visitInsn();
+}
+```
+- 定义实现类
+```java
+public class RemoveAddZeroAdapter extends PatternMethodAdapter {
+    //constant 标识ICONST_0指令出现
+    private static int SEEN_ICONST_0 = 1;
+    public RemoveAddZeroAdapter(MethodVisitor mv) {
+        super(ASM4, mv);
+    }
+    @Override 
+    public void visitInsn(int opcode) {
+        if (state == SEEN_ICONST_0) {
+            //如果已经出现ICONST_0
+            if (opcode == IADD) {
+                //并且当前指令是IADD
+                //放弃处理此两条指令，置state为未出现ICONST_0
+                state = SEEN_NOTHING;
+                return;
+            }
+        }
+        //如果没有出现ICONST_0+IADD两条指令，执行state检查处理
+        visitInsn();
+        if (opcode == ICONST_0) {
+            //如果出现ICONST_0指令，置state为出现
+            //并暂时返回不处理ICONST_0指令
+            state = SEEN_ICONST_0;
+            return;
+        }
+        //处理当前指令
+        mv.visitInsn(opcode);
+    }
+    //根据state对instruction特殊处理
+    @Override 
+    protected void visitInsn() {
+        if (state == SEEN_ICONST_0) {
+            //如果state为ICONST_0，处理前面暂存的指令
+            mv.visitInsn(ICONST_0);
+        }
+        state = SEEN_NOTHING;
+    }
+}
+```
+label和frames会在它们相关instruction之前被visit，虽然这二者本身不是指令。这会给transformations带来影响， 比如要删除的是一个跳转到的指令ICONST_0，这意味有一个label对应一个跳转指令。如果ICONST_0+IADD两条指令被删除后，这个跳转指令就会指向IADD后面那条指令。 但如果跳转指令是到IADD，由于不能确定在jump之前，a 0被压入stack，因此不能删除这两个指令序列。同样对于stack map frames，如果其在两个指令间被visit，这两指令也不能被删除。这两种情况下，就需要考虑将更多visitXXX加入
+visitInsn method如下：
+```java
+public abstract class PatternMethodAdapter extends MethodVisitor {
+...
+    @Override public void visitFrame(int type, int nLocal, Object[] local,
+    int nStack, Object[] stack) {
+        visitInsn();
+        mv.visitFrame(type, nLocal, local, nStack, stack);
+    }
+    @Override public void visitLabel(Label label) {
+        visitInsn();
+        mv.visitLabel(label);
+    }
+    @Override public void visitMaxs(int maxStack, int maxLocals) {
+        visitInsn();
+        mv.visitMaxs(maxStack, maxLocals);
+    }
+}
+```
