@@ -32,7 +32,7 @@ ASM提供以下几个5个lib
     </dependency>
 </dependencies>
 ```
-2. 利用 ClassReader／TraceClassVisitor读出并输出class文件内容
+2. 利用 ClassReader／TraceClassVisitor读出并输出class文件内容 [PrintClass](sample/king/law/asm/PrintClass.java)
 ```java 
 package king.law.asm;
 
@@ -87,7 +87,7 @@ public class ClassA {
     }
 }
 ```
-2. 通过ClassWriter 修改字节码
+2. 通过ClassWriter 修改字节码 [ConvertClass](sample/king/law/asm/ConvertClass.java)
 ```java
 package king.law.asm;
 
@@ -211,10 +211,11 @@ public toString()Ljava/lang/String;
     INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
     ALOAD 0
     GETFIELD king/law/asm/src/ClassA.number : I
-    //////////// 新增 (number * new Random().nextInt()) 指令
+    //////////// 新增 (number * new Random().nextInt(5)) 指令
     NEW java/util/Random
     DUP
     INVOKESPECIAL java/util/Random.<init> ()V
+    ICONST_5
     INVOKEVIRTUAL java/util/Random.nextInt (I)I
     IMUL
     ////////////
@@ -228,7 +229,7 @@ public toString()Ljava/lang/String;
     MAXLOCALS = 1   
     ////////////
 ```
-* 再对照指令差异来实现方法修改
+* 再对照指令差异来实现方法修改 [UpdateClass](sample/king/law/asm/UpdateClass.java)
 ```java
 package king.law.asm;
 
@@ -306,9 +307,11 @@ class MtWr extends MethodVisitor {
             //9.INVOKESPECIAL java/util/Random.<init> ()V
             mv.visitMethodInsn(Opcodes.INVOKESPECIAL, "java/util/Random",
                     "<init>", "()V", false);
-            //10.INVOKEVIRTUAL java/util/Random.nextInt (I)I
+            //10.ICONST_5
+            mv.visitInsn(Opcodes.ICONST_5);
+            //11.INVOKEVIRTUAL java/util/Random.nextInt (I)I
             mv.visitMethodInsn(Opcodes.INVOKEVIRTUAL, "java/util/Random",
-                    "nextInt", "()I", false);
+                    "nextInt", "(I)I", false);
             //12.IMUL
             mv.visitInsn(Opcodes.IMUL);
         }
@@ -318,7 +321,7 @@ class MtWr extends MethodVisitor {
     public void visitMaxs(int maxStack, int maxLocals) {
         //修改前 MAXSTACK = 2 MAXLOCALS = 1
         //修改后 MAXSTACK = 4 MAXLOCALS = 1
-        //12.重新计算栈和本地变量大小
+        //13.重新计算栈和本地变量大小
         //new ClassWriter(0)不会自动计算，COMPUTE_MAXS作为参数能自动计算
         mv.visitMaxs(maxStack + 2, maxLocals);
     }
@@ -474,3 +477,121 @@ public abstract class PatternMethodAdapter extends MethodVisitor {
     }
 }
 ```
+
+### Tree API 使用
+ASM tree API的核心是ClassNode/FieldNode/MethodNode classes,使用tree API来产生class会比Event API多耗费约30%时间并且使用更多memory，但是却可以按任何顺序来生成class elements，不必像Event API那样严格按照一定顺序做，这在某些情况下使用会方便一些。
+
+1. 通过ClassNode 修改字节码中package声明和class name [TreeConvertClass](sample/king/law/asm/TreeConvertClass.java)
+```java
+package king.law.asm;
+
+import org.objectweb.asm.*;
+
+public class TreeConvertClass {
+    public static void main(String[] args) throws Exception {
+        //1.初始化ClassNode
+        ClassNode cn = new ClassNode();
+        //2.装载解析class文件
+        ClassReader classReader = new ClassReader("king.law.asm.src.ClassA");
+        classReader.accept(cn, ClassReader.SKIP_DEBUG);
+        //3.通过ClassNode修改包名和类名
+        cn.visit(Opcodes.V1_8, Opcodes.ACC_PUBLIC,
+                "king/law/asm/dest/ClassA0", null, "java/lang/Object",
+                null);
+        //4.ClassNode接受一个ClassWriter来dump字节码流        
+        ClassWriter cw = new ClassWriter(0);
+        cn.accept(cw);
+        byte[] bytes = cw.toByteArray();
+
+        Class updatedClassA = new UpdateClassLoader()
+                .defineClass("king.law.asm.dest.ClassA0", bytes);
+        System.out.println("class is : " + updatedClassA.getName());
+    }
+}
+```
+执行结果：
+```console
+class is : king.law.asm.dest.ClassA0
+```
+
+2. 通过ClassNode/MethodNode 删除index方法，修改toString [TreeUpdateClass](sample/king/law/asm/TreeUpdateClass.java)
+```java
+package king.law.asm;
+
+import king.law.asm.src.ClassA;
+import org.objectweb.asm.*;
+
+import java.lang.reflect.Constructor;
+import java.util.Iterator;
+
+public class TreeUpdateClass {
+    public static void main(String[] args) throws Exception {
+        System.out.println("original ClassA(5) is : " + new ClassA(5));
+        System.out.println("has index() method? : " + ClassA.class.getDeclaredMethod("index"));
+        System.out.println("--------------------------");
+        ClassReader classReader = new ClassReader("king.law.asm.src.ClassA");
+        //1.用ClassNode对象把ClassReader解析数据转成内存tree结构
+        ClassNode cn = new ClassNode();
+        classReader.accept(cn, 0);
+        //2.轮询tree上 method node list
+        Iterator<MethodNode> methodNodeIterator = cn.methods.iterator();
+        while (methodNodeIterator.hasNext()) {
+            MethodNode mn = methodNodeIterator.next();
+            if ("index".equals(mn.name) && mn.access == Opcodes.ACC_PRIVATE
+                    && "()I".equals(mn.desc)) {
+                //3.把index method node从tree上list中删除
+                methodNodeIterator.remove();
+            }
+
+            if ("toString".equals(mn.name) && "()Ljava/lang/String;".equals(mn.desc)) {
+                //4.定位 GETFIELD king/law/asm/src/ClassA.number : I
+                final AbstractInsnNode[] cNode = {null};
+                mn.instructions.forEach(node -> {
+                    if (node.getOpcode() == Opcodes.GETFIELD) {
+                        cNode[0] = node;
+                    }
+                });
+                //5.增加 number * new Random().nextInt(5)指令序列
+                InsnList randomIl = new InsnList();
+                randomIl.add(new TypeInsnNode(Opcodes.NEW, "java/util/Random"));
+                randomIl.add(new InsnNode(Opcodes.DUP));
+                randomIl.add(new MethodInsnNode(Opcodes.INVOKESPECIAL, "java/util/Random",
+                        "<init>", "()V", false));
+                randomIl.add(new InsnNode(Opcodes.ICONST_5));
+                randomIl.add(new MethodInsnNode(Opcodes.INVOKEVIRTUAL, "java/util/Random",
+                        "nextInt", "(I)I", false));
+                randomIl.add(new InsnNode(Opcodes.IMUL));
+                //6.将新增指令列插入GETFIELD指令之后
+                mn.instructions.insert(cNode[0], randomIl);
+
+                //7.增加 System.out.println(number)指令序列
+                InsnList il = new InsnList();
+                il.add(new FieldInsnNode(Opcodes.GETSTATIC, "java/lang/System",
+                        "out", "Ljava/io/PrintStream;"));
+                il.add(new VarInsnNode(Opcodes.ALOAD, 0));
+                il.add(new FieldInsnNode(Opcodes.GETFIELD, "king/law/asm/src/ClassA",
+                        "number", "I"));
+                il.add(new MethodInsnNode(Opcodes.INVOKEVIRTUAL, "java/io/PrintStream",
+                        "println", "(I)V", false));
+                //8.将新增指令列插入methodNode的指令列表最前面
+                mn.instructions.insert(il);
+                //9.扩大stack size
+                mn.maxStack += 2;
+            }
+        }
+        //10.使用ClassWriter来dump内存中ClassNode的tree data
+        ClassWriter cw = new ClassWriter(0);
+        cn.accept(cw);
+        byte[] bytes = cw.toByteArray();
+
+        Class updatedClassA = new UpdateClassLoader()
+                .defineClass("king.law.asm.src.ClassA", bytes);
+        Constructor constructor = updatedClassA.getConstructor(Integer.TYPE);//等于 int.class
+        Object updatedObj = constructor.newInstance(5);
+        System.out.println("updated ClassA(5) is : " + updatedObj);
+        System.out.println("has index() method? : " + updatedClassA.getDeclaredMethod("index"));
+    }
+}
+
+```
+比较core event API和tree API最大不同就是在何处理字节码。前者是通过ClassWriter的visitXXX方法，按顺序一步步处理。后者是通过ClassNode的visitXXX方法，把所有方法迭代一遍，不必按照固定顺序处理，然后通过ClassWriter将修改后字节码流导出。比如修改toString方法，core event API的example必须先增加`println`，再修改`number * new Random().nextInt(5)`和maxstack。而tree API的example可以先修改后增加。
