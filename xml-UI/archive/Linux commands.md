@@ -1074,8 +1074,8 @@ curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
 # -u username 执行后console提示输入password  
 # -u username:password 明文password在脚本中
 # 如果password中有特殊字符如 admin:pwd!23，由于'!'会被shell解释，所以curl命令会被中断
-# 这种情况只能用console输入password，或者将credentials括进单双引号中避免shell解释，如'admin:pwd!23'       
-curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
+# 这种情况只能用console输入password，或者将credentials括进单双引号中避免shell解释，如'admin:default!23'       
+curl -i -k -u 'admin:default!23' https://192.168.111.143/api/2.0/vdn/controller \
             -H "Content-Type: application/json" 
 
 # 如果url中存在&字符 bash会当成linux后台运行命令解释，因此需要处理一下
