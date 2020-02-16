@@ -1069,7 +1069,12 @@ You successfully authenticated.  Use the cookie in this reply in future requests
 curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
             https://10.162.122.147/ws.v1/control-cluster/node?fields=* \
             -H "Content-Type: application/json"
-            
+
+# -u 指定访问credential
+# -u username 执行后console提示输入password  
+# -u username:password 明文password在脚本中
+# 如果password中有特殊字符如 admin:pwd!23，由于'!'会被shell解释，所以curl命令会被中断
+# 这种情况只能用console输入password，或者将credentials括进单双引号中避免shell解释，如'admin:pwd!23'       
 curl -i -k -u admin:default https://192.168.111.143/api/2.0/vdn/controller \
             -H "Content-Type: application/json" 
 
@@ -1629,6 +1634,9 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 + [awk-NR/NF变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615695&idx=2&sn=a8058e8ad8203e94c20b26eea4b82849)
 + [awk删掉重复行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615818&idx=2&sn=7d426b4a3b1170fcf11bd8443a07f759)
 ```console
+# awk 的基本语法
+awk [options] 'pattern {action}' file
+
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
