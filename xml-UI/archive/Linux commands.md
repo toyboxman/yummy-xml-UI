@@ -48,7 +48,7 @@
         - [systemctl](#systemctl)
         - [chkconfig](#chkconfig)
         - [free](#free)
-        - [hwinfo/lshw£¯lscpu](#hwinfo)
+        - [hwinfo/lshw/lscpu/nproc/dmidecode](#hwinfo)
         - [Turn off Console Color](#turn-off-console-color)
         - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
             + [ntp sync check](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614368&idx=2&sn=39f7e4fc960d997380ee166b5bf21059)
