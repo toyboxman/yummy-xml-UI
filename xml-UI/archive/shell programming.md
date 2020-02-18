@@ -335,6 +335,18 @@ fi
 + [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
 + [Ñ­»·](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615918&idx=1&sn=7f80263e0a5e7a320d25422ba6b26ce5)
 ```console
+for i in {1..5}
+do
+    echo "Welcome $i times"
+done
+
+# Bash v4.0+ {START..END..INCREMENT}
+echo "Bash version ${BASH_VERSION}..."
+for i in {0..10..2}
+do 
+    echo "Welcome $i times"
+done
+
 for VARIABLE in 1 2 3 4 5 .. N
 do
 command1

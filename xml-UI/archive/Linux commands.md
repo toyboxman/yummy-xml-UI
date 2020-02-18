@@ -48,7 +48,7 @@
         - [systemctl](#systemctl)
         - [chkconfig](#chkconfig)
         - [free](#free)
-        - [hwinfo/lshw](#hwinfo)
+        - [hwinfo/lshw／lscpu](#hwinfo)
         - [Turn off Console Color](#turn-off-console-color)
         - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
             + [ntp sync check](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614368&idx=2&sn=39f7e4fc960d997380ee166b5bf21059)
@@ -360,14 +360,26 @@ top -p1846 -p20607
 
 # save top output in file
 # -b instructs top to operate in batch mode
-# -n specify the amount of interation the command should output
+# -n specify the amount of iteration the command should output
 top -b -n 1 > top.log
 
 # save process top output
 # -p specify process id
 top -p 678 -b -n3 > process.log
+# 把process.log中cpu/mem usage数据过滤出
+grep 678 process.log | awk '{print $9, $10}' > cpu-mem.log
+
+# 可以计算出batch模式下默认迭代top时间是2秒
+date; top -p678 -b -n3 > top.log; date
+Mon Feb 17 07:42:20 UTC 2020
+Mon Feb 17 07:42:26 UTC 2020
+# 迭代次数越多时间应该拉长了，100次变成298秒，而不是200秒
+date; top -p678 -b -n100 > top.log; date
+Mon Feb 17 07:48:26 UTC 2020
+Mon Feb 17 07:53:24 UTC 2020
 
 # redirect loop output
+# 定制top迭代的间隔时间
 for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
 ```
 
@@ -456,6 +468,14 @@ echo `date +"%D"`
 
 date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
 2019
+
+# 计算两次date时间差
+start=`date +'%s'`
+# 按seconds格式转换date
+end=`date +'%s'`
+# start/end是作为字符串处理的，若要进行运算，shell需要使用$(())
+duration=$(($end-$start))
+echo "call execution time $duration seconds"
 ```
 
 #### sysctl
@@ -617,6 +637,15 @@ hwinfo --netcard
 ```console
 # 查看cpu硬件信息
 lshw | grep cpu
+# 有些linux发行版lscpu
+lscpu
+# 直接查看描述文件
+cat /proc/cpuinfo
+# prints out the number of processing units available
+nproc
+# dumping a computer's DMI (some say SMBIOS) table contents in a human-readable format
+# 过滤显示出主板上cpu信息 -t 4 cpu的type是4
+dmidecode -t 4
 ```
 
 #### lsof
@@ -1894,8 +1923,9 @@ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -c 1,3,6
 MSG
 MSG
 
-# -f (field) 按分隔后的字段截取内容
 # -d "delimiter" 指定分隔符
+# -f (field) 按分隔后的字段截取内容 
+# -f 1指定split出的数组第一个，-f 2指定split出的数组第二个
 strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 2
 kscreen.xcb.helper: RRScreenChangeNotify
 kscreen.xcb.helper:     Window: 35651588
