@@ -313,6 +313,9 @@ process in:file language:java extension:java
     - [JVM面试问题](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218082&idx=3&sn=5f8aca3ae79d8924b0d451aabe0b8946)
 
 #### tools
++ Linux常用工具[[英文](https://github.com/luong-komorebi/Awesome-Linux-Software), [中文](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)]
++ Windows常用工具[[英文](https://github.com/Awesome-Windows/Awesome), [中文](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)]
++ Mac常用工具[[英文](https://github.com/jaywcjlove/awesome-mac), [中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)]
 + ***Notepad++***
     - replace    
     需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
