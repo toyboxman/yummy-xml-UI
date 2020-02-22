@@ -55,11 +55,7 @@
     - [开源工具构建 DevOps](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615071&idx=1&sn=076ede5dea71d33fa6064c070dfcd633)    
     - [Jenkins构建CI/CD](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615559&idx=2&sn=4a035d79fcfb1ae5a0ba40aeaddf900e)
     - [pdftk操作 PDF](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=4&sn=30aa0df34d11b8e3a246e5dae1aa5a2f)
-    - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
-    ```console
-    ffmpeg -i test.mp4
-    ffmpeg -i test.mp4 test.mp3
-    ```
+    - [FFmpeg编辑视频](ffmpeg.md)
     - [LiVES 视频编辑器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614985&idx=2&sn=a89937b425799b1d3fc24f30fda0c82c)
     - [Photoshop开源替代品](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615399&idx=3&sn=6c76f99079a1a2455a477fd40ce9ade4)
     - Ansible
