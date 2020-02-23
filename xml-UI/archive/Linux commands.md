@@ -479,7 +479,7 @@ echo "call execution time $duration seconds"
 ```
 
 #### sysctl
-sysctl is used to modify kernel parameters at runtime. The parameters available are those listed under /proc/sys/, sysctl both reads and writes sysctl data
+sysctl用来修改runtime时kernel parameters. 这类的参数被保存在/proc/sys/, sysctl命令可以读写sysctl data
 ```console
 # list kernel parameters
 /sbin/sysctl -a
@@ -494,7 +494,7 @@ sysctl is used to modify kernel parameters at runtime. The parameters available 
 ```
 
 #### ulimit
-[Ulimit](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=2&sn=2a52adca9e4d1a4c496bccbbba8bd0ca) modify shell resource limits. Provides control over the resources available to the shell and processes it creates, on systems that allow such control.
+[Ulimit](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=2&sn=2a52adca9e4d1a4c496bccbbba8bd0ca) 修改shell resource limits.
 ```console
 # list all
 ulimit -a
@@ -511,7 +511,7 @@ In ubuntu-18, you can easily change them forever, systemd has an option for this
 more /etc/systemd/system.conf | grep NOFILE
 DefaultLimitNOFILE=65536
 ```
-if you hope to change them in other way, please update config files related.
+也可以通过update相关config files来修改.
 ```console
 # edit the following file
 sudo vim /etc/security/limits.conf
