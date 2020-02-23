@@ -5,6 +5,7 @@
 - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
 - [FFmpeg+ImageMagick从视频中创建gif](https://www.ostechnix.com/create-animated-gif-ubuntu-16-04/)
 - [FFmpeg从PDF中创建视频](https://www.ostechnix.com/create-video-pdf-files-linux/)
+- [FFmpeg常用命令](https://blog.csdn.net/weixin_42081389/article/details/100543007)
 
 ---
 
@@ -15,6 +16,7 @@ brew install ffmpeg
 # 查看视频信息
 # -i input 指定输入文件
 ffmpeg -i test.mp4
+ffmpeg -i test.mp4 -hide_banner
 # 转换视频格式
 # 上文链接中还有 -vf压缩视频 -ab压缩音频参数 -an剔除音频 -vn剔除视频, 抓取图像，裁剪视频
 # -y 如果输出文件存在自动覆盖
@@ -27,9 +29,12 @@ ffmpeg -i test.mp4 -ss 00:00:10 -to 00:00:15 te.mp4
 # 截取开始时间至持续时间的一段视频
 ffmpeg -i test.mp4 -ss 01:15:50 -t 50 output.mp4
 # 上文链接中还有concat几个视频到一个视频文件中方法
+# 裁剪视频，比如可以把burned的字幕切掉
+# 先用上面命令查看原视频文件大小，再根据宽高和坐标进行 crop=w:h:x:y
+ffmpeg -i test.mp4 -filter:v "crop=1280:690:0:0" output.mp4
 ```
 
-#### 添加字幕文件
+#### 添加字幕
 首先需要准备字幕文件
 ```console
 touch subtitle.srt
