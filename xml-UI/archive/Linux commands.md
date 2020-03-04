@@ -833,6 +833,12 @@ find /home -user king -exec file {} \;
 /home/king/public_html: directory
 /home/king/public_html/.directory: ASCII text
 
+# 检查当前目录下哪个jar文件包含ClassUtils.class
+find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
+Archive:  ./commons-compress-1.8.1.jar
+3352  2014-05-09 20:45   org/apache/commons/compress/utils/ClassUtils.class
+
+
 # remove all files with 'tgz' suffix found
 find / -iname '*.tgz' -exec rm {} \;
 ```
@@ -964,10 +970,11 @@ king:users
 #### search txt
 ```console
 # search keyword in src and its sub folders
+# -w match整个词
 # -n show line number
 # -r recursively search
 # --include="*.h" only search *.h files
-grep -nr --include="*.h" DB_VERSION_STRING ./src  
+grep -wnr --include="*.h" DB_VERSION_STRING ./src  
 
 # --exclude=\*.{jar,class} don't search *.jar and *.class files
 grep -nr "VersionMBean" --exclude=\*.{jar,class} ~/src
