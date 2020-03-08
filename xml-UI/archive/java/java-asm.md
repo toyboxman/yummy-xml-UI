@@ -15,7 +15,17 @@ ASM提供以下几个5个lib
 * asm-tree.jar 提供基于object tree模型的API, 以及一些工具，用来转换class在event模型和object tree模型之间不同表达.
 * asm-analysis.jar 提供class analysis framework和一些基于object tree模型的class analyzers.
 
++ [**查看class文件字节码**](#exp1)
++ [**通过visit修改class文件包结构**](#exp2)
++ [**通过visit删除并修改方法实现**](#exp3)
++ [**通过visit修改上下文相关方法实现**](#exp4)
++ [**通过visit实现try/catch整个方法**](#exp5)
++ [**通过ClassNode修改package和class name**](#exp6)
++ [**通过MethodNode删除index修改toString**](#exp7)
+
 ### Event API 使用
+<div id = "exp1"></div>
+
 #### 查看字节码
 1. 配置项目依赖 
 ```yaml
@@ -62,6 +72,7 @@ visit visitSource? visitOuterClass? ( visitAnnotation | visitAttribute )*
 visitEnd
 ```
 首先调用visit，至多调用一次visitSource, 接着至多调用一次visitOuterClass。接下来不同顺序调用多次visitAnnotation和visitAttribute,再不同顺序多次调用visitInnerClass, visitField和visitMethod。最后调用visitEnd结束对class文件浏览.
+<div id = "exp2"></div>
 
 #### 修改Class层面字节码
 1. 准备目标ClassA，然后通过转换将其package改成`king.law.asm.dest`
@@ -153,6 +164,7 @@ visitLocalVariable | visitLineNumber )*
 visitMaxs )?
 visitEnd
 ```
+<div id = "exp3"></div>
 修改方法体又分为stateless和stateful两种类型
 1. stateless
 
@@ -329,10 +341,10 @@ class MtWr extends MethodVisitor {
 
 //定制ClassLoader载入修改后的class文件
 class UpdateClassLoader extends ClassLoader {
-    //可以直接调用defineClass来装载class文件
+    //可以直接调用defineClass方法来装载class文件
     public Class defineClass(String name, byte[] b) {
-        //ClassLoader.defineClass是protected final,无法override
-        //只能通过proxy方式调用
+        //父类ClassLoader.defineClass是protected final,无法override
+        //只能通过这样proxy方式调用
         return super.defineClass(name, b, 0, b.length);
     }
 
@@ -384,6 +396,8 @@ Exception in thread "main" java.lang.NoSuchMethodException: king.law.asm.src.Cla
 
 ```
 5是由println输出，40也是5*8结果，index()方法不存在抛出异常，说明对ClassA的修改符合预期。
+
+<div id = "exp4"></div>
 
 2. stateful
 
@@ -477,9 +491,236 @@ public abstract class PatternMethodAdapter extends MethodVisitor {
     }
 }
 ```
+<div id = "exp5"></div>
+
+3. 修改方法实现，增加try/catch block
+
+将ClassA的index()代码整个放到try block中
+```java
+private int index() {
+    try {
+        return this.number;
+    } finally {
+        System.out.println("index() method returns");
+    }
+}
+```
+通过增加asm相关try指令集, [InsTryBlock](sample/king/law/asm/InsTryBlock.java)
+```java
+package king.law.asm;
+
+import org.objectweb.asm.*;
+import org.objectweb.asm.util.CheckClassAdapter;
+
+import java.lang.reflect.Constructor;
+import java.nio.file.*;
+
+public class InsTryBlock {
+    public static void main(String[] args) throws Exception {
+        ClassReader classReader = new ClassReader("king.law.asm.src.ClassA");
+        // tryblock植入class文件后会导致FRAMES改变，手动计算困难，因此选择自动处理
+        ClassWriter cw = new ClassWriter(ClassWriter.COMPUTE_FRAMES);
+        // 使用定制ClassWriter配合ClassVisitor来处理读出class字节流
+        TryBlockClassWriter mcw = new TryBlockClassWriter(Opcodes.ASM7, cw);
+        ClassVisitor cv = new CheckClassAdapter(mcw);
+        classReader.accept(cv, 0);
+        // 把转换过的class字节流写入ClassA0.class文件
+        byte[] bytes = cw.toByteArray();
+        Path dir = Paths.get("./target/classes/king/law/asm", "src");
+        Path file = dir.resolve("ClassA0.class");
+        Files.write(file, bytes,
+                StandardOpenOption.CREATE,
+                StandardOpenOption.TRUNCATE_EXISTING,
+                StandardOpenOption.WRITE);
+        // 通过定制classloader来加载修改后的class文件
+        Class updatedClassA = new UpdateClassLoader()
+                .defineClass("king.law.asm.src.ClassA", bytes);
+        Constructor constructor = updatedClassA.getConstructor(Integer.TYPE);//等于 int.class
+        Object updatedObj = constructor.newInstance(5);
+        System.out.println("updated ClassA(5) is : " + updatedObj);
+    }
+
+    public static class TryBlockMethodWriter extends MethodVisitor {
+        // 待增加try block的methodName
+        private String methodName;
+
+        // try block的相关label，对应asm代码 TRYCATCHBLOCK L0 L1 L2 null
+        private Label lTryBlockStart; // L0
+        private Label lTryBlockEnd;   // L1
+        private Label lFinalBlock;    // L2
+
+        // flag用来表示原始asm代码中IRETURN是否已经做过替换 IRETURN->ISTORE 1
+        private boolean replace = false;
+
+        public TryBlockMethodWriter(int api, MethodVisitor mv, String methodName) {
+            super(api, mv);
+            this.methodName = methodName;
+        }
+
+        // 为了给整个方法都放到try/finally，需要在方法体最开始加入visitTryCatchBlock
+        //   visitAnnotationDefault?
+        //   ( visitAnnotation | visitParameterAnnotation | visitAttribute )*
+        //   ( visitCode
+        //   ( visitTryCatchBlock | visitLabel | visitFrame | visitXxxInsn |
+        //        visitLocalVariable | visitLineNumber )*
+        //   visitMaxs )?
+        //   visitEnd
+
+        // 原始index()完整asm代码
+        //private index()I
+        //L0
+        //LINENUMBER 13 L0
+        //ALOAD 0
+        //GETFIELD king/law/asm/src/ClassA.number : I
+        //IRETURN
+        //
+        //L1
+        //LOCALVARIABLE this Lking/law/asm/src/ClassA; L0 L1 0
+        //MAXSTACK = 1
+        //MAXLOCALS = 1
+        //
+
+        //---> 增加try block后index()完整asm代码
+        //
+        //private index()I
+        //TRYCATCHBLOCK L0 L1 L2 null
+        //L0
+        //LINENUMBER 14 L0
+        //ALOAD 0
+        //GETFIELD king/law/asm/src/ClassA.number : I
+        //ISTORE 1
+        //
+        //L1
+        //LINENUMBER 16 L1
+        //GETSTATIC java/lang/System.out : Ljava/io/PrintStream;
+        //LDC "index() method returns"
+        //INVOKEVIRTUAL java/io/ PrintStream.println (Ljava/lang/String;)V
+        //ILOAD 1
+        //IRETURN
+        //
+        //L2
+        //FRAME SAME1 java/lang/Throwable
+        //ASTORE 2
+        //GETSTATIC java/lang/System.out : Ljava/io/PrintStream;
+        //LDC "index() method returns"
+        //INVOKEVIRTUAL java/io/PrintStream.println (Ljava/lang/String;)V
+        //ALOAD 2
+        //ATHROW
+        //
+        //L3
+        //LOCALVARIABLE this Lking/law/asm/src/ClassA; L0 L3 0
+        //MAXSTACK = 2
+        //MAXLOCALS = 3
+        //
+        @Override
+        public void visitCode() {
+            super.visitCode();
+
+            // 仅对 index()方法增加try block
+            if (methodName.equals("index")) {
+                lTryBlockStart = new Label();
+                lTryBlockEnd = new Label();
+                lFinalBlock = new Label();
+
+                // 在原始asm代码中新增 TRYCATCHBLOCK L0 L1 L2 null
+                // null表示捕获any exceptions，也可以用名称指定具体捕获类型如"java/lang/System"
+                visitTryCatchBlock(lTryBlockStart, lTryBlockEnd,
+                        lFinalBlock, null);
+                // 在原始asm代码中新增 L0
+                visitLabel(lTryBlockStart);
+            }
+        }
+
+        @Override
+        public void visitInsn(int opcode) {
+            // 如果是原始asm代码中IRETURN指令则替换成ISTORE 1指令
+            if (opcode == Opcodes.IRETURN && !replace) {
+                //System.out.println("do instrument: Opcodes.IRETURN");
+                //调试中通过打印发现IRETURN被执行两次导致修改class失败
+                //因为修改后的class L1中也有IRETURN指令，那个地方不能替换，因此增加replace flag判断
+                visitVarInsn(Opcodes.ISTORE, 1);
+                replace = true;
+                return;
+            }
+            super.visitInsn(opcode);
+        }
+
+        @Override
+        public void visitMaxs(int maxStack, int maxLocals) {
+            // 原始asm代码max段之前就是IRETURN指令，需要增加try block相关代码
+            if (methodName.equals("index")) {
+                // 增加L1段的代码
+                // L1
+                visitLabel(lTryBlockEnd);
+                //LINENUMBER 16 L1 行码会自动计算不需要显式处理
+                //GETSTATIC java/lang/System.out : Ljava/io/PrintStream;
+                visitFieldInsn(Opcodes.GETSTATIC, "java/lang/System",
+                        "out", "Ljava/io/PrintStream;");
+                //LDC "index() method returns"
+                visitLdcInsn("index() method returns");
+                //INVOKEVIRTUAL java/io/ PrintStream.println (Ljava/lang/String;)V
+                visitMethodInsn(Opcodes.INVOKEVIRTUAL, "java/io/PrintStream",
+                        "println", "(Ljava/lang/String;)V", false);
+                //ILOAD 1
+                visitVarInsn(Opcodes.ILOAD, 1);
+                //IRETURN
+                //此处指令通过replace flag识别就不会再替换掉
+                visitInsn(Opcodes.IRETURN);
+
+                // 增加L2段的代码
+                // L2
+                visitLabel(lFinalBlock);
+                //FRAME SAME1 java/lang/Throwable 选择ClassWriter.COMPUTE_FRAMES自动计算，不需要显式处理
+                //ASTORE 2
+                visitVarInsn(Opcodes.ASTORE, 2);
+                //GETSTATIC java/lang/System.out : Ljava/io/PrintStream;
+                visitFieldInsn(Opcodes.GETSTATIC, "java/lang/System",
+                        "out", "Ljava/io/PrintStream;");
+                //LDC "index() method returns"
+                visitLdcInsn("index() method returns");
+                //INVOKEVIRTUAL java/io/PrintStream.println (Ljava/lang/String;)V
+                visitMethodInsn(Opcodes.INVOKEVIRTUAL, "java/io/PrintStream",
+                        "println", "(Ljava/lang/String;)V", false);
+                //ALOAD 2
+                visitVarInsn(Opcodes.ALOAD, 2);
+                //ATHROW
+                visitInsn(Opcodes.ATHROW);
+            }
+
+            super.visitMaxs(maxStack, maxLocals);
+        }
+    }
+
+    public static class TryBlockClassWriter extends ClassVisitor {
+        private int api;
+
+        public TryBlockClassWriter(int api, ClassWriter cv) {
+            super(api, cv);
+            this.api = api;
+        }
+
+        @Override
+        public MethodVisitor visitMethod(int access, String name, String desc,
+                                         String signature, String[] exceptions) {
+
+            MethodVisitor mv = super.visitMethod(access, name, desc, signature,
+                    exceptions);
+            // 封装系统MethodVisitor，通过TryBlockMethodWriter代理来实现代码修改
+            TryBlockMethodWriter mvw = new TryBlockMethodWriter(api, mv, name);
+            return mvw;
+        }
+    }
+}
+```
+执行结果
+```console
+index() method returns
+updated ClassA(5) is : ClassA{number=5, index=5}
+```
 
 ### Tree API 使用
 ASM tree API的核心是ClassNode/FieldNode/MethodNode classes,使用tree API来产生class会比Event API多耗费约30%时间并且使用更多memory，但是却可以按任何顺序来生成class elements，不必像Event API那样严格按照一定顺序做，这在某些情况下使用会方便一些。
+<div id = "exp6"></div>
 
 1. 通过ClassNode 修改字节码中package声明和class name [TreeConvertClass](sample/king/law/asm/TreeConvertClass.java)
 ```java
@@ -513,6 +754,7 @@ public class TreeConvertClass {
 ```console
 class is : king.law.asm.dest.ClassA0
 ```
+<div id = "exp7"></div>
 
 2. 通过ClassNode/MethodNode 删除index方法，修改toString [TreeUpdateClass](sample/king/law/asm/TreeUpdateClass.java)
 ```java

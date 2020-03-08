@@ -19,6 +19,7 @@
     - [Linux性能分析工具合集](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446320&idx=1&sn=a153a3b893b0e6f418c1c47ff7dc246e)
     - [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
     - [发现截断的数据项](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=3&sn=6f51206fd04451ad879fd44d7bb3d9d3)
+    - [软件效率分析组](http://sape.inf.usi.ch/)
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
@@ -89,6 +90,7 @@
     - [Go并发编程](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616056&idx=1&sn=701c0e342abf02d07300305169b64e4a)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + [***laTeX***](laTeX/laTeX.md)
++ [**C++编译器工作原理**](https://github.com/selfboot/CS_Offer/blob/master/C%2B%2B/Compiler.md)
 + ***Algorithm***
     - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
     - [分布式唯一 ID之Snowflake算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217772&idx=3&sn=9c7d6ae01ae1e78db3734cf428c01b1c)
