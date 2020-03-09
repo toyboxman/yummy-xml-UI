@@ -1270,6 +1270,12 @@ gzip -dtest spring.gz
 unzip -dlib lib.zip  
 # extract zip file to designated folder
 unzip lib.zip -d /usr/share/tmp  
+# To extract all FORTRAN and C source files--*.f, *.c, *.h, and Makefile--into the /tmp directory:
+unzip source.zip "*.[fch]" Makefile -d /tmp
+# same command regardless of case (e.g., both *.c and *.C, and any makefile, Makefile, MAKEFILE or similar):
+unzip -C source.zip "*.[fch]" makefile -d /tmp
+# 解压指定文件到当前目录，指定文件必须是压缩包中完整路径名
+unzip framework-api-1.0.jar "com/example/api/ApiImpl.class" -d .
 
 # pipeline gzip&tar
 # tar xvf - 减号指定stdin读取内容并在当前目录解压
