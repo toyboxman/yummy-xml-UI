@@ -55,3 +55,148 @@ As Covid-19 strikes today and `a spate of` other pathogens are ready to emerge i
 Scaling up this effort to `cover all viral families`, as the Global Virome Project proposes to do, is `a logical first step` toward prevention
 按照Global Virome项目的建议，将这一努力扩大到所有病毒家族，这是迈向预防的合理第一步
 
+China is known as the world’s factory for `car parts`, toys and electronics, but it also `churns out` much of the `penicillin, antibiotics and pain medicines` used across the globe, as well as `surgical masks` and medical devices
+中国以汽车零部件、玩具和电子产品的世界工厂而闻名，但它也生产了全世界所使用的大部分青霉素、抗生素和止痛药，以及医用口罩和医疗设备
+
+`While the United States remains a global leader in drug discovery`, much of the manufacturing has `moved offshore`. The last American plant to `make key ingredients for penicillin` announced it would close its doors in 2004
+美国仍然是全球领先的药物研发国，但其大部分药物生产已经转移到海外。美国最后一家生产青霉素关键成分的工厂已在2004年宣布关闭
+
+If China shut the door on exports of core components to make our medicines, within months our `pharmacy shelves would become bare` and our health care system would `cease to function`
+假如中国停止出口我国药品生产的核心成分，几个月之内，我们的药店货架就会空空如也，我们的医疗系统就会停止运作
+
+If China `banned the export of drugs`, the United States would `sink into the hell` of a novel coronavirus epidemic
+如果中国禁止药品出口，美国将会陷入新冠肺炎疫情的地狱
+
+And South Korea, Germany, India, Taiwan and others `have clamped down on exports` of masks and other `protective gear` over worries their own supplies will `fall short`
+韩国、德国、印度、台湾及其他国家政府都因为担心供应不足而限制了口罩和其他防护装备的出口
+
+He called the administration’s coming `executive order` “a very strong first step in `incentivizing domestic production`.”
+政府即将发布的行政命令是“刺激国内生产强有力的第一步”。
+
+Technically I think it’s possible, but `unlikely from a cost effectiveness perspective`. The Trump administration has urged companies making electronics, steel, toys and many other products to move their supply chains out of China, `with mixed success`.
+从技术上讲，我认为是可能的，但从成本效益的角度看，可能性不大。特朗普政府呼吁制造电子产品、钢铁、玩具和许多其他产品的企业将供应链移出中国，但收效上喜忧参半
+
+China is also a key producer of the chemicals that go into making drugs, and `home to a vast supply` of `well-educated but low-paid scientists`. And `pharmaceutical companies` say they `are drawn to` China as a large and rapidly growing health care market `in its own right`
+中国也是用于制药的化学物质的主要生产国，并拥有大批受过良好教育但收入较低的科学家。制药公司说，它们被吸引到中国，因其本身就是一个庞大且快速增长的医疗保健市场
+
+In the private sector, as in many other industries, pharmaceutical companies `have shifted from stockpiling goods in warehouses` to a `“just in time” logistics model` that ships products as `need arises` — reducing costs but also increasing the `likelihood of shortages`
+与许多其他行业一样，私营部门中的制药公司已经从在仓库中储存货物转变为在需求增加时运输产品的“刚刚好”物流模式——这降低了成本，但也增加了短缺的可能性
+
+‘It’s Just Everywhere Already’: How Delays in Testing `Set Back` the U.S. Coronavirus Response
+“它已经无处不在”：美国如何错失了遏制新冠病毒的良机
+
+`As luck would have it`, Dr. Chu had a way to monitor the region. For months, as part of a research project into the flu, she and a team of researchers had been `collecting nasal swabs` from residents experiencing symptoms throughout the Puget Sound region.
+凑巧的是，海伦·朱有办法监测该地区。几个月来，作为针对流感的研究项目的一部分，她和一组研究人员一直在整个普吉特海湾地区出现症状的居民中收集鼻拭子
+
+ Local officials across the country were left to `work blindly` as the crisis `grew undetected and exponentially`
+ 危机在不知不觉中急剧恶化，全国各地的地方官员却只能盲目应对
+
+ It’s going to `take rigorous, aggressive public health` — `what I like to say, block and tackle`, That means if you find a new case, you isolate it
+这将需要严格、积极主动的公众卫生——我想说的是，阻断并处理，这意味着如果你发现了一个新病例，要进行隔离
+
+But the Seattle Flu Study illustrates `how existing regulations and red tape` — sometimes designed to protect privacy and health — have `impeded the rapid rollout` of testing nationally, while other countries ramped up much earlier and faster
+但是从西雅图的流感研究可见，现行的监管和繁琐程序——有时旨在保护隐私和健康——如何导致无法快速进行全国范围的测试，而其他国家却可以更早、更迅速地进行
+
+Faced with a public health emergency `on a scale potentially not seen in a century`, the United States has not `responded nimbly`
+面对可能是百年一遇的公共卫生突发事件，美国未能做出灵活反应
+
+The C.D.C.’s `own effort to` create a system for monitoring the virus around the country, using `established government surveillance networks` for the flu, has not yet `built steam`
+疾控中心自己的努力，即利用现成的政府流感监控网络建立全国范围内的病毒监控系统，目前尚未运转起来
+
+The C.D.C.’s first job was to `develop a diagnostic test`. “That’s our `prime mission`,” Dr. Redfield said, “to `get eyes on this thing`.”
+疾控中心的第一项工作就是开发诊断测试。“我们的首要任务，”雷德菲尔德说，“就是能看到这东西”
+
+Dr. Chu `tried repeatedly to wrangle approval` to use the Seattle Flu Study. The answers `were always no`
+朱医生曾多次试图争取批准使用西雅图流感研究。得到的回答始终是否定的
+
+By Feb. 24, as new cases of the virus began `popping up` in the United States, the state labs were `growing frantic`.
+到2月24日，随着新的病例开始在美国出现，州实验室一片混.
+
+The Association of Public Health Laboratories made what it called an “`extraordinary and rare request`” of Dr. Stephen Hahn, `the commissioner` of the F.D.A., asking him to `use his discretion` to allow state and local public health laboratories to create their own tests for the virus
+美国公共卫生实验室协会向FDA局长斯蒂芬·哈恩博士提出了一个“非同寻常而罕见的要求”，要求他使用自由裁量权，允许州和地方公共卫生实验室自行进行病毒检测
+
+But the approval process for laboratory-developed tests `was proving onerous`
+但事实证明，实验室进行检测的审批过程十分繁琐
+
+Still, the troubling finding `reshaped how officials understood the outbreak`. Seattle Flu Study scientists `quickly sequenced the genome` of the virus, finding `a genetic variation` also present in the country’s first coronavirus case
+尽管如此，这一令人不安的发现改变了官员们对疫情的理解。西雅图流感研究所的科学家迅速对病毒的基因组进行了测序，发现在美国首例冠状病毒病例中也存在遗传变异
+
+`The implications were unnerving`. There was a good chance that the virus had been `circulating silently in the community` for around six weeks, infecting potentially hundreds of people.
+其含义令人不安。该病毒很有可能已经在社区内悄无声息地传播了大约六周，感染了数百人
+
+They would need to use `a new consent form` that explicitly mentioned that results of the coronavirus tests might be shared with the local health department
+他们将需要使用一份新的同意书，明确提到冠状病毒检测的结果可能会与当地卫生部门共享
+
+The availability of testing for coronavirus `remains uneven`
+冠状病毒检测仍然不是哪里都可以做
+
+`The frustration`, she said, was how long it took to `cut through red tape` to try to save lives in an outbreak that had the potential to explode in Washington State and spread in many other regions
+她说，令人沮丧的是，在一场可能在华盛顿州暴发，并在许多其他地区蔓延的疫情中，人们花了许多时间才得以突破繁文缛节去挽救生命
+
+I’m writing this from `the makeshift quarantine bunker` in my dining room — `sweatpants on, hand sanitizer nearby`, `snacking my way through` my `emergency rations`.
+这些是我在我家饭厅临时改造的隔离区写下的——穿着运动裤，洗手消毒液就在手边，时不时地吃两口我的紧急口粮配给，也就是零食
+
+In his blog post last week, he wrote that it “might also offer an opportunity for many companies to finally build a culture that allows `long-overdue work flexibility`.”
+他上周在博客中写道：“它还可能为许多公司提供机会，最终建立一种备受期待的灵活工作文化。”
+
+I was a work-from-home evangelist who told everyone `within earshot` about the benefits of avoiding the office. `No commute! No distracting co-workers`! Home-cooked lunch! What’s not to love?
+我狂热鼓吹在家工作，告诉身边的每个人避开办公室的好处。不用通勤！没有同事来打扰你！在家吃饭！让人怎能不爱？
+
+Most people should work in an office, or near other people, and `avoid solitary work-from-home arrangements whenever possible.`
+大多数人应该在办公室或在其他人周围工作，并尽量避免独自在家工作的安排
+
+But for those of us `lucky enough to be able to` work from home, coronavirus or no, `a few words of caution are in order.`
+但是对于我们这些能在家工作的幸运儿，无论有没有冠状病毒，有必要注意以下几点
+
+`The study examined` remote workers at a Chinese travel agency and found that they `were 13 percent more efficient than` their office-based peers
+该研究对中国一家在线旅行服务公司的远程工作人员进行了调查，发现他们的效率比办公室同事高13％
+
+But research also shows that what remote workers `gain in productivity`, they often miss in `harder-to-measure benefits` like creativity and innovative thinking. `Team cohesion` suffers in remote work arrangements
+但是研究也表明，虽然远程工作者效率更高，但他们也错失了创造力和创新思维这些难以衡量的收益. 远程工作会影响团队凝聚力
+
+Steve Jobs, `for one`, was a famous opponent of remote work, believing that Apple employees’ best work `came from accidentally bumping into other people`, not sitting at home in front of an email inbox.
+史蒂夫·乔布斯就是著名的远程工作反对者，他认为苹果员工最好的工作表现来自于偶然的碰撞，而不是坐在家里面对收件箱
+
+Creativity comes from `spontaneous meetings`, from random discussions, You `run into someone`, you ask what they’re doing, you say ‘Wow,’ and soon you’re `cooking up all sorts of ideas`.
+创造力源于自发的会议，来自随机的讨论，你遇到一个人，问问他在做什么，听了就说‘哇’，然后很快就有各种各样的点子冒出来
+
+`I’ll grant that office work has its downsides`, even in healthy times. Commuting has been shown to make us less happy, and `the open-plan office`, `a truly cursed workplace design trend` that emphasizes `airy spaces` with `rows of desks and little privacy`, has made `distraction-free focus nearly impossible`
+我承认，即使是在健康的时期，在办公室工作也有它的缺点。事实证明，通勤会让我们不那么开心，开放式办公室真是一种令人讨厌的办公室设计趋势，它强调通风的空间，带有一排排的办公桌，几乎没有隐私，让人几乎不可能不受干扰地专心工作
+
+But some people may never `be content with virtual water coolers.`
+但有些人可能永远不会满足于虚拟的饮水机
+
+As `a white-collar millennial`, I’m supposed to `be cheering on` the remote work revolution. But I’ve realized that `I can’t be my best, most human self in sweatpants`, pretending to pay attention on video conferences `between trips to the fridge`
+作为一名千禧一代的白领，我应该为远程工作革命欢呼。但我已经意识到，穿着运动裤，假装专心参加视频会议，时不时去冰箱拿东西，这并不是我最好、最有人情味的状态
+
+As supply chains in the West `began to run dry`, `airfreight rates from China jumped` suddenly last week
+随着西方国家的供应链开始枯竭，上周来自中国的空运价格迅速上涨
+
+Beijing `has unleashed a series of top-down measures` to get offices and factories `humming again`
+为了让办公室和工厂重新活跃起来，中国政府出台了一系列自上而下的措施
+
+The state-owned railway `has halved a wide range of freight charges`. The national education ministry has `created 180,000 spaces at graduate schools` next autumn for students graduating this spring `with little prospect of a job`
+
+Those measures `face formidable hurdles`. Local officials are under pressure to reduce new infections, making them nervous about allowing people to return to work.
+恢复经济活动的措施面临着巨大障碍。地方官员在减少新感染病例上面临巨大压力，这让他们对允许工人重返工作岗位十分紧张
+
+`Cash-strapped families` may also `be reluctant to spend`. Household and corporate debts are huge after a decade of `heavy lending by the state-controlled banking sector`. Workers do not know whether their employers can pay them. Businesses do not know if other businesses `will default on payments` for goods and services
+现金拮据的家庭可能也不愿意花钱。在国家控制的银行部门大量发放贷款十年之后，家庭和企业都担负着巨额的债务。工人们不知道他们的雇主是否发得出工资。企业不知道其他企业是否会拖欠商品和服务的付款
+
+The provincial authorities in southern China `stepped in` a week ago to rescue HNA Group, `a debt-laden private sector conglomerate` that has struggled to pay its bills.
+一周前，中国南方一个省的政府出手救助海航集团，这家负债累累的私营企业集团陷入债务危机
+
+More than 50 million migrant workers have not yet returned to their jobs, according to official data. Some `remain in quarantine`. Others are `stranded in rural areas` where bus service has not resumed
+官方数据显示，逾5000万农民工尚未返回工作岗位。有些人仍在隔离中。有些人被困在农村地区，因为那里的长途汽车还没有恢复运行
+
+`Signs of fraud` have already emerged, making it harder for officials in Beijing to figure out what is going on around the country. `One scam `involves businesses that `turn on air conditioning and run machinery with no output`, said Cao Heping, a Peking University economist. The goal is to `burn enough electricity to qualify for restart subsidies`
+欺诈的迹象已经出现，这让北京的官员们更难弄清楚全国的情况。北京大学经济学家曹和平说，一种骗局是，企业打开空调，让机器运转起来，却没有产出。这样做的目的是耗掉足够多的电力，以达到领取复工补贴的资格
+
+Until China `revs up fully`, many people are trying to `conserve cash`
+在中国恢复全速发展之前，许多人都在努力节省现金
+
+On a nearby street, Dai Jianglai fears `the imminent failure` of her `grilled pancake eatery`
+在附近的一条街上，戴姜莱担心自己的锅盔店很快就要倒闭
+
+`With business so weak`, Mr. Zhang sits every day among his `piles of unsold windshields` and regrets returning a month ago from his hometown, several hours’ drive from Shanghai. “`If I had known it would come to this`," he said, “`I would have stayed home`.”
+生意这么不景气，张先生每天都坐在一堆卖不出去的挡风玻璃中间，后悔一个月前从距离上海几个小时车程的老家回到上海，他的老家。“早知道是这个情况，”他说，“我就不回来了。”

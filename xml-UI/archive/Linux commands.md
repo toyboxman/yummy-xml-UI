@@ -146,8 +146,6 @@
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Shell Programming](shell%20programming.md)
-    - [Shell Built-in Commands](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614778&idx=1&sn=0431d3c3dd54068af34b0d5a9ed3e2f9)
-    - [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 - [Image Operation](#vm-image-operation)
 ---
 
@@ -778,6 +776,9 @@ dpkg-deb -x ./path/to/test.deb ./path/to/destination
 ```console
 # Generating public/private rsa key pair
 ssh-keygen -t rsa
+# gather ssh public keys
+# 把指定host上公钥添加到本地
+ssh-keyscan github.com >> ~/.ssh/known_hosts
 # login remote host with password prompt
 ssh root@172.16.8.38
 # login with private key file

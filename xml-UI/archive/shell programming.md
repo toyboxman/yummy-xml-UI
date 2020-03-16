@@ -18,12 +18,16 @@
 - [LOOP](#loop-控制流)
 - [Logical](#logical-条件)
 - [Examples](#shell-example)
+	+ [Shell Built-in Commands](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614778&idx=1&sn=0431d3c3dd54068af34b0d5a9ed3e2f9)
+    + [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
     + [汇总日志](#exp1)
     + [设定网络配置](#exp2)
     + [SSH+EXPECT](#exp3)
     + [bash输入参数处理](#exp4)
     + [Expect远程操作](#exp5)
     + [update jar文件并重启服务](#exp6)
+	+ [根据输入选择执行分支](#exp7)
+	+ [循环读写REST API,计算执行时间](#exp8)
     + [Bash实现登录查看系统信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=3&sn=131146215fa4c8581c6d25c15404ebce)
     + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
     + [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
@@ -297,7 +301,7 @@ if [ "$a" \> "$b" ]
 ```
 ### IF 控制流
 ```console
-# *注意* if 与后面括号要有空格，否者出错
+# *注意* if 与后面括号要有空格，否者出错 if []; 方括号与条件前后都需要空格 if [ "$user" = "root" ]，否者也会出错
 if ....; then
 ....
 elif ....; then
@@ -851,4 +855,50 @@ unzip -l ../adapter.jar | grep -E "(ConfigImpl|Transaction)"
 server="172.20.14.56"
 scp ../adapter.jar root@$server:/root
 ssh root@$server service db-adapter restart
+```
+
+<div id = "exp7"></div>  
+* 根据输入选择执行分支
+
+执行remote.sh脚本传入参数 sh remote.sh root@10.92.176.78
+```console
+server=$1
+scp restart.sh "$server:/root/"
+echo "continue(y/n)"
+read answer
+# sh语法要求括号与条件前后都要有空格
+if [ $answer != "y" ]; then
+    exit 1
+else
+    ssh $server "sh restart.sh"
+fi
+echo "Successfully done"
+exit 0
+```   
+
+<div id = "exp8"></div>  
+* 循环读写REST API,计算执行时间
+
+```console
+#!/bin/sh
+for i in {1..2}
+do
+    echo "call $i times"
+    start=`date +'%s'`
+	# 读原记录值
+    rev=`curl -i -k -u 'admin:password' 'https://10.92.250.101/api/v1/firewall/sections/ffffffff-8a04-4924-a5b4-54d30e81befe' | grep '_revision' | cut -d ":" -f 2`
+    echo "revision=$rev"
+    payload='{"id":"ffffffff-8a04-4924-a5b4-54d30e81befe","_revision":'$rev'}'
+    echo $payload
+
+	# 写入新值
+    result=`curl -i -k -u 'admin:password' -X POST 'https://10.92.250.101/api/v1/firewall/sections/ffffffff-8a04-4924-a5b4-54d30e81befe?action=update_with_rules' -H "Content-Type: application/json" \
+    --data "'$payload'" `
+    echo $result
+    end=`date +'%s'`
+	# 计算两次读写的时间
+	# start/end是作为字符串处理的，若要进行运算，shell需要使用$(())
+    duration=$(($end-$start))
+    echo "call execution time $duration seconds"
+done
 ```
