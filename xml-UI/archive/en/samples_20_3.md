@@ -200,3 +200,53 @@ On a nearby street, Dai Jianglai fears `the imminent failure` of her `grilled pa
 
 `With business so weak`, Mr. Zhang sits every day among his `piles of unsold windshields` and regrets returning a month ago from his hometown, several hours’ drive from Shanghai. “`If I had known it would come to this`," he said, “`I would have stayed home`.”
 生意这么不景气，张先生每天都坐在一堆卖不出去的挡风玻璃中间，后悔一个月前从距离上海几个小时车程的老家回到上海，他的老家。“早知道是这个情况，”他说，“我就不回来了。”
+
+Her `lectures` were being replaced by online classes. Her `residence hall was being cleared out`. She, `like thousands of others in her shoes`, had a million questions
+她的课换成了在线教学。她的宿舍要腾空。现在，她和其他几万名面临同样处境的学生一样，脑中有无数疑问
+
+One after the other, `like dominoes`, they announced they were suspending classes and asking students to `pack up and go`
+于是，如多米诺骨牌一般，他们一个接一个地宣布停课，并让学生打包离开
+
+Dance, theater and music students `fretted that after months of rehearsals` there would be no performances. `Seniors were already mourning their commencement`, assuming that it, too, would be canceled, and that `the Class of 2020 might be together for the last time`
+让舞蹈、戏剧和音乐专业的学生苦恼的是，他们排练了好几个月，但演出可能要没了。大四学生已经开始哀叹：他们猜测毕业典礼也要被取消了，2020届可能要就此各奔东西
+
+Some `altruistically minded students` worried about going home and `perhaps unwittingly infecting` their older and more vulnerable parents and grandparents `should the virus already be present at their schools`
+有一些为他人着想的学生担心，如果学校已经发现病毒，回家会无意中感染更易感的父母和祖父母等长辈
+
+Ms. Lockhart-Calpito, 19, is `on full financial aid`, which includes tuition, room and board. Her parents are `self-employed`, and she `had scraped together airfare home` for spring break by working two part-time jobs, `as a tutor and as an usher and ticket seller`
+19岁的洛哈特-卡皮托领着全额助学金，包括学费、住宿费和餐费。她父母是个体经营者，她自己勉强凑够了春假回家的机票，为此她要打两份零工，一份是家教，一份是领位兼售票员
+
+`Now though`, she has found that the university so welcoming to students like her `had not thought through the consequences of its decisions` about the virus for `those without means`. It felt, she said, “`like an eviction notice.`”
+然而现在，她发觉如此欢迎像她这样的学生的学校，在就疫情做决策时，没有考虑这会给没有资源的学生带来什么样的后果。她说，感觉就像是“收到了一张驱逐令”
+
+She `had originally planned to fly home` for spring break on Thursday but had to cancel her flight, `forfeiting its $250 value`, when she got the notification on Tuesday morning
+她原计划周四搭飞机回家过春假，但周二收到通知后，不得不取消机票，并因此损失250美元
+
+“We’re `living off her tips`,” she said of her family. “It was a difficult decision, but honestly we `weren’t really left with a choice`.”
+“我们靠妈妈的小费过日子，”她谈到家庭情况时说，“这是个艰难的决定，但说实话我们没有选择的余地。”
+
+Harvard officials said they `were swamped with requests` for financial and logistical help and could not take time to talk in detail about the situation
+哈佛校方表示，他们现在被资金和后勤方面的协助要求淹没，没有时间深入谈论具体情况
+
+A friend sent him a video of a lecture in which the professor `was wearing purple surgical gloves` and `spraying down the table with a bottle of bleach`
+朋友发给他一个讲座的视频，教授戴着紫色的外科手套，拿着一瓶消毒液在喷桌子
+
+He is not looking forward to online classes `because of his previous experience with virtual physics and calculus courses`. They were easier than `live classes`, he said, and as a result, `he did not learn as much`
+由于之前的物理和微积分网课体验不佳，他对在线上课没什么期待。网课要比面授简单，他说，因此他在网课中学到的不如面授多
+
+Juan Diego Jaramillo, a senior at Columbia, `was bracing for his long-awaited commencement` to be canceled because of the danger that the virus would spread through `the assembled families`. “`We’d rather they just pull the Band-Aid off`” and deliver the bad news now, he said
+哥伦比亚大学的大四学生胡安·迭戈·哈拉米约正在为取消毕业典礼做准备，他一直在等待这一消息，因为典礼上家庭聚集，有传播病毒的危险。“我们宁愿他们直接把创可贴撕了，”现在就宣布坏消息，他说
+
+Most of what it makes are `the disposable surgical masks` worn by health professionals. It makes `a smaller number of N95 respirator masks`, which provide `more filtration` for doctors and nurses.
+它生产的大部分产品是卫生专业人员戴的一次性外科口罩，为医护人员提供更多过滤能力的N95呼吸器口罩产量较小
+
+The bans “`risk undermining our collective approach` to handle this crisis,”
+这些禁令“有可能破坏我们在这场危机中的共同应对”
+
+Supplies from `a five-story building` in southwestern Shanghai could `help alleviate the shortage`
+来自上海西南一座五层大楼的供应，可能有助于缓解短缺
+
+Standing at the factory fence, which `was topped with six strands of electrified wire`, a worker who gave only his family name, Zhou, said the masks had been helping China fight the virus
+一位只愿透露自己姓周的工人站在工厂外的电网栅栏前说，口罩一直在帮助中国抗击病毒
+
+

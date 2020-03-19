@@ -299,28 +299,32 @@ mvn clean install && mvn -Dassemble package
 ```
 通过mvn来[运行程序](https://www.mojohaus.org/exec-maven-plugin/usage.html) `mvn exec:exec`, `mvn package exec:exec`
 ```xml
-<plugin>
-    <groupId>org.codehaus.mojo</groupId>
-    <artifactId>exec-maven-plugin</artifactId>
-    <version>1.6.0</version>
-    <executions>
-        <execution>
-            <goals>
-                <goal>exec</goal>
-            </goals>
-        </execution>
-    </executions>
-    <configuration>
-        <executable>java</executable>
-        <arguments>
-            <argument>-cp</argument>
-            <argument>target/api-1.0-SNAPSHOT.jar</argument>
-            <argument>-Dorg.eclipse.jetty.util.log.classrg.eclipse.jetty.util.log.StdErrLog</argument>
-            <argument>com.otsample.api.App</argument>
-            <argument>./tracer_config.properties</argument>
-        </arguments>
-    </configuration>
-</plugin>
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>exec-maven-plugin</artifactId>
+            <version>1.6.0</version>
+            <executions>
+                <execution>
+                    <goals>
+                        <goal>exec</goal>
+                    </goals>
+                </execution>
+            </executions>
+            <configuration>
+                <executable>java</executable>
+                <arguments>
+                    <argument>-cp</argument>
+                    <argument>target/api-1.0-SNAPSHOT.jar</argument>
+                    <argument>-Dorg.eclipse.jetty.util.log.classrg.eclipse.jetty.util.log.StdErrLog</argument>
+                    <argument>com.otsample.api.App</argument>
+                    <argument>./tracer_config.properties</argument>
+                </arguments>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
 ```
 更多使用[参看](http://www.vineetmanohar.com/2009/11/3-ways-to-run-java-main-from-maven/)
 ```

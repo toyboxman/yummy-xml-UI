@@ -476,6 +476,11 @@ Spring AOP提供对Aspect-Oriented Programming支持。参看Reference[[***1***](https:/
 + [Spring AOP  Proxying Mechanisms](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop-proxying)
 + [Spring AOP vs AspectJ](https://www.baeldung.com/spring-aop-vs-aspectj)
 
+    `Spring AOP相比AspectJ在使用上简单一些，缺点也明显，如只能支持public方法的AOP,不支持构造函数。通过proxy执行效率也比weaved class文件效率低. 静态织入方式需要在build过程中通过AspectJ修改class文件。动态织入则需要启动jvm时候指定参数，如 -javaagent:aspectjweaver.jar 或 -javaagent:spring-instrument.jar，或 -javaagent:spring-agent.jar`
+
+    `织入方式把符合pointcut的class文件全部修改，proxy方式仅仅是让proxy改变调用返回。proxy方式下，仅仅通过spring容器创建出来的对象实例才会有advice`
++ [Spring AOP Samples Of Three Modes](#sample/spring)
+
 <div id = "u3s1"></div>
 
 #### aspect bean injection
