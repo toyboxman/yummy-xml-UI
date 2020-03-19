@@ -480,6 +480,13 @@ Spring AOP提供对Aspect-Oriented Programming支持。参看Reference[[***1***](https:/
 
     `织入方式把符合pointcut的class文件全部修改，proxy方式仅仅是让proxy改变调用返回。proxy方式下，仅仅通过spring容器创建出来的对象实例才会有advice`
 + [Spring AOP Samples Of Three Modes](sample/spring)
+    
+    - spring-proxy-aop : 
+    `mvn clean compile exec:java -Dexec.mainClass=king.law.spring.aop.TestSpringAop`
+    - spring-compile-weave : 
+    `mvn clean compile aspectj:compile exec:java -Dexec.mainClass=king.law.aspectj.aop.compile.TestAspectJCompileAop`
+    - spring-loadtime-weave : 
+    `mvn clean package exec:exec`
 
 <div id = "u3s1"></div>
 
