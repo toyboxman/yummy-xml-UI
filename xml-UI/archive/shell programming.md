@@ -28,6 +28,7 @@
     + [update jar文件并重启服务](#exp6)
 	+ [根据输入选择执行分支](#exp7)
 	+ [循环读写REST API,计算执行时间](#exp8)
+	+ [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
     + [Bash实现登录查看系统信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=3&sn=131146215fa4c8581c6d25c15404ebce)
     + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
     + [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
@@ -858,6 +859,7 @@ ssh root@$server service db-adapter restart
 ```
 
 <div id = "exp7"></div>  
+
 * 根据输入选择执行分支
 
 执行remote.sh脚本传入参数 sh remote.sh root@10.92.176.78
@@ -877,6 +879,7 @@ exit 0
 ```   
 
 <div id = "exp8"></div>  
+
 * 循环读写REST API,计算执行时间
 
 ```console
@@ -902,3 +905,31 @@ do
     echo "call execution time $duration seconds"
 done
 ```
+
+<div id = "exp9"></div>  
+
+* 根据脚本输入参数循环执行，[判断文件是否存在](https://github.com/dylanaraps/pure-bash-bible#file-conditionals)
+
+执行remote.sh脚本传入参数 sh remote.sh 10.92.176.78 10.92.176.79 10.92.176.80
+```console
+#!/bin/sh
+
+# 改变执行目录
+cd lib/
+# 按传入参数循环执行
+for node in "$@"
+do
+	echo "/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/"
+	echo "execute shell in" "$PWD"
+	echo "server: "$node
+	echo "/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/" 
+done
+
+# 检查本地文件是否存在
+if [ -e "./deploy.jar.bak" ]; then
+    cp -f deploy.jar.bak deploy.jar 
+else
+    scp root@$1:/root/deploy.jar ./
+    cp deploy.jar deploy.jar.bak
+fi
+```  

@@ -825,6 +825,10 @@ find $PWD -type f -name *.xml
 find $(pwd) -type f -name *.xml
 /home/king/source/pom.xml
 
+# exec 两种方式输出结果一致, {} + 某些输出格式整齐一些
+find source/lib/ -name *.jar -exec file {} +
+find source/lib/ -name *.jar -exec file {} \;
+
 # search all files in home folder and then determine its file type(append action)
 find /home -user king -exec file {} \;  
 /home/king: directory
@@ -838,7 +842,6 @@ find /home -user king -exec file {} \;
 find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
 Archive:  ./commons-compress-1.8.1.jar
 3352  2014-05-09 20:45   org/apache/commons/compress/utils/ClassUtils.class
-
 
 # remove all files with 'tgz' suffix found
 find / -iname '*.tgz' -exec rm {} \;
@@ -861,8 +864,18 @@ history
 #### cp
 用cp 命令可以用来[备份文件及文件夹](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614871&idx=3&sn=ecfdd00002757af5b360e5e025063d88)
 ```console
-# -r copy directory
+# -r copy directory, source folder is copied into ./source
 cp -rv /home/king/source ./
+
+# --parents  copy file with full parent path/folder
+# src /root/folder/folder1/folder11 
+# dest /root/folder/folder2/folder22
+
+# source folder11 is copied to dest /root/folder/folder2/folder11
+cp -r  /root/folder/folder1/folder11 /root/folder/folder2
+
+# source folder11 with whole path is copied to dest /root/folder/folder2/root/folder/folder1/folder11
+cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
 
 # create folder in /root
 mkdir /root/folder
@@ -871,17 +884,6 @@ mkdir -p /root/folder/folder1/folder11
 
 # delete a directory
 rm -dfrv /root/folder
----
-
-# --parents    copy file with full parent path/folder
-# src /root/folder/folder1/folder11 
-# dest /root/folder/folder2/folder22
-
-# dest /root/folder/folder2/folder11
-cp -r  /root/folder/folder1/folder11 /root/folder/folder2
-
-# dest /root/folder/folder2/root/folder/folder1/folder11
-cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
 ```
 如果只想复制全部或部分文本内容，而不是文件可以使用[***xclip***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=2&sn=83c9441c9b570038ea8f8e75a89a3cb6)
 ```console
@@ -1045,10 +1047,8 @@ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019
 # zgrep search keyword in current folder from *.gz files
 zgrep -in "#bare" *.gz
 
-# show more detailed information
+# show more detailed information            
 find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} +
-
-# show less detailed information
 find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 ```
 
