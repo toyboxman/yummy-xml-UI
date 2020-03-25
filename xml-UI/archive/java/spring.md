@@ -533,7 +533,7 @@ public class MyclassAspect {
 #### NoSuchBeanDefinitionException
 [**NoSuchBeanDefinitionException**](https://www.baeldung.com/spring-nosuchbeandefinitionexception)是一种常见的注入错误，常常由于找不到bean实例,或者class定义找不到而产生。
 
-但有时候也会由于bean创建先后顺序而产生，例如bean1先于bean2创建，bean1定义中autowire了bean2，这个时候也会产生这样错误。解决办法就是让bean1*@lazy* autowire bean2，或者[指定加载顺序](#u2s1)
+但有时候也会由于bean创建先后顺序而产生，例如bean1先于bean2创建，bean1定义中autowire了bean2，这个时候也会产生这样错误。解决办法就是让bean1 *@lazy* autowire bean2，或者[指定加载顺序](#u2s1)
 
 ### Unit Test
 <div id = "ut1"></div>

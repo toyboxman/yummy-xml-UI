@@ -1275,8 +1275,13 @@ unzip lib.zip -d /usr/share/tmp
 unzip source.zip "*.[fch]" Makefile -d /tmp
 # same command regardless of case (e.g., both *.c and *.C, and any makefile, Makefile, MAKEFILE or similar):
 unzip -C source.zip "*.[fch]" makefile -d /tmp
-# 解压指定文件到当前目录，指定文件必须是压缩包中完整路径名
-unzip framework-api-1.0.jar "com/example/api/ApiImpl.class" -d .
+# 解压指定文件到当前目录，指定文件必须是压缩包中完整路径名或者目录下全部文件
+unzip framework-api-1.0.jar "com/example/api/ApiImpl.class" -d ./
+unzip framework-api-1.0.jar "com/example/api/*" -d ./
+# 解压lib.war中比 WEB-INF目录下有变化的文件，解压过程中无需提示是否覆盖
+# -o 覆盖本地文件不需要提示
+# -f 仅解压比本地文件版本更新的压缩包文件, 如果本地没有文件无法比较则会放弃解压缩
+unzip -fo lib.war -d WEB-INF/
 
 # pipeline gzip&tar
 # tar xvf - 减号指定stdin读取内容并在当前目录解压

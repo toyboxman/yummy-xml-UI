@@ -29,6 +29,7 @@
 	+ [根据输入选择执行分支](#exp7)
 	+ [循环读写REST API,计算执行时间](#exp8)
 	+ [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
+	+ [编写函数](#exp10)
     + [Bash实现登录查看系统信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=3&sn=131146215fa4c8581c6d25c15404ebce)
     + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
     + [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
@@ -932,4 +933,36 @@ else
     scp root@$1:/root/deploy.jar ./
     cp deploy.jar deploy.jar.bak
 fi
-```  
+```
+
+<div id = "exp10"></div>  
+
+* 编写函数, [处理参数](http://www.freeos.com/guides/lsst/advance01.html)
+```console
+#!/bin/sh
+
+echo 'start shell'
+echo '$1'
+echo "$1"
+echo $1
+
+resonate()
+{
+    echo "Hello $1"
+	return
+}
+
+# shell是top-down被解释执行，因此函数必须定义在调用前面，否则
+# 执行提示找不到 resonate命令错误
+resonate
+resonate World
+```
+执行结果
+```console
+start shell  //echo 'start shell'
+$1    //echo '$1'
+Shell  //echo "$1"
+Shell  //echo $1
+Hello   //resonate
+Hello World   //resonate World
+```
