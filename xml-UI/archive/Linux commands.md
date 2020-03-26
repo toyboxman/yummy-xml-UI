@@ -16,6 +16,7 @@
         - strace追踪系统调用[[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=1&sn=ed92854608e76b1c37f46e58ebbc1912), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615818&idx=1&sn=4f470a37afb205ce52836e67941697c3)]
         - [Crash+/dev/mem调试内存 ](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446208&idx=2&sn=a598e1bcebedae58049f30bf46259aa8)
         - [配置Rsyslog服务器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615466&idx=3&sn=8a8e44e1e7cae494e4c9a4bc730e1e2b)
+		- [Logrotate手动滚动日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616617&idx=2&sn=6be53ae867f93567abd51783d7bc7507)
         - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
         - [rm -f undo](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
         - [排查机器入侵](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446188&idx=2&sn=0d1bedb695c5ffd45a147a14539ebb5c)
@@ -30,13 +31,14 @@
         - [Add New Users](#add-new-users)
         - [umask Linux权限](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615582&idx=1&sn=a681362b9f046c121de8357285c65b63)
         - sudo[[1](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [2](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615663&idx=1&sn=fc6094c51908f8ab95b97a1438e81377)]  
+		- [用户组启禁用 SSH](https://mp.weixin.qq.com/s/uvU_Y24qVTOkc-aAlHV0zA)
         - [设置安全保护](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446013&idx=1&sn=a06b5f2554c8a6fc6bbc62d847994ab2)
         - [PAM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615906&idx=1&sn=e01d9a7b3fe6967014ac8056e588e67f)
     - System Management
         - [List System Details](#list-system-details)
             - [更新 grub](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615938&idx=2&sn=ff239ff5ec2d44aa6b3321c234be8744)
             - [Show Linux Version](#show-linux-version)
-            - [hwinfo/lshw/lscpu/nproc/dmidecode](#hwinfo)
+            - [hwinfo/lshw/lscpu/lsblk/nproc/dmidecode](#hwinfo)
             - [free](#free)
         - [List Kernel Modules](#list-kernel-modules)
             - [Kconfig/Kbuild](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=1&sn=74b41ef32688862b70a83ba350489970)
@@ -76,6 +78,7 @@
         - [Show IP/Name Pair In DNS](#nslookup-dig)
         - [bmon查看网络带宽](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615559&idx=3&sn=19444be1dad88edc5dcb2ffc36823ee6)
         - [Config Static IP](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615235&idx=4&sn=8aa8381c4cd69aabb12aef1bd4d290cb)
+		- [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
 - [Usual Command](#usual-command)
     - [Alias](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614821&idx=1&sn=2f38694271ec23361cd9cb34c042dbef)
     - [List/ls](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614784&idx=1&sn=7057d99d5901a33a5329e17ceea8f9bf)
@@ -100,7 +103,8 @@
     - [Gzip](#gzip)
     - [History](#history)
         - [history快捷方式](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615359&idx=1&sn=9b67378cd423eeb759ee506814e100dd)
-    - [Link/ln](#ln)
+    - [Less](https://mp.weixin.qq.com/s/qfAsQBnU6YBwiW2SYne1kg)
+	- [Link/ln](#ln)
         + [unlink](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615210&idx=4&sn=bd2ecde9e068650688fb389e27897162)
     - [Man](#man)
         - [cheat/tldr](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446027&idx=1&sn=6c2a457270a42ef03392a9f142ae55d4)
@@ -773,6 +777,7 @@ dpkg-deb -x ./path/to/test.deb ./path/to/destination
 ```
 
 #### ssh
++ [SSH密钥管理工具](https://mp.weixin.qq.com/s/C6kLwO6LQvWzpHcEThg3TQ)
 ```console
 # Generating public/private rsa key pair
 ssh-keygen -t rsa
@@ -1244,6 +1249,7 @@ tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz
 ```
 
 #### gzip
++ [zip命令的各种变体及用法](https://mp.weixin.qq.com/s/i0PlJ2ArsodObc0bshzcZQ)
 ```console
 # list zip file named spring.jar by zipinfo
 # jar文件是标准zip格式能用相关命令处理

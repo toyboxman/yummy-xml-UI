@@ -6,7 +6,7 @@
 - [FFmpeg+ImageMagick从视频中创建gif](https://www.ostechnix.com/create-animated-gif-ubuntu-16-04/)
 - [FFmpeg从PDF中创建视频](https://www.ostechnix.com/create-video-pdf-files-linux/)
 - [FFmpeg常用命令](https://blog.csdn.net/weixin_42081389/article/details/100543007)
-
+- [Linux中字幕编辑](https://mp.weixin.qq.com/s/K6lZI3OuUSUKQB-9JhssAg)
 ---
 
 #### 视频转换和截取

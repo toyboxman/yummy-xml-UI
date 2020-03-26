@@ -41,6 +41,7 @@ Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑�
     MicroK8s需要通过snap install安装到ubuntu vm上，国内安装速度较慢。替代使用[k3s](https://k3s.io/)或[Minikube](https://github.com/kubernetes/minikube)
 + [4 tools for k8s](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
 + [ansible自动化部署k8s](https://github.com/easzlab/kubeasz)
++ [基本kubectl和Helm命令](https://mp.weixin.qq.com/s/JpCVNcU2hrfHS2d_Xcttvw)
 
 ```
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system

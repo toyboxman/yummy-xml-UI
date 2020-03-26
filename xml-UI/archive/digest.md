@@ -32,11 +32,13 @@
 
 + ***microservice***
     + 构建微服务架构([**1**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485798&idx=1&sn=c644bcbd49b873a5220a2d82bfcbf17a), [**2**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485806&idx=1&sn=0afb17f3ced0b8ba29d4c48fad22e1e7), [**3**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485813&idx=1&sn=c4d1916782a09523ce77617c4959449a))
-    - [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
+    - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)
+	- [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
     - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)   
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
     - [你可能不需要微服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018984&idx=1&sn=3244a8b7bfcd224a53134862a40c96b9)
     - [Tomcat bug导致链路失效 ](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490615&idx=3&sn=9a2ce631c89af6732ce4933bfc95f179)
+	- [Tomcat高危漏洞](https://mp.weixin.qq.com/s/SWKbpOHCyK7ZPc6AokaHGw)
 
 + ***blog***    
     - [jayway](https://blog.jayway.com/)      
@@ -52,20 +54,24 @@
     - [Git建立和托管网站](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=1&sn=e903d8860640c61baf94d4547609ee06)
     - [Git共享文件](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616035&idx=1&sn=e2852dc52228760005bbbc3cdcc1e4b2)
 + 开源工具
-    - [开源工具构建 DevOps](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615071&idx=1&sn=076ede5dea71d33fa6064c070dfcd633)    
+    - [QEMU模拟开发板](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)
+	- [开源工具构建 DevOps](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615071&idx=1&sn=076ede5dea71d33fa6064c070dfcd633)    
     - [Jenkins构建CI/CD](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615559&idx=2&sn=4a035d79fcfb1ae5a0ba40aeaddf900e)
     - [pdftk操作 PDF](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=4&sn=30aa0df34d11b8e3a246e5dae1aa5a2f)
     - [FFmpeg编辑视频](ffmpeg.md)
     - [LiVES 视频编辑器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614985&idx=2&sn=a89937b425799b1d3fc24f30fda0c82c)
-    - [Photoshop开源替代品](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615399&idx=3&sn=6c76f99079a1a2455a477fd40ce9ade4)
+    - [开源搜索引擎 YaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)
+	- [Photoshop开源替代品](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615399&idx=3&sn=6c76f99079a1a2455a477fd40ce9ade4)
     - Ansible
         - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613143&idx=1&sn=8fbd47dcf411ce26c80ffa873304d7c1), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613180&idx=1&sn=b57f1b66f3ded400f029f4f8b3b8f4bc), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=2&sn=23619c078386431b6810107e7246e8b2)
         - [Ansible同步 GitHub和GitLab ](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615959&idx=3&sn=ef5a0bd487d682f384fdafe310f2c793)
         - [提升自动化技巧](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616016&idx=3&sn=c5d03b15e01b41b4e8504de7cc5348f1)
 + 设计分析
     - [系统结构详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666545341&idx=1&sn=14dd9a3ed7c987fe12dbf918b92f268a)
-    - [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
-    - [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
+    - [操作系统](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)
+	- [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
+    - [Linux Used内存](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
+	- [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
     - [Linux 内核的五大创新](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=1&sn=93ea4bc3d9506f445b736bb12a5adecd)
     - [Linux阅码场](https://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652666358&idx=1&sn=543f316af4d7e0e3b90c823632213180)
     - 进程间通信-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614113&idx=1&sn=67fe16f7ca0bec0c16dcb429d428ff25), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614153&idx=2&sn=089a3a6b8728c581cc2800cd8ded946c), [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=1&sn=71862506d387949c0f78b54ab026ecc7)
@@ -81,19 +87,28 @@
     - [basic](python/python-basic.md)
     - [kite-编写python代码的AI](https://mp.weixin.qq.com/s?__biz=MzIxNjM4NDE2MA==&mid=2247492104&idx=2&sn=95d59b96659d8ed74ac1f79bb6225486)
     - [Heartrate执行可视化](https://mp.weixin.qq.com/s?__biz=MjM5MzI5MTQ1Mg==&mid=2247486807&idx=2&sn=2312d5553b0e6351662483bceec13a06)
+	- [Octave绘制数据](https://mp.weixin.qq.com/s/Nb2ci6d5MhoRoepu6G3YdQ)
+	- [比Excel更强大的可视化库 Altair](https://mp.weixin.qq.com/s/t3Bm8KEbLCbPlMPSQcpbvw)
+	- [8个流行的可视化工具包](https://mp.weixin.qq.com/s/dRdFTBF7phHwKatPLjpOjA)
     - [Pandas并行处理](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022607&idx=5&sn=83e8b21e89b123461377a8c6283a6502)
+	- [Python任务自动化工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)
+	- [不中断的断点](https://mp.weixin.qq.com/s/4dSVY1lJk4Edz05LC7J1pA)
 + ***Go***    
     - [basic](go/go-basic.md)
     - [Golang编译器原理](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218158&idx=2&sn=1710ed8b0e7d57c96d5c26153a8f77a3)
     - [OAuth](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615474&idx=4&sn=40f51dfeabdb4665c4ef000d8e43c16e)
     - [Go实现负载均衡服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022459&idx=2&sn=48e26093bf201e20e842b23ba57096ce)
     - [Go并发编程](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616056&idx=1&sn=701c0e342abf02d07300305169b64e4a)
+	- [Go为什么快](https://mp.weixin.qq.com/s/ihJFa5Wir4ohhZUXVSBvMQ)
++ [***Rust***](https://mp.weixin.qq.com/s/JBlzMIhMa7TB5tHGSRhVkQ)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + [***laTeX***](laTeX/laTeX.md)
-+ [**C++编译器工作原理**](https://github.com/selfboot/CS_Offer/blob/master/C%2B%2B/Compiler.md)
++ [***C++编译器工作原理***](https://github.com/selfboot/CS_Offer/blob/master/C%2B%2B/Compiler.md)
 + ***Algorithm***
-    - [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
-    - [分布式唯一 ID之Snowflake算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217772&idx=3&sn=9c7d6ae01ae1e78db3734cf428c01b1c)
+    - [自然语言处理NLP](https://mp.weixin.qq.com/s/K6h0duwaDMk5RES8ALmLNA)
+	- [海量数据判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
+    - [LRU算法和Redis的LRU实现](https://mp.weixin.qq.com/s/B0klxGGJkSvnP8Q6YDqaVA)
+	- [分布式唯一 ID之Snowflake算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217772&idx=3&sn=9c7d6ae01ae1e78db3734cf428c01b1c)
     - [小内存遇上大量数据](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022674&idx=5&sn=0796eda613607b4abfbf68a84aef0667)
     - [压缩算法](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217836&idx=2&sn=f2934003c968143832e5a60390b28eaa)
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
@@ -132,6 +147,7 @@
     - [Nginx日志监控](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446330&idx=2&sn=f858b653048d40cd8b51de3fd623b10e)
 + [网络广告商的像素追踪](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615938&idx=1&sn=a23b4329ee7c27282e1881804ea09a3d)        
 + [REST API面临的安全威胁](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022949&idx=5&sn=9bbd2e8d298788c86d88a40b074d5147)
++ [Swagger管理接口文档 ](https://mp.weixin.qq.com/s/YuanLc72625DwXo-sMSGuQ)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)        
 + [Cookie vs Session](https://www.xiamensmpingguoshouhou.cn/weixin/22948)  
 + [login验证码](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217022&idx=2&sn=734636f29230bae68f77fc963fcdcdb9)
@@ -142,7 +158,8 @@
 + [webpack打包工具](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485903&idx=2&sn=bd6b2321301c61f3be683841c7a6b620)
     - [webpack 常用配置](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218008&idx=3&sn=542d4518ca1aa40ea06a4975841e3172)
 + CSS
-    - [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
+    - [CSS知识点](https://mp.weixin.qq.com/s/CNWl36Oa6KBvdGZ-wC4odw)
+	- [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
     - [CSS第四级选择器](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485929&idx=1&sn=1e7c6bfb43b5a209a038fc1904e6fec9)
     - [CSS Grid](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485954&idx=1&sn=fe1687b658d8a0bd24cf8b3997b8f110)
     - [CSS 样式的解析过程](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247486085&idx=1&sn=f37259ff79b678c8107667704972f65e)
@@ -166,28 +183,35 @@
 + [使用 Flutter开发Web应用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615683&idx=2&sn=715cf495ef2e6c37c9aa57a1d3139c99)
 
 #### Architecture
++ [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)
++ [架构模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)
 + [二进制世界](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217312&idx=2&sn=f50f973c3530af9c24cd6e46701481a3)
 + [漫画中台](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217263&idx=2&sn=538709da2248a8c82a6d18dceab0d920)
 + [开源的7大理念](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282238&idx=2&sn=ed204263aaab673d1537c61c1f209ec1)
 + [无服务器迁移实践](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247492803&idx=1&sn=a304c5fa329e09e037fe8f42770fd805)
 + [REST API的衰退](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=2&sn=de45d61d6ec81f4384040e7a8d2edd21)
++ [混沌工程](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)
 + 分布式架构
     - [农行分布式架构](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282254&idx=2&sn=ddea3e87a3476aef1b8647b02c6256ef)
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
     - [分布式系统原理](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650283531&idx=1&sn=fe48b43f5b2711fed8c0926f91bb0062)
     - [分布式架构的前世今生](https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247487804&idx=2&sn=35f9b770f26f71b66e9df1f70e55dcf7)
-    - [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)
+    - [分布式文件系统](https://mp.weixin.qq.com/s/ZMC9zCRqNK2aMGigFg9mBA)
+	- [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)
     - [分布式锁解读](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282212&idx=2&sn=71659867ed0415421219f8cbd581d0ec)
     - [分布式锁实现](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282072&idx=2&sn=dd84928aad939a2cf113e734b6b47914)
-    - [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247492519&idx=1&sn=9c7d68271f2fc5a1bf65b8309809b75f)
+    - [Zookeeper实现分布式锁](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg)
+	- [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247492519&idx=1&sn=9c7d68271f2fc5a1bf65b8309809b75f)
 + [技术选型](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017963&idx=1&sn=2f4da571976237ef4276f7afaced3c48)
 + [高并发系统的设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485740&idx=1&sn=df7b6f26efae178765841ae615b9b32d)
 + [数据迁移](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282269&idx=1&sn=05e22eff6aa577bab2c61fcd41c76991)
++ [事务的隔离](https://mp.weixin.qq.com/s/dLVaMwC_NQn_2JVSFfH9ug)
 + [分页查询](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282168&idx=2&sn=0c3a2696ffbce577d91e9c523c697176)
 + [缓存三大问题及解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=2&sn=481704a1ce0e205aaf0ec67b668f5bfd)
 + [Dubbo架构](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217330&idx=2&sn=f131d1dcdbc24838dc62c973081f74c6)
 + [日志实时数据聚合 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217862&idx=3&sn=78ef580a2227204a21e92a8a980edbdd)
 + [云计算分析](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218483&idx=1&sn=677118e58aa57e03df1d07d9938fe512)
++ [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)
 
 #### Database
 + [MySQL](db/mySQL.md)
@@ -233,6 +257,10 @@
     - [编写可伸缩代码](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218390&idx=2&sn=519675a307f9138bc16f5c6469504cc3)
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
++ [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
++ [Kafka架构设计](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
++ [MQ与RabbitMQ面试题](https://mp.weixin.qq.com/s/Lz4NEChB_Twlva5V8BKyvg)
++ [Kafka的生产者/消费者详析](https://mp.weixin.qq.com/s/T9hONRBS37cmolkWhtXs-g)
 
 #### machine learning
 + Machine Learning Course  
@@ -243,6 +271,8 @@
     - [贝叶斯定理](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657465140&idx=4&sn=7162b8d3f465481b8856e989a8ca8f3e)
     - [Metaflow](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218390&idx=1&sn=c72c7dac2e24388ddafcaba3400cd9da)
     - [十大算法](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=3&sn=5970502d6bdd967c282416ec83493508)
+	- [异常检测孤立随机森林算法](https://mp.weixin.qq.com/s/EOBjLqvi_WcSjiDb8b5Nwg)
+	- [谷歌大脑Trax](https://mp.weixin.qq.com/s/tLAzDnAr5a2TwafE4Jg91g)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
@@ -357,6 +387,8 @@ process in:file language:java extension:java
 + ***Paw***    
     一站式 HTTP/REST 服务测试工具。Paw 具有功能齐全的可视化编辑器和 HTTP 工具集，可以让 Web 开发者模拟发送各种 HTTP 请求、测试和迭代自己的 API 或探索新的 API，测试响应数据。另外，Paw 能多人协作，同步 API 测试配置，进行无冲突的更改并获取实时更新
 
++ [Markdeep扩展能力Markdown](https://mp.weixin.qq.com/s/ONNoK7r9Br-olOBnXRswkw)
+
 + ***Arya***    
     Arya 是一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析    
 
@@ -455,6 +487,8 @@ done
 
 万物同理，减法永远比加法难，正如郑板桥一句诗：“删繁就简三秋树，领异标新二月花”。
 
+维特根斯坦说过，一切哲学问题归根结底都是语言问题。
+
 传曰“其身正，不令而行；其身不正，虽令不从”，其李将军之谓也？余睹李将军，悛悛如鄙人，口不能道辞。及死之日，天下知与不知，皆为尽哀。彼其忠实心诚信于士大夫也？谚曰“桃李不言，下自成蹊”。此言虽小，可以谕大也。司马迁说的“李将军”是李广而不是李陵，然陵为广孙，有其家风，就连命运的悲惨都一模一样。读者若拿这段话去对比一下苏建评卫青的话，所谓“大将军至尊重，而天下之贤大夫毋称焉”（《卫将军传》赞引），他的“无言”不是更胜于“有言”吗？
 
 林语堂说：“道家及儒家是中国人灵魂的两面，中国的文人很幸福，往往得意的时候是个儒家，失意的时候是个道家。” 不信你看苏轼，年轻时考科举、做文章、争功名、反王安石变法，活脱脱一个执着有为的上进青年，想的都是“古之所谓豪杰之士”。晚年历经政治浮沉，手捧一卷《庄子》，心中一颤，“今见《庄子》，得吾心矣”，落笔写下“竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生”，“回首向来萧瑟处，归去，也无风雨也无晴”。
@@ -469,6 +503,7 @@ done
 + [诗经简史](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650477344&idx=1&sn=727f1c3e1b5f2bbf388247f9b639915d)
 + [楚辞](https://mp.weixin.qq.com/s?__biz=MzAxMzg2ODMyNA==&mid=2652505215&idx=5&sn=e8e2a315a58fdf5cfcb9fe300391faef)
 + [古文十篇](https://mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657450567&idx=1&sn=d9292a4ff1acbbc8fe4f00c685557fec)
++ [资治通鉴名言](https://mp.weixin.qq.com/s/LtL4xIv2KsttXNxIi_XVRA)
 + [经济学眼镜蛇效应](https://mp.weixin.qq.com/s?__biz=MzAxMzg2ODMyNA==&mid=2652503536&idx=2&sn=1542b3789c2868c549aa65b1609842f9)
 + [小心求证, 大胆假设](https://mp.weixin.qq.com/s?__biz=MzAxNzU1NDczOQ==&mid=2651083535&idx=3&sn=d5833d4bc4db821350e9596fc0412e72)
 + [你打你的, 我打我的](https://mp.weixin.qq.com/s?__biz=MzAwMjExNDU1Mw==&mid=2650575681&idx=1&sn=fb1f7ab37600e82e17a472c441b48ccd)

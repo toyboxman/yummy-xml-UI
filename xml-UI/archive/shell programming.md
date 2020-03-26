@@ -30,14 +30,17 @@
 	+ [循环读写REST API,计算执行时间](#exp8)
 	+ [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
 	+ [编写函数](#exp10)
+	+ [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
+	+ [列出大型文件系统中文件,目录](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
     + [Bash实现登录查看系统信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=3&sn=131146215fa4c8581c6d25c15404ebce)
     + [监控 messages 日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=1&sn=62069b81ba5db7eda7e869d15db8508c)
     + [Bash实现扫雷游戏](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615308&idx=1&sn=a24364f44d6182f353dd9e3e2a35584e)
     + [Bash生成补丁合规报告](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615629&idx=2&sn=f96822255ce6ea98f2a1f71787b53699)
     + [Bash统计用户账号](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616063&idx=3&sn=72c635496b5c4e86f5db8664fe46616e)
     + [时间差计算](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446411&idx=2&sn=1e5add6133535045192c1770d7cbf6f9)
+	+ [生产环境脚本案例](https://mp.weixin.qq.com/s/d6XkEKz2BrP-QUPzOFUqOQ)
 
-> [Link](http://www.freeos.com/guides/lsst/)
+> [shell programming guide](http://www.freeos.com/guides/lsst/)
 
 ---
 
