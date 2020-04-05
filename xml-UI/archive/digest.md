@@ -325,6 +325,7 @@ process in:file language:java extension:java
     - [Tcp/Udp](java/java-udp-tcp.md)
     - [Stream2string](java/java-stream2string.md)
     - [Reflection](java/java-reflection.md)
+    - [io/files](java/java-io-file.md)
     - [Log](java/java-log.md)
     - [Json](java/java-json.md)
     - [Decompile](java/java-decompile.md)
