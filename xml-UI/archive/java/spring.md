@@ -487,6 +487,7 @@ Spring AOP提供对Aspect-Oriented Programming支持。参看Reference[[***1***](https:/
     `mvn clean compile aspectj:compile exec:java -Dexec.mainClass=king.law.aspectj.aop.compile.TestAspectJCompileAop`
     - spring-loadtime-weave : 
     `mvn clean package exec:exec`
+ + [aop中pointcut表达式](https://zhuanlan.zhihu.com/p/63001123)    
 
 <div id = "u3s1"></div>
 

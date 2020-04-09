@@ -63,7 +63,7 @@ Amazon Elastic MapReduce (EMR)是Amazon Web Services (AWS)大数据处理工具, 基于Apa
 + [spark.master](https://spark.apache.org/docs/latest/submitting-applications.html#master-urls)
 + [Spark Configuration](http://spark.apache.org/docs/latest/configuration.html)
 
-```
+```console
 spark.master                    yarn
 spark.serializer                org.apache.spark.serializer.KryoSerializer
 spark.yarn.jars                 hdfs:///home/spark_lib/*
@@ -71,7 +71,7 @@ spark.yarn.dist.files		hdfs:///home/spark_conf/hive-site.xml
 spark.sql.broadcastTimeout  500
 ```
 $SPARK_HOME/conf/spark-env.sh
-```
+```console
 HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
 SPARK_MASTER_HOST=localhost
 SPARK_MASTER_PORT=7077
@@ -80,14 +80,14 @@ SPARK_LOCAL_IP=localhost
 SPARK_PID_DIR=/apache/pids
 ```
 Upload some files otherwise you will hit `Error: Could not find or load main class org.apache.spark.deploy.yarn.ApplicationMaster`, when you schedule spark applications.
-```bash
+```console
 hdfs dfs -mkdir /home/spark_lib
 hdfs dfs -mkdir /home/spark_conf
 hdfs dfs -put $SPARK_HOME/jars/*  hdfs:///home/spark_lib/
 hdfs dfs -put $HIVE_HOME/conf/hive-site.xml hdfs:///home/spark_conf/
 ```
 - **start/stop spark nodes**
-```bash
+```console
 cp /apache/hive/conf/hive-site.xml /apache/spark/conf/
 # start master and slave nodes
 /apache/spark/sbin/start-master.sh
@@ -106,14 +106,14 @@ cp /apache/hive/conf/hive-site.xml /apache/spark/conf/
 使用命令之前需要确认[Scala](https://downloads.lightbend.com/scala/2.12.8/scala-2.12.8.tgz)已经在本地安装好，官网[link](https://www.scala-lang.org/)。
 
 导出路径到 .bashrc
-```
+```console
 export SPARK_HOME=/apache/spark
 export SCALA_HOME=/apache/scala
 
 export PATH=$PATH:$SPARK_HOME/bin:$SCALA_HOME/bin
 ```
 进入spark shell交互界面。
-```
+```console
 $ spark-shell
 scala> :help
 scala> :quit
@@ -121,12 +121,18 @@ scala> :quit
 Create an RDD through Parallelized Collection, more refer to [commands](https://data-flair.training/blogs/scala-spark-shell-commands/)
 
 本地使用spark-shell时候需要先把Hadoop和Yarn的服务启动，[参考使用](https://github.com/apache/griffin/blob/master/griffin-doc/deploy/deploy-guide.md#hadoop)
-```
-scala> import org.apache.spark.{SparkConf,SparkContext}
+```console
+// 默认一个jvm中就有一个context运行，可以直接使用
+scala> sc
+res0: org.apache.spark.SparkContext = org.apache.spark.SparkContext@4b3b2a4f
 
-//Create conf object
+// 如果希望创建一个新的context，则执行下面指令
+scala> import org.apache.spark.{SparkConf,SparkContext}
+// Create conf object
 scala> val conf = new SparkConf().setAppName("Count")
-// 默认一个jvm中只有一个context运行
+// 默认一个jvm中只允许一个context运行
+//scala> conf.get("spark.driver.allowMultipleContexts")
+//res0: String = false
 //scala> conf.set("spark.driver.allowMultipleContexts","true")
 //create spark context object
 scala> val sc = new SparkContext(conf)
@@ -144,7 +150,7 @@ scala> noData.saveAsTextFile("nodata.txt")
 scala> sc.stop
 ```
 通过Hadoop的命令来检查写入的文件
-```
+```console
 $ hdfs dfs -find / nodata*
 nodata.txt
 nodata.txt/_SUCCESS
@@ -157,18 +163,6 @@ cat: `nodata.txt': Is a directory
 
 // 空文件
 $ hdfs dfs -cat nodata.txt/_SUCCESS
-
-$ hdfs dfs -cat nodata.txt/part*
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
 
 $ hdfs dfs -cat nodata.txt/part-00000
 1
@@ -183,13 +177,36 @@ $ hdfs dfs -cat nodata.txt/part-00001
 9
 10
 ```
+如果spark使用本地文件系统，则会把结果写入本地文件目录
+```console
+scala> noData.saveAsTextFile("nodata")
+
+bash-5.0# ls nodata/
+._SUCCESS.crc    .part-00002.crc  part-00000       part-00003
+.part-00000.crc  .part-00003.crc  part-00001       
+.part-00001.crc  _SUCCESS         part-00002       
+bash-5.0# cat nodata/part-00000
+1
+2
+bash-5.0# cat nodata/part-00001
+3
+4
+5
+bash-5.0# cat nodata/part-00002
+6
+7
+bash-5.0# cat nodata/part-00003
+8
+9
+10
+```
 每一个SparkContext有一个web UI, 默认访问地址 http://driver-node:4040, 用来显示application信息，包括scheduler stages/tasks/RDD sizes/memory usage/Environmental/running executors  [*spark application monitoring rest-api*](https://spark.apache.org/docs/latest/monitoring.html#rest-api)
 
 如果多个SparkContexts运行在同一台host上, web服务会依次往后绑定端口4040 (4041, 4042, etc). 如果直接访问spark web服务失败，还可以通过Hadoop代理来访问 http://127.0.0.1:8088/proxy/application_1566972520413_0001/stages/
 
 
-Submit a Scala job to Spark
-```
+- **Submit a Scala job to Spark**
+```console
 # submit python task
 /opt/spark/bin/spark-submit --master yarn-client test.py
 
@@ -203,6 +220,21 @@ object HelloWorld {
 }
 ```
 关于spark任务的排错调优，可以参考[databricks-spark-knowledge-base](https://databricks.gitbooks.io/databricks-spark-knowledge-base/)
+
+- **Spark Runs with Docker** 
+
+快速使用spark可以通过[docker container方式](https://github.com/big-data-europe/docker-spark)，避免安装配置
+```console
+# 下载image
+docker pull bde2020/spark-master
+docker pull bde2020/spark-worker
+docker pull bde2020/spark-base
+# 运行container实例
+docker run --name spark-master -h spark-master -p6066:6066 -p7077:7077 -p8080:8080 -e ENABLE_INIT_DAEMON=false -d bde2020/spark-master:latest
+docker run --name spark-worker-1 --link spark-master:spark-master -p8081:8081 -e ENABLE_INIT_DAEMON=false -d bde2020/spark-worker:latest
+# 登录spark master节点
+docker exec -it spark-master bash
+```
 
 #### 术语概念
 
