@@ -107,9 +107,14 @@ docker run --name some-postgres -e POSTGRES_PASSWORD_FILE=/run/secrets/postgres-
 docker rm <NAME | ID>  
 # Stop one or more running containers
 docker stop <NAME | ID>  
+# Start one or more running containers
+# 启动两个container，用tab可以自动不全当前stopped的container
+docker start jaeger griffin
 
 # copy locally current file to docker instance folder
 docker cp ./zkCache.sh <NAME | ID>:/opt/zk
+# 把spark main目录中所有examples源码并子目录copy到当前宿主机目录
+docker cp spark-master:/spark/examples/src/main/ ./
 # symbolic link copy
 docker cp -L ./zkCache.sh <NAME | ID>:/opt/zk 
 # attach to existing docker container instance

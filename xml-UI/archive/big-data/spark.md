@@ -117,6 +117,10 @@ export PATH=$PATH:$SPARK_HOME/bin:$SCALA_HOME/bin
 $ spark-shell
 scala> :help
 scala> :quit
+
+# 如果希望不用一行行在shell中敲命令，也可以把命令写入一个文件启动shell时preload
+# shell会按照逐行解释方式来处理文件
+$ spark-shell -I <FilePath>
 ```
 Create an RDD through Parallelized Collection, more refer to [commands](https://data-flair.training/blogs/scala-spark-shell-commands/)
 
@@ -232,8 +236,198 @@ docker pull bde2020/spark-base
 # 运行container实例
 docker run --name spark-master -h spark-master -p6066:6066 -p7077:7077 -p8080:8080 -e ENABLE_INIT_DAEMON=false -d bde2020/spark-master:latest
 docker run --name spark-worker-1 --link spark-master:spark-master -p8081:8081 -e ENABLE_INIT_DAEMON=false -d bde2020/spark-worker:latest
+
+# 假设docker宿主机IP为 10.184.108.18，可以通过以下URL访问master和worker
+# master node URL
+http://10.184.108.18:8080/
+# worker node URL http://172.17.0.3:8081/ 映射为宿主机 URL
+http://10.184.108.18:8081/
+
 # 登录spark master节点
 docker exec -it spark-master bash
+# 登录spark worker-1节点
+docker exec -it spark-worker-1 bash
+
+# 进入spark命令交互模式
+bash-5.0# spark/bin/spark-shell
+# 退出命令交互模式
+scala> :quit
+
+# spark-submit 命令使用说明
+Usage: spark-submit [options] <app jar | python file | R file> [app arguments]
+Usage: spark-submit --kill [submission ID] --master [spark://...]
+Usage: spark-submit --status [submission ID] --master [spark://...]
+Usage: spark-submit run-example [options] example-class [example args]
+Options:
+  --master MASTER_URL         spark://host:port, mesos://host:port, yarn,
+                              k8s://https://host:port, or local (Default: local[*]).
+  --deploy-mode DEPLOY_MODE   Whether to launch the driver program locally ("client") or
+                              on one of the worker machines inside the cluster ("cluster")
+                              (Default: client).
+
+# 提交python PI计算的任务1000次到local计算
+spark/bin/spark-submit \
+--master local \
+spark/examples/src/main/python/pi.py 1000
+# 计算结果显示     
+20/04/12 14:14:02 INFO DAGScheduler: Job 0 finished: reduce at /spark/examples/src/main/python/pi.py:44, took 141.028314 s
+Pi is roughly 3.141309
+
+# 提交python PI计算的任务200次到spark cluster计算
+# 这个和上面local区别在提交任务后可以通过 master/worker node URL(http://<宿主机>:8080/) 查看job执行信息如日志等
+spark/bin/spark-submit \
+--master spark://10.184.108.18:7077 \
+spark/examples/src/main/python/pi.py 200 
+# 计算结果显示，可以看到 worker node(172.17.0.3)第200次执行时长158 ms
+20/04/12 14:30:18 INFO TaskSetManager: Finished task 199.0 in stage 0.0 (TID 199) in 158 ms on 172.17.0.3 (executor 0) (200/200)
+20/04/12 14:30:18 INFO DAGScheduler: Job 0 finished: reduce at /spark/examples/src/main/python/pi.py:44, took 10.733714 s
+Pi is roughly 3.141113
+
+# examples目录中还提供其他例子,包括java/Scala/R语言版本
+bash-5.0# ls spark/examples/src/main/python/
+als.py                  logistic_regression.py  pagerank.py             sort.py                 streaming/
+avro_inputformat.py     ml/                     parquet_inputformat.py  sql/                    transitive_closure.py
+kmeans.py               mllib/                  pi.py                   status_api_demo.py      wordcount.py
+
+# 提交scala/java PI计算的任务到spark cluster计算
+# 如果增加spark.eventLog配置，需要先 mkdir /tmp/spark-events,事件会记录spark的一些配置信息
+spark/bin/spark-submit \
+--class org.apache.spark.examples.SparkPi \
+--master spark://10.184.108.18:7077 \
+--conf spark.eventLog.enabled=true \
+spark/examples/jars/spark-examples_2.11-2.4.5.jar 100
+# 计算结果显示
+20/04/13 11:52:23 INFO TaskSetManager: Finished task 99.0 in stage 0.0 (TID 99) in 56 ms on 172.17.0.3 (executor 0) (100/100)
+20/04/13 11:52:23 INFO DAGScheduler: Job 0 finished: reduce at SparkPi.scala:38, took 4.118978 s
+Pi is roughly 3.1415535141553512
+
+# 进入spark-sql命令交互模式
+bash-5.0# spark/bin/spark-sql
+spark-sql> :help
+         > ;
+Error in query: 
+mismatched input ':' expecting {'(', 'SELECT', 'FROM', 'ADD', 'DESC', 'WITH', 'VALUES', 'CREATE', 'TABLE', 'INSERT', 'DELETE', 'DESCRIBE', 'EXPLAIN', 'SHOW', 'USE', 'DROP', 'ALTER', 'MAP', 'SET', 'RESET', 'START', 'COMMIT', 'ROLLBACK', 'REDUCE', 'REFRESH', 'CLEAR', 'CACHE', 'UNCACHE', 'DFS', 'TRUNCATE', 'ANALYZE', 'LIST', 'REVOKE', 'GRANT', 'LOCK', 'UNLOCK', 'MSCK', 'EXPORT', 'IMPORT', 'LOAD'}(line 1, pos 0)
+
+== SQL ==
+:help
+# 退出命令交互模式
+spark-sql> quit;
+
+```
+**spark-examples**
+- [A broadcast variable](https://spark.apache.org/docs/2.4.5/api/java/org/apache/spark/broadcast/Broadcast.html) - sc.broadcast在所有节点上广播只读的共享变量而不必随job传递变量拷贝到每台机器上，例如有效地给每个节点输入超大dataset，Spark会通过有效算法减小通讯成本.
+```console
+# BroadcastTest [partitions] [numElem] [blockSize]
+spark/bin/spark-submit \
+--class org.apache.spark.examples.BroadcastTest \
+--master spark://10.184.108.18:7077 \
+spark/examples/jars/spark-examples_2.11-2.4.5.jar 100 500
+# 运行结果
+20/04/13 14:46:14 INFO DAGScheduler: Job 2 finished: collect at BroadcastTest.scala:51, took 0.570157 s
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+Iteration 2 took 586 milliseconds
+```
+- 测试任务中异常处理
+```console
+spark/bin/spark-submit \
+--class org.apache.spark.examples.ExceptionHandlingTest \
+--master spark://10.184.108.18:7077 \
+spark/examples/jars/spark-examples_2.11-2.4.5.jar
+```
+- 测试随机产生数归组统计 - [parallelize](https://spark.apache.org/docs/2.4.5/api/scala/index.html#org.apache.spark.SparkContext)
+Distribute a local Scala collection to form an RDD.
+    - [sparkbyexamples](https://sparkbyexamples.com/apache-spark-rdd/how-to-create-an-rdd-using-parallelize/)
+    - [map vs. flatMap and reduce vs. reduceByKey](https://annefou.github.io/pyspark/03-pyspark_context/)
+```console
+# GroupByTest [numMappers] [numKVPairs] [KeySize] [numReducers]
+spark/bin/spark-submit \
+--class org.apache.spark.examples.GroupByTest \
+--master spark://10.184.108.18:7077 \
+spark/examples/jars/spark-examples_2.11-2.4.5.jar 3 100 50 2
+# 执行结果
+20/04/13 15:09:54 INFO DAGScheduler: Job 1 finished: count at GroupByTest.scala:53, took 1.047462 s
+300
+```
+- 测试Spark文件路径
+```console
+# 登录master的 shell
+scala> sc
+res0: org.apache.spark.SparkContext = org.apache.spark.SparkContext@eef6e
+
+scala> sc.addFile("/nodata")
+org.apache.spark.SparkException: Added file file:/nodata is a directory and recursive is not turned on.
+  at org.apache.spark.SparkContext.addFile(SparkContext.scala:1550)
+  at org.apache.spark.SparkContext.addFile(SparkContext.scala:1508)
+  ... 49 elided
+# 递归将目录/文件随job下载到每一个节点上
+scala> sc.addFile("/nodata", true)
+scala> import org.apache.spark.SparkFiles
+import org.apache.spark.SparkFiles
+# 获取通过SparkContext.addFile()文件的绝对路径
+scala> SparkFiles.get("nodata")
+res4: String = /tmp/spark-2f3aabe2-239c-4c0f-b80b-cbb82d0a2830/userFiles-136c293d-9ae6-48a6-aacf-7aeedc60b0d8/nodata
+
+# 登录worker-1的shell可以看到nodata目录
+scala> import org.apache.spark.SparkFiles
+import org.apache.spark.SparkFiles
+
+scala> SparkFiles.get("nodata")
+res0: String = /tmp/spark-1e5d74c2-3121-4cff-ab1f-2535c3c54d56/userFiles-c514c863-5e1b-424a-9026-cd92e65885ec/nodata
+
+# 提交任务检查文件路径
+spark/bin/spark-submit \
+--class org.apache.spark.examples.SparkRemoteFileTest \
+--master spark://10.184.108.18:7077 \
+spark/examples/jars/spark-examples_2.11-2.4.5.jar nodata
+```
+- 测试 Spark streaming模式词统计
+```console
+# 先启动一个测试server,输出 words stream
+while true;do { printf 'The test streaming for the test word-count OK'; }|nc -l 9999;done
+# 运行 word count
+spark/bin/run-example org.apache.spark.examples.streaming.NetworkWordCount 10.83.0.254 9999
+# 手动提交job
+spark/bin/spark-submit \
+--class org.apache.spark.examples.streaming.NetworkWordCount \
+--master spark://10.184.108.18:7077 \
+spark/examples/jars/spark-examples_2.11-2.4.5.jar 10.83.0.254 9999
+# 运行结果 每间隔一秒就会统计一次stream中word的数量
+...
+(word-count,1)
+(OK,1)
+(The,1)
+(for,1)
+(the,1)
+(streaming,1)
+(test,2)
+
+-------------------------------------------
+Time: 1586963207000 ms
+-------------------------------------------
+
+20/04/15 15:06:47 WARN ReceiverSupervisorImpl: Restarting receiver with delay 2000 ms: Socket data stream had no more data
+20/04/15 15:06:47 ERROR ReceiverTracker: Deregistered receiver for stream 0: Restarting receiver with delay 2000ms: Socket data stream had no more data
+-------------------------------------------
+Time: 1586963208000 ms
+-------------------------------------------
+(word-count,1)
+(OK,1)
+(The,1)
+(for,1)
+(the,1)
+(streaming,1)
+(test,2)
+
+...
 ```
 
 #### 术语概念

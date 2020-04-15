@@ -68,7 +68,7 @@
         - [Show Network Details](#show-network-details)
         - [Firewall](#iptablesfirewall)
          - [nftables](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615486&idx=3&sn=9838f8089df016e39e0b25078b3068f8)
-        - [NC](#nc)
+        - [NC/netcat](#nc)
         - [Ping](#pingarping)
         - [ss-Socket Statistics](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446033&idx=2&sn=90e6f8a4dbc9cc7259014859e519bbdf)
         - [Nmap](#nmap)
@@ -2211,17 +2211,18 @@ SYN URGP=0
 ```
 
 #### nc
++ [nc开启后门](https://www.jianshu.com/p/c6226ddc0ec4)
++ [base64上传下载图片](https://www.imydl.tech/linux/689.html)
 check remote port status
 ```console
-# check Range of ports
-nc -zv 127.0.0.1 20-30  
-
-# check three ports 22/80/8080
-nc -zv 127.0.0.1 22 80 8080 
-
-# -z just scan for listening daemons, without sending any data to them
+# PORT SCANNING
+# -z 仅扫描端口不发送任何数据
 nc -zv 10.117.7.110 9092
 Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
+# check Range of ports
+nc -zv 127.0.0.1 20-30  
+# check three ports 22/80/8080
+nc -zv 127.0.0.1 22 80 8080 
 
 # -w 设定连接超时5秒
 nc -zv -w 5 10.192.120.124 1235
@@ -2236,6 +2237,35 @@ Connection to 10.117.4.117 5775 port [udp/*] succeeded!
 # 不指定protocol, SOCKS version 5 is used.
 # -x proxy_address[:port] 端口不指定默认1080 for SOCKS, 3128 for HTTPS
 nc -x10.2.3.4:8080 -Xconnect -Puser -w5 host.example.com 42
+
+# 用netcat做server端测试接受外部连接
+# -k Forces nc to stay listening for another connection after its current connection is completed. 必须和 -l合用
+# -l Used to specify that nc should listen for an incoming connection rather than initiate a connection to a remote host.  
+# 在本机监听9999 incoming的连接
+nc -lk 9999
+# 创建并监听一个Unix Domain Socket
+nc -lU /var/tmp/dsocket
+
+# DATA TRANSFER
+# 将nc监听的incomming connection传输的数据捕获到文件中
+nc -lv 1234 > filename.out
+# 通过nc建立连接把文件内容transfer过去，传输完成后连接将自动关闭
+nc 10.83.0.254 1234 < filename.in
+# 也可以一行行输入传输内容
+nc 10.83.0.254 25 << EOF 
+> HELLO host.example.com
+> EOF
+# 处理收到的web site的home page数据
+echo -n "GET / HTTP/1.0\r\n\r\n" | nc host.example.com 80
+
+# 建立远端port 42的TCP连接，并使用10.1.2.3作为本地连接IP地址
+nc -s 10.1.2.3 host.example.com 42
+
+# 建立一个简单的web server
+while true;do { printf '%b\r\n' 'HTTP/1.1 200 OK' '\r\n';cat index.html; }|nc -l 9999;done
+# 浏览器访问http://10.83.0.254:9999 或者使用curl命令
+nc 10.83.0.254 9999
+HTTP/1.1 200 OK
 ```
 
 #### ping/arping
