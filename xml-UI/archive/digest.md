@@ -11,44 +11,41 @@
 + [***Tools***](#tools)
 + [***Interview***](#interview)
 + [***System Monitor***](system-monitor/monitor.md)
-    - [NetData性能监控](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614807&idx=2&sn=6eeb1cc8c0b93a3de2b6428891a74f11)
-    - [分布式跟踪方案](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018739&idx=5&sn=9016fde08c6b83ac782d7cda427e70e5)
-    - [性能监控与负载测试工具](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655826410&idx=2&sn=e404e30a99be69ea91090bbb6bf276ec)
-    - [从SAR报告中获取CPU和内存使用情况](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615155&idx=4&sn=d2527a658c57aa81ed3bd688c989b342)
-    - [CPU使用率低高负载](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651680131&idx=1&sn=d5494a45fe1d9a57ef555794954ec434)
-	- [CPU 使用率和平均负载](https://mp.weixin.qq.com/s/3I5kkNIGKkjQFazwvS4GIQ)
-    - [Linux性能分析工具合集](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446320&idx=1&sn=a153a3b893b0e6f418c1c47ff7dc246e)
-    - [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
-    - [发现截断的数据项](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=3&sn=6f51206fd04451ad879fd44d7bb3d9d3)
-    - [软件效率分析组](http://sape.inf.usi.ch/)
+    - [NetData性能监控工具](https://mp.weixin.qq.com/s/Xlrp6LJ-2UY-EoQuAZjAaA)
+    - [分布式跟踪方案(instrumentation库/tracer/分析工具)](https://mp.weixin.qq.com/s/5J80CzoSoX8M3g96cOvKQw)
+    - [CPU使用率低但高负载](https://mp.weixin.qq.com/s/TQZ3anPiStzgI1B--uTGlQ)
+	- [CPU使用率和平均负载](https://mp.weixin.qq.com/s/3I5kkNIGKkjQFazwvS4GIQ)
+    - [Linux性能分析工具合集](https://mp.weixin.qq.com/s/eileWRLhdHgK_hHUHholtQ)
+    - [systemd-analyze分析Linux启动时间](https://mp.weixin.qq.com/s/4Yc4s_fCyvuafJmBqFHK8g)
 	- [ARP攻击和防御](https://mp.weixin.qq.com/s/jwGbMwbLz6PDauhecEFVYg)
 
-+ ***blockchain***
-    - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
++ ***Blockchain***
+    - [以太坊简介](https://mp.weixin.qq.com/s/YmzAFTT5jjCCTnzp9VSCgw)   
     - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
 
-+ ***bench test***
++ ***Bench test***
     - [Geekbench测试不同公有云服务](https://www.ithome.com/0/431/894.htm)    
-    - [Lighthouse做前端性能监控实践](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247486046&idx=1&sn=84caed75c1dc0e4bc73e666a502e855e)
-    - [go/java/python效率测试](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022843&idx=5&sn=17b863d27ee48634c7f22c6c2495978d)
+    - [14种负载测试工具](https://mp.weixin.qq.com/s/WgaJQ6fpeOGEQdNseCRWbA)
+    - [Lighthouse做前端性能监控实践](https://mp.weixin.qq.com/s/ZFjJkT9QwlDLiKWEi7XzzQ)
+    - [go/java/python效率测试](https://mp.weixin.qq.com/s/d2dw2d-LLVT3DtgJOtdiag)
 
-+ ***microservice***
-    + 构建微服务架构([**1**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485798&idx=1&sn=c644bcbd49b873a5220a2d82bfcbf17a), [**2**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485806&idx=1&sn=0afb17f3ced0b8ba29d4c48fad22e1e7), [**3**](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485813&idx=1&sn=c4d1916782a09523ce77617c4959449a))
++ ***Microservice***
+    + 构建微服务架构([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)
-	- [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
-    - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)   
-	- [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)
+	- [微服务的经验教训](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
+    - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)  
+    - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
-	- [陌陌Service Mesh 架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
+	- [陌陌Service Mesh架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
 	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)
-    - [你可能不需要微服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018984&idx=1&sn=3244a8b7bfcd224a53134862a40c96b9)
-    - [Tomcat bug导致链路失效 ](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490615&idx=3&sn=9a2ce631c89af6732ce4933bfc95f179)
+    - [你可能不需要微服务](https://mp.weixin.qq.com/s/2ZK-NwzuoziZq_5MI7x4mQ)
+    - [Tomcat bug导致nginx链路失效 ](https://mp.weixin.qq.com/s/DUSNDDUvkLkVQXB439Tidg)
 	- [Tomcat高危漏洞](https://mp.weixin.qq.com/s/SWKbpOHCyK7ZPc6AokaHGw)
 
-+ ***blog***    
-    - [jayway](https://blog.jayway.com/)      
-    - [资源搜索网站](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735614209&idx=1&sn=c3fc396ffe327225047c895ce360149a)
-    - [offer negociation](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022657&idx=1&sn=19d390f55f4192f845a4e76ed35cd8f1)
++ ***Resource***    
+    - [jayway技术博客](https://blog.jayway.com/)      
+    - [资源网站集合](https://mp.weixin.qq.com/s/gY9vL4Z5fwTpNJv_NswqNQ)
+    - [offer negociation](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q)
 
 #### Linux
 + [commands](Linux%20commands.md)
@@ -123,9 +120,10 @@
     - [获取网络日志发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
     - [内存与数据结构 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217699&idx=3&sn=f30c0be3d15e1d2d2327ce2cb8608023)
     - [链表解题](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218718&idx=2&sn=169414b620b2cd95ab42b37ae751f2e5)
-     - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
-	 - [进程与线程图解 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217929&idx=2&sn=c582a01762f593b170a1b4390c235c42)
-     - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218296&idx=2&sn=997afa84580ce56cd95a5f60e6218b47)
+    - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
+	- [进程与线程图解 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217929&idx=2&sn=c582a01762f593b170a1b4390c235c42)
+    - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218296&idx=2&sn=997afa84580ce56cd95a5f60e6218b47)
+    - [软件效率分析组织](http://sape.inf.usi.ch/)
 
 #### Web
 + HTTP/HTTPS
@@ -436,6 +434,7 @@ done
 ```
 
 #### spring
+- [spring cloud](https://github.com/ityouknow/awesome-spring-cloud)
 - spring boot tutorials[[***1***](https://www.tutorialspoint.com/spring_boot/spring_boot_quick_start.htm), [***2***](https://www.mkyong.com/tutorials/spring-boot-tutorials/)]
     - [properties injection](java/spring.md#bu1)
     - [application entry](java/spring.md#bu2)

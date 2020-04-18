@@ -641,8 +641,16 @@ lshw | grep cpu
 lscpu
 # 直接查看描述文件
 cat /proc/cpuinfo
+# 查看CPU个数
+cat /proc/cpuinfo | grep 'physical id' | sort | uniq | wc -l
+# 查看CPU物理核数
+cat /proc/cpuinfo | grep 'cpu cores' | sort | uniq
+# 查看CPU逻辑核数
+cat /proc/cpuinfo | grep 'siblings' | sort | uniq
+
 # prints out the number of processing units available
 nproc
+
 # dumping a computer's DMI (some say SMBIOS) table contents in a human-readable format
 # 过滤显示出主板上cpu信息 -t 4 cpu的type是4
 dmidecode -t 4
