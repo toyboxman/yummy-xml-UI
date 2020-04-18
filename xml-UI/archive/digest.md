@@ -16,10 +16,12 @@
     - [性能监控与负载测试工具](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655826410&idx=2&sn=e404e30a99be69ea91090bbb6bf276ec)
     - [从SAR报告中获取CPU和内存使用情况](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615155&idx=4&sn=d2527a658c57aa81ed3bd688c989b342)
     - [CPU使用率低高负载](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651680131&idx=1&sn=d5494a45fe1d9a57ef555794954ec434)
+	- [CPU 使用率和平均负载](https://mp.weixin.qq.com/s/3I5kkNIGKkjQFazwvS4GIQ)
     - [Linux性能分析工具合集](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446320&idx=1&sn=a153a3b893b0e6f418c1c47ff7dc246e)
     - [systemd-analyze分析启动时间](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614930&idx=1&sn=4c9f6dcf2f718cb528267dd9af613329)
     - [发现截断的数据项](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615064&idx=3&sn=6f51206fd04451ad879fd44d7bb3d9d3)
     - [软件效率分析组](http://sape.inf.usi.ch/)
+	- [ARP攻击和防御](https://mp.weixin.qq.com/s/jwGbMwbLz6PDauhecEFVYg)
 
 + ***blockchain***
     - [以太坊](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614225&idx=2&sn=199e802d5c7f779f0b99d7c20f9921d7)   
@@ -35,7 +37,10 @@
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)
 	- [微服务的经验教训](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016151&idx=2&sn=caa40d813b176a8325d61ca0c1040d19)    
     - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)   
+	- [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
+	- [陌陌Service Mesh 架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
+	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)
     - [你可能不需要微服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651018984&idx=1&sn=3244a8b7bfcd224a53134862a40c96b9)
     - [Tomcat bug导致链路失效 ](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490615&idx=3&sn=9a2ce631c89af6732ce4933bfc95f179)
 	- [Tomcat高危漏洞](https://mp.weixin.qq.com/s/SWKbpOHCyK7ZPc6AokaHGw)
@@ -70,6 +75,7 @@
     - [系统结构详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666545341&idx=1&sn=14dd9a3ed7c987fe12dbf918b92f268a)
     - [操作系统](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)
 	- [文件系统类型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615001&idx=2&sn=a25296240f96e9f0e5c3f9fce0eb00e3)
+	- [文件系统](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
     - [Linux Used内存](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
 	- [inode](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615100&idx=1&sn=818f8360ae1c5297ad4693c559108df3)
     - [Linux 内核的五大创新](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=1&sn=93ea4bc3d9506f445b736bb12a5adecd)
@@ -88,6 +94,7 @@
     - [kite-编写python代码的AI](https://mp.weixin.qq.com/s?__biz=MzIxNjM4NDE2MA==&mid=2247492104&idx=2&sn=95d59b96659d8ed74ac1f79bb6225486)
     - [Heartrate执行可视化](https://mp.weixin.qq.com/s?__biz=MjM5MzI5MTQ1Mg==&mid=2247486807&idx=2&sn=2312d5553b0e6351662483bceec13a06)
 	- [Octave绘制数据](https://mp.weixin.qq.com/s/Nb2ci6d5MhoRoepu6G3YdQ)
+	- [读取电子表格](https://mp.weixin.qq.com/s/otJKMe-HYOp06TyAGk0DVQ)
 	- [比Excel更强大的可视化库 Altair](https://mp.weixin.qq.com/s/t3Bm8KEbLCbPlMPSQcpbvw)
 	- [8个流行的可视化工具包](https://mp.weixin.qq.com/s/dRdFTBF7phHwKatPLjpOjA)
     - [Pandas并行处理](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022607&idx=5&sn=83e8b21e89b123461377a8c6283a6502)
@@ -116,7 +123,8 @@
     - [获取网络日志发现错误的根本原因](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654699299&idx=3&sn=a51311a5985a382514a74e85978ffb5a)
     - [内存与数据结构 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217699&idx=3&sn=f30c0be3d15e1d2d2327ce2cb8608023)
     - [链表解题](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218718&idx=2&sn=169414b620b2cd95ab42b37ae751f2e5)
-     - [进程与线程图解 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217929&idx=2&sn=c582a01762f593b170a1b4390c235c42)
+     - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
+	 - [进程与线程图解 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217929&idx=2&sn=c582a01762f593b170a1b4390c235c42)
      - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218296&idx=2&sn=997afa84580ce56cd95a5f60e6218b47)
 
 #### Web
@@ -159,6 +167,8 @@
     - [webpack 常用配置](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218008&idx=3&sn=542d4518ca1aa40ea06a4975841e3172)
 + CSS
     - [CSS知识点](https://mp.weixin.qq.com/s/CNWl36Oa6KBvdGZ-wC4odw)
+	- [经典的CSS布局问题](https://mp.weixin.qq.com/s/ljnqn8paEHIgShA3c-eoxw)
+	- [CSS布局指南](https://mp.weixin.qq.com/s/gIRqOKZAYwRUxWvKXbTvig)
 	- [十个最流行的前端 CSS 库](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019266&idx=5&sn=135e1c7eb295ca17fde8e640f7f803d5)
     - [CSS第四级选择器](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485929&idx=1&sn=1e7c6bfb43b5a209a038fc1904e6fec9)
     - [CSS Grid](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MDY2NA==&mid=2247485954&idx=1&sn=fe1687b658d8a0bd24cf8b3997b8f110)
@@ -193,6 +203,7 @@
 + [混沌工程](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)
 + 分布式架构
     - [农行分布式架构](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282254&idx=2&sn=ddea3e87a3476aef1b8647b02c6256ef)
+	- [后端基础设施架构](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
     - [分布式系统原理](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650283531&idx=1&sn=fe48b43f5b2711fed8c0926f91bb0062)
     - [分布式架构的前世今生](https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247487804&idx=2&sn=35f9b770f26f71b66e9df1f70e55dcf7)
@@ -204,8 +215,10 @@
 	- [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247492519&idx=1&sn=9c7d68271f2fc5a1bf65b8309809b75f)
 + [技术选型](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017963&idx=1&sn=2f4da571976237ef4276f7afaced3c48)
 + [高并发系统的设计](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NDcyMA==&mid=2247485740&idx=1&sn=df7b6f26efae178765841ae615b9b32d)
++ [高并发服务限流实践](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)
 + [数据迁移](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282269&idx=1&sn=05e22eff6aa577bab2c61fcd41c76991)
 + [事务的隔离](https://mp.weixin.qq.com/s/dLVaMwC_NQn_2JVSFfH9ug)
++ [分布式事务中常见的三种解决方案](https://mp.weixin.qq.com/s/jhyXWcHysSkn21k3s4izlA)
 + [分页查询](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282168&idx=2&sn=0c3a2696ffbce577d91e9c523c697176)
 + [缓存三大问题及解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282325&idx=2&sn=481704a1ce0e205aaf0ec67b668f5bfd)
 + [Dubbo架构](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217330&idx=2&sn=f131d1dcdbc24838dc62c973081f74c6)
@@ -234,6 +247,7 @@
 + [oracle](db/oracle.md)
     - [Persistent Memory Store](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282491&idx=2&sn=c2a3ea86e98a0d79c786cd9962b3f87e)
     - [数据迁移工具](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282864&idx=1&sn=0bb4795f0794808b04eb5f3001fdd1ad)
+	- [double write](https://mp.weixin.qq.com/s/1uqkVCeC57t07lsDl-8M7w)
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
     - [Redis复制原理](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282436&idx=1&sn=8c3aedf4844fd0d209cf7ac624661fd8)
 + [SQLite](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650283693&idx=1&sn=a1fb927e1ee113c97851fd76010e627b)
@@ -258,6 +272,7 @@
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
 + [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
++ [RabbitMQ总结](https://mp.weixin.qq.com/s/0cX6o3QVygxhOTK4uxWFPw)
 + [Kafka架构设计](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
 + [MQ与RabbitMQ面试题](https://mp.weixin.qq.com/s/Lz4NEChB_Twlva5V8BKyvg)
 + [Kafka的生产者/消费者详析](https://mp.weixin.qq.com/s/T9hONRBS37cmolkWhtXs-g)
@@ -293,7 +308,10 @@
 + [Polynote多语言笔记本](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651021946&idx=1&sn=da5aa42bc438f4d517563b4f5a70947c)
 + 2019-hot-project[[10](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446183&idx=2&sn=6b65cd6d1571df0672e408df601d9383), [11](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446296&idx=1&sn=65b92fd734ca2774c3f0a90688853ecf)]
 
-github提供检索功能[https://github.com/search](https://github.com/search), [检索语法](https://help.github.com/en/articles/about-searching-on-github),   [code search语法](https://help.github.com/en/articles/searching-code)
+github提供检索功能[https://github.com/search](https://github.com/search)
++ [检索语法](https://help.github.com/en/articles/about-searching-on-github)
++ [code search语法](https://help.github.com/en/articles/searching-code)
++ [Github高级搜索技巧](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
 ```
 # 从java语言的项目(language:java)中
 # 搜寻扩展名是java(extension:java)的文件内容(in:file)
@@ -335,12 +353,14 @@ process in:file language:java extension:java
     - [zk-election](java/ZK-leader_election.md)
     - [JPDA](java/JDI_JDWP_JPDA.md)
     - [Lambda](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217420&idx=2&sn=f355d35962291ab4f24c1bfb14456607)
++ [如何解决代码中if…else过多的问题](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
 + [javatpoint](https://www.javatpoint.com/java-tutorial)
 + [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
 + [Lombok简化Java编程 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218154&idx=2&sn=b0f8177a60363fe2bc10df20a7b7e521)
 + [深入Java Lock](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217659&idx=2&sn=77830b512bf68e06653a64033d4a1e06)
 + [Java网络协议](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217724&idx=2&sn=01c7f798325acd209bdef73c317b0ca8)
++ [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
 + [JVM GC](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022362&idx=5&sn=6fea10b7c630b6f2609d9dc8cb1e78bf)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218043&idx=3&sn=b75f9e2cf296d75e42aa3ca13bfb12b3)
     - [JVM面试问题](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218082&idx=3&sn=5f8aca3ae79d8924b0d451aabe0b8946)
@@ -389,6 +409,7 @@ process in:file language:java extension:java
     一站式 HTTP/REST 服务测试工具。Paw 具有功能齐全的可视化编辑器和 HTTP 工具集，可以让 Web 开发者模拟发送各种 HTTP 请求、测试和迭代自己的 API 或探索新的 API，测试响应数据。另外，Paw 能多人协作，同步 API 测试配置，进行无冲突的更改并获取实时更新
 
 + [Markdeep扩展能力Markdown](https://mp.weixin.qq.com/s/ONNoK7r9Br-olOBnXRswkw)
+	- [4个Linux 命令行下的 Markdown 工具](https://mp.weixin.qq.com/s/9RRveBQU3iXEc04-rmCwVQ)
 
 + ***Arya***    
     Arya 是一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析    
@@ -423,6 +444,8 @@ done
         - [Run Boot Application](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html)
     - [Tomcat configuration](https://www.baeldung.com/spring-boot-configure-tomcat)
     - [best practices](java/spring.md#bubp)
+	- [Spring Boot中的事务是如何实现的](https://mp.weixin.qq.com/s/VitWI2QsiMv-uXtNrQXRrw)
+	- [Spring Boot运行监控](https://mp.weixin.qq.com/s/53akj0zsvdyh8cW0ApObXQ)
     - spring-boot-based product
         - [eladmin后台管理系统](https://github.com/elunez/eladmin)
         - [xxl-job分布式调度平台](https://github.com/xuxueli/xxl-job)
@@ -461,6 +484,7 @@ done
     - [spring doc center](https://docs.spring.io/spring/docs/)
         - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
         - [pdf/excel/html report integration](https://www.baeldung.com/spring-jasper)
+		- [Spring中经典的 9种设计模式](https://mp.weixin.qq.com/s/YxqwafTbwJFbsmdM16v5IA)
         - [阅读笔记](https://github.com/seaswalker/spring-analysis)
         - [RBAC访问实现](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218093&idx=3&sn=9b82ec2ace31b04165d350d90552748b)
 
@@ -512,10 +536,13 @@ done
 + [高中物理](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657467562&idx=4&sn=262ce93366c1fa08edfb92afb2443448)
 
 #### GraphQL
-[工具和库 ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651017395&idx=3&sn=ab0b3c87c20d4cdaad82321764195210)
++ [GraphQL工具和库 ](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
++ [什么是 GraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)
 
 #### NPM
-[Web开发包注册中心的NPM](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016822&idx=2&sn=d38c1f59ebd04052d95f2136fb950d5c)
++ [10个最流行的NPM包](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
++ [发布一个无依赖的npm包](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)
+
 
 #### ElasticSearch
 + [简单教程](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282222&idx=1&sn=a937009d8f0a66aaa327cd6f83955ee5)

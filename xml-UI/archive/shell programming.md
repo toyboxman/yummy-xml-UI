@@ -30,6 +30,7 @@
 	+ [循环读写REST API,计算执行时间](#exp8)
 	+ [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
 	+ [编写函数](#exp10)
+	+ [编写可靠 bash脚本的一些技巧](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg)
 	+ [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
 	+ [列出大型文件系统中文件,目录](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
     + [Bash实现登录查看系统信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=3&sn=131146215fa4c8581c6d25c15404ebce)

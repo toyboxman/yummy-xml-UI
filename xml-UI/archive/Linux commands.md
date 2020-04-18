@@ -21,6 +21,7 @@
         - [rm -f undo](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
         - [排查机器入侵](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446188&idx=2&sn=0d1bedb695c5ffd45a147a14539ebb5c)
         - [防止机器被黑](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446283&idx=1&sn=22b9f99809135e163697a3e87cc537a9)
+		- [分析Linux进程的6个方法](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
         - [Debug Operation](#debug)
             - [Gdb](#gdb)
             - [Objdump](#objdump)
@@ -40,7 +41,7 @@
             - [Show Linux Version](#show-linux-version)
             - [hwinfo/lshw/lscpu/lsblk/nproc/dmidecode](#hwinfo)
             - [free](#free)
-        - [List Kernel Modules](#list-kernel-modules)
+        - [List Kernel Modules/lsmod/ldd](#list-kernel-modules)
             - [Kconfig/Kbuild](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=1&sn=74b41ef32688862b70a83ba350489970)
             - [Update kernel](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615302&idx=1&sn=3cfea2d97a4155e3b82511ea73b589c5)
         - [List Services Port](#list-services-port)
@@ -66,7 +67,7 @@
         - [ZERO/NULL](#device)
     - [Network Management](#network-config)        
         - [Show Network Details](#show-network-details)
-        - [Firewall](#iptablesfirewall)
+        - [Firewall/iptables/ufw](#iptablesfirewall)
          - [nftables](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615486&idx=3&sn=9838f8089df016e39e0b25078b3068f8)
         - [NC/netcat](#nc)
         - [Ping](#pingarping)
@@ -83,21 +84,18 @@
     - [Alias](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614821&idx=1&sn=2f38694271ec23361cd9cb34c042dbef)
     - [List/ls](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614784&idx=1&sn=7057d99d5901a33a5329e17ceea8f9bf)
     - [Base64](#base64)
-    - [Copy/Mkdir](#cp)
+    - [Copy/Xclip/Mkdir/Mkfifo](#cp)
     - [Chmod](#chmod)
     - [Chown](#chown)
     - [Chgrp](#chgrp)   
     - [Chsh](#chsh)
     - [Checksum](#checksum)
-    - [Crontab](#crontab)
+    - [Crontab/At](#crontab)
     - [Curl](#curl)
-        - [HTTPie替换curl/wget](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615121&idx=2&sn=c8882c19b56d6aaa5a6f4a058cd21518)
     - [Download](#download)
     - [Env](#env)
     - [Find](#find)
     - [File](#file)
-        - [Linux split大文件](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446161&idx=2&sn=8357ded5f748c2b86fdf152245dfab80)
-        - [可执行ELF文件的操作](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446175&idx=2&sn=2fa75445447f08876c0c0d0e6f46c3eb)
     - [Grep](#search-txt)
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
@@ -106,13 +104,13 @@
     - [Less](https://mp.weixin.qq.com/s/qfAsQBnU6YBwiW2SYne1kg)
 	- [Link/ln](#ln)
         + [unlink](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615210&idx=4&sn=bd2ecde9e068650688fb389e27897162)
-    - [Man](#man)
+    - [Man/col](#man)
         - [cheat/tldr](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446027&idx=1&sn=6c2a457270a42ef03392a9f142ae55d4)
     - [Make](#make)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [Nohup](#nohup)
-    - [Pstree](#pstree)
+    - [Pstree/pgrep](#pstree)
         - [tree](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615366&idx=1&sn=d8d05984e278d79e8b7626120af58932)
     - [Rename](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615055&idx=1&sn=c8f1ffb240295d14dad745757f7be12b)
     - [SSH](#ssh)
@@ -123,7 +121,7 @@
     - [Tar](#tar)
     - [Vim](#vim)
     - [Zgrep](#search-gz)
-    - [Zcat/cat/tac](#zcat)
+    - [Zcat/cat/tac/nl](#zcat)
 - [Text Operation](#txt-operation)
     - [Awk](#awk)
     - [Cut](#cut)
@@ -134,7 +132,7 @@
         - [multitail](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=2&sn=2be0fa4438995d2392274621575d2920)
     - [Hd/Od](#hdod)
     - [Markdown/pandoc](#pandoc)
-    - [JSON/jq](#jq)
+    - [JSON/jq/xmlwf](#jq)
     - [Read](#read)
     - [Redirect Symbol](#redirect-symbol)   
     - [Regular Expression](#regular-expression)     
@@ -652,7 +650,7 @@ dmidecode -t 4
 
 #### lsof
 ```console
-# list opened files
+# list opened files 列出打开了的文件
 lsof | less
 COMMAND     PID   TID       USER   FD      TYPE             DEVICE  SIZE/OFF       NODE NAME
 ntpd       1181              ntp  rtd       DIR               0,38       294        256 /
@@ -733,12 +731,22 @@ unset GOBIN
 # -l Display long lines
 # -h highlight current process
 pstree -alA
+
+# pgrep 用来列举进程 ID
+pgrep -u java
+22441
+22444
+# 命令相当于
+ps -ef | egrep 'java' | awk  '{print $2}'
 ```          
 
 #### man
 ```console
 # read nc manual with GB2312 encoding
 man -E GB2312 nc
+
+# 把man文件转成纯文本文件
+man less | col -b > less.txt 
 ```
 
 #### make
@@ -896,6 +904,17 @@ rm -dfrv /root/folder
 # -sel clip 选项可确保内容复制到系统剪贴板
 tail -n 30 logfile.log | xclip -sel clip
 ```
+我们在命令行上使用竖线 “|” 把命令串起来是使用无名管道, 使用mkfifo可以创建有名管道
+```console
+# 在tmp目录下创建一个java的管道
+mkfifo /tmp/java
+# list 创建的管道
+ls -l /tmp
+# 把list当前目录结果送入管道
+ls -al > /tmp/java
+# 读出管道内容
+head /tmp/java
+```
 
 #### scp
 ```console
@@ -915,6 +934,9 @@ sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/pa
 ```
 
 #### file
+- [split大文件](https://mp.weixin.qq.com/s/_Yin-MQvYxNDcID6JKUpGQ)
+- [操作可执行ELF文件](https://mp.weixin.qq.com/s/3I7ev0U8EGTHwkSfAOLpHQ)
+- [rsync快速删除大量文件](https://mp.weixin.qq.com/s/PA5XXqqZKKuwREPeqAtS4Q)
 ```console
 # determine file type
 file pom.xml
@@ -1067,8 +1089,17 @@ tac就是cat倒序命令，可以从后往前读取文件内容
 ```console
 tac pom.xml | grep 'schema'
 ```
+nl命令和cat 命令很像，只不过它会打上行号
+```console
+nl stdio.h | head -n 3
+1 /* Define ISO C stdio on top of C++ iostreams.
+2 Copyright (C) 1991,1994-2004,2005,2006 Free Software Foundation, Inc.
+3 This file is part of the GNU C Library.
+```
 
 #### Crontab
++ [cron expression](https://www.freeformatter.com/cron-expression-generator-quartz.html)
++ [at命令安排任务](https://mp.weixin.qq.com/s/eknQ16aKiDWSpVGvREPL2Q)
 ```console
 # list current running cron task
 crontab -l 
@@ -1083,13 +1114,12 @@ crontab ./cronTask
 # remove current running cron task
 crontab -r  
 ```
-[cron expression](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 
 #### Curl
-+ [Link](http://conqueringthecommandline.com/book/curl)  
++ [Basic Manual](http://conqueringthecommandline.com/book/curl)  
 + [Curl学习指南](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446117&idx=2&sn=711f87e47a0c3565164612138d8dc811)
 + [21个curl 命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615768&idx=2&sn=1db213cc4aa8e753921bec03e4f4dee8)
-
++ [HTTPie替换curl/wget](https://mp.weixin.qq.com/s/SuZSOOWTiM6a1LZj1d2udg)
 ```console
 # (H) means HTTP/HTTPS only, (F) means FTP only
 # -i, --include   Include protocol headers in the output (H/F)
@@ -1483,8 +1513,10 @@ ip addr show br0
 ---
 
 ### TXT operation 
-> [Link](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
+
 #### diff/patch
++ [patch-command](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
++ [Meld图形化diff工具](https://mp.weixin.qq.com/s/tQEXrOQqm28v7MtNl-ZGCw)
 ```console
 # 创建patch
 diff -u hello.c hello_new.c > hello.patch  
@@ -1995,6 +2027,11 @@ cat name.json | jq '.[0].name'
 cat name.json | jq '.[0].id + 10'
 11
 ```
+检查一个 XML文档是否是所有的 tag 都正常
+```cosole
+xmlwf cocre.xml
+cocre.xml:13:23: mismatched tag
+```
 
 #### pandoc
 使用 Pandoc 将 Markdown 格式的文件转换为 HTML
@@ -2101,9 +2138,10 @@ Shift+Insert   |  粘贴系统剪贴板内容
 ### Network Config
 
 #### iptables/firewall
-> [Basic](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
-> [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
-> [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
++ [Basic-manual](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
++ [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
++ [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
++ [防火墙ufw简介](https://mp.weixin.qq.com/s/ah0cT35qzooxFdZ8tMSZCQ)
 ```console
 # 列出防火墙所有规则，按规则号显示
 # --list/-L  List all the rules
@@ -2213,6 +2251,7 @@ SYN URGP=0
 #### nc
 + [nc开启后门](https://www.jianshu.com/p/c6226ddc0ec4)
 + [base64上传下载图片](https://www.imydl.tech/linux/689.html)
++ [网速吞吐量测试](https://mp.weixin.qq.com/s/E1M5ro-S1NHAhzkk3ZinNw)
 check remote port status
 ```console
 # PORT SCANNING
