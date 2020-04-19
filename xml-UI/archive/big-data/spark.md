@@ -426,9 +426,10 @@ Time: 1586963208000 ms
 (the,1)
 (streaming,1)
 (test,2)
-
 ...
 ```
+#### 源码分析
++ [Structured Streaming源码解析](https://github.com/lw-lin/CoolplaySpark)
 
 #### 术语概念
 

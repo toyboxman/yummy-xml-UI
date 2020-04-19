@@ -37,12 +37,14 @@ Kubernetes可以解决那些问题可以看看
 + k8s怎么用
 
 Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑的操作，下面是一些关于简单使用学习的文章
-+ [Ubuntu MicroK8s运行Kubernetes环境](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=3&sn=8176ed98194bf765a5e5ed1cdfbd503b)
++ [Mac配置Kubernetes](https://mp.weixin.qq.com/s/A0hogBew98ekE-HDXVYNkA)
     MicroK8s需要通过snap install安装到ubuntu vm上，国内安装速度较慢。替代使用[k3s](https://k3s.io/)或[Minikube](https://github.com/kubernetes/minikube)
-+ [4 tools for k8s](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=1&sn=9259273f43b7ca54c00b500988ba4359)
++ [4 tools for k8s](https://mp.weixin.qq.com/s/nsfr6sArLotsB9U4MU7-wg)
 + [ansible自动化部署k8s](https://github.com/easzlab/kubeasz)
 + [基本kubectl和Helm命令](https://mp.weixin.qq.com/s/JpCVNcU2hrfHS2d_Xcttvw)
 + [使用Traefik引导Kubernetes流量](https://mp.weixin.qq.com/s/edMBhL5XtyAsILHSeTWBdA)
++ [中文版文档](https://linfan1.gitbooks.io/kubernetes-chinese-docs/content/index.html)
++ [Awesome-Kubernetes](https://ramitsurana.gitbooks.io/awesome-kubernetes/content/)
 
 ```
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system

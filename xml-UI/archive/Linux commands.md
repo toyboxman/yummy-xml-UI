@@ -20,7 +20,7 @@
         - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
         - [rm -f undo](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
         - [排查机器入侵](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446188&idx=2&sn=0d1bedb695c5ffd45a147a14539ebb5c)
-        - [防止机器被黑](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446283&idx=1&sn=22b9f99809135e163697a3e87cc537a9)
+        - [防止机器被黑](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)
 		- [分析Linux进程的6个方法](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
         - [Debug Operation](#debug)
             - [Gdb](#gdb)
@@ -945,6 +945,7 @@ sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/pa
 - [split大文件](https://mp.weixin.qq.com/s/_Yin-MQvYxNDcID6JKUpGQ)
 - [操作可执行ELF文件](https://mp.weixin.qq.com/s/3I7ev0U8EGTHwkSfAOLpHQ)
 - [rsync快速删除大量文件](https://mp.weixin.qq.com/s/PA5XXqqZKKuwREPeqAtS4Q)
+- [不使用mv命令移动文件](https://mp.weixin.qq.com/s/vFmE7j2AzoLCS7nYph-D_w)
 ```console
 # determine file type
 file pom.xml
