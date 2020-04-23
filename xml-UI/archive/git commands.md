@@ -590,9 +590,13 @@ gitk file
 	```console
 	sudo pip install git-review
 	```
-	或
+	Ubuntu平台
 	```console
 	aptitude install git-review
+	```
+	Mac平台
+	```console
+	brew install git-review
 	```
 	- 创建review配置文件, 需要在本地git repo的根目录, 即.git同一级目录, 创建一个.gitreview的配置文件
 	```console

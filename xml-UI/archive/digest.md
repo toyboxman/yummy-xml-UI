@@ -300,12 +300,12 @@
 
 #### github
 + [开源的7大理念](https://mp.weixin.qq.com/s/P45JQoQfnCnVOPlokwJFMA)
-+ [12306 抢票项目](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019389&idx=6&sn=cb48d93961b148521493d7c3ef34fb68)
++ [12306抢票项目](https://mp.weixin.qq.com/s/b87RzIITe03xIGo53YmD-A)
 + [netease-music](https://github.com/mbinary/netease-music-cracker)
-+ [Real-Time-Voice-Cloning](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490602&idx=2&sn=09752ffe957dbe2051b8e92d9c985d35)
-+ [命令行备忘工具 navi](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217568&idx=2&sn=e25c3187bdf612f2dd68264669d0f092)
-+ [Polynote多语言笔记本](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651021946&idx=1&sn=da5aa42bc438f4d517563b4f5a70947c)
-+ 2019-hot-project[[10](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446183&idx=2&sn=6b65cd6d1571df0672e408df601d9383), [11](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446296&idx=1&sn=65b92fd734ca2774c3f0a90688853ecf)]
++ [Real-Time-Voice-Cloning](https://mp.weixin.qq.com/s/r-gzBFheDuBtdLyeZpXGpg)
++ [命令行备忘工具navi](https://mp.weixin.qq.com/s/JJy2iv82RkHp6BXyXAOXNg)
++ [Polynote多语言笔记本](https://mp.weixin.qq.com/s/KjRbBMXhBkXwJBpI-DaRAQ)
++ 2019-hot-project[[10](https://mp.weixin.qq.com/s/ujq6J1njlFVsR_h5c-DT2Q), [11](https://mp.weixin.qq.com/s/fMAeNWMJkZbr7sLveBCy_w)]
 
 github提供检索功能[https://github.com/search](https://github.com/search)
 + [检索语法](https://help.github.com/en/articles/about-searching-on-github)
@@ -323,7 +323,7 @@ process in:file language:java extension:java
 ```
 还有[https://searchcode.com/](https://searchcode.com/)可以提供code search服务，不过以上都不完美无法达到grep效果
 
-本地免费文件检索工具还有[EveryThing](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446051&idx=2&sn=de6c0215e1c33fe4cdbb09f7f3605a9f)
+本地免费文件检索工具还有[EveryThing](https://mp.weixin.qq.com/s/nFGZtVG1gZ3F7Pv_dkwgfA)
 
 #### java
 + [maven](java/mvn.md)
@@ -351,18 +351,18 @@ process in:file language:java extension:java
         - annotation custom[[***1***](https://www.baeldung.com/java-custom-annotation), [***2***](https://www.javatpoint.com/java-annotation)]
     - [zk-election](java/ZK-leader_election.md)
     - [JPDA](java/JDI_JDWP_JPDA.md)
-    - [Lambda](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217420&idx=2&sn=f355d35962291ab4f24c1bfb14456607)
+    - [Lambda](https://mp.weixin.qq.com/s/ZtjO30iZpX8qYDO938l7Mg)
 + [如何解决代码中if…else过多的问题](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
 + [javatpoint](https://www.javatpoint.com/java-tutorial)
 + [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
-+ [Lombok简化Java编程 ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218154&idx=2&sn=b0f8177a60363fe2bc10df20a7b7e521)
-+ [深入Java Lock](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217659&idx=2&sn=77830b512bf68e06653a64033d4a1e06)
-+ [Java网络协议](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217724&idx=2&sn=01c7f798325acd209bdef73c317b0ca8)
++ [Lombok简化Java编程 ](https://mp.weixin.qq.com/s/EnZlhaqX0F6uND_LppZSAw)
++ [深入Java Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
++ [Java网络协议](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
 + [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
-+ [JVM GC](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651022362&idx=5&sn=6fea10b7c630b6f2609d9dc8cb1e78bf)
-    - [对象不用赋值null ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218043&idx=3&sn=b75f9e2cf296d75e42aa3ca13bfb12b3)
-    - [JVM面试问题](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218082&idx=3&sn=5f8aca3ae79d8924b0d451aabe0b8946)
++ [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
+    - [对象不用赋值null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
+    - [JVM面试问题](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
 
 #### tools
 + Linux常用工具[[英文](https://github.com/luong-komorebi/Awesome-Linux-Software), [中文](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)]
