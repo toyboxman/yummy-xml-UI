@@ -59,7 +59,8 @@
     - [QEMU模拟开发板](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)
 	- [开源工具构建DevOps](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA)    
     - [Jenkins构建CI/CD](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA)
-    - [pdftk操作PDF](https://mp.weixin.qq.com/s/bq8m3akbF_im6RWulhIh_w) `Note: java实现工具，大文件处理会碰到问题。某些功能也可通过浏览器打印PDF方式实现`
+    - [pdftk操作PDF](https://mp.weixin.qq.com/s/bq8m3akbF_im6RWulhIh_w)     
+    `Java实现工具，大文件处理会碰到问题。某些功能也可通过浏览器打印PDF方式实现`
     - [FFmpeg编辑视频](ffmpeg.md)
     - [开源搜索引擎YaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)
 	- [Photoshop开源替代品](https://mp.weixin.qq.com/s/eoYGUqq-4wNQzxKUjdSWdQ)
@@ -172,8 +173,10 @@
     - [Electron+Vue开发跨平台桌面应用](https://mp.weixin.qq.com/s/j9Ji8XEjNUQ80_fHI6la3A)
     - [前端开发在线工具EnjoyCSS/Bit.dev](https://mp.weixin.qq.com/s/ZzRV5egWXe-DHVoKmwO_rA)
     - 打包格式化
-        + [Minification](https://en.wikipedia.org/wiki/Minification_(programming)) `Note:压缩代码格式减少传输数据`
-        + [js/html beautifier](https://beautifier.io/) `Note:在线格式化`
+        + [Minification](https://en.wikipedia.org/wiki/Minification_(programming))  
+        `压缩代码格式减少传输数据`
+        + [js/html beautifier](https://beautifier.io/)  
+        `在线格式化文件`
         + [webpack常用配置](https://mp.weixin.qq.com/s/SsiF2U4LrpnGb-k3KgAD6w)
         + [webpack高级配置](https://mp.weixin.qq.com/s/etFRqDtyjPB8icI7tMJPZA)
 + CSS
