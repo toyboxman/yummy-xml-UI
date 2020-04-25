@@ -45,12 +45,12 @@
 + ***Resource***    
     - [jayway技术博客](https://blog.jayway.com/)      
     - [资源网站集合](https://mp.weixin.qq.com/s/gY9vL4Z5fwTpNJv_NswqNQ)
-    - [offer negociation](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q)
 
 #### Linux
 + [Commands](Linux%20commands.md)
     - [Shell Programming](shell%20programming.md)
-    - [Linux 100问](https://mp.weixin.qq.com/s/Y7_zYt2JoxhjTQhTCLBJOA)
+    - [Linux问题故障定位](https://mp.weixin.qq.com/s/K2iByKPVJZZ4UfZhUwisiQ)
+    - [Linux100问](https://mp.weixin.qq.com/s/Y7_zYt2JoxhjTQhTCLBJOA)
     - [系统管理员24问](https://mp.weixin.qq.com/s/T3RU8YkF-o4XY27WEjKsMA)
 + [Git](git%20commands.md)
     - [GitLab建立和托管网站](https://mp.weixin.qq.com/s/NSUDid0i8xWDeDQlAxBZjg)
@@ -152,10 +152,13 @@
     - [Nginx日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
     - [前端开发20年变迁史](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
-    - [使用Flutter开发Web应用](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
+    - Flutter
+        + [使用Flutter开发Web应用](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
+        + [Flutter富文本方案](https://mp.weixin.qq.com/s/uqxLb5ToMdi9sqL6gDRW_g)
     - [Django编写Python Web API](https://mp.weixin.qq.com/s/XLBr2paFOlAtrij-VcFeFA)
     - [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s/l2rQ9NyQMcP5t7z2qoCxmQ)
     - [H5移动端开发-弹出键盘/系统调用](https://mp.weixin.qq.com/s/VmtMDQfroq-RtIJ_h4p5yg)
+    - [前端缓存serviceworker概念](https://mp.weixin.qq.com/s/9fmflZirWd7zGt-4-MzsvQ)
     - [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s/vVQJ-K8vHv9vqn9XPSuhqQ)
     - [实现login验证码](https://mp.weixin.qq.com/s/9fu0u9sH-cU3KQfC3aBr-A)
     - [网络广告商的像素追踪](https://mp.weixin.qq.com/s/Ua42bkLI2tK8zIWaRFNmYg)        
@@ -167,6 +170,7 @@
     - [Vue和TS的移动端项目心得](https://mp.weixin.qq.com/s/4vZIGwiTcO7B4emUjf-M2Q)
     - [NodeJS进程与线程](https://mp.weixin.qq.com/s/N6Omr5HwSPl6JjE2ultoVg)
     - [Electron+Vue开发跨平台桌面应用](https://mp.weixin.qq.com/s/j9Ji8XEjNUQ80_fHI6la3A)
+    - [前端开发在线工具EnjoyCSS/Bit.dev](https://mp.weixin.qq.com/s/ZzRV5egWXe-DHVoKmwO_rA)
     - 打包格式化
         + [Minification](https://en.wikipedia.org/wiki/Minification_(programming)) `Note:压缩代码格式减少传输数据`
         + [js/html beautifier](https://beautifier.io/) `Note:在线格式化`
@@ -186,6 +190,14 @@
     - [JS数组精简技巧](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
     - [JS实现异步任务](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
     - [GoJS实现交互式图](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
++ GraphQL
+    - [GraphQL工具和库](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
+    - [什么是GraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)
++ NPM
+    - [10个最流行的NPM包](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
+    - [发布一个无依赖的npm包](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)  
++ [Ratpack](https://github.com/ratpack/ratpack)   
+    Ratpack is a simple, capable, toolkit for creating high performance web applications. Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.      
 
 #### Architecture
 + [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)
@@ -212,6 +224,7 @@
     - [日志实时数据聚合](https://mp.weixin.qq.com/s/jgHx5mRyIp3CcmyBann0pg)
 + [漫画中台](https://mp.weixin.qq.com/s/49uKZEWa9vG2hsbU8Km5Zg)
 + [云计算](https://mp.weixin.qq.com/s/WEHhYOdxJEJUpnABlRf10w)
++ [物联网](https://mp.weixin.qq.com/s/iVackIMMIwPYQ6mHQ_Q_uw)
 + [混沌工程](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)
 + [技术选型](https://mp.weixin.qq.com/s/2FN6x8VMA_v6kMW9t5hTww)
 + [无服务器迁移实践](https://mp.weixin.qq.com/s/kJi2or1e7mQAJzeONeVfeA)
@@ -262,7 +275,7 @@
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)
 
-#### bigdata
+#### Bigdata
 + [spark](big-data/spark.md)
     - [Spark中编写可伸缩代码](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
     - [图计算框架Plato vs Spark GraphX](https://mp.weixin.qq.com/s/J6GB3RMXY-tyOxEUii6fcw)
@@ -274,8 +287,19 @@
     - [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
     - [RabbitMQ总结](https://mp.weixin.qq.com/s/0cX6o3QVygxhOTK4uxWFPw)
     - [MQ与RabbitMQ面试题](https://mp.weixin.qq.com/s/Lz4NEChB_Twlva5V8BKyvg)
++ ElasticSearch
+    - [简单教程](https://mp.weixin.qq.com/s/3Ww4ufcLdzL3zXE7j_0Jnw)
+    - [安装Elasticsearch和Kibana](https://mp.weixin.qq.com/s/K3IT0NGODEZwzvHlIREDfg)
+    - [ElasticSearch实现日均5亿查询量的京东订单中心](https://mp.weixin.qq.com/s/9QgQRYMdBeBiBtIYiGD7yA)  
++ Business intelligence
+    - [superset](https://superset.incubator.apache.org/)  
+        Apache的这个项目可以对大多数database engines进行数据分析处理  
+    - [Flink](https://en.wikipedia.org/wiki/Apache_Flink)  
+        Apache Flink is an open-source stream-processing framework    
+    - [Druid](https://en.wikipedia.org/wiki/Druid_(open-source_data_store))   
+        Apache Druid is a high performance analytics data store for event-driven data          
 
-#### machine learning
+#### Machine learning
 + Machine Learning Course  
     - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
     - [d2l-zh](https://github.com/d2l-ai/d2l-zh)
@@ -286,11 +310,12 @@
     - [十大算法-线性回归/决策树](https://mp.weixin.qq.com/s/1tijCsxR12VhNaM-SNgkgQ)
 	- [异常检测孤立随机森林算法](https://mp.weixin.qq.com/s/EOBjLqvi_WcSjiDb8b5Nwg)
 	- [谷歌大脑Trax](https://mp.weixin.qq.com/s/tLAzDnAr5a2TwafE4Jg91g)
+    - [用AI翻译500种语言](https://mp.weixin.qq.com/s/as8grEpPtuOlKbpGs8TqvA)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
 
-#### docker
+#### Docker
 + [docker](docker%20commands.md)
     - [Docker架构原理功能及使用](https://mp.weixin.qq.com/s/GGoQuGQ2qUByqmX0BR0FEw)
     - [Docker从入门到实践](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
@@ -298,7 +323,7 @@
     - [docker-slim/docker-gc/watchtower等工具](https://mp.weixin.qq.com/s/fY0bfMGL3UXT_3j4LZXaHw)
     - [Docker安全工具Bench/Clair/Cilium](https://mp.weixin.qq.com/s/RfUYAcAspWBytCfEygDpLg)
 
-#### github
+#### GitHub
 + [开源的7大理念](https://mp.weixin.qq.com/s/P45JQoQfnCnVOPlokwJFMA)
 + [12306抢票项目](https://mp.weixin.qq.com/s/b87RzIITe03xIGo53YmD-A)
 + [netease-music](https://github.com/mbinary/netease-music-cracker)
@@ -307,28 +332,31 @@
 + [Polynote多语言笔记本](https://mp.weixin.qq.com/s/KjRbBMXhBkXwJBpI-DaRAQ)
 + 2019-hot-project[[10](https://mp.weixin.qq.com/s/ujq6J1njlFVsR_h5c-DT2Q), [11](https://mp.weixin.qq.com/s/fMAeNWMJkZbr7sLveBCy_w)]
 
-github提供检索功能[https://github.com/search](https://github.com/search)
-+ [检索语法](https://help.github.com/en/articles/about-searching-on-github)
-+ [code search语法](https://help.github.com/en/articles/searching-code)
-+ [Github高级搜索技巧](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
-```
+GitHub提供代码库检索功能 
+
++ [https://github.com/search](https://github.com/search)
+    + [检索语法](https://help.github.com/en/articles/about-searching-on-github)
+    + [code search语法](https://help.github.com/en/articles/searching-code)
+    + [Github高级搜索技巧](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
+```console
 # 从java语言的项目(language:java)中
 # 搜寻扩展名是java(extension:java)的文件内容(in:file)
-# 匹配关键字process
+# 匹配关键字 process
 process in:file language:java extension:java
 ```
-由于github不支持正则表达搜索,因此可以用google做一些搜索
+由于GitHub不支持正则表达搜索,因此可以用google/bing做一些站内搜索
 ```
 "key" site::https://github.com
 ```
-还有[https://searchcode.com/](https://searchcode.com/)可以提供code search服务，不过以上都不完美无法达到grep效果
+如果GitHub搜索结果不满意，还可以试试其他代码搜索服务
++ [https://searchcode.com/](https://searchcode.com/)
++ [https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)
 
-本地免费文件检索工具还有[EveryThing](https://mp.weixin.qq.com/s/nFGZtVG1gZ3F7Pv_dkwgfA)
+实用的本地免费文件检索工具还有 [EveryThing](https://mp.weixin.qq.com/s/nFGZtVG1gZ3F7Pv_dkwgfA) 可以对全盘文件内容进行索引
 
-#### java
+#### Java
 + [maven](java/mvn.md)
     - [basic](https://github.com/eugenp/tutorials/tree/master/maven-all/maven)
-+ 变量搜索-[**codelf**](https://unbug.github.io/codelf/),  [介绍](https://zhuanlan.zhihu.com/p/53360901)
 + [protobuf](#protobuf)
 + [spring](#spring)
 + snippet  
@@ -368,9 +396,17 @@ process in:file language:java extension:java
 + Linux常用工具[[英文](https://github.com/luong-komorebi/Awesome-Linux-Software), [中文](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)]
 + Windows常用工具[[英文](https://github.com/Awesome-Windows/Awesome), [中文](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)]
 + Mac常用工具[[英文](https://github.com/jaywcjlove/awesome-mac), [中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)]
+    + Dash for Mac    
+    一个好用的 API 文档浏览器和代码段管理器。程序员经常查看各种 API 文档，Dash 可以帮你从繁琐的搜索中解脱，它基本覆盖了所有主流和非主流语言、框架和库的文档。你还可以生成自己的文档集、请求文档集或从第三方来源下载文档集
++ Markdown
+    - [Markdeep扩展能力Markdown](https://mp.weixin.qq.com/s/ONNoK7r9Br-olOBnXRswkw)
+	- [4个Linux 命令行下的 Markdown 工具](https://mp.weixin.qq.com/s/9RRveBQU3iXEc04-rmCwVQ)
+    - [Arya](https://markdown.lovejade.cn/)  
+    一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析  
++ [VLC转码/录屏](https://mp.weixin.qq.com/s/jLFYgsggoS6oQAhx9yeG9Q)
 + ***Notepad++***
     - replace    
-    需要在curl操作payload的json每一行末尾增加一个'\', 且字符后不能有空格，否则bash解析会失败。
+    需要在curl操作payload的json每一行末尾增加一个连接符'\\', 且字符后不能有空格，否则bash解析会失败。
     ```console
     curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
     {
@@ -382,7 +418,7 @@ process in:file language:java extension:java
         "description":"measure description"
     }
     ```
-    设定搜索模式'Extended' 然后Replace All : '\r\n'  --> '  \\\r\n'
+    设定搜索模式'Extended' 然后Replace All : '\r\n'  --> '  \\\\\r\n'
     ```console
     {  \
         "name":"accuracy_measure",  \
@@ -400,33 +436,22 @@ process in:file language:java extension:java
 
     + plugin/JSTool   
     用来格式化JS/JSON输入，JSMin用来把JavaScript代码minification，JSFormat可以将minification的代码还原
-
-+ ***Dash***    
-    一个好用的 API 文档浏览器和代码段管理器。程序员经常查看各种 API 文档，Dash 可以帮你从繁琐的搜索中解脱，它基本覆盖了所有主流和非主流语言、框架和库的文档。你还可以生成自己的文档集、请求文档集或从第三方来源下载文档集
     
-+ ***Paw***    
-    一站式 HTTP/REST 服务测试工具。Paw 具有功能齐全的可视化编辑器和 HTTP 工具集，可以让 Web 开发者模拟发送各种 HTTP 请求、测试和迭代自己的 API 或探索新的 API，测试响应数据。另外，Paw 能多人协作，同步 API 测试配置，进行无冲突的更改并获取实时更新
-
-+ [Markdeep扩展能力Markdown](https://mp.weixin.qq.com/s/ONNoK7r9Br-olOBnXRswkw)
-	- [4个Linux 命令行下的 Markdown 工具](https://mp.weixin.qq.com/s/9RRveBQU3iXEc04-rmCwVQ)
-
-+ ***Arya***    
-    Arya 是一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析    
-
-+ [***VLC***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616056&idx=2&sn=4f7a8632f4d050dabbeb351a7d756f92)
-    
-#### interview
+#### Interview
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
 + [Q&A-spring](https://quizlet.com/306762411/baeldung-top-spring-framework-interview-questions-spring-core-flash-cards/)
-+ [数据库面试题](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282156&idx=1&sn=89d95d07046eee418980ec7ed13ccb49)
++ [数据库面试题](https://mp.weixin.qq.com/s/lVfcrhxYvO5DUWe3yws9vw)
+#### Contract
++ Offer negociation[[1](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q), [2](https://mp.weixin.qq.com/s/mr9URCUSzgESLRkhhgHEdA)]
++ [劳动合同到期续签](https://mp.weixin.qq.com/s/1sIyoiluui3fNdK79o_3tw)
++ [王叔文权谋](https://mp.weixin.qq.com/s/dR6LzczILAjrh5CJGme2wA)
 
 #### protobuf
-+ [简要使用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615676&idx=1&sn=3510d507e3e37741c828e4380cab0985)
++ [简要使用](https://mp.weixin.qq.com/s/-OmguA3IqwQqJRjiUhyUEQ)
 
 protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
 因此，需要在.proto定义文件头加上`option java_generic_services = true;`
-
-```
+```console
 #!/bin/bash
 
 for file in `find src/main/proto -name "*.proto"`; do
@@ -449,7 +474,7 @@ done
     - spring-boot-based product
         - [eladmin后台管理系统](https://github.com/elunez/eladmin)
         - [xxl-job分布式调度平台](https://github.com/xuxueli/xxl-job)
-        - [七个开源项目](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217434&idx=2&sn=72fab0ba2386ecc2f7367fe47b2cb2ca)
+        - [七个开源Spring Boot前后端分离项目](https://mp.weixin.qq.com/s/IVbhvqV5Sgh9Pn6Fw_6qYg)
 - [spring](java/spring.md)
     - [tutorials](https://github.com/eugenp/tutorials)
         - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
@@ -484,9 +509,9 @@ done
     - [spring doc center](https://docs.spring.io/spring/docs/)
         - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
         - [pdf/excel/html report integration](https://www.baeldung.com/spring-jasper)
-		- [Spring中经典的 9种设计模式](https://mp.weixin.qq.com/s/YxqwafTbwJFbsmdM16v5IA)
+		- [Spring中经典的9种设计模式](https://mp.weixin.qq.com/s/YxqwafTbwJFbsmdM16v5IA)
         - [阅读笔记](https://github.com/seaswalker/spring-analysis)
-        - [RBAC访问实现](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650218093&idx=3&sn=9b82ec2ace31b04165d350d90552748b)
+        - [RBAC访问实现](https://mp.weixin.qq.com/s/R90-OulrUj3xvuvIVYPDXw)
 
 #### kubernetes
 + [k8s](k8s.md)
@@ -498,7 +523,7 @@ done
 
 西方的斯多葛学派与冯友兰的观点类似，在他们看来，哲学可以带来对于人生的慰藉。马克·奥勒留说：“人所执着的是什么呢？啊，除哲学别无他物。唯哲学可以保持我心中的神性，使我们免受伤害与屈辱，使我们超然于苦乐之上。使我们不致装聋卖傻或矫情掩饰，使我们无需仰人鼻息，使人驱使。何止于此，哲学使我们的心灵虽遭逆顺而安之若素。”
 
-庄子说的“知其已知者”在一个很基本的意义上，哲学就是在干这个事。维特根斯坦也说过几乎和庄子一模一样的话：科学是在不断地了解未知的世界，而哲学一直是在收集回忆。
+庄子说的“知其已知者”在一个很基本的意义上，哲学就是在干这个事。维特根斯坦也说过几乎和庄子一模一样的话：科学是在不断地了解未知的世界，而哲学一直是在收集回忆。维特根斯坦说过，一切哲学问题归根结底都是语言问题。
 
 什么是追求独异？吃饭不只求饱，而要吃得“正确”“健康”；不参加“大众旅游”，而要最“纯正”的“旅行”；工作不应只为稻粱谋，而要意义和乐趣。“成功地实现自我”，这是晚现代文化的生活方式导向，也是新中产追求的目标。然而事实上，基于此的个人幸福却显得虚无缥缈——一方面这取决于变化无常的个人体验，另一方面取决于难以捉摸的文化市场。
 
@@ -512,8 +537,6 @@ done
 
 万物同理，减法永远比加法难，正如郑板桥一句诗：“删繁就简三秋树，领异标新二月花”。
 
-维特根斯坦说过，一切哲学问题归根结底都是语言问题。
-
 传曰“其身正，不令而行；其身不正，虽令不从”，其李将军之谓也？余睹李将军，悛悛如鄙人，口不能道辞。及死之日，天下知与不知，皆为尽哀。彼其忠实心诚信于士大夫也？谚曰“桃李不言，下自成蹊”。此言虽小，可以谕大也。司马迁说的“李将军”是李广而不是李陵，然陵为广孙，有其家风，就连命运的悲惨都一模一样。读者若拿这段话去对比一下苏建评卫青的话，所谓“大将军至尊重，而天下之贤大夫毋称焉”（《卫将军传》赞引），他的“无言”不是更胜于“有言”吗？
 
 林语堂说：“道家及儒家是中国人灵魂的两面，中国的文人很幸福，往往得意的时候是个儒家，失意的时候是个道家。” 不信你看苏轼，年轻时考科举、做文章、争功名、反王安石变法，活脱脱一个执着有为的上进青年，想的都是“古之所谓豪杰之士”。晚年历经政治浮沉，手捧一卷《庄子》，心中一颤，“今见《庄子》，得吾心矣”，落笔写下“竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生”，“回首向来萧瑟处，归去，也无风雨也无晴”。
@@ -524,65 +547,11 @@ done
 
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
-+ [晚唐十大诗人](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650478933&idx=1&sn=0fd800cb7da49648a223ac70d6aacbd0)
-+ [诗经简史](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650477344&idx=1&sn=727f1c3e1b5f2bbf388247f9b639915d)
-+ [楚辞](https://mp.weixin.qq.com/s?__biz=MzAxMzg2ODMyNA==&mid=2652505215&idx=5&sn=e8e2a315a58fdf5cfcb9fe300391faef)
-+ [古文十篇](https://mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657450567&idx=1&sn=d9292a4ff1acbbc8fe4f00c685557fec)
++ [晚唐十大诗人](https://mp.weixin.qq.com/s/d9Uw_bjAZhIutSA__IMTAA)
++ [诗经简史](https://mp.weixin.qq.com/s/GBMJ4KabwcNtuanbVaMwIQ)
++ [楚辞](https://mp.weixin.qq.com/s/tc3Rlv0sF0IUOqyQZ7H0wg)
++ [古文十篇](https://mp.weixin.qq.com/s/rNLuL0DmyWDVi2bsxnH8Hw)
 + [资治通鉴名言](https://mp.weixin.qq.com/s/LtL4xIv2KsttXNxIi_XVRA)
-+ [经济学眼镜蛇效应](https://mp.weixin.qq.com/s?__biz=MzAxMzg2ODMyNA==&mid=2652503536&idx=2&sn=1542b3789c2868c549aa65b1609842f9)
-+ [小心求证, 大胆假设](https://mp.weixin.qq.com/s?__biz=MzAxNzU1NDczOQ==&mid=2651083535&idx=3&sn=d5833d4bc4db821350e9596fc0412e72)
-+ [你打你的, 我打我的](https://mp.weixin.qq.com/s?__biz=MzAwMjExNDU1Mw==&mid=2650575681&idx=1&sn=fb1f7ab37600e82e17a472c441b48ccd)
-+ [戈恩在日产管理改革](https://mp.weixin.qq.com/s?__biz=MzU4NTA0NzMyOQ==&mid=2247504655&idx=4&sn=417347d2c74009a29c770f8471a03c4b)
-+ [高中物理](https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657467562&idx=4&sn=262ce93366c1fa08edfb92afb2443448)
-
-#### GraphQL
-+ [GraphQL工具和库 ](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
-+ [什么是 GraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)
-
-#### NPM
-+ [10个最流行的NPM包](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
-+ [发布一个无依赖的npm包](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)
-
-
-#### ElasticSearch
-+ [简单教程](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282222&idx=1&sn=a937009d8f0a66aaa327cd6f83955ee5)
-+ [安装 Elasticsearch 和 Kibana](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=3&sn=66d57f1ecd5d4de53d458da11babbc38)
-+ [日均5亿查询量的京东订单中心，舍MySQL用ElasticSearch](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282197&idx=1&sn=5067069706e0e56601436609451d2aa7)
-  
-#### superset
-https://superset.incubator.apache.org/
-
-#### Druid
-https://en.wikipedia.org/wiki/Druid_(open-source_data_store)
-Apache Druid (incubating) is a high performance analytics data store for event-driven data.
-
-#### Flink
-https://en.wikipedia.org/wiki/Apache_Flink
-
-#### junit/mock
-@InjectMocks/@Mock
-code sample:
-[1](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L62)
-
-#### Ratpack
-https://github.com/ratpack/ratpack
-Ratpack is a simple, capable, toolkit for creating high performance web applications.
-Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.
-
-#### griffin
-
-https://hadoop.apache.org/docs/r2.9.1/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution
-
-https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool
-Run schemaTool to create the initial DB structure https://mapr.com/docs/61/Hive/Config-RemotePostgreSQLForHiveMetastore.html
-172  hive/bin/schematool -dbType postgres -initSchema
-173  hive/bin/schematool -dbType postgres -initSchema -dryRun
-Get schema information:
-/apache/hive/bin/schematool -dbType postgres -info
-
-yarn resource manager HA to ZK https://www.ibm.com/support/knowledgecenter/en/SSGSMK_7.1.0/management_sym/configuring_yarn_rm_ha_zookeeper.html
-Modify the YARN configuration file ($HADOOP_CONF_DIR/yarn-site.xml) on all resource manager hosts and the node manager hosts. Do this by adding Apache ZooKeeper HA properties to the file. For example, the following is based on open-source YARN configuration:
-
-#### Contract
-+ [劳动合同到期续签](https://mp.weixin.qq.com/s?__biz=MjM5NDAwMjg1NA==&mid=2649702542&idx=1&sn=21e77702421799d8e6a36675ead8d162)
-+ [王叔文权谋](https://mp.weixin.qq.com/s?__biz=MjM5MzQ5MTAzNw==&mid=2651221862&idx=1&sn=c59732fbb1a038c777f7ab1a457367cf)
++ [经济学眼镜蛇效应](https://mp.weixin.qq.com/s/22k9niY-2WuJyEfkjIXRWw)
++ [你打你的, 我打我的](https://mp.weixin.qq.com/s/R3hsw2tixRUzg966u_xEAA)
++ [高中物理](https://mp.weixin.qq.com/s/QoBtzuadTKWk9Y-zHyH9Kg)

@@ -1971,6 +1971,7 @@ MESSAGE=kscreen.xcb.helper:     Window: 35651588
 
 #### cut
 删除文件行中部分内容
++ [Cut命令示例](https://mp.weixin.qq.com/s/THSmreoxMS9TsygUlGHA-A)
 ```console
 # -b(byte) 按指定字节数截取内容
 # -b 1-8 截取第1到8字节

@@ -18,7 +18,7 @@
 - [LOOP](#loop-控制流)
 - [Logical](#logical-条件)
 - [Examples](#shell-example)
-	+ [Shell Built-in Commands](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614778&idx=1&sn=0431d3c3dd54068af34b0d5a9ed3e2f9)
+	+ [Shell Built-in Commands](https://mp.weixin.qq.com/s/8E7Q3GEHPpD5wklYPYFOew)
     + [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
     + [汇总日志](#exp1)
     + [设定网络配置](#exp2)
@@ -342,10 +342,9 @@ fi
 ```
 
 ### LOOP 控制流
-+ [Link-1](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
-+ [Link-2](https://www.garron.me/en/articles/bash-for-loop-examples.html)   
-+ [Link-3](https://www.cyberciti.biz/faq/bash-for-loop/)   
-+ [循环](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615918&idx=1&sn=7f80263e0a5e7a320d25422ba6b26ce5)
++ [for, while and until](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
++ Bash For Loop Examples[[1](https://www.cyberciti.biz/faq/bash-for-loop/), [2](https://www.garron.me/en/articles/bash-for-loop-examples.html)]
++ 循环[[1](https://mp.weixin.qq.com/s/8ovegZAD2BPPApptEW5B8g), [2](https://mp.weixin.qq.com/s/n_mEWCrjTHU-k7kOMpjg1Q)]
 ```console
 for i in {1..5}
 do
