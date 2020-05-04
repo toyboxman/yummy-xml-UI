@@ -19,8 +19,7 @@
 		- [Logrotate手动滚动日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616617&idx=2&sn=6be53ae867f93567abd51783d7bc7507)
         - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
         - [rm -f undo](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
-        - [排查机器入侵](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446188&idx=2&sn=0d1bedb695c5ffd45a147a14539ebb5c)
-        - [防止机器被黑](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)
+        - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
 		- [分析Linux进程的6个方法](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
         - [Debug Operation](#debug)
             - [Gdb](#gdb)
@@ -197,6 +196,7 @@ uname -a
 ```
 
 #### show network details
++ [检查网卡信息](https://mp.weixin.qq.com/s/fRUmwKVXSuTHLaQSwC3rQQ)
 ```console
 # list ip local port range
 cat /proc/sys/net/ipv4/ip_local_port_range
@@ -275,7 +275,11 @@ Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。
 
 - [zero](https://en.wikipedia.org/wiki//dev/zero)
 
-可以读出任意大小的内容，如1k，1M，100M，所有内容均为0。可以用来做内存初始化，模拟读写开销，参看[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)。
+可以读出任意大小的内容，如1k，1M，100M，所有内容均为0。可以用来做内存初始化，模拟读写开销，参看[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)
+```console
+# 随机生成一批文件
+seq 1000 | xargs -i dd if=/dev/zero of={}.xjj bs=1k count=256
+```
 
 - [null](https://en.wikipedia.org/wiki/Null_device)
 
@@ -313,6 +317,16 @@ ls > /dev/null 1>&2
 - [random](https://en.wikipedia.org/wiki//dev/random)
 
 通过内核来产生随机数
+```console
+# 通过dd命令产生一个指定size的文件
+[root@localhost ~]# dd if=/dev/urandom  of=test bs=1M count=69
+69+0 records in
+69+0 records out
+72351744 bytes (72 MB) copied, 0.446161 s, 162 MB/s
+
+[root@localhost ~]# du -h test
+69M    test
+```
 
 #### stat/getfacl/setfacl
 通过[***stat***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614362&idx=1&sn=9159b08467717eab2520c4ff73a9d5c1)命令可以获取文件包括权限在内的完整信息

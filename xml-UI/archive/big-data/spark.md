@@ -26,8 +26,6 @@ SPARKºØ»∫ø…“‘∂‘Ω”∏˜÷÷ ˝æ›‘¥£¨»Á¥´Õ≥ ˝æ›ø‚£¨∑«Ω·ππªØŒƒ±æ ˝æ›£¨œ˚œ¢∂”¡–µ»°£ºØ»∫ø…“
 
 SPARKºØ»∫÷˜“™∞¸¿®masterΩ⁄µ„∫Õ∫‹∂‡workerΩ⁄µ„°£
 
-![Image of Deploy1](http://aptuz.com/static/media/uploads/blog/hadoop_echosystem.png)
-
 »˝÷÷∑Ω Ω¿¥≤ø ‘À––Spark in Hadoop cluster: Standalone, Over YARN, In MapReduce (SIMR)
 
 + Standalone Deployment
@@ -45,13 +43,10 @@ SPARKºØ»∫÷˜“™∞¸¿®masterΩ⁄µ„∫Õ∫‹∂‡workerΩ⁄µ„°£
 #### ‘À––
 ![Image of Run1](https://sigmoid.com/wp-content/uploads/2015/03/Apache_Spark1.png)
 
-![Image of Run2](https://cdn.intellipaat.com/mediaFiles/2017/02/three-ways-Apache-Spark.jpg)
-
 ![Image of Run3](https://sdtimes.com/wp-content/uploads/2018/03/image7.png)
 
-![Image of Run4](https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram_Amazon-Kinesis-Data-Streams.074de94302fd60948e1ad070e425eeda73d350e7.png)
-
 Amazon Elastic MapReduce (EMR) «Amazon Web Services (AWS)¥Û ˝æ›¥¶¿Ìπ§æﬂ, ª˘”⁄Apache Hadoopºº ı÷Æ…œ
+![Image of Run4](https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram_Amazon-Kinesis-Data-Streams.074de94302fd60948e1ad070e425eeda73d350e7.png)
 
 ####  π”√
 - **setup Spark**
@@ -345,8 +340,9 @@ spark/examples/jars/spark-examples_2.11-2.4.5.jar
 ```
 - ≤‚ ‘ÀÊª˙≤˙…˙ ˝πÈ◊ÈÕ≥º∆ - [parallelize](https://spark.apache.org/docs/2.4.5/api/scala/index.html#org.apache.spark.SparkContext)
 Distribute a local Scala collection to form an RDD.
-    - [sparkbyexamples](https://sparkbyexamples.com/apache-spark-rdd/how-to-create-an-rdd-using-parallelize/)
+    - [spark by examples](https://sparkbyexamples.com/apache-spark-rdd/how-to-create-an-rdd-using-parallelize/)
     - [map vs. flatMap and reduce vs. reduceByKey](https://annefou.github.io/pyspark/03-pyspark_context/)
+    - [reduce by scala/java/python](https://backtobazics.com/big-data/spark/apache-spark-reduce-example/)
 ```console
 # GroupByTest [numMappers] [numKVPairs] [KeySize] [numReducers]
 spark/bin/spark-submit \
@@ -389,7 +385,7 @@ spark/bin/spark-submit \
 --master spark://10.184.108.18:7077 \
 spark/examples/jars/spark-examples_2.11-2.4.5.jar nodata
 ```
-- ≤‚ ‘ Spark streamingƒ£ Ω¥ Õ≥º∆
+- ≤‚ ‘ Spark streamingƒ£ Ω¥  ˝Õ≥º∆
 ```console
 # œ»∆Ù∂Ø“ª∏ˆ≤‚ ‘server, ‰≥ˆ words stream
 while true;do { printf 'The test streaming for the test word-count OK'; }|nc -l 9999;done
@@ -428,8 +424,33 @@ Time: 1586963208000 ms
 (test,2)
 ...
 ```
-#### ‘¥¬Î∑÷Œˆ
+#### ‘¥¬Î∑÷Œˆ/API
 + [Structured Streaming‘¥¬ÎΩ‚Œˆ](https://github.com/lw-lin/CoolplaySpark)
++ [spark-core](https://www.javadoc.io/doc/org.apache.spark/spark-core_2.11/2.2.0/index.html#org.apache.spark.SparkContext)
++ [spark-sql](https://www.javadoc.io/doc/org.apache.spark/spark-sql_2.12/3.0.0-preview/org/apache/spark/sql/SparkSession.html)
++ [scala-library](https://www.javadoc.io/doc/org.scala-lang/scala-library/2.12.0/index.html)
+```console
+# Returns a double value with a positive sign, greater than or equal to 0.0 and less than 1.0
+# Deprecated. use the scala.math package object instead
+scala> import scala.math.random
+
+# ∞—seq¿‡–Õ[1..10]map≥…[1/0]µƒRDD 
+scala> val data=sc.parallelize(1 until 11, 2).map({i=> val x = random * 2 - 1; val y = random * 2 - 1; if (x*x + y*y <= 1) 1 else 0})
+
+# ∞—data RDD±£¥ÊŒ™±æµÿdatamƒø¬º,‘Ÿ∞—À˘”– ˝æ›◊ˆœ‡º”µƒreduce
+scala> data.saveAsTextFile("datam"); val datar=data.reduce(_ + _)
+datar: Int = 6
+# ∞—À˘”– ˝æ›◊ˆœ‡ºıµƒreduce
+scala> val datar=datam.reduce(_ - _)
+datar1: Int = 1
+# ∞—À˘”– ˝æ›◊ˆœ‡≥Àµƒreduce£¨¥Ê‘⁄“ª∏ˆ¡„‘Ú≥Àª˝Œ™¡„
+scala> val datar=datam.reduce(_ * _)
+datar1: Int = 0
+# ∞—À˘”– ˝æ›◊ˆœ‡≥˝µƒreduce£¨»Áπ˚≥˝¡„‘ÚŒ•∑¥¡Àº∆À„πÊ‘Ú
+scala> val datar=datam.reduce(_ / _)
+20/04/27 03:51:25 ERROR Executor: Exception in task 0.0 in stage 3.0 (TID 6)
+java.lang.ArithmeticException: / by zero
+```
 
 ####  ı”Ô∏≈ƒÓ
 

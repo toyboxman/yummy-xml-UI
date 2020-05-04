@@ -22,6 +22,7 @@
 + ***Blockchain***
     - [以太坊简介](https://mp.weixin.qq.com/s/YmzAFTT5jjCCTnzp9VSCgw)   
     - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
+    - 智能合约编写之Solidity[[1](https://mp.weixin.qq.com/s/kyp71fpNnSO_Wuecfs-oBw), [2](https://mp.weixin.qq.com/s/EF3d5azqgXMy-30czZguhg)]
 
 + ***Bench test***
     - [Geekbench测试不同公有云服务](https://www.ithome.com/0/431/894.htm)    
@@ -95,6 +96,7 @@
     - [Heartrate执行可视化工具](https://mp.weixin.qq.com/s/Ihjr1qHtKrZFdW7GbtZcPQ)
 	- [Octave绘制数据](https://mp.weixin.qq.com/s/Nb2ci6d5MhoRoepu6G3YdQ)
 	- [读取电子表格](https://mp.weixin.qq.com/s/otJKMe-HYOp06TyAGk0DVQ)
+    - [Python可视化COVID-19预测](https://mp.weixin.qq.com/s/R0dYPvrdVvwF0vb0SM0-HA)
 	- [比Excel更强大的可视化库Altair](https://mp.weixin.qq.com/s/t3Bm8KEbLCbPlMPSQcpbvw)
 	- [8个流行的可视化工具包](https://mp.weixin.qq.com/s/dRdFTBF7phHwKatPLjpOjA)
     - [Pandas并行处理实现](https://mp.weixin.qq.com/s/t4B0z2nA3lJUmuJIHrsHNw)
@@ -106,7 +108,9 @@
     - [OAuth简单实现](https://mp.weixin.qq.com/s/aPvIxho_eOguYqlcV8cYRw)
     - [Go实现负载均衡服务](https://mp.weixin.qq.com/s/DxE3YOE1GDq6ZXRhpzfC0w)
     - [Go并发编程](https://mp.weixin.qq.com/s/5YaZr3ljv4INIOQprqKZyw)
-	- [concurrency和parallelism in Go](https://mp.weixin.qq.com/s/ihJFa5Wir4ohhZUXVSBvMQ)
+	- [Concurrency和Parallelism in Go](https://mp.weixin.qq.com/s/ihJFa5Wir4ohhZUXVSBvMQ)
+    - [Go内联优化](https://mp.weixin.qq.com/s/hqivL8F6NyCow_oXn-BDvQ)
+    - [Go的不足](https://mp.weixin.qq.com/s/UP_Rf-x1HekU-nl7BneVyg)
 + [***Rust***](https://mp.weixin.qq.com/s/JBlzMIhMa7TB5tHGSRhVkQ)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + [***laTeX***](laTeX/laTeX.md)
@@ -149,6 +153,7 @@
             与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
     - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
 + Nginx
+    - [Nginx内部核心架构设计](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw)
     - [Nginx反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
     - [Nginx日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
@@ -199,6 +204,7 @@
 + NPM
     - [10个最流行的NPM包](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
     - [发布一个无依赖的npm包](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)  
++ [前端架构JAMStack不依赖Web Server](https://mp.weixin.qq.com/s/Q8rDSc0yU19lk7q3HfWf0A)
 + [Ratpack](https://github.com/ratpack/ratpack)   
     Ratpack is a simple, capable, toolkit for creating high performance web applications. Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.      
 
@@ -266,13 +272,15 @@
     - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s/nky5AOuQhgj60ljTxlV_tw)
     - [MySQL8 vs PostgreSQL10](https://mp.weixin.qq.com/s/njIfc8TxB77XbYJaPtdLJA)
     - [MySQL Router高可用](https://mp.weixin.qq.com/s/WCx_ok-ajUgL4ICETXgVAA)
-+ [Postgre](db/PostgreSQL.md)
+    - [MySQL分布式事务XA Transactions](https://mp.weixin.qq.com/s/24m9mD8JpHaPVb7lV9Gwvw)
++ [PostgreSQL](db/PostgreSQL.md)
     - [PostgreSQL入门](https://mp.weixin.qq.com/s/l7QSL8CiQ1RvSxjjxmIANg)
     - [PostgreSQL DBA常用SQL](https://mp.weixin.qq.com/s/JjcTwL99cNDuxp68Mu_bIw)
 + [Oracle](db/oracle.md)
     - [新特性Persistent Memory Store](https://mp.weixin.qq.com/s/8jWVLY-hSbXhaDoPmADV6w)
     - [数据迁移工具expdp和impdp](https://mp.weixin.qq.com/s/XkuVG8yN1dNBwrwH-9dhKQ)
 	- [Mysql的double write机制在Oracle实现](https://mp.weixin.qq.com/s/1uqkVCeC57t07lsDl-8M7w)
+    - [Oracle到PostgreSQL最佳转换](https://mp.weixin.qq.com/s/hk8GwZgjvlqvouk1DHj5eQ)
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
     - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)
@@ -282,6 +290,8 @@
 + [spark](big-data/spark.md)
     - [Spark中编写可伸缩代码](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
     - [图计算框架Plato vs Spark GraphX](https://mp.weixin.qq.com/s/J6GB3RMXY-tyOxEUii6fcw)
+    - [ScalaNLP](http://www.scalanlp.org/)  
+        ScalaNLP is the umbrella project for several libraries. [Breeze](https://github.com/scalanlp/breeze/wiki/Quickstart) is a set of libraries for machine learning and numerical computing.
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
 + MQ
@@ -289,6 +299,7 @@
     - [Kafka的生产者/消费者详析](https://mp.weixin.qq.com/s/T9hONRBS37cmolkWhtXs-g)
     - [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
     - [RabbitMQ总结](https://mp.weixin.qq.com/s/0cX6o3QVygxhOTK4uxWFPw)
+    - [RabbitMQ实现百万级消息服务](https://mp.weixin.qq.com/s/qRjz4mkxNkvKrKlC_AsJ2A)
     - [MQ与RabbitMQ面试题](https://mp.weixin.qq.com/s/Lz4NEChB_Twlva5V8BKyvg)
 + ElasticSearch
     - [简单教程](https://mp.weixin.qq.com/s/3Ww4ufcLdzL3zXE7j_0Jnw)
@@ -360,6 +371,7 @@ process in:file language:java extension:java
 #### Java
 + [maven](java/mvn.md)
     - [basic](https://github.com/eugenp/tutorials/tree/master/maven-all/maven)
++ [javadoc.io](https://javadoc.io/)
 + [protobuf](#protobuf)
 + [spring](#spring)
 + snippet  
@@ -391,6 +403,7 @@ process in:file language:java extension:java
 + [深入Java Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
 + [Java网络协议](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
 + [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
++ [JavaSE演进新方向](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
 + [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
     - [JVM面试问题](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
@@ -444,6 +457,7 @@ process in:file language:java extension:java
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
 + [Q&A-spring](https://quizlet.com/306762411/baeldung-top-spring-framework-interview-questions-spring-core-flash-cards/)
 + [数据库面试题](https://mp.weixin.qq.com/s/lVfcrhxYvO5DUWe3yws9vw)
++ [操作系统问题](https://mp.weixin.qq.com/s/fZWEZzSCCgOcLZU4fc3Mcw)
 #### Contract
 + Offer negociation[[1](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q), [2](https://mp.weixin.qq.com/s/mr9URCUSzgESLRkhhgHEdA)]
 + [劳动合同到期续签](https://mp.weixin.qq.com/s/1sIyoiluui3fNdK79o_3tw)

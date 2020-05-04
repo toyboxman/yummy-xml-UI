@@ -18,6 +18,7 @@
 - [LOOP](#loop-控制流)
 - [Logical](#logical-条件)
 - [Examples](#shell-example)
+	+ 如何编写可靠bash脚本[[1](https://mp.weixin.qq.com/s/rXYHpElNJiHF-O-i5wdE-Q), [2](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg)]
 	+ [Shell Built-in Commands](https://mp.weixin.qq.com/s/8E7Q3GEHPpD5wklYPYFOew)
     + [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
     + [汇总日志](#exp1)
@@ -30,7 +31,6 @@
 	+ [循环读写REST API,计算执行时间](#exp8)
 	+ [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
 	+ [编写函数](#exp10)
-	+ [编写可靠 bash脚本的一些技巧](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg)
 	+ [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
 	+ [列出大型文件系统中文件,目录](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
     + [Bash实现登录查看系统信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=3&sn=131146215fa4c8581c6d25c15404ebce)
@@ -945,26 +945,29 @@ fi
 * 编写函数, [处理参数](http://www.freeos.com/guides/lsst/advance01.html)
 ```console
 #!/bin/sh
+# 脚本名称 parameter.sh
 
-echo 'start shell'
+echo 'start this shell'
 echo '$1'
 echo "$1"
 echo $1
 
 resonate()
 {
-    echo "Hello $1"
+    # 此处 $1 为函数的input参数
+	echo "Hello $1"
 	return
 }
 
-# shell是top-down被解释执行，因此函数必须定义在调用前面，否则
-# 执行提示找不到 resonate命令错误
+# shell是top-down被解释执行，因此函数必须定义在调用前面
+# 否则执行提示找不到 resonate命令错误
 resonate
+# 此处调用函数带入参数 World
 resonate World
 ```
-执行结果
+执行`sh parameter.sh Shell`, 结果如下
 ```console
-start shell  //echo 'start shell'
+start this shell  //echo 'start this shell'
 $1    //echo '$1'
 Shell  //echo "$1"
 Shell  //echo $1
