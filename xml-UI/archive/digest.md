@@ -74,6 +74,7 @@
     - [文件系统](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
     - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)
+    - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
     - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)
 	- [Linux文件系统](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA)
     - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
@@ -161,8 +162,11 @@
     - Flutter
         + [使用Flutter开发Web应用](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
         + [Flutter富文本方案](https://mp.weixin.qq.com/s/uqxLb5ToMdi9sqL6gDRW_g)
+    - NodeJS
+        - [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s/l2rQ9NyQMcP5t7z2qoCxmQ)
+        - [搭建一个node的API接口服务](https://mp.weixin.qq.com/s/M7AOLgu-hTspie-B49o0Tg)
+        - [NodeJS进程与线程](https://mp.weixin.qq.com/s/N6Omr5HwSPl6JjE2ultoVg)
     - [Django编写Python Web API](https://mp.weixin.qq.com/s/XLBr2paFOlAtrij-VcFeFA)
-    - [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s/l2rQ9NyQMcP5t7z2qoCxmQ)
     - [H5移动端开发-弹出键盘/系统调用](https://mp.weixin.qq.com/s/VmtMDQfroq-RtIJ_h4p5yg)
     - [前端缓存serviceworker概念](https://mp.weixin.qq.com/s/9fmflZirWd7zGt-4-MzsvQ)
     - [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s/vVQJ-K8vHv9vqn9XPSuhqQ)
@@ -174,7 +178,6 @@
     - [Chrome前端调试](https://mp.weixin.qq.com/s/p9Y586_F7wwBnFkEztUtUw)
     - [Server-side rendering](https://alligator.io/react/server-side-rendering/)
     - [Vue和TS的移动端项目心得](https://mp.weixin.qq.com/s/4vZIGwiTcO7B4emUjf-M2Q)
-    - [NodeJS进程与线程](https://mp.weixin.qq.com/s/N6Omr5HwSPl6JjE2ultoVg)
     - [Electron+Vue开发跨平台桌面应用](https://mp.weixin.qq.com/s/j9Ji8XEjNUQ80_fHI6la3A)
     - [前端开发在线工具EnjoyCSS/Bit.dev](https://mp.weixin.qq.com/s/ZzRV5egWXe-DHVoKmwO_rA)
     - 打包格式化
@@ -238,7 +241,9 @@
 + [技术选型](https://mp.weixin.qq.com/s/2FN6x8VMA_v6kMW9t5hTww)
 + [无服务器迁移实践](https://mp.weixin.qq.com/s/kJi2or1e7mQAJzeONeVfeA)
 + [API的演变-从REST到WebSocket/gRPC/GraphQL](https://mp.weixin.qq.com/s/CieKMCv2LbV0eDnoVOoQXw)
-+ [Dubbo架构](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)
++ Dubbo
+    - [Dubbo架构](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)
+    - [Dubbo心跳设计](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)
 + [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)
 
 #### Database
@@ -257,6 +262,7 @@
     - [SQL vs NoSQL](https://mp.weixin.qq.com/s/5E8NKSlyu8JrPP-Zs7FrBg)
     - [SQL的回归](https://mp.weixin.qq.com/s/7sR8W93g-IoOlIEhd4UeMQ)
     - [Group by慢查询优化](https://mp.weixin.qq.com/s/TqigpgwtZR-o9xZcg29uDg)
+    - [Insert into select致锁表](https://mp.weixin.qq.com/s/e9a67_c5igJ-yhbmBQn5SQ)
     - [Leetcode-SQL-Question](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)
 + [MySQL](db/mySQL.md)
     - [MySQL入门](https://mp.weixin.qq.com/s/_BdT8Oi6XwEjsbY_rPLd5w)
@@ -296,6 +302,7 @@
 + [hive](big-data/hive.md)
 + MQ
     - [Kafka架构设计](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
+    - [Kafka的“后浪”](https://mp.weixin.qq.com/s/KX9CaDEfQovWBLemUzk6vg)
     - [Kafka的生产者/消费者详析](https://mp.weixin.qq.com/s/T9hONRBS37cmolkWhtXs-g)
     - [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
     - [RabbitMQ总结](https://mp.weixin.qq.com/s/0cX6o3QVygxhOTK4uxWFPw)
@@ -405,6 +412,7 @@ process in:file language:java extension:java
 + [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
 + [JavaSE演进新方向](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
 + [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
+    - [内存分配和垃圾回收](https://mp.weixin.qq.com/s/334SLntT6yVqRC1IrSaIbA)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
     - [JVM面试问题](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
 
@@ -529,6 +537,7 @@ done
 		- [Spring中经典的9种设计模式](https://mp.weixin.qq.com/s/YxqwafTbwJFbsmdM16v5IA)
         - [阅读笔记](https://github.com/seaswalker/spring-analysis)
         - [RBAC访问实现](https://mp.weixin.qq.com/s/R90-OulrUj3xvuvIVYPDXw)
+        - [自定义annotation+AOP实现权限控制](https://mp.weixin.qq.com/s/U9cOHihPerHqa8MDxDt0mQ)
 
 #### kubernetes
 + [k8s](k8s.md)

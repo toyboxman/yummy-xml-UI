@@ -3,6 +3,7 @@
 ## Ways to use collections
 + [Collection的使用](https://www.javatpoint.com/collections-in-java)
 + [Collections in Java](https://howtodoinjava.com/java-collections/)
++ [HashMap的7种遍历方式](https://mp.weixin.qq.com/s/v518GDzKRZQUaVelgpltKQ)
 
 ### 用stream/map方式转换list中数据
 ```java 

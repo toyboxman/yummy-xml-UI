@@ -44,6 +44,7 @@ Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑�
 + [ansible自动化部署k8s](https://github.com/easzlab/kubeasz)
 + [基本kubectl和Helm命令](https://mp.weixin.qq.com/s/JpCVNcU2hrfHS2d_Xcttvw)
 + [使用Traefik引导Kubernetes流量](https://mp.weixin.qq.com/s/edMBhL5XtyAsILHSeTWBdA)
++ [数百个ZooKeeper实例迁移到Kubernetes](https://mp.weixin.qq.com/s/AaVTgZc_vUtKD_WytKIW5A)
 + [中文版文档](https://linfan1.gitbooks.io/kubernetes-chinese-docs/content/index.html)
 + [Awesome-Kubernetes](https://ramitsurana.gitbooks.io/awesome-kubernetes/content/)
 
