@@ -12,38 +12,39 @@
 
 ---
 - [Monitor System Information](#monitor-system-information)
-    - [Troubleshooting](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=1&sn=0eeadb81e3e6b48c56af99da900895cf)
-        - strace追踪系统调用[[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=1&sn=ed92854608e76b1c37f46e58ebbc1912), [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615818&idx=1&sn=4f470a37afb205ce52836e67941697c3)]
-        - [Crash+/dev/mem调试内存 ](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446208&idx=2&sn=a598e1bcebedae58049f30bf46259aa8)
-        - [配置Rsyslog服务器](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615466&idx=3&sn=8a8e44e1e7cae494e4c9a4bc730e1e2b)
-		    - [Logrotate手动滚动日志](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616617&idx=2&sn=6be53ae867f93567abd51783d7bc7507)
-        - [Web Log Analysis](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614406&idx=3&sn=cde963cac2983130e4093636d98976cf)
-        - [rm -f undo](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650282192&idx=2&sn=2b254afc9c612a594b1ea8d47a2b2595)
-        - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
-		    - [分析Linux进程的6个方法](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
-        - [分析二进制文件的10种方法](https://mp.weixin.qq.com/s/VS2Kf-aApDNgyIOA-fuZKQ)
+    - [Troubleshooting](https://mp.weixin.qq.com/s/h12_2oWhjKSZncQyR_EMug)
         - [Debug Operation](#debug)
             - [Gdb](#gdb)
             - [Objdump](#objdump)
             - [Size](#size)
+            - strace/ltrace追踪系统调用[[**1**](https://mp.weixin.qq.com/s/ScDFJo1HP0KC4bybrVC8QA), [**2**](https://mp.weixin.qq.com/s/Nzm7Ayw_vd5hbfBXFpDCYQ)]
+            - [ltrace/hexdump/strings/nm分析二进制文件](https://mp.weixin.qq.com/s/VS2Kf-aApDNgyIOA-fuZKQ)
+            - [strace/pstack/gdb分析Linux进程](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
+        - [Crash配合/dev/mem调试内存 ](https://mp.weixin.qq.com/s/Q4FbI_U6pRrfhlpuzOJmig)
+        - log
+          + [配置Rsyslog服务器](https://mp.weixin.qq.com/s/S_MJ1c2mLgoo1PndJ_33YA)
+          + [Web Log Analysis](https://mp.weixin.qq.com/s/TD_-Vzn_KjyyAwviaPkF8A)
+          + [Logrotate手动滚动日志](hhttps://mp.weixin.qq.com/s/unosQoE_QQdxOTgJaHUexg)
+        - [undo 'rm -f'](https://mp.weixin.qq.com/s/FHhWaIzMN2afAM6jlzZdsA)
+        - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
     - Account Management
         - [Activate Account](#activate-account)
         - [List All Users](#list-all-users) 
         - [Add New Users](#add-new-users)
-        - [umask Linux权限](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615582&idx=1&sn=a681362b9f046c121de8357285c65b63)
-        - sudo[[1](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [2](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615663&idx=1&sn=fc6094c51908f8ab95b97a1438e81377)]  
-		- [用户组启禁用 SSH](https://mp.weixin.qq.com/s/uvU_Y24qVTOkc-aAlHV0zA)
-        - [设置安全保护](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446013&idx=1&sn=a06b5f2554c8a6fc6bbc62d847994ab2)
-        - [PAM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615906&idx=1&sn=e01d9a7b3fe6967014ac8056e588e67f)
+        - [umask修改权限](https://mp.weixin.qq.com/s/LIPX78Ex-KSaCCd9wiyvJA)
+        - sudo[[1](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [2](https://mp.weixin.qq.com/s/MA4qscWPGp0XCk_nOWiTxg)]
+        - [用户组启禁用 SSH](https://mp.weixin.qq.com/s/uvU_Y24qVTOkc-aAlHV0zA)
+        - [Tripwire/chattr/sudo/sealert安全保护](https://mp.weixin.qq.com/s/dK6YUGt4eiDY4rkDKE3cUg)
+        - [PAM设置密码复杂度](https://mp.weixin.qq.com/s/Z9lfg8EUex61HVPgiFy9bw)
     - System Management
         - [List System Details](#list-system-details)
-            - [更新 grub](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615938&idx=2&sn=ff239ff5ec2d44aa6b3321c234be8744)
+            - [更新grub](https://mp.weixin.qq.com/s/yFPmr1AWjMMSoTgW_pTzeA)
             - [Show Linux Version](#show-linux-version)
             - [hwinfo/lshw/lscpu/lsblk/nproc/dmidecode](#hwinfo)
             - [free](#free)
         - [List Kernel Modules/lsmod/ldd](#list-kernel-modules)
-            - [Kconfig/Kbuild](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614916&idx=1&sn=74b41ef32688862b70a83ba350489970)
-            - [Update kernel](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615302&idx=1&sn=3cfea2d97a4155e3b82511ea73b589c5)
+            - [Kconfig/Kbuild内核配置构建](https://mp.weixin.qq.com/s/qGe50Rg4HoE47fbfduc2iA)
+            - [Update kernel](https://mp.weixin.qq.com/s/MbEON4WHmgk5pI6g31LE3g)
         - [List Services Port](#list-services-port)
         - [Top](#top)
         - [date](#date)
@@ -54,21 +55,20 @@
         - [chkconfig](#chkconfig)
         - [Turn off Console Color](#turn-off-console-color)
         - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
-            + [ntp sync check](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614368&idx=2&sn=39f7e4fc960d997380ee166b5bf21059)
-            + [timedatectl sync check](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=2&sn=956f94aea34ff1962992beaf61f9cfdf)
+            + [ntp同步检测](https://mp.weixin.qq.com/s/1FCXBd0X0h7BRPL8Q0JGOA)
+            + [timedatectl同步时区时间](https://mp.weixin.qq.com/s/jOWjBRPc1zXbMRBF66A5rw)
     - Disk Management
         - [LVM](#lvm)
         - [df/du](#dfdu)
         - [lsof](#lsof)
         - [stat/getfacl/setfacl](#statgetfaclsetfacl)
         - [iotop/iostat](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w)    
-        - [dstat/ioping/atop](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615220&idx=5&sn=35d401f16c00f2114c3f7bd781d38393)
+        - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
     - Device Management
         - [ZERO/NULL](#device)
     - [Network Management](#network-config)        
         - [Show Network Details](#show-network-details)
-        - [Firewall/iptables/ufw](#iptablesfirewall)
-        - [nftables](https://mp.weixin.qq.com/s/mWG6mZf9ZBAzMngzWkiHAA)
+        - [Firewall/iptables/ufw/nftables](#iptablesfirewall)
         - [NC/netcat](#nc)
         - [Ping](#pingarping)
         - [ss-Socket Statistics](https://mp.weixin.qq.com/s/jRjEQ2ekkH2CYh2OW3rHWw)
@@ -80,7 +80,7 @@
         - [网络测速工具fast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
         - [bmon查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
-		    - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
+        - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
 - [Usual Command](#usual-command)
     - [Alias](https://mp.weixin.qq.com/s/wTokA2r-kxIMePmuVE98HA)
     - [List/ls](https://mp.weixin.qq.com/s/FXiMOUCLdWfIaUJpnzlsLw)
@@ -101,19 +101,15 @@
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
     - [History](#history)
-        - [history快捷方式](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615359&idx=1&sn=9b67378cd423eeb759ee506814e100dd)
     - [Less](https://mp.weixin.qq.com/s/qfAsQBnU6YBwiW2SYne1kg)
-	- [Link/ln](#ln)
-        + [unlink](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615210&idx=4&sn=bd2ecde9e068650688fb389e27897162)
-    - [Man/col](#man)
-        - [cheat/tldr](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446027&idx=1&sn=6c2a457270a42ef03392a9f142ae55d4)
+    - [Link/ln/unlink](#ln)
+    - [Man/col/cheat/tldr](#man)
     - [Make](#make)
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [Nohup](#nohup)
-    - [Pstree/pgrep](#pstree)
-        - [tree](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615366&idx=1&sn=d8d05984e278d79e8b7626120af58932)
-    - [Rename](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615055&idx=1&sn=c8f1ffb240295d14dad745757f7be12b)
+    - [Pstree/pgrep/tree](#pstree)
+    - [Rename](https://mp.weixin.qq.com/s/SUgmF4VqvVTXS8LJ7dVCOQ)
     - [SSH](#ssh)
     - [OpenSSL](SSL-JKS-CERT.md#show-certificate)
     - [GPG](SSL-JKS-CERT.md#gpg)
@@ -129,8 +125,7 @@
     - [Diff/Patch](#diffpatch)
     - [Expand/Unexpand](#expandunexpand)
     - [Fold](#fold)
-    - [Head/Tail](#headtail)
-        - [multitail](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615762&idx=2&sn=2be0fa4438995d2392274621575d2920)
+    - [Head/Tail/Multitail](#headtail)
     - [Hd/Od](#hdod)
     - [Markdown/pandoc](#pandoc)
     - [JSON/jq/xmlwf](#jq)
@@ -140,12 +135,10 @@
     - [Sed](#sed)
     - [Sort](#sort)
     - [Script](#script)
-        - [记录和重放终端会话活动](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615302&idx=2&sn=11efbdd06229677a07ebba13475a8104)
     - [Strings](#strings)
     - [Tee](#tee)
     - [Uniq](#uniq)
     - [Unix2dos/Dos2unix](#unix2dosdos2unix)
-        - [删除回车符](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615235&idx=3&sn=72cfbd6e1f49f31eddaf43c89b80639f)
     - [Wc](#wc)
     - [Xargs](#xargs)
 - [Shell Programming](shell%20programming.md)
@@ -749,6 +742,7 @@ unset GOBIN
 ```
 
 #### pstree
++ [tree](https://mp.weixin.qq.com/s/wcWQaMd09yw_tVnRw-p2EA)
 ```console
 # -a Show command line arguments
 # -A Use ASCII characters to draw the tree
@@ -765,6 +759,7 @@ ps -ef | egrep 'java' | awk  '{print $2}'
 ```          
 
 #### man
++ [cheat/tldr](https://mp.weixin.qq.com/s/vCKM6NHRyDpQkx_UKlIgmQ)
 ```console
 # read nc manual with GB2312 encoding
 man -E GB2312 nc
@@ -885,6 +880,8 @@ find / -iname '*.tgz' -exec rm {} \;
 ```
 
 #### history
++ [history命令快捷方式](https://mp.weixin.qq.com/s/pL46hqLthGUkqYCWEkv3Hw)
+
 list系统执行过的命令
 ```console
 # 执行过最后30条命令中的ssh
@@ -1386,6 +1383,7 @@ jar uvf auth-1.0.jar ../src/test/resources/
 ```
 
 #### ln
++ [unlink](https://mp.weixin.qq.com/s/2jkb0cAHx_YdumsvsTG6_Q)
 ```console
 # link a file to destination, it is better to use absolute 
 # path instead of relative path, unless it will lead broken link file
@@ -1621,6 +1619,8 @@ netstat -tlnpu | fold -w 120
 ```
 
 ####  unix2dos/dos2unix
++ [删除回车符](https://mp.weixin.qq.com/s/mJsztHS_1ZRomwsdkUqQlA)
+
 unix2dos/dos2unix -- format transfer
 ```console
 dos2unix file
@@ -1963,6 +1963,8 @@ Mary
 ```
 
 #### head/tail
++ [Multitail](https://mp.weixin.qq.com/s/MjquqO6nvJJb1zSrwCjR9Q)
+
 显示文件首/尾内容
 ```console
 # -4 显示首四行
@@ -2066,6 +2068,8 @@ pandoc -t html file.md
 ```
 
 #### script
++ [记录和重放终端会话活动](https://mp.weixin.qq.com/s/ENMxkfB9tfzwd2sVpvt5Fw)
+
 录制一个session中多个命令交互输出
 ```console
 # 启动一次session录制,默认录制文件名typescript
@@ -2168,6 +2172,7 @@ Shift+Insert   |  粘贴系统剪贴板内容
 + [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
 + [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
 + [防火墙ufw简介](https://mp.weixin.qq.com/s/ah0cT35qzooxFdZ8tMSZCQ)
++ [nftables](https://mp.weixin.qq.com/s/mWG6mZf9ZBAzMngzWkiHAA)
 ```console
 # 列出防火墙所有规则，按规则号显示
 # --list/-L  List all the rules
