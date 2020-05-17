@@ -65,7 +65,7 @@
         - [iotop/iostat](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w)    
         - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
     - Device Management
-        - [ZERO/NULL](#device)
+        - [ZERO/NULL/Random/dd](#device)
     - [Network Management](#network-config)        
         - [Show Network Details](#show-network-details)
         - [Firewall/iptables/ufw/nftables](#iptablesfirewall)
@@ -157,7 +157,7 @@ dmesg | less
 ```
 
 #### list kernel modules
-Linux提供一些检查[kernel module](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=1&sn=7159c073e8b89edf4a7920227308e25f)的命令
+Linux提供一些检查[kernel module](https://mp.weixin.qq.com/s/S85Pin7WiPtaXzTCruAIYw)的命令
 ```console
 lsmod
 Module                  Size  Used by
@@ -166,7 +166,7 @@ af_packet              45056  0
 iscsi_ibft             16384  0 
 iscsi_boot_sysfs       20480  1 iscsi_ibft
 ```
-[ldd命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614629&idx=1&sn=f51ea2e0e705ce633242414a40457e92)可以检查任何程序文件使用的共享库(so或dll)。LD_PRELOAD 环境变量是在进程启动时加载共享库的最简单且最受欢迎的方法，可以将此环境变量配置到共享库的路径，以便在加载其他共享对象之前加载该共享库。
+[ldd命令+osquery](https://mp.weixin.qq.com/s/TDonkVzTpWEVQfrJpVTvjw)可以检查任何程序文件使用的共享库(so或dll)。LD_PRELOAD环境变量是在进程启动时加载共享库的最简单且最受欢迎的方法，可以将此环境变量配置到共享库的路径，以便在加载其他共享对象之前加载该共享库。
 ```console
 export LD_PRELOAD=/home/showme.so
 ldd /usr/bin/ls
@@ -182,7 +182,7 @@ ldd /usr/bin/ls
 ```
 
 #### show Linux version
-查找 Linux 发行版[版本和内核详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614992&idx=2&sn=be38dea71cd45f28ac4664e8d1daeb01)
++ [查找Linux版本和内核详细信息](https://mp.weixin.qq.com/s/p5UVPneMpxeJHhCpKTwipg)
 ```console
 cat /etc/*-release
 cat /etc/issue
@@ -212,7 +212,7 @@ cat /sys/class/net/eth0/speed
 ```
 
 #### df/du
-+ [获取Linux 中的目录大小](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615458&idx=1&sn=862b943fa3fb806257d1a7450d3cedea)
++ [获取Linux中的目录大小](https://mp.weixin.qq.com/s/5iNd0C5rxH7buTPHfaTEqg)
 ```console
 # show current folder disk info
 # -h size unit using Giga
@@ -266,25 +266,22 @@ cat /proc/meminfo
 
 #### device
 Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。 
-+ [Linux的特殊文件](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446269&idx=2&sn=ee48a435e4385f5eaf41847b7d41b13f)
-
-- [zero](https://en.wikipedia.org/wiki//dev/zero)
-
++ [Linux的特殊文件](https://mp.weixin.qq.com/s/odOpV5INmu8tfegyjgU_bg)
+包括 普通文件/目录(d)/符号链接/套接字(s)/块设备(b)/字符设备(c)/管道
++ [zero](https://en.wikipedia.org/wiki//dev/zero)
 可以读出任意大小的内容，如1k，1M，100M，所有内容均为0。可以用来做内存初始化，模拟读写开销，参看[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)
 ```console
 # 随机生成一批文件
 seq 1000 | xargs -i dd if=/dev/zero of={}.xjj bs=1k count=256
 ```
-
-- [null](https://en.wikipedia.org/wiki/Null_device)
-
-/dev/null device是数据容器，常常用来丢弃数据流，有点类似垃圾箱功能, 你可以把所有不想保留的和不想回显的都重定向过去。
++ [null](https://en.wikipedia.org/wiki/Null_device)
+ /dev/null是数据容器，常常用来丢弃数据流，有点类似垃圾箱功能, 你可以把所有不想保留的和不想回显的都重定向过去。
 ```console
 echo "hi there" > /dev/null
-$
-# When you read from /dev/null, you get a null string
+# 当从/dev/null读取数据,获得会是empty，因此可以用来清空文件
 ls -l messages
 -rw-r--r-- 1 max pubs 25315 Oct 24 10:55 messages
+# 把messages文件清空，文件大小变为0
 cat /dev/null > messages
 # file size becomes zero
 ls -l messages
@@ -292,7 +289,7 @@ ls -l messages
 
 # redirects stdout to null
 ls > /dev/null
-# shortcut for the command above
+# 上条命令的shortcut
 ls 1 > /dev/null
 
 # redirects stderr to null
@@ -301,16 +298,14 @@ ls 2 > /dev/null
 # redirects stdout and stderr to null
 ls &> /dev/null
 
-# Run list command in the background, discard stdout and stderr
+# 后台运行list命令,丢弃stdout and stderr中输出
 # Using 2>&1 will redirect stderr to stdout
 ls > /dev/null 2>&1 &
 
 # Using 1>&2 will redirect stdout to stderr
 ls > /dev/null 1>&2
 ```
-
-- [random](https://en.wikipedia.org/wiki//dev/random)
-
++ [random](https://en.wikipedia.org/wiki//dev/random)
 通过内核来产生随机数
 ```console
 # 通过dd命令产生一个指定size的文件
@@ -324,7 +319,7 @@ ls > /dev/null 1>&2
 ```
 
 #### stat/getfacl/setfacl
-通过[***stat***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614362&idx=1&sn=9159b08467717eab2520c4ff73a9d5c1)命令可以获取文件包括权限在内的完整信息
+通过[***stat***](https://mp.weixin.qq.com/s/j4afP8mTHCXLiONr1wnyhg)命令可以获取文件包括权限在内的完整信息
 ```console
 # display the maximum length of a filename
 # Namelen: is the maximum number of characters permitted in 
@@ -352,9 +347,8 @@ mask::rwother::r--
 ```
 
 #### top
-+ [批处理模式下运行top](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615438&idx=3&sn=db97844f1644ddbdce0b00739f58d1d4)
-+ [uptime运行时间报告](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=3&sn=bf95c6eb5ebc1b95bbc8d86b94410414)
-+ [top找出 CPU占用高的进程](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615839&idx=2&sn=e8edd7e252ce39ef7026e6e9a5795a36)
++ [批处理模式下运行top](https://mp.weixin.qq.com/s/T3nZRjEHEUUMeaLWUCif1w)
++ [top找出 CPU占用高的进程](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ)
 ```console
 # list processes/memory etc.
 # 'h' for help content
@@ -413,7 +407,7 @@ Su Mo Tu We Th Fr Sa
 ```
 
 #### date
-+ [date命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615723&idx=2&sn=0aaccd7ae822e5ba8ed4586e780eb254)  
++ [date命令](https://mp.weixin.qq.com/s/aBEkv53rBNlt4hfy5M37aQ)  
 + [时间格式参数](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
 ```console
 # %y	last two digits of year (00..99)
@@ -503,7 +497,7 @@ sysctl用来修改runtime时kernel parameters. 这类的参数被保存在/proc/sys/, sysctl命
 ```
 
 #### ulimit
-[Ulimit](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614611&idx=2&sn=2a52adca9e4d1a4c496bccbbba8bd0ca) 修改shell resource limits.
++ [ulimit命令修改shell resource limits](https://mp.weixin.qq.com/s/hWwzZikzHdeDgHlfzCICgg) 
 ```console
 # list all
 ulimit -a
@@ -538,7 +532,7 @@ ulimit -n
 ```
 
 #### list services port
-可以通过[***getent***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614586&idx=4&sn=1355e222ddbbfc52663ffe0585d610a9)或grep命令来实现
+可以通过[***getent***](https://mp.weixin.qq.com/s/lnNZDWtKX_NEixo5dxbZTw)或grep命令来实现
 ```console
 getent services http ssh
 http                  80/tcp
@@ -679,7 +673,7 @@ ntpd       1181              ntp  mem       REG               0,38     18712    
 ```
 
 #### activate account
-下面操作通过chsh来解锁账户，锁定解锁账户还可以通过[passwd-usermod](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614551&idx=4&sn=1fe26891f317be58f23e5c8b345cb935)来实现
+下面操作通过chsh来解锁账户，锁定解锁账户还可以通过[passwd-usermod](https://mp.weixin.qq.com/s/1GMmbERptpLW1lH4b6IN3g)来实现
 ```console
 # activate an account via chsh
 # "This account is currently not available" error means what is says
@@ -731,7 +725,7 @@ usermod -G root,test  test
 
 ### Usual command
 #### env
-[config env](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614303&idx=1&sn=ae14179470cf3d2253566e6571b0dc49)
+[config env](https://mp.weixin.qq.com/s/mSgsrZrQX8lmO0vc1dYrlA)
 ```console
 env | more
 printenv | less
