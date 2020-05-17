@@ -75,6 +75,7 @@
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
     - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)
     - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
+    - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
     - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)
 	- [Linux文件系统](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA)
     - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
@@ -126,7 +127,8 @@
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
     - [图解基数排序](https://mp.weixin.qq.com/s/FbBZotOtue3pB5BuWLa4ng)
     - [链表解题](https://mp.weixin.qq.com/s/_1Jcnww8cJfGklm2RMUj0g)
-    - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/RTIfYMGCyVT4RKFXz4O6vw)
+    - TCP三次握手和四次挥手[[1](https://mp.weixin.qq.com/s/RTIfYMGCyVT4RKFXz4O6vw), [2](https://mp.weixin.qq.com/s/GwlqtvJM7rvfqLzmCsYexA)]
+    - [浮点计算精度](https://mp.weixin.qq.com/s/0fke_MhsJ1lrQWOGdtyPlQ)
     - [软件效率分析组织](http://sape.inf.usi.ch/)
 
 #### Web
@@ -154,9 +156,10 @@
             与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
     - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
 + Nginx
-    - [Nginx内部核心架构设计](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw)
-    - [Nginx反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
-    - [Nginx日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
+    - [极简教程](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
+    - [架构设计](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw)
+    - [反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
+    - [日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
     - [前端开发20年变迁史](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
     - Flutter
@@ -300,6 +303,7 @@
         ScalaNLP is the umbrella project for several libraries. [Breeze](https://github.com/scalanlp/breeze/wiki/Quickstart) is a set of libraries for machine learning and numerical computing.
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
++ [HBase RowKey](https://mp.weixin.qq.com/s/ENvPR3kDNG09hMZuhc1BHA)
 + MQ
     - [Kafka架构设计](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
     - [Kafka的“后浪”](https://mp.weixin.qq.com/s/KX9CaDEfQovWBLemUzk6vg)
@@ -402,14 +406,16 @@ process in:file language:java extension:java
     - [zk-election](java/ZK-leader_election.md)
     - [JPDA](java/JDI_JDWP_JPDA.md)
     - [Lambda](https://mp.weixin.qq.com/s/ZtjO30iZpX8qYDO938l7Mg)
-+ [如何解决代码中if…else过多的问题](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
-+ [javatpoint](https://www.javatpoint.com/java-tutorial)
-+ [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
-+ [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
-+ [Lombok简化Java编程 ](https://mp.weixin.qq.com/s/EnZlhaqX0F6uND_LppZSAw)
+    - [javatpoint](https://www.javatpoint.com/java-tutorial)
+    - [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
+    - [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
+    - [Lombok简化Java编程 ](https://mp.weixin.qq.com/s/EnZlhaqX0F6uND_LppZSAw)
++ Problem Solutions
+    - [如何解决代码中if…else过多的问题](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
+    - [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
+    - [线上故障排查参考](https://mp.weixin.qq.com/s/UKa1bksIcTHQsS0T1nt6ZA)
 + [深入Java Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
 + [Java网络协议](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
-+ [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
 + [JavaSE演进新方向](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
 + [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
     - [内存分配和垃圾回收](https://mp.weixin.qq.com/s/334SLntT6yVqRC1IrSaIbA)

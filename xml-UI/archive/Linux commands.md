@@ -108,7 +108,7 @@
     - [Mount/Umount](#mountumount)
     - [Netstat](#netstat)
     - [Nohup](#nohup)
-    - [Pstree/pgrep/tree](#pstree)
+    - [Pstree/ps/pgrep/tree](#pstree)
     - [Rename](https://mp.weixin.qq.com/s/SUgmF4VqvVTXS8LJ7dVCOQ)
     - [SSH](#ssh)
     - [OpenSSL](SSL-JKS-CERT.md#show-certificate)
@@ -551,8 +551,10 @@ ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
 ```
 
 #### systemctl 
-+ [列出systemd所有服务](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446287&idx=2&sn=bdc6f1e024e95902cfab6fca9c7ea16f)
-+ [启动、停止和重启服务](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615931&idx=2&sn=cab338ea7053b503f89cd6c362d3b7ea)
++ [列出systemd所有服务](https://mp.weixin.qq.com/s/Gn5rZYbN9RWAi2tHOQLo_Q)
++ [启动、停止和重启服务](https://mp.weixin.qq.com/s/5ntJjrx6AVHchb_0kKzyzA)
++ [创建服务](linux-service.md)
++ [Systemd替代初始化程序(init)和SystemV](https://mp.weixin.qq.com/s/Sjfd16j-ybGkRFlIhxBXxg)
 
 Control the systemd system and service manager
 ```console
@@ -580,7 +582,7 @@ systemctl link /path/to/servicename.service
 ```
 
 #### journalctl
-[query the systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
++ [查询systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
 ```console
 # list system log reversely
 journalctl -r
@@ -743,6 +745,7 @@ unset GOBIN
 
 #### pstree
 + [tree](https://mp.weixin.qq.com/s/wcWQaMd09yw_tVnRw-p2EA)
++ [ps](https://mp.weixin.qq.com/s/OaDQ81c7GyONluUDOMBHLQ)
 ```console
 # -a Show command line arguments
 # -A Use ASCII characters to draw the tree
@@ -2168,11 +2171,12 @@ Shift+Insert   |  粘贴系统剪贴板内容
 ### Network Config
 
 #### iptables/firewall
-+ [Basic-manual](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)<br>
-+ [Tutorial 1.2.1](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)<br>
++ iptables tutorial[[1](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules), [2](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)]
 + [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
++ nftables[[1](https://mp.weixin.qq.com/s/mWG6mZf9ZBAzMngzWkiHAA), [2](https://mp.weixin.qq.com/s/9uigzKLaSYAPkivaYqEHrw)]
 + [防火墙ufw简介](https://mp.weixin.qq.com/s/ah0cT35qzooxFdZ8tMSZCQ)
-+ [nftables](https://mp.weixin.qq.com/s/mWG6mZf9ZBAzMngzWkiHAA)
++ [FirewallD支持iptables到nftables演进](https://mp.weixin.qq.com/s/y0cBmkpuRm8ZOCG3yg8CGg)
+
 ```console
 # 列出防火墙所有规则，按规则号显示
 # --list/-L  List all the rules
