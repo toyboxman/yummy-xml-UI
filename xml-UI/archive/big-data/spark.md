@@ -424,6 +424,43 @@ Time: 1586963208000 ms
 (test,2)
 ...
 ```
+- 测试 Spark hdfs模式词数统计
+<br>首先下载一个[单词词库](https://github.com/dwyl/english-words),把words.txt上传master container `docker cp words.txt spark-master:/root`
+```console
+# 运行 word count程序
+spark/bin/run-example org.apache.spark.examples.streaming.HdfsWordCount /spark/data/streaming
+# 在/spark/data/streaming目录创建一个text file，触发词统计计算
+cp /root/words.txt /spark/data/streaming
+
+# 运行结果 每间隔2秒就会统计一次stream中word的数量
+-------------------------------------------
+Time: 1589727310000 ms
+-------------------------------------------
+
+20/05/17 14:55:14 WARN Executor: Managed memory leak detected; size = 15882842 bytes, TID = 9
+-------------------------------------------
+Time: 1589727312000 ms
+-------------------------------------------
+(thysanopteron,1)
+(ilio-,1)
+(scurrilities,1)
+(beshow,1)
+(reemigration,1)
+(columbaceous,1)
+(self-helping,1)
+(unprecludable,1)
+(Spanish-top,1)
+(odwyer,1)
+...
+
+-------------------------------------------
+Time: 1589727314000 ms
+-------------------------------------------
+
+-------------------------------------------
+Time: 1589727316000 ms
+-------------------------------------------
+```
 #### 源码分析/API
 + [Structured Streaming源码解析](https://github.com/lw-lin/CoolplaySpark)
 + [spark-core](https://www.javadoc.io/doc/org.apache.spark/spark-core_2.11/2.2.0/index.html#org.apache.spark.SparkContext)

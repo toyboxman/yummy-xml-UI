@@ -268,11 +268,38 @@ cat /proc/meminfo
 Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。 
 + [Linux的特殊文件](https://mp.weixin.qq.com/s/odOpV5INmu8tfegyjgU_bg)
 包括 普通文件/目录(d)/符号链接/套接字(s)/块设备(b)/字符设备(c)/管道
++ dd copy一个文件并按照操作符进行转换和格式化
+```console
+# 随机产生一个大小69M的二进制格式文件，文件名test
+# if指定输入文件 
+# of指定输出文件
+# bs指定每次读写的字节数
+# count指定读写的次数
+dd if=/dev/urandom of=test bs=1M count=69
+
+# 产生一个text文件，大小为786K，文件名test
+dd if=/dev/urandom bs=786438 count=1 | base64 > test
+```
 + [zero](https://en.wikipedia.org/wiki//dev/zero)
 可以读出任意大小的内容，如1k，1M，100M，所有内容均为0。可以用来做内存初始化，模拟读写开销，参看[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)
 ```console
 # 随机生成一批文件
+# seq 1000产生1..1000数列
+# xargs -i 指定用1..1000分别替换后部分命令字符串中{}
+# dd 用来产生文件
 seq 1000 | xargs -i dd if=/dev/zero of={}.xjj bs=1k count=256
+```
++ [random](https://en.wikipedia.org/wiki//dev/random)
+通过内核来产生随机数
+```console
+# 通过dd命令产生一个指定size的文件
+[root@localhost ~]# dd if=/dev/urandom of=test bs=1M count=69
+69+0 records in
+69+0 records out
+72351744 bytes (72 MB) copied, 0.446161 s, 162 MB/s
+
+[root@localhost ~]# du -h test
+69M    test
 ```
 + [null](https://en.wikipedia.org/wiki/Null_device)
  /dev/null是数据容器，常常用来丢弃数据流，有点类似垃圾箱功能, 你可以把所有不想保留的和不想回显的都重定向过去。
@@ -304,18 +331,6 @@ ls > /dev/null 2>&1 &
 
 # Using 1>&2 will redirect stdout to stderr
 ls > /dev/null 1>&2
-```
-+ [random](https://en.wikipedia.org/wiki//dev/random)
-通过内核来产生随机数
-```console
-# 通过dd命令产生一个指定size的文件
-[root@localhost ~]# dd if=/dev/urandom  of=test bs=1M count=69
-69+0 records in
-69+0 records out
-72351744 bytes (72 MB) copied, 0.446161 s, 162 MB/s
-
-[root@localhost ~]# du -h test
-69M    test
 ```
 
 #### stat/getfacl/setfacl

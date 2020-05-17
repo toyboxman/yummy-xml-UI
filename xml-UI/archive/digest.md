@@ -433,6 +433,12 @@ process in:file language:java extension:java
 	- [4个Linux 命令行下的 Markdown 工具](https://mp.weixin.qq.com/s/9RRveBQU3iXEc04-rmCwVQ)
     - [Arya](https://markdown.lovejade.cn/)  
     一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析  
++ Generators
+    - [random](https://onlinerandomtools.com/)
+    - [transformer](https://onlineyamltools.com/)
++ Regex
+    - [正则表达式匹配中文](https://www.w3cschool.cn/regexp/nck51pqj.html) 
+    - [正则表达式特殊字符](https://www.w3cschool.cn/regexp/p5cx1pqd.html)
 + [VLC转码/录屏](https://mp.weixin.qq.com/s/jLFYgsggoS6oQAhx9yeG9Q)
 + ***Notepad++***
     - replace    
@@ -459,11 +465,6 @@ process in:file language:java extension:java
         "description":"measure description"  \
     }
     ```
-    
-    - regex
-        - [正则表达式匹配中文](https://www.w3cschool.cn/regexp/nck51pqj.html) 
-        - [正则表达式特殊字符](https://www.w3cschool.cn/regexp/p5cx1pqd.html)
-
     + plugin/JSTool   
     用来格式化JS/JSON输入，JSMin用来把JavaScript代码minification，JSFormat可以将minification的代码还原
     
