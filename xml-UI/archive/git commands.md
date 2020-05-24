@@ -36,6 +36,8 @@
 - [git status](#git-status)
 - [git show](#git-show)
 - [git tag](#git-tag)
+- [术语表](https://mp.weixin.qq.com/s/5EvrlCVc7g0LX7DMhI-ZnQ)
+- [使用子模块和子树来管理Git项目](https://mp.weixin.qq.com/s/RIM0y2Stwf8HiSbw7o8kcQ)
 
 ### git config
 ```console
@@ -321,8 +323,10 @@ git ls-files | xargs cat | wc -l
 ```
 
 ### git merge rebase
-> [Link1](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
-> [Link2](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
++ [Rewriting History](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
++ [rebase的作用](https://mp.weixin.qq.com/s/OW7ZpE2wvhwVOhLBVODHdA)
++ [rebase一次修改多个提交记录](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
+
 ```console
 # 将社区分支(stable/icehouse )合并到当前分支中
 git merge stable/icehouse 

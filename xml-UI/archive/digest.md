@@ -104,6 +104,7 @@
     - [Pandas并行处理实现](https://mp.weixin.qq.com/s/t4B0z2nA3lJUmuJIHrsHNw)
 	- [Python任务自动化/命令行工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)
 	- [Python调试设置不中断的断点](https://mp.weixin.qq.com/s/4dSVY1lJk4Edz05LC7J1pA)
+    - [pyenv运行多个版本的Python](https://mp.weixin.qq.com/s/1VqcfrEAveAbU5zF0HsWyw)
 + ***Go***    
     - [basic](go/go-basic.md)
     - [Golang编译器原理](https://mp.weixin.qq.com/s/uparU_6pApv8aPlVPeX_Tg)
@@ -112,6 +113,7 @@
     - [Go并发编程](https://mp.weixin.qq.com/s/5YaZr3ljv4INIOQprqKZyw)
 	- [Concurrency和Parallelism in Go](https://mp.weixin.qq.com/s/ihJFa5Wir4ohhZUXVSBvMQ)
     - [Go内联优化](https://mp.weixin.qq.com/s/hqivL8F6NyCow_oXn-BDvQ)
+    - [禁止类型比较让Go二进制文件变小](https://mp.weixin.qq.com/s/d1MbzlXp83c_MARpyojXdw)
     - [Go的不足](https://mp.weixin.qq.com/s/UP_Rf-x1HekU-nl7BneVyg)
 + [***Rust***](https://mp.weixin.qq.com/s/JBlzMIhMa7TB5tHGSRhVkQ)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
@@ -192,7 +194,7 @@
         + [webpack高级配置](https://mp.weixin.qq.com/s/etFRqDtyjPB8icI7tMJPZA)
 + CSS
     - [CSS布局指南](https://mp.weixin.qq.com/s/gIRqOKZAYwRUxWvKXbTvig)
-	- [十个最流行的前端CSS库](https://mp.weixin.qq.com/s/Sjg6jgl1D6IkYgsuQSgFHg)
+	- 前端开源CSS库[[1](https://mp.weixin.qq.com/s/Sjg6jgl1D6IkYgsuQSgFHg), [2](https://mp.weixin.qq.com/s/xwD_2K8ZpvpY0geCv865ew)]
     - [CSS Grid布局](https://mp.weixin.qq.com/s/J80laygl2BsGSfU40AjXyw)
 	- [经典的CSS布局问题](https://mp.weixin.qq.com/s/ljnqn8paEHIgShA3c-eoxw)
     - [CSS知识点](https://mp.weixin.qq.com/s/CNWl36Oa6KBvdGZ-wC4odw)
@@ -336,6 +338,7 @@
 	- [异常检测孤立随机森林算法](https://mp.weixin.qq.com/s/EOBjLqvi_WcSjiDb8b5Nwg)
 	- [谷歌大脑Trax](https://mp.weixin.qq.com/s/tLAzDnAr5a2TwafE4Jg91g)
     - [用AI翻译500种语言](https://mp.weixin.qq.com/s/as8grEpPtuOlKbpGs8TqvA)
+    - [语音识别为何缺失ImageNet类似资料库](https://mp.weixin.qq.com/s/OyKnqLz5ZpCd7g7XspYnhw)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
