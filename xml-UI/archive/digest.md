@@ -73,6 +73,7 @@
     - [操作系统](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)
     - [文件系统](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
+        - [虚拟内存](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
     - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)
     - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
     - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
@@ -119,6 +120,7 @@
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + [***laTeX***](laTeX/laTeX.md)
 + [***C++编译器工作原理***](https://github.com/selfboot/CS_Offer/blob/master/C%2B%2B/Compiler.md)
++ [依赖反转/控制反转/依赖注入](https://mp.weixin.qq.com/s/IZXdP3yFww_2re3KYuZFXg)
 + ***Algorithm***
     - [自然语言处理NLP](https://mp.weixin.qq.com/s/K6h0duwaDMk5RES8ALmLNA)
 	- [海量数据中判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
@@ -164,6 +166,7 @@
     - [日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
     - [前端开发20年变迁史](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
+    - [前端样例代码](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew)
     - Flutter
         + [使用Flutter开发Web应用](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
         + [Flutter富文本方案](https://mp.weixin.qq.com/s/uqxLb5ToMdi9sqL6gDRW_g)
@@ -172,6 +175,7 @@
         - [搭建一个node的API接口服务](https://mp.weixin.qq.com/s/M7AOLgu-hTspie-B49o0Tg)
         - [NodeJS进程与线程](https://mp.weixin.qq.com/s/N6Omr5HwSPl6JjE2ultoVg)
     - [Django编写Python Web API](https://mp.weixin.qq.com/s/XLBr2paFOlAtrij-VcFeFA)
+    - [字体库加密数据反爬虫](https://mp.weixin.qq.com/s/mqWKKh7-U15hm3zNEECl2w)
     - [H5移动端开发-弹出键盘/系统调用](https://mp.weixin.qq.com/s/VmtMDQfroq-RtIJ_h4p5yg)
     - [前端缓存serviceworker概念](https://mp.weixin.qq.com/s/9fmflZirWd7zGt-4-MzsvQ)
     - [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s/vVQJ-K8vHv9vqn9XPSuhqQ)
@@ -295,6 +299,7 @@
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
     - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)
+    - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)
 
 #### Bigdata
@@ -591,3 +596,4 @@ done
 + [经济学眼镜蛇效应](https://mp.weixin.qq.com/s/22k9niY-2WuJyEfkjIXRWw)
 + [你打你的, 我打我的](https://mp.weixin.qq.com/s/R3hsw2tixRUzg966u_xEAA)
 + [高中物理](https://mp.weixin.qq.com/s/QoBtzuadTKWk9Y-zHyH9Kg)
++ [学者学问](https://mp.weixin.qq.com/s/wMVqFedwKE_KmFN_CDGH4w)

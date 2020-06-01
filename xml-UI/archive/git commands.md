@@ -264,9 +264,9 @@ git branch -m master-dev
 git branch -m master-dev master
 
 # 查看哪些本地分支包含某个提交
-git branch --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
+git branch --contains e96a53a68b2ed1ce9b98661b07f8071e789d2319
 # 查看哪些remote分支包含某个提交
-git branch -r --contain e96a53a68b2ed1ce9b98661b07f8071e789d2319
+git branch -r --contains e96a53a68b2ed1ce9b98661b07f8071e789d2319
 # 查看哪些本地分支不包含某个提交
 git branch --no-contains 45eb3ae0a5ccce683a74625409bd015c1fd6d312
 ```

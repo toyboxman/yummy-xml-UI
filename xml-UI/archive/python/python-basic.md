@@ -472,6 +472,15 @@ f.close()
 more [details](https://www.tutorialspoint.com/python3/python_files_io.htm)
 
 ## Python CLI
+- **install pip**   
+pip是python使用的包依赖管理工具，如果使用Python3.4以上版本或者virtualenv or pyvenv创建Virtual Environment,默认pip都是自带的，只需upgrade pip.   
+    + [安装pip操作说明](https://pip.pypa.io/en/stable/installing/)
+        ```console
+        curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+        python get-pip.py
+        ```
+    + [在虚拟env中使用pip](https://www.ostechnix.com/manage-python-packages-using-pip/)
+
 - **show version**
 ```python
 $ python -V
@@ -480,11 +489,11 @@ $ python3 -V
 Python 3.4.6
 ```
 - **export  LD_LIBRARY_PATH env variable**
-```
+```console
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64
 ```
 - **[find site-package location](https://stackoverflow.com/questions/122327/how-do-i-find-the-location-of-my-python-site-packages-directory)**
-```
+```python
 # global setting
 python -m site
 python -c "import site; print(site.getsitepackages())"
@@ -499,9 +508,7 @@ $ python -m unittest
 ```
 - **[run Tox test](https://www.oschina.net/translate/open-sourcing-a-python-project-the-right-way?print)**
 
-- **[Pipx](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614666&idx=3&sn=0a42b3632a73644a1a9c50e8e09618d0)**
-
-在隔离环境中安装和运行 Python 应用
+- **[Pipx隔离环境中运行Python](https://mp.weixin.qq.com/s/ckCOYd5t8qasCJSfw334LQ)**
 
 - **list installed packages**
 ```python

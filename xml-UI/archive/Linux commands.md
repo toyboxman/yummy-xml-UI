@@ -20,6 +20,7 @@
             - strace/ltrace追踪系统调用[[**1**](https://mp.weixin.qq.com/s/ScDFJo1HP0KC4bybrVC8QA), [**2**](https://mp.weixin.qq.com/s/Nzm7Ayw_vd5hbfBXFpDCYQ)]
             - [ltrace/hexdump/strings/nm分析二进制文件](https://mp.weixin.qq.com/s/VS2Kf-aApDNgyIOA-fuZKQ)
             - [strace/pstack/gdb分析Linux进程](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
+            - [Docker中使用strace](https://mp.weixin.qq.com/s/4nsZ0gaikvcNWstdbXEbrA)
         - [Crash配合/dev/mem调试内存 ](https://mp.weixin.qq.com/s/Q4FbI_U6pRrfhlpuzOJmig)
         - log
           + [配置Rsyslog服务器](https://mp.weixin.qq.com/s/S_MJ1c2mLgoo1PndJ_33YA)
@@ -1006,9 +1007,40 @@ sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/pa
 - [rsync快速删除大量文件](https://mp.weixin.qq.com/s/PA5XXqqZKKuwREPeqAtS4Q)
 - [不使用mv命令移动文件](https://mp.weixin.qq.com/s/vFmE7j2AzoLCS7nYph-D_w)
 ```console
-# determine file type
-file pom.xml
-pom.xml: XML document text
+# 确定默认 /usr/bin/python 文件类型
+# $(which python)将which命令结果作为file命令参数
+$ file $(which python)
+/usr/bin/python: symbolic link to python2.7
+
+$ file file.c file /dev/{wd0a,hda}
+file.c:   C program text
+file:     ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV),
+          dynamically linked (uses shared libs), stripped
+/dev/wd0a: block special (0/0)
+/dev/hda: block special (3/0)
+
+$ file -s /dev/wd0{b,d}
+/dev/wd0b: data
+/dev/wd0d: x86 boot sector
+
+$ file -s /dev/hda{,1,2,3,4,5,6,7,8,9,10}
+/dev/hda:   x86 boot sector
+/dev/hda1:  Linux/i386 ext2 filesystem
+/dev/hda2:  x86 boot sector
+/dev/hda3:  x86 boot sector, extended partition table
+/dev/hda4:  Linux/i386 ext2 filesystem
+/dev/hda5:  Linux/i386 swap file
+/dev/hda6:  Linux/i386 swap file
+/dev/hda7:  Linux/i386 swap file
+/dev/hda8:  Linux/i386 swap file
+/dev/hda9:  empty
+/dev/hda10: empty
+
+$ file -i file.c file /dev/{wd0a,hda}
+file.c:      text/x-c
+file:        application/x-executable
+/dev/hda:    application/x-not-regular-file
+/dev/wd0a:   application/x-not-regular-file
 ```
 
 #### checksum

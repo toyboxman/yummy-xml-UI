@@ -41,6 +41,7 @@ Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑�
 + [Mac配置Kubernetes](https://mp.weixin.qq.com/s/A0hogBew98ekE-HDXVYNkA)
     MicroK8s需要通过snap install安装到ubuntu vm上，国内安装速度较慢。替代使用[k3s](https://k3s.io/)或[Minikube](https://github.com/kubernetes/minikube)
 + Tools for k8s[[1](https://mp.weixin.qq.com/s/nsfr6sArLotsB9U4MU7-wg), [2](https://mp.weixin.qq.com/s/CAroslMhKt21y6_XYYXqQg)]
++ [k9s集群管理的工具](https://mp.weixin.qq.com/s/Jwy42KmPhMC_1sfFrizoLQ)
 + [ansible自动化部署k8s](https://github.com/easzlab/kubeasz)
 + [基本kubectl和Helm命令](https://mp.weixin.qq.com/s/JpCVNcU2hrfHS2d_Xcttvw)
 + [使用Traefik引导Kubernetes流量](https://mp.weixin.qq.com/s/edMBhL5XtyAsILHSeTWBdA)
