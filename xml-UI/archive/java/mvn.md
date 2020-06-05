@@ -8,12 +8,13 @@
 - [package](#package)
 - [dependencies](#dependencies)
 - [running](#running)
+- [test](#testing)
 
 #### configuration
 
-é»˜è®¤mavené…ç½®æ–‡ä»¶åœ¨å®‰è£…è·¯å¾„ä¸‹ apache-maven-3.5.3/conf/settings.xml
+Ä¬ÈÏmavenÅäÖÃÎÄ¼şÔÚ°²×°Â·¾¶ÏÂ apache-maven-3.5.3/conf/settings.xml
 
-è¦ä¿®æ”¹mavenä½¿ç”¨çš„JDKï¼Œå¯ä»¥é€šè¿‡åœ¨.bashrcä¸­ export JAVA_HOMEï¼Œæ‰§è¡Œæ—¶å€™mavenä¼šè‡ªåŠ¨é€‰æ‹©JAVA_HOME
+ÒªĞŞ¸ÄmavenÊ¹ÓÃµÄJDK£¬¿ÉÒÔÍ¨¹ıÔÚ.bashrcÖĞ export JAVA_HOME£¬Ö´ĞĞÊ±ºòmaven»á×Ô¶¯Ñ¡ÔñJAVA_HOME
 ```
 > mvn -X -DskipTests -DskipGenerateApiDocs clean install
 Apache Maven 3.5.3 (3383c37e1f9e9b3bc3df5050c29c8aff9f295297; 2018-02-25T03:49:05+08:00)
@@ -24,7 +25,7 @@ Default locale: en_US, platform encoding: UTF-8
 OS name: "linux", version: "4.4.175-89-default", arch: "amd64", family: "unix"
 ```
 
-å¯ä»¥åœ¨conf/settings.xmlå¢åŠ proxyè®¾å®š
+¿ÉÒÔÔÚconf/settings.xmlÔö¼ÓproxyÉè¶¨
 ```
 <proxies>
     <proxy>
@@ -42,22 +43,22 @@ OS name: "linux", version: "4.4.175-89-default", arch: "amd64", family: "unix"
 
 #### build
 ```
-# packageä»…åœ¨å·¥ç¨‹ç›®å½•å®Œæˆç¼–è¯‘ï¼Œå¦‚æœå¸Œæœ›å®‰è£…åˆ° .m2/repositoryéœ€è¦æ‰§è¡Œinstall
+# package½öÔÚ¹¤³ÌÄ¿Â¼Íê³É±àÒë£¬Èç¹ûÏ£Íû°²×°µ½ .m2/repositoryĞèÒªÖ´ĞĞinstall
 mvn -X -DskipTests package
 ```
 
 #### compile 
-å¦‚æœå¸Œæœ›å·¥ç¨‹ç¼–è¯‘çš„Javaç‰ˆæœ¬å’Œmavenä½¿ç”¨ä¸åŒï¼Œå¯ä»¥å‚æ•°æŒ‡å®š
+Èç¹ûÏ£Íû¹¤³Ì±àÒëµÄJava°æ±¾ºÍmavenÊ¹ÓÃ²»Í¬£¬¿ÉÒÔ²ÎÊıÖ¸¶¨
 ```
-# ä½¿ç”¨æŒ‡å®šçš„ç¼–è¯‘å™¨
+# Ê¹ÓÃÖ¸¶¨µÄ±àÒëÆ÷
 mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compile
 ```
 
 #### package
-`mvn package`å‘½ä»¤åªæŠŠå½“å‰å·¥ç¨‹æ–‡ä»¶æ‰“åŒ…æˆjaræ–‡ä»¶å¦‚target/sha-1.0.jarï¼Œå¦‚æœå¸Œæœ›æŠŠä¾èµ–libä¸€èµ·æ‰“åŒ…æˆä¸€ä¸ªå…¨é›†jaræ–‡ä»¶å¦‚target/sha-1.0-jar-with-dependencies.jarï¼Œéœ€è¦é…ç½®ä¸€äº›plugin
+`mvn package`ÃüÁîÖ»°Ñµ±Ç°¹¤³ÌÎÄ¼ş´ò°ü³ÉjarÎÄ¼şÈçtarget/sha-1.0.jar£¬Èç¹ûÏ£Íû°ÑÒÀÀµlibÒ»Æğ´ò°ü³ÉÒ»¸öÈ«¼¯jarÎÄ¼şÈçtarget/sha-1.0-jar-with-dependencies.jar£¬ĞèÒªÅäÖÃÒ»Ğ©plugin
 
 * [jar-with-dependencies](http://maven.apache.org/plugins/maven-assembly-plugin/usage.html)   
-å¢åŠ å¦‚ä¸‹pluginé…ç½®åï¼Œé€šè¿‡`mvn assembly:single`å¯ä»¥å•ç‹¬äº§ç”Ÿå…¨é›†libæ–‡ä»¶ï¼Œä¹Ÿå¯ä»¥åœ¨mvn packageæ‰§è¡Œä¸­è‡ªåŠ¨äº§ç”Ÿ
+Ôö¼ÓÈçÏÂpluginÅäÖÃºó£¬Í¨¹ı`mvn assembly:single`¿ÉÒÔµ¥¶À²úÉúÈ«¼¯libÎÄ¼ş£¬Ò²¿ÉÒÔÔÚmvn packageÖ´ĞĞÖĞ×Ô¶¯²úÉú
 ```
 <plugin>
     <artifactId>maven-assembly-plugin</artifactId>
@@ -82,7 +83,7 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
 ```
 
 * maven-shade-plugin      
-maven-shade-pluginä¹Ÿå¯ä»¥æŠŠall dependenciesæ‰“åŒ…åˆ°ä¸€ä¸ªjaræ–‡ä»¶ `mvn shade:shade`
+maven-shade-pluginÒ²¿ÉÒÔ°Ñall dependencies´ò°üµ½Ò»¸öjarÎÄ¼ş `mvn shade:shade`
 ```
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
@@ -97,7 +98,7 @@ maven-shade-pluginä¹Ÿå¯ä»¥æŠŠall dependenciesæ‰“åŒ…åˆ°ä¸€ä¸ªjaræ–‡ä»¶ `mvn shad
             <configuration>
                 <transformers>
                     <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                        <!-- æŒ‡å®šjarä¸­main class -->
+                        <!-- Ö¸¶¨jarÖĞmain class -->
                         <mainClass>gene.moql.TestMain</mainClass>
                     </transformer>
                 </transformers>
@@ -106,17 +107,17 @@ maven-shade-pluginä¹Ÿå¯ä»¥æŠŠall dependenciesæ‰“åŒ…åˆ°ä¸€ä¸ªjaræ–‡ä»¶ `mvn shad
     </executions>
 </plugin>
 ```
-æ›´å¤šæ‰“åŒ…æ’ä»¶å‚è€ƒ[***1***](https://www.baeldung.com/executable-jar-with-maven)
+¸ü¶à´ò°ü²å¼ş²Î¿¼[***1***](https://www.baeldung.com/executable-jar-with-maven)
 
 * jar     
-mvnä¸­æ‰“åŒ…é‚£äº›å·¥ç¨‹æ–‡ä»¶ä¹Ÿæ˜¯å¯ä»¥é€‰æ‹©çš„ã€‚ä¾‹å¦‚æ­£å¸¸æ‰“åŒ…ä¸­main/srcå’Œtest/srcä¸¤ä¸ªç›®å½•ä¸­classæ–‡ä»¶ä¼šåˆ†åˆ«æ‰“åŒ…åœ¨xxx.jarå’Œxxx-tests.jar, åˆ†åˆ«ä½œä¸ºå…¶ä»–å·¥ç¨‹çš„runtimeæˆ–testé˜¶æ®µçš„ä¾èµ–ã€‚ä½†é‡åˆ°è¿‡å·¥ç¨‹ç»“æ„ä¸åˆç†ï¼Œcompileæ—¢è¦ä¾èµ–xxx.jaråˆè¦ä¾èµ–xxx-tests.jar. ä½†æ­£å¸¸æ‰“åŒ…xxx.jaræ˜¯ä¸ä¼šåŒ…å«test/srcï¼Œåªèƒ½é€šè¿‡æ‰‹åŠ¨å®šåˆ¶æ¥è§£å†³
+mvnÖĞ´ò°üÄÇĞ©¹¤³ÌÎÄ¼şÒ²ÊÇ¿ÉÒÔÑ¡ÔñµÄ¡£ÀıÈçÕı³£´ò°üÖĞmain/srcºÍtest/srcÁ½¸öÄ¿Â¼ÖĞclassÎÄ¼ş»á·Ö±ğ´ò°üÔÚxxx.jarºÍxxx-tests.jar, ·Ö±ğ×÷ÎªÆäËû¹¤³ÌµÄruntime»òtest½×¶ÎµÄÒÀÀµ¡£µ«Óöµ½¹ı¹¤³Ì½á¹¹²»ºÏÀí£¬compile¼ÈÒªÒÀÀµxxx.jarÓÖÒªÒÀÀµxxx-tests.jar. µ«Õı³£´ò°üxxx.jarÊÇ²»»á°üº¬test/src£¬Ö»ÄÜÍ¨¹ıÊÖ¶¯¶¨ÖÆÀ´½â¾ö
 ```
 <plugin>
     <artifactId>maven-assembly-plugin</artifactId>
     <configuration>
-        <!-- æŒ‡å®šæ‰“åŒ…è§„åˆ™æ–‡ä»¶ -->
+        <!-- Ö¸¶¨´ò°ü¹æÔòÎÄ¼ş -->
         <descriptor>src/main/assembly.xml</descriptor>
-        <!-- optionalé…ç½®ï¼ŒæŒ‡å®šmain class -->
+        <!-- optionalÅäÖÃ£¬Ö¸¶¨main class -->
         <archive>
             <manifest>
                 <mainClass>com.moon.test.MainTest</mainClass>
@@ -134,7 +135,7 @@ mvnä¸­æ‰“åŒ…é‚£äº›å·¥ç¨‹æ–‡ä»¶ä¹Ÿæ˜¯å¯ä»¥é€‰æ‹©çš„ã€‚ä¾‹å¦‚æ­£å¸¸æ‰“åŒ…ä¸­main/
     </executions>
 </plugin>
 ```
-è§„åˆ™æ–‡ä»¶çš„é…ç½®å¦‚ä¸‹
+¹æÔòÎÄ¼şµÄÅäÖÃÈçÏÂ
 ```
 <assembly
         xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.3"
@@ -147,7 +148,7 @@ mvnä¸­æ‰“åŒ…é‚£äº›å·¥ç¨‹æ–‡ä»¶ä¹Ÿæ˜¯å¯ä»¥é€‰æ‹©çš„ã€‚ä¾‹å¦‚æ­£å¸¸æ‰“åŒ…ä¸­main/
     <includeBaseDirectory>false</includeBaseDirectory>
     <fileSets>
         <fileSet>
-            <!-- testç›®å½•çš„ç¼–è¯‘è·¯å¾„ -->
+            <!-- testÄ¿Â¼µÄ±àÒëÂ·¾¶ -->
             <directory>/home/xxx/target/test-classes</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
@@ -156,7 +157,7 @@ mvnä¸­æ‰“åŒ…é‚£äº›å·¥ç¨‹æ–‡ä»¶ä¹Ÿæ˜¯å¯ä»¥é€‰æ‹©çš„ã€‚ä¾‹å¦‚æ­£å¸¸æ‰“åŒ…ä¸­main/
             <useDefaultExcludes>true</useDefaultExcludes>
         </fileSet>
         <fileSet>
-            <!-- mainç›®å½•çš„ç¼–è¯‘è·¯å¾„ -->
+            <!-- mainÄ¿Â¼µÄ±àÒëÂ·¾¶ -->
             <directory>/home/xxx/target/classes</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
@@ -170,23 +171,23 @@ mvnä¸­æ‰“åŒ…é‚£äº›å·¥ç¨‹æ–‡ä»¶ä¹Ÿæ˜¯å¯ä»¥é€‰æ‹©çš„ã€‚ä¾‹å¦‚æ­£å¸¸æ‰“åŒ…ä¸­main/
 
 #### dependencies
 * show dependencies   
-å±•ç¤ºpomæ–‡ä»¶ä¸­å®šä¹‰çš„ä¾èµ–æ ‘çš„å®Œæ•´å…³ç³»
+Õ¹Ê¾pomÎÄ¼şÖĞ¶¨ÒåµÄÒÀÀµÊ÷µÄÍêÕû¹ØÏµ
 ```
 mvn dependency:tree
 
-# æ˜¾ç¤ºåŒ…å«org.apacheçš„groupIdä¾èµ–åŒ…
+# ÏÔÊ¾°üº¬org.apacheµÄgroupIdÒÀÀµ°ü
 mvn dependency:tree -Dincludes=org.apache*
-# æ˜¾ç¤ºåŒ…å«':spring'å­—ç¬¦ä¸²çš„artifactIdä¾èµ–åŒ…
+# ÏÔÊ¾°üº¬':spring'×Ö·û´®µÄartifactIdÒÀÀµ°ü
 mvn dependency:tree -Dincludes=:spring*
 ```
 
 * analyze dependencies    
-åˆ†æpomæ–‡ä»¶ä¸­å®šä¹‰çš„ä¾èµ–æ ‘çš„æœ‰æ•ˆæ€§
+·ÖÎöpomÎÄ¼şÖĞ¶¨ÒåµÄÒÀÀµÊ÷µÄÓĞĞ§ĞÔ
 ```
 mvn dependency:analyze
 mvn dependency:analyze-only
 ```
-ä¹Ÿå¯ä»¥ç”¨pluginé…ç½®æŠŠåˆ†ææ‰§è¡ŒåŠ å…¥åˆ°mvnæ‰§è¡Œæµç¨‹ä¸­
+Ò²¿ÉÒÔÓÃpluginÅäÖÃ°Ñ·ÖÎöÖ´ĞĞ¼ÓÈëµ½mvnÖ´ĞĞÁ÷³ÌÖĞ
 ```
 <plugin>
     <artifactId>maven-dependency-plugin</artifactId>
@@ -198,7 +199,7 @@ mvn dependency:analyze-only
                 <goal>analyze-only</goal>
             </goals>
             <configuration>
-                <!-- å¦‚æœä¸å¸Œæœ›ä¾èµ–æ£€æŸ¥å¤±è´¥æ—¶å€™ä¸­æ–­mvnæ‰§è¡Œï¼Œå¯ä»¥æŠŠè®¾ç½®æˆfalse -->
+                <!-- Èç¹û²»Ï£ÍûÒÀÀµ¼ì²éÊ§°ÜÊ±ºòÖĞ¶ÏmvnÖ´ĞĞ£¬¿ÉÒÔ°ÑÉèÖÃ³Éfalse -->
                 <failOnWarning>true</failOnWarning>
                 <outputXML>true</outputXML>
             </configuration>
@@ -208,37 +209,37 @@ mvn dependency:analyze-only
 ```
 
 * [purge dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/examples/purging-local-repository.html)     
-ç»å¸¸èƒ½é‡åˆ°local-repository(~/.m2/repository)installedæ–‡ä»¶ä¸æ˜¯æœ€æ–°ç‰ˆæœ¬ï¼Œä½†æ˜¯é€šè¿‡buildç›¸å…³å‘½ä»¤å´ä¸èƒ½å¼ºåˆ¶refreshï¼Œç”±æ­¤å¯èƒ½
-å¯¼è‡´å·¥ç¨‹compileä¸­çš„ä¾èµ–å…³ç³»é”™è¯¯ã€‚è¿™ç§æƒ…å†µä¸‹ï¼Œå¯ä»¥å…ˆå°†repositoryç›¸å…³å®‰è£…ç›®å½•åˆ é™¤ï¼Œå†é‡æ–°å®‰è£…ä¸‹è½½ã€‚
+¾­³£ÄÜÓöµ½local-repository(~/.m2/repository)installedÎÄ¼ş²»ÊÇ×îĞÂ°æ±¾£¬µ«ÊÇÍ¨¹ıbuildÏà¹ØÃüÁîÈ´²»ÄÜÇ¿ÖÆrefresh£¬ÓÉ´Ë¿ÉÄÜ
+µ¼ÖÂ¹¤³ÌcompileÖĞµÄÒÀÀµ¹ØÏµ´íÎó¡£ÕâÖÖÇé¿öÏÂ£¬¿ÉÒÔÏÈ½«repositoryÏà¹Ø°²×°Ä¿Â¼É¾³ı£¬ÔÙÖØĞÂ°²×°ÏÂÔØ¡£
 ```
 rm ~/.m2/repository/org/apache/griffin
 mvn install
 ```
-æˆ–è€…ä½¿ç”¨dependency:purge-local-repositoryå‘½ä»¤
+»òÕßÊ¹ÓÃdependency:purge-local-repositoryÃüÁî
 ```
-# æ¸…é™¤repositoryä¸­groupId=org.apache.griffin çš„æ–‡ä»¶
+# Çå³ırepositoryÖĞgroupId=org.apache.griffin µÄÎÄ¼ş
 mvn dependency:purge-local-repository -DmanualInclude=org.apache.griffin
 $ ls -al ~/.m2/repository/org/apache/griffin/
 ls: cannot access '~/.m2/repository/org/apache/griffin/': No such file or directory
 
-# æ¸…é™¤repositoryä¸­åŒ¹é…groupId:artifactId:version çš„æ–‡ä»¶
+# Çå³ırepositoryÖĞÆ¥ÅägroupId:artifactId:version µÄÎÄ¼ş
 mvn dependency:purge-local-repository -DmanualInclude=org.apache.jmeter:jorphan:2.8
 $ ls -al ~/.m2/repository/org/apache/jmeter/jorphan
 drwxr-xr-x  2 king users  140 Mar 19 15:40 2.10
 drwxr-xr-x  2 king users  140 Mar 19 15:39 2.13
 
-# æ¸…é™¤repositoryä¸­comç›®å½•ä¸‹æ‰€æœ‰æ–‡ä»¶
+# Çå³ırepositoryÖĞcomÄ¿Â¼ÏÂËùÓĞÎÄ¼ş
 mvn dependency:purge-local-repository -DmanualInclude=com
 $ ls -al ~/.m2/repository/com/
 ls: cannot access '/home/king/.m2/repository/com/': No such file or directory
 ```
 
 * download dependencies   
-æ¸…é™¤repositoryä¹‹åå¦‚æœè¿˜æƒ³æŒ‡å®šé‡æ–°ä¸‹è½½ä¾èµ–ï¼Œå¯ä»¥ä½¿ç”¨dependency:resolve, dependency:getå‘½ä»¤
+Çå³ırepositoryÖ®ºóÈç¹û»¹ÏëÖ¸¶¨ÖØĞÂÏÂÔØÒÀÀµ£¬¿ÉÒÔÊ¹ÓÃdependency:resolve, dependency:getÃüÁî
 ```
-# ä»…ä¸‹è½½å®‰è£…é¡¹ç›®ä¾èµ–æ–‡ä»¶ä¸ç¼–è¯‘å·¥ç¨‹
+# ½öÏÂÔØ°²×°ÏîÄ¿ÒÀÀµÎÄ¼ş²»±àÒë¹¤³Ì
 mvn dependency:resolve
-# æŒ‡å®šä¸‹è½½ä¸€ä¸ªæ–‡ä»¶
+# Ö¸¶¨ÏÂÔØÒ»¸öÎÄ¼ş
 # mvn dependency:get -Dartifact=groupId:artifactId:version
 mvn dependency:get -Dartifact=org.apache.jmeter:jorphan:2.8
 $ ls -al ~/.m2/repository/org/apache/jmeter/jorphan
@@ -248,15 +249,15 @@ drwxr-xr-x  2 king users  136 Jul 23 16:29 2.8
 ```
     
 * [copy dependencies](https://maven.apache.org/plugins/maven-dependency-plugin/index.html)    
-å¦‚æœå¸Œæœ›å°†å·¥ç¨‹çš„ä¾èµ–libéƒ½ä»repoä¸­æ‹·è´å‡ºæ¥ï¼Œå¯ä»¥ä½¿ç”¨ dependency:copy-dependencies
+Èç¹ûÏ£Íû½«¹¤³ÌµÄÒÀÀµlib¶¼´ÓrepoÖĞ¿½±´³öÀ´£¬¿ÉÒÔÊ¹ÓÃ dependency:copy-dependencies
 
-`mvn dependency:copy-dependencies`æ‰§è¡ŒæŒ‰ç…§é»˜è®¤å‚æ•°ï¼Œå°†ä¾èµ–æ ‘ä¸Šæ‰€æœ‰libæ‹·è´å‡ºæ¥ï¼Œé™¤äº†parent pomçš„ä¾èµ–
+`mvn dependency:copy-dependencies`Ö´ĞĞ°´ÕÕÄ¬ÈÏ²ÎÊı£¬½«ÒÀÀµÊ÷ÉÏËùÓĞlib¿½±´³öÀ´£¬³ıÁËparent pomµÄÒÀÀµ
 
-`mvn dependency:copy-dependencies -DincludeScope=runtime -Dmdep.addParentPoms` å°†ä¾èµ–æ ‘ä¸Šæ‰€æœ‰runtime and compile dependencies libæ‹·è´å‡ºæ¥ï¼ŒåŒ…æ‹¬parent pomçš„ä¾èµ–
+`mvn dependency:copy-dependencies -DincludeScope=runtime -Dmdep.addParentPoms` ½«ÒÀÀµÊ÷ÉÏËùÓĞruntime and compile dependencies lib¿½±´³öÀ´£¬°üÀ¨parent pomµÄÒÀÀµ
 
-`mvn dependency:copy-dependencies -DincludeScope=runtime -DincludeGroupIds=com.example.api,org.apache.common` å°†ä¾èµ–æ ‘ä¸Šæ‰€æœ‰runtime and compile dependencies libæ‹·è´å‡ºæ¥ï¼ŒåªåŒ…æ‹¬groupidç¬¦åˆæ¡ä»¶çš„
+`mvn dependency:copy-dependencies -DincludeScope=runtime -DincludeGroupIds=com.example.api,org.apache.common` ½«ÒÀÀµÊ÷ÉÏËùÓĞruntime and compile dependencies lib¿½±´³öÀ´£¬Ö»°üÀ¨groupid·ûºÏÌõ¼şµÄ
 
-å¦‚æœæƒ³æŠŠæ‹·è´è¿‡ç¨‹åŠ å…¥åˆ°mvnçš„æ‰§è¡Œè¿‡ç¨‹ä¸­ï¼ŒåŠ ä¸Šå¦‚ä¸‹pluginé…ç½®
+Èç¹ûÏë°Ñ¿½±´¹ı³Ì¼ÓÈëµ½mvnµÄÖ´ĞĞ¹ı³ÌÖĞ£¬¼ÓÉÏÈçÏÂpluginÅäÖÃ
 ```
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
@@ -270,7 +271,7 @@ drwxr-xr-x  2 king users  136 Jul 23 16:29 2.8
                 <goal>copy-dependencies</goal>
             </goals>
             <configuration>
-                <!-- æŒ‡å®šdependencyæ‹·è´åˆ°ç›®å½• -->
+                <!-- Ö¸¶¨dependency¿½±´µ½Ä¿Â¼ -->
                 <outputDirectory>${project.build.directory}/dependency</outputDirectory>
                 <overWriteReleases>false</overWriteReleases>
                 <overWriteSnapshots>false</overWriteSnapshots>
@@ -281,11 +282,11 @@ drwxr-xr-x  2 king users  136 Jul 23 16:29 2.8
     </executions>
 </plugin>
 ```
-`mvn -X -DskipTests clean package`åœ¨package stageï¼Œä¼šå°†ä¾èµ–åŒ…copyåˆ°`target/dependency`ç›®å½•
+`mvn -X -DskipTests clean package`ÔÚpackage stage£¬»á½«ÒÀÀµ°ücopyµ½`target/dependency`Ä¿Â¼
 
     
 * [jdeps](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jdeps.html)    
-JDKè‡ªå¸¦å·¥å…·åˆ†æåŒ…ä¾èµ–ï¼ŒåŸºäºimportè¯­å¥åšåˆ†æ
+JDK×Ô´ø¹¤¾ß·ÖÎö°üÒÀÀµ£¬»ùÓÚimportÓï¾ä×ö·ÖÎö
 ```
 # -v Prints all class-level dependencies
 # -P -profile Shows profile or the file containing a package
@@ -293,11 +294,11 @@ JDKè‡ªå¸¦å·¥å…·åˆ†æåŒ…ä¾èµ–ï¼ŒåŸºäºimportè¯­å¥åšåˆ†æ
 ```
 
 #### running
-è¿è¡Œå¤šæ¡mvnå‘½ä»¤
+ÔËĞĞ¶àÌõmvnÃüÁî
 ```
 mvn clean install && mvn -Dassemble package
 ```
-é€šè¿‡mvnæ¥[è¿è¡Œç¨‹åº](https://www.mojohaus.org/exec-maven-plugin/usage.html) `mvn exec:exec`, `mvn package exec:exec`
+Í¨¹ımvnÀ´[ÔËĞĞ³ÌĞò](https://www.mojohaus.org/exec-maven-plugin/usage.html) `mvn exec:exec`, `mvn package exec:exec`
 ```xml
 <build>
     <plugins>
@@ -326,9 +327,9 @@ mvn clean install && mvn -Dassemble package
     </plugins>
 </build>
 ```
-æ›´å¤šä½¿ç”¨[å‚çœ‹](http://www.vineetmanohar.com/2009/11/3-ways-to-run-java-main-from-maven/)
+¸ü¶àÊ¹ÓÃ[²Î¿´](http://www.vineetmanohar.com/2009/11/3-ways-to-run-java-main-from-maven/)
 ```
-# å¦‚æœæ‰§è¡Œçš„classpathéœ€è¦å±‚çº§ä¾èµ–å„é¡¹ç›®çš„libï¼Œä¸Šé¢profileé…ç½®å°±ä¸ç”¨æ‰‹åŠ¨æŒ‡å®šcp
+# Èç¹ûÖ´ĞĞµÄclasspathĞèÒª²ã¼¶ÒÀÀµ¸÷ÏîÄ¿µÄlib£¬ÉÏÃæprofileÅäÖÃ¾Í²»ÓÃÊÖ¶¯Ö¸¶¨cp
  <configuration>
     <executable>java</executable>
     <arguments>
@@ -337,4 +338,22 @@ mvn clean install && mvn -Dassemble package
         <argument>com.trace.TracerConfig</argument>
     </arguments>
 </configuration>
+```
+
+#### testing
++ [²¢ĞĞÖ´ĞĞJUnit Tests](https://www.baeldung.com/maven-junit-parallel-tests)
+
+Ö´ĞĞJUnit testÃüÁî
+```
+# Ö´ĞĞÈ«²¿case²¢½«½á¹ûĞ´ÈëÎÄ¼ş
+mvn test > test.log
+
+# Ö´ĞĞ¶à¸ö²âÊÔÀà
+$ mvn -Dtest=TestApp1,TestApp2 test
+
+# Ö´ĞĞÒ»¸ö²âÊÔÀàµÄÖ¸¶¨²âÊÔ·½·¨
+$ mvn -Dtest=TestApp1#methodname test
+
+# Ö´ĞĞÒ»¸ö²âÊÔÀàµÄËùÓĞ·½·¨ÃûÆ¥Åä 'testHello*'µÄcase
+$ mvn -Dtest=TestApp1#testHello* test
 ```
