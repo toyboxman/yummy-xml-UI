@@ -65,6 +65,7 @@
     - [FFmpeg编辑视频](ffmpeg.md)
     - [开源搜索引擎YaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)
 	- [Photoshop开源替代品](https://mp.weixin.qq.com/s/eoYGUqq-4wNQzxKUjdSWdQ)
+    - [GIMP制作GIF](https://mp.weixin.qq.com/s/WRybaajEUGyD1UuuyGBgaQ)
     - Ansible
         - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s/iRHnwHX6ptkrgl9tw46oRw), [**2**](https://mp.weixin.qq.com/s/RDtJmQWCpR6sSv7jIi6nJA), [**3**](https://mp.weixin.qq.com/s/86MaptM3-ou6TKQjcuRArQ)
         - [Ansible同步GitHub和GitLab ](https://mp.weixin.qq.com/s/GYmTgfE9nlqw9X_eNGPoSQ)
@@ -95,6 +96,8 @@
     - [head](scala/scala-head.md)
 + ***Python***
     - [basic](python/python-basic.md)
+    - [getopt/optparse/argparse解析命令行参数](https://mp.weixin.qq.com/s/1b4kUhW7w2xDTeJeJJZx-w)
+    - [FastAPI构建Web服务](https://mp.weixin.qq.com/s/i9HQpaU902Vt7kv0_tRFKw)
     - [kite-编写python代码的AI工具](https://mp.weixin.qq.com/s/q5GTpgxVPdBhufLTSP5mNw)
     - [Heartrate执行可视化工具](https://mp.weixin.qq.com/s/Ihjr1qHtKrZFdW7GbtZcPQ)
 	- [Octave绘制数据](https://mp.weixin.qq.com/s/Nb2ci6d5MhoRoepu6G3YdQ)
@@ -161,7 +164,7 @@
     - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
 + Nginx
     - [极简教程](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
-    - [架构设计](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw)
+    - 架构设计[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw)]
     - [反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
     - [日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
@@ -204,12 +207,14 @@
     - [CSS知识点](https://mp.weixin.qq.com/s/CNWl36Oa6KBvdGZ-wC4odw)
     - [CSS第四级选择器](https://mp.weixin.qq.com/s/5mCWF2qAPWBhBpKAUuqJKw)
     - [CSS样式的解析过程](https://mp.weixin.qq.com/s/8G7dpvleCFmDPzijfMbiTw)
-+ JavaScript
++ JavaScript/TypeScript
+    - [使用TypeScript](https://mp.weixin.qq.com/s/wQy7ZqiuBcP6MHWW9H8dkg)
     - [JS中context和stack](https://mp.weixin.qq.com/s/pc6EbfCKN1xWd4Q6nBU-PQ)
     - [JS中实现map/reduce](https://mp.weixin.qq.com/s/HgXTuZd9fKdu8MoGAPP0Pw)
     - [JS数组精简技巧](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
     - [JS实现异步任务](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
     - [GoJS实现交互式图](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
+    - [Voca/Cleave/Chart出色的JS库](https://mp.weixin.qq.com/s/R3MI_zOUf5xqXl8-9pfeDg)
 + GraphQL
     - [GraphQL工具和库](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
     - [什么是GraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)
@@ -305,6 +310,7 @@
 #### Bigdata
 + [spark](big-data/spark.md)
     - [Spark中编写可伸缩代码](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
+    - [Spark Shuffle](https://mp.weixin.qq.com/s/VdwOwmxmOpQC3NIaxqqbmw)
     - [图计算框架Plato vs Spark GraphX](https://mp.weixin.qq.com/s/J6GB3RMXY-tyOxEUii6fcw)
     - [ScalaNLP](http://www.scalanlp.org/)  
         ScalaNLP is the umbrella project for several libraries. [Breeze](https://github.com/scalanlp/breeze/wiki/Quickstart) is a set of libraries for machine learning and numerical computing.
@@ -371,11 +377,18 @@ GitHub提供代码库检索功能
     + [检索语法](https://help.github.com/en/articles/about-searching-on-github)
     + [code search语法](https://help.github.com/en/articles/searching-code)
     + [Github高级搜索技巧](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
+    + [GitHub Actions技巧](https://mp.weixin.qq.com/s/L3VBR_mOj8TUhJAcO-rG-w)
 ```console
-# 从java语言的项目(language:java)中
-# 搜寻扩展名是java(extension:java)的文件内容(in:file)
-# 匹配关键字 process
+# 1.限定从java语言的项目(language:java)中
+# 2.搜寻扩展名是java(extension:java)的文件内容(in:file)
+# 3.匹配关键字 process
 process in:file language:java extension:java
+
+# 从项目readme文件中匹配关键字debug
+debug in:readme language:java
+
+# 从项目描述文件中匹配关键字monitor
+monitor in:description language:python
 ```
 由于GitHub不支持正则表达搜索,因此可以用google/bing做一些站内搜索
 ```
@@ -481,6 +494,9 @@ process in:file language:java extension:java
 + [Q&A-spring](https://quizlet.com/306762411/baeldung-top-spring-framework-interview-questions-spring-core-flash-cards/)
 + [数据库面试题](https://mp.weixin.qq.com/s/lVfcrhxYvO5DUWe3yws9vw)
 + [操作系统问题](https://mp.weixin.qq.com/s/fZWEZzSCCgOcLZU4fc3Mcw)
++ [Java-Summarize](https://github.com/zaiyunduan123/Java-Summarize)
++ [JVM底层原理知识](https://github.com/doocs/jvm)
++ [大厂面试指北](https://github.com/NotFound9/interviewGuide)
 #### Contract
 + Offer negociation[[1](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q), [2](https://mp.weixin.qq.com/s/mr9URCUSzgESLRkhhgHEdA)]
 + [劳动合同到期续签](https://mp.weixin.qq.com/s/1sIyoiluui3fNdK79o_3tw)

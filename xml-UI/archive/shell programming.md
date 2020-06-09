@@ -33,6 +33,7 @@
 	+ [编写函数](#exp10)
 	+ [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
 	+ [列出大型文件系统中文件,目录](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
+	+ [重启或启动时执行脚本](https://mp.weixin.qq.com/s/Cu4B0yNSm_pV9d9b-ssXAQ)
 	+ [uptime运行时间报告](https://mp.weixin.qq.com/s/rcPb5PXhj3LjM7K44PWwCQ)
     + [Bash实现登录查看系统信息](https://mp.weixin.qq.com/s/n8BOjHCd39lEKxWF_qOZew)
 	+ [SAR报告中获取CPU和内存使用情况](https://mp.weixin.qq.com/s/us5c3vY7nBjc113jJmG6hQ)

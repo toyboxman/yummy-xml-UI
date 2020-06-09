@@ -1,8 +1,9 @@
 ***
 
 ## Ways to use threadlocal
+- [ThreadLocal简介](https://mp.weixin.qq.com/s/y_-o8pl7kbkNykPFIrKmEA)
 
-### 瀛樺偍鍙橀噺
+### 存储变量
 ```java 
 ExecutorService newFixedThreadPool = Executors.newFixedThreadPool(3);
 ThreadLocal<Integer> threadLocal = new ThreadLocal<>();
@@ -21,7 +22,7 @@ for (int i = 0; i < 10; i++) {
 }
 newFixedThreadPool.shutdown();
 ``` 
-鎵ц缁撴灉
+执行结果
 ```
 thread name: pool-1-thread-1 set value: 111
 thread name: pool-1-thread-2 set value: 222

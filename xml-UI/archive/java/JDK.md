@@ -15,10 +15,13 @@
   - [javap](#javap)
 - Debug/Monitor开源工具
   - [Diagnostic Tool Arthas](https://github.com/alibaba/arthas)
-  - [vjtools](https://github.com/vipshop/vjtools)
+  - [jvm-sandbox](https://github.com/alibaba/jvm-sandbox)
+  - [jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater)
+  - [findtheflow](http://findtheflow.io/docs/doc_intellij.html#_how_to_use_flow_standalone_version)
   - [Bistoury](https://github.com/qunarcorp/bistoury)
   - [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer)
   - [BTrace](https://github.com/btraceio/btrace/wiki)
+  - [vjtools](https://github.com/vipshop/vjtools)
   - [调试监控经验集](https://github.com/vipcolud/monitor)
 
 ***

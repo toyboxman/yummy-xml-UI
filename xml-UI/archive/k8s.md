@@ -2,15 +2,15 @@
 ---
 
 ### kubernetes
-+ [è§£å†³ä»€ä¹ˆé—®é¢˜](#problem-digest)
-+ [å¦‚ä½•ä½¿ç”¨](#use-digest)
++ [½â¾öÊ²Ã´ÎÊÌâ](#problem-digest)
++ [ÈçºÎÊ¹ÓÃ](#use-digest)
 
 ---
 
 #### problem-digest
-##### k8sèƒ½è§£å†³ä»€ä¹ˆé—®é¢˜
+##### k8sÄÜ½â¾öÊ²Ã´ÎÊÌâ
 
-æ²¡æœ‰k8sä¹‹å‰ï¼Œ ä¸Šçº¿ä¸€ä¸ªæ–°æœåŠ¡ï¼Œåªèƒ½é€šè¿‡è¿ç»´å›¢é˜Ÿå¤„ç†ï¼Œæ²¡æœ‰åŠæ³•æŠŠä»»åŠ¡åˆ‡åˆ†ç»™å…¶ä»–ä¸šåŠ¡å›¢é˜Ÿï¼Œè¿™å°±æ˜¯åŸå§‹DevOpsï¼ŒåŒ…æ‹¬ä»¥ä¸‹è¿™äº›å·¥ä½œ:
+Ã»ÓĞk8sÖ®Ç°£¬ ÉÏÏßÒ»¸öĞÂ·şÎñ£¬Ö»ÄÜÍ¨¹ıÔËÎ¬ÍÅ¶Ó´¦Àí£¬Ã»ÓĞ°ì·¨°ÑÈÎÎñÇĞ·Ö¸øÆäËûÒµÎñÍÅ¶Ó£¬Õâ¾ÍÊÇÔ­Ê¼DevOps£¬°üÀ¨ÒÔÏÂÕâĞ©¹¤×÷:
 
 + Configure DNS (often internal service layers and external public-facing)
 + Configure load balancers (often internal services and public-facing)
@@ -18,35 +18,36 @@
 + Configure clustering software (databases, service layers, etc.)
 + Configure webserver cluster (could be 10 or 50 servers)
 
-å¤§éƒ¨åˆ†è¿™äº›äº‹åŠ¡éƒ½å¯ä»¥é€šè¿‡é…ç½®ç®¡ç†è‡ªåŠ¨åŒ–æ¥åšï¼Œä½†å®é™…ä¸Šçš„é…ç½®ä¾æ—§å¤æ‚ï¼Œå› ä¸ºå¤§é‡ç³»ç»Ÿå’ŒæœåŠ¡éƒ½æœ‰ä¸åŒçš„é…ç½®æ–‡ä»¶ï¼Œä¸åŒçš„æ–‡ä»¶æ ¼å¼ã€‚æœ‰äº›å·¥å…·å¦‚Augeasï¼Œé€šè¿‡ä¸€ä¸ªç¿»è¯‘å™¨æ¥è½¬æ¢ä¸åŒé…ç½®æ–‡ä»¶ï¼Œä½†è¿™ä¸ªæ–¹æ³•æ˜¯anti-patternï¼Œè¯•å›¾èŒƒå¼åŒ–(normalize)å¤§é‡ä¸åŒé…ç½®æ–‡ä»¶ï¼Œå®é™…ä½¿ç”¨æ—¶ä¹Ÿä¸å®¹æ˜“
+´ó²¿·ÖÕâĞ©ÊÂÎñ¶¼¿ÉÒÔÍ¨¹ıÅäÖÃ¹ÜÀí×Ô¶¯»¯À´×ö£¬µ«Êµ¼ÊÉÏµÄÅäÖÃÒÀ¾É¸´ÔÓ£¬ÒòÎª´óÁ¿ÏµÍ³ºÍ·şÎñ¶¼ÓĞ²»Í¬µÄÅäÖÃÎÄ¼ş£¬²»Í¬µÄÎÄ¼ş¸ñÊ½¡£ÓĞĞ©¹¤¾ßÈçAugeas£¬Í¨¹ıÒ»¸ö·­ÒëÆ÷À´×ª»»²»Í¬ÅäÖÃÎÄ¼ş£¬µ«Õâ¸ö·½·¨ÊÇanti-pattern£¬ÊÔÍ¼·¶Ê½»¯(normalize)´óÁ¿²»Í¬ÅäÖÃÎÄ¼ş£¬Êµ¼ÊÊ¹ÓÃÊ±Ò²²»ÈİÒ×
 
-å¦‚ä»Šåº”ç”¨Kubernetes, ä¸Šçº¿ä¸€ä¸ªæ–°æœåŠ¡åŸºæœ¬ä¸Šå¦‚ä¸‹:
+Èç½ñÓ¦ÓÃKubernetes, ÉÏÏßÒ»¸öĞÂ·şÎñ»ù±¾ÉÏÈçÏÂ:
 
 + Configure Kubernetes YAML/JSON.
 + Submit it to the Kubernetes API (kubectl create -f service.yaml)
 
-Kuberneteså¯ä»¥è§£å†³é‚£äº›é—®é¢˜å¯ä»¥çœ‹çœ‹
-+ [k8sç®€ä»‹](https://mp.weixin.qq.com/s/JSipXCkLAMIpNa4UGDRogQ)
-+ [éƒ¨ç½²Kubernetesçš„ä»£ä»·](https://mp.weixin.qq.com/s/zzn61ADe2RA7K0L4-EMAOA)
-+ Kubernetes å­¦ä¹ æ›²çº¿[[1](https://mp.weixin.qq.com/s/H8guIwQlMoKnN9OI_Om3RA), [2](https://opensource.com/article/19/6/kubernetes-basics)]
+Kubernetes¿ÉÒÔ½â¾öÄÇĞ©ÎÊÌâ¿ÉÒÔ¿´¿´
++ [k8s¼ò½é](https://mp.weixin.qq.com/s/JSipXCkLAMIpNa4UGDRogQ)
++ [²¿ÊğKubernetesµÄ´ú¼Û](https://mp.weixin.qq.com/s/zzn61ADe2RA7K0L4-EMAOA)
++ Kubernetes Ñ§Ï°ÇúÏß[[1](https://mp.weixin.qq.com/s/H8guIwQlMoKnN9OI_Om3RA), [2](https://opensource.com/article/19/6/kubernetes-basics)]
 + [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
-+ Kubernetesç³»åˆ—[[2](https://mp.weixin.qq.com/s/OZGLS0UsN9PiMqMaOzzpJA),[3](https://mp.weixin.qq.com/s/EHoSVCDFZoQar32nkl2-Mw),[4](https://mp.weixin.qq.com/s/ZjqEy4hCnGEcBdVfrFgzRQ)]
-+ [Podé—´å®¹å™¨é€šä¿¡ ](https://mp.weixin.qq.com/s/I2qA29Lpkdnowd8Txv7ftg)
-+ [å‘½åç©ºé—´](https://mp.weixin.qq.com/s/KzhBWfbHDZaqFqN-jUsUCw)
++ KubernetesÏµÁĞ[[2](https://mp.weixin.qq.com/s/OZGLS0UsN9PiMqMaOzzpJA),[3](https://mp.weixin.qq.com/s/EHoSVCDFZoQar32nkl2-Mw),[4](https://mp.weixin.qq.com/s/ZjqEy4hCnGEcBdVfrFgzRQ)]
++ [Pod¼äÈİÆ÷Í¨ĞÅ ](https://mp.weixin.qq.com/s/I2qA29Lpkdnowd8Txv7ftg)
++ [ÃüÃû¿Õ¼ä](https://mp.weixin.qq.com/s/KzhBWfbHDZaqFqN-jUsUCw)
 
 #### use-digest
-+ k8sæ€ä¹ˆç”¨
++ k8sÔõÃ´ÓÃ
 
-Kubernetesä½¿ç”¨å­¦ä¹ éœ€è¦ä¸€äº›æ—¶é—´ï¼Œå®‰è£…é…ç½®ä¸€ä¸ªé›†ç¾¤éœ€è¦çå±‘çš„æ“ä½œï¼Œä¸‹é¢æ˜¯ä¸€äº›å…³äºç®€å•ä½¿ç”¨å­¦ä¹ çš„æ–‡ç« 
-+ [Macé…ç½®Kubernetes](https://mp.weixin.qq.com/s/A0hogBew98ekE-HDXVYNkA)
-    MicroK8séœ€è¦é€šè¿‡snap installå®‰è£…åˆ°ubuntu vmä¸Šï¼Œå›½å†…å®‰è£…é€Ÿåº¦è¾ƒæ…¢ã€‚æ›¿ä»£ä½¿ç”¨[k3s](https://k3s.io/)æˆ–[Minikube](https://github.com/kubernetes/minikube)
+KubernetesÊ¹ÓÃÑ§Ï°ĞèÒªÒ»Ğ©Ê±¼ä£¬°²×°ÅäÖÃÒ»¸ö¼¯ÈºĞèÒªËöĞ¼µÄ²Ù×÷£¬ÏÂÃæÊÇÒ»Ğ©¹ØÓÚ¼òµ¥Ê¹ÓÃÑ§Ï°µÄÎÄÕÂ
++ [k8s best practice](https://mp.weixin.qq.com/s/KLrQ2n_Kk_DR6puIsgmOqg)
++ [MacÅäÖÃKubernetes](https://mp.weixin.qq.com/s/A0hogBew98ekE-HDXVYNkA)
+    MicroK8sĞèÒªÍ¨¹ısnap install°²×°µ½ubuntu vmÉÏ£¬¹úÄÚ°²×°ËÙ¶È½ÏÂı¡£Ìæ´úÊ¹ÓÃ[k3s](https://k3s.io/)»ò[Minikube](https://github.com/kubernetes/minikube)
 + Tools for k8s[[1](https://mp.weixin.qq.com/s/nsfr6sArLotsB9U4MU7-wg), [2](https://mp.weixin.qq.com/s/CAroslMhKt21y6_XYYXqQg)]
-+ [k9sé›†ç¾¤ç®¡ç†çš„å·¥å…·](https://mp.weixin.qq.com/s/Jwy42KmPhMC_1sfFrizoLQ)
-+ [ansibleè‡ªåŠ¨åŒ–éƒ¨ç½²k8s](https://github.com/easzlab/kubeasz)
-+ [åŸºæœ¬kubectlå’ŒHelmå‘½ä»¤](https://mp.weixin.qq.com/s/JpCVNcU2hrfHS2d_Xcttvw)
-+ [ä½¿ç”¨Traefikå¼•å¯¼Kubernetesæµé‡](https://mp.weixin.qq.com/s/edMBhL5XtyAsILHSeTWBdA)
-+ [æ•°ç™¾ä¸ªZooKeeperå®ä¾‹è¿ç§»åˆ°Kubernetes](https://mp.weixin.qq.com/s/AaVTgZc_vUtKD_WytKIW5A)
-+ [ä¸­æ–‡ç‰ˆæ–‡æ¡£](https://linfan1.gitbooks.io/kubernetes-chinese-docs/content/index.html)
++ [k9s¼¯Èº¹ÜÀíµÄ¹¤¾ß](https://mp.weixin.qq.com/s/Jwy42KmPhMC_1sfFrizoLQ)
++ [ansible×Ô¶¯»¯²¿Êğk8s](https://github.com/easzlab/kubeasz)
++ [»ù±¾kubectlºÍHelmÃüÁî](https://mp.weixin.qq.com/s/JpCVNcU2hrfHS2d_Xcttvw)
++ [Ê¹ÓÃTraefikÒıµ¼KubernetesÁ÷Á¿](https://mp.weixin.qq.com/s/edMBhL5XtyAsILHSeTWBdA)
++ [Êı°Ù¸öZooKeeperÊµÀıÇ¨ÒÆµ½Kubernetes](https://mp.weixin.qq.com/s/AaVTgZc_vUtKD_WytKIW5A)
++ [ÖĞÎÄ°æÎÄµµ](https://linfan1.gitbooks.io/kubernetes-chinese-docs/content/index.html)
 + [Awesome-Kubernetes](https://ramitsurana.gitbooks.io/awesome-kubernetes/content/)
 
 ```

@@ -26,7 +26,6 @@
           + [配置Rsyslog服务器](https://mp.weixin.qq.com/s/S_MJ1c2mLgoo1PndJ_33YA)
           + [Web Log Analysis](https://mp.weixin.qq.com/s/TD_-Vzn_KjyyAwviaPkF8A)
           + [Logrotate手动滚动日志](hhttps://mp.weixin.qq.com/s/unosQoE_QQdxOTgJaHUexg)
-        - [undo 'rm -f'](https://mp.weixin.qq.com/s/FHhWaIzMN2afAM6jlzZdsA)
         - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
     - Account Management
         - [Activate Account](#activate-account)
@@ -63,12 +62,15 @@
         - [df/du](#dfdu)
         - [lsof](#lsof)
         - [stat/getfacl/setfacl](#statgetfaclsetfacl)
-        - [iotop/iostat](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w)    
+        - iotop/iostat/htop/Monit/IPTraf[[1](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w), [2](https://mp.weixin.qq.com/s/flTlgzJbmSpUza9OoN6A0g)]    
         - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
+        - [undo 'rm -f'](https://mp.weixin.qq.com/s/FHhWaIzMN2afAM6jlzZdsA)
+        - [释放rm文件后占用的空间](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg)
     - Device Management
         - [ZERO/NULL/Random/dd](#device)
     - [Network Management](#network-config)        
         - [Show Network Details](#show-network-details)
+        - [ethtool](https://mp.weixin.qq.com/s/3zl4NIbcm710sTt_a_gTkw)
         - [Firewall/iptables/ufw/nftables](#iptablesfirewall)
         - [NC/netcat](#nc)
         - [Ping](#pingarping)
@@ -82,6 +84,7 @@
         - [bmon查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
+        - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
 - [Usual Command](#usual-command)
     - [Alias](https://mp.weixin.qq.com/s/wTokA2r-kxIMePmuVE98HA)
     - [List/ls](https://mp.weixin.qq.com/s/FXiMOUCLdWfIaUJpnzlsLw)
@@ -1318,6 +1321,10 @@ aria2c -x 7 https://github.com/testerSunshine/12306/archive/master.zip
 aria2c http://a/f.iso ftp://b/f.iso
 # Download BitTorrent Magnet URI
 aria2c 'magnet:?xt=urn:btih:248D0A1CD08284299DE78D5C1ED359BB46717D8C'
+
+# Using a Proxy with authorization
+# 可以分别指定 --http-proxy --https-proxy --ftp-proxy
+aria2c --all-proxy="http://username:password@proxy:8080" "http://host/file"
 ```
 
 #### tar

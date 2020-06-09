@@ -324,7 +324,7 @@ git ls-files | xargs cat | wc -l
 
 ### git merge rebase
 + [Rewriting History](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
-+ [rebase的作用](https://mp.weixin.qq.com/s/OW7ZpE2wvhwVOhLBVODHdA)
++ rebase修改提交历史[[1](https://mp.weixin.qq.com/s/OW7ZpE2wvhwVOhLBVODHdA), [2](https://mp.weixin.qq.com/s/xLPDiPRzNnLLTrTlWJqWCA)]
 + [rebase一次修改多个提交记录](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
 
 ```console
