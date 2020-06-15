@@ -58,11 +58,12 @@
     - [Git共享文件](https://mp.weixin.qq.com/s/maETLN2FFAmztBSCPbYIbg)
 + 开源工具
     - [QEMU模拟开发板](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)
-	- [开源工具构建DevOps](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA)    
+	- 开源工具构建DevOps[[1](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA), [2](https://mp.weixin.qq.com/s/Rnux4uL4IA0qFmBK-FimoA)]    
     - [Jenkins构建CI/CD](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA)
     - [pdftk操作PDF](https://mp.weixin.qq.com/s/bq8m3akbF_im6RWulhIh_w)     
     `Java实现工具，大文件处理会碰到问题。某些功能也可通过浏览器打印PDF方式实现`
     - [FFmpeg编辑视频](ffmpeg.md)
+    - [创建EPUB电子书](https://mp.weixin.qq.com/s/nCNzETj-LF1ZDgpLZu0c5Q)
     - [开源搜索引擎YaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)
 	- [Photoshop开源替代品](https://mp.weixin.qq.com/s/eoYGUqq-4wNQzxKUjdSWdQ)
     - [GIMP制作GIF](https://mp.weixin.qq.com/s/WRybaajEUGyD1UuuyGBgaQ)
@@ -86,6 +87,7 @@
     - [Linux阅码场](https://mp.weixin.qq.com/s/bgNYCf25LfQer1j_5r7_hg)
     - 进程间通信-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
     - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
+    - [spinlock/rwlock/seqlock原理剖析](https://mp.weixin.qq.com/s/jOJL-7TSlgrX4f-1T_5Wvw)
 
 #### Programming
 + [***Github***](#github)
@@ -497,6 +499,7 @@ monitor in:description language:python
 + [Java-Summarize](https://github.com/zaiyunduan123/Java-Summarize)
 + [JVM底层原理知识](https://github.com/doocs/jvm)
 + [大厂面试指北](https://github.com/NotFound9/interviewGuide)
++ [go-interview](https://github.com/shomali11/go-interview)
 #### Contract
 + Offer negociation[[1](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q), [2](https://mp.weixin.qq.com/s/mr9URCUSzgESLRkhhgHEdA)]
 + [劳动合同到期续签](https://mp.weixin.qq.com/s/1sIyoiluui3fNdK79o_3tw)
@@ -613,3 +616,4 @@ done
 + [你打你的, 我打我的](https://mp.weixin.qq.com/s/R3hsw2tixRUzg966u_xEAA)
 + [高中物理](https://mp.weixin.qq.com/s/QoBtzuadTKWk9Y-zHyH9Kg)
 + [学者学问](https://mp.weixin.qq.com/s/wMVqFedwKE_KmFN_CDGH4w)
++ [经济增长与发展](https://mp.weixin.qq.com/s/BdWzVB0ZXtSTR42Xxoc5eQ)

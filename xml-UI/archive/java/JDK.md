@@ -23,6 +23,7 @@
   - [BTrace](https://github.com/btraceio/btrace/wiki)
   - [vjtools](https://github.com/vipshop/vjtools)
   - [调试监控经验集](https://github.com/vipcolud/monitor)
+  - [spring-loaded](https://github.com/spring-projects/spring-loaded)
 
 ***
 
