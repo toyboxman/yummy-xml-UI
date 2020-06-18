@@ -840,8 +840,13 @@ ssh -i private.key root@172.16.8.38
 ssh-copy-id root@172.16.8.38
 
 # ssh远程执行命令
-# 'ls -al /root' folder in remote host
+# 查看远端机器目录列表 'ls -al /root'
 ssh root@172.16.8.38 ls -al
+# 通过跳板机(jumphost)远程执行命令
+# 通过192.168.1.1 ->跳转到-> 192.168.1.2 执行grep命令
+# 1.空格会带来解析错误，因此远程命令最好都用双引号包括
+# 2.grep命令是第二跳远程命令，因此其双引号被包括在第一跳命令中，要用转义符\"处理
+ssh root@192.168.1.1 "ssh root@192.168.1.2 \"grep -in '#bms#' /var/log/proton/nsxapi.log\""
 
 # 指定remote host上给定的TCP port转发报文到指定本地host某个port
 # -R [bind_address:]port:host:hostport

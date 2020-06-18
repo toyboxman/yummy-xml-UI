@@ -29,7 +29,7 @@
 - [git merge/rebase](#git-merge-rebase)
 - [git pull](#git-pull)
 - [git push](#git-push)
-- [git rm](#git-rm)
+- [git rm/clean](#git-rm)
 - [git remote](#git-remote)
 - [git reset/revert](#git-reset-revert)
 - [git review](#git-review)
@@ -207,6 +207,7 @@ git add --all
 ```
 
 ### git rm
+git rm 用来删除指定文件
 ```console
 # untracked:新建文件  unstaged:修改过repo tree上的文件 staged:git add后待commit的文件
 # 将source中所有文件子目录都从待提交staged状态改成untracked状态
@@ -221,6 +222,18 @@ git rm readme.md
 # 置为deleted状态的文件只能通过重新checkout来恢复
 git checkout HEAD readme.md
 git checkout @ readme.md
+```
+如果需要删除文件太多了, 例如 git reset 如果不强制--hard则会保留回滚产生的大量文件，一个个rm太麻烦可以使用 git clean
+```console
+# 使用clean前使用 -n or --dry-run 选项来预览删除结果列表，防止错误删除文件
+# 清除 untracked files
+git clean -f
+# 清除新产生的directories和files
+git clean -f -d
+# 清除 ignored files
+git clean -f -X
+# 清除 ignored和non-ignored files
+git clean -f -x
 ```
 
 ### git commit

@@ -14,7 +14,7 @@
 	- [jstat](#jstat)
   - [javap](#javap)
 - Debug/Monitor开源工具
-  - [Diagnostic Tool Arthas](https://github.com/alibaba/arthas)
+  - [Arthas](#arthas)
   - [jvm-sandbox](https://github.com/alibaba/jvm-sandbox)
   - [jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater)
   - [findtheflow](http://findtheflow.io/docs/doc_intellij.html#_how_to_use_flow_standalone_version)
@@ -29,7 +29,7 @@
 
 ### 运行错误处理
 #### Operation not permitted
-```bash
+```console
 #download jdk8 package
 wget -c --no-cookies \
 --no-check-certificate \
@@ -49,7 +49,7 @@ Java HotSpot(TM) 64-Bit Server VM warning: INFO: os::commit_memory(0x00007b9c510
 # /root/grey/hs_err_pid28237.log
 ``` 
 按照[链接](https://bugs.eclipse.org/bugs/show_bug.cgi?id=432069)解决方案修改内存操作模式可以解决启动失败问题
-```bash 
+```console 
 sudo paxctl -C /root/jdk/bin/java
 sudo paxctl -m /root/jdk/bin/java
 
@@ -62,18 +62,18 @@ Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
 ```
 #### Unable to open socket file
-```bash 
+```console 
 > jstack -l 2554
 2554: Unable to open socket file: target process not responding or HotSpot VM not loaded
 The -F option can be used when the target process is not responding
 ```
 这个错误可能是目标process hung住,可以强制dump thread信息
-```bash 
+```console 
 > jstack -l -F 2554
 ```
 如果出现deduce type错误则按照下面错误处理方式去排除
 #### Unable to deduce type of thread
-```bash 
+```console 
 > jstack -l 26191
 Attaching to process ID 26191, please wait...
 Debugger attached successfully.
@@ -84,20 +84,20 @@ Deadlock Detection:
 java.lang.RuntimeException: Unable to deduce type of thread from address...
 ```
 这个错误提示不明确，实际上是由于执行jstack的user和java process的owner不一致
-```bash 
+```console 
 #查看26191进程的owner
 > ps -ef | grep 26191
 > sudo -u owner jstack -l 26191
 ```
 如果出现lib找不到, 文件目录不存在，按照下面处理排除错误
 #### cannot open shared object file
-```bash 
+```console 
 > sudo -u owner jstack -l 26191> ls -al /
 drwx------   7 root root     4096 May 24 06:10 root
 ./jstack: error while loading shared libraries: libjli.so: cannot open shared object file: No such file or directory
 ```
 这种错误实际上是由于当前目录执行权限不足造成
-```bash 
+```console 
 #查看执行路径权限
 > pwd
 /root/jdk/bin
@@ -107,13 +107,13 @@ drwx------   7 root root     4096 May 24 06:10 root
 > sudo -u owner jstack -l 26191 > stack.log
 ```
 #### Can't attach to the process: ptrace
-```bash 
+```console 
 sudo -u nsx ./jmap 1180    
 Attaching to process ID 1180, please wait...
 Error attaching to process: sun.jvm.hotspot.debugger.DebuggerException: Can't attach to the process: ptrace(PTRACE_ATTACH, ..)...
 ```
 这种错误是由于系统ptrace(process trace)没有设定成调试模式
-```bash 
+```console 
 #临时修改方案是将内核变量修改,重启后会失效
 #不过有些系统并无此文件/proc/sys/kernel/yama/ptrace_scope
 $ echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
@@ -127,7 +127,7 @@ kernel.yama.ptrace_scope = 0
 
 ### 命令
 #### jps
-```bash 
+```console 
 #查看当前jvm实例
  > jps
 4048 Jps
@@ -140,7 +140,7 @@ kernel.yama.ptrace_scope = 0
 9578 com.intellij.idea.Main
 ```
 #### jstack
-```bash 
+```console 
 #查看当前stack信息
 #connect to running process
 #-m to print both java and native frames (mixed mode)
@@ -155,7 +155,7 @@ kernel.yama.ptrace_scope = 0
 > jstack -m -l /usr/bin/java core.dump
 ```
 #### jmap
-```bash 
+```console 
 #dump当前堆信息
 # -dump:<dump-options> to dump java heap in hprof binary format
 #		<dump-options>
@@ -227,7 +227,7 @@ num     #instances         #bytes  class name
 ...  
 ```
 #### jinfo
-```bash 
+```console 
 #查看当前jvm实例的信息
  > jinfo 29620
 ...
@@ -242,7 +242,7 @@ java.vm.version = 1.6.0-rc-b100
 ```
 #### jstat
 查看及诊断当前jvm实例的性能问题
-```bash 
+```console 
 #Samples for Generation Collection
 # 2834 is process id
 # 250 is time period
@@ -281,7 +281,7 @@ Timestamp    OGCMN     OGCMX       OGC        OC   YGC   FGC     FGCT     GCT
 
 #### javap
 反汇编字节码文件
-```bash
+```console
 # -s Print internal type signatures
 > javap -s java.lang.String | less
 
@@ -291,4 +291,26 @@ Timestamp    OGCMN     OGCMX       OGC        OC   YGC   FGC     FGCT     GCT
 # -v Print more details of instruments
 # -p Print private fields/methods
 > javap -v -p HelloWorld
+```
+
+#### Arthas
+- [Diagnostic Tool Arthas](https://github.com/alibaba/arthas)
+- [中文手册](https://arthas.gitee.io/trace.html)
+```console
+# 下载运行包
+curl -O https://alibaba.github.io/arthas/arthas-boot.jar
+# 启动进程
+java -jar arthas-boot.jar
+
+# 如果目标jvm是jre启动，需要找一个对于jdk版本
+cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
+# 如果目标jre lib中缺少tools.jar，需要从jdk中复制一份
+cp /usr/java/jdk1.8.0_251/lib/tools.jar /usr/java/jre1.8.0_251/lib
+
+# 如果目标jvm不是root用户权限启动，例如是proton用户执行
+chown -hR proton arthas-boot.jar 
+# 把执行包从root目录移动到proton用户权限目录中
+mv arthas-boot.jar /opt/app/proton-tomcat
+# 用proton用户权限启动进程，attach到 jvm 3331进程
+sudo -u proton /usr/java/jdk1.8.0_251/bin/java -jar /opt/app/proton-tomcat/arthas-boot.jar 3331
 ```
