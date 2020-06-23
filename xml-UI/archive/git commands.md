@@ -331,6 +331,9 @@ $git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
 # 列出当前目录及子目录中所有文件
 git ls-files
 
+# 查找Example.java 是否存在当前branch中
+git ls-files | grep Example.java
+
 # 统计当前目录及子目录中所有文件的行数
 git ls-files | xargs cat | wc -l
 ```

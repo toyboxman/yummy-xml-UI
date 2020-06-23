@@ -2445,33 +2445,28 @@ cat /proc/net/arp
 ```
 
 #### tcpdump
-> [Link](https://danielmiessler.com/study/tcpdump/#examples)
++ [Tcpdump Http Tutorial](https://danielmiessler.com/study/tcpdump/#examples)
++ [Tcpdump Http Examples](https://hackertarget.com/tcpdump-examples/)
 ```console
 # show all interfaces
-tcpdump -D  
+$ tcpdump -D  
+1.eth0 [Up, Running]
+2.any (Pseudo-device that captures on all interfaces) [Up, Running]
+3.lo [Up, Running, Loopback]
+4.nflog (Linux netfilter log (NFLOG) interface)
+5.nfqueue (Linux netfilter queue (NFQUEUE) interface)
+
 # capture packet from interface p1
-tcpdump -vvv -i p1    
-# listen src&dest host packet, -A (ascii)  -vvv (the most detailed verbose output)
+tcpdump -vvv -i p1
+    
+# 在hostname上，listen 所有 src&dest 为此机器的host packet 
+# -A (ascii)  
+# -vvv (the most detailed verbose output)
 tcpdump -A -vvv -n host hostname  
   
 # dump record into capture.cap file, 可以通过wireshark portable版本来查看
-tcpdump -v -w capture.cap     
+tcpdump -v -w capture.cap   
 
-# read pcap file
-tcpdump -tttt -r capture.cap
-2019-07-11 06:43:54.086105 IP vm11-dhcp.56980 > 04-dhcp117.6831: UDP, length 3
-tcpdump -tttt -nnr capture.cap 
-2019-07-11 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
-tcpdump -qns 0 -A -r capture.cap
-06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
-E...VV@.@..t
-.Hy
-u.u......b....
-tcpdump -qns 0 -X -r capture.cap
-06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
-        0x0000:  4500 001f 5656 4000 4011 8274 0aa1 4879  E...VV@.@..t..Hy
-        0x0010:  0a75 0475 de94 1aaf 000b 6220 0a17 0c    .u.u......b....
-    
 # listen eth0
 tcpdump -i eth0
 # listen all interfaces
@@ -2480,7 +2475,6 @@ tcpdump -i any
 tcpdump -n dst net 192.168.1.0/24  
 tcpdump -n src net 192.168.1.0/24  
 tcpdump -n net 192.168.1.0/24 
-
 
 # -c 20: Exit after capturing 20 packets.
 # -s 0: Don't limit the amount of payload data that is printed out. Print it all.
@@ -2492,6 +2486,34 @@ tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
 
 # 捕获与10.117.4.117往来udp报文
 tcpdump -i eth0 host 10.117.4.117 and udp -w capture.cap
+
+# 捕获当前host上loopback接口相关所有http Post报文
+$ tcpdump -vvAls0 -i lo | grep 'POST'
+POST /cm-inventory/api/v1/cm-plugin-container/cm-plugins/d5be1b62-3f5f-44fb-8f30-20729bbeb41b?action=execute_request HTTP/1.1
+# 捕获当前host上loopback接口相关所有http Post并且header为spanId/traceId报文
+$ tcpdump -vvAls0 -i lo | grep -E "(POST /cm-inventory|spanId:|traceId:)"
+POST /cm-inventory/api/v1/cm-plugin-container/cm-plugins/d5be1b62-3f5f-44fb-8f30-20729bbeb41b?action=execute_request HTTP/1.1
+traceId: -1514301144170483167
+spanId: -1514301144170483167
+
+# read pcap file
+# 按主机+端口->主机+端口 查阅pcap文件记录的报文信息
+tcpdump -tttt -r capture.cap
+2019-07-11 06:43:54.086105 IP vm11-dhcp.56980 > 04-dhcp117.6831: UDP, length 3
+# 按IP+端口->IP+端口模式 查阅pcap文件记录的报文信息
+tcpdump -tttt -nnr capture.cap 
+2019-07-11 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
+# 按IP+端口->IP+端口模式 查阅pcap文件记录的ascii报文内容
+tcpdump -qns 0 -A -r capture.cap
+06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
+E...VV@.@..t
+.Hy
+u.u......b....
+# 按IP+端口->IP+端口模式 查阅pcap文件记录的 binary+ascii 报文内容
+tcpdump -qns 0 -X -r capture.cap
+06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
+        0x0000:  4500 001f 5656 4000 4011 8274 0aa1 4879  E...VV@.@..t..Hy
+        0x0010:  0a75 0475 de94 1aaf 000b 6220 0a17 0c    .u.u......b....
 ```
 #### nmap
 ```console
