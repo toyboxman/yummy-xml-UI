@@ -24,13 +24,13 @@
     + [汇总日志](#exp1)
     + [设定网络配置](#exp2)
     + [SSH+EXPECT](#exp3)
-    + [bash输入参数处理](#exp4)
+    + [Bash输入参数处理](#exp4)
     + [Expect远程操作](#exp5)
     + [update jar文件并重启服务](#exp6)
 	+ [根据输入选择执行分支](#exp7)
 	+ [循环读写REST API,计算执行时间](#exp8)
 	+ [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
-	+ [编写函数](#exp10)
+	+ [Bash函数定义](#exp10)
 	+ [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
 	+ [列出大型文件系统中文件,目录](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
 	+ [重启或启动时执行脚本](https://mp.weixin.qq.com/s/Cu4B0yNSm_pV9d9b-ssXAQ)
@@ -570,7 +570,8 @@ interact
 <div id = "exp4"></div>
 
 * bash输入参数处理
-	> [tips](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)<br>
+	- [Special Shell Variables](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)
+	- [优雅地处理shell参数](https://mp.weixin.qq.com/s/FNw574sOa5cVe4hsPhyWQw)
 	- parameter type
 	```console
 	# the name of the command executing
@@ -944,7 +945,9 @@ fi
 
 <div id = "exp10"></div>  
 
-* 编写函数, [处理参数](http://www.freeos.com/guides/lsst/advance01.html)
+* 编写bash函数
+	+ [处理函数参数](http://www.freeos.com/guides/lsst/advance01.html)
+	+ [定义函数](https://mp.weixin.qq.com/s/-aFndwOUi95rEdYAciO57A)
 ```console
 #!/bin/sh
 # 脚本名称 parameter.sh

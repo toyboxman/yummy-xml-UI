@@ -108,6 +108,7 @@
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
     - [History](#history)
+    - [Kill](#kill)
     - [Less](https://mp.weixin.qq.com/s/qfAsQBnU6YBwiW2SYne1kg)
     - [Link/ln/unlink](#ln)
     - [Man/col/cheat/tldr](#man)
@@ -747,7 +748,9 @@ usermod -G root,test  test
 
 ### Usual command
 #### env
-[config env](https://mp.weixin.qq.com/s/mSgsrZrQX8lmO0vc1dYrlA)
+env, printenv用来查看当前的bash环境变量
++ [config环境变量](https://mp.weixin.qq.com/s/mSgsrZrQX8lmO0vc1dYrlA)
++ [source命令将函数和变量导入Bash](https://mp.weixin.qq.com/s/yZl0Q401ouLlWdII4HAd4w)
 ```console
 env | more
 printenv | less
@@ -1720,8 +1723,10 @@ dos2unix file
 ```
 
 #### Hd/Od
-[hexdump, hd](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615031&idx=1&sn=a700b7e2c0c94ddc9d9a927a9add599f) — ASCII, decimal, hexadecimal, octal dump   
-od - dump files in octal and other formats
+把文件按照ASCII, decimal, hexadecimal, octal格式来dump出来
++ [hexdump, hd](https://mp.weixin.qq.com/s/OdnmyjMBE5ODqZMefSiYHw) 
++ [od/jp2a 查看文件内容](https://mp.weixin.qq.com/s/cLNxB-Jhv-tWown9LzBsOA)
+
 ```console
 # -c 输入字符串按字节逐个显示字符,offset中对应显示16进制格式 
 echo xxxxxxCONTROL-V CONTROL-U | hd -c
@@ -2199,20 +2204,20 @@ cat a.log
 
 ---
 
-#### kill process
-* send signal
-A process can be sent a SIGTERM signal in three ways (the process ID is '1234' in this case):
+#### kill
+可以通过如下三种方式发送SIGTERM signal给指定进程
 ```console
 kill 1234
 kill -TERM 1234
 kill -15 1234
 ```
-The process can be sent a SIGKILL signal in two ways:
+可以通过如下两种方式发送SIGKILL signal给指定进程
 ```console
 kill -KILL 1234
 kill -9 1234
 ```
-
+如果-9操作失败，还可以通过-HUP终结僵尸进程
++ [kill -9 进程杀不掉](https://mp.weixin.qq.com/s/TIazT0XF-kC0d8fXTx_ALg)
 ---
 
 #### Vim

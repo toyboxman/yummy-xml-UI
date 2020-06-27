@@ -18,6 +18,7 @@
     - [Linux性能分析工具合集](https://mp.weixin.qq.com/s/eileWRLhdHgK_hHUHholtQ)
     - [systemd-analyze分析Linux启动时间](https://mp.weixin.qq.com/s/4Yc4s_fCyvuafJmBqFHK8g)
 	- [ARP攻击和防御](https://mp.weixin.qq.com/s/jwGbMwbLz6PDauhecEFVYg)
+    - [Prometheus踩坑集锦](https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw)
 
 + ***Blockchain***
     - [以太坊简介](https://mp.weixin.qq.com/s/YmzAFTT5jjCCTnzp9VSCgw)   
@@ -31,7 +32,8 @@
     - [go/java/python效率测试](https://mp.weixin.qq.com/s/d2dw2d-LLVT3DtgJOtdiag)
 
 + ***Microservice***
-    + 构建微服务架构([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))
+    - 构建微服务架构([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))
+    - Java微服务指南[[1](https://mp.weixin.qq.com/s/_Wz7NweA1NV3-hTD0yA1Rg), [2](https://mp.weixin.qq.com/s/aO5Ocl48jNo7MNUOkbTwCw)]
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)
 	- [微服务的经验教训](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
     - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)  
@@ -76,6 +78,7 @@
     - [文件系统](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
         - [虚拟内存](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
+    - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
     - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)
     - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
     - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
@@ -101,16 +104,18 @@
     - [getopt/optparse/argparse解析命令行参数](https://mp.weixin.qq.com/s/1b4kUhW7w2xDTeJeJJZx-w)
     - [FastAPI构建Web服务](https://mp.weixin.qq.com/s/i9HQpaU902Vt7kv0_tRFKw)
     - [kite-编写python代码的AI工具](https://mp.weixin.qq.com/s/q5GTpgxVPdBhufLTSP5mNw)
-    - [Heartrate执行可视化工具](https://mp.weixin.qq.com/s/Ihjr1qHtKrZFdW7GbtZcPQ)
-	- [Octave绘制数据](https://mp.weixin.qq.com/s/Nb2ci6d5MhoRoepu6G3YdQ)
-	- [读取电子表格](https://mp.weixin.qq.com/s/otJKMe-HYOp06TyAGk0DVQ)
-    - [Python可视化COVID-19预测](https://mp.weixin.qq.com/s/R0dYPvrdVvwF0vb0SM0-HA)
-	- [比Excel更强大的可视化库Altair](https://mp.weixin.qq.com/s/t3Bm8KEbLCbPlMPSQcpbvw)
-	- [8个流行的可视化工具包](https://mp.weixin.qq.com/s/dRdFTBF7phHwKatPLjpOjA)
-    - [Pandas并行处理实现](https://mp.weixin.qq.com/s/t4B0z2nA3lJUmuJIHrsHNw)
-	- [Python任务自动化/命令行工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)
+    - [Python任务自动化/命令行工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)
 	- [Python调试设置不中断的断点](https://mp.weixin.qq.com/s/4dSVY1lJk4Edz05LC7J1pA)
     - [pyenv运行多个版本的Python](https://mp.weixin.qq.com/s/1VqcfrEAveAbU5zF0HsWyw)
+    - 绘制数据
+        - [Heartrate执行可视化工具](https://mp.weixin.qq.com/s/Ihjr1qHtKrZFdW7GbtZcPQ)
+	    - [Octave绘制数据](https://mp.weixin.qq.com/s/Nb2ci6d5MhoRoepu6G3YdQ)
+	    - [读取电子表格](https://mp.weixin.qq.com/s/otJKMe-HYOp06TyAGk0DVQ)
+        - [Python可视化COVID-19预测](https://mp.weixin.qq.com/s/R0dYPvrdVvwF0vb0SM0-HA)
+	    - [比Excel更强大的可视化库Altair](https://mp.weixin.qq.com/s/t3Bm8KEbLCbPlMPSQcpbvw)
+	    - [8个流行的可视化工具包](https://mp.weixin.qq.com/s/dRdFTBF7phHwKatPLjpOjA)
+        - [7种绘制数据方法](https://mp.weixin.qq.com/s/tVnLER0GBQDdOJoQphlQnA)
+        - [Pandas并行处理实现](https://mp.weixin.qq.com/s/t4B0z2nA3lJUmuJIHrsHNw)
 + ***Go***    
     - [basic](go/go-basic.md)
     - [Golang编译器原理](https://mp.weixin.qq.com/s/uparU_6pApv8aPlVPeX_Tg)
@@ -306,8 +311,10 @@
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
     - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)
+    - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)
     - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)
++ [MongoDB基本操作](https://mp.weixin.qq.com/s/5iELiClx17sXLKk_BRdy0w)
 
 #### Bigdata
 + [spark](big-data/spark.md)
@@ -352,6 +359,7 @@
 	- [谷歌大脑Trax](https://mp.weixin.qq.com/s/tLAzDnAr5a2TwafE4Jg91g)
     - [用AI翻译500种语言](https://mp.weixin.qq.com/s/as8grEpPtuOlKbpGs8TqvA)
     - [语音识别为何缺失ImageNet类似资料库](https://mp.weixin.qq.com/s/OyKnqLz5ZpCd7g7XspYnhw)
+    - [TensorFlow.js识别海量图标](https://mp.weixin.qq.com/s/sGaXe9QXPAZAy-ga-aJnVQ)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
@@ -594,6 +602,8 @@ done
 春秋五霸之首齐桓公“盟而不用歃”（不举行歃血的仪式）时所解释的那样的，“盟而有信，歃无所加；盟而无信，用歃何为”--国与国之间契约的牢固，关键在于信用和互信，而不在于一时、一地的签约仪式。
 
 每临大事有静气。不要急，急也没用
+
+见过世面的人，看到最好的，不以物喜；知晓最坏的，不以己悲。乱花渐欲，不坠青云志，腹有诗书，不夸夸其谈
 
 万物同理，减法永远比加法难，正如郑板桥一句诗：“删繁就简三秋树，领异标新二月花”。
 
