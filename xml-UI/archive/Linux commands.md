@@ -11,7 +11,7 @@
 > [commands](https://github.com/jaywcjlove/linux-command#%E7%9B%AE%E5%BD%95)
 
 ---
-- [Monitor System Information](#monitor-system-information)
+- Monitor System Information
     - [Troubleshooting](https://mp.weixin.qq.com/s/h12_2oWhjKSZncQyR_EMug)
         - [Debug Operation](#debug)
             - [Gdb](#gdb)
@@ -37,23 +37,22 @@
         - [Tripwire/chattr/sudo/sealert安全保护](https://mp.weixin.qq.com/s/dK6YUGt4eiDY4rkDKE3cUg)
         - [PAM设置密码复杂度](https://mp.weixin.qq.com/s/Z9lfg8EUex61HVPgiFy9bw)
     - System Management
-        - [List System Details](#list-system-details)
-            - [更新grub](https://mp.weixin.qq.com/s/yFPmr1AWjMMSoTgW_pTzeA)
-            - [Show Linux Version](#show-linux-version)
-            - [hwinfo/lshw/lscpu/lsblk/nproc/dmidecode](#hwinfo)
-            - [free](#free)
-        - [List Kernel Modules/lsmod/ldd](#list-kernel-modules)
-            - [Kconfig/Kbuild内核配置构建](https://mp.weixin.qq.com/s/qGe50Rg4HoE47fbfduc2iA)
-            - [Update kernel](https://mp.weixin.qq.com/s/MbEON4WHmgk5pI6g31LE3g)
-        - [List Services Port](#list-services-port)
+        - [dmesg](#list-system-details)
+        - [Show Linux Version](#show-linux-version)
         - [Top](#top)
+        - [free](#free)
+        - [w/uptime/cal](#wuptimecal)
         - [date](#date)
+        - [List Linux Services Port](#list-services-port)
+        - [hwinfo/lshw/lscpu/lsblk/nproc/dmidecode](#hwinfo)
+        - [List Kernel Modules-(lsmod/ldd)](#list-kernel-modules)
         - [journalctl](#journalctl)
         - [sysctl](#sysctl)
         - [ulimit](#ulimit)
         - [systemctl](#systemctl)
         - [chkconfig](#chkconfig)
         - [Turn off Console Color](#turn-off-console-color)
+        - [更新grub](https://mp.weixin.qq.com/s/yFPmr1AWjMMSoTgW_pTzeA)
         - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
             + [ntp同步检测](https://mp.weixin.qq.com/s/1FCXBd0X0h7BRPL8Q0JGOA)
             + [timedatectl同步时区时间](https://mp.weixin.qq.com/s/jOWjBRPc1zXbMRBF66A5rw)
@@ -160,12 +159,221 @@ Platform Redhat Enterprise Server
 ### Monitor system information
 
 #### list system details
+dmesg命令可以用来显示系统详细信息
 ```console
 dmesg | less
 ```
 
+#### show Linux version
++ [查找Linux版本和内核详细信息](https://mp.weixin.qq.com/s/p5UVPneMpxeJHhCpKTwipg)
+```console
+cat /etc/*-release
+cat /etc/issue
+cat /proc/version
+uname -a
+```
+
+#### top
++ [批处理模式下运行top](https://mp.weixin.qq.com/s/T3nZRjEHEUUMeaLWUCif1w)
++ [top找出 CPU占用高的进程](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ)
+```console
+# list processes/memory etc.
+# 'h' for help content
+# 'z' enable color
+# 'R' for sort of columns
+# 'x' highlight sorted column
+# '<'，'>' move highlighted column sorted
+top
+
+# list two processes
+top -p1846 -p20607
+
+# save top output in file
+# -b instructs top to operate in batch mode
+# -n specify the amount of iteration the command should output
+top -b -n 1 > top.log
+
+# 按batch模式将678进程迭代3轮top数据导出
+# -p specify process id
+top -p 678 -b -n3 > process.log
+# 把process.log中cpu/mem usage数据过滤出
+grep 678 process.log | awk '{print $9, $10}' > cpu-mem.log
+
+# 可以计算出batch模式下默认迭代top时间是2秒
+date; top -p678 -b -n3 > top.log; date
+Mon Feb 17 07:42:20 UTC 2020
+Mon Feb 17 07:42:26 UTC 2020
+# 迭代次数越多时间应该拉长了，100次变成298秒，而不是200秒
+date; top -p678 -b -n100 > top.log; date
+Mon Feb 17 07:48:26 UTC 2020
+Mon Feb 17 07:53:24 UTC 2020
+
+# redirect loop output
+# 定制top迭代的间隔时间
+for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
+```
+
+#### free
+```console
+# show memory info by mega
+free -m
+
+# show memory info by giga
+free -g
+
+# show memory details
+cat /proc/meminfo
+```
+
+#### w/uptime/cal
+```console
+$ w
+06:31:39 up 2 days, 4 min,  1 user,  load average: 2.84, 2.83, 2.54
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+root     pts/0    10.117.5.175     Tue06    1.00s  0.59s  0.59s -bash
+
+$ uptime
+06:32:09 up 2 days, 5 min,  1 user,  load average: 2.82, 2.83, 2.55
+
+$ cal
+    October 2019      
+Su Mo Tu We Th Fr Sa  
+             1    2    3   4   5  
+ 6   7    8    9   10 11 12  
+13 14 15  16  17 18 19  
+20 21 22  23  24 25 26  
+27 28 29  30  31       
+```
+
+#### date
++ [date命令](https://mp.weixin.qq.com/s/aBEkv53rBNlt4hfy5M37aQ)  
++ [时间格式参数](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
+```console
+# %y	last two digits of year (00..99)
+# %d	day of month (e.g, 01)
+# %m	month (01..12)
+date +"%m-%d-%y"
+10-31-19
+
+# %D	date same as %m/%d/%y
+date +"%D"
+10/31/19
+
+# %Y	four digits of year
+# %M	minute (00..59)
+# %H	hour (00..23)
+# %I	hour (01..12)
+# %S	second (00..60)
+date +"%m-%d-%Y %H:%M:%S"
+10-31-2019 08:28:27
+
+# %T	time same as %H:%M:%S
+date +"%m-%d-%y-%T"
+10-31-19-08:14:15
+
+# %N	nanoseconds (000000000..999999999)
+# %s	seconds since 1970-01-01 00:00:00 UTC
+date +"%D %T:%N"
+10/31/19 08:34:34:093112244
+date +"%D %T:%s"
+10/31/19 08:34:56:1572510896
+
+# 加减时间，只能支持整数类型
+#
+# 将系统时间往前调20秒
+# s, --set=STRING    将系统时间调整成STRING指定时间 
+date -s "+20 seconds"
+# 系统调整为如下时间
+date -s '2009-02-13 11:31:30'
+date -s 'next day'
+date -s 'tomorrow'
+date -s 'last day'
+date -s 'yesterday'
+date -s 'friday'
+date -s 'next year'
+date -s 'last year'
+date -s 'last month'
+date -s 'next month'
+
+# 显示当前时间和一小时之后时间
+# -d, --date=STRING   解析显示STRING参数传入的date
+date +'%T'; date -d "+1 hours 10 minutes 5 seconds" +'%T'
+09:07:57
+10:18:02
+date +'%T'; date -d "-10 minutes" +'%T'
+09:10:05
+09:00:05
+
+# 把date结果作为参数给echo
+echo `date +"%D"`
+10/31/19
+
+date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
+2019
+
+# 计算两次date时间差
+start=`date +'%s'`
+# 按seconds格式转换date
+end=`date +'%s'`
+# start/end是作为字符串处理的，若要进行运算，shell需要使用$(())
+duration=$(($end-$start))
+echo "call execution time $duration seconds"
+```
+
+#### list services port
++ [查找服务的端口号](https://mp.weixin.qq.com/s/lnNZDWtKX_NEixo5dxbZTw)
+```console
+$ getent services http ssh
+http                  80/tcp
+ssh                   22/tcp
+
+$ grep ssh /etc/services 
+ssh                22/tcp       # The Secure Shell (SSH) Protocol  [RFC4251]
+ssh                22/udp       # The Secure Shell (SSH) Protocol  [RFC4251]
+ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
+```
+
+#### hwinfo
+查阅系统的硬件信息
+```console
+# see netcard hardware information
+hwinfo --netcard
+```
++ [lshw 查阅硬件规格的详细信息](https://mp.weixin.qq.com/s/EpBb2A_WivPgRmcEsjOcSQ)
+```console
+# 查看cpu硬件信息
+lshw | grep cpu
+```
++ lsblk 显示硬盘信息
++ lscpu 显示处理单元信息
+```console
+# 有些linux发行版支持lscpu
+lscpu
+# 直接查看描述文件
+cat /proc/cpuinfo
+# 查看CPU个数
+cat /proc/cpuinfo | grep 'physical id' | sort | uniq | wc -l
+# 查看CPU物理核数
+cat /proc/cpuinfo | grep 'cpu cores' | sort | uniq
+# 查看CPU逻辑核数
+cat /proc/cpuinfo | grep 'siblings' | sort | uniq
+```
++ nproc 显示处理单元的核心数
+```console
+# prints out the number of processing units available
+nproc
+```
++ dmidecode 显示DMI表的信息
+```console
+# dumping a computer DMI (some say SMBIOS) table contents in a human-readable format
+# 过滤显示出主板上cpu信息 -t 4 cpu的type是4
+dmidecode -t 4
+```
+
 #### list kernel modules
-Linux提供一些检查[kernel module](https://mp.weixin.qq.com/s/S85Pin7WiPtaXzTCruAIYw)的命令
++ [管理kernel module](https://mp.weixin.qq.com/s/S85Pin7WiPtaXzTCruAIYw)
++ [更新kernel module](https://mp.weixin.qq.com/s/MbEON4WHmgk5pI6g31LE3g)
++ [Kconfig/Kbuild进行内核构建](https://mp.weixin.qq.com/s/qGe50Rg4HoE47fbfduc2iA)
 ```console
 lsmod
 Module                  Size  Used by
@@ -174,8 +382,11 @@ af_packet              45056  0
 iscsi_ibft             16384  0 
 iscsi_boot_sysfs       20480  1 iscsi_ibft
 ```
-[ldd命令+osquery](https://mp.weixin.qq.com/s/TDonkVzTpWEVQfrJpVTvjw)可以检查任何程序文件使用的共享库(so或dll)。LD_PRELOAD环境变量是在进程启动时加载共享库的最简单且最受欢迎的方法，可以将此环境变量配置到共享库的路径，以便在加载其他共享对象之前加载该共享库。
++ [ldd检查程序文件使用的共享库(so或dll)](https://mp.weixin.qq.com/s/TDonkVzTpWEVQfrJpVTvjw)
++ [osquery检测库注入](https://mp.weixin.qq.com/s/TDonkVzTpWEVQfrJpVTvjw)
 ```console
+# LD_PRELOAD环境变量是在进程启动时加载共享库的最简单且最受欢迎的方法
+# 可以将此环境变量配置到共享库的路径，以便在加载其他共享对象之前加载该共享库
 export LD_PRELOAD=/home/showme.so
 ldd /usr/bin/ls
         linux-vdso.so.1 (0x00007ffe75d87000)
@@ -187,15 +398,6 @@ ldd /usr/bin/ls
         libdl.so.2 => /lib64/libdl.so.2 (0x00007fc398b74000)
         /lib64/ld-linux-x86-64.so.2 (0x00007fc3997b7000)
         libpthread.so.0 => /lib64/libpthread.so.0 (0x00007fc398957000)
-```
-
-#### show Linux version
-+ [查找Linux版本和内核详细信息](https://mp.weixin.qq.com/s/p5UVPneMpxeJHhCpKTwipg)
-```console
-cat /etc/*-release
-cat /etc/issue
-cat /proc/version
-uname -a
 ```
 
 #### show network details
@@ -258,18 +460,6 @@ du -h /home | sort -hr | less
 17G     /home/king/source
 9.5G    /home/king/source/gitlab
 6.2G    /home/king/source/gitlab/nsx
-```
-
-#### free
-```console
-# show memory info by mega
-free -m
-
-# show memory info by giga
-free -g
-
-# show memory details
-cat /proc/meminfo
 ```
 
 #### device
@@ -369,141 +559,6 @@ sam:rwgroup::r--
 mask::rwother::r--
 ```
 
-#### top
-+ [批处理模式下运行top](https://mp.weixin.qq.com/s/T3nZRjEHEUUMeaLWUCif1w)
-+ [top找出 CPU占用高的进程](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ)
-```console
-# list processes/memory etc.
-# 'h' for help content
-# 'z' enable color
-# 'R' for sort of columns
-# 'x' highlight sorted column
-# '<'，'>' move highlighted column sorted
-top
-
-# list two processes
-top -p1846 -p20607
-
-# save top output in file
-# -b instructs top to operate in batch mode
-# -n specify the amount of iteration the command should output
-top -b -n 1 > top.log
-
-# save process top output
-# -p specify process id
-top -p 678 -b -n3 > process.log
-# 把process.log中cpu/mem usage数据过滤出
-grep 678 process.log | awk '{print $9, $10}' > cpu-mem.log
-
-# 可以计算出batch模式下默认迭代top时间是2秒
-date; top -p678 -b -n3 > top.log; date
-Mon Feb 17 07:42:20 UTC 2020
-Mon Feb 17 07:42:26 UTC 2020
-# 迭代次数越多时间应该拉长了，100次变成298秒，而不是200秒
-date; top -p678 -b -n100 > top.log; date
-Mon Feb 17 07:48:26 UTC 2020
-Mon Feb 17 07:53:24 UTC 2020
-
-# redirect loop output
-# 定制top迭代的间隔时间
-for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
-```
-
-#### w/uptime/cal
-```console
-w
-06:31:39 up 2 days, 4 min,  1 user,  load average: 2.84, 2.83, 2.54
-USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
-root     pts/0    10.117.5.175     Tue06    1.00s  0.59s  0.59s -bash
-
-uptime
-06:32:09 up 2 days, 5 min,  1 user,  load average: 2.82, 2.83, 2.55
-
-cal
-    October 2019      
-Su Mo Tu We Th Fr Sa  
-             1    2    3   4   5  
- 6   7    8    9   10 11 12  
-13 14 15  16  17 18 19  
-20 21 22  23  24 25 26  
-27 28 29  30  31       
-```
-
-#### date
-+ [date命令](https://mp.weixin.qq.com/s/aBEkv53rBNlt4hfy5M37aQ)  
-+ [时间格式参数](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
-```console
-# %y	last two digits of year (00..99)
-# %d	day of month (e.g, 01)
-# %m	month (01..12)
-date +"%m-%d-%y"
-10-31-19
-
-# %D	date same as %m/%d/%y
-date +"%D"
-10/31/19
-
-# %Y	four digits of year
-# %M	minute (00..59)
-# %H	hour (00..23)
-# %I	hour (01..12)
-# %S	second (00..60)
-date +"%m-%d-%Y %H:%M:%S"
-10-31-2019 08:28:27
-
-# %T	time same as %H:%M:%S
-date +"%m-%d-%y-%T"
-10-31-19-08:14:15
-
-# %N	nanoseconds (000000000..999999999)
-# %s	seconds since 1970-01-01 00:00:00 UTC
-date +"%D %T:%N"
-10/31/19 08:34:34:093112244
-date +"%D %T:%s"
-10/31/19 08:34:56:1572510896
-
-# 加减时间，只能支持整数类型
-#
-# 将系统时间往前调20秒
-# s, --set=STRING    将系统时间调整成STRING指定时间 
-date -s "+20 seconds"
-# 系统调整为如下时间
-date -s '2009-02-13 11:31:30'
-date -s 'next day'
-date -s 'tomorrow'
-date -s 'last day'
-date -s 'yesterday'
-date -s 'friday'
-date -s 'next year'
-date -s 'last year'
-date -s 'last month'
-date -s 'next month'
-
-# 显示当前时间和一小时之后时间
-# -d, --date=STRING   解析显示STRING参数传入的date
-date +'%T'; date -d "+1 hours 10 minutes 5 seconds" +'%T'
-09:07:57
-10:18:02
-date +'%T'; date -d "-10 minutes" +'%T'
-09:10:05
-09:00:05
-
-# 把date结果作为参数给echo
-echo `date +"%D"`
-10/31/19
-
-date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
-2019
-
-# 计算两次date时间差
-start=`date +'%s'`
-# 按seconds格式转换date
-end=`date +'%s'`
-# start/end是作为字符串处理的，若要进行运算，shell需要使用$(())
-duration=$(($end-$start))
-echo "call execution time $duration seconds"
-```
-
 #### sysctl
 sysctl用来修改runtime时kernel parameters. 这类的参数被保存在/proc/sys/, sysctl命令可以读写sysctl data
 ```console
@@ -552,19 +607,6 @@ session required pam_limits.so
 # restart or logout and login and try the following command
 ulimit -n
 65535
-```
-
-#### list services port
-可以通过[***getent***](https://mp.weixin.qq.com/s/lnNZDWtKX_NEixo5dxbZTw)或grep命令来实现
-```console
-getent services http ssh
-http                  80/tcp
-ssh                   22/tcp
-
-grep ssh /etc/services 
-ssh                22/tcp       # The Secure Shell (SSH) Protocol  [RFC4251]
-ssh                22/udp       # The Secure Shell (SSH) Protocol  [RFC4251]
-ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
 ```
 
 #### systemctl 
@@ -655,34 +697,6 @@ ls --color=never
 # permanently turn-off via adding " alias ls='ls --color=never' " in .bashrc
 ```
 通过alias-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664612965&idx=3&sn=e970df20ee0ca36d14deb3dad5232924),  [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614310&idx=2&sn=ed24581eeef6369457250ef599dca913)可以自己构建的命令
-
-#### hwinfo
-```console
-# see netcard hardware information
-hwinfo --netcard
-```
-还可以通过***lshw***[查看硬件规格的详细信息](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614844&idx=3&sn=69177e23e332ca7fe24e134babee8879)
-```console
-# 查看cpu硬件信息
-lshw | grep cpu
-# 有些linux发行版lscpu
-lscpu
-# 直接查看描述文件
-cat /proc/cpuinfo
-# 查看CPU个数
-cat /proc/cpuinfo | grep 'physical id' | sort | uniq | wc -l
-# 查看CPU物理核数
-cat /proc/cpuinfo | grep 'cpu cores' | sort | uniq
-# 查看CPU逻辑核数
-cat /proc/cpuinfo | grep 'siblings' | sort | uniq
-
-# prints out the number of processing units available
-nproc
-
-# dumping a computer's DMI (some say SMBIOS) table contents in a human-readable format
-# 过滤显示出主板上cpu信息 -t 4 cpu的type是4
-dmidecode -t 4
-```
 
 #### lsof
 ```console
