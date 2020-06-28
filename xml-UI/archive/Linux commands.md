@@ -51,35 +51,36 @@
         - [ulimit](#ulimit)
         - [systemctl](#systemctl)
         - [chkconfig](#chkconfig)
-        - [Turn off Console Color](#turn-off-console-color)
+        - [Alias/Turn off Console Color](#turn-off-console-color)
         - [更新grub](https://mp.weixin.qq.com/s/yFPmr1AWjMMSoTgW_pTzeA)
         - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
             + [ntp同步检测](https://mp.weixin.qq.com/s/1FCXBd0X0h7BRPL8Q0JGOA)
-            + [timedatectl同步时区时间](https://mp.weixin.qq.com/s/jOWjBRPc1zXbMRBF66A5rw)
+            + [timedatectl 同步时区时间](https://mp.weixin.qq.com/s/jOWjBRPc1zXbMRBF66A5rw)
     - Disk Management
-        - [LVM](#lvm)
         - [df/du](#dfdu)
         - [lsof](#lsof)
         - [stat/getfacl/setfacl](#statgetfaclsetfacl)
+        - [LVM](#lvm)
         - iotop/iostat/htop/Monit/IPTraf[[1](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w), [2](https://mp.weixin.qq.com/s/flTlgzJbmSpUza9OoN6A0g)]    
         - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
-        - [undo 'rm -f'](https://mp.weixin.qq.com/s/FHhWaIzMN2afAM6jlzZdsA)
-        - [释放rm文件后占用的空间](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg)
+        - 文件删除
+          - [undo 'rm -f'](https://mp.weixin.qq.com/s/FHhWaIzMN2afAM6jlzZdsA)
+          - [释放rm文件后占用的空间](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg)
     - Device Management
         - [ZERO/NULL/Random/dd](#device)
         - [fallocate/dd/truncate创建大文件](https://mp.weixin.qq.com/s/eiPW7GakKpTwTCuhTaP6gA)
     - [Network Management](#network-config)        
         - [Show Network Details](#show-network-details)
-        - [ethtool](https://mp.weixin.qq.com/s/3zl4NIbcm710sTt_a_gTkw)
         - [Firewall/iptables/ufw/nftables](#iptablesfirewall)
         - [NC/netcat](#nc)
         - [Ping](#pingarping)
-        - [ss-Socket Statistics](https://mp.weixin.qq.com/s/jRjEQ2ekkH2CYh2OW3rHWw)
         - [Nmap](#nmap)
         - [Tcpdump](#tcpdump)
         - [Dhclient](#dhclient)
         - [Route](#route)
         - [Show IP/Name Pair In DNS](#nslookup-dig)
+        - [ethtool 管理以太网卡](https://mp.weixin.qq.com/s/3zl4NIbcm710sTt_a_gTkw)
+        - [ss-Socket Statistics 网络检测](https://mp.weixin.qq.com/s/jRjEQ2ekkH2CYh2OW3rHWw)
         - [mtr检测网络联通性](https://mp.weixin.qq.com/s/-DWPyHyGD_Lvdyp8KNSQ5w)
         - [网络测速工具fast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
         - [bmon查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
@@ -151,12 +152,8 @@
 - [Shell Programming](shell%20programming.md)
 - [Image Operation](#vm-image-operation)
 ---
-
-Platform Redhat Enterprise Server
-
----
-
 ### Monitor system information
+---
 
 #### list system details
 dmesg命令可以用来显示系统详细信息
@@ -400,163 +397,38 @@ ldd /usr/bin/ls
         libpthread.so.0 => /lib64/libpthread.so.0 (0x00007fc398957000)
 ```
 
-#### show network details
-+ [检查网卡信息](https://mp.weixin.qq.com/s/fRUmwKVXSuTHLaQSwC3rQQ)
+#### journalctl
++ [查询systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
 ```console
-# list ip local port range
-cat /proc/sys/net/ipv4/ip_local_port_range
+# list system log reversely
+journalctl -r
+-- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
+Oct 15 09:26:08 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Emitting configChanged()
+Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Output 71 : connected = true , enabled = true
 
-# list all ports used by system services
-cat /etc/services | less
-# find which port is used by db2 connection
-grep db2c_DB2 /etc/services
+# list following system log, like tail -f
+journalctl -f
 
-# list all network interfaces name, like 'ifconfig -a'
-ls -1 /sys/class/net
-# find eth0 mtu setting
-cat /sys/class/net/eth0/mtu
-1500
-# find eth0 speed setting
-cat /sys/class/net/eth0/speed
-1000
-```
+# list recent 3 records
+journalctl -n 3
+-- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
+Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr:         Primary: true
+Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Output 71 : connected = true , enabled = true
+Oct 15 09:26:08 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Emitting configChanged()
 
-#### df/du
-+ [获取Linux中的目录大小](https://mp.weixin.qq.com/s/5iNd0C5rxH7buTPHfaTEqg)
-```console
-# show current folder disk info
-# -h size unit using Giga
-# -m size unit using Mega
-# --max-depth= 目录的打印深度
-df -h
+# check journal log size
+journalctl --disk-usage
+Archived and active journals take up 16.0M on disk.
 
-# -T, --print-type
-# show disk info with file system type
-df -T
-
-# -t, --type=TYPE
-# limit listing to file systems of type TYPE
-df -Tht xfs
-Filesystem     Type  Size  Used  Avail  Use%  Mounted on
-/dev/sda3        xfs    37G   28G  9.4G   75%    /home
-
-# -s, --summarize display only a total for each argument
-# show current folder utilization info
-du -sh
-2.4G    .
-
-du -h
-1.6G    ./legacy
-840M    ./nsx
-2.4G    .
-
-# count home utilization and sort by descending
-# sort parameters
-# -r, --reverse reverse the result of comparisons
-# -h, --human-numeric-sort compare human readable numbers (e.g., 2K 1G)
-du -h /home | sort -hr | less
-28G     /home/king
-28G     /home
-17G     /home/king/source
-9.5G    /home/king/source/gitlab
-6.2G    /home/king/source/gitlab/nsx
-```
-
-#### device
-Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。 
-+ [Linux的特殊文件](https://mp.weixin.qq.com/s/odOpV5INmu8tfegyjgU_bg)
-包括 普通文件/目录(d)/符号链接/套接字(s)/块设备(b)/字符设备(c)/管道
-+ dd copy一个文件并按照操作符进行转换和格式化
-```console
-# 随机产生一个大小69M的二进制格式文件，文件名test
-# if指定输入文件 
-# of指定输出文件
-# bs指定每次读写的字节数
-# count指定读写的次数
-dd if=/dev/urandom of=test bs=1M count=69
-
-# 产生一个text文件，大小为786K，文件名test
-dd if=/dev/urandom bs=786438 count=1 | base64 > test
-```
-+ [zero](https://en.wikipedia.org/wiki//dev/zero)
-可以读出任意大小的内容，如1k，1M，100M，所有内容均为0。可以用来做内存初始化，模拟读写开销，参看[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)
-```console
-# 随机生成一批文件
-# seq 1000产生1..1000数列
-# xargs -i 指定用1..1000分别替换后部分命令字符串中{}
-# dd 用来产生文件
-seq 1000 | xargs -i dd if=/dev/zero of={}.xjj bs=1k count=256
-```
-+ [random](https://en.wikipedia.org/wiki//dev/random)
-通过内核来产生随机数
-```console
-# 通过dd命令产生一个指定size的文件
-[root@localhost ~]# dd if=/dev/urandom of=test bs=1M count=69
-69+0 records in
-69+0 records out
-72351744 bytes (72 MB) copied, 0.446161 s, 162 MB/s
-
-[root@localhost ~]# du -h test
-69M    test
-```
-+ [null](https://en.wikipedia.org/wiki/Null_device)
- /dev/null是数据容器，常常用来丢弃数据流，有点类似垃圾箱功能, 你可以把所有不想保留的和不想回显的都重定向过去。
-```console
-echo "hi there" > /dev/null
-# 当从/dev/null读取数据,获得会是empty，因此可以用来清空文件
-ls -l messages
--rw-r--r-- 1 max pubs 25315 Oct 24 10:55 messages
-# 把messages文件清空，文件大小变为0
-cat /dev/null > messages
-# file size becomes zero
-ls -l messages
--rw-r--r-- 1 max pubs 0 Oct 24 11:02 messages
-
-# redirects stdout to null
-ls > /dev/null
-# 上条命令的shortcut
-ls 1 > /dev/null
-
-# redirects stderr to null
-ls 2 > /dev/null
-
-# redirects stdout and stderr to null
-ls &> /dev/null
-
-# 后台运行list命令,丢弃stdout and stderr中输出
-# Using 2>&1 will redirect stderr to stdout
-ls > /dev/null 2>&1 &
-
-# Using 1>&2 will redirect stdout to stderr
-ls > /dev/null 1>&2
-```
-
-#### stat/getfacl/setfacl
-通过[***stat***](https://mp.weixin.qq.com/s/j4afP8mTHCXLiONr1wnyhg)命令可以获取文件包括权限在内的完整信息
-```console
-# display the maximum length of a filename
-# Namelen: is the maximum number of characters permitted in 
-# a filename on the specified filesystem (/home)
-# –f option tells stat to display filesystem status instead of file status
-stat -f /home | grep -i name
-ID: 48fef7d1240ee054 Namelen: 255     Type: ext2/ext3
-
-# displays the same information as an ls –l command, albeit in a different format
-getfacl /home
-# file: home
-# owner: root
-# group: root
-user::rwx
-group::r-x
-other::r-x
-
-# -x option removes ACL rules for a user or a group
-# -m == --modify
-setfacl --modify u:sam:rw- report == setfacl --modify u:sam:6 report
-getfacl --omit-header report
-user::rwuser:
-sam:rwgroup::r--
-mask::rwother::r--
+# list sshd service log by json format
+journalctl -b -u sshd -o json-pretty
+{
+        "MESSAGE_ID" : "7d4958e842da4a758f6c1cdc7b36dcc5",
+        "_CMDLINE" : "/usr/lib/systemd/systemd --switched-root --system --deserialize 23",
+        "UNIT" : "sshd.service",
+        "MESSAGE" : "Starting OpenSSH Daemon...",
+        "_SOURCE_REALTIME_TIMESTAMP" : "1537263825319040"
+}
 ```
 
 #### sysctl
@@ -640,40 +512,6 @@ Aug 29 10:46:30 suse-leap systemd[1]: Mounted /home.
 systemctl link /path/to/servicename.service
 ```
 
-#### journalctl
-+ [查询systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
-```console
-# list system log reversely
-journalctl -r
--- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
-Oct 15 09:26:08 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Emitting configChanged()
-Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Output 71 : connected = true , enabled = true
-
-# list following system log, like tail -f
-journalctl -f
-
-# list recent 3 records
-journalctl -n 3
--- Logs begin at Wed 2018-08-29 18:52:44 CST, end at Mon 2018-10-15 09:26:08 CST. --
-Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr:         Primary: true
-Oct 15 09:26:07 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Output 71 : connected = true , enabled = true
-Oct 15 09:26:08 suse-leap org.kde.KScreen[2160]: kscreen.xrandr: Emitting configChanged()
-
-# check journal log size
-journalctl --disk-usage
-Archived and active journals take up 16.0M on disk.
-
-# list sshd service log by json format
-journalctl -b -u sshd -o json-pretty
-{
-        "MESSAGE_ID" : "7d4958e842da4a758f6c1cdc7b36dcc5",
-        "_CMDLINE" : "/usr/lib/systemd/systemd --switched-root --system --deserialize 23",
-        "UNIT" : "sshd.service",
-        "MESSAGE" : "Starting OpenSSH Daemon...",
-        "_SOURCE_REALTIME_TIMESTAMP" : "1537263825319040"
-}
-```
-
 #### chkconfig
 enable or disable system services
 ```console
@@ -690,24 +528,164 @@ systemctl disable mysql
 ```
 
 #### turn off console color
-通过管理[环境变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614303&idx=1&sn=ae14179470cf3d2253566e6571b0dc49)可以对console进行配置
++ [定义自己的命令](https://mp.weixin.qq.com/s/wYfYLQxUk-ckT0LyBv9pjQ)
++ [别名保护服务](https://mp.weixin.qq.com/s/Kyn7NVX_vpOWSwdDnphA6w)
 ```console
-ls --color=never
-
-# permanently turn-off via adding " alias ls='ls --color=never' " in .bashrc
+# 如果希望永久关闭颜色方案可以在 .bashrc 增加 " alias ls='ls --color=never' "
+$ ls --color=never
 ```
-通过alias-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664612965&idx=3&sn=e970df20ee0ca36d14deb3dad5232924),  [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614310&idx=2&sn=ed24581eeef6369457250ef599dca913)可以自己构建的命令
+
+---
+#### df/du
++ [获取Linux中的目录大小](https://mp.weixin.qq.com/s/5iNd0C5rxH7buTPHfaTEqg)
+```console
+# show current folder disk info
+# -h size unit using Giga
+# -m size unit using Mega
+# --max-depth= 目录的打印深度
+df -h
+
+# -T, --print-type
+# show disk info with file system type
+df -T
+
+# -t, --type=TYPE
+# limit listing to file systems of type TYPE
+df -Tht xfs
+Filesystem     Type  Size  Used  Avail  Use%  Mounted on
+/dev/sda3        xfs    37G   28G  9.4G   75%    /home
+
+# -s, --summarize display only a total for each argument
+# show current folder utilization info
+du -sh
+2.4G    .
+
+du -h
+1.6G    ./legacy
+840M    ./nsx
+2.4G    .
+
+# count home utilization and sort by descending
+# sort parameters
+# -r, --reverse reverse the result of comparisons
+# -h, --human-numeric-sort compare human readable numbers (e.g., 2K 1G)
+du -h /home | sort -hr | less
+28G     /home/king
+28G     /home
+17G     /home/king/source
+9.5G    /home/king/source/gitlab
+6.2G    /home/king/source/gitlab/nsx
+```
 
 #### lsof
 ```console
 # list opened files 列出打开了的文件
-lsof | less
+$ lsof | less
 COMMAND     PID   TID       USER   FD      TYPE             DEVICE  SIZE/OFF       NODE NAME
 ntpd       1181              ntp  rtd       DIR               0,38       294        256 /
 ntpd       1181              ntp  txt       REG               0,38    859304    7010720 /usr/sbin/ntpd
 ntpd       1181              ntp  mem       REG               0,38     88280    7228151 /lib64/libz.so.1.2.8
 ntpd       1181              ntp  mem       REG               0,38     18712    7297500 /lib64/libdl-2.22.so
 ```
+
+#### stat/getfacl/setfacl
++ [stat获取文件权限完整信息](https://mp.weixin.qq.com/s/j4afP8mTHCXLiONr1wnyhg)
+```console
+# display the maximum length of a filename
+# Namelen: is the maximum number of characters permitted in 
+# a filename on the specified filesystem (/home)
+# –f option tells stat to display filesystem status instead of file status
+$ stat -f /home | grep -i name
+ID: 48fef7d1240ee054 Namelen: 255     Type: ext2/ext3
+
+# displays the same information as an ls –l command, albeit in a different format
+$ getfacl /home
+# file: home
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# -x option removes ACL rules for a user or a group
+# -m == --modify
+$ setfacl --modify u:sam:rw- report == setfacl --modify u:sam:6 report
+$ getfacl --omit-header report
+user::rwuser:
+sam:rwgroup::r--
+mask::rwother::r--
+```
+---
+#### device
+Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。 
++ [Linux的特殊文件](https://mp.weixin.qq.com/s/odOpV5INmu8tfegyjgU_bg)
+包括 普通文件/目录(d)/符号链接/套接字(s)/块设备(b)/字符设备(c)/管道
++ dd copy一个文件并按照操作符进行转换和格式化
+```console
+# 随机产生一个大小69M的二进制格式文件，文件名test
+# if指定输入文件 
+# of指定输出文件
+# bs指定每次读写的字节数
+# count指定读写的次数
+dd if=/dev/urandom of=test bs=1M count=69
+
+# 产生一个text文件，大小为786K，文件名test
+dd if=/dev/urandom bs=786438 count=1 | base64 > test
+```
++ [zero](https://en.wikipedia.org/wiki//dev/zero)
+可以读出任意大小的内容，如1k，1M，100M，所有内容均为0。可以用来做内存初始化，模拟读写开销，参看[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)
+```console
+# 随机生成一批文件
+# seq 1000产生1..1000数列
+# xargs -i 指定用1..1000分别替换后部分命令字符串中{}
+# dd 用来产生文件
+seq 1000 | xargs -i dd if=/dev/zero of={}.xjj bs=1k count=256
+```
++ [random](https://en.wikipedia.org/wiki//dev/random)
+通过内核来产生随机数
+```console
+# 通过dd命令产生一个指定size的文件
+[root@localhost ~]# dd if=/dev/urandom of=test bs=1M count=69
+69+0 records in
+69+0 records out
+72351744 bytes (72 MB) copied, 0.446161 s, 162 MB/s
+
+[root@localhost ~]# du -h test
+69M    test
+```
++ [null](https://en.wikipedia.org/wiki/Null_device)
+ /dev/null是数据容器，常常用来丢弃数据流，有点类似垃圾箱功能, 你可以把所有不想保留的和不想回显的都重定向过去。
+```console
+echo "hi there" > /dev/null
+# 当从/dev/null读取数据,获得会是empty，因此可以用来清空文件
+ls -l messages
+-rw-r--r-- 1 max pubs 25315 Oct 24 10:55 messages
+# 把messages文件清空，文件大小变为0
+cat /dev/null > messages
+# file size becomes zero
+ls -l messages
+-rw-r--r-- 1 max pubs 0 Oct 24 11:02 messages
+
+# redirects stdout to null
+ls > /dev/null
+# 上条命令的shortcut
+ls 1 > /dev/null
+
+# redirects stderr to null
+ls 2 > /dev/null
+
+# redirects stdout and stderr to null
+ls &> /dev/null
+
+# 后台运行list命令,丢弃stdout and stderr中输出
+# Using 2>&1 will redirect stderr to stdout
+ls > /dev/null 2>&1 &
+
+# Using 1>&2 will redirect stdout to stderr
+ls > /dev/null 1>&2
+```
+---
+
 
 #### activate account
 下面操作通过chsh来解锁账户，锁定解锁账户还可以通过[passwd-usermod](https://mp.weixin.qq.com/s/1GMmbERptpLW1lH4b6IN3g)来实现
@@ -2278,6 +2256,26 @@ Shift+Insert   |  粘贴系统剪贴板内容
 ---
 
 ### Network Config
+#### show network details
++ [检查网卡信息](https://mp.weixin.qq.com/s/fRUmwKVXSuTHLaQSwC3rQQ)
+```console
+# list ip local port range
+cat /proc/sys/net/ipv4/ip_local_port_range
+
+# list all ports used by system services
+cat /etc/services | less
+# find which port is used by db2 connection
+grep db2c_DB2 /etc/services
+
+# list all network interfaces name, like 'ifconfig -a'
+ls -1 /sys/class/net
+# find eth0 mtu setting
+cat /sys/class/net/eth0/mtu
+1500
+# find eth0 speed setting
+cat /sys/class/net/eth0/speed
+1000
+```
 
 #### iptables/firewall
 + iptables tutorial[[1](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules), [2](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)]
@@ -2943,9 +2941,9 @@ resize2fs /dev/sda1 25400M
 ---
 
 ### VM Image operation
-+ [ Cockpit 创建虚拟机](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615918&idx=2&sn=fe9da1050eeae55ef8523da17e7c64ae)
++ [ Cockpit 创建虚拟机](https://mp.weixin.qq.com/s/tGd1dub5bE7D-peBE9nDAQ)
 
-* guestfish
+* guestfish管理镜像文件
 ```console
 virt-copy-out -a controller.vmdk /opt/nvp/etc/api_server.conf ./
 virt-copy-in -a controller.vmdk api_server.conf /opt/nvp/etc
