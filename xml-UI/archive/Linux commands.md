@@ -73,7 +73,7 @@
         - [Show Network Details](#show-network-details)
         - [Firewall/iptables/ufw/nftables](#iptablesfirewall)
         - [NC/netcat](#nc)
-        - [Ping](#pingarping)
+        - [Ping/Arping](#pingarping)
         - [Nmap](#nmap)
         - [Tcpdump](#tcpdump)
         - [Dhclient](#dhclient)
@@ -2393,7 +2393,8 @@ SYN URGP=0
 #### nc
 + [nc开启后门](https://www.jianshu.com/p/c6226ddc0ec4)
 + [base64上传下载图片](https://www.imydl.tech/linux/689.html)
-+ [网速吞吐量测试](https://mp.weixin.qq.com/s/E1M5ro-S1NHAhzkk3ZinNw)
++ [网速吞吐量测试](https://mp.weixin.qq.com/s/E1M5ro-S1NHAhzkk3ZinNw)   
+
 check remote port status
 ```console
 # PORT SCANNING
