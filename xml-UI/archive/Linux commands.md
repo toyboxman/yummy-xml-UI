@@ -899,7 +899,7 @@ find / -iname '*.tgz' -exec rm {} \;
 ```
 
 #### history
-+ [history命令快捷方式](https://mp.weixin.qq.com/s/pL46hqLthGUkqYCWEkv3Hw)
++ history命令快捷方式[[1](https://mp.weixin.qq.com/s/pL46hqLthGUkqYCWEkv3Hw), [2](https://mp.weixin.qq.com/s/cpgVkuAmPxFZqRisud1YTQ)]
 
 list系统执行过的命令
 ```console

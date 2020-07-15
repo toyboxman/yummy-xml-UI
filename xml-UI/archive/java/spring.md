@@ -50,7 +50,7 @@ Spring Boot应用的入口是设定此annotation class的main method，会自动触发auto-confi
 
 - **@Component**
 
-表明被声明的class是一个"component"，使用自动配置和classpath scanning时候，这样的classes能够被自动找到(auto-detection)。其他class-level annotations也可被认为声明一个component。e.g. @Repository annotation or AspectJ's @Aspect annotation。
+表明被声明的class是一个"component"，使用自动配置和classpath scanning时候，这样的classes能够被自动找到(auto-detection)。其他class-level annotations也可被认为声明一个component。e.g. **@Repository** annotation or AspectJ's **@Aspect** annotation。
 
 - **@Service**
 
@@ -352,6 +352,36 @@ public class ListenerConfig {
 #### bean creation order
 Spring自动产生bean实例的时候可以指定先后顺序，通过[**@Order**](https://www.baeldung.com/spring-order), [**@DependsOn**](https://www.baeldung.com/spring-depends-on)可以让bean顺序产生
 
+如果希望了解spring容器中每一个bean创建的实际顺序，可以打开[log4j2.xml选项](https://docs.spring.io/spring/docs/4.3.26.RELEASE/spring-framework-reference/htmlsingle/#overview-logging)
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+  <Appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+  </Appenders>
+  <Loggers>
+    <!-- org.springframework.beans.factory负责bean的产生 -->
+    <Logger name="org.springframework.beans.factory" level="DEBUG"/>
+      <!-- 指定日志输出的appender -->
+      <AppenderRef ref="Console"/>
+  </Loggers>
+</Configuration>
+```
+等日志完整输出之后，可以查询到bean创建顺序
+```console
+$ grep -in ajimpl /var/log/restart.log 
+1968:2020-07-13T12:51:05.241Z DEBUG coordinationEventsProcessor-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'policyConnectivityFacadeImplAjImpl'
+1972:2020-07-13T12:51:05.244Z DEBUG coordinationEventsProcessor-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'segmentServiceImplAjImpl'
+
+# 查看bean创建顺序
+$ grep -in 'singleton bean' /var/log/restart.log | less
+10:2020-07-13T12:50:04.303Z DEBUG localhost-startStop-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+14:2020-07-13T12:50:04.696Z DEBUG localhost-startStop-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'IntegrationConfigurationBeanFactoryPostProcessor'
+15:2020-07-13T12:50:04.953Z DEBUG localhost-startStop-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+```
+
 <div id = "u2s2"></div>
 
 #### bean reference
@@ -500,13 +530,45 @@ public class MyclassAspect {
     @Autowired
     private MyBean bean;
 ```
-用aspect工具weave compile上述代码，运行的时候发现bean始终为null, 关于此[问题讨论](https://stackoverflow.com/questions/9633840/spring-autowired-bean-for-aspect-aspect-is-null). 原因简言之aspect bean是一个在Spring container之外创建的单例对象，因此无法被注入. 解决办法就是用**@configuration**来配置, 还可以用[其他方式](https://blog.csdn.net/zlp1992/article/details/81037529)
+用aspect工具weave compile上述代码，运行的时候发现bean始终为null, 关于此[问题讨论](https://stackoverflow.com/questions/9633840/spring-autowired-bean-for-aspect-aspect-is-null). 原因简言之aspect bean是一个在Spring container之外创建的单例对象，因此无法被注入. 解决办法就是用 **@configuration** 来配置, 还可以用[其他方式](https://blog.csdn.net/zlp1992/article/details/81037529)
 ```java
 @Aspect
 @Configurable(autowire = Autowire.BY_TYPE)
 public class MyclassAspect {
     @Autowired
     private MyBean bean;
+```
+如果在运行时出现 MyBean NoSuchBeanDefinitionException，并且使用lazy inject也无法解决，就需要考虑可能aspect定义的pointcut和目标类有冲突。遇到过此类问题，比如
+```java
+# 希望pointcut对PolicyFacadeImpl所有方法都生效
+# 但PolicyFacadeImpl有些方法不能植入切面，造成autowire失败
+@Aspect
+@Configurable(autowire = Autowire.BY_TYPE)
+public class MyclassAspect {
+    @Autowired
+    private MyBean bean;
+
+    @Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.*(..))")
+    public void tracePointCut() {
+    }
+    ...
+}
+
+# PolicyFacadeImpl 有一个@PostConstruct的initialize初始化方法
+# 似乎再植入切面会造成不可预知的冲突，具体细节spring没有给出更详细日志
+# 似乎有些class层面的初始化方法也会有冲突
+@Aspect
+@Service
+public class PolicyFacadeImpl {
+    @PostConstruct
+    private void initialize() {...}
+    ...
+}
+
+# 如果把pointcut中所有方法改成部分方法，异常就得到解决，spring启动正常
+@Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.create*(..))")
+public void tracePointCut() {
+}
 ```
 
 <div id = "u4"></div>

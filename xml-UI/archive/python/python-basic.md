@@ -11,17 +11,18 @@
 	- [thread/kill/sizeof](#s1)
 	- [file](#s2)
 - [Python CLI](#python-cli)
-- [Pythonä»£ç ç‰‡æ®µ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=1&sn=b9f43826f2570989d53830576d62be0f)
-- [Pythonéšè—æŠ€å·§](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217662&idx=1&sn=b02d808640a3564dfa56677a7711c508)
-- [Pythonä»£æ›¿Excel](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217203&idx=3&sn=038247853987b685add5298ce8314a10)
-- [awkè„šæœ¬ç§»æ¤åˆ° Python](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615781&idx=1&sn=388c77b41cf6ef490024dde7651fff1b)
-- [Pandasæ•°æ®æ“ä½œ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217294&idx=2&sn=70bc94cc6a6da5823bca73d2262aa645)
-- [Python Snippet-éšæœºæ•°/æ–‡ä»¶è·¯å¾„/æ’åº/å­—ç¬¦ä¸²](https://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=2650743777&idx=5&sn=e46f94a69d734bb40bfae4ab3537a4da)
-- [Pythonå®ç°11ç§æ•°æ®é™ç»´ç®—æ³•](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247493923&idx=3&sn=760f6f6bb561f54bcf902de76c1a37a2)
-- [Python å›¾åƒç¼–è¾‘](https://linux.cn/article-10679-1.html)
-- [Python+Scribusåšæ¸²æŸ“](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=1&sn=9f0a072257f284eab2b2cb993361926b)
-- Pythonå®ç°Game-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664609878&idx=2&sn=b968cada284149de49b672967715c18c),  [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614166&idx=1&sn=e6e5f6db8e49a48dbdf845dfeb4287a7),  [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614188&idx=3&sn=4346b0c0b8c9a2baecbbc0f82550131b),  [**4**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614216&idx=3&sn=cbd92c452bc3a13754d6cde62d1708a1),  [**5**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614234&idx=3&sn=5a9eb0b4e95a2aee08d620dbfd25304a)
-- [ Pythonæ¸¸æˆä¸­æ¨¡æ‹Ÿå¼•åŠ›](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616063&idx=2&sn=ef6a5dc247ec6981a591a95b1cfa0fb7)
+- [½¨Á¢Python»·¾³µÄ¹¤¾ß](https://mp.weixin.qq.com/s/rTag8BRfDkMOqq_tQupX-w)
+- [Python´úÂëÆ¬¶Î](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=1&sn=b9f43826f2570989d53830576d62be0f)
+- [PythonÒş²Ø¼¼ÇÉ](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217662&idx=1&sn=b02d808640a3564dfa56677a7711c508)
+- [Python´úÌæExcel](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217203&idx=3&sn=038247853987b685add5298ce8314a10)
+- [awk½Å±¾ÒÆÖ²µ½ Python](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615781&idx=1&sn=388c77b41cf6ef490024dde7651fff1b)
+- [PandasÊı¾İ²Ù×÷](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650217294&idx=2&sn=70bc94cc6a6da5823bca73d2262aa645)
+- [Python Snippet-Ëæ»úÊı/ÎÄ¼şÂ·¾¶/ÅÅĞò/×Ö·û´®](https://mp.weixin.qq.com/s?__biz=MjM5MDAxNjkyMA==&mid=2650743777&idx=5&sn=e46f94a69d734bb40bfae4ab3537a4da)
+- [PythonÊµÏÖ11ÖÖÊı¾İ½µÎ¬Ëã·¨](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247493923&idx=3&sn=760f6f6bb561f54bcf902de76c1a37a2)
+- [Python Í¼Ïñ±à¼­](https://linux.cn/article-10679-1.html)
+- [Python+Scribus×öäÖÈ¾](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614674&idx=1&sn=9f0a072257f284eab2b2cb993361926b)
+- PythonÊµÏÖGame-[**1**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664609878&idx=2&sn=b968cada284149de49b672967715c18c),  [**2**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614166&idx=1&sn=e6e5f6db8e49a48dbdf845dfeb4287a7),  [**3**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614188&idx=3&sn=4346b0c0b8c9a2baecbbc0f82550131b),  [**4**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614216&idx=3&sn=cbd92c452bc3a13754d6cde62d1708a1),  [**5**](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614234&idx=3&sn=5a9eb0b4e95a2aee08d620dbfd25304a)
+- [ PythonÓÎÏ·ÖĞÄ£ÄâÒıÁ¦](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616063&idx=2&sn=ef6a5dc247ec6981a591a95b1cfa0fb7)
 - [Python top10](https://www.chainnews.com/articles/589066036994.htm)
 ***
 
@@ -38,7 +39,7 @@
     list = list([1,2,3])
     print(list)
     del list
-    # é€šè¿‡rangeäº§ç”Ÿæ•°åˆ— [1, 11)
+    # Í¨¹ırange²úÉúÊıÁĞ [1, 11)
     list = [x for x in range(1,11)]
     print(list)
     list = [x ** 2  for x in range (1, 11)   if  x % 2 == 1] 
@@ -57,16 +58,16 @@
     ```python
     a = [0, 1, 2, 3, 4, 5]
     print(a)
-    # æˆªå–é¡ºæ•°ç¬¬ä¸‰è‡³æœ«å°¾æ•°æ®
+    # ½ØÈ¡Ë³ÊıµÚÈıÖÁÄ©Î²Êı¾İ
     print(a[2 : None])
-    # æˆªå–é¡ºæ•°ç¬¬å››è‡³æœ«å°¾æ•°æ®
+    # ½ØÈ¡Ë³ÊıµÚËÄÖÁÄ©Î²Êı¾İ
     print(a[3 :])
-    # æˆªå–é¡ºæ•°ç¬¬å››å€’æ•°ç¬¬ä¸€ä¹‹é—´æ•°æ®ï¼Œä¸åŒ…å«å€’æ•°ç¬¬ä¸€çš„â€˜5â€™
-    # liståŒºé—´æ•°å­¦è¡¨ç¤º [3 : 6)
+    # ½ØÈ¡Ë³ÊıµÚËÄµ¹ÊıµÚÒ»Ö®¼äÊı¾İ£¬²»°üº¬µ¹ÊıµÚÒ»µÄ¡®5¡¯
+    # listÇø¼äÊıÑ§±íÊ¾ [3 : 6)
     print(a[3 : -1])
-    # æˆªå–é¡ºæ•°ç¬¬ä¸€è‡³å€’æ•°ç¬¬ä¸€é—´æ•°æ®ï¼Œä¸åŒ…å«å€’æ•°ç¬¬ä¸€
-    # ç­‰ä»·print(a[0 : -1]) ï¼Œ print(a[None : -1])
-    # liståŒºé—´æ•°å­¦è¡¨ç¤º [0 : 6)
+    # ½ØÈ¡Ë³ÊıµÚÒ»ÖÁµ¹ÊıµÚÒ»¼äÊı¾İ£¬²»°üº¬µ¹ÊıµÚÒ»
+    # µÈ¼Ûprint(a[0 : -1]) £¬ print(a[None : -1])
+    # listÇø¼äÊıÑ§±íÊ¾ [0 : 6)
     print(a[: -1])
     ```
     output
@@ -100,13 +101,13 @@
     ```python
     a =["Geeks", "for", "Geeks"] 
     # print the list using join function() 
-    # ç©ºæ ¼ä½œä¸ºåˆ†éš”ç¬¦
+    # ¿Õ¸ñ×÷Îª·Ö¸ô·û
     print(' '.join(a)) 
     # print the list by converting a list of  integers to string  
     a = [0, 1, 2, 3, 4, 5] 
-    # listè½¬æˆstringåä¼šå¸¦ä¸Šä¸­æ‹¬å·
+    # list×ª³Éstringºó»á´øÉÏÖĞÀ¨ºÅ
     print(str(a))
-    # ç›¸å½“äºå¯¹å­—ç¬¦ä¸²åšsliceï¼Œå»æ‰æ”¶å°¾ä¸­æ‹¬å·ç¬¦
+    # Ïàµ±ÓÚ¶Ô×Ö·û´®×öslice£¬È¥µôÊÕÎ²ÖĞÀ¨ºÅ·û
     print(str(a)[1:-1])
     ```
     output
@@ -258,21 +259,21 @@ TypeError: fun() takes exactly 4 arguments (1 given)
 ```
 - **[print](http://blog.sina.com.cn/s/blog_46d0362d0101cu1w.html)**
 ```python
-# æ‰“å°è°ƒç”¨æ ˆ 
+# ´òÓ¡µ÷ÓÃÕ» 
 import traceback  
 traceback.print_stack()
 
-# æ‰“å°æ—¶é—´ç‚¹ 
+# ´òÓ¡Ê±¼äµã 
 import datetime  
 now = datetime.datetime.now().time().isoformat()  
 print now
 
-# æ‰“å°æ—¶é—´å’Œæ‰§è¡Œè¡Œå·
+# ´òÓ¡Ê±¼äºÍÖ´ĞĞĞĞºÅ
 import inspect
 f = lambda: inspect.currentframe().f_code.co_filename + ':' + str(inspect.currentframe().f_lineno);
 print f()
 
-# æŒ‰ç…§jsonæ ¼å¼æ‰“å°dict/hashmap
+# °´ÕÕjson¸ñÊ½´òÓ¡dict/hashmap
 import json
 print json.dumps([{'name': k, 'value' : v} for k, v in image_meta.items()], indent = 4)
 [
@@ -308,7 +309,7 @@ print json.dumps([{'name': k, 'value' : v} for k, v in image_meta.items()], inde
 <div id = "t1"></div>
 
 ### json
-Pythonä¸­å¯ä»¥å¾ˆè½»æ¾åœ°å¤„ç†JSONæ•°æ®ï¼Œè¿›è¡Œå¤šç§[è¯»å†™æ“ä½œ](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614724&idx=2&sn=69f5b1c5bbbc159870189440a89cc741)
+PythonÖĞ¿ÉÒÔºÜÇáËÉµØ´¦ÀíJSONÊı¾İ£¬½øĞĞ¶àÖÖ[¶ÁĞ´²Ù×÷](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614724&idx=2&sn=69f5b1c5bbbc159870189440a89cc741)
 ```python
 import json
 # load json string
@@ -401,9 +402,9 @@ x = "0123456789"
 # Prints substring from 2nd to 5th character, excluding 5th
 # [2..5)
 print (x[2:5])
-# æˆªå–[2..5)å­ä¸²å¹¶ä¸”ä¸¢å¼ƒå…¶ä¸­ç¬¬äºŒä¸ªå­—ç¬¦
+# ½ØÈ¡[2..5)×Ó´®²¢ÇÒ¶ªÆúÆäÖĞµÚ¶ş¸ö×Ö·û
 print (x[2:5:2])
-# ä»åå¾€å‰æˆªå–[2..5)
+# ´ÓºóÍùÇ°½ØÈ¡[2..5)
 print(x[-5:-2])
 ```
 output
@@ -414,15 +415,15 @@ output
 ```
 - **[Strings Formatting](https://www.geeksforgeeks.org/python-format-function/)**
 ```python
-# æ ¼å¼å‚æ•°æ•°ç›®å’Œå®é™…ä¼ å…¥å€¼æ•°ç›®è¦ä¸€è‡´
+# ¸ñÊ½²ÎÊıÊıÄ¿ºÍÊµ¼Ê´«ÈëÖµÊıÄ¿ÒªÒ»ÖÂ
 my_string = "{}, is a {} {} science portal for {}"
 print (my_string.format("GeeksforGeeks", "computer", "geeks")) 
 
 print("{1} love {0}!!".format("GeeksforGeeks", "Geeks")) 
 
-# awkå‘½ä»¤è‡ªå¸¦{}ä¼šè¢«è®¤ä¸ºæ˜¯formatå‚æ•°å¯¼è‡´é”™è¯¯
+# awkÃüÁî×Ô´ø{}»á±»ÈÏÎªÊÇformat²ÎÊıµ¼ÖÂ´íÎó
 ping_check = "ping -I {0} -i 1 -c 3 -W 2 {1} | tail -n +7 | head -n -2 | awk '{print $1, $4}'"
-# è¿™ç§æ ¼å¼åŒ–å¯ä»¥æŠŠåŸå§‹å­—ç¬¦ä¸²æ‹†å¼€ï¼Œé¿å…è§£æå¤±è´¥
+# ÕâÖÖ¸ñÊ½»¯¿ÉÒÔ°ÑÔ­Ê¼×Ö·û´®²ğ¿ª£¬±ÜÃâ½âÎöÊ§°Ü
 ping_check = "ping -I {0} -i 1 -c 3 -W 2 {1} | tail -n +7 | head -n -2"
 cmd_awk = " | awk '{print $1, $4}'"
 format_ping_check = ping_check.format("eth0", "10.0.0.1") + cmd_awk
@@ -438,9 +439,9 @@ Geeks love GeeksforGeeks!!
 ```
 - **Strings Spliting**
 ```python
-# å°†ç½‘å¡æŸ¥è¯¢ç»“æœæŒ‰æ¢è¡Œç¬¦è½¬æˆæ•°ç»„
-# å»æ‰æ¯ä¸ªelementçš„å‰åç©ºç™½ç¬¦
-# è¿‡æ»¤æ‰ç©ºç™½element
+# ½«Íø¿¨²éÑ¯½á¹û°´»»ĞĞ·û×ª³ÉÊı×é
+# È¥µôÃ¿¸öelementµÄÇ°ºó¿Õ°×·û
+# ¹ıÂËµô¿Õ°×element
 nic_list = set([y for y in (x.strip() for x in ipconfig_nics.splitlines()) if y])
 ```
 
@@ -473,13 +474,13 @@ more [details](https://www.tutorialspoint.com/python3/python_files_io.htm)
 
 ## Python CLI
 - **install pip**   
-pipæ˜¯pythonä½¿ç”¨çš„åŒ…ä¾èµ–ç®¡ç†å·¥å…·ï¼Œå¦‚æœä½¿ç”¨Python3.4ä»¥ä¸Šç‰ˆæœ¬æˆ–è€…virtualenv or pyvenvåˆ›å»ºVirtual Environment,é»˜è®¤pipéƒ½æ˜¯è‡ªå¸¦çš„ï¼Œåªéœ€upgrade pip.   
-    + [å®‰è£…pipæ“ä½œè¯´æ˜](https://pip.pypa.io/en/stable/installing/)
+pipÊÇpythonÊ¹ÓÃµÄ°üÒÀÀµ¹ÜÀí¹¤¾ß£¬Èç¹ûÊ¹ÓÃPython3.4ÒÔÉÏ°æ±¾»òÕßvirtualenv or pyvenv´´½¨Virtual Environment,Ä¬ÈÏpip¶¼ÊÇ×Ô´øµÄ£¬Ö»Ğèupgrade pip.   
+    + [°²×°pip²Ù×÷ËµÃ÷](https://pip.pypa.io/en/stable/installing/)
         ```console
         curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
         python get-pip.py
         ```
-    + [åœ¨è™šæ‹Ÿenvä¸­ä½¿ç”¨pip](https://www.ostechnix.com/manage-python-packages-using-pip/)
+    + [ÔÚĞéÄâenvÖĞÊ¹ÓÃpip](https://www.ostechnix.com/manage-python-packages-using-pip/)
 
 - **show version**
 ```python
@@ -508,7 +509,7 @@ $ python -m unittest
 ```
 - **[run Tox test](https://www.oschina.net/translate/open-sourcing-a-python-project-the-right-way?print)**
 
-- **[Pipxéš”ç¦»ç¯å¢ƒä¸­è¿è¡ŒPython](https://mp.weixin.qq.com/s/ckCOYd5t8qasCJSfw334LQ)**
+- **[Pipx¸ôÀë»·¾³ÖĞÔËĞĞPython](https://mp.weixin.qq.com/s/ckCOYd5t8qasCJSfw334LQ)**
 
 - **list installed packages**
 ```python
