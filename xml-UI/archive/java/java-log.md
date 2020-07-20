@@ -2,6 +2,11 @@
 
 ## Ways to log setting
 
++ [代码实现logger设定](#config-log-manually)
++ [关闭所有log输出](#close-all-log-output)
++ [过滤log输出](#filter-output)
++ [配置 slf4j(Simple Logging Facade)](#config-slf4j)
+
 ### config log manually
 常常使用一些第三方库的时候，无法配置Logger。但又需要依赖日志来跟踪程序，此时可以通过reflect方式来实现
 ```java
@@ -64,21 +69,59 @@ System.setOut(new ConsoleOutputStream(System.out));
 ```
 
 ### config slf4j
-想使用slf4j需要在工程文件加依赖库，或者在classpath中加入lib
+很多工程都是用slf4j来wrap不同的log实现lib，经常碰到如下启动提示，这个表明当前runtime没有指定一个实现库
+```console
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
+```
+因此需要在工程文件加依赖库，或者在classpath中加入lib
 ```xml
-<dependency>
-    <groupId>org.slf4j</groupId>
-    <artifactId>slf4j-api</artifactId>
-    <version>1.7.5</version>
-</dependency>
+<properties>
+    <java.version>1.8</java.version>
+    <maven.compiler.source>${java.version}</maven.compiler.source>
+    <maven.compiler.target>${java.version}</maven.compiler.target>
+    <maven.compiler.release>8</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <failIfNoTests>true</failIfNoTests>
+    <!-- Versions -->
+    <slf4j.version>[1.7.30,1.8)</slf4j.version>
+</properties>
 <dependency>
     <groupId>org.slf4j</groupId>
     <artifactId>slf4j-log4j12</artifactId>
-    <version>1.7.5</version>
+    <version>${slf4j.version}</version>
+</dependency>
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>${slf4j.version}</version>
+</dependency>
+<!-- 如果不想使用provider的配置，想用简单配置文件，可以增加slf4j-simple依赖 -->
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-simple</artifactId>
+    <version>${slf4j.version}</version>
+</dependency>
+<!-- 如果不指定一个provider，就会默认使用 no-operation (NOP) -->
+<dependency>
+    <groupId>log4j</groupId>
+    <artifactId>log4j</artifactId>
+    <version>1.2.17</version>
 </dependency>
 ```
-如果使用log4j准备一个配置文件
+如果使用slf4j简单配置方式，只需要在工程目录中增加src/main/resources/simplelogger.properties，不需要指定任何参数，运行时会自动读取，配置如下
+```console
+#org.slf4j.simpleLogger.defaultLogLevel=debug
+org.slf4j.simpleLogger.showDateTime = true
+org.slf4j.simpleLogger.showShortLogName = true
+org.slf4j.simpleLogger.showThreadName=true
+org.slf4j.simpleLogger.log.com.github.kpavlov.jreactive8583=debug
+org.slf4j.simpleLogger.log.com.github.kpavlov.jreactive8583.netty.pipeline.CompositeIsoMessageHandler=info
 ```
+如果使用log4j配置来管理log产生方式，需要准备如下配置文件
+```console
 log4j.rootLogger=debug, stdout, R
 
 log4j.appender.stdout=org.apache.log4j.ConsoleAppender
@@ -98,6 +141,6 @@ log4j.appender.R.layout=org.apache.log4j.PatternLayout
 log4j.appender.R.layout.ConversionPattern=%p %t %c - %m%n
 ```
 启动应用时候加上参数
-```
+```console
 -Dlog4j.debug=true -Dlog4j.configuration=file:///home/king/source/github/java-opentracing-walkthrough/microdonuts/log4j.properties
 ```

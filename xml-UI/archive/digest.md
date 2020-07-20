@@ -74,24 +74,29 @@
         - [Ansible同步GitHub和GitLab ](https://mp.weixin.qq.com/s/GYmTgfE9nlqw9X_eNGPoSQ)
         - [Ansible提升自动化技巧](https://mp.weixin.qq.com/s/gsGUonyuVUmBXf4C-ALyVQ)
 + 设计分析
-    - [操作系统](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)
-    - [文件系统](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
+    - 操作系统
+        - [操作系统概要](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)
+        - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)
+        - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)
+        - [Linux内核的五大创新](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)
+    - 文件系统
+        - [文件系统概要](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
+        - [Linux文件系统](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA)
+    - 计算系统
+        - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
+        - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
+        - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
+        - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
+        - 进程间通信-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
         - [虚拟内存](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
         - [Linux正在吃掉内存](https://mp.weixin.qq.com/s/rEUptpiQi9U4FifQa4KyuQ)
         - [Linux Used内存详解](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
         - [零拷贝技术](https://mp.weixin.qq.com/s/6RvOcduVpWTEwvulBMWiqQ)
-    - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
-    - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)
-    - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
-    - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
-    - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)
-	- [Linux文件系统](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA)
-    - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
-    - [Linux内核的五大创新](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)
+    - 网络系统
+        - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
+        - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
     - [Linux阅码场](https://mp.weixin.qq.com/s/bgNYCf25LfQer1j_5r7_hg)
-    - 进程间通信-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
-    - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
     - [spinlock/rwlock/seqlock原理剖析](https://mp.weixin.qq.com/s/jOJL-7TSlgrX4f-1T_5Wvw)
 
 #### Programming
@@ -261,9 +266,11 @@
     - [分布式锁实现](https://mp.weixin.qq.com/s/2Jpy5qE_7ABILd9wcJ7q3Q)
     - [Zookeeper实现分布式锁](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg)
 	- [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
+    - [构建一个分布式块存储](https://mp.weixin.qq.com/s/9PGS3jUI9bjAE7xR37v5Pw)
 + 高并发系统
     - [高并发系统的设计](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)
     - [高并发服务限流实践](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)
+    - [正确设置数据库连接池降低时延](https://mp.weixin.qq.com/s/CGmH4jmpTYODwnfpywRr1Q)
 + 数据处理系统
     - [服务升级数据迁移](https://mp.weixin.qq.com/s/d9RZX1dB3QWrmzUAGHZvEw)
     - [事务的隔离](https://mp.weixin.qq.com/s/dLVaMwC_NQn_2JVSFfH9ug)

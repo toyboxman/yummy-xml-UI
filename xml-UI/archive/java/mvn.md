@@ -55,10 +55,10 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
 ```
 
 #### package
-`mvn package`命令只把当前工程文件打包成jar文件如target/sha-1.0.jar，如果希望把依赖lib一起打包成一个全集jar文件如target/sha-1.0-jar-with-dependencies.jar，需要配置一些plugin
+`mvn package`命令只把当前工程文件打包成jar文件，如果希望把所有依赖lib一起打包成一个全集jar文件，需要配置一些plugin
 
 * [jar-with-dependencies](http://maven.apache.org/plugins/maven-assembly-plugin/usage.html)   
-增加如下plugin配置后，通过`mvn assembly:single`可以单独产生全集lib文件，也可以在mvn package执行中自动产生
+增加如下plugin配置后，通过`mvn assembly:single`可以单独产生全集lib文件，也可以在mvn package执行中自动产生. 这种方式当前工程会打包到 target/xxx-1.0.jar,依赖库会打包到 target/xxx-1.0-jar-with-dependencies.jar
 ```
 <plugin>
     <artifactId>maven-assembly-plugin</artifactId>
@@ -83,7 +83,7 @@ mvn -Dmaven.compiler.fork=true -Dmaven.compiler.executable="C:\...\javac" compil
 ```
 
 * maven-shade-plugin      
-maven-shade-plugin也可以把all dependencies打包到一个jar文件 `mvn shade:shade`
+maven-shade-plugin也可以把all dependencies打包到一个jar文件 `mvn package shade:shade`,这种方式和上面差别在于会把当前工程和依赖库打包在一起，打包成 target/xxx-1.0.jar，原工程保留成 target/original-xxx-1.0.jar
 ```
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>

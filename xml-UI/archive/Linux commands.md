@@ -42,6 +42,7 @@
         - [Top](#top)
         - [free](#free)
         - [w/uptime/cal](#wuptimecal)
+        - [stress做压力测试](https://mp.weixin.qq.com/s/6GUm6YjsRJCEVYact1hZvw)
         - [date](#date)
         - [List Linux Services Port](#list-services-port)
         - [hwinfo/lshw/lscpu/lsblk/nproc/dmidecode](#hwinfo)
@@ -65,7 +66,7 @@
         - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
         - 文件删除
           - [undo 'rm -f'](https://mp.weixin.qq.com/s/FHhWaIzMN2afAM6jlzZdsA)
-          - [释放rm文件后占用的空间](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg)
+          - 释放rm文件所占空间[[1](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg), [2](https://mp.weixin.qq.com/s/8E7MgA8HZfLzRTApbcnjBg)]
     - Device Management
         - [ZERO/NULL/Random/dd](#device)
         - [fallocate/dd/truncate创建大文件](https://mp.weixin.qq.com/s/eiPW7GakKpTwTCuhTaP6gA)
@@ -97,12 +98,12 @@
     - [Chown](#chown)
     - [Chgrp](#chgrp)   
     - [Chsh](#chsh)
-    - [Checksum](#checksum)
+    - [Checksum(cksum/md5sum/shasum/fslint/rdfind)](#checksum)
     - [Crontab/At](#crontab)
     - [Curl](#curl)
     - [Download](#download)
     - [Env](#env)
-    - [Find](#find)
+    - [Find/Locate/Which/Whereis](#find)
     - [File](#file)
     - [Grep](#search-txt)
         - [Grep Regular Symbol](#grep-regular-symbol)
@@ -853,6 +854,7 @@ ssh -R 54321:localhost:54321 root@172.16.1.13
 ```
 
 #### find
++ [文件查找](https://mp.weixin.qq.com/s/14ReE0IvxseEpboJSGh0vw)
 ```console
 # search a file by strict name
 find /etc -name network.sh  
@@ -1050,7 +1052,8 @@ file:        application/x-executable
 ```
 
 #### checksum
-利用[***cksum/md5sum/diff/fslint/rdfind***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614382&idx=3&sn=17456b335c1c8350f6b8a43307cfdb5b)这些命令可以帮助找出系统中一些重复的文件，比如内容完全相同
++ [哈希(散列)函数](https://mp.weixin.qq.com/s/DeDujJlD-VmYsF2sWQ_sHQ)
++ [cksum/md5sum/diff/fslint/rdfind识别相同文件](https://mp.weixin.qq.com/s/G1nyIix-Q46lRvW1-l26uQ)
 ```console
 # calculate file sum using CRC32
 cksum pom.xml 
@@ -2210,6 +2213,7 @@ kill -9 1234
 ```
 如果-9操作失败，还可以通过-HUP终结僵尸进程
 + [kill -9 进程杀不掉](https://mp.weixin.qq.com/s/TIazT0XF-kC0d8fXTx_ALg)
++ [kill -15 vs -9](https://mp.weixin.qq.com/s/eDTbZ44uMmBwa8xPSLDkfg)
 ---
 
 #### Vim
