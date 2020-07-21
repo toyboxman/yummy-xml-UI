@@ -554,22 +554,43 @@ public class MyclassAspect {
     ...
 }
 
-# PolicyFacadeImpl 有一个@PostConstruct的initialize初始化方法
+# PolicyFacadeImpl 有一个@PostConstruct的init初始化方法
 # 似乎再植入切面会造成不可预知的冲突，具体细节spring没有给出更详细日志
 # 似乎有些class层面的初始化方法也会有冲突
 @Aspect
 @Service
 public class PolicyFacadeImpl {
     @PostConstruct
-    private void initialize() {...}
+    private void init() {...}
     ...
 }
 
-# 如果把pointcut中所有方法改成部分方法，异常就得到解决，spring启动正常
+# 1.如果把pointcut中所有方法改成部分方法，异常就得到解决，spring启动正常
 @Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.create*(..))")
 public void tracePointCut() {
 }
+
+# 2.另外一种修改方式就是在pointcut定义中exclude冲突方法
+@Pointcut("pcd1() && !pcd2()")
+public void tracePointCut() {
+}
+
+# PCD (pointcut designators) 
+@Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.*(..))")
+public void pcd1() {
+}
+
+@Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.init(..))")
+public void pcd2() {
+}
+
+# 3.还可以通过过滤PostConstruct标签方式排除
+@Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.*(..)) &&"
++ "!@annotation(javax.annotation.PostConstruct)")
+public void tracePointCut() {
+}
 ```
++ [Pointcut Designators](https://www.baeldung.com/spring-aop-pointcut-tutorial#pointcut)
 
 <div id = "u4"></div>
 

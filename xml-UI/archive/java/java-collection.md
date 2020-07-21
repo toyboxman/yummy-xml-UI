@@ -1,11 +1,14 @@
 ***
 
 ## Ways to use collections
-+ [Collectionçš„ä½¿ç”¨](https://www.javatpoint.com/collections-in-java)
++ [CollectionµÄÊ¹ÓÃ](https://www.javatpoint.com/collections-in-java)
 + [Collections in Java](https://howtodoinjava.com/java-collections/)
-+ [HashMapçš„7ç§éå†æ–¹å¼](https://mp.weixin.qq.com/s/v518GDzKRZQUaVelgpltKQ)
++ [HashMapµÄ7ÖÖ±éÀú·½Ê½](https://mp.weixin.qq.com/s/v518GDzKRZQUaVelgpltKQ)
++ [Map to String Conversion](https://www.baeldung.com/java-map-to-string-conversion)
++ [Java 8 Stream](https://www.javatpoint.com/java-8-stream)       
++ [Java Stream Filter](https://www.javatpoint.com/java-8-stream-filter)
 
-### ç”¨stream/mapæ–¹å¼è½¬æ¢listä¸­æ•°æ®
+### ÓÃstream/map·½Ê½×ª»»listÖĞÊı¾İ
 ```java 
 static class node {
     private int id;
@@ -15,8 +18,8 @@ static class node {
         this.id = id;
     }
     
-    // æ­¤å¤„è¿”å›ç±»å‹åŸå› æ˜¯stream().map(id -> new node(id).setName("node-" + id))
-    // éœ€è¦ä¸€ä¸ªæ˜¾å¼çš„é›†åˆå…ƒç´ çš„typeï¼Œå¦åˆ™å°±ä¼šæç¤ºvoidä¸åŒ¹é…é›†åˆå…ƒç´ ç±»å‹
+    // ´Ë´¦·µ»ØÀàĞÍÔ­ÒòÊÇstream().map(id -> new node(id).setName("node-" + id))
+    // ĞèÒªÒ»¸öÏÔÊ½µÄ¼¯ºÏÔªËØµÄtype£¬·ñÔò¾Í»áÌáÊ¾void²»Æ¥Åä¼¯ºÏÔªËØÀàĞÍ
     public node setName(String name) {
         this.name = name;
         return this;
@@ -36,15 +39,13 @@ List<node> nodes = ids.stream()
         .map(id -> new node(id).setName("node-" + id))
         .collect(Collectors.toList());
 nodes.forEach(n -> System.out.println(n));
-// æˆ–è€…ç”¨æ›´ç®€åŒ–çš„å‡½æ•°åç§°è°ƒç”¨æ›¿ä»£lamda
+// »òÕßÓÃ¸ü¼ò»¯µÄº¯ÊıÃû³Æµ÷ÓÃÌæ´úlamda
 // nodes.forEach(System.out::println);
 ``` 
-æ‰§è¡Œç»“æœ
+Ö´ĞĞ½á¹û
 ```
 node{id=1, name=node-1}
 node{id=2, name=node-2}
 node{id=3, name=node-3}
 ```
-æ›´å¤šä»£ç æ ·ä¾‹
-+ [Java 8 Stream](https://www.javatpoint.com/java-8-stream)       
-+ [Java Stream Filter](https://www.javatpoint.com/java-8-stream-filter)
+
