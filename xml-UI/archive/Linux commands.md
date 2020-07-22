@@ -1295,6 +1295,7 @@ EOF
 ```
 
 ##### download
+通过wget/curl命令行,可以指定URL下载文件
 ```console
 # wget download jdk package w/ header
 # -c / --continue  Continue getting a partially-downloaded file
@@ -1312,6 +1313,26 @@ wget -c --no-cookies \
 curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
 http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz
 ```
+如果希望下载目录，可以指定一些参数
+```console
+wget -r http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
+# 下载到本目录结构如下，每一级目录都包含和服务器端一样内容
+example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
+
+wget -r -np -nH http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
+# 下载到本目录结构没有host一级，除了11级目录，其余每一级目录都不包含下载文件
+1/2/3/4/5/6/7/8/9/10/11/
+
+# -r/--recursive 下载指定目录和其所有下级嵌套目录
+# -np/--no-parent URL指定下载目录的所有上级目录中文件均不下载
+# -nH/--no-host-directories 下载到本地目录结构中不包括URL中的hostname 
+# -R/--reject 指定某些文件不用下载
+# --cut-dirs 裁剪下载到本地目录的层级
+wget -r -np -nH --cut-dirs=10 --reject="index.html*" http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
+# 裁剪掉10级目录后，仅剩第11级目录，并过滤掉所有 index.html* 文件
+11/
+```
+
 上面两种方式都是单线程下载模式，如果希望支持多协议多线程模式，可以使用[aria2](https://aria2.github.io/), 支持
 HTTP/HTTPS, FTP, SFTP, BitTorrent／Metalink
 ```console
