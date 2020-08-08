@@ -79,6 +79,7 @@
         - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)
         - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)
         - [Linux内核的五大创新](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)
+        - [编译原理](https://mp.weixin.qq.com/s/4KvNaO15-bdrp8rkkCUQuw)
     - 文件系统
         - [文件系统概要](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
         - [Linux文件系统](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA)
@@ -93,9 +94,12 @@
         - [Linux正在吃掉内存](https://mp.weixin.qq.com/s/rEUptpiQi9U4FifQa4KyuQ)
         - [Linux Used内存详解](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
         - [零拷贝技术](https://mp.weixin.qq.com/s/6RvOcduVpWTEwvulBMWiqQ)
+        - [Linux默认页大小是4KB](https://mp.weixin.qq.com/s/_xC98At-9y9wNEv1o4G7gg)
+        - [手动释放swap和buffer和cache](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg)
     - 网络系统
         - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
         - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
+        - [Linux服务端最大并发数是多少](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
     - [Linux阅码场](https://mp.weixin.qq.com/s/bgNYCf25LfQer1j_5r7_hg)
     - [spinlock/rwlock/seqlock原理剖析](https://mp.weixin.qq.com/s/jOJL-7TSlgrX4f-1T_5Wvw)
 
@@ -126,6 +130,7 @@
         - [Pandas并行处理实现](https://mp.weixin.qq.com/s/t4B0z2nA3lJUmuJIHrsHNw)
 + ***Go***    
     - [basic](go/go-basic.md)
+    - [Go第一要素函数](https://mp.weixin.qq.com/s/96Df9YGykE6daDREli9W1A)
     - [Golang编译器原理](https://mp.weixin.qq.com/s/uparU_6pApv8aPlVPeX_Tg)
     - [OAuth简单实现](https://mp.weixin.qq.com/s/aPvIxho_eOguYqlcV8cYRw)
     - [Go实现负载均衡服务](https://mp.weixin.qq.com/s/DxE3YOE1GDq6ZXRhpzfC0w)
@@ -470,8 +475,10 @@ monitor in:description language:python
 + Lock
     + [深入Java Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
     + [synchronized原理](https://mp.weixin.qq.com/s/57E7oZK97zMwiRA38V05tQ)
+    + [理清AQS互斥锁](https://mp.weixin.qq.com/s/boI51YneLxCWWxFBjiXpqA)
 + [Java网络协议](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
 + [JavaSE演进新方向](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
+    - [Java9转身微服务](https://mp.weixin.qq.com/s/NJ-UoD5XgMz97KtnLoA6yw)
 + [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
     - [内存分配和垃圾回收](https://mp.weixin.qq.com/s/334SLntT6yVqRC1IrSaIbA)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)

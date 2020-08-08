@@ -66,6 +66,7 @@
         - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
         - 文件删除
           - [undo 'rm -f'](https://mp.weixin.qq.com/s/FHhWaIzMN2afAM6jlzZdsA)
+          - [chattr防止文件误删](https://mp.weixin.qq.com/s/kwPUuWXGy0ctM6lD2dopVA)
           - 释放rm文件所占空间[[1](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg), [2](https://mp.weixin.qq.com/s/8E7MgA8HZfLzRTApbcnjBg)]
     - Device Management
         - [ZERO/NULL/Random/dd](#device)
@@ -89,9 +90,10 @@
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
         - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
         - [DNS访问原理](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg)
+        - [IPv6难以取代IPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
 - [Usual Command](#usual-command)
     - [Alias](https://mp.weixin.qq.com/s/wTokA2r-kxIMePmuVE98HA)
-    - [List/ls](https://mp.weixin.qq.com/s/FXiMOUCLdWfIaUJpnzlsLw)
+    - [List/ls](#list)
     - [Base64](#base64)
     - [Copy/Xclip/Mkdir/Mkfifo](#cp)
     - [Chmod](#chmod)
@@ -755,6 +757,16 @@ export GOBIN="/go/bin"
 unset GOBIN
 ```
 
+#### list
++ [精通 list 命令](https://mp.weixin.qq.com/s/FXiMOUCLdWfIaUJpnzlsLw)
+```console
+# -t 按最近修改时间排序目录下文件
+$ ls -tl ./
+
+# 按修改时间逆序目录下文件
+$ ls -trl ./
+``` 
+
 #### pstree
 + [tree](https://mp.weixin.qq.com/s/wcWQaMd09yw_tVnRw-p2EA)
 + [ps](https://mp.weixin.qq.com/s/OaDQ81c7GyONluUDOMBHLQ)
@@ -878,9 +890,12 @@ find $PWD -type f -name *.xml
 find $(pwd) -type f -name *.xml
 /home/king/source/pom.xml
 
-# exec 两种方式输出结果一致, {} + 某些输出格式整齐一些
+# exec 两种输出方式结果一致, {} + 方式输出格式自动对齐
 find source/lib/ -name *.jar -exec file {} +
 find source/lib/ -name *.jar -exec file {} \;
+# 将所有com包中java源文件合并到src.txt并统计行数
+find src/com/ -name *.java -exec cat {} >> src.txt +
+wc -l src.txt
 
 # search all files in home folder and then determine its file type(append action)
 find /home -user king -exec file {} \;  
@@ -1364,20 +1379,13 @@ tar -cvf a.tar folder1 folder2
 # unpack a.tar file
 tar -xvf a.tar
 
-# tar命令默认使用当前路径寻找指定目录
-# 如果指定完整路径需要使用-P or --absolute-names allow to use whole path
-# 否则会提示打包目录在当前路径下找不到
-tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
-tar: Removing leading `/' from member names
-/usr/lib64/jvm/jre-1.8.0-openjdk
-# -P or --absolute-names allow to use whole path
-tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz 
-
 # 打包和解包 tar.gz/tgz 
 # 打包目录folder1 folder2 同时zip压缩tar文件为a.tar.gz
 tar -czvf a.tar.gz folder1 folder2   
 # unzip and unpack a tar.gz file
 tar -xzvf jdk-8-linux-x64.tar.gz
+# -C 参数指定解包到的目录， 默认是当前执行目录
+tar xzvf file.tgz -C path
 
 # tar文件中增加新文件
 #  -r (or –append) option to add/append a new file to the end of the archive
@@ -1410,6 +1418,15 @@ tar uvf cls.tar pom.xml
 # pipeline tar&gzip,"-" 减号对tar命令是一个特殊signal
 # 把执行压缩结果写入stdout(standard output)而不是路径指定文件中
 tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  
+
+# tar命令默认使用当前路径寻找指定目录
+# 如果指定完整路径需要使用-P or --absolute-names allow to use whole path
+# 否则会提示打包目录在当前路径下找不到
+tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
+tar: Removing leading `/' from member names
+/usr/lib64/jvm/jre-1.8.0-openjdk
+# -P or --absolute-names allow to use whole path
+tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
 ```
 
 #### gzip
@@ -1526,10 +1543,15 @@ netstat -tanp | less
 ```
 
 #### nohup
-run a command immune to hangups, with output to a non-tty
++ [nohup命令详解](https://mp.weixin.qq.com/s/ADNMnWFsspxK9Mfr76zJ7Q)   
+
+Run a command immune to hangups, with output to a non-tty
 ```console
 # put task to background without hangup
 nohup command & 
+
+# 导出输出到日志文件
+nohup command > log &
 ```
 
 #### mount/umount

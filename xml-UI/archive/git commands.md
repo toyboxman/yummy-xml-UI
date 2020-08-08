@@ -397,7 +397,9 @@ git stash push <file>
 git stash clear
 git stash show
 
-# 通过软复位也可以达到上一命令相同效果  hard/soft两种方式区别就在于是否保留未提交更改
+# 通过软复位也可以达到上一命令相同效果  
+# hard/soft两种方式区别就在于是否保留未提交更改，默认不指定hard就都是soft模式
+# 如果想把本地一个提交中某些文件删除，可以先soft reset，然后再重新选择提交
 git reset --soft 0d1d7fc32
 
 # 将指定文件回退到前两个提交的点
@@ -440,6 +442,9 @@ git diff origin/master  -- Run.java
 # 比较本地myBranch分支和remote master分支的差异
 git diff myBranch origin/master  
 
+# 比较本地myBranch分支和remote master分支的某个目录差异
+git diff myBranch origin/master -- src/main/java 
+
 # 查看文件两标签快照(0.12.0-0.13.0)之间的差异
 git diff 0.12.0 0.13.0 -- glanceclient/common/http.py  
 
@@ -464,6 +469,14 @@ git log --stat f2edbe81730
 
 # 查看src/main/java目录下匹配rpc关键字的所有提交
 git log --grep=rpc -- src/main/java
+
+# 查找所有分支历史记录中是否匹配指定文件，相当于find命令，但find无法搜索非当前代码分支
+# -- **／PolicyFacadeImplAjIf* 指定当前目录所有嵌套子目录中查询文件名
+# 最好在git根目录下执行，可以find全部工程目录
+git log --all --summary -- "**/PolicyFacadeImplAjIf*"
+
+# 查找所有被Batman删除的文件的提交记录
+git log --diff-filter=D --author=Batman --summary  
 
 # 查看匹配name的作者所有提交详情
 git log --author <name>  

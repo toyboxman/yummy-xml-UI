@@ -90,21 +90,23 @@ SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
 </properties>
 <dependency>
     <groupId>org.slf4j</groupId>
-    <artifactId>slf4j-log4j12</artifactId>
-    <version>${slf4j.version}</version>
-</dependency>
-<dependency>
-    <groupId>org.slf4j</groupId>
     <artifactId>slf4j-api</artifactId>
     <version>${slf4j.version}</version>
 </dependency>
-<!-- 如果不想使用provider的配置，想用简单配置文件，可以增加slf4j-simple依赖 -->
+<!-- 一次只能配置一种类型provider，比如simple／log4j -->
+<!-- 如果不指定一个provider，就会默认使用 no-operation (NOP)，无输出 -->
+<!-- 如果使用简单配置文件，可以增加slf4j-simple provider依赖 -->
 <dependency>
     <groupId>org.slf4j</groupId>
     <artifactId>slf4j-simple</artifactId>
     <version>${slf4j.version}</version>
 </dependency>
-<!-- 如果不指定一个provider，就会默认使用 no-operation (NOP) -->
+<!-- 如果使用log4j的配置，增加slf4j-log4j12 provider依赖 -->
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-log4j12</artifactId>
+    <version>${slf4j.version}</version>
+</dependency>
 <dependency>
     <groupId>log4j</groupId>
     <artifactId>log4j</artifactId>
