@@ -116,6 +116,7 @@
     - [FastAPI构建Web服务](https://mp.weixin.qq.com/s/i9HQpaU902Vt7kv0_tRFKw)
     - [kite-编写python代码的AI工具](https://mp.weixin.qq.com/s/q5GTpgxVPdBhufLTSP5mNw)
     - [Python任务自动化/命令行工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)
+    - [ZeroMQ消息库在C和Python间共享数据](https://mp.weixin.qq.com/s/u052h84ByMCPMtFdfO3T7w)
 	- [Python调试设置不中断的断点](https://mp.weixin.qq.com/s/4dSVY1lJk4Edz05LC7J1pA)
     - [pyenv运行多个版本的Python](https://mp.weixin.qq.com/s/1VqcfrEAveAbU5zF0HsWyw)
     - 绘制数据
@@ -128,6 +129,7 @@
 	    - [8个流行的可视化工具包](https://mp.weixin.qq.com/s/dRdFTBF7phHwKatPLjpOjA)
         - [7种绘制数据方法](https://mp.weixin.qq.com/s/tVnLER0GBQDdOJoQphlQnA)
         - [Pandas并行处理实现](https://mp.weixin.qq.com/s/t4B0z2nA3lJUmuJIHrsHNw)
+        - [Python代码转Latex公式](https://mp.weixin.qq.com/s/WJf6cuPSHLi4ka1w3Yzgcg)
 + ***Go***    
     - [basic](go/go-basic.md)
     - [Go第一要素函数](https://mp.weixin.qq.com/s/96Df9YGykE6daDREli9W1A)
@@ -204,7 +206,9 @@
     - [Scipio ERP电子商务框架](https://mp.weixin.qq.com/s/vVQJ-K8vHv9vqn9XPSuhqQ)
     - [实现login验证码](https://mp.weixin.qq.com/s/9fu0u9sH-cU3KQfC3aBr-A)
     - [网络广告商的像素追踪](https://mp.weixin.qq.com/s/Ua42bkLI2tK8zIWaRFNmYg)        
-    - [REST API面临的安全威胁](https://mp.weixin.qq.com/s/l4lKz9DGRZB4zM-q1vOxOw)
+    - REST API
+        - [REST API工具](https://mp.weixin.qq.com/s/-6zfrvJUnz9L8ueOrJi4-A)
+        - [REST API面临的安全威胁](https://mp.weixin.qq.com/s/l4lKz9DGRZB4zM-q1vOxOw)
     - [Swagger管理接口文档 ](https://mp.weixin.qq.com/s/YuanLc72625DwXo-sMSGuQ)
     - [MVC/MVVM模型](https://mp.weixin.qq.com/s/Hi43vXv34ThiBa9r5TcE8w)
     - [Chrome前端调试](https://mp.weixin.qq.com/s/p9Y586_F7wwBnFkEztUtUw)
@@ -235,6 +239,7 @@
     - [JS实现异步任务](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
     - [GoJS实现交互式图](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
     - [Voca/Cleave/Chart出色的JS库](https://mp.weixin.qq.com/s/R3MI_zOUf5xqXl8-9pfeDg)
+    - [SVG基础总结](https://mp.weixin.qq.com/s/o6z2sixGw50_mUXAIT2BFg)
 + UI Framework
     - [ant-design](https://ant.design/components/overview-cn/)
     - [Element UI](https://element.eleme.cn/#/zh-CN/component/installation)
@@ -259,6 +264,8 @@
 #### Architecture
 + [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)
 + [架构模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)
++ [架构特点](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)
++ [架构伸缩性原则](https://mp.weixin.qq.com/s/77-owRKydWDQ14Lu4mmpiw)
 + 分布式架构
     - [农行分布式架构](https://mp.weixin.qq.com/s/jVrMyGUBythuCaMFPp1XcA)
 	- [基于JAVA后端基础架构实践](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)
@@ -296,9 +303,11 @@
 #### Database
 + 基本知识
     - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)
+    - [数据库工程经验](https://mp.weixin.qq.com/s/zbAp1xMrxGoxz86uJ3y15Q)
     - [数据库减负](https://mp.weixin.qq.com/s/jgRPk_fyso8ns3WxzmY9Zg)
     - [分库分表](https://mp.weixin.qq.com/s/U-9W-vHUReuZ5tgvtCRzJQ)
     - [分页查询](https://mp.weixin.qq.com/s/QHE064D9g1Hwa8-07RgYNg)
+        - [别再用OFFSET+LIMIT分页](https://mp.weixin.qq.com/s/XCSvDx90ml3uDkwBah8XsQ)
     - [有序索引](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)
     - [数据库中间件详解 ](https://mp.weixin.qq.com/s/Nsbv4yIglDZqYkhfwHRyzQ)
     - [数据库‘状态’字段设计](https://mp.weixin.qq.com/s/VZFAc-LdeF4YaoixQsf3kw)
@@ -318,6 +327,7 @@
     - [鸟瞰MySQL](https://mp.weixin.qq.com/s/yuEW2CYDmkLX695Bd2sgtw)
     - [MySQL互联网常用架构方案](https://mp.weixin.qq.com/s/700PSsvKpgZa63HlaNAOcQ)
     - [MySQL命令学习笔记](https://mp.weixin.qq.com/s/pxTZOph5-2v6YTxxeA_kOg)
+    - [MySQL8.0运维便捷命令](https://mp.weixin.qq.com/s/OZub4GiQSRjlAfDf59U3KA)
     - [MySQL 优化19条](https://mp.weixin.qq.com/s/IjKVF4yuJjf4TFsAxP3IoA)
     - [理解SQL](https://mp.weixin.qq.com/s/M3MsrV4DyZpLwQVcAgxvsw)
     - [巧用MySQL Union](https://mp.weixin.qq.com/s/reNc5LBKhSxGfCYyc_W8XQ)
@@ -473,10 +483,12 @@ monitor in:description language:python
     - [如何解决代码中if…else过多的问题](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
     - [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
     - [线上故障排查参考](https://mp.weixin.qq.com/s/UKa1bksIcTHQsS0T1nt6ZA)
+    - [Netty解决粘包半包问题](https://mp.weixin.qq.com/s/WuaVdD0_nGaoGZog3tCrqw)
 + Lock
     + [深入Java Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
     + [synchronized原理](https://mp.weixin.qq.com/s/57E7oZK97zMwiRA38V05tQ)
     + [理清AQS互斥锁](https://mp.weixin.qq.com/s/boI51YneLxCWWxFBjiXpqA)
+    + [并发编程](https://mp.weixin.qq.com/s/yhg5Kxd6AzR-kPpFAE-SdA)
 + [Java网络协议](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
 + [JavaSE演进新方向](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
     - [Java9转身微服务](https://mp.weixin.qq.com/s/NJ-UoD5XgMz97KtnLoA6yw)

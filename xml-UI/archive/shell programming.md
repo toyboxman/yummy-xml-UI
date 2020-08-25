@@ -31,9 +31,11 @@
 	+ [循环读写REST API,计算执行时间](#exp8)
 	+ [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
 	+ [Bash函数定义](#exp10)
+	+ [数学运算](https://mp.weixin.qq.com/s/JAdUxU3ziqT1dw8vhjXHyQ)
 	+ [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
 	+ [列出大型文件系统中文件,目录](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
-	+ [重启或启动时执行脚本](https://mp.weixin.qq.com/s/Cu4B0yNSm_pV9d9b-ssXAQ)
+	+ [合并和排序Linux上的文件](https://mp.weixin.qq.com/s/JDiSdFHLrJJzLG2BI4eVKQ)
+	+ 重启或启动时执行脚本[[1](https://mp.weixin.qq.com/s/Cu4B0yNSm_pV9d9b-ssXAQ), [2](https://mp.weixin.qq.com/s/tkphlPDIsz7dGbm7NvFyjg)]
 	+ [uptime运行时间报告](https://mp.weixin.qq.com/s/rcPb5PXhj3LjM7K44PWwCQ)
     + [Bash实现登录查看系统信息](https://mp.weixin.qq.com/s/n8BOjHCd39lEKxWF_qOZew)
 	+ [SAR报告中获取CPU和内存使用情况](https://mp.weixin.qq.com/s/us5c3vY7nBjc113jJmG6hQ)

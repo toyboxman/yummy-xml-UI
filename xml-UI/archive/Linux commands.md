@@ -21,7 +21,9 @@
             - [ltrace/hexdump/strings/nm分析二进制文件](https://mp.weixin.qq.com/s/VS2Kf-aApDNgyIOA-fuZKQ)
             - [strace/pstack/gdb分析Linux进程](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
             - [Docker中使用strace](https://mp.weixin.qq.com/s/4nsZ0gaikvcNWstdbXEbrA)
+            - [ProcDump/gcore调试Linux进程](https://mp.weixin.qq.com/s/wQmmKRkrlgCHn19HsqEU8w)
         - [Crash配合/dev/mem调试内存 ](https://mp.weixin.qq.com/s/Q4FbI_U6pRrfhlpuzOJmig)
+        - [eBPF](https://mp.weixin.qq.com/s/GxjcRzcgPGhzK3Q3shNbLg)
         - log
           + [配置Rsyslog服务器](https://mp.weixin.qq.com/s/S_MJ1c2mLgoo1PndJ_33YA)
           + [Web Log Analysis](https://mp.weixin.qq.com/s/TD_-Vzn_KjyyAwviaPkF8A)
@@ -145,6 +147,7 @@
     - [Regular Expression](#regular-expression)     
     - [Sed](#sed)
     - [Sort](#sort)
+    - [screen](https://mp.weixin.qq.com/s/k6au7oeZgn6vlIBW9_CSUQ)
     - [Script](#script)
     - [Strings](#strings)
     - [Tee](#tee)
