@@ -243,6 +243,76 @@ public class AspectConvert {
 ```
 ConfigBean{name='Processor', packageName='com.example.jackson.yaml', method='*'}
 ```
+如果target_method字段即要支持单string类型，又能支持string list类型
+```yaml
+# string类型
+- !trace
+  target_class: com.example.jackson.yaml.Processor
+  target_method: method1
+
+# string list类型
+- !trace
+  target_class: com.example.jackson.yaml.Processor
+  target_method: 
+    - method1
+    - method2  
+```
+以上程序执行就会报错
+```console
+Exception in thread "main" com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList` out of VALUE_STRING token
+```
+解决办法就是修改creator中类型,增加@JsonFormat(with = JsonFormat.Feature.ACCEPT_SINGLE_VALUE_AS_ARRAY)
+```java
+public class AspectConvert {
+    ...
+
+    public static class ConfigBean {
+        private String name;
+        private String packageName;
+        private List<String> methods;
+
+        @JsonCreator
+        public ConfigBean(@JsonProperty("target_class") String target,
+                          @JsonProperty("target_method") 
+                          @JsonFormat(with = JsonFormat.Feature.ACCEPT_SINGLE_VALUE_AS_ARRAY) 
+                          List<String> targetMethods) {
+            //将target_class属性拆分成 包名和类名
+            int index = target.lastIndexOf('.');
+            if (index != -1) {
+                this.name = target.substring(++index);
+                this.packageName = target.substring(0, --index);
+            } else {
+                this.name = target;
+                this.packageName = target;
+            }
+            // 将 * 符号替换回
+            if (targetMethods != null && !targetMethods.isEmpty()) {
+                this.methods = targetMethods.stream().map(
+                        methodName -> {return methodName.replace('+', '*');})
+                        .collect(Collectors.toList());
+            }
+        }
+        ...
+
+        public String getMethods() {
+            return methods;
+        }
+
+        @Override
+        public String toString() {
+            return "ConfigBean{" +
+                    "name='" + name + '\'' +
+                    ", packageName='" + packageName + '\'' +
+                    ", method='" + methods + '\'' +
+                    '}';
+        }
+    }
+}
+```
+执行结果
+```
+ConfigBean{name='Processor', packageName='com.example.jackson.yaml', methods=[method1, method2]'}
+```
 
 <div id = "js2st"></div>
 
@@ -307,3 +377,59 @@ public interface ProcessorAji {
     }
 }
 ```
+stg模版使用有一些注意点   
++ 保留关键字
+```java
+@Component
+public class <c.name>AjImpl implements <c.name>AjIf {
+    private static Logger logger = Logger.getLogger(LogMessageId.NONE);
+    // <>是stringtemplate系统变量标识，因此代码模版中出现时候避免识别成变量
+    // 需要用 \ 做转义
+    private HashMap\<String, Span> spanMap = new HashMap\<>();
+    ...
+}
+```
++ 循环模版处理
+```java
+pc(index) ::= <<
+pcd<index>()
+>>
+
+PCD(method, index) ::= <<
+@Pointcut("execution(* <c.packageName>.<c.name>.<method>(..))")
+public void <pc(index)> {
+}
+
+TraceAspectClass(c) ::= <<
+...
+    @Autowired
+    <c.name>AjIf ajiBean;
+
+    // 循环需要传入list变量
+    // i0标识counter从0开始
+    // i标识counter从1开始
+    // separator指定生成段之间分割
+    <c.methods:{method | <PCD(method, i0)>};separator="\n\n">
+
+    @Pointcut("<c.methods:{method | <pc(i0)>};separator=" || ">")
+    public void tracePointCut() {
+    }
+>>
+```
+可以生成java代码
+```java
+...
+    @Pointcut("execution(* com.example.method1(..))")
+    public void pcd0() {
+    }
+
+    @Pointcut("execution(* com.example.method2(..))")
+    public void pcd1() {
+    }
+
+    @Pointcut("pcd0() || pcd1()")
+    public void tracePointCut() {
+    }
+...    
+```
+
