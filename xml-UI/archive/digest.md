@@ -90,6 +90,7 @@
         - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
         - 进程间通信-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
+        - [内存知识总结](https://mp.weixin.qq.com/s/IdqCXR4BrqjE0CFNEPKXrQ)
         - [虚拟内存](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
         - [Linux正在吃掉内存](https://mp.weixin.qq.com/s/rEUptpiQi9U4FifQa4KyuQ)
         - [Linux Used内存详解](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
@@ -165,6 +166,7 @@
     - [HTTP基础概念-codes/header/安全/幂等](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
     - [HTTP guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)
     - [浏览器缓存机制](https://mp.weixin.qq.com/s/LLJGZyYELj3ZqPPvSONa-g)
+    - [CDN加速原理](https://mp.weixin.qq.com/s/DRQAVqCo87vST1DeDcyyBA)
     - [HTTPS原理](https://mp.weixin.qq.com/s/v8vVLD4YNSi0yBf6fS_Utg)
     - [Authentication](https://swagger.io/docs/specification/authentication/)
         - Basic Authentication
@@ -225,6 +227,7 @@
         + [webpack高级配置](https://mp.weixin.qq.com/s/etFRqDtyjPB8icI7tMJPZA)
 + CSS
     - [CSS布局指南](https://mp.weixin.qq.com/s/gIRqOKZAYwRUxWvKXbTvig)
+    - [CSS眼前一亮的HOVER效果](https://mp.weixin.qq.com/s/0cBdXuJdfPtx8NfP5aAs4g)
 	- 前端开源CSS库[[1](https://mp.weixin.qq.com/s/Sjg6jgl1D6IkYgsuQSgFHg), [2](https://mp.weixin.qq.com/s/xwD_2K8ZpvpY0geCv865ew)]
     - [CSS Grid布局](https://mp.weixin.qq.com/s/J80laygl2BsGSfU40AjXyw)
 	- [经典的CSS布局问题](https://mp.weixin.qq.com/s/ljnqn8paEHIgShA3c-eoxw)
@@ -348,6 +351,7 @@
 + [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
     - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)
+    - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)
     - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)
     - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)
@@ -365,6 +369,7 @@
 + [HBase RowKey](https://mp.weixin.qq.com/s/ENvPR3kDNG09hMZuhc1BHA)
 + MQ
     - [Kafka架构设计](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
+    - [kafka全面理解](https://mp.weixin.qq.com/s/WCs52JiVCSmh__tOktiMdw)
     - [Kafka的“后浪”](https://mp.weixin.qq.com/s/KX9CaDEfQovWBLemUzk6vg)
     - [Kafka的生产者/消费者详析](https://mp.weixin.qq.com/s/T9hONRBS37cmolkWhtXs-g)
     - [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
@@ -484,6 +489,8 @@ monitor in:description language:python
     - [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
     - [线上故障排查参考](https://mp.weixin.qq.com/s/UKa1bksIcTHQsS0T1nt6ZA)
     - [Netty解决粘包半包问题](https://mp.weixin.qq.com/s/WuaVdD0_nGaoGZog3tCrqw)
+    - [一个TCP连接上面能发多少个HTTP请求](https://mp.weixin.qq.com/s/fa-FV3mWK6e8CK9wJ8LMmA)
+    - [JVM类加载概述](https://mp.weixin.qq.com/s/lu-lwKp-bmX8SUySatZ0SA)
 + Lock
     + [深入Java Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
     + [synchronized原理](https://mp.weixin.qq.com/s/57E7oZK97zMwiRA38V05tQ)

@@ -22,6 +22,7 @@
             - [strace/pstack/gdb分析Linux进程](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
             - [Docker中使用strace](https://mp.weixin.qq.com/s/4nsZ0gaikvcNWstdbXEbrA)
             - [ProcDump/gcore调试Linux进程](https://mp.weixin.qq.com/s/wQmmKRkrlgCHn19HsqEU8w)
+            - [coredump创建并调试转储文件](https://mp.weixin.qq.com/s/CFBqt5EtpPevgZBxYs1ZmQ)
         - [Crash配合/dev/mem调试内存 ](https://mp.weixin.qq.com/s/Q4FbI_U6pRrfhlpuzOJmig)
         - [eBPF](https://mp.weixin.qq.com/s/GxjcRzcgPGhzK3Q3shNbLg)
         - log
@@ -29,6 +30,7 @@
           + [Web Log Analysis](https://mp.weixin.qq.com/s/TD_-Vzn_KjyyAwviaPkF8A)
           + [Logrotate手动滚动日志](hhttps://mp.weixin.qq.com/s/unosQoE_QQdxOTgJaHUexg)
         - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
+        - [Glances多功能系统监控工具](https://mp.weixin.qq.com/s/R4mHOERnPhKCkCffaXFAyQ)
     - Account Management
         - [Activate Account](#activate-account)
         - [List All Users](#list-all-users) 
@@ -762,6 +764,7 @@ unset GOBIN
 
 #### list
 + [精通 list 命令](https://mp.weixin.qq.com/s/FXiMOUCLdWfIaUJpnzlsLw)
++ [排序玩出花](https://mp.weixin.qq.com/s/xToer7-WJeUeZiToPvlMug)
 ```console
 # -t 按最近修改时间排序目录下文件
 $ ls -tl ./
@@ -1757,6 +1760,7 @@ netstat -tlnpu | fold -w 120
 
 ####  unix2dos/dos2unix
 + [删除回车符](https://mp.weixin.qq.com/s/mJsztHS_1ZRomwsdkUqQlA)
++ [Unix和DOS格式转换](https://mp.weixin.qq.com/s/f5SyOs444SGhAPqHpwYfdA)
 
 unix2dos/dos2unix -- format transfer
 ```console
@@ -2441,6 +2445,7 @@ SYN URGP=0
 ```
 
 #### nc
++ [nc用途](https://mp.weixin.qq.com/s/kPldmY_BtHyjXi5XGAuTIg)
 + [nc开启后门](https://www.jianshu.com/p/c6226ddc0ec4)
 + [base64上传下载图片](https://www.imydl.tech/linux/689.html)
 + [网速吞吐量测试](https://mp.weixin.qq.com/s/E1M5ro-S1NHAhzkk3ZinNw)   
