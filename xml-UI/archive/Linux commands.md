@@ -1014,6 +1014,7 @@ head /tmp/java
 ```
 
 #### scp
+- [rsync替换scp](https://mp.weixin.qq.com/s/GtgjTknmViI6LxRK5LO9_g)
 ```console
 # remote copy file
 # cp local file to remote folder
@@ -1128,6 +1129,7 @@ king:users
 ```
 
 #### search txt
+- [grep/sed/awk高效文件处理](https://mp.weixin.qq.com/s/jNumvmRrdShq-fYvMiWvyg)
 ```console
 # search keyword in src and its sub folders
 # -w match整个词

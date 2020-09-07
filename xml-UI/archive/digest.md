@@ -80,11 +80,13 @@
         - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)
         - [Linux内核的五大创新](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)
         - [编译原理](https://mp.weixin.qq.com/s/4KvNaO15-bdrp8rkkCUQuw)
+        - [IO基本概念](https://mp.weixin.qq.com/s/yrLGQMEdkVgmk8WgV-mTXw)
     - 文件系统
         - [文件系统概要](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
-        - [Linux文件系统](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA)
+        - Linux文件系统[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q)]
     - 计算系统
         - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
+        - [补码](https://mp.weixin.qq.com/s/RVwRqcxSdP96dknUSmNTBg)
         - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
         - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
         - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
@@ -238,6 +240,7 @@
     - [使用TypeScript](https://mp.weixin.qq.com/s/wQy7ZqiuBcP6MHWW9H8dkg)
     - [JS中context和stack](https://mp.weixin.qq.com/s/pc6EbfCKN1xWd4Q6nBU-PQ)
     - [JS中实现map/reduce](https://mp.weixin.qq.com/s/HgXTuZd9fKdu8MoGAPP0Pw)
+    - [JS中实现延迟函数/柯里化/字符串及数组操作](https://mp.weixin.qq.com/s/DH3cH9bI81kJbVwIF7viEg)
     - [JS数组精简技巧](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
     - [JS实现异步任务](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
     - [GoJS实现交互式图](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
@@ -257,6 +260,7 @@
 + GraphQL
     - [GraphQL工具和库](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
     - [什么是GraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)
+    - [GraphQL作为API网关来监控微服务](https://mp.weixin.qq.com/s/8sG4YKwcK9szt4ni1mROcQ)
 + NPM
     - [10个最流行的NPM包](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
     - [发布一个无依赖的npm包](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)  
@@ -309,6 +313,7 @@
     - [数据库工程经验](https://mp.weixin.qq.com/s/zbAp1xMrxGoxz86uJ3y15Q)
     - [数据库减负](https://mp.weixin.qq.com/s/jgRPk_fyso8ns3WxzmY9Zg)
     - [分库分表](https://mp.weixin.qq.com/s/U-9W-vHUReuZ5tgvtCRzJQ)
+        - [MySQL分库分表](https://mp.weixin.qq.com/s/CoTO3owzgyciLfpVvFTb8w)
     - [分页查询](https://mp.weixin.qq.com/s/QHE064D9g1Hwa8-07RgYNg)
         - [别再用OFFSET+LIMIT分页](https://mp.weixin.qq.com/s/XCSvDx90ml3uDkwBah8XsQ)
     - [有序索引](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)
@@ -352,6 +357,7 @@
     - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)
     - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)
+    - [Redis字符串是如何实现](https://mp.weixin.qq.com/s/4JfGREmkElvSIY-sBRmMZQ)
     - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)
     - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)
@@ -669,6 +675,7 @@ done
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
 + [晚唐十大诗人](https://mp.weixin.qq.com/s/d9Uw_bjAZhIutSA__IMTAA)
++ [苏轼最智慧的20首诗词](https://mp.weixin.qq.com/s/sAkqckFXhSMXCLRx-kdynA)
 + [诗经简史](https://mp.weixin.qq.com/s/GBMJ4KabwcNtuanbVaMwIQ)
 + [楚辞](https://mp.weixin.qq.com/s/tc3Rlv0sF0IUOqyQZ7H0wg)
 + [古文十篇](https://mp.weixin.qq.com/s/rNLuL0DmyWDVi2bsxnH8Hw)
