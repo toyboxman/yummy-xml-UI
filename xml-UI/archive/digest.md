@@ -36,6 +36,7 @@
     - Java微服务指南[[1](https://mp.weixin.qq.com/s/_Wz7NweA1NV3-hTD0yA1Rg), [2](https://mp.weixin.qq.com/s/aO5Ocl48jNo7MNUOkbTwCw)]
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)
 	- [微服务的经验教训](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
+    - [微服务雪崩及应对措施](https://mp.weixin.qq.com/s/OZ8eYm2Vs-C9sCPvf9zJxQ)
     - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)  
     - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
@@ -83,11 +84,12 @@
         - [IO基本概念](https://mp.weixin.qq.com/s/yrLGQMEdkVgmk8WgV-mTXw)
     - 文件系统
         - [文件系统概要](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
-        - Linux文件系统[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q)]
+        - Linux文件系统[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q), [3](https://mp.weixin.qq.com/s/yDpJc9WMAZX0jnceouy3GA)]
+        - [文件读取过程](https://mp.weixin.qq.com/s/_pW0v7a7tKbGZpi3lRQVcw)
     - 计算系统
         - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
         - [补码](https://mp.weixin.qq.com/s/RVwRqcxSdP96dknUSmNTBg)
-        - [Linux进程总结](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug)
+        - Linux进程总结[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
         - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
         - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
         - 进程间通信-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
@@ -161,6 +163,8 @@
     - [链表解题](https://mp.weixin.qq.com/s/_1Jcnww8cJfGklm2RMUj0g)
     - TCP三次握手和四次挥手[[1](https://mp.weixin.qq.com/s/RTIfYMGCyVT4RKFXz4O6vw), [2](https://mp.weixin.qq.com/s/GwlqtvJM7rvfqLzmCsYexA)]
     - [浮点计算精度](https://mp.weixin.qq.com/s/0fke_MhsJ1lrQWOGdtyPlQ)
+    - [排序的复杂度](https://mp.weixin.qq.com/s/Y3swfRwEyAi572ek5B870g)
+    - [为什么不能除以0](https://mp.weixin.qq.com/s/YLp0ESj71KoOloUA5YzIzQ)
     - [软件效率分析组织](http://sape.inf.usi.ch/)
 
 #### Web
@@ -228,19 +232,19 @@
         + [webpack常用配置](https://mp.weixin.qq.com/s/SsiF2U4LrpnGb-k3KgAD6w)
         + [webpack高级配置](https://mp.weixin.qq.com/s/etFRqDtyjPB8icI7tMJPZA)
 + CSS
-    - [CSS布局指南](https://mp.weixin.qq.com/s/gIRqOKZAYwRUxWvKXbTvig)
+    - CSS布局指南[[1](https://mp.weixin.qq.com/s/gIRqOKZAYwRUxWvKXbTvig), [2](https://mp.weixin.qq.com/s/ljnqn8paEHIgShA3c-eoxw), [3](https://mp.weixin.qq.com/s/J80laygl2BsGSfU40AjXyw)]
     - [CSS眼前一亮的HOVER效果](https://mp.weixin.qq.com/s/0cBdXuJdfPtx8NfP5aAs4g)
 	- 前端开源CSS库[[1](https://mp.weixin.qq.com/s/Sjg6jgl1D6IkYgsuQSgFHg), [2](https://mp.weixin.qq.com/s/xwD_2K8ZpvpY0geCv865ew)]
-    - [CSS Grid布局](https://mp.weixin.qq.com/s/J80laygl2BsGSfU40AjXyw)
-	- [经典的CSS布局问题](https://mp.weixin.qq.com/s/ljnqn8paEHIgShA3c-eoxw)
     - [CSS知识点](https://mp.weixin.qq.com/s/CNWl36Oa6KBvdGZ-wC4odw)
+    - [CSS变量](https://mp.weixin.qq.com/s/z-082tB5JlvMup_RDoeqog)
     - [CSS第四级选择器](https://mp.weixin.qq.com/s/5mCWF2qAPWBhBpKAUuqJKw)
     - [CSS样式的解析过程](https://mp.weixin.qq.com/s/8G7dpvleCFmDPzijfMbiTw)
 + JavaScript/TypeScript
     - [使用TypeScript](https://mp.weixin.qq.com/s/wQy7ZqiuBcP6MHWW9H8dkg)
     - [JS中context和stack](https://mp.weixin.qq.com/s/pc6EbfCKN1xWd4Q6nBU-PQ)
     - [JS中实现map/reduce](https://mp.weixin.qq.com/s/HgXTuZd9fKdu8MoGAPP0Pw)
-    - [JS中实现延迟函数/柯里化/字符串及数组操作](https://mp.weixin.qq.com/s/DH3cH9bI81kJbVwIF7viEg)
+    - [JS中延迟函数/柯里化/字符串及数组操作](https://mp.weixin.qq.com/s/DH3cH9bI81kJbVwIF7viEg)
+    - [JS中过滤唯一/与或运算等](https://mp.weixin.qq.com/s/ir2y8RsZNrPQ2JJud1v08A)
     - [JS数组精简技巧](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
     - [JS实现异步任务](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
     - [GoJS实现交互式图](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
@@ -254,6 +258,7 @@
     - [AT-UI](https://at-ui.github.io/at-ui/#/zh/docs/introduction)
     - [Taro UI](https://taro-ui.jd.com/#/docs/introduction)
     - [lin-ui](https://github.com/TaleLin/lin-ui)
+    - [ruoyi](http://doc.ruoyi.vip/ruoyi/)
     - [小商城](https://github.com/linlinjava/litemall)
     - [45个单页面应用](https://github.com/bailicangdu/vue2-elm)
     - [前后端代码自动生成](https://github.com/zhangdaiscott/jeecg-boot)
@@ -283,7 +288,7 @@
     - [分布式文件系统](https://mp.weixin.qq.com/s/ZMC9zCRqNK2aMGigFg9mBA)
     - [分布式锁解读](https://mp.weixin.qq.com/s/jGw7gqV9OhG0eUbWiPfyyQ)
     - [分布式锁实现](https://mp.weixin.qq.com/s/2Jpy5qE_7ABILd9wcJ7q3Q)
-    - [Zookeeper实现分布式锁](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg)
+    - Zookeeper实现分布式锁[[1](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg), [2](https://mp.weixin.qq.com/s/DtLdmLhGO4wJxIaOWgrXQg)]
 	- [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
     - [构建一个分布式块存储](https://mp.weixin.qq.com/s/9PGS3jUI9bjAE7xR37v5Pw)
 + 高并发系统

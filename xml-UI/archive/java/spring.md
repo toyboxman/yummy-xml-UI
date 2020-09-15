@@ -8,37 +8,37 @@
 Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML configuration，减少应用开发时间，提供快速简单启动应用的方式。
 
 包括如下特点：<br>
-1. A flexible way to configure Java Beans, XML configurations, and Database Transactions.
-2. A powerful batch processing and manages REST endpoints.
-3. In Spring Boot, everything is auto configured; no manual configurations are needed.
-4. It offers annotation-based spring application
-5. Eases dependency management
-6. It includes Embedded Servlet Container
+1. 灵活配置Java Beans, XML configurations和Database Transactions.
+2. 强大的批处理和管理REST endpoints.
+3. 一切都是自动配置，不需要额外手动配置.
+4. 实现完全annotation-based spring application
+5. 简化依赖管理
+6. 内嵌Servlet Container
 
 ### Spring Boot Usage
 
 <div id = "bu1"></div>
 
-#### configuration binding
-Spring Boot提供[**@ConfigurationProperties**](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding)来声明class的root prefix，然后用一个增强binder自动将Environment中匹配prefixes的值绑定到properties，它也将自动将绑定对象exposes成Spring Bean
-
-Spring Framework本身还提供泛型注入[autowire-generics-type](https://www.baeldung.com/spring-autowire-generics), 集合注入[injecting-collections-type](https://www.baeldung.com/spring-injecting-collections)
+#### 1. application entry
+Spring Boot提供 **@SpringBootApplication** 来声明application的入口，被指定为应用入口classs可以申明一个或多个@Bean methods，同时自动触发auto-configuration与component scanning行为. 这是为convenience使用的合集标签，等同于同时声明 **@Configuration, @EnableAutoConfiguration,@ComponentScan**   
+- 参看Spring Framework说明--[spring bootstrap](#u0)
+- **code sample:**
+[1](https://github.com/apache/incubator-griffin/blob/master/service/src/main/java/org/apache/griffin/core/GriffinWebApplication.java#L31)
 
 <div id = "bu2"></div>
 
-#### application entry
-Spring Boot提供 **@SpringBootApplication** 来声明application的入口，表示这个configuration classs申明一个或多个@Bean methods ，并且触发auto-configuration与component scanning行为. 这是个convenience使用标签，等同于同时声明 **@Configuration, @EnableAutoConfiguration和@ComponentScan**   参看[spring bootstrap](#u0)
+#### 2. configuration binding
+Spring Boot提供 [**@ConfigurationProperties**](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding) 将Environment中配置的keys绑定到对应对象属性中，包括Simple property binding，Collection-based binding，Array-based binding，Map-based binding，Nested property.
 
-**code sample:**
-[1](https://github.com/apache/incubator-griffin/blob/master/service/src/main/java/org/apache/griffin/core/GriffinWebApplication.java#L31)
+Spring Framework还提供泛型注入[autowire-generics-type](https://www.baeldung.com/spring-autowire-generics), 集合注入[injecting-collections-type](https://www.baeldung.com/spring-injecting-collections) 两种方式
 
 <div id = "bubp"></div>
 
-#### [best practices](https://github.com/spring-projects/spring-boot/wiki/Building-On-Spring-Boot)
+#### 3. [best practices](https://github.com/spring-projects/spring-boot/wiki/Building-On-Spring-Boot)
 
 - **@EnableAutoConfiguration**
 
-通过此annotation设定，Spring Boot能基于项目依赖自动配置应用. 例如，如果MySQL database在classpath中, 而你没配置database connection, 但Spring Boot会自动配置一个in-memory database.
+Spring Boot能基于项目依赖自动配置应用. 例如，如果MySQL lib在classpath中, 而你没配置database connection, 但Spring Boot会自动配置一个in-memory database.
 
 - **@ComponentScan**
 
@@ -46,23 +46,23 @@ Spring Boot自动扫描所有项目中用此标签声明的components
 
 - **@SpringBootApplication**
 
-Spring Boot应用的入口是设定此annotation class的main method，会自动触发auto-configuration和component scanning行为。这是一个convenience annotation，等价于declaring @Configuration, @EnableAutoConfiguration和@ComponentScan。
+Spring Boot设定应用的入口的main method，会自动触发auto-configuration和component scanning行为。这是一个convenience annotation，等价于同时申明@Configuration, @EnableAutoConfiguration和@ComponentScan。
 
 - **@Component**
 
-表明被声明的class是一个"component"，使用自动配置和classpath scanning时候，这样的classes能够被自动找到(auto-detection)。其他class-level annotations也可被认为声明一个component。e.g. **@Repository** annotation or AspectJ's **@Aspect** annotation。
+Spring bean表明,被声明的class是一个"component"，使用自动配置和classpath scanning时候，这样的classes能够被自动找到(auto-detection)。其他class-level annotations也可被认为声明一个component。e.g. **@Repository** annotation or AspectJ's **@Aspect** annotation。
 
 - **@Service**
 
-表明被声明的class是一个"Service", 原始定义来自于Domain-Driven Design (Evans, 2003)，"an operation offered as an interface that stands alone in the model, with no encapsulated state." 也能理解为class是一个"Business Service Facade" (in the Core J2EE patterns sense)。此标签是个general-purpose stereotype，使用者可以根据使用需求缩小其语义范畴。可看做@Component的一种特例(specialization), 允许实现类通过classpath scanning被自动搜索到。
+Spring bean表明,被声明的class是一个"Service", 原始定义来自于Domain-Driven Design (Evans, 2003)，"an operation offered as an interface that stands alone in the model, with no encapsulated state." 也能理解为class是一个"Business Service Facade" (in the Core J2EE patterns sense)。此标签是个general-purpose stereotype，使用者可以根据使用需求缩小其语义范畴。可看做@Component的一种特例(specialization), 允许实现类通过classpath scanning被自动搜索到。
 
 - **@Controller**
 
-表明被声明的class是一个"Controller" (e.g. a web controller)。这是@Component的一种特例，允许实现类被自动搜索到。典型应用是Class与@RequestMapping声明的handler方法组合一起来处理web URL的映射。
+Spring bean表明,被声明的class是一个"Controller" (e.g. a web controller)。这是@Component的一种特例，允许实现类被自动搜索到。典型应用是Class与@RequestMapping声明的handler方法组合一起来处理web URL的映射。
 
 - **@Repository**
 
-表明被声明的class是一个"Repository", 作为一种封装存储、获取和搜寻数据行为的机制。
+Spring bean表明,被声明的class是一个"Repository", 作为一种封装存储、获取和搜寻数据行为的机制。
 Spring 2.5之后, 此标签也作为@Component的一种特例, 允许实现类通过classpath scanning被自动搜索到。
 
 - **Spring Boot starters**<br>Spring Boot会提供一些模板化依赖关系，来解决不同类型工程依赖管理难题。所有Spring Boot starters遵循相同命名规则 spring-boot-starter- *, *表明哪种应用。例如，如果开发Spring与JPA来访问数据库应用, 在工程中包含spring-boot-starter-data-jpa的依赖就足够了。

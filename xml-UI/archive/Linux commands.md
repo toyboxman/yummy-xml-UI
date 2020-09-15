@@ -95,6 +95,9 @@
         - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
         - [DNS访问原理](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg)
         - [IPv6难以取代IPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
+        - [TCP疑难杂症](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
+        - [虚拟网络](https://mp.weixin.qq.com/s/ihVGXk4-ZTgEozFMq7M7rg)
+        - [nmcli管理网络连接](https://mp.weixin.qq.com/s/rsc0zeWYwFRlIIvPnJ5tzA)
 - [Usual Command](#usual-command)
     - [Alias](https://mp.weixin.qq.com/s/wTokA2r-kxIMePmuVE98HA)
     - [List/ls](#list)
@@ -180,7 +183,7 @@ uname -a
 
 #### top
 + [批处理模式下运行top](https://mp.weixin.qq.com/s/T3nZRjEHEUUMeaLWUCif1w)
-+ [top找出 CPU占用高的进程](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ)
++ top找出CPU占用高的进程[[1](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ), [2](https://mp.weixin.qq.com/s/rLus3XL1-oeS_hYR_Kfexg)]
 ```console
 # list processes/memory etc.
 # 'h' for help content
