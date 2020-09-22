@@ -79,6 +79,7 @@
         - [Show Network Details](#show-network-details)
         - [Firewall/iptables/ufw/nftables](#iptablesfirewall)
         - [NC/netcat](#nc)
+        - [ss-Socket Statistics/netstat](#netstat)
         - [Ping/Arping](#pingarping)
         - [Nmap](#nmap)
         - [Tcpdump](#tcpdump)
@@ -86,7 +87,6 @@
         - [Route](#route)
         - [Show IP/Name Pair In DNS](#nslookup-dig)
         - [ethtool 管理以太网卡](https://mp.weixin.qq.com/s/3zl4NIbcm710sTt_a_gTkw)
-        - [ss-Socket Statistics 网络检测](https://mp.weixin.qq.com/s/jRjEQ2ekkH2CYh2OW3rHWw)
         - [mtr检测网络联通性](https://mp.weixin.qq.com/s/-DWPyHyGD_Lvdyp8KNSQ5w)
         - [网络测速工具fast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
         - [bmon/iftop/ntop查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
@@ -124,7 +124,6 @@
     - [Man/col/cheat/tldr](#man)
     - [Make](#make)
     - [Mount/Umount](#mountumount)
-    - [Netstat](#netstat)
     - [Nohup](#nohup)
     - [Pstree/ps/pgrep/tree](#pstree)
     - [Rename](https://mp.weixin.qq.com/s/SUgmF4VqvVTXS8LJ7dVCOQ)
@@ -1543,16 +1542,56 @@ sudo ln -s /apache/data /data
 ```
 
 #### netstat
++ [ss-Socket Statistics 网络检测](https://mp.weixin.qq.com/s/jRjEQ2ekkH2CYh2OW3rHWw)
 ```console
-# monitor port status
+# monitor all socket connections status
 netstat -tlnpua
 
-# List Active Internet connections and UNIX domain sockets
+# 列出全部Internet connections和UNIX domain sockets
 netstat -anp
 # Filter Listen state
 netstat -anp | grep LISTEN
-# list active internet connections incoming/outgoing address
+# 列出全部internet connections incoming/outgoing address
 netstat -tanp | less
+```
+比较新的Linux版本上已经把**netstat**作为deprecated删除，使用**ss**(socket statistic)命令替代
+```console
+# summarize socket connections status
+$ ss -s
+Total: 591
+TCP:   12 (estab 3, closed 0, orphaned 0, timewait 0)
+
+Transport Total     IP        IPv6
+RAW       0         0         0        
+UDP       14        6         8        
+TCP       12        5         7        
+INET      26        11        15       
+FRAG      0         0         0 
+
+# monitor all socket connections status
+$ ss
+
+# List all tcp connections
+ss -ta
+# List all tcp&udp connections
+ss -tua
+
+# 查看刚建立的 TCP 连接
+ss -t
+# 查看刚建立的 UNIX domain sockets连接
+ss -x
+
+# 仅显示监听中 TCP socket
+$ ss -lt
+State          Recv-Q         Send-Q                   Local Address:Port                   Peer Address:Port         
+LISTEN         0              128                            0.0.0.0:ssh                         0.0.0.0:*            
+LISTEN         0              100                          127.0.0.1:smtp                        0.0.0.0:*            
+# 仅显示监听中 TCP socket，并且port显示number替换service name
+# ssh/smtp 服务端口22/25
+$ ss -ltn
+State          Recv-Q         Send-Q                   Local Address:Port                   Peer Address:Port         
+LISTEN         0              128                            0.0.0.0:22                         0.0.0.0:*            
+LISTEN         0              100                          127.0.0.1:25                        0.0.0.0:*            
 ```
 
 #### nohup
