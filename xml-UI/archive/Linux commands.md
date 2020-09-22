@@ -65,7 +65,7 @@
         - [df/du](#dfdu)
         - [lsof](#lsof)
         - [stat/getfacl/setfacl](#statgetfaclsetfacl)
-        - [LVM](#lvm)
+        - [LVM/vgscan/lvs/pvs](#lvm)
         - iotop/iostat/htop/Monit/IPTraf[[1](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w), [2](https://mp.weixin.qq.com/s/flTlgzJbmSpUza9OoN6A0g)]    
         - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
         - 文件删除
@@ -89,7 +89,7 @@
         - [ss-Socket Statistics 网络检测](https://mp.weixin.qq.com/s/jRjEQ2ekkH2CYh2OW3rHWw)
         - [mtr检测网络联通性](https://mp.weixin.qq.com/s/-DWPyHyGD_Lvdyp8KNSQ5w)
         - [网络测速工具fast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
-        - [bmon查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
+        - [bmon/iftop/ntop查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
         - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
@@ -410,6 +410,7 @@ ldd /usr/bin/ls
 
 #### journalctl
 + [查询systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
++ [journal日志解决问题](https://mp.weixin.qq.com/s/py9HysqOxVSN5xy9rMmvRw)
 ```console
 # list system log reversely
 journalctl -r
@@ -1114,20 +1115,21 @@ king@suse-leap:~/source/github/griffin>
 ```
 
 #### stat
++ [stat命令创建文件列表](https://mp.weixin.qq.com/s/0gIeeVbmr3CuQF5IgNUVrg)
 ```console
-# check file status, like ls -lh or du -h ./
-stat pom.xml 
-  File: 'pom.xml'
-  Size: 17500           Blocks: 40         IO Block: 4096   regular file
+# 检查文件状态, 类似 ls -lh or du -h ./
+$ stat pom.xml 
+File: 'pom.xml'
+Size: 17500           Blocks: 40         IO Block: 4096   regular file
 Device: 803h/2051d      Inode: 37912934    Links: 1
 Access: (0644/-rw-r--r--)  Uid: ( 1000/    king)   Gid: (  100/   users)
 Access: 2018-09-14 16:29:35.863110661 +0800
 Modify: 2018-09-11 14:34:38.435743906 +0800
 Change: 2018-09-11 14:34:38.435743906 +0800
- Birth: -
+Birth: -
  
-# show file's owner/group
-ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
+# show owner/group
+$ ls python-glanceclient/tox.ini | xargs stat --printf " %U:%G \n"  
 king:users
 ```
 
@@ -2786,7 +2788,7 @@ With LVM, we can create logical partitions that can span across one or more phys
 * Finally the logical volumes are created from volume group.<br>
 ***Reference*** : [SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
 ```console
-cat /proc/partitions 
+$ cat /proc/partitions 
 major minor  #blocks  name
    2        0          4 fd0
    8        0   83886080 sda
@@ -2797,9 +2799,7 @@ major minor  #blocks  name
   11        0    1048575 sr0
 
 # if VM resizes storage capacity, need to restart VM. otherwise, fdisk -l doesn't show latest capacity
-# list one directory, fdisk -l /dev/sda4
-# active subcommands, fdisk /dev/sda
-fdisk -l
+$ fdisk -l
 Disk /dev/sda: 80 GiB, 85899345920 bytes, 167772160 sectors
 Units: sectors of 1 * 512 = 512 bytes
 Sector size (logical/physical): 512 bytes / 512 bytes
@@ -2813,9 +2813,12 @@ Device     Boot     Start       End  Sectors  Size Id Type
 /dev/sda3        56788992 134217727 77428736 36.9G 83 Linux
 /dev/sda4       134217728 167772159 33554432   16G 83 Linux
 
-# LVM2 tools containing all commands like vgscan/lvs/pvs
-# pvs — Report information about Physical Volumes.
-pvs -a
+#list a device capacity
+$ fdisk -l /dev/sda4
+
+#LVM2 tools containing all commands like vgscan/lvs/pvs
+#pvs — Report information about Physical Volumes.
+$ pvs -a
 PV         VG   Fmt Attr PSize PFree
 /dev/sda1           ---           0     0 
 /dev/sda2           ---           0     0 
@@ -2823,18 +2826,18 @@ PV         VG   Fmt Attr PSize PFree
 /dev/sda4           ---           0     0 
 
 # create physical volumes
-pvcreate /dev/sda6 /dev/sda7
+$ pvcreate /dev/sda6 /dev/sda7
 Physical volume "/dev/sda6" successfully created
 Physical volume "/dev/sda7" successfully created
 
 # pvscan — Scan all disks for Physical Volumes.
-pvscan -v
+$ pvscan -v
 PV /dev/sda6                      lvm2 [1.86 GB]
 PV /dev/sda7                      lvm2 [1.86 GB]
 Total: 2 [3.72 GB] / in use: 0 [0   ] / in no VG: 2 [3.72 GB]
 
 # pvdisplay - display attributes of a physical volume
-pvdisplay
+$ pvdisplay
 --- Physical volume ---
   PV Name             /dev/sda6
   VG Name
@@ -2847,11 +2850,11 @@ pvdisplay
   PV UUID               m67TXf-EY6w-6LuX-NNB6-kU4L-wnk8-NjjZf
 
 # vgcreate — create a volume group
-vgcreate vol_grp1 /dev/sda6 /dev/sda7
+$ vgcreate vol_grp1 /dev/sda6 /dev/sda7
   Volume  group "vol_grp1" successfully created
 
 # vgdisplay — display attributes of volume groups
-vgdisplay
+$ vgdisplay
   --- Volume group ---
   VG Name                     vol_grp1
   System ID
@@ -2873,16 +2876,16 @@ vgdisplay
   Free  PE / Size            952 / 3.72 GB
   VG UUID                     Kk1ufB-rT15-bSWe-5270-KDfZ-shUX
 
-# vgscan — scan all disks for volume groups and rebuild caches
-vgscan -v
+#vgscan — scan all disks for volume groups and rebuild caches
+$ vgscan -v
 
-# LVM Create Logical Volumes
-# lvcreate - create a logical volume in an existing volume group
-lvcreate -l 20 -n logical_vol1 vol_grp1
+#LVM Create Logical Volumes
+#lvcreate - create a logical volume in an existing volume group
+$ lvcreate -l 20 -n logical_vol1 vol_grp1
   Logical volume "logical_vol1" created
 
-# lvdisplay — display attributes of a logical volume
-lvdisplay
+#lvdisplay — display attributes of a logical volume
+$ lvdisplay
   --- Logical volume ---
   LV Name                /dev/vol_grp1/logical_vol1
   VG Name                vol_grp1
@@ -2898,8 +2901,8 @@ lvdisplay
   - currently set to     256
   Block device            252:0
   
-# lvs — report information about logical volumes
-lvs -a  
+#lvs — report information about logical volumes
+$ lvs -a  
 
 # creating the appropriate filesystem on the logical volumes
 # mke2fs - create an ext2/ext3/ext4 filesystem
@@ -2915,41 +2918,53 @@ lvextend -L+100 /dev/vol_grp1/logical_vol1
   Extending logical volume logical_vol1 to 200.00 MB
   Logical volume logical_vol1 successfully resized  
 ```   
-It is a common requirement to resize/expand btrfs file system since btrfs is widely used in Linux and also as Docker’s backend storage driver. There are two kinds of way to resize/expand root volume.
-- Add a new disk into the same btrfs volume
+resize/expand btrfs文件系统是个常见需求，因为btrfs文件系统被广泛应用于Linux和Docker作为backend storage driver.有两种方式可以resize/expand root volume.
+- 物理扩容: Add a new disk into the same btrfs volume
 ```console
-# you can add a new disk to the system by either presenting a new LUN 
-# or attach a new virtual disk if you are running a virtual machine
-# reboot system to make the new disk visible to OS
+# 1.增加一块新磁盘到系统中，对物理机是新增LUN设备，对虚拟机attach新虚拟磁盘
+# 2.reboot系统使新磁盘对OS可见
+# 3.增加一块磁盘，扫描新scsi disk device
+$ sudo rescan-scsi-bus.sh -a
 
-# scan new scsi disk device if add a physical disk
-rescan-scsi-bus.sh -a
+# 4.检查新增的磁盘设备是否在block列表中
+$ lsblk -f
+NAME   FSTYPE LABEL UUID MOUNTPOINT
+fd0                      
+sda                      
+|-sda1                   [SWAP]
+|-sda2                   /var/crash
+|-sda3                   /home
+`-sda4                   /usr/local
+sdb -- 这个一块新增加磁盘
 
-# verify the new disk can be seen by operating system
-# list block devices
-lsblk -f
-NAME   FSTYPE LABEL UUID                                 MOUNTPOINT
-fd0                                                      
-sda                                                      
-├─sda1 swap         dae040be-c25d-477a-b6a0-97048e9971a7 [SWAP]
-├─sda2 btrfs        71eaff99-493b-4798-a127-10745e62252a /
-├─sda3 xfs          388bc304-31f5-4a01-8ce6-52301fde7081 /home
-└─sda4 btrfs        bb05d1a3-50c2-417b-b241-b243b422fc77 /usr/local/docker/btrfs
-sdax  -- this is new physical disk
-
-# check new physical disk
-fdisk -l /dev/sdax
-
-Disk /dev/sdax: 10.7 GB, 10737418240 bytes, 20971520 sectors
-Units = sectors of 1 * 512 = 512 bytes
+# 5.检查新增加的磁盘
+$ fdisk -l /dev/sdb
+Disk /dev/sdb: 20 GiB, 21474836480 bytes, 41943040 sectors
+Units: sectors of 1 * 512 = 512 bytes
 Sector size (logical/physical): 512 bytes / 512 bytes
 I/O size (minimum/optimal): 512 bytes / 512 bytes
 
-# add new disk /dev/sdax to root volume
-btrfs device add /dev/sdax /
+# btrfs挂载之前 root volume大小
+$ df -h /
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        26G   17G  8.6G  66% /
 
-# distribute meta data from 1st disk /dev/sda to the 2nd disk /dev/sdax
-btrfs filesystem balance /
+# 6.把新磁盘设备/dev/sdb挂到root volume
+$ btrfs device add /dev/sdb /
+/dev/sda2        46G   17G   29G  36% /
+
+# btrfs挂载之后 root volume增加20G
+$ df -h /
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        46G   17G   29G  36% /
+
+# btrfs挂载磁盘后，不会自动把原来磁盘里存的东西，分布到新添加的磁盘，
+# 要想分给布到新的磁盘，需要使用 btrfs balance start
+# 7.distribute data从1st磁盘/dev/sda到2nd磁盘/dev/sdb
+# 此操作时间较长,可以增加balance filters减少数据balance,加快操作
+$ btrfs filesystem balance /
+# 命令第二种方式
+$ btrfs balance start /
 WARNING:
 
 Full balance without filters requested. This operation is very
@@ -2962,41 +2977,41 @@ Use Ctrl-C to stop it.
 Starting balance without any filters.
 Done, had to relocate 9 out of 9 chunks
 
-# verify the new size of the filesystem
-df -h /
-Filesystem    Size    Used    Avail    Use%    Mounted on
-/dev/sda3    56G     2.5G    52G      5%      /
+# 拆除掉一个物理磁盘, 拆除之后root volume会自动恢复原来大小
+# btrfs拆除物理设备前不需要卸载，会自动把要拆掉磁盘里的内容，拷贝到别的磁盘
+#（对比lvm在拆掉物理磁盘前，需要手动使用pvmove命令，拷贝内容到别的pv里）
+$ btrfs device delete /dev/sdb /
 ```
 - Expand to use available space on original disk
 ```console
-# fdisk does not support resize partition, so you need to delete the old partition
-# and create a new one partition
-fdisk /dev/sda
+# fdisk命令不能支持resize partition, 因此你需要删除旧分区
+# 然后再创建一个全新分区
+$ fdisk /dev/sda
 
-# let Linux kernel know the change you made to /dev/sda
-partprobe
-# if root file system is changed, reboot OS to let kernel see the change. 
-# If it is not a root filesystem, skip this step
-shutdown -r now
+# 通知Linux kernel对/dev/sda做的改变
+$ partprobe
+# 如果是对root file system做改动, reboot OS通知kernel改变
+# 如果不是对root filesystem做改动, 跳过这一步
+$ shutdown -r now
 
-# resize root folder extending 100M bytes
-btrfs filesystem resize +100m /
+# 调整root目录大小，增加100M bytes
+$ btrfs filesystem resize +100m /
 Resize '/' of '+100m'
 ERROR: unable to resize '/': no enough free space
-# resize to maxium
-btrfs filesystem resize max /
+# 调整root目录大小到可以空间最大
+$ btrfs filesystem resize max /
 Resize '/' of 'max'
 
-# Expand the PV on /dev/sda1 after enlarging the partition with fdisk:
-pvresize /dev/sda1
-# Shrink the PV on /dev/sda1 prior to shrinking the partition with fdisk 
-# ensure that the PV size is appropriate for your intended new partition size
-pvresize --setphysicalvolumesize 40G /dev/sda1
+# fdisk扩大分区大小后,在/dev/sda1设备上扩展(PV)
+$ pvresize /dev/sda1
+# 如果用fdisk缩小分区大小，需要在/dev/sda1设备上先缩小物理卷PV
+# 确保PV size匹配新分区大小
+$ pvresize --setphysicalvolumesize 40G /dev/sda1
 
-# grow your partition you can do it with the root mounted
-resize2fs /dev/sda1
-resize2fs /dev/sda1 25G
-resize2fs /dev/sda1 25400M
+# 可以用root mounted增加分区
+$ resize2fs /dev/sda1
+$ resize2fs /dev/sda1 25G
+$ resize2fs /dev/sda1 25400M
 ```
 
 ---

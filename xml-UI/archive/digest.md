@@ -118,6 +118,7 @@
 + ***Python***
     - [basic](python/python-basic.md)
     - [getopt/optparse/argparse解析命令行参数](https://mp.weixin.qq.com/s/1b4kUhW7w2xDTeJeJJZx-w)
+    - [正则表达式模块](https://mp.weixin.qq.com/s/_LyebPdd3slgW_Cw3vTbDA)
     - [FastAPI构建Web服务](https://mp.weixin.qq.com/s/i9HQpaU902Vt7kv0_tRFKw)
     - [kite-编写python代码的AI工具](https://mp.weixin.qq.com/s/q5GTpgxVPdBhufLTSP5mNw)
     - [Python任务自动化/命令行工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)
@@ -200,6 +201,7 @@
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
     - [前端开发20年变迁史](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
     - [前端样例代码](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew)
+    - [Web API](https://mp.weixin.qq.com/s/PA_bzHByHkjhODwD5m80Xg)
     - Flutter
         + [使用Flutter开发Web应用](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
         + [Flutter富文本方案](https://mp.weixin.qq.com/s/uqxLb5ToMdi9sqL6gDRW_g)
@@ -294,6 +296,7 @@
 + 高并发系统
     - [高并发系统的设计](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)
     - [高并发服务限流实践](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)
+    - [秒杀架构](https://mp.weixin.qq.com/s/b04s_56kjNANN37LmxK6pw)
     - [正确设置数据库连接池降低时延](https://mp.weixin.qq.com/s/CGmH4jmpTYODwnfpywRr1Q)
 + 数据处理系统
     - [服务升级数据迁移](https://mp.weixin.qq.com/s/d9RZX1dB3QWrmzUAGHZvEw)
@@ -353,6 +356,7 @@
 + [PostgreSQL](db/PostgreSQL.md)
     - [PostgreSQL入门](https://mp.weixin.qq.com/s/l7QSL8CiQ1RvSxjjxmIANg)
     - [PostgreSQL DBA常用SQL](https://mp.weixin.qq.com/s/JjcTwL99cNDuxp68Mu_bIw)
+    - [Uber放弃Postgres迁移MySQL](https://mp.weixin.qq.com/s/YCt0SvmH8666V06Md1BEDw)
 + [Oracle](db/oracle.md)
     - [新特性Persistent Memory Store](https://mp.weixin.qq.com/s/8jWVLY-hSbXhaDoPmADV6w)
     - [数据迁移工具expdp和impdp](https://mp.weixin.qq.com/s/XkuVG8yN1dNBwrwH-9dhKQ)
@@ -507,6 +511,7 @@ monitor in:description language:python
     + [synchronized原理](https://mp.weixin.qq.com/s/57E7oZK97zMwiRA38V05tQ)
     + [理清AQS互斥锁](https://mp.weixin.qq.com/s/boI51YneLxCWWxFBjiXpqA)
     + [并发编程](https://mp.weixin.qq.com/s/yhg5Kxd6AzR-kPpFAE-SdA)
+    + [HashMap并发问题](https://mp.weixin.qq.com/s/8fjL-kLnJFOTbvgvqqWTwg)
 + [Java网络协议](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
 + [JavaSE演进新方向](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
     - [Java9转身微服务](https://mp.weixin.qq.com/s/NJ-UoD5XgMz97KtnLoA6yw)
@@ -524,6 +529,7 @@ monitor in:description language:python
 + Markdown
     - [Markdeep扩展能力Markdown](https://mp.weixin.qq.com/s/ONNoK7r9Br-olOBnXRswkw)
 	- [4个Linux 命令行下的 Markdown 工具](https://mp.weixin.qq.com/s/9RRveBQU3iXEc04-rmCwVQ)
+    - [在线Markdown编辑器](https://mp.weixin.qq.com/s/WsJWwIJe_8xnvmZNZYb-9Q)
     - [Arya](https://markdown.lovejade.cn/)  
     一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析  
 + Generators

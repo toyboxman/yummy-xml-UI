@@ -11,7 +11,7 @@
 #### install
 推荐下载最新版本，[jmeter下载地址](https://jmeter.apache.org/download_jmeter.cgi). 
 ```console
-$ wget https://mirrors.bfsu.edu.cn/apache//jmeter/binaries/apache-jmeter-5.3.zip
+$ wget https://mirrors.bfsu.edu.cn/apache/jmeter/binaries/apache-jmeter-5.3.zip
 
 $ unzip apache-jmeter-5.3.zip
 
