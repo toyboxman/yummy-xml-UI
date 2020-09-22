@@ -1551,7 +1551,7 @@ netstat -tlnpua
 netstat -anp
 # Filter Listen state
 netstat -anp | grep LISTEN
-# 列出全部internet connections incoming/outgoing address
+# 列出全部connections 本地和对端ip地址
 netstat -tanp | less
 ```
 比较新的Linux版本上已经把**netstat**作为deprecated删除，使用**ss**(socket statistic)命令替代
@@ -1576,8 +1576,10 @@ ss -ta
 # List all tcp&udp connections
 ss -tua
 
-# 查看刚建立的 TCP 连接
-ss -t
+# 查看刚建立的 TCP 连接本地对端ip地址等信息
+$ ss -t
+State         Recv-Q         Send-Q                 Local Address:Port                     Peer Address:Port          
+ESTAB         0              0                        10.117.5.87:ssh                     10.117.237.59:60806  
 # 查看刚建立的 UNIX domain sockets连接
 ss -x
 
@@ -1591,7 +1593,11 @@ LISTEN         0              100                          127.0.0.1:smtp       
 $ ss -ltn
 State          Recv-Q         Send-Q                   Local Address:Port                   Peer Address:Port         
 LISTEN         0              128                            0.0.0.0:22                         0.0.0.0:*            
-LISTEN         0              100                          127.0.0.1:25                        0.0.0.0:*            
+LISTEN         0              100                          127.0.0.1:25                        0.0.0.0:*    
+# 仅显示监听中 TCP socket，并且显示关联进程
+$ ss -l -t -n -p
+State    Recv-Q   Send-Q       Local Address:Port       Peer Address:Port                                             
+LISTEN   0        5                  0.0.0.0:5901            0.0.0.0:*       users:(("Xvnc",pid=2484,fd=6))   
 ```
 
 #### nohup
