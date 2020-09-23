@@ -99,20 +99,19 @@ ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖĞÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃ
 
 ´ó¶àÊı³¡¾°ÖĞSpringApplication.run(Object, String[]) method±»Ö±½Ó´Ómain methodµ÷ÓÃÀ´bootstrap application, Ä¬ÈÏbootstrap application»á×öÒÔÏÂ¼¸¼şÊÂ£º
 
-1. Create an appropriate ApplicationContext instance (depending on your classpath)
-2. Register a CommandLinePropertySource to expose command line arguments as Spring properties
-3. Refresh the application context, loading all singleton beans
-4. Trigger any CommandLineRunner beans
+1. ´´½¨ApplicationContextÊµÀı(ÒÀÀµÓÚ classpath)
+2. ×¢²áCommandLinePropertySource°Ñcommand line argumentsµ¼³ö³ÉSpring properties
+3. Ë¢ĞÂapplication context, ¼ÓÔØÈ«²¿singleton beans
+4. ´¥·¢CommandLineRunner beans
 
 ```
-@Configuration
 @EnableAutoConfiguration
 public class MyApplication  {
 
     // ... Bean definitions
 
     public static void main(String[] args) throws Exception {
-    SpringApplication.run(MyApplication.class, args);
+        SpringApplication.run(MyApplication.class, args);
     }
 }
 ```
@@ -124,12 +123,6 @@ public static void main(String[] args) throws Exception {
      app.run(args)
 }
 ```
-SpringApplicationsÄÜ¹»´Ó¶àÖÖÔ´¶ÁÈ¡bean¶¨Òå. Ò»°ã½¨ÒéÓÃa single @Configuration classÀ´bootstrap application, È»¶øÒ²¿ÉÒÔÓĞÆäËûÑ¡Ôñ
-
-1. Class - A Java class to be loaded by AnnotatedBeanDefinitionReader
-2. Resource - An XML resource to be loaded by XmlBeanDefinitionReader, or a groovy script to be loaded by GroovyBeanDefinitionReader
-3. Package - A Java package to be scanned by ClassPathBeanDefinitionScanner
-4. CharSequence - A class name, resource handle or package name to loaded as appropriate. If the CharSequence cannot be resolved to class and does not resolve to a Resource that exists it will be considered a Package.
 
 <div id = "u1"></div>
 
@@ -141,209 +134,227 @@ springÔÊĞíÍ¨¹ı **@PropertySources** **@PropertySource** **@Value** **@Configurat
 <div id = "u2"></div>
 
 #### bean creation
-springÔÊĞíÍ¨¹ı **@Component** **@Configuration** **@Bean** [[***1***](https://www.baeldung.com/spring-bean)] ·½Ê½À´ÉêÃ÷ÓÉspringÈİÆ÷¹ÜÀíµÄbean£¬Í¬Ê±¿ÉÒÔÖ¸¶¨×÷ÓÃ·¶Î§[bean scope](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBean.md)
+springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.baeldung.com/spring-bean)] ·½Ê½À´ÉùÃ÷ÓÉspringÈİÆ÷¹ÜÀíµÄbean£¬Í¬Ê±¿ÉÒÔÖ¸¶¨×÷ÓÃ·¶Î§ **bean scope**
+- [**Bean Scope**](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBean.md)ÓĞÎåÖÖ×÷ÓÃÓò,ºóÈıÖÖ×÷ÓÃÓò½öÔÚ»ùÓÚwebµÄÓ¦ÓÃÖĞÊ¹ÓÃ(²»±Ø¹ØĞÄÄãËù²ÉÓÃµÄÊÇÊ²Ã´webÓ¦ÓÃ¿ò¼Ü),Ö»ÄÜÓÃÔÚ»ùÓÚ webµÄSpring ApplicationContext»·¾³¡£
+    - singleton(Î¨Ò»beanÊµÀı)
+    - prototype(Ã¿´ÎÇëÇó¶¼»á´´½¨Ò»¸öĞÂµÄbeanÊµÀı)
+    - request/session/global-session
 
 - **Application Context Events**
 ¿ÉÒÔÍ¨¹ı[@EventListener](https://www.baeldung.com/spring-context-events)À´ÕìÌıcontext¹ı³ÌÊÂ¼ş
 
-- **@Configuration**
-±íÃ÷´ËclassÉùÃ÷Ò»¸ö»ò¶à¸ö@Bean·½·¨£¬ÕâĞ©·½·¨½«»á±»Spring containerµ÷ÓÃÔÚruntimeÊ±À´²úÉúbean definitionsºÍservice requests. Configuration classes±ØĞëÊÇnon-final, non-local (i.e. not as instances returned from factory methods), allowing for runtime enhancements through a generated subclass.
-```java
-// ÉùÃ÷AppConfigÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
-@Configuration
-public class AppConfig {
+- **@Configuration** ±íÃ÷±»±ê×¢class¿ÉÒÔÉùÃ÷Ò»¸ö»ò¶à¸ö±ê×¢Îª **@Bean**µÄ·½·¨£¬ÕâĞ©·½·¨½«»á±»Spring containerµ÷ÓÃ,²¢ÔÚruntimeÊ±À´²úÉúbean definitionsºÍservice requests. ±»±ê×¢µÄclasses±ØĞëÊÇnon-final, non-local (i.e. ²»ÊÇfactory methods·µ»ØÊµÀı).   
 
-    @Autowired Environment env;
+    @Bean±ê×¢·½·¨Ò²¿ÉÒÔÖ±½ÓcallÍ¬Ò»¸öclassÖĞµÄÆäËû@Bean methods¡£ÕâÒªÇóbeans·½·¨Ö®¼äµÄÒıÓÃÊÇÇ¿ÀàĞÍºÍ»¥´ïµÄ£¬³ÆÖ®Îª'inter-bean references'£¬ËùÓĞbean¹¤³§·½·¨±ØĞëÊÇnon-finalºÍnon-privateĞŞÊÎ·û.
+    ```java
+    // ÉùÃ÷AppConfigÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
+    @Configuration
+    public class AppConfig {
 
-    // ÉùÃ÷MyBeanÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
-    @Bean
-    public MyBean myBean() {
-        // instantiate, configure and return bean ...
-        MyBean myBean = new MyBean();
-        myBean.setName(env.getProperty("bean.name"));
-        return myBean;
+        @Autowired Environment env;
+
+        // ÉùÃ÷MyBeanÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
+        @Bean
+        public MyBean myBean() {
+            // instantiate, configure and return bean ...
+            MyBean myBean = new MyBean();
+            myBean.setName(env.getProperty("bean.name"));
+            return myBean;
+        }
+        
+        // beanÃû³Æ¿ÉÒÔÖ¸¶¨Îª'b1' and 'b2',¶ø²»ÊÇ'yourBean'
+        // yourBean = ApplicationContext.getBean('b1')
+        @Bean(name = {"b1", "b2"}) 
+        public YourBean yourBean() {
+            // instantiate and configure MyBean obj
+            return obj;
+        }
     }
+    ```
+
+    @Configuration ±êÇ©»¹¿ÉÒÔÖ§³ÖÇ¶Ì×Ê¹ÓÃ, ÉùÃ÷µÄ**nested configuration classes**±ØĞëÊÇstatic. 
+    ```java
+    @Configuration
+    public class AppConfig {
+
+        @Inject DataSource dataSource;
+
+        @Bean
+        public MyBean myBean() {
+            return new MyBean(dataSource);
+        }
+
+        //Ç¶Ì× Configuration class
+        @Configuration
+        static class DatabaseConfig {
+            @Bean
+            DataSource dataSource() {
+                return new EmbeddedDatabaseBuilder().build();
+            }
+        }
+    }
+    ```
+
+    @Bean methodsÒ²¿ÉÒÔ²»Í¨¹ı@Configuration·½Ê½ÉùÃ÷. ÀıÈç¿ÉÒÔÉùÃ÷ÔÚ@Component classÉõÖÁa plain old class. ÕâÖÖ·½Ê½³ÆÖ®Îª'**lite**'. 
+
+    Bean methodsÔÚlite modeÏÂ±»springÈİÆ÷¿´×öÆÕÍ¨¹¤³§·½·¨(ÀàËÆfactory-method declarations in XML), Ò²ÓĞscoping and lifecycle callbacksÌØĞÔ. ÕâĞ©²úÉúµÄÈİÆ÷¶ÔÏó³ıÁË²»ÄÜĞŞ¸Ä, Ò²Ã»ÓĞÌØ±ğµÄÏŞÖÆ.
     
-    // bean available as 'b1' and 'b2', but not 'yourBean'
-    // yourBean = ApplicationContext.getBean('b1')
-    @Bean(name = {"b1", "b2"}) 
-    public YourBean yourBean() {
+    ²»ÏñÍ¨¹ı@Configuration classes²úÉúµÄbeans, 'inter-bean references'ÔÚlite modeÏÂ²»Ö§³Ö. µ±ÔÚlite mode³¢ÊÔ@Bean-methodµ÷ÓÃÁíÒ»¸ö@Bean-method, Õâ¸öµ÷ÓÃÊÇÒ»¸ö±ê×¼µÄJava method invocation£¬Spring²»»áÍ¨¹ıCGLIB proxyÀ´½Ø»ñinvocation. ÕâÓëinter-@Transactional method»¥ÏàÖ®¼äµ÷ÓÃÏàËÆ£¬Ò²ÊÇÍ¨¹ıproxy mode, Spring²»½Ø»ñinvocation.
+    ```java
+    @Component
+    public class Calculator {
+        public int sum(int a, int b) {
+            return a+b;
+        }
+
+        @Bean
+        public MyBean myBean() {
+            return new MyBean();
+        }
+    }
+    ```
+    
+    @Configuration class»¹¿ÉÒÔÍ¨¹ı[AnnotationConfigApplicationContext](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Configuration.html)À´³õÊ¼»¯
+    ```java
+    AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
+    ctx.register(AppConfig.class);
+    ctx.refresh();
+    MyBean myBean = ctx.getBean(MyBean.class);
+    // use myBean ...
+    ```
+
+    ÓĞĞ©ÌØÊâÇé¿öÏÂĞèÒª@Bean methods·µ»Ø[BeanFactoryPostProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/BeanFactoryPostProcessor.html)(BFPP) types. 
+    ÓÉÓÚBFPP¶ÔÏóÄÜ¸ÉÔ¤ÔÚ@Configuration classesÖĞÒ»Ğ©±êÇ©µÄ´¦ÀíÈç@Autowired, @Value, @PostConstruct. ÎªÁË±ÜÃâ³öÏÖlifecycleË³Ğòissues, BFPP¶ÔÏó±ØĞëÔÚcontainer lifecycleÔçÆÚ±»ÊµÀı»¯, Òò´Ë¿ÉÒÔ½«BFPP-returning @Bean methodsÉèÎª**static**ÀàĞÍ
+    ```java
+    @Bean
+    public static PropertyPlaceholderConfigurer ppc() {
+        // instantiate, configure and return ppc ...
+    }
+    ```   
+    È»¶østatic @Bean methods²»»á±»scoping and AOP semantics¶¯Ì¬ÔöÇ¿£¬½öÔÚBFPP casesÖĞÓĞĞ§, Í¬Ê±Ò²ÎŞ·¨±»ÆäËû@Bean methodsÒıÓÃµ½.×÷ÎªÌáÊ¾, Ò»ÌõWARN-level logĞÅÏ¢»á±»¼ÇÂ¼.
+    ```console
+    any non-static @Bean methods having a return type assignable to BeanFactoryPostProcessor.
+    ```
+
+- **@Import @ImportResource** ÓÃÀ´×¢Èëbean¶ÔÏó(e.g. via constructor injection) 
+    ```java
+    @Configuration
+    public class DatabaseConfig {
+
+        @Bean
+        public DataSource dataSource() {
+            // instantiate, configure and return DataSource
+        }
+    }
+
+    //Í¨¹ı¹¹Ôìº¯Êı×¢ÈëDatabaseConfig bean¶ÔÏó
+    @Configuration
+    @Import(DatabaseConfig.class)
+    public class AppConfig {
+
+        private final DatabaseConfig dataConfig;
+
+        public AppConfig(DatabaseConfig dataConfig) {
+            this.dataConfig = dataConfig;
+        }
+
+        @Bean
+        public MyBean myBean() {
+            // reference the dataSource() bean method
+            return new MyBean(dataConfig.dataSource());
+        }
+    }
+    ```
+    
+    Èç¹ûÊ¹ÓÃSpring XMLÅäÖÃ£¬@Configuration classes¾ÍĞèÒªÊ¹ÓÃ@ImportResource±êÇ©
+    ```java
+    @Configuration
+    @ImportResource("classpath:/com/acme/database-config.xml")
+    public class AppConfig {
+
+        @Inject DataSource dataSource; // from XML
+
+        @Bean
+        public MyBean myBean() {
+            // inject the XML-defined dataSource bean
+            return new MyBean(this.dataSource);
+        }
+    }
+    ```
+
+- **@Profile** Ö¸¶¨@Configuration classes¿É¸ù¾İprofileÀ´´¦Àí²»Í¬bean
+    ```java
+    @Profile("embedded")
+    @Configuration
+    public class EmbeddedDatabaseConfig {
+
+        @Bean
+        public DataSource dataSource() {
+            // instantiate, configure and return embedded DataSource
+        }
+    }
+
+    @Profile("production")
+    @Configuration
+    public class ProductionDatabaseConfig {
+
+        @Bean
+        public DataSource dataSource() {
+            // instantiate, configure and return production DataSource
+        }
+    }
+    ``` 
+
+- **@Scope, @DependsOn, @Primary, @Lazy @AutoConfigureBefore**
+ÓÉÓÚ@Bean²»Ìá¹©¸ü¶àÊôĞÔÉèÖÃ£¬Òò´ËÆäÓ¦Óë@Scope, @DependsOn, @Primary, and @LazyÀ´ÁªºÏÊ¹ÓÃ [Case Reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
+    ```java
+    @Bean
+    @Scope("prototype")
+    public MyBean myBean() {
         // instantiate and configure MyBean obj
         return obj;
     }
-}
-```
-µäĞÍÓÃ·¨ÖĞ@Bean methods±»ÉùÃ÷ÔÚ@Configuration classesÖĞ£¬@Bean methods¿ÉÒÔÖ±½ÓcallÍ¬Ò»¸ö@Configuration classµÄÆäËû@Bean methods¡£ÕâÈ·±£beansÖ®¼äµÄÒıÓÃÊÇÇ¿ÀàĞÍºÍ»¥´ïµÄ³ÆÎª'inter-bean references'£¬Òò´Ë@Configuration classesËùÓĞbean¹¤³§·½·¨±ØĞëÊÇ·ÇfinalºÍprivateĞŞÊÎ·û
-
-@Configuration classes»¹¿ÉÒÔÖ§³ÖÇ¶Ì×Ê¹ÓÃ, nested configuration classes±ØĞëÊÇstatic. ·Ç¾²Ì¬@Bean methods²»»áÒÀ´Î²úÉú¸ü¶àconfiguration classes, ¼´Ê¹ÕâĞ©beanÓÃÁË@Configuration±ê×¢£¬ÏµÍ³Ò²»áºöÂÔµô£¬½«ÆäÊÓÎªÆÕÍ¨²úÉúbean
-```
-@Configuration
-public class AppConfig {
-
-   @Inject DataSource dataSource;
-
-   @Bean
-   public MyBean myBean() {
-       return new MyBean(dataSource);
-   }
-
-   @Configuration
-   static class DatabaseConfig {
-       @Bean
-       DataSource dataSource() {
-           return new EmbeddedDatabaseBuilder().build();
-       }
-   }
-}
-```
-
-@Bean methodsÒ²¿ÉÒÔ²»Í¨¹ıµäĞÍ·½Ê½ÉùÃ÷. ÀıÈç¿ÉÒÔÉùÃ÷ÔÚ@Component classÉõÖÁa plain old class. ÕâÖÖ·½Ê½³ÆÖ®Îª'lite'. 
-Bean methodsÔÚlite modeÏÂ±»springÈİÆ÷¿´×öÆÕÍ¨¹¤³§·½·¨(ÀàËÆfactory-method declarations in XML), Ò²ÓĞscoping and lifecycle callbacksÌØĞÔ. ÕâĞ©²úÉúµÄÈİÆ÷¶ÔÏó³ıÁË²»ÄÜĞŞ¸Ä, Ò²Ã»ÓĞÌØ±ğµÄÏŞÖÆ. ÓëÖ®Ïà·´£¬²»ÏñÍ¨¹ı@Configuration classes²úÉúµÄbeans, 'inter-bean references'ÔÚlite mode²»Ö§³Ö. µ±ÔÚlite mode³¢ÊÔ@Bean-methodµ÷ÓÃÁíÒ»¸ö@Bean-method, Õâ¸öµ÷ÓÃÊÇÒ»¸ö±ê×¼µÄJava method invocation£¬Spring²»»áÍ¨¹ıCGLIB proxyÀ´½Ø»ñinvocation. ÕâÓëinter-@Transactional method»¥ÏàÖ®¼äµ÷ÓÃÏàËÆ£¬Ò²ÊÇÍ¨¹ıproxy mode, Spring²»½Ø»ñinvocation.
-```
-@Component
-public class Calculator {
-   public int sum(int a, int b) {
-       return a+b;
-   }
-
-   @Bean
-   public MyBean myBean() {
-       return new MyBean();
-   }
-}
-```
-@Configuration¿ÉÒÔÍ¨¹ı[AnnotationConfigApplicationContext](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Configuration.html)À´³õÊ¼»¯ÈİÆ÷
-```
-AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
-ctx.register(AppConfig.class);
-ctx.refresh();
-MyBean myBean = ctx.getBean(MyBean.class);
-// use myBean ...
-```
-
-ÓĞĞ©ÌØÊâÇé¿öÏÂĞèÒª@Bean methods·µ»Ø[BeanFactoryPostProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/BeanFactoryPostProcessor.html)(BFPP) types. ÓÉÓÚBFPP¶ÔÏóÄÜ¸ÉÔ¤ÔÚ@Configuration classesÖĞÒ»Ğ©±êÇ©µÄ´¦ÀíÈç@Autowired, @Value, @PostConstruct. ÎªÁË±ÜÃâ³öÏÖlifecycle issues, BFPP¶ÔÏó±ØĞëÔÚcontainer lifecycleÔçÆÚ±»ÊµÀı»¯, ¿ÉÒÔ½«BFPP-returning @Bean methodsÉèÎªstaticÀàĞÍ
-```
-@Bean
-public static PropertyPlaceholderConfigurer ppc() {
-   // instantiate, configure and return ppc ...
-}
-```   
-È»¶østatic @Bean methods²»»á±»scoping and AOP semantics¶¯Ì¬ÔöÇ¿£¬½öÔÚBFPP casesÖĞÓĞĞ§, Í¬Ê±Ò²ÎŞ·¨±»Õı³£µÄÆäËû@Bean methodsÒıÓÃµ½.×÷ÎªÌáÊ¾, Ò»ÌõWARN-level logĞÅÏ¢»á±»¼ÇÂ¼£¬any non-static @Bean methods having a return type assignable to BeanFactoryPostProcessor.
-
-- **@Import @ImportResource**
-ÓÃ@import±êÇ©Ò²¿ÉÒÔ×¢Èëbean¶ÔÏó(e.g. via constructor injection) 
-```
-@Configuration
-public class DatabaseConfig {
-
-   @Bean
-   public DataSource dataSource() {
-       // instantiate, configure and return DataSource
-   }
-}
-
-@Configuration
-@Import(DatabaseConfig.class)
-public class AppConfig {
-
-   private final DatabaseConfig dataConfig;
-
-   public AppConfig(DatabaseConfig dataConfig) {
-       this.dataConfig = dataConfig;
-   }
-
-   @Bean
-   public MyBean myBean() {
-       // reference the dataSource() bean method
-       return new MyBean(dataConfig.dataSource());
-   }
-}
-```
-Èç¹ûÊ¹ÓÃSpring XMLÅäÖÃ£¬@Configuration classes¾ÍĞèÒªÊ¹ÓÃ@ImportResource±êÇ©
-```
-@Configuration
-@ImportResource("classpath:/com/acme/database-config.xml")
-public class AppConfig {
-
-   @Inject DataSource dataSource; // from XML
-
-   @Bean
-   public MyBean myBean() {
-       // inject the XML-defined dataSource bean
-       return new MyBean(this.dataSource);
-   }
-}
-```
-
-- **@Profile**
-@Configuration classesÊ¹ÓÃ@Profile±íÃ÷¿É¸ù¾İÖ¸¶¨profileÀ´´¦Àí²»Í¬bean
-```
-@Profile("embedded")
-@Configuration
-public class EmbeddedDatabaseConfig {
-
-   @Bean
-   public DataSource dataSource() {
-       // instantiate, configure and return embedded DataSource
-   }
-}
-
-@Profile("production")
-@Configuration
-public class ProductionDatabaseConfig {
-
-   @Bean
-   public DataSource dataSource() {
-       // instantiate, configure and return production DataSource
-   }
-}
-``` 
-
-- **@Scope, @DependsOn, @Primary, @Lazy @AutoConfigureBefore**
-ÓÉÓÚ@Bean²»Ìá¹©¸ü¶àÊôĞÔÉèÖÃ£¬Òò´ËÆäÓ¦Óë@Scope, @DependsOn, @Primary, and @LazyÀ´ÁªºÏÊ¹ÓÃ£¬[Reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
-```java
-@Bean
-@Scope("prototype")
-public MyBean myBean() {
-    // instantiate and configure MyBean obj
-    return obj;
-}
-```
+    ```
 - **bean conflict**
 Í¬Ò»¸öÀàÈç¹û¼´ÓÃ@configuration£¬ÓÖÓÃ@beanÉùÃ÷µÄ»°£¬spring»áÌáÊ¾Í¬Ò»¸öbeanÓĞÁ½¸öÊµÀı£¬ÎŞ·¨autowire
-```java
-// ÉùÃ÷ListenerÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
-@Configuration
-public class Listener {
-    
-    // ÉùÃ÷ÈİÆ÷Í¨¹ı´Ë·½·¨²úÉúListenerÊµÀı
-    @Bean
-    public Listener getListener() {
+    ```java
+    // ÉùÃ÷ListenerÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
+    @Configuration
+    public class Listener {
+        
+        // ÉùÃ÷ÈİÆ÷Í¨¹ı´Ë·½·¨²úÉúListenerÊµÀı
+        @Bean
+        public Listener getListener() {
+        }
     }
-}
-
-ERROR£º
-Could not autowire. There is more than one bean of 'Listener' type.
-Beans:
-getListener?? (Listener.java) 
-listener?? (Listener.java) 
-```
-Í¬ÀíÒ»¸öÀàÈç¹û¼´ÓÃ@component£¬ÓÖÓÃ@beanÉùÃ÷µÄ»°£¬spring»á³õÊ¼»¯³ö²»Í¬µÄinstance, Òò¶ø²»Òª»ìÓÃ¡£ ÈçÏÂÀı¸ù¾İlistenerÊµÀıµÄid¿ÉÅĞ¶Ï³öÊµÀı²»Í¬£¬Ê¹ÓÃ@bean·½Ê½ºÃ´¦ÊÇ¿ÉÒÔÔÚ´´½¨¹ı³ÌÖĞ×öÒ»Ğ©²Ù×÷¡£
-```java
-// ÉùÃ÷ListenerÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
-@Component
-public class Listener {
-    private String id = UUID.random()
-    public Listener(){...}
-}
-
-@Configuration
-public class ListenerConfig {
     
-    @Bean
-    public getListener(){...}
-}
-```
+    // output:
+    ERROR£º
+    Could not autowire. There is more than one bean of 'Listener' type.
+    Beans:
+    getListener?? (Listener.java) 
+    listener?? (Listener.java) 
+    ```
+    
+    Í¬ÀíÒ»¸öÀàÈç¹û¼´ÓÃ@component£¬ÓÖÓÃ@beanÉùÃ÷µÄ»°£¬spring»á³õÊ¼»¯³ö²»Í¬µÄinstance, Òò¶ø**²»Òª»ìÓÃ**¡£ 
+    
+    ÈçÏÂÀı¸ù¾İlistenerÊµÀıµÄid¿ÉÅĞ¶Ï³öÈİÆ÷´´½¨Á½¸ö²»Í¬ÊµÀı£¬Ê¹ÓÃ **@bean·½Ê½ºÃ´¦**ÊÇ¿ÉÒÔÔÚ´´½¨¹ı³ÌÖĞ×öÒ»Ğ©²Ù×÷¡£
+    ```java
+    // ÉùÃ÷ListenerÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
+    @Component
+    public class Listener {
+        private String id = UUID.random()
+        public Listener(){...}
+    }
+
+    @Configuration
+    public class ListenerConfig {
+        
+        @Bean
+        public Listener getListener(){...}
+    }
+    ```
+
 - **bean Circular Dependencies**
 ³öÏÖbeansÖ®¼ä»¥ÏàÒÀÀµ¿ÉÒÔÓÃÕâÑù[lazy-workaround](https://www.baeldung.com/circular-dependencies-in-spring)µÈ·½Ê½½â¾ö
 
