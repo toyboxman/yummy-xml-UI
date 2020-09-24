@@ -91,7 +91,7 @@ Spring¹¤¾ßÀàÓÃÀ´¼ò»¯·´ÉäAPIÊ¹ÓÃ²¢´¦Àí·´Éäµ÷ÓÃ²úÉúÒì³£¡£²Î¿´[api doc](https://doc
 Ò»ÖÖFactory hookÔÊĞí¶ÔĞÂbeanÊµÀı×ö¶¨ÖÆĞŞ¸Ä, ÀıÈç¼ì²émarker interfaces(²»°üº¬·½·¨¶¨ÒåµÄ½Ó¿Ú)¡¢ÓÃproxiesÀ´°ü×°(wrap)ÕâĞ©bean¡£
 ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖĞÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃÇÓ¦ÓÃµ½ºóĞøbeanÊµÀıµÄ²úÉú¡£ÆÕÍ¨(Plain)bean¹¤³§ÔÊĞí³ÌĞòÊ½½øĞĞpost-processors×¢²á, ²¢Ó¦ÓÃµ½¹¤³§²úÉúµÄËùÓĞbeanÊµÀıÉÏ¡£µäĞÍÊ¹ÓÃ·½Ê½£¬Èç¹û²úÉúbeanÊµÀıÓ¦¸ÃÊµÏÖ½Ó¿ÚÖĞpostProcessBeforeInitialization, Èç¹ûÓÃproxiesÀ´°ü×°ÕâĞ©beanÔòÊµÏÖpostProcessAfterInitialization¡£ 
 
-### Spring Usage
+### Spring Framework Usage
 
 <div id = "u0"></div>
 
@@ -104,7 +104,7 @@ ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖĞÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃ
 3. Ë¢ĞÂapplication context, ¼ÓÔØÈ«²¿singleton beans
 4. ´¥·¢CommandLineRunner beans
 
-```
+```java
 @EnableAutoConfiguration
 public class MyApplication  {
 
@@ -116,7 +116,7 @@ public class MyApplication  {
 }
 ```
 ¸ü¶à¶¨ÖÆÅäÖÃµÄÆô¶¯¿ÉÒÔÈçÏÂÊµÏÖ
-``` 
+```java
 public static void main(String[] args) throws Exception {
      SpringApplication app = new SpringApplication(MyApplication.class);
      // ... customize app settings here
@@ -361,9 +361,9 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
 <div id = "u2s1"></div>
 
 #### bean creation order
-Spring×Ô¶¯²úÉúbeanÊµÀıµÄÊ±ºò¿ÉÒÔÖ¸¶¨ÏÈºóË³Ğò£¬Í¨¹ı[**@Order**](https://www.baeldung.com/spring-order), [**@DependsOn**](https://www.baeldung.com/spring-depends-on)¿ÉÒÔÈÃbeanË³Ğò²úÉú
+Spring×Ô¶¯²úÉúbeanÊµÀıµÄÊ±ºò¿ÉÒÔÖ¸¶¨ÏÈºóË³Ğò£¬Í¨¹ı[**@Order**](https://www.baeldung.com/spring-order), [**@DependsOn**](https://www.baeldung.com/spring-depends-on)¿ÉÒÔÈÃbean°´Ë³Ğò²úÉú
 
-Èç¹ûÏ£ÍûÁË½âspringÈİÆ÷ÖĞÃ¿Ò»¸öbean´´½¨µÄÊµ¼ÊË³Ğò£¬¿ÉÒÔ´ò¿ª[log4j2.xmlÑ¡Ïî](https://docs.spring.io/spring/docs/4.3.26.RELEASE/spring-framework-reference/htmlsingle/#overview-logging)
+Èç¹ûÏ£ÍûÁË½âspringÈİÆ÷ÖĞÃ¿Ò»¸öbean´´½¨µÄÊµ¼ÊË³Ğò£¬¿ÉÒÔenableÈÕÖ¾¿ª¹ØÊä³öµ½console£¬ÅäÖÃ²Î¿´ [log4j2.xmlÑ¡Ïî](https://docs.spring.io/spring/docs/4.3.26.RELEASE/spring-framework-reference/htmlsingle/#overview-logging)
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
@@ -407,7 +407,7 @@ Spring²úÉúµÄbeanÊµÀı¸÷½×¶ÎÖĞ¿ÉÒÔ²åÈëÒ»Ğ©Âß¼­[**@PostConstruct/InitializingBean/A
 
 #### bean schedule
 Í¨¹ı **@EnableScheduling @Scheduled** ¿ÉÒÔÊ¹ÓÃSpring's scheduled task¹¦ÄÜ,ÀàËÆ±êÇ©»¹ÓĞ **@EnableAsync, @EnableScheduling, @EnableTransactionManagement, @EnableAspectJAutoProxy, @EnableWebMvc**
-```
+```java
 @Configuration
 @EnableScheduling
 public class AppConfig {
@@ -428,8 +428,8 @@ public class MyTask {
    }
 }
 ```   
-Èç¹ûMyTaskÖ±½ÓÍ¨¹ı@ComponentÉùÃ÷, AppConfig¿ÉÒÔÖ±½ÓComponentScanÕÒµ½MyTaskÀ´µ÷¶È
-```
+Èç¹ûMyTaskÖ±½ÓÍ¨¹ı@ComponentÉùÃ÷, AppConfig¿ÉÒÔÖ±½Ó **@ComponentScan**ÕÒµ½MyTaskÀ´µ÷¶È
+```java
 @Configuration
 @EnableScheduling
 @ComponentScan(basePackages="com.example.tasks")
@@ -447,8 +447,8 @@ public class MyTask {
    }
 }
 ```   
-@ScheduledÒ²¿ÉÒÔÖ±½ÓÉùÃ÷µ½@Configuration classesµÄ·½·¨ÉÏ
-```
+**@Scheduled**Ò²¿ÉÒÔÖ±½ÓÉùÃ÷µ½@Configuration classesµÄ·½·¨ÉÏ
+```java
 @Configuration
 @EnableScheduling
 public class AppConfig {
@@ -459,27 +459,31 @@ public class AppConfig {
    }
 }
 ```
-SpringÒ²ÔÊĞí¶¨ÖÆschedulerÊµÏÖ£¬Ä¬ÈÏÇé¿öÏÂÊ¹ÓÃcontextÖĞÎ¨Ò»µÄTaskScheduler bean»òÕßjava.util.concurrent.ScheduledExecutorService bean.Èç¹û¶şÕßruntimeÊ±¿Ì¶¼ÎŞ·¨resolvable, a local single-threaded default scheduler½«±»´´½¨Ê¹ÓÃ.Èç¹û¶¨ÖÆschedulerĞèÒªÊµÏÖSchedulingConfigurer
-```
+SpringÔÚÄ¬ÈÏÇé¿öÏÂ»áÊ¹ÓÃcontextÖĞÎ¨Ò»µÄTaskScheduler beanÊµÀı»òÕßjava.util.concurrent.ScheduledExecutorService beanÊµÀı.
+
+Èç¹ûÒÔÉÏ¶şÕßÊµÀıÔÚruntimeÊ±¿Ì¶¼ÎŞ·¨resolvable, Ò»¸ölocal single-threaded default scheduler½«±»´´½¨Ê¹ÓÃ. 
+
+SpringÔÊĞí¶¨ÖÆschedulerÊµÏÖ£¬ĞèÒªÊµÏÖSchedulingConfigurer
+```java
 @Configuration
 @EnableScheduling
 public class AppConfig implements SchedulingConfigurer {
+    // ×¢²á¶¨ÖÆµÄscheduler
+    @Override
+    public void configureTasks(ScheduledTaskRegistrar taskRegistrar) {
+        taskRegistrar.setScheduler(taskExecutor());
+    }
 
-   @Override
-   public void configureTasks(ScheduledTaskRegistrar taskRegistrar) {
-       taskRegistrar.setScheduler(taskExecutor());
-   }
-
-    // ensures that the task executor is properly shut down 
-    // when the Spring application context itself is closed.
-   @Bean(destroyMethod="shutdown")
-   public Executor taskExecutor() {
-       return Executors.newScheduledThreadPool(100);
-   }
+    // µ±Spring application context¹Ø±Õºó
+    // Ö¸¶¨destroy·½·¨È·±£task executorÕı³£¹Ø±Õ
+    @Bean(destroyMethod="shutdown")
+    public Executor taskExecutor() {
+        return Executors.newScheduledThreadPool(100);
+    }
 }
 ```   
 Èç¹ûÏë×öÏ¸Á£¶È¿ØÖÆ(fine-grained control) ÈÎÎñ×¢²á£¬»¹¿ÉÒÔ¶¨ÖÆtrigger
-```
+```java
 @Configuration
 @EnableScheduling
 public class AppConfig implements SchedulingConfigurer {
@@ -514,12 +518,13 @@ public class AppConfig implements SchedulingConfigurer {
 #### aop
 Spring AOPÌá¹©¶ÔAspect-Oriented ProgrammingÖ§³Ö¡£²Î¿´Reference[[***1***](https://howtodoinjava.com/spring-aop-tutorial/), [***2***](https://www.baeldung.com/spring-aop-pointcut-tutorial)]
 
-+ [Spring AOP  Proxying Mechanisms](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop-proxying)
++ [Spring AOP Proxying Mechanisms](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop-proxying)
 + [Spring AOP vs AspectJ](https://www.baeldung.com/spring-aop-vs-aspectj)
 
     `Spring AOPÏà±ÈAspectJÔÚÊ¹ÓÃÉÏ¼òµ¥Ò»Ğ©£¬È±µãÒ²Ã÷ÏÔ£¬ÈçÖ»ÄÜÖ§³Öpublic·½·¨µÄAOP,²»Ö§³Ö¹¹Ôìº¯Êı¡£Í¨¹ıproxyÖ´ĞĞĞ§ÂÊÒ²±Èweaved classÎÄ¼şĞ§ÂÊµÍ. ¾²Ì¬Ö¯Èë·½Ê½ĞèÒªÔÚbuild¹ı³ÌÖĞÍ¨¹ıAspectJĞŞ¸ÄclassÎÄ¼ş¡£¶¯Ì¬Ö¯ÈëÔòĞèÒªÆô¶¯jvmÊ±ºòÖ¸¶¨²ÎÊı£¬Èç -javaagent:aspectjweaver.jar »ò -javaagent:spring-instrument.jar£¬»ò -javaagent:spring-agent.jar`
 
     `Ö¯Èë·½Ê½°Ñ·ûºÏpointcutµÄclassÎÄ¼şÈ«²¿ĞŞ¸Ä£¬proxy·½Ê½½ö½öÊÇÈÃproxy¸Ä±äµ÷ÓÃ·µ»Ø¡£proxy·½Ê½ÏÂ£¬½ö½öÍ¨¹ıspringÈİÆ÷´´½¨³öÀ´µÄ¶ÔÏóÊµÀı²Å»áÓĞadvice`
+
 + [Spring AOP Samples Of Three Modes](sample/spring)
     
     - spring-proxy-aop : 
@@ -566,7 +571,7 @@ public class MyclassAspect {
 }
 
 # PolicyFacadeImpl ÓĞÒ»¸ö@PostConstructµÄinit³õÊ¼»¯·½·¨
-# ËÆºõÔÙÖ²ÈëÇĞÃæ»áÔì³É²»¿ÉÔ¤ÖªµÄ³åÍ»£¬¾ßÌåÏ¸½ÚspringÃ»ÓĞ¸ø³ö¸üÏêÏ¸ÈÕÖ¾
+# ÔÙÖ²ÈëÇĞÃæµ½³õÊ¼»¯·½·¨»áÔì³É²»¿ÉÔ¤ÖªµÄ³åÍ»£¬¾ßÌåÏ¸½ÚspringÃ»ÓĞ¸ø³ö¸üÏêÏ¸ÈÕÖ¾
 # ËÆºõÓĞĞ©class²ãÃæµÄ³õÊ¼»¯·½·¨Ò²»áÓĞ³åÍ»
 @Aspect
 @Service
@@ -595,7 +600,7 @@ public void pcd1() {
 public void pcd2() {
 }
 
-# 3.»¹¿ÉÒÔÍ¨¹ı¹ıÂËPostConstruct±êÇ©·½Ê½ÅÅ³ı
+# 3.»¹¿ÉÒÔ¹ıÂËPostConstruct±êÇ©·½Ê½ÅÅ³ı
 @Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.*(..)) &&"
 + "!@annotation(javax.annotation.PostConstruct)")
 public void tracePointCut() {
@@ -608,7 +613,31 @@ public void tracePointCut() {
 #### jpa
 [spring-data-jpa](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)ÎªspringÌá¹©²Ù×÷Êı¾İ¶ÔÏóµÄÄÜÁ¦
 
-Ê¹ÓÃ[**@NoRepositoryBean**](https://www.baeldung.com/spring-data-jpa-method-in-all-repositories) À´¶¨ÒåBase Repository Interface, ²âÊÔÊ±ºòmock entityÓëspring test entity managerÅäºÏÊÇ¿ÉÄÜ»áÅöµ½ÎÊÌâ
+[**@NoRepositoryBean**](https://www.baeldung.com/spring-data-jpa-method-in-all-repositories) À´¶¨ÒåBase Repository Interface, ·ñÔòÄ¬ÈÏSpring behaviorÊÇÎªRepositoryËùÓĞ×Ó½Ó¿Ú´´½¨ÊµÏÖ.
+```java
+@NoRepositoryBean
+public interface ExtendedRepository<T, ID extends Serializable> 
+    extends JpaRepository<T, ID> {
+    
+    public List<T> findByAttributeContainsText(String attributeName, String text);
+}
+```
+SimpleJpaRepositoryÊÇSpringÌá¹©repository½Ó¿ÚÊµÏÖµÄÄ¬ÈÏÀà.
+```java
+public class ExtendedRepositoryImpl<T, ID extends Serializable>
+	  extends SimpleJpaRepository<T, ID> implements ExtendedRepository<T, ID> {
+	    
+    private EntityManager entityManager;
+    
+    public ExtendedRepositoryImpl(JpaEntityInformation<T, ?> 
+        entityInformation, EntityManager entityManager) {
+        super(entityInformation, entityManager);
+        this.entityManager = entityManager;
+    }
+    
+    // ...
+}
+```
 
 <div id = "u4s1"></div>
 
@@ -621,21 +650,21 @@ public void tracePointCut() {
 #### NoUniqueBeanDefinitionException
 Èç¹û¸ø¶¨µÄÀàĞÍ´æÔÚ¶à¸öbeanÊµÀı£¬ÔÚ×öÒÀÀµ×¢ÈëÊ±ºòÄãĞèÒª¸æËßSpringÈİÆ÷ÒªÊ¹ÓÃÄÄÒ»¸öbeanÊµÀı¡£Èç¹ûÃ»ÓĞÖ¸¶¨Spring»áthrow a NoUniqueBeanDefinitionException£¬¸æËßÄãÈİÆ÷²»ÖªµÀÓ¦¸Ã×¢ÈëÄÄÒ»¸öbeanÊµÀı
 
-ÓĞÁ½ÖÖ·½Ê½À´Ö¸¶¨×¢ÈëbeanÊµÀı£¬Ê¹ÓÃ@Primary±êÇ©£¬Ëü»á¸æËßSpringÈİÆ÷primary beanÊµÀıÔÚautowireÊ±ºòÓÅÏÈÆäËûÊµÀı¡£»òÊ¹ÓÃ@Qualifier±êÇ©£¬ËüÄÜ¸æËßSpringÄãÒª×¢ÈëbeanÊµÀıµÄname¡£Ä¬ÈÏÇé¿öÏÂbeanÊµÀıÒıÓÃnameÊÇÊ××ÖÄ¸Ğ¡Ğ´µÄclass name[ÒıÎÄ](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
+ÓĞÁ½ÖÖ·½Ê½À´Ö¸¶¨×¢ÈëbeanÊµÀı£¬Ê¹ÓÃ **@Primary**±êÇ©£¬Ëü»á¸æËßSpringÈİÆ÷primary beanÊµÀıÔÚautowireÊ±ºòÓÅÏÈÆäËûÊµÀı¡£»òÊ¹ÓÃ **@Qualifier**±êÇ©£¬ËüÄÜ¸æËßSpringÄãÒª×¢ÈëbeanÊµÀıµÄname¡£Ä¬ÈÏÇé¿öÏÂbeanÊµÀıÒıÓÃnameÊÇÊ××ÖÄ¸Ğ¡Ğ´µÄclass name. [case-ÒıÎÄ](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
 
 <div id = "ts2"></div>
 
 #### NoSuchBeanDefinitionException
 [**NoSuchBeanDefinitionException**](https://www.baeldung.com/spring-nosuchbeandefinitionexception)ÊÇÒ»ÖÖ³£¼ûµÄ×¢Èë´íÎó£¬³£³£ÓÉÓÚÕÒ²»µ½beanÊµÀı,»òÕßclass¶¨ÒåÕÒ²»µ½¶ø²úÉú¡£
 
-µ«ÓĞÊ±ºòÒ²»áÓÉÓÚbean´´½¨ÏÈºóË³Ğò¶ø²úÉú£¬ÀıÈçbean1ÏÈÓÚbean2´´½¨£¬bean1¶¨ÒåÖĞautowireÁËbean2£¬Õâ¸öÊ±ºòÒ²»á²úÉúÕâÑù´íÎó¡£½â¾ö°ì·¨¾ÍÊÇÈÃbean1 *@lazy* autowire bean2£¬»òÕß[Ö¸¶¨¼ÓÔØË³Ğò](#u2s1)
+µ«ÓĞÊ±ºòÒ²»áÓÉÓÚbean´´½¨ÏÈºóË³Ğò¶ø²úÉú£¬ÀıÈçbean1ÏÈÓÚbean2´´½¨£¬bean1¶¨ÒåÖĞautowireÁËbean2£¬Õâ¸öÊ±ºòÒ²»á²úÉúÕâÑù´íÎó¡£½â¾ö°ì·¨¾ÍÊÇÈÃbean1 **@lazy** autowire bean2£¬»òÕß[Ö¸¶¨¼ÓÔØË³Ğò](#u2s1)
 
 ### Unit Test
 <div id = "ut1"></div>
 
-#### junit
+#### JUnit
 The Spring TestContext frameworkÌá¹©[**@ContextConfiguration**](https://www.baeldung.com/junit-assert-exception), ÆäÄÜ½ÓÊÜan array of @Configuration Class objects
-```
+```java
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes={AppConfig.class, DatabaseConfig.class})
 public class MyTests {
@@ -650,11 +679,11 @@ public class MyTests {
    }
 }
 ```   
-spring¿ò¼ÜÌá¹©ÁËºÍjunit¼¯³ÉµÄ·½Ê½
-* junit integrates with spring<br>
-  1. simply annotate a JUnit 4 based test class with **@RunWith(SpringRunner.class)**<br>[***1.description***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***2.code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
-  2. org.springframework.test.web.servlet.**MockMvc**, server-side Spring MVC test support<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L67)
+Spring¿ò¼ÜÌá¹©ÁËºÍJUnit¼¯³ÉµÄ·½Ê½
+* JUnit integrates with spring<br>
+  1. ¼òµ¥µØÓÃ **@RunWith(SpringRunner.class)** ±ê×¢»ùÓÚJUnit 4µÄtest class<br>[***1.description***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***2.code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
+  2. Ê¹ÓÃorg.springframework.test.web.servlet.**MockMvc** ×÷Îªserver-side Spring MVC testµÄÖ§³Ö<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L67)
   3. ...
   4. ...
-* [test in spring boot](https://www.baeldung.com/spring-boot-testing)
-  1. **@DataJpaTest** combinates with @RunWith(SpringRunner.class) for a typical JPA test, which will use an embedded in-memory database<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobInstanceBeanRepoTest.java#L53)
+* [Test in Spring boot](https://www.baeldung.com/spring-boot-testing)
+  1. **@DataJpaTest** Óë **@RunWith(SpringRunner.class)** ×éºÏ×÷ÎªµäĞÍJPA test·½Ê½, ×Ô¶¯Ê¹ÓÃÒ»¸öembedded in-memoryÊı¾İ¿â<br>[***sample***](https://github.com/apache/griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobInstanceBeanRepoTest.java#L53)
