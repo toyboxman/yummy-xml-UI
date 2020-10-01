@@ -30,6 +30,7 @@
           + [Web Log Analysis](https://mp.weixin.qq.com/s/TD_-Vzn_KjyyAwviaPkF8A)
           + [Logrotate手动滚动日志](hhttps://mp.weixin.qq.com/s/unosQoE_QQdxOTgJaHUexg)
         - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
+        - [阻止对Web应用程序的DoS攻击](https://mp.weixin.qq.com/s/-gdjcwv8gnolYwVGyF8mGQ)
         - [Glances多功能系统监控工具](https://mp.weixin.qq.com/s/R4mHOERnPhKCkCffaXFAyQ)
     - Account Management
         - [Activate Account](#activate-account)
@@ -65,7 +66,7 @@
         - [df/du](#dfdu)
         - [lsof](#lsof)
         - [stat/getfacl/setfacl](#statgetfaclsetfacl)
-        - [LVM/vgscan/lvs/pvs](#lvm)
+        - [LVM/vgscan/lvs/pvs/btrfs](#lvm)
         - iotop/iostat/htop/Monit/IPTraf[[1](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w), [2](https://mp.weixin.qq.com/s/flTlgzJbmSpUza9OoN6A0g)]    
         - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
         - 文件删除
@@ -94,6 +95,7 @@
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
         - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
         - [DNS访问原理](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg)
+        - [负载均衡三种模型(NAT/DR/TUN)](https://mp.weixin.qq.com/s/d74E2iF2RCJERmc_Fy4wFg)
         - [IPv6难以取代IPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
         - [TCP疑难杂症](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
         - [虚拟网络](https://mp.weixin.qq.com/s/ihVGXk4-ZTgEozFMq7M7rg)
@@ -2827,11 +2829,14 @@ size -td core
 ---
 
 #### LVM
++ [创建/配置 LVM](https://mp.weixin.qq.com/s/a35F2sfuU_5JzLU2AypAgA)
++ [SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
++ [使用Btrfs快照进行增量备份](https://mp.weixin.qq.com/s/hqhw8IDq4ID9t1TyxPL62A)
+
 With LVM, we can create logical partitions that can span across one or more physical hard drives.<br>
 * First, the hard drives are divided into physical volumes, 
 * Then those physical volumes are combined together to create the volume group,
-* Finally the logical volumes are created from volume group.<br>
-***Reference*** : [SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
+* Finally the logical volumes are created from volume group.
 ```console
 $ cat /proc/partitions 
 major minor  #blocks  name

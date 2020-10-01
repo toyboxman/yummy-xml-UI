@@ -6,7 +6,6 @@
 + [***Machine Learning***](#machine-learning)
 + [***Docker***](#docker)
 + [***Kubernetes***](#kubernetes)
-+ [***ElasticSearch***](#elasticsearch)
 + [***Web***](#web)
 + [***Tools***](#tools)
 + [***Interview***](#interview)
@@ -119,6 +118,7 @@
     - [basic](python/python-basic.md)
     - [getopt/optparse/argparse解析命令行参数](https://mp.weixin.qq.com/s/1b4kUhW7w2xDTeJeJJZx-w)
     - [正则表达式模块](https://mp.weixin.qq.com/s/_LyebPdd3slgW_Cw3vTbDA)
+    - [有用的Python库](https://mp.weixin.qq.com/s/4chEQ3-jdQd9CD9ycv0ibA)
     - [FastAPI构建Web服务](https://mp.weixin.qq.com/s/i9HQpaU902Vt7kv0_tRFKw)
     - [kite-编写python代码的AI工具](https://mp.weixin.qq.com/s/q5GTpgxVPdBhufLTSP5mNw)
     - [Python任务自动化/命令行工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)
@@ -195,12 +195,12 @@
     - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
 + Nginx
     - [极简教程](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
-    - 架构设计[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw)]
+    - 架构设计[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw), [3](https://mp.weixin.qq.com/s/fTRlEkBSgpm0suIICsG_iQ)]
     - [反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
     - [日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
     - [前端开发20年变迁史](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
-    - [前端样例代码](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew)
+    - 前端样例代码[[1](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew), [2](https://mp.weixin.qq.com/s/Tqqkn56C-S3jXe5Wqwuq8g)]
     - [Web API](https://mp.weixin.qq.com/s/PA_bzHByHkjhODwD5m80Xg)
     - Flutter
         + [使用Flutter开发Web应用](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
@@ -264,6 +264,7 @@
     - [小商城](https://github.com/linlinjava/litemall)
     - [45个单页面应用](https://github.com/bailicangdu/vue2-elm)
     - [前后端代码自动生成](https://github.com/zhangdaiscott/jeecg-boot)
+    - [静态网站生成工具](https://mp.weixin.qq.com/s/vKAUczNgkwl48lVXIZ-zBA)
 + GraphQL
     - [GraphQL工具和库](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
     - [什么是GraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)
@@ -281,6 +282,11 @@
 + [架构模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)
 + [架构特点](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)
 + [架构伸缩性原则](https://mp.weixin.qq.com/s/77-owRKydWDQ14Lu4mmpiw)
++ [安全架构评审](https://mp.weixin.qq.com/s/ndv8Grd8AF2k_LzL33L8yQ)
++ [架构师的核心工作内容](https://mp.weixin.qq.com/s/ZYDTpsvYd-G61pqwLqgChw)
++ [关于技术盘点和总结](https://mp.weixin.qq.com/s/4NkQ70WdLybM0fGgo7nC2g)
++ [通用型系统架构设计](https://mp.weixin.qq.com/s/m78LXtrGoLxs_qzBvP8NcA)
++ [高可用系统架构设计](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)
 + 分布式架构
     - [农行分布式架构](https://mp.weixin.qq.com/s/jVrMyGUBythuCaMFPp1XcA)
 	- [基于JAVA后端基础架构实践](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)
@@ -309,6 +315,7 @@
 + [物联网](https://mp.weixin.qq.com/s/iVackIMMIwPYQ6mHQ_Q_uw)
 + [混沌工程](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)
 + [技术选型](https://mp.weixin.qq.com/s/2FN6x8VMA_v6kMW9t5hTww)
++ [DevOps工具链](https://mp.weixin.qq.com/s/1t1jICQEgXSJ51DVj6JrfQ)
 + [无服务器迁移实践](https://mp.weixin.qq.com/s/kJi2or1e7mQAJzeONeVfeA)
 + [API的演变-从REST到WebSocket/gRPC/GraphQL](https://mp.weixin.qq.com/s/CieKMCv2LbV0eDnoVOoQXw)
 + Dubbo
@@ -326,6 +333,7 @@
     - [分页查询](https://mp.weixin.qq.com/s/QHE064D9g1Hwa8-07RgYNg)
         - [别再用OFFSET+LIMIT分页](https://mp.weixin.qq.com/s/XCSvDx90ml3uDkwBah8XsQ)
     - [有序索引](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)
+        - [使用了索引查询还是慢](https://mp.weixin.qq.com/s/0ergLeCIsZoq23LxdujiEQ)
     - [数据库中间件详解 ](https://mp.weixin.qq.com/s/Nsbv4yIglDZqYkhfwHRyzQ)
     - [数据库‘状态’字段设计](https://mp.weixin.qq.com/s/VZFAc-LdeF4YaoixQsf3kw)
     - [数据建模工具](https://mp.weixin.qq.com/s/92y3kAfPTtDdiLcoN9h76A)
@@ -354,9 +362,11 @@
     - [MySQL Router高可用](https://mp.weixin.qq.com/s/WCx_ok-ajUgL4ICETXgVAA)
     - [MySQL分布式事务XA Transactions](https://mp.weixin.qq.com/s/24m9mD8JpHaPVb7lV9Gwvw)
     - [MySQL CPU性能定位](https://mp.weixin.qq.com/s/zl9YCdW1ZXYlotTBN-DNLA)
+    - [别在MySQL中使用UTF-8](https://mp.weixin.qq.com/s/vI49TqUcMX0qm5CNVfuZrA)
 + [PostgreSQL](db/PostgreSQL.md)
     - [PostgreSQL入门](https://mp.weixin.qq.com/s/l7QSL8CiQ1RvSxjjxmIANg)
     - [PostgreSQL DBA常用SQL](https://mp.weixin.qq.com/s/JjcTwL99cNDuxp68Mu_bIw)
+    - [实现密码复杂度检查](https://mp.weixin.qq.com/s/sFbmsXF0jpMfEUzqavx0TQ)
     - [Uber放弃Postgres迁移MySQL](https://mp.weixin.qq.com/s/YCt0SvmH8666V06Md1BEDw)
 + [Oracle](db/oracle.md)
     - [新特性Persistent Memory Store](https://mp.weixin.qq.com/s/8jWVLY-hSbXhaDoPmADV6w)
@@ -382,6 +392,7 @@
         ScalaNLP is the umbrella project for several libraries. [Breeze](https://github.com/scalanlp/breeze/wiki/Quickstart) is a set of libraries for machine learning and numerical computing.
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
+    - [Flink+Hive构建流批一体准实时数仓](https://mp.weixin.qq.com/s/QgXWA0YvyZiYzXgpW7jLug)
 + [HBase RowKey](https://mp.weixin.qq.com/s/ENvPR3kDNG09hMZuhc1BHA)
 + MQ
     - [Kafka架构设计](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
@@ -395,8 +406,10 @@
 + ElasticSearch
     - [简单教程](https://mp.weixin.qq.com/s/3Ww4ufcLdzL3zXE7j_0Jnw)
     - [安装Elasticsearch和Kibana](https://mp.weixin.qq.com/s/K3IT0NGODEZwzvHlIREDfg)
-    - [ElasticSearch实现日均5亿查询量的京东订单中心](https://mp.weixin.qq.com/s/9QgQRYMdBeBiBtIYiGD7yA)  
+    - [ElasticSearch实现日均5亿查询量的京东订单中心](https://mp.weixin.qq.com/s/9QgQRYMdBeBiBtIYiGD7yA)
+    - [Clickhouse替代ES](https://mp.weixin.qq.com/s/fzgrs8_dOpv2bB4oQHli5A)  
 + Business intelligence
+    - [数据湖与数据仓库的新未来](https://mp.weixin.qq.com/s/DWgiTi4XGzQqPpfXOSkVFA)
     - [superset](https://superset.incubator.apache.org/)  
         Apache的这个项目可以对大多数database engines进行数据分析处理  
     - [Flink](https://en.wikipedia.org/wiki/Apache_Flink)  
@@ -429,6 +442,7 @@
     - [ansible-bender构建容器镜像](https://mp.weixin.qq.com/s/ZxyhsXp7w03tMYzmhBsF1A)
     - [docker-slim/docker-gc/watchtower等工具](https://mp.weixin.qq.com/s/fY0bfMGL3UXT_3j4LZXaHw)
     - [Docker安全工具Bench/Clair/Cilium](https://mp.weixin.qq.com/s/RfUYAcAspWBytCfEygDpLg)
+    - [KVM架构与原理](https://mp.weixin.qq.com/s/qFT6zcRDoxFF-XqW86VRtw)
 
 #### GitHub
 + [开源的7大理念](https://mp.weixin.qq.com/s/P45JQoQfnCnVOPlokwJFMA)
@@ -445,7 +459,7 @@ GitHub提供代码库检索功能
     + [检索语法](https://help.github.com/en/articles/about-searching-on-github)
     + [code search语法](https://help.github.com/en/articles/searching-code)
     + [Github高级搜索技巧](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
-    + [GitHub Actions技巧](https://mp.weixin.qq.com/s/L3VBR_mOj8TUhJAcO-rG-w)
+    + GitHub Actions自动化打包/部署技巧[[1](https://mp.weixin.qq.com/s/L3VBR_mOj8TUhJAcO-rG-w), [2](https://mp.weixin.qq.com/s/yg7_3e30hnXlyiv_YhtLOA)]
 ```console
 # 1.限定从java语言的项目(language:java)中
 # 2.搜寻扩展名是java(extension:java)的文件内容(in:file)
@@ -507,6 +521,7 @@ monitor in:description language:python
     - [Netty解决粘包半包问题](https://mp.weixin.qq.com/s/WuaVdD0_nGaoGZog3tCrqw)
     - [一个TCP连接上面能发多少个HTTP请求](https://mp.weixin.qq.com/s/fa-FV3mWK6e8CK9wJ8LMmA)
     - [JVM类加载概述](https://mp.weixin.qq.com/s/lu-lwKp-bmX8SUySatZ0SA)
+    - [构造函数没有返回值是怎么赋值](https://mp.weixin.qq.com/s/Se7engxA7Dbdj8NHrSCF3Q)
 + Lock
     + [深入Java Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
     + [synchronized原理](https://mp.weixin.qq.com/s/57E7oZK97zMwiRA38V05tQ)
@@ -580,6 +595,7 @@ monitor in:description language:python
 #### Contract
 + Offer negociation[[1](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q), [2](https://mp.weixin.qq.com/s/mr9URCUSzgESLRkhhgHEdA)]
 + [劳动合同到期续签](https://mp.weixin.qq.com/s/1sIyoiluui3fNdK79o_3tw)
++ [每月为啥只发21.75天工资](https://mp.weixin.qq.com/s/KtWXaxGtr5hSSWmvNAXa0g)
 + [王叔文权谋](https://mp.weixin.qq.com/s/dR6LzczILAjrh5CJGme2wA)
 
 #### protobuf

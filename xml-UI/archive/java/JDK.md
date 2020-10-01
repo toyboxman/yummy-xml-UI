@@ -324,3 +324,9 @@ mv arthas-boot.jar /opt/app/proton-tomcat
 # 用proton用户权限启动进程，attach到 jvm 3331进程
 sudo -u proton /usr/java/jdk1.8.0_251/bin/java -jar /opt/app/proton-tomcat/arthas-boot.jar 3331
 ```
+当search loaded class时候，常常碰到class找不到,确认jar文件已经放在classpath. 
+```console
+[arthas@27705]$ sc *MyContext
+Affect(row-cnt:0) cost in 2319 ms.
+```
+这种情况一般是由于目标class未被其他class调用到，因此jvm中没有加载，只要触发调用后就可以search到。
