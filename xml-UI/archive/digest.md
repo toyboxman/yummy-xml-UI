@@ -276,7 +276,8 @@
     Ratpack is a simple, capable, toolkit for creating high performance web applications. Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.      
 
 #### Architecture
-+ [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)
++ [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
+    `SMART目标/15条规则`
 + [架构模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)
 + [架构特点](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)
 + [架构伸缩性原则](https://mp.weixin.qq.com/s/77-owRKydWDQ14Lu4mmpiw)

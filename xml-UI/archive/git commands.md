@@ -376,6 +376,28 @@ git commit --amend
 git reset @~  
 # Git will replay the subsequent changes on top of your modified commit
 git rebase --continue  
+
+# rebase本地提交，合并多个提交为一个提交
+git rebase -i @~3
+pick f7f3f6d Change my name a bit
+pick 310154e Update README formatting and add blame
+pick a5f4a0d Add cat-file
+# squash是把后两合并进前一个，保留commit log message， 允许自己修改
+pick f7f3f6d Change my name a bit
+squash 310154e Update README formatting and add blame
+squash a5f4a0d Add cat-file
+# log message由三个提交信息合并如下
+Change my name a bit
+
+Update README formatting and add blame
+
+Add cat-file
+# fixup和squash一样功能，区别仅是不保留合并进去的commit log message
+pick f7f3f6d Change my name a bit
+fixup 310154e Update README formatting and add blame
+fixup a5f4a0d Add cat-file
+# log message仍旧是第一个
+Change my name a bit
 ```
 
 ### git reset revert

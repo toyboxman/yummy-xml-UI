@@ -398,6 +398,42 @@ $ grep -in 'singleton bean' /var/log/restart.log | less
 #### bean reference
 引用Spring产生的bean实例有多种方式[**@Autowired/@Inject/@Resource**](https://www.baeldung.com/spring-annotations-resource-inject-autowire) , 对于抽象类还支持[**autowired-abstract-class**](https://www.baeldung.com/spring-autowired-abstract-class).  如果不期望即时injection发生可以[**lazy-injection**](https://www.baeldung.com/spring-lazy-annotation)
 
+如果不想通过注入方式,而希望通过 **ApplicationContext** 来获取bean的引用，就需要让Spring容器将已初始化完成的上下文set到指定地方，通过 [**ApplicationContextAware**](https://www.jianshu.com/p/4c0723615a52) 接口实现
+```java
+//Spring容器不会自动去执行setApplicationContext，除非容器能感知存在这样的容器外的class 
+//所以要告知Spring存在这个类，可使用@Component使class注册到Spring
+//或者也可以通过xml配置文件声明这个bean
+@Component
+public class MyContext implements ApplicationContextAware {
+
+    private static Logger logger = Logger.getLogger();
+
+    public static final String PREFIX = "#log-prefix#";
+
+    private static ApplicationContext context;
+
+    // Spring容器会调用此方法
+    @Override
+    public void setApplicationContext(ApplicationContext applicationContext)
+            throws BeansException {
+        context = applicationContext;
+        logger.info("{}ApplicationContext is set to {}", PREFIX, applicationContext);
+    }
+
+    public static <T extends Object> T getBean(Class<T> beanClass) throws BeansException {
+        if (context == null) {
+            return null;
+        }
+        try {
+            return context.getBean(beanClass);
+        } catch (BeansException e) {
+            logger.info("{}Fail to get bean by name[{}]", PREFIX, beanClass.getName());
+            throw e;
+        }
+    }
+}
+```
+
 <div id = "u2s3"></div>
 
 #### bean stages
