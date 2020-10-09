@@ -344,8 +344,10 @@
 + Dubbo
     - [Dubbo架构](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)  
         `服务注册中心/动态代理层Proxy/Cluster集群层/protocol协议层/Exchange信息交换层/Transport网络通信层`
-    - [Dubbo心跳设计](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)
-+ [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)
+    - [Dubbo心跳设计](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)  
+        `TCP短连接/长连接/保活/Netty-HashedWheelTimer`
++ [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)  
+    `雪崩效应/缓存穿透/HystrixCommand/资源隔离/熔断`
 
 #### Database
 + 基本知识
