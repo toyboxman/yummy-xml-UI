@@ -279,47 +279,71 @@
 #### Architecture
 + [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
     `SMART目标/15条规则`
-+ [架构模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)
-+ [架构特点](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)
-+ [架构伸缩性原则](https://mp.weixin.qq.com/s/77-owRKydWDQ14Lu4mmpiw)
-+ [安全架构评审](https://mp.weixin.qq.com/s/ndv8Grd8AF2k_LzL33L8yQ)
-+ [架构师的核心工作内容](https://mp.weixin.qq.com/s/ZYDTpsvYd-G61pqwLqgChw)
-+ [关于技术盘点和总结](https://mp.weixin.qq.com/s/4NkQ70WdLybM0fGgo7nC2g)
-+ [通用型系统架构设计](https://mp.weixin.qq.com/s/m78LXtrGoLxs_qzBvP8NcA)
-+ [高可用系统架构设计](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)
++ [架构模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)  
+    `架构模式类似于软件设计模式,包括分层架构/微服务架构/微核架构/事件驱动架构/云原生架构`
+    + [通用型四层系统架构设计](https://mp.weixin.qq.com/s/m78LXtrGoLxs_qzBvP8NcA)
++ [架构衡量指标及改进目标](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)  
+    `性能/可靠性/可用性/容错性/可信赖性/可伸缩性/安全性/互操作性/可调整性/可部署性/可测试性/简单性/可移植性/易用性/可扩展性/抗脆弱性/可升级性/合规性/成本/可存档性/可审核性/可跟踪性`
+    + [高可用系统架构设计](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)  
+    `可扩展/可隔离/解耦性/限流(漏桶算法/令牌桶算法/滑动窗口计数法/动态限流)/降级/熔断/灰度发布回滚`
+    + [架构伸缩性原则](https://mp.weixin.qq.com/s/77-owRKydWDQ14Lu4mmpiw)  
+    `成本/系统瓶颈/故障服务/数据层伸缩/缓存/监控`
+    + [关于技术盘点和总结](https://mp.weixin.qq.com/s/4NkQ70WdLybM0fGgo7nC2g)  
+    `代码质量问题/测试发布问题/开发效率问题/开发意识问题`
+    + [安全架构评审](https://mp.weixin.qq.com/s/ndv8Grd8AF2k_LzL33L8yQ)
++ [架构师的核心工作内容](https://mp.weixin.qq.com/s/ZYDTpsvYd-G61pqwLqgChw)  
+    `UML分解需求`
 + 分布式架构
-    - [农行分布式架构](https://mp.weixin.qq.com/s/jVrMyGUBythuCaMFPp1XcA)
-	- [基于JAVA后端基础架构实践](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)
-    - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
-    - [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)
+    - [分布式架构的前世今生](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)    
+    - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  
+        `CAP/BASE/分布式事务/分布式锁/Paxos/Raft`
     - [分布式系统原理](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg)
-    - [分布式架构的前世今生](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)
-    - [分布式文件系统](https://mp.weixin.qq.com/s/ZMC9zCRqNK2aMGigFg9mBA)
-    - [分布式锁解读](https://mp.weixin.qq.com/s/jGw7gqV9OhG0eUbWiPfyyQ)
-    - [分布式锁实现](https://mp.weixin.qq.com/s/2Jpy5qE_7ABILd9wcJ7q3Q)
-    - Zookeeper实现分布式锁[[1](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg), [2](https://mp.weixin.qq.com/s/DtLdmLhGO4wJxIaOWgrXQg)]
-	- [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
-    - [构建一个分布式块存储](https://mp.weixin.qq.com/s/9PGS3jUI9bjAE7xR37v5Pw)
+    - [农行分布式架构](https://mp.weixin.qq.com/s/jVrMyGUBythuCaMFPp1XcA)  
+        `集中式/分布式优缺点分析, 联机事务处理(OLTP)和联机分析处理(OLAP)实践`
+	- [基于JAVA后端基础架构实践](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)  
+        `统一请求入口/MVC框架/IOC框架/ORM框架/缓存框架/搜索引擎/消息队列/文件存储/统一认证中心/单点登录系统/统一配置中心/服务治理框架/统一调度中心/统一日志服务/数据基础设施/数据高速公路/离线数据分析/实时数据分析/数据即席分析/故障监控`
+    - [分布式文件系统](https://mp.weixin.qq.com/s/ZMC9zCRqNK2aMGigFg9mBA)  
+        `文件系统的要求/架构模型(GFS/CEPH)/持久化/伸缩性/高可用性/性能优化和缓存一致性/安全性(DAC/MAC/RBAC)`
+    - 分布式锁解读[[1](https://mp.weixin.qq.com/s/jGw7gqV9OhG0eUbWiPfyyQ),[2](https://mp.weixin.qq.com/s/2Jpy5qE_7ABILd9wcJ7q3Q),[3](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg),[4](https://mp.weixin.qq.com/s/DtLdmLhGO4wJxIaOWgrXQg)]  
+        `Redis/Zookeeper/DB作分布式锁`
+	- [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)  
+        `负载均衡算法/转发实现/集群下的Session管理`
+    - [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
+    - [分布式块存储SmartX](https://mp.weixin.qq.com/s/9PGS3jUI9bjAE7xR37v5Pw)
 + 高并发系统
-    - [高并发系统的设计](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)
-    - [高并发服务限流实践](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)
-    - [秒杀架构](https://mp.weixin.qq.com/s/b04s_56kjNANN37LmxK6pw)
-    - [正确设置数据库连接池降低时延](https://mp.weixin.qq.com/s/CGmH4jmpTYODwnfpywRr1Q)
+    - [高并发系统的设计](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)  
+        `秒杀业务设计要素`
+    - [高并发服务限流实践](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)  
+        `Guava的RateLimiter提供了令牌桶算法实现：平滑突发限流(SmoothBursty)和平滑预热限流(SmoothWarmingUp)`
+    - [秒杀架构](https://mp.weixin.qq.com/s/b04s_56kjNANN37LmxK6pw)  
+        `超卖问题/接口防刷/秒杀url/数据库设计/高并发/Hystrix服务降级`
+    - [正确设置数据库连接池降低时延](https://mp.weixin.qq.com/s/CGmH4jmpTYODwnfpywRr1Q)  
+        `连接池越大，速度越慢了。你需要一个小连接池，和一个充满了等待连接的线程的队列`
 + 数据处理系统
-    - [服务升级数据迁移](https://mp.weixin.qq.com/s/d9RZX1dB3QWrmzUAGHZvEw)
-    - [事务的隔离](https://mp.weixin.qq.com/s/dLVaMwC_NQn_2JVSFfH9ug)
-    - [分布式事务中常见的三种解决方案](https://mp.weixin.qq.com/s/jhyXWcHysSkn21k3s4izlA)
-    - [日志实时数据聚合](https://mp.weixin.qq.com/s/jgHx5mRyIp3CcmyBann0pg)
-+ [漫画中台](https://mp.weixin.qq.com/s/49uKZEWa9vG2hsbU8Km5Zg)
+    - [服务升级数据迁移](https://mp.weixin.qq.com/s/d9RZX1dB3QWrmzUAGHZvEw)  
+        `平滑迁移数据/迁移过程不停机/保证系统持续服务-->追日志法,双写法`
+    - [事务的隔离](https://mp.weixin.qq.com/s/dLVaMwC_NQn_2JVSFfH9ug)  
+        `脏读(读取未提交的数据)/不可重复读(一个事务范围内两个相同的查询却返回了不同数据,对应的是Update操作)/幻读(一个事务范围内操作不完整的现象，它对应的是插入Insert操作)-->排他锁/共享锁/未提交读(Read uncommitted)/提交读(Read committed)/可重复读(Repeatable reads)/可序列化(Serializable)`
+    - [分布式事务中常见的三种解决方案](https://mp.weixin.qq.com/s/jhyXWcHysSkn21k3s4izlA)  
+        `分布式事务-->TX/XA协议/RM资源管理器/TM事务管理器/幂等操作/TCC/2PC操作/可补偿操作`<br>
+        `柔性事务解决方案架构-->基于可靠消息的最终一致性方案/TCC事务补偿型方案/最大努力通知型`
+    - [日志实时数据聚合](https://mp.weixin.qq.com/s/jgHx5mRyIp3CcmyBann0pg)  
+        `日志基本是所有分布式数据系统和实时应用架构的核心.日志解决的两个问题：顺序变化和分布式数据，在分布式数据系统中对更新操作的顺序达成一致是这些系统进行设计时的核心问题`
++ [漫画中台](https://mp.weixin.qq.com/s/49uKZEWa9vG2hsbU8Km5Zg)  
+    `业务中台/技术中台/数据中台/算法中台`
 + [云计算](https://mp.weixin.qq.com/s/WEHhYOdxJEJUpnABlRf10w)
 + [物联网](https://mp.weixin.qq.com/s/iVackIMMIwPYQ6mHQ_Q_uw)
-+ [混沌工程](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)
++ [混沌工程](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)  
+    `混沌工程(chaos engineering)是在分布式系统上进行实验的学科, 目的是建立对系统抵御生产环境中失控条件的能力以及信心,包括:`<br>
+    `模拟整个IDC宕掉/选择一部分网络连接注入特定时间的延迟/随机让一些函数抛出异常/强制NTP时间不同步/生成IO错误/榨干CPU`
 + [技术选型](https://mp.weixin.qq.com/s/2FN6x8VMA_v6kMW9t5hTww)
-+ [DevOps工具链](https://mp.weixin.qq.com/s/1t1jICQEgXSJ51DVj6JrfQ)
-+ [无服务器迁移实践](https://mp.weixin.qq.com/s/kJi2or1e7mQAJzeONeVfeA)
++ [DevOps工具链](https://mp.weixin.qq.com/s/1t1jICQEgXSJ51DVj6JrfQ)  
+    `计划工具/问题跟踪/源码控制/构建工具/测试工具/CI和CD/配置管理工具/云平台/监控和日志工具/沟通工具/知识分享工具`
++ [Serverless迁移实践](https://mp.weixin.qq.com/s/kJi2or1e7mQAJzeONeVfeA)
 + [API的演变-从REST到WebSocket/gRPC/GraphQL](https://mp.weixin.qq.com/s/CieKMCv2LbV0eDnoVOoQXw)
 + Dubbo
-    - [Dubbo架构](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)
+    - [Dubbo架构](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)  
+        `服务注册中心/动态代理层Proxy/Cluster集群层/protocol协议层/Exchange信息交换层/Transport网络通信层`
     - [Dubbo心跳设计](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)
 + [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)
 
