@@ -15,6 +15,7 @@
         - [Strings](#strings)
         - [Defer/Panic/Recover](#deferpanicrecover)
 - [Go CLI](#go-cli)
+  - [gosec检查代码中的安全问题](https://mp.weixin.qq.com/s/5qotdK-cDzXdew9o7PF8QA)
 ***
 
 ## Basic Language Concepts

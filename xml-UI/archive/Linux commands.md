@@ -29,6 +29,7 @@
           + [配置Rsyslog服务器](https://mp.weixin.qq.com/s/S_MJ1c2mLgoo1PndJ_33YA)
           + [Web Log Analysis](https://mp.weixin.qq.com/s/TD_-Vzn_KjyyAwviaPkF8A)
           + [Logrotate手动滚动日志](hhttps://mp.weixin.qq.com/s/unosQoE_QQdxOTgJaHUexg)
+        - [Lynis扫描Linux安全性](https://mp.weixin.qq.com/s/z2FTwkul7pfEu3sWJgzVvw)
         - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
         - [阻止对Web应用程序的DoS攻击](https://mp.weixin.qq.com/s/-gdjcwv8gnolYwVGyF8mGQ)
         - [Glances多功能系统监控工具](https://mp.weixin.qq.com/s/R4mHOERnPhKCkCffaXFAyQ)

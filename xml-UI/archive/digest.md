@@ -34,10 +34,12 @@
     - 构建微服务架构([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))
     - Java微服务指南[[1](https://mp.weixin.qq.com/s/_Wz7NweA1NV3-hTD0yA1Rg), [2](https://mp.weixin.qq.com/s/aO5Ocl48jNo7MNUOkbTwCw)]
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)
+        - [服务发现技术是如何演进](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)
+        - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)
+        - [开源微服务框架](https://mp.weixin.qq.com/s/AqxYHBGrXmwZ8N1ewFf18A)
 	- [微服务的经验教训](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
     - [微服务雪崩及应对措施](https://mp.weixin.qq.com/s/OZ8eYm2Vs-C9sCPvf9zJxQ)
     - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)  
-    - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)
     - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
 	- [陌陌Service Mesh架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
 	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)
@@ -101,6 +103,7 @@
         - [Linux默认页大小是4KB](https://mp.weixin.qq.com/s/_xC98At-9y9wNEv1o4G7gg)
         - [手动释放swap和buffer和cache](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg)
     - 网络系统
+        - [计算机网络基础知识](https://mp.weixin.qq.com/s/s_EeCQn6U57QpVXEqf_TjA)
         - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
         - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
         - [Linux服务端最大并发数是多少](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
@@ -403,6 +406,7 @@
     - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)
     - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)
+    - [Redis常见延迟问题定位与分析](https://mp.weixin.qq.com/s/L3LVxbtZAUSPUqLVG7D9pw)
     - [Redis字符串是如何实现](https://mp.weixin.qq.com/s/4JfGREmkElvSIY-sBRmMZQ)
     - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)
     - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]
