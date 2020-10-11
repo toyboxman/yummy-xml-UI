@@ -316,26 +316,35 @@
     - [日志实时数据聚合](https://mp.weixin.qq.com/s/jgHx5mRyIp3CcmyBann0pg)  
         `日志基本是所有分布式数据系统和实时应用架构的核心.日志解决的两个问题：顺序变化和分布式数据，在分布式数据系统中对更新操作的顺序达成一致是这些系统进行设计时的核心问题`
 + Microservice
-    - 构建微服务架构([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))
-    - Java微服务指南[[1](https://mp.weixin.qq.com/s/_Wz7NweA1NV3-hTD0yA1Rg), [2](https://mp.weixin.qq.com/s/aO5Ocl48jNo7MNUOkbTwCw)]
-    - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)
-        - [服务发现技术是如何演进](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)
-        - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)
-        - [开源微服务框架](https://mp.weixin.qq.com/s/AqxYHBGrXmwZ8N1ewFf18A)
-	- [微服务的经验教训](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
-    - [微服务雪崩及应对措施](https://mp.weixin.qq.com/s/OZ8eYm2Vs-C9sCPvf9zJxQ)
-    - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)  
+    - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)  
+        `墨菲定律(设计系统)/康威定律(系统划分)`<br>
+        `服务发现/网关/配置中心/通讯方式/监控预警/监控架构/调用链监控APM/熔断-隔离-限流-降级/容器与服务编排引擎`
+        - [微服务发现技术](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)  
+            `传统集中式代理/客户端嵌入式代理/主机独立进程方案/K8S服务发现机制`
+        - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)  
+            `治理配置/Apollo治理能力/可用性场景/动态日志级别/Zuul动态网关路由`
+            - [Spring Cloud配置中心](https://www.haoyizebo.com/posts/8f2a7e9d/)
+        - [开源微服务框架](https://mp.weixin.qq.com/s/AqxYHBGrXmwZ8N1ewFf18A)  
+            `Service Mesh/Linkerd/Envoy/Istio/Conduit`
+        - Java微服务指南[[1](https://mp.weixin.qq.com/s/_Wz7NweA1NV3-hTD0yA1Rg), [2](https://mp.weixin.qq.com/s/aO5Ocl48jNo7MNUOkbTwCw)]  
+        `开发测试部署/实践经验`
+        - 构建微服务架构([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))  
+        `定义需求/技术选型/开发及交付`
+	- [微服务雪崩及应对措施](https://mp.weixin.qq.com/s/OZ8eYm2Vs-C9sCPvf9zJxQ)  
+        `微服务的高内聚和低耦合/服务调用链/级联故障和雪崩/服务限流熔断降级`
+    - [微服务的经验教训](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
+        `谷歌实践经验教训`
+    - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)    
+        `阿里云API网关应用经验`
     - Dubbo
         - [Dubbo架构](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)  
         `服务注册中心/动态代理层Proxy/Cluster集群层/protocol协议层/Exchange信息交换层/Transport网络通信层`
         - [Dubbo心跳设计](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)  
         `TCP短连接/长连接/保活/Netty-HashedWheelTimer`
-    - [Spring Cloud配置中心](https://windmt.com/2018/04/19/spring-cloud-7-config-sample/)
 	- [陌陌Service Mesh架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
-	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)
+	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)  
+        `Spring Cloud攒起微服务经验-->Eureka/Ribbon容错/SpringBoot Tomcat/HttpClient连接池的Keep-Alive/滚动升级时的可用性保障`
     - [你可能不需要微服务](https://mp.weixin.qq.com/s/2ZK-NwzuoziZq_5MI7x4mQ)
-    - [Tomcat bug导致nginx链路失效 ](https://mp.weixin.qq.com/s/DUSNDDUvkLkVQXB439Tidg)
-	- [Tomcat高危漏洞](https://mp.weixin.qq.com/s/SWKbpOHCyK7ZPc6AokaHGw)
 + [漫画中台](https://mp.weixin.qq.com/s/49uKZEWa9vG2hsbU8Km5Zg)  
     `业务中台/技术中台/数据中台/算法中台`
 + [云计算](https://mp.weixin.qq.com/s/WEHhYOdxJEJUpnABlRf10w)
