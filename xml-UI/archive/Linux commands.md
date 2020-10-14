@@ -113,7 +113,7 @@
     - [Checksum(cksum/md5sum/shasum/fslint/rdfind)](#checksum)
     - [Crontab/At](#crontab)
     - [Curl](#curl)
-    - [Download](#download)
+    - [Download(curl/wget/aria2c)](#download)
     - [Env](#env)
     - [Find/Locate/Which/Whereis](#find)
     - [File](#file)
@@ -1343,6 +1343,16 @@ wget -c --no-cookies \
 curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
 http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz
 ```
+如果下载遇到失败问题，可以这样避免   
+1. url中存在特殊字符`&`，bash执行会截断。需要给url加上引号`" "`
+2. 如果目标文件名太长超过系统定义长度，保存失败。需要 -O 设定保存文件名
+3. 如果wget或curl请求资源时返回403，这是服务器为了防止爬虫等消耗资源，根据请求头进行了选择性屏蔽。需要 -U --user-agent 进行伪装, [获取User-Agent](https://blog.csdn.net/BobYuan888/article/details/88949296)
+```console
+# 下载复杂URL的文件
+wget "https://github-production-release-asset-2e65be.s3.amazonaws.com/20773773/90548080-07ee-11eb-8030-9bcd049e677d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201014T091122Z&X-Amz-Expires=300&X-Amz-Signature=ffcc09e7de8c55c026366fc9585f5b648dc5d465f2b59dab59d37659fa32503d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=20773773&response-content-disposition=attachment%3B%20filename%3Dbazel-3.6.0-linux-x86_64&response-content-type=application%2Foctet-stream" \
+-U="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" \
+-O bazel.gz  
+```
 如果希望下载目录，可以指定一些参数
 ```console
 wget -r http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
@@ -1362,8 +1372,7 @@ wget -r -np -nH --cut-dirs=10 --reject="index.html*" http://example.com:8080/1/2
 # 裁剪掉10级目录后，仅剩第11级目录，并过滤掉所有 index.html* 文件
 11/
 ```
-
-上面两种方式都是单线程下载模式，如果希望支持多协议多线程模式，可以使用[aria2](https://aria2.github.io/), 支持
+上面两种方式都是单线程下载模式，如果希望支持多协议多线程模式，可以使用[aria2c](https://aria2.github.io/), 支持
 HTTP/HTTPS, FTP, SFTP, BitTorrent／Metalink
 ```console
 # install on mac

@@ -362,22 +362,40 @@
 
 #### Database
 + 基本知识
-    - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)
-    - [数据库工程经验](https://mp.weixin.qq.com/s/zbAp1xMrxGoxz86uJ3y15Q)
-    - [数据库减负](https://mp.weixin.qq.com/s/jgRPk_fyso8ns3WxzmY9Zg)
-    - [分库分表](https://mp.weixin.qq.com/s/U-9W-vHUReuZ5tgvtCRzJQ)
-        - [MySQL分库分表](https://mp.weixin.qq.com/s/CoTO3owzgyciLfpVvFTb8w)
-    - [分页查询](https://mp.weixin.qq.com/s/QHE064D9g1Hwa8-07RgYNg)
+    - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)  
+        `事务/并发一致性/数据锁/隔离级别/多版本并发控制(MVCC)/Next-Key Locks解决幻读问题/关系数据库设计理论`
+    - [数据库工程经验](https://mp.weixin.qq.com/s/zbAp1xMrxGoxz86uJ3y15Q)  
+        `ACID的各种挑战`
+    - [存储海量数据](https://mp.weixin.qq.com/s/jgRPk_fyso8ns3WxzmY9Zg)  
+        `缓存/页面静态化/数据库优化/热点数据分离/合并数据库操作/数据库读写分离`
+    - [分布式数据库实现主键全局自增](https://mp.weixin.qq.com/s/oNsTcrWCjntQefD2B0sq1A)  
+        `设置主键自增的步长和起始偏移量/ZK递增方式`
+    - [分库分表](https://mp.weixin.qq.com/s/U-9W-vHUReuZ5tgvtCRzJQ)  
+        ` ID hash/range/sharding JDBC`
+        - [MySQL分库分表](https://mp.weixin.qq.com/s/CoTO3owzgyciLfpVvFTb8w)  
+            `Sharding数据库横向扩展到多个物理节点/水平扩展(Scale Out)/垂直扩展(Scale Up)/分表和分区的场景和区别/分库提高数据库写性能/数据切分/Flickr方案/Snowflake(雪花算法)`
+    - [分页查询](https://mp.weixin.qq.com/s/QHE064D9g1Hwa8-07RgYNg)  
+        `LIMIT子句/子查询优化/id限定优化/临时表优化`
         - [别再用OFFSET+LIMIT分页](https://mp.weixin.qq.com/s/XCSvDx90ml3uDkwBah8XsQ)
-    - [有序索引](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)
-        - [使用了索引查询还是慢](https://mp.weixin.qq.com/s/0ergLeCIsZoq23LxdujiEQ)
-    - [数据库中间件详解 ](https://mp.weixin.qq.com/s/Nsbv4yIglDZqYkhfwHRyzQ)
-    - [数据库‘状态’字段设计](https://mp.weixin.qq.com/s/VZFAc-LdeF4YaoixQsf3kw)
+    - [有序索引](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)  
+        `1.有序索引-->通常是B树/哈希表-->Go中map,Python中dict,Java中HashMap`<br>
+        `2.内存中存储数据时，哈希表的效率很高，而B树的设计旨在以块的形式访问较慢的存储`
+        - [SQL使用了索引查询还是慢](https://mp.weixin.qq.com/s/0ergLeCIsZoq23LxdujiEQ)  
+            `慢查询语句/执行时间/long_query_time/索引的过滤性要足够好`
+    - [数据库中间件详解 ](https://mp.weixin.qq.com/s/Nsbv4yIglDZqYkhfwHRyzQ)  
+        `1.数据库拆分过程及挑战-->垂直拆分/读写分离/分库分表`<br>
+        `2.挑战-->增删改功能/分布式id/分布式事务/动态扩容`<br>
+        `3.数据库中间件设计方案-->proxy模式/smart-client模式/ORM框架代理`<br>
+        `4.读写分离核心要点-->路由功能/从库路由策略/HA与Scalable`
+    - [数据库‘状态’字段设计](https://mp.weixin.qq.com/s/VZFAc-LdeF4YaoixQsf3kw)  
+        `订单表的设计-->订单状态值/字典值/类型`
     - [数据建模工具](https://mp.weixin.qq.com/s/92y3kAfPTtDdiLcoN9h76A)
     - 2019精选合集[[***1***](https://mp.weixin.qq.com/s/tMjk8Ak73OIBvDhG7BiTmA), [***2***](https://mp.weixin.qq.com/s/Q1B3QL2HiVvJvUUHIeCSQA)]
 + SQL
-    - [SQL的使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
-    - [SQL vs NoSQL](https://mp.weixin.qq.com/s/5E8NKSlyu8JrPP-Zs7FrBg)
+    - [SQL的使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)  
+        `过滤/通配符/计算字段/函数/子查询/连接/字符集...`
+    - [SQL vs NoSQL](https://mp.weixin.qq.com/s/5E8NKSlyu8JrPP-Zs7FrBg)  
+        `结构化/非结构化/半结构化数据/关系型数据库优缺点/结合NoSql做存储的架构演进`
     - [SQL的回归](https://mp.weixin.qq.com/s/7sR8W93g-IoOlIEhd4UeMQ)
     - [Group by慢查询优化](https://mp.weixin.qq.com/s/TqigpgwtZR-o9xZcg29uDg)
     - [Insert into select致锁表](https://mp.weixin.qq.com/s/e9a67_c5igJ-yhbmBQn5SQ)
