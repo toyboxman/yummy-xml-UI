@@ -1,4 +1,36 @@
 ### MySQL
+- [MySQL入门](https://mp.weixin.qq.com/s/_BdT8Oi6XwEjsbY_rPLd5w)  
+    `mysql安装/mysql操作`
+    - [MySQL命令学习笔记](https://mp.weixin.qq.com/s/pxTZOph5-2v6YTxxeA_kOg)
+    - [MySQL 优化19条](https://mp.weixin.qq.com/s/IjKVF4yuJjf4TFsAxP3IoA)  
+    `EXPLAIN/IN包含的值不应过多/使用limit 1/union all代替union...`
+    - [MySQL8.0运维便捷命令](https://mp.weixin.qq.com/s/OZub4GiQSRjlAfDf59U3KA)  
+        `RESTART/PERSIST/RETAIN CURRENT PASSWORD/EXPLAIN/SET_VAR`
+    - [MySQL EXPLAIN结果集分析](https://mp.weixin.qq.com/s/p5UKuh1yY3P4zrOzVBmY1w)
+    - [巧用MySQL Union](https://mp.weixin.qq.com/s/reNc5LBKhSxGfCYyc_W8XQ)  
+        `允许字段的值为null，往往会引发灾难`<br>
+        `尽可能用union代替or`
+    - [MySQL Router高可用](https://mp.weixin.qq.com/s/WCx_ok-ajUgL4ICETXgVAA)
+        `MySQL Router是mysql-proxy的一个替代品`
+    - [MySQL分布式事务XA Transactions](https://mp.weixin.qq.com/s/24m9mD8JpHaPVb7lV9Gwvw)  
+        `分布式事务的语法`
+    - [MySQL CPU性能定位](https://mp.weixin.qq.com/s/zl9YCdW1ZXYlotTBN-DNLA)
+        `CPU起步8核开始SSD硬盘/用Memcache或者Redis缓存技术，尽量从缓存中获取常用的查询结果`
+    - [别在MySQL中使用UTF-8](https://mp.weixin.qq.com/s/vI49TqUcMX0qm5CNVfuZrA)  
+        `MySQL把utf8改成utf8mb4`
+- [MySQL重要知识点](https://mp.weixin.qq.com/s/4l_0kriTW82V9Gkd6TVdEg)  
+    `事物的四大特性(ACID)/索引相关/存储引擎/乐观锁与悲观锁的区别/锁机制与InnoDB锁算法/大表优化`
+- [MySQL使用规范](https://mp.weixin.qq.com/s/yMo17C3AyD2ZkXwD33NtZQ)  
+    `命令规范/设计规范/字段设计规范/索引设计规范/SQL开发规范/操作行为规范`
+- [鸟瞰MySQL](https://mp.weixin.qq.com/s/yuEW2CYDmkLX695Bd2sgtw)  
+    `MySQL架构/MySQL日志/MySQL的MVCC/MySQL索引/语法分析及优化/分布式事务/执行计划和慢查询日志`
+- [MySQL互联网常用架构方案](https://mp.weixin.qq.com/s/700PSsvKpgZa63HlaNAOcQ)  
+    `主备架构/双主架构/主从架构/双主+主从架构`<br>
+    `主库和从库一致性解决方案/DB和缓存一致性解决方案`
+- [实现MySQL每秒57万的写入](https://mp.weixin.qq.com/s/nky5AOuQhgj60ljTxlV_tw)  
+    `TokuDB写入MySQL单表20亿`
+- [MySQL8 vs PostgreSQL10](https://mp.weixin.qq.com/s/njIfc8TxB77XbYJaPtdLJA)
+
 #### 安装
 在Linux上使用mysql数据库,可以使用yum(redhat) apt(ubuntu) zypper(suse)
 ```

@@ -392,32 +392,22 @@
     - [数据建模工具](https://mp.weixin.qq.com/s/92y3kAfPTtDdiLcoN9h76A)
     - 2019精选合集[[***1***](https://mp.weixin.qq.com/s/tMjk8Ak73OIBvDhG7BiTmA), [***2***](https://mp.weixin.qq.com/s/Q1B3QL2HiVvJvUUHIeCSQA)]
 + SQL
-    - [SQL的使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)  
-        `过滤/通配符/计算字段/函数/子查询/连接/字符集...`
     - [SQL vs NoSQL](https://mp.weixin.qq.com/s/5E8NKSlyu8JrPP-Zs7FrBg)  
         `结构化/非结构化/半结构化数据/关系型数据库优缺点/结合NoSql做存储的架构演进`
-    - [SQL的回归](https://mp.weixin.qq.com/s/7sR8W93g-IoOlIEhd4UeMQ)
-    - [Group by慢查询优化](https://mp.weixin.qq.com/s/TqigpgwtZR-o9xZcg29uDg)
-    - [Insert into select致锁表](https://mp.weixin.qq.com/s/e9a67_c5igJ-yhbmBQn5SQ)
-    - [Leetcode-SQL-Question](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)
+        - [SQL的回归](https://mp.weixin.qq.com/s/7sR8W93g-IoOlIEhd4UeMQ)  
+            `MapReduce/Bigtable/Cassandra/MongoDB`--><br>
+            `Amazon RDS&Aurora/谷歌Cloud SQL/Azure-PostgreSQL/SQL over Hadoop&Spark&Kafka`
+    - [SQL的使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)  
+        `过滤/通配符/计算字段/函数/子查询/连接/字符集...`
+        - [理解SQL](https://mp.weixin.qq.com/s/M3MsrV4DyZpLwQVcAgxvsw)  
+            `SQL并不按照语法顺序执行/五种表连接的方式`
+        - [Group by慢查询优化](https://mp.weixin.qq.com/s/TqigpgwtZR-o9xZcg29uDg)  
+            `group by/distinct 500万数量级数据查询`
+        - [Insert into select致锁表](https://mp.weixin.qq.com/s/e9a67_c5igJ-yhbmBQn5SQ)  
+        `索引查询不会出现扫描全表的情况而锁表，只会锁定符合条件的记录`
+        - [Leetcode-SQL-Question](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)  
+        `Swap Salary/Big Countries/Combine Two Tables...`
 + [MySQL](db/mySQL.md)
-    - [MySQL入门](https://mp.weixin.qq.com/s/_BdT8Oi6XwEjsbY_rPLd5w)
-    - [MySQL重要知识点](https://mp.weixin.qq.com/s/4l_0kriTW82V9Gkd6TVdEg)
-    - [MySQL使用规范](https://mp.weixin.qq.com/s/yMo17C3AyD2ZkXwD33NtZQ)
-    - [鸟瞰MySQL](https://mp.weixin.qq.com/s/yuEW2CYDmkLX695Bd2sgtw)
-    - [MySQL互联网常用架构方案](https://mp.weixin.qq.com/s/700PSsvKpgZa63HlaNAOcQ)
-    - [MySQL命令学习笔记](https://mp.weixin.qq.com/s/pxTZOph5-2v6YTxxeA_kOg)
-    - [MySQL8.0运维便捷命令](https://mp.weixin.qq.com/s/OZub4GiQSRjlAfDf59U3KA)
-    - [MySQL 优化19条](https://mp.weixin.qq.com/s/IjKVF4yuJjf4TFsAxP3IoA)
-    - [理解SQL](https://mp.weixin.qq.com/s/M3MsrV4DyZpLwQVcAgxvsw)
-    - [巧用MySQL Union](https://mp.weixin.qq.com/s/reNc5LBKhSxGfCYyc_W8XQ)
-    - [MySQL EXPLAIN结果集分析](https://mp.weixin.qq.com/s/p5UKuh1yY3P4zrOzVBmY1w)
-    - [实现MySQL每秒 57万的写入](https://mp.weixin.qq.com/s/nky5AOuQhgj60ljTxlV_tw)
-    - [MySQL8 vs PostgreSQL10](https://mp.weixin.qq.com/s/njIfc8TxB77XbYJaPtdLJA)
-    - [MySQL Router高可用](https://mp.weixin.qq.com/s/WCx_ok-ajUgL4ICETXgVAA)
-    - [MySQL分布式事务XA Transactions](https://mp.weixin.qq.com/s/24m9mD8JpHaPVb7lV9Gwvw)
-    - [MySQL CPU性能定位](https://mp.weixin.qq.com/s/zl9YCdW1ZXYlotTBN-DNLA)
-    - [别在MySQL中使用UTF-8](https://mp.weixin.qq.com/s/vI49TqUcMX0qm5CNVfuZrA)
 + [PostgreSQL](db/PostgreSQL.md)
     - [PostgreSQL入门](https://mp.weixin.qq.com/s/l7QSL8CiQ1RvSxjjxmIANg)
     - [PostgreSQL DBA常用SQL](https://mp.weixin.qq.com/s/JjcTwL99cNDuxp68Mu_bIw)
