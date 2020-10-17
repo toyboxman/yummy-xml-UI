@@ -1,6 +1,13 @@
 ### PostgreSQL
+- [PostgreSQL入门](https://mp.weixin.qq.com/s/l7QSL8CiQ1RvSxjjxmIANg)
+- [PostgreSQL DBA常用SQL](https://mp.weixin.qq.com/s/JjcTwL99cNDuxp68Mu_bIw)  
+    `查看DB版本/查看DB实例状态/查看表空间...`
+- [实现密码复杂度检查](https://mp.weixin.qq.com/s/sFbmsXF0jpMfEUzqavx0TQ)  
+    `passwordcheck/cracklib/字典`
+- [Uber放弃Postgres迁移MySQL](https://mp.weixin.qq.com/s/YCt0SvmH8666V06Md1BEDw)
+
 #### 安装
-```bash
+```console
 $ sudo apt install postgresql-10
 Success. You can now start the database server using:
 
@@ -8,7 +15,7 @@ Success. You can now start the database server using:
 ```
 #### 连接
 连接错误排错可以参考 [link](https://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e/16974197#16974197)
-```bash
+```console
 king@ubuntu:~/software$ psql
 psql: FATAL:  role "king" does not exist
 king@ubuntu:~/software$ psql -U postgres
@@ -76,7 +83,7 @@ tcp6       0      0 :::5432                 :::*                    LISTEN      
 
 #### 数据库操作
 [tutorial](http://www.postgresqltutorial.com/postgresql-administration/)
-```bash
+```console
 # 通过超级用户来创建其他用户
 king@ubuntu:~/software$ sudo -u postgres createuser king
 # 无指定数据库，连接失败
@@ -171,7 +178,7 @@ sudo systemctl restart postgresql     # ubuntu
 **MD5**方法指对客户端来的连接使用MD5 hash变换密码
 <br>   
 如果修改后连接仍旧被拒，可能是没给用户设定密码。如果默认密码是空，安全验证会一直失败。
-```bash
+```console
 # SQL commands CREATE USER and ALTER USER, e.g., CREATE USER foo WITH PASSWORD 'secret';. 
 # By default, that is, if no password has been set up, the stored password is null 
 # and password authentication will always fail for that user.

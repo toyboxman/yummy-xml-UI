@@ -344,7 +344,7 @@ git ls-files | xargs cat | wc -l
 + [rebase一次修改多个提交记录](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
 
 ```console
-# 将社区分支(stable/icehouse )合并到当前分支中
+# 将社区分支(stable/icehouse)合并到当前分支中
 git merge stable/icehouse 
 
 # b1 b2分支上做rebase/merge 操作结果的差异
@@ -357,27 +357,37 @@ b1 > git merge master : patch1<-patch2<-patch4<-patch3<-auto-merge-patch 'Merge 
                                     把master上patch2之后提交都合并到b1分支最后，并产生一个自动合并提交
 b2 > git rebase master : patch1<-patch2<-patch3<-patch4
                                     把master上patch2之后提交都插入到b1分支patch2之后
-									
-# 修改本地提交历史基本步骤(如果分支已经push到remote, 修改提交会产生内容不一致)
-# Show the last 9 commits in a text editor, @ is shorthand for HEAD, 
-# and ~ is the commit before the specified commit
-# in a text editor change 'pick' to 'e' (edit), and save and close the file.
-# Git will rewind to that commit
 
-# rebase当前分支倒数9个提交
+##################################									
+# 修改本地提交历史基本步骤(如果本地分支已经push到remote, 操作修改会产生本地与remote repo的冲突)
+##################################
+# rebase当前分支至倒数9个提交，在默认text editor显示修改提交列表
 git rebase -i @~9   
-# 在vi编辑器中把想修改的commit选项从'pick'改成'e', 保存退出
-# 如果想调整提交顺序, 在vi编辑器中调整提交行的前后顺序即可
-# 修改一些文件然后置为staged状态
+# 在vi编辑器中把想修改的commit状态从'pick'改成'e', 保存退出
+# 如果想调整提交顺序, 在vi编辑器中调整这些commits list的前后顺序即可
+# 修改需要调整的文件，然后用add命令置为staged状态
 git add -A
 # 提交修改
 git commit --amend 
-#discard the last commit, but not the changes to the files
-git reset @~  
-# Git will replay the subsequent changes on top of your modified commit
+# replay调整后的提交list
 git rebase --continue  
 
-# rebase本地提交，合并多个提交为一个提交
+##################################									
+# 拆分提交基本步骤
+##################################
+# 步骤跟修改一致，区别就是多一个软回退reset操作
+git rebase -i @~9 
+# 修改commit状态 pick -> edit，保存退出
+# 回退当前commit
+git reset @~1
+# 然后重新选择组织文件提交
+git add; git commit
+git rebase --continue 
+
+##################################									
+# 合并多个提交基本步骤
+##################################
+# rebase本地提交
 git rebase -i @~3
 pick f7f3f6d Change my name a bit
 pick 310154e Update README formatting and add blame
@@ -386,12 +396,15 @@ pick a5f4a0d Add cat-file
 pick f7f3f6d Change my name a bit
 squash 310154e Update README formatting and add blame
 squash a5f4a0d Add cat-file
-# log message由三个提交信息合并如下
+# 新commit log message由三个提交信息合并如下
 Change my name a bit
 
 Update README formatting and add blame
 
 Add cat-file
+
+# replay
+git rebase --continue  
 # fixup和squash一样功能，区别仅是不保留合并进去的commit log message
 pick f7f3f6d Change my name a bit
 fixup 310154e Update README formatting and add blame

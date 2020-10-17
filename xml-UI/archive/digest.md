@@ -37,25 +37,30 @@
 #### Linux
 + [Commands](Linux%20commands.md)
     - [Shell Programming](shell%20programming.md)
-    - [Linux问题故障定位](https://mp.weixin.qq.com/s/K2iByKPVJZZ4UfZhUwisiQ)
-    - [Linux100问](https://mp.weixin.qq.com/s/Y7_zYt2JoxhjTQhTCLBJOA)
-    - [系统管理员24问](https://mp.weixin.qq.com/s/T3RU8YkF-o4XY27WEjKsMA)
+    - [Linux问题故障定位](https://mp.weixin.qq.com/s/K2iByKPVJZZ4UfZhUwisiQ)  
+        `CPU/MEM/DISK/网络/系统负载/火焰图分析工具/`
+    - [Linux100问](https://mp.weixin.qq.com/s/Y7_zYt2JoxhjTQhTCLBJOA)  
+        `操作命令问题`
+    - [系统管理员24问](https://mp.weixin.qq.com/s/T3RU8YkF-o4XY27WEjKsMA)  
+        `管理命令问题`
 + [Git](git%20commands.md)
     - [GitLab建立和托管网站](https://mp.weixin.qq.com/s/NSUDid0i8xWDeDQlAxBZjg)
     - [Git共享文件](https://mp.weixin.qq.com/s/maETLN2FFAmztBSCPbYIbg)
 + 开源工具
-    - [QEMU模拟开发板](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)
-	- 开源工具构建DevOps[[1](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA), [2](https://mp.weixin.qq.com/s/Rnux4uL4IA0qFmBK-FimoA)]    
-    - [Jenkins构建CI/CD](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA)
+    - [FFmpeg编辑视频](ffmpeg.md)
+    - [创建EPUB电子书](https://mp.weixin.qq.com/s/nCNzETj-LF1ZDgpLZu0c5Q)  
+        `calibre/ghostwriter和pandoc`
+    - Jenkins构建CI/CD/DevOps[[1](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA), [2](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA), [3](https://mp.weixin.qq.com/s/Rnux4uL4IA0qFmBK-FimoA)]
     - [pdftk操作PDF](https://mp.weixin.qq.com/s/bq8m3akbF_im6RWulhIh_w)     
     `Java实现工具，大文件处理会碰到问题。某些功能也可通过浏览器打印PDF方式实现`
-    - [FFmpeg编辑视频](ffmpeg.md)
-    - [创建EPUB电子书](https://mp.weixin.qq.com/s/nCNzETj-LF1ZDgpLZu0c5Q)
-    - [开源搜索引擎YaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)
-	- [Photoshop开源替代品](https://mp.weixin.qq.com/s/eoYGUqq-4wNQzxKUjdSWdQ)
-    - [GIMP制作GIF](https://mp.weixin.qq.com/s/WRybaajEUGyD1UuuyGBgaQ)
+    - [开源搜索引擎YaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)  
+        `爬取站点/内网搜索`
+	- [Photoshop开源替代品](https://mp.weixin.qq.com/s/eoYGUqq-4wNQzxKUjdSWdQ)  
+        `GIMP/Krita/Darktable/Inkscape`
+        - [GIMP制作GIF](https://mp.weixin.qq.com/s/WRybaajEUGyD1UuuyGBgaQ)
+    - [QEMU模拟开发板](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)  
     - Ansible
-        - Ansible管理工作站配置[**1**](https://mp.weixin.qq.com/s/iRHnwHX6ptkrgl9tw46oRw), [**2**](https://mp.weixin.qq.com/s/RDtJmQWCpR6sSv7jIi6nJA), [**3**](https://mp.weixin.qq.com/s/86MaptM3-ou6TKQjcuRArQ)
+        - Ansible管理工作站配置[[**1**](https://mp.weixin.qq.com/s/iRHnwHX6ptkrgl9tw46oRw), [**2**](https://mp.weixin.qq.com/s/RDtJmQWCpR6sSv7jIi6nJA), [**3**](https://mp.weixin.qq.com/s/86MaptM3-ou6TKQjcuRArQ)]
         - [Ansible同步GitHub和GitLab ](https://mp.weixin.qq.com/s/GYmTgfE9nlqw9X_eNGPoSQ)
         - [Ansible提升自动化技巧](https://mp.weixin.qq.com/s/gsGUonyuVUmBXf4C-ALyVQ)
 + 设计分析
@@ -409,25 +414,28 @@
         `Swap Salary/Big Countries/Combine Two Tables...`
 + [MySQL](db/mySQL.md)
 + [PostgreSQL](db/PostgreSQL.md)
-    - [PostgreSQL入门](https://mp.weixin.qq.com/s/l7QSL8CiQ1RvSxjjxmIANg)
-    - [PostgreSQL DBA常用SQL](https://mp.weixin.qq.com/s/JjcTwL99cNDuxp68Mu_bIw)
-    - [实现密码复杂度检查](https://mp.weixin.qq.com/s/sFbmsXF0jpMfEUzqavx0TQ)
-    - [Uber放弃Postgres迁移MySQL](https://mp.weixin.qq.com/s/YCt0SvmH8666V06Md1BEDw)
 + [Oracle](db/oracle.md)
-    - [新特性Persistent Memory Store](https://mp.weixin.qq.com/s/8jWVLY-hSbXhaDoPmADV6w)
-    - [数据迁移工具expdp和impdp](https://mp.weixin.qq.com/s/XkuVG8yN1dNBwrwH-9dhKQ)
-	- [Mysql的double write机制在Oracle实现](https://mp.weixin.qq.com/s/1uqkVCeC57t07lsDl-8M7w)
-    - [Oracle到PostgreSQL最佳转换](https://mp.weixin.qq.com/s/hk8GwZgjvlqvouk1DHj5eQ)
-+ [Redis基本使用](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
-    - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)
-    - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)
-    - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)
-    - [Redis常见延迟问题定位与分析](https://mp.weixin.qq.com/s/L3LVxbtZAUSPUqLVG7D9pw)
-    - [Redis字符串是如何实现](https://mp.weixin.qq.com/s/4JfGREmkElvSIY-sBRmMZQ)
-    - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)
-    - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]
-+ [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)
-+ [MongoDB基本操作](https://mp.weixin.qq.com/s/5iELiClx17sXLKk_BRdy0w)
++ [Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)  
+    `数据类型/数据结构/使用场景/数据淘汰策略/持久化/事件`
+    - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)  
+        `Redis架构/主从复制/数据初始化/中断后同步/增量复制/数据一致性验证/完整性同步/部分同步`
+    - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)  
+        `缓存穿透/缓存击穿/缓存雪崩`
+    - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)  
+        `Cache Aside Pattern`
+    - [Redis常见延迟问题定位与分析](https://mp.weixin.qq.com/s/L3LVxbtZAUSPUqLVG7D9pw)  
+        `Redis慢日志/扫描大key/集中过期/实例内存上限/fork耗时/绑定CPU/开启AOF/使用Swap/网卡负载`
+    - [Redis字符串是如何实现](https://mp.weixin.qq.com/s/4JfGREmkElvSIY-sBRmMZQ)  
+        `SDS(Simple Dynamic String)`
+    - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)  
+        `集群作用/哈希槽/配置集群/故障转移`
+    - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]  
+        `Redis区别map/guava本地缓存/持久化机制/内存淘汰策略/事务/线程模型`
++ [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)  
+    `手机上可能都存在几十个SQLite，微信客户端所有的聊天记录，就都存储在 SQLite 数据库中`
++ [MongoDB基本操作](https://mp.weixin.qq.com/s/5iELiClx17sXLKk_BRdy0w)  
+    `基于分布式文件存储的半结构化的非关系型数据库,采用BSON格式进行数据存储`<br>
+    `配置文件/服务启停/基本操作/`
 
 #### Bigdata
 + [spark](big-data/spark.md)
