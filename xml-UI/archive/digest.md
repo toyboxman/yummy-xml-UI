@@ -65,12 +65,19 @@
         - [Ansible提升自动化技巧](https://mp.weixin.qq.com/s/gsGUonyuVUmBXf4C-ALyVQ)
 + 设计分析
     - 操作系统
-        - [操作系统概要](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)
-        - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)
-        - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)
-        - [Linux内核的五大创新](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)
+        - [操作系统概要](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)  
+            `单体结构/分层系统/微内核`
+        - [二进制世界](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)  
+            `二进制数中表示负数值时，一般会把最高位作为符号来使用`<br>
+            `获得补数需要将二进制的各数位的数值全部取反，然后再将结果+ 1即可`<br>
+            `逻辑运算 非(NOT)/与(AND)/或(OR)/异或(XOR)`
+        - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)  
+            `内核/shell/文件系统/应用程序`
+        - [Linux内核的五大创新](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)  
+            `控制组(cgroups)功能/Linux内核内存[一致性]模型(LKMM)子系统/读-拷贝-更新(RCU)/非统一内存访问(NUMA)`
         - [编译原理](https://mp.weixin.qq.com/s/4KvNaO15-bdrp8rkkCUQuw)
-        - [IO基本概念](https://mp.weixin.qq.com/s/yrLGQMEdkVgmk8WgV-mTXw)
+        - [IO基本概念](https://mp.weixin.qq.com/s/yrLGQMEdkVgmk8WgV-mTXw)  
+            `块特殊文件/字符特殊文件/网络`
     - 文件系统
         - [文件系统概要](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
         - Linux文件系统[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q), [3](https://mp.weixin.qq.com/s/yDpJc9WMAZX0jnceouy3GA)]
