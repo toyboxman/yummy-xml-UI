@@ -1382,11 +1382,23 @@ brew install aria2
 # Download using 7 connections per host
 # -h   list user manual
 # -k   下载文件分割大小，默认20M，根据-x指定连接数调整
+# -x, --max-connection-per-server=<NUM> 目标server最大连接数 Default: 1
 aria2c -x 7 https://github.com/testerSunshine/12306/archive/master.zip
-# Download from 2 sources
-aria2c http://a/f.iso ftp://b/f.iso
-# Download BitTorrent Magnet URI
-aria2c 'magnet:?xt=urn:btih:248D0A1CD08284299DE78D5C1ED359BB46717D8C'
+
+# Download from 3 sources
+# -j, --max-concurrent-downloads=<N> 设定下载目标列最大同步执行任务数 Default: 5
+# -Z, --force-sequential [true|false] 从命令行参数顺序开始独立下载 Default: false
+aria2c -x3 -j3 -Z "http://10.117.5.87/99.mp4" "ftp://b/f.iso" file2.torrent file3.metalink
+
+# Parameterized URI support
+$ aria2c -P "http://{host1,host2,host3}/file.iso"
+# numeric sequence: 如果URIs不指向同一个文件如上面例子，-Z option就需要
+$ aria2c -Z -P "http://host/image[000-100].png"
+# specify step counter: 可以filter一些文件名
+$ aria2c -Z -P "http://host/image[A-Z:2].png"
+
+# Verifying checksums
+$ aria2c --checksum=sha-1=0192ba11326fe2298c8cb4de616f4d4140213837 http://example.org/file
 
 # Using a Proxy with authorization
 # 可以分别指定 --http-proxy --https-proxy --ftp-proxy
