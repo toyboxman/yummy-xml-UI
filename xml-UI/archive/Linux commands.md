@@ -149,7 +149,7 @@
     - [Hd/Od](#hdod)
     - [Markdown/pandoc](#pandoc)
     - [JSON/jq/xmlwf](#jq)
-    - [Read](#read)
+    - [Read/Readline](#read)
     - [Redirect Symbol](#redirect-symbol)   
     - [Regular Expression](#regular-expression)     
     - [Sed](#sed)
@@ -349,7 +349,7 @@ ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
 # see netcard hardware information
 hwinfo --netcard
 ```
-+ [lshw 查阅硬件规格的详细信息](https://mp.weixin.qq.com/s/EpBb2A_WivPgRmcEsjOcSQ)
++ lshw查阅硬件规格的详细信息[[1](https://mp.weixin.qq.com/s/EpBb2A_WivPgRmcEsjOcSQ), [2](https://mp.weixin.qq.com/s/WQEOIAz1_FRCS7hjUyddOw)]
 ```console
 # 查看cpu硬件信息
 lshw | grep cpu
@@ -2067,6 +2067,11 @@ file:/opt/controller/log4j-controller.properties -server -Xmx4096m
 ```
 
 #### read
++  [GNU Readline](https://mp.weixin.qq.com/s/ojSrALsvO4aQHNG_lZcXzQ)  
+  `Bash shell当你自动补全一个文件名，或者在输入的一行文本中移动光标，以及搜索之前命令的历史记录时，你都在使用 GNU Readline`<br>
+  `Ctrl-A 光标会跳到行首`<br>
+  `Ctrl-E 光标会跳到行末`<br>
+  `Ctrl-U 删除该行中光标之前的所有内容`
 ```console
 read -a topic <<< "1 2 3";echo $topic
 1
@@ -2851,7 +2856,8 @@ size -td core
 ---
 
 #### LVM
-+ [创建/配置 LVM](https://mp.weixin.qq.com/s/a35F2sfuU_5JzLU2AypAgA)
++ [创建/配置LVM](https://mp.weixin.qq.com/s/a35F2sfuU_5JzLU2AypAgA)
++ [减少/缩小LVM大小(逻辑卷调整)](https://mp.weixin.qq.com/s/UdWQA3lFSmWjya75d0mnmQ)
 + [SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
 + [使用Btrfs快照进行增量备份](https://mp.weixin.qq.com/s/hqhw8IDq4ID9t1TyxPL62A)
 

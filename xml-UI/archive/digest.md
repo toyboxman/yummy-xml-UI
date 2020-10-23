@@ -60,6 +60,7 @@
         - [GIMP制作GIF](https://mp.weixin.qq.com/s/WRybaajEUGyD1UuuyGBgaQ)
     - [QEMU模拟开发板](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)  
     - Ansible
+        - [使用Ansible安装软件](https://mp.weixin.qq.com/s/VLSUyGTkYpRzMwBxoFMZCw)
         - Ansible管理工作站配置[[**1**](https://mp.weixin.qq.com/s/iRHnwHX6ptkrgl9tw46oRw), [**2**](https://mp.weixin.qq.com/s/RDtJmQWCpR6sSv7jIi6nJA), [**3**](https://mp.weixin.qq.com/s/86MaptM3-ou6TKQjcuRArQ)]
         - [Ansible同步GitHub和GitLab ](https://mp.weixin.qq.com/s/GYmTgfE9nlqw9X_eNGPoSQ)
         - [Ansible提升自动化技巧](https://mp.weixin.qq.com/s/gsGUonyuVUmBXf4C-ALyVQ)
@@ -82,9 +83,13 @@
         - [文件系统概要](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
         - Linux文件系统[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q), [3](https://mp.weixin.qq.com/s/yDpJc9WMAZX0jnceouy3GA)]
         - [文件读取过程](https://mp.weixin.qq.com/s/_pW0v7a7tKbGZpi3lRQVcw)
+        - [lsof深入理解虚拟文件系统](https://mp.weixin.qq.com/s/OSENnCexQlbXNVkF7lVzjw)
     - 计算系统
+        - 逻辑电路
+            - [逻辑门/二进制加法机](https://mp.weixin.qq.com/s/wEvNo-iJJ17YBTq7xm4Akw)
+            - [补码](https://mp.weixin.qq.com/s/RVwRqcxSdP96dknUSmNTBg)
         - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
-        - [补码](https://mp.weixin.qq.com/s/RVwRqcxSdP96dknUSmNTBg)
+            - [CPU访问硬盘很慢](https://mp.weixin.qq.com/s/To_E-51Bb_2ol4t0WtspYg)
         - Linux进程总结[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
         - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
         - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
@@ -296,6 +301,8 @@
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  
         `CAP/BASE/分布式事务/分布式锁/Paxos/Raft`
     - [分布式系统原理](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg)
+    - [B2C电商支付中心产品架构](https://mp.weixin.qq.com/s/ZfSu2M0WLKvELY7GuvlRaQ)  
+        `收单系统/清结算系统/账户系统/对账系统/支付安全`
     - [农行分布式架构](https://mp.weixin.qq.com/s/jVrMyGUBythuCaMFPp1XcA)  
         `集中式/分布式优缺点分析, 联机事务处理(OLTP)和联机分析处理(OLAP)实践`
 	- [基于JAVA后端基础架构实践](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)  
