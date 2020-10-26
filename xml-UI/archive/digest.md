@@ -282,8 +282,8 @@
 #### Architecture
 + [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
     `SMART目标/15条规则`
-+ [架构模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)  
-    `架构模式类似于软件设计模式,包括分层架构/微服务架构/微核架构/事件驱动架构/云原生架构`
++ [架构设计模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)  
+    `类似于软件设计模式,包括分层架构/微服务架构/微核架构/事件驱动架构/云原生架构`
     + [通用型四层系统架构设计](https://mp.weixin.qq.com/s/m78LXtrGoLxs_qzBvP8NcA)
 + [架构衡量指标及改进目标](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)  
     `性能/可靠性/可用性/容错性/可信赖性/可伸缩性/安全性/互操作性/可调整性/可部署性/可测试性/简单性/可移植性/易用性/可扩展性/抗脆弱性/可升级性/合规性/成本/可存档性/可审核性/可跟踪性`

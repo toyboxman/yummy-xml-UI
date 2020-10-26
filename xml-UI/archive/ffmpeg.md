@@ -1,114 +1,117 @@
 
 ---
 
-### FFmpegç¼–è¾‘å¤šåª’ä½“æ–‡ä»¶
-- [FFmpegå‘½ä»¤ç¼–è¾‘è§†é¢‘](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614334&idx=2&sn=22c884dc2553b16f7f5cf808fac3a2ce)
-- [FFmpeg+ImageMagickä»è§†é¢‘ä¸­åˆ›å»ºgif](https://www.ostechnix.com/create-animated-gif-ubuntu-16-04/)
-- [FFmpegä»PDFä¸­åˆ›å»ºè§†é¢‘](https://www.ostechnix.com/create-video-pdf-files-linux/)
-- [FFmpegå¸¸ç”¨å‘½ä»¤](https://blog.csdn.net/weixin_42081389/article/details/100543007)
-- [Linuxä¸­å­—å¹•ç¼–è¾‘](https://mp.weixin.qq.com/s/K6lZI3OuUSUKQB-9JhssAg)
+### FFmpeg±à¼­¶àÃ½ÌåÎÄ¼ş
+- [FFmpegÃüÁî±à¼­ÊÓÆµ](https://mp.weixin.qq.com/s/9FltBw_Q3XKbvL3GVaCCnA)
+- [FFmpeg+ImageMagick´ÓÊÓÆµÖĞ´´½¨gif](https://www.ostechnix.com/create-animated-gif-ubuntu-16-04/)
+- [FFmpeg´ÓPDFÖĞ´´½¨ÊÓÆµ](https://www.ostechnix.com/create-video-pdf-files-linux/)
+- [FFmpeg³£ÓÃÃüÁî](https://blog.csdn.net/weixin_42081389/article/details/100543007)
+- [LinuxÖĞ×ÖÄ»±à¼­](https://mp.weixin.qq.com/s/K6lZI3OuUSUKQB-9JhssAg)
 ---
 
-#### è§†é¢‘è½¬æ¢å’Œæˆªå–
+#### ÊÓÆµ×ª»»ºÍ½ØÈ¡
 ```console
-# macä¸Šå®‰è£…ffmpeg
+# macÉÏ°²×°ffmpeg
 brew install ffmpeg
-# æŸ¥çœ‹è§†é¢‘ä¿¡æ¯
-# -i input æŒ‡å®šè¾“å…¥æ–‡ä»¶
+
+# ²é¿´ÊÓÆµĞÅÏ¢
+# -i input Ö¸¶¨ÊäÈëÎÄ¼ş
 ffmpeg -i test.mp4
 ffmpeg -i test.mp4 -hide_banner
-# è½¬æ¢è§†é¢‘æ ¼å¼
-# ä¸Šæ–‡é“¾æ¥ä¸­è¿˜æœ‰ -vfå‹ç¼©è§†é¢‘ -abå‹ç¼©éŸ³é¢‘å‚æ•° -anå‰”é™¤éŸ³é¢‘ -vnå‰”é™¤è§†é¢‘, æŠ“å–å›¾åƒï¼Œè£å‰ªè§†é¢‘
-# -y å¦‚æœè¾“å‡ºæ–‡ä»¶å­˜åœ¨è‡ªåŠ¨è¦†ç›–
+
+# ×ª»»ÊÓÆµ¸ñÊ½
+# ÉÏÎÄÁ´½ÓÖĞ»¹ÓĞ -vfÑ¹ËõÊÓÆµ -abÑ¹ËõÒôÆµ²ÎÊı -anÌŞ³ıÒôÆµ -vnÌŞ³ıÊÓÆµ, ×¥È¡Í¼Ïñ£¬²Ã¼ôÊÓÆµ
+# -y Èç¹ûÊä³öÎÄ¼ş´æÔÚ×Ô¶¯¸²¸Ç
 ffmpeg -i test.mp4 -y test.mp3
-# -t duration è£å‰ªè§†é¢‘å¼€å§‹è‡³15ç§’éƒ¨åˆ†å†…å®¹
+# -t duration ²Ã¼ôÊÓÆµ¿ªÊ¼ÖÁ15Ãë²¿·ÖÄÚÈİ
 ffmpeg -i test.mp4 -t 15 te.mp4
-# -ss è®¾ç½®è§†é¢‘æˆªå–çš„å¼€å§‹ç‚¹
-# -to è®¾ç½®è§†é¢‘æˆªå–çš„ç»“æŸç‚¹
+# -ss ÉèÖÃÊÓÆµ½ØÈ¡µÄ¿ªÊ¼µã
+# -to ÉèÖÃÊÓÆµ½ØÈ¡µÄ½áÊøµã
 ffmpeg -i test.mp4 -ss 00:00:10 -to 00:00:15 te.mp4
-# æˆªå–å¼€å§‹æ—¶é—´è‡³æŒç»­æ—¶é—´çš„ä¸€æ®µè§†é¢‘
+# ½ØÈ¡¿ªÊ¼Ê±¼äÖÁ³ÖĞøÊ±¼äµÄÒ»¶ÎÊÓÆµ
 ffmpeg -i test.mp4 -ss 01:15:50 -t 50 output.mp4
-# ä¸Šæ–‡é“¾æ¥ä¸­è¿˜æœ‰concatå‡ ä¸ªè§†é¢‘åˆ°ä¸€ä¸ªè§†é¢‘æ–‡ä»¶ä¸­æ–¹æ³•
-# è£å‰ªè§†é¢‘ï¼Œæ¯”å¦‚å¯ä»¥æŠŠburnedçš„å­—å¹•åˆ‡æ‰
-# å…ˆç”¨ä¸Šé¢å‘½ä»¤æŸ¥çœ‹åŸè§†é¢‘æ–‡ä»¶å¤§å°ï¼Œå†æ ¹æ®å®½é«˜å’Œåæ ‡è¿›è¡Œ crop=w:h:x:y
+
+# ÎÄÊ×Á´½ÓÎÄÕÂÖĞ»¹ÓĞconcat¼¸¸öÊÓÆµµ½Ò»¸öÊÓÆµÎÄ¼şÖĞ·½·¨
+# ²Ã¼ôÊÓÆµ£¬±ÈÈç¿ÉÒÔ°ÑburnedµÄ×ÖÄ»ÇĞµô
+# ÏÈÓÃÉÏÃæÃüÁî²é¿´Ô­ÊÓÆµÎÄ¼ş´óĞ¡£¬ÔÙ¸ù¾İ¿í¸ßºÍ×ø±ê½øĞĞ crop=w:h:x:y
 ffmpeg -i test.mp4 -filter:v "crop=1280:690:0:0" output.mp4
 ```
 
-#### æ·»åŠ å­—å¹•
-é¦–å…ˆéœ€è¦å‡†å¤‡å­—å¹•æ–‡ä»¶
+#### Ìí¼Ó×ÖÄ»
+Ê×ÏÈĞèÒª×¼±¸×ÖÄ»ÎÄ¼ş
 ```console
 touch subtitle.srt
 
-# edit subtitle.srt ç”¨UTF8æ ¼å¼
-# æ ¼å¼å°±æ˜¯ èµ·å§‹æ—¶é—´ --> ç»“æŸæ—¶é—´  + å­—å¹•å†…å®¹ 
+# edit subtitle.srt ÓÃUTF8¸ñÊ½
+# ¸ñÊ½¾ÍÊÇ ÆğÊ¼Ê±¼ä --> ½áÊøÊ±¼ä  + ×ÖÄ»ÄÚÈİ 
 1
 00:00:00,000 --> 00:00:01,880
-åœ¨ç»å†äº†ä¸€åœºäººç”Ÿå·¨å˜ä¹‹å
+ÔÚ¾­ÀúÁËÒ»³¡ÈËÉú¾Ş±äÖ®ºó
 When I was lying there in the VA hospital ...
 
 2
 00:00:02,000 --> 00:00:03,000
-æˆ‘è¢«é€è¿›äº†é€€ä¼å†›äººç®¡ç†å±€åŒ»é™¢
+ÎÒ±»ËÍ½øÁËÍËÎé¾üÈË¹ÜÀí¾ÖÒ½Ôº
 ... with a big hole blown through the middle of my life,
 
 3
 00:00:03,090 --> 00:00:04,000
-é‚£æ®µæ—¶é—´æˆ‘ç»å¸¸ä¼šæ¢¦åˆ°è‡ªå·±åœ¨é£ç¿”
+ÄÇ¶ÎÊ±¼äÎÒ¾­³£»áÃÎµ½×Ô¼ºÔÚ·ÉÏè
 ... I started having these dreams of flying.
 
 4
 00:00:04,000 --> 00:00:05,000
-æˆ‘è¢«é€è¿›äº†é€€ä¼å†›äººç®¡ç†å±€åŒ»é™¢
+ÎÒ±»ËÍ½øÁËÍËÎé¾üÈË¹ÜÀí¾ÖÒ½Ôº
 ... with a big hole blown through the middle of my life,
 
 5
 00:00:05,001 --> 00:00:05,999
-é‚£æ®µæ—¶é—´æˆ‘ç»å¸¸ä¼šæ¢¦åˆ°è‡ªå·±åœ¨é£ç¿”
+ÄÇ¶ÎÊ±¼äÎÒ¾­³£»áÃÎµ½×Ô¼ºÔÚ·ÉÏè
 ... I started having these dreams of flying.
 ```
-å†æŠŠå­—å¹•æ–‡ä»¶åŠ å…¥åˆ°è§†é¢‘æ–‡ä»¶ä¸­
+ÔÙ°Ñ×ÖÄ»ÎÄ¼ş¼ÓÈëµ½ÊÓÆµÎÄ¼şÖĞ
 ```console
-# å­—å¹•é›†æˆåˆ°è§†é¢‘æ–‡ä»¶ï¼Œé€šè¿‡æ’­æ”¾å™¨å­—å¹•é€‰æ‹©æ’­æ”¾,ç›¸å½“äºå¤–æŒ‚å­—å¹•
-# -c copy -c:s mov_text å›ºå®šé¡ºåºå‚æ•°ï¼Œå«ä¹‰ä¸ºVideo:copy, Audio:copy, Subtitle:copy with encode mov_text(movieå­—å¹•æ–‡æœ¬ç¼–ç )
-# -metadata:s:s:0 language=eng è®¾å®šè¾“å‡ºæ–‡ä»¶çš„metadataä¸­ç¬¬ä¸€ä¸ªå­—å¹•trackçš„åç§°æ˜¯è‹±æ–‡ï¼Œå¯ä»¥åœ¨æ’­æ”¾å™¨ä¸­é€‰æ‹©
-# -metadata:s:a:0 language=eng è®¾å®šè¾“å‡ºæ–‡ä»¶çš„metadataä¸­ç¬¬ä¸€ä¸ªaudio streamè¯­è¨€åç§°
+# ×ÖÄ»¼¯³Éµ½ÊÓÆµÎÄ¼ş£¬Í¨¹ı²¥·ÅÆ÷×ÖÄ»Ñ¡Ôñ²¥·Å,Ïàµ±ÓÚÍâ¹Ò×ÖÄ»
+# -c copy -c:s mov_text ¹Ì¶¨Ë³Ğò²ÎÊı£¬º¬ÒåÎªVideo:copy, Audio:copy, Subtitle:copy with encode mov_text(movie×ÖÄ»ÎÄ±¾±àÂë)
+# -metadata:s:s:0 language=eng Éè¶¨Êä³öÎÄ¼şµÄmetadataÖĞµÚÒ»¸ö×ÖÄ»trackµÄÃû³ÆÊÇÓ¢ÎÄ£¬¿ÉÒÔÔÚ²¥·ÅÆ÷ÖĞÑ¡Ôñ
+# -metadata:s:a:0 language=eng Éè¶¨Êä³öÎÄ¼şµÄmetadataÖĞµÚÒ»¸öaudio streamÓïÑÔÃû³Æ
 ffmpeg -i te.mp4 -i subtitle.srt -c copy -c:s mov_text -metadata:s:s:0 language=eng -y output.mp4
 
-# åµŒå…¥SRTå­—å¹•åˆ°è§†é¢‘æ–‡ä»¶,æ’­æ”¾å™¨æ— æ³•é€‰æ‹©ï¼Œç›¸å½“äºå°±æ˜¯æŠŠå­—å¹•çƒ§å…¥(burn)è§†é¢‘æ–‡ä»¶
+# Ç¶ÈëSRT×ÖÄ»µ½ÊÓÆµÎÄ¼ş,²¥·ÅÆ÷ÎŞ·¨Ñ¡Ôñ£¬Ïàµ±ÓÚ¾ÍÊÇ°Ñ×ÖÄ»ÉÕÈë(burn)ÊÓÆµÎÄ¼ş
 # https://trac.ffmpeg.org/wiki/HowToBurnSubtitlesIntoVideo
-# å¦‚æœé‡åˆ° No such filter: 'subtitles'è¿™æ ·é”™è¯¯ï¼Œè¯´æ˜å®‰è£…ffmpegæ²¡æœ‰ç¼–å…¥æŸäº›staticåº“
+# Èç¹ûÓöµ½ No such filter: 'subtitles'ÕâÑù´íÎó£¬ËµÃ÷°²×°ffmpegÃ»ÓĞ±àÈëÄ³Ğ©static¿â
 ffmpeg -i te.mp4 -vf subtitles=subtitle.srt -y output.mp4
 ffmpeg -i te.mp4 -vf ass=subtitle.ass -y output.mp4
-# å°†video.mkvä¸­çš„å­—å¹•ï¼ˆé»˜è®¤ï¼‰åµŒå…¥åˆ°out.aviæ–‡ä»¶ 
+# ½«video.mkvÖĞµÄ×ÖÄ»£¨Ä¬ÈÏ£©Ç¶Èëµ½out.aviÎÄ¼ş 
 ffmpeg -i video.mkv -vf subtitles=video.mkv out.avi
 ffmpeg -i te.mp4 -filter_complex "subtitles=subtitle.srt" -c copy output.mp4
 
-# å­—å¹•æ ¼å¼è½¬æ¢
+# ×ÖÄ»¸ñÊ½×ª»»
 ffmpeg -i subtitle.srt subtitle.ass
 ```
-#### é«˜çº§å‚æ•°
-é»˜è®¤ffmpegç»™å¤šåª’ä½“æ–‡ä»¶ä¸­video, audio, subtitleéƒ½æŒ‡å®šä¸€ç§streamç±»å‹(v/a/s)ã€‚è¿™ä¸‰ç§ç±»å‹å¯ä»¥åŒæ—¶ä»input filesä¸­é€‰ä¸­åŠ åˆ°output fileä¸­.
+#### ¸ß¼¶²ÎÊı
+Ä¬ÈÏffmpeg¸ø¶àÃ½ÌåÎÄ¼şÖĞvideo, audio, subtitle¶¼Ö¸¶¨Ò»ÖÖstreamÀàĞÍ(v/a/s)¡£ÕâÈıÖÖÀàĞÍ¿ÉÒÔÍ¬Ê±´Óinput filesÖĞÑ¡ÖĞ¼Óµ½output fileÖĞ.
 ```console
-# -c copy é»˜è®¤æ‹·è´è¾“å…¥æ–‡ä»¶ä¸­Video/Audio/Subtitle 
-# -vn disable Video stream æ„å‘³output.mp4æ–‡ä»¶ä¸­æ²¡æœ‰è§†é¢‘
-# -an disable Audio stream æ„å‘³output.mp4æ–‡ä»¶ä¸­æ²¡æœ‰éŸ³é¢‘
-# -sn disable Subtitle stream æ„å‘³output.mp4æ–‡ä»¶ä¸­æ²¡æœ‰å­—å¹•
-# -dn disable metadata stream æ„å‘³output.mp4æ–‡ä»¶ä¸­æ²¡æœ‰metadata
+# -c copy Ä¬ÈÏ¿½±´ÊäÈëÎÄ¼şÖĞVideo/Audio/Subtitle 
+# -vn disable Video stream ÒâÎ¶output.mp4ÎÄ¼şÖĞÃ»ÓĞÊÓÆµ
+# -an disable Audio stream ÒâÎ¶output.mp4ÎÄ¼şÖĞÃ»ÓĞÒôÆµ
+# -sn disable Subtitle stream ÒâÎ¶output.mp4ÎÄ¼şÖĞÃ»ÓĞ×ÖÄ»
+# -dn disable metadata stream ÒâÎ¶output.mp4ÎÄ¼şÖĞÃ»ÓĞmetadata
 ffmpeg -i te.mp4 -c copy -vn -y output.mp4
 
-# -map  å®Œå…¨æ‰‹åŠ¨æ¥æ§åˆ¶è½¬æ¢é€‰æ‹©
-# mapè¾“å…¥æ–‡ä»¶ä¸­ALL streamsåˆ°outputæ–‡ä»¶ç›¸å½“äº ffmpeg -i test.mp4 output.mp4
+# -map  ÍêÈ«ÊÖ¶¯À´¿ØÖÆ×ª»»Ñ¡Ôñ
+# mapÊäÈëÎÄ¼şÖĞALL streamsµ½outputÎÄ¼şÏàµ±ÓÚ ffmpeg -i test.mp4 output.mp4
 ffmpeg -i te.mp4 -map 0 output.mp4
-# å¦‚æœè¾“å…¥æ–‡ä»¶ä¸­åªæœ‰ä¸¤ä¸ªaudio streams,ä¼šè¢«mapæˆ"0:0"å’Œ"0:1". å¯ä»¥é€‰æ‹©åœ¨outputä¸­è¾“å‡ºå“ªä¸€ä¸ª
+# Èç¹ûÊäÈëÎÄ¼şÖĞÖ»ÓĞÁ½¸öaudio streams,»á±»map³É"0:0"ºÍ"0:1". ¿ÉÒÔÑ¡ÔñÔÚoutputÖĞÊä³öÄÄÒ»¸ö
 ffmpeg -i te.mp4 -map 0:1 out.wav
 
-# å‘½ä»¤è¡Œç¬¬ä¸€ä¸ª"-map" 0 optionå¯¹åº”ç¬¬ä¸€ä¸ªinputæ–‡ä»¶ï¼Œç¬¬äºŒä¸ª"-map" 1 optionå¯¹åº”ç¬¬äºŒä¸ªinputæ–‡ä»¶
-# é€‰æ‹©a.movä¸­ç¬¬3ä¸ªstreamå’Œb.movä¸­ç¬¬7ä¸ªstreamè¾“å‡ºåˆ°out.movä¸­
+# ÃüÁîĞĞµÚÒ»¸ö"-map" 0 option¶ÔÓ¦µÚÒ»¸öinputÎÄ¼ş£¬µÚ¶ş¸ö"-map" 1 option¶ÔÓ¦µÚ¶ş¸öinputÎÄ¼ş
+# Ñ¡Ôña.movÖĞµÚ3¸östreamºÍb.movÖĞµÚ7¸östreamÊä³öµ½out.movÖĞ
 ffmpeg -i a.mov -i b.mov -c copy -map 0:2 -map 1:6 out.mov 
-# é€‰æ‹©a.movä¸­å…¨éƒ¨è§†é¢‘streamå’Œç¬¬ä¸‰ä¸ªéŸ³é¢‘streamè¾“å‡ºåˆ°out.movä¸­
+# Ñ¡Ôña.movÖĞÈ«²¿ÊÓÆµstreamºÍµÚÈı¸öÒôÆµstreamÊä³öµ½out.movÖĞ
 ffmpeg -i a.mov -map 0:v -map 0:a:2 out.mov 
-# é€‰æ‹©a.movä¸­å…¨éƒ¨streamï¼Œé™¤äº†ç¬¬2ä¸ªéŸ³é¢‘stream(-0:a:1)è¾“å‡ºåˆ°out.movä¸­
+# Ñ¡Ôña.movÖĞÈ«²¿stream£¬³ıÁËµÚ2¸öÒôÆµstream(-0:a:1)Êä³öµ½out.movÖĞ
 ffmpeg -i a.mov -map 0 -map -0:a:1 out.mov
-# é€‰æ‹©English audio streamè¾“å‡ºåˆ°out.mov 0:m metadata
+# Ñ¡ÔñEnglish audio streamÊä³öµ½out.mov 0:m metadata
 ffmpeg -i a.mov -map 0:m:language:eng out.movPUT        
 ```
