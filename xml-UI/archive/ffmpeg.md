@@ -71,15 +71,16 @@ When I was lying there in the VA hospital ...
 ```
 再把字幕文件加入到视频文件中
 ```console
-# 字幕集成到视频文件，通过播放器字幕选择播放,相当于外挂字幕
+# 集成字幕到视频文件，通过播放器字幕选择播放, 相当于外挂字幕
 # -c copy -c:s mov_text 固定顺序参数，含义为Video:copy, Audio:copy, Subtitle:copy with encode mov_text(movie字幕文本编码)
 # -metadata:s:s:0 language=eng 设定输出文件的metadata中第一个字幕track的名称是英文，可以在播放器中选择
 # -metadata:s:a:0 language=eng 设定输出文件的metadata中第一个audio stream语言名称
 ffmpeg -i te.mp4 -i subtitle.srt -c copy -c:s mov_text -metadata:s:s:0 language=eng -y output.mp4
 
-# 嵌入SRT字幕到视频文件,播放器无法选择，相当于就是把字幕烧入(burn)视频文件
+# 嵌入SRT字幕到视频文件, 相当于就是把字幕烧入(burn)视频文件
 # https://trac.ffmpeg.org/wiki/HowToBurnSubtitlesIntoVideo
-# 如果遇到 No such filter: 'subtitles'这样错误，说明安装ffmpeg没有编入某些static库
+# 如果遇到 No such filter: 'subtitles'这样错误，说明安装ffmpeg没有编入某些static库，一般通过系统repo安装的都会缺少coder或filter
+# 解决方法就是进官网 http://ffmpeg.org 下载Linux/Mac/Windows静态编译版本
 ffmpeg -i te.mp4 -vf subtitles=subtitle.srt -y output.mp4
 ffmpeg -i te.mp4 -vf ass=subtitle.ass -y output.mp4
 # 将video.mkv中的字幕（默认）嵌入到out.avi文件 
