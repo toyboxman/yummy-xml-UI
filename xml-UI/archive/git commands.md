@@ -465,6 +465,12 @@ git cherry-pick dev^
 
 # 在当前分支中获取dev分支倒数第三提交
 git cherry-pick dev~2  
+
+# 在当前分支中获取dev分支三个提交
+git cherry-pick dev~2 dev^ dev
+# 或者通过range设定3个commits，
+# range规则是(a..b], a比b旧，a不取，取a的下一个到b所有commits 
+git cherry-pick dev~3..dev
 ```
 
 ### git diff

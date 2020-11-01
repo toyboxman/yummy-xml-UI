@@ -1490,53 +1490,60 @@ gzip -fv myfile.tar
 # -d 指定解压目录 ./test
 gzip -dtest spring.gz  
 
-# decompress zip file named lib.zip to ./lib folder
-unzip -dlib lib.zip  
-# extract zip file to designated folder
-unzip lib.zip -d /usr/share/tmp  
-# To extract all FORTRAN and C source files--*.f, *.c, *.h, and Makefile--into the /tmp directory:
-unzip source.zip "*.[fch]" Makefile -d /tmp
-# same command regardless of case (e.g., both *.c and *.C, and any makefile, Makefile, MAKEFILE or similar):
-unzip -C source.zip "*.[fch]" makefile -d /tmp
+# 解压 lib.zip 到 ./lib 目录
+$ unzip -dlib lib.zip  
+# 解压 lib.zip 到 /usr/share/tmp 目录
+$ unzip lib.zip -d /usr/share/tmp  
+
+# 解压 all FORTRAN and C source files--*.f, *.c, *.h, and Makefile--至 /tmp 目录:
+$ unzip source.zip "*.[fch]" Makefile -d /tmp
+# -C 忽略字符大小写
+# 解压 all FORTRAN and C source files, 忽略文件后缀大小写 (e.g., both *.c and *.C, and any makefile, Makefile, MAKEFILE or similar):
+$ unzip -C source.zip "*.[fch]" makefile -d /tmp
+
 # 解压指定文件到当前目录，指定文件必须是压缩包中完整路径名或者目录下全部文件
-unzip framework-api-1.0.jar "com/example/api/ApiImpl.class" -d ./
-unzip framework-api-1.0.jar "com/example/api/*" -d ./
+$ unzip framework-api-1.0.jar "com/example/api/ApiImpl.class" -d ./
+$ unzip framework-api-1.0.jar "com/example/api/*" -d ./
+
 # 解压lib.war中比 WEB-INF目录下有变化的文件，解压过程中无需提示是否覆盖
 # -o 覆盖本地文件不需要提示
 # -f 仅解压比本地文件版本更新的压缩包文件, 如果本地没有文件无法比较则会放弃解压缩
-unzip -fo lib.war -d WEB-INF/
+$ unzip -fo lib.war -d WEB-INF/
 
 # pipeline gzip&tar
 # tar xvf - 减号指定stdin读取内容并在当前目录解压
-gzip -dv < bankApp.tar.gz | tar xvf -   
+$ gzip -dv < bankApp.tar.gz | tar xvf -   
 
 # -rv 增加并更新zip中文件, 与tar -rv只增加不替换文件处理不一样
-# -uv 更新zip中文件
 # 把antrun/build-main.xml 添加到auth-1.0.jar
-zip -rv auth-1.0.jar antrun/build-main.xml 
+$ zip -rv auth-1.0.jar antrun/build-main.xml 
 # 查看auth-1.0.jar最新文件列表
-unzip -l userauth-1.0-tests.jar 
+$ unzip -l userauth-1.0-tests.jar 
 211  2019-11-07 22:28   antrun/build-main.xml
 # 编辑antrun/build-main.xml再执行更新-rv操作
 # zip文件中对应文件已经被update成最新
 214  2019-11-11 10:50   antrun/build-main.xml
+
+# -uv 更新zip中文件
 # 执行-uv也能达到更新作用
-zip -uv auth-1.0.jar antrun/build-main.xml 
+$ zip -uv auth-1.0.jar antrun/build-main.xml 
 
 # -d 删除zip中的文件
-zip -d auth-1.0.jar antrun/build-main.xml
+$ zip -d auth-1.0.jar antrun/build-main.xml
 # 删除zip中的文件目录
-zip -d auth-1.0.jar src/*
+$ zip -d auth-1.0.jar src/*
 # jar不支持-d 因此只能用zip来删除其中文件
 # 注意jar支持参数可以不加- 但zip/gzip 命令参数前都需要-
 
 # 把当前目录下org整个打包成apache.jar
-jar cvf apache.jar ./org/*
+$ jar cvf apache.jar ./org/*
+
 # 查看打包的文件内容
-jar tvf apache.jar
+$ jar tvf apache.jar
+
 # -uvf 增加更新jar文件内容
 # jar不支持-r参数
-jar uvf auth-1.0.jar ../src/test/resources/
+$ jar uvf auth-1.0.jar ../src/test/resources/
 ...
 213  2019-11-11 11:00   antrun/build-main.xml
 0  2019-10-10 14:00   src/test/resources/
