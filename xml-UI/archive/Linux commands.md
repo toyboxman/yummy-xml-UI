@@ -24,6 +24,7 @@
             - [ProcDump/gcore调试Linux进程](https://mp.weixin.qq.com/s/wQmmKRkrlgCHn19HsqEU8w)
             - [coredump创建并调试转储文件](https://mp.weixin.qq.com/s/CFBqt5EtpPevgZBxYs1ZmQ)
         - [Crash配合/dev/mem调试内存 ](https://mp.weixin.qq.com/s/Q4FbI_U6pRrfhlpuzOJmig)
+          - [调试内存泄漏](https://mp.weixin.qq.com/s/wSjYQqIIaqTRdSjoacmC6Q)
         - [eBPF](https://mp.weixin.qq.com/s/GxjcRzcgPGhzK3Q3shNbLg)
         - log
           + [配置Rsyslog服务器](https://mp.weixin.qq.com/s/S_MJ1c2mLgoo1PndJ_33YA)
@@ -38,6 +39,7 @@
         - [List All Users](#list-all-users) 
         - [Add New Users](#add-new-users)
         - [umask修改权限](https://mp.weixin.qq.com/s/LIPX78Ex-KSaCCd9wiyvJA)
+        - [Linux提权](https://mp.weixin.qq.com/s/SSkWnOGcLiLtudr_5dNcsg)
         - sudo[[1](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [2](https://mp.weixin.qq.com/s/MA4qscWPGp0XCk_nOWiTxg)]
         - [用户组启禁用 SSH](https://mp.weixin.qq.com/s/uvU_Y24qVTOkc-aAlHV0zA)
         - [Tripwire/chattr/sudo/sealert安全保护](https://mp.weixin.qq.com/s/dK6YUGt4eiDY4rkDKE3cUg)
@@ -46,6 +48,7 @@
         - [dmesg](#list-system-details)
         - [Show Linux Version](#show-linux-version)
         - [Top](#top)
+        - [Watch](https://mp.weixin.qq.com/s/mnu-jKQJDndOxeBCDMeknA)
         - [free](#free)
         - [w/uptime/cal](#wuptimecal)
         - [stress做压力测试](https://mp.weixin.qq.com/s/6GUm6YjsRJCEVYact1hZvw)
@@ -92,6 +95,7 @@
         - [mtr检测网络联通性](https://mp.weixin.qq.com/s/-DWPyHyGD_Lvdyp8KNSQ5w)
         - [网络测速工具fast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
         - [bmon/iftop/ntop查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
+        - [Nethogs/IOZone/IOTop/IPtraf/IFTop/HTop/NMON/MultiTail/Fail2ban/Tmux/Agedu/NMap/Httperf](https://mp.weixin.qq.com/s/x7wanQOitsOywBb9TP3zoQ)
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
         - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
@@ -105,6 +109,7 @@
     - [Alias](https://mp.weixin.qq.com/s/wTokA2r-kxIMePmuVE98HA)
     - [List/ls](#list)
     - [Base64](#base64)
+    - [Batch](#batch-command)
     - [Copy/Xclip/Mkdir/Mkfifo](#cp)
     - [Chmod](#chmod)
     - [Chown](#chown)
@@ -1256,8 +1261,9 @@ crontab -r
 
 #### Curl
 + [Basic Manual](http://conqueringthecommandline.com/book/curl)  
-+ [Curl学习指南](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446117&idx=2&sn=711f87e47a0c3565164612138d8dc811)
-+ [21个curl 命令](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615768&idx=2&sn=1db213cc4aa8e753921bec03e4f4dee8)
++ [Curl学习指南](https://mp.weixin.qq.com/s/5Hlp4Y82m2ckVlytA-x-kw)
++ [21个curl命令](https://mp.weixin.qq.com/s/Rh9jnZ57jWHkLBm2f80xjw)
++ [curl命令行访问互联网](https://mp.weixin.qq.com/s/JImf-lqUMP_Qe27oCWVtwg)
 + [HTTPie替换curl/wget](https://mp.weixin.qq.com/s/SuZSOOWTiM6a1LZj1d2udg)
 ```console
 # (H) means HTTP/HTTPS only, (F) means FTP only
@@ -1322,6 +1328,15 @@ curl -i -k -u admin:admin -X PUT https://127.0.0.1/api/v1/jobs/09d3a97b-5ecb-4d7
 	"enabled": true
 }
 EOF
+
+# 获取HTTP消息头
+$ curl --head "https://example.com"
+
+# 获取协商过程中发生错误
+$ curl --head --show-error "http://opensource.ga"
+
+# 展开短网址
+$ curl --head --location "https://bit.ly/2yDyS4T"
 ```
 
 ##### download
@@ -1656,39 +1671,21 @@ umount -fv /home/king/tor
 umount -lv /home/king/tor 
 ```
 
-* command1; command2; command3 -- batch execute command
+#### batch command
++ [Linux终端同时运行多个命令](https://mp.weixin.qq.com/s/t8U59Owxm_pEugxJZOvXEQ)
+
 ```console
-vncserver -kill :1; vncserver
-```
-* command1 >> file -- redirect file
-```console
+# Command 1 ; Command 2 首先运行Command1，然后运行Command2
+# Command 1 && Command 2 当Command1运行成功并结束，然后运行Command2
+# Command 1 || Command 2 当Command1运行失败时才运行Command2
+$ vncserver -kill :1; vncserver
+$ [ -f file.txt ] && echo "File exists" || echo "File doesn't exist"
+
+# command1 >> file -- redirect file
 # output result to file, double greater than sign goes, result appends to file
 ls >> file 
 # one greater than sign overrides file
 ls > file 
-```
-* tty  --show current console id
-* system setting
-```console
-system-config-network -- open ip&network configuration GUI(-gui) or CMD(-tui)
-                    -services -- open service configuration GUI(just like system services of windows)
-                    -samba   -- open samba service configuration GUI
-                    -httpd     -- open apache service configuration GUI
-                    -packages -- open installed packages GUI(just like add/remove component of windows)
-                    -users     -- open user&group configuration GUI
-                    -lvm -- open Logical Volume Manager GUI
-                    -date       -- open date&time configuration GUI
-                    -display  -- open monitor configuration GUI
-                    -keyboard -- open keyboard configuration GUI
-                    -authentication -- open authentication configuration GUI
-                    -kdump -- open kernel dump configuration GUI
-                    -language -- open system language configuration GUI
-                    -printer -- open printer configuration GUI
-```
-* GNOME display manager
-```console
-# note: When vnc desktop has conflict, it maybe has impact performing 'gdm-restart'
-gdm 
 ```
 
 #### chmod

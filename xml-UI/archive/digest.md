@@ -46,11 +46,16 @@
 + [Git](git%20commands.md)
     - [GitLab建立和托管网站](https://mp.weixin.qq.com/s/NSUDid0i8xWDeDQlAxBZjg)
     - [Git共享文件](https://mp.weixin.qq.com/s/maETLN2FFAmztBSCPbYIbg)
+    - [GitOps工具](https://mp.weixin.qq.com/s/mnnLseNv1onKgyyV-gcoYw)
 + 开源工具
     - [FFmpeg编辑视频](ffmpeg.md)
     - [创建EPUB电子书](https://mp.weixin.qq.com/s/nCNzETj-LF1ZDgpLZu0c5Q)  
         `calibre/ghostwriter和pandoc`
     - Jenkins构建CI/CD/DevOps[[1](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA), [2](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA), [3](https://mp.weixin.qq.com/s/Rnux4uL4IA0qFmBK-FimoA)]
+        - [ninja/make/bazel增量构建方式](https://mp.weixin.qq.com/s/kGbimDS4gEkYIMr6US8g-A)
+    - [开发过程中开源工具](https://mp.weixin.qq.com/s/_Cg1cwHgMXaOzwYQzwoTkQ)  
+        `tmate --协作编程共享终端访问`<br>
+        `asciinema --终端录制工具`
     - [pdftk操作PDF](https://mp.weixin.qq.com/s/bq8m3akbF_im6RWulhIh_w)     
     `Java实现工具，大文件处理会碰到问题。某些功能也可通过浏览器打印PDF方式实现`
     - [开源搜索引擎YaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)  
@@ -90,6 +95,7 @@
             - [补码](https://mp.weixin.qq.com/s/RVwRqcxSdP96dknUSmNTBg)
         - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
             - [CPU访问硬盘很慢](https://mp.weixin.qq.com/s/To_E-51Bb_2ol4t0WtspYg)
+            - [NUMA/UMA影响程序的延迟](https://mp.weixin.qq.com/s/GZjugy6ANn6NaUuSZyL6PQ)
         - Linux进程总结[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
         - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
         - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
@@ -108,6 +114,7 @@
         - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
         - [Linux服务端最大并发数是多少](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
     - [Linux阅码场](https://mp.weixin.qq.com/s/bgNYCf25LfQer1j_5r7_hg)
+    - [Linux系统调用详解](https://mp.weixin.qq.com/s/Guny-z3QAqHF6xxeqgH5LA)
     - [spinlock/rwlock/seqlock原理剖析](https://mp.weixin.qq.com/s/jOJL-7TSlgrX4f-1T_5Wvw)
 
 #### Programming
@@ -285,6 +292,10 @@
 + [架构设计模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)  
     `类似于软件设计模式,包括分层架构/微服务架构/微核架构/事件驱动架构/云原生架构`
     + [通用型四层系统架构设计](https://mp.weixin.qq.com/s/m78LXtrGoLxs_qzBvP8NcA)
+    + [10种常见的软件架构模式](https://mp.weixin.qq.com/s/qQf4hxcKpG4LgcS9oAkGGw)  
+        `管道过滤模式/主从模式/Broker模式/P2P模式/黑板模式/MVC模式/解释器模式`
+    + [应用架构](https://mp.weixin.qq.com/s/CO3LZFDr5Rv5O5NEumA30g)  
+        `分层架构/CQS(Command Query Separation)/六边形架构/洋葱圈架构`
 + [架构衡量指标及改进目标](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)  
     `性能/可靠性/可用性/容错性/可信赖性/可伸缩性/安全性/互操作性/可调整性/可部署性/可测试性/简单性/可移植性/易用性/可扩展性/抗脆弱性/可升级性/合规性/成本/可存档性/可审核性/可跟踪性`
     + [高可用系统架构设计](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)  
@@ -334,6 +345,8 @@
         `柔性事务解决方案架构-->基于可靠消息的最终一致性方案/TCC事务补偿型方案/最大努力通知型`
     - [日志实时数据聚合](https://mp.weixin.qq.com/s/jgHx5mRyIp3CcmyBann0pg)  
         `日志基本是所有分布式数据系统和实时应用架构的核心.日志解决的两个问题：顺序变化和分布式数据，在分布式数据系统中对更新操作的顺序达成一致是这些系统进行设计时的核心问题`
+    - [CQRS架构模式](https://mp.weixin.qq.com/s/qGc7wDFGfXUAlEDVM7fNsA)   
+        `原则是说程序应当要么修改系统(Command), 要么返回查询结果(Query),软件中应当保持命令与查询的分离`
 + Microservice
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)  
         `墨菲定律(设计系统)/康威定律(系统划分)`<br>
@@ -353,6 +366,9 @@
         `微服务的高内聚和低耦合/服务调用链/级联故障和雪崩/服务限流熔断降级`
     - [微服务的经验教训](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
         `谷歌实践经验教训`
+    - [gRPC长连接在微服务业务系统中的实践](https://mp.weixin.qq.com/s/LKGzc6XBAWYdskVQQJFLHw)   
+        `HTTP/2.0 多路复用/单个连接维持的成本更高/负载均衡机制`<br>
+        `负载均衡机制/连接的管理(K8s+Istio)/性能测试`
     - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)    
         `阿里云API网关应用经验`
     - Dubbo
@@ -360,7 +376,9 @@
         `服务注册中心/动态代理层Proxy/Cluster集群层/protocol协议层/Exchange信息交换层/Transport网络通信层`
         - [Dubbo心跳设计](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)  
         `TCP短连接/长连接/保活/Netty-HashedWheelTimer`
-	- [陌陌Service Mesh架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
+	- [腾讯微服务平台的架构演进](https://mp.weixin.qq.com/s/C8cXSdHcqvuVMxybinFQPQ)  
+        `原生Consul的能力与限制/多租户/性能优化`
+    - [陌陌Service Mesh架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
 	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)  
         `Spring Cloud攒起微服务经验-->Eureka/Ribbon容错/SpringBoot Tomcat/HttpClient连接池的Keep-Alive/滚动升级时的可用性保障`
     - [你可能不需要微服务](https://mp.weixin.qq.com/s/2ZK-NwzuoziZq_5MI7x4mQ)
@@ -477,6 +495,7 @@
     - [ElasticSearch实现日均5亿查询量的京东订单中心](https://mp.weixin.qq.com/s/9QgQRYMdBeBiBtIYiGD7yA)
     - [Clickhouse替代ES](https://mp.weixin.qq.com/s/fzgrs8_dOpv2bB4oQHli5A)  
 + Business intelligence
+    - [Pinot实时分布式的OLAP数据存储和分析系统](https://mp.weixin.qq.com/s/1R-l_lC6-vxPazgLmX5a-g)
     - [数据湖与数据仓库的新未来](https://mp.weixin.qq.com/s/DWgiTi4XGzQqPpfXOSkVFA)
     - [superset](https://superset.incubator.apache.org/)  
         Apache的这个项目可以对大多数database engines进行数据分析处理  
@@ -499,6 +518,7 @@
     - [用AI翻译500种语言](https://mp.weixin.qq.com/s/as8grEpPtuOlKbpGs8TqvA)
     - [语音识别为何缺失ImageNet类似资料库](https://mp.weixin.qq.com/s/OyKnqLz5ZpCd7g7XspYnhw)
     - [TensorFlow.js识别海量图标](https://mp.weixin.qq.com/s/sGaXe9QXPAZAy-ga-aJnVQ)
+    - [序列推理引擎LightSeq](https://mp.weixin.qq.com/s/HUSYSrjG65p1TU9lS_KEUA)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
@@ -733,6 +753,7 @@ done
         - [阅读笔记](https://github.com/seaswalker/spring-analysis)
         - [RBAC访问实现](https://mp.weixin.qq.com/s/R90-OulrUj3xvuvIVYPDXw)
         - [自定义annotation+AOP实现权限控制](https://mp.weixin.qq.com/s/U9cOHihPerHqa8MDxDt0mQ)
+        - [private方法之于@Transactional](https://mp.weixin.qq.com/s/EXc3tYMWsZ5dcpO9DbB2dA)
 
 #### kubernetes
 + [k8s](k8s.md)
@@ -767,6 +788,8 @@ done
 儒家和道家，一个是入世人格，一个是出世人格，看起来互相矛盾，却在多少中国人的灵魂深处共存共生。岂止是儒家和道家纠缠不清，儒家跟法家也“同流合污”。这个道理两千年前已经有人讲得很清楚。汉元帝长于深宫，熟读经籍，抱怨老爹汉宣帝“持刑太深，宜用儒生。”汉宣帝气不打一处来，放下冠冕堂皇的话，连骂带吼训儿子，“汉家自有制度，本以霸王道杂之，奈何纯任德教，用周政乎？”
 
 [任嚣吸取屠睢的教训](https://mp.weixin.qq.com/s?__biz=MzU4NTA0NzMyOQ==&mid=2247504335&idx=1&sn=8bd6d31c6fa39059589db3f118a55ded)，对越人采取宽松政策，“抚绥有道，不敢以秦虎狼之威，复加荒裔”，不再滥杀无辜，而是接受南越习俗，与越人和睦相处。他任职数载，越人皆诚心归附。任嚣为统一大业立下汗马功劳，史书将他与当时在北方防御匈奴的蒙恬并称：“秦北有蒙恬，威詟漠庭，南有任嚣，恩洽扬越，而始皇乃得以自安。”
+
+[姚广孝](https://mp.weixin.qq.com/s/FshRUfzq_0nZauinK-_v_Q)一句话"祥也。飞龙在天，从以风雨。瓦堕，将易黄也。" 稳定靖难誓师前疑惑
 
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
