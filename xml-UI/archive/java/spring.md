@@ -601,6 +601,24 @@ public class MyclassAspect {
     @Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.*(..))")
     public void tracePointCut() {
     }
+
+    # 切点方法调用前
+    @Before("tracePointCut()")
+    public void traceStart(JoinPoint joinPoint) {
+        bean.startTrace(joinPoint);
+    }
+
+    # 切点方法调用结束
+    @After("tracePointCut()")
+    public void traceEnd(JoinPoint joinPoint) {
+        bean.endTrace(joinPoint);
+    }
+
+    # 切点方法调用出现异常
+    @AfterThrowing(pointcut = "tracePointCut()", throwing = "e")
+    public void traceDisruptedEnd(JoinPoint joinPoint, Throwable e) {
+        bean.endDisruptedTrace(joinPoint, e);
+    }
     ...
 }
 

@@ -32,7 +32,8 @@
 
 + ***Resource***    
     - [jayway技术博客](https://blog.jayway.com/)      
-    - [资源网站集合](https://mp.weixin.qq.com/s/gY9vL4Z5fwTpNJv_NswqNQ)
+    - [资源网站集合](https://mp.weixin.qq.com/s/gY9vL4Z5fwTpNJv_NswqNQ)  
+        `Gitlogs/DuckDuckGo/Ebooke/正则表达式/文件转换/web设计类工具`
 
 #### Linux
 + [Commands](Linux%20commands.md)
@@ -180,9 +181,13 @@
 
 #### Web
 + HTTP/HTTPS
-    - [HTTP基础概念-codes/header/安全/幂等](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
-    - [HTTP guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-    - [浏览器缓存机制](https://mp.weixin.qq.com/s/LLJGZyYELj3ZqPPvSONa-g)
+    - [HTTP基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)  
+        `codes/header/安全/幂等`
+    - [HTTP guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
+        `Mozilla MDN HTTP doc`
+    - [浏览器缓存机制](https://mp.weixin.qq.com/s/LLJGZyYELj3ZqPPvSONa-g)  
+        `1.缓存是指web资源(html/图片/js/数据等)存在于web服务器和浏览器之间的副本`  
+        `2.缓存策略可以缩短网页请求资源的距离，减少延迟，并且由于缓存文件可以重复利用，还可以减少带宽，降低网络负荷`
     - [CDN加速原理](https://mp.weixin.qq.com/s/DRQAVqCo87vST1DeDcyyBA)
     - [HTTPS原理](https://mp.weixin.qq.com/s/v8vVLD4YNSi0yBf6fS_Utg)
     - [Authentication](https://swagger.io/docs/specification/authentication/)
@@ -637,8 +642,8 @@ monitor in:description language:python
     - [Arya](https://markdown.lovejade.cn/)  
     一款开源的在线 markdown 编辑器，功能丰富，支持 DOM 节点展示、流程图、甘特图、时序图、任务列表，支持五线谱、及部分站点、视频、音频解析  
 + Generators
-    - [random](https://onlinerandomtools.com/)
-    - [transformer](https://onlineyamltools.com/)
+    - [random generator](https://onlinerandomtools.com/)
+    - [yaml transformer](https://onlineyamltools.com/)
 + Regex
     - [正则表达式匹配中文](https://www.w3cschool.cn/regexp/nck51pqj.html) 
     - [正则表达式特殊字符](https://www.w3cschool.cn/regexp/p5cx1pqd.html)
