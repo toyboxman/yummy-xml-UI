@@ -183,30 +183,30 @@
 + HTTP/HTTPS
     - [HTTP基础概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)  
         `codes/header/安全/幂等`
-    - [HTTP guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
-        `Mozilla MDN HTTP doc`
+        - [HTTPS原理](https://mp.weixin.qq.com/s/v8vVLD4YNSi0yBf6fS_Utg)  
+            `数据传输用对称加密/CA证书/中间人攻击`
+        - [HTTP guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
+            `Mozilla MDN HTTP doc`
     - [浏览器缓存机制](https://mp.weixin.qq.com/s/LLJGZyYELj3ZqPPvSONa-g)  
         `1.缓存是指web资源(html/图片/js/数据等)存在于web服务器和浏览器之间的副本`  
         `2.缓存策略可以缩短网页请求资源的距离，减少延迟，并且由于缓存文件可以重复利用，还可以减少带宽，降低网络负荷`
-    - [CDN加速原理](https://mp.weixin.qq.com/s/DRQAVqCo87vST1DeDcyyBA)
-    - [HTTPS原理](https://mp.weixin.qq.com/s/v8vVLD4YNSi0yBf6fS_Utg)
+    - [CDN加速原理](https://mp.weixin.qq.com/s/DRQAVqCo87vST1DeDcyyBA)  
+        `(Content Delivery Network)内容分发网络,工作原理就是将源站的资源缓存到位于全球各地的CDN节点上，用户请求资源时就近返回缓存的资源，而不需要每个用户的请求都回源站获取，保证用户访问资源的速度和体验`
     - [Authentication](https://swagger.io/docs/specification/authentication/)
-        - Basic Authentication
-
-            一种简单的内置于HTTP协议中认证办法.客户端发送携带Authorization header的HTTP requests，header包含base64-encoded字符串'username:password',如下样式
+        - Basic Authentication  
+            `一种简单的内置于HTTP协议中认证办法.客户端发送携带Authorization header的HTTP requests，header包含base64-encoded字符串'username:password',如下样式`
             ```
             Authorization: Basic ZGVtbzpwQDU1dzByZA==
             ```
-            因为base64字符串易于被解码,这种认证授权方式应该与其他安全机制配合使用，如HTTPS/SSL.
+            `因为base64字符串易于被解码,这种认证授权方式应该与其他安全机制配合使用，如HTTPS/SSL.`
 
-        - Bearer Authentication
-
-            也称为token authentication，是包含安全令牌(bearer tokens)的HTTP认证方法. 名字意思就是“赋予令牌携带者访问权” 样式如下
+        - Bearer Authentication  
+            `称为token authentication，是包含安全令牌(bearer tokens)的HTTP认证方法. 名字意思就是“赋予令牌携带者访问权” 样式如下`
             ```
             Authorization: Bearer <token>
             ```
-            令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
-            与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. 
+            `令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
+            与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. `
     - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
 + Nginx
     - [极简教程](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
@@ -268,18 +268,30 @@
     - [Voca/Cleave/Chart出色的JS库](https://mp.weixin.qq.com/s/R3MI_zOUf5xqXl8-9pfeDg)
     - [SVG基础总结](https://mp.weixin.qq.com/s/o6z2sixGw50_mUXAIT2BFg)
 + UI Framework
-    - [ant-design](https://ant.design/components/overview-cn/)
-    - [Element UI](https://element.eleme.cn/#/zh-CN/component/installation)
-    - [Material-UI](https://material-ui.com/zh/getting-started/installation/)
-    - [layui](https://www.layui.com/doc/)
-    - [AT-UI](https://at-ui.github.io/at-ui/#/zh/docs/introduction)
-    - [Taro UI](https://taro-ui.jd.com/#/docs/introduction)
-    - [lin-ui](https://github.com/TaleLin/lin-ui)
-    - [ruoyi](http://doc.ruoyi.vip/ruoyi/)
-    - [小商城](https://github.com/linlinjava/litemall)
-    - [45个单页面应用](https://github.com/bailicangdu/vue2-elm)
-    - [前后端代码自动生成](https://github.com/zhangdaiscott/jeecg-boot)
-    - [静态网站生成工具](https://mp.weixin.qq.com/s/vKAUczNgkwl48lVXIZ-zBA)
+    - [ant-design](https://ant.design/components/overview-cn/)  
+        `React封装了一套UI组件库`
+    - [Element UI](https://element.eleme.cn/#/zh-CN/component/installation)  
+        `基于React/Angular两种框架的UI组件库`
+    - [Material-UI](https://material-ui.com/zh/getting-started/installation/)  
+        `基于React的UI框架`
+    - [layui](https://www.layui.com/doc/)  
+        `一款采用自身模块规范编写的前端UI框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身`
+    - [AT-UI](https://at-ui.github.io/at-ui/#/zh/docs/introduction)  
+        `基于Vue.js 2.0的前端UI组件库`
+    - [Taro UI](https://taro-ui.jd.com/#/docs/introduction)  
+        `基于Taro框架开发的多端UI组件库,只书写一套代码,再通过Taro的编译工具，将源代码分别编译出可以在不同端(微信小程序、H5、RN等)运行的代码`
+    - [lin-ui](https://github.com/TaleLin/lin-ui)  
+        `微信小程序组件库`
+    - [ruoyi](http://doc.ruoyi.vip/ruoyi/)  
+        `基于SpringBoot、Shiro、Mybatis的权限后台管理系统`
+    - [小商城](https://github.com/linlinjava/litemall)  
+        `SpringBoot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端`
+    - [45个单页面应用](https://github.com/bailicangdu/vue2-elm)  
+        `基于vue2 + vuex构建一个具有45个页面的大型单页面应用`
+    - [前后端代码自动生成](https://github.com/zhangdaiscott/jeecg-boot)  
+        `低代码平台，SpringBoot 2.x，SpringCloud Alibaba，Ant Design&Vue，Mybatis-plus，Shiro，JWT。代码生成器让前后端代码一键生成，无需写任何代码`
+    - [静态网站生成工具](https://mp.weixin.qq.com/s/vKAUczNgkwl48lVXIZ-zBA)  
+        `静态网站是指网页不是由服务器动态生成的,HTML、CSS和JavaScript文件的内容与终端用户接收到的版本是一样`
 + GraphQL
     - [GraphQL工具和库](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
     - [什么是GraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)

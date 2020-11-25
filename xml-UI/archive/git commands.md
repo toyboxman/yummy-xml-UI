@@ -33,6 +33,7 @@
 - [git remote](#git-remote)
 - [git reset/revert](#git-reset-revert)
 - [git review](#git-review)
+- [git rev-list](#git-rev-list)
 - [git status](#git-status)
 - [git show](#git-show)
 - [git tag](#git-tag)
@@ -538,12 +539,6 @@ git log --author <name> | grep <name> | wc -l
 
 # 查看时间段(2018全年)所有提交的概要
 git shortlog --since=2018 --before=2019
-# 查看时间段内当前branch所有提交的数量汇总
-git rev-list --count @ --since="Dec 3 2015"  --before="Jan 3 2016"
-# 查看时间段内全部branch所有提交的数量汇总
-git rev-list --count --since="Dec 3 2015"  --before="Jan 3 2016" --all
-# 查看时间段内全部branch所有提交的数量汇总,忽略merge-commits
-git rev-list --count --since="Dec 3 2015"  --before="Jan 3 2016" --all --no-merges
 
 # 查看匹配作者的全部增删代码行统计
 git log --author=<name> --pretty=tformat: --numstat | awk \
@@ -554,6 +549,49 @@ git log --author=<name> --pretty=tformat: --numstat | awk \
 git log tag1..tag2
 # 汇总两分支之间的提交差异
 git log master..origin/master
+```
+
+### git rev-list
+```console
+# 统计指定提交与HEAD之间提交总数
+git rev-list a9e5e1dc6afd..@ --count
+
+# 统计两个分支提交数目差
+git branch -vv
+  im-trace  4ed5411 [origin/xbranch: ahead 7, behind 1059] 
+* uatrace  1fdddc9 [origin/xbranch: behind 61]
+
+# 查看uatrace&im-trace相对xbranch之间behind提交数目差值 1059-61=998
+git rev-list @ ^im-trace --count
+998
+# 查看uatrace&im-trace相对xbranch之间ahead提交数目差值 7-0=7
+git rev-list @..im-trace --count
+7
+
+# 比较两个提交在分支上的先后次序，数字大说明提交在前，也就是1fdddc9为bf5126祖辈
+git rev-list bf5126..@ --count
+29
+git rev-list 1fdddc9..@ --count
+62
+# 从子辈往祖辈统计，无结果输出
+git rev-list bf5126..1fdddc9 --count
+# 从祖辈往子辈统计，62-29=33
+git rev-list 1fdddc9..bf5126 --count
+33
+# 不统计输出就列出差距中所有提交hash
+git rev-list 1fdddc9..bf5126
+bf5126b58f5b49933efeadee3fbb6689e91bec2b
+...
+e786c78182a1c51cb7bcf75ff71fd9d6b69b1f09
+
+# 统计当前branch全部提交总数
+git rev-list --count HEAD
+# 统计时间段内当前branch全部提交的总数
+git rev-list --count @ --since="Dec 3 2015"  --before="Jan 3 2016"
+# 统计时间段内所有branch全部提交的总数
+git rev-list --count --since="Dec 3 2015"  --before="Jan 3 2016" --all
+# 查看时间段内所有branch全部提交的总数,但忽略merge-commits数目
+git rev-list --count --since="Dec 3 2015"  --before="Jan 3 2016" --all --no-merges
 ```
 
 ### git blame
