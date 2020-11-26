@@ -1378,7 +1378,7 @@ wget -r -np -nH http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
 # 下载到本目录结构没有host一级，除了11级目录，其余每一级目录都不包含下载文件
 1/2/3/4/5/6/7/8/9/10/11/
 
-# -r/--recursive 下载指定目录和其所有下级嵌套目录
+# -r/--recursive 下载指定目录和其所有下级嵌套目录 默认目录深度是5
 # -np/--no-parent URL指定下载目录的所有上级目录中文件均不下载
 # -nH/--no-host-directories 下载到本地目录结构中不包括URL中的hostname 
 # -R/--reject 指定某些文件不用下载
@@ -1386,6 +1386,11 @@ wget -r -np -nH http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
 wget -r -np -nH --cut-dirs=10 --reject="index.html*" http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
 # 裁剪掉10级目录后，仅剩第11级目录，并过滤掉所有 index.html* 文件
 11/
+
+# -l depth/--level=depth 指定下载最大目录层级
+# -nd/--no-directories 递归下载时不创建层级目录
+# -A acclist/--accept acclist 指定下载文件列表
+wget -r -l 1 -nd -A "*.pdf" http://10.117.5.87/
 ```
 上面两种方式都是单线程下载模式，如果希望支持多协议多线程模式，可以使用[aria2c](https://aria2.github.io/), 支持
 HTTP/HTTPS, FTP, SFTP, BitTorrent／Metalink
