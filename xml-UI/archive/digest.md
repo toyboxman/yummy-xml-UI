@@ -97,6 +97,8 @@
         - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
             - [CPU访问硬盘很慢](https://mp.weixin.qq.com/s/To_E-51Bb_2ol4t0WtspYg)
             - [NUMA/UMA影响程序的延迟](https://mp.weixin.qq.com/s/GZjugy6ANn6NaUuSZyL6PQ)
+            - [写出让CPU跑得更快的代码](https://mp.weixin.qq.com/s/0UhFA8y7KmEhzDAoMxiehA)  
+                `越靠近CPU核心的缓存其访问速度越快，CPU访问 L1 Cache需要2~4个时钟周期，L2 Cache需要10~20个时钟周期，L3 Cache需要20~60个时钟周期，而访问内存速度大概在200~300个时钟周期`
         - Linux进程总结[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
         - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
         - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
@@ -108,7 +110,8 @@
         - [Linux Used内存详解](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
         - [零拷贝技术](https://mp.weixin.qq.com/s/6RvOcduVpWTEwvulBMWiqQ)
         - [Linux默认页大小是4KB](https://mp.weixin.qq.com/s/_xC98At-9y9wNEv1o4G7gg)
-        - [手动释放swap和buffer和cache](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg)
+        - [为什么Linux需要Swapping](https://mp.weixin.qq.com/s/bgCRvenn6OcYXobzXtEwgQ)
+            - [手动释放swap和buffer和cache](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg)
     - 网络系统
         - [计算机网络基础知识](https://mp.weixin.qq.com/s/s_EeCQn6U57QpVXEqf_TjA)
         - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
@@ -120,6 +123,7 @@
 
 #### Programming
 + [***Github***](#github)
+    - [代码质量审核和管理工具](https://mp.weixin.qq.com/s/DBTJ1tF9u9urwwe0CsgChQ)
 + [***Java***](#java)
 + ***Scala***
     - [basic](scala/scala-basic.md)
@@ -127,37 +131,8 @@
     - [head](scala/scala-head.md)
 + ***Python***
     - [basic](python/python-basic.md)
-    - [getopt/optparse/argparse解析命令行参数](https://mp.weixin.qq.com/s/1b4kUhW7w2xDTeJeJJZx-w)
-    - [正则表达式模块](https://mp.weixin.qq.com/s/_LyebPdd3slgW_Cw3vTbDA)
-    - [有用的Python库](https://mp.weixin.qq.com/s/4chEQ3-jdQd9CD9ycv0ibA)
-    - [FastAPI构建Web服务](https://mp.weixin.qq.com/s/i9HQpaU902Vt7kv0_tRFKw)
-    - [kite-编写python代码的AI工具](https://mp.weixin.qq.com/s/q5GTpgxVPdBhufLTSP5mNw)
-    - [Python任务自动化/命令行工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)
-    - [ZeroMQ消息库在C和Python间共享数据](https://mp.weixin.qq.com/s/u052h84ByMCPMtFdfO3T7w)
-	- [Python调试设置不中断的断点](https://mp.weixin.qq.com/s/4dSVY1lJk4Edz05LC7J1pA)
-    - [pyenv运行多个版本的Python](https://mp.weixin.qq.com/s/1VqcfrEAveAbU5zF0HsWyw)
-    - 绘制数据
-        - [Heartrate执行可视化工具](https://mp.weixin.qq.com/s/Ihjr1qHtKrZFdW7GbtZcPQ)
-	    - [Octave绘制数据](https://mp.weixin.qq.com/s/Nb2ci6d5MhoRoepu6G3YdQ)
-        - [Plotly简化数据可视化](https://mp.weixin.qq.com/s/lVWtHqQ5SJqVfvtUJcsiQA)
-	    - [读取电子表格](https://mp.weixin.qq.com/s/otJKMe-HYOp06TyAGk0DVQ)
-        - [Python可视化COVID-19预测](https://mp.weixin.qq.com/s/R0dYPvrdVvwF0vb0SM0-HA)
-	    - [比Excel更强大的可视化库Altair](https://mp.weixin.qq.com/s/t3Bm8KEbLCbPlMPSQcpbvw)
-	    - [8个流行的可视化工具包](https://mp.weixin.qq.com/s/dRdFTBF7phHwKatPLjpOjA)
-        - [7种绘制数据方法](https://mp.weixin.qq.com/s/tVnLER0GBQDdOJoQphlQnA)
-        - [Pandas并行处理实现](https://mp.weixin.qq.com/s/t4B0z2nA3lJUmuJIHrsHNw)
-        - [Python代码转Latex公式](https://mp.weixin.qq.com/s/WJf6cuPSHLi4ka1w3Yzgcg)
 + ***Go***    
     - [basic](go/go-basic.md)
-    - [Go第一要素函数](https://mp.weixin.qq.com/s/96Df9YGykE6daDREli9W1A)
-    - [Golang编译器原理](https://mp.weixin.qq.com/s/uparU_6pApv8aPlVPeX_Tg)
-    - [OAuth简单实现](https://mp.weixin.qq.com/s/aPvIxho_eOguYqlcV8cYRw)
-    - [Go实现负载均衡服务](https://mp.weixin.qq.com/s/DxE3YOE1GDq6ZXRhpzfC0w)
-    - [Go并发编程](https://mp.weixin.qq.com/s/5YaZr3ljv4INIOQprqKZyw)
-	- [Concurrency和Parallelism in Go](https://mp.weixin.qq.com/s/ihJFa5Wir4ohhZUXVSBvMQ)
-    - [Go内联优化](https://mp.weixin.qq.com/s/hqivL8F6NyCow_oXn-BDvQ)
-    - [禁止类型比较让Go二进制文件变小](https://mp.weixin.qq.com/s/d1MbzlXp83c_MARpyojXdw)
-    - [Go的不足](https://mp.weixin.qq.com/s/UP_Rf-x1HekU-nl7BneVyg)
 + [***Rust***](https://mp.weixin.qq.com/s/JBlzMIhMa7TB5tHGSRhVkQ)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + [***laTeX***](laTeX/laTeX.md)
@@ -193,6 +168,7 @@
     - [CDN加速原理](https://mp.weixin.qq.com/s/DRQAVqCo87vST1DeDcyyBA)  
         `(Content Delivery Network)内容分发网络,工作原理就是将源站的资源缓存到位于全球各地的CDN节点上，用户请求资源时就近返回缓存的资源，而不需要每个用户的请求都回源站获取，保证用户访问资源的速度和体验`
     - [Authentication](https://swagger.io/docs/specification/authentication/)
+        - [基于token的多平台身份认证架构设计](https://mp.weixin.qq.com/s/KWxE-GouTxJBB6Aj7Vxa1Q)
         - Basic Authentication  
             `一种简单的内置于HTTP协议中认证办法.客户端发送携带Authorization header的HTTP requests，header包含base64-encoded字符串'username:password',如下样式`
             ```
@@ -210,9 +186,14 @@
     - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
 + Nginx
     - [极简教程](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
+    - [Nginx能做什么](https://mp.weixin.qq.com/s/OcdkQeP6HbWSYKZfhe03yw)  
+        `反向代理/负载均衡/HTTP服务器(包含动静分离)/正向代理`
     - 架构设计[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw), [3](https://mp.weixin.qq.com/s/fTRlEkBSgpm0suIICsG_iQ)]
     - [反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
     - [日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
+    - [Kong替换现有的Nginx](https://mp.weixin.qq.com/s/hRVtQVNrVgTzkm65b7A2Dw)  
+        `1.BFF(Backend For Frontend)聚合层: 将后端微服务适配到不同前端`<br>
+        `2.Sidecar应用层网关，实现异构语言的服务注册和发现，以及熔断限流功能`
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
     - [前端开发20年变迁史](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
     - 前端样例代码[[1](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew), [2](https://mp.weixin.qq.com/s/Tqqkn56C-S3jXe5Wqwuq8g)]
@@ -260,7 +241,10 @@
     - [使用TypeScript](https://mp.weixin.qq.com/s/wQy7ZqiuBcP6MHWW9H8dkg)
     - [JS中context和stack](https://mp.weixin.qq.com/s/pc6EbfCKN1xWd4Q6nBU-PQ)
     - [JS中实现map/reduce](https://mp.weixin.qq.com/s/HgXTuZd9fKdu8MoGAPP0Pw)
-    - [JS中延迟函数/柯里化/字符串及数组操作](https://mp.weixin.qq.com/s/DH3cH9bI81kJbVwIF7viEg)
+    - [JS中延迟函数/柯里化/字符串及数组操作](https://mp.weixin.qq.com/s/DH3cH9bI81kJbVwIF7viEg)  
+        `1.柯里化(Currying)是函数的一种转换，它将函数从f(a, b, c)的调用形式转换为f(a)(b)(c)调用形式`<br>
+        `2.Promises和Observables处理异步函数`<br>
+        `3.TypeScript在JavaScript中添加了静态类型`
     - [JS中过滤唯一/与或运算等](https://mp.weixin.qq.com/s/ir2y8RsZNrPQ2JJud1v08A)
     - [JS数组精简技巧](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
     - [JS实现异步任务](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
@@ -313,6 +297,8 @@
         `管道过滤模式/主从模式/Broker模式/P2P模式/黑板模式/MVC模式/解释器模式`
     + [应用架构](https://mp.weixin.qq.com/s/CO3LZFDr5Rv5O5NEumA30g)  
         `分层架构/CQS(Command Query Separation)/六边形架构/洋葱圈架构`
+    + [软件开发原则](https://mp.weixin.qq.com/s/WAa4ezth4CGwyjJD7FcP6w)  
+        `数据设计先行/数据一致性`
 + [架构衡量指标及改进目标](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)  
     `性能/可靠性/可用性/容错性/可信赖性/可伸缩性/安全性/互操作性/可调整性/可部署性/可测试性/简单性/可移植性/易用性/可扩展性/抗脆弱性/可升级性/合规性/成本/可存档性/可审核性/可跟踪性`
     + [高可用系统架构设计](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)  
@@ -406,6 +392,7 @@
 + [混沌工程](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)  
     `混沌工程(chaos engineering)是在分布式系统上进行实验的学科, 目的是建立对系统抵御生产环境中失控条件的能力以及信心,包括:`<br>
     `模拟整个IDC宕掉/选择一部分网络连接注入特定时间的延迟/随机让一些函数抛出异常/强制NTP时间不同步/生成IO错误/榨干CPU`
+    - [FreeWheel团队混沌工程实践之路](https://mp.weixin.qq.com/s/0monDPkAlMk7Yhq9swW7gQ)
 + [技术选型](https://mp.weixin.qq.com/s/2FN6x8VMA_v6kMW9t5hTww)
 + [DevOps工具链](https://mp.weixin.qq.com/s/1t1jICQEgXSJ51DVj6JrfQ)  
     `计划工具/问题跟踪/源码控制/构建工具/测试工具/CI和CD/配置管理工具/云平台/监控和日志工具/沟通工具/知识分享工具`
@@ -424,6 +411,8 @@
         `缓存/页面静态化/数据库优化/热点数据分离/合并数据库操作/数据库读写分离`
     - [分布式数据库实现主键全局自增](https://mp.weixin.qq.com/s/oNsTcrWCjntQefD2B0sq1A)  
         `设置主键自增的步长和起始偏移量/ZK递增方式`
+        - [分布式下的主键生成](https://mp.weixin.qq.com/s/1TcZAsaJ-T4W6S8cRqZUKQ)  
+            `数据库主键自增长/UUID/时间戳/snowflake`
     - [分库分表](https://mp.weixin.qq.com/s/U-9W-vHUReuZ5tgvtCRzJQ)  
         ` ID hash/range/sharding JDBC`
         - [MySQL分库分表](https://mp.weixin.qq.com/s/CoTO3owzgyciLfpVvFTb8w)  
@@ -431,6 +420,7 @@
     - [分页查询](https://mp.weixin.qq.com/s/QHE064D9g1Hwa8-07RgYNg)  
         `LIMIT子句/子查询优化/id限定优化/临时表优化`
         - [别再用OFFSET+LIMIT分页](https://mp.weixin.qq.com/s/XCSvDx90ml3uDkwBah8XsQ)
+        - [MyBatis千万数据表快速分页](https://mp.weixin.qq.com/s/6LVORrQC_5NijxwUNheKeg)
     - [有序索引](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)  
         `1.有序索引-->通常是B树/哈希表-->Go中map,Python中dict,Java中HashMap`<br>
         `2.内存中存储数据时，哈希表的效率很高，而B树的设计旨在以块的形式访问较慢的存储`
@@ -466,10 +456,13 @@
 + [Oracle](db/oracle.md)
 + [Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)  
     `数据类型/数据结构/使用场景/数据淘汰策略/持久化/事件`
+    - [Redis的8大数据类型](https://mp.weixin.qq.com/s/lbNX--yALXapjsP1NusTIQ)
     - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)  
         `Redis架构/主从复制/数据初始化/中断后同步/增量复制/数据一致性验证/完整性同步/部分同步`
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)  
         `缓存穿透/缓存击穿/缓存雪崩`
+    - [Redis分片机制](https://mp.weixin.qq.com/s/1f7lpmXYcaOCH7gR2DhPFw)  
+        `一致性hash算法/平衡性/单调性/分散性`
     - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)  
         `Cache Aside Pattern`
     - [Redis常见延迟问题定位与分析](https://mp.weixin.qq.com/s/L3LVxbtZAUSPUqLVG7D9pw)  
@@ -478,6 +471,7 @@
         `SDS(Simple Dynamic String)`
     - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)  
         `集群作用/哈希槽/配置集群/故障转移`
+    - [Redis分布式锁造成的重大事故](https://mp.weixin.qq.com/s/uxYGPV012Lz7eWVSZJ2ggQ)
     - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]  
         `Redis区别map/guava本地缓存/持久化机制/内存淘汰策略/事务/线程模型`
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)  
@@ -488,6 +482,7 @@
 
 #### Bigdata
 + [spark](big-data/spark.md)
+    - [Spark调度系统](https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw)
     - [Spark中编写可伸缩代码](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
     - [Spark Shuffle](https://mp.weixin.qq.com/s/VdwOwmxmOpQC3NIaxqqbmw)
     - [图计算框架Plato vs Spark GraphX](https://mp.weixin.qq.com/s/J6GB3RMXY-tyOxEUii6fcw)
@@ -508,6 +503,7 @@
     - [MQ与RabbitMQ面试题](https://mp.weixin.qq.com/s/Lz4NEChB_Twlva5V8BKyvg)
 + ElasticSearch
     - [简单教程](https://mp.weixin.qq.com/s/3Ww4ufcLdzL3zXE7j_0Jnw)
+    - [图解ElasticSearch原理](https://mp.weixin.qq.com/s/8NIwVKs1AFq5qPKOowfJAg)
     - [安装Elasticsearch和Kibana](https://mp.weixin.qq.com/s/K3IT0NGODEZwzvHlIREDfg)
     - [ElasticSearch实现日均5亿查询量的京东订单中心](https://mp.weixin.qq.com/s/9QgQRYMdBeBiBtIYiGD7yA)
     - [Clickhouse替代ES](https://mp.weixin.qq.com/s/fzgrs8_dOpv2bB4oQHli5A)  
@@ -591,6 +587,7 @@ monitor in:description language:python
 + [maven](java/mvn.md)
     - [basic](https://github.com/eugenp/tutorials/tree/master/maven-all/maven)
 + [javadoc.io](https://javadoc.io/)
+    - [接口文档自动化Swagger-Bootstrap-UI](https://mp.weixin.qq.com/s/OTNP0fNwZxagpwi4axjOqQ)
 + [protobuf](#protobuf)
 + [jmeter](java/jmeter.md)
 + [spring](#spring)
@@ -638,6 +635,7 @@ monitor in:description language:python
     - [Java9转身微服务](https://mp.weixin.qq.com/s/NJ-UoD5XgMz97KtnLoA6yw)
 + [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
     - [内存分配和垃圾回收](https://mp.weixin.qq.com/s/334SLntT6yVqRC1IrSaIbA)
+    - [Hotspot VM中CMS+ParNew GC问题分析与解决](https://mp.weixin.qq.com/s/RFwXYdzeRkTG5uaebVoLQw)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
     - [JVM面试问题](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
 

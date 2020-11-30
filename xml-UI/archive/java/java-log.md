@@ -6,6 +6,7 @@
 + [关闭所有log输出](#close-all-log-output)
 + [过滤log输出](#filter-output)
 + [配置 slf4j(Simple Logging Facade)](#config-slf4j)
++ [Log4j2高性能日志工具](https://mp.weixin.qq.com/s/ktSqp1LiLLrJsyyD6JyD0g)
 
 ### config log manually
 常常使用一些第三方库的时候，无法配置Logger。但又需要依赖日志来跟踪程序，此时可以通过reflect方式来实现

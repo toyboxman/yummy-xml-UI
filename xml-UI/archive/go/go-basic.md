@@ -16,6 +16,15 @@
         - [Defer/Panic/Recover](#deferpanicrecover)
 - [Go CLI](#go-cli)
   - [gosec检查代码中的安全问题](https://mp.weixin.qq.com/s/5qotdK-cDzXdew9o7PF8QA)
+- [Go第一要素函数](https://mp.weixin.qq.com/s/96Df9YGykE6daDREli9W1A)
+- [Golang编译器原理](https://mp.weixin.qq.com/s/uparU_6pApv8aPlVPeX_Tg)
+- [OAuth简单实现](https://mp.weixin.qq.com/s/aPvIxho_eOguYqlcV8cYRw)
+- [Go实现负载均衡服务](https://mp.weixin.qq.com/s/DxE3YOE1GDq6ZXRhpzfC0w)
+- [Go并发编程](https://mp.weixin.qq.com/s/5YaZr3ljv4INIOQprqKZyw)
+  - [Concurrency和Parallelism in Go](https://mp.weixin.qq.com/s/ihJFa5Wir4ohhZUXVSBvMQ)
+- [Go内联优化](https://mp.weixin.qq.com/s/hqivL8F6NyCow_oXn-BDvQ)
+- [禁止类型比较让Go二进制文件变小](https://mp.weixin.qq.com/s/d1MbzlXp83c_MARpyojXdw)
+- [Go的不足](https://mp.weixin.qq.com/s/UP_Rf-x1HekU-nl7BneVyg)
 ***
 
 ## Basic Language Concepts

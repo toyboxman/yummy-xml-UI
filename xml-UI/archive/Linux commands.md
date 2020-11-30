@@ -34,6 +34,9 @@
         - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
         - [阻止对Web应用程序的DoS攻击](https://mp.weixin.qq.com/s/-gdjcwv8gnolYwVGyF8mGQ)
         - [Glances多功能系统监控工具](https://mp.weixin.qq.com/s/R4mHOERnPhKCkCffaXFAyQ)
+          - [Linux网络监控工具](https://mp.weixin.qq.com/s/weJ2qHIq1WTXLKFsvjgFug)
+          - [运维必备的40个命令/常用正则表达式](https://mp.weixin.qq.com/s/h9XTwZZ5B_AaDagNwmaSRw)  
+            `匹配中文字符/网址URL/ip地址...`
     - Account Management
         - [Activate Account](#activate-account)
         - [List All Users](#list-all-users) 
@@ -143,7 +146,7 @@
     - [Tar](#tar)
     - [Vim](#vim)
     - [Zgrep](#search-gz)
-    - [Zcat/cat/tac/nl](#zcat)
+    - [Zcat/cat/tac/nl/split](#zcat)
 - [Text Operation](#txt-operation)
     - [Awk](#awk)
     - [Cut](#cut)
@@ -1224,8 +1227,10 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 ```
 
 #### zcat
-zcat用来读取压缩文件内容
++ [split拆分与cat合并文件](https://mp.weixin.qq.com/s/TeEfxB14Zg0tvv2HScp3Ng)  
+
 ```console
+# zcat用来读取压缩文件内容
 # show file content by page
 zcat syslog.1.gz | less
 ```
@@ -2610,6 +2615,7 @@ cat /proc/net/arp
 #### tcpdump
 + [Tcpdump Http Tutorial](https://danielmiessler.com/study/tcpdump/#examples)
 + [Tcpdump Http Examples](https://hackertarget.com/tcpdump-examples/)
++ [tcpdump查看原始数据包](https://mp.weixin.qq.com/s/tzSiZ7u6k9SNVvC-epw92w)
 ```console
 # show all interfaces
 $ tcpdump -D  
