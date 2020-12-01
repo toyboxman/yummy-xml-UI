@@ -456,6 +456,10 @@
 + [Oracle](db/oracle.md)
 + [Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)  
     `数据类型/数据结构/使用场景/数据淘汰策略/持久化/事件`
+    - [缓存的重要概念](https://mp.weixin.qq.com/s/S8CssuM02CpExsxXFsF0tw)  
+        `1.本地缓存(HashMap/Ehcache/Guava Cache/Spring Cache/Caffeine)`<br>
+        `2.分布式缓存(Redis/Memcached)`<br>
+        `3.缓存读写模式/更新策略(Cache Aside Pattern旁路缓存, Read/Write Through Pattern读写穿透, Write Behind Pattern异步缓存写入)`
     - [Redis的8大数据类型](https://mp.weixin.qq.com/s/lbNX--yALXapjsP1NusTIQ)
     - [Redis复制原理](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)  
         `Redis架构/主从复制/数据初始化/中断后同步/增量复制/数据一致性验证/完整性同步/部分同步`
@@ -464,7 +468,7 @@
     - [Redis分片机制](https://mp.weixin.qq.com/s/1f7lpmXYcaOCH7gR2DhPFw)  
         `一致性hash算法/平衡性/单调性/分散性`
     - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)  
-        `Cache Aside Pattern`
+        `Cache Aside Pattern(旁路缓存模式)`
     - [Redis常见延迟问题定位与分析](https://mp.weixin.qq.com/s/L3LVxbtZAUSPUqLVG7D9pw)  
         `Redis慢日志/扫描大key/集中过期/实例内存上限/fork耗时/绑定CPU/开启AOF/使用Swap/网卡负载`
     - [Redis字符串是如何实现](https://mp.weixin.qq.com/s/4JfGREmkElvSIY-sBRmMZQ)  
@@ -472,8 +476,8 @@
     - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)  
         `集群作用/哈希槽/配置集群/故障转移`
     - [Redis分布式锁造成的重大事故](https://mp.weixin.qq.com/s/uxYGPV012Lz7eWVSZJ2ggQ)
-    - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ)]  
-        `Redis区别map/guava本地缓存/持久化机制/内存淘汰策略/事务/线程模型`
+    - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ), [3](https://mp.weixin.qq.com/s/TBGPv6NXJZu4PfGfT5OfWQ)]  
+        `Redis区别map/guava本地缓存/持久化机制/内存淘汰策略/事务/线程模型/布隆过滤器/缓存雪崩/缓存穿透`
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)  
     `手机上可能都存在几十个SQLite，微信客户端所有的聊天记录，就都存储在 SQLite 数据库中`
 + [MongoDB基本操作](https://mp.weixin.qq.com/s/5iELiClx17sXLKk_BRdy0w)  
