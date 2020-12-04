@@ -60,6 +60,9 @@ git config --global user.email "Gene@genesis.org"
 # remove global config
 git config --global --unset-all user.name
 
+# 如果仓库密码发生改变导致push等操作认证失败，需要重置一下当前密码
+git config --unset user.password
+
 # mac系统默认配置 credential.helper=osxkeychain 
 # 所有本地仓库都会使用同一个用户名和密码，每次git push不用输入密码
 # 想使用不同账户 git push，需要删除系统默认的印信认证方式

@@ -254,13 +254,15 @@ Usage: spark-submit --kill [submission ID] --master [spark://...]
 Usage: spark-submit --status [submission ID] --master [spark://...]
 Usage: spark-submit run-example [options] example-class [example args]
 Options:
-  --master MASTER_URL         spark://host:port, mesos://host:port, yarn,
-                              k8s://https://host:port, or local (Default: local[*]).
-  --deploy-mode DEPLOY_MODE   Whether to launch the driver program locally ("client") or
-                              on one of the worker machines inside the cluster ("cluster")
-                              (Default: client).
+  --class: The entry point for your application (e.g. org.apache.spark.examples.SparkPi)
+  
+  --master MASTER_URL  spark://host:port, mesos://host:port, yarn, k8s://https://host:port, or local (Default: local[*]).
+  
+  --deploy-mode DEPLOY_MODE   Whether to launch the driver program locally ("client") or on one of the worker machines inside the cluster ("cluster") (Default: client).
 
-# 提交python PI计算的任务1000次到local计算
+  -v 输出详细执行信息，对定位错误有帮助
+
+# 提交python PI计算的任务1000次到local计算,即在本地进行计算
 spark/bin/spark-submit \
 --master local \
 spark/examples/src/main/python/pi.py 1000
@@ -268,7 +270,7 @@ spark/examples/src/main/python/pi.py 1000
 20/04/12 14:14:02 INFO DAGScheduler: Job 0 finished: reduce at /spark/examples/src/main/python/pi.py:44, took 141.028314 s
 Pi is roughly 3.141309
 
-# 提交python PI计算的任务200次到spark cluster计算
+# 提交python PI计算的任务200次到spark cluster计算,即在多个节点分布计算
 # 这个和上面local区别在提交任务后可以通过 master/worker node URL(http://<宿主机>:8080/) 查看job执行信息如日志等
 spark/bin/spark-submit \
 --master spark://10.184.108.18:7077 \

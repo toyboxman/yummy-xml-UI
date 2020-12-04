@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aspectj PUBLIC "-//AspectJ//DTD//EN" "http://www.eclipse.org/aspectj/dtd/aspectj.dtd">
+<aspectj>
+    <weaver options="-verbose -showWeaveInfo">
+        <!-- only weave classes in your application-specific packages -->
+        <include within="king.law.beans.*" />
+    </weaver>
+    <aspects>
+        <!-- weave in just these aspects -->
+        <aspect name="king.law.aspectj.aop.loadtime.EmployeeCRUDAspectJLoadTime"/>
+    </aspects>
+</aspectj>
