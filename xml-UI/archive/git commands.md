@@ -379,10 +379,10 @@ git rebase --continue
 ##################################									
 # 拆分提交基本步骤
 ##################################
-# 步骤跟修改一致，区别就是多一个软回退reset操作
+# 步骤跟修改一致，唯一区别就是多做一个软回退reset操作
 git rebase -i @~9 
 # 修改commit状态 pick -> edit，保存退出
-# 回退当前commit
+# 回退当前commit中所有文件修改
 git reset @~1
 # 然后重新选择组织文件提交
 git add; git commit
@@ -642,11 +642,18 @@ git format-patch -1 HEAD
 # 给dev分支最新的一个提交(head -1)打出补丁
 git format-patch -1 dev  
 
-# 给当前分支从f5f8ff546b3开始到HEAD所有提交打出补丁
+# 给当前分支从f5f8ff546b3开始到HEAD之间所有提交打出补丁
 git format-patch f5f8ff546b3  
+# 给当前分支从f5f8ff546b3开始到HEAD-2之间所有提交打出补丁
+git format-patch f5f8ff546b3..@~2
 
-# 给当前分支f5f8ff546b3提交打出补丁
+# 给当前分支中 f5f8ff546b3提交打出补丁
 git format-patch -1 f5f8ff546b3  
+
+# 把当前分支最新两个提交打成一个补丁
+# 默认前面几个命令会按一个提交一个补丁方式产生00001/2/3...-xxx.patch
+# --stdout会将多个补丁合并起来，但不改变提交顺序，git am my.patch之后产生多个提交记录
+git format-patch -2 --stdout > my.patch
 ```
 
 ### git apply-patch

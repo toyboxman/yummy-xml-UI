@@ -116,7 +116,9 @@
         - [计算机网络基础知识](https://mp.weixin.qq.com/s/s_EeCQn6U57QpVXEqf_TjA)
         - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
         - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
+        - [高性能网络架构](https://mp.weixin.qq.com/s/FnP_IARgpDcpefqEx931Lw)
         - [Linux服务端最大并发数是多少](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
+            - [一台Linux服务器最多能支撑多少个TCP连接](https://mp.weixin.qq.com/s/u_n3OloVxvXFmEPO_g1Lrw)
     - [Linux阅码场](https://mp.weixin.qq.com/s/bgNYCf25LfQer1j_5r7_hg)
     - [Linux系统调用详解](https://mp.weixin.qq.com/s/Guny-z3QAqHF6xxeqgH5LA)
     - [spinlock/rwlock/seqlock原理剖析](https://mp.weixin.qq.com/s/jOJL-7TSlgrX4f-1T_5Wvw)
@@ -206,6 +208,8 @@
         - [搭建一个node的API接口服务](https://mp.weixin.qq.com/s/M7AOLgu-hTspie-B49o0Tg)
         - [NodeJS进程与线程](https://mp.weixin.qq.com/s/N6Omr5HwSPl6JjE2ultoVg)
     - [Django编写Python Web API](https://mp.weixin.qq.com/s/XLBr2paFOlAtrij-VcFeFA)
+    - [FileSaver.js客户端保存文件](https://mp.weixin.qq.com/s/EcoCQuSHluHyG0afb7-T1Q)  
+        `客户端上生成文件的Web应用程序`
     - [字体库加密数据反爬虫](https://mp.weixin.qq.com/s/mqWKKh7-U15hm3zNEECl2w)
     - [H5移动端开发-弹出键盘/系统调用](https://mp.weixin.qq.com/s/VmtMDQfroq-RtIJ_h4p5yg)
     - [前端缓存serviceworker概念](https://mp.weixin.qq.com/s/9fmflZirWd7zGt-4-MzsvQ)
@@ -317,6 +321,7 @@
     - [分布式系统原理](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg)
     - [B2C电商支付中心产品架构](https://mp.weixin.qq.com/s/ZfSu2M0WLKvELY7GuvlRaQ)  
         `收单系统/清结算系统/账户系统/对账系统/支付安全`
+        - [支付宝LDC架构和其CAP分析](https://mp.weixin.qq.com/s/i6oIav1Rs2LGvRIyRTAA6Q)
     - [农行分布式架构](https://mp.weixin.qq.com/s/jVrMyGUBythuCaMFPp1XcA)  
         `集中式/分布式优缺点分析, 联机事务处理(OLTP)和联机分析处理(OLAP)实践`
 	- [基于JAVA后端基础架构实践](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)  
@@ -325,6 +330,7 @@
         `文件系统的要求/架构模型(GFS/CEPH)/持久化/伸缩性/高可用性/性能优化和缓存一致性/安全性(DAC/MAC/RBAC)`
     - 分布式锁解读[[1](https://mp.weixin.qq.com/s/jGw7gqV9OhG0eUbWiPfyyQ),[2](https://mp.weixin.qq.com/s/2Jpy5qE_7ABILd9wcJ7q3Q),[3](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg),[4](https://mp.weixin.qq.com/s/DtLdmLhGO4wJxIaOWgrXQg)]  
         `Redis/Zookeeper/DB作分布式锁`
+        - [接口幂等性实现与分布式锁](https://mp.weixin.qq.com/s/pBO-qdzDIuLmxM9bWKSOgg)
 	- [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)  
         `负载均衡算法/转发实现/集群下的Session管理`
     - [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
@@ -332,6 +338,7 @@
 + 高并发系统
     - [高并发系统的设计](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)  
         `秒杀业务设计要素`
+    - [高性能高并发技术对CPU,内存,I/O要求](https://mp.weixin.qq.com/s/P-mPAWxScFAThoNF3M2y3A)
     - [高并发服务限流实践](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)  
         `Guava的RateLimiter提供了令牌桶算法实现：平滑突发限流(SmoothBursty)和平滑预热限流(SmoothWarmingUp)`
     - [秒杀架构](https://mp.weixin.qq.com/s/b04s_56kjNANN37LmxK6pw)  
@@ -421,6 +428,7 @@
         `LIMIT子句/子查询优化/id限定优化/临时表优化`
         - [别再用OFFSET+LIMIT分页](https://mp.weixin.qq.com/s/XCSvDx90ml3uDkwBah8XsQ)
         - [MyBatis千万数据表快速分页](https://mp.weixin.qq.com/s/6LVORrQC_5NijxwUNheKeg)
+        - [查询优化原理分析--从17s到300ms](https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA)
     - [有序索引](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)  
         `1.有序索引-->通常是B树/哈希表-->Go中map,Python中dict,Java中HashMap`<br>
         `2.内存中存储数据时，哈希表的效率很高，而B树的设计旨在以块的形式访问较慢的存储`
@@ -485,6 +493,7 @@
     `配置文件/服务启停/基本操作/`
 
 #### Bigdata
++ [如何搭建一个大数据平台](https://mp.weixin.qq.com/s/GNYg4U1VWVYXAo5efcn5Lg)
 + [spark](big-data/spark.md)
     - [Spark调度系统](https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw)
     - [Spark中编写可伸缩代码](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
@@ -612,7 +621,6 @@ monitor in:description language:python
     - [Decompile](java/java-decompile.md)
     - [Type-convert](java/java-convert.md)
     - [Annotation](java/java-annotation.md)
-        - annotation custom[[***1***](https://www.baeldung.com/java-custom-annotation), [***2***](https://www.javatpoint.com/java-annotation)]
     - [zk-election](java/ZK-leader_election.md)
     - [JPDA](java/JDI_JDWP_JPDA.md)
     - [Lambda](https://mp.weixin.qq.com/s/ZtjO30iZpX8qYDO938l7Mg)
@@ -813,7 +821,9 @@ done
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
 + [晚唐十大诗人](https://mp.weixin.qq.com/s/d9Uw_bjAZhIutSA__IMTAA)
+    - [长相思，在长安](https://mp.weixin.qq.com/s/CsaPd7yRoky6yWMrySSjsw)
 + [苏轼最智慧的20首诗词](https://mp.weixin.qq.com/s/sAkqckFXhSMXCLRx-kdynA)
+    - [酒力渐浓春思荡-柳永](https://mp.weixin.qq.com/s/OBZJD610g4S4IKxcHvyKtw)
 + [诗经简史](https://mp.weixin.qq.com/s/GBMJ4KabwcNtuanbVaMwIQ)
 + [楚辞](https://mp.weixin.qq.com/s/tc3Rlv0sF0IUOqyQZ7H0wg)
 + [古文十篇](https://mp.weixin.qq.com/s/rNLuL0DmyWDVi2bsxnH8Hw)

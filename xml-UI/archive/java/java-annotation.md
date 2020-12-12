@@ -1,6 +1,8 @@
 ***
 
-## usual annotation
+## Usual annotation
+- annotation custom[[***1***](https://www.baeldung.com/java-custom-annotation), [***2***](https://www.javatpoint.com/java-annotation)]
+- [annotationÇý¶¯±à³Ì](https://mp.weixin.qq.com/s/MyOm8-9ScO3bXJFgyr69Qw)
 
 ### javax.annotation.concurrent.ThreadSafe
 Does this annotation actually make the class Thread Safe or is it just for readability
