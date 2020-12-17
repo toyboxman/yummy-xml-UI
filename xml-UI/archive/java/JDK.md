@@ -312,7 +312,7 @@ curl -O https://alibaba.github.io/arthas/arthas-boot.jar
 # 启动进程
 java -jar arthas-boot.jar
 
-# 如果目标jvm是jre启动，需要找一个对于jdk版本
+# 如果目标jvm是jre启动，需要找一个对应的jdk版本
 cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
 # 如果目标jre lib中缺少tools.jar，需要从jdk中复制一份
 cp /usr/java/jdk1.8.0_251/lib/tools.jar /usr/java/jre1.8.0_251/lib
@@ -324,9 +324,55 @@ mv arthas-boot.jar /opt/app/proton-tomcat
 # 用proton用户权限启动进程，attach到 jvm 3331进程
 sudo -u proton /usr/java/jdk1.8.0_251/bin/java -jar /opt/app/proton-tomcat/arthas-boot.jar 3331
 ```
-当search loaded class时候，常常碰到class找不到,确认jar文件已经放在classpath. 
+##### search class  
+当search loaded class时候，常常碰到class找不到,确认jar文件已经放在classpath. 如果jar已经在-cp指定目录中，但仍然搜寻不到相关类如下
 ```console
 [arthas@27705]$ sc *MyContext
 Affect(row-cnt:0) cost in 2319 ms.
 ```
-这种情况一般是由于目标class未被其他class调用到，因此jvm中没有加载，只要触发调用后就可以search到。
+这种情况是由于目标class尚未被jvm加载，一般是由于目标类未被其他class直接调用，导致jvm没有加载，解决方式只要触发一次调用就可以search到。
+##### search method
+搜寻class相关method可以如下操作
+```console
+[arthas@17977]$ sm example.messaging.RpcServices
+example.messaging.RpcServices <init>()V
+example.messaging.RpcServices getServices()Ljava/util/Map;
+example.messaging.RpcServices getStubType(Ljava/lang/String;)Ljava/lang/Class;
+example.messaging.RpcServices setRpcEnabled(Z)V
+example.messaging.RpcServices getServiceEndpoint(Ljava/lang/String;)Ljava/lang/String;
+Affect(row-cnt:14) cost in 339 ms.
+```
+##### watch
+确定method后就可以watch操作
+```console
+[arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint
+Affect(class count: 1 , method count: 1) cost in 481 ms, listenerId: 1
+ts=2020-12-16 13:30:41; [cost=1.273833ms] result=@ArrayList[
+    # 第一项返回是方法输入参数的array， size=1表示只有一个参数
+    @Object[][isEmpty=false;size=1],
+    # 第二项返回是方法所属的class instance
+    @NsxRpcServices[example.messaging.RpcServices@46ba4da8],
+    # 第三项返回是方法返回值
+    null,
+]
+
+# 如果想看到更多细节，如参数细节等，可以通过 -x 2 设定往内看两层
+# OGNL表达式 "{params,target,returnObj}" 设定result包含参数/类实例/返回值数据, 这是默认的返回数据格式
+# 设定 "{params,returnObj}" result只返回 参数和返回值
+[arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params,target,returnObj}" -x 2
+Press Q or Ctrl+C to abort.
+Affect(class count: 1 , method count: 1) cost in 421 ms, listenerId: 2
+ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
+    @Object[][
+        # 第一项第二层表示参数类型是string，值 “Traceflow”
+        @String[Traceflow],
+    ],
+    @NsxRpcServices[
+        # 第二项第二层表示RpcServices实例的fields的值
+        logger=@Logger[example.logging.Logger@19340508],
+        services=@ConcurrentHashMap[isEmpty=true;size=0],
+        rpcEnabled=@Boolean[true],
+    ],
+    null,
+]
+```
