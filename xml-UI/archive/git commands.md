@@ -382,11 +382,28 @@ git rebase --continue
 # 步骤跟修改一致，唯一区别就是多做一个软回退reset操作
 git rebase -i @~9 
 # 修改commit状态 pick -> edit，保存退出
-# 回退当前commit中所有文件修改
+# 回退当前commit中所有文件修改至前一个提交时的状态
 git reset @~1
-# 然后重新选择组织文件提交
+# 然后重新选择并组织文件提交
 git add; git commit
 git rebase --continue 
+# 上述的这种拆分会改变旧的commit的hash ID，如果想保持旧的commit hash ID，可以只拆分部分文件
+# 将当前commit中新增文件 file_created.java 回退到前一个commit的状态
+git reset @~1 -- file_created.java
+# 回退操作产生一个delete新增文件的状态
+git status
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    file_created.java
+# 修改当前commit，去除掉新增文件
+git commit --amend
+git status
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	file_created.java	
+# 将 file_created.java 提交，这样旧commit可以保留，拆分文件提交到新commit
+git add file_created.java
+git commit
 
 ##################################									
 # 合并多个提交基本步骤
@@ -419,13 +436,13 @@ Change my name a bit
 
 ### git reset revert
 ```console
-# 二者最大区别在于, 如果commit没有push, 那么就可以在本地丢弃, 用reset即可
-# 如果已经push到remote的仓库, 那么就用revert, 它会产生新的commit去undo已存在提交
+# reset和revert区别在于, 如果commit没有push到repo, 那么用reset即可在本地丢弃
+# 如果已经push到remote的仓库, 那么就需要用revert, 产生一个新的commit去undo已存在提交
 
-# 从HEAD回退到指定提交位置, 未提交的任何本地修改都会丢弃
+# 从HEAD回退到指定提交位置, 未push的任何本地commit都会丢弃
 git reset --hard 0d1d7fc32
 
-# 回退到分支HEAD提交点
+# 回退到分支HEAD提交点,未保存的修改也会丢弃
 git reset --hard HEAD
 
 # 先临时保存未提交的本地变更, 然后回退到提交点, 再将临时保存修改应用到新基点
@@ -436,8 +453,8 @@ git stash push <file>
 git stash clear
 git stash show
 
-# 通过软复位也可以达到上一命令相同效果  
-# hard/soft两种方式区别就在于是否保留未提交更改，默认不指定hard就都是soft模式
+# hard/soft两种方式区别就在于回退操作后是否保留所有回退commit中修改的文件
+# --hard会清除回退的所有修改文件，--soft会将修改文件置为untracked 默认不指定hard就都是soft模式
 # 如果想把本地一个提交中某些文件删除，可以先soft reset，然后再重新选择提交
 git reset --soft 0d1d7fc32
 
