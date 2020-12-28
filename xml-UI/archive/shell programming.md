@@ -18,7 +18,7 @@
 - [LOOP](#loop-控制流)
 - [Logical](#logical-条件)
 - [Examples](#shell-example)
-	+ 如何编写可靠bash脚本[[1](https://mp.weixin.qq.com/s/rXYHpElNJiHF-O-i5wdE-Q), [2](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg)]
+	+ 如何编写bash脚本[[1](https://mp.weixin.qq.com/s/rXYHpElNJiHF-O-i5wdE-Q), [2](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg), [3](https://mp.weixin.qq.com/s/d6FmL-FGEaji0OzyOYFFRA), [4](https://mp.weixin.qq.com/s/6f5cowUSJC7hM9uy2hRUJw)]
 	+ [Shell Built-in Commands](https://mp.weixin.qq.com/s/8E7Q3GEHPpD5wklYPYFOew)
     + [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
     + [汇总日志](#exp1)

@@ -32,6 +32,7 @@
           + [Logrotate手动滚动日志](hhttps://mp.weixin.qq.com/s/unosQoE_QQdxOTgJaHUexg)
         - [Lynis扫描Linux安全性](https://mp.weixin.qq.com/s/z2FTwkul7pfEu3sWJgzVvw)
         - 排查机器入侵[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
+          - [入侵痕迹清理](https://mp.weixin.qq.com/s/5EJddxJIL42ykegfUAqQ8A)
         - [阻止对Web应用程序的DoS攻击](https://mp.weixin.qq.com/s/-gdjcwv8gnolYwVGyF8mGQ)
         - [Glances多功能系统监控工具](https://mp.weixin.qq.com/s/R4mHOERnPhKCkCffaXFAyQ)
           - [Linux网络监控工具](https://mp.weixin.qq.com/s/weJ2qHIq1WTXLKFsvjgFug)
@@ -101,12 +102,6 @@
         - [Nethogs/IOZone/IOTop/IPtraf/IFTop/HTop/NMON/MultiTail/Fail2ban/Tmux/Agedu/NMap/Httperf](https://mp.weixin.qq.com/s/x7wanQOitsOywBb9TP3zoQ)
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
-        - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
-        - [DNS访问原理](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg)
-        - [负载均衡三种模型(NAT/DR/TUN)](https://mp.weixin.qq.com/s/d74E2iF2RCJERmc_Fy4wFg)
-        - [IPv6难以取代IPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
-        - [TCP疑难杂症](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
-        - [虚拟网络](https://mp.weixin.qq.com/s/ihVGXk4-ZTgEozFMq7M7rg)
         - [nmcli管理网络连接](https://mp.weixin.qq.com/s/rsc0zeWYwFRlIIvPnJ5tzA)
 - [Usual Command](#usual-command)
     - [Alias](https://mp.weixin.qq.com/s/wTokA2r-kxIMePmuVE98HA)
@@ -763,7 +758,7 @@ usermod -G root,test  test
 ### Usual command
 #### env
 env, printenv用来查看当前的bash环境变量
-+ [config环境变量](https://mp.weixin.qq.com/s/mSgsrZrQX8lmO0vc1dYrlA)
++ 环境变量配置全攻略[[1](https://mp.weixin.qq.com/s/mSgsrZrQX8lmO0vc1dYrlA), [2](https://mp.weixin.qq.com/s/W1bph3PRFroZFeHRqGDdmA)]
 + [source命令将函数和变量导入Bash](https://mp.weixin.qq.com/s/yZl0Q401ouLlWdII4HAd4w)
 ```console
 env | more
@@ -2331,13 +2326,16 @@ cat typescript
 ```
 
 #### tee
++ [将终端中命令的输出保存到文件中](https://mp.weixin.qq.com/s/3rwzyuA8R327wOvNax74Eg)   
+
+从标准输入中读取内容然后写入到标准输出和文件中,与重定向符类似
 ```console
-# read from standard input and write to standard output and files
-echo 123 | tee a.log
-cat a.log
+$ echo 123 | tee a.log
+$ cat a.log
 123
-echo 456 | tee -a a.log
-cat a.log
+
+$ echo 456 | tee -a a.log
+$ cat a.log
 123
 456
 ```

@@ -6,6 +6,7 @@
 + [关闭所有log输出](#close-all-log-output)
 + [过滤log输出](#filter-output)
 + [配置 slf4j(Simple Logging Facade)](#config-slf4j)
++ [Java日志体系](https://mp.weixin.qq.com/s/b7onHI1vVsLoRF4UIpLlhQ)
 + [Log4j2高性能日志工具](https://mp.weixin.qq.com/s/ktSqp1LiLLrJsyyD6JyD0g)
 
 ### config log manually

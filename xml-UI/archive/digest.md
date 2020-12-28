@@ -39,7 +39,7 @@
 + [Commands](Linux%20commands.md)
     - [Shell Programming](shell%20programming.md)
     - [Linux问题故障定位](https://mp.weixin.qq.com/s/K2iByKPVJZZ4UfZhUwisiQ)  
-        `CPU/MEM/DISK/网络/系统负载/火焰图分析工具/`
+        `CPU/MEM/DISK/网络/系统负载/火焰图分析工具`
     - [Linux100问](https://mp.weixin.qq.com/s/Y7_zYt2JoxhjTQhTCLBJOA)  
         `操作命令问题`
     - [系统管理员24问](https://mp.weixin.qq.com/s/T3RU8YkF-o4XY27WEjKsMA)  
@@ -64,6 +64,7 @@
 	- [Photoshop开源替代品](https://mp.weixin.qq.com/s/eoYGUqq-4wNQzxKUjdSWdQ)  
         `GIMP/Krita/Darktable/Inkscape`
         - [GIMP制作GIF](https://mp.weixin.qq.com/s/WRybaajEUGyD1UuuyGBgaQ)
+        - [ImageMagick的display命令从终端查看图像](https://mp.weixin.qq.com/s/o1rjz5K4D4BGrHpGheB_Vw)
     - [QEMU模拟开发板](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)  
     - Ansible
         - [使用Ansible安装软件](https://mp.weixin.qq.com/s/VLSUyGTkYpRzMwBxoFMZCw)
@@ -85,6 +86,7 @@
         - [编译原理](https://mp.weixin.qq.com/s/4KvNaO15-bdrp8rkkCUQuw)
         - [IO基本概念](https://mp.weixin.qq.com/s/yrLGQMEdkVgmk8WgV-mTXw)  
             `块特殊文件/字符特殊文件/网络`
+        - [BIOS引导计算机的启动过程](https://mp.weixin.qq.com/s/gVBb25EYL42VHZT-gGerWA)
     - 文件系统
         - [文件系统概要](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
         - Linux文件系统[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q), [3](https://mp.weixin.qq.com/s/yDpJc9WMAZX0jnceouy3GA)]
@@ -101,24 +103,36 @@
                 `越靠近CPU核心的缓存其访问速度越快，CPU访问 L1 Cache需要2~4个时钟周期，L2 Cache需要10~20个时钟周期，L3 Cache需要20~60个时钟周期，而访问内存速度大概在200~300个时钟周期`
         - Linux进程总结[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
         - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
+            - [进程/线程切换开销](https://mp.weixin.qq.com/s/zZbk9p-0HyICiFGDBaaRTw)
         - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
         - 进程间通信-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
         - [内存知识总结](https://mp.weixin.qq.com/s/IdqCXR4BrqjE0CFNEPKXrQ)
         - [虚拟内存](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
+        - [内存Swap/Cache/Buffer](https://mp.weixin.qq.com/s/23SETiyjJzVoW5NBuznwyQ)
+            - [为什么Linux需要Swapping](https://mp.weixin.qq.com/s/bgCRvenn6OcYXobzXtEwgQ)
+            - [手动释放swap和buffer和cache](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg)
         - [Linux正在吃掉内存](https://mp.weixin.qq.com/s/rEUptpiQi9U4FifQa4KyuQ)
         - [Linux Used内存详解](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
         - [零拷贝技术](https://mp.weixin.qq.com/s/6RvOcduVpWTEwvulBMWiqQ)
         - [Linux默认页大小是4KB](https://mp.weixin.qq.com/s/_xC98At-9y9wNEv1o4G7gg)
-        - [为什么Linux需要Swapping](https://mp.weixin.qq.com/s/bgCRvenn6OcYXobzXtEwgQ)
-            - [手动释放swap和buffer和cache](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg)
     - 网络系统
         - [计算机网络基础知识](https://mp.weixin.qq.com/s/s_EeCQn6U57QpVXEqf_TjA)
-        - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
-        - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
+            - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
+            - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
+            - [vlan/三层交换机/网关/DNS/子网掩码/MAC](https://mp.weixin.qq.com/s/73u2kO43gGp0BCHncQO0ng)
         - [高性能网络架构](https://mp.weixin.qq.com/s/FnP_IARgpDcpefqEx931Lw)
+        - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
+        - [Socks5 代理协议详解](https://mp.weixin.qq.com/s/Zc6QxCSt2yEuz1LoNj033Q)
+        - DNS原理[[1](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg), [2](https://mp.weixin.qq.com/s/U6Jk54eix-VjWTUOlAZP3A)]
+        - [负载均衡三种模型(NAT/DR/TUN)](https://mp.weixin.qq.com/s/d74E2iF2RCJERmc_Fy4wFg)
+        - [IPv6难以取代IPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
+        - [TCP疑难杂症](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
+        - [虚拟网络](https://mp.weixin.qq.com/s/ihVGXk4-ZTgEozFMq7M7rg)
         - [Linux服务端最大并发数是多少](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
             - [一台Linux服务器最多能支撑多少个TCP连接](https://mp.weixin.qq.com/s/u_n3OloVxvXFmEPO_g1Lrw)
+    - [计算型存储](https://mp.weixin.qq.com/s/O8nR5bIPbMZO-UmBL7FrpA)  
+        `onload/offload/smartnic`
     - [Linux阅码场](https://mp.weixin.qq.com/s/bgNYCf25LfQer1j_5r7_hg)
     - [Linux系统调用详解](https://mp.weixin.qq.com/s/Guny-z3QAqHF6xxeqgH5LA)
     - [spinlock/rwlock/seqlock原理剖析](https://mp.weixin.qq.com/s/jOJL-7TSlgrX4f-1T_5Wvw)
@@ -186,6 +200,7 @@
             `令牌是加密字符串, 常由server端产生，通过login request的response回给client. client后续requests必须在Authorization header带上此token,
             与Basic authentication相似, Bearer authentication也应该仅仅用在HTTPS (SSL)之上. `
     - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
+    - [短URL服务的设计以及实现](https://mp.weixin.qq.com/s/fWhiNsJXf1CVSi-EpjEndg)
 + Nginx
     - [极简教程](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
     - [Nginx能做什么](https://mp.weixin.qq.com/s/OcdkQeP6HbWSYKZfhe03yw)  
@@ -252,6 +267,7 @@
     - [JS中过滤唯一/与或运算等](https://mp.weixin.qq.com/s/ir2y8RsZNrPQ2JJud1v08A)
     - [JS数组精简技巧](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
     - [JS实现异步任务](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
+        - [Fetch或Axios实现HTTP请求](https://mp.weixin.qq.com/s/oSVzYvwv4qIE2oBeAxjDlg)
     - [GoJS实现交互式图](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
     - [Voca/Cleave/Chart出色的JS库](https://mp.weixin.qq.com/s/R3MI_zOUf5xqXl8-9pfeDg)
     - [SVG基础总结](https://mp.weixin.qq.com/s/o6z2sixGw50_mUXAIT2BFg)
@@ -643,6 +659,7 @@ monitor in:description language:python
     + [并发编程](https://mp.weixin.qq.com/s/yhg5Kxd6AzR-kPpFAE-SdA)
     + [HashMap并发问题](https://mp.weixin.qq.com/s/8fjL-kLnJFOTbvgvqqWTwg)
 + [Java网络协议](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
++ Java虚拟机[[1](https://mp.weixin.qq.com/s/M5r-pUGwpv_SIs9UXKaapw), [2](https://mp.weixin.qq.com/s/R8dcr1b2dzx130yAek2ERA), [3](https://mp.weixin.qq.com/s/-5QyCAys-t1o15cb_S4EEw)]
 + [JavaSE演进新方向](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
     - [Java9转身微服务](https://mp.weixin.qq.com/s/NJ-UoD5XgMz97KtnLoA6yw)
 + [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
@@ -835,3 +852,4 @@ done
 + [经济增长与发展](https://mp.weixin.qq.com/s/BdWzVB0ZXtSTR42Xxoc5eQ)
 + [真正能扛事的人什么样](https://mp.weixin.qq.com/s/nHS3Z5PCjYFG9X2E4_cbxQ)
 + [乔姆斯基哲学主张](https://mp.weixin.qq.com/s/BArw5pOy5Wu0HMuY9nMyig)
++ [中国革命的八种史学名著](https://mp.weixin.qq.com/s/z-GHSqGcnEpwWwPRfuoBYw)
