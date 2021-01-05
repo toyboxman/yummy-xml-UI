@@ -848,28 +848,29 @@ dpkg-deb -x ./path/to/test.deb ./path/to/destination
 #### ssh
 + [SSH密钥管理工具](https://mp.weixin.qq.com/s/C6kLwO6LQvWzpHcEThg3TQ)
 ```console
-# Generating public/private rsa key pair
-ssh-keygen -t rsa
-# gather ssh public keys
-# 把指定host上公钥添加到本地
-ssh-keyscan github.com >> ~/.ssh/known_hosts
-# login remote host with password prompt
-ssh root@172.16.8.38
+# 获取ssh public keys，把指定host上公钥添加到本地
+# 存储github.com主机上公钥到本地
+$ ssh-keyscan github.com >> ~/.ssh/known_hosts
+
 # login with private key file
-ssh -i private.key root@172.16.8.38
-# 省略password输入步骤
-# 先用ssh-keygen产生秘钥对再ssh-copy-id安装remote server
+$ ssh -i private.key root@172.16.8.38
+
+# ssh登录免密
+# 1.先用ssh-keygen产生秘钥对, 生成public/private rsa key pair
+$ ssh-keygen -t rsa
+# 2.ssh-copy-id 安装公钥到remote server
+$ ssh-copy-id root@172.16.8.38
 # 后续ssh login就不用手动输入密码,包括scp操作也不用密码
-ssh-copy-id root@172.16.8.38
 
 # ssh远程执行命令
 # 查看远端机器目录列表 'ls -al /root'
-ssh root@172.16.8.38 ls -al
-# 通过跳板机(jumphost)远程执行命令
+$ ssh root@172.16.8.38 ls -al
+
+# 跳板机(jumphost)远程执行命令
 # 通过192.168.1.1 ->跳转到-> 192.168.1.2 执行grep命令
 # 1.空格会带来解析错误，因此远程命令最好都用双引号包括
 # 2.grep命令是第二跳远程命令，因此其双引号被包括在第一跳命令中，要用转义符\"处理
-ssh root@192.168.1.1 "ssh root@192.168.1.2 \"grep -in '#bms#' /var/log/proton/nsxapi.log\""
+$ ssh root@192.168.1.1 "ssh root@192.168.1.2 \"grep -in '#bms#' /var/log/proton/nsxapi.log\""
 
 # 指定remote host上给定的TCP port转发报文到指定本地host某个port
 # -R [bind_address:]port:host:hostport
@@ -877,7 +878,7 @@ ssh root@192.168.1.1 "ssh root@192.168.1.2 \"grep -in '#bms#' /var/log/proton/ns
 # 内部机器一些端口数据转发出来进行分析监控,例如 public -> jumphost -> private
 # 可以配置转发 private -> jumphost -> public
 # 将172.16.1.13上端口54321数据转发本机54321端口
-ssh -R 54321:localhost:54321 root@172.16.1.13
+$ ssh -R 54321:localhost:54321 root@172.16.1.13
 ```
 
 #### find

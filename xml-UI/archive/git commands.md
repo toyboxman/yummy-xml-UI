@@ -721,7 +721,7 @@ gitk file
 ---
 
 ### [git review](https://osm.etsi.org/wikipub/index.php/Using_git-review_to_push_and_review_changes)
-1. 安装支持git的reviewt专用软件 (http://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+1. 安装支持 review [专用软件](http://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
 2. 通过gerrit review的命令来操作, 或者通过git-review命令
 
