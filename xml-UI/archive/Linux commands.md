@@ -955,8 +955,15 @@ echo my cat is smart!
 my cat is smart!
 
 # 使用当前命令的指定参数 !#:number
-# 此命令执行 cp /opt/db/mysql/data/file /opt/db/mysql/data/file.bak
+# 用参数方式简化命令 cp /opt/db/mysql/data/file /opt/db/mysql/data/file.bak
 cp /opt/db/mysql/data/file !#:1.bak
+
+# 使用上一条命令的指定参数 !:number
+tar -cvf folder1 folder2 folder.tar
+# tar命令参数顺序错误执行失败
+tar: failed to open
+# 调整参数顺序 tar -cvf folder.tar folder1 folder2
+!:0 !:1 !:4 !:2 !:3
 
 # 使用上一条命令的最后一个参数 !$
 ls -al /opt/db/mysql
@@ -966,13 +973,6 @@ file !$
 # 使用上一条命令的最后一个参数并抹去最后一级/的部分 !$:h
 # 此命令执行 cd /opt/db
 cd !$:h
-
-# 使用上一条命令的指定参数 !:number
-tar -cvf folder1 folder2 folder.tar
-# tar命令参数顺序错误执行失败
-tar: failed to open
-# 调整参数顺序 tar -cvf folder.tar folder1 folder2
-!:0 !:1 !:4 !:2 !:3
 
 # 使用上一条命令的参数范围 !:number-$
 grep '(ping|pong)' file
