@@ -982,7 +982,7 @@ grep -n !:1-$
 ```
 
 #### cp
-用cp 命令可以用来[备份文件及文件夹](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614871&idx=3&sn=ecfdd00002757af5b360e5e025063d88)
++ [备份文件及文件夹](https://mp.weixin.qq.com/s/KmKBtEVXuLcM0IWd-FB3cg)
 ```console
 # -r copy directory, source folder is copied into ./source
 cp -rv /home/king/source ./
