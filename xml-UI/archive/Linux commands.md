@@ -11,6 +11,70 @@
 > [commands](https://github.com/jaywcjlove/linux-command#%E7%9B%AE%E5%BD%95)
 
 ---
+- [Usual Command](#usual-command)
+    - [Alias](https://mp.weixin.qq.com/s/wTokA2r-kxIMePmuVE98HA)
+    - [List/ls](#list)
+    - [Base64](#base64)
+    - [Batch](#batch-command)
+    - [Copy/Xclip/Mkdir/Mkfifo](#cp)
+    - [Chmod](#chmod)
+    - [Chown](#chown)
+    - [Chgrp](#chgrp)   
+    - [Chsh](#chsh)
+    - [Checksum(cksum/md5sum/shasum/fslint/rdfind)](#checksum)
+    - [Crontab/At](#crontab)
+    - [Curl](#curl)
+    - [Download(curl/wget/aria2c)](#download)
+    - [Env](#env)
+    - [Find/Locate/Which/Whereis](#find)
+    - [File](#file)
+    - [Grep](#search-txt)
+        - [Grep Regular Symbol](#grep-regular-symbol)
+    - [Gzip](#gzip)
+    - [History](#history)
+    - [Kill](#kill)
+    - [Less](https://mp.weixin.qq.com/s/qfAsQBnU6YBwiW2SYne1kg)
+    - [Link/ln/unlink](#ln)
+    - [Man/col/cheat/tldr](#man)
+    - [Make](#make)
+    - [Mount/Umount](#mountumount)
+    - [Nohup](#nohup)
+    - [Pstree/ps/pgrep/tree](#pstree)
+    - [Rename](https://mp.weixin.qq.com/s/SUgmF4VqvVTXS8LJ7dVCOQ)
+    - [SSH](#ssh)
+    - [OpenSSL](SSL-JKS-CERT.md#show-certificate)
+    - [GPG](SSL-JKS-CERT.md#gpg)
+    - [Scp](#scp)
+    - [Stat](#stat)
+    - [Tar](#tar)
+    - [Vim](#vim)
+    - [Zgrep](#search-gz)
+    - [Zcat/cat/tac/nl/split](#zcat)
+- [Text Operation](#txt-operation)
+    - [Awk](#awk)
+    - [Cut](#cut)
+    - [Diff/Patch](#diffpatch)
+    - [Expand/Unexpand](#expandunexpand)
+    - [Fold](#fold)
+    - [Head/Tail/Multitail](#headtail)
+    - [Hd/Od](#hdod)
+    - [Markdown/pandoc](#pandoc)
+    - [JSON/jq/xmlwf](#jq)
+    - [Read/Readline](#read)
+    - [Redirect Symbol [ >|, <, > ]](#redirect-symbol)   
+    - [Regular Expression [ [], *, ? ]](#regular-expression)     
+    - [Sed](#sed)
+    - [Sort](#sort)
+    - [screen](https://mp.weixin.qq.com/s/k6au7oeZgn6vlIBW9_CSUQ)
+    - [Script](#script)
+    - [Strings](#strings)
+    - [Tee](#tee)
+    - [Uniq](#uniq)
+    - [Unix2dos/Dos2unix](#unix2dosdos2unix)
+    - [Wc](#wc)
+    - [Xargs](#xargs)
+- [Shell Programming](shell%20programming.md)
+- [Image Operation](#vm-image-operation)
 - Monitor System Information
     - [Troubleshooting](https://mp.weixin.qq.com/s/h12_2oWhjKSZncQyR_EMug)
         - [Debug Operation](#debug)
@@ -103,70 +167,7 @@
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
         - [nmcli管理网络连接](https://mp.weixin.qq.com/s/rsc0zeWYwFRlIIvPnJ5tzA)
-- [Usual Command](#usual-command)
-    - [Alias](https://mp.weixin.qq.com/s/wTokA2r-kxIMePmuVE98HA)
-    - [List/ls](#list)
-    - [Base64](#base64)
-    - [Batch](#batch-command)
-    - [Copy/Xclip/Mkdir/Mkfifo](#cp)
-    - [Chmod](#chmod)
-    - [Chown](#chown)
-    - [Chgrp](#chgrp)   
-    - [Chsh](#chsh)
-    - [Checksum(cksum/md5sum/shasum/fslint/rdfind)](#checksum)
-    - [Crontab/At](#crontab)
-    - [Curl](#curl)
-    - [Download(curl/wget/aria2c)](#download)
-    - [Env](#env)
-    - [Find/Locate/Which/Whereis](#find)
-    - [File](#file)
-    - [Grep](#search-txt)
-        - [Grep Regular Symbol](#grep-regular-symbol)
-    - [Gzip](#gzip)
-    - [History](#history)
-    - [Kill](#kill)
-    - [Less](https://mp.weixin.qq.com/s/qfAsQBnU6YBwiW2SYne1kg)
-    - [Link/ln/unlink](#ln)
-    - [Man/col/cheat/tldr](#man)
-    - [Make](#make)
-    - [Mount/Umount](#mountumount)
-    - [Nohup](#nohup)
-    - [Pstree/ps/pgrep/tree](#pstree)
-    - [Rename](https://mp.weixin.qq.com/s/SUgmF4VqvVTXS8LJ7dVCOQ)
-    - [SSH](#ssh)
-    - [OpenSSL](SSL-JKS-CERT.md#show-certificate)
-    - [GPG](SSL-JKS-CERT.md#gpg)
-    - [Scp](#scp)
-    - [Stat](#stat)
-    - [Tar](#tar)
-    - [Vim](#vim)
-    - [Zgrep](#search-gz)
-    - [Zcat/cat/tac/nl/split](#zcat)
-- [Text Operation](#txt-operation)
-    - [Awk](#awk)
-    - [Cut](#cut)
-    - [Diff/Patch](#diffpatch)
-    - [Expand/Unexpand](#expandunexpand)
-    - [Fold](#fold)
-    - [Head/Tail/Multitail](#headtail)
-    - [Hd/Od](#hdod)
-    - [Markdown/pandoc](#pandoc)
-    - [JSON/jq/xmlwf](#jq)
-    - [Read/Readline](#read)
-    - [Redirect Symbol [ >|, <, > ]](#redirect-symbol)   
-    - [Regular Expression [ [], *, ? ]](#regular-expression)     
-    - [Sed](#sed)
-    - [Sort](#sort)
-    - [screen](https://mp.weixin.qq.com/s/k6au7oeZgn6vlIBW9_CSUQ)
-    - [Script](#script)
-    - [Strings](#strings)
-    - [Tee](#tee)
-    - [Uniq](#uniq)
-    - [Unix2dos/Dos2unix](#unix2dosdos2unix)
-    - [Wc](#wc)
-    - [Xargs](#xargs)
-- [Shell Programming](shell%20programming.md)
-- [Image Operation](#vm-image-operation)
+
 ---
 ### Monitor system information
 ---
@@ -780,6 +781,19 @@ $ ls -tl ./
 
 # 按修改时间逆序目录下文件
 $ ls -trl ./
+
+# -m 或 --format=comma 用逗号分隔文件名
+$ ls -m
+1, 10, 11, 12, 124, 13, 14, 15, 16pgs-landscape.pdf, 16pgs.pdf
+# --format=across 用空格分隔文件名
+$ ls --format=across z*
+z              zip            zipfiles      zipfiles1.bat   zipfiles2.bat
+
+# -1  数字1表示一行只显示一个文件
+$ ls -1
+
+# -X 按文件扩展名而不是文件名对条目进行排序
+$ ls -X
 ``` 
 
 #### pstree
@@ -987,44 +1001,52 @@ less !15:1
 
 #### cp
 + [备份文件及文件夹](https://mp.weixin.qq.com/s/KmKBtEVXuLcM0IWd-FB3cg)
++ [xclip 拷贝文件内容到剪贴板](https://mp.weixin.qq.com/s/39yaM37C3O3Rr6QtUFbHpw)
 ```console
-# -r copy directory, source folder is copied into ./source
+# -r 拷贝目录
 cp -rv /home/king/source ./
 
-# --parents  copy file with full parent path/folder
-# src /root/folder/folder1/folder11 
-# dest /root/folder/folder2/folder22
+# --parents 拷贝文件带上完整parent path/folder
+# src目录 /root/folder/folder1/folder11 
+# dest目录 /root/folder/folder2/
+# 拷贝src到dest
+$ cp -r /root/folder/folder1/folder11 /root/folder/folder2
+$ ls /root/folder/folder2/
+/root/folder/folder2/folder11
 
-# source folder11 is copied to dest /root/folder/folder2/folder11
-cp -r  /root/folder/folder1/folder11 /root/folder/folder2
+# 拷贝src到dest带着完整路径
+$ cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
+$ ls /root/folder/folder2/
+/root/folder/folder2/root/folder/folder1/folder11
 
-# source folder11 with whole path is copied to dest /root/folder/folder2/root/folder/folder1/folder11
-cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
-
-# create folder in /root
-mkdir /root/folder
-# -p, --parents     no error if existing, make parent directories as needed
-mkdir -p /root/folder/folder1/folder11
+# 在/root目录下创建单级目录
+$ mkdir /root/folder
+# -p, --parents 创建多级目录，如果父级目录不存在则一起创建
+# folder,folder1,folder11一次创建
+$ mkdir -p /root/folder/folder1/folder11
 
 # delete a directory
-rm -dfrv /root/folder
+$ rm -dfrv /root/folder
 ```
-如果只想复制全部或部分文本内容，而不是文件可以使用[***xclip***](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614644&idx=2&sn=83c9441c9b570038ea8f8e75a89a3cb6)
+许多人习惯使用右键单击菜单或按 Ctrl+V 粘贴文本, xclip可以以命令行方式将内容复制到系统剪贴板。
 ```console
-#复制logfile.logw文件最后 30 行
+# 复制 logfile.log 文件最后 30 行
 # -sel clip 选项可确保内容复制到系统剪贴板
-tail -n 30 logfile.log | xclip -sel clip
+$ tail -n 30 logfile.log | xclip -sel clip
+
+# 把日志文件全部内容复制到剪贴板
+$ xclip -sel clip logfile.log
 ```
-我们在命令行上使用竖线 “|” 把命令串起来是使用无名管道, 使用mkfifo可以创建有名管道
+命令行上使用竖线 “|” 把多个命令串起来,是利用了无名管道, mkfifo命令可以创建有名管道
 ```console
 # 在tmp目录下创建一个java的管道
-mkfifo /tmp/java
+$ mkfifo /tmp/java
 # list 创建的管道
-ls -l /tmp
+$ ls -l /tmp
 # 把list当前目录结果送入管道
-ls -al > /tmp/java
+$ ls -al > /tmp/java
 # 读出管道内容
-head /tmp/java
+$ head /tmp/java
 ```
 
 #### scp
@@ -1092,36 +1114,37 @@ file:        application/x-executable
 + [cksum/md5sum/diff/fslint/rdfind识别相同文件](https://mp.weixin.qq.com/s/G1nyIix-Q46lRvW1-l26uQ)
 ```console
 # calculate file sum using CRC32
-cksum pom.xml 
+$ cksum pom.xml 
 45631085 17500 pom.xml
 
 # calculate file sum using MD5
-md5sum pom.xml 
+$ md5sum pom.xml 
 fd3a531ef4c4eaee39ad0f8f5bb69958  pom.xml
 
 #calculate file sum using SHA1
-sha1sum pom.xml 
+$ sha1sum pom.xml 
 c21e5d0d44640854c17bc5cb614530ca721486ab  pom.xml
 ```
 
 #### base64
 ```console
 # encode string
-echo -n 'linux.com' | base64
+$ echo -n 'linux.com' | base64
 bGludXguY29t
 
 # decode string
-echo -n bGludXguY29t | base64 -d  
+$ echo -n bGludXguY29t | base64 -d  
 linux.com
 
 # 避免echo回显换行符
-# -n  do not output the trailing newline
-king@suse-leap:~/source/github/griffin> echo -n 'linux.com'
-linux.comking@suse-leap:~/source/github/griffin> 
+# -n do not output the trailing newline
+root@dev:~# echo -n 'linux.com'
+linux.comroot@dev:~#
+
 # 默认会将换行符回显
-king@suse-leap:~/source/github/griffin> echo 'linux.com'
+root@dev:~# echo  'linux.com'
 linux.com
-king@suse-leap:~/source/github/griffin> 
+root@dev:~#
 ```
 
 #### stat
@@ -1686,42 +1709,44 @@ umount -lv /home/king/tor
 
 ```console
 # Command 1 ; Command 2 首先运行Command1，然后运行Command2
+$ vncserver -kill :1; vncserver
+
 # Command 1 && Command 2 当Command1运行成功并结束，然后运行Command2
 # Command 1 || Command 2 当Command1运行失败时才运行Command2
-$ vncserver -kill :1; vncserver
 $ [ -f file.txt ] && echo "File exists" || echo "File doesn't exist"
+File doesn't exist
 
 # command1 >> file -- redirect file
 # output result to file, double greater than sign goes, result appends to file
-ls >> file 
+$ ls >> file 
 # one greater than sign overrides file
-ls > file 
+$ ls > file 
 ```
 
 #### chmod
 ```console
 # ugoa(owner,group,others, all users) rwx(4,2,1)
-chmod ugoa+rwx file == chmod 7777 file
+$ chmod ugoa+rwx file == chmod 7777 file
 ```
 
 #### chown
 ```console
-# change folder owner to user stack recursive
-chown -hR stack folder/    
+# 修改当前folder及所有子级目录的owner为用户stack
+$ chown -hR stack folder/    
 ```
 
 #### chgrp
 ```console
-# change group of folder to root group recursive
-chgrp -hR root folder/     
+# 修改当前folder及所有子级目录的用户所属group为root用户group
+$ chgrp -hR root folder/     
 ```
 
 #### chsh
 ```console
-# change default shell command to bash
-chsh -s /bin/bash 
-# which is current default shell
-which sh 
+# 修改default shell为bash
+$ chsh -s /bin/bash 
+# 查询当前default shell
+$ which sh 
 ```
 
 ---

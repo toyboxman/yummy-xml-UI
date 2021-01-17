@@ -5,6 +5,7 @@
 + [代码实现logger设定](#config-log-manually)
 + [关闭所有log输出](#close-all-log-output)
 + [过滤log输出](#filter-output)
++ [完整输出log异常](#exception-output)
 + [配置 slf4j(Simple Logging Facade)](#config-slf4j)
 + [Java日志体系](https://mp.weixin.qq.com/s/b7onHI1vVsLoRF4UIpLlhQ)
 + [Log4j2高性能日志工具](https://mp.weixin.qq.com/s/ktSqp1LiLLrJsyyD6JyD0g)
@@ -68,6 +69,21 @@ static class ConsoleOutputStream extends PrintStream {
 }
 
 System.setOut(new ConsoleOutputStream(System.out));
+```
+
+### exception output
+有时记录异常信息时候 exception.toString()方法只能返回基本信息，无法给出完整trace stack信息。 
+
+而 e.printStackTrace()可以将stack信息输出到System.err,但是返回void不能给出string。 因此需要手动处理exception的stack信息
+```java
+# apache的commons-lang3-3.5.jar!ExceptionUtils.getStackTrace()
+# 可以返回完整的stack string信息
+public static String getStackTrace(Throwable throwable) {
+    StringWriter sw = new StringWriter();
+    PrintWriter pw = new PrintWriter(sw, true);
+    throwable.printStackTrace(pw);
+    return sw.getBuffer().toString();
+}
 ```
 
 ### config slf4j
