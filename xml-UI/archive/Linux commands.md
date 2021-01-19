@@ -1111,7 +1111,7 @@ file:        application/x-executable
 
 #### checksum
 + [哈希(散列)函数](https://mp.weixin.qq.com/s/DeDujJlD-VmYsF2sWQ_sHQ)
-+ [cksum/md5sum/diff/fslint/rdfind识别相同文件](https://mp.weixin.qq.com/s/G1nyIix-Q46lRvW1-l26uQ)
++ [cksum/md5sum/diff/fslint/rdfind 识别相同文件](https://mp.weixin.qq.com/s/G1nyIix-Q46lRvW1-l26uQ)
 ```console
 # calculate file sum using CRC32
 $ cksum pom.xml 
@@ -1270,21 +1270,24 @@ nl stdio.h | head -n 3
 ```
 
 #### Crontab
-+ [cron expression](https://www.freeformatter.com/cron-expression-generator-quartz.html)
++ [Cron Expression Generator & Explainer](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 + [at命令安排任务](https://mp.weixin.qq.com/s/eknQ16aKiDWSpVGvREPL2Q)
 ```console
-# list current running cron task
-crontab -l 
-# open cron task editor and insert a curl task periodically by 1 second
-crontab -e  
+# 列出当前运行的 cron task
+$ crontab -l 
+
+# 删除当前运行的 cron task
+$ crontab -r  
+
+# 编辑 cron task 插入一条 curl task，任务按1秒频率周期执行
+$ crontab -e  
 result:
 min hour day month weekday command
 */1   *    *    *    * echo `curl -i -k http://blog.sina.com.cn/s/blog_46d0362d0102vmuc.html` > /dev/pts/0
 
-vi cronTask 
-crontab ./cronTask
-# remove current running cron task
-crontab -r  
+# 编辑执行 cron task文件
+$ vi cronTask 
+$ crontab ./cronTask
 ```
 
 #### Curl
@@ -1294,12 +1297,12 @@ crontab -r
 + [curl命令行访问互联网](https://mp.weixin.qq.com/s/JImf-lqUMP_Qe27oCWVtwg)
 + [HTTPie替换curl/wget](https://mp.weixin.qq.com/s/SuZSOOWTiM6a1LZj1d2udg)
 ```console
-# (H) means HTTP/HTTPS only, (F) means FTP only
-# -i, --include   Include protocol headers in the output (H/F)
-# -k, --insecure  Allow connections to SSL sites without certs (H)
-# -d, --data DATA     HTTP POST data (H)
-# --data-raw DATA  HTTP POST data, '@' allowed (H)
-curl -i -k -X POST https://10.162.122.147/ws.v1/login \
+# -i, --include   在返回结果中 Include protocol headers (H/F)
+# -k, --insecure  允许无证书连接到 SSL sites (H)
+# -d, --data      HTTP POST data (H)
+# --data-raw      HTTP POST data, '@' allowed (H)
+# (H) 表示适用于 HTTP/HTTPS 场景, (F) 表示适用 FTP 场景
+$ curl -i -k -X POST https://10.162.122.147/ws.v1/login \
             -H "Content-Type: application/x-www-form-urlencoded" \
             -d 'username=admin&password=Defaultca$hc0w'
             
@@ -1311,26 +1314,27 @@ Date: Fri, 10 Jul 2015 08:26:02 GMT
 Successful Authentication.
 You successfully authenticated.  Use the cookie in this reply in future requests.    
 
-curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
+# -u username 仅指定username，执行后console会提示输入password  
+# -u username:password 用明文方式指定password
+# ! 如果password中有特殊字符如 admin:pwd!23，由于'!'会被shell解释，所以curl命令会被中断
+# 这种情况只能用console输入password，或者将credentials括进单双引号中避免shell解释，如'admin:default!23'       
+$ curl -i -k -u 'admin:default!23' https://192.168.111.143/api/2.0/vdn/controller \
+            -H "Content-Type: application/json" 
+
+# --cookie 指定客户端 cookie
+$ curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
             https://10.162.122.147/ws.v1/control-cluster/node?fields=* \
             -H "Content-Type: application/json"
 
-# -u 指定访问credential
-# -u username 执行后console提示输入password  
-# -u username:password 明文password在脚本中
-# 如果password中有特殊字符如 admin:pwd!23，由于'!'会被shell解释，所以curl命令会被中断
-# 这种情况只能用console输入password，或者将credentials括进单双引号中避免shell解释，如'admin:default!23'       
-curl -i -k -u 'admin:default!23' https://192.168.111.143/api/2.0/vdn/controller \
-            -H "Content-Type: application/json" 
+# 如果url中存在'&'字符 bash会当成linux后台运行命令解释，因此需要处理一下
+# 比如 api/v1/jobs/instances?jobId=827&page=1 执行会失败
+# -G, --get  将-d指定data参数放到url中，作为参数
+$ curl -k -H "Accept: application/json" -G http://127.0.0.1:8080/api/v1/jobs/instances -d jobId=827 -d page=1
 
-# 如果url中存在&字符 bash会当成linux后台运行命令解释，因此需要处理一下
-# 比如 api/v1/jobs/instances?jobId={}&page={}执行会失败 可以用curl参数 -G
-# -G, --get  Put the post data in the URL(将-d指定参数放到url中)
-curl -k -H "Accept: application/json" -G http://127.0.0.1:8080/api/v1/jobs/instances -d jobId=827 -d page=1
-# 或者用双引号把URL包含
-curl -k -H "Accept: application/json" "http://127.0.0.1:8080/api/v1/jobs/instances?jobId=827&page=1"
-# 如果希望参数做URL encode，可以使用--data-urlencode  %20为空格的encode结果
-curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
+# 或者用双引号把整个URL包含为字符串，避免 '&' 被shell作命令解释
+$ curl -k -H "Accept: application/json" "http://127.0.0.1:8080/api/v1/jobs/instances?jobId=827&page=1"
+# 如果希望参数 URL encoded，可以使用--data-urlencode  %20为空格
+$ curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
 > GET /data?msg=hello%20world&msg2=hello%20world2 HTTP/1.1
 > User-Agent: curl/7.19.7 (x86_64-redhat-linux-gnu)
 > Host: localhost
@@ -1341,14 +1345,14 @@ curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --da
 # --form CONTENT  Specify HTTP multipart POST data (H)
 # --form-string STRING  Specify HTTP multipart POST data (H)
 # 提交表单型参数 发起 HTTP GET
-curl -s --form project="toyboxman/griffin" --form token="Gq7XIfGqmUJcDrC7XVr4vw" \
+$ curl -s --form project="toyboxman/griffin" --form token="Gq7XIfGqmUJcDrC7XVr4vw" \
 https://scan.coverity.com/api/upload_permitted
 
 Response:
 {"upload_permitted":true}
 
 # 提交多行json data
-curl -i -k -u admin:admin -X PUT https://127.0.0.1/api/v1/jobs/09d3a97b-5ecb-4d78-b85a-4689d7bd95db \
+$ curl -i -k -u admin:admin -X PUT https://127.0.0.1/api/v1/jobs/09d3a97b-5ecb-4d78-b85a-4689d7bd95db \
 -H "Content-Type: application/json" \
 -d @- <<EOF
 {
