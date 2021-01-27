@@ -1292,18 +1292,16 @@ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019
   []          |  匹配中括号中任何字符
   ()          |  子表达式
   &#166;      |  OR运算符; (www&#166;ftp)匹配“www”或“ftp”
-  ^           |  匹配一行的开始
-            |  匹配一行结尾
+  ^           |  匹配一行开始的空白字符串
+  $           |  匹配一行结尾的空白字符串
   &#92;       |  转义符 由于'.'匹配任意字符，当本身匹配时需转义'&#92;.'
 
 #### search gz
 ```console
-# zgrep search keyword in current folder from *.gz files
-zgrep -in "#bare" *.gz
+# 搜索 *.gz压缩文件中的关键字
+$ zgrep -in "#bare" *.gz           
 
-# show more detailed information            
-find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} +
-find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
+$ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 ```
 
 #### zcat
