@@ -27,7 +27,7 @@
     - [Download(curl/wget/aria2c)](#download)
     - [Env](#env)
     - [Find/Locate/Which/Whereis](#find)
-    - [File](#file)
+    - [File/readelf/size/ldd/nm/strip/rsync](#file)
     - [Grep](#search-txt)
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
@@ -389,7 +389,7 @@ dmidecode -t 4
 + [更新kernel module](https://mp.weixin.qq.com/s/MbEON4WHmgk5pI6g31LE3g)
 + [Kconfig/Kbuild进行内核构建](https://mp.weixin.qq.com/s/qGe50Rg4HoE47fbfduc2iA)
 ```console
-lsmod
+$ lsmod
 Module                  Size  Used by
 fuse                  106496  3 
 af_packet              45056  0 
@@ -401,17 +401,17 @@ iscsi_boot_sysfs       20480  1 iscsi_ibft
 ```console
 # LD_PRELOAD环境变量是在进程启动时加载共享库的最简单且最受欢迎的方法
 # 可以将此环境变量配置到共享库的路径，以便在加载其他共享对象之前加载该共享库
-export LD_PRELOAD=/home/showme.so
-ldd /usr/bin/ls
-        linux-vdso.so.1 (0x00007ffe75d87000)
-        /home/showme.so (0x00007f1e6b65f000)     <== there it is
-        libselinux.so.1 => /lib64/libselinux.so.1 (0x00007fc399591000)
-        libcap.so.2 => /lib64/libcap.so.2 (0x00007fc39938c000)
-        libc.so.6 => /lib64/libc.so.6 (0x00007fc398fe7000)
-        libpcre.so.1 => /usr/lib64/libpcre.so.1 (0x00007fc398d78000)
-        libdl.so.2 => /lib64/libdl.so.2 (0x00007fc398b74000)
-        /lib64/ld-linux-x86-64.so.2 (0x00007fc3997b7000)
-        libpthread.so.0 => /lib64/libpthread.so.0 (0x00007fc398957000)
+$ export LD_PRELOAD=/home/showme.so
+$ ldd /usr/bin/ls
+linux-vdso.so.1 (0x00007ffe75d87000)
+/home/showme.so (0x00007f1e6b65f000)     <== there it is
+libselinux.so.1 => /lib64/libselinux.so.1 (0x00007fc399591000)
+libcap.so.2 => /lib64/libcap.so.2 (0x00007fc39938c000)
+libc.so.6 => /lib64/libc.so.6 (0x00007fc398fe7000)
+libpcre.so.1 => /usr/lib64/libpcre.so.1 (0x00007fc398d78000)
+libdl.so.2 => /lib64/libdl.so.2 (0x00007fc398b74000)
+/lib64/ld-linux-x86-64.so.2 (0x00007fc3997b7000)
+libpthread.so.0 => /lib64/libpthread.so.0 (0x00007fc398957000)
 ```
 
 #### journalctl
@@ -758,18 +758,19 @@ usermod -G root,test  test
 
 ### Usual command
 #### env
-env, printenv用来查看当前的bash环境变量
 + 环境变量配置全攻略[[1](https://mp.weixin.qq.com/s/mSgsrZrQX8lmO0vc1dYrlA), [2](https://mp.weixin.qq.com/s/W1bph3PRFroZFeHRqGDdmA)]
-+ [source命令将函数和变量导入Bash](https://mp.weixin.qq.com/s/yZl0Q401ouLlWdII4HAd4w)
++ [source命令将函数和变量导入Bash](https://mp.weixin.qq.com/s/yZl0Q401ouLlWdII4HAd4w)  
+
+查看当前的bash环境变量
 ```console
-env | more
-printenv | less
+$ env | more
+$ printenv | less
 
-# add an env variable
-export GOBIN="/go/bin"
+# 导出环境变量
+$ export GOBIN="/go/bin"
 
-# delete an env variable
-unset GOBIN
+# 删除环境变量
+$ unset GOBIN
 ```
 
 #### list
@@ -907,17 +908,17 @@ find /etc -name '[nN]etwork.sh'
 # search a file by name regex condition case insensitive
 find /etc -iname '*network*'
 
-# search a file by type 
+# -type 按类型查找文件 
 # d      directory
 # f      regular file
 # l      symbolic  link
 # s      socket
-find . -type f -name *.xml
+$ find . -type f -name *.xml
 ./pom.xml
 
-# find a file with full path
-find $PWD -type f -name *.xml
-find $(pwd) -type f -name *.xml
+# 查找文件并返回全路径结果
+$ find $PWD -type f -name *.xml
+$ find $(pwd) -type f -name *.xml
 /home/king/source/pom.xml
 
 # exec 两种输出方式结果一致, {} + 方式输出格式自动对齐
@@ -927,8 +928,8 @@ find source/lib/ -name *.jar -exec file {} \;
 find src/com/ -name *.java -exec cat {} >> src.txt +
 wc -l src.txt
 
-# search all files in home folder and then determine its file type(append action)
-find /home -user king -exec file {} \;  
+# 按用户查找文件并且查看文件类型
+$ find /home -user king -exec file {} \;  
 /home/king: directory
 /home/king/.profile: ASCII text
 /home/king/.bash_history: ASCII text
@@ -937,7 +938,7 @@ find /home -user king -exec file {} \;
 /home/king/public_html/.directory: ASCII text
 
 # 检查当前目录下哪个jar文件包含ClassUtils.class
-find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
+$ find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
 Archive:  ./commons-compress-1.8.1.jar
 3352  2014-05-09 20:45   org/apache/commons/compress/utils/ClassUtils.class
 
@@ -1068,9 +1069,9 @@ sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/pa
 ```
 
 #### file
-- [split大文件](https://mp.weixin.qq.com/s/_Yin-MQvYxNDcID6JKUpGQ)
-- [操作可执行ELF文件](https://mp.weixin.qq.com/s/3I7ev0U8EGTHwkSfAOLpHQ)
-- [rsync快速删除大量文件](https://mp.weixin.qq.com/s/PA5XXqqZKKuwREPeqAtS4Q)
+- [快速删除海量数目文件 rsync 最快](https://mp.weixin.qq.com/s/PA5XXqqZKKuwREPeqAtS4Q)  
+  `创建50万个文件,再用各种命令和脚本进行删除，time命令计时`
+- [ELF文件的信息读取](https://mp.weixin.qq.com/s/3I7ev0U8EGTHwkSfAOLpHQ)
 - [不使用mv命令移动文件](https://mp.weixin.qq.com/s/vFmE7j2AzoLCS7nYph-D_w)
 ```console
 # 确定默认 /usr/bin/python 文件类型
@@ -1078,17 +1079,23 @@ sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/pa
 $ file $(which python)
 /usr/bin/python: symbolic link to python2.7
 
-$ file file.c file /dev/{wd0a,hda}
+# 查看多个文件的类型,包括源文件 可执行文件和设备文件
+$ file file.c $(which file) /dev/{wd0a,hda}
 file.c:   C program text
 file:     ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV),
           dynamically linked (uses shared libs), stripped
 /dev/wd0a: block special (0/0)
 /dev/hda: block special (3/0)
 
-$ file -s /dev/wd0{b,d}
-/dev/wd0b: data
-/dev/wd0d: x86 boot sector
+#-i, --mime 按mime文字rather than普通格式输出，如'text/plain; charset=us-ascii'而不是'ASCII text'
+$ file -i file.c file /dev/{wd0a,hda}
+file.c:      text/x-c
+file:        application/x-executable
+/dev/hda:    application/x-not-regular-file
+/dev/wd0a:   application/x-not-regular-file
 
+# -s, --special-files 确定block special files的类型
+# 查看多个磁盘文件的类型 
 $ file -s /dev/hda{,1,2,3,4,5,6,7,8,9,10}
 /dev/hda:   x86 boot sector
 /dev/hda1:  Linux/i386 ext2 filesystem
@@ -1101,12 +1108,64 @@ $ file -s /dev/hda{,1,2,3,4,5,6,7,8,9,10}
 /dev/hda8:  Linux/i386 swap file
 /dev/hda9:  empty
 /dev/hda10: empty
+```
+在Linux中，可执行文件的格式是ELF格式
+```console
+# 查看ELF文件信息
+$ readelf -h /usr/bin/java
+ELF Header:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00 
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              EXEC (Executable file)
+  Machine:                           Advanced Micro Devices X86-64
+  Version:                           0x1
+  Entry point address:               0x400530
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          2100248 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               64 (bytes)
+  Size of program headers:           56 (bytes)
+  Number of program headers:         9
+  Size of section headers:           64 (bytes)
+  Number of section headers:         31
+  Section header string table index: 30
 
-$ file -i file.c file /dev/{wd0a,hda}
-file.c:      text/x-c
-file:        application/x-executable
-/dev/hda:    application/x-not-regular-file
-/dev/wd0a:   application/x-not-regular-file
+# 查看ELF文件各段大小
+$ size $(which java)
+text	   data	    bss	    dec	    hex	filename
+1634	    636	     16	   2286	    8ee	/usr/bin/java
+
+# 查看ELF文件符号表
+$ nm $(which java)
+nm: /usr/bin/java: no symbols
+
+# 查看ELF文件链接的动态库
+$ ldd $(which java)
+linux-vdso.so.1 =>  (0x00007ffc4b741000)
+libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f4ab8c65000)
+libjli.so => not found
+libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f4ab8a60000)
+libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4ab8697000)
+/lib64/ld-linux-x86-64.so.2 (0x000055aad9a38000)
+
+# 查找hello ELF文件符号表中main函数
+# 查看符号表能知道新加的函数或者全局变量有没有编译进去
+# 如果没有找到或者前面是U，没有地址，表明在这个elf文件中没有定义这个函数
+$ nm hello | grep main  
+U __libc_start_main@@GLIBC_2.2.5
+0000000000400526 T main
+
+# 文件类型信息有not stripped，表示里面包含了一些符号表信息，因此文件会稍大
+# 去掉符号表，ELF文件会变小，只是对调试和问题定位有影响
+$ ls -lh hello  # 瘦身前
+-rwxrwxr-x 1 root root 8.4K
+$ strip hello
+$ ls -lh hello #瘦身后
+-rwxrwxr-x 1 root root 6.2K
 ```
 
 #### checksum
@@ -1169,14 +1228,14 @@ king:users
 #### search txt
 - [grep/sed/awk高效文件处理](https://mp.weixin.qq.com/s/jNumvmRrdShq-fYvMiWvyg)
 ```console
-# search keyword in src and its sub folders
+# 在src目录及其子目录中搜寻关键字 DB_VERSION_STRING
 # -w match整个词
 # -n show line number
 # -r recursively search
 # --include="*.h" only search *.h files
 grep -wnr --include="*.h" DB_VERSION_STRING ./src  
 
-# --exclude=\*.{jar,class} don't search *.jar and *.class files
+# --exclude=\*.{jar,class} 搜索内容忽略*.jar和*.class文件
 grep -nr "VersionMBean" --exclude=\*.{jar,class} ~/src
 
 # [Ee]xception search string matching 'Exception' or 'exception'
@@ -1187,36 +1246,34 @@ grep -n -B5 -A1 [Ee]xception 1.log
 # -i search case insensitive
 grep -i error 1.log  
 
-# -c search keyword 'error' and count
+# -c 搜索'error'并统计数量
 grep -c error 1.log  
 
-# -H, --with-filename Print the file name for each match,default setting
-# -h, --no-filename without filename in output
-# search all related log records and sort by time line
+# -H, --with-filename 每一条匹配记录都显示出对应文件名,默认的命令选项
+# -h, --no-filename 匹配记录都不显示对应文件名
+# 查找相关日志记录并按世界排序
 grep -h 'BaseApp' *log | sort > BaseApp.log
 
-# -s 
-# --no-messages 
-# suppress messages about nonexistent or unreadable files
-grep show *
+# 当前目录下所有文件中搜寻 'show'
+$ grep show *
 check.sh:#send "show \n"
-grep: legacy: Is a directory
-grep -s show *
+grep: legacy: Is a directory # 提示legacy是个不可读的目录文件
+# -s --no-messages 不提示不存在文件或不可读文件的错误信息
+$ grep -s show *
 check.sh:#send "show \n"
 
-# -E pattern is treated as being an extended regular expression
-# 使用正则匹配时候pattern必须用单引号或双引号标记否则无效
-grep -sE 'de.*' *
+# -E 启动搜索关键字的extended regular expression模式
+# 正则表达式pattern必须用单引号或双引号标记，否则无效
+$ grep -sE 'de.*' *
 check.sh:set host [lindex $argv 0]; 
 open.sh:set host [lindex $argv 0];
 open.sh:send ": debug os-shell\n"
 
-# -v show lines which do not match the pattern
-# 出现show的行都不会显示 
-grep -v show *
+# -v 搜索仅显示出所有未匹配的结果
+# 出现'show'关键字的结果行都不显示 
+$ grep -v show *
 check.sh:#send "other \n"
-
-# Filtering all lines excluding 'www' or 'ftp'
+# 显示所有不包含关键字'www' or 'ftp'的结果
 grep -vE "(www|ftp)"
 
 # 查找时间戳大于某个时间的日志
@@ -1251,10 +1308,9 @@ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 
 #### zcat
 + [split拆分与cat合并文件](https://mp.weixin.qq.com/s/TeEfxB14Zg0tvv2HScp3Ng)  
-
++ [split大文件](https://mp.weixin.qq.com/s/_Yin-MQvYxNDcID6JKUpGQ)
 ```console
 # zcat用来读取压缩文件内容
-# show file content by page
 zcat syslog.1.gz | less
 ```
 tac就是cat倒序命令，可以从后往前读取文件内容
@@ -1342,7 +1398,7 @@ $ curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --
 
 # -s, --silent        Silent mode (don't output anything)
 # -S, --show-error    Show error
-# --form CONTENT  Specify HTTP multipart POST data (H)
+# -F --form CONTENT  Specify HTTP multipart POST data (H)
 # --form-string STRING  Specify HTTP multipart POST data (H)
 # 提交表单型参数 发起 HTTP GET
 $ curl -s --form project="toyboxman/griffin" --form token="Gq7XIfGqmUJcDrC7XVr4vw" \
@@ -2249,9 +2305,26 @@ tail -f logfile
 查看文件中可显示字符内容
 ```console
 # 查看系统journal文件
-strings /var/log/journal/a0848146a8854c519ce698d28901e824/user-1000.journal | grep -i message
+$ strings /var/log/journal/a0848146a8854c519ce698d28901e824/user-1000.journal | grep -i message
 MESSAGE=kscreen.xcb.helper: RRScreenChangeNotify
 MESSAGE=kscreen.xcb.helper:     Window: 35651588
+
+# 查找java ELF文件中的字符串
+$ strings $(which java)
+/lib64/ld-linux-x86-64.so.2
+libpthread.so.0
+_Jv_RegisterClasses
+libjli.so
+__gmon_start__
+JLI_Launch
+libdl.so.2
+libc.so.6
+__libc_start_main
+lib.so
+$ORIGIN/../lib/amd64/jli:$ORIGIN/../lib/amd64
+SUNWprivate_1.1
+GLIBC_2.2.5
+...
 ```
 
 #### cut
