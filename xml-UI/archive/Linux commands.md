@@ -858,9 +858,13 @@ dpkg -c install_amd64.deb
 ar -x install_amd64.deb
 # dpkg-deb - Debian package archive (.deb) manipulation tool
 dpkg-deb -x ./path/to/test.deb ./path/to/destination
+
+# -I --info 查看DEB文件的依赖选项 依赖信息可以在以“Depends”开头的那些行中找到
+dpkg -I deb_file
 ```
 
 #### ssh
++ [SSH通讯过程详解](https://mp.weixin.qq.com/s/HYi9Oa7vM9xPcsFxu18-UA)
 + [SSH密钥管理工具](https://mp.weixin.qq.com/s/C6kLwO6LQvWzpHcEThg3TQ)
 ```console
 # 获取ssh public keys，把指定host上公钥添加到本地
@@ -1317,7 +1321,7 @@ tac pom.xml | grep 'schema'
 ```
 nl命令和cat 命令很像，只不过它会打上行号
 ```console
-nl stdio.h | head -n 3
+$ nl stdio.h | head -n 3
 1 /* Define ISO C stdio on top of C++ iostreams.
 2 Copyright (C) 1991,1994-2004,2005,2006 Free Software Foundation, Inc.
 3 This file is part of the GNU C Library.

@@ -258,12 +258,12 @@ git commit --amend --author="Gene <Gene@genesis.org>" --no-edit
 git branch -a  
 
 # 查看本地分支和远程分支关系,包括分支间关联,提交状态对比
-git branch -vv
+$ git branch -vv
 scala         a366fd6 add scala static analysis plugin
 scala-lint    a366fd6 [origin/master: ahead 1, behind 12] add scala static analysis plugin
 # 如果本地分支没有track remote branch， 如scala，可以用任意一个下面命令设定upstream来track状态
-git branch -u origin/master scala
-git branch --set-upstream-to=origin/master scala
+$ git branch -u origin/master scala
+$ git branch --set-upstream-to=origin/master scala
 scala         a366fd6 [origin/master: ahead 1, behind 12] add scala static analysis plugin
 scala-lint    a366fd6 [origin/master: ahead 1, behind 12] add scala static analysis plugin
 # 取消upstream设定

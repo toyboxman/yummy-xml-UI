@@ -90,6 +90,7 @@
     - 文件系统
         - [文件系统概要](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
         - Linux文件系统[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q), [3](https://mp.weixin.qq.com/s/yDpJc9WMAZX0jnceouy3GA)]
+        - [文件系统与持久性内存](https://mp.weixin.qq.com/s/VX3GOqLovf2riKx2IwuHtg)
         - [文件读取过程](https://mp.weixin.qq.com/s/_pW0v7a7tKbGZpi3lRQVcw)
         - [lsof深入理解虚拟文件系统](https://mp.weixin.qq.com/s/OSENnCexQlbXNVkF7lVzjw)
     - 计算系统
@@ -232,9 +233,10 @@
     - [实现login验证码](https://mp.weixin.qq.com/s/9fu0u9sH-cU3KQfC3aBr-A)
     - [网络广告商的像素追踪](https://mp.weixin.qq.com/s/Ua42bkLI2tK8zIWaRFNmYg)        
     - REST API
+        - [API快速开发平台设计](https://mp.weixin.qq.com/s/jbKzo0AWq6xYD-F5oxglEg)
         - [REST API工具](https://mp.weixin.qq.com/s/-6zfrvJUnz9L8ueOrJi4-A)
         - [REST API面临的安全威胁](https://mp.weixin.qq.com/s/l4lKz9DGRZB4zM-q1vOxOw)
-    - [Swagger管理接口文档 ](https://mp.weixin.qq.com/s/YuanLc72625DwXo-sMSGuQ)
+        - [Swagger管理接口文档 ](https://mp.weixin.qq.com/s/YuanLc72625DwXo-sMSGuQ)
     - [MVC/MVVM模型](https://mp.weixin.qq.com/s/Hi43vXv34ThiBa9r5TcE8w)
     - [Chrome前端调试](https://mp.weixin.qq.com/s/p9Y586_F7wwBnFkEztUtUw)
     - [Server-side rendering](https://alligator.io/react/server-side-rendering/)
@@ -377,6 +379,7 @@
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)  
         `墨菲定律(设计系统)/康威定律(系统划分)`<br>
         `服务发现/网关/配置中心/通讯方式/监控预警/监控架构/调用链监控APM/熔断-隔离-限流-降级/容器与服务编排引擎`
+        - [微服务设计模式](https://mp.weixin.qq.com/s/PzPfWHVanSQpZha7qDeKGw)
         - [微服务发现技术](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)  
             `传统集中式代理/客户端嵌入式代理/主机独立进程方案/K8S服务发现机制`
         - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)  
@@ -426,6 +429,7 @@
 
 #### Database
 + 基本知识
+    - [简明数据库史](https://mp.weixin.qq.com/s/6j_z4QFxK0bIvzmy7WLhKA)
     - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)  
         `事务/并发一致性/数据锁/隔离级别/多版本并发控制(MVCC)/Next-Key Locks解决幻读问题/关系数据库设计理论`
     - [数据库工程经验](https://mp.weixin.qq.com/s/zbAp1xMrxGoxz86uJ3y15Q)  
