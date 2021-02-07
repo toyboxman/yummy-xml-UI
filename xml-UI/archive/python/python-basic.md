@@ -24,6 +24,7 @@
 - [getopt/optparse/argparse解析命令行参数](https://mp.weixin.qq.com/s/1b4kUhW7w2xDTeJeJJZx-w)
 - [正则表达式模块](https://mp.weixin.qq.com/s/_LyebPdd3slgW_Cw3vTbDA)
 - [有用的Python库](https://mp.weixin.qq.com/s/4chEQ3-jdQd9CD9ycv0ibA)
+- [Python爬取网站](https://mp.weixin.qq.com/s/HJxgnuBG-FTpvY5AaGVGZw)
 - [FastAPI构建Web服务](https://mp.weixin.qq.com/s/i9HQpaU902Vt7kv0_tRFKw)
 - [kite-编写python代码的AI工具](https://mp.weixin.qq.com/s/q5GTpgxVPdBhufLTSP5mNw)
 - [Python任务自动化/命令行工具invoke](https://mp.weixin.qq.com/s/H4vSnbn9Y9L3v0Ql88DbJg)

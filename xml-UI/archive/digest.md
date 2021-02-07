@@ -93,6 +93,7 @@
         - [文件系统与持久性内存](https://mp.weixin.qq.com/s/VX3GOqLovf2riKx2IwuHtg)
         - [文件读取过程](https://mp.weixin.qq.com/s/_pW0v7a7tKbGZpi3lRQVcw)
         - [lsof深入理解虚拟文件系统](https://mp.weixin.qq.com/s/OSENnCexQlbXNVkF7lVzjw)
+        - [Btrfs和LVM-ext4差别](https://mp.weixin.qq.com/s/LJQDlJBJCZvU2K9ABBhR1w)
     - 计算系统
         - 逻辑电路
             - [逻辑门/二进制加法机](https://mp.weixin.qq.com/s/wEvNo-iJJ17YBTq7xm4Akw)
@@ -336,7 +337,7 @@
     - [分布式架构的前世今生](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)    
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  
         `CAP/BASE/分布式事务/分布式锁/Paxos/Raft`
-    - [分布式系统原理](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg)
+    - 分布式系统原理[[1](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg), [2](https://mp.weixin.qq.com/s/l-wM3owg_HYdRhzNl3d5dQ)]
     - [B2C电商支付中心产品架构](https://mp.weixin.qq.com/s/ZfSu2M0WLKvELY7GuvlRaQ)  
         `收单系统/清结算系统/账户系统/对账系统/支付安全`
         - [支付宝LDC架构和其CAP分析](https://mp.weixin.qq.com/s/i6oIav1Rs2LGvRIyRTAA6Q)
@@ -349,6 +350,7 @@
     - 分布式锁解读[[1](https://mp.weixin.qq.com/s/jGw7gqV9OhG0eUbWiPfyyQ),[2](https://mp.weixin.qq.com/s/2Jpy5qE_7ABILd9wcJ7q3Q),[3](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg),[4](https://mp.weixin.qq.com/s/DtLdmLhGO4wJxIaOWgrXQg)]  
         `Redis/Zookeeper/DB作分布式锁`
         - [接口幂等性实现与分布式锁](https://mp.weixin.qq.com/s/pBO-qdzDIuLmxM9bWKSOgg)
+        - [Zookeeper思维导图](https://mp.weixin.qq.com/s/ocQZUKxujgcqNNKn7zw4Yw)
 	- [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)  
         `负载均衡算法/转发实现/集群下的Session管理`
     - [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
@@ -398,8 +400,10 @@
     - [gRPC长连接在微服务业务系统中的实践](https://mp.weixin.qq.com/s/LKGzc6XBAWYdskVQQJFLHw)   
         `HTTP/2.0 多路复用/单个连接维持的成本更高/负载均衡机制`<br>
         `负载均衡机制/连接的管理(K8s+Istio)/性能测试`
-    - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)    
-        `阿里云API网关应用经验`
+    - API网关
+        - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)    
+            `阿里云API网关应用经验`
+        - [京东API网关实践之路](https://mp.weixin.qq.com/s/eEArVvp-q5ocQVM9vVj2Mg)            
     - Dubbo
         - [Dubbo架构](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)  
         `服务注册中心/动态代理层Proxy/Cluster集群层/protocol协议层/Exchange信息交换层/Transport网络通信层`
@@ -423,9 +427,15 @@
 + [DevOps工具链](https://mp.weixin.qq.com/s/1t1jICQEgXSJ51DVj6JrfQ)  
     `计划工具/问题跟踪/源码控制/构建工具/测试工具/CI和CD/配置管理工具/云平台/监控和日志工具/沟通工具/知识分享工具`
 + [Serverless迁移实践](https://mp.weixin.qq.com/s/kJi2or1e7mQAJzeONeVfeA)
-+ [API的演变-从REST到WebSocket/gRPC/GraphQL](https://mp.weixin.qq.com/s/CieKMCv2LbV0eDnoVOoQXw)
++ API开发
+    + [API演变-从REST到WebSocket/gRPC/GraphQL](https://mp.weixin.qq.com/s/CieKMCv2LbV0eDnoVOoQXw)
+    + [API方式-REST/RPC/GraphQL](https://mp.weixin.qq.com/s/4IkJqZAB-X0HeGyemQo73A)
+    + [API对比-RPC/SOAP/REST/GraphQL](https://mp.weixin.qq.com/s/HDuV-oXKsbGFZ0HOpj8ydw)
 + [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)  
     `雪崩效应/缓存穿透/HystrixCommand/资源隔离/熔断`
++ [网易基于Filebeat的日志采集服务设计与实践](https://mp.weixin.qq.com/s/HpOZ9_T1EVK8DBNb3qt-Nw)
++ [快手大数据平台服务化实践](https://mp.weixin.qq.com/s/OelgWc7ptjFmShxiikdARQ)
++ [优秀的软件设计文档要求](https://mp.weixin.qq.com/s/OyAIKmQ61Lk_BXcMY3ML1A)
 
 #### Database
 + 基本知识
@@ -461,6 +471,7 @@
         `4.读写分离核心要点-->路由功能/从库路由策略/HA与Scalable`
     - [数据库‘状态’字段设计](https://mp.weixin.qq.com/s/VZFAc-LdeF4YaoixQsf3kw)  
         `订单表的设计-->订单状态值/字典值/类型`
+    - [MySQL/ES/HBASE等技术提高后端接口性能](https://mp.weixin.qq.com/s/SrwndkY5xYEO-V_pYX2ttQ)
     - [数据建模工具](https://mp.weixin.qq.com/s/92y3kAfPTtDdiLcoN9h76A)
     - 2019精选合集[[***1***](https://mp.weixin.qq.com/s/tMjk8Ak73OIBvDhG7BiTmA), [***2***](https://mp.weixin.qq.com/s/Q1B3QL2HiVvJvUUHIeCSQA)]
 + SQL
@@ -652,7 +663,9 @@ monitor in:description language:python
     - [如何解决代码中if…else过多的问题](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
     - [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
     - [线上故障排查参考](https://mp.weixin.qq.com/s/UKa1bksIcTHQsS0T1nt6ZA)
-    - [Netty解决粘包半包问题](https://mp.weixin.qq.com/s/WuaVdD0_nGaoGZog3tCrqw)
+    - Netty
+        - [Netty解决粘包半包问题](https://mp.weixin.qq.com/s/WuaVdD0_nGaoGZog3tCrqw)
+        - [Netty做到单机秒级接收35万个对象](https://mp.weixin.qq.com/s/gwOXHbrfvsJ25Wv4rP4tcg)
     - [一个TCP连接上面能发多少个HTTP请求](https://mp.weixin.qq.com/s/fa-FV3mWK6e8CK9wJ8LMmA)
     - [JVM类加载概述](https://mp.weixin.qq.com/s/lu-lwKp-bmX8SUySatZ0SA)
     - [构造函数没有返回值是怎么赋值](https://mp.weixin.qq.com/s/Se7engxA7Dbdj8NHrSCF3Q)

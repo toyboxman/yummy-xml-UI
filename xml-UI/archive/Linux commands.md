@@ -115,7 +115,7 @@
     - System Management
         - [dmesg](#list-system-details)
         - [Show Linux Version](#show-linux-version)
-        - [Top](#top)
+        - [Top/sar](#top)
         - [Watch](https://mp.weixin.qq.com/s/mnu-jKQJDndOxeBCDMeknA)
         - [free](#free)
         - [w/uptime/cal](#wuptimecal)
@@ -149,7 +149,7 @@
         - [ZERO/NULL/Random/dd](#device)
         - [fallocate/dd/truncate创建大文件](https://mp.weixin.qq.com/s/eiPW7GakKpTwTCuhTaP6gA)
     - [Network Management](#network-config)        
-        - [Show Network Details](#show-network-details)
+        - [Show Network/link/address/config](#show-network-details)
         - [Firewall/iptables/ufw/nftables](#iptablesfirewall)
         - [NC/netcat](#nc)
         - [ss-Socket Statistics/netstat](#netstat)
@@ -190,6 +190,7 @@ uname -a
 #### top
 + [批处理模式下运行top](https://mp.weixin.qq.com/s/T3nZRjEHEUUMeaLWUCif1w)
 + top找出CPU占用高的进程[[1](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ), [2](https://mp.weixin.qq.com/s/rLus3XL1-oeS_hYR_Kfexg)]
++ [sar替代其他监控命令](https://mp.weixin.qq.com/s/fCSq56Ar1savNa8yZb3L7g)
 ```console
 # list processes/memory etc.
 # 'h' for help content
@@ -864,6 +865,7 @@ dpkg -I deb_file
 ```
 
 #### ssh
++ [SSH做端口转发](https://mp.weixin.qq.com/s/uesOCt9gmdST-HpwYTKsIw)
 + [SSH通讯过程详解](https://mp.weixin.qq.com/s/HYi9Oa7vM9xPcsFxu18-UA)
 + [SSH密钥管理工具](https://mp.weixin.qq.com/s/C6kLwO6LQvWzpHcEThg3TQ)
 ```console
@@ -2514,6 +2516,7 @@ Shift+Insert   |  粘贴系统剪贴板内容
 ### Network Config
 #### show network details
 + [检查网卡信息](https://mp.weixin.qq.com/s/fRUmwKVXSuTHLaQSwC3rQQ)
++ [ip命令替换ifconfig](https://mp.weixin.qq.com/s/tTLMmZkZguJkx0s3NVS4gg)
 ```console
 # list ip local port range
 cat /proc/sys/net/ipv4/ip_local_port_range
