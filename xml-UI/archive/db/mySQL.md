@@ -3,7 +3,8 @@
     `mysql安装/mysql操作`
     - [MySQL命令学习笔记](https://mp.weixin.qq.com/s/pxTZOph5-2v6YTxxeA_kOg)
     - [MySQL 优化19条](https://mp.weixin.qq.com/s/IjKVF4yuJjf4TFsAxP3IoA)  
-    `EXPLAIN/IN包含的值不应过多/使用limit 1/union all代替union...`
+        `EXPLAIN/IN包含的值不应过多/使用limit 1/union all代替union...`
+        - [EXPLAIN优化命令行&问题SQL抓取方式](https://mp.weixin.qq.com/s/kIkTChxSzsdQW0Ez35yuIQ)
     - [MySQL8.0运维便捷命令](https://mp.weixin.qq.com/s/OZub4GiQSRjlAfDf59U3KA)  
         `RESTART/PERSIST/RETAIN CURRENT PASSWORD/EXPLAIN/SET_VAR`
     - [MySQL EXPLAIN结果集分析](https://mp.weixin.qq.com/s/p5UKuh1yY3P4zrOzVBmY1w)

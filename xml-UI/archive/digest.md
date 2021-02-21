@@ -594,6 +594,7 @@
 + [12306抢票项目](https://mp.weixin.qq.com/s/b87RzIITe03xIGo53YmD-A)
 + [netease-music](https://github.com/mbinary/netease-music-cracker)
 + [Real-Time-Voice-Cloning](https://mp.weixin.qq.com/s/r-gzBFheDuBtdLyeZpXGpg)
++ [Zint生成二维码](https://mp.weixin.qq.com/s/ycWK_9idEGN1AvZ48OsDIg)
 + [命令行备忘工具navi](https://mp.weixin.qq.com/s/JJy2iv82RkHp6BXyXAOXNg)
 + [Polynote多语言笔记本](https://mp.weixin.qq.com/s/KjRbBMXhBkXwJBpI-DaRAQ)
 + 2019-hot-project[[10](https://mp.weixin.qq.com/s/ujq6J1njlFVsR_h5c-DT2Q), [11](https://mp.weixin.qq.com/s/fMAeNWMJkZbr7sLveBCy_w)]
@@ -642,6 +643,7 @@ monitor in:description language:python
     - [Collection/List/Set/Map](java/java-collection.md)
     - [ASM](java/java-asm.md)
     - [AspectJ](https://www.baeldung.com/aspectj)
+        - syntax[[1](https://www.eclipse.org/aspectj/doc/next/progguide/language-joinPoints.html#some-example-pointcuts), [2](https://www.baeldung.com/spring-aop-pointcut-tutorial)]
     - [ServiceLoader/ClassLoader](java/java-loader.md)
     - [Tcp/Udp](java/java-udp-tcp.md)
     - [Stream2string](java/java-stream2string.md)
