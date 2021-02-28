@@ -50,6 +50,8 @@
     - [GitOps工具](https://mp.weixin.qq.com/s/mnnLseNv1onKgyyV-gcoYw)
 + 开源工具
     - [FFmpeg编辑视频](ffmpeg.md)
+    - [youtube-dl](https://mp.weixin.qq.com/s/MYawCBlC5MBZ7ghc27F8Ig)  
+        `命令行工具，可以从YouTube和其他一些网站下载视频`
     - [创建EPUB电子书](https://mp.weixin.qq.com/s/nCNzETj-LF1ZDgpLZu0c5Q)  
         `calibre/ghostwriter和pandoc`
     - Jenkins构建CI/CD/DevOps[[1](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA), [2](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA), [3](https://mp.weixin.qq.com/s/Rnux4uL4IA0qFmBK-FimoA)]
@@ -118,6 +120,7 @@
         - [Linux Used内存详解](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
         - [零拷贝技术](https://mp.weixin.qq.com/s/6RvOcduVpWTEwvulBMWiqQ)
         - [Linux默认页大小是4KB](https://mp.weixin.qq.com/s/_xC98At-9y9wNEv1o4G7gg)
+            - [内核如何使用内存](https://mp.weixin.qq.com/s/tCP6ixHIJWgrs3Hj5q1eBw)
     - 网络系统
         - [计算机网络基础知识](https://mp.weixin.qq.com/s/s_EeCQn6U57QpVXEqf_TjA)
             - [图说IP基础知识](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
@@ -158,6 +161,7 @@
 + [依赖反转/控制反转/依赖注入](https://mp.weixin.qq.com/s/IZXdP3yFww_2re3KYuZFXg)
 + ***Algorithm***
     - [自然语言处理NLP](https://mp.weixin.qq.com/s/K6h0duwaDMk5RES8ALmLNA)
+    - [推荐算法原理](https://mp.weixin.qq.com/s/c2nDkKvR7-10xcfv2fVNlg)
 	- [海量数据中判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
     - [LRU算法和Redis的LRU实现](https://mp.weixin.qq.com/s/B0klxGGJkSvnP8Q6YDqaVA)
 	- [分布式唯一ID之Snowflake算法](https://mp.weixin.qq.com/s/4Vpnq7q6Rs8wCRyxNKKCoQ)

@@ -653,7 +653,7 @@ mkdir -p test/src; git show dev:test/src/test.java > ~/test/src/test.java
 
 ### git format-patch
 ```console
-# 在当前分支下为最新的一个提交(head -1)打出补丁
+# 在当前分支下,为最新的一个提交(head -1)打出补丁
 git format-patch -1 HEAD  
 
 # 给dev分支最新的一个提交(head -1)打出补丁
@@ -664,7 +664,7 @@ git format-patch f5f8ff546b3
 # 给当前分支从f5f8ff546b3开始到HEAD-2之间所有提交打出补丁
 git format-patch f5f8ff546b3..@~2
 
-# 给当前分支中 f5f8ff546b3提交打出补丁
+# 给当前分支中指定 f5f8ff546b3提交打出补丁
 git format-patch -1 f5f8ff546b3  
 
 # 把当前分支最新两个提交打成一个补丁
@@ -750,6 +750,15 @@ gitk file
 	port=29418
 	project=XXX.git
 	defaultbranch=master
+	```
+	然后执行`git review XXX-branch`,根据上面设定安装和配置当前repo的第一个review request。成功操作后，.gitreview就不起作用了，可以删除。
+	```console
+	# 如果遇到如下区域设定错误，可以通过后面命令来安装重置当前locale
+	locale.Error: unsupported locale setting
+	
+	export LC_ALL="en_US.UTF-8"
+	export LC_CTYPE="en_US.UTF-8"
+	sudo dpkg-reconfigure locales
 	```
 	- 设定默认rebase到zero ，将使git-review不会rebase changes (same as the -R command line option)
 	```console

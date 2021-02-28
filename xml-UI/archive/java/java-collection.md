@@ -4,6 +4,8 @@
 + [Collection的使用](https://www.javatpoint.com/collections-in-java)
 + [Collections in Java](https://howtodoinjava.com/java-collections/)
 + [HashMap的7种遍历方式](https://mp.weixin.qq.com/s/v518GDzKRZQUaVelgpltKQ)
+    + [Filter a Map by keys and values](https://beginnersbook.com/2017/10/java-8-filter-a-map-by-keys-and-values/)
+    + [List Static Initialization](https://www.baeldung.com/java-init-list-one-line)
 + [Map to String Conversion](https://www.baeldung.com/java-map-to-string-conversion)
 + [Java 8 Stream](https://www.javatpoint.com/java-8-stream)       
 + [Java Stream Filter](https://www.javatpoint.com/java-8-stream-filter)
