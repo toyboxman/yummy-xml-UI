@@ -756,6 +756,7 @@ gitk file
 	# 如果遇到如下区域设定错误，可以通过后面命令来安装重置当前locale
 	locale.Error: unsupported locale setting
 	
+	# 如果希望默认设定locale， 可以把两条export命令放到 .bashrc
 	export LC_ALL="en_US.UTF-8"
 	export LC_CTYPE="en_US.UTF-8"
 	sudo dpkg-reconfigure locales

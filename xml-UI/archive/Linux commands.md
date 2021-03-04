@@ -557,6 +557,7 @@ $ ls --color=never
 ---
 #### df/du
 + [获取Linux中的目录大小](https://mp.weixin.qq.com/s/5iNd0C5rxH7buTPHfaTEqg)
++ [duf检查磁盘使用情况](https://mp.weixin.qq.com/s/sInWzRWzEaiUbytDDv4aDg)
 ```console
 # show current folder disk info
 # -h size unit using Giga
