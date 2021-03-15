@@ -2067,6 +2067,7 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 + [awk运算符号](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446340&idx=1&sn=339467b45f2618b2b99634ca1b87b098)
 + [awk-NR/NF变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615695&idx=2&sn=a8058e8ad8203e94c20b26eea4b82849)
 + [awk删掉重复行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615818&idx=2&sn=7d426b4a3b1170fcf11bd8443a07f759)
++ [5种awk用法](https://mp.weixin.qq.com/s/-LFhV1v_evVYIWt4cInKcg)
 ```console
 # awk 的基本语法
 awk [options] 'pattern {action}' file
@@ -2583,9 +2584,36 @@ iptables -A INPUT -i lo -j ACCEPT
 iptables -P INPUT DROP
 
 # 修改过的规则如果没保存，会在重启iptables后失效
-service iptables save 
-service iptables status  
-/etc/init.d/iptables status
+$ service iptables save 
+$ service iptables status  
+$ /etc/init.d/iptables status
+# 有些系统通过systemctl管理服务
+$ systemctl stop iptables
+$ systemctl disable iptables
+$ systemctl status iptables
+
+# Stop/disable iptables firewall服务
+# 有些旧Linux kernel提供 'service iptables stop' 操作，但如果是new kernel则没有此命令
+# 必须通过下面一系列iptables命令操作来删除所有规则
+# --flush   -F [chain]		Delete all rules in chain or all chains
+# 实际操作中遇到过命令执行完导致远端机器ssh不上，ping不到。这种方式可能需要在本机执行才安全
+$ iptables -F
+# -X [chain]		Delete a user-defined chain
+$ iptables -X
+# -P INPUT/OUTPUT/FORWARD: Accept specified traffic
+$ iptables -P INPUT ACCEPT
+$ iptables -P OUTPUT ACCEPT
+$ iptables -P FORWARD ACCEPT
+# 检查删除结果,所有rules都被删除了
+$ iptables -L
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination
+
+Chain FORWARD (policy ACCEPT)
+target     prot opt source               destination
+ 
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination
 
 # 限制连接到80端口的同一个ip的最大连接数小于15,超过则拒绝
 # --match/-m 扩展匹配条件[MAC/Owner/Mark/Limit...]
@@ -2919,7 +2947,8 @@ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {ge
 
 ### DEBUG
 #### GDB
-+ [GDB技巧](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615768&idx=1&sn=9690755e7f6837eb8790cb8329b85e86)
++ [GDB技巧](https://mp.weixin.qq.com/s/4CAViD7GTWg4K_YDsDyohQ)
++ [GDB调试代码](https://mp.weixin.qq.com/s/OLHurXiioQchhai4i9WYsw)
 
 A core file is an image of a process that has crashed It contains all process information pertinent to debugging: contents of hardware registers, process status, and process data. Gdb will allow you use this file to determine where your program crashed. 
 ```console

@@ -439,6 +439,8 @@
     `雪崩效应/缓存穿透/HystrixCommand/资源隔离/熔断`
 + [网易基于Filebeat的日志采集服务设计与实践](https://mp.weixin.qq.com/s/HpOZ9_T1EVK8DBNb3qt-Nw)
 + [快手大数据平台服务化实践](https://mp.weixin.qq.com/s/OelgWc7ptjFmShxiikdARQ)
++ [微信直播聊天室架构演进](https://mp.weixin.qq.com/s/poZo0uHl88n9TadBKUzFVA)
++ [美团即时物流的分布式系统架构设计](https://mp.weixin.qq.com/s/UyQmhjv9qMtQSDmu5ZyOvA)
 + [优秀的软件设计文档要求](https://mp.weixin.qq.com/s/OyAIKmQ61Lk_BXcMY3ML1A)
 
 #### Database

@@ -1,7 +1,7 @@
 
 ---
 
-### åœ¨Linuxä¸Šåˆ›å»ºservice
+### ÔÚLinuxÉÏ´´½¨service
 - [Systemctl](#systemctl)
 - [Service](#service)
 - Reference   
@@ -11,62 +11,62 @@
 
 ---
 
-åœ¨Linuxå¹³å°ä¸Šè¦æŠŠåº”ç”¨è¿›ç¨‹å˜æˆåå°æœåŠ¡ï¼Œèƒ½å¤Ÿåœ¨OS bootæ—¶å€™è‡ªåŠ¨å¯åŠ¨ï¼Œæˆ–åœ¨åº”ç”¨è¿›ç¨‹crashæ—¶å€™èƒ½å¤Ÿè‡ªåŠ¨ restartã€‚ å¯ä»¥é€šè¿‡systemctl å’Œserviceä¸¤ç§æ–¹å¼æ¥åš
+ÔÚLinuxÆ½Ì¨ÉÏÒª°ÑÓ¦ÓÃ½ø³Ì±ä³ÉºóÌ¨·şÎñ£¬ÄÜ¹»ÔÚOS bootÊ±ºò×Ô¶¯Æô¶¯£¬»òÔÚÓ¦ÓÃ½ø³ÌcrashÊ±ºòÄÜ¹»×Ô¶¯ restart¡£ ¿ÉÒÔÍ¨¹ısystemctl ºÍserviceÁ½ÖÖ·½Ê½À´×ö
 
 ## *systemctl*
-åœ¨Photon OS 2.0ä¸ŠéªŒè¯è¿‡ä»¥ä¸‹æ­¥éª¤ï¼ŒæˆåŠŸ    
-1. åˆ›å»ºä¸€ä¸ªæœåŠ¡æ–‡ä»¶
+ÔÚPhoton OS 2.0ÉÏÑéÖ¤¹ıÒÔÏÂ²½Öè£¬³É¹¦    
+1. ´´½¨Ò»¸ö·şÎñÎÄ¼ş
 ```bash
 vi /etc/systemd/system/my.controller.service
 ------------------------------------------------------------------
 [Unit]
-# æœåŠ¡å†…å®¹æè¿°
+# ·şÎñÄÚÈİÃèÊö
 Description=Admiral My Controller
-# åœ¨ç½‘ç»œæœåŠ¡å¯åŠ¨åå³åˆ»start
+# ÔÚÍøÂç·şÎñÆô¶¯ºó¼´¿Ìstart
 After=network.target
 
 [Service]
 Restart=always
-# crashä¹‹åï¼Œ3ç§’é‡å¯
+# crashÖ®ºó£¬3ÃëÖØÆô
 RestartSec=3
-# å¯åŠ¨å‘½ä»¤ï¼Œæˆ–è€…æŠŠæ­¤å‘½ä»¤å†™æˆshellè„šæœ¬ï¼Œåœ¨æ­¤å¤„è°ƒç”¨
+# Æô¶¯ÃüÁî£¬»òÕß°Ñ´ËÃüÁîĞ´³Éshell½Å±¾£¬ÔÚ´Ë´¦µ÷ÓÃ
 ExecStart=/usr/bin/java -Djava.net.preferIPv4Stack=true \
 -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties \
 -server -Xmx4096m -cp /opt/controller/slf4j-api-1.7.5.jar:\
 /opt/controller/slf4j-log4j12-1.7.5.jar:/opt/controller/log4j-1.2.17.jar \
 example.controller.Main
- # åœæ­¢æœåŠ¡è„šæœ¬
+ # Í£Ö¹·şÎñ½Å±¾
 ExecStop=/opt/controller/stop.sh
 
 [Install]
-# æ‰€æœ‰ç”¨æˆ·ä¾èµ–
+# ËùÓĞÓÃ»§ÒÀÀµ
 WantedBy=multi-user.target
 ------------------------------------------------------------------
 ```
 
-2. ä½¿èƒ½æœåŠ¡
+2. Ê¹ÄÜ·şÎñ
 ```bash
-# æ­¤å‘½ä»¤å°†ä¼šåˆ›å»ºä¸€ä¸ªlinkæ–‡ä»¶åœ¨/etc/systemd/system/multi-user.target.wants/
+# ´ËÃüÁî½«»á´´½¨Ò»¸ölinkÎÄ¼şÔÚ/etc/systemd/system/multi-user.target.wants/
 systemctl enable my.controller
 
 file /etc/systemd/system/multi-user.target.wants/my.controller.service
 lrwxrwxrwx 1 root root   42 Jan  3 02:55 my.controller.service -> /etc/systemd/system/my.controller.service
 ```
 
-3. é‡å¯ç”Ÿæ•ˆ
+3. ÖØÆôÉúĞ§
 ```bash
 shutdown now -r
 ```
 
-4. æ’é”™
-å¦‚æœserviceæœ‰é—®é¢˜ï¼Œå¯ä»¥é€šè¿‡å‘½ä»¤æ£€æŸ¥
+4. ÅÅ´í
+Èç¹ûserviceÓĞÎÊÌâ£¬¿ÉÒÔÍ¨¹ıÃüÁî¼ì²é
 ```bash
 systemctl status my.controller
 journalctl | grep my.controller.service
 ```
 
 ## *service*
-å®Œæˆserviceè„šæœ¬çš„å®šä¹‰    
+Íê³Éservice½Å±¾µÄ¶¨Òå    
 ```bash
 #!/bin/bash
 
