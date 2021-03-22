@@ -699,8 +699,9 @@ git grep -in 'Converter' origin/master origin/dev
 git grep -in 'Converter' origin/master:src/main/java origin/dev:src/main/java
 
 # 相当于grep中 --include参数
-# 但后面不能指定路径参数否则出错
 git grep -in 'if(' -- '*.java' '*.cpp'
+# 在repo指定路径下指定文件类型搜索关键字
+git grep "ProfileProxy" -- policy/staging/*.java
 ```
 
 ### git gc

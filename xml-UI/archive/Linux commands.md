@@ -33,7 +33,7 @@
     - [Gzip](#gzip)
     - [History](#history)
     - [Kill](#kill)
-    - [Less](https://mp.weixin.qq.com/s/qfAsQBnU6YBwiW2SYne1kg)
+    - [Less/zless](https://mp.weixin.qq.com/s/qfAsQBnU6YBwiW2SYne1kg)
     - [Link/ln/unlink](#ln)
     - [Man/col/cheat/tldr](#man)
     - [Make](#make)

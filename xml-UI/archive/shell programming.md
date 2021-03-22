@@ -17,6 +17,8 @@
 - [IF](#if-控制流)
 - [LOOP](#loop-控制流)
 - [Logical](#logical-条件)
+- [SET](http://www.ruanyifeng.com/blog/2017/11/bash-set.html)  
+	`用来修改Shell环境的运行参数,一共有十几个参数可以定制,如-e Bash的错误处理`
 - [Examples](#shell-example)
 	+ 如何编写bash脚本[[1](https://mp.weixin.qq.com/s/rXYHpElNJiHF-O-i5wdE-Q), [2](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg), [3](https://mp.weixin.qq.com/s/d6FmL-FGEaji0OzyOYFFRA), [4](https://mp.weixin.qq.com/s/6f5cowUSJC7hM9uy2hRUJw)]
 	+ [Shell Built-in Commands](https://mp.weixin.qq.com/s/8E7Q3GEHPpD5wklYPYFOew)
@@ -116,7 +118,7 @@ sh -n script.sh
 # 一边执行脚本，一边将执行过的脚本命令打印到标准错误输出
 sh -v script.sh  
 
-# 提供跟踪执行信息，将执行的每一条命令和结果依次打印出来
+# 提供跟踪执行信息，将执行的每一条原始命令和结果依次打印出来
 sh -x script.sh  
 ```
 * 使用这些选项有三种方法，
@@ -136,7 +138,7 @@ sh -x script.sh
 	#! /bin/sh
 	# 通过启用和禁用X参数,只对脚本中的某一段进行跟踪调试
 	if [ -z "$1" ]; then
-	# 启用x参数
+	# 启用x参数，先输出执行的那一行命令
 	set -x
 	echo "ERROR: Insufficient Args."
 	exit 1

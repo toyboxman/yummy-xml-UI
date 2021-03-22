@@ -103,6 +103,7 @@
         - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
             - [CPU访问硬盘很慢](https://mp.weixin.qq.com/s/To_E-51Bb_2ol4t0WtspYg)
             - [NUMA/UMA影响程序的延迟](https://mp.weixin.qq.com/s/GZjugy6ANn6NaUuSZyL6PQ)
+            - [CPU空闲时在干嘛](https://mp.weixin.qq.com/s/xmoflmIRTCgbXLgMg1RJug)
             - [写出让CPU跑得更快的代码](https://mp.weixin.qq.com/s/0UhFA8y7KmEhzDAoMxiehA)  
                 `越靠近CPU核心的缓存其访问速度越快，CPU访问 L1 Cache需要2~4个时钟周期，L2 Cache需要10~20个时钟周期，L3 Cache需要20~60个时钟周期，而访问内存速度大概在200~300个时钟周期`
         - Linux进程总结[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
@@ -441,6 +442,7 @@
 + [快手大数据平台服务化实践](https://mp.weixin.qq.com/s/OelgWc7ptjFmShxiikdARQ)
 + [微信直播聊天室架构演进](https://mp.weixin.qq.com/s/poZo0uHl88n9TadBKUzFVA)
 + [美团即时物流的分布式系统架构设计](https://mp.weixin.qq.com/s/UyQmhjv9qMtQSDmu5ZyOvA)
++ [订单系统设计思路](https://mp.weixin.qq.com/s/dejiHNKRa98b-VNmHjq0tA)
 + [优秀的软件设计文档要求](https://mp.weixin.qq.com/s/OyAIKmQ61Lk_BXcMY3ML1A)
 
 #### Database
@@ -510,6 +512,7 @@
         `Redis架构/主从复制/数据初始化/中断后同步/增量复制/数据一致性验证/完整性同步/部分同步`
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)  
         `缓存穿透/缓存击穿/缓存雪崩`
+        - [缓存踩踏](https://mp.weixin.qq.com/s/mjySTz73Ltcfsw1e6iY4YA)
     - [Redis分片机制](https://mp.weixin.qq.com/s/1f7lpmXYcaOCH7gR2DhPFw)  
         `一致性hash算法/平衡性/单调性/分散性`
     - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)  
