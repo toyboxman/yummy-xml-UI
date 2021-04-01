@@ -17,8 +17,9 @@
         `分布式事务的语法`
     - [MySQL CPU性能定位](https://mp.weixin.qq.com/s/zl9YCdW1ZXYlotTBN-DNLA)
         `CPU起步8核开始SSD硬盘/用Memcache或者Redis缓存技术，尽量从缓存中获取常用的查询结果`
-    - [别在MySQL中使用UTF-8](https://mp.weixin.qq.com/s/vI49TqUcMX0qm5CNVfuZrA)  
-        `MySQL把utf8改成utf8mb4`
+    - [MySQL字符集](https://mp.weixin.qq.com/s/8Ymc7Shblzn8N6p5WKY-Ww)
+        - [别在MySQL中使用UTF-8](https://mp.weixin.qq.com/s/vI49TqUcMX0qm5CNVfuZrA)  
+            `MySQL把utf8改成utf8mb4`
 - [MySQL重要知识点](https://mp.weixin.qq.com/s/4l_0kriTW82V9Gkd6TVdEg)  
     `事物的四大特性(ACID)/索引相关/存储引擎/乐观锁与悲观锁的区别/锁机制与InnoDB锁算法/大表优化`
 - [MySQL使用规范](https://mp.weixin.qq.com/s/yMo17C3AyD2ZkXwD33NtZQ)  

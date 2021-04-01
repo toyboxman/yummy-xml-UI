@@ -147,7 +147,6 @@
           - 释放rm文件所占空间[[1](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg), [2](https://mp.weixin.qq.com/s/8E7MgA8HZfLzRTApbcnjBg)]
     - Device Management
         - [ZERO/NULL/Random/dd](#device)
-        - [fallocate/dd/truncate创建大文件](https://mp.weixin.qq.com/s/eiPW7GakKpTwTCuhTaP6gA)
     - [Network Management](#network-config)        
         - [Show Network/link/address/config](#show-network-details)
         - [Firewall/iptables/ufw/nftables](#iptablesfirewall)
@@ -638,9 +637,10 @@ mask::rwother::r--
 ---
 #### device
 Linux的dev目录下有一些特殊文件，他们可以为外部程序提供一些系统读写功能。 
-+ [Linux的特殊文件](https://mp.weixin.qq.com/s/odOpV5INmu8tfegyjgU_bg)
-包括 普通文件/目录(d)/符号链接/套接字(s)/块设备(b)/字符设备(c)/管道
-+ dd copy一个文件并按照操作符进行转换和格式化
++ [Linux的特殊文件](https://mp.weixin.qq.com/s/odOpV5INmu8tfegyjgU_bg)  
+  `包括 普通文件/目录(d)/符号链接/套接字(s)/块设备(b)/字符设备(c)/管道`
++ [fallocate/dd/truncate创建大文件](https://mp.weixin.qq.com/s/eiPW7GakKpTwTCuhTaP6gA)
++ [dd命令复制文件并对原文件的内容进行转换和格式化处理](https://mp.weixin.qq.com/s/ymrlQu89_-znXbyATd-hpw)
 ```console
 # 随机产生一个大小69M的二进制格式文件，文件名test
 # if指定输入文件 

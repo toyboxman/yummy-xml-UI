@@ -116,7 +116,7 @@
         - [虚拟内存](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
         - [内存Swap/Cache/Buffer](https://mp.weixin.qq.com/s/23SETiyjJzVoW5NBuznwyQ)
             - [为什么Linux需要Swapping](https://mp.weixin.qq.com/s/bgCRvenn6OcYXobzXtEwgQ)
-            - [手动释放swap和buffer和cache](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg)
+            - 手动释放swap和buffer和cache[[1](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg), [2](https://mp.weixin.qq.com/s/g7-57hXD2Ivoyh6HvwxN6w)]
         - [Linux正在吃掉内存](https://mp.weixin.qq.com/s/rEUptpiQi9U4FifQa4KyuQ)
         - [Linux Used内存详解](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
         - [零拷贝技术](https://mp.weixin.qq.com/s/6RvOcduVpWTEwvulBMWiqQ)
@@ -849,6 +849,8 @@ done
 
 每临大事有静气。不要急，急也没用
 
+以言取人，失之宰予；以貌取人，失之子羽
+
 见过世面的人，看到最好的，不以物喜；知晓最坏的，不以己悲。乱花渐欲，不坠青云志，腹有诗书，不夸夸其谈
 
 万物同理，减法永远比加法难，正如郑板桥一句诗：“删繁就简三秋树，领异标新二月花”。
@@ -862,6 +864,7 @@ done
 [任嚣吸取屠睢的教训](https://mp.weixin.qq.com/s?__biz=MzU4NTA0NzMyOQ==&mid=2247504335&idx=1&sn=8bd6d31c6fa39059589db3f118a55ded)，对越人采取宽松政策，“抚绥有道，不敢以秦虎狼之威，复加荒裔”，不再滥杀无辜，而是接受南越习俗，与越人和睦相处。他任职数载，越人皆诚心归附。任嚣为统一大业立下汗马功劳，史书将他与当时在北方防御匈奴的蒙恬并称：“秦北有蒙恬，威詟漠庭，南有任嚣，恩洽扬越，而始皇乃得以自安。”
 
 [姚广孝](https://mp.weixin.qq.com/s/FshRUfzq_0nZauinK-_v_Q)一句话"祥也。飞龙在天，从以风雨。瓦堕，将易黄也。" 稳定靖难誓师前疑惑
+[梃击、红丸、移宫三案](https://mp.weixin.qq.com/s/7QGIZBc_UKan_01Xl7jPPw)时止则止，时行则行，动静不失其时，其道光明。
 
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
