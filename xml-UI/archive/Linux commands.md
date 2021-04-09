@@ -189,7 +189,7 @@ uname -a
 #### top
 + [批处理模式下运行top](https://mp.weixin.qq.com/s/T3nZRjEHEUUMeaLWUCif1w)
 + top找出CPU占用高的进程[[1](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ), [2](https://mp.weixin.qq.com/s/rLus3XL1-oeS_hYR_Kfexg)]
-+ [sar替代其他监控命令](https://mp.weixin.qq.com/s/fCSq56Ar1savNa8yZb3L7g)
++ sar替代其他监控命令[[1](https://mp.weixin.qq.com/s/fCSq56Ar1savNa8yZb3L7g), [2](https://mp.weixin.qq.com/s/wVLbEC14eG2aVtcKrbaoPg)]
 ```console
 # list processes/memory etc.
 # 'h' for help content
@@ -869,6 +869,7 @@ dpkg -I deb_file
 + [SSH做端口转发](https://mp.weixin.qq.com/s/uesOCt9gmdST-HpwYTKsIw)
 + [SSH通讯过程详解](https://mp.weixin.qq.com/s/HYi9Oa7vM9xPcsFxu18-UA)
 + [SSH密钥管理工具](https://mp.weixin.qq.com/s/C6kLwO6LQvWzpHcEThg3TQ)
++ [网道SSH教程](https://wangdoc.com/ssh/port-forwarding.html)
 ```console
 # 获取ssh public keys，把指定host上公钥添加到本地
 # 存储github.com主机上公钥到本地

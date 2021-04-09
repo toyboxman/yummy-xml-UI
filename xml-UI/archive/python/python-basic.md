@@ -12,6 +12,7 @@
 	- [file](#s2)
 - [Python CLI](#python-cli)
 - [建立Python环境的工具](https://mp.weixin.qq.com/s/rTag8BRfDkMOqq_tQupX-w)
+- [Python异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html)
 - [Python代码片段](https://mp.weixin.qq.com/s/ZjRmJmEiHkEN_3wQaAzsxg)
     - [Python隐藏技巧](https://mp.weixin.qq.com/s/ZkRFUj5yV-5AfqPquRk1EA)
     - [Python Snippet-随机数/文件路径/排序/字符串](https://mp.weixin.qq.com/s/fnC5VZ8mkJ1-OUwN-udJUg)

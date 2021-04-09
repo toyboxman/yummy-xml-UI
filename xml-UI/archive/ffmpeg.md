@@ -3,6 +3,7 @@
 
 ### FFmpeg编辑多媒体文件
 - [FFmpeg命令编辑视频](https://mp.weixin.qq.com/s/9FltBw_Q3XKbvL3GVaCCnA)
+- [FFmpeg视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
 - [FFmpeg+ImageMagick从视频中创建gif](https://www.ostechnix.com/create-animated-gif-ubuntu-16-04/)
 - [FFmpeg从PDF中创建视频](https://www.ostechnix.com/create-video-pdf-files-linux/)
 - [FFmpeg常用命令](https://blog.csdn.net/weixin_42081389/article/details/100543007)

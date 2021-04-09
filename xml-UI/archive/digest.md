@@ -222,6 +222,7 @@
     - [前端开发20年变迁史](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
     - 前端样例代码[[1](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew), [2](https://mp.weixin.qq.com/s/Tqqkn56C-S3jXe5Wqwuq8g)]
     - [Web API](https://mp.weixin.qq.com/s/PA_bzHByHkjhODwD5m80Xg)
+        - [网道Web API教程](https://wangdoc.com/webapi/)
     - Flutter
         + [使用Flutter开发Web应用](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
         + [Flutter富文本方案](https://mp.weixin.qq.com/s/uqxLb5ToMdi9sqL6gDRW_g)
@@ -265,6 +266,7 @@
     - [CSS第四级选择器](https://mp.weixin.qq.com/s/5mCWF2qAPWBhBpKAUuqJKw)
     - [CSS样式的解析过程](https://mp.weixin.qq.com/s/8G7dpvleCFmDPzijfMbiTw)
 + JavaScript/TypeScript
+    - [网道JavaScript教程](https://wangdoc.com/javascript/)
     - [使用TypeScript](https://mp.weixin.qq.com/s/wQy7ZqiuBcP6MHWW9H8dkg)
     - [JS中context和stack](https://mp.weixin.qq.com/s/pc6EbfCKN1xWd4Q6nBU-PQ)
     - [JS中实现map/reduce](https://mp.weixin.qq.com/s/HgXTuZd9fKdu8MoGAPP0Pw)
@@ -294,6 +296,7 @@
         `基于Taro框架开发的多端UI组件库,只书写一套代码,再通过Taro的编译工具，将源代码分别编译出可以在不同端(微信小程序、H5、RN等)运行的代码`
     - [lin-ui](https://github.com/TaleLin/lin-ui)  
         `微信小程序组件库`
+        - [微信小程序入门教程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)
     - [ruoyi](http://doc.ruoyi.vip/ruoyi/)  
         `基于SpringBoot、Shiro、Mybatis的权限后台管理系统`
     - [小商城](https://github.com/linlinjava/litemall)  
@@ -316,6 +319,7 @@
     Ratpack is a simple, capable, toolkit for creating high performance web applications. Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.      
 
 #### Architecture
++ [企业数字化转型PPT](https://mp.weixin.qq.com/s/j4xV9E7bh-Gc67vsqKJB_Q)
 + [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
     `SMART目标/15条规则`
 + [架构设计模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)  
@@ -393,7 +397,8 @@
             `治理配置/Apollo治理能力/可用性场景/动态日志级别/Zuul动态网关路由`
             - [Spring Cloud配置中心](https://www.haoyizebo.com/posts/8f2a7e9d/)
         - [开源微服务框架](https://mp.weixin.qq.com/s/AqxYHBGrXmwZ8N1ewFf18A)  
-            `Service Mesh/Linkerd/Envoy/Istio/Conduit`
+            `Service Mesh/Linkerd/Envoy/Istio/Conduit`  
+            - [服务网格Service Mesh](https://mp.weixin.qq.com/s/vcTzl20zqyiUXleUR0NjyA)
         - Java微服务指南[[1](https://mp.weixin.qq.com/s/_Wz7NweA1NV3-hTD0yA1Rg), [2](https://mp.weixin.qq.com/s/aO5Ocl48jNo7MNUOkbTwCw)]  
         `开发测试部署/实践经验`
         - 构建微服务架构([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))  
