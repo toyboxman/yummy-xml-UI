@@ -1879,6 +1879,7 @@ patch -p 5 < ../rb1138637.patch
 checking file src/test/java/com/example/EndPoint.java
 ```
 #### xargs
++ [xargs命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)
 ```console
 # xargs把管道传入的结果转成一行,空格分隔出的每一个词可以作为后面命令输入参数
 # 比如 cat <file1>  <file2>  <file3>可以打印三个文件内容

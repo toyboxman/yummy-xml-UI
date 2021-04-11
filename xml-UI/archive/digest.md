@@ -183,6 +183,7 @@
         `codes/header/安全/幂等`
         - [HTTPS原理](https://mp.weixin.qq.com/s/v8vVLD4YNSi0yBf6fS_Utg)  
             `数据传输用对称加密/CA证书/中间人攻击`
+        - [HTTP Referer](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)
         - [HTTP guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
             `Mozilla MDN HTTP doc`
     - [浏览器缓存机制](https://mp.weixin.qq.com/s/LLJGZyYELj3ZqPPvSONa-g)  
@@ -619,7 +620,7 @@ GitHub提供代码库检索功能
     + [检索语法](https://help.github.com/en/articles/about-searching-on-github)
     + [code search语法](https://help.github.com/en/articles/searching-code)
     + [Github高级搜索技巧](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
-    + GitHub Actions自动化打包/部署技巧[[1](https://mp.weixin.qq.com/s/L3VBR_mOj8TUhJAcO-rG-w), [2](https://mp.weixin.qq.com/s/yg7_3e30hnXlyiv_YhtLOA)]
+    + GitHub Actions自动化打包/部署技巧[[1](https://mp.weixin.qq.com/s/L3VBR_mOj8TUhJAcO-rG-w), [2](https://mp.weixin.qq.com/s/yg7_3e30hnXlyiv_YhtLOA), [3](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)]
 ```console
 # 1.限定从java语言的项目(language:java)中
 # 2.搜寻扩展名是java(extension:java)的文件内容(in:file)
