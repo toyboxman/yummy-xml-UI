@@ -192,6 +192,7 @@
     - [CDN加速原理](https://mp.weixin.qq.com/s/DRQAVqCo87vST1DeDcyyBA)  
         `(Content Delivery Network)内容分发网络,工作原理就是将源站的资源缓存到位于全球各地的CDN节点上，用户请求资源时就近返回缓存的资源，而不需要每个用户的请求都回源站获取，保证用户访问资源的速度和体验`
     - [Authentication](https://swagger.io/docs/specification/authentication/)
+        - [OAuth2.0的简单介绍](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
         - [基于token的多平台身份认证架构设计](https://mp.weixin.qq.com/s/KWxE-GouTxJBB6Aj7Vxa1Q)
         - Basic Authentication  
             `一种简单的内置于HTTP协议中认证办法.客户端发送携带Authorization header的HTTP requests，header包含base64-encoded字符串'username:password',如下样式`
@@ -425,6 +426,7 @@
     - [陌陌Service Mesh架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
 	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)  
         `Spring Cloud攒起微服务经验-->Eureka/Ribbon容错/SpringBoot Tomcat/HttpClient连接池的Keep-Alive/滚动升级时的可用性保障`
+    - [Uber面向领域的微服务架构](https://mp.weixin.qq.com/s/ZK1kJrmBo7rEeZg-K6spxQ)
     - [你可能不需要微服务](https://mp.weixin.qq.com/s/2ZK-NwzuoziZq_5MI7x4mQ)
 + [漫画中台](https://mp.weixin.qq.com/s/49uKZEWa9vG2hsbU8Km5Zg)  
     `业务中台/技术中台/数据中台/算法中台`
@@ -530,6 +532,7 @@
     - [Redis集群](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)  
         `集群作用/哈希槽/配置集群/故障转移`
     - [Redis分布式锁造成的重大事故](https://mp.weixin.qq.com/s/uxYGPV012Lz7eWVSZJ2ggQ)
+    - [Redis缓存 + 定时写入数据库实现高性能点赞功能](https://mp.weixin.qq.com/s/DOtcQQvhVzi7P8W351T3Ig)
     - Redis面试题[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ), [3](https://mp.weixin.qq.com/s/TBGPv6NXJZu4PfGfT5OfWQ)]  
         `Redis区别map/guava本地缓存/持久化机制/内存淘汰策略/事务/线程模型/布隆过滤器/缓存雪崩/缓存穿透`
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)  

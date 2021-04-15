@@ -313,6 +313,10 @@ curl -O https://alibaba.github.io/arthas/arthas-boot.jar
 java -jar arthas-boot.jar
 
 # 如果目标jvm是jre启动，需要找一个对应的jdk版本
+# 最简单方式是在调试机器上下载一个相同版本或略高版本的jdk，然后通过jdk中java来启动
+# azul的zulu是基于openjdk的一种jdk发型版本
+wget https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-jdk8.0.282-linux_x64.tar.gz
+# 也可以从对应jdk拷贝jre缺失文件
 cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
 # 如果目标jre lib中缺少tools.jar，需要从jdk中复制一份
 cp /usr/java/jdk1.8.0_251/lib/tools.jar /usr/java/jre1.8.0_251/lib
@@ -332,7 +336,7 @@ Affect(row-cnt:0) cost in 2319 ms.
 ```
 这种情况是由于目标class尚未被jvm加载，一般是由于目标类未被其他class直接调用，导致jvm没有加载，解决方式只要触发一次调用就可以search到。
 ##### search method
-搜寻class相关method可以如下操作
+搜寻class全部method可以如下操作
 ```console
 [arthas@17977]$ sm example.messaging.RpcServices
 example.messaging.RpcServices <init>()V
@@ -341,8 +345,25 @@ example.messaging.RpcServices getStubType(Ljava/lang/String;)Ljava/lang/Class;
 example.messaging.RpcServices setRpcEnabled(Z)V
 example.messaging.RpcServices getServiceEndpoint(Ljava/lang/String;)Ljava/lang/String;
 Affect(row-cnt:14) cost in 339 ms.
+
+# 搜寻相关method
+[arthas@28030]$ sm *facade.LogicalSwitchImpl delete*
+com.example.LogicalSwitchFacadeImpl deleteLogicalSwitch(Ljava/lang/String;)V
+com.example.LogicalSwitchFacadeImpl deleteLogicalSwitch_aroundBody6(Lorg/aspectj/lang/JoinPoint;)V
+Affect(row-cnt:2) cost in 188 ms.
+
+# 查看method具体信息
+[arthas@28030]$ sm -d java.lang.String toString
+ declaring-class  java.lang.String                                                                                                
+ method-name      toString                                                                                                        
+ modifier         public                                                                                                          
+ annotation                                                                                                                       
+ parameters                                                                                                                       
+ return           java.lang.String                                                                                                
+ exceptions                                                                                                                       
+ classLoaderHash  null   
 ```
-##### watch
+##### [watch](https://arthas.gitee.io/watch.html)
 确定method后就可以watch操作
 ```console
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint
@@ -375,4 +396,61 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
     ],
     null,
 ]
+
+# 只看入参细节
+[arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params}" -x 3
+# 只看入参数目为6个的方法细节,过滤同名overload的其他方法
+[arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params[0],params[1]}" "params.length==6" -x 2
+# 命令过滤参数只有一个，多个条件需要通过逻辑操作符 && || 来关联
+# 下面过滤条件是 入参个数6个并且入参集合的size要大于2
+[arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].size()>2" -x 2
+# 下面过滤条件是 入参个数6个并且入参集合elements包含MyProvider元素类型的个数要大于0
+# 对于集合类型参数表达式 params[0].{? #this instanceof com.example.MyProvider}将返回一个新集合对象
+[arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].{? #this instanceof com.example.MyProvider}.size()>0" -x 2
+```
+
+##### [stack](https://arthas.gitee.io/stack.html)
+如果想查看调用栈可以stack操作, 一直能上溯看到谁调用到此方法
+```console
+# 记录LogicalSwitchImpl所有方法被触发的调用栈数据
+[arthas@28030]$ stack *facade.LogicalSwitchImpl *
+# 按条件记录调用栈数据
+[arthas@28030]$ stack *PolicyEngineHandler invokeProviders "params.length==6 && params[0].{? #this instanceof com.example.MyProvider}.size()>0"
+```
+
+##### [trace](https://arthas.gitee.io/trace.html)
+如果想查看调用栈可以trace操作，往下看到后面每一个被调用的方法及执行时间
+```console
+# 记录LogicalSwitchImpl所有方法被触发的调用栈数据
+[arthas@28030]$ trace *facade.LogicalSwitchImpl delete*
+```
+
+##### stop
+如果要结束session执行stop操作
+```console
+[arthas@28030]$ stop
+```
+
+##### [classloader](https://arthas.gitee.io/classloader.html)
+查看classloader的继承树，urls，类加载信息
+```console
+[arthas@28030]$ classloader -t
++-BootstrapClassLoader                                                                                                            
++-sun.misc.Launcher$ExtClassLoader@5bd73952                                                                                       
+  +-com.taobao.arthas.agent.ArthasClassloader@87787d2                                                                             
+  +-com.taobao.arthas.agent.ArthasClassloader@37d87bb4                                                                            
+  +-sun.misc.Launcher$AppClassLoader@33909752                                                                                     
+    +-java.net.URLClassLoader@6462dee1                                                                                            
+      +-ParallelWebappClassLoader                                                                                                 
+          context: nsxapi                                                                                                         
+          delegate: false                                                                                                         
+        ----------> Parent Classloader:                                                                                           
+        java.net.URLClassLoader@6462dee1                                                                                          
+                                                                                                                                  
+        +-org.apache.jasper.servlet.JasperLoader@750f747d                                                                         
+Affect(row-cnt:8) cost in 35 ms.
+
+# 查找class文件或resource文件从什么地方加载的
+[arthas@28030]$ classloader -c 750f747d -r java/lang/String.class
+ jar:file:/usr/lib/jvm/zre-8-amd64/lib/rt.jar!/java/lang/String.class 
 ```

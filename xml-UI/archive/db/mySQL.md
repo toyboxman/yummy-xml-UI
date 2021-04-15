@@ -22,6 +22,7 @@
             `MySQL把utf8改成utf8mb4`
 - [MySQL重要知识点](https://mp.weixin.qq.com/s/4l_0kriTW82V9Gkd6TVdEg)  
     `事物的四大特性(ACID)/索引相关/存储引擎/乐观锁与悲观锁的区别/锁机制与InnoDB锁算法/大表优化`
+    - [MySQL中的page页](https://mp.weixin.qq.com/s/mRLoM9HNTee0lSwmbfZOcw)
 - [MySQL使用规范](https://mp.weixin.qq.com/s/yMo17C3AyD2ZkXwD33NtZQ)  
     `命令规范/设计规范/字段设计规范/索引设计规范/SQL开发规范/操作行为规范`
 - [鸟瞰MySQL](https://mp.weixin.qq.com/s/yuEW2CYDmkLX695Bd2sgtw)  
