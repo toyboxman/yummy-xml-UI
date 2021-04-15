@@ -399,12 +399,12 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 
 # 只看入参细节
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params}" -x 3
-# 只看入参数目为6个的方法细节,过滤同名overload的其他方法
+# 只看满足入参数目为6个的method细节,过滤同名overload的其他方法
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params[0],params[1]}" "params.length==6" -x 2
 # 命令过滤参数只有一个，多个条件需要通过逻辑操作符 && || 来关联
-# 下面过滤条件是 入参个数6个并且入参集合的size要大于2
+# 下面过滤条件是 入参个数6个并且其中第一个参数(为集合类型)的size要大于2
 [arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].size()>2" -x 2
-# 下面过滤条件是 入参个数6个并且入参集合elements包含MyProvider元素类型的个数要大于0
+# 下面过滤条件是 入参个数6个并且其中第一个参数(为集合类型)的elements包含MyProvider元素类型的个数要大于0
 # 对于集合类型参数表达式 params[0].{? #this instanceof com.example.MyProvider}将返回一个新集合对象
 [arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].{? #this instanceof com.example.MyProvider}.size()>0" -x 2
 ```
