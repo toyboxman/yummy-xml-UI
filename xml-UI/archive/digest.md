@@ -232,6 +232,8 @@
         - [NodeJS创建web服务器与客户端](https://mp.weixin.qq.com/s/l2rQ9NyQMcP5t7z2qoCxmQ)
         - [搭建一个node的API接口服务](https://mp.weixin.qq.com/s/M7AOLgu-hTspie-B49o0Tg)
         - [NodeJS进程与线程](https://mp.weixin.qq.com/s/N6Omr5HwSPl6JjE2ultoVg)
+    - [ECharts绘制html复杂图形](https://mp.weixin.qq.com/s/6OmclOgP_Vaj36xbJhMxYA)
+        `ECharts前端强大的图表K线等绘制工具`
     - [Django编写Python Web API](https://mp.weixin.qq.com/s/XLBr2paFOlAtrij-VcFeFA)
     - [FileSaver.js客户端保存文件](https://mp.weixin.qq.com/s/EcoCQuSHluHyG0afb7-T1Q)  
         `客户端上生成文件的Web应用程序`
@@ -337,6 +339,7 @@
     `性能/可靠性/可用性/容错性/可信赖性/可伸缩性/安全性/互操作性/可调整性/可部署性/可测试性/简单性/可移植性/易用性/可扩展性/抗脆弱性/可升级性/合规性/成本/可存档性/可审核性/可跟踪性`
     + [高可用系统架构设计](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)  
     `可扩展/可隔离/解耦性/限流(漏桶算法/令牌桶算法/滑动窗口计数法/动态限流)/降级/熔断/灰度发布回滚`
+        - [灰度发布系统架构](https://mp.weixin.qq.com/s/vYJw4-rK_VkOjt6odQbDNg)
     + [架构伸缩性原则](https://mp.weixin.qq.com/s/77-owRKydWDQ14Lu4mmpiw)  
     `成本/系统瓶颈/故障服务/数据层伸缩/缓存/监控`
     + [关于技术盘点和总结](https://mp.weixin.qq.com/s/4NkQ70WdLybM0fGgo7nC2g)  
@@ -500,6 +503,7 @@
         `过滤/通配符/计算字段/函数/子查询/连接/字符集...`
         - [理解SQL](https://mp.weixin.qq.com/s/M3MsrV4DyZpLwQVcAgxvsw)  
             `SQL并不按照语法顺序执行/五种表连接的方式`
+        - [数据库表连接的解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)
         - [Group by慢查询优化](https://mp.weixin.qq.com/s/TqigpgwtZR-o9xZcg29uDg)  
             `group by/distinct 500万数量级数据查询`
         - [Insert into select致锁表](https://mp.weixin.qq.com/s/e9a67_c5igJ-yhbmBQn5SQ)  
@@ -543,6 +547,7 @@
 
 #### Bigdata
 + [如何搭建一个大数据平台](https://mp.weixin.qq.com/s/GNYg4U1VWVYXAo5efcn5Lg)
++ [工业互联网大数据平台建设方案](https://mp.weixin.qq.com/s/4pymKCmsMVX4cH1twpVt-Q)
 + [spark](big-data/spark.md)
     - [Spark调度系统](https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw)
     - [Spark中编写可伸缩代码](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
@@ -700,6 +705,7 @@ monitor in:description language:python
 + [JavaSE演进新方向](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
     - [Java9转身微服务](https://mp.weixin.qq.com/s/NJ-UoD5XgMz97KtnLoA6yw)
 + [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
+    - [JVM8的内存结构](https://mp.weixin.qq.com/s/-_tlaPtm361O8PBwChhIfA)
     - [内存分配和垃圾回收](https://mp.weixin.qq.com/s/334SLntT6yVqRC1IrSaIbA)
     - [Hotspot VM中CMS+ParNew GC问题分析与解决](https://mp.weixin.qq.com/s/RFwXYdzeRkTG5uaebVoLQw)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
@@ -760,6 +766,7 @@ monitor in:description language:python
 + [Java-Summarize](https://github.com/zaiyunduan123/Java-Summarize)
 + [JVM底层原理知识](https://github.com/doocs/jvm)
 + [大厂面试指北](https://github.com/NotFound9/interviewGuide)
++ [Java-interview](https://mp.weixin.qq.com/s/jnLyvrypsGL9avExjFCoZQ)
 + [go-interview](https://github.com/shomali11/go-interview)
 #### Contract
 + Offer negociation[[1](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q), [2](https://mp.weixin.qq.com/s/mr9URCUSzgESLRkhhgHEdA)]
