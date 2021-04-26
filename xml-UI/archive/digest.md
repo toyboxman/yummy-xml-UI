@@ -161,6 +161,7 @@
 + [***C++编译器工作原理***](https://github.com/selfboot/CS_Offer/blob/master/C%2B%2B/Compiler.md)
 + [依赖反转/控制反转/依赖注入](https://mp.weixin.qq.com/s/IZXdP3yFww_2re3KYuZFXg)
 + ***Algorithm***
+    - [一致性哈希算法](https://mp.weixin.qq.com/s/rcSlMXDM8s7UiSh7UoPZxA)
     - [自然语言处理NLP](https://mp.weixin.qq.com/s/K6h0duwaDMk5RES8ALmLNA)
     - [推荐算法原理](https://mp.weixin.qq.com/s/c2nDkKvR7-10xcfv2fVNlg)
 	- [海量数据中判断一个数据是否存在](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
@@ -372,6 +373,7 @@
 + 高并发系统
     - [高并发系统的设计](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)  
         `秒杀业务设计要素`
+    - [高可用架构设计之无状态服务](https://mp.weixin.qq.com/s/IJK8dMJBbpGIgbHDybpr9A)
     - [高性能高并发技术对CPU,内存,I/O要求](https://mp.weixin.qq.com/s/P-mPAWxScFAThoNF3M2y3A)
     - [高并发服务限流实践](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)  
         `Guava的RateLimiter提供了令牌桶算法实现：平滑突发限流(SmoothBursty)和平滑预热限流(SmoothWarmingUp)`
@@ -449,6 +451,8 @@
     + [API对比-RPC/SOAP/REST/GraphQL](https://mp.weixin.qq.com/s/HDuV-oXKsbGFZ0HOpj8ydw)
 + [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)  
     `雪崩效应/缓存穿透/HystrixCommand/资源隔离/熔断`
++ [头条技术架构分析](https://mp.weixin.qq.com/s/rzFdLeLwCAqq0DI13kOQkQ)
++ [京东开放平台消息系统](https://mp.weixin.qq.com/s/-_ojzdrhx9GIaN0xJzeFrA)
 + [网易基于Filebeat的日志采集服务设计与实践](https://mp.weixin.qq.com/s/HpOZ9_T1EVK8DBNb3qt-Nw)
 + [快手大数据平台服务化实践](https://mp.weixin.qq.com/s/OelgWc7ptjFmShxiikdARQ)
 + [微信直播聊天室架构演进](https://mp.weixin.qq.com/s/poZo0uHl88n9TadBKUzFVA)

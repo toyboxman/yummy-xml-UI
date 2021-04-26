@@ -930,6 +930,7 @@ $ find $(pwd) -type f -name *.xml
 /home/king/source/pom.xml
 
 # exec 两种输出方式结果一致, {} + 方式输出格式自动对齐
+# {}表示find传入参数
 find source/lib/ -name *.jar -exec file {} +
 find source/lib/ -name *.jar -exec file {} \;
 # 将所有com包中java源文件合并到src.txt并统计行数
@@ -949,6 +950,9 @@ $ find /home -user king -exec file {} \;
 $ find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
 Archive:  ./commons-compress-1.8.1.jar
 3352  2014-05-09 20:45   org/apache/commons/compress/utils/ClassUtils.class
+# 解压lib目录下所有jar包文件中class文件，不提示覆盖选择，不输出处理文件列表 {}表示find传入参数
+$ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o -qq {} "*.class" \;
+$ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o {} "*.class" > /dev/null \;
 
 # remove all files with 'tgz' suffix found
 find / -iname '*.tgz' -exec rm {} \;
@@ -1608,6 +1612,12 @@ gzip -dtest spring.gz
 $ unzip -dlib lib.zip  
 # 解压 lib.zip 到 /usr/share/tmp 目录
 $ unzip lib.zip -d /usr/share/tmp  
+# -o 解压时候覆盖文件时不要提示 批处理解压时候避免手动介入
+# -qq 解压时候不输出文件列表 批处理时候可以加快处理速度
+$ unzip lib.zip -qq -od /usr/share/tmp  
+# 解压lib目录下所有jar包文件中class文件，不提示覆盖选择，不输出处理文件列表 {}表示find传入参数
+$ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o -qq {} "*.class" \;
+$ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o {} "*.class" > /dev/null \;
 
 # 解压 all FORTRAN and C source files--*.f, *.c, *.h, and Makefile--至 /tmp 目录:
 $ unzip source.zip "*.[fch]" Makefile -d /tmp
@@ -1628,19 +1638,26 @@ $ unzip -fo lib.war -d WEB-INF/
 # tar xvf - 减号指定stdin读取内容并在当前目录解压
 $ gzip -dv < bankApp.tar.gz | tar xvf -   
 
+# -r  recurse into directories 增加目录及子目录到zip文件中
+$ zip -r auth-1.0.jar antrun/src
+
+# 查看auth-1.0.jar最新文件列表
+$ unzip -l auth-1.0.jar 
+211  2019-11-07 22:28   antrun/build-main.xml
+# 编辑antrun/build-main.xml再执行更新-rv操作
 # -rv 增加并更新zip中文件, 与tar -rv只增加不替换文件处理不一样
 # 把antrun/build-main.xml 添加到auth-1.0.jar
 $ zip -rv auth-1.0.jar antrun/build-main.xml 
-# 查看auth-1.0.jar最新文件列表
-$ unzip -l userauth-1.0-tests.jar 
-211  2019-11-07 22:28   antrun/build-main.xml
-# 编辑antrun/build-main.xml再执行更新-rv操作
 # zip文件中对应文件已经被update成最新
 214  2019-11-11 10:50   antrun/build-main.xml
 
-# -uv 更新zip中文件
-# 执行-uv也能达到更新作用
+# -u  update: only changed or new files 更新或新增文件到zip中
+# -uv 更新zip中文件并显示修改文件列表
 $ zip -uv auth-1.0.jar antrun/build-main.xml 
+
+# 把当前目录所有文件及子目录都压缩到zip文件中
+# -qq 不输出处理文件的列表
+$ zip -ruqq ../all.jar ./* 
 
 # -d 删除zip中的文件
 $ zip -d auth-1.0.jar antrun/build-main.xml
