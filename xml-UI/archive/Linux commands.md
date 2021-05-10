@@ -2563,6 +2563,7 @@ cat /sys/class/net/eth0/speed
 + nftables[[1](https://mp.weixin.qq.com/s/mWG6mZf9ZBAzMngzWkiHAA), [2](https://mp.weixin.qq.com/s/9uigzKLaSYAPkivaYqEHrw)]
 + [防火墙ufw简介](https://mp.weixin.qq.com/s/ah0cT35qzooxFdZ8tMSZCQ)
 + [FirewallD支持iptables到nftables演进](https://mp.weixin.qq.com/s/y0cBmkpuRm8ZOCG3yg8CGg)
++ [跟踪网络地址转换(NAT)报文](https://mp.weixin.qq.com/s/wRrQuxMxuc1StZ6Wj-sLtg)
 
 ```console
 # 列出防火墙所有规则，按规则号显示

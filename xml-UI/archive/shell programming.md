@@ -20,7 +20,7 @@
 - [SET](http://www.ruanyifeng.com/blog/2017/11/bash-set.html)  
 	`用来修改Shell环境的运行参数,一共有十几个参数可以定制,如-e Bash的错误处理`
 - [Examples](#shell-example)
-	+ 如何编写bash脚本[[1](https://mp.weixin.qq.com/s/rXYHpElNJiHF-O-i5wdE-Q), [2](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg), [3](https://mp.weixin.qq.com/s/d6FmL-FGEaji0OzyOYFFRA), [4](https://mp.weixin.qq.com/s/6f5cowUSJC7hM9uy2hRUJw)]
+	+ 如何编写bash脚本[[1](https://mp.weixin.qq.com/s/rXYHpElNJiHF-O-i5wdE-Q), [2](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg), [3](https://mp.weixin.qq.com/s/d6FmL-FGEaji0OzyOYFFRA), [4](https://mp.weixin.qq.com/s/6f5cowUSJC7hM9uy2hRUJw), [5](https://mp.weixin.qq.com/s/Y7Z-DUkLb6Qk60yom46YIA)]
 	+ [网道Bash脚本教程](https://wangdoc.com/bash/string.html)
 	+ [Shell Built-in Commands](https://mp.weixin.qq.com/s/8E7Q3GEHPpD5wklYPYFOew)
     + [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)

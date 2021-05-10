@@ -8,6 +8,7 @@
 - [Kerberos authentication](https://zh.wikipedia.org/wiki/Kerberos)
 - [TLS、SSL 和 CA](https://mp.weixin.qq.com/s/K-LwZ4LfTBpAUerm2zDjbg)
 - [SSL证书、私钥和 CSR](https://mp.weixin.qq.com/s/N5s_d3DNwsyAkuFRLIBCRA)
+- [OpenSSL 加密和解密文件](https://mp.weixin.qq.com/s/LeIe348OoWzEsSQIdjN1Lw)
 
 ---
 

@@ -495,6 +495,9 @@ retransform和redefine两个命令有点差异:
 Affect(row-cnt:8) cost in 35 ms.
 
 # 查找class文件或resource文件从什么地方加载的
+[arthas@30000]$ sc -d *EntityType | grep code-source                                    
+ code-source       /opt/tomcat/webapps/api/WEB-INF/lib/model.jar
+
 [arthas@28030]$ classloader -c 750f747d -r java/lang/String.class
  jar:file:/usr/lib/jvm/zre-8-amd64/lib/rt.jar!/java/lang/String.class 
 ```

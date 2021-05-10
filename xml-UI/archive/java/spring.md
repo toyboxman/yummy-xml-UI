@@ -356,8 +356,9 @@ spring允许通过 **@Component** **@Configuration**等标签 [[***1***](https://www.ba
     ```
 
 - **bean Circular Dependencies**
-出现beans之间互相依赖可以用这样[lazy-workaround](https://www.baeldung.com/circular-dependencies-in-spring)等方式解决
-
+出现beans之间互相依赖可以用下面方式解决  
+    + [循环依赖的解决思路](https://mp.weixin.qq.com/s/wqQEDC9IXB9UCscATzR9cQ)
+    + [lazy-workaround](https://www.baeldung.com/circular-dependencies-in-spring)
 <div id = "u2s1"></div>
 
 #### bean creation order

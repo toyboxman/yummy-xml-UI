@@ -890,6 +890,7 @@ done
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
 + [晚唐十大诗人](https://mp.weixin.qq.com/s/d9Uw_bjAZhIutSA__IMTAA)
     - [长相思，在长安](https://mp.weixin.qq.com/s/CsaPd7yRoky6yWMrySSjsw)
+    - [杜牧](https://mp.weixin.qq.com/s/7C_kgNf4KJY3ZRXsGtZ4RA)
 + [苏轼最智慧的20首诗词](https://mp.weixin.qq.com/s/sAkqckFXhSMXCLRx-kdynA)
     - [酒力渐浓春思荡-柳永](https://mp.weixin.qq.com/s/OBZJD610g4S4IKxcHvyKtw)
 + [诗经简史](https://mp.weixin.qq.com/s/GBMJ4KabwcNtuanbVaMwIQ)
