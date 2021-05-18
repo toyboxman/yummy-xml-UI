@@ -577,8 +577,10 @@ git log master..origin/master
 
 ### git rev-list
 ```console
-# 统计指定提交与HEAD之间提交总数
+# 统计指定提交与当前branch的HEAD之间提交总数
 git rev-list a9e5e1dc6afd..@ --count
+# 统计指定提交与指定branch的HEAD之间提交总数
+git rev-list 178ac735e4097f..origin/master --count
 
 # 统计两个分支提交数目差
 git branch -vv
@@ -706,6 +708,9 @@ git grep -in 'Converter' origin/master:src/main/java origin/dev:src/main/java
 git grep -in 'if(' -- '*.java' '*.cpp'
 # 在repo指定路径下指定文件类型搜索关键字
 git grep "ProfileProxy" -- policy/staging/*.java
+# 当前路径src目录下按照正则表达式搜索包含sync并带括号的匹配项
+# 由于括号是正则表达式保留符号因此用反斜杠转义
+git grep -inE "public static .*sync.*\(" src/
 ```
 
 ### git gc
