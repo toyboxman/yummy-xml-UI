@@ -294,7 +294,7 @@ date +"%D %T:%s"
 
 # 加减时间，只能支持整数类型
 #
-# 将系统时间往前调20秒
+# 将系统时间往前调20秒, 如当前 1:30:15-->1:30:25
 # s, --set=STRING    将系统时间调整成STRING指定时间 
 date -s "+20 seconds"
 # 系统调整为如下时间
@@ -308,6 +308,8 @@ date -s 'next year'
 date -s 'last year'
 date -s 'last month'
 date -s 'next month'
+# 简单将两个机器时间设为相同
+now=`ssh root@10.187.156.83 date`;date -s "$now"
 
 # 显示当前时间和一小时之后时间
 # -d, --date=STRING   解析显示STRING参数传入的date
