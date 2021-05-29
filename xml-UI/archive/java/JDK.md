@@ -436,6 +436,43 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 ```console
 # 记录LogicalSwitchImpl所有方法被触发的调用栈数据
 [arthas@28030]$ trace *facade.LogicalSwitchImpl delete*
+# 同上面命令但是可以追踪jdk的方法调用
+[arthas@28030]$ trace --skipJDKMethod false *LogicalSwitchImpl delete*trace
+# 通过正则表达追踪多个对象方法
+trace -E class1|class2 method1|method2
+```
+
+##### [getstatic](https://arthas.gitee.io/getstatic.html)
+如果想查看类的静态域值，可以直接查看而不论其是否是private
+```console
+# 查看System的静态域 out
+[arthas@14150]$ getstatic java.lang.System out
+field: out
+@SystemLogHandler[
+    out=@PrintStream[java.io.PrintStream@66e9451],
+    logs=@ThreadLocal[java.lang.ThreadLocal@3ef93cfa],
+    reuse=@Stack[isEmpty=true;size=0],
+    autoFlush=@Boolean[false],
+    trouble=@Boolean[false],
+    formatter=null,
+    textOut=@BufferedWriter[java.io.BufferedWriter@36f5eebf],
+    charOut=@OutputStreamWriter[java.io.OutputStreamWriter@2be0b283],
+    closing=@Boolean[false],
+    out=@PrintStream[java.io.PrintStream@66e9451],
+]
+Affect(row-cnt:1) cost in 101 ms.
+
+# 如果查看class不在当前classloader，还可以指定hash值
+[arthas@14150]$ sc -d <class>
+[arthas@14150]$ getstatic -c 3d4eac69 <class> <field>
+# 还可以搭配 ognl 条件式来处理输出结果
+# n是一个Map域，Map的Key是一个Enum，过滤出Map中Key为STOP的Enum值
+[arthas@14150]$ getstatic com.alibaba.arthas.Test n 'entrySet().iterator.{? #this.key.name()=="STOP"}'
+field: n
+@ArrayList[
+    @Node[STOP=bbb],
+]
+Affect(row-cnt:1) cost in 68 ms.
 ```
 
 ##### [retransform](https://arthas.gitee.io/retransform.html)

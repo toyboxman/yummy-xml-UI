@@ -83,6 +83,7 @@
             `逻辑运算 非(NOT)/与(AND)/或(OR)/异或(XOR)`
         - [Linux系统结构详解](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)  
             `内核/shell/文件系统/应用程序`
+        - [Linux调度系统](https://mp.weixin.qq.com/s/A6WIAKDg5uJMBWc2q5CiRg)
         - [Linux内核的五大创新](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)  
             `控制组(cgroups)功能/Linux内核内存[一致性]模型(LKMM)子系统/读-拷贝-更新(RCU)/非统一内存访问(NUMA)`
         - [编译原理](https://mp.weixin.qq.com/s/4KvNaO15-bdrp8rkkCUQuw)
@@ -113,6 +114,7 @@
         - 进程间通信-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
         - [内存知识总结](https://mp.weixin.qq.com/s/IdqCXR4BrqjE0CFNEPKXrQ)
+        - [Linux的内存管理](https://mp.weixin.qq.com/s/yDUyMxQdTlSLlPo-RGlnrg)
         - [虚拟内存](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
         - [内存Swap/Cache/Buffer](https://mp.weixin.qq.com/s/23SETiyjJzVoW5NBuznwyQ)
             - [为什么Linux需要Swapping](https://mp.weixin.qq.com/s/bgCRvenn6OcYXobzXtEwgQ)
@@ -146,6 +148,7 @@
 #### Programming
 + [***Github***](#github)
     - [代码质量审核和管理工具](https://mp.weixin.qq.com/s/DBTJ1tF9u9urwwe0CsgChQ)
+    - [代码重构的原则和技巧](https://mp.weixin.qq.com/s/HlbURQBw35RUJOu5XEX9KA)
 + [***Java***](#java)
 + ***Scala***
     - [basic](scala/scala-basic.md)
@@ -352,6 +355,7 @@
     - [分布式架构的前世今生](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)    
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  
         `CAP/BASE/分布式事务/分布式锁/Paxos/Raft`
+        - [2PC/3PC](https://mp.weixin.qq.com/s/9eHXz0dxYgJyNz4lpKfBNA)
     - 分布式系统原理[[1](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg), [2](https://mp.weixin.qq.com/s/l-wM3owg_HYdRhzNl3d5dQ)]
     - [B2C电商支付中心产品架构](https://mp.weixin.qq.com/s/ZfSu2M0WLKvELY7GuvlRaQ)  
         `收单系统/清结算系统/账户系统/对账系统/支付安全`
@@ -715,6 +719,7 @@ monitor in:description language:python
     - [内存分配和垃圾回收](https://mp.weixin.qq.com/s/334SLntT6yVqRC1IrSaIbA)
     - [Hotspot VM中CMS+ParNew GC问题分析与解决](https://mp.weixin.qq.com/s/RFwXYdzeRkTG5uaebVoLQw)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
+    - [归还内存](https://mp.weixin.qq.com/s/7j3yM0rjaInMMCqs8T8uMg)
     - [JVM面试问题](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
 
 #### tools
