@@ -374,10 +374,12 @@ Spring自动产生bean实例的时候可以指定先后顺序，通过[**@Order**](https://www.baeld
     </Console>
   </Appenders>
   <Loggers>
+    <!-- 找到当前系统运行指定的log4j2.xml文件将下面loggger配置加入即可 -->
     <!-- org.springframework.beans.factory负责bean的产生 -->
-    <Logger name="org.springframework.beans.factory" level="DEBUG"/>
+    <Logger name="org.springframework.beans.factory" level="DEBUG">
       <!-- 指定日志输出的appender -->
       <AppenderRef ref="Console"/>
+    </Logger>
   </Loggers>
 </Configuration>
 ```
