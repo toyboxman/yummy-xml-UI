@@ -422,6 +422,7 @@
         `HTTP/2.0 多路复用/单个连接维持的成本更高/负载均衡机制`<br>
         `负载均衡机制/连接的管理(K8s+Istio)/性能测试`
     - API网关
+        - [微服务网关需求](https://mp.weixin.qq.com/s/7pYWWPF5Ux8ULJkANE72rg)
         - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)    
             `阿里云API网关应用经验`
         - [京东API网关实践之路](https://mp.weixin.qq.com/s/eEArVvp-q5ocQVM9vVj2Mg)            
