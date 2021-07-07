@@ -646,8 +646,8 @@ GitHub提供代码库检索功能
 # 3.匹配关键字 process
 process in:file language:java extension:java
 
-# 从项目readme文件中匹配关键字debug
-debug in:readme language:java
+# 从项目readme文件中匹配关键字 IntelliJ Plugin
+"IntelliJ Plugin" in:readme language:java
 
 # 从项目描述文件中匹配关键字monitor
 monitor in:description language:python
