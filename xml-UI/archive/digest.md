@@ -175,6 +175,7 @@
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
     - [图解基数排序](https://mp.weixin.qq.com/s/FbBZotOtue3pB5BuWLa4ng)
     - [链表解题](https://mp.weixin.qq.com/s/_1Jcnww8cJfGklm2RMUj0g)
+    - [基于DAG的任务编排](https://mp.weixin.qq.com/s/5Bou4SM3iB6ouxFpHsd9bA)
     - TCP三次握手和四次挥手[[1](https://mp.weixin.qq.com/s/RTIfYMGCyVT4RKFXz4O6vw), [2](https://mp.weixin.qq.com/s/GwlqtvJM7rvfqLzmCsYexA)]
     - [浮点计算精度](https://mp.weixin.qq.com/s/0fke_MhsJ1lrQWOGdtyPlQ)
     - [排序的复杂度](https://mp.weixin.qq.com/s/Y3swfRwEyAi572ek5B870g)
@@ -914,3 +915,4 @@ done
 + [真正能扛事的人什么样](https://mp.weixin.qq.com/s/nHS3Z5PCjYFG9X2E4_cbxQ)
 + [乔姆斯基哲学主张](https://mp.weixin.qq.com/s/BArw5pOy5Wu0HMuY9nMyig)
 + [中国革命的八种史学名著](https://mp.weixin.qq.com/s/z-GHSqGcnEpwWwPRfuoBYw)
++ [当代史学家文章](https://mp.weixin.qq.com/s/TEuphpArkvLkuqWLkOYIUA)
