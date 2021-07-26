@@ -427,6 +427,8 @@
         - [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)    
             `阿里云API网关应用经验`
         - [京东API网关实践之路](https://mp.weixin.qq.com/s/eEArVvp-q5ocQVM9vVj2Mg)            
+    - Spring Cloud
+        - [图示架构](https://mp.weixin.qq.com/s/gS-aMU5Zt9iDzhV4fNzY9Q)  
     - Dubbo
         - [Dubbo架构](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)  
         `服务注册中心/动态代理层Proxy/Cluster集群层/protocol协议层/Exchange信息交换层/Transport网络通信层`
