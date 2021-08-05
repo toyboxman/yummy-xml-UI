@@ -732,6 +732,8 @@ monitor in:description language:python
 + Mac常用工具[[英文](https://github.com/jaywcjlove/awesome-mac), [中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)]
     + Dash for Mac    
     一个好用的 API 文档浏览器和代码段管理器。程序员经常查看各种 API 文档，Dash 可以帮你从繁琐的搜索中解脱，它基本覆盖了所有主流和非主流语言、框架和库的文档。你还可以生成自己的文档集、请求文档集或从第三方来源下载文档集
++ 远程桌面
+    - [RustDesk](https://mp.weixin.qq.com/s/j0PLWjfD4b0RjgIjZHhCYw)
 + Markdown
     - [Markdeep扩展能力Markdown](https://mp.weixin.qq.com/s/ONNoK7r9Br-olOBnXRswkw)
 	- [4个Linux 命令行下的 Markdown 工具](https://mp.weixin.qq.com/s/9RRveBQU3iXEc04-rmCwVQ)

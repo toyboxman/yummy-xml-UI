@@ -35,7 +35,7 @@
 	+ [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
 	+ [Bash函数定义](#exp10)
 	+ [Shell脚本单例运行](https://mp.weixin.qq.com/s/F3iojH8R0kvqhzzJeQiSSA)
-	+ [数学运算](https://mp.weixin.qq.com/s/JAdUxU3ziqT1dw8vhjXHyQ)
+	+ [数学运算 bc/basic calculator](https://mp.weixin.qq.com/s/JAdUxU3ziqT1dw8vhjXHyQ)
 	+ [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
 	+ [列出大型文件系统中文件,目录](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
 	+ [合并和排序Linux上的文件](https://mp.weixin.qq.com/s/JDiSdFHLrJJzLG2BI4eVKQ)
