@@ -107,6 +107,7 @@
             - [CPU空闲时在干嘛](https://mp.weixin.qq.com/s/xmoflmIRTCgbXLgMg1RJug)
             - [写出让CPU跑得更快的代码](https://mp.weixin.qq.com/s/0UhFA8y7KmEhzDAoMxiehA)  
                 `越靠近CPU核心的缓存其访问速度越快，CPU访问 L1 Cache需要2~4个时钟周期，L2 Cache需要10~20个时钟周期，L3 Cache需要20~60个时钟周期，而访问内存速度大概在200~300个时钟周期`
+            - [x86 Linux实现10微秒误差的高精度延时](https://mp.weixin.qq.com/s/WRO-k1XReXd1V5Qn-Ah3tw)    
         - Linux进程总结[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
         - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
             - [进程/线程切换开销](https://mp.weixin.qq.com/s/zZbk9p-0HyICiFGDBaaRTw)
@@ -136,6 +137,7 @@
         - [负载均衡三种模型(NAT/DR/TUN)](https://mp.weixin.qq.com/s/d74E2iF2RCJERmc_Fy4wFg)
         - [IPv6难以取代IPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
         - [TCP疑难杂症](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
+            - [TCP泄露操作系统信息](https://mp.weixin.qq.com/s/hQhL5uditC89-hBz9uIQ4g)
         - [虚拟网络](https://mp.weixin.qq.com/s/ihVGXk4-ZTgEozFMq7M7rg)
         - [Linux服务端最大并发数是多少](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
             - [一台Linux服务器最多能支撑多少个TCP连接](https://mp.weixin.qq.com/s/u_n3OloVxvXFmEPO_g1Lrw)
@@ -386,6 +388,7 @@
         `超卖问题/接口防刷/秒杀url/数据库设计/高并发/Hystrix服务降级`
     - [正确设置数据库连接池降低时延](https://mp.weixin.qq.com/s/CGmH4jmpTYODwnfpywRr1Q)  
         `连接池越大，速度越慢了。你需要一个小连接池，和一个充满了等待连接的线程的队列`
+    - [高并发下实现一次快速的查询](https://mp.weixin.qq.com/s/FGl9olwLjpBCIWCQVwJuyQ)    
 + 数据处理系统
     - [服务升级数据迁移](https://mp.weixin.qq.com/s/d9RZX1dB3QWrmzUAGHZvEw)  
         `平滑迁移数据/迁移过程不停机/保证系统持续服务-->追日志法,双写法`
