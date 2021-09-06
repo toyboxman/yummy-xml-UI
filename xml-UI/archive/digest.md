@@ -580,6 +580,7 @@
 + MQ
     - [Kafka架构设计](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
     - [kafka全面理解](https://mp.weixin.qq.com/s/WCs52JiVCSmh__tOktiMdw)
+        - [图解kafka基本概念](https://mp.weixin.qq.com/s/D9Xb2e5q02rU2unU529Jmw)
     - [Kafka的“后浪”](https://mp.weixin.qq.com/s/KX9CaDEfQovWBLemUzk6vg)
     - [Kafka的生产者/消费者详析](https://mp.weixin.qq.com/s/T9hONRBS37cmolkWhtXs-g)
     - [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)

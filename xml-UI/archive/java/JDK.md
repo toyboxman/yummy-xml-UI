@@ -379,6 +379,7 @@ Affect(row-cnt:2) cost in 188 ms.
 ##### [watch](https://arthas.gitee.io/watch.html)
 确定method后就可以watch操作
 ```console
+# 默认情况输出调用方法的 {parameter/方法所属 class instance/return}
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint
 Affect(class count: 1 , method count: 1) cost in 481 ms, listenerId: 1
 ts=2020-12-16 13:30:41; [cost=1.273833ms] result=@ArrayList[
@@ -389,6 +390,10 @@ ts=2020-12-16 13:30:41; [cost=1.273833ms] result=@ArrayList[
     # 第三项返回是方法返回值
     null,
 ]
+
+# 查看 class instance 的 fields
+[arthas@16754]$ watch example.tracing.Tracer isDumbMode "{target}" -x 2
+traceConfig=@DefaultTraceConfig[DefaultTraceConfig{traceConfigName='remote_trace', flushInterval=1000, maxQueueSize=10000, samplerType='const', samplerParam=1, collectorIp='127.0.0.1', collectorPort='6831', isLogSpans='false'}],
 
 # 如果想看到更多细节，如参数细节等，可以通过 -x 2 设定往内看两层
 # OGNL表达式 "{params,target,returnObj}" 设定result包含参数/类实例/返回值数据, 这是默认的返回数据格式
