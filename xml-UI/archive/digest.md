@@ -152,6 +152,7 @@
     - [代码质量审核和管理工具](https://mp.weixin.qq.com/s/DBTJ1tF9u9urwwe0CsgChQ)
     - [代码重构的原则和技巧](https://mp.weixin.qq.com/s/HlbURQBw35RUJOu5XEX9KA)
 + [***Java***](#java)
+    - [Kotlin vs Java](https://mp.weixin.qq.com/s/wOUg-iuvjF4udlrXXIXlFA)
 + ***Scala***
     - [basic](scala/scala-basic.md)
     - [collections](scala/scala-collections.md)
