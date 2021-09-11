@@ -439,9 +439,11 @@
         `服务注册中心/动态代理层Proxy/Cluster集群层/protocol协议层/Exchange信息交换层/Transport网络通信层`
         - [Dubbo心跳设计](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)  
         `TCP短连接/长连接/保活/Netty-HashedWheelTimer`
-	- [腾讯微服务平台的架构演进](https://mp.weixin.qq.com/s/C8cXSdHcqvuVMxybinFQPQ)  
+	- 服务网格
+        - [百度服务网格](https://mp.weixin.qq.com/s/DN0oXKeR0CnG30XmcF98tw)
+        - [陌陌Service Mesh架构](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
+    - [腾讯微服务平台的架构演进](https://mp.weixin.qq.com/s/C8cXSdHcqvuVMxybinFQPQ)  
         `原生Consul的能力与限制/多租户/性能优化`
-    - [陌陌Service Mesh架构的探索与实践](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
 	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)  
         `Spring Cloud攒起微服务经验-->Eureka/Ribbon容错/SpringBoot Tomcat/HttpClient连接池的Keep-Alive/滚动升级时的可用性保障`
     - [Uber面向领域的微服务架构](https://mp.weixin.qq.com/s/ZK1kJrmBo7rEeZg-K6spxQ)

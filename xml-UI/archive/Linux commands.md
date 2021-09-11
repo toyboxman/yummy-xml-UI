@@ -1540,6 +1540,9 @@ tar -xvf a.tar
 tar -czvf a.tar.gz folder1 folder2   
 # unzip and unpack a tar.gz file
 tar -xzvf jdk-8-linux-x64.tar.gz
+# 解包压缩文件中指定目录 
+# 可以先通过 -tvf 查看文件包中文件目录结构 比如 jdk-8-linux-x64/bin是jdk-8-linux-x64.tar.gz中一个目录
+tar -xzvf jdk-8-linux-x64.tar.gz jdk-8-linux-x64/bin
 # -C 参数指定解包到的目录， 默认是当前执行目录
 tar xzvf file.tgz -C path
 
