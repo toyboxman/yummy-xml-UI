@@ -42,7 +42,7 @@ Spring BootÄÜ»ùÓÚÏîÄ¿ÒÀÀµ×Ô¶¯ÅäÖÃÓ¦ÓÃ. ÀıÈç£¬Èç¹ûMySQL libÔÚclasspathÖĞ, ¶øÄãÃ»Å
 
 - **@ComponentScan**
 
-Spring Boot×Ô¶¯É¨ÃèËùÓĞÏîÄ¿ÖĞÓÃ´Ë±êÇ©ÉùÃ÷µÄcomponents
+Spring Boot×Ô¶¯É¨ÃèËùÓĞÏîÄ¿ÖĞÓÃ´Ë±êÇ©ÉùÃ÷µÄcomponents£¬°üÀ¨´øÓĞ@Controller£¬@Service£¬@Repository£¬@Component×¢½âµÄclass¡£Í¨¹ıincludeFilters¼ÓÈëÉ¨ÃèÂ·¾¶ÏÂÃ»ÓĞÒÔÉÏ×¢½âµÄÀà¼ÓÈëspringÈİÆ÷¡£Í¨¹ıexcludeFilters¹ıÂË³ö²»ÓÃ¼ÓÈëspringÈİÆ÷µÄÀà¡£
 
 - **@SpringBootApplication**
 
