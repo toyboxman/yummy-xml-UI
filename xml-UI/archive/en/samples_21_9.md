@@ -180,3 +180,22 @@ When he died, I was in **the early stages** of writing what became “Reading Whi
 
 It seems that Covid-19 has **dealt a collective trauma** to the American **consciousness** and that **the full fruit of** that trauma remains uncertain. One thing is clear: Our previous normal was **not as good as we thought it was**.
 Covid-19似乎对美国人的意识造成了集体性创伤，这种创伤的全部后果还不确定。有一件事是清楚无疑的:我们过去的常态并不如我们以为的那般坚固美好
+
+Much of its dialogue is in **Mandarin**. The **cast** includes Tony Leung, one of the biggest **Chinese-speaking** movie stars in history.
+大部分对白使用普通话。演员阵容包括梁朝伟，有史以来最著名的华语电影明星之一。
+
+The studio’s first Asian superhero movie is **a hit**, **drawing praise** and ticket sales in East Asia and other global markets. 
+漫威的首部亚裔超级英雄电影大获成功，在东亚和全球其他市场获得好评和票房收入
+
+Disney, which owns Marvel, **has yet to receive clearance** from Beijing’s regulators to show the film in the vast but heavily **censored** movie market. While the reasons aren’t clear, “Shang-Chi” may be a victim of the **low point** in U.S.-China relations.
+漫威的母公司迪士尼尚未获得北京监管机构的批准，无法在这个庞大但受到严格审查的电影市场放映这部电影。虽然原因尚不清楚，但《尚气》可能是美中关系低迷的受害者
+
+China is also **pushing back against Western influence**, with increasingly vocal nationalists **denouncing** foreign books and movies and the teaching of English
+中国也在抵制西方的影响，越来越多的民族主义者谴责外国书籍、电影和英语教学
+
+But in other parts of Asia, the movie has been **greeted warmly** by audiences for how it **depicts** a Chinese superhero **burdened** by a racist back story.
+但在亚洲其他地区，这部电影受到了观众的热烈欢迎，因为该片描述了一个被种族主义所累的华裔超级英雄
+
+The movie is a **retelling** of the story of a **little-known Marvel character** created in 1973
+这部电影重述了一个鲜为人知的漫威角色的故事，该角色创作于1973年
+
