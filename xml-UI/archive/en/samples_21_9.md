@@ -1,5 +1,5 @@
 **‘Reversing Gears’**: China Increasingly Rejects English  
-“开倒?”？中国弱化英语教育
+开倒车？中国弱化英语教育
 
 As a student at Peking University law school in 1978, Li Keqiang kept
 both pockets of his jacket **stuffed with handwritten paper slips**.   
@@ -404,4 +404,4 @@ I knew the war in Afghanistan had **gone off the rails** the day I had lunch in 
 这并不是说阿富汗人?不值得支持，即使是现在。他们确实值得。但是，通过更为深思熟虑的方式，花费更少的钱可以实现更多的目标。
 
 What does the Taliban takeover say about the war? It proves that you cannot buy an army. You can only rent one **for awhile**. Once the money **spigot** turned off, how many **stuck around to** fight for our vision of Afghanistan? 
-塔利班的接管对战争来说意味着什么?它证明了你无法购买一支军队。你只能租用一段时间。一旦资金?头关掉，有多少人坚持为我们的阿富汗愿景而战?
+塔利班的接管对战争来说意味着什么? 它证明了你无法购买一支军队。你只能租用一段时间。一旦资金?头关掉，有多少人坚持为我们的阿富汗愿景而战?
