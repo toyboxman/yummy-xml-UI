@@ -77,40 +77,40 @@ These two giants **went from** doing a lot of business on the table and occasion
 首先，我们需要问:在一个崛起的大国和一个维持现状的大国之 间，我们与中国的竞争/冲突在哪些方面是不可避免的，在哪些方面 可以通过明智的政策起到抑制作用?
 
 When China sold us “**shallow goods**,” we didn’t care whether its government was **authoritarian, libertarian or vegetarian**. But when it comes to our buying China’s “deep goods,” **shared values matter** and they are not there.
-当中国卖给我们“浅层商品”时，我 们不在乎它的政府是威权主义、自由主义还是素?主义。但当谈到 我们购买中国的“深层商品”时，共同价值观念很重要，但它们却并不存在。
+当中国卖给我们“浅层商品”时，我们不在乎它的政府是威权主义、自由主义还是素?主义。但当谈到我们购买中国的“深层商品”时，共同价值观念很重要，但它们却并不存在。
 
 if we are now going to **shift our focus** from the Middle East to an **irreversible strategy** of confronting China, we should **start by asking** three foundational questions
-如果我们现在要将关注 点从中东转移到对抗中国的不可逆转的战略上，我们应该先问三个 基本问题
+如果我们现在要将关注点从中东转移到对抗中国的不可逆转的战略上，我们应该先问三个基本问题
 
 Are we sure we understand **the dynamics of an immense and changing society** like China well enough to decide that its inevitable mission is the global spread of authoritarianism? Especially when this will require **a generational adversarial commitment** on the part of the United States, **engendering** in turn a **still more** nationalistic China?
-中国社会巨大且不断变化，我们是否对其动 态有真正足够的了解，就决定说在全球传播威权主义是它不可避免 的使命?尤其是当它需要美国将反对的决心代际传递下去，反过来 又会导致一个更加?族主义的中国?
+中国社会巨大且不断变化，我们是否对其动态有真正足够的了解，就决定说在全球传播威权主义是它不可避免的使命?尤其是当它需要美国将反对的决心代际传递下去，反过来又会导致一个更加民族主义的中国?
 
 Because without that, any **coalition will crumble**.
 因为做不到这一点的话，任何联盟都会瓦解
 
 When we make it the world **versus** China on what are the best and most just **international norms**, we isolate **the hard-liners** in Beijing and ***leverage** more Chinese reformers on our side.
-当我 们让世界与中国在何为最好和最公正的国际规范对立时，我们就可 以孤立北京的强硬派，并让中国更多的改革派站在我们这边。
+当我们让世界与中国在何为最好和最公正的国际规范对立时，我们就可以孤立北京的强硬派，并让中国更多的改革派站在我们这边。
 
 But China will not respond just to **high-minded** talk of international norms, even if faced with a global coalition. Such talk has to be **backed up** with economic and **military clout**.
 但即使面对一个全球联盟，中国也不会只对国际规范的高姿态谈话 作出回应。这种谈话必须得到经济和军事影响力的支持。
 
 It might **light a fire** under Americans to get serious about **national renewal**. But it might also light a fire to the whole U.S.-China relationship, affecting everything from supply chains to student exchanges to Chinese purchases of U.S. **government bonds**.
-它也许能点燃美国人对国家复兴的激情。 但这也可能点燃整个美中关系，影响从供应链到学生交流，再到中 国购买美国政府债券的方方面面。
+它也许能点燃美国人对国家复兴的激情。 但这也可能点燃整个美中关系，影响从供应链到学生交流，再到中国购买美国政府债券的方方面面。
 
 This Sept. 11, a **diminished** president will **preside** over a diminished nation. Another Failed Presidency **at Hand**
 今年的9·11到来时，一个已经降格的国家，正在由一位降格的总统掌管着。拜登，又一个即将失败的总统
 
 We are a country that could not keep a **demagogue** from the White House; could not stop an insurrectionist mob from **storming** the Capitol; could not win (or at least avoid losing) a war against a **morally and technologically retrograde** enemy; cannot **conquer a disease** for which there are safe and effective vaccines; and cannot bring itself to trust the government, the news media, the **scientific establishment**, the police or any other institution meant to operate for **the common good**.
-我们这个国家无法阻止一名煽动者进入白宫;无法阻止暴徒袭击国会 大厦;无法打赢(或至少避免被打败)一场与道德和技术上都落后的敌人的战争;无法战胜疾病，即使有安全有效的疫苗;并且无法相信 政府、新闻媒体、科学机构、警察或任何其他旨在为公共利益运作的机构。
+我们这个国家无法阻止一名煽动者进入白宫;无法阻止暴徒袭击国会大厦;无法打赢(或至少避免被打败)一场与道德和技术上都落后的敌人的战争;无法战胜疾病，即使有安全有效的疫苗;并且无法相信 政府、新闻媒体、科学机构、警察或任何其他旨在为公共利益运作的机构。
 
 A civilization “**is born stoic and dies epicurean**,” wrote historian Will Durant about the **Babylonians**. Our civilization was born **optimistic and enlightened**, at least by the standards of the day. Now it feels as if it’s **fading into paranoid senility**.
-历史学家威尔·杜兰特在谈到巴比伦人时写道，一个文 明“生于坚忍，死于享乐”。我们的文明生来是乐观和开明的，至少按照当时的标准是这样。现在感觉它好像正在逐渐衰老，变得疑神疑?。
+历史学家威尔·杜兰特在谈到巴比伦人时写道，一个文明“生于坚忍，死于享乐”。我们的文明生来是乐观和开明的，至少按照当时的标准是这样。现在感觉它好像正在逐渐衰老，变得疑神疑?。
 
 Joe Biden was supposed to be **the man of the hour**: a **calming** presence **exuding decency, moderation** and trust. As a candidate, he **sold himself as** a transitional president, a **fatherly** figure in the **mold** of George H.W. Bush who would restore **dignity and prudence** to the Oval Office after the **mendacity and chaos** that came before. It’s why I voted for him, as did so many others who once **tipped red**.
 乔·拜登本应是这个时刻的主?:从容出场，散发着正派、温和和值得信任的气质。作为候选人，他标榜自己是转型总统， 一个像乔治·H·W·布什一样的父亲般的人物，在椭圆形办公室经历了先前的谎言和混乱之后，他将恢复其尊严和审慎。这就是我投票给他的原因，就像许多其他曾经倾向共和党的人一样
 
 Instead, Biden has become the **emblem** of the hour: **headstrong** but shaky, ambitious but **inept**. He seems to be the last person in America to realize that, whatever the **theoretical merits** of the decision to withdraw our remaining troops from Afghanistan, the military and intelligence assumptions on which it was built were **deeply flawed**, the manner in which it was executed was a national **humiliation** and a **moral betrayal**, and the timing was **catastrophic**.
-相反，拜登在这个时刻却成为了这样的象征:固执但摇摆不定，雄心 勃勃但无能。无论是从阿富汗撤出剩余部队的决定有什么理论价值， 该决定所依据的军事和情报假设存在严重缺陷，其执行方式是对国家的羞辱和道德上的背叛，其时机是灾难性的，拜登似乎是美国最后一个意识到这些的人
+相反，拜登在这个时刻却成为了这样的象征:固执但摇摆不定，雄心勃勃但无能。无论是从阿富汗撤出剩余部队的决定有什么理论价值， 该决定所依据的军事和情报假设存在严重缺陷，其执行方式是对国家的羞辱和道德上的背叛，其时机是灾难性的，拜登似乎是美国最后一个意识到这些的人
 
 The 9/11 memorial at the  World Trade Center — water **cascading into one void**, and then  **trickling**, out of sight, into another — has **never felt more fitting**.
 在世贸中心的9·11纪念广场，水向下流入一层空洞，水流逐渐变弱、消失，淌入另一层空洞，这样的意象从未让人感到如此贴切。
@@ -119,7 +119,7 @@ That’s the **optimistic scenario**. **Alternatively**, he could suffer a legisl
 这是乐观的情况。或者，他可能会遭受像1994年希拉里·克林顿的医疗改革那样的立法灾难，好在比尔·克林顿急剧转向中间派
 
 Even the optimistic **precedent** was followed by a Democratic **rout** in 2010, when the party lost 63 House seats. If history repeats itself at the 2022 midterms, I doubt that even Joe Biden’s **closest aides** think he has the **stamina** to fight his way back in 2024. Has Kamala Harris shown the political talent to **pick up the pieces**?
-即使?主党有这一乐观的先例，它在2010年仍遭遇了溃败，当时该党失去了63个众议院席位。如果历史在2022年中期选举重演，我怀疑即使是乔·拜登最亲密的助手都会觉得他的精力不足以撑到在2024年重回巅峰。卡玛拉·哈里斯(Kamala Harris)有没有显示出收拾残局 的政治才能?
+即使?主党有这一乐观的先例，它在2010年仍遭遇了溃败，当时该党失去了63个众议院席位。如果历史在2022年中期选举重演，我怀疑即使是乔·拜登最亲密的助手都会觉得他的精力不足以撑到在2024年重回巅峰。卡玛拉·哈里斯有没有显示出收拾残局的政治才能?
 
 Perhaps what will save the Democrats is that Biden’s weakness will **tempt** Donald Trump to seek (and almost certainly gain) the Republican nomination
 如果拜登的软弱诱使唐纳德·特朗普寻求(并且几乎肯定会获得)共和党提名，这或许能拯救?主党
@@ -176,7 +176,7 @@ I confronted him about things he had done and the real pain he caused. It was no
 我质问他所做过的事和他造成的痛苦。这不是一种治愈，但它开始了一种我们未能完成的东?。 
 
 When he died, I was in **the early stages** of writing what became “Reading While Black.” It has the following **dedication**: “This book **is dedicated to** the memory of Esau McCaulley Sr., who died before he ever got to see a book **bearing** our name in print. **Whatever else** I am, I will always remain your son.”
-他去世的时候，我刚开始写《黑人的阅读》(Reading While Black)， 它的致辞是这样的:“这本书献给依绍·?卡利(Esau McCaulley Sr.)，他在看到一本印有我们名字的书之前就去世了。不论我还有什么身份，我始终是你的儿子。”
+他去世的时候，我刚开始写《黑人的阅读》， 它的致辞是这样的:“这本书献给依绍·?卡利，他在看到一本印有我们名字的书之前就去世了。不论我还有什么身份，我始终是你的儿子。”
 
 It seems that Covid-19 has **dealt a collective trauma** to the American **consciousness** and that **the full fruit of** that trauma remains uncertain. One thing is clear: Our previous normal was **not as good as we thought it was**.
 Covid-19似乎对美国人的意识造成了集体性创伤，这种创伤的全部后果还不确定。有一件事是清楚无疑的:我们过去的常态并不如我们以为的那般坚固美好
@@ -199,3 +199,209 @@ But in other parts of Asia, the movie has been **greeted warmly** by audiences f
 The movie is a **retelling** of the story of a **little-known Marvel character** created in 1973
 这部电影重述了一个鲜为人知的漫威角色的故事，该角色创作于1973年
 
+Xu Wenwu is **played** by Mr. Leung, a **legend** in Hong Kong cinema. His role in the film was **pivotal in attracting** Hong Kong audiences to the theaters, said Kevin Ma, a film industry **observer and writer** from Hong Kong.
+徐文武由香港电影界的传奇人物梁朝伟饰演。来自香港的电影业观察家和作家凯文·马说，他出演这部电影，对于将香港观众吸引到影院至关重要。
+
+To **reshape** the comic-book **character** to appeal to Asian and Asian American audiences, Marvel **put the movie in the hands** of Destin Daniel Cretton, a Japanese American director
+为了重塑漫画人物以吸引亚洲和亚裔美国观众，漫威将这部电影托付给日裔美国导演德斯汀·丹尼尔·克雷顿
+
+But for **blockbusters**, mainland China is the major market to win
+但大片若想获胜，中国大陆是主要市场
+
+Despite its absence, the film has generated **spirited debate** on the Chinese internet
+虽然尚未上映，影片在中国互联网上还是引起了热议
+
+Readers of Shang-Chi comic books in the 1970s saw Asian faces **colored** in **unnatural** oranges and yellows. They saw the main character **shirtless and shoeless**, spouting “fortune-cookie **platitudes in stilted English**,” The New York Times noted recently. And then there was Shang-Chi’s father in the comics: He was named Fu Manchu and **caricatured as a power-hungry** Asian man, an image that **harks back** to the stereotypes first pressed upon Asian immigrants a century ago.
+1970年代《尚气》漫画书的读者会看到亚裔面孔呈一种不自然的橙色和黄色。他们看到主要人物赤裸上身、光着脚，滔滔不绝地“用做作的英语说着幸运饼干式的套话”，《纽约时报》近年的一篇文章注意到。漫画中还有尚气的父亲：他叫傅满洲，被描绘成一个权欲极重的亚洲男人，呼应了一个世纪前亚洲移民最早留下的刻板印象
+
+I think countries that try to **censor** and **cover up** dissenting ideas rather than face them and deal with them are **out of touch with reality**. It’s really **immature and out of touch**.
+我认为那些去审查和掩盖异议想法，而不是去面对和处理问题的国家，是跟现实脱节的。非常不成熟和不明就里
+
+Still, the movie has found some **resonance** with Chinese audiences who have **managed to see the film**
+影片在一些中国观众中还是引起了共鸣
+
+The trouble in China may have **unintentionally** helped sales in other markets in Asia
+在中国遇到的麻烦也许无意中促进了在亚洲其他市场的销量
+
+“It’s **amusing**,” said Ms. Yang, the film producer, “that it’s Americans’ turn to read **subtitles** in a Marvel film.”
+“有趣的是，”电影制片人金·杨说，“轮到美国人看漫威电影要看字幕了。”
+
+China’s push for **self-sufficiency** in a wide range of industries is **dividing** foreign companies
+中国在多个行业推动自力更生的做法正在外国企业当中带来分歧
+
+Two **influential** groups of foreign businesses in China **issued** very different reports on Thursday. They revealed a **striking divide** on whether international companies support China’s push to replace imports with a **self-reliant** emphasis on domestic production.
+周四，两个在中国有影响力的外国企业团体发表了截然不同的报告。在是否支持中国推动以强调自力更生的国内生产取代进口的努力方面，这两份报告揭示了国际企业的明显分歧
+
+China has been **heavily subsidizing** its manufacturers of semiconductors, commercial aircraft, electric cars and other products as part of a national effort to **achieve greater self reliance**.
+中国一直在大力补贴半导体、商用飞机、电动汽车和其他产品的制造商，作为加强自力更生努力的一部分
+
+“There are **troubling signs** that China is **increasingly turning inwards**, as can be seen in its 14th **five-year plan**,” the report said, referring to an economic **blueprint** the government released this year. “This **tendency** is **casting considerable doubts** over the country’s future growth **trajectory**.”
+报告称，“有令人不安的迹象表明，中国越来越向内转，这在‘十四五’规划中可以看出，”该规划指的是政府今年发布的经济蓝图。“这种趋势正在令人对该国未来的增长轨迹产生相当大的怀疑。”
+
+More than European companies, he said, American companies **tend to** focus mainly on the next quarter’s financial results, which are usually best served by staying in China.
+他说，与欧洲公司相比，美国企业往往更关注下一季度的财务业绩，而留在中国通常是更好的选择
+
+China is **swelling** into a military superpower. India, Vietnam and Singapore are spending more on defense. Japan is **leaning to** do the same. Now Australia, backed by the United States and Britain, has **catapulted** the military contest with Beijing in Asia into a **tense new phase**.
+中国正在膨胀为一个军事超级大国。印度、越南和新加坡正在增加国防开支。日本也倾向于这样做。现在，澳大利亚在美国和英国的支持下，让与中国的军事竞争在亚洲跃入了一个紧张的新阶段。
+
+In response, China may **step up** its military **modernization**, especially in technology able to **stymie** the submarines.
+作为回应，中国也许会加快本国的军事现代化，尤其是在能够阻碍核动力潜艇的技术方面
+
+Countries trying to **stay in the middle**, like Indonesia, Malaysia and others, face a potentially more **volatile** region and growing pressure
+那些试图保持中立的国家，比如印度尼西亚、马来西亚等国，面对的是一个可能更加动荡的地区
+
+The picture is one of three **Anglo-Saxon** countries **drumming up militarily** in the Indo-Pacific region
+现在的情况是，三个盎格鲁—撒克逊国家在印度—太平洋地区兜揽军事生意
+
+India, which has **veered** between **border clashes** with China and efforts to **patch up ties** with its neighbor, has been **muted** about the agreement.
+在与中国发生边界冲突和努力修补与邻国关系之间变化不定的印度尚未对澳英美协议表态
+
+**Outwardly**, Australia’s plan to eventually build at least eight nuclear-powered **submarines** might seem to make little difference to China’s **calculus**
+从表面上看，澳大利亚最终建造至少八艘核动力潜艇的计划似乎对中国的算盘没有什么影响
+
+China Evergrande, the **property giant** whose financial **troubles roiled global markets** earlier this week, left investors in a state of **uncertainty** again on Thursday with **the fate of** an $83 million **interest** payment still **unresolved**. The payment, on Evergrande’s **dollar-denominated bonds**, was **due** Thursday
+本周早些时候，房地产巨头中国恒大的财务困境搅乱了全球市场。周四，该公司8300万美元的利息支付问题仍未解决，再次让投资者陷入不确定状态。恒大这笔以美元计价的债券将于周四到期
+
+But, this person **noted**, the company’s **debt covenants** provide it with a 30-day **grace period** before the missed payment **results in a default**, which means the **limbo** debtholders find themselves in could continue
+但这位人士指出，该公司的债务契约规定，在错过付款导致违约之前，它有30天的宽限期，这意味着债券持有人的困境可能会持续存在
+
+The **tension** in global financial markets has **eased more** recently, **in part** as Chinese officials stepped in to **shore up** confidence — including by **pumping billions of dollars of capital into** the country’s banking system
+全球金融市场的紧张最近有所缓解，部分原因是中国官员出手提振市场信心——包括向该国银行体系注入数十亿美元资金
+
+On another key question for investors, whether China will directly **bail Evergrande out**, so far Beijing has remained **tight-lipped** while emphasizing that no Chinese company is **too big to fail**.
+对于投资者面临的另一个关键问题，即中国是否会直接救助恒大，迄今为止，北京一直守口如瓶，同时强调没有一家中国企业是大到不能倒的
+
+He said bondholders and Evergrande may ultimately **work through a near-term agreement** that involves debtholders **loosing a portion** on their Evergrande exposure
+他表示，债券持有人和恒大最终可能会达成一项短期协议，其中包括让债券持有人减持部分恒大敞口
+
+Despite the **lingering uncertainty**, stock investors seem to expect a better outcome for Evergrande than they did earlier in the week. Those businesses could still have value even if the **real-estate arm collapses**.
+尽管不确定性依然存在，股票投资者似乎对恒大的预期比本周早些时候要好 即使房地产业崩溃，这些企业仍有价值。
+
+Noel Quinn, the chief executive of HSBC, **acknowledged** at the same conference that Evergrande’s challenges might **seep further into** the **equity and credit markets**.
+汇丰首席执行官诺埃尔·奎因在同一个会议上承认，恒大的挑战可能会进一步渗透到股票和信贷市场
+
+I’d be **na?ve** to think that the **turmoil** in the market doesn’t have the potential to have **second-order and third-order impact**
+如果认为市场的动荡没有可能产生二阶和三阶的影响，那就太天真了
+
+China Evergrande Group, the developer, on Wednesday said it **reached a deal** that might give it **some breathing room** in the face of a bond payment due the next day
+开发商中国恒大集团周三表示，公司已协商出一个方案，在一笔债券周四到期前获得了一些喘息空间
+
+Heavy government spending on new rail lines, highways and other projects is keeping the economy **afloat** right now, but may not be **sustainable** through next year.
+政府在新铁路、高速公路和其他项目上的巨额支出目前使经济得以维持，但这种开支可能无法持续到明年
+
+While many economists in China are **pouring cold water** over the idea of potential **financial contagion**, they are pointing to the broad weakness in China’s property market, a **mainstay** of the economy, and other long-term threats.
+尽管中国的许多经济学家给恒大可能触发金融危机的说法泼冷水，但他们也指出了中国房地产市场普遍疲软以及其他的长期威胁。房地产一直是中国经济的支柱
+
+On Wednesday, it said in a **vaguely worded** stock market filing that it had reached an arrangement with Chinese investors to make a payment due the following day, without offering details.
+公司周三在深圳股市发布的一份措辞含糊的公告中说，将在周四如期支付一笔债务的利息，支付方式与中国投资者协商解决，但没有提供细节
+
+Chinese policymakers could **conceivably step in** and rescue Evergrande. But that would **run contrary to** their efforts to get companies to borrow less and to **take some of the steam out of** the property market, where apartments for purchase are increasingly **unaffordable** for many Chinese families in a number of markets.
+中国的政策制定者可能会出面拯救恒大。但这会与他们试图让企业少借钱、给过热的房地产市场降温的努力背道而驰。不少城市的许多中国家庭越来越买不起住房。
+
+People **familiar with** Chinese economic policymaking say that big companies often carry a lot of **collateral** on their books, so officials believe lenders won’t **get fully burned** by a collapse. They also cite the tools Beijing has to **unwind debts gradually** and limit financial disruptions, such as its control of the banking system.
+熟悉中国经济决策的人士说，大公司的账簿上通常有大量抵押品，因此官员们认为，银行不会因公司破产而遭受重创。这些人士还指出，中国政府有逐步解除债务、限制金融混乱的工具，比如对银行体系的控制
+
+**Overcapacity** in many industrial sectors, coupled with a **faltering** construction sector, have prompted economists to predict slower growth
+许多工业领域产能过剩，加上建筑行业的衰退，促使经济学家做出了经济增长放缓的预测
+
+Other questions **hovering** right now over the Chinese economy can be seen in **a handful of** measures
+中国经济如今面临的其他悬而未决的问题，可以从一些数据中看到
+
+The **nosedive** in **freight truck** production and sales is about much more than lost economic confidence, however. It also shows how China’s policies over the past few years **temporarily inflated** demand and produced **severe overcapacity**.
+然而，货车产量和销售的急剧下降不仅反映了经济信心的丧失，也表明中国过去几年的政策临时推高了需求，造成了严重的产能过剩
+
+**Stringent** new standards for air pollution took effect for freight trucks manufactured beginning July 1. Stricter safety standards are also being **phased in**, such as a requirement that **onboard** software and sensors warn drivers when they start to **drift out of** their traffic lanes.
+严格的货运卡车空气污染新标准已在今年7月1日生效。更严格的安全标准也在逐步实施中，比如车载软件和传感器在司机开始偏离车道时必须发出警告。
+
+China’s freight truck manufacturing capacity has **ballooned** to 1.6 million trucks a year in a market where long-term sales estimates are far fewer than a million trucks a year. Truck dealerships across China are now **clogged with** rows of unsold trucks.
+中国货运卡车的生产能力已经膨胀到每年160万辆，而中国市场的长期销售预期远低于每年100万辆。中国各地的卡车经销商手中现在都有大量的待售卡车
+
+An **acute** shortage of computer chips has separately affected the production and sale of cars in China, **muddying** the picture. The market for car sales is generally in a **downturn**, partly because of the chip shortage
+计算机芯片的严重短缺也影响了中国汽车的生产和销售，让前景变得模糊不清 汽车销售市场比较低迷，部分由于芯片不足
+
+While China faces broad overcapacity and other worries, many economists in China still express more confidence than economists **elsewhere** that the country can **weather its troubles**.
+尽管中国面临广泛的产能过剩和其他担忧，中国的许多经济学家仍比其他国家的经济学家对中国能够度过难关更有信心
+
+We **settled into** the now familiar contest between democratic liberalism and authoritarianism.
+我们陷入了?主自由主义和威权主义之间的竞争，这种竞争现在人们已经很熟悉了
+
+They used **religious symbols** as nationalist identity markers and **rallying cries**. They **unified the masses** behind them by **whipping up perpetual culture wars**. They **reframed** the global debate: it was between the **moral decadence** of Western elites and traditional values and superior spirituality of the **good normal** people in their own homelands.
+他们使用宗教符号作为?族主义的身份标志和战斗口号。他们通过无休止的文化战争，将群众团结在他们身后。他们重新定义了全球辩论: 这是?方精英的道德堕落，与传统价值观以及本国善良普通人的优越精神之间的争论。
+
+The 21st century is turning into an **era of globe-spanning holy wars** at a time when the **appeal** of actual religion seems to be **on the wane**.
+在现实宗教的吸引力似乎在减弱的时候，21世纪正在变成一个跨越全球的圣战时代
+
+Mao Zedong regarded **prerevolutionary** China **with contempt**. 
+毛泽东对革命前的中国不屑一顾
+
+Last week, the Chinese government ordered a **boycott** of **“sissy pants” celebrities**. These are the **delicate-looking** male stars who display gentle **personalities** and are accused of **feminizing Chinese manhood**.
+上周，中国政府下令抵制“娘炮”明星。这些?相精致的男明星表现出温柔的气质，他们被指责令中国的男子气概变得女性化
+
+The Chinese internet is **apparently now rife with** attacks on the **decadent** “white left” — educated American and European progressives who **champion feminism**, L.G.B.T.Q. rights **and such**.
+中国互联网现在显然充斥着对颓废的“白左”的攻击—— 这个词是指受过教育的美国和欧洲进步人士，他们是女权主义和LGBTQ权利等等的倡导者。
+
+They are **motivated by nativist** and anti-immigrant attitudes and then **latch onto** Christian symbols to separate “them” from “us.” In Germany, for example, **the far-right group** that aggressively **plays up** its Christian identity **underperforms** among voters who are actually religious.
+他们受本土主义和反移?态度驱动，然后抓住基督教的象征，把“他们”和“我们”分开。例如，在德国，激进地宣扬其基督教身份的极右翼团体在真正有宗教信仰的选?中表现不佳
+
+These **religiously cloaked** authoritarians have naturally **provoked** an anti-religious **backlash**. The **pseudo-religious** authoritarians have raised the **moral stakes**
+这些披着宗教外衣的威权主义者自然激起了反宗教的反弹, 伪宗教威权主义者提高了道德?险
+
+Those of us on the side of Western liberalism have no choice but to fight this on the spiritual and **cultural plane** as well, to show that **pluralism** is the opposite of **decadence**, but is a spiritual-rich, **practically effective** way to **lift human dignity and run a coherent society**.
+这些站在?方自由主义一边的人别无选择，只能在精神和文化层面上与之斗争，以表明多元化是颓废的反面，它是一种精神丰富、实际有效的方式，可以提升人类尊严，并运行一个协调的社会
+
+The war in Afghanistan wasn’t a failure. It was a **massive success** — for those who **made a fortune off** it.
+阿富汗战争不是一场失败，而是一场巨大的成功——对那些从中发财的人来说。
+
+Consider the case of Hikmatullah Shadman, who was just a teenager when American Special Forces **rolled into** Kandahar **on the heels of** Sept. 11. They hired him as an interpreter, paying him up to $1,500 a month — 20 times the salary of a local police officer, **according to a profile** of him in The New Yorker. By his late 20s, he owned a trucking company that supplied U.S. military bases, earning him more than $160 million.
+以希克?图拉·沙德曼为例。美国特种部队在 9·11事件发生后进入坎大哈时，他还只是一个十几岁的少年。据《纽约客》上一篇关于他的人物特写，特种部队雇了他来当翻译，每月付给他最高1500美元，是当地警察工资的20倍。他快30岁时已拥有一家为美国军事基地提供物资的卡?运输公司，这让他赚了逾1.6亿美元。
+
+If a **small fry** like Shadman could **get so rich off** the war on terror, imagine how much Gul Agha Sherzai, a **big-time** warlord-turned- governor, has **raked in** since he helped the C.I.A. run the Taliban out of town
+如果像沙德曼这样的小人物都能从反恐战争中赚这么一大笔钱的话， 想象一下，军阀出身的省?古尔·阿迦·谢尔扎伊这样的大人物，自帮助中央情报局把塔利班赶出城以来已经赚了多少钱
+
+Nobody knows how much he is worth, but it is clearly hundreds of millions — enough for him to talk about a $40,000 **shopping spree** in Germany as if he were spending **pocket change**.
+没人知道他身价几何，但显然有数亿美元，多到足够让他把一次在德国的4万美元购物狂欢说得像是花口袋里的零钱似的
+
+Look under the **hood of the “good war,”** and this is what you see. Afghanistan was supposed to be an honorable war to **neutralize** terrorists and **rescue** girls from the Taliban. It was supposed to be a war that we **woulda coulda shoulda** won, had it not been for the **distraction** of Iraq, and the hopeless corruption of the Afghan government. But let’s **get real**. Corruption wasn’t a **design flaw** in the war. It was a design feature. We didn’t **topple** the Taliban. We paid warlords **bags of** cash to do it.
+这就是这场“正义战争”外表下的情况。阿富汗战争本应是一场消灭恐怖 分子、将女孩从塔利班手下解救出来的光荣战争。这本应是一场我们本会、本可、本该打赢的战争，如果不是因为我们被伊拉克分散了注意力，如果不是因为阿富汗政府腐败得无可救药。但让我们现实一点吧。腐败不是这场战争的一个设计缺陷，而是一个设计特色。我们自己没有推翻塔利班。我们花大价钱雇军阀来推翻塔利班
+
+Westerners often **scratched their heads** at the **persistent lack of capacity** in Afghan governing institutions, but the **sophisticated** networks controlling those institutions never **intended to govern**. Their objective was **self-enrichment**. And at that task, they proved **spectacularly** successful.
+?方人经常对阿富汗政府机构的持续无能苦思不得其解, 然而控制这些机构的复杂 关系网从来都没打算治理国家。他们的目标是为自己敛财。在这个任务上，他们被证明取得了了不起的成功
+
+In April 2002, Defense Secretary Donald Rumsfeld **dictated a top-secret memo** ordering aides to **come up with** “a plan for how we are going to deal with each of these warlords — who is going to get money from whom, on what basis, in exchange for what, what is the **quid pro quo**, etc.,” according to The Washington Post.
+据《华盛顿邮报》报道，2002年4月，时任国防部?的唐纳德·拉姆斯菲尔德口授了一份绝密备忘录，要求助手提交“一份我们将如何与这些军阀打交道的计划——谁将从谁那里拿钱，以什么为依据，以什么 为交换，回报是什么，等等”。
+
+The war proved **enormously lucrative** for many Americans and Europeans, too. Even after it **got caught bribing** officials and **systematically overbilling** taxpayers, the contracts kept coming.
+事实证明，对许多美国人和欧洲人来说，阿富汗战争也是巨大的赚钱机会。即使在公司被抓到贿赂官员、系统性地让纳税人多掏腰包之后，他们的合同仍源源不断。
+
+It’s a **bugbear** of mine that Afghan corruption is so frequently **cited as** an explanation (as well as an excuse) for Western failure in Afghanistan, Americans “**point the finger at** Afghans, **whilst ignoring** their role in both fueling and benefiting from the **patronage pump**.”
+阿富汗的腐败被如此频繁地引为?方在阿富汗失败的理由(和借口)，这是一个让我很头疼的问题. 美国人“指责阿富汗人，却忽视了他们在这个互惠互利链中既提 供资金、又从中受益的?色”。
+
+The Center for Public Integrity, a nonprofit that has been tracking spending in a series of reports called the **Windfalls of War**.
+非营利组织“公共诚信中心”一直在跟踪支出情况，在一系列报告中称之为战争暴利/战争财
+
+What **stands out** about the war in Afghanistan is the way that it became the Afghan economy. At least Iraq had oil. In Afghanistan, the war **dwarfed** every other economic activity, **apart from** the opium trade.
+阿富汗战争的特别之处在于它是如何成为阿富汗经济的。伊拉克至少有石油。在阿富汗，除了鸦片贸易外，战争使所有其他经济活动相形?绌。
+
+But **alas**, policymakers in Washington **rushed to** push cash out the door, since money spent was one of the few **measurable metrics** of success.
+但遗憾的是，华盛顿的政策制定者急于把钱花出去，因为所花的钱是少数几个可衡量成功的指标之一。
+
+The money **was meant to** buy security, bridges and power plants to **win “hearts and minds.”** But the **surreal** amounts of cash **poisoned** the country instead, **embittering** those who didn’t have access to it, and **setting off rivalries** between those who did.
+这笔钱本来是用于安全、桥梁和发电厂，以赢得“?心”。但超现实的现金数额反而毒害了这个国家，让那些无法拿到这些钱的人感到愤怒， 并在拿到这些钱的人之间引发了竞争。
+
+It would take years for the United States to realize that it was fueling corruption with its **excessive** spending and lack of **oversight**. The result was a fantasy economy that operated more like a casino or a **Ponzi scheme** than a country. Why build a factory or **plant crops** when you can get **fabulously wealthy** selling whatever the Americans want to buy?
+美国需要数年时间才能意识到，其过度支出和缺乏监督正在助?腐败。结果是产生了一个幻想中的经济体，其运作更像是一个赌场或庞氏骗局，而不是一个国家。如果出售美国人想要的东?就可以变得超级富有，为什么还要建造工厂或种植农作物?
+
+The money fueled the **revolving door** of war, **enriching the very militants** that it was meant to fight, whose attacks then **justified a new round of** spending.
+这笔钱推动了战争的旋转?，使得原本要打击的武装分子变得富有， 然后他们的袭击又为新一轮的支出提供了理由。
+
+Social scientists have a name for countries that are so **reliant on unearned income** from outsiders: “rentier states.” It is usually used for **oil-producing countries**, but Afghanistan now **stands out** as an extreme example.
+社会科学家对如此依赖外来者非劳动收入的国家起了一个名字:?租者国家。这个名字通常用于产油国家，但阿富汗现在是 一个极端的例子。
+
+I knew the war in Afghanistan had **gone off the rails** the day I had lunch in Kabul with a European consultant who **got paid a lot of money** to write reports about Afghan corruption. He’d just arrived, but he already had a lot of ideas about what needed to be done — including **ridding** the Afghan Civil Service of **pay scales based on seniority**. 
+在喀布尔与一位欧洲顾问共进午餐的那天，我就知道阿富汗战争已经脱离正轨，这位顾问获得了很多报酬，用于撰写有关阿富汗腐败的报道. 他刚到那里，但他已经对需要做的事情有了很多想法——包括让阿富汗公务员摆脱基于资历的薪酬等级。
+
+**None of this is to say that** the Afghan people don’t **deserve support**, even now. They do. But **far more** can be achieved by spending **far less** in a more **thoughtful way**.
+这并不是说阿富汗人?不值得支持，即使是现在。他们确实值得。但是，通过更为深思熟虑的方式，花费更少的钱可以实现更多的目标。
+
+What does the Taliban takeover say about the war? It proves that you cannot buy an army. You can only rent one **for awhile**. Once the money **spigot** turned off, how many **stuck around to** fight for our vision of Afghanistan? 
+塔利班的接管对战争来说意味着什么?它证明了你无法购买一支军队。你只能租用一段时间。一旦资金?头关掉，有多少人坚持为我们的阿富汗愿景而战?
