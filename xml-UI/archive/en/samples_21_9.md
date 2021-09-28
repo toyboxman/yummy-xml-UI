@@ -405,3 +405,6 @@ I knew the war in Afghanistan had **gone off the rails** the day I had lunch in 
 
 What does the Taliban takeover say about the war? It proves that you cannot buy an army. You can only rent one **for awhile**. Once the money **spigot** turned off, how many **stuck around to** fight for our vision of Afghanistan? 
 塔利班的接管对战争来说意味着什么? 它证明了你无法购买一支军队。你只能租用一段时间。一旦资金?头关掉，有多少人坚持为我们的阿富汗愿景而战?
+
+When I moved to Washington, D.C., in 2002 we all **lived in 9/11’s shadow**. We waited for bombs in the Metro, for more **anthrax** envelopes, for a **sequel** to the previous autumn’s terror. We watched planes headed for Reagan Airport fly low over the Potomac, always **half-expecting** them to **veer**. Everything in my profession **revolved around** the War on Terror. 
+我在2002年搬到华盛顿特区时，大家都生活在9·11的阴影下。我们担心地铁里有炸弹，担心出现更多含有炭疽的信封，担心前一年秋天的恐怖事件出现续集。看到?往里根机场的?机在波托?克河上低空?行时，我们总是担心它们会突然转向。我职业中的一切都围绕着反恐战争。
