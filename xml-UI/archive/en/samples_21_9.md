@@ -1,83 +1,62 @@
 **‘Reversing Gears’**: China Increasingly Rejects English  
 开倒车？中国弱化英语教育
 
-As a student at Peking University law school in 1978, Li Keqiang kept
-both pockets of his jacket **stuffed with handwritten paper slips**.   
+As a student at Peking University law school in 1978, Li Keqiang kept both pockets of his jacket **stuffed with handwritten paper slips**.   
 1978在北大法学院读书时，李克强外套口袋里塞满了手写的纸条
 
-It’s hard to **exaggerate** the role English has played in changing China’s
-social, cultural, economic and **political landscape**.  
+It’s hard to **exaggerate** the role English has played in changing China’s social, cultural, economic and **political landscape**.  
 英语在改变中国社会、文化、经济和政治面貌方面的所起的作用，怎么说都不过分
 
-English is almost
-**synonymous with China’s reform and opening-up policies**, which
-transformed an **impoverished and hermetic** nation into the world’s
-**second-biggest** economy.  
+English is almost **synonymous with China’s reform and opening-up policies**, which transformed an **impoverished and hermetic** nation into the world’s **second-biggest** economy.  
 英语几乎是中国改革开放政策的代名词，该政策将一个贫穷封闭的国家变成世界第二大经济体
 
-That’s why it came as a shock to many when the education authorities
-in Shanghai, **the most cosmopolitan city** in the country, last month
-**forbade** local elementary schools to **hold final exams** on the English
-language.  
+That’s why it came as a shock to many when the education authorities in Shanghai, **the most cosmopolitan city** in the country, last month **forbade** local elementary schools to **hold final exams** on the English language.  
 这就是为什么当上海这个国际化大都市教育部门禁止小学举行英语期末考试，许多人感到震惊
 
-**Broadly**, the Chinese authorities are **easing the workloads** of
-schoolchildren, amid an effort to **ease the burdens** on families and
-parents.
+**Broadly**, the Chinese authorities are **easing the workloads** of schoolchildren, amid an effort to **ease the burdens** on families and parents.
 总的来说，中国政府正在减轻学习任务，致力于减轻家庭和家长的负担
 
-The president of **prestigious** Tsinghua University in Beijing **came
-under fire** this summer after sending each new student a Chinese language
-copy of Ernest Hemingway’s “The Old Man and the Sea.” He
-wrote in a letter that he wanted the students to **learn courage and
-perseverance**.   
+The president of **prestigious** Tsinghua University in Beijing **came under fire** this summer after sending each new student a Chinese language copy of Ernest Hemingway’s “The Old Man and the Sea.” He wrote in a letter that he wanted the students to **learn courage and perseverance**.   
 今夏著名学府清华大学校长在给每位新生发一本《老人与海》中文版后，受到抨击。他在一封信中写道，希望学生们学会勇气和毅力
 
-Some businesspeople **struck gold** by teaching English or offering
-instruction on how to take tests in the language.  
+Some businesspeople **struck gold** by teaching English or offering instruction on how to take tests in the language.  
 有商人靠英语辅导和提供考试指导而发了大财
 
 English **lost some of its sheen** after the 2008 financial crisis.  
 2008金融危机后，英语失去了一些光彩
 
-As a result,
-China’s links to the outside world are being **severed** one by one.  
+As a result, China’s links to the outside world are being **severed** one by one.  
 结果，中国与外部世界的联系正在被一一切断
 
-Share prices of New Oriental, the education
-giant, **tanked** in July after the Beijing government announced
-crackdowns on **after-school tutoring services**. The Shanghai
-government’s announcement **drew praise** online from some
-**nationalistic quarters**.
+Share prices of New Oriental, the education giant, **tanked** in July after the Beijing government announced crackdowns on **after-school tutoring services**. The Shanghai government’s announcement **drew praise** online from some **nationalistic quarters**.
 在北京市政府宣布打击课外辅导机构后，新东方的股价出现暴跌。上海市政府的公告在网上受到一些民族主义团体的赞扬
 
 The U.S. **withdrawal** from Afghanistan after a failed 20-year **nation-building exercise** has left many Americans and analysts saying, “If only we knew **back then** what we know now, we would have never **gone down** that path.”
-在经历了为期20年的建国实践失败后，美国从阿富汗撤军，这让许 多美国人和分析人士说，“早知如此，我们就不会走这条路了。"
+在经历了为期20年的建国实践失败后，美国从阿富汗撤军，这让许多美国人和分析人士说，“早知如此，我们就不会走这条路了。"
 
 And my fears can be **summed up in** just a few paragraphs: The 40 years from 1979 to 2019 were **an epoch** in U.S.-China relations. There were **many ups and downs**, but **all in all** it was an epoch of **steady economic integration** between our two countries.
-我的担心可以用几段话来概括:从1979年到2019年的40年是美中关 系的一个纪元。有许多起起落落，但总而言之，这是两国经济稳定 一体化的时代。
+我的担心可以用几段话来概括:从1979年到2019年的40年是美中关系的一个纪元。有许多起起落落，但总而言之，这是两国经济稳定 一体化的时代。
 
 The depth of that U.S.-China integration helped to **fuel a much deeper globalization** of the world economy and **buttress four decades of relative peace** between the world’s two great powers.
-美中一体化的深度有助于推动世界经济实现更深层次的全球化，并 支撑了世界两个大国之间40年的相对和平。
+美中一体化的深度有助于推动世界经济实现更深层次的全球化，并支撑了世界两个大国之间40年的相对和平。
 
-**In short**, the relative peace and prosperity that the world  experienced in those 40 years cannot be explained **without 
-reference to the U.S.-China bonding**.
+**In short**, the relative peace and prosperity that the world  experienced in those 40 years cannot be explained **without reference to the U.S.-China bonding**.
 简而言之，如果不提美中关系，就无法解释世界在这40年所经历的相对和平与繁荣。
 
 It **lifted out of poverty** hundreds of millions of people in China, India and East Asia **while making many products much more affordable** to more American consumers.
 它使中国、印度和东亚的数亿人摆脱了 贫困，同时使更多的美国消费者能够负担得起许多产品。
 
 For the past five years, though, the United States and China **have been stumbling down a path of de-integration** and maybe toward **outright confrontation**. 
-然而，过去五年里，美国和中国一直在脱离一体化的道路上跌跌撞 撞，甚至可能走向彻底对抗。
+然而，过去五年里，美国和中国一直在脱离一体化的道路上跌跌撞撞，甚至可能走向彻底对抗。
 
 These two giants **went from** doing a lot of business on the table and occasionally kicking each other under the table **to** doing a lot less business on the table and kicking each other a lot harder under the table — so much harder that they are in danger of breaking the table and leaving each other **with a limp**. 
-起初，这两个巨头在台面上来往密切，偶尔在台下使绊子，现在变 成了在台面上生意少了，台下使绊子越来越激烈——激烈得连台面 都快要打破，两败俱伤地离开
+起初，这两个巨头在台面上来往密切，偶尔在台下使绊子，现在变成了在台面上生意少了，台下使绊子越来越激烈——激烈得连台面都快要打破，两败俱伤地离开
 
 **For starters** we need to ask: **What aspects** of our competition/conflict with China are **inevitable** between a rising power and **a status quo power**, and what can be **dampened** by smart policy?
-首先，我们需要问:在一个崛起的大国和一个维持现状的大国之 间，我们与中国的竞争/冲突在哪些方面是不可避免的，在哪些方面 可以通过明智的政策起到抑制作用?
+首先，我们需要问:在一个崛起的大国和一个维持现状的大国之间，我们与中国的竞争/冲突在哪些方面是不可避免的，在哪些方面可以通过明智的政策起到抑制作用?
 
 When China sold us “**shallow goods**,” we didn’t care whether its government was **authoritarian, libertarian or vegetarian**. But when it comes to our buying China’s “deep goods,” **shared values matter** and they are not there.
-当中国卖给我们“浅层商品”时，我们不在乎它的政府是威权主义、自由主义还是素?主义。但当谈到我们购买中国的“深层商品”时，共同价值观念很重要，但它们却并不存在。
+当中国卖给我们“浅层商品”时，我们不在乎它的政府是威权主义、自由主义还是素食主义。但当谈到我们购买中国的“深层商品”时，共同价值观念很重要，但它们却并不存在。
 
 if we are now going to **shift our focus** from the Middle East to an **irreversible strategy** of confronting China, we should **start by asking** three foundational questions
 如果我们现在要将关注点从中东转移到对抗中国的不可逆转的战略上，我们应该先问三个基本问题
@@ -92,7 +71,7 @@ When we make it the world **versus** China on what are the best and most just **
 当我们让世界与中国在何为最好和最公正的国际规范对立时，我们就可以孤立北京的强硬派，并让中国更多的改革派站在我们这边。
 
 But China will not respond just to **high-minded** talk of international norms, even if faced with a global coalition. Such talk has to be **backed up** with economic and **military clout**.
-但即使面对一个全球联盟，中国也不会只对国际规范的高姿态谈话 作出回应。这种谈话必须得到经济和军事影响力的支持。
+但即使面对一个全球联盟，中国也不会只对国际规范的高姿态谈话作出回应。这种谈话必须得到经济和军事影响力的支持。
 
 It might **light a fire** under Americans to get serious about **national renewal**. But it might also light a fire to the whole U.S.-China relationship, affecting everything from supply chains to student exchanges to Chinese purchases of U.S. **government bonds**.
 它也许能点燃美国人对国家复兴的激情。 但这也可能点燃整个美中关系，影响从供应链到学生交流，再到中国购买美国政府债券的方方面面。
@@ -107,10 +86,10 @@ A civilization “**is born stoic and dies epicurean**,” wrote historian Will Du
 历史学家威尔·杜兰特在谈到巴比伦人时写道，一个文明“生于坚忍，死于享乐”。我们的文明生来是乐观和开明的，至少按照当时的标准是这样。现在感觉它好像正在逐渐衰老，变得疑神疑?。
 
 Joe Biden was supposed to be **the man of the hour**: a **calming** presence **exuding decency, moderation** and trust. As a candidate, he **sold himself as** a transitional president, a **fatherly** figure in the **mold** of George H.W. Bush who would restore **dignity and prudence** to the Oval Office after the **mendacity and chaos** that came before. It’s why I voted for him, as did so many others who once **tipped red**.
-乔·拜登本应是这个时刻的主?:从容出场，散发着正派、温和和值得信任的气质。作为候选人，他标榜自己是转型总统， 一个像乔治·H·W·布什一样的父亲般的人物，在椭圆形办公室经历了先前的谎言和混乱之后，他将恢复其尊严和审慎。这就是我投票给他的原因，就像许多其他曾经倾向共和党的人一样
+乔·拜登本应是这个时刻的主角(风云人物):从容出场，散发着正派、温和和值得信任的气质。作为候选人，他标榜自己是转型总统， 一个像乔治·H·W·布什一样的父亲般的人物，在椭圆形办公室经历了先前的谎言和混乱之后，他将恢复其尊严和审慎。这就是我投票给他的原因，就像许多其他曾经倾向共和党的人一样
 
 Instead, Biden has become the **emblem** of the hour: **headstrong** but shaky, ambitious but **inept**. He seems to be the last person in America to realize that, whatever the **theoretical merits** of the decision to withdraw our remaining troops from Afghanistan, the military and intelligence assumptions on which it was built were **deeply flawed**, the manner in which it was executed was a national **humiliation** and a **moral betrayal**, and the timing was **catastrophic**.
-相反，拜登在这个时刻却成为了这样的象征:固执但摇摆不定，雄心勃勃但无能。无论是从阿富汗撤出剩余部队的决定有什么理论价值， 该决定所依据的军事和情报假设存在严重缺陷，其执行方式是对国家的羞辱和道德上的背叛，其时机是灾难性的，拜登似乎是美国最后一个意识到这些的人
+相反，拜登在这个时刻却成为了这样的象征:固执但摇摆不定，雄心勃勃但无能。无论是从阿富汗撤出剩余部队的决定有什么理论价值，该决定所依据的军事和情报假设存在严重缺陷，其执行方式是对国家的羞辱和道德上的背叛，其时机是灾难性的，拜登似乎是美国最后一个意识到这些的人
 
 The 9/11 memorial at the  World Trade Center — water **cascading into one void**, and then  **trickling**, out of sight, into another — has **never felt more fitting**.
 在世贸中心的9·11纪念广场，水向下流入一层空洞，水流逐渐变弱、消失，淌入另一层空洞，这样的意象从未让人感到如此贴切。
@@ -119,13 +98,13 @@ That’s the **optimistic scenario**. **Alternatively**, he could suffer a legisl
 这是乐观的情况。或者，他可能会遭受像1994年希拉里·克林顿的医疗改革那样的立法灾难，好在比尔·克林顿急剧转向中间派
 
 Even the optimistic **precedent** was followed by a Democratic **rout** in 2010, when the party lost 63 House seats. If history repeats itself at the 2022 midterms, I doubt that even Joe Biden’s **closest aides** think he has the **stamina** to fight his way back in 2024. Has Kamala Harris shown the political talent to **pick up the pieces**?
-即使?主党有这一乐观的先例，它在2010年仍遭遇了溃败，当时该党失去了63个众议院席位。如果历史在2022年中期选举重演，我怀疑即使是乔·拜登最亲密的助手都会觉得他的精力不足以撑到在2024年重回巅峰。卡玛拉·哈里斯有没有显示出收拾残局的政治才能?
+即使民主党有这一乐观的先例，它在2010年仍遭遇了溃败，当时该党失去了63个众议院席位。如果历史在2022年中期选举重演，我怀疑即使是乔·拜登最亲密的助手都会觉得他的精力不足以撑到在2024年重回巅峰。卡玛拉·哈里斯有没有显示出收拾残局的政治才能?
 
 Perhaps what will save the Democrats is that Biden’s weakness will **tempt** Donald Trump to seek (and almost certainly gain) the Republican nomination
-如果拜登的软弱诱使唐纳德·特朗普寻求(并且几乎肯定会获得)共和党提名，这或许能拯救?主党
+如果拜登的软弱诱使唐纳德·特朗普寻求(并且几乎肯定会获得)共和党提名，这或许能拯救民主党
 
 There’s a **way back from this cliff’s edge**. It begins with Biden finding a way to acknowledge publicly the **gravity** of his administration’s **blunders**
-现在悬崖勒?还来得及。首先，拜登需要以某种方式来公开承认其政府犯错误的严重性
+现在悬崖勒马还来得及。首先，拜登需要以某种方式来公开承认其政府犯错误的严重性
 
 He’s proud, **inflexible**, and thinks **he’s much smarter than he really is**. That’s bad news for the administration. It’s worse news for a country that **desperately needs** to avoid another failed presidency
 他骄傲、固执，高估自己的智力。对政府来说， 这是个坏消息。对于一个迫切需要避免又一段失败的总统任期的国家来说，这是个更坏的消息
@@ -137,22 +116,22 @@ This pandemic has left conversations and lives **cut short**.
 这场大流行使谈话和生命都缩短了
 
 And it seems to be bringing a similar **clarity** to people about their priorities: The pandemic has led to one of the largest **shifts** in jobs in recent memory, with millions of Americans making changes.
-它似乎也让人们认清了什么是重要的:大流行导致了相当?一段时间里最大的劳动力市场转型之一，数百万美国人做出了改变
+它似乎也让人们认清了什么是重要的:大流行导致了相当长一段时间里最大的劳动力市场转型之一，数百万美国人做出了改变
 
 The pandemic has **disabused** us of the **illusion** of time as a **limitless** resource and of the false promise that the sacrifices we make for our careers are always **worth** it.
 这场疫情使我们摆脱了时间是一个无穷的资源的错觉，以及我们为职业做出的牺牲总是值得的虚假承诺。
 
 In the meantime, exercise and a **reasonable** diet was the **tithes** we paid to our fear
-与此同时，锻炼和合理的饮?只是我们为恐惧付出的一小部分
+与此同时，锻炼和合理的饮食只是我们为恐惧付出的一小部分
 
 For all that we know about the relatively **low mortality rates** of Covid-19 among the young, it remains something of a **deadly** lottery
 尽管我们知道年轻人中Covid-19的死亡率相对较低，但它仍然是一种致命的彩票
 
 We have had to consider our **collective** mortality. And we **are now faced with** the question of meaning. Like the **biblical psalmist** says, “We have escaped like a bird from the fowler’s snare; the **snare** has been broken, and we have escaped.” (Psalm 124:7). Covid-19 **threatened to capture** us in its snare, but **thus far** we have **eluded** it. What shall we do with this opportunity?
-我们不得不考虑我们的集体死亡率。我们现在面临着意义的问题。正如圣经中的诗人所说:“我们好像雀?，从捕?人的罗网里逃脱，罗网破裂，我们就逃脱了。”(诗篇124:7)。Covid-19威胁要用它的罗网俘获我们，但到目前为止我们都躲过了它。我们要如何利用这个契机?
+我们不得不考虑我们的集体死亡率。我们现在面临着意义的问题。正如圣经中的诗人所说:“我们好像雀鸟，从捕鸟人的罗网里逃脱，罗网破裂，我们就逃脱了。”(诗篇124:7)。Covid-19威胁要用它的罗网俘获我们，但到目前为止我们都躲过了它。我们要如何利用这个契机?
 
 When we had the **illusion of time**, the lower pay, long **commutes**, high cost of  living and separation from loved ones seemed a small price to pay for a successful career. But the pandemic reminded us that there are some things more important than **vocational** progress.
-值得。当我们有时间的错觉时，较低的工资、?时间的通勤、高昂的生活成本和与亲人的分离似乎是为成功的事业付出的微不足道的代价。但疫情提醒我们，有些事情比职业发展更重要。
+当我们有时间的错觉时，较低的工资、长时间的通勤、高昂的生活成本和与亲人的分离似乎是为成功的事业付出的微不足道的代价。但疫情提醒我们，有些事情比职业发展更重要。
 
 This was **equally true** for single friends who lived in areas where the entire social scene **catered to** married people with families.
 对于一些单身朋友来说也是如此，他们住在所有社交活动都迎合有家庭的已婚人士的地区
@@ -170,13 +149,13 @@ If there is a lesson in this for employers, it is to remember that employees are
 如果这些对雇主来说有什么教训的话，那就是要记住，员工不仅仅是工人。我们有一种在用于谋生的时间之外的身份。体面对待员工、提供灵活性并为工作之外的生活留出空间的工作将会蓬勃发展
 
 I did not get to speak to my father a final time, but I did deliver the **eulogy** at his funeral. The need to **make sense of** his death revealed what was so often hard to see in the **ebb and flow** of our life together. He was like most of us, **a mass of contradictions**.
-我没能和我父亲说上最后一次话，但我在他的葬礼上致了悼词。理解他的死亡这个需求，揭示了在我们共同生活的起起落落中很难看到的东?. 他和我们大多数人一样，是矛盾的集合体。
+我没能和我父亲说上最后一次话，但我在他的葬礼上致了悼词。理解他的死亡这个需求，揭示了在我们共同生活的起起落落中很难看到的东西. 他和我们大多数人一样，是矛盾的集合体。
 
 I confronted him about things he had done and the real pain he caused. It was not a **healing**, but it began something we never got to finish.
-我质问他所做过的事和他造成的痛苦。这不是一种治愈，但它开始了一种我们未能完成的东?。 
+我质问他所做过的事和他造成的痛苦。这不是一种治愈，但它开始了一种我们未能完成的东西。 
 
 When he died, I was in **the early stages** of writing what became “Reading While Black.” It has the following **dedication**: “This book **is dedicated to** the memory of Esau McCaulley Sr., who died before he ever got to see a book **bearing** our name in print. **Whatever else** I am, I will always remain your son.”
-他去世的时候，我刚开始写《黑人的阅读》， 它的致辞是这样的:“这本书献给依绍·?卡利，他在看到一本印有我们名字的书之前就去世了。不论我还有什么身份，我始终是你的儿子。”
+他去世的时候，我刚开始写《黑人的阅读》，它的致辞是这样的:“这本书献给依绍·麦卡利，他在看到一本印有我们名字的书之前就去世了。不论我还有什么身份，我始终是你的儿子。”
 
 It seems that Covid-19 has **dealt a collective trauma** to the American **consciousness** and that **the full fruit of** that trauma remains uncertain. One thing is clear: Our previous normal was **not as good as we thought it was**.
 Covid-19似乎对美国人的意识造成了集体性创伤，这种创伤的全部后果还不确定。有一件事是清楚无疑的:我们过去的常态并不如我们以为的那般坚固美好
@@ -323,10 +302,10 @@ While China faces broad overcapacity and other worries, many economists in China
 尽管中国面临广泛的产能过剩和其他担忧，中国的许多经济学家仍比其他国家的经济学家对中国能够度过难关更有信心
 
 We **settled into** the now familiar contest between democratic liberalism and authoritarianism.
-我们陷入了?主自由主义和威权主义之间的竞争，这种竞争现在人们已经很熟悉了
+我们陷入了自由主义和威权主义之间的竞争，这种竞争现在人们已经很熟悉了
 
 They used **religious symbols** as nationalist identity markers and **rallying cries**. They **unified the masses** behind them by **whipping up perpetual culture wars**. They **reframed** the global debate: it was between the **moral decadence** of Western elites and traditional values and superior spirituality of the **good normal** people in their own homelands.
-他们使用宗教符号作为?族主义的身份标志和战斗口号。他们通过无休止的文化战争，将群众团结在他们身后。他们重新定义了全球辩论: 这是?方精英的道德堕落，与传统价值观以及本国善良普通人的优越精神之间的争论。
+他们使用宗教符号作为?族主义的身份标志和战斗口号。他们通过无休止的文化战争，将群众团结在他们身后。他们重新定义了全球辩论: 这是西方精英的道德堕落，与传统价值观以及本国善良普通人的优越精神之间的争论。
 
 The 21st century is turning into an **era of globe-spanning holy wars** at a time when the **appeal** of actual religion seems to be **on the wane**.
 在现实宗教的吸引力似乎在减弱的时候，21世纪正在变成一个跨越全球的圣战时代
@@ -341,22 +320,22 @@ The Chinese internet is **apparently now rife with** attacks on the **decadent**
 中国互联网现在显然充斥着对颓废的“白左”的攻击—— 这个词是指受过教育的美国和欧洲进步人士，他们是女权主义和LGBTQ权利等等的倡导者。
 
 They are **motivated by nativist** and anti-immigrant attitudes and then **latch onto** Christian symbols to separate “them” from “us.” In Germany, for example, **the far-right group** that aggressively **plays up** its Christian identity **underperforms** among voters who are actually religious.
-他们受本土主义和反移?态度驱动，然后抓住基督教的象征，把“他们”和“我们”分开。例如，在德国，激进地宣扬其基督教身份的极右翼团体在真正有宗教信仰的选?中表现不佳
+他们受本土主义和反移?态度驱动，然后抓住基督教的象征，把“他们”和“我们”分开。例如，在德国，激进地宣扬其基督教身份的极右翼团体在真正有宗教信仰的选举中表现不佳
 
 These **religiously cloaked** authoritarians have naturally **provoked** an anti-religious **backlash**. The **pseudo-religious** authoritarians have raised the **moral stakes**
-这些披着宗教外衣的威权主义者自然激起了反宗教的反弹, 伪宗教威权主义者提高了道德?险
+这些披着宗教外衣的威权主义者自然激起了反宗教的反弹, 伪宗教威权主义者提高了道德风险
 
 Those of us on the side of Western liberalism have no choice but to fight this on the spiritual and **cultural plane** as well, to show that **pluralism** is the opposite of **decadence**, but is a spiritual-rich, **practically effective** way to **lift human dignity and run a coherent society**.
-这些站在?方自由主义一边的人别无选择，只能在精神和文化层面上与之斗争，以表明多元化是颓废的反面，它是一种精神丰富、实际有效的方式，可以提升人类尊严，并运行一个协调的社会
+这些站在自由主义一边的人别无选择，只能在精神和文化层面上与之斗争，以表明多元化是颓废的反面，它是一种精神丰富、实际有效的方式，可以提升人类尊严，并运行一个协调的社会
 
 The war in Afghanistan wasn’t a failure. It was a **massive success** — for those who **made a fortune off** it.
 阿富汗战争不是一场失败，而是一场巨大的成功——对那些从中发财的人来说。
 
 Consider the case of Hikmatullah Shadman, who was just a teenager when American Special Forces **rolled into** Kandahar **on the heels of** Sept. 11. They hired him as an interpreter, paying him up to $1,500 a month — 20 times the salary of a local police officer, **according to a profile** of him in The New Yorker. By his late 20s, he owned a trucking company that supplied U.S. military bases, earning him more than $160 million.
-以希克?图拉·沙德曼为例。美国特种部队在 9·11事件发生后进入坎大哈时，他还只是一个十几岁的少年。据《纽约客》上一篇关于他的人物特写，特种部队雇了他来当翻译，每月付给他最高1500美元，是当地警察工资的20倍。他快30岁时已拥有一家为美国军事基地提供物资的卡?运输公司，这让他赚了逾1.6亿美元。
+以希克图拉·沙德曼为例。美国特种部队在 9·11事件发生后进入坎大哈时，他还只是一个十几岁的少年。据《纽约客》上一篇关于他的人物特写，特种部队雇了他来当翻译，每月付给他最高1500美元，是当地警察工资的20倍。他快30岁时已拥有一家为美国军事基地提供物资的卡车运输公司，这让他赚了逾1.6亿美元。
 
 If a **small fry** like Shadman could **get so rich off** the war on terror, imagine how much Gul Agha Sherzai, a **big-time** warlord-turned- governor, has **raked in** since he helped the C.I.A. run the Taliban out of town
-如果像沙德曼这样的小人物都能从反恐战争中赚这么一大笔钱的话， 想象一下，军阀出身的省?古尔·阿迦·谢尔扎伊这样的大人物，自帮助中央情报局把塔利班赶出城以来已经赚了多少钱
+如果像沙德曼这样的小人物都能从反恐战争中赚这么一大笔钱的话， 想象一下，军阀出身的省长古尔·阿迦·谢尔扎伊这样的大人物，自帮助中央情报局把塔利班赶出城以来已经赚了多少钱
 
 Nobody knows how much he is worth, but it is clearly hundreds of millions — enough for him to talk about a $40,000 **shopping spree** in Germany as if he were spending **pocket change**.
 没人知道他身价几何，但显然有数亿美元，多到足够让他把一次在德国的4万美元购物狂欢说得像是花口袋里的零钱似的
@@ -365,7 +344,7 @@ Look under the **hood of the “good war,”** and this is what you see. Afghanist
 这就是这场“正义战争”外表下的情况。阿富汗战争本应是一场消灭恐怖 分子、将女孩从塔利班手下解救出来的光荣战争。这本应是一场我们本会、本可、本该打赢的战争，如果不是因为我们被伊拉克分散了注意力，如果不是因为阿富汗政府腐败得无可救药。但让我们现实一点吧。腐败不是这场战争的一个设计缺陷，而是一个设计特色。我们自己没有推翻塔利班。我们花大价钱雇军阀来推翻塔利班
 
 Westerners often **scratched their heads** at the **persistent lack of capacity** in Afghan governing institutions, but the **sophisticated** networks controlling those institutions never **intended to govern**. Their objective was **self-enrichment**. And at that task, they proved **spectacularly** successful.
-?方人经常对阿富汗政府机构的持续无能苦思不得其解, 然而控制这些机构的复杂 关系网从来都没打算治理国家。他们的目标是为自己敛财。在这个任务上，他们被证明取得了了不起的成功
+西方人经常对阿富汗政府机构的持续无能苦思不得其解, 然而控制这些机构的复杂关系网从来都没打算治理国家。他们的目标是为自己敛财。在这个任务上，他们被证明取得了了不起的成功
 
 In April 2002, Defense Secretary Donald Rumsfeld **dictated a top-secret memo** ordering aides to **come up with** “a plan for how we are going to deal with each of these warlords — who is going to get money from whom, on what basis, in exchange for what, what is the **quid pro quo**, etc.,” according to The Washington Post.
 据《华盛顿邮报》报道，2002年4月，时任国防部?的唐纳德·拉姆斯菲尔德口授了一份绝密备忘录，要求助手提交“一份我们将如何与这些军阀打交道的计划——谁将从谁那里拿钱，以什么为依据，以什么 为交换，回报是什么，等等”。
@@ -374,28 +353,28 @@ The war proved **enormously lucrative** for many Americans and Europeans, too. E
 事实证明，对许多美国人和欧洲人来说，阿富汗战争也是巨大的赚钱机会。即使在公司被抓到贿赂官员、系统性地让纳税人多掏腰包之后，他们的合同仍源源不断。
 
 It’s a **bugbear** of mine that Afghan corruption is so frequently **cited as** an explanation (as well as an excuse) for Western failure in Afghanistan, Americans “**point the finger at** Afghans, **whilst ignoring** their role in both fueling and benefiting from the **patronage pump**.”
-阿富汗的腐败被如此频繁地引为?方在阿富汗失败的理由(和借口)，这是一个让我很头疼的问题. 美国人“指责阿富汗人，却忽视了他们在这个互惠互利链中既提 供资金、又从中受益的?色”。
+阿富汗的腐败被如此频繁地引为?方在阿富汗失败的理由(和借口)，这是一个让我很头疼的问题. 美国人“指责阿富汗人，却忽视了他们在这个互惠互利链中既提供资金、又从中受益的角色”。
 
 The Center for Public Integrity, a nonprofit that has been tracking spending in a series of reports called the **Windfalls of War**.
-非营利组织“公共诚信中心”一直在跟踪支出情况，在一系列报告中称之为战争暴利/战争财
+非营利组织“公共诚信中心”一直在跟踪支出情况，在一系列报告中称之为战争暴利(战争财)
 
 What **stands out** about the war in Afghanistan is the way that it became the Afghan economy. At least Iraq had oil. In Afghanistan, the war **dwarfed** every other economic activity, **apart from** the opium trade.
-阿富汗战争的特别之处在于它是如何成为阿富汗经济的。伊拉克至少有石油。在阿富汗，除了鸦片贸易外，战争使所有其他经济活动相形?绌。
+阿富汗战争的特别之处在于它是如何成为阿富汗经济的。伊拉克至少有石油。在阿富汗，除了鸦片贸易外，战争使所有其他经济活动相形见绌。
 
 But **alas**, policymakers in Washington **rushed to** push cash out the door, since money spent was one of the few **measurable metrics** of success.
 但遗憾的是，华盛顿的政策制定者急于把钱花出去，因为所花的钱是少数几个可衡量成功的指标之一。
 
 The money **was meant to** buy security, bridges and power plants to **win “hearts and minds.”** But the **surreal** amounts of cash **poisoned** the country instead, **embittering** those who didn’t have access to it, and **setting off rivalries** between those who did.
-这笔钱本来是用于安全、桥梁和发电厂，以赢得“?心”。但超现实的现金数额反而毒害了这个国家，让那些无法拿到这些钱的人感到愤怒， 并在拿到这些钱的人之间引发了竞争。
+这笔钱本来是用于安全、桥梁和发电厂，以赢得“民心”。但超现实的现金数额反而毒害了这个国家，让那些无法拿到这些钱的人感到愤怒，并在拿到这些钱的人之间引发了竞争。
 
 It would take years for the United States to realize that it was fueling corruption with its **excessive** spending and lack of **oversight**. The result was a fantasy economy that operated more like a casino or a **Ponzi scheme** than a country. Why build a factory or **plant crops** when you can get **fabulously wealthy** selling whatever the Americans want to buy?
-美国需要数年时间才能意识到，其过度支出和缺乏监督正在助?腐败。结果是产生了一个幻想中的经济体，其运作更像是一个赌场或庞氏骗局，而不是一个国家。如果出售美国人想要的东?就可以变得超级富有，为什么还要建造工厂或种植农作物?
+美国需要数年时间才能意识到，其过度支出和缺乏监督正在助长腐败。结果是产生了一个幻想中的经济体，其运作更像是一个赌场或庞氏骗局，而不是一个国家。如果出售美国人想要的东西就可以变得超级富有，为什么还要建造工厂或种植农作物?
 
 The money fueled the **revolving door** of war, **enriching the very militants** that it was meant to fight, whose attacks then **justified a new round of** spending.
-这笔钱推动了战争的旋转?，使得原本要打击的武装分子变得富有， 然后他们的袭击又为新一轮的支出提供了理由。
+这笔钱推动了战争的旋转门，使得原本要打击的武装分子变得富有，然后他们的袭击又为新一轮的支出提供了理由。
 
 Social scientists have a name for countries that are so **reliant on unearned income** from outsiders: “rentier states.” It is usually used for **oil-producing countries**, but Afghanistan now **stands out** as an extreme example.
-社会科学家对如此依赖外来者非劳动收入的国家起了一个名字:?租者国家。这个名字通常用于产油国家，但阿富汗现在是 一个极端的例子。
+社会科学家对如此依赖外来者非劳动收入的国家起了一个名字:出租者国家。这个名字通常用于产油国家，但阿富汗现在是一个极端的例子。
 
 I knew the war in Afghanistan had **gone off the rails** the day I had lunch in Kabul with a European consultant who **got paid a lot of money** to write reports about Afghan corruption. He’d just arrived, but he already had a lot of ideas about what needed to be done — including **ridding** the Afghan Civil Service of **pay scales based on seniority**. 
 在喀布尔与一位欧洲顾问共进午餐的那天，我就知道阿富汗战争已经脱离正轨，这位顾问获得了很多报酬，用于撰写有关阿富汗腐败的报道. 他刚到那里，但他已经对需要做的事情有了很多想法——包括让阿富汗公务员摆脱基于资历的薪酬等级。
@@ -404,7 +383,7 @@ I knew the war in Afghanistan had **gone off the rails** the day I had lunch in 
 这并不是说阿富汗人?不值得支持，即使是现在。他们确实值得。但是，通过更为深思熟虑的方式，花费更少的钱可以实现更多的目标。
 
 What does the Taliban takeover say about the war? It proves that you cannot buy an army. You can only rent one **for awhile**. Once the money **spigot** turned off, how many **stuck around to** fight for our vision of Afghanistan? 
-塔利班的接管对战争来说意味着什么? 它证明了你无法购买一支军队。你只能租用一段时间。一旦资金?头关掉，有多少人坚持为我们的阿富汗愿景而战?
+塔利班的接管对战争来说意味着什么? 它证明了你无法购买一支军队。你只能租用一段时间。一旦资金龙头关掉，有多少人坚持为我们的阿富汗愿景而战?
 
 When I moved to Washington, D.C., in 2002 we all **lived in 9/11’s shadow**. We waited for bombs in the Metro, for more **anthrax** envelopes, for a **sequel** to the previous autumn’s terror. We watched planes headed for Reagan Airport fly low over the Potomac, always **half-expecting** them to **veer**. Everything in my profession **revolved around** the War on Terror. 
-我在2002年搬到华盛顿特区时，大家都生活在9·11的阴影下。我们担心地铁里有炸弹，担心出现更多含有炭疽的信封，担心前一年秋天的恐怖事件出现续集。看到?往里根机场的?机在波托?克河上低空?行时，我们总是担心它们会突然转向。我职业中的一切都围绕着反恐战争。
+我在2002年搬到华盛顿特区时，大家都生活在9·11的阴影下。我们担心地铁里有炸弹，担心出现更多含有炭疽的信封，担心前一年秋天的恐怖事件出现续集。看到飞往里根机场的飞机在波托麦克河上低空飞行时，我们总是担心它们会突然转向。我职业中的一切都围绕着反恐战争。
