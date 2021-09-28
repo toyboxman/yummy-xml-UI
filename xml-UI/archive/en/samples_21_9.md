@@ -380,7 +380,7 @@ I knew the war in Afghanistan had **gone off the rails** the day I had lunch in 
 在喀布尔与一位欧洲顾问共进午餐的那天，我就知道阿富汗战争已经脱离正轨，这位顾问获得了很多报酬，用于撰写有关阿富汗腐败的报道. 他刚到那里，但他已经对需要做的事情有了很多想法——包括让阿富汗公务员摆脱基于资历的薪酬等级。
 
 **None of this is to say that** the Afghan people don’t **deserve support**, even now. They do. But **far more** can be achieved by spending **far less** in a more **thoughtful way**.
-这并不是说阿富汗人?不值得支持，即使是现在。他们确实值得。但是，通过更为深思熟虑的方式，花费更少的钱可以实现更多的目标。
+这并不是说阿富汗人不值得支持，即使是现在。他们确实值得。但是，通过更为深思熟虑的方式，花费更少的钱可以实现更多的目标。
 
 What does the Taliban takeover say about the war? It proves that you cannot buy an army. You can only rent one **for awhile**. Once the money **spigot** turned off, how many **stuck around to** fight for our vision of Afghanistan? 
 塔利班的接管对战争来说意味着什么? 它证明了你无法购买一支军队。你只能租用一段时间。一旦资金龙头关掉，有多少人坚持为我们的阿富汗愿景而战?
