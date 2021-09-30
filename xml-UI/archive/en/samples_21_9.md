@@ -387,3 +387,127 @@ What does the Taliban takeover say about the war? It proves that you cannot buy 
 
 When I moved to Washington, D.C., in 2002 we all **lived in 9/11’s shadow**. We waited for bombs in the Metro, for more **anthrax** envelopes, for a **sequel** to the previous autumn’s terror. We watched planes headed for Reagan Airport fly low over the Potomac, always **half-expecting** them to **veer**. Everything in my profession **revolved around** the War on Terror. 
 我在2002年搬到华盛顿特区时，大家都生活在9·11的阴影下。我们担心地铁里有炸弹，担心出现更多含有炭疽的信封，担心前一年秋天的恐怖事件出现续集。看到飞往里根机场的飞机在波托麦克河上低空飞行时，我们总是担心它们会突然转向。我职业中的一切都围绕着反恐战争。
+
+Nightly in our **unkempt** apartments he argued with the hawks — **which is to say** with all of us — **channeling** the realist foreign policy thinkers he admired, predicting **quagmire**, destabilization and defeat.
+每晚在我们凌乱的公寓里，他与鹰派——也就是与我们所有人——争论他所钦佩的现实主义外交政策思想家，预言困境、不稳定和失败。
+
+**In almost every way** the rest of the post-9/11 era **vindicated** his arguments — not just in the Iraq war but also in our **chaos-sowing** Libya intervention and our failed attempt at nation-building in Afghanistan.
+在后9·11时代的其余时间里，他的论点几乎在所有方面都得到了验证——不仅是在伊拉克战争中，也在我们制造了混乱的利比亚干预以及在阿富汗建国的失败尝试中。
+
+Even in 2015, it was still **potent** enough that Colby was **reportedly blackballed** from a job as foreign policy director for Jeb Bush’s campaign, because of his **insufficient enthusiasm** about a potential conflict with Iran.
+即使到了2015年，鹰派氛围依旧十分浓厚,据说科尔比曾因缺乏对伊朗潜在冲突的兴趣，而被拒绝担任杰布·布什竞选活动的外交政策主任。
+
+A **consensus** can change slowly and then, under the right pressure, **all at once**, and for Republicans that pressure came from Donald Trump. No **dove or systematizer**, he still made **realism and anti-interventionism respectable** again — with **immediate consequences** for my friend.
+共识可以慢慢改变，然后在适当的压力下骤变，对于共和党人来说，这个压力来自唐纳德·特朗普。他不是鸽派或系统主义者，但仍使现实主义和反干预主义再次受到尊重——这对我的朋友产生了直接的影响。
+
+As the **title suggests**, this is a **realist’s** book, **laser-focused** on China’s **bid for mastery** in Asia
+正如书名所暗示的那样，这是一本现实主义者的书，重点关注中国征服亚洲的努力
+
+Only China **threatens** American interests in a **profound** way, through a **consolidation** of economic power in Asia that **imperils** our **prosperity** and a military defeat that could **shatter** our alliance system. 
+只有中国能够以一种深刻的方式威胁到美国的利益——通过巩固在亚洲的经济实力危及我们的繁荣，以及一场可能破坏我们联盟体系的军事胜利。
+
+“The Strategy of **Denial**” presents a **particularly unsentimental** version of what a lot of people bidding to shape a post-9/11-era foreign policy believe
+《否定策略》展示了一个完全不带感情色彩的版本，反映了许多力图塑造后9·11时代外交政策的人所相信的那样
+
+But this is **a long way from** being any kind of consensus. The **establishment freak-out** over Biden’s Afghan **withdrawal indicates** the **extent** to which a focused, China-first foreign policy seems like **retreat** to Democrats and Republicans **accustomed to** more global and **unlimited** ambitions.
+而这离达成任何程度的共识还有很?的路要走。拜登从阿富汗撤军引发的权势集团的恐慌表明，对于更加习惯于无休止的全球性野心的?主党人和共和党人来说，目标明确、中国优先的外交政策在很大程度上似乎是一种退缩。
+
+**Meanwhile**, a very different group of **post-9/11-era thinkers** regards China **hawkishness** as a **dangerously self-fulfilling prophecy** — a way to **blunder** into an unnecessary and **disastrous** war.
+与此同时，一群截然不同的后9·11时代的思想家将对华鹰派立场视为一种危险的自我实现预言——一种失策，这将导致一场不必要的灾难性战争
+
+Rather than the old **establishment’s maximalism**, they prefer minimalism, an end even to the light-footprint forms of warcraft attacked by Samuel Moyn of Yale in his new book “**Humane**” — an interesting **accompaniment and counterpoint** to Colby’s — and a **deliberate retreat** from empire. (The idea that climate change requires **conciliation with** China also **looms** large for some in this group.)
+与旧建制派的最大化主义相比，他们更喜欢极简主义，甚至是终止耶鲁大学的塞缪尔·莫恩在其新作《人道》中所抨击的 “轻足迹”形式的战争——这本书站在科尔比著作的对立面，两本书搭配起来阅读很有趣——以及有意的退让。(气候变化需要与中国和解的想法对这一群体中的一些人来说也很重要。)
+
+The minimalist group has the **least influence** in Washington, but its **skepticism** about warmaking has a lot of popular support — including skepticism about war with China. 
+这个极简主义团体在华盛顿的影响力最小，但它对战争的怀疑得到了很多?众的支持——包括对与中国开战的怀疑。
+
+But Beijing’s own choices will also **shape our strategy**. A China that retreats **somewhat**, post-Covid, from **bellicosity** and border **skirmishes** would **defang** the China-hawk argument **quite a bit**.
+但北京自己的选择也将影响我们的战略。在新冠后时代，一个减少好斗和边境小规模冲突的中国将在很大程度上否定对华鹰派的论点。
+
+**On the other hand**, a China that looks at American **disarray** and its own **window of opportunity** and decides to move **aggressively** could leave my old friend in the same place the 9/11 era left his younger self — with his strategic analysis **vindicated, unhappily**, by an American defeat.
+另一方面，如果中国看到了美国的混乱和自己的机会窗口，并决定积极采取行动，这可能会让我的老朋友再次经历他年轻时候在9·11时代所经历的——他的战略分析不幸被美国的失败所证实。
+
+**Yet despite his assurances**, General Milley was so **concerned** about Mr. Trump that later that day he **convened a meeting** with top commanders to remind them that the procedures for launching a nuclear weapon **called for** his involvement in such a decision.
+然而，尽管做出了保证，米利还是非常担心特朗普，以至于当天晚些时候，他召集了一次高级指挥官会议，提醒他们发射核武器的程序规定了决策需要有他的参与。
+
+The book also **reveals** how Vice President Mike Pence **struggled** more than was **publicly known** over how to **navigate** Mr. Trump’s demands that he **upend** the election certification. 
+这本书还揭示出，在应对特朗普要求他推翻大选结果认证的问题上，副总统迈克·彭斯其实比公众知道的要更勉强。
+
+Mr. Pence **appeared open** to **going along with** Mr. Trump’s plan, pushed the **false claim** that Arizona’s voting results were wrong and asked whether there was any way he could delay certification.
+彭斯似乎对支持特朗普的计划持开放态度，他提出了亚利桑那州投票结果有问题的不实说法，并询问是否有任何方法可以推迟认证。
+
+“**Peril**,” which is **scheduled to be released** next Tuesday, says its **accounts** are based on **contemporaneous** notes, documents and interviews with **unnamed firsthand** participants and witnesses. 
+定于下周二发行的《危险》称，其叙述是基于当时的笔记、文件以及对未透露姓名的直接参与者和目击者的采访。
+
+**Top aides** — including General Milley, Defense Secretary Mark T. Esper and Attorney General William P. Barr — became **convinced** that they needed to take **drastic measures** to stop him from **trampling on** American democracy or **setting off** an international conflict, and General Milley thought that Mr. Trump had **declined mentally** in the **aftermath** of the election, according to the book.
+根据这本书，包括米利、国防部??克·T·埃斯珀和司法部?威廉·P·巴尔在内的高级助手们确信，他们需要采取激烈措施，以阻止特朗普践踏美国?主或引发国际冲突，米利认为大选之后的特朗普已经出现心智上的衰颓。
+
+**A little less than half** of the book also covers the first several months of Joseph R. Biden’s administration, as the new president **grappled with** the pandemic, a **faltering** economy, Congress and the military’s withdrawal from Afghanistan.
+这本书有将近一半的篇幅涵盖了拜登政府的前几个月，讲述这位新总统如何努力应对疫情、经济衰退、国会和从阿富汗撤军等问题。
+
+But it is the book’s details about the Trump administration that are **likely to garner** the most attention.
+但这本书中关于特朗普政府的细节可能会获得最多的关注。
+
+Despite General Milley’s **reassurances**, he **feared** that Mr. Trump might be trying to find a moment that he could **seize on** to remain in power, similar to Hitler’s **exploitation** in 1933 of an **arson fire** at the German Reichstag to help **institute emergency powers**, the book said.
+该书称，尽管米利做出了保证，但李作成担心特朗普可能会试图找到一个时机，通过抓住这个时机继续掌权，就像希特勒在1933年利用德国国会大厦纵火案来掌握非常时期的权力一样。
+
+But even after the call, General Milley concluded that the situation was “**grave**” and General Li “remained **unusually rattled**,” the book reports. Mr. Trump, General Milley had concluded, did not want a war but might order the launch of **some sort of** military strike that would **set off a chain reaction** and lead to war.
+而书中写道，即便在那次通话后，米利认为形势“严峻”，李作成仍然 “异常紧张”。米利得出的结论是，特朗普不想发动战争，但可能会下令进行某种军事打击，从而引发连锁反应，并导致战争。
+
+Later that day, General Milley spoke to Speaker Nancy Pelosi, who was growing **increasingly concerned** Mr. Trump would **lash out** and use military force. “This is bad, but who knows what he might do?” Ms. Pelosi said. “He’s crazy. You know he’s crazy. He’s been crazy for a long time. So don’t say you don’t know **what his state of mind is**.” “Madam **Speaker**,” General Milley said, “I agree with you on everything.”
+当天晚些时候，米利与南希·佩洛?议?进行了交谈，佩洛?愈发担心特朗普会大肆发泄并动用武力。“这太糟糕了，但谁知道他会做什么呢?”佩洛?说。“他疯了。你知道他疯了。他已经疯了很久了。所以不要说你不清楚他的心理状况。” “议?女士，”米利说。“您说的这些我都同意。”
+
+The general added: “The strict procedures are **explicitly** designed to avoid **inadvertent** mistakes or accident or **nefarious, unintentional, illegal, immoral, unethical** launching of the world’s most dangerous weapons.”
+他还说:“严格的程序旨在避免因疏忽出现错误或意外，或是对世界上最危险的武器进行邪恶的、无意的、非法的、不道德的发射。”
+
+**While** much had been reported about General Milley’s views of Mr. Trump, the book’s **depiction** of Mr. Pence revealed for the first time the depths that the vice president went to as his **fealty** to Mr. Trump **collided with** calculations about his political future and the counsel of his aides and advisers to follow the Constitution.
+尽管有大量笔墨描述了米利对特朗普的看法，书中对彭斯的描写则首次揭露了在对特朗普的忠诚与对政治前途的盘算、以及其助手和顾问对遵守宪法的建议之间出现冲突之时，这位副总统可以做到何种程度。
+
+‘It’s a **Godsend**’: 9-Cent Taxi Rides in **Rural** South Korea
+“天上掉下来的好事”:改变韩国农村的“百元出租?”
+
+On a recent **overcast** morning, a village on South Korea’s west coast showed no sign of human **stirring** until five older residents slowly emerged through the fog that **shrouded lush**, green rice **paddies**.
+不久前一个天色阴沉的早晨，在韩国?海岸一个村庄，雾气笼罩着郁郁葱葱的稻田，没有行人走动的迹象，直到五位年?的居?慢慢地从雾中出现。
+
+As its population declined, **so did the number of bus passengers**, which led to unprofitable **routes** being canceled. Then bus drivers **went on strike**.
+随着人口减少，公交?乘客的数量也减少了，导致不盈利的路线被取消。然后公共汽?司机开始罢工。 
+
+“The taxi now drives me all the way to my **doorstep**,” Ms. Na said. “You can’t imagine what it was like in older days when I had to **haul** my shopping bag all the way from the bus stop to my place. It **killed my legs**, but there is no one around here to help old folks like me.”
+“现在出租?会一路载我到家?口，”罗正顺说。“你根本想不到以前我得把购物袋从?站一路拖到家的样子。我的腿都要断了，但这附近没有人来帮助我这样的老人。”
+
+For years, South Korea has reported one of the lowest **birthrates** in the world, creating a **fast-aging** population and causing **strains** in all **aspects of society** from its welfare budget to public transportation to schools.
+多年来，韩国一直是世界上出生率最低的国家之一，造成人口快速老龄化，并给社会各个方面带来压力——从福利预算到公共交通再到学校。
+
+The impact of the **demographic** shift is the most **visible** in thousands of rural villages whose young people, including Ms. Na’s children, have left for big cities for **better-paying jobs**. 
+人口结构变化的影响在成千上万的农村地区表现得最为明显，那里的年轻人，包括罗正顺的孩子们，都已经离开家乡到大城市去寻找收入更高的工作。
+
+Government officials say supporting the 100-won taxi services is **far more cost-effective than deploying subsidized buses** to the tiny **hamlets tucked** between mountains where few people other than **arthritic**, retired farmers live — and building wider roads to **accommodate** those buses.
+政府官员表示，支持百元出租?服务远比向隐藏在山间的小村庄部署提供补贴的公共汽?更具成本效益，那里除了退休、患有关节炎的农?之外，很少有人居住，而且还要修建更宽的道路来容纳这些公共汽?。
+
+She sees her village of 12 houses, three of them empty, **decay day by day**. "When it rained the other night, I heard part of an empty house next door **caving in**." said Ms. Park, whose own home was **well-kept**, with farm gear **hanging neatly** on a wall and **zinnias blossoming** outside her gate. “We feel more isolated as the pandemic made it more difficult for our children to visit.”
+她看着村子里的12栋房子一天天衰败，其中三栋是空的。那天晚上下雨的时候，我听到隔壁一栋空房子的一部分塌了. 朴景洙说。她自己的房子保养得很好，农具整?地挂在墙上，?外百日菊开了。疫情让孩子们更难来看望我们，我们觉得更孤立了。
+
+**In addition to** picking up groceries and seeing their doctors, they exchange news with **acquaintances** from other villagers, like who was taken to a nursing home and who died.
+除了买东?和看病，他们还跟其他村子的熟人交流消息，比如谁被送进了疗养院，谁去世了。
+
+Seocheon **boasts** two UNESCO **World Heritage** attractions — a centuries-old practice of **weaving fine fabric** from ramie plants, and its **tidal flats teeming with marine life**. 
+舒川拥有两个联合国教科文组织世界遗产——有着数百年历史的苧麻纺织，以及海洋生物遍布的潮滩。
+
+During the **bird-migrating seasons**, tourists from across South Korea drive to Seocheon to watch **flocks of** longbills, mallards and **honking** swans **feeding on its tidal flats** before flying onto Siberia.
+在?类迁徙季节，来自韩国各地的游客驱?前往舒川，观看成群的弯嘴吸蜜?、野鸭和鸣叫的天鹅在?往?伯利亚前在潮滩上觅?。
+
+But the county didn’t escape the **upheaval** that South Korea’s rapid **industrialization wrought** on its rural towns. Its ramie fabric industry declined, with most of South Korea’s clothes now imported or made of **synthetic materials**. People drink more **imported wine** and beer than sogokju.
+但该郡并没有逃脱韩国快速工业化给农村城镇带来的剧变。由于韩国的大部分服装现在依靠进口或由合成材料制成，苎麻面料产业衰落。
+
+Seocheon, the county seat, **has all the looks of** a fast-aging community. During a recent market day, its orthopedic and other medical **clinics** were **jammed with** elderly patients.
+舒川城拥有快速老龄化社区的所有特征。在最近的一个赶集日，其?科和其他医疗诊所里挤满了老年患者。
+
+At the nearby bus and taxi stop, **stooped**, older passengers with **shopping bundles** sat under **an awning** like a row of birds, waiting for 
+their buses or 100-won taxis to **show up**. 
+在附近的公交?站和出租?站，提着购物袋的年?乘客驼着背，像一排小?一样坐在遮阳篷下，等待他们的公交?或百元出租?。郡政府安排的一名身穿?色背心的年轻助理正忙着在他们上下?时帮忙提购物袋。
+
+It was **especially difficult** for old people to walk to the nearest bus stop when it **snowed** in winter or was **scorching** hot in summer
+在下雪的冬天或 炎热的夏季，老人步行到最近的公交?站尤其困难。
+
+On a recent day, she was **all smiles** as she carried a shopping bag full of fish and **crabs** from the market. She had even **treated** herself to **a new pair of pants**.
+最近的一天，她笑容满面地提着一个装满从市场买来的?和螃蟹的购物袋。她还给自己买了一条新裤子。

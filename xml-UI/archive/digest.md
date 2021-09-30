@@ -442,6 +442,8 @@
 	- 服务网格
         - [百度服务网格](https://mp.weixin.qq.com/s/DN0oXKeR0CnG30XmcF98tw)
         - [陌陌Service Mesh架构](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
+    - 分布式调度
+        - [分布式定时任务调度系统技术选型](https://mp.weixin.qq.com/s/Y0fEWxuH-3PMX-rb92-D6w)
     - [腾讯微服务平台的架构演进](https://mp.weixin.qq.com/s/C8cXSdHcqvuVMxybinFQPQ)  
         `原生Consul的能力与限制/多租户/性能优化`
 	- [小鹏汽车技术中台微服务实践](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)  
@@ -476,6 +478,9 @@
 + [美团即时物流的分布式系统架构设计](https://mp.weixin.qq.com/s/UyQmhjv9qMtQSDmu5ZyOvA)
 + [订单系统设计思路](https://mp.weixin.qq.com/s/dejiHNKRa98b-VNmHjq0tA)
 + [优秀的软件设计文档要求](https://mp.weixin.qq.com/s/OyAIKmQ61Lk_BXcMY3ML1A)
++ [高效迅速的进行CodeReview](https://mp.weixin.qq.com/s/gYmwLBixMSUAoAenogX37g)
++ [项目管理常用的七大工具](https://mp.weixin.qq.com/s/MXOfY1hrE1z_e_bacTX-oQ)
++ [研发效能思考](https://mp.weixin.qq.com/s/8rXUprqmfKhKdqz3VzA9Tg)
 
 #### Database
 + 基本知识
