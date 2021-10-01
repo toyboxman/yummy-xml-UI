@@ -49,7 +49,7 @@ It **lifted out of poverty** hundreds of millions of people in China, India and 
 For the past five years, though, the United States and China **have been stumbling down a path of de-integration** and maybe toward **outright confrontation**. 
 然而，过去五年里，美国和中国一直在脱离一体化的道路上跌跌撞撞，甚至可能走向彻底对抗。
 
-These two giants **went from** doing a lot of business on the table and occasionally kicking each other under the table **to** doing a lot less business on the table and kicking each other a lot harder under the table — so much harder that they are in danger of breaking the table and leaving each other **with a limp**. 
+These two giants **went from** doing a lot of business on the table and **occasionally** kicking each other under the table **to** doing **a lot less** business on the table and kicking each other **a lot harder** under the table — so much harder that they are in danger of breaking the table and leaving each other **with a limp**. 
 起初，这两个巨头在台面上来往密切，偶尔在台下使绊子，现在变成了在台面上生意少了，台下使绊子越来越激烈——激烈得连台面都快要打破，两败俱伤地离开
 
 **For starters** we need to ask: **What aspects** of our competition/conflict with China are **inevitable** between a rising power and **a status quo power**, and what can be **dampened** by smart policy?
@@ -511,3 +511,27 @@ It was **especially difficult** for old people to walk to the nearest bus stop w
 
 On a recent day, she was **all smiles** as she carried a shopping bag full of fish and **crabs** from the market. She had even **treated** herself to **a new pair of pants**.
 最近的一天，她笑容满面地提着一个装满从市场买来的?和螃蟹的购物袋。她还给自己买了一条新裤子。
+
+The announcement by China, which is **by far** the biggest **domestic** producer of coal and the largest financier of **coal-fired** power plants around the world, was **cautiously welcomed** by experts.
+作为迄今为止最大的国内煤炭生产国和全球最大的燃煤电厂融资国，中国的这一声明受到了专家的谨慎欢迎。
+
+China is the **undisputed** king of coal. Last year, China built **more than three times more** new coal power capacity than all other countries in the world **combined, equal to** “more than one large coal plant per week,” China’s **net** construction of coal power capacity within the country **grew by** 29.8 gigawatts, **essentially wiping out the gains** of the rest of the world.
+中国是无可争议的煤炭之王。去年中国新建的煤炭装机容量是世界上所有其他国家总和的三倍多，相当于“每周新建一座以上的大型燃煤电厂”。中国国内煤电装机容量净建设增加了29.8吉瓦，基本上抵消了世界其他地区煤电净装机容量减少的成果
+
+How much energy is **in a gigawatt**? It is **enough to power** 750,000 homes or 110 million LED **light bulbs**.
+一吉瓦有多少能量? 它足以为75万个家庭或1.1亿个LED灯泡供电
+
+Is China **abandoning** coal? Not just yet. **Domestically**, China produces about 1,200 gigawatts of energy from coal, according to Greenpeace China.
+中国正在放弃煤炭吗?还没有。根据绿色和平中国的数据，在国内，中国通过燃煤生产约1200吉瓦的能源
+
+For some **host countries**, partnering with China is the only way to draw energy from their own supply of coal. That is because China has an **abundance of** money, the **steel mills** that are needed to make coal power plants and the **engineering expertise** that many other countries don’t have.
+对一些东道国来说，与中国合作是从本国煤炭供应中获取能源的唯一途径。因为中国拥有大量资金、制造煤电厂所需的钢厂，以及许多其他国家不具备的工程专业知识。
+
+South Korea and Japan have been the two largest supporters of coal-fired power plants **abroad after China**. **In light of that**, China’s role in **financing** power plants **overseas** “was only going to grow,”
+韩国和日本是除中国之外海外燃煤电厂的最大支持者. 有鉴于此，中国在海外发电厂融资方面的作用“只会越来越大”。
+
+Plans to build coal power plants have also been **shelved** (South Africa), **reconsidered** (Bangladesh) and faced funding troubles (Vietnam).
+在其他地区，建设燃煤电厂的计划也被搁置(南非)、重新考虑(孟加拉国)或面临资金问题(越南)。
+
+The statement did not **make clear** whether the **moratorium** on “building” **meant no more financing**, or if the new policy would apply to projects that have already been proposed, approved or are **under construction**. He would like to have more **clarity** on these issues in the coming weeks.
+声明没有说明暂停“建设”是否意味着不再融资，或者新政策是否适用于已经提出、批准或在建的项目。他希望在未来几周内对这些问题能有更清楚的了解。
