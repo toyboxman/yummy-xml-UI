@@ -61,7 +61,7 @@ If Beijing tries to **make an example out of** Evergrande by letting it collapse
 The Biden administration should **take a breath and make certain** it does not reflect a **self-defeating, militarized** concept of great power that pushes other potential partners away in **bullheaded pursuit** of agreement on one issue. It should **institute** strong nonproliferation safeguards, repair damage to other **vital alliances** and ensure that the plan isn’t **throwing good money** after bad strategy.
 拜登政府需要静下来想清楚，此举会不会显得像一种弄巧成拙的军事化大国概念，导致其他潜在合作者被这种对单一问题协议的固执追求吓跑。协议需要制定强有力的不扩散防护措施，修复它给其他重要盟友造成的伤害，确保这不是在把钱浪费在糟糕的战略上。
 
-Too often, a narrow focus on great power competition just leaves America less competitive in the long run.
+**Too often**, a **narrow focus** on great power competition just leaves America **less competitive** in the **long run**.
 在大国竞争中，过分关注某一点经常导致美国丧失长远的竞争力。
 
 
