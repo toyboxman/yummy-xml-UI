@@ -361,6 +361,7 @@
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  
         `CAP/BASE/分布式事务/分布式锁/Paxos/Raft`
         - [2PC/3PC](https://mp.weixin.qq.com/s/9eHXz0dxYgJyNz4lpKfBNA)
+        - [分布式事务的七种解决方案](https://mp.weixin.qq.com/s/IY9jJq-hNaoLbLAa7erkcQ)
     - 分布式系统原理[[1](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg), [2](https://mp.weixin.qq.com/s/l-wM3owg_HYdRhzNl3d5dQ)]
     - [B2C电商支付中心产品架构](https://mp.weixin.qq.com/s/ZfSu2M0WLKvELY7GuvlRaQ)  
         `收单系统/清结算系统/账户系统/对账系统/支付安全`
@@ -422,6 +423,7 @@
         `定义需求/技术选型/开发及交付`
 	- [微服务雪崩及应对措施](https://mp.weixin.qq.com/s/OZ8eYm2Vs-C9sCPvf9zJxQ)  
         `微服务的高内聚和低耦合/服务调用链/级联故障和雪崩/服务限流熔断降级`
+        - [微服务架构服务限流方案](https://mp.weixin.qq.com/s/umeeffXhJXlMASHaVC6xZQ)
     - [微服务的经验教训](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
         `谷歌实践经验教训`
     - [gRPC长连接在微服务业务系统中的实践](https://mp.weixin.qq.com/s/LKGzc6XBAWYdskVQQJFLHw)   
