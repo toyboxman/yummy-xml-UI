@@ -64,4 +64,55 @@ The Biden administration should **take a breath and make certain** it does not r
 **Too often**, a **narrow focus** on great power competition just leaves America **less competitive** in the **long run**.
 在大国竞争中，过分关注某一点经常导致美国丧失长远的竞争力。
 
+There’s very **little insulation** left on **the wiring** in the relationship, and it’s not hard to imagine **getting some crossed wires** and that starting a fire. The Taiwan issue has **ceased to be a sort of narrow, boutique issue**, and it’s become **a central theater** — if not the **central drama** — in U.S.-China strategic competition
+在中美关系中，绝缘保护层所剩无几，某些电线交错导致起火的事情并不遥远。台湾已不再是个波及面狭窄的小问题，它已经成为美中战略竞争的中心舞台——甚至可以说是主线剧情
+
+All three have **sought to show resolve** in hopes of **averting war**, only to **provoke countermoves** that **compound distrust** and increase the risk of **miscalculation**.
+三方都试图表现出希望避免战争的决心，却制造了反效果，这加深了不信任，也增加了误判的风险。
+
+Taiwan independence was a **grave lurking threat to national rejuvenation**. Nobody should **underestimate the staunch determination, firm will** and powerful ability of the Chinese people to **defend national sovereignty and territorial integrity**.
+台独是“民族复兴的严重隐患”。任何人都不要低估中国人民捍卫国家主权和领土完整的坚强决心、坚定意志、强大能力
+
+Few believe a war is **imminent or foreordained, in part because** the economic and diplomatic **aftershocks would be staggering** for China.
+很少有人相信战争即将到来或注定爆发，部分原因是对中国而言，战争所带来的经济和外交打击将无比巨大。
+
+**Some individuals still try to completely deny** the War of Resistance against the United States and Aid Korea, **question the justice** of sending troops, and try to **erase** the great victory, No matter how they **distort, obliterate, falsify, tease and denigrate the facts**, history is written in the hearts of the people.
+仍有个别人试图全盘否定抗美援朝战争，质疑出兵正义性，试图抹杀伟大胜利，无论他们对事实如何歪曲、涂抹、篡改、戏谑、诋毁，历史写在人民心中。
+
+The film has **smashed records** since opening on Sept. 30, **on the eve of** China’s National Day. In its first week, it has already **grossed $552 million**, according to Maoyan, the ticketing service, already making it **the eighth-most-successful film** in China’s history.
+自9月30日国庆前夕上映以来，《长津湖》打破多项纪录。根据猫眼票务的数据，该片在上映第一周就获得了15.27亿元的票房，目前已是中国电影史上票房排名第八的作品。
+
+A decade ago, the Chinese government **systematically dismantled** the C.I.A.’s spying operation in the country, with **informants captured** or killed. Some former officials have **blamed a breach** of the agency’s **classified communications system**, while others have blamed a former C.I.A. officer **later convicted** of giving secrets to China. Since then, the agency has tried to rebuild its networks, but the Chinese government’s power to track the movements and communications of people has **slowed the effort**.
+十年前，中国政府系统瓦解了中情局在该国的间谍活动，线人或被捕或遭处决。一些前官员认为这是由于中情局的机密通讯系统遭到破坏，另一些人则怪罪到一名前中情局官员身上，此人后来因向中国提供机密情报而被定罪。此后，中情局一直试图重建间谍网络，但中国政府追踪相关行动和通信的能力阻碍了这项工作取得进展。
+
+**In the jargon** of the C.I.A., **tradecraft** is the skills spies use to **evade adversarial operatives**, find new sources and communicate with them **securely**. Technological advances by countries like China have **forced the agency to** update and improve their tradecraft. 
+用中情局的行话来说，谍报技术就是间谍用来躲避敌方特工、寻找新情报来源，并与之进行安全通讯的技能。中国等国家的技术进步迫使中情局不得不更新和改进谍报技术。
+
+The appointment in 2017 of Mr. D’Andrea, who had **a long career leading operations** against Al Qaeda and other terrorist targets, was **a sign of** the Trump administration’s **hard line on Iran**. And inside the C.I.A., Mr. D’Andrea **helped craft a more muscular approach** against Tehran.
+丹德烈亚曾长期领导打击基地组织(Al Qaeda)和其他恐怖主义目标的行动，他在2017年的任命表明了特朗普政府对伊朗的强硬立场。而在中情局内部，丹德烈亚帮助制定了对抗德黑兰的更强硬手段。
+
+**Throughout his time** in the agency, Mr. D’Andrea **worked undercover**, even as he took senior leadership roles, and the agency would not **publicly acknowledge** or discuss his role. But with his retirement, his work can ever so **slightly emerge from the shadows**. Mr. Burns said Thursday that Mr. D’Andrea had had **a “remarkable impact**.”
+丹德烈亚在中情局一直从事卧底工作，即使担任高级领导职务后，中情局也没有公开承认或讨论过他的角色。但在退休之后，他所做的工作也可以露出冰山一角。伯恩斯周四表示，丹德烈亚发挥了“重要的作用”。
+
+Access to senior policymakers doesn’t **work its magic as much as before**, either. Stephen Schwarzman, head of the **private equity** giant Blackstone, has **long cultivated relationships** with the Chinese leadership. He is tight with Liu He, the country’s **economic czar**.
+与高层决策者的接触不再像以前那么有用了。私募股权巨头黑石集团负责人苏世民多年来一直在培养与领导层的关系。他与“经济沙皇”刘鹤往来密切。
+
+The Wall Street firms are **apparently betting** that China’s past successes will continue. They have **a long track record on their side**, but they would **do well to** remember what they constantly tell their customers: Past performance isn’t **necessarily indicative** of future results.
+华尔街的企业显然在押注中国能够延续过往的成功。长久以来的成就支持了他们的立场，但最好别忘了他们一直告诫客户的话：过去的业绩并不一定能预示未来的结果。
+
+China is **reshaping how business works** and limiting executives’ power. **Long in coming, but rapid in execution**, the policies are **driven by a desire** for state control and **self-reliance** as well as concerns about debt, **inequality** and influence by foreign countries, including the United States.
+中国正在重塑企业运作方式，限制高管权力。这些政策酝酿已久，但执行迅速，其驱动因素正是对控制国家和自力更生的渴望，以及对债务、不平等和包括美国在内的外国影响的担忧。
+
+At China’s annual World Internet Conference last week, an official **signaled that** efforts to **rein in** internet giants were not over, warning against the “**disorderly expansion of capital**.” Once **a showcase for the might** of China’s entrepreneurs, this year’s conference became a platform for **pledging fealty to state efforts to spread the wealth**.
+上周在中国举行的年度世界互联网大会上，一位官员表示，对互联网巨头的管制还没有结束，要警惕“资本无序扩张”。这里曾是展示中国企业家强大实力的舞台，今年却成了支持国家财富分配举措的誓师大会。
+
+Alibaba’s chief executive, Daniel Zhang, **hailed his firm’s new $15.5 billion plan** to help small business and **underdeveloped regions**, invoking **the aphorism “If you teach a man to fish you feed him for a lifetime.”**
+阿里巴巴首席执行官张勇称赞了该公司旨在帮助小企业和欠发达地区的价值155亿美元对新计划，并引用了一句格言：“授人以鱼，不如授人以渔。”
+
+Companies **focused on the consumer internet** have lost the protections they once enjoyed. Instead, the government is focused on **a push for** national self-reliance, **countenancing big bets on bleeding-edge** technology, **partly in response to** United States policies that **cut off access to** key components like microchips. Officials have **heavily subsidized** manufacturers of semiconductors, commercial aircraft, electric cars and other products.
+专注于消费者互联网的公司失去了它们曾经享有的保护。政府转而专注于推动国家自力更生，支持在尖端技术上的大笔投入，部分是为了回应美国切断微芯片等关键部件供应的政策。政府对半导体、商用飞机、电动汽车和其他产品的制造商给予了大量补贴。
+
+It was **a stark reminder** that they are not like you. There are **hierarchies** in Chinese society, and different treatment **comes with it**, Still, **part of me wonders for** how long. 
+这是一个鲜明的提醒，他们和你不一样。中国社会有等级制度，不同的待遇也随之而来，不过，我还是有点想知道这能持续多久。
+
 

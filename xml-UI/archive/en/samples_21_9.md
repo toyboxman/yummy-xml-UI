@@ -1,3 +1,112 @@
+Now here we are, **on the cusp of** the release of Marvel’s “Shang-Chi and the Legend of the Ten Rings,” the first big-budget American **blockbuster** to center on an **honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywood’s **unparalleled storytelling** technology.
+现在，漫威的《尚气与十环传奇》?上就要上映，这是第一部围绕诚实善良的亚洲超级英雄为中心的美国大片。影片由刘思慕主演，独创的特效结合炫目的中国武术场面，剧情以好莱坞无可比拟的叙事技巧展开。
+
+When we’re first introduced to our **titular protagonist** — going by **the westernized name** “Shaun” — he’s **depicted as a good-natured**, smiling **parking valet** who **nods and stammers when condescended to**. He **begs his over-the-top** BFF Katy (Nora “Awkwafina” Lum) not to make noise or trouble.
+片名中的主?——使用?化的名字“肖恩”——第一次出场时，他被描绘成一个善良、面带微笑的泊?员，当有人居高临下地对待他时，他会点头，还会结巴。他恳求他最好的朋友、行为乖张的凯蒂 (“奥卡菲娜”林家珍饰)不要制造噪音或麻烦。
+
+He’s **living as** many of our Asian parents **counseled** us: “**The nail that sticks up gets hammered down**,” they said. They encouraged us to **blend in**, to **adopt cultural camouflage**, to **avoid standing out** in ways that might make us vulnerable to the racial targeting that they may have experienced themselves.
+他的生活就像许多亚裔父母劝告我们的那样——“枪打出头?”，他们说。他们鼓励我们融入其中，采用文化伪装，避免引人注目，那样可能会让我们容易受到他们可能曾经历过的种族针对。
+
+But it’s **not long before** Shaun **rips off his metaphorical glasses** and **steps unabashedly into the spotlight** as Shang-Chi, a **larger-than-life, pyrotechnic presence** who draws every eye and fills the screen as only superheroes can.
+但没过多久，肖恩摘下他那副带有隐喻色彩的眼镜，毫不掩饰地以“尚气”的形象出现在聚光灯下，这是一个超凡脱俗、光芒四射的出场，他主宰着屏幕，吸引了所有的目光，这是只有超级英雄才有的气场。
+
+For those of us who **ultimately rebelled against** our parents’ advice to **shrink ourselves**, Shang Chi’s **heroic arrival** is a **satisfying refutation** of their warnings. Don’t raise your voice. Don’t draw attention. Don’t **take up space**. This was **well-meaning counsel**, but it had **tremendous unintended consequences**, leading many of us to avoid **asserting our Asian heritage**.
+对于我们这些最终不顾父母劝说的人来说，尚气的英勇到来是对他们警告的驳斥，令人感到极度舒适。不要大声。不要引起注意。不要占据空间。这是善意的建议，但它产生了意想不到的巨大后果，导致我们中的许多人不愿主张我们的亚裔传统。
+
+**In the course of** conducting interviews for our **forthcoming book**, a history of Asian America from the nineties to now, Phil Yu, Philip Wang and I spoke with Asian American journalists who avoided covering their own communities for **fear of being boxed into an ethnic niche**. We heard from Asian American authors who **resisted writing Asian American lead characters** into their novels. We talked to Asian American performers who’d **normalized the expectation** that they could only be **secondary players, onscreen** and in life.
+我们即将出版一本新书，讲述关于90年代至今亚裔美国人的历史，在进行采访的过程中，我和菲尔·柳、菲利普·王采访了一些亚裔美国记者，他们不愿报道自己种族社区的新闻，因为害怕被当作一个小众种族群体。我们听说亚裔美国作家拒绝将亚裔美国主?写入他们的小说。我们还与一些亚裔美国演员进行了交谈，他们已经接受了人们只指望他们扮演次要?色，无论是在银幕上还是在生活中。
+
+Sandra Oh, now leading Netflix’s **hot-topic dramedy** “The Chair,” told us that when she found out she was being **offered a spot** in the **cat- and-mouse assassin thriller** “Killing Eve,” she **assumed** it would be for **a recurring role or supporting character**. “I **looked through the script**, and I couldn’t find an Asian doctor or **receptionist or whatever**,” she **recalled**. “And that’s when my agent told me that they wanted me for the lead. For Eve. The character in the title. That’s the moment that I realized how deep the **internalized racism** had been for me by that point in my career: I couldn’t even see the part I was supposed to be playing. I’d gone from a place of tremendous possibility and confidence when I was very young, to not even **being able to see myself**.”
+吴珊卓现在主演网?热?剧情片《椅子》她告诉我们，当她发现自己在猫鼠游戏式的暗杀惊悚片《杀死伊芙》中获得?色时，她以为只是一个重复出现的?色或配?。“我翻阅了剧本，我找不到亚裔医生或接待员之类的人物，”她回忆道。“就在那时，我的经纪人告诉我，他们希望我担任主?。演伊芙。片名中的人物。那一刻我意识到，在我以往的职业生涯中，内化的种族主义对我来说有多深:我甚至看不到我应该扮演的?色。我已经从小时候那种充满各种可能性和信心的阶段，变成了无视自己的程度。”
+
+Shang-Chi isn’t the first **Asian protagonist** we’ve seen on a screen. But as a big-budget, big-screen Marvel superhero, he’ll be **ubiquitous**. Superheroes today are on every screen, device and platform, **visible to every demographic** in our society. Shang-Chi will **usher** in the next **cinematic phase** of the most **successful franchise** in global history. **In his wake** will come more Asian heroes
+尚气并不是我们在银幕上看到的第一个亚裔主?。但作为一个大预算、大银幕的漫威超级英雄，他将无处不在。今天的超级英雄出现在每个屏幕、设备和平台上，我们社会中的任何一员都可以看到。尚气将迎来全球历史上最成功电影系列的下一个阶段。在他身后将出现更多亚裔英雄
+
+That can mean the difference between life and death. **Throughout our history** in this country, Asian Americans have seen the **dire consequences of compliance and invisibility: exploitation, exclusion, internment**. We’re seeing them again today in the time of Covid, as the pandemic has **underscored our country’s xenophobic hostility, and unleashed a wave of violence** against the most vulnerable in our communities.
+这可能意味着生死存亡的差距。纵观我们在这个国家的历史，亚裔美国人已经看到了顺从和隐形的可怕后果:剥削、排斥、拘禁营。我们今天在新冠时代再次看到了这些后果，大流行凸显了我们国家的仇外敌意，并引发了针对我们社区中最弱势群体的暴力浪潮。
+
+A scene from Shang-Chi **perfectly captures** why this film is so important and **timely. Ambushed by thugs** on a San Francisco bus, Shang-Chi suddenly **unleashes a flurry of eye-popping combat moves**. His longtime friend Katy **does a hard double take**. “Who are you?” she demands. For her, this is **a brand-new** Shaun. For the rest of the riders on the bus, **cheering him on and snapping selfies**, this is a brand-new hero. All of them are **simply seeing him as who he really is**. Don’t we all **deserve as much**?
+《尚气》中的一个场景完美地诠释了为什么这部电影如此重要和及时。在旧金山巴士上被暴徒伏击时，尚气突然爆发出一系列令人瞠目结舌的打斗动作。他的老朋友凯蒂大吃一惊。“你到底是谁?”她追问。对她来说，这是一个全新的肖恩。对于为他加油并拍合照的其他公交?乘客来说，这是一个全新的英雄。他们所有人就这样看到了真实的他。难道我们不应该得到同样的待遇吗?
+
+Parents had complained that was **too generous** and had **been laxly enforced**, the administration said. The government said it would **step up inspections** to ensure that gaming companies were **enforcing the restrictions**.
+管理部?称，家?们抱怨该举措过于宽松，而且执行不力。政府表示，它将加强检查，确保游戏公司执行这些限制。
+
+Recently many parents have reported that **game addiction** among some youths and children is **seriously harming** their normal study, life and **mental and physical health**, Parents, it said, had demanded “further restrictions and **reductions** in the time provided for **minors** by online gaming services.”
+不少家?反映，一些?少年沉迷网络游戏严重影响了正常的学习生活和身心健康，家?们要求“进一步限制、压缩向未成年人提供网络游戏服务的时段时?”。
+
+The new rules also **reflect the government’s intensifying push** for companies to **jettison** what the Chinese Communist Party says are 
+**unhealthy influences**, especially among teenagers and children.
+新规定还反映出政府正在加大力度，敦促企业摒除中国共产党所说的不健康影响，尤其是在?少年和儿童当中。
+
+Last week, the Chinese government **initiated a crackdown** on **teen celebrity worship and fan clubs**, warning that celebrities’ pursuit of online followers was **warping youths’ value**. China’s **Cyberspace Administration** on Friday **banned ranking** celebrities by popularity.
+上周，中国政府发起了一项对?少年崇拜明星艺人、以及明星粉丝团进行打击的行动，并警告，名人对网络粉丝的追求扭曲了?少年的价值观。上周五，国家互联网信息办公室禁止对明星艺人进行人气排名。
+
+Online gaming has been one of **the most vibrant and profitable** sectors of China’s internet industry, generating billions in revenue from players who **pay to take part in online quests**, wars and adventures.
+网络游戏一直是中国互联网行业中最具活力、最能赚钱的部?之一， 从付费参与在线任务、战斗和冒险的玩家那里创造了数十亿的收入
+
+In early August, the share prices of Tencent Holdings and other big Chinese video game companies **fell sharply** after a Chinese newspaper called their products “**spiritual opium**.” The article **singled out** Tencent, which owns Honor of Kings, a **hugely popular** game in China.
+8月初，腾讯和中国其他大型电子游戏公司的股价大幅下跌，此前一家中国报纸称这些公司的产品为“精神鸦片”。该文特别提到了腾讯，它拥有在中国非常受欢迎的游戏《王者荣耀》
+
+Chinese parents complained that children **constantly found new ways to sneak past the limits** on gaming hours, Many parents reported that their children had big changes **in their temper and personality** after **becoming addicted to games**, even **as if they had become another person**.”
+中国父母抱怨说，孩子们总能找到新的方法来逃避游戏时间的限制。很多“家?反映，自己的孩子沉迷手机网络游戏后，脾气和性格较之前大不相同，甚至像是变了一个人一样”。
+
+The woman, who has **been identified by** the police and her lawyers only **by her surname**, Zhou, said bosses and human resources had **shrugged off her complaints**. She eventually **resorted to screaming** about the assault in **a company cafeteria** last month.
+警方和她的律师称她为周女士。周女士说，领导和人力资源部?对她的投诉置之不理。在上个月，她最终诉诸于在公司?堂大声高喊这一侵犯事件。
+
+Ms. Zhou’s case has **caused an uproar** within the company and across China’s **tech establishment**. Alibaba fired the man accused of rape, said it would establish an anti-sexual-harassment policy and declared itself “**staunchly opposed to the ugly forced drinking culture**.” Yet former Alibaba employees say the problems **run much deeper** than the company has acknowledged.
+周女士的案件在公司内部和中国科技企业中引起轩然大波。阿里巴巴解雇了这名被控强奸的男子，表示将制定反性骚扰政策，并宣称自己“旗帜鲜明地反对丑陋的酒桌文化”。然而，前阿里巴巴员工表示，问题比该公司承认的要严重得多。
+
+Interviews with nine former employees **suggest that casual sexism is common** at Alibaba. They describe a work environment in which women are made to feel embarrassed and **belittled** during team-building and other activities that the company has incorporated in its culture, **a striking departure from the image of inclusion** Alibaba has **tried to project**.
+对九名前员工的采访表明，随意的性别歧视在阿里巴巴很常?。在他们描述的工作环境中，公司将团建和其他活动融入其文化，在这些活动中，女性感到尴尬和被贬低，这与阿里巴巴试图塑造的包容性形象大相径庭。
+
+The police investigation into Ms. Zhou’s case is continuing. Alibaba **appears to be trying to keep a lid on** discussions of the matter. 
+警方对周女士案件的调查仍在继续。阿里巴巴似乎试图限制对此事的讨论。
+
+Alibaba said **fostering a safe and supportive workplace** was its top priority. When we have **fallen short**, we **believe in taking responsibility and holding ourselves accountable**. Alibaba **made immediate changes to the way** it handles workplace culture and misconduct matters after Ms. Zhou’s case **came to light**. 
+阿里巴巴表示，营造一个安全和支持性的工作场所是其首要任务。当我们没有做到时，我们会承担责任并追责。在周女士的案件曝光后，阿里巴巴立即改变了处理职场文化和不当行为问题的方式。
+
+Many Alibaba departments use games and other **ice-breaking activities** to make co-workers **feel at ease with one another**. 
+阿里巴巴的许多部?都通过游戏等破冰活动让同事们彼此熟悉。
+
+Her team welcomed her with a game of **charades**. When she lost, she said, she was punished by being made to “fly the plane,” as her co-workers called it. **The stunt involved straddling** a male colleague as he sat in an office chair. The colleague then **lay back in the chair**, causing Ms. Qian to fall on top of him, **face first**. I realized while **carrying out the punishment** that it could be **a little perverted**
+她的团队欢迎她的方式是进行一个猜谜游戏。她说，当她输了比赛时，她会受到惩罚，即同事口中的“开?机”。这个动作要求她跨坐在办公椅上的一位男同事身上。然后，同事往后躺在椅子上，导致钱女士倒在他身上，脸最先触碰到对方。 做这个惩罚我才知道就有点变态
+
+But as the company has grown into **a behemoth** with more than a quarter-million employees, **customs** that might once have seemed playful **seem less innocent** now. 
+但随着公司发展成为一个拥有逾25万名员工的庞然大物，曾经看似好玩的惯例现在似乎不那么单纯了。
+
+Andrew Lloyd Webber’s **musical “Cinderella” made its glittering debut** in the West End after **multiple Covid-related delays**. On the subway, where masks are still mandatory, half of the riders **go barefaced**.
+安德鲁·劳埃德·?伯的音乐剧《灰姑娘》在多次因新冠疫情推延后，终于在?区(West End)闪亮登场。地铁仍然强制要求乘客戴口罩，但一半的乘客都露着脸。
+
+Some of that **equanimity may stem from the fact** that Britain’s case rate, while high, has not yet **risen anywhere near** the level that government officials predicted when they **lifted virtually all Covid restrictions** last month. And some of it may **simply reflect fatigue**, after 17 months of **baleful headlines and stifling lockdowns**.
+这样的淡定态度有可能部分源于一个事实，即英国的感染率虽然很高，但远未上升到政府官员上个月预测的解除所有新冠限制措施下会达到的感染水平。还有可能是大家只是倦怠了，毕竟可怕的头条 新闻和令人窒息的封锁持续了17个月的时间。
+
+**Epidemiologists are loath to** make specific predictions because many **were proved wrong** in July when cases **fell immediately** after “Freedom Day,” when most restrictions were lifted.
+流行病学家不愿做出具体预测，因为许多人的预测在7月被证明是错误的，在“自由日”之后，大多数限制都被取消了，病例数却立即下降了。
+
+Hospitalizations are rising, however, **as is the fatality rate**. With a backlog of patients with other illnesses, doctors say the National Health Service has **little slack** to **cope with** another **influx of** Covid victims.
+然而，住院人数正在上升，死亡率也在上升。医生们表示，如果涌入新一轮新冠患者，全?医疗服务体系将几乎没有喘息的空间。
+
+The government of Prime Minister Boris Johnson, **preoccupied with the chaotic military withdrawal** from Afghanistan, has said **little about** the rising hospital numbers — or **indeed about** the pandemic at all — in recent weeks.
+几周来，英国首相约翰逊政府的注意力被阿富汗撤军的混乱局面占据，几乎没有提及住院人数的增加——或者根本没有提及大流行。
+
+**Relieved** that the more **gloomy predictions of spiraling** cases have not **materialized**, the government argues that its strategy has been **vindicated**, with infections manageable because of the success of its vaccination campaign.
+病例飙升的悲观预测并没有成为现实，政府感到松了一口气，认为其策略已得到证实，由于疫苗接种活动取得成功，感染是可控的。
+
+The **rollout of** the vaccine program for adults has been **incredibly impressive**, but, for children and young people it has been **frankly shambolic**
+针对成人的 疫苗计划推出非常成功，但坦率地说，针对少年儿童的疫苗计划一直是混乱无序的。
+
+**At the same time**, public **observance of measures** to **contain the spread** of the virus **seems to be slipping**, a factor that some epidemiologists said **accounted for** Britain having a higher case rate than countries like France and Spain, where infections are now falling.
+与此同时，公众在遵守遏制病毒传播措施方面似乎逐渐掉以轻心，一些流行病学家表示，这一因素导致英国的病例率高于法国和?班牙等国家，这些国家的感染率目前正在下降。
+
+For some who **objected to** Britain’s **recurring lockdowns**, the return to **normalcy** was both welcome and **overdue**. But some said the **tensions** between freedom and security could **easily resurface**.
+对于一些反对英国反复封锁的人来说，恢复正常是值得欢迎的，也早该这样做了。但有些人表示，自由与安全之间的紧张关系很容易重新出现。
+
+Other critics blame the government’s **mixed messages**, pointing to members of Mr. Johnson’s Conservative Party, many of whom **abandoned their masks** when they returned to **a crowded chamber of Parliament** recently to discuss Afghanistan. The government’s **official position** is that people should **wear face coverings when confined indoors**.
+其他批评者指责政府的信息矛盾，将矛头指向约翰逊的保守党成员，其中许多人最近回到拥挤的议会会议厅讨论阿富汗问题时没有戴口罩。政府的官方立场是，人们在室内时应该戴口罩。
+
+The **intensity has gone out of** the debate, but it will come back if there is another wave, If it does come back, we’ll then be in the position that even the vaccines don’t work. What is the **exit route**? a former justice on Britain’s Supreme Court who has been **an outspoken critic** of the lockdowns.
+辩论的激烈程度已减弱，但如果再出现一轮疫情，它还会卷土重来。如果疫情重来，那么我们就会陷入即使疫苗也不起作用的境地。我们有什么退路? 英国最高法院前法官始终直言不讳地批评封锁措施
+
 **‘Reversing Gears’**: China Increasingly Rejects English  
 开倒车？中国弱化英语教育
 
@@ -698,5 +807,23 @@ The world discovered that John Maynard Keynes was right when he declared during 
 But there were three **interrelated problems**. First, **the sense** that government action had **been liberated from the tyranny** of finance was **illusory**. That meant, second, that the interventions were **double-edged**. Finally, the digital money creation was the **easy bit**. 
 但有三个相互关联的问题。首先，认为政府行动已从金融暴政中解放出来的感觉是虚幻的。其次，这意味着这些干预措施是一把双刃剑。最后，创造数字货币是件容易的事。
 
-**Propping up** the Treasury market enabled government **spending on furlough schemes** and paycheck protection plans to be funded in the normal way, by borrowing. But government IOUs are fuel for private speculation. When liquidity is flushed indiscriminately into the financial system, it inflates bubbles, generating new risks and outsize gains for those with substantial portfolios. Nowhere was this polarizing effect more pronounced than in the United States. While tens of millions struggled through the crisis, trillions of dollars piled up in the balance sheets of the wealthy.
+**Propping up** the Treasury market enabled government **spending on furlough schemes** and paycheck protection plans to be funded in the normal way, by borrowing. But government IOUs **are fuel for private speculation**. When **liquidity is flushed indiscriminately into** the financial system, it **inflates bubbles**, generating new risks and **outsize gains** for those with **substantial portfolios. Nowhere** was this **polarizing effect more pronounced** than in the United States. While tens of millions **struggled through** the crisis, trillions of dollars **piled up in the balance sheets** of the wealthy.
+对国债市场的支撑使政府在强制无薪休假和工资保护计划上的支出能够以正常的方式(通过借贷)获得资金。但政府的欠条助?了私人投机问题。当流动性不分?红皂白地涌入金融体系时，它就会催生泡沫，给那些拥有大量投资组合的人带来新的?险和超额收益。这种两极分化效应在美国最为明显。在数千万人挣扎着度过危机的同时，富人们的资产负债表上积累了数万亿美元。
 
+Keynes’s **bon mot has a sting in its tail**: We can afford anything we can actually do. The problem is agreeing on what to do and how to do it. **In giving us a glimpse of** financial freedom, 2020 also **robbed us of pretenses** and excuses. 
+凯恩斯的妙语背后是一个煞?景的结局:我们能负担得起我们“实际上”能做的任何事情。问题在于就做什么和如何做达成一致。在让我们瞥?财务自由的同时，2020年也剥夺了我们的伪装和借口。
+
+It **turns out** that budget constraints, **in all their artificiality**, had **spared us from facing the all-too-limited willingness** and capacity for collective action. Either you are **invoking technological obstacles**, in which case we need **a suitably scaled**, Warp Speed-style program to **overcome them**, or it is **simply a matter of priorities**. There are other things you would rather do.
+事实证明，尽管预算限制是人为的，但它使我们免于面对过于有限的集体行动意愿和能力。要么你是在援引技术障碍——在这种情况下，我们需要一个规模适当的、“曲速行动”式的项目来克服它们——要么这只是一个优先级问题，你更愿意去做其他事情。
+
+**Looking back before 2020**, it seemed that 2008 was the beginning of **a new era of successive and interconnected disruptions**, such as the global financial crisis, Mr. Trump’s election, and the trade and tech war with China. **It all had a familiar ring to it**. Great-power competition, **nationalism** and banking crises all **harked back to** the 19th and 20th centuries. Then came 2020. It has given us **a glimpse of something radically new**: the old tensions of politics, finance and **geopolitics intersecting with** a natural shock on **a global scale**.
+回顾2020年以前，似乎2008年是一个新时代的开始，颠覆连续到来，并且相互关联，如全球金融危机、特朗普的大选和与中国的贸易和技术战争。这一切都并不陌生。大国竞争、?族主义和银行业危机都可以追溯到19世纪和20世纪。然后2020年来了。它让我们瞥?了一些全新的东?:旧有的政治、金融和地缘政治的紧张局势与全球范围内的自然冲击相交在一起。
+
+As recent events in Afghanistan demonstrate, President Biden is determined to **clear the decks**, brutally if necessary. **As far as the Pentagon is concerned**, at the top of the agenda is great-power competition with China — a 19th century **writ large**.
+正如最近在阿富汗发生的事件所表明的那样，拜登总统决心扫清障碍，必要时可以毫不留情。对五?大楼而言，议程的首要任务是与中国的大国竞争——这是19世纪的一件大事
+
+But what of the interconnected global crises of the 21st century that cannot **be attributed to a national antagonist**? **For those**, the one model that we have is central bank financial market intervention — a form of crisis-fighting based on technical networks, **rooted in** existing hierarchies of power and backed by powerful self-interest. It is conservative, **ad hoc** and lacking in **explicit political legitimacy**. It **tends to reinforce** existing hierarchy and privilege.
+但21世纪那些相互关联的、不能归咎于国家竞争的全球危机又如何呢?对于那些危机来说，我们拥有的一个模型是央行金融市场干预——一种基于技术网络的危机对抗形式，植根于现有的权力等级并以强大的自身利益为后盾。它是保守的、临时的，缺乏明确的政治合法性。它倾向于强化现有的等级制度和特权。
+
+The challenge for **a progressive globalism fit for** the next decades is both to **multiply those crisis-fighting networks — into** the fields of medical research and vaccine development, renewable energy and so on 
+未来几十年更适用的是渐进式全球主义，它面临的挑战是将这些抗击危机的网络扩大到医学研究和疫苗开发、可再生能源等领域
