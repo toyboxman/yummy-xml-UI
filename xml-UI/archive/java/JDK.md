@@ -447,6 +447,16 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 trace -E class1|class2 method1|method2
 ```
 
+##### [vmtool](https://arthas.gitee.io/vmtool.html)
+允许从当前VM中查找到实例，并执行一些方法
+```console
+# 查看 ApplicationContext 实例的二层展开数据
+vmtool --action getInstances -c 19469ea2 --className org.springframework.context.ApplicationContext -x 2
+
+# 执行 ApplicationContext 实例的getBeanDefinitionNames方法
+vmtool --action getInstances --classLoaderClass org.springframework.boot.loader.LaunchedURLClassLoader --className org.springframework.context.ApplicationContext --express 'instances[0].getBeanDefinitionNames()'
+```
+
 ##### [getstatic](https://arthas.gitee.io/getstatic.html)
 如果想查看类的静态域值，可以直接查看而不论其是否是private
 ```console
