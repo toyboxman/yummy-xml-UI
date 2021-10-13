@@ -64,6 +64,90 @@ The Biden administration should **take a breath and make certain** it does not r
 **Too often**, a **narrow focus** on great power competition just leaves America **less competitive** in the **long run**.
 在大国竞争中，过分关注某一点经常导致美国丧失长远的竞争力。
 
+China will **aim to reduce the prevalence** of “**medically unnecessary**” abortions, according to guidelines released by the central government on Monday, as part of **a sweeping plan** for women’s and children’s health over the next decade.
+根据中央政府周一发布的指导意?，中国将致力于减少“非医学需要的”人工流产的盛行，这是未来十年妇女儿童健康全面计划的一部分。
+
+But the promise immediately **drew attention** on social media **given increasingly urgent efforts** by the government in recent years to promote childbirth and **slow the population’s aging**. Under the one-child policy, which **was implemented** in 1980, officials **at times** forced women to **undergo abortions and sterilizations**.
+但这一承诺立即在社交媒体上引起了关注，因为近年来政府在促进生育和减缓人口老龄化方面的努力日益紧迫。在1980年实施的独生子女政策下，官员有时会强迫女性堕胎和绝育。
+
+But over the past decade, as the government has realized the **potential economic consequences** of a slow-growing population, officials have **pivoted to exhorting** women to have more children. The one-child policy **was lifted** in 2015. But public reaction to that permission **was tepid at best**. And some have worried that officials will **turn to more coercive measures**.
+但在过去十年里，随着政府意识到人口增?缓慢的潜在经济后果，官员们转而鼓励女性多生孩子。独生子女政策于2015年取消。但公众对这一许可的反应充其量也只是不温不火。一些人担心官员们会采取更加强制的措施。
+
+**Obtaining** an abortion can already be **a somewhat cumbersome process** in China. Because of many families’ **longstanding preference** for boys over girls, sex-selective abortions are illegal
+在中国，人工流产已经是一个相当繁琐的过程。由于许多家庭?期以来重男轻女，针对胎儿性别的选择性人工流产是非法的
+
+Officials have also expressed concern about abortions as **a manifestation of eroding family values**. **In addition to citing** potential health risks, the procedure could **lead to infertility** that would “**affect family harmony** and happiness.”
+官员们还对人工流产表示担忧，认为这是家庭价值观受到侵蚀的表现。除了提到潜在的健康?险外，人工流产可能会导致不孕，“影响家庭和谐幸福”。
+
+She pointed to other parts of the report that she **called encouraging**, such as **pledges to combat gender discrimination** in the workplace, improve educational opportunities for women and **promote sharing housework** between men and women.
+她指出报告中其他令人鼓舞的部分，比如承诺打击工作场所的性别歧视，改善女性受教育的机会，以及促进男女分担家务。
+
+Still, she acknowledged the **yawning gap** between official **rhetoric and reality**. State **media outlets** have recently attacked the **perceived “feminization”** of Chinese men. 
+不过她承认，官方的言论与现实之间存在巨大差距。官方媒体最近抨击了人们眼中的中国男性被“女性化”的现象
+
+Though the report **affirms the authorities’ stance** against sexual harassment, a judge this month **ruled against the plaintiff** in the most **high-profile** harassment case to **come out of** China’s Me Too movement.
+尽管该报告确认了当局反对性骚扰的立场，但一位法官本月对来自中国Me Too运动最引人注目的性骚扰案件中的原告做出了不利判决。
+
+Power cuts and even **blackouts have slowed or closed** factories across China in recent days, **adding a new threat to** the country’s slowing economy and potentially further **snarling global supply chains** ahead of the busy Christmas shopping season in the West. The **outages have rippled across** most of eastern China, where **the bulk of the population** lives and works. 
+近日来，中国各地的限电甚至停电已导致工厂减产或停工，给中国正在放缓的经济增加了新的威胁，并可能在?方繁忙的圣诞节购物季到来之前进一步扰乱全球供应链。停电问题已波及中国东部大部分地区，中国的大部分人口在东部生活工作。
+
+**Export demand for aluminum**, one of the most **energy-intensive products**, has been strong. Demand has also been **robust for steel and cement**, central to China’s **vast construction programs**.
+铝是能耗强度最高的产品之一，出口需求一直强劲。处于中国各地大型建设项目核心的钢铁和水泥的需求也一直强劲。
+
+As **electricity demand has risen**, it has also **pushed up the price of coal** to generate that electricity. But Chinese regulators have not **let utilities raise rates enough to cover** the rising cost of coal. 
+电力需求的增加导致了发电所需的煤炭价格上涨。但中国监管部?不让公用事业公司通过提高电价来弥补煤炭成本的上涨。
+
+Between the **rental costs and the diesel fuel** for powering it, electricity is now **twice as expensive as** when the factory was simply **tapping the grid**.
+租金加上柴油成本，让工厂的电价高达电网供电的两倍。
+
+Economists **predicted that production interruptions** at Chinese factories would make it harder for many stores in the West to **restock empty shelves** and could **contribute to inflation** in the coming months.
+经济学家预计，中国工厂生产受供电吃紧的影响，将使?方国家许多货架已空的商店更难补货，并可能导致未来几个月的通货膨胀。
+
+It is not clear how long **the power crunch will last**. Experts in China predicted that officials would **compensate by steering electricity away** from energy-intensive heavy industries like steel, cement and aluminum, and said that might **fix the problem**.
+目前还不清楚电力短缺会持续多久。中国的专家预测，官员会采取补救措施，将电力从钢铁、水泥和铝等能耗强度高的重工业调拨给其他行业，并表示这可能会解决问题。
+
+State Grid, the **government-run power distributor**, said in a statement on Monday that it would guarantee supplies “and **resolutely maintain the bottom line** of people’s **livelihoods**, development and safety.”
+国家电网在周一的一份声明中表示将保障供电，“坚决守住?生、发展和安全底线。”
+
+**Compared with last year**, electricity demand is growing this year in China at **nearly twice its usual annual pace. Swelling orders** for the smartphones, **appliances, exercise equipment** and other manufactured goods that China’s factories **churn out** has driven the rise.
+与去年相比，中国今年的电力需求增?速度几乎是往年的两倍，原因是对中国生产的智能手机、家电、健身器材和其他制造业产品订单的激增。
+
+Experts said that a surge in prices in China had drawn energy distributors to send **ships laden with liquefied natural gas** to Chinese ports, leaving others to **scurry for** further sources.
+专家说，中国天然气价格的飙升，导致能源经销商将满载液化天然气的船只发往中国港口，让其他国家慌忙寻求其他的天然气来源。
+
+Coal prices have **surged along with demand**. But because the government keeps electricity prices low, **particularly in residential areas**, usage by homes and businesses has **climbed regardless**.
+煤炭价格随着电力需求的增?出现飙升。但由于政府将电价保持在低位，尤其是居?用电，使得家庭和企业的用电不受煤价的影响，继续上升。
+
+**Faced with losing** more money with each additional ton of coal they burn, some power plants have **closed for maintenance** in recent weeks, saying that this **was needed for safety reasons**.
+由于多烧煤意味着更多亏损，一些发电厂已在最近几周停产检修，并称这是安全生产的要求。 
+
+The regulators **cited a need** to make sure that the cities and provinces **met full-year targets** set by Beijing for their **carbon dioxide emissions** from the **burning of fossil fuels**. If people begin to **point fingers**, there are few others to blame.
+监管部?说，这样做是为了确保各省市实现中央制定的来自燃烧化石燃料的二氧化碳排放全年目标。 如果想指责谁的话，几乎没有其他人可指责。
+
+**Disruptions from power shortages** have already **been felt** in Dongguan, a city at the heart of China’s southern **manufacturing belt**.
+中国南方的制造业中心东莞已感受到了电力短缺带来的干扰。
+
+The **throaty roar** of huge **diesel generators rumbled** on Monday morning through the streets and **alleys** of Houjie, where **scores of five-story, concrete-walled** factories are **nestled among** low-rise apartment buildings for migrant workers. 
+周一上午，厚街镇的大街小巷里响彻着巨型柴油发电机的刺耳轰鸣声。在这里，有数十家水泥墙围起来的五层楼高的工厂，它们周围是打工者居住的低层公寓楼。
+
+One of the **noisy generators rumbled** in a 20-foot yellow shipping container behind a factory where workers in bright blue and orange **jumpsuits** labored to **assemble men's and women’s leather shoes** for American and European buyers.
+其中一台嘈杂的发电机，在一家工厂后面六米?的?色集装箱里轰鸣。工厂里，穿着鲜蓝和橙色工装的工人正在为美国和欧洲的消费者组装男式和女式皮鞋。
+
+Mr. Tang had to **turn off his generator** for two days last week after local residents **filed noise complaints** with the local government. He also **rented a metal cage to cover** the generator to **reduce the din**. Some in the **neighborhood, particularly shoe component manufacturers**, were **sympathetic, voicing a mixture** of business **pragmatism and nationalism**.
+上周，因为当地居?向政府投诉噪音问题，唐先生不得不停开了两天发电机。他还租了一个金属笼子把发电机罩起来，以减少噪音。社区里有些人，尤其是鞋零部件的制造商们，对噪音问题表示同情， 这是一种既带有商业实用主义、也带有?族主义的态度。
+
+The International Olympic Committee on Wednesday released **a preliminary set of health protocols** for the upcoming Winter Games in Beijing. The Beijing Olympic and **Paralympic Games** will **take place** in what organizers called a “**closed-loop management system**,” a bubblelike environment. Those within the bubble also will **be subject to** daily coronavirus testing.
+周三，国际奥委会发布了即将在北京举行的冬奥会的初步卫生政策. 北京冬奥会和冬残奥会将在组织者所说的“闭环管理系统”中举行. 泡泡中的人将每日接受新冠病毒检测。
+
+Anyone, including athletes, **intending to enter this bubble** has two choices: Arrive in China **fully vaccinated** or prepare to spend the first 21 days in Beijing in **solitary quarantine**.
+包括运动员在内，任何人想要进入这个泡泡都有两个选择:抵达中国前完成疫苗接种，或者准备好先在北京进行21天的单独隔离。
+
+And while **spectators** will be allowed to return to **competition venues** after being **largely barred** from the recent Summer Games in Tokyo, entry will be limited to those **residing in** mainland China.
+最近的东京夏季奥运会基本禁止观众进入比赛场地，北京冬奥会虽然将允许观众进入，但仅限于居住在中国大陆的观众。
+
+The Summer Olympics in Tokyo **featured a far more porous health protocol**. Participants were not required to be vaccinated, nor **sequestered** if they were not, and while they were asked to try to remain **within Games-affiliated venues**, they **were still afforded** plenty of opportunities to interact with the outside world, including **at convenience stores** and local restaurants for **takeout meals**. 
+东京夏季奥运会的防疫政策的管控远不如北京严格。参与者未被要求接种疫苗，未接种也不需要隔离，虽然他们被要求尽量留在奥运会相关的场馆内，但仍有很多机会与外界互动，包括在便利店和当地餐厅取外卖?物。
+
 There’s very **little insulation** left on **the wiring** in the relationship, and it’s not hard to imagine **getting some crossed wires** and that starting a fire. The Taiwan issue has **ceased to be a sort of narrow, boutique issue**, and it’s become **a central theater** — if not the **central drama** — in U.S.-China strategic competition
 在中美关系中，绝缘保护层所剩无几，某些电线交错导致起火的事情并不遥远。台湾已不再是个波及面狭窄的小问题，它已经成为美中战略竞争的中心舞台——甚至可以说是主线剧情
 
@@ -115,4 +199,39 @@ Companies **focused on the consumer internet** have lost the protections they on
 It was **a stark reminder** that they are not like you. There are **hierarchies** in Chinese society, and different treatment **comes with it**, Still, **part of me wonders for** how long. 
 这是一个鲜明的提醒，他们和你不一样。中国社会有等级制度，不同的待遇也随之而来，不过，我还是有点想知道这能持续多久。
 
+On the **northern edge** of a vast Chinese factory city, **welding torches gleam** as workers finish construction on a **gas-fired power plant** to replace one that burned coal and **blanketed the surrounding neighborhood in a sooty pall**.
+在中国这座巨大的工厂之城的北郊，闪烁着电焊的火光，工人们正在完成一个燃气发电厂的建设工作，新电厂将取代令周遭笼罩在烟尘下的燃煤电厂。
+
+This **archipelago** of power plants **underlines an unsettling reality** in the global fight to slow climate change. China burns more fossil fuels than any other nation, making it the planet’s top source of the **greenhouse gases** that are warming the Earth. And its **voracious appetite** for electricity is only growing.
+这些正在建设的发电厂凸显了全球减缓气候变化努力的一个令人不安的现实。中国的化石燃料消耗比世界上其他国家都要多，使其成为全球最大的温室气体排放国，温室气体排放是地球变暖的原因。而且，中国对电力的强烈胃口仍在变大。
+
+Just weeks before a critical United Nations **climate summit** in Glasgow, attention **is riveted** on China and whether it will do more to cut emissions. The world’s top energy agency said last week that China “**has the means and capacity**” to reduce its pollution. 
+几周后，联合国将在格拉斯哥召开重要的气候峰会，人们目前的注意力都集中在中国，以及它是否会采取更多减排措施上。世界最高能源机构上周表示，中国“有(减少污染)的途径和能力”
+
+China has taken some important steps this year to begin to **curb its use** of coal, the **dirtiest** of fossil fuels. Some provinces, like **coastal** Shandong, **mandated over** the summer that some of their oldest, **least efficient** coal-fired plants be closed.
+中国今年已采取了一些重要措施，开始限制煤炭使用，这是一种最脏的化石燃料。一些省份(比如沿海的山东)已在今年夏天下令关停了省内最老、效率最低的燃煤电厂。
+
+Each year, China burns more coal than the rest of the world **combined** and **almost as much oil as** the United States. But it is also **making heavy investments in clean energy**. China is the world leader in **hydroelectric power**, in solar power and in wind power. While China has mostly **run out of rivers to dam** for hydroelectric power. China needs to find a way to produce even more energy while reducing emissions at the same time — **a tall order**.
+中国每年的煤炭消耗量超过世界其他国家的总和，每年的石油消耗量几乎与美国相当。但中国也正在大量投资清洁能源领域。中国在水力发电、太阳能和? 电领域都处于世界领先地位。虽然中国可建造水力发电大坝的河流已所剩无几.中国需要找到一个在生产更多电能的同时减少碳排放的方法，这是个艰巨的任务。
+
+American energy use was **nearly flat** over the decade before the pandemic and then **fell sharply** last year. Europe’s energy use was **gradually declining** even before the pandemic.
+美国的能源消耗在新冠病毒大流行前的十年里几乎没有增?，并在去年出现了大幅下降。欧洲的能源消耗甚至在疫情之前就在逐渐下降。
+
+The United States **in particular** has been able to reduce emissions by **gradually shifting** from coal power to a **greater reliance** on natural gas, which emits about half the carbon dioxide when burned, and by **ramping up its renewable energy**.
+具体到美国来说，美国一直能够通过逐渐从燃煤转向更大程度地依赖天然气(燃烧天然气排放的二氧化碳量约是燃煤的一半)，以及增加可再生能源的使用来减少碳排放。
+
+The United States and other countries are **pressuring China to** agree to help limit global warming this century to no more than 1.5 **degrees Celsius** compared with temperatures before **the Industrial Revolution**. That’s the **threshold beyond** which scientists say the planet will **experience irreversible damage**. As countries continue to **pump carbon emissions into** the atmosphere, the Earth has already warmed about 1.1 degrees Celsius.
+美国和其他国家正在向中国施压，要求它同意帮助实现将本世纪全球变暖幅度控制在不高于工业革命前1.5摄氏度的目标。科学家说，变暖超过这个阈值，将让地球受到不可逆转的破坏。随着各国继续向大气层排放二氧化碳，地球的温度已经上升了约1.1摄氏度。
+
+**Complicating matters** is China’s view that climate change is **primarily** an American responsibility. That’s because former President Donald J. Trump in 2017 **withdrew the United States from the Paris agreement**, the pact among nations to fight climate change. That decision that **essentially stopped** climate progress by the U.S. for four years.
+让问题变得复杂的是，中国认为气候变化主要是美国的责任。这是因为前总统特朗普曾在2017年让美国退出了各国为应对气候变化签订的《巴黎协定》。特朗普的决定实质上让美国在气候问题上的进展 停滞了四年。
+
+Just five years ago, three **inland regions** that create **abundant** solar and wind energy power — **sparsely populated** Inner Mongolia, Xinjiang and Gansu — were **wasting up to** two-fifths of that power. To **address this problem**, China has built **ultra-high-voltage transmission lines** linking the country’s **interior to hubs** near the coast.But connectivity still has a ways to go. 
+就在五年前，三个拥有丰富太阳能和?能的内陆地区——人口稀少的内蒙古、新疆和甘肃——生产的电能有高达40%被浪费。为了解决这个问题，中国修建了将内陆与沿海地区连接起来的超高压输电线。但仍需建设更多的输电线。
+
+There’s a **tug of war** right now, The central government is trying to limit coal production, and the local governments are **doing the opposite**. 
+现在上演的是拉锯战，中央政府正在试图减少煤炭生产，而地方政府正在干相反的事情。
+
+A **bicycle mechanic** who works and lives near the new gas-fired power plant being completed on the northern edge of Dongguan, said that he certainly did not miss the coal plant. Clothes **got dirty if you hung them outside**, white cars got dirty after being **parked here for a while**. He is **unenthusiastic about** power plants in general.
+一名自行?修理工，他工作和生活的地方就在东莞北郊即将建成的新燃气发电厂附近。他说，他一点也不想念那个燃煤发电厂。衣服挂在外面，会给弄脏。白色的?子停在这儿，过会儿也脏了. 他对发电厂的总体态度是没有热情。
 
