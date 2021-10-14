@@ -466,9 +466,9 @@ trace -E class1|class2 method1|method2
 [arthas@26393]$ vmtool --action getInstances  --className org.springframework.context.ApplicationContext --express 'instances[0]' -x 2
 
 # 指定classloader中实例查看，调用getBeanDefinitionNames方法
-[arthas@26393]$vmtool --action getInstances -c 19469ea2 --className org.springframework.context.ApplicationContext -x 2
+[arthas@26393] $vmtool --action getInstances -c 19469ea2 --className org.springframework.context.ApplicationContext -x 2
 
-[arthas@26393]$vmtool --action getInstances --classLoaderClass org.springframework.boot.loader.LaunchedURLClassLoader --className org.springframework.context.ApplicationContext --express 'instances[0].getBeanDefinitionNames()'
+[arthas@26393] $vmtool --action getInstances --classLoaderClass org.springframework.boot.loader.LaunchedURLClassLoader --className org.springframework.context.ApplicationContext --express 'instances[0].getBeanDefinitionNames()'
 ```
 
 ##### [getstatic](https://arthas.gitee.io/getstatic.html)
