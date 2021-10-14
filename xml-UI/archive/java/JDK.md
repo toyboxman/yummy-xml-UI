@@ -450,11 +450,25 @@ trace -E class1|class2 method1|method2
 ##### [vmtool](https://arthas.gitee.io/vmtool.html)
 允许从当前VM中查找到实例，并执行一些方法
 ```console
-# 查看 ApplicationContext 实例的二层展开数据
-vmtool --action getInstances -c 19469ea2 --className org.springframework.context.ApplicationContext -x 2
+# 查看当前VM中所有 ApplicationContext 实例, 返回实例数组
+[arthas@26393]$ vmtool --action getInstances --className org.springframework.context.ApplicationContext
+@ApplicationContext[][
+    @ClassPathXmlApplicationContext[org.springframework.context.support.ClassPathXmlApplicationContext@30459c85, started on Wed Oct 13 08:20:54 UTC 2021, parent: Root WebApplicationContext],
+    @XmlWebApplicationContext[WebApplicationContext for namespace 'spring-servlet', started on Wed Oct 13 08:23:05 UTC 2021, parent: org.springframework.context.support.ClassPathXmlApplicationContext@30459c85],
+    @AnnotationConfigWebApplicationContext[Root WebApplicationContext, started on Wed Oct 13 08:20:24 UTC 2021],
+]
 
-# 执行 ApplicationContext 实例的getBeanDefinitionNames方法
-vmtool --action getInstances --classLoaderClass org.springframework.boot.loader.LaunchedURLClassLoader --className org.springframework.context.ApplicationContext --express 'instances[0].getBeanDefinitionNames()'
+# 调用指定实例的方法
+[arthas@26393]$ vmtool --action getInstances  --className org.springframework.context.ApplicationContext --express 'instances[1].toString()'
+@String[WebApplicationContext for namespace 'spring-servlet', started on Wed Oct 13 08:23:05 UTC 2021, parent: org.springframework.context.support.ClassPathXmlApplicationContext@30459c85]
+
+# 展开指定实例的两层结构
+[arthas@26393]$ vmtool --action getInstances  --className org.springframework.context.ApplicationContext --express 'instances[0]' -x 2
+
+# 指定classloader中实例查看，调用getBeanDefinitionNames方法
+[arthas@26393]$vmtool --action getInstances -c 19469ea2 --className org.springframework.context.ApplicationContext -x 2
+
+[arthas@26393]$vmtool --action getInstances --classLoaderClass org.springframework.boot.loader.LaunchedURLClassLoader --className org.springframework.context.ApplicationContext --express 'instances[0].getBeanDefinitionNames()'
 ```
 
 ##### [getstatic](https://arthas.gitee.io/getstatic.html)
