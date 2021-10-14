@@ -235,3 +235,20 @@ There’s a **tug of war** right now, The central government is trying to limit c
 A **bicycle mechanic** who works and lives near the new gas-fired power plant being completed on the northern edge of Dongguan, said that he certainly did not miss the coal plant. Clothes **got dirty if you hung them outside**, white cars got dirty after being **parked here for a while**. He is **unenthusiastic about** power plants in general.
 一名自行?修理工，他工作和生活的地方就在东莞北郊即将建成的新燃气发电厂附近。他说，他一点也不想念那个燃煤发电厂。衣服挂在外面，会给弄脏。白色的?子停在这儿，过会儿也脏了. 他对发电厂的总体态度是没有热情。
 
+The men and women **wrestled** Wang Jianna to the ground. **Holding down her legs and shoulders**, they **pried** her 6-month-old baby from her arms and **took off running**. A **surveillance camera captured** it all. But there **was little Ms. Wang could do**.
+几名男女把王建娜摔倒在地，按住她的肩膀和腿，把她六个月大的孩子从她怀里拽出来，然后跑开了。一个监控摄像头拍下了这一切。但王建娜无能为力
+
+I **feel deeply wronged**, Although snatching is **unreasonable and unjustified**, the **court** still supported it.
+我觉得很委屈，抢夺的方式不合情不合理，法院却支持了
+
+**Custody battles** can be **bitter affairs** anywhere in the world. In China, where courts **rarely grant joint physical** custody, **disputes** over children are **especially acrimonious**. It creates **a perverse incentive** for parents **going through a split to abduct** and hide their children to win **sole** custody. 
+在世界上任何地方，监护权之争都是可能令人痛苦的事情。在中国，法院很少授予共同监护权，关于孩子的纠纷尤其激烈。这给离异中的父母带来了一种反常的动机，让他们为了赢得单独抚养权而绑架和藏匿自己的孩子。
+
+“It’s **become almost a game** — whoever has physical custody has **legal custody**,” said Dai Xiaolei, who founded **Purple Ribbon** Mother’s Love, **a grass-roots advocacy group**, after losing a custody battle with her ex-husband. “**It’s a free-for-all**.”
+“这几乎变成了一场游戏——谁有了实际监护权，谁就有法律监护权，”戴晓磊说。“完全是无法无天。”她在与前夫的监护权之争中败诉后，创立了草根维权组织“紫丝带妈妈”。
+
+**Traditionally**, a woman seeking a divorce was expected to **forgo custody** of her children. But that has changed over the years as women in China have **gained more financial stability** and independence. **On paper**, Chinese law **is tilted slightly in favor of** women. **In cases** where the child is 2 or younger, mothers are **typically awarded** sole custody. But **in practice**, judges can **be swayed by institutional and informal considerations** that experts say often give men an advantage. 
+传统上，人们会认为寻求离婚的女性理应放弃对孩子的监护权。但是多年来，随着中国女性获得了更多经济上的稳定和独立，这种情况发生了变化。理论上，中国法律稍微偏向于女性。在孩子两岁或更小的情况下，母亲通常被授予唯一监护权。但在实践中，法官可能会受到制度和非正式理由的影响，专家们说，这些考虑往往会给男性带来优势。
+
+Four years later, she still** dreams of reuniting with** the baby she once **rocked to sleep** every night.
+四年过去了，她仍然梦想着和她曾经每晚摇着入睡的孩子团聚。
