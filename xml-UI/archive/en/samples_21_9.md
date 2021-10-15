@@ -1,5 +1,5 @@
-Now here we are, **on the cusp of** the release of Marvel’s “Shang-Chi and the Legend of the Ten Rings,” the first big-budget American **blockbuster** to center on an **honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywood’s **unparalleled storytelling** technology.
-现在，漫威的《尚气与十环传奇》?上就要上映，这是第一部围绕诚实善良的亚洲超级英雄为中心的美国大片。影片由刘思慕主演，独创的特效结合炫目的中国武术场面，剧情以好莱坞无可比拟的叙事技巧展开。
+**Now here we are, on the cusp[k?sp] of** the release of Marvel’s “Shang-Chi and the Legend of the Ten Rings,” the first big-budget American **blockbuster** to center on an **honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywood’s **unparalleled storytelling** technology.  
+现在，漫威的《尚气与十环传奇》马上就要上映，这是第一部围绕诚实善良的亚洲超级英雄为中心的美国大片。影片由刘思慕主演，独创的特效结合炫目的中国武术场面，剧情以好莱坞无可比拟的叙事技巧展开。
 
 When we’re first introduced to our **titular protagonist** — going by **the westernized name** “Shaun” — he’s **depicted as a good-natured**, smiling **parking valet** who **nods and stammers when condescended to**. He **begs his over-the-top** BFF Katy (Nora “Awkwafina” Lum) not to make noise or trouble.
 片名中的主?——使用?化的名字“肖恩”——第一次出场时，他被描绘成一个善良、面带微笑的泊?员，当有人居高临下地对待他时，他会点头，还会结巴。他恳求他最好的朋友、行为乖张的凯蒂 (“奥卡菲娜”林家珍饰)不要制造噪音或麻烦。
