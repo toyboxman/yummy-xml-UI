@@ -1,829 +1,829 @@
-**Now here we are, on the cusp[k?sp] of** the release of Marvel¡¯s ¡°Shang-Chi and the Legend of the Ten Rings,¡± the first big-budget American **blockbuster** to center on an **honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywood¡¯s **unparalleled storytelling** technology.  
-ÏÖÔÚ£¬ÂşÍşµÄ¡¶ÉĞÆøÓëÊ®»·´«Ææ¡·ÂíÉÏ¾ÍÒªÉÏÓ³£¬ÕâÊÇµÚÒ»²¿Î§ÈÆ³ÏÊµÉÆÁ¼µÄÑÇÖŞ³¬¼¶Ó¢ĞÛÎªÖĞĞÄµÄÃÀ¹ú´óÆ¬¡£Ó°Æ¬ÓÉÁõË¼Ä½Ö÷Ñİ£¬¶À´´µÄÌØĞ§½áºÏìÅÄ¿µÄÖĞ¹úÎäÊõ³¡Ãæ£¬¾çÇéÒÔºÃÀ³ÎëÎŞ¿É±ÈÄâµÄĞğÊÂ¼¼ÇÉÕ¹¿ª¡£
+**Now here we are, on the cusp[kÊŒsp] of** the release of Marvelâ€™s â€œShang-Chi and the Legend of the Ten Rings,â€ the first big-budget American **blockbuster** to center on an **honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywoodâ€™s **unparalleled storytelling** technology.  
+ç°åœ¨ï¼Œæ¼«å¨çš„ã€Šå°šæ°”ä¸åç¯ä¼ å¥‡ã€‹é©¬ä¸Šå°±è¦ä¸Šæ˜ ï¼Œè¿™æ˜¯ç¬¬ä¸€éƒ¨å›´ç»•è¯šå®å–„è‰¯çš„äºšæ´²è¶…çº§è‹±é›„ä¸ºä¸­å¿ƒçš„ç¾å›½å¤§ç‰‡ã€‚å½±ç‰‡ç”±åˆ˜æ€æ…•ä¸»æ¼”ï¼Œç‹¬åˆ›çš„ç‰¹æ•ˆç»“åˆç‚«ç›®çš„ä¸­å›½æ­¦æœ¯åœºé¢ï¼Œå‰§æƒ…ä»¥å¥½è±åæ— å¯æ¯”æ‹Ÿçš„å™äº‹æŠ€å·§å±•å¼€ã€‚
 
-When we¡¯re first introduced to our **titular protagonist** ¡ª going by **the westernized name** ¡°Shaun¡± ¡ª he¡¯s **depicted as a good-natured**, smiling **parking valet** who **nods and stammers when condescended to**. He **begs his over-the-top** BFF Katy (Nora ¡°Awkwafina¡± Lum) not to make noise or trouble.
-Æ¬ÃûÖĞµÄÖ÷?¡ª¡ªÊ¹ÓÃ?»¯µÄÃû×Ö¡°Ğ¤¶÷¡±¡ª¡ªµÚÒ»´Î³ö³¡Ê±£¬Ëû±»Ãè»æ³ÉÒ»¸öÉÆÁ¼¡¢Ãæ´øÎ¢Ğ¦µÄ²´?Ô±£¬µ±ÓĞÈË¾Ó¸ßÁÙÏÂµØ¶Ô´ıËûÊ±£¬Ëû»áµãÍ·£¬»¹»á½á°Í¡£Ëû¿ÒÇóËû×îºÃµÄÅóÓÑ¡¢ĞĞÎª¹ÔÕÅµÄ¿­µÙ (¡°°Â¿¨·ÆÄÈ¡±ÁÖ¼ÒÕäÊÎ)²»ÒªÖÆÔìÔëÒô»òÂé·³¡£
+When weâ€™re first introduced to our **titular protagonist** â€” going by **the westernized name** â€œShaunâ€ â€” heâ€™s **depicted as a good-natured**, smiling **parking valet** who **nods and stammers when condescended to**. He **begs his over-the-top** BFF Katy (Nora â€œAwkwafinaâ€ Lum) not to make noise or trouble.
+ç‰‡åä¸­çš„ä¸»?â€”â€”ä½¿ç”¨?åŒ–çš„åå­—â€œè‚–æ©â€â€”â€”ç¬¬ä¸€æ¬¡å‡ºåœºæ—¶ï¼Œä»–è¢«æç»˜æˆä¸€ä¸ªå–„è‰¯ã€é¢å¸¦å¾®ç¬‘çš„æ³Š?å‘˜ï¼Œå½“æœ‰äººå±…é«˜ä¸´ä¸‹åœ°å¯¹å¾…ä»–æ—¶ï¼Œä»–ä¼šç‚¹å¤´ï¼Œè¿˜ä¼šç»“å·´ã€‚ä»–æ³æ±‚ä»–æœ€å¥½çš„æœ‹å‹ã€è¡Œä¸ºä¹–å¼ çš„å‡¯è’‚ (â€œå¥¥å¡è²å¨œâ€æ—å®¶çé¥°)ä¸è¦åˆ¶é€ å™ªéŸ³æˆ–éº»çƒ¦ã€‚
 
-He¡¯s **living as** many of our Asian parents **counseled** us: ¡°**The nail that sticks up gets hammered down**,¡± they said. They encouraged us to **blend in**, to **adopt cultural camouflage**, to **avoid standing out** in ways that might make us vulnerable to the racial targeting that they may have experienced themselves.
-ËûµÄÉú»î¾ÍÏñĞí¶àÑÇÒá¸¸Ä¸È°¸æÎÒÃÇµÄÄÇÑù¡ª¡ª¡°Ç¹´ò³öÍ·?¡±£¬ËûÃÇËµ¡£ËûÃÇ¹ÄÀøÎÒÃÇÈÚÈëÆäÖĞ£¬²ÉÓÃÎÄ»¯Î±×°£¬±ÜÃâÒıÈË×¢Ä¿£¬ÄÇÑù¿ÉÄÜ»áÈÃÎÒÃÇÈİÒ×ÊÜµ½ËûÃÇ¿ÉÄÜÔø¾­Àú¹ıµÄÖÖ×åÕë¶Ô¡£
+Heâ€™s **living as** many of our Asian parents **counseled** us: â€œ**The nail that sticks up gets hammered down**,â€ they said. They encouraged us to **blend in**, to **adopt cultural camouflage**, to **avoid standing out** in ways that might make us vulnerable to the racial targeting that they may have experienced themselves.
+ä»–çš„ç”Ÿæ´»å°±åƒè®¸å¤šäºšè£”çˆ¶æ¯åŠå‘Šæˆ‘ä»¬çš„é‚£æ ·â€”â€”â€œæªæ‰“å‡ºå¤´?â€ï¼Œä»–ä»¬è¯´ã€‚ä»–ä»¬é¼“åŠ±æˆ‘ä»¬èå…¥å…¶ä¸­ï¼Œé‡‡ç”¨æ–‡åŒ–ä¼ªè£…ï¼Œé¿å…å¼•äººæ³¨ç›®ï¼Œé‚£æ ·å¯èƒ½ä¼šè®©æˆ‘ä»¬å®¹æ˜“å—åˆ°ä»–ä»¬å¯èƒ½æ›¾ç»å†è¿‡çš„ç§æ—é’ˆå¯¹ã€‚
 
-But it¡¯s **not long before** Shaun **rips off his metaphorical glasses** and **steps unabashedly into the spotlight** as Shang-Chi, a **larger-than-life, pyrotechnic presence** who draws every eye and fills the screen as only superheroes can.
-µ«Ã»¹ı¶à¾Ã£¬Ğ¤¶÷ÕªÏÂËûÄÇ¸±´øÓĞÒşÓ÷É«²ÊµÄÑÛ¾µ£¬ºÁ²»ÑÚÊÎµØÒÔ¡°ÉĞÆø¡±µÄĞÎÏó³öÏÖÔÚ¾Û¹âµÆÏÂ£¬ÕâÊÇÒ»¸ö³¬·²ÍÑË×¡¢¹âÃ¢ËÄÉäµÄ³ö³¡£¬ËûÖ÷Ô××ÅÆÁÄ»£¬ÎüÒıÁËËùÓĞµÄÄ¿¹â£¬ÕâÊÇÖ»ÓĞ³¬¼¶Ó¢ĞÛ²ÅÓĞµÄÆø³¡¡£
+But itâ€™s **not long before** Shaun **rips off his metaphorical glasses** and **steps unabashedly into the spotlight** as Shang-Chi, a **larger-than-life, pyrotechnic presence** who draws every eye and fills the screen as only superheroes can.
+ä½†æ²¡è¿‡å¤šä¹…ï¼Œè‚–æ©æ‘˜ä¸‹ä»–é‚£å‰¯å¸¦æœ‰éšå–»è‰²å½©çš„çœ¼é•œï¼Œæ¯«ä¸æ©é¥°åœ°ä»¥â€œå°šæ°”â€çš„å½¢è±¡å‡ºç°åœ¨èšå…‰ç¯ä¸‹ï¼Œè¿™æ˜¯ä¸€ä¸ªè¶…å‡¡è„±ä¿—ã€å…‰èŠ’å››å°„çš„å‡ºåœºï¼Œä»–ä¸»å®°ç€å±å¹•ï¼Œå¸å¼•äº†æ‰€æœ‰çš„ç›®å…‰ï¼Œè¿™æ˜¯åªæœ‰è¶…çº§è‹±é›„æ‰æœ‰çš„æ°”åœºã€‚
 
-For those of us who **ultimately rebelled against** our parents¡¯ advice to **shrink ourselves**, Shang Chi¡¯s **heroic arrival** is a **satisfying refutation** of their warnings. Don¡¯t raise your voice. Don¡¯t draw attention. Don¡¯t **take up space**. This was **well-meaning counsel**, but it had **tremendous unintended consequences**, leading many of us to avoid **asserting our Asian heritage**.
-¶ÔÓÚÎÒÃÇÕâĞ©×îÖÕ²»¹Ë¸¸Ä¸È°ËµµÄÈËÀ´Ëµ£¬ÉĞÆøµÄÓ¢ÓÂµ½À´ÊÇ¶ÔËûÃÇ¾¯¸æµÄ²µ³â£¬ÁîÈË¸Ğµ½¼«¶ÈÊæÊÊ¡£²»Òª´óÉù¡£²»ÒªÒıÆğ×¢Òâ¡£²»ÒªÕ¼¾İ¿Õ¼ä¡£ÕâÊÇÉÆÒâµÄ½¨Òé£¬µ«Ëü²úÉúÁËÒâÏë²»µ½µÄ¾Ş´óºó¹û£¬µ¼ÖÂÎÒÃÇÖĞµÄĞí¶àÈË²»Ô¸Ö÷ÕÅÎÒÃÇµÄÑÇÒá´«Í³¡£
+For those of us who **ultimately rebelled against** our parentsâ€™ advice to **shrink ourselves**, Shang Chiâ€™s **heroic arrival** is a **satisfying refutation** of their warnings. Donâ€™t raise your voice. Donâ€™t draw attention. Donâ€™t **take up space**. This was **well-meaning counsel**, but it had **tremendous unintended consequences**, leading many of us to avoid **asserting our Asian heritage**.
+å¯¹äºæˆ‘ä»¬è¿™äº›æœ€ç»ˆä¸é¡¾çˆ¶æ¯åŠè¯´çš„äººæ¥è¯´ï¼Œå°šæ°”çš„è‹±å‹‡åˆ°æ¥æ˜¯å¯¹ä»–ä»¬è­¦å‘Šçš„é©³æ–¥ï¼Œä»¤äººæ„Ÿåˆ°æåº¦èˆ’é€‚ã€‚ä¸è¦å¤§å£°ã€‚ä¸è¦å¼•èµ·æ³¨æ„ã€‚ä¸è¦å æ®ç©ºé—´ã€‚è¿™æ˜¯å–„æ„çš„å»ºè®®ï¼Œä½†å®ƒäº§ç”Ÿäº†æ„æƒ³ä¸åˆ°çš„å·¨å¤§åæœï¼Œå¯¼è‡´æˆ‘ä»¬ä¸­çš„è®¸å¤šäººä¸æ„¿ä¸»å¼ æˆ‘ä»¬çš„äºšè£”ä¼ ç»Ÿã€‚
 
-**In the course of** conducting interviews for our **forthcoming book**, a history of Asian America from the nineties to now, Phil Yu, Philip Wang and I spoke with Asian American journalists who avoided covering their own communities for **fear of being boxed into an ethnic niche**. We heard from Asian American authors who **resisted writing Asian American lead characters** into their novels. We talked to Asian American performers who¡¯d **normalized the expectation** that they could only be **secondary players, onscreen** and in life.
-ÎÒÃÇ¼´½«³ö°æÒ»±¾ĞÂÊé£¬½²Êö¹ØÓÚ90Äê´úÖÁ½ñÑÇÒáÃÀ¹úÈËµÄÀúÊ·£¬ÔÚ½øĞĞ²É·ÃµÄ¹ı³ÌÖĞ£¬ÎÒºÍ·Æ¶û¡¤Áø¡¢·ÆÀûÆÕ¡¤Íõ²É·ÃÁËÒ»Ğ©ÑÇÒáÃÀ¹ú¼ÇÕß£¬ËûÃÇ²»Ô¸±¨µÀ×Ô¼ºÖÖ×åÉçÇøµÄĞÂÎÅ£¬ÒòÎªº¦ÅÂ±»µ±×÷Ò»¸öĞ¡ÖÚÖÖ×åÈºÌå¡£ÎÒÃÇÌıËµÑÇÒáÃÀ¹ú×÷¼Ò¾Ü¾ø½«ÑÇÒáÃÀ¹úÖ÷?Ğ´ÈëËûÃÇµÄĞ¡Ëµ¡£ÎÒÃÇ»¹ÓëÒ»Ğ©ÑÇÒáÃÀ¹úÑİÔ±½øĞĞÁË½»Ì¸£¬ËûÃÇÒÑ¾­½ÓÊÜÁËÈËÃÇÖ»Ö¸ÍûËûÃÇ°çÑİ´ÎÒª?É«£¬ÎŞÂÛÊÇÔÚÒøÄ»ÉÏ»¹ÊÇÔÚÉú»îÖĞ¡£
+**In the course of** conducting interviews for our **forthcoming book**, a history of Asian America from the nineties to now, Phil Yu, Philip Wang and I spoke with Asian American journalists who avoided covering their own communities for **fear of being boxed into an ethnic niche**. We heard from Asian American authors who **resisted writing Asian American lead characters** into their novels. We talked to Asian American performers whoâ€™d **normalized the expectation** that they could only be **secondary players, onscreen** and in life.
+æˆ‘ä»¬å³å°†å‡ºç‰ˆä¸€æœ¬æ–°ä¹¦ï¼Œè®²è¿°å…³äº90å¹´ä»£è‡³ä»Šäºšè£”ç¾å›½äººçš„å†å²ï¼Œåœ¨è¿›è¡Œé‡‡è®¿çš„è¿‡ç¨‹ä¸­ï¼Œæˆ‘å’Œè²å°”Â·æŸ³ã€è²åˆ©æ™®Â·ç‹é‡‡è®¿äº†ä¸€äº›äºšè£”ç¾å›½è®°è€…ï¼Œä»–ä»¬ä¸æ„¿æŠ¥é“è‡ªå·±ç§æ—ç¤¾åŒºçš„æ–°é—»ï¼Œå› ä¸ºå®³æ€•è¢«å½“ä½œä¸€ä¸ªå°ä¼—ç§æ—ç¾¤ä½“ã€‚æˆ‘ä»¬å¬è¯´äºšè£”ç¾å›½ä½œå®¶æ‹’ç»å°†äºšè£”ç¾å›½ä¸»?å†™å…¥ä»–ä»¬çš„å°è¯´ã€‚æˆ‘ä»¬è¿˜ä¸ä¸€äº›äºšè£”ç¾å›½æ¼”å‘˜è¿›è¡Œäº†äº¤è°ˆï¼Œä»–ä»¬å·²ç»æ¥å—äº†äººä»¬åªæŒ‡æœ›ä»–ä»¬æ‰®æ¼”æ¬¡è¦?è‰²ï¼Œæ— è®ºæ˜¯åœ¨é“¶å¹•ä¸Šè¿˜æ˜¯åœ¨ç”Ÿæ´»ä¸­ã€‚
 
-Sandra Oh, now leading Netflix¡¯s **hot-topic dramedy** ¡°The Chair,¡± told us that when she found out she was being **offered a spot** in the **cat- and-mouse assassin thriller** ¡°Killing Eve,¡± she **assumed** it would be for **a recurring role or supporting character**. ¡°I **looked through the script**, and I couldn¡¯t find an Asian doctor or **receptionist or whatever**,¡± she **recalled**. ¡°And that¡¯s when my agent told me that they wanted me for the lead. For Eve. The character in the title. That¡¯s the moment that I realized how deep the **internalized racism** had been for me by that point in my career: I couldn¡¯t even see the part I was supposed to be playing. I¡¯d gone from a place of tremendous possibility and confidence when I was very young, to not even **being able to see myself**.¡±
-ÎâÉº×¿ÏÖÔÚÖ÷ÑİÍø?ÈÈ?¾çÇéÆ¬¡¶ÒÎ×Ó¡·Ëı¸æËßÎÒÃÇ£¬µ±Ëı·¢ÏÖ×Ô¼ºÔÚÃ¨ÊóÓÎÏ·Ê½µÄ°µÉ±¾ªã¤Æ¬¡¶É±ËÀÒÁÜ½¡·ÖĞ»ñµÃ?É«Ê±£¬ËıÒÔÎªÖ»ÊÇÒ»¸öÖØ¸´³öÏÖµÄ?É«»òÅä?¡£¡°ÎÒ·­ÔÄÁË¾ç±¾£¬ÎÒÕÒ²»µ½ÑÇÒáÒ½Éú»ò½Ó´ıÔ±Ö®ÀàµÄÈËÎï£¬¡±Ëı»ØÒäµÀ¡£¡°¾ÍÔÚÄÇÊ±£¬ÎÒµÄ¾­¼ÍÈË¸æËßÎÒ£¬ËûÃÇÏ£ÍûÎÒµ£ÈÎÖ÷?¡£ÑİÒÁÜ½¡£Æ¬ÃûÖĞµÄÈËÎï¡£ÄÇÒ»¿ÌÎÒÒâÊ¶µ½£¬ÔÚÎÒÒÔÍùµÄÖ°ÒµÉúÑÄÖĞ£¬ÄÚ»¯µÄÖÖ×åÖ÷Òå¶ÔÎÒÀ´ËµÓĞ¶àÉî:ÎÒÉõÖÁ¿´²»µ½ÎÒÓ¦¸Ã°çÑİµÄ?É«¡£ÎÒÒÑ¾­´ÓĞ¡Ê±ºòÄÇÖÖ³äÂú¸÷ÖÖ¿ÉÄÜĞÔºÍĞÅĞÄµÄ½×¶Î£¬±ä³ÉÁËÎŞÊÓ×Ô¼ºµÄ³Ì¶È¡£¡±
+Sandra Oh, now leading Netflixâ€™s **hot-topic dramedy** â€œThe Chair,â€ told us that when she found out she was being **offered a spot** in the **cat- and-mouse assassin thriller** â€œKilling Eve,â€ she **assumed** it would be for **a recurring role or supporting character**. â€œI **looked through the script**, and I couldnâ€™t find an Asian doctor or **receptionist or whatever**,â€ she **recalled**. â€œAnd thatâ€™s when my agent told me that they wanted me for the lead. For Eve. The character in the title. Thatâ€™s the moment that I realized how deep the **internalized racism** had been for me by that point in my career: I couldnâ€™t even see the part I was supposed to be playing. Iâ€™d gone from a place of tremendous possibility and confidence when I was very young, to not even **being able to see myself**.â€
+å´çŠå“ç°åœ¨ä¸»æ¼”ç½‘?çƒ­?å‰§æƒ…ç‰‡ã€Šæ¤…å­ã€‹å¥¹å‘Šè¯‰æˆ‘ä»¬ï¼Œå½“å¥¹å‘ç°è‡ªå·±åœ¨çŒ«é¼ æ¸¸æˆå¼çš„æš—æ€æƒŠæ‚šç‰‡ã€Šæ€æ­»ä¼ŠèŠ™ã€‹ä¸­è·å¾—?è‰²æ—¶ï¼Œå¥¹ä»¥ä¸ºåªæ˜¯ä¸€ä¸ªé‡å¤å‡ºç°çš„?è‰²æˆ–é…?ã€‚â€œæˆ‘ç¿»é˜…äº†å‰§æœ¬ï¼Œæˆ‘æ‰¾ä¸åˆ°äºšè£”åŒ»ç”Ÿæˆ–æ¥å¾…å‘˜ä¹‹ç±»çš„äººç‰©ï¼Œâ€å¥¹å›å¿†é“ã€‚â€œå°±åœ¨é‚£æ—¶ï¼Œæˆ‘çš„ç»çºªäººå‘Šè¯‰æˆ‘ï¼Œä»–ä»¬å¸Œæœ›æˆ‘æ‹…ä»»ä¸»?ã€‚æ¼”ä¼ŠèŠ™ã€‚ç‰‡åä¸­çš„äººç‰©ã€‚é‚£ä¸€åˆ»æˆ‘æ„è¯†åˆ°ï¼Œåœ¨æˆ‘ä»¥å¾€çš„èŒä¸šç”Ÿæ¶¯ä¸­ï¼Œå†…åŒ–çš„ç§æ—ä¸»ä¹‰å¯¹æˆ‘æ¥è¯´æœ‰å¤šæ·±:æˆ‘ç”šè‡³çœ‹ä¸åˆ°æˆ‘åº”è¯¥æ‰®æ¼”çš„?è‰²ã€‚æˆ‘å·²ç»ä»å°æ—¶å€™é‚£ç§å……æ»¡å„ç§å¯èƒ½æ€§å’Œä¿¡å¿ƒçš„é˜¶æ®µï¼Œå˜æˆäº†æ— è§†è‡ªå·±çš„ç¨‹åº¦ã€‚â€
 
-Shang-Chi isn¡¯t the first **Asian protagonist** we¡¯ve seen on a screen. But as a big-budget, big-screen Marvel superhero, he¡¯ll be **ubiquitous**. Superheroes today are on every screen, device and platform, **visible to every demographic** in our society. Shang-Chi will **usher** in the next **cinematic phase** of the most **successful franchise** in global history. **In his wake** will come more Asian heroes
-ÉĞÆø²¢²»ÊÇÎÒÃÇÔÚÒøÄ»ÉÏ¿´µ½µÄµÚÒ»¸öÑÇÒáÖ÷?¡£µ«×÷ÎªÒ»¸ö´óÔ¤Ëã¡¢´óÒøÄ»µÄÂşÍş³¬¼¶Ó¢ĞÛ£¬Ëû½«ÎŞ´¦²»ÔÚ¡£½ñÌìµÄ³¬¼¶Ó¢ĞÛ³öÏÖÔÚÃ¿¸öÆÁÄ»¡¢Éè±¸ºÍÆ½Ì¨ÉÏ£¬ÎÒÃÇÉç»áÖĞµÄÈÎºÎÒ»Ô±¶¼¿ÉÒÔ¿´µ½¡£ÉĞÆø½«Ó­À´È«ÇòÀúÊ·ÉÏ×î³É¹¦µçÓ°ÏµÁĞµÄÏÂÒ»¸ö½×¶Î¡£ÔÚËûÉíºó½«³öÏÖ¸ü¶àÑÇÒáÓ¢ĞÛ
+Shang-Chi isnâ€™t the first **Asian protagonist** weâ€™ve seen on a screen. But as a big-budget, big-screen Marvel superhero, heâ€™ll be **ubiquitous**. Superheroes today are on every screen, device and platform, **visible to every demographic** in our society. Shang-Chi will **usher** in the next **cinematic phase** of the most **successful franchise** in global history. **In his wake** will come more Asian heroes
+å°šæ°”å¹¶ä¸æ˜¯æˆ‘ä»¬åœ¨é“¶å¹•ä¸Šçœ‹åˆ°çš„ç¬¬ä¸€ä¸ªäºšè£”ä¸»?ã€‚ä½†ä½œä¸ºä¸€ä¸ªå¤§é¢„ç®—ã€å¤§é“¶å¹•çš„æ¼«å¨è¶…çº§è‹±é›„ï¼Œä»–å°†æ— å¤„ä¸åœ¨ã€‚ä»Šå¤©çš„è¶…çº§è‹±é›„å‡ºç°åœ¨æ¯ä¸ªå±å¹•ã€è®¾å¤‡å’Œå¹³å°ä¸Šï¼Œæˆ‘ä»¬ç¤¾ä¼šä¸­çš„ä»»ä½•ä¸€å‘˜éƒ½å¯ä»¥çœ‹åˆ°ã€‚å°šæ°”å°†è¿æ¥å…¨çƒå†å²ä¸Šæœ€æˆåŠŸç”µå½±ç³»åˆ—çš„ä¸‹ä¸€ä¸ªé˜¶æ®µã€‚åœ¨ä»–èº«åå°†å‡ºç°æ›´å¤šäºšè£”è‹±é›„
 
-That can mean the difference between life and death. **Throughout our history** in this country, Asian Americans have seen the **dire consequences of compliance and invisibility: exploitation, exclusion, internment**. We¡¯re seeing them again today in the time of Covid, as the pandemic has **underscored our country¡¯s xenophobic hostility, and unleashed a wave of violence** against the most vulnerable in our communities.
-Õâ¿ÉÄÜÒâÎ¶×ÅÉúËÀ´æÍöµÄ²î¾à¡£×İ¹ÛÎÒÃÇÔÚÕâ¸ö¹ú¼ÒµÄÀúÊ·£¬ÑÇÒáÃÀ¹úÈËÒÑ¾­¿´µ½ÁËË³´ÓºÍÒşĞÎµÄ¿ÉÅÂºó¹û:°şÏ÷¡¢ÅÅ³â¡¢¾Ğ½ûÓª¡£ÎÒÃÇ½ñÌìÔÚĞÂ¹ÚÊ±´úÔÙ´Î¿´µ½ÁËÕâĞ©ºó¹û£¬´óÁ÷ĞĞÍ¹ÏÔÁËÎÒÃÇ¹ú¼ÒµÄ³ğÍâµĞÒâ£¬²¢Òı·¢ÁËÕë¶ÔÎÒÃÇÉçÇøÖĞ×îÈõÊÆÈºÌåµÄ±©Á¦ÀË³±¡£
+That can mean the difference between life and death. **Throughout our history** in this country, Asian Americans have seen the **dire consequences of compliance and invisibility: exploitation, exclusion, internment**. Weâ€™re seeing them again today in the time of Covid, as the pandemic has **underscored our countryâ€™s xenophobic hostility, and unleashed a wave of violence** against the most vulnerable in our communities.
+è¿™å¯èƒ½æ„å‘³ç€ç”Ÿæ­»å­˜äº¡çš„å·®è·ã€‚çºµè§‚æˆ‘ä»¬åœ¨è¿™ä¸ªå›½å®¶çš„å†å²ï¼Œäºšè£”ç¾å›½äººå·²ç»çœ‹åˆ°äº†é¡ºä»å’Œéšå½¢çš„å¯æ€•åæœ:å‰¥å‰Šã€æ’æ–¥ã€æ‹˜ç¦è¥ã€‚æˆ‘ä»¬ä»Šå¤©åœ¨æ–°å† æ—¶ä»£å†æ¬¡çœ‹åˆ°äº†è¿™äº›åæœï¼Œå¤§æµè¡Œå‡¸æ˜¾äº†æˆ‘ä»¬å›½å®¶çš„ä»‡å¤–æ•Œæ„ï¼Œå¹¶å¼•å‘äº†é’ˆå¯¹æˆ‘ä»¬ç¤¾åŒºä¸­æœ€å¼±åŠ¿ç¾¤ä½“çš„æš´åŠ›æµªæ½®ã€‚
 
-A scene from Shang-Chi **perfectly captures** why this film is so important and **timely. Ambushed by thugs** on a San Francisco bus, Shang-Chi suddenly **unleashes a flurry of eye-popping combat moves**. His longtime friend Katy **does a hard double take**. ¡°Who are you?¡± she demands. For her, this is **a brand-new** Shaun. For the rest of the riders on the bus, **cheering him on and snapping selfies**, this is a brand-new hero. All of them are **simply seeing him as who he really is**. Don¡¯t we all **deserve as much**?
-¡¶ÉĞÆø¡·ÖĞµÄÒ»¸ö³¡¾°ÍêÃÀµØÚ¹ÊÍÁËÎªÊ²Ã´Õâ²¿µçÓ°Èç´ËÖØÒªºÍ¼°Ê±¡£ÔÚ¾É½ğÉ½°ÍÊ¿ÉÏ±»±©Í½·ü»÷Ê±£¬ÉĞÆøÍ»È»±¬·¢³öÒ»ÏµÁĞÁîÈËîªÄ¿½áÉàµÄ´ò¶·¶¯×÷¡£ËûµÄÀÏÅóÓÑ¿­µÙ´ó³ÔÒ»¾ª¡£¡°Äãµ½µ×ÊÇË­?¡±Ëı×·ÎÊ¡£¶ÔËıÀ´Ëµ£¬ÕâÊÇÒ»¸öÈ«ĞÂµÄĞ¤¶÷¡£¶ÔÓÚÎªËû¼ÓÓÍ²¢ÅÄºÏÕÕµÄÆäËû¹«½»?³Ë¿ÍÀ´Ëµ£¬ÕâÊÇÒ»¸öÈ«ĞÂµÄÓ¢ĞÛ¡£ËûÃÇËùÓĞÈË¾ÍÕâÑù¿´µ½ÁËÕæÊµµÄËû¡£ÄÑµÀÎÒÃÇ²»Ó¦¸ÃµÃµ½Í¬ÑùµÄ´ıÓöÂğ?
+A scene from Shang-Chi **perfectly captures** why this film is so important and **timely. Ambushed by thugs** on a San Francisco bus, Shang-Chi suddenly **unleashes a flurry of eye-popping combat moves**. His longtime friend Katy **does a hard double take**. â€œWho are you?â€ she demands. For her, this is **a brand-new** Shaun. For the rest of the riders on the bus, **cheering him on and snapping selfies**, this is a brand-new hero. All of them are **simply seeing him as who he really is**. Donâ€™t we all **deserve as much**?
+ã€Šå°šæ°”ã€‹ä¸­çš„ä¸€ä¸ªåœºæ™¯å®Œç¾åœ°è¯ é‡Šäº†ä¸ºä»€ä¹ˆè¿™éƒ¨ç”µå½±å¦‚æ­¤é‡è¦å’ŒåŠæ—¶ã€‚åœ¨æ—§é‡‘å±±å·´å£«ä¸Šè¢«æš´å¾’ä¼å‡»æ—¶ï¼Œå°šæ°”çªç„¶çˆ†å‘å‡ºä¸€ç³»åˆ—ä»¤äººç ç›®ç»“èˆŒçš„æ‰“æ–—åŠ¨ä½œã€‚ä»–çš„è€æœ‹å‹å‡¯è’‚å¤§åƒä¸€æƒŠã€‚â€œä½ åˆ°åº•æ˜¯è°?â€å¥¹è¿½é—®ã€‚å¯¹å¥¹æ¥è¯´ï¼Œè¿™æ˜¯ä¸€ä¸ªå…¨æ–°çš„è‚–æ©ã€‚å¯¹äºä¸ºä»–åŠ æ²¹å¹¶æ‹åˆç…§çš„å…¶ä»–å…¬äº¤?ä¹˜å®¢æ¥è¯´ï¼Œè¿™æ˜¯ä¸€ä¸ªå…¨æ–°çš„è‹±é›„ã€‚ä»–ä»¬æ‰€æœ‰äººå°±è¿™æ ·çœ‹åˆ°äº†çœŸå®çš„ä»–ã€‚éš¾é“æˆ‘ä»¬ä¸åº”è¯¥å¾—åˆ°åŒæ ·çš„å¾…é‡å—?
 
 Parents had complained that was **too generous** and had **been laxly enforced**, the administration said. The government said it would **step up inspections** to ensure that gaming companies were **enforcing the restrictions**.
-¹ÜÀí²¿?³Æ£¬¼Ò?ÃÇ±§Ô¹¸Ã¾Ù´ë¹ıÓÚ¿íËÉ£¬¶øÇÒÖ´ĞĞ²»Á¦¡£Õş¸®±íÊ¾£¬Ëü½«¼ÓÇ¿¼ì²é£¬È·±£ÓÎÏ·¹«Ë¾Ö´ĞĞÕâĞ©ÏŞÖÆ¡£
+ç®¡ç†éƒ¨?ç§°ï¼Œå®¶?ä»¬æŠ±æ€¨è¯¥ä¸¾æªè¿‡äºå®½æ¾ï¼Œè€Œä¸”æ‰§è¡Œä¸åŠ›ã€‚æ”¿åºœè¡¨ç¤ºï¼Œå®ƒå°†åŠ å¼ºæ£€æŸ¥ï¼Œç¡®ä¿æ¸¸æˆå…¬å¸æ‰§è¡Œè¿™äº›é™åˆ¶ã€‚
 
-Recently many parents have reported that **game addiction** among some youths and children is **seriously harming** their normal study, life and **mental and physical health**, Parents, it said, had demanded ¡°further restrictions and **reductions** in the time provided for **minors** by online gaming services.¡±
-²»ÉÙ¼Ò?·´Ó³£¬Ò»Ğ©?ÉÙÄê³ÁÃÔÍøÂçÓÎÏ·ÑÏÖØÓ°ÏìÁËÕı³£µÄÑ§Ï°Éú»îºÍÉíĞÄ½¡¿µ£¬¼Ò?ÃÇÒªÇó¡°½øÒ»²½ÏŞÖÆ¡¢Ñ¹ËõÏòÎ´³ÉÄêÈËÌá¹©ÍøÂçÓÎÏ··şÎñµÄÊ±¶ÎÊ±?¡±¡£
+Recently many parents have reported that **game addiction** among some youths and children is **seriously harming** their normal study, life and **mental and physical health**, Parents, it said, had demanded â€œfurther restrictions and **reductions** in the time provided for **minors** by online gaming services.â€
+ä¸å°‘å®¶?åæ˜ ï¼Œä¸€äº›?å°‘å¹´æ²‰è¿·ç½‘ç»œæ¸¸æˆä¸¥é‡å½±å“äº†æ­£å¸¸çš„å­¦ä¹ ç”Ÿæ´»å’Œèº«å¿ƒå¥åº·ï¼Œå®¶?ä»¬è¦æ±‚â€œè¿›ä¸€æ­¥é™åˆ¶ã€å‹ç¼©å‘æœªæˆå¹´äººæä¾›ç½‘ç»œæ¸¸æˆæœåŠ¡çš„æ—¶æ®µæ—¶?â€ã€‚
 
-The new rules also **reflect the government¡¯s intensifying push** for companies to **jettison** what the Chinese Communist Party says are 
+The new rules also **reflect the governmentâ€™s intensifying push** for companies to **jettison** what the Chinese Communist Party says are 
 **unhealthy influences**, especially among teenagers and children.
-ĞÂ¹æ¶¨»¹·´Ó³³öÕş¸®ÕıÔÚ¼Ó´óÁ¦¶È£¬¶Ø´ÙÆóÒµŞğ³ıÖĞ¹ú¹²²úµ³ËùËµµÄ²»½¡¿µÓ°Ïì£¬ÓÈÆäÊÇÔÚ?ÉÙÄêºÍ¶ùÍ¯µ±ÖĞ¡£
+æ–°è§„å®šè¿˜åæ˜ å‡ºæ”¿åºœæ­£åœ¨åŠ å¤§åŠ›åº¦ï¼Œæ•¦ä¿ƒä¼ä¸šæ‘’é™¤ä¸­å›½å…±äº§å…šæ‰€è¯´çš„ä¸å¥åº·å½±å“ï¼Œå°¤å…¶æ˜¯åœ¨?å°‘å¹´å’Œå„¿ç«¥å½“ä¸­ã€‚
 
-Last week, the Chinese government **initiated a crackdown** on **teen celebrity worship and fan clubs**, warning that celebrities¡¯ pursuit of online followers was **warping youths¡¯ value**. China¡¯s **Cyberspace Administration** on Friday **banned ranking** celebrities by popularity.
-ÉÏÖÜ£¬ÖĞ¹úÕş¸®·¢ÆğÁËÒ»Ïî¶Ô?ÉÙÄê³ç°İÃ÷ĞÇÒÕÈË¡¢ÒÔ¼°Ã÷ĞÇ·ÛË¿ÍÅ½øĞĞ´ò»÷µÄĞĞ¶¯£¬²¢¾¯¸æ£¬ÃûÈË¶ÔÍøÂç·ÛË¿µÄ×·ÇóÅ¤ÇúÁË?ÉÙÄêµÄ¼ÛÖµ¹Û¡£ÉÏÖÜÎå£¬¹ú¼Ò»¥ÁªÍøĞÅÏ¢°ì¹«ÊÒ½ûÖ¹¶ÔÃ÷ĞÇÒÕÈË½øĞĞÈËÆøÅÅÃû¡£
+Last week, the Chinese government **initiated a crackdown** on **teen celebrity worship and fan clubs**, warning that celebritiesâ€™ pursuit of online followers was **warping youthsâ€™ value**. Chinaâ€™s **Cyberspace Administration** on Friday **banned ranking** celebrities by popularity.
+ä¸Šå‘¨ï¼Œä¸­å›½æ”¿åºœå‘èµ·äº†ä¸€é¡¹å¯¹?å°‘å¹´å´‡æ‹œæ˜æ˜Ÿè‰ºäººã€ä»¥åŠæ˜æ˜Ÿç²‰ä¸å›¢è¿›è¡Œæ‰“å‡»çš„è¡ŒåŠ¨ï¼Œå¹¶è­¦å‘Šï¼Œåäººå¯¹ç½‘ç»œç²‰ä¸çš„è¿½æ±‚æ‰­æ›²äº†?å°‘å¹´çš„ä»·å€¼è§‚ã€‚ä¸Šå‘¨äº”ï¼Œå›½å®¶äº’è”ç½‘ä¿¡æ¯åŠå…¬å®¤ç¦æ­¢å¯¹æ˜æ˜Ÿè‰ºäººè¿›è¡Œäººæ°”æ’åã€‚
 
-Online gaming has been one of **the most vibrant and profitable** sectors of China¡¯s internet industry, generating billions in revenue from players who **pay to take part in online quests**, wars and adventures.
-ÍøÂçÓÎÏ·Ò»Ö±ÊÇÖĞ¹ú»¥ÁªÍøĞĞÒµÖĞ×î¾ß»îÁ¦¡¢×îÄÜ×¬Ç®µÄ²¿?Ö®Ò»£¬ ´Ó¸¶·Ñ²ÎÓëÔÚÏßÈÎÎñ¡¢Õ½¶·ºÍÃ°ÏÕµÄÍæ¼ÒÄÇÀï´´ÔìÁËÊıÊ®ÒÚµÄÊÕÈë
+Online gaming has been one of **the most vibrant and profitable** sectors of Chinaâ€™s internet industry, generating billions in revenue from players who **pay to take part in online quests**, wars and adventures.
+ç½‘ç»œæ¸¸æˆä¸€ç›´æ˜¯ä¸­å›½äº’è”ç½‘è¡Œä¸šä¸­æœ€å…·æ´»åŠ›ã€æœ€èƒ½èµšé’±çš„éƒ¨?ä¹‹ä¸€ï¼Œ ä»ä»˜è´¹å‚ä¸åœ¨çº¿ä»»åŠ¡ã€æˆ˜æ–—å’Œå†’é™©çš„ç©å®¶é‚£é‡Œåˆ›é€ äº†æ•°åäº¿çš„æ”¶å…¥
 
-In early August, the share prices of Tencent Holdings and other big Chinese video game companies **fell sharply** after a Chinese newspaper called their products ¡°**spiritual opium**.¡± The article **singled out** Tencent, which owns Honor of Kings, a **hugely popular** game in China.
-8ÔÂ³õ£¬ÌÚÑ¶ºÍÖĞ¹úÆäËû´óĞÍµç×ÓÓÎÏ·¹«Ë¾µÄ¹É¼Û´ó·ùÏÂµø£¬´ËÇ°Ò»¼ÒÖĞ¹ú±¨Ö½³ÆÕâĞ©¹«Ë¾µÄ²úÆ·Îª¡°¾«ÉñÑ»Æ¬¡±¡£¸ÃÎÄÌØ±ğÌáµ½ÁËÌÚÑ¶£¬ËüÓµÓĞÔÚÖĞ¹ú·Ç³£ÊÜ»¶Ó­µÄÓÎÏ·¡¶ÍõÕßÈÙÒ«¡·
+In early August, the share prices of Tencent Holdings and other big Chinese video game companies **fell sharply** after a Chinese newspaper called their products â€œ**spiritual opium**.â€ The article **singled out** Tencent, which owns Honor of Kings, a **hugely popular** game in China.
+8æœˆåˆï¼Œè…¾è®¯å’Œä¸­å›½å…¶ä»–å¤§å‹ç”µå­æ¸¸æˆå…¬å¸çš„è‚¡ä»·å¤§å¹…ä¸‹è·Œï¼Œæ­¤å‰ä¸€å®¶ä¸­å›½æŠ¥çº¸ç§°è¿™äº›å…¬å¸çš„äº§å“ä¸ºâ€œç²¾ç¥é¸¦ç‰‡â€ã€‚è¯¥æ–‡ç‰¹åˆ«æåˆ°äº†è…¾è®¯ï¼Œå®ƒæ‹¥æœ‰åœ¨ä¸­å›½éå¸¸å—æ¬¢è¿çš„æ¸¸æˆã€Šç‹è€…è£è€€ã€‹
 
-Chinese parents complained that children **constantly found new ways to sneak past the limits** on gaming hours, Many parents reported that their children had big changes **in their temper and personality** after **becoming addicted to games**, even **as if they had become another person**.¡±
-ÖĞ¹ú¸¸Ä¸±§Ô¹Ëµ£¬º¢×ÓÃÇ×ÜÄÜÕÒµ½ĞÂµÄ·½·¨À´ÌÓ±ÜÓÎÏ·Ê±¼äµÄÏŞÖÆ¡£ºÜ¶à¡°¼Ò?·´Ó³£¬×Ô¼ºµÄº¢×Ó³ÁÃÔÊÖ»úÍøÂçÓÎÏ·ºó£¬Æ¢ÆøºÍĞÔ¸ñ½ÏÖ®Ç°´ó²»ÏàÍ¬£¬ÉõÖÁÏñÊÇ±äÁËÒ»¸öÈËÒ»Ñù¡±¡£
+Chinese parents complained that children **constantly found new ways to sneak past the limits** on gaming hours, Many parents reported that their children had big changes **in their temper and personality** after **becoming addicted to games**, even **as if they had become another person**.â€
+ä¸­å›½çˆ¶æ¯æŠ±æ€¨è¯´ï¼Œå­©å­ä»¬æ€»èƒ½æ‰¾åˆ°æ–°çš„æ–¹æ³•æ¥é€ƒé¿æ¸¸æˆæ—¶é—´çš„é™åˆ¶ã€‚å¾ˆå¤šâ€œå®¶?åæ˜ ï¼Œè‡ªå·±çš„å­©å­æ²‰è¿·æ‰‹æœºç½‘ç»œæ¸¸æˆåï¼Œè„¾æ°”å’Œæ€§æ ¼è¾ƒä¹‹å‰å¤§ä¸ç›¸åŒï¼Œç”šè‡³åƒæ˜¯å˜äº†ä¸€ä¸ªäººä¸€æ ·â€ã€‚
 
 The woman, who has **been identified by** the police and her lawyers only **by her surname**, Zhou, said bosses and human resources had **shrugged off her complaints**. She eventually **resorted to screaming** about the assault in **a company cafeteria** last month.
-¾¯·½ºÍËıµÄÂÉÊ¦³ÆËıÎªÖÜÅ®Ê¿¡£ÖÜÅ®Ê¿Ëµ£¬Áìµ¼ºÍÈËÁ¦×ÊÔ´²¿?¶ÔËıµÄÍ¶ËßÖÃÖ®²»Àí¡£ÔÚÉÏ¸öÔÂ£¬Ëı×îÖÕËßÖîÓÚÔÚ¹«Ë¾?ÌÃ´óÉù¸ßº°ÕâÒ»ÇÖ·¸ÊÂ¼ş¡£
+è­¦æ–¹å’Œå¥¹çš„å¾‹å¸ˆç§°å¥¹ä¸ºå‘¨å¥³å£«ã€‚å‘¨å¥³å£«è¯´ï¼Œé¢†å¯¼å’ŒäººåŠ›èµ„æºéƒ¨?å¯¹å¥¹çš„æŠ•è¯‰ç½®ä¹‹ä¸ç†ã€‚åœ¨ä¸Šä¸ªæœˆï¼Œå¥¹æœ€ç»ˆè¯‰è¯¸äºåœ¨å…¬å¸?å ‚å¤§å£°é«˜å–Šè¿™ä¸€ä¾µçŠ¯äº‹ä»¶ã€‚
 
-Ms. Zhou¡¯s case has **caused an uproar** within the company and across China¡¯s **tech establishment**. Alibaba fired the man accused of rape, said it would establish an anti-sexual-harassment policy and declared itself ¡°**staunchly opposed to the ugly forced drinking culture**.¡± Yet former Alibaba employees say the problems **run much deeper** than the company has acknowledged.
-ÖÜÅ®Ê¿µÄ°¸¼şÔÚ¹«Ë¾ÄÚ²¿ºÍÖĞ¹ú¿Æ¼¼ÆóÒµÖĞÒıÆğĞùÈ»´ó²¨¡£°¢Àï°Í°Í½â¹ÍÁËÕâÃû±»¿ØÇ¿¼éµÄÄĞ×Ó£¬±íÊ¾½«ÖÆ¶¨·´ĞÔÉ§ÈÅÕş²ß£¬²¢Ğû³Æ×Ô¼º¡°ÆìÖÄÏÊÃ÷µØ·´¶Ô³óÂªµÄ¾Æ×ÀÎÄ»¯¡±¡£È»¶ø£¬Ç°°¢Àï°Í°ÍÔ±¹¤±íÊ¾£¬ÎÊÌâ±È¸Ã¹«Ë¾³ĞÈÏµÄÒªÑÏÖØµÃ¶à¡£
+Ms. Zhouâ€™s case has **caused an uproar** within the company and across Chinaâ€™s **tech establishment**. Alibaba fired the man accused of rape, said it would establish an anti-sexual-harassment policy and declared itself â€œ**staunchly opposed to the ugly forced drinking culture**.â€ Yet former Alibaba employees say the problems **run much deeper** than the company has acknowledged.
+å‘¨å¥³å£«çš„æ¡ˆä»¶åœ¨å…¬å¸å†…éƒ¨å’Œä¸­å›½ç§‘æŠ€ä¼ä¸šä¸­å¼•èµ·è½©ç„¶å¤§æ³¢ã€‚é˜¿é‡Œå·´å·´è§£é›‡äº†è¿™åè¢«æ§å¼ºå¥¸çš„ç”·å­ï¼Œè¡¨ç¤ºå°†åˆ¶å®šåæ€§éªšæ‰°æ”¿ç­–ï¼Œå¹¶å®£ç§°è‡ªå·±â€œæ——å¸œé²œæ˜åœ°åå¯¹ä¸‘é™‹çš„é…’æ¡Œæ–‡åŒ–â€ã€‚ç„¶è€Œï¼Œå‰é˜¿é‡Œå·´å·´å‘˜å·¥è¡¨ç¤ºï¼Œé—®é¢˜æ¯”è¯¥å…¬å¸æ‰¿è®¤çš„è¦ä¸¥é‡å¾—å¤šã€‚
 
 Interviews with nine former employees **suggest that casual sexism is common** at Alibaba. They describe a work environment in which women are made to feel embarrassed and **belittled** during team-building and other activities that the company has incorporated in its culture, **a striking departure from the image of inclusion** Alibaba has **tried to project**.
-¶Ô¾ÅÃûÇ°Ô±¹¤µÄ²É·Ã±íÃ÷£¬ËæÒâµÄĞÔ±ğÆçÊÓÔÚ°¢Àï°Í°ÍºÜ³£?¡£ÔÚËûÃÇÃèÊöµÄ¹¤×÷»·¾³ÖĞ£¬¹«Ë¾½«ÍÅ½¨ºÍÆäËû»î¶¯ÈÚÈëÆäÎÄ»¯£¬ÔÚÕâĞ©»î¶¯ÖĞ£¬Å®ĞÔ¸Ğµ½ŞÏŞÎºÍ±»±áµÍ£¬ÕâÓë°¢Àï°Í°ÍÊÔÍ¼ËÜÔìµÄ°üÈİĞÔĞÎÏó´óÏà¾¶Í¥¡£
+å¯¹ä¹åå‰å‘˜å·¥çš„é‡‡è®¿è¡¨æ˜ï¼Œéšæ„çš„æ€§åˆ«æ­§è§†åœ¨é˜¿é‡Œå·´å·´å¾ˆå¸¸?ã€‚åœ¨ä»–ä»¬æè¿°çš„å·¥ä½œç¯å¢ƒä¸­ï¼Œå…¬å¸å°†å›¢å»ºå’Œå…¶ä»–æ´»åŠ¨èå…¥å…¶æ–‡åŒ–ï¼Œåœ¨è¿™äº›æ´»åŠ¨ä¸­ï¼Œå¥³æ€§æ„Ÿåˆ°å°´å°¬å’Œè¢«è´¬ä½ï¼Œè¿™ä¸é˜¿é‡Œå·´å·´è¯•å›¾å¡‘é€ çš„åŒ…å®¹æ€§å½¢è±¡å¤§ç›¸å¾„åº­ã€‚
 
-The police investigation into Ms. Zhou¡¯s case is continuing. Alibaba **appears to be trying to keep a lid on** discussions of the matter. 
-¾¯·½¶ÔÖÜÅ®Ê¿°¸¼şµÄµ÷²éÈÔÔÚ¼ÌĞø¡£°¢Àï°Í°ÍËÆºõÊÔÍ¼ÏŞÖÆ¶Ô´ËÊÂµÄÌÖÂÛ¡£
+The police investigation into Ms. Zhouâ€™s case is continuing. Alibaba **appears to be trying to keep a lid on** discussions of the matter. 
+è­¦æ–¹å¯¹å‘¨å¥³å£«æ¡ˆä»¶çš„è°ƒæŸ¥ä»åœ¨ç»§ç»­ã€‚é˜¿é‡Œå·´å·´ä¼¼ä¹è¯•å›¾é™åˆ¶å¯¹æ­¤äº‹çš„è®¨è®ºã€‚
 
-Alibaba said **fostering a safe and supportive workplace** was its top priority. When we have **fallen short**, we **believe in taking responsibility and holding ourselves accountable**. Alibaba **made immediate changes to the way** it handles workplace culture and misconduct matters after Ms. Zhou¡¯s case **came to light**. 
-°¢Àï°Í°Í±íÊ¾£¬ÓªÔìÒ»¸ö°²È«ºÍÖ§³ÖĞÔµÄ¹¤×÷³¡ËùÊÇÆäÊ×ÒªÈÎÎñ¡£µ±ÎÒÃÇÃ»ÓĞ×öµ½Ê±£¬ÎÒÃÇ»á³Ğµ£ÔğÈÎ²¢×·Ôğ¡£ÔÚÖÜÅ®Ê¿µÄ°¸¼şÆØ¹âºó£¬°¢Àï°Í°ÍÁ¢¼´¸Ä±äÁË´¦ÀíÖ°³¡ÎÄ»¯ºÍ²»µ±ĞĞÎªÎÊÌâµÄ·½Ê½¡£
+Alibaba said **fostering a safe and supportive workplace** was its top priority. When we have **fallen short**, we **believe in taking responsibility and holding ourselves accountable**. Alibaba **made immediate changes to the way** it handles workplace culture and misconduct matters after Ms. Zhouâ€™s case **came to light**. 
+é˜¿é‡Œå·´å·´è¡¨ç¤ºï¼Œè¥é€ ä¸€ä¸ªå®‰å…¨å’Œæ”¯æŒæ€§çš„å·¥ä½œåœºæ‰€æ˜¯å…¶é¦–è¦ä»»åŠ¡ã€‚å½“æˆ‘ä»¬æ²¡æœ‰åšåˆ°æ—¶ï¼Œæˆ‘ä»¬ä¼šæ‰¿æ‹…è´£ä»»å¹¶è¿½è´£ã€‚åœ¨å‘¨å¥³å£«çš„æ¡ˆä»¶æ›å…‰åï¼Œé˜¿é‡Œå·´å·´ç«‹å³æ”¹å˜äº†å¤„ç†èŒåœºæ–‡åŒ–å’Œä¸å½“è¡Œä¸ºé—®é¢˜çš„æ–¹å¼ã€‚
 
 Many Alibaba departments use games and other **ice-breaking activities** to make co-workers **feel at ease with one another**. 
-°¢Àï°Í°ÍµÄĞí¶à²¿?¶¼Í¨¹ıÓÎÏ·µÈÆÆ±ù»î¶¯ÈÃÍ¬ÊÂÃÇ±Ë´ËÊìÏ¤¡£
+é˜¿é‡Œå·´å·´çš„è®¸å¤šéƒ¨?éƒ½é€šè¿‡æ¸¸æˆç­‰ç ´å†°æ´»åŠ¨è®©åŒäº‹ä»¬å½¼æ­¤ç†Ÿæ‚‰ã€‚
 
-Her team welcomed her with a game of **charades**. When she lost, she said, she was punished by being made to ¡°fly the plane,¡± as her co-workers called it. **The stunt involved straddling** a male colleague as he sat in an office chair. The colleague then **lay back in the chair**, causing Ms. Qian to fall on top of him, **face first**. I realized while **carrying out the punishment** that it could be **a little perverted**
-ËıµÄÍÅ¶Ó»¶Ó­ËıµÄ·½Ê½ÊÇ½øĞĞÒ»¸ö²ÂÃÕÓÎÏ·¡£ËıËµ£¬µ±ËıÊäÁË±ÈÈüÊ±£¬Ëı»áÊÜµ½³Í·££¬¼´Í¬ÊÂ¿ÚÖĞµÄ¡°¿ª?»ú¡±¡£Õâ¸ö¶¯×÷ÒªÇóËı¿ç×øÔÚ°ì¹«ÒÎÉÏµÄÒ»Î»ÄĞÍ¬ÊÂÉíÉÏ¡£È»ºó£¬Í¬ÊÂÍùºóÌÉÔÚÒÎ×ÓÉÏ£¬µ¼ÖÂÇ®Å®Ê¿µ¹ÔÚËûÉíÉÏ£¬Á³×îÏÈ´¥Åöµ½¶Ô·½¡£ ×öÕâ¸ö³Í·£ÎÒ²ÅÖªµÀ¾ÍÓĞµã±äÌ¬
+Her team welcomed her with a game of **charades**. When she lost, she said, she was punished by being made to â€œfly the plane,â€ as her co-workers called it. **The stunt involved straddling** a male colleague as he sat in an office chair. The colleague then **lay back in the chair**, causing Ms. Qian to fall on top of him, **face first**. I realized while **carrying out the punishment** that it could be **a little perverted**
+å¥¹çš„å›¢é˜Ÿæ¬¢è¿å¥¹çš„æ–¹å¼æ˜¯è¿›è¡Œä¸€ä¸ªçŒœè°œæ¸¸æˆã€‚å¥¹è¯´ï¼Œå½“å¥¹è¾“äº†æ¯”èµ›æ—¶ï¼Œå¥¹ä¼šå—åˆ°æƒ©ç½šï¼Œå³åŒäº‹å£ä¸­çš„â€œå¼€?æœºâ€ã€‚è¿™ä¸ªåŠ¨ä½œè¦æ±‚å¥¹è·¨ååœ¨åŠå…¬æ¤…ä¸Šçš„ä¸€ä½ç”·åŒäº‹èº«ä¸Šã€‚ç„¶åï¼ŒåŒäº‹å¾€åèººåœ¨æ¤…å­ä¸Šï¼Œå¯¼è‡´é’±å¥³å£«å€’åœ¨ä»–èº«ä¸Šï¼Œè„¸æœ€å…ˆè§¦ç¢°åˆ°å¯¹æ–¹ã€‚ åšè¿™ä¸ªæƒ©ç½šæˆ‘æ‰çŸ¥é“å°±æœ‰ç‚¹å˜æ€
 
 But as the company has grown into **a behemoth** with more than a quarter-million employees, **customs** that might once have seemed playful **seem less innocent** now. 
-µ«Ëæ×Å¹«Ë¾·¢Õ¹³ÉÎªÒ»¸öÓµÓĞÓâ25ÍòÃûÔ±¹¤µÄÅÓÈ»´óÎï£¬Ôø¾­¿´ËÆºÃÍæµÄ¹ßÀıÏÖÔÚËÆºõ²»ÄÇÃ´µ¥´¿ÁË¡£
+ä½†éšç€å…¬å¸å‘å±•æˆä¸ºä¸€ä¸ªæ‹¥æœ‰é€¾25ä¸‡åå‘˜å·¥çš„åºç„¶å¤§ç‰©ï¼Œæ›¾ç»çœ‹ä¼¼å¥½ç©çš„æƒ¯ä¾‹ç°åœ¨ä¼¼ä¹ä¸é‚£ä¹ˆå•çº¯äº†ã€‚
 
-Andrew Lloyd Webber¡¯s **musical ¡°Cinderella¡± made its glittering debut** in the West End after **multiple Covid-related delays**. On the subway, where masks are still mandatory, half of the riders **go barefaced**.
-°²µÂÂ³¡¤ÀÍ°£µÂ¡¤?²®µÄÒôÀÖ¾ç¡¶»Ò¹ÃÄï¡·ÔÚ¶à´ÎÒòĞÂ¹ÚÒßÇéÍÆÑÓºó£¬ÖÕÓÚÔÚ?Çø(West End)ÉÁÁÁµÇ³¡¡£µØÌúÈÔÈ»Ç¿ÖÆÒªÇó³Ë¿Í´÷¿ÚÕÖ£¬µ«Ò»°ëµÄ³Ë¿Í¶¼Â¶×ÅÁ³¡£
+Andrew Lloyd Webberâ€™s **musical â€œCinderellaâ€ made its glittering debut** in the West End after **multiple Covid-related delays**. On the subway, where masks are still mandatory, half of the riders **go barefaced**.
+å®‰å¾·é²Â·åŠ³åŸƒå¾·Â·?ä¼¯çš„éŸ³ä¹å‰§ã€Šç°å§‘å¨˜ã€‹åœ¨å¤šæ¬¡å› æ–°å† ç–«æƒ…æ¨å»¶åï¼Œç»ˆäºåœ¨?åŒº(West End)é—ªäº®ç™»åœºã€‚åœ°é“ä»ç„¶å¼ºåˆ¶è¦æ±‚ä¹˜å®¢æˆ´å£ç½©ï¼Œä½†ä¸€åŠçš„ä¹˜å®¢éƒ½éœ²ç€è„¸ã€‚
 
-Some of that **equanimity may stem from the fact** that Britain¡¯s case rate, while high, has not yet **risen anywhere near** the level that government officials predicted when they **lifted virtually all Covid restrictions** last month. And some of it may **simply reflect fatigue**, after 17 months of **baleful headlines and stifling lockdowns**.
-ÕâÑùµÄµ­¶¨Ì¬¶ÈÓĞ¿ÉÄÜ²¿·ÖÔ´ÓÚÒ»¸öÊÂÊµ£¬¼´Ó¢¹úµÄ¸ĞÈ¾ÂÊËäÈ»ºÜ¸ß£¬µ«Ô¶Î´ÉÏÉıµ½Õş¸®¹ÙÔ±ÉÏ¸öÔÂÔ¤²âµÄ½â³ıËùÓĞĞÂ¹ÚÏŞÖÆ´ëÊ©ÏÂ»á´ïµ½µÄ¸ĞÈ¾Ë®Æ½¡£»¹ÓĞ¿ÉÄÜÊÇ´ó¼ÒÖ»ÊÇ¾ëµ¡ÁË£¬±Ï¾¹¿ÉÅÂµÄÍ·Ìõ ĞÂÎÅºÍÁîÈËÖÏÏ¢µÄ·âËø³ÖĞøÁË17¸öÔÂµÄÊ±¼ä¡£
+Some of that **equanimity may stem from the fact** that Britainâ€™s case rate, while high, has not yet **risen anywhere near** the level that government officials predicted when they **lifted virtually all Covid restrictions** last month. And some of it may **simply reflect fatigue**, after 17 months of **baleful headlines and stifling lockdowns**.
+è¿™æ ·çš„æ·¡å®šæ€åº¦æœ‰å¯èƒ½éƒ¨åˆ†æºäºä¸€ä¸ªäº‹å®ï¼Œå³è‹±å›½çš„æ„ŸæŸ“ç‡è™½ç„¶å¾ˆé«˜ï¼Œä½†è¿œæœªä¸Šå‡åˆ°æ”¿åºœå®˜å‘˜ä¸Šä¸ªæœˆé¢„æµ‹çš„è§£é™¤æ‰€æœ‰æ–°å† é™åˆ¶æªæ–½ä¸‹ä¼šè¾¾åˆ°çš„æ„ŸæŸ“æ°´å¹³ã€‚è¿˜æœ‰å¯èƒ½æ˜¯å¤§å®¶åªæ˜¯å€¦æ€ äº†ï¼Œæ¯•ç«Ÿå¯æ€•çš„å¤´æ¡ æ–°é—»å’Œä»¤äººçª’æ¯çš„å°é”æŒç»­äº†17ä¸ªæœˆçš„æ—¶é—´ã€‚
 
-**Epidemiologists are loath to** make specific predictions because many **were proved wrong** in July when cases **fell immediately** after ¡°Freedom Day,¡± when most restrictions were lifted.
-Á÷ĞĞ²¡Ñ§¼Ò²»Ô¸×ö³ö¾ßÌåÔ¤²â£¬ÒòÎªĞí¶àÈËµÄÔ¤²âÔÚ7ÔÂ±»Ö¤Ã÷ÊÇ´íÎóµÄ£¬ÔÚ¡°×ÔÓÉÈÕ¡±Ö®ºó£¬´ó¶àÊıÏŞÖÆ¶¼±»È¡ÏûÁË£¬²¡ÀıÊıÈ´Á¢¼´ÏÂ½µÁË¡£
+**Epidemiologists are loath to** make specific predictions because many **were proved wrong** in July when cases **fell immediately** after â€œFreedom Day,â€ when most restrictions were lifted.
+æµè¡Œç—…å­¦å®¶ä¸æ„¿åšå‡ºå…·ä½“é¢„æµ‹ï¼Œå› ä¸ºè®¸å¤šäººçš„é¢„æµ‹åœ¨7æœˆè¢«è¯æ˜æ˜¯é”™è¯¯çš„ï¼Œåœ¨â€œè‡ªç”±æ—¥â€ä¹‹åï¼Œå¤§å¤šæ•°é™åˆ¶éƒ½è¢«å–æ¶ˆäº†ï¼Œç—…ä¾‹æ•°å´ç«‹å³ä¸‹é™äº†ã€‚
 
 Hospitalizations are rising, however, **as is the fatality rate**. With a backlog of patients with other illnesses, doctors say the National Health Service has **little slack** to **cope with** another **influx of** Covid victims.
-È»¶ø£¬×¡ÔºÈËÊıÕıÔÚÉÏÉı£¬ËÀÍöÂÊÒ²ÔÚÉÏÉı¡£Ò½ÉúÃÇ±íÊ¾£¬Èç¹ûÓ¿ÈëĞÂÒ»ÂÖĞÂ¹Ú»¼Õß£¬È«?Ò½ÁÆ·şÎñÌåÏµ½«¼¸ºõÃ»ÓĞ´­Ï¢µÄ¿Õ¼ä¡£
+ç„¶è€Œï¼Œä½é™¢äººæ•°æ­£åœ¨ä¸Šå‡ï¼Œæ­»äº¡ç‡ä¹Ÿåœ¨ä¸Šå‡ã€‚åŒ»ç”Ÿä»¬è¡¨ç¤ºï¼Œå¦‚æœæ¶Œå…¥æ–°ä¸€è½®æ–°å† æ‚£è€…ï¼Œå…¨?åŒ»ç–—æœåŠ¡ä½“ç³»å°†å‡ ä¹æ²¡æœ‰å–˜æ¯çš„ç©ºé—´ã€‚
 
-The government of Prime Minister Boris Johnson, **preoccupied with the chaotic military withdrawal** from Afghanistan, has said **little about** the rising hospital numbers ¡ª or **indeed about** the pandemic at all ¡ª in recent weeks.
-¼¸ÖÜÀ´£¬Ó¢¹úÊ×ÏàÔ¼º²Ñ·Õş¸®µÄ×¢ÒâÁ¦±»°¢¸»º¹³·¾üµÄ»ìÂÒ¾ÖÃæÕ¼¾İ£¬¼¸ºõÃ»ÓĞÌá¼°×¡ÔºÈËÊıµÄÔö¼Ó¡ª¡ª»òÕß¸ù±¾Ã»ÓĞÌá¼°´óÁ÷ĞĞ¡£
+The government of Prime Minister Boris Johnson, **preoccupied with the chaotic military withdrawal** from Afghanistan, has said **little about** the rising hospital numbers â€” or **indeed about** the pandemic at all â€” in recent weeks.
+å‡ å‘¨æ¥ï¼Œè‹±å›½é¦–ç›¸çº¦ç¿°é€Šæ”¿åºœçš„æ³¨æ„åŠ›è¢«é˜¿å¯Œæ±—æ’¤å†›çš„æ··ä¹±å±€é¢å æ®ï¼Œå‡ ä¹æ²¡æœ‰æåŠä½é™¢äººæ•°çš„å¢åŠ â€”â€”æˆ–è€…æ ¹æœ¬æ²¡æœ‰æåŠå¤§æµè¡Œã€‚
 
 **Relieved** that the more **gloomy predictions of spiraling** cases have not **materialized**, the government argues that its strategy has been **vindicated**, with infections manageable because of the success of its vaccination campaign.
-²¡Àıì­ÉıµÄ±¯¹ÛÔ¤²â²¢Ã»ÓĞ³ÉÎªÏÖÊµ£¬Õş¸®¸Ğµ½ËÉÁËÒ»¿ÚÆø£¬ÈÏÎªÆä²ßÂÔÒÑµÃµ½Ö¤Êµ£¬ÓÉÓÚÒßÃç½ÓÖÖ»î¶¯È¡µÃ³É¹¦£¬¸ĞÈ¾ÊÇ¿É¿ØµÄ¡£
+ç—…ä¾‹é£™å‡çš„æ‚²è§‚é¢„æµ‹å¹¶æ²¡æœ‰æˆä¸ºç°å®ï¼Œæ”¿åºœæ„Ÿåˆ°æ¾äº†ä¸€å£æ°”ï¼Œè®¤ä¸ºå…¶ç­–ç•¥å·²å¾—åˆ°è¯å®ï¼Œç”±äºç–«è‹—æ¥ç§æ´»åŠ¨å–å¾—æˆåŠŸï¼Œæ„ŸæŸ“æ˜¯å¯æ§çš„ã€‚
 
 The **rollout of** the vaccine program for adults has been **incredibly impressive**, but, for children and young people it has been **frankly shambolic**
-Õë¶Ô³ÉÈËµÄ ÒßÃç¼Æ»®ÍÆ³ö·Ç³£³É¹¦£¬µ«Ì¹ÂÊµØËµ£¬Õë¶ÔÉÙÄê¶ùÍ¯µÄÒßÃç¼Æ»®Ò»Ö±ÊÇ»ìÂÒÎŞĞòµÄ¡£
+é’ˆå¯¹æˆäººçš„ ç–«è‹—è®¡åˆ’æ¨å‡ºéå¸¸æˆåŠŸï¼Œä½†å¦ç‡åœ°è¯´ï¼Œé’ˆå¯¹å°‘å¹´å„¿ç«¥çš„ç–«è‹—è®¡åˆ’ä¸€ç›´æ˜¯æ··ä¹±æ— åºçš„ã€‚
 
 **At the same time**, public **observance of measures** to **contain the spread** of the virus **seems to be slipping**, a factor that some epidemiologists said **accounted for** Britain having a higher case rate than countries like France and Spain, where infections are now falling.
-Óë´ËÍ¬Ê±£¬¹«ÖÚÔÚ×ñÊØ¶ôÖÆ²¡¶¾´«²¥´ëÊ©·½ÃæËÆºõÖğ½¥µôÒÔÇáĞÄ£¬Ò»Ğ©Á÷ĞĞ²¡Ñ§¼Ò±íÊ¾£¬ÕâÒ»ÒòËØµ¼ÖÂÓ¢¹úµÄ²¡ÀıÂÊ¸ßÓÚ·¨¹úºÍ?°àÑÀµÈ¹ú¼Ò£¬ÕâĞ©¹ú¼ÒµÄ¸ĞÈ¾ÂÊÄ¿Ç°ÕıÔÚÏÂ½µ¡£
+ä¸æ­¤åŒæ—¶ï¼Œå…¬ä¼—åœ¨éµå®ˆéåˆ¶ç—…æ¯’ä¼ æ’­æªæ–½æ–¹é¢ä¼¼ä¹é€æ¸æ‰ä»¥è½»å¿ƒï¼Œä¸€äº›æµè¡Œç—…å­¦å®¶è¡¨ç¤ºï¼Œè¿™ä¸€å› ç´ å¯¼è‡´è‹±å›½çš„ç—…ä¾‹ç‡é«˜äºæ³•å›½å’Œ?ç­ç‰™ç­‰å›½å®¶ï¼Œè¿™äº›å›½å®¶çš„æ„ŸæŸ“ç‡ç›®å‰æ­£åœ¨ä¸‹é™ã€‚
 
-For some who **objected to** Britain¡¯s **recurring lockdowns**, the return to **normalcy** was both welcome and **overdue**. But some said the **tensions** between freedom and security could **easily resurface**.
-¶ÔÓÚÒ»Ğ©·´¶ÔÓ¢¹ú·´¸´·âËøµÄÈËÀ´Ëµ£¬»Ö¸´Õı³£ÊÇÖµµÃ»¶Ó­µÄ£¬Ò²Ôç¸ÃÕâÑù×öÁË¡£µ«ÓĞĞ©ÈË±íÊ¾£¬×ÔÓÉÓë°²È«Ö®¼äµÄ½ôÕÅ¹ØÏµºÜÈİÒ×ÖØĞÂ³öÏÖ¡£
+For some who **objected to** Britainâ€™s **recurring lockdowns**, the return to **normalcy** was both welcome and **overdue**. But some said the **tensions** between freedom and security could **easily resurface**.
+å¯¹äºä¸€äº›åå¯¹è‹±å›½åå¤å°é”çš„äººæ¥è¯´ï¼Œæ¢å¤æ­£å¸¸æ˜¯å€¼å¾—æ¬¢è¿çš„ï¼Œä¹Ÿæ—©è¯¥è¿™æ ·åšäº†ã€‚ä½†æœ‰äº›äººè¡¨ç¤ºï¼Œè‡ªç”±ä¸å®‰å…¨ä¹‹é—´çš„ç´§å¼ å…³ç³»å¾ˆå®¹æ˜“é‡æ–°å‡ºç°ã€‚
 
-Other critics blame the government¡¯s **mixed messages**, pointing to members of Mr. Johnson¡¯s Conservative Party, many of whom **abandoned their masks** when they returned to **a crowded chamber of Parliament** recently to discuss Afghanistan. The government¡¯s **official position** is that people should **wear face coverings when confined indoors**.
-ÆäËûÅúÆÀÕßÖ¸ÔğÕş¸®µÄĞÅÏ¢Ã¬¶Ü£¬½«Ã¬Í·Ö¸ÏòÔ¼º²Ñ·µÄ±£ÊØµ³³ÉÔ±£¬ÆäÖĞĞí¶àÈË×î½ü»Øµ½Óµ¼·µÄÒé»á»áÒéÌüÌÖÂÛ°¢¸»º¹ÎÊÌâÊ±Ã»ÓĞ´÷¿ÚÕÖ¡£Õş¸®µÄ¹Ù·½Á¢³¡ÊÇ£¬ÈËÃÇÔÚÊÒÄÚÊ±Ó¦¸Ã´÷¿ÚÕÖ¡£
+Other critics blame the governmentâ€™s **mixed messages**, pointing to members of Mr. Johnsonâ€™s Conservative Party, many of whom **abandoned their masks** when they returned to **a crowded chamber of Parliament** recently to discuss Afghanistan. The governmentâ€™s **official position** is that people should **wear face coverings when confined indoors**.
+å…¶ä»–æ‰¹è¯„è€…æŒ‡è´£æ”¿åºœçš„ä¿¡æ¯çŸ›ç›¾ï¼Œå°†çŸ›å¤´æŒ‡å‘çº¦ç¿°é€Šçš„ä¿å®ˆå…šæˆå‘˜ï¼Œå…¶ä¸­è®¸å¤šäººæœ€è¿‘å›åˆ°æ‹¥æŒ¤çš„è®®ä¼šä¼šè®®å…è®¨è®ºé˜¿å¯Œæ±—é—®é¢˜æ—¶æ²¡æœ‰æˆ´å£ç½©ã€‚æ”¿åºœçš„å®˜æ–¹ç«‹åœºæ˜¯ï¼Œäººä»¬åœ¨å®¤å†…æ—¶åº”è¯¥æˆ´å£ç½©ã€‚
 
-The **intensity has gone out of** the debate, but it will come back if there is another wave, If it does come back, we¡¯ll then be in the position that even the vaccines don¡¯t work. What is the **exit route**? a former justice on Britain¡¯s Supreme Court who has been **an outspoken critic** of the lockdowns.
-±çÂÛµÄ¼¤ÁÒ³Ì¶ÈÒÑ¼õÈõ£¬µ«Èç¹ûÔÙ³öÏÖÒ»ÂÖÒßÇé£¬Ëü»¹»á¾íÍÁÖØÀ´¡£Èç¹ûÒßÇéÖØÀ´£¬ÄÇÃ´ÎÒÃÇ¾Í»áÏİÈë¼´Ê¹ÒßÃçÒ²²»Æğ×÷ÓÃµÄ¾³µØ¡£ÎÒÃÇÓĞÊ²Ã´ÍËÂ·? Ó¢¹ú×î¸ß·¨ÔºÇ°·¨¹ÙÊ¼ÖÕÖ±ÑÔ²»»äµØÅúÆÀ·âËø´ëÊ©
+The **intensity has gone out of** the debate, but it will come back if there is another wave, If it does come back, weâ€™ll then be in the position that even the vaccines donâ€™t work. What is the **exit route**? a former justice on Britainâ€™s Supreme Court who has been **an outspoken critic** of the lockdowns.
+è¾©è®ºçš„æ¿€çƒˆç¨‹åº¦å·²å‡å¼±ï¼Œä½†å¦‚æœå†å‡ºç°ä¸€è½®ç–«æƒ…ï¼Œå®ƒè¿˜ä¼šå·åœŸé‡æ¥ã€‚å¦‚æœç–«æƒ…é‡æ¥ï¼Œé‚£ä¹ˆæˆ‘ä»¬å°±ä¼šé™·å…¥å³ä½¿ç–«è‹—ä¹Ÿä¸èµ·ä½œç”¨çš„å¢ƒåœ°ã€‚æˆ‘ä»¬æœ‰ä»€ä¹ˆé€€è·¯? è‹±å›½æœ€é«˜æ³•é™¢å‰æ³•å®˜å§‹ç»ˆç›´è¨€ä¸è®³åœ°æ‰¹è¯„å°é”æªæ–½
 
-**¡®Reversing Gears¡¯**: China Increasingly Rejects English  
-¿ªµ¹³µ£¿ÖĞ¹úÈõ»¯Ó¢Óï½ÌÓı
+**â€˜Reversing Gearsâ€™**: China Increasingly Rejects English  
+å¼€å€’è½¦ï¼Ÿä¸­å›½å¼±åŒ–è‹±è¯­æ•™è‚²
 
 As a student at Peking University law school in 1978, Li Keqiang kept both pockets of his jacket **stuffed with handwritten paper slips**.   
-1978ÔÚ±±´ó·¨Ñ§Ôº¶ÁÊéÊ±£¬Àî¿ËÇ¿ÍâÌ×¿Ú´üÀïÈûÂúÁËÊÖĞ´µÄÖ½Ìõ
+1978åœ¨åŒ—å¤§æ³•å­¦é™¢è¯»ä¹¦æ—¶ï¼Œæå…‹å¼ºå¤–å¥—å£è¢‹é‡Œå¡æ»¡äº†æ‰‹å†™çš„çº¸æ¡
 
-It¡¯s hard to **exaggerate** the role English has played in changing China¡¯s social, cultural, economic and **political landscape**.  
-Ó¢ÓïÔÚ¸Ä±äÖĞ¹úÉç»á¡¢ÎÄ»¯¡¢¾­¼ÃºÍÕşÖÎÃæÃ²·½ÃæµÄËùÆğµÄ×÷ÓÃ£¬ÔõÃ´Ëµ¶¼²»¹ı·Ö
+Itâ€™s hard to **exaggerate** the role English has played in changing Chinaâ€™s social, cultural, economic and **political landscape**.  
+è‹±è¯­åœ¨æ”¹å˜ä¸­å›½ç¤¾ä¼šã€æ–‡åŒ–ã€ç»æµå’Œæ”¿æ²»é¢è²Œæ–¹é¢çš„æ‰€èµ·çš„ä½œç”¨ï¼Œæ€ä¹ˆè¯´éƒ½ä¸è¿‡åˆ†
 
-English is almost **synonymous with China¡¯s reform and opening-up policies**, which transformed an **impoverished and hermetic** nation into the world¡¯s **second-biggest** economy.  
-Ó¢Óï¼¸ºõÊÇÖĞ¹ú¸Ä¸ï¿ª·ÅÕş²ßµÄ´úÃû´Ê£¬¸ÃÕş²ß½«Ò»¸öÆ¶Çî·â±ÕµÄ¹ú¼Ò±ä³ÉÊÀ½çµÚ¶ş´ó¾­¼ÃÌå
+English is almost **synonymous with Chinaâ€™s reform and opening-up policies**, which transformed an **impoverished and hermetic** nation into the worldâ€™s **second-biggest** economy.  
+è‹±è¯­å‡ ä¹æ˜¯ä¸­å›½æ”¹é©å¼€æ”¾æ”¿ç­–çš„ä»£åè¯ï¼Œè¯¥æ”¿ç­–å°†ä¸€ä¸ªè´«ç©·å°é—­çš„å›½å®¶å˜æˆä¸–ç•Œç¬¬äºŒå¤§ç»æµä½“
 
-That¡¯s why it came as a shock to many when the education authorities in Shanghai, **the most cosmopolitan city** in the country, last month **forbade** local elementary schools to **hold final exams** on the English language.  
-Õâ¾ÍÊÇÎªÊ²Ã´µ±ÉÏº£Õâ¸ö¹ú¼Ê»¯´ó¶¼ÊĞ½ÌÓı²¿ÃÅ½ûÖ¹Ğ¡Ñ§¾ÙĞĞÓ¢ÓïÆÚÄ©¿¼ÊÔ£¬Ğí¶àÈË¸Ğµ½Õğ¾ª
+Thatâ€™s why it came as a shock to many when the education authorities in Shanghai, **the most cosmopolitan city** in the country, last month **forbade** local elementary schools to **hold final exams** on the English language.  
+è¿™å°±æ˜¯ä¸ºä»€ä¹ˆå½“ä¸Šæµ·è¿™ä¸ªå›½é™…åŒ–å¤§éƒ½å¸‚æ•™è‚²éƒ¨é—¨ç¦æ­¢å°å­¦ä¸¾è¡Œè‹±è¯­æœŸæœ«è€ƒè¯•ï¼Œè®¸å¤šäººæ„Ÿåˆ°éœ‡æƒŠ
 
 **Broadly**, the Chinese authorities are **easing the workloads** of schoolchildren, amid an effort to **ease the burdens** on families and parents.
-×ÜµÄÀ´Ëµ£¬ÖĞ¹úÕş¸®ÕıÔÚ¼õÇáÑ§Ï°ÈÎÎñ£¬ÖÂÁ¦ÓÚ¼õÇá¼ÒÍ¥ºÍ¼Ò³¤µÄ¸ºµ£
+æ€»çš„æ¥è¯´ï¼Œä¸­å›½æ”¿åºœæ­£åœ¨å‡è½»å­¦ä¹ ä»»åŠ¡ï¼Œè‡´åŠ›äºå‡è½»å®¶åº­å’Œå®¶é•¿çš„è´Ÿæ‹…
 
-The president of **prestigious** Tsinghua University in Beijing **came under fire** this summer after sending each new student a Chinese language copy of Ernest Hemingway¡¯s ¡°The Old Man and the Sea.¡± He wrote in a letter that he wanted the students to **learn courage and perseverance**.   
-½ñÏÄÖøÃûÑ§¸®Çå»ª´óÑ§Ğ£³¤ÔÚ¸øÃ¿Î»ĞÂÉú·¢Ò»±¾¡¶ÀÏÈËÓëº£¡·ÖĞÎÄ°æºó£¬ÊÜµ½Åê»÷¡£ËûÔÚÒ»·âĞÅÖĞĞ´µÀ£¬Ï£ÍûÑ§ÉúÃÇÑ§»áÓÂÆøºÍÒãÁ¦
+The president of **prestigious** Tsinghua University in Beijing **came under fire** this summer after sending each new student a Chinese language copy of Ernest Hemingwayâ€™s â€œThe Old Man and the Sea.â€ He wrote in a letter that he wanted the students to **learn courage and perseverance**.   
+ä»Šå¤è‘—åå­¦åºœæ¸…åå¤§å­¦æ ¡é•¿åœ¨ç»™æ¯ä½æ–°ç”Ÿå‘ä¸€æœ¬ã€Šè€äººä¸æµ·ã€‹ä¸­æ–‡ç‰ˆåï¼Œå—åˆ°æŠ¨å‡»ã€‚ä»–åœ¨ä¸€å°ä¿¡ä¸­å†™é“ï¼Œå¸Œæœ›å­¦ç”Ÿä»¬å­¦ä¼šå‹‡æ°”å’Œæ¯…åŠ›
 
 Some businesspeople **struck gold** by teaching English or offering instruction on how to take tests in the language.  
-ÓĞÉÌÈË¿¿Ó¢Óï¸¨µ¼ºÍÌá¹©¿¼ÊÔÖ¸µ¼¶ø·¢ÁË´ó²Æ
+æœ‰å•†äººé è‹±è¯­è¾…å¯¼å’Œæä¾›è€ƒè¯•æŒ‡å¯¼è€Œå‘äº†å¤§è´¢
 
 English **lost some of its sheen** after the 2008 financial crisis.  
-2008½ğÈÚÎ£»úºó£¬Ó¢ÓïÊ§È¥ÁËÒ»Ğ©¹â²Ê
+2008é‡‘èå±æœºåï¼Œè‹±è¯­å¤±å»äº†ä¸€äº›å…‰å½©
 
-As a result, China¡¯s links to the outside world are being **severed** one by one.  
-½á¹û£¬ÖĞ¹úÓëÍâ²¿ÊÀ½çµÄÁªÏµÕıÔÚ±»Ò»Ò»ÇĞ¶Ï
+As a result, Chinaâ€™s links to the outside world are being **severed** one by one.  
+ç»“æœï¼Œä¸­å›½ä¸å¤–éƒ¨ä¸–ç•Œçš„è”ç³»æ­£åœ¨è¢«ä¸€ä¸€åˆ‡æ–­
 
-Share prices of New Oriental, the education giant, **tanked** in July after the Beijing government announced crackdowns on **after-school tutoring services**. The Shanghai government¡¯s announcement **drew praise** online from some **nationalistic quarters**.
-ÔÚ±±¾©ÊĞÕş¸®Ğû²¼´ò»÷¿ÎÍâ¸¨µ¼»ú¹¹ºó£¬ĞÂ¶«·½µÄ¹É¼Û³öÏÖ±©µø¡£ÉÏº£ÊĞÕş¸®µÄ¹«¸æÔÚÍøÉÏÊÜµ½Ò»Ğ©Ãñ×åÖ÷ÒåÍÅÌåµÄÔŞÑï
+Share prices of New Oriental, the education giant, **tanked** in July after the Beijing government announced crackdowns on **after-school tutoring services**. The Shanghai governmentâ€™s announcement **drew praise** online from some **nationalistic quarters**.
+åœ¨åŒ—äº¬å¸‚æ”¿åºœå®£å¸ƒæ‰“å‡»è¯¾å¤–è¾…å¯¼æœºæ„åï¼Œæ–°ä¸œæ–¹çš„è‚¡ä»·å‡ºç°æš´è·Œã€‚ä¸Šæµ·å¸‚æ”¿åºœçš„å…¬å‘Šåœ¨ç½‘ä¸Šå—åˆ°ä¸€äº›æ°‘æ—ä¸»ä¹‰å›¢ä½“çš„èµæ‰¬
 
-The U.S. **withdrawal** from Afghanistan after a failed 20-year **nation-building exercise** has left many Americans and analysts saying, ¡°If only we knew **back then** what we know now, we would have never **gone down** that path.¡±
-ÔÚ¾­ÀúÁËÎªÆÚ20ÄêµÄ½¨¹úÊµ¼ùÊ§°Üºó£¬ÃÀ¹ú´Ó°¢¸»º¹³·¾ü£¬ÕâÈÃĞí¶àÃÀ¹úÈËºÍ·ÖÎöÈËÊ¿Ëµ£¬¡°ÔçÖªÈç´Ë£¬ÎÒÃÇ¾Í²»»á×ßÕâÌõÂ·ÁË¡£"
+The U.S. **withdrawal** from Afghanistan after a failed 20-year **nation-building exercise** has left many Americans and analysts saying, â€œIf only we knew **back then** what we know now, we would have never **gone down** that path.â€
+åœ¨ç»å†äº†ä¸ºæœŸ20å¹´çš„å»ºå›½å®è·µå¤±è´¥åï¼Œç¾å›½ä»é˜¿å¯Œæ±—æ’¤å†›ï¼Œè¿™è®©è®¸å¤šç¾å›½äººå’Œåˆ†æäººå£«è¯´ï¼Œâ€œæ—©çŸ¥å¦‚æ­¤ï¼Œæˆ‘ä»¬å°±ä¸ä¼šèµ°è¿™æ¡è·¯äº†ã€‚"
 
 And my fears can be **summed up in** just a few paragraphs: The 40 years from 1979 to 2019 were **an epoch** in U.S.-China relations. There were **many ups and downs**, but **all in all** it was an epoch of **steady economic integration** between our two countries.
-ÎÒµÄµ£ĞÄ¿ÉÒÔÓÃ¼¸¶Î»°À´¸ÅÀ¨:´Ó1979Äêµ½2019ÄêµÄ40ÄêÊÇÃÀÖĞ¹ØÏµµÄÒ»¸ö¼ÍÔª¡£ÓĞĞí¶àÆğÆğÂäÂä£¬µ«×Ü¶øÑÔÖ®£¬ÕâÊÇÁ½¹ú¾­¼ÃÎÈ¶¨ Ò»Ìå»¯µÄÊ±´ú¡£
+æˆ‘çš„æ‹…å¿ƒå¯ä»¥ç”¨å‡ æ®µè¯æ¥æ¦‚æ‹¬:ä»1979å¹´åˆ°2019å¹´çš„40å¹´æ˜¯ç¾ä¸­å…³ç³»çš„ä¸€ä¸ªçºªå…ƒã€‚æœ‰è®¸å¤šèµ·èµ·è½è½ï¼Œä½†æ€»è€Œè¨€ä¹‹ï¼Œè¿™æ˜¯ä¸¤å›½ç»æµç¨³å®š ä¸€ä½“åŒ–çš„æ—¶ä»£ã€‚
 
-The depth of that U.S.-China integration helped to **fuel a much deeper globalization** of the world economy and **buttress four decades of relative peace** between the world¡¯s two great powers.
-ÃÀÖĞÒ»Ìå»¯µÄÉî¶ÈÓĞÖúÓÚÍÆ¶¯ÊÀ½ç¾­¼ÃÊµÏÖ¸üÉî²ã´ÎµÄÈ«Çò»¯£¬²¢Ö§³ÅÁËÊÀ½çÁ½¸ö´ó¹úÖ®¼ä40ÄêµÄÏà¶ÔºÍÆ½¡£
+The depth of that U.S.-China integration helped to **fuel a much deeper globalization** of the world economy and **buttress four decades of relative peace** between the worldâ€™s two great powers.
+ç¾ä¸­ä¸€ä½“åŒ–çš„æ·±åº¦æœ‰åŠ©äºæ¨åŠ¨ä¸–ç•Œç»æµå®ç°æ›´æ·±å±‚æ¬¡çš„å…¨çƒåŒ–ï¼Œå¹¶æ”¯æ’‘äº†ä¸–ç•Œä¸¤ä¸ªå¤§å›½ä¹‹é—´40å¹´çš„ç›¸å¯¹å’Œå¹³ã€‚
 
 **In short**, the relative peace and prosperity that the world  experienced in those 40 years cannot be explained **without reference to the U.S.-China bonding**.
-¼ò¶øÑÔÖ®£¬Èç¹û²»ÌáÃÀÖĞ¹ØÏµ£¬¾ÍÎŞ·¨½âÊÍÊÀ½çÔÚÕâ40ÄêËù¾­ÀúµÄÏà¶ÔºÍÆ½Óë·±ÈÙ¡£
+ç®€è€Œè¨€ä¹‹ï¼Œå¦‚æœä¸æç¾ä¸­å…³ç³»ï¼Œå°±æ— æ³•è§£é‡Šä¸–ç•Œåœ¨è¿™40å¹´æ‰€ç»å†çš„ç›¸å¯¹å’Œå¹³ä¸ç¹è£ã€‚
 
 It **lifted out of poverty** hundreds of millions of people in China, India and East Asia **while making many products much more affordable** to more American consumers.
-ËüÊ¹ÖĞ¹ú¡¢Ó¡¶ÈºÍ¶«ÑÇµÄÊıÒÚÈË°ÚÍÑÁË Æ¶À§£¬Í¬Ê±Ê¹¸ü¶àµÄÃÀ¹úÏû·ÑÕßÄÜ¹»¸ºµ£µÃÆğĞí¶à²úÆ·¡£
+å®ƒä½¿ä¸­å›½ã€å°åº¦å’Œä¸œäºšçš„æ•°äº¿äººæ‘†è„±äº† è´«å›°ï¼ŒåŒæ—¶ä½¿æ›´å¤šçš„ç¾å›½æ¶ˆè´¹è€…èƒ½å¤Ÿè´Ÿæ‹…å¾—èµ·è®¸å¤šäº§å“ã€‚
 
 For the past five years, though, the United States and China **have been stumbling down a path of de-integration** and maybe toward **outright confrontation**. 
-È»¶ø£¬¹ıÈ¥ÎåÄêÀï£¬ÃÀ¹úºÍÖĞ¹úÒ»Ö±ÔÚÍÑÀëÒ»Ìå»¯µÄµÀÂ·ÉÏµøµø×²×²£¬ÉõÖÁ¿ÉÄÜ×ßÏò³¹µ×¶Ô¿¹¡£
+ç„¶è€Œï¼Œè¿‡å»äº”å¹´é‡Œï¼Œç¾å›½å’Œä¸­å›½ä¸€ç›´åœ¨è„±ç¦»ä¸€ä½“åŒ–çš„é“è·¯ä¸Šè·Œè·Œæ’æ’ï¼Œç”šè‡³å¯èƒ½èµ°å‘å½»åº•å¯¹æŠ—ã€‚
 
-These two giants **went from** doing a lot of business on the table and **occasionally** kicking each other under the table **to** doing **a lot less** business on the table and kicking each other **a lot harder** under the table ¡ª so much harder that they are in danger of breaking the table and leaving each other **with a limp**. 
-Æğ³õ£¬ÕâÁ½¸ö¾ŞÍ·ÔÚÌ¨ÃæÉÏÀ´ÍùÃÜÇĞ£¬Å¼¶ûÔÚÌ¨ÏÂÊ¹°í×Ó£¬ÏÖÔÚ±ä³ÉÁËÔÚÌ¨ÃæÉÏÉúÒâÉÙÁË£¬Ì¨ÏÂÊ¹°í×ÓÔ½À´Ô½¼¤ÁÒ¡ª¡ª¼¤ÁÒµÃÁ¬Ì¨Ãæ¶¼¿ìÒª´òÆÆ£¬Á½°Ü¾ãÉËµØÀë¿ª
+These two giants **went from** doing a lot of business on the table and **occasionally** kicking each other under the table **to** doing **a lot less** business on the table and kicking each other **a lot harder** under the table â€” so much harder that they are in danger of breaking the table and leaving each other **with a limp**. 
+èµ·åˆï¼Œè¿™ä¸¤ä¸ªå·¨å¤´åœ¨å°é¢ä¸Šæ¥å¾€å¯†åˆ‡ï¼Œå¶å°”åœ¨å°ä¸‹ä½¿ç»Šå­ï¼Œç°åœ¨å˜æˆäº†åœ¨å°é¢ä¸Šç”Ÿæ„å°‘äº†ï¼Œå°ä¸‹ä½¿ç»Šå­è¶Šæ¥è¶Šæ¿€çƒˆâ€”â€”æ¿€çƒˆå¾—è¿å°é¢éƒ½å¿«è¦æ‰“ç ´ï¼Œä¸¤è´¥ä¿±ä¼¤åœ°ç¦»å¼€
 
 **For starters** we need to ask: **What aspects** of our competition/conflict with China are **inevitable** between a rising power and **a status quo power**, and what can be **dampened** by smart policy?
-Ê×ÏÈ£¬ÎÒÃÇĞèÒªÎÊ:ÔÚÒ»¸öáÈÆğµÄ´ó¹úºÍÒ»¸öÎ¬³ÖÏÖ×´µÄ´ó¹úÖ®¼ä£¬ÎÒÃÇÓëÖĞ¹úµÄ¾ºÕù/³åÍ»ÔÚÄÄĞ©·½ÃæÊÇ²»¿É±ÜÃâµÄ£¬ÔÚÄÄĞ©·½Ãæ¿ÉÒÔÍ¨¹ıÃ÷ÖÇµÄÕş²ßÆğµ½ÒÖÖÆ×÷ÓÃ?
+é¦–å…ˆï¼Œæˆ‘ä»¬éœ€è¦é—®:åœ¨ä¸€ä¸ªå´›èµ·çš„å¤§å›½å’Œä¸€ä¸ªç»´æŒç°çŠ¶çš„å¤§å›½ä¹‹é—´ï¼Œæˆ‘ä»¬ä¸ä¸­å›½çš„ç«äº‰/å†²çªåœ¨å“ªäº›æ–¹é¢æ˜¯ä¸å¯é¿å…çš„ï¼Œåœ¨å“ªäº›æ–¹é¢å¯ä»¥é€šè¿‡æ˜æ™ºçš„æ”¿ç­–èµ·åˆ°æŠ‘åˆ¶ä½œç”¨?
 
-When China sold us ¡°**shallow goods**,¡± we didn¡¯t care whether its government was **authoritarian, libertarian or vegetarian**. But when it comes to our buying China¡¯s ¡°deep goods,¡± **shared values matter** and they are not there.
-µ±ÖĞ¹úÂô¸øÎÒÃÇ¡°Ç³²ãÉÌÆ·¡±Ê±£¬ÎÒÃÇ²»ÔÚºõËüµÄÕş¸®ÊÇÍşÈ¨Ö÷Òå¡¢×ÔÓÉÖ÷Òå»¹ÊÇËØÊ³Ö÷Òå¡£µ«µ±Ì¸µ½ÎÒÃÇ¹ºÂòÖĞ¹úµÄ¡°Éî²ãÉÌÆ·¡±Ê±£¬¹²Í¬¼ÛÖµ¹ÛÄîºÜÖØÒª£¬µ«ËüÃÇÈ´²¢²»´æÔÚ¡£
+When China sold us â€œ**shallow goods**,â€ we didnâ€™t care whether its government was **authoritarian, libertarian or vegetarian**. But when it comes to our buying Chinaâ€™s â€œdeep goods,â€ **shared values matter** and they are not there.
+å½“ä¸­å›½å–ç»™æˆ‘ä»¬â€œæµ…å±‚å•†å“â€æ—¶ï¼Œæˆ‘ä»¬ä¸åœ¨ä¹å®ƒçš„æ”¿åºœæ˜¯å¨æƒä¸»ä¹‰ã€è‡ªç”±ä¸»ä¹‰è¿˜æ˜¯ç´ é£Ÿä¸»ä¹‰ã€‚ä½†å½“è°ˆåˆ°æˆ‘ä»¬è´­ä¹°ä¸­å›½çš„â€œæ·±å±‚å•†å“â€æ—¶ï¼Œå…±åŒä»·å€¼è§‚å¿µå¾ˆé‡è¦ï¼Œä½†å®ƒä»¬å´å¹¶ä¸å­˜åœ¨ã€‚
 
 if we are now going to **shift our focus** from the Middle East to an **irreversible strategy** of confronting China, we should **start by asking** three foundational questions
-Èç¹ûÎÒÃÇÏÖÔÚÒª½«¹Ø×¢µã´ÓÖĞ¶«×ªÒÆµ½¶Ô¿¹ÖĞ¹úµÄ²»¿ÉÄæ×ªµÄÕ½ÂÔÉÏ£¬ÎÒÃÇÓ¦¸ÃÏÈÎÊÈı¸ö»ù±¾ÎÊÌâ
+å¦‚æœæˆ‘ä»¬ç°åœ¨è¦å°†å…³æ³¨ç‚¹ä»ä¸­ä¸œè½¬ç§»åˆ°å¯¹æŠ—ä¸­å›½çš„ä¸å¯é€†è½¬çš„æˆ˜ç•¥ä¸Šï¼Œæˆ‘ä»¬åº”è¯¥å…ˆé—®ä¸‰ä¸ªåŸºæœ¬é—®é¢˜
 
 Are we sure we understand **the dynamics of an immense and changing society** like China well enough to decide that its inevitable mission is the global spread of authoritarianism? Especially when this will require **a generational adversarial commitment** on the part of the United States, **engendering** in turn a **still more** nationalistic China?
-ÖĞ¹úÉç»á¾Ş´óÇÒ²»¶Ï±ä»¯£¬ÎÒÃÇÊÇ·ñ¶ÔÆä¶¯Ì¬ÓĞÕæÕı×ã¹»µÄÁË½â£¬¾Í¾ö¶¨ËµÔÚÈ«Çò´«²¥ÍşÈ¨Ö÷ÒåÊÇËü²»¿É±ÜÃâµÄÊ¹Ãü?ÓÈÆäÊÇµ±ËüĞèÒªÃÀ¹ú½«·´¶ÔµÄ¾öĞÄ´ú¼Ê´«µİÏÂÈ¥£¬·´¹ıÀ´ÓÖ»áµ¼ÖÂÒ»¸ö¸ü¼ÓÃñ×åÖ÷ÒåµÄÖĞ¹ú?
+ä¸­å›½ç¤¾ä¼šå·¨å¤§ä¸”ä¸æ–­å˜åŒ–ï¼Œæˆ‘ä»¬æ˜¯å¦å¯¹å…¶åŠ¨æ€æœ‰çœŸæ­£è¶³å¤Ÿçš„äº†è§£ï¼Œå°±å†³å®šè¯´åœ¨å…¨çƒä¼ æ’­å¨æƒä¸»ä¹‰æ˜¯å®ƒä¸å¯é¿å…çš„ä½¿å‘½?å°¤å…¶æ˜¯å½“å®ƒéœ€è¦ç¾å›½å°†åå¯¹çš„å†³å¿ƒä»£é™…ä¼ é€’ä¸‹å»ï¼Œåè¿‡æ¥åˆä¼šå¯¼è‡´ä¸€ä¸ªæ›´åŠ æ°‘æ—ä¸»ä¹‰çš„ä¸­å›½?
 
 Because without that, any **coalition will crumble**.
-ÒòÎª×ö²»µ½ÕâÒ»µãµÄ»°£¬ÈÎºÎÁªÃË¶¼»áÍß½â
+å› ä¸ºåšä¸åˆ°è¿™ä¸€ç‚¹çš„è¯ï¼Œä»»ä½•è”ç›Ÿéƒ½ä¼šç“¦è§£
 
 When we make it the world **versus** China on what are the best and most just **international norms**, we isolate **the hard-liners** in Beijing and ***leverage** more Chinese reformers on our side.
-µ±ÎÒÃÇÈÃÊÀ½çÓëÖĞ¹úÔÚºÎÎª×îºÃºÍ×î¹«ÕıµÄ¹ú¼Ê¹æ·¶¶ÔÁ¢Ê±£¬ÎÒÃÇ¾Í¿ÉÒÔ¹ÂÁ¢±±¾©µÄÇ¿Ó²ÅÉ£¬²¢ÈÃÖĞ¹ú¸ü¶àµÄ¸Ä¸ïÅÉÕ¾ÔÚÎÒÃÇÕâ±ß¡£
+å½“æˆ‘ä»¬è®©ä¸–ç•Œä¸ä¸­å›½åœ¨ä½•ä¸ºæœ€å¥½å’Œæœ€å…¬æ­£çš„å›½é™…è§„èŒƒå¯¹ç«‹æ—¶ï¼Œæˆ‘ä»¬å°±å¯ä»¥å­¤ç«‹åŒ—äº¬çš„å¼ºç¡¬æ´¾ï¼Œå¹¶è®©ä¸­å›½æ›´å¤šçš„æ”¹é©æ´¾ç«™åœ¨æˆ‘ä»¬è¿™è¾¹ã€‚
 
 But China will not respond just to **high-minded** talk of international norms, even if faced with a global coalition. Such talk has to be **backed up** with economic and **military clout**.
-µ«¼´Ê¹Ãæ¶ÔÒ»¸öÈ«ÇòÁªÃË£¬ÖĞ¹úÒ²²»»áÖ»¶Ô¹ú¼Ê¹æ·¶µÄ¸ß×ËÌ¬Ì¸»°×÷³ö»ØÓ¦¡£ÕâÖÖÌ¸»°±ØĞëµÃµ½¾­¼ÃºÍ¾üÊÂÓ°ÏìÁ¦µÄÖ§³Ö¡£
+ä½†å³ä½¿é¢å¯¹ä¸€ä¸ªå…¨çƒè”ç›Ÿï¼Œä¸­å›½ä¹Ÿä¸ä¼šåªå¯¹å›½é™…è§„èŒƒçš„é«˜å§¿æ€è°ˆè¯ä½œå‡ºå›åº”ã€‚è¿™ç§è°ˆè¯å¿…é¡»å¾—åˆ°ç»æµå’Œå†›äº‹å½±å“åŠ›çš„æ”¯æŒã€‚
 
 It might **light a fire** under Americans to get serious about **national renewal**. But it might also light a fire to the whole U.S.-China relationship, affecting everything from supply chains to student exchanges to Chinese purchases of U.S. **government bonds**.
-ËüÒ²ĞíÄÜµãÈ¼ÃÀ¹úÈË¶Ô¹ú¼Ò¸´ĞËµÄ¼¤Çé¡£ µ«ÕâÒ²¿ÉÄÜµãÈ¼Õû¸öÃÀÖĞ¹ØÏµ£¬Ó°Ïì´Ó¹©Ó¦Á´µ½Ñ§Éú½»Á÷£¬ÔÙµ½ÖĞ¹ú¹ºÂòÃÀ¹úÕş¸®Õ®È¯µÄ·½·½ÃæÃæ¡£
+å®ƒä¹Ÿè®¸èƒ½ç‚¹ç‡ƒç¾å›½äººå¯¹å›½å®¶å¤å…´çš„æ¿€æƒ…ã€‚ ä½†è¿™ä¹Ÿå¯èƒ½ç‚¹ç‡ƒæ•´ä¸ªç¾ä¸­å…³ç³»ï¼Œå½±å“ä»ä¾›åº”é“¾åˆ°å­¦ç”Ÿäº¤æµï¼Œå†åˆ°ä¸­å›½è´­ä¹°ç¾å›½æ”¿åºœå€ºåˆ¸çš„æ–¹æ–¹é¢é¢ã€‚
 
 This Sept. 11, a **diminished** president will **preside** over a diminished nation. Another Failed Presidency **at Hand**
-½ñÄêµÄ9¡¤11µ½À´Ê±£¬Ò»¸öÒÑ¾­½µ¸ñµÄ¹ú¼Ò£¬ÕıÔÚÓÉÒ»Î»½µ¸ñµÄ×ÜÍ³ÕÆ¹Ü×Å¡£°İµÇ£¬ÓÖÒ»¸ö¼´½«Ê§°ÜµÄ×ÜÍ³
+ä»Šå¹´çš„9Â·11åˆ°æ¥æ—¶ï¼Œä¸€ä¸ªå·²ç»é™æ ¼çš„å›½å®¶ï¼Œæ­£åœ¨ç”±ä¸€ä½é™æ ¼çš„æ€»ç»ŸæŒç®¡ç€ã€‚æ‹œç™»ï¼Œåˆä¸€ä¸ªå³å°†å¤±è´¥çš„æ€»ç»Ÿ
 
 We are a country that could not keep a **demagogue** from the White House; could not stop an insurrectionist mob from **storming** the Capitol; could not win (or at least avoid losing) a war against a **morally and technologically retrograde** enemy; cannot **conquer a disease** for which there are safe and effective vaccines; and cannot bring itself to trust the government, the news media, the **scientific establishment**, the police or any other institution meant to operate for **the common good**.
-ÎÒÃÇÕâ¸ö¹ú¼ÒÎŞ·¨×èÖ¹Ò»ÃûÉ¿¶¯Õß½øÈë°×¹¬;ÎŞ·¨×èÖ¹±©Í½Ï®»÷¹ú»á´óÏÃ;ÎŞ·¨´òÓ®(»òÖÁÉÙ±ÜÃâ±»´ò°Ü)Ò»³¡ÓëµÀµÂºÍ¼¼ÊõÉÏ¶¼ÂäºóµÄµĞÈËµÄÕ½Õù;ÎŞ·¨Õ½Ê¤¼²²¡£¬¼´Ê¹ÓĞ°²È«ÓĞĞ§µÄÒßÃç;²¢ÇÒÎŞ·¨ÏàĞÅ Õş¸®¡¢ĞÂÎÅÃ½Ìå¡¢¿ÆÑ§»ú¹¹¡¢¾¯²ì»òÈÎºÎÆäËûÖ¼ÔÚÎª¹«¹²ÀûÒæÔË×÷µÄ»ú¹¹¡£
+æˆ‘ä»¬è¿™ä¸ªå›½å®¶æ— æ³•é˜»æ­¢ä¸€åç…½åŠ¨è€…è¿›å…¥ç™½å®«;æ— æ³•é˜»æ­¢æš´å¾’è¢­å‡»å›½ä¼šå¤§å¦;æ— æ³•æ‰“èµ¢(æˆ–è‡³å°‘é¿å…è¢«æ‰“è´¥)ä¸€åœºä¸é“å¾·å’ŒæŠ€æœ¯ä¸Šéƒ½è½åçš„æ•Œäººçš„æˆ˜äº‰;æ— æ³•æˆ˜èƒœç–¾ç—…ï¼Œå³ä½¿æœ‰å®‰å…¨æœ‰æ•ˆçš„ç–«è‹—;å¹¶ä¸”æ— æ³•ç›¸ä¿¡ æ”¿åºœã€æ–°é—»åª’ä½“ã€ç§‘å­¦æœºæ„ã€è­¦å¯Ÿæˆ–ä»»ä½•å…¶ä»–æ—¨åœ¨ä¸ºå…¬å…±åˆ©ç›Šè¿ä½œçš„æœºæ„ã€‚
 
-A civilization ¡°**is born stoic and dies epicurean**,¡± wrote historian Will Durant about the **Babylonians**. Our civilization was born **optimistic and enlightened**, at least by the standards of the day. Now it feels as if it¡¯s **fading into paranoid senility**.
-ÀúÊ·Ñ§¼ÒÍş¶û¡¤¶ÅÀ¼ÌØÔÚÌ¸µ½°Í±ÈÂ×ÈËÊ±Ğ´µÀ£¬Ò»¸öÎÄÃ÷¡°ÉúÓÚ¼áÈÌ£¬ËÀÓÚÏíÀÖ¡±¡£ÎÒÃÇµÄÎÄÃ÷ÉúÀ´ÊÇÀÖ¹ÛºÍ¿ªÃ÷µÄ£¬ÖÁÉÙ°´ÕÕµ±Ê±µÄ±ê×¼ÊÇÕâÑù¡£ÏÖÔÚ¸Ğ¾õËüºÃÏñÕıÔÚÖğ½¥Ë¥ÀÏ£¬±äµÃÒÉÉñÒÉ?¡£
+A civilization â€œ**is born stoic and dies epicurean**,â€ wrote historian Will Durant about the **Babylonians**. Our civilization was born **optimistic and enlightened**, at least by the standards of the day. Now it feels as if itâ€™s **fading into paranoid senility**.
+å†å²å­¦å®¶å¨å°”Â·æœå…°ç‰¹åœ¨è°ˆåˆ°å·´æ¯”ä¼¦äººæ—¶å†™é“ï¼Œä¸€ä¸ªæ–‡æ˜â€œç”Ÿäºåšå¿ï¼Œæ­»äºäº«ä¹â€ã€‚æˆ‘ä»¬çš„æ–‡æ˜ç”Ÿæ¥æ˜¯ä¹è§‚å’Œå¼€æ˜çš„ï¼Œè‡³å°‘æŒ‰ç…§å½“æ—¶çš„æ ‡å‡†æ˜¯è¿™æ ·ã€‚ç°åœ¨æ„Ÿè§‰å®ƒå¥½åƒæ­£åœ¨é€æ¸è¡°è€ï¼Œå˜å¾—ç–‘ç¥ç–‘?ã€‚
 
-Joe Biden was supposed to be **the man of the hour**: a **calming** presence **exuding decency, moderation** and trust. As a candidate, he **sold himself as** a transitional president, a **fatherly** figure in the **mold** of George H.W. Bush who would restore **dignity and prudence** to the Oval Office after the **mendacity and chaos** that came before. It¡¯s why I voted for him, as did so many others who once **tipped red**.
-ÇÇ¡¤°İµÇ±¾Ó¦ÊÇÕâ¸öÊ±¿ÌµÄÖ÷½Ç(·çÔÆÈËÎï):´ÓÈİ³ö³¡£¬É¢·¢×ÅÕıÅÉ¡¢ÎÂºÍºÍÖµµÃĞÅÈÎµÄÆøÖÊ¡£×÷ÎªºòÑ¡ÈË£¬Ëû±ê°ñ×Ô¼ºÊÇ×ªĞÍ×ÜÍ³£¬ Ò»¸öÏñÇÇÖÎ¡¤H¡¤W¡¤²¼Ê²Ò»ÑùµÄ¸¸Ç×°ãµÄÈËÎï£¬ÔÚÍÖÔ²ĞÎ°ì¹«ÊÒ¾­ÀúÁËÏÈÇ°µÄ»ÑÑÔºÍ»ìÂÒÖ®ºó£¬Ëû½«»Ö¸´Æä×ğÑÏºÍÉóÉ÷¡£Õâ¾ÍÊÇÎÒÍ¶Æ±¸øËûµÄÔ­Òò£¬¾ÍÏñĞí¶àÆäËûÔø¾­ÇãÏò¹²ºÍµ³µÄÈËÒ»Ñù
+Joe Biden was supposed to be **the man of the hour**: a **calming** presence **exuding decency, moderation** and trust. As a candidate, he **sold himself as** a transitional president, a **fatherly** figure in the **mold** of George H.W. Bush who would restore **dignity and prudence** to the Oval Office after the **mendacity and chaos** that came before. Itâ€™s why I voted for him, as did so many others who once **tipped red**.
+ä¹”Â·æ‹œç™»æœ¬åº”æ˜¯è¿™ä¸ªæ—¶åˆ»çš„ä¸»è§’(é£äº‘äººç‰©):ä»å®¹å‡ºåœºï¼Œæ•£å‘ç€æ­£æ´¾ã€æ¸©å’Œå’Œå€¼å¾—ä¿¡ä»»çš„æ°”è´¨ã€‚ä½œä¸ºå€™é€‰äººï¼Œä»–æ ‡æ¦œè‡ªå·±æ˜¯è½¬å‹æ€»ç»Ÿï¼Œ ä¸€ä¸ªåƒä¹”æ²»Â·HÂ·WÂ·å¸ƒä»€ä¸€æ ·çš„çˆ¶äº²èˆ¬çš„äººç‰©ï¼Œåœ¨æ¤­åœ†å½¢åŠå…¬å®¤ç»å†äº†å…ˆå‰çš„è°è¨€å’Œæ··ä¹±ä¹‹åï¼Œä»–å°†æ¢å¤å…¶å°Šä¸¥å’Œå®¡æ…ã€‚è¿™å°±æ˜¯æˆ‘æŠ•ç¥¨ç»™ä»–çš„åŸå› ï¼Œå°±åƒè®¸å¤šå…¶ä»–æ›¾ç»å€¾å‘å…±å’Œå…šçš„äººä¸€æ ·
 
 Instead, Biden has become the **emblem** of the hour: **headstrong** but shaky, ambitious but **inept**. He seems to be the last person in America to realize that, whatever the **theoretical merits** of the decision to withdraw our remaining troops from Afghanistan, the military and intelligence assumptions on which it was built were **deeply flawed**, the manner in which it was executed was a national **humiliation** and a **moral betrayal**, and the timing was **catastrophic**.
-Ïà·´£¬°İµÇÔÚÕâ¸öÊ±¿ÌÈ´³ÉÎªÁËÕâÑùµÄÏóÕ÷:¹ÌÖ´µ«Ò¡°Ú²»¶¨£¬ĞÛĞÄ²ª²ªµ«ÎŞÄÜ¡£ÎŞÂÛÊÇ´Ó°¢¸»º¹³·³öÊ£Óà²¿¶ÓµÄ¾ö¶¨ÓĞÊ²Ã´ÀíÂÛ¼ÛÖµ£¬¸Ã¾ö¶¨ËùÒÀ¾İµÄ¾üÊÂºÍÇé±¨¼ÙÉè´æÔÚÑÏÖØÈ±Ïİ£¬ÆäÖ´ĞĞ·½Ê½ÊÇ¶Ô¹ú¼ÒµÄĞßÈèºÍµÀµÂÉÏµÄ±³ÅÑ£¬ÆäÊ±»úÊÇÔÖÄÑĞÔµÄ£¬°İµÇËÆºõÊÇÃÀ¹ú×îºóÒ»¸öÒâÊ¶µ½ÕâĞ©µÄÈË
+ç›¸åï¼Œæ‹œç™»åœ¨è¿™ä¸ªæ—¶åˆ»å´æˆä¸ºäº†è¿™æ ·çš„è±¡å¾:å›ºæ‰§ä½†æ‘‡æ‘†ä¸å®šï¼Œé›„å¿ƒå‹ƒå‹ƒä½†æ— èƒ½ã€‚æ— è®ºæ˜¯ä»é˜¿å¯Œæ±—æ’¤å‡ºå‰©ä½™éƒ¨é˜Ÿçš„å†³å®šæœ‰ä»€ä¹ˆç†è®ºä»·å€¼ï¼Œè¯¥å†³å®šæ‰€ä¾æ®çš„å†›äº‹å’Œæƒ…æŠ¥å‡è®¾å­˜åœ¨ä¸¥é‡ç¼ºé™·ï¼Œå…¶æ‰§è¡Œæ–¹å¼æ˜¯å¯¹å›½å®¶çš„ç¾è¾±å’Œé“å¾·ä¸Šçš„èƒŒå›ï¼Œå…¶æ—¶æœºæ˜¯ç¾éš¾æ€§çš„ï¼Œæ‹œç™»ä¼¼ä¹æ˜¯ç¾å›½æœ€åä¸€ä¸ªæ„è¯†åˆ°è¿™äº›çš„äºº
 
-The 9/11 memorial at the  World Trade Center ¡ª water **cascading into one void**, and then  **trickling**, out of sight, into another ¡ª has **never felt more fitting**.
-ÔÚÊÀÃ³ÖĞĞÄµÄ9¡¤11¼ÍÄî¹ã³¡£¬Ë®ÏòÏÂÁ÷ÈëÒ»²ã¿Õ¶´£¬Ë®Á÷Öğ½¥±äÈõ¡¢ÏûÊ§£¬ÌÊÈëÁíÒ»²ã¿Õ¶´£¬ÕâÑùµÄÒâÏó´ÓÎ´ÈÃÈË¸Ğµ½Èç´ËÌùÇĞ¡£
+The 9/11 memorial at the  World Trade Center â€” water **cascading into one void**, and then  **trickling**, out of sight, into another â€” has **never felt more fitting**.
+åœ¨ä¸–è´¸ä¸­å¿ƒçš„9Â·11çºªå¿µå¹¿åœºï¼Œæ°´å‘ä¸‹æµå…¥ä¸€å±‚ç©ºæ´ï¼Œæ°´æµé€æ¸å˜å¼±ã€æ¶ˆå¤±ï¼Œæ·Œå…¥å¦ä¸€å±‚ç©ºæ´ï¼Œè¿™æ ·çš„æ„è±¡ä»æœªè®©äººæ„Ÿåˆ°å¦‚æ­¤è´´åˆ‡ã€‚
 
-That¡¯s the **optimistic scenario**. **Alternatively**, he could suffer a legislative **calamity** like Hillary Clinton¡¯s health care reform in 1994, which would have ended Bill Clinton¡¯s presidency save for his **sharp swing** to the center
-ÕâÊÇÀÖ¹ÛµÄÇé¿ö¡£»òÕß£¬Ëû¿ÉÄÜ»áÔâÊÜÏñ1994ÄêÏ£À­Àï¡¤¿ËÁÖ¶ÙµÄÒ½ÁÆ¸Ä¸ïÄÇÑùµÄÁ¢·¨ÔÖÄÑ£¬ºÃÔÚ±È¶û¡¤¿ËÁÖ¶Ù¼±¾ç×ªÏòÖĞ¼äÅÉ
+Thatâ€™s the **optimistic scenario**. **Alternatively**, he could suffer a legislative **calamity** like Hillary Clintonâ€™s health care reform in 1994, which would have ended Bill Clintonâ€™s presidency save for his **sharp swing** to the center
+è¿™æ˜¯ä¹è§‚çš„æƒ…å†µã€‚æˆ–è€…ï¼Œä»–å¯èƒ½ä¼šé­å—åƒ1994å¹´å¸Œæ‹‰é‡ŒÂ·å…‹æ—é¡¿çš„åŒ»ç–—æ”¹é©é‚£æ ·çš„ç«‹æ³•ç¾éš¾ï¼Œå¥½åœ¨æ¯”å°”Â·å…‹æ—é¡¿æ€¥å‰§è½¬å‘ä¸­é—´æ´¾
 
-Even the optimistic **precedent** was followed by a Democratic **rout** in 2010, when the party lost 63 House seats. If history repeats itself at the 2022 midterms, I doubt that even Joe Biden¡¯s **closest aides** think he has the **stamina** to fight his way back in 2024. Has Kamala Harris shown the political talent to **pick up the pieces**?
-¼´Ê¹ÃñÖ÷µ³ÓĞÕâÒ»ÀÖ¹ÛµÄÏÈÀı£¬ËüÔÚ2010ÄêÈÔÔâÓöÁËÀ£°Ü£¬µ±Ê±¸Ãµ³Ê§È¥ÁË63¸öÖÚÒéÔºÏ¯Î»¡£Èç¹ûÀúÊ·ÔÚ2022ÄêÖĞÆÚÑ¡¾ÙÖØÑİ£¬ÎÒ»³ÒÉ¼´Ê¹ÊÇÇÇ¡¤°İµÇ×îÇ×ÃÜµÄÖúÊÖ¶¼»á¾õµÃËûµÄ¾«Á¦²»×ãÒÔ³Åµ½ÔÚ2024ÄêÖØ»ØáÛ·å¡£¿¨ÂêÀ­¡¤¹şÀïË¹ÓĞÃ»ÓĞÏÔÊ¾³öÊÕÊ°²Ğ¾ÖµÄÕşÖÎ²ÅÄÜ?
+Even the optimistic **precedent** was followed by a Democratic **rout** in 2010, when the party lost 63 House seats. If history repeats itself at the 2022 midterms, I doubt that even Joe Bidenâ€™s **closest aides** think he has the **stamina** to fight his way back in 2024. Has Kamala Harris shown the political talent to **pick up the pieces**?
+å³ä½¿æ°‘ä¸»å…šæœ‰è¿™ä¸€ä¹è§‚çš„å…ˆä¾‹ï¼Œå®ƒåœ¨2010å¹´ä»é­é‡äº†æºƒè´¥ï¼Œå½“æ—¶è¯¥å…šå¤±å»äº†63ä¸ªä¼—è®®é™¢å¸­ä½ã€‚å¦‚æœå†å²åœ¨2022å¹´ä¸­æœŸé€‰ä¸¾é‡æ¼”ï¼Œæˆ‘æ€€ç–‘å³ä½¿æ˜¯ä¹”Â·æ‹œç™»æœ€äº²å¯†çš„åŠ©æ‰‹éƒ½ä¼šè§‰å¾—ä»–çš„ç²¾åŠ›ä¸è¶³ä»¥æ’‘åˆ°åœ¨2024å¹´é‡å›å·…å³°ã€‚å¡ç›æ‹‰Â·å“ˆé‡Œæ–¯æœ‰æ²¡æœ‰æ˜¾ç¤ºå‡ºæ”¶æ‹¾æ®‹å±€çš„æ”¿æ²»æ‰èƒ½?
 
-Perhaps what will save the Democrats is that Biden¡¯s weakness will **tempt** Donald Trump to seek (and almost certainly gain) the Republican nomination
-Èç¹û°İµÇµÄÈíÈõÓÕÊ¹ÌÆÄÉµÂ¡¤ÌØÀÊÆÕÑ°Çó(²¢ÇÒ¼¸ºõ¿Ï¶¨»á»ñµÃ)¹²ºÍµ³ÌáÃû£¬Õâ»òĞíÄÜÕü¾ÈÃñÖ÷µ³
+Perhaps what will save the Democrats is that Bidenâ€™s weakness will **tempt** Donald Trump to seek (and almost certainly gain) the Republican nomination
+å¦‚æœæ‹œç™»çš„è½¯å¼±è¯±ä½¿å”çº³å¾·Â·ç‰¹æœ—æ™®å¯»æ±‚(å¹¶ä¸”å‡ ä¹è‚¯å®šä¼šè·å¾—)å…±å’Œå…šæåï¼Œè¿™æˆ–è®¸èƒ½æ‹¯æ•‘æ°‘ä¸»å…š
 
-There¡¯s a **way back from this cliff¡¯s edge**. It begins with Biden finding a way to acknowledge publicly the **gravity** of his administration¡¯s **blunders**
-ÏÖÔÚĞüÑÂÀÕÂí»¹À´µÃ¼°¡£Ê×ÏÈ£¬°İµÇĞèÒªÒÔÄ³ÖÖ·½Ê½À´¹«¿ª³ĞÈÏÆäÕş¸®·¸´íÎóµÄÑÏÖØĞÔ
+Thereâ€™s a **way back from this cliffâ€™s edge**. It begins with Biden finding a way to acknowledge publicly the **gravity** of his administrationâ€™s **blunders**
+ç°åœ¨æ‚¬å´–å‹’é©¬è¿˜æ¥å¾—åŠã€‚é¦–å…ˆï¼Œæ‹œç™»éœ€è¦ä»¥æŸç§æ–¹å¼æ¥å…¬å¼€æ‰¿è®¤å…¶æ”¿åºœçŠ¯é”™è¯¯çš„ä¸¥é‡æ€§
 
-He¡¯s proud, **inflexible**, and thinks **he¡¯s much smarter than he really is**. That¡¯s bad news for the administration. It¡¯s worse news for a country that **desperately needs** to avoid another failed presidency
-Ëû½¾°Á¡¢¹ÌÖ´£¬¸ß¹À×Ô¼ºµÄÖÇÁ¦¡£¶ÔÕş¸®À´Ëµ£¬ ÕâÊÇ¸ö»µÏûÏ¢¡£¶ÔÓÚÒ»¸öÆÈÇĞĞèÒª±ÜÃâÓÖÒ»¶ÎÊ§°ÜµÄ×ÜÍ³ÈÎÆÚµÄ¹ú¼ÒÀ´Ëµ£¬ÕâÊÇ¸ö¸ü»µµÄÏûÏ¢
+Heâ€™s proud, **inflexible**, and thinks **heâ€™s much smarter than he really is**. Thatâ€™s bad news for the administration. Itâ€™s worse news for a country that **desperately needs** to avoid another failed presidency
+ä»–éª„å‚²ã€å›ºæ‰§ï¼Œé«˜ä¼°è‡ªå·±çš„æ™ºåŠ›ã€‚å¯¹æ”¿åºœæ¥è¯´ï¼Œ è¿™æ˜¯ä¸ªåæ¶ˆæ¯ã€‚å¯¹äºä¸€ä¸ªè¿«åˆ‡éœ€è¦é¿å…åˆä¸€æ®µå¤±è´¥çš„æ€»ç»Ÿä»»æœŸçš„å›½å®¶æ¥è¯´ï¼Œè¿™æ˜¯ä¸ªæ›´åçš„æ¶ˆæ¯
 
 Impressing other writers and academics **ceased** to be my goal. Instead, I would focus on using my words to find beauty and hope.
-ÎÒµÄÄ¿±ê²»ÔÙÊÇ¸øÆäËû×÷¼ÒºÍÑ§ÕßÁôÏÂÉî¿ÌµÄÓ¡Ïó¡£Ïà·´£¬ÎÒ»á×¨×¢ÓÚÓÃÎÒµÄÎÄ×ÖÀ´Ñ°ÕÒÃÀÀöºÍÏ£Íû
+æˆ‘çš„ç›®æ ‡ä¸å†æ˜¯ç»™å…¶ä»–ä½œå®¶å’Œå­¦è€…ç•™ä¸‹æ·±åˆ»çš„å°è±¡ã€‚ç›¸åï¼Œæˆ‘ä¼šä¸“æ³¨äºç”¨æˆ‘çš„æ–‡å­—æ¥å¯»æ‰¾ç¾ä¸½å’Œå¸Œæœ›
 
 This pandemic has left conversations and lives **cut short**.
-Õâ³¡´óÁ÷ĞĞÊ¹Ì¸»°ºÍÉúÃü¶¼Ëõ¶ÌÁË
+è¿™åœºå¤§æµè¡Œä½¿è°ˆè¯å’Œç”Ÿå‘½éƒ½ç¼©çŸ­äº†
 
 And it seems to be bringing a similar **clarity** to people about their priorities: The pandemic has led to one of the largest **shifts** in jobs in recent memory, with millions of Americans making changes.
-ËüËÆºõÒ²ÈÃÈËÃÇÈÏÇåÁËÊ²Ã´ÊÇÖØÒªµÄ:´óÁ÷ĞĞµ¼ÖÂÁËÏàµ±³¤Ò»¶ÎÊ±¼äÀï×î´óµÄÀÍ¶¯Á¦ÊĞ³¡×ªĞÍÖ®Ò»£¬Êı°ÙÍòÃÀ¹úÈË×ö³öÁË¸Ä±ä
+å®ƒä¼¼ä¹ä¹Ÿè®©äººä»¬è®¤æ¸…äº†ä»€ä¹ˆæ˜¯é‡è¦çš„:å¤§æµè¡Œå¯¼è‡´äº†ç›¸å½“é•¿ä¸€æ®µæ—¶é—´é‡Œæœ€å¤§çš„åŠ³åŠ¨åŠ›å¸‚åœºè½¬å‹ä¹‹ä¸€ï¼Œæ•°ç™¾ä¸‡ç¾å›½äººåšå‡ºäº†æ”¹å˜
 
 The pandemic has **disabused** us of the **illusion** of time as a **limitless** resource and of the false promise that the sacrifices we make for our careers are always **worth** it.
-Õâ³¡ÒßÇéÊ¹ÎÒÃÇ°ÚÍÑÁËÊ±¼äÊÇÒ»¸öÎŞÇîµÄ×ÊÔ´µÄ´í¾õ£¬ÒÔ¼°ÎÒÃÇÎªÖ°Òµ×ö³öµÄÎşÉü×ÜÊÇÖµµÃµÄĞé¼Ù³ĞÅµ¡£
+è¿™åœºç–«æƒ…ä½¿æˆ‘ä»¬æ‘†è„±äº†æ—¶é—´æ˜¯ä¸€ä¸ªæ— ç©·çš„èµ„æºçš„é”™è§‰ï¼Œä»¥åŠæˆ‘ä»¬ä¸ºèŒä¸šåšå‡ºçš„ç‰ºç‰²æ€»æ˜¯å€¼å¾—çš„è™šå‡æ‰¿è¯ºã€‚
 
 In the meantime, exercise and a **reasonable** diet was the **tithes** we paid to our fear
-Óë´ËÍ¬Ê±£¬¶ÍÁ¶ºÍºÏÀíµÄÒûÊ³Ö»ÊÇÎÒÃÇÎª¿Ö¾å¸¶³öµÄÒ»Ğ¡²¿·Ö
+ä¸æ­¤åŒæ—¶ï¼Œé”»ç‚¼å’Œåˆç†çš„é¥®é£Ÿåªæ˜¯æˆ‘ä»¬ä¸ºææƒ§ä»˜å‡ºçš„ä¸€å°éƒ¨åˆ†
 
 For all that we know about the relatively **low mortality rates** of Covid-19 among the young, it remains something of a **deadly** lottery
-¾¡¹ÜÎÒÃÇÖªµÀÄêÇáÈËÖĞCovid-19µÄËÀÍöÂÊÏà¶Ô½ÏµÍ£¬µ«ËüÈÔÈ»ÊÇÒ»ÖÖÖÂÃüµÄ²ÊÆ±
+å°½ç®¡æˆ‘ä»¬çŸ¥é“å¹´è½»äººä¸­Covid-19çš„æ­»äº¡ç‡ç›¸å¯¹è¾ƒä½ï¼Œä½†å®ƒä»ç„¶æ˜¯ä¸€ç§è‡´å‘½çš„å½©ç¥¨
 
-We have had to consider our **collective** mortality. And we **are now faced with** the question of meaning. Like the **biblical psalmist** says, ¡°We have escaped like a bird from the fowler¡¯s snare; the **snare** has been broken, and we have escaped.¡± (Psalm 124:7). Covid-19 **threatened to capture** us in its snare, but **thus far** we have **eluded** it. What shall we do with this opportunity?
-ÎÒÃÇ²»µÃ²»¿¼ÂÇÎÒÃÇµÄ¼¯ÌåËÀÍöÂÊ¡£ÎÒÃÇÏÖÔÚÃæÁÙ×ÅÒâÒåµÄÎÊÌâ¡£ÕıÈçÊ¥¾­ÖĞµÄÊ«ÈËËùËµ:¡°ÎÒÃÇºÃÏñÈ¸Äñ£¬´Ó²¶ÄñÈËµÄÂŞÍøÀïÌÓÍÑ£¬ÂŞÍøÆÆÁÑ£¬ÎÒÃÇ¾ÍÌÓÍÑÁË¡£¡±(Ê«Æª124:7)¡£Covid-19ÍşĞ²ÒªÓÃËüµÄÂŞÍø·ı»ñÎÒÃÇ£¬µ«µ½Ä¿Ç°ÎªÖ¹ÎÒÃÇ¶¼¶ã¹ıÁËËü¡£ÎÒÃÇÒªÈçºÎÀûÓÃÕâ¸öÆõ»ú?
+We have had to consider our **collective** mortality. And we **are now faced with** the question of meaning. Like the **biblical psalmist** says, â€œWe have escaped like a bird from the fowlerâ€™s snare; the **snare** has been broken, and we have escaped.â€ (Psalm 124:7). Covid-19 **threatened to capture** us in its snare, but **thus far** we have **eluded** it. What shall we do with this opportunity?
+æˆ‘ä»¬ä¸å¾—ä¸è€ƒè™‘æˆ‘ä»¬çš„é›†ä½“æ­»äº¡ç‡ã€‚æˆ‘ä»¬ç°åœ¨é¢ä¸´ç€æ„ä¹‰çš„é—®é¢˜ã€‚æ­£å¦‚åœ£ç»ä¸­çš„è¯—äººæ‰€è¯´:â€œæˆ‘ä»¬å¥½åƒé›€é¸Ÿï¼Œä»æ•é¸Ÿäººçš„ç½—ç½‘é‡Œé€ƒè„±ï¼Œç½—ç½‘ç ´è£‚ï¼Œæˆ‘ä»¬å°±é€ƒè„±äº†ã€‚â€(è¯—ç¯‡124:7)ã€‚Covid-19å¨èƒè¦ç”¨å®ƒçš„ç½—ç½‘ä¿˜è·æˆ‘ä»¬ï¼Œä½†åˆ°ç›®å‰ä¸ºæ­¢æˆ‘ä»¬éƒ½èº²è¿‡äº†å®ƒã€‚æˆ‘ä»¬è¦å¦‚ä½•åˆ©ç”¨è¿™ä¸ªå¥‘æœº?
 
 When we had the **illusion of time**, the lower pay, long **commutes**, high cost of  living and separation from loved ones seemed a small price to pay for a successful career. But the pandemic reminded us that there are some things more important than **vocational** progress.
-µ±ÎÒÃÇÓĞÊ±¼äµÄ´í¾õÊ±£¬½ÏµÍµÄ¹¤×Ê¡¢³¤Ê±¼äµÄÍ¨ÇÚ¡¢¸ß°ºµÄÉú»î³É±¾ºÍÓëÇ×ÈËµÄ·ÖÀëËÆºõÊÇÎª³É¹¦µÄÊÂÒµ¸¶³öµÄÎ¢²»×ãµÀµÄ´ú¼Û¡£µ«ÒßÇéÌáĞÑÎÒÃÇ£¬ÓĞĞ©ÊÂÇé±ÈÖ°Òµ·¢Õ¹¸üÖØÒª¡£
+å½“æˆ‘ä»¬æœ‰æ—¶é—´çš„é”™è§‰æ—¶ï¼Œè¾ƒä½çš„å·¥èµ„ã€é•¿æ—¶é—´çš„é€šå‹¤ã€é«˜æ˜‚çš„ç”Ÿæ´»æˆæœ¬å’Œä¸äº²äººçš„åˆ†ç¦»ä¼¼ä¹æ˜¯ä¸ºæˆåŠŸçš„äº‹ä¸šä»˜å‡ºçš„å¾®ä¸è¶³é“çš„ä»£ä»·ã€‚ä½†ç–«æƒ…æé†’æˆ‘ä»¬ï¼Œæœ‰äº›äº‹æƒ…æ¯”èŒä¸šå‘å±•æ›´é‡è¦ã€‚
 
 This was **equally true** for single friends who lived in areas where the entire social scene **catered to** married people with families.
-¶ÔÓÚÒ»Ğ©µ¥ÉíÅóÓÑÀ´ËµÒ²ÊÇÈç´Ë£¬ËûÃÇ×¡ÔÚËùÓĞÉç½»»î¶¯¶¼Ó­ºÏÓĞ¼ÒÍ¥µÄÒÑ»éÈËÊ¿µÄµØÇø
+å¯¹äºä¸€äº›å•èº«æœ‹å‹æ¥è¯´ä¹Ÿæ˜¯å¦‚æ­¤ï¼Œä»–ä»¬ä½åœ¨æ‰€æœ‰ç¤¾äº¤æ´»åŠ¨éƒ½è¿åˆæœ‰å®¶åº­çš„å·²å©šäººå£«çš„åœ°åŒº
 
 The pandemic has reminded us that **life is more than what we do**
-Õâ³¡´óÁ÷ĞĞ²¡ÌáĞÑÎÒÃÇ£¬Éú»î²»Ö»ÊÇÎÒÃÇËù×öµÄÊÂ
+è¿™åœºå¤§æµè¡Œç—…æé†’æˆ‘ä»¬ï¼Œç”Ÿæ´»ä¸åªæ˜¯æˆ‘ä»¬æ‰€åšçš„äº‹
 
 I **recognize** that for some, Covid-19 did not raise the same **existential** questions. 
-ÎÒÒâÊ¶µ½¶ÔÓĞĞ©ÈË¶øÑÔ£¬Covid-19Ã»ÓĞÒı·¢Í¬Ñù¹Øºõ´æÔÚÒâÒåµÄÎÊÌâ
+æˆ‘æ„è¯†åˆ°å¯¹æœ‰äº›äººè€Œè¨€ï¼ŒCovid-19æ²¡æœ‰å¼•å‘åŒæ ·å…³ä¹å­˜åœ¨æ„ä¹‰çš„é—®é¢˜
 
 **Nonetheless**, I have **relatives** in service industries raising similar questions. They are **no longer willing** to deal with harassment from rude customers for a **barely livable wage**. They are **struggling to** pay their bills, but they are doing so **on their terms** with their **humanity intact**
-¾¡¹ÜÈç´Ë£¬ÎÒÓĞÒ»Ğ©ÔÚ·şÎñĞĞÒµµÄÇ×ÆİÒ²Ìá³öÁËÏàËÆµÄÎÊÌâ¡£ËûÃÇ²»ÔÙÔ¸ÒâÎªÁËÒ»·İÃãÇ¿Î¬³ÖÉú»îµÄÊÕÈë¶øÓ¦¸¶´ÖÂ³¹Ë¿ÍµÄÉ§ÈÅ¡£ËûÃÇÕıÔÚ³ÔÁ¦µØÖ§¸¶ÕËµ¥£¬²»¹ıÊÇÔÚ·ûºÏËûÃÇ×Ô¼ºµÄÒâÔ¸¡¢ËûÃÇµÄÈËĞÔÍêºÃÎŞËğµÄÌõ¼şÏÂÀ´×öÕâĞ©ÊÂ¡£
+å°½ç®¡å¦‚æ­¤ï¼Œæˆ‘æœ‰ä¸€äº›åœ¨æœåŠ¡è¡Œä¸šçš„äº²æˆšä¹Ÿæå‡ºäº†ç›¸ä¼¼çš„é—®é¢˜ã€‚ä»–ä»¬ä¸å†æ„¿æ„ä¸ºäº†ä¸€ä»½å‹‰å¼ºç»´æŒç”Ÿæ´»çš„æ”¶å…¥è€Œåº”ä»˜ç²—é²é¡¾å®¢çš„éªšæ‰°ã€‚ä»–ä»¬æ­£åœ¨åƒåŠ›åœ°æ”¯ä»˜è´¦å•ï¼Œä¸è¿‡æ˜¯åœ¨ç¬¦åˆä»–ä»¬è‡ªå·±çš„æ„æ„¿ã€ä»–ä»¬çš„äººæ€§å®Œå¥½æ— æŸçš„æ¡ä»¶ä¸‹æ¥åšè¿™äº›äº‹ã€‚
 
 If there is a lesson in this for employers, it is to remember that employees are **more than** workers. We have an **identity** outside the hours **committed to making a living**. Jobs that treat their employees **honorably**, provide flexibility and **leave room** for life outside of work will **thrive**
-Èç¹ûÕâĞ©¶Ô¹ÍÖ÷À´ËµÓĞÊ²Ã´½ÌÑµµÄ»°£¬ÄÇ¾ÍÊÇÒª¼Ç×¡£¬Ô±¹¤²»½ö½öÊÇ¹¤ÈË¡£ÎÒÃÇÓĞÒ»ÖÖÔÚÓÃÓÚÄ±ÉúµÄÊ±¼äÖ®ÍâµÄÉí·İ¡£ÌåÃæ¶Ô´ıÔ±¹¤¡¢Ìá¹©Áé»îĞÔ²¢Îª¹¤×÷Ö®ÍâµÄÉú»îÁô³ö¿Õ¼äµÄ¹¤×÷½«»áÅî²ª·¢Õ¹
+å¦‚æœè¿™äº›å¯¹é›‡ä¸»æ¥è¯´æœ‰ä»€ä¹ˆæ•™è®­çš„è¯ï¼Œé‚£å°±æ˜¯è¦è®°ä½ï¼Œå‘˜å·¥ä¸ä»…ä»…æ˜¯å·¥äººã€‚æˆ‘ä»¬æœ‰ä¸€ç§åœ¨ç”¨äºè°‹ç”Ÿçš„æ—¶é—´ä¹‹å¤–çš„èº«ä»½ã€‚ä½“é¢å¯¹å¾…å‘˜å·¥ã€æä¾›çµæ´»æ€§å¹¶ä¸ºå·¥ä½œä¹‹å¤–çš„ç”Ÿæ´»ç•™å‡ºç©ºé—´çš„å·¥ä½œå°†ä¼šè“¬å‹ƒå‘å±•
 
 I did not get to speak to my father a final time, but I did deliver the **eulogy** at his funeral. The need to **make sense of** his death revealed what was so often hard to see in the **ebb and flow** of our life together. He was like most of us, **a mass of contradictions**.
-ÎÒÃ»ÄÜºÍÎÒ¸¸Ç×ËµÉÏ×îºóÒ»´Î»°£¬µ«ÎÒÔÚËûµÄÔáÀñÉÏÖÂÁËµ¿´Ê¡£Àí½âËûµÄËÀÍöÕâ¸öĞèÇó£¬½ÒÊ¾ÁËÔÚÎÒÃÇ¹²Í¬Éú»îµÄÆğÆğÂäÂäÖĞºÜÄÑ¿´µ½µÄ¶«Î÷. ËûºÍÎÒÃÇ´ó¶àÊıÈËÒ»Ñù£¬ÊÇÃ¬¶ÜµÄ¼¯ºÏÌå¡£
+æˆ‘æ²¡èƒ½å’Œæˆ‘çˆ¶äº²è¯´ä¸Šæœ€åä¸€æ¬¡è¯ï¼Œä½†æˆ‘åœ¨ä»–çš„è‘¬ç¤¼ä¸Šè‡´äº†æ‚¼è¯ã€‚ç†è§£ä»–çš„æ­»äº¡è¿™ä¸ªéœ€æ±‚ï¼Œæ­ç¤ºäº†åœ¨æˆ‘ä»¬å…±åŒç”Ÿæ´»çš„èµ·èµ·è½è½ä¸­å¾ˆéš¾çœ‹åˆ°çš„ä¸œè¥¿. ä»–å’Œæˆ‘ä»¬å¤§å¤šæ•°äººä¸€æ ·ï¼Œæ˜¯çŸ›ç›¾çš„é›†åˆä½“ã€‚
 
 I confronted him about things he had done and the real pain he caused. It was not a **healing**, but it began something we never got to finish.
-ÎÒÖÊÎÊËûËù×ö¹ıµÄÊÂºÍËûÔì³ÉµÄÍ´¿à¡£Õâ²»ÊÇÒ»ÖÖÖÎÓú£¬µ«Ëü¿ªÊ¼ÁËÒ»ÖÖÎÒÃÇÎ´ÄÜÍê³ÉµÄ¶«Î÷¡£ 
+æˆ‘è´¨é—®ä»–æ‰€åšè¿‡çš„äº‹å’Œä»–é€ æˆçš„ç—›è‹¦ã€‚è¿™ä¸æ˜¯ä¸€ç§æ²»æ„ˆï¼Œä½†å®ƒå¼€å§‹äº†ä¸€ç§æˆ‘ä»¬æœªèƒ½å®Œæˆçš„ä¸œè¥¿ã€‚ 
 
-When he died, I was in **the early stages** of writing what became ¡°Reading While Black.¡± It has the following **dedication**: ¡°This book **is dedicated to** the memory of Esau McCaulley Sr., who died before he ever got to see a book **bearing** our name in print. **Whatever else** I am, I will always remain your son.¡±
-ËûÈ¥ÊÀµÄÊ±ºò£¬ÎÒ¸Õ¿ªÊ¼Ğ´¡¶ºÚÈËµÄÔÄ¶Á¡·£¬ËüµÄÖÂ´ÇÊÇÕâÑùµÄ:¡°Õâ±¾ÊéÏ×¸øÒÀÉÜ¡¤Âó¿¨Àû£¬ËûÔÚ¿´µ½Ò»±¾Ó¡ÓĞÎÒÃÇÃû×ÖµÄÊéÖ®Ç°¾ÍÈ¥ÊÀÁË¡£²»ÂÛÎÒ»¹ÓĞÊ²Ã´Éí·İ£¬ÎÒÊ¼ÖÕÊÇÄãµÄ¶ù×Ó¡£¡±
+When he died, I was in **the early stages** of writing what became â€œReading While Black.â€ It has the following **dedication**: â€œThis book **is dedicated to** the memory of Esau McCaulley Sr., who died before he ever got to see a book **bearing** our name in print. **Whatever else** I am, I will always remain your son.â€
+ä»–å»ä¸–çš„æ—¶å€™ï¼Œæˆ‘åˆšå¼€å§‹å†™ã€Šé»‘äººçš„é˜…è¯»ã€‹ï¼Œå®ƒçš„è‡´è¾æ˜¯è¿™æ ·çš„:â€œè¿™æœ¬ä¹¦çŒ®ç»™ä¾ç»Â·éº¦å¡åˆ©ï¼Œä»–åœ¨çœ‹åˆ°ä¸€æœ¬å°æœ‰æˆ‘ä»¬åå­—çš„ä¹¦ä¹‹å‰å°±å»ä¸–äº†ã€‚ä¸è®ºæˆ‘è¿˜æœ‰ä»€ä¹ˆèº«ä»½ï¼Œæˆ‘å§‹ç»ˆæ˜¯ä½ çš„å„¿å­ã€‚â€
 
 It seems that Covid-19 has **dealt a collective trauma** to the American **consciousness** and that **the full fruit of** that trauma remains uncertain. One thing is clear: Our previous normal was **not as good as we thought it was**.
-Covid-19ËÆºõ¶ÔÃÀ¹úÈËµÄÒâÊ¶Ôì³ÉÁË¼¯ÌåĞÔ´´ÉË£¬ÕâÖÖ´´ÉËµÄÈ«²¿ºó¹û»¹²»È·¶¨¡£ÓĞÒ»¼şÊÂÊÇÇå³şÎŞÒÉµÄ:ÎÒÃÇ¹ıÈ¥µÄ³£Ì¬²¢²»ÈçÎÒÃÇÒÔÎªµÄÄÇ°ã¼á¹ÌÃÀºÃ
+Covid-19ä¼¼ä¹å¯¹ç¾å›½äººçš„æ„è¯†é€ æˆäº†é›†ä½“æ€§åˆ›ä¼¤ï¼Œè¿™ç§åˆ›ä¼¤çš„å…¨éƒ¨åæœè¿˜ä¸ç¡®å®šã€‚æœ‰ä¸€ä»¶äº‹æ˜¯æ¸…æ¥šæ— ç–‘çš„:æˆ‘ä»¬è¿‡å»çš„å¸¸æ€å¹¶ä¸å¦‚æˆ‘ä»¬ä»¥ä¸ºçš„é‚£èˆ¬åšå›ºç¾å¥½
 
 Much of its dialogue is in **Mandarin**. The **cast** includes Tony Leung, one of the biggest **Chinese-speaking** movie stars in history.
-´ó²¿·Ö¶Ô°×Ê¹ÓÃÆÕÍ¨»°¡£ÑİÔ±ÕóÈİ°üÀ¨Áº³¯Î°£¬ÓĞÊ·ÒÔÀ´×îÖøÃûµÄ»ªÓïµçÓ°Ã÷ĞÇÖ®Ò»¡£
+å¤§éƒ¨åˆ†å¯¹ç™½ä½¿ç”¨æ™®é€šè¯ã€‚æ¼”å‘˜é˜µå®¹åŒ…æ‹¬æ¢æœä¼Ÿï¼Œæœ‰å²ä»¥æ¥æœ€è‘—åçš„åè¯­ç”µå½±æ˜æ˜Ÿä¹‹ä¸€ã€‚
 
-The studio¡¯s first Asian superhero movie is **a hit**, **drawing praise** and ticket sales in East Asia and other global markets. 
-ÂşÍşµÄÊ×²¿ÑÇÒá³¬¼¶Ó¢ĞÛµçÓ°´ó»ñ³É¹¦£¬ÔÚ¶«ÑÇºÍÈ«ÇòÆäËûÊĞ³¡»ñµÃºÃÆÀºÍÆ±·¿ÊÕÈë
+The studioâ€™s first Asian superhero movie is **a hit**, **drawing praise** and ticket sales in East Asia and other global markets. 
+æ¼«å¨çš„é¦–éƒ¨äºšè£”è¶…çº§è‹±é›„ç”µå½±å¤§è·æˆåŠŸï¼Œåœ¨ä¸œäºšå’Œå…¨çƒå…¶ä»–å¸‚åœºè·å¾—å¥½è¯„å’Œç¥¨æˆ¿æ”¶å…¥
 
-Disney, which owns Marvel, **has yet to receive clearance** from Beijing¡¯s regulators to show the film in the vast but heavily **censored** movie market. While the reasons aren¡¯t clear, ¡°Shang-Chi¡± may be a victim of the **low point** in U.S.-China relations.
-ÂşÍşµÄÄ¸¹«Ë¾µÏÊ¿ÄáÉĞÎ´»ñµÃ±±¾©¼à¹Ü»ú¹¹µÄÅú×¼£¬ÎŞ·¨ÔÚÕâ¸öÅÓ´óµ«ÊÜµ½ÑÏ¸ñÉó²éµÄµçÓ°ÊĞ³¡·ÅÓ³Õâ²¿µçÓ°¡£ËäÈ»Ô­ÒòÉĞ²»Çå³ş£¬µ«¡¶ÉĞÆø¡·¿ÉÄÜÊÇÃÀÖĞ¹ØÏµµÍÃÔµÄÊÜº¦Õß
+Disney, which owns Marvel, **has yet to receive clearance** from Beijingâ€™s regulators to show the film in the vast but heavily **censored** movie market. While the reasons arenâ€™t clear, â€œShang-Chiâ€ may be a victim of the **low point** in U.S.-China relations.
+æ¼«å¨çš„æ¯å…¬å¸è¿ªå£«å°¼å°šæœªè·å¾—åŒ—äº¬ç›‘ç®¡æœºæ„çš„æ‰¹å‡†ï¼Œæ— æ³•åœ¨è¿™ä¸ªåºå¤§ä½†å—åˆ°ä¸¥æ ¼å®¡æŸ¥çš„ç”µå½±å¸‚åœºæ”¾æ˜ è¿™éƒ¨ç”µå½±ã€‚è™½ç„¶åŸå› å°šä¸æ¸…æ¥šï¼Œä½†ã€Šå°šæ°”ã€‹å¯èƒ½æ˜¯ç¾ä¸­å…³ç³»ä½è¿·çš„å—å®³è€…
 
 China is also **pushing back against Western influence**, with increasingly vocal nationalists **denouncing** foreign books and movies and the teaching of English
-ÖĞ¹úÒ²ÔÚµÖÖÆÎ÷·½µÄÓ°Ïì£¬Ô½À´Ô½¶àµÄÃñ×åÖ÷ÒåÕßÇ´ÔğÍâ¹úÊé¼®¡¢µçÓ°ºÍÓ¢Óï½ÌÑ§
+ä¸­å›½ä¹Ÿåœ¨æŠµåˆ¶è¥¿æ–¹çš„å½±å“ï¼Œè¶Šæ¥è¶Šå¤šçš„æ°‘æ—ä¸»ä¹‰è€…è°´è´£å¤–å›½ä¹¦ç±ã€ç”µå½±å’Œè‹±è¯­æ•™å­¦
 
 But in other parts of Asia, the movie has been **greeted warmly** by audiences for how it **depicts** a Chinese superhero **burdened** by a racist back story.
-µ«ÔÚÑÇÖŞÆäËûµØÇø£¬Õâ²¿µçÓ°ÊÜµ½ÁË¹ÛÖÚµÄÈÈÁÒ»¶Ó­£¬ÒòÎª¸ÃÆ¬ÃèÊöÁËÒ»¸ö±»ÖÖ×åÖ÷ÒåËùÀÛµÄ»ªÒá³¬¼¶Ó¢ĞÛ
+ä½†åœ¨äºšæ´²å…¶ä»–åœ°åŒºï¼Œè¿™éƒ¨ç”µå½±å—åˆ°äº†è§‚ä¼—çš„çƒ­çƒˆæ¬¢è¿ï¼Œå› ä¸ºè¯¥ç‰‡æè¿°äº†ä¸€ä¸ªè¢«ç§æ—ä¸»ä¹‰æ‰€ç´¯çš„åè£”è¶…çº§è‹±é›„
 
 The movie is a **retelling** of the story of a **little-known Marvel character** created in 1973
-Õâ²¿µçÓ°ÖØÊöÁËÒ»¸öÏÊÎªÈËÖªµÄÂşÍş½ÇÉ«µÄ¹ÊÊÂ£¬¸Ã½ÇÉ«´´×÷ÓÚ1973Äê
+è¿™éƒ¨ç”µå½±é‡è¿°äº†ä¸€ä¸ªé²œä¸ºäººçŸ¥çš„æ¼«å¨è§’è‰²çš„æ•…äº‹ï¼Œè¯¥è§’è‰²åˆ›ä½œäº1973å¹´
 
 Xu Wenwu is **played** by Mr. Leung, a **legend** in Hong Kong cinema. His role in the film was **pivotal in attracting** Hong Kong audiences to the theaters, said Kevin Ma, a film industry **observer and writer** from Hong Kong.
-ĞìÎÄÎäÓÉÏã¸ÛµçÓ°½çµÄ´«ÆæÈËÎïÁº³¯Î°ÊÎÑİ¡£À´×ÔÏã¸ÛµÄµçÓ°Òµ¹Û²ì¼ÒºÍ×÷¼Ò¿­ÎÄ¡¤ÂíËµ£¬Ëû³öÑİÕâ²¿µçÓ°£¬¶ÔÓÚ½«Ïã¸Û¹ÛÖÚÎüÒıµ½Ó°ÔºÖÁ¹ØÖØÒª¡£
+å¾æ–‡æ­¦ç”±é¦™æ¸¯ç”µå½±ç•Œçš„ä¼ å¥‡äººç‰©æ¢æœä¼Ÿé¥°æ¼”ã€‚æ¥è‡ªé¦™æ¸¯çš„ç”µå½±ä¸šè§‚å¯Ÿå®¶å’Œä½œå®¶å‡¯æ–‡Â·é©¬è¯´ï¼Œä»–å‡ºæ¼”è¿™éƒ¨ç”µå½±ï¼Œå¯¹äºå°†é¦™æ¸¯è§‚ä¼—å¸å¼•åˆ°å½±é™¢è‡³å…³é‡è¦ã€‚
 
 To **reshape** the comic-book **character** to appeal to Asian and Asian American audiences, Marvel **put the movie in the hands** of Destin Daniel Cretton, a Japanese American director
-ÎªÁËÖØËÜÂş»­ÈËÎïÒÔÎüÒıÑÇÖŞºÍÑÇÒáÃÀ¹ú¹ÛÖÚ£¬ÂşÍş½«Õâ²¿µçÓ°ÍĞ¸¶¸øÈÕÒáÃÀ¹úµ¼ÑİµÂË¹Í¡¡¤µ¤Äá¶û¡¤¿ËÀ×¶Ù
+ä¸ºäº†é‡å¡‘æ¼«ç”»äººç‰©ä»¥å¸å¼•äºšæ´²å’Œäºšè£”ç¾å›½è§‚ä¼—ï¼Œæ¼«å¨å°†è¿™éƒ¨ç”µå½±æ‰˜ä»˜ç»™æ—¥è£”ç¾å›½å¯¼æ¼”å¾·æ–¯æ±€Â·ä¸¹å°¼å°”Â·å…‹é›·é¡¿
 
 But for **blockbusters**, mainland China is the major market to win
-µ«´óÆ¬ÈôÏë»ñÊ¤£¬ÖĞ¹ú´óÂ½ÊÇÖ÷ÒªÊĞ³¡
+ä½†å¤§ç‰‡è‹¥æƒ³è·èƒœï¼Œä¸­å›½å¤§é™†æ˜¯ä¸»è¦å¸‚åœº
 
 Despite its absence, the film has generated **spirited debate** on the Chinese internet
-ËäÈ»ÉĞÎ´ÉÏÓ³£¬Ó°Æ¬ÔÚÖĞ¹ú»¥ÁªÍøÉÏ»¹ÊÇÒıÆğÁËÈÈÒé
+è™½ç„¶å°šæœªä¸Šæ˜ ï¼Œå½±ç‰‡åœ¨ä¸­å›½äº’è”ç½‘ä¸Šè¿˜æ˜¯å¼•èµ·äº†çƒ­è®®
 
-Readers of Shang-Chi comic books in the 1970s saw Asian faces **colored** in **unnatural** oranges and yellows. They saw the main character **shirtless and shoeless**, spouting ¡°fortune-cookie **platitudes in stilted English**,¡± The New York Times noted recently. And then there was Shang-Chi¡¯s father in the comics: He was named Fu Manchu and **caricatured as a power-hungry** Asian man, an image that **harks back** to the stereotypes first pressed upon Asian immigrants a century ago.
-1970Äê´ú¡¶ÉĞÆø¡·Âş»­ÊéµÄ¶ÁÕß»á¿´µ½ÑÇÒáÃæ¿×³ÊÒ»ÖÖ²»×ÔÈ»µÄ³ÈÉ«ºÍ»ÆÉ«¡£ËûÃÇ¿´µ½Ö÷ÒªÈËÎï³àÂãÉÏÉí¡¢¹â×Å½Å£¬ÌÏÌÏ²»¾øµØ¡°ÓÃ×ö×÷µÄÓ¢ÓïËµ×ÅĞÒÔË±ı¸ÉÊ½µÄÌ×»°¡±£¬¡¶Å¦Ô¼Ê±±¨¡·½üÄêµÄÒ»ÆªÎÄÕÂ×¢Òâµ½¡£Âş»­ÖĞ»¹ÓĞÉĞÆøµÄ¸¸Ç×£ºËû½Ğ¸µÂúÖŞ£¬±»Ãè»æ³ÉÒ»¸öÈ¨Óû¼«ÖØµÄÑÇÖŞÄĞÈË£¬ºôÓ¦ÁËÒ»¸öÊÀ¼ÍÇ°ÑÇÖŞÒÆÃñ×îÔçÁôÏÂµÄ¿Ì°åÓ¡Ïó
+Readers of Shang-Chi comic books in the 1970s saw Asian faces **colored** in **unnatural** oranges and yellows. They saw the main character **shirtless and shoeless**, spouting â€œfortune-cookie **platitudes in stilted English**,â€ The New York Times noted recently. And then there was Shang-Chiâ€™s father in the comics: He was named Fu Manchu and **caricatured as a power-hungry** Asian man, an image that **harks back** to the stereotypes first pressed upon Asian immigrants a century ago.
+1970å¹´ä»£ã€Šå°šæ°”ã€‹æ¼«ç”»ä¹¦çš„è¯»è€…ä¼šçœ‹åˆ°äºšè£”é¢å­”å‘ˆä¸€ç§ä¸è‡ªç„¶çš„æ©™è‰²å’Œé»„è‰²ã€‚ä»–ä»¬çœ‹åˆ°ä¸»è¦äººç‰©èµ¤è£¸ä¸Šèº«ã€å…‰ç€è„šï¼Œæ»”æ»”ä¸ç»åœ°â€œç”¨åšä½œçš„è‹±è¯­è¯´ç€å¹¸è¿é¥¼å¹²å¼çš„å¥—è¯â€ï¼Œã€Šçº½çº¦æ—¶æŠ¥ã€‹è¿‘å¹´çš„ä¸€ç¯‡æ–‡ç« æ³¨æ„åˆ°ã€‚æ¼«ç”»ä¸­è¿˜æœ‰å°šæ°”çš„çˆ¶äº²ï¼šä»–å«å‚…æ»¡æ´²ï¼Œè¢«æç»˜æˆä¸€ä¸ªæƒæ¬²æé‡çš„äºšæ´²ç”·äººï¼Œå‘¼åº”äº†ä¸€ä¸ªä¸–çºªå‰äºšæ´²ç§»æ°‘æœ€æ—©ç•™ä¸‹çš„åˆ»æ¿å°è±¡
 
-I think countries that try to **censor** and **cover up** dissenting ideas rather than face them and deal with them are **out of touch with reality**. It¡¯s really **immature and out of touch**.
-ÎÒÈÏÎªÄÇĞ©È¥Éó²éºÍÑÚ¸ÇÒìÒéÏë·¨£¬¶ø²»ÊÇÈ¥Ãæ¶ÔºÍ´¦ÀíÎÊÌâµÄ¹ú¼Ò£¬ÊÇ¸úÏÖÊµÍÑ½ÚµÄ¡£·Ç³£²»³ÉÊìºÍ²»Ã÷¾ÍÀï
+I think countries that try to **censor** and **cover up** dissenting ideas rather than face them and deal with them are **out of touch with reality**. Itâ€™s really **immature and out of touch**.
+æˆ‘è®¤ä¸ºé‚£äº›å»å®¡æŸ¥å’Œæ©ç›–å¼‚è®®æƒ³æ³•ï¼Œè€Œä¸æ˜¯å»é¢å¯¹å’Œå¤„ç†é—®é¢˜çš„å›½å®¶ï¼Œæ˜¯è·Ÿç°å®è„±èŠ‚çš„ã€‚éå¸¸ä¸æˆç†Ÿå’Œä¸æ˜å°±é‡Œ
 
 Still, the movie has found some **resonance** with Chinese audiences who have **managed to see the film**
-Ó°Æ¬ÔÚÒ»Ğ©ÖĞ¹ú¹ÛÖÚÖĞ»¹ÊÇÒıÆğÁË¹²Ãù
+å½±ç‰‡åœ¨ä¸€äº›ä¸­å›½è§‚ä¼—ä¸­è¿˜æ˜¯å¼•èµ·äº†å…±é¸£
 
 The trouble in China may have **unintentionally** helped sales in other markets in Asia
-ÔÚÖĞ¹úÓöµ½µÄÂé·³Ò²ĞíÎŞÒâÖĞ´Ù½øÁËÔÚÑÇÖŞÆäËûÊĞ³¡µÄÏúÁ¿
+åœ¨ä¸­å›½é‡åˆ°çš„éº»çƒ¦ä¹Ÿè®¸æ— æ„ä¸­ä¿ƒè¿›äº†åœ¨äºšæ´²å…¶ä»–å¸‚åœºçš„é”€é‡
 
-¡°It¡¯s **amusing**,¡± said Ms. Yang, the film producer, ¡°that it¡¯s Americans¡¯ turn to read **subtitles** in a Marvel film.¡±
-¡°ÓĞÈ¤µÄÊÇ£¬¡±µçÓ°ÖÆÆ¬ÈË½ğ¡¤ÑîËµ£¬¡°ÂÖµ½ÃÀ¹úÈË¿´ÂşÍşµçÓ°Òª¿´×ÖÄ»ÁË¡£¡±
+â€œItâ€™s **amusing**,â€ said Ms. Yang, the film producer, â€œthat itâ€™s Americansâ€™ turn to read **subtitles** in a Marvel film.â€
+â€œæœ‰è¶£çš„æ˜¯ï¼Œâ€ç”µå½±åˆ¶ç‰‡äººé‡‘Â·æ¨è¯´ï¼Œâ€œè½®åˆ°ç¾å›½äººçœ‹æ¼«å¨ç”µå½±è¦çœ‹å­—å¹•äº†ã€‚â€
 
-China¡¯s push for **self-sufficiency** in a wide range of industries is **dividing** foreign companies
-ÖĞ¹úÔÚ¶à¸öĞĞÒµÍÆ¶¯×ÔÁ¦¸üÉúµÄ×ö·¨ÕıÔÚÍâ¹úÆóÒµµ±ÖĞ´øÀ´·ÖÆç
+Chinaâ€™s push for **self-sufficiency** in a wide range of industries is **dividing** foreign companies
+ä¸­å›½åœ¨å¤šä¸ªè¡Œä¸šæ¨åŠ¨è‡ªåŠ›æ›´ç”Ÿçš„åšæ³•æ­£åœ¨å¤–å›½ä¼ä¸šå½“ä¸­å¸¦æ¥åˆ†æ­§
 
-Two **influential** groups of foreign businesses in China **issued** very different reports on Thursday. They revealed a **striking divide** on whether international companies support China¡¯s push to replace imports with a **self-reliant** emphasis on domestic production.
-ÖÜËÄ£¬Á½¸öÔÚÖĞ¹úÓĞÓ°ÏìÁ¦µÄÍâ¹úÆóÒµÍÅÌå·¢±íÁË½ØÈ»²»Í¬µÄ±¨¸æ¡£ÔÚÊÇ·ñÖ§³ÖÖĞ¹úÍÆ¶¯ÒÔÇ¿µ÷×ÔÁ¦¸üÉúµÄ¹úÄÚÉú²úÈ¡´ú½ø¿ÚµÄÅ¬Á¦·½Ãæ£¬ÕâÁ½·İ±¨¸æ½ÒÊ¾ÁË¹ú¼ÊÆóÒµµÄÃ÷ÏÔ·ÖÆç
+Two **influential** groups of foreign businesses in China **issued** very different reports on Thursday. They revealed a **striking divide** on whether international companies support Chinaâ€™s push to replace imports with a **self-reliant** emphasis on domestic production.
+å‘¨å››ï¼Œä¸¤ä¸ªåœ¨ä¸­å›½æœ‰å½±å“åŠ›çš„å¤–å›½ä¼ä¸šå›¢ä½“å‘è¡¨äº†æˆªç„¶ä¸åŒçš„æŠ¥å‘Šã€‚åœ¨æ˜¯å¦æ”¯æŒä¸­å›½æ¨åŠ¨ä»¥å¼ºè°ƒè‡ªåŠ›æ›´ç”Ÿçš„å›½å†…ç”Ÿäº§å–ä»£è¿›å£çš„åŠªåŠ›æ–¹é¢ï¼Œè¿™ä¸¤ä»½æŠ¥å‘Šæ­ç¤ºäº†å›½é™…ä¼ä¸šçš„æ˜æ˜¾åˆ†æ­§
 
 China has been **heavily subsidizing** its manufacturers of semiconductors, commercial aircraft, electric cars and other products as part of a national effort to **achieve greater self reliance**.
-ÖĞ¹úÒ»Ö±ÔÚ´óÁ¦²¹Ìù°ëµ¼Ìå¡¢ÉÌÓÃ·É»ú¡¢µç¶¯Æû³µºÍÆäËû²úÆ·µÄÖÆÔìÉÌ£¬×÷Îª¼ÓÇ¿×ÔÁ¦¸üÉúÅ¬Á¦µÄÒ»²¿·Ö
+ä¸­å›½ä¸€ç›´åœ¨å¤§åŠ›è¡¥è´´åŠå¯¼ä½“ã€å•†ç”¨é£æœºã€ç”µåŠ¨æ±½è½¦å’Œå…¶ä»–äº§å“çš„åˆ¶é€ å•†ï¼Œä½œä¸ºåŠ å¼ºè‡ªåŠ›æ›´ç”ŸåŠªåŠ›çš„ä¸€éƒ¨åˆ†
 
-¡°There are **troubling signs** that China is **increasingly turning inwards**, as can be seen in its 14th **five-year plan**,¡± the report said, referring to an economic **blueprint** the government released this year. ¡°This **tendency** is **casting considerable doubts** over the country¡¯s future growth **trajectory**.¡±
-±¨¸æ³Æ£¬¡°ÓĞÁîÈË²»°²µÄ¼£Ïó±íÃ÷£¬ÖĞ¹úÔ½À´Ô½ÏòÄÚ×ª£¬ÕâÔÚ¡®Ê®ËÄÎå¡¯¹æ»®ÖĞ¿ÉÒÔ¿´³ö£¬¡±¸Ã¹æ»®Ö¸µÄÊÇÕş¸®½ñÄê·¢²¼µÄ¾­¼ÃÀ¶Í¼¡£¡°ÕâÖÖÇ÷ÊÆÕıÔÚÁîÈË¶Ô¸Ã¹úÎ´À´µÄÔö³¤¹ì¼£²úÉúÏàµ±´óµÄ»³ÒÉ¡£¡±
+â€œThere are **troubling signs** that China is **increasingly turning inwards**, as can be seen in its 14th **five-year plan**,â€ the report said, referring to an economic **blueprint** the government released this year. â€œThis **tendency** is **casting considerable doubts** over the countryâ€™s future growth **trajectory**.â€
+æŠ¥å‘Šç§°ï¼Œâ€œæœ‰ä»¤äººä¸å®‰çš„è¿¹è±¡è¡¨æ˜ï¼Œä¸­å›½è¶Šæ¥è¶Šå‘å†…è½¬ï¼Œè¿™åœ¨â€˜åå››äº”â€™è§„åˆ’ä¸­å¯ä»¥çœ‹å‡ºï¼Œâ€è¯¥è§„åˆ’æŒ‡çš„æ˜¯æ”¿åºœä»Šå¹´å‘å¸ƒçš„ç»æµè“å›¾ã€‚â€œè¿™ç§è¶‹åŠ¿æ­£åœ¨ä»¤äººå¯¹è¯¥å›½æœªæ¥çš„å¢é•¿è½¨è¿¹äº§ç”Ÿç›¸å½“å¤§çš„æ€€ç–‘ã€‚â€
 
-More than European companies, he said, American companies **tend to** focus mainly on the next quarter¡¯s financial results, which are usually best served by staying in China.
-ËûËµ£¬ÓëÅ·ÖŞ¹«Ë¾Ïà±È£¬ÃÀ¹úÆóÒµÍùÍù¸ü¹Ø×¢ÏÂÒ»¼¾¶ÈµÄ²ÆÎñÒµ¼¨£¬¶øÁôÔÚÖĞ¹úÍ¨³£ÊÇ¸üºÃµÄÑ¡Ôñ
+More than European companies, he said, American companies **tend to** focus mainly on the next quarterâ€™s financial results, which are usually best served by staying in China.
+ä»–è¯´ï¼Œä¸æ¬§æ´²å…¬å¸ç›¸æ¯”ï¼Œç¾å›½ä¼ä¸šå¾€å¾€æ›´å…³æ³¨ä¸‹ä¸€å­£åº¦çš„è´¢åŠ¡ä¸šç»©ï¼Œè€Œç•™åœ¨ä¸­å›½é€šå¸¸æ˜¯æ›´å¥½çš„é€‰æ‹©
 
 China is **swelling** into a military superpower. India, Vietnam and Singapore are spending more on defense. Japan is **leaning to** do the same. Now Australia, backed by the United States and Britain, has **catapulted** the military contest with Beijing in Asia into a **tense new phase**.
-ÖĞ¹úÕıÔÚÅòÕÍÎªÒ»¸ö¾üÊÂ³¬¼¶´ó¹ú¡£Ó¡¶È¡¢Ô½ÄÏºÍĞÂ¼ÓÆÂÕıÔÚÔö¼Ó¹ú·À¿ªÖ§¡£ÈÕ±¾Ò²ÇãÏòÓÚÕâÑù×ö¡£ÏÖÔÚ£¬°Ä´óÀûÑÇÔÚÃÀ¹úºÍÓ¢¹úµÄÖ§³ÖÏÂ£¬ÈÃÓëÖĞ¹úµÄ¾üÊÂ¾ºÕùÔÚÑÇÖŞÔ¾ÈëÁËÒ»¸ö½ôÕÅµÄĞÂ½×¶Î¡£
+ä¸­å›½æ­£åœ¨è†¨èƒ€ä¸ºä¸€ä¸ªå†›äº‹è¶…çº§å¤§å›½ã€‚å°åº¦ã€è¶Šå—å’Œæ–°åŠ å¡æ­£åœ¨å¢åŠ å›½é˜²å¼€æ”¯ã€‚æ—¥æœ¬ä¹Ÿå€¾å‘äºè¿™æ ·åšã€‚ç°åœ¨ï¼Œæ¾³å¤§åˆ©äºšåœ¨ç¾å›½å’Œè‹±å›½çš„æ”¯æŒä¸‹ï¼Œè®©ä¸ä¸­å›½çš„å†›äº‹ç«äº‰åœ¨äºšæ´²è·ƒå…¥äº†ä¸€ä¸ªç´§å¼ çš„æ–°é˜¶æ®µã€‚
 
 In response, China may **step up** its military **modernization**, especially in technology able to **stymie** the submarines.
-×÷Îª»ØÓ¦£¬ÖĞ¹úÒ²Ğí»á¼Ó¿ì±¾¹úµÄ¾üÊÂÏÖ´ú»¯£¬ÓÈÆäÊÇÔÚÄÜ¹»×è°­ºË¶¯Á¦Ç±Í§µÄ¼¼Êõ·½Ãæ
+ä½œä¸ºå›åº”ï¼Œä¸­å›½ä¹Ÿè®¸ä¼šåŠ å¿«æœ¬å›½çš„å†›äº‹ç°ä»£åŒ–ï¼Œå°¤å…¶æ˜¯åœ¨èƒ½å¤Ÿé˜»ç¢æ ¸åŠ¨åŠ›æ½œè‰‡çš„æŠ€æœ¯æ–¹é¢
 
 Countries trying to **stay in the middle**, like Indonesia, Malaysia and others, face a potentially more **volatile** region and growing pressure
-ÄÇĞ©ÊÔÍ¼±£³ÖÖĞÁ¢µÄ¹ú¼Ò£¬±ÈÈçÓ¡¶ÈÄáÎ÷ÑÇ¡¢ÂíÀ´Î÷ÑÇµÈ¹ú£¬Ãæ¶ÔµÄÊÇÒ»¸ö¿ÉÄÜ¸ü¼Ó¶¯µ´µÄµØÇø
+é‚£äº›è¯•å›¾ä¿æŒä¸­ç«‹çš„å›½å®¶ï¼Œæ¯”å¦‚å°åº¦å°¼è¥¿äºšã€é©¬æ¥è¥¿äºšç­‰å›½ï¼Œé¢å¯¹çš„æ˜¯ä¸€ä¸ªå¯èƒ½æ›´åŠ åŠ¨è¡çš„åœ°åŒº
 
 The picture is one of three **Anglo-Saxon** countries **drumming up militarily** in the Indo-Pacific region
-ÏÖÔÚµÄÇé¿öÊÇ£¬Èı¸ö°»¸ñÂ³¡ªÈö¿ËÑ·¹ú¼ÒÔÚÓ¡¶È¡ªÌ«Æ½ÑóµØÇø¶µÀ¿¾üÊÂÉúÒâ
+ç°åœ¨çš„æƒ…å†µæ˜¯ï¼Œä¸‰ä¸ªç›æ ¼é²â€”æ’’å…‹é€Šå›½å®¶åœ¨å°åº¦â€”å¤ªå¹³æ´‹åœ°åŒºå…œæ½å†›äº‹ç”Ÿæ„
 
 India, which has **veered** between **border clashes** with China and efforts to **patch up ties** with its neighbor, has been **muted** about the agreement.
-ÔÚÓëÖĞ¹ú·¢Éú±ß½ç³åÍ»ºÍÅ¬Á¦ĞŞ²¹ÓëÁÚ¹ú¹ØÏµÖ®¼ä±ä»¯²»¶¨µÄÓ¡¶ÈÉĞÎ´¶Ô°ÄÓ¢ÃÀĞ­Òé±íÌ¬
+åœ¨ä¸ä¸­å›½å‘ç”Ÿè¾¹ç•Œå†²çªå’ŒåŠªåŠ›ä¿®è¡¥ä¸é‚»å›½å…³ç³»ä¹‹é—´å˜åŒ–ä¸å®šçš„å°åº¦å°šæœªå¯¹æ¾³è‹±ç¾åè®®è¡¨æ€
 
-**Outwardly**, Australia¡¯s plan to eventually build at least eight nuclear-powered **submarines** might seem to make little difference to China¡¯s **calculus**
-´Ó±íÃæÉÏ¿´£¬°Ä´óÀûÑÇ×îÖÕ½¨ÔìÖÁÉÙ°ËËÒºË¶¯Á¦Ç±Í§µÄ¼Æ»®ËÆºõ¶ÔÖĞ¹úµÄËãÅÌÃ»ÓĞÊ²Ã´Ó°Ïì
+**Outwardly**, Australiaâ€™s plan to eventually build at least eight nuclear-powered **submarines** might seem to make little difference to Chinaâ€™s **calculus**
+ä»è¡¨é¢ä¸Šçœ‹ï¼Œæ¾³å¤§åˆ©äºšæœ€ç»ˆå»ºé€ è‡³å°‘å…«è‰˜æ ¸åŠ¨åŠ›æ½œè‰‡çš„è®¡åˆ’ä¼¼ä¹å¯¹ä¸­å›½çš„ç®—ç›˜æ²¡æœ‰ä»€ä¹ˆå½±å“
 
-China Evergrande, the **property giant** whose financial **troubles roiled global markets** earlier this week, left investors in a state of **uncertainty** again on Thursday with **the fate of** an $83 million **interest** payment still **unresolved**. The payment, on Evergrande¡¯s **dollar-denominated bonds**, was **due** Thursday
-±¾ÖÜÔçĞ©Ê±ºò£¬·¿µØ²ú¾ŞÍ·ÖĞ¹úºã´óµÄ²ÆÎñÀ§¾³½ÁÂÒÁËÈ«ÇòÊĞ³¡¡£ÖÜËÄ£¬¸Ã¹«Ë¾8300ÍòÃÀÔªµÄÀûÏ¢Ö§¸¶ÎÊÌâÈÔÎ´½â¾ö£¬ÔÙ´ÎÈÃÍ¶×ÊÕßÏİÈë²»È·¶¨×´Ì¬¡£ºã´óÕâ±ÊÒÔÃÀÔª¼Æ¼ÛµÄÕ®È¯½«ÓÚÖÜËÄµ½ÆÚ
+China Evergrande, the **property giant** whose financial **troubles roiled global markets** earlier this week, left investors in a state of **uncertainty** again on Thursday with **the fate of** an $83 million **interest** payment still **unresolved**. The payment, on Evergrandeâ€™s **dollar-denominated bonds**, was **due** Thursday
+æœ¬å‘¨æ—©äº›æ—¶å€™ï¼Œæˆ¿åœ°äº§å·¨å¤´ä¸­å›½æ’å¤§çš„è´¢åŠ¡å›°å¢ƒæ…ä¹±äº†å…¨çƒå¸‚åœºã€‚å‘¨å››ï¼Œè¯¥å…¬å¸8300ä¸‡ç¾å…ƒçš„åˆ©æ¯æ”¯ä»˜é—®é¢˜ä»æœªè§£å†³ï¼Œå†æ¬¡è®©æŠ•èµ„è€…é™·å…¥ä¸ç¡®å®šçŠ¶æ€ã€‚æ’å¤§è¿™ç¬”ä»¥ç¾å…ƒè®¡ä»·çš„å€ºåˆ¸å°†äºå‘¨å››åˆ°æœŸ
 
-But, this person **noted**, the company¡¯s **debt covenants** provide it with a 30-day **grace period** before the missed payment **results in a default**, which means the **limbo** debtholders find themselves in could continue
-µ«ÕâÎ»ÈËÊ¿Ö¸³ö£¬¸Ã¹«Ë¾µÄÕ®ÎñÆõÔ¼¹æ¶¨£¬ÔÚ´í¹ı¸¶¿îµ¼ÖÂÎ¥Ô¼Ö®Ç°£¬ËüÓĞ30ÌìµÄ¿íÏŞÆÚ£¬ÕâÒâÎ¶×ÅÕ®È¯³ÖÓĞÈËµÄÀ§¾³¿ÉÄÜ»á³ÖĞø´æÔÚ
+But, this person **noted**, the companyâ€™s **debt covenants** provide it with a 30-day **grace period** before the missed payment **results in a default**, which means the **limbo** debtholders find themselves in could continue
+ä½†è¿™ä½äººå£«æŒ‡å‡ºï¼Œè¯¥å…¬å¸çš„å€ºåŠ¡å¥‘çº¦è§„å®šï¼Œåœ¨é”™è¿‡ä»˜æ¬¾å¯¼è‡´è¿çº¦ä¹‹å‰ï¼Œå®ƒæœ‰30å¤©çš„å®½é™æœŸï¼Œè¿™æ„å‘³ç€å€ºåˆ¸æŒæœ‰äººçš„å›°å¢ƒå¯èƒ½ä¼šæŒç»­å­˜åœ¨
 
-The **tension** in global financial markets has **eased more** recently, **in part** as Chinese officials stepped in to **shore up** confidence ¡ª including by **pumping billions of dollars of capital into** the country¡¯s banking system
-È«Çò½ğÈÚÊĞ³¡µÄ½ôÕÅ×î½üÓĞËù»º½â£¬²¿·ÖÔ­ÒòÊÇÖĞ¹ú¹ÙÔ±³öÊÖÌáÕñÊĞ³¡ĞÅĞÄ¡ª¡ª°üÀ¨Ïò¸Ã¹úÒøĞĞÌåÏµ×¢ÈëÊıÊ®ÒÚÃÀÔª×Ê½ğ
+The **tension** in global financial markets has **eased more** recently, **in part** as Chinese officials stepped in to **shore up** confidence â€” including by **pumping billions of dollars of capital into** the countryâ€™s banking system
+å…¨çƒé‡‘èå¸‚åœºçš„ç´§å¼ æœ€è¿‘æœ‰æ‰€ç¼“è§£ï¼Œéƒ¨åˆ†åŸå› æ˜¯ä¸­å›½å®˜å‘˜å‡ºæ‰‹ææŒ¯å¸‚åœºä¿¡å¿ƒâ€”â€”åŒ…æ‹¬å‘è¯¥å›½é“¶è¡Œä½“ç³»æ³¨å…¥æ•°åäº¿ç¾å…ƒèµ„é‡‘
 
 On another key question for investors, whether China will directly **bail Evergrande out**, so far Beijing has remained **tight-lipped** while emphasizing that no Chinese company is **too big to fail**.
-¶ÔÓÚÍ¶×ÊÕßÃæÁÙµÄÁíÒ»¸ö¹Ø¼üÎÊÌâ£¬¼´ÖĞ¹úÊÇ·ñ»áÖ±½Ó¾ÈÖúºã´ó£¬Æù½ñÎªÖ¹£¬±±¾©Ò»Ö±ÊØ¿ÚÈçÆ¿£¬Í¬Ê±Ç¿µ÷Ã»ÓĞÒ»¼ÒÖĞ¹úÆóÒµÊÇ´óµ½²»ÄÜµ¹µÄ
+å¯¹äºæŠ•èµ„è€…é¢ä¸´çš„å¦ä¸€ä¸ªå…³é”®é—®é¢˜ï¼Œå³ä¸­å›½æ˜¯å¦ä¼šç›´æ¥æ•‘åŠ©æ’å¤§ï¼Œè¿„ä»Šä¸ºæ­¢ï¼ŒåŒ—äº¬ä¸€ç›´å®ˆå£å¦‚ç“¶ï¼ŒåŒæ—¶å¼ºè°ƒæ²¡æœ‰ä¸€å®¶ä¸­å›½ä¼ä¸šæ˜¯å¤§åˆ°ä¸èƒ½å€’çš„
 
 He said bondholders and Evergrande may ultimately **work through a near-term agreement** that involves debtholders **loosing a portion** on their Evergrande exposure
-Ëû±íÊ¾£¬Õ®È¯³ÖÓĞÈËºÍºã´ó×îÖÕ¿ÉÄÜ»á´ï³ÉÒ»Ïî¶ÌÆÚĞ­Òé£¬ÆäÖĞ°üÀ¨ÈÃÕ®È¯³ÖÓĞÈË¼õ³Ö²¿·Öºã´ó³¨¿Ú
+ä»–è¡¨ç¤ºï¼Œå€ºåˆ¸æŒæœ‰äººå’Œæ’å¤§æœ€ç»ˆå¯èƒ½ä¼šè¾¾æˆä¸€é¡¹çŸ­æœŸåè®®ï¼Œå…¶ä¸­åŒ…æ‹¬è®©å€ºåˆ¸æŒæœ‰äººå‡æŒéƒ¨åˆ†æ’å¤§æ•å£
 
 Despite the **lingering uncertainty**, stock investors seem to expect a better outcome for Evergrande than they did earlier in the week. Those businesses could still have value even if the **real-estate arm collapses**.
-¾¡¹Ü²»È·¶¨ĞÔÒÀÈ»´æÔÚ£¬¹ÉÆ±Í¶×ÊÕßËÆºõ¶Ôºã´óµÄÔ¤ÆÚ±È±¾ÖÜÔçĞ©Ê±ºòÒªºÃ ¼´Ê¹·¿µØ²úÒµ±ÀÀ££¬ÕâĞ©ÆóÒµÈÔÓĞ¼ÛÖµ¡£
+å°½ç®¡ä¸ç¡®å®šæ€§ä¾ç„¶å­˜åœ¨ï¼Œè‚¡ç¥¨æŠ•èµ„è€…ä¼¼ä¹å¯¹æ’å¤§çš„é¢„æœŸæ¯”æœ¬å‘¨æ—©äº›æ—¶å€™è¦å¥½ å³ä½¿æˆ¿åœ°äº§ä¸šå´©æºƒï¼Œè¿™äº›ä¼ä¸šä»æœ‰ä»·å€¼ã€‚
 
-Noel Quinn, the chief executive of HSBC, **acknowledged** at the same conference that Evergrande¡¯s challenges might **seep further into** the **equity and credit markets**.
-»ã·áÊ×Ï¯Ö´ĞĞ¹ÙÅµ°£¶û¡¤¿üÒòÔÚÍ¬Ò»¸ö»áÒéÉÏ³ĞÈÏ£¬ºã´óµÄÌôÕ½¿ÉÄÜ»á½øÒ»²½ÉøÍ¸µ½¹ÉÆ±ºÍĞÅ´ûÊĞ³¡
+Noel Quinn, the chief executive of HSBC, **acknowledged** at the same conference that Evergrandeâ€™s challenges might **seep further into** the **equity and credit markets**.
+æ±‡ä¸°é¦–å¸­æ‰§è¡Œå®˜è¯ºåŸƒå°”Â·å¥å› åœ¨åŒä¸€ä¸ªä¼šè®®ä¸Šæ‰¿è®¤ï¼Œæ’å¤§çš„æŒ‘æˆ˜å¯èƒ½ä¼šè¿›ä¸€æ­¥æ¸—é€åˆ°è‚¡ç¥¨å’Œä¿¡è´·å¸‚åœº
 
-I¡¯d be **na?ve** to think that the **turmoil** in the market doesn¡¯t have the potential to have **second-order and third-order impact**
-Èç¹ûÈÏÎªÊĞ³¡µÄ¶¯µ´Ã»ÓĞ¿ÉÄÜ²úÉú¶ş½×ºÍÈı½×µÄÓ°Ïì£¬ÄÇ¾ÍÌ«ÌìÕæÁË
+Iâ€™d be **na?ve** to think that the **turmoil** in the market doesnâ€™t have the potential to have **second-order and third-order impact**
+å¦‚æœè®¤ä¸ºå¸‚åœºçš„åŠ¨è¡æ²¡æœ‰å¯èƒ½äº§ç”ŸäºŒé˜¶å’Œä¸‰é˜¶çš„å½±å“ï¼Œé‚£å°±å¤ªå¤©çœŸäº†
 
 China Evergrande Group, the developer, on Wednesday said it **reached a deal** that might give it **some breathing room** in the face of a bond payment due the next day
-¿ª·¢ÉÌÖĞ¹úºã´ó¼¯ÍÅÖÜÈı±íÊ¾£¬¹«Ë¾ÒÑĞ­ÉÌ³öÒ»¸ö·½°¸£¬ÔÚÒ»±ÊÕ®È¯ÖÜËÄµ½ÆÚÇ°»ñµÃÁËÒ»Ğ©´­Ï¢¿Õ¼ä
+å¼€å‘å•†ä¸­å›½æ’å¤§é›†å›¢å‘¨ä¸‰è¡¨ç¤ºï¼Œå…¬å¸å·²åå•†å‡ºä¸€ä¸ªæ–¹æ¡ˆï¼Œåœ¨ä¸€ç¬”å€ºåˆ¸å‘¨å››åˆ°æœŸå‰è·å¾—äº†ä¸€äº›å–˜æ¯ç©ºé—´
 
 Heavy government spending on new rail lines, highways and other projects is keeping the economy **afloat** right now, but may not be **sustainable** through next year.
-Õş¸®ÔÚĞÂÌúÂ·¡¢¸ßËÙ¹«Â·ºÍÆäËûÏîÄ¿ÉÏµÄ¾Ş¶îÖ§³öÄ¿Ç°Ê¹¾­¼ÃµÃÒÔÎ¬³Ö£¬µ«ÕâÖÖ¿ªÖ§¿ÉÄÜÎŞ·¨³ÖĞøµ½Ã÷Äê
+æ”¿åºœåœ¨æ–°é“è·¯ã€é«˜é€Ÿå…¬è·¯å’Œå…¶ä»–é¡¹ç›®ä¸Šçš„å·¨é¢æ”¯å‡ºç›®å‰ä½¿ç»æµå¾—ä»¥ç»´æŒï¼Œä½†è¿™ç§å¼€æ”¯å¯èƒ½æ— æ³•æŒç»­åˆ°æ˜å¹´
 
-While many economists in China are **pouring cold water** over the idea of potential **financial contagion**, they are pointing to the broad weakness in China¡¯s property market, a **mainstay** of the economy, and other long-term threats.
-¾¡¹ÜÖĞ¹úµÄĞí¶à¾­¼ÃÑ§¼Ò¸øºã´ó¿ÉÄÜ´¥·¢½ğÈÚÎ£»úµÄËµ·¨ÆÃÀäË®£¬µ«ËûÃÇÒ²Ö¸³öÁËÖĞ¹ú·¿µØ²úÊĞ³¡ÆÕ±éÆ£ÈíÒÔ¼°ÆäËûµÄ³¤ÆÚÍşĞ²¡£·¿µØ²úÒ»Ö±ÊÇÖĞ¹ú¾­¼ÃµÄÖ§Öù
+While many economists in China are **pouring cold water** over the idea of potential **financial contagion**, they are pointing to the broad weakness in Chinaâ€™s property market, a **mainstay** of the economy, and other long-term threats.
+å°½ç®¡ä¸­å›½çš„è®¸å¤šç»æµå­¦å®¶ç»™æ’å¤§å¯èƒ½è§¦å‘é‡‘èå±æœºçš„è¯´æ³•æ³¼å†·æ°´ï¼Œä½†ä»–ä»¬ä¹ŸæŒ‡å‡ºäº†ä¸­å›½æˆ¿åœ°äº§å¸‚åœºæ™®éç–²è½¯ä»¥åŠå…¶ä»–çš„é•¿æœŸå¨èƒã€‚æˆ¿åœ°äº§ä¸€ç›´æ˜¯ä¸­å›½ç»æµçš„æ”¯æŸ±
 
 On Wednesday, it said in a **vaguely worded** stock market filing that it had reached an arrangement with Chinese investors to make a payment due the following day, without offering details.
-¹«Ë¾ÖÜÈıÔÚÉîÛÚ¹ÉÊĞ·¢²¼µÄÒ»·İ´ë´Çº¬ºıµÄ¹«¸æÖĞËµ£¬½«ÔÚÖÜËÄÈçÆÚÖ§¸¶Ò»±ÊÕ®ÎñµÄÀûÏ¢£¬Ö§¸¶·½Ê½ÓëÖĞ¹úÍ¶×ÊÕßĞ­ÉÌ½â¾ö£¬µ«Ã»ÓĞÌá¹©Ï¸½Ú
+å…¬å¸å‘¨ä¸‰åœ¨æ·±åœ³è‚¡å¸‚å‘å¸ƒçš„ä¸€ä»½æªè¾å«ç³Šçš„å…¬å‘Šä¸­è¯´ï¼Œå°†åœ¨å‘¨å››å¦‚æœŸæ”¯ä»˜ä¸€ç¬”å€ºåŠ¡çš„åˆ©æ¯ï¼Œæ”¯ä»˜æ–¹å¼ä¸ä¸­å›½æŠ•èµ„è€…åå•†è§£å†³ï¼Œä½†æ²¡æœ‰æä¾›ç»†èŠ‚
 
 Chinese policymakers could **conceivably step in** and rescue Evergrande. But that would **run contrary to** their efforts to get companies to borrow less and to **take some of the steam out of** the property market, where apartments for purchase are increasingly **unaffordable** for many Chinese families in a number of markets.
-ÖĞ¹úµÄÕş²ßÖÆ¶¨Õß¿ÉÄÜ»á³öÃæÕü¾Èºã´ó¡£µ«Õâ»áÓëËûÃÇÊÔÍ¼ÈÃÆóÒµÉÙ½èÇ®¡¢¸ø¹ıÈÈµÄ·¿µØ²úÊĞ³¡½µÎÂµÄÅ¬Á¦±³µÀ¶ø³Û¡£²»ÉÙ³ÇÊĞµÄĞí¶àÖĞ¹ú¼ÒÍ¥Ô½À´Ô½Âò²»Æğ×¡·¿¡£
+ä¸­å›½çš„æ”¿ç­–åˆ¶å®šè€…å¯èƒ½ä¼šå‡ºé¢æ‹¯æ•‘æ’å¤§ã€‚ä½†è¿™ä¼šä¸ä»–ä»¬è¯•å›¾è®©ä¼ä¸šå°‘å€Ÿé’±ã€ç»™è¿‡çƒ­çš„æˆ¿åœ°äº§å¸‚åœºé™æ¸©çš„åŠªåŠ›èƒŒé“è€Œé©°ã€‚ä¸å°‘åŸå¸‚çš„è®¸å¤šä¸­å›½å®¶åº­è¶Šæ¥è¶Šä¹°ä¸èµ·ä½æˆ¿ã€‚
 
-People **familiar with** Chinese economic policymaking say that big companies often carry a lot of **collateral** on their books, so officials believe lenders won¡¯t **get fully burned** by a collapse. They also cite the tools Beijing has to **unwind debts gradually** and limit financial disruptions, such as its control of the banking system.
-ÊìÏ¤ÖĞ¹ú¾­¼Ã¾ö²ßµÄÈËÊ¿Ëµ£¬´ó¹«Ë¾µÄÕË²¾ÉÏÍ¨³£ÓĞ´óÁ¿µÖÑºÆ·£¬Òò´Ë¹ÙÔ±ÃÇÈÏÎª£¬ÒøĞĞ²»»áÒò¹«Ë¾ÆÆ²ú¶øÔâÊÜÖØ´´¡£ÕâĞ©ÈËÊ¿»¹Ö¸³ö£¬ÖĞ¹úÕş¸®ÓĞÖğ²½½â³ıÕ®Îñ¡¢ÏŞÖÆ½ğÈÚ»ìÂÒµÄ¹¤¾ß£¬±ÈÈç¶ÔÒøĞĞÌåÏµµÄ¿ØÖÆ
+People **familiar with** Chinese economic policymaking say that big companies often carry a lot of **collateral** on their books, so officials believe lenders wonâ€™t **get fully burned** by a collapse. They also cite the tools Beijing has to **unwind debts gradually** and limit financial disruptions, such as its control of the banking system.
+ç†Ÿæ‚‰ä¸­å›½ç»æµå†³ç­–çš„äººå£«è¯´ï¼Œå¤§å…¬å¸çš„è´¦ç°¿ä¸Šé€šå¸¸æœ‰å¤§é‡æŠµæŠ¼å“ï¼Œå› æ­¤å®˜å‘˜ä»¬è®¤ä¸ºï¼Œé“¶è¡Œä¸ä¼šå› å…¬å¸ç ´äº§è€Œé­å—é‡åˆ›ã€‚è¿™äº›äººå£«è¿˜æŒ‡å‡ºï¼Œä¸­å›½æ”¿åºœæœ‰é€æ­¥è§£é™¤å€ºåŠ¡ã€é™åˆ¶é‡‘èæ··ä¹±çš„å·¥å…·ï¼Œæ¯”å¦‚å¯¹é“¶è¡Œä½“ç³»çš„æ§åˆ¶
 
 **Overcapacity** in many industrial sectors, coupled with a **faltering** construction sector, have prompted economists to predict slower growth
-Ğí¶à¹¤ÒµÁìÓò²úÄÜ¹ıÊ££¬¼ÓÉÏ½¨ÖşĞĞÒµµÄË¥ÍË£¬´ÙÊ¹¾­¼ÃÑ§¼Ò×ö³öÁË¾­¼ÃÔö³¤·Å»ºµÄÔ¤²â
+è®¸å¤šå·¥ä¸šé¢†åŸŸäº§èƒ½è¿‡å‰©ï¼ŒåŠ ä¸Šå»ºç­‘è¡Œä¸šçš„è¡°é€€ï¼Œä¿ƒä½¿ç»æµå­¦å®¶åšå‡ºäº†ç»æµå¢é•¿æ”¾ç¼“çš„é¢„æµ‹
 
 Other questions **hovering** right now over the Chinese economy can be seen in **a handful of** measures
-ÖĞ¹ú¾­¼ÃÈç½ñÃæÁÙµÄÆäËûĞü¶øÎ´¾öµÄÎÊÌâ£¬¿ÉÒÔ´ÓÒ»Ğ©Êı¾İÖĞ¿´µ½
+ä¸­å›½ç»æµå¦‚ä»Šé¢ä¸´çš„å…¶ä»–æ‚¬è€Œæœªå†³çš„é—®é¢˜ï¼Œå¯ä»¥ä»ä¸€äº›æ•°æ®ä¸­çœ‹åˆ°
 
-The **nosedive** in **freight truck** production and sales is about much more than lost economic confidence, however. It also shows how China¡¯s policies over the past few years **temporarily inflated** demand and produced **severe overcapacity**.
-È»¶ø£¬»õ³µ²úÁ¿ºÍÏúÊÛµÄ¼±¾çÏÂ½µ²»½ö·´Ó³ÁË¾­¼ÃĞÅĞÄµÄÉ¥Ê§£¬Ò²±íÃ÷ÖĞ¹ú¹ıÈ¥¼¸ÄêµÄÕş²ßÁÙÊ±ÍÆ¸ßÁËĞèÇó£¬Ôì³ÉÁËÑÏÖØµÄ²úÄÜ¹ıÊ£
+The **nosedive** in **freight truck** production and sales is about much more than lost economic confidence, however. It also shows how Chinaâ€™s policies over the past few years **temporarily inflated** demand and produced **severe overcapacity**.
+ç„¶è€Œï¼Œè´§è½¦äº§é‡å’Œé”€å”®çš„æ€¥å‰§ä¸‹é™ä¸ä»…åæ˜ äº†ç»æµä¿¡å¿ƒçš„ä¸§å¤±ï¼Œä¹Ÿè¡¨æ˜ä¸­å›½è¿‡å»å‡ å¹´çš„æ”¿ç­–ä¸´æ—¶æ¨é«˜äº†éœ€æ±‚ï¼Œé€ æˆäº†ä¸¥é‡çš„äº§èƒ½è¿‡å‰©
 
 **Stringent** new standards for air pollution took effect for freight trucks manufactured beginning July 1. Stricter safety standards are also being **phased in**, such as a requirement that **onboard** software and sensors warn drivers when they start to **drift out of** their traffic lanes.
-ÑÏ¸ñµÄ»õÔË¿¨³µ¿ÕÆøÎÛÈ¾ĞÂ±ê×¼ÒÑÔÚ½ñÄê7ÔÂ1ÈÕÉúĞ§¡£¸üÑÏ¸ñµÄ°²È«±ê×¼Ò²ÔÚÖğ²½ÊµÊ©ÖĞ£¬±ÈÈç³µÔØÈí¼şºÍ´«¸ĞÆ÷ÔÚË¾»ú¿ªÊ¼Æ«Àë³µµÀÊ±±ØĞë·¢³ö¾¯¸æ¡£
+ä¸¥æ ¼çš„è´§è¿å¡è½¦ç©ºæ°”æ±¡æŸ“æ–°æ ‡å‡†å·²åœ¨ä»Šå¹´7æœˆ1æ—¥ç”Ÿæ•ˆã€‚æ›´ä¸¥æ ¼çš„å®‰å…¨æ ‡å‡†ä¹Ÿåœ¨é€æ­¥å®æ–½ä¸­ï¼Œæ¯”å¦‚è½¦è½½è½¯ä»¶å’Œä¼ æ„Ÿå™¨åœ¨å¸æœºå¼€å§‹åç¦»è½¦é“æ—¶å¿…é¡»å‘å‡ºè­¦å‘Šã€‚
 
-China¡¯s freight truck manufacturing capacity has **ballooned** to 1.6 million trucks a year in a market where long-term sales estimates are far fewer than a million trucks a year. Truck dealerships across China are now **clogged with** rows of unsold trucks.
-ÖĞ¹ú»õÔË¿¨³µµÄÉú²úÄÜÁ¦ÒÑ¾­ÅòÕÍµ½Ã¿Äê160ÍòÁ¾£¬¶øÖĞ¹úÊĞ³¡µÄ³¤ÆÚÏúÊÛÔ¤ÆÚÔ¶µÍÓÚÃ¿Äê100ÍòÁ¾¡£ÖĞ¹ú¸÷µØµÄ¿¨³µ¾­ÏúÉÌÊÖÖĞÏÖÔÚ¶¼ÓĞ´óÁ¿µÄ´ıÊÛ¿¨³µ
+Chinaâ€™s freight truck manufacturing capacity has **ballooned** to 1.6 million trucks a year in a market where long-term sales estimates are far fewer than a million trucks a year. Truck dealerships across China are now **clogged with** rows of unsold trucks.
+ä¸­å›½è´§è¿å¡è½¦çš„ç”Ÿäº§èƒ½åŠ›å·²ç»è†¨èƒ€åˆ°æ¯å¹´160ä¸‡è¾†ï¼Œè€Œä¸­å›½å¸‚åœºçš„é•¿æœŸé”€å”®é¢„æœŸè¿œä½äºæ¯å¹´100ä¸‡è¾†ã€‚ä¸­å›½å„åœ°çš„å¡è½¦ç»é”€å•†æ‰‹ä¸­ç°åœ¨éƒ½æœ‰å¤§é‡çš„å¾…å”®å¡è½¦
 
 An **acute** shortage of computer chips has separately affected the production and sale of cars in China, **muddying** the picture. The market for car sales is generally in a **downturn**, partly because of the chip shortage
-¼ÆËã»úĞ¾Æ¬µÄÑÏÖØ¶ÌÈ±Ò²Ó°ÏìÁËÖĞ¹úÆû³µµÄÉú²úºÍÏúÊÛ£¬ÈÃÇ°¾°±äµÃÄ£ºı²»Çå Æû³µÏúÊÛÊĞ³¡±È½ÏµÍÃÔ£¬²¿·ÖÓÉÓÚĞ¾Æ¬²»×ã
+è®¡ç®—æœºèŠ¯ç‰‡çš„ä¸¥é‡çŸ­ç¼ºä¹Ÿå½±å“äº†ä¸­å›½æ±½è½¦çš„ç”Ÿäº§å’Œé”€å”®ï¼Œè®©å‰æ™¯å˜å¾—æ¨¡ç³Šä¸æ¸… æ±½è½¦é”€å”®å¸‚åœºæ¯”è¾ƒä½è¿·ï¼Œéƒ¨åˆ†ç”±äºèŠ¯ç‰‡ä¸è¶³
 
 While China faces broad overcapacity and other worries, many economists in China still express more confidence than economists **elsewhere** that the country can **weather its troubles**.
-¾¡¹ÜÖĞ¹úÃæÁÙ¹ã·ºµÄ²úÄÜ¹ıÊ£ºÍÆäËûµ£ÓÇ£¬ÖĞ¹úµÄĞí¶à¾­¼ÃÑ§¼ÒÈÔ±ÈÆäËû¹ú¼ÒµÄ¾­¼ÃÑ§¼Ò¶ÔÖĞ¹úÄÜ¹»¶È¹ıÄÑ¹Ø¸üÓĞĞÅĞÄ
+å°½ç®¡ä¸­å›½é¢ä¸´å¹¿æ³›çš„äº§èƒ½è¿‡å‰©å’Œå…¶ä»–æ‹…å¿§ï¼Œä¸­å›½çš„è®¸å¤šç»æµå­¦å®¶ä»æ¯”å…¶ä»–å›½å®¶çš„ç»æµå­¦å®¶å¯¹ä¸­å›½èƒ½å¤Ÿåº¦è¿‡éš¾å…³æ›´æœ‰ä¿¡å¿ƒ
 
 We **settled into** the now familiar contest between democratic liberalism and authoritarianism.
-ÎÒÃÇÏİÈëÁË×ÔÓÉÖ÷ÒåºÍÍşÈ¨Ö÷ÒåÖ®¼äµÄ¾ºÕù£¬ÕâÖÖ¾ºÕùÏÖÔÚÈËÃÇÒÑ¾­ºÜÊìÏ¤ÁË
+æˆ‘ä»¬é™·å…¥äº†è‡ªç”±ä¸»ä¹‰å’Œå¨æƒä¸»ä¹‰ä¹‹é—´çš„ç«äº‰ï¼Œè¿™ç§ç«äº‰ç°åœ¨äººä»¬å·²ç»å¾ˆç†Ÿæ‚‰äº†
 
 They used **religious symbols** as nationalist identity markers and **rallying cries**. They **unified the masses** behind them by **whipping up perpetual culture wars**. They **reframed** the global debate: it was between the **moral decadence** of Western elites and traditional values and superior spirituality of the **good normal** people in their own homelands.
-ËûÃÇÊ¹ÓÃ×Ú½Ì·ûºÅ×÷Îª?×åÖ÷ÒåµÄÉí·İ±êÖ¾ºÍÕ½¶·¿ÚºÅ¡£ËûÃÇÍ¨¹ıÎŞĞİÖ¹µÄÎÄ»¯Õ½Õù£¬½«ÈºÖÚÍÅ½áÔÚËûÃÇÉíºó¡£ËûÃÇÖØĞÂ¶¨ÒåÁËÈ«Çò±çÂÛ: ÕâÊÇÎ÷·½¾«Ó¢µÄµÀµÂ¶éÂä£¬Óë´«Í³¼ÛÖµ¹ÛÒÔ¼°±¾¹úÉÆÁ¼ÆÕÍ¨ÈËµÄÓÅÔ½¾«ÉñÖ®¼äµÄÕùÂÛ¡£
+ä»–ä»¬ä½¿ç”¨å®—æ•™ç¬¦å·ä½œä¸º?æ—ä¸»ä¹‰çš„èº«ä»½æ ‡å¿—å’Œæˆ˜æ–—å£å·ã€‚ä»–ä»¬é€šè¿‡æ— ä¼‘æ­¢çš„æ–‡åŒ–æˆ˜äº‰ï¼Œå°†ç¾¤ä¼—å›¢ç»“åœ¨ä»–ä»¬èº«åã€‚ä»–ä»¬é‡æ–°å®šä¹‰äº†å…¨çƒè¾©è®º: è¿™æ˜¯è¥¿æ–¹ç²¾è‹±çš„é“å¾·å •è½ï¼Œä¸ä¼ ç»Ÿä»·å€¼è§‚ä»¥åŠæœ¬å›½å–„è‰¯æ™®é€šäººçš„ä¼˜è¶Šç²¾ç¥ä¹‹é—´çš„äº‰è®ºã€‚
 
 The 21st century is turning into an **era of globe-spanning holy wars** at a time when the **appeal** of actual religion seems to be **on the wane**.
-ÔÚÏÖÊµ×Ú½ÌµÄÎüÒıÁ¦ËÆºõÔÚ¼õÈõµÄÊ±ºò£¬21ÊÀ¼ÍÕıÔÚ±ä³ÉÒ»¸ö¿çÔ½È«ÇòµÄÊ¥Õ½Ê±´ú
+åœ¨ç°å®å®—æ•™çš„å¸å¼•åŠ›ä¼¼ä¹åœ¨å‡å¼±çš„æ—¶å€™ï¼Œ21ä¸–çºªæ­£åœ¨å˜æˆä¸€ä¸ªè·¨è¶Šå…¨çƒçš„åœ£æˆ˜æ—¶ä»£
 
 Mao Zedong regarded **prerevolutionary** China **with contempt**. 
-Ã«Ôó¶«¶Ô¸ïÃüÇ°µÄÖĞ¹ú²»Ğ¼Ò»¹Ë
+æ¯›æ³½ä¸œå¯¹é©å‘½å‰çš„ä¸­å›½ä¸å±‘ä¸€é¡¾
 
-Last week, the Chinese government ordered a **boycott** of **¡°sissy pants¡± celebrities**. These are the **delicate-looking** male stars who display gentle **personalities** and are accused of **feminizing Chinese manhood**.
-ÉÏÖÜ£¬ÖĞ¹úÕş¸®ÏÂÁîµÖÖÆ¡°ÄïÅÚ¡±Ã÷ĞÇ¡£ÕâĞ©?Ïà¾«ÖÂµÄÄĞÃ÷ĞÇ±íÏÖ³öÎÂÈáµÄÆøÖÊ£¬ËûÃÇ±»Ö¸ÔğÁîÖĞ¹úµÄÄĞ×ÓÆø¸Å±äµÃÅ®ĞÔ»¯
+Last week, the Chinese government ordered a **boycott** of **â€œsissy pantsâ€ celebrities**. These are the **delicate-looking** male stars who display gentle **personalities** and are accused of **feminizing Chinese manhood**.
+ä¸Šå‘¨ï¼Œä¸­å›½æ”¿åºœä¸‹ä»¤æŠµåˆ¶â€œå¨˜ç‚®â€æ˜æ˜Ÿã€‚è¿™äº›?ç›¸ç²¾è‡´çš„ç”·æ˜æ˜Ÿè¡¨ç°å‡ºæ¸©æŸ”çš„æ°”è´¨ï¼Œä»–ä»¬è¢«æŒ‡è´£ä»¤ä¸­å›½çš„ç”·å­æ°”æ¦‚å˜å¾—å¥³æ€§åŒ–
 
-The Chinese internet is **apparently now rife with** attacks on the **decadent** ¡°white left¡± ¡ª educated American and European progressives who **champion feminism**, L.G.B.T.Q. rights **and such**.
-ÖĞ¹ú»¥ÁªÍøÏÖÔÚÏÔÈ»³ä³â×Å¶ÔÍÇ·ÏµÄ¡°°××ó¡±µÄ¹¥»÷¡ª¡ª Õâ¸ö´ÊÊÇÖ¸ÊÜ¹ı½ÌÓıµÄÃÀ¹úºÍÅ·ÖŞ½ø²½ÈËÊ¿£¬ËûÃÇÊÇÅ®È¨Ö÷ÒåºÍLGBTQÈ¨ÀûµÈµÈµÄ³«µ¼Õß¡£
+The Chinese internet is **apparently now rife with** attacks on the **decadent** â€œwhite leftâ€ â€” educated American and European progressives who **champion feminism**, L.G.B.T.Q. rights **and such**.
+ä¸­å›½äº’è”ç½‘ç°åœ¨æ˜¾ç„¶å……æ–¥ç€å¯¹é¢“åºŸçš„â€œç™½å·¦â€çš„æ”»å‡»â€”â€” è¿™ä¸ªè¯æ˜¯æŒ‡å—è¿‡æ•™è‚²çš„ç¾å›½å’Œæ¬§æ´²è¿›æ­¥äººå£«ï¼Œä»–ä»¬æ˜¯å¥³æƒä¸»ä¹‰å’ŒLGBTQæƒåˆ©ç­‰ç­‰çš„å€¡å¯¼è€…ã€‚
 
-They are **motivated by nativist** and anti-immigrant attitudes and then **latch onto** Christian symbols to separate ¡°them¡± from ¡°us.¡± In Germany, for example, **the far-right group** that aggressively **plays up** its Christian identity **underperforms** among voters who are actually religious.
-ËûÃÇÊÜ±¾ÍÁÖ÷ÒåºÍ·´ÒÆ?Ì¬¶ÈÇı¶¯£¬È»ºó×¥×¡»ù¶½½ÌµÄÏóÕ÷£¬°Ñ¡°ËûÃÇ¡±ºÍ¡°ÎÒÃÇ¡±·Ö¿ª¡£ÀıÈç£¬ÔÚµÂ¹ú£¬¼¤½øµØĞûÑïÆä»ù¶½½ÌÉí·İµÄ¼«ÓÒÒíÍÅÌåÔÚÕæÕıÓĞ×Ú½ÌĞÅÑöµÄÑ¡¾ÙÖĞ±íÏÖ²»¼Ñ
+They are **motivated by nativist** and anti-immigrant attitudes and then **latch onto** Christian symbols to separate â€œthemâ€ from â€œus.â€ In Germany, for example, **the far-right group** that aggressively **plays up** its Christian identity **underperforms** among voters who are actually religious.
+ä»–ä»¬å—æœ¬åœŸä¸»ä¹‰å’Œåç§»?æ€åº¦é©±åŠ¨ï¼Œç„¶åæŠ“ä½åŸºç£æ•™çš„è±¡å¾ï¼ŒæŠŠâ€œä»–ä»¬â€å’Œâ€œæˆ‘ä»¬â€åˆ†å¼€ã€‚ä¾‹å¦‚ï¼Œåœ¨å¾·å›½ï¼Œæ¿€è¿›åœ°å®£æ‰¬å…¶åŸºç£æ•™èº«ä»½çš„æå³ç¿¼å›¢ä½“åœ¨çœŸæ­£æœ‰å®—æ•™ä¿¡ä»°çš„é€‰ä¸¾ä¸­è¡¨ç°ä¸ä½³
 
 These **religiously cloaked** authoritarians have naturally **provoked** an anti-religious **backlash**. The **pseudo-religious** authoritarians have raised the **moral stakes**
-ÕâĞ©Åû×Å×Ú½ÌÍâÒÂµÄÍşÈ¨Ö÷ÒåÕß×ÔÈ»¼¤ÆğÁË·´×Ú½ÌµÄ·´µ¯, Î±×Ú½ÌÍşÈ¨Ö÷ÒåÕßÌá¸ßÁËµÀµÂ·çÏÕ
+è¿™äº›æŠ«ç€å®—æ•™å¤–è¡£çš„å¨æƒä¸»ä¹‰è€…è‡ªç„¶æ¿€èµ·äº†åå®—æ•™çš„åå¼¹, ä¼ªå®—æ•™å¨æƒä¸»ä¹‰è€…æé«˜äº†é“å¾·é£é™©
 
 Those of us on the side of Western liberalism have no choice but to fight this on the spiritual and **cultural plane** as well, to show that **pluralism** is the opposite of **decadence**, but is a spiritual-rich, **practically effective** way to **lift human dignity and run a coherent society**.
-ÕâĞ©Õ¾ÔÚ×ÔÓÉÖ÷ÒåÒ»±ßµÄÈË±ğÎŞÑ¡Ôñ£¬Ö»ÄÜÔÚ¾«ÉñºÍÎÄ»¯²ãÃæÉÏÓëÖ®¶·Õù£¬ÒÔ±íÃ÷¶àÔª»¯ÊÇÍÇ·ÏµÄ·´Ãæ£¬ËüÊÇÒ»ÖÖ¾«Éñ·á¸»¡¢Êµ¼ÊÓĞĞ§µÄ·½Ê½£¬¿ÉÒÔÌáÉıÈËÀà×ğÑÏ£¬²¢ÔËĞĞÒ»¸öĞ­µ÷µÄÉç»á
+è¿™äº›ç«™åœ¨è‡ªç”±ä¸»ä¹‰ä¸€è¾¹çš„äººåˆ«æ— é€‰æ‹©ï¼Œåªèƒ½åœ¨ç²¾ç¥å’Œæ–‡åŒ–å±‚é¢ä¸Šä¸ä¹‹æ–—äº‰ï¼Œä»¥è¡¨æ˜å¤šå…ƒåŒ–æ˜¯é¢“åºŸçš„åé¢ï¼Œå®ƒæ˜¯ä¸€ç§ç²¾ç¥ä¸°å¯Œã€å®é™…æœ‰æ•ˆçš„æ–¹å¼ï¼Œå¯ä»¥æå‡äººç±»å°Šä¸¥ï¼Œå¹¶è¿è¡Œä¸€ä¸ªåè°ƒçš„ç¤¾ä¼š
 
-The war in Afghanistan wasn¡¯t a failure. It was a **massive success** ¡ª for those who **made a fortune off** it.
-°¢¸»º¹Õ½Õù²»ÊÇÒ»³¡Ê§°Ü£¬¶øÊÇÒ»³¡¾Ş´óµÄ³É¹¦¡ª¡ª¶ÔÄÇĞ©´ÓÖĞ·¢²ÆµÄÈËÀ´Ëµ¡£
+The war in Afghanistan wasnâ€™t a failure. It was a **massive success** â€” for those who **made a fortune off** it.
+é˜¿å¯Œæ±—æˆ˜äº‰ä¸æ˜¯ä¸€åœºå¤±è´¥ï¼Œè€Œæ˜¯ä¸€åœºå·¨å¤§çš„æˆåŠŸâ€”â€”å¯¹é‚£äº›ä»ä¸­å‘è´¢çš„äººæ¥è¯´ã€‚
 
-Consider the case of Hikmatullah Shadman, who was just a teenager when American Special Forces **rolled into** Kandahar **on the heels of** Sept. 11. They hired him as an interpreter, paying him up to $1,500 a month ¡ª 20 times the salary of a local police officer, **according to a profile** of him in The New Yorker. By his late 20s, he owned a trucking company that supplied U.S. military bases, earning him more than $160 million.
-ÒÔÏ£¿ËÍ¼À­¡¤É³µÂÂüÎªÀı¡£ÃÀ¹úÌØÖÖ²¿¶ÓÔÚ 9¡¤11ÊÂ¼ş·¢Éúºó½øÈë¿²´ó¹şÊ±£¬Ëû»¹Ö»ÊÇÒ»¸öÊ®¼¸ËêµÄÉÙÄê¡£¾İ¡¶Å¦Ô¼¿Í¡·ÉÏÒ»Æª¹ØÓÚËûµÄÈËÎïÌØĞ´£¬ÌØÖÖ²¿¶Ó¹ÍÁËËûÀ´µ±·­Òë£¬Ã¿ÔÂ¸¶¸øËû×î¸ß1500ÃÀÔª£¬ÊÇµ±µØ¾¯²ì¹¤×ÊµÄ20±¶¡£Ëû¿ì30ËêÊ±ÒÑÓµÓĞÒ»¼ÒÎªÃÀ¹ú¾üÊÂ»ùµØÌá¹©Îï×ÊµÄ¿¨³µÔËÊä¹«Ë¾£¬ÕâÈÃËû×¬ÁËÓâ1.6ÒÚÃÀÔª¡£
+Consider the case of Hikmatullah Shadman, who was just a teenager when American Special Forces **rolled into** Kandahar **on the heels of** Sept. 11. They hired him as an interpreter, paying him up to $1,500 a month â€” 20 times the salary of a local police officer, **according to a profile** of him in The New Yorker. By his late 20s, he owned a trucking company that supplied U.S. military bases, earning him more than $160 million.
+ä»¥å¸Œå…‹å›¾æ‹‰Â·æ²™å¾·æ›¼ä¸ºä¾‹ã€‚ç¾å›½ç‰¹ç§éƒ¨é˜Ÿåœ¨ 9Â·11äº‹ä»¶å‘ç”Ÿåè¿›å…¥åå¤§å“ˆæ—¶ï¼Œä»–è¿˜åªæ˜¯ä¸€ä¸ªåå‡ å²çš„å°‘å¹´ã€‚æ®ã€Šçº½çº¦å®¢ã€‹ä¸Šä¸€ç¯‡å…³äºä»–çš„äººç‰©ç‰¹å†™ï¼Œç‰¹ç§éƒ¨é˜Ÿé›‡äº†ä»–æ¥å½“ç¿»è¯‘ï¼Œæ¯æœˆä»˜ç»™ä»–æœ€é«˜1500ç¾å…ƒï¼Œæ˜¯å½“åœ°è­¦å¯Ÿå·¥èµ„çš„20å€ã€‚ä»–å¿«30å²æ—¶å·²æ‹¥æœ‰ä¸€å®¶ä¸ºç¾å›½å†›äº‹åŸºåœ°æä¾›ç‰©èµ„çš„å¡è½¦è¿è¾“å…¬å¸ï¼Œè¿™è®©ä»–èµšäº†é€¾1.6äº¿ç¾å…ƒã€‚
 
 If a **small fry** like Shadman could **get so rich off** the war on terror, imagine how much Gul Agha Sherzai, a **big-time** warlord-turned- governor, has **raked in** since he helped the C.I.A. run the Taliban out of town
-Èç¹ûÏñÉ³µÂÂüÕâÑùµÄĞ¡ÈËÎï¶¼ÄÜ´Ó·´¿ÖÕ½ÕùÖĞ×¬ÕâÃ´Ò»´ó±ÊÇ®µÄ»°£¬ ÏëÏóÒ»ÏÂ£¬¾ü·§³öÉíµÄÊ¡³¤¹Å¶û¡¤°¢åÈ¡¤Ğ»¶ûÔúÒÁÕâÑùµÄ´óÈËÎï£¬×Ô°ïÖúÖĞÑëÇé±¨¾Ö°ÑËşÀû°à¸Ï³ö³ÇÒÔÀ´ÒÑ¾­×¬ÁË¶àÉÙÇ®
+å¦‚æœåƒæ²™å¾·æ›¼è¿™æ ·çš„å°äººç‰©éƒ½èƒ½ä»åææˆ˜äº‰ä¸­èµšè¿™ä¹ˆä¸€å¤§ç¬”é’±çš„è¯ï¼Œ æƒ³è±¡ä¸€ä¸‹ï¼Œå†›é˜€å‡ºèº«çš„çœé•¿å¤å°”Â·é˜¿è¿¦Â·è°¢å°”æ‰ä¼Šè¿™æ ·çš„å¤§äººç‰©ï¼Œè‡ªå¸®åŠ©ä¸­å¤®æƒ…æŠ¥å±€æŠŠå¡”åˆ©ç­èµ¶å‡ºåŸä»¥æ¥å·²ç»èµšäº†å¤šå°‘é’±
 
-Nobody knows how much he is worth, but it is clearly hundreds of millions ¡ª enough for him to talk about a $40,000 **shopping spree** in Germany as if he were spending **pocket change**.
-Ã»ÈËÖªµÀËûÉí¼Û¼¸ºÎ£¬µ«ÏÔÈ»ÓĞÊıÒÚÃÀÔª£¬¶àµ½×ã¹»ÈÃËû°ÑÒ»´ÎÔÚµÂ¹úµÄ4ÍòÃÀÔª¹ºÎï¿ñ»¶ËµµÃÏñÊÇ»¨¿Ú´üÀïµÄÁãÇ®ËÆµÄ
+Nobody knows how much he is worth, but it is clearly hundreds of millions â€” enough for him to talk about a $40,000 **shopping spree** in Germany as if he were spending **pocket change**.
+æ²¡äººçŸ¥é“ä»–èº«ä»·å‡ ä½•ï¼Œä½†æ˜¾ç„¶æœ‰æ•°äº¿ç¾å…ƒï¼Œå¤šåˆ°è¶³å¤Ÿè®©ä»–æŠŠä¸€æ¬¡åœ¨å¾·å›½çš„4ä¸‡ç¾å…ƒè´­ç‰©ç‹‚æ¬¢è¯´å¾—åƒæ˜¯èŠ±å£è¢‹é‡Œçš„é›¶é’±ä¼¼çš„
 
-Look under the **hood of the ¡°good war,¡±** and this is what you see. Afghanistan was supposed to be an honorable war to **neutralize** terrorists and **rescue** girls from the Taliban. It was supposed to be a war that we **woulda coulda shoulda** won, had it not been for the **distraction** of Iraq, and the hopeless corruption of the Afghan government. But let¡¯s **get real**. Corruption wasn¡¯t a **design flaw** in the war. It was a design feature. We didn¡¯t **topple** the Taliban. We paid warlords **bags of** cash to do it.
-Õâ¾ÍÊÇÕâ³¡¡°ÕıÒåÕ½Õù¡±Íâ±íÏÂµÄÇé¿ö¡£°¢¸»º¹Õ½Õù±¾Ó¦ÊÇÒ»³¡ÏûÃğ¿Ö²À ·Ö×Ó¡¢½«Å®º¢´ÓËşÀû°àÊÖÏÂ½â¾È³öÀ´µÄ¹âÈÙÕ½Õù¡£Õâ±¾Ó¦ÊÇÒ»³¡ÎÒÃÇ±¾»á¡¢±¾¿É¡¢±¾¸Ã´òÓ®µÄÕ½Õù£¬Èç¹û²»ÊÇÒòÎªÎÒÃÇ±»ÒÁÀ­¿Ë·ÖÉ¢ÁË×¢ÒâÁ¦£¬Èç¹û²»ÊÇÒòÎª°¢¸»º¹Õş¸®¸¯°ÜµÃÎŞ¿É¾ÈÒ©¡£µ«ÈÃÎÒÃÇÏÖÊµÒ»µã°É¡£¸¯°Ü²»ÊÇÕâ³¡Õ½ÕùµÄÒ»¸öÉè¼ÆÈ±Ïİ£¬¶øÊÇÒ»¸öÉè¼ÆÌØÉ«¡£ÎÒÃÇ×Ô¼ºÃ»ÓĞÍÆ·­ËşÀû°à¡£ÎÒÃÇ»¨´ó¼ÛÇ®¹Í¾ü·§À´ÍÆ·­ËşÀû°à
+Look under the **hood of the â€œgood war,â€** and this is what you see. Afghanistan was supposed to be an honorable war to **neutralize** terrorists and **rescue** girls from the Taliban. It was supposed to be a war that we **woulda coulda shoulda** won, had it not been for the **distraction** of Iraq, and the hopeless corruption of the Afghan government. But letâ€™s **get real**. Corruption wasnâ€™t a **design flaw** in the war. It was a design feature. We didnâ€™t **topple** the Taliban. We paid warlords **bags of** cash to do it.
+è¿™å°±æ˜¯è¿™åœºâ€œæ­£ä¹‰æˆ˜äº‰â€å¤–è¡¨ä¸‹çš„æƒ…å†µã€‚é˜¿å¯Œæ±—æˆ˜äº‰æœ¬åº”æ˜¯ä¸€åœºæ¶ˆç­ææ€– åˆ†å­ã€å°†å¥³å­©ä»å¡”åˆ©ç­æ‰‹ä¸‹è§£æ•‘å‡ºæ¥çš„å…‰è£æˆ˜äº‰ã€‚è¿™æœ¬åº”æ˜¯ä¸€åœºæˆ‘ä»¬æœ¬ä¼šã€æœ¬å¯ã€æœ¬è¯¥æ‰“èµ¢çš„æˆ˜äº‰ï¼Œå¦‚æœä¸æ˜¯å› ä¸ºæˆ‘ä»¬è¢«ä¼Šæ‹‰å…‹åˆ†æ•£äº†æ³¨æ„åŠ›ï¼Œå¦‚æœä¸æ˜¯å› ä¸ºé˜¿å¯Œæ±—æ”¿åºœè…è´¥å¾—æ— å¯æ•‘è¯ã€‚ä½†è®©æˆ‘ä»¬ç°å®ä¸€ç‚¹å§ã€‚è…è´¥ä¸æ˜¯è¿™åœºæˆ˜äº‰çš„ä¸€ä¸ªè®¾è®¡ç¼ºé™·ï¼Œè€Œæ˜¯ä¸€ä¸ªè®¾è®¡ç‰¹è‰²ã€‚æˆ‘ä»¬è‡ªå·±æ²¡æœ‰æ¨ç¿»å¡”åˆ©ç­ã€‚æˆ‘ä»¬èŠ±å¤§ä»·é’±é›‡å†›é˜€æ¥æ¨ç¿»å¡”åˆ©ç­
 
 Westerners often **scratched their heads** at the **persistent lack of capacity** in Afghan governing institutions, but the **sophisticated** networks controlling those institutions never **intended to govern**. Their objective was **self-enrichment**. And at that task, they proved **spectacularly** successful.
-Î÷·½ÈË¾­³£¶Ô°¢¸»º¹Õş¸®»ú¹¹µÄ³ÖĞøÎŞÄÜ¿àË¼²»µÃÆä½â, È»¶ø¿ØÖÆÕâĞ©»ú¹¹µÄ¸´ÔÓ¹ØÏµÍø´ÓÀ´¶¼Ã»´òËãÖÎÀí¹ú¼Ò¡£ËûÃÇµÄÄ¿±êÊÇÎª×Ô¼ºÁ²²Æ¡£ÔÚÕâ¸öÈÎÎñÉÏ£¬ËûÃÇ±»Ö¤Ã÷È¡µÃÁËÁË²»ÆğµÄ³É¹¦
+è¥¿æ–¹äººç»å¸¸å¯¹é˜¿å¯Œæ±—æ”¿åºœæœºæ„çš„æŒç»­æ— èƒ½è‹¦æ€ä¸å¾—å…¶è§£, ç„¶è€Œæ§åˆ¶è¿™äº›æœºæ„çš„å¤æ‚å…³ç³»ç½‘ä»æ¥éƒ½æ²¡æ‰“ç®—æ²»ç†å›½å®¶ã€‚ä»–ä»¬çš„ç›®æ ‡æ˜¯ä¸ºè‡ªå·±æ•›è´¢ã€‚åœ¨è¿™ä¸ªä»»åŠ¡ä¸Šï¼Œä»–ä»¬è¢«è¯æ˜å–å¾—äº†äº†ä¸èµ·çš„æˆåŠŸ
 
-In April 2002, Defense Secretary Donald Rumsfeld **dictated a top-secret memo** ordering aides to **come up with** ¡°a plan for how we are going to deal with each of these warlords ¡ª who is going to get money from whom, on what basis, in exchange for what, what is the **quid pro quo**, etc.,¡± according to The Washington Post.
-¾İ¡¶»ªÊ¢¶ÙÓÊ±¨¡·±¨µÀ£¬2002Äê4ÔÂ£¬Ê±ÈÎ¹ú·À²¿?µÄÌÆÄÉµÂ¡¤À­Ä·Ë¹·Æ¶ûµÂ¿ÚÊÚÁËÒ»·İ¾øÃÜ±¸ÍüÂ¼£¬ÒªÇóÖúÊÖÌá½»¡°Ò»·İÎÒÃÇ½«ÈçºÎÓëÕâĞ©¾ü·§´ò½»µÀµÄ¼Æ»®¡ª¡ªË­½«´ÓË­ÄÇÀïÄÃÇ®£¬ÒÔÊ²Ã´ÎªÒÀ¾İ£¬ÒÔÊ²Ã´ Îª½»»»£¬»Ø±¨ÊÇÊ²Ã´£¬µÈµÈ¡±¡£
+In April 2002, Defense Secretary Donald Rumsfeld **dictated a top-secret memo** ordering aides to **come up with** â€œa plan for how we are going to deal with each of these warlords â€” who is going to get money from whom, on what basis, in exchange for what, what is the **quid pro quo**, etc.,â€ according to The Washington Post.
+æ®ã€Šåç››é¡¿é‚®æŠ¥ã€‹æŠ¥é“ï¼Œ2002å¹´4æœˆï¼Œæ—¶ä»»å›½é˜²éƒ¨?çš„å”çº³å¾·Â·æ‹‰å§†æ–¯è²å°”å¾·å£æˆäº†ä¸€ä»½ç»å¯†å¤‡å¿˜å½•ï¼Œè¦æ±‚åŠ©æ‰‹æäº¤â€œä¸€ä»½æˆ‘ä»¬å°†å¦‚ä½•ä¸è¿™äº›å†›é˜€æ‰“äº¤é“çš„è®¡åˆ’â€”â€”è°å°†ä»è°é‚£é‡Œæ‹¿é’±ï¼Œä»¥ä»€ä¹ˆä¸ºä¾æ®ï¼Œä»¥ä»€ä¹ˆ ä¸ºäº¤æ¢ï¼Œå›æŠ¥æ˜¯ä»€ä¹ˆï¼Œç­‰ç­‰â€ã€‚
 
 The war proved **enormously lucrative** for many Americans and Europeans, too. Even after it **got caught bribing** officials and **systematically overbilling** taxpayers, the contracts kept coming.
-ÊÂÊµÖ¤Ã÷£¬¶ÔĞí¶àÃÀ¹úÈËºÍÅ·ÖŞÈËÀ´Ëµ£¬°¢¸»º¹Õ½ÕùÒ²ÊÇ¾Ş´óµÄ×¬Ç®»ú»á¡£¼´Ê¹ÔÚ¹«Ë¾±»×¥µ½»ßÂ¸¹ÙÔ±¡¢ÏµÍ³ĞÔµØÈÃÄÉË°ÈË¶àÌÍÑü°üÖ®ºó£¬ËûÃÇµÄºÏÍ¬ÈÔÔ´Ô´²»¶Ï¡£
+äº‹å®è¯æ˜ï¼Œå¯¹è®¸å¤šç¾å›½äººå’Œæ¬§æ´²äººæ¥è¯´ï¼Œé˜¿å¯Œæ±—æˆ˜äº‰ä¹Ÿæ˜¯å·¨å¤§çš„èµšé’±æœºä¼šã€‚å³ä½¿åœ¨å…¬å¸è¢«æŠ“åˆ°è´¿èµ‚å®˜å‘˜ã€ç³»ç»Ÿæ€§åœ°è®©çº³ç¨äººå¤šæè…°åŒ…ä¹‹åï¼Œä»–ä»¬çš„åˆåŒä»æºæºä¸æ–­ã€‚
 
-It¡¯s a **bugbear** of mine that Afghan corruption is so frequently **cited as** an explanation (as well as an excuse) for Western failure in Afghanistan, Americans ¡°**point the finger at** Afghans, **whilst ignoring** their role in both fueling and benefiting from the **patronage pump**.¡±
-°¢¸»º¹µÄ¸¯°Ü±»Èç´ËÆµ·±µØÒıÎª?·½ÔÚ°¢¸»º¹Ê§°ÜµÄÀíÓÉ(ºÍ½è¿Ú)£¬ÕâÊÇÒ»¸öÈÃÎÒºÜÍ·ÌÛµÄÎÊÌâ. ÃÀ¹úÈË¡°Ö¸Ôğ°¢¸»º¹ÈË£¬È´ºöÊÓÁËËûÃÇÔÚÕâ¸ö»¥»İ»¥ÀûÁ´ÖĞ¼ÈÌá¹©×Ê½ğ¡¢ÓÖ´ÓÖĞÊÜÒæµÄ½ÇÉ«¡±¡£
+Itâ€™s a **bugbear** of mine that Afghan corruption is so frequently **cited as** an explanation (as well as an excuse) for Western failure in Afghanistan, Americans â€œ**point the finger at** Afghans, **whilst ignoring** their role in both fueling and benefiting from the **patronage pump**.â€
+é˜¿å¯Œæ±—çš„è…è´¥è¢«å¦‚æ­¤é¢‘ç¹åœ°å¼•ä¸º?æ–¹åœ¨é˜¿å¯Œæ±—å¤±è´¥çš„ç†ç”±(å’Œå€Ÿå£)ï¼Œè¿™æ˜¯ä¸€ä¸ªè®©æˆ‘å¾ˆå¤´ç–¼çš„é—®é¢˜. ç¾å›½äººâ€œæŒ‡è´£é˜¿å¯Œæ±—äººï¼Œå´å¿½è§†äº†ä»–ä»¬åœ¨è¿™ä¸ªäº’æƒ äº’åˆ©é“¾ä¸­æ—¢æä¾›èµ„é‡‘ã€åˆä»ä¸­å—ç›Šçš„è§’è‰²â€ã€‚
 
 The Center for Public Integrity, a nonprofit that has been tracking spending in a series of reports called the **Windfalls of War**.
-·ÇÓªÀû×éÖ¯¡°¹«¹²³ÏĞÅÖĞĞÄ¡±Ò»Ö±ÔÚ¸ú×ÙÖ§³öÇé¿ö£¬ÔÚÒ»ÏµÁĞ±¨¸æÖĞ³ÆÖ®ÎªÕ½Õù±©Àû(Õ½Õù²Æ)
+éè¥åˆ©ç»„ç»‡â€œå…¬å…±è¯šä¿¡ä¸­å¿ƒâ€ä¸€ç›´åœ¨è·Ÿè¸ªæ”¯å‡ºæƒ…å†µï¼Œåœ¨ä¸€ç³»åˆ—æŠ¥å‘Šä¸­ç§°ä¹‹ä¸ºæˆ˜äº‰æš´åˆ©(æˆ˜äº‰è´¢)
 
 What **stands out** about the war in Afghanistan is the way that it became the Afghan economy. At least Iraq had oil. In Afghanistan, the war **dwarfed** every other economic activity, **apart from** the opium trade.
-°¢¸»º¹Õ½ÕùµÄÌØ±ğÖ®´¦ÔÚÓÚËüÊÇÈçºÎ³ÉÎª°¢¸»º¹¾­¼ÃµÄ¡£ÒÁÀ­¿ËÖÁÉÙÓĞÊ¯ÓÍ¡£ÔÚ°¢¸»º¹£¬³ıÁËÑ»Æ¬Ã³Ò×Íâ£¬Õ½ÕùÊ¹ËùÓĞÆäËû¾­¼Ã»î¶¯ÏàĞÎ¼ûç©¡£
+é˜¿å¯Œæ±—æˆ˜äº‰çš„ç‰¹åˆ«ä¹‹å¤„åœ¨äºå®ƒæ˜¯å¦‚ä½•æˆä¸ºé˜¿å¯Œæ±—ç»æµçš„ã€‚ä¼Šæ‹‰å…‹è‡³å°‘æœ‰çŸ³æ²¹ã€‚åœ¨é˜¿å¯Œæ±—ï¼Œé™¤äº†é¸¦ç‰‡è´¸æ˜“å¤–ï¼Œæˆ˜äº‰ä½¿æ‰€æœ‰å…¶ä»–ç»æµæ´»åŠ¨ç›¸å½¢è§ç»Œã€‚
 
 But **alas**, policymakers in Washington **rushed to** push cash out the door, since money spent was one of the few **measurable metrics** of success.
-µ«ÒÅº¶µÄÊÇ£¬»ªÊ¢¶ÙµÄÕş²ßÖÆ¶¨Õß¼±ÓÚ°ÑÇ®»¨³öÈ¥£¬ÒòÎªËù»¨µÄÇ®ÊÇÉÙÊı¼¸¸ö¿ÉºâÁ¿³É¹¦µÄÖ¸±êÖ®Ò»¡£
+ä½†é—æ†¾çš„æ˜¯ï¼Œåç››é¡¿çš„æ”¿ç­–åˆ¶å®šè€…æ€¥äºæŠŠé’±èŠ±å‡ºå»ï¼Œå› ä¸ºæ‰€èŠ±çš„é’±æ˜¯å°‘æ•°å‡ ä¸ªå¯è¡¡é‡æˆåŠŸçš„æŒ‡æ ‡ä¹‹ä¸€ã€‚
 
-The money **was meant to** buy security, bridges and power plants to **win ¡°hearts and minds.¡±** But the **surreal** amounts of cash **poisoned** the country instead, **embittering** those who didn¡¯t have access to it, and **setting off rivalries** between those who did.
-Õâ±ÊÇ®±¾À´ÊÇÓÃÓÚ°²È«¡¢ÇÅÁººÍ·¢µç³§£¬ÒÔÓ®µÃ¡°ÃñĞÄ¡±¡£µ«³¬ÏÖÊµµÄÏÖ½ğÊı¶î·´¶ø¶¾º¦ÁËÕâ¸ö¹ú¼Ò£¬ÈÃÄÇĞ©ÎŞ·¨ÄÃµ½ÕâĞ©Ç®µÄÈË¸Ğµ½·ßÅ­£¬²¢ÔÚÄÃµ½ÕâĞ©Ç®µÄÈËÖ®¼äÒı·¢ÁË¾ºÕù¡£
+The money **was meant to** buy security, bridges and power plants to **win â€œhearts and minds.â€** But the **surreal** amounts of cash **poisoned** the country instead, **embittering** those who didnâ€™t have access to it, and **setting off rivalries** between those who did.
+è¿™ç¬”é’±æœ¬æ¥æ˜¯ç”¨äºå®‰å…¨ã€æ¡¥æ¢å’Œå‘ç”µå‚ï¼Œä»¥èµ¢å¾—â€œæ°‘å¿ƒâ€ã€‚ä½†è¶…ç°å®çš„ç°é‡‘æ•°é¢åè€Œæ¯’å®³äº†è¿™ä¸ªå›½å®¶ï¼Œè®©é‚£äº›æ— æ³•æ‹¿åˆ°è¿™äº›é’±çš„äººæ„Ÿåˆ°æ„¤æ€’ï¼Œå¹¶åœ¨æ‹¿åˆ°è¿™äº›é’±çš„äººä¹‹é—´å¼•å‘äº†ç«äº‰ã€‚
 
 It would take years for the United States to realize that it was fueling corruption with its **excessive** spending and lack of **oversight**. The result was a fantasy economy that operated more like a casino or a **Ponzi scheme** than a country. Why build a factory or **plant crops** when you can get **fabulously wealthy** selling whatever the Americans want to buy?
-ÃÀ¹úĞèÒªÊıÄêÊ±¼ä²ÅÄÜÒâÊ¶µ½£¬Æä¹ı¶ÈÖ§³öºÍÈ±·¦¼à¶½ÕıÔÚÖú³¤¸¯°Ü¡£½á¹ûÊÇ²úÉúÁËÒ»¸ö»ÃÏëÖĞµÄ¾­¼ÃÌå£¬ÆäÔË×÷¸üÏñÊÇÒ»¸ö¶Ä³¡»òÅÓÊÏÆ­¾Ö£¬¶ø²»ÊÇÒ»¸ö¹ú¼Ò¡£Èç¹û³öÊÛÃÀ¹úÈËÏëÒªµÄ¶«Î÷¾Í¿ÉÒÔ±äµÃ³¬¼¶¸»ÓĞ£¬ÎªÊ²Ã´»¹Òª½¨Ôì¹¤³§»òÖÖÖ²Å©×÷Îï?
+ç¾å›½éœ€è¦æ•°å¹´æ—¶é—´æ‰èƒ½æ„è¯†åˆ°ï¼Œå…¶è¿‡åº¦æ”¯å‡ºå’Œç¼ºä¹ç›‘ç£æ­£åœ¨åŠ©é•¿è…è´¥ã€‚ç»“æœæ˜¯äº§ç”Ÿäº†ä¸€ä¸ªå¹»æƒ³ä¸­çš„ç»æµä½“ï¼Œå…¶è¿ä½œæ›´åƒæ˜¯ä¸€ä¸ªèµŒåœºæˆ–åºæ°éª—å±€ï¼Œè€Œä¸æ˜¯ä¸€ä¸ªå›½å®¶ã€‚å¦‚æœå‡ºå”®ç¾å›½äººæƒ³è¦çš„ä¸œè¥¿å°±å¯ä»¥å˜å¾—è¶…çº§å¯Œæœ‰ï¼Œä¸ºä»€ä¹ˆè¿˜è¦å»ºé€ å·¥å‚æˆ–ç§æ¤å†œä½œç‰©?
 
 The money fueled the **revolving door** of war, **enriching the very militants** that it was meant to fight, whose attacks then **justified a new round of** spending.
-Õâ±ÊÇ®ÍÆ¶¯ÁËÕ½ÕùµÄĞı×ªÃÅ£¬Ê¹µÃÔ­±¾Òª´ò»÷µÄÎä×°·Ö×Ó±äµÃ¸»ÓĞ£¬È»ºóËûÃÇµÄÏ®»÷ÓÖÎªĞÂÒ»ÂÖµÄÖ§³öÌá¹©ÁËÀíÓÉ¡£
+è¿™ç¬”é’±æ¨åŠ¨äº†æˆ˜äº‰çš„æ—‹è½¬é—¨ï¼Œä½¿å¾—åŸæœ¬è¦æ‰“å‡»çš„æ­¦è£…åˆ†å­å˜å¾—å¯Œæœ‰ï¼Œç„¶åä»–ä»¬çš„è¢­å‡»åˆä¸ºæ–°ä¸€è½®çš„æ”¯å‡ºæä¾›äº†ç†ç”±ã€‚
 
-Social scientists have a name for countries that are so **reliant on unearned income** from outsiders: ¡°rentier states.¡± It is usually used for **oil-producing countries**, but Afghanistan now **stands out** as an extreme example.
-Éç»á¿ÆÑ§¼Ò¶ÔÈç´ËÒÀÀµÍâÀ´Õß·ÇÀÍ¶¯ÊÕÈëµÄ¹ú¼ÒÆğÁËÒ»¸öÃû×Ö:³ö×âÕß¹ú¼Ò¡£Õâ¸öÃû×ÖÍ¨³£ÓÃÓÚ²úÓÍ¹ú¼Ò£¬µ«°¢¸»º¹ÏÖÔÚÊÇÒ»¸ö¼«¶ËµÄÀı×Ó¡£
+Social scientists have a name for countries that are so **reliant on unearned income** from outsiders: â€œrentier states.â€ It is usually used for **oil-producing countries**, but Afghanistan now **stands out** as an extreme example.
+ç¤¾ä¼šç§‘å­¦å®¶å¯¹å¦‚æ­¤ä¾èµ–å¤–æ¥è€…éåŠ³åŠ¨æ”¶å…¥çš„å›½å®¶èµ·äº†ä¸€ä¸ªåå­—:å‡ºç§Ÿè€…å›½å®¶ã€‚è¿™ä¸ªåå­—é€šå¸¸ç”¨äºäº§æ²¹å›½å®¶ï¼Œä½†é˜¿å¯Œæ±—ç°åœ¨æ˜¯ä¸€ä¸ªæç«¯çš„ä¾‹å­ã€‚
 
-I knew the war in Afghanistan had **gone off the rails** the day I had lunch in Kabul with a European consultant who **got paid a lot of money** to write reports about Afghan corruption. He¡¯d just arrived, but he already had a lot of ideas about what needed to be done ¡ª including **ridding** the Afghan Civil Service of **pay scales based on seniority**. 
-ÔÚ¿¦²¼¶ûÓëÒ»Î»Å·ÖŞ¹ËÎÊ¹²½øÎç²ÍµÄÄÇÌì£¬ÎÒ¾ÍÖªµÀ°¢¸»º¹Õ½ÕùÒÑ¾­ÍÑÀëÕı¹ì£¬ÕâÎ»¹ËÎÊ»ñµÃÁËºÜ¶à±¨³ê£¬ÓÃÓÚ×«Ğ´ÓĞ¹Ø°¢¸»º¹¸¯°ÜµÄ±¨µÀ. Ëû¸Õµ½ÄÇÀï£¬µ«ËûÒÑ¾­¶ÔĞèÒª×öµÄÊÂÇéÓĞÁËºÜ¶àÏë·¨¡ª¡ª°üÀ¨ÈÃ°¢¸»º¹¹«ÎñÔ±°ÚÍÑ»ùÓÚ×ÊÀúµÄĞ½³êµÈ¼¶¡£
+I knew the war in Afghanistan had **gone off the rails** the day I had lunch in Kabul with a European consultant who **got paid a lot of money** to write reports about Afghan corruption. Heâ€™d just arrived, but he already had a lot of ideas about what needed to be done â€” including **ridding** the Afghan Civil Service of **pay scales based on seniority**. 
+åœ¨å–€å¸ƒå°”ä¸ä¸€ä½æ¬§æ´²é¡¾é—®å…±è¿›åˆé¤çš„é‚£å¤©ï¼Œæˆ‘å°±çŸ¥é“é˜¿å¯Œæ±—æˆ˜äº‰å·²ç»è„±ç¦»æ­£è½¨ï¼Œè¿™ä½é¡¾é—®è·å¾—äº†å¾ˆå¤šæŠ¥é…¬ï¼Œç”¨äºæ’°å†™æœ‰å…³é˜¿å¯Œæ±—è…è´¥çš„æŠ¥é“. ä»–åˆšåˆ°é‚£é‡Œï¼Œä½†ä»–å·²ç»å¯¹éœ€è¦åšçš„äº‹æƒ…æœ‰äº†å¾ˆå¤šæƒ³æ³•â€”â€”åŒ…æ‹¬è®©é˜¿å¯Œæ±—å…¬åŠ¡å‘˜æ‘†è„±åŸºäºèµ„å†çš„è–ªé…¬ç­‰çº§ã€‚
 
-**None of this is to say that** the Afghan people don¡¯t **deserve support**, even now. They do. But **far more** can be achieved by spending **far less** in a more **thoughtful way**.
-Õâ²¢²»ÊÇËµ°¢¸»º¹ÈË²»ÖµµÃÖ§³Ö£¬¼´Ê¹ÊÇÏÖÔÚ¡£ËûÃÇÈ·ÊµÖµµÃ¡£µ«ÊÇ£¬Í¨¹ı¸üÎªÉîË¼ÊìÂÇµÄ·½Ê½£¬»¨·Ñ¸üÉÙµÄÇ®¿ÉÒÔÊµÏÖ¸ü¶àµÄÄ¿±ê¡£
+**None of this is to say that** the Afghan people donâ€™t **deserve support**, even now. They do. But **far more** can be achieved by spending **far less** in a more **thoughtful way**.
+è¿™å¹¶ä¸æ˜¯è¯´é˜¿å¯Œæ±—äººä¸å€¼å¾—æ”¯æŒï¼Œå³ä½¿æ˜¯ç°åœ¨ã€‚ä»–ä»¬ç¡®å®å€¼å¾—ã€‚ä½†æ˜¯ï¼Œé€šè¿‡æ›´ä¸ºæ·±æ€ç†Ÿè™‘çš„æ–¹å¼ï¼ŒèŠ±è´¹æ›´å°‘çš„é’±å¯ä»¥å®ç°æ›´å¤šçš„ç›®æ ‡ã€‚
 
 What does the Taliban takeover say about the war? It proves that you cannot buy an army. You can only rent one **for awhile**. Once the money **spigot** turned off, how many **stuck around to** fight for our vision of Afghanistan? 
-ËşÀû°àµÄ½Ó¹Ü¶ÔÕ½ÕùÀ´ËµÒâÎ¶×ÅÊ²Ã´? ËüÖ¤Ã÷ÁËÄãÎŞ·¨¹ºÂòÒ»Ö§¾ü¶Ó¡£ÄãÖ»ÄÜ×âÓÃÒ»¶ÎÊ±¼ä¡£Ò»µ©×Ê½ğÁúÍ·¹Øµô£¬ÓĞ¶àÉÙÈË¼á³ÖÎªÎÒÃÇµÄ°¢¸»º¹Ô¸¾°¶øÕ½?
+å¡”åˆ©ç­çš„æ¥ç®¡å¯¹æˆ˜äº‰æ¥è¯´æ„å‘³ç€ä»€ä¹ˆ? å®ƒè¯æ˜äº†ä½ æ— æ³•è´­ä¹°ä¸€æ”¯å†›é˜Ÿã€‚ä½ åªèƒ½ç§Ÿç”¨ä¸€æ®µæ—¶é—´ã€‚ä¸€æ—¦èµ„é‡‘é¾™å¤´å…³æ‰ï¼Œæœ‰å¤šå°‘äººåšæŒä¸ºæˆ‘ä»¬çš„é˜¿å¯Œæ±—æ„¿æ™¯è€Œæˆ˜?
 
-When I moved to Washington, D.C., in 2002 we all **lived in 9/11¡¯s shadow**. We waited for bombs in the Metro, for more **anthrax** envelopes, for a **sequel** to the previous autumn¡¯s terror. We watched planes headed for Reagan Airport fly low over the Potomac, always **half-expecting** them to **veer**. Everything in my profession **revolved around** the War on Terror. 
-ÎÒÔÚ2002Äê°áµ½»ªÊ¢¶ÙÌØÇøÊ±£¬´ó¼Ò¶¼Éú»îÔÚ9¡¤11µÄÒõÓ°ÏÂ¡£ÎÒÃÇµ£ĞÄµØÌúÀïÓĞÕ¨µ¯£¬µ£ĞÄ³öÏÖ¸ü¶àº¬ÓĞÌ¿¾ÒµÄĞÅ·â£¬µ£ĞÄÇ°Ò»ÄêÇïÌìµÄ¿Ö²ÀÊÂ¼ş³öÏÖĞø¼¯¡£¿´µ½·ÉÍùÀï¸ù»ú³¡µÄ·É»úÔÚ²¨ÍĞÂó¿ËºÓÉÏµÍ¿Õ·ÉĞĞÊ±£¬ÎÒÃÇ×ÜÊÇµ£ĞÄËüÃÇ»áÍ»È»×ªÏò¡£ÎÒÖ°ÒµÖĞµÄÒ»ÇĞ¶¼Î§ÈÆ×Å·´¿ÖÕ½Õù¡£
+When I moved to Washington, D.C., in 2002 we all **lived in 9/11â€™s shadow**. We waited for bombs in the Metro, for more **anthrax** envelopes, for a **sequel** to the previous autumnâ€™s terror. We watched planes headed for Reagan Airport fly low over the Potomac, always **half-expecting** them to **veer**. Everything in my profession **revolved around** the War on Terror. 
+æˆ‘åœ¨2002å¹´æ¬åˆ°åç››é¡¿ç‰¹åŒºæ—¶ï¼Œå¤§å®¶éƒ½ç”Ÿæ´»åœ¨9Â·11çš„é˜´å½±ä¸‹ã€‚æˆ‘ä»¬æ‹…å¿ƒåœ°é“é‡Œæœ‰ç‚¸å¼¹ï¼Œæ‹…å¿ƒå‡ºç°æ›´å¤šå«æœ‰ç‚­ç–½çš„ä¿¡å°ï¼Œæ‹…å¿ƒå‰ä¸€å¹´ç§‹å¤©çš„ææ€–äº‹ä»¶å‡ºç°ç»­é›†ã€‚çœ‹åˆ°é£å¾€é‡Œæ ¹æœºåœºçš„é£æœºåœ¨æ³¢æ‰˜éº¦å…‹æ²³ä¸Šä½ç©ºé£è¡Œæ—¶ï¼Œæˆ‘ä»¬æ€»æ˜¯æ‹…å¿ƒå®ƒä»¬ä¼šçªç„¶è½¬å‘ã€‚æˆ‘èŒä¸šä¸­çš„ä¸€åˆ‡éƒ½å›´ç»•ç€åææˆ˜äº‰ã€‚
 
-Nightly in our **unkempt** apartments he argued with the hawks ¡ª **which is to say** with all of us ¡ª **channeling** the realist foreign policy thinkers he admired, predicting **quagmire**, destabilization and defeat.
-Ã¿ÍíÔÚÎÒÃÇÁèÂÒµÄ¹«Ô¢Àï£¬ËûÓëÓ¥ÅÉ¡ª¡ªÒ²¾ÍÊÇÓëÎÒÃÇËùÓĞÈË¡ª¡ªÕùÂÛËûËùÇÕÅåµÄÏÖÊµÖ÷ÒåÍâ½»Õş²ßË¼Ïë¼Ò£¬Ô¤ÑÔÀ§¾³¡¢²»ÎÈ¶¨ºÍÊ§°Ü¡£
+Nightly in our **unkempt** apartments he argued with the hawks â€” **which is to say** with all of us â€” **channeling** the realist foreign policy thinkers he admired, predicting **quagmire**, destabilization and defeat.
+æ¯æ™šåœ¨æˆ‘ä»¬å‡Œä¹±çš„å…¬å¯“é‡Œï¼Œä»–ä¸é¹°æ´¾â€”â€”ä¹Ÿå°±æ˜¯ä¸æˆ‘ä»¬æ‰€æœ‰äººâ€”â€”äº‰è®ºä»–æ‰€é’¦ä½©çš„ç°å®ä¸»ä¹‰å¤–äº¤æ”¿ç­–æ€æƒ³å®¶ï¼Œé¢„è¨€å›°å¢ƒã€ä¸ç¨³å®šå’Œå¤±è´¥ã€‚
 
-**In almost every way** the rest of the post-9/11 era **vindicated** his arguments ¡ª not just in the Iraq war but also in our **chaos-sowing** Libya intervention and our failed attempt at nation-building in Afghanistan.
-ÔÚºó9¡¤11Ê±´úµÄÆäÓàÊ±¼äÀï£¬ËûµÄÂÛµã¼¸ºõÔÚËùÓĞ·½Ãæ¶¼µÃµ½ÁËÑéÖ¤¡ª¡ª²»½öÊÇÔÚÒÁÀ­¿ËÕ½ÕùÖĞ£¬Ò²ÔÚÎÒÃÇÖÆÔìÁË»ìÂÒµÄÀû±ÈÑÇ¸ÉÔ¤ÒÔ¼°ÔÚ°¢¸»º¹½¨¹úµÄÊ§°Ü³¢ÊÔÖĞ¡£
+**In almost every way** the rest of the post-9/11 era **vindicated** his arguments â€” not just in the Iraq war but also in our **chaos-sowing** Libya intervention and our failed attempt at nation-building in Afghanistan.
+åœ¨å9Â·11æ—¶ä»£çš„å…¶ä½™æ—¶é—´é‡Œï¼Œä»–çš„è®ºç‚¹å‡ ä¹åœ¨æ‰€æœ‰æ–¹é¢éƒ½å¾—åˆ°äº†éªŒè¯â€”â€”ä¸ä»…æ˜¯åœ¨ä¼Šæ‹‰å…‹æˆ˜äº‰ä¸­ï¼Œä¹Ÿåœ¨æˆ‘ä»¬åˆ¶é€ äº†æ··ä¹±çš„åˆ©æ¯”äºšå¹²é¢„ä»¥åŠåœ¨é˜¿å¯Œæ±—å»ºå›½çš„å¤±è´¥å°è¯•ä¸­ã€‚
 
-Even in 2015, it was still **potent** enough that Colby was **reportedly blackballed** from a job as foreign policy director for Jeb Bush¡¯s campaign, because of his **insufficient enthusiasm** about a potential conflict with Iran.
-¼´Ê¹µ½ÁË2015Äê£¬Ó¥ÅÉ·ÕÎ§ÒÀ¾ÉÊ®·ÖÅ¨ºñ,¾İËµ¿Æ¶û±ÈÔøÒòÈ±·¦¶ÔÒÁÀÊÇ±ÔÚ³åÍ»µÄĞËÈ¤£¬¶ø±»¾Ü¾øµ£ÈÎ½Ü²¼¡¤²¼Ê²¾ºÑ¡»î¶¯µÄÍâ½»Õş²ßÖ÷ÈÎ¡£
+Even in 2015, it was still **potent** enough that Colby was **reportedly blackballed** from a job as foreign policy director for Jeb Bushâ€™s campaign, because of his **insufficient enthusiasm** about a potential conflict with Iran.
+å³ä½¿åˆ°äº†2015å¹´ï¼Œé¹°æ´¾æ°›å›´ä¾æ—§ååˆ†æµ“åš,æ®è¯´ç§‘å°”æ¯”æ›¾å› ç¼ºä¹å¯¹ä¼Šæœ—æ½œåœ¨å†²çªçš„å…´è¶£ï¼Œè€Œè¢«æ‹’ç»æ‹…ä»»æ°å¸ƒÂ·å¸ƒä»€ç«é€‰æ´»åŠ¨çš„å¤–äº¤æ”¿ç­–ä¸»ä»»ã€‚
 
-A **consensus** can change slowly and then, under the right pressure, **all at once**, and for Republicans that pressure came from Donald Trump. No **dove or systematizer**, he still made **realism and anti-interventionism respectable** again ¡ª with **immediate consequences** for my friend.
-¹²Ê¶¿ÉÒÔÂıÂı¸Ä±ä£¬È»ºóÔÚÊÊµ±µÄÑ¹Á¦ÏÂÖè±ä£¬¶ÔÓÚ¹²ºÍµ³ÈËÀ´Ëµ£¬Õâ¸öÑ¹Á¦À´×ÔÌÆÄÉµÂ¡¤ÌØÀÊÆÕ¡£Ëû²»ÊÇ¸ëÅÉ»òÏµÍ³Ö÷ÒåÕß£¬µ«ÈÔÊ¹ÏÖÊµÖ÷ÒåºÍ·´¸ÉÔ¤Ö÷ÒåÔÙ´ÎÊÜµ½×ğÖØ¡ª¡ªÕâ¶ÔÎÒµÄÅóÓÑ²úÉúÁËÖ±½ÓµÄÓ°Ïì¡£
+A **consensus** can change slowly and then, under the right pressure, **all at once**, and for Republicans that pressure came from Donald Trump. No **dove or systematizer**, he still made **realism and anti-interventionism respectable** again â€” with **immediate consequences** for my friend.
+å…±è¯†å¯ä»¥æ…¢æ…¢æ”¹å˜ï¼Œç„¶ååœ¨é€‚å½“çš„å‹åŠ›ä¸‹éª¤å˜ï¼Œå¯¹äºå…±å’Œå…šäººæ¥è¯´ï¼Œè¿™ä¸ªå‹åŠ›æ¥è‡ªå”çº³å¾·Â·ç‰¹æœ—æ™®ã€‚ä»–ä¸æ˜¯é¸½æ´¾æˆ–ç³»ç»Ÿä¸»ä¹‰è€…ï¼Œä½†ä»ä½¿ç°å®ä¸»ä¹‰å’Œåå¹²é¢„ä¸»ä¹‰å†æ¬¡å—åˆ°å°Šé‡â€”â€”è¿™å¯¹æˆ‘çš„æœ‹å‹äº§ç”Ÿäº†ç›´æ¥çš„å½±å“ã€‚
 
-As the **title suggests**, this is a **realist¡¯s** book, **laser-focused** on China¡¯s **bid for mastery** in Asia
-ÕıÈçÊéÃûËù°µÊ¾µÄÄÇÑù£¬ÕâÊÇÒ»±¾ÏÖÊµÖ÷ÒåÕßµÄÊé£¬ÖØµã¹Ø×¢ÖĞ¹úÕ÷·şÑÇÖŞµÄÅ¬Á¦
+As the **title suggests**, this is a **realistâ€™s** book, **laser-focused** on Chinaâ€™s **bid for mastery** in Asia
+æ­£å¦‚ä¹¦åæ‰€æš—ç¤ºçš„é‚£æ ·ï¼Œè¿™æ˜¯ä¸€æœ¬ç°å®ä¸»ä¹‰è€…çš„ä¹¦ï¼Œé‡ç‚¹å…³æ³¨ä¸­å›½å¾æœäºšæ´²çš„åŠªåŠ›
 
 Only China **threatens** American interests in a **profound** way, through a **consolidation** of economic power in Asia that **imperils** our **prosperity** and a military defeat that could **shatter** our alliance system. 
-Ö»ÓĞÖĞ¹úÄÜ¹»ÒÔÒ»ÖÖÉî¿ÌµÄ·½Ê½ÍşĞ²µ½ÃÀ¹úµÄÀûÒæ¡ª¡ªÍ¨¹ı¹®¹ÌÔÚÑÇÖŞµÄ¾­¼ÃÊµÁ¦Î£¼°ÎÒÃÇµÄ·±ÈÙ£¬ÒÔ¼°Ò»³¡¿ÉÄÜÆÆ»µÎÒÃÇÁªÃËÌåÏµµÄ¾üÊÂÊ¤Àû¡£
+åªæœ‰ä¸­å›½èƒ½å¤Ÿä»¥ä¸€ç§æ·±åˆ»çš„æ–¹å¼å¨èƒåˆ°ç¾å›½çš„åˆ©ç›Šâ€”â€”é€šè¿‡å·©å›ºåœ¨äºšæ´²çš„ç»æµå®åŠ›å±åŠæˆ‘ä»¬çš„ç¹è£ï¼Œä»¥åŠä¸€åœºå¯èƒ½ç ´åæˆ‘ä»¬è”ç›Ÿä½“ç³»çš„å†›äº‹èƒœåˆ©ã€‚
 
-¡°The Strategy of **Denial**¡± presents a **particularly unsentimental** version of what a lot of people bidding to shape a post-9/11-era foreign policy believe
-¡¶·ñ¶¨²ßÂÔ¡·Õ¹Ê¾ÁËÒ»¸öÍêÈ«²»´ø¸ĞÇéÉ«²ÊµÄ°æ±¾£¬·´Ó³ÁËĞí¶àÁ¦Í¼ËÜÔìºó9¡¤11Ê±´úÍâ½»Õş²ßµÄÈËËùÏàĞÅµÄÄÇÑù
+â€œThe Strategy of **Denial**â€ presents a **particularly unsentimental** version of what a lot of people bidding to shape a post-9/11-era foreign policy believe
+ã€Šå¦å®šç­–ç•¥ã€‹å±•ç¤ºäº†ä¸€ä¸ªå®Œå…¨ä¸å¸¦æ„Ÿæƒ…è‰²å½©çš„ç‰ˆæœ¬ï¼Œåæ˜ äº†è®¸å¤šåŠ›å›¾å¡‘é€ å9Â·11æ—¶ä»£å¤–äº¤æ”¿ç­–çš„äººæ‰€ç›¸ä¿¡çš„é‚£æ ·
 
-But this is **a long way from** being any kind of consensus. The **establishment freak-out** over Biden¡¯s Afghan **withdrawal indicates** the **extent** to which a focused, China-first foreign policy seems like **retreat** to Democrats and Republicans **accustomed to** more global and **unlimited** ambitions.
-¶øÕâÀë´ï³ÉÈÎºÎ³Ì¶ÈµÄ¹²Ê¶»¹ÓĞºÜ?µÄÂ·Òª×ß¡£°İµÇ´Ó°¢¸»º¹³·¾üÒı·¢µÄÈ¨ÊÆ¼¯ÍÅµÄ¿Ö»Å±íÃ÷£¬¶ÔÓÚ¸ü¼ÓÏ°¹ßÓÚÎŞĞİÖ¹µÄÈ«ÇòĞÔÒ°ĞÄµÄ?Ö÷µ³ÈËºÍ¹²ºÍµ³ÈËÀ´Ëµ£¬Ä¿±êÃ÷È·¡¢ÖĞ¹úÓÅÏÈµÄÍâ½»Õş²ßÔÚºÜ´ó³Ì¶ÈÉÏËÆºõÊÇÒ»ÖÖÍËËõ¡£
+But this is **a long way from** being any kind of consensus. The **establishment freak-out** over Bidenâ€™s Afghan **withdrawal indicates** the **extent** to which a focused, China-first foreign policy seems like **retreat** to Democrats and Republicans **accustomed to** more global and **unlimited** ambitions.
+è€Œè¿™ç¦»è¾¾æˆä»»ä½•ç¨‹åº¦çš„å…±è¯†è¿˜æœ‰å¾ˆ?çš„è·¯è¦èµ°ã€‚æ‹œç™»ä»é˜¿å¯Œæ±—æ’¤å†›å¼•å‘çš„æƒåŠ¿é›†å›¢çš„ææ…Œè¡¨æ˜ï¼Œå¯¹äºæ›´åŠ ä¹ æƒ¯äºæ— ä¼‘æ­¢çš„å…¨çƒæ€§é‡å¿ƒçš„?ä¸»å…šäººå’Œå…±å’Œå…šäººæ¥è¯´ï¼Œç›®æ ‡æ˜ç¡®ã€ä¸­å›½ä¼˜å…ˆçš„å¤–äº¤æ”¿ç­–åœ¨å¾ˆå¤§ç¨‹åº¦ä¸Šä¼¼ä¹æ˜¯ä¸€ç§é€€ç¼©ã€‚
 
-**Meanwhile**, a very different group of **post-9/11-era thinkers** regards China **hawkishness** as a **dangerously self-fulfilling prophecy** ¡ª a way to **blunder** into an unnecessary and **disastrous** war.
-Óë´ËÍ¬Ê±£¬Ò»Èº½ØÈ»²»Í¬µÄºó9¡¤11Ê±´úµÄË¼Ïë¼Ò½«¶Ô»ªÓ¥ÅÉÁ¢³¡ÊÓÎªÒ»ÖÖÎ£ÏÕµÄ×ÔÎÒÊµÏÖÔ¤ÑÔ¡ª¡ªÒ»ÖÖÊ§²ß£¬Õâ½«µ¼ÖÂÒ»³¡²»±ØÒªµÄÔÖÄÑĞÔÕ½Õù
+**Meanwhile**, a very different group of **post-9/11-era thinkers** regards China **hawkishness** as a **dangerously self-fulfilling prophecy** â€” a way to **blunder** into an unnecessary and **disastrous** war.
+ä¸æ­¤åŒæ—¶ï¼Œä¸€ç¾¤æˆªç„¶ä¸åŒçš„å9Â·11æ—¶ä»£çš„æ€æƒ³å®¶å°†å¯¹åé¹°æ´¾ç«‹åœºè§†ä¸ºä¸€ç§å±é™©çš„è‡ªæˆ‘å®ç°é¢„è¨€â€”â€”ä¸€ç§å¤±ç­–ï¼Œè¿™å°†å¯¼è‡´ä¸€åœºä¸å¿…è¦çš„ç¾éš¾æ€§æˆ˜äº‰
 
-Rather than the old **establishment¡¯s maximalism**, they prefer minimalism, an end even to the light-footprint forms of warcraft attacked by Samuel Moyn of Yale in his new book ¡°**Humane**¡± ¡ª an interesting **accompaniment and counterpoint** to Colby¡¯s ¡ª and a **deliberate retreat** from empire. (The idea that climate change requires **conciliation with** China also **looms** large for some in this group.)
-Óë¾É½¨ÖÆÅÉµÄ×î´ó»¯Ö÷ÒåÏà±È£¬ËûÃÇ¸üÏ²»¶¼«¼òÖ÷Òå£¬ÉõÖÁÊÇÖÕÖ¹Ò®Â³´óÑ§µÄÈûçÑ¶û¡¤Äª¶÷ÔÚÆäĞÂ×÷¡¶ÈËµÀ¡·ÖĞËùÅê»÷µÄ ¡°Çá×ã¼£¡±ĞÎÊ½µÄÕ½Õù¡ª¡ªÕâ±¾ÊéÕ¾ÔÚ¿Æ¶û±ÈÖø×÷µÄ¶ÔÁ¢Ãæ£¬Á½±¾Êé´îÅäÆğÀ´ÔÄ¶ÁºÜÓĞÈ¤¡ª¡ªÒÔ¼°ÓĞÒâµÄÍËÈÃ¡£(Æøºò±ä»¯ĞèÒªÓëÖĞ¹úºÍ½âµÄÏë·¨¶ÔÕâÒ»ÈºÌåÖĞµÄÒ»Ğ©ÈËÀ´ËµÒ²ºÜÖØÒª¡£)
+Rather than the old **establishmentâ€™s maximalism**, they prefer minimalism, an end even to the light-footprint forms of warcraft attacked by Samuel Moyn of Yale in his new book â€œ**Humane**â€ â€” an interesting **accompaniment and counterpoint** to Colbyâ€™s â€” and a **deliberate retreat** from empire. (The idea that climate change requires **conciliation with** China also **looms** large for some in this group.)
+ä¸æ—§å»ºåˆ¶æ´¾çš„æœ€å¤§åŒ–ä¸»ä¹‰ç›¸æ¯”ï¼Œä»–ä»¬æ›´å–œæ¬¢æç®€ä¸»ä¹‰ï¼Œç”šè‡³æ˜¯ç»ˆæ­¢è€¶é²å¤§å­¦çš„å¡ç¼ªå°”Â·è«æ©åœ¨å…¶æ–°ä½œã€Šäººé“ã€‹ä¸­æ‰€æŠ¨å‡»çš„ â€œè½»è¶³è¿¹â€å½¢å¼çš„æˆ˜äº‰â€”â€”è¿™æœ¬ä¹¦ç«™åœ¨ç§‘å°”æ¯”è‘—ä½œçš„å¯¹ç«‹é¢ï¼Œä¸¤æœ¬ä¹¦æ­é…èµ·æ¥é˜…è¯»å¾ˆæœ‰è¶£â€”â€”ä»¥åŠæœ‰æ„çš„é€€è®©ã€‚(æ°”å€™å˜åŒ–éœ€è¦ä¸ä¸­å›½å’Œè§£çš„æƒ³æ³•å¯¹è¿™ä¸€ç¾¤ä½“ä¸­çš„ä¸€äº›äººæ¥è¯´ä¹Ÿå¾ˆé‡è¦ã€‚)
 
-The minimalist group has the **least influence** in Washington, but its **skepticism** about warmaking has a lot of popular support ¡ª including skepticism about war with China. 
-Õâ¸ö¼«¼òÖ÷ÒåÍÅÌåÔÚ»ªÊ¢¶ÙµÄÓ°ÏìÁ¦×îĞ¡£¬µ«Ëü¶ÔÕ½ÕùµÄ»³ÒÉµÃµ½ÁËºÜ¶à?ÖÚµÄÖ§³Ö¡ª¡ª°üÀ¨¶ÔÓëÖĞ¹ú¿ªÕ½µÄ»³ÒÉ¡£
+The minimalist group has the **least influence** in Washington, but its **skepticism** about warmaking has a lot of popular support â€” including skepticism about war with China. 
+è¿™ä¸ªæç®€ä¸»ä¹‰å›¢ä½“åœ¨åç››é¡¿çš„å½±å“åŠ›æœ€å°ï¼Œä½†å®ƒå¯¹æˆ˜äº‰çš„æ€€ç–‘å¾—åˆ°äº†å¾ˆå¤š?ä¼—çš„æ”¯æŒâ€”â€”åŒ…æ‹¬å¯¹ä¸ä¸­å›½å¼€æˆ˜çš„æ€€ç–‘ã€‚
 
-But Beijing¡¯s own choices will also **shape our strategy**. A China that retreats **somewhat**, post-Covid, from **bellicosity** and border **skirmishes** would **defang** the China-hawk argument **quite a bit**.
-µ«±±¾©×Ô¼ºµÄÑ¡ÔñÒ²½«Ó°ÏìÎÒÃÇµÄÕ½ÂÔ¡£ÔÚĞÂ¹ÚºóÊ±´ú£¬Ò»¸ö¼õÉÙºÃ¶·ºÍ±ß¾³Ğ¡¹æÄ£³åÍ»µÄÖĞ¹ú½«ÔÚºÜ´ó³Ì¶ÈÉÏ·ñ¶¨¶Ô»ªÓ¥ÅÉµÄÂÛµã¡£
+But Beijingâ€™s own choices will also **shape our strategy**. A China that retreats **somewhat**, post-Covid, from **bellicosity** and border **skirmishes** would **defang** the China-hawk argument **quite a bit**.
+ä½†åŒ—äº¬è‡ªå·±çš„é€‰æ‹©ä¹Ÿå°†å½±å“æˆ‘ä»¬çš„æˆ˜ç•¥ã€‚åœ¨æ–°å† åæ—¶ä»£ï¼Œä¸€ä¸ªå‡å°‘å¥½æ–—å’Œè¾¹å¢ƒå°è§„æ¨¡å†²çªçš„ä¸­å›½å°†åœ¨å¾ˆå¤§ç¨‹åº¦ä¸Šå¦å®šå¯¹åé¹°æ´¾çš„è®ºç‚¹ã€‚
 
-**On the other hand**, a China that looks at American **disarray** and its own **window of opportunity** and decides to move **aggressively** could leave my old friend in the same place the 9/11 era left his younger self ¡ª with his strategic analysis **vindicated, unhappily**, by an American defeat.
-ÁíÒ»·½Ãæ£¬Èç¹ûÖĞ¹ú¿´µ½ÁËÃÀ¹úµÄ»ìÂÒºÍ×Ô¼ºµÄ»ú»á´°¿Ú£¬²¢¾ö¶¨»ı¼«²ÉÈ¡ĞĞ¶¯£¬Õâ¿ÉÄÜ»áÈÃÎÒµÄÀÏÅóÓÑÔÙ´Î¾­ÀúËûÄêÇáÊ±ºòÔÚ9¡¤11Ê±´úËù¾­ÀúµÄ¡ª¡ªËûµÄÕ½ÂÔ·ÖÎö²»ĞÒ±»ÃÀ¹úµÄÊ§°ÜËùÖ¤Êµ¡£
+**On the other hand**, a China that looks at American **disarray** and its own **window of opportunity** and decides to move **aggressively** could leave my old friend in the same place the 9/11 era left his younger self â€” with his strategic analysis **vindicated, unhappily**, by an American defeat.
+å¦ä¸€æ–¹é¢ï¼Œå¦‚æœä¸­å›½çœ‹åˆ°äº†ç¾å›½çš„æ··ä¹±å’Œè‡ªå·±çš„æœºä¼šçª—å£ï¼Œå¹¶å†³å®šç§¯æé‡‡å–è¡ŒåŠ¨ï¼Œè¿™å¯èƒ½ä¼šè®©æˆ‘çš„è€æœ‹å‹å†æ¬¡ç»å†ä»–å¹´è½»æ—¶å€™åœ¨9Â·11æ—¶ä»£æ‰€ç»å†çš„â€”â€”ä»–çš„æˆ˜ç•¥åˆ†æä¸å¹¸è¢«ç¾å›½çš„å¤±è´¥æ‰€è¯å®ã€‚
 
 **Yet despite his assurances**, General Milley was so **concerned** about Mr. Trump that later that day he **convened a meeting** with top commanders to remind them that the procedures for launching a nuclear weapon **called for** his involvement in such a decision.
-È»¶ø£¬¾¡¹Ü×ö³öÁË±£Ö¤£¬Ã×Àû»¹ÊÇ·Ç³£µ£ĞÄÌØÀÊÆÕ£¬ÒÔÖÁÓÚµ±ÌìÍíĞ©Ê±ºò£¬ËûÕÙ¼¯ÁËÒ»´Î¸ß¼¶Ö¸»Ó¹Ù»áÒé£¬ÌáĞÑËûÃÇ·¢ÉäºËÎäÆ÷µÄ³ÌĞò¹æ¶¨ÁË¾ö²ßĞèÒªÓĞËûµÄ²ÎÓë¡£
+ç„¶è€Œï¼Œå°½ç®¡åšå‡ºäº†ä¿è¯ï¼Œç±³åˆ©è¿˜æ˜¯éå¸¸æ‹…å¿ƒç‰¹æœ—æ™®ï¼Œä»¥è‡³äºå½“å¤©æ™šäº›æ—¶å€™ï¼Œä»–å¬é›†äº†ä¸€æ¬¡é«˜çº§æŒ‡æŒ¥å®˜ä¼šè®®ï¼Œæé†’ä»–ä»¬å‘å°„æ ¸æ­¦å™¨çš„ç¨‹åºè§„å®šäº†å†³ç­–éœ€è¦æœ‰ä»–çš„å‚ä¸ã€‚
 
-The book also **reveals** how Vice President Mike Pence **struggled** more than was **publicly known** over how to **navigate** Mr. Trump¡¯s demands that he **upend** the election certification. 
-Õâ±¾Êé»¹½ÒÊ¾³ö£¬ÔÚÓ¦¶ÔÌØÀÊÆÕÒªÇóËûÍÆ·­´óÑ¡½á¹ûÈÏÖ¤µÄÎÊÌâÉÏ£¬¸±×ÜÍ³Âõ¿Ë¡¤ÅíË¹ÆäÊµ±È¹«ÖÚÖªµÀµÄÒª¸üÃãÇ¿¡£
+The book also **reveals** how Vice President Mike Pence **struggled** more than was **publicly known** over how to **navigate** Mr. Trumpâ€™s demands that he **upend** the election certification. 
+è¿™æœ¬ä¹¦è¿˜æ­ç¤ºå‡ºï¼Œåœ¨åº”å¯¹ç‰¹æœ—æ™®è¦æ±‚ä»–æ¨ç¿»å¤§é€‰ç»“æœè®¤è¯çš„é—®é¢˜ä¸Šï¼Œå‰¯æ€»ç»Ÿè¿ˆå…‹Â·å½­æ–¯å…¶å®æ¯”å…¬ä¼—çŸ¥é“çš„è¦æ›´å‹‰å¼ºã€‚
 
-Mr. Pence **appeared open** to **going along with** Mr. Trump¡¯s plan, pushed the **false claim** that Arizona¡¯s voting results were wrong and asked whether there was any way he could delay certification.
-ÅíË¹ËÆºõ¶ÔÖ§³ÖÌØÀÊÆÕµÄ¼Æ»®³Ö¿ª·ÅÌ¬¶È£¬ËûÌá³öÁËÑÇÀûÉ£ÄÇÖİÍ¶Æ±½á¹ûÓĞÎÊÌâµÄ²»ÊµËµ·¨£¬²¢Ñ¯ÎÊÊÇ·ñÓĞÈÎºÎ·½·¨¿ÉÒÔÍÆ³ÙÈÏÖ¤¡£
+Mr. Pence **appeared open** to **going along with** Mr. Trumpâ€™s plan, pushed the **false claim** that Arizonaâ€™s voting results were wrong and asked whether there was any way he could delay certification.
+å½­æ–¯ä¼¼ä¹å¯¹æ”¯æŒç‰¹æœ—æ™®çš„è®¡åˆ’æŒå¼€æ”¾æ€åº¦ï¼Œä»–æå‡ºäº†äºšåˆ©æ¡‘é‚£å·æŠ•ç¥¨ç»“æœæœ‰é—®é¢˜çš„ä¸å®è¯´æ³•ï¼Œå¹¶è¯¢é—®æ˜¯å¦æœ‰ä»»ä½•æ–¹æ³•å¯ä»¥æ¨è¿Ÿè®¤è¯ã€‚
 
-¡°**Peril**,¡± which is **scheduled to be released** next Tuesday, says its **accounts** are based on **contemporaneous** notes, documents and interviews with **unnamed firsthand** participants and witnesses. 
-¶¨ÓÚÏÂÖÜ¶ş·¢ĞĞµÄ¡¶Î£ÏÕ¡·³Æ£¬ÆäĞğÊöÊÇ»ùÓÚµ±Ê±µÄ±Ê¼Ç¡¢ÎÄ¼şÒÔ¼°¶ÔÎ´Í¸Â¶ĞÕÃûµÄÖ±½Ó²ÎÓëÕßºÍÄ¿»÷ÕßµÄ²É·Ã¡£
+â€œ**Peril**,â€ which is **scheduled to be released** next Tuesday, says its **accounts** are based on **contemporaneous** notes, documents and interviews with **unnamed firsthand** participants and witnesses. 
+å®šäºä¸‹å‘¨äºŒå‘è¡Œçš„ã€Šå±é™©ã€‹ç§°ï¼Œå…¶å™è¿°æ˜¯åŸºäºå½“æ—¶çš„ç¬”è®°ã€æ–‡ä»¶ä»¥åŠå¯¹æœªé€éœ²å§“åçš„ç›´æ¥å‚ä¸è€…å’Œç›®å‡»è€…çš„é‡‡è®¿ã€‚
 
-**Top aides** ¡ª including General Milley, Defense Secretary Mark T. Esper and Attorney General William P. Barr ¡ª became **convinced** that they needed to take **drastic measures** to stop him from **trampling on** American democracy or **setting off** an international conflict, and General Milley thought that Mr. Trump had **declined mentally** in the **aftermath** of the election, according to the book.
-¸ù¾İÕâ±¾Êé£¬°üÀ¨Ã×Àû¡¢¹ú·À²¿??¿Ë¡¤T¡¤°£Ë¹çêºÍË¾·¨²¿?ÍşÁ®¡¤P¡¤°Í¶ûÔÚÄÚµÄ¸ß¼¶ÖúÊÖÃÇÈ·ĞÅ£¬ËûÃÇĞèÒª²ÉÈ¡¼¤ÁÒ´ëÊ©£¬ÒÔ×èÖ¹ÌØÀÊÆÕ¼ùÌ¤ÃÀ¹ú?Ö÷»òÒı·¢¹ú¼Ê³åÍ»£¬Ã×ÀûÈÏÎª´óÑ¡Ö®ºóµÄÌØÀÊÆÕÒÑ¾­³öÏÖĞÄÖÇÉÏµÄË¥ÍÇ¡£
+**Top aides** â€” including General Milley, Defense Secretary Mark T. Esper and Attorney General William P. Barr â€” became **convinced** that they needed to take **drastic measures** to stop him from **trampling on** American democracy or **setting off** an international conflict, and General Milley thought that Mr. Trump had **declined mentally** in the **aftermath** of the election, according to the book.
+æ ¹æ®è¿™æœ¬ä¹¦ï¼ŒåŒ…æ‹¬ç±³åˆ©ã€å›½é˜²éƒ¨??å…‹Â·TÂ·åŸƒæ–¯ç€å’Œå¸æ³•éƒ¨?å¨å»‰Â·PÂ·å·´å°”åœ¨å†…çš„é«˜çº§åŠ©æ‰‹ä»¬ç¡®ä¿¡ï¼Œä»–ä»¬éœ€è¦é‡‡å–æ¿€çƒˆæªæ–½ï¼Œä»¥é˜»æ­¢ç‰¹æœ—æ™®è·µè¸ç¾å›½?ä¸»æˆ–å¼•å‘å›½é™…å†²çªï¼Œç±³åˆ©è®¤ä¸ºå¤§é€‰ä¹‹åçš„ç‰¹æœ—æ™®å·²ç»å‡ºç°å¿ƒæ™ºä¸Šçš„è¡°é¢“ã€‚
 
-**A little less than half** of the book also covers the first several months of Joseph R. Biden¡¯s administration, as the new president **grappled with** the pandemic, a **faltering** economy, Congress and the military¡¯s withdrawal from Afghanistan.
-Õâ±¾ÊéÓĞ½«½üÒ»°ëµÄÆª·ùº­¸ÇÁË°İµÇÕş¸®µÄÇ°¼¸¸öÔÂ£¬½²ÊöÕâÎ»ĞÂ×ÜÍ³ÈçºÎÅ¬Á¦Ó¦¶ÔÒßÇé¡¢¾­¼ÃË¥ÍË¡¢¹ú»áºÍ´Ó°¢¸»º¹³·¾üµÈÎÊÌâ¡£
+**A little less than half** of the book also covers the first several months of Joseph R. Bidenâ€™s administration, as the new president **grappled with** the pandemic, a **faltering** economy, Congress and the militaryâ€™s withdrawal from Afghanistan.
+è¿™æœ¬ä¹¦æœ‰å°†è¿‘ä¸€åŠçš„ç¯‡å¹…æ¶µç›–äº†æ‹œç™»æ”¿åºœçš„å‰å‡ ä¸ªæœˆï¼Œè®²è¿°è¿™ä½æ–°æ€»ç»Ÿå¦‚ä½•åŠªåŠ›åº”å¯¹ç–«æƒ…ã€ç»æµè¡°é€€ã€å›½ä¼šå’Œä»é˜¿å¯Œæ±—æ’¤å†›ç­‰é—®é¢˜ã€‚
 
-But it is the book¡¯s details about the Trump administration that are **likely to garner** the most attention.
-µ«Õâ±¾ÊéÖĞ¹ØÓÚÌØÀÊÆÕÕş¸®µÄÏ¸½Ú¿ÉÄÜ»á»ñµÃ×î¶àµÄ¹Ø×¢¡£
+But it is the bookâ€™s details about the Trump administration that are **likely to garner** the most attention.
+ä½†è¿™æœ¬ä¹¦ä¸­å…³äºç‰¹æœ—æ™®æ”¿åºœçš„ç»†èŠ‚å¯èƒ½ä¼šè·å¾—æœ€å¤šçš„å…³æ³¨ã€‚
 
-Despite General Milley¡¯s **reassurances**, he **feared** that Mr. Trump might be trying to find a moment that he could **seize on** to remain in power, similar to Hitler¡¯s **exploitation** in 1933 of an **arson fire** at the German Reichstag to help **institute emergency powers**, the book said.
-¸ÃÊé³Æ£¬¾¡¹ÜÃ×Àû×ö³öÁË±£Ö¤£¬µ«Àî×÷³Éµ£ĞÄÌØÀÊÆÕ¿ÉÄÜ»áÊÔÍ¼ÕÒµ½Ò»¸öÊ±»ú£¬Í¨¹ı×¥×¡Õâ¸öÊ±»ú¼ÌĞøÕÆÈ¨£¬¾ÍÏñÏ£ÌØÀÕÔÚ1933ÄêÀûÓÃµÂ¹ú¹ú»á´óÏÃ×İ»ğ°¸À´ÕÆÎÕ·Ç³£Ê±ÆÚµÄÈ¨Á¦Ò»Ñù¡£
+Despite General Milleyâ€™s **reassurances**, he **feared** that Mr. Trump might be trying to find a moment that he could **seize on** to remain in power, similar to Hitlerâ€™s **exploitation** in 1933 of an **arson fire** at the German Reichstag to help **institute emergency powers**, the book said.
+è¯¥ä¹¦ç§°ï¼Œå°½ç®¡ç±³åˆ©åšå‡ºäº†ä¿è¯ï¼Œä½†æä½œæˆæ‹…å¿ƒç‰¹æœ—æ™®å¯èƒ½ä¼šè¯•å›¾æ‰¾åˆ°ä¸€ä¸ªæ—¶æœºï¼Œé€šè¿‡æŠ“ä½è¿™ä¸ªæ—¶æœºç»§ç»­æŒæƒï¼Œå°±åƒå¸Œç‰¹å‹’åœ¨1933å¹´åˆ©ç”¨å¾·å›½å›½ä¼šå¤§å¦çºµç«æ¡ˆæ¥æŒæ¡éå¸¸æ—¶æœŸçš„æƒåŠ›ä¸€æ ·ã€‚
 
-But even after the call, General Milley concluded that the situation was ¡°**grave**¡± and General Li ¡°remained **unusually rattled**,¡± the book reports. Mr. Trump, General Milley had concluded, did not want a war but might order the launch of **some sort of** military strike that would **set off a chain reaction** and lead to war.
-¶øÊéÖĞĞ´µÀ£¬¼´±ãÔÚÄÇ´ÎÍ¨»°ºó£¬Ã×ÀûÈÏÎªĞÎÊÆ¡°ÑÏ¾ş¡±£¬Àî×÷³ÉÈÔÈ» ¡°Òì³£½ôÕÅ¡±¡£Ã×ÀûµÃ³öµÄ½áÂÛÊÇ£¬ÌØÀÊÆÕ²»Ïë·¢¶¯Õ½Õù£¬µ«¿ÉÄÜ»áÏÂÁî½øĞĞÄ³ÖÖ¾üÊÂ´ò»÷£¬´Ó¶øÒı·¢Á¬Ëø·´Ó¦£¬²¢µ¼ÖÂÕ½Õù¡£
+But even after the call, General Milley concluded that the situation was â€œ**grave**â€ and General Li â€œremained **unusually rattled**,â€ the book reports. Mr. Trump, General Milley had concluded, did not want a war but might order the launch of **some sort of** military strike that would **set off a chain reaction** and lead to war.
+è€Œä¹¦ä¸­å†™é“ï¼Œå³ä¾¿åœ¨é‚£æ¬¡é€šè¯åï¼Œç±³åˆ©è®¤ä¸ºå½¢åŠ¿â€œä¸¥å³»â€ï¼Œæä½œæˆä»ç„¶ â€œå¼‚å¸¸ç´§å¼ â€ã€‚ç±³åˆ©å¾—å‡ºçš„ç»“è®ºæ˜¯ï¼Œç‰¹æœ—æ™®ä¸æƒ³å‘åŠ¨æˆ˜äº‰ï¼Œä½†å¯èƒ½ä¼šä¸‹ä»¤è¿›è¡ŒæŸç§å†›äº‹æ‰“å‡»ï¼Œä»è€Œå¼•å‘è¿é”ååº”ï¼Œå¹¶å¯¼è‡´æˆ˜äº‰ã€‚
 
-Later that day, General Milley spoke to Speaker Nancy Pelosi, who was growing **increasingly concerned** Mr. Trump would **lash out** and use military force. ¡°This is bad, but who knows what he might do?¡± Ms. Pelosi said. ¡°He¡¯s crazy. You know he¡¯s crazy. He¡¯s been crazy for a long time. So don¡¯t say you don¡¯t know **what his state of mind is**.¡± ¡°Madam **Speaker**,¡± General Milley said, ¡°I agree with you on everything.¡±
-µ±ÌìÍíĞ©Ê±ºò£¬Ã×ÀûÓëÄÏÏ£¡¤ÅåÂå?Òé?½øĞĞÁË½»Ì¸£¬ÅåÂå?Óú·¢µ£ĞÄÌØÀÊÆÕ»á´óËÁ·¢Ğ¹²¢¶¯ÓÃÎäÁ¦¡£¡°ÕâÌ«Ôã¸âÁË£¬µ«Ë­ÖªµÀËû»á×öÊ²Ã´ÄØ?¡±ÅåÂå?Ëµ¡£¡°Ëû·èÁË¡£ÄãÖªµÀËû·èÁË¡£ËûÒÑ¾­·èÁËºÜ¾ÃÁË¡£ËùÒÔ²»ÒªËµÄã²»Çå³şËûµÄĞÄÀí×´¿ö¡£¡± ¡°Òé?Å®Ê¿£¬¡±Ã×ÀûËµ¡£¡°ÄúËµµÄÕâĞ©ÎÒ¶¼Í¬Òâ¡£¡±
+Later that day, General Milley spoke to Speaker Nancy Pelosi, who was growing **increasingly concerned** Mr. Trump would **lash out** and use military force. â€œThis is bad, but who knows what he might do?â€ Ms. Pelosi said. â€œHeâ€™s crazy. You know heâ€™s crazy. Heâ€™s been crazy for a long time. So donâ€™t say you donâ€™t know **what his state of mind is**.â€ â€œMadam **Speaker**,â€ General Milley said, â€œI agree with you on everything.â€
+å½“å¤©æ™šäº›æ—¶å€™ï¼Œç±³åˆ©ä¸å—å¸ŒÂ·ä½©æ´›?è®®?è¿›è¡Œäº†äº¤è°ˆï¼Œä½©æ´›?æ„ˆå‘æ‹…å¿ƒç‰¹æœ—æ™®ä¼šå¤§è‚†å‘æ³„å¹¶åŠ¨ç”¨æ­¦åŠ›ã€‚â€œè¿™å¤ªç³Ÿç³•äº†ï¼Œä½†è°çŸ¥é“ä»–ä¼šåšä»€ä¹ˆå‘¢?â€ä½©æ´›?è¯´ã€‚â€œä»–ç–¯äº†ã€‚ä½ çŸ¥é“ä»–ç–¯äº†ã€‚ä»–å·²ç»ç–¯äº†å¾ˆä¹…äº†ã€‚æ‰€ä»¥ä¸è¦è¯´ä½ ä¸æ¸…æ¥šä»–çš„å¿ƒç†çŠ¶å†µã€‚â€ â€œè®®?å¥³å£«ï¼Œâ€ç±³åˆ©è¯´ã€‚â€œæ‚¨è¯´çš„è¿™äº›æˆ‘éƒ½åŒæ„ã€‚â€
 
-The general added: ¡°The strict procedures are **explicitly** designed to avoid **inadvertent** mistakes or accident or **nefarious, unintentional, illegal, immoral, unethical** launching of the world¡¯s most dangerous weapons.¡±
-Ëû»¹Ëµ:¡°ÑÏ¸ñµÄ³ÌĞòÖ¼ÔÚ±ÜÃâÒòÊèºö³öÏÖ´íÎó»òÒâÍâ£¬»òÊÇ¶ÔÊÀ½çÉÏ×îÎ£ÏÕµÄÎäÆ÷½øĞĞĞ°¶ñµÄ¡¢ÎŞÒâµÄ¡¢·Ç·¨µÄ¡¢²»µÀµÂµÄ·¢Éä¡£¡±
+The general added: â€œThe strict procedures are **explicitly** designed to avoid **inadvertent** mistakes or accident or **nefarious, unintentional, illegal, immoral, unethical** launching of the worldâ€™s most dangerous weapons.â€
+ä»–è¿˜è¯´:â€œä¸¥æ ¼çš„ç¨‹åºæ—¨åœ¨é¿å…å› ç–å¿½å‡ºç°é”™è¯¯æˆ–æ„å¤–ï¼Œæˆ–æ˜¯å¯¹ä¸–ç•Œä¸Šæœ€å±é™©çš„æ­¦å™¨è¿›è¡Œé‚ªæ¶çš„ã€æ— æ„çš„ã€éæ³•çš„ã€ä¸é“å¾·çš„å‘å°„ã€‚â€
 
-**While** much had been reported about General Milley¡¯s views of Mr. Trump, the book¡¯s **depiction** of Mr. Pence revealed for the first time the depths that the vice president went to as his **fealty** to Mr. Trump **collided with** calculations about his political future and the counsel of his aides and advisers to follow the Constitution.
-¾¡¹ÜÓĞ´óÁ¿±ÊÄ«ÃèÊöÁËÃ×Àû¶ÔÌØÀÊÆÕµÄ¿´·¨£¬ÊéÖĞ¶ÔÅíË¹µÄÃèĞ´ÔòÊ×´Î½ÒÂ¶ÁËÔÚ¶ÔÌØÀÊÆÕµÄÖÒ³ÏÓë¶ÔÕşÖÎÇ°Í¾µÄÅÌËã¡¢ÒÔ¼°ÆäÖúÊÖºÍ¹ËÎÊ¶Ô×ñÊØÏÜ·¨µÄ½¨ÒéÖ®¼ä³öÏÖ³åÍ»Ö®Ê±£¬ÕâÎ»¸±×ÜÍ³¿ÉÒÔ×öµ½ºÎÖÖ³Ì¶È¡£
+**While** much had been reported about General Milleyâ€™s views of Mr. Trump, the bookâ€™s **depiction** of Mr. Pence revealed for the first time the depths that the vice president went to as his **fealty** to Mr. Trump **collided with** calculations about his political future and the counsel of his aides and advisers to follow the Constitution.
+å°½ç®¡æœ‰å¤§é‡ç¬”å¢¨æè¿°äº†ç±³åˆ©å¯¹ç‰¹æœ—æ™®çš„çœ‹æ³•ï¼Œä¹¦ä¸­å¯¹å½­æ–¯çš„æå†™åˆ™é¦–æ¬¡æ­éœ²äº†åœ¨å¯¹ç‰¹æœ—æ™®çš„å¿ è¯šä¸å¯¹æ”¿æ²»å‰é€”çš„ç›˜ç®—ã€ä»¥åŠå…¶åŠ©æ‰‹å’Œé¡¾é—®å¯¹éµå®ˆå®ªæ³•çš„å»ºè®®ä¹‹é—´å‡ºç°å†²çªä¹‹æ—¶ï¼Œè¿™ä½å‰¯æ€»ç»Ÿå¯ä»¥åšåˆ°ä½•ç§ç¨‹åº¦ã€‚
 
-¡®It¡¯s a **Godsend**¡¯: 9-Cent Taxi Rides in **Rural** South Korea
-¡°ÌìÉÏµôÏÂÀ´µÄºÃÊÂ¡±:¸Ä±äº«¹úÅ©´åµÄ¡°°ÙÔª³ö×â?¡±
+â€˜Itâ€™s a **Godsend**â€™: 9-Cent Taxi Rides in **Rural** South Korea
+â€œå¤©ä¸Šæ‰ä¸‹æ¥çš„å¥½äº‹â€:æ”¹å˜éŸ©å›½å†œæ‘çš„â€œç™¾å…ƒå‡ºç§Ÿ?â€
 
-On a recent **overcast** morning, a village on South Korea¡¯s west coast showed no sign of human **stirring** until five older residents slowly emerged through the fog that **shrouded lush**, green rice **paddies**.
-²»¾ÃÇ°Ò»¸öÌìÉ«Òõ³ÁµÄÔç³¿£¬ÔÚº«¹ú?º£°¶Ò»¸ö´å×¯£¬ÎíÆøÁıÕÖ×ÅÓôÓô´Ğ´ĞµÄµ¾Ìï£¬Ã»ÓĞĞĞÈË×ß¶¯µÄ¼£Ïó£¬Ö±µ½ÎåÎ»Äê?µÄ¾Ó?ÂıÂıµØ´ÓÎíÖĞ³öÏÖ¡£
+On a recent **overcast** morning, a village on South Koreaâ€™s west coast showed no sign of human **stirring** until five older residents slowly emerged through the fog that **shrouded lush**, green rice **paddies**.
+ä¸ä¹…å‰ä¸€ä¸ªå¤©è‰²é˜´æ²‰çš„æ—©æ™¨ï¼Œåœ¨éŸ©å›½?æµ·å²¸ä¸€ä¸ªæ‘åº„ï¼Œé›¾æ°”ç¬¼ç½©ç€éƒéƒè‘±è‘±çš„ç¨»ç”°ï¼Œæ²¡æœ‰è¡Œäººèµ°åŠ¨çš„è¿¹è±¡ï¼Œç›´åˆ°äº”ä½å¹´?çš„å±…?æ…¢æ…¢åœ°ä»é›¾ä¸­å‡ºç°ã€‚
 
 As its population declined, **so did the number of bus passengers**, which led to unprofitable **routes** being canceled. Then bus drivers **went on strike**.
-Ëæ×ÅÈË¿Ú¼õÉÙ£¬¹«½»?³Ë¿ÍµÄÊıÁ¿Ò²¼õÉÙÁË£¬µ¼ÖÂ²»Ó¯ÀûµÄÂ·Ïß±»È¡Ïû¡£È»ºó¹«¹²Æû?Ë¾»ú¿ªÊ¼°Õ¹¤¡£ 
+éšç€äººå£å‡å°‘ï¼Œå…¬äº¤?ä¹˜å®¢çš„æ•°é‡ä¹Ÿå‡å°‘äº†ï¼Œå¯¼è‡´ä¸ç›ˆåˆ©çš„è·¯çº¿è¢«å–æ¶ˆã€‚ç„¶åå…¬å…±æ±½?å¸æœºå¼€å§‹ç½¢å·¥ã€‚ 
 
-¡°The taxi now drives me all the way to my **doorstep**,¡± Ms. Na said. ¡°You can¡¯t imagine what it was like in older days when I had to **haul** my shopping bag all the way from the bus stop to my place. It **killed my legs**, but there is no one around here to help old folks like me.¡±
-¡°ÏÖÔÚ³ö×â?»áÒ»Â·ÔØÎÒµ½¼Ò?¿Ú£¬¡±ÂŞÕıË³Ëµ¡£¡°Äã¸ù±¾Ïë²»µ½ÒÔÇ°ÎÒµÃ°Ñ¹ºÎï´ü´Ó?Õ¾Ò»Â·ÍÏµ½¼ÒµÄÑù×Ó¡£ÎÒµÄÍÈ¶¼Òª¶ÏÁË£¬µ«Õâ¸½½üÃ»ÓĞÈËÀ´°ïÖúÎÒÕâÑùµÄÀÏÈË¡£¡±
+â€œThe taxi now drives me all the way to my **doorstep**,â€ Ms. Na said. â€œYou canâ€™t imagine what it was like in older days when I had to **haul** my shopping bag all the way from the bus stop to my place. It **killed my legs**, but there is no one around here to help old folks like me.â€
+â€œç°åœ¨å‡ºç§Ÿ?ä¼šä¸€è·¯è½½æˆ‘åˆ°å®¶?å£ï¼Œâ€ç½—æ­£é¡ºè¯´ã€‚â€œä½ æ ¹æœ¬æƒ³ä¸åˆ°ä»¥å‰æˆ‘å¾—æŠŠè´­ç‰©è¢‹ä»?ç«™ä¸€è·¯æ‹–åˆ°å®¶çš„æ ·å­ã€‚æˆ‘çš„è…¿éƒ½è¦æ–­äº†ï¼Œä½†è¿™é™„è¿‘æ²¡æœ‰äººæ¥å¸®åŠ©æˆ‘è¿™æ ·çš„è€äººã€‚â€
 
 For years, South Korea has reported one of the lowest **birthrates** in the world, creating a **fast-aging** population and causing **strains** in all **aspects of society** from its welfare budget to public transportation to schools.
-¶àÄêÀ´£¬º«¹úÒ»Ö±ÊÇÊÀ½çÉÏ³öÉúÂÊ×îµÍµÄ¹ú¼ÒÖ®Ò»£¬Ôì³ÉÈË¿Ú¿ìËÙÀÏÁä»¯£¬²¢¸øÉç»á¸÷¸ö·½Ãæ´øÀ´Ñ¹Á¦¡ª¡ª´Ó¸£ÀûÔ¤Ëãµ½¹«¹²½»Í¨ÔÙµ½Ñ§Ğ£¡£
+å¤šå¹´æ¥ï¼ŒéŸ©å›½ä¸€ç›´æ˜¯ä¸–ç•Œä¸Šå‡ºç”Ÿç‡æœ€ä½çš„å›½å®¶ä¹‹ä¸€ï¼Œé€ æˆäººå£å¿«é€Ÿè€é¾„åŒ–ï¼Œå¹¶ç»™ç¤¾ä¼šå„ä¸ªæ–¹é¢å¸¦æ¥å‹åŠ›â€”â€”ä»ç¦åˆ©é¢„ç®—åˆ°å…¬å…±äº¤é€šå†åˆ°å­¦æ ¡ã€‚
 
-The impact of the **demographic** shift is the most **visible** in thousands of rural villages whose young people, including Ms. Na¡¯s children, have left for big cities for **better-paying jobs**. 
-ÈË¿Ú½á¹¹±ä»¯µÄÓ°ÏìÔÚ³ÉÇ§ÉÏÍòµÄÅ©´åµØÇø±íÏÖµÃ×îÎªÃ÷ÏÔ£¬ÄÇÀïµÄÄêÇáÈË£¬°üÀ¨ÂŞÕıË³µÄº¢×ÓÃÇ£¬¶¼ÒÑ¾­Àë¿ª¼ÒÏçµ½´ó³ÇÊĞÈ¥Ñ°ÕÒÊÕÈë¸ü¸ßµÄ¹¤×÷¡£
+The impact of the **demographic** shift is the most **visible** in thousands of rural villages whose young people, including Ms. Naâ€™s children, have left for big cities for **better-paying jobs**. 
+äººå£ç»“æ„å˜åŒ–çš„å½±å“åœ¨æˆåƒä¸Šä¸‡çš„å†œæ‘åœ°åŒºè¡¨ç°å¾—æœ€ä¸ºæ˜æ˜¾ï¼Œé‚£é‡Œçš„å¹´è½»äººï¼ŒåŒ…æ‹¬ç½—æ­£é¡ºçš„å­©å­ä»¬ï¼Œéƒ½å·²ç»ç¦»å¼€å®¶ä¹¡åˆ°å¤§åŸå¸‚å»å¯»æ‰¾æ”¶å…¥æ›´é«˜çš„å·¥ä½œã€‚
 
-Government officials say supporting the 100-won taxi services is **far more cost-effective than deploying subsidized buses** to the tiny **hamlets tucked** between mountains where few people other than **arthritic**, retired farmers live ¡ª and building wider roads to **accommodate** those buses.
-Õş¸®¹ÙÔ±±íÊ¾£¬Ö§³Ö°ÙÔª³ö×â?·şÎñÔ¶±ÈÏòÒş²ØÔÚÉ½¼äµÄĞ¡´å×¯²¿ÊğÌá¹©²¹ÌùµÄ¹«¹²Æû?¸ü¾ß³É±¾Ğ§Òæ£¬ÄÇÀï³ıÁËÍËĞİ¡¢»¼ÓĞ¹Ø½ÚÑ×µÄÅ©?Ö®Íâ£¬ºÜÉÙÓĞÈË¾Ó×¡£¬¶øÇÒ»¹ÒªĞŞ½¨¸ü¿íµÄµÀÂ·À´ÈİÄÉÕâĞ©¹«¹²Æû?¡£
+Government officials say supporting the 100-won taxi services is **far more cost-effective than deploying subsidized buses** to the tiny **hamlets tucked** between mountains where few people other than **arthritic**, retired farmers live â€” and building wider roads to **accommodate** those buses.
+æ”¿åºœå®˜å‘˜è¡¨ç¤ºï¼Œæ”¯æŒç™¾å…ƒå‡ºç§Ÿ?æœåŠ¡è¿œæ¯”å‘éšè—åœ¨å±±é—´çš„å°æ‘åº„éƒ¨ç½²æä¾›è¡¥è´´çš„å…¬å…±æ±½?æ›´å…·æˆæœ¬æ•ˆç›Šï¼Œé‚£é‡Œé™¤äº†é€€ä¼‘ã€æ‚£æœ‰å…³èŠ‚ç‚çš„å†œ?ä¹‹å¤–ï¼Œå¾ˆå°‘æœ‰äººå±…ä½ï¼Œè€Œä¸”è¿˜è¦ä¿®å»ºæ›´å®½çš„é“è·¯æ¥å®¹çº³è¿™äº›å…¬å…±æ±½?ã€‚
 
-She sees her village of 12 houses, three of them empty, **decay day by day**. "When it rained the other night, I heard part of an empty house next door **caving in**." said Ms. Park, whose own home was **well-kept**, with farm gear **hanging neatly** on a wall and **zinnias blossoming** outside her gate. ¡°We feel more isolated as the pandemic made it more difficult for our children to visit.¡±
-Ëı¿´×Å´å×ÓÀïµÄ12¶°·¿×ÓÒ»ÌìÌìË¥°Ü£¬ÆäÖĞÈı¶°ÊÇ¿ÕµÄ¡£ÄÇÌìÍíÉÏÏÂÓêµÄÊ±ºò£¬ÎÒÌıµ½¸ô±ÚÒ»¶°¿Õ·¿×ÓµÄÒ»²¿·ÖËúÁË. ÆÓ¾°ä¨Ëµ¡£Ëı×Ô¼ºµÄ·¿×Ó±£ÑøµÃºÜºÃ£¬Å©¾ßÕû?µØ¹ÒÔÚÇ½ÉÏ£¬?Íâ°ÙÈÕ¾Õ¿ªÁË¡£ÒßÇéÈÃº¢×ÓÃÇ¸üÄÑÀ´¿´ÍûÎÒÃÇ£¬ÎÒÃÇ¾õµÃ¸ü¹ÂÁ¢ÁË¡£
+She sees her village of 12 houses, three of them empty, **decay day by day**. "When it rained the other night, I heard part of an empty house next door **caving in**." said Ms. Park, whose own home was **well-kept**, with farm gear **hanging neatly** on a wall and **zinnias blossoming** outside her gate. â€œWe feel more isolated as the pandemic made it more difficult for our children to visit.â€
+å¥¹çœ‹ç€æ‘å­é‡Œçš„12æ ‹æˆ¿å­ä¸€å¤©å¤©è¡°è´¥ï¼Œå…¶ä¸­ä¸‰æ ‹æ˜¯ç©ºçš„ã€‚é‚£å¤©æ™šä¸Šä¸‹é›¨çš„æ—¶å€™ï¼Œæˆ‘å¬åˆ°éš”å£ä¸€æ ‹ç©ºæˆ¿å­çš„ä¸€éƒ¨åˆ†å¡Œäº†. æœ´æ™¯æ´™è¯´ã€‚å¥¹è‡ªå·±çš„æˆ¿å­ä¿å…»å¾—å¾ˆå¥½ï¼Œå†œå…·æ•´?åœ°æŒ‚åœ¨å¢™ä¸Šï¼Œ?å¤–ç™¾æ—¥èŠå¼€äº†ã€‚ç–«æƒ…è®©å­©å­ä»¬æ›´éš¾æ¥çœ‹æœ›æˆ‘ä»¬ï¼Œæˆ‘ä»¬è§‰å¾—æ›´å­¤ç«‹äº†ã€‚
 
 **In addition to** picking up groceries and seeing their doctors, they exchange news with **acquaintances** from other villagers, like who was taken to a nursing home and who died.
-³ıÁËÂò¶«?ºÍ¿´²¡£¬ËûÃÇ»¹¸úÆäËû´å×ÓµÄÊìÈË½»Á÷ÏûÏ¢£¬±ÈÈçË­±»ËÍ½øÁËÁÆÑøÔº£¬Ë­È¥ÊÀÁË¡£
+é™¤äº†ä¹°ä¸œ?å’Œçœ‹ç—…ï¼Œä»–ä»¬è¿˜è·Ÿå…¶ä»–æ‘å­çš„ç†Ÿäººäº¤æµæ¶ˆæ¯ï¼Œæ¯”å¦‚è°è¢«é€è¿›äº†ç–—å…»é™¢ï¼Œè°å»ä¸–äº†ã€‚
 
-Seocheon **boasts** two UNESCO **World Heritage** attractions ¡ª a centuries-old practice of **weaving fine fabric** from ramie plants, and its **tidal flats teeming with marine life**. 
-Êæ´¨ÓµÓĞÁ½¸öÁªºÏ¹ú½Ì¿ÆÎÄ×éÖ¯ÊÀ½çÒÅ²ú¡ª¡ªÓĞ×ÅÊı°ÙÄêÀúÊ·µÄÆrÂé·ÄÖ¯£¬ÒÔ¼°º£ÑóÉúÎï±é²¼µÄ³±Ì²¡£
+Seocheon **boasts** two UNESCO **World Heritage** attractions â€” a centuries-old practice of **weaving fine fabric** from ramie plants, and its **tidal flats teeming with marine life**. 
+èˆ’å·æ‹¥æœ‰ä¸¤ä¸ªè”åˆå›½æ•™ç§‘æ–‡ç»„ç»‡ä¸–ç•Œé—äº§â€”â€”æœ‰ç€æ•°ç™¾å¹´å†å²çš„è‹§éº»çººç»‡ï¼Œä»¥åŠæµ·æ´‹ç”Ÿç‰©éå¸ƒçš„æ½®æ»©ã€‚
 
 During the **bird-migrating seasons**, tourists from across South Korea drive to Seocheon to watch **flocks of** longbills, mallards and **honking** swans **feeding on its tidal flats** before flying onto Siberia.
-ÔÚ?ÀàÇ¨áã¼¾½Ú£¬À´×Ôº«¹ú¸÷µØµÄÓÎ¿ÍÇı?Ç°ÍùÊæ´¨£¬¹Û¿´³ÉÈºµÄÍä×ìÎüÃÛ?¡¢Ò°Ñ¼ºÍÃù½ĞµÄÌì¶ìÔÚ?Íù?²®ÀûÑÇÇ°ÔÚ³±Ì²ÉÏÃÙ?¡£
+åœ¨?ç±»è¿å¾™å­£èŠ‚ï¼Œæ¥è‡ªéŸ©å›½å„åœ°çš„æ¸¸å®¢é©±?å‰å¾€èˆ’å·ï¼Œè§‚çœ‹æˆç¾¤çš„å¼¯å˜´å¸èœœ?ã€é‡é¸­å’Œé¸£å«çš„å¤©é¹…åœ¨?å¾€?ä¼¯åˆ©äºšå‰åœ¨æ½®æ»©ä¸Šè§…?ã€‚
 
-But the county didn¡¯t escape the **upheaval** that South Korea¡¯s rapid **industrialization wrought** on its rural towns. Its ramie fabric industry declined, with most of South Korea¡¯s clothes now imported or made of **synthetic materials**. People drink more **imported wine** and beer than sogokju.
-µ«¸Ã¿¤²¢Ã»ÓĞÌÓÍÑº«¹ú¿ìËÙ¹¤Òµ»¯¸øÅ©´å³ÇÕò´øÀ´µÄ¾ç±ä¡£ÓÉÓÚº«¹úµÄ´ó²¿·Ö·ş×°ÏÖÔÚÒÀ¿¿½ø¿Ú»òÓÉºÏ³É²ÄÁÏÖÆ³É£¬ÜÑÂéÃæÁÏ²úÒµË¥Âä¡£
+But the county didnâ€™t escape the **upheaval** that South Koreaâ€™s rapid **industrialization wrought** on its rural towns. Its ramie fabric industry declined, with most of South Koreaâ€™s clothes now imported or made of **synthetic materials**. People drink more **imported wine** and beer than sogokju.
+ä½†è¯¥éƒ¡å¹¶æ²¡æœ‰é€ƒè„±éŸ©å›½å¿«é€Ÿå·¥ä¸šåŒ–ç»™å†œæ‘åŸé•‡å¸¦æ¥çš„å‰§å˜ã€‚ç”±äºéŸ©å›½çš„å¤§éƒ¨åˆ†æœè£…ç°åœ¨ä¾é è¿›å£æˆ–ç”±åˆæˆææ–™åˆ¶æˆï¼Œè‹éº»é¢æ–™äº§ä¸šè¡°è½ã€‚
 
 Seocheon, the county seat, **has all the looks of** a fast-aging community. During a recent market day, its orthopedic and other medical **clinics** were **jammed with** elderly patients.
-Êæ´¨³ÇÓµÓĞ¿ìËÙÀÏÁä»¯ÉçÇøµÄËùÓĞÌØÕ÷¡£ÔÚ×î½üµÄÒ»¸ö¸Ï¼¯ÈÕ£¬Æä?¿ÆºÍÆäËûÒ½ÁÆÕïËùÀï¼·ÂúÁËÀÏÄê»¼Õß¡£
+èˆ’å·åŸæ‹¥æœ‰å¿«é€Ÿè€é¾„åŒ–ç¤¾åŒºçš„æ‰€æœ‰ç‰¹å¾ã€‚åœ¨æœ€è¿‘çš„ä¸€ä¸ªèµ¶é›†æ—¥ï¼Œå…¶?ç§‘å’Œå…¶ä»–åŒ»ç–—è¯Šæ‰€é‡ŒæŒ¤æ»¡äº†è€å¹´æ‚£è€…ã€‚
 
 At the nearby bus and taxi stop, **stooped**, older passengers with **shopping bundles** sat under **an awning** like a row of birds, waiting for 
 their buses or 100-won taxis to **show up**. 
-ÔÚ¸½½üµÄ¹«½»?Õ¾ºÍ³ö×â?Õ¾£¬Ìá×Å¹ºÎï´üµÄÄê?³Ë¿ÍÍÕ×Å±³£¬ÏñÒ»ÅÅĞ¡?Ò»Ñù×øÔÚÕÚÑôÅñÏÂ£¬µÈ´ıËûÃÇµÄ¹«½»?»ò°ÙÔª³ö×â?¡£¿¤Õş¸®°²ÅÅµÄÒ»ÃûÉí´©?É«±³ĞÄµÄÄêÇáÖúÀíÕıÃ¦×ÅÔÚËûÃÇÉÏÏÂ?Ê±°ïÃ¦Ìá¹ºÎï´ü¡£
+åœ¨é™„è¿‘çš„å…¬äº¤?ç«™å’Œå‡ºç§Ÿ?ç«™ï¼Œæç€è´­ç‰©è¢‹çš„å¹´?ä¹˜å®¢é©¼ç€èƒŒï¼Œåƒä¸€æ’å°?ä¸€æ ·ååœ¨é®é˜³ç¯·ä¸‹ï¼Œç­‰å¾…ä»–ä»¬çš„å…¬äº¤?æˆ–ç™¾å…ƒå‡ºç§Ÿ?ã€‚éƒ¡æ”¿åºœå®‰æ’çš„ä¸€åèº«ç©¿?è‰²èƒŒå¿ƒçš„å¹´è½»åŠ©ç†æ­£å¿™ç€åœ¨ä»–ä»¬ä¸Šä¸‹?æ—¶å¸®å¿™æè´­ç‰©è¢‹ã€‚
 
 It was **especially difficult** for old people to walk to the nearest bus stop when it **snowed** in winter or was **scorching** hot in summer
-ÔÚÏÂÑ©µÄ¶¬Ìì»ò Ñ×ÈÈµÄÏÄ¼¾£¬ÀÏÈË²½ĞĞµ½×î½üµÄ¹«½»?Õ¾ÓÈÆäÀ§ÄÑ¡£
+åœ¨ä¸‹é›ªçš„å†¬å¤©æˆ– ç‚çƒ­çš„å¤å­£ï¼Œè€äººæ­¥è¡Œåˆ°æœ€è¿‘çš„å…¬äº¤?ç«™å°¤å…¶å›°éš¾ã€‚
 
 On a recent day, she was **all smiles** as she carried a shopping bag full of fish and **crabs** from the market. She had even **treated** herself to **a new pair of pants**.
-×î½üµÄÒ»Ìì£¬ËıĞ¦ÈİÂúÃæµØÌá×ÅÒ»¸ö×°Âú´ÓÊĞ³¡ÂòÀ´µÄ?ºÍó¦Ğ·µÄ¹ºÎï´ü¡£Ëı»¹¸ø×Ô¼ºÂòÁËÒ»ÌõĞÂ¿ã×Ó¡£
+æœ€è¿‘çš„ä¸€å¤©ï¼Œå¥¹ç¬‘å®¹æ»¡é¢åœ°æç€ä¸€ä¸ªè£…æ»¡ä»å¸‚åœºä¹°æ¥çš„?å’ŒèƒèŸ¹çš„è´­ç‰©è¢‹ã€‚å¥¹è¿˜ç»™è‡ªå·±ä¹°äº†ä¸€æ¡æ–°è£¤å­ã€‚
 
 The announcement by China, which is **by far** the biggest **domestic** producer of coal and the largest financier of **coal-fired** power plants around the world, was **cautiously welcomed** by experts.
-×÷ÎªÆù½ñÎªÖ¹×î´óµÄ¹úÄÚÃºÌ¿Éú²ú¹úºÍÈ«Çò×î´óµÄÈ¼Ãºµç³§ÈÚ×Ê¹ú£¬ÖĞ¹úµÄÕâÒ»ÉùÃ÷ÊÜµ½ÁË×¨¼ÒµÄ½÷É÷»¶Ó­¡£
+ä½œä¸ºè¿„ä»Šä¸ºæ­¢æœ€å¤§çš„å›½å†…ç…¤ç‚­ç”Ÿäº§å›½å’Œå…¨çƒæœ€å¤§çš„ç‡ƒç…¤ç”µå‚èèµ„å›½ï¼Œä¸­å›½çš„è¿™ä¸€å£°æ˜å—åˆ°äº†ä¸“å®¶çš„è°¨æ…æ¬¢è¿ã€‚
 
-China is the **undisputed** king of coal. Last year, China built **more than three times more** new coal power capacity than all other countries in the world **combined, equal to** ¡°more than one large coal plant per week,¡± China¡¯s **net** construction of coal power capacity within the country **grew by** 29.8 gigawatts, **essentially wiping out the gains** of the rest of the world.
-ÖĞ¹úÊÇÎŞ¿ÉÕùÒéµÄÃºÌ¿Ö®Íõ¡£È¥ÄêÖĞ¹úĞÂ½¨µÄÃºÌ¿×°»úÈİÁ¿ÊÇÊÀ½çÉÏËùÓĞÆäËû¹ú¼Ò×ÜºÍµÄÈı±¶¶à£¬Ïàµ±ÓÚ¡°Ã¿ÖÜĞÂ½¨Ò»×ùÒÔÉÏµÄ´óĞÍÈ¼Ãºµç³§¡±¡£ÖĞ¹ú¹úÄÚÃºµç×°»úÈİÁ¿¾»½¨ÉèÔö¼ÓÁË29.8¼ªÍß£¬»ù±¾ÉÏµÖÏûÁËÊÀ½çÆäËûµØÇøÃºµç¾»×°»úÈİÁ¿¼õÉÙµÄ³É¹û
+China is the **undisputed** king of coal. Last year, China built **more than three times more** new coal power capacity than all other countries in the world **combined, equal to** â€œmore than one large coal plant per week,â€ Chinaâ€™s **net** construction of coal power capacity within the country **grew by** 29.8 gigawatts, **essentially wiping out the gains** of the rest of the world.
+ä¸­å›½æ˜¯æ— å¯äº‰è®®çš„ç…¤ç‚­ä¹‹ç‹ã€‚å»å¹´ä¸­å›½æ–°å»ºçš„ç…¤ç‚­è£…æœºå®¹é‡æ˜¯ä¸–ç•Œä¸Šæ‰€æœ‰å…¶ä»–å›½å®¶æ€»å’Œçš„ä¸‰å€å¤šï¼Œç›¸å½“äºâ€œæ¯å‘¨æ–°å»ºä¸€åº§ä»¥ä¸Šçš„å¤§å‹ç‡ƒç…¤ç”µå‚â€ã€‚ä¸­å›½å›½å†…ç…¤ç”µè£…æœºå®¹é‡å‡€å»ºè®¾å¢åŠ äº†29.8å‰ç“¦ï¼ŒåŸºæœ¬ä¸ŠæŠµæ¶ˆäº†ä¸–ç•Œå…¶ä»–åœ°åŒºç…¤ç”µå‡€è£…æœºå®¹é‡å‡å°‘çš„æˆæœ
 
 How much energy is **in a gigawatt**? It is **enough to power** 750,000 homes or 110 million LED **light bulbs**.
-Ò»¼ªÍßÓĞ¶àÉÙÄÜÁ¿? Ëü×ãÒÔÎª75Íò¸ö¼ÒÍ¥»ò1.1ÒÚ¸öLEDµÆÅİ¹©µç
+ä¸€å‰ç“¦æœ‰å¤šå°‘èƒ½é‡? å®ƒè¶³ä»¥ä¸º75ä¸‡ä¸ªå®¶åº­æˆ–1.1äº¿ä¸ªLEDç¯æ³¡ä¾›ç”µ
 
 Is China **abandoning** coal? Not just yet. **Domestically**, China produces about 1,200 gigawatts of energy from coal, according to Greenpeace China.
-ÖĞ¹úÕıÔÚ·ÅÆúÃºÌ¿Âğ?»¹Ã»ÓĞ¡£¸ù¾İÂÌÉ«ºÍÆ½ÖĞ¹úµÄÊı¾İ£¬ÔÚ¹úÄÚ£¬ÖĞ¹úÍ¨¹ıÈ¼ÃºÉú²úÔ¼1200¼ªÍßµÄÄÜÔ´
+ä¸­å›½æ­£åœ¨æ”¾å¼ƒç…¤ç‚­å—?è¿˜æ²¡æœ‰ã€‚æ ¹æ®ç»¿è‰²å’Œå¹³ä¸­å›½çš„æ•°æ®ï¼Œåœ¨å›½å†…ï¼Œä¸­å›½é€šè¿‡ç‡ƒç…¤ç”Ÿäº§çº¦1200å‰ç“¦çš„èƒ½æº
 
-For some **host countries**, partnering with China is the only way to draw energy from their own supply of coal. That is because China has an **abundance of** money, the **steel mills** that are needed to make coal power plants and the **engineering expertise** that many other countries don¡¯t have.
-¶ÔÒ»Ğ©¶«µÀ¹úÀ´Ëµ£¬ÓëÖĞ¹úºÏ×÷ÊÇ´Ó±¾¹úÃºÌ¿¹©Ó¦ÖĞ»ñÈ¡ÄÜÔ´µÄÎ¨Ò»Í¾¾¶¡£ÒòÎªÖĞ¹úÓµÓĞ´óÁ¿×Ê½ğ¡¢ÖÆÔìÃºµç³§ËùĞèµÄ¸Ö³§£¬ÒÔ¼°Ğí¶àÆäËû¹ú¼Ò²»¾ß±¸µÄ¹¤³Ì×¨ÒµÖªÊ¶¡£
+For some **host countries**, partnering with China is the only way to draw energy from their own supply of coal. That is because China has an **abundance of** money, the **steel mills** that are needed to make coal power plants and the **engineering expertise** that many other countries donâ€™t have.
+å¯¹ä¸€äº›ä¸œé“å›½æ¥è¯´ï¼Œä¸ä¸­å›½åˆä½œæ˜¯ä»æœ¬å›½ç…¤ç‚­ä¾›åº”ä¸­è·å–èƒ½æºçš„å”¯ä¸€é€”å¾„ã€‚å› ä¸ºä¸­å›½æ‹¥æœ‰å¤§é‡èµ„é‡‘ã€åˆ¶é€ ç…¤ç”µå‚æ‰€éœ€çš„é’¢å‚ï¼Œä»¥åŠè®¸å¤šå…¶ä»–å›½å®¶ä¸å…·å¤‡çš„å·¥ç¨‹ä¸“ä¸šçŸ¥è¯†ã€‚
 
-South Korea and Japan have been the two largest supporters of coal-fired power plants **abroad after China**. **In light of that**, China¡¯s role in **financing** power plants **overseas** ¡°was only going to grow,¡±
-º«¹úºÍÈÕ±¾ÊÇ³ıÖĞ¹úÖ®Íâº£ÍâÈ¼Ãºµç³§µÄ×î´óÖ§³ÖÕß. ÓĞ¼øÓÚ´Ë£¬ÖĞ¹úÔÚº£Íâ·¢µç³§ÈÚ×Ê·½ÃæµÄ×÷ÓÃ¡°Ö»»áÔ½À´Ô½´ó¡±¡£
+South Korea and Japan have been the two largest supporters of coal-fired power plants **abroad after China**. **In light of that**, Chinaâ€™s role in **financing** power plants **overseas** â€œwas only going to grow,â€
+éŸ©å›½å’Œæ—¥æœ¬æ˜¯é™¤ä¸­å›½ä¹‹å¤–æµ·å¤–ç‡ƒç…¤ç”µå‚çš„æœ€å¤§æ”¯æŒè€…. æœ‰é‰´äºæ­¤ï¼Œä¸­å›½åœ¨æµ·å¤–å‘ç”µå‚èèµ„æ–¹é¢çš„ä½œç”¨â€œåªä¼šè¶Šæ¥è¶Šå¤§â€ã€‚
 
 Plans to build coal power plants have also been **shelved** (South Africa), **reconsidered** (Bangladesh) and faced funding troubles (Vietnam).
-ÔÚÆäËûµØÇø£¬½¨ÉèÈ¼Ãºµç³§µÄ¼Æ»®Ò²±»¸éÖÃ(ÄÏ·Ç)¡¢ÖØĞÂ¿¼ÂÇ(ÃÏ¼ÓÀ­¹ú)»òÃæÁÙ×Ê½ğÎÊÌâ(Ô½ÄÏ)¡£
+åœ¨å…¶ä»–åœ°åŒºï¼Œå»ºè®¾ç‡ƒç…¤ç”µå‚çš„è®¡åˆ’ä¹Ÿè¢«æç½®(å—é)ã€é‡æ–°è€ƒè™‘(å­ŸåŠ æ‹‰å›½)æˆ–é¢ä¸´èµ„é‡‘é—®é¢˜(è¶Šå—)ã€‚
 
-The statement did not **make clear** whether the **moratorium** on ¡°building¡± **meant no more financing**, or if the new policy would apply to projects that have already been proposed, approved or are **under construction**. He would like to have more **clarity** on these issues in the coming weeks.
-ÉùÃ÷Ã»ÓĞËµÃ÷ÔİÍ£¡°½¨Éè¡±ÊÇ·ñÒâÎ¶×Å²»ÔÙÈÚ×Ê£¬»òÕßĞÂÕş²ßÊÇ·ñÊÊÓÃÓÚÒÑ¾­Ìá³ö¡¢Åú×¼»òÔÚ½¨µÄÏîÄ¿¡£ËûÏ£ÍûÔÚÎ´À´¼¸ÖÜÄÚ¶ÔÕâĞ©ÎÊÌâÄÜÓĞ¸üÇå³şµÄÁË½â¡£
+The statement did not **make clear** whether the **moratorium** on â€œbuildingâ€ **meant no more financing**, or if the new policy would apply to projects that have already been proposed, approved or are **under construction**. He would like to have more **clarity** on these issues in the coming weeks.
+å£°æ˜æ²¡æœ‰è¯´æ˜æš‚åœâ€œå»ºè®¾â€æ˜¯å¦æ„å‘³ç€ä¸å†èèµ„ï¼Œæˆ–è€…æ–°æ”¿ç­–æ˜¯å¦é€‚ç”¨äºå·²ç»æå‡ºã€æ‰¹å‡†æˆ–åœ¨å»ºçš„é¡¹ç›®ã€‚ä»–å¸Œæœ›åœ¨æœªæ¥å‡ å‘¨å†…å¯¹è¿™äº›é—®é¢˜èƒ½æœ‰æ›´æ¸…æ¥šçš„äº†è§£ã€‚
 
 Unfortunately, President Donald Trump **promptly tore it up** rather than learn what it was about and get Congress to **ratify** it, and the Democrats have **since then** made no move to **revive the deal**, known as the TPP.
-²»ĞÒµÄÊÇ£¬ÌØÀÊÆÕ×ÜÍ³Ã»ÓĞÈ¥ÁË½âËüµÄÓÃÒâ¡¢ÈÃ¹ú»áÅú×¼Ëü£¬·´¶øÑ¸ËÙËº»ÙÁËËü£¬´Ëºó£¬?Ö÷µ³ÈËÃ»ÓĞ²ÉÈ¡ÈÎºÎĞĞ¶¯À´»Ö¸´ÕâÏî±»³ÆÎªTPPµÄĞ­Òé¡£
+ä¸å¹¸çš„æ˜¯ï¼Œç‰¹æœ—æ™®æ€»ç»Ÿæ²¡æœ‰å»äº†è§£å®ƒçš„ç”¨æ„ã€è®©å›½ä¼šæ‰¹å‡†å®ƒï¼Œåè€Œè¿…é€Ÿæ’•æ¯äº†å®ƒï¼Œæ­¤åï¼Œ?ä¸»å…šäººæ²¡æœ‰é‡‡å–ä»»ä½•è¡ŒåŠ¨æ¥æ¢å¤è¿™é¡¹è¢«ç§°ä¸ºTPPçš„åè®®ã€‚
 
-If you want to be part of this **American-crafted** 21st-century **trade pact**, you have to **play by our rules**. That¡¯s why reformers in China were **intrigued** by the TPP ¡ª they saw it as **a lever** to open the Chinese system ¡ª and **hard-liners** feared it more than **submarines**.
-Èç¹ûÄãÏë³ÉÎªÕâ¸öÓÉÃÀ¹úÖÆ¶¨µÄ21ÊÀ¼ÍÃ³Ò×Ğ­¶¨µÄÒ»²¿·Ö£¬Äã¾Í±ØĞë×ñÊØÎÒÃÇµÄ¹æÔò¡£ÕıÒòÈç´Ë£¬ÖĞ¹úµÄ¸Ä¸ïÕß¶ÔTPP¸ĞĞËÈ¤¡ª¡ªËûÃÇ°ÑËüÊÓÎªÇË¿ªÖĞ¹úÌåÖÆµÄ¸Ü¸Ë¡ª¡ª¶øÇ¿Ó²ÅÉ¶ÔËüµÄ¿Ö¾å³¬¹ıÁËÇ±Í§¡£
+If you want to be part of this **American-crafted** 21st-century **trade pact**, you have to **play by our rules**. Thatâ€™s why reformers in China were **intrigued** by the TPP â€” they saw it as **a lever** to open the Chinese system â€” and **hard-liners** feared it more than **submarines**.
+å¦‚æœä½ æƒ³æˆä¸ºè¿™ä¸ªç”±ç¾å›½åˆ¶å®šçš„21ä¸–çºªè´¸æ˜“åå®šçš„ä¸€éƒ¨åˆ†ï¼Œä½ å°±å¿…é¡»éµå®ˆæˆ‘ä»¬çš„è§„åˆ™ã€‚æ­£å› å¦‚æ­¤ï¼Œä¸­å›½çš„æ”¹é©è€…å¯¹TPPæ„Ÿå…´è¶£â€”â€”ä»–ä»¬æŠŠå®ƒè§†ä¸ºæ’¬å¼€ä¸­å›½ä½“åˆ¶çš„æ æ†â€”â€”è€Œå¼ºç¡¬æ´¾å¯¹å®ƒçš„ææƒ§è¶…è¿‡äº†æ½œè‰‡ã€‚
 
-While China¡¯s **admittance** is not likely anytime soon (it requires **unanimous consent** of the members), just by applying Beijing is exposing how **unserious** the American **far left and far right** are when it comes to China. They **rail against** Beijing¡¯s human rights policy and then they block one of America¡¯s most effective tools to **nudge** ¡ª and that is **the most we can ever do** ¡ª China toward more transparency and the **rule of law**, i.e., TPP.
-ËäÈ»ÖĞ¹ú²»Ì«¿ÉÄÜÔÚ¶ÌÊ±¼äÄÚ¼ÓÈë(ÕâĞèÒª³ÉÔ±¹úµÄÒ»ÖÂÍ¬Òâ)£¬µ«½ö½öÍ¨¹ıÕâ´ÎÉêÇë£¬±±¾©¾Í±©Â¶ÁËÃÀ¹úµÄ¼«×óºÍ¼«ÓÒÔÚÖĞ¹úÎÊÌâÉÏÓĞ¶à²»Õı¾­¡£ËûÃÇ±§Ô¹±±¾©µÄÈËÈ¨Õş²ß£¬È»ºóÓÖ×èÖ¹ÃÀ¹ú×îÓĞĞ§µÄ¹¤¾ßÖ®Ò»(Ò²ÊÇÎÒÃÇÄÜ×öµÄ×î´óÅ¬Á¦)¡ª¡ªÒ²¾ÍÊÇTPP¡ª¡ªÍÆ¶¯ÖĞ¹ú×ßÏò¸üÍ¸Ã÷ºÍ·¨ÖÎ¡£
+While Chinaâ€™s **admittance** is not likely anytime soon (it requires **unanimous consent** of the members), just by applying Beijing is exposing how **unserious** the American **far left and far right** are when it comes to China. They **rail against** Beijingâ€™s human rights policy and then they block one of Americaâ€™s most effective tools to **nudge** â€” and that is **the most we can ever do** â€” China toward more transparency and the **rule of law**, i.e., TPP.
+è™½ç„¶ä¸­å›½ä¸å¤ªå¯èƒ½åœ¨çŸ­æ—¶é—´å†…åŠ å…¥(è¿™éœ€è¦æˆå‘˜å›½çš„ä¸€è‡´åŒæ„)ï¼Œä½†ä»…ä»…é€šè¿‡è¿™æ¬¡ç”³è¯·ï¼ŒåŒ—äº¬å°±æš´éœ²äº†ç¾å›½çš„æå·¦å’Œæå³åœ¨ä¸­å›½é—®é¢˜ä¸Šæœ‰å¤šä¸æ­£ç»ã€‚ä»–ä»¬æŠ±æ€¨åŒ—äº¬çš„äººæƒæ”¿ç­–ï¼Œç„¶ååˆé˜»æ­¢ç¾å›½æœ€æœ‰æ•ˆçš„å·¥å…·ä¹‹ä¸€(ä¹Ÿæ˜¯æˆ‘ä»¬èƒ½åšçš„æœ€å¤§åŠªåŠ›)â€”â€”ä¹Ÿå°±æ˜¯TPPâ€”â€”æ¨åŠ¨ä¸­å›½èµ°å‘æ›´é€æ˜å’Œæ³•æ²»ã€‚
 
-What makes this Chinese **maneuver** more **ridiculous** is that Trump was so **ignorant about** the contents of the TPP before he **tore it up** ¡ª his main objection was **surely** that Obama had **negotiated it**
-ÈÃÖĞ¹úÕâÒ»²½ÆåÏÔµÃÓú·¢»Äµ®µÄÊÇ£¬ÌØÀÊÆÕÔÚËº»ÙTPPÖ®Ç°¶ÔÆäÄÚÈİÒ»ÎŞËùÖª¡ª¡ªËûµÄÖ÷Òª·´¶ÔÀíÓÉ¿Ï¶¨ÊÇ£¬Õâ¸öĞ­ÒéÊÇÓÉ°Â°Í?Ì¸ÅĞ´ï³ÉµÄ 
+What makes this Chinese **maneuver** more **ridiculous** is that Trump was so **ignorant about** the contents of the TPP before he **tore it up** â€” his main objection was **surely** that Obama had **negotiated it**
+è®©ä¸­å›½è¿™ä¸€æ­¥æ£‹æ˜¾å¾—æ„ˆå‘è’è¯çš„æ˜¯ï¼Œç‰¹æœ—æ™®åœ¨æ’•æ¯TPPä¹‹å‰å¯¹å…¶å†…å®¹ä¸€æ— æ‰€çŸ¥â€”â€”ä»–çš„ä¸»è¦åå¯¹ç†ç”±è‚¯å®šæ˜¯ï¼Œè¿™ä¸ªåè®®æ˜¯ç”±å¥¥å·´?è°ˆåˆ¤è¾¾æˆçš„ 
 
-But Trump¡¯s **foolishness** had a lot of **tacit** support from Bernie Sanders and his fellow progressives with their **knee-jerk opposition** to the pact 
-µ«ÌØÀÊÆÕµÄÓŞ´ÀÔÚÏàµ±³Ì¶ÈÉÏµÃµ½ÁË²®Äá¡¤É£µÂË¹ºÍËûµÄ½ø²½ÅÉ»ï°éÃÇµÄÄ¬Ğí£¬ËûÃÇÏÂÒâÊ¶µØ·´¶ÔÕâÏîĞ­Òé
+But Trumpâ€™s **foolishness** had a lot of **tacit** support from Bernie Sanders and his fellow progressives with their **knee-jerk opposition** to the pact 
+ä½†ç‰¹æœ—æ™®çš„æ„šè ¢åœ¨ç›¸å½“ç¨‹åº¦ä¸Šå¾—åˆ°äº†ä¼¯å°¼Â·æ¡‘å¾·æ–¯å’Œä»–çš„è¿›æ­¥æ´¾ä¼™ä¼´ä»¬çš„é»˜è®¸ï¼Œä»–ä»¬ä¸‹æ„è¯†åœ°åå¯¹è¿™é¡¹åè®®
 
 One of the largest **multilateral** trade agreements ever negotiated, it included restrictions on foreign state-owned enterprises that **dumped subsidized products** into our markets. It **set out explicit anti-human-trafficking provisions** that prohibited turning **guest workers** into slave labor. It required **signatories** to permit their workers to form independent trade unions to **collectively bargain** and to **eliminate** all child labor practices.
-ÕâÊÇÓĞÊ·ÒÔÀ´×î´óµÄ¶à±ßÃ³Ò×Ğ­ÒéÖ®Ò»£¬ÆäÖĞ°üÀ¨ÏŞÖÆÏòÎÒ¹úÊĞ³¡ÇãÏú²¹Ìù²úÆ·µÄÍâ¹ú¹úÓĞÆóÒµ¡£Ğ­ÒéÖĞÓĞÃ÷È·µÄ·´ÈË¿Ú··ÔËÌõ¿î£¬½ûÖ¹Å«ÒÛÍâÀ´ÀÍ¹¤¡£ËüÒªÇóµŞÔ¼¹úÔÊĞí¹¤ÈË×é½¨¶ÀÁ¢µÄĞĞÒµ¹¤»á½øĞĞ¼¯ÌåÒé¼Û£¬²¢Ïû³ıÒ»ÇĞÍ¯¹¤¡£
+è¿™æ˜¯æœ‰å²ä»¥æ¥æœ€å¤§çš„å¤šè¾¹è´¸æ˜“åè®®ä¹‹ä¸€ï¼Œå…¶ä¸­åŒ…æ‹¬é™åˆ¶å‘æˆ‘å›½å¸‚åœºå€¾é”€è¡¥è´´äº§å“çš„å¤–å›½å›½æœ‰ä¼ä¸šã€‚åè®®ä¸­æœ‰æ˜ç¡®çš„åäººå£è´©è¿æ¡æ¬¾ï¼Œç¦æ­¢å¥´å½¹å¤–æ¥åŠ³å·¥ã€‚å®ƒè¦æ±‚ç¼”çº¦å›½å…è®¸å·¥äººç»„å»ºç‹¬ç«‹çš„è¡Œä¸šå·¥ä¼šè¿›è¡Œé›†ä½“è®®ä»·ï¼Œå¹¶æ¶ˆé™¤ä¸€åˆ‡ç«¥å·¥ã€‚
 
 By **accounting for** 40 percent of global G.D.P., the original TPP would have become a real **standards-setter** in the Pacific.
-TPPÔ­Ê¼µŞÔ¼¹ú½«Õ¼¾İÈ«ÇòGDPµÄ40%£¬Ê¹Æä³ÉÎªÌ«Æ½ÑóµØÇøÃû¸±ÆäÊµµÄ±ê×¼ÖÆ¶¨Õß¡£
+TPPåŸå§‹ç¼”çº¦å›½å°†å æ®å…¨çƒGDPçš„40%ï¼Œä½¿å…¶æˆä¸ºå¤ªå¹³æ´‹åœ°åŒºåå‰¯å…¶å®çš„æ ‡å‡†åˆ¶å®šè€…ã€‚
 
-**precisely** because they wanted us in the neighborhood as a bigger economic **counterweight** to China¡¯s growing domination. And then we **walked away**, and now China wants to take our place ¡ª **on its terms**.
-ÕâÇ¡Ç¡ÊÇÒòÎªÕâĞ©¹ú¼ÒÏ£ÍûÎÒÃÇÄÜÔÚÕâÒ»µØÇø³ÉÎª¸ü´óµÄ¾­¼ÃÁ¦Á¿ÒÔÖÆÔ¼ÖĞ¹úÈÕÒæÔöÇ¿µÄÍ³ÖÎµØÎ»¡£½á¹ûÎÒÃÇ¾ÍÕâÃ´×ß¿ªÁË£¬Èç½ñÖĞ¹úÏ£ÍûÈ¡´úÎÒÃÇµÄÎ»ÖÃ¡ª¡ª²¢ÇÒÒª°´ËûÃÇµÄ·½Ê½¡£
+**precisely** because they wanted us in the neighborhood as a bigger economic **counterweight** to Chinaâ€™s growing domination. And then we **walked away**, and now China wants to take our place â€” **on its terms**.
+è¿™æ°æ°æ˜¯å› ä¸ºè¿™äº›å›½å®¶å¸Œæœ›æˆ‘ä»¬èƒ½åœ¨è¿™ä¸€åœ°åŒºæˆä¸ºæ›´å¤§çš„ç»æµåŠ›é‡ä»¥åˆ¶çº¦ä¸­å›½æ—¥ç›Šå¢å¼ºçš„ç»Ÿæ²»åœ°ä½ã€‚ç»“æœæˆ‘ä»¬å°±è¿™ä¹ˆèµ°å¼€äº†ï¼Œå¦‚ä»Šä¸­å›½å¸Œæœ›å–ä»£æˆ‘ä»¬çš„ä½ç½®â€”â€”å¹¶ä¸”è¦æŒ‰ä»–ä»¬çš„æ–¹å¼ã€‚
 
-A new book reports that Gen. Mark Milley, the chairman of **the Joint Chiefs of Staff, improperly restricted** the president of the United States¡¯ ability to use military force and **committed to warning** China, an American **adversary**, of any **impending** U.S. military action against it. The context **surrounding** General Milley¡¯s actions is unclear and may be **exculpating**. 
-¸ù¾İÒ»±¾ĞÂÊéµÄ±¨µÀ£¬²ÎÄ±?ÁªÏ¯»áÒéÖ÷Ï¯?¿Ë¡¤Ã×Àû¶ÔÃÀ¹ú×ÜÍ³Ê¹ÓÃ¾üÊÂÁ¦Á¿µÄÄÜÁ¦½øĞĞÁË²»Ç¡µ±µÄÏŞÖÆ£¬²¢ÌáĞÑÃÀ¹úµÄ¶ÔÊÖÖĞ¹ú×¢ÒâÃÀ¹ú¶ÔÆä¼´½«²ÉÈ¡µÄĞĞ¶¯¡£Ã×ÀûÕâĞ©ĞĞÎªËù´¦µÄÇé¾³Ä¿Ç°ÉĞ²»µÃ¶øÖª£¬ÕâÖÖ¾ßÌåÇé¾³Ò²ĞíÄÜÈÃËûÍÑ×ï¡£
+A new book reports that Gen. Mark Milley, the chairman of **the Joint Chiefs of Staff, improperly restricted** the president of the United Statesâ€™ ability to use military force and **committed to warning** China, an American **adversary**, of any **impending** U.S. military action against it. The context **surrounding** General Milleyâ€™s actions is unclear and may be **exculpating**. 
+æ ¹æ®ä¸€æœ¬æ–°ä¹¦çš„æŠ¥é“ï¼Œå‚è°‹?è”å¸­ä¼šè®®ä¸»å¸­?å…‹Â·ç±³åˆ©å¯¹ç¾å›½æ€»ç»Ÿä½¿ç”¨å†›äº‹åŠ›é‡çš„èƒ½åŠ›è¿›è¡Œäº†ä¸æ°å½“çš„é™åˆ¶ï¼Œå¹¶æé†’ç¾å›½çš„å¯¹æ‰‹ä¸­å›½æ³¨æ„ç¾å›½å¯¹å…¶å³å°†é‡‡å–çš„è¡ŒåŠ¨ã€‚ç±³åˆ©è¿™äº›è¡Œä¸ºæ‰€å¤„çš„æƒ…å¢ƒç›®å‰å°šä¸å¾—è€ŒçŸ¥ï¼Œè¿™ç§å…·ä½“æƒ…å¢ƒä¹Ÿè®¸èƒ½è®©ä»–è„±ç½ªã€‚
 
-There are other potential explanations for General Milley¡¯s actions **less salacious** than the Woodward and Costa **telling accounts for**. But the problem **runs deeper than** the specifics of General Milley¡¯s actions and **signals trouble** for the relationship between our military and the civilians it is **intended to serve**.
-¶ÔÓÚÃ×ÀûµÄĞĞÎª£¬»¹ÓĞÆäËû¿ÉÄÜµÄ½âÊÍ£¬¶ø²»ÏñÎéµÂÎÖµÂºÍ¿ÆË¹ËşËùËµµÄÄÇÑù²»¹â²Ê¡£µ«ÕâÊÇÒ»¸ö±ÈÃ×ÀûµÄ¾ßÌåĞĞÎª¸üÉî²ã´ÎµÄÎÊÌâ£¬Ô¤Ê¾×ÅÎÒÃÇµÄ¾üÈËÓëÆäÖ¼ÔÚ·şÎñµÄÆ½?Ö®¼äµÄ¹ØÏµ³öÏÖÁËÎÊÌâ¡£
+There are other potential explanations for General Milleyâ€™s actions **less salacious** than the Woodward and Costa **telling accounts for**. But the problem **runs deeper than** the specifics of General Milleyâ€™s actions and **signals trouble** for the relationship between our military and the civilians it is **intended to serve**.
+å¯¹äºç±³åˆ©çš„è¡Œä¸ºï¼Œè¿˜æœ‰å…¶ä»–å¯èƒ½çš„è§£é‡Šï¼Œè€Œä¸åƒä¼å¾·æ²ƒå¾·å’Œç§‘æ–¯å¡”æ‰€è¯´çš„é‚£æ ·ä¸å…‰å½©ã€‚ä½†è¿™æ˜¯ä¸€ä¸ªæ¯”ç±³åˆ©çš„å…·ä½“è¡Œä¸ºæ›´æ·±å±‚æ¬¡çš„é—®é¢˜ï¼Œé¢„ç¤ºç€æˆ‘ä»¬çš„å†›äººä¸å…¶æ—¨åœ¨æœåŠ¡çš„å¹³?ä¹‹é—´çš„å…³ç³»å‡ºç°äº†é—®é¢˜ã€‚
 
-Though the president is commander in chief, Congress also provides **civilian control** of the military and requires all two-star generals and above to commit to informing **it of concerns** they have about **executive branch** actions. So General Milley discussing the president¡¯s **soundness** with the speaker of the House, **while unseemly**, could be understood as fulfilling his **constitutional responsibilities**.
-¾¡¹Ü×ÜÍ³ÊÇ×ÜË¾Áî£¬µ«¹ú»áÒ²¶Ô¾ü¶ÓÓµÓĞÎÄ¹Ù¿ØÖÆÈ¨£¬²¢ÒªÇóËùÓĞÁ½ĞÇ¼°ÒÔÉÏµÄ½«¾ü³ĞÅµÏòÆäÍ¨±¨ËûÃÇ¶ÔĞĞÕş²¿?ĞĞ¶¯µÄµ£ÓÇ¡£Òò´Ë£¬Ã×ÀûÓëÖÚÒéÔºÒé?ÌÖÂÛ×ÜÍ³µÄÉíĞÄ½¡È«ĞÔ£¬ËäÈ»²»Ì«ÌåÃæ£¬È´¿ÉÒÔÀí½âÎªËûÔÚÂÄĞĞËûµÄÏÜ·¨ÔğÈÎ¡£
+Though the president is commander in chief, Congress also provides **civilian control** of the military and requires all two-star generals and above to commit to informing **it of concerns** they have about **executive branch** actions. So General Milley discussing the presidentâ€™s **soundness** with the speaker of the House, **while unseemly**, could be understood as fulfilling his **constitutional responsibilities**.
+å°½ç®¡æ€»ç»Ÿæ˜¯æ€»å¸ä»¤ï¼Œä½†å›½ä¼šä¹Ÿå¯¹å†›é˜Ÿæ‹¥æœ‰æ–‡å®˜æ§åˆ¶æƒï¼Œå¹¶è¦æ±‚æ‰€æœ‰ä¸¤æ˜ŸåŠä»¥ä¸Šçš„å°†å†›æ‰¿è¯ºå‘å…¶é€šæŠ¥ä»–ä»¬å¯¹è¡Œæ”¿éƒ¨?è¡ŒåŠ¨çš„æ‹…å¿§ã€‚å› æ­¤ï¼Œç±³åˆ©ä¸ä¼—è®®é™¢è®®?è®¨è®ºæ€»ç»Ÿçš„èº«å¿ƒå¥å…¨æ€§ï¼Œè™½ç„¶ä¸å¤ªä½“é¢ï¼Œå´å¯ä»¥ç†è§£ä¸ºä»–åœ¨å±¥è¡Œä»–çš„å®ªæ³•è´£ä»»ã€‚
 
-Whether that¡¯s **indicative** of a **clandestine** move by the chairman or simply the **routine dysfunction** of an administration that wasn¡¯t well managed is difficult to **assess**. We may never **find out the full story**: It¡¯s **unlikely** that General Milley or other military leaders would **publicly rebut the account**, since that would **draw them further into the glare of** civilian politics.
-ºÜÄÑÆÀ¹ÀÕâÊÇ²ÎÁª»áÖ÷Ï¯µÄÃØÃÜ¾Ù¶¯£¬»¹ÊÇ½ö½öÊÇ¹ÜÀí²»ÉÆµÄÕş¸®µÄÈÕ³£ÔË×ªÊ§Áé¡£ÎÒÃÇ¿ÉÄÜÓÀÔ¶ÎŞ·¨ÁË½âµ½ÊÂÇéµÄÈ«Ã²:Ã×Àû»òÆäËû¾üÊÂÁìµ¼ÈË²»Ì«¿ÉÄÜ¹«¿ª·´²µÕâ¸öËµ·¨£¬ÒòÎªÕâ»áÊ¹ËûÃÇ½øÒ»²½ÊÜµ½ÎÄ¹ÙÕşÖÎµÄ×¢Ä¿¡£
+Whether thatâ€™s **indicative** of a **clandestine** move by the chairman or simply the **routine dysfunction** of an administration that wasnâ€™t well managed is difficult to **assess**. We may never **find out the full story**: Itâ€™s **unlikely** that General Milley or other military leaders would **publicly rebut the account**, since that would **draw them further into the glare of** civilian politics.
+å¾ˆéš¾è¯„ä¼°è¿™æ˜¯å‚è”ä¼šä¸»å¸­çš„ç§˜å¯†ä¸¾åŠ¨ï¼Œè¿˜æ˜¯ä»…ä»…æ˜¯ç®¡ç†ä¸å–„çš„æ”¿åºœçš„æ—¥å¸¸è¿è½¬å¤±çµã€‚æˆ‘ä»¬å¯èƒ½æ°¸è¿œæ— æ³•äº†è§£åˆ°äº‹æƒ…çš„å…¨è²Œ:ç±³åˆ©æˆ–å…¶ä»–å†›äº‹é¢†å¯¼äººä¸å¤ªå¯èƒ½å…¬å¼€åé©³è¿™ä¸ªè¯´æ³•ï¼Œå› ä¸ºè¿™ä¼šä½¿ä»–ä»¬è¿›ä¸€æ­¥å—åˆ°æ–‡å®˜æ”¿æ²»çš„æ³¨ç›®ã€‚
 
-But even if the Woodward and Costa account **sensationalizes** General Milley¡¯s actions, his choices are **problematic** for civil-military relations. **Account after account of** the Trump administration is **rife** with General Milley¡¯s friends and colleagues describing his conversations and **ascribing the noblest of** motives to him. Either General Milley has the most **indiscreet circle of acquaintances** in Washington or he¡¯s authorizing it to **reshape his image**.
-µ«¼´Ê¹ÎéµÂÎÖµÂºÍ¿ÆË¹ËşµÄËµ·¨¹ıÓÚ¿äÕÅ£¬Ã×ÀûµÄÑ¡Ôñ¶Ô¾üÕş¹ØÏµÀ´ËµÒ²ÊÇÓĞÎÊÌâµÄ¡£ÔÚÖî¶à¹ØÓÚÌØÀÊÆÕÕş¸®µÄ³ÂÊöÖĞ£¬³ä³â×ÅÃ×ÀûµÄÅóÓÑºÍÍ¬ÊÂ¶ÔËûËùËµµÄ»°µÄÃèÊö£¬²¢½«Ö®¹ÚÒÔ×î¸ßÉĞµÄ¶¯»ú¡£ÒªÃ´Ã×ÀûÔÚ»ªÊ¢¶ÙµÄ½»ÍùÈ¦×Ó¸ñÍâ¿ÚÎŞÕÚÀ¹£¬ÒªÃ´ÕâÒ»ÇĞÊÇµÃµ½ËûÊÚÒâµÄ£¬Ö¼ÔÚÖØËÜËûµÄĞÎÏó¡£
+But even if the Woodward and Costa account **sensationalizes** General Milleyâ€™s actions, his choices are **problematic** for civil-military relations. **Account after account of** the Trump administration is **rife** with General Milleyâ€™s friends and colleagues describing his conversations and **ascribing the noblest of** motives to him. Either General Milley has the most **indiscreet circle of acquaintances** in Washington or heâ€™s authorizing it to **reshape his image**.
+ä½†å³ä½¿ä¼å¾·æ²ƒå¾·å’Œç§‘æ–¯å¡”çš„è¯´æ³•è¿‡äºå¤¸å¼ ï¼Œç±³åˆ©çš„é€‰æ‹©å¯¹å†›æ”¿å…³ç³»æ¥è¯´ä¹Ÿæ˜¯æœ‰é—®é¢˜çš„ã€‚åœ¨è¯¸å¤šå…³äºç‰¹æœ—æ™®æ”¿åºœçš„é™ˆè¿°ä¸­ï¼Œå……æ–¥ç€ç±³åˆ©çš„æœ‹å‹å’ŒåŒäº‹å¯¹ä»–æ‰€è¯´çš„è¯çš„æè¿°ï¼Œå¹¶å°†ä¹‹å† ä»¥æœ€é«˜å°šçš„åŠ¨æœºã€‚è¦ä¹ˆç±³åˆ©åœ¨åç››é¡¿çš„äº¤å¾€åœˆå­æ ¼å¤–å£æ— é®æ‹¦ï¼Œè¦ä¹ˆè¿™ä¸€åˆ‡æ˜¯å¾—åˆ°ä»–æˆæ„çš„ï¼Œæ—¨åœ¨é‡å¡‘ä»–çš„å½¢è±¡ã€‚
 
-One can **sympathize with** the general¡¯s **frustration of having** as his legacy the image of him **striding through** Lafayette Square in combat **fatigues alongside** a president who is **threatening to** use the military against American citizens and still think it¡¯s **unbecoming** for the president¡¯s senior military adviser to be so actively working to **cast himself as the savior** of the Republic. Nor is the problem just **optics**.
-¿ÉÒÔÀí½â½«¾üµÄ·³ÄÕ£¬ÒòÎªËûÁô¸ø´ó¼ÒµÄÓ¡ÏóÊÇ£¬Éí×Å×÷Õ½·şÓëÒ»Î»ÍşĞ²Òª¶ÔÃÀ¹ú¹«?¶¯ÓÃ¾ü¶ÓµÄ×ÜÍ³Ò»Æğ×ß¹ıÀ­ì³ÌØ¹ã³¡£¬µ«Í¬Ê±ÎÒÃÇÒ²ĞèÒªÖªµÀ£¬×÷Îª×ÜÍ³µÄ¸ß¼¶¾üÊÂ¹ËÎÊ£¬Ö÷¶¯°Ñ×Ô¼ºËÜÔì³É¹²ºÍ¹úµÄÕü¾ÈÕßÊÇ²»ºÏÊÊµÄ¡£¶øÇÒÒ²²»Ö»ÊÇĞÎÏóµÄÎÊÌâ¡£
+One can **sympathize with** the generalâ€™s **frustration of having** as his legacy the image of him **striding through** Lafayette Square in combat **fatigues alongside** a president who is **threatening to** use the military against American citizens and still think itâ€™s **unbecoming** for the presidentâ€™s senior military adviser to be so actively working to **cast himself as the savior** of the Republic. Nor is the problem just **optics**.
+å¯ä»¥ç†è§£å°†å†›çš„çƒ¦æ¼ï¼Œå› ä¸ºä»–ç•™ç»™å¤§å®¶çš„å°è±¡æ˜¯ï¼Œèº«ç€ä½œæˆ˜æœä¸ä¸€ä½å¨èƒè¦å¯¹ç¾å›½å…¬?åŠ¨ç”¨å†›é˜Ÿçš„æ€»ç»Ÿä¸€èµ·èµ°è¿‡æ‹‰æ–ç‰¹å¹¿åœºï¼Œä½†åŒæ—¶æˆ‘ä»¬ä¹Ÿéœ€è¦çŸ¥é“ï¼Œä½œä¸ºæ€»ç»Ÿçš„é«˜çº§å†›äº‹é¡¾é—®ï¼Œä¸»åŠ¨æŠŠè‡ªå·±å¡‘é€ æˆå…±å’Œå›½çš„æ‹¯æ•‘è€…æ˜¯ä¸åˆé€‚çš„ã€‚è€Œä¸”ä¹Ÿä¸åªæ˜¯å½¢è±¡çš„é—®é¢˜ã€‚
 
-Some argue that military leaders **interposing** themselves between the president and a **politically motivated war** is **the least bad choice**. Even in the extreme circumstances of a **wildly erratic** president attempting to use the military to prevent the transfer of power, it¡¯s dangerous to have military leaders **subvert civilian control** of the military in the way a chairman of the Joint Chiefs ¡°pulling a Schlesinger¡± implies. An **unsound** president is a danger to democracy, but a military that considers itself the **arbiter** of elected leaders¡¯ lawful authorities is also a danger to democracy.
-Ò»Ğ©ÈËÈÏÎª£¬ÓÉ¾üÊÂÁìµ¼ÈË³öÃæ×èÄÓ×ÜÍ³·¢¶¯³öÓÚÕşÖÎ¶¯»úµÄÕ½Õù£¬ÊôÓÚ×î²»»µµÄÒ»¸öÑ¡Ôñ¡£¼´Ê¹ÔÚ×î¼«¶ËµÄÇé¿öÏÂ£¬Ò»¸ö¼«Æä²»ÎÈ¶¨µÄ×ÜÍ³ÊÔÍ¼ÀûÓÃ¾ü¶Ó×èÖ¹È¨Á¦½»½Ó£¬²ÎÄ±?ÁªÏ¯»áÒéÖ÷Ï¯¡°Ğ§·¨Ê©À³ĞÁ¸ñ¡± Ò²ÒâÎ¶×Å¾üÊÂÁìµ¼ÈËµß¸²ÎÄ¹Ù¶Ô¾ü¶ÓµÄ¿ØÖÆ£¬Òò¶øÊÇÎ£ÏÕµÄ¡£ÉíĞÄÓĞí¦µÄ×ÜÍ³¶Ô?Ö÷¹¹³ÉÍşĞ²£¬µ«Èç¹û¾ü¶ÓÈÏÎª×Ô¼ºÊÇ?Ñ¡Áìµ¼ÈËºÏ·¨È¨Á¦µÄÖÙ²ÃÕß£¬Ò²½«¶Ô?Ö÷¹¹³ÉÍşĞ²¡£
+Some argue that military leaders **interposing** themselves between the president and a **politically motivated war** is **the least bad choice**. Even in the extreme circumstances of a **wildly erratic** president attempting to use the military to prevent the transfer of power, itâ€™s dangerous to have military leaders **subvert civilian control** of the military in the way a chairman of the Joint Chiefs â€œpulling a Schlesingerâ€ implies. An **unsound** president is a danger to democracy, but a military that considers itself the **arbiter** of elected leadersâ€™ lawful authorities is also a danger to democracy.
+ä¸€äº›äººè®¤ä¸ºï¼Œç”±å†›äº‹é¢†å¯¼äººå‡ºé¢é˜»æŒ æ€»ç»Ÿå‘åŠ¨å‡ºäºæ”¿æ²»åŠ¨æœºçš„æˆ˜äº‰ï¼Œå±äºæœ€ä¸åçš„ä¸€ä¸ªé€‰æ‹©ã€‚å³ä½¿åœ¨æœ€æç«¯çš„æƒ…å†µä¸‹ï¼Œä¸€ä¸ªæå…¶ä¸ç¨³å®šçš„æ€»ç»Ÿè¯•å›¾åˆ©ç”¨å†›é˜Ÿé˜»æ­¢æƒåŠ›äº¤æ¥ï¼Œå‚è°‹?è”å¸­ä¼šè®®ä¸»å¸­â€œæ•ˆæ³•æ–½è±è¾›æ ¼â€ ä¹Ÿæ„å‘³ç€å†›äº‹é¢†å¯¼äººé¢ è¦†æ–‡å®˜å¯¹å†›é˜Ÿçš„æ§åˆ¶ï¼Œå› è€Œæ˜¯å±é™©çš„ã€‚èº«å¿ƒæœ‰æ™çš„æ€»ç»Ÿå¯¹?ä¸»æ„æˆå¨èƒï¼Œä½†å¦‚æœå†›é˜Ÿè®¤ä¸ºè‡ªå·±æ˜¯?é€‰é¢†å¯¼äººåˆæ³•æƒåŠ›çš„ä»²è£è€…ï¼Œä¹Ÿå°†å¯¹?ä¸»æ„æˆå¨èƒã€‚
 
-America¡¯s **uniformed leaders** did an outstanding job ensuring that our military **kept out of** politics during and after a **contested election**. They deserve **enormous credit** for that **professionalism** and service to the nation. They¡¯d deserve even more credit if they¡¯d stop **publicizing** it.
-ÃÀ¹úµÄ¾ü·½Áìµ¼×öÁË³öÉ«µÄ¹¤×÷£¬È·±£ÎÒÃÇµÄ¾ü¶ÓÔÚÓĞÕùÒéµÄÑ¡¾ÙÆÚ¼äºÍÖ®ºóÔ¶ÀëÕşÖÎ¡£ËûÃÇµÄ×¨Òµ¾«ÉñºÍ¶Ô¹ú¼ÒµÄ·şÎñÖµµÃ¾Ş´óµÄÔŞÓş¡£Èç¹ûËûÃÇÄÜ²»°ÑÕâĞ©¹«¿ª»¯£¬µÃµ½µÄÔŞÓş»á¸ü¶à¡£
+Americaâ€™s **uniformed leaders** did an outstanding job ensuring that our military **kept out of** politics during and after a **contested election**. They deserve **enormous credit** for that **professionalism** and service to the nation. Theyâ€™d deserve even more credit if theyâ€™d stop **publicizing** it.
+ç¾å›½çš„å†›æ–¹é¢†å¯¼åšäº†å‡ºè‰²çš„å·¥ä½œï¼Œç¡®ä¿æˆ‘ä»¬çš„å†›é˜Ÿåœ¨æœ‰äº‰è®®çš„é€‰ä¸¾æœŸé—´å’Œä¹‹åè¿œç¦»æ”¿æ²»ã€‚ä»–ä»¬çš„ä¸“ä¸šç²¾ç¥å’Œå¯¹å›½å®¶çš„æœåŠ¡å€¼å¾—å·¨å¤§çš„èµèª‰ã€‚å¦‚æœä»–ä»¬èƒ½ä¸æŠŠè¿™äº›å…¬å¼€åŒ–ï¼Œå¾—åˆ°çš„èµèª‰ä¼šæ›´å¤šã€‚
 
 When the troubled Chinese property giant Evergrande **was starved for cash** earlier this year, it turned to its own employees with a **strong- arm pitch**: Those who wanted to keep their bonuses would have to give Evergrande **a short-term loan**. Some workers **tapped** their friends and family for money to lend to the company. Evergrande suddenly stopped paying back the loans, which had **been packaged as high-interest investments**.
-½ñÄêÔçĞ©Ê±ºò£¬ÏİÈëÀ§¾³µÄÖĞ¹ú·¿µØ²ú¾ŞÍ·ºã´ó¼±ĞèÏÖ½ğ£¬ËüÏò×Ô¼ºµÄÔ±¹¤´óÁ¦Ğû´«:ÄÇĞ©ÏëÒª±£Áô½±½ğµÄÈË±ØĞëÏòºã´óÌá¹©¶ÌÆÚ´û¿î¡£Ò»Ğ©Ô±¹¤ÏòËûÃÇµÄÅóÓÑºÍ¼ÒÈË½èÇ®¸ø¹«Ë¾¡£ºã´óÍ»È»Í£Ö¹³¥»¹ÕâĞ©Ôø±»°ü×°Îª¸ßÏ¢Í¶×ÊµÄ´û¿î¡£
+ä»Šå¹´æ—©äº›æ—¶å€™ï¼Œé™·å…¥å›°å¢ƒçš„ä¸­å›½æˆ¿åœ°äº§å·¨å¤´æ’å¤§æ€¥éœ€ç°é‡‘ï¼Œå®ƒå‘è‡ªå·±çš„å‘˜å·¥å¤§åŠ›å®£ä¼ :é‚£äº›æƒ³è¦ä¿ç•™å¥–é‡‘çš„äººå¿…é¡»å‘æ’å¤§æä¾›çŸ­æœŸè´·æ¬¾ã€‚ä¸€äº›å‘˜å·¥å‘ä»–ä»¬çš„æœ‹å‹å’Œå®¶äººå€Ÿé’±ç»™å…¬å¸ã€‚æ’å¤§çªç„¶åœæ­¢å¿è¿˜è¿™äº›æ›¾è¢«åŒ…è£…ä¸ºé«˜æ¯æŠ•èµ„çš„è´·æ¬¾ã€‚
 
-Once China¡¯s **most prolific** property developer, Evergrande has become the country¡¯s **most indebted** company. It **owes unfinished apartments to** home buyers and has **racked up** more than $300 billion in unpaid bills. 
-ºã´óÔø¾­ÊÇÖĞ¹ú×î¸ß²úµÄ·¿µØ²ú¿ª·¢ÉÌ£¬ÏÖÔÚÒÑ¾­³ÉÎªÖĞ¹ú¸ºÕ®×î¶àµÄ¹«Ë¾¡£Ëü»¹Ç·¹º·¿ÕßÎ´Íê¹¤µÄ¹«Ô¢£¬²¢ÀÛ»ıÁË³¬¹ı3000ÒÚÃÀÔªµÄÎ´¸¶ÕËµ¥¡£
+Once Chinaâ€™s **most prolific** property developer, Evergrande has become the countryâ€™s **most indebted** company. It **owes unfinished apartments to** home buyers and has **racked up** more than $300 billion in unpaid bills. 
+æ’å¤§æ›¾ç»æ˜¯ä¸­å›½æœ€é«˜äº§çš„æˆ¿åœ°äº§å¼€å‘å•†ï¼Œç°åœ¨å·²ç»æˆä¸ºä¸­å›½è´Ÿå€ºæœ€å¤šçš„å…¬å¸ã€‚å®ƒè¿˜æ¬ è´­æˆ¿è€…æœªå®Œå·¥çš„å…¬å¯“ï¼Œå¹¶ç´¯ç§¯äº†è¶…è¿‡3000äº¿ç¾å…ƒçš„æœªä»˜è´¦å•ã€‚
 
 Evergrande is **on the hook** to buyers for nearly 1.6 million apartments, according to one estimate, and it may owe money to tens of thousands of its workers.
-¾İÒ»Ïî¹À¼Æ£¬ºã´óĞèÒªÏò¹º·¿Õß½»¸¶160ÍòÌ×¹«Ô¢£¬²¢ÇÒËü¿ÉÄÜÇ·ÊıÍòÃûÔ±¹¤µÄÇ®¡£
+æ®ä¸€é¡¹ä¼°è®¡ï¼Œæ’å¤§éœ€è¦å‘è´­æˆ¿è€…äº¤ä»˜160ä¸‡å¥—å…¬å¯“ï¼Œå¹¶ä¸”å®ƒå¯èƒ½æ¬ æ•°ä¸‡åå‘˜å·¥çš„é’±ã€‚
 
 As rumors **rippled through** the Chinese internet that Evergrande might **go bankrupt** this month, Mr. Jin and some of his colleagues gathered in front of **provincial government offices** to **pressure** the authorities to **step in**.
-Ëæ×ÅÖĞ¹ú»¥ÁªÍø´«³öºã´ó¿ÉÄÜÔÚ±¾ÔÂÆÆ²úµÄÁ÷ÑÔ£¬½ğ³ÉºÍËûµÄÒ»Ğ©Í¬ÊÂ¾Û¼¯ÔÚÊ¡Õş¸®°ì¹«ÊÒÇ°£¬Ïòµ±¾ÖÊ©Ñ¹£¬ÒªÇóµ±¾Ö½éÈë¡£
+éšç€ä¸­å›½äº’è”ç½‘ä¼ å‡ºæ’å¤§å¯èƒ½åœ¨æœ¬æœˆç ´äº§çš„æµè¨€ï¼Œé‡‘æˆå’Œä»–çš„ä¸€äº›åŒäº‹èšé›†åœ¨çœæ”¿åºœåŠå…¬å®¤å‰ï¼Œå‘å½“å±€æ–½å‹ï¼Œè¦æ±‚å½“å±€ä»‹å…¥ã€‚
 
-In the southern city of Shenzhen, home buyers and employees **crowded into the lobby** of Evergrande¡¯s headquarters last week and **shouted** for their money back. ¡°Evergrande, give back my money I **earned with blood and sweat**!¡± some could **be heard yelling** in **video footage**.
-ÔÚÄÏ·½³ÇÊĞÉîÛÚ£¬¹º·¿ÕßºÍÔ±¹¤ÉÏÖÜÓ¿Èëºã´ó×Ü²¿µÄ´óÌü¸ßºôÒªÇóÍËÇ®£¬ÔÚÊÓÆµÆ¬¶ÎÖĞ¿ÉÒÔÌıµ½Ò»Ğ©ÈË´óº°:¡°ºã´ó»¹ÎÒÑªº¹Ç®!¡±
+In the southern city of Shenzhen, home buyers and employees **crowded into the lobby** of Evergrandeâ€™s headquarters last week and **shouted** for their money back. â€œEvergrande, give back my money I **earned with blood and sweat**!â€ some could **be heard yelling** in **video footage**.
+åœ¨å—æ–¹åŸå¸‚æ·±åœ³ï¼Œè´­æˆ¿è€…å’Œå‘˜å·¥ä¸Šå‘¨æ¶Œå…¥æ’å¤§æ€»éƒ¨çš„å¤§å…é«˜å‘¼è¦æ±‚é€€é’±ï¼Œåœ¨è§†é¢‘ç‰‡æ®µä¸­å¯ä»¥å¬åˆ°ä¸€äº›äººå¤§å–Š:â€œæ’å¤§è¿˜æˆ‘è¡€æ±—é’±!â€
 
-Evergrande did not **respond to a request for comment**, but the company recently warned that it was **under ¡°tremendous¡± financial pressure** and said it had hired **restructuring experts** to help determine its future. **Things were not always this way**.
-ºã´óÃ»ÓĞ»ØÓ¦ÖÃÆÀÇëÇó£¬µ«¸Ã¹«Ë¾×î½ü¾¯¸æ³ÆÆäÃæÁÙ¡°¾Ş´ó¡±µÄ²ÆÎñÑ¹Á¦£¬²¢±íÊ¾ÒÑÆ¸ÇëÖØ×é×¨¼ÒÀ´°ïÖúÃ÷È·¹«Ë¾µÄÎ´À´¡£Ôø¾­µÄºã´ó²¢·ÇÈç´Ë¡£
+Evergrande did not **respond to a request for comment**, but the company recently warned that it was **under â€œtremendousâ€ financial pressure** and said it had hired **restructuring experts** to help determine its future. **Things were not always this way**.
+æ’å¤§æ²¡æœ‰å›åº”ç½®è¯„è¯·æ±‚ï¼Œä½†è¯¥å…¬å¸æœ€è¿‘è­¦å‘Šç§°å…¶é¢ä¸´â€œå·¨å¤§â€çš„è´¢åŠ¡å‹åŠ›ï¼Œå¹¶è¡¨ç¤ºå·²è˜è¯·é‡ç»„ä¸“å®¶æ¥å¸®åŠ©æ˜ç¡®å…¬å¸çš„æœªæ¥ã€‚æ›¾ç»çš„æ’å¤§å¹¶éå¦‚æ­¤ã€‚
 
-Banks and investors **happily threw in money, making a bet on** China¡¯s growing middle class and its **appetite for** homes and other properties. **More recently**, real estate has **come under scrutiny** from Chinese regulators who want to end **the go-go years of the boom** and have forced the industry to start **paying off debt**. The idea was to **reduce Chinese banks¡¯ exposure** to the property sector. 
-ÒøĞĞºÍÍ¶×ÊÕßĞË¸ß²ÉÁÒµØÍ¶Èë×Ê½ğ£¬Ñº×¢ÖĞ¹ú²»¶Ï×³´óµÄÖĞ²ú½×¼¶¼°Æä¶Ô×¡ËùºÍÆäËû·¿²úµÄĞèÇó¡£¶ø×î½ü£¬·¿µØ²úÊÜµ½ÖĞ¹ú¼à¹Ü»ú¹¹µÄÉó²é£¬ËüÃÇÏ£Íû½áÊø·±Ê¢Ê±ÆÚ£¬²¢Ç¿ÖÆÒªÇó¸ÃĞĞÒµ¿ªÊ¼³¥»¹Õ®Îñ¡£ÕâÒ»×ö·¨ÊÇÎªÁË¼õÉÙÖĞ¹úµÄÒøĞĞÔÚ·¿µØ²úĞĞÒµµÄ?ÏÕ¡£
+Banks and investors **happily threw in money, making a bet on** Chinaâ€™s growing middle class and its **appetite for** homes and other properties. **More recently**, real estate has **come under scrutiny** from Chinese regulators who want to end **the go-go years of the boom** and have forced the industry to start **paying off debt**. The idea was to **reduce Chinese banksâ€™ exposure** to the property sector. 
+é“¶è¡Œå’ŒæŠ•èµ„è€…å…´é«˜é‡‡çƒˆåœ°æŠ•å…¥èµ„é‡‘ï¼ŒæŠ¼æ³¨ä¸­å›½ä¸æ–­å£®å¤§çš„ä¸­äº§é˜¶çº§åŠå…¶å¯¹ä½æ‰€å’Œå…¶ä»–æˆ¿äº§çš„éœ€æ±‚ã€‚è€Œæœ€è¿‘ï¼Œæˆ¿åœ°äº§å—åˆ°ä¸­å›½ç›‘ç®¡æœºæ„çš„å®¡æŸ¥ï¼Œå®ƒä»¬å¸Œæœ›ç»“æŸç¹ç››æ—¶æœŸï¼Œå¹¶å¼ºåˆ¶è¦æ±‚è¯¥è¡Œä¸šå¼€å§‹å¿è¿˜å€ºåŠ¡ã€‚è¿™ä¸€åšæ³•æ˜¯ä¸ºäº†å‡å°‘ä¸­å›½çš„é“¶è¡Œåœ¨æˆ¿åœ°äº§è¡Œä¸šçš„?é™©ã€‚
 
 The Chinese financial system is really complex and when you see **fissures** like this you realize the impact it could **possibly have on society**, If Evergrande **were to disappear** tomorrow, it could be **a socially systemic issue**
-ÖĞ¹úµÄ½ğÈÚÌåÏµ×ÅÊµ¸´ÔÓ£¬µ±Äã¿´µ½ÕâÑùµÄÁÑÏ¶Ê±£¬Äã¾Í»áÏëµ½Ëü¿ÉÄÜ¶ÔÉç»á²úÉúµÄÓ°Ïì£¬Èç¹ûÃ÷Ììºã´ó¾ÍÏûÊ§ÁË£¬ÄÇ¿ÉÄÜ»á³ÉÎªÒ»¸öÉç»áÏµÍ³ÎÊÌâ
+ä¸­å›½çš„é‡‘èä½“ç³»ç€å®å¤æ‚ï¼Œå½“ä½ çœ‹åˆ°è¿™æ ·çš„è£‚éš™æ—¶ï¼Œä½ å°±ä¼šæƒ³åˆ°å®ƒå¯èƒ½å¯¹ç¤¾ä¼šäº§ç”Ÿçš„å½±å“ï¼Œå¦‚æœæ˜å¤©æ’å¤§å°±æ¶ˆå¤±äº†ï¼Œé‚£å¯èƒ½ä¼šæˆä¸ºä¸€ä¸ªç¤¾ä¼šç³»ç»Ÿé—®é¢˜
 
-Evergrande has tried to **sell off parts of its vast empire** to raise new funds, but said last week it was ¡°**uncertain as to** whether the group will be able to **consummate** any such sale.¡± It accused the news media of **triggering a panic** among home buyers with **negative coverage**. But Evergrande¡¯s funding channels **started drying up well** before last week. The company started forcing staff members to help **bail it out** as early as April, when it **began peddling the short-term loans**.
-ºã´óÔøÊÔÍ¼ÂôµôÆäÅÓ´óµÛ¹úµÄ²¿·ÖÒµÎñÒÔ³ï¼¯ĞÂ×Ê½ğ£¬µ«ÉÏÖÜ±íÊ¾¡°²»È·¶¨¸Ã¼¯ÍÅÊÇ·ñÄÜ¹»Íê³ÉÈÎºÎ´ËÀà³öÊÛ¡±¡£ËüÖ¸ÔğĞÂÎÅÃ½ÌåÒÔ¸ºÃæ±¨µÀÒı·¢¹º·¿ÕßµÄ¿Ö»Å¡£µ«ÔçÔÚÉÏÖÜÖ®Ç°£¬ºã´óµÄÈÚ×ÊÇşµÀ¾Í¿ªÊ¼¿İ½ß¡£¸Ã¹«Ë¾ÔçÔÚ4ÔÂ¾Í¿ªÊ¼¶µÊÛ¶ÌÆÚ´û¿î£¬Ç¿ÆÈÔ±¹¤°ïÖúç£À§¡£
+Evergrande has tried to **sell off parts of its vast empire** to raise new funds, but said last week it was â€œ**uncertain as to** whether the group will be able to **consummate** any such sale.â€ It accused the news media of **triggering a panic** among home buyers with **negative coverage**. But Evergrandeâ€™s funding channels **started drying up well** before last week. The company started forcing staff members to help **bail it out** as early as April, when it **began peddling the short-term loans**.
+æ’å¤§æ›¾è¯•å›¾å–æ‰å…¶åºå¤§å¸å›½çš„éƒ¨åˆ†ä¸šåŠ¡ä»¥ç­¹é›†æ–°èµ„é‡‘ï¼Œä½†ä¸Šå‘¨è¡¨ç¤ºâ€œä¸ç¡®å®šè¯¥é›†å›¢æ˜¯å¦èƒ½å¤Ÿå®Œæˆä»»ä½•æ­¤ç±»å‡ºå”®â€ã€‚å®ƒæŒ‡è´£æ–°é—»åª’ä½“ä»¥è´Ÿé¢æŠ¥é“å¼•å‘è´­æˆ¿è€…çš„ææ…Œã€‚ä½†æ—©åœ¨ä¸Šå‘¨ä¹‹å‰ï¼Œæ’å¤§çš„èèµ„æ¸ é“å°±å¼€å§‹æ¯ç«­ã€‚è¯¥å…¬å¸æ—©åœ¨4æœˆå°±å¼€å§‹å…œå”®çŸ­æœŸè´·æ¬¾ï¼Œå¼ºè¿«å‘˜å·¥å¸®åŠ©çº¾å›°ã€‚
 
 The **extent of the campaign** and how much money it might have raised were unclear. Employees were told to each invest **a certain amount of** money in Evergrande **Wealth products**, and that if they failed to do so, their performance pay and bonuses would **be docked**. Mr. Liu said his parents and **in-laws** had invested $200,000, and that he had put about $75,000 of his own money into Evergrande Wealth.
-ÉĞ²»Çå³şºã´óÕâÒ»ĞĞÎªµÄ¹ã¶ÈÒÔ¼°¿ÉÄÜÒÑ³ï¼¯µ½µÄ×Ê½ğÊıÁ¿¡£Ô±¹¤±»¸æÖªÃ¿ÈËÒªÍ¶×ÊÒ»¶¨ÊıÁ¿µÄºã´ó²Æ¸»²úÆ·£¬Èç¹û²»ÕâÑù×ö£¬ËûÃÇ»á±»¿Ûµô¼¨Ğ§¹¤×ÊºÍ½±½ğ¡£ÁõÔÆÍ¤Ëµ£¬ËûµÄ¸¸Ä¸ºÍÔÀ¸¸Ä¸Í¶×ÊÁË130ÍòÔª£¬Ëû×Ô¼ºÒ²Í¶ÈëÁË50ÍòÔªµ½ºã´ó²Æ¸»¡£
+å°šä¸æ¸…æ¥šæ’å¤§è¿™ä¸€è¡Œä¸ºçš„å¹¿åº¦ä»¥åŠå¯èƒ½å·²ç­¹é›†åˆ°çš„èµ„é‡‘æ•°é‡ã€‚å‘˜å·¥è¢«å‘ŠçŸ¥æ¯äººè¦æŠ•èµ„ä¸€å®šæ•°é‡çš„æ’å¤§è´¢å¯Œäº§å“ï¼Œå¦‚æœä¸è¿™æ ·åšï¼Œä»–ä»¬ä¼šè¢«æ‰£æ‰ç»©æ•ˆå·¥èµ„å’Œå¥–é‡‘ã€‚åˆ˜äº‘äº­è¯´ï¼Œä»–çš„çˆ¶æ¯å’Œå²³çˆ¶æ¯æŠ•èµ„äº†130ä¸‡å…ƒï¼Œä»–è‡ªå·±ä¹ŸæŠ•å…¥äº†50ä¸‡å…ƒåˆ°æ’å¤§è´¢å¯Œã€‚
 
-Officials from China¡¯s **top banking and insurance watchdogs** told executives to **sort out their towering debt** in order to maintain the stability of China¡¯s financial market.
-ÖĞ¹ú×î¸ßÒøĞĞºÍ±£ÏÕ¼à¹Ü»ú¹¹µÄ¹ÙÔ±ÒªÇó¸ß¹ÜÃÇÇåÀí¾Ş¶îÕ®Îñ£¬ÒÔÎ¬»¤ÖĞ¹ú½ğÈÚÊĞ³¡µÄÎÈ¶¨¡£
+Officials from Chinaâ€™s **top banking and insurance watchdogs** told executives to **sort out their towering debt** in order to maintain the stability of Chinaâ€™s financial market.
+ä¸­å›½æœ€é«˜é“¶è¡Œå’Œä¿é™©ç›‘ç®¡æœºæ„çš„å®˜å‘˜è¦æ±‚é«˜ç®¡ä»¬æ¸…ç†å·¨é¢å€ºåŠ¡ï¼Œä»¥ç»´æŠ¤ä¸­å›½é‡‘èå¸‚åœºçš„ç¨³å®šã€‚
 
-Under **heightened scrutiny**, Evergrande gathered its top executives earlier this month and asked them to publicly sign what it called a ¡°**military order**¡± ¡ª **a pledge to** complete unfinished property developments.
-ÔÚ¸üÑÏ¸ñµÄÉó²éÏÂ£¬ºã´ó±¾ÔÂÔçĞ©Ê±ºòÕÙ¼¯ÁËÆä¸ß¹Ü£¬ÒªÇóËûÃÇ¹«¿ªÇ©ÊğËùÎ½µÄ¡°±£½»Â¥¾üÁî×´¡±¡ª¡ª±£Ö¤Î´Íê³ÉµÄÂ¥ÅÌÍê³É½»¸¶¡£
+Under **heightened scrutiny**, Evergrande gathered its top executives earlier this month and asked them to publicly sign what it called a â€œ**military order**â€ â€” **a pledge to** complete unfinished property developments.
+åœ¨æ›´ä¸¥æ ¼çš„å®¡æŸ¥ä¸‹ï¼Œæ’å¤§æœ¬æœˆæ—©äº›æ—¶å€™å¬é›†äº†å…¶é«˜ç®¡ï¼Œè¦æ±‚ä»–ä»¬å…¬å¼€ç­¾ç½²æ‰€è°“çš„â€œä¿äº¤æ¥¼å†›ä»¤çŠ¶â€â€”â€”ä¿è¯æœªå®Œæˆçš„æ¥¼ç›˜å®Œæˆäº¤ä»˜ã€‚
 
 Everyone is anxious, we are **a bit like ants on a hot pan**, having no idea what to do, we hope the protests would **prompt the government to** act before it was too late. it will get the central government to pay enough attention. Then someone would **come out to intervene**.
-´ó¼Ò¶¼¼±ÁË£¬ÎÒÃÇ¾ÍÓĞµãÏñÈÈ¹øÉÏµÄÂìÒÏ£¬ÓĞµãºÁÎŞÍ·Ğ÷£¬ÎÒÃÇÏ£Íû¿¹Òé»î¶¯ÄÜ´ÙÊ¹Õş¸®ÔÚÎªÊ±ÒÑÍíÖ®Ç°²ÉÈ¡ĞĞ¶¯¡£ÄÜ¹»ÒıÆğÉÏÃæµÄÖØÊÓ£¬ºóĞø×ÔÈ»¶øÈ»µØ¾ÍÓĞ¿ÉÄÜÓĞÈË³öÀ´¸ÉÔ¤ÁË¡£
+å¤§å®¶éƒ½æ€¥äº†ï¼Œæˆ‘ä»¬å°±æœ‰ç‚¹åƒçƒ­é”…ä¸Šçš„èš‚èšï¼Œæœ‰ç‚¹æ¯«æ— å¤´ç»ªï¼Œæˆ‘ä»¬å¸Œæœ›æŠ—è®®æ´»åŠ¨èƒ½ä¿ƒä½¿æ”¿åºœåœ¨ä¸ºæ—¶å·²æ™šä¹‹å‰é‡‡å–è¡ŒåŠ¨ã€‚èƒ½å¤Ÿå¼•èµ·ä¸Šé¢çš„é‡è§†ï¼Œåç»­è‡ªç„¶è€Œç„¶åœ°å°±æœ‰å¯èƒ½æœ‰äººå‡ºæ¥å¹²é¢„äº†ã€‚
 
 I was **sitting at a stoplight** in Beijing when I first noticed the young men who would walk in between cars and **hand out brochures to drivers**. I **rolled down the window** and took one. To my surprise, it was **a for-sale advertisement** for apartments in a newly constructed building.
-ÔÚ±±¾©µÄÒ»¸öºìÂÌµÆÇ°£¬ÎÒµÚÒ»´Î×¢Òâµ½ÓĞÄêÇáÈË×ßÔÚÆû?Ö®¼ä·¢Ğ¡¹ã¸æ¡£ÎÒÒ¡ÏÂ?´°£¬½Ó¹ıÀ´Ò»·İ¡£ÁîÎÒ¾ªÑÈµÄÊÇ£¬ÕâÊÇÒ»¸öÊÛÂ¥¹ã¸æ¡£
+åœ¨åŒ—äº¬çš„ä¸€ä¸ªçº¢ç»¿ç¯å‰ï¼Œæˆ‘ç¬¬ä¸€æ¬¡æ³¨æ„åˆ°æœ‰å¹´è½»äººèµ°åœ¨æ±½?ä¹‹é—´å‘å°å¹¿å‘Šã€‚æˆ‘æ‘‡ä¸‹?çª—ï¼Œæ¥è¿‡æ¥ä¸€ä»½ã€‚ä»¤æˆ‘æƒŠè®¶çš„æ˜¯ï¼Œè¿™æ˜¯ä¸€ä¸ªå”®æ¥¼å¹¿å‘Šã€‚
 
 This was in 2010, when the American economy was still **enduring the aftereffects** of its **burst housing bubble**. I had covered the rise of that bubble, and **the fliers** in Beijing reminded me of Florida during its **frothiest days**: The Chinese real-estate market had grown so hot that the people **were marketing apartments** at red lights, **as if buying one were as common as buying a soda**.
-ÄÇÊÇÔÚ2010Äê£¬µ±Ê±ÃÀ¹ú¾­¼Ã»¹ÔÚ³ĞÊÜ·¿µØ²úÅİÄ­ÆÆÁÑµÄºóÒÅÖ¢¡£ÎÒÔø±¨µÀ¹ıÄÇ´ÎÅİÄ­µÄĞËÆğ£¬±±¾©µÄ´«µ¥ÈÃÎÒÏëÆğÁËÅİÄ­×îÑÏÖØµÄ·ğÂŞÀï´ï:ÖĞ¹ú·¿µØ²úÊĞ³¡±äµÃÈç´Ë»ğ±¬£¬ÒÔÖÁÓÚÈËÃÇÔÚµÈºìµÆµÄÊ±ºòÍÆÏú¹«Ô¢£¬ºÃÏñÂò·¿¾ÍÏñÂòÆûË®Ò»ÑùÆ½³£¡£
+é‚£æ˜¯åœ¨2010å¹´ï¼Œå½“æ—¶ç¾å›½ç»æµè¿˜åœ¨æ‰¿å—æˆ¿åœ°äº§æ³¡æ²«ç ´è£‚çš„åé—ç—‡ã€‚æˆ‘æ›¾æŠ¥é“è¿‡é‚£æ¬¡æ³¡æ²«çš„å…´èµ·ï¼ŒåŒ—äº¬çš„ä¼ å•è®©æˆ‘æƒ³èµ·äº†æ³¡æ²«æœ€ä¸¥é‡çš„ä½›ç½—é‡Œè¾¾:ä¸­å›½æˆ¿åœ°äº§å¸‚åœºå˜å¾—å¦‚æ­¤ç«çˆ†ï¼Œä»¥è‡³äºäººä»¬åœ¨ç­‰çº¢ç¯çš„æ—¶å€™æ¨é”€å…¬å¯“ï¼Œå¥½åƒä¹°æˆ¿å°±åƒä¹°æ±½æ°´ä¸€æ ·å¹³å¸¸ã€‚
 
-There were many other **signs of a property bubble** during that trip. **On sidewalks** in Shanghai, I walked past **real-estate agencies** that had **set up** outdoor tables, to **accommodate** all of the demand. **Around this same time**, Jim Chanos, a **prominent** American investor, warned that China¡¯s **real-estate excesses** had **placed it on a ¡°treadmill to hell¡±** and that the **bubble might burst** at any point.
-ÔÚÄÇ´Î·ÃÎÊÆÚ¼ä£¬ÎÒ»¹¿´µ½ÆäËûĞí¶à·¿µØ²úÅİÄ­µÄ¼£Ïó¡£ÔÚÉÏº£µÄÈËĞĞµÀÉÏ£¬ÎÒ¾­¹ıÒ»Ğ©·¿µØ²úÖĞ½é£¬ËûÃÇÎªÁËÂú×ãËùÓĞµÄĞèÇó£¬°Ñ×À×Ó°Úµ½ÁËÍâÃæ¡£´óÔ¼ÔÚÍ¬Ò»Ê±¼ä£¬ÃÀ¹úÖøÃûÍ¶×ÊÕß¼ªÄ·¡¤²éÅµË¹¾¯¸æ£¬ÖĞ¹úµÄ·¿µØ²ú¹ı¶ÈÒÑ¾­ÈÃËü´¦ÓÚ¡°Í¨ÍùµØÓüµÄÅÜ²½»úÉÏ¡±£¬ÅİÄ­ËæÊ±¿ÉÄÜÆÆÁÑ¡£
+There were many other **signs of a property bubble** during that trip. **On sidewalks** in Shanghai, I walked past **real-estate agencies** that had **set up** outdoor tables, to **accommodate** all of the demand. **Around this same time**, Jim Chanos, a **prominent** American investor, warned that Chinaâ€™s **real-estate excesses** had **placed it on a â€œtreadmill to hellâ€** and that the **bubble might burst** at any point.
+åœ¨é‚£æ¬¡è®¿é—®æœŸé—´ï¼Œæˆ‘è¿˜çœ‹åˆ°å…¶ä»–è®¸å¤šæˆ¿åœ°äº§æ³¡æ²«çš„è¿¹è±¡ã€‚åœ¨ä¸Šæµ·çš„äººè¡Œé“ä¸Šï¼Œæˆ‘ç»è¿‡ä¸€äº›æˆ¿åœ°äº§ä¸­ä»‹ï¼Œä»–ä»¬ä¸ºäº†æ»¡è¶³æ‰€æœ‰çš„éœ€æ±‚ï¼ŒæŠŠæ¡Œå­æ‘†åˆ°äº†å¤–é¢ã€‚å¤§çº¦åœ¨åŒä¸€æ—¶é—´ï¼Œç¾å›½è‘—åæŠ•èµ„è€…å‰å§†Â·æŸ¥è¯ºæ–¯è­¦å‘Šï¼Œä¸­å›½çš„æˆ¿åœ°äº§è¿‡åº¦å·²ç»è®©å®ƒå¤„äºâ€œé€šå¾€åœ°ç‹±çš„è·‘æ­¥æœºä¸Šâ€ï¼Œæ³¡æ²«éšæ—¶å¯èƒ½ç ´è£‚ã€‚
 
 A recent **slowing of** the real-estate sales in China appears to put Evergrande **on the brink of insolvency**. Without **as much cash flow as** in prior years, the company may be unable to **meet a large payment due** tomorrow. 
-×î½ü¸ÃÊĞ³¡µÄÏúÊÛ·Å»º£¬ËÆºõ½«ºã´óÍÆµ½ÁËÆÆ²ú±ßÔµ¡£Ã»ÓĞÁËÍùÄêÄÇÃ´¶àµÄÏÖ½ğÁ÷£¬¹«Ë¾¿ÉÄÜÎŞ·¨Ö§¸¶Ã÷Ììµ½ÆÚµÄÒ»´ó±Ê¿îÏî¡£
+æœ€è¿‘è¯¥å¸‚åœºçš„é”€å”®æ”¾ç¼“ï¼Œä¼¼ä¹å°†æ’å¤§æ¨åˆ°äº†ç ´äº§è¾¹ç¼˜ã€‚æ²¡æœ‰äº†å¾€å¹´é‚£ä¹ˆå¤šçš„ç°é‡‘æµï¼Œå…¬å¸å¯èƒ½æ— æ³•æ”¯ä»˜æ˜å¤©åˆ°æœŸçš„ä¸€å¤§ç¬”æ¬¾é¡¹ã€‚
 
-Some other Chinese developers may also be in trouble. And **by almost any measure**, Chinese real estate is **suspiciously expensive**. Consider **the median price** of homes in China¡¯s largest cities **relative to** the median incomes in those cities ¡ª a classic measure of **housing valuation** (and one that **was blinking bright red** in the U.S. before the housing bubble burst):
-ÆäËûÒ»Ğ©ÖĞ¹ú¿ª·¢ÉÌ¿ÉÄÜÒ²Óöµ½ÁËÂé·³¡£¶øÇÒÎŞÂÛÒÔÊ²Ã´±ê×¼ºâÁ¿£¬ÖĞ¹úµÄ·¿µØ²ú¶¼¹óµÃÁîÈË»³ÒÉ¡£¿¼ÂÇÒ»ÏÂÖĞ¹ú´ó³ÇÊĞµÄ·¿¼ÛÖĞÎ»ÊıÏà¶ÔÓÚÕâĞ©³ÇÊĞµÄÊÕÈëÖĞÎ»ÊıµÄ±ÈÖµ¡ª¡ªÕâÊÇºâÁ¿·¿¼Û¼ÛÖµµÄÒ»¸ö¾­µäÖ¸±ê(ÔÚ·¿µØ²úÅİÄ­ÆÆÁÑÖ®Ç°£¬Õâ¸öÖ¸±êÔÚÃÀ¹úÒ»Ö±ÉÁË¸×ÅÏÊºìÉ«)
+Some other Chinese developers may also be in trouble. And **by almost any measure**, Chinese real estate is **suspiciously expensive**. Consider **the median price** of homes in Chinaâ€™s largest cities **relative to** the median incomes in those cities â€” a classic measure of **housing valuation** (and one that **was blinking bright red** in the U.S. before the housing bubble burst):
+å…¶ä»–ä¸€äº›ä¸­å›½å¼€å‘å•†å¯èƒ½ä¹Ÿé‡åˆ°äº†éº»çƒ¦ã€‚è€Œä¸”æ— è®ºä»¥ä»€ä¹ˆæ ‡å‡†è¡¡é‡ï¼Œä¸­å›½çš„æˆ¿åœ°äº§éƒ½è´µå¾—ä»¤äººæ€€ç–‘ã€‚è€ƒè™‘ä¸€ä¸‹ä¸­å›½å¤§åŸå¸‚çš„æˆ¿ä»·ä¸­ä½æ•°ç›¸å¯¹äºè¿™äº›åŸå¸‚çš„æ”¶å…¥ä¸­ä½æ•°çš„æ¯”å€¼â€”â€”è¿™æ˜¯è¡¡é‡æˆ¿ä»·ä»·å€¼çš„ä¸€ä¸ªç»å…¸æŒ‡æ ‡(åœ¨æˆ¿åœ°äº§æ³¡æ²«ç ´è£‚ä¹‹å‰ï¼Œè¿™ä¸ªæŒ‡æ ‡åœ¨ç¾å›½ä¸€ç›´é—ªçƒç€é²œçº¢è‰²)
 
-China¡¯s real-estate is a bubble of **epic proportions**, one that by various metrics easily **overshadows** the pre-global financial crisis **run-up** in U.S. property values (which burst with such **disastrous consequences**) or **the unsustainable booms** in European countries such as Ireland and Spain. It **stands comparison with** the Japanese real estate bubble of the 1980s, which helped send the country into at least one ¡°**lost decade**¡± when it finally burst in the early 1990s.
-ÖĞ¹úµÄ·¿µØ²úÊÇÒ»¸öÊ·Ê«¼¶µÄÅİÄ­£¬ÒÔ¸÷ÖÖÖ¸±êºâÁ¿£¬ËüÇá¶øÒ×¾ÙµØ¸Ç¹ıÁËÈ«Çò ½ğÈÚÎ£»úÇ°ÃÀ¹ú·¿µØ²ú¼Û¸ñµÄì­Éı(ÆäÅİÄ­ÆÆÁÑ´øÀ´ÁËÔÖÄÑĞÔµÄºó¹û)£¬»òÕß¸Ç¹ıÁË°®¶ûÀ¼ºÍ?°àÑÀµÈÅ·ÖŞ¹ú¼Ò²»¿É³ÖĞøµÄ·±ÈÙ¡£Ëü¿ÉÒÔÍ¬ÉÏÊÀ¼Í80Äê´úµÄÈÕ±¾·¿µØ²úÅİÄ­ÏàÌá²¢ÂÛ£¬ºóÕßÔÚ90Äê´ú³õ×îÖÕÆÆÃğÊ±Áî¸Ã¹ú½øÈëÁËÖÁÉÙÒ»¸ö¡°Ê§È¥µÄÊ®Äê¡±¡£
+Chinaâ€™s real-estate is a bubble of **epic proportions**, one that by various metrics easily **overshadows** the pre-global financial crisis **run-up** in U.S. property values (which burst with such **disastrous consequences**) or **the unsustainable booms** in European countries such as Ireland and Spain. It **stands comparison with** the Japanese real estate bubble of the 1980s, which helped send the country into at least one â€œ**lost decade**â€ when it finally burst in the early 1990s.
+ä¸­å›½çš„æˆ¿åœ°äº§æ˜¯ä¸€ä¸ªå²è¯—çº§çš„æ³¡æ²«ï¼Œä»¥å„ç§æŒ‡æ ‡è¡¡é‡ï¼Œå®ƒè½»è€Œæ˜“ä¸¾åœ°ç›–è¿‡äº†å…¨çƒ é‡‘èå±æœºå‰ç¾å›½æˆ¿åœ°äº§ä»·æ ¼çš„é£™å‡(å…¶æ³¡æ²«ç ´è£‚å¸¦æ¥äº†ç¾éš¾æ€§çš„åæœ)ï¼Œæˆ–è€…ç›–è¿‡äº†çˆ±å°”å…°å’Œ?ç­ç‰™ç­‰æ¬§æ´²å›½å®¶ä¸å¯æŒç»­çš„ç¹è£ã€‚å®ƒå¯ä»¥åŒä¸Šä¸–çºª80å¹´ä»£çš„æ—¥æœ¬æˆ¿åœ°äº§æ³¡æ²«ç›¸æå¹¶è®ºï¼Œåè€…åœ¨90å¹´ä»£åˆæœ€ç»ˆç ´ç­æ—¶ä»¤è¯¥å›½è¿›å…¥äº†è‡³å°‘ä¸€ä¸ªâ€œå¤±å»çš„åå¹´â€ã€‚
 
 For thousands of years, Chinese emperors tried to **achieve immortality** by **swallowing all kinds of stuff**. None worked.
-¼¸Ç§ÄêÀ´£¬ÖĞ¹úµÄ»ÊµÛÎªÁË?Éú²»ÀÏ³ÔÏÂÁË¸÷ÖÖ¶«?¡£µ«¶¼Ã»ÓĞ³É¹¦¡£
+å‡ åƒå¹´æ¥ï¼Œä¸­å›½çš„çš‡å¸ä¸ºäº†?ç”Ÿä¸è€åƒä¸‹äº†å„ç§ä¸œ?ã€‚ä½†éƒ½æ²¡æœ‰æˆåŠŸã€‚
 
-**Given all of this**, China can **partly grow into** its housing bubble. Many families¡¯ incomes are **rising rapidly enough**, for instance, that they are able to **meet mortgage payments** that **initially may have looked ambitious**.
-×ÛÉÏËùÊö£¬ÖĞ¹ú¿ÉÄÜÔÚÒ»¶¨³Ì¶ÈÉÏ·¢Õ¹µ½ÊÊÓ¦·¿µØ²úÅİÄ­µÄ³Ì¶È¡£ÀıÈç£¬Ğí¶à¼ÒÍ¥µÄÊÕÈëÔö?ºÜ¿ì£¬ËûÃÇÄÜ¹»Ö§¸¶µ±³õ¿´ÆğÀ´Êı×ÖºÜ´óµÄµÖÑº´û¿î¡£
+**Given all of this**, China can **partly grow into** its housing bubble. Many familiesâ€™ incomes are **rising rapidly enough**, for instance, that they are able to **meet mortgage payments** that **initially may have looked ambitious**.
+ç»¼ä¸Šæ‰€è¿°ï¼Œä¸­å›½å¯èƒ½åœ¨ä¸€å®šç¨‹åº¦ä¸Šå‘å±•åˆ°é€‚åº”æˆ¿åœ°äº§æ³¡æ²«çš„ç¨‹åº¦ã€‚ä¾‹å¦‚ï¼Œè®¸å¤šå®¶åº­çš„æ”¶å…¥å¢?å¾ˆå¿«ï¼Œä»–ä»¬èƒ½å¤Ÿæ”¯ä»˜å½“åˆçœ‹èµ·æ¥æ•°å­—å¾ˆå¤§çš„æŠµæŠ¼è´·æ¬¾ã€‚
 
-China¡¯s government also has large **cash reserves** and has **been willing to do whatever is necessary to** avoid an economic crisis. Over the past several years, the government has taken steps to **cool the market**, like restricting sales and home loans **in some situations**. Those moves have **slowed down price increases** in recent years. **The longevity of the boom** suggests that the market is more complex than its **depictions** as a bubble suggest
-ÖĞ¹úÕş¸®Ò²ÓµÓĞ´óÁ¿ÏÖ½ğ´¢±¸£¬²¢Ô¸Òâ²ÉÈ¡Ò»ÇĞ±ØÒª´ëÊ©±ÜÃâ¾­¼ÃÎ£»ú¡£ÔÚ¹ıÈ¥¼¸ÄêÀï£¬Õş¸®ÒÑ¾­²ÉÈ¡´ëÊ©¸øÊĞ³¡½µÎÂ£¬±ÈÈçÔÚÄ³Ğ©Çé¿öÏÂÏŞÖÆÏúÊÛºÍ×¡·¿´û¿î¡£ÕâĞ©¾Ù´ë¼õ»ºÁË½üÄêÀ´µÄ¼Û¸ñÉÏÕÇ¡£·±ÈÙµÄ³Ö¾ÃĞÔ±íÃ÷£¬±ÈÆğ½«ËüÃèÊöÎªÅİÄ­£¬Õâ¸öÊĞ³¡Òª¸´ÔÓµÃ¶à¡£
+Chinaâ€™s government also has large **cash reserves** and has **been willing to do whatever is necessary to** avoid an economic crisis. Over the past several years, the government has taken steps to **cool the market**, like restricting sales and home loans **in some situations**. Those moves have **slowed down price increases** in recent years. **The longevity of the boom** suggests that the market is more complex than its **depictions** as a bubble suggest
+ä¸­å›½æ”¿åºœä¹Ÿæ‹¥æœ‰å¤§é‡ç°é‡‘å‚¨å¤‡ï¼Œå¹¶æ„¿æ„é‡‡å–ä¸€åˆ‡å¿…è¦æªæ–½é¿å…ç»æµå±æœºã€‚åœ¨è¿‡å»å‡ å¹´é‡Œï¼Œæ”¿åºœå·²ç»é‡‡å–æªæ–½ç»™å¸‚åœºé™æ¸©ï¼Œæ¯”å¦‚åœ¨æŸäº›æƒ…å†µä¸‹é™åˆ¶é”€å”®å’Œä½æˆ¿è´·æ¬¾ã€‚è¿™äº›ä¸¾æªå‡ç¼“äº†è¿‘å¹´æ¥çš„ä»·æ ¼ä¸Šæ¶¨ã€‚ç¹è£çš„æŒä¹…æ€§è¡¨æ˜ï¼Œæ¯”èµ·å°†å®ƒæè¿°ä¸ºæ³¡æ²«ï¼Œè¿™ä¸ªå¸‚åœºè¦å¤æ‚å¾—å¤šã€‚
 
-He agreed that China¡¯s economy **suffered from imbalances**, including too much construction. Still, he added, ¡°I think we have plenty of time, plenty of tools and **plenty of instruments to make a soft landing** and **a smooth transformation**.¡±
-ËûÍ¬ÒâÖĞ¹ú¾­¼Ã´æÔÚ²»Æ½ºâ£¬°üÀ¨¹ı¶àµÄ½¨Éè¡£²»¹ı£¬Ëû»¹Ëµ£¬¡°ÎÒÈÏÎªÎÒÃÇÓĞ³ä×ãµÄÊ±¼ä¡¢³ä×ãµÄ¹¤¾ßºÍ³ä×ãµÄÊÖ¶ÎÀ´ÊµÏÖÈí×ÅÂ½ºÍÆ½ÎÈ×ªĞÍ¡£¡±
+He agreed that Chinaâ€™s economy **suffered from imbalances**, including too much construction. Still, he added, â€œI think we have plenty of time, plenty of tools and **plenty of instruments to make a soft landing** and **a smooth transformation**.â€
+ä»–åŒæ„ä¸­å›½ç»æµå­˜åœ¨ä¸å¹³è¡¡ï¼ŒåŒ…æ‹¬è¿‡å¤šçš„å»ºè®¾ã€‚ä¸è¿‡ï¼Œä»–è¿˜è¯´ï¼Œâ€œæˆ‘è®¤ä¸ºæˆ‘ä»¬æœ‰å……è¶³çš„æ—¶é—´ã€å……è¶³çš„å·¥å…·å’Œå……è¶³çš„æ‰‹æ®µæ¥å®ç°è½¯ç€é™†å’Œå¹³ç¨³è½¬å‹ã€‚â€
 
-**Based on standard economic measures**, China still has **not done nearly enough to fix its imbalances** ¡ª and it¡¯s usually a mistake to **bet against** the normal rules of economics. But China¡¯s **unmatched size** and **long record of growth** offer reasons at least to **wonder whether** this bubble really is different.
-¸ù¾İ¹æ·¶µÄ¾­¼ÃºâÁ¿±ê×¼£¬ÖĞ¹úÔÚ½â¾öÊ§ºâÎÊÌâÉÏ×öµÃ»¹Ô¶Ô¶²»¹»¡ª¡ª¶øÔÚÍ¨³£Çé¿öÏÂ£¬ÓëÕı³£µÄ¾­¼Ã¹æÔò¶Ô¶ÄÊÇ´íÎóµÄ¡£µ«ÖĞ¹úÎŞÓëÂ×±ÈµÄ¹æÄ£ºÍ?ÆÚÔö?¼ÇÂ¼ÖÁÉÙÈÃÈËÓĞÀíÓÉ»³ÒÉ£¬Õâ´ÎÅİÄ­ÊÇ·ñÕæµÄÓĞËù²»Í¬¡£
+**Based on standard economic measures**, China still has **not done nearly enough to fix its imbalances** â€” and itâ€™s usually a mistake to **bet against** the normal rules of economics. But Chinaâ€™s **unmatched size** and **long record of growth** offer reasons at least to **wonder whether** this bubble really is different.
+æ ¹æ®è§„èŒƒçš„ç»æµè¡¡é‡æ ‡å‡†ï¼Œä¸­å›½åœ¨è§£å†³å¤±è¡¡é—®é¢˜ä¸Šåšå¾—è¿˜è¿œè¿œä¸å¤Ÿâ€”â€”è€Œåœ¨é€šå¸¸æƒ…å†µä¸‹ï¼Œä¸æ­£å¸¸çš„ç»æµè§„åˆ™å¯¹èµŒæ˜¯é”™è¯¯çš„ã€‚ä½†ä¸­å›½æ— ä¸ä¼¦æ¯”çš„è§„æ¨¡å’Œ?æœŸå¢?è®°å½•è‡³å°‘è®©äººæœ‰ç†ç”±æ€€ç–‘ï¼Œè¿™æ¬¡æ³¡æ²«æ˜¯å¦çœŸçš„æœ‰æ‰€ä¸åŒã€‚
 
-Almost two years since the novel coronavirus began to **circulate through the human population**, what lessons have we learned? And what do those lessons **portend for future crises?** The most obvious is the hardest to **digest**: The world¡¯s **decision makers** have given us **a staggering demonstration** of their **collective inability to grasp** what it would actually **mean to govern the deeply globalized and interconnected world** they have created. 
-ĞÂĞÍ¹Ú×´²¡¶¾ÔÚÈËÈºÖĞ´«²¥ÒÑÓĞ½üÁ½ÄêÊ±¼ä£¬ÎÒÃÇ´ÓÖĞµÃµ½ÁËÊ²Ã´½ÌÑµ?ÕâĞ©½ÌÑµÓÖÔ¤Ê¾ÁËÔõÑùµÄÎ´À´Î£»ú? ×îÃ÷ÏÔµÄÒ²ÊÇ×îÄÑ½ÓÊÜµÄ:È«ÊÀ½çµÄ¾ö²ßÕßÃÇÏòÎÒÃÇÕ¹Ê¾ÁËÁîÈËÕğ¾ªµÄ¼¯ÌåÎŞÄÜ¡£ËûÃÇÎŞ·¨Àí½â£¬ÔÚËûÃÇËù´´ÔìµÄÕâ¸ö¸ß¶ÈÈ«Çò»¯µÄ»¥ÁªÊÀ½çÖĞ£¬ÖÎÀíµ½µ×ÒâÎ¶×ÅÊ²Ã´¡£
+Almost two years since the novel coronavirus began to **circulate through the human population**, what lessons have we learned? And what do those lessons **portend for future crises?** The most obvious is the hardest to **digest**: The worldâ€™s **decision makers** have given us **a staggering demonstration** of their **collective inability to grasp** what it would actually **mean to govern the deeply globalized and interconnected world** they have created. 
+æ–°å‹å† çŠ¶ç—…æ¯’åœ¨äººç¾¤ä¸­ä¼ æ’­å·²æœ‰è¿‘ä¸¤å¹´æ—¶é—´ï¼Œæˆ‘ä»¬ä»ä¸­å¾—åˆ°äº†ä»€ä¹ˆæ•™è®­?è¿™äº›æ•™è®­åˆé¢„ç¤ºäº†æ€æ ·çš„æœªæ¥å±æœº? æœ€æ˜æ˜¾çš„ä¹Ÿæ˜¯æœ€éš¾æ¥å—çš„:å…¨ä¸–ç•Œçš„å†³ç­–è€…ä»¬å‘æˆ‘ä»¬å±•ç¤ºäº†ä»¤äººéœ‡æƒŠçš„é›†ä½“æ— èƒ½ã€‚ä»–ä»¬æ— æ³•ç†è§£ï¼Œåœ¨ä»–ä»¬æ‰€åˆ›é€ çš„è¿™ä¸ªé«˜åº¦å…¨çƒåŒ–çš„äº’è”ä¸–ç•Œä¸­ï¼Œæ²»ç†åˆ°åº•æ„å‘³ç€ä»€ä¹ˆã€‚
 
-There is only **one limited realm** in which something like **a concerted response** has been managed: money and finance. But governments¡¯ and central banks¡¯ success in holding the world¡¯s financial system together **is contributing in the long run to inequality and social polarization**. If 2020 was **a trial run**, we should be worried.
-Ö»ÓĞÒ»¸öÁìÓòÄÃ³öÁËËãµÃÉÏÊÇĞ­µ÷Ò»ÖÂµÄÓ¦¶Ô°ì·¨:»õ±ÒºÍ½ğÈÚ¡£µ«´Ó?Ô¶À´¿´£¬Õş¸®ºÍÑëĞĞ¶ÔÊÀ½ç½ğÈÚÌåÏµµÄ³É¹¦Î¬Ïµ£¬½«»áÖú?²»Æ½µÈºÍÉç»áÁ½¼«·Ö»¯¡£Èç¹û2020ÄêÊÇÒ» ´ÎÔ¤Ñİ£¬ÎÒÃÇÀíÓ¦¸Ğµ½µ£ÓÇ¡£
+There is only **one limited realm** in which something like **a concerted response** has been managed: money and finance. But governmentsâ€™ and central banksâ€™ success in holding the worldâ€™s financial system together **is contributing in the long run to inequality and social polarization**. If 2020 was **a trial run**, we should be worried.
+åªæœ‰ä¸€ä¸ªé¢†åŸŸæ‹¿å‡ºäº†ç®—å¾—ä¸Šæ˜¯åè°ƒä¸€è‡´çš„åº”å¯¹åŠæ³•:è´§å¸å’Œé‡‘èã€‚ä½†ä»?è¿œæ¥çœ‹ï¼Œæ”¿åºœå’Œå¤®è¡Œå¯¹ä¸–ç•Œé‡‘èä½“ç³»çš„æˆåŠŸç»´ç³»ï¼Œå°†ä¼šåŠ©?ä¸å¹³ç­‰å’Œç¤¾ä¼šä¸¤æåˆ†åŒ–ã€‚å¦‚æœ2020å¹´æ˜¯ä¸€ æ¬¡é¢„æ¼”ï¼Œæˆ‘ä»¬ç†åº”æ„Ÿåˆ°æ‹…å¿§ã€‚
 
-As **instruments of coordination and cooperation**, global institutions like the United Nations, the International Monetary Fund and the World Health Organization had **proved fragile and toothless long before the pandemic**. The explanation for this failure **used to be geopolitical antagonism**: **Power blocs** couldn¡¯t come together when they had competing priorities and agendas. It was **thus tempting to imagine** that some common threat ¡ª perhaps **an alien invasion** ¡ª might **make a reality of** the United Nations.
-×÷ÎªĞ­µ÷ÓëºÏ×÷µÄÔØÌå£¬ÁªºÏ¹ú¡¢¹ú¼Ê»õ±Ò»ù½ğ×éÖ¯ºÍÊÀ½çÎÀÉú×éÖ¯µÈÈ«Çò»ú¹¹ÔçÔÚÒßÇé±©·¢Ç°¾ÍÒÑ±»Ö¤Ã÷ÊÇ´àÈõÇÒÎŞÁ¦µÄ¡£ÒÔÍù¶ÔÕâÖÖÊ§°ÜµÄ½âÊÍÊÇµØÔµÕşÖÎ¶ÔÁ¢:µ±ÓÅÏÈÊÂÏîºÍÒé³ÌÏà»¥³åÍ»Ê±£¬´ó¹ú¼¯ÍÅ¾Í²»ÄÜÍÅ½áÒ»ÖÂ¡£Òò´Ë£¬ÈËÃÇºÜÈİÒ×ÉèÏëÄ³ÖÖ¹²Í¬µÄÍşĞ²¡ª¡ª»òĞíÊÇÒ»´ÎÍâĞÇÈËÈëÇÖ¡ª¡ª¿ÉÄÜ»áÊ¹ÁªºÏ¹ú³ÉÎªÕæÕıµÄÏÖÊµ¡£
+As **instruments of coordination and cooperation**, global institutions like the United Nations, the International Monetary Fund and the World Health Organization had **proved fragile and toothless long before the pandemic**. The explanation for this failure **used to be geopolitical antagonism**: **Power blocs** couldnâ€™t come together when they had competing priorities and agendas. It was **thus tempting to imagine** that some common threat â€” perhaps **an alien invasion** â€” might **make a reality of** the United Nations.
+ä½œä¸ºåè°ƒä¸åˆä½œçš„è½½ä½“ï¼Œè”åˆå›½ã€å›½é™…è´§å¸åŸºé‡‘ç»„ç»‡å’Œä¸–ç•Œå«ç”Ÿç»„ç»‡ç­‰å…¨çƒæœºæ„æ—©åœ¨ç–«æƒ…æš´å‘å‰å°±å·²è¢«è¯æ˜æ˜¯è„†å¼±ä¸”æ— åŠ›çš„ã€‚ä»¥å¾€å¯¹è¿™ç§å¤±è´¥çš„è§£é‡Šæ˜¯åœ°ç¼˜æ”¿æ²»å¯¹ç«‹:å½“ä¼˜å…ˆäº‹é¡¹å’Œè®®ç¨‹ç›¸äº’å†²çªæ—¶ï¼Œå¤§å›½é›†å›¢å°±ä¸èƒ½å›¢ç»“ä¸€è‡´ã€‚å› æ­¤ï¼Œäººä»¬å¾ˆå®¹æ˜“è®¾æƒ³æŸç§å…±åŒçš„å¨èƒâ€”â€”æˆ–è®¸æ˜¯ä¸€æ¬¡å¤–æ˜Ÿäººå…¥ä¾µâ€”â€”å¯èƒ½ä¼šä½¿è”åˆå›½æˆä¸ºçœŸæ­£çš„ç°å®ã€‚
 
 **And yet** faced with this **common threat**, cooperation failed. **Rather than a concerted shutdown** of global aviation, frontiers were closed **on the fly**; supplies of **personal protective equipment were grabbed** at airports; **haphazard travel bans** continue to this day.
-È»¶ø£¬Ãæ¶ÔÕâÒ»¹²Í¬ÍşĞ²£¬ºÏ×÷Ê§°ÜÁË¡£¸÷¹úÃ»ÄÜĞ­Í¬Ò»ÖÂ¹ØÍ£È«Çòº½¿ÕÒµ£¬¶øÊÇ´Ò´ÒÃ¦Ã¦·âËø±ß¾³;¸öÈË·À»¤×°±¸Îï×ÊÔÚ»ú³¡±»ÇÀ×ß;Ã¤Ä¿µÄÂÃĞĞ½ûÁîÒ»Ö±³ÖĞøµ½½ñÈÕ¡£
+ç„¶è€Œï¼Œé¢å¯¹è¿™ä¸€å…±åŒå¨èƒï¼Œåˆä½œå¤±è´¥äº†ã€‚å„å›½æ²¡èƒ½ååŒä¸€è‡´å…³åœå…¨çƒèˆªç©ºä¸šï¼Œè€Œæ˜¯åŒ†åŒ†å¿™å¿™å°é”è¾¹å¢ƒ;ä¸ªäººé˜²æŠ¤è£…å¤‡ç‰©èµ„åœ¨æœºåœºè¢«æŠ¢èµ°;ç›²ç›®çš„æ—…è¡Œç¦ä»¤ä¸€ç›´æŒç»­åˆ°ä»Šæ—¥ã€‚
 
-It was **a horrible irony** that Donald Trump, the first American president to **repudiate** this, was in the White House when a truly global crisis hit. That encouraged talk of Covid as the first ¡°post-American¡± crisis. But America will have to **diminish a lot more before we can count it out**. What 2020 showed, in fact, was that America¡¯s **dysfunctions** are the world¡¯s problem.
-ÌØ±ğ·í´ÌµÄÒ»µãÔÚÓÚ£¬µ±ÕæÕıµÄÈ«ÇòÎ£»úÀ´Ï®£¬µÚÒ»Î»·ñÈÏÕâÒ»µãµÄÃÀ¹ú×ÜÍ³ÌØÀÊÆÕÕıÔÚÖ÷Õş°×¹¬¡£Õâ´ÙÊ¹ÈËÃÇ½«ĞÂ¹ÚÒßÇé³ÆÎªµÚÒ»³¡¡°ºóÃÀ¹úÊ±´ú¡±µÄÎ£»ú¡£µ«ÒªÕæÕı¸øÃÀ¹úÅĞ¸º³ö¾Ö£¬Ëü»¹µÃ¾­Àú¸ü¶àË¥°Ü¡£ÊÂÊµÉÏ£¬2020Äê±íÃ÷£¬ÃÀ¹ú»úÄÜÊ§µ÷ÊÇÊÀ½çµÄÎÊÌâ¡£
+It was **a horrible irony** that Donald Trump, the first American president to **repudiate** this, was in the White House when a truly global crisis hit. That encouraged talk of Covid as the first â€œpost-Americanâ€ crisis. But America will have to **diminish a lot more before we can count it out**. What 2020 showed, in fact, was that Americaâ€™s **dysfunctions** are the worldâ€™s problem.
+ç‰¹åˆ«è®½åˆºçš„ä¸€ç‚¹åœ¨äºï¼Œå½“çœŸæ­£çš„å…¨çƒå±æœºæ¥è¢­ï¼Œç¬¬ä¸€ä½å¦è®¤è¿™ä¸€ç‚¹çš„ç¾å›½æ€»ç»Ÿç‰¹æœ—æ™®æ­£åœ¨ä¸»æ”¿ç™½å®«ã€‚è¿™ä¿ƒä½¿äººä»¬å°†æ–°å† ç–«æƒ…ç§°ä¸ºç¬¬ä¸€åœºâ€œåç¾å›½æ—¶ä»£â€çš„å±æœºã€‚ä½†è¦çœŸæ­£ç»™ç¾å›½åˆ¤è´Ÿå‡ºå±€ï¼Œå®ƒè¿˜å¾—ç»å†æ›´å¤šè¡°è´¥ã€‚äº‹å®ä¸Šï¼Œ2020å¹´è¡¨æ˜ï¼Œç¾å›½æœºèƒ½å¤±è°ƒæ˜¯ä¸–ç•Œçš„é—®é¢˜ã€‚
 
-The development of Covid vaccines was **a collective triumph** of researchers, governments and businesses around the world. Mr. Trump¡¯s **Operation Warp Speed** was the most successful of all. **Scandalously**, the United States under Mr. Trump did not even join the United Nations¡¯ Covax initiative. Even after vaccine **rollout** began in earnest in 2021, the United States continued to **hoard doses**.
-ĞÂ¹ÚÒßÃçµÄ¿ª·¢ÊÇÊÀ½ç¸÷µØÑĞ¾¿ÈËÔ±¡¢Õş¸®ºÍÆóÒµµÄ¼¯ÌåÊ¤Àû¡£ÌØÀÊÆÕµÄ¡°ÇúËÙĞĞ¶¯¡±ÊÇÆäÖĞ×î³É¹¦µÄ¡£ÁîÈË·ß¿®µÄÊÇ£¬ÔÚÌØÀÊÆÕµÄÁìµ¼ÏÂ£¬ÃÀ¹úÉõÖÁÃ»ÓĞ¼ÓÈëÁªºÏ¹úµÄ¡°2019¹Ú×´²¡¶¾²¡ÒßÃçÊµÊ©¼Æ»®¡±¡£¼´±ãÔÚ2021ÄêÒßÃç¿ªÊ¼ÕıÊ½ÍÆ¹ãºó£¬ÃÀ¹úÈÔÔÚ¶Ú»ı¡£
+The development of Covid vaccines was **a collective triumph** of researchers, governments and businesses around the world. Mr. Trumpâ€™s **Operation Warp Speed** was the most successful of all. **Scandalously**, the United States under Mr. Trump did not even join the United Nationsâ€™ Covax initiative. Even after vaccine **rollout** began in earnest in 2021, the United States continued to **hoard doses**.
+æ–°å† ç–«è‹—çš„å¼€å‘æ˜¯ä¸–ç•Œå„åœ°ç ”ç©¶äººå‘˜ã€æ”¿åºœå’Œä¼ä¸šçš„é›†ä½“èƒœåˆ©ã€‚ç‰¹æœ—æ™®çš„â€œæ›²é€Ÿè¡ŒåŠ¨â€æ˜¯å…¶ä¸­æœ€æˆåŠŸçš„ã€‚ä»¤äººæ„¤æ…¨çš„æ˜¯ï¼Œåœ¨ç‰¹æœ—æ™®çš„é¢†å¯¼ä¸‹ï¼Œç¾å›½ç”šè‡³æ²¡æœ‰åŠ å…¥è”åˆå›½çš„â€œ2019å† çŠ¶ç—…æ¯’ç—…ç–«è‹—å®æ–½è®¡åˆ’â€ã€‚å³ä¾¿åœ¨2021å¹´ç–«è‹—å¼€å§‹æ­£å¼æ¨å¹¿åï¼Œç¾å›½ä»åœ¨å›¤ç§¯ã€‚
 
 The failure to develop a global vaccination program is not just **dismaying**. It **ought also to be profoundly puzzling**: It **defies the self- interests** of the richest countries in the world. **Booster shots aside**, the greater the volume of infection, **the greater the risk of variants** even more dangerous than Delta. And the greater the economic damage, too. 
-Î´ÄÜÊµÏÖÒ»¸öÈ«ÇòÒßÃç½ÓÖÖ¼Æ»®²»½öÊÇÁîÈË¾ÚÉ¥µÄ£¬Ò²Ó¦¸ÃÈÃÈËÉî¸ĞÀ§»ó:ÕâÎ¥±³ÁËÈ«ÊÀ½çÄÇĞ©×î¸»ÓĞ¹ú¼ÒµÄ×ÔÉíÀûÒæ¡£Å×¿ª¼ÓÇ¿Õë²»Ëã£¬¸ĞÈ¾ÈËÊıÔ½¶à£¬³öÏÖ±ÈµÂ¶ûËş»¹Î£ÏÕµÄ±äÖÖ¶¾ÖêµÄ?ÏÕÒ²Ô½¸ß¡£¾­¼ÃËğÊ§Ò²»á¸ü¼ÓÑÏÖØ¡£
+æœªèƒ½å®ç°ä¸€ä¸ªå…¨çƒç–«è‹—æ¥ç§è®¡åˆ’ä¸ä»…æ˜¯ä»¤äººæ²®ä¸§çš„ï¼Œä¹Ÿåº”è¯¥è®©äººæ·±æ„Ÿå›°æƒ‘:è¿™è¿èƒŒäº†å…¨ä¸–ç•Œé‚£äº›æœ€å¯Œæœ‰å›½å®¶çš„è‡ªèº«åˆ©ç›Šã€‚æŠ›å¼€åŠ å¼ºé’ˆä¸ç®—ï¼Œæ„ŸæŸ“äººæ•°è¶Šå¤šï¼Œå‡ºç°æ¯”å¾·å°”å¡”è¿˜å±é™©çš„å˜ç§æ¯’æ ªçš„?é™©ä¹Ÿè¶Šé«˜ã€‚ç»æµæŸå¤±ä¹Ÿä¼šæ›´åŠ ä¸¥é‡ã€‚
 
-This failure is **all the more glaring for** another lesson that the pandemic **revealed**: Budget constraints don¡¯t seem to exist; money is **a mere technicality**. The hard limits of financial sustainability, policed, we used to think, by **ferocious bond markets**, were **blurred** by the 2008 financial crisis. In 2020, they were **erased**.
-ÕâÑùµÄÊ§°Ü¸üÍ¹ÏÔÁËÒßÇé½ÒÊ¾µÄÁíÒ»¸ö½ÌÑµ:Ô¤ËãËÆºõÊÇ²»´æÔÚÔ¼ÊøµÄ;½ğÇ®²»¹ıÊÇ¸ö¼¼ÊõÎÊÌâ¡£2008ÄêµÄ½ğÈÚÎ£»úÄ£ºıÁË½ğÈÚ¿É³ÖĞøĞÔµÄÓ²ĞÔÏŞÖÆ£¬ÎÒÃÇ¹ıÈ¥Ò»Ö±ÒÔÎªÕâÖÖ¿É³ÖĞøĞÔÓÉ¼¤µ´µÄÕ®È¯ÊĞ³¡¿ØÖÆ¡£¶øÔÚ2020Äê£¬ÕâĞ©ÏŞÖÆ¶¼±»Ä¨È¥ÁË¡£
+This failure is **all the more glaring for** another lesson that the pandemic **revealed**: Budget constraints donâ€™t seem to exist; money is **a mere technicality**. The hard limits of financial sustainability, policed, we used to think, by **ferocious bond markets**, were **blurred** by the 2008 financial crisis. In 2020, they were **erased**.
+è¿™æ ·çš„å¤±è´¥æ›´å‡¸æ˜¾äº†ç–«æƒ…æ­ç¤ºçš„å¦ä¸€ä¸ªæ•™è®­:é¢„ç®—ä¼¼ä¹æ˜¯ä¸å­˜åœ¨çº¦æŸçš„;é‡‘é’±ä¸è¿‡æ˜¯ä¸ªæŠ€æœ¯é—®é¢˜ã€‚2008å¹´çš„é‡‘èå±æœºæ¨¡ç³Šäº†é‡‘èå¯æŒç»­æ€§çš„ç¡¬æ€§é™åˆ¶ï¼Œæˆ‘ä»¬è¿‡å»ä¸€ç›´ä»¥ä¸ºè¿™ç§å¯æŒç»­æ€§ç”±æ¿€è¡çš„å€ºåˆ¸å¸‚åœºæ§åˆ¶ã€‚è€Œåœ¨2020å¹´ï¼Œè¿™äº›é™åˆ¶éƒ½è¢«æŠ¹å»äº†ã€‚
 
 Governments around the world **issued debt as not seen** since World War II, and yet **interest rates plunged**. As the private sector shut down, the public sector expanded. As government **deficits grew**, the **monetary system responded elastically**. Government spending **made up for the loss** of private incomes and spending.
-ÊÀ½ç¸÷¹úÕş¸®·¢ĞĞÁËÈËÃÇ×Ô¡°¶şÕ½¡±ÒÔÀ´¶¼Î´?¹ıµÄ´óÁ¿Õ®È¯£¬ÀûÂÊÈ´´ó·ùÏÂµø¡£Ëæ×ÅË½Óª²¿?µÄ¹Ø±Õ£¬¹«¹²²¿?ÊµÏÖÁËÀ©ÕÅ¡£Ëæ×ÅÕş¸®³à×ÖµÄÔö¼Ó£¬»õ±ÒÌåÏµ·´Ó¦¾çÁÒ¡£Õş¸®Ö§³öÃÖ²¹ÁË¸öÈËÊÕÈëºÍÏû·ÑµÄ¼õÉÙ¡£
+ä¸–ç•Œå„å›½æ”¿åºœå‘è¡Œäº†äººä»¬è‡ªâ€œäºŒæˆ˜â€ä»¥æ¥éƒ½æœª?è¿‡çš„å¤§é‡å€ºåˆ¸ï¼Œåˆ©ç‡å´å¤§å¹…ä¸‹è·Œã€‚éšç€ç§è¥éƒ¨?çš„å…³é—­ï¼Œå…¬å…±éƒ¨?å®ç°äº†æ‰©å¼ ã€‚éšç€æ”¿åºœèµ¤å­—çš„å¢åŠ ï¼Œè´§å¸ä½“ç³»ååº”å‰§çƒˆã€‚æ”¿åºœæ”¯å‡ºå¼¥è¡¥äº†ä¸ªäººæ”¶å…¥å’Œæ¶ˆè´¹çš„å‡å°‘ã€‚
 
 This balancing of public and private spending works best if all countries are doing it **simultaneously**. This was one area where there was **an alignment of** national policies. 
-ÕâÖÖÆ½ºâ¹«¹²ºÍË½ÈËÖ§³öµÄ×ö·¨£¬ÔÚ¸÷¹úÍ³Ò»ĞĞ¶¯Ê±Ğ§¹û×î¼Ñ¡£ÕâÒ²ÊÇ¹ú¼ÒÕş²ßÎ¨Ò»´æÔÚ¹²½øÍËµÄÁìÓò¡£
+è¿™ç§å¹³è¡¡å…¬å…±å’Œç§äººæ”¯å‡ºçš„åšæ³•ï¼Œåœ¨å„å›½ç»Ÿä¸€è¡ŒåŠ¨æ—¶æ•ˆæœæœ€ä½³ã€‚è¿™ä¹Ÿæ˜¯å›½å®¶æ”¿ç­–å”¯ä¸€å­˜åœ¨å…±è¿›é€€çš„é¢†åŸŸã€‚
 
-But **when it came to it**, Mr. Trump¡¯s **instincts all pushed in the right direction**, at least on economic policy. If ever there was a president who **took naturally to** the idea of ¡°**fiat money**,¡± it was Donald Trump. **So long as** his name was on the checks, **more was better**.
-µ«ÊÂÇéµ½ÁËÄÇÒ»²½µÄÊ±ºò£¬ÌØÀÊÆÕµÄÖ±¾õ¶¼ÊÇ³¯×ÅÕıÈ··½ÏòÍÆ½øµÄ£¬ÖÁÉÙÔÚ¾­¼ÃÕş²ßÉÏÊÇÕâÑù¡£Èç¹ûËµÓĞÄÄÎ»×ÜÍ³ºÜ×ÔÈ»µØ½ÓÊÜÁË¡°·¨¶¨»õ±Ò¡±µÄ¸ÅÄî£¬ÄÇ¾ÍÊÇÌØÀÊÆÕ¡£Ö»ÒªÖ§Æ±ÉÏÓĞËûµÄÃû×Ö£¬¾Í¶à¶àÒæÉÆ¡£
+But **when it came to it**, Mr. Trumpâ€™s **instincts all pushed in the right direction**, at least on economic policy. If ever there was a president who **took naturally to** the idea of â€œ**fiat money**,â€ it was Donald Trump. **So long as** his name was on the checks, **more was better**.
+ä½†äº‹æƒ…åˆ°äº†é‚£ä¸€æ­¥çš„æ—¶å€™ï¼Œç‰¹æœ—æ™®çš„ç›´è§‰éƒ½æ˜¯æœç€æ­£ç¡®æ–¹å‘æ¨è¿›çš„ï¼Œè‡³å°‘åœ¨ç»æµæ”¿ç­–ä¸Šæ˜¯è¿™æ ·ã€‚å¦‚æœè¯´æœ‰å“ªä½æ€»ç»Ÿå¾ˆè‡ªç„¶åœ°æ¥å—äº†â€œæ³•å®šè´§å¸â€çš„æ¦‚å¿µï¼Œé‚£å°±æ˜¯ç‰¹æœ—æ™®ã€‚åªè¦æ”¯ç¥¨ä¸Šæœ‰ä»–çš„åå­—ï¼Œå°±å¤šå¤šç›Šå–„ã€‚
 
-Global finance is a world with **a clear hierarchy**, with **the Fed** at the top, followed by the European Central Bank, the People¡¯s Bank of China, the Bank of Japan and the Bank of England. But it is also **a close-knit community** with a shared **mental map**. Central bankers **trade in electronic money** that can be created **at the tap of a keyboard**. Creating it does not ¡°cost¡± anything and does not require approval from **elected legislatures**. After 2008, tools like **quantitative easing** ¡ª the large-scale purchase of assets ¡ª **were well oiled**.
-È«Çò½ğÈÚÊÇÒ»¸öµÈ¼¶·ÖÃ÷µÄÊÀ½ç£¬ÃÀÁª´¢¸ß¸ßÔÚÉÏ£¬Æä´ÎÊÇÅ·ÖŞÖĞÑëÒøĞĞ¡¢ÖĞ¹úÈË?ÒøĞĞ¡¢ÈÕ±¾ÒøĞĞºÍÓ¢¸ñÀ¼ÒøĞĞ¡£µ«ËüÒ²ÊÇÒ»¸ö½ôÃÜÁªÏµµÄÉçÇø£¬ÓµÓĞÒ»¸ö¹²Í¬µÄË¼Î¬µØÍ¼¡£ÖĞÑëÒøĞĞ¼Ò½»Ò×µÄµç×Ó»õ±ÒÖ»ĞèÇÃ»÷¼üÅÌ¼´¿É²úÉú¡£´´½¨Ëü²»¡°»¨·Ñ¡±ÈÎºÎ¶«?£¬Ò²²»ĞèÒª»ñµÃ?Ñ¡Á¢·¨»ú¹¹µÄÅú×¼¡£2008ÄêÖ®ºó£¬ÏñÁ¿»¯¿íËÉ(´ó¹æÄ£¹ºÂò×Ê²ú)ÕâÑùµÄ¹¤¾ßÒÑ¾­¼İÇá¾ÍÊì¡£
+Global finance is a world with **a clear hierarchy**, with **the Fed** at the top, followed by the European Central Bank, the Peopleâ€™s Bank of China, the Bank of Japan and the Bank of England. But it is also **a close-knit community** with a shared **mental map**. Central bankers **trade in electronic money** that can be created **at the tap of a keyboard**. Creating it does not â€œcostâ€ anything and does not require approval from **elected legislatures**. After 2008, tools like **quantitative easing** â€” the large-scale purchase of assets â€” **were well oiled**.
+å…¨çƒé‡‘èæ˜¯ä¸€ä¸ªç­‰çº§åˆ†æ˜çš„ä¸–ç•Œï¼Œç¾è”å‚¨é«˜é«˜åœ¨ä¸Šï¼Œå…¶æ¬¡æ˜¯æ¬§æ´²ä¸­å¤®é“¶è¡Œã€ä¸­å›½äºº?é“¶è¡Œã€æ—¥æœ¬é“¶è¡Œå’Œè‹±æ ¼å…°é“¶è¡Œã€‚ä½†å®ƒä¹Ÿæ˜¯ä¸€ä¸ªç´§å¯†è”ç³»çš„ç¤¾åŒºï¼Œæ‹¥æœ‰ä¸€ä¸ªå…±åŒçš„æ€ç»´åœ°å›¾ã€‚ä¸­å¤®é“¶è¡Œå®¶äº¤æ˜“çš„ç”µå­è´§å¸åªéœ€æ•²å‡»é”®ç›˜å³å¯äº§ç”Ÿã€‚åˆ›å»ºå®ƒä¸â€œèŠ±è´¹â€ä»»ä½•ä¸œ?ï¼Œä¹Ÿä¸éœ€è¦è·å¾—?é€‰ç«‹æ³•æœºæ„çš„æ‰¹å‡†ã€‚2008å¹´ä¹‹åï¼Œåƒé‡åŒ–å®½æ¾(å¤§è§„æ¨¡è´­ä¹°èµ„äº§)è¿™æ ·çš„å·¥å…·å·²ç»é©¾è½»å°±ç†Ÿã€‚
 
-The world discovered that John Maynard Keynes was right when he declared during World War II that ¡°**anything we can actually do, we can afford**.¡± The **sheer scale** of the action was **intoxicating**. Among **the left wing** of the Democratic Party, it generated excitement: If money was a mere technicality, **what else** could be done? Action on **social justice**, climate change, the Green New Deal, **all seemed within reach**.
-ÊÀ½ç·¢ÏÖ£¬µ±¿­¶÷Ë¹ÔÚ¡°¶şÕ½¡±ÆÚ¼äĞû³Æ¡°·²ÊÇÎÒÃÇÊµ¼ÊÉÏÄÜ×öµ½µÄÊÂÇé£¬ÎÒÃÇ¶¼ÄÜ¸ºµ£µÃÆğ¡±Ê±£¬ËûÊÇ¶ÔµÄ¡£ÕâÒ»ĞĞ¶¯µÄ¹æÄ£Ö®´óÁîÈËÌÕ×í¡£?Ö÷µ³×óÒí¶Ô´Ë¸Ğµ½ĞË·Ü:Èç¹û½ğÇ®Ö»ÊÇÒ»¸ö¼¼ÊõÎÊÌâ£¬ÎÒÃÇ»¹ÄÜ×öÊ²Ã´?Éç»á¹«Õı¡¢Æøºò±ä»¯¡¢ÂÌÉ«ĞÂÕşµÈ·½ÃæµÄĞĞ¶¯ËÆºõ¶¼´¥ÊÖ¿É¼°¡£
+The world discovered that John Maynard Keynes was right when he declared during World War II that â€œ**anything we can actually do, we can afford**.â€ The **sheer scale** of the action was **intoxicating**. Among **the left wing** of the Democratic Party, it generated excitement: If money was a mere technicality, **what else** could be done? Action on **social justice**, climate change, the Green New Deal, **all seemed within reach**.
+ä¸–ç•Œå‘ç°ï¼Œå½“å‡¯æ©æ–¯åœ¨â€œäºŒæˆ˜â€æœŸé—´å®£ç§°â€œå‡¡æ˜¯æˆ‘ä»¬å®é™…ä¸Šèƒ½åšåˆ°çš„äº‹æƒ…ï¼Œæˆ‘ä»¬éƒ½èƒ½è´Ÿæ‹…å¾—èµ·â€æ—¶ï¼Œä»–æ˜¯å¯¹çš„ã€‚è¿™ä¸€è¡ŒåŠ¨çš„è§„æ¨¡ä¹‹å¤§ä»¤äººé™¶é†‰ã€‚?ä¸»å…šå·¦ç¿¼å¯¹æ­¤æ„Ÿåˆ°å…´å¥‹:å¦‚æœé‡‘é’±åªæ˜¯ä¸€ä¸ªæŠ€æœ¯é—®é¢˜ï¼Œæˆ‘ä»¬è¿˜èƒ½åšä»€ä¹ˆ?ç¤¾ä¼šå…¬æ­£ã€æ°”å€™å˜åŒ–ã€ç»¿è‰²æ–°æ”¿ç­‰æ–¹é¢çš„è¡ŒåŠ¨ä¼¼ä¹éƒ½è§¦æ‰‹å¯åŠã€‚
 
 But there were three **interrelated problems**. First, **the sense** that government action had **been liberated from the tyranny** of finance was **illusory**. That meant, second, that the interventions were **double-edged**. Finally, the digital money creation was the **easy bit**. 
-µ«ÓĞÈı¸öÏà»¥¹ØÁªµÄÎÊÌâ¡£Ê×ÏÈ£¬ÈÏÎªÕş¸®ĞĞ¶¯ÒÑ´Ó½ğÈÚ±©ÕşÖĞ½â·Å³öÀ´µÄ¸Ğ¾õÊÇĞé»ÃµÄ¡£Æä´Î£¬ÕâÒâÎ¶×ÅÕâĞ©¸ÉÔ¤´ëÊ©ÊÇÒ»°ÑË«ÈĞ½£¡£×îºó£¬´´ÔìÊı×Ö»õ±ÒÊÇ¼şÈİÒ×µÄÊÂ¡£
+ä½†æœ‰ä¸‰ä¸ªç›¸äº’å…³è”çš„é—®é¢˜ã€‚é¦–å…ˆï¼Œè®¤ä¸ºæ”¿åºœè¡ŒåŠ¨å·²ä»é‡‘èæš´æ”¿ä¸­è§£æ”¾å‡ºæ¥çš„æ„Ÿè§‰æ˜¯è™šå¹»çš„ã€‚å…¶æ¬¡ï¼Œè¿™æ„å‘³ç€è¿™äº›å¹²é¢„æªæ–½æ˜¯ä¸€æŠŠåŒåˆƒå‰‘ã€‚æœ€åï¼Œåˆ›é€ æ•°å­—è´§å¸æ˜¯ä»¶å®¹æ˜“çš„äº‹ã€‚
 
 **Propping up** the Treasury market enabled government **spending on furlough schemes** and paycheck protection plans to be funded in the normal way, by borrowing. But government IOUs **are fuel for private speculation**. When **liquidity is flushed indiscriminately into** the financial system, it **inflates bubbles**, generating new risks and **outsize gains** for those with **substantial portfolios. Nowhere** was this **polarizing effect more pronounced** than in the United States. While tens of millions **struggled through** the crisis, trillions of dollars **piled up in the balance sheets** of the wealthy.
-¶Ô¹úÕ®ÊĞ³¡µÄÖ§³ÅÊ¹Õş¸®ÔÚÇ¿ÖÆÎŞĞ½Ğİ¼ÙºÍ¹¤×Ê±£»¤¼Æ»®ÉÏµÄÖ§³öÄÜ¹»ÒÔÕı³£µÄ·½Ê½(Í¨¹ı½è´û)»ñµÃ×Ê½ğ¡£µ«Õş¸®µÄÇ·ÌõÖú?ÁËË½ÈËÍ¶»úÎÊÌâ¡£µ±Á÷¶¯ĞÔ²»·Ö?ºìÔí°×µØÓ¿Èë½ğÈÚÌåÏµÊ±£¬Ëü¾Í»á´ßÉúÅİÄ­£¬¸øÄÇĞ©ÓµÓĞ´óÁ¿Í¶×Ê×éºÏµÄÈË´øÀ´ĞÂµÄ?ÏÕºÍ³¬¶îÊÕÒæ¡£ÕâÖÖÁ½¼«·Ö»¯Ğ§Ó¦ÔÚÃÀ¹ú×îÎªÃ÷ÏÔ¡£ÔÚÊıÇ§ÍòÈËÕõÔú×Å¶È¹ıÎ£»úµÄÍ¬Ê±£¬¸»ÈËÃÇµÄ×Ê²ú¸ºÕ®±íÉÏ»ıÀÛÁËÊıÍòÒÚÃÀÔª¡£
+å¯¹å›½å€ºå¸‚åœºçš„æ”¯æ’‘ä½¿æ”¿åºœåœ¨å¼ºåˆ¶æ— è–ªä¼‘å‡å’Œå·¥èµ„ä¿æŠ¤è®¡åˆ’ä¸Šçš„æ”¯å‡ºèƒ½å¤Ÿä»¥æ­£å¸¸çš„æ–¹å¼(é€šè¿‡å€Ÿè´·)è·å¾—èµ„é‡‘ã€‚ä½†æ”¿åºœçš„æ¬ æ¡åŠ©?äº†ç§äººæŠ•æœºé—®é¢˜ã€‚å½“æµåŠ¨æ€§ä¸åˆ†?çº¢çš‚ç™½åœ°æ¶Œå…¥é‡‘èä½“ç³»æ—¶ï¼Œå®ƒå°±ä¼šå‚¬ç”Ÿæ³¡æ²«ï¼Œç»™é‚£äº›æ‹¥æœ‰å¤§é‡æŠ•èµ„ç»„åˆçš„äººå¸¦æ¥æ–°çš„?é™©å’Œè¶…é¢æ”¶ç›Šã€‚è¿™ç§ä¸¤æåˆ†åŒ–æ•ˆåº”åœ¨ç¾å›½æœ€ä¸ºæ˜æ˜¾ã€‚åœ¨æ•°åƒä¸‡äººæŒ£æ‰ç€åº¦è¿‡å±æœºçš„åŒæ—¶ï¼Œå¯Œäººä»¬çš„èµ„äº§è´Ÿå€ºè¡¨ä¸Šç§¯ç´¯äº†æ•°ä¸‡äº¿ç¾å…ƒã€‚
 
-Keynes¡¯s **bon mot has a sting in its tail**: We can afford anything we can actually do. The problem is agreeing on what to do and how to do it. **In giving us a glimpse of** financial freedom, 2020 also **robbed us of pretenses** and excuses. 
-¿­¶÷Ë¹µÄÃîÓï±³ºóÊÇÒ»¸öÉ·?¾°µÄ½á¾Ö:ÎÒÃÇÄÜ¸ºµ£µÃÆğÎÒÃÇ¡°Êµ¼ÊÉÏ¡±ÄÜ×öµÄÈÎºÎÊÂÇé¡£ÎÊÌâÔÚÓÚ¾Í×öÊ²Ã´ºÍÈçºÎ×ö´ï³ÉÒ»ÖÂ¡£ÔÚÈÃÎÒÃÇÆ³?²ÆÎñ×ÔÓÉµÄÍ¬Ê±£¬2020ÄêÒ²°ş¶áÁËÎÒÃÇµÄÎ±×°ºÍ½è¿Ú¡£
+Keynesâ€™s **bon mot has a sting in its tail**: We can afford anything we can actually do. The problem is agreeing on what to do and how to do it. **In giving us a glimpse of** financial freedom, 2020 also **robbed us of pretenses** and excuses. 
+å‡¯æ©æ–¯çš„å¦™è¯­èƒŒåæ˜¯ä¸€ä¸ªç…?æ™¯çš„ç»“å±€:æˆ‘ä»¬èƒ½è´Ÿæ‹…å¾—èµ·æˆ‘ä»¬â€œå®é™…ä¸Šâ€èƒ½åšçš„ä»»ä½•äº‹æƒ…ã€‚é—®é¢˜åœ¨äºå°±åšä»€ä¹ˆå’Œå¦‚ä½•åšè¾¾æˆä¸€è‡´ã€‚åœ¨è®©æˆ‘ä»¬ç¥?è´¢åŠ¡è‡ªç”±çš„åŒæ—¶ï¼Œ2020å¹´ä¹Ÿå‰¥å¤ºäº†æˆ‘ä»¬çš„ä¼ªè£…å’Œå€Ÿå£ã€‚
 
 It **turns out** that budget constraints, **in all their artificiality**, had **spared us from facing the all-too-limited willingness** and capacity for collective action. Either you are **invoking technological obstacles**, in which case we need **a suitably scaled**, Warp Speed-style program to **overcome them**, or it is **simply a matter of priorities**. There are other things you would rather do.
-ÊÂÊµÖ¤Ã÷£¬¾¡¹ÜÔ¤ËãÏŞÖÆÊÇÈËÎªµÄ£¬µ«ËüÊ¹ÎÒÃÇÃâÓÚÃæ¶Ô¹ıÓÚÓĞÏŞµÄ¼¯ÌåĞĞ¶¯ÒâÔ¸ºÍÄÜÁ¦¡£ÒªÃ´ÄãÊÇÔÚÔ®Òı¼¼ÊõÕÏ°­¡ª¡ªÔÚÕâÖÖÇé¿öÏÂ£¬ÎÒÃÇĞèÒªÒ»¸ö¹æÄ£ÊÊµ±µÄ¡¢¡°ÇúËÙĞĞ¶¯¡±Ê½µÄÏîÄ¿À´¿Ë·şËüÃÇ¡ª¡ªÒªÃ´ÕâÖ»ÊÇÒ»¸öÓÅÏÈ¼¶ÎÊÌâ£¬Äã¸üÔ¸ÒâÈ¥×öÆäËûÊÂÇé¡£
+äº‹å®è¯æ˜ï¼Œå°½ç®¡é¢„ç®—é™åˆ¶æ˜¯äººä¸ºçš„ï¼Œä½†å®ƒä½¿æˆ‘ä»¬å…äºé¢å¯¹è¿‡äºæœ‰é™çš„é›†ä½“è¡ŒåŠ¨æ„æ„¿å’Œèƒ½åŠ›ã€‚è¦ä¹ˆä½ æ˜¯åœ¨æ´å¼•æŠ€æœ¯éšœç¢â€”â€”åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œæˆ‘ä»¬éœ€è¦ä¸€ä¸ªè§„æ¨¡é€‚å½“çš„ã€â€œæ›²é€Ÿè¡ŒåŠ¨â€å¼çš„é¡¹ç›®æ¥å…‹æœå®ƒä»¬â€”â€”è¦ä¹ˆè¿™åªæ˜¯ä¸€ä¸ªä¼˜å…ˆçº§é—®é¢˜ï¼Œä½ æ›´æ„¿æ„å»åšå…¶ä»–äº‹æƒ…ã€‚
 
-**Looking back before 2020**, it seemed that 2008 was the beginning of **a new era of successive and interconnected disruptions**, such as the global financial crisis, Mr. Trump¡¯s election, and the trade and tech war with China. **It all had a familiar ring to it**. Great-power competition, **nationalism** and banking crises all **harked back to** the 19th and 20th centuries. Then came 2020. It has given us **a glimpse of something radically new**: the old tensions of politics, finance and **geopolitics intersecting with** a natural shock on **a global scale**.
-»Ø¹Ë2020ÄêÒÔÇ°£¬ËÆºõ2008ÄêÊÇÒ»¸öĞÂÊ±´úµÄ¿ªÊ¼£¬µß¸²Á¬Ğøµ½À´£¬²¢ÇÒÏà»¥¹ØÁª£¬ÈçÈ«Çò½ğÈÚÎ£»ú¡¢ÌØÀÊÆÕµÄ´óÑ¡ºÍÓëÖĞ¹úµÄÃ³Ò×ºÍ¼¼ÊõÕ½Õù¡£ÕâÒ»ÇĞ¶¼²¢²»Ä°Éú¡£´ó¹ú¾ºÕù¡¢?×åÖ÷ÒåºÍÒøĞĞÒµÎ£»ú¶¼¿ÉÒÔ×·Ëİµ½19ÊÀ¼ÍºÍ20ÊÀ¼Í¡£È»ºó2020ÄêÀ´ÁË¡£ËüÈÃÎÒÃÇÆ³?ÁËÒ»Ğ©È«ĞÂµÄ¶«?:¾ÉÓĞµÄÕşÖÎ¡¢½ğÈÚºÍµØÔµÕşÖÎµÄ½ôÕÅ¾ÖÊÆÓëÈ«Çò·¶Î§ÄÚµÄ×ÔÈ»³å»÷Ïà½»ÔÚÒ»Æğ¡£
+**Looking back before 2020**, it seemed that 2008 was the beginning of **a new era of successive and interconnected disruptions**, such as the global financial crisis, Mr. Trumpâ€™s election, and the trade and tech war with China. **It all had a familiar ring to it**. Great-power competition, **nationalism** and banking crises all **harked back to** the 19th and 20th centuries. Then came 2020. It has given us **a glimpse of something radically new**: the old tensions of politics, finance and **geopolitics intersecting with** a natural shock on **a global scale**.
+å›é¡¾2020å¹´ä»¥å‰ï¼Œä¼¼ä¹2008å¹´æ˜¯ä¸€ä¸ªæ–°æ—¶ä»£çš„å¼€å§‹ï¼Œé¢ è¦†è¿ç»­åˆ°æ¥ï¼Œå¹¶ä¸”ç›¸äº’å…³è”ï¼Œå¦‚å…¨çƒé‡‘èå±æœºã€ç‰¹æœ—æ™®çš„å¤§é€‰å’Œä¸ä¸­å›½çš„è´¸æ˜“å’ŒæŠ€æœ¯æˆ˜äº‰ã€‚è¿™ä¸€åˆ‡éƒ½å¹¶ä¸é™Œç”Ÿã€‚å¤§å›½ç«äº‰ã€?æ—ä¸»ä¹‰å’Œé“¶è¡Œä¸šå±æœºéƒ½å¯ä»¥è¿½æº¯åˆ°19ä¸–çºªå’Œ20ä¸–çºªã€‚ç„¶å2020å¹´æ¥äº†ã€‚å®ƒè®©æˆ‘ä»¬ç¥?äº†ä¸€äº›å…¨æ–°çš„ä¸œ?:æ—§æœ‰çš„æ”¿æ²»ã€é‡‘èå’Œåœ°ç¼˜æ”¿æ²»çš„ç´§å¼ å±€åŠ¿ä¸å…¨çƒèŒƒå›´å†…çš„è‡ªç„¶å†²å‡»ç›¸äº¤åœ¨ä¸€èµ·ã€‚
 
-As recent events in Afghanistan demonstrate, President Biden is determined to **clear the decks**, brutally if necessary. **As far as the Pentagon is concerned**, at the top of the agenda is great-power competition with China ¡ª a 19th century **writ large**.
-ÕıÈç×î½üÔÚ°¢¸»º¹·¢ÉúµÄÊÂ¼şËù±íÃ÷µÄÄÇÑù£¬°İµÇ×ÜÍ³¾öĞÄÉ¨ÇåÕÏ°­£¬±ØÒªÊ±¿ÉÒÔºÁ²»ÁôÇé¡£¶ÔÎå?´óÂ¥¶øÑÔ£¬Òé³ÌµÄÊ×ÒªÈÎÎñÊÇÓëÖĞ¹úµÄ´ó¹ú¾ºÕù¡ª¡ªÕâÊÇ19ÊÀ¼ÍµÄÒ»¼ş´óÊÂ
+As recent events in Afghanistan demonstrate, President Biden is determined to **clear the decks**, brutally if necessary. **As far as the Pentagon is concerned**, at the top of the agenda is great-power competition with China â€” a 19th century **writ large**.
+æ­£å¦‚æœ€è¿‘åœ¨é˜¿å¯Œæ±—å‘ç”Ÿçš„äº‹ä»¶æ‰€è¡¨æ˜çš„é‚£æ ·ï¼Œæ‹œç™»æ€»ç»Ÿå†³å¿ƒæ‰«æ¸…éšœç¢ï¼Œå¿…è¦æ—¶å¯ä»¥æ¯«ä¸ç•™æƒ…ã€‚å¯¹äº”?å¤§æ¥¼è€Œè¨€ï¼Œè®®ç¨‹çš„é¦–è¦ä»»åŠ¡æ˜¯ä¸ä¸­å›½çš„å¤§å›½ç«äº‰â€”â€”è¿™æ˜¯19ä¸–çºªçš„ä¸€ä»¶å¤§äº‹
 
-But what of the interconnected global crises of the 21st century that cannot **be attributed to a national antagonist**? **For those**, the one model that we have is central bank financial market intervention ¡ª a form of crisis-fighting based on technical networks, **rooted in** existing hierarchies of power and backed by powerful self-interest. It is conservative, **ad hoc** and lacking in **explicit political legitimacy**. It **tends to reinforce** existing hierarchy and privilege.
-µ«21ÊÀ¼ÍÄÇĞ©Ïà»¥¹ØÁªµÄ¡¢²»ÄÜ¹é¾ÌÓÚ¹ú¼Ò¾ºÕùµÄÈ«ÇòÎ£»úÓÖÈçºÎÄØ?¶ÔÓÚÄÇĞ©Î£»úÀ´Ëµ£¬ÎÒÃÇÓµÓĞµÄÒ»¸öÄ£ĞÍÊÇÑëĞĞ½ğÈÚÊĞ³¡¸ÉÔ¤¡ª¡ªÒ»ÖÖ»ùÓÚ¼¼ÊõÍøÂçµÄÎ£»ú¶Ô¿¹ĞÎÊ½£¬Ö²¸ùÓÚÏÖÓĞµÄÈ¨Á¦µÈ¼¶²¢ÒÔÇ¿´óµÄ×ÔÉíÀûÒæÎªºó¶Ü¡£ËüÊÇ±£ÊØµÄ¡¢ÁÙÊ±µÄ£¬È±·¦Ã÷È·µÄÕşÖÎºÏ·¨ĞÔ¡£ËüÇãÏòÓÚÇ¿»¯ÏÖÓĞµÄµÈ¼¶ÖÆ¶ÈºÍÌØÈ¨¡£
+But what of the interconnected global crises of the 21st century that cannot **be attributed to a national antagonist**? **For those**, the one model that we have is central bank financial market intervention â€” a form of crisis-fighting based on technical networks, **rooted in** existing hierarchies of power and backed by powerful self-interest. It is conservative, **ad hoc** and lacking in **explicit political legitimacy**. It **tends to reinforce** existing hierarchy and privilege.
+ä½†21ä¸–çºªé‚£äº›ç›¸äº’å…³è”çš„ã€ä¸èƒ½å½’å’äºå›½å®¶ç«äº‰çš„å…¨çƒå±æœºåˆå¦‚ä½•å‘¢?å¯¹äºé‚£äº›å±æœºæ¥è¯´ï¼Œæˆ‘ä»¬æ‹¥æœ‰çš„ä¸€ä¸ªæ¨¡å‹æ˜¯å¤®è¡Œé‡‘èå¸‚åœºå¹²é¢„â€”â€”ä¸€ç§åŸºäºæŠ€æœ¯ç½‘ç»œçš„å±æœºå¯¹æŠ—å½¢å¼ï¼Œæ¤æ ¹äºç°æœ‰çš„æƒåŠ›ç­‰çº§å¹¶ä»¥å¼ºå¤§çš„è‡ªèº«åˆ©ç›Šä¸ºåç›¾ã€‚å®ƒæ˜¯ä¿å®ˆçš„ã€ä¸´æ—¶çš„ï¼Œç¼ºä¹æ˜ç¡®çš„æ”¿æ²»åˆæ³•æ€§ã€‚å®ƒå€¾å‘äºå¼ºåŒ–ç°æœ‰çš„ç­‰çº§åˆ¶åº¦å’Œç‰¹æƒã€‚
 
-The challenge for **a progressive globalism fit for** the next decades is both to **multiply those crisis-fighting networks ¡ª into** the fields of medical research and vaccine development, renewable energy and so on 
-Î´À´¼¸Ê®Äê¸üÊÊÓÃµÄÊÇ½¥½øÊ½È«ÇòÖ÷Òå£¬ËüÃæÁÙµÄÌôÕ½ÊÇ½«ÕâĞ©¿¹»÷Î£»úµÄÍøÂçÀ©´óµ½Ò½Ñ§ÑĞ¾¿ºÍÒßÃç¿ª·¢¡¢¿ÉÔÙÉúÄÜÔ´µÈÁìÓò
+The challenge for **a progressive globalism fit for** the next decades is both to **multiply those crisis-fighting networks â€” into** the fields of medical research and vaccine development, renewable energy and so on 
+æœªæ¥å‡ åå¹´æ›´é€‚ç”¨çš„æ˜¯æ¸è¿›å¼å…¨çƒä¸»ä¹‰ï¼Œå®ƒé¢ä¸´çš„æŒ‘æˆ˜æ˜¯å°†è¿™äº›æŠ—å‡»å±æœºçš„ç½‘ç»œæ‰©å¤§åˆ°åŒ»å­¦ç ”ç©¶å’Œç–«è‹—å¼€å‘ã€å¯å†ç”Ÿèƒ½æºç­‰é¢†åŸŸ
