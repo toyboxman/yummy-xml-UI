@@ -1,5 +1,6 @@
-**Now here we are, on the cusp of** the release of Marvel’s “Shang-Chi and the Legend of the Ten Rings,” the first big-budget American **blockbuster** to center on an **honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywood’s **unparalleled storytelling** technology.
-> cusp[kʌsp] 尖头；尖端  
+**Now here we are, on the cusp of** the release of Marvel’s “Shang-Chi and the Legend of the Ten Rings,” the first big-budget **American blockbuster** to center on an **honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywood’s **unparalleled storytelling** technology.
+> cusp[kʌsp] 尖头；尖端   
+> honest-to-goodness 纯洁的；地道的
 
 现在，漫威的《尚气与十环传奇》马上就要上映，这是第一部围绕诚实善良的亚洲超级英雄为中心的美国大片。影片由刘思慕主演，独创的特效结合炫目的中国武术场面，剧情以好莱坞无可比拟的叙事技巧展开。 
 
