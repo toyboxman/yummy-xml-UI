@@ -1,16 +1,39 @@
-**Now here we are, on the cusp of** the release of Marvel’s “Shang-Chi and the Legend of the Ten Rings,” the first big-budget **American blockbuster** to center on an **honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywood’s **unparalleled storytelling** technology.
+**Now here we are, on the cusp of** the release of Marvel’s “Shang-Chi and the Legend of the Ten Rings,” the first big-budget **American blockbuster** to **center on an honest-to-goodness** Asian superhero. The film **stars** Simu Liu, who **whirls into action** with all the unique **splendor promised by** a movie that **fuses the eye-popping spectacle** of Chinese **martial arts** with Hollywood’s **unparalleled storytelling** technology.
 > cusp[kʌsp] 尖头；尖端   
-> honest-to-goodness 纯洁的；地道的
+> honest-to-goodness 纯洁的；地道的  
+> whirl[hwɜrl] 旋转；回旋；  
+> splendor[ˈsplendər] 壮丽；光辉；灿烂 “splendour”的变体  
+> unparalleled[ʌnˈpɛrəˌlɛld] 无比的；空前的；无双的  
+> eye-popping 令人瞠目结舌的；令人眼花缭乱的  
+> spectacle[ˈspektək(ə)l] 精彩的表演；壮观的场面；壮观的景象；
 
 现在，漫威的《尚气与十环传奇》马上就要上映，这是第一部围绕诚实善良的亚洲超级英雄为中心的美国大片。影片由刘思慕主演，独创的特效结合炫目的中国武术场面，剧情以好莱坞无可比拟的叙事技巧展开。 
 
-When we’re first introduced to our **titular protagonist** — going by **the westernized name** “Shaun” — he’s **depicted as a good-natured**, smiling **parking valet** who **nods and stammers when condescended to**. He **begs his over-the-top** BFF Katy (Nora “Awkwafina” Lum) not to make noise or trouble.
-片名中的主?——使用?化的名字“肖恩”——第一次出场时，他被描绘成一个善良、面带微笑的泊?员，当有人居高临下地对待他时，他会点头，还会结巴。他恳求他最好的朋友、行为乖张的凯蒂 (“奥卡菲娜”林家珍饰)不要制造噪音或麻烦。
+When we’re first introduced to our **titular protagonist** — going by **the westernized name** “Shaun” — he’s **depicted as a good-natured**, smiling **parking valet** who **nods and stammers when condescended to**. He **begs his over-the-top** BFF Katy (Nora “Awkwafina” Lum) not to make noise or trouble. 
+> titular[ˈtɪtʃələr] 名义上的；有名无实的；徒有虚名的   
+> protagonist[proʊˈtæɡənɪst] 主人公；领导者；正面人物
+> good-natured 脾气好的；温厚的；和蔼的  
+> valet[ˈvæleɪ] 贴身男仆；泊车员  
+> stammer[ˈstæmər] 口吃；结巴着说  
+> condescend[kɑndəˈsend] 屈尊俯就；屈就  
+> over-the-top 过於夸张的；过度的
 
-He’s **living as** many of our Asian parents **counseled** us: “**The nail that sticks up gets hammered down**,” they said. They encouraged us to **blend in**, to **adopt cultural camouflage**, to **avoid standing out** in ways that might make us vulnerable to the racial targeting that they may have experienced themselves.
-他的生活就像许多亚裔父母劝告我们的那样——“枪打出头?”，他们说。他们鼓励我们融入其中，采用文化伪装，避免引人注目，那样可能会让我们容易受到他们可能曾经历过的种族针对。
+片名中的主角——使用西化的名字“肖恩”——第一次出场时，他被描绘成一个善良、面带微笑的泊车员，当有人居高临下地对待他时，他会点头，还会结巴。他恳求他最好的朋友、行为乖张的凯蒂(“奥卡菲娜”林家珍饰)不要制造噪音或麻烦。
 
-But it’s **not long before** Shaun **rips off his metaphorical glasses** and **steps unabashedly into the spotlight** as Shang-Chi, a **larger-than-life, pyrotechnic presence** who draws every eye and fills the screen as only superheroes can.
+He’s **living as** many of our Asian parents **counseled** us: “**The nail that sticks up gets hammered down**,” they said. They encouraged us to **blend in**, to **adopt cultural camouflage**, to **avoid standing out** in ways that might make us vulnerable to the racial targeting that they may have experienced themselves. 
+> counsel[ˈkaʊns(ə)l] 忠告；商议；法律顾问；  
+> stick up 突出；竖起  
+> camouflage[ˈkæməˌflɑʒ] 伪装；掩饰  
+> stand out 显眼；引人注目  
+
+他的生活就像许多亚裔父母劝告我们的那样——“枪打出头鸟”，他们说。他们鼓励我们融入其中，采用文化伪装，避免引人注目，那样可能会让我们容易受到他们可能曾经历过的种族针对。  
+
+But it’s **not long before** Shaun **rips off his metaphorical glasses** and **steps unabashedly into the spotlight** as Shang-Chi, a **larger-than-life, pyrotechnic presence** who draws every eye and **fills the screen** as only superheroes can. 
+>metaphorical[ˌmetəˈfɔrɪk(ə)l] 隐喻性的；隐喻式  
+>unabashed[ˌʌnəˈbæʃt] 不害臊的；厚脸皮的；不脸红的
+>larger-than-life 杰出的 与众不同的
+>pyrotechnic[ˌpaɪrə'teknɪk] 烟火的；爆破效果
+
 但没过多久，肖恩摘下他那副带有隐喻色彩的眼镜，毫不掩饰地以“尚气”的形象出现在聚光灯下，这是一个超凡脱俗、光芒四射的出场，他主宰着屏幕，吸引了所有的目光，这是只有超级英雄才有的气场。
 
 For those of us who **ultimately rebelled against** our parents’ advice to **shrink ourselves**, Shang Chi’s **heroic arrival** is a **satisfying refutation** of their warnings. Don’t raise your voice. Don’t draw attention. Don’t **take up space**. This was **well-meaning counsel**, but it had **tremendous unintended consequences**, leading many of us to avoid **asserting our Asian heritage**.

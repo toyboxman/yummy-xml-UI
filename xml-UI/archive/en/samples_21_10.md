@@ -1,254 +1,301 @@
-Xu Jiayin was China¡¯s richest man, a symbol of the country¡¯s economic rise who helped **transform poverty-stricken** villages into **urbanized metropolises** for the **fledgling** middle class. He **amassed the trappings** of the elite, with trips to Paris to taste rare French wines, a million-dollar **yacht**, private jets
-ÖĞ¹úÔø¾­µÄÊ×¸»Ğí¼ÒÓ¡ÊÇ¸Ã¹ú¾­¼ÃáÈÆğµÄÏóÕ÷£¬Ëû°ïÖúÆ¶À§µÄ´å×¯×ª±äÎªĞÂĞËÖĞ²ú½×¼¶µÄ³ÇÊĞ»¯´ó¶¼ÊĞ¡£Ëû¹ı×Å¾«Ó¢µÄÉú»î£¬È¥°ÍÀèÆ·³¢Ï¡ÓĞµÄ·¨¹úÆÏÌÑ¾Æ£¬ÓµÓĞ¼ÛÖµ°ÙÍòÃÀÔªµÄÓÎÍ§¡¢Ë½ÈË·É»ú
+Xu Jiayin was Chinaâ€™s richest man, a symbol of the countryâ€™s economic rise who helped **transform poverty-stricken** villages into **urbanized metropolises** for the **fledgling** middle class. He **amassed the trappings** of the elite, with trips to Paris to taste rare French wines, a million-dollar **yacht**, private jets
+ä¸­å›½æ›¾ç»çš„é¦–å¯Œè®¸å®¶å°æ˜¯è¯¥å›½ç»æµå´›èµ·çš„è±¡å¾ï¼Œä»–å¸®åŠ©è´«å›°çš„æ‘åº„è½¬å˜ä¸ºæ–°å…´ä¸­äº§é˜¶çº§çš„åŸå¸‚åŒ–å¤§éƒ½å¸‚ã€‚ä»–è¿‡ç€ç²¾è‹±çš„ç”Ÿæ´»ï¼Œå»å·´é»å“å°ç¨€æœ‰çš„æ³•å›½è‘¡è„é…’ï¼Œæ‹¥æœ‰ä»·å€¼ç™¾ä¸‡ç¾å…ƒçš„æ¸¸è‰‡ã€ç§äººé£æœº
 
  Last week, the company, which has unpaid bills **totaling more than** $300 billion, missed a key payment to foreign investors. That sent the world into **a panic** over whether China was facing its own **so-called** Lehman moment
- ÉÏÖÜ£¬¸ºÕ®×Ü¼Æ³¬¹ı3000ÒÚÃÀÔªµÄ¸Ã¹«Ë¾Î´ÄÜÏòÍâ¹úÍ¶×ÊÕßÖ§¸¶Ò»±ÊÖØÒª¿îÏî¡£ÕâÈÃÊÀ½çÏİÈë¿Ö»Å£¬»³ÒÉÖĞ¹úÊÇ·ñÕıÃæÁÙ×Å×Ô¼ºµÄÀ×ÂüÊ±¿Ì
+ ä¸Šå‘¨ï¼Œè´Ÿå€ºæ€»è®¡è¶…è¿‡3000äº¿ç¾å…ƒçš„è¯¥å…¬å¸æœªèƒ½å‘å¤–å›½æŠ•èµ„è€…æ”¯ä»˜ä¸€ç¬”é‡è¦æ¬¾é¡¹ã€‚è¿™è®©ä¸–ç•Œé™·å…¥ææ…Œï¼Œæ€€ç–‘ä¸­å›½æ˜¯å¦æ­£é¢ä¸´ç€è‡ªå·±çš„é›·æ›¼æ—¶åˆ»
 
- The company¡¯s crisis is testing the **resolve** of Chinese leaders¡¯ efforts to reform as they **chart a new course** for the country¡¯s economy.
- ºã´óµÄÎ£»úÕıÔÚ¿¼ÑéÖĞ¹úÁìµ¼ÈËÔÚÎª¹ú¼Ò¾­¼Ã¿ª±ÙĞÂµÀÂ·Ê±½øĞĞ¸Ä¸ïµÄ¾öĞÄ¡£
+ The companyâ€™s crisis is testing the **resolve** of Chinese leadersâ€™ efforts to reform as they **chart a new course** for the countryâ€™s economy.
+ æ’å¤§çš„å±æœºæ­£åœ¨è€ƒéªŒä¸­å›½é¢†å¯¼äººåœ¨ä¸ºå›½å®¶ç»æµå¼€è¾Ÿæ–°é“è·¯æ—¶è¿›è¡Œæ”¹é©çš„å†³å¿ƒã€‚
 
- The term ¡®**paradigm shift**¡¯ is always **overused**, so people **tend to ignore** it. But that¡¯s a good way of describing what¡¯s happening right now.
- ¡®·¶Ê½×ª±ä¡¯Õâ¸ö´Ê±»ÓÃÀÃÁË£¬ËùÒÔÍùÍù²»ÎªÈËÃÇËùÖØÊÓ¡£µ«ÕâÊÇ¶ÔÄ¿Ç°ÕıÔÚ·¢ÉúµÄÊÂÇé×îÌùÇĞµÄÃèÊö¡£
+ The term â€˜**paradigm shift**â€™ is always **overused**, so people **tend to ignore** it. But thatâ€™s a good way of describing whatâ€™s happening right now.
+ â€˜èŒƒå¼è½¬å˜â€™è¿™ä¸ªè¯è¢«ç”¨çƒ‚äº†ï¼Œæ‰€ä»¥å¾€å¾€ä¸ä¸ºäººä»¬æ‰€é‡è§†ã€‚ä½†è¿™æ˜¯å¯¹ç›®å‰æ­£åœ¨å‘ç”Ÿçš„äº‹æƒ…æœ€è´´åˆ‡çš„æè¿°ã€‚
 
- Mr. Xu and his company have **mirrored** China¡¯s own economic **ascent** from an **agrarian economy** to one that **embraced** capitalism.
- Ğí¼ÒÓ¡ºÍËûµÄ¹«Ë¾ÕÛÉä³öÖĞ¹ú´ÓÅ©Òµ¾­¼Ãµ½Óµ±§×Ê±¾Ö÷ÒåµÄáÈÆğ¡£
+ Mr. Xu and his company have **mirrored** Chinaâ€™s own economic **ascent** from an **agrarian economy** to one that **embraced** capitalism.
+ è®¸å®¶å°å’Œä»–çš„å…¬å¸æŠ˜å°„å‡ºä¸­å›½ä»å†œä¸šç»æµåˆ°æ‹¥æŠ±èµ„æœ¬ä¸»ä¹‰çš„å´›èµ·ã€‚
 
- Mr. Xu grew Evergrande from a **small outfit** with fewer than a dozen employees into China¡¯s most **prolific** developer through a **combination** of **rampant borrowing** and elite political **connections**. 
- Ğí¼ÒÓ¡Í¨¹ı´óËÁ½è´ûºÍ¾«Ó¢ÕşÖÎ¹ØÏµµÄ½áºÏ£¬½«ºã´ó´ÓÒ»¼ÒÖ»ÓĞ²»µ½Ê®¼¸ÃûÔ±¹¤µÄĞ¡¹«Ë¾·¢Õ¹³ÉÎªÖĞ¹ú×î¶à²úµÄ¿ª·¢ÉÌ¡£
+ Mr. Xu grew Evergrande from a **small outfit** with fewer than a dozen employees into Chinaâ€™s most **prolific** developer through a **combination** of **rampant borrowing** and elite political **connections**. 
+ è®¸å®¶å°é€šè¿‡å¤§è‚†å€Ÿè´·å’Œç²¾è‹±æ”¿æ²»å…³ç³»çš„ç»“åˆï¼Œå°†æ’å¤§ä»ä¸€å®¶åªæœ‰ä¸åˆ°åå‡ åå‘˜å·¥çš„å°å…¬å¸å‘å±•æˆä¸ºä¸­å›½æœ€å¤šäº§çš„å¼€å‘å•†ã€‚
 
- The party flew to Europe **on a private jet**, with the men playing a popular Chinese card game called ¡°**fight the landlord**.¡± 
- Ò»ĞĞÈË³Ë×øË½ÈË·É»ú·ÉÍùÅ·ÖŞ£¬ÄĞÈËÃÇÍæÒ»ÖÖ½Ğ×ö¡°¶·µØÖ÷¡±µÄÖ½ÅÆÓÎÏ·¡£
+ The party flew to Europe **on a private jet**, with the men playing a popular Chinese card game called â€œ**fight the landlord**.â€ 
+ ä¸€è¡Œäººä¹˜åç§äººé£æœºé£å¾€æ¬§æ´²ï¼Œç”·äººä»¬ç©ä¸€ç§å«åšâ€œæ–—åœ°ä¸»â€çš„çº¸ç‰Œæ¸¸æˆã€‚
 
- To **supercharge** Evergrande¡¯s growth, Mr. Xu often borrowed twice **on each piece of land** that he developed ¡ª first from the bank and then from home buyers who were **sometimes willing to** pay 100 percent of the value of their future home before it was built.
- ÎªÁËÍÆ¶¯ºã´ó·¢Õ¹£¬Ğí¼ÒÓ¡¾­³£ÄÃËû¿ª·¢µÄÏîÄ¿´û¿îÁ½´Î¡ª¡ªÏÈÊÇÏòÒøĞĞ£¬È»ºóÏò¹º·¿Õß£¬ÕâĞ©¹º·¿ÕßÓĞÊ±Ô¸ÒâÔÚ·¿×Ó½¨³ÉÇ°Ö§¸¶100%µÄ·¿¿î¡£
+ To **supercharge** Evergrandeâ€™s growth, Mr. Xu often borrowed twice **on each piece of land** that he developed â€” first from the bank and then from home buyers who were **sometimes willing to** pay 100 percent of the value of their future home before it was built.
+ ä¸ºäº†æ¨åŠ¨æ’å¤§å‘å±•ï¼Œè®¸å®¶å°ç»å¸¸æ‹¿ä»–å¼€å‘çš„é¡¹ç›®è´·æ¬¾ä¸¤æ¬¡â€”â€”å…ˆæ˜¯å‘é“¶è¡Œï¼Œç„¶åå‘è´­æˆ¿è€…ï¼Œè¿™äº›è´­æˆ¿è€…æœ‰æ—¶æ„¿æ„åœ¨æˆ¿å­å»ºæˆå‰æ”¯ä»˜100%çš„æˆ¿æ¬¾ã€‚
 
- Xu Jiayin **represents a very important aspect** of China¡¯s economic reform, He used **his wits and his daring** to very, very **aggressively** expand his business, **oftentimes dangerously** so, **from a financial accounting perspective**.
- Ğí¼ÒÓ¡´ú±íÁËÖĞ¹ú¾­¼Ã¸Ä¸ïµÄÒ»¸ö·Ç³£ÖØÒªµÄ·½Ãæ£¬ËûÔËÓÃ×Ô¼ºµÄÖÇ»ÛºÍÓÂÆø£¬·Ç³£¡¢·Ç³£»ı¼«µØÀ©´óÁË×Ô¼ºµÄÒµÎñ£¬´Ó²ÆÎñ»á¼ÆµÄ½Ç¶ÈÀ´¿´£¬ÓĞÊ±ÊÇ·Ç³£Î£ÏÕµÄ¡£
+ Xu Jiayin **represents a very important aspect** of Chinaâ€™s economic reform, He used **his wits and his daring** to very, very **aggressively** expand his business, **oftentimes dangerously** so, **from a financial accounting perspective**.
+ è®¸å®¶å°ä»£è¡¨äº†ä¸­å›½ç»æµæ”¹é©çš„ä¸€ä¸ªéå¸¸é‡è¦çš„æ–¹é¢ï¼Œä»–è¿ç”¨è‡ªå·±çš„æ™ºæ…§å’Œå‹‡æ°”ï¼Œéå¸¸ã€éå¸¸ç§¯æåœ°æ‰©å¤§äº†è‡ªå·±çš„ä¸šåŠ¡ï¼Œä»è´¢åŠ¡ä¼šè®¡çš„è§’åº¦æ¥çœ‹ï¼Œæœ‰æ—¶æ˜¯éå¸¸å±é™©çš„ã€‚
 
 **With access to** cheap money and **unbridled** ambition, Mr. Xu expanded into areas in which Evergrande had no experience or expertise, including bottled water, electric cars, **pig farming** and professional sports. His electric vehicle company had a **bold vision** to become bigger and more powerful than Tesla; so far it has delayed **mass production**.
-Æ¾½èÁ®¼ÛµÄ×Ê½ğºÍ²»ÊÜÏŞÖÆµÄÒ°ĞÄ£¬Ğí¼ÒÓ¡À©ÕÅµ½ÁËºã´óÃ»ÓĞ¾­Ñé»ò×¨³¤µÄÁìÓò£¬°üÀ¨Æ¿×°Ë®¡¢µç¶¯Æû³µ¡¢ÑøÖíºÍÖ°ÒµÌåÓı¡£ËûµÄµç¶¯³µ¹«Ë¾ÓĞÒ»¸ö´óµ¨µÄÔ¸¾°£¬Òª³ÉÎª±ÈÌØË¹À­¸ü´ó¡¢¸üÇ¿µÄ¹«Ë¾£»µ½Ä¿Ç°ÎªÖ¹£¬ËüÒÑ¾­ÍÆ³ÙÁËÁ¿²ú¡£
+å‡­å€Ÿå»‰ä»·çš„èµ„é‡‘å’Œä¸å—é™åˆ¶çš„é‡å¿ƒï¼Œè®¸å®¶å°æ‰©å¼ åˆ°äº†æ’å¤§æ²¡æœ‰ç»éªŒæˆ–ä¸“é•¿çš„é¢†åŸŸï¼ŒåŒ…æ‹¬ç“¶è£…æ°´ã€ç”µåŠ¨æ±½è½¦ã€å…»çŒªå’ŒèŒä¸šä½“è‚²ã€‚ä»–çš„ç”µåŠ¨è½¦å…¬å¸æœ‰ä¸€ä¸ªå¤§èƒ†çš„æ„¿æ™¯ï¼Œè¦æˆä¸ºæ¯”ç‰¹æ–¯æ‹‰æ›´å¤§ã€æ›´å¼ºçš„å…¬å¸ï¼›åˆ°ç›®å‰ä¸ºæ­¢ï¼Œå®ƒå·²ç»æ¨è¿Ÿäº†é‡äº§ã€‚
 
-If Beijing tries to **make an example out of** Evergrande by letting it collapse, the wealth of millions of people could **vanish along with** Mr. Xu¡¯s empire.
-Èç¹û±±¾©ÊÔÍ¼É±¼¦ÙÓºï£¬ÈÃºã´óÆÆ²ú£¬Êı°ÙÍòÈËµÄ²Æ¸»¿ÉÄÜ»áËæ×ÅĞí¼ÒÓ¡µÄµÛ¹úÒ»ÆğÏûÊ§¡£
+If Beijing tries to **make an example out of** Evergrande by letting it collapse, the wealth of millions of people could **vanish along with** Mr. Xuâ€™s empire.
+å¦‚æœåŒ—äº¬è¯•å›¾æ€é¸¡å„†çŒ´ï¼Œè®©æ’å¤§ç ´äº§ï¼Œæ•°ç™¾ä¸‡äººçš„è´¢å¯Œå¯èƒ½ä¼šéšç€è®¸å®¶å°çš„å¸å›½ä¸€èµ·æ¶ˆå¤±ã€‚
 
-**Amid concerns** that an Evergrande **demise** could **spread through** the Chinese economy, Beijing **unleashed a flood of capital into** China¡¯s banking system last week, **a move** that was seen as **an attempt** to **calm market jitters**.
-ÔÚÈËÃÇµ£ĞÄºã´óÆÆ²ú¿ÉÄÜ²¨¼°Õû¸öÖĞ¹ú¾­¼ÃÖ®¼Ê£¬±±¾©ÉÏÖÜÏòÖĞ¹úµÄÒøĞĞÌåÏµ×¢ÈëÁË´óÁ¿×Ê½ğ£¬´Ë¾Ù±»ÊÓÎªÊÔÍ¼Æ½Ï¢ÊĞ³¡µÄ²»°²ÇéĞ÷¡£
+**Amid concerns** that an Evergrande **demise** could **spread through** the Chinese economy, Beijing **unleashed a flood of capital into** Chinaâ€™s banking system last week, **a move** that was seen as **an attempt** to **calm market jitters**.
+åœ¨äººä»¬æ‹…å¿ƒæ’å¤§ç ´äº§å¯èƒ½æ³¢åŠæ•´ä¸ªä¸­å›½ç»æµä¹‹é™…ï¼ŒåŒ—äº¬ä¸Šå‘¨å‘ä¸­å›½çš„é“¶è¡Œä½“ç³»æ³¨å…¥äº†å¤§é‡èµ„é‡‘ï¼Œæ­¤ä¸¾è¢«è§†ä¸ºè¯•å›¾å¹³æ¯å¸‚åœºçš„ä¸å®‰æƒ…ç»ªã€‚
 
- When China¡¯s economy began to **cool down**, the damage caused by Evergrande¡¯s **voracious appetite** for debt became impossible to ignore. 
- µ±ÖĞ¹ú¾­¼Ã¿ªÊ¼½µÎÂÊ±£¬ºã´óÌ°À·µÄ½èÕ®ÓûÍûÔì³ÉµÄËğº¦±äµÃ²»¿ÉºöÊÓ¡£
+ When Chinaâ€™s economy began to **cool down**, the damage caused by Evergrandeâ€™s **voracious appetite** for debt became impossible to ignore. 
+ å½“ä¸­å›½ç»æµå¼€å§‹é™æ¸©æ—¶ï¼Œæ’å¤§è´ªå©ªçš„å€Ÿå€ºæ¬²æœ›é€ æˆçš„æŸå®³å˜å¾—ä¸å¯å¿½è§†ã€‚
 
- **Debt-saddled** corporate giants like Evergrande were given the freedom to open their **bloody mouths** and **devour the wealth** of our country and our people until they are **too big to fall**, China¡¯s economy and society will be set on the **crater of the volcano** where all may be **ignited** any time.
- Ïñºã´óÕâÑù¸ºÕ®ÀÛÀÛµÄÆóÒµ¾ŞÍ·±»¸³Óè×ÔÓÉ£¬ÈÎÆäÕÅ¿ªÑªÅè´ó¿ÚÍÌÊÉÎÒÃÇ¹ú¼ÒºÍ¹úÃñµÄ²Æ¸»£»Ö±µ½Æä´óµ½²»ÄÜµ¹. ÖĞ¹ú¾­¼ÃºÍÉç»á¾Í»á±»¼ÜÉÏ»ğÉ½¿Ú£¬Ëæ×Å¶¼¿ÉÄÜ±»µãÈ¼¡£
+ **Debt-saddled** corporate giants like Evergrande were given the freedom to open their **bloody mouths** and **devour the wealth** of our country and our people until they are **too big to fall**, Chinaâ€™s economy and society will be set on the **crater of the volcano** where all may be **ignited** any time.
+ åƒæ’å¤§è¿™æ ·è´Ÿå€ºç´¯ç´¯çš„ä¼ä¸šå·¨å¤´è¢«èµ‹äºˆè‡ªç”±ï¼Œä»»å…¶å¼ å¼€è¡€ç›†å¤§å£åå™¬æˆ‘ä»¬å›½å®¶å’Œå›½æ°‘çš„è´¢å¯Œï¼›ç›´åˆ°å…¶å¤§åˆ°ä¸èƒ½å€’. ä¸­å›½ç»æµå’Œç¤¾ä¼šå°±ä¼šè¢«æ¶ä¸Šç«å±±å£ï¼Œéšç€éƒ½å¯èƒ½è¢«ç‚¹ç‡ƒã€‚
 
  President Biden has been **working hard to make the pivot to** Asia that his two **predecessors** never **quite managed**.
- °İµÇ×ÜÍ³Ò»Ö±Å¬Á¦×ªÏòÑÇÖŞ£¬ÕâÊÇËûµÄÁ½Î»Ç°ÈÎ¶¼Î´ÄÜÍêÈ«×öµ½µÄÊÂ¡£
+ æ‹œç™»æ€»ç»Ÿä¸€ç›´åŠªåŠ›è½¬å‘äºšæ´²ï¼Œè¿™æ˜¯ä»–çš„ä¸¤ä½å‰ä»»éƒ½æœªèƒ½å®Œå…¨åšåˆ°çš„äº‹ã€‚
 
- It risks **compromising** long-term **nonproliferation interests** in favor of **near-term** militarism. It directs **immense** resources to **ineffective** strategies. It reacts to China¡¯s military **buildup** but does not provide a **credible deterrent** or **seriously alter** the regional military balance against Beijing.
- ËüÓĞ¿ÉÄÜÎªÁË¶ÌÆÚµÄÇî±ø÷òÎä¶øËğº¦³¤ÆÚµÄ·ÀºËÀ©É¢ÀûÒæ¡£Ëü½«´óÁ¿×ÊÔ´ÓÃÓÚÎŞĞ§µÄÕ½ÂÔ¡£Ëü¶ÔÖĞ¹úµÄ¾üÊÂ½¨Éè×ö³ö·´Ó¦£¬µ«Ã»ÓĞÌá¹©¿É¿¿µÄÍşÉåÁ¦£¬Ò²Ã»ÓĞÊµÖÊ¸Ä±äÕë¶Ô±±¾©µÄµØÇø¾üÊÂÆ½ºâ¡£
+ It risks **compromising** long-term **nonproliferation interests** in favor of **near-term** militarism. It directs **immense** resources to **ineffective** strategies. It reacts to Chinaâ€™s military **buildup** but does not provide a **credible deterrent** or **seriously alter** the regional military balance against Beijing.
+ å®ƒæœ‰å¯èƒ½ä¸ºäº†çŸ­æœŸçš„ç©·å…µé»©æ­¦è€ŒæŸå®³é•¿æœŸçš„é˜²æ ¸æ‰©æ•£åˆ©ç›Šã€‚å®ƒå°†å¤§é‡èµ„æºç”¨äºæ— æ•ˆçš„æˆ˜ç•¥ã€‚å®ƒå¯¹ä¸­å›½çš„å†›äº‹å»ºè®¾åšå‡ºååº”ï¼Œä½†æ²¡æœ‰æä¾›å¯é çš„å¨æ…‘åŠ›ï¼Œä¹Ÿæ²¡æœ‰å®è´¨æ”¹å˜é’ˆå¯¹åŒ—äº¬çš„åœ°åŒºå†›äº‹å¹³è¡¡ã€‚
 
- It is **far more** difficult for the United States and its allies to **project power** thousands of miles to Taiwan than it is for China to project power 100 miles across the **Taiwan Strait**. U.S. aircraft **simply cannot** fly enough **sorties** to overwhelm both China¡¯s aircraft and its missile defense systems. The AUKUS agreement does not **change these facts**. And any **marginal gains** are likely to be too little, too late. 
- ÃÀ¹ú¼°ÆäÃËÓÑÏòÊıÇ§Ó¢ÀïÍâµÄÌ¨ÍåÍ¶ÉäÁ¦Á¿£¬Òª±ÈÖĞ¹úÏòÌ¨Íåº£Ï¿¶ÔÃæ160¹«ÀïÍâÍ¶ÉäÁ¦Á¿À§ÄÑµÃ¶à¡£ÃÀ¹ú·É»ú¸ù±¾ÎŞ·¨·ÉĞĞ×ã¹»µÄ¼Ü´ÎÀ´Ñ¹µ¹ÖĞ¹úµÄ·É»úºÍËüµÄµ¼µ¯·ÀÓùÏµÍ³¡£AUKUSĞ­Òé²»»á¸Ä±äÕâĞ©ÊÂÊµ¡£ÈÎºÎ±ß¼ÊÊÕÒæ¶¼¿ÉÄÜÌ«ÉÙ¡¢Ì«³Ù¡£
+ It is **far more** difficult for the United States and its allies to **project power** thousands of miles to Taiwan than it is for China to project power 100 miles across the **Taiwan Strait**. U.S. aircraft **simply cannot** fly enough **sorties** to overwhelm both Chinaâ€™s aircraft and its missile defense systems. The AUKUS agreement does not **change these facts**. And any **marginal gains** are likely to be too little, too late. 
+ ç¾å›½åŠå…¶ç›Ÿå‹å‘æ•°åƒè‹±é‡Œå¤–çš„å°æ¹¾æŠ•å°„åŠ›é‡ï¼Œè¦æ¯”ä¸­å›½å‘å°æ¹¾æµ·å³¡å¯¹é¢160å…¬é‡Œå¤–æŠ•å°„åŠ›é‡å›°éš¾å¾—å¤šã€‚ç¾å›½é£æœºæ ¹æœ¬æ— æ³•é£è¡Œè¶³å¤Ÿçš„æ¶æ¬¡æ¥å‹å€’ä¸­å›½çš„é£æœºå’Œå®ƒçš„å¯¼å¼¹é˜²å¾¡ç³»ç»Ÿã€‚AUKUSåè®®ä¸ä¼šæ”¹å˜è¿™äº›äº‹å®ã€‚ä»»ä½•è¾¹é™…æ”¶ç›Šéƒ½å¯èƒ½å¤ªå°‘ã€å¤ªè¿Ÿã€‚
 
  Neither AUKUS **submarines** nor U.S. **bombers** flying from northern Australia are likely to **tip the balance** if they **are dedicated to** the same **losing strategy**. 
- ÎŞÂÛÊÇAUKUSµÄÇ±Í§£¬»¹ÊÇ´Ó°Ä´óÀûÑÇ±±²¿Æğ·ÉµÄÃÀ¹úºäÕ¨»ú£¬Èç¹û·şÎñÓÚÍ¬ÑùµÄÊ§°ÜÕ½ÂÔ£¬ËüÃÇ¶¼²»¿ÉÄÜ¸Ä±äÆ½ºâ¡£
+ æ— è®ºæ˜¯AUKUSçš„æ½œè‰‡ï¼Œè¿˜æ˜¯ä»æ¾³å¤§åˆ©äºšåŒ—éƒ¨èµ·é£çš„ç¾å›½è½°ç‚¸æœºï¼Œå¦‚æœæœåŠ¡äºåŒæ ·çš„å¤±è´¥æˆ˜ç•¥ï¼Œå®ƒä»¬éƒ½ä¸å¯èƒ½æ”¹å˜å¹³è¡¡ã€‚
 
- This is a **hallmark** of great power competition: Competitive initiatives like AUKUS provide visible ways to **counter or balance or complicate** China¡¯s military activities but don¡¯t necessarily help allies meet defined objectives. **More often**, competition becomes **an end in itself** ¡ª an **open-ended imperative** that assumes everything an **opponent dislikes** must be good policy. Another **common feature** of competitive policies is that officials tend to **overlook** their costs.
- Õâ¾ÍÊÇ´ó¹ú¾ºÕùµÄÌØµã£ºÒª¶ÔÖĞ¹úµÄ¾üÊÂ»î¶¯½øĞĞ·´ÖÆ»òÆ½ºâ»ò¸ÉÈÅ£¬ÏñAUKUSÕâÑùµÄ¾ºÕùĞÔ³«Òé¿ÉÒÔ¸ø³öÏÔ¼ûµÄÍ¾¾¶£¬²»¹ıÕâ²»µÈÓÚ¾ÍÄÜ°ïÖúÃËÓÑÊµÏÖÆäÖĞËùÃ÷È·µÄÄ¿±ê¡£¸ü³£¼ûµÄ¿ÉÄÜÊÇ£¬¾ºÕù±¾Éí³ÉÁËÄ¿µÄ¡ª¡ªÕâÊÇÒ»ÖÖÎŞĞİÖ¹µÄÒªÇó£¬¼´¼Ù¶¨Ö»ÒªÊÇ¶ÔÊÖ²»Ï²»¶µÄ¶«Î÷¾Í¿Ï¶¨ÊÇºÃÕş²ß¡£¾ºÕùĞÔÕş²ßµÄÁíÒ»¸ö³£¼ûÌØĞÔÊÇ¹ÙÔ±ÇãÏòÓÚÎŞÊÓ³É±¾¡£
+ This is a **hallmark** of great power competition: Competitive initiatives like AUKUS provide visible ways to **counter or balance or complicate** Chinaâ€™s military activities but donâ€™t necessarily help allies meet defined objectives. **More often**, competition becomes **an end in itself** â€” an **open-ended imperative** that assumes everything an **opponent dislikes** must be good policy. Another **common feature** of competitive policies is that officials tend to **overlook** their costs.
+ è¿™å°±æ˜¯å¤§å›½ç«äº‰çš„ç‰¹ç‚¹ï¼šè¦å¯¹ä¸­å›½çš„å†›äº‹æ´»åŠ¨è¿›è¡Œååˆ¶æˆ–å¹³è¡¡æˆ–å¹²æ‰°ï¼ŒåƒAUKUSè¿™æ ·çš„ç«äº‰æ€§å€¡è®®å¯ä»¥ç»™å‡ºæ˜¾è§çš„é€”å¾„ï¼Œä¸è¿‡è¿™ä¸ç­‰äºå°±èƒ½å¸®åŠ©ç›Ÿå‹å®ç°å…¶ä¸­æ‰€æ˜ç¡®çš„ç›®æ ‡ã€‚æ›´å¸¸è§çš„å¯èƒ½æ˜¯ï¼Œç«äº‰æœ¬èº«æˆäº†ç›®çš„â€”â€”è¿™æ˜¯ä¸€ç§æ— ä¼‘æ­¢çš„è¦æ±‚ï¼Œå³å‡å®šåªè¦æ˜¯å¯¹æ‰‹ä¸å–œæ¬¢çš„ä¸œè¥¿å°±è‚¯å®šæ˜¯å¥½æ”¿ç­–ã€‚ç«äº‰æ€§æ”¿ç­–çš„å¦ä¸€ä¸ªå¸¸è§ç‰¹æ€§æ˜¯å®˜å‘˜å€¾å‘äºæ— è§†æˆæœ¬ã€‚
 
- **For one thing**, AUKUS carries significant diplomatic costs **at a time** when the United States is **in desperate need of** credibility with its allies. France views AUKUS as ¡°a knife in the back¡±, That **perceived betrayal** could cause unnecessary **friction** in NATO 
- Ê×ÏÈÒ»µã£¬´ËÊ±´Ë¿ÌÃËÓÑµÄĞÅÈÎÕıÊÇÃÀ¹úÆÈÇĞĞèÒªµÄ£¬¶øAUKUS°üº¬ÁË¾Ş´óµÄÍâ½»³É±¾¡£·¨¹úÈÏÎªAUKUSÊÇ¡°±³ºóÍ±µ¶¡±£¬Õâ±»ÈÏÎªÊÇÒ»´Î±³ÅÑ£¬¿ÉÄÜÔÚ±±Ô¼ÄÚ²¿µ¼ÖÂ²»±ØÒªµÄÄ¦²Á
+ **For one thing**, AUKUS carries significant diplomatic costs **at a time** when the United States is **in desperate need of** credibility with its allies. France views AUKUS as â€œa knife in the backâ€, That **perceived betrayal** could cause unnecessary **friction** in NATO 
+ é¦–å…ˆä¸€ç‚¹ï¼Œæ­¤æ—¶æ­¤åˆ»ç›Ÿå‹çš„ä¿¡ä»»æ­£æ˜¯ç¾å›½è¿«åˆ‡éœ€è¦çš„ï¼Œè€ŒAUKUSåŒ…å«äº†å·¨å¤§çš„å¤–äº¤æˆæœ¬ã€‚æ³•å›½è®¤ä¸ºAUKUSæ˜¯â€œèƒŒåæ…åˆ€â€ï¼Œè¿™è¢«è®¤ä¸ºæ˜¯ä¸€æ¬¡èƒŒå›ï¼Œå¯èƒ½åœ¨åŒ—çº¦å†…éƒ¨å¯¼è‡´ä¸å¿…è¦çš„æ‘©æ“¦
 
-The Biden administration should **take a breath and make certain** it does not reflect a **self-defeating, militarized** concept of great power that pushes other potential partners away in **bullheaded pursuit** of agreement on one issue. It should **institute** strong nonproliferation safeguards, repair damage to other **vital alliances** and ensure that the plan isn¡¯t **throwing good money** after bad strategy.
-°İµÇÕş¸®ĞèÒª¾²ÏÂÀ´ÏëÇå³ş£¬´Ë¾Ù»á²»»áÏÔµÃÏñÒ»ÖÖÅªÇÉ³É×¾µÄ¾üÊÂ»¯´ó¹ú¸ÅÄî£¬µ¼ÖÂÆäËûÇ±ÔÚºÏ×÷Õß±»ÕâÖÖ¶Ôµ¥Ò»ÎÊÌâĞ­ÒéµÄ¹ÌÖ´×·ÇóÏÅÅÜ¡£Ğ­ÒéĞèÒªÖÆ¶¨Ç¿ÓĞÁ¦µÄ²»À©É¢·À»¤´ëÊ©£¬ĞŞ¸´Ëü¸øÆäËûÖØÒªÃËÓÑÔì³ÉµÄÉËº¦£¬È·±£Õâ²»ÊÇÔÚ°ÑÇ®ÀË·ÑÔÚÔã¸âµÄÕ½ÂÔÉÏ¡£
+The Biden administration should **take a breath and make certain** it does not reflect a **self-defeating, militarized** concept of great power that pushes other potential partners away in **bullheaded pursuit** of agreement on one issue. It should **institute** strong nonproliferation safeguards, repair damage to other **vital alliances** and ensure that the plan isnâ€™t **throwing good money** after bad strategy.
+æ‹œç™»æ”¿åºœéœ€è¦é™ä¸‹æ¥æƒ³æ¸…æ¥šï¼Œæ­¤ä¸¾ä¼šä¸ä¼šæ˜¾å¾—åƒä¸€ç§å¼„å·§æˆæ‹™çš„å†›äº‹åŒ–å¤§å›½æ¦‚å¿µï¼Œå¯¼è‡´å…¶ä»–æ½œåœ¨åˆä½œè€…è¢«è¿™ç§å¯¹å•ä¸€é—®é¢˜åè®®çš„å›ºæ‰§è¿½æ±‚å“è·‘ã€‚åè®®éœ€è¦åˆ¶å®šå¼ºæœ‰åŠ›çš„ä¸æ‰©æ•£é˜²æŠ¤æªæ–½ï¼Œä¿®å¤å®ƒç»™å…¶ä»–é‡è¦ç›Ÿå‹é€ æˆçš„ä¼¤å®³ï¼Œç¡®ä¿è¿™ä¸æ˜¯åœ¨æŠŠé’±æµªè´¹åœ¨ç³Ÿç³•çš„æˆ˜ç•¥ä¸Šã€‚
 
 **Too often**, a **narrow focus** on great power competition just leaves America **less competitive** in the **long run**.
-ÔÚ´ó¹ú¾ºÕùÖĞ£¬¹ı·Ö¹Ø×¢Ä³Ò»µã¾­³£µ¼ÖÂÃÀ¹úÉ¥Ê§³¤Ô¶µÄ¾ºÕùÁ¦¡£
+åœ¨å¤§å›½ç«äº‰ä¸­ï¼Œè¿‡åˆ†å…³æ³¨æŸä¸€ç‚¹ç»å¸¸å¯¼è‡´ç¾å›½ä¸§å¤±é•¿è¿œçš„ç«äº‰åŠ›ã€‚
 
-China will **aim to reduce the prevalence** of ¡°**medically unnecessary**¡± abortions, according to guidelines released by the central government on Monday, as part of **a sweeping plan** for women¡¯s and children¡¯s health over the next decade.
-¸ù¾İÖĞÑëÕş¸®ÖÜÒ»·¢²¼µÄÖ¸µ¼Òâ?£¬ÖĞ¹ú½«ÖÂÁ¦ÓÚ¼õÉÙ¡°·ÇÒ½Ñ§ĞèÒªµÄ¡±ÈË¹¤Á÷²úµÄÊ¢ĞĞ£¬ÕâÊÇÎ´À´Ê®Äê¸¾Å®¶ùÍ¯½¡¿µÈ«Ãæ¼Æ»®µÄÒ»²¿·Ö¡£
+China will **aim to reduce the prevalence** of â€œ**medically unnecessary**â€ abortions, according to guidelines released by the central government on Monday, as part of **a sweeping plan** for womenâ€™s and childrenâ€™s health over the next decade.
+æ ¹æ®ä¸­å¤®æ”¿åºœå‘¨ä¸€å‘å¸ƒçš„æŒ‡å¯¼æ„?ï¼Œä¸­å›½å°†è‡´åŠ›äºå‡å°‘â€œéåŒ»å­¦éœ€è¦çš„â€äººå·¥æµäº§çš„ç››è¡Œï¼Œè¿™æ˜¯æœªæ¥åå¹´å¦‡å¥³å„¿ç«¥å¥åº·å…¨é¢è®¡åˆ’çš„ä¸€éƒ¨åˆ†ã€‚
 
-But the promise immediately **drew attention** on social media **given increasingly urgent efforts** by the government in recent years to promote childbirth and **slow the population¡¯s aging**. Under the one-child policy, which **was implemented** in 1980, officials **at times** forced women to **undergo abortions and sterilizations**.
-µ«ÕâÒ»³ĞÅµÁ¢¼´ÔÚÉç½»Ã½ÌåÉÏÒıÆğÁË¹Ø×¢£¬ÒòÎª½üÄêÀ´Õş¸®ÔÚ´Ù½øÉúÓıºÍ¼õ»ºÈË¿ÚÀÏÁä»¯·½ÃæµÄÅ¬Á¦ÈÕÒæ½ôÆÈ¡£ÔÚ1980ÄêÊµÊ©µÄ¶ÀÉú×ÓÅ®Õş²ßÏÂ£¬¹ÙÔ±ÓĞÊ±»áÇ¿ÆÈÅ®ĞÔ¶éÌ¥ºÍ¾øÓı¡£
+But the promise immediately **drew attention** on social media **given increasingly urgent efforts** by the government in recent years to promote childbirth and **slow the populationâ€™s aging**. Under the one-child policy, which **was implemented** in 1980, officials **at times** forced women to **undergo abortions and sterilizations**.
+ä½†è¿™ä¸€æ‰¿è¯ºç«‹å³åœ¨ç¤¾äº¤åª’ä½“ä¸Šå¼•èµ·äº†å…³æ³¨ï¼Œå› ä¸ºè¿‘å¹´æ¥æ”¿åºœåœ¨ä¿ƒè¿›ç”Ÿè‚²å’Œå‡ç¼“äººå£è€é¾„åŒ–æ–¹é¢çš„åŠªåŠ›æ—¥ç›Šç´§è¿«ã€‚åœ¨1980å¹´å®æ–½çš„ç‹¬ç”Ÿå­å¥³æ”¿ç­–ä¸‹ï¼Œå®˜å‘˜æœ‰æ—¶ä¼šå¼ºè¿«å¥³æ€§å •èƒå’Œç»è‚²ã€‚
 
 But over the past decade, as the government has realized the **potential economic consequences** of a slow-growing population, officials have **pivoted to exhorting** women to have more children. The one-child policy **was lifted** in 2015. But public reaction to that permission **was tepid at best**. And some have worried that officials will **turn to more coercive measures**.
-µ«ÔÚ¹ıÈ¥Ê®ÄêÀï£¬Ëæ×ÅÕş¸®ÒâÊ¶µ½ÈË¿ÚÔö?»ºÂıµÄÇ±ÔÚ¾­¼Ãºó¹û£¬¹ÙÔ±ÃÇ×ª¶ø¹ÄÀøÅ®ĞÔ¶àÉúº¢×Ó¡£¶ÀÉú×ÓÅ®Õş²ßÓÚ2015ÄêÈ¡Ïû¡£µ«¹«ÖÚ¶ÔÕâÒ»Ğí¿ÉµÄ·´Ó¦³äÆäÁ¿Ò²Ö»ÊÇ²»ÎÂ²»»ğ¡£Ò»Ğ©ÈËµ£ĞÄ¹ÙÔ±ÃÇ»á²ÉÈ¡¸ü¼ÓÇ¿ÖÆµÄ´ëÊ©¡£
+ä½†åœ¨è¿‡å»åå¹´é‡Œï¼Œéšç€æ”¿åºœæ„è¯†åˆ°äººå£å¢?ç¼“æ…¢çš„æ½œåœ¨ç»æµåæœï¼Œå®˜å‘˜ä»¬è½¬è€Œé¼“åŠ±å¥³æ€§å¤šç”Ÿå­©å­ã€‚ç‹¬ç”Ÿå­å¥³æ”¿ç­–äº2015å¹´å–æ¶ˆã€‚ä½†å…¬ä¼—å¯¹è¿™ä¸€è®¸å¯çš„ååº”å……å…¶é‡ä¹Ÿåªæ˜¯ä¸æ¸©ä¸ç«ã€‚ä¸€äº›äººæ‹…å¿ƒå®˜å‘˜ä»¬ä¼šé‡‡å–æ›´åŠ å¼ºåˆ¶çš„æªæ–½ã€‚
 
-**Obtaining** an abortion can already be **a somewhat cumbersome process** in China. Because of many families¡¯ **longstanding preference** for boys over girls, sex-selective abortions are illegal
-ÔÚÖĞ¹ú£¬ÈË¹¤Á÷²úÒÑ¾­ÊÇÒ»¸öÏàµ±·±ËöµÄ¹ı³Ì¡£ÓÉÓÚĞí¶à¼ÒÍ¥?ÆÚÒÔÀ´ÖØÄĞÇáÅ®£¬Õë¶ÔÌ¥¶ùĞÔ±ğµÄÑ¡ÔñĞÔÈË¹¤Á÷²úÊÇ·Ç·¨µÄ
+**Obtaining** an abortion can already be **a somewhat cumbersome process** in China. Because of many familiesâ€™ **longstanding preference** for boys over girls, sex-selective abortions are illegal
+åœ¨ä¸­å›½ï¼Œäººå·¥æµäº§å·²ç»æ˜¯ä¸€ä¸ªç›¸å½“ç¹ççš„è¿‡ç¨‹ã€‚ç”±äºè®¸å¤šå®¶åº­?æœŸä»¥æ¥é‡ç”·è½»å¥³ï¼Œé’ˆå¯¹èƒå„¿æ€§åˆ«çš„é€‰æ‹©æ€§äººå·¥æµäº§æ˜¯éæ³•çš„
 
-Officials have also expressed concern about abortions as **a manifestation of eroding family values**. **In addition to citing** potential health risks, the procedure could **lead to infertility** that would ¡°**affect family harmony** and happiness.¡±
-¹ÙÔ±ÃÇ»¹¶ÔÈË¹¤Á÷²ú±íÊ¾µ£ÓÇ£¬ÈÏÎªÕâÊÇ¼ÒÍ¥¼ÛÖµ¹ÛÊÜµ½ÇÖÊ´µÄ±íÏÖ¡£³ıÁËÌáµ½Ç±ÔÚµÄ½¡¿µ?ÏÕÍâ£¬ÈË¹¤Á÷²ú¿ÉÄÜ»áµ¼ÖÂ²»ÔĞ£¬¡°Ó°Ïì¼ÒÍ¥ºÍĞ³ĞÒ¸£¡±¡£
+Officials have also expressed concern about abortions as **a manifestation of eroding family values**. **In addition to citing** potential health risks, the procedure could **lead to infertility** that would â€œ**affect family harmony** and happiness.â€
+å®˜å‘˜ä»¬è¿˜å¯¹äººå·¥æµäº§è¡¨ç¤ºæ‹…å¿§ï¼Œè®¤ä¸ºè¿™æ˜¯å®¶åº­ä»·å€¼è§‚å—åˆ°ä¾µèš€çš„è¡¨ç°ã€‚é™¤äº†æåˆ°æ½œåœ¨çš„å¥åº·?é™©å¤–ï¼Œäººå·¥æµäº§å¯èƒ½ä¼šå¯¼è‡´ä¸å­•ï¼Œâ€œå½±å“å®¶åº­å’Œè°å¹¸ç¦â€ã€‚
 
 She pointed to other parts of the report that she **called encouraging**, such as **pledges to combat gender discrimination** in the workplace, improve educational opportunities for women and **promote sharing housework** between men and women.
-ËıÖ¸³ö±¨¸æÖĞÆäËûÁîÈË¹ÄÎèµÄ²¿·Ö£¬±ÈÈç³ĞÅµ´ò»÷¹¤×÷³¡ËùµÄĞÔ±ğÆçÊÓ£¬¸ÄÉÆÅ®ĞÔÊÜ½ÌÓıµÄ»ú»á£¬ÒÔ¼°´Ù½øÄĞÅ®·Öµ£¼ÒÎñ¡£
+å¥¹æŒ‡å‡ºæŠ¥å‘Šä¸­å…¶ä»–ä»¤äººé¼“èˆçš„éƒ¨åˆ†ï¼Œæ¯”å¦‚æ‰¿è¯ºæ‰“å‡»å·¥ä½œåœºæ‰€çš„æ€§åˆ«æ­§è§†ï¼Œæ”¹å–„å¥³æ€§å—æ•™è‚²çš„æœºä¼šï¼Œä»¥åŠä¿ƒè¿›ç”·å¥³åˆ†æ‹…å®¶åŠ¡ã€‚
 
-Still, she acknowledged the **yawning gap** between official **rhetoric and reality**. State **media outlets** have recently attacked the **perceived ¡°feminization¡±** of Chinese men. 
-²»¹ıËı³ĞÈÏ£¬¹Ù·½µÄÑÔÂÛÓëÏÖÊµÖ®¼ä´æÔÚ¾Ş´ó²î¾à¡£¹Ù·½Ã½Ìå×î½üÅê»÷ÁËÈËÃÇÑÛÖĞµÄÖĞ¹úÄĞĞÔ±»¡°Å®ĞÔ»¯¡±µÄÏÖÏó
+Still, she acknowledged the **yawning gap** between official **rhetoric and reality**. State **media outlets** have recently attacked the **perceived â€œfeminizationâ€** of Chinese men. 
+ä¸è¿‡å¥¹æ‰¿è®¤ï¼Œå®˜æ–¹çš„è¨€è®ºä¸ç°å®ä¹‹é—´å­˜åœ¨å·¨å¤§å·®è·ã€‚å®˜æ–¹åª’ä½“æœ€è¿‘æŠ¨å‡»äº†äººä»¬çœ¼ä¸­çš„ä¸­å›½ç”·æ€§è¢«â€œå¥³æ€§åŒ–â€çš„ç°è±¡
 
-Though the report **affirms the authorities¡¯ stance** against sexual harassment, a judge this month **ruled against the plaintiff** in the most **high-profile** harassment case to **come out of** China¡¯s Me Too movement.
-¾¡¹Ü¸Ã±¨¸æÈ·ÈÏÁËµ±¾Ö·´¶ÔĞÔÉ§ÈÅµÄÁ¢³¡£¬µ«Ò»Î»·¨¹Ù±¾ÔÂ¶ÔÀ´×ÔÖĞ¹úMe TooÔË¶¯×îÒıÈË×¢Ä¿µÄĞÔÉ§ÈÅ°¸¼şÖĞµÄÔ­¸æ×ö³öÁË²»ÀûÅĞ¾ö¡£
+Though the report **affirms the authoritiesâ€™ stance** against sexual harassment, a judge this month **ruled against the plaintiff** in the most **high-profile** harassment case to **come out of** Chinaâ€™s Me Too movement.
+å°½ç®¡è¯¥æŠ¥å‘Šç¡®è®¤äº†å½“å±€åå¯¹æ€§éªšæ‰°çš„ç«‹åœºï¼Œä½†ä¸€ä½æ³•å®˜æœ¬æœˆå¯¹æ¥è‡ªä¸­å›½Me Tooè¿åŠ¨æœ€å¼•äººæ³¨ç›®çš„æ€§éªšæ‰°æ¡ˆä»¶ä¸­çš„åŸå‘Šåšå‡ºäº†ä¸åˆ©åˆ¤å†³ã€‚
 
-Power cuts and even **blackouts have slowed or closed** factories across China in recent days, **adding a new threat to** the country¡¯s slowing economy and potentially further **snarling global supply chains** ahead of the busy Christmas shopping season in the West. The **outages have rippled across** most of eastern China, where **the bulk of the population** lives and works. 
-½üÈÕÀ´£¬ÖĞ¹ú¸÷µØµÄÏŞµçÉõÖÁÍ£µçÒÑµ¼ÖÂ¹¤³§¼õ²ú»òÍ£¹¤£¬¸øÖĞ¹úÕıÔÚ·Å»ºµÄ¾­¼ÃÔö¼ÓÁËĞÂµÄÍşĞ²£¬²¢¿ÉÄÜÔÚ?·½·±Ã¦µÄÊ¥µ®½Ú¹ºÎï¼¾µ½À´Ö®Ç°½øÒ»²½ÈÅÂÒÈ«Çò¹©Ó¦Á´¡£Í£µçÎÊÌâÒÑ²¨¼°ÖĞ¹ú¶«²¿´ó²¿·ÖµØÇø£¬ÖĞ¹úµÄ´ó²¿·ÖÈË¿ÚÔÚ¶«²¿Éú»î¹¤×÷¡£
+Power cuts and even **blackouts have slowed or closed** factories across China in recent days, **adding a new threat to** the countryâ€™s slowing economy and potentially further **snarling global supply chains** ahead of the busy Christmas shopping season in the West. The **outages have rippled across** most of eastern China, where **the bulk of the population** lives and works. 
+è¿‘æ—¥æ¥ï¼Œä¸­å›½å„åœ°çš„é™ç”µç”šè‡³åœç”µå·²å¯¼è‡´å·¥å‚å‡äº§æˆ–åœå·¥ï¼Œç»™ä¸­å›½æ­£åœ¨æ”¾ç¼“çš„ç»æµå¢åŠ äº†æ–°çš„å¨èƒï¼Œå¹¶å¯èƒ½åœ¨?æ–¹ç¹å¿™çš„åœ£è¯èŠ‚è´­ç‰©å­£åˆ°æ¥ä¹‹å‰è¿›ä¸€æ­¥æ‰°ä¹±å…¨çƒä¾›åº”é“¾ã€‚åœç”µé—®é¢˜å·²æ³¢åŠä¸­å›½ä¸œéƒ¨å¤§éƒ¨åˆ†åœ°åŒºï¼Œä¸­å›½çš„å¤§éƒ¨åˆ†äººå£åœ¨ä¸œéƒ¨ç”Ÿæ´»å·¥ä½œã€‚
 
-**Export demand for aluminum**, one of the most **energy-intensive products**, has been strong. Demand has also been **robust for steel and cement**, central to China¡¯s **vast construction programs**.
-ÂÁÊÇÄÜºÄÇ¿¶È×î¸ßµÄ²úÆ·Ö®Ò»£¬³ö¿ÚĞèÇóÒ»Ö±Ç¿¾¢¡£´¦ÓÚÖĞ¹ú¸÷µØ´óĞÍ½¨ÉèÏîÄ¿ºËĞÄµÄ¸ÖÌúºÍË®ÄàµÄĞèÇóÒ²Ò»Ö±Ç¿¾¢¡£
+**Export demand for aluminum**, one of the most **energy-intensive products**, has been strong. Demand has also been **robust for steel and cement**, central to Chinaâ€™s **vast construction programs**.
+é“æ˜¯èƒ½è€—å¼ºåº¦æœ€é«˜çš„äº§å“ä¹‹ä¸€ï¼Œå‡ºå£éœ€æ±‚ä¸€ç›´å¼ºåŠ²ã€‚å¤„äºä¸­å›½å„åœ°å¤§å‹å»ºè®¾é¡¹ç›®æ ¸å¿ƒçš„é’¢é“å’Œæ°´æ³¥çš„éœ€æ±‚ä¹Ÿä¸€ç›´å¼ºåŠ²ã€‚
 
 As **electricity demand has risen**, it has also **pushed up the price of coal** to generate that electricity. But Chinese regulators have not **let utilities raise rates enough to cover** the rising cost of coal. 
-µçÁ¦ĞèÇóµÄÔö¼Óµ¼ÖÂÁË·¢µçËùĞèµÄÃºÌ¿¼Û¸ñÉÏÕÇ¡£µ«ÖĞ¹ú¼à¹Ü²¿?²»ÈÃ¹«ÓÃÊÂÒµ¹«Ë¾Í¨¹ıÌá¸ßµç¼ÛÀ´ÃÖ²¹ÃºÌ¿³É±¾µÄÉÏÕÇ¡£
+ç”µåŠ›éœ€æ±‚çš„å¢åŠ å¯¼è‡´äº†å‘ç”µæ‰€éœ€çš„ç…¤ç‚­ä»·æ ¼ä¸Šæ¶¨ã€‚ä½†ä¸­å›½ç›‘ç®¡éƒ¨?ä¸è®©å…¬ç”¨äº‹ä¸šå…¬å¸é€šè¿‡æé«˜ç”µä»·æ¥å¼¥è¡¥ç…¤ç‚­æˆæœ¬çš„ä¸Šæ¶¨ã€‚
 
 Between the **rental costs and the diesel fuel** for powering it, electricity is now **twice as expensive as** when the factory was simply **tapping the grid**.
-×â½ğ¼ÓÉÏ²ñÓÍ³É±¾£¬ÈÃ¹¤³§µÄµç¼Û¸ß´ïµçÍø¹©µçµÄÁ½±¶¡£
+ç§Ÿé‡‘åŠ ä¸ŠæŸ´æ²¹æˆæœ¬ï¼Œè®©å·¥å‚çš„ç”µä»·é«˜è¾¾ç”µç½‘ä¾›ç”µçš„ä¸¤å€ã€‚
 
 Economists **predicted that production interruptions** at Chinese factories would make it harder for many stores in the West to **restock empty shelves** and could **contribute to inflation** in the coming months.
-¾­¼ÃÑ§¼ÒÔ¤¼Æ£¬ÖĞ¹ú¹¤³§Éú²úÊÜ¹©µç³Ô½ôµÄÓ°Ïì£¬½«Ê¹?·½¹ú¼ÒĞí¶à»õ¼ÜÒÑ¿ÕµÄÉÌµê¸üÄÑ²¹»õ£¬²¢¿ÉÄÜµ¼ÖÂÎ´À´¼¸¸öÔÂµÄÍ¨»õÅòÕÍ¡£
+ç»æµå­¦å®¶é¢„è®¡ï¼Œä¸­å›½å·¥å‚ç”Ÿäº§å—ä¾›ç”µåƒç´§çš„å½±å“ï¼Œå°†ä½¿?æ–¹å›½å®¶è®¸å¤šè´§æ¶å·²ç©ºçš„å•†åº—æ›´éš¾è¡¥è´§ï¼Œå¹¶å¯èƒ½å¯¼è‡´æœªæ¥å‡ ä¸ªæœˆçš„é€šè´§è†¨èƒ€ã€‚
 
 It is not clear how long **the power crunch will last**. Experts in China predicted that officials would **compensate by steering electricity away** from energy-intensive heavy industries like steel, cement and aluminum, and said that might **fix the problem**.
-Ä¿Ç°»¹²»Çå³şµçÁ¦¶ÌÈ±»á³ÖĞø¶à¾Ã¡£ÖĞ¹úµÄ×¨¼ÒÔ¤²â£¬¹ÙÔ±»á²ÉÈ¡²¹¾È´ëÊ©£¬½«µçÁ¦´Ó¸ÖÌú¡¢Ë®ÄàºÍÂÁµÈÄÜºÄÇ¿¶È¸ßµÄÖØ¹¤Òµµ÷²¦¸øÆäËûĞĞÒµ£¬²¢±íÊ¾Õâ¿ÉÄÜ»á½â¾öÎÊÌâ¡£
+ç›®å‰è¿˜ä¸æ¸…æ¥šç”µåŠ›çŸ­ç¼ºä¼šæŒç»­å¤šä¹…ã€‚ä¸­å›½çš„ä¸“å®¶é¢„æµ‹ï¼Œå®˜å‘˜ä¼šé‡‡å–è¡¥æ•‘æªæ–½ï¼Œå°†ç”µåŠ›ä»é’¢é“ã€æ°´æ³¥å’Œé“ç­‰èƒ½è€—å¼ºåº¦é«˜çš„é‡å·¥ä¸šè°ƒæ‹¨ç»™å…¶ä»–è¡Œä¸šï¼Œå¹¶è¡¨ç¤ºè¿™å¯èƒ½ä¼šè§£å†³é—®é¢˜ã€‚
 
-State Grid, the **government-run power distributor**, said in a statement on Monday that it would guarantee supplies ¡°and **resolutely maintain the bottom line** of people¡¯s **livelihoods**, development and safety.¡±
-¹ú¼ÒµçÍøÔÚÖÜÒ»µÄÒ»·İÉùÃ÷ÖĞ±íÊ¾½«±£ÕÏ¹©µç£¬¡°¼á¾öÊØ×¡?Éú¡¢·¢Õ¹ºÍ°²È«µ×Ïß¡£¡±
+State Grid, the **government-run power distributor**, said in a statement on Monday that it would guarantee supplies â€œand **resolutely maintain the bottom line** of peopleâ€™s **livelihoods**, development and safety.â€
+å›½å®¶ç”µç½‘åœ¨å‘¨ä¸€çš„ä¸€ä»½å£°æ˜ä¸­è¡¨ç¤ºå°†ä¿éšœä¾›ç”µï¼Œâ€œåšå†³å®ˆä½?ç”Ÿã€å‘å±•å’Œå®‰å…¨åº•çº¿ã€‚â€
 
-**Compared with last year**, electricity demand is growing this year in China at **nearly twice its usual annual pace. Swelling orders** for the smartphones, **appliances, exercise equipment** and other manufactured goods that China¡¯s factories **churn out** has driven the rise.
-ÓëÈ¥ÄêÏà±È£¬ÖĞ¹ú½ñÄêµÄµçÁ¦ĞèÇóÔö?ËÙ¶È¼¸ºõÊÇÍùÄêµÄÁ½±¶£¬Ô­ÒòÊÇ¶ÔÖĞ¹úÉú²úµÄÖÇÄÜÊÖ»ú¡¢¼Òµç¡¢½¡ÉíÆ÷²ÄºÍÆäËûÖÆÔìÒµ²úÆ·¶©µ¥µÄ¼¤Ôö¡£
+**Compared with last year**, electricity demand is growing this year in China at **nearly twice its usual annual pace. Swelling orders** for the smartphones, **appliances, exercise equipment** and other manufactured goods that Chinaâ€™s factories **churn out** has driven the rise.
+ä¸å»å¹´ç›¸æ¯”ï¼Œä¸­å›½ä»Šå¹´çš„ç”µåŠ›éœ€æ±‚å¢?é€Ÿåº¦å‡ ä¹æ˜¯å¾€å¹´çš„ä¸¤å€ï¼ŒåŸå› æ˜¯å¯¹ä¸­å›½ç”Ÿäº§çš„æ™ºèƒ½æ‰‹æœºã€å®¶ç”µã€å¥èº«å™¨æå’Œå…¶ä»–åˆ¶é€ ä¸šäº§å“è®¢å•çš„æ¿€å¢ã€‚
 
 Experts said that a surge in prices in China had drawn energy distributors to send **ships laden with liquefied natural gas** to Chinese ports, leaving others to **scurry for** further sources.
-×¨¼ÒËµ£¬ÖĞ¹úÌìÈ»Æø¼Û¸ñµÄì­Éı£¬µ¼ÖÂÄÜÔ´¾­ÏúÉÌ½«ÂúÔØÒº»¯ÌìÈ»ÆøµÄ´¬Ö»·¢ÍùÖĞ¹ú¸Û¿Ú£¬ÈÃÆäËû¹ú¼Ò»ÅÃ¦Ñ°ÇóÆäËûµÄÌìÈ»ÆøÀ´Ô´¡£
+ä¸“å®¶è¯´ï¼Œä¸­å›½å¤©ç„¶æ°”ä»·æ ¼çš„é£™å‡ï¼Œå¯¼è‡´èƒ½æºç»é”€å•†å°†æ»¡è½½æ¶²åŒ–å¤©ç„¶æ°”çš„èˆ¹åªå‘å¾€ä¸­å›½æ¸¯å£ï¼Œè®©å…¶ä»–å›½å®¶æ…Œå¿™å¯»æ±‚å…¶ä»–çš„å¤©ç„¶æ°”æ¥æºã€‚
 
 Coal prices have **surged along with demand**. But because the government keeps electricity prices low, **particularly in residential areas**, usage by homes and businesses has **climbed regardless**.
-ÃºÌ¿¼Û¸ñËæ×ÅµçÁ¦ĞèÇóµÄÔö?³öÏÖì­Éı¡£µ«ÓÉÓÚÕş¸®½«µç¼Û±£³ÖÔÚµÍÎ»£¬ÓÈÆäÊÇ¾Ó?ÓÃµç£¬Ê¹µÃ¼ÒÍ¥ºÍÆóÒµµÄÓÃµç²»ÊÜÃº¼ÛµÄÓ°Ïì£¬¼ÌĞøÉÏÉı¡£
+ç…¤ç‚­ä»·æ ¼éšç€ç”µåŠ›éœ€æ±‚çš„å¢?å‡ºç°é£™å‡ã€‚ä½†ç”±äºæ”¿åºœå°†ç”µä»·ä¿æŒåœ¨ä½ä½ï¼Œå°¤å…¶æ˜¯å±…?ç”¨ç”µï¼Œä½¿å¾—å®¶åº­å’Œä¼ä¸šçš„ç”¨ç”µä¸å—ç…¤ä»·çš„å½±å“ï¼Œç»§ç»­ä¸Šå‡ã€‚
 
 **Faced with losing** more money with each additional ton of coal they burn, some power plants have **closed for maintenance** in recent weeks, saying that this **was needed for safety reasons**.
-ÓÉÓÚ¶àÉÕÃºÒâÎ¶×Å¸ü¶à¿÷Ëğ£¬Ò»Ğ©·¢µç³§ÒÑÔÚ×î½ü¼¸ÖÜÍ£²ú¼ìĞŞ£¬²¢³ÆÕâÊÇ°²È«Éú²úµÄÒªÇó¡£ 
+ç”±äºå¤šçƒ§ç…¤æ„å‘³ç€æ›´å¤šäºæŸï¼Œä¸€äº›å‘ç”µå‚å·²åœ¨æœ€è¿‘å‡ å‘¨åœäº§æ£€ä¿®ï¼Œå¹¶ç§°è¿™æ˜¯å®‰å…¨ç”Ÿäº§çš„è¦æ±‚ã€‚ 
 
 The regulators **cited a need** to make sure that the cities and provinces **met full-year targets** set by Beijing for their **carbon dioxide emissions** from the **burning of fossil fuels**. If people begin to **point fingers**, there are few others to blame.
-¼à¹Ü²¿?Ëµ£¬ÕâÑù×öÊÇÎªÁËÈ·±£¸÷Ê¡ÊĞÊµÏÖÖĞÑëÖÆ¶¨µÄÀ´×ÔÈ¼ÉÕ»¯Ê¯È¼ÁÏµÄ¶şÑõ»¯Ì¼ÅÅ·ÅÈ«ÄêÄ¿±ê¡£ Èç¹ûÏëÖ¸ÔğË­µÄ»°£¬¼¸ºõÃ»ÓĞÆäËûÈË¿ÉÖ¸Ôğ¡£
+ç›‘ç®¡éƒ¨?è¯´ï¼Œè¿™æ ·åšæ˜¯ä¸ºäº†ç¡®ä¿å„çœå¸‚å®ç°ä¸­å¤®åˆ¶å®šçš„æ¥è‡ªç‡ƒçƒ§åŒ–çŸ³ç‡ƒæ–™çš„äºŒæ°§åŒ–ç¢³æ’æ”¾å…¨å¹´ç›®æ ‡ã€‚ å¦‚æœæƒ³æŒ‡è´£è°çš„è¯ï¼Œå‡ ä¹æ²¡æœ‰å…¶ä»–äººå¯æŒ‡è´£ã€‚
 
-**Disruptions from power shortages** have already **been felt** in Dongguan, a city at the heart of China¡¯s southern **manufacturing belt**.
-ÖĞ¹úÄÏ·½µÄÖÆÔìÒµÖĞĞÄ¶«İ¸ÒÑ¸ĞÊÜµ½ÁËµçÁ¦¶ÌÈ±´øÀ´µÄ¸ÉÈÅ¡£
+**Disruptions from power shortages** have already **been felt** in Dongguan, a city at the heart of Chinaâ€™s southern **manufacturing belt**.
+ä¸­å›½å—æ–¹çš„åˆ¶é€ ä¸šä¸­å¿ƒä¸œèå·²æ„Ÿå—åˆ°äº†ç”µåŠ›çŸ­ç¼ºå¸¦æ¥çš„å¹²æ‰°ã€‚
 
 The **throaty roar** of huge **diesel generators rumbled** on Monday morning through the streets and **alleys** of Houjie, where **scores of five-story, concrete-walled** factories are **nestled among** low-rise apartment buildings for migrant workers. 
-ÖÜÒ»ÉÏÎç£¬ºñ½ÖÕòµÄ´ó½ÖĞ¡ÏïÀïÏì³¹×Å¾ŞĞÍ²ñÓÍ·¢µç»úµÄ´Ì¶úºäÃùÉù¡£ÔÚÕâÀï£¬ÓĞÊıÊ®¼ÒË®ÄàÇ½Î§ÆğÀ´µÄÎå²ãÂ¥¸ßµÄ¹¤³§£¬ËüÃÇÖÜÎ§ÊÇ´ò¹¤Õß¾Ó×¡µÄµÍ²ã¹«Ô¢Â¥¡£
+å‘¨ä¸€ä¸Šåˆï¼Œåšè¡—é•‡çš„å¤§è¡—å°å··é‡Œå“å½»ç€å·¨å‹æŸ´æ²¹å‘ç”µæœºçš„åˆºè€³è½°é¸£å£°ã€‚åœ¨è¿™é‡Œï¼Œæœ‰æ•°åå®¶æ°´æ³¥å¢™å›´èµ·æ¥çš„äº”å±‚æ¥¼é«˜çš„å·¥å‚ï¼Œå®ƒä»¬å‘¨å›´æ˜¯æ‰“å·¥è€…å±…ä½çš„ä½å±‚å…¬å¯“æ¥¼ã€‚
 
-One of the **noisy generators rumbled** in a 20-foot yellow shipping container behind a factory where workers in bright blue and orange **jumpsuits** labored to **assemble men's and women¡¯s leather shoes** for American and European buyers.
-ÆäÖĞÒ»Ì¨àĞÔÓµÄ·¢µç»ú£¬ÔÚÒ»¼Ò¹¤³§ºóÃæÁùÃ×?µÄ?É«¼¯×°ÏäÀïºäÃù¡£¹¤³§Àï£¬´©×ÅÏÊÀ¶ºÍ³ÈÉ«¹¤×°µÄ¹¤ÈËÕıÔÚÎªÃÀ¹úºÍÅ·ÖŞµÄÏû·ÑÕß×é×°ÄĞÊ½ºÍÅ®Ê½Æ¤Ğ¬¡£
+One of the **noisy generators rumbled** in a 20-foot yellow shipping container behind a factory where workers in bright blue and orange **jumpsuits** labored to **assemble men's and womenâ€™s leather shoes** for American and European buyers.
+å…¶ä¸­ä¸€å°å˜ˆæ‚çš„å‘ç”µæœºï¼Œåœ¨ä¸€å®¶å·¥å‚åé¢å…­ç±³?çš„?è‰²é›†è£…ç®±é‡Œè½°é¸£ã€‚å·¥å‚é‡Œï¼Œç©¿ç€é²œè“å’Œæ©™è‰²å·¥è£…çš„å·¥äººæ­£åœ¨ä¸ºç¾å›½å’Œæ¬§æ´²çš„æ¶ˆè´¹è€…ç»„è£…ç”·å¼å’Œå¥³å¼çš®é‹ã€‚
 
 Mr. Tang had to **turn off his generator** for two days last week after local residents **filed noise complaints** with the local government. He also **rented a metal cage to cover** the generator to **reduce the din**. Some in the **neighborhood, particularly shoe component manufacturers**, were **sympathetic, voicing a mixture** of business **pragmatism and nationalism**.
-ÉÏÖÜ£¬ÒòÎªµ±µØ¾Ó?ÏòÕş¸®Í¶ËßÔëÒôÎÊÌâ£¬ÌÆÏÈÉú²»µÃ²»Í£¿ªÁËÁ½Ìì·¢µç»ú¡£Ëû»¹×âÁËÒ»¸ö½ğÊôÁı×Ó°Ñ·¢µç»úÕÖÆğÀ´£¬ÒÔ¼õÉÙÔëÒô¡£ÉçÇøÀïÓĞĞ©ÈË£¬ÓÈÆäÊÇĞ¬Áã²¿¼şµÄÖÆÔìÉÌÃÇ£¬¶ÔÔëÒôÎÊÌâ±íÊ¾Í¬Çé£¬ ÕâÊÇÒ»ÖÖ¼È´øÓĞÉÌÒµÊµÓÃÖ÷Òå¡¢Ò²´øÓĞ?×åÖ÷ÒåµÄÌ¬¶È¡£
+ä¸Šå‘¨ï¼Œå› ä¸ºå½“åœ°å±…?å‘æ”¿åºœæŠ•è¯‰å™ªéŸ³é—®é¢˜ï¼Œå”å…ˆç”Ÿä¸å¾—ä¸åœå¼€äº†ä¸¤å¤©å‘ç”µæœºã€‚ä»–è¿˜ç§Ÿäº†ä¸€ä¸ªé‡‘å±ç¬¼å­æŠŠå‘ç”µæœºç½©èµ·æ¥ï¼Œä»¥å‡å°‘å™ªéŸ³ã€‚ç¤¾åŒºé‡Œæœ‰äº›äººï¼Œå°¤å…¶æ˜¯é‹é›¶éƒ¨ä»¶çš„åˆ¶é€ å•†ä»¬ï¼Œå¯¹å™ªéŸ³é—®é¢˜è¡¨ç¤ºåŒæƒ…ï¼Œ è¿™æ˜¯ä¸€ç§æ—¢å¸¦æœ‰å•†ä¸šå®ç”¨ä¸»ä¹‰ã€ä¹Ÿå¸¦æœ‰?æ—ä¸»ä¹‰çš„æ€åº¦ã€‚
 
-The International Olympic Committee on Wednesday released **a preliminary set of health protocols** for the upcoming Winter Games in Beijing. The Beijing Olympic and **Paralympic Games** will **take place** in what organizers called a ¡°**closed-loop management system**,¡± a bubblelike environment. Those within the bubble also will **be subject to** daily coronavirus testing.
-ÖÜÈı£¬¹ú¼Ê°ÂÎ¯»á·¢²¼ÁË¼´½«ÔÚ±±¾©¾ÙĞĞµÄ¶¬°Â»áµÄ³õ²½ÎÀÉúÕş²ß. ±±¾©¶¬°Â»áºÍ¶¬²Ğ°Â»á½«ÔÚ×éÖ¯ÕßËùËµµÄ¡°±Õ»·¹ÜÀíÏµÍ³¡±ÖĞ¾ÙĞĞ. ÅİÅİÖĞµÄÈË½«Ã¿ÈÕ½ÓÊÜĞÂ¹Ú²¡¶¾¼ì²â¡£
+The International Olympic Committee on Wednesday released **a preliminary set of health protocols** for the upcoming Winter Games in Beijing. The Beijing Olympic and **Paralympic Games** will **take place** in what organizers called a â€œ**closed-loop management system**,â€ a bubblelike environment. Those within the bubble also will **be subject to** daily coronavirus testing.
+å‘¨ä¸‰ï¼Œå›½é™…å¥¥å§”ä¼šå‘å¸ƒäº†å³å°†åœ¨åŒ—äº¬ä¸¾è¡Œçš„å†¬å¥¥ä¼šçš„åˆæ­¥å«ç”Ÿæ”¿ç­–. åŒ—äº¬å†¬å¥¥ä¼šå’Œå†¬æ®‹å¥¥ä¼šå°†åœ¨ç»„ç»‡è€…æ‰€è¯´çš„â€œé—­ç¯ç®¡ç†ç³»ç»Ÿâ€ä¸­ä¸¾è¡Œ. æ³¡æ³¡ä¸­çš„äººå°†æ¯æ—¥æ¥å—æ–°å† ç—…æ¯’æ£€æµ‹ã€‚
 
 Anyone, including athletes, **intending to enter this bubble** has two choices: Arrive in China **fully vaccinated** or prepare to spend the first 21 days in Beijing in **solitary quarantine**.
-°üÀ¨ÔË¶¯Ô±ÔÚÄÚ£¬ÈÎºÎÈËÏëÒª½øÈëÕâ¸öÅİÅİ¶¼ÓĞÁ½¸öÑ¡Ôñ:µÖ´ïÖĞ¹úÇ°Íê³ÉÒßÃç½ÓÖÖ£¬»òÕß×¼±¸ºÃÏÈÔÚ±±¾©½øĞĞ21ÌìµÄµ¥¶À¸ôÀë¡£
+åŒ…æ‹¬è¿åŠ¨å‘˜åœ¨å†…ï¼Œä»»ä½•äººæƒ³è¦è¿›å…¥è¿™ä¸ªæ³¡æ³¡éƒ½æœ‰ä¸¤ä¸ªé€‰æ‹©:æŠµè¾¾ä¸­å›½å‰å®Œæˆç–«è‹—æ¥ç§ï¼Œæˆ–è€…å‡†å¤‡å¥½å…ˆåœ¨åŒ—äº¬è¿›è¡Œ21å¤©çš„å•ç‹¬éš”ç¦»ã€‚
 
 And while **spectators** will be allowed to return to **competition venues** after being **largely barred** from the recent Summer Games in Tokyo, entry will be limited to those **residing in** mainland China.
-×î½üµÄ¶«¾©ÏÄ¼¾°ÂÔË»á»ù±¾½ûÖ¹¹ÛÖÚ½øÈë±ÈÈü³¡µØ£¬±±¾©¶¬°Â»áËäÈ»½«ÔÊĞí¹ÛÖÚ½øÈë£¬µ«½öÏŞÓÚ¾Ó×¡ÔÚÖĞ¹ú´óÂ½µÄ¹ÛÖÚ¡£
+æœ€è¿‘çš„ä¸œäº¬å¤å­£å¥¥è¿ä¼šåŸºæœ¬ç¦æ­¢è§‚ä¼—è¿›å…¥æ¯”èµ›åœºåœ°ï¼ŒåŒ—äº¬å†¬å¥¥ä¼šè™½ç„¶å°†å…è®¸è§‚ä¼—è¿›å…¥ï¼Œä½†ä»…é™äºå±…ä½åœ¨ä¸­å›½å¤§é™†çš„è§‚ä¼—ã€‚
 
 The Summer Olympics in Tokyo **featured a far more porous health protocol**. Participants were not required to be vaccinated, nor **sequestered** if they were not, and while they were asked to try to remain **within Games-affiliated venues**, they **were still afforded** plenty of opportunities to interact with the outside world, including **at convenience stores** and local restaurants for **takeout meals**. 
-¶«¾©ÏÄ¼¾°ÂÔË»áµÄ·ÀÒßÕş²ßµÄ¹Ü¿ØÔ¶²»Èç±±¾©ÑÏ¸ñ¡£²ÎÓëÕßÎ´±»ÒªÇó½ÓÖÖÒßÃç£¬Î´½ÓÖÖÒ²²»ĞèÒª¸ôÀë£¬ËäÈ»ËûÃÇ±»ÒªÇó¾¡Á¿ÁôÔÚ°ÂÔË»áÏà¹ØµÄ³¡¹İÄÚ£¬µ«ÈÔÓĞºÜ¶à»ú»áÓëÍâ½ç»¥¶¯£¬°üÀ¨ÔÚ±ãÀûµêºÍµ±µØ²ÍÌüÈ¡ÍâÂô?Îï¡£
+ä¸œäº¬å¤å­£å¥¥è¿ä¼šçš„é˜²ç–«æ”¿ç­–çš„ç®¡æ§è¿œä¸å¦‚åŒ—äº¬ä¸¥æ ¼ã€‚å‚ä¸è€…æœªè¢«è¦æ±‚æ¥ç§ç–«è‹—ï¼Œæœªæ¥ç§ä¹Ÿä¸éœ€è¦éš”ç¦»ï¼Œè™½ç„¶ä»–ä»¬è¢«è¦æ±‚å°½é‡ç•™åœ¨å¥¥è¿ä¼šç›¸å…³çš„åœºé¦†å†…ï¼Œä½†ä»æœ‰å¾ˆå¤šæœºä¼šä¸å¤–ç•Œäº’åŠ¨ï¼ŒåŒ…æ‹¬åœ¨ä¾¿åˆ©åº—å’Œå½“åœ°é¤å…å–å¤–å–?ç‰©ã€‚
 
-There¡¯s very **little insulation** left on **the wiring** in the relationship, and it¡¯s not hard to imagine **getting some crossed wires** and that starting a fire. The Taiwan issue has **ceased to be a sort of narrow, boutique issue**, and it¡¯s become **a central theater** ¡ª if not the **central drama** ¡ª in U.S.-China strategic competition
-ÔÚÖĞÃÀ¹ØÏµÖĞ£¬¾øÔµ±£»¤²ãËùÊ£ÎŞ¼¸£¬Ä³Ğ©µçÏß½»´íµ¼ÖÂÆğ»ğµÄÊÂÇé²¢²»Ò£Ô¶¡£Ì¨ÍåÒÑ²»ÔÙÊÇ¸ö²¨¼°ÃæÏÁÕ­µÄĞ¡ÎÊÌâ£¬ËüÒÑ¾­³ÉÎªÃÀÖĞÕ½ÂÔ¾ºÕùµÄÖĞĞÄÎèÌ¨¡ª¡ªÉõÖÁ¿ÉÒÔËµÊÇÖ÷Ïß¾çÇé
+Thereâ€™s very **little insulation** left on **the wiring** in the relationship, and itâ€™s not hard to imagine **getting some crossed wires** and that starting a fire. The Taiwan issue has **ceased to be a sort of narrow, boutique issue**, and itâ€™s become **a central theater** â€” if not the **central drama** â€” in U.S.-China strategic competition
+åœ¨ä¸­ç¾å…³ç³»ä¸­ï¼Œç»ç¼˜ä¿æŠ¤å±‚æ‰€å‰©æ— å‡ ï¼ŒæŸäº›ç”µçº¿äº¤é”™å¯¼è‡´èµ·ç«çš„äº‹æƒ…å¹¶ä¸é¥è¿œã€‚å°æ¹¾å·²ä¸å†æ˜¯ä¸ªæ³¢åŠé¢ç‹­çª„çš„å°é—®é¢˜ï¼Œå®ƒå·²ç»æˆä¸ºç¾ä¸­æˆ˜ç•¥ç«äº‰çš„ä¸­å¿ƒèˆå°â€”â€”ç”šè‡³å¯ä»¥è¯´æ˜¯ä¸»çº¿å‰§æƒ…
 
 All three have **sought to show resolve** in hopes of **averting war**, only to **provoke countermoves** that **compound distrust** and increase the risk of **miscalculation**.
-Èı·½¶¼ÊÔÍ¼±íÏÖ³öÏ£Íû±ÜÃâÕ½ÕùµÄ¾öĞÄ£¬È´ÖÆÔìÁË·´Ğ§¹û£¬Õâ¼ÓÉîÁË²»ĞÅÈÎ£¬Ò²Ôö¼ÓÁËÎóÅĞµÄ·çÏÕ¡£
+ä¸‰æ–¹éƒ½è¯•å›¾è¡¨ç°å‡ºå¸Œæœ›é¿å…æˆ˜äº‰çš„å†³å¿ƒï¼Œå´åˆ¶é€ äº†åæ•ˆæœï¼Œè¿™åŠ æ·±äº†ä¸ä¿¡ä»»ï¼Œä¹Ÿå¢åŠ äº†è¯¯åˆ¤çš„é£é™©ã€‚
 
 Taiwan independence was a **grave lurking threat to national rejuvenation**. Nobody should **underestimate the staunch determination, firm will** and powerful ability of the Chinese people to **defend national sovereignty and territorial integrity**.
-Ì¨¶ÀÊÇ¡°Ãñ×å¸´ĞËµÄÑÏÖØÒş»¼¡±¡£ÈÎºÎÈË¶¼²»ÒªµÍ¹ÀÖĞ¹úÈËÃñº´ÎÀ¹ú¼ÒÖ÷È¨ºÍÁìÍÁÍêÕûµÄ¼áÇ¿¾öĞÄ¡¢¼á¶¨ÒâÖ¾¡¢Ç¿´óÄÜÁ¦
+å°ç‹¬æ˜¯â€œæ°‘æ—å¤å…´çš„ä¸¥é‡éšæ‚£â€ã€‚ä»»ä½•äººéƒ½ä¸è¦ä½ä¼°ä¸­å›½äººæ°‘æå«å›½å®¶ä¸»æƒå’Œé¢†åœŸå®Œæ•´çš„åšå¼ºå†³å¿ƒã€åšå®šæ„å¿—ã€å¼ºå¤§èƒ½åŠ›
 
 Few believe a war is **imminent or foreordained, in part because** the economic and diplomatic **aftershocks would be staggering** for China.
-ºÜÉÙÓĞÈËÏàĞÅÕ½Õù¼´½«µ½À´»ò×¢¶¨±¬·¢£¬²¿·ÖÔ­ÒòÊÇ¶ÔÖĞ¹ú¶øÑÔ£¬Õ½ÕùËù´øÀ´µÄ¾­¼ÃºÍÍâ½»´ò»÷½«ÎŞ±È¾Ş´ó¡£
+å¾ˆå°‘æœ‰äººç›¸ä¿¡æˆ˜äº‰å³å°†åˆ°æ¥æˆ–æ³¨å®šçˆ†å‘ï¼Œéƒ¨åˆ†åŸå› æ˜¯å¯¹ä¸­å›½è€Œè¨€ï¼Œæˆ˜äº‰æ‰€å¸¦æ¥çš„ç»æµå’Œå¤–äº¤æ‰“å‡»å°†æ— æ¯”å·¨å¤§ã€‚
 
 **Some individuals still try to completely deny** the War of Resistance against the United States and Aid Korea, **question the justice** of sending troops, and try to **erase** the great victory, No matter how they **distort, obliterate, falsify, tease and denigrate the facts**, history is written in the hearts of the people.
-ÈÔÓĞ¸ö±ğÈËÊÔÍ¼È«ÅÌ·ñ¶¨¿¹ÃÀÔ®³¯Õ½Õù£¬ÖÊÒÉ³ö±øÕıÒåĞÔ£¬ÊÔÍ¼Ä¨É±Î°´óÊ¤Àû£¬ÎŞÂÛËûÃÇ¶ÔÊÂÊµÈçºÎÍáÇú¡¢Í¿Ä¨¡¢´Û¸Ä¡¢Ï·ÚÊ¡¢Ú®»Ù£¬ÀúÊ·Ğ´ÔÚÈËÃñĞÄÖĞ¡£
+ä»æœ‰ä¸ªåˆ«äººè¯•å›¾å…¨ç›˜å¦å®šæŠ—ç¾æ´æœæˆ˜äº‰ï¼Œè´¨ç–‘å‡ºå…µæ­£ä¹‰æ€§ï¼Œè¯•å›¾æŠ¹æ€ä¼Ÿå¤§èƒœåˆ©ï¼Œæ— è®ºä»–ä»¬å¯¹äº‹å®å¦‚ä½•æ­ªæ›²ã€æ¶‚æŠ¹ã€ç¯¡æ”¹ã€æˆè°‘ã€è¯‹æ¯ï¼Œå†å²å†™åœ¨äººæ°‘å¿ƒä¸­ã€‚
 
-The film has **smashed records** since opening on Sept. 30, **on the eve of** China¡¯s National Day. In its first week, it has already **grossed $552 million**, according to Maoyan, the ticketing service, already making it **the eighth-most-successful film** in China¡¯s history.
-×Ô9ÔÂ30ÈÕ¹úÇìÇ°Ï¦ÉÏÓ³ÒÔÀ´£¬¡¶³¤½òºş¡·´òÆÆ¶àÏî¼ÍÂ¼¡£¸ù¾İÃ¨ÑÛÆ±ÎñµÄÊı¾İ£¬¸ÃÆ¬ÔÚÉÏÓ³µÚÒ»ÖÜ¾Í»ñµÃÁË15.27ÒÚÔªµÄÆ±·¿£¬Ä¿Ç°ÒÑÊÇÖĞ¹úµçÓ°Ê·ÉÏÆ±·¿ÅÅÃûµÚ°ËµÄ×÷Æ·¡£
+The film has **smashed records** since opening on Sept. 30, **on the eve of** Chinaâ€™s National Day. In its first week, it has already **grossed $552 million**, according to Maoyan, the ticketing service, already making it **the eighth-most-successful film** in Chinaâ€™s history.
+è‡ª9æœˆ30æ—¥å›½åº†å‰å¤•ä¸Šæ˜ ä»¥æ¥ï¼Œã€Šé•¿æ´¥æ¹–ã€‹æ‰“ç ´å¤šé¡¹çºªå½•ã€‚æ ¹æ®çŒ«çœ¼ç¥¨åŠ¡çš„æ•°æ®ï¼Œè¯¥ç‰‡åœ¨ä¸Šæ˜ ç¬¬ä¸€å‘¨å°±è·å¾—äº†15.27äº¿å…ƒçš„ç¥¨æˆ¿ï¼Œç›®å‰å·²æ˜¯ä¸­å›½ç”µå½±å²ä¸Šç¥¨æˆ¿æ’åç¬¬å…«çš„ä½œå“ã€‚
 
-A decade ago, the Chinese government **systematically dismantled** the C.I.A.¡¯s spying operation in the country, with **informants captured** or killed. Some former officials have **blamed a breach** of the agency¡¯s **classified communications system**, while others have blamed a former C.I.A. officer **later convicted** of giving secrets to China. Since then, the agency has tried to rebuild its networks, but the Chinese government¡¯s power to track the movements and communications of people has **slowed the effort**.
-Ê®ÄêÇ°£¬ÖĞ¹úÕş¸®ÏµÍ³Íß½âÁËÖĞÇé¾ÖÔÚ¸Ã¹úµÄ¼äµı»î¶¯£¬ÏßÈË»ò±»²¶»òÔâ´¦¾ö¡£Ò»Ğ©Ç°¹ÙÔ±ÈÏÎªÕâÊÇÓÉÓÚÖĞÇé¾ÖµÄ»úÃÜÍ¨Ñ¶ÏµÍ³Ôâµ½ÆÆ»µ£¬ÁíÒ»Ğ©ÈËÔò¹Ö×ïµ½Ò»ÃûÇ°ÖĞÇé¾Ö¹ÙÔ±ÉíÉÏ£¬´ËÈËºóÀ´ÒòÏòÖĞ¹úÌá¹©»úÃÜÇé±¨¶ø±»¶¨×ï¡£´Ëºó£¬ÖĞÇé¾ÖÒ»Ö±ÊÔÍ¼ÖØ½¨¼äµıÍøÂç£¬µ«ÖĞ¹úÕş¸®×·×ÙÏà¹ØĞĞ¶¯ºÍÍ¨ĞÅµÄÄÜÁ¦×è°­ÁËÕâÏî¹¤×÷È¡µÃ½øÕ¹¡£
+A decade ago, the Chinese government **systematically dismantled** the C.I.A.â€™s spying operation in the country, with **informants captured** or killed. Some former officials have **blamed a breach** of the agencyâ€™s **classified communications system**, while others have blamed a former C.I.A. officer **later convicted** of giving secrets to China. Since then, the agency has tried to rebuild its networks, but the Chinese governmentâ€™s power to track the movements and communications of people has **slowed the effort**.
+åå¹´å‰ï¼Œä¸­å›½æ”¿åºœç³»ç»Ÿç“¦è§£äº†ä¸­æƒ…å±€åœ¨è¯¥å›½çš„é—´è°æ´»åŠ¨ï¼Œçº¿äººæˆ–è¢«æ•æˆ–é­å¤„å†³ã€‚ä¸€äº›å‰å®˜å‘˜è®¤ä¸ºè¿™æ˜¯ç”±äºä¸­æƒ…å±€çš„æœºå¯†é€šè®¯ç³»ç»Ÿé­åˆ°ç ´åï¼Œå¦ä¸€äº›äººåˆ™æ€ªç½ªåˆ°ä¸€åå‰ä¸­æƒ…å±€å®˜å‘˜èº«ä¸Šï¼Œæ­¤äººåæ¥å› å‘ä¸­å›½æä¾›æœºå¯†æƒ…æŠ¥è€Œè¢«å®šç½ªã€‚æ­¤åï¼Œä¸­æƒ…å±€ä¸€ç›´è¯•å›¾é‡å»ºé—´è°ç½‘ç»œï¼Œä½†ä¸­å›½æ”¿åºœè¿½è¸ªç›¸å…³è¡ŒåŠ¨å’Œé€šä¿¡çš„èƒ½åŠ›é˜»ç¢äº†è¿™é¡¹å·¥ä½œå–å¾—è¿›å±•ã€‚
 
 **In the jargon** of the C.I.A., **tradecraft** is the skills spies use to **evade adversarial operatives**, find new sources and communicate with them **securely**. Technological advances by countries like China have **forced the agency to** update and improve their tradecraft. 
-ÓÃÖĞÇé¾ÖµÄĞĞ»°À´Ëµ£¬µı±¨¼¼Êõ¾ÍÊÇ¼äµıÓÃÀ´¶ã±ÜµĞ·½ÌØ¹¤¡¢Ñ°ÕÒĞÂÇé±¨À´Ô´£¬²¢ÓëÖ®½øĞĞ°²È«Í¨Ñ¶µÄ¼¼ÄÜ¡£ÖĞ¹úµÈ¹ú¼ÒµÄ¼¼Êõ½ø²½ÆÈÊ¹ÖĞÇé¾Ö²»µÃ²»¸üĞÂºÍ¸Ä½øµı±¨¼¼Êõ¡£
+ç”¨ä¸­æƒ…å±€çš„è¡Œè¯æ¥è¯´ï¼Œè°æŠ¥æŠ€æœ¯å°±æ˜¯é—´è°ç”¨æ¥èº²é¿æ•Œæ–¹ç‰¹å·¥ã€å¯»æ‰¾æ–°æƒ…æŠ¥æ¥æºï¼Œå¹¶ä¸ä¹‹è¿›è¡Œå®‰å…¨é€šè®¯çš„æŠ€èƒ½ã€‚ä¸­å›½ç­‰å›½å®¶çš„æŠ€æœ¯è¿›æ­¥è¿«ä½¿ä¸­æƒ…å±€ä¸å¾—ä¸æ›´æ–°å’Œæ”¹è¿›è°æŠ¥æŠ€æœ¯ã€‚
 
-The appointment in 2017 of Mr. D¡¯Andrea, who had **a long career leading operations** against Al Qaeda and other terrorist targets, was **a sign of** the Trump administration¡¯s **hard line on Iran**. And inside the C.I.A., Mr. D¡¯Andrea **helped craft a more muscular approach** against Tehran.
-µ¤µÂÁÒÑÇÔø³¤ÆÚÁìµ¼´ò»÷»ùµØ×éÖ¯(Al Qaeda)ºÍÆäËû¿Ö²ÀÖ÷ÒåÄ¿±êµÄĞĞ¶¯£¬ËûÔÚ2017ÄêµÄÈÎÃü±íÃ÷ÁËÌØÀÊÆÕÕş¸®¶ÔÒÁÀÊµÄÇ¿Ó²Á¢³¡¡£¶øÔÚÖĞÇé¾ÖÄÚ²¿£¬µ¤µÂÁÒÑÇ°ïÖúÖÆ¶¨ÁË¶Ô¿¹µÂºÚÀ¼µÄ¸üÇ¿Ó²ÊÖ¶Î¡£
+The appointment in 2017 of Mr. Dâ€™Andrea, who had **a long career leading operations** against Al Qaeda and other terrorist targets, was **a sign of** the Trump administrationâ€™s **hard line on Iran**. And inside the C.I.A., Mr. Dâ€™Andrea **helped craft a more muscular approach** against Tehran.
+ä¸¹å¾·çƒˆäºšæ›¾é•¿æœŸé¢†å¯¼æ‰“å‡»åŸºåœ°ç»„ç»‡(Al Qaeda)å’Œå…¶ä»–ææ€–ä¸»ä¹‰ç›®æ ‡çš„è¡ŒåŠ¨ï¼Œä»–åœ¨2017å¹´çš„ä»»å‘½è¡¨æ˜äº†ç‰¹æœ—æ™®æ”¿åºœå¯¹ä¼Šæœ—çš„å¼ºç¡¬ç«‹åœºã€‚è€Œåœ¨ä¸­æƒ…å±€å†…éƒ¨ï¼Œä¸¹å¾·çƒˆäºšå¸®åŠ©åˆ¶å®šäº†å¯¹æŠ—å¾·é»‘å…°çš„æ›´å¼ºç¡¬æ‰‹æ®µã€‚
 
-**Throughout his time** in the agency, Mr. D¡¯Andrea **worked undercover**, even as he took senior leadership roles, and the agency would not **publicly acknowledge** or discuss his role. But with his retirement, his work can ever so **slightly emerge from the shadows**. Mr. Burns said Thursday that Mr. D¡¯Andrea had had **a ¡°remarkable impact**.¡±
-µ¤µÂÁÒÑÇÔÚÖĞÇé¾ÖÒ»Ö±´ÓÊÂÎÔµ×¹¤×÷£¬¼´Ê¹µ£ÈÎ¸ß¼¶Áìµ¼Ö°Îñºó£¬ÖĞÇé¾ÖÒ²Ã»ÓĞ¹«¿ª³ĞÈÏ»òÌÖÂÛ¹ıËûµÄ½ÇÉ«¡£µ«ÔÚÍËĞİÖ®ºó£¬ËûËù×öµÄ¹¤×÷Ò²¿ÉÒÔÂ¶³ö±ùÉ½Ò»½Ç¡£²®¶÷Ë¹ÖÜËÄ±íÊ¾£¬µ¤µÂÁÒÑÇ·¢»ÓÁË¡°ÖØÒªµÄ×÷ÓÃ¡±¡£
+**Throughout his time** in the agency, Mr. Dâ€™Andrea **worked undercover**, even as he took senior leadership roles, and the agency would not **publicly acknowledge** or discuss his role. But with his retirement, his work can ever so **slightly emerge from the shadows**. Mr. Burns said Thursday that Mr. Dâ€™Andrea had had **a â€œremarkable impact**.â€
+ä¸¹å¾·çƒˆäºšåœ¨ä¸­æƒ…å±€ä¸€ç›´ä»äº‹å§åº•å·¥ä½œï¼Œå³ä½¿æ‹…ä»»é«˜çº§é¢†å¯¼èŒåŠ¡åï¼Œä¸­æƒ…å±€ä¹Ÿæ²¡æœ‰å…¬å¼€æ‰¿è®¤æˆ–è®¨è®ºè¿‡ä»–çš„è§’è‰²ã€‚ä½†åœ¨é€€ä¼‘ä¹‹åï¼Œä»–æ‰€åšçš„å·¥ä½œä¹Ÿå¯ä»¥éœ²å‡ºå†°å±±ä¸€è§’ã€‚ä¼¯æ©æ–¯å‘¨å››è¡¨ç¤ºï¼Œä¸¹å¾·çƒˆäºšå‘æŒ¥äº†â€œé‡è¦çš„ä½œç”¨â€ã€‚
 
-Access to senior policymakers doesn¡¯t **work its magic as much as before**, either. Stephen Schwarzman, head of the **private equity** giant Blackstone, has **long cultivated relationships** with the Chinese leadership. He is tight with Liu He, the country¡¯s **economic czar**.
-Óë¸ß²ã¾ö²ßÕßµÄ½Ó´¥²»ÔÙÏñÒÔÇ°ÄÇÃ´ÓĞÓÃÁË¡£Ë½Ä¼¹ÉÈ¨¾ŞÍ·ºÚÊ¯¼¯ÍÅ¸ºÔğÈËËÕÊÀÃñ¶àÄêÀ´Ò»Ö±ÔÚÅàÑøÓëÁìµ¼²ãµÄ¹ØÏµ¡£ËûÓë¡°¾­¼ÃÉ³»Ê¡±Áõº×ÍùÀ´ÃÜÇĞ¡£
+Access to senior policymakers doesnâ€™t **work its magic as much as before**, either. Stephen Schwarzman, head of the **private equity** giant Blackstone, has **long cultivated relationships** with the Chinese leadership. He is tight with Liu He, the countryâ€™s **economic czar**.
+ä¸é«˜å±‚å†³ç­–è€…çš„æ¥è§¦ä¸å†åƒä»¥å‰é‚£ä¹ˆæœ‰ç”¨äº†ã€‚ç§å‹Ÿè‚¡æƒå·¨å¤´é»‘çŸ³é›†å›¢è´Ÿè´£äººè‹ä¸–æ°‘å¤šå¹´æ¥ä¸€ç›´åœ¨åŸ¹å…»ä¸é¢†å¯¼å±‚çš„å…³ç³»ã€‚ä»–ä¸â€œç»æµæ²™çš‡â€åˆ˜é¹¤å¾€æ¥å¯†åˆ‡ã€‚
 
-The Wall Street firms are **apparently betting** that China¡¯s past successes will continue. They have **a long track record on their side**, but they would **do well to** remember what they constantly tell their customers: Past performance isn¡¯t **necessarily indicative** of future results.
-»ª¶û½ÖµÄÆóÒµÏÔÈ»ÔÚÑº×¢ÖĞ¹úÄÜ¹»ÑÓĞø¹ıÍùµÄ³É¹¦¡£³¤¾ÃÒÔÀ´µÄ³É¾ÍÖ§³ÖÁËËûÃÇµÄÁ¢³¡£¬µ«×îºÃ±ğÍüÁËËûÃÇÒ»Ö±¸æ½ë¿Í»§µÄ»°£º¹ıÈ¥µÄÒµ¼¨²¢²»Ò»¶¨ÄÜÔ¤Ê¾Î´À´µÄ½á¹û¡£
+The Wall Street firms are **apparently betting** that Chinaâ€™s past successes will continue. They have **a long track record on their side**, but they would **do well to** remember what they constantly tell their customers: Past performance isnâ€™t **necessarily indicative** of future results.
+åå°”è¡—çš„ä¼ä¸šæ˜¾ç„¶åœ¨æŠ¼æ³¨ä¸­å›½èƒ½å¤Ÿå»¶ç»­è¿‡å¾€çš„æˆåŠŸã€‚é•¿ä¹…ä»¥æ¥çš„æˆå°±æ”¯æŒäº†ä»–ä»¬çš„ç«‹åœºï¼Œä½†æœ€å¥½åˆ«å¿˜äº†ä»–ä»¬ä¸€ç›´å‘Šè¯«å®¢æˆ·çš„è¯ï¼šè¿‡å»çš„ä¸šç»©å¹¶ä¸ä¸€å®šèƒ½é¢„ç¤ºæœªæ¥çš„ç»“æœã€‚
 
-China is **reshaping how business works** and limiting executives¡¯ power. **Long in coming, but rapid in execution**, the policies are **driven by a desire** for state control and **self-reliance** as well as concerns about debt, **inequality** and influence by foreign countries, including the United States.
-ÖĞ¹úÕıÔÚÖØËÜÆóÒµÔË×÷·½Ê½£¬ÏŞÖÆ¸ß¹ÜÈ¨Á¦¡£ÕâĞ©Õş²ßÔÍÄğÒÑ¾Ã£¬µ«Ö´ĞĞÑ¸ËÙ£¬ÆäÇı¶¯ÒòËØÕıÊÇ¶Ô¿ØÖÆ¹ú¼ÒºÍ×ÔÁ¦¸üÉúµÄ¿ÊÍû£¬ÒÔ¼°¶ÔÕ®Îñ¡¢²»Æ½µÈºÍ°üÀ¨ÃÀ¹úÔÚÄÚµÄÍâ¹úÓ°ÏìµÄµ£ÓÇ¡£
+China is **reshaping how business works** and limiting executivesâ€™ power. **Long in coming, but rapid in execution**, the policies are **driven by a desire** for state control and **self-reliance** as well as concerns about debt, **inequality** and influence by foreign countries, including the United States.
+ä¸­å›½æ­£åœ¨é‡å¡‘ä¼ä¸šè¿ä½œæ–¹å¼ï¼Œé™åˆ¶é«˜ç®¡æƒåŠ›ã€‚è¿™äº›æ”¿ç­–é…é…¿å·²ä¹…ï¼Œä½†æ‰§è¡Œè¿…é€Ÿï¼Œå…¶é©±åŠ¨å› ç´ æ­£æ˜¯å¯¹æ§åˆ¶å›½å®¶å’Œè‡ªåŠ›æ›´ç”Ÿçš„æ¸´æœ›ï¼Œä»¥åŠå¯¹å€ºåŠ¡ã€ä¸å¹³ç­‰å’ŒåŒ…æ‹¬ç¾å›½åœ¨å†…çš„å¤–å›½å½±å“çš„æ‹…å¿§ã€‚
 
-At China¡¯s annual World Internet Conference last week, an official **signaled that** efforts to **rein in** internet giants were not over, warning against the ¡°**disorderly expansion of capital**.¡± Once **a showcase for the might** of China¡¯s entrepreneurs, this year¡¯s conference became a platform for **pledging fealty to state efforts to spread the wealth**.
-ÉÏÖÜÔÚÖĞ¹ú¾ÙĞĞµÄÄê¶ÈÊÀ½ç»¥ÁªÍø´ó»áÉÏ£¬Ò»Î»¹ÙÔ±±íÊ¾£¬¶Ô»¥ÁªÍø¾ŞÍ·µÄ¹ÜÖÆ»¹Ã»ÓĞ½áÊø£¬Òª¾¯Ìè¡°×Ê±¾ÎŞĞòÀ©ÕÅ¡±¡£ÕâÀïÔøÊÇÕ¹Ê¾ÖĞ¹úÆóÒµ¼ÒÇ¿´óÊµÁ¦µÄÎèÌ¨£¬½ñÄêÈ´³ÉÁËÖ§³Ö¹ú¼Ò²Æ¸»·ÖÅä¾Ù´ëµÄÊÄÊ¦´ó»á¡£
+At Chinaâ€™s annual World Internet Conference last week, an official **signaled that** efforts to **rein in** internet giants were not over, warning against the â€œ**disorderly expansion of capital**.â€ Once **a showcase for the might** of Chinaâ€™s entrepreneurs, this yearâ€™s conference became a platform for **pledging fealty to state efforts to spread the wealth**.
+ä¸Šå‘¨åœ¨ä¸­å›½ä¸¾è¡Œçš„å¹´åº¦ä¸–ç•Œäº’è”ç½‘å¤§ä¼šä¸Šï¼Œä¸€ä½å®˜å‘˜è¡¨ç¤ºï¼Œå¯¹äº’è”ç½‘å·¨å¤´çš„ç®¡åˆ¶è¿˜æ²¡æœ‰ç»“æŸï¼Œè¦è­¦æƒ•â€œèµ„æœ¬æ— åºæ‰©å¼ â€ã€‚è¿™é‡Œæ›¾æ˜¯å±•ç¤ºä¸­å›½ä¼ä¸šå®¶å¼ºå¤§å®åŠ›çš„èˆå°ï¼Œä»Šå¹´å´æˆäº†æ”¯æŒå›½å®¶è´¢å¯Œåˆ†é…ä¸¾æªçš„èª“å¸ˆå¤§ä¼šã€‚
 
-Alibaba¡¯s chief executive, Daniel Zhang, **hailed his firm¡¯s new $15.5 billion plan** to help small business and **underdeveloped regions**, invoking **the aphorism ¡°If you teach a man to fish you feed him for a lifetime.¡±**
-°¢Àï°Í°ÍÊ×Ï¯Ö´ĞĞ¹ÙÕÅÓÂ³ÆÔŞÁË¸Ã¹«Ë¾Ö¼ÔÚ°ïÖúĞ¡ÆóÒµºÍÇ··¢´ïµØÇøµÄ¼ÛÖµ155ÒÚÃÀÔª¶ÔĞÂ¼Æ»®£¬²¢ÒıÓÃÁËÒ»¾ä¸ñÑÔ£º¡°ÊÚÈËÒÔÓã£¬²»ÈçÊÚÈËÒÔÓæ¡£¡±
+Alibabaâ€™s chief executive, Daniel Zhang, **hailed his firmâ€™s new $15.5 billion plan** to help small business and **underdeveloped regions**, invoking **the aphorism â€œIf you teach a man to fish you feed him for a lifetime.â€**
+é˜¿é‡Œå·´å·´é¦–å¸­æ‰§è¡Œå®˜å¼ å‹‡ç§°èµäº†è¯¥å…¬å¸æ—¨åœ¨å¸®åŠ©å°ä¼ä¸šå’Œæ¬ å‘è¾¾åœ°åŒºçš„ä»·å€¼155äº¿ç¾å…ƒå¯¹æ–°è®¡åˆ’ï¼Œå¹¶å¼•ç”¨äº†ä¸€å¥æ ¼è¨€ï¼šâ€œæˆäººä»¥é±¼ï¼Œä¸å¦‚æˆäººä»¥æ¸”ã€‚â€
 
 Companies **focused on the consumer internet** have lost the protections they once enjoyed. Instead, the government is focused on **a push for** national self-reliance, **countenancing big bets on bleeding-edge** technology, **partly in response to** United States policies that **cut off access to** key components like microchips. Officials have **heavily subsidized** manufacturers of semiconductors, commercial aircraft, electric cars and other products.
-×¨×¢ÓÚÏû·ÑÕß»¥ÁªÍøµÄ¹«Ë¾Ê§È¥ÁËËüÃÇÔø¾­ÏíÓĞµÄ±£»¤¡£Õş¸®×ª¶ø×¨×¢ÓÚÍÆ¶¯¹ú¼Ò×ÔÁ¦¸üÉú£¬Ö§³ÖÔÚ¼â¶Ë¼¼ÊõÉÏµÄ´ó±ÊÍ¶Èë£¬²¿·ÖÊÇÎªÁË»ØÓ¦ÃÀ¹úÇĞ¶ÏÎ¢Ğ¾Æ¬µÈ¹Ø¼ü²¿¼ş¹©Ó¦µÄÕş²ß¡£Õş¸®¶Ô°ëµ¼Ìå¡¢ÉÌÓÃ·É»ú¡¢µç¶¯Æû³µºÍÆäËû²úÆ·µÄÖÆÔìÉÌ¸øÓèÁË´óÁ¿²¹Ìù¡£
+ä¸“æ³¨äºæ¶ˆè´¹è€…äº’è”ç½‘çš„å…¬å¸å¤±å»äº†å®ƒä»¬æ›¾ç»äº«æœ‰çš„ä¿æŠ¤ã€‚æ”¿åºœè½¬è€Œä¸“æ³¨äºæ¨åŠ¨å›½å®¶è‡ªåŠ›æ›´ç”Ÿï¼Œæ”¯æŒåœ¨å°–ç«¯æŠ€æœ¯ä¸Šçš„å¤§ç¬”æŠ•å…¥ï¼Œéƒ¨åˆ†æ˜¯ä¸ºäº†å›åº”ç¾å›½åˆ‡æ–­å¾®èŠ¯ç‰‡ç­‰å…³é”®éƒ¨ä»¶ä¾›åº”çš„æ”¿ç­–ã€‚æ”¿åºœå¯¹åŠå¯¼ä½“ã€å•†ç”¨é£æœºã€ç”µåŠ¨æ±½è½¦å’Œå…¶ä»–äº§å“çš„åˆ¶é€ å•†ç»™äºˆäº†å¤§é‡è¡¥è´´ã€‚
 
 It was **a stark reminder** that they are not like you. There are **hierarchies** in Chinese society, and different treatment **comes with it**, Still, **part of me wonders for** how long. 
-ÕâÊÇÒ»¸öÏÊÃ÷µÄÌáĞÑ£¬ËûÃÇºÍÄã²»Ò»Ñù¡£ÖĞ¹úÉç»áÓĞµÈ¼¶ÖÆ¶È£¬²»Í¬µÄ´ıÓöÒ²ËæÖ®¶øÀ´£¬²»¹ı£¬ÎÒ»¹ÊÇÓĞµãÏëÖªµÀÕâÄÜ³ÖĞø¶à¾Ã¡£
+è¿™æ˜¯ä¸€ä¸ªé²œæ˜çš„æé†’ï¼Œä»–ä»¬å’Œä½ ä¸ä¸€æ ·ã€‚ä¸­å›½ç¤¾ä¼šæœ‰ç­‰çº§åˆ¶åº¦ï¼Œä¸åŒçš„å¾…é‡ä¹Ÿéšä¹‹è€Œæ¥ï¼Œä¸è¿‡ï¼Œæˆ‘è¿˜æ˜¯æœ‰ç‚¹æƒ³çŸ¥é“è¿™èƒ½æŒç»­å¤šä¹…ã€‚
 
 On the **northern edge** of a vast Chinese factory city, **welding torches gleam** as workers finish construction on a **gas-fired power plant** to replace one that burned coal and **blanketed the surrounding neighborhood in a sooty pall**.
-ÔÚÖĞ¹úÕâ×ù¾Ş´óµÄ¹¤³§Ö®³ÇµÄ±±½¼£¬ÉÁË¸×Åµçº¸µÄ»ğ¹â£¬¹¤ÈËÃÇÕıÔÚÍê³ÉÒ»¸öÈ¼Æø·¢µç³§µÄ½¨Éè¹¤×÷£¬ĞÂµç³§½«È¡´úÁîÖÜÔâÁıÕÖÔÚÑÌ³¾ÏÂµÄÈ¼Ãºµç³§¡£
+åœ¨ä¸­å›½è¿™åº§å·¨å¤§çš„å·¥å‚ä¹‹åŸçš„åŒ—éƒŠï¼Œé—ªçƒç€ç”µç„Šçš„ç«å…‰ï¼Œå·¥äººä»¬æ­£åœ¨å®Œæˆä¸€ä¸ªç‡ƒæ°”å‘ç”µå‚çš„å»ºè®¾å·¥ä½œï¼Œæ–°ç”µå‚å°†å–ä»£ä»¤å‘¨é­ç¬¼ç½©åœ¨çƒŸå°˜ä¸‹çš„ç‡ƒç…¤ç”µå‚ã€‚
 
-This **archipelago** of power plants **underlines an unsettling reality** in the global fight to slow climate change. China burns more fossil fuels than any other nation, making it the planet¡¯s top source of the **greenhouse gases** that are warming the Earth. And its **voracious appetite** for electricity is only growing.
-ÕâĞ©ÕıÔÚ½¨ÉèµÄ·¢µç³§Í¹ÏÔÁËÈ«Çò¼õ»ºÆøºò±ä»¯Å¬Á¦µÄÒ»¸öÁîÈË²»°²µÄÏÖÊµ¡£ÖĞ¹úµÄ»¯Ê¯È¼ÁÏÏûºÄ±ÈÊÀ½çÉÏÆäËû¹ú¼Ò¶¼Òª¶à£¬Ê¹Æä³ÉÎªÈ«Çò×î´óµÄÎÂÊÒÆøÌåÅÅ·Å¹ú£¬ÎÂÊÒÆøÌåÅÅ·ÅÊÇµØÇò±äÅ¯µÄÔ­Òò¡£¶øÇÒ£¬ÖĞ¹ú¶ÔµçÁ¦µÄÇ¿ÁÒÎ¸¿ÚÈÔÔÚ±ä´ó¡£
+This **archipelago** of power plants **underlines an unsettling reality** in the global fight to slow climate change. China burns more fossil fuels than any other nation, making it the planetâ€™s top source of the **greenhouse gases** that are warming the Earth. And its **voracious appetite** for electricity is only growing.
+è¿™äº›æ­£åœ¨å»ºè®¾çš„å‘ç”µå‚å‡¸æ˜¾äº†å…¨çƒå‡ç¼“æ°”å€™å˜åŒ–åŠªåŠ›çš„ä¸€ä¸ªä»¤äººä¸å®‰çš„ç°å®ã€‚ä¸­å›½çš„åŒ–çŸ³ç‡ƒæ–™æ¶ˆè€—æ¯”ä¸–ç•Œä¸Šå…¶ä»–å›½å®¶éƒ½è¦å¤šï¼Œä½¿å…¶æˆä¸ºå…¨çƒæœ€å¤§çš„æ¸©å®¤æ°”ä½“æ’æ”¾å›½ï¼Œæ¸©å®¤æ°”ä½“æ’æ”¾æ˜¯åœ°çƒå˜æš–çš„åŸå› ã€‚è€Œä¸”ï¼Œä¸­å›½å¯¹ç”µåŠ›çš„å¼ºçƒˆèƒƒå£ä»åœ¨å˜å¤§ã€‚
 
-Just weeks before a critical United Nations **climate summit** in Glasgow, attention **is riveted** on China and whether it will do more to cut emissions. The world¡¯s top energy agency said last week that China ¡°**has the means and capacity**¡± to reduce its pollution. 
-¼¸ÖÜºó£¬ÁªºÏ¹ú½«ÔÚ¸ñÀ­Ë¹¸çÕÙ¿ªÖØÒªµÄÆøºò·å»á£¬ÈËÃÇÄ¿Ç°µÄ×¢ÒâÁ¦¶¼¼¯ÖĞÔÚÖĞ¹ú£¬ÒÔ¼°ËüÊÇ·ñ»á²ÉÈ¡¸ü¶à¼õÅÅ´ëÊ©ÉÏ¡£ÊÀ½ç×î¸ßÄÜÔ´»ú¹¹ÉÏÖÜ±íÊ¾£¬ÖĞ¹ú¡°ÓĞ(¼õÉÙÎÛÈ¾)µÄÍ¾¾¶ºÍÄÜÁ¦¡±
+Just weeks before a critical United Nations **climate summit** in Glasgow, attention **is riveted** on China and whether it will do more to cut emissions. The worldâ€™s top energy agency said last week that China â€œ**has the means and capacity**â€ to reduce its pollution. 
+å‡ å‘¨åï¼Œè”åˆå›½å°†åœ¨æ ¼æ‹‰æ–¯å“¥å¬å¼€é‡è¦çš„æ°”å€™å³°ä¼šï¼Œäººä»¬ç›®å‰çš„æ³¨æ„åŠ›éƒ½é›†ä¸­åœ¨ä¸­å›½ï¼Œä»¥åŠå®ƒæ˜¯å¦ä¼šé‡‡å–æ›´å¤šå‡æ’æªæ–½ä¸Šã€‚ä¸–ç•Œæœ€é«˜èƒ½æºæœºæ„ä¸Šå‘¨è¡¨ç¤ºï¼Œä¸­å›½â€œæœ‰(å‡å°‘æ±¡æŸ“)çš„é€”å¾„å’Œèƒ½åŠ›â€
 
 China has taken some important steps this year to begin to **curb its use** of coal, the **dirtiest** of fossil fuels. Some provinces, like **coastal** Shandong, **mandated over** the summer that some of their oldest, **least efficient** coal-fired plants be closed.
-ÖĞ¹ú½ñÄêÒÑ²ÉÈ¡ÁËÒ»Ğ©ÖØÒª´ëÊ©£¬¿ªÊ¼ÏŞÖÆÃºÌ¿Ê¹ÓÃ£¬ÕâÊÇÒ»ÖÖ×îÔàµÄ»¯Ê¯È¼ÁÏ¡£Ò»Ğ©Ê¡·İ(±ÈÈçÑØº£µÄÉ½¶«)ÒÑÔÚ½ñÄêÏÄÌìÏÂÁî¹ØÍ£ÁËÊ¡ÄÚ×îÀÏ¡¢Ğ§ÂÊ×îµÍµÄÈ¼Ãºµç³§¡£
+ä¸­å›½ä»Šå¹´å·²é‡‡å–äº†ä¸€äº›é‡è¦æªæ–½ï¼Œå¼€å§‹é™åˆ¶ç…¤ç‚­ä½¿ç”¨ï¼Œè¿™æ˜¯ä¸€ç§æœ€è„çš„åŒ–çŸ³ç‡ƒæ–™ã€‚ä¸€äº›çœä»½(æ¯”å¦‚æ²¿æµ·çš„å±±ä¸œ)å·²åœ¨ä»Šå¹´å¤å¤©ä¸‹ä»¤å…³åœäº†çœå†…æœ€è€ã€æ•ˆç‡æœ€ä½çš„ç‡ƒç…¤ç”µå‚ã€‚
 
-Each year, China burns more coal than the rest of the world **combined** and **almost as much oil as** the United States. But it is also **making heavy investments in clean energy**. China is the world leader in **hydroelectric power**, in solar power and in wind power. While China has mostly **run out of rivers to dam** for hydroelectric power. China needs to find a way to produce even more energy while reducing emissions at the same time ¡ª **a tall order**.
-ÖĞ¹úÃ¿ÄêµÄÃºÌ¿ÏûºÄÁ¿³¬¹ıÊÀ½çÆäËû¹ú¼ÒµÄ×ÜºÍ£¬Ã¿ÄêµÄÊ¯ÓÍÏûºÄÁ¿¼¸ºõÓëÃÀ¹úÏàµ±¡£µ«ÖĞ¹úÒ²ÕıÔÚ´óÁ¿Í¶×ÊÇå½àÄÜÔ´ÁìÓò¡£ÖĞ¹úÔÚË®Á¦·¢µç¡¢Ì«ÑôÄÜºÍ? µçÁìÓò¶¼´¦ÓÚÊÀ½çÁìÏÈµØÎ»¡£ËäÈ»ÖĞ¹ú¿É½¨ÔìË®Á¦·¢µç´ó°ÓµÄºÓÁ÷ÒÑËùÊ£ÎŞ¼¸.ÖĞ¹úĞèÒªÕÒµ½Ò»¸öÔÚÉú²ú¸ü¶àµçÄÜµÄÍ¬Ê±¼õÉÙÌ¼ÅÅ·ÅµÄ·½·¨£¬ÕâÊÇ¸ö¼è¾ŞµÄÈÎÎñ¡£
+Each year, China burns more coal than the rest of the world **combined** and **almost as much oil as** the United States. But it is also **making heavy investments in clean energy**. China is the world leader in **hydroelectric power**, in solar power and in wind power. While China has mostly **run out of rivers to dam** for hydroelectric power. China needs to find a way to produce even more energy while reducing emissions at the same time â€” **a tall order**.
+ä¸­å›½æ¯å¹´çš„ç…¤ç‚­æ¶ˆè€—é‡è¶…è¿‡ä¸–ç•Œå…¶ä»–å›½å®¶çš„æ€»å’Œï¼Œæ¯å¹´çš„çŸ³æ²¹æ¶ˆè€—é‡å‡ ä¹ä¸ç¾å›½ç›¸å½“ã€‚ä½†ä¸­å›½ä¹Ÿæ­£åœ¨å¤§é‡æŠ•èµ„æ¸…æ´èƒ½æºé¢†åŸŸã€‚ä¸­å›½åœ¨æ°´åŠ›å‘ç”µã€å¤ªé˜³èƒ½å’Œ? ç”µé¢†åŸŸéƒ½å¤„äºä¸–ç•Œé¢†å…ˆåœ°ä½ã€‚è™½ç„¶ä¸­å›½å¯å»ºé€ æ°´åŠ›å‘ç”µå¤§åçš„æ²³æµå·²æ‰€å‰©æ— å‡ .ä¸­å›½éœ€è¦æ‰¾åˆ°ä¸€ä¸ªåœ¨ç”Ÿäº§æ›´å¤šç”µèƒ½çš„åŒæ—¶å‡å°‘ç¢³æ’æ”¾çš„æ–¹æ³•ï¼Œè¿™æ˜¯ä¸ªè‰°å·¨çš„ä»»åŠ¡ã€‚
 
-American energy use was **nearly flat** over the decade before the pandemic and then **fell sharply** last year. Europe¡¯s energy use was **gradually declining** even before the pandemic.
-ÃÀ¹úµÄÄÜÔ´ÏûºÄÔÚĞÂ¹Ú²¡¶¾´óÁ÷ĞĞÇ°µÄÊ®ÄêÀï¼¸ºõÃ»ÓĞÔö?£¬²¢ÔÚÈ¥Äê³öÏÖÁË´ó·ùÏÂ½µ¡£Å·ÖŞµÄÄÜÔ´ÏûºÄÉõÖÁÔÚÒßÇéÖ®Ç°¾ÍÔÚÖğ½¥ÏÂ½µ¡£
+American energy use was **nearly flat** over the decade before the pandemic and then **fell sharply** last year. Europeâ€™s energy use was **gradually declining** even before the pandemic.
+ç¾å›½çš„èƒ½æºæ¶ˆè€—åœ¨æ–°å† ç—…æ¯’å¤§æµè¡Œå‰çš„åå¹´é‡Œå‡ ä¹æ²¡æœ‰å¢?ï¼Œå¹¶åœ¨å»å¹´å‡ºç°äº†å¤§å¹…ä¸‹é™ã€‚æ¬§æ´²çš„èƒ½æºæ¶ˆè€—ç”šè‡³åœ¨ç–«æƒ…ä¹‹å‰å°±åœ¨é€æ¸ä¸‹é™ã€‚
 
 The United States **in particular** has been able to reduce emissions by **gradually shifting** from coal power to a **greater reliance** on natural gas, which emits about half the carbon dioxide when burned, and by **ramping up its renewable energy**.
-¾ßÌåµ½ÃÀ¹úÀ´Ëµ£¬ÃÀ¹úÒ»Ö±ÄÜ¹»Í¨¹ıÖğ½¥´ÓÈ¼Ãº×ªÏò¸ü´ó³Ì¶ÈµØÒÀÀµÌìÈ»Æø(È¼ÉÕÌìÈ»ÆøÅÅ·ÅµÄ¶şÑõ»¯Ì¼Á¿Ô¼ÊÇÈ¼ÃºµÄÒ»°ë)£¬ÒÔ¼°Ôö¼Ó¿ÉÔÙÉúÄÜÔ´µÄÊ¹ÓÃÀ´¼õÉÙÌ¼ÅÅ·Å¡£
+å…·ä½“åˆ°ç¾å›½æ¥è¯´ï¼Œç¾å›½ä¸€ç›´èƒ½å¤Ÿé€šè¿‡é€æ¸ä»ç‡ƒç…¤è½¬å‘æ›´å¤§ç¨‹åº¦åœ°ä¾èµ–å¤©ç„¶æ°”(ç‡ƒçƒ§å¤©ç„¶æ°”æ’æ”¾çš„äºŒæ°§åŒ–ç¢³é‡çº¦æ˜¯ç‡ƒç…¤çš„ä¸€åŠ)ï¼Œä»¥åŠå¢åŠ å¯å†ç”Ÿèƒ½æºçš„ä½¿ç”¨æ¥å‡å°‘ç¢³æ’æ”¾ã€‚
 
-The United States and other countries are **pressuring China to** agree to help limit global warming this century to no more than 1.5 **degrees Celsius** compared with temperatures before **the Industrial Revolution**. That¡¯s the **threshold beyond** which scientists say the planet will **experience irreversible damage**. As countries continue to **pump carbon emissions into** the atmosphere, the Earth has already warmed about 1.1 degrees Celsius.
-ÃÀ¹úºÍÆäËû¹ú¼ÒÕıÔÚÏòÖĞ¹úÊ©Ñ¹£¬ÒªÇóËüÍ¬Òâ°ïÖúÊµÏÖ½«±¾ÊÀ¼ÍÈ«Çò±äÅ¯·ù¶È¿ØÖÆÔÚ²»¸ßÓÚ¹¤Òµ¸ïÃüÇ°1.5ÉãÊÏ¶ÈµÄÄ¿±ê¡£¿ÆÑ§¼ÒËµ£¬±äÅ¯³¬¹ıÕâ¸öãĞÖµ£¬½«ÈÃµØÇòÊÜµ½²»¿ÉÄæ×ªµÄÆÆ»µ¡£Ëæ×Å¸÷¹ú¼ÌĞøÏò´óÆø²ãÅÅ·Å¶şÑõ»¯Ì¼£¬µØÇòµÄÎÂ¶ÈÒÑ¾­ÉÏÉıÁËÔ¼1.1ÉãÊÏ¶È¡£
+The United States and other countries are **pressuring China to** agree to help limit global warming this century to no more than 1.5 **degrees Celsius** compared with temperatures before **the Industrial Revolution**. Thatâ€™s the **threshold beyond** which scientists say the planet will **experience irreversible damage**. As countries continue to **pump carbon emissions into** the atmosphere, the Earth has already warmed about 1.1 degrees Celsius.
+ç¾å›½å’Œå…¶ä»–å›½å®¶æ­£åœ¨å‘ä¸­å›½æ–½å‹ï¼Œè¦æ±‚å®ƒåŒæ„å¸®åŠ©å®ç°å°†æœ¬ä¸–çºªå…¨çƒå˜æš–å¹…åº¦æ§åˆ¶åœ¨ä¸é«˜äºå·¥ä¸šé©å‘½å‰1.5æ‘„æ°åº¦çš„ç›®æ ‡ã€‚ç§‘å­¦å®¶è¯´ï¼Œå˜æš–è¶…è¿‡è¿™ä¸ªé˜ˆå€¼ï¼Œå°†è®©åœ°çƒå—åˆ°ä¸å¯é€†è½¬çš„ç ´åã€‚éšç€å„å›½ç»§ç»­å‘å¤§æ°”å±‚æ’æ”¾äºŒæ°§åŒ–ç¢³ï¼Œåœ°çƒçš„æ¸©åº¦å·²ç»ä¸Šå‡äº†çº¦1.1æ‘„æ°åº¦ã€‚
 
-**Complicating matters** is China¡¯s view that climate change is **primarily** an American responsibility. That¡¯s because former President Donald J. Trump in 2017 **withdrew the United States from the Paris agreement**, the pact among nations to fight climate change. That decision that **essentially stopped** climate progress by the U.S. for four years.
-ÈÃÎÊÌâ±äµÃ¸´ÔÓµÄÊÇ£¬ÖĞ¹úÈÏÎªÆøºò±ä»¯Ö÷ÒªÊÇÃÀ¹úµÄÔğÈÎ¡£ÕâÊÇÒòÎªÇ°×ÜÍ³ÌØÀÊÆÕÔøÔÚ2017ÄêÈÃÃÀ¹úÍË³öÁË¸÷¹úÎªÓ¦¶ÔÆøºò±ä»¯Ç©¶©µÄ¡¶°ÍÀèĞ­¶¨¡·¡£ÌØÀÊÆÕµÄ¾ö¶¨ÊµÖÊÉÏÈÃÃÀ¹úÔÚÆøºòÎÊÌâÉÏµÄ½øÕ¹ Í£ÖÍÁËËÄÄê¡£
+**Complicating matters** is Chinaâ€™s view that climate change is **primarily** an American responsibility. Thatâ€™s because former President Donald J. Trump in 2017 **withdrew the United States from the Paris agreement**, the pact among nations to fight climate change. That decision that **essentially stopped** climate progress by the U.S. for four years.
+è®©é—®é¢˜å˜å¾—å¤æ‚çš„æ˜¯ï¼Œä¸­å›½è®¤ä¸ºæ°”å€™å˜åŒ–ä¸»è¦æ˜¯ç¾å›½çš„è´£ä»»ã€‚è¿™æ˜¯å› ä¸ºå‰æ€»ç»Ÿç‰¹æœ—æ™®æ›¾åœ¨2017å¹´è®©ç¾å›½é€€å‡ºäº†å„å›½ä¸ºåº”å¯¹æ°”å€™å˜åŒ–ç­¾è®¢çš„ã€Šå·´é»åå®šã€‹ã€‚ç‰¹æœ—æ™®çš„å†³å®šå®è´¨ä¸Šè®©ç¾å›½åœ¨æ°”å€™é—®é¢˜ä¸Šçš„è¿›å±• åœæ»äº†å››å¹´ã€‚
 
-Just five years ago, three **inland regions** that create **abundant** solar and wind energy power ¡ª **sparsely populated** Inner Mongolia, Xinjiang and Gansu ¡ª were **wasting up to** two-fifths of that power. To **address this problem**, China has built **ultra-high-voltage transmission lines** linking the country¡¯s **interior to hubs** near the coast.But connectivity still has a ways to go. 
-¾ÍÔÚÎåÄêÇ°£¬Èı¸öÓµÓĞ·á¸»Ì«ÑôÄÜºÍ?ÄÜµÄÄÚÂ½µØÇø¡ª¡ªÈË¿ÚÏ¡ÉÙµÄÄÚÃÉ¹Å¡¢ĞÂ½®ºÍ¸ÊËà¡ª¡ªÉú²úµÄµçÄÜÓĞ¸ß´ï40%±»ÀË·Ñ¡£ÎªÁË½â¾öÕâ¸öÎÊÌâ£¬ÖĞ¹úĞŞ½¨ÁË½«ÄÚÂ½ÓëÑØº£µØÇøÁ¬½ÓÆğÀ´µÄ³¬¸ßÑ¹ÊäµçÏß¡£µ«ÈÔĞè½¨Éè¸ü¶àµÄÊäµçÏß¡£
+Just five years ago, three **inland regions** that create **abundant** solar and wind energy power â€” **sparsely populated** Inner Mongolia, Xinjiang and Gansu â€” were **wasting up to** two-fifths of that power. To **address this problem**, China has built **ultra-high-voltage transmission lines** linking the countryâ€™s **interior to hubs** near the coast.But connectivity still has a ways to go. 
+å°±åœ¨äº”å¹´å‰ï¼Œä¸‰ä¸ªæ‹¥æœ‰ä¸°å¯Œå¤ªé˜³èƒ½å’Œ?èƒ½çš„å†…é™†åœ°åŒºâ€”â€”äººå£ç¨€å°‘çš„å†…è’™å¤ã€æ–°ç–†å’Œç”˜è‚ƒâ€”â€”ç”Ÿäº§çš„ç”µèƒ½æœ‰é«˜è¾¾40%è¢«æµªè´¹ã€‚ä¸ºäº†è§£å†³è¿™ä¸ªé—®é¢˜ï¼Œä¸­å›½ä¿®å»ºäº†å°†å†…é™†ä¸æ²¿æµ·åœ°åŒºè¿æ¥èµ·æ¥çš„è¶…é«˜å‹è¾“ç”µçº¿ã€‚ä½†ä»éœ€å»ºè®¾æ›´å¤šçš„è¾“ç”µçº¿ã€‚
 
-There¡¯s a **tug of war** right now, The central government is trying to limit coal production, and the local governments are **doing the opposite**. 
-ÏÖÔÚÉÏÑİµÄÊÇÀ­¾âÕ½£¬ÖĞÑëÕş¸®ÕıÔÚÊÔÍ¼¼õÉÙÃºÌ¿Éú²ú£¬¶øµØ·½Õş¸®ÕıÔÚ¸ÉÏà·´µÄÊÂÇé¡£
+Thereâ€™s a **tug of war** right now, The central government is trying to limit coal production, and the local governments are **doing the opposite**. 
+ç°åœ¨ä¸Šæ¼”çš„æ˜¯æ‹‰é”¯æˆ˜ï¼Œä¸­å¤®æ”¿åºœæ­£åœ¨è¯•å›¾å‡å°‘ç…¤ç‚­ç”Ÿäº§ï¼Œè€Œåœ°æ–¹æ”¿åºœæ­£åœ¨å¹²ç›¸åçš„äº‹æƒ…ã€‚
 
 A **bicycle mechanic** who works and lives near the new gas-fired power plant being completed on the northern edge of Dongguan, said that he certainly did not miss the coal plant. Clothes **got dirty if you hung them outside**, white cars got dirty after being **parked here for a while**. He is **unenthusiastic about** power plants in general.
-Ò»Ãû×ÔĞĞ?ĞŞÀí¹¤£¬Ëû¹¤×÷ºÍÉú»îµÄµØ·½¾ÍÔÚ¶«İ¸±±½¼¼´½«½¨³ÉµÄĞÂÈ¼Æø·¢µç³§¸½½ü¡£ËûËµ£¬ËûÒ»µãÒ²²»ÏëÄîÄÇ¸öÈ¼Ãº·¢µç³§¡£ÒÂ·ş¹ÒÔÚÍâÃæ£¬»á¸øÅªÔà¡£°×É«µÄ?×ÓÍ£ÔÚÕâ¶ù£¬¹ı»á¶ùÒ²ÔàÁË. Ëû¶Ô·¢µç³§µÄ×ÜÌåÌ¬¶ÈÊÇÃ»ÓĞÈÈÇé¡£
+ä¸€åè‡ªè¡Œ?ä¿®ç†å·¥ï¼Œä»–å·¥ä½œå’Œç”Ÿæ´»çš„åœ°æ–¹å°±åœ¨ä¸œèåŒ—éƒŠå³å°†å»ºæˆçš„æ–°ç‡ƒæ°”å‘ç”µå‚é™„è¿‘ã€‚ä»–è¯´ï¼Œä»–ä¸€ç‚¹ä¹Ÿä¸æƒ³å¿µé‚£ä¸ªç‡ƒç…¤å‘ç”µå‚ã€‚è¡£æœæŒ‚åœ¨å¤–é¢ï¼Œä¼šç»™å¼„è„ã€‚ç™½è‰²çš„?å­åœåœ¨è¿™å„¿ï¼Œè¿‡ä¼šå„¿ä¹Ÿè„äº†. ä»–å¯¹å‘ç”µå‚çš„æ€»ä½“æ€åº¦æ˜¯æ²¡æœ‰çƒ­æƒ…ã€‚
 
 The men and women **wrestled** Wang Jianna to the ground. **Holding down her legs and shoulders**, they **pried** her 6-month-old baby from her arms and **took off running**. A **surveillance camera captured** it all. But there **was little Ms. Wang could do**.
-¼¸ÃûÄĞÅ®°ÑÍõ½¨ÄÈË¤µ¹ÔÚµØ£¬°´×¡ËıµÄ¼ç°òºÍÍÈ£¬°ÑËıÁù¸öÔÂ´óµÄº¢×Ó´ÓËı»³Àï×§³öÀ´£¬È»ºóÅÜ¿ªÁË¡£Ò»¸ö¼à¿ØÉãÏñÍ·ÅÄÏÂÁËÕâÒ»ÇĞ¡£µ«Íõ½¨ÄÈÎŞÄÜÎªÁ¦
+å‡ åç”·å¥³æŠŠç‹å»ºå¨œæ‘”å€’åœ¨åœ°ï¼ŒæŒ‰ä½å¥¹çš„è‚©è†€å’Œè…¿ï¼ŒæŠŠå¥¹å…­ä¸ªæœˆå¤§çš„å­©å­ä»å¥¹æ€€é‡Œæ‹½å‡ºæ¥ï¼Œç„¶åè·‘å¼€äº†ã€‚ä¸€ä¸ªç›‘æ§æ‘„åƒå¤´æ‹ä¸‹äº†è¿™ä¸€åˆ‡ã€‚ä½†ç‹å»ºå¨œæ— èƒ½ä¸ºåŠ›
 
 I **feel deeply wronged**, Although snatching is **unreasonable and unjustified**, the **court** still supported it.
-ÎÒ¾õµÃºÜÎ¯Çü£¬ÇÀ¶áµÄ·½Ê½²»ºÏÇé²»ºÏÀí£¬·¨ÔºÈ´Ö§³ÖÁË
+æˆ‘è§‰å¾—å¾ˆå§”å±ˆï¼ŒæŠ¢å¤ºçš„æ–¹å¼ä¸åˆæƒ…ä¸åˆç†ï¼Œæ³•é™¢å´æ”¯æŒäº†
 
 **Custody battles** can be **bitter affairs** anywhere in the world. In China, where courts **rarely grant joint physical** custody, **disputes** over children are **especially acrimonious**. It creates **a perverse incentive** for parents **going through a split to abduct** and hide their children to win **sole** custody. 
-ÔÚÊÀ½çÉÏÈÎºÎµØ·½£¬¼à»¤È¨Ö®Õù¶¼ÊÇ¿ÉÄÜÁîÈËÍ´¿àµÄÊÂÇé¡£ÔÚÖĞ¹ú£¬·¨ÔººÜÉÙÊÚÓè¹²Í¬¼à»¤È¨£¬¹ØÓÚº¢×ÓµÄ¾À·×ÓÈÆä¼¤ÁÒ¡£Õâ¸øÀëÒìÖĞµÄ¸¸Ä¸´øÀ´ÁËÒ»ÖÖ·´³£µÄ¶¯»ú£¬ÈÃËûÃÇÎªÁËÓ®µÃµ¥¶À¸§ÑøÈ¨¶ø°ó¼ÜºÍ²ØÄä×Ô¼ºµÄº¢×Ó¡£
+åœ¨ä¸–ç•Œä¸Šä»»ä½•åœ°æ–¹ï¼Œç›‘æŠ¤æƒä¹‹äº‰éƒ½æ˜¯å¯èƒ½ä»¤äººç—›è‹¦çš„äº‹æƒ…ã€‚åœ¨ä¸­å›½ï¼Œæ³•é™¢å¾ˆå°‘æˆäºˆå…±åŒç›‘æŠ¤æƒï¼Œå…³äºå­©å­çš„çº çº·å°¤å…¶æ¿€çƒˆã€‚è¿™ç»™ç¦»å¼‚ä¸­çš„çˆ¶æ¯å¸¦æ¥äº†ä¸€ç§åå¸¸çš„åŠ¨æœºï¼Œè®©ä»–ä»¬ä¸ºäº†èµ¢å¾—å•ç‹¬æŠšå…»æƒè€Œç»‘æ¶å’Œè—åŒ¿è‡ªå·±çš„å­©å­ã€‚
 
-¡°It¡¯s **become almost a game** ¡ª whoever has physical custody has **legal custody**,¡± said Dai Xiaolei, who founded **Purple Ribbon** Mother¡¯s Love, **a grass-roots advocacy group**, after losing a custody battle with her ex-husband. ¡°**It¡¯s a free-for-all**.¡±
-¡°Õâ¼¸ºõ±ä³ÉÁËÒ»³¡ÓÎÏ·¡ª¡ªË­ÓĞÁËÊµ¼Ê¼à»¤È¨£¬Ë­¾ÍÓĞ·¨ÂÉ¼à»¤È¨£¬¡±´÷ÏşÀÚËµ¡£¡°ÍêÈ«ÊÇÎŞ·¨ÎŞÌì¡£¡±ËıÔÚÓëÇ°·òµÄ¼à»¤È¨Ö®ÕùÖĞ°ÜËßºó£¬´´Á¢ÁË²İ¸ùÎ¬È¨×éÖ¯¡°×ÏË¿´øÂèÂè¡±¡£
+â€œItâ€™s **become almost a game** â€” whoever has physical custody has **legal custody**,â€ said Dai Xiaolei, who founded **Purple Ribbon** Motherâ€™s Love, **a grass-roots advocacy group**, after losing a custody battle with her ex-husband. â€œ**Itâ€™s a free-for-all**.â€
+â€œè¿™å‡ ä¹å˜æˆäº†ä¸€åœºæ¸¸æˆâ€”â€”è°æœ‰äº†å®é™…ç›‘æŠ¤æƒï¼Œè°å°±æœ‰æ³•å¾‹ç›‘æŠ¤æƒï¼Œâ€æˆ´æ™“ç£Šè¯´ã€‚â€œå®Œå…¨æ˜¯æ— æ³•æ— å¤©ã€‚â€å¥¹åœ¨ä¸å‰å¤«çš„ç›‘æŠ¤æƒä¹‹äº‰ä¸­è´¥è¯‰åï¼Œåˆ›ç«‹äº†è‰æ ¹ç»´æƒç»„ç»‡â€œç´«ä¸å¸¦å¦ˆå¦ˆâ€ã€‚
 
 **Traditionally**, a woman seeking a divorce was expected to **forgo custody** of her children. But that has changed over the years as women in China have **gained more financial stability** and independence. **On paper**, Chinese law **is tilted slightly in favor of** women. **In cases** where the child is 2 or younger, mothers are **typically awarded** sole custody. But **in practice**, judges can **be swayed by institutional and informal considerations** that experts say often give men an advantage. 
-´«Í³ÉÏ£¬ÈËÃÇ»áÈÏÎªÑ°ÇóÀë»éµÄÅ®ĞÔÀíÓ¦·ÅÆú¶Ôº¢×ÓµÄ¼à»¤È¨¡£µ«ÊÇ¶àÄêÀ´£¬Ëæ×ÅÖĞ¹úÅ®ĞÔ»ñµÃÁË¸ü¶à¾­¼ÃÉÏµÄÎÈ¶¨ºÍ¶ÀÁ¢£¬ÕâÖÖÇé¿ö·¢ÉúÁË±ä»¯¡£ÀíÂÛÉÏ£¬ÖĞ¹ú·¨ÂÉÉÔÎ¢Æ«ÏòÓÚÅ®ĞÔ¡£ÔÚº¢×ÓÁ½Ëê»ò¸üĞ¡µÄÇé¿öÏÂ£¬Ä¸Ç×Í¨³£±»ÊÚÓèÎ¨Ò»¼à»¤È¨¡£µ«ÔÚÊµ¼ùÖĞ£¬·¨¹Ù¿ÉÄÜ»áÊÜµ½ÖÆ¶ÈºÍ·ÇÕıÊ½ÀíÓÉµÄÓ°Ïì£¬×¨¼ÒÃÇËµ£¬ÕâĞ©¿¼ÂÇÍùÍù»á¸øÄĞĞÔ´øÀ´ÓÅÊÆ¡£
+ä¼ ç»Ÿä¸Šï¼Œäººä»¬ä¼šè®¤ä¸ºå¯»æ±‚ç¦»å©šçš„å¥³æ€§ç†åº”æ”¾å¼ƒå¯¹å­©å­çš„ç›‘æŠ¤æƒã€‚ä½†æ˜¯å¤šå¹´æ¥ï¼Œéšç€ä¸­å›½å¥³æ€§è·å¾—äº†æ›´å¤šç»æµä¸Šçš„ç¨³å®šå’Œç‹¬ç«‹ï¼Œè¿™ç§æƒ…å†µå‘ç”Ÿäº†å˜åŒ–ã€‚ç†è®ºä¸Šï¼Œä¸­å›½æ³•å¾‹ç¨å¾®åå‘äºå¥³æ€§ã€‚åœ¨å­©å­ä¸¤å²æˆ–æ›´å°çš„æƒ…å†µä¸‹ï¼Œæ¯äº²é€šå¸¸è¢«æˆäºˆå”¯ä¸€ç›‘æŠ¤æƒã€‚ä½†åœ¨å®è·µä¸­ï¼Œæ³•å®˜å¯èƒ½ä¼šå—åˆ°åˆ¶åº¦å’Œéæ­£å¼ç†ç”±çš„å½±å“ï¼Œä¸“å®¶ä»¬è¯´ï¼Œè¿™äº›è€ƒè™‘å¾€å¾€ä¼šç»™ç”·æ€§å¸¦æ¥ä¼˜åŠ¿ã€‚
 
 Four years later, she still **dreams of reuniting with** the baby she once **rocked to sleep** every night.
-ËÄÄê¹ıÈ¥ÁË£¬ËıÈÔÈ»ÃÎÏë×ÅºÍËıÔø¾­Ã¿ÍíÒ¡×ÅÈëË¯µÄº¢×ÓÍÅ¾Û¡£
+å››å¹´è¿‡å»äº†ï¼Œå¥¹ä»ç„¶æ¢¦æƒ³ç€å’Œå¥¹æ›¾ç»æ¯æ™šæ‘‡ç€å…¥ç¡çš„å­©å­å›¢èšã€‚
+
+The **blaze also exposed deeper problems** of the lack of support for Taiwanâ€™s **rapidly aging population**. The average age of those who **perished in the fire** was 62. The island is **on track to** become what the United Nations calls a â€œ**super-aged society**â€ by 2025, when one in five citizens will be over 65.
+è¿™åœºç«ç¾ä¹Ÿæ›éœ²äº†å°æ¹¾è¿…é€Ÿè€é¾„åŒ–çš„äººå£ç¼ºä¹ä¿éšœçš„æ·±å±‚æ¬¡é—®é¢˜ã€‚åˆ°2025å¹´ï¼Œå°æ¹¾é¢„è®¡å°†æˆä¸ºè”åˆå›½å®šä¹‰çš„â€œè¶…é«˜é¾„åŒ–ç¤¾ä¼šâ€ï¼Œå±Šæ—¶äº”åˆ†ä¹‹ä¸€çš„äººå£éƒ½å°†è¶…è¿‡65å²ã€‚
+
+The problem is not just the fire, but the many **structural issues** that lie behind the fire, In Taiwan, it is always like this, **Natural hazards** happen **all the time**, but **man-made factors** are what turn those hazards into disasters.
+é—®é¢˜ä¸åªåœ¨äºç«ç¾ï¼Œè¿˜åœ¨äºç«ç¾èƒŒåçš„è®¸å¤šåˆ¶åº¦æ€§é—®é¢˜ï¼Œå°æ¹¾ä¸€ç›´éƒ½æ˜¯è¿™æ ·ï¼Œè‡ªç„¶ç¾å®³æ—¶æœ‰å‘ç”Ÿï¼Œä½†äººä¸ºå› ç´ è®©è¿™äº›å±å®³å˜æˆäº†ç¾éš¾ã€‚
+
+A soldier **rams his head through a stack of hard tiles**. Another **stands unfazed** as others **smash his arm, thigh and head with wooden bars**. Aâ€‹ shirtless commando **lies on broken glass** with **a thick slab of granite on his belly** that is smashed with a hammer.
+ä¸€åå†›äººç”¨å¤´æ’ç¢ä¸€å ç¡¬ç“¦ç‰‡ã€‚å¦ä¸€åå†›äººåœ¨ä»–äººç”¨æœ¨æ£’çŒ›å‡»å…¶æ‰‹è‡‚ã€å¤§è…¿å’Œå¤´éƒ¨æ—¶ï¼Œçº¹ä¸ä¸åŠ¨ã€‚è¿˜æœ‰ä¸€åå…‰ç€ä¸Šèº«çš„çªå‡»é˜Ÿå‘˜èººåœ¨ç¢ç»ç’ƒä¸Šï¼Œä»»äººé”¤æ‰“å‹åœ¨ä»–èƒ¸å£çš„ä¸€å—åšèŠ±å²—å²©çŸ³æ¿ã€‚
+
+North Korea has nuclear weapons, **intercontinental ballistic** missiles and even **hypersonic missiles**. But the country has yet to **retire scenes** of **brawny men performing stunts** as part of its military propaganda designed to **whip up national pride and instill fear** in its enemies.
+è™½ç„¶æœé²œæ‹¥æœ‰æ ¸æ­¦å™¨ã€æ´²é™…å¼¹é“å¯¼å¼¹ï¼Œç”šè‡³é«˜è¶…éŸ³é€Ÿå¯¼å¼¹ï¼Œä½†åœ¨å®ƒçš„å†›äº‹å®£ä¼ ä¸­ï¼Œä»åœ¨ä½¿ç”¨å¼ºå£®ç”·å­åšç‰¹æŠ€è¡¨æ¼”çš„åœºæ™¯ï¼Œä»¥æ¿€å‘æ°‘æ—è‡ªè±ªæ„Ÿï¼Œè®©æ•Œäººèƒ†æˆ˜å¿ƒæƒŠã€‚
+
+In the **Arirang Mass Games**, thousands of **meticulously trained** schoolchildren and soldiers **are mobilized to** fill Pyongyangâ€™s May Day stadium, **performing synchronized dances** as they **flip color cards** to make **gigantic signs with slogans** of loyalty to Mr. Kim.
+åœ¨é˜¿é‡Œéƒå¤§å‹å›¢ä½“æ“è¡¨æ¼”ä¸Šï¼ŒåŠ¨ç”¨æ•°åƒåç»è¿‡ç²¾å¿ƒè®­ç»ƒçš„å­¦ç”Ÿå’Œå£«å…µï¼Œå¡«æ»¡å¹³å£¤çš„äº”ä¸€ä½“è‚²åœºï¼Œä»–ä»¬ä¸€è¾¹æ•´é½åˆ’ä¸€åœ°è·³èˆï¼Œä¸€è¾¹ç¿»è½¬ç€å½©è‰²åšçº¸ç‰‡ï¼Œæ‹¼å‡ºå‘é‡‘æ­£æ©è¡¨å¿ è¯šçš„å·¨å‹æ ‡è¯­ã€‚
+
+The old **circus performers** attracted crowds through their **perilous feats**, such as **driving nails into wood** with a head **butt or bending a steel rod** with â€‹their bare neck
+è¿™ç§å¤è€çš„æ‚æŠ€è¡¨æ¼”ç”¨æ¼”å‘˜çš„å±é™©æŠ€è‰ºå¸å¼•è§‚ä¼—ï¼Œæ¯”å¦‚ç”¨å¤´æŠŠé’‰å­æ•²è¿›æœ¨å¤´ï¼Œç”¨èµ¤è£¸çš„è„–å­å°†é’¢æ¡å˜å¼¯
+
+But as the revolutionâ€™s **high hopes curdled into political chaos** and economic failure, Mr. Bousselmi, like many Tunisians, said he began to wonder whether his country would **be better off** with a single ruler, one powerful enough to **just get things done**.
+å¯æ˜¯ï¼Œéšç€é©å‘½çš„è¿œå¤§ç†æƒ³å˜æˆäº†æ”¿æ²»æ··ä¹±ä¸ç»æµè§æ¡ï¼Œåƒè®¸å¤šçªå°¼æ–¯äººä¸€æ ·ï¼Œå¸ƒå¡ç±³è¯´ä»–å¼€å§‹æ€€ç–‘ï¼Œä»–çš„å›½å®¶å¦‚æœåªé ä¸€ä½è¶³å¤Ÿå¼ºå¤§çš„ç»Ÿæ²»è€…æ¥æ²»ç†ï¼Œç»“æœæ˜¯å¦ä¼šæ›´å¥½ã€‚
+
+In Mr. Saiedâ€™s case, his **gambit** depends on economic progress. Tunisia **faces a looming fiscal crisis**, with billions in debt coming **due this fall**. If the government fires public workers and **cuts wages and subsidies**, if prices and employment do not improve, **public sentiment** is **likely to U-turn**.
+å°±èµ›ä¹‰å¾·è€Œè¨€ï¼Œä»–æŠŠèµŒæ³¨æ”¾åœ¨äº†ç»æµå‘å±•ä¹‹ä¸Šã€‚çªå°¼æ–¯é¢ä¸´è¿«åœ¨çœ‰ç«çš„è´¢æ”¿å±æœºï¼Œæ•°ä»¥åäº¿ç¾å…ƒè®¡çš„å€ºåŠ¡å°†åœ¨ä»Šå¹´ç§‹å¤©åˆ°æœŸã€‚å¦‚æœæ”¿åºœè§£é›‡å…¬åŠ¡å‘˜ï¼Œå¹¶å‰Šå‡å·¥èµ„å’Œè¡¥è´´ï¼Œå¦‚æœç‰©ä»·å’Œå°±ä¸šæƒ…å†µæ²¡æœ‰å¥½è½¬ï¼Œæ°‘æ„å¯èƒ½ä¼šå‡ºç°180åº¦çš„å¤§é€†è½¬ã€‚
+
+A Constitution, the **ballot box** and a Parliament did not automatically **give rise to opportunity or accountability**, a state of affairs that Westerners may **find all too familiar**. Parliament **descended into name-calling and fistfights**. Political parties formed and re-formed without offering better ideas. Corruption spread.
+å®ªæ³•ã€æŠ•ç¥¨ç®±å’Œè®®ä¼šå¹¶æ²¡æœ‰è‡ªåŠ¨äº§ç”Ÿæœºä¼šæˆ–é—®è´£ï¼Œè¿™ç§çŠ¶å†µè¥¿æ–¹äººå¯èƒ½å†ç†Ÿæ‚‰ä¸è¿‡äº†ã€‚è®®ä¼šé™·å…¥è°©éª‚å’Œæ–—æ®´ã€‚æ”¿å…šçš„ç»„å»ºå’Œé‡ç»„éƒ½æ²¡æœ‰æä¾›æ›´å¥½çš„æƒ³æ³•ã€‚è…è´¥è”“å»¶ã€‚
+
+I donâ€™t think that a Western-style liberal democracy can or should be something that can just **be parachuted in**, You canâ€™t just read â€˜Liberal Democracy 101,â€™ **absorb it**, write a constitution and hope that everything **works out**. Elections are just the start.
+æˆ‘ä¸è®¤ä¸ºè¥¿å¼çš„è‡ªç”±æ°‘ä¸»æ˜¯å¯ä»¥ç©ºé™çš„ï¼Œä¹Ÿä¸åº”è¯¥æ˜¯å¦‚æ­¤ï¼Œä½ ä¸èƒ½åªè¯»â€˜è‡ªç”±æ°‘ä¸»å…¥é—¨è¯¾â€™ï¼Œå¸æ”¶å®ƒï¼Œå†™ä¸€éƒ¨å®ªæ³•ï¼Œç„¶åå¸Œæœ›ä¸€åˆ‡éƒ½èƒ½è§£å†³ã€‚é€‰ä¸¾åªæ˜¯å¼€å§‹ã€‚
+
+What follows is **an excerpt from** my book â€œThe Loneliest Americans,â€ which will be published on Oct. 12. The book is **a meditation** on the 1965 Immigration Act, **which I argue** is the **starting point of the multiethnic society** we live in today.
+ä»¥ä¸‹æ˜¯æˆ‘çš„ä¹¦ã€Šæœ€å­¤ç‹¬çš„ç¾å›½äººã€‹çš„èŠ‚é€‰ï¼Œè¯¥ä¹¦äº10æœˆ12æ—¥å‡ºç‰ˆã€‚è¿™æœ¬ä¹¦æ˜¯æˆ‘å¯¹1965å¹´ç§»æ°‘æ³•çš„æ€è€ƒï¼Œåœ¨æˆ‘çœ‹æ¥ï¼Œå®ƒæ˜¯æˆ‘ä»¬ä»Šå¤©ç”Ÿæ´»çš„å¤šç§æ—ç¤¾ä¼šçš„èµ·ç‚¹ã€‚
+
+Its opponents **at the time it was finally passed** described **apocalyptic scenarios** in which the United States and its white population would **be overrun by a horde of** foreigners. Johnson, for his part, assured the public that **the easing of restrictions** would have only **a mild effect on the demographics** of the country.
+è¯¥æ³•æ¡ˆæœ€ç»ˆé€šè¿‡æ—¶ï¼Œåå¯¹è€…æè¿°äº†ä¸€å¹…ä¸–ç•Œæœ«æ—¥èˆ¬çš„æƒ…æ™¯ï¼Œç¾å›½åŠå…¶ç™½äººäººå£å°†è¢«ä¸€å¤§ç¾¤å¤–å›½äººå é¢†ã€‚çº¦ç¿°é€Šåˆ™å‘å…¬ä¼—ä¿è¯ï¼Œæ”¾å®½é™åˆ¶åªä¼šå¯¹ç¾å›½çš„äººå£ç»“æ„äº§ç”Ÿè½»å¾®å½±å“ã€‚
+
+Before Hart-Celler, immigration into the United States operated under the National Origins Act, **a seemingly simple system** that **doled out up to** 150,000 visas a year, **distributed among different quotas** for each nationality, calculated according to the 1920 **census**. 
+åœ¨ã€Šå“ˆç‰¹â€”å¡å‹’æ³•ã€‹ä¹‹å‰ï¼Œç§»æ°‘è¿›å…¥ç¾å›½ä¾æ®çš„æ˜¯ã€Šå›½å®¶èµ·æºæ³•æ¡ˆã€‹ï¼Œè¿™æ˜¯ä¸€ä¸ªçœ‹ä¼¼ç®€å•çš„åˆ¶åº¦ï¼Œæ¯å¹´å‘æ”¾15ä¸‡ä¸ªç­¾è¯ï¼Œæ ¹æ®1920å¹´çš„äººå£æ™®æŸ¥è®¡ç®—ï¼Œæ¯ä¸ªå›½ç±åˆ†åˆ°æ•°é‡ä¸ç­‰çš„é…é¢
+
+During **the Gold Rush and railroad eras**, these men **served as cheap labor** and were **generally kept apart from** mainstream society. But as an increasing number of manufacturers and **agricultural barons** began replacing their work force with the Chinese, **a nativist backlash** quickly **ensued, depicting** the Chinese as **subhuman carriers of smallpox and cholera**. 
+åœ¨æ·˜é‡‘çƒ­å’Œé“è·¯æ—¶ä»£ï¼Œè¿™äº›äººå……å½“å»‰ä»·åŠ³åŠ¨åŠ›ï¼Œé€šå¸¸ä¸ä¸»æµç¤¾ä¼šéš”ç¦»ã€‚ä½†éšç€è¶Šæ¥è¶Šå¤šçš„åˆ¶é€ å•†å’Œå†œä¸šå¤§äº¨å¼€å§‹ç”¨åäººå–ä»£å…¶ä»–åŠ³åŠ¨åŠ›ï¼Œæœ¬åœŸä¸»ä¹‰çš„åå¼¹å¾ˆå¿«å°±å‡ºç°äº†ï¼Œä»–ä»¬å°†åäººæè¿°ä¸ºå¤©èŠ±å’Œéœä¹±çš„æºå¸¦è€…ï¼Œæ˜¯ä½ä¸€ç­‰çš„äººç±»ã€‚
+
+Immigration law usually **moves in lock step** with a countryâ€™s foreign policy goals. The day after **the bombing of Pearl Harbor** in 1941, the United States and China both declared war on Japan, which **prompted a two-year diplomatic effort** to **classify China as a long-term ally** of the United States. In response, Japan **began a propaganda campaign** that **recast the war as** a fight against **Anglo-Saxon imperialism** in the â€œ**Greater East Asia Co-Prosperity Sphere**.â€
+ç§»æ°‘æ³•é€šå¸¸ä¸ä¸€ä¸ªå›½å®¶çš„å¤–äº¤æ”¿ç­–ç›®æ ‡åŒæ­¥å‘å±•ã€‚1941å¹´çç æ¸¯äº‹ä»¶åçš„ç¬¬äºŒå¤©ï¼Œç¾å›½å’Œä¸­å›½éƒ½å¯¹æ—¥æœ¬å®£æˆ˜ï¼Œè¿™ä¿ƒä½¿äº†ä¸ºæœŸä¸¤å¹´çš„å¤–äº¤åŠªåŠ›ï¼Œå°†ä¸­å›½åˆ—ä¸ºç¾å›½çš„é•¿æœŸç›Ÿå‹ã€‚ä½œä¸ºå›åº”ï¼Œæ—¥æœ¬å¼€å§‹äº†ä¸€åœºå®£ä¼ è¿åŠ¨ï¼Œå°†è¿™åœºæˆ˜äº‰é‡å¡‘ä¸ºåœ¨â€œå¤§ä¸œäºšå…±è£åœˆâ€ä¸­å¯¹æŠ—ç›æ ¼é²-æ’’å…‹é€Šå¸å›½ä¸»ä¹‰ã€‚
+
+
