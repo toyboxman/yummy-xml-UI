@@ -11,7 +11,7 @@
 
 When we’re first introduced to our **titular protagonist** — going by **the westernized name** “Shaun” — he’s **depicted as a good-natured**, smiling **parking valet** who **nods and stammers when condescended to**. He **begs his over-the-top** BFF Katy (Nora “Awkwafina” Lum) not to make noise or trouble. 
 > titular[ˈtɪtʃələr] 名义上的；有名无实的；徒有虚名的   
-> protagonist[proʊˈtæɡənɪst] 主人公；领导者；正面人物
+> protagonist[proʊˈtæɡənɪst] 主人公；领导者；正面人物  
 > good-natured 脾气好的；温厚的；和蔼的  
 > valet[ˈvæleɪ] 贴身男仆；泊车员  
 > stammer[ˈstæmər] 口吃；结巴着说  
@@ -30,9 +30,9 @@ He’s **living as** many of our Asian parents **counseled** us: “**The nail t
 
 But it’s **not long before** Shaun **rips off his metaphorical glasses** and **steps unabashedly into the spotlight** as Shang-Chi, a **larger-than-life, pyrotechnic presence** who draws every eye and **fills the screen** as only superheroes can. 
 >metaphorical[ˌmetəˈfɔrɪk(ə)l] 隐喻性的；隐喻式  
->unabashed[ˌʌnəˈbæʃt] 不害臊的；厚脸皮的；不脸红的
->larger-than-life 杰出的 与众不同的
->pyrotechnic[ˌpaɪrə'teknɪk] 烟火的；爆破效果
+>unabashed[ˌʌnəˈbæʃt] 不害臊的；厚脸皮的；不脸红的  
+>larger-than-life 杰出的 与众不同的  
+>pyrotechnic[ˌpaɪrə'teknɪk] 烟火的；爆破效果  
 
 但没过多久，肖恩摘下他那副带有隐喻色彩的眼镜，毫不掩饰地以“尚气”的形象出现在聚光灯下，这是一个超凡脱俗、光芒四射的出场，他主宰着屏幕，吸引了所有的目光，这是只有超级英雄才有的气场。
 
