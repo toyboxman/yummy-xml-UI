@@ -36,17 +36,31 @@ But it’s **not long before** Shaun **rips off his metaphorical glasses** and *
 
 但没过多久，肖恩摘下他那副带有隐喻色彩的眼镜，毫不掩饰地以“尚气”的形象出现在聚光灯下，这是一个超凡脱俗、光芒四射的出场，他主宰着屏幕，吸引了所有的目光，这是只有超级英雄才有的气场。
 
-For those of us who **ultimately rebelled against** our parents’ advice to **shrink ourselves**, Shang Chi’s **heroic arrival** is a **satisfying refutation** of their warnings. Don’t raise your voice. Don’t draw attention. Don’t **take up space**. This was **well-meaning counsel**, but it had **tremendous unintended consequences**, leading many of us to avoid **asserting our Asian heritage**.
+For those of us who **ultimately rebelled against** our parents’ advice to **shrink ourselves**, Shang Chi’s **heroic arrival** is a **satisfying refutation** of their warnings. Don’t raise your voice. Don’t draw attention. Don’t **take up space**. This was **well-meaning counsel**, but it had **tremendous unintended consequences**, leading many of us to avoid **asserting our Asian heritage**. 
+>refutation[refjʊˈteɪʃən] 反驳；驳斥   
+>well-meaning 好心的；善意的         
+
 对于我们这些最终不顾父母劝说的人来说，尚气的英勇到来是对他们警告的驳斥，令人感到极度舒适。不要大声。不要引起注意。不要占据空间。这是善意的建议，但它产生了意想不到的巨大后果，导致我们中的许多人不愿主张我们的亚裔传统。
 
-**In the course of** conducting interviews for our **forthcoming book**, a history of Asian America from the nineties to now, Phil Yu, Philip Wang and I spoke with Asian American journalists who avoided covering their own communities for **fear of being boxed into an ethnic niche**. We heard from Asian American authors who **resisted writing Asian American lead characters** into their novels. We talked to Asian American performers who’d **normalized the expectation** that they could only be **secondary players, onscreen** and in life.
-我们即将出版一本新书，讲述关于90年代至今亚裔美国人的历史，在进行采访的过程中，我和菲尔·柳、菲利普·王采访了一些亚裔美国记者，他们不愿报道自己种族社区的新闻，因为害怕被当作一个小众种族群体。我们听说亚裔美国作家拒绝将亚裔美国主?写入他们的小说。我们还与一些亚裔美国演员进行了交谈，他们已经接受了人们只指望他们扮演次要?色，无论是在银幕上还是在生活中。
+**In the course of** conducting interviews for our **forthcoming book**, a history of Asian America from the nineties to now, Phil Yu, Philip Wang and I spoke with Asian American journalists who avoided covering their own communities for **fear of being boxed into an ethnic niche**. We heard from Asian American authors who **resisted writing Asian American lead characters** into their novels. We talked to Asian American performers who’d **normalized the expectation** that they could only be **secondary players, onscreen** and in life. 
+>box into 归类 装入    
+>niche[nɪtʃ] 壁龛；称心的工作    
 
-Sandra Oh, now leading Netflix’s **hot-topic dramedy** “The Chair,” told us that when she found out she was being **offered a spot** in the **cat- and-mouse assassin thriller** “Killing Eve,” she **assumed** it would be for **a recurring role or supporting character**. “I **looked through the script**, and I couldn’t find an Asian doctor or **receptionist or whatever**,” she **recalled**. “And that’s when my agent told me that they wanted me for the lead. For Eve. The character in the title. That’s the moment that I realized how deep the **internalized racism** had been for me by that point in my career: I couldn’t even see the part I was supposed to be playing. I’d gone from a place of tremendous possibility and confidence when I was very young, to not even **being able to see myself**.”
-吴珊卓现在主演网?热?剧情片《椅子》她告诉我们，当她发现自己在猫鼠游戏式的暗杀惊悚片《杀死伊芙》中获得?色时，她以为只是一个重复出现的?色或配?。“我翻阅了剧本，我找不到亚裔医生或接待员之类的人物，”她回忆道。“就在那时，我的经纪人告诉我，他们希望我担任主?。演伊芙。片名中的人物。那一刻我意识到，在我以往的职业生涯中，内化的种族主义对我来说有多深:我甚至看不到我应该扮演的?色。我已经从小时候那种充满各种可能性和信心的阶段，变成了无视自己的程度。”
 
-Shang-Chi isn’t the first **Asian protagonist** we’ve seen on a screen. But as a big-budget, big-screen Marvel superhero, he’ll be **ubiquitous**. Superheroes today are on every screen, device and platform, **visible to every demographic** in our society. Shang-Chi will **usher** in the next **cinematic phase** of the most **successful franchise** in global history. **In his wake** will come more Asian heroes
-尚气并不是我们在银幕上看到的第一个亚裔主?。但作为一个大预算、大银幕的漫威超级英雄，他将无处不在。今天的超级英雄出现在每个屏幕、设备和平台上，我们社会中的任何一员都可以看到。尚气将迎来全球历史上最成功电影系列的下一个阶段。在他身后将出现更多亚裔英雄
+我们即将出版一本新书，讲述关于90年代至今亚裔美国人的历史，在进行采访的过程中，我和菲尔·柳、菲利普·王采访了一些亚裔美国记者，他们不愿报道自己种族社区的新闻，因为害怕被当作一个小众种族群体。我们听说亚裔美国作家拒绝将亚裔美国主角写入他们的小说。我们还与一些亚裔美国演员进行了交谈，他们已经接受了人们只指望他们扮演次要?色，无论是在银幕上还是在生活中。
+
+Sandra Oh, now leading Netflix’s **hot-topic dramedy** “The Chair,” told us that when she found out she was being **offered a spot** in the **cat- and-mouse assassin thriller** “Killing Eve,” she **assumed** it would be for **a recurring role or supporting character**. “I **looked through the script**, and I couldn’t find an Asian doctor or **receptionist or whatever**,” she **recalled**. “And that’s when my agent told me that they wanted me for the lead. For Eve. The character in the title. That’s the moment that I realized how deep the **internalized racism** had been for me by that point in my career: I couldn’t even see the part I was supposed to be playing. I’d **gone from a place of** tremendous possibility and confidence when I was very young, to not even **being able to see myself**.”   
+>or whatever 诸如此类；等等      
+
+吴珊卓现在主演网飞热播剧情片《椅子》她告诉我们，当她发现自己在猫鼠游戏式的暗杀惊悚片《杀死伊芙》中获得角色时，她以为只是一个重复出现的角色或配角。“我翻阅了剧本，我找不到亚裔医生或接待员之类的人物，”她回忆道。“就在那时，我的经纪人告诉我，他们希望我担任主角。演伊芙。片名中的人物。那一刻我意识到，在我以往的职业生涯中，内化的种族主义对我来说有多深:我甚至看不到我应该扮演的角色。我已经从小时候那种充满各种可能性和信心的阶段，变成了无视自己的程度。”
+
+Shang-Chi isn’t the first **Asian protagonist** we’ve seen on a screen. But as a big-budget, big-screen Marvel superhero, he’ll be **ubiquitous**. Superheroes today are on every screen, device and platform, **visible to every demographic** in our society. Shang-Chi will **usher** in the next **cinematic phase** of the most **successful franchise** in global history. **In his wake** will come more Asian heroes   
+>usher[ˈʌʃər] 引导；引领   
+>demographic[ˌdeməˈɡræfɪk] 人口的    
+>franchise[ˈfrænˌtʃaɪz] 特权；特许经营权      
+>In the wake of 紧跟；随着        
+
+尚气并不是我们在银幕上看到的第一个亚裔主角。但作为一个大预算、大银幕的漫威超级英雄，他将无处不在。今天的超级英雄出现在每个屏幕、设备和平台上，我们社会中的任何一员都可以看到。尚气将迎来全球历史上最成功电影系列的下一个阶段。在他身后将出现更多亚裔英雄
 
 That can mean the difference between life and death. **Throughout our history** in this country, Asian Americans have seen the **dire consequences of compliance and invisibility: exploitation, exclusion, internment**. We’re seeing them again today in the time of Covid, as the pandemic has **underscored our country’s xenophobic hostility, and unleashed a wave of violence** against the most vulnerable in our communities.
 这可能意味着生死存亡的差距。纵观我们在这个国家的历史，亚裔美国人已经看到了顺从和隐形的可怕后果:剥削、排斥、拘禁营。我们今天在新冠时代再次看到了这些后果，大流行凸显了我们国家的仇外敌意，并引发了针对我们社区中最弱势群体的暴力浪潮。
