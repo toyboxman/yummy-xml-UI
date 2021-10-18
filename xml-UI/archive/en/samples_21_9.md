@@ -62,35 +62,55 @@ Shang-Chi isn’t the first **Asian protagonist** we’ve seen on a screen. But 
 
 尚气并不是我们在银幕上看到的第一个亚裔主角。但作为一个大预算、大银幕的漫威超级英雄，他将无处不在。今天的超级英雄出现在每个屏幕、设备和平台上，我们社会中的任何一员都可以看到。尚气将迎来全球历史上最成功电影系列的下一个阶段。在他身后将出现更多亚裔英雄
 
-That can mean the difference between life and death. **Throughout our history** in this country, Asian Americans have seen the **dire consequences of compliance and invisibility: exploitation, exclusion, internment**. We’re seeing them again today in the time of Covid, as the pandemic has **underscored our country’s xenophobic hostility, and unleashed a wave of violence** against the most vulnerable in our communities.
+That can mean the difference between life and death. **Throughout our history** in this country, Asian Americans have seen the **dire consequences of compliance and invisibility: exploitation, exclusion, internment**. We’re seeing them again today in the time of Covid, as the pandemic has **underscored our country’s xenophobic hostility, and unleashed a wave of violence against the most vulnerable** in our communities.  
+>exploitation[eksplɔɪˈteɪʃ(ə)n] 利用；剥削; 开发   
+>xenophobic[zenə'fəʊbɪk]  仇外的；排外的；   
+
 这可能意味着生死存亡的差距。纵观我们在这个国家的历史，亚裔美国人已经看到了顺从和隐形的可怕后果:剥削、排斥、拘禁营。我们今天在新冠时代再次看到了这些后果，大流行凸显了我们国家的仇外敌意，并引发了针对我们社区中最弱势群体的暴力浪潮。
 
-A scene from Shang-Chi **perfectly captures** why this film is so important and **timely. Ambushed by thugs** on a San Francisco bus, Shang-Chi suddenly **unleashes a flurry of eye-popping combat moves**. His longtime friend Katy **does a hard double take**. “Who are you?” she demands. For her, this is **a brand-new** Shaun. For the rest of the riders on the bus, **cheering him on and snapping selfies**, this is a brand-new hero. All of them are **simply seeing him as who he really is**. Don’t we all **deserve as much**?
-《尚气》中的一个场景完美地诠释了为什么这部电影如此重要和及时。在旧金山巴士上被暴徒伏击时，尚气突然爆发出一系列令人瞠目结舌的打斗动作。他的老朋友凯蒂大吃一惊。“你到底是谁?”她追问。对她来说，这是一个全新的肖恩。对于为他加油并拍合照的其他公交?乘客来说，这是一个全新的英雄。他们所有人就这样看到了真实的他。难道我们不应该得到同样的待遇吗?
+A scene from Shang-Chi **perfectly captures** why this film is so important and **timely. Ambushed by thugs** on a San Francisco bus, Shang-Chi suddenly **unleashes a flurry of eye-popping combat moves**. His longtime friend Katy **does a hard double take**. “Who are you?” she demands. For her, this is **a brand-new** Shaun. For the rest of the riders on the bus, **cheering him on and snapping selfies**, this is a brand-new hero. All of them are **simply seeing him as who he really is**. Don’t we all **deserve as much**?   
+>double take 愣了一会儿才恍然大悟的反应; 双重身份   
+>selfies 自拍照     
 
-Parents had complained that was **too generous** and had **been laxly enforced**, the administration said. The government said it would **step up inspections** to ensure that gaming companies were **enforcing the restrictions**.
-管理部?称，家?们抱怨该举措过于宽松，而且执行不力。政府表示，它将加强检查，确保游戏公司执行这些限制。
+《尚气》中的一个场景完美地诠释了为什么这部电影如此重要和及时。在旧金山巴士上被暴徒伏击时，尚气突然爆发出一系列令人瞠目结舌的打斗动作。他的老朋友凯蒂大吃一惊。“你到底是谁?”她追问。对她来说，这是一个全新的肖恩。对于为他加油并拍合照的其他公交车乘客来说，这是一个全新的英雄。他们所有人就这样看到了真实的他。难道我们不应该得到同样的待遇吗?
 
-Recently many parents have reported that **game addiction** among some youths and children is **seriously harming** their normal study, life and **mental and physical health**, Parents, it said, had demanded “further restrictions and **reductions** in the time provided for **minors** by online gaming services.”
-不少家?反映，一些?少年沉迷网络游戏严重影响了正常的学习生活和身心健康，家?们要求“进一步限制、压缩向未成年人提供网络游戏服务的时段时?”。
+Parents had complained that was **too generous** and had **been laxly enforced**, the administration said. The government said it would **step up inspections** to ensure that gaming companies were **enforcing the restrictions**. 
+>laxly[lækslɪ] 松懈地; 缓慢地  
+
+管理部称，家长们抱怨该举措过于宽松，而且执行不力。政府表示，它将加强检查，确保游戏公司执行这些限制。
+
+Recently many parents have reported that **game addiction** among some youths and children is **seriously harming** their normal study, life and **mental and physical health**, Parents, it said, had demanded “further restrictions and **reductions** in the time provided for **minors** by online gaming services.”   
+不少家长反映，一些青少年沉迷网络游戏严重影响了正常的学习生活和身心健康，家长们要求“进一步限制、压缩向未成年人提供网络游戏服务的时段时长”。
 
 The new rules also **reflect the government’s intensifying push** for companies to **jettison** what the Chinese Communist Party says are 
 **unhealthy influences**, especially among teenagers and children.
-新规定还反映出政府正在加大力度，敦促企业摒除中国共产党所说的不健康影响，尤其是在?少年和儿童当中。
+>jettison[ˈdʒetɪs(ə)n] 丢弃；抛弃的货物     
 
-Last week, the Chinese government **initiated a crackdown** on **teen celebrity worship and fan clubs**, warning that celebrities’ pursuit of online followers was **warping youths’ value**. China’s **Cyberspace Administration** on Friday **banned ranking** celebrities by popularity.
-上周，中国政府发起了一项对?少年崇拜明星艺人、以及明星粉丝团进行打击的行动，并警告，名人对网络粉丝的追求扭曲了?少年的价值观。上周五，国家互联网信息办公室禁止对明星艺人进行人气排名。
+新规定还反映出政府正在加大力度，敦促企业摒除中国共产党所说的不健康影响，尤其是在青少年和儿童当中。
 
-Online gaming has been one of **the most vibrant and profitable** sectors of China’s internet industry, generating billions in revenue from players who **pay to take part in online quests**, wars and adventures.
-网络游戏一直是中国互联网行业中最具活力、最能赚钱的部?之一， 从付费参与在线任务、战斗和冒险的玩家那里创造了数十亿的收入
+Last week, the Chinese government **initiated a crackdown** on **teen celebrity worship and fan clubs**, warning that **celebrities’ pursuit** of online followers was **warping youths’ value**. China’s **Cyberspace Administration** on Friday **banned ranking** celebrities by popularity.    
+>warp[wɔrp] 扭曲；翘曲；变形      
 
-In early August, the share prices of Tencent Holdings and other big Chinese video game companies **fell sharply** after a Chinese newspaper called their products “**spiritual opium**.” The article **singled out** Tencent, which owns Honor of Kings, a **hugely popular** game in China.
+上周，中国政府发起了一项对青少年崇拜明星艺人、以及明星粉丝团进行打击的行动，并警告，名人对网络粉丝的追求扭曲了青少年的价值观。上周五，国家互联网信息办公室禁止对明星艺人进行人气排名。
+
+Online gaming has been one of **the most vibrant and profitable** sectors of China’s internet industry, generating billions in revenue from players who **pay to take part in online quests**, wars and adventures.   
+>vibrant[vaɪbrənt] 有活力的；振动的；充满生气的  
+>quest 探索；寻找   
+
+网络游戏一直是中国互联网行业中最具活力、最能赚钱的部分之一， 从付费参与在线任务、战斗和冒险的玩家那里创造了数十亿的收入
+
+In early August, the share prices of Tencent Holdings and other big Chinese video game companies **fell sharply** after a Chinese newspaper called their products “**spiritual opium**.” The article **singled out** Tencent, which owns Honor of Kings, a **hugely popular** game in China.  
+>spiritual[spɪrɪtʃuəl] 精神上的；灵性   
+>single out 挑选出；精选出; 脱颖而出       
+
 8月初，腾讯和中国其他大型电子游戏公司的股价大幅下跌，此前一家中国报纸称这些公司的产品为“精神鸦片”。该文特别提到了腾讯，它拥有在中国非常受欢迎的游戏《王者荣耀》
 
-Chinese parents complained that children **constantly found new ways to sneak past the limits** on gaming hours, Many parents reported that their children had big changes **in their temper and personality** after **becoming addicted to games**, even **as if they had become another person**.”
-中国父母抱怨说，孩子们总能找到新的方法来逃避游戏时间的限制。很多“家?反映，自己的孩子沉迷手机网络游戏后，脾气和性格较之前大不相同，甚至像是变了一个人一样”。
+Chinese parents complained that children **constantly found new ways to sneak past the limits** on gaming hours, Many parents reported that their children had big changes **in their temper and personality** after **becoming addicted to games**, even **as if they had become another person**.”   
+>sneak 潜行；偷窃；偷偷摸摸     
 
-The woman, who has **been identified by** the police and her lawyers only **by her surname**, Zhou, said bosses and human resources had **shrugged off her complaints**. She eventually **resorted to screaming** about the assault in **a company cafeteria** last month.
+中国父母抱怨说，孩子们总能找到新的方法来逃避游戏时间的限制。很多“家长反映，自己的孩子沉迷手机网络游戏后，脾气和性格较之前大不相同，甚至像是变了一个人一样”。
+
+The woman, who has **been identified by** the police and her lawyers only **by her surname**, Zhou, said bosses and human resources had **shrugged off her complaints**. She eventually **resorted to screaming** about the assault in **a company cafeteria** last month.   
 警方和她的律师称她为周女士。周女士说，领导和人力资源部?对她的投诉置之不理。在上个月，她最终诉诸于在公司?堂大声高喊这一侵犯事件。
 
 Ms. Zhou’s case has **caused an uproar** within the company and across China’s **tech establishment**. Alibaba fired the man accused of rape, said it would establish an anti-sexual-harassment policy and declared itself “**staunchly opposed to the ugly forced drinking culture**.” Yet former Alibaba employees say the problems **run much deeper** than the company has acknowledged.
