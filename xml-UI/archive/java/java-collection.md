@@ -10,26 +10,65 @@
 + [Java 8 Stream](https://www.javatpoint.com/java-8-stream)       
 + [Java Stream Filter](https://www.javatpoint.com/java-8-stream-filter)
 
-### 用stream/map方式转换list中数据
+### 用stream/map方式转换成map类型数据
 ```java 
-static class node {
+static class Node {
     private int id;
     private String name;
 
-    public node(int id) {
+    public Node(int id) {
         this.id = id;
     }
-    
-    // 此处返回类型原因是stream().map(id -> new node(id).setName("node-" + id))
-    // 需要一个显式的集合元素的type，否则就会提示void不匹配集合元素类型
-    public node setName(String name) {
+
+    public Node setName(String name) {
         this.name = name;
         return this;
     }
 
     @Override
     public String toString() {
-        return "node{" + "id=" + id + ", name=" + name + '}';
+        return "Node{" + "id=" + id + ", name=" + name + '}';
+    }
+}
+    
+Map<Integer, Node> nmap = new HashMap<>();
+nmap.put(1, new Node(1));
+nmap.put(2, new Node(2));
+nmap.put(3, new Node(3));
+Map<Integer, String> map = nmap.entrySet().stream()
+        .collect(Collectors.toMap(
+            entry -> entry.getKey(),
+            entry -> entry.getValue().toString(),
+        ));
+map.entrySet().forEach(System.out::println);
+``` 
+执行结果
+```
+Node{id=1, name=Null}
+Node{id=2, name=Null}
+Node{id=3, name=Null}
+```
+
+### 用stream/map方式转换list中数据
+```java 
+static class Node {
+    private int id;
+    private String name;
+
+    public Node(int id) {
+        this.id = id;
+    }
+    
+    // 此处返回类型原因是stream().map(id -> new Node(id).setName("Node-" + id))
+    // 需要一个显式的集合元素的type，否则就会提示void不匹配集合元素类型
+    public Node setName(String name) {
+        this.name = name;
+        return this;
+    }
+
+    @Override
+    public String toString() {
+        return "Node{" + "id=" + id + ", name=" + name + '}';
     }
 }
     
@@ -37,17 +76,26 @@ List<Integer> ids = new ArrayList<>();
 ids.add(1);
 ids.add(2);
 ids.add(3);
-List<node> nodes = ids.stream()
-        .map(id -> new node(id).setName("node-" + id))
+List<Node> Nodes = ids.stream()
+        .map(id -> new Node(id).setName("Node-" + id))
         .collect(Collectors.toList());
-nodes.forEach(n -> System.out.println(n));
+Nodes.forEach(n -> System.out.println(n));
 // 或者用更简化的函数名称调用替代lamda
-// nodes.forEach(System.out::println);
+// Nodes.forEach(System.out::println);
 ``` 
 执行结果
 ```
-node{id=1, name=node-1}
-node{id=2, name=node-2}
-node{id=3, name=node-3}
+Node{id=1, name=Node-1}
+Node{id=2, name=Node-2}
+Node{id=3, name=Node-3}
 ```
 
+### 用stream/map方式计算数值
+```java 
+int[] array = new int[]{1,2,3,-4,5};
+
+// 计算数组中正数负数个数之差
+Arrays.stream(array).mapToInt(i -> i < 0 ? -1 : 1).count();
+// 输出 4
+System.out.println(n)
+```
