@@ -111,31 +111,53 @@ Chinese parents complained that children **constantly found new ways to sneak pa
 中国父母抱怨说，孩子们总能找到新的方法来逃避游戏时间的限制。很多“家长反映，自己的孩子沉迷手机网络游戏后，脾气和性格较之前大不相同，甚至像是变了一个人一样”。
 
 The woman, who has **been identified by** the police and her lawyers only **by her surname**, Zhou, said bosses and human resources had **shrugged off her complaints**. She eventually **resorted to screaming** about the assault in **a company cafeteria** last month.   
-警方和她的律师称她为周女士。周女士说，领导和人力资源部?对她的投诉置之不理。在上个月，她最终诉诸于在公司?堂大声高喊这一侵犯事件。
+>shrugged off (耸肩)表示轻蔑[不屑]；摆脱；
+>resorted to 诉诸于；求助于；采取措施  
+>cafeteria[kæfəˈtɪriə] 自助餐馆；咖啡厅          
 
-Ms. Zhou’s case has **caused an uproar** within the company and across China’s **tech establishment**. Alibaba fired the man accused of rape, said it would establish an anti-sexual-harassment policy and declared itself “**staunchly opposed to the ugly forced drinking culture**.” Yet former Alibaba employees say the problems **run much deeper** than the company has acknowledged.
+警方和她的律师称她为周女士。周女士说，领导和人力资源部对她的投诉置之不理。在上个月，她最终诉诸于在公司食堂大声高喊这一侵犯事件。
+
+Ms. Zhou’s case has **caused an uproar** within the company and across China’s **tech establishment**. Alibaba fired the man accused of rape, said it would establish an anti-sexual-harassment policy and declared itself “**staunchly opposed to the ugly forced drinking culture**.” Yet former Alibaba employees say the problems **run much deeper** than the company has acknowledged.  
+>uproar[ʌpˌrɔr] 喧闹；扰乱；骚乱    
+>staunchly[stɔntʃli] 忠实地；坚定地   
+
 周女士的案件在公司内部和中国科技企业中引起轩然大波。阿里巴巴解雇了这名被控强奸的男子，表示将制定反性骚扰政策，并宣称自己“旗帜鲜明地反对丑陋的酒桌文化”。然而，前阿里巴巴员工表示，问题比该公司承认的要严重得多。
 
-Interviews with nine former employees **suggest that casual sexism is common** at Alibaba. They describe a work environment in which women are made to feel embarrassed and **belittled** during team-building and other activities that the company has incorporated in its culture, **a striking departure from the image of inclusion** Alibaba has **tried to project**.
-对九名前员工的采访表明，随意的性别歧视在阿里巴巴很常?。在他们描述的工作环境中，公司将团建和其他活动融入其文化，在这些活动中，女性感到尴尬和被贬低，这与阿里巴巴试图塑造的包容性形象大相径庭。
+Interviews with nine former employees **suggest that casual sexism is common** at Alibaba. They describe a work environment in which women are made to feel embarrassed and **belittled** during team-building and other activities that the company has incorporated in its culture, **a striking departure from the image of inclusion** Alibaba has **tried to project**.  
+>belittle[bɪˈlɪt(ə)l] 轻视；贬低；微不足道    
+>striking 引人注目的；异乎寻常的；显著的；     
 
-The police investigation into Ms. Zhou’s case is continuing. Alibaba **appears to be trying to keep a lid on** discussions of the matter. 
+对九名前员工的采访表明，随意的性别歧视在阿里巴巴很常见。在他们描述的工作环境中，公司将团建和其他活动融入其文化，在这些活动中，女性感到尴尬和被贬低，这与阿里巴巴试图塑造的包容性形象大相径庭。
+
+The police investigation into Ms. Zhou’s case is continuing. Alibaba **appears to be trying to keep a lid on** discussions of the matter.   
+>keep a lid on 大权在握；隐瞒某事；隐晦     
+
 警方对周女士案件的调查仍在继续。阿里巴巴似乎试图限制对此事的讨论。
 
-Alibaba said **fostering a safe and supportive workplace** was its top priority. When we have **fallen short**, we **believe in taking responsibility and holding ourselves accountable**. Alibaba **made immediate changes to the way** it handles workplace culture and misconduct matters after Ms. Zhou’s case **came to light**. 
+Alibaba said **fostering a safe and supportive workplace** was its top priority. When we have **fallen short**, we **believe in taking responsibility and holding ourselves accountable**. Alibaba **made immediate changes to the way** it handles workplace culture and misconduct matters after Ms. Zhou’s case **came to light**.  
+>fall short 不足；达不到；缺乏    
+>come to light 真相大白；为人所知；出现          
+
 阿里巴巴表示，营造一个安全和支持性的工作场所是其首要任务。当我们没有做到时，我们会承担责任并追责。在周女士的案件曝光后，阿里巴巴立即改变了处理职场文化和不当行为问题的方式。
 
-Many Alibaba departments use games and other **ice-breaking activities** to make co-workers **feel at ease with one another**. 
-阿里巴巴的许多部?都通过游戏等破冰活动让同事们彼此熟悉。
+Many Alibaba departments use games and other **ice-breaking activities** to make co-workers **feel at ease with one another**.     
+阿里巴巴的许多部门都通过游戏等破冰活动让同事们彼此熟悉。
 
-Her team welcomed her with a game of **charades**. When she lost, she said, she was punished by being made to “fly the plane,” as her co-workers called it. **The stunt involved straddling** a male colleague as he sat in an office chair. The colleague then **lay back in the chair**, causing Ms. Qian to fall on top of him, **face first**. I realized while **carrying out the punishment** that it could be **a little perverted**
-她的团队欢迎她的方式是进行一个猜谜游戏。她说，当她输了比赛时，她会受到惩罚，即同事口中的“开?机”。这个动作要求她跨坐在办公椅上的一位男同事身上。然后，同事往后躺在椅子上，导致钱女士倒在他身上，脸最先触碰到对方。 做这个惩罚我才知道就有点变态
+Her team welcomed her with a game of **charades**. When she lost, she said, she was punished by being made to “fly the plane,” as her co-workers called it. **The stunt involved straddling** a male colleague as he sat in an office chair. The colleague then **lay back in the chair**, causing Ms. Qian to fall on top of him, **face first**. I realized while **carrying out the punishment** that it could be **a little perverted**    
+>charade[ʃəˈreɪd] 做戏；装模作样；打哑谜猜字游戏  
+>stunt[stʌnt] 噱头；特技表演；意在引人注意的花招；愚蠢行为       
+>straddle[ˈstræd(ə)l] 跨坐；骑；分腿站立；横跨(河流、道路或一片土地）  
+>perverted[pərˈvɜrtid] 反常的；变态的                 
 
-But as the company has grown into **a behemoth** with more than a quarter-million employees, **customs** that might once have seemed playful **seem less innocent** now. 
+她的团队欢迎她的方式是进行一个猜谜游戏。她说，当她输了比赛时，她会受到惩罚，即同事口中的“开飞机”。这个动作要求她跨坐在办公椅上的一位男同事身上。然后，同事往后躺在椅子上，导致钱女士倒在他身上，脸最先触碰到对方。做这个惩罚我才知道就有点变态
+
+But as the company has grown into **a behemoth** with more than a quarter-million employees, **customs** that might once have seemed playful **seem less innocent** now.   
+>behemoth[bɪˈhimɑθ] 巨大的   
+
 但随着公司发展成为一个拥有逾25万名员工的庞然大物，曾经看似好玩的惯例现在似乎不那么单纯了。
 
 Andrew Lloyd Webber’s **musical “Cinderella” made its glittering debut** in the West End after **multiple Covid-related delays**. On the subway, where masks are still mandatory, half of the riders **go barefaced**.
-安德鲁·劳埃德·?伯的音乐剧《灰姑娘》在多次因新冠疫情推延后，终于在?区(West End)闪亮登场。地铁仍然强制要求乘客戴口罩，但一半的乘客都露着脸。
+安德鲁·劳埃德·韦伯的音乐剧《灰姑娘》在多次因新冠疫情推延后，终于在?区(West End)闪亮登场。地铁仍然强制要求乘客戴口罩，但一半的乘客都露着脸。
 
 Some of that **equanimity may stem from the fact** that Britain’s case rate, while high, has not yet **risen anywhere near** the level that government officials predicted when they **lifted virtually all Covid restrictions** last month. And some of it may **simply reflect fatigue**, after 17 months of **baleful headlines and stifling lockdowns**.
 这样的淡定态度有可能部分源于一个事实，即英国的感染率虽然很高，但远未上升到政府官员上个月预测的解除所有新冠限制措施下会达到的感染水平。还有可能是大家只是倦怠了，毕竟可怕的头条 新闻和令人窒息的封锁持续了17个月的时间。

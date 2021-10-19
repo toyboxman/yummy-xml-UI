@@ -18,6 +18,7 @@
     - [systemd-analyze分析Linux启动时间](https://mp.weixin.qq.com/s/4Yc4s_fCyvuafJmBqFHK8g)
 	- [ARP攻击和防御](https://mp.weixin.qq.com/s/jwGbMwbLz6PDauhecEFVYg)
     - [Prometheus踩坑集锦](https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw)
+    - [监控体系思维导图](https://mp.weixin.qq.com/s/4hZOlZrGV6f-AOIdIhcvYw)
 
 + ***Blockchain***
     - [以太坊简介](https://mp.weixin.qq.com/s/YmzAFTT5jjCCTnzp9VSCgw)   
