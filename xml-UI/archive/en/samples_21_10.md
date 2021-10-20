@@ -298,4 +298,121 @@ During **the Gold Rush and railroad eras**, these men **served as cheap labor** 
 Immigration law usually **moves in lock step** with a country’s foreign policy goals. The day after **the bombing of Pearl Harbor** in 1941, the United States and China both declared war on Japan, which **prompted a two-year diplomatic effort** to **classify China as a long-term ally** of the United States. In response, Japan **began a propaganda campaign** that **recast the war as** a fight against **Anglo-Saxon imperialism** in the “**Greater East Asia Co-Prosperity Sphere**.”
 移民法通常与一个国家的外交政策目标同步发展。1941年珍珠港事件后的第二天，美国和中国都对日本宣战，这促使了为期两年的外交努力，将中国列为美国的长期盟友。作为回应，日本开始了一场宣传运动，将这场战争重塑为在“大东亚共荣圈”中对抗盎格鲁-撒克逊帝国主义。
 
+It always **feels like early autumn** in the Chinese painting galleries of the **Metropolitan Museum of Art**. The lighting is **warm but low**; the **décor, wheat-beige and nut-brown**. Despite **sparks of color**, the **ink-and-brush paintings** are visually **subdued**; their images can be hard to read from even **a short distance away**.   
+>beige[beɪʒ] 米色；原色哔叽；浅褐色的；米黄色的  
+>subdued[səbˈdud] 屈服的；被抑制的；减弱的    
 
+在大都会艺术博物馆的国画馆里，总有一种初秋的感觉。灯光温暖而昏暗；装潢使用小麦米色和坚果棕色。即使有星星点点的色彩，但在视觉上，水墨画是十分克制的。即使近看也不容易读解。
+
+And although the galleries hold the museum’s **permanent collection** of Chinese paintings, no picture **stays for long. Compared with Western-style oil painting** — a **hardy, meat-and-potatoes, survivalist medium** — Classical Chinese painting is **fragile**. Often done in ink on silk, it has two natural enemies: time and light. The danger is less that they will **fade the ink** than that they will **darken the silk**. Paintings depicting daylight scenes can **end up looking twilight-dim**.  
+>hardy 强壮的；适应力强的；耐寒的；勇敢的   
+>meat-and-potatoes 根本的；基本的；主要的；喜欢简朴的 
+
+虽然馆里展出的中国画是博物馆的永久收藏，但每一幅的展出时间都不太久。与坚固、凿实、易于保存的西方油画介质相比，中国古典绘画是脆弱的。通常用墨汁画在绢上的中国画有两大天敌：时间和光。它们的危险更多在于让绢变暗，而不是使墨水褪色。描绘白天场景的画最终可能看起来像是暮色降临。
+
+In paintings like “Winter Landscape,” **attributed to** the 16th-century artist Jiang Song, or “Autumn Colors Among Streams and Mountains” by the **great Ming dynasty** master Shen Zhou, nature **seems less to be depicted than hallucinated**. It’s **in motion**, in a state of **molecular dispersal**. Mountains **dissolve into** clouds, earth into water as you look.   
+>hallucinate[həˈlus(ə)nˌeɪt] (使)生幻觉   
+>in motion 在运转中；在开动中；在运动中    
+>molecular[məˈlekjələr] 分子的   
+>dispersal[dɪˈspɜrs(ə)l] 扩散；传播；弥散   
+>dissolve[dɪˈzɑlv] 使溶解；融化；分解    
+
+在16世纪画家蒋嵩的《冬景山水图》或明代大师沈周的《溪山秋色》等画作中，与其说是描绘自然，不如说是幻觉中的自然。它是动态的，处于一种分子弥散状态。当你观看的时候，山化为云，地化为水。
+
+Yet while many of these landscapes suggest **the operation of transiency**, they also **embody** a very specific cultural ideal: the possibility of escape from a crowded, **relentlessly urbanized world** to **reclusion in the psychologically gentler**, spiritually more **spacious realm** of Nature.   
+>embody[ɪmˈbɑdi] 使具体化，具体表现; 体现         
+>relentlessly 残酷地； 无情地     
+>reclusion  隐居遁世
+>gentler  gentle[比较级] 温和的；有礼貌的；文雅的     
+>spacious[ˈspeɪʃəs] 广阔的；广大的；宽敞的   
+>realm[relm] 范围；国土   
+
+虽然许多这些景色暗示着时光稍纵即逝，但它们也体现了一种非常具体的文化理想：能够逃离拥挤、无情的城市化世界，隐居在心境更温和、精神更广阔的自然。
+
+Reclusion had a long religious history in China, with **Buddhist and Daoist monks and priests** establishing **hermitages**, houses of **contemplation**, in remote sites. But in many of the landscapes at **the Met**, the **longing for retreat** also had a **secular, class-based** source. It was generated **largely** by an **educated urban elite attached to the cour**t or government, and **eager to escape the crush of** professional pressures and unpredictable politics.  
+>priest[prist] 祭司；神父    
+>hermitage[ˈhɜrmɪtɪdʒ] 隐居处；修道院   
+>contemplation[ˌkɑntəmˈpleɪʃ(ə)n] 沉思；深思；冥想   
+>long for 渴望; 盼望；思慕；  
+>retreat 撤退；退却；后退；隐居；隐退   
+>crush 碾碎；粉碎；压破  
+
+在中国，隐居有着悠久的宗教历史，佛教僧侣和道教道士在偏僻的地方建立了隐居地，可以冥想的地方。但在大都会博物馆的许多山水画中，对隐退的渴望也有一个世俗的、基于阶级的根源。产生这种渴望的人主要属于宫廷府衙中受过教育的城市精英，他们渴望摆脱职业压力和不可预测的官场。
+
+In other paintings, **by contrast**, the vision of **immersion** in nature **feels immediate and personal**. In a **handscroll** called “Summer Retreat in the Eastern Grove” by Wen Zhengming, one of the great Ming **painter-calligraphers**, the **human protagonist**, the seeker of retreat, is a mere **speck in a panorama of** hills, forests and lakes. And in “**Solitary** Traveler in the Mountains” by the 20th-century painter Fu Baoshi, you have to **hunt hard to find** the **pilgrim**-traveler. He’s **little more than a knot of ink** and paint **half-absorbed into** a **spectacle** of nature-as-energy.  
+>immersion[ɪˈmɜrʒ(ə)n] 浸入式；沉浸；专心；陷入  
+>handscroll 手卷   
+>calligrapher[kə'lɪɡrəfə(r)] 书法家   
+>speck[spek] 小点；肥肉；瑕疵；微粒    
+>panorama[pænəˈræmə] 全景摄影；全景图  
+>solitary[ˈsɑləˌteri] 孤独的；唯一的     
+>pilgrim[ˈpɪlɡrɪm] 朝圣者；清教徒；朝圣客   
+>knot[nɑt] 打结；结头；绳结     
+>spectacle[ˈspektək(ə)l] 精彩的表演；壮观的场面   
+
+相比之下，其他画作在视觉上让人即刻沉浸在大自然中并感到亲切。在明代书画大家文徵明的《东林避暑图》中，寻求隐居的人类主角只是山林湖泊全景中的一个小点。而在20世纪画家傅抱石的《游山图》中，你必须努力寻找，才能看到那个朝圣者。只花了一点点墨，他的身影像是被吸进了自然能量的奇观中。
+
+There was, for example, a **long-running vogue** for paintings that **incorporated** images of **custom-built rustic retreats**. These **served as** hermitages for certain **high-minded urban refugees** and as **vacation properties** for others.   
+>vogue [voʊɡ] 流行；时髦；风尚；  
+>incorporate 包含；吸收；合并；结合    
+>rustic 乡村的；土气；质朴的     
+>high-minded 品格高尚的；傲慢的；情操高尚的   
+
+例如，有一种长期流行的绘画风格，其中包含自建的乡村隐居地的图像。这些是某些高雅的远离喧嚣者的避难所，也是其他人的度假胜地。
+
+And reclusion wasn’t necessarily a rural or **solitary condition**. If you had the **desire, and the means**, you could bring the country into the city by building your own **walled mini-Eden**. Wen Zhengming was born in Suzhou, and after **taking a stab at making it big** in Beijing, and failing, he went back home.    
+>make it big 炒热它；天降横财；成名    
+>take a stab at  试图做某事；试试看
+
+隐居不一定要在农村或闭关。如果你有愿望和手段，你可以通过建造自己的带围墙的迷你伊甸园，将乡村带入城市。文徵明出生在苏州，曾尝试在北京大展宏图，失败后回到家乡。
+
+The **breezy pavilion complex** in Wu Li’s **marvelous, God’s-eye-view** 1679 scroll called “**Whiling Away** the Summer at the **Ink-Well Thatched Hut**,” looks **suitable** for either purpose, though the artist **ended up** not staying there. Two years after he finished the painting he had himself **baptized** as a Christian, then **ordained** as a Roman Catholic priest. He died doing **missionary** work in **bustling** Shanghai.   
+>breezy[ˈbrizi] 通风良好的；有微风的；微风阵阵   
+>pavilion[pəˈvɪlj(ə)n] complex 凉亭建筑群     
+>marvelous  奇异的；〈口〉妙极的；了不起的  
+>while away 消磨；消磨时间  
+>thatch[θætʃ]  草屋顶    
+>hut 棚屋；茅屋    
+>baptize[bæpˈtaɪz] 洗礼；施洗礼；受洗     
+>ordain[ɔrˈdeɪn] 任命；(命运)注定；(法律等)规定；任命(牧师,圣职)   
+>missionary 传教的    
+>bustling[ˈbʌs(ə)lɪŋ] 熙熙攘攘的; 繁华    
+
+《墨井草堂消夏图》中的凉亭建筑群均适用于这两种用途，尽管艺术家最终没有留在那里。这是吴历在1679年创作的一幅上帝视角的奇观卷轴。完成这幅画两年后，他受洗成为基督徒，然后被任命为罗马天主教神父。他在繁华的上海传教时去世。
+
+In China, painting, like **poetry** — the two are closely linked through calligraphy — was an **inherently** social art, to be shared. Get-togethers of **like-minded** creatives were common, and some became the stuff of legend. One of the most famous took place in 353 A.D. when the artist-scholar Wang Xizhi **threw a party** for some 40 **professedly loner friends** at a retreat called **the Orchid Pavilion**.   
+>like-minded 想法相同的；志趣相投的   
+>inherently[ɪn'herəntlɪ]  固有的；天性地   
+>throw a party 举办派对；举行宴会   
+>orchid[ˈɔrkɪd] 兰花；淡紫色   
+
+绘画和诗歌一样——二者通过书法紧密相连——从根本上是一种社交艺术，是用来分享的。志同道合的创作者聚在一起的场面很常见，有的本身也成了传奇。其中最著名的一场聚会发生在公元353年，当时文人艺术家王羲之在一个叫兰亭的隐居地宴请了约40位喜欢独来独往的朋友。
+
+**Wine flowed**; so did poetry; and so, finally, did **autumn-tinged** reflections on time passing and **mortality**. Wang **wrote up** the event; thanks to **copyists**, his account **went viral**, and the **Orchid Pavilion Gathering** became an **evergreen subject** for painting  
+>tinge[tindʒ] 淡黄染棉；染色的；淡色的     
+>mortality[mɔrˈtæləti] 病死率；致命性；必死性   
+>write up  详细描写；把…写成文；写文章赞扬   
+>copyists 誊写者；模仿者；剽窃者  
+>evergreen 常青树；常绿的    
+
+他们纵酒吟诗，最后在一派秋色之中反思了时光的流逝和人的生死。王羲之挥毫记载了这一聚会，并经过他人的临摹流传开来。而兰亭聚会也成了一个永恒的绘画主题  
+
+The most obvious one is the reminder that “Companions in Solitude” gives of how **beautiful, varied, and demanding** to mind and eye **alike** the Chinese landscape painting tradition is. So **fine-grained** are its formal beauties and **subtly-stated** its themes that it’s an art easy to simply **pass by**, until you stop, and look and **fall in love**.   
+>varied[ˈverid] 不同的；各式各样的 [vary]的过去式和过去分词   
+>alike[əˈlaɪk] 相同的；相似的；相像的  
+>fine-grained 细粒度；细粒度的  
+>pass by 路过；走过；忽略     
+>fall in love 坠入爱河；爱上       
+
+最显而易见的就是，《幽居有伴》提醒了我们，中国山水画的传统是多么美丽、丰富，多么需要心灵和眼睛的欣赏。它的形式美是如此精致，主题是如此微妙，以至于它是一种很容易被忽视的艺术，直到你停下脚步，仔细审视，并着迷不已。
+
+And **resonances** between past and present are **striking**. In the **aftermath** of Covid lockdown, solitude, **ideal and real**, feels like a more complicated condition than it once was. The same is true of **communion**, now shaped by new technological interfaces and continuing **hesitations**. At a time of **acute environmental consciousness**, the **terrestrial vision** projected by Chinese landscape painting — of the world, not as a collection of **disparate, disposable** material parts, but as a single, **responsive organism** — has immediate **pertinence**.  
+>resonance[ˈrezənəns] 共鸣；回声；反响   
+>aftermath 后果；余波   
+>communion[kəˈmjuniən] 教会；（思想感情的）交流；教派    
+>acute 尖锐的；剧烈的    
+>terrestrial[təˈrestriəl] 陆地的；陆栖的；地面   
+>disparate[dɪˈsperət] 由不同的人（或事物）组成的；迥然不同的   
+>disposable[dɪˈspoʊzəb(ə)l] 可任意使用的；抛弃式；一次性使用的   
+  
+昨天与今天之间的共鸣十分引人注目。在新冠疫情的封锁之后，孤独、理想和现实之间的关系似乎比以往更加复杂。在新科技交互与持续疑虑的影响下，人与人的交流也变得如此。在一个保持敏锐环保意识的时代，中国山水画所反映的人间愿景——世界并非由全不相干、用完即弃的物质集合而成，而是一个独立、灵敏的有机体——具有直接的关联性。

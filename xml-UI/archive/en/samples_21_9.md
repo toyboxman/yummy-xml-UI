@@ -156,37 +156,70 @@ But as the company has grown into **a behemoth** with more than a quarter-millio
 
 但随着公司发展成为一个拥有逾25万名员工的庞然大物，曾经看似好玩的惯例现在似乎不那么单纯了。
 
-Andrew Lloyd Webber’s **musical “Cinderella” made its glittering debut** in the West End after **multiple Covid-related delays**. On the subway, where masks are still mandatory, half of the riders **go barefaced**.
-安德鲁·劳埃德·韦伯的音乐剧《灰姑娘》在多次因新冠疫情推延后，终于在?区(West End)闪亮登场。地铁仍然强制要求乘客戴口罩，但一半的乘客都露着脸。
+Andrew Lloyd Webber’s **musical “Cinderella” made its glittering debut** in the West End after **multiple Covid-related delays**. On the subway, where masks are still mandatory, half of the riders **go barefaced**.  
+>glittering[ɡlɪtərɪŋ] 辉煌的；成功的；盛大的；  
+>debut[deɪˈbju] 初次登场；首次上场；出道   
+>barefaced[berˈfeɪst] 厚颜无耻的；露骨的；公然的; 没带面具的       
 
-Some of that **equanimity may stem from the fact** that Britain’s case rate, while high, has not yet **risen anywhere near** the level that government officials predicted when they **lifted virtually all Covid restrictions** last month. And some of it may **simply reflect fatigue**, after 17 months of **baleful headlines and stifling lockdowns**.
+安德鲁·劳埃德·韦伯的音乐剧《灰姑娘》在多次因新冠疫情推延后，终于在西区(West End)闪亮登场。地铁仍然强制要求乘客戴口罩，但一半的乘客都露着脸。
+
+Some of that **equanimity may stem from the fact** that Britain’s case rate, while high, has not yet **risen anywhere near** the level that government officials predicted when they **lifted virtually all Covid restrictions** last month. And some of it may **simply reflect fatigue**, after 17 months of **baleful headlines and stifling lockdowns**.   
+>equanimity[ekwəˈnɪməti] 镇定；平静；沉着    
+>stem from 起源于；源自    
+>baleful[ˈbeɪlfəl] 有害的；恶意的；邪恶的     
+>stifling[ˈstaɪf(ə)lɪŋ] 令人窒息的；沉闷的    
+
 这样的淡定态度有可能部分源于一个事实，即英国的感染率虽然很高，但远未上升到政府官员上个月预测的解除所有新冠限制措施下会达到的感染水平。还有可能是大家只是倦怠了，毕竟可怕的头条 新闻和令人窒息的封锁持续了17个月的时间。
 
-**Epidemiologists are loath to** make specific predictions because many **were proved wrong** in July when cases **fell immediately** after “Freedom Day,” when most restrictions were lifted.
+**Epidemiologists are loath to** make specific predictions because many **were proved wrong** in July when cases **fell immediately** after “Freedom Day,” when most restrictions were lifted.   
+>loath[loʊθ] 勉强的；不情愿的；     
+
 流行病学家不愿做出具体预测，因为许多人的预测在7月被证明是错误的，在“自由日”之后，大多数限制都被取消了，病例数却立即下降了。
 
-Hospitalizations are rising, however, **as is the fatality rate**. With a backlog of patients with other illnesses, doctors say the National Health Service has **little slack** to **cope with** another **influx of** Covid victims.
-然而，住院人数正在上升，死亡率也在上升。医生们表示，如果涌入新一轮新冠患者，全?医疗服务体系将几乎没有喘息的空间。
+Hospitalizations are rising, however, **as is the fatality rate**. With a backlog of patients with other illnesses, doctors say the National Health Service has **little slack** to **cope with** another **influx of** Covid victims.   
+>slack 懈怠的；懒散的；萧条的；淡季 松弛地；缓慢地；   
+>cope with 处理；应对；解决     
+>influx of 涌入；涌进    
 
-The government of Prime Minister Boris Johnson, **preoccupied with the chaotic military withdrawal** from Afghanistan, has said **little about** the rising hospital numbers — or **indeed about** the pandemic at all — in recent weeks.
+然而，住院人数正在上升，死亡率也在上升。医生们表示，如果涌入新一轮新冠患者，医疗服务体系将几乎没有喘息的空间。
+
+The government of Prime Minister Boris Johnson, **preoccupied with the chaotic military withdrawal** from Afghanistan, has said **little about** the rising hospital numbers — or **indeed about** the pandemic at all — in recent weeks.    
+>preoccupied[priˈɑkjəˌpaɪd] 被先占的；出神的；全神贯注的     
+
 几周来，英国首相约翰逊政府的注意力被阿富汗撤军的混乱局面占据，几乎没有提及住院人数的增加——或者根本没有提及大流行。
 
-**Relieved** that the more **gloomy predictions of spiraling** cases have not **materialized**, the government argues that its strategy has been **vindicated**, with infections manageable because of the success of its vaccination campaign.
+**Relieved** that the more **gloomy predictions of spiraling** cases have not **materialized**, the government argues that its strategy has been **vindicated**, with infections manageable because of the success of its vaccination campaign.  
+>gloomy[ˈɡlumi] 阴沉的；令人沮丧的；阴郁的  
+>spiral[ˈspaɪrəl] 螺旋式上升（或下降）；盘旋上升（或下降）；急剧增长  
+>materialize[məˈtɪriəˌlaɪz] 具体化；实现  
+>vindicate[ˈvɪndɪˌkeɪt] 维护；为…辩护；证明正确的；平反        
+
 病例飙升的悲观预测并没有成为现实，政府感到松了一口气，认为其策略已得到证实，由于疫苗接种活动取得成功，感染是可控的。
 
-The **rollout of** the vaccine program for adults has been **incredibly impressive**, but, for children and young people it has been **frankly shambolic**
+The **rollout of** the vaccine program for adults has been **incredibly impressive**, but, for children and young people it has been **frankly shambolic**    
+>shambolic[ʃæm'bɑlɪk] 混乱的；没有次序的；乱七八糟的        
+
 针对成人的 疫苗计划推出非常成功，但坦率地说，针对少年儿童的疫苗计划一直是混乱无序的。
 
-**At the same time**, public **observance of measures** to **contain the spread** of the virus **seems to be slipping**, a factor that some epidemiologists said **accounted for** Britain having a higher case rate than countries like France and Spain, where infections are now falling.
-与此同时，公众在遵守遏制病毒传播措施方面似乎逐渐掉以轻心，一些流行病学家表示，这一因素导致英国的病例率高于法国和?班牙等国家，这些国家的感染率目前正在下降。
+**At the same time**, public **observance of measures** to **contain the spread** of the virus **seems to be slipping**, a factor that some epidemiologists said **accounted for** Britain having a higher case rate than countries like France and Spain, where infections are now falling.    
+>observance[əbˈzɜrvəns] 遵守(法律,规则,传统等)    
 
-For some who **objected to** Britain’s **recurring lockdowns**, the return to **normalcy** was both welcome and **overdue**. But some said the **tensions** between freedom and security could **easily resurface**.
+与此同时，公众在遵守遏制病毒传播措施方面似乎逐渐掉以轻心，一些流行病学家表示，这一因素导致英国的病例率高于法国和西班牙等国家，这些国家的感染率目前正在下降。
+
+For some who **objected to** Britain’s **recurring lockdowns**, the return to **normalcy** was both welcome and **overdue**. But some said the **tensions** between freedom and security could **easily resurface**.   
+>overdue 逾期；过期未付的；迟到的; 早应完成的
+
 对于一些反对英国反复封锁的人来说，恢复正常是值得欢迎的，也早该这样做了。但有些人表示，自由与安全之间的紧张关系很容易重新出现。
 
-Other critics blame the government’s **mixed messages**, pointing to members of Mr. Johnson’s Conservative Party, many of whom **abandoned their masks** when they returned to **a crowded chamber of Parliament** recently to discuss Afghanistan. The government’s **official position** is that people should **wear face coverings when confined indoors**.
+Other critics blame the government’s **mixed messages**, pointing to members of Mr. Johnson’s Conservative Party, many of whom **abandoned their masks** when they returned to **a crowded chamber of Parliament** recently to discuss Afghanistan. The government’s **official position** is that people should **wear face coverings when confined indoors**.   
+>confined[kənˈfaɪnd] 被限制的；封闭的；狭窄的    
+
 其他批评者指责政府的信息矛盾，将矛头指向约翰逊的保守党成员，其中许多人最近回到拥挤的议会会议厅讨论阿富汗问题时没有戴口罩。政府的官方立场是，人们在室内时应该戴口罩。
 
-The **intensity has gone out of** the debate, but it will come back if there is another wave, If it does come back, we’ll then be in the position that even the vaccines don’t work. What is the **exit route**? a former justice on Britain’s Supreme Court who has been **an outspoken critic** of the lockdowns.
+The **intensity has gone out of** the debate, but it will come back if there is another wave, If it does come back, we’ll then be in the position that even the vaccines don’t work. What is the **exit route**? a former justice on Britain’s Supreme Court who has been **an outspoken critic** of the lockdowns. 
+>outspoken 坦率的；直言的；   
+>exit[ˈeksɪt]
+
 辩论的激烈程度已减弱，但如果再出现一轮疫情，它还会卷土重来。如果疫情重来，那么我们就会陷入即使疫苗也不起作用的境地。我们有什么退路? 英国最高法院前法官始终直言不讳地批评封锁措施
 
 **‘Reversing Gears’**: China Increasingly Rejects English  
