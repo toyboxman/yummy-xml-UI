@@ -111,8 +111,8 @@ Chinese parents complained that children **constantly found new ways to sneak pa
 中国父母抱怨说，孩子们总能找到新的方法来逃避游戏时间的限制。很多“家长反映，自己的孩子沉迷手机网络游戏后，脾气和性格较之前大不相同，甚至像是变了一个人一样”。
 
 The woman, who has **been identified by** the police and her lawyers only **by her surname**, Zhou, said bosses and human resources had **shrugged off her complaints**. She eventually **resorted to screaming** about the assault in **a company cafeteria** last month.   
->shrugged off (耸肩)表示轻蔑[不屑]；摆脱；
->resorted to 诉诸于；求助于；采取措施  
+>shrugged off (耸肩)表示轻蔑[不屑]；摆脱；    
+>resorted to 诉诸于；求助于；采取措施     
 >cafeteria[kæfəˈtɪriə] 自助餐馆；咖啡厅          
 
 警方和她的律师称她为周女士。周女士说，领导和人力资源部对她的投诉置之不理。在上个月，她最终诉诸于在公司食堂大声高喊这一侵犯事件。
