@@ -416,3 +416,99 @@ And **resonances** between past and present are **striking**. In the **aftermath
 >disposable[dɪˈspoʊzəb(ə)l] 可任意使用的；抛弃式；一次性使用的   
   
 昨天与今天之间的共鸣十分引人注目。在新冠疫情的封锁之后，孤独、理想和现实之间的关系似乎比以往更加复杂。在新科技交互与持续疑虑的影响下，人与人的交流也变得如此。在一个保持敏锐环保意识的时代，中国山水画所反映的人间愿景——世界并非由全不相干、用完即弃的物质集合而成，而是一个独立、灵敏的有机体——具有直接的关联性。
+
+It was a **sobering** announcement, and an **unnervingly familiar** one. Nearly two decades earlier, a different coronavirus had **hurdled over the species barrier** and **sped around** the world, causing a **lethal** new disease called **severe acute respiratory syndrome**, or SARS.    
+>sobering[ˈsoʊbərɪŋ] 令人警醒的；使人冷静的 [sober]的现在分词     
+>unnerve[ʌnˈnɜrv] 使失去意志力；使身心交疲; 令人胆怯  
+>hurdle 篱笆；难关；障碍;  跳越（某物）      
+>species[ˈspisiz] 物种；种类     
+>sped[sped] [speed]的过去式和过去分词形式    
+>lethal[liθl] 致命的；可致死的；危害极大的；   
+>acute 十分严重的；（疾病）急性的；灵敏的；   
+>respiratory[ˈresp(ə)rəˌtɔri] 呼吸的  
+
+这是个令人警醒的声明，而可怕的是，这个情景并不陌生。大约20年前，另一种冠状病毒跨越了物种屏障，在世界各地快速传播，引发了一种致命的新疾病——严重急性呼吸系统综合征，即SARS。
+
+But even as scientists worried that history might be **repeating itself**, there was **one glimmer of hope**. Although all viruses evolve, coronaviruses are known to be **relatively stable**, changing more slowly than the **common flu**. Even for a virus, evolution is **a long game**, and our relationship with SARS-CoV-2 is still **in its infancy**. We are **extremely unlikely to eradicate** the virus, scientists say      
+不过，尽管科学家们担心历史可能会重演，但还是有一线希望。虽然所有的病毒都会进化，但根据目前的了解，冠状病毒相对稳定，变化比普通流感慢。即使对于病毒来说，进化也是一个漫长的过程，我们与SARS-CoV-2的关系仍处于开始阶段。科学家们说
+
+Viruses are **replication** machines, **hijacking** our cells to make copies of their own **genomes**. Sometimes they make small mistakes, **akin to typos**, as they replicate. **Occasionally**, a virus **hits the genetic lottery**: a **mutation** that **confers** an advantage. This **fitter** version of the virus can then **outcompete** its peers, **giving rise to** a new variant.
+>genome[ˈdʒiˌnoʊm] 基因组；基因图谱     
+>akin[əˈkɪn] 相似的；类似的    
+>typo[taɪpoʊ] 拼写错误；打字稿；错别字   
+>mutation[mjuˈteɪʃ(ə)n] 基因突变；变异；改变  
+>confer[kənˈfɜr] 赋予；商谈；协商    
+>outcompete 在竞争中胜出   
+>give rise to 引起；导致；使发生   
+
+病毒是复制机，劫持我们的细胞来复制自己的基因组。有时它们在复制过程中会犯一些小错误，这类似于错别字。偶尔，病毒会中基因彩票：一种带来优势的突变。这种更合适的病毒版本在竞争中胜出，从而导致新的变种产生。
+
+The coronavirus could **shift in countless ways**, but there are three concerning possibilities: It could become more **transmissible**, it could become better at **evading our immune system** or it could become more **virulent**, causing more serious disease.   
+>countless 数不清的；不计其数的；   
+>evade  规避；避开    
+>virulent[ˈvɪrələnt] 致命的；恶性的；剧毒的
+
+冠状病毒可能会以无数种方式变化，但有三种可能性令人担忧：可能会变得更具传播性、可能会更善于绕过我们的免疫系统、可能会变得更具毒性，导致更严重的疾病。
+
+Transmission requires one person to **somehow exhale or cough or breathe out** the virus, and it to **land in someone else’s airway** and infect them    
+>exhale[eksˈheɪl] 呼气；呼出     
+>airway 呼吸道；航路 
+
+传播需要一个人以某种方式通过呼气或咳嗽传出该病毒，然后病毒进入其他人的呼吸道，感染他们
+
+**In addition to** becoming more transmissible, some variants have also **acquired the ability to dodge** some of our antibodies. Antibodies, which can prevent the virus from **entering** our cells, are **engineered to latch onto** specific molecules on the surface of the virus, **snapping into** place like puzzle pieces. But **genetic mutations** in the virus can change the shape of those binding sites. **Meanwhile**, as the number of **completely vulnerable hosts dwindles**, and transmission slows, the virus will have fewer opportunities to mutate.
+>dodge[dɑdʒ] 避开；躲开；（尤指不诚实地）逃避     
+>latch[lætʃ] 获得；抓住；门闩；插销     
+>latch onto 理解；不让…离去; 接近    
+>engineer 密谋策划；设计制造；改变…的基因（或遗传）结构  
+>snap into 卡入；快速进入    
+>dwindle[ˈdwɪnd(ə)l] 减少；变瘦；缩小；退化
+
+除了变得更具传染性之外，一些变体还获得了躲避我们某些抗体的能力。抗体可以阻止病毒进入我们的细胞，它被设计成粘附在病毒表面的特定分子，像拼图碎片一样扣在上面。但病毒中的基因突变可以改变这些结合点的形状。与此同时，随着完全脆弱的宿主数量减少，传播速度减慢，病毒变异的机会就会减少。
+
+**Eventually**, as viral evolution **slows down** and our immune systems **catch up**, we will **reach an uneasy equilibrium** with the virus, scientists predict. We will never **extinguish** it, but it will **smolder rather than rage**.
+>equilibrium[ekwɪˈlɪbriəm] 平衡；均势；安宁     
+>extinguish[ɪkˈstɪŋɡwɪʃ] 偿清；压制；灭火; 毁灭    
+>smolder[ˈsmoʊldər] 同[smoulder]  慢燃；熏烧；(愤怒等)在心中燃烧    
+
+科学家预测，最终，随着病毒进化放缓，我们的免疫系统也会赶上来，我们将与病毒达到一种不稳定的均势。我们永远不会消灭它，但它会缓慢燃烧而不会变成熊熊大火。
+
+This notebook **contains spoilers**. If you know that **you’re supposed to have watched** Netflix’s South Korean **puzzle box “Squid Game” by now**, but you’ve been **lucky or prudent** enough not to, here’s some of what you’re missing.   
+>spoiler 尾翼；剧透    
+>puzzle box 迷箱；秘密盒；       
+>by now 到目前为止；到如今    
+>prudent[ˈprud(ə)nt] 审慎的；明智的
+
+本文有剧透。如果你觉得你本应看过网飞的韩国悬疑剧集《鱿鱼游戏》，但因为足够幸运或足够谨慎还没看的话，下面是一些你错过的东西。
+
+There’s the **eye-catching** — though not especially interesting — production design and **costuming, glimpses of** which you **may have caught on** social media. Escher-like stairways and **over-scaled, toy-chest décor**, along with the **monochromatic jumpsuits and forbidding masks**, recall **dystopian** favorites like “The Prisoner,” “The Handmaid’s Tale” and Netflix’s own “Money Heist.”     
+>eye-catching 惹人注意的；引人注目的    
+>costume 服装；衣服；戏服   
+>over-scaled 超大的   
+>toy-chest 玩具箱      
+>monochromatic[mɒnəkrə'mætɪk] 单色的；单色设计；单色搭配   
+>jumpsuit 连身衣   
+>forbidding 冷峻的；令人生畏的    
+>dystopian 反乌托邦    
+
+片中有引人注目（尽管不是特别有意思）的制作设计和服装，其中一些你可能已在社交媒体上看到过。埃舍尔式的楼梯、超大的玩具箱布局，以及单色运动服和令人生畏的面具，让人想起热门的反乌托邦片，比如《囚徒》、《使女的故事》，以及网飞自己的《纸钞屋》。
+
+The story’s **hapless** protagonists, **sequestered** on a remote island, are forced to play **elaborately staged and deadly** versions of childhood games, some familiar to Western viewers (**tug of war**, red light-green light) and some, like the squid game of the title, specific to Korea. Alliances **form and shift**; players **reveal their true makeups**; losers are immediately **gunned down**.   
+>hapless[ˈhæpləs] 倒楣的；运气不好的     
+>sequester[sɪˈkwestər] 隔离（避免陪审团与公众接触）    
+>elaborately[ɪ'læbərətlɪ] 精心地；勉勉强强地；详尽阐述地  
+>tug of war 拔河    
+>makeup 化妆品；组成；性格；体格
+
+剧中，不幸的主角们被困在一个偏僻的岛上，被迫玩经过精心策划、夺人性命的小孩游戏，其中有些是西方观众熟悉的（拔河、红灯绿灯小白灯[即剧中的木头人游戏——编注]），有些是韩国特有的，比如片名中的鱿鱼游戏。联盟的形成和变化；玩家揭示自己的真实本质；失败者会被立即枪毙。
+
+The setup is a **commentary** on the **rigid class stratification** of South Korea, and a pretty obvious **allegory**: Losers in the **rigged game** of the Korean economy, the players have a chance to win in the (**supposedly**) more **merit-based, egalitarian arena** of the squid game, but at the risk of almost certain death.
+>rigid[rɪdʒɪd] 死板的；严格的；僵硬的    
+>stratification[strætɪfɪˈkeɪʃ(ə)n] 分层；成层   
+>allegory[ˈæləɡəri] 寓意；寓言；比喻；  
+>rigged 作弊的；非法操纵的    
+>egalitarian[ɪˌɡælɪˈteriən] 平等主义者；平均主义；主张平等的    
+>arena[əˈrinə] 竞技场；圆形运动场；圆形剧场；竞争舞台
+
+这一设置是对韩国僵化的阶级分层的评注，也是一个明显的寓言：在韩国经济的操纵游戏中，玩家们都成了失败者，他们有机会在鱿鱼游戏这个（据说）更加以实力为基础的平等主义舞台上获胜，但要冒着几乎必死的风险。
+
