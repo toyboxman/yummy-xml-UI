@@ -512,3 +512,147 @@ The setup is a **commentary** on the **rigid class stratification** of South Kor
 
 这一设置是对韩国僵化的阶级分层的评注，也是一个明显的寓言：在韩国经济的操纵游戏中，玩家们都成了失败者，他们有机会在鱿鱼游戏这个（据说）更加以实力为基础的平等主义舞台上获胜，但要冒着几乎必死的风险。
 
+A Brazilian **congressional panel is set to** recommend that President Jair Bolsonaro be charged with “**crimes against humanity**,” asserting that he **intentionally** let the coronavirus **rip through the country** and kill hundreds of thousands in **a failed bid** to **achieve herd immunity** and revive Latin America’s largest economy.   
+>rip through 突进，横撞直闯；裂开，破裂
+
+一个巴西国会小组将建议对总统贾尔·博尔索纳罗)提出“危害人类罪”指控，声称他故意让新冠病毒席卷全国并导致数十万人死亡，为了实现群体免疫和重振拉丁美洲最大的经济体做出了失败的尝试。
+
+But in **deeply polarized** Brazil, it **reflects the depths of anger** against a leader who refused to **take the pandemic seriously**. The report may prove a major **escalation** in the challenges confronting Mr. Bolsonaro, who took office in 2019, faces re-election next year and is **suffering falling popularity**.      
+但在两极分化严重的巴西，它反映了人们对拒绝认真对待疫情的领导人的深深愤怒。博尔索纳罗于2019年上任，明年将面临连任竞选，并且人气正在下降，该报告也许可以说明博尔索纳罗所面临的挑战出现了重大升级。
+
+The report’s **findings culminate** a six-month investigation by a special Covid-19 Senate committee that held more than 50 **hearings** and often led the nightly news broadcasts. They became **must-see** television in Brazil, **featuring testimony** about **bribery schemes and disinformation operations**. One lawmaker wore a **bulletproof vest** to testify that some vaccine purchases included **kickbacks**.    
+>culminate[ˈkʌlmɪˌneɪt] 达到顶点；达到高潮；（以某种结果）告终
+
+该报告的调查结果来自参议院Covid-19特别委员会为期六个月的调查，该委员会举行了50多次听证会，并经常出现在夜间新闻广播。他们成为巴西人必看的电视节目，节目中包含有关贿赂计划和虚假信息操作的证词。一位议员在作证时穿着防弹背心，称某些疫苗的购买存在回扣。
+
+In addition to the charge of crimes against humanity, the report recommends eight **additional charges against** Mr. Bolsonaro, including **forging documents and incitement to crime**. Mr. Calheiros said that if the **attorney general** did not pursue charges against the president, the senate committee would seek other **potential legal avenues**, including in Brazil’s Supreme Court and the **International Criminal Court in The Hague**.
+>forge 伪造；铸造；制定    
+>incitement[ɪnˈsaɪtmənt] 煽动；鼓动   
+>avenue[ˈævəˌnu] 途径；林荫大道；   
+
+除了“危害人类罪”外，报告还建议对博尔索纳罗提出另外八项指控，包括伪造文件和煽动犯罪。卡列罗斯说，如果总检察长不对总统提出指控，参议院委员会将寻求其他可能的法律途径，包括巴西最高法院和海牙国际刑事法院。
+
+Mr. Bolsonaro’s views on the pandemic were **amplified** by a **coordinated** network of **conservative pundits**, social-media influencers and **anonymous online profiles**, who **railed against** lockdowns and masks, pushed unproven drugs, questioned vaccines and claimed that Brazil’s death count was **exaggerated**, according to the report.    
+>amplify[ˈæmplɪˌfaɪ] 放大；夸大；【电】增强(电流等)   
+>pundit[ˈpʌndɪt] 专家；评论员    
+>rail against  抱怨；责骂；嘲骂    
+
+报告指出，保守派专家、社交媒体上的网红和匿名网民组成的网络统一行动，放大了博尔索纳罗对疫情的看法。这些人抨击封锁措施和戴口罩的要求，推销未经证实的药物，质疑疫苗，并声称巴西的死亡人数被夸大了。
+
+**A number of factors** have driven this shift, including international pressure, national efforts to **combat corruption**, greater support for **tackling wildlife crime** and a more strategic, **intelligence-led approach** to investigating **trafficking networks**, Lin is only one of many who have been targeted through this approach, **resulting in arrest, prosecution and conviction**. This was **definitely not a blip**.
+>blip 标志；标记；光点   
+
+许多因素推动了这一转变，包括国际压力、国家打击腐败的努力、对解决野生动物犯罪的更大支持以及更具战略性、以情报为主导的贩运网络调查。这种办法已经被用来对付许多人，林云华只是其中之一，他因此被逮捕、起诉和定罪，这绝对不是昙花一现。
+
+The sentencing of Mr. Lin — the **highest-ranking** wildlife criminal prosecuted to date in Malawi, For Malawi, this shows that there’s no **sacred cow**. We wish to encourage others in Africa and beyond to **take the same stance**. Malawi is no longer a **playground for kingpins**, We want to **deal decisively with** wildlife crime. 
+>sacred[ˈseɪkrid] cow  圣牛；神圣不可侵犯；不可侵犯之物    
+>decisively[dɪˈsaɪsɪvlɪ] 决然地；果断的；决定性地    
+
+林云华的判决是一次重大胜利——他是马拉维迄今为止被起诉的级别最高的野生动物罪犯，对于马拉维来说，这表明没有无法打倒的犯罪. 我们希望鼓励非洲及其他地区的其他人采取同样的立场。马拉维不再是犯罪头目的游乐场，我们希望彻底处理野生动物犯罪。
+
+About 100 miles away, **across the straits**, is mainland China, with 1.4 billion people. They are **the same ethnicity, speak the same language and eat the same food** as the people of Taiwan.    
+>ethnicity[eθˈnɪsəti]  民族性；种族渊源；种族特点   
+
+大约160公里外，海峡对面是拥有14亿人口的中国大陆。他们和台湾人同文同种，吃同一种食物。
+
+And since it is the main supplier of chips for Apple products, TSMC is **constantly being pushed to go beyond the frontiers of innovation** to **accommodate Apple’s nonstop and short product cycles** for new phones and iPads. It forces the whole TSMC ecosystem to **get better and better, faster and faster**. So TSMC’s costs keep going down, the value of its **ecosystem keeps going up** and the number of people who can join and benefit from it keeps **getting wider and wider**.    
+而且由于它是苹果产品的主要芯片供应商，台积电不断推进以超越创新的前沿，以适应不断快速迭代的苹果新手机和iPad。它迫使整个台积电生态系统变得越来越好、越来越快。所以台积电的成本不断降低，其生态系统的价值不断上升，可以加入并从中受益的人数越来越多。
+
+Intel, America’s **premier chip maker, kind of lost its way**, making everything **by itself and for itself**. So it did not have customers pushing it, because Intel was its own customer, and as a result it became **complacent**.
+>complacent[kəmˈpleɪs(ə)nt] 洋洋自得；满足的；飘飘然    
+
+美国首屈一指的芯片制造商英特尔有点迷失了方向，独自为自己制造所有东西。它没有客户来推动它，因为英特尔就是它自己的客户，因此它变得自满。
+
+“Made in China 2025,” the plan to **dominate** all the new 21st-century technologies — would **leave the West in the dust**. But I **worry a little less** now. The biggest thing you learn from studying the chip industry is that all its most advanced technologies today are so complex — requiring so many inputs and **super-sophisticated equipment** — that no one has **the best of every category**, so you need a lot of trusted partners.   
+>sophisticated[səˈfɪstɪˌkeɪtəd] 见多识广的；老练的；见过世面的；老于世故的；很复杂的    
+
+“中国制造2025”计划主宰21世纪所有新技术——会一骑绝尘地将西方抛在后面。但我现在担心的少了一点。你从研究芯片行业中学到的最重要的事情是，当今所有最先进的技术都非常复杂——需要大量的投入和超精密的设备——以至于没有人精通所有方面，所以你需要很多值得信赖的伙伴。
+
+China Evergrande, the troubled property giant that is **teetering on the edge of collapse**, appears to have **bought itself a little more time**. This week, one of those deals — **largely seen as a last-ditch lifeline — fell through**.   
+>teeter[ˈtiːtə(r)] 蹒跚；摇晃；倾斜；摇摇欲坠   
+>last-ditch 已无后退余地的；最后防线的   
+>lifeline 十万火急；命根子；救生绳   
+>fall through 落空；成为泡影；失败
+
+陷入困境、濒临倒闭的房地产巨头中国恒大似乎为自己争取了一点时间。本周，其中一项在很大程度上被视为救命稻草的交易宣告失败。
+
+They have **pledged to clean up** China Inc.’s mountain of debt and end the property sector’s **binge borrowing habits**. Evergrande’s financial troubles have already **spilled over to** other developers, three of which have **defaulted on** their own debt in recent days. Evergrande will update the market **as appropriate** on **material progress** made in **easing its liquidity issue**  
+>pledge[pledʒ] 承诺；发誓；给予    
+>binge[bɪndʒ] 寻欢作乐；大吃大喝；暴食   
+>spill over 外溢；溢出效应；外溢效果     
+>material progress 实质性进展  
+>liquidity[lɪˈkwɪdəti] 流通性；流动资金    
+
+现在他们承诺清理中国公司的巨额债务，并结束房地产行业大肆借贷的习惯。恒大的金融困难已经波及到其他开发商，其中三家最近都在债务问题上违约. 恒大将适时向市场通报在缓解流动性问题方面取得的实质性进展
+
+**Behind the scenes**, however, authorities appear to be pushing buyers toward Evergrande’s assets so that the developer can **fend off circling creditors**     
+>fend off 挡开；抵御；避开(灾祸等)   
+>circling [circle]的现在分词 盘旋的；环绕的    
+
+然而，在幕后，当局似乎正在推动潜在买家收购恒大的资产，以便该开发商能够应对紧追不放的债权人
+
+Now, with cases, hospital admissions and deaths all rising again; the effect of vaccines **beginning to wear off**; and **winter looming**, Britain’s strategy of learning to **live with the virus** is coming under its **stiffest** test yet. The number of people **admitted to** hospitals rose 15.4 percent over the same period, reaching 959. Everything is hitting us at once, My view is that we’re **in a no man’s land**.  
+>wear off (精力)衰退；逐渐消失；(衣服等)磨损；渐渐减少    
+>stiff 僵直的；拘谨的；生硬的    
+
+现在，随着病例、入院和死亡数量上升，疫苗的作用开始减弱，加上冬天临近，英国逐渐与病毒共存的策略正面临最严峻的考验。同期入院人数增加了15.4%，达到959人. 一切都在同时打击我们，我的观点是，我们处在一个无人区。
+
+After a **remarkably successful** vaccine deployment and a **characteristically British resolve to get on with it**, Britons have been **brought up short, vexed** by a virus that isn’t ready to **relinquish its grip**.    
+>characteristically[ˈkærɪktəˈrɪstɪklɪ] 典型地；特征性；特色   
+>bring up short 忽然停止 使突然中断   
+>vex 使恼怒；使苦恼；忧烦    
+>relinquish[rəˈlɪŋkwɪʃ] 废除；撤回；停止
+
+进行了非常成功的疫苗部署，做出了具有英国特色的与之共存的决定后，英国人被一种还不打算放手的病毒搞得心烦意乱。
+
+At issue is the **core trade off** British officials made last summer: They decided they could **tolerate a widely circulating virus** as the price of reopening the economy, **so long as** only a **small fraction** of infected people **ended up** in the hospital. 
+>circulate 循环；传播；流传    
+>so long as 只要；“as/so long as”的变体   
+
+争论的焦点是英国官员去年夏天做出的核心考量：他们决定，如果到头来只有一小部分感染者需要住院，他们就可以容忍一种广泛传播的病毒，以此作为重新开放经济的代价。
+
+But the National Health Service is already **feeling the strain**, and with fears of a **virulent flu season**, hospitals face **the prospect of** a **double-whammy** this winter.    
+>virulent[ˈvɪrələnt]  致命的；恶性的；剧毒的    
+>strain 压力；应变；紧张；张力    
+>prospect 展望；前景；希望；前途; 景色   
+>double-whammy[ˈhwæmi] 双重恶运；双重打击   
+
+但英国国民保健署已经感受到了压力，而且由于担心会出现恶性流感季节，医院今年冬天可能面临双重打击的前景。
+
+Though the government still recommends wearing masks in **crowded spaces**, lawmakers have **reinforced the impression** that normal life has returned by **discarding** them. At the Conservative Party’s conference earlier this month, almost nobody wore a mask, and they are **rarely spotted in the House of Commons**.     
+尽管政府仍然建议在人多的地方戴口罩，但立法者已经通过摒弃口罩强化了生活已恢复正常的印象。在本月早些时候的保守党会议上，几乎没有人戴口罩，在下议院也很少见到戴口罩的人。
+
+**Having taken credit for normalizing life**, Mr. Johnson has found it hard to **reverse course**. Downing Street now hopes that a **midterm** school vacation will **drive down infection rates**.     
+约翰逊因让生活正常化而受到赞誉后，发现很难改变方向。唐宁街现在希望学校的期中假期能够降低感染率。
+
+The **rollout** of the boosters has been very disappointing, What the British government has done is to **sit back** and say, ‘We can’t control this, so let’s just let this spread.’ The government is doing what the government has done **all along: dithered** and delayed and not really **confronted** the issues. They have put all their eggs in the vaccine basket and those eggs are not **hatching**.  
+>sit back 放松；袖手旁观；休息一下   
+>dither[ˈdɪðər] 犹豫不决；踌躇    
+
+接种加强针的展开非常令人失望，英国政府所做的就是袖手旁观，并说，‘我们无法控制，所以就让它传播吧。’ 政府所做的事情一如既往：犹豫和拖延，并没有真正面对问题。他们把所有的鸡蛋都放在了疫苗篮子里，但这些鸡蛋并没有孵化出成果。
+
+China had **unexpectedly fired a novel space weapon** two months ago. It **circled the planet** and then re-entered **Earth’s atmosphere, gliding at velocities** far faster than the speed of sound toward a destination on Chinese territory.
+>novel[ˈnɑv(ə)l] 新颖的；与众不同的 (长篇)小说    
+>gliding[ˈɡlaɪdɪŋ] 滑行的 滑翔运动  [glide]的现在分词
+
+中国在两个月前出人意料地发射了一种新型太空武器。它绕地球飞行，然后重新进入大气层，以远超音速的速度向中国境内的一处目标飞去。
+
+When Vincy Li applied to a **prestigious police academy graduate program** in China, she knew her **odds of success** were low. After all, the school **set quotas, typically capping the number** of female students at **no more than a quarter** of the student body.  
+>odds of success 胜算    
+
+在报考中国一所著名的警察学院的研究生时，文茜·李知道自己成功的机会不大。毕竟，这所学校设定了招生名额，通常女生的数量不超过学生总数的四分之一。
+
+Across China, women’s **educational attainment has soared**; female **undergraduates now sharply outnumber** males. But women still face **significant barriers** getting into training and academic programs — with **outright** quotas on their numbers in some fields — as they seek to **pierce** the country’s traditionally male-dominated professions.    
+>attainment 成就；达到；造诣    
+>soar[sɔr] 高涨；剧增；飞翔    
+>outnumber 比…多；在数量上超过    
+>outright 公开地；直率地；完全的；彻底的；绝对的
+>pierce[pɪrs] 刺穿；突破；洞察 
+
+
+在整个中国，女性的受教育程度实现了大幅提高，现在就读本科的女生人数远超男生。但是，当女性在这个国家传统上由男性主导的职业中寻求突破时，仍然面临着巨大的障碍，无法进入培训和学术项目，在某些领域，女性人数存在配额限制。
+
+The differing standards are not limited to police or military schools. Even some art schools have imposed 50/50 gender ratios to **curtail** the growing share of female students.
+>curtail 削减；缩减；剥夺
+
+这种标准差异不仅仅限于警校和军校。甚至一些艺术学校也规定，男女比例为50/50，以限制不断增长的女生比例。
