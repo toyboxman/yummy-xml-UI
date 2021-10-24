@@ -656,3 +656,53 @@ The differing standards are not limited to police or military schools. Even some
 >curtail 削减；缩减；剥夺
 
 这种标准差异不仅仅限于警校和军校。甚至一些艺术学校也规定，男女比例为50/50，以限制不断增长的女生比例。
+
+**Genetically engineered** pigs “could potentially be a **sustainable, renewable** source of organs — the solar and wind of organ availability, The prospect of **raising pigs to harvest their organs** for humans **is bound to** raise questions about animal **welfare and exploitation**, though an estimated 100 million pigs already are killed in the United States each year for food.   
+>harvest[ˈhɑrvəst] 收获；收成；      
+>be bound to 必定；注定；一定会     
+>exploitation[eksplɔɪˈteɪʃ(ə)n] 开发；开采；利用；剥削    
+
+基因工程猪“有可能成为一种可持续的、可再生的器官来源——相当于器官供应的太阳能和风能”，尽管据估计，美国每年有1亿头猪被宰杀作为食物，但为了获取人体器官而养猪的前景，必然会引发有关动物福利和剥削的问题。
+
+Among transplantation experts, reactions **ranged from cautiously optimistic to ebullient**, though all acknowledged the procedure represented a **sea change**. This is really **cutting-edge translational surgery** and transplantation that is **on the brink of** being able to do it in living human beings. There’s no question this is a **tour de force**, in that it’s hard to do and you have to **jump through a lot of hoops**.    
+>ebullient[ɪˈbʊljənt] 充满自信的；精力充沛的；热情洋溢的；兴高采烈     
+>sea change 沧海桑田；重大变化    
+>cutting-edge 前沿；尖端的；最前沿   
+>on the brink of 即将要；濒临；在……的边缘   
+>tour de force 力作；代表作；精心杰作     
+>in that 因为；由于；在于；在…方面     
+>hoop 铁环；篮框；卡箍   
+>jump through hoops 百依百顺；费尽千辛万苦；越过层层关卡   
+
+移植专家们反应不一，从谨慎乐观到热情高涨都有，不过所有人都承认这是一个巨大的变化。这是真正尖端的转化手术和移植，即将在活人身上实现. 毫无疑问，这是一项壮举，因为这很难做到，必须克服很多困难
+
+While he called the surgery “**a watershed moment**,” he warned that long-term rejection of organs occurs even when the donor kidney is well-matched, and “even when you’re not trying to **cross species barriers**.” The field **up to now** has **been stuck in the preclinical primate** stage, because going from primate to living human is **perceived** as a big jump    
+>preclinical[prɪ'klɪnɪkəl] 临床前；潜伏期的     
+>primate 灵长类；灵长目动物；大主教   
+
+虽然他把这次手术称为“一个分水岭时刻”，但他警告说，即使捐赠者的肾脏匹配度很高，而且“即使你没有试图跨越物种障碍”，也会发生器官的长期排斥。到目前为止，这一领域一直停留在灵长类动物临床前阶段，因为从灵长类动物到活人被认为是一个大飞跃
+
+To many outsiders, they represent a **dispiriting retreat** from the **market-oriented reforms** of the past and signal the end of China’s long **economic boom**. But forecasts of China’s doom are most likely mistaken, as they have so often been. True, in the latest quarter, economic growth **slowed to a crawl**, growing by just 0.2 percent compared with the previous quarter.   
+>dispiriting[dɪˈspɪrɪtɪŋ] 令人沮丧的；使人气馁的    
+>crawl[krɔl] 自由泳；爬行；蠕动；匍匐前进  
+
+   
+但在许多局外人眼里，这些政策代表着中国从以前的市场化改革中令人气馁的倒退，也标志着中国长期的经济繁荣即将结束。但对中国暗淡前景的预测很有可能正如以前经常错误的预测一样，是不正确的。的确，中国最近这个季度的经济增长缓慢，与上季度相比只增长了0.2%。
+
+A Korean-language production **awash in blood**, “Squid Game” is less **a feat of ingenious** storytelling — though there are some **deft touches and inspired wrinkles — than a gory riff** on a familiar formula, a **hyperviolent** “Hunger Games” with an **immeasurably darker view of the world**.    
+>awash 常被水冲淹的；充斥的；泛滥的    
+>feat 壮举；业绩；伟绩    
+>ingenious[ɪnˈdʒiniəs] 精巧的；有创意的；有独创性的    
+>deft 熟练的；灵巧的；机敏的；有技巧的  
+>gory 血淋淋的；残暴的    
+>riff 即兴重复段；流行音乐的重复段   
+>immeasurably[ɪˈmeʒərəbli] 无限地；广大无边地；不能测量地    
+
+作为一部血腥的韩国作品，《鱿鱼游戏》有一些巧妙的点缀和灵感的闪光，然而与其说它是巧妙讲故事的杰作，不如说是一个熟悉公式的血腥翻版，一个极端暴力的《饥饿游戏》，其世界观更加黑暗。
+
+**To some extent**, “Squid Game” **is big because it’s big**, its first-burst popularity generating attention that **begets** even greater popularity as everyone wants in on the action and as a **curiosity’s slippery tentacles** reach farther and farther into people’s consciousness.   
+>beget 引起；产生；招致    
+>tentacle[ˈtentək(ə)l] 触须；触手  
+>slippery 滑溜的；狡猾的    
+
+在某种程度上，《鱿鱼游戏》之所以轰动正是因为它的轰动，它的最初爆红引发关注，从而推动进一步的走红，因为人们都想要参与进来，并且好奇心的狡猾触角越来越深入人们的意识，也就吸引了更高的人气。
