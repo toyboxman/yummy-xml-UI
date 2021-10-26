@@ -222,7 +222,7 @@ The **intensity has gone out of** the debate, but it will come back if there is 
 
 辩论的激烈程度已减弱，但如果再出现一轮疫情，它还会卷土重来。如果疫情重来，那么我们就会陷入即使疫苗也不起作用的境地。我们有什么退路? 英国最高法院前法官始终直言不讳地批评封锁措施
 
-**‘Reversing Gears’**: China Increasingly Rejects English  
+**‘Reversing Gears’**: China **Increasingly** Rejects English  
 开倒车？中国弱化英语教育
 
 As a student at Peking University law school in 1978, Li Keqiang kept both pockets of his jacket **stuffed with handwritten paper slips**.   
@@ -234,70 +234,120 @@ It’s hard to **exaggerate** the role English has played in changing China’s 
 English is almost **synonymous with China’s reform and opening-up policies**, which transformed an **impoverished and hermetic** nation into the world’s **second-biggest** economy.  
 英语几乎是中国改革开放政策的代名词，该政策将一个贫穷封闭的国家变成世界第二大经济体
 
-That’s why it came as a shock to many when the education authorities in Shanghai, **the most cosmopolitan city** in the country, last month **forbade** local elementary schools to **hold final exams** on the English language.  
+That’s why it came as a shock to many when the education authorities in Shanghai, **the most cosmopolitan city** in the country, last month **forbade** local elementary schools to **hold final exams** on the English language.    
 这就是为什么当上海这个国际化大都市教育部门禁止小学举行英语期末考试，许多人感到震惊
 
-**Broadly**, the Chinese authorities are **easing the workloads** of schoolchildren, amid an effort to **ease the burdens** on families and parents.
+**Broadly**, the Chinese authorities are **easing the workloads** of schoolchildren, amid an effort to **ease the burdens** on families and parents.  
 总的来说，中国政府正在减轻学习任务，致力于减轻家庭和家长的负担
 
-The president of **prestigious** Tsinghua University in Beijing **came under fire** this summer after sending each new student a Chinese language copy of Ernest Hemingway’s “The Old Man and the Sea.” He wrote in a letter that he wanted the students to **learn courage and perseverance**.   
+The president of **prestigious** Tsinghua University in Beijing **came under fire** this summer after sending each new student a Chinese language copy of Ernest Hemingway’s “The Old Man and the Sea.” He wrote in a letter that he wanted the students to **learn courage and perseverance**.  
+>prestigious[preˈstidʒəs] 有声望的；有名望的；有威信的   
+>perseverance[pɜrsəˈvɪrəns] 毅力；韧性; 忍耐；坚忍 
+
 今夏著名学府清华大学校长在给每位新生发一本《老人与海》中文版后，受到抨击。他在一封信中写道，希望学生们学会勇气和毅力
 
 Some businesspeople **struck gold** by teaching English or offering instruction on how to take tests in the language.  
+>strike gold 发财；获得金牌   
+
 有商人靠英语辅导和提供考试指导而发了大财
 
 English **lost some of its sheen** after the 2008 financial crisis.  
+>sheen[ʃin] 光泽；光彩；发亮；照耀   
+
 2008金融危机后，英语失去了一些光彩
 
-As a result, China’s links to the outside world are being **severed** one by one.  
+**As a result**, China’s links to the outside world are being **severed** one by one.  
+>sever[ˈsevər] 割断；切断；分开；切开；  
+>severance[ˈsev(ə)rəns] 分离；解雇；辞退  
+
 结果，中国与外部世界的联系正在被一一切断
 
-Share prices of New Oriental, the education giant, **tanked** in July after the Beijing government announced crackdowns on **after-school tutoring services**. The Shanghai government’s announcement **drew praise** online from some **nationalistic quarters**.
+Share prices of New Oriental, the education giant, **tanked** in July after the Beijing government announced crackdowns on **after-school tutoring services**. The Shanghai government’s announcement **drew praise** online from some **nationalistic quarters**.    
+>tank 罐；坦克；彻底失败；破产；倒闭  
+>tutor[ˈtutər] 导师；家庭教师；指导教师；私人教师  辅导；指导  
+
 在北京市政府宣布打击课外辅导机构后，新东方的股价出现暴跌。上海市政府的公告在网上受到一些民族主义团体的赞扬
 
-The U.S. **withdrawal** from Afghanistan after a failed 20-year **nation-building exercise** has left many Americans and analysts saying, “If only we knew **back then** what we know now, we would have never **gone down** that path.”
+The U.S. **withdrawal** from Afghanistan after a failed 20-year **nation-building exercise** has left many Americans and analysts saying, “If only we knew **back then** what we know now, we would have never **gone down** that path.”   
+>back then 那时；那时候；过去  
+
 在经历了为期20年的建国实践失败后，美国从阿富汗撤军，这让许多美国人和分析人士说，“早知如此，我们就不会走这条路了。"
 
-And my fears can be **summed up in** just a few paragraphs: The 40 years from 1979 to 2019 were **an epoch** in U.S.-China relations. There were **many ups and downs**, but **all in all** it was an epoch of **steady economic integration** between our two countries.
+And my fears can be **summed up in** just a few paragraphs: The 40 years from 1979 to 2019 were **an epoch** in U.S.-China relations. There were **many ups and downs**, but **all in all** it was an epoch of **steady economic integration** between our two countries.  
+>sum up 概括；归纳；总结  
+>epoch 时期；新纪元；新时代；阶段  
+>ups and downs (人生等的)盛衰; 浮沉；起伏  
+>all in all 全部；总而言之；总的来说   
+
 我的担心可以用几段话来概括:从1979年到2019年的40年是美中关系的一个纪元。有许多起起落落，但总而言之，这是两国经济稳定 一体化的时代。
 
-The depth of that U.S.-China integration helped to **fuel a much deeper globalization** of the world economy and **buttress four decades of relative peace** between the world’s two great powers.
+The depth of that U.S.-China integration helped to **fuel a much deeper globalization** of the world economy and **buttress four decades of relative peace** between the world’s two great powers.   
+>buttress[ˈbʌtrəs] 支持；给…以力量  拱壁；靶；扶垛  
+>relative 亲属；亲戚；同类事物  相比较而言的；相对的  
+
 美中一体化的深度有助于推动世界经济实现更深层次的全球化，并支撑了世界两个大国之间40年的相对和平。
 
-**In short**, the relative peace and prosperity that the world  experienced in those 40 years cannot be explained **without reference to the U.S.-China bonding**.
+**In short**, the relative peace and prosperity that the world  experienced in those 40 years cannot be explained **without reference to the U.S.-China bonding**.  
 简而言之，如果不提美中关系，就无法解释世界在这40年所经历的相对和平与繁荣。
 
-It **lifted out of poverty** hundreds of millions of people in China, India and East Asia **while making many products much more affordable** to more American consumers.
+It **lifted out of poverty** hundreds of millions of people in China, India and East Asia **while making many products much more affordable** to more American consumers.   
 它使中国、印度和东亚的数亿人摆脱了 贫困，同时使更多的美国消费者能够负担得起许多产品。
 
-For the past five years, though, the United States and China **have been stumbling down a path of de-integration** and maybe toward **outright confrontation**. 
+For the past five years, though, the United States and China **have been stumbling down a path of de-integration** and maybe toward **outright confrontation**.    
+>stumble down 跌跌撞撞跑回；失足下坠；绊倒在地上了  
+>outright 完全的；彻底的；公开地；直率地； 
+
 然而，过去五年里，美国和中国一直在脱离一体化的道路上跌跌撞撞，甚至可能走向彻底对抗。
 
-These two giants **went from** doing a lot of business on the table and **occasionally** kicking each other under the table **to** doing **a lot less** business on the table and kicking each other **a lot harder** under the table — so much harder that they are in danger of breaking the table and leaving each other **with a limp**. 
+These two giants **went from** doing a lot of business on the table and **occasionally** kicking each other under the table **to** doing **a lot less** business on the table and kicking each other **a lot harder** under the table — so much harder that they are in danger of breaking the table and leaving each other **with a limp**.    
+>limp 跛行；蹒跚；瘸着走； 无力的；无生气的；无精神的；
+
 起初，这两个巨头在台面上来往密切，偶尔在台下使绊子，现在变成了在台面上生意少了，台下使绊子越来越激烈——激烈得连台面都快要打破，两败俱伤地离开
 
-**For starters** we need to ask: **What aspects** of our competition/conflict with China are **inevitable** between a rising power and **a status quo power**, and what can be **dampened** by smart policy?
+**For starters** we need to ask: **What aspects** of our competition/conflict with China are **inevitable** between a rising power and **a status quo power**, and what can be **dampened** by smart policy?  
+>for starters 首先   
+>status quo 现状；原来的状况  
+>dampen[ˈdæmpən] 抑制；弄湿；使潮湿; 减弱；减震
+
 首先，我们需要问:在一个崛起的大国和一个维持现状的大国之间，我们与中国的竞争/冲突在哪些方面是不可避免的，在哪些方面可以通过明智的政策起到抑制作用?
 
-When China sold us “**shallow goods**,” we didn’t care whether its government was **authoritarian, libertarian or vegetarian**. But when it comes to our buying China’s “deep goods,” **shared values matter** and they are not there.
+When China sold us “**shallow goods**,” we didn’t care whether its government was **authoritarian, libertarian or vegetarian**. But when it comes to our buying China’s “deep goods,” **shared values matter** and they are not there.  
 当中国卖给我们“浅层商品”时，我们不在乎它的政府是威权主义、自由主义还是素食主义。但当谈到我们购买中国的“深层商品”时，共同价值观念很重要，但它们却并不存在。
 
-if we are now going to **shift our focus** from the Middle East to an **irreversible strategy** of confronting China, we should **start by asking** three foundational questions
+if we are now going to **shift our focus** from the Middle East to an **irreversible strategy** of confronting China, we should **start by asking** three foundational questions  
+>irreversible[ˌɪrɪˈvɜrsəb(ə)l] 无法复原(或挽回)的；不可逆的；不可撤消  
+>start by 先做某事；动身返回；开始日期
+
 如果我们现在要将关注点从中东转移到对抗中国的不可逆转的战略上，我们应该先问三个基本问题
 
-Are we sure we understand **the dynamics of an immense and changing society** like China well enough to decide that its inevitable mission is the global spread of authoritarianism? Especially when this will require **a generational adversarial commitment** on the part of the United States, **engendering** in turn a **still more** nationalistic China?
+Are we sure we understand **the dynamics of an immense and changing society** like China well enough to decide that its inevitable mission is the global spread of authoritarianism? Especially when this will require **a generational adversarial commitment** on the part of the United States, **engendering** in turn a **still more** nationalistic China?    
+>immense[ɪˈmens] 巨大的；大量的；浩瀚的；无限的; 广大的；无边的  
+>adversarial[ˌædvɜrˈseriəl] 对立的；敌对的  
+>engender[ɪnˈdʒendər] 产生; 造成；引起；酿成 
+
 中国社会巨大且不断变化，我们是否对其动态有真正足够的了解，就决定说在全球传播威权主义是它不可避免的使命?尤其是当它需要美国将反对的决心代际传递下去，反过来又会导致一个更加民族主义的中国?
 
-Because without that, any **coalition will crumble**.
+Because without that, any **coalition will crumble**.  
+>crumble 弄碎；粉碎；崩溃；瓦解；成碎屑
+
 因为做不到这一点的话，任何联盟都会瓦解
 
-When we make it the world **versus** China on what are the best and most just **international norms**, we isolate **the hard-liners** in Beijing and ***leverage** more Chinese reformers on our side.
+When we make it the world **versus** China on what are the best and most just **international norms**, we isolate **the hard-liners** in Beijing and **leverage** more Chinese reformers on our side.  
+>norm 规范；标准；定额；常态 
+
 当我们让世界与中国在何为最好和最公正的国际规范对立时，我们就可以孤立北京的强硬派，并让中国更多的改革派站在我们这边。
 
-But China will not respond just to **high-minded** talk of international norms, even if faced with a global coalition. Such talk has to be **backed up** with economic and **military clout**.
+But China will not respond just to **high-minded** talk of international norms, even if faced with a global coalition. Such talk has to be **backed up** with economic and **military clout**.  
+>high-minded 品格高尚的；傲慢的  
+>back up 支持；【计算机】把(文件等备份)  
+>clout[klaʊt] 影响力；势力；打  
+
 但即使面对一个全球联盟，中国也不会只对国际规范的高姿态谈话作出回应。这种谈话必须得到经济和军事影响力的支持。
 
-It might **light a fire** under Americans to get serious about **national renewal**. But it might also light a fire to the whole U.S.-China relationship, affecting everything from supply chains to student exchanges to Chinese purchases of U.S. **government bonds**.
+It might **light a fire** under Americans to get serious about **national renewal**. But it might also light a fire to the whole U.S.-China relationship, affecting everything from supply chains to student exchanges to Chinese purchases of U.S. **government bonds**.  
+>renewal[rɪˈnuəl] 更新；复兴；续约；恢复  
+>government bonds 政府债券；政府公债；国债
+
 它也许能点燃美国人对国家复兴的激情。 但这也可能点燃整个美中关系，影响从供应链到学生交流，再到中国购买美国政府债券的方方面面。
 
 This Sept. 11, a **diminished** president will **preside** over a diminished nation. Another Failed Presidency **at Hand**
