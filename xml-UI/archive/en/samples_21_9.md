@@ -350,121 +350,207 @@ It might **light a fire** under Americans to get serious about **national renewa
 
 它也许能点燃美国人对国家复兴的激情。 但这也可能点燃整个美中关系，影响从供应链到学生交流，再到中国购买美国政府债券的方方面面。
 
-This Sept. 11, a **diminished** president will **preside** over a diminished nation. Another Failed Presidency **at Hand**
+This Sept. 11, a **diminished** president will **preside** over a diminished nation. Another Failed Presidency **at Hand**  
+>diminished[dɪˈmɪnɪʃt] 减少的；减弱的；被贬低的； [diminish]的过去式和过去分词  
+>preside[ˌpriˈzaɪd] 主持(会议、仪式等)；担任主席; 指挥；主奏；负责  
+>at hand 即将到来；眼前；近在手边
+
 今年的9·11到来时，一个已经降格的国家，正在由一位降格的总统掌管着。拜登，又一个即将失败的总统
 
-We are a country that could not keep a **demagogue** from the White House; could not stop an insurrectionist mob from **storming** the Capitol; could not win (or at least avoid losing) a war against a **morally and technologically retrograde** enemy; cannot **conquer a disease** for which there are safe and effective vaccines; and cannot bring itself to trust the government, the news media, the **scientific establishment**, the police or any other institution meant to operate for **the common good**.
+We are a country that could not **keep a demagogue from** the White House; could not **stop an insurrectionist mob from storming** the Capitol; could not win (or at least avoid losing) a war against a **morally and technologically retrograde** enemy; cannot **conquer a disease** for which there are safe and effective vaccines; and cannot bring itself to trust the government, the news media, the **scientific establishment**, the police or any other institution meant to operate for **the common good**.  
+>demagogue[ˈdeməˌɡɑɡ] 煽动者；蛊惑民心的政客  
+>insurrectionist[ˌɪnsə'rekʃənɪst] 起义者，造反者；暴动者；暴徒  
+>mob 暴徒；乌合之众；聚众闹事  
+>morally[ˈmɔrəli] 道义上地；道德方面  
+>retrograde[ˈretroʊˌɡreɪd] 倒行逆施；倒退；退步 倒退的；退化的；退步地  
+>common good 公共利益；共同利益
+
 我们这个国家无法阻止一名煽动者进入白宫;无法阻止暴徒袭击国会大厦;无法打赢(或至少避免被打败)一场与道德和技术上都落后的敌人的战争;无法战胜疾病，即使有安全有效的疫苗;并且无法相信 政府、新闻媒体、科学机构、警察或任何其他旨在为公共利益运作的机构。
 
-A civilization “**is born stoic and dies epicurean**,” wrote historian Will Durant about the **Babylonians**. Our civilization was born **optimistic and enlightened**, at least by the standards of the day. Now it feels as if it’s **fading into paranoid senility**.
-历史学家威尔·杜兰特在谈到巴比伦人时写道，一个文明“生于坚忍，死于享乐”。我们的文明生来是乐观和开明的，至少按照当时的标准是这样。现在感觉它好像正在逐渐衰老，变得疑神疑?。
+A civilization “**is born stoic and dies epicurean**,” wrote historian Will Durant about the **Babylonians**. Our civilization was born **optimistic and enlightened**, at least by the standards of the day. Now it feels as if it’s **fading into paranoid senility**.  
+>stoic[ˈstoʊɪk] 斯多噶学派的；同“stoical” 斯多葛派人(对痛苦或困难能默默承受或泰然处之)  
+>epicurean[ˌepiˈkjʊriən] 享乐主义的；好享乐的  
+>enlightened[ɪnˈlaɪt(ə)nd] 开明的；有见识的；摆脱偏见的 [enlighten]的过去分词和过去式  
+>fade into 渐渐融入于；在…逐渐消失  
+>paranoid[ˈperəˌnɔɪd] 偏执狂；妄想症患者  
+>senility[ˈsiˌnaɪləti] 衰老；老态龙钟；高龄；老耄  
 
-Joe Biden was supposed to be **the man of the hour**: a **calming** presence **exuding decency, moderation** and trust. As a candidate, he **sold himself as** a transitional president, a **fatherly** figure in the **mold** of George H.W. Bush who would restore **dignity and prudence** to the Oval Office after the **mendacity and chaos** that came before. It’s why I voted for him, as did so many others who once **tipped red**.
+历史学家威尔·杜兰特在谈到巴比伦人时写道，一个文明“生于坚忍，死于享乐”。我们的文明生来是乐观和开明的，至少按照当时的标准是这样。现在感觉它好像正在逐渐衰老，变得疑神疑鬼。
+
+Joe Biden was supposed to be **the man of the hour**: a **calming** presence **exuding decency, moderation** and trust. As a candidate, he **sold himself as** a transitional president, a **fatherly** figure in the **mold** of George H.W. Bush who would restore **dignity and prudence** to the Oval Office after the **mendacity and chaos** that came before. It’s why I voted for him, as did so many others who once **tipped red**.  
+>the man of the hour 风云人物  
+>exude[ɪɡˈzud] 渗出；发散；流出；(感觉或品质)显现  
+>decency[ˈdis(ə)nsi] 体面；庄重；礼貌  
+>fatherly 父亲般的；慈爱的  
+>mold(=mould) 塑造；模具；模型  
+>prudence[ˈprud(ə)ns] 慎重；审慎  
+>mendacity[menˈdæsəti] 虚假；谎言；虚伪  
+
 乔·拜登本应是这个时刻的主角(风云人物):从容出场，散发着正派、温和和值得信任的气质。作为候选人，他标榜自己是转型总统， 一个像乔治·H·W·布什一样的父亲般的人物，在椭圆形办公室经历了先前的谎言和混乱之后，他将恢复其尊严和审慎。这就是我投票给他的原因，就像许多其他曾经倾向共和党的人一样
 
-Instead, Biden has become the **emblem** of the hour: **headstrong** but shaky, ambitious but **inept**. He seems to be the last person in America to realize that, whatever the **theoretical merits** of the decision to withdraw our remaining troops from Afghanistan, the military and intelligence assumptions on which it was built were **deeply flawed**, the manner in which it was executed was a national **humiliation** and a **moral betrayal**, and the timing was **catastrophic**.
+Instead, Biden has become the **emblem** of the hour: **headstrong** but shaky, ambitious but **inept**. He seems to be the last person in America to realize that, whatever the **theoretical merits** of the decision to withdraw our remaining troops from Afghanistan, the military and intelligence assumptions on which it was built were **deeply flawed**, the manner in which it was executed was a national **humiliation** and a **moral betrayal**, and the timing was **catastrophic**.  
+>emblem[ˈembləm] 象征；徽章；标志；标记  
+>headstrong 固执的；刚愎自用的；勇往直前  
+>inept[ɪˈnept] 缺乏技巧的；无能的；不称职的；不合适的  
+>moral[ˈmɔrəl] 道德的；道义上的；有道德的；寓意；品行；教益  
+>betrayal[bɪˈtreɪəl] 出卖；背叛者；辜负  
+>catastrophic[ˌkætəˈstrɑfɪk] 灾难的；灾难性的；悲惨的
+
 相反，拜登在这个时刻却成为了这样的象征:固执但摇摆不定，雄心勃勃但无能。无论是从阿富汗撤出剩余部队的决定有什么理论价值，该决定所依据的军事和情报假设存在严重缺陷，其执行方式是对国家的羞辱和道德上的背叛，其时机是灾难性的，拜登似乎是美国最后一个意识到这些的人
 
-The 9/11 memorial at the  World Trade Center — water **cascading into one void**, and then  **trickling**, out of sight, into another — has **never felt more fitting**.
+The 9/11 memorial at the  World Trade Center — water **cascading into one void**, and then  **trickling**, out of sight, into another — has **never felt more fitting**.  
+>cascade[kæˈskeɪd] 层叠；级联；阶梯；(陡岩落下的)瀑布；  
+>trickle[ˈtrɪk(ə)l] 滴；滴流；涓涓细流  慢慢走；缓慢移动
+
 在世贸中心的9·11纪念广场，水向下流入一层空洞，水流逐渐变弱、消失，淌入另一层空洞，这样的意象从未让人感到如此贴切。
 
-That’s the **optimistic scenario**. **Alternatively**, he could suffer a legislative **calamity** like Hillary Clinton’s health care reform in 1994, which would have ended Bill Clinton’s presidency save for his **sharp swing** to the center
+That’s the **optimistic scenario**. **Alternatively**, he could suffer a legislative **calamity** like Hillary Clinton’s health care reform in 1994, which would have ended Bill Clinton’s presidency save for his **sharp swing** to the center  
 这是乐观的情况。或者，他可能会遭受像1994年希拉里·克林顿的医疗改革那样的立法灾难，好在比尔·克林顿急剧转向中间派
 
-Even the optimistic **precedent** was followed by a Democratic **rout** in 2010, when the party lost 63 House seats. If history repeats itself at the 2022 midterms, I doubt that even Joe Biden’s **closest aides** think he has the **stamina** to fight his way back in 2024. Has Kamala Harris shown the political talent to **pick up the pieces**?
+Even the optimistic **precedent** was followed by a Democratic **rout** in 2010, when the party lost 63 House seats. If history repeats itself at the 2022 midterms, I doubt that even Joe Biden’s **closest aides** think he has the **stamina** to fight his way back in 2024. Has Kamala Harris shown the political talent to **pick up the pieces**?  
+>rout[raʊt] 溃败；彻底失败   
+>stamina[ˈstæmɪnə] 耐力；持久力；体力；精力；毅力  
+>pick up the pieces 收拾残局；破镜重圆；重新爬起来
+
 即使民主党有这一乐观的先例，它在2010年仍遭遇了溃败，当时该党失去了63个众议院席位。如果历史在2022年中期选举重演，我怀疑即使是乔·拜登最亲密的助手都会觉得他的精力不足以撑到在2024年重回巅峰。卡玛拉·哈里斯有没有显示出收拾残局的政治才能?
 
-Perhaps what will save the Democrats is that Biden’s weakness will **tempt** Donald Trump to seek (and almost certainly gain) the Republican nomination
+Perhaps what will save the Democrats is that Biden’s weakness will **tempt** Donald Trump to seek (and almost certainly gain) the Republican nomination  
+>tempt[tempt] 诱惑；引诱；吸引；试探；尝试  
+
 如果拜登的软弱诱使唐纳德·特朗普寻求(并且几乎肯定会获得)共和党提名，这或许能拯救民主党
 
-There’s a **way back from this cliff’s edge**. It begins with Biden finding a way to acknowledge publicly the **gravity** of his administration’s **blunders**
+There’s **a way back from this cliff’s edge**. It begins with Biden finding a way to acknowledge publicly the **gravity** of his administration’s **blunders**  
+>gravity[ˈɡrævəti] 重力；严重性；严肃  
+>blunder[ˈblʌndər] 犯大错；出漏子；疏忽；失误；错误  
+
 现在悬崖勒马还来得及。首先，拜登需要以某种方式来公开承认其政府犯错误的严重性
 
-He’s proud, **inflexible**, and thinks **he’s much smarter than he really is**. That’s bad news for the administration. It’s worse news for a country that **desperately needs** to avoid another failed presidency
+He’s proud, **inflexible**, and thinks **he’s much smarter than he really is**. That’s bad news for the administration. It’s worse news for a country that **desperately needs** to avoid another failed presidency  
 他骄傲、固执，高估自己的智力。对政府来说， 这是个坏消息。对于一个迫切需要避免又一段失败的总统任期的国家来说，这是个更坏的消息
 
-Impressing other writers and academics **ceased** to be my goal. Instead, I would focus on using my words to find beauty and hope.
+Impressing other writers and academics **ceased** to be my goal. Instead, I would focus on using my words to find beauty and hope.  
 我的目标不再是给其他作家和学者留下深刻的印象。相反，我会专注于用我的文字来寻找美丽和希望
 
-This pandemic has left conversations and lives **cut short**.
+This pandemic has left conversations and lives **cut short**.  
 这场大流行使谈话和生命都缩短了
 
-And it seems to be bringing a similar **clarity** to people about their priorities: The pandemic has led to one of the largest **shifts** in jobs in recent memory, with millions of Americans making changes.
+And it seems to be bringing a similar **clarity** to people about their priorities: The pandemic has led to one of the largest **shifts** in jobs in recent memory, with millions of Americans making changes.  
+>clarity[ˈklerəti] 清晰；明确；清楚
+
 它似乎也让人们认清了什么是重要的:大流行导致了相当长一段时间里最大的劳动力市场转型之一，数百万美国人做出了改变
 
-The pandemic has **disabused** us of the **illusion** of time as a **limitless** resource and of the false promise that the sacrifices we make for our careers are always **worth** it.
+The pandemic has **disabused** us of the **illusion** of time as a **limitless** resource and of the false promise that the sacrifices we make for our careers are always **worth** it.  
+>disabuse[ˌdɪsəˈbjuz] 纠正; 使省悟  
+>illusion 幻觉；假象；错觉
+
 这场疫情使我们摆脱了时间是一个无穷的资源的错觉，以及我们为职业做出的牺牲总是值得的虚假承诺。
 
-In the meantime, exercise and a **reasonable** diet was the **tithes** we paid to our fear
+In the meantime, exercise and a **reasonable** diet was the **tithes** we paid to our fear  
+>tithe[taɪð] 十分之一；(以产品缴纳的)什一税
+
 与此同时，锻炼和合理的饮食只是我们为恐惧付出的一小部分
 
-For all that we know about the relatively **low mortality rates** of Covid-19 among the young, it remains something of a **deadly** lottery
+For all that we know about the relatively **low mortality rates** of Covid-19 among the young, it remains something of a **deadly** lottery 
+>mortality[mɔrˈtæləti] 病死率；致命性；死亡率
+
 尽管我们知道年轻人中Covid-19的死亡率相对较低，但它仍然是一种致命的彩票
 
-We have had to consider our **collective** mortality. And we **are now faced with** the question of meaning. Like the **biblical psalmist** says, “We have escaped like a bird from the fowler’s snare; the **snare** has been broken, and we have escaped.” (Psalm 124:7). Covid-19 **threatened to capture** us in its snare, but **thus far** we have **eluded** it. What shall we do with this opportunity?
+We have had to consider our **collective** mortality. And we **are now faced with** the question of meaning. Like the **biblical psalmist** says, “We have escaped like a bird from the fowler’s snare; the **snare** has been broken, and we have escaped.” (Psalm 124:7). Covid-19 **threatened to capture** us in its snare, but **thus far** we have **eluded** it. What shall we do with this opportunity?  
+>biblical[ˈbɪblɪk(ə)l] 圣经的；圣经中的；宏大的；大规模的  
+>psalmist[ˈsɑmɪst] 赞美诗作者；大卫王  
+>snare[sner]  圈套；陷阱；罗网；骗局 军鼓  
+>thus far 迄今；至今；到目前为止 so far  
+>elude[iˈluːd] 躲避；逃避；使…迷惑；使困惑
+
 我们不得不考虑我们的集体死亡率。我们现在面临着意义的问题。正如圣经中的诗人所说:“我们好像雀鸟，从捕鸟人的罗网里逃脱，罗网破裂，我们就逃脱了。”(诗篇124:7)。Covid-19威胁要用它的罗网俘获我们，但到目前为止我们都躲过了它。我们要如何利用这个契机?
 
-When we had the **illusion of time**, the lower pay, long **commutes**, high cost of  living and separation from loved ones seemed a small price to pay for a successful career. But the pandemic reminded us that there are some things more important than **vocational** progress.
+When we had the **illusion of time**, the lower pay, long **commutes**, high cost of  living and separation from loved ones seemed a small price to pay for a successful career. But the pandemic reminded us that there are some things more important than **vocational** progress.  
+>vocational[voʊˈkeɪʃən(ə)l] 职业的；职业技术的；业务知识的
+
 当我们有时间的错觉时，较低的工资、长时间的通勤、高昂的生活成本和与亲人的分离似乎是为成功的事业付出的微不足道的代价。但疫情提醒我们，有些事情比职业发展更重要。
 
-This was **equally true** for single friends who lived in areas where the entire social scene **catered to** married people with families.
+This was **equally true** for single friends who lived in areas where the entire social scene **catered to** married people with families.  
+>cater[ˈkeɪtər] to  迎合；投合；满足
+
 对于一些单身朋友来说也是如此，他们住在所有社交活动都迎合有家庭的已婚人士的地区
 
-The pandemic has reminded us that **life is more than what we do**
+The pandemic has reminded us that **life is more than what we do**  
 这场大流行病提醒我们，生活不只是我们所做的事
 
-I **recognize** that for some, Covid-19 did not raise the same **existential** questions. 
+I **recognize** that for some, Covid-19 did not raise the same **existential** questions.   
+>existential[ˌeɡzɪˈstenʃ(ə)l] 关于人类存在的；与人类存在有关的；存在主义的
+
 我意识到对有些人而言，Covid-19没有引发同样关乎存在意义的问题
 
-**Nonetheless**, I have **relatives** in service industries raising similar questions. They are **no longer willing** to deal with harassment from rude customers for a **barely livable wage**. They are **struggling to** pay their bills, but they are doing so **on their terms** with their **humanity intact**
+**Nonetheless**, I have **relatives** in service industries raising similar questions. They are **no longer willing** to deal with harassment from rude customers for a **barely livable wage**. They are **struggling to** pay their bills, but they are doing so **on their terms** with their **humanity intact**  
+>nonetheless[ˌnʌnðəˈles] 尽管如此; 虽然如此；但是；然而  
+>barely 仅仅；几乎不能；几乎没有；刚刚  
+>humanity[hjuˈmænəti] 人性；人类；人道；仁慈  
+>intact 完整；完好无损  完整的；完整无缺的；未经触动的  
+>on terms 按条件；在平等地位上
+
 尽管如此，我有一些在服务行业的亲戚也提出了相似的问题。他们不再愿意为了一份勉强维持生活的收入而应付粗鲁顾客的骚扰。他们正在吃力地支付账单，不过是在符合他们自己的意愿、他们的人性完好无损的条件下来做这些事。
 
-If there is a lesson in this for employers, it is to remember that employees are **more than** workers. We have an **identity** outside the hours **committed to making a living**. Jobs that treat their employees **honorably**, provide flexibility and **leave room** for life outside of work will **thrive**
+If there is a lesson in this for employers, it is to remember that employees are **more than** workers. We have an **identity** outside the hours **committed to making a living**. Jobs that treat their employees **honorably**, provide flexibility and **leave room** for life outside of work will **thrive**  
 如果这些对雇主来说有什么教训的话，那就是要记住，员工不仅仅是工人。我们有一种在用于谋生的时间之外的身份。体面对待员工、提供灵活性并为工作之外的生活留出空间的工作将会蓬勃发展
 
-I did not get to speak to my father a final time, but I did deliver the **eulogy** at his funeral. The need to **make sense of** his death revealed what was so often hard to see in the **ebb and flow** of our life together. He was like most of us, **a mass of contradictions**.
+I did not get to speak to my father a final time, but I did deliver the **eulogy** at his funeral. The need to **make sense of** his death revealed what was so often hard to see in the **ebb and flow** of our life together. He was like most of us, **a mass of contradictions**.  
+>eulogy[ˈjulədʒi] 颂词；颂文；悼词  
+>ebb[eb] and flow 消长；潮起潮落；盛衰  
+>contradiction[ˌkɑntrəˈdɪkʃ(ə)n]  矛盾；反驳；否定
+
 我没能和我父亲说上最后一次话，但我在他的葬礼上致了悼词。理解他的死亡这个需求，揭示了在我们共同生活的起起落落中很难看到的东西. 他和我们大多数人一样，是矛盾的集合体。
 
-I confronted him about things he had done and the real pain he caused. It was not a **healing**, but it began something we never got to finish.
+I confronted him about things he had done and the real pain he caused. It was not a **healing**, but it began something we never got to finish.  
 我质问他所做过的事和他造成的痛苦。这不是一种治愈，但它开始了一种我们未能完成的东西。 
 
-When he died, I was in **the early stages** of writing what became “Reading While Black.” It has the following **dedication**: “This book **is dedicated to** the memory of Esau McCaulley Sr., who died before he ever got to see a book **bearing** our name in print. **Whatever else** I am, I will always remain your son.”
+When he died, I was in **the early stages** of writing what became “Reading While Black.” It has the following **dedication**: “This book **is dedicated to** the memory of Esau McCaulley Sr., who died before he ever got to see a book **bearing** our name in print. **Whatever else** I am, I will always remain your son.”  
 他去世的时候，我刚开始写《黑人的阅读》，它的致辞是这样的:“这本书献给依绍·麦卡利，他在看到一本印有我们名字的书之前就去世了。不论我还有什么身份，我始终是你的儿子。”
 
-It seems that Covid-19 has **dealt a collective trauma** to the American **consciousness** and that **the full fruit of** that trauma remains uncertain. One thing is clear: Our previous normal was **not as good as we thought it was**.
+It seems that Covid-19 has **dealt a collective trauma** to the American **consciousness** and that **the full fruit of** that trauma remains uncertain. One thing is clear: Our previous normal was **not as good as we thought it was**.  
 Covid-19似乎对美国人的意识造成了集体性创伤，这种创伤的全部后果还不确定。有一件事是清楚无疑的:我们过去的常态并不如我们以为的那般坚固美好
 
-Much of its dialogue is in **Mandarin**. The **cast** includes Tony Leung, one of the biggest **Chinese-speaking** movie stars in history.
+Much of its dialogue is in **Mandarin**. The **cast** includes Tony Leung, one of the biggest **Chinese-speaking** movie stars in history.  
 大部分对白使用普通话。演员阵容包括梁朝伟，有史以来最著名的华语电影明星之一。
 
-The studio’s first Asian superhero movie is **a hit**, **drawing praise** and ticket sales in East Asia and other global markets. 
+The studio’s first Asian superhero movie is **a hit**, **drawing praise** and ticket sales in East Asia and other global markets.   
 漫威的首部亚裔超级英雄电影大获成功，在东亚和全球其他市场获得好评和票房收入
 
 Disney, which owns Marvel, **has yet to receive clearance** from Beijing’s regulators to show the film in the vast but heavily **censored** movie market. While the reasons aren’t clear, “Shang-Chi” may be a victim of the **low point** in U.S.-China relations.
 漫威的母公司迪士尼尚未获得北京监管机构的批准，无法在这个庞大但受到严格审查的电影市场放映这部电影。虽然原因尚不清楚，但《尚气》可能是美中关系低迷的受害者
 
-China is also **pushing back against Western influence**, with increasingly vocal nationalists **denouncing** foreign books and movies and the teaching of English
+China is also **pushing back against Western influence**, with increasingly vocal nationalists **denouncing** foreign books and movies and the teaching of English  
 中国也在抵制西方的影响，越来越多的民族主义者谴责外国书籍、电影和英语教学
 
-But in other parts of Asia, the movie has been **greeted warmly** by audiences for how it **depicts** a Chinese superhero **burdened** by a racist back story.
+But in other parts of Asia, the movie has been **greeted warmly** by audiences for how it **depicts** a Chinese superhero **burdened** by a racist back story.  
 但在亚洲其他地区，这部电影受到了观众的热烈欢迎，因为该片描述了一个被种族主义所累的华裔超级英雄
 
-The movie is a **retelling** of the story of a **little-known Marvel character** created in 1973
+The movie is a **retelling** of the story of a **little-known Marvel character** created in 1973  
 这部电影重述了一个鲜为人知的漫威角色的故事，该角色创作于1973年
 
-Xu Wenwu is **played** by Mr. Leung, a **legend** in Hong Kong cinema. His role in the film was **pivotal in attracting** Hong Kong audiences to the theaters, said Kevin Ma, a film industry **observer and writer** from Hong Kong.
+Xu Wenwu is **played** by Mr. Leung, a **legend** in Hong Kong cinema. His role in the film was **pivotal in attracting** Hong Kong audiences to the theaters, said Kevin Ma, a film industry **observer and writer** from Hong Kong.  
 徐文武由香港电影界的传奇人物梁朝伟饰演。来自香港的电影业观察家和作家凯文·马说，他出演这部电影，对于将香港观众吸引到影院至关重要。
 
-To **reshape** the comic-book **character** to appeal to Asian and Asian American audiences, Marvel **put the movie in the hands** of Destin Daniel Cretton, a Japanese American director
+To **reshape** the comic-book **character** to appeal to Asian and Asian American audiences, Marvel **put the movie in the hands** of Destin Daniel Cretton, a Japanese American director  
 为了重塑漫画人物以吸引亚洲和亚裔美国观众，漫威将这部电影托付给日裔美国导演德斯汀·丹尼尔·克雷顿
 
-But for **blockbusters**, mainland China is the major market to win
+But for **blockbusters**, mainland China is the major market to win  
+>blockbusters  震撼大片；轰动畅销产品; 高爆力巨型炸弹；风靡一时的事物
+
 但大片若想获胜，中国大陆是主要市场
 
-Despite its absence, the film has generated **spirited debate** on the Chinese internet
+Despite its absence, the film has generated **spirited debate** on the Chinese internet  
+>spirited[ˈspɪrɪtɪd] 生气勃勃的；活泼的；英勇的
+
 虽然尚未上映，影片在中国互联网上还是引起了热议
 
-Readers of Shang-Chi comic books in the 1970s saw Asian faces **colored** in **unnatural** oranges and yellows. They saw the main character **shirtless and shoeless**, spouting “fortune-cookie **platitudes in stilted English**,” The New York Times noted recently. And then there was Shang-Chi’s father in the comics: He was named Fu Manchu and **caricatured as a power-hungry** Asian man, an image that **harks back** to the stereotypes first pressed upon Asian immigrants a century ago.
+Readers of Shang-Chi comic books in the 1970s saw Asian faces **colored** in **unnatural** oranges and yellows. They saw the main character **shirtless and shoeless**, **spouting** “fortune-cookie **platitudes in stilted English**,” The New York Times noted recently. And then there was Shang-Chi’s father in the comics: He was named Fu Manchu and **caricatured as a power-hungry** Asian man, an image that **harks back** to the stereotypes first pressed upon Asian immigrants a century ago.  
+>spout[spaʊt] 壶嘴；喷口；喷嘴  喷射；喷出；喷水；滔滔不绝地说  
+>platitude[ˈplætɪˌtud] 平凡；陈词滥调；老生常谈  
+>stilted[ˈstɪltid] 生硬的；不自然的; 夸张的；踏上高跷的  
+>caricature[ˈkerɪkəˌtʃʊr] 人物漫画；夸张的描述；讽刺漫画；漫画手法 把…画成漫画；滑稽地描述 用漫画表现  
+>hark[hɑrk] back 重提旧事；言归正传；(猎狗)循原路重找嗅迹
+
 1970年代《尚气》漫画书的读者会看到亚裔面孔呈一种不自然的橙色和黄色。他们看到主要人物赤裸上身、光着脚，滔滔不绝地“用做作的英语说着幸运饼干式的套话”，《纽约时报》近年的一篇文章注意到。漫画中还有尚气的父亲：他叫傅满洲，被描绘成一个权欲极重的亚洲男人，呼应了一个世纪前亚洲移民最早留下的刻板印象
 
 I think countries that try to **censor** and **cover up** dissenting ideas rather than face them and deal with them are **out of touch with reality**. It’s really **immature and out of touch**.
