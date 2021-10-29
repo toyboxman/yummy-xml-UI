@@ -553,103 +553,171 @@ Readers of Shang-Chi comic books in the 1970s saw Asian faces **colored** in **u
 
 1970年代《尚气》漫画书的读者会看到亚裔面孔呈一种不自然的橙色和黄色。他们看到主要人物赤裸上身、光着脚，滔滔不绝地“用做作的英语说着幸运饼干式的套话”，《纽约时报》近年的一篇文章注意到。漫画中还有尚气的父亲：他叫傅满洲，被描绘成一个权欲极重的亚洲男人，呼应了一个世纪前亚洲移民最早留下的刻板印象
 
-I think countries that try to **censor** and **cover up** dissenting ideas rather than face them and deal with them are **out of touch with reality**. It’s really **immature and out of touch**.
+I think countries that try to **censor** and **cover up** dissenting ideas rather than face them and deal with them are **out of touch with reality**. It’s really **immature and out of touch**.  
+>out of touch 失去联系；不联系；不接触
+
 我认为那些去审查和掩盖异议想法，而不是去面对和处理问题的国家，是跟现实脱节的。非常不成熟和不明就里
 
-Still, the movie has found some **resonance** with Chinese audiences who have **managed to see the film**
+Still, the movie has found some **resonance** with Chinese audiences who have **managed to see the film**  
+>resonance[ˈrezənəns] 共振；共鸣；回声；反响
+
 影片在一些中国观众中还是引起了共鸣
 
-The trouble in China may have **unintentionally** helped sales in other markets in Asia
+The trouble in China may have **unintentionally** helped sales in other markets in Asia  
 在中国遇到的麻烦也许无意中促进了在亚洲其他市场的销量
 
-“It’s **amusing**,” said Ms. Yang, the film producer, “that it’s Americans’ turn to read **subtitles** in a Marvel film.”
+“It’s **amusing**,” said Ms. Yang, the film producer, “that it’s Americans’ turn to read **subtitles** in a Marvel film.”  
 “有趣的是，”电影制片人金·杨说，“轮到美国人看漫威电影要看字幕了。”
 
-China’s push for **self-sufficiency** in a wide range of industries is **dividing** foreign companies
+China’s push for **self-sufficiency** in a wide range of industries is **dividing** foreign companies  
+>sufficiency[sə'fɪʃ(ə)nsi] 足量；充足; 充分性；充足性；自足
+
 中国在多个行业推动自力更生的做法正在外国企业当中带来分歧
 
-Two **influential** groups of foreign businesses in China **issued** very different reports on Thursday. They revealed a **striking divide** on whether international companies support China’s push to replace imports with a **self-reliant** emphasis on domestic production.
+Two **influential** groups of foreign businesses in China **issued** very different reports on Thursday. They revealed a **striking divide** on whether international companies support China’s push to replace imports with a **self-reliant** emphasis on domestic production.  
 周四，两个在中国有影响力的外国企业团体发表了截然不同的报告。在是否支持中国推动以强调自力更生的国内生产取代进口的努力方面，这两份报告揭示了国际企业的明显分歧
 
-China has been **heavily subsidizing** its manufacturers of semiconductors, commercial aircraft, electric cars and other products as part of a national effort to **achieve greater self reliance**.
+China has been **heavily subsidizing** its manufacturers of semiconductors, commercial aircraft, electric cars and other products as part of a national effort to **achieve greater self reliance**.  
+>subsidize[ˈsʌbsɪˌdaɪz] 资助；补助；补贴；给…发津贴
+
 中国一直在大力补贴半导体、商用飞机、电动汽车和其他产品的制造商，作为加强自力更生努力的一部分
 
-“There are **troubling signs** that China is **increasingly turning inwards**, as can be seen in its 14th **five-year plan**,” the report said, referring to an economic **blueprint** the government released this year. “This **tendency** is **casting considerable doubts** over the country’s future growth **trajectory**.”
+“There are **troubling signs** that China is **increasingly turning inwards**, as can be seen in its 14th **five-year plan**,” the report said, referring to an economic **blueprint** the government released this year. “This **tendency** is **casting considerable doubts** over the country’s future growth **trajectory**.”  
+>tendency 趋势；倾向；趋向；偏好  
+>considerable 相当多(或大、重要等)的  
+>trajectory[trəˈdʒektəri]  弹道；轨道；轨线
+
 报告称，“有令人不安的迹象表明，中国越来越向内转，这在‘十四五’规划中可以看出，”该规划指的是政府今年发布的经济蓝图。“这种趋势正在令人对该国未来的增长轨迹产生相当大的怀疑。”
 
-More than European companies, he said, American companies **tend to** focus mainly on the next quarter’s financial results, which are usually best served by staying in China.
+More than European companies, he said, American companies **tend to** focus mainly on the next quarter’s financial results, which are usually best served by staying in China.  
 他说，与欧洲公司相比，美国企业往往更关注下一季度的财务业绩，而留在中国通常是更好的选择
 
-China is **swelling** into a military superpower. India, Vietnam and Singapore are spending more on defense. Japan is **leaning to** do the same. Now Australia, backed by the United States and Britain, has **catapulted** the military contest with Beijing in Asia into a **tense new phase**.
+China is **swelling** into a military superpower. India, Vietnam and Singapore are spending more on defense. Japan is **leaning to** do the same. Now Australia, backed by the United States and Britain, has **catapulted** the military contest with Beijing in Asia into a **tense new phase**.  
+>swell 增长; 膨胀；增大  
+>lean to 倾向；偏向；向……倾斜  
+>catapult[ˈkætəˌpʌlt] 投石车；弹弓；猛掷
+
 中国正在膨胀为一个军事超级大国。印度、越南和新加坡正在增加国防开支。日本也倾向于这样做。现在，澳大利亚在美国和英国的支持下，让与中国的军事竞争在亚洲跃入了一个紧张的新阶段。
 
-In response, China may **step up** its military **modernization**, especially in technology able to **stymie** the submarines.
+In response, China may **step up** its military **modernization**, especially in technology able to **stymie** the submarines.  
+>stymie[ˈstaɪmi] 阻碍；阻挠；阻止；从中作梗
+
 作为回应，中国也许会加快本国的军事现代化，尤其是在能够阻碍核动力潜艇的技术方面
 
-Countries trying to **stay in the middle**, like Indonesia, Malaysia and others, face a potentially more **volatile** region and growing pressure
+Countries trying to **stay in the middle**, like Indonesia, Malaysia and others, face a potentially more **volatile** region and growing pressure 
+>volatile[ˈvɑlətaɪl] 易变的；不稳定的；可能急剧波动的
+
 那些试图保持中立的国家，比如印度尼西亚、马来西亚等国，面对的是一个可能更加动荡的地区
 
-The picture is one of three **Anglo-Saxon** countries **drumming up militarily** in the Indo-Pacific region
+The picture is one of three **Anglo-Saxon** countries **drumming up militarily** in the Indo-Pacific region  
+>drum up 招揽(顾客等)；招募(新兵等)；鼓励；激起
+
 现在的情况是，三个盎格鲁—撒克逊国家在印度—太平洋地区兜揽军事生意
 
-India, which has **veered** between **border clashes** with China and efforts to **patch up ties** with its neighbor, has been **muted** about the agreement.
+India, which has **veered** between **border clashes** with China and efforts to **patch up ties** with its neighbor, has been **muted** about the agreement.  
+>veer[vɪr] 改变；突然变向；猛然转向；偏离
+
 在与中国发生边界冲突和努力修补与邻国关系之间变化不定的印度尚未对澳英美协议表态
 
-**Outwardly**, Australia’s plan to eventually build at least eight nuclear-powered **submarines** might seem to make little difference to China’s **calculus**
+**Outwardly**, Australia’s plan to eventually build at least eight nuclear-powered **submarines** might seem to make little difference to China’s **calculus**  
 从表面上看，澳大利亚最终建造至少八艘核动力潜艇的计划似乎对中国的算盘没有什么影响
 
-China Evergrande, the **property giant** whose financial **troubles roiled global markets** earlier this week, left investors in a state of **uncertainty** again on Thursday with **the fate of** an $83 million **interest** payment still **unresolved**. The payment, on Evergrande’s **dollar-denominated bonds**, was **due** Thursday
+China Evergrande, the **property giant** whose financial **troubles roiled global markets** earlier this week, left investors in a state of **uncertainty** again on Thursday with **the fate of** an $83 million **interest** payment still **unresolved**. The payment, on Evergrande’s **dollar-denominated bonds**, was **due** Thursday  
 本周早些时候，房地产巨头中国恒大的财务困境搅乱了全球市场。周四，该公司8300万美元的利息支付问题仍未解决，再次让投资者陷入不确定状态。恒大这笔以美元计价的债券将于周四到期
 
-But, this person **noted**, the company’s **debt covenants** provide it with a 30-day **grace period** before the missed payment **results in a default**, which means the **limbo** debtholders find themselves in could continue
+But, this person **noted**, the company’s **debt covenants** provide it with a 30-day **grace period** before the missed payment **results in a default**, which means the **limbo** debtholders find themselves in could continue  
+>grace period 优惠期；过渡期；宽限期  
+>covenant[ˈkʌvənənt] 协议；公约  
+>limbo 地狱边境；迷失域；地狱边缘
+
 但这位人士指出，该公司的债务契约规定，在错过付款导致违约之前，它有30天的宽限期，这意味着债券持有人的困境可能会持续存在
 
-The **tension** in global financial markets has **eased more** recently, **in part** as Chinese officials stepped in to **shore up** confidence — including by **pumping billions of dollars of capital into** the country’s banking system
+The **tension** in global financial markets has **eased more** recently, **in part** as Chinese officials stepped in to **shore up** confidence — including by **pumping billions of dollars of capital into** the country’s banking system  
+>shore up 支撑；支持  
+>pump into 大量输入; 用泵注入；灌输
+
 全球金融市场的紧张最近有所缓解，部分原因是中国官员出手提振市场信心——包括向该国银行体系注入数十亿美元资金
 
-On another key question for investors, whether China will directly **bail Evergrande out**, so far Beijing has remained **tight-lipped** while emphasizing that no Chinese company is **too big to fail**.
+On another key question for investors, whether China will directly **bail Evergrande out**, so far Beijing has remained **tight-lipped** while emphasizing that no Chinese company is **too big to fail**.  
+>tight-lipped 嘴唇紧闭的；守口如瓶；沉默的
+
 对于投资者面临的另一个关键问题，即中国是否会直接救助恒大，迄今为止，北京一直守口如瓶，同时强调没有一家中国企业是大到不能倒的
 
-He said bondholders and Evergrande may ultimately **work through a near-term agreement** that involves debtholders **loosing a portion** on their Evergrande exposure
+He said bondholders and Evergrande may ultimately **work through a near-term agreement** that involves debtholders **loosing a portion** on their Evergrande exposure  
+>near-term 短期；目前的；近期的
+
 他表示，债券持有人和恒大最终可能会达成一项短期协议，其中包括让债券持有人减持部分恒大敞口
 
-Despite the **lingering uncertainty**, stock investors seem to expect a better outcome for Evergrande than they did earlier in the week. Those businesses could still have value even if the **real-estate arm collapses**.
+Despite the **lingering uncertainty**, stock investors seem to expect a better outcome for Evergrande than they did earlier in the week. Those businesses could still have value even if the **real-estate arm collapses**.  
+>lingering[ˈlɪŋɡərɪŋ] 拖延的；缠绵的；逗留不去的；徘徊；[linger]的现在分词
+
 尽管不确定性依然存在，股票投资者似乎对恒大的预期比本周早些时候要好 即使房地产业崩溃，这些企业仍有价值。
 
-Noel Quinn, the chief executive of HSBC, **acknowledged** at the same conference that Evergrande’s challenges might **seep further into** the **equity and credit markets**.
+Noel Quinn, the chief executive of HSBC, **acknowledged** at the same conference that Evergrande’s challenges might **seep further into** the **equity and credit markets**.  
+>seep into 渗入；流入；影响到
+
 汇丰首席执行官诺埃尔·奎因在同一个会议上承认，恒大的挑战可能会进一步渗透到股票和信贷市场
 
-I’d be **na?ve** to think that the **turmoil** in the market doesn’t have the potential to have **second-order and third-order impact**
+I’d be **naive** to think that the **turmoil** in the market doesn’t have the potential to have **second-order and third-order impact**  
+>second-order 〔数〕二阶；第二阶；第二序的
+
 如果认为市场的动荡没有可能产生二阶和三阶的影响，那就太天真了
 
-China Evergrande Group, the developer, on Wednesday said it **reached a deal** that might give it **some breathing room** in the face of a bond payment due the next day
+China Evergrande Group, the developer, on Wednesday said it **reached a deal** that might give it **some breathing room** in the face of a bond payment due the next day  
+>breathing room 喘息时间；喘息的空间
+
 开发商中国恒大集团周三表示，公司已协商出一个方案，在一笔债券周四到期前获得了一些喘息空间
 
-Heavy government spending on new rail lines, highways and other projects is keeping the economy **afloat** right now, but may not be **sustainable** through next year.
+Heavy government spending on new rail lines, highways and other projects is keeping the economy **afloat** right now, but may not be **sustainable** through next year.  
+>afloat[əˈfloʊt] 漂浮；有偿债能力；能维持下去; 在海上；在船上
+
 政府在新铁路、高速公路和其他项目上的巨额支出目前使经济得以维持，但这种开支可能无法持续到明年
 
-While many economists in China are **pouring cold water** over the idea of potential **financial contagion**, they are pointing to the broad weakness in China’s property market, a **mainstay** of the economy, and other long-term threats.
+While many economists in China are **pouring cold water** over the idea of potential **financial contagion**, they are pointing to the broad weakness in China’s property market, a **mainstay** of the economy, and other long-term threats.  
+>contagion[kənˈteɪdʒən] 蔓延；接触传染；接触性传染病  
+>mainstay 台柱子；主干；主心骨
+
 尽管中国的许多经济学家给恒大可能触发金融危机的说法泼冷水，但他们也指出了中国房地产市场普遍疲软以及其他的长期威胁。房地产一直是中国经济的支柱
 
-On Wednesday, it said in a **vaguely worded** stock market filing that it had reached an arrangement with Chinese investors to make a payment due the following day, without offering details.
+On Wednesday, it said in a **vaguely worded** stock market filing that it had reached an arrangement with Chinese investors to make a payment due the following day, without offering details.  
+>vaguely[ˈveɪɡli] 模糊地；不明确地；含糊不清地；闪烁其词地  
+>vaguely worded 措辞含糊的
+
 公司周三在深圳股市发布的一份措辞含糊的公告中说，将在周四如期支付一笔债务的利息，支付方式与中国投资者协商解决，但没有提供细节
 
-Chinese policymakers could **conceivably step in** and rescue Evergrande. But that would **run contrary to** their efforts to get companies to borrow less and to **take some of the steam out of** the property market, where apartments for purchase are increasingly **unaffordable** for many Chinese families in a number of markets.
+Chinese policymakers could **conceivably step in** and rescue Evergrande. But that would **run contrary to** their efforts to get companies to borrow less and to **take some of the steam out of** the property market, where apartments for purchase are increasingly **unaffordable** for many Chinese families in a number of markets.  
+>conceivably[kən'sivəblɪ] 可以想象地；令人信服地；想得到地  
+>take the steam out of 给..降温, 减少动力
+
 中国的政策制定者可能会出面拯救恒大。但这会与他们试图让企业少借钱、给过热的房地产市场降温的努力背道而驰。不少城市的许多中国家庭越来越买不起住房。
 
-People **familiar with** Chinese economic policymaking say that big companies often carry a lot of **collateral** on their books, so officials believe lenders won’t **get fully burned** by a collapse. They also cite the tools Beijing has to **unwind debts gradually** and limit financial disruptions, such as its control of the banking system.
+People **familiar with** Chinese economic policymaking say that big companies often carry a lot of **collateral** on their books, so officials believe lenders won’t **get fully burned** by a collapse. They also cite the tools Beijing has to **unwind debts gradually** and limit financial disruptions, such as its control of the banking system.  
+>collateral[kəˈlæt(ə)rəl] 抵押物；担保品; 附属的；附加的；附带的  
+>unwind 放松；解开；轻松; 展开；伸直
+
 熟悉中国经济决策的人士说，大公司的账簿上通常有大量抵押品，因此官员们认为，银行不会因公司破产而遭受重创。这些人士还指出，中国政府有逐步解除债务、限制金融混乱的工具，比如对银行体系的控制
 
-**Overcapacity** in many industrial sectors, coupled with a **faltering** construction sector, have prompted economists to predict slower growth
+**Overcapacity** in many industrial sectors, coupled with a **faltering** construction sector, have prompted economists to predict slower growth 
+>faltering[ˈfɔlt(ə)rɪŋ] 踉跄的；不稳的；颤抖的；踌躇的; [falter]的现在分词 
+
 许多工业领域产能过剩，加上建筑行业的衰退，促使经济学家做出了经济增长放缓的预测
 
-Other questions **hovering** right now over the Chinese economy can be seen in **a handful of** measures
+Other questions **hovering** right now over the Chinese economy can be seen in **a handful of** measures  
+>hover[ˈhɒvə(r)] 徘徊；盘旋；巡弋；犹豫; 悬停；悬浮  
+>a handful of 一把；一小撮；少量的；少数的；少数几位   
+
 中国经济如今面临的其他悬而未决的问题，可以从一些数据中看到
 
-The **nosedive** in **freight truck** production and sales is about much more than lost economic confidence, however. It also shows how China’s policies over the past few years **temporarily inflated** demand and produced **severe overcapacity**.
+The **nosedive** in **freight truck** production and sales is about much more than lost economic confidence, however. It also shows how China’s policies over the past few years **temporarily inflated** demand and produced **severe overcapacity**.  
+>nosedive 急剧下降；急转直下；暴跌；俯冲
+
 然而，货车产量和销售的急剧下降不仅反映了经济信心的丧失，也表明中国过去几年的政策临时推高了需求，造成了严重的产能过剩
 
-**Stringent** new standards for air pollution took effect for freight trucks manufactured beginning July 1. Stricter safety standards are also being **phased in**, such as a requirement that **onboard** software and sensors warn drivers when they start to **drift out of** their traffic lanes.
+**Stringent** new standards for air pollution took effect for freight trucks manufactured beginning July 1. Stricter safety standards are also being **phased in**, such as a requirement that **onboard** software and sensors warn drivers when they start to **drift out of** their traffic lanes.  
+>Stringent[ˈstrɪndʒənt] 严格的；迫切的；银根紧的；苛刻的；紧缩的；短缺的   
+>phase in 逐渐采用；逐步引入；分阶段引入   
+>drift out to 漂出
+
 严格的货运卡车空气污染新标准已在今年7月1日生效。更严格的安全标准也在逐步实施中，比如车载软件和传感器在司机开始偏离车道时必须发出警告。
 
 China’s freight truck manufacturing capacity has **ballooned** to 1.6 million trucks a year in a market where long-term sales estimates are far fewer than a million trucks a year. Truck dealerships across China are now **clogged with** rows of unsold trucks.
