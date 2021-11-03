@@ -706,3 +706,136 @@ A Korean-language production **awash in blood**, “Squid Game” is less **a fe
 >slippery 滑溜的；狡猾的    
 
 在某种程度上，《鱿鱼游戏》之所以轰动正是因为它的轰动，它的最初爆红引发关注，从而推动进一步的走红，因为人们都想要参与进来，并且好奇心的狡猾触角越来越深入人们的意识，也就吸引了更高的人气。
+
+State-owned enterprises that now **dominate Chinese coal mining** have long been **cautious about overproducing**. Since March, they have become **even more skittish**. **Now that** it’s a criminal charge, an executive especially at a state-owned enterprise **has no incentive to commit this offense**. The coal production at this stage is a **correction of an overshoot** 
+>skittish[ˈskɪtɪʃ] 轻浮的；轻佻的；易变的；容易受惊的；反复无常的   
+>now that 由于, 既然  
+>incentive[ɪnˈsentɪv] 动机；诱因；奖励  
+>overshoot 超过；超过(原计划;）突破(预计费用）
+
+目前主导中国煤矿开采的国有企业长期以来一直对过度生产持谨慎态度。自今年3月以来，这些企业变得更加谨慎。 这现在既然是刑事犯罪，国有企业的高管没有动机去犯这种法.现阶段的煤炭产量是对过度调整的修正
+
+It **foreshadows a grim start** to the international climate talks in Glasgow next week
+>foreshadow 暗示；前兆；预示  
+>grim 严肃的；坚定的；阴冷的; 严酷的；严厉的；冷酷的  
+
+这预示着下周在格拉斯哥举行的国际气候谈判将开局不利
+
+China **formalized the pledges** its leader announced last year  
+>formalize 使形式化；使正式  
+>pledge[pledʒ] 保证；抵押；誓言；发誓
+
+中国将其领导人去年做出的应对气候变化的承诺落实到纸面
+
+It doesn’t **advance the ball sufficiently**  
+它没有做足够的推进
+
+The planet **can’t afford this being the last word**. Beijing needs to **come up with** stronger implementation plans to **ensure an emission peak** before 2025  
+这个星球承受不起，这是肯定的。北京需要制定更强有力的实施计划，以确保在2025年之前达到排放峰值
+
+We can’t **sugarcoat** it: he has **lowballed** its target and missed a chance to be recognized as a global leader.
+>sugarcoat 粉饰；美化；好听的话; 在…上包糖衣  
+>lowball 有意压低(成本、价值等的)估价；虚报低价
+
+我们无法粉饰太平：他压低了自己的目标，错失了被公认为全球领导者的机会
+
+With the **continuation of industrialization and urbanization**, energy demand will keep rising while it is **unlikely to fundamentally** change the **coal-dominated energy mix** in the short term.  
+工业化和城镇化进程持续推进，能源需求仍将增长，以煤为主的能源结构短期内难以根本改变
+
+**Flying south to** Xi’an, they **dropped into** a 1,300-year-old temple. Their fellow tour group members **checked out** an art museum, **strolled through** parks and visited friends. Then, on Oct. 16, the day they had planned to visit the **Terracotta Warriors**, the couple tested positive for the coronavirus.
+>drop into 落入；偶然进入；不知不觉地养成(习惯等)  
+>stroll through 踱进；漫步  
+
+他们向南飞到西安，参观了一座有1300年历史的寺庙。旅行团的其他成员参观了一家艺术博物馆，在公园里散步，拜访朋友。然后，在10月16日，他们计划参观兵马俑的那一天，这对夫妇的新冠病毒检测呈阳性。
+
+The **no-holds-barred** response is **emblematic** of “zero Covid” policy, which has **served** the country **remarkably well**
+>no holds barred 为达目的无所不用其极的；毫无保留的；不受任何限制  
+>emblematic[ˌembləˈmætɪk] 标志的；象征(性)的；特有的；典型的
+
+这种无所不用其极的应对方式是“清零”政策的标志性做法，该政策取得了显著的效果
+
+Every **locality** should **firmly adhere to** the policy of ‘Defend **externally** against importation, defend **internally** against **rebound**
+>adhere[ədˈhɪr] 坚持；粘附；粘着
+
+各地要坚持‘外防输入，内防反弹’的防控策略不动摇
+
+He has refused to **change tack**. he was attacked **viciously** online as **a lackey of foreigners**. A former health minister called **such a mindset reckless**.
+>tack 方针；方法；大头钉  
+>lackey[ˈlæki] 狗腿子；走狗；佣人；听差；跟班  
+>reckless 鲁莽的；不计后果的
+
+他拒绝改变策略。他在网上被恶毒地攻击为外国人的走狗。一位前卫生部长称这种想法不计后果。
+
+Medical resources are **highly concentrated** in big cities, and more remote areas could quickly be **overwhelmed** by an **uptick** in cases
+>uptick (程度或价值的)小幅上升; 上涨；报升
+
+医疗资源高度集中在大城市，更偏远的地区可能很快会因病例增加而不堪重负
+
+While residents in locked-down areas have complained about **seemingly arbitrary** or **overly harsh** restrictions on social media, travel is **relatively unconstrained** in areas without cases. Wealthy consumers have **poured money into** luxury goods and **fancy cars** since they’re not spending on trips abroad.
+>overly 过度地；很；十分  
+>harsh 严厉的；刺耳的；粗糙的；苛刻的  
+>fancy car 豪车 名车
+
+虽然被封锁地区的民众在社交媒体上抱怨措施似乎比较武断或过于严厉，但在没有病例的地区，旅行相对不受限制。富有的消费者花钱购买奢侈品和豪车，因为他们没法在国外旅游上花钱。
+
+Other governments that have chosen to live with the virus may yet **lose their nerve**. After lifting many restrictions this summer, Singapore reinstated them in September amid a **spike** in infections. (Still, the government is moving forward with **travel lanes**.)
+>lose one's nerves 害怕起来；不知所措；变得慌张
+
+其他选择与病毒共存的政府可能还会失去勇气。今年夏天，新加坡取消了许多限制措施，但是由于感染病例激增，在9月又恢复了这些措施。(尽管如此，政府仍在推进旅游路线）
+
+As **consolation**, the local tourism association has promised them free entry to three popular tourist attractions, **redeemable** within the next three years.
+>consolation 安慰；慰问；起安慰作用的人或事物  
+>redeemable[rɪ'di:məbl] 可赎回的; 可兑换的；可交换的
+
+作为安慰，当地旅游协会承诺他们可以免费进入三个热门旅游景点，可在未来三年内兑现
+
+Retail sales have **proven fitful**, recovering and **ebbing with waves** of the virus.
+>fitful[ˈfɪtfəl] 断断续续的；一阵阵的；间歇的  
+
+零售业的销售情况不稳定，随着病毒的波动而恢复和衰退
+
+It has built entire **ski resorts from scratch**, constructed **an array of new venues** and even made plans to generate vast amounts of fake snow.
+>from scratch 白手起家的；从头做起；从无到有  
+
+从零开始建造整个滑雪场，修建了一系列新场馆，甚至制定了生成大量假雪的计划
+
+There’s a freedom and **self-sufficiency** to living in a rural town that you can’t find in the city, you can **drill a bore**, light a fire, kill a cow to eat, Whereas, in the city, you can’t do any of that. You can just **plant** a little garden full of **lettuce**.”
+>bore 钻孔；口径；（尤指因啰嗦）使厌烦；令人厌烦的人；烦人的状况  
+>drill 钻孔；训练；操练；钻头  
+>lettuce[ˈletəs] 生菜；莴苣菜
+
+生活在乡村小镇有一种自由和自足的感觉，在城市里是找不到的。在这里，你可以打一口井，点一团火，杀头牛吃，可是在城市里，你什么都不能做。顶多在花园里种种生菜。
+
+All of this makes sense. But there might also be something deeper **afoot**. The pandemic gave us a kind of forced separation from work and a rare critical distance from the **daily grind**, I think what you’re seeing with people refusing to go back is a kind of **yearning for freedom**.
+>afoot 计划中；进行中  
+>grind[ɡraɪnd] 碾碎；磨碎；把…磨成粉；令人疲劳(或厌倦)的工作；苦差事  
+>yearn[jɜrn] 渴望；渴求
+
+所有这些都说得通。但也可能有更深层次的东西在酝酿。疫情让我们在某种程度上被迫离开了工作，与日常工作保持了一种难得的关键距离，我认为，你看到的人们拒绝回去上班是一种对自由的渴望。
+
+But Buy Nothing turns the act of **decluttering into** a way to meet and **befriend** your neighbors. Because each group is **geographically** limited, sometimes **encompassing** only a few city blocks
+>declutter[di:'klʌtə(r)] 整理；清理(无用杂物)；减持  
+>befriend 以朋友相待；待人如友；亲近  
+>geographically 在地理上；在地理学上  
+>encompass 包括；环绕；完成
+
+但是，“什么都不买”将清理物品变成了结识邻居并成为朋友的一种方式。因为每个群受到地域的限制，有的只包含几个街区
+
+To guard against further damage, the government **temporarily boarded up** the statue, drawing a **rebuke** from Prime Minister Boris Johnson, a **self-styled** Churchill **acolyte**, who declared that “we cannot now try to edit or censor our past.”
+>board up 用木板封起来；用栅木板阻断； 
+>rebuke[rɪˈbjuk] 指责；批评  
+>self-styled 自封的；自诩的  
+>acolyte[ˈækəˌlaɪt] 助手；侍从；随员
+
+为了防止进一步的破坏，政府临时封住了雕像，还引来自称是丘吉尔信徒的首相鲍里斯·约翰逊(Boris Johnson)的指责，宣称“我们现在不能去编辑或者审查我们的过去”。
+
+Churchill, in this telling, was not just a racist but **a hypocrite, a dissembler, a narcissist, an opportunist, an imperialist, a drunk, a strategic bungler, a tax dodger, a neglectful father, a credit-hogging author, a terrible judge** of character and, most of all, a **masterful mythmaker**.
+>hypocrite[ˈhɪpəkrɪt] 伪君子；虚伪的人  
+>dissembler[dɪ'səmblə] 伪君子；掩饰语  
+>narcissist[ˈnɑːrsəˌsist] 自我陶醉者；自恋者；自恋的  
+>bungler['bʌŋɡlə(r)] 糊涂虫；笨拙的人  
+>neglectful[nəˈɡlektfəl] 马虎的；不重视的；疏忽的  
+>hogging['hɒgɪŋ] 多占；独占  
+>masterful[ˈmæstərfəl] 有控制能力的；有驾驭能力的; 专横的；傲慢的；主人派头的
+
+在他的叙事中，丘吉尔不仅是种族主义者，还是伪君子、骗子、自恋狂、机会主义者、帝国主义者、酒鬼、战略失误者、逃税者、失职的父亲、沽名钓誉的作家、糟糕的性格判断者，最重要的是，他是一个技艺高超的神话创造者。

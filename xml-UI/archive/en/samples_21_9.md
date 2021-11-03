@@ -720,29 +720,53 @@ The **nosedive** in **freight truck** production and sales is about much more th
 
 严格的货运卡车空气污染新标准已在今年7月1日生效。更严格的安全标准也在逐步实施中，比如车载软件和传感器在司机开始偏离车道时必须发出警告。
 
-China’s freight truck manufacturing capacity has **ballooned** to 1.6 million trucks a year in a market where long-term sales estimates are far fewer than a million trucks a year. Truck dealerships across China are now **clogged with** rows of unsold trucks.
+China’s freight truck manufacturing capacity has **ballooned** to 1.6 million trucks a year in a market where long-term sales estimates are far fewer than a million trucks a year. Truck dealerships across China are now **clogged with rows of** unsold trucks.  
+>be clogged with 阻塞  
+>rows of 一排排的；鳞次栉比的；多排的
+
 中国货运卡车的生产能力已经膨胀到每年160万辆，而中国市场的长期销售预期远低于每年100万辆。中国各地的卡车经销商手中现在都有大量的待售卡车
 
-An **acute** shortage of computer chips has separately affected the production and sale of cars in China, **muddying** the picture. The market for car sales is generally in a **downturn**, partly because of the chip shortage
-计算机芯片的严重短缺也影响了中国汽车的生产和销售，让前景变得模糊不清 汽车销售市场比较低迷，部分由于芯片不足
+An **acute** shortage of computer chips has separately affected the production and sale of cars in China, **muddying** the picture. The market for car sales is generally in a **downturn**, partly because of the chip shortage  
+>acute 十分严重的；(疾病)急性的；尖锐的；剧烈的；  
+>muddy 泥泞的；脏的；弄浊；使头脑糊涂；使混乱；混浊
 
-While China faces broad overcapacity and other worries, many economists in China still express more confidence than economists **elsewhere** that the country can **weather its troubles**.
+计算机芯片的严重短缺也影响了中国汽车的生产和销售，让前景变得模糊不清. 汽车销售市场比较低迷，部分由于芯片不足
+
+While China faces broad overcapacity and other worries, many economists in China still express more confidence than economists **elsewhere** that the country can **weather its troubles**.  
+>elsewhere 在别处；到别处；其他地方  
+>weather 天气；经受住; 经历
+
 尽管中国面临广泛的产能过剩和其他担忧，中国的许多经济学家仍比其他国家的经济学家对中国能够度过难关更有信心
 
-We **settled into** the now familiar contest between democratic liberalism and authoritarianism.
+We **settled into** the now familiar contest between democratic liberalism and authoritarianism.  
 我们陷入了自由主义和威权主义之间的竞争，这种竞争现在人们已经很熟悉了
 
-They used **religious symbols** as nationalist identity markers and **rallying cries**. They **unified the masses** behind them by **whipping up perpetual culture wars**. They **reframed** the global debate: it was between the **moral decadence** of Western elites and traditional values and superior spirituality of the **good normal** people in their own homelands.
-他们使用宗教符号作为?族主义的身份标志和战斗口号。他们通过无休止的文化战争，将群众团结在他们身后。他们重新定义了全球辩论: 这是西方精英的道德堕落，与传统价值观以及本国善良普通人的优越精神之间的争论。
+They used **religious symbols** as nationalist identity markers and **rallying cries**. They **unified the masses** behind them by **whipping up perpetual culture wars**. They **reframed** the global debate: it was between the **moral decadence** of Western elites and traditional values and superior spirituality of the **good normal** people in their own homelands.  
+>whip[wɪp] up 鞭(马等)飞跑；督促；集合(听众等)；当场完成；激起；  
+>perpetual[pərˈpetʃuəl] 不间断的；持续的；永久的；永恒的  
+>reframe 重新架构；重新制订；重新界定  
+>moral 寓意；品行；道德的；道义上的  
+>decadence[ˈdekədəns] 颓废；堕落；贪图享乐
 
-The 21st century is turning into an **era of globe-spanning holy wars** at a time when the **appeal** of actual religion seems to be **on the wane**.
+他们使用宗教符号作为民族主义的身份标志和战斗口号。他们通过无休止的文化战争，将群众团结在他们身后。他们重新定义了全球辩论: 这是西方精英的道德堕落，与传统价值观以及本国善良普通人的优越精神之间的争论。
+
+The 21st century is turning into an **era of globe-spanning holy wars** at a time when the **appeal** of actual religion seems to be **on the wane**.  
+>on the wane[weɪn] 逐渐衰落；日落西山；日益衰落；(月)正在亏缺中
+
 在现实宗教的吸引力似乎在减弱的时候，21世纪正在变成一个跨越全球的圣战时代
 
-Mao Zedong regarded **prerevolutionary** China **with contempt**. 
+Mao Zedong regarded **prerevolutionary** China **with contempt**.   
+>contempt 蔑视；轻蔑；鄙视；  
+
 毛泽东对革命前的中国不屑一顾
 
-Last week, the Chinese government ordered a **boycott** of **“sissy pants” celebrities**. These are the **delicate-looking** male stars who display gentle **personalities** and are accused of **feminizing Chinese manhood**.
-上周，中国政府下令抵制“娘炮”明星。这些?相精致的男明星表现出温柔的气质，他们被指责令中国的男子气概变得女性化
+Last week, the Chinese government ordered a **boycott** of **“sissy pants” celebrities**. These are the **delicate-looking** male stars who display gentle **personalities** and are accused of **feminizing Chinese manhood**.  
+>sissy[ˈsɪsi] 娘娘腔的  
+>delicate[ˈdelɪkət] 精致的，微妙的，脆弱的；易碎的；精美的  
+>feminize[ˈfemɪˌnaɪz] 使女性化；雌性化；阴柔化  
+>personality 人格；个性；性格特点
+
+上周，中国政府下令抵制“娘炮”明星。这些长相精致的男明星表现出温柔的气质，他们被指责令中国的男子气概变得女性化
 
 The Chinese internet is **apparently now rife with** attacks on the **decadent** “white left” — educated American and European progressives who **champion feminism**, L.G.B.T.Q. rights **and such**.
 中国互联网现在显然充斥着对颓废的“白左”的攻击—— 这个词是指受过教育的美国和欧洲进步人士，他们是女权主义和LGBTQ权利等等的倡导者。
