@@ -953,6 +953,11 @@ $ find /home -user king -exec file {} \;
 $ find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
 Archive:  ./commons-compress-1.8.1.jar
 3352  2014-05-09 20:45   org/apache/commons/compress/utils/ClassUtils.class
+# 通过grep命令直接搜寻压缩包内部文件名 ‘-l’参数仅输出匹配到的文件名
+# 这种方式不解压无法像上面一条命令显示完整package结构
+$ find . -name "*.jar" -exec grep -il "ClassUtils.class" {} \;
+./commons-compress-1.8.1.jar
+
 # 解压lib目录下所有jar包文件中class文件，不提示覆盖选择，不输出处理文件列表 {}表示find传入参数
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o -qq {} "*.class" \;
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o {} "*.class" > /dev/null \;
@@ -1297,6 +1302,15 @@ grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:40"'
 grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" '
 # 查找某个时间段的日志并且过滤名称为key的日志
 grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" && $4!="key" '
+
+# 查找压缩文件中的匹配项
+# 查看ClassUtils.class文件存在于哪个jar文件中
+$ grep -ir "ClassUtils.class" libs/
+grep: libs/apache/commons-compress-1.8.1.jar: binary file matches
+# -l, --files-with-matches 输出匹配到查找项的文件
+# -L, --files-without-match 输出匹配不到查找项的文件
+$ grep -irl "ClassUtils.class" libs/
+libs/apache/commons-compress-1.8.1.jar
 ```
 ##### grep regular symbol
   Symbol      | Result
