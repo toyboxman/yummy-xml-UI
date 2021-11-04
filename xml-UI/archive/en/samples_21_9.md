@@ -768,11 +768,23 @@ Last week, the Chinese government ordered a **boycott** of **“sissy pants” c
 
 上周，中国政府下令抵制“娘炮”明星。这些长相精致的男明星表现出温柔的气质，他们被指责令中国的男子气概变得女性化
 
-The Chinese internet is **apparently now rife with** attacks on the **decadent** “white left” — educated American and European progressives who **champion feminism**, L.G.B.T.Q. rights **and such**.
+The Chinese internet is **apparently now rife with** attacks on the **decadent** “white left” — **educated American and European progressives** who **champion feminism**, L.G.B.T.Q. rights **and such**.  
+>rife[raɪf] 普遍的；流行的；丰富的  
+>decadent[ˈdekədənt] 堕落的；颓废的；颓废者；腐朽  
+>progressive 进步的；先进的；开明的；进步人士；开明人士；改革派  
+>champion[ˈtʃæmpiən] 冠军；捍卫者；拥护者；捍卫；为…而斗争；声援  
+>and such 诸如此类；之类；等等
+
 中国互联网现在显然充斥着对颓废的“白左”的攻击—— 这个词是指受过教育的美国和欧洲进步人士，他们是女权主义和LGBTQ权利等等的倡导者。
 
-They are **motivated by nativist** and anti-immigrant attitudes and then **latch onto** Christian symbols to separate “them” from “us.” In Germany, for example, **the far-right group** that aggressively **plays up** its Christian identity **underperforms** among voters who are actually religious.
-他们受本土主义和反移?态度驱动，然后抓住基督教的象征，把“他们”和“我们”分开。例如，在德国，激进地宣扬其基督教身份的极右翼团体在真正有宗教信仰的选举中表现不佳
+They are **motivated by nativist** and anti-immigrant attitudes and then **latch onto** Christian symbols to separate “them” from “us.” In Germany, for example, **the far-right group** that aggressively **plays up** its Christian identity **underperforms** among voters who are actually religious.  
+>nativist['neɪtɪvɪst] 本土主义者；本土文化保护者；乡土   
+>latch[lætʃ] 门闩；插销；获得；抓住；占有  
+>latch onto 理解；抓住；不让…离去  
+>play up 大肆渲染；大肆宣传；(比赛等时)奋战；加油  
+>underperform 发挥不好；表现不理想
+
+他们受本土主义和反移民态度驱动，然后抓住基督教的象征，把“他们”和“我们”分开。例如，在德国，激进地宣扬其基督教身份的极右翼团体在真正有宗教信仰的选举中表现不佳
 
 These **religiously cloaked** authoritarians have naturally **provoked** an anti-religious **backlash**. The **pseudo-religious** authoritarians have raised the **moral stakes**
 这些披着宗教外衣的威权主义者自然激起了反宗教的反弹, 伪宗教威权主义者提高了道德风险
