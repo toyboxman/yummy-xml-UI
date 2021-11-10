@@ -786,10 +786,18 @@ They are **motivated by nativist** and anti-immigrant attitudes and then **latch
 
 他们受本土主义和反移民态度驱动，然后抓住基督教的象征，把“他们”和“我们”分开。例如，在德国，激进地宣扬其基督教身份的极右翼团体在真正有宗教信仰的选举中表现不佳
 
-These **religiously cloaked** authoritarians have naturally **provoked** an anti-religious **backlash**. The **pseudo-religious** authoritarians have raised the **moral stakes**
+These **religiously cloaked** authoritarians have naturally **provoked** an anti-religious **backlash**. The **pseudo-religious** authoritarians have raised the **moral stakes**  
+>cloak[kloʊk] 斗篷；遮盖物; 掩盖；遮盖  
+>backlash 强烈抵制; 强烈反弹; 后冲力  
+>pseudo['sjuːdəʊ] 假的；冒充的；伪的  
+>stake 股份；木桩；赌注；利害关系
+
 这些披着宗教外衣的威权主义者自然激起了反宗教的反弹, 伪宗教威权主义者提高了道德风险
 
-Those of us on the side of Western liberalism have no choice but to fight this on the spiritual and **cultural plane** as well, to show that **pluralism** is the opposite of **decadence**, but is a spiritual-rich, **practically effective** way to **lift human dignity and run a coherent society**.
+Those of us on the side of Western liberalism have no choice but to fight this on the spiritual and **cultural plane** as well, to show that **pluralism** is the opposite of **decadence**, but is a spiritual-rich, **practically effective** way to **lift human dignity and run a coherent society**.  
+>pluralism[ˈplʊrəlˌɪzəm] 多元主义；多元论；多元化  
+>coherent[koʊˈhɪrənt] 合乎逻辑的；有条理的；清楚易懂的；连贯的；一致的
+
 这些站在自由主义一边的人别无选择，只能在精神和文化层面上与之斗争，以表明多元化是颓废的反面，它是一种精神丰富、实际有效的方式，可以提升人类尊严，并运行一个协调的社会
 
 The war in Afghanistan wasn’t a failure. It was a **massive success** — for those who **made a fortune off** it.

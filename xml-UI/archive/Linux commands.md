@@ -109,7 +109,7 @@
         - [Add New Users](#add-new-users)
         - [umask修改权限](https://mp.weixin.qq.com/s/LIPX78Ex-KSaCCd9wiyvJA)
         - [Linux提权](https://mp.weixin.qq.com/s/SSkWnOGcLiLtudr_5dNcsg)
-        - sudo[[1](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [2](https://mp.weixin.qq.com/s/MA4qscWPGp0XCk_nOWiTxg)]
+        - sudo[[1](https://mp.weixin.qq.com/s/z127ryX6ueeVf-8FdK07vw), [2](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [3](https://mp.weixin.qq.com/s/MA4qscWPGp0XCk_nOWiTxg)]
         - [用户组启禁用 SSH](https://mp.weixin.qq.com/s/uvU_Y24qVTOkc-aAlHV0zA)
         - [Tripwire/chattr/sudo/sealert安全保护](https://mp.weixin.qq.com/s/dK6YUGt4eiDY4rkDKE3cUg)
         - [PAM设置密码复杂度](https://mp.weixin.qq.com/s/Z9lfg8EUex61HVPgiFy9bw)

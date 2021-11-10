@@ -470,6 +470,12 @@
     + [API演变-从REST到WebSocket/gRPC/GraphQL](https://mp.weixin.qq.com/s/CieKMCv2LbV0eDnoVOoQXw)
     + [API方式-REST/RPC/GraphQL](https://mp.weixin.qq.com/s/4IkJqZAB-X0HeGyemQo73A)
     + [API对比-RPC/SOAP/REST/GraphQL](https://mp.weixin.qq.com/s/HDuV-oXKsbGFZ0HOpj8ydw)
++ 亿级流量架构的考虑
+    - 分布式事务思路及方法[[1](https://mp.weixin.qq.com/s/ns7AZNK-6GCeMymiMwahQg), [2](https://mp.weixin.qq.com/s/CJ219p87gmffzefSwC_CIQ)]
+    - [服务降级思路与方法](https://mp.weixin.qq.com/s/B5BNu6YJssOMlqsuD7W-wA)
+    - [资源隔离思路与方法](https://mp.weixin.qq.com/s/-FKgYG0djCmtfkE-wFnFsw)
+    - [缓存思路与方法](https://mp.weixin.qq.com/s/kEEqKphj2GFKRlnXDEZ32A)
+    - [服务器扩容思路及问题分析](https://mp.weixin.qq.com/s/I0TeBsb6LeAnWhC81RqCHg)
 + [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)  
     `雪崩效应/缓存穿透/HystrixCommand/资源隔离/熔断`
 + [从零开始搭建后台技术栈](https://mp.weixin.qq.com/s/q9zzDPJXQRqIF6iQv2EE0A)
