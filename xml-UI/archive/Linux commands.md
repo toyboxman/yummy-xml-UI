@@ -2331,7 +2331,7 @@ Mary
 ```
 
 #### head/tail
-+ [Multitail](https://mp.weixin.qq.com/s/MjquqO6nvJJb1zSrwCjR9Q)
++ Multitail同时查看多个日志文件[[1](https://mp.weixin.qq.com/s/MjquqO6nvJJb1zSrwCjR9Q), [2](https://mp.weixin.qq.com/s/ZqXwEV8JI45iVxlTYNmcLg)]
 
 显示文件首/尾内容
 ```console

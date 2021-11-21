@@ -443,6 +443,10 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 [arthas@28030]$ trace *facade.LogicalSwitchImpl delete*
 # 同上面命令但是可以追踪jdk的方法调用
 [arthas@28030]$ trace --skipJDKMethod false *LogicalSwitchImpl delete*trace
+
+# 记录LogicalSwitchImpl所有构造方法被调用的栈数据
+[arthas@28030]$ trace *facade.LogicalSwitchImpl <init>
+
 # 通过正则表达追踪多个对象方法
 trace -E class1|class2 method1|method2
 ```

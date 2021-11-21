@@ -801,88 +801,166 @@ Those of us on the side of Western liberalism have no choice but to fight this o
 这些站在自由主义一边的人别无选择，只能在精神和文化层面上与之斗争，以表明多元化是颓废的反面，它是一种精神丰富、实际有效的方式，可以提升人类尊严，并运行一个协调的社会
 
 The war in Afghanistan wasn’t a failure. It was a **massive success** — for those who **made a fortune off** it.
+>make a fortune 赚大钱；发大财
+
 阿富汗战争不是一场失败，而是一场巨大的成功——对那些从中发财的人来说。
 
 Consider the case of Hikmatullah Shadman, who was just a teenager when American Special Forces **rolled into** Kandahar **on the heels of** Sept. 11. They hired him as an interpreter, paying him up to $1,500 a month — 20 times the salary of a local police officer, **according to a profile** of him in The New Yorker. By his late 20s, he owned a trucking company that supplied U.S. military bases, earning him more than $160 million.
+>on the heels of 紧跟在后面；接踵而来；紧接着  
+
 以希克图拉·沙德曼为例。美国特种部队在 9·11事件发生后进入坎大哈时，他还只是一个十几岁的少年。据《纽约客》上一篇关于他的人物特写，特种部队雇了他来当翻译，每月付给他最高1500美元，是当地警察工资的20倍。他快30岁时已拥有一家为美国军事基地提供物资的卡车运输公司，这让他赚了逾1.6亿美元。
 
-If a **small fry** like Shadman could **get so rich off** the war on terror, imagine how much Gul Agha Sherzai, a **big-time** warlord-turned- governor, has **raked in** since he helped the C.I.A. run the Taliban out of town
+If a **small fry** like Shadman could **get so rich off** the war on terror, imagine how much Gul Agha Sherzai, a **big-time** warlord-turned-governor, has **raked in** since he helped the C.I.A. run the Taliban out of town
+>small fry 小人物；(相比较之下)不重要的人或事物  
+>get rich off 因什麽而致富；靠...挣钱发财  
+>big time 有名的；有钱的；成功的; 一流的；大规模的；炙手可热的  
+>rake in 迅速取得；大量地敛集；赚大钱
+
 如果像沙德曼这样的小人物都能从反恐战争中赚这么一大笔钱的话， 想象一下，军阀出身的省长古尔·阿迦·谢尔扎伊这样的大人物，自帮助中央情报局把塔利班赶出城以来已经赚了多少钱
 
 Nobody knows how much he is worth, but it is clearly hundreds of millions — enough for him to talk about a $40,000 **shopping spree** in Germany as if he were spending **pocket change**.
+>spree[spri] 玩乐；纵乐；狂欢
+
 没人知道他身价几何，但显然有数亿美元，多到足够让他把一次在德国的4万美元购物狂欢说得像是花口袋里的零钱似的
 
-Look under the **hood of the “good war,”** and this is what you see. Afghanistan was supposed to be an honorable war to **neutralize** terrorists and **rescue** girls from the Taliban. It was supposed to be a war that we **woulda coulda shoulda** won, had it not been for the **distraction** of Iraq, and the hopeless corruption of the Afghan government. But let’s **get real**. Corruption wasn’t a **design flaw** in the war. It was a design feature. We didn’t **topple** the Taliban. We paid warlords **bags of** cash to do it.
+Look **under the hood of the “good war,”** and this is what you see. Afghanistan was supposed to be an honorable war to **neutralize** terrorists and **rescue** girls from the Taliban. It was supposed to be a war that we **woulda coulda shoulda** won, had it not been for the **distraction** of Iraq, and the hopeless corruption of the Afghan government. But let’s **get real**. Corruption wasn’t a **design flaw** in the war. It was a design feature. We didn’t **topple** the Taliban. We paid warlords **bags of** cash to do it.
+>under the hood 在引擎盖下面；藏在表面之下的机制或结构  
+>neutralize[ˈnutrəˌlaɪz] 中和；使无效；使中立；压制；抵消；  
+>get real 面对现实  
+>topple[ˈtɑp(ə)l] 倒下；倾倒；推翻；颠覆 推倒  
+>bags of 许多的；很多；充足的
+
 这就是这场“正义战争”外表下的情况。阿富汗战争本应是一场消灭恐怖 分子、将女孩从塔利班手下解救出来的光荣战争。这本应是一场我们本会、本可、本该打赢的战争，如果不是因为我们被伊拉克分散了注意力，如果不是因为阿富汗政府腐败得无可救药。但让我们现实一点吧。腐败不是这场战争的一个设计缺陷，而是一个设计特色。我们自己没有推翻塔利班。我们花大价钱雇军阀来推翻塔利班
 
-Westerners often **scratched their heads** at the **persistent lack of capacity** in Afghan governing institutions, but the **sophisticated** networks controlling those institutions never **intended to govern**. Their objective was **self-enrichment**. And at that task, they proved **spectacularly** successful.
+Westerners often **scratched their heads** at the **persistent lack of capacity** in Afghan governing institutions, but the **sophisticated** networks controlling those institutions never **intended to govern**. Their objective was **self-enrichment**. And at that task, they proved **spectacularly** successful.  
+>scratch one's head 挠头；抓耳挠腮；为难；对某事迷惑不解   
+>self-enrichment 自我充实；自我丰富；敛财
+
 西方人经常对阿富汗政府机构的持续无能苦思不得其解, 然而控制这些机构的复杂关系网从来都没打算治理国家。他们的目标是为自己敛财。在这个任务上，他们被证明取得了了不起的成功
 
-In April 2002, Defense Secretary Donald Rumsfeld **dictated a top-secret memo** ordering aides to **come up with** “a plan for how we are going to deal with each of these warlords — who is going to get money from whom, on what basis, in exchange for what, what is the **quid pro quo**, etc.,” according to The Washington Post.
-据《华盛顿邮报》报道，2002年4月，时任国防部?的唐纳德·拉姆斯菲尔德口授了一份绝密备忘录，要求助手提交“一份我们将如何与这些军阀打交道的计划——谁将从谁那里拿钱，以什么为依据，以什么 为交换，回报是什么，等等”。
+In April 2002, Defense Secretary Donald Rumsfeld **dictated a top-secret memo** ordering aides to **come up with** “a plan for how we are going to deal with each of these warlords — who is going to get money from whom, **on what basis**, in exchange for what, what is the **quid pro quo**, etc.,” according to The Washington Post.
+>on what basis 凭什么  
+>quid pro quo 回报；交换条件；补偿；交换物
+
+据《华盛顿邮报》报道，2002年4月，时任国防部长的拉姆斯菲尔德口授了一份绝密备忘录，要求助手提交“一份我们将如何与这些军阀打交道的计划——谁将从谁那里拿钱，以什么为依据，以什么为交换，回报是什么，等等”。
 
 The war proved **enormously lucrative** for many Americans and Europeans, too. Even after it **got caught bribing** officials and **systematically overbilling** taxpayers, the contracts kept coming.
+>lucrative[ˈlukrətɪv] 赚钱的；有利可图的；有利的  
+
 事实证明，对许多美国人和欧洲人来说，阿富汗战争也是巨大的赚钱机会。即使在公司被抓到贿赂官员、系统性地让纳税人多掏腰包之后，他们的合同仍源源不断。
 
 It’s a **bugbear** of mine that Afghan corruption is so frequently **cited as** an explanation (as well as an excuse) for Western failure in Afghanistan, Americans “**point the finger at** Afghans, **whilst ignoring** their role in both fueling and benefiting from the **patronage pump**.”
-阿富汗的腐败被如此频繁地引为?方在阿富汗失败的理由(和借口)，这是一个让我很头疼的问题. 美国人“指责阿富汗人，却忽视了他们在这个互惠互利链中既提供资金、又从中受益的角色”。
+>bugbear 使人烦恼担忧的事；牵挂  
+>whilst[hwaɪlst] 同“while”; 同时；当…的时候  
+>patronage[ˈpætrənɪdʒ] 赞助；惠顾；光顾；资助
+
+阿富汗的腐败被如此频繁地引为西方在阿富汗失败的理由(和借口)，这是一个让我很头疼的问题. 美国人“指责阿富汗人，却忽视了他们在这个互惠互利链中既提供资金、又从中受益的角色”。
 
 The Center for Public Integrity, a nonprofit that has been tracking spending in a series of reports called the **Windfalls of War**.
+>windfall 风吹落的果子(尤指苹果); 意外之财；横财；外快；意外的收获
+
 非营利组织“公共诚信中心”一直在跟踪支出情况，在一系列报告中称之为战争暴利(战争财)
 
 What **stands out** about the war in Afghanistan is the way that it became the Afghan economy. At least Iraq had oil. In Afghanistan, the war **dwarfed** every other economic activity, **apart from** the opium trade.
+>dwarf[dwɔrf] 侏儒；矮子；使显得矮小；使相形见绌  
+>apart from 除……之外；此外
+
 阿富汗战争的特别之处在于它是如何成为阿富汗经济的。伊拉克至少有石油。在阿富汗，除了鸦片贸易外，战争使所有其他经济活动相形见绌。
 
 But **alas**, policymakers in Washington **rushed to** push cash out the door, since money spent was one of the few **measurable metrics** of success.
+>alas[əˈlæs] 唉；呜呼  
+
 但遗憾的是，华盛顿的政策制定者急于把钱花出去，因为所花的钱是少数几个可衡量成功的指标之一。
 
 The money **was meant to** buy security, bridges and power plants to **win “hearts and minds.”** But the **surreal** amounts of cash **poisoned** the country instead, **embittering** those who didn’t have access to it, and **setting off rivalries** between those who did.
+>be meant to 应该是；打算  
+>surreal 离奇的；怪诞的；梦幻般的；超现实的  
+>embitter 使怨恨；激怒；使苦恼; 使痛苦
+
 这笔钱本来是用于安全、桥梁和发电厂，以赢得“民心”。但超现实的现金数额反而毒害了这个国家，让那些无法拿到这些钱的人感到愤怒，并在拿到这些钱的人之间引发了竞争。
 
 It would take years for the United States to realize that it was fueling corruption with its **excessive** spending and lack of **oversight**. The result was a fantasy economy that operated more like a casino or a **Ponzi scheme** than a country. Why build a factory or **plant crops** when you can get **fabulously wealthy** selling whatever the Americans want to buy?
+>Ponzi scheme 庞氏骗局  
+>crop[krɑp] 农作物；庄稼；谷物；产量  
+>fabulously 难以置信地；惊人地; 极其；非常
+
 美国需要数年时间才能意识到，其过度支出和缺乏监督正在助长腐败。结果是产生了一个幻想中的经济体，其运作更像是一个赌场或庞氏骗局，而不是一个国家。如果出售美国人想要的东西就可以变得超级富有，为什么还要建造工厂或种植农作物?
 
 The money fueled the **revolving door** of war, **enriching the very militants** that it was meant to fight, whose attacks then **justified a new round of** spending.
+>revolving door 旋转门；中转站(指人们进入后很快又离开的地方或机构)  
+
 这笔钱推动了战争的旋转门，使得原本要打击的武装分子变得富有，然后他们的袭击又为新一轮的支出提供了理由。
 
-Social scientists have a name for countries that are so **reliant on unearned income** from outsiders: “rentier states.” It is usually used for **oil-producing countries**, but Afghanistan now **stands out** as an extreme example.
+Social scientists have a name for countries that are so **reliant on unearned income** from outsiders: “rentier states.” It is usually used for **oil-producing countries**, but Afghanistan now **stands out** as an extreme example.  
 社会科学家对如此依赖外来者非劳动收入的国家起了一个名字:出租者国家。这个名字通常用于产油国家，但阿富汗现在是一个极端的例子。
 
-I knew the war in Afghanistan had **gone off the rails** the day I had lunch in Kabul with a European consultant who **got paid a lot of money** to write reports about Afghan corruption. He’d just arrived, but he already had a lot of ideas about what needed to be done — including **ridding** the Afghan Civil Service of **pay scales based on seniority**. 
+I knew the war in Afghanistan had **gone off the rails** the day I had lunch in Kabul with a European consultant who **got paid a lot of money** to write reports about Afghan corruption. He’d just arrived, but he already had a lot of ideas about what needed to be done — including **ridding** the Afghan Civil Service of **pay scales based on seniority**.   
 在喀布尔与一位欧洲顾问共进午餐的那天，我就知道阿富汗战争已经脱离正轨，这位顾问获得了很多报酬，用于撰写有关阿富汗腐败的报道. 他刚到那里，但他已经对需要做的事情有了很多想法——包括让阿富汗公务员摆脱基于资历的薪酬等级。
 
-**None of this is to say that** the Afghan people don’t **deserve support**, even now. They do. But **far more** can be achieved by spending **far less** in a more **thoughtful way**.
+**None of this is to say that** the Afghan people don’t **deserve support**, even now. They do. But **far more** can be achieved by spending **far less** in a more **thoughtful way**.  
+>None of this is to say that 这并不是说
+
 这并不是说阿富汗人不值得支持，即使是现在。他们确实值得。但是，通过更为深思熟虑的方式，花费更少的钱可以实现更多的目标。
 
 What does the Taliban takeover say about the war? It proves that you cannot buy an army. You can only rent one **for awhile**. Once the money **spigot** turned off, how many **stuck around to** fight for our vision of Afghanistan? 
+>spigot 塞子；插口；栓; 龙头  
+
 塔利班的接管对战争来说意味着什么? 它证明了你无法购买一支军队。你只能租用一段时间。一旦资金龙头关掉，有多少人坚持为我们的阿富汗愿景而战?
 
 When I moved to Washington, D.C., in 2002 we all **lived in 9/11’s shadow**. We waited for bombs in the Metro, for more **anthrax** envelopes, for a **sequel** to the previous autumn’s terror. We watched planes headed for Reagan Airport fly low over the Potomac, always **half-expecting** them to **veer**. Everything in my profession **revolved around** the War on Terror. 
+>sequel[ˈsikwəl] 结局；续篇；续集影片  
+>veer 改变；突然变向；猛然转向；偏离  
+>half-expect 并不真期望发生
+
 我在2002年搬到华盛顿特区时，大家都生活在9·11的阴影下。我们担心地铁里有炸弹，担心出现更多含有炭疽的信封，担心前一年秋天的恐怖事件出现续集。看到飞往里根机场的飞机在波托麦克河上低空飞行时，我们总是担心它们会突然转向。我职业中的一切都围绕着反恐战争。
 
 Nightly in our **unkempt** apartments he argued with the hawks — **which is to say** with all of us — **channeling** the realist foreign policy thinkers he admired, predicting **quagmire**, destabilization and defeat.
+>unkempt[ʌnˈkempt] 不整洁的；凌乱的；不修边幅的  
+>which is to say 意即；也就是说  
+>quagmire[ˈkwæɡˌmaɪr] 泥沼；湿地；困境
+
 每晚在我们凌乱的公寓里，他与鹰派——也就是与我们所有人——争论他所钦佩的现实主义外交政策思想家，预言困境、不稳定和失败。
 
 **In almost every way** the rest of the post-9/11 era **vindicated** his arguments — not just in the Iraq war but also in our **chaos-sowing** Libya intervention and our failed attempt at nation-building in Afghanistan.
+>In almost every way 在几乎所有方面  
+>vindicate[ˈvɪndɪˌkeɪt] 辩护；维护；证明…正确  
+
 在后9·11时代的其余时间里，他的论点几乎在所有方面都得到了验证——不仅是在伊拉克战争中，也在我们制造了混乱的利比亚干预以及在阿富汗建国的失败尝试中。
 
 Even in 2015, it was still **potent** enough that Colby was **reportedly blackballed** from a job as foreign policy director for Jeb Bush’s campaign, because of his **insufficient enthusiasm** about a potential conflict with Iran.
+>potent 强有力的；有效的；有效力的  
+>blackball 黑球; 投黑球(反对)；反对票；排斥；投反对票
+
 即使到了2015年，鹰派氛围依旧十分浓厚,据说科尔比曾因缺乏对伊朗潜在冲突的兴趣，而被拒绝担任杰布·布什竞选活动的外交政策主任。
 
 A **consensus** can change slowly and then, under the right pressure, **all at once**, and for Republicans that pressure came from Donald Trump. No **dove or systematizer**, he still made **realism and anti-interventionism respectable** again — with **immediate consequences** for my friend.
+>all at once 同时；一下子；突然地  
+>dove 鸽子; 鸽子般的; “dive”的过去式  
+>systematizer 使系统化者；组织者
+
 共识可以慢慢改变，然后在适当的压力下骤变，对于共和党人来说，这个压力来自唐纳德·特朗普。他不是鸽派或系统主义者，但仍使现实主义和反干预主义再次受到尊重——这对我的朋友产生了直接的影响。
 
 As the **title suggests**, this is a **realist’s** book, **laser-focused** on China’s **bid for mastery** in Asia
+>mastery 精通；控制；熟练掌握；优势；驾驭
+
 正如书名所暗示的那样，这是一本现实主义者的书，重点关注中国征服亚洲的努力
 
-Only China **threatens** American interests in a **profound** way, through a **consolidation** of economic power in Asia that **imperils** our **prosperity** and a military defeat that could **shatter** our alliance system. 
+Only China **threatens** American interests in a **profound** way, through a **consolidation** of economic power in Asia that **imperils** our **prosperity** and a military defeat that could **shatter** our alliance system.   
+>imperil 使陷于危险；危及  
+>shatter 破坏；毁坏；粉碎；破碎
+
 只有中国能够以一种深刻的方式威胁到美国的利益——通过巩固在亚洲的经济实力危及我们的繁荣，以及一场可能破坏我们联盟体系的军事胜利。
 
 “The Strategy of **Denial**” presents a **particularly unsentimental** version of what a lot of people bidding to shape a post-9/11-era foreign policy believe
+>unsentimental['ʌnsentɪment(ə)l] 理智的；不感情用事的；不多愁善感的
+
 《否定策略》展示了一个完全不带感情色彩的版本，反映了许多力图塑造后9·11时代外交政策的人所相信的那样
 
 But this is **a long way from** being any kind of consensus. The **establishment freak-out** over Biden’s Afghan **withdrawal indicates** the **extent** to which a focused, China-first foreign policy seems like **retreat** to Democrats and Republicans **accustomed to** more global and **unlimited** ambitions.
-而这离达成任何程度的共识还有很?的路要走。拜登从阿富汗撤军引发的权势集团的恐慌表明，对于更加习惯于无休止的全球性野心的?主党人和共和党人来说，目标明确、中国优先的外交政策在很大程度上似乎是一种退缩。
+>freak out 成为颓废派；使处于极度兴奋中；行动反常; 吸毒  
+>accustomed to 习惯于；适应于；对…习以为常
+
+而这离达成任何程度的共识还有很长的路要走。拜登从阿富汗撤军引发的权势集团的恐慌表明，对于更加习惯于无休止的全球性野心的民主党人和共和党人来说，目标明确、中国优先的外交政策在很大程度上似乎是一种退缩。
 
 **Meanwhile**, a very different group of **post-9/11-era thinkers** regards China **hawkishness** as a **dangerously self-fulfilling prophecy** — a way to **blunder** into an unnecessary and **disastrous** war.
 与此同时，一群截然不同的后9·11时代的思想家将对华鹰派立场视为一种危险的自我实现预言——一种失策，这将导致一场不必要的灾难性战争

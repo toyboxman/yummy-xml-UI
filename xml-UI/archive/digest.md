@@ -476,6 +476,7 @@
     - [资源隔离思路与方法](https://mp.weixin.qq.com/s/-FKgYG0djCmtfkE-wFnFsw)
     - [缓存思路与方法](https://mp.weixin.qq.com/s/kEEqKphj2GFKRlnXDEZ32A)
     - [服务器扩容思路及问题分析](https://mp.weixin.qq.com/s/I0TeBsb6LeAnWhC81RqCHg)
+    - [秒杀设计](https://mp.weixin.qq.com/s/Ieo6_gHQQLG6mpbEZJGH6A)
 + [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)  
     `雪崩效应/缓存穿透/HystrixCommand/资源隔离/熔断`
 + [从零开始搭建后台技术栈](https://mp.weixin.qq.com/s/q9zzDPJXQRqIF6iQv2EE0A)
