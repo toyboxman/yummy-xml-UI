@@ -48,6 +48,22 @@ Node{id=1, name=Null}
 Node{id=2, name=Null}
 Node{id=3, name=Null}
 ```
+toMap时候要避免出现key重复，否则过程中会异常终止，如果异常没有捕获就会难找出原因
+```java 
+ArrayList<String[]> list = new ArrayList<>();
+list.add(new String[]{"key1", "2"});
+list.add(new String[]{"key1", "3"});
+list.add(new String[]{"key2", "3"});
+list.stream().collect(Collectors.toMap(v -> v[0], v -> v[1]));
+```
+因为`key1`出现两次导致转制过程失败
+```sh
+Exception in thread "main" java.lang.IllegalStateException: Duplicate key 2
+	at java.util.stream.Collectors.lambda$throwingMerger$114(Collectors.java:133)
+	at java.util.stream.Collectors$$Lambda$3/2108649164.apply(Unknown Source)
+	at java.util.HashMap.merge(HashMap.java:1245)
+	at java.util.stream.Collectors.lambda$toMap$172(Collectors.java:1320)
+```    
 
 ### 用stream/map方式转换list中数据
 ```java 

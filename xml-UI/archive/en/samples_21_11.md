@@ -396,3 +396,196 @@ But the lender also monitors Chinese policies “**super closely**,” and has e
 >stay the course 坚持到底；(赛跑的马)跑到终点; 始终不渝
 
 “我们看到很多机构投资者坚持在中国投资，”斯塔福上个月说。“这或许表明，在中国的资产配置是有粘性的，具有持久力，人们更多是为了长期的发展。”
+
+The United States has **been reluctant to** address China’s desire for such a relationship, which has **contributed to anxiety** in Beijing about U.S. pursuit of “absolute security.” To prevent their nuclear competition from escalating, it is time for the United States to acknowledge **the de facto existence** of **mutual nuclear vulnerability** with China. Of course, there are risks that it could **backfire**.
+>de facto[deɪ ˈfæktoʊ] 实际上存在的；事实上的  
+
+美国一直不愿正视中国对这种关系的渴望，这导致北京对美国追求“绝对安全”感到担忧。为了防止两国的核竞争升级，现在美国应该承认与中国共同存在事实上的核脆弱性了。当然，这也有可能适得其反。
+
+**By the same token**, China might expect the United States to stop **calling it out** on human rights and domestic suppression by **claiming the criticism** threatens Beijing’s **regime security**. But acknowledging **mutual vulnerability** does not have to be **a blind leap of faith**.
+>by the same token 同样地；由于同样原因   
+>regime[reɪˈʒim] 政权；制度；政权制度  
+>leap of faith 信心的跳跃；拥有强烈的信心
+
+同样，中国也有可能声称对中国人权和国内问题的指责威胁到政权安全，期待美国停止这样的批评。但承认共同脆弱并不等于是在盲目赌一把。
+
+To young people in wealthier nations, that **dream of upward mobility** seems more like a story about the past than **modern-day reality**, according to a large new survey taken in 21 countries.
+>mobility 移动性；(住处、社会阶层、职业方面的)流动性；机动性
+
+据最近在21个国家进行的一项大型调查，对富裕国家的年轻人来说，步步高升的梦想更像是过去的故事，而不是当代的现实。
+
+Young people these days have access to information and new technologies that other generations haven’t even **come close to having**
+>come close to 接近；几乎；将近
+
+如今的年轻人能够使用或接触的信息和新技术，与以前几代人有过的是天壤之别
+
+**Lust of money**, which our ancestors did not know how to overcome, brought us to the state we are in today. We have to **sort it all out**, and we have to do it ASAP!
+>lust 渴望；好色；强烈欲望  
+>sort out 分类；整理；解决
+
+我们的祖先不知如何克服对金钱的贪欲，导致了我们今天的处境。我们必须理顺所有的问题，我们必须尽快去做！
+
+In the West, **particularly** the United States, many young people **surveyed** said that not everyone is born at the same **starting line**, and that success is not entirely within their control. 
+>starting line 起跑线；发球线
+
+在西方，尤其是美国，许多接受调查的年轻人表示，每个人并不是出生在同一起跑线上，成功与否并不完全在他们的掌控之中。
+
+The American dream has often been **defined as a belief** that those who work hard will live a “better, richer and happier life,” **regardless of** the circumstances in which they’re born.
+>regardless of 不管；不顾；不理会
+
+美国梦的定义通常是，无论他们出生在什么环境中，那些努力工作的人将过上“更好、更富有、更幸福的生活”。
+
+People who **start off with a better life** than others have higher chances of getting more successful more easily, But even with a hard background, if you put the work in and save up the money, most of the time you **get what you deserve**.
+>start off with 从…开始
+
+那些一开始就比别人有更好生活的人，更有可能比别人更成功，也更容易成功，”她说。“但即使出生于艰苦背景的人，如果你努力工作，努力攒钱，大多数时候，你会得到你应得的。
+
+When people write about the global South and young people living in poverty, they **frequently discount** that kind of faith in a higher being, and faith that older siblings are **paving the way** for them
+>pave the way for 为…创造条件；为…做好准备；为…铺路  
+>discount 打折扣；低估；认为…不重要；对…不全信
+
+当人们写有关南半球和生活在贫困中的年轻人的文章时，他们常常以为，这种对更高存在的信仰、对哥哥姐姐正在为他们铺平道路的信心不重要。
+
+Steve Simon **shepherded that decision** even if some in the higher **echelons** of the sport viewed it as a **money grab** rather than an attempt to find the ideal spot for **big crowds and big buzz**. But Simon argued that Shenzhen and the **rapidly growing Pearl River Delta region** was a potential **hotbed** for the sport and that the size of the 10-year agreement gave the WTA stability and flexibility.
+>shepherd[ˈʃepərd] 牧人；牧羊犬；带领；引；护送  
+>echelon[ˈeʃəˌlɑn] 梯队；职权的等级；阶层；排成梯队  
+>money grab 赚快钱  
+>big buzz 炒作  
+>hotbed 策源地；温床
+
+身为WTA巡回赛主席兼首席执行官的美国人史蒂夫·西蒙促成了这一决定，尽管一些业内高层认为此举只是为了赚快钱，而不是为赛事找到一个能够吸引大量观众和关注的理想承办地。但西蒙认为，在深圳和快速发展的珠三角地区网球的潜力极大，十年长约也意味着WTA能够得到稳定和灵活发展的机会。
+
+But **unbeknown** to most bathers, the **boiler** heating the water runs on a fuel with the **uncleanliest of origins: pellets** recycled from soiled adult diapers.
+>unbeknown[ˌʌnbɪˈnoʊn] 未知的；不为人知的  
+>pellet[ˈpelət] (纸,面包等团成的)小球；小子弹；石弹；炮弹; 用小球扔
+
+然而大多来洗浴的客人不知道的是，烧水的锅炉所使用的燃料源自极其污秽的东西：回收用过的成人尿布再制而成的小球。
+
+By recycling the diapers, which represent about **a tenth** of the town’s trash, it has **diverted garbage** that would otherwise be dumped in **incinerators and add emissions** to the atmosphere.
+>divert 转移；使转向；使绕道  
+>incinerator[ɪnˈsɪnəˌreɪtər] 焚烧炉 
+
+尿布占了全镇垃圾的十分之一，通过对其进行再利用，他们就不用再把这些垃圾扔进焚化炉，增加大气排放了。
+
+In Houki, individual households do not **sort out** diapers, but at six nursing homes, aides **dispose of** the diapers in special **odor-cutting** bags that are **hauled to** the recycling plant every weekday.
+>dispose 布置；安排；处理  
+>odor-cutting 隔绝气味的  
+>haul[hɔl] 拉；拖曳；用力缓慢挪动到；强迫(某人)去某处；
+
+在伯耆，居民不会把尿布单独分类，但在六家疗养院，助手会将尿布装在隔绝气味的特殊密封袋中，这些袋子在每个工作日被运到回收厂。
+
+China has an **idiom that goes** something like: “Where there is a will to **condemn**, evidence will follow”, **Vaguely** I feel that we may be caught in the gaming of greater powers.   
+中国有一句成语是这样说的，“欲加之罪，何患无词” 我隐约觉得，我们可能被卷入了大国博弈。
+
+The Democratic Republic of Congo has a vast territory, rich natural resources and great investment potential. A Chinese **proverb says**, ‘Build a beautiful nest to **attract the phoenix**.’  
+>proverb[ˈprɑˌvɜrb] 俗语；箴言
+
+刚果民主共和国幅员辽阔，自然资源丰富，投资潜力巨大. 中国有个谚语叫‘筑巢引凤’。
+
+The countries have a “**longstanding** friendship, and the **bilateral** practical cooperation has **yielded fruitful win-win results** and enjoys **broad prospects**”  
+两国“友谊源远流长，两国务实合作互利共赢、成果丰硕、前景广阔”
+
+Chun Doo-hwan, South Korea’s most **vilified** former military dictator, who **seized power in a coup** and ruled his country with an **iron fist** for most of the 1980s, **dispatching paratroopers and armored vehicles** to **mow down** hundreds of pro-democracy protesters, died on Tuesday at his home in Seoul.
+>vilify[ˈvɪlɪˌfaɪ] 诋毁；诽谤；污蔑；中伤  
+>fist[fɪst] 拳头; 紧握；把(手)握成拳头；用拳打  
+>mow[moʊ] down 杀死；摧毁；割倒；消灭
+
+周二，备受非议的韩国前军事独裁者全斗焕死于首尔家中。他通过政变夺权，在上世纪80年代的大部分时间里以铁腕统治国家，曾派遣空降部队和装甲车武力镇压成百上千的民主抗议者。
+
+He was **pardoned** in 1997 in **a gesture of reconciliation**, shortly after Kim Dae-jung, a former dissident whom Mr. Chun’s military **junta** had once condemned to death, was elected president.
+>reconciliation 和解；协调；调解  
+>junta[ˈdʒʌntə] 军政府；小集团；夺权后的军人集团
+
+在1997年金大中当选总统后不久，这位曾被全斗焕军政府判处死刑的反对者以和解的姿态将他赦免。
+
+South Korea **rose from the ruins** of the 1950-53 Korean War to become one of **Asia’s Tiger economies, overtaking rival** North Korea in industrial output and national income. While Mr. Chun was in office, South Korea **tamed its chronic inflation**, and its economy was among the world’s fastest growing, expanding an average 10 percent a year. His positive achievements are far **outweighed** by his negative legacies.
+>overtake 超过；赶上；追上；超车；压倒  
+>tame 驯服；使易于控制  
+>chronic[ˈkrɑnɪk] 长期的；慢性的；难以治愈的；长期患病的  
+>outweigh[aʊtˈweɪ] 大于；重于；超过
+
+韩国从朝鲜战争（1950年至1953年）的废墟中崛起，成为“亚洲四小龙”之一，工业产值和国民收入都超过了敌对的朝鲜。全斗焕在任时，韩国克服了长期通货膨胀，经济以年均10%的速度增长，在世界上名列前茅。他的正面成就远不及负面遗产
+
+He said Mr. Chun’s **cronies flogged and waterboarded** him to **extract a false confession** that he had been **complicit** in Mr. Park’s assassination. Mr. Chun placed the country under a **martial law**
+>crony[ˈkroʊni] 好友；密友  
+>flog[flɑɡ] 鞭打；拷打；迫使  
+>waterboard 水刑  
+>complicit[kəmˈplɪsɪt] 串通一气的；有同谋关系的
+
+他说全斗焕的亲信对他施以鞭打和水刑，逼他承认自己是朴正熙遇刺案的同谋。全斗焕在韩国实施戒严
+
+**Pointedly**, this week the Chinese government said it would punish companies that it **deemed** supporters of Taiwan’s independence.  
+值得注意的是，中国政府在本周表示，它将惩罚那些它认为支持台独的企业。
+
+Some fear **encroaching heat**, fire or flood. Others are **repulsed by bitter** local politics. Many simply hear the **distant siren** of a better life elsewhere.
+>encroach[ɪnˈkroʊtʃ] 侵害；侵占；渐渐渗入的  
+>repulse[rɪˈpʌls] 拒绝；排斥；击退  
+>bitter 激烈而不愉快的；苦的；痛苦的；苦味
+
+一些人担忧热浪、火灾或洪水的侵袭。另一些人则对当地激烈的政治斗争深恶痛绝。还有很多人只是听到远处传来的召唤，让他们换个地方生活。
+
+Irvine or Redwood City or Anaheim is very **blingy. Compared to** many other places in the country, some **pricey** California **enclaves** often offer **mediocre schools**, not a lot of space, **relatively arduous commutes** and a rough forecast under climate change.
+>blingy [bling]的形容词形式 熠熠发光的; 金光闪闪的  
+>enclave[ˈɑŋˌkleɪv] 飞地  
+>mediocre[ˌmidiˈoʊkər] 平庸的；普通的；平常的  
+>arduous[ˈɑrdjuəs] 艰巨的；艰苦的；艰难的；费劲的
+
+在尔湾、红木城和安那翰这样的地方，生活成本并没那么夸张。与美国许多地方相比，一些昂贵的加州飞地往往只有普通学校，空间不大，通勤相对费力，受气候变化影响的天气也很糟糕。
+
+But he has also been something of a **political chameleon**, a **pragmatic politician who straddles** left and right so easily it is sometimes hard to know where he stands. His grandfather was a railway man, his parents worked in **textiles**. He and his brothers were the first in his family to go to university.
+>chameleon[kəˈmiliən] 变色龙  
+>straddle[ˈstræd(ə)l] 跨坐；骑；叉开两腿；大踏步;骑墙
+
+但他也有点像政治变色龙，一位务实的政治家，他很容易左右跨界，有时很难知道他的立场。他的祖父是一名铁路工人，父母在纺织业工作。他和兄弟们是家族中第一辈上大学的人。
+
+The youthful **idealist who mellowed into** a post-ideological **centrist** might be turning more radical again in his 60s.
+>mellow 柔和丰富的；醇香的；甘美的；老练的; 使老成；(使颜色)柔和；(使酒)更加醇香
+
+曾经的年轻理想主义者，逐渐发展为后意识形态中间派——可能在60多岁时再次变得更加激进。
+
+Merkel is **beyond party-politics**, she is the **voice of reason**, Being the center of politics as a person, that’s what Merkel **did so masterfully** and that’s what Scholz is aiming for.
+>masterfully 巧妙地；能干的  
+>voice of reason 理性之音；思考之声；理智之音
+
+默克尔超越了党派政治，她是理性的声音，以个人身份成为政治中心，这是默克尔做得非常出色的地方，这也是肖尔茨的目标。
+
+As the **economically strongest and most populous** country in the heart of Europe it is our duty to make this **sovereign** Europe possible, to promote it and advance it.
+>populous[ˈpɑpjələs] 人口众多的；人口密集的  
+>sovereign[ˈsɑvrən] 君主；元首；有主权的；完全独立的
+
+作为欧洲中心地区经济实力最强、人口最多的国家，我们有责任让这个主权欧洲成为可能，促进它并推进它。
+
+Experts say **discontent has simmered** for decades between the two islands, mainly over a **perceived unequal** distribution of resources and a lack of economic support that has left Malaita one of **the least-developed** provinces in the island nation.
+>the least-developed 最不发达的  
+>simmer[ˈsɪmər] 煨；用文火炖；充满(难以控制的感情，尤指愤怒)；即将爆发
+
+专家表示，这两个岛屿之间的不满情绪已经酝酿了几十年，主要由于人们认为，资源分配不均和缺乏经济支持使马莱塔成为该岛国最不发达的省份之一。
+
+The island nation found itself in a heightened geopolitical **tug of war** because of the 2019 decision, which **dealt a blow to** Washington’s regional diplomacy. The United States sees the Solomon Islands, and other Pacific nations, as crucial in preventing China from **asserting influence** in the region.  
+由于2019年的决定，这个岛国陷入了一场激烈的地缘政治拉锯战，对华盛顿的地区外交都造成了打击。美国认为，所罗门群岛和其他太平洋国家对于阻止中国在该地区建立影响力起着至关重要的作用。
+
+On Tuesday, before the protests started but as Malaitians had started to **converge on the capital**, a group of federal Malaitan members of Parliament called on Mr. Suidani and protest leaders to “**refrain from inciting** Malaitans to engage in **unlawful activities**.” They also urged opposition parliamentarians to “**refrain from fanning the flames** of violence and **incitement**.”
+>converge 集中；汇集；聚集  
+>incite[ɪnˈsaɪt] 煽动；鼓动; 刺激；激励  
+>fan 扇；吹；煽起；激起
+
+周二，在抗议开始之前，也就是在马莱塔人开始聚集在首都的时候，国民议会的一群马莱塔议员呼吁苏达尼和抗议领导人“不要煽动马莱塔人从事非法活动”。他们还敦促反对派议员“不要刺激暴力和煽动的火焰”。
+
+JPMorgan Chase’s chief executive, Jamie Dimon, **expressed remorse** on Wednesday for saying the bank would **outlast** China’s Communist Party.
+>remorse 懊悔；非常遗憾；自责  
+>outlast 比…持久；比…长久 
+
+摩根大通首席执行官杰米·戴蒙周三表示，他后悔说出了该银行将比中国共产党寿命更长这样的话。
+
+One of the **sharpest shifts** may be in Japan, where a **demographic time bomb** has left diapers for adults **outselling** diapers for babies. After offering **pathways** to residency for aged-care, agriculture and construction workers two years ago
+>time bomb 定时炸弹  
+>outsell 比…卖得多  
+>pathway 同“path”
+
+最明显的转变之一可能是在日本。日本面对着一颗人口定时炸弹，成人纸尿裤的销量超过了婴儿纸尿裤。该国在两年前为老年护理、农业和建筑工人提供居留途径
+
+Young Germans **increasingly prefer to** attend universities, and the country’s labor force is **shrinking**. Immigrants have become a **stopgap**.
+>stopgap 权宜之计；临时替代的东西; 临时应急措施
+
+年轻的德国人越来越倾向于上大学，而该国的劳动力正在萎缩。移民已成为权宜之计。
+

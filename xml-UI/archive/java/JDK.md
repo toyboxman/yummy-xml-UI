@@ -462,14 +462,14 @@ trace -E class1|class2 method1|method2
     @AnnotationConfigWebApplicationContext[Root WebApplicationContext, started on Wed Oct 13 08:20:24 UTC 2021],
 ]
 
-# 调用指定实例的方法
+# 调用指定实例的方法(通过上一个方法返回的数组下标来指定实例，只能调用实例的public方法)
 [arthas@26393]$ vmtool --action getInstances  --className org.springframework.context.ApplicationContext --express 'instances[1].toString()'
 @String[WebApplicationContext for namespace 'spring-servlet', started on Wed Oct 13 08:23:05 UTC 2021, parent: org.springframework.context.support.ClassPathXmlApplicationContext@30459c85]
 
-# 展开指定实例的两层结构
+# 展开指定实例的两层结构(用来查看实例的各个fields的当前值)
 [arthas@26393]$ vmtool --action getInstances  --className org.springframework.context.ApplicationContext --express 'instances[0]' -x 2
 
-# 指定classloader中实例查看，调用getBeanDefinitionNames方法
+# 指定classloader中的实例，进行展开查看操作，调用getBeanDefinitionNames方法
 [arthas@26393]$ vmtool --action getInstances -c 19469ea2 --className org.springframework.context.ApplicationContext -x 2
 
 [arthas@26393]$ vmtool --action getInstances --classLoaderClass org.springframework.boot.loader.LaunchedURLClassLoader --className org.springframework.context.ApplicationContext --express 'instances[0].getBeanDefinitionNames()'

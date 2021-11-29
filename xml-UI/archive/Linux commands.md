@@ -1455,6 +1455,8 @@ $ curl --head --location "https://bit.ly/2yDyS4T"
 ```
 
 ##### download
++[wget命令的技巧](https://mp.weixin.qq.com/s/ceQkJAZdbhYE9hz9KBun1A)
+
 通过wget/curl命令行,可以指定URL下载文件
 ```console
 # wget download jdk package w/ header
