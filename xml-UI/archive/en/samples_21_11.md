@@ -589,3 +589,66 @@ Young Germans **increasingly prefer to** attend universities, and the country’
 
 年轻的德国人越来越倾向于上大学，而该国的劳动力正在萎缩。移民已成为权宜之计。
 
+**For the first time**, the United States is trying to **nudge China’s leadership** into a conversation about its nuclear capability. U.S. It is now **incumbent** on us to think about the most productive way to carry it forward
+>nudge[nʌdʒ] 轻推；(温和的)劝说; 用肘轻推；助推  
+>incumbent 在职者；现任者; 在职的；现任的；有责任；义不容辞的；职责所在的
+
+美国首次试图推动与中国领导层就其核能力展开对话。现在我们有责任考虑用最有效的方式来推进它
+
+Mr. Biden’s aides have said the effort is a **tentative** first step toward a far larger agenda, **akin** to the initial conversations about nuclear weapons that Russia and the United States held in the 1950s.
+>tentative[ˈtɛntətiv] 试探；尝试；实验; 实验性的；不确定的；暂时的；试探性的  
+>akin 相似的；类似的
+
+拜登的助手表示，这项努力是迈向更远大议程的试探性第一步，类似于俄罗斯和美国在1950年代就核武器进行的最初对话。
+
+In 1964, Lyndon Johnson was so worried about the rise of another **nuclear rival** that he considered, but **ultimately rejected**, plans to conduct a **pre-emptive strike** or **covert sabotage** on China’s main nuclear testing site at Lop Nor.
+>pre-emptive[pri'emptɪv] 先买的；预防性；先发制人的  
+>covert[koʊˈvɜrt] 秘密的；隐蔽的；暗中的
+>sabotage[ˈsæbəˌtɑʒ] 人为破坏；故意妨碍；妨碍；捣乱
+
+1964年，林登·约翰逊非常担心另一个核竞争对手的崛起，他曾考虑过对中国位于罗布泊的主要核试验场进行先制打击或秘密破坏的计划，但最终否定了。
+
+When the Chinese launched a **hypersonic missile** in July, **circling the globe** once and then deploying a **maneuverable glide vehicle** that could **zig and zag on an unpredictable path** and deliver a weapon anywhere on earth
+>maneuverable 机动性的；操纵性能良好的；操纵灵敏的  
+>glide 滑翔；滑动  
+>zig 之字转向；之字形；急转  
+>zag 急转；急弯
+
+中国在7月发射了高超音速导弹，在环绕地球一周后部署了一种可操控的滑翔飞行器，能够沿不可预测的曲折路径飞行，并在地球上的任何地方投放武器。
+
+While the university has since offered to **reinstate his job**, Dr. Hu, a **naturalized** Canadian citizen, said his immigration status remains **in limbo**.
+>reinstate 使复原；使复职；恢复  
+>naturalize 回归自然；归化; 使入国籍  
+>limbo 迷失域；地狱边缘
+
+虽然后来该大学提出恢复他的工作，但作为加拿大归化公民的胡安明表示，他的移民身份仍未确定。
+
+Behind the recent **scrutiny** of academics is a problem years in the making. Over the past two decades, as federal funding for basic scientific research at universities **stagnated**, scientists sought **alternative** sources of money.
+>scrutiny[ˈskrut(ə)ni] 详细审查；仔细检查；细看  
+>stagnate (使)(水等)停滞不流；(使)不动；(使)迟钝；(使)变萧条
+
+最近对学术界的审查背后是一个酝酿多年的问题。过去20年里，由于联邦政府对大学基础科学研究的资助停滞不前，科学家们开始寻找其他资金来源。
+
+**To some**, the **intensified scrutiny amounted to overreach**. There’s **no room for xenophobia** or ethnic profiling. For now, **unease is growing**.
+>amount to 总计；等于；共计  
+>overreach 过火；走过头；做事过头  
+>xenophobia[ˌzenəˈfoʊbiə] 排外；仇外心理  
+>unease 不安；忧虑
+
+一些人认为，强化的审查已经达到了越权的程度。决不能排外或者做出种族定性. 目前，不安情绪正在加剧。
+
+That **fear comes** as China has started to **experience a reverse brain drain**. Over the last decade, a growing number of Chinese scientists have **been lured back to** the country by the promise of **ample funding, impressive titles** and national pride. More recently, scientists returning to China have **cited a hostile environment** in the United States as a factor.
+>brain drain 人才外流；人才流失  
+>lure 吸引；诱惑；引诱  
+>ample 足够的；丰裕的；宽敞的；丰富的  
+>hostile 敌意的；敌对的；不友好的；不友善的
+
+在这种担忧出现之际，中国却在逆转人才流失的趋势。过去10年里，越来越多的中国科学家被丰厚的资金、隆重的头衔和民族自豪感吸引回国。最近，返回中国的科学家将美国的恶劣环境也作为一项考虑的因素。
+
+The **novel coronavirus affects** everyone and needs to be **tackled with joint efforts**, instead of **fear-mongering in a xenophobic way**
+>tackle with 处理  
+>fear-mongering 制造恐慌；恐吓的伎俩  
+>monger['mʌŋgə] 贩子；商人  
+>xenophobic[ˌzenə'fəʊbɪk] 仇外的；排外的
+
+新冠病毒使所有人都受到了影响，需要携手应对，而不是仇外式地散布恐惧
