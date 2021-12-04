@@ -153,3 +153,34 @@ Experts say that China’s regulations — which ban buying, selling or owning w
 
 专家们说，中国的法规——禁止买卖或拥有超出杀伤力门槛很低的武器——很模糊，普通人很难搞懂，就连法官都有困难。批评人士说，结果是，那些购买压缩空气枪和弹簧动力玩具的人不知不觉变成了罪犯
 
+Coffee is a **complex beverage** containing more than 1,000 **chemical compounds**, many of which have **antioxidant and anti-inflammatory** properties. And determining how they affect the **intestines** is challenging.
+>antioxidant[ˌæntiˈɑksɪdənt] 抗氧化剂；防老剂;防氧化的  
+>inflammatory[ɪnˈflæməˌtɔri] 发炎的;煽动性的；使人发怒的  
+>intestine[ɪnˈtestɪn] 肠子
+
+咖啡是一种复杂的饮料，含有1000多种化合物，其中许多具有抗氧化和消炎的特性。确定它们如何影响肠道是很困难的。
+
+Like **opening the blinds** and stepping into the shower, a cup of coffee gets people moving in the morning — in more ways than one. This satisfying brew **revs energy levels** with a dose of caffeine and, for many people, quickly and reliably **jump-starts gut activity** and an urgent need to **poop**.
+>blind 瞎的；盲目的；百叶窗  
+>brew 啤酒；冲泡饮品  
+>rev 快速运转  
+>jump-start 发动；迅速启动  
+>poop[pup] 大便
+
+就像打开百叶窗和冲淋浴一样，一杯咖啡能让人在早上振作起来——多方面的振作。这种令人满足的饮品通过咖啡因来提升人的能量水平，而且对许多人来说，它能迅速可靠地启动肠道活动和排便的迫切需求。
+
+Ms. Angelone recommends eating more fruits and vegetables, which are **high in fiber**, as well as increasing **fluid intake and physical activity** to **address constipation**. “What I find for a lot of people is they don’t **start off with a fiber punch** in the morning,” she said. **Brewed coffee** contains a small amount of fiber, about **one gram per eight-ounce** cup.
+>fiber[ˈfaɪbər] 纤维；光纤；纤维素  
+>intake 吸收；吸入；摄入  
+>constipation[ˌkɑnstɪˈpeɪʃ(ə)n] 便秘  
+>brewed 煮好的
+
+安吉罗建议多吃富含纤维的水果和蔬菜，并增加液体摄入量和体育活动来解决便秘问题。她说：“我发现，很多人早上起床时都不会摄入膳食纤维。”煮好的咖啡中含有少量纤维，大约每230毫升咖啡中含有1克纤维
+
+Some people find that coffee causes an upset stomach and **loose stools**, as well as **side effects** linked to excess caffeine, like **insomnia, anxiousness, heart palpitations and headache**, Ms. Angelone added. The Food and Drug Administration says that it’s safe for most people to drink 400 milligrams of caffeine — the amount in about four or five cups of coffee — per day.
+>stool[stul] 粪便；凳子  
+>side effects 副作用  
+>insomnia[ɪnˈsɑmniə] 失眠  
+>palpitations[ˌpælpɪˈteɪʃənz] 心悸
+
+安吉罗还说，有些人发现咖啡会导致胃部不适和软便；还会产生与咖啡因过量相关的副作用，比如失眠、焦虑、心悸和头痛。美国食品和药物管理局表示，对大多数人来说，每天饮用400毫克的咖啡因是安全的——相当于四到五杯咖啡中的咖啡因含量
