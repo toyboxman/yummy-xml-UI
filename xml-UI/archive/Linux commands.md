@@ -167,6 +167,7 @@
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
         - [nmcli管理网络连接](https://mp.weixin.qq.com/s/rsc0zeWYwFRlIIvPnJ5tzA)
+        - [内网穿透工具](https://mp.weixin.qq.com/s/9MiQdkAT-QdLbz3kkgqGnQ)
 
 ---
 ### Monitor system information
