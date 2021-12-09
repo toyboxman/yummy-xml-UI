@@ -2917,7 +2917,8 @@ traceroute 172.18.0.1
 ```
 
 #### nslookup-dig
-+ [查找域名IP](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615749&idx=3&sn=59740061e6995644423089f0fd66b756)
++ [查找域名IP地址命令](https://mp.weixin.qq.com/s/3VvBdD0CxfLPL2AuRl6oGQ)
++ [如何使用dig命令](https://mp.weixin.qq.com/s/DJmHcJdsDKHTEvlzYHaHkA)
 
 [nslookup](https://en.wikipedia.org/wiki/Nslookup)是用来查询DNS保存的域名和IP映射关系的，可用来通过Name和IP互查关系
 ```console
