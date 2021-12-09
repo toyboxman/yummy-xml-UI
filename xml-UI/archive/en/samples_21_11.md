@@ -273,19 +273,36 @@ In Churchill, an **isolated** town **perched on** the southern edge of **the Arc
 
 丘吉尔镇是座落在北极圈南缘的一座偏远城镇，对这里来说，气候变化不是迫在眉睫的威胁，而是充斥于日常生活中的现实。然而丘吉尔镇的气氛却十分欢快。
 
-The Churchill town’s future is as an outlet for the grain grown on Canada’s western plains and the minerals that will be mined from its thawing northern expanses.
+The Churchill town’s future is as **an outlet** for the **grain grown** on Canada’s western **plains and the minerals** that will be mined from its **thawing** northern expanses.
+>outlet 出口；(感情、思想、精力发泄的)出路；表现机会；专营店; 插座     
+>thaw[θɔ] 融化；天气暖和得使冰雪融化；(使冷冻食品)解冻；变暖; 融化季节；(敌对国家之间)关系缓和
+
 丘吉尔镇的未来是让自己成为一个出口，用于运输加拿大西部平原产的稻谷，以及在冰雪融化后的北部辽阔地区开采的矿物。
 
-The threats of climate change are real. But you’ve got to look for the wins in all of this. You’ve got to be able to sleep at night.
+The threats of climate change are real. But you’ve got to look for the wins in all of this. You’ve **got to be able to sleep at night**.
+>be able to sleep at night 安心休息；气定神闲
+
 气候变化威胁是真切的。但是你必须从中寻找机会。一定要保持气定神闲。
 
-The end of the Cold War and the rise of agribusiness firms that concentrated shipping at Canada’s largest ports gradually shut down both of Churchill’s economic engines, and people drained away.
+The end of the Cold War and **the rise of agribusiness firms** that **concentrated shipping** at Canada’s largest ports **gradually shut down** both of Churchill’s economic engines, and people **drained away**.
+>drain away 渐渐枯竭；流尽；流走  
+>agribusiness 农业综合企业；农业综合经营
+
 冷战结束了，农产企业的兴起将航运集中在加拿大最大的港口，导致丘吉尔的两个经济引擎逐渐停转，人口流失。
 
-But unlike past disruptions, climate change isn’t just upending Churchill’s economy. It is quite literally tearing the town apart. Warmer weather also is thawing the permafrost, undermining building foundations and breaking the town’s water and sewer lines.
+But unlike **past disruptions**, climate change isn’t just **upending** Churchill’s economy. It is **quite literally tearing the town apart**. Warmer weather also is **thawing the permafrost, undermining building foundations** and breaking the town’s water and **sewer lines**.
+>tear apart 弄乱；撕破; 使心碎  
+>permafrost[ˈpɜrməˌfrɔst] 永久冻土  
+>sewer 下水道；污水管；阴沟; 裁缝师
+
 但与过去的气候变化导致的破坏不同，如今气候变化颠覆的不仅仅是丘吉尔镇的经济。它正在撕裂这座城市，是真的在撕裂。变暖的天气也在融化永久冻土，损害建筑地基，破坏城镇的供水和下水道。
 
-The kitchens of the wealthy in the United States today are capable of providing a humbling experience to the uninitiated. Attempts to procure ice cubes can transform the most dignified guest into a hapless burglar rummaging through drawers for loose gems.
+The kitchens of the **wealthy** in the United States today **are capable of providing a humbling experience** to the **uninitiated**. Attempts to **procure ice cubes** can transform **the most dignified** guest into a **hapless** burglar **rummaging through drawers** for loose gems.
+>uninitiated[ˌʌnɪˈnɪʃiˌeɪtəd] 外行的；无经验的；门外汉；外行  
+>procure[prəˈkjʊr] 取得；促成  
+>hapless[ˈhæpləs] 倒霉的；运气不好的  
+>rummage[ˈrʌmɪdʒ] through 翻寻；乱翻；搜寻
+
 如今在美国富人的厨房里，不懂行的人可能会体验到丢脸的感觉。寻找冰块的行为能把最尊贵的客人变成一个像在翻箱倒柜、寻找散落宝石的倒霉小偷。
 
 In 2015-16, more than a million people, **primarily** Syrians, **poured into** Europe. The **resulting backlash buoyed right-wing** nationalists across the continent, and ever since, **mainstream politicians** have been **loath to embrace immigration**.
