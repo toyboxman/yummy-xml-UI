@@ -299,7 +299,7 @@ The E.U. is united behind Poland, which is **portraying** itself as the first li
 
 欧盟团结在波兰背后，波兰把自己描绘成欧盟的第一道防线，华沙和明斯克互相威胁对方。
 
-**International accords** define refugees as people with **legitimate fears** of violence or **persecution**, and give them a right to **asylum**.** Many people in the **migrant flood** of 2015-16 were **fleeing wars**.
+**International accords** define refugees as people with **legitimate fears** of violence or **persecution**, and give them a right to **asylum**. Many people in the **migrant flood** of 2015-16 were **fleeing wars**.
 >legitimate[ləˈdʒɪtəmət] 合情合理的；合法的；正当的；正统的；正当性; 使合法；认为正当  
 >persecution[ˌpɜrsɪˈkjuʃ(ə)n] 困扰；苛求；迫害；残害  
 >asylum[əˈsaɪləm] 庇护；避难；收容所；避难所
