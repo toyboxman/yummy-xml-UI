@@ -185,28 +185,104 @@ Some people find that coffee causes an upset stomach and **loose stools**, as we
 
 安吉罗还说，有些人发现咖啡会导致胃部不适和软便；还会产生与咖啡因过量相关的副作用，比如失眠、焦虑、心悸和头痛。美国食品和药物管理局表示，对大多数人来说，每天饮用400毫克的咖啡因是安全的——相当于四到五杯咖啡中的咖啡因含量
 
-On Thursday, the U.S. Securities and Exchange Commission adopted rules that would require reluctant Chinese companies listed in the United States to further open their books to American accounting firms or get kicked off its stock exchanges.
-上周四，美国证券交易委员会（简称SEC）采取新规定，要求在美上市的中国公司向美国的会计师事务所进一步公开账目，否则将被踢出美国的证券交易所。
+On Thursday, the U.S. **Securities and Exchange Commission adopted rules** that would require **reluctant** Chinese companies listed in the United States to further open their books to American **accounting firms** or **get kicked off** its stock exchanges.
+>adopt 收养；领养；正式通过；采用(某方法); 采纳；采取；接受
 
-These days, calls from Wall Street executives like Blackstone’s Stephen A. Schwarzman, who has raised over $500 million for a scholarship program at China’s prestigious Tsinghua University, have increasingly fallen on deaf ears in Washington. 
-如今，像黑石集团的苏世民(Stephen A. Schwarzman)这样的华尔街高管打给华盛顿的电话正越来越不被理睬。苏世民曾为中国著名学府清华大学的一个奖学金项目筹集了五亿多美元。
+上周四，美国证券交易委员会(简称SEC)采取新规定，要求在美上市的中国公司向美国的会计师事务所进一步公开账目，否则将被踢出美国的证券交易所。
 
-It’s bad for business to be caught between two superpowers flexing their economic and regulatory powers, As the U.S.-Chinese relationship cools, more companies like Didi will get caught in the middle.
+These days, calls from Wall Street executives like Blackstone’s Stephen A. Schwarzman, who has raised over $500 million for a scholarship program at China’s **prestigious** Tsinghua University, have **increasingly fallen on deaf ears** in Washington.
+>fall on deaf ears 不受注意；不被理睬；不听取  
+>deaf[def] 聋子；聋的；不愿听；不去注意
+
+如今，像黑石集团的苏世民这样的华尔街高管打给华盛顿的电话正越来越不被理睬。苏世民曾为中国著名学府清华大学的一个奖学金项目筹集了五亿多美元。
+
+**It’s bad for** business to **be caught between** two superpowers **flexing** their economic and regulatory powers, As the U.S.-Chinese relationship **cools**, more companies like Didi will **get caught in the middle**.
+>flex one's muscles 小试身手；大展拳脚；显示或炫耀某人的力量
+
 夹在两个正在显示自己的经济和监管实力的超级大国之间，对企业不利, 随着美中关系降温，更多像滴滴这样的公司将被夹在中间
 
-Shortly after, officials ordered a halt to downloads of Didi’s main, consumer-facing application, before broadening the block to 25 more of the company’s apps, including its car-pooling app, its finance app and its app for corporate customers.
+**Shortly after**, officials **ordered a halt** to downloads of Didi’s main, **consumer-facing** application, before **broadening the block** to 25 more of the company’s apps, including its **car-pooling** app, its finance app and its app for corporate customers.
+>car pool 拼车
+
 不久之后，官员下令滴滴主要面向消费者的应用程序从网上下架，随后又将下架的滴滴应用程序扩大到25个，包括其拼车应用程序、金融应用程序和面向企业客户的应用程序
 
-This is about the collective force, so that if you don’t comply you will be left behind. Your kids will be looked down on by the community and their teachers
+This is about the **collective force**, so that if you **don’t comply** you will **be left behind**. Your kids will **be looked down** on by the community and their teachers
+>comply 遵守；服从；遵照  
+>look down 向下看；蔑视
+
 这就是集体力量，所以如果你不遵守，你就会被甩在后面。你的孩子会被社区和他们的老师看不起
 
-Despite the lingering doubts of parents like Mr. You and Mr. Zhang, China will probably succeed in getting most of its youngest citizens inoculated by the end of the year. The authorities have galvanized nurses, doctors and community health workers to convince every parent that their child should roll up a sleeve not only for their own health, but for the good of the country.
+Despite the **lingering doubts** of parents like Mr. You and Mr. Zhang, China will probably **succeed in getting** most of its youngest citizens **inoculated** by the end of the year. The authorities have **galvanized nurses**, doctors and community health workers to convince every parent that their child should **roll up a sleeve** not only for their own health, but for the good of the country.
+>linger[ˈlɪŋɡər] 徘徊；逗留   
+>inoculate[ɪˈnɑkjəˌleɪt] 打预防针  
+>galvanize[ˈɡælvəˌnaɪz] 电镀；镀锌；激励；刺激  
+>roll up sleeves/a sleeve 捋起袖子
+
 尽管像游讯和张先生这样的父母心存疑虑，但到今年年底，中国可能会成功让大多数少年儿童接种疫苗。当局鼓励护士、医生和社区卫生工作者说服每一位父母，他们的孩子应该接种，这不仅是为了自己的健康，也是为了国家的利益。
 
- Returning to China also requires mountains of paperwork and multiple Covid-19 tests. Many people there have decided to just stay put.
+ Returning to China also requires **mountains of paperwork** and multiple Covid-19 tests. Many people there have decided to just **stay put**.
+ >mountains of 大量的；许多  
+ >stay put 停住不动；留在原地
+
  返回中国也需要大量文件证明和多次新冠检测。许多中国人干脆决定留在国内。
 
- Shopping malls have emptied out. Restaurants have shut down. Hotels are deserted.
+ Shopping malls have **emptied out**. Restaurants have shut down. Hotels are **deserted**.
+ >empty out 清空；腾空；倒空  
+ >deserted[dɪˈzɜrtəd] 无人居住的；被抛弃的；荒废的；废弃的
+
  购物中心人去楼空。餐厅纷纷关门。酒店门可罗雀。
 
- 
+ For months, as a **troubled property company** called China Evergrande **spooked global markets** with its financial problems, the government **sat on the sidelines**. Now, the government is taking a more **hands-on role**.
+ >spook[spuk] 鬼；间谍；惊吓；受惊  
+ >sit on the sidelines 置身事外；冷眼旁观；袖手旁观  
+ >hands-on 动手的；实际操作的
+
+ 几个月来，陷入困境的房地产公司中国恒大集团的财务问题让全球股市受到惊吓，政府始终未直接插手。现在，政府正在发挥更实际的作用。
+
+ With their traditional channels of financing **drying up**, and **facing pressure** from authorities to **get their debt levels down**, many developers found themselves **in a tight spot**. A slowing property market has made things worse and **put strain on the entire sector**.
+ >in a tight spot 处于困境；处境险恶
+
+随着传统融资渠道的枯竭，加上政府要求降低债务水平的压力，许多开发商发现自己陷入了困境。房地产市场的放缓使情况变得更糟，给整个行业带来了压力。
+
+ Evergrande’s **call for help** last week **prompted a flurry of comments** from China’s regulators assuring the market that its financial problems would not **spill over** into the broader economy. The Communist Party’s Politburo also **weighed in** to say that the government would help to support the property market.
+ >spill over 溢出; 外溢  
+ >weigh[weɪ] 权衡；斟酌；称重量   
+ >weigh in 骑师[拳师等]在比赛前受体重检查; 参加  
+ >weigh in with 有相当把握地提出(议论,事实等)；额外提出；插言
+
+ 恒大上周的求助引发中国监管机构接二连三向市场做出保证，恒大的财务问题不会蔓延到更广泛的经济领域。中共中央政治局也表示，政府会帮助支撑房地产市场。
+
+ While **addressing social downside** is a priority, how the **offshore** U.S. dollar debt investors are treated will be an important signal of future China risk pricing.
+ >downside 负面；不利的一面；消极面；缺点
+
+ 虽然解决对社会的不良影响是当务之急，但如何对待美元债券的海外投资者，将释放一个未来中国风险定价的重要信号。
+
+ China’s property sector has **kept global markets on edge** for months, as developers have struggled to find cash to pay their **soaring debts**. They have **been hampered by slowing demand** from home buyers, falling property prices in many Chinese cities and Beijing’s crackdown on **excessive bank lending**.
+ >on edge 紧张不安；烦躁  
+ >hamper[ˈhæmpər] 阻碍；妨碍；阻止
+
+ 几个月来，随着开发商越来越难弄到现金偿还飙升的债务，中国房地产行业一直让全球股市处于紧张状态。购房者需求放缓、许多城市房价下跌，以及中国政府打击银行过度放贷的做法，都让开放商的现金流受阻。
+
+The regulators are now **between a rock and a hard place**, If they **blink**, more **excessive risk-taking** will definitely come in the future, If they don’t, the property **downturn would inflict more pain** on the economy.
+>between a rock and a hard place 左右为难；进退维谷  
+>blink 眨眼；忽视；(灯光等)闪烁；望着  
+>inflict[ɪnˈflɪkt] 使遭受打击；使吃苦头; 造成
+
+监管机构现在左右为难，如果他们出手，未来肯定会有更多过度冒险的行为，如果他们不出手，房地产市场的低迷将给经济带来更大的痛苦。
+
+On Monday, Chinese banking regulators **loosened the amount** of money banks are required to **stash away for a rainy day**, giving them greater ability to lend amid the **property woes** and signs of a growth slowdown.
+>stash[stæʃ] 存放；贮藏  
+>for a rainy day 以备不时之需；未雨绸缪  
+>woe[woʊ] 悲哀；痛苦
+
+周一，中国银行业监管机构降低了银行以备不时之需的存款准备金率，在房地产市场陷入困境、经济增长出现放缓迹象的情况下，让银行有更多的放贷能力。
+
+Cut off from bank financing, soon other property developers found the dollar bond market was also **becoming harder to tap**.
+>hard to tap 难以利用；难以做
+
+由于切断了银行融资，其他房地产开发商很快发现，美元债券市场也变得越来越难以利用。
+
+Liu Pengyu, a spokesman for the Chinese Embassy, said at the time the accusation was one of many “**groundless attacks**.”
+>groundless[ˈɡraʊn(d)ləs] 无理由的；无根据的
+
+中国驻美大使馆发言人刘鹏宇当时称，该指控是对中国的众多“无端攻击”之一。
