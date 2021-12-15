@@ -963,88 +963,163 @@ But this is **a long way from** being any kind of consensus. The **establishment
 而这离达成任何程度的共识还有很长的路要走。拜登从阿富汗撤军引发的权势集团的恐慌表明，对于更加习惯于无休止的全球性野心的民主党人和共和党人来说，目标明确、中国优先的外交政策在很大程度上似乎是一种退缩。
 
 **Meanwhile**, a very different group of **post-9/11-era thinkers** regards China **hawkishness** as a **dangerously self-fulfilling prophecy** — a way to **blunder** into an unnecessary and **disastrous** war.
+>prophecy[ˈprɑfəsi] 预言；预言能力  
+>prophet[ˈprɑfɪt] 预言者；先知者  
+>blunder[ˈblʌndər] 愚蠢的错误; 犯大错；失误  
+>disastrous[dɪˈzæstrəs] 极糟糕的；灾难性的
+
 与此同时，一群截然不同的后9·11时代的思想家将对华鹰派立场视为一种危险的自我实现预言——一种失策，这将导致一场不必要的灾难性战争
 
 Rather than the old **establishment’s maximalism**, they prefer minimalism, an end even to the light-footprint forms of warcraft attacked by Samuel Moyn of Yale in his new book “**Humane**” — an interesting **accompaniment and counterpoint** to Colby’s — and a **deliberate retreat** from empire. (The idea that climate change requires **conciliation with** China also **looms** large for some in this group.)
+>accompaniment[əˈkʌmpənɪmənt] 附属物；伴唱；伴随物；伴奏  
+>counterpoint 与…形成对比; 对位音乐；声画对位；旋律配合  
+>conciliation[kənˌsɪliˈeɪʃ(ə)n] 和解；调停；怀柔
+
 与旧建制派的最大化主义相比，他们更喜欢极简主义，甚至是终止耶鲁大学的塞缪尔·莫恩在其新作《人道》中所抨击的 “轻足迹”形式的战争——这本书站在科尔比著作的对立面，两本书搭配起来阅读很有趣——以及有意的退让。(气候变化需要与中国和解的想法对这一群体中的一些人来说也很重要。)
 
-The minimalist group has the **least influence** in Washington, but its **skepticism** about warmaking has a lot of popular support — including skepticism about war with China. 
-这个极简主义团体在华盛顿的影响力最小，但它对战争的怀疑得到了很多?众的支持——包括对与中国开战的怀疑。
+The minimalist group has the **least influence** in Washington, but its **skepticism** about **warmaking** has a lot of popular support — including skepticism about war with China.   
+这个极简主义团体在华盛顿的影响力最小，但它对战争的怀疑得到了很多民众的支持——包括对与中国开战的怀疑。
 
 But Beijing’s own choices will also **shape our strategy**. A China that retreats **somewhat**, post-Covid, from **bellicosity** and border **skirmishes** would **defang** the China-hawk argument **quite a bit**.
+>somewhat 有点；稍微；有几分  
+>bellicosity[ˌbelɪ'kɒsətɪ] 好斗；好战性  
+>skirmish[ˈskɜrmɪʃ] 小冲突；小规模战斗；遭遇战；小争执  
+>defang[diː'fæŋ] 去毒牙；拔去…的尖牙
+
 但北京自己的选择也将影响我们的战略。在新冠后时代，一个减少好斗和边境小规模冲突的中国将在很大程度上否定对华鹰派的论点。
 
 **On the other hand**, a China that looks at American **disarray** and its own **window of opportunity** and decides to move **aggressively** could leave my old friend in the same place the 9/11 era left his younger self — with his strategic analysis **vindicated, unhappily**, by an American defeat.
+>disarray[ˌdɪsəˈreɪ] 弄乱；杂乱；无秩序  
+>vindicate[ˈvɪndɪˌkeɪt] 维护；为…辩护；证明清白；证明正确的；平反
+
 另一方面，如果中国看到了美国的混乱和自己的机会窗口，并决定积极采取行动，这可能会让我的老朋友再次经历他年轻时候在9·11时代所经历的——他的战略分析不幸被美国的失败所证实。
 
 **Yet despite his assurances**, General Milley was so **concerned** about Mr. Trump that later that day he **convened a meeting** with top commanders to remind them that the procedures for launching a nuclear weapon **called for** his involvement in such a decision.
+>convene[kənˈvin] 召集；集合; 召开
+
 然而，尽管做出了保证，米利还是非常担心特朗普，以至于当天晚些时候，他召集了一次高级指挥官会议，提醒他们发射核武器的程序规定了决策需要有他的参与。
 
-The book also **reveals** how Vice President Mike Pence **struggled** more than was **publicly known** over how to **navigate** Mr. Trump’s demands that he **upend** the election certification. 
+The book also **reveals** how Vice President Mike Pence **struggled** more than was **publicly known** over how to **navigate** Mr. Trump’s demands that he **upend** the election certification.   
 这本书还揭示出，在应对特朗普要求他推翻大选结果认证的问题上，副总统迈克·彭斯其实比公众知道的要更勉强。
 
-Mr. Pence **appeared open** to **going along with** Mr. Trump’s plan, pushed the **false claim** that Arizona’s voting results were wrong and asked whether there was any way he could delay certification.
+Mr. Pence **appeared open** to **going along with** Mr. Trump’s plan, pushed the **false claim** that Arizona’s voting results were wrong and asked whether there was any way he could delay certification.  
+>go along with 陪…一起去；赞同;陪伴；同意；附合  
+
 彭斯似乎对支持特朗普的计划持开放态度，他提出了亚利桑那州投票结果有问题的不实说法，并询问是否有任何方法可以推迟认证。
 
 “**Peril**,” which is **scheduled to be released** next Tuesday, says its **accounts** are based on **contemporaneous** notes, documents and interviews with **unnamed firsthand** participants and witnesses. 
+>contemporaneous[kənˌtempəˈreɪniəs] 同时发生的；同时期的；同时代的
+
 定于下周二发行的《危险》称，其叙述是基于当时的笔记、文件以及对未透露姓名的直接参与者和目击者的采访。
 
 **Top aides** — including General Milley, Defense Secretary Mark T. Esper and Attorney General William P. Barr — became **convinced** that they needed to take **drastic measures** to stop him from **trampling on** American democracy or **setting off** an international conflict, and General Milley thought that Mr. Trump had **declined mentally** in the **aftermath** of the election, according to the book.
-根据这本书，包括米利、国防部??克·T·埃斯珀和司法部?威廉·P·巴尔在内的高级助手们确信，他们需要采取激烈措施，以阻止特朗普践踏美国?主或引发国际冲突，米利认为大选之后的特朗普已经出现心智上的衰颓。
+>trample[ˈtræmp(ə)l] 踩(烂,碎)；摧残；看不起(on/upon);踩踏  
+>aftermath 后果；余波；结果  
+>set off 出发；动身；引起
+
+根据这本书，包括米利、国防部长埃斯珀和司法部长巴尔在内的高级助手们确信，他们需要采取激烈措施，以阻止特朗普践踏美国民主或引发国际冲突，米利认为大选之后的特朗普已经出现心智上的衰颓。
 
 **A little less than half** of the book also covers the first several months of Joseph R. Biden’s administration, as the new president **grappled with** the pandemic, a **faltering** economy, Congress and the military’s withdrawal from Afghanistan.
+>grapple[ˈɡræp(ə)l] with 与……扭打；尽力解决  
+>falter[ˈfɔltər] 蹒跚；畏缩；衰退；摇晃;支支吾吾；结巴说；动摇
+
 这本书有将近一半的篇幅涵盖了拜登政府的前几个月，讲述这位新总统如何努力应对疫情、经济衰退、国会和从阿富汗撤军等问题。
 
 But it is the book’s details about the Trump administration that are **likely to garner** the most attention.
+>garner[ˈɡɑrnər] 储存；收集；贮藏; 获得
+
 但这本书中关于特朗普政府的细节可能会获得最多的关注。
 
 Despite General Milley’s **reassurances**, he **feared** that Mr. Trump might be trying to find a moment that he could **seize on** to remain in power, similar to Hitler’s **exploitation** in 1933 of an **arson fire** at the German Reichstag to help **institute emergency powers**, the book said.
+>seize on 抓住；抓紧；占有  
+>exploitation[ˌeksplɔɪˈteɪʃ(ə)n] 开发；开采；利用；剥削  
+>institute 建立；实行；开始; 学院；研究所；学会
+
 该书称，尽管米利做出了保证，但李作成担心特朗普可能会试图找到一个时机，通过抓住这个时机继续掌权，就像希特勒在1933年利用德国国会大厦纵火案来掌握非常时期的权力一样。
 
 But even after the call, General Milley concluded that the situation was “**grave**” and General Li “remained **unusually rattled**,” the book reports. Mr. Trump, General Milley had concluded, did not want a war but might order the launch of **some sort of** military strike that would **set off a chain reaction** and lead to war.
+>rattled['rætəld] 慌乱的；心里慌乱的
+
 而书中写道，即便在那次通话后，米利认为形势“严峻”，李作成仍然 “异常紧张”。米利得出的结论是，特朗普不想发动战争，但可能会下令进行某种军事打击，从而引发连锁反应，并导致战争。
 
 Later that day, General Milley spoke to Speaker Nancy Pelosi, who was growing **increasingly concerned** Mr. Trump would **lash out** and use military force. “This is bad, but who knows what he might do?” Ms. Pelosi said. “He’s crazy. You know he’s crazy. He’s been crazy for a long time. So don’t say you don’t know **what his state of mind is**.” “Madam **Speaker**,” General Milley said, “I agree with you on everything.”
-当天晚些时候，米利与南希·佩洛?议?进行了交谈，佩洛?愈发担心特朗普会大肆发泄并动用武力。“这太糟糕了，但谁知道他会做什么呢?”佩洛?说。“他疯了。你知道他疯了。他已经疯了很久了。所以不要说你不清楚他的心理状况。” “议?女士，”米利说。“您说的这些我都同意。”
+>lash out 痛批；斥责；痛打
+
+当天晚些时候，米利与佩洛西议长进行了交谈，佩洛西愈发担心特朗普会大肆发泄并动用武力。“这太糟糕了，但谁知道他会做什么呢?”佩洛西说。“他疯了。你知道他疯了。他已经疯了很久了。所以不要说你不清楚他的心理状况。” “议长女士，”米利说。“您说的这些我都同意。”
 
 The general added: “The strict procedures are **explicitly** designed to avoid **inadvertent** mistakes or accident or **nefarious, unintentional, illegal, immoral, unethical** launching of the world’s most dangerous weapons.”
+>explicitly[ɪk'splɪsɪtli] 明确地；明白地   
+>inadvertent[ˌɪnədˈvərtənt] 疏忽的；漫不经心的；不注意的  
+>nefarious[nɪˈferiəs] 罪恶的；不道德的;邪恶的
+
 他还说:“严格的程序旨在避免因疏忽出现错误或意外，或是对世界上最危险的武器进行邪恶的、无意的、非法的、不道德的发射。”
 
 **While** much had been reported about General Milley’s views of Mr. Trump, the book’s **depiction** of Mr. Pence revealed for the first time the depths that the vice president went to as his **fealty** to Mr. Trump **collided with** calculations about his political future and the counsel of his aides and advisers to follow the Constitution.
+>fealty[ˈfiəlti] 忠诚；孝顺；忠实
+
 尽管有大量笔墨描述了米利对特朗普的看法，书中对彭斯的描写则首次揭露了在对特朗普的忠诚与对政治前途的盘算、以及其助手和顾问对遵守宪法的建议之间出现冲突之时，这位副总统可以做到何种程度。
 
 ‘It’s a **Godsend**’: 9-Cent Taxi Rides in **Rural** South Korea
-“天上掉下来的好事”:改变韩国农村的“百元出租?”
+>godsend 天赐之物；意外的好运；及时雨
+
+“天上掉下来的好事”:改变韩国农村的“百元出租车”
 
 On a recent **overcast** morning, a village on South Korea’s west coast showed no sign of human **stirring** until five older residents slowly emerged through the fog that **shrouded lush**, green rice **paddies**.
-不久前一个天色阴沉的早晨，在韩国?海岸一个村庄，雾气笼罩着郁郁葱葱的稻田，没有行人走动的迹象，直到五位年?的居?慢慢地从雾中出现。
+>overcast 阴天的；多云的；阴暗的; 使阴；使暗  
+>shroud[ʃraʊd] 隐藏；笼罩；掩蔽; 裹尸布  
+>lush[lʌʃ] 多汁的；味美的；青葱的；草木茂盛的  
+>paddy[ˈpædi] 稻田；水田；发火；发怒
+
+不久前一个天色阴沉的早晨，在韩国西海岸一个村庄，雾气笼罩着郁郁葱葱的稻田，没有行人走动的迹象，直到五位年长的居民慢慢地从雾中出现。
 
 As its population declined, **so did the number of bus passengers**, which led to unprofitable **routes** being canceled. Then bus drivers **went on strike**.
-随着人口减少，公交?乘客的数量也减少了，导致不盈利的路线被取消。然后公共汽?司机开始罢工。 
+>go on strike 罢工
+
+随着人口减少，公交乘客的数量也减少了，导致不盈利的路线被取消。然后公共汽车司机开始罢工。 
 
 “The taxi now drives me all the way to my **doorstep**,” Ms. Na said. “You can’t imagine what it was like in older days when I had to **haul** my shopping bag all the way from the bus stop to my place. It **killed my legs**, but there is no one around here to help old folks like me.”
-“现在出租?会一路载我到家?口，”罗正顺说。“你根本想不到以前我得把购物袋从?站一路拖到家的样子。我的腿都要断了，但这附近没有人来帮助我这样的老人。”
+>doorstep 门口; (为推销,竞选,采访等)上门访问  
+>haul[hɔl] 大批赃物；大量非法物品；拖；拖曳
 
-For years, South Korea has reported one of the lowest **birthrates** in the world, creating a **fast-aging** population and causing **strains** in all **aspects of society** from its welfare budget to public transportation to schools.
+“现在出租车会一路载我到家门口，”罗正顺说。“你根本想不到以前我得把购物袋从车站一路拖到家的样子。我的腿都要断了，但这附近没有人来帮助我这样的老人。”
+
+For years, South Korea has reported one of the lowest **birthrates** in the world, creating a **fast-aging** population and causing **strains** in all **aspects of society** from its welfare budget to public transportation to schools.  
 多年来，韩国一直是世界上出生率最低的国家之一，造成人口快速老龄化，并给社会各个方面带来压力——从福利预算到公共交通再到学校。
 
-The impact of the **demographic** shift is the most **visible** in thousands of rural villages whose young people, including Ms. Na’s children, have left for big cities for **better-paying jobs**. 
+The impact of the **demographic** shift is the most **visible** in thousands of rural villages whose young people, including Ms. Na’s children, have left for big cities for **better-paying jobs**.   
 人口结构变化的影响在成千上万的农村地区表现得最为明显，那里的年轻人，包括罗正顺的孩子们，都已经离开家乡到大城市去寻找收入更高的工作。
 
 Government officials say supporting the 100-won taxi services is **far more cost-effective than deploying subsidized buses** to the tiny **hamlets tucked** between mountains where few people other than **arthritic**, retired farmers live — and building wider roads to **accommodate** those buses.
-政府官员表示，支持百元出租?服务远比向隐藏在山间的小村庄部署提供补贴的公共汽?更具成本效益，那里除了退休、患有关节炎的农?之外，很少有人居住，而且还要修建更宽的道路来容纳这些公共汽?。
+>hamlet[ˈhæmlət] 村落；哈姆雷特  
+>tuck 收藏；把(衣服、纸张等的边缘)塞进；把…塞进狭窄的空间；把…藏入; 打褶；去赘皮手术；减肥手术  
+>arthritic[ɑrˈθrɪtɪk] 患关节炎的；关节炎患者
+
+政府官员表示，支持百元出租车服务远比向隐藏在山间的小村庄部署提供补贴的公共汽车更具成本效益，那里除了退休、患有关节炎的农民之外，很少有人居住，而且还要修建更宽的道路来容纳这些公共汽车。
 
 She sees her village of 12 houses, three of them empty, **decay day by day**. "When it rained the other night, I heard part of an empty house next door **caving in**." said Ms. Park, whose own home was **well-kept**, with farm gear **hanging neatly** on a wall and **zinnias blossoming** outside her gate. “We feel more isolated as the pandemic made it more difficult for our children to visit.”
-她看着村子里的12栋房子一天天衰败，其中三栋是空的。那天晚上下雨的时候，我听到隔壁一栋空房子的一部分塌了. 朴景洙说。她自己的房子保养得很好，农具整?地挂在墙上，?外百日菊开了。疫情让孩子们更难来看望我们，我们觉得更孤立了。
+>decay[dɪˈkeɪ] 腐烂；衰退；腐败  
+>cave in 坍塌；下陷；屈服；让步   
+>farm gear 农具  
+>neatly[ˈnitlɪ] 整洁地；巧妙地；整齐地
+
+她看着村子里的12栋房子一天天衰败，其中三栋是空的。那天晚上下雨的时候，我听到隔壁一栋空房子的一部分塌了. 朴景洙说。她自己的房子保养得很好，农具整齐地挂在墙上，门外百日菊开了。疫情让孩子们更难来看望我们，我们觉得更孤立了。
 
 **In addition to** picking up groceries and seeing their doctors, they exchange news with **acquaintances** from other villagers, like who was taken to a nursing home and who died.
-除了买东?和看病，他们还跟其他村子的熟人交流消息，比如谁被送进了疗养院，谁去世了。
+>acquaintance[əˈkweɪntəns] 熟人；相识；认识；朋友；点头之交
+
+除了买东西和看病，他们还跟其他村子的熟人交流消息，比如谁被送进了疗养院，谁去世了。
 
 Seocheon **boasts** two UNESCO **World Heritage** attractions — a centuries-old practice of **weaving fine fabric** from ramie plants, and its **tidal flats teeming with marine life**. 
+>boast[boʊst] 自夸；自吹自擂; 吹牛；吹嘘；以有……而自豪  
+>tidal[ˈtaɪd(ə)l] flat 潮汐滩  
+>teem with 盛产；充满；富于
+
 舒川拥有两个联合国教科文组织世界遗产——有着数百年历史的苧麻纺织，以及海洋生物遍布的潮滩。
 
 During the **bird-migrating seasons**, tourists from across South Korea drive to Seocheon to watch **flocks of** longbills, mallards and **honking** swans **feeding on its tidal flats** before flying onto Siberia.
-在?类迁徙季节，来自韩国各地的游客驱?前往舒川，观看成群的弯嘴吸蜜?、野鸭和鸣叫的天鹅在?往?伯利亚前在潮滩上觅?。
+>honk[hɑŋk] 鹅叫声；汽车喇叭声;雁叫声；按喇叭
+
+在鸟类迁徙季节，来自韩国各地的游客驱车前往舒川，观看成群的弯嘴吸蜜鸟、野鸭和鸣叫的天鹅在飞往西伯利亚前在潮滩上觅食。
 
 But the county didn’t escape the **upheaval** that South Korea’s rapid **industrialization wrought** on its rural towns. Its ramie fabric industry declined, with most of South Korea’s clothes now imported or made of **synthetic materials**. People drink more **imported wine** and beer than sogokju.
 但该郡并没有逃脱韩国快速工业化给农村城镇带来的剧变。由于韩国的大部分服装现在依靠进口或由合成材料制成，苎麻面料产业衰落。

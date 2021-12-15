@@ -563,6 +563,8 @@
     - [Redis缓存三大问题及解决方案](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)  
         `缓存穿透/缓存击穿/缓存雪崩`
         - [缓存踩踏](https://mp.weixin.qq.com/s/mjySTz73Ltcfsw1e6iY4YA)
+        - [布隆过滤器判断用户是否存在缓存](https://www.zhihu.com/question/38211640)  
+        `数据不在缓存则查询db，如果来一波冷数据，会导致缓存大量击穿，造成雪崩效应。用布隆过滤器当缓存的索引，只有用户在布隆过滤器中，才去查询缓存，如果没查询到，则穿透到db。如果不在布隆器中，则直接返回。减少直接数据库的访问`
     - [Redis分片机制](https://mp.weixin.qq.com/s/1f7lpmXYcaOCH7gR2DhPFw)  
         `一致性hash算法/平衡性/单调性/分散性`
     - [如何保证缓存与数据库的双写一致性](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)  
