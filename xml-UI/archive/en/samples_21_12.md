@@ -286,3 +286,117 @@ Liu Pengyu, a spokesman for the Chinese Embassy, said at the time the accusation
 >groundless[ˈɡraʊn(d)ləs] 无理由的；无根据的
 
 中国驻美大使馆发言人刘鹏宇当时称，该指控是对中国的众多“无端攻击”之一。
+
+It certainly **looks cynical**. I would say that it looks **pathetic**, given the state of democracy and human rights in the United States and in the West in general. The U.S. is clearly **going through a rough patch** right now
+>cynical[ˈsɪnɪk(ə)l] 愤世嫉俗的；悲观的；犬儒；冷嘲热讽的  
+>pathetic[pəˈθetɪk] 悲惨的；悲哀的；可怜的；可悲的  
+>rough patch 低迷期；艰难的时刻
+
+美国自行决定哪些国家应该被称为民主国家当然令人深感讽刺。考虑到美国和整个西方的民主和人权状况，我认为这是荒唐可笑的. 美国现在显然正处于一段艰难时期
+
+American democracy is an **ongoing struggle** to **live up to** our highest ideals and to heal our divisions; to **recommit ourselves to** the founding idea of our nation captured in our **Declaration of Independence**.
+>live up to 符合；够得上；达到预期标准
+
+美国的民主是一场持续斗争，目的是为实现我们的最高理想，弥合我们的分歧，并重新致力于闪耀于我们的《独立宣言》之中的建国理念
+
+For weeks, global markets have been watching the struggles of China Evergrande, a **teetering** real estate giant **weighed down** by $300 billion or more in **obligations** that just **barely seemed able to** make its required payments to global investors.
+>teeter[ˈtiːtə(r)] 摇晃；蹒跚；摇摇欲坠  
+>weigh down 压倒；使…负重担
+
+数周来，全球市场一直关注着中国恒大的困境，这家濒临破产的房地产巨头背负的债务或不止3000亿美元，它看来无力向全球投资者支付所需款项
+
+**It’s the nature of** that next step — bankruptcy, a **fire sale** or business as usual — that remains unknown. In the United States and many other places, bondholders could push an **unwilling company** into some form of reorganization, usually in court, and **divvy up** the pieces.
+>the nature of ..的性质；..的本质  
+>fire sale 大甩卖；减价出售；抛售  
+>divvy[ˈdɪvi] 分摊；分配；分享；瓜分
+
+下一步是破产、抛售还是照常营业，仍然未知。在美国和其他许多地方，债券持有人可以在一家公司不情愿的情况下推动其进行某种形式的重组，通常是在法庭上，然后分钱还债。
+
+We all expected that Evergrande was not going to be able to **pull a rabbit out of their hat**, Now, the ball is in their court to **come up with** some form of restructuring proposal
+>pull a rabbit out of a hat 另辟蹊径出其不意  
+>come up with 赶上；找到；想出(一个主意或计划)；提出
+
+我们都预计恒大拿不出什么锦囊妙计，现在，他们的职责是拿出某种形式的重组方案
+
+Early last year, local government officials **stepped in to seize control** of HNA, a transportation and logistics **conglomerate saddled with debt** from expensive overseas acquisitions. the rights and interests of creditors and investors will be protected **in accordance with** the law
+>conglomerate[kənˈɡlɑmərət] 大型联合企业；综合企业  
+>saddle[ˈsæd(ə)l] 马鞍；(自行车或摩托车的)车座  
+>be saddled with 使负担；承受…的负担  
+>in accordance with 按照；根据；依照
+
+去年年初，当地政府官员出手接管海航，这家运输物流集团因昂贵的海外收购而负债累累. 债权人和投资者的权益将依法保障
+
+Diplomacy is by its nature **byzantine**, and sometimes secretive as well. We’ll try to get to the bottom of what it all means.
+>byzantine 拜占庭帝国的；东罗马帝国的  
+>get to the bottom of 弄个水落石出；详细调查；弄清真相
+
+外交的基本特征是错综复杂，有时也神秘。我们将在这里试图弄清楚这一切意味着什么
+
+An international consensus seems to have emerged that **sweeping boycotts** that include athletes are **ineffective** and serve only to **penalize** sportsmen and women. Senator Cotton **notwithstanding**, few Olympic or government officials are seriously considering preventing athletes from attending the Beijing Games.
+>penalize[ˈpin(ə)lˌaɪz] 惩罚；处罚  
+>notwithstanding[ˌnɑtwɪðˈstændɪŋ] 尽管；虽然；还是；仍然
+
+国际社会看来已形成一个共识，认为将运动员包括在内的全面抵制除了惩罚运动员外，没有作用。虽然参议员科顿希望那样做，但很少有奥运会或政府官员认真考虑过不让运动员参加北京冬奥会的建议。
+
+The government **is banking on** its message finding an audience in some countries — whether in Asia, Africa or Latin America — **disillusioned** by liberal democracy or by American-led criticism. They want to **put on a back foot**, put on the defensive, what they refer to as Western democracy
+>disillusion 使幻灭；使觉醒；幻灭；觉醒  
+>back foot 处于守势；脚背
+
+政府仍寄希望于在一些亚非拉国家找到受众，这些国家对自由民主的概念或对美国主导的批评感到失望。他们想要让其所谓的西方民主处于下风，采取守势
+
+He **ridiculed** the “**song and dance**” that voters are given during elections, **contending** that voters have little influence until the next campaign
+>song and dance 歌舞表演；演说；空洞的废话  
+>contend 竞争；认为；主张；争夺
+
+他嘲笑选民在选举期间听候选人的“天花乱坠的口号”，认为在下一次竞选之前，选民几乎没有影响力
+
+Imagine a **hostile** country shutting down New York City’s **electrical grid** for months at a time using **code-breaking quantum computers**. These aren’t **nutty hypotheticals** in some **distant dystopian** future. They are scenarios that **keep American national security officials up at night** right now.
+>nutty[ˈnʌti] 坚果味的；含果仁的；疯疯癫癫的  
+>hypothetical[ˌhaɪpəˈθetɪk(ə)l] 假设的；假定的  
+>keep sb up at night 使..夜不能寐
+
+想象一个敌对国家使用破译量子计算机的一次攻击就让纽约市的电网瘫痪数月。这些并不是某种遥远的反乌托邦未来才有的疯狂假设。这些场景现在让美国国家安全官员夜不能寐。
+
+In response, a growing number of American and European companies have **jumped into** this space, **triggering a steady stream of** improvements such as **lightweight, off-road and folding** bike designs. 
+>a stream of 一连串；大量的  
+>off-road 越野的; 越野车；赛车；越轨
+
+越来越多的美国和欧洲公司也在响应这一趋势，加入到这个领域中来，引发了源源不断的改进，如轻型自行车、越野自行车和可折叠自行车的设计。
+
+Competition does not mean **teetering at the edge of conflict**. The key in this process will be for the United States to **respect its rivals**, including China. It’s also important to **give credit where credit is due**.   
+竞争并不意味着处于冲突的边缘。这个过程的关键是美国尊重包括中国在内的竞争对手。给予应有的赞誉也很重要
+
+One big reason for **surging fertilizer prices** is surging prices of coal and natural gas. The **urea** in your urine is produced in the liver.
+>urea[jʊˈriə] 尿素
+
+化肥价格飙升的一个重要原因是煤炭和天然气价格高企。人类尿液中的尿素是在肝脏中产生的
+
+China is a **linchpin** of the global fertilizer trade. The country **accounts for** about **a tenth** of the world’s urea-based fertilizer exports. In the fall, **soaring electricity demand** led the southwestern province of Yunnan, a key **phosphate** producer, to order **drastic** production cuts by **energy-hungry** industries, including fertilizer. 
+>linchpin[ˈlɪntʃˌpɪn] 关键人物；关键事物  
+>phosphate[ˈfɑsˌfeɪt] 磷酸盐  
+>energy-hungry 高能耗的
+
+中国是全球化肥贸易的关键环节。中国的尿素类肥料出口约占全球的十分之一。 到秋季，电力需求飙升，导致中国主要的磷酸盐产地云南省下令大幅削减高耗能行业的产能，包括化肥生产
+
+They were probably **ahead of the curve** in realizing how much this was going to **disrupt global supply chains**, And **in a situation like that**, it’s obviously better to **err on the side of** trying to have more food rather than less.
+>ahead of the curve 在..之前; 预先  
+>err on the side of 宁错于..；在…做过头
+>err[ɜr] 犯错误；做错事；出差错
+
+他们可能更先认识到这将对全球供应链造成多大破坏，在这样的形势下，显然是宁可粮多也不要粮少。
+
+South Korea **relies heavily on** Chinese urea for the **industrial fluid** that **breaks down harmful gases** in diesel **exhaust**. On a construction site, if just one **heavy-duty vehicle** runs out of urea, the entire project might be **paralyzed**.
+>exhaust[ɪɡˈzɔst] 耗尽；使疲惫不堪；用完; 废气；排气管  
+>heavy-duty 结实的；重型的；耐用的  
+>paralyze[ˈperəˌlaɪz] 使麻痹；使瘫痪
+
+韩国非常依赖中国尿素生产的一种工业液体，这种液体可以分解柴油尾气中的有害气体。在建筑工地，只要有一辆重型汽车的尿素用完，整个项目都可能瘫痪
+
+When the fertilizer **squeeze** hit this fall, Danpal Yadav, 44, a **rice grower** in the central state of Madhya Pradesh, was already **reeling under debt** because of **low crop yields** last season. After coming home **empty-handed** from visits to government fertilizer distribution centers, he **grew anguished** and talked about suicide, his family said.
+>squeeze[skwiz] 挤压；(使)挤入  
+>reel under debt 卷入债务；负债  
+>empty-handed 一无所获；空手的；空手而归  
+>anguished[ˈæŋɡwɪʃt] 痛苦的；苦恼的
+
+今秋化肥短缺的时候，印度中部中央邦44岁的稻农丹帕尔·亚达夫已经因为上一季的低收成而负债累累。他的家人说，他去了政府的化肥分配中心却空手而归，他愈发痛苦，还有了自杀的念头。
+
