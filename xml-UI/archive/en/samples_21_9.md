@@ -1122,224 +1122,408 @@ During the **bird-migrating seasons**, tourists from across South Korea drive to
 在鸟类迁徙季节，来自韩国各地的游客驱车前往舒川，观看成群的弯嘴吸蜜鸟、野鸭和鸣叫的天鹅在飞往西伯利亚前在潮滩上觅食。
 
 But the county didn’t escape the **upheaval** that South Korea’s rapid **industrialization wrought** on its rural towns. Its ramie fabric industry declined, with most of South Korea’s clothes now imported or made of **synthetic materials**. People drink more **imported wine** and beer than sogokju.
+>upheaval[ʌpˈhiv(ə)l] 动荡；剧变；激变；动乱  
+>wrought[rɔt] 制造的；精制的；精炼的；装饰的  
+>synthetic[sɪnˈθetɪk] 人造的；(人工)合成的；合成物
+
 但该郡并没有逃脱韩国快速工业化给农村城镇带来的剧变。由于韩国的大部分服装现在依靠进口或由合成材料制成，苎麻面料产业衰落。
 
 Seocheon, the county seat, **has all the looks of** a fast-aging community. During a recent market day, its orthopedic and other medical **clinics** were **jammed with** elderly patients.
-舒川城拥有快速老龄化社区的所有特征。在最近的一个赶集日，其?科和其他医疗诊所里挤满了老年患者。
+>orthopedic[ˌɔrθəˈpidɪk] 整形外科的；骨科；矫形术  
+>jam 果酱；堵塞；拥挤
+
+舒川城拥有快速老龄化社区的所有特征。在最近的一个赶集日，其骨科和其他医疗诊所里挤满了老年患者。
 
 At the nearby bus and taxi stop, **stooped**, older passengers with **shopping bundles** sat under **an awning** like a row of birds, waiting for 
 their buses or 100-won taxis to **show up**. 
-在附近的公交?站和出租?站，提着购物袋的年?乘客驼着背，像一排小?一样坐在遮阳篷下，等待他们的公交?或百元出租?。郡政府安排的一名身穿?色背心的年轻助理正忙着在他们上下?时帮忙提购物袋。
+>stoop[stup] 弯腰；俯身；屈服；屈从  
+>awning[ˈɔnɪŋ] 雨篷；遮阳蓬
 
-It was **especially difficult** for old people to walk to the nearest bus stop when it **snowed** in winter or was **scorching** hot in summer
-在下雪的冬天或 炎热的夏季，老人步行到最近的公交?站尤其困难。
+在附近的公交站和出租车站，提着购物袋的年老乘客驼着背，像一排小鸟一样坐在遮阳篷下，等待他们的公交车或百元出租车。
 
-On a recent day, she was **all smiles** as she carried a shopping bag full of fish and **crabs** from the market. She had even **treated** herself to **a new pair of pants**.
-最近的一天，她笑容满面地提着一个装满从市场买来的?和螃蟹的购物袋。她还给自己买了一条新裤子。
+It was **especially difficult** for old people to walk to the nearest bus stop when it **snowed** in winter or was **scorching** hot in summer  
+在下雪的冬天或 炎热的夏季，老人步行到最近的公交站尤其困难。
 
-The announcement by China, which is **by far** the biggest **domestic** producer of coal and the largest financier of **coal-fired** power plants around the world, was **cautiously welcomed** by experts.
+On a recent day, she was **all smiles** as she carried a shopping bag full of fish and **crabs** from the market. She had even **treated** herself to **a new pair of pants**.  
+最近的一天，她笑容满面地提着一个装满从市场买来的鱼和螃蟹的购物袋。她还给自己买了一条新裤子。
+
+The announcement by China, which is **by far** the biggest **domestic** producer of coal and the largest financier of **coal-fired** power plants around the world, was **cautiously welcomed** by experts.  
 作为迄今为止最大的国内煤炭生产国和全球最大的燃煤电厂融资国，中国的这一声明受到了专家的谨慎欢迎。
 
 China is the **undisputed** king of coal. Last year, China built **more than three times more** new coal power capacity than all other countries in the world **combined, equal to** “more than one large coal plant per week,” China’s **net** construction of coal power capacity within the country **grew by** 29.8 gigawatts, **essentially wiping out the gains** of the rest of the world.
+>wipe[waɪp] out 擦去；消灭；彻底摧毁
+
 中国是无可争议的煤炭之王。去年中国新建的煤炭装机容量是世界上所有其他国家总和的三倍多，相当于“每周新建一座以上的大型燃煤电厂”。中国国内煤电装机容量净建设增加了29.8吉瓦，基本上抵消了世界其他地区煤电净装机容量减少的成果
 
-How much energy is **in a gigawatt**? It is **enough to power** 750,000 homes or 110 million LED **light bulbs**.
-一吉瓦有多少能量? 它足以为75万个家庭或1.1亿个LED灯泡供电
+How much energy is **in a gigawatt**? It is **enough to power** 750,000 homes or 110 million LED **light bulbs**. Is China **abandoning** coal? Not just yet. **Domestically**, China produces about 1,200 gigawatts of energy from coal, according to Greenpeace China.
+一吉瓦有多少能量? 它足以为75万个家庭或1.1亿个LED灯泡供电. 中国正在放弃煤炭吗?还没有。根据绿色和平中国的数据，在国内，中国通过燃煤生产约1200吉瓦的能源
 
-Is China **abandoning** coal? Not just yet. **Domestically**, China produces about 1,200 gigawatts of energy from coal, according to Greenpeace China.
-中国正在放弃煤炭吗?还没有。根据绿色和平中国的数据，在国内，中国通过燃煤生产约1200吉瓦的能源
+For some **host countries**, partnering with China is the only way to draw energy from their own supply of coal. That is because China has **an abundance of** money, the **steel mills** that are needed to make coal power plants and the **engineering expertise** that many other countries don’t have.
+>an abundance of 许许多多的;大量的
 
-For some **host countries**, partnering with China is the only way to draw energy from their own supply of coal. That is because China has an **abundance of** money, the **steel mills** that are needed to make coal power plants and the **engineering expertise** that many other countries don’t have.
 对一些东道国来说，与中国合作是从本国煤炭供应中获取能源的唯一途径。因为中国拥有大量资金、制造煤电厂所需的钢厂，以及许多其他国家不具备的工程专业知识。
 
-South Korea and Japan have been the two largest supporters of coal-fired power plants **abroad after China**. **In light of that**, China’s role in **financing** power plants **overseas** “was only going to grow,”
+South Korea and Japan have been the two largest supporters of coal-fired power plants **abroad after China**. **In light of that**, China’s role in **financing** power plants **overseas** “was only going to grow,”  
 韩国和日本是除中国之外海外燃煤电厂的最大支持者. 有鉴于此，中国在海外发电厂融资方面的作用“只会越来越大”。
 
 Plans to build coal power plants have also been **shelved** (South Africa), **reconsidered** (Bangladesh) and faced funding troubles (Vietnam).
+>shelve[ʃelv] 搁置；把…放在架子上；束之高阁；解雇；不予考虑
+
 在其他地区，建设燃煤电厂的计划也被搁置(南非)、重新考虑(孟加拉国)或面临资金问题(越南)。
 
 The statement did not **make clear** whether the **moratorium** on “building” **meant no more financing**, or if the new policy would apply to projects that have already been proposed, approved or are **under construction**. He would like to have more **clarity** on these issues in the coming weeks.
+>moratorium[ˌmɔrəˈtɔriəm] 暂停;延期偿付
+
 声明没有说明暂停“建设”是否意味着不再融资，或者新政策是否适用于已经提出、批准或在建的项目。他希望在未来几周内对这些问题能有更清楚的了解。
 
 Unfortunately, President Donald Trump **promptly tore it up** rather than learn what it was about and get Congress to **ratify** it, and the Democrats have **since then** made no move to **revive the deal**, known as the TPP.
-不幸的是，特朗普总统没有去了解它的用意、让国会批准它，反而迅速撕毁了它，此后，?主党人没有采取任何行动来恢复这项被称为TPP的协议。
+>promptly[ˈprɑmptli] 马上；迅速地；及时地；连忙; 敏捷地；立即
+
+不幸的是，特朗普总统没有去了解它的用意、让国会批准它，反而迅速撕毁了它，此后，民主党人没有采取任何行动来恢复这项被称为TPP的协议。
 
 If you want to be part of this **American-crafted** 21st-century **trade pact**, you have to **play by our rules**. That’s why reformers in China were **intrigued** by the TPP — they saw it as **a lever** to open the Chinese system — and **hard-liners** feared it more than **submarines**.
+>intrigue[ɪnˈtriɡ] 阴谋；密谋；密谋策划；激起…的兴趣；引发…的好奇心
+
 如果你想成为这个由美国制定的21世纪贸易协定的一部分，你就必须遵守我们的规则。正因如此，中国的改革者对TPP感兴趣——他们把它视为撬开中国体制的杠杆——而强硬派对它的恐惧超过了潜艇。
 
 While China’s **admittance** is not likely anytime soon (it requires **unanimous consent** of the members), just by applying Beijing is exposing how **unserious** the American **far left and far right** are when it comes to China. They **rail against** Beijing’s human rights policy and then they block one of America’s most effective tools to **nudge** — and that is **the most we can ever do** — China toward more transparency and the **rule of law**, i.e., TPP.
+>admittance[ədˈmɪt(ə)ns] 准入；通道  
+>unanimous[jʊˈnænɪməs] 一致同意的；全体一致的；无异议的  
+>consent 同意；允许；赞同  
+>rail against 抱怨；责骂；嘲骂  
+>nudge[nʌdʒ] 轻推；讨厌的家伙；(聊天工具的)窗口抖动功能; (朝某一方向)逐步推进；劝说
+
 虽然中国不太可能在短时间内加入(这需要成员国的一致同意)，但仅仅通过这次申请，北京就暴露了美国的极左和极右在中国问题上有多不正经。他们抱怨北京的人权政策，然后又阻止美国最有效的工具之一(也是我们能做的最大努力)——也就是TPP——推动中国走向更透明和法治。
 
 What makes this Chinese **maneuver** more **ridiculous** is that Trump was so **ignorant about** the contents of the TPP before he **tore it up** — his main objection was **surely** that Obama had **negotiated it**
-让中国这一步棋显得愈发荒诞的是，特朗普在撕毁TPP之前对其内容一无所知——他的主要反对理由肯定是，这个协议是由奥巴?谈判达成的 
+>maneuver[məˈnʊvər] 演习；谨慎或熟练的动作；花招;调遣；操纵  
+>ignorant[ˈɪɡnərənt] 不知道；愚昧无知
+
+让中国这一步棋显得愈发荒诞的是，特朗普在撕毁TPP之前对其内容一无所知——他的主要反对理由肯定是，这个协议是由奥巴马谈判达成的 
 
 But Trump’s **foolishness** had a lot of **tacit** support from Bernie Sanders and his fellow progressives with their **knee-jerk opposition** to the pact 
+>tacit[ˈtæsɪt] 心照不宣的；不言而喻的；默许的  
+>knee-jerk 本能地做出的；未经思考做出的; 膝反射；下意识的
+
 但特朗普的愚蠢在相当程度上得到了伯尼·桑德斯和他的进步派伙伴们的默许，他们下意识地反对这项协议
 
 One of the largest **multilateral** trade agreements ever negotiated, it included restrictions on foreign state-owned enterprises that **dumped subsidized products** into our markets. It **set out explicit anti-human-trafficking provisions** that prohibited turning **guest workers** into slave labor. It required **signatories** to permit their workers to form independent trade unions to **collectively bargain** and to **eliminate** all child labor practices.
+>signatory[ˈsɪɡnəˌtɔri] 签字人；签约国;签署的  
+>trafficking[ˈtræfɪkɪŋ] 交通；运输；非法交易；人口贩卖
+
 这是有史以来最大的多边贸易协议之一，其中包括限制向我国市场倾销补贴产品的外国国有企业。协议中有明确的反人口贩运条款，禁止奴役外来劳工。它要求缔约国允许工人组建独立的行业工会进行集体议价，并消除一切童工。
 
-By **accounting for** 40 percent of global G.D.P., the original TPP would have become a real **standards-setter** in the Pacific.
+By **accounting for** 40 percent of global G.D.P., the original TPP would have become a real **standards-setter** in the Pacific.  
 TPP原始缔约国将占据全球GDP的40%，使其成为太平洋地区名副其实的标准制定者。
 
 **precisely** because they wanted us in the neighborhood as a bigger economic **counterweight** to China’s growing domination. And then we **walked away**, and now China wants to take our place — **on its terms**.
+>counterweight 砝码；抗衡；平衡重量  
+>precisely[prɪˈsaɪsli] 精确地；准确地；恰好地；正好；恰恰
+
 这恰恰是因为这些国家希望我们能在这一地区成为更大的经济力量以制约中国日益增强的统治地位。结果我们就这么走开了，如今中国希望取代我们的位置——并且要按他们的方式。
 
 A new book reports that Gen. Mark Milley, the chairman of **the Joint Chiefs of Staff, improperly restricted** the president of the United States’ ability to use military force and **committed to warning** China, an American **adversary**, of any **impending** U.S. military action against it. The context **surrounding** General Milley’s actions is unclear and may be **exculpating**. 
-根据一本新书的报道，参谋?联席会议主席?克·米利对美国总统使用军事力量的能力进行了不恰当的限制，并提醒美国的对手中国注意美国对其即将采取的行动。米利这些行为所处的情境目前尚不得而知，这种具体情境也许能让他脱罪。
+>impending 即将发生的；迫在眉睫的  
+>exculpate[ˈekskʌlˌpeɪt] 证明(或宣布)无罪；为(某人)开脱;使无罪；辩白
+
+根据一本新书的报道，参谋长联席会议主席米利对美国总统使用军事力量的能力进行了不恰当的限制，并提醒美国的对手中国注意美国对其即将采取的行动。米利这些行为所处的情境目前尚不得而知，这种具体情境也许能让他脱罪。
 
 There are other potential explanations for General Milley’s actions **less salacious** than the Woodward and Costa **telling accounts for**. But the problem **runs deeper than** the specifics of General Milley’s actions and **signals trouble** for the relationship between our military and the civilians it is **intended to serve**.
-对于米利的行为，还有其他可能的解释，而不像伍德沃德和科斯塔所说的那样不光彩。但这是一个比米利的具体行为更深层次的问题，预示着我们的军人与其旨在服务的平?之间的关系出现了问题。
+>salacious[səˈleɪʃəs] 淫秽的；色情的;好色的；淫荡的；猥亵的  
 
-Though the president is commander in chief, Congress also provides **civilian control** of the military and requires all two-star generals and above to commit to informing **it of concerns** they have about **executive branch** actions. So General Milley discussing the president’s **soundness** with the speaker of the House, **while unseemly**, could be understood as fulfilling his **constitutional responsibilities**.
-尽管总统是总司令，但国会也对军队拥有文官控制权，并要求所有两星及以上的将军承诺向其通报他们对行政部?行动的担忧。因此，米利与众议院议?讨论总统的身心健全性，虽然不太体面，却可以理解为他在履行他的宪法责任。
+对于米利的行为，还有其他可能的解释，而不像伍德沃德和科斯塔所说的那样不光彩。但这是一个比米利的具体行为更深层次的问题，预示着我们的军人与其旨在服务的平民之间的关系出现了问题。
+
+Though the president is commander in chief, Congress also provides **civilian control** of the military and requires all two-star generals and above to commit to **informing it of concerns** they have about **executive branch** actions. So General Milley discussing the president’s **soundness** with the speaker of the House, **while unseemly**, could be understood as fulfilling his **constitutional responsibilities**.
+>executive branch 行政部门  
+>soundness[saʊndnəs] 稳健；坚固性；完善；公正;安定性；可靠性  
+>unseemly 不礼貌的；不得体的；不体面的；不适当的；不适宜的
+
+尽管总统是总司令，但国会也对军队拥有文官控制权，并要求所有两星及以上的将军承诺向其通报他们对行政部门行动的担忧。因此，米利与众议院议长讨论总统的身心健全性，虽然不太体面，却可以理解为他在履行他的宪法责任。
 
 Whether that’s **indicative** of a **clandestine** move by the chairman or simply the **routine dysfunction** of an administration that wasn’t well managed is difficult to **assess**. We may never **find out the full story**: It’s **unlikely** that General Milley or other military leaders would **publicly rebut the account**, since that would **draw them further into the glare of** civilian politics.
+>indicative[ɪnˈdɪkətɪv] 指示的；陈述的；暗示的  
+>clandestine[ˈklændəˌstin] 暗中从事的；保密的；秘密的; 偷偷摸摸的；私下的  
+>rebut[rɪˈbʌt] 反驳；驳斥；驳回；举反证；击退
+
 很难评估这是参联会主席的秘密举动，还是仅仅是管理不善的政府的日常运转失灵。我们可能永远无法了解到事情的全貌:米利或其他军事领导人不太可能公开反驳这个说法，因为这会使他们进一步受到文官政治的注目。
 
-But even if the Woodward and Costa account **sensationalizes** General Milley’s actions, his choices are **problematic** for civil-military relations. **Account after account of** the Trump administration is **rife** with General Milley’s friends and colleagues describing his conversations and **ascribing the noblest of** motives to him. Either General Milley has the most **indiscreet circle of acquaintances** in Washington or he’s authorizing it to **reshape his image**.
+But even if the Woodward and Costa account **sensationalizes** General Milley’s actions, his choices are **problematic** for civil-military relations. **Account after account of** the Trump administration is **rife** with General Milley’s friends and colleagues describing his conversations and **ascribing the noblest of motives to** him. Either General Milley has the most **indiscreet circle of acquaintances** in Washington or he’s authorizing it to **reshape his image**.
+>sensationalize[senˈseɪʃən(ə)lˌaɪz] 故作耸人听闻地夸张；大肆渲染; 炒作；使引起轰动  
+>rife[raɪf] 普遍的；流行的；丰富的  
+>ascribe[əˈskraɪb] to 把…归于; 归咎于  
+>indiscreet[ˌɪndɪˈskrit] 不慎重的；不审慎的；鲁莽的 ;轻率的；不谨慎的  
+>acquaintance[əˈkweɪntəns] 熟人；相识；认识；朋友；点头之交
+
 但即使伍德沃德和科斯塔的说法过于夸张，米利的选择对军政关系来说也是有问题的。在诸多关于特朗普政府的陈述中，充斥着米利的朋友和同事对他所说的话的描述，并将之冠以最高尚的动机。要么米利在华盛顿的交往圈子格外口无遮拦，要么这一切是得到他授意的，旨在重塑他的形象。
 
-One can **sympathize with** the general’s **frustration of having** as his legacy the image of him **striding through** Lafayette Square in combat **fatigues alongside** a president who is **threatening to** use the military against American citizens and still think it’s **unbecoming** for the president’s senior military adviser to be so actively working to **cast himself as the savior** of the Republic. Nor is the problem just **optics**.
-可以理解将军的烦恼，因为他留给大家的印象是，身着作战服与一位威胁要对美国公?动用军队的总统一起走过拉斐特广场，但同时我们也需要知道，作为总统的高级军事顾问，主动把自己塑造成共和国的拯救者是不合适的。而且也不只是形象的问题。
+One can **sympathize with** the general’s **frustration** of having as his legacy the image of him **striding through** Lafayette Square in combat **fatigues alongside** a president who is **threatening to** use the military against American citizens and still think it’s **unbecoming** for the president’s senior military adviser to be so actively working to **cast himself as the savior** of the Republic. Nor is the problem just **optics**.
+>sympathize[ˈsɪmpəˌθaɪz] 同情；赞同；支持  
+>stride[straɪd] 步伐；进展；大步走；阔步行走  
+>unbecoming[ˌʌnbɪˈkʌmɪŋ] 不合适的；不相称的；不合身的；不得体的  
+>savior[ˈseɪvjər] 救世主；拯救者  
+>optics[ˈɑptɪks] 光学
+
+可以理解将军的烦恼，因为他留给大家的印象是，身着作战服与一位威胁要对美国公民动用军队的总统一起走过拉斐特广场，但同时我们也需要知道，作为总统的高级军事顾问，主动把自己塑造成共和国的拯救者是不合适的。而且也不只是形象的问题。
 
 Some argue that military leaders **interposing** themselves between the president and a **politically motivated war** is **the least bad choice**. Even in the extreme circumstances of a **wildly erratic** president attempting to use the military to prevent the transfer of power, it’s dangerous to have military leaders **subvert civilian control** of the military in the way a chairman of the Joint Chiefs “pulling a Schlesinger” implies. An **unsound** president is a danger to democracy, but a military that considers itself the **arbiter** of elected leaders’ lawful authorities is also a danger to democracy.
-一些人认为，由军事领导人出面阻挠总统发动出于政治动机的战争，属于最不坏的一个选择。即使在最极端的情况下，一个极其不稳定的总统试图利用军队阻止权力交接，参谋?联席会议主席“效法施莱辛格” 也意味着军事领导人颠覆文官对军队的控制，因而是危险的。身心有恙的总统对?主构成威胁，但如果军队认为自己是?选领导人合法权力的仲裁者，也将对?主构成威胁。
+>interpose 插入；介入；插话；干预  
+>the least bad choice 最不坏的选择  
+>erratic[ɪˈrætɪk] 不规则的；不确定的；不稳定的；不可靠的; 古怪的；反复无常的；飘忽不定的  
+>unsound 不稳妥的；观点不正确的；有错误的；靠不住的; 不健全的；有病的；不健康的  
+>subvert[səbˈvɜrt] 颠覆；暗中破坏；使背叛；使变节; 推翻；搅乱  
+>arbiter[ˈɑrbɪtər] 仲裁人；公断人；裁决人；决定者
 
-America’s **uniformed leaders** did an outstanding job ensuring that our military **kept out of** politics during and after a **contested election**. They deserve **enormous credit** for that **professionalism** and service to the nation. They’d deserve even more credit if they’d stop **publicizing** it.
+一些人认为，由军事领导人出面阻挠总统发动出于政治动机的战争，属于最不坏的一个选择。即使在最极端的情况下，一个极其不稳定的总统试图利用军队阻止权力交接，参谋长联席会议主席“效法施莱辛格” 也意味着军事领导人颠覆文官对军队的控制，因而是危险的。身心有恙的总统对民主构成威胁，但如果军队认为自己是民选领导人合法权力的仲裁者，也将对民主构成威胁。
+
+America’s **uniformed leaders** did an outstanding job ensuring that our military **kept out of** politics during and after a **contested election**. They deserve **enormous credit** for that **professionalism** and service to the nation. They’d deserve even more credit if they’d stop **publicizing** it.  
 美国的军方领导做了出色的工作，确保我们的军队在有争议的选举期间和之后远离政治。他们的专业精神和对国家的服务值得巨大的赞誉。如果他们能不把这些公开化，得到的赞誉会更多。
 
-When the troubled Chinese property giant Evergrande **was starved for cash** earlier this year, it turned to its own employees with a **strong- arm pitch**: Those who wanted to keep their bonuses would have to give Evergrande **a short-term loan**. Some workers **tapped** their friends and family for money to lend to the company. Evergrande suddenly stopped paying back the loans, which had **been packaged as high-interest investments**.
+When the troubled Chinese property giant Evergrande **was starved for cash** earlier this year, it turned to its own employees with a **strong-arm pitch**: Those who wanted to keep their bonuses would have to give Evergrande **a short-term loan**. Some workers **tapped** their friends and family for money to lend to the company. Evergrande suddenly stopped paying back the loans, which had **been packaged as high-interest investments**.
+>strong-arm 以暴力强制的; 强硬手段  
+
 今年早些时候，陷入困境的中国房地产巨头恒大急需现金，它向自己的员工大力宣传:那些想要保留奖金的人必须向恒大提供短期贷款。一些员工向他们的朋友和家人借钱给公司。恒大突然停止偿还这些曾被包装为高息投资的贷款。
 
 Once China’s **most prolific** property developer, Evergrande has become the country’s **most indebted** company. It **owes unfinished apartments to** home buyers and has **racked up** more than $300 billion in unpaid bills. 
+>prolific[prəˈlɪfɪk] 高产的；创作丰富的；丰硕的；多育的  
+>indebted[ɪnˈdetəd] 感激的；感恩的；负债的  
+>rack up 获胜；击倒；积累
+
 恒大曾经是中国最高产的房地产开发商，现在已经成为中国负债最多的公司。它还欠购房者未完工的公寓，并累积了超过3000亿美元的未付账单。
 
 Evergrande is **on the hook** to buyers for nearly 1.6 million apartments, according to one estimate, and it may owe money to tens of thousands of its workers.
+>on the hook 陷入圈套；受拘束；被套住
+
 据一项估计，恒大需要向购房者交付160万套公寓，并且它可能欠数万名员工的钱。
 
 As rumors **rippled through** the Chinese internet that Evergrande might **go bankrupt** this month, Mr. Jin and some of his colleagues gathered in front of **provincial government offices** to **pressure** the authorities to **step in**.
+>ripple 波纹；涟漪；扩散；涌起
+
 随着中国互联网传出恒大可能在本月破产的流言，金成和他的一些同事聚集在省政府办公室前，向当局施压，要求当局介入。
 
-In the southern city of Shenzhen, home buyers and employees **crowded into the lobby** of Evergrande’s headquarters last week and **shouted** for their money back. “Evergrande, give back my money I **earned with blood and sweat**!” some could **be heard yelling** in **video footage**.
+In the southern city of Shenzhen, home buyers and employees **crowded into the lobby** of Evergrande’s headquarters last week and **shouted** for their money back. “Evergrande, give back my money I **earned with blood and sweat**!” some could **be heard yelling** in **video footage**.  
 在南方城市深圳，购房者和员工上周涌入恒大总部的大厅高呼要求退钱，在视频片段中可以听到一些人大喊:“恒大还我血汗钱!”
 
 Evergrande did not **respond to a request for comment**, but the company recently warned that it was **under “tremendous” financial pressure** and said it had hired **restructuring experts** to help determine its future. **Things were not always this way**.
+>things were not always this way  事情并不总是这样
+
 恒大没有回应置评请求，但该公司最近警告称其面临“巨大”的财务压力，并表示已聘请重组专家来帮助明确公司的未来。曾经的恒大并非如此。
 
 Banks and investors **happily threw in money, making a bet on** China’s growing middle class and its **appetite for** homes and other properties. **More recently**, real estate has **come under scrutiny** from Chinese regulators who want to end **the go-go years of the boom** and have forced the industry to start **paying off debt**. The idea was to **reduce Chinese banks’ exposure** to the property sector. 
-银行和投资者兴高采烈地投入资金，押注中国不断壮大的中产阶级及其对住所和其他房产的需求。而最近，房地产受到中国监管机构的审查，它们希望结束繁盛时期，并强制要求该行业开始偿还债务。这一做法是为了减少中国的银行在房地产行业的?险。
+>scrutiny[ˈskrut(ə)ni] 仔细检查；认真彻底的审查   
+>go-go 歌歌舞的(跳舞的女子衣着暴露)；生意兴隆的；赚大钱的; 摇摆舞；赌博性投资
+
+银行和投资者兴高采烈地投入资金，押注中国不断壮大的中产阶级及其对住所和其他房产的需求。而最近，房地产受到中国监管机构的审查，它们希望结束繁盛时期，并强制要求该行业开始偿还债务。这一做法是为了减少中国的银行在房地产行业的风险。
 
 The Chinese financial system is really complex and when you see **fissures** like this you realize the impact it could **possibly have on society**, If Evergrande **were to disappear** tomorrow, it could be **a socially systemic issue**
+>fissure[ˈfɪʃər] 裂缝；(思想,观点等的)分歧；(使)裂开；龟裂；破裂
+
 中国的金融体系着实复杂，当你看到这样的裂隙时，你就会想到它可能对社会产生的影响，如果明天恒大就消失了，那可能会成为一个社会系统问题
 
 Evergrande has tried to **sell off parts of its vast empire** to raise new funds, but said last week it was “**uncertain as to** whether the group will be able to **consummate** any such sale.” It accused the news media of **triggering a panic** among home buyers with **negative coverage**. But Evergrande’s funding channels **started drying up well** before last week. The company started forcing staff members to help **bail it out** as early as April, when it **began peddling the short-term loans**.
+>consummate[ˈkɑnsəˌmeɪt] 技艺高超的；完美的; 完成；完善  
+>as to 说到; 关于；如此……以便；至于  
+>peddle[ˈped(ə)l] 兜售；挨户销售；沿街叫卖；挑卖；贩卖
+
 恒大曾试图卖掉其庞大帝国的部分业务以筹集新资金，但上周表示“不确定该集团是否能够完成任何此类出售”。它指责新闻媒体以负面报道引发购房者的恐慌。但早在上周之前，恒大的融资渠道就开始枯竭。该公司早在4月就开始兜售短期贷款，强迫员工帮助纾困。
 
 The **extent of the campaign** and how much money it might have raised were unclear. Employees were told to each invest **a certain amount of** money in Evergrande **Wealth products**, and that if they failed to do so, their performance pay and bonuses would **be docked**. Mr. Liu said his parents and **in-laws** had invested $200,000, and that he had put about $75,000 of his own money into Evergrande Wealth.
+>dock 码头；船坞；停靠码头；(使航天器在外层空间)对接；扣除(部分工资等）
+
 尚不清楚恒大这一行为的广度以及可能已筹集到的资金数量。员工被告知每人要投资一定数量的恒大财富产品，如果不这样做，他们会被扣掉绩效工资和奖金。刘云亭说，他的父母和岳父母投资了130万元，他自己也投入了50万元到恒大财富。
 
 Officials from China’s **top banking and insurance watchdogs** told executives to **sort out their towering debt** in order to maintain the stability of China’s financial market.
+>sort out 清理; 分类；整理；解决  
+>towering 高大的；高耸的；屹立的；卓越的
+
 中国最高银行和保险监管机构的官员要求高管们清理巨额债务，以维护中国金融市场的稳定。
 
-Under **heightened scrutiny**, Evergrande gathered its top executives earlier this month and asked them to publicly sign what it called a “**military order**” — **a pledge to** complete unfinished property developments.
+Under **heightened scrutiny**, Evergrande gathered its top executives earlier this month and asked them to publicly sign what it called a “**military order**” — **a pledge to** complete unfinished property developments.  
 在更严格的审查下，恒大本月早些时候召集了其高管，要求他们公开签署所谓的“保交楼军令状”——保证未完成的楼盘完成交付。
 
-Everyone is anxious, we are **a bit like ants on a hot pan**, having no idea what to do, we hope the protests would **prompt the government to** act before it was too late. it will get the central government to pay enough attention. Then someone would **come out to intervene**.
+Everyone is anxious, we are **a bit like ants on a hot pan**, having no idea what to do, we hope the protests would **prompt the government to** act before it was too late. it will get the central government to pay enough attention. Then someone would **come out to intervene**.  
 大家都急了，我们就有点像热锅上的蚂蚁，有点毫无头绪，我们希望抗议活动能促使政府在为时已晚之前采取行动。能够引起上面的重视，后续自然而然地就有可能有人出来干预了。
 
 I was **sitting at a stoplight** in Beijing when I first noticed the young men who would walk in between cars and **hand out brochures to drivers**. I **rolled down the window** and took one. To my surprise, it was **a for-sale advertisement** for apartments in a newly constructed building.
-在北京的一个红绿灯前，我第一次注意到有年轻人走在汽?之间发小广告。我摇下?窗，接过来一份。令我惊讶的是，这是一个售楼广告。
+>stoplight 红绿灯；信号灯  
+>brochure[broʊˈʃʊr] 资料(或广告)手册; 小册子；宣传册
+
+在北京的一个红绿灯前，我第一次注意到有年轻人走在汽车之间发小广告。我摇下车窗，接过来一份。令我惊讶的是，这是一个售楼广告。
 
 This was in 2010, when the American economy was still **enduring the aftereffects** of its **burst housing bubble**. I had covered the rise of that bubble, and **the fliers** in Beijing reminded me of Florida during its **frothiest days**: The Chinese real-estate market had grown so hot that the people **were marketing apartments** at red lights, **as if buying one were as common as buying a soda**.
+>aftereffect 副作用；余波；后遗症  
+>frothy[ˈfrɔθi] 起泡沫的；多泡沫的；空虚的；质料轻薄的; 空洞的
+
 那是在2010年，当时美国经济还在承受房地产泡沫破裂的后遗症。我曾报道过那次泡沫的兴起，北京的传单让我想起了泡沫最严重的佛罗里达:中国房地产市场变得如此火爆，以至于人们在等红灯的时候推销公寓，好像买房就像买汽水一样平常。
 
 There were many other **signs of a property bubble** during that trip. **On sidewalks** in Shanghai, I walked past **real-estate agencies** that had **set up** outdoor tables, to **accommodate** all of the demand. **Around this same time**, Jim Chanos, a **prominent** American investor, warned that China’s **real-estate excesses** had **placed it on a “treadmill to hell”** and that the **bubble might burst** at any point.
+>treadmill[ˈtredˌmɪl] 枯燥无味的工作(或生活方式); 跑步机
+
 在那次访问期间，我还看到其他许多房地产泡沫的迹象。在上海的人行道上，我经过一些房地产中介，他们为了满足所有的需求，把桌子摆到了外面。大约在同一时间，美国著名投资者吉姆·查诺斯警告，中国的房地产过度已经让它处于“通往地狱的跑步机上”，泡沫随时可能破裂。
 
 A recent **slowing of** the real-estate sales in China appears to put Evergrande **on the brink of insolvency**. Without **as much cash flow as** in prior years, the company may be unable to **meet a large payment due** tomorrow. 
+>on the brink of 即将要; 濒于；濒临；在……的边缘  
+>insolvency[ɪn'sɒlvənsi] 无力偿付债务; 资不抵债
+
 最近该市场的销售放缓，似乎将恒大推到了破产边缘。没有了往年那么多的现金流，公司可能无法支付明天到期的一大笔款项。
 
-Some other Chinese developers may also be in trouble. And **by almost any measure**, Chinese real estate is **suspiciously expensive**. Consider **the median price** of homes in China’s largest cities **relative to** the median incomes in those cities — a classic measure of **housing valuation** (and one that **was blinking bright red** in the U.S. before the housing bubble burst):
+Some other Chinese developers may also be in trouble. And **by almost any measure**, Chinese real estate is **suspiciously expensive**. Consider **the median price** of homes in China’s largest cities **relative to** the median incomes in those cities — a classic measure of **housing valuation** (and one that **was blinking bright red** in the U.S. before the housing bubble burst)  
 其他一些中国开发商可能也遇到了麻烦。而且无论以什么标准衡量，中国的房地产都贵得令人怀疑。考虑一下中国大城市的房价中位数相对于这些城市的收入中位数的比值——这是衡量房价价值的一个经典指标(在房地产泡沫破裂之前，这个指标在美国一直闪烁着鲜红色)
 
 China’s real-estate is a bubble of **epic proportions**, one that by various metrics easily **overshadows** the pre-global financial crisis **run-up** in U.S. property values (which burst with such **disastrous consequences**) or **the unsustainable booms** in European countries such as Ireland and Spain. It **stands comparison with** the Japanese real estate bubble of the 1980s, which helped send the country into at least one “**lost decade**” when it finally burst in the early 1990s.
-中国的房地产是一个史诗级的泡沫，以各种指标衡量，它轻而易举地盖过了全球 金融危机前美国房地产价格的飙升(其泡沫破裂带来了灾难性的后果)，或者盖过了爱尔兰和?班牙等欧洲国家不可持续的繁荣。它可以同上世纪80年代的日本房地产泡沫相提并论，后者在90年代初最终破灭时令该国进入了至少一个“失去的十年”。
+>proportion[prəˈpɔrʃ(ə)n] 大小；比例；调和; 分配；使相称  
+>run-up 前期；准备阶段；助跑  
+>overshadow 使显得逊色；使黯然失色；使扫兴；使蒙上阴影; 遮蔽  
+>unsustainable 不能持续的；无法维持的
+
+中国的房地产是一个史诗级的泡沫，以各种指标衡量，它轻而易举地盖过了全球 金融危机前美国房地产价格的飙升(其泡沫破裂带来了灾难性的后果)，或者盖过了爱尔兰和西班牙等欧洲国家不可持续的繁荣。它可以同上世纪80年代的日本房地产泡沫相提并论，后者在90年代初最终破灭时令该国进入了至少一个“失去的十年”。
 
 For thousands of years, Chinese emperors tried to **achieve immortality** by **swallowing all kinds of stuff**. None worked.
-几千年来，中国的皇帝为了?生不老吃下了各种东?。但都没有成功。
+>immortality[ˌɪmɔrˈtæləti] 不朽；永生；不灭; 永恒
 
-**Given all of this**, China can **partly grow into** its housing bubble. Many families’ incomes are **rising rapidly enough**, for instance, that they are able to **meet mortgage payments** that **initially may have looked ambitious**.
+几千年来，中国的皇帝为了长生不老吃下了各种东西。但都没有成功。
+
+**Given all of this**, China can **partly grow into** its housing bubble. Many families’ incomes are **rising rapidly enough**, for instance, that they are able to **meet mortgage payments** that **initially may have looked ambitious**.  
+>given all of this 综上所述
+
 综上所述，中国可能在一定程度上发展到适应房地产泡沫的程度。例如，许多家庭的收入增?很快，他们能够支付当初看起来数字很大的抵押贷款。
 
-China’s government also has large **cash reserves** and has **been willing to do whatever is necessary to** avoid an economic crisis. Over the past several years, the government has taken steps to **cool the market**, like restricting sales and home loans **in some situations**. Those moves have **slowed down price increases** in recent years. **The longevity of the boom** suggests that the market is more complex than its **depictions** as a bubble suggest
+China’s government also has large **cash reserves** and has **been willing to do whatever is necessary to** avoid an economic crisis. Over the past several years, the government has taken steps to **cool the market**, like restricting sales and home loans **in some situations**. Those moves have **slowed down price increases** in recent years. **The longevity of the boom** suggests that the market is more complex than its **depictions** as a bubble suggest  
 中国政府也拥有大量现金储备，并愿意采取一切必要措施避免经济危机。在过去几年里，政府已经采取措施给市场降温，比如在某些情况下限制销售和住房贷款。这些举措减缓了近年来的价格上涨。繁荣的持久性表明，比起将它描述为泡沫，这个市场要复杂得多。
 
 He agreed that China’s economy **suffered from imbalances**, including too much construction. Still, he added, “I think we have plenty of time, plenty of tools and **plenty of instruments to make a soft landing** and **a smooth transformation**.”
+>instrument[ˈɪnstrəmənt] 仪器；仪表；工具；器械; 乐器；手段
+
 他同意中国经济存在不平衡，包括过多的建设。不过，他还说，“我认为我们有充足的时间、充足的工具和充足的手段来实现软着陆和平稳转型。”
 
-**Based on standard economic measures**, China still has **not done nearly enough to fix its imbalances** — and it’s usually a mistake to **bet against** the normal rules of economics. But China’s **unmatched size** and **long record of growth** offer reasons at least to **wonder whether** this bubble really is different.
-根据规范的经济衡量标准，中国在解决失衡问题上做得还远远不够——而在通常情况下，与正常的经济规则对赌是错误的。但中国无与伦比的规模和?期增?记录至少让人有理由怀疑，这次泡沫是否真的有所不同。
+**Based on standard economic measures**, China still has **not done nearly enough to fix its imbalances** — and it’s usually a mistake to **bet against** the normal rules of economics. But China’s **unmatched size** and **long record of growth** offer reasons at least to **wonder whether** this bubble really is different.  
+根据规范的经济衡量标准，中国在解决失衡问题上做得还远远不够——而在通常情况下，与正常的经济规则对赌是错误的。但中国无与伦比的规模和长期增长记录至少让人有理由怀疑，这次泡沫是否真的有所不同。
 
 Almost two years since the novel coronavirus began to **circulate through the human population**, what lessons have we learned? And what do those lessons **portend for future crises?** The most obvious is the hardest to **digest**: The world’s **decision makers** have given us **a staggering demonstration** of their **collective inability to grasp** what it would actually **mean to govern the deeply globalized and interconnected world** they have created. 
+>circulate 循环；传播；流传  
+>portend[pɔrˈtend] 预示; 预兆  
+>staggering 令人难以相信的; 惊人的；令人吃惊的  
+>grasp[ɡræsp] 理解；领会；抓紧；明白; 控制
+
 新型冠状病毒在人群中传播已有近两年时间，我们从中得到了什么教训?这些教训又预示了怎样的未来危机? 最明显的也是最难接受的:全世界的决策者们向我们展示了令人震惊的集体无能。他们无法理解，在他们所创造的这个高度全球化的互联世界中，治理到底意味着什么。
 
 There is only **one limited realm** in which something like **a concerted response** has been managed: money and finance. But governments’ and central banks’ success in holding the world’s financial system together **is contributing in the long run to inequality and social polarization**. If 2020 was **a trial run**, we should be worried.
-只有一个领域拿出了算得上是协调一致的应对办法:货币和金融。但从?远来看，政府和央行对世界金融体系的成功维系，将会助?不平等和社会两极分化。如果2020年是一 次预演，我们理应感到担忧。
+>concerted 商定的；协调的；共同筹划的  
+>trial[ˈtraɪəl] run 初步试验; 试车；试运行
+
+只有一个领域拿出了算得上是协调一致的应对办法:货币和金融。但从长远来看，政府和央行对世界金融体系的成功维系，将会助长不平等和社会两极分化。如果2020年是一次预演，我们理应感到担忧。
 
 As **instruments of coordination and cooperation**, global institutions like the United Nations, the International Monetary Fund and the World Health Organization had **proved fragile and toothless long before the pandemic**. The explanation for this failure **used to be geopolitical antagonism**: **Power blocs** couldn’t come together when they had competing priorities and agendas. It was **thus tempting to imagine** that some common threat — perhaps **an alien invasion** — might **make a reality of** the United Nations.
+>antagonism[ænˈtæɡəˌnɪzəm] 敌对；对立情绪；敌意；对抗情绪
+
 作为协调与合作的载体，联合国、国际货币基金组织和世界卫生组织等全球机构早在疫情暴发前就已被证明是脆弱且无力的。以往对这种失败的解释是地缘政治对立:当优先事项和议程相互冲突时，大国集团就不能团结一致。因此，人们很容易设想某种共同的威胁——或许是一次外星人入侵——可能会使联合国成为真正的现实。
 
 **And yet** faced with this **common threat**, cooperation failed. **Rather than a concerted shutdown** of global aviation, frontiers were closed **on the fly**; supplies of **personal protective equipment were grabbed** at airports; **haphazard travel bans** continue to this day.
+>haphazard[hæpˈhæzərd] 偶然性；任意性; 随意的；随便的；随意地；无计划地；杂乱无章地
+
 然而，面对这一共同威胁，合作失败了。各国没能协同一致关停全球航空业，而是匆匆忙忙封锁边境;个人防护装备物资在机场被抢走;盲目的旅行禁令一直持续到今日。
 
 It was **a horrible irony** that Donald Trump, the first American president to **repudiate** this, was in the White House when a truly global crisis hit. That encouraged talk of Covid as the first “post-American” crisis. But America will have to **diminish a lot more before we can count it out**. What 2020 showed, in fact, was that America’s **dysfunctions** are the world’s problem.
+>irony[ˈaɪrəni] 反语；反话  
+>repudiate[rɪˈpjudiˌeɪt] 拒绝；不接受；回绝  
+>count out 点数；算出
+
 特别讽刺的一点在于，当真正的全球危机来袭，第一位否认这一点的美国总统特朗普正在主政白宫。这促使人们将新冠疫情称为第一场“后美国时代”的危机。但要真正给美国判负出局，它还得经历更多衰败。事实上，2020年表明，美国机能失调是世界的问题。
 
 The development of Covid vaccines was **a collective triumph** of researchers, governments and businesses around the world. Mr. Trump’s **Operation Warp Speed** was the most successful of all. **Scandalously**, the United States under Mr. Trump did not even join the United Nations’ Covax initiative. Even after vaccine **rollout** began in earnest in 2021, the United States continued to **hoard doses**.
+>scandalously 令人愕然地；过分地  
+>hoard[hɔrd] 囤积；贮藏
+
 新冠疫苗的开发是世界各地研究人员、政府和企业的集体胜利。特朗普的“曲速行动”是其中最成功的。令人愤慨的是，在特朗普的领导下，美国甚至没有加入联合国的“2019冠状病毒病疫苗实施计划”。即便在2021年疫苗开始正式推广后，美国仍在囤积。
 
 The failure to develop a global vaccination program is not just **dismaying**. It **ought also to be profoundly puzzling**: It **defies the self- interests** of the richest countries in the world. **Booster shots aside**, the greater the volume of infection, **the greater the risk of variants** even more dangerous than Delta. And the greater the economic damage, too. 
-未能实现一个全球疫苗接种计划不仅是令人沮丧的，也应该让人深感困惑:这违背了全世界那些最富有国家的自身利益。抛开加强针不算，感染人数越多，出现比德尔塔还危险的变种毒株的?险也越高。经济损失也会更加严重。
+>dismay 惊愕；诧异；灰心；丧气; 使诧异；使惊愕；使失望
+
+未能实现一个全球疫苗接种计划不仅是令人沮丧的，也应该让人深感困惑:这违背了全世界那些最富有国家的自身利益。抛开加强针不算，感染人数越多，出现比德尔塔还危险的变种毒株的风险也越高。经济损失也会更加严重。
 
 This failure is **all the more glaring for** another lesson that the pandemic **revealed**: Budget constraints don’t seem to exist; money is **a mere technicality**. The hard limits of financial sustainability, policed, we used to think, by **ferocious bond markets**, were **blurred** by the 2008 financial crisis. In 2020, they were **erased**.
+>ferocious [fəˈroʊʃəs] 凶猛的；强烈的；严重的
+
 这样的失败更凸显了疫情揭示的另一个教训:预算似乎是不存在约束的;金钱不过是个技术问题。2008年的金融危机模糊了金融可持续性的硬性限制，我们过去一直以为这种可持续性由激荡的债券市场控制。而在2020年，这些限制都被抹去了。
 
 Governments around the world **issued debt as not seen** since World War II, and yet **interest rates plunged**. As the private sector shut down, the public sector expanded. As government **deficits grew**, the **monetary system responded elastically**. Government spending **made up for the loss** of private incomes and spending.
-世界各国政府发行了人们自“二战”以来都未?过的大量债券，利率却大幅下跌。随着私营部?的关闭，公共部?实现了扩张。随着政府赤字的增加，货币体系反应剧烈。政府支出弥补了个人收入和消费的减少。
+>make up for 偿还；赔偿; 弥补
 
-This balancing of public and private spending works best if all countries are doing it **simultaneously**. This was one area where there was **an alignment of** national policies. 
+世界各国政府发行了人们自“二战”以来都未见过的大量债券，利率却大幅下跌。随着私营部门的关闭，公共部门实现了扩张。随着政府赤字的增加，货币体系反应剧烈。政府支出弥补了个人收入和消费的减少。
+
+This balancing of public and private spending works best if all countries are doing it **simultaneously**. This was one area where there was **an alignment of** national policies.   
 这种平衡公共和私人支出的做法，在各国统一行动时效果最佳。这也是国家政策唯一存在共进退的领域。
 
 But **when it came to it**, Mr. Trump’s **instincts all pushed in the right direction**, at least on economic policy. If ever there was a president who **took naturally to** the idea of “**fiat money**,” it was Donald Trump. **So long as** his name was on the checks, **more was better**.
+>when it comes to 一谈到；当提到  
+>fiat[ˈfiˌɑt] 命令; 认可；以命令宣布; 菲亚特  
+>fiat money 法定货币
+
 但事情到了那一步的时候，特朗普的直觉都是朝着正确方向推进的，至少在经济政策上是这样。如果说有哪位总统很自然地接受了“法定货币”的概念，那就是特朗普。只要支票上有他的名字，就多多益善。
 
 Global finance is a world with **a clear hierarchy**, with **the Fed** at the top, followed by the European Central Bank, the People’s Bank of China, the Bank of Japan and the Bank of England. But it is also **a close-knit community** with a shared **mental map**. Central bankers **trade in electronic money** that can be created **at the tap of a keyboard**. Creating it does not “cost” anything and does not require approval from **elected legislatures**. After 2008, tools like **quantitative easing** — the large-scale purchase of assets — **were well oiled**.
-全球金融是一个等级分明的世界，美联储高高在上，其次是欧洲中央银行、中国人?银行、日本银行和英格兰银行。但它也是一个紧密联系的社区，拥有一个共同的思维地图。中央银行家交易的电子货币只需敲击键盘即可产生。创建它不“花费”任何东?，也不需要获得?选立法机构的批准。2008年之后，像量化宽松(大规模购买资产)这样的工具已经驾轻就熟。
+>close-knit 紧密结合在一起的；志同道合的；意气相投的; 组织严密的  
+>quantitative[ˈkwɑntəˌteɪtɪv] 数量的；量化的；定量的  
+>well-oiled 运转顺畅的；一帆风顺的
+
+全球金融是一个等级分明的世界，美联储高高在上，其次是欧洲中央银行、中国人?银行、日本银行和英格兰银行。但它也是一个紧密联系的社区，拥有一个共同的思维地图。中央银行家交易的电子货币只需敲击键盘即可产生。创建它不“花费”任何东西，也不需要获得民选立法机构的批准。2008年之后，像量化宽松(大规模购买资产)这样的工具已经驾轻就熟。
 
 The world discovered that John Maynard Keynes was right when he declared during World War II that “**anything we can actually do, we can afford**.” The **sheer scale** of the action was **intoxicating**. Among **the left wing** of the Democratic Party, it generated excitement: If money was a mere technicality, **what else** could be done? Action on **social justice**, climate change, the Green New Deal, **all seemed within reach**.
-世界发现，当凯恩斯在“二战”期间宣称“凡是我们实际上能做到的事情，我们都能负担得起”时，他是对的。这一行动的规模之大令人陶醉。?主党左翼对此感到兴奋:如果金钱只是一个技术问题，我们还能做什么?社会公正、气候变化、绿色新政等方面的行动似乎都触手可及。
+>sheer[ʃɪr] 纯粹的；十足的；全然的; 十足地；全然地；绝对地；垂直地  
+>intoxicating[ɪnˈtɑksɪˌkeɪtɪŋ] 含酒精的；醉人的；令人陶醉的；令人头脑迷糊的; 使人兴奋的
 
-But there were three **interrelated problems**. First, **the sense** that government action had **been liberated from the tyranny** of finance was **illusory**. That meant, second, that the interventions were **double-edged**. Finally, the digital money creation was the **easy bit**. 
+世界发现，当凯恩斯在“二战”期间宣称“凡是我们实际上能做到的事情，我们都能负担得起”时，他是对的。这一行动的规模之大令人陶醉。民主党左翼对此感到兴奋:如果金钱只是一个技术问题，我们还能做什么?社会公正、气候变化、绿色新政等方面的行动似乎都触手可及。
+
+But there were three **interrelated problems**. First, **the sense** that government action had **been liberated from the tyranny** of finance was **illusory**. That meant, second, that the interventions were **double-edged**. Finally, the digital money creation was **the easy bit**. 
+>illusory[ɪˈlus(ə)ri] 虚假的；幻觉的；迷惑人的; 虚幻的；错觉的  
+>the easy bit 容易的事
+
 但有三个相互关联的问题。首先，认为政府行动已从金融暴政中解放出来的感觉是虚幻的。其次，这意味着这些干预措施是一把双刃剑。最后，创造数字货币是件容易的事。
 
 **Propping up** the Treasury market enabled government **spending on furlough schemes** and paycheck protection plans to be funded in the normal way, by borrowing. But government IOUs **are fuel for private speculation**. When **liquidity is flushed indiscriminately into** the financial system, it **inflates bubbles**, generating new risks and **outsize gains** for those with **substantial portfolios. Nowhere** was this **polarizing effect more pronounced** than in the United States. While tens of millions **struggled through** the crisis, trillions of dollars **piled up in the balance sheets** of the wealthy.
-对国债市场的支撑使政府在强制无薪休假和工资保护计划上的支出能够以正常的方式(通过借贷)获得资金。但政府的欠条助?了私人投机问题。当流动性不分?红皂白地涌入金融体系时，它就会催生泡沫，给那些拥有大量投资组合的人带来新的?险和超额收益。这种两极分化效应在美国最为明显。在数千万人挣扎着度过危机的同时，富人们的资产负债表上积累了数万亿美元。
+>prop up 支撑；支持；给……撑腰  
+>furlough[ˈfɜrloʊ] 休假；准假; 给予休假；强迫…休假  
+>indiscriminately[ˌɪndɪ'skrɪmɪnətlɪ] 不加选择地；不加区分地  
+>outsize 较大的；超过一般型号的；特大的；过大的  
+>substantial[səbˈstænʃ(ə)l] 大量的；价值巨大的；重大的  
+>pile up 累积；堆起来；积累
+
+对国债市场的支撑使政府在强制无薪休假和工资保护计划上的支出能够以正常的方式(通过借贷)获得资金。但政府的欠条助长了私人投机问题。当流动性不分青红皂白地涌入金融体系时，它就会催生泡沫，给那些拥有大量投资组合的人带来新的风险和超额收益。这种两极分化效应在美国最为明显。在数千万人挣扎着度过危机的同时，富人们的资产负债表上积累了数万亿美元。
 
 Keynes’s **bon mot has a sting in its tail**: We can afford anything we can actually do. The problem is agreeing on what to do and how to do it. **In giving us a glimpse of** financial freedom, 2020 also **robbed us of pretenses** and excuses. 
-凯恩斯的妙语背后是一个煞?景的结局:我们能负担得起我们“实际上”能做的任何事情。问题在于就做什么和如何做达成一致。在让我们瞥?财务自由的同时，2020年也剥夺了我们的伪装和借口。
+>bon mot[bɔːŋˈmoʊ] 名言；珠玑妙语；警句  
+>sting[stɪŋ] 刺；蜇  
+>pretense[prɪˈtens] 借口；伪装；假装
+
+凯恩斯的妙语背后是一个煞风景的结局:我们能负担得起我们“实际上”能做的任何事情。问题在于就做什么和如何做达成一致。在让我们瞥见财务自由的同时，2020年也剥夺了我们的伪装和借口。
 
 It **turns out** that budget constraints, **in all their artificiality**, had **spared us from facing the all-too-limited willingness** and capacity for collective action. Either you are **invoking technological obstacles**, in which case we need **a suitably scaled**, Warp Speed-style program to **overcome them**, or it is **simply a matter of priorities**. There are other things you would rather do.
+>artificiality[ˌɑrtɪˌfɪʃɪ'ælətɪ] 矫揉造作的；人造物；不自然  
+>suitably[ˈsutəbli] 合适地；适宜地；适当地；相称地
+
 事实证明，尽管预算限制是人为的，但它使我们免于面对过于有限的集体行动意愿和能力。要么你是在援引技术障碍——在这种情况下，我们需要一个规模适当的、“曲速行动”式的项目来克服它们——要么这只是一个优先级问题，你更愿意去做其他事情。
 
 **Looking back before 2020**, it seemed that 2008 was the beginning of **a new era of successive and interconnected disruptions**, such as the global financial crisis, Mr. Trump’s election, and the trade and tech war with China. **It all had a familiar ring to it**. Great-power competition, **nationalism** and banking crises all **harked back to** the 19th and 20th centuries. Then came 2020. It has given us **a glimpse of something radically new**: the old tensions of politics, finance and **geopolitics intersecting with** a natural shock on **a global scale**.
-回顾2020年以前，似乎2008年是一个新时代的开始，颠覆连续到来，并且相互关联，如全球金融危机、特朗普的大选和与中国的贸易和技术战争。这一切都并不陌生。大国竞争、?族主义和银行业危机都可以追溯到19世纪和20世纪。然后2020年来了。它让我们瞥?了一些全新的东?:旧有的政治、金融和地缘政治的紧张局势与全球范围内的自然冲击相交在一起。
+>hark[hɑrk] 听着; 倾听；重提  
+>hark back (猎狗)循原路重找嗅迹；回到原处; 重提旧事；言归正传  
+>radically[ˈrædɪkli] 根本地；彻底地
+
+回顾2020年以前，似乎2008年是一个新时代的开始，颠覆连续到来，并且相互关联，如全球金融危机、特朗普的大选和与中国的贸易和技术战争。这一切都并不陌生。大国竞争、民族主义和银行业危机都可以追溯到19世纪和20世纪。然后2020年来了。它让我们瞥见了一些全新的东西:旧有的政治、金融和地缘政治的紧张局势与全球范围内的自然冲击相交在一起。
 
 As recent events in Afghanistan demonstrate, President Biden is determined to **clear the decks**, brutally if necessary. **As far as the Pentagon is concerned**, at the top of the agenda is great-power competition with China — a 19th century **writ large**.
-正如最近在阿富汗发生的事件所表明的那样，拜登总统决心扫清障碍，必要时可以毫不留情。对五?大楼而言，议程的首要任务是与中国的大国竞争——这是19世纪的一件大事
+>clear the decks 准备行动；准备好开始干  
+>writ[rɪt] 书面命令; 文书；传票
+
+正如最近在阿富汗发生的事件所表明的那样，拜登总统决心扫清障碍，必要时可以毫不留情。对五角大楼而言，议程的首要任务是与中国的大国竞争——这是19世纪的一件大事
 
 But what of the interconnected global crises of the 21st century that cannot **be attributed to a national antagonist**? **For those**, the one model that we have is central bank financial market intervention — a form of crisis-fighting based on technical networks, **rooted in** existing hierarchies of power and backed by powerful self-interest. It is conservative, **ad hoc** and lacking in **explicit political legitimacy**. It **tends to reinforce** existing hierarchy and privilege.
+>antagonist[ænˈtæɡənɪst] 对手；对立者；对抗者；敌人  
+>root in 扎根于；来源于；起因于  
+>ad hoc 临时安排的；特别的；专门的
+
 但21世纪那些相互关联的、不能归咎于国家竞争的全球危机又如何呢?对于那些危机来说，我们拥有的一个模型是央行金融市场干预——一种基于技术网络的危机对抗形式，植根于现有的权力等级并以强大的自身利益为后盾。它是保守的、临时的，缺乏明确的政治合法性。它倾向于强化现有的等级制度和特权。
 
 The challenge for **a progressive globalism fit for** the next decades is both to **multiply those crisis-fighting networks — into** the fields of medical research and vaccine development, renewable energy and so on 
+>progressive[prəˈɡresɪv] 进步的；渐进的；开明的；稳步的  
+>multiply[ˈmʌltɪˌplaɪ] 繁殖；增多；增殖；(成倍)增加
+
 未来几十年更适用的是渐进式全球主义，它面临的挑战是将这些抗击危机的网络扩大到医学研究和疫苗开发、可再生能源等领域
