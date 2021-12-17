@@ -2797,71 +2797,129 @@ cat /proc/net/arp
 #### tcpdump
 + [Tcpdump Http Tutorial](https://danielmiessler.com/study/tcpdump/#examples)
 + [Tcpdump Http Examples](https://hackertarget.com/tcpdump-examples/)
-+ [tcpdump查看原始数据包](https://mp.weixin.qq.com/s/tzSiZ7u6k9SNVvC-epw92w)
 ```console
-# show all interfaces
-$ tcpdump -D  
+# 列出当前机器全部网络接口
+$ tcpdump -D 
+
 1.eth0 [Up, Running]
 2.any (Pseudo-device that captures on all interfaces) [Up, Running]
 3.lo [Up, Running, Loopback]
 4.nflog (Linux netfilter log (NFLOG) interface)
 5.nfqueue (Linux netfilter queue (NFQUEUE) interface)
 
-# capture packet from interface p1
-tcpdump -vvv -i p1
-    
-# 在hostname上，listen 所有 src&dest 为此机器的host packet 
-# -A (ascii)  
+# capture p1接口 packet
 # -vvv (the most detailed verbose output)
-tcpdump -A -vvv -n host hostname  
+$ tcpdump -vvv -i p1
+$ tcpdump -v -i eth0
+
+11:18:14.990672 IP (tos 0x0, ttl 64, id 26850, offset 0, flags [none], proto UDP (17), length 128)
+    192.168.0.106.62327 > 114.255.243.111.4501: [udp sum ok] UDP, length 100
+
+# listen all interfaces
+$ tcpdump -i any  
+# 按dest/src地址捕获报文
+# -n 不将 addresses(i.e., host addresses, port numbers, etc.) 转成机器名
+$ tcpdump -n dst net 192.168.1.0/24  
+$ tcpdump -n src net 192.168.1.0/24  
+# 按地址捕获全部进出报文
+$ tcpdump -n net 192.168.1.0/24 
+    
+# listen 所有进出当前机器的packet 
+# -A Print packets in ASCII
+# -vvv (the most detailed verbose output)
+# -n 不将 addresses(i.e., host addresses, port numbers, etc.) 转成 names.
+$ tcpdump -A -vvv -n 
+
+11:52:50.202935 IP (tos 0x0, ttl 4, id 41462, offset 0, flags [none], proto UDP (17), length 319)
+    192.168.0.1.1900 > 239.255.255.250.1900: [udp sum ok] UDP, length 291
+..^......D+...E..?......c..........l.l.+..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=60
+LOCATION: http://192.168.0.1:1900/igd.xml
+NT: uuid:8c15e41f-3d83-41c1-b35d-2926B4ED823E
+NTS: ssdp:alive
+SERVER: vxWorks/5.5 UPnP/1.0 TL-WDR7650.............../1.0
+USN: uuid:8c15e41f-3d83-41c1-b35d-2926B4ED823E
+
+# listen 所有进出当前机器的packet, 过滤其中符合机器名或ip地址  
+# tcpdump -A -vvv host <hostname/ipaddress> 
+$ tcpdump -A -vvv -n host 192.168.0.1 
+
+tcpdump: data link type PKTAP
+tcpdump: listening on pktap, link-type PKTAP (Apple DLT_PKTAP), capture size 262144 bytes
+12:59:02.872684 IP (tos 0x4, ttl 49, id 48972, offset 0, flags [none], proto UDP (17), length 144)
+    114.255.243.111.4501 > 192.168.0.106.64697: [no cksum] UDP, length 116
+.^`.R....D+...E....L..1...r..o...j.....|.........H..D.s.<..~.E...f...R\.DS.e...|.	......J.GG74b..]&.,.&...	)z.\.UM...R.J.*Q..FV..P^.u. ..v...H.%s.......gL|...
+12:59:02.872934 IP (tos 0x0, ttl 64, id 52832, offset 0, flags [none], proto UDP (17), length 1472)
+    192.168.0.106.64697 > 114.255.243.111.4501: [udp sum ok] UDP, length 1444
+...D+..^`.R...E....`..@..K...jr..o......g.q..9..<.<..;l.1u.ihgR`.w.t[......b ...A..eu.....$.p....{..f&..9.._..C.=H.7Z.@..G..I:..Zs......~|....D.Gj....m.....
   
 # dump record into capture.cap file, 可以通过wireshark portable版本来查看
-tcpdump -v -w capture.cap   
+$ tcpdump -v -w capture.cap   
 
-# listen eth0
-tcpdump -i eth0
-# listen all interfaces
-tcpdump -i any  
-# listen dest/src/all ipaddress
-tcpdump -n dst net 192.168.1.0/24  
-tcpdump -n src net 192.168.1.0/24  
-tcpdump -n net 192.168.1.0/24 
+# 捕获与10.117.4.117往来udp报文
+$ tcpdump -i eth0 host 10.117.4.117 and udp -w capture.cap
 
 # -c 20: Exit after capturing 20 packets.
 # -s 0: Don't limit the amount of payload data that is printed out. Print it all.
 # -i eth1: Capture packets on interface eth1
 # -A: Print packets in ASCII.
-# host 192.168.1.1: Only capture packets coming to or from 192.168.1.1.
-# and tcp port http: Only capture HTTP packets.
-tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
+# 'host 192.168.1.1': Only capture packets coming to or from 192.168.1.1.
+# 'and tcp port http': 等同于 'and tcp port http 80' Only capture HTTP 80端口的 packets.
+$ tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
 
-# 捕获与10.117.4.117往来udp报文
-tcpdump -i eth0 host 10.117.4.117 and udp -w capture.cap
+# 捕获目的地址和tcp端口号满足条件报文
+$ tcpdump -vvAlns0 dst 10.117.5.87 and tcp port 14268
+
+14:06:06.379800 IP (tos 0x2,ECT(0), ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 817)
+    10.117.181.200.54786 > 10.117.5.87.14268: Flags [P.], cksum 0xeb8f (correct), seq 0:765, ack 1, win 2064, options [nop,nop,TS val 773753154 ecr 2383903208], length 765
+....E..1..@.@.g.
+u..
+u.W..7....._.M............
+...B..y.POST /api/traces?format=jaeger.thrift HTTP/1.1
+Content-Type: application/x-thrift
+Content-Length: 560
+Host: 10.117.5.87:14268
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/4.2.2
 
 # 捕获当前host上loopback接口相关所有http Post报文
+# -l buffer stdout line.  适用于需要保存捕获报文数据的场景 E.g., tcpdump -l | tee dat
 $ tcpdump -vvAls0 -i lo | grep 'POST'
+
 POST /cm-inventory/api/v1/cm-plugin-container/cm-plugins/d5be1b62-3f5f-44fb-8f30-20729bbeb41b?action=execute_request HTTP/1.1
+
 # 捕获当前host上loopback接口相关所有http Post并且header为spanId/traceId报文
 $ tcpdump -vvAls0 -i lo | grep -E "(POST /cm-inventory|spanId:|traceId:)"
+
 POST /cm-inventory/api/v1/cm-plugin-container/cm-plugins/d5be1b62-3f5f-44fb-8f30-20729bbeb41b?action=execute_request HTTP/1.1
 traceId: -1514301144170483167
 spanId: -1514301144170483167
 
 # read pcap file
 # 按主机+端口->主机+端口 查阅pcap文件记录的报文信息
-tcpdump -tttt -r capture.cap
+# -tttt : Give maximally human-readable timestamp output.
+$ tcpdump -tttt -r capture.cap
+
 2019-07-11 06:43:54.086105 IP vm11-dhcp.56980 > 04-dhcp117.6831: UDP, length 3
+
 # 按IP+端口->IP+端口模式 查阅pcap文件记录的报文信息
-tcpdump -tttt -nnr capture.cap 
+$ tcpdump -tttt -nnr capture.cap 
+
 2019-07-11 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
+
 # 按IP+端口->IP+端口模式 查阅pcap文件记录的ascii报文内容
-tcpdump -qns 0 -A -r capture.cap
+$ tcpdump -qns 0 -A -r capture.cap
+
 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
 E...VV@.@..t
 .Hy
 u.u......b....
+
 # 按IP+端口->IP+端口模式 查阅pcap文件记录的 binary+ascii 报文内容
-tcpdump -qns 0 -X -r capture.cap
+$ tcpdump -qns 0 -X -r capture.cap
+
 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
         0x0000:  4500 001f 5656 4000 4011 8274 0aa1 4879  E...VV@.@..t..Hy
         0x0010:  0a75 0475 de94 1aaf 000b 6220 0a17 0c    .u.u......b....
