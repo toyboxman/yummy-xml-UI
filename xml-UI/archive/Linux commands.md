@@ -2450,9 +2450,15 @@ cocre.xml:13:23: mismatched tag
 ```
 
 #### pandoc
++[pandoc支持的格式](https://hackage.haskell.org/package/pandoc)
+
 使用 Pandoc 将 Markdown 格式的文件转换为 HTML
 ```console
+# 将产生的的HTML源码输出到stdout
 pandoc -t html file.md
+
+# 将md文件转换成x.html文件
+pandoc -t html5 samples_21_9.md -o x.html
 ```
 
 #### script
