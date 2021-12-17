@@ -2875,6 +2875,11 @@ $ tcpdump -i eth0 host 10.117.4.117 and udp -w capture.cap
 $ tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
 
 # 捕获目的地址和tcp端口号满足条件报文
+$ tcpdump -vvAlns0 port 443
+$ tcpdump -vvAlns0 tcp port 14268
+$ tcpdump -vvAlns0 -i any tcp port 14268
+$ tcpdump -vvAlns0 src 10.117.181.200 and tcp port 14268 or udp port 6831
+$ tcpdump -vvAlns0 src 10.117.181.200 and tcp port 14268 not udp port 6831
 $ tcpdump -vvAlns0 dst 10.117.5.87 and tcp port 14268
 
 14:06:06.379800 IP (tos 0x2,ECT(0), ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 817)
