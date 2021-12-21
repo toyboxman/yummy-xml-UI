@@ -400,3 +400,230 @@ When the fertilizer **squeeze** hit this fall, Danpal Yadav, 44, a **rice grower
 
 今秋化肥短缺的时候，印度中部中央邦44岁的稻农丹帕尔·亚达夫已经因为上一季的低收成而负债累累。他的家人说，他去了政府的化肥分配中心却空手而归，他愈发痛苦，还有了自杀的念头。
 
+The text of the trade deal **calls for further consultations** if an “**unforeseeable** event outside the control of the parties delays a party from **timely complying with** its obligations.” It also allows the United States to take “**remedial measures**,” like **imposing tariffs**, if China **violates the agreement** and the governments cannot **reach a consensus** on how to move forward. That’s the **million dollar question**. 
+>million dollar question 很难回答的问题；疑问  
+>unforeseeable[ˌʌnfɔrˈsiəb(ə)l] 无法预见的；难以预测的  
+>timely 及时的；适时的  
+>remedial[rɪˈmidiəl] 旨在解决问题的；补救的；纠正的
+
+该协定的文本写明，如果“发生双方都不可控的未知情况，导致一方无法及时履行其义务”，则需要进行进一步的磋商。该协定还允许美国在中国违反协议，以及两国政府无法就如何推进协定达成共识的情况下采取“补救措施”，如加征关税。这就是最重要的问题
+
+The decision **illustrates the perils** for Mr. Biden of **succeeding** a president with a **penchant for one-upmanship** and **a love of big round numbers**.
+>penchant[ˈpenʃənt] 爱好；倾向；嗜好  
+>upmanship['ʌpmənˌʃɪp] (one-upmanship的缩略词) 胜人一筹的本事; 高人一等的作风  
+>a love of big round numbers 好大喜功
+
+这样的决策表明，拜登在接替一位享受占上风、喜爱大整数的总统时需要面对的风险。
+
+Issues in **bilateral** economic and trade relations should be **properly dealt with** in the spirit of **mutual respect and equal-footed consultation**
+>equal-footed 平等的  
+>consultation[ˌkɑns(ə)lˈteɪʃ(ə)n] 咨询；磋商；商讨; 会诊
+
+双方应本着相互尊重、平等协商的精神妥善处理双边经贸关系中出现的问题
+
+Mr. Hu has **courted criticism** from those who see his **strident language as unproductive**. 
+>court 法院；宫廷；院子；追求；求婚；寻求；吸引  
+>strident[ˈstraɪd(ə)nt] 刺耳的；强硬的；咄咄逼人的  
+>unproductive 产量少的；效果不佳的；无益的; 徒然的
+
+胡招致了一些人的批评，他们认为其咄咄逼人的语言没有好处。
+
+China and Japan spent centuries **jostling for control of the archipelago**, once an independent kingdom. During World War II, the islands endured some of the Pacific theater’s **bloodiest infantry battles**. Once U.S. forces arrived, they never left: The main island, Okinawa, continues to host a large American **military installation**.
+>jostle[ˈdʒɑs(ə)l] (在人群中)挤; 推挤；竞争；争夺  
+>archipelago[ˌɑrkɪˈpeləɡoʊ] 群岛；列岛
+
+中国和日本花了几个世纪争夺这个群岛的控制权，它曾经是一个独立的王国。第二次世界大战期间，这些岛屿经历了太平洋战场上最血腥的步兵战斗。美军到达后就再也没有撤军，其主岛冲绳至今仍有一座大型美国军事设施
+
+But like most Japanese, people on Ishigaki **long saw China more as a source of commerce than of danger**. Its white sand beaches and **rainbow-hued coral reefs** drew cruise ships full of Chinese shoppers.The island has **long been split over** the missile deployment, but the growing **plausibility** of a Taiwan conflict has **stoked existential fears**. Japan is likely to **get sucked into** a conflict over Taiwan
+>hued[hjuːd] 有某种色调的；有某些种色彩的  
+>coral reef 珊瑚礁  
+>plausibility 合理性；可能性；可信性  
+>stoke[stoʊk] 给…添加(燃料)；煽动；激起；促使…的增加; 司炉
+
+但像大多数日本人一样，石垣岛上的人们长期以来更多地将中国视为商业资源，而不是危险之源。白色的沙滩和五彩缤纷的珊瑚礁吸引了满载中国购物者的游船。该岛在对待导弹部署问题上长期存在分歧，但台湾发生冲突的可能性越来越大，引发了人们对生存问题的担忧. 日本很可能卷入一场围绕台湾的冲突
+
+Many went to Ishigaki, where the Japanese authorities promised a **fertile** “land of opportunity.” Instead, they found a **malarial jungle with rocky, volcanic soil** that **barely yielded to the plow**. Mr. Kiyuna **tried his hand at** a variety of **crops, planting sugar cane** and vegetables before **settling on mangoes**.
+>fertile[ˈfɜrt(ə)l] 肥沃的；富饶的；能生育的；可繁殖的; 多产的；能繁殖的；丰富的  
+>malarial[mə'lɛərɪrl] 患疟疾的  
+>plow[plaʊ] 犁地；耕作；耕犁  
+>try one's hand 品尝味道；尝试写；亲自动手; 试身手
+
+许多人前往石垣，日本当局承诺那里是一块肥沃的“机会之地”。结果，他们发现那里是一篇疟疾肆虐的丛林，地面都是岩石和火山灰，几乎没法耕种. 喜友长诸尝试了各种农作物，种植甘蔗和蔬菜，最后选择了芒果。
+
+Biotechnology advances are considered **vital** for battling future pandemics and developing **cures or treatments** for **a variety of ailments**. But American officials have said the technology is **ripe** for abuse, misuse and unethical behavior.
+>ailment[ˈeɪlmənt] 小恙; 疾病；小病  
+>ripe[raɪp] 成熟的；口味浓郁的；醇美可口的；时机成熟的；准备好的
+
+生物技术的进步被认为在对抗未来的流行病，开发各种疾病的治疗方法方面至关重要。但美国官员表示，这项技术已经发展到了可以被滥用、误用和进行不道德行为的程度。
+
+There is an **entire shadow industry out there** that operates around the world, People focus on how they **exploit vulnerabilities**, but it’s the **deceptive** things they **do leading up to** that exploitation which we also have to expose.
+>deceptive[dɪˈseptɪv] 欺骗性的；误导的；骗人的; 靠不住的  
+>out there 在那里；在那儿  
+>lead up to 渐渐诱入；设法引出; 导致；引起；把…一直带领到
+
+有一个完整的影子产业在世界各地运作，人们关注的是他们如何利用漏洞，但他们在利用漏洞之前所做的欺骗也是我们必须揭露的。
+
+Still, the government is **sparing no effort to** show that the election is legitimate, and has **been determined not to see a repeat**.
+>spare no effort to 不遗余力做
+
+但政府仍在不遗余力地表明这场选举的合法性,决心不要重蹈覆辙。
+
+Some said they did not want to **lend legitimacy to** the process. Some backers on the ballot have **toed current line**. They all **observe red lines**.
+>toe[toʊ] 脚趾；(袜、鞋等的)足尖部；鞋头; 用脚趾踩    
+>observe 观察；遵守
+
+一些人表示，他们不想赋予这个过程合法性。一些支持者对当前的做法表示支持。他们都在红线内行事。
+
+When Russia **faced sanctions** following the **annexation** of the Ukrainian **peninsula** of Crimea in 2014, Mr. Putin turned to China to **soften the blow, stepping up trade** across the border from energy to **timber**.
+>annexation[ˌænek'seɪʃ(ə)n] 合并；附加；吞并物; 兼并  
+>peninsula[pəˈnɪnsələ] 半岛  
+>timber[ˈtɪmbər] 原木；森林
+
+2014年，俄罗斯吞并了乌克兰的克里米亚半岛后面临制裁，普京曾向中国求助，加强了两国从能源到木材的贸易，以此缓解打击。
+
+But the reality of American **engagement with** the world’s **third-most-populous** democracy has been more **tepid** than these **warm words imply, belying Indonesia’s position** as the leading Southeast Asian power
+>tepid[ˈtepɪd] 不冷不热的；不热情的; 温热的；微热的；不太热心的  
+>belie[bɪˈlaɪ] 使人误解；证明…是假的；与…相背[相反,相左]；辜负(希望等); 掩饰
+
+但与这些表面的客气话相比，美国与这个世界上人口第三大的民主国家交往的实际情况要冷淡得多，这与印尼作为东南亚主要大国的地位不符
+
+Relations with Washington have **seesawed over** the decades. The Indonesian government **soured on** Washington because it felt that President Bill Clinton had pressured Indonesia to accept a punishing I.M.F. **bailout** in 1998 and later **grant an independence referendum** to East Timor.
+>seesaw[ˈsiˌsɔ] 交替；涨落；动摇；(温度等)升降; 翘翘板；杠杆  
+>referendum[ˌrefəˈrendəm] 全民公决；全民投票
+
+几十年来，这个国家与华盛顿的关系始终摇摆不定。但印尼政府认为克林顿总统曾在1998年向其施压，要求该国接受国际货币基金组织的惩罚性救助，后来又同意东帝汶举行独立公投，因此对华盛顿感到不满。
+
+A planned visit to Jakarta this week by Secretary of State Antony Blinken is a **much-needed corrective to earlier oversights**. Much like Mr. Biden, Mr. Joko is **a doer, not a thinker**. 
+>oversight 疏忽；失察；忽略；负责; 监督；监管  
+>doer 实干家；行动者
+
+本周国务卿安东尼·布林肯计划访问雅加达，这是对早先疏忽的纠正，是十分有必要的。就像拜登一样，佐科是一个实干家，而不是一个思想家。
+
+If the Biden administration wants to **dispel China’s line** that Washington is an unreliable, declining power, then its proposed Indo-Pacific economic framework, due early next year, must **bring real heft**.
+>dispel[dɪˈspel] 消除(尤指感觉或信仰); 驱散；打消  
+>heft[heft] 重量; 举起；势力
+
+如果拜登政府想要消解中国的说法，即美国是一个不可靠的、衰落的大国，那么它在明年初将提出的印太经济框架必须带来实实在在的影响。
+
+In the end, however, the company **cited her original accusation as grounds for dismissal**, noting an article in the company’s **code of conduct**: “Publishing or **disseminating inappropriate remarks** to the outside world, or **deliberately fabricating or disseminating fictitious** facts, or disseminating unconfirmed information, causing bad influence.”
+>disseminate[dɪˈsemɪˌneɪt] 传播；散播；扩散；宣传  
+>fabricate[ˈfæbrɪˌkeɪt] 制造；编造；捏造；装配; 伪造；制作；建造  
+>fictitious[fɪkˈtɪʃəs] 虚构的；虚假的
+
+但最终，该公司以她原先的指控为由将其解雇，指出其违反了公司行为准则中的一项规定：“对外发表或传播不当言论，或故意捏造，散布虚构的事实，或传播未经证实的消息，造成恶劣影响。”
+
+Ms. Power said the United States would **undertake a suite of new measures** over the next year to help **set global norms** around technology.
+>undertake[ˌʌndərˈteɪk] 承担；从事；负责；承诺
+
+鲍尔说，美国将在明年采取一系列新措施，帮助制定围绕技术的全球规范。
+
+That **soft-power pitch** was delivered at Universitas Indonesia in Jakarta, the country’s capital, and continued with a series of agreements on **maritime cooperation** and education and Peace Corps exchanges. 
+>maritime[ˈmerəˌtaɪm] 海的；海事的；海运的；船舶的; 沿海的
+
+这一软实力的宣传活动是在雅加达的印度尼西亚大学进行的，双方还接着就海上合作、教育以及和平队交流等方面达成了一系列协议。
+
+We all **have a stake in** ensuring that the world’s most dynamic region is free from **coercion** and accessible to all
+>have a stake in 和…有关系; 与…利害攸关；与…有利害关系  
+>coercion[koʊˈɜrʃ(ə)n] 胁迫；强迫; 强制
+
+确保世界上最具活力的地区不受胁迫，并且对所有人开放，这与我们所有人都休戚相关
+
+But China, the regional **heavyweight, overshadows** U.S. trade in nearly country in the Indo-Pacific.
+>heavyweight[ˈheviˌweɪt] 重量级拳击手；特别重的人(或物)  
+>overshadow 使显得逊色；使黯然失色；使扫兴；使蒙上阴影
+
+但作为地区重量级国家，中国与印太地区几乎所有国家的贸易额都让美国黯然失色。
+
+**The Achilles’ heel of** U.S. policy remains economic engagement, with China far **outpacing** the U.S. in trade and infrastructure investment
+>Achilles’ heel[əˈkɪliz ˌhil] 阿基琉斯之踵；唯一致命的弱点；致命伤；致命要害  
+>outpace (在速度上)超过；比…快; 追过；赶超
+
+美国政策的致命弱点仍然是经济参与，中国在贸易和基础设施投资方面远远超过美国
+
+Mr. Blinken’s main message was that the United States **is a better bet** as a partner than China. Mr. Blinken’s visit to Indonesia, the largest country in the Association of Southeast Asian Nations, was viewed as **overdue**
+>better bet 更好[聪明]的选择  
+>overdue 未做的；过期的；早该发生的；早应完成的; 逾期
+
+布林肯的主要信息是，作为合作伙伴，美国比中国更值得选择。外界认为，布林肯早就应该访问印尼这个东盟最大国家
+
+His message **hits the bull's-eye on** what policymakers across ASEAN want, which is **concrete and practical solutions**, and less of the **soaring rhetoric** that has **dominated American official engagement** with Southeast Asia over the last two decades.
+>bull's-eye 靶心；(射击取得的)十环；牛眼  
+>rhetoric[ˈretərɪk] 修辞；花言巧语；华而不实的言语；修辞技巧
+
+他的讲话“击中了东盟各国决策者的要害，那就是具体和实际的解决方案，而不是过去20年里美国官员面对东南亚发出的各种高谈阔论”。
+
+For Swiss watchmakers **preoccupied with growth** — and let’s be honest, that is virtually all of them — China is the relationship they cannot live without.
+>preoccupy[priˈɑkjəˌpaɪ] 使日夜思考；使忧心忡忡; 使全神贯注；迷住；先占领
+
+坦白讲，对全力追求增长的瑞士制表商来说(说实话，几乎无一例外)，与中国的关系是它们赖以生存的基础。
+
+Many Swiss companies — **by virtue of** their distance from China, both **geographically and culturally** — simply cannot keep up with its rapidly changing consumer culture.
+>by virtue of 靠; 由于；凭借
+
+由于地理和文化上与中国的疏离，许多瑞士企业根本跟不上中国快速变换的消费文化。
+
+Almost no watchmaker can **afford to be lax** about its strategy in China. Over the summer, he **got a taste of the power** that celebrities **wield** in the Chinese market when the brand announced its newest ambassador, the actor and singer Xiao Zhan.
+>lax[læks] 不严格的；不严厉的；马虎的；松弛的  
+
+基本上，没有哪家制表商敢在中国战略上有所松懈。就拿真力时的首席执行官朱利安·托内尔举例。今年夏天，当该品牌宣布演员兼歌手肖战担任其最新代言人，托内尔感受到了名人效应在中国市场的力量。
+
+And despite the Chinese government’s recent **pledge to** more tightly regulate celebrities’ online information, as part of a wider campaign to **tame** what it calls “chaotic” fan culture, the prospects for luxury brands that rely on celebrity **endorsements** in China **remain promising**.
+>pledge[pledʒ] 保证；抵押；誓言  
+
+尽管近来中国政府承诺要对名人相关的互联网信息进行更严格的监管，作为对遏制所谓饭圈“乱象”的更广泛行动的一部分，但在中国依靠明星代言的奢侈品牌仍有很大的发展空间。
+
+A **lingering** question for watchmakers is how the Chinese government’s “zero Covid” policy will affect the supply chains that keep the industry **humming**, and to **what degree** future lockdowns would **threaten brick-and-mortar retail**.
+>lingering[ˈlɪŋɡərɪŋ] 拖延的；缠绵的；缓慢消失的；迟迟不去的  
+>hum[hʌm] 嗡嗡声；哼哼声；嘈杂声  
+>mortar[ˈmɔrtər] 砂浆；灰泥；迫击炮  
+>brick-and-mortar 实体的；砖墙加灰泥式的
+
+对于制表商来说，一个持续存在的问题是，中国政府的“清零”政策将如何影响维持该行业运转的供应链，以及未来的封锁将在多大程度上威胁实体零售业。
+
+**At some point**, consumers in China were looking for content that was more **genuine and relatable** than the **polished** content of brands, Red is built to **empower word of mouth**. And as a result, it evolved both as a place to discover new trends and brands, but also to **seek reassurance**
+>relatable 关联性；体贴的；有关联  
+>empower[emˈpaʊr] 授权；给(某人)…的权力；赋权；准许  
+>word of mouth 口头表达；口碑；口耳相传
+
+中国的消费者一度在寻找比经品牌润色的故事更真实、更能产生共鸣的内容，小红书旨在增强口碑。因此，它不仅演化为发现新趋势和品牌的地方，也成了消除疑虑的地方。
+
+The **overflow** of luxury e-commerce on Tmall, WeChat, the **livestreaming of runway shows** — luxury is everywhere, It’s **not exclusive anymore**, it’s **something for everyone**. 
+>overflow 溢出；漫出  
+>runway show 时装发布  
+
+奢侈品电商在天猫、微信、时装秀直播中泛滥——奢侈品无处不在，它不再具专属性，每个人都可以拥有。
+
+Think about how people **experience brands** now, They have all the information available on hand and can make a decision **on the spot**.
+>on the spot 在现场；当场；立刻
+
+想想人们现在是怎么体验品牌，他们随时拥有所有的信息，可以当场做出决定。
+
+Ms. Wang noted that, even as traditional luxury brands continue to **fret about** what selling online says about them, failing to **adapt to** digital opportunities, such as livestreaming, is a **surefire way** to lose touch with the market in China.
+>fret[fret] about 为……烦恼；对…烦躁不安；担忧  
+>surefire 可靠的
+
+王女士指出，尽管传统奢侈品牌仍然担心网上销售对它们的影响，但如果不能适应直播等数字机会，它们必定会与中国市场失之交臂。
+
+Of course, **the wisdom** of buying all those luxury goods is also being **called into question**, as the government **strives to mitigate income inequality** by discouraging people from **accumulating, and flaunting**, their wealth.
+>wisdom[ˈwɪzdəm] 智慧；名言；才智；学问  
+>call into question 质疑；使……受到质疑；怀疑  
+>mitigate[ˈmitiˌɡeɪt] 减轻；缓解；缓和；平息  
+>flaunt[flɔnt] 炫耀；夸耀；卖弄
+
+当然，购买这些奢侈品是否明智也受到质疑，因为政府试图阻止人们积累和炫耀财富，从而缓解收入不平等。
+
+**What the party would like** is a much more socialist ideal, where everybody works for **common prosperity**, where you do not **ostentatiously show off** your wealth; indeed you give to charity, you build schools, **endow fellowships**, build hospitals
+>ostentatiously[ˈɑstənˈteɪʃəslɪ] 故意；显眼地；夸耀地  
+>endow[ɪnˈdaʊ] 资助; 捐赠；赋予; 授予  
+>fellowship 友谊；团体；奖学金；伙伴关系
+
+党想要的是一个更加社会主义的理想社会，每个人都为共同富裕而努力，不炫耀自己的财富；实际上，你可以捐钱给慈善机构，建造学校，捐赠奖学金，建造医院
+
+Mr. McNally of the East-West Center said that luxury consumption is so **ingrained** among Chinese consumers as a way to **convey** status that even though “very lavish spending is certainly **being frowned upon**,” the government’s efforts are not likely to **put a big dent in** luxury sales.
+>ingrained[ɪnˈɡreɪnd] 根深蒂固的；日久难改的  
+>convey[kənˈveɪ] 表达；输送；运送  
+>frown[fraʊn] 皱眉  
+>frown upon 皱眉；不悦；表示不赞成  
+>dent[dent] 压痕；牙齿；凹痕
+
+东西方研究中心的麦智滔说，将奢侈品消费作为身份地位的表达，这是中国消费者根深蒂固的观念，即使“非常奢侈的消费肯定会遭到质疑”，但政府的努力也不可能对奢侈品销售产生很大的影响。
