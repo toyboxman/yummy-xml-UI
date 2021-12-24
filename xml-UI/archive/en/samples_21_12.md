@@ -627,3 +627,20 @@ Mr. McNally of the East-West Center said that luxury consumption is so **ingrain
 >dent[dent] 压痕；牙齿；凹痕
 
 东西方研究中心的麦智滔说，将奢侈品消费作为身份地位的表达，这是中国消费者根深蒂固的观念，即使“非常奢侈的消费肯定会遭到质疑”，但政府的努力也不可能对奢侈品销售产生很大的影响。
+
+In plans for the nighttime attack, the nearest “**collateral concern**” was **assessed to** be a “**shed**.” But apartment buildings **ringed** the site, and dozens of **displaced** families, unable to afford rent, had also been **squatting** in abandoned buildings **close by**. According to the military investigation, **as many as 70 civilians** were killed that night.
+>collateral[kəˈlæt(ə)rəl] 抵押物；担保品; 附属的；附加的；附带的  
+>shed[ʃed] 摆脱；去除；蜕; 工棚；简易房  
+>ringed[rɪŋd] 戴戒指的；有环的；环形；被包围的  
+>displace 取代；【化】置换；【航】排(水)；流离失所  
+>squat[skwɑt] 深蹲; 矮而宽的；矮胖的; 偷住的房子；蹲坐；偷住  
+>close by 在附近; 在近旁  
+
+在计划那次夜间袭击时，军方将一个“棚子”判定为距离最近的“附带担忧”。但工厂被公寓楼环绕，而且，几十个难民家庭因付不起房租，一直偷住在附近的废弃建筑里。据军方的调查，那天晚上有多达70名平民被炸死。
+
+A target like a **weapons cache** or power station came with the potential for **secondary explosions**, which often reached **far beyond the expected blast radius**.
+>weapons cache 武器库  
+>radius 半径范围；半径
+
+武器库或电站等的目标有引发次生爆炸的可能，次生爆炸的影响半径通常远远超出空袭的预期结果。
+
