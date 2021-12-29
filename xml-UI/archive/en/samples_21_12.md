@@ -711,55 +711,95 @@ France’s strategy — which went little beyond health passes and had stopped s
 while hospitalizations were five times lower than they were last year — largely thanks to vaccines — that does not mean that the country is out of the woods.
 虽然住院人数是去年的1/5——这主要归功于疫苗，但这并不意味着该国已经走出困境。
 
-The many conflicting messages have caused confusion among Europeans pining for the ease of Christmases past. Some carried on despite pangs of anxiety.
+The many **conflicting messages** have **caused confusion** among Europeans **pining for** the ease of Christmases past. Some **carried on** despite **pangs of anxiety**.
+>pang 突然的疼痛；一阵剧痛
+
 许多相互矛盾的信息在欧洲国家当中引起了混乱，他们渴望往日圣诞节的安逸。有些人即使承受着焦虑的痛苦，仍继续着圣诞计划。
 
-In July, Spain’s Constitutional Court ruled that the government did not have the authority to impose the lockdown measures that began in March 2020, The government has its hands tied now
+In July, Spain’s **Constitutional Court** ruled that the government did not have the authority to **impose the lockdown measures** that began in March 2020, The government **has its hands tied** now  
 7月，西班牙宪法法院裁定，政府无权实施自2020年3月开始的封锁措施，政府如今束手束脚。
 
-By training young scientists in the use of technology he had pioneered, he hoped to burnish his credentials with the committee that decides the ultimate scientific honor.
+By training young scientists in the use of technology he had **pioneered**, he hoped to **burnish his credentials** with the committee that decides the ultimate scientific honor.
+>burnish[ˈbɜrnɪʃ] 光泽；光滑; 擦亮；抛光；打磨
+
 通过培训年轻科学家，让他们掌握自己所开创的技术，他希望在评选最高科学荣誉的委员会面前提升自己的资历。
 
-It suffered a series of setbacks over the summer, with half a dozen cases dismissed and the first case to reach the trial stage, against the researcher Anming Hu, ending in acquittal. 
+It **suffered a series of setbacks** over the summer, with half a dozen cases dismissed and the first case to **reach the trial stage**, against the researcher Anming Hu, **ending in acquittal**. 
+>acquittal[əˈkwɪt(ə)l] 宣告无罪；无罪的判决
+
 这一计划在今夏遭遇了一系列挫折，有六起案件被驳回，而首起进入审判阶段的胡安明案最终宣判无罪释放。
 
-Dr. Lieber’s trial was watched closely in scientific circles, as an indicator of whether the Justice Department will proceed with prosecutions of other researchers.
+Dr. Lieber’s **trial** was watched closely in **scientific circles**, as an **indicator** of whether the Justice Department will **proceed with prosecutions** of other researchers.  
 科学界密切关注利伯案的审理，把这当作了司法部会否起诉其他研究人员的一个风向标。
 
-These people want to use me, so we will not let that happen, versus me using them. But we’ll be ever so polite in the mean time.
+These people want to use me, so we will not let that happen, **versus me using them**. But we’ll be ever so polite in the mean time.
+>in the mean time 在此期间；就在这个时刻；同时  
+>versus[ˈvɜrsəs] 对抗；相对与
+
 这些人想要利用我，所以我们不能让这种情况发生，而是我来利用他们。但同时我们也绝不能怠慢。
 
-Wage growth has been stagnant for decades in Japan, the wealth gap is widening and the quickest fix is nudging people like Mr. Yoshimura to pay their employees more. Higher wages, the thinking goes, will jump-start consumer spending and lift Japan’s sputtering economy.
+Wage growth has been **stagnant** for decades in Japan, the **wealth gap is widening** and the quickest fix is **nudging people** like Mr. Yoshimura to pay their employees more. Higher wages, **the thinking goes**, will **jump-start** consumer spending and **lift Japan’s sputtering economy**.
+>nudge[nʌdʒ] 轻推；(温和的)劝说；用肘轻推；助推  
+>jump-start 强力推动；快速启动；助推启动  
+>sputter[ˈspʌtər] 飞溅；唾沫飞溅地说；激动地争吵
+
 日本的工资增长几十年来一直停滞不前，贫富差距正在扩大，最快的解决办法就是推动像吉村这样的人给员工加薪。这种想法认为，工资上涨将刺激消费支出，提振日本低迷的经济。
 
-That businesses would resist increasing wages even when essentially paid to do so shows just how intractable the problem is. 
+That businesses would **resist increasing wages** even when essentially paid to do so shows just how **intractable** the problem is. 
+>intractable[ɪnˈtræktəb(ə)l] 倔强的；难处理的；难对付的
+
 即使是在实质上获得报酬的情况下，企业也会抵制增加工资，表明这个问题棘手的程度之深。
 
-Years of weak growth and moribund inflation rates have left companies little room to raise prices. Without steady, moderate increases in inflation, corporations’ profits — and their workers’ wages — have languished, economists say.
+Years of weak growth and **moribund inflation rates** have left companies little room to raise prices. Without steady, moderate increases in inflation, corporations’ profits — and their workers’ wages — have **languished**, economists say.
+>moribund[ˈmɔrəˌbʌnd] 行将灭亡的；即将倒闭的；濒于崩溃的；垂死的  
+>languish[ˈlæŋɡwɪʃ] 憔悴；被迫滞留；长期受苦；受煎熬；变得衰弱
+
 多年的疲弱增长和停滞不前的通胀率使得企业几乎没有提高价格的空间。经济学家说，没有稳定、适度的通货膨胀，企业的利润——以及工人的工资——就会一直萎靡不振。
 
-The coronavirus has only compounded Japan’s challenges. Over the last two years, the country has yo-yoed between contraction and expansion even as other major economies have rapidly rebounded.
+The coronavirus has only **compounded Japan’s challenges**. Over the last two years, the country has **yo-yoed** between contraction and expansion even as other major economies have **rapidly rebounded**.
+>compound 合成；加重  
+>yo-yo 上下跳动；左右摇摆; 悠悠球
+
 新冠病毒加剧了日本的挑战。在过去两年里，尽管其他主要经济体已经迅速反弹，但日本经济却在收缩和扩张之间摇摆不定。
 
-As the pandemic grinds on, the Japanese government has turned to even larger amounts of stimulus, showering consumers with cash handouts and companies with zero-interest loans. But inflation has barely budged, even as pandemic-induced shortages and supply-chain snarls have caused it to jump elsewhere.
+As the pandemic **grinds on**, the Japanese government has turned to **even larger amounts of stimulus**, showering consumers with **cash handouts** and companies with **zero-interest loans**. But inflation has **barely budged**, even as **pandemic-induced shortages** and supply-chain **snarls** have caused it to jump elsewhere.
+>grind on 无聊乏味地继续着；令人厌烦地长时间持续著  
+>handout 传单；救济品；捐赠品；政府拨款; 讲义；施舍物；分发  
+>cash handout 派发现金  
+>budge[bʌdʒ] (使)轻微移动；(使)改变主意; 让步；预算
+
 随着疫情持续，日本政府转向规模更大的刺激措施，向消费者大量发放现金，向企业提供零利率贷款。但通货膨胀率几乎没有变化，而在其他国家，疫情导致的短缺和供应链混乱导致通货膨胀率上升。
 
-companies that want to continue to import products and officials who are reluctant to rock the boat with China “are not just going to give up.” He added, “They’re all going to try to weigh in on how it’s implemented.”
+companies that want to continue to import products and officials who **are reluctant to rock the boat** with China “are not just going to **give up**.” He added, “They’re all going to **try to weigh in on** how it’s implemented.”
+>rock the boat 找麻烦；捣乱  
+>weigh in on 讨论；发表看法；参与
+
 那些希望继续进口产品的公司，以及不愿惹恼中国的官员，“不会就这么放弃。”他还说，“他们都会试图就如何实施该计划发表意见。”
 
-Lawmakers struggled over the past year to reconcile a more aggressive House version of the legislation with one in the Senate, which gave companies longer timelines to make changes and stripped out the S.E.C. reporting requirement, among other differences.
+Lawmakers **struggled over** the past year to **reconcile a more aggressive House version** of the legislation with one in the Senate, which gave companies longer timelines to make changes and **stripped out** the S.E.C. reporting requirement, among other differences.
+>reconcile[ˈrekənˌsaɪl] 调和；使和谐一致；使配合；使和解  
+>strip out 剥除; 去掉
+
 立法者在过去一年中努力将更激进的众议院与参议院立法相协调，这给了公司更长的时间来做出改变。立法者还作出了其他改动，包括取消在美国证监会报备的要求。
 
-Mr. Tejada was known for his deft hand as an articles editor. He could make even the most complicated story sing, He would then masterfully deconstruct and reconstruct the story, to help his reporters work through their next version.
+Mr. Tejada was known for his **deft hand** as an articles editor. He could **make even the most complicated story sing**, He would then **masterfully deconstruct and reconstruct** the story, to help his reporters work through their next version.
+>deft[deft] 熟练的；灵巧的；机敏的；有技巧的  
+>masterfully 专横地; 巧妙地；能干地
+
 特哈达以其编辑文章的娴熟技法而著称。即使是最复杂的故事，他也能娓娓道来，接着他会巧妙地解构和重建故事，帮助他的记者写出下一个版本。
 
-His father, Juan, who is from El Salvador, owns an acupuncture clinic in Tucson, Ariz.
+His father, Juan, who is from El Salvador, owns an **acupuncture clinic** in Tucson, Ariz.
+>acupuncture[ˈækjuˌpʌŋktʃər] 针刺疗法; 针灸
+
 他的父亲胡安来自萨尔瓦多，在亚利桑那州图森市拥有一家针灸诊所。
 
-he covered real estate and other subjects, some of them eccentric. One article was about a Kansas town’s attempt to build the world’s largest Yuletide goat.
+he covered real estate and other subjects, some of them **eccentric**. One article was about a Kansas town’s attempt to build the world’s largest **Yuletide goat**.
+>eccentric[ɪkˈsentrɪk] 怪人；偏心圆；古怪的；异乎寻常的; 反常的  
+>yuletide['jul.taɪd] 圣诞节期间; 圣诞季节
+
 他报道房地产和其他主题，其中一些主题有些古怪。有一篇文章写的是堪萨斯州的一个小镇试图建造世界上最大的圣诞山羊。
 
-In addition to his parents and his wife, a photographer, Mr. Tejada is survived by a daughter, a son, a sister, and two half sisters
+In addition to his parents and his wife, a photographer, Mr. Tejada **is survived by** a daughter, a son, a sister, and two half sisters  
 除了他的父母和从事摄影工作的妻子之外，特哈达的遗属还包括女儿、儿子、亲姐妹，还有两位同母异父姐妹
 
 Carlos was the true face of the **mantra**, ‘Edit ferociously and with joy,’ And he **reverberated** with an energy that made me think he knew a secret that many people **take a lifetime to figure out**.
