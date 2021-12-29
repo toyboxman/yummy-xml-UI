@@ -644,3 +644,215 @@ A target like a **weapons cache** or power station came with the potential for *
 
 武器库或电站等的目标有引发次生爆炸的可能，次生爆炸的影响半径通常远远超出空袭的预期结果。
 
+With the new variant being out and about, it’s definitely a little scary, I know it’s definitely been going around. All we can do is sanitize our hands, wear a mask and hope for the best.
+出现新的变种，这肯定有点吓人，我知道它肯定一直在传播。我们所能做的就是给手消毒，戴口罩，并期待一切顺利。
+
+China has barred overseas spectators from entering the country. The exemption, however, comes with a stringent requirement that foreigners not leave a “closed loop” of hotels and sports venues, linked by special buses and trains.
+中国已禁止海外观众进入该国。然而，这项隔离免除附带了一项严格要求，即外国人不得离开由酒店和体育场馆组成的“闭环”，它们之间由专用巴士和火车衔接。
+
+Many are now taking proactive measures to keep the virus at bay before their scheduled departures to Beijing.
+许多人现在正在采取积极措施，在预定启程前往北京之前防御病毒感染。
+
+At the resort’s high-speed-rail station, visitors must provide proof of a negative P.C.R. test in the preceding 48 hours. 
+在滑雪场的高铁站，来客必须提供48小时核酸检测呈阴性的证明。
+
+For construction workers putting the finishing touches on the venues, the authorities already do nucleic acid tests once every three days
+有关部门每三天都会给负责场馆收尾工作的建筑工人做一次核酸检测
+
+Others seemed resigned to the fact that many things would be out of their control
+其他一些人似乎已经接受了很多事情会超出控制范围的事实
+
+“Intel **bites the hand that feeds it**,” read a headline of one commentary in a nationalist newspaper. A celebrity dropped the brand.
+>bite the hand that feeds you 忘恩负义；恩将仇报；以怨报德
+一家报纸的评论标题是英特尔“吃饭砸锅”。一位名人解除了与这个品牌的代言合作关系。
+
+Chinese companies, particularly CATL, have secured vast supplies of the raw materials that go inside the batteries. That dominance has stirred fears in Washington that Detroit could someday be rendered obsolete
+中国公司，尤其是宁德时代，已经获得了电池内部原材料的大量供应。这种主导地位在华盛顿令一些人忧心忡忡，担忧底特律有朝一日可能会变得毫无用处
+
+From Detroit to Milan to Wolfsburg, Germany, auto executives who spent their careers trying to perfect pistons and fuel-injection systems are now obsessing about how to compete with a nearly invisible yet formidable industry giant.
+从底特律到米兰，再到德国沃尔夫斯堡，在职业生涯中一直致力于完善活塞和燃油喷射系统的汽车高管们，现在正纠结于如何与一个几乎隐形但强大的行业巨头竞争。
+
+For gifts during holidays, CATL sends lychee and loquat fruit grown on Ningde’s outskirts.
+逢节送礼时，宁德时代会赠送宁德郊外采摘的荔枝和枇杷。
+
+Qinghai had something that Mr. Zeng needed: dried-out salt lake beds with thick underground brine laden with lithium. 
+青海有曾毓群需要的东西：干涸的盐湖床，地下有大量富含锂的卤水。
+
+CATL said its investments “guarantee the stability of raw material supply, and avoid sharp price fluctuations.”
+宁德时代表示，其投资“保障原料供应的稳定性，避免价格剧烈波动”。
+
+There’s probably a huge amount of overlap between Omicron and the prior variants, because they are essentially doing the same thing, If there are differences, they’re probably fairly subtle.
+奥密克戎和之前的变异株之间可能存在大量重叠，因为它们本质上在做同样的事情，如果有差异，也可能相当微小。
+
+vaccinated patients with Delta or the original coronavirus tend to present with headache, congestion, sinus pressure and sinus pain, while unvaccinated patients are more likely to have shortness of breath and cough, along with flulike symptoms.
+已接种者感染了德尔塔或原始新冠病毒往往会出现头痛、鼻塞、鼻窦压力和鼻窦疼痛，而未接种疫苗的患者更可能出现呼吸急促和咳嗽，以及流感样症状。
+
+the risk of hospitalization for adults diagnosed with Omicron was 29 percent lower there than in the first wave of the pandemic, and hospitalized South African Covid-19 patients have been less likely to be admitted to intensive care. But South Africa’s observations may not apply to the United States and other countries. 
+诊断为奥密克戎的成年人住院风险比第一波疫情低29%，并且南非的新冠住院患者进入重症监护室的可能性更低。但南非的观察结果可能不适用于美国和其他国家。
+
+Across Europe, that fatigue is as palpable as the dampened Christmas spirit. The fatigue of another grim year watching New Year’s Eve gatherings get canceled or curtailed, one by one.
+在整个欧洲，这种疲乏就像被压抑的圣诞气氛一样明显。在又一个令人沮丧之年，眼看着新年前夕的聚会一个接一个被取消，这一切都让人们感到疲倦。
+
+But along with the exhaustion, another feeling is taking root: that the coronavirus will not be eradicated with vaccines or lockdowns, but has become something endemic that people must learn to live with, maybe for years to come.
+但伴随着疲乏，另一种感觉正在生根：新冠病毒不会被疫苗或封锁根除，而是已经成为人们必须学会与之共存的流行病，也许在未来几年都是如此。
+
+Caroline Orieux, despite surging Covid cases, had visited Paris with her nephews and nieces for a few days of vacation.
+尽管病例激增, 卡罗琳·奥里厄还是和侄子侄女一起去巴黎度假了几天。
+
+Even Italy, which suffered a particularly cruel first wave, introduced new rules on Thursday that were far less rigid than those imposed during its worst days, shortening the time frame that health passes remained valid, making third shots indispensable
+就连遭受了特别严重的第一波疫情的意大利，也在周四出台了新规定，这些规定远没有在其最糟糕时期实施的规定那样严格。新规缩短了健康证的有效期，使接种第三针疫苗变得不可避免
+
+Even if most cases are mild, they argue, Omicron’s quick-fire spread could still lead to huge caseloads and overwhelming hospital admissions.
+他们认为，即使大部分病例是轻症，但奥密克戎的快速传播仍可能导致巨大的病例数和压倒性的入院人数。
+
+France’s strategy — which went little beyond health passes and had stopped short of imposing stricter measures like bar closures — was nowhere near what was needed to stave off a wave of Omicron cases.
+法国的战略（除了使用健康通行证没什么其他内容，也没有采取关闭酒吧等更严格的措施）远远不能满足抵御奥密克戎病例潮的需要。
+
+while hospitalizations were five times lower than they were last year — largely thanks to vaccines — that does not mean that the country is out of the woods.
+虽然住院人数是去年的1/5——这主要归功于疫苗，但这并不意味着该国已经走出困境。
+
+The many conflicting messages have caused confusion among Europeans pining for the ease of Christmases past. Some carried on despite pangs of anxiety.
+许多相互矛盾的信息在欧洲国家当中引起了混乱，他们渴望往日圣诞节的安逸。有些人即使承受着焦虑的痛苦，仍继续着圣诞计划。
+
+In July, Spain’s Constitutional Court ruled that the government did not have the authority to impose the lockdown measures that began in March 2020, The government has its hands tied now
+7月，西班牙宪法法院裁定，政府无权实施自2020年3月开始的封锁措施，政府如今束手束脚。
+
+By training young scientists in the use of technology he had pioneered, he hoped to burnish his credentials with the committee that decides the ultimate scientific honor.
+通过培训年轻科学家，让他们掌握自己所开创的技术，他希望在评选最高科学荣誉的委员会面前提升自己的资历。
+
+It suffered a series of setbacks over the summer, with half a dozen cases dismissed and the first case to reach the trial stage, against the researcher Anming Hu, ending in acquittal. 
+这一计划在今夏遭遇了一系列挫折，有六起案件被驳回，而首起进入审判阶段的胡安明案最终宣判无罪释放。
+
+Dr. Lieber’s trial was watched closely in scientific circles, as an indicator of whether the Justice Department will proceed with prosecutions of other researchers.
+科学界密切关注利伯案的审理，把这当作了司法部会否起诉其他研究人员的一个风向标。
+
+These people want to use me, so we will not let that happen, versus me using them. But we’ll be ever so polite in the mean time.
+这些人想要利用我，所以我们不能让这种情况发生，而是我来利用他们。但同时我们也绝不能怠慢。
+
+Wage growth has been stagnant for decades in Japan, the wealth gap is widening and the quickest fix is nudging people like Mr. Yoshimura to pay their employees more. Higher wages, the thinking goes, will jump-start consumer spending and lift Japan’s sputtering economy.
+日本的工资增长几十年来一直停滞不前，贫富差距正在扩大，最快的解决办法就是推动像吉村这样的人给员工加薪。这种想法认为，工资上涨将刺激消费支出，提振日本低迷的经济。
+
+That businesses would resist increasing wages even when essentially paid to do so shows just how intractable the problem is. 
+即使是在实质上获得报酬的情况下，企业也会抵制增加工资，表明这个问题棘手的程度之深。
+
+Years of weak growth and moribund inflation rates have left companies little room to raise prices. Without steady, moderate increases in inflation, corporations’ profits — and their workers’ wages — have languished, economists say.
+多年的疲弱增长和停滞不前的通胀率使得企业几乎没有提高价格的空间。经济学家说，没有稳定、适度的通货膨胀，企业的利润——以及工人的工资——就会一直萎靡不振。
+
+The coronavirus has only compounded Japan’s challenges. Over the last two years, the country has yo-yoed between contraction and expansion even as other major economies have rapidly rebounded.
+新冠病毒加剧了日本的挑战。在过去两年里，尽管其他主要经济体已经迅速反弹，但日本经济却在收缩和扩张之间摇摆不定。
+
+As the pandemic grinds on, the Japanese government has turned to even larger amounts of stimulus, showering consumers with cash handouts and companies with zero-interest loans. But inflation has barely budged, even as pandemic-induced shortages and supply-chain snarls have caused it to jump elsewhere.
+随着疫情持续，日本政府转向规模更大的刺激措施，向消费者大量发放现金，向企业提供零利率贷款。但通货膨胀率几乎没有变化，而在其他国家，疫情导致的短缺和供应链混乱导致通货膨胀率上升。
+
+companies that want to continue to import products and officials who are reluctant to rock the boat with China “are not just going to give up.” He added, “They’re all going to try to weigh in on how it’s implemented.”
+那些希望继续进口产品的公司，以及不愿惹恼中国的官员，“不会就这么放弃。”他还说，“他们都会试图就如何实施该计划发表意见。”
+
+Lawmakers struggled over the past year to reconcile a more aggressive House version of the legislation with one in the Senate, which gave companies longer timelines to make changes and stripped out the S.E.C. reporting requirement, among other differences.
+立法者在过去一年中努力将更激进的众议院与参议院立法相协调，这给了公司更长的时间来做出改变。立法者还作出了其他改动，包括取消在美国证监会报备的要求。
+
+Mr. Tejada was known for his deft hand as an articles editor. He could make even the most complicated story sing, He would then masterfully deconstruct and reconstruct the story, to help his reporters work through their next version.
+特哈达以其编辑文章的娴熟技法而著称。即使是最复杂的故事，他也能娓娓道来，接着他会巧妙地解构和重建故事，帮助他的记者写出下一个版本。
+
+His father, Juan, who is from El Salvador, owns an acupuncture clinic in Tucson, Ariz.
+他的父亲胡安来自萨尔瓦多，在亚利桑那州图森市拥有一家针灸诊所。
+
+he covered real estate and other subjects, some of them eccentric. One article was about a Kansas town’s attempt to build the world’s largest Yuletide goat.
+他报道房地产和其他主题，其中一些主题有些古怪。有一篇文章写的是堪萨斯州的一个小镇试图建造世界上最大的圣诞山羊。
+
+In addition to his parents and his wife, a photographer, Mr. Tejada is survived by a daughter, a son, a sister, and two half sisters
+除了他的父母和从事摄影工作的妻子之外，特哈达的遗属还包括女儿、儿子、亲姐妹，还有两位同母异父姐妹
+
+Carlos was the true face of the **mantra**, ‘Edit ferociously and with joy,’ And he **reverberated** with an energy that made me think he knew a secret that many people **take a lifetime to figure out**.
+>mantra[ˈmæntrə] 曼怛罗(某些宗教的念咒); 咒语; 真言  
+>reverberate[rɪˈvɜrbəˌreɪt] 回荡；回响；有长久深刻的影响; 反响；反射
+
+卡洛斯真正实践了‘严厉并快乐地编辑’（加拿大作家安·卡森语。——译注）这句格言，他散发着一种能量，让我觉得，他知道一个很多人穷尽一生才能想明白的秘密。
+
+The Webb’s mission is to **seek out** the earliest, most distant stars and galaxies, which appeared 13.7 billion years ago, **burning their way out of a fog leftover** from **the Big Bang** (which occurred 13.8 billion years ago).
+>way out (建筑物的)出口；(困境的)出路; 摆脱困境的办法；办法  
+>leftover 吃剩的食物；残羹剩饭；遗留物；残存物; 剩余的；未用完的；吃剩的  
+>seek out 找出；寻求
+
+韦伯的任务是寻找最早、最遥远的恒星和星系，这些恒星和星系出现在137亿年前，从宇宙大爆炸（发生在138亿年前）后的尘雾中诞生。
+
+Webb’s 18 **gold-plated hexagonal mirrors**, advanced temperature controllers and **ultrasensitive infrared sensors were pieced** together in a development timeline filled with **cost overruns** and technical **hurdles**.
+>gold-plated 镀金的  
+>hexagonal[heks'æɡənl] 六边形；六角形的  
+>infrared[ˌɪnfrəˈred] 红外线; 红外线的  
+>piece 块；片；条; 结合；接；拼合；修理  
+>overrun 泛滥；横行；肆虐；多用(时间、钱财等); 超支  
+>hurdle[ˈhɜrd(ə)l] 跨栏；障碍；难关
+
+在充满成本超支和技术障碍的开发周期里，韦伯望远镜的18个镀金六角形镜子，先进的温度控制器和超灵敏的红外传感器组合到了一起。
+
+**Over-optimistic** schedule projections, **occasional** development accidents and **disorganized** cost reporting **dragged out** the timeline to 2021 and **ballooned the overall cost** to $10 billion.
+>drag out 拖延；延长; “drag on”的变体
+
+过于乐观的进度预测、偶尔发生的研发事故和混乱的成本报告将工期拖到了2021年，总成本飙升至100亿美元。
+
+He started by **exploring the sauna**, built into the **palatial bathroom** of the hotel’s **presidential suite**. Then the video blogger moved on to the dining room, where a chef waited with a **glistening steak**. The video was **tacky, sure. Ostentatious, definitely**.
+>palatial[pəˈleɪʃ(ə)l] 宫殿般的；富丽堂皇的; 宏伟的；壮丽的  
+>glisten[ˈɡlɪs(ə)n] 闪耀; 闪光; 金闪闪；闪耀的  
+>tacky[ˈtæki] 低劣的；蹩脚的；俗气的；乏味的; 破烂的  
+>ostentatious[ˌɑstenˈteɪʃəs] 摆阔的；铺张的；浮华的；炫耀的; 卖弄的
+
+在酒店的总统套房里，他从富丽堂皇的浴室配置的桑拿房开始拍摄。然后，这名视频博主把镜头转向套房的餐厅，一名厨师正端着一块美味多汁的牛排等他就餐。的确，这段视频很庸俗。当然也招摇。
+
+We will **strengthen our management** and increase the power of our crackdown, to make internet platforms feel **there is a sword above their heads**  
+我们也会进一步加强管理，对这些行为加大打击力度、处置力度，让网站平台觉得悬着一把剑
+
+Can the spread of this content **inspire people to** be healthy, ambitious and work harder for a **beautiful life**? Or does it **cater to people’s vulgar desires?**
+>cater[ˈkeɪtər] 迎合；投合；满足; (骰子,纸牌的)四点  
+>vulgar[ˈvʌlɡər] 庸俗的；粗俗的；粗野的；不雅的  
+
+看这些信息内容的传播是不是有利于激发人们积极健康向上的生活，激发人民为美好生活而努力拼搏奋斗，还是说这个内容效果迎合了人们一些低俗需求。
+
+**Inequality is vast**. If **unaddressed**, the **imbalance could pose a threat** to the authorities’ **near-total control**, which **rests on a promise** of economic comfort. 
+>rest on 依靠；依赖；被搁在
+
+贫富不均现象非常严重。如果不加以解决，贫富不均问题可能会对当局近乎完全的控制构成威胁，因为这种控制是建立在让人们享有经济安逸的承诺之上的。
+
+**Exorbitant** urban housing prices and accelerating competition for **white-collar jobs** have left many young people feeling that the “Dream” is **out of reach**.
+>exorbitant[ɪɡˈzɔrbɪtənt] 过高的；高得离谱的  
+
+城市过高的房价，以及白领工作岗位的竞争加剧，使许多年轻人感到“梦想”遥不可及。
+
+But the campaign against wealth flaunting, with its focus on **tamping down the trappings of wealth** — not the wealth itself — **underscores** a broader question about **how far the rhetoric will go**.
+>tamp[tæmp] 夯实；捣固；塞紧  
+>tamp down 捣固,砸牢(路基等)
+
+但反对炫富运动的焦点是象征财富的东西，而不是财富本身，这凸显出一个更为广泛的问题，即所说的东西能在多大程度上得以实现。
+
+In July 2020, the cyberspace administration announced a plan to “**thoroughly clean up** information that **promotes bad values** such as comparing or **flaunting wealth, extravagant amusement**, etc.”
+>extravagant[ɪkˈstrævəɡənt] 奢侈的；挥霍的；过度的；过分的；铺张浪费的；过于昂贵的
+
+2020年7月，国家互联网信息办公室宣布了一项运动，“深入清理宣扬攀比炫富、奢靡享乐等不良价值观的信息。”
+
+Last month, Ms. Yi, 35, shared a video, set to peaceful piano music, of her husband **gardening and wrapping won tons** while she described how they **made their own furniture and grew their own vegetables**. She **contrasted her lifestyle with people bragging online** about buying their first sports car or paying in full for **sprawling villas**.
+>wrap won tons 包馄饨  
+>brag 第一流的；极好的；吹嘘；吹牛；自夸；自吹自擂  
+>villa[ˈvɪlə] 别墅；度假别墅  
+>sprawling[sprɔlɪŋ] 蔓延的；杂乱无序拓展的
+
+上个月，35岁的易女士分享了一段配着宁静钢琴音乐的视频，视频中有她丈夫种菜、包馄饨的情景，她讲述了他们怎样自己做家具、自己种蔬菜的情况。她把他们的生活方式与在网上炫耀自己买第一辆跑车或付全款买下一栋别墅的那种进行了对比。
+
+she worried that young people watching **flashy videos** would **develop unrealistic expectations**. When they failed to **achieve similar material wealth**, she said, “they’ll have doubts about society and about themselves.”
+>flashy[ˈflæʃi] 浮华的；华而不实的；炫耀的
+
+她担心年轻人看华而不实的视频会产生不切实际的期望。她说，当他们没有获得类似的物质财富时，“他们就会对社会和自己产生怀疑。”
+
+Others have said concerns about **wealth flaunting** are **overblown**. On the social media platform Weibo, some users said the videos **satisfied their curiosity** or were merely entertaining.
+>flaunt[flɔnt] 炫耀；夸耀；卖弄  
+>overblown 过分的；夸张的；虚饰过度的；残败的
+
+也有人认为，对炫富的担忧被夸大了。一些用户在社交媒体平台微博上表示，这些视频满足了他们的好奇心，或只是让人娱乐一下而已。
+
+Still, despite the government’s **strong rhetoric**, it is unclear how, and **how stringently**, the **anti-wealth flaunting** campaign is being **enforced**.  
+不过，尽管政府措辞强硬，但目前尚不清楚这场反炫富运动如何实施、实施的力度究竟如何。
+
+But the apps are still **awash in status symbols**. A search for luxury brands on Xiaohongshu still **turns up countless results**. Compared with the total number of posts on these sites, the number **flagged is “basically nothing,**” 
+>awash 泛滥的；充斥的；被浪潮冲打的  
+>turn up 朝上翻；出现；找到；露面  
+
+但这些应用平台上仍然充斥着象征身份的东西。在小红书上搜索奢侈品牌仍会得到数不胜数的结果。与这些网站上发的帖子总数相比，被打上了炫富标记的帖子数“基本上微不足道”。
+
