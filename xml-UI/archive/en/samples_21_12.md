@@ -644,75 +644,133 @@ A target like a **weapons cache** or power station came with the potential for *
 
 武器库或电站等的目标有引发次生爆炸的可能，次生爆炸的影响半径通常远远超出空袭的预期结果。
 
-With the new variant being out and about, it’s definitely a little scary, I know it’s definitely been going around. All we can do is sanitize our hands, wear a mask and hope for the best.
+With the new variant **being out and about**, it’s **definitely a little scary**, I know it’s definitely been going around. All we can do is **sanitize our hands**, wear a mask and hope for the best.
+>be out and about 从事日常工作; 户外活动；外出；能够外出走动  
+
 出现新的变种，这肯定有点吓人，我知道它肯定一直在传播。我们所能做的就是给手消毒，戴口罩，并期待一切顺利。
 
-China has barred overseas spectators from entering the country. The exemption, however, comes with a stringent requirement that foreigners not leave a “closed loop” of hotels and sports venues, linked by special buses and trains.
+China has **barred overseas spectators** from entering the country. The **exemption**, however, **comes with a stringent requirement** that foreigners not leave a “closed loop” of hotels and sports venues, linked by special buses and trains.
+>spectator[ˈspekˌteɪtər] 旁观者；(看比赛等的)观众  
+>exemption[ɪɡˈzempʃən] 豁免；免除
+
 中国已禁止海外观众进入该国。然而，这项隔离免除附带了一项严格要求，即外国人不得离开由酒店和体育场馆组成的“闭环”，它们之间由专用巴士和火车衔接。
 
-Many are now taking proactive measures to keep the virus at bay before their scheduled departures to Beijing.
+Many are now **taking proactive measures** to keep the virus at bay before their **scheduled departures to** Beijing.
+>keep at bay 围住；不使…接近; 使走投无路；牵制；阻止
+
 许多人现在正在采取积极措施，在预定启程前往北京之前防御病毒感染。
 
-At the resort’s high-speed-rail station, visitors must provide proof of a negative P.C.R. test in the preceding 48 hours. 
+**At the resort’s** high-speed-rail station, visitors must provide proof of a negative P.C.R. test **in the preceding 48 hours**.
+>preceding[prɪˈsidɪŋ] 在前的；上述的; 前面的；先前的
+
 在滑雪场的高铁站，来客必须提供48小时核酸检测呈阴性的证明。
 
-For construction workers putting the finishing touches on the venues, the authorities already do nucleic acid tests once every three days
+For construction workers **putting the finishing touches on the venues**, the authorities already **do nucleic acid tests** once every three days  
 有关部门每三天都会给负责场馆收尾工作的建筑工人做一次核酸检测
 
-Others seemed resigned to the fact that many things would be out of their control
+Others **seemed resigned to the fact** that many things would **be out of their control**
+>resign 辞职；放弃；退出；认输
+
 其他一些人似乎已经接受了很多事情会超出控制范围的事实
 
-“Intel **bites the hand that feeds it**,” read a headline of one commentary in a nationalist newspaper. A celebrity dropped the brand.
+“Intel **bites the hand that feeds it**,” read a **headline of one commentary** in a nationalist newspaper. A **celebrity dropped the brand**.
 >bite the hand that feeds you 忘恩负义；恩将仇报；以怨报德
+
 一家报纸的评论标题是英特尔“吃饭砸锅”。一位名人解除了与这个品牌的代言合作关系。
 
-Chinese companies, particularly CATL, have secured vast supplies of the raw materials that go inside the batteries. That dominance has stirred fears in Washington that Detroit could someday be rendered obsolete
+Chinese companies, particularly CATL, have **secured vast supplies of** the raw materials that **go inside** the batteries. That **dominance has stirred fears** in Washington that Detroit could **someday be rendered obsolete**
+>render[ˈrendər] 渲染；使得；致使; 提供；给予；渲染；粉刷  
+>obsolete[ˌɑbsəˈlit] 淘汰的；废弃的；过时的
+
 中国公司，尤其是宁德时代，已经获得了电池内部原材料的大量供应。这种主导地位在华盛顿令一些人忧心忡忡，担忧底特律有朝一日可能会变得毫无用处
 
-From Detroit to Milan to Wolfsburg, Germany, auto executives who spent their careers trying to perfect pistons and fuel-injection systems are now obsessing about how to compete with a nearly invisible yet formidable industry giant.
+From Detroit to Milan to Wolfsburg, Germany, auto executives who spent their careers trying to **perfect pistons and fuel-injection systems** are now **obsessing about** how to compete with a **nearly invisible yet formidable** industry giant.
+>piston[ˈpɪstən] 活塞  
+>formidable 可怕的；令人敬畏的；难对付的；强大的
+
 从底特律到米兰，再到德国沃尔夫斯堡，在职业生涯中一直致力于完善活塞和燃油喷射系统的汽车高管们，现在正纠结于如何与一个几乎隐形但强大的行业巨头竞争。
 
-For gifts during holidays, CATL sends lychee and loquat fruit grown on Ningde’s outskirts.
+For gifts during holidays, CATL sends **lychee and loquat fruit** grown on Ningde’s **outskirts**.
+>loquat['ləʊkwɒt] 枇杷  
+>outskirt['aʊtˌskɜːt] 郊区；市郊；外缘
+
 逢节送礼时，宁德时代会赠送宁德郊外采摘的荔枝和枇杷。
 
-Qinghai had something that Mr. Zeng needed: dried-out salt lake beds with thick underground brine laden with lithium. 
+Qinghai had something that Mr. Zeng needed: **dried-out salt lake beds** with **thick underground brine laden with lithium**.
+>laden with 充满
+>laden[ˈleɪd(ə)n] 装着货的；有负载的；有精神负担的；沉重的; 满载的
+
 青海有曾毓群需要的东西：干涸的盐湖床，地下有大量富含锂的卤水。
 
-CATL said its investments “guarantee the stability of raw material supply, and avoid sharp price fluctuations.”
+CATL said its investments “guarantee the stability of **raw material supply**, and avoid **sharp price fluctuations**.”
+>fluctuation[ˌflʌktʃuˈeɪʃ(ə)n] 波动；起伏；大起大落
+
 宁德时代表示，其投资“保障原料供应的稳定性，避免价格剧烈波动”。
 
-There’s probably a huge amount of overlap between Omicron and the prior variants, because they are essentially doing the same thing, If there are differences, they’re probably fairly subtle.
+There’s probably **a huge amount of overlap** between Omicron and the prior variants, because they are **essentially** doing the same thing, If there are differences, they’re **probably fairly subtle**.  
+>fairly 公正地；相当地
+
 奥密克戎和之前的变异株之间可能存在大量重叠，因为它们本质上在做同样的事情，如果有差异，也可能相当微小。
 
-vaccinated patients with Delta or the original coronavirus tend to present with headache, congestion, sinus pressure and sinus pain, while unvaccinated patients are more likely to have shortness of breath and cough, along with flulike symptoms.
+Vaccinated patients with Delta or the original coronavirus **tend to present with headache, congestion, sinus pressure and sinus pain**, while unvaccinated patients **are more likely to have shortness of breath** and cough, **along with flulike symptoms**.
+>sinus[ˈsaɪnəs] 鼻窦  
+>congestion[kənˈdʒestʃ(ə)n] 充血；淤血；塞车; 拥挤；阻塞；堵塞  
+>shortness of breath 喘气; 呼吸短促；气短
+
 已接种者感染了德尔塔或原始新冠病毒往往会出现头痛、鼻塞、鼻窦压力和鼻窦疼痛，而未接种疫苗的患者更可能出现呼吸急促和咳嗽，以及流感样症状。
 
-the risk of hospitalization for adults diagnosed with Omicron was 29 percent lower there than in the first wave of the pandemic, and hospitalized South African Covid-19 patients have been less likely to be admitted to intensive care. But South Africa’s observations may not apply to the United States and other countries. 
+The risk of hospitalization for adults **diagnosed** with Omicron was **29 percent lower there than** in the first wave of the pandemic, and hospitalized South African Covid-19 patients have **been less likely to be admitted to intensive care**. But South Africa’s observations may not **apply to** the United States and other countries. 
+>intensive care 特别护理；重症监护  
+>intensive 密集的；彻底的；加强的；集中的；强烈的  
+>admit to 承认; 许可进入；让…享有；允许
+
 诊断为奥密克戎的成年人住院风险比第一波疫情低29%，并且南非的新冠住院患者进入重症监护室的可能性更低。但南非的观察结果可能不适用于美国和其他国家。
 
-Across Europe, that fatigue is as palpable as the dampened Christmas spirit. The fatigue of another grim year watching New Year’s Eve gatherings get canceled or curtailed, one by one.
+Across Europe, that **fatigue is as palpable** as the **dampened Christmas spirit**. The fatigue of another **grim year** watching New Year’s Eve gatherings **get canceled or curtailed**, one by one.
+>palpable[ˈpælpəb(ə)l] 易于察觉的；可意识到的；明显的  
+>dampen 抑制；弄湿；使潮湿; 减弱
+
 在整个欧洲，这种疲乏就像被压抑的圣诞气氛一样明显。在又一个令人沮丧之年，眼看着新年前夕的聚会一个接一个被取消，这一切都让人们感到疲倦。
 
-But along with the exhaustion, another feeling is taking root: that the coronavirus will not be eradicated with vaccines or lockdowns, but has become something endemic that people must learn to live with, maybe for years to come.
+But **along with the exhaustion**, another feeling is **taking root**: that the coronavirus will not be **eradicated** with vaccines or lockdowns, but has become **something endemic** that people must learn to live with, maybe for years to come.
+>eradicate[ɪˈrædɪˌkeɪt] 根除; 消灭  
+>endemic[enˈdemɪk] 地方病；某地特产的植物[动物]; 地方性的  
+
 但伴随着疲乏，另一种感觉正在生根：新冠病毒不会被疫苗或封锁根除，而是已经成为人们必须学会与之共存的流行病，也许在未来几年都是如此。
 
-Caroline Orieux, despite surging Covid cases, had visited Paris with her nephews and nieces for a few days of vacation.
+Caroline Orieux, despite surging Covid cases, had visited Paris with her **nephews and nieces** for a few days of vacation.  
 尽管病例激增, 卡罗琳·奥里厄还是和侄子侄女一起去巴黎度假了几天。
 
-Even Italy, which suffered a particularly cruel first wave, introduced new rules on Thursday that were far less rigid than those imposed during its worst days, shortening the time frame that health passes remained valid, making third shots indispensable
+Even Italy, which suffered a **particularly cruel** first wave, introduced new rules on Thursday that were **far less rigid** than those imposed during its worst days, **shortening the time frame** that health passes remained valid, making third shots **indispensable**
+>cruel 残酷的；冷酷的；残忍的；残暴的; 非常  
+>rigid 死板的；僵硬的；固执的；僵化的; 严格的  
+>indispensable 必不可少的; 必需的；不可或缺的
+
 就连遭受了特别严重的第一波疫情的意大利，也在周四出台了新规定，这些规定远没有在其最糟糕时期实施的规定那样严格。新规缩短了健康证的有效期，使接种第三针疫苗变得不可避免
 
-Even if most cases are mild, they argue, Omicron’s quick-fire spread could still lead to huge caseloads and overwhelming hospital admissions.
+Even if most cases are mild, they argue, Omicron’s **quick-fire spread** could still lead to **huge caseloads and overwhelming** hospital admissions.
+>quick fire 一个接一个的；连珠炮似的  
+>case load 办案量；病例数
+
 他们认为，即使大部分病例是轻症，但奥密克戎的快速传播仍可能导致巨大的病例数和压倒性的入院人数。
 
-France’s strategy — which went little beyond health passes and had stopped short of imposing stricter measures like bar closures — was nowhere near what was needed to stave off a wave of Omicron cases.
-法国的战略（除了使用健康通行证没什么其他内容，也没有采取关闭酒吧等更严格的措施）远远不能满足抵御奥密克戎病例潮的需要。
+France’s strategy — which **went little beyond** health passes and had **stopped short of** imposing stricter measures like bar closures — **was nowhere near** what was needed to **stave off** a wave of Omicron cases.
+>stop short of 险些儿; 差一点；未到达   
+>nowhere near 远远没有；远不及；差得远；离得远  
+>stave[steɪv] off 挡开；避开；延宕; 延缓；防止；阻止  
+>stave 延缓；五线谱；棍；棒
 
-while hospitalizations were five times lower than they were last year — largely thanks to vaccines — that does not mean that the country is out of the woods.
+法国的战略(除了使用健康通行证没什么其他内容，也没有采取关闭酒吧等更严格的措施)远远不能满足抵御奥密克戎病例潮的需要。
+
+while hospitalizations were **five times lower than** they were last year — **largely thanks to** vaccines — that does not mean that the country is **out of the woods**.
+>out of the woods 脱离危险；克服困难；摆脱困境  
+>thank to 由于; 幸亏；幸好  
+>largely 在很大程度上；主要地
+
 虽然住院人数是去年的1/5——这主要归功于疫苗，但这并不意味着该国已经走出困境。
 
 The many **conflicting messages** have **caused confusion** among Europeans **pining for** the ease of Christmases past. Some **carried on** despite **pangs of anxiety**.
->pang 突然的疼痛；一阵剧痛
+>pang[pæŋ] 突然的疼痛；一阵剧痛
 
 许多相互矛盾的信息在欧洲国家当中引起了混乱，他们渴望往日圣诞节的安逸。有些人即使承受着焦虑的痛苦，仍继续着圣诞计划。
 
