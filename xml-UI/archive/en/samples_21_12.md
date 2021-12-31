@@ -954,3 +954,69 @@ But the apps are still **awash in status symbols**. A search for luxury brands o
 
 但这些应用平台上仍然充斥着象征身份的东西。在小红书上搜索奢侈品牌仍会得到数不胜数的结果。与这些网站上发的帖子总数相比，被打上了炫富标记的帖子数“基本上微不足道”。
 
+These are **the bad apples** who are abusing their position simply by **wearing a false coat** of media worker
+>bad apple 坏家伙; 害群之马  
+
+披着新闻的外衣，利用新闻作非法勾当，将新闻工作作为工具，这些是新闻工作者的害群之马。
+
+A Delta Air Lines flight that was **en route from Seattle to Shanghai** turned back **in midair** last week because the Chinese airport had imposed new cleaning rules that would have caused delays
+>mid-air 半空中; 悬空  
+>en route[ɑn ˈrut] 在途中；在路上
+
+上周从西雅图飞往上海的一个航班中途折返是因为中国机场实施了新的消杀规定，可能会导致延误。
+
+The Pegu Club project **befitted** the family’s **East-meets-West positioning** and the optimism of a country **newly engaging with** the world.
+>befit 适宜；合适；适合于
+
+翻修勃固俱乐部的工程适合这个家族的东西方交融定位，体现了一个重新与世界接触的国家的乐观心态。
+
+The Coast Watcher 100, which **spanned a long coastline**, required towers 50 meters high **affixed with state-of-the-art radar**. 
+>state-of-the-art 最先进的；艺术级的  
+>affix[ˈæˌfɪks] 附上；粘上；贴上; 词缀
+
+“海岸观察者100”横跨长长的海岸线，需要修建一些50米的高塔，用于安装最先进的雷达。
+
+**Thanks in part to** the pandemic and the **digitization** of our lives, all of the big tech companies got bigger. Facebook changed its name to Meta, Jeff Bezos went to space, Jack Dorsey left Twitter and Silicon Valley **fell harder for crypto**.
+>fall for 爱上，迷恋；信以为真; 上当受骗  
+>thanks in part to  在一定程度上是由于
+
+这在一定程度上是由于大流行和我们生活的数字化，所有大型科技公司都变得更大了。Facebook更名为Meta，杰夫·贝佐斯去了太空，杰克·多尔西离开了Twitter，硅谷对加密货币更加趋之若鹜。
+
+But the **industrial-farm system** that produces the **vast majority of** the world’s meat supply is an ethical and environmental disaster, and plant-based substitutes haven’t caught on widely with **carnivores**. 
+>vast majority of 绝大多数  
+>carnivore[ˈkɑrnɪˌvɔr] 食肉动物
+
+生产世界上绝大多数肉类供应的工业农场系统是一场道德和环境灾难，植物性替代品还没有在食肉动物中广泛流行。
+
+But she is **giving away** her Amazon fortune — **estimated to be worth more than** $50 billion — **at a pace** that makes other tech **philanthropists** look like **penny pinchers**.
+>penny pincher 吝啬鬼；小气鬼；守财奴
+
+她只是把自己的亚马逊财富捐了出来——估计价值超过500亿美元——捐赠的速度之快，让其他慈善家显得像守财奴。
+
+We may even be able to detect some traces of biological activity, which is really the **holy grail** of the field  
+我们也许甚至能探测到一些生物活动的痕迹，这确实是这个领域的圣杯
+
+If a Covid-19 variant **falls in** a community and no one is there to fear it, does it still **make a sound**? Of course, the problem isn’t just being **oversaturated** with fear messages. 
+>oversaturated 过饱和的  
+>saturated[ˈsætʃəˌreɪtɪd] 湿透的；饱和的；浸透的
+
+如果新冠变异株落在一个无人害怕它的社区，它还能溅起水花吗？当然，问题不仅仅是恐惧信息的过度饱和。
+
+Vaccines are **wildly popular**. I need to get mine now! Almost exactly one year ago, my colleagues and I **buzzed with excitement** as we **lined up** for our first shots of the Covid vaccine. 
+>wildly 疯狂地；非常；失控地；极其   
+>buzz[bʌz] 发出嗡嗡声；发出蜂鸣声；充满兴奋
+
+打疫苗已经非常主流了。我现在也要去打！差不多就在一年前，我和同事们兴奋地排队接种了第一针新冠疫苗。
+
+We **are not built for prolonged solitude**, I think of nursing home residents, **deprived of** human touch, their **dementia accelerating**. I think of **drug overdoses** and **alcoholism and untreated psychiatric** disease, the **shadow pandemic** of these two years.
+>deprive[dɪˈpraɪv] of 剥夺；使失去；使丧失  
+>dementia[dɪˈmenʃə] 痴呆; 失智症
+
+我们生性就不适合长时间的独处，我想到养老院的老人们，他们被剥夺了与人接触的机会，他们的失智症正在恶化。我想到了药物过量、酗酒和未获治疗的精神疾病，这些都是两年来的隐性疫情。
+
+ And those who are **immune-compromised** from cancer or **transplants**, or **frail** because of age or **chronic conditions**, remain at greater risk. 
+ >immune-compromised 免疫折衷的  
+ >frail[freɪl] 瘦弱的；易损的；易碎的; 脆弱的；虚弱的；意志薄弱的  
+ >chronic[ˈkrɑnɪk] 长期的；慢性的；难以治愈(或根除)的
+
+ 而那些因癌症或移植而免疫力低下的人，以及因年龄或慢性疾病而身体虚弱的人，他们患病的风险仍然更高。
