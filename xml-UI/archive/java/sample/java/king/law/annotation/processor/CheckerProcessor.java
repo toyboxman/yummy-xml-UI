@@ -17,6 +17,7 @@ import java.util.Collections;
 import java.util.Set;
 
 /**
+ * processor用来做一些编译期静态检查任务
  * https://nadundesilva.medium.com/reading-annotations-at-compile-time-using-java-annotation-processors-f5a7604bb2f7
  * https://riptutorial.com/java/example/19926/compile-time-processing-using-annotation-processor
  *
@@ -24,6 +25,8 @@ import java.util.Set;
  * 2. Create CheckerProcessor.
  * 3. Append FQN(king.law.annotation.processor.CheckerProcessor) of the processor in META-INF/services/javax.annotation.processing.Processor.
  * 4. javac -cp processor.jar java_src
+ *
+ * 基于项目pom文件 执行 mvn clean, mvn compile package, mvn clean, ide中运行 java CheckMeInCompile
  */
 public class CheckerProcessor extends AbstractProcessor {
     private Messager messager;
@@ -68,6 +71,7 @@ public class CheckerProcessor extends AbstractProcessor {
         }
     }
 
+    /** 只有ERROR类型可以终止编译检查过程，其他类型仅仅给予不同类型信息提示 */
     private void printError(Element element, String message) {
         messager.printMessage(Diagnostic.Kind.ERROR, message, element);
     }
