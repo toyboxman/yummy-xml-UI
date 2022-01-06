@@ -1,3 +1,24 @@
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 That offers a **loophole**, this is **one more nail in the coffin** of coal, but only one, and the coffin is not yet **sealed**.
 >nail in the coffin 棺材钉子；致使的一击；决定成败的最重要因素  
 >seal 印章；海豹；封条；封闭；封锁
