@@ -93,6 +93,8 @@ docker save nginx > /tmp/nginx.tgz
 docker load < /tmp/nginx.tgz
 
 # create container instance with name 'jdk-dev', tty interaction using image 'java' and start
+# -i, --interactive    Keep STDIN open even if not attached
+# -t, --tty    Allocate a pseudo-TTY
 docker run --name jdk-dev -it java  
 # create container instance using golang image with detached mode
 docker run -d -it golang
@@ -128,6 +130,13 @@ docker network ls
 # network detail examination
 docker inspect <NAME | ID> | grep <IP>
 docker network inspect <network_name>
+
+# --link 参数来使容器互联，随着Docker network的完善，可将容器加入自定义的Docker network来连接多个容器
+# https://yeasy.gitbook.io/docker_practice/network/linking
+# 源容器
+docker run -d --name selenium_hub selenium/hub
+# 接收容器
+docker run -d --name node --link selenium_hub:hub selenium/node-chrome-debug
 
 # build local image, need three files, Dockerfile  zoo.cfg  zookeeper-entrypoint.sh in ./ folder
 docker build -t solo_zk ./ 
@@ -178,6 +187,42 @@ docker-compose run
 # -rm parameter means kill container after command closes
 docker-compose run --rm zkcli -server zookeeper3  
 ```
+
+#### 配置 jaeger + kibana + ES
+将jaeger收集trace数据存储在ES
+```console
+# elasticsearch
+# ElasticSearch启动时，会占用两个端口9200和9300
+# 9200是ES节点与外部通讯使用的端口, 它是http协议的RESTful接口(各种CRUD操作都是走的该端口,如查询：http://localhost:9200/)
+# 9300是ES节点之间通讯使用的端口。它是tcp通讯端口，集群间和TCPclient都走的它(java程序中使用ES时，在配置文件中要配置该端口)
+# 在es cluster中每个node都会有分工，比如master, data, ingest等等
+docker pull elasticsearch:7.16.1
+docker run -d --name=elasticsearch -p9200:9200 -p9300:9300 -e "discovery.type=single-node" -e "xpack.security.enabled=false" elasticsearch:7.16.1
+
+# kibana
+# Web默认端口5601, 用来提供后端服务的访问。例如后端ES GUI http://docker-server:5601/app/home#/
+docker pull kibana:7.16.1
+docker run -d --name=kibana --link=elasticsearch -p5601:5601 kibana:7.16.1
+
+# jaeger all-in-one
+# Web查询 http://docker-server:16686/
+docker run -d --name jaeger-es \
+  --link=elasticsearch \
+  -e SPAN_STORAGE_TYPE=elasticsearch \
+  -e COLLECTOR_ZIPKIN_HOST_PORT=:9411 \
+  -e ES_SERVER_URLS=http://elasticsearch:9200 \
+  -e ES_TAGS_AS_FIELDS_ALL=true \
+  -p 5775:5775/udp \
+  -p 6831:6831/udp \
+  -p 6832:6832/udp \
+  -p 5778:5778 \
+  -p 16686:16686 \
+  -p 14268:14268 \
+  -p 14250:14250 \
+  -p 9411:9411 \
+  jaegertracing/all-in-one
+```
+
 #### zk command
 ```console
 # enter zkCli mode
