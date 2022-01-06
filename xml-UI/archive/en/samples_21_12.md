@@ -1,13 +1,13 @@
->
->
->
->
->
-
-
-
-
-
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 In a **wrenchingly familiar cycle** of tracking first cases, **pointing fingers** and banning travel, nations worldwide **reacted** Monday to the Omicron variant of the coronavirus in the **piecemeal fashion** that has defined — and **hobbled** — the pandemic response all along.
 >wrenchingly (扭伤)疼痛地  
