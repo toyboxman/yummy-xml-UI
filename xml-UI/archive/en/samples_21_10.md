@@ -1,3 +1,24 @@
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 Xu Jiayin was China’s richest man, a symbol of the country’s economic rise who helped **transform poverty-stricken** villages into **urbanized metropolises** for the **fledgling** middle class. He **amassed the trappings** of the elite, with trips to Paris to taste rare French wines, a million-dollar **yacht**, private jets
 中国曾经的首富许家印是该国经济崛起的象征，他帮助贫困的村庄转变为新兴中产阶级的城市化大都市。他过着精英的生活，去巴黎品尝稀有的法国葡萄酒，拥有价值百万美元的游艇、私人飞机
 
