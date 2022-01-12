@@ -255,3 +255,91 @@ As Fitzgerald wrote, we will always be **a sucker for the orgastic future** that
 >orgastic[?r'g?st?k] 极度兴奋的；情欲亢进的
 
 正如菲茨杰拉德所写，我们将永远沉迷于一年年在我们眼前渐渐远去的极乐未来。
+
+A 57-year-old man with life-threatening heart disease has received a heart from a genetically modified pig, a groundbreaking procedure that offers hope to hundreds of thousands of patients with failing organs.
+一名因患心脏病有生命危险的57岁男子移植了来自一只经过基因改造的猪的心脏，这项开创性的手术为数十万器官衰竭的患者带来了希望。
+
+Scientists have worked feverishly to develop pigs whose organs would not be rejected by the human body, research accelerated in the past decade by new gene editing and cloning technologies. 
+科学家们一直在努力培育器官不会在人体内产生排斥反应的猪，过去10年中，新的基因编辑和克隆技术加速了研究。
+
+This is a watershed event, Doors are starting to open that will lead, I believe, to major changes in how we treat organ failure. Events like these can be dramatized in the press, and it’s important to maintain perspective, It takes a long time to mature a therapy like this.
+这是一个分水岭事件，我相信，机会的大门正在打开，这将使我们治疗器官衰竭的方式发生重大变化。像这样的事件在媒体上可能被夸大，保持客观很重要，这样的治疗需要很长时间才能成熟。
+
+The new heart is functioning and already doing most of the work, and his doctors said he could be taken off the machine on Tuesday. It was either die or do this transplant, I know it’s a shot in the dark, but it’s my last choice.
+新的心脏正在运作并且已经自主完成了大部分工作，他的医生说他有可能在周二离开机器。要么死，要么做移植手术。我知道这是闭眼一博，但这是我最后的选择
+
+In the 1960s, chimpanzee kidneys were transplanted into some human patients, but the longest a recipient lived was nine months. Pigs offer advantages over primates for organ procurements, because they are easier to raise and achieve adult human size in six months. 
+在1960年代，黑猩猩的肾脏被移植到一些人类患者体内，但接受者最长存活了9个月。相较于灵长类动物，猪在器官供源上有优势，因为猪更易于培育，可以在六个月内达到成年人类器官的大小。
+
+The pig had 10 genetic modifications. Four genes were knocked out, or inactivated, including one that encodes a molecule that causes an aggressive human rejection response.
+这只猪进行了10处基因修改。四个基因被剔除或失活，其中一个携带了一种可导致剧烈人体排斥反应的分子的编码。
+
+his father had had a pig’s valve inserted about a decade ago, He’d been in the hospital a month or more, and I knew delirium could set in. I thought, no way, shape or form is that happening.
+父亲在大约十年前植入了猪心脏瓣膜，他已经住院一个多月了，我知道会有出现精神错乱的可能。我心想，这怎么可能是真的呢。
+
+The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. the city would “fulfill to the utmost” its role as a “moat” protecting Beijing
+该市还宣布了一系列限制措施，以遏制疫情及溯源。天津市将履行作为首都疫情防控“护城河”的“应尽职责”
+
+Nursultan Nazarbayev, Kazakhstan’s lifelong leader until he began gradually handing power to a successor in 2019, was, by all appearances, keenly aware of this problem. Mr. Nazarbayev stage-managed his own departure in ways that suggest painstaking attention to the lessons of history, His departure does not appear to have specifically set off Kazakhstan’s protests.
+各种迹象表明，直到2019年才逐渐移交权力给继任者的哈萨克斯坦终身领导人努尔苏丹·纳扎尔巴耶夫显然很清楚这一点。 纳扎尔巴耶夫对自己的离任进行了精心安排，表现出他对历史教训的极其重视,他的离任似乎并非哈萨克斯坦抗议活动的导火索。
+
+But now that Mr. Djokovic has been released and his visa restored — after a blistering hearing before a federal judge on Monday. Mr. Morrison’s eagerness to portray him as an arrogant violator of Australia’s egalitarian ideals has started to look like an unforced error.
+但一名联邦法官在本周一举行了一场言辞激烈的法庭听证后，德约科维奇现已获释，他的签证也已恢复了效力。莫里森急于将德约科维奇描绘成一个违反了澳大利亚平等主义理想的傲慢之人，这看起来已开始像一个“非受迫性失误”（网球术语）
+
+The prime minister now faces a difficult choice: whether to double down, or to fold and let Mr. Djokovic try to win his 10th title in the Australian Open, which starts on Monday.
+莫里森现在面临一个艰难选择：是继续加注，还是弃牌，让德约科维奇在下周一开始的澳大利亚网球公开赛上努力夺取他的第10个冠军。
+
+But what may seem like a perilous episode from a bygone era will be front and center this week in global diplomacy
+然而，就是这样一个看似发生在过去时代的危险事件，本周将成为全球外交焦点
+
+Russia has made a list of far-reaching demands: that NATO pledge to halt further eastward expansion and pull back its troops from NATO members bordering Russia
+俄罗斯提出了一系列意义深远的要求：北约承诺停止进一步东扩，并从与俄罗斯接壤的北约成员国撤军
+
+Essentially, Mr. Putin is seeking to redraw the post-Cold War boundaries of Europe, establishing a broad, Russian-dominated security zone and pulling Ukraine back into Moscow’s orbit by force, if necessary.
+从本质上说，普京是在寻求重新划定冷战后的欧洲边界，建立一个由俄罗斯主导的广阔安全区，并在必要时用武力将乌克兰拉回莫斯科的轨道。
+
+Now 69 years old and edging toward the twilight of his political career, Mr. Putin is determined to burnish his legacy and to correct what he has long viewed as the greatest catastrophe of the 20th century: the disintegration of the former Soviet Union.
+现年69岁的普京已接近其政治生涯的尾声，他决心为自己的政治遗产增色，并纠正他长期以来心目中20世纪的最大灾难：前苏联解体。
+
+But while some analysts have portrayed Mr. Putin as a wily chess player adroitly manipulating the West, his latest gambit could backfire. if Mr. Putin’s aim is to reassert Russia’s sphere of influence
+不过，尽管一些分析人士把普京描绘成一个狡猾的棋手，巧妙地操纵着西方，他的最新举措可能会适得其反。如果普京的目标是重新确立俄罗斯的势力范围
+
+How the United States handles Russia and Ukraine will affect its ongoing efforts at rebuilding frayed ties with NATO allies after the Trump presidency. What’s at stake for Europe?
+在特朗普任期结束后，美国努力重建与北约盟国的受损关系，该国如何处理俄罗斯和乌克兰将对这一重建努力产生影响。对于欧洲有哪些利害攸关？
+
+The virus-free cocoon Mr. Putin has tried to establish around himself has meant that even confidants are forced to spend days in quarantine before being allowed into the same room with him, further reducing his connections with the outside world.
+普京试图在自己周围建立一个没有病毒的保护圈，这意味着即使是密友也得在隔离几天后，才能获准与他共处一室，这进一步减少了他与外部世界的联系
+
+we need at least something, at least a legally binding agreement rather than just verbal assurances.
+我们至少需要一些东西，至少需要一个具有法律约束力的协议，而不仅仅是口头保证
+
+He assumes that the Americans will pay attention only to that which concretely, immediately threatens them, He uses unpredictability, he uses tension, he uses threats.
+他认为，美国人只会关注那些直接威胁到他们的具体事情，他在利用不可预测性、紧张感和威胁
+
+NATO has repeatedly ruled out the idea that it would allow any other country to veto who can and cannot be in the alliance, creating what appears to be an impasse. 
+北约多次排除了允许其他国家对谁能加入北约行使否决权的想法，这似乎造成了一个僵局
+
+He receives this or that information, Those who provide it don’t exert their own influence and don’t know how it’s going to work out.
+他会收到这样或那样的信息，那些提供帮助的人不会施加自己的影响，也不知道结果会怎样
+
+At first, I didn’t recognize the symptoms that we all had in common. Friends mentioned that they were having trouble concentrating. It wasn’t burnout — we still had energy. It wasn’t depression — we didn’t feel hopeless. We just felt somewhat joyless and aimless. It turns out there’s a name for that: languishing.
+一开始，我没有意识到这个我们共有的症状。朋友们说自己很难集中注意力。这并不是倦怠——我们还有精力。这也不是抑郁——我们没有感到绝望。我们只是感到有些无趣、没有目标。这种现象有一个名字：萎靡(languishing)。
+
+Colleagues reported that even with vaccines on the horizon, they weren’t excited about 2021.
+同事们说即使疫苗即将问世，他们对2021年也没多少期待。
+
+Even now, despite my constant horror at this country’s punch-drunk disintegration, I find the idea of a total meltdown hard to wrap my mind around.
+即使是现在，尽管无时无刻都害怕这个国家会稀里糊涂地走向分裂，我也还是很难想象美国会彻底崩溃
+
+given the history of federal confrontations with the far right at Waco, Ruby Ridge and the Malheur National Wildlife Refuge, I suspect an American president determined to break up a sovereign citizen encampment would send the F.B.I., not an Army general relying on counterinsurgency doctrine.
+鉴于联邦政府在韦科、红宝石山脊和马卢尔国家野生动物保护区与极右翼势力对抗的历史，我认为一位下定决心解散某个公民自治营地的美国总统会派遣联邦调查局，而不是遵循平叛作战原则的军人出面处理。
+
+No longer content with upsetting the West, Mr. Putin is now trying to force it to agree to a new global dispensation, with Russia restored to eminence. It doesn’t stop there, though. 
+普京不再满足于惹恼西方，他现在正试图迫使西方同意一种新的全球格局，让俄罗斯恢复其显赫地位。但还不止于此。
+
+In this free-for-all, Mr. Putin — mercurial master of suspense and the sudden move — can pursue his fusion of geopolitical power and personal rule.
+在这场混战中，普京——这位反复无常的悬念与突然之举的大师——可以寻求地缘政治力量和个人统治的融合
+
+So far, the Kremlin has been extremely lucky, or extraordinarily skilled, in playing a weak hand without aces up its sleeve. It deals with a Western establishment determined to maintain the status quo, even if that means accommodation. Mr. Putin no doubt senses the advantage.
+到目前为止，克里姆林宫一直非常幸运，或者说非常有技巧，在没有王牌的情况下把一手烂牌打得很好。它面对的是一个哪怕妥协也要坚持维持现状的西方集团。普京无疑意识到了这一优势。
+
