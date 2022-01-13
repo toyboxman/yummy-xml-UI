@@ -298,48 +298,89 @@ Russia has made a list of far-reaching demands: that NATO pledge to halt further
 Essentially, Mr. Putin is seeking to redraw the post-Cold War boundaries of Europe, establishing a broad, Russian-dominated security zone and pulling Ukraine back into Moscow’s orbit by force, if necessary.
 从本质上说，普京是在寻求重新划定冷战后的欧洲边界，建立一个由俄罗斯主导的广阔安全区，并在必要时用武力将乌克兰拉回莫斯科的轨道。
 
-Now 69 years old and edging toward the twilight of his political career, Mr. Putin is determined to burnish his legacy and to correct what he has long viewed as the greatest catastrophe of the 20th century: the disintegration of the former Soviet Union.
+Now 69 years old and **edging toward the twilight of** his political career, Mr. Putin **is determined to burnish his legacy** and to correct what he has long viewed as the greatest **catastrophe** of the 20th century: the **disintegration** of the former Soviet Union.
+>burnish[ˈbɜrnɪʃ] 擦亮；抛光；打磨
+
 现年69岁的普京已接近其政治生涯的尾声，他决心为自己的政治遗产增色，并纠正他长期以来心目中20世纪的最大灾难：前苏联解体。
 
-But while some analysts have portrayed Mr. Putin as a wily chess player adroitly manipulating the West, his latest gambit could backfire. if Mr. Putin’s aim is to reassert Russia’s sphere of influence
+But while some analysts have **portrayed** Mr. Putin as a **wily chess player adroitly manipulating the West**, his latest **gambit** could backfire. if Mr. Putin’s aim is to **reassert Russia’s sphere of influence**
+>wily[ˈwaɪli] 狡猾的；诡计多端的  
+>adroitly[ə'drɔɪtlɪ] 手脚利索；调皮地；熟练地；敏捷地  
+>gambit 开局；开场白  
+>sphere of influence 势力范围
+
 不过，尽管一些分析人士把普京描绘成一个狡猾的棋手，巧妙地操纵着西方，他的最新举措可能会适得其反。如果普京的目标是重新确立俄罗斯的势力范围
 
-How the United States handles Russia and Ukraine will affect its ongoing efforts at rebuilding frayed ties with NATO allies after the Trump presidency. What’s at stake for Europe?
+How the United States handles Russia and Ukraine will affect its ongoing efforts at **rebuilding frayed ties with** NATO allies after the Trump presidency. What’s **at stake** for Europe?
+>frayed[freɪd] 磨破的；神经紧张的
+
 在特朗普任期结束后，美国努力重建与北约盟国的受损关系，该国如何处理俄罗斯和乌克兰将对这一重建努力产生影响。对于欧洲有哪些利害攸关？
 
-The virus-free cocoon Mr. Putin has tried to establish around himself has meant that even confidants are forced to spend days in quarantine before being allowed into the same room with him, further reducing his connections with the outside world.
+The **virus-free cocoon** Mr. Putin has tried to establish around himself has meant that even **confidants** are forced to spend days **in quarantine** before being allowed into the same room with him, further reducing his connections with the outside world.
+>cocoon[kəˈkun] 茧；保护膜；防护层; 把…包围起来保护
+
 普京试图在自己周围建立一个没有病毒的保护圈，这意味着即使是密友也得在隔离几天后，才能获准与他共处一室，这进一步减少了他与外部世界的联系
 
-we need at least something, at least a legally binding agreement rather than just verbal assurances.
+we need at least something, at least a **legally binding agreement rather than just verbal assurances**.
+>legally binding 具有法律约束力的
+
 我们至少需要一些东西，至少需要一个具有法律约束力的协议，而不仅仅是口头保证
 
-He assumes that the Americans will pay attention only to that which concretely, immediately threatens them, He uses unpredictability, he uses tension, he uses threats.
+He assumes that the Americans will pay attention only to that which **concretely, immediately** threatens them, He uses **unpredictability**, he uses tension, he uses threats.  
 他认为，美国人只会关注那些直接威胁到他们的具体事情，他在利用不可预测性、紧张感和威胁
 
-NATO has repeatedly ruled out the idea that it would allow any other country to veto who can and cannot be in the alliance, creating what appears to be an impasse. 
+NATO has repeatedly **ruled out the idea** that it would allow any other country to veto who can and cannot be in the alliance, **creating what appears to be an impasse**. 
+>rule out 排除  
+>impasse[ˈɪmˌpæs] 僵局；绝境
+
 北约多次排除了允许其他国家对谁能加入北约行使否决权的想法，这似乎造成了一个僵局
 
-He receives this or that information, Those who provide it don’t exert their own influence and don’t know how it’s going to work out.
+He receives this or that information, Those who provide it don’t **exert their own influence** and don’t know how it’s going to work out.
+>exert[ɪɡˈzɜrt] 施加；努力；运用；行使; 发挥；尽力
+
 他会收到这样或那样的信息，那些提供帮助的人不会施加自己的影响，也不知道结果会怎样
 
-At first, I didn’t recognize the symptoms that we all had in common. Friends mentioned that they were having trouble concentrating. It wasn’t burnout — we still had energy. It wasn’t depression — we didn’t feel hopeless. We just felt somewhat joyless and aimless. It turns out there’s a name for that: languishing.
+At first, I didn’t recognize the symptoms that we all had in common. Friends mentioned that they were **having trouble concentrating**. It wasn’t **burnout** — we still had energy. It wasn’t **depression** — we didn’t feel hopeless. We just felt somewhat **joyless and aimless**. It turns out there’s a name for that: **languishing**.
+>languishing['læŋgwɪʃɪŋ] 日趋衰弱的
+
 一开始，我没有意识到这个我们共有的症状。朋友们说自己很难集中注意力。这并不是倦怠——我们还有精力。这也不是抑郁——我们没有感到绝望。我们只是感到有些无趣、没有目标。这种现象有一个名字：萎靡(languishing)。
 
-Colleagues reported that even with vaccines on the horizon, they weren’t excited about 2021.
+Colleagues reported that even with vaccines **on the horizon**, they weren’t excited about 2021.
+>on the horizon 即将来临的；刚刚冒出地平线
+
 同事们说即使疫苗即将问世，他们对2021年也没多少期待。
 
-Even now, despite my constant horror at this country’s punch-drunk disintegration, I find the idea of a total meltdown hard to wrap my mind around.
+Even now, despite my **constant horror** at this country’s **punch-drunk disintegration**, I find the idea of a **total meltdown hard to wrap my mind around**.
+>constant horror 无时无刻害怕  
+>punch-drunk 被击晕的；晕头转向的；思维混乱的  
+>wrap my mind around 理清思路；意识到；想到
+
 即使是现在，尽管无时无刻都害怕这个国家会稀里糊涂地走向分裂，我也还是很难想象美国会彻底崩溃
 
-given the history of federal confrontations with the far right at Waco, Ruby Ridge and the Malheur National Wildlife Refuge, I suspect an American president determined to break up a sovereign citizen encampment would send the F.B.I., not an Army general relying on counterinsurgency doctrine.
+**Given** the history of federal **confrontations with** the far right at Waco, Ruby Ridge and the Malheur National **Wildlife Refuge**, I suspect an American president determined to **break up a sovereign citizen encampment** would send the F.B.I., not an Army general relying on **counterinsurgency doctrine**.
+>encampment[ɪnˈkæmpmənt] 营地；露营  
+>counterinsurgency[ˌkaʊntərɪnˈsɜrdʒənsi] 镇压叛乱  
+>doctrine[ˈdɑktrɪn] 教条；原则；教旨
+
 鉴于联邦政府在韦科、红宝石山脊和马卢尔国家野生动物保护区与极右翼势力对抗的历史，我认为一位下定决心解散某个公民自治营地的美国总统会派遣联邦调查局，而不是遵循平叛作战原则的军人出面处理。
 
-No longer content with upsetting the West, Mr. Putin is now trying to force it to agree to a new global dispensation, with Russia restored to eminence. It doesn’t stop there, though. 
+**No longer content with upsetting** the West, Mr. Putin is now trying to force it to agree to a new global **dispensation**, with Russia restored to **eminence. It doesn’t stop there, though**.
+>content with 满足于；对……感到满足；满意  
+>dispensation[ˌdɪspənˈseɪʃ(ə)n] 分配；制度  
+>eminence[ˈemɪnəns] 隆起；显赫；鼎鼎大名；卓越；著名；杰出
+
 普京不再满足于惹恼西方，他现在正试图迫使西方同意一种新的全球格局，让俄罗斯恢复其显赫地位。但还不止于此。
 
-In this free-for-all, Mr. Putin — mercurial master of suspense and the sudden move — can pursue his fusion of geopolitical power and personal rule.
+In this **free-for-all**, Mr. Putin — **mercurial master** of suspense and the sudden move — can pursue his **fusion of** geopolitical power and personal rule.
+>free-for-all 混战；自由厮杀  
+>mercurial[mərˈkjʊriəl] 多变的；变幻莫测的；活泼的；机智的; 含水银的
+
 在这场混战中，普京——这位反复无常的悬念与突然之举的大师——可以寻求地缘政治力量和个人统治的融合
 
-So far, the Kremlin has been extremely lucky, or extraordinarily skilled, in playing a weak hand without aces up its sleeve. It deals with a Western establishment determined to maintain the status quo, even if that means accommodation. Mr. Putin no doubt senses the advantage.
+So far, the Kremlin has been **extremely lucky, or extraordinarily skilled**, in **playing a weak hand without aces up its sleeve**. It deals with a Western establishment determined to **maintain the status quo**, even if that means **accommodation**. Mr. Putin **no doubt senses** the advantage.
+>aces up its sleeve 王牌在手中  
+>tricks up its sleeve 锦囊妙计  
+>no doubt 毫无疑问；必定
+
 到目前为止，克里姆林宫一直非常幸运，或者说非常有技巧，在没有王牌的情况下把一手烂牌打得很好。它面对的是一个哪怕妥协也要坚持维持现状的西方集团。普京无疑意识到了这一优势。
 
