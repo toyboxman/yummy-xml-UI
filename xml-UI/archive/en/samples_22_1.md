@@ -256,46 +256,81 @@ As Fitzgerald wrote, we will always be **a sucker for the orgastic future** that
 
 正如菲茨杰拉德所写，我们将永远沉迷于一年年在我们眼前渐渐远去的极乐未来。
 
-A 57-year-old man with life-threatening heart disease has received a heart from a genetically modified pig, a groundbreaking procedure that offers hope to hundreds of thousands of patients with failing organs.
+A 57-year-old man with **life-threatening heart disease** has received a heart from a **genetically modified** pig, a **groundbreaking** procedure that offers hope to hundreds of thousands of patients with **failing organs**.
+>failing organs 器官衰竭
+
 一名因患心脏病有生命危险的57岁男子移植了来自一只经过基因改造的猪的心脏，这项开创性的手术为数十万器官衰竭的患者带来了希望。
 
-Scientists have worked feverishly to develop pigs whose organs would not be rejected by the human body, research accelerated in the past decade by new gene editing and cloning technologies. 
+Scientists have **worked feverishly** to develop pigs whose organs would not be rejected by the human body, research accelerated in the past decade by new **gene editing and cloning technologies**. 
+>feverishly[ˈfivəˌrɪʃlɪ] 狂热地；激动地；疯狂地
+
 科学家们一直在努力培育器官不会在人体内产生排斥反应的猪，过去10年中，新的基因编辑和克隆技术加速了研究。
 
-This is a watershed event, Doors are starting to open that will lead, I believe, to major changes in how we treat organ failure. Events like these can be dramatized in the press, and it’s important to maintain perspective, It takes a long time to mature a therapy like this.
+This is a **watershed event**, Doors are starting to open that will lead, I believe, to major changes in how we treat organ failure. Events like these can be **dramatized** in the press, and it’s important to maintain perspective, It takes a long time to **mature a therapy** like this.
+>watershed 分水岭  
+>dramatize[ˈdræməˌtaɪz] 改编为剧本；演戏似地表现；把…戏剧化；使引人注目
+
 这是一个分水岭事件，我相信，机会的大门正在打开，这将使我们治疗器官衰竭的方式发生重大变化。像这样的事件在媒体上可能被夸大，保持客观很重要，这样的治疗需要很长时间才能成熟。
 
-The new heart is functioning and already doing most of the work, and his doctors said he could be taken off the machine on Tuesday. It was either die or do this transplant, I know it’s a shot in the dark, but it’s my last choice.
+The new heart is **functioning** and already doing most of the work, and his doctors said he could **be taken off** the machine on Tuesday. It was either die or do this transplant, I know it’s **a shot in the dark**, but it’s my last choice.
+>a shot in the dark 一线希望
+
 新的心脏正在运作并且已经自主完成了大部分工作，他的医生说他有可能在周二离开机器。要么死，要么做移植手术。我知道这是闭眼一博，但这是我最后的选择
 
-In the 1960s, chimpanzee kidneys were transplanted into some human patients, but the longest a recipient lived was nine months. Pigs offer advantages over primates for organ procurements, because they are easier to raise and achieve adult human size in six months. 
+In the 1960s, **chimpanzee kidneys** were transplanted into some human patients, but the longest a recipient lived was nine months. Pigs offer advantages over **primates for organ procurements**, because they are easier to raise and **achieve adult human size** in six months. 
+>primate 灵长类  
+>procurement[prəˈkjʊrmənt] 获得；采购管理；取得
+
 在1960年代，黑猩猩的肾脏被移植到一些人类患者体内，但接受者最长存活了9个月。相较于灵长类动物，猪在器官供源上有优势，因为猪更易于培育，可以在六个月内达到成年人类器官的大小。
 
-The pig had 10 genetic modifications. Four genes were knocked out, or inactivated, including one that encodes a molecule that causes an aggressive human rejection response.
+The pig had 10 **genetic modifications**. Four genes were **knocked out, or inactivated**, including one that encodes a **molecule** that causes an aggressive human rejection response.  
 这只猪进行了10处基因修改。四个基因被剔除或失活，其中一个携带了一种可导致剧烈人体排斥反应的分子的编码。
 
-his father had had a pig’s valve inserted about a decade ago, He’d been in the hospital a month or more, and I knew delirium could set in. I thought, no way, shape or form is that happening.
+his father **had had a pig’s valve inserted** about a decade ago, He’d been in the hospital a month or more, and I knew **delirium could set in**. I thought, no way, shape or form is that happening.
+>delirium[dɪˈlɪriəm] 神志失常  
+
 父亲在大约十年前植入了猪心脏瓣膜，他已经住院一个多月了，我知道会有出现精神错乱的可能。我心想，这怎么可能是真的呢。
 
-The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. the city would “fulfill to the utmost” its role as a “moat” protecting Beijing
+The city also announced **a raft of restrictions** in an effort to **contain the outbreak and trace its source**. the city would “**fulfill to the utmost**” its role as a “**moat**” protecting Beijing
+>a raft of 大量的；很多的  
+>raft 木筏；救生艇；竹筏  
+>moat[moʊt] 护城河; 壕沟
+
 该市还宣布了一系列限制措施，以遏制疫情及溯源。天津市将履行作为首都疫情防控“护城河”的“应尽职责”
 
-Nursultan Nazarbayev, Kazakhstan’s lifelong leader until he began gradually handing power to a successor in 2019, was, by all appearances, keenly aware of this problem. Mr. Nazarbayev stage-managed his own departure in ways that suggest painstaking attention to the lessons of history, His departure does not appear to have specifically set off Kazakhstan’s protests.
+Nursultan Nazarbayev, Kazakhstan’s **lifelong leader** until he began **gradually handing power to a successor** in 2019, was, **by all appearances, keenly aware of this problem**. Mr. Nazarbayev **stage-managed his own departure** in ways that suggest **painstaking attention** to the lessons of history, His departure does not appear to have **specifically set off** Kazakhstan’s protests.
+>by all appearances 显然地  
+>keenly[ˈkinli] 敏锐地；强烈地  
+>stage-manage 精心安排；刻意安排  
+>painstaking[ˈpeɪnzˌteɪkɪŋ] 费力的；煞费苦心的; 需专注的
+
 各种迹象表明，直到2019年才逐渐移交权力给继任者的哈萨克斯坦终身领导人努尔苏丹·纳扎尔巴耶夫显然很清楚这一点。 纳扎尔巴耶夫对自己的离任进行了精心安排，表现出他对历史教训的极其重视,他的离任似乎并非哈萨克斯坦抗议活动的导火索。
 
-But now that Mr. Djokovic has been released and his visa restored — after a blistering hearing before a federal judge on Monday. Mr. Morrison’s eagerness to portray him as an arrogant violator of Australia’s egalitarian ideals has started to look like an unforced error.
+But now that Mr. Djokovic has been released and his visa restored — after a **blistering hearing** before a federal judge on Monday. Mr. Morrison’s **eagerness** to portray him as an **arrogant violator** of Australia’s **egalitarian ideals** has started to look like an **unforced error**.
+>blistering[ˈblɪstərɪŋ] 迅速的；言辞激烈的  
+>arrogant[ˈærəɡənt] 傲慢的；自大的  
+>egalitarian[ɪˌɡælɪˈteriən] 平等主义者；平均主义；主张平等的
+
 但一名联邦法官在本周一举行了一场言辞激烈的法庭听证后，德约科维奇现已获释，他的签证也已恢复了效力。莫里森急于将德约科维奇描绘成一个违反了澳大利亚平等主义理想的傲慢之人，这看起来已开始像一个“非受迫性失误”（网球术语）
 
-The prime minister now faces a difficult choice: whether to double down, or to fold and let Mr. Djokovic try to win his 10th title in the Australian Open, which starts on Monday.
+The prime minister now **faces a difficult choice: whether to double down, or to fold** and let Mr. Djokovic try to win his 10th title in the Australian Open, which starts on Monday.
+>double down or fold 双倍加注或盖牌
+
 莫里森现在面临一个艰难选择：是继续加注，还是弃牌，让德约科维奇在下周一开始的澳大利亚网球公开赛上努力夺取他的第10个冠军。
 
-But what may seem like a perilous episode from a bygone era will be front and center this week in global diplomacy
+But what may seem like a **perilous episode** from a **bygone era** will be front and center this week in global diplomacy
+>episode 片段；一段情节；事件  
+>perilous[ˈperələs] 危险的；艰险的  
+>bygone 很久以前的；以往的
+
 然而，就是这样一个看似发生在过去时代的危险事件，本周将成为全球外交焦点
 
-Russia has made a list of far-reaching demands: that NATO pledge to halt further eastward expansion and pull back its troops from NATO members bordering Russia
+Russia has made a list of **far-reaching demands**: that NATO **pledge to halt further eastward expansion** and pull back its troops from NATO members bordering Russia
+>far-reaching 影响长远的；意义深远的
+
 俄罗斯提出了一系列意义深远的要求：北约承诺停止进一步东扩，并从与俄罗斯接壤的北约成员国撤军
 
-Essentially, Mr. Putin is seeking to redraw the post-Cold War boundaries of Europe, establishing a broad, Russian-dominated security zone and pulling Ukraine back into Moscow’s orbit by force, if necessary.
+**Essentially**, Mr. Putin is seeking to **redraw the post-Cold War boundaries** of Europe, establishing a broad, Russian-dominated security zone and **pulling Ukraine back into Moscow’s orbit by force**, if necessary.  
 从本质上说，普京是在寻求重新划定冷战后的欧洲边界，建立一个由俄罗斯主导的广阔安全区，并在必要时用武力将乌克兰拉回莫斯科的轨道。
 
 Now 69 years old and **edging toward the twilight of** his political career, Mr. Putin **is determined to burnish his legacy** and to correct what he has long viewed as the greatest **catastrophe** of the 20th century: the **disintegration** of the former Soviet Union.
