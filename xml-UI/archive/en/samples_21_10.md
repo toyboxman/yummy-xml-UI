@@ -25,7 +25,7 @@ Xu Jiayin was China’s richest man, a symbol of the country’s economic rise w
 >metropolis[məˈtrɒp(ə)ləs] 大城市；大都会  
 >fledgling[ˈfledʒlɪŋ] 幼鸟；初出茅庐的人；无经验的组织；新体系  
 >amass[əˈmæs] 积累; 积聚  
->trappings[ˈtræpɪŋz] 服装; 服饰；装饰 
+>trappings[ˈtræpɪŋz] 服装; 服饰；装饰  
 >yacht[jɑt] 游艇
 
 中国曾经的首富许家印是该国经济崛起的象征，他帮助贫困的村庄转变为新兴中产阶级的城市化大都市。他过着精英的生活，去巴黎品尝稀有的法国葡萄酒，拥有价值百万美元的游艇、私人飞机
