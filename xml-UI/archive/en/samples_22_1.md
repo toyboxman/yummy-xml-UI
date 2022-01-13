@@ -19,327 +19,327 @@
 *
 *
 
-After its 2017 elections, **with support fragmented** among many parties, it took Germany six months to **cobble** together a governing coalition, the longest time in the country¡¯s history.
->fragment ËéÆ¬£»µ¯Æ¬£»Ğ¡¿é£»ËÄ·ÖÎåÁÑ£»Ê¹³ÉËéÆ¬  
->cobble[?k¨»b(?)l] Ô²Ê¯£»¶ìÂÑÊ¯
+After its 2017 elections, **with support fragmented** among many parties, it took Germany six months to **cobble** together a governing coalition, the longest time in the countryâ€™s history.
+>fragment ç¢ç‰‡ï¼›å¼¹ç‰‡ï¼›å°å—ï¼›å››åˆ†äº”è£‚ï¼›ä½¿æˆç¢ç‰‡  
+>cobble[ËˆkÉ‘b(É™)l] åœ†çŸ³ï¼›é¹…åµçŸ³
 
-ÔÚ2017Äê´óÑ¡ºó£¬ÓÉÓÚÑ¡Æ±·ÖÉ¢µ½ÁËĞí¶àÕşµ³Ö®ÖĞ£¬µÂ¹úÓÃÁËÁù¸öÔÂÊ±¼ä²Å×é½¨³öÒ»¸öÖ´ÕşÁªÃË£¬ºÄÊ±´´ÔìÁË¸Ã¹úµÄÀúÊ·¼ÇÂ¼¡£
+åœ¨2017å¹´å¤§é€‰åï¼Œç”±äºé€‰ç¥¨åˆ†æ•£åˆ°äº†è®¸å¤šæ”¿å…šä¹‹ä¸­ï¼Œå¾·å›½ç”¨äº†å…­ä¸ªæœˆæ—¶é—´æ‰ç»„å»ºå‡ºä¸€ä¸ªæ‰§æ”¿è”ç›Ÿï¼Œè€—æ—¶åˆ›é€ äº†è¯¥å›½çš„å†å²è®°å½•ã€‚
 
 The recent collapse of Build Back Better, **at least for now**, led to a remarkable public **bloodletting** between different elements within the party.
->bloodletting É±Â¾£»ÉËº¦£»·ÅÑªÁÆ·¨
+>bloodletting æ€æˆ®ï¼›ä¼¤å®³ï¼›æ”¾è¡€ç–—æ³•
 
-ÖÁÉÙ¾ÍÄ¿Ç°¶øÑÔ£¬¡¶ÖØ½¨¸üÃÀºÃÎ´À´¡·Ìá°¸×î½üÔâÊÜµÄÊ§°Ü£¬µ¼ÖÂÁËµ³ÄÚ²»Í¬ÅÉÏµÖ®¼äµÄ¶ñ¶·±»¹«²¼ÓÚÖÚ¡£
+è‡³å°‘å°±ç›®å‰è€Œè¨€ï¼Œã€Šé‡å»ºæ›´ç¾å¥½æœªæ¥ã€‹ææ¡ˆæœ€è¿‘é­å—çš„å¤±è´¥ï¼Œå¯¼è‡´äº†å…šå†…ä¸åŒæ´¾ç³»ä¹‹é—´çš„æ¶æ–—è¢«å…¬å¸ƒäºä¼—ã€‚
 
 Last year at this time, **optimistic trend forecasters predicted** that the **cork would burst from the bottle** by summer. With vaccines in arms, food culture would **vibrate in a robust economy**.
->cork[k?rk] Ä¾Ë¨£»ËÜÁÏÈû  
->vibrate[?va??bre?t] ²ü¶¯; Õñ¶¯£»Ò¡°Ú£»Õğ¶¯
+>cork[kÉ”rk] æœ¨æ “ï¼›å¡‘æ–™å¡  
+>vibrate[ËˆvaÉªËŒbreÉªt] é¢¤åŠ¨; æŒ¯åŠ¨ï¼›æ‘‡æ‘†ï¼›éœ‡åŠ¨
 
-È¥ÄêÕâ¸öÊ±ºò£¬ÀÖ¹ÛµÄ³±Á÷Ô¤²âÈÏÎª£¬µ½ÏÄÌì¾Í¿ÉÒÔ¿ªÏãéÄÁË¡£ÓĞÁËÒßÃç¼Ó³Ö£¬ÃÀÊ³ÎÄ»¯½«ÔÚ¼áÍ¦µÄ¾­¼Ã»·¾³ÏÂĞËÍú·¢Õ¹¡£
+å»å¹´è¿™ä¸ªæ—¶å€™ï¼Œä¹è§‚çš„æ½®æµé¢„æµ‹è®¤ä¸ºï¼Œåˆ°å¤å¤©å°±å¯ä»¥å¼€é¦™æ§Ÿäº†ã€‚æœ‰äº†ç–«è‹—åŠ æŒï¼Œç¾é£Ÿæ–‡åŒ–å°†åœ¨åšæŒºçš„ç»æµç¯å¢ƒä¸‹å…´æ—ºå‘å±•ã€‚
 
-Clearly, the prediction game can be a losing one. **But so what if things didn¡¯t turn out like everyone thought they would?**  
-ÏÔÈ»£¬Ô¤ÑÔÕâÖÖÊÂÊÇ»á±»´òÁ³µÄ¡£ÄÇÃ´ÊÂÇéÃ»ÓĞÏñ´ó¼ÒÏëµÄÄÇÑù·¢Õ¹£¬ÓÖÔõÃ´ÑùÄØ£¿
+Clearly, the prediction game can be a losing one. **But so what if things didnâ€™t turn out like everyone thought they would?**  
+æ˜¾ç„¶ï¼Œé¢„è¨€è¿™ç§äº‹æ˜¯ä¼šè¢«æ‰“è„¸çš„ã€‚é‚£ä¹ˆäº‹æƒ…æ²¡æœ‰åƒå¤§å®¶æƒ³çš„é‚£æ ·å‘å±•ï¼Œåˆæ€ä¹ˆæ ·å‘¢ï¼Ÿ
 
 And a special **citation** for those who saw early on that those **ripples of veganism** would become a **plant-based tsunami**.
->citation[sa??te??(?)n] ÒıÎÄ£»ÒıÖ¤£»ÒıÊö£»ÒıÓï  
->veganism ËØÊ³Ö÷Òå  
->ripple ²¨ÎÆ£»Á°äô£»Ï¸ÀË  
->plant-based ½¡¿µÊ³Æ·
+>citation[saÉªËˆteÉªÊƒ(É™)n] å¼•æ–‡ï¼›å¼•è¯ï¼›å¼•è¿°ï¼›å¼•è¯­  
+>veganism ç´ é£Ÿä¸»ä¹‰  
+>ripple æ³¢çº¹ï¼›æ¶Ÿæ¼ªï¼›ç»†æµª  
+>plant-based å¥åº·é£Ÿå“
 
-»¹ÓĞĞèÒªÌØ±ğÖÂ¾´µÄÊÇ£¬ÄÇĞ©ÔçÔçÒâÊ¶µ½´¿ËØÖ÷ÒåÁ°äô»á·¢Õ¹³ÉÖ²Îï»ùÊ³Æ·º£Ğ¥µÄÈË¡£
+è¿˜æœ‰éœ€è¦ç‰¹åˆ«è‡´æ•¬çš„æ˜¯ï¼Œé‚£äº›æ—©æ—©æ„è¯†åˆ°çº¯ç´ ä¸»ä¹‰æ¶Ÿæ¼ªä¼šå‘å±•æˆæ¤ç‰©åŸºé£Ÿå“æµ·å•¸çš„äººã€‚
 
 2022 will be another **pragmatic, roll-up-your sleeves** kind of year
->roll up sleeves ¾íÆğĞä×Ó
+>roll up sleeves å·èµ·è¢–å­
 
-2022Äê»áÊÇÓÖÒ»¸öÎñÊµµÄ¡¢½ÅÌ¤ÊµµØµÄÄêÍ·
+2022å¹´ä¼šæ˜¯åˆä¸€ä¸ªåŠ¡å®çš„ã€è„šè¸å®åœ°çš„å¹´å¤´
 
 The number of small urban farms **growing mushrooms** is expected to **bloom**, and mushroom **fibers** will start to **proliferate as a cheap, compostable** medium for packaging.
->fiber[?fa?b?r] ÏËÎ¬£»¹âÏË£»ÏËÎ¬ËØ  
->mushroom fibers ¾úË¿  
->proliferate[pr??l?f??re?t] Ñ¸ËÙ·±Ö³£»ÃÍÔö  
->compostable[?k?mp?st?bl] ¿É½µ½âµÄ£»¿ÉÒÔÖÆ×÷³É·ÊÁÏµÄ
+>fiber[ËˆfaÉªbÉ™r] çº¤ç»´ï¼›å…‰çº¤ï¼›çº¤ç»´ç´   
+>mushroom fibers èŒä¸  
+>proliferate[prÉ™ËˆlÉªfÉ™ËŒreÉªt] è¿…é€Ÿç¹æ®–ï¼›çŒ›å¢  
+>compostable[ËˆkÉ’mpÉ’stÉ™bl] å¯é™è§£çš„ï¼›å¯ä»¥åˆ¶ä½œæˆè‚¥æ–™çš„
 
-³ÇÊĞÀïµÄĞ¡ĞÍÄ¢¹½ÑøÖ³³¡¹À¼Æ»á´óÁ¿Ôö¼Ó£¬¾úË¿×÷ÎªÁ®¼Û¡¢¿É½µ½âµÄ°ü×°²ÄÁÏ»áÆÕ¼°ÆğÀ´¡£
+åŸå¸‚é‡Œçš„å°å‹è˜‘è‡å…»æ®–åœºä¼°è®¡ä¼šå¤§é‡å¢åŠ ï¼ŒèŒä¸ä½œä¸ºå»‰ä»·ã€å¯é™è§£çš„åŒ…è£…ææ–™ä¼šæ™®åŠèµ·æ¥ã€‚
 
 A **corollary to the cocktails**: the rise of **ecospirits, made with ingredients** from local farms or food waste, and packaged and shipped using climate-friendly methods.
->corollary[?k?r??leri] ÍÆÂÛ£»±ØÈ»µÄ½á¹û  
->ecospirits ÉúÌ¬ÁÒ¾Æ
+>corollary[ËˆkÉ”rÉ™ËŒleri] æ¨è®ºï¼›å¿…ç„¶çš„ç»“æœ  
+>ecospirits ç”Ÿæ€çƒˆé…’
 
-¼¦Î²¾ÆµÄ±ØÈ»Ç÷ÊÆ£ºÉúÌ¬ÁÒ¾ÆĞËÆğ£¬ÕâÖÖ¾ÆÊ¹ÓÃµ±µØÅ©³¡Ê³²Ä»ò·ÏÆúÊ³ÎïÖÆ×÷£¬ÓÃ»·±£·½·¨°ü×°ºÍÔËÊä¡£
+é¸¡å°¾é…’çš„å¿…ç„¶è¶‹åŠ¿ï¼šç”Ÿæ€çƒˆé…’å…´èµ·ï¼Œè¿™ç§é…’ä½¿ç”¨å½“åœ°å†œåœºé£Ÿææˆ–åºŸå¼ƒé£Ÿç‰©åˆ¶ä½œï¼Œç”¨ç¯ä¿æ–¹æ³•åŒ…è£…å’Œè¿è¾“ã€‚
 
 The quality of **edible spoons, chopsticks, plates, bowls** and cups is **going up** and the price is going down, **signaling the start of** a **full-fledged** edible-packaging revolution **aimed at reducing single-use** containers and plastic waste.
->edible[?ed?b(?)l] ¿ÉÊ³ÓÃµÄ£»¿ÉÒÔ³ÔµÄ  
->full-fledged ³ÉÊìµÄ£»ÍêÈ«ºÏ¸ñµÄ; ÓğÒí·áÂúµÄ
+>edible[ËˆedÉ™b(É™)l] å¯é£Ÿç”¨çš„ï¼›å¯ä»¥åƒçš„  
+>full-fledged æˆç†Ÿçš„ï¼›å®Œå…¨åˆæ ¼çš„; ç¾½ç¿¼ä¸°æ»¡çš„
 
-¿ÉÊ³ÓÃµÄÉ××Ó¡¢¿ê×Ó¡¢ÅÌ×Ó¡¢ÍëºÍ±­×ÓµÄÖÊÁ¿ÔÚÉÏÉı£¬¶ø¼Û¸ñÔÚÏÂ½µ£¬±êÖ¾×ÅÒ»³¡Ê³ÓÃ°ü×°¸ïÃü¿ªÊ¼È«Ãæ¿ªÕ¹£¬Ö¼ÔÚ¼õÉÙÒ»´ÎĞÔÈİÆ÷ºÍËÜÁÏÀ¬»ø¡£
+å¯é£Ÿç”¨çš„å‹ºå­ã€ç­·å­ã€ç›˜å­ã€ç¢—å’Œæ¯å­çš„è´¨é‡åœ¨ä¸Šå‡ï¼Œè€Œä»·æ ¼åœ¨ä¸‹é™ï¼Œæ ‡å¿—ç€ä¸€åœºé£Ÿç”¨åŒ…è£…é©å‘½å¼€å§‹å…¨é¢å¼€å±•ï¼Œæ—¨åœ¨å‡å°‘ä¸€æ¬¡æ€§å®¹å™¨å’Œå¡‘æ–™åƒåœ¾ã€‚
 
-Then they **look around**, the taller pieces of grass **no longer cover** the lower ones. They say, ¡®Oh these are **problematic** too, let¡¯s **mow them down** again.¡¯
->mow[mo?] ÊÕ¸î
+Then they **look around**, the taller pieces of grass **no longer cover** the lower ones. They say, â€˜Oh these are **problematic** too, letâ€™s **mow them down** again.â€™
+>mow[moÊŠ] æ”¶å‰²
 
-È»ºóËûÃÇËÄÏÂ´òÁ¿£¬¸ßÒ»µãµÄ²İ¸Ç²»×¡µÍÒ»µãµÄ²İÁË¡£ËûÃÇ¾ÍËµ£¬¡®àÅ£¬ÕâĞ©Ò²ÓĞÎÊÌâ£¬ÎÒÃÇÔÙ¸îÒ»±é¡£¡¯
+ç„¶åä»–ä»¬å››ä¸‹æ‰“é‡ï¼Œé«˜ä¸€ç‚¹çš„è‰ç›–ä¸ä½ä½ä¸€ç‚¹çš„è‰äº†ã€‚ä»–ä»¬å°±è¯´ï¼Œâ€˜å—¯ï¼Œè¿™äº›ä¹Ÿæœ‰é—®é¢˜ï¼Œæˆ‘ä»¬å†å‰²ä¸€éã€‚â€™
 
-It has **driven a rift** in her relationship with her mother, who was **adamant** that she change her ways. I **feel weak**, like there¡¯s no way for me to show my strength, no way to do something for others.
->rift[r?ft] ÁÑºÛ£»ÁÑÏ¶£»ÁÑ¿Ú  
->adamant[??d?m?nt] ¹ÌÖ´µÄ£»¼á¾öµÄ£»¼á¶¨²»ÒÆµÄ
+It has **driven a rift** in her relationship with her mother, who was **adamant** that she change her ways. I **feel weak**, like thereâ€™s no way for me to show my strength, no way to do something for others.
+>rift[rÉªft] è£‚ç—•ï¼›è£‚éš™ï¼›è£‚å£  
+>adamant[ËˆÃ¦dÉ™mÉ™nt] å›ºæ‰§çš„ï¼›åšå†³çš„ï¼›åšå®šä¸ç§»çš„
 
-ÕâÒ²µ¼ÖÂËıÓëÄ¸Ç×µÄ¹ØÏµ³öÏÖÁÑºÛ£¬ºóÕß¼á³ÖÒªËı¸Ä±äÕâÑùµÄĞĞÎª¡£ÕâÖÖ¸Ğ¾õºÜÎŞÁ¦¡£¸Ğ¾õÄãºÃÏñÃ»ÓĞ°ì·¨·¢Á¦£¬Ã»ÓĞ°ì·¨ÔÙºÍ±ğÈË×öµãÊ²Ã´¡£
+è¿™ä¹Ÿå¯¼è‡´å¥¹ä¸æ¯äº²çš„å…³ç³»å‡ºç°è£‚ç—•ï¼Œåè€…åšæŒè¦å¥¹æ”¹å˜è¿™æ ·çš„è¡Œä¸ºã€‚è¿™ç§æ„Ÿè§‰å¾ˆæ— åŠ›ã€‚æ„Ÿè§‰ä½ å¥½åƒæ²¡æœ‰åŠæ³•å‘åŠ›ï¼Œæ²¡æœ‰åŠæ³•å†å’Œåˆ«äººåšç‚¹ä»€ä¹ˆã€‚
 
 They have **shown up** whenever women **rallied against sexual violence and gender biases** in South Korea. Dozens of young men, **mostly dressed in black, taunted** the protesters, **squealing and chanting**
->taunt[t?nt] ŞÉÂä£»ÈèÂî£»³°Ğ¦£»·í´Ì   
->squeal[skwil] ¼âÉùÌä¿Ş£»·¢³öÁË¼â½Ğ  
->chant[t??nt] Ê¥¸è£»¸èÒ¥£»Ó½³ª; Ò÷³ª£»¸èËÌ
+>taunt[tÉ”nt] å¥šè½ï¼›è¾±éª‚ï¼›å˜²ç¬‘ï¼›è®½åˆº   
+>squeal[skwil] å°–å£°å•¼å“­ï¼›å‘å‡ºäº†å°–å«  
+>chant[tÊƒÃ¦nt] åœ£æ­Œï¼›æ­Œè°£ï¼›å’å”±; åŸå”±ï¼›æ­Œé¢‚
 
-Ã¿µ±º«¹úÅ®ĞÔ¼¯»á·´¶ÔĞÔ±©Á¦ºÍĞÔ±ğÆçÊÓÊ±£¬ËûÃÇ¶¼»áµ½³¡¡£¼¸Ê®ÃûÍ¨³£´©×ÅºÚÉ«ÒÂ·şµÄÄêÇáÄĞ×ÓÈèÂî¿¹ÒéÕß£¬´óÉù¼â½Ğ£¬¸ßºô
+æ¯å½“éŸ©å›½å¥³æ€§é›†ä¼šåå¯¹æ€§æš´åŠ›å’Œæ€§åˆ«æ­§è§†æ—¶ï¼Œä»–ä»¬éƒ½ä¼šåˆ°åœºã€‚å‡ ååé€šå¸¸ç©¿ç€é»‘è‰²è¡£æœçš„å¹´è½»ç”·å­è¾±éª‚æŠ—è®®è€…ï¼Œå¤§å£°å°–å«ï¼Œé«˜å‘¼
 
-Older South Korean men **acknowledge ?benefiting** from a **patriarchal** culture that? had? **marginalized** women. 
->patriarchal[?pe?tri?¨»rk(?)l] ¸¸ÏµµÄ£»¸¸È¨µÄ  
->marginalize[?m¨»rd??n??la?z] Ê¹ÏÔµÃÎ¢²»×ãµÀ£»Ê¹´¦ÓÚ±ßÔµ£»Ê¹ÎŞÊµÈ¨
+Older South Korean men **acknowledge â€‹benefiting** from a **patriarchal** culture thatâ€‹ hadâ€‹ **marginalized** women. 
+>patriarchal[ËŒpeÉªtriËˆÉ‘rk(É™)l] çˆ¶ç³»çš„ï¼›çˆ¶æƒçš„  
+>marginalize[ËˆmÉ‘rdÊ’ÉªnÉ™ËŒlaÉªz] ä½¿æ˜¾å¾—å¾®ä¸è¶³é“ï¼›ä½¿å¤„äºè¾¹ç¼˜ï¼›ä½¿æ— å®æƒ
 
-½ÏÄê³¤µÄº«¹úÄĞĞÔ³ĞÈÏ£¬ËûÃÇ´Ó½«Å®ĞÔ±ßÔµ»¯µÄÄĞÈ¨ÎÄ»¯ÖĞ»ñÒæ¡£
+è¾ƒå¹´é•¿çš„éŸ©å›½ç”·æ€§æ‰¿è®¤ï¼Œä»–ä»¬ä»å°†å¥³æ€§è¾¹ç¼˜åŒ–çš„ç”·æƒæ–‡åŒ–ä¸­è·ç›Šã€‚
 
 As the country has grown richer, such practices have become **a distant memory**. Families now **dote on their daughters**.
->distant memory Ò£Ô¶µÄ¼ÇÒä  
->dote[do?t] Äç°®
+>distant memory é¥è¿œçš„è®°å¿†  
+>dote[doÊŠt] æººçˆ±
 
-Ëæ×Åº«¹ú±äµÃ¸»Ô££¬ÕâĞ©×ö·¨ÒÑ³ÉÎªÒ£Ô¶µÄ¼ÇÒä¡£ÏÖÔÚµÄ¼ÒÍ¥Ò²³è°®Å®¶ù¡£
+éšç€éŸ©å›½å˜å¾—å¯Œè£•ï¼Œè¿™äº›åšæ³•å·²æˆä¸ºé¥è¿œçš„è®°å¿†ã€‚ç°åœ¨çš„å®¶åº­ä¹Ÿå® çˆ±å¥³å„¿ã€‚
 
 The **indebted property giant** China Evergrande Group **held an elaborate red carpet ceremony** on Monday, with **eight cannons firing off confetti** before a cheering crowd
->indebted ¸ºÕ®ÀÛÀÛµÄ  
->elaborate[??l?b(?)r?t] ¾«ĞÄÉè¼ÆµÄ£»¾«ĞÄ¹¹Ë¼µÄ£»¾«ĞÄµÄ  
->cannon[?k?n?n] ´óÅÚ  
->confetti[k?n?feti] (ÔÚ»éÀñ»òÃÀ¹úÆäËûÌØÊâ»î¶¯ÖĞÈöµÄ)Îå²ÊÖ½Ğ¼
+>indebted è´Ÿå€ºç´¯ç´¯çš„  
+>elaborate[ÉªËˆlÃ¦b(É™)rÉ™t] ç²¾å¿ƒè®¾è®¡çš„ï¼›ç²¾å¿ƒæ„æ€çš„ï¼›ç²¾å¿ƒçš„  
+>cannon[ËˆkÃ¦nÉ™n] å¤§ç‚®  
+>confetti[kÉ™nËˆfeti] (åœ¨å©šç¤¼æˆ–ç¾å›½å…¶ä»–ç‰¹æ®Šæ´»åŠ¨ä¸­æ’’çš„)äº”å½©çº¸å±‘
 
-¸ºÕ®ÀÛÀÛµÄ·¿µØ²ú¾ŞÍ·ÖĞ¹úºã´ó¼¯ÍÅÉÏÖÜÒ»¾Ù°ìÁËÒ»³¡Ê¢´óµÄºìÌºÒÇÊ½£¬°ËÃÅÀñÅÚÔÚ»¶ºôµÄÈËÈºÃæÇ°·¢ÉäÁËÎå²ÊçÍ·×µÄÖ½Ğ¼
+è´Ÿå€ºç´¯ç´¯çš„æˆ¿åœ°äº§å·¨å¤´ä¸­å›½æ’å¤§é›†å›¢ä¸Šå‘¨ä¸€ä¸¾åŠäº†ä¸€åœºç››å¤§çš„çº¢æ¯¯ä»ªå¼ï¼Œå…«é—¨ç¤¼ç‚®åœ¨æ¬¢å‘¼çš„äººç¾¤é¢å‰å‘å°„äº†äº”å½©ç¼¤çº·çš„çº¸å±‘
 
-**The Women¡¯s Rights and Interests Protection Law** has been **substantially revised** only once, in 2005, since it was **enacted nearly** three decades ago.
->enact[?n??kt] °çÑİ£»ÖÆ¶¨·¨ÂÉ£»°ä²¼
+**The Womenâ€™s Rights and Interests Protection Law** has been **substantially revised** only once, in 2005, since it was **enacted nearly** three decades ago.
+>enact[ÉªnËˆÃ¦kt] æ‰®æ¼”ï¼›åˆ¶å®šæ³•å¾‹ï¼›é¢å¸ƒ
 
-¸¾Å®È¨Òæ±£ÕÏ·¨×Ô½ü30ÄêÇ°°ä²¼ÒÔÀ´£¬½öÔÚ2005ÄêĞŞ¸Ä¹ıÒ»´Î¡£
+å¦‡å¥³æƒç›Šä¿éšœæ³•è‡ªè¿‘30å¹´å‰é¢å¸ƒä»¥æ¥ï¼Œä»…åœ¨2005å¹´ä¿®æ”¹è¿‡ä¸€æ¬¡ã€‚
 
-This law, **to be honest, is more of a gesture than** a specific plan of operation. The law would also **codify women¡¯s right** to ask for compensation for housework during **divorce proceedings**.
->codify[?ko?d??fa?] ±à×ë£»ÕûÀí£»°Ñ±à¼¯³Éµä  
->proceedings[pr??sid??z] ËßËÏ; Ñ§±¨£»ÊÂÏî£»»á¿¯; »áÒéÂ¼£»ÂÛÎÄ¼¯
+This law, **to be honest, is more of a gesture than** a specific plan of operation. The law would also **codify womenâ€™s right** to ask for compensation for housework during **divorce proceedings**.
+>codify[ËˆkoÊŠdÉªËŒfaÉª] ç¼–çº‚ï¼›æ•´ç†ï¼›æŠŠç¼–é›†æˆå…¸  
+>proceedings[prÉ™ËˆsidÉªÅ‹z] è¯‰è®¼; å­¦æŠ¥ï¼›äº‹é¡¹ï¼›ä¼šåˆŠ; ä¼šè®®å½•ï¼›è®ºæ–‡é›†
 
-Õâ¸ö·¨ËµÊµÔÚµÄ»°£¬¸ü¶àÊÇ¸ö×ËÌ¬£¬¶ø²»ÊÇËµ¾ßÌå²Ù×÷¡£Å®ĞÔÔÚÀë»éÊ±Ìá³ö¼ÒÎñÀÍ¶¯²¹³¥µÄÈ¨ÀûÒ²±»Ğ´Èë·¨°¸
+è¿™ä¸ªæ³•è¯´å®åœ¨çš„è¯ï¼Œæ›´å¤šæ˜¯ä¸ªå§¿æ€ï¼Œè€Œä¸æ˜¯è¯´å…·ä½“æ“ä½œã€‚å¥³æ€§åœ¨ç¦»å©šæ—¶æå‡ºå®¶åŠ¡åŠ³åŠ¨è¡¥å¿çš„æƒåˆ©ä¹Ÿè¢«å†™å…¥æ³•æ¡ˆ
 
-China is **facing serious challenges on multiple fronts**: But that doesn¡¯t mean it¡¯s **too preoccupied to escalate a battle** of another sort on the home front.
->preoccupied[pri?¨»kj??pa?d] ±»ÏÈÕ¼µÄ£»³öÉñµÄ£»È«Éñ¹á×¢µÄ
+China is **facing serious challenges on multiple fronts**: But that doesnâ€™t mean itâ€™s **too preoccupied to escalate a battle** of another sort on the home front.
+>preoccupied[priËˆÉ‘kjÉ™ËŒpaÉªd] è¢«å…ˆå çš„ï¼›å‡ºç¥çš„ï¼›å…¨ç¥è´¯æ³¨çš„
 
-ÖĞ¹úÕıÃæÁÙ¶à·½ÃæµÄÑÏ¾şÌôÕ½£ºµ«Õâ²¢²»ÒâÎ¶×Å¸Ã¹úÎŞÏ¾¹Ë¼°¹úÄÚÁíÒ»ÖÖÀàĞÍµÄ¶·Õù¡£
+ä¸­å›½æ­£é¢ä¸´å¤šæ–¹é¢çš„ä¸¥å³»æŒ‘æˆ˜ï¼šä½†è¿™å¹¶ä¸æ„å‘³ç€è¯¥å›½æ— æš‡é¡¾åŠå›½å†…å¦ä¸€ç§ç±»å‹çš„æ–—äº‰ã€‚
 
-Young men need to have **¡°toughness and strength,¡±** and censors have **blurred out** male celebrities¡¯ **earrings** in television and online appearances.
->blur out Ê¹±äÄ£ºı£»Ä¨µô
+Young men need to have **â€œtoughness and strength,â€** and censors have **blurred out** male celebritiesâ€™ **earrings** in television and online appearances.
+>blur out ä½¿å˜æ¨¡ç³Šï¼›æŠ¹æ‰
 
-ÄêÇáÈËĞèÒª¡°¸Õ½¡ÓÂÒã¡±¡£ÔÚµçÊÓºÍÍøÂçÉÏÂ¶ÃæµÄÄĞÃ÷ĞÇµÄ¶ú»·±»Éó²é»ú¹¹½øĞĞÁËÄ£ºı´¦Àí¡£
+å¹´è½»äººéœ€è¦â€œåˆšå¥å‹‡æ¯…â€ã€‚åœ¨ç”µè§†å’Œç½‘ç»œä¸Šéœ²é¢çš„ç”·æ˜æ˜Ÿçš„è€³ç¯è¢«å®¡æŸ¥æœºæ„è¿›è¡Œäº†æ¨¡ç³Šå¤„ç†ã€‚
 
 In recent months, the government has **dialed things up into a full-blown culture war** against **unorthodox masculine expression, policing** it in earnest.
->full-blown ¾ßËùÓĞÌØÕ÷µÄ£»³ÉÊìµÄ; Ê¢¿ªµÄ£»³ä·Ö·¢Õ¹µÄ  
->unorthodox[?n??r¦È??d¨»ks] ·ÇÕıÍ³µÄ£»·Ç´«Í³µÄ£»²»Õı¹æµÄ
+>full-blown å…·æ‰€æœ‰ç‰¹å¾çš„ï¼›æˆç†Ÿçš„; ç››å¼€çš„ï¼›å……åˆ†å‘å±•çš„  
+>unorthodox[ÊŒnËˆÉ”rÎ¸É™ËŒdÉ‘ks] éæ­£ç»Ÿçš„ï¼›éä¼ ç»Ÿçš„ï¼›ä¸æ­£è§„çš„
 
-×î½ü¼¸¸öÔÂ£¬Õş¸®ÒÑ½«ÕâÒ»»°ÌâÉÏÉıÖÁÒ»³¡È«ÃæµÄÎÄ»¯Õ½Õù£¬·´¶Ô·ÇÕıÍ³µÄÄĞĞÔ±í´ï·½Ê½£¬²¢¶ÔÆä½øĞĞÈÏÕæµÄ¼à¹Ü¡£
+æœ€è¿‘å‡ ä¸ªæœˆï¼Œæ”¿åºœå·²å°†è¿™ä¸€è¯é¢˜ä¸Šå‡è‡³ä¸€åœºå…¨é¢çš„æ–‡åŒ–æˆ˜äº‰ï¼Œåå¯¹éæ­£ç»Ÿçš„ç”·æ€§è¡¨è¾¾æ–¹å¼ï¼Œå¹¶å¯¹å…¶è¿›è¡Œè®¤çœŸçš„ç›‘ç®¡ã€‚
 
-In a **slur-laden directive**, television regulators in September banned ¡°**sissy men and other abnormal aesthetics**¡± from appearing on television. 
->slur[sl?r] ·Ì°ù£»Ú®»Ù£»ÎÛÈè  
->laden[?le?d(?)n] ×°×Å»õµÄ£»ÓĞ¸ºÔØµÄ£»ÓĞ¾«Éñ¸ºµ£µÄ£»³ÁÖØµÄ  
->sissy[?s?si] ÄïÄïÇ»µÄ  
->aesthetics[?s?¦È?t?ks] ÃÀÑ§£»ÉóÃÀÑ§£»ÃÀ¸Ğ£»ÉóÃÀ¹Û
+In a **slur-laden directive**, television regulators in September banned â€œ**sissy men and other abnormal aesthetics**â€ from appearing on television. 
+>slur[slÉœr] è¯½è°¤ï¼›è¯‹æ¯ï¼›æ±¡è¾±  
+>laden[ËˆleÉªd(É™)n] è£…ç€è´§çš„ï¼›æœ‰è´Ÿè½½çš„ï¼›æœ‰ç²¾ç¥è´Ÿæ‹…çš„ï¼›æ²‰é‡çš„  
+>sissy[ËˆsÉªsi] å¨˜å¨˜è…”çš„  
+>aesthetics[É›sËˆÎ¸É›tÉªks] ç¾å­¦ï¼›å®¡ç¾å­¦ï¼›ç¾æ„Ÿï¼›å®¡ç¾è§‚
 
-9ÔÂ£¬ÔÚÒ»·İ°üÀ¨ÁË´óÁ¿ÙµÓïµÄÖ¸ÁîÖĞ£¬µçÊÓ¼à¹Ü»ú¹¹½ûÖ¹µçÊÓÉÏ³öÏÖ¡°ÄïÅÚµÈ»ûĞÎÉóÃÀ¡±¡£
+9æœˆï¼Œåœ¨ä¸€ä»½åŒ…æ‹¬äº†å¤§é‡ä¿šè¯­çš„æŒ‡ä»¤ä¸­ï¼Œç”µè§†ç›‘ç®¡æœºæ„ç¦æ­¢ç”µè§†ä¸Šå‡ºç°â€œå¨˜ç‚®ç­‰ç•¸å½¢å®¡ç¾â€ã€‚
 
-Stars like Cai Xukun, one of China¡¯s most famous singers, went from **sporting makeup and blond bangs** on social media to **biceps and baggy jeans** on a magazine cover just two weeks after the **September decree**.
->sporting makeup Å¨×±  
->bangs Áõº£  
->biceps[?ba??seps] ¶şÍ·¼¡  
->baggy[?b?¨Ài] ¿íËÉµÄ; ´ü×´µÄ£»´ü×´¿ã£»ËÉ´¹µÄ
+Stars like Cai Xukun, one of Chinaâ€™s most famous singers, went from **sporting makeup and blond bangs** on social media to **biceps and baggy jeans** on a magazine cover just two weeks after the **September decree**.
+>sporting makeup æµ“å¦†  
+>bangs åˆ˜æµ·  
+>biceps[ËˆbaÉªËŒseps] äºŒå¤´è‚Œ  
+>baggy[ËˆbÃ¦É¡i] å®½æ¾çš„; è¢‹çŠ¶çš„ï¼›è¢‹çŠ¶è£¤ï¼›æ¾å‚çš„
 
-ÏñÖĞ¹ú×îÖøÃûµÄ¸èÊÖÖ®Ò»²ÌĞìÀ¤ÕâÑùµÄÃ÷ĞÇ£¬ÔøÔÚÉç½»Ã½ÌåÒÔÅ¨×±ºÍ½ğÉ«Áõº£Ê¾ÈË£¬ÔÚ9ÔÂµÄ·¨Áî°ä²¼Á½ÖÜºó£¬ÒÔÂ¶³ö¶şÍ·¼¡ºÍ´©×Å·Ê´óµÄÅ£×Ğ¿ãµÄĞÎÏóµÇÉÏÔÓÖ¾·âÃæ¡£
+åƒä¸­å›½æœ€è‘—åçš„æ­Œæ‰‹ä¹‹ä¸€è”¡å¾å¤è¿™æ ·çš„æ˜æ˜Ÿï¼Œæ›¾åœ¨ç¤¾äº¤åª’ä½“ä»¥æµ“å¦†å’Œé‡‘è‰²åˆ˜æµ·ç¤ºäººï¼Œåœ¨9æœˆçš„æ³•ä»¤é¢å¸ƒä¸¤å‘¨åï¼Œä»¥éœ²å‡ºäºŒå¤´è‚Œå’Œç©¿ç€è‚¥å¤§çš„ç‰›ä»”è£¤çš„å½¢è±¡ç™»ä¸Šæ‚å¿—å°é¢ã€‚
 
-The **¡°masculine spirit¡±** requires **physical and mental fitness** as well as **¡°strong willpower,¡±** the Ministry of Education said this year. An editorial said it is alive in those who ¡°set high goals in life, **dare to take on responsibilities, tackle difficulties head-on** and never give up easily.¡±
->masculine[?m?skj?lin] ÄĞ×ÓººµÄ£»ÄĞÈËµÄ£»ÏñÄĞÈËµÄ£»ÑôĞÔµÄ  
->willpower ÒâÖ¾Á¦
+The **â€œmasculine spiritâ€** requires **physical and mental fitness** as well as **â€œstrong willpower,â€** the Ministry of Education said this year. An editorial said it is alive in those who â€œset high goals in life, **dare to take on responsibilities, tackle difficulties head-on** and never give up easily.â€
+>masculine[ËˆmÃ¦skjÉ™lin] ç”·å­æ±‰çš„ï¼›ç”·äººçš„ï¼›åƒç”·äººçš„ï¼›é˜³æ€§çš„  
+>willpower æ„å¿—åŠ›
 
-½ÌÓı²¿½ñÄêÖ¸³ö£¬¡°Ñô¸ÕÖ®Æø¡±ÒâÎ¶×ÅÉíĞÄ½¡¿µ¡¢ÌåÆÇÇ¿½¡£¬²¢ÇÒÒªÓĞ¡°¼áÇ¿ÒâÖ¾¡±¡£Ò»ÆªÉçÂÛ³Æ£¬¡°Ñô¸ÕÖ®Æø¡±´ú±í×Å¡°Åô³ÌÍòÀïµÄÖ¾Æø¡¢Ó­ÄÑ¶øÉÏµÄÓÂÆøºÍ²»Ğ¸Æ´²«µÄ¾«Éñ¡±¡£
+æ•™è‚²éƒ¨ä»Šå¹´æŒ‡å‡ºï¼Œâ€œé˜³åˆšä¹‹æ°”â€æ„å‘³ç€èº«å¿ƒå¥åº·ã€ä½“é­„å¼ºå¥ï¼Œå¹¶ä¸”è¦æœ‰â€œåšå¼ºæ„å¿—â€ã€‚ä¸€ç¯‡ç¤¾è®ºç§°ï¼Œâ€œé˜³åˆšä¹‹æ°”â€ä»£è¡¨ç€â€œé¹ç¨‹ä¸‡é‡Œçš„å¿—æ°”ã€è¿éš¾è€Œä¸Šçš„å‹‡æ°”å’Œä¸æ‡ˆæ‹¼æçš„ç²¾ç¥â€ã€‚
 
 Despite **insisting** in editorials and policy documents that **masculinity has to do with inner qualities**, it continues to target **outer appearances in patrolling** its public expression.
->masculinity[?m?skj??l?n?ti] ÄĞĞÔ£»ÄĞ×ÓÆø¸Å£»ÑôĞÔ  
->inner qualities ÄÚÔÚÆ·¸ñ; ÄÚÔÚÆ·ÖÊ  
->patrol[p??tro?l] Ñ²Âß£»Ñ²²é£»ÏĞ¹ä£»Ñ²ÊÓ
+>masculinity[ËŒmÃ¦skjÉ™ËˆlÉªnÉ™ti] ç”·æ€§ï¼›ç”·å­æ°”æ¦‚ï¼›é˜³æ€§  
+>inner qualities å†…åœ¨å“æ ¼; å†…åœ¨å“è´¨  
+>patrol[pÉ™ËˆtroÊŠl] å·¡é€»ï¼›å·¡æŸ¥ï¼›é—²é€›ï¼›å·¡è§†
 
-¾¡¹ÜÉçÂÛºÍÕş²ßÎÄ¼ş¼á³Æ£¬Ñô¸ÕÖ®Æø¹ØºõÄÚÔÚÆ·¸ñ£¬µ«»¹ÊÇÔÚÒÔÍâ²¿ÌØÕ÷Îª±ê×¼ÉóÊÓÆä¹«¹²±í´ï¡£
+å°½ç®¡ç¤¾è®ºå’Œæ”¿ç­–æ–‡ä»¶åšç§°ï¼Œé˜³åˆšä¹‹æ°”å…³ä¹å†…åœ¨å“æ ¼ï¼Œä½†è¿˜æ˜¯åœ¨ä»¥å¤–éƒ¨ç‰¹å¾ä¸ºæ ‡å‡†å®¡è§†å…¶å…¬å…±è¡¨è¾¾ã€‚
 
 In Hungary, the government has **ejected or assumed control of educational and cultural institutions**, using them to manufacture **a xenophobic** national heritage **aligned with its ethnonationalist politics**.
->xenophobic[?zen?'f??b?k] ³ğÍâµÄ£»ÅÅÍâµÄ£»Ô÷ºŞÍâ¹úÈËµÄ  
->aligned with ÏàÆõºÏ, ÓëÒ»ÖÂ  
->ethnonationalist ÖÖ×åÃñ×åÖ÷ÒåµÄ
+>xenophobic[ËŒzenÉ™'fÉ™ÊŠbÉªk] ä»‡å¤–çš„ï¼›æ’å¤–çš„ï¼›æ†æ¨å¤–å›½äººçš„  
+>aligned with ç›¸å¥‘åˆ, ä¸ä¸€è‡´  
+>ethnonationalist ç§æ—æ°‘æ—ä¸»ä¹‰çš„
 
-ÔÚĞÙÑÀÀû£¬Õş¸®ÇıÖğ»ò½Ó¹ÜÁË½ÌÓıºÍÎÄ»¯»ú¹¹£¬½è´ËËÜÔìÅÅÍâĞÔÃñ×åÒÅ²ú£¬ÓëÆäÃñ×åÖ÷ÒåÕşÖÎÏàÆõºÏ¡£
+åœ¨åŒˆç‰™åˆ©ï¼Œæ”¿åºœé©±é€æˆ–æ¥ç®¡äº†æ•™è‚²å’Œæ–‡åŒ–æœºæ„ï¼Œå€Ÿæ­¤å¡‘é€ æ’å¤–æ€§æ°‘æ—é—äº§ï¼Œä¸å…¶æ°‘æ—ä¸»ä¹‰æ”¿æ²»ç›¸å¥‘åˆã€‚
 
-**Emphasizing the importance** of that process, he has repeated a 19th century **Confucian scholar¡¯s saying**: ¡°To destroy a country, you must first **eradicate its history**.¡±  
-ÎªÁËÇ¿µ÷ÕâÒ»¹ı³ÌµÄÖØÒªĞÔ£¬ÖØÉêÁË19ÊÀ¼ÍÈå¼ÒÑ§ÕßµÄÃûÑÔ£º¡°ÃğÈËÖ®¹ú£¬±ØÏÈÈ¥ÆäÊ·¡£¡±
+**Emphasizing the importance** of that process, he has repeated a 19th century **Confucian scholarâ€™s saying**: â€œTo destroy a country, you must first **eradicate its history**.â€  
+ä¸ºäº†å¼ºè°ƒè¿™ä¸€è¿‡ç¨‹çš„é‡è¦æ€§ï¼Œé‡ç”³äº†19ä¸–çºªå„’å®¶å­¦è€…çš„åè¨€ï¼šâ€œç­äººä¹‹å›½ï¼Œå¿…å…ˆå»å…¶å²ã€‚â€
 
 We want to believe that we are **capable and decent**, that our friends and favored relatives share these traits, and that the groups we belong to are on the right side of conflicts  
-ÎÒÃÇÇãÏòÓÚÏàĞÅ×Ô¼ºÊÇÓĞÄÜÁ¦µÄ¡¢ÕıÅÉµÄ£¬ÎÒÃÇµÄÅóÓÑºÍÎÒÃÇÏ²»¶µÄÇ×ÈËÒ²¶¼¾ß±¸ÕâĞ©Æ·ÖÊ£¬ÎÒÃÇËùÊôµÄÈºÌåÕ¾ÔÚÁË³åÍ»ÖĞÕıÈ·µÄÒ»±ß
+æˆ‘ä»¬å€¾å‘äºç›¸ä¿¡è‡ªå·±æ˜¯æœ‰èƒ½åŠ›çš„ã€æ­£æ´¾çš„ï¼Œæˆ‘ä»¬çš„æœ‹å‹å’Œæˆ‘ä»¬å–œæ¬¢çš„äº²äººä¹Ÿéƒ½å…·å¤‡è¿™äº›å“è´¨ï¼Œæˆ‘ä»¬æ‰€å±çš„ç¾¤ä½“ç«™åœ¨äº†å†²çªä¸­æ­£ç¡®çš„ä¸€è¾¹
 
 For all the warnings from 20th century writers like George Orwell that history would be **forcibly stamped out, the graver threat** may that people, offered a choice, **turn their backs on it voluntarily**.
->stamp out Ì¤Ãğ(»ğ)£»ÆËÃğ(±©¶¯µÈ); ²ÈÃğ£»ÏûÃğ  
->turn the back/one's back on ²»Àí²Ç£»¶ªÆú£»±³Æú£»Å×Æú£»¾Ü¾ø
+>stamp out è¸ç­(ç«)ï¼›æ‰‘ç­(æš´åŠ¨ç­‰); è¸©ç­ï¼›æ¶ˆç­  
+>turn the back/one's back on ä¸ç†ç¬ï¼›ä¸¢å¼ƒï¼›èƒŒå¼ƒï¼›æŠ›å¼ƒï¼›æ‹’ç»
 
-¼´Ê¹ÏñÇÇÖÎ¡¤°ÂÍş¶ûÕâÑùµÄ20ÊÀ¼Í×÷¼Ò·¢³ö¹ıÀúÊ·½«±»Ç¿ĞĞÄ¨É±µÄ¾¯¸æ£¬µ«¸üÑÏÖØµÄÍşĞ²¿ÉÄÜÊÇ£¬µ±µÃµ½Ñ¡ÔñÊ±£¬ÈËÃÇ×ÔÔ¸±³ÆúÀúÊ·
+å³ä½¿åƒä¹”æ²»Â·å¥¥å¨å°”è¿™æ ·çš„20ä¸–çºªä½œå®¶å‘å‡ºè¿‡å†å²å°†è¢«å¼ºè¡ŒæŠ¹æ€çš„è­¦å‘Šï¼Œä½†æ›´ä¸¥é‡çš„å¨èƒå¯èƒ½æ˜¯ï¼Œå½“å¾—åˆ°é€‰æ‹©æ—¶ï¼Œäººä»¬è‡ªæ„¿èƒŒå¼ƒå†å²
 
 It has also **set nerves on edge outside** the former Soviet space and **played into the hands of** anti-Russian hawks, **reviving a previously dormant debate** in Sweden and Finland about whether they should join or **at least more closely** associate with NATO. 
->play into the hand(s) of ÓĞÀûÓÚ¶ÔÊÖ, ÕıÖĞÏÂ»³  
->dormant[?d?rm?nt] ĞİÃßµÄ£»Õİ·üµÄ£»ÔİÍ£»î¶¯µÄ
+>play into the hand(s) of æœ‰åˆ©äºå¯¹æ‰‹, æ­£ä¸­ä¸‹æ€€  
+>dormant[ËˆdÉ”rmÉ™nt] ä¼‘çœ çš„ï¼›è›°ä¼çš„ï¼›æš‚åœæ´»åŠ¨çš„
 
-Ëü»¹ÈÃÇ°ËÕÁªµØÇøÒÔÍâµÄ¹ú¼Ò½ôÕÅ²»°²£¬¶øÇÒÕıÖĞ·´¶íÓ¥ÅÉµÄÏÂ»³¡£ËüÖØĞÂ¼¤ÆğÒ»³¡ÏÈÇ°ÒÑĞİÃßµÄ±çÂÛ¡ª¡ªÈğµäºÍ·ÒÀ¼ÊÇ·ñÓ¦¸Ã¼ÓÈë»òÖÁÉÙÓë±±Ô¼±£³Ö¸üÃÜÇĞµÄÁªÏµ¡£
+å®ƒè¿˜è®©å‰è‹è”åœ°åŒºä»¥å¤–çš„å›½å®¶ç´§å¼ ä¸å®‰ï¼Œè€Œä¸”æ­£ä¸­åä¿„é¹°æ´¾çš„ä¸‹æ€€ã€‚å®ƒé‡æ–°æ¿€èµ·ä¸€åœºå…ˆå‰å·²ä¼‘çœ çš„è¾©è®ºâ€”â€”ç‘å…¸å’ŒèŠ¬å…°æ˜¯å¦åº”è¯¥åŠ å…¥æˆ–è‡³å°‘ä¸åŒ—çº¦ä¿æŒæ›´å¯†åˆ‡çš„è”ç³»ã€‚
 
-When Kazakhstan **bolted from** the Soviet Union three decades ago, it held **the world¡¯s fourth-biggest stock of** nuclear weapons, **vast reserves of oil** and so much **promise and peril** that Secretary of States James A. Baker III, **rushed to** the new country to try to **cement ties** by drinking vodka with its leader, Nursultan Nazarbayev, **in the sauna and accepting blows from a tree branch**.
->bolt ÂİË¨£»(ÃÅ´°µÈµÄ)ãÅ£»ÀÇÍÌ»¢ÑÊ£»Éä³ö£»ÌÓÍö£»ÌÔÌ­  
->stock of Öü´æÁ¿  
+When Kazakhstan **bolted from** the Soviet Union three decades ago, it held **the worldâ€™s fourth-biggest stock of** nuclear weapons, **vast reserves of oil** and so much **promise and peril** that Secretary of States James A. Baker III, **rushed to** the new country to try to **cement ties** by drinking vodka with its leader, Nursultan Nazarbayev, **in the sauna and accepting blows from a tree branch**.
+>bolt èºæ “ï¼›(é—¨çª—ç­‰çš„)é—©ï¼›ç‹¼åè™å’½ï¼›å°„å‡ºï¼›é€ƒäº¡ï¼›æ·˜æ±°  
+>stock of è´®å­˜é‡  
 
-30ÄêÇ°ÍË³öËÕÁªÊ±£¬¹şÈø¿ËË¹Ì¹ÓµÓĞÊÀ½çµÚËÄ´óºËÎäÆ÷´¢±¸¡¢¾Ş´óµÄÊ¯ÓÍ´¢±¸£¬¼«¾ß¹âÃ÷µÄÇ°Í¾ºÍ¾Ş´óµÄÎ£ÏÕ£¬ÒÔÖÁÓÚÊ±ÈÎ¹úÎñÇäÕ²Ä·Ë¹¡¤±´¿ËÈıÊÀ¸Ï¸°Õâ¸öĞÂ¹ú¼Ò£¬ÊÔÍ¼ÓëÁìµ¼ÈËÅ¬¶ûËÕµ¤¡¤ÄÉÔú¶û°ÍÒ®·òÒ»ÆğÔÚÉ£ÄÃ·¿ÀïºÈ·üÌØ¼Ó£¬²¢ÓÃÊ÷Ö¦ÅÄ´òÉíÌå£¬ÒÔ´Ë¹®¹Ì¹ØÏµ¡£
+30å¹´å‰é€€å‡ºè‹è”æ—¶ï¼Œå“ˆè¨å…‹æ–¯å¦æ‹¥æœ‰ä¸–ç•Œç¬¬å››å¤§æ ¸æ­¦å™¨å‚¨å¤‡ã€å·¨å¤§çš„çŸ³æ²¹å‚¨å¤‡ï¼Œæå…·å…‰æ˜çš„å‰é€”å’Œå·¨å¤§çš„å±é™©ï¼Œä»¥è‡³äºæ—¶ä»»å›½åŠ¡å¿è©¹å§†æ–¯Â·è´å…‹ä¸‰ä¸–èµ¶èµ´è¿™ä¸ªæ–°å›½å®¶ï¼Œè¯•å›¾ä¸é¢†å¯¼äººåŠªå°”è‹ä¸¹Â·çº³æ‰å°”å·´è€¶å¤«ä¸€èµ·åœ¨æ¡‘æ‹¿æˆ¿é‡Œå–ä¼ç‰¹åŠ ï¼Œå¹¶ç”¨æ ‘ææ‹æ‰“èº«ä½“ï¼Œä»¥æ­¤å·©å›ºå…³ç³»ã€‚
 
-**Anger boiled over** when the government **lifted price caps for liquefied petroleum gas** ¡ª frequently referred to by its initials, L.P.G. ¡ª a **low-carbon** fuel that many Kazakhs use to power their cars. But the protests have more **deep-seated roots**, including anger at social and **economic disparities, exacerbated** by a raging pandemic
->liquefy[?l?kw??fa?] (Ê¹)Òº»¯£»Ê¹¡­ÈÜ½â£»Ï¡ÊÍ  
->petroleum[p??tro?li?m] Ê¯ÓÍ£»Ô­ÓÍ; ÆûÓÍ  
->deep-seated ¸ùÉîµÙ¹ÌµÄ£»Íç¹ÌµÄ  
->exacerbate[?¨À?z?s?r?be?t] ¼ÓÖØ£»Ê¹¡­¡­¶ñ»¯£»¼Ó¾ç  
->disparity[d??sper?ti] ²»Í¬£»²»Ò»ÖÂ£»²îÒì
+**Anger boiled over** when the government **lifted price caps for liquefied petroleum gas** â€” frequently referred to by its initials, L.P.G. â€” a **low-carbon** fuel that many Kazakhs use to power their cars. But the protests have more **deep-seated roots**, including anger at social and **economic disparities, exacerbated** by a raging pandemic
+>liquefy[ËˆlÉªkwÉ™ËŒfaÉª] (ä½¿)æ¶²åŒ–ï¼›ä½¿â€¦æº¶è§£ï¼›ç¨€é‡Š  
+>petroleum[pÉ™ËˆtroÊŠliÉ™m] çŸ³æ²¹ï¼›åŸæ²¹; æ±½æ²¹  
+>deep-seated æ ¹æ·±è’‚å›ºçš„ï¼›é¡½å›ºçš„  
+>exacerbate[ÉªÉ¡ËˆzÃ¦sÉ™rËŒbeÉªt] åŠ é‡ï¼›ä½¿â€¦â€¦æ¶åŒ–ï¼›åŠ å‰§  
+>disparity[dÉªËˆsperÉ™ti] ä¸åŒï¼›ä¸ä¸€è‡´ï¼›å·®å¼‚
 
-Õş¸®È¡ÏûÒº»¯Ê¯ÓÍÆø¼Û¸ñÏŞÖÆÒı·¢ÁËÃñ·ß¡£ÕâÖÖÍ¨³£ËõĞ´Îª¡°LPG¡±µÄµÍÌ¼È¼ÁÏÊÇĞí¶à¹şÈø¿ËË¹Ì¹ÈËµÄÆû³µ¶¯Á¦À´Ô´. µ«ÕâĞ©¿¹ÒéÒ²ÓĞ¸üÉî²ãµÄ¸ùÔ´£¬°üÀ¨ÒòÒßÇéËÁÅ°¶ø¼Ó¾çµÄÉç»á½×¼¶ºÍÆ¶¸»²î¾à
+æ”¿åºœå–æ¶ˆæ¶²åŒ–çŸ³æ²¹æ°”ä»·æ ¼é™åˆ¶å¼•å‘äº†æ°‘æ„¤ã€‚è¿™ç§é€šå¸¸ç¼©å†™ä¸ºâ€œLPGâ€çš„ä½ç¢³ç‡ƒæ–™æ˜¯è®¸å¤šå“ˆè¨å…‹æ–¯å¦äººçš„æ±½è½¦åŠ¨åŠ›æ¥æº. ä½†è¿™äº›æŠ—è®®ä¹Ÿæœ‰æ›´æ·±å±‚çš„æ ¹æºï¼ŒåŒ…æ‹¬å› ç–«æƒ…è‚†è™è€ŒåŠ å‰§çš„ç¤¾ä¼šé˜¶çº§å’Œè´«å¯Œå·®è·
 
-The new president, while a loyalist, has nevertheless been trying to **carve out a stronger role** for himself. That, in turn, has **disoriented Kazakhstan¡¯s bureaucracy and elites**, and contributed to the government¡¯s **slow reaction to** the protesters¡¯ demands
->carve out ·Ö¸î; ¿ªÍØ£»´´Òµ  
->disorient[d?s??ri?nt] Ê¹²»±æ·½Ïò£»Ê¹¾«Éñ»ìÂÒ
+The new president, while a loyalist, has nevertheless been trying to **carve out a stronger role** for himself. That, in turn, has **disoriented Kazakhstanâ€™s bureaucracy and elites**, and contributed to the governmentâ€™s **slow reaction to** the protestersâ€™ demands
+>carve out åˆ†å‰²; å¼€æ‹“ï¼›åˆ›ä¸š  
+>disorient[dÉªsËˆÉ”riÉ™nt] ä½¿ä¸è¾¨æ–¹å‘ï¼›ä½¿ç²¾ç¥æ··ä¹±
 
-ĞÂ×ÜÍ³ËäÈ»¶ÔËû±£³ÖÖÒ³Ï£¬µ«Ò²Ò»Ö±ÔÚÊÔÍ¼Îª×Ô¼ºÕùÈ¡¸ü¶àÈ¨Á¦¡£Õâ·´¹ıÀ´ÓÖÊ¹¹şÈø¿ËË¹Ì¹µÄ¹ÙÁÅ»ú¹¹ºÍ¾«Ó¢ÃÇÃÔÊ§ÁË·½Ïò£¬µ¼ÖÂÕş¸®¶Ô¿¹ÒéÕßµÄËßÇó·´Ó¦³Ù»º¡£
+æ–°æ€»ç»Ÿè™½ç„¶å¯¹ä»–ä¿æŒå¿ è¯šï¼Œä½†ä¹Ÿä¸€ç›´åœ¨è¯•å›¾ä¸ºè‡ªå·±äº‰å–æ›´å¤šæƒåŠ›ã€‚è¿™åè¿‡æ¥åˆä½¿å“ˆè¨å…‹æ–¯å¦çš„å®˜åƒšæœºæ„å’Œç²¾è‹±ä»¬è¿·å¤±äº†æ–¹å‘ï¼Œå¯¼è‡´æ”¿åºœå¯¹æŠ—è®®è€…çš„è¯‰æ±‚ååº”è¿Ÿç¼“ã€‚
 
 **A series of lapses** let him **slip through** the DMZ, His **extraordinary feat** not only **highlighted South Korean security flaws** at the 2.5-mile-wide buffer zone, known as the DMZ, but **raised the bewildering question** of why someone would risk his life by crossing it twice. The DMZ is **lined with barbed-wire fences, minefields and armed sentries**.
->lapse[l?ps] Ê§Ğ§£»ÆÚÂúÖÕÖ¹£»Ë¥ÍË£»Êèºö£»Ğ¡´í; ĞĞÎªÊ§¼ì; Á÷ÊÅ  
->feat[fit] ¹¦¼¨£»¼¼ÒÕ£»×³¾Ù£»Òµ¼¨£»Ó¢ÓÂÊÂ¼£; ÁéÇÉµÄ£»Õû½àµÄ£»ºÏÊÊµÄ  
->bewildering[b??w?ld?r??] ÁîÈËÀ§»óµÄ£»Ê¹ÈËºıÍ¿µÄ; ¡°bewilder¡±µÄÏÖÔÚ·Ö´Ê  
->barbed wire ÌúË¿Íø£»ÓĞ´ÌÌúË¿  
->sentry[?sentri] ÉÚ±ø£»¸ÚÉÚ£»²½ÉÚ£»¾¯ÎÀ
+>lapse[lÃ¦ps] å¤±æ•ˆï¼›æœŸæ»¡ç»ˆæ­¢ï¼›è¡°é€€ï¼›ç–å¿½ï¼›å°é”™; è¡Œä¸ºå¤±æ£€; æµé€  
+>feat[fit] åŠŸç»©ï¼›æŠ€è‰ºï¼›å£®ä¸¾ï¼›ä¸šç»©ï¼›è‹±å‹‡äº‹è¿¹; çµå·§çš„ï¼›æ•´æ´çš„ï¼›åˆé€‚çš„  
+>bewildering[bÉªËˆwÉªldÉ™rÉªÅ‹] ä»¤äººå›°æƒ‘çš„ï¼›ä½¿äººç³Šæ¶‚çš„; â€œbewilderâ€çš„ç°åœ¨åˆ†è¯  
+>barbed wire é“ä¸ç½‘ï¼›æœ‰åˆºé“ä¸  
+>sentry[Ëˆsentri] å“¨å…µï¼›å²—å“¨ï¼›æ­¥å“¨ï¼›è­¦å«
 
-Ò»ÏµÁĞµÄÊ§ÎóÈÃ´ËÈËÇÄÇÄ´©Ô½ÁË·Ç¾üÊÂÇø, ËûµÄ¾ªÈË×³¾Ù²»½öÍ»ÏÔÁËº«¹úÔÚÕâ¸öËÄ¹«Àï¿íµÄ·Ç¾üÊÂÇø´æÔÚµÄ°²È«Òş»¼£¬Ò²Ìá³öÁËÒ»¸öÁîÈËÀ§»óµÄÎÊÌâ£ºÎªÊ²Ã´ÓĞÈË»áÃ°×ÅÉúÃüÎ£ÏÕÁ½´Î´©Ô½ÕâÀï£¿·Ç¾üÊÂÇø±é²¼ÌúË¿Íø¡¢µØÀ×ºÍÎä×°ÉÚ±ø¡£
+ä¸€ç³»åˆ—çš„å¤±è¯¯è®©æ­¤äººæ‚„æ‚„ç©¿è¶Šäº†éå†›äº‹åŒº, ä»–çš„æƒŠäººå£®ä¸¾ä¸ä»…çªæ˜¾äº†éŸ©å›½åœ¨è¿™ä¸ªå››å…¬é‡Œå®½çš„éå†›äº‹åŒºå­˜åœ¨çš„å®‰å…¨éšæ‚£ï¼Œä¹Ÿæå‡ºäº†ä¸€ä¸ªä»¤äººå›°æƒ‘çš„é—®é¢˜ï¼šä¸ºä»€ä¹ˆæœ‰äººä¼šå†’ç€ç”Ÿå‘½å±é™©ä¸¤æ¬¡ç©¿è¶Šè¿™é‡Œï¼Ÿéå†›äº‹åŒºéå¸ƒé“ä¸ç½‘ã€åœ°é›·å’Œæ­¦è£…å“¨å…µã€‚
 
 We are sorry for **causing concerns** to the people, We will **make every effort** so there is **no recurrence of** similar incidents.  
-ÎÒÃÇÎªÒıÆğÈËÃñµ£ÓÇ¸Ğµ½±§Ç¸£¬ÎÒÃÇ½«¾¡Ò»ÇĞÅ¬Á¦·ÀÖ¹ÀàËÆÊÂ¼şÔÙ´Î·¢Éú
+æˆ‘ä»¬ä¸ºå¼•èµ·äººæ°‘æ‹…å¿§æ„Ÿåˆ°æŠ±æ­‰ï¼Œæˆ‘ä»¬å°†å°½ä¸€åˆ‡åŠªåŠ›é˜²æ­¢ç±»ä¼¼äº‹ä»¶å†æ¬¡å‘ç”Ÿ
 
-Her age **was brought up not to knock down her claims** but to **underline how impressive they were**. ¡°I¡¯m gonna go tell my two children, they **better get off their duffs**,¡± Ms. Gunn exclaimed.
->duff[d?f] Î±Ôì£»ÆÛÆ­£»°Ñ(¾É»õ)×°°ç³ÉĞÂµÄ£»ÔÚ(ÍµÀ´µÄ¼ÒĞóÉíÉÏ)ÖØ´òÀÓÓ¡; ÎŞÓÃµÄ£»Ê§ÁéµÄ£»³ö¹ÊÕÏµÄ; Æ¨¹É  
->better get off ×îºÃÀë¿ª
+Her age **was brought up not to knock down her claims** but to **underline how impressive they were**. â€œIâ€™m gonna go tell my two children, they **better get off their duffs**,â€ Ms. Gunn exclaimed.
+>duff[dÊŒf] ä¼ªé€ ï¼›æ¬ºéª—ï¼›æŠŠ(æ—§è´§)è£…æ‰®æˆæ–°çš„ï¼›åœ¨(å·æ¥çš„å®¶ç•œèº«ä¸Š)é‡æ‰“çƒ™å°; æ— ç”¨çš„ï¼›å¤±çµçš„ï¼›å‡ºæ•…éšœçš„; å±è‚¡  
+>better get off æœ€å¥½ç¦»å¼€
 
-ËıµÄÄêÁäÖ®ËùÒÔ±»Ìá¼°£¬²»ÊÇÎªÁËÖÊÒÉËıµÄËµ·¨£¬¶øÊÇÎªÁËÇ¿µ÷ÕâĞ©Ëµ·¨ÊÇ¶àÃ´ÁîÈËÔŞÌ¾¡£¡°ÎÒÒªÈ¥¸æËßÎÒµÄÁ½¸öĞ¡º¢£¬ËûÃÇ×îºÃ±ğÔÙÀÁÉ¢ÏÂÈ¥ÁË£¬¡±¹Å¶÷ÈÂµÀ¡£
+å¥¹çš„å¹´é¾„ä¹‹æ‰€ä»¥è¢«æåŠï¼Œä¸æ˜¯ä¸ºäº†è´¨ç–‘å¥¹çš„è¯´æ³•ï¼Œè€Œæ˜¯ä¸ºäº†å¼ºè°ƒè¿™äº›è¯´æ³•æ˜¯å¤šä¹ˆä»¤äººèµå¹ã€‚â€œæˆ‘è¦å»å‘Šè¯‰æˆ‘çš„ä¸¤ä¸ªå°å­©ï¼Œä»–ä»¬æœ€å¥½åˆ«å†æ‡’æ•£ä¸‹å»äº†ï¼Œâ€å¤æ©åš·é“ã€‚
 
-In 2005, however, even reinventing blood-testing at 21 was not enough, so deep were our expectations of genius. Ms. Holmes was asked about her future, and gave the stock Silicon Valley response: **You ain¡¯t seen nothing yet**.  
-È»¶øÔÚ2005Äê£¬¼´±ãÔÚ21Ëê³¹µ×¸ÄĞ´ÑªÒº¼ì²â·½·¨ÈÔÈ»²»¹»¿äÕÅ£¬ÎÒÃÇ¶ÔÌì²ÅµÄÆÚ´ıÊµÔÚÌ«¶àÁË¡£µ±±»ÎÊ¼°ËıµÄÎ´À´£¬»ôÄ·Ë¹¸ø³öÁËÏÖ³ÉµÄ¹è¹ÈÊ½´ğ°¸£ºÀ÷º¦µÄ»¹ÔÚºóÍ·ÄØ¡£
+In 2005, however, even reinventing blood-testing at 21 was not enough, so deep were our expectations of genius. Ms. Holmes was asked about her future, and gave the stock Silicon Valley response: **You ainâ€™t seen nothing yet**.  
+ç„¶è€Œåœ¨2005å¹´ï¼Œå³ä¾¿åœ¨21å²å½»åº•æ”¹å†™è¡€æ¶²æ£€æµ‹æ–¹æ³•ä»ç„¶ä¸å¤Ÿå¤¸å¼ ï¼Œæˆ‘ä»¬å¯¹å¤©æ‰çš„æœŸå¾…å®åœ¨å¤ªå¤šäº†ã€‚å½“è¢«é—®åŠå¥¹çš„æœªæ¥ï¼Œéœå§†æ–¯ç»™å‡ºäº†ç°æˆçš„ç¡…è°·å¼ç­”æ¡ˆï¼šå‰å®³çš„è¿˜åœ¨åå¤´å‘¢ã€‚
 
-This is a **credulous age**. No one **called her on it**. No wonder she and her deputy and boyfriend, Ramesh Balwani, the company¡¯s chief operating officer who was known as ¡°Sunny,¡± thought they could **brazen it out** in the Silicon Valley tradition until they had something that actually worked.
->credulous[?kredj?l?s] ÇáĞÅµÄ£»Ò×ÊÜÆ­µÄ  
->brazen[?bre?z(?)n] ºñÑÕÎŞ³ÜµÄ£»»ÆÍ­ÖÆµÄ£»»ÆÍ­É«µÄ  
->brazen out ºñ×ÅÁ³Æ¤¸É
+This is a **credulous age**. No one **called her on it**. No wonder she and her deputy and boyfriend, Ramesh Balwani, the companyâ€™s chief operating officer who was known as â€œSunny,â€ thought they could **brazen it out** in the Silicon Valley tradition until they had something that actually worked.
+>credulous[ËˆkredjÉ™lÉ™s] è½»ä¿¡çš„ï¼›æ˜“å—éª—çš„  
+>brazen[ËˆbreÉªz(É™)n] åšé¢œæ— è€»çš„ï¼›é»„é“œåˆ¶çš„ï¼›é»„é“œè‰²çš„  
+>brazen out åšç€è„¸çš®å¹²
 
-ÕâÊÇÒ»¸öÒ×ÓÚÇáĞÅµÄÊ±´ú. Ã»ÓĞÈË¶ÔËıµÄËµ·¨Ìá³öÖÊÒÉ¡£ÄÑ¹ÖËıºÍËıµÄ¸±ÊÖ¼æÄĞÓÑÀ­Ã·Ê²¡¤°Í¶ûÍòÄá¡ª¡ªÒ²¾ÍÊÇ¸Ã¹«Ë¾ÈË³Æ¡°É£Äá¡±µÄÊ×Ï¯ÔËÓª¹Ù¡ª¡ª»á¾õµÃ£¬ËûÃÇ¿ÉÒÔÔÚ¹è¹È´«Í³ÖĞºñ×ÅÁ³Æ¤³ÅÏÂÈ¥£¬Ò»Ö±³Åµ½ËûÃÇÔì³öÕæÕıÓĞÓÃµÄ¶«Î÷¡£
+è¿™æ˜¯ä¸€ä¸ªæ˜“äºè½»ä¿¡çš„æ—¶ä»£. æ²¡æœ‰äººå¯¹å¥¹çš„è¯´æ³•æå‡ºè´¨ç–‘ã€‚éš¾æ€ªå¥¹å’Œå¥¹çš„å‰¯æ‰‹å…¼ç”·å‹æ‹‰æ¢…ä»€Â·å·´å°”ä¸‡å°¼â€”â€”ä¹Ÿå°±æ˜¯è¯¥å…¬å¸äººç§°â€œæ¡‘å°¼â€çš„é¦–å¸­è¿è¥å®˜â€”â€”ä¼šè§‰å¾—ï¼Œä»–ä»¬å¯ä»¥åœ¨ç¡…è°·ä¼ ç»Ÿä¸­åšç€è„¸çš®æ’‘ä¸‹å»ï¼Œä¸€ç›´æ’‘åˆ°ä»–ä»¬é€ å‡ºçœŸæ­£æœ‰ç”¨çš„ä¸œè¥¿ã€‚
 
-**Ripe for the next huckster** that comes along, probably. Some Silicon Valley promises are so sweet **we just can¡¯t get enough of them**. **Immortality**. Crypto. Flying cars. Mars. **Digital harmony. Wealth beyond compare**.
->ripe[ra?p] ³ÉÊìµÄ£»¿ÚÎ¶Å¨ÓôµÄ£»´¼ÃÀ¿É¿ÚµÄ£»Ê±»ú³ÉÊìµÄ£»×¼±¸ºÃµÄ£»Ç¿ÁÒµÄ  
->ripe for ×öºÃ×¼±¸£»Ê±»ú³ÉÊì£»×¼±¸ºÃ  
->huckster[?h?kst?r] ÌÖ¼Û»¹¼Û£»ÁãÊÛ£»´µĞê; ½ĞÂôĞ¡··£¬ÁãÊÛÉÌ  
->get enough of ÊÜ¹»ÁË
->immortality[??m?r?t?l?ti] ²»Ğà£»ÓÀÉú£»²»Ãğ  
->beyond compare/beyond comparison ÎŞÓëÂ×±ÈµÄ
+**Ripe for the next huckster** that comes along, probably. Some Silicon Valley promises are so sweet **we just canâ€™t get enough of them**. **Immortality**. Crypto. Flying cars. Mars. **Digital harmony. Wealth beyond compare**.
+>ripe[raÉªp] æˆç†Ÿçš„ï¼›å£å‘³æµ“éƒçš„ï¼›é†‡ç¾å¯å£çš„ï¼›æ—¶æœºæˆç†Ÿçš„ï¼›å‡†å¤‡å¥½çš„ï¼›å¼ºçƒˆçš„  
+>ripe for åšå¥½å‡†å¤‡ï¼›æ—¶æœºæˆç†Ÿï¼›å‡†å¤‡å¥½  
+>huckster[ËˆhÊŒkstÉ™r] è®¨ä»·è¿˜ä»·ï¼›é›¶å”®ï¼›å¹å˜˜; å«å–å°è´©ï¼Œé›¶å”®å•†  
+>get enough of å—å¤Ÿäº†
+>immortality[ËŒÉªmÉ”rËˆtÃ¦lÉ™ti] ä¸æœ½ï¼›æ°¸ç”Ÿï¼›ä¸ç­  
+>beyond compare/beyond comparison æ— ä¸ä¼¦æ¯”çš„
 
-»òĞí¾ÍÊÇÏÂÒ»¸öÍÆÏúÊ±»úµÄ³ÉÊì¡£¹è¹ÈµÄÒ»Ğ©³ĞÅµÌ«¹ıÃÀºÃ£¬ÎÒÃÇ¼òÖ±Óû°Õ²»ÄÜ¡£³¤Éú²»ÀÏ¡£¼ÓÃÜ»õ±Ò¡£·ÉĞĞÆû³µ¡£»ğĞÇ¡£Êı×ÖºÍĞ³¡£ÎŞÓëÂ×±ÈµÄ²Æ¸»¡£
+æˆ–è®¸å°±æ˜¯ä¸‹ä¸€ä¸ªæ¨é”€æ—¶æœºçš„æˆç†Ÿã€‚ç¡…è°·çš„ä¸€äº›æ‰¿è¯ºå¤ªè¿‡ç¾å¥½ï¼Œæˆ‘ä»¬ç®€ç›´æ¬²ç½¢ä¸èƒ½ã€‚é•¿ç”Ÿä¸è€ã€‚åŠ å¯†è´§å¸ã€‚é£è¡Œæ±½è½¦ã€‚ç«æ˜Ÿã€‚æ•°å­—å’Œè°ã€‚æ— ä¸ä¼¦æ¯”çš„è´¢å¯Œã€‚
 
 As Fitzgerald wrote, we will always be **a sucker for the orgastic future** that year by year **recedes** before us.
->recede[r??sid] Öğ½¥Ô¶Àë£»½¥½¥Ô¶È¥£»Öğ½¥¼õÈõ£»ÂıÂı±äĞ¡; ºóÍË£»ÍËÈ´  
->orgastic[?r'g?st?k] ¼«¶ÈĞË·ÜµÄ£»ÇéÓû¿º½øµÄ
+>recede[rÉªËˆsid] é€æ¸è¿œç¦»ï¼›æ¸æ¸è¿œå»ï¼›é€æ¸å‡å¼±ï¼›æ…¢æ…¢å˜å°; åé€€ï¼›é€€å´  
+>orgastic[É”r'gÃ¦stÉªk] æåº¦å…´å¥‹çš„ï¼›æƒ…æ¬²äº¢è¿›çš„
 
-ÕıÈç·Æ´Ä½ÜÀ­µÂËùĞ´£¬ÎÒÃÇ½«ÓÀÔ¶³ÁÃÔÓÚÒ»ÄêÄêÔÚÎÒÃÇÑÛÇ°½¥½¥Ô¶È¥µÄ¼«ÀÖÎ´À´¡£
+æ­£å¦‚è²èŒ¨æ°æ‹‰å¾·æ‰€å†™ï¼Œæˆ‘ä»¬å°†æ°¸è¿œæ²‰è¿·äºä¸€å¹´å¹´åœ¨æˆ‘ä»¬çœ¼å‰æ¸æ¸è¿œå»çš„æä¹æœªæ¥ã€‚
 
 A 57-year-old man with life-threatening heart disease has received a heart from a genetically modified pig, a groundbreaking procedure that offers hope to hundreds of thousands of patients with failing organs.
-Ò»ÃûÒò»¼ĞÄÔà²¡ÓĞÉúÃüÎ£ÏÕµÄ57ËêÄĞ×ÓÒÆÖ²ÁËÀ´×ÔÒ»Ö»¾­¹ı»ùÒò¸ÄÔìµÄÖíµÄĞÄÔà£¬ÕâÏî¿ª´´ĞÔµÄÊÖÊõÎªÊıÊ®ÍòÆ÷¹ÙË¥½ßµÄ»¼Õß´øÀ´ÁËÏ£Íû¡£
+ä¸€åå› æ‚£å¿ƒè„ç—…æœ‰ç”Ÿå‘½å±é™©çš„57å²ç”·å­ç§»æ¤äº†æ¥è‡ªä¸€åªç»è¿‡åŸºå› æ”¹é€ çš„çŒªçš„å¿ƒè„ï¼Œè¿™é¡¹å¼€åˆ›æ€§çš„æ‰‹æœ¯ä¸ºæ•°åä¸‡å™¨å®˜è¡°ç«­çš„æ‚£è€…å¸¦æ¥äº†å¸Œæœ›ã€‚
 
 Scientists have worked feverishly to develop pigs whose organs would not be rejected by the human body, research accelerated in the past decade by new gene editing and cloning technologies. 
-¿ÆÑ§¼ÒÃÇÒ»Ö±ÔÚÅ¬Á¦ÅàÓıÆ÷¹Ù²»»áÔÚÈËÌåÄÚ²úÉúÅÅ³â·´Ó¦µÄÖí£¬¹ıÈ¥10ÄêÖĞ£¬ĞÂµÄ»ùÒò±à¼­ºÍ¿ËÂ¡¼¼Êõ¼ÓËÙÁËÑĞ¾¿¡£
+ç§‘å­¦å®¶ä»¬ä¸€ç›´åœ¨åŠªåŠ›åŸ¹è‚²å™¨å®˜ä¸ä¼šåœ¨äººä½“å†…äº§ç”Ÿæ’æ–¥ååº”çš„çŒªï¼Œè¿‡å»10å¹´ä¸­ï¼Œæ–°çš„åŸºå› ç¼–è¾‘å’Œå…‹éš†æŠ€æœ¯åŠ é€Ÿäº†ç ”ç©¶ã€‚
 
-This is a watershed event, Doors are starting to open that will lead, I believe, to major changes in how we treat organ failure. Events like these can be dramatized in the press, and it¡¯s important to maintain perspective, It takes a long time to mature a therapy like this.
-ÕâÊÇÒ»¸ö·ÖË®ÁëÊÂ¼ş£¬ÎÒÏàĞÅ£¬»ú»áµÄ´óÃÅÕıÔÚ´ò¿ª£¬Õâ½«Ê¹ÎÒÃÇÖÎÁÆÆ÷¹ÙË¥½ßµÄ·½Ê½·¢ÉúÖØ´ó±ä»¯¡£ÏñÕâÑùµÄÊÂ¼şÔÚÃ½ÌåÉÏ¿ÉÄÜ±»¿ä´ó£¬±£³Ö¿Í¹ÛºÜÖØÒª£¬ÕâÑùµÄÖÎÁÆĞèÒªºÜ³¤Ê±¼ä²ÅÄÜ³ÉÊì¡£
+This is a watershed event, Doors are starting to open that will lead, I believe, to major changes in how we treat organ failure. Events like these can be dramatized in the press, and itâ€™s important to maintain perspective, It takes a long time to mature a therapy like this.
+è¿™æ˜¯ä¸€ä¸ªåˆ†æ°´å²­äº‹ä»¶ï¼Œæˆ‘ç›¸ä¿¡ï¼Œæœºä¼šçš„å¤§é—¨æ­£åœ¨æ‰“å¼€ï¼Œè¿™å°†ä½¿æˆ‘ä»¬æ²»ç–—å™¨å®˜è¡°ç«­çš„æ–¹å¼å‘ç”Ÿé‡å¤§å˜åŒ–ã€‚åƒè¿™æ ·çš„äº‹ä»¶åœ¨åª’ä½“ä¸Šå¯èƒ½è¢«å¤¸å¤§ï¼Œä¿æŒå®¢è§‚å¾ˆé‡è¦ï¼Œè¿™æ ·çš„æ²»ç–—éœ€è¦å¾ˆé•¿æ—¶é—´æ‰èƒ½æˆç†Ÿã€‚
 
-The new heart is functioning and already doing most of the work, and his doctors said he could be taken off the machine on Tuesday. It was either die or do this transplant, I know it¡¯s a shot in the dark, but it¡¯s my last choice.
-ĞÂµÄĞÄÔàÕıÔÚÔË×÷²¢ÇÒÒÑ¾­×ÔÖ÷Íê³ÉÁË´ó²¿·Ö¹¤×÷£¬ËûµÄÒ½ÉúËµËûÓĞ¿ÉÄÜÔÚÖÜ¶şÀë¿ª»úÆ÷¡£ÒªÃ´ËÀ£¬ÒªÃ´×öÒÆÖ²ÊÖÊõ¡£ÎÒÖªµÀÕâÊÇ±ÕÑÛÒ»²©£¬µ«ÕâÊÇÎÒ×îºóµÄÑ¡Ôñ
+The new heart is functioning and already doing most of the work, and his doctors said he could be taken off the machine on Tuesday. It was either die or do this transplant, I know itâ€™s a shot in the dark, but itâ€™s my last choice.
+æ–°çš„å¿ƒè„æ­£åœ¨è¿ä½œå¹¶ä¸”å·²ç»è‡ªä¸»å®Œæˆäº†å¤§éƒ¨åˆ†å·¥ä½œï¼Œä»–çš„åŒ»ç”Ÿè¯´ä»–æœ‰å¯èƒ½åœ¨å‘¨äºŒç¦»å¼€æœºå™¨ã€‚è¦ä¹ˆæ­»ï¼Œè¦ä¹ˆåšç§»æ¤æ‰‹æœ¯ã€‚æˆ‘çŸ¥é“è¿™æ˜¯é—­çœ¼ä¸€åšï¼Œä½†è¿™æ˜¯æˆ‘æœ€åçš„é€‰æ‹©
 
 In the 1960s, chimpanzee kidneys were transplanted into some human patients, but the longest a recipient lived was nine months. Pigs offer advantages over primates for organ procurements, because they are easier to raise and achieve adult human size in six months. 
-ÔÚ1960Äê´ú£¬ºÚĞÉĞÉµÄÉöÔà±»ÒÆÖ²µ½Ò»Ğ©ÈËÀà»¼ÕßÌåÄÚ£¬µ«½ÓÊÜÕß×î³¤´æ»îÁË9¸öÔÂ¡£Ïà½ÏÓÚÁé³¤Àà¶¯Îï£¬ÖíÔÚÆ÷¹Ù¹©Ô´ÉÏÓĞÓÅÊÆ£¬ÒòÎªÖí¸üÒ×ÓÚÅàÓı£¬¿ÉÒÔÔÚÁù¸öÔÂÄÚ´ïµ½³ÉÄêÈËÀàÆ÷¹ÙµÄ´óĞ¡¡£
+åœ¨1960å¹´ä»£ï¼Œé»‘çŒ©çŒ©çš„è‚¾è„è¢«ç§»æ¤åˆ°ä¸€äº›äººç±»æ‚£è€…ä½“å†…ï¼Œä½†æ¥å—è€…æœ€é•¿å­˜æ´»äº†9ä¸ªæœˆã€‚ç›¸è¾ƒäºçµé•¿ç±»åŠ¨ç‰©ï¼ŒçŒªåœ¨å™¨å®˜ä¾›æºä¸Šæœ‰ä¼˜åŠ¿ï¼Œå› ä¸ºçŒªæ›´æ˜“äºåŸ¹è‚²ï¼Œå¯ä»¥åœ¨å…­ä¸ªæœˆå†…è¾¾åˆ°æˆå¹´äººç±»å™¨å®˜çš„å¤§å°ã€‚
 
 The pig had 10 genetic modifications. Four genes were knocked out, or inactivated, including one that encodes a molecule that causes an aggressive human rejection response.
-ÕâÖ»Öí½øĞĞÁË10´¦»ùÒòĞŞ¸Ä¡£ËÄ¸ö»ùÒò±»ÌŞ³ı»òÊ§»î£¬ÆäÖĞÒ»¸öĞ¯´øÁËÒ»ÖÖ¿Éµ¼ÖÂ¾çÁÒÈËÌåÅÅ³â·´Ó¦µÄ·Ö×ÓµÄ±àÂë¡£
+è¿™åªçŒªè¿›è¡Œäº†10å¤„åŸºå› ä¿®æ”¹ã€‚å››ä¸ªåŸºå› è¢«å‰”é™¤æˆ–å¤±æ´»ï¼Œå…¶ä¸­ä¸€ä¸ªæºå¸¦äº†ä¸€ç§å¯å¯¼è‡´å‰§çƒˆäººä½“æ’æ–¥ååº”çš„åˆ†å­çš„ç¼–ç ã€‚
 
-his father had had a pig¡¯s valve inserted about a decade ago, He¡¯d been in the hospital a month or more, and I knew delirium could set in. I thought, no way, shape or form is that happening.
-¸¸Ç×ÔÚ´óÔ¼Ê®ÄêÇ°Ö²ÈëÁËÖíĞÄÔà°êÄ¤£¬ËûÒÑ¾­×¡ÔºÒ»¸ö¶àÔÂÁË£¬ÎÒÖªµÀ»áÓĞ³öÏÖ¾«Éñ´íÂÒµÄ¿ÉÄÜ¡£ÎÒĞÄÏë£¬ÕâÔõÃ´¿ÉÄÜÊÇÕæµÄÄØ¡£
+his father had had a pigâ€™s valve inserted about a decade ago, Heâ€™d been in the hospital a month or more, and I knew delirium could set in. I thought, no way, shape or form is that happening.
+çˆ¶äº²åœ¨å¤§çº¦åå¹´å‰æ¤å…¥äº†çŒªå¿ƒè„ç“£è†œï¼Œä»–å·²ç»ä½é™¢ä¸€ä¸ªå¤šæœˆäº†ï¼Œæˆ‘çŸ¥é“ä¼šæœ‰å‡ºç°ç²¾ç¥é”™ä¹±çš„å¯èƒ½ã€‚æˆ‘å¿ƒæƒ³ï¼Œè¿™æ€ä¹ˆå¯èƒ½æ˜¯çœŸçš„å‘¢ã€‚
 
-The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. the city would ¡°fulfill to the utmost¡± its role as a ¡°moat¡± protecting Beijing
-¸ÃÊĞ»¹Ğû²¼ÁËÒ»ÏµÁĞÏŞÖÆ´ëÊ©£¬ÒÔ¶ôÖÆÒßÇé¼°ËİÔ´¡£Ìì½òÊĞ½«ÂÄĞĞ×÷ÎªÊ×¶¼ÒßÇé·À¿Ø¡°»¤³ÇºÓ¡±µÄ¡°Ó¦¾¡Ö°Ôğ¡±
+The city also announced a raft of restrictions in an effort to contain the outbreak and trace its source. the city would â€œfulfill to the utmostâ€ its role as a â€œmoatâ€ protecting Beijing
+è¯¥å¸‚è¿˜å®£å¸ƒäº†ä¸€ç³»åˆ—é™åˆ¶æªæ–½ï¼Œä»¥éåˆ¶ç–«æƒ…åŠæº¯æºã€‚å¤©æ´¥å¸‚å°†å±¥è¡Œä½œä¸ºé¦–éƒ½ç–«æƒ…é˜²æ§â€œæŠ¤åŸæ²³â€çš„â€œåº”å°½èŒè´£â€
 
-Nursultan Nazarbayev, Kazakhstan¡¯s lifelong leader until he began gradually handing power to a successor in 2019, was, by all appearances, keenly aware of this problem. Mr. Nazarbayev stage-managed his own departure in ways that suggest painstaking attention to the lessons of history, His departure does not appear to have specifically set off Kazakhstan¡¯s protests.
-¸÷ÖÖ¼£Ïó±íÃ÷£¬Ö±µ½2019Äê²ÅÖğ½¥ÒÆ½»È¨Á¦¸ø¼ÌÈÎÕßµÄ¹şÈø¿ËË¹Ì¹ÖÕÉíÁìµ¼ÈËÅ¬¶ûËÕµ¤¡¤ÄÉÔú¶û°ÍÒ®·òÏÔÈ»ºÜÇå³şÕâÒ»µã¡£ ÄÉÔú¶û°ÍÒ®·ò¶Ô×Ô¼ºµÄÀëÈÎ½øĞĞÁË¾«ĞÄ°²ÅÅ£¬±íÏÖ³öËû¶ÔÀúÊ·½ÌÑµµÄ¼«ÆäÖØÊÓ,ËûµÄÀëÈÎËÆºõ²¢·Ç¹şÈø¿ËË¹Ì¹¿¹Òé»î¶¯µÄµ¼»ğË÷¡£
+Nursultan Nazarbayev, Kazakhstanâ€™s lifelong leader until he began gradually handing power to a successor in 2019, was, by all appearances, keenly aware of this problem. Mr. Nazarbayev stage-managed his own departure in ways that suggest painstaking attention to the lessons of history, His departure does not appear to have specifically set off Kazakhstanâ€™s protests.
+å„ç§è¿¹è±¡è¡¨æ˜ï¼Œç›´åˆ°2019å¹´æ‰é€æ¸ç§»äº¤æƒåŠ›ç»™ç»§ä»»è€…çš„å“ˆè¨å…‹æ–¯å¦ç»ˆèº«é¢†å¯¼äººåŠªå°”è‹ä¸¹Â·çº³æ‰å°”å·´è€¶å¤«æ˜¾ç„¶å¾ˆæ¸…æ¥šè¿™ä¸€ç‚¹ã€‚ çº³æ‰å°”å·´è€¶å¤«å¯¹è‡ªå·±çš„ç¦»ä»»è¿›è¡Œäº†ç²¾å¿ƒå®‰æ’ï¼Œè¡¨ç°å‡ºä»–å¯¹å†å²æ•™è®­çš„æå…¶é‡è§†,ä»–çš„ç¦»ä»»ä¼¼ä¹å¹¶éå“ˆè¨å…‹æ–¯å¦æŠ—è®®æ´»åŠ¨çš„å¯¼ç«ç´¢ã€‚
 
-But now that Mr. Djokovic has been released and his visa restored ¡ª after a blistering hearing before a federal judge on Monday. Mr. Morrison¡¯s eagerness to portray him as an arrogant violator of Australia¡¯s egalitarian ideals has started to look like an unforced error.
-µ«Ò»ÃûÁª°î·¨¹ÙÔÚ±¾ÖÜÒ»¾ÙĞĞÁËÒ»³¡ÑÔ´Ç¼¤ÁÒµÄ·¨Í¥ÌıÖ¤ºó£¬µÂÔ¼¿ÆÎ¬ÆæÏÖÒÑ»ñÊÍ£¬ËûµÄÇ©Ö¤Ò²ÒÑ»Ö¸´ÁËĞ§Á¦¡£ÄªÀïÉ­¼±ÓÚ½«µÂÔ¼¿ÆÎ¬ÆæÃè»æ³ÉÒ»¸öÎ¥·´ÁË°Ä´óÀûÑÇÆ½µÈÖ÷ÒåÀíÏëµÄ°ÁÂıÖ®ÈË£¬Õâ¿´ÆğÀ´ÒÑ¿ªÊ¼ÏñÒ»¸ö¡°·ÇÊÜÆÈĞÔÊ§Îó¡±£¨ÍøÇòÊõÓï£©
+But now that Mr. Djokovic has been released and his visa restored â€” after a blistering hearing before a federal judge on Monday. Mr. Morrisonâ€™s eagerness to portray him as an arrogant violator of Australiaâ€™s egalitarian ideals has started to look like an unforced error.
+ä½†ä¸€åè”é‚¦æ³•å®˜åœ¨æœ¬å‘¨ä¸€ä¸¾è¡Œäº†ä¸€åœºè¨€è¾æ¿€çƒˆçš„æ³•åº­å¬è¯åï¼Œå¾·çº¦ç§‘ç»´å¥‡ç°å·²è·é‡Šï¼Œä»–çš„ç­¾è¯ä¹Ÿå·²æ¢å¤äº†æ•ˆåŠ›ã€‚è«é‡Œæ£®æ€¥äºå°†å¾·çº¦ç§‘ç»´å¥‡æç»˜æˆä¸€ä¸ªè¿åäº†æ¾³å¤§åˆ©äºšå¹³ç­‰ä¸»ä¹‰ç†æƒ³çš„å‚²æ…¢ä¹‹äººï¼Œè¿™çœ‹èµ·æ¥å·²å¼€å§‹åƒä¸€ä¸ªâ€œéå—è¿«æ€§å¤±è¯¯â€ï¼ˆç½‘çƒæœ¯è¯­ï¼‰
 
 The prime minister now faces a difficult choice: whether to double down, or to fold and let Mr. Djokovic try to win his 10th title in the Australian Open, which starts on Monday.
-ÄªÀïÉ­ÏÖÔÚÃæÁÙÒ»¸ö¼èÄÑÑ¡Ôñ£ºÊÇ¼ÌĞø¼Ó×¢£¬»¹ÊÇÆúÅÆ£¬ÈÃµÂÔ¼¿ÆÎ¬ÆæÔÚÏÂÖÜÒ»¿ªÊ¼µÄ°Ä´óÀûÑÇÍøÇò¹«¿ªÈüÉÏÅ¬Á¦¶áÈ¡ËûµÄµÚ10¸ö¹Ú¾ü¡£
+è«é‡Œæ£®ç°åœ¨é¢ä¸´ä¸€ä¸ªè‰°éš¾é€‰æ‹©ï¼šæ˜¯ç»§ç»­åŠ æ³¨ï¼Œè¿˜æ˜¯å¼ƒç‰Œï¼Œè®©å¾·çº¦ç§‘ç»´å¥‡åœ¨ä¸‹å‘¨ä¸€å¼€å§‹çš„æ¾³å¤§åˆ©äºšç½‘çƒå…¬å¼€èµ›ä¸ŠåŠªåŠ›å¤ºå–ä»–çš„ç¬¬10ä¸ªå† å†›ã€‚
 
 But what may seem like a perilous episode from a bygone era will be front and center this week in global diplomacy
-È»¶ø£¬¾ÍÊÇÕâÑùÒ»¸ö¿´ËÆ·¢ÉúÔÚ¹ıÈ¥Ê±´úµÄÎ£ÏÕÊÂ¼ş£¬±¾ÖÜ½«³ÉÎªÈ«ÇòÍâ½»½¹µã
+ç„¶è€Œï¼Œå°±æ˜¯è¿™æ ·ä¸€ä¸ªçœ‹ä¼¼å‘ç”Ÿåœ¨è¿‡å»æ—¶ä»£çš„å±é™©äº‹ä»¶ï¼Œæœ¬å‘¨å°†æˆä¸ºå…¨çƒå¤–äº¤ç„¦ç‚¹
 
 Russia has made a list of far-reaching demands: that NATO pledge to halt further eastward expansion and pull back its troops from NATO members bordering Russia
-¶íÂŞË¹Ìá³öÁËÒ»ÏµÁĞÒâÒåÉîÔ¶µÄÒªÇó£º±±Ô¼³ĞÅµÍ£Ö¹½øÒ»²½¶«À©£¬²¢´ÓÓë¶íÂŞË¹½ÓÈÀµÄ±±Ô¼³ÉÔ±¹ú³·¾ü
+ä¿„ç½—æ–¯æå‡ºäº†ä¸€ç³»åˆ—æ„ä¹‰æ·±è¿œçš„è¦æ±‚ï¼šåŒ—çº¦æ‰¿è¯ºåœæ­¢è¿›ä¸€æ­¥ä¸œæ‰©ï¼Œå¹¶ä»ä¸ä¿„ç½—æ–¯æ¥å£¤çš„åŒ—çº¦æˆå‘˜å›½æ’¤å†›
 
-Essentially, Mr. Putin is seeking to redraw the post-Cold War boundaries of Europe, establishing a broad, Russian-dominated security zone and pulling Ukraine back into Moscow¡¯s orbit by force, if necessary.
-´Ó±¾ÖÊÉÏËµ£¬ÆÕ¾©ÊÇÔÚÑ°ÇóÖØĞÂ»®¶¨ÀäÕ½ºóµÄÅ·ÖŞ±ß½ç£¬½¨Á¢Ò»¸öÓÉ¶íÂŞË¹Ö÷µ¼µÄ¹ãÀ«°²È«Çø£¬²¢ÔÚ±ØÒªÊ±ÓÃÎäÁ¦½«ÎÚ¿ËÀ¼À­»ØÄªË¹¿ÆµÄ¹ìµÀ¡£
+Essentially, Mr. Putin is seeking to redraw the post-Cold War boundaries of Europe, establishing a broad, Russian-dominated security zone and pulling Ukraine back into Moscowâ€™s orbit by force, if necessary.
+ä»æœ¬è´¨ä¸Šè¯´ï¼Œæ™®äº¬æ˜¯åœ¨å¯»æ±‚é‡æ–°åˆ’å®šå†·æˆ˜åçš„æ¬§æ´²è¾¹ç•Œï¼Œå»ºç«‹ä¸€ä¸ªç”±ä¿„ç½—æ–¯ä¸»å¯¼çš„å¹¿é˜”å®‰å…¨åŒºï¼Œå¹¶åœ¨å¿…è¦æ—¶ç”¨æ­¦åŠ›å°†ä¹Œå…‹å…°æ‹‰å›è«æ–¯ç§‘çš„è½¨é“ã€‚
 
 Now 69 years old and edging toward the twilight of his political career, Mr. Putin is determined to burnish his legacy and to correct what he has long viewed as the greatest catastrophe of the 20th century: the disintegration of the former Soviet Union.
-ÏÖÄê69ËêµÄÆÕ¾©ÒÑ½Ó½üÆäÕşÖÎÉúÑÄµÄÎ²Éù£¬Ëû¾öĞÄÎª×Ô¼ºµÄÕşÖÎÒÅ²úÔöÉ«£¬²¢¾ÀÕıËû³¤ÆÚÒÔÀ´ĞÄÄ¿ÖĞ20ÊÀ¼ÍµÄ×î´óÔÖÄÑ£ºÇ°ËÕÁª½âÌå¡£
+ç°å¹´69å²çš„æ™®äº¬å·²æ¥è¿‘å…¶æ”¿æ²»ç”Ÿæ¶¯çš„å°¾å£°ï¼Œä»–å†³å¿ƒä¸ºè‡ªå·±çš„æ”¿æ²»é—äº§å¢è‰²ï¼Œå¹¶çº æ­£ä»–é•¿æœŸä»¥æ¥å¿ƒç›®ä¸­20ä¸–çºªçš„æœ€å¤§ç¾éš¾ï¼šå‰è‹è”è§£ä½“ã€‚
 
-But while some analysts have portrayed Mr. Putin as a wily chess player adroitly manipulating the West, his latest gambit could backfire. if Mr. Putin¡¯s aim is to reassert Russia¡¯s sphere of influence
-²»¹ı£¬¾¡¹ÜÒ»Ğ©·ÖÎöÈËÊ¿°ÑÆÕ¾©Ãè»æ³ÉÒ»¸ö½Æ»«µÄÆåÊÖ£¬ÇÉÃîµØ²Ù×İ×ÅÎ÷·½£¬ËûµÄ×îĞÂ¾Ù´ë¿ÉÄÜ»áÊÊµÃÆä·´¡£Èç¹ûÆÕ¾©µÄÄ¿±êÊÇÖØĞÂÈ·Á¢¶íÂŞË¹µÄÊÆÁ¦·¶Î§
+But while some analysts have portrayed Mr. Putin as a wily chess player adroitly manipulating the West, his latest gambit could backfire. if Mr. Putinâ€™s aim is to reassert Russiaâ€™s sphere of influence
+ä¸è¿‡ï¼Œå°½ç®¡ä¸€äº›åˆ†æäººå£«æŠŠæ™®äº¬æç»˜æˆä¸€ä¸ªç‹¡çŒ¾çš„æ£‹æ‰‹ï¼Œå·§å¦™åœ°æ“çºµç€è¥¿æ–¹ï¼Œä»–çš„æœ€æ–°ä¸¾æªå¯èƒ½ä¼šé€‚å¾—å…¶åã€‚å¦‚æœæ™®äº¬çš„ç›®æ ‡æ˜¯é‡æ–°ç¡®ç«‹ä¿„ç½—æ–¯çš„åŠ¿åŠ›èŒƒå›´
 
-How the United States handles Russia and Ukraine will affect its ongoing efforts at rebuilding frayed ties with NATO allies after the Trump presidency. What¡¯s at stake for Europe?
-ÔÚÌØÀÊÆÕÈÎÆÚ½áÊøºó£¬ÃÀ¹úÅ¬Á¦ÖØ½¨Óë±±Ô¼ÃË¹úµÄÊÜËğ¹ØÏµ£¬¸Ã¹úÈçºÎ´¦Àí¶íÂŞË¹ºÍÎÚ¿ËÀ¼½«¶ÔÕâÒ»ÖØ½¨Å¬Á¦²úÉúÓ°Ïì¡£¶ÔÓÚÅ·ÖŞÓĞÄÄĞ©Àûº¦Øü¹Ø£¿
+How the United States handles Russia and Ukraine will affect its ongoing efforts at rebuilding frayed ties with NATO allies after the Trump presidency. Whatâ€™s at stake for Europe?
+åœ¨ç‰¹æœ—æ™®ä»»æœŸç»“æŸåï¼Œç¾å›½åŠªåŠ›é‡å»ºä¸åŒ—çº¦ç›Ÿå›½çš„å—æŸå…³ç³»ï¼Œè¯¥å›½å¦‚ä½•å¤„ç†ä¿„ç½—æ–¯å’Œä¹Œå…‹å…°å°†å¯¹è¿™ä¸€é‡å»ºåŠªåŠ›äº§ç”Ÿå½±å“ã€‚å¯¹äºæ¬§æ´²æœ‰å“ªäº›åˆ©å®³æ”¸å…³ï¼Ÿ
 
 The virus-free cocoon Mr. Putin has tried to establish around himself has meant that even confidants are forced to spend days in quarantine before being allowed into the same room with him, further reducing his connections with the outside world.
-ÆÕ¾©ÊÔÍ¼ÔÚ×Ô¼ºÖÜÎ§½¨Á¢Ò»¸öÃ»ÓĞ²¡¶¾µÄ±£»¤È¦£¬ÕâÒâÎ¶×Å¼´Ê¹ÊÇÃÜÓÑÒ²µÃÔÚ¸ôÀë¼¸Ììºó£¬²ÅÄÜ»ñ×¼ÓëËû¹²´¦Ò»ÊÒ£¬Õâ½øÒ»²½¼õÉÙÁËËûÓëÍâ²¿ÊÀ½çµÄÁªÏµ
+æ™®äº¬è¯•å›¾åœ¨è‡ªå·±å‘¨å›´å»ºç«‹ä¸€ä¸ªæ²¡æœ‰ç—…æ¯’çš„ä¿æŠ¤åœˆï¼Œè¿™æ„å‘³ç€å³ä½¿æ˜¯å¯†å‹ä¹Ÿå¾—åœ¨éš”ç¦»å‡ å¤©åï¼Œæ‰èƒ½è·å‡†ä¸ä»–å…±å¤„ä¸€å®¤ï¼Œè¿™è¿›ä¸€æ­¥å‡å°‘äº†ä»–ä¸å¤–éƒ¨ä¸–ç•Œçš„è”ç³»
 
 we need at least something, at least a legally binding agreement rather than just verbal assurances.
-ÎÒÃÇÖÁÉÙĞèÒªÒ»Ğ©¶«Î÷£¬ÖÁÉÙĞèÒªÒ»¸ö¾ßÓĞ·¨ÂÉÔ¼ÊøÁ¦µÄĞ­Òé£¬¶ø²»½ö½öÊÇ¿ÚÍ·±£Ö¤
+æˆ‘ä»¬è‡³å°‘éœ€è¦ä¸€äº›ä¸œè¥¿ï¼Œè‡³å°‘éœ€è¦ä¸€ä¸ªå…·æœ‰æ³•å¾‹çº¦æŸåŠ›çš„åè®®ï¼Œè€Œä¸ä»…ä»…æ˜¯å£å¤´ä¿è¯
 
 He assumes that the Americans will pay attention only to that which concretely, immediately threatens them, He uses unpredictability, he uses tension, he uses threats.
-ËûÈÏÎª£¬ÃÀ¹úÈËÖ»»á¹Ø×¢ÄÇĞ©Ö±½ÓÍşĞ²µ½ËûÃÇµÄ¾ßÌåÊÂÇé£¬ËûÔÚÀûÓÃ²»¿ÉÔ¤²âĞÔ¡¢½ôÕÅ¸ĞºÍÍşĞ²
+ä»–è®¤ä¸ºï¼Œç¾å›½äººåªä¼šå…³æ³¨é‚£äº›ç›´æ¥å¨èƒåˆ°ä»–ä»¬çš„å…·ä½“äº‹æƒ…ï¼Œä»–åœ¨åˆ©ç”¨ä¸å¯é¢„æµ‹æ€§ã€ç´§å¼ æ„Ÿå’Œå¨èƒ
 
 NATO has repeatedly ruled out the idea that it would allow any other country to veto who can and cannot be in the alliance, creating what appears to be an impasse. 
-±±Ô¼¶à´ÎÅÅ³ıÁËÔÊĞíÆäËû¹ú¼Ò¶ÔË­ÄÜ¼ÓÈë±±Ô¼ĞĞÊ¹·ñ¾öÈ¨µÄÏë·¨£¬ÕâËÆºõÔì³ÉÁËÒ»¸ö½©¾Ö
+åŒ—çº¦å¤šæ¬¡æ’é™¤äº†å…è®¸å…¶ä»–å›½å®¶å¯¹è°èƒ½åŠ å…¥åŒ—çº¦è¡Œä½¿å¦å†³æƒçš„æƒ³æ³•ï¼Œè¿™ä¼¼ä¹é€ æˆäº†ä¸€ä¸ªåƒµå±€
 
-He receives this or that information, Those who provide it don¡¯t exert their own influence and don¡¯t know how it¡¯s going to work out.
-Ëû»áÊÕµ½ÕâÑù»òÄÇÑùµÄĞÅÏ¢£¬ÄÇĞ©Ìá¹©°ïÖúµÄÈË²»»áÊ©¼Ó×Ô¼ºµÄÓ°Ïì£¬Ò²²»ÖªµÀ½á¹û»áÔõÑù
+He receives this or that information, Those who provide it donâ€™t exert their own influence and donâ€™t know how itâ€™s going to work out.
+ä»–ä¼šæ”¶åˆ°è¿™æ ·æˆ–é‚£æ ·çš„ä¿¡æ¯ï¼Œé‚£äº›æä¾›å¸®åŠ©çš„äººä¸ä¼šæ–½åŠ è‡ªå·±çš„å½±å“ï¼Œä¹Ÿä¸çŸ¥é“ç»“æœä¼šæ€æ ·
 
-At first, I didn¡¯t recognize the symptoms that we all had in common. Friends mentioned that they were having trouble concentrating. It wasn¡¯t burnout ¡ª we still had energy. It wasn¡¯t depression ¡ª we didn¡¯t feel hopeless. We just felt somewhat joyless and aimless. It turns out there¡¯s a name for that: languishing.
-Ò»¿ªÊ¼£¬ÎÒÃ»ÓĞÒâÊ¶µ½Õâ¸öÎÒÃÇ¹²ÓĞµÄÖ¢×´¡£ÅóÓÑÃÇËµ×Ô¼ººÜÄÑ¼¯ÖĞ×¢ÒâÁ¦¡£Õâ²¢²»ÊÇ¾ëµ¡¡ª¡ªÎÒÃÇ»¹ÓĞ¾«Á¦¡£ÕâÒ²²»ÊÇÒÖÓô¡ª¡ªÎÒÃÇÃ»ÓĞ¸Ğµ½¾øÍû¡£ÎÒÃÇÖ»ÊÇ¸Ğµ½ÓĞĞ©ÎŞÈ¤¡¢Ã»ÓĞÄ¿±ê¡£ÕâÖÖÏÖÏóÓĞÒ»¸öÃû×Ö£ºÎ®ÃÒ(languishing)¡£
+At first, I didnâ€™t recognize the symptoms that we all had in common. Friends mentioned that they were having trouble concentrating. It wasnâ€™t burnout â€” we still had energy. It wasnâ€™t depression â€” we didnâ€™t feel hopeless. We just felt somewhat joyless and aimless. It turns out thereâ€™s a name for that: languishing.
+ä¸€å¼€å§‹ï¼Œæˆ‘æ²¡æœ‰æ„è¯†åˆ°è¿™ä¸ªæˆ‘ä»¬å…±æœ‰çš„ç—‡çŠ¶ã€‚æœ‹å‹ä»¬è¯´è‡ªå·±å¾ˆéš¾é›†ä¸­æ³¨æ„åŠ›ã€‚è¿™å¹¶ä¸æ˜¯å€¦æ€ â€”â€”æˆ‘ä»¬è¿˜æœ‰ç²¾åŠ›ã€‚è¿™ä¹Ÿä¸æ˜¯æŠ‘éƒâ€”â€”æˆ‘ä»¬æ²¡æœ‰æ„Ÿåˆ°ç»æœ›ã€‚æˆ‘ä»¬åªæ˜¯æ„Ÿåˆ°æœ‰äº›æ— è¶£ã€æ²¡æœ‰ç›®æ ‡ã€‚è¿™ç§ç°è±¡æœ‰ä¸€ä¸ªåå­—ï¼šèé¡(languishing)ã€‚
 
-Colleagues reported that even with vaccines on the horizon, they weren¡¯t excited about 2021.
-Í¬ÊÂÃÇËµ¼´Ê¹ÒßÃç¼´½«ÎÊÊÀ£¬ËûÃÇ¶Ô2021ÄêÒ²Ã»¶àÉÙÆÚ´ı¡£
+Colleagues reported that even with vaccines on the horizon, they werenâ€™t excited about 2021.
+åŒäº‹ä»¬è¯´å³ä½¿ç–«è‹—å³å°†é—®ä¸–ï¼Œä»–ä»¬å¯¹2021å¹´ä¹Ÿæ²¡å¤šå°‘æœŸå¾…ã€‚
 
-Even now, despite my constant horror at this country¡¯s punch-drunk disintegration, I find the idea of a total meltdown hard to wrap my mind around.
-¼´Ê¹ÊÇÏÖÔÚ£¬¾¡¹ÜÎŞÊ±ÎŞ¿Ì¶¼º¦ÅÂÕâ¸ö¹ú¼Ò»áÏ¡ÀïºıÍ¿µØ×ßÏò·ÖÁÑ£¬ÎÒÒ²»¹ÊÇºÜÄÑÏëÏóÃÀ¹ú»á³¹µ×±ÀÀ£
+Even now, despite my constant horror at this countryâ€™s punch-drunk disintegration, I find the idea of a total meltdown hard to wrap my mind around.
+å³ä½¿æ˜¯ç°åœ¨ï¼Œå°½ç®¡æ— æ—¶æ— åˆ»éƒ½å®³æ€•è¿™ä¸ªå›½å®¶ä¼šç¨€é‡Œç³Šæ¶‚åœ°èµ°å‘åˆ†è£‚ï¼Œæˆ‘ä¹Ÿè¿˜æ˜¯å¾ˆéš¾æƒ³è±¡ç¾å›½ä¼šå½»åº•å´©æºƒ
 
 given the history of federal confrontations with the far right at Waco, Ruby Ridge and the Malheur National Wildlife Refuge, I suspect an American president determined to break up a sovereign citizen encampment would send the F.B.I., not an Army general relying on counterinsurgency doctrine.
-¼øÓÚÁª°îÕş¸®ÔÚÎ¤¿Æ¡¢ºì±¦Ê¯É½¼¹ºÍÂíÂ¬¶û¹ú¼ÒÒ°Éú¶¯Îï±£»¤ÇøÓë¼«ÓÒÒíÊÆÁ¦¶Ô¿¹µÄÀúÊ·£¬ÎÒÈÏÎªÒ»Î»ÏÂ¶¨¾öĞÄ½âÉ¢Ä³¸ö¹«Ãñ×ÔÖÎÓªµØµÄÃÀ¹ú×ÜÍ³»áÅÉÇ²Áª°îµ÷²é¾Ö£¬¶ø²»ÊÇ×ñÑ­Æ½ÅÑ×÷Õ½Ô­ÔòµÄ¾üÈË³öÃæ´¦Àí¡£
+é‰´äºè”é‚¦æ”¿åºœåœ¨éŸ¦ç§‘ã€çº¢å®çŸ³å±±è„Šå’Œé©¬å¢å°”å›½å®¶é‡ç”ŸåŠ¨ç‰©ä¿æŠ¤åŒºä¸æå³ç¿¼åŠ¿åŠ›å¯¹æŠ—çš„å†å²ï¼Œæˆ‘è®¤ä¸ºä¸€ä½ä¸‹å®šå†³å¿ƒè§£æ•£æŸä¸ªå…¬æ°‘è‡ªæ²»è¥åœ°çš„ç¾å›½æ€»ç»Ÿä¼šæ´¾é£è”é‚¦è°ƒæŸ¥å±€ï¼Œè€Œä¸æ˜¯éµå¾ªå¹³å›ä½œæˆ˜åŸåˆ™çš„å†›äººå‡ºé¢å¤„ç†ã€‚
 
-No longer content with upsetting the West, Mr. Putin is now trying to force it to agree to a new global dispensation, with Russia restored to eminence. It doesn¡¯t stop there, though. 
-ÆÕ¾©²»ÔÙÂú×ãÓÚÈÇÄÕÎ÷·½£¬ËûÏÖÔÚÕıÊÔÍ¼ÆÈÊ¹Î÷·½Í¬ÒâÒ»ÖÖĞÂµÄÈ«Çò¸ñ¾Ö£¬ÈÃ¶íÂŞË¹»Ö¸´ÆäÏÔºÕµØÎ»¡£µ«»¹²»Ö¹ÓÚ´Ë¡£
+No longer content with upsetting the West, Mr. Putin is now trying to force it to agree to a new global dispensation, with Russia restored to eminence. It doesnâ€™t stop there, though. 
+æ™®äº¬ä¸å†æ»¡è¶³äºæƒ¹æ¼è¥¿æ–¹ï¼Œä»–ç°åœ¨æ­£è¯•å›¾è¿«ä½¿è¥¿æ–¹åŒæ„ä¸€ç§æ–°çš„å…¨çƒæ ¼å±€ï¼Œè®©ä¿„ç½—æ–¯æ¢å¤å…¶æ˜¾èµ«åœ°ä½ã€‚ä½†è¿˜ä¸æ­¢äºæ­¤ã€‚
 
-In this free-for-all, Mr. Putin ¡ª mercurial master of suspense and the sudden move ¡ª can pursue his fusion of geopolitical power and personal rule.
-ÔÚÕâ³¡»ìÕ½ÖĞ£¬ÆÕ¾©¡ª¡ªÕâÎ»·´¸´ÎŞ³£µÄĞüÄîÓëÍ»È»Ö®¾ÙµÄ´óÊ¦¡ª¡ª¿ÉÒÔÑ°ÇóµØÔµÕşÖÎÁ¦Á¿ºÍ¸öÈËÍ³ÖÎµÄÈÚºÏ
+In this free-for-all, Mr. Putin â€” mercurial master of suspense and the sudden move â€” can pursue his fusion of geopolitical power and personal rule.
+åœ¨è¿™åœºæ··æˆ˜ä¸­ï¼Œæ™®äº¬â€”â€”è¿™ä½åå¤æ— å¸¸çš„æ‚¬å¿µä¸çªç„¶ä¹‹ä¸¾çš„å¤§å¸ˆâ€”â€”å¯ä»¥å¯»æ±‚åœ°ç¼˜æ”¿æ²»åŠ›é‡å’Œä¸ªäººç»Ÿæ²»çš„èåˆ
 
 So far, the Kremlin has been extremely lucky, or extraordinarily skilled, in playing a weak hand without aces up its sleeve. It deals with a Western establishment determined to maintain the status quo, even if that means accommodation. Mr. Putin no doubt senses the advantage.
-µ½Ä¿Ç°ÎªÖ¹£¬¿ËÀïÄ·ÁÖ¹¬Ò»Ö±·Ç³£ĞÒÔË£¬»òÕßËµ·Ç³£ÓĞ¼¼ÇÉ£¬ÔÚÃ»ÓĞÍõÅÆµÄÇé¿öÏÂ°ÑÒ»ÊÖÀÃÅÆ´òµÃºÜºÃ¡£ËüÃæ¶ÔµÄÊÇÒ»¸öÄÄÅÂÍ×Ğ­Ò²Òª¼á³ÖÎ¬³ÖÏÖ×´µÄÎ÷·½¼¯ÍÅ¡£ÆÕ¾©ÎŞÒÉÒâÊ¶µ½ÁËÕâÒ»ÓÅÊÆ¡£
+åˆ°ç›®å‰ä¸ºæ­¢ï¼Œå…‹é‡Œå§†æ—å®«ä¸€ç›´éå¸¸å¹¸è¿ï¼Œæˆ–è€…è¯´éå¸¸æœ‰æŠ€å·§ï¼Œåœ¨æ²¡æœ‰ç‹ç‰Œçš„æƒ…å†µä¸‹æŠŠä¸€æ‰‹çƒ‚ç‰Œæ‰“å¾—å¾ˆå¥½ã€‚å®ƒé¢å¯¹çš„æ˜¯ä¸€ä¸ªå“ªæ€•å¦¥åä¹Ÿè¦åšæŒç»´æŒç°çŠ¶çš„è¥¿æ–¹é›†å›¢ã€‚æ™®äº¬æ— ç–‘æ„è¯†åˆ°äº†è¿™ä¸€ä¼˜åŠ¿ã€‚
 
