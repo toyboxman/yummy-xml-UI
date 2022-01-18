@@ -419,3 +419,108 @@ So far, the Kremlin has been **extremely lucky, or extraordinarily skilled**, in
 
 到目前为止，克里姆林宫一直非常幸运，或者说非常有技巧，在没有王牌的情况下把一手烂牌打得很好。它面对的是一个哪怕妥协也要坚持维持现状的西方集团。普京无疑意识到了这一优势。
 
+Don’t try to **hijack me morally**, I’m just **carrying out my duty**. A needle size loophole can **funnel high wind**, their future pandemic control efforts should remain “strict.”  
+>funnel[ˈfʌn(ə)l] 漏斗；烟囱; 流经
+
+你不能道德绑架我们。我们是履行职责。针尖大的窟窿能漏过斗大的风, 他们未来仍要努力“严格”控制疫情。
+
+Mr. Johnson’s contrition, of course, comes nowhere close to one of history’s most extreme **mea culpas**: Holy Roman Emperor Henry IV’s **trek across the Alps** in 1077 to **beg forgiveness** from Pope Gregory VII, who had **excommunicated** him. (The pope **ended up being deposed** by Henry three years later.)
+>mea culpas 道歉；认错  
+>excommunicate[ˌekskəˈmjunɪˌkeɪt] 逐出教会；开除……的教籍  
+>depose[dɪˈpoʊz] 罢免；废黜
+
+当然，约翰逊的歉疚与历史上最极端的认错之一相差甚远：神圣罗马帝国皇帝亨利四世于1077年翻越阿尔卑斯山，请求将他逐出教门的教宗额我略七世的宽恕。（三年后，教宗最终被亨利废黜。）
+
+He was even more **contrite** in a **subsequent** speech to **clergy members**, declaring: “I don’t think **there’s a fancy way to say that I have sinned**.” He was later **impeached** by the House on charges of **perjury and obstructing justice** but was **acquitted** in a Senate trial.
+>contrite[ˈkɑnˌtraɪt] 后悔的；悔罪的；悔悟的  
+>clergy[ˈklɜrdʒi] 神职人员；牧师；僧侣  
+>prejury 作伪证
+
+在随后对神职人员的讲话中，他更加懊悔，宣称：“我有罪，我认为这件事难用体面的话来描述。”他后来遭众议院弹劾，罪名是作伪证和妨碍司法公正，但在参议院的审判中被宣告无罪。
+
+The scandal destroyed his marriage, and “Appalachian Trail” became a **euphemism for infidelity**. Mr. Sanford apologized in a speech that **evoked biblical tales of redemption**. 
+>euphemism[ˈjufəˌmɪzəm] 委婉的说法  
+>infidelity[ˌɪnfɪˈdeləti] 不忠实；不贞；无信仰  
+>evoke 引起；博得；唤醒  
+>biblical[ˈbɪblɪk(ə)l] 圣经的  
+>redemption[rɪˈdempʃən] 救赎
+
+这桩丑闻毁了他的婚姻，“阿帕拉契小径”成了出轨的委婉说法。桑福德在一次提及圣经救赎故事的演讲中道歉。
+
+I’ve been **doing a lot of soul searching** on that front and what I find interesting is the story of David and the way in which he **fell mightily**, he fell in very, very significant ways. But then **picked up the pieces and built from there**.
+>mightily[ˈmaɪtɪli] 强烈地；非常地
+
+我在这方面进行了很多反省，我觉得有趣的是大卫的故事以及他是怎样一败涂地的，他犯了非常、非常严重的错误。但他随后振作起来并重新开始。
+
+Mr. Gibson, the film star and director, was accused in July 2006 of having **made virulently anti-Semitic remarks** to an arresting officer who **stopped him on suspicion of drunken driving** near his home in Malibu, Calif. 
+>virulent[ˈvɪrələnt] 致命的；恶性的；剧毒的；狠毒的  
+>Semitic[səˈmɪtɪk] 闪米特语族的(希伯来语和阿拉伯语的)；闪米特人
+
+电影明星兼导演吉布森于2006年7月被指控对一名逮捕他的警官发表了恶毒的反犹太言论，在他位于加州马里布的家附近，警官因怀疑他酒驾将他截停
+
+**Stoic, dignified and comforting**, the queen’s words **helped anchor the country** during the **fretful days** that followed — not the first time the monarchy has acted as a **stabilizing force** for the government during **tumultuous events**. This week, however, both of these grand British institutions **pitched simultaneously into crisis**.
+>tumultuous[tuˈmʌltʃʊəs] 纷乱的；混乱的；吵闹的  
+>stoic[ˈstoʊɪk] 坚忍克己之人  
+>dignified[ˈdiɡniˌfaɪd] 高贵的；端庄的；有威严的  
+>fretful[ˈfretf(ə)l] 烦燥的；焦躁的；烦恼的  
+>pitch into 投入；猛烈进攻；投身于
+
+女王的讲话坚忍、庄重、抚慰人心，在接下来令人焦躁不安的日子里，这番讲话帮助英国稳定了下来——这并不是王室第一次在动荡的事件中充当政府的稳定力量。然而，本周，这两大英国机构同时陷入了危机
+
+She says she **was trafficked to** Andrew by his friend, the convicted sex predator Jeffrey Epstein. Andrew **flatly denies the charge** and has said he has **no recollection of** meeting Ms. Giuffre.
+>recollection 回忆；记忆；回想；追忆；想起
+
+她说，她是被安德鲁的朋友、已定罪的性侵犯者杰弗里·爱泼斯坦贩卖给他的。安德鲁断然否认了这一指控，并说他不记得曾见过朱弗雷。
+
+Andrew has not commented on his **legal setback**. But he and his lawyers have **maneuvered to avoid** confronting Ms. Giuffre’s accusations at a trial. He **scrambled to avoid being served with legal papers** in Britain.
+>scramble to 仓促行动; 匆匆忙忙做
+
+安德鲁没有就他在法庭上的不利情形作出置评。但他和律师已经采取措施避免在审判中直面朱弗雷的指控。为了避免收到英国的法律文件，他只得仓促行动。
+
+His lawyers tried to get the case dismissed on **jurisdictional grounds** and, most recently, **on the basis of** a settlement agreement between Ms. Giuffre and Mr. Epstein.
+>on the basis of 根据；在…基础上
+
+他的律师试图以管辖权为由撤销此案，最近一次申请撤销的依据是朱弗雷和爱泼斯坦之间的和解协议。
+
+**With so much at stake**, especially in a year in which the queen is celebrating 70 years **on the throne**, royal watchers **speculate** that Andrew will **seek his own settlement with** Ms. Giuffre. 
+>with so much at stake 由于事关重大
+
+由于事关重大，尤其是在女王庆祝登基70周年之际，王室观察人士推测安德鲁将寻求与朱弗雷和解。
+
+Buckingham Palace’s announcement that it would remove Andrew’s military titles and deny him “**His Royal Highness**” suggests he has no path to **rehabilitate** himself.
+>rehabilitate[ˌrihəˈbɪlɪˌteɪt] 修复；使康复；使复原
+
+白金汉宫宣布将取消安德鲁的军事头衔并剥夺他“殿下”的称呼，这表明他已经没有恢复身份的机会。
+
+As a **constitutional monarch**, the queen will **steer clear of** any questions about Mr. Johnson’s political future — or of politics in general. But that does not mean she is without influence.
+>steer clear of 避开；绕开
+
+作为一位立宪君主，女王将回避一般的政治问题，包括任何有关约翰逊的政界前途的问题。但这并不意味着她没有影响力。
+
+The **monarchy** acts as a ‘**balance wheel**’ in the sense of being an institution that, when political actors have **tipped the ship of state too far** in one direction, can tip it back in the other. It is a **delicate balance**. 
+>tip 尖端；提示；给小费; 使倾斜
+
+王室就像一个‘平衡摆轮’，它是一个机构，当政治行为者将国家之船向一个方向倾斜得太远时，它可以将船向另一个方向倾斜.这是一个微妙的平衡。
+
+One partner, typically male but not exclusively, **showers the other person with attention, affection, compliments, flattery**, and essentially creates this context where she feels like she’s met her soul mate and it’s **effortless**, The reality is, the person who is doing the love bombing is **creating or manipulating the environment** to look like he’s the perfect or she’s the **perfect mate**.
+>shower 淋浴；阵雨；(洗)淋浴；洒落；纷纷降落；倾注   
+>affection 爱情；喜爱；钟爱; 感情；慈爱；情感  
+>compliment 赞美；称赞；钦佩; 致意；问候; 恭维  
+>flattery 阿谀奉承；恭维；讨好; 巴结
+
+伴侣中的一方，通常是男性——但也不完全是——向另一方倾注关注、爱慕、赞美和奉承，这基本上会让另一方觉得自己遇到了灵魂伴侣，而且得来全不费功夫. 事实上，那是实施‘爱情轰炸’的人在创造或操纵环境，让自己看起来像是完美的伴侣
+
+It’s **part of the idea of excess** and overwhelming the person so that **they’re swept off their feet**
+>sweep off 扫清；(疫疠等)杀死(不少人)；吹走；大量清除；拂去   
+>sweep off one's feet 清除；一溜烟跑出来；被人迷惑住；推倒
+
+这是一种放纵的感觉，会压倒对方，让对方飘飘然
+
+The year 2021 was one of **emotional whiplash**. There was **anticipation for vaccines**, followed by **confusing rollouts**. Then, we saw some hope as many Americans were **inoculated**, only to find new variants, a **tumultuous** news cycle and widespread confusion **around the bend**.
+>whiplash['wɪp.læʃ] 鞭打  
+>anticipation 预期；期望；预计；预料; 预测  
+>inoculate[ɪˈnɑkjəˌleɪt] 接种; 嫁接；打预防针   
+>bend 弯道; 弯管；使弯曲；屈服
+
+2021年是情绪被折磨的一年。人们期待疫苗，随后开展的疫苗接种却十分混乱。然后，由于许多美国人都接种了疫苗，我们看到了一些希望，但却发现了新的变异株、沸沸扬扬的新闻报道和疯狂蔓延的混乱。
+
