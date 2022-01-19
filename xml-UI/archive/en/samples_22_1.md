@@ -524,3 +524,18 @@ The year 2021 was one of **emotional whiplash**. There was **anticipation for va
 
 2021年是情绪被折磨的一年。人们期待疫苗，随后开展的疫苗接种却十分混乱。然后，由于许多美国人都接种了疫苗，我们看到了一些希望，但却发现了新的变异株、沸沸扬扬的新闻报道和疯狂蔓延的混乱。
 
+The snapshot of China’s economy, the main locomotive of global growth in the last few years, adds to expectations that the broader world economic outlook is beginning to dim.
+作为过去几年全球经济增长的主要火车头，中国经济的概况让人们更加相信，世界经济的整体前景正开始黯淡。
+
+In a horrifying instant, a man walked up to a 40-year-old woman waiting for the subway in Times Square on Saturday morning and shoved her to the tracks as a train screeched into the station, killing her, the police said.
+警方称周六早上在时报广场地铁站出现惊悚一幕，一名男子走向一名在等待地铁的40岁女子，将她推进铁轨，此时一列火车正好进站，导致该名女子死亡
+
+In the pantheon of urban crime, being randomly pushed in front of a subway train occupies a rung of the utmost horror; examples of it are seared into the city’s collective memory, going back to the 1980s and ’90s, when crime was far more rampant than it is now.
+在形形色色的城市犯罪中，被无端推至地铁列车前是最恐怖的一种；相关的事例被烙印在城市的集体记忆中，一直可以追溯到1980和90年代犯罪比现在更加猖獗的时期。
+
+Many subway riders now complain of regular encounters with people who seem unhinged and threatening and have pleaded for help from elected officials.
+许多地铁乘客抱怨，他们经常遇到看上去不正常、具有威胁性的人，并向民选官员寻求帮助。
+
+China announced on Monday that its birthrate plummeted for a fifth straight year in 2021, moving the world’s most populous country closer to the potentially seismic moment when its population will begin to shrink, and hastening a demographic crisis that could undermine its economy and even its political stability.
+周一，中国宣布其出生率在2021年连续第五年暴跌，令这个世界上人口最多的国家更接近人口开始缩减的潜在重大时刻，并加速了一场可能破坏其经济乃至政治稳定的人口危机
+

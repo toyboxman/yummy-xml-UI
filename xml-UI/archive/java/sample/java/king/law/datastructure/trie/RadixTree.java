@@ -1,5 +1,7 @@
 package king.law.datastructure.trie;
 
+import org.apache.commons.collections4.trie.PatriciaTrie;
+
 /**
  * <a href="https://www.zhihu.com/question/30736334">字典树(TrieTree)</a> 字典树的缺点是内存消耗非常大
  * <br>
@@ -18,4 +20,14 @@ package king.law.datastructure.trie;
  * @see <a href="https://github.com/npgall/concurrent-trees">RadixTree</a>
  */
 public class RadixTree {
+    static PatriciaTrie<String> pt = new PatriciaTrie<>();
+
+    public static void main(String[] args) {
+        pt.put("key1", "value1");
+        pt.put("key2", "value2");
+        pt.put("key3", "value3");
+        System.out.println(pt.toString());
+        System.out.println(pt.selectKey("key2"));
+        System.out.println(pt.select("key1"));
+    }
 }
