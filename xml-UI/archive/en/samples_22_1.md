@@ -539,3 +539,79 @@ Many subway riders now complain of regular encounters with people who seem unhin
 China announced on Monday that its birthrate plummeted for a fifth straight year in 2021, moving the world’s most populous country closer to the potentially seismic moment when its population will begin to shrink, and hastening a demographic crisis that could undermine its economy and even its political stability.
 周一，中国宣布其出生率在2021年连续第五年暴跌，令这个世界上人口最多的国家更接近人口开始缩减的潜在重大时刻，并加速了一场可能破坏其经济乃至政治稳定的人口危机
 
+The saga has exposed much long-running dysfunction and injustice in the Australian system: excessively strict, byzantine and unpredictable entry rules, but paradoxically special treatment through exemptions for the rich and famous
+这件事暴露了澳大利亚的制度中许多长期存在的失衡和不公：入境规过于严格、繁琐和不可预测，但与之矛盾的，又存在对富人和名人进行豁免给予他们特殊待遇
+
+The Australian government’s conduct toward him has been utterly disgraceful, Novak is a victim of brinkmanship by shameless populists, exclusively driven by snap opinion polls
+澳大利亚政府对待他的做法极为可耻，诺瓦克是无耻的民粹主义者边缘政策的受害者，他们完全受临时民意调查的驱动
+
+If you were looking for general deterrence, it has been achieved in spades — we have terrified the entire research community, What is deterrence? You don’t speed because you’re afraid of getting a ticket. Deterrence is about fear.
+如果你想要达到普遍的威慑，它已经充分实现了——我们已经吓坏了整个研究界，什么是威慑？你不超速是因为你害怕被开罚单。威慑是关于恐惧的。
+
+When Zhao Xiaoqing first met Zhao Fei on a blind date, the sparks didn’t really fly. Facing a new outbreak of coronavirus cases, the health authorities announced a lockdown so sudden and severe that she didn’t have time to scurry home.
+赵晓青第一次跟赵飞相亲时，并没有擦出什么火花。面对新一轮新冠疫情暴发，卫生当局突然宣布严厉封锁，以至于她没有时间赶回家。
+
+Chinese officials have employed swift lockdowns across the country as one of its top strategies to rapidly stamp out infections. But at Mr. Zhao’s house, a romance was blossoming. His consideration impressed her. He said. “We basically found each other by an accident of fate.”
+中国官员已在全国范围内迅速采取封锁措施，作为快速消灭感染的首要策略之一。但在赵飞的家里，一段恋情正在绽放。他的体贴打动了她。他说。“我们基本上是靠着意外的缘分才能找到彼此。”
+
+Many public health officials have taken heart in early evidence that suggests infections from the Omicron variant tend to cause less severe illness than other versions of the coronavirus. 
+早期证据表明，与其他类型的新冠病毒相比，奥密克戎变异株感染往往导致轻症，这让许多公共卫生官员感到振奋
+
+Studies from earlier waves of the pandemic indicate that many people who had mild or asymptomatic initial reactions to coronavirus infection went on to develop long Covid that persisted for months.
+早期疫情的研究表明，许多最初的新冠病毒轻症或无症状者后来发展成持续数月的长期新冠
+
+The study found that having a coronavirus vaccine before being infected did not reduce the risk of most symptoms of long Covid. There was some suggestion from the data that vaccinated people might be at lower risk of long-term issues like abnormal breathing and cognitive symptoms, the authors wrote, but those results were not statistically conclusive.
+研究发现，在感染前接种新冠病毒疫苗并不能降低出现长期新冠大多数症状的风险。作者写道，从数据中可以看出，接种疫苗者面临呼吸异常和认知症状等长期问题的风险可能较低，但这些结果在统计学上并不具有决定性。
+
+Some leading theories are that the condition may be related to remnants of the virus or its genetic material lingering after the initial infection subsides or to inflammation or blood circulation problems spurred by an overactive immune response that is unable to shut down.
+一些主流理论认为，这种情况可能与最初感染消退后残留的病毒或遗传物质有关，也可能与过度活跃、无法关闭的免疫反应引发的炎症或血液循环问题有关
+
+Those who forget their heritage, betray their motherland, and seek to split the country will come to no good end
+凡是数典忘祖、背叛祖国、分裂国家的人，从来没有好下场
+
+She paints classical Chinese ink landscapes and displays them on the walls of her home. She spends hours practicing the erhu, a two-stringed traditional Chinese instrument. She recounts stories of a land so beloved that her grandparents brought a handful of soil with them when they left. She still wonders what happened to the gold and silver bars they had buried beneath a heated brick bed in Beijing.
+她画中国水墨山水画，并将它们挂在家中的墙上展示。她会花几个小时练习二胡，这是一种中国传统的两弦乐器。她会回忆起父母是多么热爱这片土地，在临走时将一捧土带在身上。她仍然想知道，他们当初埋在北京一张炕下面的金条银条现在怎么样了
+
+Ms. Wang and the other exiles lived in villages designated for “mainlander” military officers and their families, where the aroma of peppercorn-infused Sichuan cooking mingled with the pickled scents of delicacies from southern Guizhou Province.
+王玉兰和其他流亡者生活在专门为大陆军官及其家属划定的眷村里，椒香的川菜味与黔南美食的腌制香味混合在一起
+
+She knew that going to her “mainlander” grandparents’ house after school meant getting to eat pork buns and chive dumplings — heavier, saltier food than the Taiwanese palate of her maternal grandparents, who fed her fried rice noodles and sautéed bitter melon.
+她知道放学后去“大陆人”祖父母家意味着吃猪肉包子和韭菜饺子——比她外祖父母的台湾口味更重、更咸，外祖父母给她吃炒米粉和煎苦瓜
+
+The Tabqa Dam was a strategic linchpin controlled by the Islamic State group. The explosions March 26, 2017, knocked dam workers to the ground. A fire spread and crucial equipment failed. The flow of the Euphrates River suddenly had no way through, the reservoir began to rise and authorities used loudspeakers to warn people downstream to flee.
+塔卜卡大坝是伊斯兰国组织控制下的战略要地。2017年3月26日的爆炸把大坝工人掀翻在地。大火蔓延，关键设备失灵。幼发拉底河的水流突然无法通过，水库开始上涨，当局用扩音器警告下游的人逃离
+
+No disciplinary action was taken against the task force, the senior officials said. The secret unit continued to strike targets using the same types of self-defense justifications it had used on the dam.
+这些高级官员说，特遣部队没有受到任何纪律处分。这支秘密部队继续使用它在大坝行动中使用过的各类自卫理由来打击目标
+
+The railroad tracks are a wasteland of discarded cartons, envelopes and boxes. Pieces of clothing lie disgorged from packaging and tossed aside. A family photograph, propped up in the garbage, stands sentimental to someone, somewhere, but of no interest to those who loot the tracks of Lincoln Heights.
+铁轨成了撒满废弃盒子、信封和纸箱的垃圾场。从包裹中扯出的衣服被扔到一旁。垃圾堆里冒出一张家庭照片，也许它对某个地方的某个人具有情感意义，但那些在林肯高地铁轨上抢东西的人对它毫无兴趣
+
+While train theft occurs at other hubs around the country, it is particularly challenging to guard the cargo around Lincoln Heights because of the lay of the land. The tracks dip below street level, putting them out of sight in an urban valley of walls and shipping containers.
+虽然全国其他枢纽经常发生火车盗窃，但由于地势的原因，保护林肯高地地区的货运列车尤其具有挑战性。其轨道低于街道，使它们在建筑和集装箱密布的城市山谷中不被看到
+
+It can take just the snip of a zip-tie to get into the cargo, and thefts can be spontaneous crimes of opportunity or organized escapades, the police said. Some thieves toss goods to vans or trucks on nearby streets
+警方说，只需剪掉扎带就可以进入货柜，并且盗窃可能是自发的机会犯罪，也可能是有组织的掠夺行为。一些小偷将货物扔到附近街道上的货车或卡车上
+
+While residents of Tonga struggle to recover from a devastating volcanic explosion that smothered the Pacific island nation with ash and swamped it with water, scientists are trying to better understand the global effects of the eruption.
+一场毁灭性的火山爆发令太平洋岛国汤加笼罩在火山灰之中，并被洪水淹没，居民正在努力从中恢复，与此同时，科学家们正试图更好地了解这次火山爆发对全球的影响
+
+Pinatubo erupted for several days, sending about 20 million tons of sulfur dioxide gas into the stratosphere, or upper atmosphere. There, the gas combined with water to create aerosol particles that reflected and scattered some of the sun’s rays, keeping them from hitting the surface.
+皮纳图博火山爆发了几天，将大约2000万吨的二氧化硫气体送入平流层或高层大气。在那里，气体与水结合形成气溶胶颗粒，反射和散射了部分太阳光线，使其无法照射到地面。
+
+But the immunity generated by Omicron is not going to lead to the extinction of the virus. Pandemics do not end with the virus vanquished, a ticker-tape parade and a banner proclaiming “mission accomplished.” Instead of the virus going away, the nature of the disease it causes changes to a point that people consider it a tolerable risk, and people will disagree over what that means.
+但奥密克戎产生的免疫力不会导致病毒灭绝。疫情不会以病毒被消灭、人们锣鼓喧天地庆祝并高举“任务完成”的横幅而告终。病毒不会消失，而是会导致疾病的性质发生变化，以至于人们认为这是可接受的风险，并且在这一点上人们会意见不一
+
+And the havoc that Omicron has sown is not trivial — we are seeing the effects in overwhelmed hospitals and closed schools. Much better days may be ahead. But as the world has learned over the past two years, only fools with short memories make promises in a pandemic.
+奥密克戎造成的破坏并非微不足道——不堪重负的医院和关闭的学校表明了它的影响。前方将会更加光明。但正如世界在过去两年中所学到的那样，只有健忘的傻瓜才会在疫情中做出承诺。
+
+Why is Vladimir Putin threatening to take another bite out of Ukraine, after devouring Crimea in 2014? Let’s see: Putin is a modern-day Peter the Great out to restore the glory of Mother Russia.
+在2014年吞并克里米亚之后，普京为何威胁还要在乌克兰分一杯羹？这么说吧：普京是要为俄罗斯祖国母亲重拾荣光的当代彼得大帝。
+
+If I were a cynic, I’d just tell him to go ahead and take Kyiv because it would become his Kabul, his Afghanistan — but the human costs would be intolerable. Short of that, I’d be very clear: If he wants to come down from the tree in which he’s lodged himself, he’s going to have to jump or build his own ladder.
+如果我是犬儒主义者，我会告诉他继续前进，夺取基辅，将之变成他的喀布尔，他的阿富汗——但人命的代价是我无法承受的。除此之外，我的态度非常明确：如果他想从将他困住的树上下来，那他就得往下跳，或者给自己搭好梯子。
+
+Putin has forged a nation of war that has battened the hatches and looks at the world through a lookout slit of a tank. … The degree of military-patriotic hysteria [in] Russia today brings to mind the U.S.S.R. of the 1930s, the era of athletes’ parades, tank mock-ups and dirigibles.
+普京打造了一个战争国家，它严阵以待，从坦克瞭望口里观察这个世界。……俄罗斯今日的军事-爱国疯狂情绪让人想起了上世纪30年代的苏联，那是属于运动员游行、坦克模型和飞艇的时代。
+
+
