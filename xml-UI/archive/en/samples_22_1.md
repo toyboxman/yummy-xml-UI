@@ -614,4 +614,127 @@ If I were a cynic, I’d just tell him to go ahead and take Kyiv because it woul
 Putin has forged a nation of war that has battened the hatches and looks at the world through a lookout slit of a tank. … The degree of military-patriotic hysteria [in] Russia today brings to mind the U.S.S.R. of the 1930s, the era of athletes’ parades, tank mock-ups and dirigibles.
 普京打造了一个战争国家，它严阵以待，从坦克瞭望口里观察这个世界。……俄罗斯今日的军事-爱国疯狂情绪让人想起了上世纪30年代的苏联，那是属于运动员游行、坦克模型和飞艇的时代。
 
+This is one tunnel where I don’t see the light at the end. All these restaurants that ask me to their ribbon cutting, I keep saying that, ‘You guys are too damn brave.’
+这是一条看不到尽头的隧道。对于所有邀请我参加剪彩仪式的餐馆，我总是说，‘你们太勇敢了。’
+
+The next variant is around the corner. That’s just science, isn’t it? How do you open up an economy if everything is imported? The rest of the world is riddled with Omicron.
+下一个变异即将到来。这就是科学，不是吗？如果一切都是进口的，你要怎么开放一个经济？世界上其他地方到处都是奥密克戎。
+
+For Mr. Hussain, a fifth-generation Hong Konger, losing the small mom-and-pop restaurants, diners and outdoor eateries that make his home so vibrant will irrevocably change the city. The old-timers assure me that we are going to be OK. But I worry as a restaurateur, as an entrepreneur
+对于第五代香港人侯赛因来说，失去让他的家乡充满活力的那些小型夫妻店、餐馆和户外餐馆将会不可逆转地改变这座城市。老一辈人向我保证，我们会没事的。但作为餐馆老板和企业家，我很担心
+
+At this point, it’s really almost like a last-ditch, or certainly very stubborn and persistent, effort to stave off the virus, They are really stuck.
+就目前而言，这个政策真的几乎像是遏制病毒的孤注一掷，至少肯定是非常固执和不懈的努力，他们真的是骑虎难下。
+
+So far, the leadership has only doubled down on its strategy — which relies on mass testing, stringent border controls, extensive contact tracing and snap lockdowns — to extinguish nascent outbreaks.
+领导层至今一直在加大这一政策的力度，用大规模病毒检测、严格的边境控制、广泛的接触者追踪，以及临时封锁等手段来遏制新的疫情暴发。
+
+Seeking escape from grinding poverty in northern Vietnam, the 43-year-old farmer labored for years on construction sites in Kuwait and Uzbekistan before being offered a ticket to what he was told would be “the promised land” — Europe, and a job with a good salary.
+为了摆脱越南北部的极度贫困，一位43岁的农民在科威特和乌兹别克斯坦的建筑工地上工作了多年，最终获得了一张通往欧洲的票和一份薪酬优厚的工作，人们曾告诉他，那将是他的“应许之地”。
+
+President Donald J. Trump tried to ban WeChat, along with the Chinese-owned TikTok, from operating in the United States, saying it was a national security threat. A federal judge later issued an injunction.
+特朗普总统曾试图禁止微信和中国公司拥有的TikTok在美国运营，称其对国家安全构成威胁。一名联邦法官后来发布了一项禁制令
+
+at a regular news conference on Monday evening that he was not aware of the specifics of Mr. Morrison’s account, but added: “The accusation of China interference is nothing but unfounded denigration and smear. We do not and have no interest in interfering in other countries.”
+在周一晚间的例行新闻发布会上表示，他不清楚莫里森所说的具体情况，但他补充说：“所谓中国干涉纯属污蔑抹黑，无稽之谈。我们从不、也没有兴趣干涉他国。”
+
+Dr. Chen studies heat transfer; he hopes to develop a superconductor that could convert heat from car exhaust into electricity, or fabric for clothing that could cool the body. During the year since his arrest, that had been the hardest thing — tearing himself away from research.
+陈刚研究的是热传导。他希望开发出一种超导体，可以将汽车尾气中的热量转化为电能，或者可以给身体降温的衣服面料。被捕后的一年里，远离研究成了艰难无比的事情。
+
+Prosecutors announced that they had received new information indicating that Dr. Chen had not been obliged to disclose those affiliations, undercutting the basis of the case.
+检察官宣布，他们收到了新的信息，表明陈刚没有义务披露这些关系，使得此案难以成立。
+
+In recent months, prosecutors floated an agreement in which the government would have dropped the criminal charges in exchange for acknowledgment of some links to China, he said. He refused it, he said. That’s just my mentality, I didn’t do anything wrong.
+他说，几个月前，检方向他提出交易：政府将放弃刑事指控，换取他承认与中国的一些联系。他说，他拒绝了。我就是这个心态，我没做错什么。
+
+Dr. Chen grew up without any hope of becoming a scientist. His parents, the descendants of landowners, had a “bad classification” from the Chinese government, and were viewed suspiciously. His father warned him he would probably spend his life as a farmer.
+成长过程中，他不奢望成为科学家。他的父母都是地主的后代，在中国政府的心目中属于“出身不好”，不能获得信任。父亲警告他，可能会当一辈子农民。
+
+Dr. Chen was one of the first classes of Chinese students to take standardized tests, and his scores vaulted him into an academic elite. He immigrated to the United States at 25, and became a naturalized citizen in 2000.
+陈刚参加了首届高考，以优异的成绩成为学术精英。他在25岁时移民美国，并于2000年入籍成为美国公民。
+
+In January 2020, he was alarmed by the arrest of Charles M. Lieber, the head of Harvard’s chemistry department, who was charged with hiding his participation in China’s Thousand Talents recruitment program. But neither Dr. Chen nor his colleagues saw parallels with their own activities, he said.
+2020年1月，哈佛大学化学系主任查尔斯·利伯被捕，令陈刚感到震惊。利伯被控隐瞒自己参与中国“千人计划”的情况。但陈刚说，自己和同事们都不觉得他们的活动与利伯有任何相似之处。
+
+“I didn’t dare use Chinese — because I spoke with her in Mandarin, right, most of the time — but I didn’t dare to use Chinese,” he said. “I regret so much, once they took me away, because I should have shouted in Chinese to her, ‘Anything you say can be used against you.’”
+“我不敢说中文——因为我跟她的大部分交流都用普通话——但那时我不敢说中文，”他说。“他们一把我带走，我就特别后悔，因为我应该用中文对她喊，‘你说的一切都可能对你不利。’”
+
+Dr. Chen, who has experimented with standup comedy, joked — half-joked — that the experience had so disgusted them that both he and his wife lost weight. We didn’t know what this word really meant. It’s real. Disgust is biological. We used to see this word, but it’s a biological reaction after everything that has happened.
+曾尝试表演过单口喜剧的陈刚半开玩笑半认真地说，那次经历让他和妻子恶心到人消瘦。我们之前并不知道这个英文词的真正含义。但感觉好真实。恶心是生理现象。我们以前总见到这个词，但我说的是在经历这一切之后的生理反应。
+
+I told him, ‘God, this is going to be crushing for me if we get a guilty at trial and I’m sitting with you in the courtroom.’”
+“我告诉他，‘上帝啊，如果我和你一起坐在法庭上，而法庭宣判的结果是有罪，那对我来说可太痛苦了。’”
+
+I would never incriminate anybody,And seeing how terribly they can stretch the facts, I have zero confidence in them. Absolute zero.
+我决不会牵连任何人，看到他们可以把事实说得多么可怕，我对他们毫无信心。一点都没有。
+
+Over the years, he has learned that the best way to grab the attention of an American president is with weapons. And that the best time to do it is when the world can least afford the instability. Russia has hinted at a potential invasion of Ukraine, keeping the Biden administration on tenterhooks.
+多年以来，他已经认识到，吸引美国总统注意力的最佳方式是武器。而最好的时机是世界最不想看到不稳定的时候。俄罗斯已暗示可能入侵乌克兰，让拜登政府如坐针毡。
+
+Mr. Kim has rapidly expanded the country’s nuclear program, even as the United Nations piled on sanctions. His nuclear weapons are, as North Korea has put it, “not a bargaining chip.”
+尽管联合国已多次对朝鲜实施制裁，但金正恩仍在迅速扩大朝鲜的核计划。正如朝鲜政府所说，该国的核武器“不是谈判筹码”。
+
+Washington has taken no steps to entice Mr. Kim, except to propose talks “without preconditions,” ​a lukewarm entreaty that North Korea has rebuffed.
+华盛顿除了提出举行“没有先决条件”的谈判外，一直没有采取任何吸引金正恩的行动。美国不温不火的提议已遭到朝鲜的拒绝。
+
+Japan, South Korea, India and other countries were also introducing their own incentives in a bid to attract a strategically important industry. The clock is ticking, None of us are working in a vacuum. This is a global industry.
+日本、韩国、印度和其他国家也在推出自己的激励措施，以吸引这个具有战略意义的行业。时间紧迫，我们都不是在真空中工作。这是一个全球性的产业。
+
+The chip funding itself has broad bipartisan support and could be passed into law as soon as the next few months, supporters say; the question is whether other measures that have been tucked in the package will sink its prospects. 
+支持者说，芯片投资本身得到了两党的广泛支持，最快可以在未来几个月内获得通过而成为法律；问题是，已经纳为一揽计划的其他措施是否会削弱其前景。
+
+Chip shortages have also become one of the largest single factors stoking inflation, now a key gripe among American voters as the midterm elections approach. Inflation hit a 40-year high in December, buoyed by a 37 percent increase in the price of used cars.
+芯片短缺也成为引发通胀的最大单一因素之一，随着中期选举的临近，通胀已经成为美国选民的主要不满因素。在二手车价格上涨37%的推动下，12月通货膨胀率达到了40年来的新高。
+
+With the Games only days away, China has delivered. It has plowed through the obstacles that once made Beijing’s bid seem a long shot, and faced down new ones, including an unending pandemic
+距离冬奥会开幕只剩下几天了，中国已兑现了承诺。它不仅全力克服了曾让北京申奥看似希望不大的障碍，而且还克服了新的障碍，包括无休止的新冠病毒疫情
+
+Beijing 2022 “will not only enhance our confidence in realizing the great rejuvenation of the Chinese nation,” It will also “show a good image of our country and demonstrate our nation’s commitment to building a community with a shared future for mankind.”
+北京冬奥会“不仅可以增强我们实现中华民族伟大复兴的信心，而且有利于展示我们国家和民族致力于推动构建人类命运共同体的良好形象”
+
+In an area perennially short of water, China built a network of pipelines to feed a phalanx of snow-making machines to dust barren slopes in white. Officials this week even claimed the entire Games would be “fully carbon neutral.”
+中国已在这样一个常年缺水的地区建起了一套管道网，为密集的造雪机供水，让荒山披上了白装。官员们甚至已在本周声称，本届奥运会“将全面实现碳中和”
+
+By then, the luster of hosting the Winter Games had worn off. Vancouver was dogged by unseasonably warm weather. Sochi 2014 — intended as a valedictory of Vladimir V. Putin’s rule in Russia — cost a staggering $51 billion.
+与以前相比，举办冬奥会的光彩那时候已经褪去了许多。温哥华的冬奥会曾受气候异常温暖的困扰。原打算作为普京卸任俄罗斯总统的告别仪式举办的2014年索契冬奥会花了510亿美元的惊人费用。
+
+China promised to spend only $1.5 billion on capital projects at venues, plus that much in operating expenses, a fraction of the cost for Sochi or the 2018 Games in Pyeongchang, South Korea, which cost nearly $13 billion
+中国承诺在场馆工程项目上只投入15亿美元的资金，再加上同样数额的运行费用，这与索契冬奥会或2018年韩国平昌冬奥会相比只是个零头，2018年冬奥会的花费接近130亿美元
+
+The final tally was 44 to 40 for Beijing, with one abstention. Almaty’s supporters were left to fume over a glitch in the electronic voting system that prompted a manual recount to “protect the integrity of the vote.” That Kazakhstan has plunged into political turmoil on the eve of the Games seems now, in hindsight, further validation of the choice to pick Beijing.
+北京最终以44票支持、40票反对、一票弃权的结果胜出。阿拉木图的支持者们对电子投票系统出现的一个小故障感到愤怒，该故障迫使奥委会为“保护投票的完整性”用人工方式重新计票。如今，哈萨克斯坦已在冬奥会前夕陷入政治动荡，回过头来看，选择北京的正确性似乎得到了进一步证明。
+
+We know that increased vaccination and infection are strengthening our defenses against Covid, I’m more optimistic about our ability to tame the pandemic than at any point since its emergence. while nationally, new cases and hospital admissions have leveled off in recent days.
+我们都知道，疫苗接种和感染的增加正在加强我们对新冠病毒的抵抗力, 自疫情出现以来，我对我们控制住疫情的能力比以往任何时候都要乐观。而在全国范围内，最近几天的新感染数和入院数已趋于平稳。
+
+But scientists have also cautioned that the protection offered by a previous infection may wane over time, and may not apply as well to future versions of the virus.
+但科学家们也警告说，以前的感染所提供的保护可能会随着时间的推移而减弱，也可能不适用于未来版本的病毒。
+
+The dimmed economic prospects come at a time when governments have less room to maneuver in how they spend their money. Debt levels have soared over the past two years as countries struggled with the health crisis caused by the pandemic and funneled aid to their citizens.
+经济前景黯淡之际，各国政府在财政支出上的回旋余地也随之缩减。过去两年，由于各国都在应对疫情造成的卫生危机，向本国民众提供援助，因而债务水平出现飙升
+
+The army leadership must know it has no permanent friends among political forces at home or abroad. It constantly seeks strategic maneuverability, balancing domestic and foreign forces in response to changing realities and to avoid dependence on a single patron, proxy or ally.
+军方领导层必然明白，在国内外的政治势力中，巴基斯坦没有永远的朋友。它始终追求战略斡旋空间，平衡国内外力量，以适应不断变化的现实，避免依赖单一的赞助方、代理人或盟友
+
+Because as U.S.-China competition intensifies, Pakistan’s army fears getting trapped in a cul-de-sac with Beijing. So it seeks to balance the two great powers by grasping on to areas of cooperation, including counterterrorism and trade, that could salvage relations with Washington.
+原因在于，随着美中竞争加剧，巴基斯坦军方害怕被困在北京的死胡同里。因此，它试图抓紧反恐和贸易等可能挽救与华盛顿关系的合作领域，以在这两个大国之间寻求平衡。
+
+In the 1950s, officials urged producers to use potatoes, not rice, to make soju, another type of traditional Korean liquor. In 1965, they banned grain-based alcohol entirely, further suppressing traditional distillation methods.
+1950年代，官员们敦促生产商使用土豆而不是大米来酿造另一种韩国传统酒烧酒。1965年，他们彻底禁止了以谷物为基础的烈酒，进而禁止了传统的蒸馏方法
+
+I just don’t buy into the narrative that any one ethnic group owns admission to these schools. The San Francisco Board of Education has discarded a merit-based admissions policy and substituted a lottery at the highly regarded Lowell High School, where 55 percent of students were of Asian descent. 
+我就是没法接受这种说法，那就是这些学校的入学可以被某一个族群霸占。旧金山教育委员会已经废除了洛威尔高中的择优录取政策，代之以摇号机制，这座极具声望的学校有55%的学生属于亚裔。
+
+When we talk about merit, meritocracy and especially meritocracy based on standardized testing, those are racist systems.
+当我们在谈论择优、英才教育，尤其是基于标准化考试的英才教育时，那就是种族歧视制度。
+
+The next year the percentage of incoming Black and Latino students jumped and the percentage of Asian students, who skew more middle and upper middle class than in New York, declined. 
+次年，黑人和拉丁裔学生占比大幅提升，亚裔学生占比下降，该地区的亚裔相比纽约而言更偏向中产、上中产阶层。
+
+Critics of specialized high schools argue these institutions are out of step with the zeitgeist and educational practice. Better to cast aside standardized tests and seek heterogenous classes in neighborhood high schools, they argue, than to cloister top students. Some studies, they say, show struggling students gain from the presence of talented outliers. And the entrance exam has fueled the growth of a private and inequitable tutoring industry.
+批评特殊高中的人认为，这些机构与时代精神和教育实践脱节。他们认为，与其把尖子生集中在一起，不如抛开标准化考试，在社区的高中里建立多样性的班级。他们说，一些研究表明，在学业上吃力的学生能从有才华的优秀学生身上获益。此外，入学考试助长了不公平的私教产业的发展。
+
+To understand this decline involves a trek back through decades of policy choices, as city officials, pushed by an anti-tracking movement, rolled back accelerated and honors programs and tried to reform gifted programs, particularly in nonwhite districts.
+要理解这种下降，需要回顾几十年来的政策选择，在反分班运动的推动下，市政府官员取消了快班和荣誉班级，并试图改革英才课程，尤其是在非白人地区。
+
 

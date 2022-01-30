@@ -926,6 +926,7 @@ done
 
 [姚广孝](https://mp.weixin.qq.com/s/FshRUfzq_0nZauinK-_v_Q)一句话"祥也。飞龙在天，从以风雨。瓦堕，将易黄也。" 稳定靖难誓师前疑惑
 [梃击、红丸、移宫三案](https://mp.weixin.qq.com/s/7QGIZBc_UKan_01Xl7jPPw)时止则止，时行则行，动静不失其时，其道光明。
+[宇文泰](https://mp.weixin.qq.com/s/sXStP3o01MjElzfO44xgOQ)
 
 + [堯山堂外紀](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
 + [古诗十九首](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
