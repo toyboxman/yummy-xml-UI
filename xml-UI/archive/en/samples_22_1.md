@@ -575,166 +575,342 @@ She paints classical Chinese ink landscapes and displays them on the walls of he
 Ms. Wang and the other exiles lived in villages designated for “mainlander” military officers and their families, where the aroma of peppercorn-infused Sichuan cooking mingled with the pickled scents of delicacies from southern Guizhou Province.
 王玉兰和其他流亡者生活在专门为大陆军官及其家属划定的眷村里，椒香的川菜味与黔南美食的腌制香味混合在一起
 
-She knew that going to her “mainlander” grandparents’ house after school meant getting to eat pork buns and chive dumplings — heavier, saltier food than the Taiwanese palate of her maternal grandparents, who fed her fried rice noodles and sautéed bitter melon.
+She knew that going to her “mainlander” grandparents’ house after school meant getting to **eat pork buns and chive dumplings — heavier, saltier food** than the Taiwanese **palate of her maternal** grandparents, who fed her **fried rice noodles and sautéed bitter melon**.
+>pork buns 猪肉包子  
+>chive[tʃaɪv] 韭菜   
+>maternal[məˈtɜrn(ə)l] 母性的；母方的  
+>palate[ˈpælət] 口感；上颚；口味  
+>sauté[soʊˈteɪ] 煎的; 清炒；嫩煎的；嫩炒
+
 她知道放学后去“大陆人”祖父母家意味着吃猪肉包子和韭菜饺子——比她外祖父母的台湾口味更重、更咸，外祖父母给她吃炒米粉和煎苦瓜
 
-The Tabqa Dam was a strategic linchpin controlled by the Islamic State group. The explosions March 26, 2017, knocked dam workers to the ground. A fire spread and crucial equipment failed. The flow of the Euphrates River suddenly had no way through, the reservoir began to rise and authorities used loudspeakers to warn people downstream to flee.
+The Tabqa Dam was a **strategic linchpin** controlled by the Islamic State group. The explosions March 26, 2017, knocked dam workers to the ground. A fire spread and crucial equipment failed. The flow of the Euphrates River suddenly had no way through, the **reservoir** began to rise and authorities used **loudspeakers** to warn people downstream to flee.
+>linchpin[ˈlɪntʃˌpɪn] 关键事物; 关键人物
+
 塔卜卡大坝是伊斯兰国组织控制下的战略要地。2017年3月26日的爆炸把大坝工人掀翻在地。大火蔓延，关键设备失灵。幼发拉底河的水流突然无法通过，水库开始上涨，当局用扩音器警告下游的人逃离
 
-No disciplinary action was taken against the task force, the senior officials said. The secret unit continued to strike targets using the same types of self-defense justifications it had used on the dam.
+No **disciplinary action** was taken against the task force, the senior officials said. The secret unit continued to strike targets using the same types of **self-defense justifications** it had used on the dam.
+>self-defense justifications 自辩理由
+
 这些高级官员说，特遣部队没有受到任何纪律处分。这支秘密部队继续使用它在大坝行动中使用过的各类自卫理由来打击目标
 
-The railroad tracks are a wasteland of discarded cartons, envelopes and boxes. Pieces of clothing lie disgorged from packaging and tossed aside. A family photograph, propped up in the garbage, stands sentimental to someone, somewhere, but of no interest to those who loot the tracks of Lincoln Heights.
+The railroad tracks are a wasteland of **discarded cartons**, envelopes and boxes. **Pieces of clothing lie disgorged** from packaging and **tossed aside**. A family photograph, **propped up** in the garbage, **stands sentimental** to someone, somewhere, but of no interest to those who **loot the tracks** of Lincoln Heights.
+>disgorge[dɪsˈɡɔrdʒ] 呕吐出；追回(脏物等)；(河流等)流注  
+>prop up 支撑；支持；给……撑腰  
+>stands sentimental to someone 对某个人具有情感意义
+
 铁轨成了撒满废弃盒子、信封和纸箱的垃圾场。从包裹中扯出的衣服被扔到一旁。垃圾堆里冒出一张家庭照片，也许它对某个地方的某个人具有情感意义，但那些在林肯高地铁轨上抢东西的人对它毫无兴趣
 
-While train theft occurs at other hubs around the country, it is particularly challenging to guard the cargo around Lincoln Heights because of the lay of the land. The tracks dip below street level, putting them out of sight in an urban valley of walls and shipping containers.
+While train theft occurs at other hubs around the country, it is **particularly challenging to guard the cargo** around Lincoln Heights **because of the lay of the land**. The tracks **dip below street level**, putting them out of sight in an urban valley of walls and shipping containers.
+>the lay of the land 地形；事态；【航】海岸的方向  
+>dip below 降至…以下  
+
 虽然全国其他枢纽经常发生火车盗窃，但由于地势的原因，保护林肯高地地区的货运列车尤其具有挑战性。其轨道低于街道，使它们在建筑和集装箱密布的城市山谷中不被看到
 
-It can take just the snip of a zip-tie to get into the cargo, and thefts can be spontaneous crimes of opportunity or organized escapades, the police said. Some thieves toss goods to vans or trucks on nearby streets
+It can **take just the snip of a zip-tie** to get into the cargo, and thefts can be **spontaneous crimes** of opportunity or **organized escapades**, the police said. Some thieves **toss goods to vans** or trucks on nearby streets
+>snip[snɪp] 剪断  
+>zip-tie 拉链领带；束线带  
+>spontaneous[spɑnˈteɪniəs] 自然产生的；本能的；自发性  
+>escapade[ˈeskəˌpeɪd] 恶作剧; 越轨行为；胡作非
+
 警方说，只需剪掉扎带就可以进入货柜，并且盗窃可能是自发的机会犯罪，也可能是有组织的掠夺行为。一些小偷将货物扔到附近街道上的货车或卡车上
 
-While residents of Tonga struggle to recover from a devastating volcanic explosion that smothered the Pacific island nation with ash and swamped it with water, scientists are trying to better understand the global effects of the eruption.
+While residents of Tonga **struggle to recover from a devastating volcanic explosion** that **smothered the Pacific island nation** with ash and **swamped it with water**, scientists are trying to better understand the global effects of the eruption.
+>smother[ˈsmʌðər] 使窒息; 闷死；捂死；厚厚地覆盖；抑制  
+>swamp[swɑmp] 沼泽地；湿地; 淹没；使不堪承受；使疲于应对；使应接不暇
+
 一场毁灭性的火山爆发令太平洋岛国汤加笼罩在火山灰之中，并被洪水淹没，居民正在努力从中恢复，与此同时，科学家们正试图更好地了解这次火山爆发对全球的影响
 
-Pinatubo erupted for several days, sending about 20 million tons of sulfur dioxide gas into the stratosphere, or upper atmosphere. There, the gas combined with water to create aerosol particles that reflected and scattered some of the sun’s rays, keeping them from hitting the surface.
+Pinatubo **erupted** for several days, sending about 20 million tons of **sulfur dioxide gas** into the **stratosphere, or upper atmosphere**. There, the gas combined with water to create **aerosol particles** that **reflected and scattered some of the sun’s rays**, keeping them from hitting the surface.
+>sulfur dioxide 二氧化硫  
+>stratosphere['strætəsfɪə(r)] 平流层; 同温层  
+>aerosol[ˈerəˌsɑl] 气溶胶; 雾化器  
+
 皮纳图博火山爆发了几天，将大约2000万吨的二氧化硫气体送入平流层或高层大气。在那里，气体与水结合形成气溶胶颗粒，反射和散射了部分太阳光线，使其无法照射到地面。
 
-But the immunity generated by Omicron is not going to lead to the extinction of the virus. Pandemics do not end with the virus vanquished, a ticker-tape parade and a banner proclaiming “mission accomplished.” Instead of the virus going away, the nature of the disease it causes changes to a point that people consider it a tolerable risk, and people will disagree over what that means.
+But the immunity generated by Omicron is not going to lead to the **extinction of the virus**. Pandemics do not end with the virus **vanquished**, a **ticker-tape parade** and a banner proclaiming “mission accomplished.” Instead of the virus going away, the nature of the disease it causes changes to a point that people consider it a **tolerable risk**, and people will disagree over what that means.
+>vanquish[ˈvæŋkwɪʃ] 完全征服；彻底击败；战胜  
+>ticker-tape 热烈的  
+
 但奥密克戎产生的免疫力不会导致病毒灭绝。疫情不会以病毒被消灭、人们锣鼓喧天地庆祝并高举“任务完成”的横幅而告终。病毒不会消失，而是会导致疾病的性质发生变化，以至于人们认为这是可接受的风险，并且在这一点上人们会意见不一
 
-And the havoc that Omicron has sown is not trivial — we are seeing the effects in overwhelmed hospitals and closed schools. Much better days may be ahead. But as the world has learned over the past two years, only fools with short memories make promises in a pandemic.
+And **the havoc** that Omicron has **sown** is not **trivial** — we are seeing the effects in **overwhelmed** hospitals and closed schools. Much better days may be ahead. But as the world has learned over the past two years, only fools **with short memories** make promises in a pandemic.
+>sow[soʊ] 母猪；播种；灌输
+
 奥密克戎造成的破坏并非微不足道——不堪重负的医院和关闭的学校表明了它的影响。前方将会更加光明。但正如世界在过去两年中所学到的那样，只有健忘的傻瓜才会在疫情中做出承诺。
 
-Why is Vladimir Putin threatening to take another bite out of Ukraine, after devouring Crimea in 2014? Let’s see: Putin is a modern-day Peter the Great out to restore the glory of Mother Russia.
+Why is Vladimir Putin threatening to **take another bite out of** Ukraine, after **devouring Crimea** in 2014? Let’s see: Putin is a **modern-day Peter the Great** out to **restore the glory** of Mother Russia.
+>devour[dɪˈvaʊr] 吞噬；吞没
+
 在2014年吞并克里米亚之后，普京为何威胁还要在乌克兰分一杯羹？这么说吧：普京是要为俄罗斯祖国母亲重拾荣光的当代彼得大帝。
 
-If I were a cynic, I’d just tell him to go ahead and take Kyiv because it would become his Kabul, his Afghanistan — but the human costs would be intolerable. Short of that, I’d be very clear: If he wants to come down from the tree in which he’s lodged himself, he’s going to have to jump or build his own ladder.
+If I were a **cynic**, I’d just tell him to go ahead and take Kyiv because it would become his Kabul, his Afghanistan — but the human costs would be **intolerable. Short of that**, I’d be very clear: If he wants to come down from the tree in which he’s **lodged** himself, he’s going to have to jump or **build his own ladder**.
+>cynic[ˈsɪnɪk] 犬儒主义者；玩世不恭者；愤世嫉俗的人  
+>lodge[lɑdʒ] 传达室；门房；住宿；投宿
+
 如果我是犬儒主义者，我会告诉他继续前进，夺取基辅，将之变成他的喀布尔，他的阿富汗——但人命的代价是我无法承受的。除此之外，我的态度非常明确：如果他想从将他困住的树上下来，那他就得往下跳，或者给自己搭好梯子。
 
-Putin has forged a nation of war that has battened the hatches and looks at the world through a lookout slit of a tank. … The degree of military-patriotic hysteria [in] Russia today brings to mind the U.S.S.R. of the 1930s, the era of athletes’ parades, tank mock-ups and dirigibles.
+Putin has **forged a nation of war** that has **battened the hatches** and looks at the world through a **lookout slit of a tank**. … The degree of **military-patriotic hysteria** [in] Russia today brings to mind the U.S.S.R. of the 1930s, the era of athletes’ parades, **tank mock-ups and dirigibles**.
+>batten[ˈbæt(ə)n] 装条板于；在…上钉扣板；养肥自己；肥私囊  
+>hatch[hætʃ] 孵化；舱盖   
+>batten the hatches 关舱门；严阵以待  
+>slit[slɪt] 缝隙；撕裂  
+>hysteria[hɪˈstɪriə] 歇斯底里症；癔病；疯狂状态  
+>dirigible[dɪˈrɪdʒəb(ə)l] 飞船
+
 普京打造了一个战争国家，它严阵以待，从坦克瞭望口里观察这个世界。……俄罗斯今日的军事-爱国疯狂情绪让人想起了上世纪30年代的苏联，那是属于运动员游行、坦克模型和飞艇的时代。
 
-This is one tunnel where I don’t see the light at the end. All these restaurants that ask me to their ribbon cutting, I keep saying that, ‘You guys are too damn brave.’
+This is one tunnel where I don’t see **the light at the end**. All these restaurants that ask me to their **ribbon cutting**, I keep saying that, ‘You guys are **too damn brave**.’
+>ribbon cutting 剪彩仪式  
+
 这是一条看不到尽头的隧道。对于所有邀请我参加剪彩仪式的餐馆，我总是说，‘你们太勇敢了。’
 
-The next variant is around the corner. That’s just science, isn’t it? How do you open up an economy if everything is imported? The rest of the world is riddled with Omicron.
+The next variant is **around the corner**. That’s just science, isn’t it? How do you **open up an economy** if everything is imported? The rest of the world **is riddled with** Omicron.
+>around the corner 在拐角处；即将来临；即将到来  
+>be riddled with 饱受……之苦；充满
+
 下一个变异即将到来。这就是科学，不是吗？如果一切都是进口的，你要怎么开放一个经济？世界上其他地方到处都是奥密克戎。
 
-For Mr. Hussain, a fifth-generation Hong Konger, losing the small mom-and-pop restaurants, diners and outdoor eateries that make his home so vibrant will irrevocably change the city. The old-timers assure me that we are going to be OK. But I worry as a restaurateur, as an entrepreneur
+For Mr. Hussain, a fifth-generation Hong Konger, losing the small **mom-and-pop** restaurants, diners and **outdoor eateries** that make his home so **vibrant will irrevocably change** the city. The old-timers assure me that we are going to be OK. But I worry as a restaurateur, as an entrepreneur
+>mom-and-pop 夫妻店  
+>eatery[ˈitəri] 餐馆；饮食店  
+>vibrant[ˈvaɪbrənt] 有活力的；充满生气的   
+>irrevocably[ɪ'rɛvəkəblɪ] 不可逆转；不可挽回地；不可撤销地
+
 对于第五代香港人侯赛因来说，失去让他的家乡充满活力的那些小型夫妻店、餐馆和户外餐馆将会不可逆转地改变这座城市。老一辈人向我保证，我们会没事的。但作为餐馆老板和企业家，我很担心
 
-At this point, it’s really almost like a last-ditch, or certainly very stubborn and persistent, effort to stave off the virus, They are really stuck.
+At this point, it’s really almost like a **last-ditch**, or certainly very **stubborn** and persistent, effort to **stave off** the virus, They are really stuck.
+>stubborn[ˈstʌbərn] 固执的；执拗的；顽固的；倔强的  
+>stave off 挡开；避开；延宕; 延缓；防止；阻止
+
 就目前而言，这个政策真的几乎像是遏制病毒的孤注一掷，至少肯定是非常固执和不懈的努力，他们真的是骑虎难下。
 
-So far, the leadership has only doubled down on its strategy — which relies on mass testing, stringent border controls, extensive contact tracing and snap lockdowns — to extinguish nascent outbreaks.
+So far, the leadership has only **doubled down on its strategy** — which **relies on mass testing, stringent border controls, extensive contact tracing and snap lockdowns** — to **extinguish nascent outbreaks**.
+>snap 匆忙的；仓促的  
+>nascent[ˈnæs(ə)nt] 新生的；萌芽的；未成熟的
+
 领导层至今一直在加大这一政策的力度，用大规模病毒检测、严格的边境控制、广泛的接触者追踪，以及临时封锁等手段来遏制新的疫情暴发。
 
-Seeking escape from grinding poverty in northern Vietnam, the 43-year-old farmer labored for years on construction sites in Kuwait and Uzbekistan before being offered a ticket to what he was told would be “the promised land” — Europe, and a job with a good salary.
+**Seeking escape from grinding poverty** in northern Vietnam, the 43-year-old farmer **labored for years on construction sites** in Kuwait and Uzbekistan before being offered a ticket to what he was told would be “**the promised land**” — Europe, and a job with a good salary.
+>grinding poverty 赤贫
+
 为了摆脱越南北部的极度贫困，一位43岁的农民在科威特和乌兹别克斯坦的建筑工地上工作了多年，最终获得了一张通往欧洲的票和一份薪酬优厚的工作，人们曾告诉他，那将是他的“应许之地”。
 
-President Donald J. Trump tried to ban WeChat, along with the Chinese-owned TikTok, from operating in the United States, saying it was a national security threat. A federal judge later issued an injunction.
+President Donald J. Trump tried to **ban WeChat, along with the Chinese-owned TikTok**, from operating in the United States, saying it was a national security threat. A federal judge later **issued an injunction**.
+>injunction[ɪnˈdʒʌŋkʃ(ə)n] 禁制令；禁令；禁止令
+
 特朗普总统曾试图禁止微信和中国公司拥有的TikTok在美国运营，称其对国家安全构成威胁。一名联邦法官后来发布了一项禁制令
 
-at a regular news conference on Monday evening that he was not aware of the specifics of Mr. Morrison’s account, but added: “The accusation of China interference is nothing but unfounded denigration and smear. We do not and have no interest in interfering in other countries.”
+At a regular news conference on Monday evening that he **was not aware of the specifics** of Mr. Morrison’s account, but added: “The accusation of China interference is nothing but **unfounded denigration and smear**. We do not and have no interest in interfering in other countries.”
+>denigration[ˌdenɪ'ɡreɪʃ(ə)n] 诽谤; 诋毁  
+>smear[smɪr] 诽谤；弄脏；弄上油污; 污点；污渍；(尤指政治上的)抹黑
+
 在周一晚间的例行新闻发布会上表示，他不清楚莫里森所说的具体情况，但他补充说：“所谓中国干涉纯属污蔑抹黑，无稽之谈。我们从不、也没有兴趣干涉他国。”
 
-Dr. Chen studies heat transfer; he hopes to develop a superconductor that could convert heat from car exhaust into electricity, or fabric for clothing that could cool the body. During the year since his arrest, that had been the hardest thing — tearing himself away from research.
+Dr. Chen studies **heat transfer**; he hopes to **develop a superconductor** that could convert heat from **car exhaust** into electricity, or **fabric for clothing** that could cool the body. During the year since his arrest, that had been the hardest thing — **tearing himself away** from research.
+>superconductor 超导体  
+>car exhaust 汽车尾气  
+>fabric for clothing 衣服面料  
+>tear away 撕开；勉强离去；扯掉
+
 陈刚研究的是热传导。他希望开发出一种超导体，可以将汽车尾气中的热量转化为电能，或者可以给身体降温的衣服面料。被捕后的一年里，远离研究成了艰难无比的事情。
 
-Prosecutors announced that they had received new information indicating that Dr. Chen had not been obliged to disclose those affiliations, undercutting the basis of the case.
+Prosecutors announced that they had received new information **indicating** that Dr. Chen **had not been obliged to disclose those affiliations, undercutting the basis** of the case.
+>undercut the basis 削弱基础
+
 检察官宣布，他们收到了新的信息，表明陈刚没有义务披露这些关系，使得此案难以成立。
 
-In recent months, prosecutors floated an agreement in which the government would have dropped the criminal charges in exchange for acknowledgment of some links to China, he said. He refused it, he said. That’s just my mentality, I didn’t do anything wrong.
+In recent months, prosecutors **floated an agreement** in which the government would have **dropped the criminal charges in exchange** for acknowledgment of some links to China, he said. He refused it, he said. That’s just my **mentality**, I didn’t do anything wrong.
+>float an agreement 提出协议  
+>mentality[menˈtæləti] 心态；思想状况  
+
 他说，几个月前，检方向他提出交易：政府将放弃刑事指控，换取他承认与中国的一些联系。他说，他拒绝了。我就是这个心态，我没做错什么。
 
-Dr. Chen grew up without any hope of becoming a scientist. His parents, the descendants of landowners, had a “bad classification” from the Chinese government, and were viewed suspiciously. His father warned him he would probably spend his life as a farmer.
+Dr. Chen **grew up** without any hope of becoming a scientist. His parents, **the descendants of landowners**, had a “**bad classification**” from the Chinese government, and were viewed **suspiciously**. His father warned him he would probably **spend his life as a farmer**.
+>bad classification 出身不好
+
 成长过程中，他不奢望成为科学家。他的父母都是地主的后代，在中国政府的心目中属于“出身不好”，不能获得信任。父亲警告他，可能会当一辈子农民。
 
-Dr. Chen was one of the first classes of Chinese students to take standardized tests, and his scores vaulted him into an academic elite. He immigrated to the United States at 25, and became a naturalized citizen in 2000.
+Dr. Chen was one of the first classes of Chinese students to **take standardized tests**, and his scores **vaulted him into an academic elite**. He immigrated to the United States at 25, and became a **naturalized citizen** in 2000.
+>vault[vɔlt] 拱顶；穹顶；腾跃; 跳马  
+>vault into an academic elite 成为学术精英
+
 陈刚参加了首届高考，以优异的成绩成为学术精英。他在25岁时移民美国，并于2000年入籍成为美国公民。
 
-In January 2020, he was alarmed by the arrest of Charles M. Lieber, the head of Harvard’s chemistry department, who was charged with hiding his participation in China’s Thousand Talents recruitment program. But neither Dr. Chen nor his colleagues saw parallels with their own activities, he said.
+In January 2020, he **was alarmed by** the arrest of Charles M. Lieber, the head of Harvard’s chemistry department, who was charged with hiding his **participation in China’s Thousand Talents recruitment program**. But neither Dr. Chen nor his colleagues **saw parallels with** their own activities, he said.
+>parallels with 相似之处
+
 2020年1月，哈佛大学化学系主任查尔斯·利伯被捕，令陈刚感到震惊。利伯被控隐瞒自己参与中国“千人计划”的情况。但陈刚说，自己和同事们都不觉得他们的活动与利伯有任何相似之处。
 
-“I didn’t dare use Chinese — because I spoke with her in Mandarin, right, most of the time — but I didn’t dare to use Chinese,” he said. “I regret so much, once they took me away, because I should have shouted in Chinese to her, ‘Anything you say can be used against you.’”
+“I didn’t **dare use** Chinese — because I spoke with her **in Mandarin**, right, most of the time — but I didn’t **dare to use** Chinese,” he said. “I regret so much, once they took me away, because I should have shouted in Chinese to her, ‘**Anything you say can be used against you**.’”  
 “我不敢说中文——因为我跟她的大部分交流都用普通话——但那时我不敢说中文，”他说。“他们一把我带走，我就特别后悔，因为我应该用中文对她喊，‘你说的一切都可能对你不利。’”
 
-Dr. Chen, who has experimented with standup comedy, joked — half-joked — that the experience had so disgusted them that both he and his wife lost weight. We didn’t know what this word really meant. It’s real. Disgust is biological. We used to see this word, but it’s a biological reaction after everything that has happened.
+Dr. Chen, who has **experimented with standup comedy**, joked — **half-joked** — that the experience had so disgusted them that both he and his wife lost weight. We didn’t know what this word really meant. It’s real. **Disgust is biological**. We used to see this word, but it’s a biological reaction after everything that has happened.
+>standup comedy 喜剧脱口秀  
+>biological[ˌbaɪəˈlɑdʒɪk(ə)l] 生物学的；生物的
+
 曾尝试表演过单口喜剧的陈刚半开玩笑半认真地说，那次经历让他和妻子恶心到人消瘦。我们之前并不知道这个英文词的真正含义。但感觉好真实。恶心是生理现象。我们以前总见到这个词，但我说的是在经历这一切之后的生理反应。
 
-I told him, ‘God, this is going to be crushing for me if we get a guilty at trial and I’m sitting with you in the courtroom.’”
+I told him, ‘God, **this is going to be crushing** for me if we get a guilty at trial and I’m sitting with you in the courtroom.’”
+>crushing[ˈkrʌʃɪŋ] 毁坏性的  
+
 “我告诉他，‘上帝啊，如果我和你一起坐在法庭上，而法庭宣判的结果是有罪，那对我来说可太痛苦了。’”
 
-I would never incriminate anybody,And seeing how terribly they can stretch the facts, I have zero confidence in them. Absolute zero.
+I would never **incriminate anybody**, And seeing how terribly they can **stretch the facts**, I have **zero confidence** in them. Absolute zero.
+>incriminate[ɪnˈkrɪmɪˌneɪt] 使负罪；连累; 牵连  
+>stretch the facts 夸大事实
+
 我决不会牵连任何人，看到他们可以把事实说得多么可怕，我对他们毫无信心。一点都没有。
 
-Over the years, he has learned that the best way to grab the attention of an American president is with weapons. And that the best time to do it is when the world can least afford the instability. Russia has hinted at a potential invasion of Ukraine, keeping the Biden administration on tenterhooks.
+Over the years, he has learned that the best way to **grab the attention** of an American president is with weapons. And that the best time to do it is when the world can least **afford the instability**. Russia has **hinted at a potential invasion** of Ukraine, keeping the Biden administration **on tenterhooks**.
+>instability[ˌɪnstəˈbɪləti] 不稳定性；不坚决；不安定  
+>on tenterhooks['tentəhʊks] 提心吊胆；焦虑不安；如坐针毡; 坐立不安
+
 多年以来，他已经认识到，吸引美国总统注意力的最佳方式是武器。而最好的时机是世界最不想看到不稳定的时候。俄罗斯已暗示可能入侵乌克兰，让拜登政府如坐针毡。
 
-Mr. Kim has rapidly expanded the country’s nuclear program, even as the United Nations piled on sanctions. His nuclear weapons are, as North Korea has put it, “not a bargaining chip.”
+Mr. Kim has **rapidly expanded** the country’s nuclear program, even as the United Nations **piled on sanctions**. His nuclear weapons are, as North Korea has put it, “not a **bargaining chip**.”
+>bargaining chip 谈判筹码
+
 尽管联合国已多次对朝鲜实施制裁，但金正恩仍在迅速扩大朝鲜的核计划。正如朝鲜政府所说，该国的核武器“不是谈判筹码”。
 
-Washington has taken no steps to entice Mr. Kim, except to propose talks “without preconditions,” ​a lukewarm entreaty that North Korea has rebuffed.
+Washington has **taken no steps to entice** Mr. Kim, except to propose talks “without preconditions,” ​a **lukewarm entreaty** that North Korea has **rebuffed**.
+>entice[ɪnˈtaɪs] 诱惑；怂恿；吸引  
+>lukewarm[ˈlukˌwɔrm] 微温的；不冷不热的；温和的  
+>entreaty[ɪnˈtriti] 恳求；乞求; 哀求  
+>rebuff 拒绝；挫折；击退
+
 华盛顿除了提出举行“没有先决条件”的谈判外，一直没有采取任何吸引金正恩的行动。美国不温不火的提议已遭到朝鲜的拒绝。
 
-Japan, South Korea, India and other countries were also introducing their own incentives in a bid to attract a strategically important industry. The clock is ticking, None of us are working in a vacuum. This is a global industry.
+Japan, South Korea, India and other countries were also introducing their own **incentives in a bid to attract** a strategically important industry. **The clock is ticking**, None of us are working in a **vacuum**. This is a global industry.
+>the clock is ticking 时间紧迫  
+>vacuum[ˈvækjum] 真空；真空状态；空虚；空白
+
 日本、韩国、印度和其他国家也在推出自己的激励措施，以吸引这个具有战略意义的行业。时间紧迫，我们都不是在真空中工作。这是一个全球性的产业。
 
-The chip funding itself has broad bipartisan support and could be passed into law as soon as the next few months, supporters say; the question is whether other measures that have been tucked in the package will sink its prospects. 
+The chip funding itself has **broad bipartisan support** and could be passed into law as soon as the next few months, supporters say; the question is whether other measures that **have been tucked in** the package will **sink its prospects**. 
+>tuck in 大吃一顿；掖被子；塞入；塞进；尽情吃  
+>sink prospects 削弱前景
+
 支持者说，芯片投资本身得到了两党的广泛支持，最快可以在未来几个月内获得通过而成为法律；问题是，已经纳为一揽计划的其他措施是否会削弱其前景。
 
-Chip shortages have also become one of the largest single factors stoking inflation, now a key gripe among American voters as the midterm elections approach. Inflation hit a 40-year high in December, buoyed by a 37 percent increase in the price of used cars.
+Chip shortages have also become one of the largest single factors **stoking inflation**, now a key **gripe** among American voters as the midterm elections approach. Inflation hit a 40-year high in December, **buoyed** by a 37 percent increase in the price of used cars.
+>stoke[stoʊk] 给…添加(燃料)；煽动；激起；促使…的增加; 司炉  
+>stoke inflation 引发通胀  
+>gripe[ɡraɪp] 抱怨；怨言；牢骚  
+>buoy[ˈbui] 浮标；航标; 鼓舞；鼓励；使漂浮；使浮起
+
 芯片短缺也成为引发通胀的最大单一因素之一，随着中期选举的临近，通胀已经成为美国选民的主要不满因素。在二手车价格上涨37%的推动下，12月通货膨胀率达到了40年来的新高。
 
-With the Games only days away, China has delivered. It has plowed through the obstacles that once made Beijing’s bid seem a long shot, and faced down new ones, including an unending pandemic
+**With the Games only days away**, China has delivered. It has **plowed through the obstacles** that once **made Beijing’s bid seem a long shot**, and faced down new ones, including an **unending pandemic**
+>plow through 费力处理；艰难地完成；刻苦钻研  
+>unending[ʌnˈendɪŋ] 无穷无尽的；不停的；无止境的  
+>a long shot 机会不大；长射程；远程摄影；大胆的猜测; 一记远射
+
 距离冬奥会开幕只剩下几天了，中国已兑现了承诺。它不仅全力克服了曾让北京申奥看似希望不大的障碍，而且还克服了新的障碍，包括无休止的新冠病毒疫情
 
-Beijing 2022 “will not only enhance our confidence in realizing the great rejuvenation of the Chinese nation,” It will also “show a good image of our country and demonstrate our nation’s commitment to building a community with a shared future for mankind.”
+Beijing 2022 “will not only **enhance our confidence** in **realizing the great rejuvenation** of the Chinese nation,” It will also “show a good image of our country and **demonstrate our nation’s commitment** to building a community with a shared future for mankind.”
+>the great rejuvenation 伟大复兴  
+
 北京冬奥会“不仅可以增强我们实现中华民族伟大复兴的信心，而且有利于展示我们国家和民族致力于推动构建人类命运共同体的良好形象”
 
-In an area perennially short of water, China built a network of pipelines to feed a phalanx of snow-making machines to dust barren slopes in white. Officials this week even claimed the entire Games would be “fully carbon neutral.”
+In an area **perennially** short of water, China built a network of pipelines to feed **a phalanx of** snow-making machines to **dust barren slopes** in white. Officials this week even claimed the entire Games would be “**fully carbon neutral**.”
+>perennially[pə'reniəli] 终年地; 永久地；不断地  
+>phalanx[ˈfælæŋks] 密集的人; 方阵；密集阵  
+>barren[ˈberən] 贫瘠的；不毛之地的；不结果实的；不育的  
+>slope[sloʊp] 斜坡；坡度；山坡
+
 中国已在这样一个常年缺水的地区建起了一套管道网，为密集的造雪机供水，让荒山披上了白装。官员们甚至已在本周声称，本届奥运会“将全面实现碳中和”
 
-By then, the luster of hosting the Winter Games had worn off. Vancouver was dogged by unseasonably warm weather. Sochi 2014 — intended as a valedictory of Vladimir V. Putin’s rule in Russia — cost a staggering $51 billion.
+**By then, the luster of** hosting the Winter Games had **worn off**. Vancouver was **dogged by unseasonably** warm weather. Sochi 2014 — intended as a **valedictory** of Vladimir V. Putin’s rule in Russia — cost a **staggering** $51 billion.
+>by then 到那时候；到那时为止  
+>luster[ˈlʌstər] 同“lustre”；光泽；光彩  
+>wear off (精力)衰退；(衣服等)渐破; 逐渐消失；磨损；渐渐减少  
+>dog 跟踪；笼罩在…心头；弄得…狼狈不堪；被…困扰  
+>unseasonably[ʌnˈsiːz(ə)nəbli] 不合季节的；不合时令地  
+>valedictory[ˌvæləˈdɪkt(ə)ri] 告别演说
+
 与以前相比，举办冬奥会的光彩那时候已经褪去了许多。温哥华的冬奥会曾受气候异常温暖的困扰。原打算作为普京卸任俄罗斯总统的告别仪式举办的2014年索契冬奥会花了510亿美元的惊人费用。
 
-China promised to spend only $1.5 billion on capital projects at venues, plus that much in operating expenses, a fraction of the cost for Sochi or the 2018 Games in Pyeongchang, South Korea, which cost nearly $13 billion
+China promised to spend only $1.5 billion on capital projects at **venues, plus that much** in operating expenses, **a fraction of the cost** for Sochi or the 2018 Games in Pyeongchang, South Korea, which cost nearly $13 billion
+>venue[ˈvenˌju] 场地；(体育)场馆；会场  
+>a fraction of 一小部分
+
 中国承诺在场馆工程项目上只投入15亿美元的资金，再加上同样数额的运行费用，这与索契冬奥会或2018年韩国平昌冬奥会相比只是个零头，2018年冬奥会的花费接近130亿美元
 
-The final tally was 44 to 40 for Beijing, with one abstention. Almaty’s supporters were left to fume over a glitch in the electronic voting system that prompted a manual recount to “protect the integrity of the vote.” That Kazakhstan has plunged into political turmoil on the eve of the Games seems now, in hindsight, further validation of the choice to pick Beijing.
+**The final tally** was 44 to 40 for Beijing, with one **abstention**. Almaty’s supporters were left to **fume over a glitch** in the electronic voting system that **prompted a manual recount** to “protect the integrity of the vote.” That Kazakhstan has **plunged into political turmoil** on the eve of the Games seems now, in **hindsight**, further validation of the choice to pick Beijing.
+>tally[ˈtæli] 记录；积分表；账; 吻合  
+>abstention[əbˈstenʃ(ə)n] 弃权；戒除  
+>fume[fjum] 发怒；汽；烟尘  
+>hindsight[ˈhaɪn(d)ˌsaɪt] 事后聪明；事后的领悟
+
 北京最终以44票支持、40票反对、一票弃权的结果胜出。阿拉木图的支持者们对电子投票系统出现的一个小故障感到愤怒，该故障迫使奥委会为“保护投票的完整性”用人工方式重新计票。如今，哈萨克斯坦已在冬奥会前夕陷入政治动荡，回过头来看，选择北京的正确性似乎得到了进一步证明。
 
-We know that increased vaccination and infection are strengthening our defenses against Covid, I’m more optimistic about our ability to tame the pandemic than at any point since its emergence. while nationally, new cases and hospital admissions have leveled off in recent days.
+We know that increased vaccination and infection are **strengthening our defenses** against Covid, I’m **more optimistic** about our ability to **tame the pandemic** than at any point since its emergence. **while nationally**, new cases and **hospital admissions** have **leveled off** in recent days.
+>tame the pandemic 控制住疫情  
+>hospital admissions 入院数  
+>level off 弄平；(物价等)稳定；达到平衡；趋向平稳
+
 我们都知道，疫苗接种和感染的增加正在加强我们对新冠病毒的抵抗力, 自疫情出现以来，我对我们控制住疫情的能力比以往任何时候都要乐观。而在全国范围内，最近几天的新感染数和入院数已趋于平稳。
 
-But scientists have also cautioned that the protection offered by a previous infection may wane over time, and may not apply as well to future versions of the virus.
+But scientists have also cautioned that the protection offered by a previous infection may **wane over time**, and may not **apply as well to** future versions of the virus.
+>wane over time 随着时间的推移而减弱
+
 但科学家们也警告说，以前的感染所提供的保护可能会随着时间的推移而减弱，也可能不适用于未来版本的病毒。
 
-The dimmed economic prospects come at a time when governments have less room to maneuver in how they spend their money. Debt levels have soared over the past two years as countries struggled with the health crisis caused by the pandemic and funneled aid to their citizens.
+**The dimmed economic prospects** come at a time when governments **have less room to maneuver** in how they spend their money. Debt levels have **soared over** the past two years as countries struggled with the health crisis caused by the pandemic and **funneled aid to** their citizens.
+>funnel aid to 提供帮助  
+>have less room to maneuver 缺少回旋余地
+
 经济前景黯淡之际，各国政府在财政支出上的回旋余地也随之缩减。过去两年，由于各国都在应对疫情造成的卫生危机，向本国民众提供援助，因而债务水平出现飙升
 
-The army leadership must know it has no permanent friends among political forces at home or abroad. It constantly seeks strategic maneuverability, balancing domestic and foreign forces in response to changing realities and to avoid dependence on a single patron, proxy or ally.
+The army leadership must know it has no permanent friends among political forces at home or abroad. It **constantly seeks strategic maneuverability**, balancing domestic and foreign forces **in response to changing realities** and to avoid dependence on a single **patron, proxy or ally**.
+>maneuverability[məˌnuvərə'bɪlətɪ] 机动性；操纵性；操控性  
+>strategic maneuverability 战略斡旋空间  
+>patron[ˈpeɪtrən] 顾客；资助者; 赞助人
+
 军方领导层必然明白，在国内外的政治势力中，巴基斯坦没有永远的朋友。它始终追求战略斡旋空间，平衡国内外力量，以适应不断变化的现实，避免依赖单一的赞助方、代理人或盟友
 
-Because as U.S.-China competition intensifies, Pakistan’s army fears getting trapped in a cul-de-sac with Beijing. So it seeks to balance the two great powers by grasping on to areas of cooperation, including counterterrorism and trade, that could salvage relations with Washington.
+Because as U.S.-China **competition intensifies**, Pakistan’s army fears **getting trapped in a cul-de-sac** with Beijing. So it seeks to balance the two great powers by **grasping on to areas of cooperation, including counterterrorism** and trade, that could **salvage relations** with Washington.
+>cul-de-sac[ˌkʊl də ˈsæk] 死胡同；绝路  
+>grasp on to 把握; 抓紧  
+>salvage[ˈsælvɪdʒ] 打捞；挽救；挽回；海上救助；残值
+
 原因在于，随着美中竞争加剧，巴基斯坦军方害怕被困在北京的死胡同里。因此，它试图抓紧反恐和贸易等可能挽救与华盛顿关系的合作领域，以在这两个大国之间寻求平衡。
 
-In the 1950s, officials urged producers to use potatoes, not rice, to make soju, another type of traditional Korean liquor. In 1965, they banned grain-based alcohol entirely, further suppressing traditional distillation methods.
+In the 1950s, officials **urged producers to** use potatoes, not rice, to **make soju**, another type of traditional Korean **liquor**. In 1965, they **banned grain-based alcohol** entirely, further **suppressing traditional distillation** methods.
+>distillation[ˌdistiˈleɪʃ(ə)n] 蒸馏法；蒸馏
+
 1950年代，官员们敦促生产商使用土豆而不是大米来酿造另一种韩国传统酒烧酒。1965年，他们彻底禁止了以谷物为基础的烈酒，进而禁止了传统的蒸馏方法
 
-I just don’t buy into the narrative that any one ethnic group owns admission to these schools. The San Francisco Board of Education has discarded a merit-based admissions policy and substituted a lottery at the highly regarded Lowell High School, where 55 percent of students were of Asian descent. 
+I just don’t **buy into the narrative** that any one **ethnic group owns admission** to these schools. The San Francisco Board of Education has **discarded a merit-based admissions policy** and **substituted a lottery** at the highly regarded Lowell High School, where 55 percent of students were of **Asian descent**.
+>merit-based admissions 择优录取
+
 我就是没法接受这种说法，那就是这些学校的入学可以被某一个族群霸占。旧金山教育委员会已经废除了洛威尔高中的择优录取政策，代之以摇号机制，这座极具声望的学校有55%的学生属于亚裔。
 
-When we talk about merit, meritocracy and especially meritocracy based on standardized testing, those are racist systems.
+When we talk about **merit, meritocracy** and especially meritocracy based on standardized testing, those are racist systems.
+>meritocracy[ˌmerɪˈtɑkrəsi] 精英领导体制；任人唯贤；精英政治
+
 当我们在谈论择优、英才教育，尤其是基于标准化考试的英才教育时，那就是种族歧视制度。
 
-The next year the percentage of incoming Black and Latino students jumped and the percentage of Asian students, who skew more middle and upper middle class than in New York, declined. 
+The next year the percentage of incoming Black and Latino students **jumped** and the percentage of Asian students, who **skew more middle and upper middle class** than in New York, **declined**.
+>skew[skju] 歪的；弯曲的；误用的；曲解的; 歪曲；曲解；使不公允；倾斜；偏移
+ 
 次年，黑人和拉丁裔学生占比大幅提升，亚裔学生占比下降，该地区的亚裔相比纽约而言更偏向中产、上中产阶层。
 
-Critics of specialized high schools argue these institutions are out of step with the zeitgeist and educational practice. Better to cast aside standardized tests and seek heterogenous classes in neighborhood high schools, they argue, than to cloister top students. Some studies, they say, show struggling students gain from the presence of talented outliers. And the entrance exam has fueled the growth of a private and inequitable tutoring industry.
+Critics of specialized high schools argue these institutions are **out of step** with the **zeitgeist** and educational practice. **Better to cast aside** standardized tests and seek **heterogenous** classes in neighborhood high schools, they argue, **than to cloister** top students. Some studies, they say, show **struggling students gain from the presence of talented outliers**. And the entrance exam has **fueled the growth** of a private and **inequitable tutoring industry**.
+>out of step 脱节; 不协调；步调不一致；不合拍  
+>zeitgeist['zaɪt.ɡaɪst] 时代精神；时代思潮  
+>heterogenous[ˌhetə'rɒdʒənəs] 异质的；异种的  
+>cast aside 抛弃; 废除  
+>cloister[ˈklɔɪstər] 使…与世隔绝；出家；回廊; 走廊；寺院  
+>outlier['aʊtˌlaɪə] 局外人；门外汉; 异常值；异常点
+
 批评特殊高中的人认为，这些机构与时代精神和教育实践脱节。他们认为，与其把尖子生集中在一起，不如抛开标准化考试，在社区的高中里建立多样性的班级。他们说，一些研究表明，在学业上吃力的学生能从有才华的优秀学生身上获益。此外，入学考试助长了不公平的私教产业的发展。
 
-To understand this decline involves a trek back through decades of policy choices, as city officials, pushed by an anti-tracking movement, rolled back accelerated and honors programs and tried to reform gifted programs, particularly in nonwhite districts.
+To understand this decline involves a **trek back through decades of** policy choices, as city officials, pushed by an **anti-tracking** movement, **rolled back accelerated and honors programs** and tried to reform **gifted programs**, particularly in nonwhite districts.
+>trek back through 跋涉穿过；回顾  
+>anti-tracking 反跟踪
+
 要理解这种下降，需要回顾几十年来的政策选择，在反分班运动的推动下，市政府官员取消了快班和荣誉班级，并试图改革英才课程，尤其是在非白人地区。
 
 
