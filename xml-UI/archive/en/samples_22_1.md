@@ -524,55 +524,108 @@ The year 2021 was one of **emotional whiplash**. There was **anticipation for va
 
 2021年是情绪被折磨的一年。人们期待疫苗，随后开展的疫苗接种却十分混乱。然后，由于许多美国人都接种了疫苗，我们看到了一些希望，但却发现了新的变异株、沸沸扬扬的新闻报道和疯狂蔓延的混乱。
 
-The snapshot of China’s economy, the main locomotive of global growth in the last few years, adds to expectations that the broader world economic outlook is beginning to dim.
+The snapshot of China’s economy, the main **locomotive** of global growth in the last few years, **adds to expectations** that the broader world economic **outlook is beginning to dim**.
+>locomotive[ˌloʊkəˈmoʊtɪv] 机车；火车头
+
 作为过去几年全球经济增长的主要火车头，中国经济的概况让人们更加相信，世界经济的整体前景正开始黯淡。
 
-In a horrifying instant, a man walked up to a 40-year-old woman waiting for the subway in Times Square on Saturday morning and shoved her to the tracks as a train screeched into the station, killing her, the police said.
+In a **horrifying instant**, a man walked up to a 40-year-old woman waiting for the subway in Times Square on Saturday morning and **shoved her to the tracks** as a train **screeched into** the station, killing her, the police said.
+>shove[ʃʌv] 猛推；乱挤  
+>screech[skritʃ] 尖叫；发出尖锐
+
 警方称周六早上在时报广场地铁站出现惊悚一幕，一名男子走向一名在等待地铁的40岁女子，将她推进铁轨，此时一列火车正好进站，导致该名女子死亡
 
-In the pantheon of urban crime, being randomly pushed in front of a subway train occupies a rung of the utmost horror; examples of it are seared into the city’s collective memory, going back to the 1980s and ’90s, when crime was far more rampant than it is now.
+In the **pantheon** of urban crime, being randomly pushed in front of a subway train occupies **a rung of the utmost horror**; examples of it are **seared into** the city’s collective memory, going back to the 1980s and ’90s, when crime was far more **rampant** than it is now.
+>pantheon[ˈpænθiˌɑn] 罗马万神殿；名流；先贤祠  
+>rung[rʌŋ] (梯子的)横档，梯级  
+>sear[sɪr] 烧焦；烧灼；使干枯；使凋萎  
+>rampant[ˈræmpənt] 泛滥的；猖獗的；疯长的
+
 在形形色色的城市犯罪中，被无端推至地铁列车前是最恐怖的一种；相关的事例被烙印在城市的集体记忆中，一直可以追溯到1980和90年代犯罪比现在更加猖獗的时期。
 
-Many subway riders now complain of regular encounters with people who seem unhinged and threatening and have pleaded for help from elected officials.
+Many subway riders now complain of regular encounters with people who **seem unhinged and threatening** and have **pleaded for help** from elected officials.
+>unhinged 精神错乱的；精神失常的
+
 许多地铁乘客抱怨，他们经常遇到看上去不正常、具有威胁性的人，并向民选官员寻求帮助。
 
-China announced on Monday that its birthrate plummeted for a fifth straight year in 2021, moving the world’s most populous country closer to the potentially seismic moment when its population will begin to shrink, and hastening a demographic crisis that could undermine its economy and even its political stability.
+China announced on Monday that its **birthrate plummeted** for a fifth straight year in 2021, moving the world’s **most populous country closer to the potentially seismic moment** when its population will begin to **shrink, and hastening a demographic crisis** that could **undermine its economy** and even its political stability.
+>plummet[ˈplʌmɪt] 暴跌；速降  
+>seismic[ˈsaɪzmɪk] 地震的；地震引起的；影响深远的；重大的  
+>hasten[ˈheɪs(ə)n] 催促；赶快；加速
+
 周一，中国宣布其出生率在2021年连续第五年暴跌，令这个世界上人口最多的国家更接近人口开始缩减的潜在重大时刻，并加速了一场可能破坏其经济乃至政治稳定的人口危机
 
-The saga has exposed much long-running dysfunction and injustice in the Australian system: excessively strict, byzantine and unpredictable entry rules, but paradoxically special treatment through exemptions for the rich and famous
+The **saga has exposed much long-running dysfunction and injustice** in the Australian system: **excessively strict, byzantine and unpredictable** entry rules, but **paradoxically special treatment through exemptions** for the rich and famous
+>saga[ˈsɑɡə] 长篇小说；传奇  
+>byzantine 繁琐的  
+>paradoxically[ˌperəˈdɑksɪkli] 自相矛盾地；荒谬地
+
 这件事暴露了澳大利亚的制度中许多长期存在的失衡和不公：入境规过于严格、繁琐和不可预测，但与之矛盾的，又存在对富人和名人进行豁免给予他们特殊待遇
 
-The Australian government’s conduct toward him has been utterly disgraceful, Novak is a victim of brinkmanship by shameless populists, exclusively driven by snap opinion polls
+The Australian government’s conduct toward him has been **utterly disgraceful**, Novak is a victim of **brinkmanship by shameless populists**, exclusively driven by **snap opinion polls**
+>brinkmanship[ˈbrɪŋkmənˌʃɪp] 边缘策略  
+>populist[ˈpɑpjəlɪst] 民粹主义
+
 澳大利亚政府对待他的做法极为可耻，诺瓦克是无耻的民粹主义者边缘政策的受害者，他们完全受临时民意调查的驱动
 
-If you were looking for general deterrence, it has been achieved in spades — we have terrified the entire research community, What is deterrence? You don’t speed because you’re afraid of getting a ticket. Deterrence is about fear.
+If you were looking for **general deterrence**, it has been achieved in **spades** — we have terrified the entire research community, What is deterrence? You don’t speed because you’re afraid of **getting a ticket**. Deterrence is about fear.
+>spade[speɪd] 铲；锹
+
 如果你想要达到普遍的威慑，它已经充分实现了——我们已经吓坏了整个研究界，什么是威慑？你不超速是因为你害怕被开罚单。威慑是关于恐惧的。
 
-When Zhao Xiaoqing first met Zhao Fei on a blind date, the sparks didn’t really fly. Facing a new outbreak of coronavirus cases, the health authorities announced a lockdown so sudden and severe that she didn’t have time to scurry home.
+When Zhao Xiaoqing first met Zhao Fei on **a blind date, the sparks didn’t really fly**. Facing a new outbreak of coronavirus cases, the health authorities announced a lockdown **so sudden and severe** that she didn’t **have time to scurry home**.
+>a blind date 相亲  
+>scurry[ˈskʌri] 碎步疾跑; 快跑
+
 赵晓青第一次跟赵飞相亲时，并没有擦出什么火花。面对新一轮新冠疫情暴发，卫生当局突然宣布严厉封锁，以至于她没有时间赶回家。
 
-Chinese officials have employed swift lockdowns across the country as one of its top strategies to rapidly stamp out infections. But at Mr. Zhao’s house, a romance was blossoming. His consideration impressed her. He said. “We basically found each other by an accident of fate.”
+Chinese officials have **employed swift lockdowns** across the country as one of its top strategies to **rapidly stamp out infections**. But at Mr. Zhao’s house, **a romance was blossoming. His consideration impressed her**. He said. “We basically found each other by **an accident of fate**.”
+>employ 使用；雇用；运用；应用  
+>stamp out 扑灭(暴动等); 踩灭；消灭  
+>consideration 体贴
+
 中国官员已在全国范围内迅速采取封锁措施，作为快速消灭感染的首要策略之一。但在赵飞的家里，一段恋情正在绽放。他的体贴打动了她。他说。“我们基本上是靠着意外的缘分才能找到彼此。”
 
-Many public health officials have taken heart in early evidence that suggests infections from the Omicron variant tend to cause less severe illness than other versions of the coronavirus. 
+Many public health officials have **taken heart in early evidence** that suggests infections from the Omicron variant **tend to cause less severe illness** than other versions of the coronavirus. 
+>take heart in 感到振奋
+
 早期证据表明，与其他类型的新冠病毒相比，奥密克戎变异株感染往往导致轻症，这让许多公共卫生官员感到振奋
 
-Studies from earlier waves of the pandemic indicate that many people who had mild or asymptomatic initial reactions to coronavirus infection went on to develop long Covid that persisted for months.
+Studies from **earlier waves of** the pandemic indicate that many people who had **mild or asymptomatic initial reactions** to coronavirus infection **went on to develop long Covid** that persisted for months.
+>asymptomatic[ˌeɪsɪmptəˈmætɪk] 无症状的
+
 早期疫情的研究表明，许多最初的新冠病毒轻症或无症状者后来发展成持续数月的长期新冠
 
-The study found that having a coronavirus vaccine before being infected did not reduce the risk of most symptoms of long Covid. There was some suggestion from the data that vaccinated people might be at lower risk of long-term issues like abnormal breathing and cognitive symptoms, the authors wrote, but those results were not statistically conclusive.
+The study found that having a coronavirus vaccine before being infected did not reduce the risk of most symptoms of long Covid. There was some suggestion from the data that vaccinated people might be at lower risk of long-term issues like **abnormal breathing and cognitive symptoms**, the authors wrote, but those results were not **statistically conclusive**.
+>cognitive[ˈkɑɡnətɪv] 认知的；感知的；认识的
+
 研究发现，在感染前接种新冠病毒疫苗并不能降低出现长期新冠大多数症状的风险。作者写道，从数据中可以看出，接种疫苗者面临呼吸异常和认知症状等长期问题的风险可能较低，但这些结果在统计学上并不具有决定性。
 
-Some leading theories are that the condition may be related to remnants of the virus or its genetic material lingering after the initial infection subsides or to inflammation or blood circulation problems spurred by an overactive immune response that is unable to shut down.
+Some **leading theories** are that the condition may be related to **remnants** of the virus or its genetic material **lingering after** the initial infection subsides or to **inflammation or blood circulation** problems **spurred by an overactive immune response** that is unable to shut down.
+>remnant[ˈremnənt] 残余部分；剩余部分  
+>linger[ˈlɪŋɡər] 徘徊；逗留；流连；磨蹭  
+>inflammation[.ɪnflə'meɪʃ(ə)n] 炎症；发炎  
+
 一些主流理论认为，这种情况可能与最初感染消退后残留的病毒或遗传物质有关，也可能与过度活跃、无法关闭的免疫反应引发的炎症或血液循环问题有关
 
-Those who forget their heritage, betray their motherland, and seek to split the country will come to no good end
+Those who **forget their heritage, betray their motherland**, and seek to split the country will **come to no good end**
+>come to no good end 没有好下场；失败
+
 凡是数典忘祖、背叛祖国、分裂国家的人，从来没有好下场
 
-She paints classical Chinese ink landscapes and displays them on the walls of her home. She spends hours practicing the erhu, a two-stringed traditional Chinese instrument. She recounts stories of a land so beloved that her grandparents brought a handful of soil with them when they left. She still wonders what happened to the gold and silver bars they had buried beneath a heated brick bed in Beijing.
+She paints **classical Chinese ink landscapes** and displays them on the walls of her home. She spends hours **practicing the erhu, a two-stringed traditional Chinese instrument**. She **recounts stories** of a land so **beloved** that her grandparents brought **a handful of soil** with them when they left. She still wonders what happened to **the gold and silver bars** they had **buried beneath a heated brick bed** in Beijing.
+>beloved 亲爱的；钟爱的；深受喜爱的；深爱的  
+>the gold and silver bars 金条银条  
+
 她画中国水墨山水画，并将它们挂在家中的墙上展示。她会花几个小时练习二胡，这是一种中国传统的两弦乐器。她会回忆起父母是多么热爱这片土地，在临走时将一捧土带在身上。她仍然想知道，他们当初埋在北京一张炕下面的金条银条现在怎么样了
 
-Ms. Wang and the other exiles lived in villages designated for “mainlander” military officers and their families, where the aroma of peppercorn-infused Sichuan cooking mingled with the pickled scents of delicacies from southern Guizhou Province.
+Ms. Wang and the other **exiles lived in villages designated for** “mainlander” military officers and their families, where the **aroma of peppercorn-infused Sichuan cooking mingled with the pickled scents of delicacies** from southern Guizhou Province.
+>aroma[əˈroʊmə] 香味；芳香; 香气  
+>infuse[ɪnˈfjuz] 泡；沏；全面影响; 灌输；注入  
+>peppercorn 胡椒；花椒  
+>pickled[ˈpɪk(ə)ld] 腌制的；盐渍的；烂醉如泥的  
+>delicacy[ˈdelɪkəsi] 精致；精美；美味
+
 王玉兰和其他流亡者生活在专门为大陆军官及其家属划定的眷村里，椒香的川菜味与黔南美食的腌制香味混合在一起
 
 She knew that going to her “mainlander” grandparents’ house after school meant getting to **eat pork buns and chive dumplings — heavier, saltier food** than the Taiwanese **palate of her maternal** grandparents, who fed her **fried rice noodles and sautéed bitter melon**.
