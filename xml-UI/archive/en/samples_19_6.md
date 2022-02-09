@@ -1,179 +1,200 @@
-President Trump was right to engage in some trade `shock therapy` with Beijing. China no longer just wants to sell the U.S. toys and tennis shoes. It now wants to sell the same high-tech products, like 5G telecom, robotics, electric cars and A.I. systems, that America `specializes in`. So China `had to be made to bluntly understand` that the U.S. would not look the other way anymore from China¡¯s `longstanding abusive` trade practices, nor would it be `bought off`, either.
-ÌØÀÊÆÕ×ÜÍ³¶Ô±±¾©²ÉÈ¡Ä³ÖÖÃ³Ò×Ğİ¿ËÁÆ·¨ÊÇ¶ÔµÄ¡£ÖĞ¹ú²»ÔÙÖ»Ïë°ÑÍæ¾ßºÍÍøÇòĞ¬Âô¸øÃÀ¹ú¡£ËüÏÖÔÚÏë³öÊÛ¸úÃÀ¹úËùÉÃ³¤µÄÍ¬ÑùµÄ¸ß¿Æ¼¼²úÆ·£¬±ÈÈç5GµçĞÅ¡¢»úÆ÷ÈË¡¢µç¶¯Æû³µºÍÈË¹¤ÖÇÄÜÏµÍ³¡£Òò´Ë£¬±ØĞëµ¥µ¶Ö±ÈëµØÈÃÖĞ¹úÈÏÊ¶µ½£¬ÃÀ¹ú²»»áÔÙ¶ÔÖĞ¹ú³¤ÆÚµÄÃ³Ò×ÀÄÓÃĞĞÎªÊÓ¶ø²»¼û£¬Ò²²»»á±»ÂòÍ¨¡£
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
-a high-profile three-day state visit that will include some `panda diplomacy` and underscore the `strengthening Beijing-Moscow axis` at a time when relations for both with Washington `continue to fray`.
-¸ßµ÷µÄ¹úÊÂ·ÃÎÊ£¬·ÃÎÊ½«°üÀ¨ĞÜÃ¨Íâ½»£¬²¢ÔÚÓë»ªÊ¢¶ÙµÄ¹ØÏµ³ÖĞø½ôÕÅÖ®¼Ê£¬Ç¿µ÷±±¾©ÄªË¹¿ÆÖáĞÄµÄ¼ÓÇ¿¡£
+President Trump was right to engage in some trade **shock therapy** with Beijing. China no longer just wants to sell the U.S. toys and tennis shoes. It now wants to sell the same high-tech products, like 5G telecom, robotics, electric cars and A.I. systems, that America **specializes in**. So China **had to be made to bluntly understand** that the U.S. would not look the other way anymore from Chinaâ€™s **longstanding abusive** trade practices, nor would it be **bought off**, either.
+ç‰¹æœ—æ™®æ€»ç»Ÿå¯¹åŒ—äº¬é‡‡å–æŸç§è´¸æ˜“ä¼‘å…‹ç–—æ³•æ˜¯å¯¹çš„ã€‚ä¸­å›½ä¸å†åªæƒ³æŠŠç©å…·å’Œç½‘çƒé‹å–ç»™ç¾å›½ã€‚å®ƒç°åœ¨æƒ³å‡ºå”®è·Ÿç¾å›½æ‰€æ“…é•¿çš„åŒæ ·çš„é«˜ç§‘æŠ€äº§å“ï¼Œæ¯”å¦‚5Gç”µä¿¡ã€æœºå™¨äººã€ç”µåŠ¨æ±½è½¦å’Œäººå·¥æ™ºèƒ½ç³»ç»Ÿã€‚å› æ­¤ï¼Œå¿…é¡»å•åˆ€ç›´å…¥åœ°è®©ä¸­å›½è®¤è¯†åˆ°ï¼Œç¾å›½ä¸ä¼šå†å¯¹ä¸­å›½é•¿æœŸçš„è´¸æ˜“æ»¥ç”¨è¡Œä¸ºè§†è€Œä¸è§ï¼Œä¹Ÿä¸ä¼šè¢«ä¹°é€šã€‚
 
-We see `record-high` volumes of trade with China, we see `positive dynamics`, joint projects and `so on and so forth`
-ÎÒÃÇ¿´µ½ÓëÖĞ¹úµÄÃ³Ò×´´ÏÂÀúÊ·ĞÂ¸ß£¬ÎÒÃÇ¿´µ½»ı¼«µÄÍùÀ´Ì¬ÊÆ£¬ÒÔ¼°¸÷ÖÖºÏ×÷ÏîÄ¿µÈµÈ
+a high-profile three-day state visit that will include some **panda diplomacy** and underscore the **strengthening Beijing-Moscow axis** at a time when relations for both with Washington **continue to fray**.
+é«˜è°ƒçš„å›½äº‹è®¿é—®ï¼Œè®¿é—®å°†åŒ…æ‹¬ç†ŠçŒ«å¤–äº¤ï¼Œå¹¶åœ¨ä¸åç››é¡¿çš„å…³ç³»æŒç»­ç´§å¼ ä¹‹é™…ï¼Œå¼ºè°ƒåŒ—äº¬è«æ–¯ç§‘è½´å¿ƒçš„åŠ å¼ºã€‚
 
-President Vladimir V. Putin declared that Russia would `pivot toward` Asia `in the wake of` Western economic sanctions and other efforts to isolate Russia `prompted by` its `annexation` of Crimea and `destabilization` of Ukraine.
-ÆÕ¾©Ğû³Æ£¬¼øÓÚÎ÷·½µÄ¾­¼ÃÖÆ²Ã£¬¼°¶íÂŞË¹ÍÌ²¢¿ËÀïÃ×ÑÇ¡¢ÆÆ»µÎÚ¿ËÀ¼ÎÈ¶¨Òı·¢µÄ¹ÂÁ¢¶íÂŞË¹µÄÆäËû¾Ù¶¯£¬¶íÂŞË¹½«°ÑÖØĞÄ×ªÏòÑÇÖŞ¡£
+We see **record-high** volumes of trade with China, we see **positive dynamics**, joint projects and **so on and so forth**
+æˆ‘ä»¬çœ‹åˆ°ä¸ä¸­å›½çš„è´¸æ˜“åˆ›ä¸‹å†å²æ–°é«˜ï¼Œæˆ‘ä»¬çœ‹åˆ°ç§¯æçš„å¾€æ¥æ€åŠ¿ï¼Œä»¥åŠå„ç§åˆä½œé¡¹ç›®ç­‰ç­‰
 
-The Kremlin has `conceded` that China¡¯s Belt and Road initiative will `overshadow` its historic control over Central Asia, since Moscow cannot `compete economically`.
-¿ËÀïÄ·ÁÖ¹¬³ĞÈÏ£¬ÖĞ¹úµÄ¡°Ò»´øÒ»Â·¡±³«Òé½«»áÓ°Ïìµ½Ëü¶ÔÖĞÑÇµØÇø¶àÄêÀ´µÄ¿ØÖÆ£¬ÒòÎªÄªË¹¿ÆÔÚ¾­¼ÃÉÏÎŞ·¨ÓëÆäÕ¹¿ª¾ºÕù
+President Vladimir V. Putin declared that Russia would **pivot toward** Asia **in the wake of** Western economic sanctions and other efforts to isolate Russia **prompted by** its **annexation** of Crimea and **destabilization** of Ukraine.
+æ™®äº¬å®£ç§°ï¼Œé‰´äºè¥¿æ–¹çš„ç»æµåˆ¶è£ï¼ŒåŠä¿„ç½—æ–¯åå¹¶å…‹é‡Œç±³äºšã€ç ´åä¹Œå…‹å…°ç¨³å®šå¼•å‘çš„å­¤ç«‹ä¿„ç½—æ–¯çš„å…¶ä»–ä¸¾åŠ¨ï¼Œä¿„ç½—æ–¯å°†æŠŠé‡å¿ƒè½¬å‘äºšæ´²ã€‚
 
-If relations have `come a long way` since 1969, Russian `public sentiment` has not `quite matched the warmth` expressed by the Kremlin. While around 1.7 million Chinese tourists visited Russia last year, more than a million Russians `signed a petition` against a Chinese-backed `water bottling plant` on the shores of Lake Baikal, one of Russia¡¯s most spectacular natural sights. Around 10 Chinese-financed hotels on the lake are scheduled for `demolition`.
-Èç¹ûËµÁ½¹ú¹ØÏµ×Ô1969ÄêÒÔÀ´È¡µÃÁËºÜ´ó½øÕ¹£¬¶íÂŞË¹ÃñÖÚµÄÇéĞ÷Óë¿ËÀïÄ·ÁÖ¹¬±íÏÖ³öµÄÈÈÇé²¢²»ÍêÈ«Ò»ÖÂ¡£È¥Äêµ½·Ã¶íÂŞË¹µÄÖĞ¹úÓÎ¿Í´óÔ¼ÓĞ170ÍòÈË£¬ÓĞ³¬¹ı100ÍòµÄ¶íÂŞË¹ÈËÇ©ÊğÁËÒ»·İÇëÔ¸Êé£¬·´¶ÔÔÚ¶íÂŞË¹×î×³¹ÛµÄ×ÔÈ»¾°¹ÛÖ®Ò»±´¼Ó¶ûºş°¶±ß½¨Ò»¼ÒÖĞ¹ú³ö×ÊµÄÆ¿×°Ë®¹¤³§¡£ºşÅÏÔ¼10¼ÒÖĞ×Ê¾ÆµêÒ²¼Æ»®²ğ³ı
+The Kremlin has **conceded** that Chinaâ€™s Belt and Road initiative will **overshadow** its historic control over Central Asia, since Moscow cannot **compete economically**.
+å…‹é‡Œå§†æ—å®«æ‰¿è®¤ï¼Œä¸­å›½çš„â€œä¸€å¸¦ä¸€è·¯â€å€¡è®®å°†ä¼šå½±å“åˆ°å®ƒå¯¹ä¸­äºšåœ°åŒºå¤šå¹´æ¥çš„æ§åˆ¶ï¼Œå› ä¸ºè«æ–¯ç§‘åœ¨ç»æµä¸Šæ— æ³•ä¸å…¶å±•å¼€ç«äº‰
 
-Russia is the `needier partner` ¡ª it needs new markets, sources of finance and sources of technology that it cannot get because of sanctions,¡± he said. ¡°`Over the long run`, Russia is locking itself into a partnership where China `has a better hand`.
-¶íÂŞË¹ÊÇ¸üĞèÒªÖ§³ÖµÄºÏ×÷»ï°é£¬ËüĞèÒªĞÂµÄÊĞ³¡¡¢×Ê½ğºÍ¼¼ÊõÀ´Ô´£¬ÕâĞ©¶¼ÊÇÒòÎªÖÆ²Ã¶øÎŞ·¨µÃµ½µÄ¶«Î÷£¬¡±ËûËµ¡£¡°´Ó³¤Ô¶À´¿´£¬¶íÂŞË¹½«×Ô¼ºËø¶¨ÔÚÁËÒ»ÖÖÖĞ·½ÓµÓĞ¸ü´óÓÅÊÆµÄ»ï°é¹ØÏµÖĞ¡£
+If relations have **come a long way** since 1969, Russian **public sentiment** has not **quite matched the warmth** expressed by the Kremlin. While around 1.7 million Chinese tourists visited Russia last year, more than a million Russians **signed a petition** against a Chinese-backed **water bottling plant** on the shores of Lake Baikal, one of Russiaâ€™s most spectacular natural sights. Around 10 Chinese-financed hotels on the lake are scheduled for **demolition**.
+å¦‚æœè¯´ä¸¤å›½å…³ç³»è‡ª1969å¹´ä»¥æ¥å–å¾—äº†å¾ˆå¤§è¿›å±•ï¼Œä¿„ç½—æ–¯æ°‘ä¼—çš„æƒ…ç»ªä¸å…‹é‡Œå§†æ—å®«è¡¨ç°å‡ºçš„çƒ­æƒ…å¹¶ä¸å®Œå…¨ä¸€è‡´ã€‚å»å¹´åˆ°è®¿ä¿„ç½—æ–¯çš„ä¸­å›½æ¸¸å®¢å¤§çº¦æœ‰170ä¸‡äººï¼Œæœ‰è¶…è¿‡100ä¸‡çš„ä¿„ç½—æ–¯äººç­¾ç½²äº†ä¸€ä»½è¯·æ„¿ä¹¦ï¼Œåå¯¹åœ¨ä¿„ç½—æ–¯æœ€å£®è§‚çš„è‡ªç„¶æ™¯è§‚ä¹‹ä¸€è´åŠ å°”æ¹–å²¸è¾¹å»ºä¸€å®¶ä¸­å›½å‡ºèµ„çš„ç“¶è£…æ°´å·¥å‚ã€‚æ¹–ç•”çº¦10å®¶ä¸­èµ„é…’åº—ä¹Ÿè®¡åˆ’æ‹†é™¤
 
-Mainly, though, Russia is `thrilled` that Mr. Xi is showing up at the St. Petersburg investment forum with a large delegation when it is being `shunned` by the West. ¡°It allows them to `present a middle finger` to the U.S.: ¡®We have China,¡¯¡± Mr. Gabuev said.
-²»¹ı£¬×îÖ÷ÒªµÄÊÇ£¬ÔÚÎ÷·½¹ú¼Ò·×·×»Ø±ÜµÄÇé¿öÏÂ£¬Ï°½üÆ½´ø×ÅÒ»¸öÅÓ´óµÄ´ú±íÍÅ³öÏÖÔÚÊ¥±ËµÃ±¤µÄÍ¶×ÊÂÛÌ³ÉÏ£¬ÕâÁî¶íÂŞË¹·Ç³£¼¤¶¯¡£¡°ÕâÊ¹µÃËûÃÇ¿ÉÒÔÏòÃÀ¹ú±ÈÖĞÖ¸£º¡®ÎÒÃÇÓĞÖĞ¹ú¡¯£¬¡±¼Ó²¼Ò®·òËµ¡£
+Russia is the **needier partner** â€” it needs new markets, sources of finance and sources of technology that it cannot get because of sanctions,â€ he said. â€œ**Over the long run**, Russia is locking itself into a partnership where China **has a better hand**.
+ä¿„ç½—æ–¯æ˜¯æ›´éœ€è¦æ”¯æŒçš„åˆä½œä¼™ä¼´ï¼Œå®ƒéœ€è¦æ–°çš„å¸‚åœºã€èµ„é‡‘å’ŒæŠ€æœ¯æ¥æºï¼Œè¿™äº›éƒ½æ˜¯å› ä¸ºåˆ¶è£è€Œæ— æ³•å¾—åˆ°çš„ä¸œè¥¿ï¼Œâ€ä»–è¯´ã€‚â€œä»é•¿è¿œæ¥çœ‹ï¼Œä¿„ç½—æ–¯å°†è‡ªå·±é”å®šåœ¨äº†ä¸€ç§ä¸­æ–¹æ‹¥æœ‰æ›´å¤§ä¼˜åŠ¿çš„ä¼™ä¼´å…³ç³»ä¸­ã€‚
 
-A `cacophonous sea of tens of thousands of people`, dressed in red and waving flags, `chanted and blasted air horns` here in Taiwan¡¯s capital.
-ÊıÍòÃûÃñÖÚàĞÔÓµØ¾Û¼¯ÔÚÕâ¸öÎ»ÓÚÌ¨ÍåÊ×¶¼µÄµØ·½£¬Éí´©ºìÉ«·ş×°£¬»ÓÎè×ÅÆìÖÄ£¬¸ßºô×Å¿ÚºÅ£¬´µ×ÅÆûµÑ
+Mainly, though, Russia is **thrilled** that Mr. Xi is showing up at the St. Petersburg investment forum with a large delegation when it is being **shunned** by the West. â€œIt allows them to **present a middle finger** to the U.S.: â€˜We have China,â€™â€ Mr. Gabuev said.
+ä¸è¿‡ï¼Œæœ€ä¸»è¦çš„æ˜¯ï¼Œåœ¨è¥¿æ–¹å›½å®¶çº·çº·å›é¿çš„æƒ…å†µä¸‹ï¼Œä¹ è¿‘å¹³å¸¦ç€ä¸€ä¸ªåºå¤§çš„ä»£è¡¨å›¢å‡ºç°åœ¨åœ£å½¼å¾—å ¡çš„æŠ•èµ„è®ºå›ä¸Šï¼Œè¿™ä»¤ä¿„ç½—æ–¯éå¸¸æ¿€åŠ¨ã€‚â€œè¿™ä½¿å¾—ä»–ä»¬å¯ä»¥å‘ç¾å›½æ¯”ä¸­æŒ‡ï¼šâ€˜æˆ‘ä»¬æœ‰ä¸­å›½â€™ï¼Œâ€åŠ å¸ƒè€¶å¤«è¯´ã€‚
 
-After waiting for hours through rain and `seemingly endless speeches`, the crowd began cheering `ecstatically` when Han Kuo-yu, the new star of the opposition Kuomintang, finally arrived. It took him 10 minutes to reach the stage, `shaking his clasped hands` in appreciation as his admirers crowded him, hoping to get photos.
-ËûÃÇÔÚÓêÖĞµÈ´ıÁË¼¸¸öĞ¡Ê±£¬ÌıÁËËÆºõÃ»ÍêÃ»ÁËµÄÑİ½²Ö®ºó£¬·´¶Ôµ³¹úÃñµ³µÄĞÂĞÇº«¹úè¤ÖÕÓÚµ½ÁË£¬ÈËÈºÁ¢¿Ì¿ªÊ¼ĞÀÏ²Èô¿ñµØ»¶ºôÆğÀ´¡£º«¹úè¤ÏòÈËÈº±§È­ÖÂĞ»£¬³ç°İÕß·äÓµ¶øÉÏ£¬Ï£Íû¸øËûÅÄÕÕ£¬Ëû»¨ÁË10·ÖÖÓ²Å×ßÉÏÁËÎèÌ¨¡£
+A **cacophonous sea of tens of thousands of people**, dressed in red and waving flags, **chanted and blasted air horns** here in Taiwanâ€™s capital.
+æ•°ä¸‡åæ°‘ä¼—å˜ˆæ‚åœ°èšé›†åœ¨è¿™ä¸ªä½äºå°æ¹¾é¦–éƒ½çš„åœ°æ–¹ï¼Œèº«ç©¿çº¢è‰²æœè£…ï¼ŒæŒ¥èˆç€æ——å¸œï¼Œé«˜å‘¼ç€å£å·ï¼Œå¹ç€æ±½ç¬›
 
-To his supporters, Mr. Han, who was elected mayor of the city of Kaohsiung just last year, is a straight-shooting maverick unafraid to challenge Taiwan¡¯s political elites
-ÔÚÖ§³ÖÕßÑÛÀï£¬È¥Äê²Åµ±Ñ¡¸ßĞÛÊĞÊĞ³¤µÄº«¹úè¤ÊÇÒ»¸öÌ¹³ÏÖ±ÑÔµÄÌØÁ¢¶ÀĞĞÕß£¬¸ÒÓÚÌôÕ½Ì¨ÍåµÄÕşÖÎ¾«Ó¢
+After waiting for hours through rain and **seemingly endless speeches**, the crowd began cheering **ecstatically** when Han Kuo-yu, the new star of the opposition Kuomintang, finally arrived. It took him 10 minutes to reach the stage, **shaking his clasped hands** in appreciation as his admirers crowded him, hoping to get photos.
+ä»–ä»¬åœ¨é›¨ä¸­ç­‰å¾…äº†å‡ ä¸ªå°æ—¶ï¼Œå¬äº†ä¼¼ä¹æ²¡å®Œæ²¡äº†çš„æ¼”è®²ä¹‹åï¼Œåå¯¹å…šå›½æ°‘å…šçš„æ–°æ˜ŸéŸ©å›½ç‘œç»ˆäºåˆ°äº†ï¼Œäººç¾¤ç«‹åˆ»å¼€å§‹æ¬£å–œè‹¥ç‹‚åœ°æ¬¢å‘¼èµ·æ¥ã€‚éŸ©å›½ç‘œå‘äººç¾¤æŠ±æ‹³è‡´è°¢ï¼Œå´‡æ‹œè€…èœ‚æ‹¥è€Œä¸Šï¼Œå¸Œæœ›ç»™ä»–æ‹ç…§ï¼Œä»–èŠ±äº†10åˆ†é’Ÿæ‰èµ°ä¸Šäº†èˆå°ã€‚
 
-¡°The people in charge today all have `vested interests`; we don¡¯t want them,¡± she said. ¡°Han Kuo-yu represents `the common people`.¡±
-¡°½ñÌìµÄÕÆÈ¨Õß¶¼ÓĞ¼ÈµÃÀûÒæ£»ÎÒÃÇ²»ĞèÒªËûÃÇ£¬¡±ËıËµ¡£¡°º«¹úè¤´ú±íÀÏ°ÙĞÕ¡£¡±
+To his supporters, Mr. Han, who was elected mayor of the city of Kaohsiung just last year, is a straight-shooting maverick unafraid to challenge Taiwanâ€™s political elites
+åœ¨æ”¯æŒè€…çœ¼é‡Œï¼Œå»å¹´æ‰å½“é€‰é«˜é›„å¸‚å¸‚é•¿çš„éŸ©å›½ç‘œæ˜¯ä¸€ä¸ªå¦è¯šç›´è¨€çš„ç‰¹ç«‹ç‹¬è¡Œè€…ï¼Œæ•¢äºæŒ‘æˆ˜å°æ¹¾çš„æ”¿æ²»ç²¾è‹±
 
-He also `met behind closed doors` with the top Communist officials in Hong Kong and Macau, which are administered by China under ¡°one country, two systems¡± `arrangements` that, `at least in theory`, give the territories `a high degree of autonomy`
-º«¹úè¤»¹ÓëÏã¸ÛºÍ°ÄÃÅµÄ¹²²úµ³¸ß²ã¹ÙÔ±¾ÙĞĞÁË±ÕÃÅ»áÎî¡£Ïã¸ÛºÍ°ÄÃÅÓÉÖĞ¹ú°´ÕÕ¡°Ò»¹úÁ½ÖÆ¡±µÄ¿ò¼Ü¹ÜÀí£¬¸Ã¿ò¼ÜÖÁÉÙÔÚÀíÂÛÉÏ¸øÓèÕâĞ©µØÇøÄ³ÖÖ¸ß¶È×ÔÖÎ
+â€œThe people in charge today all have **vested interests**; we donâ€™t want them,â€ she said. â€œHan Kuo-yu represents **the common people**.â€
+â€œä»Šå¤©çš„æŒæƒè€…éƒ½æœ‰æ—¢å¾—åˆ©ç›Šï¼›æˆ‘ä»¬ä¸éœ€è¦ä»–ä»¬ï¼Œâ€å¥¹è¯´ã€‚â€œéŸ©å›½ç‘œä»£è¡¨è€ç™¾å§“ã€‚â€
 
-¡°Whoever eats apples these days must be `loaded`,¡± said Li Tao, who has been selling apples for more than 20 years.
-¡°ÏÖÔÚÖ»Òª³ÔÆ»¹ûµÄ¶¼ÊÇÍÁºÀ£¬¡±ÂôÁË20¶àÄêÆ»¹ûµÄÀîÌÎËµ¡£
+He also **met behind closed doors** with the top Communist officials in Hong Kong and Macau, which are administered by China under â€œone country, two systemsâ€ **arrangements** that, **at least in theory**, give the territories **a high degree of autonomy**
+éŸ©å›½ç‘œè¿˜ä¸é¦™æ¸¯å’Œæ¾³é—¨çš„å…±äº§å…šé«˜å±‚å®˜å‘˜ä¸¾è¡Œäº†é—­é—¨ä¼šæ™¤ã€‚é¦™æ¸¯å’Œæ¾³é—¨ç”±ä¸­å›½æŒ‰ç…§â€œä¸€å›½ä¸¤åˆ¶â€çš„æ¡†æ¶ç®¡ç†ï¼Œè¯¥æ¡†æ¶è‡³å°‘åœ¨ç†è®ºä¸Šç»™äºˆè¿™äº›åœ°åŒºæŸç§é«˜åº¦è‡ªæ²»
 
-¡°People and economists `talk like ships in the night`,¡± said George Magnus, an associate at the China Center at Oxford University
-¡°ÀÏ°ÙĞÕºÍ¾­¼ÃÑ§¼ÒÍ¨³£ÊÇ¸÷Ëµ¸÷µÄ£¬¡±Å£½ò´óÑ§ÖĞ¹úÖĞĞÄÑĞ¾¿Ô±ÇÇÖÎ¡¤Âí¸ñÅ¬Ë¹Ëµ
+â€œWhoever eats apples these days must be **loaded**,â€ said Li Tao, who has been selling apples for more than 20 years.
+â€œç°åœ¨åªè¦åƒè‹¹æœçš„éƒ½æ˜¯åœŸè±ªï¼Œâ€å–äº†20å¤šå¹´è‹¹æœçš„ææ¶›è¯´ã€‚
 
-Chinese officials are still trying to `contain the outbreak` of swine fever, which doesn¡¯t make people sick but can be fatal in pigs. More than a million pigs have been `culled` to stop the spread of the disease, though it appears to be continuing. 
-¹ú¹ÙÔ±ÈÔÔÚÅ¬Á¦¿ØÖÆÖíÎÁÒßÇéµÄ±¬·¢£¬ÕâÖÖ²¡Ëä²»»áÊ¹ÈË»¼²¡£¬µ«¶ÔÖíÈ´ÊÇÖÂÃüµÄ¡£Îª·ÀÖ¹ÒßÇéÀ©É¢£¬100¶àÍòÍ·ÖíÒÑ±»ÆËÉ±£¬µ«ÒßÇéËÆºõÈÔÔÚ¼ÌĞø
+â€œPeople and economists **talk like ships in the night**,â€ said George Magnus, an associate at the China Center at Oxford University
+â€œè€ç™¾å§“å’Œç»æµå­¦å®¶é€šå¸¸æ˜¯å„è¯´å„çš„ï¼Œâ€ç‰›æ´¥å¤§å­¦ä¸­å›½ä¸­å¿ƒç ”ç©¶å‘˜ä¹”æ²»Â·é©¬æ ¼åŠªæ–¯è¯´
 
-President Xi Jinping has `signaled tough times` ahead as `tensions rise` with the United States. Data released on Friday suggest that a `nascent economic uptick` is beginning to `wane` and that China could slip back into a slowdown
-Ö÷Ï¯ÒÑ°µÊ¾½«Ó­À´Ò»¶Î¼èÄÑÊ±ÆÚ¡£ÖÜÎå¹«²¼µÄÊı¾İÏÔÊ¾£¬ĞÂ³öÏÖµÄ¾­¼ÃÉÏÑï½«¿ªÊ¼ÏûÍË£¬ÖĞ¹ú¿ÉÄÜ»áÖØĞÂÏİÈë¾­¼Ã·Å»º
+Chinese officials are still trying to **contain the outbreak** of swine fever, which doesnâ€™t make people sick but can be fatal in pigs. More than a million pigs have been **culled** to stop the spread of the disease, though it appears to be continuing. 
+å›½å®˜å‘˜ä»åœ¨åŠªåŠ›æ§åˆ¶çŒªç˜Ÿç–«æƒ…çš„çˆ†å‘ï¼Œè¿™ç§ç—…è™½ä¸ä¼šä½¿äººæ‚£ç—…ï¼Œä½†å¯¹çŒªå´æ˜¯è‡´å‘½çš„ã€‚ä¸ºé˜²æ­¢ç–«æƒ…æ‰©æ•£ï¼Œ100å¤šä¸‡å¤´çŒªå·²è¢«æ‰‘æ€ï¼Œä½†ç–«æƒ…ä¼¼ä¹ä»åœ¨ç»§ç»­
 
-For now, the price increases `appear limited to` food, `thanks in part to` China¡¯s uncertain economic situation
-Ä¿Ç°£¬Îï¼ÛÉÏÕÇËÆºõ½öÏŞÓÚÊ³Æ·£¬²¿·ÖÔ­ÒòÔÚÓÚÖĞ¹ú¾­¼ÃĞÎÊÆµÄ²»È·¶¨ĞÔ
+President Xi Jinping has **signaled tough times** ahead as **tensions rise** with the United States. Data released on Friday suggest that a **nascent economic uptick** is beginning to **wane** and that China could slip back into a slowdown
+ä¸»å¸­å·²æš—ç¤ºå°†è¿æ¥ä¸€æ®µè‰°éš¾æ—¶æœŸã€‚å‘¨äº”å…¬å¸ƒçš„æ•°æ®æ˜¾ç¤ºï¼Œæ–°å‡ºç°çš„ç»æµä¸Šæ‰¬å°†å¼€å§‹æ¶ˆé€€ï¼Œä¸­å›½å¯èƒ½ä¼šé‡æ–°é™·å…¥ç»æµæ”¾ç¼“
 
-officials would ¡°effectively guarantee the market supply of `daily necessities` such as fruits and vegetables, meat and eggs products.¡±
-¹Ù·½½«¡°ÇĞÊµ±£ÕÏË®¹ûÊß²ËÈâµ°²úÆ·µÈÉú»î±ØĞèÆ·µÄÊĞ³¡¹©Ó¦¡£¡±
+For now, the price increases **appear limited to** food, **thanks in part to** Chinaâ€™s uncertain economic situation
+ç›®å‰ï¼Œç‰©ä»·ä¸Šæ¶¨ä¼¼ä¹ä»…é™äºé£Ÿå“ï¼Œéƒ¨åˆ†åŸå› åœ¨äºä¸­å›½ç»æµå½¢åŠ¿çš„ä¸ç¡®å®šæ€§
 
-¡°These four options are just `trying to smooth things over`,¡± one person wrote. ¡°It¡¯s obviously inflation.¡± ¡°I can¡¯t `afford eating` now,¡± said one commenter. ¡°Fruit is `as expensive as gold`.¡±
-¡°ËÄ¸öÑ¡Ïî¾ÍÊÇºÍÏ¡Äà£¬¡±Ò»¸öÈËĞ´µÀ¡£¡°Ã÷Ã÷ÊÇÍ¨»õÅòÕÍ¡£¡±  ¡°³Ô²»Æğ°¡£¡¡±Ò»Î»ÆÀÂÛÕßËµ¡£¡°Ë®¹û¹óÈç»Æ½ğ¡£¡±
+officials would â€œeffectively guarantee the market supply of **daily necessities** such as fruits and vegetables, meat and eggs products.â€
+å®˜æ–¹å°†â€œåˆ‡å®ä¿éšœæ°´æœè”¬èœè‚‰è›‹äº§å“ç­‰ç”Ÿæ´»å¿…éœ€å“çš„å¸‚åœºä¾›åº”ã€‚â€
 
-Details about the meetings, the latest move in two weeks of `high-stakes economic brinkmanship` between the United States and China, were shared by two people familiar with them, who asked not to be named because they were not authorized to discuss them and could `face retribution`.
-¹ıÈ¥Á½ÖÜÒÔÀ´£¬ÃÀ¹úºÍÖĞ¹ú»¥Ïà²ÉÈ¡ÁËÒ»Ğ©¸ß·çÏÕµÄ¾­¼Ã±ßÔµÕş²ß£¬¶ø´Ë·¬Ô¼Ì¸ÊÇÆäÖĞµÄ×îĞÂ·¢Õ¹¡£ÒòÎ´±»ÊÚÈ¨ÌÖÂÛ´ËÊÂÇÒ¿ÉÄÜÔâ³Í·££¬Í¸Â¶»áÒéÏ¸½ÚµÄÁ½ÃûÖªÇéÈËÊ¿ÒªÇó²»¾ßÃû
+â€œThese four options are just **trying to smooth things over**,â€ one person wrote. â€œItâ€™s obviously inflation.â€ â€œI canâ€™t **afford eating** now,â€ said one commenter. â€œFruit is **as expensive as gold**.â€
+â€œå››ä¸ªé€‰é¡¹å°±æ˜¯å’Œç¨€æ³¥ï¼Œâ€ä¸€ä¸ªäººå†™é“ã€‚â€œæ˜æ˜æ˜¯é€šè´§è†¨èƒ€ã€‚â€  â€œåƒä¸èµ·å•Šï¼â€ä¸€ä½è¯„è®ºè€…è¯´ã€‚â€œæ°´æœè´µå¦‚é»„é‡‘ã€‚â€
 
-This is now `extremely delicate` because the Trump administration, through its `brinkmanship tactics`, has destabilized the entire relationship, commercial and `otherwise`
-Õâ¸öÎÊÌâÈç½ñ¼«ÆäÃô¸Ğ£¬ÒòÎªÌØÀÊÆÕÕş¸®ÒÑÍ¨¹ıËüµÄ±ßÔµÕş²ß£¬ÆÆ»µÁËÉÌÒµ¼°ÆäËû·½ÃæµÄÕû¸ö¹ØÏµµÄÎÈ¶¨
+Details about the meetings, the latest move in two weeks of **high-stakes economic brinkmanship** between the United States and China, were shared by two people familiar with them, who asked not to be named because they were not authorized to discuss them and could **face retribution**.
+è¿‡å»ä¸¤å‘¨ä»¥æ¥ï¼Œç¾å›½å’Œä¸­å›½äº’ç›¸é‡‡å–äº†ä¸€äº›é«˜é£é™©çš„ç»æµè¾¹ç¼˜æ”¿ç­–ï¼Œè€Œæ­¤ç•ªçº¦è°ˆæ˜¯å…¶ä¸­çš„æœ€æ–°å‘å±•ã€‚å› æœªè¢«æˆæƒè®¨è®ºæ­¤äº‹ä¸”å¯èƒ½é­æƒ©ç½šï¼Œé€éœ²ä¼šè®®ç»†èŠ‚çš„ä¸¤åçŸ¥æƒ…äººå£«è¦æ±‚ä¸å…·å
 
-There is `a strong perception` in Beijing that the U.S. government `is intent on blunting` China¡¯s technology rise, and that if this process is not slowed or stopped, the future of China¡¯s entire digital economy is at risk
-±±¾©·½Ãæ`Ç¿ÁÒ¸Ğ¾õ`µ½£¬ÃÀ¹úÕş¸®`ÓĞÒâ×èÖ¹`ÖĞ¹úÔÚ¼¼ÊõÉÏµÄáÈÆğ£¬ÇÒÈç²»Ê¹ÕâÒ»¹ı³Ì·Å»º»òÖ¹²½£¬ÔòÖĞ¹úÕû¸öÊı×Ö¾­¼ÃµÄÎ´À´½«ÃæÁÙ·çÏÕ
+This is now **extremely delicate** because the Trump administration, through its **brinkmanship tactics**, has destabilized the entire relationship, commercial and **otherwise**
+è¿™ä¸ªé—®é¢˜å¦‚ä»Šæå…¶æ•æ„Ÿï¼Œå› ä¸ºç‰¹æœ—æ™®æ”¿åºœå·²é€šè¿‡å®ƒçš„è¾¹ç¼˜æ”¿ç­–ï¼Œç ´åäº†å•†ä¸šåŠå…¶ä»–æ–¹é¢çš„æ•´ä¸ªå…³ç³»çš„ç¨³å®š
 
-American companies aren¡¯t going to violate American laws, especially in such a `high-profile context` where their actions are `scrutinized`,¡± he said. ¡°The companies are `between a rock and a hard place`, but that hard place will win out
-ÃÀ¹ú¹«Ë¾²»»áÎ¥·´ÃÀ¹ú·¨ÂÉ£¬ÓÈÆäÊÇÔÚÏÖÔÚÕâ¸ö±¸ÊÜÖõÄ¿µÄÓï¾³ÏÂ£¬ËüÃÇµÄÒ»¾ÙÒ»¶¯¶¼ÓĞÈËÔÚ¿´×Å£¬¡±ËûËµ¡£¡°ÕâĞ©¹«Ë¾´¦ÓÚ½øÍËÁ½ÄÑµÄ¾³µØ£¬µ«ÊÇËûÃÇ»áÑ¡ÔñÆäÖĞÒ»·½¡£
+There is **a strong perception** in Beijing that the U.S. government **is intent on blunting** Chinaâ€™s technology rise, and that if this process is not slowed or stopped, the future of Chinaâ€™s entire digital economy is at risk
+åŒ—äº¬æ–¹é¢**å¼ºçƒˆæ„Ÿè§‰**åˆ°ï¼Œç¾å›½æ”¿åºœ**æœ‰æ„é˜»æ­¢**ä¸­å›½åœ¨æŠ€æœ¯ä¸Šçš„å´›èµ·ï¼Œä¸”å¦‚ä¸ä½¿è¿™ä¸€è¿‡ç¨‹æ”¾ç¼“æˆ–æ­¢æ­¥ï¼Œåˆ™ä¸­å›½æ•´ä¸ªæ•°å­—ç»æµçš„æœªæ¥å°†é¢ä¸´é£é™©
 
-¡°The China deal¡¯s going to `work out`,¡± Mr. Trump said in an interview on CNBC. ¡°You know why? Because of tariffs. Because right now China is `getting absolutely decimated` by companies that are leaving China, going to other countries, including our own, because they don¡¯t want to pay the tariffs.¡±
-¡°¶ÔÖĞ¹úµÄÕş²ß»á¼ûĞ§µÄ£¬¡±ÌØÀÊÆÕÔÚ½ÓÊÜCNBC²É·ÃÊ±Ëµ¡£¡°ÄãÖªµÀÎªÊ²Ã´Âï£¿ÒòÎªÓĞ¹ØË°¡£ÒòÎªÏÖÔÚÄÇĞ©Àë¿ªÖĞ¹úµÄ¹«Ë¾ÕıÔÚ³¹µ×ÖØ´ìÖĞ¹ú£¬ËüÃÇÈ¥ÁËÆäËû¹ú¼Ò£¬°üÀ¨ÎÒÃÇ¹ú¼Ò£¬ÒòÎªËüÃÇ²»ÏëÖ§¸¶¹ØË°¡£¡±
+American companies arenâ€™t going to violate American laws, especially in such a **high-profile context** where their actions are **scrutinized**,â€ he said. â€œThe companies are **between a rock and a hard place**, but that hard place will win out
+ç¾å›½å…¬å¸ä¸ä¼šè¿åç¾å›½æ³•å¾‹ï¼Œå°¤å…¶æ˜¯åœ¨ç°åœ¨è¿™ä¸ªå¤‡å—ç©ç›®çš„è¯­å¢ƒä¸‹ï¼Œå®ƒä»¬çš„ä¸€ä¸¾ä¸€åŠ¨éƒ½æœ‰äººåœ¨çœ‹ç€ï¼Œâ€ä»–è¯´ã€‚â€œè¿™äº›å…¬å¸å¤„äºè¿›é€€ä¸¤éš¾çš„å¢ƒåœ°ï¼Œä½†æ˜¯ä»–ä»¬ä¼šé€‰æ‹©å…¶ä¸­ä¸€æ–¹ã€‚
 
-The president has `long favored tariffs` as an immediate and `unilateral` policy tool. But his increasing confidence that the `levies` have helped `accomplish his goals` without harming the United States sets up an even more tumultuous period ahead for businesses, consumers and foreign countries.
-×ÜÍ³³¤ÆÚÒÔÀ´Ò»Ö±Æ«°®½«¹ØË°×÷ÎªÖ±½ÓµÄ¡¢µ¥·½ÃæµÄÕş²ß¹¤¾ß¡£µ«ËûÔ½À´Ô½ÏàĞÅ£¬Õ÷Ë°ÒÑÔÚ²»ÉËº¦ÃÀ¹úµÄÇé¿öÏÂ°ïÖúÊµÏÖÆäÄ¿±ê£¬ÕâÖÖ×ÔĞÅ£¬½«¸øÆóÒµ¡¢Ïû·ÑÕßºÍ¸÷¹ú´øÀ´Ò»¸ö¸ü¼Ó¶¯µ´µÄÊ±ÆÚ¡£
+â€œThe China dealâ€™s going to **work out**,â€ Mr. Trump said in an interview on CNBC. â€œYou know why? Because of tariffs. Because right now China is **getting absolutely decimated** by companies that are leaving China, going to other countries, including our own, because they donâ€™t want to pay the tariffs.â€
+â€œå¯¹ä¸­å›½çš„æ”¿ç­–ä¼šè§æ•ˆçš„ï¼Œâ€ç‰¹æœ—æ™®åœ¨æ¥å—CNBCé‡‡è®¿æ—¶è¯´ã€‚â€œä½ çŸ¥é“ä¸ºä»€ä¹ˆå˜›ï¼Ÿå› ä¸ºæœ‰å…³ç¨ã€‚å› ä¸ºç°åœ¨é‚£äº›ç¦»å¼€ä¸­å›½çš„å…¬å¸æ­£åœ¨å½»åº•é‡æŒ«ä¸­å›½ï¼Œå®ƒä»¬å»äº†å…¶ä»–å›½å®¶ï¼ŒåŒ…æ‹¬æˆ‘ä»¬å›½å®¶ï¼Œå› ä¸ºå®ƒä»¬ä¸æƒ³æ”¯ä»˜å…³ç¨ã€‚â€
 
-Markets are already `counting on` the Federal Reserve to come to the rescue by `cutting interest rates`. Fed officials `have begun signaling` they are prepared to help `prop up` the economy to `counter any slowdown` from Mr. Trump¡¯s trade war, a development that could give the president even more `leeway` to carry out an aggressive trade policy.
-ÊĞ³¡ÒÑ¾­Ö¸ÍûÃÀÁª´¢Í¨¹ı½µÏ¢À´Ê©ÒÔ¾ÈÖú¡£ÃÀÁª´¢¹ÙÔ±ÒÑ¿ªÊ¼°µÊ¾£¬ËûÃÇ×öºÃÁË°ïÖúÖ§³Å¾­¼Ã£¬ÒÔÓ¦¶ÔÌØÀÊÆÕÃ³Ò×Õ½µ¼ÖÂµÄÈÎºÎ·Å»ºµÄ×¼±¸£¬´Ë¾Ù¿ÉÄÜ»á¸ø×ÜÍ³¸ü¶àµÄ¿Õ¼äÈ¥ÊµÊ©»ı¼«Ç¿Ó²µÄÃ³Ò×Õş²ß¡£
+The president has **long favored tariffs** as an immediate and **unilateral** policy tool. But his increasing confidence that the **levies** have helped **accomplish his goals** without harming the United States sets up an even more tumultuous period ahead for businesses, consumers and foreign countries.
+æ€»ç»Ÿé•¿æœŸä»¥æ¥ä¸€ç›´åçˆ±å°†å…³ç¨ä½œä¸ºç›´æ¥çš„ã€å•æ–¹é¢çš„æ”¿ç­–å·¥å…·ã€‚ä½†ä»–è¶Šæ¥è¶Šç›¸ä¿¡ï¼Œå¾ç¨å·²åœ¨ä¸ä¼¤å®³ç¾å›½çš„æƒ…å†µä¸‹å¸®åŠ©å®ç°å…¶ç›®æ ‡ï¼Œè¿™ç§è‡ªä¿¡ï¼Œå°†ç»™ä¼ä¸šã€æ¶ˆè´¹è€…å’Œå„å›½å¸¦æ¥ä¸€ä¸ªæ›´åŠ åŠ¨è¡çš„æ—¶æœŸã€‚
 
-¡°They `devalue their currency`. They have for years,¡± he said. ¡°It¡¯s put them at a `tremendous competitive advantage`, and we don¡¯t have that advantage because we have a Fed that doesn¡¯t `lower interest rates`.¡±
-¡°ËûÃÇ±áÖµ»õ±Ò¡£ËûÃÇÒÑ¾­ÕâÃ´×öºÜ¶àÄêÁË£¬¡°ËûËµ¡£¡°ÕâÊ¹ËûÃÇÓµÓĞ¾Ş´óµÄ¾ºÕùÓÅÊÆ£¬ÎÒÃÇÃ»ÓĞÕâÖÖÓÅÊÆ£¬ÒòÎªÎÒÃÇÓĞÒ»¸ö²»Ô¸½µÏ¢µÄÃÀÁª´¢¡£¡±
+Markets are already **counting on** the Federal Reserve to come to the rescue by **cutting interest rates**. Fed officials **have begun signaling** they are prepared to help **prop up** the economy to **counter any slowdown** from Mr. Trumpâ€™s trade war, a development that could give the president even more **leeway** to carry out an aggressive trade policy.
+å¸‚åœºå·²ç»æŒ‡æœ›ç¾è”å‚¨é€šè¿‡é™æ¯æ¥æ–½ä»¥æ•‘åŠ©ã€‚ç¾è”å‚¨å®˜å‘˜å·²å¼€å§‹æš—ç¤ºï¼Œä»–ä»¬åšå¥½äº†å¸®åŠ©æ”¯æ’‘ç»æµï¼Œä»¥åº”å¯¹ç‰¹æœ—æ™®è´¸æ˜“æˆ˜å¯¼è‡´çš„ä»»ä½•æ”¾ç¼“çš„å‡†å¤‡ï¼Œæ­¤ä¸¾å¯èƒ½ä¼šç»™æ€»ç»Ÿæ›´å¤šçš„ç©ºé—´å»å®æ–½ç§¯æå¼ºç¡¬çš„è´¸æ˜“æ”¿ç­–ã€‚
 
-The president insisted his tariffs were having their `intended effect` ¡ª pressuring other countries to make deals, `prompting companies` to move factories back to the United States and generating an enormous amount of money, all without costing American consumers.
-×ÜÍ³¼á³Æ£¬ËûµÄ¹ØË°Æğµ½ÁËÓ¦ÓĞµÄ×÷ÓÃ¡ª¡ªÆÈÊ¹ÆäËû¹ú¼ÒÇ©¶©Ğ­Òé£¬´ÙÊ¹ÆóÒµ°Ñ¹¤³§Ç¨»ØÃÀ¹ú£¬²¢ÊÕ»ñÁËÒ»´óÅúÇ®£¬ÇÒÈ«¶¼²»»á¸øÃÀ¹úÏû·ÑÕßÔì³ÉËğÊ§¡£
+â€œThey **devalue their currency**. They have for years,â€ he said. â€œItâ€™s put them at a **tremendous competitive advantage**, and we donâ€™t have that advantage because we have a Fed that doesnâ€™t **lower interest rates**.â€
+â€œä»–ä»¬è´¬å€¼è´§å¸ã€‚ä»–ä»¬å·²ç»è¿™ä¹ˆåšå¾ˆå¤šå¹´äº†ï¼Œâ€œä»–è¯´ã€‚â€œè¿™ä½¿ä»–ä»¬æ‹¥æœ‰å·¨å¤§çš„ç«äº‰ä¼˜åŠ¿ï¼Œæˆ‘ä»¬æ²¡æœ‰è¿™ç§ä¼˜åŠ¿ï¼Œå› ä¸ºæˆ‘ä»¬æœ‰ä¸€ä¸ªä¸æ„¿é™æ¯çš„ç¾è”å‚¨ã€‚â€
 
-Mr. Trump said on Monday that he `saw no downside` to taxing nearly everything China sends into the United States, saying it would continue to boost the American economy.
-ÌØÀÊÆÕÖÜÒ»±íÊ¾£¬Ëû¿´²»³ö¸øÖĞ¹ú³ö¿Úµ½ÃÀ¹úµÄ¼¸ºõÃ¿ÑùÉÌÆ·Õ÷Ë°ÓĞÊ²Ã´²»Í×£¬³ÆÕâ½«¼ÌĞøÍÆ¶¯ÃÀ¹ú¾­¼Ã¡£
+The president insisted his tariffs were having their **intended effect** â€” pressuring other countries to make deals, **prompting companies** to move factories back to the United States and generating an enormous amount of money, all without costing American consumers.
+æ€»ç»Ÿåšç§°ï¼Œä»–çš„å…³ç¨èµ·åˆ°äº†åº”æœ‰çš„ä½œç”¨â€”â€”è¿«ä½¿å…¶ä»–å›½å®¶ç­¾è®¢åè®®ï¼Œä¿ƒä½¿ä¼ä¸šæŠŠå·¥å‚è¿å›ç¾å›½ï¼Œå¹¶æ”¶è·äº†ä¸€å¤§æ‰¹é’±ï¼Œä¸”å…¨éƒ½ä¸ä¼šç»™ç¾å›½æ¶ˆè´¹è€…é€ æˆæŸå¤±ã€‚
 
-`In the meantime`, the United States continues to prepare for the next round of Chinese tariffs. That round of tariffs would hit `a wide range of` consumer goods, including `sneakers, televisions and cribs`.
-Óë´ËÍ¬Ê±£¬ÃÀ¹ú¼ÌĞøÔÚÎªÏÂÒ»ÂÖÖĞ¹ú¹ØË°×ö×¼±¸¡£ÕâÒ»ÂÖ¹ØË°½«´ò»÷¶à¸öÃÅÀàµÄÏû·ÑÆ·£¬°üÀ¨ÔË¶¯Ğ¬¡¢µçÊÓºÍÓ¤¶ù´²¡£
+Mr. Trump said on Monday that he **saw no downside** to taxing nearly everything China sends into the United States, saying it would continue to boost the American economy.
+ç‰¹æœ—æ™®å‘¨ä¸€è¡¨ç¤ºï¼Œä»–çœ‹ä¸å‡ºç»™ä¸­å›½å‡ºå£åˆ°ç¾å›½çš„å‡ ä¹æ¯æ ·å•†å“å¾ç¨æœ‰ä»€ä¹ˆä¸å¦¥ï¼Œç§°è¿™å°†ç»§ç»­æ¨åŠ¨ç¾å›½ç»æµã€‚
 
-Two weeks before talks between the United States and China broke down, Beijing quietly called one of its most `formidable` trade negotiators out of a `pre-retirement posting`.
-¾ÍÔÚÖĞÃÀÌ¸ÅĞÆÆÁÑÁ½ÖÜÇ°£¬±±¾©ÇÄÇÄµØ½«Ò»Î»×îÁîÈËÉúÎ·µÄÃ³Ò×Ì¸ÅĞ´ú±í´ÓËûÍËĞİÇ°µÄÖ°Îñµ÷Àë
+**In the meantime**, the United States continues to prepare for the next round of Chinese tariffs. That round of tariffs would hit **a wide range of** consumer goods, including **sneakers, televisions and cribs**.
+ä¸æ­¤åŒæ—¶ï¼Œç¾å›½ç»§ç»­åœ¨ä¸ºä¸‹ä¸€è½®ä¸­å›½å…³ç¨åšå‡†å¤‡ã€‚è¿™ä¸€è½®å…³ç¨å°†æ‰“å‡»å¤šä¸ªé—¨ç±»çš„æ¶ˆè´¹å“ï¼ŒåŒ…æ‹¬è¿åŠ¨é‹ã€ç”µè§†å’Œå©´å„¿åºŠã€‚
 
-¡°He is one of `the most savvy` Chinese trade officials that the U.S. has dealt with,¡± ¡°`Recalling him` from Geneva after only a year shows the lack of senior trade people in Beijing with whom the leadership feels comfortable.¡±
-¡°ËûÊÇÃÀ¹ú´ò¹ı½»µÀµÄ×î¾«Ã÷µÄÖĞ¹úÃ³Ò×¹ÙÔ±Ö®Ò»£¬¡±¡°½ö½öÒ»Äêºó¾Í½«Ëû´ÓÈÕÄÚÍßÕÙ»Ø£¬±íÃ÷±±¾©È±·¦ÈÃÁìµ¼²ã·ÅĞÄµÄ×ÊÉîÃ³Ò×ÈËÊ¿¡£¡±
+Two weeks before talks between the United States and China broke down, Beijing quietly called one of its most **formidable** trade negotiators out of a **pre-retirement posting**.
+å°±åœ¨ä¸­ç¾è°ˆåˆ¤ç ´è£‚ä¸¤å‘¨å‰ï¼ŒåŒ—äº¬æ‚„æ‚„åœ°å°†ä¸€ä½æœ€ä»¤äººç”Ÿç•çš„è´¸æ˜“è°ˆåˆ¤ä»£è¡¨ä»ä»–é€€ä¼‘å‰çš„èŒåŠ¡è°ƒç¦»
 
-On Tuesday, President Trump said that China ¡°wants to make a deal `very badly`¡± but that he would accept a deal only if China agreed to the previous trade terms.¡°It¡¯s me right now that¡¯s `holding up` the deal,¡± he said `in remarks` at the White House. ¡°We had a deal with China, and unless they go back to that deal, `I have no interest`.¡±
-ÖÜ¶ş£¬ÌØÀÊÆÕ×ÜÍ³±íÊ¾£¬ÖĞ¹ú¡°·Ç³£Ïë´ï³ÉĞ­Òé¡±£¬µ«Ö»ÓĞÔÚÖĞ¹úÍ¬ÒâÖ®Ç°µÄÃ³Ò×Ìõ¿îµÄÇé¿öÏÂ£¬Ëû²Å»á½ÓÊÜĞ­Òé¡£¡°ÏÖÔÚÊÇÎÒÔÚÍÏÑÓÕâ±Ê½»Ò×£¬¡±ËûÔÚ°×¹¬·¢±í½²»°Ê±Ëµ¡£¡°ÎÒÃÇºÍÖĞ¹úÓĞ¹ıÒ»ÏîĞ­Òé£¬³ı·ÇËûÃÇ»Øµ½ÄÇ¸öĞ­Òé£¬·ñÔòÎÒÃ»ÓĞÈÎºÎĞËÈ¤¡£¡±
+â€œHe is one of **the most savvy** Chinese trade officials that the U.S. has dealt with,â€ â€œ**Recalling him** from Geneva after only a year shows the lack of senior trade people in Beijing with whom the leadership feels comfortable.â€
+â€œä»–æ˜¯ç¾å›½æ‰“è¿‡äº¤é“çš„æœ€ç²¾æ˜çš„ä¸­å›½è´¸æ˜“å®˜å‘˜ä¹‹ä¸€ï¼Œâ€â€œä»…ä»…ä¸€å¹´åå°±å°†ä»–ä»æ—¥å†…ç“¦å¬å›ï¼Œè¡¨æ˜åŒ—äº¬ç¼ºä¹è®©é¢†å¯¼å±‚æ”¾å¿ƒçš„èµ„æ·±è´¸æ˜“äººå£«ã€‚â€
 
-The team, working from offices in a `gray marble office` building just 50 yards from the Chinese leadership¡¯s Beijing `compound`, `quickly pivoted`
-Õâ¸öÍÅ¶ÓÔÚÒ»×ù»ÒÉ«´óÀíÊ¯°ì¹«´óÂ¥Àï¹¤×÷£¬¾àÀëÖĞ¹úÁìµ¼ÈËµÄ´óÔº½öÓĞ50ÂëÖ®Ò££¬ËûÃÇºÜ¿ì¾Í¸Ä±äÁË·½Ïò
+On Tuesday, President Trump said that China â€œwants to make a deal **very badly**â€ but that he would accept a deal only if China agreed to the previous trade terms.â€œItâ€™s me right now thatâ€™s **holding up** the deal,â€ he said **in remarks** at the White House. â€œWe had a deal with China, and unless they go back to that deal, **I have no interest**.â€
+å‘¨äºŒï¼Œç‰¹æœ—æ™®æ€»ç»Ÿè¡¨ç¤ºï¼Œä¸­å›½â€œéå¸¸æƒ³è¾¾æˆåè®®â€ï¼Œä½†åªæœ‰åœ¨ä¸­å›½åŒæ„ä¹‹å‰çš„è´¸æ˜“æ¡æ¬¾çš„æƒ…å†µä¸‹ï¼Œä»–æ‰ä¼šæ¥å—åè®®ã€‚â€œç°åœ¨æ˜¯æˆ‘åœ¨æ‹–å»¶è¿™ç¬”äº¤æ˜“ï¼Œâ€ä»–åœ¨ç™½å®«å‘è¡¨è®²è¯æ—¶è¯´ã€‚â€œæˆ‘ä»¬å’Œä¸­å›½æœ‰è¿‡ä¸€é¡¹åè®®ï¼Œé™¤éä»–ä»¬å›åˆ°é‚£ä¸ªåè®®ï¼Œå¦åˆ™æˆ‘æ²¡æœ‰ä»»ä½•å…´è¶£ã€‚â€
 
-The rise of Mr. Liu¡¯s team had `partly marginalized` China¡¯s Commerce Ministry until the past few weeks, people with detailed knowledge of Chinese `policymaking` said
-ÁË½âÖĞ¹úÕş²ßÖÆ¶¨Ï¸½ÚµÄÈËÊ¿Ëµ£¬Ö±µ½¹ıÈ¥¼¸ÖÜ£¬Áõº×ÍÅ¶ÓµÄáÈÆğÔÚÒ»¶¨³Ì¶ÈÉÏÊ¹ÖĞ¹úÉÌÎñ²¿´¦ÓÚ±ßÔµµØÎ»
+The team, working from offices in a **gray marble office** building just 50 yards from the Chinese leadershipâ€™s Beijing **compound**, **quickly pivoted**
+è¿™ä¸ªå›¢é˜Ÿåœ¨ä¸€åº§ç°è‰²å¤§ç†çŸ³åŠå…¬å¤§æ¥¼é‡Œå·¥ä½œï¼Œè·ç¦»ä¸­å›½é¢†å¯¼äººçš„å¤§é™¢ä»…æœ‰50ç ä¹‹é¥ï¼Œä»–ä»¬å¾ˆå¿«å°±æ”¹å˜äº†æ–¹å‘
 
-Vice ministers typically `step down` around the age of 60, and start looking for `plum jobs` in their late 50s
-¸±²¿³¤Í¨³£ÔÚ60Ëê×óÓÒÍËĞİ£¬ÔÚ50¶àËêÊ±¿ªÊ¼ÎïÉ«ÇáËÉÇÒ´ıÓöÓÅºñµÄÖ°È±
+The rise of Mr. Liuâ€™s team had **partly marginalized** Chinaâ€™s Commerce Ministry until the past few weeks, people with detailed knowledge of Chinese **policymaking** said
+äº†è§£ä¸­å›½æ”¿ç­–åˆ¶å®šç»†èŠ‚çš„äººå£«è¯´ï¼Œç›´åˆ°è¿‡å»å‡ å‘¨ï¼Œåˆ˜é¹¤å›¢é˜Ÿçš„å´›èµ·åœ¨ä¸€å®šç¨‹åº¦ä¸Šä½¿ä¸­å›½å•†åŠ¡éƒ¨å¤„äºè¾¹ç¼˜åœ°ä½
 
-if the Chinese vessel had `deliberately rammed` a stationary Filipino boat, it would be a clear `breach of international norms`
-Èç¹ûÖĞ¹ú´¬Ö»¹ÊÒâ×²»÷ÁËÒ»ËÒÅ×ÃªµÄ·ÆÂÉ±ö´¬Ö»£¬ÄÇÏÔÈ»Î¥·´ÁË¹ú¼Ê×¼Ôò
+Vice ministers typically **step down** around the age of 60, and start looking for **plum jobs** in their late 50s
+å‰¯éƒ¨é•¿é€šå¸¸åœ¨60å²å·¦å³é€€ä¼‘ï¼Œåœ¨50å¤šå²æ—¶å¼€å§‹ç‰©è‰²è½»æ¾ä¸”å¾…é‡ä¼˜åšçš„èŒç¼º
 
-Prime Minister Scott Morrison `played it down` as a ¡°reciprocal visit¡± and a sign of ¡°the relationship 
-that we have.¡± National security experts, however, called it a show of force by China and a `double-edged` reminder of Australia¡¯s longstanding relationship with China and its growing military ambitions.
-°Ä´óÀûÑÇ×ÜÀíË¹¿ÆÌØ¡¤ÄªÀïÉ­ÇáÃèµ­Ğ´µØ³ÆÖ®Îª¡°»Ø·Ã¡±£¬ÏÔÊ¾ÁË¡°ÎÒÃÇÖ®¼äµÄ¹ØÏµ¡±¡£¶ø¹ú¼Ò°²È«×¨¼ÒÈ´³ÆËüÊÇÖĞ¹úÔÚÕ¹Ê¾ÎäÁ¦£¬²¢ÇÒÊÇÒ»Ê¯¶şÄñ£¬Í¬Ê±ÌáÊ¾ÁË°ÄÖĞ¹ØÏµµÄÓÉÀ´ÒÑ¾ÃÒÔ¼°ÖĞ¹úÈÕÒæ×³´óµÄ¾üÊÂÒ°ĞÄ¡£
+if the Chinese vessel had **deliberately rammed** a stationary Filipino boat, it would be a clear **breach of international norms**
+å¦‚æœä¸­å›½èˆ¹åªæ•…æ„æ’å‡»äº†ä¸€è‰˜æŠ›é”šçš„è²å¾‹å®¾èˆ¹åªï¼Œé‚£æ˜¾ç„¶è¿åäº†å›½é™…å‡†åˆ™
 
-¡°No Australian government is willing to risk relations with China by `siding too overtly` with Washington,¡± 
+Prime Minister Scott Morrison **played it down** as a â€œreciprocal visitâ€ and a sign of â€œthe relationship 
+that we have.â€ National security experts, however, called it a show of force by China and a **double-edged** reminder of Australiaâ€™s longstanding relationship with China and its growing military ambitions.
+æ¾³å¤§åˆ©äºšæ€»ç†æ–¯ç§‘ç‰¹Â·è«é‡Œæ£®è½»ææ·¡å†™åœ°ç§°ä¹‹ä¸ºâ€œå›è®¿â€ï¼Œæ˜¾ç¤ºäº†â€œæˆ‘ä»¬ä¹‹é—´çš„å…³ç³»â€ã€‚è€Œå›½å®¶å®‰å…¨ä¸“å®¶å´ç§°å®ƒæ˜¯ä¸­å›½åœ¨å±•ç¤ºæ­¦åŠ›ï¼Œå¹¶ä¸”æ˜¯ä¸€çŸ³äºŒé¸Ÿï¼ŒåŒæ—¶æç¤ºäº†æ¾³ä¸­å…³ç³»çš„ç”±æ¥å·²ä¹…ä»¥åŠä¸­å›½æ—¥ç›Šå£®å¤§çš„å†›äº‹é‡å¿ƒã€‚
+
+â€œNo Australian government is willing to risk relations with China by **siding too overtly** with Washington,â€ 
 said Hugh White, emeritus professor of strategic studies at the Australian National University. 
-¡°This has become more and more clear as U.S. rivalry with China has become more `overt`.¡±
-¡°Ã»ÓĞÄÄ½ì°Ä´óÀûÑÇÕş¸®Ô¸Òâ¹ıÓÚÃ÷ÏÔµØÖ§³Ö»ªÊ¢¶Ù£¬¸øÍ¬ÖĞ¹úµÄ¹ØÏµÔì³É·çÏÕ£¬¡±°Ä´óÀûÑÇ¹úÁ¢´óÑ§Õ½ÂÔÑĞ¾¿ÈÙĞİ½ÌÊÚ
-Ğİ¡¤»³ÌØËµ¡£¡°Ëæ×ÅÃÀ¹úÍ¬ÖĞ¹úÖ®¼äµÄ¶ÔÁ¢ÈÕ½¥¹«¿ª»¯£¬ÕâÒ»µãÒÑ¾­Ô½À´Ô½Ã÷È·¡£¡±
+â€œThis has become more and more clear as U.S. rivalry with China has become more **overt**.â€
+â€œæ²¡æœ‰å“ªå±Šæ¾³å¤§åˆ©äºšæ”¿åºœæ„¿æ„è¿‡äºæ˜æ˜¾åœ°æ”¯æŒåç››é¡¿ï¼Œç»™åŒä¸­å›½çš„å…³ç³»é€ æˆé£é™©ï¼Œâ€æ¾³å¤§åˆ©äºšå›½ç«‹å¤§å­¦æˆ˜ç•¥ç ”ç©¶è£ä¼‘æ•™æˆ
+ä¼‘Â·æ€€ç‰¹è¯´ã€‚â€œéšç€ç¾å›½åŒä¸­å›½ä¹‹é—´çš„å¯¹ç«‹æ—¥æ¸å…¬å¼€åŒ–ï¼Œè¿™ä¸€ç‚¹å·²ç»è¶Šæ¥è¶Šæ˜ç¡®ã€‚â€
 
-¡°there¡¯s a recognition that we `dropped the ball` and we need to reinvest.¡±
-´æÔÚÒ»ÖÖÈÏÖª£¬¼´ÎÒÃÇÖ®Ç°Ã»×öºÃ£¬ÏÖÔÚµÃÖØĞÂÍ¶Èë¡£
+â€œthereâ€™s a recognition that we **dropped the ball** and we need to reinvest.â€
+å­˜åœ¨ä¸€ç§è®¤çŸ¥ï¼Œå³æˆ‘ä»¬ä¹‹å‰æ²¡åšå¥½ï¼Œç°åœ¨å¾—é‡æ–°æŠ•å…¥ã€‚
 
-¡°This is a very hard question for Australians, because we can `hardly imagine` what it would be like to be 
-without America as our `major ally`,¡± he said. ¡°But `the unthinkable` is now being thought about much more 
-seriously than at any time since at least the end of the Vietnam War.¡±
-¡°Õâ¶Ô°Ä´óÀûÑÇÈËÀ´ËµÊÇÒ»¸öÀ§ÄÑµÄÎÊÌâ£¬ÒòÎªÎÒÃÇºÜÄÑÏëÏóÃ»ÓĞÃÀ¹ú×÷ÎªÎÒÃÇµÄÖ÷ÒªÃËÓÑ»áÊÇÊ²Ã´Ñù×Ó£¬¡±ËûËµ¡£
-¡°µ«ÖÁÉÙ×ÔÔ½ÄÏÕ½Õù½áÊøÒÔÀ´£¬ÈËÃÇÏÖÔÚ±ÈÒÔÍùÈÎºÎÊ±ºò¶¼¸üÈÏÕæµØ¿¼ÂÇÕâ¸öÄÑÒÔÏëÏóµÄÎÊÌâ¡£¡±
+â€œThis is a very hard question for Australians, because we can **hardly imagine** what it would be like to be 
+without America as our **major ally**,â€ he said. â€œBut **the unthinkable** is now being thought about much more 
+seriously than at any time since at least the end of the Vietnam War.â€
+â€œè¿™å¯¹æ¾³å¤§åˆ©äºšäººæ¥è¯´æ˜¯ä¸€ä¸ªå›°éš¾çš„é—®é¢˜ï¼Œå› ä¸ºæˆ‘ä»¬å¾ˆéš¾æƒ³è±¡æ²¡æœ‰ç¾å›½ä½œä¸ºæˆ‘ä»¬çš„ä¸»è¦ç›Ÿå‹ä¼šæ˜¯ä»€ä¹ˆæ ·å­ï¼Œâ€ä»–è¯´ã€‚
+â€œä½†è‡³å°‘è‡ªè¶Šå—æˆ˜äº‰ç»“æŸä»¥æ¥ï¼Œäººä»¬ç°åœ¨æ¯”ä»¥å¾€ä»»ä½•æ—¶å€™éƒ½æ›´è®¤çœŸåœ°è€ƒè™‘è¿™ä¸ªéš¾ä»¥æƒ³è±¡çš„é—®é¢˜ã€‚â€
 
-¡°He wants to secure `leverage` before he meets Trump¡± ¡°He is sending a signal to Washington that China 
-has a big role to play in achieving the `denuclearization` of North Korea and that the U.S. should not `mistreat` China.¡±
-Ï£ÍûÔÚ±¾ÔÂÍíĞ©Ê±ºòÓëÌØÀÊÆÕ»áÃæÖ®Ç°»ñµÃ³ïÂë£¬ËûÔÚÏò»ªÊ¢¶Ù·¢³öĞÅºÅ£¬¼´ÖĞ¹úÔÚÊµÏÖ³¯ÏÊÎŞºË»¯·½Ãæ¿ÉÒÔ·¢»ÓÖØÒª×÷ÓÃ£¬ÃÀ¹ú²»Ó¦¸Ã¿Á´ıÖĞ¹ú¡£
+â€œHe wants to secure **leverage** before he meets Trumpâ€ â€œHe is sending a signal to Washington that China 
+has a big role to play in achieving the **denuclearization** of North Korea and that the U.S. should not **mistreat** China.â€
+å¸Œæœ›åœ¨æœ¬æœˆæ™šäº›æ—¶å€™ä¸ç‰¹æœ—æ™®ä¼šé¢ä¹‹å‰è·å¾—ç­¹ç ï¼Œä»–åœ¨å‘åç››é¡¿å‘å‡ºä¿¡å·ï¼Œå³ä¸­å›½åœ¨å®ç°æœé²œæ— æ ¸åŒ–æ–¹é¢å¯ä»¥å‘æŒ¥é‡è¦ä½œç”¨ï¼Œç¾å›½ä¸åº”è¯¥è‹›å¾…ä¸­å›½ã€‚
 
-China, however, has tried to `play down` role as international `spoiler`.
-È»¶ø£¬ÖĞ¹úÒ»Ö±ÊÔÍ¼µ­»¯×÷Îª¹ú¼ÊÖÈĞò½Á¾ÖÕßµÄ½ÇÉ«¡£
+China, however, has tried to **play down** role as international **spoiler**.
+ç„¶è€Œï¼Œä¸­å›½ä¸€ç›´è¯•å›¾æ·¡åŒ–ä½œä¸ºå›½é™…ç§©åºæ…å±€è€…çš„è§’è‰²ã€‚
 
 The Chinese effectively stopped the United Nations Security Council on Tuesday from declaring that 
-the North had `breached` its annual limit for importing petroleum products, `sparing the country from` further punishment.
-ÖÜ¶ş£¬ÁªºÏ¹ú°²Àí»áÊÔÍ¼Ğû²¼³¯ÏÊ³¬¹ıÁËÊ¯ÓÍ²úÆ·½ø¿ÚµÄÄê¶ÈÉÏÏŞ£¬±»ÖĞ¹úÓĞĞ§ÖÆÖ¹£¬Ê¹³¯ÏÊÃâÔâ½øÒ»²½³Í·£¡£
+the North had **breached** its annual limit for importing petroleum products, **sparing the country from** further punishment.
+å‘¨äºŒï¼Œè”åˆå›½å®‰ç†ä¼šè¯•å›¾å®£å¸ƒæœé²œè¶…è¿‡äº†çŸ³æ²¹äº§å“è¿›å£çš„å¹´åº¦ä¸Šé™ï¼Œè¢«ä¸­å›½æœ‰æ•ˆåˆ¶æ­¢ï¼Œä½¿æœé²œå…é­è¿›ä¸€æ­¥æƒ©ç½šã€‚
 
-North Korea `stuck to the centrally planned economic system`, denouncing China¡¯s economic reforms as `revisionist`.
-³¯ÏÊ¼ÌĞøÊ©ĞĞÖĞÑë¼Æ»®¾­¼ÃÌåÖÆ£¬²¢Ç´ÔğÖĞ¹úµÄ¾­¼Ã¸Ä¸ïÊÇĞŞÕıÖ÷Òå
+North Korea **stuck to the centrally planned economic system**, denouncing Chinaâ€™s economic reforms as **revisionist**.
+æœé²œç»§ç»­æ–½è¡Œä¸­å¤®è®¡åˆ’ç»æµä½“åˆ¶ï¼Œå¹¶è°´è´£ä¸­å›½çš„ç»æµæ”¹é©æ˜¯ä¿®æ­£ä¸»ä¹‰
 
-the importance of a ¡°fair and `reciprocal` economic relationship¡± ¡°addressing `structural barriers` to 
-trade with China and achieving meaningful reforms that are `enforceable and verifiable`.¡±
-¡°¹«Æ½¡¢»¥»İµÄ¾­¼Ã¹ØÏµ¡±µÄÖØÒªĞÔ, ½â¾öÓëÖĞ¹úÃ³Ò×µÄ½á¹¹ĞÔ±ÚÀİ£¬ÊµÏÖÓĞÒâÒåµÄ¡¢¿ÉÇ¿ÖÆÖ´ĞĞ²¢¿ÉºË²éµÄ¸Ä¸ï
+the importance of a â€œfair and **reciprocal** economic relationshipâ€ â€œaddressing **structural barriers** to 
+trade with China and achieving meaningful reforms that are **enforceable and verifiable**.â€
+â€œå…¬å¹³ã€äº’æƒ çš„ç»æµå…³ç³»â€çš„é‡è¦æ€§, è§£å†³ä¸ä¸­å›½è´¸æ˜“çš„ç»“æ„æ€§å£å’ï¼Œå®ç°æœ‰æ„ä¹‰çš„ã€å¯å¼ºåˆ¶æ‰§è¡Œå¹¶å¯æ ¸æŸ¥çš„æ”¹é©
 
-American tariffs have `taken a toll on` the exports that help power the Chinese economy, raising pressure 
-on Chinese leaders to persuade the Trump administration to `come to a truce`
-ÃÀ¹ú¹ØË°¸ø°ïÖúÇı¶¯ÖĞ¹ú¾­¼ÃµÄ³ö¿ÚÔì³ÉÁË²»ÀûÓ°Ïì£¬´Ó¶øÔö¼ÓÁË¶ÔÖĞ¹úÁìµ¼ÈËµÄÑ¹Á¦£¬ÆÈÊ¹ËûÃÇĞèÒªÈ¥Ëµ·şÌØÀÊÆÕÕş¸®´ï³ÉºÍ½â¡£
+American tariffs have **taken a toll on** the exports that help power the Chinese economy, raising pressure 
+on Chinese leaders to persuade the Trump administration to **come to a truce**
+ç¾å›½å…³ç¨ç»™å¸®åŠ©é©±åŠ¨ä¸­å›½ç»æµçš„å‡ºå£é€ æˆäº†ä¸åˆ©å½±å“ï¼Œä»è€Œå¢åŠ äº†å¯¹ä¸­å›½é¢†å¯¼äººçš„å‹åŠ›ï¼Œè¿«ä½¿ä»–ä»¬éœ€è¦å»è¯´æœç‰¹æœ—æ™®æ”¿åºœè¾¾æˆå’Œè§£ã€‚
 
-¡°Having an exclusion process `in place` that is usable for these manufacturers who are being harmed, and 
-in some cases harmed greatly, needs to be addressed,¡± ¡°There are so many of these `unintended consequences`, 
-I think, of some of the trade policies that are in place right now.¡±
-¡°ÒªÉè¶¨Ò»¸öÅÅ³ı³ÌĞò£¬¹©ÕâĞ©ÕıÔâÊÜËğÊ§µÄÖÆÔìÉÌÊ¹ÓÃ£¬ËûÃÇÓĞµÄÔâÊÜÁË¼«´óËğÊ§£¬ĞèÒª½â¾öÕâ¸öÎÊÌâ£¬¡±
-¡°ÎÒÈÏÎªµ±Ç°ÊµÊ©µÄ²¿·ÖÃ³Ò×Õş²ß²úÉúÁËÌ«¶àÏñÕâÑùÒâÏë²»µ½µÄºó¹û¡£¡±
+â€œHaving an exclusion process **in place** that is usable for these manufacturers who are being harmed, and 
+in some cases harmed greatly, needs to be addressed,â€ â€œThere are so many of these **unintended consequences**, 
+I think, of some of the trade policies that are in place right now.â€
+â€œè¦è®¾å®šä¸€ä¸ªæ’é™¤ç¨‹åºï¼Œä¾›è¿™äº›æ­£é­å—æŸå¤±çš„åˆ¶é€ å•†ä½¿ç”¨ï¼Œä»–ä»¬æœ‰çš„é­å—äº†æå¤§æŸå¤±ï¼Œéœ€è¦è§£å†³è¿™ä¸ªé—®é¢˜ï¼Œâ€
+â€œæˆ‘è®¤ä¸ºå½“å‰å®æ–½çš„éƒ¨åˆ†è´¸æ˜“æ”¿ç­–äº§ç”Ÿäº†å¤ªå¤šåƒè¿™æ ·æ„æƒ³ä¸åˆ°çš„åæœã€‚â€
 
-Almost all of the company officials `testifying` said they supported the administration¡¯s attempts to 
-reach a `more level playing field` with China on trade, and a few argued for more protection for their industry.
-¼¸ºõËùÓĞ²ÎÓë×÷Ö¤µÄ¹«Ë¾¸ß¹Ü¶¼±íÊ¾£¬ËûÃÇÖ§³Ö±¾½ìÕş¸®ÎªÊµÏÖ¸ü¹«Æ½µÄ¶Ô»ªÃ³Ò×¾ºÕù»·¾³Ëù×÷µÄÅ¬Á¦£¬ÉÙÊıÒªÇó¶ÔËûÃÇµÄĞĞÒµ¸øÓè¸ü¶à±£»¤¡£
+Almost all of the company officials **testifying** said they supported the administrationâ€™s attempts to 
+reach a **more level playing field** with China on trade, and a few argued for more protection for their industry.
+å‡ ä¹æ‰€æœ‰å‚ä¸ä½œè¯çš„å…¬å¸é«˜ç®¡éƒ½è¡¨ç¤ºï¼Œä»–ä»¬æ”¯æŒæœ¬å±Šæ”¿åºœä¸ºå®ç°æ›´å…¬å¹³çš„å¯¹åè´¸æ˜“ç«äº‰ç¯å¢ƒæ‰€ä½œçš„åŠªåŠ›ï¼Œå°‘æ•°è¦æ±‚å¯¹ä»–ä»¬çš„è¡Œä¸šç»™äºˆæ›´å¤šä¿æŠ¤ã€‚
 
 Like other presidential hopefuls in Taiwan, Terry Gou has spent the past few weeks working on his public image 
-by `carrying toddlers, wrapping dumplings` and helping farmers.
-ºÍÌ¨ÍåÆäËûµÄ×ÜÍ³ºòÑ¡ÈËÒ»Ñù£¬¹ùÌ¨ÃúÔÚ¹ıÈ¥¼¸ÖÜÀïÒ»Ö±ÓÃ±§Ğ¡º¢¡¢°ü½È×ÓºÍ°ïÖúÅ©ÃñµÈ×ö·¨£¬Å¬Á¦ËÜÔì×Ô¼ºµÄ¹«ÖÚĞÎÏó¡£
+by **carrying toddlers, wrapping dumplings** and helping farmers.
+å’Œå°æ¹¾å…¶ä»–çš„æ€»ç»Ÿå€™é€‰äººä¸€æ ·ï¼Œéƒ­å°é“­åœ¨è¿‡å»å‡ å‘¨é‡Œä¸€ç›´ç”¨æŠ±å°å­©ã€åŒ…é¥ºå­å’Œå¸®åŠ©å†œæ°‘ç­‰åšæ³•ï¼ŒåŠªåŠ›å¡‘é€ è‡ªå·±çš„å…¬ä¼—å½¢è±¡ã€‚
 
-¡°If we are too optimistic and `biased toward` either side,¡± ¡°it will push Taiwan to an `unpredictable danger`.¡±
-ÈôÌ¨Íå¹ıÓÚÀÖ¹Û£¬Æ«ÏòÈÎºÎÒ»·½£¬¾Í»á½«Ì¨ÍåÍÆÏò²»¿ÉÔ¤²âµÄÎ£ÏÕ
+â€œIf we are too optimistic and **biased toward** either side,â€ â€œit will push Taiwan to an **unpredictable danger**.â€
+è‹¥å°æ¹¾è¿‡äºä¹è§‚ï¼Œåå‘ä»»ä½•ä¸€æ–¹ï¼Œå°±ä¼šå°†å°æ¹¾æ¨å‘ä¸å¯é¢„æµ‹çš„å±é™©
 
-¡°Terry Gou has been a `ruthless exploiter` of local labor, tax breaks, and repeatedly `floated fresh stakes` 
-in new companies to create equity value,¡±¡°But these stocks have consistently `underperformed the market`.¡±
-¹ùÌ¨ÃúÒ»Ö±ÔÚÎŞÇéµØÀûÓÃµ±µØµÄÀÍ¶¯Á¦ºÍ¼õË°Õş²ß£¬²¢²»¶ÏÓÃĞÂ¹«Ë¾µÄÃûÒå·¢ĞĞĞÂ¹É·İ£¬ÒÔ´ËÀ´´´ÔìÊĞÖµ£¬µ«ÕâĞ©¹ÉÆ±µÄ±íÏÖÒ»Ö±µÍÓÚ¹ÉÊĞµÄ×ÜÌå±íÏÖ
+â€œTerry Gou has been a **ruthless exploiter** of local labor, tax breaks, and repeatedly **floated fresh stakes** 
+in new companies to create equity value,â€â€œBut these stocks have consistently **underperformed the market**.â€
+éƒ­å°é“­ä¸€ç›´åœ¨æ— æƒ…åœ°åˆ©ç”¨å½“åœ°çš„åŠ³åŠ¨åŠ›å’Œå‡ç¨æ”¿ç­–ï¼Œå¹¶ä¸æ–­ç”¨æ–°å…¬å¸çš„åä¹‰å‘è¡Œæ–°è‚¡ä»½ï¼Œä»¥æ­¤æ¥åˆ›é€ å¸‚å€¼ï¼Œä½†è¿™äº›è‚¡ç¥¨çš„è¡¨ç°ä¸€ç›´ä½äºè‚¡å¸‚çš„æ€»ä½“è¡¨ç°
 
-¡°If Gou uses the `businessman mind-set` practice in politics,¡± ¡°he may bring changes to `cross-strait` 
-relations and the U.S.-China-Taiwan `trilateral relationship`, and bring some new ideas.¡±
-¡°Èç¹ûËûÓÃÒ»¸öÉÌÈËË¼Î¬À´´ÓÊÂÕşÖÎµÄ»°£¬¿ÉÄÜ»á¸øÁ½°¶¹ØÏµÓëÉæ¼°µ½Ì¨ÍåµÄ´óÈı½ÇµÄ¹ØÏµ£¬¾ÍÊÇÖĞÃÀºÍÌ¨ÍåÖ®¼äµÄ¹ØÏµ£¬´øÀ´Ò»ÖÖĞÂµÄË¼Â·¡£¡±
+â€œIf Gou uses the **businessman mind-set** practice in politics,â€ â€œhe may bring changes to **cross-strait** 
+relations and the U.S.-China-Taiwan **trilateral relationship**, and bring some new ideas.â€
+â€œå¦‚æœä»–ç”¨ä¸€ä¸ªå•†äººæ€ç»´æ¥ä»äº‹æ”¿æ²»çš„è¯ï¼Œå¯èƒ½ä¼šç»™ä¸¤å²¸å…³ç³»ä¸æ¶‰åŠåˆ°å°æ¹¾çš„å¤§ä¸‰è§’çš„å…³ç³»ï¼Œå°±æ˜¯ä¸­ç¾å’Œå°æ¹¾ä¹‹é—´çš„å…³ç³»ï¼Œå¸¦æ¥ä¸€ç§æ–°çš„æ€è·¯ã€‚â€
