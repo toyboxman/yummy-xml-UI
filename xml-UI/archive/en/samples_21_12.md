@@ -718,7 +718,7 @@ For gifts during holidays, CATL sends **lychee and loquat fruit** grown on Ningd
 逢节送礼时，宁德时代会赠送宁德郊外采摘的荔枝和枇杷。
 
 Qinghai had something that Mr. Zeng needed: **dried-out salt lake beds** with **thick underground brine laden with lithium**.
->laden with 充满
+>laden with 充满  
 >laden[ˈleɪd(ə)n] 装着货的；有负载的；有精神负担的；沉重的; 满载的
 
 青海有曾毓群需要的东西：干涸的盐湖床，地下有大量富含锂的卤水。
