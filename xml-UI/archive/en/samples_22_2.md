@@ -46,4 +46,24 @@ Coaches have struggled to persuade children and parents that the grueling traini
 They put Meng in charge of building up short-track speedskating, where athletes test their physical agility and mental composure as they careen around the track in tight packs. His statue, clutching a stop watch and guiding young skaters, stands in the city’s museum for its champion skaters.
 他们让孟庆余负责培养短道速滑运动员，在这一项目中，运动员需要在拥挤的赛道上飞速滑行，这十分考验他们的身体敏捷性和抗压能力。在该市为冠军选手建造的博物馆里，就伫立着他手握秒表指导年轻滑冰选手的雕像。
 
+Fly, flip, twist, land; fly, flip, twist, land. Again and again, forging confidence and burning the corkscrewed aerial movements into muscle memory. Then it was straight to the T-bar that dragged her back to the top. The quiet monotony repeated, for weeks through the fall.
+腾空，翻转，转体，落地；腾空，翻转，转体，落地。一遍又一遍的训练打造出她的信心，将空中翻腾动作锻造为她的肌肉记忆。然后，她直奔T字缆车，又回到滑道顶端。整个秋季，这种寂静的单调训练持续了好几周时间
+
+Watching from the top of the halfpipe, Yan Gu contorted her body in rhythm with her daughter’s acrobatics, mumbled urgings and pumped her fists.
+站在U型场地的顶端，谷燕随着女儿的空中动作有节奏地摆动着身体，嘴里念着鼓励的话，挥舞着拳头
+
+The only interruption in the training schedule came from fashion events and shoots. Gu is an IMG model. From Switzerland, a private jet whisked her to Paris, landing her in the front row for a Louis Vuitton event at the Louvre
+干扰她训练日程的只有时尚活动和拍摄。谷爱凌是IMG旗下的模特。一架私人飞机将她从瑞士送到巴黎，让她坐在前排参加一场在卢浮宫举行的路易威登活动
+
+Such dualities define her. Is she a skier or a supermodel? A goofy teenager or a global icon? A bookish Stanford student (accepted, she deferred admission for a year) or a social media influencer? 
+这样的双重身份定义了她的人生。她是滑雪运动员还是超模？是幼稚青少年还是全球偶像？是斯坦福“学霸”（她已被录取，但推迟一年入学）还是社交媒体网红？
+
+She was friendly, self-deprecating and thoughtful — all traits that help make her popular, both with fans and fellow competitors, including former American teammates.
+她很友善，态度谦虚且思虑周全——这些特质都让她深受粉丝和竞争对手的欢迎，这些对手也包括她的美国前队友
+
+It was not only her talent, but her ambition and drive to improve herself, It was, like, ‘OK, Eileen’s got something.’
+她不只是有天赋，还有抱负和提升自己的动力，当时就觉得，‘行，谷爱凌有两把刷子。’
+
+To vent emotions on this young athlete, using social media to throw rocks down a well when she makes mistakes — that’s cyberbullying, and no matter what it’s going too far,
+而且有意见就把情绪针对年轻的运动员个人，当她出现失误时在社交媒体上公然落井下石，网暴，这无论如何都很过分
 

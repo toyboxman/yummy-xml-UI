@@ -38,6 +38,21 @@ ffmpeg -i test.mp4 -ss 01:15:50 -t 50 output.mp4
 ffmpeg -i test.mp4 -filter:v "crop=1280:690:0:0" output.mp4
 ```
 
+#### 合并视频
+```console
+# 顺序合并三个视频文件
+$ echo "file '/home/file1.mp4'" > list.txt
+$ echo "file '/home/file2.mp4'" >> list.txt
+$ echo "file '/home/file3.mp4'" >> list.txt
+$ cat list.txt
+
+file '/home/file1.mp4'
+file '/home/file2.mp4'
+file '/home/file3.mp4'
+
+$ ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
+```
+
 #### 添加字幕
 首先需要准备字幕文件
 ```console
@@ -115,5 +130,5 @@ ffmpeg -i a.mov -map 0:v -map 0:a:2 out.mov
 # 选择a.mov中全部stream，除了第2个音频stream(-0:a:1)输出到out.mov中
 ffmpeg -i a.mov -map 0 -map -0:a:1 out.mov
 # 选择English audio stream输出到out.mov 0:m metadata
-ffmpeg -i a.mov -map 0:m:language:eng out.movPUT        
+ffmpeg -i a.mov -map 0:m:language:eng out.mov    
 ```
