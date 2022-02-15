@@ -379,6 +379,7 @@
         `Redis/Zookeeper/DB作分布式锁`
         - [接口幂等性实现与分布式锁](https://mp.weixin.qq.com/s/pBO-qdzDIuLmxM9bWKSOgg)
         - [Zookeeper思维导图](https://mp.weixin.qq.com/s/ocQZUKxujgcqNNKn7zw4Yw)
+        - [用etcd替换Zookeeper](https://mp.weixin.qq.com/s/_Q-IekByaofdKkskh6esZg)
 	- [负载均衡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)  
         `负载均衡算法/转发实现/集群下的Session管理`
     - [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
@@ -390,8 +391,11 @@
     - [高性能高并发技术对CPU,内存,I/O要求](https://mp.weixin.qq.com/s/P-mPAWxScFAThoNF3M2y3A)
     - [高并发服务限流实践](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)  
         `Guava的RateLimiter提供了令牌桶算法实现：平滑突发限流(SmoothBursty)和平滑预热限流(SmoothWarmingUp)`
-    - [秒杀架构](https://mp.weixin.qq.com/s/b04s_56kjNANN37LmxK6pw)  
+    - 秒杀系统架构和设计
+        - [秒杀架构](https://mp.weixin.qq.com/s/b04s_56kjNANN37LmxK6pw)  
         `超卖问题/接口防刷/秒杀url/数据库设计/高并发/Hystrix服务降级`
+        - [秒杀设计](https://mp.weixin.qq.com/s/Ieo6_gHQQLG6mpbEZJGH6A)
+        - [互联网秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
     - [正确设置数据库连接池降低时延](https://mp.weixin.qq.com/s/CGmH4jmpTYODwnfpywRr1Q)  
         `连接池越大，速度越慢了。你需要一个小连接池，和一个充满了等待连接的线程的队列`
     - [高并发下实现一次快速的查询](https://mp.weixin.qq.com/s/FGl9olwLjpBCIWCQVwJuyQ)    
@@ -414,6 +418,9 @@
         - [微服务设计模式](https://mp.weixin.qq.com/s/PzPfWHVanSQpZha7qDeKGw)
         - [微服务发现技术](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)  
             `传统集中式代理/客户端嵌入式代理/主机独立进程方案/K8S服务发现机制`
+        - [Micro Services and Architecture](https://github.com/jsa4000/Getting-Started-Microservices)  
+            `学习资料`
+            - [security/OAuth](https://github.com/jsa4000/Getting-Started-Microservices/tree/master/security/OAuth)
         - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)  
             `治理配置/Apollo治理能力/可用性场景/动态日志级别/Zuul动态网关路由`
             - [Spring Cloud配置中心](https://www.haoyizebo.com/posts/8f2a7e9d/)
@@ -478,7 +485,6 @@
     - [资源隔离思路与方法](https://mp.weixin.qq.com/s/-FKgYG0djCmtfkE-wFnFsw)
     - [缓存思路与方法](https://mp.weixin.qq.com/s/kEEqKphj2GFKRlnXDEZ32A)
     - [服务器扩容思路及问题分析](https://mp.weixin.qq.com/s/I0TeBsb6LeAnWhC81RqCHg)
-    - [秒杀设计](https://mp.weixin.qq.com/s/Ieo6_gHQQLG6mpbEZJGH6A)
 + [Hystrix容错框架](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)  
     `雪崩效应/缓存穿透/HystrixCommand/资源隔离/熔断`
 + [从零开始搭建后台技术栈](https://mp.weixin.qq.com/s/q9zzDPJXQRqIF6iQv2EE0A)
@@ -589,6 +595,7 @@
 + [如何搭建一个大数据平台](https://mp.weixin.qq.com/s/GNYg4U1VWVYXAo5efcn5Lg)
 + [工业互联网大数据平台建设方案](https://mp.weixin.qq.com/s/4pymKCmsMVX4cH1twpVt-Q)
 + [spark](big-data/spark.md)
+    - [tutorial Spark's Scala APIs](https://github.com/deanwampler/JustEnoughScalaForSpark)
     - [Spark调度系统](https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw)
     - [Spark中编写可伸缩代码](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
     - [Spark Shuffle](https://mp.weixin.qq.com/s/VdwOwmxmOpQC3NIaxqqbmw)
@@ -628,6 +635,7 @@
 #### Machine learning
 + Machine Learning Course  
     - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
+    - [微软人工智能学习社区](https://github.com/microsoft/ai-edu)
     - [d2l-zh](https://github.com/d2l-ai/d2l-zh)
     - [笔记](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
     - [笔记介绍](https://mp.weixin.qq.com/s/k3MA8fKtBzFkeVoQWCejNQ)
@@ -646,6 +654,7 @@
 
 #### Docker
 + [docker](docker%20commands.md)
+    - [入门到实践](https://github.com/yeasy/docker_practice)
     - [Docker架构原理功能及使用](https://mp.weixin.qq.com/s/GGoQuGQ2qUByqmX0BR0FEw)
     - [Docker从入门到实践](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
     - [ansible-bender构建容器镜像](https://mp.weixin.qq.com/s/ZxyhsXp7w03tMYzmhBsF1A)
@@ -698,6 +707,8 @@ monitor in:description language:python
     - [basic](https://github.com/eugenp/tutorials/tree/master/maven-all/maven)
 + [javadoc.io](https://javadoc.io/)
     - [接口文档自动化Swagger-Bootstrap-UI](https://mp.weixin.qq.com/s/OTNP0fNwZxagpwi4axjOqQ)
++ [Design patterns](https://github.com/iluwatar/java-design-patterns)  
+    `Java实现的各种设计模式`
 + [protobuf](#protobuf)
 + [jmeter](java/jmeter.md)
 + [spring](#spring)
@@ -811,6 +822,7 @@ monitor in:description language:python
 + [Java-Summarize](https://github.com/zaiyunduan123/Java-Summarize)
 + [JVM底层原理知识](https://github.com/doocs/jvm)
 + [大厂面试指北](https://github.com/NotFound9/interviewGuide)
++ [技术面试](https://github.com/CyC2018/CS-Notes)
 + [Java-interview](https://mp.weixin.qq.com/s/jnLyvrypsGL9avExjFCoZQ)
 + [go-interview](https://github.com/shomali11/go-interview)
 #### Contract
