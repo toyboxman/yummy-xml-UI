@@ -122,79 +122,133 @@ On Tuesday, President Trump said that China “wants to make a deal **very badly
 周二，特朗普总统表示，中国“非常想达成协议”，但只有在中国同意之前的贸易条款的情况下，他才会接受协议。“现在是我在拖延这笔交易，”他在白宫发表讲话时说。“我们和中国有过一项协议，除非他们回到那个协议，否则我没有任何兴趣。”
 
 The team, working from offices in a **gray marble office** building just 50 yards from the Chinese leadership’s Beijing **compound**, **quickly pivoted**
+>gray marble 灰色大理石  
+>compound 大院  
+
 这个团队在一座灰色大理石办公大楼里工作，距离中国领导人的大院仅有50码之遥，他们很快就改变了方向
 
 The rise of Mr. Liu’s team had **partly marginalized** China’s Commerce Ministry until the past few weeks, people with detailed knowledge of Chinese **policymaking** said
+>policymaking 政策制定  
+>partly marginalize 在一定程度上使边缘化
+
 了解中国政策制定细节的人士说，直到过去几周，刘鹤团队的崛起在一定程度上使中国商务部处于边缘地位
 
 Vice ministers typically **step down** around the age of 60, and start looking for **plum jobs** in their late 50s
+>plum[plʌm] 李子；梅子；称心如意的(工作或职位)  
+>plum jobs 轻松且待遇优厚的职位
+
 副部长通常在60岁左右退休，在50多岁时开始物色轻松且待遇优厚的职缺
 
-if the Chinese vessel had **deliberately rammed** a stationary Filipino boat, it would be a clear **breach of international norms**
+If the Chinese vessel had **deliberately rammed a stationary Filipino boat**, it would be a clear **breach of international norms**
+>deliberately ram 故意撞击  
+>stationary[ˈsteɪʃ(ə)nˌeri] 不动的；静止的；固定的；不可移动的  
+>stationary boat 抛锚的船只  
+>international norms 国际准则
+
 如果中国船只故意撞击了一艘抛锚的菲律宾船只，那显然违反了国际准则
 
-Prime Minister Scott Morrison **played it down** as a “reciprocal visit” and a sign of “the relationship 
-that we have.” National security experts, however, called it a show of force by China and a **double-edged** reminder of Australia’s longstanding relationship with China and its growing military ambitions.
+Prime Minister Scott Morrison **played it down as a “reciprocal visit”** and a sign of “the relationship that we have.” National security experts however, called it a show of force by China and a **double-edged** reminder of Australia’s **longstanding relationship with** China and its growing military ambitions.
+>played it down 轻描淡写  
+>reciprocal visit 回访  
+>double-edged 双刃的；意义双关的；模棱两可的  
+
 澳大利亚总理斯科特·莫里森轻描淡写地称之为“回访”，显示了“我们之间的关系”。而国家安全专家却称它是中国在展示武力，并且是一石二鸟，同时提示了澳中关系的由来已久以及中国日益壮大的军事野心。
 
-“No Australian government is willing to risk relations with China by **siding too overtly** with Washington,” 
-said Hugh White, emeritus professor of strategic studies at the Australian National University. 
-“This has become more and more clear as U.S. rivalry with China has become more **overt**.”
-“没有哪届澳大利亚政府愿意过于明显地支持华盛顿，给同中国的关系造成风险，”澳大利亚国立大学战略研究荣休教授
-休·怀特说。“随着美国同中国之间的对立日渐公开化，这一点已经越来越明确。”
+No Australian government **is willing to risk** relations with China by **siding too overtly** with Washington, said Hugh White, **emeritus professor** of strategic studies at the Australian National University. This has become more and more clear as U.S. **rivalry** with China has become more **overt**.
+>emeritus[ɪˈmerɪtəs] 名誉退休的  
+>emeritus professor 荣休教授  
+>overtly[oʊˈvərtlɪ] 公开地；公然地  
+>side too overtly with 过于明显地支持
 
-“there’s a recognition that we **dropped the ball** and we need to reinvest.”
+没有哪届澳大利亚政府愿意过于明显地支持华盛顿，给同中国的关系造成风险，澳大利亚国立大学战略研究荣休教授休·怀特说。随着美国同中国之间的对立日渐公开化，这一点已经越来越明确
+
+There’s a recognition that we **dropped the ball** and we need to reinvest.
+>drop the ball 失职; 犯错误
+
 存在一种认知，即我们之前没做好，现在得重新投入。
 
-“This is a very hard question for Australians, because we can **hardly imagine** what it would be like to be 
-without America as our **major ally**,” he said. “But **the unthinkable** is now being thought about much more 
-seriously than at any time since at least the end of the Vietnam War.”
-“这对澳大利亚人来说是一个困难的问题，因为我们很难想象没有美国作为我们的主要盟友会是什么样子，”他说。
-“但至少自越南战争结束以来，人们现在比以往任何时候都更认真地考虑这个难以想象的问题。”
+This is a very hard question for Australians, because we can **hardly imagine** what it would be like to be without America as our **major ally**
+he said. But **the unthinkable** is now being thought about much more seriously than at any time since **at least** the end of the Vietnam War.
+>unthinkable 难以想象的；不可思议的；难以置信的  
 
-“He wants to secure **leverage** before he meets Trump” “He is sending a signal to Washington that China 
-has a big role to play in achieving the **denuclearization** of North Korea and that the U.S. should not **mistreat** China.”
+这对澳大利亚人来说是一个困难的问题，因为我们很难想象没有美国作为我们的主要盟友会是什么样子，他说。但至少自越南战争结束以来，人们现在比以往任何时候都更认真地考虑这个难以想象的问题
+
+He wants to **secure leverage** before he meets Trump. He is **sending a signal to** Washington that China **has a big role to play** in achieving the **denuclearization** of North Korea and that the U.S. should not **mistreat** China.
+>secure 获得  
+>secure leverage 获得筹码  
+>denuclearization[dinjʊklɪərɪ'zeʃən] 无核化；非核化  
+>mistreat 亏待；虐待
+
 希望在本月晚些时候与特朗普会面之前获得筹码，他在向华盛顿发出信号，即中国在实现朝鲜无核化方面可以发挥重要作用，美国不应该苛待中国。
 
 China, however, has tried to **play down** role as international **spoiler**.
+>play down 贬低；淡化；降低  
+>spoiler 搅局者；剧透
+
 然而，中国一直试图淡化作为国际秩序搅局者的角色。
 
-The Chinese effectively stopped the United Nations Security Council on Tuesday from declaring that 
-the North had **breached** its annual limit for importing petroleum products, **sparing the country from** further punishment.
+The Chinese **effectively stopped** the United Nations Security Council on Tuesday from declaring that the North had **breached** its annual limit for **importing petroleum products, sparing the country from** further punishment.
+>petroleum[pəˈtroʊliəm] products 石油产品  
+>spare from punishment 免遭惩罚  
+>breach[britʃ] 违反；违背；在…上打开缺口; 突破口；破坏；缺口；违约
+
 周二，联合国安理会试图宣布朝鲜超过了石油产品进口的年度上限，被中国有效制止，使朝鲜免遭进一步惩罚。
 
 North Korea **stuck to the centrally planned economic system**, denouncing China’s economic reforms as **revisionist**.
+>centrally planned economic system 中央计划经济体制  
+>stick to 坚持  
+>revisionist 修正主义的; 修正主义者
+
 朝鲜继续施行中央计划经济体制，并谴责中国的经济改革是修正主义
 
-the importance of a “fair and **reciprocal** economic relationship” “addressing **structural barriers** to 
-trade with China and achieving meaningful reforms that are **enforceable and verifiable**.”
+The importance of a “fair and **reciprocal** economic relationship addressing **structural barriers** to trade with China and achieving meaningful reforms that are **enforceable and verifiable**.”
+>reciprocal[rɪˈsɪprək(ə)l] 互惠的；相互的；交互的  
+>structural barriers 结构性壁垒  
+>enforceable 可强制执行的  
+>verifiable 可核查的
+
 “公平、互惠的经济关系”的重要性, 解决与中国贸易的结构性壁垒，实现有意义的、可强制执行并可核查的改革
 
-American tariffs have **taken a toll on** the exports that help power the Chinese economy, raising pressure 
-on Chinese leaders to persuade the Trump administration to **come to a truce**
+American tariffs have **taken a toll on** the exports that **help power the Chinese economy**, raising pressure on Chinese leaders to persuade the Trump administration to **come to a truce**
+>take a toll on 给···造成伤害；损害；对……造成影响  
+>come to a truce 达成和解
+
 美国关税给帮助驱动中国经济的出口造成了不利影响，从而增加了对中国领导人的压力，迫使他们需要去说服特朗普政府达成和解。
 
-“Having an exclusion process **in place** that is usable for these manufacturers who are being harmed, and 
-in some cases harmed greatly, needs to be addressed,” “There are so many of these **unintended consequences**, 
-I think, of some of the trade policies that are in place right now.”
-“要设定一个排除程序，供这些正遭受损失的制造商使用，他们有的遭受了极大损失，需要解决这个问题，”
-“我认为当前实施的部分贸易政策产生了太多像这样意想不到的后果。”
+Having an exclusion process **in place** that is usable for these manufacturers who are being harmed, and in some cases harmed greatly, needs to be addressed, There are so many of these **unintended consequences**, I think, of some of the trade policies that are in place right now.
+>unintended consequences 意想不到的后果
+>exclusion process in place 合适的排除程序; 现有的排除程序
 
-Almost all of the company officials **testifying** said they supported the administration’s attempts to 
-reach a **more level playing field** with China on trade, and a few argued for more protection for their industry.
+要设定一个排除程序，供这些正遭受损失的制造商使用，他们有的遭受了极大损失，需要解决这个问题，我认为当前实施的部分贸易政策产生了太多像这样意想不到的后果
+
+Almost all of the company officials **testifying** said they supported the administration’s attempts to **reach a more level playing field** with China on trade, and a few argued for more protection for their industry.
+>playing field 运动场；操场； 比赛场地
+
 几乎所有参与作证的公司高管都表示，他们支持本届政府为实现更公平的对华贸易竞争环境所作的努力，少数要求对他们的行业给予更多保护。
 
-Like other presidential hopefuls in Taiwan, Terry Gou has spent the past few weeks working on his public image 
-by **carrying toddlers, wrapping dumplings** and helping farmers.
+Like other **presidential hopefuls** in Taiwan, Terry Gou has spent the past few weeks working on his public image by **carrying toddlers, wrapping dumplings** and helping farmers.
+>presidential hopefuls 总统候选人  
+>wrap dumplings 包饺子
+
 和台湾其他的总统候选人一样，郭台铭在过去几周里一直用抱小孩、包饺子和帮助农民等做法，努力塑造自己的公众形象。
 
-“If we are too optimistic and **biased toward** either side,” “it will push Taiwan to an **unpredictable danger**.”
+“If we are too optimistic and **biased toward** either side, it will push Taiwan to an **unpredictable danger**.”
+>bias toward 偏向  
+>unpredictable 不可预测的
+
 若台湾过于乐观，偏向任何一方，就会将台湾推向不可预测的危险
 
-“Terry Gou has been a **ruthless exploiter** of local labor, tax breaks, and repeatedly **floated fresh stakes** 
-in new companies to create equity value,”“But these stocks have consistently **underperformed the market**.”
+“Terry Gou has been a **ruthless exploiter** of local labor, **tax breaks**, and repeatedly **floated fresh stakes** in new companies to create equity value, But these stocks have consistently **underperformed the market**.”
+>ruthless[ˈruθləs] 残酷无情的；残忍的  
+>tax break 税收减免  
+>equity[ˈekwəti] value 股权价值  
+>float fresh stakes 发行新股份
+
 郭台铭一直在无情地利用当地的劳动力和减税政策，并不断用新公司的名义发行新股份，以此来创造市值，但这些股票的表现一直低于股市的总体表现
 
-“If Gou uses the **businessman mind-set** practice in politics,” “he may bring changes to **cross-strait** 
-relations and the U.S.-China-Taiwan **trilateral relationship**, and bring some new ideas.”
-“如果他用一个商人思维来从事政治的话，可能会给两岸关系与涉及到台湾的大三角的关系，就是中美和台湾之间的关系，带来一种新的思路。”
+“If Gou uses the **businessman mind-set** practice in politics, he may bring changes to **cross-strait** relations and the U.S.-China-Taiwan **trilateral relationship**, and bring some new ideas.”
+>mind-set 思维  
+>cross-strait 跨海峡  
+>trilateral relationship 三角关系
+
+如果他用一个商人思维来从事政治的话，可能会给两岸关系与涉及到台湾的大三角的关系，就是中美和台湾之间的关系，带来一种新的思路。
