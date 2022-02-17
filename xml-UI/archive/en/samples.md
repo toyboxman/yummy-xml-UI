@@ -1,678 +1,678 @@
-we have `an old saying`: ¡°tian gao, huangdi yuan,¡± or, ¡°the emperor is `as far away as the sky`.¡± We use it to `reassure` ourselves 
-ÓĞ¾ä`ÀÏ»°`£¬½Ğ¡°Ìì¸ß»ÊµÛÔ¶¡±¡£ÎÒÃÇÓÃËüÀ´`¿íÎ¿`×Ô¼º
+we have `an old saying`: â€œtian gao, huangdi yuan,â€ or, â€œthe emperor is `as far away as the sky`.â€ We use it to `reassure` ourselves 
+æœ‰å¥`è€è¯`ï¼Œå«â€œå¤©é«˜çš‡å¸è¿œâ€ã€‚æˆ‘ä»¬ç”¨å®ƒæ¥`å®½æ…°`è‡ªå·±
 
-a professor in international relations explained that Singapore was an `authoritarian state`, where the government `wielded tremendous control` over citizens¡¯ daily lives.
-Ò»Î»¹ú¼Ê¹ØÏµ½ÌÊÚ½âÊÍËµ£¬ĞÂ¼ÓÆÂÊÇÒ»¸ö`×¨ÖÆ¹ú¼Ò`£¬Õş¸®¶ÔÃñÖÚµÄÈÕ³£Éú»î`Ö¸ÊÖ»­½Å`¡£
+a professor in international relations explained that Singapore was an `authoritarian state`, where the government `wielded tremendous control` over citizensâ€™ daily lives.
+ä¸€ä½å›½é™…å…³ç³»æ•™æˆè§£é‡Šè¯´ï¼Œæ–°åŠ å¡æ˜¯ä¸€ä¸ª`ä¸“åˆ¶å›½å®¶`ï¼Œæ”¿åºœå¯¹æ°‘ä¼—çš„æ—¥å¸¸ç”Ÿæ´»`æŒ‡æ‰‹ç”»è„š`ã€‚
 
-we could `follow the commentary` posted by `public intellectuals` there, so we `wouldn¡¯t have to simply accept the government¡¯s narrative`
-¿ÉÒÔÔÚÉÏÃæ¹Ø×¢ÄÇĞ©`¹«¹²ÖªÊ¶·Ö×Ó`·¢±íµÄÆÀÂÛ£¬ÕâÑùÎÒÃÇ`¾Í²»ÓÃÖ»½ÓÊÜÕş¸®µÄÒ»ÃæÖ®´Ê`
+we could `follow the commentary` posted by `public intellectuals` there, so we `wouldnâ€™t have to simply accept the governmentâ€™s narrative`
+å¯ä»¥åœ¨ä¸Šé¢å…³æ³¨é‚£äº›`å…¬å…±çŸ¥è¯†åˆ†å­`å‘è¡¨çš„è¯„è®ºï¼Œè¿™æ ·æˆ‘ä»¬`å°±ä¸ç”¨åªæ¥å—æ”¿åºœçš„ä¸€é¢ä¹‹è¯`
 
-I `couldn¡¯t wait to` go back home; I believed `it was poised to` become a place where idealists like me would `thrive`.
-ÎÒ`ÆÈ²»¼°´ıµØ`Ïë»Ø¼Ò£»ÎÒÏàĞÅËü»á³ÉÎªÒ»¸öÏñÎÒÕâÑùµÄÀíÏëÖ÷ÒåÕß`ÈçÓãµÃË®µÄ`µØ·½
+I `couldnâ€™t wait to` go back home; I believed `it was poised to` become a place where idealists like me would `thrive`.
+æˆ‘`è¿«ä¸åŠå¾…åœ°`æƒ³å›å®¶ï¼›æˆ‘ç›¸ä¿¡å®ƒä¼šæˆä¸ºä¸€ä¸ªåƒæˆ‘è¿™æ ·çš„ç†æƒ³ä¸»ä¹‰è€…`å¦‚é±¼å¾—æ°´çš„`åœ°æ–¹
 
-security checks `were instituted` in the subway system. We `grew used to` policemen checking people¡¯s identity cards in interchange stations.
-µØÌúÏµÍ³`Ôö¼ÓÁË`°²¼ì¡£ÂıÂıµØ£¬ÎÒÃÇ`Ï°¹ßÁË`¾¯²ìÔÚ»»³ËÕ¾¼ì²éÉí·İÖ¤¡£
+security checks `were instituted` in the subway system. We `grew used to` policemen checking peopleâ€™s identity cards in interchange stations.
+åœ°é“ç³»ç»Ÿ`å¢åŠ äº†`å®‰æ£€ã€‚æ…¢æ…¢åœ°ï¼Œæˆ‘ä»¬`ä¹ æƒ¯äº†`è­¦å¯Ÿåœ¨æ¢ä¹˜ç«™æ£€æŸ¥èº«ä»½è¯ã€‚
 
-a story that had `gone viral` in my WeChat `feeds overnight`: ¡°A BBC reporter challenged China¡¯s surveillance network ¡ª and it took only seven minutes to capture him!¡± I couldn¡¯t tell which terrified me more: China¡¯s `all-encompassing network of facial recognition` surveillance cameras, or that my `countrymen` were proudly cheering them on.
-¿´µ½Ò»Æª`Ò»Ò¹×ßºìµÄ`±¨µÀ£º¡°BBC¼ÇÕßÌôÕ½ÖĞ¹úÌìÍø¹¤³Ì£¬Ç±ÌÓÆß·ÖÖÓºó±»×¥»ñ£¡¡±ÎÒËµ²»³öÄÄ¸ö¸üÈÃÎÒº¦ÅÂ£ºÊÇÖĞ¹ú`ÎŞËù²»ÔÚµÄ`ÈËÁ³Ê¶±ğ¼à¿ØÉãÏñÍ·ÍøÂç£¬»¹ÊÇÎÒµÄÍ¬°ûÃÇÔÚ½¾°ÁµØÎªËüºÈ²Ê¡£
+a story that had `gone viral` in my WeChat `feeds overnight`: â€œA BBC reporter challenged Chinaâ€™s surveillance network â€” and it took only seven minutes to capture him!â€ I couldnâ€™t tell which terrified me more: Chinaâ€™s `all-encompassing network of facial recognition` surveillance cameras, or that my `countrymen` were proudly cheering them on.
+çœ‹åˆ°ä¸€ç¯‡`ä¸€å¤œèµ°çº¢çš„`æŠ¥é“ï¼šâ€œBBCè®°è€…æŒ‘æˆ˜ä¸­å›½å¤©ç½‘å·¥ç¨‹ï¼Œæ½œé€ƒä¸ƒåˆ†é’Ÿåè¢«æŠ“è·ï¼â€æˆ‘è¯´ä¸å‡ºå“ªä¸ªæ›´è®©æˆ‘å®³æ€•ï¼šæ˜¯ä¸­å›½`æ— æ‰€ä¸åœ¨çš„`äººè„¸è¯†åˆ«ç›‘æ§æ‘„åƒå¤´ç½‘ç»œï¼Œè¿˜æ˜¯æˆ‘çš„åŒèƒä»¬åœ¨éª„å‚²åœ°ä¸ºå®ƒå–å½©ã€‚
 
-Entering train stations felt like crossing border control at an international airport ¡ª my identity was not only confirmed by someone checking my documents, but also by one of the `ubiquitous facial recognition cameras`. 
-½øÈë»ğ³µÕ¾¾ÍÏñÔÚ¹ú¼Ê»ú³¡Í¨¹ı±ß¾³¹ÜÖÆÒ»Ñù¡ª¡ª²»½öÓĞÈË¼ì²éÎÒµÄÎÄ¼ş²¢È·ÈÏÎÒµÄÉí·İ£¬`ÎŞ´¦²»ÔÚµÄÃæ²¿Ê¶±ğÉãÏñÍ·`Ò²ÔÚÈ·ÈÏÎÒµÄÉí·İ
+Entering train stations felt like crossing border control at an international airport â€” my identity was not only confirmed by someone checking my documents, but also by one of the `ubiquitous facial recognition cameras`. 
+è¿›å…¥ç«è½¦ç«™å°±åƒåœ¨å›½é™…æœºåœºé€šè¿‡è¾¹å¢ƒç®¡åˆ¶ä¸€æ ·â€”â€”ä¸ä»…æœ‰äººæ£€æŸ¥æˆ‘çš„æ–‡ä»¶å¹¶ç¡®è®¤æˆ‘çš„èº«ä»½ï¼Œ`æ— å¤„ä¸åœ¨çš„é¢éƒ¨è¯†åˆ«æ‘„åƒå¤´`ä¹Ÿåœ¨ç¡®è®¤æˆ‘çš„èº«ä»½
 
 Our `mind-set`, `long ago`, `was wired to` see safety and freedom as `an either-or choice`
-`³¤¾ÃÒÔÀ´`£¬ÎÒÃÇµÄ`Ë¼Î¬¶¨ÊÆ`ÊÇ½«°²È«ºÍ×ÔÓÉÊÓÎª`·Ç´Ë¼´±ËµÄÑ¡Ôñ`
+`é•¿ä¹…ä»¥æ¥`ï¼Œæˆ‘ä»¬çš„`æ€ç»´å®šåŠ¿`æ˜¯å°†å®‰å…¨å’Œè‡ªç”±è§†ä¸º`éæ­¤å³å½¼çš„é€‰æ‹©`
 
 As the United States and China `edge closer to` a trade agreement, the ability to reach a final deal is `coming down to` a central question: Will Beijing `live up to` its promises?
-Ëæ×ÅÃÀ¹úºÍÖĞ¹ú¾àÀëÒ»ÏîÃ³Ò×Ğ­Òé`Ô½À´Ô½½ü`£¬×îÖÕ´ï³ÉĞ­Òé½«`È¡¾öÓÚ`Ò»¸öºËĞÄÎÊÌâ£º±±¾©ÊÇ·ñ»á`¶ÒÏÖ`Æä³ĞÅµ£¿
+éšç€ç¾å›½å’Œä¸­å›½è·ç¦»ä¸€é¡¹è´¸æ˜“åè®®`è¶Šæ¥è¶Šè¿‘`ï¼Œæœ€ç»ˆè¾¾æˆåè®®å°†`å–å†³äº`ä¸€ä¸ªæ ¸å¿ƒé—®é¢˜ï¼šåŒ—äº¬æ˜¯å¦ä¼š`å…‘ç°`å…¶æ‰¿è¯ºï¼Ÿ
 
-But it `remains unclear` which `provisions` of the trade deal will `be subject to enforcement` and how much power the United States will have to punish Beijing if it `reneges on` the agreement. The ability to `secure a firm commitment` from China to `hold up its end of the pact` or face repercussions will be a key determinant in whether President Trump¡¯s trade deal is seen as a true win or a `capitulation`.
-µ«Ä¿Ç°`ÉĞ²»Çå³ş`Ã³Ò×Ğ­ÒéµÄÄÄĞ©`Ìõ¿î`ÔÚÕâÖÖÖ´ĞĞµÄ·¶Î§Ö®ÄÚ£¬ÒÔ¼°Èç¹û±±¾©`Î¥·´Ğ­Òé`£¬ÃÀ¹ú½«ÓµÓĞ¶à´óµÄ³Í·£È¨Á¦¡£ÌØÀÊÆÕ×ÜÍ³µÄÃ³Ò×Ğ­ÒéÊÇ±»ÊÓÎªÕæÕıµÄÊ¤Àû»¹ÊÇÍ¶½µ£¬¹Ø¼ü¾ö¶¨ÒòËØ½«ÔÚÓÚÄÜ·ñÈÃÖĞ¹ú`Ã÷È·³ĞÅµ`»á`ÂÄĞĞĞ­Òé`£¬·ñÔòÒªÃæÁÙ±¨¸´¡£
+But it `remains unclear` which `provisions` of the trade deal will `be subject to enforcement` and how much power the United States will have to punish Beijing if it `reneges on` the agreement. The ability to `secure a firm commitment` from China to `hold up its end of the pact` or face repercussions will be a key determinant in whether President Trumpâ€™s trade deal is seen as a true win or a `capitulation`.
+ä½†ç›®å‰`å°šä¸æ¸…æ¥š`è´¸æ˜“åè®®çš„å“ªäº›`æ¡æ¬¾`åœ¨è¿™ç§æ‰§è¡Œçš„èŒƒå›´ä¹‹å†…ï¼Œä»¥åŠå¦‚æœåŒ—äº¬`è¿ååè®®`ï¼Œç¾å›½å°†æ‹¥æœ‰å¤šå¤§çš„æƒ©ç½šæƒåŠ›ã€‚ç‰¹æœ—æ™®æ€»ç»Ÿçš„è´¸æ˜“åè®®æ˜¯è¢«è§†ä¸ºçœŸæ­£çš„èƒœåˆ©è¿˜æ˜¯æŠ•é™ï¼Œå…³é”®å†³å®šå› ç´ å°†åœ¨äºèƒ½å¦è®©ä¸­å›½`æ˜ç¡®æ‰¿è¯º`ä¼š`å±¥è¡Œåè®®`ï¼Œå¦åˆ™è¦é¢ä¸´æŠ¥å¤ã€‚
 
 China experts say enforcement is necessary `given that` the United States wants Beijing to `make significant structural changes` that will take time.
-ÖĞ¹úÎÊÌâ×¨¼Ò±íÊ¾£¬`¼øÓÚ`ÃÀ¹úÏ£Íû±±¾©×ö³öµÄ`ÖØ´ó½á¹¹¸Ä¸ï`²¢·Ç¶ÌÊ±¼äÄÚÄÜÍê³É£¬Ö´ĞĞµÄ»úÖÆÊÇ±ØÒªµÄ
+ä¸­å›½é—®é¢˜ä¸“å®¶è¡¨ç¤ºï¼Œ`é‰´äº`ç¾å›½å¸Œæœ›åŒ—äº¬åšå‡ºçš„`é‡å¤§ç»“æ„æ”¹é©`å¹¶éçŸ­æ—¶é—´å†…èƒ½å®Œæˆï¼Œæ‰§è¡Œçš„æœºåˆ¶æ˜¯å¿…è¦çš„
 
-¡°I `remain very cautious on` this,¡± Mr. Allen said. ¡°Will the Chinese really `renounce` the ability to `retaliate` at what they feel is an unfair trade action? I think it `defies` Chinese tradition.¡±
-¡°ÎÒ¶Ô´Ë`ÈÔÈ»·Ç³£½÷É÷`£¬¡±°¬Â×Ëµ¡£¡°ÖĞ¹úÈËÕæµÄ»á`·ÅÆú±¨¸´µÄÄÜÁ¦`£¬ÄÄÅÂ¿´µ½ËûÃÇÈÏÎª²»¹«Æ½µÄÃ³Ò×ĞĞÎª£¿ÎÒÈÏÎªÕâ`²»·ûºÏÖĞ¹úµÄÒ»¹á·½Ê½`¡£¡±
+â€œI `remain very cautious on` this,â€ Mr. Allen said. â€œWill the Chinese really `renounce` the ability to `retaliate` at what they feel is an unfair trade action? I think it `defies` Chinese tradition.â€
+â€œæˆ‘å¯¹æ­¤`ä»ç„¶éå¸¸è°¨æ…`ï¼Œâ€è‰¾ä¼¦è¯´ã€‚â€œä¸­å›½äººçœŸçš„ä¼š`æ”¾å¼ƒæŠ¥å¤çš„èƒ½åŠ›`ï¼Œå“ªæ€•çœ‹åˆ°ä»–ä»¬è®¤ä¸ºä¸å…¬å¹³çš„è´¸æ˜“è¡Œä¸ºï¼Ÿæˆ‘è®¤ä¸ºè¿™`ä¸ç¬¦åˆä¸­å›½çš„ä¸€è´¯æ–¹å¼`ã€‚â€
 
 Mr. Trump, who met with a Chinese delegation in the `Oval Office` last week, said negotiators might require four more weeks to finish `ironing out` the deal.
-ÌØÀÊÆÕÉÏÖÜÔÚÍÖÔ²ĞÎ°ì¹«ÊÒ»á¼ûÁËÖĞ¹ú´ú±íÍÅ£¬Ëû±íÊ¾Ì¸ÅĞ´ú±í¿ÉÄÜĞèÒªÔÙ¹ıËÄÖÜ²ÅÄÜ×îÖÕ`ÇÃ¶¨Ğ­Òé`¡£
+ç‰¹æœ—æ™®ä¸Šå‘¨åœ¨æ¤­åœ†å½¢åŠå…¬å®¤ä¼šè§äº†ä¸­å›½ä»£è¡¨å›¢ï¼Œä»–è¡¨ç¤ºè°ˆåˆ¤ä»£è¡¨å¯èƒ½éœ€è¦å†è¿‡å››å‘¨æ‰èƒ½æœ€ç»ˆ`æ•²å®šåè®®`ã€‚
 
-I `remain confident` in the `prospects` of a deal, but I think we need to be `cleareyed` and understand that China could `walk away` from expected commitments in purchases, market access, intellectual property and other areas if they don¡¯t get something out of this deal, and that¡¯s `tariff relief`
-ÎÒ¶Ô½»Ò×µÄÇ°¾°ÈÔÈ»`³äÂúĞÅĞÄ`£¬µ«ÎÒÈÏÎªÎÒÃÇĞèÒª`±£³ÖÇåĞÑµÄÍ·ÄÔ`£¬²¢ÇÒÃ÷°×Èç¹û²»ÄÜ´ÓĞ­ÒéÖĞ»ñµÃĞ©Ê²Ã´£¬ÖĞ¹ú¿ÉÄÜ»á·ÅÆú²É¹º¡¢ÊĞ³¡×¼Èë¡¢ÖªÊ¶²úÈ¨¼°ÆäËû·½ÃæÔ¤¼Æ»áÓĞµÄ³ĞÅµ£¬¶øËûÃÇÏëÒªµÄ¾ÍÊÇ`¹ØË°¼õÃâ`¡£
+I `remain confident` in the `prospects` of a deal, but I think we need to be `cleareyed` and understand that China could `walk away` from expected commitments in purchases, market access, intellectual property and other areas if they donâ€™t get something out of this deal, and thatâ€™s `tariff relief`
+æˆ‘å¯¹äº¤æ˜“çš„å‰æ™¯ä»ç„¶`å……æ»¡ä¿¡å¿ƒ`ï¼Œä½†æˆ‘è®¤ä¸ºæˆ‘ä»¬éœ€è¦`ä¿æŒæ¸…é†’çš„å¤´è„‘`ï¼Œå¹¶ä¸”æ˜ç™½å¦‚æœä¸èƒ½ä»åè®®ä¸­è·å¾—äº›ä»€ä¹ˆï¼Œä¸­å›½å¯èƒ½ä¼šæ”¾å¼ƒé‡‡è´­ã€å¸‚åœºå‡†å…¥ã€çŸ¥è¯†äº§æƒåŠå…¶ä»–æ–¹é¢é¢„è®¡ä¼šæœ‰çš„æ‰¿è¯ºï¼Œè€Œä»–ä»¬æƒ³è¦çš„å°±æ˜¯`å…³ç¨å‡å…`ã€‚
 
 Far from `panicking` at his `misfortun`e, he used his five months of severance pay to `hang out` for a few weeks with friends and `ponder` other career options
-Ëû·Çµ«Ã»ÓĞ¶Ô×Ô¼ºµÄ`¶òÔË`¸Ğµ½`¿Ö»Å`£¬·´¶øÓÃËûÄÃµ½µÄÎå¸öÔÂµÄÇ²É¢·ÑºÍÅóÓÑÃÇäìÈ÷ÁË¼¸ÖÜ£¬`×ÁÄ¥`ÆäËûµÄÖ°ÒµÑ¡Ôñ
+ä»–éä½†æ²¡æœ‰å¯¹è‡ªå·±çš„`å„è¿`æ„Ÿåˆ°`ææ…Œ`ï¼Œåè€Œç”¨ä»–æ‹¿åˆ°çš„äº”ä¸ªæœˆçš„é£æ•£è´¹å’Œæœ‹å‹ä»¬æ½‡æ´’äº†å‡ å‘¨ï¼Œ`ç¢ç£¨`å…¶ä»–çš„èŒä¸šé€‰æ‹©
 
 Yet as the Ford layoffs show, `economic warning signs` are starting to `emerge` in China. Inflation has `gradually crept up`. Economic growth has slowly `eroded`.
-È»¶ø£¬Èç¸£ÌØµÄ²ÃÔ±ËùÏÔÊ¾µÄÄÇÑù£¬`¾­¼ÃÔ¤¾¯ĞÅºÅ`ÒÑ¿ªÊ¼ÔÚÖĞ¹ú`³öÏÖ`¡£Í¨»õÅòÕÍÂÊÒÑ`Öğ½¥ÉÏÉı`¡£¾­¼ÃÔö³¤ÔòÔÚÂıÂı`¼õ»º`¡£
+ç„¶è€Œï¼Œå¦‚ç¦ç‰¹çš„è£å‘˜æ‰€æ˜¾ç¤ºçš„é‚£æ ·ï¼Œ`ç»æµé¢„è­¦ä¿¡å·`å·²å¼€å§‹åœ¨ä¸­å›½`å‡ºç°`ã€‚é€šè´§è†¨èƒ€ç‡å·²`é€æ¸ä¸Šå‡`ã€‚ç»æµå¢é•¿åˆ™åœ¨æ…¢æ…¢`å‡ç¼“`ã€‚
 
 A huge `pedestrian plaza` in the Guanyinqiao neighborhood `pulses with` lights and crowds even on weekday nights. The trees are `illuminated with bright lanterns`.
-¹ÛÒôÇÅ¸½½üµÄÒ»¸ö`¾Ş´óµÄ²½ĞĞ¹ã³¡`µÆ»ğÍ¨Ã÷£¬¼´Ê¹ÔÚ¹¤×÷ÈÕµÄÍíÉÏÒ²ÊÇÈË³±Ó¿¶¯¡£Ê÷ÉÏ`¹Ò×ÅÃ÷ÁÁµÄµÆÁı`¡£
+è§‚éŸ³æ¡¥é™„è¿‘çš„ä¸€ä¸ª`å·¨å¤§çš„æ­¥è¡Œå¹¿åœº`ç¯ç«é€šæ˜ï¼Œå³ä½¿åœ¨å·¥ä½œæ—¥çš„æ™šä¸Šä¹Ÿæ˜¯äººæ½®æ¶ŒåŠ¨ã€‚æ ‘ä¸Š`æŒ‚ç€æ˜äº®çš„ç¯ç¬¼`ã€‚
 
 Under the ground `burrows` an extensive subway system. The monorail and subway were almost `entirely` built in the last 15 years.
-³ÇÊĞµÄµØÏÂÓĞÒ»¸ö`¾Ş´óµÄ`µØÌúÏµÍ³¡£µ¥¹ìºÍµØÌú¼¸ºõ¶¼ÊÇÔÚ¹ıÈ¥15ÄêÀï½¨ÆğÀ´µÄ¡£
+åŸå¸‚çš„åœ°ä¸‹æœ‰ä¸€ä¸ª`å·¨å¤§çš„`åœ°é“ç³»ç»Ÿã€‚å•è½¨å’Œåœ°é“å‡ ä¹éƒ½æ˜¯åœ¨è¿‡å»15å¹´é‡Œå»ºèµ·æ¥çš„ã€‚
 
 Mr. Bo `ended up` sentenced to life in prison for bribetaking, `embezzlement` and abuse of power.
-×îÖÕÒòÊÜ»ß¡¢`Ì°ÎÛ`ºÍÀÄÓÃÖ°È¨±»ÅĞ´¦ÎŞÆÚÍ½ĞÌ¡£
+æœ€ç»ˆå› å—è´¿ã€`è´ªæ±¡`å’Œæ»¥ç”¨èŒæƒè¢«åˆ¤å¤„æ— æœŸå¾’åˆ‘ã€‚
 
-From the Altai Mountains to the Pacific Coast, `logging` is `ravaging` Russia¡¯s vast forests, leaving behind `swathes of scarred` earth `studded with dying stumps`.
-´Ó°¢¶ûÌ©É½Âöµ½Ì«Æ½ÑóÑØ°¶£¬`¿³·¥`ÕıÔÚ`»Ù»µ`¶íÂŞË¹¹ãÙóµÄÉ­ÁÖ£¬Ö®ºóÁôÏÂµÄ£¬ÊÇ`ÉËºÛÀÛÀÛµÄ`ÍÁµØÉÏ±é²¼×ÅµÄ`´¹ËÀÊ÷×®`¡£
+From the Altai Mountains to the Pacific Coast, `logging` is `ravaging` Russiaâ€™s vast forests, leaving behind `swathes of scarred` earth `studded with dying stumps`.
+ä»é˜¿å°”æ³°å±±è„‰åˆ°å¤ªå¹³æ´‹æ²¿å²¸ï¼Œ`ç ä¼`æ­£åœ¨`æ¯å`ä¿„ç½—æ–¯å¹¿è¢¤çš„æ£®æ—ï¼Œä¹‹åç•™ä¸‹çš„ï¼Œæ˜¯`ä¼¤ç—•ç´¯ç´¯çš„`åœŸåœ°ä¸Šéå¸ƒç€çš„`å‚æ­»æ ‘æ¡©`ã€‚
 
 Since China began restricting commercial logging in its own natural forests two decades ago, it has `increasingly` turned to Russia, importing huge amounts of wood in 2017 to satisfy the `voracious appetite` of its construction companies and furniture manufacturers.
-×Ô¶şÊ®ÄêÇ°¿ªÊ¼ÏŞÖÆ±¾¹úÌìÈ»É­ÁÖµÄÉÌÒµ²É·¥ÒÔÀ´£¬ÖĞ¹úÒÑ`ÈÕÒæ`½«Ã¬Í·×ªÏò¶íÂŞË¹£¬2017Äê½ø¿ÚÁË¾ŞÁ¿Ä¾²Ä£¬ÒÔÂú×ãÆä½¨Öş¹«Ë¾ºÍ¼Ò¾ßÖÆÔìÉÌµÄ`¾Ş´óĞèÇó`¡£
+è‡ªäºŒåå¹´å‰å¼€å§‹é™åˆ¶æœ¬å›½å¤©ç„¶æ£®æ—çš„å•†ä¸šé‡‡ä¼ä»¥æ¥ï¼Œä¸­å›½å·²`æ—¥ç›Š`å°†çŸ›å¤´è½¬å‘ä¿„ç½—æ–¯ï¼Œ2017å¹´è¿›å£äº†å·¨é‡æœ¨æï¼Œä»¥æ»¡è¶³å…¶å»ºç­‘å…¬å¸å’Œå®¶å…·åˆ¶é€ å•†çš„`å·¨å¤§éœ€æ±‚`ã€‚
 
 Environmentalists say China has simply shifted the harm of `unbridled` logging from home to abroad, even as it `reaps` the economic benefits. Some warn that the scale of logging today could `deplete` what `unspoiled` forests remain, `contributing to` global warming.
-»·±£Ö÷ÒåÕß³Æ£¬ÖĞ¹úÖ»ÊÇ°Ñ`ËÁÎŞ¼Éµ¬µÄ`²É·¥µÄÎ£º¦´Ó¹úÄÚ×ªÒÆµ½ÁËº£Íâ£¬ÉõÖÁ´ÓÖĞ`»ñµÃÁË`¾­¼ÃÀûÒæ¡£Ò»Ğ©ÈËÊ¿¾¯¸æ³Æ£¬½ñÌìµÄ·¥Ä¾¹æÄ£¿ÉÄÜ»á`ºÄ¾¡Î´ÔâÆÆ»µµÄÉ­ÁÖ`£¬´Ó¶ø`¼Ó¾ç`È«Çò±äÅ¯¡£
+ç¯ä¿ä¸»ä¹‰è€…ç§°ï¼Œä¸­å›½åªæ˜¯æŠŠ`è‚†æ— å¿Œæƒ®çš„`é‡‡ä¼çš„å±å®³ä»å›½å†…è½¬ç§»åˆ°äº†æµ·å¤–ï¼Œç”šè‡³ä»ä¸­`è·å¾—äº†`ç»æµåˆ©ç›Šã€‚ä¸€äº›äººå£«è­¦å‘Šç§°ï¼Œä»Šå¤©çš„ä¼æœ¨è§„æ¨¡å¯èƒ½ä¼š`è€—å°½æœªé­ç ´åçš„æ£®æ—`ï¼Œä»è€Œ`åŠ å‰§`å…¨çƒå˜æš–ã€‚
 
 It is one thing for Chinese demand to `overwhelm` small, poor nations `desperate for cash`, but it is another for it to `drain the resources` of a far larger country, one that regards itself as a superpower and a strategic partner to China.
-ÖĞ¹úµÄĞèÇóÁî`¼±ĞèÏÖ½ğµÄ`ÇîÀ§Ğ¡¹ú`ÎŞ·¨ÕĞ¼Ü`ÊÇÒ»»ØÊÂ£¬`ºÄ¾¡Ò»¸ö´ó¹úµÄ×ÊÔ´`¾ÍÊÇÁíÒ»»ØÊÂÁË£¬¶øÕâ¸ö¹ú¼Ò»¹½«×Ô¼ºÊÓÎª³¬¼¶´ó¹ú£¬ÒÔ¼°ÖĞ¹úµÄÕ½ÂÔ»ï°é¡£
+ä¸­å›½çš„éœ€æ±‚ä»¤`æ€¥éœ€ç°é‡‘çš„`ç©·å›°å°å›½`æ— æ³•æ‹›æ¶`æ˜¯ä¸€å›äº‹ï¼Œ`è€—å°½ä¸€ä¸ªå¤§å›½çš„èµ„æº`å°±æ˜¯å¦ä¸€å›äº‹äº†ï¼Œè€Œè¿™ä¸ªå›½å®¶è¿˜å°†è‡ªå·±è§†ä¸ºè¶…çº§å¤§å›½ï¼Œä»¥åŠä¸­å›½çš„æˆ˜ç•¥ä¼™ä¼´ã€‚
 
 What we are doing now in Siberia and the Far East is destroying what is left of the original `intact forest landscapes`
-ÎÒÃÇÑÛÏÂÔÚÎ÷²®ÀûÑÇºÍÔ¶¶«Ëù×öµÄÊÂÇéÕıÔÚ°Ñ½ö´æµÄ`Ô­Ê¼É­ÁÖ·ç¾°`»Ùµô
+æˆ‘ä»¬çœ¼ä¸‹åœ¨è¥¿ä¼¯åˆ©äºšå’Œè¿œä¸œæ‰€åšçš„äº‹æƒ…æ­£åœ¨æŠŠä»…å­˜çš„`åŸå§‹æ£®æ—é£æ™¯`æ¯æ‰
 
-The total value of China¡¯s `timber imports` ¡ª `rough logs, timber or wood pulp` ¡ª has increased more than 10 times since China began restricting logging at home in 1998
-1998ÄêÖĞ¹ú¿ªÊ¼ÏŞÖÆ¹úÄÚ·¥Ä¾ÒÔÀ´£¬ÖĞ¹úµÄ`Ä¾²Ä½ø¿Ú`×Ü¼ÛÖµ¡ª`´ÖÔ­Ä¾¡¢Ä¾²Ä»òÄ¾½¬`¡ªÔö³¤ÁË10±¶ÒÔÉÏ
+The total value of Chinaâ€™s `timber imports` â€” `rough logs, timber or wood pulp` â€” has increased more than 10 times since China began restricting logging at home in 1998
+1998å¹´ä¸­å›½å¼€å§‹é™åˆ¶å›½å†…ä¼æœ¨ä»¥æ¥ï¼Œä¸­å›½çš„`æœ¨æè¿›å£`æ€»ä»·å€¼â€”`ç²—åŸæœ¨ã€æœ¨ææˆ–æœ¨æµ†`â€”å¢é•¿äº†10å€ä»¥ä¸Š
 
 In many `rural areas` of the Russian `Far East` and Siberia, there are few other ways to make money, or to make a living, than `stripping natural resources` of the vast surrounding forests
-ÔÚ¶íÂŞË¹`Ô¶¶«`ºÍÎ÷²®ÀûÑÇµÄ`Ğí¶àÅ©´åµØÇø`£¬³ıÁË`°ş¶á`ÖÜÎ§´óÆ¬É­ÁÖµÄ×ÔÈ»×ÊÔ´£¬¼¸ºõÃ»ÓĞÆäËû×¬Ç®»òÄ±ÉúµÄ·½Ê½
+åœ¨ä¿„ç½—æ–¯`è¿œä¸œ`å’Œè¥¿ä¼¯åˆ©äºšçš„`è®¸å¤šå†œæ‘åœ°åŒº`ï¼Œé™¤äº†`å‰¥å¤º`å‘¨å›´å¤§ç‰‡æ£®æ—çš„è‡ªç„¶èµ„æºï¼Œå‡ ä¹æ²¡æœ‰å…¶ä»–èµšé’±æˆ–è°‹ç”Ÿçš„æ–¹å¼
 
-When pressed, she `declined to` discuss her `concessions` in detail, but according to the company¡¯s website, she had invested $20 million in Russia by 2015
-ÔÚ±»×·ÎÊÊ±£¬Ëı`¾Ü¾ø`Ì¸ÂÛ×Ô¼ºµÄ`ÌØĞíÈ¨`µÄÏêÇé£¬µ«¸Ã¹«Ë¾ÍøÕ¾ÏÔÊ¾£¬½ØÖÁ2015Äê£¬ËıÒÑÔÚ¶íÂŞË¹Í¶×ÊÁË2000ÍòÃÀÔª
+When pressed, she `declined to` discuss her `concessions` in detail, but according to the companyâ€™s website, she had invested $20 million in Russia by 2015
+åœ¨è¢«è¿½é—®æ—¶ï¼Œå¥¹`æ‹’ç»`è°ˆè®ºè‡ªå·±çš„`ç‰¹è®¸æƒ`çš„è¯¦æƒ…ï¼Œä½†è¯¥å…¬å¸ç½‘ç«™æ˜¾ç¤ºï¼Œæˆªè‡³2015å¹´ï¼Œå¥¹å·²åœ¨ä¿„ç½—æ–¯æŠ•èµ„äº†2000ä¸‡ç¾å…ƒ
 
 The business can be `quite profitable`, especially when Bitcoin prices are `soaring`, but the process requires `considerable amounts of electricity`.
-ÕâÏîÒµÎñ`·Ç³£ÓĞÀû¿ÉÍ¼`£¬ÌØ±ğÊÇÔÚ±ÈÌØ±Ò¼Û¸ñ`ì­Éı`µÄÊ±ºò£¬µ«Õâ¸ö¹ı³ÌĞèÒª`ºÄ·Ñ´óÁ¿µçÁ¦`
+è¿™é¡¹ä¸šåŠ¡`éå¸¸æœ‰åˆ©å¯å›¾`ï¼Œç‰¹åˆ«æ˜¯åœ¨æ¯”ç‰¹å¸ä»·æ ¼`é£™å‡`çš„æ—¶å€™ï¼Œä½†è¿™ä¸ªè¿‡ç¨‹éœ€è¦`è€—è´¹å¤§é‡ç”µåŠ›`
 
 At one point, China `accounted for roughly two-thirds` of all Bitcoin produced.
-ÖĞ¹úÒ»¶ÈÕ¼µ½±ÈÌØ±Ò`×ÜËãÁ¦µÄÈı·ÖÖ®¶ş×óÓÒ`¡£
+ä¸­å›½ä¸€åº¦å åˆ°æ¯”ç‰¹å¸`æ€»ç®—åŠ›çš„ä¸‰åˆ†ä¹‹äºŒå·¦å³`ã€‚
 
-But China `keeps a tight grip` over how much money flows in and out of its borders, and cryptocurrencies ¡ª which are traded on decentralized computer networks and allow people to make transactions anonymously ¡ª threatened to `undermine` those capital controls.
-µ«ÖĞ¹ú`ÑÏ¸ñ¿ØÖÆ`×Ê½ğµÄ½ø³ö£¬¶ø¼ÓÃÜ»õ±ÒÔÚ·ÖÉ¢µÄ¼ÆËã»úÍøÂçÉÏ½»Ò×£¬²¢ÔÊĞíÈËÃÇÄäÃû½»Ò×£¬Õâ¾ÍÓĞ¿ÉÄÜ`ÆÆ»µ`Ëü¶Ô×Ê±¾µÄ¹ÜÖÆ¡£
+But China `keeps a tight grip` over how much money flows in and out of its borders, and cryptocurrencies â€” which are traded on decentralized computer networks and allow people to make transactions anonymously â€” threatened to `undermine` those capital controls.
+ä½†ä¸­å›½`ä¸¥æ ¼æ§åˆ¶`èµ„é‡‘çš„è¿›å‡ºï¼Œè€ŒåŠ å¯†è´§å¸åœ¨åˆ†æ•£çš„è®¡ç®—æœºç½‘ç»œä¸Šäº¤æ˜“ï¼Œå¹¶å…è®¸äººä»¬åŒ¿åäº¤æ˜“ï¼Œè¿™å°±æœ‰å¯èƒ½`ç ´å`å®ƒå¯¹èµ„æœ¬çš„ç®¡åˆ¶ã€‚
 
 The Chinese authorities began to `ratchet up pressure` on Bitcoin miners.
-ÖĞ¹úµ±¾Ö¿ªÊ¼¶Ô±ÈÌØ±Ò¿ó¹¤`Ê©Ñ¹`
+ä¸­å›½å½“å±€å¼€å§‹å¯¹æ¯”ç‰¹å¸çŸ¿å·¥`æ–½å‹`
 
-Just since 1990, the `mortality rate` for children under 5 has fallen in China by 83 percent ¡ª suggesting, by my calculations, that an additional 676,000 Chinese children survive each year who previously would have died.
-×Ô1990ÄêÒÔÀ´£¬ÖĞ¹úÎåËêÒÔÏÂ¶ùÍ¯`ËÀÍöÂÊ`ÏÂ½µÁË83%¡ª¡ª¸ù¾İÎÒµÄ¼ÆËã£¬ÕâÒâÎ¶×ÅÖĞ¹úÃ¿ÄêĞÂÔö67.6ÍòÃû¶ùÍ¯´æ»îÏÂÀ´£¬ÔÚ´ËÖ®Ç°ËûÃÇ¿ÉÄÜËÀÍö¡£
+Just since 1990, the `mortality rate` for children under 5 has fallen in China by 83 percent â€” suggesting, by my calculations, that an additional 676,000 Chinese children survive each year who previously would have died.
+è‡ª1990å¹´ä»¥æ¥ï¼Œä¸­å›½äº”å²ä»¥ä¸‹å„¿ç«¥`æ­»äº¡ç‡`ä¸‹é™äº†83%â€”â€”æ ¹æ®æˆ‘çš„è®¡ç®—ï¼Œè¿™æ„å‘³ç€ä¸­å›½æ¯å¹´æ–°å¢67.6ä¸‡åå„¿ç«¥å­˜æ´»ä¸‹æ¥ï¼Œåœ¨æ­¤ä¹‹å‰ä»–ä»¬å¯èƒ½æ­»äº¡ã€‚
 
 I `used to believe` that China was best approached `with ambivalence`, but in the last few years the ambivalence has `faded into wariness`.
-ÎÒ`Ôø¾­ÈÏÎª`£¬ÓëÖĞ¹ú´ò½»µÀ×îºÃÊÇ`´ø×ÅµãÃ¬¶ÜĞÄÀí`£¬µ«ÔÚ×î½ü¼¸Äê£¬ÕâÖÖÃ¬¶ÜÒÑ`Öğ½¥Ñİ±ä³É¾¯Ìè`¡£
+æˆ‘`æ›¾ç»è®¤ä¸º`ï¼Œä¸ä¸­å›½æ‰“äº¤é“æœ€å¥½æ˜¯`å¸¦ç€ç‚¹çŸ›ç›¾å¿ƒç†`ï¼Œä½†åœ¨æœ€è¿‘å‡ å¹´ï¼Œè¿™ç§çŸ›ç›¾å·²`é€æ¸æ¼”å˜æˆè­¦æƒ•`ã€‚
 
-First, `to the extent possible`, we should try to `curb` Chinese high-technology firms¡¯ access to Western markets. These businesses are a security threat, and the Trump administration `is right to be concerned`. If a company like Huawei is asked to cooperate with Chinese State Security spies, its executives simply can¡¯t say no.
-Ê×ÏÈ£¬ÎÒÃÇÓ¦¸Ã`¾¡¿ÉÄÜµØ``ÏŞÖÆ`ÖĞ¹ú¸ß¿Æ¼¼¹«Ë¾½øÈëÎ÷·½ÊĞ³¡¡£ÕâĞ©ÆóÒµÊÇ°²È«ÍşĞ²£¬ÌØÀÊÆÕÕş¸®`ÓĞÀíÓÉ¸Ğµ½µ£ÓÇ`¡£Èç¹ûÏñ»ªÎªÕâÑùµÄ¹«Ë¾±»ÒªÇóÓëÖĞ¹ú¹ú¼Ò°²È«¼äµıºÏ×÷£¬ËüµÄ¸ß¹ÜÃÇ¿Ï¶¨²»»áËµ²»¡£
+First, `to the extent possible`, we should try to `curb` Chinese high-technology firmsâ€™ access to Western markets. These businesses are a security threat, and the Trump administration `is right to be concerned`. If a company like Huawei is asked to cooperate with Chinese State Security spies, its executives simply canâ€™t say no.
+é¦–å…ˆï¼Œæˆ‘ä»¬åº”è¯¥`å°½å¯èƒ½åœ°``é™åˆ¶`ä¸­å›½é«˜ç§‘æŠ€å…¬å¸è¿›å…¥è¥¿æ–¹å¸‚åœºã€‚è¿™äº›ä¼ä¸šæ˜¯å®‰å…¨å¨èƒï¼Œç‰¹æœ—æ™®æ”¿åºœ`æœ‰ç†ç”±æ„Ÿåˆ°æ‹…å¿§`ã€‚å¦‚æœåƒåä¸ºè¿™æ ·çš„å…¬å¸è¢«è¦æ±‚ä¸ä¸­å›½å›½å®¶å®‰å…¨é—´è°åˆä½œï¼Œå®ƒçš„é«˜ç®¡ä»¬è‚¯å®šä¸ä¼šè¯´ä¸ã€‚
 
 China purchased a Boeing 767 in 2000 to be its presidential jet and it arrived `riddled with listening devices`. China `inevitably` will `try to do to us what we already did to it`.
-2000Äê£¬ÖĞ¹ú¹ºÂòÁËÒ»¼Ü²¨Òô767·É»ú×÷ÎªÆäÁìµ¼ÈË×¨»ú£¬·É»ú½»¸¶Ê±`°²×°ÁËĞí¶à¼àÌıÉè±¸`¡£ÖĞ¹ú½«»á`ÊÔÍ¼¶ÔÎÒÃÇ×öµÄÊÂÇé£¬ÎÒÃÇÒ²×ö¹ı`£¬ÕâÊÇ`²»¿É±ÜÃâµÄ`¡£
+2000å¹´ï¼Œä¸­å›½è´­ä¹°äº†ä¸€æ¶æ³¢éŸ³767é£æœºä½œä¸ºå…¶é¢†å¯¼äººä¸“æœºï¼Œé£æœºäº¤ä»˜æ—¶`å®‰è£…äº†è®¸å¤šç›‘å¬è®¾å¤‡`ã€‚ä¸­å›½å°†ä¼š`è¯•å›¾å¯¹æˆ‘ä»¬åšçš„äº‹æƒ…ï¼Œæˆ‘ä»¬ä¹Ÿåšè¿‡`ï¼Œè¿™æ˜¯`ä¸å¯é¿å…çš„`ã€‚
 
-A few days ago, China announced that it would soon `ban all variants of` fentanyl, a welcome step that may `make a difference`. But China often promises cooperation that does not `materialize`, and everything will depend on `enforcement` over the country¡¯s 160,000 chemical companies. Too many lives `hang in the balance` to take China at its word.
-¼¸ÌìÇ°£¬ÖĞ¹úĞû²¼½«ºÜ¿ì`½ûÖ¹ËùÓĞÖÖÀàµÄ`·ÒÌ«Äá£¬ÕâÊÇÒ»¸öÁîÈËĞÀÏ²µÄ¾Ù´ë£¬¿ÉÄÜ»á`²úÉúĞ§¹û`¡£µ«ÖĞ¹ú³ĞÅµµÄºÏ×÷¾­³£µÃ²»µ½`ÊµÏÖ`£¬Ò»ÇĞ½«È¡¾öÓÚ¶ÔÖĞ¹ú16Íò¼Ò»¯¹¤ÆóÒµµÄ`Ö´·¨`¡£Õâ¹ØÏµµ½Ì«¶àÉúÃü£¬²»ÄÜÖ»ÌıÖĞ¹ú×ìÉÏËµËµ¾Íµ±Õæ¡£
+A few days ago, China announced that it would soon `ban all variants of` fentanyl, a welcome step that may `make a difference`. But China often promises cooperation that does not `materialize`, and everything will depend on `enforcement` over the countryâ€™s 160,000 chemical companies. Too many lives `hang in the balance` to take China at its word.
+å‡ å¤©å‰ï¼Œä¸­å›½å®£å¸ƒå°†å¾ˆå¿«`ç¦æ­¢æ‰€æœ‰ç§ç±»çš„`èŠ¬å¤ªå°¼ï¼Œè¿™æ˜¯ä¸€ä¸ªä»¤äººæ¬£å–œçš„ä¸¾æªï¼Œå¯èƒ½ä¼š`äº§ç”Ÿæ•ˆæœ`ã€‚ä½†ä¸­å›½æ‰¿è¯ºçš„åˆä½œç»å¸¸å¾—ä¸åˆ°`å®ç°`ï¼Œä¸€åˆ‡å°†å–å†³äºå¯¹ä¸­å›½16ä¸‡å®¶åŒ–å·¥ä¼ä¸šçš„`æ‰§æ³•`ã€‚è¿™å…³ç³»åˆ°å¤ªå¤šç”Ÿå‘½ï¼Œä¸èƒ½åªå¬ä¸­å›½å˜´ä¸Šè¯´è¯´å°±å½“çœŸã€‚
 
 Neighbors become `informants`. Children are `interrogated`. `Mosques` are monitored.
-ÁÚ¾Ó³ÉÎª`¸æÃÜÕß`¡£¶ùÍ¯Ôâµ½`ÉóÎÊ`¡£`ÇåÕæËÂ`±»¼à¿Ø¡£
+é‚»å±…æˆä¸º`å‘Šå¯†è€…`ã€‚å„¿ç«¥é­åˆ°`å®¡é—®`ã€‚`æ¸…çœŸå¯º`è¢«ç›‘æ§ã€‚
 
 Muslim minorities `line up, stone-faced, to swipe their official identity cards`. At big checkpoints, they `lift their chins` while a machine takes their photos, and wait to be notified if they can go on.
-ÉÙÊıÃñ×åÄÂË¹ÁÖ`ÃæÎŞ±íÇéµØÅÅ¶ÓË¢Éí·İÖ¤`¡£´óĞÍ¸ÚÉÚ»áÓĞ»úÆ÷¸øËûÃÇÅÄÕÕ£¬ËûÃÇ`Ì§ÆğÏÂ°Í`£¬µÈ´ı·ÅĞĞÍ¨Öª¡£
+å°‘æ•°æ°‘æ—ç©†æ–¯æ—`é¢æ— è¡¨æƒ…åœ°æ’é˜Ÿåˆ·èº«ä»½è¯`ã€‚å¤§å‹å²—å“¨ä¼šæœ‰æœºå™¨ç»™ä»–ä»¬æ‹ç…§ï¼Œä»–ä»¬`æŠ¬èµ·ä¸‹å·´`ï¼Œç­‰å¾…æ”¾è¡Œé€šçŸ¥ã€‚
 
 The extra money is not coming from Juilliard. The local government is `footing the bill`. And that could become a problem for officials `struggling with debt` after an epic `spending spree` to develop a new commercial center `from scratch`.
-¶îÍâµÄÇ®²»ÊÇÓÉÜïÀòÑÇÑ§Ôº³ö×Ê£¬¶øÊÇÓÉµ±µØÕş¸®`Âñµ¥`¡£¶ÔÒÑ¾­ÔÚ`´ó¾Ù»¨Ç®`´ÓÎŞµ½ÓĞ½¨ÆğÒ»×ùÉÌÒµÖĞĞÄµÄÕş¸®¶øÑÔ£¬Õâ¿ÉÄÜ»á³ÉÎªÎÊÌâ¡£
+é¢å¤–çš„é’±ä¸æ˜¯ç”±èŒ±è‰äºšå­¦é™¢å‡ºèµ„ï¼Œè€Œæ˜¯ç”±å½“åœ°æ”¿åºœ`åŸ‹å•`ã€‚å¯¹å·²ç»åœ¨`å¤§ä¸¾èŠ±é’±`ä»æ— åˆ°æœ‰å»ºèµ·ä¸€åº§å•†ä¸šä¸­å¿ƒçš„æ”¿åºœè€Œè¨€ï¼Œè¿™å¯èƒ½ä¼šæˆä¸ºé—®é¢˜ã€‚
 
 Four-fifths of the office space `stands empty`. Construction on other buildings has stopped, leaving skeletons in the sky. A `sprawling mall` has few shoppers. 
-ÆäÖĞÎå·ÖÖ®ËÄµÄ°ì¹«¿Õ¼ä`ÊÇ¿ÕµÄ`¡£ÆäËû½¨ÖşÎïµÄ½¨ÉèÒÑ¾­Í£Ö¹£¬Ö»ÁôÏÂ¸ßËÊµÄ¹Ç¼Ü¡£Ò»¸ö`ÅÓ´óµÄ`¹ºÎïÖĞĞÄ¼¸ºõÃ»ÓĞ¹Ë¿Í¡£
+å…¶ä¸­äº”åˆ†ä¹‹å››çš„åŠå…¬ç©ºé—´`æ˜¯ç©ºçš„`ã€‚å…¶ä»–å»ºç­‘ç‰©çš„å»ºè®¾å·²ç»åœæ­¢ï¼Œåªç•™ä¸‹é«˜è€¸çš„éª¨æ¶ã€‚ä¸€ä¸ª`åºå¤§çš„`è´­ç‰©ä¸­å¿ƒå‡ ä¹æ²¡æœ‰é¡¾å®¢ã€‚
 
 Chinese local governments are `swimming in debt`. By official accounts, that debt totals $4.5 trillion. By unofficial estimates, it could be `as large as $10 trillion`. `No one knows for sure` because much of the borrowing for projects like the Tianjin Juilliard campus is `rarely disclosed`.
-ÖĞ¹úµØ·½Õş¸®`Õ®Ì¨¸ßÖş`¡£¾İ¹Ù·½Í³¼Æ£¬Õ®Îñ×Ü¶îÎª4.5ÍòÒÚÃÀÔª¡£¾İ·Ç¹Ù·½¹À¼Æ£¬ÕâÒ»Êı×Ö¿ÉÄÜ`¸ß´ï10ÍòÒÚÃÀÔª`¡£`Ã»ÓĞÈËÈ·ÇĞÖªµÀ`£¬ÒòÎªÏñÌì½òÜïÀòÑÇÒôÀÖÑ§ÔºÕâÖÖÏîÄ¿µÄ´û¿î`ºÜÉÙ±»ÅûÂ¶`¡£
+ä¸­å›½åœ°æ–¹æ”¿åºœ`å€ºå°é«˜ç­‘`ã€‚æ®å®˜æ–¹ç»Ÿè®¡ï¼Œå€ºåŠ¡æ€»é¢ä¸º4.5ä¸‡äº¿ç¾å…ƒã€‚æ®éå®˜æ–¹ä¼°è®¡ï¼Œè¿™ä¸€æ•°å­—å¯èƒ½`é«˜è¾¾10ä¸‡äº¿ç¾å…ƒ`ã€‚`æ²¡æœ‰äººç¡®åˆ‡çŸ¥é“`ï¼Œå› ä¸ºåƒå¤©æ´¥èŒ±è‰äºšéŸ³ä¹å­¦é™¢è¿™ç§é¡¹ç›®çš„è´·æ¬¾`å¾ˆå°‘è¢«æŠ«éœ²`ã€‚
 
-But China is not growing `as fast as it used to`, and it is not clear that the ¡°build it and they will come¡± model will save Yujiapu and other places with big debts. The national government now must find other ways to `spur growth` ¡ª without `making the debt problem worse`.
-µ«ÖĞ¹úµÄ¾­¼ÃÔö³¤ËÙ¶ÈÒÑ²»Èç´ÓÇ°£¬¡°Ö»Òª¸ÇºÃÁË£¬Ò»ÇĞ¶¼»áÀ´¡±µÄÄ£Ê½ÄÜ·ñÕü¾ÈÓÚ¼Ò±¤µÈÕ®Ì¨¸ßÖşµÄµØ·½£¬Ä¿Ç°»¹²»Çå³ş¡£¹ú¼ÒÕş¸®ÏÖÔÚ±ØĞëÕÒµ½ÆäËû·½·¨À´`´Ì¼¤¾­¼ÃÔö³¤`¡ªÍ¬Ê±²»ÈÃÕ®ÎñÎÊÌâ`¸ü¼Ó¶ñ»¯`¡£
+But China is not growing `as fast as it used to`, and it is not clear that the â€œbuild it and they will comeâ€ model will save Yujiapu and other places with big debts. The national government now must find other ways to `spur growth` â€” without `making the debt problem worse`.
+ä½†ä¸­å›½çš„ç»æµå¢é•¿é€Ÿåº¦å·²ä¸å¦‚ä»å‰ï¼Œâ€œåªè¦ç›–å¥½äº†ï¼Œä¸€åˆ‡éƒ½ä¼šæ¥â€çš„æ¨¡å¼èƒ½å¦æ‹¯æ•‘äºå®¶å ¡ç­‰å€ºå°é«˜ç­‘çš„åœ°æ–¹ï¼Œç›®å‰è¿˜ä¸æ¸…æ¥šã€‚å›½å®¶æ”¿åºœç°åœ¨å¿…é¡»æ‰¾åˆ°å…¶ä»–æ–¹æ³•æ¥`åˆºæ¿€ç»æµå¢é•¿`â€”åŒæ—¶ä¸è®©å€ºåŠ¡é—®é¢˜`æ›´åŠ æ¶åŒ–`ã€‚
 
 If Yujiapu really is the Manhattan of China, it has a way to go to `catch up to the real thing`. Its `avenues`, some nearly as wide as Broadway, are `eerily quiet`.
-Èç¹ûÓÚ¼Ò±¤ÕæÊÇÖĞ¹úµÄÂü¹ş¶Ù£¬ÄÇËü»¹ÓĞºÜ³¤µÄÂ·Òª×ß¡£ËüµÄ`½ÖµÀ`ÓĞĞ©¼¸ºõºÍ°ÙÀÏ»ãÒ»Ñù¿í£¬µ«ÊÇ`³öÆæµÄ°²¾²`
+å¦‚æœäºå®¶å ¡çœŸæ˜¯ä¸­å›½çš„æ›¼å“ˆé¡¿ï¼Œé‚£å®ƒè¿˜æœ‰å¾ˆé•¿çš„è·¯è¦èµ°ã€‚å®ƒçš„`è¡—é“`æœ‰äº›å‡ ä¹å’Œç™¾è€æ±‡ä¸€æ ·å®½ï¼Œä½†æ˜¯`å‡ºå¥‡çš„å®‰é™`
 
 If the `political will collapses` for the Binhai area, then the bank loans will begin to `dry up` and the whole area is in trouble
-Èç¹û±õº£ĞÂÇøµÄ`ÕşÖÎÒâÖ¾±ÀÀ£`£¬ÄÇÃ´ÒøĞĞ´û¿î½«¿ªÊ¼`¿İ½ß`£¬Õû¸öµØÇø¶¼»áÏİÈëÀ§¾³
+å¦‚æœæ»¨æµ·æ–°åŒºçš„`æ”¿æ²»æ„å¿—å´©æºƒ`ï¼Œé‚£ä¹ˆé“¶è¡Œè´·æ¬¾å°†å¼€å§‹`æ¯ç«­`ï¼Œæ•´ä¸ªåœ°åŒºéƒ½ä¼šé™·å…¥å›°å¢ƒ
 
-Many residents believe Yujiapu¡¯s problems have been `overstated` and try to `cast its emptiness in a positive light`
-Ğí¶à¾ÓÃñÈÏÎªÓÚ¼Ò±¤µÄÎÊÌâ±»`¿ä´ó`ÁË£¬²¢ÊÔÍ¼`´ÓÕıÃæ¿´´ı¿ÕÖÃÏÖÏó`
+Many residents believe Yujiapuâ€™s problems have been `overstated` and try to `cast its emptiness in a positive light`
+è®¸å¤šå±…æ°‘è®¤ä¸ºäºå®¶å ¡çš„é—®é¢˜è¢«`å¤¸å¤§`äº†ï¼Œå¹¶è¯•å›¾`ä»æ­£é¢çœ‹å¾…ç©ºç½®ç°è±¡`
 
-¡°Now, there are `quite a lot of` internet companies, including some e-commerce platforms,¡± he said, `speculating` that these companies could move into his building in the future.
-¡°ÏÖÔÚÄã¿´»¥ÁªÍø¹«Ë¾¾Í±È½Ï¶àÁË£¬°üÀ¨Ò»Ğ©µçÉÌÆ½Ì¨£¬¡±ËûËµ£¬Ëû`²Â²â`ÕâĞ©¹«Ë¾½«À´»á°á½øËûËùÔÚµÄ´óÂ¥¡£
+â€œNow, there are `quite a lot of` internet companies, including some e-commerce platforms,â€ he said, `speculating` that these companies could move into his building in the future.
+â€œç°åœ¨ä½ çœ‹äº’è”ç½‘å…¬å¸å°±æ¯”è¾ƒå¤šäº†ï¼ŒåŒ…æ‹¬ä¸€äº›ç”µå•†å¹³å°ï¼Œâ€ä»–è¯´ï¼Œä»–`çŒœæµ‹`è¿™äº›å…¬å¸å°†æ¥ä¼šæ¬è¿›ä»–æ‰€åœ¨çš„å¤§æ¥¼ã€‚
 
 Just as he had on previous trips, Zhu Feng `bolted down` his lunch at the Los Angeles airport before `sprinting to catch` his Air China flight back to Beijing.
-ºÍÇ°¼¸´ÎÂÃĞĞÊ±Ò»Ñù£¬Öì·åÔÚÂåÉ¼í¶»ú³¡`´Ò´Ò³ÔÍê`Îç²Íºó£¬`ÅÜÈ¥¸Ï`ÖĞ¹ú¹ú¼Êº½¿Õ¹«Ë¾µÄº½°à»Ø±±¾©¡£
+å’Œå‰å‡ æ¬¡æ—…è¡Œæ—¶ä¸€æ ·ï¼Œæœ±å³°åœ¨æ´›æ‰çŸ¶æœºåœº`åŒ†åŒ†åƒå®Œ`åˆé¤åï¼Œ`è·‘å»èµ¶`ä¸­å›½å›½é™…èˆªç©ºå…¬å¸çš„èˆªç­å›åŒ—äº¬ã€‚
 
 They `flipped to` the well-used 10-year visa to the United States and `crossed out` the page with a black pen.
-ËûÃÇ`·­µ½`ÒÑ¾­ÓÃ¹ı¶à´ÎµÄÀ´ÃÀ10ÄêÇ©Ö¤ÄÇÒ³£¬ÓÃÒ»Ö§ºÚ±ÊÔÚÉÏÃæ`´òÁË¸ö´ó²æ`¡£
+ä»–ä»¬`ç¿»åˆ°`å·²ç»ç”¨è¿‡å¤šæ¬¡çš„æ¥ç¾10å¹´ç­¾è¯é‚£é¡µï¼Œç”¨ä¸€æ”¯é»‘ç¬”åœ¨ä¸Šé¢`æ‰“äº†ä¸ªå¤§å‰`ã€‚
 
-Now, that door appears to be closing, with the two nations `ramping up their strategic rivalry` and each regarding academic visitors from the other with greater suspicion ¡ª of espionage, commercial theft and `political meddling`.
-ÏÖÔÚ£¬ÕâÉÈÃÅËÆºõÕıÔÚ¹Ø±Õ£¬Á½¹úÖ®¼äµÄ`Õ½ÂÔ¾ºÕùÈÕÒæ¼Ó¾ç`£¬±Ë´Ë¶¼¶Ô¶Ô·½µÄÑ§Êõ·ÃÎÊÕßÓĞ¸ü´óµÄ»³ÒÉ£¬»³ÒÉËûÃÇ´ÓÊÂ¼äµı»î¶¯¡¢ÉÌÒµµÁÇÔºÍ`ÕşÖÎ¸ÉÔ¤`¡£
+Now, that door appears to be closing, with the two nations `ramping up their strategic rivalry` and each regarding academic visitors from the other with greater suspicion â€” of espionage, commercial theft and `political meddling`.
+ç°åœ¨ï¼Œè¿™æ‰‡é—¨ä¼¼ä¹æ­£åœ¨å…³é—­ï¼Œä¸¤å›½ä¹‹é—´çš„`æˆ˜ç•¥ç«äº‰æ—¥ç›ŠåŠ å‰§`ï¼Œå½¼æ­¤éƒ½å¯¹å¯¹æ–¹çš„å­¦æœ¯è®¿é—®è€…æœ‰æ›´å¤§çš„æ€€ç–‘ï¼Œæ€€ç–‘ä»–ä»¬ä»äº‹é—´è°æ´»åŠ¨ã€å•†ä¸šç›—çªƒå’Œ`æ”¿æ²»å¹²é¢„`ã€‚
 
-¡°These people are among the most `sophisticated` in how the U.S. works and are some of the `strongest advocates` of good relations with the United States,¡±
-We are `alienating` some of America¡¯s best friends in China.¡±
-¡°ÕâĞ©ÈËÖĞÓĞĞ©ÊÇ`×îÁË½â`ÃÀ¹úÈçºÎÔË×÷µÄÈË£¬Ò²ÊÇ`×îÇ¿ÁÒÖ÷ÕÅ`ÓëÃÀ¹ú±£³ÖÁ¼ºÃ¹ØÏµµÄÈË£¬ÎÒÃÇÕıÔÚ`ÊèÔ¶`ÃÀ¹úÔÚÖĞ¹úµÄÒ»Ğ©×îºÃµÄÅóÓÑ¡£¡±
+â€œThese people are among the most `sophisticated` in how the U.S. works and are some of the `strongest advocates` of good relations with the United States,â€
+We are `alienating` some of Americaâ€™s best friends in China.â€
+â€œè¿™äº›äººä¸­æœ‰äº›æ˜¯`æœ€äº†è§£`ç¾å›½å¦‚ä½•è¿ä½œçš„äººï¼Œä¹Ÿæ˜¯`æœ€å¼ºçƒˆä¸»å¼ `ä¸ç¾å›½ä¿æŒè‰¯å¥½å…³ç³»çš„äººï¼Œæˆ‘ä»¬æ­£åœ¨`ç–è¿œ`ç¾å›½åœ¨ä¸­å›½çš„ä¸€äº›æœ€å¥½çš„æœ‹å‹ã€‚â€
 
 `A driving rain lashed the hills` while the premier was there on Thursday.
-ÔÚ×ÜÀíµ½·ÃµÄÖÜ¶ş£¬`É½ÉÏÏÂÆğÁË±©Óê`¡£
+åœ¨æ€»ç†åˆ°è®¿çš„å‘¨äºŒï¼Œ`å±±ä¸Šä¸‹èµ·äº†æš´é›¨`ã€‚
 
 The `reassuring language` was part of `a broader effort` to convince `increasingly skeptical` European nations that China comes in peace.
-´ËÖÖ`°²¸§ĞÔµÄ±íÊö`ÊôÓÚ`Ò»Ïî×ÜÌåĞĞ¶¯`µÄÒ»²¿·Ö£¬ÆäÄ¿±êÊÇÈÃ`ÈÕÒæ³Ö»³ÒÉÌ¬¶ÈµÄ`Å·ÖŞ¹ú¼ÒÈ·ĞÅ£¬ÖĞ¹úÃ»ÓĞ¶ñÒâ¡£
+æ­¤ç§`å®‰æŠšæ€§çš„è¡¨è¿°`å±äº`ä¸€é¡¹æ€»ä½“è¡ŒåŠ¨`çš„ä¸€éƒ¨åˆ†ï¼Œå…¶ç›®æ ‡æ˜¯è®©`æ—¥ç›ŠæŒæ€€ç–‘æ€åº¦çš„`æ¬§æ´²å›½å®¶ç¡®ä¿¡ï¼Œä¸­å›½æ²¡æœ‰æ¶æ„ã€‚
 
-The `thickening ranks` of China¡¯s economic allies have left European officials `increasingly wary`. Last month, Italy formally signed on to China¡¯s vast ¡®¡®One Belt, One Road¡¯¡¯ project, new Silk Road into Europe. On Friday, the summit meeting was `capped by Greece¡¯s announcement` that it had joined, too.
-ÖĞ¹ú¾­¼ÃÃËÓÑ¶ÓÎéµÄ`À©´ó`Ê¹Å·ÖŞ¹ÙÔ±`Ô½À´Ô½¾¯Ìè`¡£ÉÏÔÂ£¬Òâ´óÀûÕıÊ½¼ÓÈëÖĞ¹úÅÓ´óµÄ¡°Ò»´øÒ»Â·¡±ÏîÄ¿£¬¼´½øÈëÅ·ÖŞµÄĞÂË¿³ñÖ®Â·¡£ÔÚÖÜÎåµÄ·å»áÉÏ£¬Ï£À°Ò²Ğû²¼¼ÓÈë¡£
+The `thickening ranks` of Chinaâ€™s economic allies have left European officials `increasingly wary`. Last month, Italy formally signed on to Chinaâ€™s vast â€˜â€˜One Belt, One Roadâ€™â€™ project, new Silk Road into Europe. On Friday, the summit meeting was `capped by Greeceâ€™s announcement` that it had joined, too.
+ä¸­å›½ç»æµç›Ÿå‹é˜Ÿä¼çš„`æ‰©å¤§`ä½¿æ¬§æ´²å®˜å‘˜`è¶Šæ¥è¶Šè­¦æƒ•`ã€‚ä¸Šæœˆï¼Œæ„å¤§åˆ©æ­£å¼åŠ å…¥ä¸­å›½åºå¤§çš„â€œä¸€å¸¦ä¸€è·¯â€é¡¹ç›®ï¼Œå³è¿›å…¥æ¬§æ´²çš„æ–°ä¸ç»¸ä¹‹è·¯ã€‚åœ¨å‘¨äº”çš„å³°ä¼šä¸Šï¼Œå¸Œè…Šä¹Ÿå®£å¸ƒåŠ å…¥ã€‚
 
-That does not mean that `all is roses` even between China and its newly `forged economic allies` in the group. But by `aggressively courting the nations` on Europe¡¯s eastern and `southern flank`, Western officials worry that China is `stoking division` within the European Union.
-Õâ²¢²»ÒâÎ¶×Å`Ò»ÍÅºÍÆø`£¬¼´±ãÔÚÖĞ¹úºÍ¼¯ÍÅÄÚµÄ`ĞÂ¾­¼ÃÃËÓÑ`Ö®¼ä¶¼Ì¸²»ÉÏ¡£µ«ÊÇ£¬Èç´Ë`´ó¾ÙÀ­Â£`Å·ÖŞ¶«²¿ºÍ`ÄÏ²¿²àÒí`µÄ¹ú¼Ò£¬ÁîÎ÷·½¹ÙÔ±µ£ĞÄÖĞ¹úÕıÔÚ`¼Ó¾çÅ·ÃËÄÚ²¿µÄ·ÖÁÑ`¡£
+That does not mean that `all is roses` even between China and its newly `forged economic allies` in the group. But by `aggressively courting the nations` on Europeâ€™s eastern and `southern flank`, Western officials worry that China is `stoking division` within the European Union.
+è¿™å¹¶ä¸æ„å‘³ç€`ä¸€å›¢å’Œæ°”`ï¼Œå³ä¾¿åœ¨ä¸­å›½å’Œé›†å›¢å†…çš„`æ–°ç»æµç›Ÿå‹`ä¹‹é—´éƒ½è°ˆä¸ä¸Šã€‚ä½†æ˜¯ï¼Œå¦‚æ­¤`å¤§ä¸¾æ‹‰æ‹¢`æ¬§æ´²ä¸œéƒ¨å’Œ`å—éƒ¨ä¾§ç¿¼`çš„å›½å®¶ï¼Œä»¤è¥¿æ–¹å®˜å‘˜æ‹…å¿ƒä¸­å›½æ­£åœ¨`åŠ å‰§æ¬§ç›Ÿå†…éƒ¨çš„åˆ†è£‚`ã€‚
 
-¡°I think that the fact that today we became `17 plus one` is the good news of the day,¡± Greek Prime Minister Alexis Tspiras said on Friday. ¡°I look forward to working with all of you `in the framework of this initiative` in `full respect of the rules and procedures` of the European Union.¡±
-¡°ÎÒÈÏÎª£¬½ñÌìÎÒÃÇ³ÉÎª`17+1`ÕâÒ»ÊÂÊµÊÇÖØ´óÀûºÃ£¬¡±Ï£À°×ÜÀíÑÇÀú¿ËÎ÷Ë¹¡¤ÆëÆÕÀ­Ë¹(Alexis Tspiras)ÖÜÎå±íÊ¾¡£¡°ÎÒÆÚ´ıÔÚ`³ä·Ö×ğÖØÅ·ÃË¹æÔòºÍ³ÌĞò`µÄÇé¿öÏÂ£¬ÔÚÕâÏî`³«ÒéµÄ¿ò¼ÜÄÚ`Óë´ó¼ÒºÏ×÷¡£¡±
+â€œI think that the fact that today we became `17 plus one` is the good news of the day,â€ Greek Prime Minister Alexis Tspiras said on Friday. â€œI look forward to working with all of you `in the framework of this initiative` in `full respect of the rules and procedures` of the European Union.â€
+â€œæˆ‘è®¤ä¸ºï¼Œä»Šå¤©æˆ‘ä»¬æˆä¸º`17+1`è¿™ä¸€äº‹å®æ˜¯é‡å¤§åˆ©å¥½ï¼Œâ€å¸Œè…Šæ€»ç†äºšå†å…‹è¥¿æ–¯Â·é½æ™®æ‹‰æ–¯(Alexis Tspiras)å‘¨äº”è¡¨ç¤ºã€‚â€œæˆ‘æœŸå¾…åœ¨`å……åˆ†å°Šé‡æ¬§ç›Ÿè§„åˆ™å’Œç¨‹åº`çš„æƒ…å†µä¸‹ï¼Œåœ¨è¿™é¡¹`å€¡è®®çš„æ¡†æ¶å†…`ä¸å¤§å®¶åˆä½œã€‚â€
 
-China¡¯s presence is no longer `a novelty` in this part of Europe, where its track record is `decidedly more complicated` than it was when the `economic bloc` was formed.
-ÔÚÅ·ÖŞµÄÕâÒ»ÇøÓò£¬ÖĞ¹úµÄ´æÔÚÒÑ¾­²»ÊÇ`ĞÂÏÊÊÂ`£¬µ«´ËÊ±ÖĞ¹úµÄ¹ıÍù±íÏÖ`ÎŞÒÉ`Òª±È`¾­¼Ã¼¯ÍÅ`ĞÎ³ÉÊ±¸ü¸´ÔÓ¡£
+Chinaâ€™s presence is no longer `a novelty` in this part of Europe, where its track record is `decidedly more complicated` than it was when the `economic bloc` was formed.
+åœ¨æ¬§æ´²çš„è¿™ä¸€åŒºåŸŸï¼Œä¸­å›½çš„å­˜åœ¨å·²ç»ä¸æ˜¯`æ–°é²œäº‹`ï¼Œä½†æ­¤æ—¶ä¸­å›½çš„è¿‡å¾€è¡¨ç°`æ— ç–‘`è¦æ¯”`ç»æµé›†å›¢`å½¢æˆæ—¶æ›´å¤æ‚ã€‚
 
-Similarly, the Czech Republic, led by the `avowed Sinophile` President Milos Zeman, has traditionally been among Europe¡¯s `most solicitous` nations. But calls by its cybersecurity agency to limit the use of Huawei as well as the tech giant ZTE in critical infrastructure have `infuriated` Beijing.
-½İ¿Ë¹²ºÍ¹úÔÚ`¹«¿ª±íÊ¾Ç×»ªµÄ`×ÜÍ³Ã×ÂåÊ²¡¤ÔóÂüÁìµ¼ÏÂ£¬ÀúÀ´ÊÇ¶ÔÖĞ¹ú`×îÈÈÇéµÄ`Å·ÖŞ¹ú¼ÒÖ®Ò»¡£µ«ÆäÍøÂç°²È«»ú¹¹Í¬ÑùÒªÇóÏŞÖÆ»ªÎªºÍ¿Æ¼¼¾ŞÍ·ÖĞĞËÔÚ¹Ø¼ü»ù´¡ÉèÊ©ÖĞµÄÊ¹ÓÃ£¬Áî±±¾©`´óÎª¹â»ğ`¡£
+Similarly, the Czech Republic, led by the `avowed Sinophile` President Milos Zeman, has traditionally been among Europeâ€™s `most solicitous` nations. But calls by its cybersecurity agency to limit the use of Huawei as well as the tech giant ZTE in critical infrastructure have `infuriated` Beijing.
+æ·å…‹å…±å’Œå›½åœ¨`å…¬å¼€è¡¨ç¤ºäº²åçš„`æ€»ç»Ÿç±³æ´›ä»€Â·æ³½æ›¼é¢†å¯¼ä¸‹ï¼Œå†æ¥æ˜¯å¯¹ä¸­å›½`æœ€çƒ­æƒ…çš„`æ¬§æ´²å›½å®¶ä¹‹ä¸€ã€‚ä½†å…¶ç½‘ç»œå®‰å…¨æœºæ„åŒæ ·è¦æ±‚é™åˆ¶åä¸ºå’Œç§‘æŠ€å·¨å¤´ä¸­å…´åœ¨å…³é”®åŸºç¡€è®¾æ–½ä¸­çš„ä½¿ç”¨ï¼Œä»¤åŒ—äº¬`å¤§ä¸ºå…‰ç«`ã€‚
 
-In Hungary, Prime Minister Viktor Orban declared his China friendly ¡®¡®Opening to the East¡¯¡¯ policy in 2010, and has sought to `use the prospect of a flood of money` from China as leverage in his `ongoing battles` with Brussels over his government¡¯s `authoritarian drift`. Yet there have been no major new Chinese investments for the past seven years.
-ÔÚĞÙÑÀÀû£¬×ÜÀíÅ·¶û°à¡¤Î¬¿ËÍĞ(Viktor Orban)2010ÄêĞû²¼ÁË¶ÔÖĞ¹úÓÑºÃµÄ¡°Ïò¶«¿ª·Å¡±Õş²ß£¬²¢ÔÚÍ¬Å·ÃË¾ÍÆäÕş¸®µÄ`ÍşÈ¨Ö÷ÒåÇãÏò`Õ¹¿ªµÄ`³ÖĞø¶·Õù`ÖĞ£¬`ÀûÓÃÖĞ¹ú×Ê½ğ´óÁ¿Ó¿ÈëµÄÇ°¾°`Îª³ïÂë¡£È»¶ø£¬ÔÚ¹ıÈ¥ÆßÄêÀï£¬ÖĞ¹úÃ»ÓĞ½øĞĞÈÎºÎÖØ´óµÄĞÂÍ¶×Ê¡£
+In Hungary, Prime Minister Viktor Orban declared his China friendly â€˜â€˜Opening to the Eastâ€™â€™ policy in 2010, and has sought to `use the prospect of a flood of money` from China as leverage in his `ongoing battles` with Brussels over his governmentâ€™s `authoritarian drift`. Yet there have been no major new Chinese investments for the past seven years.
+åœ¨åŒˆç‰™åˆ©ï¼Œæ€»ç†æ¬§å°”ç­Â·ç»´å…‹æ‰˜(Viktor Orban)2010å¹´å®£å¸ƒäº†å¯¹ä¸­å›½å‹å¥½çš„â€œå‘ä¸œå¼€æ”¾â€æ”¿ç­–ï¼Œå¹¶åœ¨åŒæ¬§ç›Ÿå°±å…¶æ”¿åºœçš„`å¨æƒä¸»ä¹‰å€¾å‘`å±•å¼€çš„`æŒç»­æ–—äº‰`ä¸­ï¼Œ`åˆ©ç”¨ä¸­å›½èµ„é‡‘å¤§é‡æ¶Œå…¥çš„å‰æ™¯`ä¸ºç­¹ç ã€‚ç„¶è€Œï¼Œåœ¨è¿‡å»ä¸ƒå¹´é‡Œï¼Œä¸­å›½æ²¡æœ‰è¿›è¡Œä»»ä½•é‡å¤§çš„æ–°æŠ•èµ„ã€‚
 
-¡°Instead of `engaging endlessly` with China and `pleading for` it to change its ways,¡± said Francois Godement, a senior adviser for Asia at the Institut Montaigne in Paris, ¡°the Commission suggests that Europe should change track and `adopt` a set of robust defensive policies, some of which will have an effect whatever China¡¯s response may be.¡±
-¡°ÓëÆä`ÎŞĞİÖ¹µØÓëÖĞ¹ú½Ó´¥`£¬`¿ÒÇó`ÖĞ¹ú¸Ä±äËüµÄ·½Ê½£¬¡±°ÍÀèÃÉÌïÑĞ¾¿ËùµÄ×ÊÉîÑÇÖŞÎÊÌâ×¨¼Ò¹ËµÂÃ÷Ëµ£¬¡°Å·ÃËÎ¯Ô±»á½¨Òé£¬Å·ÖŞÓ¦¸Ã¸Ä±ä·½Ïò£¬`²ÉÓÃ`Ò»Ì×¼á¶¨µÄ·ÀÓùÕş²ß£¬ÆäÖĞÒ»Ğ©ÎŞÂÛÖĞ¹ú×÷³öÊ²Ã´·´Ó¦¶¼»áÆğ×÷ÓÃ¡£¡±
+â€œInstead of `engaging endlessly` with China and `pleading for` it to change its ways,â€ said Francois Godement, a senior adviser for Asia at the Institut Montaigne in Paris, â€œthe Commission suggests that Europe should change track and `adopt` a set of robust defensive policies, some of which will have an effect whatever Chinaâ€™s response may be.â€
+â€œä¸å…¶`æ— ä¼‘æ­¢åœ°ä¸ä¸­å›½æ¥è§¦`ï¼Œ`æ³æ±‚`ä¸­å›½æ”¹å˜å®ƒçš„æ–¹å¼ï¼Œâ€å·´é»è’™ç”°ç ”ç©¶æ‰€çš„èµ„æ·±äºšæ´²é—®é¢˜ä¸“å®¶é¡¾å¾·æ˜è¯´ï¼Œâ€œæ¬§ç›Ÿå§”å‘˜ä¼šå»ºè®®ï¼Œæ¬§æ´²åº”è¯¥æ”¹å˜æ–¹å‘ï¼Œ`é‡‡ç”¨`ä¸€å¥—åšå®šçš„é˜²å¾¡æ”¿ç­–ï¼Œå…¶ä¸­ä¸€äº›æ— è®ºä¸­å›½ä½œå‡ºä»€ä¹ˆååº”éƒ½ä¼šèµ·ä½œç”¨ã€‚â€
 
 Now, China has agreed to cut the price tag on the project by one-third to $11 billion, in a `tacit acknowledgment` that the economics of the original deal did not `make financial sense`.
-ÏÖÔÚ£¬ÖĞ¹úÒÑÍ¬Òâ½«¸ÃÏîÄ¿µÄ¼Û¸ñ½µµÍÈı·ÖÖ®Ò»£¬¼õÎª110ÒÚÃÀÔª£¬Ä¬ÈÏÁËÔ­À´µÄĞ­ÒéÔÚ`¾­¼ÃÉÏĞĞ²»Í¨`¡£
+ç°åœ¨ï¼Œä¸­å›½å·²åŒæ„å°†è¯¥é¡¹ç›®çš„ä»·æ ¼é™ä½ä¸‰åˆ†ä¹‹ä¸€ï¼Œå‡ä¸º110äº¿ç¾å…ƒï¼Œé»˜è®¤äº†åŸæ¥çš„åè®®åœ¨`ç»æµä¸Šè¡Œä¸é€š`ã€‚
 
-the program provided a way to use the country¡¯s `economic clout` to build trade ties and win friends across Asia, Africa and Europe
-¸ÃÏîÄ¿ÎªÀûÓÃÖĞ¹úµÄ`¾­¼ÃÓ°ÏìÁ¦`½¨Á¢Ã³Ò×ÁªÏµ£¬ÔÚÑÇÖŞ¡¢·ÇÖŞºÍÅ·ÖŞ¹ã½»ÅóÓÑÌá¹©ÁËÒ»ÌõÍ¾¾¶¡£
+the program provided a way to use the countryâ€™s `economic clout` to build trade ties and win friends across Asia, Africa and Europe
+è¯¥é¡¹ç›®ä¸ºåˆ©ç”¨ä¸­å›½çš„`ç»æµå½±å“åŠ›`å»ºç«‹è´¸æ˜“è”ç³»ï¼Œåœ¨äºšæ´²ã€éæ´²å’Œæ¬§æ´²å¹¿äº¤æœ‹å‹æä¾›äº†ä¸€æ¡é€”å¾„ã€‚
 
 As the new government began to `pare back the debt`, Mr. Mahathir announced that the administration would halt the East Coast Rail Link project and the gas pipeline deal, `citing the high costs`.
-Ëæ×ÅĞÂÕş¸®¿ªÊ¼`Ï÷¼õÕ®Îñ`£¬Âí¹şµÙ¶ûĞû²¼£¬`ÓÉÓÚ³É±¾¸ß°º`£¬Õş¸®½«ÔİÍ£¶«º£°¶ÌúÂ·ÏßÏîÄ¿ºÍÌìÈ»Æø¹ÜµÀ½»Ò×¡£
+éšç€æ–°æ”¿åºœå¼€å§‹`å‰Šå‡å€ºåŠ¡`ï¼Œé©¬å“ˆè’‚å°”å®£å¸ƒï¼Œ`ç”±äºæˆæœ¬é«˜æ˜‚`ï¼Œæ”¿åºœå°†æš‚åœä¸œæµ·å²¸é“è·¯çº¿é¡¹ç›®å’Œå¤©ç„¶æ°”ç®¡é“äº¤æ˜“ã€‚
 
-The `shaky` video clips of Julian Assange¡¯s arrest `flashed around the world` Thursday, the white-bearded `prophet` of the age of leaks being `hauled` by `unsmiling` security officers to a gray van marked Police.
-ÖìÀû°²¡¤°¢É£Ææ(Julian Assange)ÖÜËÄ±»²¶µÄ³¡Ãæ±»`»Î¶¯µÄ`ÊÓÆµ²¶×½ÏÂÀ´£¬`Ñ¸ËÙÔÚÈ«Çò·¶Î§ÄÚ´«²¥`¡£ÕâÎ»Ğî×Å°×ºú×ÓµÄĞ¹ÃÜÊ±´ú`ÏÈÖª`£¬±»`ÃæÎŞĞ¦ÈİµÄ`°²±£ÈËÔ±`ÍÏÉÏ`ÁËÒ»Á¾´øÓĞ¡°¾¯²ì¡±×ÖÑùµÄ»ÒÉ«Ãæ°ü³µ¡£
+The `shaky` video clips of Julian Assangeâ€™s arrest `flashed around the world` Thursday, the white-bearded `prophet` of the age of leaks being `hauled` by `unsmiling` security officers to a gray van marked Police.
+æœ±åˆ©å®‰Â·é˜¿æ¡‘å¥‡(Julian Assange)å‘¨å››è¢«æ•çš„åœºé¢è¢«`æ™ƒåŠ¨çš„`è§†é¢‘æ•æ‰ä¸‹æ¥ï¼Œ`è¿…é€Ÿåœ¨å…¨çƒèŒƒå›´å†…ä¼ æ’­`ã€‚è¿™ä½è“„ç€ç™½èƒ¡å­çš„æ³„å¯†æ—¶ä»£`å…ˆçŸ¥`ï¼Œè¢«`é¢æ— ç¬‘å®¹çš„`å®‰ä¿äººå‘˜`æ‹–ä¸Š`äº†ä¸€è¾†å¸¦æœ‰â€œè­¦å¯Ÿâ€å­—æ ·çš„ç°è‰²é¢åŒ…è½¦ã€‚
 
-It was also the latest ¡ª and surely not the last ¡ª `dramatic turn` in a career marked by both brilliant achievement and `dubious judgment`. Assange has long had `a knack for celebrity`, and as a `tech-savvy`, global, almost `stateless figure`, he captured the new influence the internet could give to individual citizens.
-ÕâÒ²ÊÇËûÖ°ÒµÉúÑÄÖĞ×îĞÂµÄ¡ªµ±È»Ò²²»»áÊÇ×îºóÒ»´Î¡ª`Ï·¾çĞÔ×ªÕÛ`£¬Õâ¶ÎÉúÑÄ¼ÈÓĞ»Ô»ÍµÄ³É¾Í£¬Ò²ÓĞÁîÈË`ÆğÒÉµÄÅĞ¶Ï`¡£³¤ÆÚÒÔÀ´£¬°¢É£Ææ`ÉîÚÏ³ÉÃûÖ®µÀ`¡£×÷ÎªÒ»¸ö`¾«Í¨¼¼Êõ`¡¢ËÄº£Îª¼Ò¡¢`¼¸ºõÃ»ÓĞ¹ú¼®µÄ`ÈËÎï£¬Ëû×¥×¡ÁË»¥ÁªÍø¿ÉÄÜ¸ø¸öÌåÃñÖÚ´øÀ´µÄĞÂÓ°ÏìÁ¦¡£
+It was also the latest â€” and surely not the last â€” `dramatic turn` in a career marked by both brilliant achievement and `dubious judgment`. Assange has long had `a knack for celebrity`, and as a `tech-savvy`, global, almost `stateless figure`, he captured the new influence the internet could give to individual citizens.
+è¿™ä¹Ÿæ˜¯ä»–èŒä¸šç”Ÿæ¶¯ä¸­æœ€æ–°çš„â€”å½“ç„¶ä¹Ÿä¸ä¼šæ˜¯æœ€åä¸€æ¬¡â€”`æˆå‰§æ€§è½¬æŠ˜`ï¼Œè¿™æ®µç”Ÿæ¶¯æ—¢æœ‰è¾‰ç…Œçš„æˆå°±ï¼Œä¹Ÿæœ‰ä»¤äºº`èµ·ç–‘çš„åˆ¤æ–­`ã€‚é•¿æœŸä»¥æ¥ï¼Œé˜¿æ¡‘å¥‡`æ·±è°™æˆåä¹‹é“`ã€‚ä½œä¸ºä¸€ä¸ª`ç²¾é€šæŠ€æœ¯`ã€å››æµ·ä¸ºå®¶ã€`å‡ ä¹æ²¡æœ‰å›½ç±çš„`äººç‰©ï¼Œä»–æŠ“ä½äº†äº’è”ç½‘å¯èƒ½ç»™ä¸ªä½“æ°‘ä¼—å¸¦æ¥çš„æ–°å½±å“åŠ›ã€‚
 
 But Assange has always `elicited fervent reactions`: He has been `hailed as a hero` of free information, or `despised` as a treacherous criminal worthy of death by drone
-µ«°¢É£Ææ×ÜÊÇ`Òı·¢Ç¿ÁÒµÄ·´Ó¦`£ºËû»òÕß`±»ÓşÎª`¹«¿ªĞÅÏ¢µÄÓ¢ĞÛ£»»òÕß±»`±ÉÊÓÎª`Ò»¸ö±ä½ÚµÄ×ï·¸£¬Ó¦¸Ã±»ÎŞÈË»ú´¦ËÀ
+ä½†é˜¿æ¡‘å¥‡æ€»æ˜¯`å¼•å‘å¼ºçƒˆçš„ååº”`ï¼šä»–æˆ–è€…`è¢«èª‰ä¸º`å…¬å¼€ä¿¡æ¯çš„è‹±é›„ï¼›æˆ–è€…è¢«`é„™è§†ä¸º`ä¸€ä¸ªå˜èŠ‚çš„ç½ªçŠ¯ï¼Œåº”è¯¥è¢«æ— äººæœºå¤„æ­»
 
-Assange, the world¡¯s most famous `self-proclaimed` political refugee, lived there with his cat in a small corner room
-×÷ÎªÊÀ½çÉÏ×îÖøÃûµÄ`×Ô·â`ÕşÖÎÄÑÃñ£¬°¢É£ÆæºÍËûµÄÃ¨×¡ÔÚÎ»ÓÚÒ»¸ö½ÇÂäµÄĞ¡·¿¼äÀï
+Assange, the worldâ€™s most famous `self-proclaimed` political refugee, lived there with his cat in a small corner room
+ä½œä¸ºä¸–ç•Œä¸Šæœ€è‘—åçš„`è‡ªå°`æ”¿æ²»éš¾æ°‘ï¼Œé˜¿æ¡‘å¥‡å’Œä»–çš„çŒ«ä½åœ¨ä½äºä¸€ä¸ªè§’è½çš„å°æˆ¿é—´é‡Œ
 
 His words were a `harbinger` of the single charge of conspiracy to `commit computer intrusion` against Assange that the Justice Department unsealed Thursday.
-ËûµÄ»°`Ô¤Ê¾ÁË`ÃÀ¹úË¾·¨²¿ÖÜËÄ¹«²¼µÄÒ»Ïî¶Ô°¢É£ÆæÃÜÄ±`ÊµÊ©µçÄÔÈëÇÖ`µÄÖ¸¿Ø¡£
+ä»–çš„è¯`é¢„ç¤ºäº†`ç¾å›½å¸æ³•éƒ¨å‘¨å››å…¬å¸ƒçš„ä¸€é¡¹å¯¹é˜¿æ¡‘å¥‡å¯†è°‹`å®æ–½ç”µè„‘å…¥ä¾µ`çš„æŒ‡æ§ã€‚
 
 In some ways, Assange, 47, has never fully `shed` the rebellious, secretive ways of the `precocious` Australian teenager with a complicated family background who, with two `pals`, formed a hacking collective called the International Subversives.
-ÔÚÄ³Ğ©·½Ãæ£¬ÏÖÄê47ËêµÄ°¢É£Ææ´ÓÎ´ÍêÈ«°ÚÍÑÄÇ¸ö`ÔçÊìµÄ`°Ä´óÀûÑÇÉÙÄêÅÑÄæ¡¢ÒşÃØµÄÉú»î·½Ê½¡£ËûÓĞ×Å¸´ÔÓµÄ¼ÒÍ¥±³¾°£¬ÉÙÄêÊ±ÔøÓëÁ½¸ö`ÅóÓÑ`×é³ÉÒ»¸öÃûÎª¡°¹ú¼Êµß¸²Õß¡±(International Subversives)µÄºÚ¿Í×éÖ¯¡£
+åœ¨æŸäº›æ–¹é¢ï¼Œç°å¹´47å²çš„é˜¿æ¡‘å¥‡ä»æœªå®Œå…¨æ‘†è„±é‚£ä¸ª`æ—©ç†Ÿçš„`æ¾³å¤§åˆ©äºšå°‘å¹´å›é€†ã€éšç§˜çš„ç”Ÿæ´»æ–¹å¼ã€‚ä»–æœ‰ç€å¤æ‚çš„å®¶åº­èƒŒæ™¯ï¼Œå°‘å¹´æ—¶æ›¾ä¸ä¸¤ä¸ª`æœ‹å‹`ç»„æˆä¸€ä¸ªåä¸ºâ€œå›½é™…é¢ è¦†è€…â€(International Subversives)çš„é»‘å®¢ç»„ç»‡ã€‚
 
 By 2006, when he founded WikiLeaks, Assange had adopted a `nomadic lifestyle`, `roaming the world` and pronouncing sometimes cryptic principles about secrecy and information
-µ½2006Äê´´½¨Î¬»ù½âÃÜÊ±£¬°¢É£ÆæÒÑ¾­¿ªÊ¼¹ı×Å`ËÄ´¦Á÷ÀËµÄÉú»î`£¬`ÔÚÊÀ½ç¸÷µØÂşÓÎ`£¬ÓĞÊ±»¹Ğû²¼Ò»Ğ©ÓïÑÉ²»ÏêµÄ±£ÃÜºÍĞÅÏ¢Ô­Ôò¡£
+åˆ°2006å¹´åˆ›å»ºç»´åŸºè§£å¯†æ—¶ï¼Œé˜¿æ¡‘å¥‡å·²ç»å¼€å§‹è¿‡ç€`å››å¤„æµæµªçš„ç”Ÿæ´»`ï¼Œ`åœ¨ä¸–ç•Œå„åœ°æ¼«æ¸¸`ï¼Œæœ‰æ—¶è¿˜å®£å¸ƒä¸€äº›è¯­ç„‰ä¸è¯¦çš„ä¿å¯†å’Œä¿¡æ¯åŸåˆ™ã€‚
 
 `Bored and harboring doubts` about the war and American foreign policy, she began copying thousands of documents from a classified network onto CDs that she marked as Lady Gaga songs to avoid detection.
-³öÓÚ¶ÔÕ½ÕùºÍÃÀ¹úÍâ½»Õş²ßµÄ`Ñá¾ëºÍÒÉÂÇ`£¬Ëı°ÑÒ»¸ö»úÃÜÍøÂçÖĞµÄÊıÇ§·İÎÄ¼ş¸´ÖÆµ½¹âÅÌÉÏ£¬²¢½«Æä±ê¼ÇÎªLady GagaµÄ¸èÇú£¬ÒÔÃâ±»·¢ÏÖ¡£
+å‡ºäºå¯¹æˆ˜äº‰å’Œç¾å›½å¤–äº¤æ”¿ç­–çš„`åŒå€¦å’Œç–‘è™‘`ï¼Œå¥¹æŠŠä¸€ä¸ªæœºå¯†ç½‘ç»œä¸­çš„æ•°åƒä»½æ–‡ä»¶å¤åˆ¶åˆ°å…‰ç›˜ä¸Šï¼Œå¹¶å°†å…¶æ ‡è®°ä¸ºLady Gagaçš„æ­Œæ›²ï¼Œä»¥å…è¢«å‘ç°ã€‚
 
-The War Logs, as they were called, were `published in coordination` with Le Monde, The Guardian and Der Spiegel, and they `shed new light on` civilian casualties, soldiers¡¯ morale, the treatment of detainees and the use of contractors. 
-ÕâĞ©±»ËûÃÇ³ÆÎª¡°Õ½ÕùÈÕÖ¾¡±µÄÎÄ¼şÊÇÓë¡¶ÊÀ½ç±¨¡·(Le Monde)¡¢¡¶ÎÀ±¨¡·(Guardian)ºÍ¡¶Ã÷¾µÖÜ¿¯¡·(Der Spiegel)`ºÏ×÷·¢²¼µÄ`£¬ÈÃÈËÃÇ¶ÔÆ½ÃñÉËÍö¡¢Ê¿±øÊ¿Æø¡¢±»¾ĞÑºÕßµÄ´ıÓöÒÔ¼°³Ğ°üÉÌµÄÊ¹ÓÃÓĞÁË`ĞÂµÄÁË½â`¡£
+The War Logs, as they were called, were `published in coordination` with Le Monde, The Guardian and Der Spiegel, and they `shed new light on` civilian casualties, soldiersâ€™ morale, the treatment of detainees and the use of contractors. 
+è¿™äº›è¢«ä»–ä»¬ç§°ä¸ºâ€œæˆ˜äº‰æ—¥å¿—â€çš„æ–‡ä»¶æ˜¯ä¸ã€Šä¸–ç•ŒæŠ¥ã€‹(Le Monde)ã€ã€Šå«æŠ¥ã€‹(Guardian)å’Œã€Šæ˜é•œå‘¨åˆŠã€‹(Der Spiegel)`åˆä½œå‘å¸ƒçš„`ï¼Œè®©äººä»¬å¯¹å¹³æ°‘ä¼¤äº¡ã€å£«å…µå£«æ°”ã€è¢«æ‹˜æŠ¼è€…çš„å¾…é‡ä»¥åŠæ‰¿åŒ…å•†çš„ä½¿ç”¨æœ‰äº†`æ–°çš„äº†è§£`ã€‚
 
-An editor¡¯s note explained that they provided ¡°a real-time history of the war,¡± but also `struck an ambivalent chord` about their source, WikiLeaks, which the note said ¡°was not involved in the news organizations¡¯ research, reporting, analysis and writing.¡±
-Ò»·İ±à¼­ÊÖ¼Ç½âÊÍËµ£¬ËüÃÇÌá¹©ÁË¡°Õ½ÕùµÄÊµÊ±ÀúÊ·¡±£»µ«Í¬Ê±¶ÔËüÃÇµÄÀ´Ô´Î¬»ù½âÃÜ`±íÊ¾³öÃ¬¶ÜĞÄÌ¬`£¬¸ÃÊÖ¼ÇÖĞĞ´µÀ£¬Î¬»ù½âÃÜ¡°Ã»ÓĞ²ÎÓëĞÂÎÅ»ú¹¹µÄÑĞ¾¿¡¢±¨µÀ¡¢·ÖÎöºÍĞ´×÷¡±¡£
+An editorâ€™s note explained that they provided â€œa real-time history of the war,â€ but also `struck an ambivalent chord` about their source, WikiLeaks, which the note said â€œwas not involved in the news organizationsâ€™ research, reporting, analysis and writing.â€
+ä¸€ä»½ç¼–è¾‘æ‰‹è®°è§£é‡Šè¯´ï¼Œå®ƒä»¬æä¾›äº†â€œæˆ˜äº‰çš„å®æ—¶å†å²â€ï¼›ä½†åŒæ—¶å¯¹å®ƒä»¬çš„æ¥æºç»´åŸºè§£å¯†`è¡¨ç¤ºå‡ºçŸ›ç›¾å¿ƒæ€`ï¼Œè¯¥æ‰‹è®°ä¸­å†™é“ï¼Œç»´åŸºè§£å¯†â€œæ²¡æœ‰å‚ä¸æ–°é—»æœºæ„çš„ç ”ç©¶ã€æŠ¥é“ã€åˆ†æå’Œå†™ä½œâ€ã€‚
 
-When the diplomatic cables were published, The Times and other news organizations worked closely with WikiLeaks to `redact names` to protect vulnerable people ¡ª but later, in a dispute with a British editor, Assange decided simply to publish the `massive cable` collection without any edits.
-¹«²¼Íâ½»µç±¨Ê±£¬Ê±±¨ºÍÆäËûĞÂÎÅ»ú¹¹ÔøÓëÎ¬»ù½âÃÜÃÜÇĞºÏ×÷£¬`¶ÔÈËÃû½øĞĞÍ¿ºÚ`£¬ÒÔ±£»¤»áÃæÁÙÎ£ÏÕµÄÈË¡ª¡ªµ«ºóÀ´ÔÚÓëÒ»ÃûÓ¢¹ú±à¼­·¢ÉúÕùÖ´ºó£¬°¢É£Ææ¾ö¶¨²»×öÈÎºÎ±à¼­£¬Ö±½Ó¹«²¼`´óÁ¿µçÎÄ`¡£
+When the diplomatic cables were published, The Times and other news organizations worked closely with WikiLeaks to `redact names` to protect vulnerable people â€” but later, in a dispute with a British editor, Assange decided simply to publish the `massive cable` collection without any edits.
+å…¬å¸ƒå¤–äº¤ç”µæŠ¥æ—¶ï¼Œæ—¶æŠ¥å’Œå…¶ä»–æ–°é—»æœºæ„æ›¾ä¸ç»´åŸºè§£å¯†å¯†åˆ‡åˆä½œï¼Œ`å¯¹äººåè¿›è¡Œæ¶‚é»‘`ï¼Œä»¥ä¿æŠ¤ä¼šé¢ä¸´å±é™©çš„äººâ€”â€”ä½†åæ¥åœ¨ä¸ä¸€åè‹±å›½ç¼–è¾‘å‘ç”Ÿäº‰æ‰§åï¼Œé˜¿æ¡‘å¥‡å†³å®šä¸åšä»»ä½•ç¼–è¾‘ï¼Œç›´æ¥å…¬å¸ƒ`å¤§é‡ç”µæ–‡`ã€‚
 
-Meanwhile, WikiLeaks `was plagued with` infighting, often `touched off` by Assange¡¯s `astringent style and ego`. Two women complained to Swedish authorities about Assange¡¯s sexual conduct with them, `setting off a yearslong quest` of investigators to question him.
-Óë´ËÍ¬Ê±£¬Î¬»ù½âÃÜ±»ÄÚ¶·`ËùÀ§ÈÅ`£¬ËüÃÇÍùÍùÊÇÓÉ°¢É£ÆæµÄ`¼â¿Ì·ç¸ñºÍ×Ô¸ºÒı·¢µÄ`¡£Á½ÃûÅ®ĞÔ¾Í°¢É£ÆæÓëËıÃÇµÄĞÔĞĞÎªÏòÈğµäµ±¾Ö±¨°¸£¬`Òı·¢ÁËµ÷²éÈËÔ±¶ÔËû³¤´ïÒ»ÄêµÄÎÊÑ¶`¡£
+Meanwhile, WikiLeaks `was plagued with` infighting, often `touched off` by Assangeâ€™s `astringent style and ego`. Two women complained to Swedish authorities about Assangeâ€™s sexual conduct with them, `setting off a yearslong quest` of investigators to question him.
+ä¸æ­¤åŒæ—¶ï¼Œç»´åŸºè§£å¯†è¢«å†…æ–—`æ‰€å›°æ‰°`ï¼Œå®ƒä»¬å¾€å¾€æ˜¯ç”±é˜¿æ¡‘å¥‡çš„`å°–åˆ»é£æ ¼å’Œè‡ªè´Ÿå¼•å‘çš„`ã€‚ä¸¤åå¥³æ€§å°±é˜¿æ¡‘å¥‡ä¸å¥¹ä»¬çš„æ€§è¡Œä¸ºå‘ç‘å…¸å½“å±€æŠ¥æ¡ˆï¼Œ`å¼•å‘äº†è°ƒæŸ¥äººå‘˜å¯¹ä»–é•¿è¾¾ä¸€å¹´çš„é—®è®¯`ã€‚
 
-In 2012, Ecuador¡¯s foreign minister announced that Assange was at the embassy in London and had asked for `political asylum`. Small as they were, Assange¡¯s quarters there did not `cramp his desire` to remain `in the limelight`. 
-2012Äê£¬¶ò¹Ï¶à¶ûÍâ½»²¿³¤Ğû²¼°¢É£ÆæÔÚ¸Ã¹ú×¤Â×¶Ø´óÊ¹¹İ£¬²¢ÇÒÉêÇëÁË`ÕşÖÎ±Ó»¤`¡£ËûÔÚÄÇÀïµÄ×¡ËùºÜĞ¡£¬µ«Õâ²¢Ã»ÓĞ´ò»÷Ëû¼ÌĞø´ıÔÚ`·ç¿ÚÀË¼â`µÄÔ¸Íû¡£
+In 2012, Ecuadorâ€™s foreign minister announced that Assange was at the embassy in London and had asked for `political asylum`. Small as they were, Assangeâ€™s quarters there did not `cramp his desire` to remain `in the limelight`. 
+2012å¹´ï¼Œå„ç“œå¤šå°”å¤–äº¤éƒ¨é•¿å®£å¸ƒé˜¿æ¡‘å¥‡åœ¨è¯¥å›½é©»ä¼¦æ•¦å¤§ä½¿é¦†ï¼Œå¹¶ä¸”ç”³è¯·äº†`æ”¿æ²»åº‡æŠ¤`ã€‚ä»–åœ¨é‚£é‡Œçš„ä½æ‰€å¾ˆå°ï¼Œä½†è¿™å¹¶æ²¡æœ‰æ‰“å‡»ä»–ç»§ç»­å¾…åœ¨`é£å£æµªå°–`çš„æ„¿æœ›ã€‚
 
-Eventually, Assange¡¯s `isolation began to wear on him`, He was becoming `deeply depressed` and `wondered about simply walking out`, the friend said, `speaking on the condition of anonymity`. And relations with his hosts were becoming `deeply strained`, even `adversarial`, as diplomats `grew tired of` his behavior. Even Assange¡¯s friends called him difficult, a narcissist with an `outsize view` of his importance and little interest in mundane matters like hygiene.
-ËûÖÕÓÚ¿ªÊ¼¸Ğµ½¹ÂÁ¢ÎŞÔ®,ÕâÎ»`²»Ô¸Í¸Â¶ĞÕÃûµÄ`ÅóÓÑËµ£¬Ëû±äµÃ`·Ç³£¾ÚÉ¥`£¬Ïë×ÅÒª²»Òª¸É´à`Ö±½Ó×ß³öÈ¥`¡£Ëæ×ÅÍâ½»¹ÙÃÇ¶ÔËûµÄĞĞÎª`ÈÕÒæÑá¾ë`£¬ËûÓëÊÕÁôËûµÄÈËµÄ¹ØÏµ±äµÃ`·Ç³£½ôÕÅ`£¬ÉõÖÁÓĞ`µĞÒâ`¡£Á¬°¢É£ÆæµÄÅóÓÑÒ²³ÆËûºÜÄÑÏà´¦£¬ËµËû·Ç³£×ÔÁµ£¬°Ñ×Ô¼º`¿´µÃ¹ıÓÚÖØÒª`£¬¶ÔÇå½àÎÀÉúµÈËöÊÂÃ»Ê²Ã´ĞËÈ¤¡£
+Eventually, Assangeâ€™s `isolation began to wear on him`, He was becoming `deeply depressed` and `wondered about simply walking out`, the friend said, `speaking on the condition of anonymity`. And relations with his hosts were becoming `deeply strained`, even `adversarial`, as diplomats `grew tired of` his behavior. Even Assangeâ€™s friends called him difficult, a narcissist with an `outsize view` of his importance and little interest in mundane matters like hygiene.
+ä»–ç»ˆäºå¼€å§‹æ„Ÿåˆ°å­¤ç«‹æ— æ´,è¿™ä½`ä¸æ„¿é€éœ²å§“åçš„`æœ‹å‹è¯´ï¼Œä»–å˜å¾—`éå¸¸æ²®ä¸§`ï¼Œæƒ³ç€è¦ä¸è¦å¹²è„†`ç›´æ¥èµ°å‡ºå»`ã€‚éšç€å¤–äº¤å®˜ä»¬å¯¹ä»–çš„è¡Œä¸º`æ—¥ç›ŠåŒå€¦`ï¼Œä»–ä¸æ”¶ç•™ä»–çš„äººçš„å…³ç³»å˜å¾—`éå¸¸ç´§å¼ `ï¼Œç”šè‡³æœ‰`æ•Œæ„`ã€‚è¿é˜¿æ¡‘å¥‡çš„æœ‹å‹ä¹Ÿç§°ä»–å¾ˆéš¾ç›¸å¤„ï¼Œè¯´ä»–éå¸¸è‡ªæ‹ï¼ŒæŠŠè‡ªå·±`çœ‹å¾—è¿‡äºé‡è¦`ï¼Œå¯¹æ¸…æ´å«ç”Ÿç­‰çäº‹æ²¡ä»€ä¹ˆå…´è¶£ã€‚
 
-`Appearing in` the Westminster Magistrates¡¯ Court, his silver hair `tied in a bun`, Assange looked composed in `a navy suit`. The `scene underscored` the obvious: that Assange will use his `legal predicament` as a new platform for his `defiance of authority` and his `crusade` for WikiLeaks.
-½«Ò»Í·Òø·¢`ÅÌ³É÷Ù`µÄ°¢É£Ææ`³öÏÖÔÚ`ÍşË¹ÃôË¹ÌØµØ·½·¨Ôº£¬Éí×Å`ÉîÀ¶É«Î÷×°`£¬¿´ÉÏÈ¥Ì©È»×ÔÈô¡£`ÕâÒ»Ä»±íÃ÷`£¬°¢É£ÆæÏÔÈ»½«ÀûÓÃËûµÄ`·¨ÂÉÀ§¾³`×÷ÎªÒ»¸öĞÂµÄÆ½Ì¨£¬`ÌôÕ½È¨Íş`£¬ÎªÎ¬»ù½âÃÜ¶øÕ½¡£
+`Appearing in` the Westminster Magistratesâ€™ Court, his silver hair `tied in a bun`, Assange looked composed in `a navy suit`. The `scene underscored` the obvious: that Assange will use his `legal predicament` as a new platform for his `defiance of authority` and his `crusade` for WikiLeaks.
+å°†ä¸€å¤´é“¶å‘`ç›˜æˆé«»`çš„é˜¿æ¡‘å¥‡`å‡ºç°åœ¨`å¨æ–¯æ•æ–¯ç‰¹åœ°æ–¹æ³•é™¢ï¼Œèº«ç€`æ·±è“è‰²è¥¿è£…`ï¼Œçœ‹ä¸Šå»æ³°ç„¶è‡ªè‹¥ã€‚`è¿™ä¸€å¹•è¡¨æ˜`ï¼Œé˜¿æ¡‘å¥‡æ˜¾ç„¶å°†åˆ©ç”¨ä»–çš„`æ³•å¾‹å›°å¢ƒ`ä½œä¸ºä¸€ä¸ªæ–°çš„å¹³å°ï¼Œ`æŒ‘æˆ˜æƒå¨`ï¼Œä¸ºç»´åŸºè§£å¯†è€Œæˆ˜ã€‚
 
 A six-month investigation by The New York Times `covering three continents` and including more than 150 interviews has described how Mr. Murdoch and his `feuding sons` turned their `media outlets` into right-wing political influence machines that have `destabilized` democracy in North America, Europe and Australia.
-½øĞĞÁËÎªÆÚÁù¸öÔÂµÄµ÷²é£¬`¸²¸ÇÈı´óÖŞ`¡¢°üÀ¨³¬¹ı150´Î²É·Ã¡£Í¸¹ıµ÷²é¿ÉÒÔ¿´µ½£¬Ä¬¶à¿ËÓë¼¸¸ö`³¤ÆÚ²»ºÍµÄ¶ù×Ó`ÈçºÎ½«ËûÃÇµÄ`Ã½Ìå»ú¹¹`×ª±äÎªÓÒÒíÕşÖÎÓ°ÏìÁ¦»úÆ÷£¬²¢`ÆÆ»µ`±±ÃÀ¡¢Å·ÖŞºÍ°Ä´óÀûÑÇµÄÃñÖ÷¡£
+è¿›è¡Œäº†ä¸ºæœŸå…­ä¸ªæœˆçš„è°ƒæŸ¥ï¼Œ`è¦†ç›–ä¸‰å¤§æ´²`ã€åŒ…æ‹¬è¶…è¿‡150æ¬¡é‡‡è®¿ã€‚é€è¿‡è°ƒæŸ¥å¯ä»¥çœ‹åˆ°ï¼Œé»˜å¤šå…‹ä¸å‡ ä¸ª`é•¿æœŸä¸å’Œçš„å„¿å­`å¦‚ä½•å°†ä»–ä»¬çš„`åª’ä½“æœºæ„`è½¬å˜ä¸ºå³ç¿¼æ”¿æ²»å½±å“åŠ›æœºå™¨ï¼Œå¹¶`ç ´å`åŒ—ç¾ã€æ¬§æ´²å’Œæ¾³å¤§åˆ©äºšçš„æ°‘ä¸»ã€‚
 
-Here are some `key takeaways` from The Times¡¯s investigation into the Murdoch family and its role in the `illiberal`, right-wing political wave `sweeping the globe`.
-ÒÔÏÂÊÇ¶ÔÄ¬¶à¿Ë¼Ò×åµ÷²éÖĞµÄ`Ò»Ğ©Òªµã`£¬ÆäÖĞÉæ¼°¸Ã¼Ò×åÔÚ`Ï¯¾íÈ«ÇòµÄ·´×ÔÓÉÖ÷Òå`¡¢ÓÒÒíÕşÖÎÀË³±ÖĞ·¢»ÓµÄ×÷ÓÃ¡£
+Here are some `key takeaways` from The Timesâ€™s investigation into the Murdoch family and its role in the `illiberal`, right-wing political wave `sweeping the globe`.
+ä»¥ä¸‹æ˜¯å¯¹é»˜å¤šå…‹å®¶æ—è°ƒæŸ¥ä¸­çš„`ä¸€äº›è¦ç‚¹`ï¼Œå…¶ä¸­æ¶‰åŠè¯¥å®¶æ—åœ¨`å¸­å·å…¨çƒçš„åè‡ªç”±ä¸»ä¹‰`ã€å³ç¿¼æ”¿æ²»æµªæ½®ä¸­å‘æŒ¥çš„ä½œç”¨ã€‚
 
 Fox News has long `exerted a gravitational pull` on the Republican Party in the United States, where it most recently `amplified the nativist revolt` that has `fueled` the rise of the far right and the election of President Trump.
-³¤ÆÚÒÔÀ´£¬¸£¿ËË¹ĞÂÎÅÒ»Ö±¶ÔÃÀ¹ú¹²ºÍµ³`Ê©¼ÓÑ¹Á¦`£¬ºóÕß½üÄê`·Å´óÁË±¾ÍÁÖ÷ÒåµÄ·´¿¹`£¬½ø¶ø`ÍÆ¶¯`¼«ÓÒÒíÊÆÁ¦µÄáÈÆğºÍÌØÀÊÆÕ×ÜÍ³µÄµ±Ñ¡¡£
+é•¿æœŸä»¥æ¥ï¼Œç¦å…‹æ–¯æ–°é—»ä¸€ç›´å¯¹ç¾å›½å…±å’Œå…š`æ–½åŠ å‹åŠ›`ï¼Œåè€…è¿‘å¹´`æ”¾å¤§äº†æœ¬åœŸä¸»ä¹‰çš„åæŠ—`ï¼Œè¿›è€Œ`æ¨åŠ¨`æå³ç¿¼åŠ¿åŠ›çš„å´›èµ·å’Œç‰¹æœ—æ™®æ€»ç»Ÿçš„å½“é€‰ã€‚
 
-Mr. Murdoch¡¯s newspaper The Sun spent years `demonizing the European Union` to its readers in Britain, where it helped lead the Brexit campaign that persuaded `a slim majority` of voters in a 2016 `referendum` to endorse pulling out of the bloc. `Political havoc` has `reigned` in Britain `ever since`.
-Ä¬¶à¿ËÊÖÏÂµÄ±¨Ö½¡¶Ì«Ñô±¨¡·(The Sun)¶àÄêÀ´Ò»Ö±ÏòÓ¢¹ú¶ÁÕß³ÊÏÖÒ»¸ö±»`ÑıÄ§»¯µÄÅ·ÃË`£¬³ÉÎªÒıÁìÍÑÅ·ÔË¶¯¡¢ÔÚ2016Äê`¹«Í¶`ÖĞËµ·ş`³¬¹ı°ëÊı`Ñ¡ÃñÖ§³ÖÍË³öÅ·ÃËµÄÊÆÁ¦Ö®Ò»¡£`×ÔÄÇÒÔºó`£¬Ó¢¹úÒ»Ö±ÉîÏİ`ÕşÖÎ»ìÂÒ`¡£
+Mr. Murdochâ€™s newspaper The Sun spent years `demonizing the European Union` to its readers in Britain, where it helped lead the Brexit campaign that persuaded `a slim majority` of voters in a 2016 `referendum` to endorse pulling out of the bloc. `Political havoc` has `reigned` in Britain `ever since`.
+é»˜å¤šå…‹æ‰‹ä¸‹çš„æŠ¥çº¸ã€Šå¤ªé˜³æŠ¥ã€‹(The Sun)å¤šå¹´æ¥ä¸€ç›´å‘è‹±å›½è¯»è€…å‘ˆç°ä¸€ä¸ªè¢«`å¦–é­”åŒ–çš„æ¬§ç›Ÿ`ï¼Œæˆä¸ºå¼•é¢†è„±æ¬§è¿åŠ¨ã€åœ¨2016å¹´`å…¬æŠ•`ä¸­è¯´æœ`è¶…è¿‡åŠæ•°`é€‰æ°‘æ”¯æŒé€€å‡ºæ¬§ç›Ÿçš„åŠ¿åŠ›ä¹‹ä¸€ã€‚`è‡ªé‚£ä»¥å`ï¼Œè‹±å›½ä¸€ç›´æ·±é™·`æ”¿æ²»æ··ä¹±`ã€‚
 
 At the center of this `upheaval sits` the Murdoch family, a `clan` whose dysfunction has both `shaped and mirrored` the `global tumult` of recent years.
-Ä¬¶à¿Ë¼Ò×åÎ»ÓÚÕâÒ»`¶¯µ´¾ÖÃæ`µÄÖĞĞÄ£¬Õâ¸ö`¼Ò×å`±¾ÉíµÄÎÉÂÒ`ËÜÔìºÍÓ³ÕÕ`ÁË½üÄêÀ´µÄ`È«ÇòÉ§¶¯`¡£
+é»˜å¤šå…‹å®¶æ—ä½äºè¿™ä¸€`åŠ¨è¡å±€é¢`çš„ä¸­å¿ƒï¼Œè¿™ä¸ª`å®¶æ—`æœ¬èº«çš„ç´Šä¹±`å¡‘é€ å’Œæ˜ ç…§`äº†è¿‘å¹´æ¥çš„`å…¨çƒéªšåŠ¨`ã€‚
 
 His two sons are very different people. James wanted the company to become more digitally focused and more `politically moderate`, while Lachlan wanted to `lean into the reactionary politics` of the moment.
-ËûµÄÁ½¸ö¶ù×ÓÊÇ½ØÈ»²»Í¬µÄÈË¡£Õ²Ä·Ë¹Ï£Íû¹«Ë¾±äµÃ¸ü¼Ó×¢ÖØÊı×Ö»¯¡¢ÔÚ`ÕşÖÎÉÏ¸üÎÂºÍ`£¬¶øÀ­¿ËÀ¼ÔòÏ£ÍûÄÜ¹»`Ç÷½üµ±ÏÂµÄ·´¶¯ÕşÖÎ`¡£
+ä»–çš„ä¸¤ä¸ªå„¿å­æ˜¯æˆªç„¶ä¸åŒçš„äººã€‚è©¹å§†æ–¯å¸Œæœ›å…¬å¸å˜å¾—æ›´åŠ æ³¨é‡æ•°å­—åŒ–ã€åœ¨`æ”¿æ²»ä¸Šæ›´æ¸©å’Œ`ï¼Œè€Œæ‹‰å…‹å…°åˆ™å¸Œæœ›èƒ½å¤Ÿ`è¶‹è¿‘å½“ä¸‹çš„ååŠ¨æ”¿æ²»`ã€‚
 
 James briefly quit the company in protest. But he was `lured` back by a `carefully crafted` compromise that put Lachlan in charge but allowed James to `save face` by maintaining the `public illusion` that he was the `heir`.
-Õ²Ä·Ë¹ºÜ¿ìÍË³öÁË¹«Ë¾ÒÔÊ¾¿¹Òé¡£µ«ÓÖ±»Ò»¸ö`¾«ĞÄÉè¼ÆµÄ`Í×Ğ­`ÓÕÒı`»ØÀ´£¬¼´ÈÃÀ­¿ËÀ¼ÕÆÈ¨£¬µ«ÈÃÕ²Ä·Ë¹¶ÔÍâ±£³ÖËûÊÇ`¼Ì³ĞÈË`µÄ`´í¾õ`£¬ÒÔ°ïËû`Íì»ØÃæ×Ó`
+è©¹å§†æ–¯å¾ˆå¿«é€€å‡ºäº†å…¬å¸ä»¥ç¤ºæŠ—è®®ã€‚ä½†åˆè¢«ä¸€ä¸ª`ç²¾å¿ƒè®¾è®¡çš„`å¦¥å`è¯±å¼•`å›æ¥ï¼Œå³è®©æ‹‰å…‹å…°æŒæƒï¼Œä½†è®©è©¹å§†æ–¯å¯¹å¤–ä¿æŒä»–æ˜¯`ç»§æ‰¿äºº`çš„`é”™è§‰`ï¼Œä»¥å¸®ä»–`æŒ½å›é¢å­`
 
-But all of these `succession plans` ¡ª as well as the `lucrative` Disney deal ¡ª were `thrown into chaos` last year when Mr. Murdoch broke his spine and collapsed on a `yacht`.
-µ«ËùÓĞÕâĞ©`¼ÌÈÎ¼Æ»®`¡ªÒÔ¼°`»ñÀû·áºñµÄ`µÏÊ¿Äá½»Ò×¡ªÈ¥Äê¶¼`ÏİÈëÁË»ìÂÒ`£¬µ±Ê±Ä¬¶à¿ËË¤¶ÏÁË¼¹×µ£¬Ì±µ¹ÔÚÁËÒ»ËÒ`ÓÎÍ§`ÉÏ¡£
+But all of these `succession plans` â€” as well as the `lucrative` Disney deal â€” were `thrown into chaos` last year when Mr. Murdoch broke his spine and collapsed on a `yacht`.
+ä½†æ‰€æœ‰è¿™äº›`ç»§ä»»è®¡åˆ’`â€”ä»¥åŠ`è·åˆ©ä¸°åšçš„`è¿ªå£«å°¼äº¤æ˜“â€”å»å¹´éƒ½`é™·å…¥äº†æ··ä¹±`ï¼Œå½“æ—¶é»˜å¤šå…‹æ‘”æ–­äº†è„Šæ¤ï¼Œç˜«å€’åœ¨äº†ä¸€è‰˜`æ¸¸è‰‡`ä¸Šã€‚
 
-The Murdoch empire has also `boldly flexed its muscles` in Australia, which was for many years Lachlan¡¯s domain.
-Ä¬¶à¿ËµÛ¹ú»¹ÔÚ°Ä´óÀûÑÇ`´ó¾ÙÕ¹Ê¾×Ô¼ºµÄÁ¦Á¿`£¬ÄÇÀï¶àÄêÀ´ÊÇÀ­¿ËÀ¼µÄÁìµØ¡£
+The Murdoch empire has also `boldly flexed its muscles` in Australia, which was for many years Lachlanâ€™s domain.
+é»˜å¤šå…‹å¸å›½è¿˜åœ¨æ¾³å¤§åˆ©äºš`å¤§ä¸¾å±•ç¤ºè‡ªå·±çš„åŠ›é‡`ï¼Œé‚£é‡Œå¤šå¹´æ¥æ˜¯æ‹‰å…‹å…°çš„é¢†åœ°ã€‚
 
-In Australia, Lachlan expressed `disdain` for efforts to fight climate change and once `rebuked` the staff at one of his family¡¯s newspapers,
-ÔÚ°Ä´óÀûÑÇ£¬À­¿ËÀ¼±í´ïÁË¶Ô¿¹»÷Æøºò±ä»¯Ïà¹ØÅ¬Á¦µÄ`ÃïÊÓ`£¬²¢ÔøÒòÒ»ÔòÖ§³ÖÍ¬ĞÔ»éÒöµÄÉçÂÛ£¬`³âÔğ`¹ıËûµÄ¼Ò×å±¨Ö½µÄÔ±¹¤
+In Australia, Lachlan expressed `disdain` for efforts to fight climate change and once `rebuked` the staff at one of his familyâ€™s newspapers,
+åœ¨æ¾³å¤§åˆ©äºšï¼Œæ‹‰å…‹å…°è¡¨è¾¾äº†å¯¹æŠ—å‡»æ°”å€™å˜åŒ–ç›¸å…³åŠªåŠ›çš„`è”‘è§†`ï¼Œå¹¶æ›¾å› ä¸€åˆ™æ”¯æŒåŒæ€§å©šå§»çš„ç¤¾è®ºï¼Œ`æ–¥è´£`è¿‡ä»–çš„å®¶æ—æŠ¥çº¸çš„å‘˜å·¥
 
 They quickly introduced `a slate of` right-wing opinion shows that often focused on race, immigration and climate change.
-ËûÃÇÑ¸ËÙÍÆ½éÁË`Ò»ÏµÁĞ`ÓÒÒí¹Ûµã½ÚÄ¿£¬Í¨³£¾Û½¹ÖÖ×å¡¢ÒÆÃñºÍÆøºò±ä»¯¡£
+ä»–ä»¬è¿…é€Ÿæ¨ä»‹äº†`ä¸€ç³»åˆ—`å³ç¿¼è§‚ç‚¹èŠ‚ç›®ï¼Œé€šå¸¸èšç„¦ç§æ—ã€ç§»æ°‘å’Œæ°”å€™å˜åŒ–ã€‚
 
 James wanted to `revamp` the network as a `less partisan` news outlet. He even `floated the idea` of hiring David Rhodes, a CBS executive.
-µ±Ê±£¬Õ²Ä·Ë¹Ï£Íû½«¸£¿ËË¹ĞÂÎÅÍø`¸ÄÔì`³ÉÒ»¸ö`µ³ÅÉÉ«²Ê²»ÄÇÃ´Å¨ºñµÄ`ĞÂÎÅ»ú¹¹¡£ËûÉõÖÁ`Ìá³öÁË`¹ÍÓÃCBS¸ß¹Ü´÷Î¬¡¤ÂŞ×ÈµÄÏë·¨¡£
+å½“æ—¶ï¼Œè©¹å§†æ–¯å¸Œæœ›å°†ç¦å…‹æ–¯æ–°é—»ç½‘`æ”¹é€ `æˆä¸€ä¸ª`å…šæ´¾è‰²å½©ä¸é‚£ä¹ˆæµ“åšçš„`æ–°é—»æœºæ„ã€‚ä»–ç”šè‡³`æå‡ºäº†`é›‡ç”¨CBSé«˜ç®¡æˆ´ç»´Â·ç½—å…¹çš„æƒ³æ³•ã€‚
 
-His proposals `went nowhere`. Lachlan and Rupert opposed any change to what they saw as a `winning formula` and decided to stick with Fox¡¯s `incendiary programming`.
-ËûµÄÌáÒé`Î´ÄÜµÃµ½²ÉÄÉ`¡£À­¿ËÀ¼ºÍÂ³çêÌØ²»Í¬Òâ¶ÔËûÃÇĞÄÄ¿ÖĞµÄ`³É¹¦·½°¸`×ö³öÈÎºÎ¸Ä±ä£¬²¢¾ö¶¨¼á³Ö¸£¿ËË¹µÄ`É¿¶¯ĞÔ½ÚÄ¿`¡£
+His proposals `went nowhere`. Lachlan and Rupert opposed any change to what they saw as a `winning formula` and decided to stick with Foxâ€™s `incendiary programming`.
+ä»–çš„æè®®`æœªèƒ½å¾—åˆ°é‡‡çº³`ã€‚æ‹‰å…‹å…°å’Œé²ç€ç‰¹ä¸åŒæ„å¯¹ä»–ä»¬å¿ƒç›®ä¸­çš„`æˆåŠŸæ–¹æ¡ˆ`åšå‡ºä»»ä½•æ”¹å˜ï¼Œå¹¶å†³å®šåšæŒç¦å…‹æ–¯çš„`ç…½åŠ¨æ€§èŠ‚ç›®`ã€‚
 
 But James believed he had seen `firsthand the damage` that outlets like Fox News were doing to the company.
-µ«Õ²Ä·Ë¹ÏàĞÅ£¬ËûÄ¿¶ÃÁË¸£¿ËË¹ĞÂÎÅµÈÃ½Ìå¶Ô¹«Ë¾Ôì³ÉµÄËğº¦¡£
+ä½†è©¹å§†æ–¯ç›¸ä¿¡ï¼Œä»–ç›®ç¹äº†ç¦å…‹æ–¯æ–°é—»ç­‰åª’ä½“å¯¹å…¬å¸é€ æˆçš„æŸå®³ã€‚
 
 When did leggings make the leap from `garment` to cultural `lightning rod`? For what are essentially stretchy footless tights in a `seemingly endless array of` patterns and colors, they have been an unexpected source of controversy.
-´ÓÊ²Ã´Ê±ºò¿ªÊ¼£¬½ôÉí¿ã´ÓÒ»ÖÖ`·ş×°`±ä³ÉÁËÎÄ»¯ÉÏµÄ`ÖÚÊ¸Ö®µÄ`£¿ÕâÖÖ´øÓĞ`ÎŞÊı`Í¼°¸ÓëÑÕÉ«µÄµ¯Á¦²»Á¬Íà½ôÉí¿ã³ÉÁËÒâÏë²»µ½µÄÕùÒéÖ®Ô´¡£
+ä»ä»€ä¹ˆæ—¶å€™å¼€å§‹ï¼Œç´§èº«è£¤ä»ä¸€ç§`æœè£…`å˜æˆäº†æ–‡åŒ–ä¸Šçš„`ä¼—çŸ¢ä¹‹çš„`ï¼Ÿè¿™ç§å¸¦æœ‰`æ— æ•°`å›¾æ¡ˆä¸é¢œè‰²çš„å¼¹åŠ›ä¸è¿è¢œç´§èº«è£¤æˆäº†æ„æƒ³ä¸åˆ°çš„äº‰è®®ä¹‹æºã€‚
 
-`As a result`, what the leggings `uproar` may have exposed is not so much anyone¡¯s physique `per se`, but rather `a cultural fault line` that runs through generations. 
-`Òò´Ë`£¬½ôÉí¿ã`·ç²¨`Ëù±©Â¶µÄ£¬ÓëÆäËµÊÇÊ²Ã´ÈËµÄÉí²Ä£¬»¹²»ÈçËµÊÇ¹á´©¼¸´úÈËµÄ`ÎÄ»¯¶Ï²ã`¡£
+`As a result`, what the leggings `uproar` may have exposed is not so much anyoneâ€™s physique `per se`, but rather `a cultural fault line` that runs through generations. 
+`å› æ­¤`ï¼Œç´§èº«è£¤`é£æ³¢`æ‰€æš´éœ²çš„ï¼Œä¸å…¶è¯´æ˜¯ä»€ä¹ˆäººçš„èº«æï¼Œè¿˜ä¸å¦‚è¯´æ˜¯è´¯ç©¿å‡ ä»£äººçš„`æ–‡åŒ–æ–­å±‚`ã€‚
 
-Sure, it¡¯s possible that is `overstating the matter`. It¡¯s possible they are just `stretchy footless tights` that are easy to wear.
-µ±È»£¬ÕâÓĞ¿ÉÄÜ`¿ä´óÁËÊÂÊµ`¡£ËüºÜ¿ÉÄÜ½ö½öÊÇÒ»ÖÖÈİÒ×´©ÉÏÉíµÄ`²»Á¬Íàµ¯Á¦½ôÉí¿ã`¡£
+Sure, itâ€™s possible that is `overstating the matter`. Itâ€™s possible they are just `stretchy footless tights` that are easy to wear.
+å½“ç„¶ï¼Œè¿™æœ‰å¯èƒ½`å¤¸å¤§äº†äº‹å®`ã€‚å®ƒå¾ˆå¯èƒ½ä»…ä»…æ˜¯ä¸€ç§å®¹æ˜“ç©¿ä¸Šèº«çš„`ä¸è¿è¢œå¼¹åŠ›ç´§èº«è£¤`ã€‚
 
-But `judging by` Lululemon¡¯s recent results, which saw net revenue rise 21 percent in the third quarter of 2018, and the fact that part of Levi¡¯s `much-heralded` IPO `was attributed to` the ¡°stretch¡± now included in jeans to cater to the `leggings market`, this ¡°popular clothing choice¡± (as The Observer labeled them) is `not going away any time soon`. All this suggests that the Notre Dame `uproar` may not be a `fluke, but a harbinger`.
-µ«`Çë¿´Lululemon½üÆÚµÄÏúÊÛ½á¹û`£¬¸ÃÆ·ÅÆÔÚ2018ÄêµÚÈı¼¾¶È¾»ÓªÊÕÔö³¤21%£»ÊÂÊµÉÏ£¬ÀîÎ¬Ë¹(Levi¡¯s)ĞÂÒ»ÂÖ`´óËÁĞû´«µÄ`IPO²¿·ÖÊÇÎª`Ó­ºÏ½ôÉí¿ãÊĞ³¡`¶øÎªÅ£×Ğ¿ã¼ÓÈëµÄ¡°À­Éì¡±ÔªËØËù´øÀ´µÄ£¬Òò´ËÕâÖÖ¡°Á÷ĞĞ×Å×°Ñ¡Ôñ¡±£¨ÕâÊÇ¡¶¹Û²ìÕß¡·Îª½ôÉí¿ã´òÉÏµÄ±êÇ©£©ÔÚ`¶ÌÆÚÄÚ²»»áÏûÊ§`¡£ËùÓĞÕâĞ©¶¼±íÃ÷£¬Ê¥Ä¸´óÑ§µÄ`ĞúÏù`¿ÉÄÜ²»ÊÇÒ»ÖÖ`Å¼È»`£¬¶øÊÇ`Ô¤Ê¾`×Å¸ü¶à¶«Î÷¡£
+But `judging by` Lululemonâ€™s recent results, which saw net revenue rise 21 percent in the third quarter of 2018, and the fact that part of Leviâ€™s `much-heralded` IPO `was attributed to` the â€œstretchâ€ now included in jeans to cater to the `leggings market`, this â€œpopular clothing choiceâ€ (as The Observer labeled them) is `not going away any time soon`. All this suggests that the Notre Dame `uproar` may not be a `fluke, but a harbinger`.
+ä½†`è¯·çœ‹Lululemonè¿‘æœŸçš„é”€å”®ç»“æœ`ï¼Œè¯¥å“ç‰Œåœ¨2018å¹´ç¬¬ä¸‰å­£åº¦å‡€è¥æ”¶å¢é•¿21%ï¼›äº‹å®ä¸Šï¼Œæç»´æ–¯(Leviâ€™s)æ–°ä¸€è½®`å¤§è‚†å®£ä¼ çš„`IPOéƒ¨åˆ†æ˜¯ä¸º`è¿åˆç´§èº«è£¤å¸‚åœº`è€Œä¸ºç‰›ä»”è£¤åŠ å…¥çš„â€œæ‹‰ä¼¸â€å…ƒç´ æ‰€å¸¦æ¥çš„ï¼Œå› æ­¤è¿™ç§â€œæµè¡Œç€è£…é€‰æ‹©â€ï¼ˆè¿™æ˜¯ã€Šè§‚å¯Ÿè€…ã€‹ä¸ºç´§èº«è£¤æ‰“ä¸Šçš„æ ‡ç­¾ï¼‰åœ¨`çŸ­æœŸå†…ä¸ä¼šæ¶ˆå¤±`ã€‚æ‰€æœ‰è¿™äº›éƒ½è¡¨æ˜ï¼Œåœ£æ¯å¤§å­¦çš„`å–§åš£`å¯èƒ½ä¸æ˜¯ä¸€ç§`å¶ç„¶`ï¼Œè€Œæ˜¯`é¢„ç¤º`ç€æ›´å¤šä¸œè¥¿ã€‚
 
 `Earlier in the day`, Mr. Gou `donned a baseball cap and sunglasses` and visited a temple in Taipei `dedicated to` a popular `Taoist and Buddhist` goddess, Mazu, who `is believed to` protect seafarers.
-`µ±ÌìÔçĞ©Ê±ºò`£¬¹ùÌ¨Ãú`´÷×Å°ôÇòÃ±`ºÍÌ«Ñô¾µ£¬Ç°ÍùÌ¨±±Ò»¸ö`¹©·îµÀ½ÌºÍ·ğ½Ì`Å®ÉñÂè×æµÄËÂÃí²Î°İ£¬Âè×æ`±»ÈÏÎª`ÊÇº½º£ÕßµÄ±£»¤Éñ¡£
+`å½“å¤©æ—©äº›æ—¶å€™`ï¼Œéƒ­å°é“­`æˆ´ç€æ£’çƒå¸½`å’Œå¤ªé˜³é•œï¼Œå‰å¾€å°åŒ—ä¸€ä¸ª`ä¾›å¥‰é“æ•™å’Œä½›æ•™`å¥³ç¥å¦ˆç¥–çš„å¯ºåº™å‚æ‹œï¼Œå¦ˆç¥–`è¢«è®¤ä¸º`æ˜¯èˆªæµ·è€…çš„ä¿æŠ¤ç¥ã€‚
 
 `Unlike his rivals`, he has no experience in government, but his personal wealth, estimated by Forbes to exceed $7 billion, will be an asset, `both in terms of prestige` and financing his campaign.
-`²»Í¬ÓÚ¾ºÑ¡¶ÔÊÖ`£¬ËûÃ»ÓĞ´ÓÕşµÄ¾­Ñé£¬µ«ËûµÄ¸öÈË²Æ¸»¡ª¾İ¡¶¸£²¼Ë¹¡·(Forbes)¹À¼Æ³¬¹ı70ÒÚÃÀÔª¡ªÎŞÂÛÊÇ¶ÔËûµÄ`ÉùÍû`£¬»¹ÊÇÔÚÌá¹©¾ºÑ¡×Ê½ğ·½Ãæ£¬¶¼ºÜÓĞÓÃ¡£
+`ä¸åŒäºç«é€‰å¯¹æ‰‹`ï¼Œä»–æ²¡æœ‰ä»æ”¿çš„ç»éªŒï¼Œä½†ä»–çš„ä¸ªäººè´¢å¯Œâ€”æ®ã€Šç¦å¸ƒæ–¯ã€‹(Forbes)ä¼°è®¡è¶…è¿‡70äº¿ç¾å…ƒâ€”æ— è®ºæ˜¯å¯¹ä»–çš„`å£°æœ›`ï¼Œè¿˜æ˜¯åœ¨æä¾›ç«é€‰èµ„é‡‘æ–¹é¢ï¼Œéƒ½å¾ˆæœ‰ç”¨ã€‚
 
-Mr. Gou has `long toyed with the idea of a presidential run`, Mr. Gou¡¯s business background will `set him apart from` candidates in both the parties.
-¹ùÌ¨Ãú`ÔçÓĞ¾ºÑ¡×ÜÍ³µÄÄîÍ·`,¹ùÌ¨ÃúµÄÉÌÒµ±³¾°½«Ê¹Ëû`ÓĞ±ğÓÚ`Ãñ½øµ³ºÍ¹úÃñµ³µÄÆäËûºòÑ¡ÈË¡£
+Mr. Gou has `long toyed with the idea of a presidential run`, Mr. Gouâ€™s business background will `set him apart from` candidates in both the parties.
+éƒ­å°é“­`æ—©æœ‰ç«é€‰æ€»ç»Ÿçš„å¿µå¤´`,éƒ­å°é“­çš„å•†ä¸šèƒŒæ™¯å°†ä½¿ä»–`æœ‰åˆ«äº`æ°‘è¿›å…šå’Œå›½æ°‘å…šçš„å…¶ä»–å€™é€‰äººã€‚
 
-`Just days after` Mr. Trump `lavished praise on` him in Washington, Mr. Gou showed China¡¯s premier, Li Keqiang, around a Foxconn manufacturing facility in the central Chinese city of Zhengzhou.
-¾ÍÔÚÌØÀÊÆÕÔÚ»ªÊ¢¶Ù¶Ô¹ùÌ¨Ãú`´ó¼ÓÔŞÑï`µÄ`¼¸Ììºó`£¬¹ùÌ¨Ãú´ø×ÅÖĞ¹ú×ÜÀíÀî¿ËÇ¿²Î¹ÛÁË¸»Ê¿¿µÎ»ÓÚÖĞ¹úÖĞ²¿³ÇÊĞÖ£ÖİµÄÒ»¸öÉú²úÔ°Çø¡£
+`Just days after` Mr. Trump `lavished praise on` him in Washington, Mr. Gou showed Chinaâ€™s premier, Li Keqiang, around a Foxconn manufacturing facility in the central Chinese city of Zhengzhou.
+å°±åœ¨ç‰¹æœ—æ™®åœ¨åç››é¡¿å¯¹éƒ­å°é“­`å¤§åŠ èµæ‰¬`çš„`å‡ å¤©å`ï¼Œéƒ­å°é“­å¸¦ç€ä¸­å›½æ€»ç†æå…‹å¼ºå‚è§‚äº†å¯Œå£«åº·ä½äºä¸­å›½ä¸­éƒ¨åŸå¸‚éƒ‘å·çš„ä¸€ä¸ªç”Ÿäº§å›­åŒºã€‚
 
-`Regardless` who emerges as the Kuomintang candidate, the race `promises to focus heavily` on Taiwan¡¯s tricky relationship with China. 
-`ÎŞÂÛ`Ë­ÔÚ¹úÃñµ³³õÑ¡ÖĞÊ¤³ö£¬Ì¨ÍåÓëÖĞ¹ú´óÂ½µÄÎ¢Ãî¹ØÏµ¶¼`½«³ÉÎªÕâ´Î×ÜÍ³´óÑ¡µÄÖØµã`¡£
+`Regardless` who emerges as the Kuomintang candidate, the race `promises to focus heavily` on Taiwanâ€™s tricky relationship with China. 
+`æ— è®º`è°åœ¨å›½æ°‘å…šåˆé€‰ä¸­èƒœå‡ºï¼Œå°æ¹¾ä¸ä¸­å›½å¤§é™†çš„å¾®å¦™å…³ç³»éƒ½`å°†æˆä¸ºè¿™æ¬¡æ€»ç»Ÿå¤§é€‰çš„é‡ç‚¹`ã€‚
 
-President Tsai is `facing a primary challenge within her party` from her former premier, William Lai, who is an `outspoken` supporter of independence for Taiwan, `in contrast to` Ms. Tsai¡¯s `pragmatic approach`.
-²ÌÓ¢ÎÄ×ÜÍ³ÔÚµ³ÄÚ`ÃæÁÙ`×ÅÀ´×ÔÇ°ĞĞÕşÔº³¤ÀµÇåµÂµÄÖ÷ÒªÌôÕ½¡£ÀµÇåµÂ`Ö±ÑÔ²»»ä`µØÖ§³ÖÌ¨Íå¶ÀÁ¢£¬ÕâÓë²ÌÓ¢ÎÄµÄ`ÎñÊµ×ö·¨`ĞÎ³É`ÏÊÃ÷¶Ô±È`¡£
+President Tsai is `facing a primary challenge within her party` from her former premier, William Lai, who is an `outspoken` supporter of independence for Taiwan, `in contrast to` Ms. Tsaiâ€™s `pragmatic approach`.
+è”¡è‹±æ–‡æ€»ç»Ÿåœ¨å…šå†…`é¢ä¸´`ç€æ¥è‡ªå‰è¡Œæ”¿é™¢é•¿èµ–æ¸…å¾·çš„ä¸»è¦æŒ‘æˆ˜ã€‚èµ–æ¸…å¾·`ç›´è¨€ä¸è®³`åœ°æ”¯æŒå°æ¹¾ç‹¬ç«‹ï¼Œè¿™ä¸è”¡è‹±æ–‡çš„`åŠ¡å®åšæ³•`å½¢æˆ`é²œæ˜å¯¹æ¯”`ã€‚
 
 TikTok, the Chinese video app whose growth has been `as viral as` one of its `lip-synced dance clips`, has `encountered a roadblock` in India.
-TikTokµÄ³É³¤ËÙ¶È¾ÍÏñËüÉÏÃæÄ³¸ö`±¬ºìµÄ¶Ô¿ÚĞÍÌøÎèÊÓÆµ`Ò»Ñù£¬ÏÖÔÚÕâ¿îÀ´×ÔÖĞ¹úµÄÊÓÆµÓ¦ÓÃÔÚÓ¡¶È`Óö×è`¡£
+TikTokçš„æˆé•¿é€Ÿåº¦å°±åƒå®ƒä¸Šé¢æŸä¸ª`çˆ†çº¢çš„å¯¹å£å‹è·³èˆè§†é¢‘`ä¸€æ ·ï¼Œç°åœ¨è¿™æ¬¾æ¥è‡ªä¸­å›½çš„è§†é¢‘åº”ç”¨åœ¨å°åº¦`é‡é˜»`ã€‚
 
 The lower court, based in Tamil Nadu State, is `hearing a petition` seeking a `ban` on the app, `on the grounds that` it `spreads pornography` and threatens the `well-being` of children.
-Ì©Ã×¶ûÄÉµÂ°îµÄÏÂ¼¶·¨ÔºÕıÔÚ¾ÍÑ°Çó`½ûÖ¹`Õâ¿îÓ¦ÓÃµÄ`ÇëÔ¸Êé¾ÙĞĞÌıÖ¤`£¬`ÀíÓÉÊÇ`Ëü`É¢²¥`É«ÇéĞÅÏ¢£¬Î£º¦¶ùÍ¯`½¡¿µ`¡£
+æ³°ç±³å°”çº³å¾·é‚¦çš„ä¸‹çº§æ³•é™¢æ­£åœ¨å°±å¯»æ±‚`ç¦æ­¢`è¿™æ¬¾åº”ç”¨çš„`è¯·æ„¿ä¹¦ä¸¾è¡Œå¬è¯`ï¼Œ`ç†ç”±æ˜¯`å®ƒ`æ•£æ’­`è‰²æƒ…ä¿¡æ¯ï¼Œå±å®³å„¿ç«¥`å¥åº·`ã€‚
 
-TikTok¡¯s `lax controls` have also `incurred the wrath` of American regulators.
-TikTok`¹Ü¿ØÉÏµÄËÉĞ¸`Ò²`ÕĞÖÂ`ÁËÃÀ¹ú¼à¹Ü»ú¹¹µÄ`·ßÅ­`¡£
+TikTokâ€™s `lax controls` have also `incurred the wrath` of American regulators.
+TikTok`ç®¡æ§ä¸Šçš„æ¾æ‡ˆ`ä¹Ÿ`æ‹›è‡´`äº†ç¾å›½ç›‘ç®¡æœºæ„çš„`æ„¤æ€’`ã€‚
 
-Internet companies in the United States `are supposed to seek such consent` before allowing children to use their services, but India has no such regulations. That has left communities `struggling to cope with` technology¡¯s influence on their children.
-ÔÚÃÀ¹ú£¬»¥ÁªÍøÆóÒµÔÚÔÊĞí¶ùÍ¯Ê¹ÓÃÆä·şÎñÇ°`ÒªÏÈÕ÷µÃ¸¸Ä¸Í¬Òâ`£¬µ«Ó¡¶ÈÃ»ÓĞÕâÀà¹æ¶¨¡£ÕâÒÑµ¼ÖÂÖÚ¶àÉçÇø`ºÜÄÑÓ¦¶Ô`¿Æ¼¼¶Ô¶ùÍ¯µÄÓ°Ïì¡£
+Internet companies in the United States `are supposed to seek such consent` before allowing children to use their services, but India has no such regulations. That has left communities `struggling to cope with` technologyâ€™s influence on their children.
+åœ¨ç¾å›½ï¼Œäº’è”ç½‘ä¼ä¸šåœ¨å…è®¸å„¿ç«¥ä½¿ç”¨å…¶æœåŠ¡å‰`è¦å…ˆå¾å¾—çˆ¶æ¯åŒæ„`ï¼Œä½†å°åº¦æ²¡æœ‰è¿™ç±»è§„å®šã€‚è¿™å·²å¯¼è‡´ä¼—å¤šç¤¾åŒº`å¾ˆéš¾åº”å¯¹`ç§‘æŠ€å¯¹å„¿ç«¥çš„å½±å“ã€‚
 
-`More broadly`, India¡¯s central government is `wrestling with` an `overhaul` of its rules governing online services. 
-`¸ü¹ã·ºµØËµ`£¬Ó¡¶ÈÖĞÑëÕş¸®Õı`È«Á¦ÒÔ¸°`£¬¶ÔÆäÔÚÏß·şÎñ¹ÜÀí¹æÔò½øĞĞ`È«Ãæ¸Ä¸ï`¡£
+`More broadly`, Indiaâ€™s central government is `wrestling with` an `overhaul` of its rules governing online services. 
+`æ›´å¹¿æ³›åœ°è¯´`ï¼Œå°åº¦ä¸­å¤®æ”¿åºœæ­£`å…¨åŠ›ä»¥èµ´`ï¼Œå¯¹å…¶åœ¨çº¿æœåŠ¡ç®¡ç†è§„åˆ™è¿›è¡Œ`å…¨é¢æ”¹é©`ã€‚
 
-Some Indian officials suspect that China¡¯s government is using popular Chinese apps to `scoop up private data` on Indians.
-Ò»Ğ©Ó¡¶È¹ÙÔ±»³ÒÉ£¬ÖĞ¹úÕş¸®ÕıÔÚÀûÓÃÕâĞ©ÈÈÃÅÖĞ¹úÓ¦ÓÃ`²É¼¯Ó¡¶È¹«ÃñµÄË½ÈËĞÅÏ¢`¡£
+Some Indian officials suspect that Chinaâ€™s government is using popular Chinese apps to `scoop up private data` on Indians.
+ä¸€äº›å°åº¦å®˜å‘˜æ€€ç–‘ï¼Œä¸­å›½æ”¿åºœæ­£åœ¨åˆ©ç”¨è¿™äº›çƒ­é—¨ä¸­å›½åº”ç”¨`é‡‡é›†å°åº¦å…¬æ°‘çš„ç§äººä¿¡æ¯`ã€‚
 
-¡°Wow, that¡¯s `quite an achievement`!¡± Quake wrote back. ¡°Hopefully she will `carry to term` ¡­¡±
-¡°ÍÛ£¬ÕâÕæÊÇÒ»¸ö`ÁË²»ÆğµÄ³É¾Í`£¡¡±¿ü¿Ë»ØĞÅËµ¡£¡°Ï£ÍûËıÄÜ`¼á³Öµ½·ÖÃä`¡­¡­¡±
+â€œWow, thatâ€™s `quite an achievement`!â€ Quake wrote back. â€œHopefully she will `carry to term` â€¦â€
+â€œå“‡ï¼Œè¿™çœŸæ˜¯ä¸€ä¸ª`äº†ä¸èµ·çš„æˆå°±`ï¼â€å¥å…‹å›ä¿¡è¯´ã€‚â€œå¸Œæœ›å¥¹èƒ½`åšæŒåˆ°åˆ†å¨©`â€¦â€¦â€
 
-Quake¡¯s interactions with He reflect issues that leading scientific institutions are now `grappling with`.
-¿ü¿ËÓëºØ½¨¿üµÄ»¥¶¯·´Ó³ÁËÁìÏÈµÄ¿ÆÑĞ»ú¹¹Ä¿Ç°ÕıÔÚ`Å¬Á¦½â¾ö`µÄÎÊÌâ¡£
+Quakeâ€™s interactions with He reflect issues that leading scientific institutions are now `grappling with`.
+å¥å…‹ä¸è´ºå»ºå¥çš„äº’åŠ¨åæ˜ äº†é¢†å…ˆçš„ç§‘ç ”æœºæ„ç›®å‰æ­£åœ¨`åŠªåŠ›è§£å†³`çš„é—®é¢˜ã€‚
 
 Quake is an entrepreneur whose inventions include blood tests to detect Down syndrome in pregnancy and to `avoid organ transplant rejection`.
-¿ü¿ËÊÇÒ»ÃûÆóÒµ¼Ò£¬ËûµÄ·¢Ã÷°üÀ¨ÓÃÓÚ¼ì²âÈÑÉïÆÚÌÆÊÏ×ÛºÏÖ¢ÒÔ¼°`±ÜÃâÆ÷¹ÙÒÆÖ²ÅÅÒì`µÄÑªÒº¼ì²â¡£
+å¥å…‹æ˜¯ä¸€åä¼ä¸šå®¶ï¼Œä»–çš„å‘æ˜åŒ…æ‹¬ç”¨äºæ£€æµ‹å¦Šå¨ æœŸå”æ°ç»¼åˆç—‡ä»¥åŠ`é¿å…å™¨å®˜ç§»æ¤æ’å¼‚`çš„è¡€æ¶²æ£€æµ‹ã€‚
 
-¡°I said, ¡®That¡¯s a terrible idea. Why would you want to do that?¡¯¡± Quake `recalled`. ¡°He `kind of pushed back` and it was clear that he wasn¡¯t listening to me.¡±
-¡°ÎÒËµ£¬¡®ÕâÊÇ¸öÔã¸âµÄÖ÷Òâ¡£ÄãÎªÊ²Ã´Òª×öÕâ¸öÄØ£¿¡¯¡±¿ü¿Ë`»ØÒä`Ëµ¡£¡°Ëû`ÓĞµã·´²µ`µÄÒâË¼£¬ÏÔÈ»ËûÃ»ÌıÎÒµÄ»°¡£¡±
+â€œI said, â€˜Thatâ€™s a terrible idea. Why would you want to do that?â€™â€ Quake `recalled`. â€œHe `kind of pushed back` and it was clear that he wasnâ€™t listening to me.â€
+â€œæˆ‘è¯´ï¼Œâ€˜è¿™æ˜¯ä¸ªç³Ÿç³•çš„ä¸»æ„ã€‚ä½ ä¸ºä»€ä¹ˆè¦åšè¿™ä¸ªå‘¢ï¼Ÿâ€™â€å¥å…‹`å›å¿†`è¯´ã€‚â€œä»–`æœ‰ç‚¹åé©³`çš„æ„æ€ï¼Œæ˜¾ç„¶ä»–æ²¡å¬æˆ‘çš„è¯ã€‚â€
 
-¡°I didn¡¯t think it was something `he would seriously do`,¡± said Quake, adding that he assumed if He sought `ethical approval` and was `rebuffed`, ¡°`presumably` he¡¯d stop.¡±
-¡°ÎÒµ±Ê±Ã»¾õµÃËû`»á°ÑÕâÊÂµ±Õæ`£¬¡±¿ü¿ËËµ£¬Ëû½Ó×ÅËµËûÒÔÎªºØ½¨¿üÑ°Çó¹ı`Â×ÀíÉóÅú`È»ºó±»`¾Ü`ÁË£¬¡°`ºÜ¿ÉÄÜ`Ëû»á°ÕĞİ¡£¡±
+â€œI didnâ€™t think it was something `he would seriously do`,â€ said Quake, adding that he assumed if He sought `ethical approval` and was `rebuffed`, â€œ`presumably` heâ€™d stop.â€
+â€œæˆ‘å½“æ—¶æ²¡è§‰å¾—ä»–`ä¼šæŠŠè¿™äº‹å½“çœŸ`ï¼Œâ€å¥å…‹è¯´ï¼Œä»–æ¥ç€è¯´ä»–ä»¥ä¸ºè´ºå»ºå¥å¯»æ±‚è¿‡`ä¼¦ç†å®¡æ‰¹`ç„¶åè¢«`æ‹’`äº†ï¼Œâ€œ`å¾ˆå¯èƒ½`ä»–ä¼šç½¢ä¼‘ã€‚â€
 
-¡°If in my interactions with JK I had any `hint of misconduct`, I would have handled it completely differently. And I think `I would have been very aggressive about telling` people about that.¡±
-¿ü¿ËÔÚ½ÓÊÜ²É·ÃÊ±±íÊ¾¡£¡°Èç¹ûÔÚ¸úJKµÄ»¥¶¯ÖĞ£¬ÎÒ¾õ²ìµ½ÁËÈÎºÎ`ĞĞÎª²»¶ËµÄ¼£Ïó`£¬ÄÇÃ´ÎÒµÄ´¦Àí·½Ê½»áÍêÈ«²»Í¬¡£²¢ÇÒÎÒ»á`·Ç³£»ı¼«µØÈ¥Í¨±¨`Õâ¼şÊÂ¡£¡±
+â€œIf in my interactions with JK I had any `hint of misconduct`, I would have handled it completely differently. And I think `I would have been very aggressive about telling` people about that.â€
+å¥å…‹åœ¨æ¥å—é‡‡è®¿æ—¶è¡¨ç¤ºã€‚â€œå¦‚æœåœ¨è·ŸJKçš„äº’åŠ¨ä¸­ï¼Œæˆ‘è§‰å¯Ÿåˆ°äº†ä»»ä½•`è¡Œä¸ºä¸ç«¯çš„è¿¹è±¡`ï¼Œé‚£ä¹ˆæˆ‘çš„å¤„ç†æ–¹å¼ä¼šå®Œå…¨ä¸åŒã€‚å¹¶ä¸”æˆ‘ä¼š`éå¸¸ç§¯æåœ°å»é€šæŠ¥`è¿™ä»¶äº‹ã€‚â€
 
-He¡¯s response `unsettled` him, he said. ¡°`The little corner-cutting thing came up` again: ¡®Well, there were actually two hospitals involved and you know, we had approval from one and we did work at both hospitals.¡¯ And I said, ¡®Well you better make sure you `have that straightened out`.¡¯¡±
-ËûËµ£¬ºØ½¨¿üµÄ»Ø´ğÈÃËû`¸Ğµ½²»°²`¡£¡°`Í¶»úÈ¡ÇÉµÄĞ¡»¨ÕĞÓÖ³öÏÖÁË`£º¡®Êµ¼ÊÉÏÓĞÁ½¼ÒÒ½Ôº²ÎÓë£¬ÄãÖªµÀ£¬ÎÒÃÇµÃµ½ÁËÒ»¼ÒÒ½ÔºµÄÅú×¼£¬ÎÒÃÇÔÚÁ½¼ÒÒ½Ôº¶¼ÔÚ×ö¡£¡¯ÎÒËµ£¬¡®Äã×îºÃ`°ÑÕâ¸ö½â¾öºÃ`¡£¡¯¡±
+Heâ€™s response `unsettled` him, he said. â€œ`The little corner-cutting thing came up` again: â€˜Well, there were actually two hospitals involved and you know, we had approval from one and we did work at both hospitals.â€™ And I said, â€˜Well you better make sure you `have that straightened out`.â€™â€
+ä»–è¯´ï¼Œè´ºå»ºå¥çš„å›ç­”è®©ä»–`æ„Ÿåˆ°ä¸å®‰`ã€‚â€œ`æŠ•æœºå–å·§çš„å°èŠ±æ‹›åˆå‡ºç°äº†`ï¼šâ€˜å®é™…ä¸Šæœ‰ä¸¤å®¶åŒ»é™¢å‚ä¸ï¼Œä½ çŸ¥é“ï¼Œæˆ‘ä»¬å¾—åˆ°äº†ä¸€å®¶åŒ»é™¢çš„æ‰¹å‡†ï¼Œæˆ‘ä»¬åœ¨ä¸¤å®¶åŒ»é™¢éƒ½åœ¨åšã€‚â€™æˆ‘è¯´ï¼Œâ€˜ä½ æœ€å¥½`æŠŠè¿™ä¸ªè§£å†³å¥½`ã€‚â€™â€
 
-Quake `pushed back`: ¡°It is `prudent` to let the peer review process `follow its course`.¡±
-¿ü¿Ë`·´²µ`Ëµ£º¡°ÈÃÍ¬ĞĞÆÀÉó`°´²¿¾Í°à`Íê³ÉÕâ¸ö¹ı³ÌÊÇ`Ã÷ÖÇÖ®¾Ù`¡£¡±
+Quake `pushed back`: â€œIt is `prudent` to let the peer review process `follow its course`.â€
+å¥å…‹`åé©³`è¯´ï¼šâ€œè®©åŒè¡Œè¯„å®¡`æŒ‰éƒ¨å°±ç­`å®Œæˆè¿™ä¸ªè¿‡ç¨‹æ˜¯`æ˜æ™ºä¹‹ä¸¾`ã€‚â€
 
-¡°He was `spinning up this huge press thing` around it,¡± Quake explained in the interview. ¡°`It was going to go well or poorly`, I didn¡¯t really know. But `it wasn¡¯t something I was involved in` and I didn¡¯t want my name on it.¡±
-¡°ËûÊÇÔÚÎ§ÈÆÕâ¼şÊÂ`´óËÁ³´×÷`£¬¡±¿ü¿ËÔÚ½ÓÊÜ²É·ÃÊ±½âÊÍËµ¡£¡°ÎÒÕæµÄ`²»ÖªµÀ½á¹ûÊÇºÃ»¹ÊÇ»µ`¡£`µ«Õâ¼şÊÂÓëÎÒÎŞ¹Ø`£¬ÎÒ²»ÏëÈÃÎÒµÄÃû×Ö³öÏÖÔÚÉÏÃæ¡£¡±
+â€œHe was `spinning up this huge press thing` around it,â€ Quake explained in the interview. â€œ`It was going to go well or poorly`, I didnâ€™t really know. But `it wasnâ€™t something I was involved in` and I didnâ€™t want my name on it.â€
+â€œä»–æ˜¯åœ¨å›´ç»•è¿™ä»¶äº‹`å¤§è‚†ç‚’ä½œ`ï¼Œâ€å¥å…‹åœ¨æ¥å—é‡‡è®¿æ—¶è§£é‡Šè¯´ã€‚â€œæˆ‘çœŸçš„`ä¸çŸ¥é“ç»“æœæ˜¯å¥½è¿˜æ˜¯å`ã€‚`ä½†è¿™ä»¶äº‹ä¸æˆ‘æ— å…³`ï¼Œæˆ‘ä¸æƒ³è®©æˆ‘çš„åå­—å‡ºç°åœ¨ä¸Šé¢ã€‚â€
 
-¡°What do you want to be when you grow up?¡±When I was a kid, I `dreaded` the question. 
-¡°³¤´óºóÄãÏë×öÊ²Ã´£¿¡±ÔÚÎÒµÄº¢ÌáÊ±´ú£¬ÎÒ`º¦ÅÂ`Õâ¸öÎÊÌâ¡£
+â€œWhat do you want to be when you grow up?â€When I was a kid, I `dreaded` the question. 
+â€œé•¿å¤§åä½ æƒ³åšä»€ä¹ˆï¼Ÿâ€åœ¨æˆ‘çš„å­©ææ—¶ä»£ï¼Œæˆ‘`å®³æ€•`è¿™ä¸ªé—®é¢˜ã€‚
 
-My first `beef with the question` is that it forces kids to define themselves `in terms of` work. When you¡¯re asked what you want to be when you grow up, it¡¯s not `socially acceptable to say`, ¡°A father,¡± or, ¡°A mother,¡± let alone, ¡°A person of integrity.¡± 
-¶ÔÓÚÕâ¸öÎÊÌâÎÒµÄµÚÒ»¸ö`²»Âú`ÊÇ£¬Ëü±ÆÆÈº¢×ÓÃÇÓÃÒ»ÖÖ¹¤×÷À´¶¨Òå×Ô¼º¡£µ±Äã±»ÎÊµ½³¤´óÒÔºóÏë×öÊ²Ã´Ê±£¬»Ø´ğ¡°Ò»¸ö¸¸Ç×¡±¡¢¡°Ò»¸öÄ¸Ç×¡±ÔÚ`Éç½»ÒâÒåÉÏÊÇ²»¿É½ÓÊÜµÄ`£¬¸ü²»ÒªËµ¡°Ò»¸öÕıÖ±µÄÈË¡±ÁË¡£
+My first `beef with the question` is that it forces kids to define themselves `in terms of` work. When youâ€™re asked what you want to be when you grow up, itâ€™s not `socially acceptable to say`, â€œA father,â€ or, â€œA mother,â€ let alone, â€œA person of integrity.â€ 
+å¯¹äºè¿™ä¸ªé—®é¢˜æˆ‘çš„ç¬¬ä¸€ä¸ª`ä¸æ»¡`æ˜¯ï¼Œå®ƒé€¼è¿«å­©å­ä»¬ç”¨ä¸€ç§å·¥ä½œæ¥å®šä¹‰è‡ªå·±ã€‚å½“ä½ è¢«é—®åˆ°é•¿å¤§ä»¥åæƒ³åšä»€ä¹ˆæ—¶ï¼Œå›ç­”â€œä¸€ä¸ªçˆ¶äº²â€ã€â€œä¸€ä¸ªæ¯äº²â€åœ¨`ç¤¾äº¤æ„ä¹‰ä¸Šæ˜¯ä¸å¯æ¥å—çš„`ï¼Œæ›´ä¸è¦è¯´â€œä¸€ä¸ªæ­£ç›´çš„äººâ€äº†ã€‚
 
-Although `having a calling` can be a source of joy, research shows that searching for one leaves students feeling `lost and confused`. And even if you¡¯re `lucky enough to stumble onto a calling`, it might not be a `viable career`.
-¾¡¹Ü`ÓµÓĞÌìÖ°`»áÊÇÒ»ÖÖ»¶ÀÖÖ®Ô´£¬µ«ÑĞ¾¿ÏÔÊ¾£¬Ñ°ÕÒÌìÖ°»áÈÃÑ§ÉúÃÇ¸Ğµ½`ÃÔÃ£ºÍÀ§»ó`¡£¶øÇÒ¼´±ãÄã`×ã¹»ĞÒÔËÅöÉÏÁËÒ»ÑùÌìÖ°`£¬ËüÒ²¿ÉÄÜ²»ÊÇ¸ö`¿ÉĞĞµÄÖ°Òµ`¡£
+Although `having a calling` can be a source of joy, research shows that searching for one leaves students feeling `lost and confused`. And even if youâ€™re `lucky enough to stumble onto a calling`, it might not be a `viable career`.
+å°½ç®¡`æ‹¥æœ‰å¤©èŒ`ä¼šæ˜¯ä¸€ç§æ¬¢ä¹ä¹‹æºï¼Œä½†ç ”ç©¶æ˜¾ç¤ºï¼Œå¯»æ‰¾å¤©èŒä¼šè®©å­¦ç”Ÿä»¬æ„Ÿåˆ°`è¿·èŒ«å’Œå›°æƒ‘`ã€‚è€Œä¸”å³ä¾¿ä½ `è¶³å¤Ÿå¹¸è¿ç¢°ä¸Šäº†ä¸€æ ·å¤©èŒ`ï¼Œå®ƒä¹Ÿå¯èƒ½ä¸æ˜¯ä¸ª`å¯è¡Œçš„èŒä¸š`ã€‚
 
-Maybe four of them could be anything they want to be. But the other 2,000 `had better learn` how to `weld`. He added: ¡°Tell the kids the truth. You can be anything you¡¯re good at ¡ª as long as they¡¯re hiring.¡±
-Ò²ĞíËûÃÇÖĞÓĞËÄÈË¿ÉÄÜ»á³ÉÎªÈÎºÎËûÃÇÏë³ÉÎªµÄÈË¡£µ«ÆäËû2000ÈË`×îºÃÑ§»á`ÔõÃ´`º¸½Ó`¡£Ëû½Ó×ÅËµ£º¡°¸úº¢×ÓËµÊµ»°¡£Äã¿ÉÒÔÈ¥×öÈÎºÎÄãÉÃ³¤µÄÊÂ¡ª¡ªÇ°ÌáÊÇËûÃÇÔÚÕĞÈË¡£¡±
+Maybe four of them could be anything they want to be. But the other 2,000 `had better learn` how to `weld`. He added: â€œTell the kids the truth. You can be anything youâ€™re good at â€” as long as theyâ€™re hiring.â€
+ä¹Ÿè®¸ä»–ä»¬ä¸­æœ‰å››äººå¯èƒ½ä¼šæˆä¸ºä»»ä½•ä»–ä»¬æƒ³æˆä¸ºçš„äººã€‚ä½†å…¶ä»–2000äºº`æœ€å¥½å­¦ä¼š`æ€ä¹ˆ`ç„Šæ¥`ã€‚ä»–æ¥ç€è¯´ï¼šâ€œè·Ÿå­©å­è¯´å®è¯ã€‚ä½ å¯ä»¥å»åšä»»ä½•ä½ æ“…é•¿çš„äº‹â€”â€”å‰ææ˜¯ä»–ä»¬åœ¨æ‹›äººã€‚â€
 
 If you `manage to overcome` those `obstacles`, there is a third `hurdle`: Careers `rarely live up to` your childhood dreams.
-Èç¹ûÄã`ÄÜ¿Ë·ş`ÕâĞ©`ÕÏ°­`£¬»¹ÓĞµÚÈıµÀ£ºÖ°Òµ`ºÜÉÙÄÜ´ïµ½`ÄãÍ¯ÄêÃÎÏëµÄÆÚÍû¡£
+å¦‚æœä½ `èƒ½å…‹æœ`è¿™äº›`éšœç¢`ï¼Œè¿˜æœ‰ç¬¬ä¸‰é“ï¼šèŒä¸š`å¾ˆå°‘èƒ½è¾¾åˆ°`ä½ ç«¥å¹´æ¢¦æƒ³çš„æœŸæœ›ã€‚
 
-In one study, looking for the ideal job left college seniors feeling more `anxious, stressed, overwhelmed and depressed` throughout the process ¡ª and less satisfied with the outcome. As Tim Urban writes, `happiness is reality minus expectations`. If you¡¯re looking for `bliss`, you¡¯re `bound to` be disappointed. 
-ÔÚÒ»ÏîÑĞ¾¿ÖĞ£¬Ñ°ÕÒÀíÏë¹¤×÷ÈÃ¸ßÄê¼¶´óÑ§ÉúÔÚÕû¸ö¹ı³ÌÖĞ¸Ğµ½¸ü¼Ó`½¹ÂÇ¡¢Ñ¹ÒÖ¡¢ÎŞÁ¦ºÍ¾ÚÉ¥`¡ª²¢¶Ô½á¹û¸ü¼Ó²»Âú¡£ÈçµÙÄ·¡¤¶ò±¾(Tim Urban)ËùĞ´£¬`ĞÒ¸£µÈÓÚÏÖÊµ×´¿ö¼õÈ¥ÆÚÍûÖµ`¡£Èç¹ûÄãÑ°ÕÒµÄÊÇ`¿ñÏ²`£¬ÄÇÃ´Äã`×¢¶¨`»áÊ§Íû¡£
+In one study, looking for the ideal job left college seniors feeling more `anxious, stressed, overwhelmed and depressed` throughout the process â€” and less satisfied with the outcome. As Tim Urban writes, `happiness is reality minus expectations`. If youâ€™re looking for `bliss`, youâ€™re `bound to` be disappointed. 
+åœ¨ä¸€é¡¹ç ”ç©¶ä¸­ï¼Œå¯»æ‰¾ç†æƒ³å·¥ä½œè®©é«˜å¹´çº§å¤§å­¦ç”Ÿåœ¨æ•´ä¸ªè¿‡ç¨‹ä¸­æ„Ÿåˆ°æ›´åŠ `ç„¦è™‘ã€å‹æŠ‘ã€æ— åŠ›å’Œæ²®ä¸§`â€”å¹¶å¯¹ç»“æœæ›´åŠ ä¸æ»¡ã€‚å¦‚è’‚å§†Â·å„æœ¬(Tim Urban)æ‰€å†™ï¼Œ`å¹¸ç¦ç­‰äºç°å®çŠ¶å†µå‡å»æœŸæœ›å€¼`ã€‚å¦‚æœä½ å¯»æ‰¾çš„æ˜¯`ç‹‚å–œ`ï¼Œé‚£ä¹ˆä½ `æ³¨å®š`ä¼šå¤±æœ›ã€‚
 
-The `upside` of low expectations is that they `erase the gap` between what we wanted and what we got. `Extensive evidence` shows that instead of `painting a rosy picture` of a job, `you¡¯re better off going in` with a realistic preview of what it¡¯s really like, `warts and all`.
-µÍÆÚÍûÖµµÄÒ»¸ö`ºÃ´¦`ÊÇ£¬ËüÃÇÄÜ`Ïûåô`ÎÒÃÇËùÏëÓëËùµÃÖ®¼äµÄ²î¾à¡£`´óÁ¿Ö¤¾İ`±íÃ÷£¬ÓëÆä°ÑÒ»·İ¹¤×÷ÏëÏóµÃºÜÃÀºÃ£¬»¹²»ÈçÔÚÈëÖ°Ê±ÌùºÏÊµ¼ÊµØÔ¤ÏëÒ»ÏÂËüÕæÊµµÄÑù×Ó£¬²¢ÇÒ`ºÁÎŞ±£Áô`¡£
+The `upside` of low expectations is that they `erase the gap` between what we wanted and what we got. `Extensive evidence` shows that instead of `painting a rosy picture` of a job, `youâ€™re better off going in` with a realistic preview of what itâ€™s really like, `warts and all`.
+ä½æœŸæœ›å€¼çš„ä¸€ä¸ª`å¥½å¤„`æ˜¯ï¼Œå®ƒä»¬èƒ½`æ¶ˆå¼­`æˆ‘ä»¬æ‰€æƒ³ä¸æ‰€å¾—ä¹‹é—´çš„å·®è·ã€‚`å¤§é‡è¯æ®`è¡¨æ˜ï¼Œä¸å…¶æŠŠä¸€ä»½å·¥ä½œæƒ³è±¡å¾—å¾ˆç¾å¥½ï¼Œè¿˜ä¸å¦‚åœ¨å…¥èŒæ—¶è´´åˆå®é™…åœ°é¢„æƒ³ä¸€ä¸‹å®ƒçœŸå®çš„æ ·å­ï¼Œå¹¶ä¸”`æ¯«æ— ä¿ç•™`ã€‚
 
-I¡¯m all for encouraging youngsters to `aim high and dream big`. 
-ÎÒÍêÈ«Ö§³ÖÄêÇáÈË`Á¦ÕùÉÏÓÎ¡¢Ö¾´æ¸ßÔ¶`¡£
+Iâ€™m all for encouraging youngsters to `aim high and dream big`. 
+æˆ‘å®Œå…¨æ”¯æŒå¹´è½»äºº`åŠ›äº‰ä¸Šæ¸¸ã€å¿—å­˜é«˜è¿œ`ã€‚
 
 Mr. Pillsbury said he took that to imply that his visa application had been `stymied` in `reprisal` for the new restrictions.
-°×°îÈğËµ£¬Ëû°Ñ¸Ã¹ÙÔ±µÄÒâË¼Àí½âÎª£¬ËûµÄÇ©Ö¤ÉêÇë`ÊÜ×è`ÊÇ¶ÔÕâĞ©ĞÂÏŞÖÆµÄ`±¨¸´`¡£
+ç™½é‚¦ç‘è¯´ï¼Œä»–æŠŠè¯¥å®˜å‘˜çš„æ„æ€ç†è§£ä¸ºï¼Œä»–çš„ç­¾è¯ç”³è¯·`å—é˜»`æ˜¯å¯¹è¿™äº›æ–°é™åˆ¶çš„`æŠ¥å¤`ã€‚
 
 He used a `Chinese idiom` to `characterize` the move: killing a chicken to scare the monkeys, which means sending a warning by making someone an example.
-ËûÓÃÁËÒ»¸ö`ÖĞ¹ú³ÉÓï`À´`ĞÎÈİ`ÕâÖÖ±¨¸´£ºÉ±¼¦ÙÓºï£¬ÒâË¼ÊÇ³Í·£Ä³ÈËÒÔ¾¯½äËûÈË¡£
+ä»–ç”¨äº†ä¸€ä¸ª`ä¸­å›½æˆè¯­`æ¥`å½¢å®¹`è¿™ç§æŠ¥å¤ï¼šæ€é¸¡å„†çŒ´ï¼Œæ„æ€æ˜¯æƒ©ç½šæŸäººä»¥è­¦æˆ’ä»–äººã€‚
 
 F.B.I. had `rescinded` or put on review the visas of as many as 30 Chinese scholars who visit the United States, reflecting `growing concern` about Chinese intelligence-gathering.
-FBI`µõÏú`ÁË»òÖØĞÂÉó²éÁË¶à´ï30ÃûÀ´ÃÀ¹ú·ÃÎÊµÄÖĞ¹úÑ§ÕßµÄÇ©Ö¤£¬·´Ó³³öÕş¸®¶ÔÖĞ¹úÇé±¨ÊÕ¼¯»î¶¯µÄ`µ£ÓÇÈÕÒæ¼Ó¾ç`¡£
+FBI`åŠé”€`äº†æˆ–é‡æ–°å®¡æŸ¥äº†å¤šè¾¾30åæ¥ç¾å›½è®¿é—®çš„ä¸­å›½å­¦è€…çš„ç­¾è¯ï¼Œåæ˜ å‡ºæ”¿åºœå¯¹ä¸­å›½æƒ…æŠ¥æ”¶é›†æ´»åŠ¨çš„`æ‹…å¿§æ—¥ç›ŠåŠ å‰§`ã€‚
 
 Some people in China have their own label for the `polarizing` American president: savior.
-¶ÔÓÚÕâÎ»ÈÃ¹«ÖÚÒâ¼û`Á½¼«·Ö»¯µÄ`ÃÀ¹ú×ÜÍ³£¬ÖĞ¹úÒ»Ğ©ÈËÓĞ×Ô¼ºµÄ±êÇ©£º¾ÈÊÀÖ÷¡£
+å¯¹äºè¿™ä½è®©å…¬ä¼—æ„è§`ä¸¤æåˆ†åŒ–çš„`ç¾å›½æ€»ç»Ÿï¼Œä¸­å›½ä¸€äº›äººæœ‰è‡ªå·±çš„æ ‡ç­¾ï¼šæ•‘ä¸–ä¸»ã€‚
 
-At dinner tables, in social media chats and in `discreet conversations`, some of the country¡¯s `intellectual` and business elite are `half-jokingly, half-seriously` cheering on the leader
-ÔÚ²Í×ÀÉÏ¡¢ÔÚÉç½»Ã½ÌåÁÄÌìÊ±¡¢ÔÚ`½÷É÷µÄ½»Ì¸`ÖĞ£¬ÖĞ¹úÒ»Ğ©`ÖªÊ¶·Ö×Ó`ºÍÉÌ½ç¾«Ó¢`°ë¿ªÍæĞ¦°ëÈÏÕæµØ`ÎªÕâÎ»Áìµ¼ÈËºÈ²Ê
+At dinner tables, in social media chats and in `discreet conversations`, some of the countryâ€™s `intellectual` and business elite are `half-jokingly, half-seriously` cheering on the leader
+åœ¨é¤æ¡Œä¸Šã€åœ¨ç¤¾äº¤åª’ä½“èŠå¤©æ—¶ã€åœ¨`è°¨æ…çš„äº¤è°ˆ`ä¸­ï¼Œä¸­å›½ä¸€äº›`çŸ¥è¯†åˆ†å­`å’Œå•†ç•Œç²¾è‹±`åŠå¼€ç©ç¬‘åŠè®¤çœŸåœ°`ä¸ºè¿™ä½é¢†å¯¼äººå–å½©
 
 The chances that Mr. Trump alone can change China's ways are `exceedingly slim`.
-µ¥Æ¾ÌØÀÊÆÕÒ»ÈË¸Ä±äÖĞ¹úĞĞÊÂ·½Ê½µÄ¼¸ÂÊ`¼«ÆäÃìÃ£`¡£
+å•å‡­ç‰¹æœ—æ™®ä¸€äººæ”¹å˜ä¸­å›½è¡Œäº‹æ–¹å¼çš„å‡ ç‡`æå…¶æ¸ºèŒ«`ã€‚
 
-¡°There¡¯s only `a pool of stagnant water`.¡±
-¡°Ö»ÓĞÒ»Ì¶ËÀË®¡£¡±
+â€œThereâ€™s only `a pool of stagnant water`.â€
+â€œåªæœ‰ä¸€æ½­æ­»æ°´ã€‚â€
 
 leadership has `embraced` some `modest liberalization`. The government has promised to cut taxes, `ease other burdens` on the private sector and give markets `a somewhat bigger role` in the economy.
-Áìµ¼²ãÒÑ¾­½ÓÊÜÁËÄ³ÖÖ`ÊÊ¶ÈµÄ×ÔÓÉ»¯`¡£Õş¸®ÒÑ³ĞÅµ¼õË°¡¢¼õÇáÃñÓª²¿ÃÅ¸ºµ££¬²¢ÈÃÊĞ³¡ÔÚ¾­¼ÃÖĞ·¢»Ó¸ü´ó×÷ÓÃ¡£
+é¢†å¯¼å±‚å·²ç»æ¥å—äº†æŸç§`é€‚åº¦çš„è‡ªç”±åŒ–`ã€‚æ”¿åºœå·²æ‰¿è¯ºå‡ç¨ã€å‡è½»æ°‘è¥éƒ¨é—¨è´Ÿæ‹…ï¼Œå¹¶è®©å¸‚åœºåœ¨ç»æµä¸­å‘æŒ¥æ›´å¤§ä½œç”¨ã€‚
 
-But there¡¯s little evidence that the leadership is `easing its grip in a lasting way`. The few `business-friendly gestures` are `reactive rather than proactive`. 
-µ«ÏÊÓĞÖ¤¾İ±íÃ÷£¬ÖĞ¹úµÄÁìµ¼²ãÕıÔÚ`ÒÔ³Ö¾ÃµÄ·½Ê½·ÅËÉ¹Ü¿Ø`¡£ÎªÊı²»¶àµÄÆóÒµÓÑºÃ±íÌ¬ÊÇ`Ó¦¶ÔÖ®¾Ù£¬¶ø²»ÊÇÖ÷¶¯Çó±ä`¡£
+But thereâ€™s little evidence that the leadership is `easing its grip in a lasting way`. The few `business-friendly gestures` are `reactive rather than proactive`. 
+ä½†é²œæœ‰è¯æ®è¡¨æ˜ï¼Œä¸­å›½çš„é¢†å¯¼å±‚æ­£åœ¨`ä»¥æŒä¹…çš„æ–¹å¼æ”¾æ¾ç®¡æ§`ã€‚ä¸ºæ•°ä¸å¤šçš„ä¼ä¸šå‹å¥½è¡¨æ€æ˜¯`åº”å¯¹ä¹‹ä¸¾ï¼Œè€Œä¸æ˜¯ä¸»åŠ¨æ±‚å˜`ã€‚
 
-There is a `caveat`: The signs of improvement most likely do not `stem from` a sudden burst of confidence in the strength of the country¡¯s economy among Chinese business leaders.
-µ«ĞèÒª`¾¯¸æ`µÄÊÇ£º¾­¼ÃºÃ×ªµÄ¼£ÏóºÜ¿ÉÄÜ²¢·Ç`Ô´×Ô`ÖĞ¹úÉÌ½çÁìĞä¶ÔÖĞ¹ú¾­¼ÃÊµÁ¦µÄĞÅĞÄÍ»È»±¬·¢¡£
+There is a `caveat`: The signs of improvement most likely do not `stem from` a sudden burst of confidence in the strength of the countryâ€™s economy among Chinese business leaders.
+ä½†éœ€è¦`è­¦å‘Š`çš„æ˜¯ï¼šç»æµå¥½è½¬çš„è¿¹è±¡å¾ˆå¯èƒ½å¹¶é`æºè‡ª`ä¸­å›½å•†ç•Œé¢†è¢–å¯¹ä¸­å›½ç»æµå®åŠ›çš„ä¿¡å¿ƒçªç„¶çˆ†å‘ã€‚
 
 Richard searched the taxi and then the park, `scouring around the gardens`, the playgrounds and `a bronze statue of Peter Pan`
-Àí²éµÂÏÈÔÚ³ö×â³µÀïËÑÑ°£¬È»ºó½øÁË¹«Ô°£¬ÔÚ»¨Ô°¡¢ÓÎÀÖ³¡ºÍ±ËµÃ¡¤ÅËµÄÍ­ÏñÖÜÎ§Ñ°ÕÒ
+ç†æŸ¥å¾·å…ˆåœ¨å‡ºç§Ÿè½¦é‡Œæœå¯»ï¼Œç„¶åè¿›äº†å…¬å›­ï¼Œåœ¨èŠ±å›­ã€æ¸¸ä¹åœºå’Œå½¼å¾—Â·æ½˜çš„é“œåƒå‘¨å›´å¯»æ‰¾
 
-Richard Chow `discovered his younger brother¡¯s taxi abandoned outside` Carl Schurz Park, a 15-acre Manhattan `oasis overlooking the East River`. He `began to panic`
-Àí²éµÂ¡¤ÖÜ·¢ÏÖµÜµÜµÄ³ö×â³µ±»ÒÅÆúÔÚ¸©î«¶«ºÓµÄ15Ó¢Ä¶Âü¹ş¶ÙÂÌÖŞ¡ª¡ª¿¨¶û¡¤Êæ¶û´Ä¹«Ô°Íâ¡£Ëû¿ªÊ¼½ôÕÅÆğÀ´
+Richard Chow `discovered his younger brotherâ€™s taxi abandoned outside` Carl Schurz Park, a 15-acre Manhattan `oasis overlooking the East River`. He `began to panic`
+ç†æŸ¥å¾·Â·å‘¨å‘ç°å¼Ÿå¼Ÿçš„å‡ºç§Ÿè½¦è¢«é—å¼ƒåœ¨ä¿¯ç°ä¸œæ²³çš„15è‹±äº©æ›¼å“ˆé¡¿ç»¿æ´²â€”â€”å¡å°”Â·èˆ’å°”èŒ¨å…¬å›­å¤–ã€‚ä»–å¼€å§‹ç´§å¼ èµ·æ¥
 
 For months, he had watched his brother and fellow `cabdriver`, Kenny, `struggle under enormous debt`. Kenny had `grown distant and despondent`
-¼¸¸öÔÂÀ´£¬ËûÑÛÕöÕöµØ¿´×ÅµÜµÜ¡¢³ö×â³µË¾»ú¿ÏÄá(Kenny)Îª¾Ş¶îÕ®Îñ¶øÕõÔú¡£¿ÏÄá±äµÃÊèÔ¶ºÍ¾ÚÉ¥
+å‡ ä¸ªæœˆæ¥ï¼Œä»–çœ¼ççåœ°çœ‹ç€å¼Ÿå¼Ÿã€å‡ºç§Ÿè½¦å¸æœºè‚¯å°¼(Kenny)ä¸ºå·¨é¢å€ºåŠ¡è€ŒæŒ£æ‰ã€‚è‚¯å°¼å˜å¾—ç–è¿œå’Œæ²®ä¸§
 
 Taxi industry leaders `artificially inflated medallion prices` and `channeled purchasers into exploitative loans` that they could not afford. 
-³ö×â³µĞĞÒµÁìµ¼ÕßÈËÎªµØÌ§¸ßÁËÑ«ÕÂµÄ¼Û¸ñ£¬²¢ÇÒÒıµ¼¹ºÂòÕß±³ÉÏÎŞÁ¦³¥»¹µÄ°şÏ÷ĞÔ´û¿î
+å‡ºç§Ÿè½¦è¡Œä¸šé¢†å¯¼è€…äººä¸ºåœ°æŠ¬é«˜äº†å‹‹ç« çš„ä»·æ ¼ï¼Œå¹¶ä¸”å¼•å¯¼è´­ä¹°è€…èƒŒä¸Šæ— åŠ›å¿è¿˜çš„å‰¥å‰Šæ€§è´·æ¬¾
 
 `The medallion bubble began to collapse` in late 2014. `Prices plummeted`. But the drivers `remained stuck with massive loans`
-Ñ«ÕÂÅİÄ­ÔÚ2014Äêµ×¿ªÊ¼ÆÆÁÑ£¬¼Û¸ñ±©µø¡£µ«ÕâĞ©Ë¾»úÈÔÈ»±³¸º×Å¾Ş¶î´û¿î
+å‹‹ç« æ³¡æ²«åœ¨2014å¹´åº•å¼€å§‹ç ´è£‚ï¼Œä»·æ ¼æš´è·Œã€‚ä½†è¿™äº›å¸æœºä»ç„¶èƒŒè´Ÿç€å·¨é¢è´·æ¬¾
 
 Richard had `looked after` Kenny their entire lives. His first memory was of a soccer game when his brother `got into an argument` and he `intervened to` protect him from `getting beat up`
-Àí²éµÂ±ÏÉú¶¼ÔÚÕÕ¹Ë¿ÏÄá¡£Ëû×îÔçµÄ¼ÇÒäÊÇÒ»³¡×ãÇòÈü£¬µ±Ê±µÜµÜ¾íÈëÕù³³£¬ËûÉÏÈ¥¸ÉÔ¤£¬ÈÃµÜµÜÃâÔâ¶¾´ò
+ç†æŸ¥å¾·æ¯•ç”Ÿéƒ½åœ¨ç…§é¡¾è‚¯å°¼ã€‚ä»–æœ€æ—©çš„è®°å¿†æ˜¯ä¸€åœºè¶³çƒèµ›ï¼Œå½“æ—¶å¼Ÿå¼Ÿå·å…¥äº‰åµï¼Œä»–ä¸Šå»å¹²é¢„ï¼Œè®©å¼Ÿå¼Ÿå…é­æ¯’æ‰“
 
 The brothers got jobs at the same factory, `dyeing wool for sweaters.`
-ĞÖµÜÁ©½øÈëÍ¬Ò»¼ÒÃ«ÒÂÓÃÑòÃ«Ó¡È¾³§¹¤×÷ 
+å…„å¼Ÿä¿©è¿›å…¥åŒä¸€å®¶æ¯›è¡£ç”¨ç¾Šæ¯›å°æŸ“å‚å·¥ä½œ 
 
 They saved most of their earnings, but `occasionally they splurged on a trip to` the movies to see the latest American `action film`
-ËûÃÇ°Ñ´ó²¿·ÖÊÕÈë´æÆğÀ´£¬²»¹ıÅ¼¶ûÒ²»á»Ó»ôÒ»ÏÂ£¬È¥¿´×îĞÂµÄÃÀ¹ú¶¯×÷Æ¬
+ä»–ä»¬æŠŠå¤§éƒ¨åˆ†æ”¶å…¥å­˜èµ·æ¥ï¼Œä¸è¿‡å¶å°”ä¹Ÿä¼šæŒ¥éœä¸€ä¸‹ï¼Œå»çœ‹æœ€æ–°çš„ç¾å›½åŠ¨ä½œç‰‡
 
 They began as `restaurant deliverymen`, `fighting the rain and snow to` deliver Chinese food. Then they joined the jewelry business, as `diamond setters`
-ËûÃÇÒ»¿ªÊ¼¸ø·¹µêµ±ËÍ²ÍÔ±£¬Ã°×ÅÓêÑ©ËÍÖĞ²Í¡£È»ºóËûÃÇ½øÈëÖé±¦ĞĞÒµ£¬×ö×êÊ¯ÏâÇ¶
+ä»–ä»¬ä¸€å¼€å§‹ç»™é¥­åº—å½“é€é¤å‘˜ï¼Œå†’ç€é›¨é›ªé€ä¸­é¤ã€‚ç„¶åä»–ä»¬è¿›å…¥ç å®è¡Œä¸šï¼Œåšé’»çŸ³é•¶åµŒ
 
 By then, medallion prices were `skyrocketing`. Large fleet owners like Freidman were `intentionally overpaying` for medallions to increase the value of their portfolios. 
-ÄÇÊ±£¬Ö´ÕÕÑ«ÕÂ¼Û¸ñ·ÉÕÇ¡£Ïñ¸¥À³µÂÂüÕâÑùµÄ´ó³ö×â³µ¹«Ë¾ÀÏ°åÎªÔö¼Ó×Ô¼ºÍ¶×Ê×éºÏµÄ¼ÛÖµ£¬¹ÊÒâ³´¸ßÑ«ÕÂµÄ¼Û¸ñ
+é‚£æ—¶ï¼Œæ‰§ç…§å‹‹ç« ä»·æ ¼é£æ¶¨ã€‚åƒå¼—è±å¾·æ›¼è¿™æ ·çš„å¤§å‡ºç§Ÿè½¦å…¬å¸è€æ¿ä¸ºå¢åŠ è‡ªå·±æŠ•èµ„ç»„åˆçš„ä»·å€¼ï¼Œæ•…æ„ç‚’é«˜å‹‹ç« çš„ä»·æ ¼
 
 Lenders were `issuing reckless loans`, and as in the housing bubble, the easy money inflated prices more
-·Å´ûÈË²»¼Æºó¹ûµØ·¢·Å´û¿î£¬¾ÍÏñÔÚ·¿µØ²úÅİÄ­Ê±Ò»Ñù£¬¿íËÉµÄ´û¿îÊ¹µÃ¼Û¸ñ½øÒ»²½ÅòÕÍ
+æ”¾è´·äººä¸è®¡åæœåœ°å‘æ”¾è´·æ¬¾ï¼Œå°±åƒåœ¨æˆ¿åœ°äº§æ³¡æ²«æ—¶ä¸€æ ·ï¼Œå®½æ¾çš„è´·æ¬¾ä½¿å¾—ä»·æ ¼è¿›ä¸€æ­¥è†¨èƒ€
 
 The younger brother could not `secure a conventional loan`. But he later told friends that a broker helped him to `leverage the equity in his house for a down payment` to make it work.
-ÎŞ·¨»ñµÃ³£¹æ´û¿î¡£µ«ËûºóÀ´¸æËßÅóÓÑ£¬Ò»Î»¾­¼ÍÈË°ïËû×ö·¿²úµÖÑº´û¿î¸¶ÁËÊ×ÆÚ£¬½â¾öÁËÕâ¸öÎÊÌâ
+æ— æ³•è·å¾—å¸¸è§„è´·æ¬¾ã€‚ä½†ä»–åæ¥å‘Šè¯‰æœ‹å‹ï¼Œä¸€ä½ç»çºªäººå¸®ä»–åšæˆ¿äº§æŠµæŠ¼è´·æ¬¾ä»˜äº†é¦–æœŸï¼Œè§£å†³äº†è¿™ä¸ªé—®é¢˜
 
 After his loan `hit the four-year mark`, when he was supposed to `repay everything`
-µ±´û¿î´ïµ½ÁËËÄÄêÆÚÏŞ£¬ËûÓ¦¸Ã³¥»¹ËùÓĞÕ®ÎñÊ±
+å½“è´·æ¬¾è¾¾åˆ°äº†å››å¹´æœŸé™ï¼Œä»–åº”è¯¥å¿è¿˜æ‰€æœ‰å€ºåŠ¡æ—¶
 
-In the fall of 2017, the family `received another blow`. Doctors diagnosed Kenny¡¯s wife with `Stage 4 colon cancer`
-2017ÄêÇïÌì£¬Õâ¸ö¼ÒÍ¥ÓÖÔâÊÜÁËÒ»´Î´ò»÷¡£Ò½ÉúÕï¶Ï¿ÏÄáµÄÆŞ×Ó»¼ÁË4ÆÚ½á³¦°©
+In the fall of 2017, the family `received another blow`. Doctors diagnosed Kennyâ€™s wife with `Stage 4 colon cancer`
+2017å¹´ç§‹å¤©ï¼Œè¿™ä¸ªå®¶åº­åˆé­å—äº†ä¸€æ¬¡æ‰“å‡»ã€‚åŒ»ç”Ÿè¯Šæ–­è‚¯å°¼çš„å¦»å­æ‚£äº†4æœŸç»“è‚ ç™Œ
 
-But he `fell far behind on his mortgage` and other expenses. He also could no longer help pay his daughter¡¯s `college tuition`, and she decided to `drop out` to help the family
-µ«ËûÄÑÒÔÖ§¸¶µÖÑº´û¿îºÍÆäËû·ÑÓÃ¡£ËûÒ²ÎŞ·¨ÔÙÖ§¸¶Å®¶ùµÄ´óÑ§Ñ§·Ñ£¬ÓÚÊÇÅ®¶ù¾ö¶¨ê¡Ñ§°ïÖú¼ÒÍ¥
+But he `fell far behind on his mortgage` and other expenses. He also could no longer help pay his daughterâ€™s `college tuition`, and she decided to `drop out` to help the family
+ä½†ä»–éš¾ä»¥æ”¯ä»˜æŠµæŠ¼è´·æ¬¾å’Œå…¶ä»–è´¹ç”¨ã€‚ä»–ä¹Ÿæ— æ³•å†æ”¯ä»˜å¥³å„¿çš„å¤§å­¦å­¦è´¹ï¼Œäºæ˜¯å¥³å„¿å†³å®šè¾å­¦å¸®åŠ©å®¶åº­
 
 Richard `clung to hope`. He knew driving could be exhausting, so he thought his brother had `lain down and fallen into a deep slumber`. Or maybe he went on `a meditation retreat`, or on `a hunt for extra money`
-Àí²éµÂ±§×ÅÒ»ÏßÏ£Íû¡£ËûÖªµÀ¿ª³µºÜÀÛ£¬ËùÒÔËûÒÔÎªµÜµÜÖ»ÊÇÌÉÏÂ³Á³ÁË¯È¥ÁË¡£»òÕßÈ¥×öÚ¤ÏëÖÎÁÆÁË£¬ÓÖ»òÕßÊÇÈ¥×¬Íâ¿ìÁË
+ç†æŸ¥å¾·æŠ±ç€ä¸€çº¿å¸Œæœ›ã€‚ä»–çŸ¥é“å¼€è½¦å¾ˆç´¯ï¼Œæ‰€ä»¥ä»–ä»¥ä¸ºå¼Ÿå¼Ÿåªæ˜¯èººä¸‹æ²‰æ²‰ç¡å»äº†ã€‚æˆ–è€…å»åšå†¥æƒ³æ²»ç–—äº†ï¼Œåˆæˆ–è€…æ˜¯å»èµšå¤–å¿«äº†
 
 Someone `spotted a body` in the East River near the Brooklyn Bridge. At a vigil, Richard `could barely speak`
-ÓĞÈËÔÚ²¼Â³¿ËÁÖ´óÇÅ¸½½üµÄ¶«ºÓ±ß·¢ÏÖÁËÒ»¾ßÊ¬Ìå, µ¿ÄîÒÇÊ½ÉÏµÄÀí²éµÂ¼¸ºõËµ²»³ö»°À´
+æœ‰äººåœ¨å¸ƒé²å…‹æ—å¤§æ¡¥é™„è¿‘çš„ä¸œæ²³è¾¹å‘ç°äº†ä¸€å…·å°¸ä½“, æ‚¼å¿µä»ªå¼ä¸Šçš„ç†æŸ¥å¾·å‡ ä¹è¯´ä¸å‡ºè¯æ¥
 
-Because of the change listing Kenny¡¯s wife as a co-debtor, she `inherited his loan` when he died. But it did not `torment her for long`. Their daughter, who did not `get entrapped in` the loan, has returned to college
-ÓÉÓÚºÏÍ¬±ä»¯£¬¿ÏÄáµÄÆŞ×ÓÒ²±»ÁĞÎª¹²Í¬Õ®ÎñÈË£¬¿ÏÄáÈ¥ÊÀºó£¬Ëı¼Ì³ĞÁËËûµÄ´û¿î¡£µ«Õâ²¢Ã»ÓĞÁîËıÍ´¿àºÜ¾Ã¡£ËûÃÇµÄÅ®¶ùÃ»ÓĞ±»Õâ±Ê´û¿îËùÀ§£¬ÒÑ¾­»Øµ½´óÑ§
+Because of the change listing Kennyâ€™s wife as a co-debtor, she `inherited his loan` when he died. But it did not `torment her for long`. Their daughter, who did not `get entrapped in` the loan, has returned to college
+ç”±äºåˆåŒå˜åŒ–ï¼Œè‚¯å°¼çš„å¦»å­ä¹Ÿè¢«åˆ—ä¸ºå…±åŒå€ºåŠ¡äººï¼Œè‚¯å°¼å»ä¸–åï¼Œå¥¹ç»§æ‰¿äº†ä»–çš„è´·æ¬¾ã€‚ä½†è¿™å¹¶æ²¡æœ‰ä»¤å¥¹ç—›è‹¦å¾ˆä¹…ã€‚ä»–ä»¬çš„å¥³å„¿æ²¡æœ‰è¢«è¿™ç¬”è´·æ¬¾æ‰€å›°ï¼Œå·²ç»å›åˆ°å¤§å­¦
 
 It is impossible to know why anyone `takes his or her own life`. But friends believe Kenny `was overwhelmed by his loans` and by competition from `ride-hailing`. They do not think it was `a coincidence`
-Ò»¸öÈË×ÔÉ±µÄÔ­Òò¿ÉÄÜÓÀÔ¶ÎŞ´ÓµÃÖª¡£µ«ÅóÓÑÃÇÈÏÎª£¬¿ÏÄá±»´û¿îºÍÍøÔ¼³µ·şÎñµÄ¾ºÕùÑ¹¿åÁË. ËûÃÇÈÏÎª²»ÊÇÇÉºÏ
+ä¸€ä¸ªäººè‡ªæ€çš„åŸå› å¯èƒ½æ°¸è¿œæ— ä»å¾—çŸ¥ã€‚ä½†æœ‹å‹ä»¬è®¤ä¸ºï¼Œè‚¯å°¼è¢«è´·æ¬¾å’Œç½‘çº¦è½¦æœåŠ¡çš„ç«äº‰å‹å®äº†. ä»–ä»¬è®¤ä¸ºä¸æ˜¯å·§åˆ
 
-Taxi industry leaders `seized on the brothers¡¯ story`. One group `tapped Richard to headline` an event
-³ö×â³µĞĞÒµµÄÁìµ¼ÕßÃÇ×¢Òâµ½Õâ¶ÔĞÖµÜµÄ¹ÊÊÂ¡£Ò»¸ö×éÖ¯ÈÃÀí²éµÂÔÚÒ»¸öÃ½Ìå»î¶¯ÖĞµ£ÈÎÖ÷½Ç
+Taxi industry leaders `seized on the brothersâ€™ story`. One group `tapped Richard to headline` an event
+å‡ºç§Ÿè½¦è¡Œä¸šçš„é¢†å¯¼è€…ä»¬æ³¨æ„åˆ°è¿™å¯¹å…„å¼Ÿçš„æ•…äº‹ã€‚ä¸€ä¸ªç»„ç»‡è®©ç†æŸ¥å¾·åœ¨ä¸€ä¸ªåª’ä½“æ´»åŠ¨ä¸­æ‹…ä»»ä¸»è§’
 
 We columnists imagine our articles `going viral, sweeping the world`, carried into `cabinet rooms`, changing history
-ÎÒÃÇ×¨À¸×÷¼Ò×ÜÊÇÏëÏóÎÒÃÇµÄÎÄÕÂÄÜ×ßºìÍøÂç¡¢Ï¯¾íÊÀ½ç¡¢±»´ø½øÕş¸®ÄÚ¸ó¡¢¸Ä±äÀúÊ·
+æˆ‘ä»¬ä¸“æ ä½œå®¶æ€»æ˜¯æƒ³è±¡æˆ‘ä»¬çš„æ–‡ç« èƒ½èµ°çº¢ç½‘ç»œã€å¸­å·ä¸–ç•Œã€è¢«å¸¦è¿›æ”¿åºœå†…é˜ã€æ”¹å˜å†å²
 
-This is my `annual list` of my columns that no one read. I¡¯d say that they `bombed`, except that would `connote impact`. Let¡¯s just call them `duds. Flops. Busts. Losers`
-ÕâÀïÊÇÎÒÃ»ÈË¶ÁµÄ×¨À¸µÄÄê¶ÈÇåµ¥¡£ÎÒµ¹ÊÇÏëËµÕâĞ©ÎÄÕÂÊÇĞ´ÔÒÁË£¬µ«ÔÒ×Ö»¹ÏÔµÃÁôÏÂÁËµãÓ°ÏìËÆµÄ¡£È¨ÇÒ³ÆËüÃÇÎª·ÏÎï,Ê§²ß,Ë®»õ,Â¬Éª
+This is my `annual list` of my columns that no one read. Iâ€™d say that they `bombed`, except that would `connote impact`. Letâ€™s just call them `duds. Flops. Busts. Losers`
+è¿™é‡Œæ˜¯æˆ‘æ²¡äººè¯»çš„ä¸“æ çš„å¹´åº¦æ¸…å•ã€‚æˆ‘å€’æ˜¯æƒ³è¯´è¿™äº›æ–‡ç« æ˜¯å†™ç ¸äº†ï¼Œä½†ç ¸å­—è¿˜æ˜¾å¾—ç•™ä¸‹äº†ç‚¹å½±å“ä¼¼çš„ã€‚æƒä¸”ç§°å®ƒä»¬ä¸ºåºŸç‰©,å¤±ç­–,æ°´è´§,å¢ç‘Ÿ
 
 `Growing evidence` that hope is a critical factor in `overcoming poverty`
-Ô½À´Ô½¶àµÄÖ¤¾İ±íÃ÷£¬Ï£ÍûÊÇÕ½Ê¤Æ¶À§µÄ¹Ø¼üÒòËØ
+è¶Šæ¥è¶Šå¤šçš„è¯æ®è¡¨æ˜ï¼Œå¸Œæœ›æ˜¯æˆ˜èƒœè´«å›°çš„å…³é”®å› ç´ 
 
-`Invariably when` I give a talk at a university, someone will `lament` that more journalists don¡¯t `cover humanitarian stories`
-µ±ÎÒÔÚ´óÑ§Ñİ½²Ê±£¬×ÜÓĞÈË»á°§Ì¾Èç½ñÔ½À´Ô½¶àµÄ¼ÇÕß²»È¥±¨µÀÈËµÀÖ÷ÒåĞÂÎÅÁË
+`Invariably when` I give a talk at a university, someone will `lament` that more journalists donâ€™t `cover humanitarian stories`
+å½“æˆ‘åœ¨å¤§å­¦æ¼”è®²æ—¶ï¼Œæ€»æœ‰äººä¼šå“€å¹å¦‚ä»Šè¶Šæ¥è¶Šå¤šçš„è®°è€…ä¸å»æŠ¥é“äººé“ä¸»ä¹‰æ–°é—»äº†
 
 Zhao Lin had `become accustomed to the single life`. But his days and nights were growing lonely, and he decided it was time to `find Ms. Right`
-ÕÔÁÖÒÑ¾­Ï°¹ßÁËµ¥ÉíÉú»î¡£µ«ÊÇÈÕ¸´Ò»ÈÕ£¬Ëû¸Ğµ½Ô½À´Ô½¹Â¶À£¬¾ö¶¨ÊÇÊ±ºò¸ÃÕÒ¸ö°éÁË
+èµµæ—å·²ç»ä¹ æƒ¯äº†å•èº«ç”Ÿæ´»ã€‚ä½†æ˜¯æ—¥å¤ä¸€æ—¥ï¼Œä»–æ„Ÿåˆ°è¶Šæ¥è¶Šå­¤ç‹¬ï¼Œå†³å®šæ˜¯æ—¶å€™è¯¥æ‰¾ä¸ªä¼´äº†
 
 `A fixture` at one of the dozens of `senior singles scenes popping up` in public parks around China. So far, he admits, `the pickings have been slim`
-ÔÚÖĞ¹ú¸÷µØµÄ¹«Ô°Àï£¬Ã°³öºÜ¶àµ¥ÉíÀÏÈËÏàÇ×½Ç£¬ËûÊÇÆäÖĞÒ»¸öµÄ³£¿Í¡£Ëû³ĞÈÏ£¬µ½Ä¿Ç°ÎªÖ¹£¬ÊÕ»ñÉõÎ¢
+åœ¨ä¸­å›½å„åœ°çš„å…¬å›­é‡Œï¼Œå†’å‡ºå¾ˆå¤šå•èº«è€äººç›¸äº²è§’ï¼Œä»–æ˜¯å…¶ä¸­ä¸€ä¸ªçš„å¸¸å®¢ã€‚ä»–æ‰¿è®¤ï¼Œåˆ°ç›®å‰ä¸ºæ­¢ï¼Œæ”¶è·ç”šå¾®
 
-In Chinese media, the phenomenon has been labeled `¡°twilight love.¡±` `Contestants well into` their later years now make regular appearances on Chinese dating shows with names like ¡°`Peach Blossoms Bloom`,¡± ¡°`Exciting Old Friends`¡± and ¡°`Holding Hands`.¡±
-ÔÚÖĞ¹úµÄÃ½ÌåÉÏ£¬ÕâÖÖÏÖÏó±»³ÆÎª¡°»Æ»èÁµ¡±¡£ÔÚÖĞ¹úµÄÏàÇ×½ÚÄ¿ÖĞ£¬Èç¡¶ÌÒ»¨¶ä¶ä¿ª¡·¡¢¡¶¾«²ÊÀÏÅóÓÑ¡·ºÍ¡¶Ç£ÊÖ¡·£¬²½ÈëÍíÄêµÄÑ¡ÊÖÆµÆµÂ¶Ãæ
+In Chinese media, the phenomenon has been labeled `â€œtwilight love.â€` `Contestants well into` their later years now make regular appearances on Chinese dating shows with names like â€œ`Peach Blossoms Bloom`,â€ â€œ`Exciting Old Friends`â€ and â€œ`Holding Hands`.â€
+åœ¨ä¸­å›½çš„åª’ä½“ä¸Šï¼Œè¿™ç§ç°è±¡è¢«ç§°ä¸ºâ€œé»„æ˜æ‹â€ã€‚åœ¨ä¸­å›½çš„ç›¸äº²èŠ‚ç›®ä¸­ï¼Œå¦‚ã€Šæ¡ƒèŠ±æœµæœµå¼€ã€‹ã€ã€Šç²¾å½©è€æœ‹å‹ã€‹å’Œã€Šç‰µæ‰‹ã€‹ï¼Œæ­¥å…¥æ™šå¹´çš„é€‰æ‰‹é¢‘é¢‘éœ²é¢
 
-It¡¯s a practical way for `a group gathering`, In the park, you can `increase the chance of` having successful `blind dates`. `Demographics` is behind it all
-ÕâÖÖ¾Û»á·½Ê½ºÜÊµÓÃ£¬ÔÚ¹«Ô°Àï£¬Äã¿ÉÒÔÔö¼Ó³É¹¦ÏàÇ×µÄ»ú»á ÕâÒ»ÇĞµÄ±³ºóÊÇÈË¿Ú½á¹¹
+Itâ€™s a practical way for `a group gathering`, In the park, you can `increase the chance of` having successful `blind dates`. `Demographics` is behind it all
+è¿™ç§èšä¼šæ–¹å¼å¾ˆå®ç”¨ï¼Œåœ¨å…¬å›­é‡Œï¼Œä½ å¯ä»¥å¢åŠ æˆåŠŸç›¸äº²çš„æœºä¼š è¿™ä¸€åˆ‡çš„èƒŒåæ˜¯äººå£ç»“æ„
 
 `An aging population` means more people are `outliving their spouses`. 
-ÈË¿ÚÀÏÁä»¯ÒâÎ¶×ÅÔ½À´Ô½¶àµÄÈË±ÈÅäÅ¼³¤ÊÙ 
+äººå£è€é¾„åŒ–æ„å‘³ç€è¶Šæ¥è¶Šå¤šçš„äººæ¯”é…å¶é•¿å¯¿ 
 
 The number of `widows and widowers` totals nearly 48 million, And `four out of five` widows and widowers want to remarry
-¹Ñ¸¾ºÍ÷¤·ò¼ÓÆğÀ´µÄ×ÜÊı½Ó½ü4800Íò
+å¯¡å¦‡å’Œé³å¤«åŠ èµ·æ¥çš„æ€»æ•°æ¥è¿‘4800ä¸‡
 
-`That lack of knowledge is understandable`. When China¡¯s elders were young, talking about sex was `taboo`. People met their `prospective spouses` through friends or `matchmakers`. Dating was almost `unheard-of`
-È±·¦ÖªÊ¶ÊÇ¿ÉÒÔÀí½âµÄ¡£ÖĞ¹úµÄÀÏÄêÈËÔÚÄêÇáÊ±£¬ĞÔÊÇ²»ÄÜÌ¸ÂÛµÄ½û¼É¡£ÈËÃÇÍ¨¹ıÅóÓÑ»òÃ½ÈËÈÏÊ¶Î´À´µÄ°éÂÂ¡£Ô¼»á¼¸ºõÊÇÎÅËùÎ´ÎÅ
+`That lack of knowledge is understandable`. When Chinaâ€™s elders were young, talking about sex was `taboo`. People met their `prospective spouses` through friends or `matchmakers`. Dating was almost `unheard-of`
+ç¼ºä¹çŸ¥è¯†æ˜¯å¯ä»¥ç†è§£çš„ã€‚ä¸­å›½çš„è€å¹´äººåœ¨å¹´è½»æ—¶ï¼Œæ€§æ˜¯ä¸èƒ½è°ˆè®ºçš„ç¦å¿Œã€‚äººä»¬é€šè¿‡æœ‹å‹æˆ–åª’äººè®¤è¯†æœªæ¥çš„ä¼´ä¾£ã€‚çº¦ä¼šå‡ ä¹æ˜¯é—»æ‰€æœªé—»
 
 Minutes later, they `struck up a conversation`.
-¼¸·ÖÖÓºó£¬ËûÃÇÁÄÁËÆğÀ´
+å‡ åˆ†é’Ÿåï¼Œä»–ä»¬èŠäº†èµ·æ¥
 
-In China¡¯s parks, that can make for `awkward scenes`. `A strip of greenery next to` the Forbidden City, elderly men `clustered together, scoping out` the women and men `milling around like wallflowers`
-ÔÚÖĞ¹úµÄ¹«Ô°Àï£¬Õâ¿ÉÄÜ»áÔì³ÉŞÏŞÎµÄ³¡Ãæ¡£×î½üµÄÒ»¸öÖÜ¶ş£¬ÔÚ×Ï½û³ÇÅÔ±ßÂÌÊ÷³ÉÒñµÄİÅÆÑºÓ£¬ÀÏÄêÄĞĞÔÃÇ¾Û¼¯ÔÚÒ»Æğ£¬×ĞÏ¸¹Û²ìÏñ±Ú»¨Ò»ÑùáäáàµÄÄĞÄĞÅ®Å®
+In Chinaâ€™s parks, that can make for `awkward scenes`. `A strip of greenery next to` the Forbidden City, elderly men `clustered together, scoping out` the women and men `milling around like wallflowers`
+åœ¨ä¸­å›½çš„å…¬å›­é‡Œï¼Œè¿™å¯èƒ½ä¼šé€ æˆå°´å°¬çš„åœºé¢ã€‚æœ€è¿‘çš„ä¸€ä¸ªå‘¨äºŒï¼Œåœ¨ç´«ç¦åŸæ—è¾¹ç»¿æ ‘æˆè«çš„è–è’²æ²³ï¼Œè€å¹´ç”·æ€§ä»¬èšé›†åœ¨ä¸€èµ·ï¼Œä»”ç»†è§‚å¯Ÿåƒå£èŠ±ä¸€æ ·å¾œå¾‰çš„ç”·ç”·å¥³å¥³
 
 The widowed were `more desirable than the divorced`, said some. `Less emotional baggage`, they explained
-Ò»Ğ©ÈËËµ£¬É¥Å¼µÄ±ÈÀë»éµÄÊÜ»¶Ó­¡£ËûÃÇ½âÊÍËµ£¬Ç°ÕßµÄÇé¸Ğ¸ºµ£½ÏÉÙ
+ä¸€äº›äººè¯´ï¼Œä¸§å¶çš„æ¯”ç¦»å©šçš„å—æ¬¢è¿ã€‚ä»–ä»¬è§£é‡Šè¯´ï¼Œå‰è€…çš„æƒ…æ„Ÿè´Ÿæ‹…è¾ƒå°‘
 
 Guan Yongnian `sees himself as a catch`. He is healthy and successful, `a calligraphy expert`, a writer and a teacher of tai chi, `a gentle form of martial arts` popular in China
-¹ØÓÀÄêÈÏÎª×Ô¼ºµÄÌõ¼ş²»´í¡£ËûÉíÌå½¡¿µ¡¢ÊÂÒµÓĞ³É£¬ÊÇÊé·¨¼Ò¡¢×÷¼ÒºÍÌ«¼«È­ÀÏÊ¦¡£Ì«¼«È­ÊÇÔÚÖĞ¹úÁ÷ĞĞµÄÒ»ÖÖÈáºÍµÄÎäÊõĞÎÊ½
+å…³æ°¸å¹´è®¤ä¸ºè‡ªå·±çš„æ¡ä»¶ä¸é”™ã€‚ä»–èº«ä½“å¥åº·ã€äº‹ä¸šæœ‰æˆï¼Œæ˜¯ä¹¦æ³•å®¶ã€ä½œå®¶å’Œå¤ªææ‹³è€å¸ˆã€‚å¤ªææ‹³æ˜¯åœ¨ä¸­å›½æµè¡Œçš„ä¸€ç§æŸ”å’Œçš„æ­¦æœ¯å½¢å¼
 
-¡°Nowadays, many people are not `hygienic, dress poorly` and are not `imbued with sophistication and good breeding`,¡± he `sniffed`
-¡°ÏÖÔÚÕâÈË¶¼²»½²ÎÀÉú£¬´©µÃºÜ²î£¬ºÜÃ»ÄÚÔÚµÄĞŞÑø£¬¡±ËûàÍÖ®ÒÔ±ÇµØËµ
+â€œNowadays, many people are not `hygienic, dress poorly` and are not `imbued with sophistication and good breeding`,â€ he `sniffed`
+â€œç°åœ¨è¿™äººéƒ½ä¸è®²å«ç”Ÿï¼Œç©¿å¾—å¾ˆå·®ï¼Œå¾ˆæ²¡å†…åœ¨çš„ä¿®å…»ï¼Œâ€ä»–å—¤ä¹‹ä»¥é¼»åœ°è¯´
 
 Most of `the characters` here are pretty bad, At this stage, `love at first sight` is impossible. She was `pessimistic about her prospects`
-´ó²¿·ÖÈËÆ·Ì«²îÁË ÄãËµÕâËêÊıÒ»¼ûÖÓÇé£¬ÎÒ¾õµÃ²»¿ÉÄÜ  Ëı¶Ô×Ô¼ºµÄÇ°¾°¸Ğµ½±¯¹Û
+å¤§éƒ¨åˆ†äººå“å¤ªå·®äº† ä½ è¯´è¿™å²æ•°ä¸€è§é’Ÿæƒ…ï¼Œæˆ‘è§‰å¾—ä¸å¯èƒ½  å¥¹å¯¹è‡ªå·±çš„å‰æ™¯æ„Ÿåˆ°æ‚²è§‚
 
 He `bemoaned the directness` of some of the women, They ask you directly to change the names in `the property deed`
-Ëû¸ĞÌ¾£¬ÓĞĞ©Å®ÈËÌ«Ö±½Ó  À´ÁË¾ÍÖ±½ÓÄã°Ñ·¿±¾ÄÜ¸ÄÁËÂğ£¿Ò»¼ûÃæ¾ÍÏÈÌáÕâ¸ö
+ä»–æ„Ÿå¹ï¼Œæœ‰äº›å¥³äººå¤ªç›´æ¥  æ¥äº†å°±ç›´æ¥ä½ æŠŠæˆ¿æœ¬èƒ½æ”¹äº†å—ï¼Ÿä¸€è§é¢å°±å…ˆæè¿™ä¸ª
 
 But he still `longed for a mate` to `ward off his loneliness`
-µ«ËûÈÔÈ»¿ÊÍûÓĞ¸ö°éÀ´ÅÅÇ²¼ÅÄ¯
+ä½†ä»–ä»ç„¶æ¸´æœ›æœ‰ä¸ªä¼´æ¥æ’é£å¯‚å¯
 
-If you¡¯ve never `experienced` these three `big treasures`, how can you understand what is `bliss`? 
-ÕâÈı´ó±¦£¬Äã²»¶®ÕâÈı´ó±¦£¬ÄãÔõÃ´Àí½âÈËÉúÊ²Ã´½ĞĞÒ¸££¬Ê²Ã´½ĞÍ´¿à
+If youâ€™ve never `experienced` these three `big treasures`, how can you understand what is `bliss`? 
+è¿™ä¸‰å¤§å®ï¼Œä½ ä¸æ‡‚è¿™ä¸‰å¤§å®ï¼Œä½ æ€ä¹ˆç†è§£äººç”Ÿä»€ä¹ˆå«å¹¸ç¦ï¼Œä»€ä¹ˆå«ç—›è‹¦
 
-This is what I¡¯m feeling right now. But I never `used to feel like that`
-ÎÒ¾ÍÏÖÔÚÌØ±ğ¸Ğ¾õÕâÑù£¬ÎÒÔ­À´ÎÒÃ»¸Ğ¾õµ½
+This is what Iâ€™m feeling right now. But I never `used to feel like that`
+æˆ‘å°±ç°åœ¨ç‰¹åˆ«æ„Ÿè§‰è¿™æ ·ï¼Œæˆ‘åŸæ¥æˆ‘æ²¡æ„Ÿè§‰åˆ°
 
 During that time, I have seen interest in `high-intensity exercise` soar and enthusiasm for barefoot running fizzle. 
-ÔÚÕâÆÚ¼ä£¬ÎÒ¿´µ½ÈËÃÇ¶Ô¸ßÇ¿¶ÈÔË¶¯µÄĞËÈ¤¸ßÕÇ£¬¶Ô³à½ÅÅÜ²½µÄÈÈÇé¼õÍË
+åœ¨è¿™æœŸé—´ï¼Œæˆ‘çœ‹åˆ°äººä»¬å¯¹é«˜å¼ºåº¦è¿åŠ¨çš„å…´è¶£é«˜æ¶¨ï¼Œå¯¹èµ¤è„šè·‘æ­¥çš„çƒ­æƒ…å‡é€€
 
 We have learned `contracting muscles talk to baby neurons`, creativity `blooms` from walking, a minute of `exertion can be ample`, aging is elastic and `a chubby dog` may be our best exercise motivator
-ÎÒÃÇÁË½âµ½£¬ÊÕËõ¼¡Èâ¿ÉÒÔÓ°ÏìÓ¤¶ùµÄÉñ¾­Ôª£¬É¢²½¿ÉÒÔ´Ù½ø´´ÔìÁ¦£¬Ò»·ÖÖÓµÄ¶ÍÁ¶ÊÇ×ã¹»µÄ£¬Ë¥ÀÏÊÇ¿ÉÒÔ¸ÄÉÆµÄ£¬Ò»Ö»ÅÖ¹·¿ÉÄÜÊÇ×îºÃµÄ¶ÍÁ¶¼¤Àø
+æˆ‘ä»¬äº†è§£åˆ°ï¼Œæ”¶ç¼©è‚Œè‚‰å¯ä»¥å½±å“å©´å„¿çš„ç¥ç»å…ƒï¼Œæ•£æ­¥å¯ä»¥ä¿ƒè¿›åˆ›é€ åŠ›ï¼Œä¸€åˆ†é’Ÿçš„é”»ç‚¼æ˜¯è¶³å¤Ÿçš„ï¼Œè¡°è€æ˜¯å¯ä»¥æ”¹å–„çš„ï¼Œä¸€åªèƒ–ç‹—å¯èƒ½æ˜¯æœ€å¥½çš„é”»ç‚¼æ¿€åŠ±
 
-Multiple studies and `subsequent columns reiterating` that `super-short, strenuous workouts` ¡ª known as high-intensity interval training ¡ª improve fitness and health to about the `same extent as much longer, more moderate exercise`
-¶àÏîÑĞ¾¿ºÍËæºóµÄ×¨À¸ÎÄÕÂ¶¼²»¶ÏÖØÉê£¬ÕâÖÖ³¬¶Ì¡¢¸ßÇ¿¶ÈµÄ¶ÍÁ¶£¬ºÍÊ±¼ä³¤ºÜ¶àÇÒ½ÏºÍ»ºµÄ¶ÍÁ¶±ÈÆğÀ´£¬¶ÔÌåÄÜºÍ½¡¿µµÄ¸ÄÉÆĞ§¹ûÊÇ²î²»¶àµÄ
+Multiple studies and `subsequent columns reiterating` that `super-short, strenuous workouts` â€” known as high-intensity interval training â€” improve fitness and health to about the `same extent as much longer, more moderate exercise`
+å¤šé¡¹ç ”ç©¶å’Œéšåçš„ä¸“æ æ–‡ç« éƒ½ä¸æ–­é‡ç”³ï¼Œè¿™ç§è¶…çŸ­ã€é«˜å¼ºåº¦çš„é”»ç‚¼ï¼Œå’Œæ—¶é—´é•¿å¾ˆå¤šä¸”è¾ƒå’Œç¼“çš„é”»ç‚¼æ¯”èµ·æ¥ï¼Œå¯¹ä½“èƒ½å’Œå¥åº·çš„æ”¹å–„æ•ˆæœæ˜¯å·®ä¸å¤šçš„
 
 `In what may be`, for me, the most inspiring area of `fitness research` from the past decade, scientists have `found and reaffirmed the extent` to which movement, of almost any kind and amount, may `remake how we think and feel`
-¶ÔÎÒÀ´Ëµ£¬¹ıÈ¥Ê®ÄêµÄ½¡ÉíÑĞ¾¿¿ÉÄÜÊÇ×î¹ÄÎèÈËĞÄµÄÁìÓò£¬¿ÆÑ§¼ÒÃÇ·¢ÏÖ²¢Ò»ÔÙÈ·ÈÏ£¬¼¸ºõÈÎºÎÖÖÀàºÍÊıÁ¿µÄÔË¶¯¶¼¿ÉÄÜÔÚºÜ´ó³Ì¶ÈÉÏÖØËÜÎÒÃÇµÄË¼Î¬ºÍ¸Ğ¾õ
+å¯¹æˆ‘æ¥è¯´ï¼Œè¿‡å»åå¹´çš„å¥èº«ç ”ç©¶å¯èƒ½æ˜¯æœ€é¼“èˆäººå¿ƒçš„é¢†åŸŸï¼Œç§‘å­¦å®¶ä»¬å‘ç°å¹¶ä¸€å†ç¡®è®¤ï¼Œå‡ ä¹ä»»ä½•ç§ç±»å’Œæ•°é‡çš„è¿åŠ¨éƒ½å¯èƒ½åœ¨å¾ˆå¤§ç¨‹åº¦ä¸Šé‡å¡‘æˆ‘ä»¬çš„æ€ç»´å’Œæ„Ÿè§‰
 
 Exercise also seems able to `buoy moods far more than most of us`, including scientists, might have expected 10 years ago
-¶ÍÁ¶¶ÔÇéĞ÷µÄÌáÕñĞ§¹ûËÆºõÔ¶Ô¶³¬³öÎÒÃÇ´ó¶àÊıÈË¡ª¡ª°üÀ¨¿ÆÑ§¼Ò¡ª¡ªÔÚ10ÄêÇ°µÄ¹À¼Æ
+é”»ç‚¼å¯¹æƒ…ç»ªçš„ææŒ¯æ•ˆæœä¼¼ä¹è¿œè¿œè¶…å‡ºæˆ‘ä»¬å¤§å¤šæ•°äººâ€”â€”åŒ…æ‹¬ç§‘å­¦å®¶â€”â€”åœ¨10å¹´å‰çš„ä¼°è®¡
 
 Walking, jogging, `gardening, weight training`, swimming, biking, hiking or even rising from an office or living room chair often and `strolling across` the room seemed to make people happier and `less prone to mood problems than remaining still`
-É¢²½¡¢ÂıÅÜ¡¢Ô°ÒÕ¡¢¾ÙÖØ¡¢ÓÎÓ¾¡¢Æï³µ¡¢Í½²½ÂÃĞĞ£¬ÉõÖÁ¾­³£´Ó°ì¹«ÊÒ»ò¿ÍÌüµÄÒÎ×ÓÉÏÕ¾ÆğÀ´£¬ÔÚ·¿¼äÀïÉ¢²½£¬ËÆºõ¶¼±È¾²Ö¹¸üÄÜÈÃÈË¿ìÀÖ£¬¸ü²»Ò×³öÏÖÇéĞ÷ÎÊÌâ
+æ•£æ­¥ã€æ…¢è·‘ã€å›­è‰ºã€ä¸¾é‡ã€æ¸¸æ³³ã€éª‘è½¦ã€å¾’æ­¥æ—…è¡Œï¼Œç”šè‡³ç»å¸¸ä»åŠå…¬å®¤æˆ–å®¢å…çš„æ¤…å­ä¸Šç«™èµ·æ¥ï¼Œåœ¨æˆ¿é—´é‡Œæ•£æ­¥ï¼Œä¼¼ä¹éƒ½æ¯”é™æ­¢æ›´èƒ½è®©äººå¿«ä¹ï¼Œæ›´ä¸æ˜“å‡ºç°æƒ…ç»ªé—®é¢˜
 
 People who exercise `harbor different types and amounts` of proteins in their `bloodstreams`, for instance, even if they have not been `working out recently`, and these `patterns of proteins` may play a role in reducing risks for `metabolic problems` such as diabetes or heart disease
-ÀıÈç£¬¾­³£ÔË¶¯ÕßµÄÑªÒºÖĞº¬ÓĞ²»Í¬ÀàĞÍºÍÊıÁ¿µÄµ°°×ÖÊ£¬¼´Ê¹ËûÃÇ½üÆÚÄÚÃ»ÓĞ½¡Éí£¬ÕâĞ©µ°°×ÖÊµÄÄ£Ê½ÒÀÈ»¿ÉÄÜÔÚ½µµÍÌÇÄò²¡»òĞÄÔà²¡µÈ´úĞ»ÎÊÌâ·çÏÕÖĞ·¢»Ó×÷ÓÃ
+ä¾‹å¦‚ï¼Œç»å¸¸è¿åŠ¨è€…çš„è¡€æ¶²ä¸­å«æœ‰ä¸åŒç±»å‹å’Œæ•°é‡çš„è›‹ç™½è´¨ï¼Œå³ä½¿ä»–ä»¬è¿‘æœŸå†…æ²¡æœ‰å¥èº«ï¼Œè¿™äº›è›‹ç™½è´¨çš„æ¨¡å¼ä¾ç„¶å¯èƒ½åœ¨é™ä½ç³–å°¿ç—…æˆ–å¿ƒè„ç—…ç­‰ä»£è°¢é—®é¢˜é£é™©ä¸­å‘æŒ¥ä½œç”¨
 
 whether those needs differ as we age or if wish to `deploy exercise` to `fend off or treat specific conditions`, such as high blood pressure, diabetes or a family history of weight problems
-Èç¹ûĞèÒªÍ¨¹ı¶ÍÁ¶À´Ô¤·À»òÖÎÁÆ¸ßÑªÑ¹¡¢ÌÇÄò²¡»òÒÅ´«ÌåÖØÎÊÌâµÈÌØ¶¨¼²²¡£¬Õâ¸ö±ê×¼ÊÇ·ñÒ²Ó¦ÓĞËù±ä»¯
+å¦‚æœéœ€è¦é€šè¿‡é”»ç‚¼æ¥é¢„é˜²æˆ–æ²»ç–—é«˜è¡€å‹ã€ç³–å°¿ç—…æˆ–é—ä¼ ä½“é‡é—®é¢˜ç­‰ç‰¹å®šç–¾ç—…ï¼Œè¿™ä¸ªæ ‡å‡†æ˜¯å¦ä¹Ÿåº”æœ‰æ‰€å˜åŒ–
 
-`Renovated` five years ago at the government¡¯s expense, the temple is used by a group of `retirees who run pilgrimages` to a holy mountain, schoolchildren who come to learn traditional culture and `a Taoist priest` who `preaches to wealthy urbanites` about the traditional values of ancient China
-ÎåÄêÇ°£¬Õş¸®³ö×Ê¶ÔÕâ×ùËÂÃí½øĞĞÁË·­ĞÂ£¬ÏÖÔÚÒ»ÈºÍËĞİÈËÊ¿Ç°ÍùÕâÀï³¯°İÊ¥É½£¬Ñ§Í¯À´´ËµØÑ§Ï°´«Í³ÎÄ»¯£¬Ò»Î»µÀÊ¿ÔÚÕâÀïĞû½²ÖĞ¹ú¹Å´ú´«Í³¼ÛÖµ¹Û
+`Renovated` five years ago at the governmentâ€™s expense, the temple is used by a group of `retirees who run pilgrimages` to a holy mountain, schoolchildren who come to learn traditional culture and `a Taoist priest` who `preaches to wealthy urbanites` about the traditional values of ancient China
+äº”å¹´å‰ï¼Œæ”¿åºœå‡ºèµ„å¯¹è¿™åº§å¯ºåº™è¿›è¡Œäº†ç¿»æ–°ï¼Œç°åœ¨ä¸€ç¾¤é€€ä¼‘äººå£«å‰å¾€è¿™é‡Œæœæ‹œåœ£å±±ï¼Œå­¦ç«¥æ¥æ­¤åœ°å­¦ä¹ ä¼ ç»Ÿæ–‡åŒ–ï¼Œä¸€ä½é“å£«åœ¨è¿™é‡Œå®£è®²ä¸­å›½å¤ä»£ä¼ ç»Ÿä»·å€¼è§‚
 
 In the northern suburbs of this city is a small temple to a Chinese `folk deity, Lord Guan`, a famous warrior `deified more than a millennium ago`
-ÔÚÕâ×ù³ÇÊĞµÄ±±½¼ÓĞÒ»×ùĞ¡ËÂÃí£¬¹©·îµÄÊÇÒ»Î»ÖĞ¹úÃñ¼äµÄÉñµo¡ª¡ª¹Ø¹«£¬ËûÊÇ1000¶àÄêÇ°Ò»Î»±»Éñ»¯µÄÖøÃûÎäÊ¿
+åœ¨è¿™åº§åŸå¸‚çš„åŒ—éƒŠæœ‰ä¸€åº§å°å¯ºåº™ï¼Œä¾›å¥‰çš„æ˜¯ä¸€ä½ä¸­å›½æ°‘é—´çš„ç¥ç¥‡â€”â€”å…³å…¬ï¼Œä»–æ˜¯1000å¤šå¹´å‰ä¸€ä½è¢«ç¥åŒ–çš„è‘—åæ­¦å£«
 
 `Perched atop` a hillock `overlooking the sprawling capital`, the temple is `a microcosm` of a new civil religion taking shape in China
-ËÂÃí×øÂäÔÚÒ»×ùĞ¡É½ÉÏ£¬¸©î«×ÅµØÓòÁÉÀ«µÄ¶¼³Ç£¬ËüÊÇÖĞ¹úÕıÔÚĞÎ³ÉµÄÒ»ÖÖĞÂµÄÃñ¼ä×Ú½ÌµÄËõÓ°
+å¯ºåº™åè½åœ¨ä¸€åº§å°å±±ä¸Šï¼Œä¿¯ç°ç€åœ°åŸŸè¾½é˜”çš„éƒ½åŸï¼Œå®ƒæ˜¯ä¸­å›½æ­£åœ¨å½¢æˆçš„ä¸€ç§æ–°çš„æ°‘é—´å®—æ•™çš„ç¼©å½±
 
 Most Chinese believe in `an amalgam of Buddhism, Taoism, Confucianism` and other traditional values and ideas that still `resonate deeply`
-´ó¶àÊıÖĞ¹úÈËĞÅ·îµÄÊÇÒ»ÖÖÈÚºÏÁË·ğ½Ì¡¢µÀ½Ì¡¢Èå½ÌÒÔ¼°ÆäËûÈÔÈ»ÄÜ¹»ÒıÆğÇ¿ÁÒ¹²ÃùµÄ´«Í³¼ÛÖµ¹ÛºÍË¼ÏëµÄ»ìºÏÌå
+å¤§å¤šæ•°ä¸­å›½äººä¿¡å¥‰çš„æ˜¯ä¸€ç§èåˆäº†ä½›æ•™ã€é“æ•™ã€å„’æ•™ä»¥åŠå…¶ä»–ä»ç„¶èƒ½å¤Ÿå¼•èµ·å¼ºçƒˆå…±é¸£çš„ä¼ ç»Ÿä»·å€¼è§‚å’Œæ€æƒ³çš„æ··åˆä½“
 
-`From the 19th century onward`, China¡¯s elites argued that the country¡¯s traditions and faiths were `a major reason for its decline`
-×Ô19ÊÀ¼ÍÒÔ½µ£¬ÖĞ¹úµÄ¾«Ó¢½×²ã¾ÍÈÏÎª£¬ËüµÄ´«Í³ÓëĞÅÑöÊÇÆäË¥ÂäµÄÖ÷Òò
+`From the 19th century onward`, Chinaâ€™s elites argued that the countryâ€™s traditions and faiths were `a major reason for its decline`
+è‡ª19ä¸–çºªä»¥é™ï¼Œä¸­å›½çš„ç²¾è‹±é˜¶å±‚å°±è®¤ä¸ºï¼Œå®ƒçš„ä¼ ç»Ÿä¸ä¿¡ä»°æ˜¯å…¶è¡°è½çš„ä¸»å› 
 
-The plan `stems from a widespread feeling` that China¡¯s `relentless drive to get ahead economically` has created `a spiritual vacuum`, and sometimes `justifies breaking rules` and `trampling civility`. 
-ÕâÏî¼Æ»®Ô´ÓÚÈËÃÇÆÕ±éµÄ¸ĞÊÜ£ºÖĞ¹ú×·Çó¾­¼Ã·¢Õ¹µÄ²»Ğ¸ÓûÍûÔì³ÉÁË¾«ÉñÉÏµÄÕæ¿Õ£¬ÓĞÊ±»¹µ¼ÖÂÃ÷Ä¿ÕÅµ¨µØÆÆ»µ¹æÔòºÍ¼ùÌ¤ÎÄÃ÷¡£
+The plan `stems from a widespread feeling` that Chinaâ€™s `relentless drive to get ahead economically` has created `a spiritual vacuum`, and sometimes `justifies breaking rules` and `trampling civility`. 
+è¿™é¡¹è®¡åˆ’æºäºäººä»¬æ™®éçš„æ„Ÿå—ï¼šä¸­å›½è¿½æ±‚ç»æµå‘å±•çš„ä¸æ‡ˆæ¬²æœ›é€ æˆäº†ç²¾ç¥ä¸Šçš„çœŸç©ºï¼Œæœ‰æ—¶è¿˜å¯¼è‡´æ˜ç›®å¼ èƒ†åœ°ç ´åè§„åˆ™å’Œè·µè¸æ–‡æ˜ã€‚
 
-Many people do not trust one another. The government¡¯s `blueprint for handling this moral crisis` calls for `endorsing certain traditional beliefs.`
-ÈËÓëÈËÖ®¼äÈ±·¦»¥ĞÅ¡£Õş¸®ÎªÓ¦¶ÔÕâÒ»µÀµÂÎ£»úÖÆ¶¨À¶Í¼£¬ºôÓõÈËÃÇÈÏ¿ÉÄ³Ğ©´«Í³ĞÅÑö
+Many people do not trust one another. The governmentâ€™s `blueprint for handling this moral crisis` calls for `endorsing certain traditional beliefs.`
+äººä¸äººä¹‹é—´ç¼ºä¹äº’ä¿¡ã€‚æ”¿åºœä¸ºåº”å¯¹è¿™ä¸€é“å¾·å±æœºåˆ¶å®šè“å›¾ï¼Œå‘¼åäººä»¬è®¤å¯æŸäº›ä¼ ç»Ÿä¿¡ä»°
 
-The men and women `sat around` a big wooden table, `wielding brushes to write out`, over and over again, his most `famous phrase: ¡°zhi xing he yi¡± (knowledge and action are one)`. This knowledge, according to Wang, `comes from an inner light, a conscience`
-ÕâĞ©ÄĞÄĞÅ®Å®Î§×øÔÚÒ»ÕÅ´óÄ¾×ÀÅÔ£¬»ÓÎèÃ«±Ê£¬Ò»±éÓÖÒ»±éµØĞ´ÏÂËû×îÖøÃûµÄ¸ñÑÔ£º¡°ÖªĞĞºÏÒ»¡±  ¸ù¾İËûµÄËµ·¨£¬ÕâÖÖÈÏÖªÔ´ÓÚÒ»ÖÖÄÚĞÄµÄÖ¸Òı£¬Ò»ÖÖÁ¼Öª
+The men and women `sat around` a big wooden table, `wielding brushes to write out`, over and over again, his most `famous phrase: â€œzhi xing he yiâ€ (knowledge and action are one)`. This knowledge, according to Wang, `comes from an inner light, a conscience`
+è¿™äº›ç”·ç”·å¥³å¥³å›´ååœ¨ä¸€å¼ å¤§æœ¨æ¡Œæ—ï¼ŒæŒ¥èˆæ¯›ç¬”ï¼Œä¸€éåˆä¸€éåœ°å†™ä¸‹ä»–æœ€è‘—åçš„æ ¼è¨€ï¼šâ€œçŸ¥è¡Œåˆä¸€â€  æ ¹æ®ä»–çš„è¯´æ³•ï¼Œè¿™ç§è®¤çŸ¥æºäºä¸€ç§å†…å¿ƒçš„æŒ‡å¼•ï¼Œä¸€ç§è‰¯çŸ¥
 
-The plan orders to `promote ¡°ancient and worthy sages,¡±` as well as to `¡°deeply expound¡±` traditional concepts such as ¡°ren¡¯ai¡± (`benevolence`), ¡°zhengyi¡± (`righteousness`) and ¡°jianyi zhengwei¡± (`standing up bravely for the truth`)
-Õâ·İĞÂ¼Æ»®ÒªÇóÍÆ¹ã¡°¹ÅÊ¥ÏÈÏÍ¡±£¬²¢ÇÒ¶Ô¡°ÈÊ°®¡±¡¢¡°ÕıÒå¡±¡¢¡°¼ûÒåÓÂÎª¡±µÈ´«Í³¹ÛÄî½øĞĞ¡°ÉîÈë²û·¢¡±
+The plan orders to `promote â€œancient and worthy sages,â€` as well as to `â€œdeeply expoundâ€` traditional concepts such as â€œrenâ€™aiâ€ (`benevolence`), â€œzhengyiâ€ (`righteousness`) and â€œjianyi zhengweiâ€ (`standing up bravely for the truth`)
+è¿™ä»½æ–°è®¡åˆ’è¦æ±‚æ¨å¹¿â€œå¤åœ£å…ˆè´¤â€ï¼Œå¹¶ä¸”å¯¹â€œä»çˆ±â€ã€â€œæ­£ä¹‰â€ã€â€œè§ä¹‰å‹‡ä¸ºâ€ç­‰ä¼ ç»Ÿè§‚å¿µè¿›è¡Œâ€œæ·±å…¥é˜å‘â€
 
-He `parks in the same lot` where he¡¯d take breaks and read his wife¡¯s letters, sent from Montreal while they `courted by post` in the late 1970s. He `seats his regulars` at the same tables where his three daughters did homework
-ËûµÄ³µ²´ÔÚÍ¬Ò»¸öÍ£³µ³¡£¬Ğ¡í¬µÄÊ±ºò£¬ËûÔøÔÚÄÇÀï¶ÁÎ´»éÆŞ´ÓÃÉÌØÀû¶ûµÄÀ´ĞÅ£¬ÄÇÊÇ20ÊÀ¼Í70Äê´úÄ©£¬ËûÃÇ»¹ÔÚÔ¶¾àÀëµØÌ¸Áµ°®¡£ÈôÊÇÊì¿ÍÉÏÃÅ£¬Ëû»áÈÃËûÃÇ×øÔÚÈı¸öÅ®¶ùÔø¾­×ö×÷ÒµµÄÄÇÕÅ×À×Ó
+He `parks in the same lot` where heâ€™d take breaks and read his wifeâ€™s letters, sent from Montreal while they `courted by post` in the late 1970s. He `seats his regulars` at the same tables where his three daughters did homework
+ä»–çš„è½¦æ³Šåœ¨åŒä¸€ä¸ªåœè½¦åœºï¼Œå°æ†©çš„æ—¶å€™ï¼Œä»–æ›¾åœ¨é‚£é‡Œè¯»æœªå©šå¦»ä»è’™ç‰¹åˆ©å°”çš„æ¥ä¿¡ï¼Œé‚£æ˜¯20ä¸–çºª70å¹´ä»£æœ«ï¼Œä»–ä»¬è¿˜åœ¨è¿œè·ç¦»åœ°è°ˆæ‹çˆ±ã€‚è‹¥æ˜¯ç†Ÿå®¢ä¸Šé—¨ï¼Œä»–ä¼šè®©ä»–ä»¬ååœ¨ä¸‰ä¸ªå¥³å„¿æ›¾ç»åšä½œä¸šçš„é‚£å¼ æ¡Œå­
 
 Their children, `educated and raised in America`, are `pursuing professional careers` that do not demand the same `grueling labor` as food service
-ËûÃÇµÄ×ÓÅ®ÔÚÃÀ¹ú³¤´ó£¬½ÓÊÜÁË¸ßµÈ½ÌÓı£¬´ÓÊÂµÄÖ°Òµ²»ĞèÒªÏñÊ³Æ··şÎñÒµÕâÑùÀÛÈËµÄÀÍ¶¯
+ä»–ä»¬çš„å­å¥³åœ¨ç¾å›½é•¿å¤§ï¼Œæ¥å—äº†é«˜ç­‰æ•™è‚²ï¼Œä»äº‹çš„èŒä¸šä¸éœ€è¦åƒé£Ÿå“æœåŠ¡ä¸šè¿™æ ·ç´¯äººçš„åŠ³åŠ¨
 
-It doesn¡¯t seem that `interest in the cuisine has faltered`
-ÈËÃÇ¶ÔÖĞ²ÍµÄĞËÈ¤ËÆºõ²¢Ã»ÓĞ¼õÍË
+It doesnâ€™t seem that `interest in the cuisine has faltered`
+äººä»¬å¯¹ä¸­é¤çš„å…´è¶£ä¼¼ä¹å¹¶æ²¡æœ‰å‡é€€
 
 But those are not Chinese-restaurant-specific factors, and do not explain `the wave of closings`. Instead, a big reason seems to be `the economic mobility` of the second generation
-µ«ÕâĞ©¶¼²»ÊÇÖĞ²Í¹İÌØÓĞµÄÀ§ÄÑ£¬ÎŞ·¨½âÊÍÖĞ²Í¹İ¹Ø±ÕµÄ³±Á÷¡£Ïà·´£¬Ò»¸öºÜ´óµÄÔ­ÒòËÆºõÊÇµÚ¶ş´ú»ªÈËµÄ¾­¼ÃÁ÷¶¯ĞÔ
+ä½†è¿™äº›éƒ½ä¸æ˜¯ä¸­é¤é¦†ç‰¹æœ‰çš„å›°éš¾ï¼Œæ— æ³•è§£é‡Šä¸­é¤é¦†å…³é—­çš„æ½®æµã€‚ç›¸åï¼Œä¸€ä¸ªå¾ˆå¤§çš„åŸå› ä¼¼ä¹æ˜¯ç¬¬äºŒä»£åäººçš„ç»æµæµåŠ¨æ€§
 
 In 1882, the Chinese Exclusion Act `halted what had been a steady rise` in people coming from China. `It was not revoked until 1943`, and `large-scale immigration resumed` only after 1965, when other race-targeting `quotas were abolished`
-1882ÄêµÄ¡¶ÅÅ»ª·¨°¸¡·×èÖ¹ÁËÖĞ¹úÒÆÃñµÄÎÈ²½Ôö³¤¡£Õâ¸ö·¨°¸Ö±µ½1943Äê²Å±»³·Ïú£¬ÆäËûÕë¶Ô×åÒáµÄÅä¶îÔÚ1965Äê±»·Ï³ıºó£¬´ó¹æÄ£µÄÒÆÃñ²ÅµÃÒÔ»Ö¸´
+1882å¹´çš„ã€Šæ’åæ³•æ¡ˆã€‹é˜»æ­¢äº†ä¸­å›½ç§»æ°‘çš„ç¨³æ­¥å¢é•¿ã€‚è¿™ä¸ªæ³•æ¡ˆç›´åˆ°1943å¹´æ‰è¢«æ’¤é”€ï¼Œå…¶ä»–é’ˆå¯¹æ—è£”çš„é…é¢åœ¨1965å¹´è¢«åºŸé™¤åï¼Œå¤§è§„æ¨¡çš„ç§»æ°‘æ‰å¾—ä»¥æ¢å¤
 
 An `often violent social and political upheaval` that started in 1966, `prompted many young people to emigrate` to the United States, a country that `projected an image of` freedom and economic possibility
-Õâ³¡³äÂú±©Á¦µÄÉç»áºÍÕşÖÎ¶¯µ´´ÙÊ¹Ğí¶àÄêÇáÈËÌÓÀëÖĞ¹ú£¬ÒÆÃñµ½¸øÈËÒÔ×ÔÓÉºÍ¾­¼Ã¿ÉÄÜĞÔÓ¡ÏóµÄÃÀ¹ú
+è¿™åœºå……æ»¡æš´åŠ›çš„ç¤¾ä¼šå’Œæ”¿æ²»åŠ¨è¡ä¿ƒä½¿è®¸å¤šå¹´è½»äººé€ƒç¦»ä¸­å›½ï¼Œç§»æ°‘åˆ°ç»™äººä»¥è‡ªç”±å’Œç»æµå¯èƒ½æ€§å°è±¡çš„ç¾å›½
 
 He `hiked, climbed and swam his way to` Hong Kong, filling his pants with pine cones as `an improvised flotation device`
-ËûÒ»Â··­É½Ô½Áë£¬×îºó¿¿ÓÎÓ¾À´µ½Ïã¸Û£¬ËûÔÚ¿ãÍÈÀïÈûÂúËÉ¹û£¬È¨µ±Æ¯¸¡×°ÖÃ
+ä»–ä¸€è·¯ç¿»å±±è¶Šå²­ï¼Œæœ€åé æ¸¸æ³³æ¥åˆ°é¦™æ¸¯ï¼Œä»–åœ¨è£¤è…¿é‡Œå¡æ»¡æ¾æœï¼Œæƒå½“æ¼‚æµ®è£…ç½®
 
 Although he had never worked in a restaurant, the heat from the woks `was much less intense` than what he experienced at a Hong Kong `plastics factory` where he had worked
-¾¡¹ÜËû´ÓÎ´ÔÚ²Í¹İ¹¤×÷¹ı£¬µ«³´²Ë¹øµÄ×ÆÈÈÔ¶²»¼°ËûÔÚÏã¸ÛÒ»¼ÒËÜÁÏ³§¹¤×÷Ê±Ëù¾­ÀúµÄ
+å°½ç®¡ä»–ä»æœªåœ¨é¤é¦†å·¥ä½œè¿‡ï¼Œä½†ç‚’èœé”…çš„ç¼çƒ­è¿œä¸åŠä»–åœ¨é¦™æ¸¯ä¸€å®¶å¡‘æ–™å‚å·¥ä½œæ—¶æ‰€ç»å†çš„
 
 They `served Hunan and Cantonese foods` on `linen tablecloths` to `bejeweled, curious diners` at places like Shun Lee Palace in New York
-ÔÚÅ¦Ô¼Ë³Àû¹¬²Í¹İÕâÑùµÄµØ·½£¬ËûÃÇÅëâ¿µÄÏæ²ËºÍÔÁ²ËÄÜ¶ËÉÏÆÌ×ÅÑÇÂé×À²¼µÄ²Í×À£¬ÎªÅå´÷Öé±¦µÄºÃÆæÊ³¿ÍÏíÓÃ
+åœ¨çº½çº¦é¡ºåˆ©å®«é¤é¦†è¿™æ ·çš„åœ°æ–¹ï¼Œä»–ä»¬çƒ¹é¥ªçš„æ¹˜èœå’Œç²¤èœèƒ½ç«¯ä¸Šé“ºç€äºšéº»æ¡Œå¸ƒçš„é¤æ¡Œï¼Œä¸ºä½©æˆ´ç å®çš„å¥½å¥‡é£Ÿå®¢äº«ç”¨
 
 We started getting `regional practitioners of fine regional cuisine` to come to this country and `do their thing`
-´ÓÄÇÊ±¿ªÊ¼£¬ÎÒÃÇÓĞÁËÖĞ¹úµØ·½²ËÏµµÄ´ÓÒµÕßÀ´ÃÀ¹ú×öËûÃÇµÄ²Ë
+ä»é‚£æ—¶å¼€å§‹ï¼Œæˆ‘ä»¬æœ‰äº†ä¸­å›½åœ°æ–¹èœç³»çš„ä»ä¸šè€…æ¥ç¾å›½åšä»–ä»¬çš„èœ
 
 `Mostly, though`, the `newly minted chefs` cooked quickly and cheaply. They `adapted their method of` cooking to American tastes, `developing dishes` like beef chow fun, fortune cookies and egg drop soup, often brought home in the signature `takeout containers`
-²»¹ı£¬´ó¶àÊıÇé¿öÏÂ£¬ĞÂÕÆÉ×µÄ³øÊ¦¿¿µÄÊÇ¿ìËÙºÍ¼Û¸ñ±ãÒËµÄÅëâ¿¡£ËûÃÇ¸ù¾İÃÀ¹úÈËµÄ¿ÚÎ¶×÷³öµ÷Õû£¬ÍÆ³öÁË¸É³´Å£ºÓ¡¢ĞÒÔË±ı¸ÉºÍµ°»¨ÌÀµÈ²ËëÈ£¬ÈËÃÇÍ¨³£°ÑÕâĞ©²Ë×°ÔÚÖĞ²ÍÌØÓĞµÄÍâÂôºĞÀï´ø»Ø¼Ò³Ô
+ä¸è¿‡ï¼Œå¤§å¤šæ•°æƒ…å†µä¸‹ï¼Œæ–°æŒå‹ºçš„å¨å¸ˆé çš„æ˜¯å¿«é€Ÿå’Œä»·æ ¼ä¾¿å®œçš„çƒ¹é¥ªã€‚ä»–ä»¬æ ¹æ®ç¾å›½äººçš„å£å‘³ä½œå‡ºè°ƒæ•´ï¼Œæ¨å‡ºäº†å¹²ç‚’ç‰›æ²³ã€å¹¸è¿é¥¼å¹²å’Œè›‹èŠ±æ±¤ç­‰èœè‚´ï¼Œäººä»¬é€šå¸¸æŠŠè¿™äº›èœè£…åœ¨ä¸­é¤ç‰¹æœ‰çš„å¤–å–ç›’é‡Œå¸¦å›å®¶åƒ
 
 They were not `precious`, These people did not `come to be chefs`; they came to be immigrants, and cooking was `the way they made a living`
-ÕâĞ©²Ë²»½¿¹ó£¬ÕâĞ©ÈËÀ´ÃÀ¹ú²»ÊÇÎªÁËµ±³øÊ¦, ËûÃÇÊÇÒÆÃñ£¬Åëâ¿Ö»ÊÇËûÃÇÄ±ÉúµÄ·½·¨
+è¿™äº›èœä¸å¨‡è´µï¼Œè¿™äº›äººæ¥ç¾å›½ä¸æ˜¯ä¸ºäº†å½“å¨å¸ˆ, ä»–ä»¬æ˜¯ç§»æ°‘ï¼Œçƒ¹é¥ªåªæ˜¯ä»–ä»¬è°‹ç”Ÿçš„æ–¹æ³•
 
 Other immigrant groups `follow a similar pattern`. With `social mobility and inclusion` in more `mainstream parts of the economy`, the children of immigrants `are less likely than` their parents to own their own businesses
-ÆäËûÒÆÃñÈºÌåÒ²ÓĞÀàËÆµÄ¾­Àú¡£ÒÆÃñ×ÓÅ®ÒòÉç»áÁ÷¶¯ĞÔºÍ°üÈİĞÔ½øÈë¸üÖ÷Á÷µÄ¾­¼ÃÁìÓòºó£¬ËûÃÇÓµÓĞ×Ô¼ºÉúÒâµÄ¿ÉÄÜĞÔ±È¸¸Ä¸µÄÒªµÍ
+å…¶ä»–ç§»æ°‘ç¾¤ä½“ä¹Ÿæœ‰ç±»ä¼¼çš„ç»å†ã€‚ç§»æ°‘å­å¥³å› ç¤¾ä¼šæµåŠ¨æ€§å’ŒåŒ…å®¹æ€§è¿›å…¥æ›´ä¸»æµçš„ç»æµé¢†åŸŸåï¼Œä»–ä»¬æ‹¥æœ‰è‡ªå·±ç”Ÿæ„çš„å¯èƒ½æ€§æ¯”çˆ¶æ¯çš„è¦ä½
 
 `In some ways`, the children are `regaining the status` of the first generation that they have lost while migrating
-´ÓÄ³ÖÖÒâÒåÉÏÀ´Ëµ£¬ÕâĞ©×ÓÅ®ÔÚ»Ö¸´¸¸Ä¸×÷ÎªµÚÒ»´úÒÆÃñÔÚÆä¼äÊ§È¥µÄµØÎ»
+ä»æŸç§æ„ä¹‰ä¸Šæ¥è¯´ï¼Œè¿™äº›å­å¥³åœ¨æ¢å¤çˆ¶æ¯ä½œä¸ºç¬¬ä¸€ä»£ç§»æ°‘åœ¨å…¶é—´å¤±å»çš„åœ°ä½
 
 When they `do become entrepreneurs`, these children `tend to work` in industries like tech or consulting, `rather than in food service or nail salons`
-Èç¹ûËûÃÇ³ÉÎªÁËÆóÒµ¼ÒµÄ»°£¬×ÓÅ®ÍùÍùÔÚ¼¼Êõ»ò×ÉÑ¯µÈĞĞÒµ£¬¶ø²»ÊÇÔÚÊ³Æ··şÎñ»òÃÀ¼×É³Áú¹¤×÷
+å¦‚æœä»–ä»¬æˆä¸ºäº†ä¼ä¸šå®¶çš„è¯ï¼Œå­å¥³å¾€å¾€åœ¨æŠ€æœ¯æˆ–å’¨è¯¢ç­‰è¡Œä¸šï¼Œè€Œä¸æ˜¯åœ¨é£Ÿå“æœåŠ¡æˆ–ç¾ç”²æ²™é¾™å·¥ä½œ
 
 Some members of the second generation have also `chosen to take charge of` family restaurants. Nom Wah Tea Parlor, a New York `dim sum restaurant` that opened in 1920, has `stayed a family business`
-µÚ¶ş´úÖĞµÄ¸ö±ğÈË»¹ÊÇÑ¡ÔñÁË½Ó¹Ü¼ÒÍ¥²Í¹İ¡£1920Äê¿ªÒµµÄÅ¦Ô¼Ôç²è¹İÄÏ»ª²èÊÒÒ»Ö±ÊÇ¼ÒÍ¥ÉúÒâ
+ç¬¬äºŒä»£ä¸­çš„ä¸ªåˆ«äººè¿˜æ˜¯é€‰æ‹©äº†æ¥ç®¡å®¶åº­é¤é¦†ã€‚1920å¹´å¼€ä¸šçš„çº½çº¦æ—©èŒ¶é¦†å—åèŒ¶å®¤ä¸€ç›´æ˜¯å®¶åº­ç”Ÿæ„
 
-`Initially`, his parents `balked at his decision` As immigrants, it¡¯s the only thing you can do; if it¡¯s not restaurants, it¡¯s `a laundromat`
-Æğ³õ£¬ËûµÄ¸¸Ä¸²»ÔŞ³ÉËûµÄÕâ¸ö¾ö¶¨ ×÷ÎªÒÆÃñ£¬ÄãÖ»ÄÜ¸ÉÕâĞĞ£»Èç¹û²»ÊÇ¿ª²Í¹İ£¬¾ÍÊÇ×ÔÖúÏ´ÒÂµê
+`Initially`, his parents `balked at his decision` As immigrants, itâ€™s the only thing you can do; if itâ€™s not restaurants, itâ€™s `a laundromat`
+èµ·åˆï¼Œä»–çš„çˆ¶æ¯ä¸èµæˆä»–çš„è¿™ä¸ªå†³å®š ä½œä¸ºç§»æ°‘ï¼Œä½ åªèƒ½å¹²è¿™è¡Œï¼›å¦‚æœä¸æ˜¯å¼€é¤é¦†ï¼Œå°±æ˜¯è‡ªåŠ©æ´—è¡£åº—
 
 `On any given night`, groups of guests wait for a table outside the Chinatown location `for up to an hour`, `huddled in the bend of` Doyers Street
-Ã¿ÌìÍíÉÏ£¬³ÉÈº½á¶ÓµÄ¿ÍÈË¼·ÔÚ×øÂäÓÚÔ×Ò²½Ö¹Õ½ÇµÄÕâ¼ÒÌÆÈË½Ö±¾µêÃÅÍâ£¬ÒªµÈÎ»Ò»¸öĞ¡Ê±²ÅÄÜ³ÔÉÏ
+æ¯å¤©æ™šä¸Šï¼Œæˆç¾¤ç»“é˜Ÿçš„å®¢äººæŒ¤åœ¨åè½äºå®°ä¹Ÿè¡—æ‹è§’çš„è¿™å®¶å”äººè¡—æœ¬åº—é—¨å¤–ï¼Œè¦ç­‰ä½ä¸€ä¸ªå°æ—¶æ‰èƒ½åƒä¸Š
 
-`In a parallel effort`, the team behind Junzi Kitchen, `a fast-casual Chinese restaurant chain` based in New York, recently raised $5 million to research and buy places like Eng¡¯s, `rebranding` them with Junzi¡¯s `modern take on the cuisine`
-»¹ÓĞÁíÒ»ÖÖÈÃÖĞ²Í¹İ¼ÌĞøÏÂÈ¥µÄÅ¬Á¦£¬×Ü²¿ÉèÔÚÅ¦Ô¼µÄÖĞÊ½ĞİÏĞ¿ì²ÍÁ¬Ëøµê¾ı×ÓÊ³ÌÃ(Junzi Kitchen)±³ºóµÄÍÅ¶Ó×î½ü³ï¼¯µ½ÁË500ÍòÃÀÔª£¬ÓÃÓÚÑĞ¾¿ºÍÊÕ¹ºÏñEng¡¯sÕâÑùµÄ²Í¹İ£¬½«ËüÃÇÖØËÜÎª¡°¾ı×Ó¡±Æ·ÅÆÏÂµÄÏÖ´úÖĞ²Í¹İ
+`In a parallel effort`, the team behind Junzi Kitchen, `a fast-casual Chinese restaurant chain` based in New York, recently raised $5 million to research and buy places like Engâ€™s, `rebranding` them with Junziâ€™s `modern take on the cuisine`
+è¿˜æœ‰å¦ä¸€ç§è®©ä¸­é¤é¦†ç»§ç»­ä¸‹å»çš„åŠªåŠ›ï¼Œæ€»éƒ¨è®¾åœ¨çº½çº¦çš„ä¸­å¼ä¼‘é—²å¿«é¤è¿é”åº—å›å­é£Ÿå ‚(Junzi Kitchen)èƒŒåçš„å›¢é˜Ÿæœ€è¿‘ç­¹é›†åˆ°äº†500ä¸‡ç¾å…ƒï¼Œç”¨äºç ”ç©¶å’Œæ”¶è´­åƒEngâ€™sè¿™æ ·çš„é¤é¦†ï¼Œå°†å®ƒä»¬é‡å¡‘ä¸ºâ€œå›å­â€å“ç‰Œä¸‹çš„ç°ä»£ä¸­é¤é¦†
 
 Ms. Sit `feels more ready to retire` than her husband. `Normally talkative`, he can `be evasive` whenever the family tries to bring up a successor
-Ñ¦Å®Ê¿±ÈÕÉ·ò¸üÔ¸ÒâÍËĞİ¡£ËäÈ»ËûÍ¨³£½¡Ì¸£¬µ«Ã¿µ±¼ÒÈËÊÔÍ¼ÌáÆğ²Í¹İ¼Ì³ĞÈËµÄ»°ÌâÊÇ£¬Ëû×ÜÊÇÉÁË¸Æä´Ê
+è–›å¥³å£«æ¯”ä¸ˆå¤«æ›´æ„¿æ„é€€ä¼‘ã€‚è™½ç„¶ä»–é€šå¸¸å¥è°ˆï¼Œä½†æ¯å½“å®¶äººè¯•å›¾æèµ·é¤é¦†ç»§æ‰¿äººçš„è¯é¢˜æ˜¯ï¼Œä»–æ€»æ˜¯é—ªçƒå…¶è¯
 
-¡°They¡¯ll have to work hard,¡± she said, `her eyes sparkling as she teased her husband`. But she is proud of what he built
-¡°ËûÃÇÒ»¶¨ÒªÊÇÏñÌÀÄ·¡¤Ñ¦ÄÇÑùÅ¬Á¦¸É»îµÄÈË£¬¡±Éñ²É·ÉÑïµØŞŞŞíÕÉ·òËµ.µ«Ëı¶ÔÕÉ·òµÄ³É¾Í¸Ğµ½×ÔºÀ
+â€œTheyâ€™ll have to work hard,â€ she said, `her eyes sparkling as she teased her husband`. But she is proud of what he built
+â€œä»–ä»¬ä¸€å®šè¦æ˜¯åƒæ±¤å§†Â·è–›é‚£æ ·åŠªåŠ›å¹²æ´»çš„äººï¼Œâ€ç¥é‡‡é£æ‰¬åœ°æ¶æ„ä¸ˆå¤«è¯´.ä½†å¥¹å¯¹ä¸ˆå¤«çš„æˆå°±æ„Ÿåˆ°è‡ªè±ª
 
 The `airstrip stretches like a scar through` what was once `unspoiled Cambodian jungle`
-·É»úÅÜµÀÏñÒ»ÌõÉË°Ì£¬´©¹ıÕâÆ¬Ôø¾­ÍêºÃÎŞËğµÄ¼íÆÒÕ¯´ÔÁÖ
+é£æœºè·‘é“åƒä¸€æ¡ä¼¤ç–¤ï¼Œç©¿è¿‡è¿™ç‰‡æ›¾ç»å®Œå¥½æ— æŸçš„æŸ¬åŸ”å¯¨ä¸›æ—
 
 When completed next year on `a remote stretch of shoreline`, Dara Sakor International Airport will `boast the longest runway` in Cambodia, complete with the kind of `tight turning bay` favored by fighter jet pilots
-ÆßĞÇº£¹ú¼Ê»ú³¡µØ´¦Ò»¶ÎÆ«Ô¶µÄº£°¶ÏßÉÏ£¬Ã÷ÄêÍê¹¤ºó£¬Ëü½«ÓµÓĞ¼íÆÒÕ¯×î³¤µÄÅÜµÀ£¬ÓĞÕ½¶·»ú·ÉĞĞÔ±Ï²»¶µÄÄÇÖÖ¼±×ªÍäÇø
+ä¸ƒæ˜Ÿæµ·å›½é™…æœºåœºåœ°å¤„ä¸€æ®µåè¿œçš„æµ·å²¸çº¿ä¸Šï¼Œæ˜å¹´å®Œå·¥åï¼Œå®ƒå°†æ‹¥æœ‰æŸ¬åŸ”å¯¨æœ€é•¿çš„è·‘é“ï¼Œæœ‰æˆ˜æ–—æœºé£è¡Œå‘˜å–œæ¬¢çš„é‚£ç§æ€¥è½¬å¼¯åŒº
 
 But the scale of the land deal at Dara Sakor has `raised eyebrows`, especially since the portion of the project built so far is already `moldering in malarial jungle`
-µ«ÆßĞÇº£ÏîÄ¿µÄÍÁµØ½»Ò×¹æÄ£ÒÑÒıÆğÁËÈËÃÇµÄ¹Ø×¢£¬ÌØ±ğÊÇ×Ô´ÓÄ¿Ç°ÒÑ½¨³ÉµÄ²¿·ÖÔÚÕâÆ¬Å±¼²ËÁÅ°µÄ´ÔÁÖÖĞÎŞÈËÎÊ½òÒÔÀ´
+ä½†ä¸ƒæ˜Ÿæµ·é¡¹ç›®çš„åœŸåœ°äº¤æ˜“è§„æ¨¡å·²å¼•èµ·äº†äººä»¬çš„å…³æ³¨ï¼Œç‰¹åˆ«æ˜¯è‡ªä»ç›®å‰å·²å»ºæˆçš„éƒ¨åˆ†åœ¨è¿™ç‰‡ç–Ÿç–¾è‚†è™çš„ä¸›æ—ä¸­æ— äººé—®æ´¥ä»¥æ¥
 
 The activity at Dara Sakor is `stirring fears` that Beijing plans to turn this small Southeast Asian nation into `a de facto military outpost`
-ÆßĞÇº£µÄ»î¶¯ÕıÔÚÒıÆğµ£ĞÄ£¬¼´±±¾©´òËã°ÑÕâ¸ö¶«ÄÏÑÇĞ¡¹ú±ä³ÉÊÂÊµÉÏµÄ¾üÊÂÇ°ÉÚ
+ä¸ƒæ˜Ÿæµ·çš„æ´»åŠ¨æ­£åœ¨å¼•èµ·æ‹…å¿ƒï¼Œå³åŒ—äº¬æ‰“ç®—æŠŠè¿™ä¸ªä¸œå—äºšå°å›½å˜æˆäº‹å®ä¸Šçš„å†›äº‹å‰å“¨
 
 This will allow China to `project its air power` through the region, and it changes the whole game
-Õâ½«Ê¹ÖĞ¹úÄÜ¹»ÔÚ¸ÃµØÇøÍ¶Éä¿ÕÖĞÁ¦Á¿£¬Ò²½«¸Ä±äÕû¸öÓÎÏ·¹æÔò
+è¿™å°†ä½¿ä¸­å›½èƒ½å¤Ÿåœ¨è¯¥åœ°åŒºæŠ•å°„ç©ºä¸­åŠ›é‡ï¼Œä¹Ÿå°†æ”¹å˜æ•´ä¸ªæ¸¸æˆè§„åˆ™
 
 As China `extends its might overseas`, it is `bumping up` against a `regional security umbrella` shaped by the United States decades ago
-Ëæ×ÅÖĞ¹úÏòº£ÍâÀ©ÕÅ£¬ËüÕıÔÚÓëÃÀ¹ú¼¸Ê®ÄêÇ°ĞÎ³ÉµÄÇøÓò°²È«±£»¤É¡·¢ÉúÅö×²
+éšç€ä¸­å›½å‘æµ·å¤–æ‰©å¼ ï¼Œå®ƒæ­£åœ¨ä¸ç¾å›½å‡ åå¹´å‰å½¢æˆçš„åŒºåŸŸå®‰å…¨ä¿æŠ¤ä¼å‘ç”Ÿç¢°æ’
 
-But to win his place as Asia¡¯s `longest-serving leader`, Prime Minister Hun Sen of Cambodia `has turned his back on` free elections and rule of law
-µ«¼íÆÒÕ¯Ê×ÏàºéÉ­ÒÑ±³ÆúÁË×ÔÓÉÑ¡¾ÙºÍ·¨ÖÎ£¬³ÉÎªÑÇÖŞÈÎÆÚ×î³¤µÄÁìµ¼ÈË
+But to win his place as Asiaâ€™s `longest-serving leader`, Prime Minister Hun Sen of Cambodia `has turned his back on` free elections and rule of law
+ä½†æŸ¬åŸ”å¯¨é¦–ç›¸æ´ªæ£®å·²èƒŒå¼ƒäº†è‡ªç”±é€‰ä¸¾å’Œæ³•æ²»ï¼Œæˆä¸ºäºšæ´²ä»»æœŸæœ€é•¿çš„é¢†å¯¼äºº
 
-Dara Sakor¡¯s runway and port will transform this `remote rainforest` into `a global logistics hub` that will ¡°make miracles possible,¡± as Dara Sakor¡¯s `promotional literature` puts it
-ÆßĞÇº£µÄÅÜµÀºÍ¸Û¿Ú½«°ÑÕâÆ¬Æ«Ô¶µÄÓêÁÖ±ä³ÉÒ»¸öÈ«ÇòÎïÁ÷ÖĞĞÄ£¬ÕıÈçÆßĞÇº£Ğû´«×ÊÁÏËùËµµÄ¡°ÈÃÆæ¼£³ÉÎª¿ÉÄÜ¡±
+Dara Sakorâ€™s runway and port will transform this `remote rainforest` into `a global logistics hub` that will â€œmake miracles possible,â€ as Dara Sakorâ€™s `promotional literature` puts it
+ä¸ƒæ˜Ÿæµ·çš„è·‘é“å’Œæ¸¯å£å°†æŠŠè¿™ç‰‡åè¿œçš„é›¨æ—å˜æˆä¸€ä¸ªå…¨çƒç‰©æµä¸­å¿ƒï¼Œæ­£å¦‚ä¸ƒæ˜Ÿæµ·å®£ä¼ èµ„æ–™æ‰€è¯´çš„â€œè®©å¥‡è¿¹æˆä¸ºå¯èƒ½â€
 
-Other villagers who attended the meeting `confirmed his account`. Land officials wouldn¡¯t comment.
-²Î¼ÓÁËÄÇ¸ö»áµÄÆäËû´åÃñÖ¤ÊµÁËËûµÄËµ·¨¡£ÍÁµØ¹ÜÀí¹ÙÔ±²»ÓèÖÃÆÀ
+Other villagers who attended the meeting `confirmed his account`. Land officials wouldnâ€™t comment.
+å‚åŠ äº†é‚£ä¸ªä¼šçš„å…¶ä»–æ‘æ°‘è¯å®äº†ä»–çš„è¯´æ³•ã€‚åœŸåœ°ç®¡ç†å®˜å‘˜ä¸äºˆç½®è¯„
 
 The company `was exempted from` any `lease payments` for a decade
-Õâ¼Ò¹«Ë¾»¹ÔÚÍ·10ÄêÄÚÃâ½»ÈÎºÎ×â½ğ
+è¿™å®¶å…¬å¸è¿˜åœ¨å¤´10å¹´å†…å…äº¤ä»»ä½•ç§Ÿé‡‘
 
 Even with `generous lease terms`, the one part of Dara Sakor that has been built, `a resort complex`, is `languishing`. 
-¼´Ê¹ÓĞ¿¶¿®µÄ×âÁŞÌõ¿î£¬ÆßĞÇº£ÒÑ¾­Âä³ÉµÄÒ»¸ö¶È¼Ù´å¿´ÉÏÈ¥»¹ÊÇÒ»Æ¬ÏôÌõ¡£
+å³ä½¿æœ‰æ…·æ…¨çš„ç§Ÿèµæ¡æ¬¾ï¼Œä¸ƒæ˜Ÿæµ·å·²ç»è½æˆçš„ä¸€ä¸ªåº¦å‡æ‘çœ‹ä¸Šå»è¿˜æ˜¯ä¸€ç‰‡è§æ¡ã€‚
 
 On a recent day, `the golf course` was empty and `the casino deserted`. The `marina restaurant` attracted one Chinese family, which had brought seafood in `a plastic bag` to avoid paying resort prices
-ÔÚ²»¾ÃÇ°µÄÒ»Ìì£¬ÕâÀïµÄ¸ß¶û·òÇò³¡¿ÕÎŞÒ»ÈË£¬¶Ä³¡Ò²¿ÕÎŞÒ»ÈË¡£ÓÎÍ§Í£¿¿ÇøµÄ²ÍÌüÀïÖ»ÓĞÒ»¼ÒÖĞ¹úÈË£¬ËûÃÇÓÃËÜÁÏ´ü×Ô´øº£ÏÊ£¬ÒÔÃâÖ§¸¶¶È¼Ù´å¸ß°ºµÄ¼Û¸ñ
+åœ¨ä¸ä¹…å‰çš„ä¸€å¤©ï¼Œè¿™é‡Œçš„é«˜å°”å¤«çƒåœºç©ºæ— ä¸€äººï¼ŒèµŒåœºä¹Ÿç©ºæ— ä¸€äººã€‚æ¸¸è‰‡åœé åŒºçš„é¤å…é‡Œåªæœ‰ä¸€å®¶ä¸­å›½äººï¼Œä»–ä»¬ç”¨å¡‘æ–™è¢‹è‡ªå¸¦æµ·é²œï¼Œä»¥å…æ”¯ä»˜åº¦å‡æ‘é«˜æ˜‚çš„ä»·æ ¼
 
 We `are frankly fed up`, Do we have to ask the United States to `develop our sovereignty`?
-Ì¹ÂÊµØËµ£¬ÎÒÃÇÈÌÎŞ¿ÉÈÌÁË£¬ÎÒÃÇÄÑµÀ·ÇµÃÒªÃÀ¹úÀ´·¢Õ¹ÎÒÃÇµÄÖ÷È¨Âğ£¿
+å¦ç‡åœ°è¯´ï¼Œæˆ‘ä»¬å¿æ— å¯å¿äº†ï¼Œæˆ‘ä»¬éš¾é“éå¾—è¦ç¾å›½æ¥å‘å±•æˆ‘ä»¬çš„ä¸»æƒå—ï¼Ÿ
