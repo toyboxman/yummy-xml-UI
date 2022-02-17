@@ -1,238 +1,259 @@
-Hong Kong¡¯s people don¡¯t `look as rich as they once did`. Mainlanders now see that the majority of Hong Kong 
-residents don¡¯t live in `sea view villas`, drive luxury cars or `dine in fine restaurants` as they saw in `soap operas`.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+Hong Kongâ€™s people donâ€™t `look as rich as they once did`. Mainlanders now see that the majority of Hong Kong 
+residents donâ€™t live in `sea view villas`, drive luxury cars or `dine in fine restaurants` as they saw in `soap operas`.
 They live in `cramped apartments`, often much smaller than theirs in Beijing and Shanghai, and work long hours to 
 make a living in one of the most expensive cities in the world.
-Ïã¸ÛÈË¿´ÆğÀ´²»ÏñÒÔÇ°ÄÇÃ´¸»ÓĞÁË¡£ÄÚµØÈËÏÖÔÚ¿´µ½£¬´ó¶àÊıÏã¸ÛÈË²¢²»ÏñËûÃÇÔÚ·ÊÔí¾çÖĞ¿´µ½µÄÄÇÑù£¬×¡º£¾°±ğÊû¡¢¿ªºÀ³µ£¬
-»òÔÚ¸ßµµ²ÍÌüÓÃ²Í¡£´ó¶àÊıÏã¸ÛÈË×¡ÔÚÏÁĞ¡µÄ¹«Ô¢Àï£¬Í¨³£±ÈËûÃÇÔÚ±±¾©ºÍÉÏº£µÄ¹«Ô¢Ğ¡µÃ¶à£¬ÎªÁËÔÚÊÀ½çÉÏÉú»î³É±¾×î¸ßµÄ
-³ÇÊĞÖ®Ò»Ä±Éú£¬Ïã¸ÛÈËÒª¹¤×÷ºÜ³¤µÄÊ±¼ä¡£
+é¦™æ¸¯äººçœ‹èµ·æ¥ä¸åƒä»¥å‰é‚£ä¹ˆå¯Œæœ‰äº†ã€‚å†…åœ°äººç°åœ¨çœ‹åˆ°ï¼Œå¤§å¤šæ•°é¦™æ¸¯äººå¹¶ä¸åƒä»–ä»¬åœ¨è‚¥çš‚å‰§ä¸­çœ‹åˆ°çš„é‚£æ ·ï¼Œä½æµ·æ™¯åˆ«å¢…ã€å¼€è±ªè½¦ï¼Œ
+æˆ–åœ¨é«˜æ¡£é¤å…ç”¨é¤ã€‚å¤§å¤šæ•°é¦™æ¸¯äººä½åœ¨ç‹­å°çš„å…¬å¯“é‡Œï¼Œé€šå¸¸æ¯”ä»–ä»¬åœ¨åŒ—äº¬å’Œä¸Šæµ·çš„å…¬å¯“å°å¾—å¤šï¼Œä¸ºäº†åœ¨ä¸–ç•Œä¸Šç”Ÿæ´»æˆæœ¬æœ€é«˜çš„
+åŸå¸‚ä¹‹ä¸€è°‹ç”Ÿï¼Œé¦™æ¸¯äººè¦å·¥ä½œå¾ˆé•¿çš„æ—¶é—´ã€‚
 
 `Not only did` the book get published and top best-seller lists, but the `ensuing` film has `stormed to No. 1` at 
 the box office, `buoyed by warm reviews` and aggressive `theater-renting campaigns`.
-Õâ±¾Êé²»½öµÃµ½³ö°æ£¬µÇÉÏ³©ÏúÊéÅÅĞĞ°ñµÚÒ»Î»£¬¶øÇÒ£¬ÊÜÒæÓÚÈÈÁÒµÄÓ°ÆÀºÍ»ı¼«µÄ°ü³¡»î¶¯£¬¸ù¾İËü¸Ä±àµÄµçÓ°»¹³ÉÁËÆ±·¿¹Ú¾ü
+è¿™æœ¬ä¹¦ä¸ä»…å¾—åˆ°å‡ºç‰ˆï¼Œç™»ä¸Šç•…é”€ä¹¦æ’è¡Œæ¦œç¬¬ä¸€ä½ï¼Œè€Œä¸”ï¼Œå—ç›Šäºçƒ­çƒˆçš„å½±è¯„å’Œç§¯æçš„åŒ…åœºæ´»åŠ¨ï¼Œæ ¹æ®å®ƒæ”¹ç¼–çš„ç”µå½±è¿˜æˆäº†ç¥¨æˆ¿å† å†›
 
 Yet the outlines of the `tentative peace` accord President Trump reached on Saturday with his Chinese counterpart,
-Xi Jinping, could further `cement a broad reshuffling of` the global economic order that `undermines` China¡¯s 
-decades-long role as the world¡¯s factory floor.
-È»¶ø£¬ÌØÀÊÆÕ×ÜÍ³ÖÜÁùÓëÖĞ¹ú¹ú¼ÒÖ÷Ï¯Ï°½üÆ½´ï³ÉµÄ³õ²½ºÍÆ½Ğ­ÒéµÄ¹£¸Å£¬¿ÉÄÜ»á½øÒ»²½¹®¹ÌÈ«Çò¾­¼ÃÖÈĞòµÄ¹ã·ºÖØ×é£¬Ï÷ÈõÖĞ¹úÊıÊ®ÄêÀ´×÷ÎªÊÀ½ç¹¤³§µÄµØÎ»¡£
+Xi Jinping, could further `cement a broad reshuffling of` the global economic order that `undermines` Chinaâ€™s 
+decades-long role as the worldâ€™s factory floor.
+ç„¶è€Œï¼Œç‰¹æœ—æ™®æ€»ç»Ÿå‘¨å…­ä¸ä¸­å›½å›½å®¶ä¸»å¸­ä¹ è¿‘å¹³è¾¾æˆçš„åˆæ­¥å’Œå¹³åè®®çš„æ¢—æ¦‚ï¼Œå¯èƒ½ä¼šè¿›ä¸€æ­¥å·©å›ºå…¨çƒç»æµç§©åºçš„å¹¿æ³›é‡ç»„ï¼Œå‰Šå¼±ä¸­å›½æ•°åå¹´æ¥ä½œä¸ºä¸–ç•Œå·¥å‚çš„åœ°ä½ã€‚
 
 Even a `fragile` truce could have `lingering implications`
-¼´Ê¹Õâ´Î²»ÀÎ¹ÌµÄĞİÕ½Ò²»áÓĞ³Ù³Ù²»È¥µÄÓ°Ïì
+å³ä½¿è¿™æ¬¡ä¸ç‰¢å›ºçš„ä¼‘æˆ˜ä¹Ÿä¼šæœ‰è¿Ÿè¿Ÿä¸å»çš„å½±å“
 
-As long as the threat `is out there`, there are risks in depending on these long supply chains, Businesses don¡¯t 
+As long as the threat `is out there`, there are risks in depending on these long supply chains, Businesses donâ€™t 
 like uncertainty, and this `prolongs the uncertainty`.
-Ö»ÒªÍşĞ²´æÔÚ£¬¾ÍÓĞÒÀÀµÕâĞ©³¤¹©Ó¦Á´µÄ·çÏÕ£¬ÆóÒµ²»Ï²»¶²»È·¶¨ĞÔ£¬Ä¿Ç°µÄ×ö·¨ÑÓ³¤ÁË²»È·¶¨ĞÔ¡£
+åªè¦å¨èƒå­˜åœ¨ï¼Œå°±æœ‰ä¾èµ–è¿™äº›é•¿ä¾›åº”é“¾çš„é£é™©ï¼Œä¼ä¸šä¸å–œæ¬¢ä¸ç¡®å®šæ€§ï¼Œç›®å‰çš„åšæ³•å»¶é•¿äº†ä¸ç¡®å®šæ€§ã€‚
 
 China will not `concede its sovereignty` and show weakness
-ÖĞ¹ú²»»á·ÅÆúÖ÷È¨£¬Ò²²»»áÊ¾Èõ
+ä¸­å›½ä¸ä¼šæ”¾å¼ƒä¸»æƒï¼Œä¹Ÿä¸ä¼šç¤ºå¼±
 
-What this has shown is there is `massive uncertainty`, and we¡¯re not going to `go back to the way things were`
-ÕâÒÑ¾­±íÃ÷´æÔÚ×Å¾Ş´óµÄ²»È·¶¨ĞÔ£¬ÎÒÃÇ²»»á»Øµ½ÒÔÇ°×öÊÂµÄ·½Ê½ÁË
+What this has shown is there is `massive uncertainty`, and weâ€™re not going to `go back to the way things were`
+è¿™å·²ç»è¡¨æ˜å­˜åœ¨ç€å·¨å¤§çš„ä¸ç¡®å®šæ€§ï¼Œæˆ‘ä»¬ä¸ä¼šå›åˆ°ä»¥å‰åšäº‹çš„æ–¹å¼äº†
 
 `Uprooting` an entire supply chain is a nightmare task, It takes years, if not decades.
-½«ÕûÌõ¹©Ó¦Á´Á¬¸ù°ÎÆğÊÇÏîØ¬ÃÎ°ãµÄÈÎÎñ¡£¼´Ê¹²»ĞèÒª¼¸Ê®Äê£¬Ò²Òª»¨ÉÏºÃ¼¸ÄêÊ±¼ä
+å°†æ•´æ¡ä¾›åº”é“¾è¿æ ¹æ‹”èµ·æ˜¯é¡¹å™©æ¢¦èˆ¬çš„ä»»åŠ¡ã€‚å³ä½¿ä¸éœ€è¦å‡ åå¹´ï¼Œä¹Ÿè¦èŠ±ä¸Šå¥½å‡ å¹´æ—¶é—´
 
 President Trump warned this past week that he was concerned about the `influx` of goods from Vietnam. 
 The surge could `invite scrutiny` from the Trump administration
-ÌØÀÊÆÕ×ÜÍ³ÔøÔÚ¹ıÈ¥µÄÒ»ÖÜ¾¯¸æ£¬Ëû¶Ô´óÁ¿ÉÌÆ·´ÓÔ½ÄÏÓ¿Èë¸Ğµ½µ£ÓÇ, ÕâÖÖ¼¤Ôö¿ÉÄÜ»áÕĞÖÂÌØÀÊÆÕÕş¸®µÄÉó²é¡£
+ç‰¹æœ—æ™®æ€»ç»Ÿæ›¾åœ¨è¿‡å»çš„ä¸€å‘¨è­¦å‘Šï¼Œä»–å¯¹å¤§é‡å•†å“ä»è¶Šå—æ¶Œå…¥æ„Ÿåˆ°æ‹…å¿§, è¿™ç§æ¿€å¢å¯èƒ½ä¼šæ‹›è‡´ç‰¹æœ—æ™®æ”¿åºœçš„å®¡æŸ¥ã€‚
 
 Still, China has `few options to stop` those shifts. Trade between the two countries is so `lopsided` that China has many fewer American imports to tax
-²»¹ı£¬ÖĞ¹ú¼¸ºõÃ»ÓĞ°ì·¨×èÖ¹ÕâĞ©×ªÒÆ¡£ÖĞÃÀÁ½¹úÖ®¼äµÄÃ³Ò×Èç´Ë²»Æ½ºâ£¬ÒÔÖÁÓÚÖĞ¹úÄÜ¼ÓÕ÷¹ØË°µÄÃÀ¹ú½ø¿ÚÉÌÆ·ÒªÉÙµÃ¶à
+ä¸è¿‡ï¼Œä¸­å›½å‡ ä¹æ²¡æœ‰åŠæ³•é˜»æ­¢è¿™äº›è½¬ç§»ã€‚ä¸­ç¾ä¸¤å›½ä¹‹é—´çš„è´¸æ˜“å¦‚æ­¤ä¸å¹³è¡¡ï¼Œä»¥è‡³äºä¸­å›½èƒ½åŠ å¾å…³ç¨çš„ç¾å›½è¿›å£å•†å“è¦å°‘å¾—å¤š
 
 Even then, leaders from both major American parties have indicated that the United States could continue to 
 `take a tough line` on China `no matter who` is in the White House. The attitudes toward Huawei, in particular, 
 `show an appetite` on both sides of the `aisle` for taking a tough line
-¾¡¹ÜÈç´Ë£¬ÃÀ¹úÁ½´óÕşµ³µÄÁìµ¼ÈË¶¼±íÊ¾£¬ÎŞÂÛË­ÈëÖ÷°×¹¬£¬ÃÀ¹ú¶¼¿ÉÄÜ¼ÌĞø¶ÔÖĞ¹ú²ÉÈ¡Ç¿Ó²Á¢³¡¡£ÓÈÆäÊÇ¶Ô»ªÎªµÄÌ¬¶ÈÏÔÊ¾³öÁ½µ³¶¼ÓĞ²ÉÈ¡Ç¿Ó²Á¢³¡µÄÒâÔ¸
+å°½ç®¡å¦‚æ­¤ï¼Œç¾å›½ä¸¤å¤§æ”¿å…šçš„é¢†å¯¼äººéƒ½è¡¨ç¤ºï¼Œæ— è®ºè°å…¥ä¸»ç™½å®«ï¼Œç¾å›½éƒ½å¯èƒ½ç»§ç»­å¯¹ä¸­å›½é‡‡å–å¼ºç¡¬ç«‹åœºã€‚å°¤å…¶æ˜¯å¯¹åä¸ºçš„æ€åº¦æ˜¾ç¤ºå‡ºä¸¤å…šéƒ½æœ‰é‡‡å–å¼ºç¡¬ç«‹åœºçš„æ„æ„¿
 
-called Huawei ¡°one of few `potent levers` we have to make China `play fair` on trade.¡°If President Trump 
-backs off, as it appears he is doing, it will `dramatically undercut` our ability to change China¡¯s unfair trade practices¡±
-°Ñ»ªÎª³Æ×÷ÊÇ¡°ÎÒÃÇÓµÓĞµÄÈÃÖĞ¹úÔÚÃ³Ò×ÉÏ²ÉÓÃ¹«Æ½×ö·¨µÄÉÙÊıÓĞÁ¦¸Ü¸ËÖ®Ò»¡±¡£ Èç¹ûÌØÀÊÆÕ×ÜÍ³ÍËÈ´£¬¾ÍÏñËûÏÖÔÚÕıÔÚ×öµÄ£¬ÄÇ½«´ó´óÏ÷ÈõÎÒÃÇ¸Ä±äÖĞ¹ú²»¹«Æ½Ã³Ò××ö·¨µÄÄÜÁ¦
+called Huawei â€œone of few `potent levers` we have to make China `play fair` on trade.â€œIf President Trump 
+backs off, as it appears he is doing, it will `dramatically undercut` our ability to change Chinaâ€™s unfair trade practicesâ€
+æŠŠåä¸ºç§°ä½œæ˜¯â€œæˆ‘ä»¬æ‹¥æœ‰çš„è®©ä¸­å›½åœ¨è´¸æ˜“ä¸Šé‡‡ç”¨å…¬å¹³åšæ³•çš„å°‘æ•°æœ‰åŠ›æ æ†ä¹‹ä¸€â€ã€‚ å¦‚æœç‰¹æœ—æ™®æ€»ç»Ÿé€€å´ï¼Œå°±åƒä»–ç°åœ¨æ­£åœ¨åšçš„ï¼Œé‚£å°†å¤§å¤§å‰Šå¼±æˆ‘ä»¬æ”¹å˜ä¸­å›½ä¸å…¬å¹³è´¸æ˜“åšæ³•çš„èƒ½åŠ›
 
 Even if they try to `thread the needle` here on how they implement whatever Trump has decided, his message 
 alone seriously undercuts the efforts put in to try and persuade our allies to join us
-¼´Ê¹ËûÃÇÊÔÍ¼ÔÚÈçºÎÖ´ĞĞÌØÀÊÆÕÒÑ¾­¾ö¶¨µÄÊÂÇéÉÏ¾¡Á¦¶øÎª£¬µ¥ÊÇËûÊÍ·ÅµÄÕâ¸öĞÅÏ¢±¾Éí¾ÍÑÏÖØÏ÷ÈõÁËÎªËµ·şÃËÓÑ¼ÓÈëµ½ÎÒÃÇµÄĞĞÁĞËù×öµÄÅ¬Á¦
+å³ä½¿ä»–ä»¬è¯•å›¾åœ¨å¦‚ä½•æ‰§è¡Œç‰¹æœ—æ™®å·²ç»å†³å®šçš„äº‹æƒ…ä¸Šå°½åŠ›è€Œä¸ºï¼Œå•æ˜¯ä»–é‡Šæ”¾çš„è¿™ä¸ªä¿¡æ¯æœ¬èº«å°±ä¸¥é‡å‰Šå¼±äº†ä¸ºè¯´æœç›Ÿå‹åŠ å…¥åˆ°æˆ‘ä»¬çš„è¡Œåˆ—æ‰€åšçš„åŠªåŠ›
 
 The son of a former South Korean foreign minister who `fled to` North Korea in the 1980s also `defected to` 
-the North last week, according to the North¡¯s state-run news media.
-¾İ³¯ÏÊ¹Ù·½ĞÂÎÅÃ½Ìå±¨µÀ£¬ÉÏÊÀ¼Í80Äê´úÅÑÌÓÖÁ³¯ÏÊµÄÒ»Ãûº«¹úÇ°Íâ³¤µÄ¶ù×Ó£¬ÉÏÖÜÒ²ÅÑÌÓµ½ÁË³¯ÏÊ
+the North last week, according to the Northâ€™s state-run news media.
+æ®æœé²œå®˜æ–¹æ–°é—»åª’ä½“æŠ¥é“ï¼Œä¸Šä¸–çºª80å¹´ä»£å›é€ƒè‡³æœé²œçš„ä¸€åéŸ©å›½å‰å¤–é•¿çš„å„¿å­ï¼Œä¸Šå‘¨ä¹Ÿå›é€ƒåˆ°äº†æœé²œ
 
-Days of `turbulent` street protests against an `incinerator project` in Wuhan, south-central China¡¯s largest 
+Days of `turbulent` street protests against an `incinerator project` in Wuhan, south-central Chinaâ€™s largest 
 city, have `prompted the local government to assure` residents it has no plans to build the facility any 
 time soon.
-ÔÚÖĞ¹úÖĞÄÏ²¿×î´ó³ÇÊĞÎäººÁ¬Ğø¼¸Ìì±¬·¢·´¶ÔÀ¬»ø·ÙÉÕ³§ÏîÄ¿µÄ½ÖÍ·¿¹Òé»î¶¯Ö®ºó£¬µ±µØÕş¸®±»ÆÈÏò¾ÓÃñ±£Ö¤£¬Ã»ÓĞÂíÉÏĞŞ½¨¸ÃÉèÊ©µÄ¼Æ»®¡£
+åœ¨ä¸­å›½ä¸­å—éƒ¨æœ€å¤§åŸå¸‚æ­¦æ±‰è¿ç»­å‡ å¤©çˆ†å‘åå¯¹åƒåœ¾ç„šçƒ§å‚é¡¹ç›®çš„è¡—å¤´æŠ—è®®æ´»åŠ¨ä¹‹åï¼Œå½“åœ°æ”¿åºœè¢«è¿«å‘å±…æ°‘ä¿è¯ï¼Œæ²¡æœ‰é©¬ä¸Šä¿®å»ºè¯¥è®¾æ–½çš„è®¡åˆ’ã€‚
 
-The people¡¯s government of the district fully guarantees the `participation rights and supervision rights of 
+The peopleâ€™s government of the district fully guarantees the `participation rights and supervision rights of 
 the masses`,Public security organizations will `resolutely crack down on` illegal criminal acts such as `malicious incitement and provocation`.
-ÇøÈËÃñÕş¸®³ä·Ö±£ÕÏ¹ã´óÈºÖÚµÄ²ÎÓëÈ¨ºÍ¼à¶½È¨£¬¶Ô¶ñÒâÉ¿¶¯¡¢ÌôËô´®ÁªµÈÎ¥·¨·¸×ïĞĞÎª£¬¹«°²»ú¹Ø½«¼á¾öÒÀ·¨´ò»÷
+åŒºäººæ°‘æ”¿åºœå……åˆ†ä¿éšœå¹¿å¤§ç¾¤ä¼—çš„å‚ä¸æƒå’Œç›‘ç£æƒï¼Œå¯¹æ¶æ„ç…½åŠ¨ã€æŒ‘å”†ä¸²è”ç­‰è¿æ³•çŠ¯ç½ªè¡Œä¸ºï¼Œå…¬å®‰æœºå…³å°†åšå†³ä¾æ³•æ‰“å‡»
 
 Local officials acknowledge `being caught off guard by the public backlash`
-µ±µØ¹ÙÔ±³ĞÈÏ£¬¹«ÖÚµÄ·´Ó¦ÈÃËûÃÇ´ëÊÖ²»¼°
+å½“åœ°å®˜å‘˜æ‰¿è®¤ï¼Œå…¬ä¼—çš„ååº”è®©ä»–ä»¬æªæ‰‹ä¸åŠ
 
 On Friday evening, a street market several blocks away had been allowed to reopen. But `steel shutters` were 
 down at `storefronts` at the hub of protests, a `gritty neighborhood of older concrete walk-up buildings`
-ÖÜÎåÍíÉÏ£¬Î»ÓÚ¼¸¸ö½ÖÇøÒÔÍâµÄÒ»¸ö½ÖÊĞ±»ÔÊĞíÖØĞÂ¿ªÒµ¡£µ«¿¹Òé»î¶¯ÖĞĞÄµØ´øµÄµêÃæÈÔÀ­×Å¸ÖÌú¾íÁ±ÃÅ£¬ÕâÊÇÒ»¸öÓĞ²»ÉÙ
-»ìÄıÍÁÎŞµçÌİ½¨ÖşµÄÀÏ¾ÉÉçÇø
+å‘¨äº”æ™šä¸Šï¼Œä½äºå‡ ä¸ªè¡—åŒºä»¥å¤–çš„ä¸€ä¸ªè¡—å¸‚è¢«å…è®¸é‡æ–°å¼€ä¸šã€‚ä½†æŠ—è®®æ´»åŠ¨ä¸­å¿ƒåœ°å¸¦çš„åº—é¢ä»æ‹‰ç€é’¢é“å·å¸˜é—¨ï¼Œè¿™æ˜¯ä¸€ä¸ªæœ‰ä¸å°‘
+æ··å‡åœŸæ— ç”µæ¢¯å»ºç­‘çš„è€æ—§ç¤¾åŒº
 
 Many plainclothes officers were evident
-ÕâÀïÏÔÈ»ÓĞĞí¶à±ãÒÂ¾¯²ì
+è¿™é‡Œæ˜¾ç„¶æœ‰è®¸å¤šä¾¿è¡£è­¦å¯Ÿ
 
 The local government tried to reassure them by announcing that it was putting `thicker plastic film` over 
 the waste and installing an `air purification system`.
-µ±µØÕş¸®ÊÔÍ¼°²¸§¾ÓÃñ£¬Õş¸®Ğû²¼£¬½«ÔÚÀ¬»øÌîÂñ³¡ÉÏ¸²¸ÇÒ»²ã¸üºñµÄËÜÁÏ±¡Ä¤£¬²¢½«°²×°Ò»¸ö¿ÕÆø¾»»¯ÏµÍ³¡£
+å½“åœ°æ”¿åºœè¯•å›¾å®‰æŠšå±…æ°‘ï¼Œæ”¿åºœå®£å¸ƒï¼Œå°†åœ¨åƒåœ¾å¡«åŸ‹åœºä¸Šè¦†ç›–ä¸€å±‚æ›´åšçš„å¡‘æ–™è–„è†œï¼Œå¹¶å°†å®‰è£…ä¸€ä¸ªç©ºæ°”å‡€åŒ–ç³»ç»Ÿã€‚
 
 Street protests were `set off` by noisy construction work near the landfill that apparently led some 
 residents to believe that work on the incinerator had begun
-½ÖÍ·¿¹ÒéÊÇ±»À¬»øÌîÂñ³¡¸½½ü½¨ÖşÊ©¹¤µÄÔëÒôÒı·¢µÄ£¬ÕâÏÔÈ»ÈÃÒ»Ğ©¾ÓÃñÈÏÎª£¬·ÙÉÕ³§ÒÑ¿ª¹¤½¨Éè
+è¡—å¤´æŠ—è®®æ˜¯è¢«åƒåœ¾å¡«åŸ‹åœºé™„è¿‘å»ºç­‘æ–½å·¥çš„å™ªéŸ³å¼•å‘çš„ï¼Œè¿™æ˜¾ç„¶è®©ä¸€äº›å±…æ°‘è®¤ä¸ºï¼Œç„šçƒ§å‚å·²å¼€å·¥å»ºè®¾
 
 That did not `mollify` protesters
-Õâ²¢Î´ÄÜ°²¸§¿¹ÒéÕß
+è¿™å¹¶æœªèƒ½å®‰æŠšæŠ—è®®è€…
 
 The United States has `tentatively` approved the sale of $2 billion in `military hardware` to Taiwan, 
 `demonstrating support` for its unofficial ally in a move likely to `exacerbate deteriorating ties` between Washington and Beijing.
-ÃÀ¹ú³õ²½Åú×¼ÏòÌ¨Íå³öÊÛ¼ÛÖµ20ÒÚÃÀÔªµÄ¾üÊÂ×°±¸£¬ÏÔÊ¾ÁË¶Ô×Ô¼º·Ç¹Ù·½ÃËÓÑµÄÖ§³Ö£¬´Ë¾Ù¿ÉÄÜ»á¼Ó¾ç»ªÊ¢¶ÙÓë±±¾©Ö®¼ä²»¶Ï¶ñ»¯µÄ¹ØÏµ¡£
+ç¾å›½åˆæ­¥æ‰¹å‡†å‘å°æ¹¾å‡ºå”®ä»·å€¼20äº¿ç¾å…ƒçš„å†›äº‹è£…å¤‡ï¼Œæ˜¾ç¤ºäº†å¯¹è‡ªå·±éå®˜æ–¹ç›Ÿå‹çš„æ”¯æŒï¼Œæ­¤ä¸¾å¯èƒ½ä¼šåŠ å‰§åç››é¡¿ä¸åŒ—äº¬ä¹‹é—´ä¸æ–­æ¶åŒ–çš„å…³ç³»ã€‚
 
 The first `notification` included 108 M1A2T Abrams tanks, as well as `Hercules armored vehicles` and heavy 
 equipment transporters. The second included more than $220 million in `Stinger antiaircraft missiles`.
-µÚÒ»·İÍ¨±¨°üÀ¨108Á¾M1A2T°¬²¼À­Ä·Ë¹Ì¹¿Ë£¬ÒÔ¼°´óÁ¦Éñ×°¼×³µºÍÖØĞÍ×°±¸ÔËÊä³µ¡£µÚ¶ş·İ°üÀ¨¼ÛÖµÓâ2.2ÒÚÃÀÔªµÄ¡°¶¾´Ì¡±·À¿Õµ¼µ¯¡£
+ç¬¬ä¸€ä»½é€šæŠ¥åŒ…æ‹¬108è¾†M1A2Tè‰¾å¸ƒæ‹‰å§†æ–¯å¦å…‹ï¼Œä»¥åŠå¤§åŠ›ç¥è£…ç”²è½¦å’Œé‡å‹è£…å¤‡è¿è¾“è½¦ã€‚ç¬¬äºŒä»½åŒ…æ‹¬ä»·å€¼é€¾2.2äº¿ç¾å…ƒçš„â€œæ¯’åˆºâ€é˜²ç©ºå¯¼å¼¹ã€‚
 
 These tanks and missiles will provide the Taiwan army with a modern capability to `deter and complicate` the 
-operational planning of the People¡¯s Liberation Army forces that `coerce and threaten` Taiwan, They will also 
+operational planning of the Peopleâ€™s Liberation Army forces that `coerce and threaten` Taiwan, They will also 
 offer new opportunities to engage in cooperation with the United States in both the deployment and operations phases.
-ÕâĞ©Ì¹¿ËºÍµ¼µ¯½«ÎªÌ¨Íå¾ü¶ÓÌá¹©ÏÖ´ú»¯µÄÄÜÁ¦£¬´Ó¶ø¶ôÖÆºÍ´òÂÒ½â·Å¾üÇ¿ÆÈºÍÍşĞ²Ì¨ÍåµÄ×÷Õ½¼Æ»®£¬ËüÃÇ»¹½«Ìá¹©ÔÚ²¿ÊğºÍĞĞ¶¯½×¶ÎÓëÃÀ¹úºÏ×÷µÄĞÂ»ú»á
+è¿™äº›å¦å…‹å’Œå¯¼å¼¹å°†ä¸ºå°æ¹¾å†›é˜Ÿæä¾›ç°ä»£åŒ–çš„èƒ½åŠ›ï¼Œä»è€Œéåˆ¶å’Œæ‰“ä¹±è§£æ”¾å†›å¼ºè¿«å’Œå¨èƒå°æ¹¾çš„ä½œæˆ˜è®¡åˆ’ï¼Œå®ƒä»¬è¿˜å°†æä¾›åœ¨éƒ¨ç½²å’Œè¡ŒåŠ¨é˜¶æ®µä¸ç¾å›½åˆä½œçš„æ–°æœºä¼š
 
 The American government continues to take concrete actions to `fulfill its commitments` under the Taiwan 
 Relations Act and the Six Assurances, assisting Taiwan in strengthening its defensive capabilities,
 We express our `deepest gratitude`.
-ÃÀ¹úÕş¸®³ÖĞøÒÔ¾ßÌåĞĞ¶¯ÂÄĞĞ¶ÔÌ¨Íå¹ØÏµ·¨ÓëÁùÏî±£Ö¤µÄ³ĞÅµ£¬Ğ­ÖúÌ¨ÍåÇ¿»¯×ÔÎÒ·ÀÎÀÁ¦Á¿£¬±í´ïÓÉÖÔ¸ĞĞ»¡£
+ç¾å›½æ”¿åºœæŒç»­ä»¥å…·ä½“è¡ŒåŠ¨å±¥è¡Œå¯¹å°æ¹¾å…³ç³»æ³•ä¸å…­é¡¹ä¿è¯çš„æ‰¿è¯ºï¼ŒååŠ©å°æ¹¾å¼ºåŒ–è‡ªæˆ‘é˜²å«åŠ›é‡ï¼Œè¡¨è¾¾ç”±è¡·æ„Ÿè°¢ã€‚
 
 Officials in Kyrgyzstan knew they could `no longer put off the decision`. An `aging` plant that provided 
-`nearly all` the heat and electricity for the country¡¯s capital was `on its last legs`.
-¼ª¶û¼ªË¹Ë¹Ì¹µÄ¹ÙÔ±ÖªµÀ£¬Õâ¼şÊÂ±ØĞë×ö¸ö¾ö¶¨ÁË¡£¸ºÔğ¸Ã¹úÊ×¶¼¼¸ºõÈ«²¿¹©Å¯ºÍ¹©µçµÄÒ»×ùÀÏ³§£¬ÒÑ¾­¼á³Ö²»ÁË¶à¾Ã¡£
+`nearly all` the heat and electricity for the countryâ€™s capital was `on its last legs`.
+å‰å°”å‰æ–¯æ–¯å¦çš„å®˜å‘˜çŸ¥é“ï¼Œè¿™ä»¶äº‹å¿…é¡»åšä¸ªå†³å®šäº†ã€‚è´Ÿè´£è¯¥å›½é¦–éƒ½å‡ ä¹å…¨éƒ¨ä¾›æš–å’Œä¾›ç”µçš„ä¸€åº§è€å‚ï¼Œå·²ç»åšæŒä¸äº†å¤šä¹…ã€‚
 
 Despite the growing ties, however, a `deep-seated` rivalry remains between the two former `adversaries`, one that this case exposes.
-È»¶ø£¬Í¨¹ı±¾ÎÄÌáµ½µÄ°¸Àı¿ÉÒÔ¿´µ½£¬¼´±ã¹ØÏµÍùÀ´²»¶Ï¼ÓÇ¿£¬ÕâÁ½¸öÔø¾­µĞ¶Ô¹ú¼ÒÖ®¼äÈÔÈ»´æÔÚÉî²ã´ÎµÄ¾ºÕù¡£
+ç„¶è€Œï¼Œé€šè¿‡æœ¬æ–‡æåˆ°çš„æ¡ˆä¾‹å¯ä»¥çœ‹åˆ°ï¼Œå³ä¾¿å…³ç³»å¾€æ¥ä¸æ–­åŠ å¼ºï¼Œè¿™ä¸¤ä¸ªæ›¾ç»æ•Œå¯¹å›½å®¶ä¹‹é—´ä»ç„¶å­˜åœ¨æ·±å±‚æ¬¡çš„ç«äº‰ã€‚
 
-The statement `offered a rare insider¡¯s acknowledgment` that China, with the world¡¯s largest `foreign 
+The statement `offered a rare insiderâ€™s acknowledgment` that China, with the worldâ€™s largest `foreign 
 exchange reserves`, can `tilt the business playing field` abroad to serve its interests 
 `no matter what` local residents think or rivals offer.
-Õâ·İÉùÃ÷º±¼ûµØ´ÓÒ»¸öÄÚ²¿ÈËÊ¿µÄ½Ç¶ÈÈ·ÈÏ£¬ÓµÓĞÊÀ½çÉÏ×î´óÍâ»ã´¢±¸µÄÖĞ¹ú¿ÉÒÔ³öÓÚ×Ô¼ºµÄÀûÒæ×óÓÒº£ÍâÉÌÒµ¾ºÕù£¬ÎŞÊÓµ±µØ¾ÓÃñµÄÏë·¨»ò¾ºÕù¶ÔÊÖµÄ±¨¼Û
+è¿™ä»½å£°æ˜ç½•è§åœ°ä»ä¸€ä¸ªå†…éƒ¨äººå£«çš„è§’åº¦ç¡®è®¤ï¼Œæ‹¥æœ‰ä¸–ç•Œä¸Šæœ€å¤§å¤–æ±‡å‚¨å¤‡çš„ä¸­å›½å¯ä»¥å‡ºäºè‡ªå·±çš„åˆ©ç›Šå·¦å³æµ·å¤–å•†ä¸šç«äº‰ï¼Œæ— è§†å½“åœ°å±…æ°‘çš„æƒ³æ³•æˆ–ç«äº‰å¯¹æ‰‹çš„æŠ¥ä»·
 
 The whole project `smelled bad` from the start, but if `there had not been` an accident, nobody would have noticed
-Õû¸öÏîÄ¿´ÓÒ»¿ªÊ¼¾ÍÓĞÃ¨Äå£¬µ«Èç¹û²»ÊÇ³öÁËÊÂ¹Ê£¬Ã»ÓĞÈË»á×¢Òâµ½
+æ•´ä¸ªé¡¹ç›®ä»ä¸€å¼€å§‹å°±æœ‰çŒ«è…»ï¼Œä½†å¦‚æœä¸æ˜¯å‡ºäº†äº‹æ•…ï¼Œæ²¡æœ‰äººä¼šæ³¨æ„åˆ°
 
-The bank¡¯s loans to Kyrgyzstan, just $9 million in 2008, have `ballooned` to more than $1.7 billion
-¸ÃÒøĞĞÔÚ2008ÄêÏò¼ª¶û¼ªË¹Ë¹Ì¹Ìá¹©µÄ´û¿îÖ»ÓĞ900ÍòÃÀÔª£¬ÏÖÔÚÒÑ¾­Ôö³¤µ½17ÒÚÃÀÔªÒÔÉÏ
+The bankâ€™s loans to Kyrgyzstan, just $9 million in 2008, have `ballooned` to more than $1.7 billion
+è¯¥é“¶è¡Œåœ¨2008å¹´å‘å‰å°”å‰æ–¯æ–¯å¦æä¾›çš„è´·æ¬¾åªæœ‰900ä¸‡ç¾å…ƒï¼Œç°åœ¨å·²ç»å¢é•¿åˆ°17äº¿ç¾å…ƒä»¥ä¸Š
 
 this is the final position of the Chinese side
-ÕâÊÇÖĞ·½µÄ×îÖÕÁ¢³¡
+è¿™æ˜¯ä¸­æ–¹çš„æœ€ç»ˆç«‹åœº
 
 Construction started `shortly afterward`.
-Ö®ºóÃ»¶à¾Ã£¬Ê©¹¤¿ªÊ¼ÁË¡£
+ä¹‹åæ²¡å¤šä¹…ï¼Œæ–½å·¥å¼€å§‹äº†ã€‚
 
-¡°It was `obscene`,¡± he said. ¡°We were all in shock.¡±
-¡°ÕâÌ«±°±ÉÁË£¬¡±ËûËµ£¬¡°ÎÒÃÇ¶¼ºÜÕğ¾ª¡£¡±
+â€œIt was `obscene`,â€ he said. â€œWe were all in shock.â€
+â€œè¿™å¤ªå‘é„™äº†ï¼Œâ€ä»–è¯´ï¼Œâ€œæˆ‘ä»¬éƒ½å¾ˆéœ‡æƒŠã€‚â€
 
 The meeting comes at a `fraught momen` in the history of `arms control` between Washington and Moscow
-´Ë´Î»áÎîÊ±Öµ»ªÊ¢¶ÙÓëÄªË¹¿Æ¾ü¿ØÀúÊ·ÉÏµÄÒ»¸ö½ôÕÅÊ±¿Ì
+æ­¤æ¬¡ä¼šæ™¤æ—¶å€¼åç››é¡¿ä¸è«æ–¯ç§‘å†›æ§å†å²ä¸Šçš„ä¸€ä¸ªç´§å¼ æ—¶åˆ»
 
-Instead, Mr. Trump¡¯s administration argues that two-way Russian-American arms agreements `dating to` the 
+Instead, Mr. Trumpâ€™s administration argues that two-way Russian-American arms agreements `dating to` the 
 Cold War are `antiquated` in a world where China is a rising power, although it remains unclear how committed 
-he really is to any new accord given his administration¡¯s skepticism of arms control.
-Ïà·´£¬ÌØÀÊÆÕÕş¸®ÈÏÎª£¬ÔÚÒ»¸öÖĞ¹úÕıÔÚáÈÆğµÄÊÀ½çÀï£¬¿É×·ËİÖÁÀäÕ½Ê±ÆÚµÄ¶íÃÀË«ÏòÎäÆ÷Ğ­ÒéÒÑ¾­¹ıÊ±£¬µ«¼øÓÚËûµÄÕş¸®¶Ô¾ü¿ØµÄ»³ÒÉ£¬ÉĞ²»Çå³şËû¶ÔĞÂĞ­Òéµ½µ×ÓĞ¶àÍ¶Èë¡£
+he really is to any new accord given his administrationâ€™s skepticism of arms control.
+ç›¸åï¼Œç‰¹æœ—æ™®æ”¿åºœè®¤ä¸ºï¼Œåœ¨ä¸€ä¸ªä¸­å›½æ­£åœ¨å´›èµ·çš„ä¸–ç•Œé‡Œï¼Œå¯è¿½æº¯è‡³å†·æˆ˜æ—¶æœŸçš„ä¿„ç¾åŒå‘æ­¦å™¨åè®®å·²ç»è¿‡æ—¶ï¼Œä½†é‰´äºä»–çš„æ”¿åºœå¯¹å†›æ§çš„æ€€ç–‘ï¼Œå°šä¸æ¸…æ¥šä»–å¯¹æ–°åè®®åˆ°åº•æœ‰å¤šæŠ•å…¥ã€‚
 
 Those totals include both `strategic warheads` limited by the New Start treaty as well as shorter-range 
 weapons that are not covered and other warheads that are no longer in military service and awaiting `dismantlement`.
-ÕâĞ©Êı×Ö°üÀ¨ÊÜ¡¶ĞÂÌõÔ¼¡·ÏŞÖÆµÄÕ½ÂÔµ¯Í·£¬ÒÔ¼°Î´°üÀ¨ÔÚÄÚµÄ¶Ì³ÌÎäÆ÷ºÍÆäËûÒÑ¾­ÍËÒÛ²¢µÈ´ı²ğ³ıµÄµ¯Í·
+è¿™äº›æ•°å­—åŒ…æ‹¬å—ã€Šæ–°æ¡çº¦ã€‹é™åˆ¶çš„æˆ˜ç•¥å¼¹å¤´ï¼Œä»¥åŠæœªåŒ…æ‹¬åœ¨å†…çš„çŸ­ç¨‹æ­¦å™¨å’Œå…¶ä»–å·²ç»é€€å½¹å¹¶ç­‰å¾…æ‹†é™¤çš„å¼¹å¤´
 
-As to the `trilateral negotiations` on arms control, China¡¯s position is `clear-cut`,The `premise and basis` 
+As to the `trilateral negotiations` on arms control, Chinaâ€™s position is `clear-cut`,The `premise and basis` 
 for trilateral arms control negotiations do not exist at all, and China will never participate in them.
-¹ØÓÚËùÎ½µÄÖĞÃÀ¶íÈı±ß¾ü¿ØÌ¸ÅĞÎÊÌâ£¬ÖĞ·½µÄÌ¬¶ÈÊ®·ÖÃ÷È·£¬¸ãÕâÑùËùÎ½µÄÈı±ß¾ü¿ØÌ¸ÅĞµÄÇ°ÌáºÍ»ù´¡¸ù±¾²»´æÔÚ£¬ÖĞ·½Ò²¾ø²»»á²Î¼Ó¡£
+å…³äºæ‰€è°“çš„ä¸­ç¾ä¿„ä¸‰è¾¹å†›æ§è°ˆåˆ¤é—®é¢˜ï¼Œä¸­æ–¹çš„æ€åº¦ååˆ†æ˜ç¡®ï¼Œæè¿™æ ·æ‰€è°“çš„ä¸‰è¾¹å†›æ§è°ˆåˆ¤çš„å‰æå’ŒåŸºç¡€æ ¹æœ¬ä¸å­˜åœ¨ï¼Œä¸­æ–¹ä¹Ÿç»ä¸ä¼šå‚åŠ ã€‚
 
-it ¡°would be `malpractice`¡± to renew the treaty unless it were rewritten to cover weapons not currently limited
-³ı·Çº­¸ÇÄ¿Ç°²»ÊÜÏŞÖÆµÄÎäÆ÷£¬·ñÔòĞøÇ©¸ÃÌõÔ¼¡°½«´æÔÚ±×¶Ë¡±
+it â€œwould be `malpractice`â€ to renew the treaty unless it were rewritten to cover weapons not currently limited
+é™¤éæ¶µç›–ç›®å‰ä¸å—é™åˆ¶çš„æ­¦å™¨ï¼Œå¦åˆ™ç»­ç­¾è¯¥æ¡çº¦â€œå°†å­˜åœ¨å¼Šç«¯â€
 
 Trade talks with China have `faltered` in recent months, and Mr. Trump and his aides appear to be `in no hurry` 
 to resolve the dispute, `projecting confidence` that China is suffering more of the harm, if not all of it.
-½ü¼¸¸öÔÂÀ´£¬ÓëÖĞ¹úµÄÃ³Ò×Ì¸ÅĞÒ»Ö±²½ÂÄõçõÇ£¬ÌØÀÊÆÕºÍÖúÊÖÃÇËÆºõ²¢²»¼±ÓÚ½â¾öÕù¶Ë£¬Õâ±íÊ¾ËûÃÇÏàĞÅ£¬ÔÚÃ³Ò×Õ½ÖĞ£¬ÖĞ¹úÔâÊÜµÄËğº¦¸ü´ó£¬Èç¹û²»ÊÇÈ«²¿Ëğº¦µÄ»°¡£
+è¿‘å‡ ä¸ªæœˆæ¥ï¼Œä¸ä¸­å›½çš„è´¸æ˜“è°ˆåˆ¤ä¸€ç›´æ­¥å±¥è¹’è·šï¼Œç‰¹æœ—æ™®å’ŒåŠ©æ‰‹ä»¬ä¼¼ä¹å¹¶ä¸æ€¥äºè§£å†³äº‰ç«¯ï¼Œè¿™è¡¨ç¤ºä»–ä»¬ç›¸ä¿¡ï¼Œåœ¨è´¸æ˜“æˆ˜ä¸­ï¼Œä¸­å›½é­å—çš„æŸå®³æ›´å¤§ï¼Œå¦‚æœä¸æ˜¯å…¨éƒ¨æŸå®³çš„è¯ã€‚
 
-Mr. Trump¡¯s tariffs are `undeniably` hurting China
-²»¿É·ñÈÏ£¬ÌØÀÊÆÕµÄ¹ØË°¶ÔÖĞ¹úÔì³ÉÁËÉËº¦
+Mr. Trumpâ€™s tariffs are `undeniably` hurting China
+ä¸å¯å¦è®¤ï¼Œç‰¹æœ—æ™®çš„å…³ç¨å¯¹ä¸­å›½é€ æˆäº†ä¼¤å®³
 
 Certainly it is absolute `folly` to suggest that this is `cost free` for the U.S..
-ÒªËµÕâ²»»áÈÃÃÀ¹ú¸¶³ö´ú¼Û£¬ÄÇµ±È»ÊÇ¾ø¶ÔÓŞ´ÀµÄ
+è¦è¯´è¿™ä¸ä¼šè®©ç¾å›½ä»˜å‡ºä»£ä»·ï¼Œé‚£å½“ç„¶æ˜¯ç»å¯¹æ„šè ¢çš„
 
 An order in January encouraged companies to use American `iron, steel, aluminum, cement` and other products 
 to the extent practical, but did not `set any binding target`.
-½ñÄê1ÔÂµÄÒ»ÏîÃüÁî¹ÄÀøÆóÒµ¾¡Á¿Ê¹ÓÃÃÀ¹úµÄ¸ÖÂÁºÍË®ÄàµÈ²úÆ·£¬µ«Ã»ÓĞÉè¶¨ÈÎºÎÓĞÔ¼ÊøÁ¦µÄÄ¿±ê
+ä»Šå¹´1æœˆçš„ä¸€é¡¹å‘½ä»¤é¼“åŠ±ä¼ä¸šå°½é‡ä½¿ç”¨ç¾å›½çš„é’¢é“å’Œæ°´æ³¥ç­‰äº§å“ï¼Œä½†æ²¡æœ‰è®¾å®šä»»ä½•æœ‰çº¦æŸåŠ›çš„ç›®æ ‡
 
-Its economy is `entwined with` China¡¯s, and Beijing has embraced the country¡¯s Communist Party leaders in Hanoi as `ideological brethren`.
-ËüÔÚ¾­¼ÃÉÏÓëÖĞ¹úÃÜ²»¿É·Ö£¬¶øÇÒ±±¾©°ÑºÓÄÚµÄÔ½¹²Áìµ¼ÈËÊÓÎªÒâÊ¶ĞÎÌ¬ÉÏµÄĞÖµÜ
+Its economy is `entwined with` Chinaâ€™s, and Beijing has embraced the countryâ€™s Communist Party leaders in Hanoi as `ideological brethren`.
+å®ƒåœ¨ç»æµä¸Šä¸ä¸­å›½å¯†ä¸å¯åˆ†ï¼Œè€Œä¸”åŒ—äº¬æŠŠæ²³å†…çš„è¶Šå…±é¢†å¯¼äººè§†ä¸ºæ„è¯†å½¢æ€ä¸Šçš„å…„å¼Ÿ
 
 That means Viettel and Huawei could still `team up` someday
-ÕâÒâÎ¶×ÅÓĞÒ»Ìì£¬Ô½ÄÏµçĞÅÓë»ªÎªÈÔÈ»ÓĞ»ú»áºÏ×÷
+è¿™æ„å‘³ç€æœ‰ä¸€å¤©ï¼Œè¶Šå—ç”µä¿¡ä¸åä¸ºä»ç„¶æœ‰æœºä¼šåˆä½œ
 
 But observers expect that Vietnamese carriers will `err on the side of caution` when they sign commercial 5G agreements. 
-µ«¹Û²ìÈËÊ¿Ô¤¼Æ£¬Ô½ÄÏµÄÔËÓªÉÌÔÚÇ©ÊğÉÌÓÃ5GĞ­ÒéÊ±»á·Ç³£½÷É÷
+ä½†è§‚å¯Ÿäººå£«é¢„è®¡ï¼Œè¶Šå—çš„è¿è¥å•†åœ¨ç­¾ç½²å•†ç”¨5Gåè®®æ—¶ä¼šéå¸¸è°¨æ…
 
-After China placed an `oil rig` off Vietnam¡¯s coast in 2014, `marauding` crowds of Vietnamese workers `stormed factories` and attacked Chinese laborers.
+After China placed an `oil rig` off Vietnamâ€™s coast in 2014, `marauding` crowds of Vietnamese workers `stormed factories` and attacked Chinese laborers.
 In response, Hanoi has cautiously `cultivated closer ties` with Washington.
-ÖĞ¹úÔÚÔ½ÄÏº£°¶¸½½ü½¨ÔìÁËÒ»×ùÊ¯ÓÍ×ê¾®Æ½Ì¨ºó£¬´óÅúËÄ´¦½ÙÂÓµÄÔ½ÄÏ¹¤ÈË´³Èë¹¤³§£¬Ï®»÷ÖĞ¹ú¹¤ÈË. ×÷Îª»ØÓ¦£¬ºÓÄÚ·½Ãæ½÷É÷µØÀ­½üÁËÍ¬»ªÊ¢¶ÙµÄ¹ØÏµ
+ä¸­å›½åœ¨è¶Šå—æµ·å²¸é™„è¿‘å»ºé€ äº†ä¸€åº§çŸ³æ²¹é’»äº•å¹³å°åï¼Œå¤§æ‰¹å››å¤„åŠ«æ çš„è¶Šå—å·¥äººé—¯å…¥å·¥å‚ï¼Œè¢­å‡»ä¸­å›½å·¥äºº. ä½œä¸ºå›åº”ï¼Œæ²³å†…æ–¹é¢è°¨æ…åœ°æ‹‰è¿‘äº†åŒåç››é¡¿çš„å…³ç³»
 
-The numbers are `striking`. Hong Kong¡¯s gap between the rich and the poor is `at its widest` in nearly half a century, and among `the starkest` in the world. It `boasts` the world¡¯s longest working hours and the highest rents. Wages have not `kept up with rent`, which has increased by nearly a quarter over the past six years. Housing prices have `more than tripled` over the past decade.
-ÕâĞ©Êı×ÖÁîÈËÕğ¾ª¡£Ïã¸ÛµÄÆ¶¸»²î¾à´ïµ½½ü°ë¸öÊÀ¼ÍÒÔÀ´µÄ×î¸ßË®Æ½£¬ÊÇÊÀ½çÉÏ×îÃ÷ÏÔµÄÆ¶¸»²î¾àÖ®Ò»¡£ËüÓĞ×ÅÊÀ½çÉÏ×î³¤µÄ¹¤×÷Ê±¼äºÍ×î¸ßµÄ·¿×â¡£·¿×âÔÚ¹ıÈ¥ÁùÄêÉÏÕÇÁË½üËÄ·ÖÖ®Ò»£¬¶ø¹¤×Ê¸ú²»ÉÏ·¿×âÉÏÕÇµÄËÙ¶È¡£¹ıÈ¥10Äê£¬·¿¼ÛÉÏÕÇÁËÁ½±¶¶à
+The numbers are `striking`. Hong Kongâ€™s gap between the rich and the poor is `at its widest` in nearly half a century, and among `the starkest` in the world. It `boasts` the worldâ€™s longest working hours and the highest rents. Wages have not `kept up with rent`, which has increased by nearly a quarter over the past six years. Housing prices have `more than tripled` over the past decade.
+è¿™äº›æ•°å­—ä»¤äººéœ‡æƒŠã€‚é¦™æ¸¯çš„è´«å¯Œå·®è·è¾¾åˆ°è¿‘åŠä¸ªä¸–çºªä»¥æ¥çš„æœ€é«˜æ°´å¹³ï¼Œæ˜¯ä¸–ç•Œä¸Šæœ€æ˜æ˜¾çš„è´«å¯Œå·®è·ä¹‹ä¸€ã€‚å®ƒæœ‰ç€ä¸–ç•Œä¸Šæœ€é•¿çš„å·¥ä½œæ—¶é—´å’Œæœ€é«˜çš„æˆ¿ç§Ÿã€‚æˆ¿ç§Ÿåœ¨è¿‡å»å…­å¹´ä¸Šæ¶¨äº†è¿‘å››åˆ†ä¹‹ä¸€ï¼Œè€Œå·¥èµ„è·Ÿä¸ä¸Šæˆ¿ç§Ÿä¸Šæ¶¨çš„é€Ÿåº¦ã€‚è¿‡å»10å¹´ï¼Œæˆ¿ä»·ä¸Šæ¶¨äº†ä¸¤å€å¤š
 
 Similar protests, such as the Yellow Vest movement in France, `echo worries` that a `booming global economy` has `left behind` too many people.
-·¨¹úµÄ¡°»ÆÂí¼×¡±µÈÀàËÆµÄ¿¹Òé»î¶¯Ò²±íÃ÷ÁËÍ¬ÑùµÄ½¹ÂÇ£ºÅî²ª·¢Õ¹µÄÈ«Çò¾­¼ÃÈÃÌ«¶àÈËµô¶Ó¡£
+æ³•å›½çš„â€œé»„é©¬ç”²â€ç­‰ç±»ä¼¼çš„æŠ—è®®æ´»åŠ¨ä¹Ÿè¡¨æ˜äº†åŒæ ·çš„ç„¦è™‘ï¼šè“¬å‹ƒå‘å±•çš„å…¨çƒç»æµè®©å¤ªå¤šäººæ‰é˜Ÿã€‚
 
 Hong Kong leaders have `shelved` but not killed
-Ïã¸ÛÁìµ¼ÈË¸éÖÃµ«Î´³¹µ×È¡ÏûµÄ·¨°¸
+é¦™æ¸¯é¢†å¯¼äººæç½®ä½†æœªå½»åº•å–æ¶ˆçš„æ³•æ¡ˆ
 
 `Perched on` a series of islands and a `swath of `mountainous land `descending from` mainland China, Hong Kong already has `relatively little space` for housing.
-Ïã¸Û×øÂäÔÚÒ»ÏµÁĞµºÓìÒÔ¼°´ÓÖĞ¹ú´óÂ½ÏòÏÂÑÓÉìµÄ´óÆ¬É½µØÉÏ£¬ÒÑ¾­Ã»ÓĞ¶àÉÙÍÁµØ¿ÉÓÃÓÚ×¡·¿½¨Éè
+é¦™æ¸¯åè½åœ¨ä¸€ç³»åˆ—å²›å±¿ä»¥åŠä»ä¸­å›½å¤§é™†å‘ä¸‹å»¶ä¼¸çš„å¤§ç‰‡å±±åœ°ä¸Šï¼Œå·²ç»æ²¡æœ‰å¤šå°‘åœŸåœ°å¯ç”¨äºä½æˆ¿å»ºè®¾
 
 The whole system is totally controlled by the `vested interests of the elite`
-Õû¸öÌåÖÆÍêÈ«±»¾«Ó¢½×²ãµÄ¼ÈµÃÀûÒæËù¿ØÖÆ
+æ•´ä¸ªä½“åˆ¶å®Œå…¨è¢«ç²¾è‹±é˜¶å±‚çš„æ—¢å¾—åˆ©ç›Šæ‰€æ§åˆ¶
 
 The government has also `favored wealthy mainlanders`, believing that Chinese buyers could `push up property values` and make Hong Kong households feel richer
-Õş¸®»¹Æ«Ì»¸»ÓĞµÄ´óÂ½ÈË£¬ÈÏÎªÖĞ¹úÂò¼Ò¿ÉÒÔÍÆ¸ßÎïÒµ¼ÛÖµ£¬ÈÃÏã¸Û¼ÒÍ¥¸Ğ¾õ¸ü¸»ÓĞ
+æ”¿åºœè¿˜åè¢’å¯Œæœ‰çš„å¤§é™†äººï¼Œè®¤ä¸ºä¸­å›½ä¹°å®¶å¯ä»¥æ¨é«˜ç‰©ä¸šä»·å€¼ï¼Œè®©é¦™æ¸¯å®¶åº­æ„Ÿè§‰æ›´å¯Œæœ‰
 
 Many young people see there is `little way out economically and politically`, and it is the background of their desperation and anger at the `status quo`
-ºÜ¶àÄêÇáÈËÈÏÎªÔÚ¾­¼ÃºÍÕşÖÎÉÏ¼¸ºõÃ»ÓĞ³öÂ·£¬¶øÕâÊÇËûÃÇ¶ÔÏÖ×´²úÉú¾øÍûÓë·ßÅ­µÄ±³¾°
+å¾ˆå¤šå¹´è½»äººè®¤ä¸ºåœ¨ç»æµå’Œæ”¿æ²»ä¸Šå‡ ä¹æ²¡æœ‰å‡ºè·¯ï¼Œè€Œè¿™æ˜¯ä»–ä»¬å¯¹ç°çŠ¶äº§ç”Ÿç»æœ›ä¸æ„¤æ€’çš„èƒŒæ™¯
 
 One protester, Roger Cheng, a 52 year old consumer products salesman, was `marching peacefully` on July 1 when another nearby group began to `ram metal rods` through the glass doors of the Legislative Council. Like others around him, he was unwilling to oppose the violence.
-¿¹ÒéÕßÏÖÄê52Ëê£¬´ÓÊÂÏû·Ñ²úÆ·ÏúÊÛ¹¤×÷£¬7ÔÂ1ÈÕ²Î¼ÓºÍÆ½ÓÎĞĞÊ±£¬¸½½üµÄÁíÒ»ÈºÈË¿ªÊ¼ÓÃ½ğÊô¹÷°ô³å»÷Á¢·¨»áµÄ²£Á§ÃÅ¡£ºÍÉí±ßºÜ¶àÈËÒ»Ñù£¬Ëû²»´òËãÈ¥·´¶ÔÕâÖÖ±©Á¦¡£
+æŠ—è®®è€…ç°å¹´52å²ï¼Œä»äº‹æ¶ˆè´¹äº§å“é”€å”®å·¥ä½œï¼Œ7æœˆ1æ—¥å‚åŠ å’Œå¹³æ¸¸è¡Œæ—¶ï¼Œé™„è¿‘çš„å¦ä¸€ç¾¤äººå¼€å§‹ç”¨é‡‘å±æ£æ£’å†²å‡»ç«‹æ³•ä¼šçš„ç»ç’ƒé—¨ã€‚å’Œèº«è¾¹å¾ˆå¤šäººä¸€æ ·ï¼Œä»–ä¸æ‰“ç®—å»åå¯¹è¿™ç§æš´åŠ›ã€‚
 
 Trade talks between the United States and China resumed on Monday `with prospects dimming` for a `transformative deal`
-ÃÀ¹úºÍÖĞ¹úÓÚÖÜÒ»»Ö¸´Ã³Ò×Ì¸ÅĞ£¬È»¶ø´ï³ÉÒ»Ïî¾ßÓĞ»®Ê±´úÒâÒåµÄĞ­ÒéµÄÇ°¾°ÆÄÎª÷öµ­
+ç¾å›½å’Œä¸­å›½äºå‘¨ä¸€æ¢å¤è´¸æ˜“è°ˆåˆ¤ï¼Œç„¶è€Œè¾¾æˆä¸€é¡¹å…·æœ‰åˆ’æ—¶ä»£æ„ä¹‰çš„åè®®çš„å‰æ™¯é¢‡ä¸ºé»¯æ·¡
 
 but months of meetings have so failed to yield consensus on the most difficult issues and `there is little to suggest` that a compromise is `within reach`
-µ«ÊıÔÂµÄ»áÌ¸Î´ÄÜ¾Í×î¼¬ÊÖµÄÎÊÌâ´ï³É¹²Ê¶£¬Ò²Ã»ÓĞ¼£Ïó±íÃ÷´ï³ÉÍ×Ğ­ÊÇ¿ÉÄÜµÄ
+ä½†æ•°æœˆçš„ä¼šè°ˆæœªèƒ½å°±æœ€æ£˜æ‰‹çš„é—®é¢˜è¾¾æˆå…±è¯†ï¼Œä¹Ÿæ²¡æœ‰è¿¹è±¡è¡¨æ˜è¾¾æˆå¦¥åæ˜¯å¯èƒ½çš„
 
 Chinese negotiators previously `objected to` demands that `certain provisions be enshrined` in Chinese law, and have pushed for a `more vaguely` worded text
-ÖĞ¹úÌ¸ÅĞ´ú±í´ËÇ°·´¶Ô½«Ä³Ğ©Ìõ¿îĞ´ÈëÖĞ¹ú·¨ÂÉµÄÒªÇó£¬²¢Ò»Ö±ÔÚÍÆ¶¯Ò»·İ´ë´Ç¸üÎªÄ£ºıµÄÎÄ±¾
+ä¸­å›½è°ˆåˆ¤ä»£è¡¨æ­¤å‰åå¯¹å°†æŸäº›æ¡æ¬¾å†™å…¥ä¸­å›½æ³•å¾‹çš„è¦æ±‚ï¼Œå¹¶ä¸€ç›´åœ¨æ¨åŠ¨ä¸€ä»½æªè¾æ›´ä¸ºæ¨¡ç³Šçš„æ–‡æœ¬
 
 If there are loopholes and gray areas `subject to interpretation`, then the extensive appeal process the Trump administration has designed will be a `recipe` for a decade of `acrimony`
-Èç¹û´æÔÚÂ©¶´ºÍ`ÓĞ´ı½âÊÍµÄ`»ÒÉ«µØ´ø£¬ÄÇÃ´ÌØÀÊÆÕÕş¸®Éè¼ÆµÄÏê¾¡ÉÏËß³ÌĞò½«ÔÚÎ´À´Ê®ÄêÒı·¢Ğí¶à`Õù³³`
+å¦‚æœå­˜åœ¨æ¼æ´å’Œ`æœ‰å¾…è§£é‡Šçš„`ç°è‰²åœ°å¸¦ï¼Œé‚£ä¹ˆç‰¹æœ—æ™®æ”¿åºœè®¾è®¡çš„è¯¦å°½ä¸Šè¯‰ç¨‹åºå°†åœ¨æœªæ¥åå¹´å¼•å‘è®¸å¤š`äº‰åµ`
 
 The trade war is also `dragging on` the Chinese economy. The `shift` of multinational companies out of China
-Ã³Ò×Õ½Ò²ÔÚÍÏÀÛÖĞ¹ú¾­¼Ã¡£¿ç¹ú¹«Ë¾·×·×³·³ö
+è´¸æ˜“æˆ˜ä¹Ÿåœ¨æ‹–ç´¯ä¸­å›½ç»æµã€‚è·¨å›½å…¬å¸çº·çº·æ’¤å‡º
 
-The Chinese economy is `decelerating`, but the process has been `gradual`. Further increases in the country¡¯s already huge amount of `infrastructure spending` have `cushioned the shock`
-ÖĞ¹ú¾­¼ÃÕıÔÚ¼õËÙ£¬µ«Õâ¸ö¹ı³ÌÊÇ½¥½øµÄ¡£ÖĞ¹ú±¾ÒÑÅÓ´óµÄ»ù´¡ÉèÊ©Ö§³ö½øÒ»²½Ôö¼Ó£¬Õâ»º½âÁË¾­¼Ã·Å»º´øÀ´µÄ³å»÷
+The Chinese economy is `decelerating`, but the process has been `gradual`. Further increases in the countryâ€™s already huge amount of `infrastructure spending` have `cushioned the shock`
+ä¸­å›½ç»æµæ­£åœ¨å‡é€Ÿï¼Œä½†è¿™ä¸ªè¿‡ç¨‹æ˜¯æ¸è¿›çš„ã€‚ä¸­å›½æœ¬å·²åºå¤§çš„åŸºç¡€è®¾æ–½æ”¯å‡ºè¿›ä¸€æ­¥å¢åŠ ï¼Œè¿™ç¼“è§£äº†ç»æµæ”¾ç¼“å¸¦æ¥çš„å†²å‡»
 
-China¡¯s exports to the United States have `dipped`, but they have not `plunged` during the trade war
-ÖĞ¹ú¶ÔÃÀ¹úµÄ³ö¿ÚÓĞËùÏÂ½µ£¬µ«ÔÚÃ³Ò×Õ½ÆÚ¼ä²¢Ã»ÓĞ³öÏÖ±©µø
+Chinaâ€™s exports to the United States have `dipped`, but they have not `plunged` during the trade war
+ä¸­å›½å¯¹ç¾å›½çš„å‡ºå£æœ‰æ‰€ä¸‹é™ï¼Œä½†åœ¨è´¸æ˜“æˆ˜æœŸé—´å¹¶æ²¡æœ‰å‡ºç°æš´è·Œ
 
 Then Mr. Sun, `citing ill health`, postponed the lunch three days before it was to happen, sending the Chinese media and internet into `overdrive`
-È»ºó£¬ËïÓî³¿ÒÔÉú²¡ÎªÓÉ£¬½«Îç²ÍÊ±¼äÍÆ³ÙÈıÌì£¬ÕâÈÃÖĞ¹úµÄÃ½ÌåºÍ»¥ÁªÍøÕ¨ÁË¹ø
+ç„¶åï¼Œå­™å®‡æ™¨ä»¥ç”Ÿç—…ä¸ºç”±ï¼Œå°†åˆé¤æ—¶é—´æ¨è¿Ÿä¸‰å¤©ï¼Œè¿™è®©ä¸­å›½çš„åª’ä½“å’Œäº’è”ç½‘ç‚¸äº†é”…
 
 But the reports, `while sounding as though` they had been `ripped from` the pages of an `overwrought thriller`, were not `without precedent`
-²»¹ı£¬ÕâĞ©±¨µÀËäÈ»ÌıÆğÀ´ÏñÊÇÀ´×ÔÄ³²¿¿ÛÈËĞÄÏÒµÄ¾ªã¤Ğ¡Ëµ£¬µ«Ò²²¢·ÇÃ»ÓĞÏÈÀı
+ä¸è¿‡ï¼Œè¿™äº›æŠ¥é“è™½ç„¶å¬èµ·æ¥åƒæ˜¯æ¥è‡ªæŸéƒ¨æ‰£äººå¿ƒå¼¦çš„æƒŠæ‚šå°è¯´ï¼Œä½†ä¹Ÿå¹¶éæ²¡æœ‰å…ˆä¾‹
 
-The incidents are part of China¡¯s `broader scrutiny of fault lines` in the country¡¯s economy and a crackdown on `risky and speculative` investing activities
-ÖĞ¹úÔÚ¶Ô¾­¼ÃÒş»¼½øĞĞ¸ü¹ã·ºµÄÉó²é£¬´ò»÷¸ß·çÏÕºÍÍ¶»úĞÔÍ¶×Ê»î¶¯£¬ÕâĞ©ÊÂ¼ş¾ÍÊÇÆäÖĞµÄÒ»²¿·ÖĞĞ¶¯
+The incidents are part of Chinaâ€™s `broader scrutiny of fault lines` in the countryâ€™s economy and a crackdown on `risky and speculative` investing activities
+ä¸­å›½åœ¨å¯¹ç»æµéšæ‚£è¿›è¡Œæ›´å¹¿æ³›çš„å®¡æŸ¥ï¼Œæ‰“å‡»é«˜é£é™©å’ŒæŠ•æœºæ€§æŠ•èµ„æ´»åŠ¨ï¼Œè¿™äº›äº‹ä»¶å°±æ˜¯å…¶ä¸­çš„ä¸€éƒ¨åˆ†è¡ŒåŠ¨
 
 He also posted a `selfie` holding a sheet of paper with a sequence of numbers known as a blockchain hash
-Ëû»¹·¢ÁËÒ»ÕÅ×ÔÅÄ£¬ÆäÖĞËûÊÖÄÃÒ»ÕÅÖ½£¬ÉÏÃæÓĞÒ»´®³ÆÎªÇø¿éÁ´¹şÏ£µÄÊı×Ö
+ä»–è¿˜å‘äº†ä¸€å¼ è‡ªæ‹ï¼Œå…¶ä¸­ä»–æ‰‹æ‹¿ä¸€å¼ çº¸ï¼Œä¸Šé¢æœ‰ä¸€ä¸²ç§°ä¸ºåŒºå—é“¾å“ˆå¸Œçš„æ•°å­—
 
-Justin Sun¡¯s main crime is probably to have so `openly flaunted his wealth`, the authorities don¡¯t like this kind of `personality cult` and this `money being thrown around`
-ËïÓî³¿µÄÖ÷Òª×ïĞĞºÜ¿ÉÄÜÔÚÓÚÈç´Ë¹«¿ªìÅ¸»,µ±¾Ö²»Ï²»¶ÕâÖÖ¸öÈË³ç°İºÍ»Ó»ôĞĞÎª
+Justin Sunâ€™s main crime is probably to have so `openly flaunted his wealth`, the authorities donâ€™t like this kind of `personality cult` and this `money being thrown around`
+å­™å®‡æ™¨çš„ä¸»è¦ç½ªè¡Œå¾ˆå¯èƒ½åœ¨äºå¦‚æ­¤å…¬å¼€ç‚«å¯Œ,å½“å±€ä¸å–œæ¬¢è¿™ç§ä¸ªäººå´‡æ‹œå’ŒæŒ¥éœè¡Œä¸º
