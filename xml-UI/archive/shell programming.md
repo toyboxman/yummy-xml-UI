@@ -6,50 +6,50 @@
 ---
 
 ### *Following content is about shell programming*
-- [bashµ÷ÊÔ](#shell½Å±¾µ÷ÊÔ·½·¨)
-    + [bashÖ´ĞĞË³Ğò](https://mp.weixin.qq.com/s/LdHHVsK9UsQ1mNLgA1pdSw)
-- [Ä¬ÈÏ±äÁ¿](#built-in-variables)
-    + [LinuxÖĞÊ¹ÓÃ±äÁ¿](https://mp.weixin.qq.com/s/szuMT5OUGw6qnzmmHJZ36Q)
-- [±äÁ¿¸³Öµ](#±äÁ¿¸³Öµ)
-- [À¨ºÅ](#À¨ºÅ-Ë«À¨ºÅ-ÖĞÀ¨ºÅ-Ë«ÖĞÀ¨ºÅ)
-- [ÊıÖµ±È½Ï](#ÊıÖµ±È½Ï)
+- [bashè°ƒè¯•](#shellè„šæœ¬è°ƒè¯•æ–¹æ³•)
+    + [bashæ‰§è¡Œé¡ºåº](https://mp.weixin.qq.com/s/LdHHVsK9UsQ1mNLgA1pdSw)
+- [é»˜è®¤å˜é‡](#built-in-variables)
+    + [Linuxä¸­ä½¿ç”¨å˜é‡](https://mp.weixin.qq.com/s/szuMT5OUGw6qnzmmHJZ36Q)
+- [å˜é‡èµ‹å€¼](#å˜é‡èµ‹å€¼)
+- [æ‹¬å·](#æ‹¬å·-åŒæ‹¬å·-ä¸­æ‹¬å·-åŒä¸­æ‹¬å·)
+- [æ•°å€¼æ¯”è¾ƒ](#æ•°å€¼æ¯”è¾ƒ)
 - [IFS](#ifs)
-- [IF](#if-¿ØÖÆÁ÷)
-- [LOOP](#loop-¿ØÖÆÁ÷)
-- [Logical](#logical-Ìõ¼ş)
+- [IF](#if-æ§åˆ¶æµ)
+- [LOOP](#loop-æ§åˆ¶æµ)
+- [Logical](#logical-æ¡ä»¶)
 - [SET](http://www.ruanyifeng.com/blog/2017/11/bash-set.html)  
-	`ÓÃÀ´ĞŞ¸ÄShell»·¾³µÄÔËĞĞ²ÎÊı,Ò»¹²ÓĞÊ®¼¸¸ö²ÎÊı¿ÉÒÔ¶¨ÖÆ,Èç-e BashµÄ´íÎó´¦Àí`
+	`ç”¨æ¥ä¿®æ”¹Shellç¯å¢ƒçš„è¿è¡Œå‚æ•°,ä¸€å…±æœ‰åå‡ ä¸ªå‚æ•°å¯ä»¥å®šåˆ¶,å¦‚-e Bashçš„é”™è¯¯å¤„ç†`
 - [Examples](#shell-example)
-	+ ÈçºÎ±àĞ´bash½Å±¾[[1](https://mp.weixin.qq.com/s/rXYHpElNJiHF-O-i5wdE-Q), [2](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg), [3](https://mp.weixin.qq.com/s/d6FmL-FGEaji0OzyOYFFRA), [4](https://mp.weixin.qq.com/s/6f5cowUSJC7hM9uy2hRUJw), [5](https://mp.weixin.qq.com/s/Y7Z-DUkLb6Qk60yom46YIA)]
-	+ [ÍøµÀBash½Å±¾½Ì³Ì](https://wangdoc.com/bash/string.html)
+	+ å¦‚ä½•ç¼–å†™bashè„šæœ¬[[1](https://mp.weixin.qq.com/s/rXYHpElNJiHF-O-i5wdE-Q), [2](https://mp.weixin.qq.com/s/bXc-ZnCDoxa82-tgVtyaVg), [3](https://mp.weixin.qq.com/s/d6FmL-FGEaji0OzyOYFFRA), [4](https://mp.weixin.qq.com/s/6f5cowUSJC7hM9uy2hRUJw), [5](https://mp.weixin.qq.com/s/Y7Z-DUkLb6Qk60yom46YIA)]
+	+ [ç½‘é“Bashè„šæœ¬æ•™ç¨‹](https://wangdoc.com/bash/string.html)
 	+ [Shell Built-in Commands](https://mp.weixin.qq.com/s/8E7Q3GEHPpD5wklYPYFOew)
     + [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
-    + [»ã×ÜÈÕÖ¾](#exp1)
-    + [Éè¶¨ÍøÂçÅäÖÃ](#exp2)
+    + [æ±‡æ€»æ—¥å¿—](#exp1)
+    + [è®¾å®šç½‘ç»œé…ç½®](#exp2)
     + [SSH+EXPECT](#exp3)
-    + [BashÊäÈë²ÎÊı´¦Àí](#exp4)
-    + [ExpectÔ¶³Ì²Ù×÷](#exp5)
-    + [update jarÎÄ¼ş²¢ÖØÆô·şÎñ](#exp6)
-	+ [¸ù¾İÊäÈëÑ¡ÔñÖ´ĞĞ·ÖÖ§](#exp7)
-	+ [Ñ­»·¶ÁĞ´REST API,¼ÆËãÖ´ĞĞÊ±¼ä](#exp8)
-	+ [¸ù¾İ½Å±¾ÊäÈë²ÎÊıÑ­»·Ö´ĞĞ£¬ÅĞ¶ÏÎÄ¼şÊÇ·ñ´æÔÚ](#exp9)
-	+ [Bashº¯Êı¶¨Òå](#exp10)
-	+ [Shell½Å±¾µ¥ÀıÔËĞĞ](https://mp.weixin.qq.com/s/F3iojH8R0kvqhzzJeQiSSA)
-	+ [ÊıÑ§ÔËËã bc/basic calculator](https://mp.weixin.qq.com/s/JAdUxU3ziqT1dw8vhjXHyQ)
-	+ [×ª»»´óĞ¡Ğ´](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
-	+ [ÁĞ³ö´óĞÍÎÄ¼şÏµÍ³ÖĞÎÄ¼ş,Ä¿Â¼](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
-	+ [ºÏ²¢ºÍÅÅĞòLinuxÉÏµÄÎÄ¼ş](https://mp.weixin.qq.com/s/JDiSdFHLrJJzLG2BI4eVKQ)
-	+ ÖØÆô»òÆô¶¯Ê±Ö´ĞĞ½Å±¾[[1](https://mp.weixin.qq.com/s/Cu4B0yNSm_pV9d9b-ssXAQ), [2](https://mp.weixin.qq.com/s/tkphlPDIsz7dGbm7NvFyjg)]
-	+ [uptimeÔËĞĞÊ±¼ä±¨¸æ](https://mp.weixin.qq.com/s/rcPb5PXhj3LjM7K44PWwCQ)
-    + [BashÊµÏÖµÇÂ¼²é¿´ÏµÍ³ĞÅÏ¢](https://mp.weixin.qq.com/s/n8BOjHCd39lEKxWF_qOZew)
-	+ [SAR±¨¸æÖĞ»ñÈ¡CPUºÍÄÚ´æÊ¹ÓÃÇé¿ö](https://mp.weixin.qq.com/s/us5c3vY7nBjc113jJmG6hQ)
-    + [¼à¿ØmessagesÈÕÖ¾](https://mp.weixin.qq.com/s/Dk9N1nhTuXgsG-1pNZwK_Q)
-    + [É¨À×ÓÎÏ·](https://mp.weixin.qq.com/s/0J8VCYh--R-OFe8nQdjFWw)
-    + [Éú³É²¹¶¡ºÏ¹æ±¨¸æ](https://mp.weixin.qq.com/s/5JkTYd31E42EFVr9pV81_Q9)
-    + [Í³¼ÆÓÃ»§ÕËºÅ](https://mp.weixin.qq.com/s/dLrRVt0csjDLe7WYOsIR_g)
-    + [Ê±¼ä²î¼ÆËã](https://mp.weixin.qq.com/s/3SrV3wTrcu9O2s1r_MwRHg)
-	+ [Éú²ú»·¾³½Å±¾°¸Àı](https://mp.weixin.qq.com/s/d6XkEKz2BrP-QUPzOFUqOQ)
-	+ [·¢ÏÖ½Ø¶ÏµÄÊı¾İ](https://mp.weixin.qq.com/s/7i84lQARwxtTVrcnEk6xBw)
+    + [Bashè¾“å…¥å‚æ•°å¤„ç†](#exp4)
+    + [Expectè¿œç¨‹æ“ä½œ](#exp5)
+    + [update jaræ–‡ä»¶å¹¶é‡å¯æœåŠ¡](#exp6)
+	+ [æ ¹æ®è¾“å…¥é€‰æ‹©æ‰§è¡Œåˆ†æ”¯](#exp7)
+	+ [å¾ªç¯è¯»å†™REST API,è®¡ç®—æ‰§è¡Œæ—¶é—´](#exp8)
+	+ [æ ¹æ®è„šæœ¬è¾“å…¥å‚æ•°å¾ªç¯æ‰§è¡Œï¼Œåˆ¤æ–­æ–‡ä»¶æ˜¯å¦å­˜åœ¨](#exp9)
+	+ [Bashå‡½æ•°å®šä¹‰](#exp10)
+	+ [Shellè„šæœ¬å•ä¾‹è¿è¡Œ](https://mp.weixin.qq.com/s/F3iojH8R0kvqhzzJeQiSSA)
+	+ [æ•°å­¦è¿ç®— bc/basic calculator](https://mp.weixin.qq.com/s/JAdUxU3ziqT1dw8vhjXHyQ)
+	+ [è½¬æ¢å¤§å°å†™](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
+	+ [åˆ—å‡ºå¤§å‹æ–‡ä»¶ç³»ç»Ÿä¸­æ–‡ä»¶,ç›®å½•](https://mp.weixin.qq.com/s/iQS40U80rllJcxuwNqDujg)
+	+ [åˆå¹¶å’Œæ’åºLinuxä¸Šçš„æ–‡ä»¶](https://mp.weixin.qq.com/s/JDiSdFHLrJJzLG2BI4eVKQ)
+	+ é‡å¯æˆ–å¯åŠ¨æ—¶æ‰§è¡Œè„šæœ¬[[1](https://mp.weixin.qq.com/s/Cu4B0yNSm_pV9d9b-ssXAQ), [2](https://mp.weixin.qq.com/s/tkphlPDIsz7dGbm7NvFyjg)]
+	+ [uptimeè¿è¡Œæ—¶é—´æŠ¥å‘Š](https://mp.weixin.qq.com/s/rcPb5PXhj3LjM7K44PWwCQ)
+    + [Bashå®ç°ç™»å½•æŸ¥çœ‹ç³»ç»Ÿä¿¡æ¯](https://mp.weixin.qq.com/s/n8BOjHCd39lEKxWF_qOZew)
+	+ [SARæŠ¥å‘Šä¸­è·å–CPUå’Œå†…å­˜ä½¿ç”¨æƒ…å†µ](https://mp.weixin.qq.com/s/us5c3vY7nBjc113jJmG6hQ)
+    + [ç›‘æ§messagesæ—¥å¿—](https://mp.weixin.qq.com/s/Dk9N1nhTuXgsG-1pNZwK_Q)
+    + [æ‰«é›·æ¸¸æˆ](https://mp.weixin.qq.com/s/0J8VCYh--R-OFe8nQdjFWw)
+    + [ç”Ÿæˆè¡¥ä¸åˆè§„æŠ¥å‘Š](https://mp.weixin.qq.com/s/5JkTYd31E42EFVr9pV81_Q9)
+    + [ç»Ÿè®¡ç”¨æˆ·è´¦å·](https://mp.weixin.qq.com/s/dLrRVt0csjDLe7WYOsIR_g)
+    + [æ—¶é—´å·®è®¡ç®—](https://mp.weixin.qq.com/s/3SrV3wTrcu9O2s1r_MwRHg)
+	+ [ç”Ÿäº§ç¯å¢ƒè„šæœ¬æ¡ˆä¾‹](https://mp.weixin.qq.com/s/d6XkEKz2BrP-QUPzOFUqOQ)
+	+ [å‘ç°æˆªæ–­çš„æ•°æ®](https://mp.weixin.qq.com/s/7i84lQARwxtTVrcnEk6xBw)
 
 > [shell programming guide](http://www.freeos.com/guides/lsst/)
 
@@ -111,61 +111,61 @@ $@  1 2 3
 $?  0
 ```
 
-### shell½Å±¾µ÷ÊÔ·½·¨
+### shellè„šæœ¬è°ƒè¯•æ–¹æ³•
 ```console
-# ¶ÁÒ»±é½Å±¾ÖĞµÄÃüÁîµ«²»Ö´ĞĞ£¬ÓÃÓÚ¼ì²é½Å±¾ÖĞµÄÓï·¨´íÎó
+# è¯»ä¸€éè„šæœ¬ä¸­çš„å‘½ä»¤ä½†ä¸æ‰§è¡Œï¼Œç”¨äºæ£€æŸ¥è„šæœ¬ä¸­çš„è¯­æ³•é”™è¯¯
 sh -n script.sh  
 
-# Ò»±ßÖ´ĞĞ½Å±¾£¬Ò»±ß½«Ö´ĞĞ¹ıµÄ½Å±¾ÃüÁî´òÓ¡µ½±ê×¼´íÎóÊä³ö
+# ä¸€è¾¹æ‰§è¡Œè„šæœ¬ï¼Œä¸€è¾¹å°†æ‰§è¡Œè¿‡çš„è„šæœ¬å‘½ä»¤æ‰“å°åˆ°æ ‡å‡†é”™è¯¯è¾“å‡º
 sh -v script.sh  
 
-# Ìá¹©¸ú×ÙÖ´ĞĞĞÅÏ¢£¬½«Ö´ĞĞµÄÃ¿Ò»ÌõÔ­Ê¼ÃüÁîºÍ½á¹ûÒÀ´Î´òÓ¡³öÀ´
+# æä¾›è·Ÿè¸ªæ‰§è¡Œä¿¡æ¯ï¼Œå°†æ‰§è¡Œçš„æ¯ä¸€æ¡åŸå§‹å‘½ä»¤å’Œç»“æœä¾æ¬¡æ‰“å°å‡ºæ¥
 sh -x script.sh  
 ```
-* Ê¹ÓÃÕâĞ©Ñ¡ÏîÓĞÈıÖÖ·½·¨£¬
+* ä½¿ç”¨è¿™äº›é€‰é¡¹æœ‰ä¸‰ç§æ–¹æ³•ï¼Œ
 
-	* ÔÚÃüÁîĞĞÌá¹©²ÎÊı
+	* åœ¨å‘½ä»¤è¡Œæä¾›å‚æ•°
 	```console
 	$ sh -x ./script.sh
 	```
 
-	* ÔÚ½Å±¾¿ªÍ·Ìá¹©²ÎÊı 
+	* åœ¨è„šæœ¬å¼€å¤´æä¾›å‚æ•° 
 	```console
 	#! /bin/sh -x
 	```
 
-	* ÔÚ½Å±¾ÖĞÓÃsetÃüÁîÆôÓÃ»ò½ûÓÃ²ÎÊı
+	* åœ¨è„šæœ¬ä¸­ç”¨setå‘½ä»¤å¯ç”¨æˆ–ç¦ç”¨å‚æ•°
 	```console
 	#! /bin/sh
-	# Í¨¹ıÆôÓÃºÍ½ûÓÃX²ÎÊı,Ö»¶Ô½Å±¾ÖĞµÄÄ³Ò»¶Î½øĞĞ¸ú×Ùµ÷ÊÔ
+	# é€šè¿‡å¯ç”¨å’Œç¦ç”¨Xå‚æ•°,åªå¯¹è„šæœ¬ä¸­çš„æŸä¸€æ®µè¿›è¡Œè·Ÿè¸ªè°ƒè¯•
 	if [ -z "$1" ]; then
-	# ÆôÓÃx²ÎÊı£¬ÏÈÊä³öÖ´ĞĞµÄÄÇÒ»ĞĞÃüÁî
+	# å¯ç”¨xå‚æ•°ï¼Œå…ˆè¾“å‡ºæ‰§è¡Œçš„é‚£ä¸€è¡Œå‘½ä»¤
 	set -x
 	echo "ERROR: Insufficient Args."
 	exit 1
 	else
-	# ½ûÓÃx²ÎÊı
+	# ç¦ç”¨xå‚æ•°
 	set +x
 	fi
 	```
 
-### ±äÁ¿¸³Öµ   
-¾­³£ĞèÒª½«ÃüÁîÖ´ĞĞ½á¹û¸³Öµ¸øshellÖĞ±äÁ¿£¬¿ÉÒÔÓÃÏÂÃæÁ½ÖÖ·½Ê½
+### å˜é‡èµ‹å€¼   
+ç»å¸¸éœ€è¦å°†å‘½ä»¤æ‰§è¡Œç»“æœèµ‹å€¼ç»™shellä¸­å˜é‡ï¼Œå¯ä»¥ç”¨ä¸‹é¢ä¸¤ç§æ–¹å¼
 
-- evalÃüÁî
+- evalå‘½ä»¤
 ```console
-# Ö´ĞĞÃüÁî½«½á¹û¸³¸ø±äÁ¿,×¢ÒâÃüÁî²»ÊÇµ¥ÒıºÅ(' ')°üÀ¨, ¶øÊÇ`£àºÅ(¡«°´¼ü)
+# æ‰§è¡Œå‘½ä»¤å°†ç»“æœèµ‹ç»™å˜é‡,æ³¨æ„å‘½ä»¤ä¸æ˜¯å•å¼•å·(' ')åŒ…æ‹¬, è€Œæ˜¯`ï½€å·(ï½æŒ‰é”®)
 eval A=`whoami` 
 ```
-- Ö±½Ó¸³Öµ
+- ç›´æ¥èµ‹å€¼
 ```console
-# ¸³ÖµµÈºÅÁ½±ß²»ÒªÓĞ¿Õ¸ñ
-# °Ñµ±Ç°ÓÃ»§Ãû¸³Öµ¸ø±äÁ¿
+# èµ‹å€¼ç­‰å·ä¸¤è¾¹ä¸è¦æœ‰ç©ºæ ¼
+# æŠŠå½“å‰ç”¨æˆ·åèµ‹å€¼ç»™å˜é‡
 B=`whoami | awk '{print $1}'` 
-# Êä³ölog.txtÎÄ¼şowner/group
+# è¾“å‡ºlog.txtæ–‡ä»¶owner/group
 C=`ls ./log.txt | xargs stat --printf " %U:%G \n"` 
 
-# ¶ÁµÚ¶şĞĞ£¬´òÓ¡µÚ¶şÁĞ µÚÈıÁĞ(awk example)
+# è¯»ç¬¬äºŒè¡Œï¼Œæ‰“å°ç¬¬äºŒåˆ— ç¬¬ä¸‰åˆ—(awk example)
 eclipse_pid=`ps -ef|grep eclipse|awk 'NR==2{print $2,$3}'`
 echo "current eclipse pid is $eclipse_pid, will kill it"
 echo "kill -9 $eclipse_pid"
@@ -174,43 +174,43 @@ kill -9 $eclipse_pid
 > [AWK-wiki](http://zh.wikipedia.org/wiki/AWK)    
 > [AWK-baike](http://baike.baidu.com/view/209681.htm)
 
-### ()À¨ºÅ (())Ë«À¨ºÅ []ÖĞÀ¨ºÅ [[]]Ë«ÖĞÀ¨ºÅ
-> [·½À¨ºÅÊ¹ÓÃ](https://mp.weixin.qq.com/s/OLe0QKzivwi9fxMZRe8kog)    
->[»¨À¨ºÅÊ¹ÓÃ](https://linux.cn/article-10624-1.html)    
-> [À¨ºÅÇø±ğ](http://www.linfengyushu.com/269.html/)   
-> [À¨ºÅÖĞ±È½Ï](http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash)  
+### ()æ‹¬å· (())åŒæ‹¬å· []ä¸­æ‹¬å· [[]]åŒä¸­æ‹¬å·
+> [æ–¹æ‹¬å·ä½¿ç”¨](https://mp.weixin.qq.com/s/OLe0QKzivwi9fxMZRe8kog)    
+>[èŠ±æ‹¬å·ä½¿ç”¨](https://linux.cn/article-10624-1.html)    
+> [æ‹¬å·åŒºåˆ«](http://www.linfengyushu.com/269.html/)   
+> [æ‹¬å·ä¸­æ¯”è¾ƒ](http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash)  
 <br>
-ÔÚ½Å±¾ÖĞÊ¹ÓÃÖĞÀ¨ºÅÀ´½øĞĞ±äÁ¿Âß¼­ÔËËãÊ±ºò£¬[]Óë[[]]ÓĞÒ»Ğ©¹²ĞÔ¹æÔò£¬Ò²´æÔÚÒ»Ğ©²îÒì£¬Ö÷ÒªÈçÏÂ
+åœ¨è„šæœ¬ä¸­ä½¿ç”¨ä¸­æ‹¬å·æ¥è¿›è¡Œå˜é‡é€»è¾‘è¿ç®—æ—¶å€™ï¼Œ[]ä¸[[]]æœ‰ä¸€äº›å…±æ€§è§„åˆ™ï¼Œä¹Ÿå­˜åœ¨ä¸€äº›å·®å¼‚ï¼Œä¸»è¦å¦‚ä¸‹
 
-* ÏàÍ¬¹æÔò
-	1. À¨ºÅ×óÓÒÁ½¶ËÓë±äÁ¿¶¼ÒªÓĞ¿Õ¸ñ·Ö¸ô£¬Èç if [[ "$a" > "$b" ]], if [ "$a" \> "$b" ]
-	2. ÄÚ²¿²Ù×÷·ûÓë²Ù×÷±äÁ¿Ö®¼äÒªÓĞ¿Õ¸ñ£ºÈç if [ "$a" = "$b" ]
-	4. ×Ö·û´®»òÕß${}±äÁ¿¾¡Á¿Ê¹ÓÃ""Ë«ÒıºÅ£¬ÒÔ±ÜÃâÖµÎ´¶¨ÒåÒıÓÃ¶ø³ö´í
+* ç›¸åŒè§„åˆ™
+	1. æ‹¬å·å·¦å³ä¸¤ç«¯ä¸å˜é‡éƒ½è¦æœ‰ç©ºæ ¼åˆ†éš”ï¼Œå¦‚ if [[ "$a" > "$b" ]], if [ "$a" \> "$b" ]
+	2. å†…éƒ¨æ“ä½œç¬¦ä¸æ“ä½œå˜é‡ä¹‹é—´è¦æœ‰ç©ºæ ¼ï¼šå¦‚ if [ "$a" = "$b" ]
+	4. å­—ç¬¦ä¸²æˆ–è€…${}å˜é‡å°½é‡ä½¿ç”¨""åŒå¼•å·ï¼Œä»¥é¿å…å€¼æœªå®šä¹‰å¼•ç”¨è€Œå‡ºé”™
 
-* µ¥ÖĞÀ¨ºÅ [ ]
-	1. ½øĞĞ×Ö·û´®±È½ÏÊ±£¬> < ĞèÒªĞ´³É\>, \< ½øĞĞ×ªÒå
-	5. [] ÖĞ¿ÉÒÔÊ¹ÓÃ-a -o½øĞĞÂß¼­ÔËËã
+* å•ä¸­æ‹¬å· [ ]
+	1. è¿›è¡Œå­—ç¬¦ä¸²æ¯”è¾ƒæ—¶ï¼Œ> < éœ€è¦å†™æˆ\>, \< è¿›è¡Œè½¬ä¹‰
+	5. [] ä¸­å¯ä»¥ä½¿ç”¨-a -oè¿›è¡Œé€»è¾‘è¿ç®—
 	6. [] is bash Builtins, POSIX
 
-* Ë«ÖĞÀ¨ºÅ [[]]
-	1. ×Ö·û´®±È½ÏÖĞ£¬¿ÉÒÔÖ±½ÓÊ¹ÓÃ > < ÎŞĞè×ªÒå
-	5. [[ ]] ÄÚ²¿¿ÉÒÔÊ¹ÓÃ && || µÈ½øĞĞÂß¼­ÔËËã
+* åŒä¸­æ‹¬å· [[]]
+	1. å­—ç¬¦ä¸²æ¯”è¾ƒä¸­ï¼Œå¯ä»¥ç›´æ¥ä½¿ç”¨ > < æ— éœ€è½¬ä¹‰
+	5. [[ ]] å†…éƒ¨å¯ä»¥ä½¿ç”¨ && || ç­‰è¿›è¡Œé€»è¾‘è¿ç®—
 	6. [[ ]] is bash Keywords, a Bash extension
 
-ÔÚ²»Í¬Æ½Ì¨Ê¹ÓÃÖĞÀ¨ºÅÊ±¿ÉÄÜÓöµ½ÎÊÌâ¡£ÀıÈçÔÚubuntuÏÂÊ¹ÓÃ[[ ]] Ê±£¬¿ÉÄÜ»á±¨ ¡° [[: not found ¡±
-ÕâÊÇÒòÎª ubuntu Ä¬ÈÏÊÇÓÃdash, ¶ø²»ÊÇbash, ¿ÉÒÔÊ¹ÓÃ sudo bash xxxx.sh Ö´ĞĞ½Å±¾¼´¿É¡£
-> [Ğ¡À¨ºÅÇø±ğ](http://justcoding.iteye.com/blog/2252338)   
-* µ¥À¨ºÅ ()
-	1. ¶ÔÒ»¶Î±È½Ï³¤µÄÃüÁî½øĞĞºÏ²¢,µ¥À¨ºÅÖĞµÄÃüÁîÓÃ-0»ò-aÀ´½øĞĞÏÎ½Ó
+åœ¨ä¸åŒå¹³å°ä½¿ç”¨ä¸­æ‹¬å·æ—¶å¯èƒ½é‡åˆ°é—®é¢˜ã€‚ä¾‹å¦‚åœ¨ubuntuä¸‹ä½¿ç”¨[[ ]] æ—¶ï¼Œå¯èƒ½ä¼šæŠ¥ â€œ [[: not found â€
+è¿™æ˜¯å› ä¸º ubuntu é»˜è®¤æ˜¯ç”¨dash, è€Œä¸æ˜¯bash, å¯ä»¥ä½¿ç”¨ sudo bash xxxx.sh æ‰§è¡Œè„šæœ¬å³å¯ã€‚
+> [å°æ‹¬å·åŒºåˆ«](http://justcoding.iteye.com/blog/2252338)   
+* å•æ‹¬å· ()
+	1. å¯¹ä¸€æ®µæ¯”è¾ƒé•¿çš„å‘½ä»¤è¿›è¡Œåˆå¹¶,å•æ‹¬å·ä¸­çš„å‘½ä»¤ç”¨-0æˆ–-aæ¥è¿›è¡Œè¡”æ¥
 
-* Ë«À¨ºÅ (())
-	1. Éæ¼°±äÁ¿ÒıÓÃµÄ»°,$((ÃüÁî))=ÃüÁî,Ë«À¨ºÅ¿ÉÒÔÔÚÊıÖµ¼ÆËãÖĞÒıÓÃ
+* åŒæ‹¬å· (())
+	1. æ¶‰åŠå˜é‡å¼•ç”¨çš„è¯,$((å‘½ä»¤))=å‘½ä»¤,åŒæ‹¬å·å¯ä»¥åœ¨æ•°å€¼è®¡ç®—ä¸­å¼•ç”¨
 	
-* µ¥ÒıºÅ ''
-	1. ½öÄÜÊÇÒ»°ã×Ö·û £¬¶ø²»»áÓĞÌØÊâ·ûºÅ¡£²»»á½«ÒıºÅÄÚµÄÄÚÈİÏñ±äÁ¿Ò»ÀàµÄ½øĞĞ×ª»»
+* å•å¼•å· ''
+	1. ä»…èƒ½æ˜¯ä¸€èˆ¬å­—ç¬¦ ï¼Œè€Œä¸ä¼šæœ‰ç‰¹æ®Šç¬¦å·ã€‚ä¸ä¼šå°†å¼•å·å†…çš„å†…å®¹åƒå˜é‡ä¸€ç±»çš„è¿›è¡Œè½¬æ¢
 
-* Ë«ÒıºÅ ""
-	1. ÒıÓÃÊ±¿ÉÒÔ±£ÓĞ±äÁ¿µÄÄÚÈİ
+* åŒå¼•å· ""
+	1. å¼•ç”¨æ—¶å¯ä»¥ä¿æœ‰å˜é‡çš„å†…å®¹
 ```console
 export filename=AAA
 echo "$filename"=BBB
@@ -220,104 +220,104 @@ AAA=BBB
 $filename=AAA
 ```
 
-### ÊıÖµ±È½Ï
+### æ•°å€¼æ¯”è¾ƒ
 ```console
-# ¹Ø¼üÒªµã£º
-# 1. Ê¹ÓÃµ¥¸öµÈºÅ
-# 2. ×¢Òâµ½µÈºÅÁ½±ß¸÷ÓĞÒ»¸ö¿Õ¸ñ,ÕâÊÇunix shellµÄÒªÇó
-# 3. ×¢Òâµ½"$test"x×îºóµÄx, ÕâÊÇÌØÒâ°²ÅÅµÄ£¬ÒòÎªµ±$testÎª¿ÕµÄÊ±ºò£¬
-#    ÉÏÃæµÄ±í´ïÊ½¾Í±ä³ÉÁËx = testx£¬ÏÔÈ»ÊÇ²»ÏàµÈµÄ¡£¶øÈç¹ûÃ»ÓĞÕâ¸öx£¬
-#    ±í´ïÊ½¾Í»á±¨´í£º[: =: unary operator expected
-#    ¶şÔª±È½Ï²Ù×÷·û,±È½Ï±äÁ¿»òÕß±È½ÏÊı×Ö.×¢ÒâÊı×ÖÓë×Ö·û´®µÄÇø±ğ.
+# å…³é”®è¦ç‚¹ï¼š
+# 1. ä½¿ç”¨å•ä¸ªç­‰å·
+# 2. æ³¨æ„åˆ°ç­‰å·ä¸¤è¾¹å„æœ‰ä¸€ä¸ªç©ºæ ¼,è¿™æ˜¯unix shellçš„è¦æ±‚
+# 3. æ³¨æ„åˆ°"$test"xæœ€åçš„x, è¿™æ˜¯ç‰¹æ„å®‰æ’çš„ï¼Œå› ä¸ºå½“$testä¸ºç©ºçš„æ—¶å€™ï¼Œ
+#    ä¸Šé¢çš„è¡¨è¾¾å¼å°±å˜æˆäº†x = testxï¼Œæ˜¾ç„¶æ˜¯ä¸ç›¸ç­‰çš„ã€‚è€Œå¦‚æœæ²¡æœ‰è¿™ä¸ªxï¼Œ
+#    è¡¨è¾¾å¼å°±ä¼šæŠ¥é”™ï¼š[: =: unary operator expected
+#    äºŒå…ƒæ¯”è¾ƒæ“ä½œç¬¦,æ¯”è¾ƒå˜é‡æˆ–è€…æ¯”è¾ƒæ•°å­—.æ³¨æ„æ•°å­—ä¸å­—ç¬¦ä¸²çš„åŒºåˆ«.
 if [ "$test"x = "test"x ]; then
 ```
 
-* ÕûÊı±È½Ï
+* æ•´æ•°æ¯”è¾ƒ
 ```console
-# µÈÓÚ -eq
+# ç­‰äº -eq
 if [ "$a" -eq "$b" ]
 
-# ²»µÈÓÚ -ne 
+# ä¸ç­‰äº -ne 
 if [ "$a" -ne "$b" ]
 
-# ´óÓÚ -gt
+# å¤§äº -gt
 if [ "$a" -gt "$b" ]
 	   
-# ´óÓÚµÈÓÚ -ge 
+# å¤§äºç­‰äº -ge 
 if [ "$a" -ge "$b" ]
 
-#Ğ¡ÓÚ -lt  
+#å°äº -lt  
 if [ "$a" -lt "$b" ]
 
-# Ğ¡ÓÚµÈÓÚ -le  
+# å°äºç­‰äº -le  
 if [ "$a" -le "$b" ]
 
-# Ğ¡ÓÚ(ĞèÒªË«À¨ºÅ) <  
+# å°äº(éœ€è¦åŒæ‹¬å·) <  
 (("$a" < "$b"))
 
-# Ğ¡ÓÚµÈÓÚ(ĞèÒªË«À¨ºÅ) <=  
+# å°äºç­‰äº(éœ€è¦åŒæ‹¬å·) <=  
 (("$a" <= "$b"))
 
-# ´óÓÚ(ĞèÒªË«À¨ºÅ) > 
+# å¤§äº(éœ€è¦åŒæ‹¬å·) > 
 (("$a" > "$b"))
 
-# ´óÓÚµÈÓÚ(ĞèÒªË«À¨ºÅ) >= 
+# å¤§äºç­‰äº(éœ€è¦åŒæ‹¬å·) >= 
 (("$a" >= "$b"))
 ```
 
-* ×Ö·û´®±È½Ï
+* å­—ç¬¦ä¸²æ¯”è¾ƒ
 ```console
-# Ï°¹ßÓÚÊ¹ÓÃ""À´²âÊÔ×Ö·û´®ÊÇÒ»ÖÖºÃÏ°¹ß
+# ä¹ æƒ¯äºä½¿ç”¨""æ¥æµ‹è¯•å­—ç¬¦ä¸²æ˜¯ä¸€ç§å¥½ä¹ æƒ¯
 
-# µ±Á½¸ö´®ÓĞÏàÍ¬ÄÚÈİ¡¢³¤¶ÈÊ±ÎªÕæ
-str1 = str2¡¡
+# å½“ä¸¤ä¸ªä¸²æœ‰ç›¸åŒå†…å®¹ã€é•¿åº¦æ—¶ä¸ºçœŸ
+str1 = str2ã€€
 
-# µ±´®str1ºÍstr2²»µÈÊ±ÎªÕæ
+# å½“ä¸²str1å’Œstr2ä¸ç­‰æ—¶ä¸ºçœŸ
 str1 != str2
 
-# µ±´®µÄ³¤¶È´óÓÚ0Ê±ÎªÕæ(´®·Ç¿Õ)
-# -n ×Ö·û´®²»Îª"null"
-# Ê¹ÓÃ-nÔÚ[]½á¹¹ÖĞ²âÊÔ±ØĞëÒªÓÃ""°Ñ±äÁ¿ÒıÆğÀ´
+# å½“ä¸²çš„é•¿åº¦å¤§äº0æ—¶ä¸ºçœŸ(ä¸²éç©º)
+# -n å­—ç¬¦ä¸²ä¸ä¸º"null"
+# ä½¿ç”¨-nåœ¨[]ç»“æ„ä¸­æµ‹è¯•å¿…é¡»è¦ç”¨""æŠŠå˜é‡å¼•èµ·æ¥
 -n str1
 
-# µ±´®µÄ³¤¶ÈÎª0Ê±ÎªÕæ(¿Õ´®)
-# -z ×Ö·û´®Îª"null" ¾ÍÊÇ³¤¶ÈÎª0
-# Ê¹ÓÃÒ»¸öÎ´±»""µÄ×Ö·û´®À´Ê¹ÓÃ ! -z
--z str1¡¡
+# å½“ä¸²çš„é•¿åº¦ä¸º0æ—¶ä¸ºçœŸ(ç©ºä¸²)
+# -z å­—ç¬¦ä¸²ä¸º"null" å°±æ˜¯é•¿åº¦ä¸º0
+# ä½¿ç”¨ä¸€ä¸ªæœªè¢«""çš„å­—ç¬¦ä¸²æ¥ä½¿ç”¨ ! -z
+-z str1ã€€
 
-# µ±´®str1Îª·Ç¿ÕÊ±ÎªÕæ
+# å½“ä¸²str1ä¸ºéç©ºæ—¶ä¸ºçœŸ
 str1
 
-# =  µÈÓÚ
+# =  ç­‰äº
 if [ "$a" = "$b" ]
 
-# ==  µÈÓÚ,Óë=µÈ¼Û
+# ==  ç­‰äº,ä¸=ç­‰ä»·
 if [ "$a" == "$b" ]
-# ×¢Òâ == µÄ¹¦ÄÜÔÚ [[]] ºÍ [] ÖĞµÄĞĞÎªÊÇ²»Í¬µÄ,ÈçÏÂ:
-# 1. [[ $a == z* ]]    Èç¹û$aÒÔ"z"¿ªÍ·(Ä£Ê½Æ¥Åä)ÄÇÃ´½«Îªtrue
-# 2. [[ $a == "z*" ]] Èç¹û$aµÈÓÚz*(×Ö·ûÆ¥Åä),ÄÇÃ´½á¹ûÎªtrue
-# 3. [ $a == z* ]      File globbing ºÍword splitting½«»á·¢Éú
-# 4. [ "$a" == "z*" ] Èç¹û$aµÈÓÚz*(×Ö·ûÆ¥Åä),ÄÇÃ´½á¹ûÎªtrue
-# ¹ØÓÚFile globbingÊÇÒ»ÖÖ¹ØÓÚÎÄ¼şµÄËÙ¼Ç·¨,±ÈÈç"*.c"¾ÍÊÇ,ÔÙÈç ~ Ò²ÊÇ.
-# µ«ÊÇfile globbing²¢²»ÊÇÑÏ¸ñµÄÕıÔò±í´ïÊ½,ËäÈ»¾ø´ó¶àÊıÇé¿öÏÂ½á¹¹±È½ÏÏñ.
+# æ³¨æ„ == çš„åŠŸèƒ½åœ¨ [[]] å’Œ [] ä¸­çš„è¡Œä¸ºæ˜¯ä¸åŒçš„,å¦‚ä¸‹:
+# 1. [[ $a == z* ]]    å¦‚æœ$aä»¥"z"å¼€å¤´(æ¨¡å¼åŒ¹é…)é‚£ä¹ˆå°†ä¸ºtrue
+# 2. [[ $a == "z*" ]] å¦‚æœ$aç­‰äºz*(å­—ç¬¦åŒ¹é…),é‚£ä¹ˆç»“æœä¸ºtrue
+# 3. [ $a == z* ]      File globbing å’Œword splittingå°†ä¼šå‘ç”Ÿ
+# 4. [ "$a" == "z*" ] å¦‚æœ$aç­‰äºz*(å­—ç¬¦åŒ¹é…),é‚£ä¹ˆç»“æœä¸ºtrue
+# å…³äºFile globbingæ˜¯ä¸€ç§å…³äºæ–‡ä»¶çš„é€Ÿè®°æ³•,æ¯”å¦‚"*.c"å°±æ˜¯,å†å¦‚ ~ ä¹Ÿæ˜¯.
+# ä½†æ˜¯file globbingå¹¶ä¸æ˜¯ä¸¥æ ¼çš„æ­£åˆ™è¡¨è¾¾å¼,è™½ç„¶ç»å¤§å¤šæ•°æƒ…å†µä¸‹ç»“æ„æ¯”è¾ƒåƒ.
 
-# != ²»µÈÓÚ
+# != ä¸ç­‰äº
 if [ "$a" != "$b" ]
-# Õâ¸ö²Ù×÷·û½«ÔÚ [[]] ½á¹¹ÖĞÊ¹ÓÃÄ£Ê½Æ¥Åä
+# è¿™ä¸ªæ“ä½œç¬¦å°†åœ¨ [[]] ç»“æ„ä¸­ä½¿ç”¨æ¨¡å¼åŒ¹é…
 
-# <  Ğ¡ÓÚ ÔÚASCII×ÖÄ¸Ë³ĞòÏÂ
+# <  å°äº åœ¨ASCIIå­—æ¯é¡ºåºä¸‹
 if [[ "$a" < "$b" ]]
-# ÔÚ [] ½á¹¹ÖĞ"<"ĞèÒª±»×ªÒå
+# åœ¨ [] ç»“æ„ä¸­"<"éœ€è¦è¢«è½¬ä¹‰
 if [ "$a" \< "$b" ]
 
-# >  ´óÓÚ ÔÚASCII×ÖÄ¸Ë³ĞòÏÂ
+# >  å¤§äº åœ¨ASCIIå­—æ¯é¡ºåºä¸‹
 if [[ "$a" > "$b" ]]
-# ÔÚ[]½á¹¹ÖĞ">"ĞèÒª±»×ªÒå
+# åœ¨[]ç»“æ„ä¸­">"éœ€è¦è¢«è½¬ä¹‰
 if [ "$a" \> "$b" ]
 ```
-### IF ¿ØÖÆÁ÷
+### IF æ§åˆ¶æµ
 ```console
-# *×¢Òâ* if ÓëºóÃæÀ¨ºÅÒªÓĞ¿Õ¸ñ£¬·ñÕß³ö´í if []; ·½À¨ºÅÓëÌõ¼şÇ°ºó¶¼ĞèÒª¿Õ¸ñ if [ "$user" = "root" ]£¬·ñÕßÒ²»á³ö´í
+# *æ³¨æ„* if ä¸åé¢æ‹¬å·è¦æœ‰ç©ºæ ¼ï¼Œå¦è€…å‡ºé”™ if []; æ–¹æ‹¬å·ä¸æ¡ä»¶å‰åéƒ½éœ€è¦ç©ºæ ¼ if [ "$user" = "root" ]ï¼Œå¦è€…ä¹Ÿä¼šå‡ºé”™
 if ....; then
 ....
 elif ....; then
@@ -336,23 +336,23 @@ echo second
 fi
 ```
 
-- ³£ÓÃÅĞ¶Ï
+- å¸¸ç”¨åˆ¤æ–­
 ```console
-# ÅĞ¶ÏÊÇ·ñÊÇÒ»¸öÎÄ¼ş
+# åˆ¤æ–­æ˜¯å¦æ˜¯ä¸€ä¸ªæ–‡ä»¶
 [ -f "somefile" ]
-# ÅĞ¶Ï/bin/lsÊÇ·ñ´æÔÚ²¢ÓĞ¿ÉÖ´ĞĞÈ¨ÏŞ
+# åˆ¤æ–­/bin/lsæ˜¯å¦å­˜åœ¨å¹¶æœ‰å¯æ‰§è¡Œæƒé™
 [ -x "/bin/ls" ] 
-# ÅĞ¶Ï$var±äÁ¿ÊÇ·ñÓĞÖµ
+# åˆ¤æ–­$varå˜é‡æ˜¯å¦æœ‰å€¼
 [ -n "$var" ] 
-# ÅĞ¶Ï$aºÍ$bÊÇ·ñÏàµÈ
+# åˆ¤æ–­$aå’Œ$bæ˜¯å¦ç›¸ç­‰
 [ "$a" = "$b" ] 
-# ×¢ÒâÖĞÀ¨ºÅÁ½±ß¶¼ÓĞÒ»¸ö¿Õ¸ñ£¬·ñÔòÖ´ĞĞ»á±¨ÃüÁîÕÒ²»µ½
+# æ³¨æ„ä¸­æ‹¬å·ä¸¤è¾¹éƒ½æœ‰ä¸€ä¸ªç©ºæ ¼ï¼Œå¦åˆ™æ‰§è¡Œä¼šæŠ¥å‘½ä»¤æ‰¾ä¸åˆ°
 ```
 
-### LOOP ¿ØÖÆÁ÷
+### LOOP æ§åˆ¶æµ
 + [for, while and until](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
 + Bash For Loop Examples[[1](https://www.cyberciti.biz/faq/bash-for-loop/), [2](https://www.garron.me/en/articles/bash-for-loop-examples.html)]
-+ Ñ­»·[[1](https://mp.weixin.qq.com/s/8ovegZAD2BPPApptEW5B8g), [2](https://mp.weixin.qq.com/s/n_mEWCrjTHU-k7kOMpjg1Q), [3](https://mp.weixin.qq.com/s/Y5-0PfkJJj7A-bhLHv4mEw)]
++ å¾ªç¯[[1](https://mp.weixin.qq.com/s/8ovegZAD2BPPApptEW5B8g), [2](https://mp.weixin.qq.com/s/n_mEWCrjTHU-k7kOMpjg1Q), [3](https://mp.weixin.qq.com/s/Y5-0PfkJJj7A-bhLHv4mEw)]
 ```console
 for i in {1..5}
 do
@@ -388,7 +388,7 @@ command2 on $OUTPUT
 commandN
 done
 ```
-»¹¿ÉÒÔ´«ÈëÑ­»·²ÎÊı
+è¿˜å¯ä»¥ä¼ å…¥å¾ªç¯å‚æ•°
 ```console
 # Use "$@" to represent all the arguments in test.sh
 for var in "$@"
@@ -402,7 +402,7 @@ sh test.sh 1 2 '3 4'
 3 4
 ```
 
-### Logical Ìõ¼ş
+### Logical æ¡ä»¶
 > [Link](http://www.geekpills.com/operating-system/linux/bash-and-or-operators)
 ```console
 # OR operator
@@ -414,8 +414,8 @@ sh test.sh 1 2 '3 4'
 ### Shell Example
 <div id = "exp1"></div>
 
-* »ã×ÜÈÕÖ¾      
-½Å±¾Ö´ĞĞºó½«Á½·ÖÖÓÄÚÈÕÖ¾µ¼³ö£¬Èç2019-10-31T09:24:27ÖÁ2019-10-31T09:26:27
+* æ±‡æ€»æ—¥å¿—      
+è„šæœ¬æ‰§è¡Œåå°†ä¸¤åˆ†é’Ÿå†…æ—¥å¿—å¯¼å‡ºï¼Œå¦‚2019-10-31T09:24:27è‡³2019-10-31T09:26:27
 ```console
 #!/bin/sh
 
@@ -430,26 +430,26 @@ cat /var/log/proton/nsxapi.log /var/log/cloudnet/nsx-ccp.log \
 
 <div id = "exp2"></div>
 
-* Éè¶¨ÍøÂçÅäÖÃ
+* è®¾å®šç½‘ç»œé…ç½®
 ```console
 #!/usr/bin/sh
-# 1.µÃµ½VMµÄguestinfoĞÅÏ¢
-# 2.¶Á³öip/netmask/default gateway
-# 3.È»ºóÉè¶¨µ½ÍøÂçÅäÖÃ
+# 1.å¾—åˆ°VMçš„guestinfoä¿¡æ¯
+# 2.è¯»å‡ºip/netmask/default gateway
+# 3.ç„¶åè®¾å®šåˆ°ç½‘ç»œé…ç½®
 
-#Éè¶¨±äÁ¿
+#è®¾å®šå˜é‡
 VMTOOL=/usr/bin/vmtoolsd
 VMINFO=/opt/controller/bin
 
-#Èç¹ûÒÑ¾­Ö´ĞĞ¹ı£¬ÔòÍË³ö
+#å¦‚æœå·²ç»æ‰§è¡Œè¿‡ï¼Œåˆ™é€€å‡º
 RESULT=`grep 'complete boot setting' $VMINFO/result.log`
 if [ "$RESULT" ]; then
 exit 0
 fi
 
-#³õÊ¼»¯logÎÄ¼ş
+#åˆå§‹åŒ–logæ–‡ä»¶
 echo 'controller boot result:' > $VMINFO/result.log
-#Ñ­»·»ñÈ¡ovfenv±äÁ¿£¬µÃµ½ÍË³öloop£¬·ñÔòsleep¼ÌĞøÑ­»·
+#å¾ªç¯è·å–ovfenvå˜é‡ï¼Œå¾—åˆ°é€€å‡ºloopï¼Œå¦åˆ™sleepç»§ç»­å¾ªç¯
 for try in {1..10}
 do
 OVF_ENV=`$VMTOOL --cmd 'info-get guestinfo.ovfenv'`
@@ -463,7 +463,7 @@ fi
 done
 
 $VMTOOL --cmd 'info-get guestinfo.ovfenv' > $VMINFO/vminfo.txt
-#¶ÁÈ¡±äÁ¿
+#è¯»å–å˜é‡
 VM_IP=`grep 'management_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
 VM_NETMASK=`grep 'netmask' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
 VM_GW=`grep 'gateway_ip' $VMINFO/vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'`
@@ -488,7 +488,7 @@ else
 echo "no valid gateway" >> $VMINFO/result.log
 fi
 
-#Éè¶¨Íø¿¨ip£¬Ôö¼ÓÍø¹ØÂ·ÓÉĞÅÏ¢
+#è®¾å®šç½‘å¡ipï¼Œå¢åŠ ç½‘å…³è·¯ç”±ä¿¡æ¯
 if [ "$VM_IP" ] && [ "$VM_NETMASK" ] && [ "$VM_GW" ]; then
 ifconfig eth0 $VM_IP netmask $VM_NETMASK
 route add default gw $VM_GW eth0
@@ -497,7 +497,7 @@ else
 exit 1
 fi
 
-#µ¼Èëpem¸ñÊ½Ö¤Êé
+#å¯¼å…¥pemæ ¼å¼è¯ä¹¦
 if [ "$API_KEY" ] && [ "$API_CERT" ]; then
 echo "transform pem cert to jks" >> $VMINFO/result.log
 echo -n "$API_KEY" | base64 -d > $VMINFO/controller.pem
@@ -521,12 +521,12 @@ echo "complete boot setting" >> $VMINFO/result.log
 <div id = "exp3"></div>
 
 * SSH+EXPECT    
-Í¨¹ıssh½øĞĞÔ¶³Ì½»»¥, ÅúÁ¿²Ù×÷Ê±ºò, ĞèÒª´¦ÀíÊäÈëµÃµ½Êä³öLinuxÆ½Ì¨ÉÏÓĞÒ»¸ö·½±ãµÄ
-ÃüÁîĞĞ´¦Àí¹¤¾ßexpect£¬ÕâÊÇÒ»¸ö¿É±à³ÌµÄ¹¤¾ß, Í¨¹ıÔ¤ÆÚ½á¹ûºÍ·¢ËÍÃüÁîÀ´²Ù×÷Ô¶³Ì»úÆ÷¡£    
-expect»ù±¾×é³É½á¹¹Îª¼¸²¿·Ö:       
-½âÊÍÉùÃ÷->spawn->expect->send->interact   
+é€šè¿‡sshè¿›è¡Œè¿œç¨‹äº¤äº’, æ‰¹é‡æ“ä½œæ—¶å€™, éœ€è¦å¤„ç†è¾“å…¥å¾—åˆ°è¾“å‡ºLinuxå¹³å°ä¸Šæœ‰ä¸€ä¸ªæ–¹ä¾¿çš„
+å‘½ä»¤è¡Œå¤„ç†å·¥å…·expectï¼Œè¿™æ˜¯ä¸€ä¸ªå¯ç¼–ç¨‹çš„å·¥å…·, é€šè¿‡é¢„æœŸç»“æœå’Œå‘é€å‘½ä»¤æ¥æ“ä½œè¿œç¨‹æœºå™¨ã€‚    
+expectåŸºæœ¬ç»„æˆç»“æ„ä¸ºå‡ éƒ¨åˆ†:       
+è§£é‡Šå£°æ˜->spawn->expect->send->interact   
 ```console
-# Ö¸¶¨½Å±¾½âÊÍÆ÷
+# æŒ‡å®šè„šæœ¬è§£é‡Šå™¨
 #!/usr/bin/expect -f    
 
 #Tells interpreter where the expect program is located.  
@@ -536,33 +536,33 @@ expect»ù±¾×é³É½á¹¹Îª¼¸²¿·Ö:
 #system and adjust the following line accordingly.
 #
 #
-#Á¬½ÓÔ¶¶Ë»úÆ÷
+#è¿æ¥è¿œç«¯æœºå™¨
 spawn ssh 192.168.1.4
 #
 #The first thing we should see is a User Name prompt
-#ÆÚÍûÊä³ö½á¹ûÎª login as:
+#æœŸæœ›è¾“å‡ºç»“æœä¸º login as:
 expect "login as:"    
 #
 #Send a valid username to the device
-#·¢ËÍÓÃ»§Ãû admin+»Ø³µ£¬Ä³Ğ©ÏµÍ³»Ø³µÊÇ\r
+#å‘é€ç”¨æˆ·å admin+å›è½¦ï¼ŒæŸäº›ç³»ç»Ÿå›è½¦æ˜¯\r
 send "admin\n"    
 #
 #The next thing we should see is a Password prompt
-#ÆÚÍûÊä³ö½á¹ûÎª password:
+#æœŸæœ›è¾“å‡ºç»“æœä¸º password:
 expect "password:"  
 #
 #Send a vaild password to the device
-#·¢ËÍÃÜÂë default+»Ø³µ
+#å‘é€å¯†ç  default+å›è½¦
 send "default\n"   
 #
 #If the device automatically assigns us to a priviledged 
 #level after successful logon,
 #then we should be at an enable prompt
-#ÆÚÍûÊä³ö½á¹ûÎª Last login:
+#æœŸæœ›è¾“å‡ºç»“æœä¸º Last login:
 expect "Last login:"  
 #
 #Exit out of the network device
-#·¢ËÍÍË³öÁ¬½Ó+»Ø³µ
+#å‘é€é€€å‡ºè¿æ¥+å›è½¦
 send "exit\n"   
 # 
 #The interact command is part of the expect script, which 
@@ -575,9 +575,9 @@ interact
 
 <div id = "exp4"></div>
 
-* bashÊäÈë²ÎÊı´¦Àí
+* bashè¾“å…¥å‚æ•°å¤„ç†
 	- [Special Shell Variables](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)
-	- [ÓÅÑÅµØ´¦Àíshell²ÎÊı](https://mp.weixin.qq.com/s/FNw574sOa5cVe4hsPhyWQw)
+	- [ä¼˜é›…åœ°å¤„ç†shellå‚æ•°](https://mp.weixin.qq.com/s/FNw574sOa5cVe4hsPhyWQw)
 	- parameter type
 	```console
 	# the name of the command executing
@@ -609,19 +609,19 @@ interact
 	$*  
 	```
 
-	- expect scriptµÄ²ÎÊı
-	Èç¹ûĞèÒªÍ¨¹ı½Å±¾ÊäÈë²ÎÊıÀ´½øĞĞexpect²Ù×÷£¬¿ÉÒÔÍ¨¹ıbash+expect½Å±¾·½Ê½£¬ÒòÎª
-    expect»ñµÃÍâ²¿²ÎÊı½Ï¸´ÔÓĞ©£¬ÈçÏÂÊµÏÖ    
+	- expect scriptçš„å‚æ•°
+	å¦‚æœéœ€è¦é€šè¿‡è„šæœ¬è¾“å…¥å‚æ•°æ¥è¿›è¡Œexpectæ“ä½œï¼Œå¯ä»¥é€šè¿‡bash+expectè„šæœ¬æ–¹å¼ï¼Œå› ä¸º
+    expectè·å¾—å¤–éƒ¨å‚æ•°è¾ƒå¤æ‚äº›ï¼Œå¦‚ä¸‹å®ç°    
 	```console
 	#!/usr/bin/sh
-	#For loopÀ´»ñÈ¡ÃüÁîĞĞ´«Èë»úÆ÷µØÖ·
+	#For loopæ¥è·å–å‘½ä»¤è¡Œä¼ å…¥æœºå™¨åœ°å€
 	for host in $@  
 	do
-		#±äÁ¿¿ÉÒÔÔÚË«ÒıºÅÖĞ±»½âÊÍ
+		#å˜é‡å¯ä»¥åœ¨åŒå¼•å·ä¸­è¢«è§£é‡Š
 		echo "Will check data in $host"  
-		#bashÖĞµ÷ÓÃexpect½Å±¾
+		#bashä¸­è°ƒç”¨expectè„šæœ¬
 		./check_ccp.sh $host   
-		#±äÁ¿²»ÄÜÔÚµ¥ÒıºÅÖĞ½âÊÍ
+		#å˜é‡ä¸èƒ½åœ¨å•å¼•å·ä¸­è§£é‡Š
 		echo 'End check data in' $host   
 	done
 
@@ -630,28 +630,28 @@ interact
 	set host [lindex $argv 0];  
 	spawn ssh admin@$host
 	expect "password"
-	#ÃÜÂëÖĞ$·ûºÅĞèÒª×ªÒå£¬·ñÔò½âÊÍÎª±äÁ¿
+	#å¯†ç ä¸­$ç¬¦å·éœ€è¦è½¬ä¹‰ï¼Œå¦åˆ™è§£é‡Šä¸ºå˜é‡
 	send "Defaultmm\$hd0w\n"  
 	expect "#"
 	send "top\n"
-	#µÈ´ıÁ½Ãë£¬»òÕßÍ¨¹ıÖ¸Áîset timeout 2
+	#ç­‰å¾…ä¸¤ç§’ï¼Œæˆ–è€…é€šè¿‡æŒ‡ä»¤set timeout 2
 	sleep 2   
 	expect "#"
 	send "exit\n"
 	interact
 
-	# ³¢ÊÔÁ¬½ÓÔ¶³ÌÖ÷»ú  ./connect.sh 192.168.0.1
+	# å°è¯•è¿æ¥è¿œç¨‹ä¸»æœº  ./connect.sh 192.168.0.1
 	#!/usr/bin/expect -f
-	# »ñÈ¡expect½Å±¾µÄµÚÒ»¸ö²ÎÊı 192.168.0.1
+	# è·å–expectè„šæœ¬çš„ç¬¬ä¸€ä¸ªå‚æ•° 192.168.0.1
 	set host [lindex $argv 0];  
 	spawn ssh admin@$host
-	# ĞèÒª´¦ÀíÊ×´ÎÁ¬½ÓºÍÔÙ´ÎÁ¬½ÓµÄif Ìõ¼ş
+	# éœ€è¦å¤„ç†é¦–æ¬¡è¿æ¥å’Œå†æ¬¡è¿æ¥çš„if æ¡ä»¶
 	expect {   
 	 "Are you sure you want to continue connecting (yes/no)?" {
 	  send "yes\n"
-	  # ±íÃ÷´ËÌõ¼şÍê³Éºó,¼ÌĞøºóĞøÆäËûÑ¡ÔñÌõ¼ş
-	  # Èçpassword Èç¹ûÃ»ÓĞexp_continueÔòÌø³ö
-	  # Ñ¡ÔñÌõ¼ş£¬Ö´ĞĞºóÃæÖ¸Áî
+	  # è¡¨æ˜æ­¤æ¡ä»¶å®Œæˆå,ç»§ç»­åç»­å…¶ä»–é€‰æ‹©æ¡ä»¶
+	  # å¦‚password å¦‚æœæ²¡æœ‰exp_continueåˆ™è·³å‡º
+	  # é€‰æ‹©æ¡ä»¶ï¼Œæ‰§è¡Œåé¢æŒ‡ä»¤
 	  exp_continue  
 	 }
 	 "password:" {
@@ -668,7 +668,7 @@ interact
 
 <div id = "exp5"></div>
 
-* ExpectÔ¶³Ì²Ù×÷    
+* Expectè¿œç¨‹æ“ä½œ    
 	Expect is a program that "talks" to other interactive programs according to a script.
 	Following the script, Expect knows what can be expected from a program and 
 	what the correct response should be. An interpreted language provides branching 
@@ -679,66 +679,66 @@ interact
 	Expectk is a mixture of Expect and Tk. It behaves just like Expect and Tk's 
 	wish. Expect can also be used directly in C or C++ (that is, without Tcl). 
 
-	ÄÜÓÃExpect×öÄÄĞ©ÊÂÇéÄØ£¬ÎÒ¾õµÃ×öĞ©¼òµ¥µ«ÓÖÖØ¸´µÄ¹¤×÷±È½ÏºÏÊÊ¡£
-	±ÈÈçËµµÇÂ¼Ô¶³ÌÖ÷»ú£¬²é¿´Ò»ÏÂ×´Ì¬µÈµÈ¡£ÒòÎªÃ¿¸öÖ÷»ú³ıÁËÃÜÂë²»Í¬£¬
-	ÆäËû¶¼²î²»¶à¡£¹é¼¯ÆğÀ´¾ÍÊÇÏàµ±ÓÚ×öÑ­»·²Ù×÷£¬Èç¹ûÊÇ¸ü¼Ó¸´ÔÓµÄ
-	°²×°Ğ¶ÔØÖ®Àà£¬¿ÉÄÜ¾ÍĞèÒªÍ¨¹ıchef£¬puppetÕâÀàµÄ¿ò¼Ü×ö¸üÈİÒ×¸üÁé»î¡£
+	èƒ½ç”¨Expectåšå“ªäº›äº‹æƒ…å‘¢ï¼Œæˆ‘è§‰å¾—åšäº›ç®€å•ä½†åˆé‡å¤çš„å·¥ä½œæ¯”è¾ƒåˆé€‚ã€‚
+	æ¯”å¦‚è¯´ç™»å½•è¿œç¨‹ä¸»æœºï¼ŒæŸ¥çœ‹ä¸€ä¸‹çŠ¶æ€ç­‰ç­‰ã€‚å› ä¸ºæ¯ä¸ªä¸»æœºé™¤äº†å¯†ç ä¸åŒï¼Œ
+	å…¶ä»–éƒ½å·®ä¸å¤šã€‚å½’é›†èµ·æ¥å°±æ˜¯ç›¸å½“äºåšå¾ªç¯æ“ä½œï¼Œå¦‚æœæ˜¯æ›´åŠ å¤æ‚çš„
+	å®‰è£…å¸è½½ä¹‹ç±»ï¼Œå¯èƒ½å°±éœ€è¦é€šè¿‡chefï¼Œpuppetè¿™ç±»çš„æ¡†æ¶åšæ›´å®¹æ˜“æ›´çµæ´»ã€‚
 	> [wiki](https://en.wikipedia.org/wiki/Expect)  
 	> [tips](https://www.pantz.org/software/expect/expect_examples_and_tips.html)
 
     * case1    
-    ÓĞ¼¸Ì¨Ô¶¶ËÖ÷»úÃ»ÓĞ´ò¿ªsshdµÄrootÓÃ»§µÇÂ¼È¨ÏŞ£¬ĞèÒªÊÖ¶¯´ò¿ª¡£   
-    Èç¹ûÒ»¸öÒ»¸öµÇÂ¼µÄ»°£¬ÄãĞèÒªÍ¨¹ıputtyµÇÂ¼Ã¿Ò»¸öÔ¶³Ì»úÆ÷£¬   
-    È»ºóĞŞ¸ÄsshÅäÖÃÎÄ¼ş£¬ÔÙÖØÆô¡£Õâ¸ö¹ı³Ì¿ÉÄÜĞèÒªÊı·ÖÖÓ£¬¶øÇÒ    
-    ºÜÂé·³ĞèÒª²»Í£ÊäÈëÃÜÂë¡£Èç¹ûÍ¨¹ıexpect½Å±¾£¬Ôò°ë·ÖÖÓ¿ÉÄÜ¾ÍÍê³ÉÁË¡£   
-    Ê×ÏÈ£¬Éè¼ÆÒ»¸öÑ­»·Ö´ĞĞµÄshell½Å±¾(ssh_open.sh)£¬remote»úÆ÷µØ    
-    Ö·Í¨¹ıÃüÁî²ÎÊı´«Èë
+    æœ‰å‡ å°è¿œç«¯ä¸»æœºæ²¡æœ‰æ‰“å¼€sshdçš„rootç”¨æˆ·ç™»å½•æƒé™ï¼Œéœ€è¦æ‰‹åŠ¨æ‰“å¼€ã€‚   
+    å¦‚æœä¸€ä¸ªä¸€ä¸ªç™»å½•çš„è¯ï¼Œä½ éœ€è¦é€šè¿‡puttyç™»å½•æ¯ä¸€ä¸ªè¿œç¨‹æœºå™¨ï¼Œ   
+    ç„¶åä¿®æ”¹sshé…ç½®æ–‡ä»¶ï¼Œå†é‡å¯ã€‚è¿™ä¸ªè¿‡ç¨‹å¯èƒ½éœ€è¦æ•°åˆ†é’Ÿï¼Œè€Œä¸”    
+    å¾ˆéº»çƒ¦éœ€è¦ä¸åœè¾“å…¥å¯†ç ã€‚å¦‚æœé€šè¿‡expectè„šæœ¬ï¼Œåˆ™åŠåˆ†é’Ÿå¯èƒ½å°±å®Œæˆäº†ã€‚   
+    é¦–å…ˆï¼Œè®¾è®¡ä¸€ä¸ªå¾ªç¯æ‰§è¡Œçš„shellè„šæœ¬(ssh_open.sh)ï¼Œremoteæœºå™¨åœ°    
+    å€é€šè¿‡å‘½ä»¤å‚æ•°ä¼ å…¥
     ```console
     #!/usr/bin/sh
-    #Ñ­»·»ñÈ¡´«Èë²ÎÊı
+    #å¾ªç¯è·å–ä¼ å…¥å‚æ•°
     for host in $@   
     do
         echo "Will open ssh in $host"
-        #É¾³ıÔ¶³Ì»úÆ÷±£´æÔÚ±¾»úµÄssh¹«Ô¿
+        #åˆ é™¤è¿œç¨‹æœºå™¨ä¿å­˜åœ¨æœ¬æœºçš„sshå…¬é’¥
         ssh-keygen -R $host  
-        #Ö´ĞĞexpect½Å±¾
+        #æ‰§è¡Œexpectè„šæœ¬
         ./open.sh $host   
         echo 'End ssh operation in' $host
     done
     ```
-    È»ºó£¬Éè¼ÆÒ»¸öExpect½Å±¾(open.sh)£¬µÇÂ¼Ô¶³ÌÖ÷»úĞŞ¸ÄsshµÄÈ¨ÏŞ
+    ç„¶åï¼Œè®¾è®¡ä¸€ä¸ªExpectè„šæœ¬(open.sh)ï¼Œç™»å½•è¿œç¨‹ä¸»æœºä¿®æ”¹sshçš„æƒé™
     ```console
     #!/usr/bin/expect -f  
-    # expect½Å±¾ºÍÆÕÍ¨shell²»Ò»Ñù£¬ĞèÒªÍ¨¹ıexpectÀ´½âÊÍ
-    # expectÖĞ¸³Öµ²Ù×÷£¬½«´«Èë½Å±¾µÄµÚÒ»¸ö²ÎÊı¸³Öµ¸ø±äÁ¿host
+    # expectè„šæœ¬å’Œæ™®é€šshellä¸ä¸€æ ·ï¼Œéœ€è¦é€šè¿‡expectæ¥è§£é‡Š
+    # expectä¸­èµ‹å€¼æ“ä½œï¼Œå°†ä¼ å…¥è„šæœ¬çš„ç¬¬ä¸€ä¸ªå‚æ•°èµ‹å€¼ç»™å˜é‡host
 
     set host [lindex $argv 0];
-    # expectÖĞ´´½¨Ò»¸öĞÂ½ø³ÌÀ´Ö´ĞĞsshµÇÂ¼
+    # expectä¸­åˆ›å»ºä¸€ä¸ªæ–°è¿›ç¨‹æ¥æ‰§è¡Œsshç™»å½•
     spawn ssh admin@$host
-	# expectÖĞµÈ´ı½á¹ûÊä³ö
+	# expectä¸­ç­‰å¾…ç»“æœè¾“å‡º
     expect {  
         "Are you sure you want to continue connecting (yes/no)?" {
-            # expectÖĞ´ïµ½Ìõ¼ş·¢ËÍ¸øÔ¶³Ì½»»¥ÊäÈë '\n'Ïëµ±»Ø³µ
+            # expectä¸­è¾¾åˆ°æ¡ä»¶å‘é€ç»™è¿œç¨‹äº¤äº’è¾“å…¥ '\n'æƒ³å½“å›è½¦
             send "yes\n"
-            # Èç¹û´ËÌõ¼şÖ´ĞĞÍê¼ÌĞøÖ´ĞĞºóÃæÌõ¼ş
+            # å¦‚æœæ­¤æ¡ä»¶æ‰§è¡Œå®Œç»§ç»­æ‰§è¡Œåé¢æ¡ä»¶
             exp_continue
         }
         "password:" {
-            # Èç¹û´ËÌõ¼şÖ´ĞĞÍêÖ±½ÓÌø³öµÈ´ıÊäÈë Èç¹ûÊÇ'$'·ûºÅĞèÒª×ªÒå£¬·ñÔò½âÊÍ³É±äÁ¿
+            # å¦‚æœæ­¤æ¡ä»¶æ‰§è¡Œå®Œç›´æ¥è·³å‡ºç­‰å¾…è¾“å…¥ å¦‚æœæ˜¯'$'ç¬¦å·éœ€è¦è½¬ä¹‰ï¼Œå¦åˆ™è§£é‡Šæˆå˜é‡
             send "Defaultca\$hc0w\n"
         }
         "Password:" {
             send "Defaultca\$hc0w\n"
         }
     }
-    # Ö´ĞĞµÈ´ı1Ãë
+    # æ‰§è¡Œç­‰å¾…1ç§’
     sleep 1
     expect "#"
     send "su\n"
     expect "password"
     send "lIfV+6sfh9uBNgt/nxkn\n"
     expect "root"
-    # Í¨¹ısedÌæ»»/etc/ssh/sshd_configÅäÖÃÎÄ¼şÖĞ'PermitRootLogin no'  'PermitRootLogin yes'
+    # é€šè¿‡sedæ›¿æ¢/etc/ssh/sshd_configé…ç½®æ–‡ä»¶ä¸­'PermitRootLogin no'  'PermitRootLogin yes'
     send "sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config\n"
     sleep 1
     send "service ssh restart\n"
@@ -747,30 +747,30 @@ interact
     expect "#"
     send "exit\n"
 
-    # ½«µ±Ç°½ø³Ì¿ØÖÆÈ¨·µ»Ø¸øÓÃ»§
+    # å°†å½“å‰è¿›ç¨‹æ§åˆ¶æƒè¿”å›ç»™ç”¨æˆ·
     interact
-    # ¹Ø±Õµ±Ç°½ø³ÌÁ¬½Ó
+    # å…³é—­å½“å‰è¿›ç¨‹è¿æ¥
     close
     ```
 
 	* case2    
-	ÁíÒ»¸ö³¡¾°£¬ÔÚÒ»Ì¨Ö÷»úÉÏ½øĞĞ²Ù×÷£¬È»ºóÈ¥ÁíÍâÖ÷»úÉÏ¼ì²é×´Ì¬±ä»¯£¬²¢ÇÒÏ£ÍûÄÜ¹»ÖØ¸´½øĞĞ¡£
-	Õâ¸öĞèÒªÓÃµÄexpectµÄ¸ß¼¶ÓÃ·¨£¬Ìõ¼şºÍÑ­»·
-		- if Ìõ¼şÅĞ¶Ï   
-		if ºóÃæÒªÓĞ¿Õ¸ñ£¬·ñÕß³ö´í; ²»ÓÃ£¨ £©À´°üº¬Ìõ¼ş£¬¶øÊÇ£û £ı<br> 
+	å¦ä¸€ä¸ªåœºæ™¯ï¼Œåœ¨ä¸€å°ä¸»æœºä¸Šè¿›è¡Œæ“ä½œï¼Œç„¶åå»å¦å¤–ä¸»æœºä¸Šæ£€æŸ¥çŠ¶æ€å˜åŒ–ï¼Œå¹¶ä¸”å¸Œæœ›èƒ½å¤Ÿé‡å¤è¿›è¡Œã€‚
+	è¿™ä¸ªéœ€è¦ç”¨çš„expectçš„é«˜çº§ç”¨æ³•ï¼Œæ¡ä»¶å’Œå¾ªç¯
+		- if æ¡ä»¶åˆ¤æ–­   
+		if åé¢è¦æœ‰ç©ºæ ¼ï¼Œå¦è€…å‡ºé”™; ä¸ç”¨ï¼ˆ ï¼‰æ¥åŒ…å«æ¡ä»¶ï¼Œè€Œæ˜¯ï½› ï½<br> 
 		if {$var == value} { } else { }
-		- loop Ñ­»·
-		Éè¶¨Ñ­»·±äÁ¿£¬Ìõ¼ş£¬¼ÆËãĞèÒª·ÖÈı¸ö£û £ı<br>
+		- loop å¾ªç¯
+		è®¾å®šå¾ªç¯å˜é‡ï¼Œæ¡ä»¶ï¼Œè®¡ç®—éœ€è¦åˆ†ä¸‰ä¸ªï½› ï½<br>
 		for {initialization} {conditions} {incrementation or decrementation} { ... }<br>
 		set count 5; while {$count > 0 } { puts "count : $count\n"; set count [expr $count-1]; }
 	```console
 	#!/usr/bin/expect -f
-	#Éè¶¨Ä¬ÈÏexpect³¬Ê±Îª5Ãë
+	#è®¾å®šé»˜è®¤expectè¶…æ—¶ä¸º5ç§’
 	set timeout 5 
 	for {set i 1} {$i < 4} {incr i 1} {
-	# Éè¶¨down±äÁ¿ÖµÎª1
+	# è®¾å®šdownå˜é‡å€¼ä¸º1
 	set down 1  
-	# ´òÓ¡ĞÅÏ¢
+	# æ‰“å°ä¿¡æ¯
 	puts "**************start loop $i cycle**********************  
 	spawn ssh root@192.163.255.202
 	sleep 3
@@ -778,23 +778,23 @@ interact
 	send "pwd\n"
 	sleep 2
 	expect "#"
-	# ¼ì²éÍø¿¨×´Ì¬
+	# æ£€æŸ¥ç½‘å¡çŠ¶æ€
 	send "ifconfig|grep eth2\n"    
 	sleep 1
 	expect {
 		"37" {
-			# Èç¹û´æÔÚÍø¿¨µÄmacÖµ£¬¾Í°ÑÍø¿¨¹Ø±Õ
+			# å¦‚æœå­˜åœ¨ç½‘å¡çš„macå€¼ï¼Œå°±æŠŠç½‘å¡å…³é—­
 			send "ifconfig eth2 down\n"  
 			set down 1
 		}
 		"#" {
-			# Èç¹ûÃ»ÓĞÍø¿¨µÄmacÖµ£¬¾Í°ÑÍø¿¨´ò¿ª
+			# å¦‚æœæ²¡æœ‰ç½‘å¡çš„macå€¼ï¼Œå°±æŠŠç½‘å¡æ‰“å¼€
 			send "ifconfig eth2 up\n"  
 			set down 0
 		}
 	}
 	sleep 1
-	# ¸ù¾İÌõ¼ş´òÓ¡
+	# æ ¹æ®æ¡ä»¶æ‰“å°
 	if {$down == 0} {  
 		puts "VM's nic up operation"
 	} else {
@@ -820,7 +820,7 @@ interact
 			puts "MAC add in ovsdb"
 			set broken 0
 		}
-		# quitÊÇ¸öÎŞĞ§ÃüÁî£¬»áµ¼ÖÂ³ö´íÖÕÖ¹½Å±¾Ö´ĞĞ
+		# quitæ˜¯ä¸ªæ— æ•ˆå‘½ä»¤ï¼Œä¼šå¯¼è‡´å‡ºé”™ç»ˆæ­¢è„šæœ¬æ‰§è¡Œ
 		if {$broken == 1} {quit}  
 	} else {
 		set stop 0
@@ -842,29 +842,29 @@ interact
 
 <div id = "exp6"></div>    
 
-* Update jarÎÄ¼ş²¢ÖØÆô·şÎñ     
-±àÒëÄ³Ğ©classÖ®ºóÌæ»»µ½¶ÔÓ¦µÄjar°üÖĞ£¬È»ºóÖØÆô·şÎñ
+* Update jaræ–‡ä»¶å¹¶é‡å¯æœåŠ¡     
+ç¼–è¯‘æŸäº›classä¹‹åæ›¿æ¢åˆ°å¯¹åº”çš„jaråŒ…ä¸­ï¼Œç„¶åé‡å¯æœåŠ¡
 ```console    
 #!/bin/sh
 
-# ÌáÊ¾Ö´ĞĞµÄÄ¿Â¼Î»ÖÃ
+# æç¤ºæ‰§è¡Œçš„ç›®å½•ä½ç½®
 echo "execute shell in" "$PWD"
 
-# shell±äÁ¿Ö»ÄÜÖ§³ÖÏÂ»®ÏßÁ¬½Ó£¬¼õºÅÁ¬½Ó»á½âÊÍÊ§°Ü
+# shellå˜é‡åªèƒ½æ”¯æŒä¸‹åˆ’çº¿è¿æ¥ï¼Œå‡å·è¿æ¥ä¼šè§£é‡Šå¤±è´¥
 java_adapter="/home/king/source/gitlab/java/adapter"
 destination="/home/king/source/gitlab/java/dist/old"
 cp $java_adapter/target/classes/com/example/mediator/Transaction.class $destination/com/example/mediator/ -v
 cp $java_adapter/target/classes/com/example/config/ConfigImpl.class $destination/com/example/config/ -v
 
-# ¸úĞÂjarÖ®Ç°¼ì²éÎÄ¼ş×´Ì¬
+# è·Ÿæ–°jarä¹‹å‰æ£€æŸ¥æ–‡ä»¶çŠ¶æ€
 echo "original adapter.jar"
 unzip -l ../adapter.jar | grep -E "(ConfigImpl|Transaction)"
 
-# ¸úĞÂjarÎÄ¼şÖ¸Áî
+# è·Ÿæ–°jaræ–‡ä»¶æŒ‡ä»¤
 zip -u ../adapter.jar com/example/config/ConfigImpl.class \
 com/example/mediator/Transaction.class
 
-# ¸úĞÂjarÖ®ºó¼ì²éÎÄ¼ş×´Ì¬
+# è·Ÿæ–°jarä¹‹åæ£€æŸ¥æ–‡ä»¶çŠ¶æ€
 echo "updated adapter.jar"
 unzip -l ../adapter.jar | grep -E "(ConfigImpl|Transaction)"
 
@@ -875,15 +875,15 @@ ssh root@$server service db-adapter restart
 
 <div id = "exp7"></div>  
 
-* ¸ù¾İÊäÈëÑ¡ÔñÖ´ĞĞ·ÖÖ§
+* æ ¹æ®è¾“å…¥é€‰æ‹©æ‰§è¡Œåˆ†æ”¯
 
-Ö´ĞĞremote.sh½Å±¾´«Èë²ÎÊı sh remote.sh root@10.92.176.78
+æ‰§è¡Œremote.shè„šæœ¬ä¼ å…¥å‚æ•° sh remote.sh root@10.92.176.78
 ```console
 server=$1
 scp restart.sh "$server:/root/"
 echo "continue(y/n)"
 read answer
-# shÓï·¨ÒªÇóÀ¨ºÅÓëÌõ¼şÇ°ºó¶¼ÒªÓĞ¿Õ¸ñ
+# shè¯­æ³•è¦æ±‚æ‹¬å·ä¸æ¡ä»¶å‰åéƒ½è¦æœ‰ç©ºæ ¼
 if [ $answer != "y" ]; then
     exit 1
 else
@@ -895,7 +895,7 @@ exit 0
 
 <div id = "exp8"></div>  
 
-* Ñ­»·¶ÁĞ´REST API,¼ÆËãÖ´ĞĞÊ±¼ä
+* å¾ªç¯è¯»å†™REST API,è®¡ç®—æ‰§è¡Œæ—¶é—´
 
 ```console
 #!/bin/sh
@@ -903,19 +903,19 @@ for i in {1..2}
 do
     echo "call $i times"
     start=`date +'%s'`
-	# ¶ÁÔ­¼ÇÂ¼Öµ
+	# è¯»åŸè®°å½•å€¼
     rev=`curl -i -k -u 'admin:password' 'https://10.92.250.101/api/v1/firewall/sections/ffffffff-8a04-4924-a5b4-54d30e81befe' | grep '_revision' | cut -d ":" -f 2`
     echo "revision=$rev"
     payload='{"id":"ffffffff-8a04-4924-a5b4-54d30e81befe","_revision":'$rev'}'
     echo $payload
 
-	# Ğ´ÈëĞÂÖµ
+	# å†™å…¥æ–°å€¼
     result=`curl -i -k -u 'admin:password' -X POST 'https://10.92.250.101/api/v1/firewall/sections/ffffffff-8a04-4924-a5b4-54d30e81befe?action=update_with_rules' -H "Content-Type: application/json" \
     --data "'$payload'" `
     echo $result
     end=`date +'%s'`
-	# ¼ÆËãÁ½´Î¶ÁĞ´µÄÊ±¼ä
-	# start/endÊÇ×÷Îª×Ö·û´®´¦ÀíµÄ£¬ÈôÒª½øĞĞÔËËã£¬shellĞèÒªÊ¹ÓÃ$(())
+	# è®¡ç®—ä¸¤æ¬¡è¯»å†™çš„æ—¶é—´
+	# start/endæ˜¯ä½œä¸ºå­—ç¬¦ä¸²å¤„ç†çš„ï¼Œè‹¥è¦è¿›è¡Œè¿ç®—ï¼Œshelléœ€è¦ä½¿ç”¨$(())
     duration=$(($end-$start))
     echo "call execution time $duration seconds"
 done
@@ -923,15 +923,15 @@ done
 
 <div id = "exp9"></div>  
 
-* ¸ù¾İ½Å±¾ÊäÈë²ÎÊıÑ­»·Ö´ĞĞ£¬[ÅĞ¶ÏÎÄ¼şÊÇ·ñ´æÔÚ](https://github.com/dylanaraps/pure-bash-bible#file-conditionals)
+* æ ¹æ®è„šæœ¬è¾“å…¥å‚æ•°å¾ªç¯æ‰§è¡Œï¼Œ[åˆ¤æ–­æ–‡ä»¶æ˜¯å¦å­˜åœ¨](https://github.com/dylanaraps/pure-bash-bible#file-conditionals)
 
-Ö´ĞĞremote.sh½Å±¾´«Èë²ÎÊı sh remote.sh 10.92.176.78 10.92.176.79 10.92.176.80
+æ‰§è¡Œremote.shè„šæœ¬ä¼ å…¥å‚æ•° sh remote.sh 10.92.176.78 10.92.176.79 10.92.176.80
 ```console
 #!/bin/sh
 
-# ¸Ä±äÖ´ĞĞÄ¿Â¼
+# æ”¹å˜æ‰§è¡Œç›®å½•
 cd lib/
-# °´´«Èë²ÎÊıÑ­»·Ö´ĞĞ
+# æŒ‰ä¼ å…¥å‚æ•°å¾ªç¯æ‰§è¡Œ
 for node in "$@"
 do
 	echo "/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/"
@@ -940,7 +940,7 @@ do
 	echo "/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/" 
 done
 
-# ¼ì²é±¾µØÎÄ¼şÊÇ·ñ´æÔÚ
+# æ£€æŸ¥æœ¬åœ°æ–‡ä»¶æ˜¯å¦å­˜åœ¨
 if [ -e "./deploy.jar.bak" ]; then
     cp -f deploy.jar.bak deploy.jar 
 else
@@ -951,12 +951,12 @@ fi
 
 <div id = "exp10"></div>  
 
-* ±àĞ´bashº¯Êı
-	+ [´¦Àíº¯Êı²ÎÊı](http://www.freeos.com/guides/lsst/advance01.html)
-	+ [¶¨Òåº¯Êı](https://mp.weixin.qq.com/s/-aFndwOUi95rEdYAciO57A)
+* ç¼–å†™bashå‡½æ•°
+	+ [å¤„ç†å‡½æ•°å‚æ•°](http://www.freeos.com/guides/lsst/advance01.html)
+	+ [å®šä¹‰å‡½æ•°](https://mp.weixin.qq.com/s/-aFndwOUi95rEdYAciO57A)
 ```console
 #!/bin/sh
-# ½Å±¾Ãû³Æ parameter.sh
+# è„šæœ¬åç§° parameter.sh
 
 echo 'start this shell'
 echo '$1'
@@ -965,18 +965,18 @@ echo $1
 
 resonate()
 {
-    # ´Ë´¦ $1 Îªº¯ÊıµÄinput²ÎÊı
+    # æ­¤å¤„ $1 ä¸ºå‡½æ•°çš„inputå‚æ•°
 	echo "Hello $1"
 	return
 }
 
-# shellÊÇtop-down±»½âÊÍÖ´ĞĞ£¬Òò´Ëº¯Êı±ØĞë¶¨ÒåÔÚµ÷ÓÃÇ°Ãæ
-# ·ñÔòÖ´ĞĞÌáÊ¾ÕÒ²»µ½ resonateÃüÁî´íÎó
+# shellæ˜¯top-downè¢«è§£é‡Šæ‰§è¡Œï¼Œå› æ­¤å‡½æ•°å¿…é¡»å®šä¹‰åœ¨è°ƒç”¨å‰é¢
+# å¦åˆ™æ‰§è¡Œæç¤ºæ‰¾ä¸åˆ° resonateå‘½ä»¤é”™è¯¯
 resonate
-# ´Ë´¦µ÷ÓÃº¯Êı´øÈë²ÎÊı World
+# æ­¤å¤„è°ƒç”¨å‡½æ•°å¸¦å…¥å‚æ•° World
 resonate World
 ```
-Ö´ĞĞ`sh parameter.sh Shell`, ½á¹ûÈçÏÂ
+æ‰§è¡Œ`sh parameter.sh Shell`, ç»“æœå¦‚ä¸‹
 ```console
 start this shell  //echo 'start this shell'
 $1    //echo '$1'

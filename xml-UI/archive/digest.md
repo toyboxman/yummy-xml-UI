@@ -10,150 +10,150 @@
 + [***Tools***](#tools)
 + [***Interview***](#interview)
 + [***System Monitor***](system-monitor/monitor.md)
-    - [NetDataĞÔÄÜ¼à¿Ø¹¤¾ß](https://mp.weixin.qq.com/s/Xlrp6LJ-2UY-EoQuAZjAaA)
-    - [·Ö²¼Ê½¸ú×Ù·½°¸(instrumentation¿â/tracer/·ÖÎö¹¤¾ß)](https://mp.weixin.qq.com/s/5J80CzoSoX8M3g96cOvKQw)
-    - [CPUÊ¹ÓÃÂÊµÍµ«¸ß¸ºÔØ](https://mp.weixin.qq.com/s/TQZ3anPiStzgI1B--uTGlQ)
-	- [CPUÊ¹ÓÃÂÊºÍÆ½¾ù¸ºÔØ](https://mp.weixin.qq.com/s/3I5kkNIGKkjQFazwvS4GIQ)
-    - [LinuxĞÔÄÜ·ÖÎö¹¤¾ßºÏ¼¯](https://mp.weixin.qq.com/s/eileWRLhdHgK_hHUHholtQ)
-    - [systemd-analyze·ÖÎöLinuxÆô¶¯Ê±¼ä](https://mp.weixin.qq.com/s/4Yc4s_fCyvuafJmBqFHK8g)
-	- [ARP¹¥»÷ºÍ·ÀÓù](https://mp.weixin.qq.com/s/jwGbMwbLz6PDauhecEFVYg)
-    - [Prometheus²È¿Ó¼¯½õ](https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw)
-    - [¼à¿ØÌåÏµË¼Î¬µ¼Í¼](https://mp.weixin.qq.com/s/4hZOlZrGV6f-AOIdIhcvYw)
+    - [NetDataæ€§èƒ½ç›‘æ§å·¥å…·](https://mp.weixin.qq.com/s/Xlrp6LJ-2UY-EoQuAZjAaA)
+    - [åˆ†å¸ƒå¼è·Ÿè¸ªæ–¹æ¡ˆ(instrumentationåº“/tracer/åˆ†æå·¥å…·)](https://mp.weixin.qq.com/s/5J80CzoSoX8M3g96cOvKQw)
+    - [CPUä½¿ç”¨ç‡ä½ä½†é«˜è´Ÿè½½](https://mp.weixin.qq.com/s/TQZ3anPiStzgI1B--uTGlQ)
+	- [CPUä½¿ç”¨ç‡å’Œå¹³å‡è´Ÿè½½](https://mp.weixin.qq.com/s/3I5kkNIGKkjQFazwvS4GIQ)
+    - [Linuxæ€§èƒ½åˆ†æå·¥å…·åˆé›†](https://mp.weixin.qq.com/s/eileWRLhdHgK_hHUHholtQ)
+    - [systemd-analyzeåˆ†æLinuxå¯åŠ¨æ—¶é—´](https://mp.weixin.qq.com/s/4Yc4s_fCyvuafJmBqFHK8g)
+	- [ARPæ”»å‡»å’Œé˜²å¾¡](https://mp.weixin.qq.com/s/jwGbMwbLz6PDauhecEFVYg)
+    - [Prometheusè¸©å‘é›†é”¦](https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw)
+    - [ç›‘æ§ä½“ç³»æ€ç»´å¯¼å›¾](https://mp.weixin.qq.com/s/4hZOlZrGV6f-AOIdIhcvYw)
 
 + ***Blockchain***
-    - [ÒÔÌ«·»¼ò½é](https://mp.weixin.qq.com/s/YmzAFTT5jjCCTnzp9VSCgw)   
-    - [Çø¿éÁ´¼¼ÊõÖ¸ÄÏ](https://yeasy.gitbooks.io/blockchain_guide/content/)
-    - ÖÇÄÜºÏÔ¼±àĞ´Ö®Solidity[[1](https://mp.weixin.qq.com/s/kyp71fpNnSO_Wuecfs-oBw), [2](https://mp.weixin.qq.com/s/EF3d5azqgXMy-30czZguhg)]
+    - [ä»¥å¤ªåŠç®€ä»‹](https://mp.weixin.qq.com/s/YmzAFTT5jjCCTnzp9VSCgw)   
+    - [åŒºå—é“¾æŠ€æœ¯æŒ‡å—](https://yeasy.gitbooks.io/blockchain_guide/content/)
+    - æ™ºèƒ½åˆçº¦ç¼–å†™ä¹‹Solidity[[1](https://mp.weixin.qq.com/s/kyp71fpNnSO_Wuecfs-oBw), [2](https://mp.weixin.qq.com/s/EF3d5azqgXMy-30czZguhg)]
 
 + ***Bench test***
-    - [Geekbench²âÊÔ²»Í¬¹«ÓĞÔÆ·şÎñ](https://www.ithome.com/0/431/894.htm)    
-    - [14ÖÖ¸ºÔØ²âÊÔ¹¤¾ß](https://mp.weixin.qq.com/s/WgaJQ6fpeOGEQdNseCRWbA)
-    - [Lighthouse×öÇ°¶ËĞÔÄÜ¼à¿ØÊµ¼ù](https://mp.weixin.qq.com/s/ZFjJkT9QwlDLiKWEi7XzzQ)
-    - [go/java/pythonĞ§ÂÊ²âÊÔ](https://mp.weixin.qq.com/s/d2dw2d-LLVT3DtgJOtdiag)
+    - [Geekbenchæµ‹è¯•ä¸åŒå…¬æœ‰äº‘æœåŠ¡](https://www.ithome.com/0/431/894.htm)    
+    - [14ç§è´Ÿè½½æµ‹è¯•å·¥å…·](https://mp.weixin.qq.com/s/WgaJQ6fpeOGEQdNseCRWbA)
+    - [Lighthouseåšå‰ç«¯æ€§èƒ½ç›‘æ§å®è·µ](https://mp.weixin.qq.com/s/ZFjJkT9QwlDLiKWEi7XzzQ)
+    - [go/java/pythonæ•ˆç‡æµ‹è¯•](https://mp.weixin.qq.com/s/d2dw2d-LLVT3DtgJOtdiag)
 
 + ***Resource***    
-    - [jayway¼¼Êõ²©¿Í](https://blog.jayway.com/)      
-    - [×ÊÔ´ÍøÕ¾¼¯ºÏ](https://mp.weixin.qq.com/s/gY9vL4Z5fwTpNJv_NswqNQ)  
-        `Gitlogs/DuckDuckGo/Ebooke/ÕıÔò±í´ïÊ½/ÎÄ¼ş×ª»»/webÉè¼ÆÀà¹¤¾ß`
+    - [jaywayæŠ€æœ¯åšå®¢](https://blog.jayway.com/)      
+    - [èµ„æºç½‘ç«™é›†åˆ](https://mp.weixin.qq.com/s/gY9vL4Z5fwTpNJv_NswqNQ)  
+        `Gitlogs/DuckDuckGo/Ebooke/æ­£åˆ™è¡¨è¾¾å¼/æ–‡ä»¶è½¬æ¢/webè®¾è®¡ç±»å·¥å…·`
 
 #### Linux
 + [Commands](Linux%20commands.md)
     - [Shell Programming](shell%20programming.md)
-    - [LinuxÎÊÌâ¹ÊÕÏ¶¨Î»](https://mp.weixin.qq.com/s/K2iByKPVJZZ4UfZhUwisiQ)  
-        `CPU/MEM/DISK/ÍøÂç/ÏµÍ³¸ºÔØ/»ğÑæÍ¼·ÖÎö¹¤¾ß`
-    - [Linux100ÎÊ](https://mp.weixin.qq.com/s/Y7_zYt2JoxhjTQhTCLBJOA)  
-        `²Ù×÷ÃüÁîÎÊÌâ`
-    - [ÏµÍ³¹ÜÀíÔ±24ÎÊ](https://mp.weixin.qq.com/s/T3RU8YkF-o4XY27WEjKsMA)  
-        `¹ÜÀíÃüÁîÎÊÌâ`
+    - [Linuxé—®é¢˜æ•…éšœå®šä½](https://mp.weixin.qq.com/s/K2iByKPVJZZ4UfZhUwisiQ)  
+        `CPU/MEM/DISK/ç½‘ç»œ/ç³»ç»Ÿè´Ÿè½½/ç«ç„°å›¾åˆ†æå·¥å…·`
+    - [Linux100é—®](https://mp.weixin.qq.com/s/Y7_zYt2JoxhjTQhTCLBJOA)  
+        `æ“ä½œå‘½ä»¤é—®é¢˜`
+    - [ç³»ç»Ÿç®¡ç†å‘˜24é—®](https://mp.weixin.qq.com/s/T3RU8YkF-o4XY27WEjKsMA)  
+        `ç®¡ç†å‘½ä»¤é—®é¢˜`
 + [Git](git%20commands.md)
-    - [GitLab½¨Á¢ºÍÍĞ¹ÜÍøÕ¾](https://mp.weixin.qq.com/s/NSUDid0i8xWDeDQlAxBZjg)
-    - [Git¹²ÏíÎÄ¼ş](https://mp.weixin.qq.com/s/maETLN2FFAmztBSCPbYIbg)
-    - [GitOps¹¤¾ß](https://mp.weixin.qq.com/s/mnnLseNv1onKgyyV-gcoYw)
-+ ¿ªÔ´¹¤¾ß
-    - [FFmpeg±à¼­ÊÓÆµ](ffmpeg.md)
+    - [GitLabå»ºç«‹å’Œæ‰˜ç®¡ç½‘ç«™](https://mp.weixin.qq.com/s/NSUDid0i8xWDeDQlAxBZjg)
+    - [Gitå…±äº«æ–‡ä»¶](https://mp.weixin.qq.com/s/maETLN2FFAmztBSCPbYIbg)
+    - [GitOpså·¥å…·](https://mp.weixin.qq.com/s/mnnLseNv1onKgyyV-gcoYw)
++ å¼€æºå·¥å…·
+    - [FFmpegç¼–è¾‘è§†é¢‘](ffmpeg.md)
     - [youtube-dl](https://mp.weixin.qq.com/s/MYawCBlC5MBZ7ghc27F8Ig)  
-        `ÃüÁîĞĞ¹¤¾ß£¬¿ÉÒÔ´ÓYouTubeºÍÆäËûÒ»Ğ©ÍøÕ¾ÏÂÔØÊÓÆµ`
-    - [´´½¨EPUBµç×ÓÊé](https://mp.weixin.qq.com/s/nCNzETj-LF1ZDgpLZu0c5Q)  
-        `calibre/ghostwriterºÍpandoc`
-    - Jenkins¹¹½¨CI/CD/DevOps[[1](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA), [2](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA), [3](https://mp.weixin.qq.com/s/Rnux4uL4IA0qFmBK-FimoA)]
-        - [ninja/make/bazelÔöÁ¿¹¹½¨·½Ê½](https://mp.weixin.qq.com/s/kGbimDS4gEkYIMr6US8g-A)
-    - [¿ª·¢¹ı³ÌÖĞ¿ªÔ´¹¤¾ß](https://mp.weixin.qq.com/s/_Cg1cwHgMXaOzwYQzwoTkQ)  
-        `tmate --Ğ­×÷±à³Ì¹²ÏíÖÕ¶Ë·ÃÎÊ`<br>
-        `asciinema --ÖÕ¶ËÂ¼ÖÆ¹¤¾ß`
-    - [pdftk²Ù×÷PDF](https://mp.weixin.qq.com/s/bq8m3akbF_im6RWulhIh_w)     
-    `JavaÊµÏÖ¹¤¾ß£¬´óÎÄ¼ş´¦Àí»áÅöµ½ÎÊÌâ¡£Ä³Ğ©¹¦ÄÜÒ²¿ÉÍ¨¹ıä¯ÀÀÆ÷´òÓ¡PDF·½Ê½ÊµÏÖ`
-    - [¿ªÔ´ËÑË÷ÒıÇæYaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)  
-        `ÅÀÈ¡Õ¾µã/ÄÚÍøËÑË÷`
-	- [Photoshop¿ªÔ´Ìæ´úÆ·](https://mp.weixin.qq.com/s/eoYGUqq-4wNQzxKUjdSWdQ)  
+        `å‘½ä»¤è¡Œå·¥å…·ï¼Œå¯ä»¥ä»YouTubeå’Œå…¶ä»–ä¸€äº›ç½‘ç«™ä¸‹è½½è§†é¢‘`
+    - [åˆ›å»ºEPUBç”µå­ä¹¦](https://mp.weixin.qq.com/s/nCNzETj-LF1ZDgpLZu0c5Q)  
+        `calibre/ghostwriterå’Œpandoc`
+    - Jenkinsæ„å»ºCI/CD/DevOps[[1](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA), [2](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA), [3](https://mp.weixin.qq.com/s/Rnux4uL4IA0qFmBK-FimoA)]
+        - [ninja/make/bazelå¢é‡æ„å»ºæ–¹å¼](https://mp.weixin.qq.com/s/kGbimDS4gEkYIMr6US8g-A)
+    - [å¼€å‘è¿‡ç¨‹ä¸­å¼€æºå·¥å…·](https://mp.weixin.qq.com/s/_Cg1cwHgMXaOzwYQzwoTkQ)  
+        `tmate --åä½œç¼–ç¨‹å…±äº«ç»ˆç«¯è®¿é—®`<br>
+        `asciinema --ç»ˆç«¯å½•åˆ¶å·¥å…·`
+    - [pdftkæ“ä½œPDF](https://mp.weixin.qq.com/s/bq8m3akbF_im6RWulhIh_w)     
+    `Javaå®ç°å·¥å…·ï¼Œå¤§æ–‡ä»¶å¤„ç†ä¼šç¢°åˆ°é—®é¢˜ã€‚æŸäº›åŠŸèƒ½ä¹Ÿå¯é€šè¿‡æµè§ˆå™¨æ‰“å°PDFæ–¹å¼å®ç°`
+    - [å¼€æºæœç´¢å¼•æ“YaCy](https://mp.weixin.qq.com/s/YdJhjI33F5Dui4TLC8gghg)  
+        `çˆ¬å–ç«™ç‚¹/å†…ç½‘æœç´¢`
+	- [Photoshopå¼€æºæ›¿ä»£å“](https://mp.weixin.qq.com/s/eoYGUqq-4wNQzxKUjdSWdQ)  
         `GIMP/Krita/Darktable/Inkscape`
-        - [GIMPÖÆ×÷GIF](https://mp.weixin.qq.com/s/WRybaajEUGyD1UuuyGBgaQ)
-        - [ImageMagickµÄdisplayÃüÁî´ÓÖÕ¶Ë²é¿´Í¼Ïñ](https://mp.weixin.qq.com/s/o1rjz5K4D4BGrHpGheB_Vw)
-    - [QEMUÄ£Äâ¿ª·¢°å](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)  
+        - [GIMPåˆ¶ä½œGIF](https://mp.weixin.qq.com/s/WRybaajEUGyD1UuuyGBgaQ)
+        - [ImageMagickçš„displayå‘½ä»¤ä»ç»ˆç«¯æŸ¥çœ‹å›¾åƒ](https://mp.weixin.qq.com/s/o1rjz5K4D4BGrHpGheB_Vw)
+    - [QEMUæ¨¡æ‹Ÿå¼€å‘æ¿](https://mp.weixin.qq.com/s/kQP7J_i0gw_wI_8RoRGNgQ)  
     - Ansible
-        - [Ê¹ÓÃAnsible°²×°Èí¼ş](https://mp.weixin.qq.com/s/VLSUyGTkYpRzMwBxoFMZCw)
-        - Ansible¹ÜÀí¹¤×÷Õ¾ÅäÖÃ[[**1**](https://mp.weixin.qq.com/s/iRHnwHX6ptkrgl9tw46oRw), [**2**](https://mp.weixin.qq.com/s/RDtJmQWCpR6sSv7jIi6nJA), [**3**](https://mp.weixin.qq.com/s/86MaptM3-ou6TKQjcuRArQ)]
-        - [AnsibleÍ¬²½GitHubºÍGitLab ](https://mp.weixin.qq.com/s/GYmTgfE9nlqw9X_eNGPoSQ)
-        - [AnsibleÌáÉı×Ô¶¯»¯¼¼ÇÉ](https://mp.weixin.qq.com/s/gsGUonyuVUmBXf4C-ALyVQ)
-+ Éè¼Æ·ÖÎö
-    - ²Ù×÷ÏµÍ³
-        - [²Ù×÷ÏµÍ³¸ÅÒª](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)  
-            `µ¥Ìå½á¹¹/·Ö²ãÏµÍ³/Î¢ÄÚºË`
-        - [¶ş½øÖÆÊÀ½ç](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)  
-            `¶ş½øÖÆÊıÖĞ±íÊ¾¸ºÊıÖµÊ±£¬Ò»°ã»á°Ñ×î¸ßÎ»×÷Îª·ûºÅÀ´Ê¹ÓÃ`<br>
-            `»ñµÃ²¹ÊıĞèÒª½«¶ş½øÖÆµÄ¸÷ÊıÎ»µÄÊıÖµÈ«²¿È¡·´£¬È»ºóÔÙ½«½á¹û+ 1¼´¿É`<br>
-            `Âß¼­ÔËËã ·Ç(NOT)/Óë(AND)/»ò(OR)/Òì»ò(XOR)`
-        - [LinuxÏµÍ³½á¹¹Ïê½â](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)  
-            `ÄÚºË/shell/ÎÄ¼şÏµÍ³/Ó¦ÓÃ³ÌĞò`
-        - [Linuxµ÷¶ÈÏµÍ³](https://mp.weixin.qq.com/s/A6WIAKDg5uJMBWc2q5CiRg)
-        - [LinuxÄÚºËµÄÎå´ó´´ĞÂ](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)  
-            `¿ØÖÆ×é(cgroups)¹¦ÄÜ/LinuxÄÚºËÄÚ´æ[Ò»ÖÂĞÔ]Ä£ĞÍ(LKMM)×ÓÏµÍ³/¶Á-¿½±´-¸üĞÂ(RCU)/·ÇÍ³Ò»ÄÚ´æ·ÃÎÊ(NUMA)`
-        - [±àÒëÔ­Àí](https://mp.weixin.qq.com/s/4KvNaO15-bdrp8rkkCUQuw)
-        - [IO»ù±¾¸ÅÄî](https://mp.weixin.qq.com/s/yrLGQMEdkVgmk8WgV-mTXw)  
-            `¿éÌØÊâÎÄ¼ş/×Ö·ûÌØÊâÎÄ¼ş/ÍøÂç`
-        - [BIOSÒıµ¼¼ÆËã»úµÄÆô¶¯¹ı³Ì](https://mp.weixin.qq.com/s/gVBb25EYL42VHZT-gGerWA)
-    - ÎÄ¼şÏµÍ³
-        - [ÎÄ¼şÏµÍ³¸ÅÒª](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
-        - LinuxÎÄ¼şÏµÍ³[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q), [3](https://mp.weixin.qq.com/s/yDpJc9WMAZX0jnceouy3GA)]
-        - [ÎÄ¼şÏµÍ³Óë³Ö¾ÃĞÔÄÚ´æ](https://mp.weixin.qq.com/s/VX3GOqLovf2riKx2IwuHtg)
-        - [ÎÄ¼ş¶ÁÈ¡¹ı³Ì](https://mp.weixin.qq.com/s/_pW0v7a7tKbGZpi3lRQVcw)
-        - [lsofÉîÈëÀí½âĞéÄâÎÄ¼şÏµÍ³](https://mp.weixin.qq.com/s/OSENnCexQlbXNVkF7lVzjw)
-        - [BtrfsºÍLVM-ext4²î±ğ](https://mp.weixin.qq.com/s/LJQDlJBJCZvU2K9ABBhR1w)
-    - ¼ÆËãÏµÍ³
-        - Âß¼­µçÂ·
-            - [Âß¼­ÃÅ/¶ş½øÖÆ¼Ó·¨»ú](https://mp.weixin.qq.com/s/wEvNo-iJJ17YBTq7xm4Akw)
-            - [²¹Âë](https://mp.weixin.qq.com/s/RVwRqcxSdP96dknUSmNTBg)
+        - [ä½¿ç”¨Ansibleå®‰è£…è½¯ä»¶](https://mp.weixin.qq.com/s/VLSUyGTkYpRzMwBxoFMZCw)
+        - Ansibleç®¡ç†å·¥ä½œç«™é…ç½®[[**1**](https://mp.weixin.qq.com/s/iRHnwHX6ptkrgl9tw46oRw), [**2**](https://mp.weixin.qq.com/s/RDtJmQWCpR6sSv7jIi6nJA), [**3**](https://mp.weixin.qq.com/s/86MaptM3-ou6TKQjcuRArQ)]
+        - [AnsibleåŒæ­¥GitHubå’ŒGitLab ](https://mp.weixin.qq.com/s/GYmTgfE9nlqw9X_eNGPoSQ)
+        - [Ansibleæå‡è‡ªåŠ¨åŒ–æŠ€å·§](https://mp.weixin.qq.com/s/gsGUonyuVUmBXf4C-ALyVQ)
++ è®¾è®¡åˆ†æ
+    - æ“ä½œç³»ç»Ÿ
+        - [æ“ä½œç³»ç»Ÿæ¦‚è¦](https://mp.weixin.qq.com/s/dsRGHHBZ-9VLlTJLClDT1g)  
+            `å•ä½“ç»“æ„/åˆ†å±‚ç³»ç»Ÿ/å¾®å†…æ ¸`
+        - [äºŒè¿›åˆ¶ä¸–ç•Œ](https://mp.weixin.qq.com/s/2WVZ9BAirdVIcLvaapKeNg)  
+            `äºŒè¿›åˆ¶æ•°ä¸­è¡¨ç¤ºè´Ÿæ•°å€¼æ—¶ï¼Œä¸€èˆ¬ä¼šæŠŠæœ€é«˜ä½ä½œä¸ºç¬¦å·æ¥ä½¿ç”¨`<br>
+            `è·å¾—è¡¥æ•°éœ€è¦å°†äºŒè¿›åˆ¶çš„å„æ•°ä½çš„æ•°å€¼å…¨éƒ¨å–åï¼Œç„¶åå†å°†ç»“æœ+ 1å³å¯`<br>
+            `é€»è¾‘è¿ç®— é(NOT)/ä¸(AND)/æˆ–(OR)/å¼‚æˆ–(XOR)`
+        - [Linuxç³»ç»Ÿç»“æ„è¯¦è§£](https://mp.weixin.qq.com/s/SrtlYVU0i3hCSjrHgxykwA)  
+            `å†…æ ¸/shell/æ–‡ä»¶ç³»ç»Ÿ/åº”ç”¨ç¨‹åº`
+        - [Linuxè°ƒåº¦ç³»ç»Ÿ](https://mp.weixin.qq.com/s/A6WIAKDg5uJMBWc2q5CiRg)
+        - [Linuxå†…æ ¸çš„äº”å¤§åˆ›æ–°](https://mp.weixin.qq.com/s/SxaDB2MoiPgybzpt4k9VWg)  
+            `æ§åˆ¶ç»„(cgroups)åŠŸèƒ½/Linuxå†…æ ¸å†…å­˜[ä¸€è‡´æ€§]æ¨¡å‹(LKMM)å­ç³»ç»Ÿ/è¯»-æ‹·è´-æ›´æ–°(RCU)/éç»Ÿä¸€å†…å­˜è®¿é—®(NUMA)`
+        - [ç¼–è¯‘åŸç†](https://mp.weixin.qq.com/s/4KvNaO15-bdrp8rkkCUQuw)
+        - [IOåŸºæœ¬æ¦‚å¿µ](https://mp.weixin.qq.com/s/yrLGQMEdkVgmk8WgV-mTXw)  
+            `å—ç‰¹æ®Šæ–‡ä»¶/å­—ç¬¦ç‰¹æ®Šæ–‡ä»¶/ç½‘ç»œ`
+        - [BIOSå¼•å¯¼è®¡ç®—æœºçš„å¯åŠ¨è¿‡ç¨‹](https://mp.weixin.qq.com/s/gVBb25EYL42VHZT-gGerWA)
+    - æ–‡ä»¶ç³»ç»Ÿ
+        - [æ–‡ä»¶ç³»ç»Ÿæ¦‚è¦](https://mp.weixin.qq.com/s/wi7-a84dYkke1Q8H83k02w)
+        - Linuxæ–‡ä»¶ç³»ç»Ÿ[[1](https://mp.weixin.qq.com/s/nA5Gedt7hY8K3WM7Oi8kpA), [2](https://mp.weixin.qq.com/s/SgdzBOzDCin71JHmTze-4Q), [3](https://mp.weixin.qq.com/s/yDpJc9WMAZX0jnceouy3GA)]
+        - [æ–‡ä»¶ç³»ç»Ÿä¸æŒä¹…æ€§å†…å­˜](https://mp.weixin.qq.com/s/VX3GOqLovf2riKx2IwuHtg)
+        - [æ–‡ä»¶è¯»å–è¿‡ç¨‹](https://mp.weixin.qq.com/s/_pW0v7a7tKbGZpi3lRQVcw)
+        - [lsofæ·±å…¥ç†è§£è™šæ‹Ÿæ–‡ä»¶ç³»ç»Ÿ](https://mp.weixin.qq.com/s/OSENnCexQlbXNVkF7lVzjw)
+        - [Btrfså’ŒLVM-ext4å·®åˆ«](https://mp.weixin.qq.com/s/LJQDlJBJCZvU2K9ABBhR1w)
+    - è®¡ç®—ç³»ç»Ÿ
+        - é€»è¾‘ç”µè·¯
+            - [é€»è¾‘é—¨/äºŒè¿›åˆ¶åŠ æ³•æœº](https://mp.weixin.qq.com/s/wEvNo-iJJ17YBTq7xm4Akw)
+            - [è¡¥ç ](https://mp.weixin.qq.com/s/RVwRqcxSdP96dknUSmNTBg)
         - [CPU](https://mp.weixin.qq.com/s/Mvq_YaB8zPYlDOXJwuZCyg)
-            - [CPU·ÃÎÊÓ²ÅÌºÜÂı](https://mp.weixin.qq.com/s/To_E-51Bb_2ol4t0WtspYg)
-            - [NUMA/UMAÓ°Ïì³ÌĞòµÄÑÓ³Ù](https://mp.weixin.qq.com/s/GZjugy6ANn6NaUuSZyL6PQ)
-            - [CPU¿ÕÏĞÊ±ÔÚ¸ÉÂï](https://mp.weixin.qq.com/s/xmoflmIRTCgbXLgMg1RJug)
-            - [Ğ´³öÈÃCPUÅÜµÃ¸ü¿ìµÄ´úÂë](https://mp.weixin.qq.com/s/0UhFA8y7KmEhzDAoMxiehA)  
-                `Ô½¿¿½üCPUºËĞÄµÄ»º´æÆä·ÃÎÊËÙ¶ÈÔ½¿ì£¬CPU·ÃÎÊ L1 CacheĞèÒª2~4¸öÊ±ÖÓÖÜÆÚ£¬L2 CacheĞèÒª10~20¸öÊ±ÖÓÖÜÆÚ£¬L3 CacheĞèÒª20~60¸öÊ±ÖÓÖÜÆÚ£¬¶ø·ÃÎÊÄÚ´æËÙ¶È´ó¸ÅÔÚ200~300¸öÊ±ÖÓÖÜÆÚ`
-            - [x86 LinuxÊµÏÖ10Î¢ÃëÎó²îµÄ¸ß¾«¶ÈÑÓÊ±](https://mp.weixin.qq.com/s/WRO-k1XReXd1V5Qn-Ah3tw)    
-        - Linux½ø³Ì
-            - ½ø³Ì×Ü½á[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
-                - [forkÔì³ÉµÄ´íÎó](https://mp.weixin.qq.com/s/GDkI1Cpl76Ew5f88b9MAzw)
-            - [½ø³ÌÓëÏß³ÌÍ¼½â](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
-                - [½ø³Ì/Ïß³ÌÇĞ»»¿ªÏú](https://mp.weixin.qq.com/s/zZbk9p-0HyICiFGDBaaRTw)
-            - [½ø³ÌÏß³ÌĞ­³ÌÌØµã](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
-            - ½ø³Ì¼äÍ¨ĞÅ-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
-    - [ÄÚ´æÏµÍ³](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
-        - [ÄÚ´æÖªÊ¶×Ü½á](https://mp.weixin.qq.com/s/IdqCXR4BrqjE0CFNEPKXrQ)
-        - [LinuxµÄÄÚ´æ¹ÜÀí](https://mp.weixin.qq.com/s/yDUyMxQdTlSLlPo-RGlnrg)
-        - [ĞéÄâÄÚ´æ](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
-        - [ÄÚ´æSwap/Cache/Buffer](https://mp.weixin.qq.com/s/23SETiyjJzVoW5NBuznwyQ)
-            - [ÎªÊ²Ã´LinuxĞèÒªSwapping](https://mp.weixin.qq.com/s/bgCRvenn6OcYXobzXtEwgQ)
-            - ÊÖ¶¯ÊÍ·ÅswapºÍbufferºÍcache[[1](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg), [2](https://mp.weixin.qq.com/s/g7-57hXD2Ivoyh6HvwxN6w)]
-        - [LinuxÕıÔÚ³ÔµôÄÚ´æ](https://mp.weixin.qq.com/s/rEUptpiQi9U4FifQa4KyuQ)
-        - [Linux UsedÄÚ´æÏê½â](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
-        - [Áã¿½±´¼¼Êõ](https://mp.weixin.qq.com/s/6RvOcduVpWTEwvulBMWiqQ)
-        - [LinuxÄ¬ÈÏÒ³´óĞ¡ÊÇ4KB](https://mp.weixin.qq.com/s/_xC98At-9y9wNEv1o4G7gg)
-            - [ÄÚºËÈçºÎÊ¹ÓÃÄÚ´æ](https://mp.weixin.qq.com/s/tCP6ixHIJWgrs3Hj5q1eBw)
-    - ÍøÂçÏµÍ³
-        - [¼ÆËã»úÍøÂç»ù´¡ÖªÊ¶](https://mp.weixin.qq.com/s/s_EeCQn6U57QpVXEqf_TjA)
-            - [Í¼ËµIP»ù´¡ÖªÊ¶](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
-            - [IOÄ£ĞÍBIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
-            - [vlan/Èı²ã½»»»»ú/Íø¹Ø/DNS/×ÓÍøÑÚÂë/MAC](https://mp.weixin.qq.com/s/73u2kO43gGp0BCHncQO0ng)
-        - [¸ßĞÔÄÜÍøÂç¼Ü¹¹](https://mp.weixin.qq.com/s/FnP_IARgpDcpefqEx931Lw)
-        - [frpÊµÏÖÄÚÍø·şÎñÆ÷´©Í¸](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
-        - [Socks5 ´úÀíĞ­ÒéÏê½â](https://mp.weixin.qq.com/s/Zc6QxCSt2yEuz1LoNj033Q)
-        - DNSÔ­Àí[[1](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg), [2](https://mp.weixin.qq.com/s/U6Jk54eix-VjWTUOlAZP3A)]
-        - [¸ºÔØ¾ùºâÈıÖÖÄ£ĞÍ(NAT/DR/TUN)](https://mp.weixin.qq.com/s/d74E2iF2RCJERmc_Fy4wFg)
-        - [IPv6ÄÑÒÔÈ¡´úIPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
-        - [TCPÒÉÄÑÔÓÖ¢](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
-            - [TCPĞ¹Â¶²Ù×÷ÏµÍ³ĞÅÏ¢](https://mp.weixin.qq.com/s/hQhL5uditC89-hBz9uIQ4g)
-        - [ĞéÄâÍøÂç](https://mp.weixin.qq.com/s/ihVGXk4-ZTgEozFMq7M7rg)
-        - [Linux·şÎñ¶Ë×î´ó²¢·¢ÊıÊÇ¶àÉÙ](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
-            - [Ò»Ì¨Linux·şÎñÆ÷×î¶àÄÜÖ§³Å¶àÉÙ¸öTCPÁ¬½Ó](https://mp.weixin.qq.com/s/u_n3OloVxvXFmEPO_g1Lrw)
-    - [¼ÆËãĞÍ´æ´¢](https://mp.weixin.qq.com/s/O8nR5bIPbMZO-UmBL7FrpA)  
+            - [CPUè®¿é—®ç¡¬ç›˜å¾ˆæ…¢](https://mp.weixin.qq.com/s/To_E-51Bb_2ol4t0WtspYg)
+            - [NUMA/UMAå½±å“ç¨‹åºçš„å»¶è¿Ÿ](https://mp.weixin.qq.com/s/GZjugy6ANn6NaUuSZyL6PQ)
+            - [CPUç©ºé—²æ—¶åœ¨å¹²å˜›](https://mp.weixin.qq.com/s/xmoflmIRTCgbXLgMg1RJug)
+            - [å†™å‡ºè®©CPUè·‘å¾—æ›´å¿«çš„ä»£ç ](https://mp.weixin.qq.com/s/0UhFA8y7KmEhzDAoMxiehA)  
+                `è¶Šé è¿‘CPUæ ¸å¿ƒçš„ç¼“å­˜å…¶è®¿é—®é€Ÿåº¦è¶Šå¿«ï¼ŒCPUè®¿é—® L1 Cacheéœ€è¦2~4ä¸ªæ—¶é’Ÿå‘¨æœŸï¼ŒL2 Cacheéœ€è¦10~20ä¸ªæ—¶é’Ÿå‘¨æœŸï¼ŒL3 Cacheéœ€è¦20~60ä¸ªæ—¶é’Ÿå‘¨æœŸï¼Œè€Œè®¿é—®å†…å­˜é€Ÿåº¦å¤§æ¦‚åœ¨200~300ä¸ªæ—¶é’Ÿå‘¨æœŸ`
+            - [x86 Linuxå®ç°10å¾®ç§’è¯¯å·®çš„é«˜ç²¾åº¦å»¶æ—¶](https://mp.weixin.qq.com/s/WRO-k1XReXd1V5Qn-Ah3tw)    
+        - Linuxè¿›ç¨‹
+            - è¿›ç¨‹æ€»ç»“[[1](https://mp.weixin.qq.com/s/10-LEUY6EeaplQvM_em4Ug), [2](https://mp.weixin.qq.com/s/Iad2alymvKutDYg6_qC79A)]
+                - [forké€ æˆçš„é”™è¯¯](https://mp.weixin.qq.com/s/GDkI1Cpl76Ew5f88b9MAzw)
+            - [è¿›ç¨‹ä¸çº¿ç¨‹å›¾è§£](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
+                - [è¿›ç¨‹/çº¿ç¨‹åˆ‡æ¢å¼€é”€](https://mp.weixin.qq.com/s/zZbk9p-0HyICiFGDBaaRTw)
+            - [è¿›ç¨‹çº¿ç¨‹åç¨‹ç‰¹ç‚¹](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
+            - è¿›ç¨‹é—´é€šä¿¡-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
+    - [å†…å­˜ç³»ç»Ÿ](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
+        - [å†…å­˜çŸ¥è¯†æ€»ç»“](https://mp.weixin.qq.com/s/IdqCXR4BrqjE0CFNEPKXrQ)
+        - [Linuxçš„å†…å­˜ç®¡ç†](https://mp.weixin.qq.com/s/yDUyMxQdTlSLlPo-RGlnrg)
+        - [è™šæ‹Ÿå†…å­˜](https://mp.weixin.qq.com/s/sLusVcUm9ZvLj5R0FfP5Ag)
+        - [å†…å­˜Swap/Cache/Buffer](https://mp.weixin.qq.com/s/23SETiyjJzVoW5NBuznwyQ)
+            - [ä¸ºä»€ä¹ˆLinuxéœ€è¦Swapping](https://mp.weixin.qq.com/s/bgCRvenn6OcYXobzXtEwgQ)
+            - æ‰‹åŠ¨é‡Šæ”¾swapå’Œbufferå’Œcache[[1](https://mp.weixin.qq.com/s/Fk8A5F_Eed9XuZgQdf4EFg), [2](https://mp.weixin.qq.com/s/g7-57hXD2Ivoyh6HvwxN6w)]
+        - [Linuxæ­£åœ¨åƒæ‰å†…å­˜](https://mp.weixin.qq.com/s/rEUptpiQi9U4FifQa4KyuQ)
+        - [Linux Usedå†…å­˜è¯¦è§£](https://mp.weixin.qq.com/s/h3M3ZkVJtEtRulBTyw2ODQ)
+        - [é›¶æ‹·è´æŠ€æœ¯](https://mp.weixin.qq.com/s/6RvOcduVpWTEwvulBMWiqQ)
+        - [Linuxé»˜è®¤é¡µå¤§å°æ˜¯4KB](https://mp.weixin.qq.com/s/_xC98At-9y9wNEv1o4G7gg)
+            - [å†…æ ¸å¦‚ä½•ä½¿ç”¨å†…å­˜](https://mp.weixin.qq.com/s/tCP6ixHIJWgrs3Hj5q1eBw)
+    - ç½‘ç»œç³»ç»Ÿ
+        - [è®¡ç®—æœºç½‘ç»œåŸºç¡€çŸ¥è¯†](https://mp.weixin.qq.com/s/s_EeCQn6U57QpVXEqf_TjA)
+            - [å›¾è¯´IPåŸºç¡€çŸ¥è¯†](https://mp.weixin.qq.com/s/iERtDElT8ud54p63pS1-vw)    
+            - [IOæ¨¡å‹BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
+            - [vlan/ä¸‰å±‚äº¤æ¢æœº/ç½‘å…³/DNS/å­ç½‘æ©ç /MAC](https://mp.weixin.qq.com/s/73u2kO43gGp0BCHncQO0ng)
+        - [é«˜æ€§èƒ½ç½‘ç»œæ¶æ„](https://mp.weixin.qq.com/s/FnP_IARgpDcpefqEx931Lw)
+        - [frpå®ç°å†…ç½‘æœåŠ¡å™¨ç©¿é€](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
+        - [Socks5 ä»£ç†åè®®è¯¦è§£](https://mp.weixin.qq.com/s/Zc6QxCSt2yEuz1LoNj033Q)
+        - DNSåŸç†[[1](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg), [2](https://mp.weixin.qq.com/s/U6Jk54eix-VjWTUOlAZP3A)]
+        - [è´Ÿè½½å‡è¡¡ä¸‰ç§æ¨¡å‹(NAT/DR/TUN)](https://mp.weixin.qq.com/s/d74E2iF2RCJERmc_Fy4wFg)
+        - [IPv6éš¾ä»¥å–ä»£IPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
+        - [TCPç–‘éš¾æ‚ç—‡](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
+            - [TCPæ³„éœ²æ“ä½œç³»ç»Ÿä¿¡æ¯](https://mp.weixin.qq.com/s/hQhL5uditC89-hBz9uIQ4g)
+        - [è™šæ‹Ÿç½‘ç»œ](https://mp.weixin.qq.com/s/ihVGXk4-ZTgEozFMq7M7rg)
+        - [LinuxæœåŠ¡ç«¯æœ€å¤§å¹¶å‘æ•°æ˜¯å¤šå°‘](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
+            - [ä¸€å°LinuxæœåŠ¡å™¨æœ€å¤šèƒ½æ”¯æ’‘å¤šå°‘ä¸ªTCPè¿æ¥](https://mp.weixin.qq.com/s/u_n3OloVxvXFmEPO_g1Lrw)
+    - [è®¡ç®—å‹å­˜å‚¨](https://mp.weixin.qq.com/s/O8nR5bIPbMZO-UmBL7FrpA)  
         `onload/offload/smartnic`
-    - [LinuxÔÄÂë³¡](https://mp.weixin.qq.com/s/bgNYCf25LfQer1j_5r7_hg)
-    - [LinuxÏµÍ³µ÷ÓÃÏê½â](https://mp.weixin.qq.com/s/Guny-z3QAqHF6xxeqgH5LA)
-    - [spinlock/rwlock/seqlockÔ­ÀíÆÊÎö](https://mp.weixin.qq.com/s/jOJL-7TSlgrX4f-1T_5Wvw)
+    - [Linuxé˜…ç åœº](https://mp.weixin.qq.com/s/bgNYCf25LfQer1j_5r7_hg)
+    - [Linuxç³»ç»Ÿè°ƒç”¨è¯¦è§£](https://mp.weixin.qq.com/s/Guny-z3QAqHF6xxeqgH5LA)
+    - [spinlock/rwlock/seqlockåŸç†å‰–æ](https://mp.weixin.qq.com/s/jOJL-7TSlgrX4f-1T_5Wvw)
 
 #### Programming
 + [***Github***](#github)
-    - [´úÂëÖÊÁ¿ÉóºËºÍ¹ÜÀí¹¤¾ß](https://mp.weixin.qq.com/s/DBTJ1tF9u9urwwe0CsgChQ)
-    - [´úÂëÖØ¹¹µÄÔ­ÔòºÍ¼¼ÇÉ](https://mp.weixin.qq.com/s/HlbURQBw35RUJOu5XEX9KA)
+    - [ä»£ç è´¨é‡å®¡æ ¸å’Œç®¡ç†å·¥å…·](https://mp.weixin.qq.com/s/DBTJ1tF9u9urwwe0CsgChQ)
+    - [ä»£ç é‡æ„çš„åŸåˆ™å’ŒæŠ€å·§](https://mp.weixin.qq.com/s/HlbURQBw35RUJOu5XEX9KA)
 + [***Java***](#java)
     - [Kotlin vs Java](https://mp.weixin.qq.com/s/wOUg-iuvjF4udlrXXIXlFA)
 + ***Scala***
@@ -165,468 +165,468 @@
 + ***Go***    
     - [basic](go/go-basic.md)
 + [***Rust***](https://mp.weixin.qq.com/s/JBlzMIhMa7TB5tHGSRhVkQ)
-    - [switch/ifelse´øÀ´µÄµÍĞ§ÂÊ](https://mp.weixin.qq.com/s/VX6lFEfc7AafCFePoq5laA)
+    - [switch/ifelseå¸¦æ¥çš„ä½æ•ˆç‡](https://mp.weixin.qq.com/s/VX6lFEfc7AafCFePoq5laA)
 + [***Socket***](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 + [***laTeX***](laTeX/laTeX.md)
-+ [***C++±àÒëÆ÷¹¤×÷Ô­Àí***](https://github.com/selfboot/CS_Offer/blob/master/C%2B%2B/Compiler.md)
-+ [ÒÀÀµ·´×ª/¿ØÖÆ·´×ª/ÒÀÀµ×¢Èë](https://mp.weixin.qq.com/s/IZXdP3yFww_2re3KYuZFXg)
++ [***C++ç¼–è¯‘å™¨å·¥ä½œåŸç†***](https://github.com/selfboot/CS_Offer/blob/master/C%2B%2B/Compiler.md)
++ [ä¾èµ–åè½¬/æ§åˆ¶åè½¬/ä¾èµ–æ³¨å…¥](https://mp.weixin.qq.com/s/IZXdP3yFww_2re3KYuZFXg)
 + ***Algorithm***
-    - [Ò»ÖÂĞÔ¹şÏ£Ëã·¨](https://mp.weixin.qq.com/s/rcSlMXDM8s7UiSh7UoPZxA)
-    - [×ÔÈ»ÓïÑÔ´¦ÀíNLP](https://mp.weixin.qq.com/s/K6h0duwaDMk5RES8ALmLNA)
-    - [ÍÆ¼öËã·¨Ô­Àí](https://mp.weixin.qq.com/s/c2nDkKvR7-10xcfv2fVNlg)
-	- [º£Á¿Êı¾İÖĞÅĞ¶ÏÒ»¸öÊı¾İÊÇ·ñ´æÔÚ](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
-    - [LRUËã·¨ºÍRedisµÄLRUÊµÏÖ](https://mp.weixin.qq.com/s/B0klxGGJkSvnP8Q6YDqaVA)
-	- [·Ö²¼Ê½Î¨Ò»IDÖ®SnowflakeËã·¨](https://mp.weixin.qq.com/s/4Vpnq7q6Rs8wCRyxNKKCoQ)
-    - [Ğ¡ÄÚ´æ´¦Àí´óÁ¿Êı¾İ](https://mp.weixin.qq.com/s/A8SYr8_b30d_KPhfejxRgQ)
-    - [Ñ¹ËõËã·¨](https://mp.weixin.qq.com/s/7FeEYfFlkE9qrhbnTjUvyg)
+    - [ä¸€è‡´æ€§å“ˆå¸Œç®—æ³•](https://mp.weixin.qq.com/s/rcSlMXDM8s7UiSh7UoPZxA)
+    - [è‡ªç„¶è¯­è¨€å¤„ç†NLP](https://mp.weixin.qq.com/s/K6h0duwaDMk5RES8ALmLNA)
+    - [æ¨èç®—æ³•åŸç†](https://mp.weixin.qq.com/s/c2nDkKvR7-10xcfv2fVNlg)
+	- [æµ·é‡æ•°æ®ä¸­åˆ¤æ–­ä¸€ä¸ªæ•°æ®æ˜¯å¦å­˜åœ¨](https://github.com/CyC2018/Backend-Interview-Guide/blob/master/doc/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%A4%E9%87%8D.md)
+    - [LRUç®—æ³•å’ŒRedisçš„LRUå®ç°](https://mp.weixin.qq.com/s/B0klxGGJkSvnP8Q6YDqaVA)
+	- [åˆ†å¸ƒå¼å”¯ä¸€IDä¹‹Snowflakeç®—æ³•](https://mp.weixin.qq.com/s/4Vpnq7q6Rs8wCRyxNKKCoQ)
+    - [å°å†…å­˜å¤„ç†å¤§é‡æ•°æ®](https://mp.weixin.qq.com/s/A8SYr8_b30d_KPhfejxRgQ)
+    - [å‹ç¼©ç®—æ³•](https://mp.weixin.qq.com/s/7FeEYfFlkE9qrhbnTjUvyg)
     - [PBFT-SBFT](https://ittaiab.github.io/2019-06-23-what-is-the-difference-between/)
-    - [Í¼½â»ùÊıÅÅĞò](https://mp.weixin.qq.com/s/FbBZotOtue3pB5BuWLa4ng)
-    - [Á´±í½âÌâ](https://mp.weixin.qq.com/s/_1Jcnww8cJfGklm2RMUj0g)
-    - [»ùÓÚDAGµÄÈÎÎñ±àÅÅ](https://mp.weixin.qq.com/s/5Bou4SM3iB6ouxFpHsd9bA)
-    - TCPÈı´ÎÎÕÊÖºÍËÄ´Î»ÓÊÖ[[1](https://mp.weixin.qq.com/s/RTIfYMGCyVT4RKFXz4O6vw), [2](https://mp.weixin.qq.com/s/GwlqtvJM7rvfqLzmCsYexA)]
-    - [¸¡µã¼ÆËã¾«¶È](https://mp.weixin.qq.com/s/0fke_MhsJ1lrQWOGdtyPlQ)
-    - [ÅÅĞòµÄ¸´ÔÓ¶È](https://mp.weixin.qq.com/s/Y3swfRwEyAi572ek5B870g)
-    - [ÎªÊ²Ã´²»ÄÜ³ıÒÔ0](https://mp.weixin.qq.com/s/YLp0ESj71KoOloUA5YzIzQ)
-    - [Èí¼şĞ§ÂÊ·ÖÎö×éÖ¯](http://sape.inf.usi.ch/)
+    - [å›¾è§£åŸºæ•°æ’åº](https://mp.weixin.qq.com/s/FbBZotOtue3pB5BuWLa4ng)
+    - [é“¾è¡¨è§£é¢˜](https://mp.weixin.qq.com/s/_1Jcnww8cJfGklm2RMUj0g)
+    - [åŸºäºDAGçš„ä»»åŠ¡ç¼–æ’](https://mp.weixin.qq.com/s/5Bou4SM3iB6ouxFpHsd9bA)
+    - TCPä¸‰æ¬¡æ¡æ‰‹å’Œå››æ¬¡æŒ¥æ‰‹[[1](https://mp.weixin.qq.com/s/RTIfYMGCyVT4RKFXz4O6vw), [2](https://mp.weixin.qq.com/s/GwlqtvJM7rvfqLzmCsYexA)]
+    - [æµ®ç‚¹è®¡ç®—ç²¾åº¦](https://mp.weixin.qq.com/s/0fke_MhsJ1lrQWOGdtyPlQ)
+    - [æ’åºçš„å¤æ‚åº¦](https://mp.weixin.qq.com/s/Y3swfRwEyAi572ek5B870g)
+    - [ä¸ºä»€ä¹ˆä¸èƒ½é™¤ä»¥0](https://mp.weixin.qq.com/s/YLp0ESj71KoOloUA5YzIzQ)
+    - [è½¯ä»¶æ•ˆç‡åˆ†æç»„ç»‡](http://sape.inf.usi.ch/)
 
 #### Web
 + HTTP/HTTPS
-    - [HTTP»ù´¡¸ÅÄî](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)  
-        `codes/header/°²È«/ÃİµÈ`
-        - [HTTPSÔ­Àí](https://mp.weixin.qq.com/s/v8vVLD4YNSi0yBf6fS_Utg)  
-            `Êı¾İ´«ÊäÓÃ¶Ô³Æ¼ÓÃÜ/CAÖ¤Êé/ÖĞ¼äÈË¹¥»÷`
+    - [HTTPåŸºç¡€æ¦‚å¿µ](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)  
+        `codes/header/å®‰å…¨/å¹‚ç­‰`
+        - [HTTPSåŸç†](https://mp.weixin.qq.com/s/v8vVLD4YNSi0yBf6fS_Utg)  
+            `æ•°æ®ä¼ è¾“ç”¨å¯¹ç§°åŠ å¯†/CAè¯ä¹¦/ä¸­é—´äººæ”»å‡»`
         - [HTTP Referer](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)
         - [HTTP guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
             `Mozilla MDN HTTP doc`
-    - [ä¯ÀÀÆ÷»º´æ»úÖÆ](https://mp.weixin.qq.com/s/LLJGZyYELj3ZqPPvSONa-g)  
-        `1.»º´æÊÇÖ¸web×ÊÔ´(html/Í¼Æ¬/js/Êı¾İµÈ)´æÔÚÓÚweb·şÎñÆ÷ºÍä¯ÀÀÆ÷Ö®¼äµÄ¸±±¾`  
-        `2.»º´æ²ßÂÔ¿ÉÒÔËõ¶ÌÍøÒ³ÇëÇó×ÊÔ´µÄ¾àÀë£¬¼õÉÙÑÓ³Ù£¬²¢ÇÒÓÉÓÚ»º´æÎÄ¼ş¿ÉÒÔÖØ¸´ÀûÓÃ£¬»¹¿ÉÒÔ¼õÉÙ´ø¿í£¬½µµÍÍøÂç¸ººÉ`
-    - [CDN¼ÓËÙÔ­Àí](https://mp.weixin.qq.com/s/DRQAVqCo87vST1DeDcyyBA)  
-        `(Content Delivery Network)ÄÚÈİ·Ö·¢ÍøÂç,¹¤×÷Ô­Àí¾ÍÊÇ½«Ô´Õ¾µÄ×ÊÔ´»º´æµ½Î»ÓÚÈ«Çò¸÷µØµÄCDN½ÚµãÉÏ£¬ÓÃ»§ÇëÇó×ÊÔ´Ê±¾Í½ü·µ»Ø»º´æµÄ×ÊÔ´£¬¶ø²»ĞèÒªÃ¿¸öÓÃ»§µÄÇëÇó¶¼»ØÔ´Õ¾»ñÈ¡£¬±£Ö¤ÓÃ»§·ÃÎÊ×ÊÔ´µÄËÙ¶ÈºÍÌåÑé`
+    - [æµè§ˆå™¨ç¼“å­˜æœºåˆ¶](https://mp.weixin.qq.com/s/LLJGZyYELj3ZqPPvSONa-g)  
+        `1.ç¼“å­˜æ˜¯æŒ‡webèµ„æº(html/å›¾ç‰‡/js/æ•°æ®ç­‰)å­˜åœ¨äºwebæœåŠ¡å™¨å’Œæµè§ˆå™¨ä¹‹é—´çš„å‰¯æœ¬`  
+        `2.ç¼“å­˜ç­–ç•¥å¯ä»¥ç¼©çŸ­ç½‘é¡µè¯·æ±‚èµ„æºçš„è·ç¦»ï¼Œå‡å°‘å»¶è¿Ÿï¼Œå¹¶ä¸”ç”±äºç¼“å­˜æ–‡ä»¶å¯ä»¥é‡å¤åˆ©ç”¨ï¼Œè¿˜å¯ä»¥å‡å°‘å¸¦å®½ï¼Œé™ä½ç½‘ç»œè´Ÿè·`
+    - [CDNåŠ é€ŸåŸç†](https://mp.weixin.qq.com/s/DRQAVqCo87vST1DeDcyyBA)  
+        `(Content Delivery Network)å†…å®¹åˆ†å‘ç½‘ç»œ,å·¥ä½œåŸç†å°±æ˜¯å°†æºç«™çš„èµ„æºç¼“å­˜åˆ°ä½äºå…¨çƒå„åœ°çš„CDNèŠ‚ç‚¹ä¸Šï¼Œç”¨æˆ·è¯·æ±‚èµ„æºæ—¶å°±è¿‘è¿”å›ç¼“å­˜çš„èµ„æºï¼Œè€Œä¸éœ€è¦æ¯ä¸ªç”¨æˆ·çš„è¯·æ±‚éƒ½å›æºç«™è·å–ï¼Œä¿è¯ç”¨æˆ·è®¿é—®èµ„æºçš„é€Ÿåº¦å’Œä½“éªŒ`
     - [Authentication](https://swagger.io/docs/specification/authentication/)
-        - [OAuth2.0µÄ¼òµ¥½éÉÜ](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
-        - [»ùÓÚtokenµÄ¶àÆ½Ì¨Éí·İÈÏÖ¤¼Ü¹¹Éè¼Æ](https://mp.weixin.qq.com/s/KWxE-GouTxJBB6Aj7Vxa1Q)
+        - [OAuth2.0çš„ç®€å•ä»‹ç»](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
+        - [åŸºäºtokençš„å¤šå¹³å°èº«ä»½è®¤è¯æ¶æ„è®¾è®¡](https://mp.weixin.qq.com/s/KWxE-GouTxJBB6Aj7Vxa1Q)
         - Basic Authentication  
-            `Ò»ÖÖ¼òµ¥µÄÄÚÖÃÓÚHTTPĞ­ÒéÖĞÈÏÖ¤°ì·¨.¿Í»§¶Ë·¢ËÍĞ¯´øAuthorization headerµÄHTTP requests£¬header°üº¬base64-encoded×Ö·û´®'username:password',ÈçÏÂÑùÊ½`
+            `ä¸€ç§ç®€å•çš„å†…ç½®äºHTTPåè®®ä¸­è®¤è¯åŠæ³•.å®¢æˆ·ç«¯å‘é€æºå¸¦Authorization headerçš„HTTP requestsï¼ŒheaderåŒ…å«base64-encodedå­—ç¬¦ä¸²'username:password',å¦‚ä¸‹æ ·å¼`
             ```
             Authorization: Basic ZGVtbzpwQDU1dzByZA==
             ```
-            `ÒòÎªbase64×Ö·û´®Ò×ÓÚ±»½âÂë,ÕâÖÖÈÏÖ¤ÊÚÈ¨·½Ê½Ó¦¸ÃÓëÆäËû°²È«»úÖÆÅäºÏÊ¹ÓÃ£¬ÈçHTTPS/SSL.`
+            `å› ä¸ºbase64å­—ç¬¦ä¸²æ˜“äºè¢«è§£ç ,è¿™ç§è®¤è¯æˆæƒæ–¹å¼åº”è¯¥ä¸å…¶ä»–å®‰å…¨æœºåˆ¶é…åˆä½¿ç”¨ï¼Œå¦‚HTTPS/SSL.`
 
         - Bearer Authentication  
-            `³ÆÎªtoken authentication£¬ÊÇ°üº¬°²È«ÁîÅÆ(bearer tokens)µÄHTTPÈÏÖ¤·½·¨. Ãû×ÖÒâË¼¾ÍÊÇ¡°¸³ÓèÁîÅÆĞ¯´øÕß·ÃÎÊÈ¨¡± ÑùÊ½ÈçÏÂ`
+            `ç§°ä¸ºtoken authenticationï¼Œæ˜¯åŒ…å«å®‰å…¨ä»¤ç‰Œ(bearer tokens)çš„HTTPè®¤è¯æ–¹æ³•. åå­—æ„æ€å°±æ˜¯â€œèµ‹äºˆä»¤ç‰Œæºå¸¦è€…è®¿é—®æƒâ€ æ ·å¼å¦‚ä¸‹`
             ```
             Authorization: Bearer <token>
             ```
-            `ÁîÅÆÊÇ¼ÓÃÜ×Ö·û´®, ³£ÓÉserver¶Ë²úÉú£¬Í¨¹ılogin requestµÄresponse»Ø¸øclient. clientºóĞørequests±ØĞëÔÚAuthorization header´øÉÏ´Ëtoken,
-            ÓëBasic authenticationÏàËÆ, Bearer authenticationÒ²Ó¦¸Ã½ö½öÓÃÔÚHTTPS (SSL)Ö®ÉÏ. `
-    - [HttpClientÁ¬½Ó³ØÉèÖÃÒı·¢µÄÒ»´ÎÑ©±À](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
-    - [¶ÌURL·şÎñµÄÉè¼ÆÒÔ¼°ÊµÏÖ](https://mp.weixin.qq.com/s/fWhiNsJXf1CVSi-EpjEndg)
+            `ä»¤ç‰Œæ˜¯åŠ å¯†å­—ç¬¦ä¸², å¸¸ç”±serverç«¯äº§ç”Ÿï¼Œé€šè¿‡login requestçš„responseå›ç»™client. clientåç»­requestså¿…é¡»åœ¨Authorization headerå¸¦ä¸Šæ­¤token,
+            ä¸Basic authenticationç›¸ä¼¼, Bearer authenticationä¹Ÿåº”è¯¥ä»…ä»…ç”¨åœ¨HTTPS (SSL)ä¹‹ä¸Š. `
+    - [HttpClientè¿æ¥æ± è®¾ç½®å¼•å‘çš„ä¸€æ¬¡é›ªå´©](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
+    - [çŸ­URLæœåŠ¡çš„è®¾è®¡ä»¥åŠå®ç°](https://mp.weixin.qq.com/s/fWhiNsJXf1CVSi-EpjEndg)
 + Nginx
-    - [¼«¼ò½Ì³Ì](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
-    - [NginxÄÜ×öÊ²Ã´](https://mp.weixin.qq.com/s/OcdkQeP6HbWSYKZfhe03yw)  
-        `·´Ïò´úÀí/¸ºÔØ¾ùºâ/HTTP·şÎñÆ÷(°üº¬¶¯¾²·ÖÀë)/ÕıÏò´úÀí`
-    - ¼Ü¹¹Éè¼Æ[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw), [3](https://mp.weixin.qq.com/s/fTRlEkBSgpm0suIICsG_iQ)]
-    - [·´Ïò´úÀí](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
-    - [ÈÕÖ¾¼à¿Ø](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
-    - [KongÌæ»»ÏÖÓĞµÄNginx](https://mp.weixin.qq.com/s/hRVtQVNrVgTzkm65b7A2Dw)  
-        `1.BFF(Backend For Frontend)¾ÛºÏ²ã: ½«ºó¶ËÎ¢·şÎñÊÊÅäµ½²»Í¬Ç°¶Ë`<br>
-        `2.SidecarÓ¦ÓÃ²ãÍø¹Ø£¬ÊµÏÖÒì¹¹ÓïÑÔµÄ·şÎñ×¢²áºÍ·¢ÏÖ£¬ÒÔ¼°ÈÛ¶ÏÏŞÁ÷¹¦ÄÜ`
-+ [WebÇ°¶ËÑ§Ï°Í¼ÎÄ½Ì³Ì](https://github.com/qianguyihao/Web)
-    - [Ç°¶Ë¿ª·¢20Äê±äÇ¨Ê·](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
-    - Ç°¶ËÑùÀı´úÂë[[1](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew), [2](https://mp.weixin.qq.com/s/Tqqkn56C-S3jXe5Wqwuq8g)]
+    - [æç®€æ•™ç¨‹](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
+    - [Nginxèƒ½åšä»€ä¹ˆ](https://mp.weixin.qq.com/s/OcdkQeP6HbWSYKZfhe03yw)  
+        `åå‘ä»£ç†/è´Ÿè½½å‡è¡¡/HTTPæœåŠ¡å™¨(åŒ…å«åŠ¨é™åˆ†ç¦»)/æ­£å‘ä»£ç†`
+    - æ¶æ„è®¾è®¡[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw), [3](https://mp.weixin.qq.com/s/fTRlEkBSgpm0suIICsG_iQ)]
+    - [åå‘ä»£ç†](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
+    - [æ—¥å¿—ç›‘æ§](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
+    - [Kongæ›¿æ¢ç°æœ‰çš„Nginx](https://mp.weixin.qq.com/s/hRVtQVNrVgTzkm65b7A2Dw)  
+        `1.BFF(Backend For Frontend)èšåˆå±‚: å°†åç«¯å¾®æœåŠ¡é€‚é…åˆ°ä¸åŒå‰ç«¯`<br>
+        `2.Sidecaråº”ç”¨å±‚ç½‘å…³ï¼Œå®ç°å¼‚æ„è¯­è¨€çš„æœåŠ¡æ³¨å†Œå’Œå‘ç°ï¼Œä»¥åŠç†”æ–­é™æµåŠŸèƒ½`
++ [Webå‰ç«¯å­¦ä¹ å›¾æ–‡æ•™ç¨‹](https://github.com/qianguyihao/Web)
+    - [å‰ç«¯å¼€å‘20å¹´å˜è¿å²](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
+    - å‰ç«¯æ ·ä¾‹ä»£ç [[1](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew), [2](https://mp.weixin.qq.com/s/Tqqkn56C-S3jXe5Wqwuq8g)]
     - [Web API](https://mp.weixin.qq.com/s/PA_bzHByHkjhODwD5m80Xg)
-        - [ÍøµÀWeb API½Ì³Ì](https://wangdoc.com/webapi/)
+        - [ç½‘é“Web APIæ•™ç¨‹](https://wangdoc.com/webapi/)
     - Flutter
-        + [Ê¹ÓÃFlutter¿ª·¢WebÓ¦ÓÃ](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
-        + [Flutter¸»ÎÄ±¾·½°¸](https://mp.weixin.qq.com/s/uqxLb5ToMdi9sqL6gDRW_g)
+        + [ä½¿ç”¨Flutterå¼€å‘Webåº”ç”¨](https://mp.weixin.qq.com/s/91j3zgwSFUVSqnF7uq9ojQ)
+        + [Flutterå¯Œæ–‡æœ¬æ–¹æ¡ˆ](https://mp.weixin.qq.com/s/uqxLb5ToMdi9sqL6gDRW_g)
     - NodeJS
-        - [NodeJS´´½¨web·şÎñÆ÷Óë¿Í»§¶Ë](https://mp.weixin.qq.com/s/l2rQ9NyQMcP5t7z2qoCxmQ)
-        - [´î½¨Ò»¸önodeµÄAPI½Ó¿Ú·şÎñ](https://mp.weixin.qq.com/s/M7AOLgu-hTspie-B49o0Tg)
-        - [NodeJS½ø³ÌÓëÏß³Ì](https://mp.weixin.qq.com/s/N6Omr5HwSPl6JjE2ultoVg)
-    - [ECharts»æÖÆhtml¸´ÔÓÍ¼ĞÎ](https://mp.weixin.qq.com/s/6OmclOgP_Vaj36xbJhMxYA)
-        `EChartsÇ°¶ËÇ¿´óµÄÍ¼±íKÏßµÈ»æÖÆ¹¤¾ß`
-    - [Django±àĞ´Python Web API](https://mp.weixin.qq.com/s/XLBr2paFOlAtrij-VcFeFA)
-    - [FileSaver.js¿Í»§¶Ë±£´æÎÄ¼ş](https://mp.weixin.qq.com/s/EcoCQuSHluHyG0afb7-T1Q)  
-        `¿Í»§¶ËÉÏÉú³ÉÎÄ¼şµÄWebÓ¦ÓÃ³ÌĞò`
-    - [×ÖÌå¿â¼ÓÃÜÊı¾İ·´ÅÀ³æ](https://mp.weixin.qq.com/s/mqWKKh7-U15hm3zNEECl2w)
-    - [H5ÒÆ¶¯¶Ë¿ª·¢-µ¯³ö¼üÅÌ/ÏµÍ³µ÷ÓÃ](https://mp.weixin.qq.com/s/VmtMDQfroq-RtIJ_h4p5yg)
-    - [Ç°¶Ë»º´æserviceworker¸ÅÄî](https://mp.weixin.qq.com/s/9fmflZirWd7zGt-4-MzsvQ)
-    - [Scipio ERPµç×ÓÉÌÎñ¿ò¼Ü](https://mp.weixin.qq.com/s/vVQJ-K8vHv9vqn9XPSuhqQ)
-    - [ÊµÏÖloginÑéÖ¤Âë](https://mp.weixin.qq.com/s/9fu0u9sH-cU3KQfC3aBr-A)
-    - [ÍøÂç¹ã¸æÉÌµÄÏñËØ×·×Ù](https://mp.weixin.qq.com/s/Ua42bkLI2tK8zIWaRFNmYg)        
+        - [NodeJSåˆ›å»ºwebæœåŠ¡å™¨ä¸å®¢æˆ·ç«¯](https://mp.weixin.qq.com/s/l2rQ9NyQMcP5t7z2qoCxmQ)
+        - [æ­å»ºä¸€ä¸ªnodeçš„APIæ¥å£æœåŠ¡](https://mp.weixin.qq.com/s/M7AOLgu-hTspie-B49o0Tg)
+        - [NodeJSè¿›ç¨‹ä¸çº¿ç¨‹](https://mp.weixin.qq.com/s/N6Omr5HwSPl6JjE2ultoVg)
+    - [EChartsç»˜åˆ¶htmlå¤æ‚å›¾å½¢](https://mp.weixin.qq.com/s/6OmclOgP_Vaj36xbJhMxYA)
+        `EChartså‰ç«¯å¼ºå¤§çš„å›¾è¡¨Kçº¿ç­‰ç»˜åˆ¶å·¥å…·`
+    - [Djangoç¼–å†™Python Web API](https://mp.weixin.qq.com/s/XLBr2paFOlAtrij-VcFeFA)
+    - [FileSaver.jså®¢æˆ·ç«¯ä¿å­˜æ–‡ä»¶](https://mp.weixin.qq.com/s/EcoCQuSHluHyG0afb7-T1Q)  
+        `å®¢æˆ·ç«¯ä¸Šç”Ÿæˆæ–‡ä»¶çš„Webåº”ç”¨ç¨‹åº`
+    - [å­—ä½“åº“åŠ å¯†æ•°æ®åçˆ¬è™«](https://mp.weixin.qq.com/s/mqWKKh7-U15hm3zNEECl2w)
+    - [H5ç§»åŠ¨ç«¯å¼€å‘-å¼¹å‡ºé”®ç›˜/ç³»ç»Ÿè°ƒç”¨](https://mp.weixin.qq.com/s/VmtMDQfroq-RtIJ_h4p5yg)
+    - [å‰ç«¯ç¼“å­˜serviceworkeræ¦‚å¿µ](https://mp.weixin.qq.com/s/9fmflZirWd7zGt-4-MzsvQ)
+    - [Scipio ERPç”µå­å•†åŠ¡æ¡†æ¶](https://mp.weixin.qq.com/s/vVQJ-K8vHv9vqn9XPSuhqQ)
+    - [å®ç°loginéªŒè¯ç ](https://mp.weixin.qq.com/s/9fu0u9sH-cU3KQfC3aBr-A)
+    - [ç½‘ç»œå¹¿å‘Šå•†çš„åƒç´ è¿½è¸ª](https://mp.weixin.qq.com/s/Ua42bkLI2tK8zIWaRFNmYg)        
     - REST API
-        - [API¿ìËÙ¿ª·¢Æ½Ì¨Éè¼Æ](https://mp.weixin.qq.com/s/jbKzo0AWq6xYD-F5oxglEg)
-        - [REST API¹¤¾ß](https://mp.weixin.qq.com/s/-6zfrvJUnz9L8ueOrJi4-A)
-        - [REST APIÃæÁÙµÄ°²È«ÍşĞ²](https://mp.weixin.qq.com/s/l4lKz9DGRZB4zM-q1vOxOw)
-        - [Swagger¹ÜÀí½Ó¿ÚÎÄµµ ](https://mp.weixin.qq.com/s/YuanLc72625DwXo-sMSGuQ)
-    - [MVC/MVVMÄ£ĞÍ](https://mp.weixin.qq.com/s/Hi43vXv34ThiBa9r5TcE8w)
-    - [ChromeÇ°¶Ëµ÷ÊÔ](https://mp.weixin.qq.com/s/p9Y586_F7wwBnFkEztUtUw)
+        - [APIå¿«é€Ÿå¼€å‘å¹³å°è®¾è®¡](https://mp.weixin.qq.com/s/jbKzo0AWq6xYD-F5oxglEg)
+        - [REST APIå·¥å…·](https://mp.weixin.qq.com/s/-6zfrvJUnz9L8ueOrJi4-A)
+        - [REST APIé¢ä¸´çš„å®‰å…¨å¨èƒ](https://mp.weixin.qq.com/s/l4lKz9DGRZB4zM-q1vOxOw)
+        - [Swaggerç®¡ç†æ¥å£æ–‡æ¡£ ](https://mp.weixin.qq.com/s/YuanLc72625DwXo-sMSGuQ)
+    - [MVC/MVVMæ¨¡å‹](https://mp.weixin.qq.com/s/Hi43vXv34ThiBa9r5TcE8w)
+    - [Chromeå‰ç«¯è°ƒè¯•](https://mp.weixin.qq.com/s/p9Y586_F7wwBnFkEztUtUw)
     - [Server-side rendering](https://alligator.io/react/server-side-rendering/)
-    - [VueºÍTSµÄÒÆ¶¯¶ËÏîÄ¿ĞÄµÃ](https://mp.weixin.qq.com/s/4vZIGwiTcO7B4emUjf-M2Q)
-    - [Electron+Vue¿ª·¢¿çÆ½Ì¨×ÀÃæÓ¦ÓÃ](https://mp.weixin.qq.com/s/j9Ji8XEjNUQ80_fHI6la3A)
-    - [Ç°¶Ë¿ª·¢ÔÚÏß¹¤¾ßEnjoyCSS/Bit.dev](https://mp.weixin.qq.com/s/ZzRV5egWXe-DHVoKmwO_rA)
-    - ´ò°ü¸ñÊ½»¯
+    - [Vueå’ŒTSçš„ç§»åŠ¨ç«¯é¡¹ç›®å¿ƒå¾—](https://mp.weixin.qq.com/s/4vZIGwiTcO7B4emUjf-M2Q)
+    - [Electron+Vueå¼€å‘è·¨å¹³å°æ¡Œé¢åº”ç”¨](https://mp.weixin.qq.com/s/j9Ji8XEjNUQ80_fHI6la3A)
+    - [å‰ç«¯å¼€å‘åœ¨çº¿å·¥å…·EnjoyCSS/Bit.dev](https://mp.weixin.qq.com/s/ZzRV5egWXe-DHVoKmwO_rA)
+    - æ‰“åŒ…æ ¼å¼åŒ–
         + [Minification](https://en.wikipedia.org/wiki/Minification_(programming))  
-        `Ñ¹Ëõ´úÂë¸ñÊ½¼õÉÙ´«ÊäÊı¾İ`
+        `å‹ç¼©ä»£ç æ ¼å¼å‡å°‘ä¼ è¾“æ•°æ®`
         + [js/html beautifier](https://beautifier.io/)  
-        `ÔÚÏß¸ñÊ½»¯ÎÄ¼ş`
-        + [webpack³£ÓÃÅäÖÃ](https://mp.weixin.qq.com/s/SsiF2U4LrpnGb-k3KgAD6w)
-        + [webpack¸ß¼¶ÅäÖÃ](https://mp.weixin.qq.com/s/etFRqDtyjPB8icI7tMJPZA)
+        `åœ¨çº¿æ ¼å¼åŒ–æ–‡ä»¶`
+        + [webpackå¸¸ç”¨é…ç½®](https://mp.weixin.qq.com/s/SsiF2U4LrpnGb-k3KgAD6w)
+        + [webpacké«˜çº§é…ç½®](https://mp.weixin.qq.com/s/etFRqDtyjPB8icI7tMJPZA)
 + CSS
-    - CSS²¼¾ÖÖ¸ÄÏ[[1](https://mp.weixin.qq.com/s/gIRqOKZAYwRUxWvKXbTvig), [2](https://mp.weixin.qq.com/s/ljnqn8paEHIgShA3c-eoxw), [3](https://mp.weixin.qq.com/s/J80laygl2BsGSfU40AjXyw)]
-    - [CSSÑÛÇ°Ò»ÁÁµÄHOVERĞ§¹û](https://mp.weixin.qq.com/s/0cBdXuJdfPtx8NfP5aAs4g)
-	- Ç°¶Ë¿ªÔ´CSS¿â[[1](https://mp.weixin.qq.com/s/Sjg6jgl1D6IkYgsuQSgFHg), [2](https://mp.weixin.qq.com/s/xwD_2K8ZpvpY0geCv865ew)]
-    - [CSSÖªÊ¶µã](https://mp.weixin.qq.com/s/CNWl36Oa6KBvdGZ-wC4odw)
-    - [CSS±äÁ¿](https://mp.weixin.qq.com/s/z-082tB5JlvMup_RDoeqog)
-    - [CSSµÚËÄ¼¶Ñ¡ÔñÆ÷](https://mp.weixin.qq.com/s/5mCWF2qAPWBhBpKAUuqJKw)
-    - [CSSÑùÊ½µÄ½âÎö¹ı³Ì](https://mp.weixin.qq.com/s/8G7dpvleCFmDPzijfMbiTw)
+    - CSSå¸ƒå±€æŒ‡å—[[1](https://mp.weixin.qq.com/s/gIRqOKZAYwRUxWvKXbTvig), [2](https://mp.weixin.qq.com/s/ljnqn8paEHIgShA3c-eoxw), [3](https://mp.weixin.qq.com/s/J80laygl2BsGSfU40AjXyw)]
+    - [CSSçœ¼å‰ä¸€äº®çš„HOVERæ•ˆæœ](https://mp.weixin.qq.com/s/0cBdXuJdfPtx8NfP5aAs4g)
+	- å‰ç«¯å¼€æºCSSåº“[[1](https://mp.weixin.qq.com/s/Sjg6jgl1D6IkYgsuQSgFHg), [2](https://mp.weixin.qq.com/s/xwD_2K8ZpvpY0geCv865ew)]
+    - [CSSçŸ¥è¯†ç‚¹](https://mp.weixin.qq.com/s/CNWl36Oa6KBvdGZ-wC4odw)
+    - [CSSå˜é‡](https://mp.weixin.qq.com/s/z-082tB5JlvMup_RDoeqog)
+    - [CSSç¬¬å››çº§é€‰æ‹©å™¨](https://mp.weixin.qq.com/s/5mCWF2qAPWBhBpKAUuqJKw)
+    - [CSSæ ·å¼çš„è§£æè¿‡ç¨‹](https://mp.weixin.qq.com/s/8G7dpvleCFmDPzijfMbiTw)
 + JavaScript/TypeScript
-    - [ÍøµÀJavaScript½Ì³Ì](https://wangdoc.com/javascript/)
-    - [Ê¹ÓÃTypeScript](https://mp.weixin.qq.com/s/wQy7ZqiuBcP6MHWW9H8dkg)
-    - [JSÖĞcontextºÍstack](https://mp.weixin.qq.com/s/pc6EbfCKN1xWd4Q6nBU-PQ)
-    - [JSÖĞÊµÏÖmap/reduce](https://mp.weixin.qq.com/s/HgXTuZd9fKdu8MoGAPP0Pw)
-    - [JSÖĞÑÓ³Ùº¯Êı/¿ÂÀï»¯/×Ö·û´®¼°Êı×é²Ù×÷](https://mp.weixin.qq.com/s/DH3cH9bI81kJbVwIF7viEg)  
-        `1.¿ÂÀï»¯(Currying)ÊÇº¯ÊıµÄÒ»ÖÖ×ª»»£¬Ëü½«º¯Êı´Óf(a, b, c)µÄµ÷ÓÃĞÎÊ½×ª»»Îªf(a)(b)(c)µ÷ÓÃĞÎÊ½`<br>
-        `2.PromisesºÍObservables´¦ÀíÒì²½º¯Êı`<br>
-        `3.TypeScriptÔÚJavaScriptÖĞÌí¼ÓÁË¾²Ì¬ÀàĞÍ`
-    - [JSÖĞ¹ıÂËÎ¨Ò»/Óë»òÔËËãµÈ](https://mp.weixin.qq.com/s/ir2y8RsZNrPQ2JJud1v08A)
-    - [JSÊı×é¾«¼ò¼¼ÇÉ](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
-    - [JSÊµÏÖÒì²½ÈÎÎñ](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
-        - [Fetch»òAxiosÊµÏÖHTTPÇëÇó](https://mp.weixin.qq.com/s/oSVzYvwv4qIE2oBeAxjDlg)
-    - [GoJSÊµÏÖ½»»¥Ê½Í¼](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
-    - [Voca/Cleave/Chart³öÉ«µÄJS¿â](https://mp.weixin.qq.com/s/R3MI_zOUf5xqXl8-9pfeDg)
-    - [SVG»ù´¡×Ü½á](https://mp.weixin.qq.com/s/o6z2sixGw50_mUXAIT2BFg)
+    - [ç½‘é“JavaScriptæ•™ç¨‹](https://wangdoc.com/javascript/)
+    - [ä½¿ç”¨TypeScript](https://mp.weixin.qq.com/s/wQy7ZqiuBcP6MHWW9H8dkg)
+    - [JSä¸­contextå’Œstack](https://mp.weixin.qq.com/s/pc6EbfCKN1xWd4Q6nBU-PQ)
+    - [JSä¸­å®ç°map/reduce](https://mp.weixin.qq.com/s/HgXTuZd9fKdu8MoGAPP0Pw)
+    - [JSä¸­å»¶è¿Ÿå‡½æ•°/æŸ¯é‡ŒåŒ–/å­—ç¬¦ä¸²åŠæ•°ç»„æ“ä½œ](https://mp.weixin.qq.com/s/DH3cH9bI81kJbVwIF7viEg)  
+        `1.æŸ¯é‡ŒåŒ–(Currying)æ˜¯å‡½æ•°çš„ä¸€ç§è½¬æ¢ï¼Œå®ƒå°†å‡½æ•°ä»f(a, b, c)çš„è°ƒç”¨å½¢å¼è½¬æ¢ä¸ºf(a)(b)(c)è°ƒç”¨å½¢å¼`<br>
+        `2.Promiseså’ŒObservableså¤„ç†å¼‚æ­¥å‡½æ•°`<br>
+        `3.TypeScriptåœ¨JavaScriptä¸­æ·»åŠ äº†é™æ€ç±»å‹`
+    - [JSä¸­è¿‡æ»¤å”¯ä¸€/ä¸æˆ–è¿ç®—ç­‰](https://mp.weixin.qq.com/s/ir2y8RsZNrPQ2JJud1v08A)
+    - [JSæ•°ç»„ç²¾ç®€æŠ€å·§](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
+    - [JSå®ç°å¼‚æ­¥ä»»åŠ¡](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
+        - [Fetchæˆ–Axioså®ç°HTTPè¯·æ±‚](https://mp.weixin.qq.com/s/oSVzYvwv4qIE2oBeAxjDlg)
+    - [GoJSå®ç°äº¤äº’å¼å›¾](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
+    - [Voca/Cleave/Chartå‡ºè‰²çš„JSåº“](https://mp.weixin.qq.com/s/R3MI_zOUf5xqXl8-9pfeDg)
+    - [SVGåŸºç¡€æ€»ç»“](https://mp.weixin.qq.com/s/o6z2sixGw50_mUXAIT2BFg)
 + UI Framework
     - [ant-design](https://ant.design/components/overview-cn/)  
-        `React·â×°ÁËÒ»Ì×UI×é¼ş¿â`
+        `Reactå°è£…äº†ä¸€å¥—UIç»„ä»¶åº“`
     - [Element UI](https://element.eleme.cn/#/zh-CN/component/installation)  
-        `»ùÓÚReact/AngularÁ½ÖÖ¿ò¼ÜµÄUI×é¼ş¿â`
+        `åŸºäºReact/Angularä¸¤ç§æ¡†æ¶çš„UIç»„ä»¶åº“`
     - [Material-UI](https://material-ui.com/zh/getting-started/installation/)  
-        `»ùÓÚReactµÄUI¿ò¼Ü`
+        `åŸºäºReactçš„UIæ¡†æ¶`
     - [layui](https://www.layui.com/doc/)  
-        `Ò»¿î²ÉÓÃ×ÔÉíÄ£¿é¹æ·¶±àĞ´µÄÇ°¶ËUI¿ò¼Ü£¬×ñÑ­Ô­Éú HTML/CSS/JS µÄÊéĞ´Óë×éÖ¯ĞÎÊ½£¬ÃÅ¼÷¼«µÍ£¬ÄÃÀ´¼´ÓÃ¡£¸ü¶àÊÇÎª·şÎñ¶Ë³ÌĞòÔ±Á¿Éí¶¨×ö£¬ÄãÎŞĞèÉæ×ã¸÷ÖÖÇ°¶Ë¹¤¾ßµÄ¸´ÔÓÅäÖÃ£¬Ö»ĞèÃæ¶Ôä¯ÀÀÆ÷±¾Éí`
+        `ä¸€æ¬¾é‡‡ç”¨è‡ªèº«æ¨¡å—è§„èŒƒç¼–å†™çš„å‰ç«¯UIæ¡†æ¶ï¼Œéµå¾ªåŸç”Ÿ HTML/CSS/JS çš„ä¹¦å†™ä¸ç»„ç»‡å½¢å¼ï¼Œé—¨æ§›æä½ï¼Œæ‹¿æ¥å³ç”¨ã€‚æ›´å¤šæ˜¯ä¸ºæœåŠ¡ç«¯ç¨‹åºå‘˜é‡èº«å®šåšï¼Œä½ æ— éœ€æ¶‰è¶³å„ç§å‰ç«¯å·¥å…·çš„å¤æ‚é…ç½®ï¼Œåªéœ€é¢å¯¹æµè§ˆå™¨æœ¬èº«`
     - [AT-UI](https://at-ui.github.io/at-ui/#/zh/docs/introduction)  
-        `»ùÓÚVue.js 2.0µÄÇ°¶ËUI×é¼ş¿â`
+        `åŸºäºVue.js 2.0çš„å‰ç«¯UIç»„ä»¶åº“`
     - [Taro UI](https://taro-ui.jd.com/#/docs/introduction)  
-        `»ùÓÚTaro¿ò¼Ü¿ª·¢µÄ¶à¶ËUI×é¼ş¿â,Ö»ÊéĞ´Ò»Ì×´úÂë,ÔÙÍ¨¹ıTaroµÄ±àÒë¹¤¾ß£¬½«Ô´´úÂë·Ö±ğ±àÒë³ö¿ÉÒÔÔÚ²»Í¬¶Ë(Î¢ĞÅĞ¡³ÌĞò¡¢H5¡¢RNµÈ)ÔËĞĞµÄ´úÂë`
+        `åŸºäºTaroæ¡†æ¶å¼€å‘çš„å¤šç«¯UIç»„ä»¶åº“,åªä¹¦å†™ä¸€å¥—ä»£ç ,å†é€šè¿‡Taroçš„ç¼–è¯‘å·¥å…·ï¼Œå°†æºä»£ç åˆ†åˆ«ç¼–è¯‘å‡ºå¯ä»¥åœ¨ä¸åŒç«¯(å¾®ä¿¡å°ç¨‹åºã€H5ã€RNç­‰)è¿è¡Œçš„ä»£ç `
     - [lin-ui](https://github.com/TaleLin/lin-ui)  
-        `Î¢ĞÅĞ¡³ÌĞò×é¼ş¿â`
-        - [Î¢ĞÅĞ¡³ÌĞòÈëÃÅ½Ì³Ì](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)
+        `å¾®ä¿¡å°ç¨‹åºç»„ä»¶åº“`
+        - [å¾®ä¿¡å°ç¨‹åºå…¥é—¨æ•™ç¨‹](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)
     - [ruoyi](http://doc.ruoyi.vip/ruoyi/)  
-        `»ùÓÚSpringBoot¡¢Shiro¡¢MybatisµÄÈ¨ÏŞºóÌ¨¹ÜÀíÏµÍ³`
-    - [Ğ¡ÉÌ³Ç](https://github.com/linlinjava/litemall)  
-        `SpringBootºó¶Ë + Vue¹ÜÀíÔ±Ç°¶Ë + Î¢ĞÅĞ¡³ÌĞòÓÃ»§Ç°¶Ë + VueÓÃ»§ÒÆ¶¯¶Ë`
-    - [45¸öµ¥Ò³ÃæÓ¦ÓÃ](https://github.com/bailicangdu/vue2-elm)  
-        `»ùÓÚvue2 + vuex¹¹½¨Ò»¸ö¾ßÓĞ45¸öÒ³ÃæµÄ´óĞÍµ¥Ò³ÃæÓ¦ÓÃ`
-    - [Ç°ºó¶Ë´úÂë×Ô¶¯Éú³É](https://github.com/zhangdaiscott/jeecg-boot)  
-        `µÍ´úÂëÆ½Ì¨£¬SpringBoot 2.x£¬SpringCloud Alibaba£¬Ant Design&Vue£¬Mybatis-plus£¬Shiro£¬JWT¡£´úÂëÉú³ÉÆ÷ÈÃÇ°ºó¶Ë´úÂëÒ»¼üÉú³É£¬ÎŞĞèĞ´ÈÎºÎ´úÂë`
-    - [¾²Ì¬ÍøÕ¾Éú³É¹¤¾ß](https://mp.weixin.qq.com/s/vKAUczNgkwl48lVXIZ-zBA)  
-        `¾²Ì¬ÍøÕ¾ÊÇÖ¸ÍøÒ³²»ÊÇÓÉ·şÎñÆ÷¶¯Ì¬Éú³ÉµÄ,HTML¡¢CSSºÍJavaScriptÎÄ¼şµÄÄÚÈİÓëÖÕ¶ËÓÃ»§½ÓÊÕµ½µÄ°æ±¾ÊÇÒ»Ñù`
+        `åŸºäºSpringBootã€Shiroã€Mybatisçš„æƒé™åå°ç®¡ç†ç³»ç»Ÿ`
+    - [å°å•†åŸ](https://github.com/linlinjava/litemall)  
+        `SpringBootåç«¯ + Vueç®¡ç†å‘˜å‰ç«¯ + å¾®ä¿¡å°ç¨‹åºç”¨æˆ·å‰ç«¯ + Vueç”¨æˆ·ç§»åŠ¨ç«¯`
+    - [45ä¸ªå•é¡µé¢åº”ç”¨](https://github.com/bailicangdu/vue2-elm)  
+        `åŸºäºvue2 + vuexæ„å»ºä¸€ä¸ªå…·æœ‰45ä¸ªé¡µé¢çš„å¤§å‹å•é¡µé¢åº”ç”¨`
+    - [å‰åç«¯ä»£ç è‡ªåŠ¨ç”Ÿæˆ](https://github.com/zhangdaiscott/jeecg-boot)  
+        `ä½ä»£ç å¹³å°ï¼ŒSpringBoot 2.xï¼ŒSpringCloud Alibabaï¼ŒAnt Design&Vueï¼ŒMybatis-plusï¼ŒShiroï¼ŒJWTã€‚ä»£ç ç”Ÿæˆå™¨è®©å‰åç«¯ä»£ç ä¸€é”®ç”Ÿæˆï¼Œæ— éœ€å†™ä»»ä½•ä»£ç `
+    - [é™æ€ç½‘ç«™ç”Ÿæˆå·¥å…·](https://mp.weixin.qq.com/s/vKAUczNgkwl48lVXIZ-zBA)  
+        `é™æ€ç½‘ç«™æ˜¯æŒ‡ç½‘é¡µä¸æ˜¯ç”±æœåŠ¡å™¨åŠ¨æ€ç”Ÿæˆçš„,HTMLã€CSSå’ŒJavaScriptæ–‡ä»¶çš„å†…å®¹ä¸ç»ˆç«¯ç”¨æˆ·æ¥æ”¶åˆ°çš„ç‰ˆæœ¬æ˜¯ä¸€æ ·`
 + GraphQL
-    - [GraphQL¹¤¾ßºÍ¿â](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
-    - [Ê²Ã´ÊÇGraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)
-    - [GraphQL×÷ÎªAPIÍø¹ØÀ´¼à¿ØÎ¢·şÎñ](https://mp.weixin.qq.com/s/8sG4YKwcK9szt4ni1mROcQ)
+    - [GraphQLå·¥å…·å’Œåº“](https://mp.weixin.qq.com/s/SvxtxaEx4zsWt1otquPLVQ)
+    - [ä»€ä¹ˆæ˜¯GraphQL](https://mp.weixin.qq.com/s/cVQWIfoLuxP_oY7wNWuOsg)
+    - [GraphQLä½œä¸ºAPIç½‘å…³æ¥ç›‘æ§å¾®æœåŠ¡](https://mp.weixin.qq.com/s/8sG4YKwcK9szt4ni1mROcQ)
 + NPM
-    - [10¸ö×îÁ÷ĞĞµÄNPM°ü](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
-    - [·¢²¼Ò»¸öÎŞÒÀÀµµÄnpm°ü](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)  
-+ [Ç°¶Ë¼Ü¹¹JAMStack²»ÒÀÀµWeb Server](https://mp.weixin.qq.com/s/Q8rDSc0yU19lk7q3HfWf0A)
+    - [10ä¸ªæœ€æµè¡Œçš„NPMåŒ…](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
+    - [å‘å¸ƒä¸€ä¸ªæ— ä¾èµ–çš„npmåŒ…](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)  
++ [å‰ç«¯æ¶æ„JAMStackä¸ä¾èµ–Web Server](https://mp.weixin.qq.com/s/Q8rDSc0yU19lk7q3HfWf0A)
 + [Ratpack](https://github.com/ratpack/ratpack)   
     Ratpack is a simple, capable, toolkit for creating high performance web applications. Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.      
 
 #### Architecture
-+ [ÆóÒµÊı×Ö»¯×ªĞÍPPT](https://mp.weixin.qq.com/s/j4xV9E7bh-Gc67vsqKJB_Q)
-+ [¼Ü¹¹Éè¼ÆÔ­Ôò](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
-    `SMARTÄ¿±ê/15Ìõ¹æÔò`
-+ [¼Ü¹¹Éè¼ÆÄ£Ê½](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)  
-    `ÀàËÆÓÚÈí¼şÉè¼ÆÄ£Ê½,°üÀ¨·Ö²ã¼Ü¹¹/Î¢·şÎñ¼Ü¹¹/Î¢ºË¼Ü¹¹/ÊÂ¼şÇı¶¯¼Ü¹¹/ÔÆÔ­Éú¼Ü¹¹`
-    + [Í¨ÓÃĞÍËÄ²ãÏµÍ³¼Ü¹¹Éè¼Æ](https://mp.weixin.qq.com/s/m78LXtrGoLxs_qzBvP8NcA)
-    + [10ÖÖ³£¼ûµÄÈí¼ş¼Ü¹¹Ä£Ê½](https://mp.weixin.qq.com/s/qQf4hxcKpG4LgcS9oAkGGw)  
-        `¹ÜµÀ¹ıÂËÄ£Ê½/Ö÷´ÓÄ£Ê½/BrokerÄ£Ê½/P2PÄ£Ê½/ºÚ°åÄ£Ê½/MVCÄ£Ê½/½âÊÍÆ÷Ä£Ê½`
-    + [Ó¦ÓÃ¼Ü¹¹](https://mp.weixin.qq.com/s/CO3LZFDr5Rv5O5NEumA30g)  
-        `·Ö²ã¼Ü¹¹/CQS(Command Query Separation)/Áù±ßĞÎ¼Ü¹¹/Ñó´ĞÈ¦¼Ü¹¹`
-    + [Èí¼ş¿ª·¢Ô­Ôò](https://mp.weixin.qq.com/s/WAa4ezth4CGwyjJD7FcP6w)  
-        `Êı¾İÉè¼ÆÏÈĞĞ/Êı¾İÒ»ÖÂĞÔ`
-+ [¼Ü¹¹ºâÁ¿Ö¸±ê¼°¸Ä½øÄ¿±ê](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)  
-    `ĞÔÄÜ/¿É¿¿ĞÔ/¿ÉÓÃĞÔ/Èİ´íĞÔ/¿ÉĞÅÀµĞÔ/¿ÉÉìËõĞÔ/°²È«ĞÔ/»¥²Ù×÷ĞÔ/¿Éµ÷ÕûĞÔ/¿É²¿ÊğĞÔ/¿É²âÊÔĞÔ/¼òµ¥ĞÔ/¿ÉÒÆÖ²ĞÔ/Ò×ÓÃĞÔ/¿ÉÀ©Õ¹ĞÔ/¿¹´àÈõĞÔ/¿ÉÉı¼¶ĞÔ/ºÏ¹æĞÔ/³É±¾/¿É´æµµĞÔ/¿ÉÉóºËĞÔ/¿É¸ú×ÙĞÔ`
-    + [¸ß¿ÉÓÃÏµÍ³¼Ü¹¹Éè¼Æ](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)  
-    `¿ÉÀ©Õ¹/¿É¸ôÀë/½âñîĞÔ/ÏŞÁ÷(Â©Í°Ëã·¨/ÁîÅÆÍ°Ëã·¨/»¬¶¯´°¿Ú¼ÆÊı·¨/¶¯Ì¬ÏŞÁ÷)/½µ¼¶/ÈÛ¶Ï/»Ò¶È·¢²¼»Ø¹ö`
-        - [»Ò¶È·¢²¼ÏµÍ³¼Ü¹¹](https://mp.weixin.qq.com/s/vYJw4-rK_VkOjt6odQbDNg)
-    + [¼Ü¹¹ÉìËõĞÔÔ­Ôò](https://mp.weixin.qq.com/s/77-owRKydWDQ14Lu4mmpiw)  
-    `³É±¾/ÏµÍ³Æ¿¾±/¹ÊÕÏ·şÎñ/Êı¾İ²ãÉìËõ/»º´æ/¼à¿Ø`
-    + [¹ØÓÚ¼¼ÊõÅÌµãºÍ×Ü½á](https://mp.weixin.qq.com/s/4NkQ70WdLybM0fGgo7nC2g)  
-    `´úÂëÖÊÁ¿ÎÊÌâ/²âÊÔ·¢²¼ÎÊÌâ/¿ª·¢Ğ§ÂÊÎÊÌâ/¿ª·¢ÒâÊ¶ÎÊÌâ`
-    + [°²È«¼Ü¹¹ÆÀÉó](https://mp.weixin.qq.com/s/ndv8Grd8AF2k_LzL33L8yQ)
-+ [¼Ü¹¹Ê¦µÄºËĞÄ¹¤×÷ÄÚÈİ](https://mp.weixin.qq.com/s/ZYDTpsvYd-G61pqwLqgChw)  
-    `UML·Ö½âĞèÇó`
-+ ·Ö²¼Ê½¼Ü¹¹
-    - [·Ö²¼Ê½¼Ü¹¹µÄÇ°ÊÀ½ñÉú](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)    
-    - [·Ö²¼Ê½¸ÅÄî](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  
-        `CAP/BASE/·Ö²¼Ê½ÊÂÎñ/·Ö²¼Ê½Ëø/Paxos/Raft`
++ [ä¼ä¸šæ•°å­—åŒ–è½¬å‹PPT](https://mp.weixin.qq.com/s/j4xV9E7bh-Gc67vsqKJB_Q)
++ [æ¶æ„è®¾è®¡åŸåˆ™](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
+    `SMARTç›®æ ‡/15æ¡è§„åˆ™`
++ [æ¶æ„è®¾è®¡æ¨¡å¼](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)  
+    `ç±»ä¼¼äºè½¯ä»¶è®¾è®¡æ¨¡å¼,åŒ…æ‹¬åˆ†å±‚æ¶æ„/å¾®æœåŠ¡æ¶æ„/å¾®æ ¸æ¶æ„/äº‹ä»¶é©±åŠ¨æ¶æ„/äº‘åŸç”Ÿæ¶æ„`
+    + [é€šç”¨å‹å››å±‚ç³»ç»Ÿæ¶æ„è®¾è®¡](https://mp.weixin.qq.com/s/m78LXtrGoLxs_qzBvP8NcA)
+    + [10ç§å¸¸è§çš„è½¯ä»¶æ¶æ„æ¨¡å¼](https://mp.weixin.qq.com/s/qQf4hxcKpG4LgcS9oAkGGw)  
+        `ç®¡é“è¿‡æ»¤æ¨¡å¼/ä¸»ä»æ¨¡å¼/Brokeræ¨¡å¼/P2Pæ¨¡å¼/é»‘æ¿æ¨¡å¼/MVCæ¨¡å¼/è§£é‡Šå™¨æ¨¡å¼`
+    + [åº”ç”¨æ¶æ„](https://mp.weixin.qq.com/s/CO3LZFDr5Rv5O5NEumA30g)  
+        `åˆ†å±‚æ¶æ„/CQS(Command Query Separation)/å…­è¾¹å½¢æ¶æ„/æ´‹è‘±åœˆæ¶æ„`
+    + [è½¯ä»¶å¼€å‘åŸåˆ™](https://mp.weixin.qq.com/s/WAa4ezth4CGwyjJD7FcP6w)  
+        `æ•°æ®è®¾è®¡å…ˆè¡Œ/æ•°æ®ä¸€è‡´æ€§`
++ [æ¶æ„è¡¡é‡æŒ‡æ ‡åŠæ”¹è¿›ç›®æ ‡](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)  
+    `æ€§èƒ½/å¯é æ€§/å¯ç”¨æ€§/å®¹é”™æ€§/å¯ä¿¡èµ–æ€§/å¯ä¼¸ç¼©æ€§/å®‰å…¨æ€§/äº’æ“ä½œæ€§/å¯è°ƒæ•´æ€§/å¯éƒ¨ç½²æ€§/å¯æµ‹è¯•æ€§/ç®€å•æ€§/å¯ç§»æ¤æ€§/æ˜“ç”¨æ€§/å¯æ‰©å±•æ€§/æŠ—è„†å¼±æ€§/å¯å‡çº§æ€§/åˆè§„æ€§/æˆæœ¬/å¯å­˜æ¡£æ€§/å¯å®¡æ ¸æ€§/å¯è·Ÿè¸ªæ€§`
+    + [é«˜å¯ç”¨ç³»ç»Ÿæ¶æ„è®¾è®¡](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)  
+    `å¯æ‰©å±•/å¯éš”ç¦»/è§£è€¦æ€§/é™æµ(æ¼æ¡¶ç®—æ³•/ä»¤ç‰Œæ¡¶ç®—æ³•/æ»‘åŠ¨çª—å£è®¡æ•°æ³•/åŠ¨æ€é™æµ)/é™çº§/ç†”æ–­/ç°åº¦å‘å¸ƒå›æ»š`
+        - [ç°åº¦å‘å¸ƒç³»ç»Ÿæ¶æ„](https://mp.weixin.qq.com/s/vYJw4-rK_VkOjt6odQbDNg)
+    + [æ¶æ„ä¼¸ç¼©æ€§åŸåˆ™](https://mp.weixin.qq.com/s/77-owRKydWDQ14Lu4mmpiw)  
+    `æˆæœ¬/ç³»ç»Ÿç“¶é¢ˆ/æ•…éšœæœåŠ¡/æ•°æ®å±‚ä¼¸ç¼©/ç¼“å­˜/ç›‘æ§`
+    + [å…³äºæŠ€æœ¯ç›˜ç‚¹å’Œæ€»ç»“](https://mp.weixin.qq.com/s/4NkQ70WdLybM0fGgo7nC2g)  
+    `ä»£ç è´¨é‡é—®é¢˜/æµ‹è¯•å‘å¸ƒé—®é¢˜/å¼€å‘æ•ˆç‡é—®é¢˜/å¼€å‘æ„è¯†é—®é¢˜`
+    + [å®‰å…¨æ¶æ„è¯„å®¡](https://mp.weixin.qq.com/s/ndv8Grd8AF2k_LzL33L8yQ)
++ [æ¶æ„å¸ˆçš„æ ¸å¿ƒå·¥ä½œå†…å®¹](https://mp.weixin.qq.com/s/ZYDTpsvYd-G61pqwLqgChw)  
+    `UMLåˆ†è§£éœ€æ±‚`
++ åˆ†å¸ƒå¼æ¶æ„
+    - [åˆ†å¸ƒå¼æ¶æ„çš„å‰ä¸–ä»Šç”Ÿ](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)    
+    - [åˆ†å¸ƒå¼æ¦‚å¿µ](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  
+        `CAP/BASE/åˆ†å¸ƒå¼äº‹åŠ¡/åˆ†å¸ƒå¼é”/Paxos/Raft`
         - [2PC/3PC](https://mp.weixin.qq.com/s/9eHXz0dxYgJyNz4lpKfBNA)
-        - [·Ö²¼Ê½ÊÂÎñµÄÆßÖÖ½â¾ö·½°¸](https://mp.weixin.qq.com/s/IY9jJq-hNaoLbLAa7erkcQ)
-    - ·Ö²¼Ê½ÏµÍ³Ô­Àí[[1](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg), [2](https://mp.weixin.qq.com/s/l-wM3owg_HYdRhzNl3d5dQ)]
-    - [B2CµçÉÌÖ§¸¶ÖĞĞÄ²úÆ·¼Ü¹¹](https://mp.weixin.qq.com/s/ZfSu2M0WLKvELY7GuvlRaQ)  
-        `ÊÕµ¥ÏµÍ³/Çå½áËãÏµÍ³/ÕË»§ÏµÍ³/¶ÔÕËÏµÍ³/Ö§¸¶°²È«`
-        - [Ö§¸¶±¦LDC¼Ü¹¹ºÍÆäCAP·ÖÎö](https://mp.weixin.qq.com/s/i6oIav1Rs2LGvRIyRTAA6Q)
-    - [Å©ĞĞ·Ö²¼Ê½¼Ü¹¹](https://mp.weixin.qq.com/s/jVrMyGUBythuCaMFPp1XcA)  
-        `¼¯ÖĞÊ½/·Ö²¼Ê½ÓÅÈ±µã·ÖÎö, Áª»úÊÂÎñ´¦Àí(OLTP)ºÍÁª»ú·ÖÎö´¦Àí(OLAP)Êµ¼ù`
-	- [»ùÓÚJAVAºó¶Ë»ù´¡¼Ü¹¹Êµ¼ù](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)  
-        `Í³Ò»ÇëÇóÈë¿Ú/MVC¿ò¼Ü/IOC¿ò¼Ü/ORM¿ò¼Ü/»º´æ¿ò¼Ü/ËÑË÷ÒıÇæ/ÏûÏ¢¶ÓÁĞ/ÎÄ¼ş´æ´¢/Í³Ò»ÈÏÖ¤ÖĞĞÄ/µ¥µãµÇÂ¼ÏµÍ³/Í³Ò»ÅäÖÃÖĞĞÄ/·şÎñÖÎÀí¿ò¼Ü/Í³Ò»µ÷¶ÈÖĞĞÄ/Í³Ò»ÈÕÖ¾·şÎñ/Êı¾İ»ù´¡ÉèÊ©/Êı¾İ¸ßËÙ¹«Â·/ÀëÏßÊı¾İ·ÖÎö/ÊµÊ±Êı¾İ·ÖÎö/Êı¾İ¼´Ï¯·ÖÎö/¹ÊÕÏ¼à¿Ø`
-    - [·Ö²¼Ê½ÎÄ¼şÏµÍ³](https://mp.weixin.qq.com/s/ZMC9zCRqNK2aMGigFg9mBA)  
-        `ÎÄ¼şÏµÍ³µÄÒªÇó/¼Ü¹¹Ä£ĞÍ(GFS/CEPH)/³Ö¾Ã»¯/ÉìËõĞÔ/¸ß¿ÉÓÃĞÔ/ĞÔÄÜÓÅ»¯ºÍ»º´æÒ»ÖÂĞÔ/°²È«ĞÔ(DAC/MAC/RBAC)`
-    - ·Ö²¼Ê½Ëø½â¶Á[[1](https://mp.weixin.qq.com/s/jGw7gqV9OhG0eUbWiPfyyQ),[2](https://mp.weixin.qq.com/s/2Jpy5qE_7ABILd9wcJ7q3Q),[3](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg),[4](https://mp.weixin.qq.com/s/DtLdmLhGO4wJxIaOWgrXQg)]  
-        `Redis/Zookeeper/DB×÷·Ö²¼Ê½Ëø`
-        - [½Ó¿ÚÃİµÈĞÔÊµÏÖÓë·Ö²¼Ê½Ëø](https://mp.weixin.qq.com/s/pBO-qdzDIuLmxM9bWKSOgg)
-        - [ZookeeperË¼Î¬µ¼Í¼](https://mp.weixin.qq.com/s/ocQZUKxujgcqNNKn7zw4Yw)
-        - [ÓÃetcdÌæ»»Zookeeper](https://mp.weixin.qq.com/s/_Q-IekByaofdKkskh6esZg)
-	- [¸ºÔØ¾ùºâ](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)  
-        `¸ºÔØ¾ùºâËã·¨/×ª·¢ÊµÏÖ/¼¯ÈºÏÂµÄSession¹ÜÀí`
-    - [·Ö²¼Ê½DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
-    - [·Ö²¼Ê½¿é´æ´¢SmartX](https://mp.weixin.qq.com/s/9PGS3jUI9bjAE7xR37v5Pw)
-+ ¸ß²¢·¢ÏµÍ³
-    - [¸ß²¢·¢ÏµÍ³µÄÉè¼Æ](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)  
-        `ÃëÉ±ÒµÎñÉè¼ÆÒªËØ`
-    - [¸ß¿ÉÓÃ¼Ü¹¹Éè¼ÆÖ®ÎŞ×´Ì¬·şÎñ](https://mp.weixin.qq.com/s/IJK8dMJBbpGIgbHDybpr9A)
-    - [¸ßĞÔÄÜ¸ß²¢·¢¼¼Êõ¶ÔCPU,ÄÚ´æ,I/OÒªÇó](https://mp.weixin.qq.com/s/P-mPAWxScFAThoNF3M2y3A)
-    - [¸ß²¢·¢·şÎñÏŞÁ÷Êµ¼ù](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)  
-        `GuavaµÄRateLimiterÌá¹©ÁËÁîÅÆÍ°Ëã·¨ÊµÏÖ£ºÆ½»¬Í»·¢ÏŞÁ÷(SmoothBursty)ºÍÆ½»¬Ô¤ÈÈÏŞÁ÷(SmoothWarmingUp)`
-    - ÃëÉ±ÏµÍ³¼Ü¹¹ºÍÉè¼Æ
-        - [ÃëÉ±¼Ü¹¹](https://mp.weixin.qq.com/s/b04s_56kjNANN37LmxK6pw)  
-        `³¬ÂôÎÊÌâ/½Ó¿Ú·ÀË¢/ÃëÉ±url/Êı¾İ¿âÉè¼Æ/¸ß²¢·¢/Hystrix·şÎñ½µ¼¶`
-        - [ÃëÉ±Éè¼Æ](https://mp.weixin.qq.com/s/Ieo6_gHQQLG6mpbEZJGH6A)
-        - [»¥ÁªÍøÃëÉ±ÏµÍ³Éè¼ÆÓëÊµÏÖ](https://github.com/qiurunze123/miaosha)
-    - [ÕıÈ·ÉèÖÃÊı¾İ¿âÁ¬½Ó³Ø½µµÍÊ±ÑÓ](https://mp.weixin.qq.com/s/CGmH4jmpTYODwnfpywRr1Q)  
-        `Á¬½Ó³ØÔ½´ó£¬ËÙ¶ÈÔ½ÂıÁË¡£ÄãĞèÒªÒ»¸öĞ¡Á¬½Ó³Ø£¬ºÍÒ»¸ö³äÂúÁËµÈ´ıÁ¬½ÓµÄÏß³ÌµÄ¶ÓÁĞ`
-    - [¸ß²¢·¢ÏÂÊµÏÖÒ»´Î¿ìËÙµÄ²éÑ¯](https://mp.weixin.qq.com/s/FGl9olwLjpBCIWCQVwJuyQ)    
-+ Êı¾İ´¦ÀíÏµÍ³
-    - [·şÎñÉı¼¶Êı¾İÇ¨ÒÆ](https://mp.weixin.qq.com/s/d9RZX1dB3QWrmzUAGHZvEw)  
-        `Æ½»¬Ç¨ÒÆÊı¾İ/Ç¨ÒÆ¹ı³Ì²»Í£»ú/±£Ö¤ÏµÍ³³ÖĞø·şÎñ-->×·ÈÕÖ¾·¨,Ë«Ğ´·¨`
-    - [ÊÂÎñµÄ¸ôÀë](https://mp.weixin.qq.com/s/dLVaMwC_NQn_2JVSFfH9ug)  
-        `Ôà¶Á(¶ÁÈ¡Î´Ìá½»µÄÊı¾İ)/²»¿ÉÖØ¸´¶Á(Ò»¸öÊÂÎñ·¶Î§ÄÚÁ½¸öÏàÍ¬µÄ²éÑ¯È´·µ»ØÁË²»Í¬Êı¾İ,¶ÔÓ¦µÄÊÇUpdate²Ù×÷)/»Ã¶Á(Ò»¸öÊÂÎñ·¶Î§ÄÚ²Ù×÷²»ÍêÕûµÄÏÖÏó£¬Ëü¶ÔÓ¦µÄÊÇ²åÈëInsert²Ù×÷)-->ÅÅËûËø/¹²ÏíËø/Î´Ìá½»¶Á(Read uncommitted)/Ìá½»¶Á(Read committed)/¿ÉÖØ¸´¶Á(Repeatable reads)/¿ÉĞòÁĞ»¯(Serializable)`
-    - [·Ö²¼Ê½ÊÂÎñÖĞ³£¼ûµÄÈıÖÖ½â¾ö·½°¸](https://mp.weixin.qq.com/s/jhyXWcHysSkn21k3s4izlA)  
-        `·Ö²¼Ê½ÊÂÎñ-->TX/XAĞ­Òé/RM×ÊÔ´¹ÜÀíÆ÷/TMÊÂÎñ¹ÜÀíÆ÷/ÃİµÈ²Ù×÷/TCC/2PC²Ù×÷/¿É²¹³¥²Ù×÷`<br>
-        `ÈáĞÔÊÂÎñ½â¾ö·½°¸¼Ü¹¹-->»ùÓÚ¿É¿¿ÏûÏ¢µÄ×îÖÕÒ»ÖÂĞÔ·½°¸/TCCÊÂÎñ²¹³¥ĞÍ·½°¸/×î´óÅ¬Á¦Í¨ÖªĞÍ`
-    - [ÈÕÖ¾ÊµÊ±Êı¾İ¾ÛºÏ](https://mp.weixin.qq.com/s/jgHx5mRyIp3CcmyBann0pg)  
-        `ÈÕÖ¾»ù±¾ÊÇËùÓĞ·Ö²¼Ê½Êı¾İÏµÍ³ºÍÊµÊ±Ó¦ÓÃ¼Ü¹¹µÄºËĞÄ.ÈÕÖ¾½â¾öµÄÁ½¸öÎÊÌâ£ºË³Ğò±ä»¯ºÍ·Ö²¼Ê½Êı¾İ£¬ÔÚ·Ö²¼Ê½Êı¾İÏµÍ³ÖĞ¶Ô¸üĞÂ²Ù×÷µÄË³Ğò´ï³ÉÒ»ÖÂÊÇÕâĞ©ÏµÍ³½øĞĞÉè¼ÆÊ±µÄºËĞÄÎÊÌâ`
-    - [CQRS¼Ü¹¹Ä£Ê½](https://mp.weixin.qq.com/s/qGc7wDFGfXUAlEDVM7fNsA)   
-        `Ô­ÔòÊÇËµ³ÌĞòÓ¦µ±ÒªÃ´ĞŞ¸ÄÏµÍ³(Command), ÒªÃ´·µ»Ø²éÑ¯½á¹û(Query),Èí¼şÖĞÓ¦µ±±£³ÖÃüÁîÓë²éÑ¯µÄ·ÖÀë`
+        - [åˆ†å¸ƒå¼äº‹åŠ¡çš„ä¸ƒç§è§£å†³æ–¹æ¡ˆ](https://mp.weixin.qq.com/s/IY9jJq-hNaoLbLAa7erkcQ)
+    - åˆ†å¸ƒå¼ç³»ç»ŸåŸç†[[1](https://mp.weixin.qq.com/s/5FOsseOpauaEyfK6tZBuOg), [2](https://mp.weixin.qq.com/s/l-wM3owg_HYdRhzNl3d5dQ)]
+    - [B2Cç”µå•†æ”¯ä»˜ä¸­å¿ƒäº§å“æ¶æ„](https://mp.weixin.qq.com/s/ZfSu2M0WLKvELY7GuvlRaQ)  
+        `æ”¶å•ç³»ç»Ÿ/æ¸…ç»“ç®—ç³»ç»Ÿ/è´¦æˆ·ç³»ç»Ÿ/å¯¹è´¦ç³»ç»Ÿ/æ”¯ä»˜å®‰å…¨`
+        - [æ”¯ä»˜å®LDCæ¶æ„å’Œå…¶CAPåˆ†æ](https://mp.weixin.qq.com/s/i6oIav1Rs2LGvRIyRTAA6Q)
+    - [å†œè¡Œåˆ†å¸ƒå¼æ¶æ„](https://mp.weixin.qq.com/s/jVrMyGUBythuCaMFPp1XcA)  
+        `é›†ä¸­å¼/åˆ†å¸ƒå¼ä¼˜ç¼ºç‚¹åˆ†æ, è”æœºäº‹åŠ¡å¤„ç†(OLTP)å’Œè”æœºåˆ†æå¤„ç†(OLAP)å®è·µ`
+	- [åŸºäºJAVAåç«¯åŸºç¡€æ¶æ„å®è·µ](https://mp.weixin.qq.com/s/0NUm36HebVJeq_eL_7g6hQ)  
+        `ç»Ÿä¸€è¯·æ±‚å…¥å£/MVCæ¡†æ¶/IOCæ¡†æ¶/ORMæ¡†æ¶/ç¼“å­˜æ¡†æ¶/æœç´¢å¼•æ“/æ¶ˆæ¯é˜Ÿåˆ—/æ–‡ä»¶å­˜å‚¨/ç»Ÿä¸€è®¤è¯ä¸­å¿ƒ/å•ç‚¹ç™»å½•ç³»ç»Ÿ/ç»Ÿä¸€é…ç½®ä¸­å¿ƒ/æœåŠ¡æ²»ç†æ¡†æ¶/ç»Ÿä¸€è°ƒåº¦ä¸­å¿ƒ/ç»Ÿä¸€æ—¥å¿—æœåŠ¡/æ•°æ®åŸºç¡€è®¾æ–½/æ•°æ®é«˜é€Ÿå…¬è·¯/ç¦»çº¿æ•°æ®åˆ†æ/å®æ—¶æ•°æ®åˆ†æ/æ•°æ®å³å¸­åˆ†æ/æ•…éšœç›‘æ§`
+    - [åˆ†å¸ƒå¼æ–‡ä»¶ç³»ç»Ÿ](https://mp.weixin.qq.com/s/ZMC9zCRqNK2aMGigFg9mBA)  
+        `æ–‡ä»¶ç³»ç»Ÿçš„è¦æ±‚/æ¶æ„æ¨¡å‹(GFS/CEPH)/æŒä¹…åŒ–/ä¼¸ç¼©æ€§/é«˜å¯ç”¨æ€§/æ€§èƒ½ä¼˜åŒ–å’Œç¼“å­˜ä¸€è‡´æ€§/å®‰å…¨æ€§(DAC/MAC/RBAC)`
+    - åˆ†å¸ƒå¼é”è§£è¯»[[1](https://mp.weixin.qq.com/s/jGw7gqV9OhG0eUbWiPfyyQ),[2](https://mp.weixin.qq.com/s/2Jpy5qE_7ABILd9wcJ7q3Q),[3](https://mp.weixin.qq.com/s/oxWTLn2P0Ftoj3cHDysGOg),[4](https://mp.weixin.qq.com/s/DtLdmLhGO4wJxIaOWgrXQg)]  
+        `Redis/Zookeeper/DBä½œåˆ†å¸ƒå¼é”`
+        - [æ¥å£å¹‚ç­‰æ€§å®ç°ä¸åˆ†å¸ƒå¼é”](https://mp.weixin.qq.com/s/pBO-qdzDIuLmxM9bWKSOgg)
+        - [Zookeeperæ€ç»´å¯¼å›¾](https://mp.weixin.qq.com/s/ocQZUKxujgcqNNKn7zw4Yw)
+        - [ç”¨etcdæ›¿æ¢Zookeeper](https://mp.weixin.qq.com/s/_Q-IekByaofdKkskh6esZg)
+	- [è´Ÿè½½å‡è¡¡](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9B%86%E7%BE%A4.md)  
+        `è´Ÿè½½å‡è¡¡ç®—æ³•/è½¬å‘å®ç°/é›†ç¾¤ä¸‹çš„Sessionç®¡ç†`
+    - [åˆ†å¸ƒå¼DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
+    - [åˆ†å¸ƒå¼å—å­˜å‚¨SmartX](https://mp.weixin.qq.com/s/9PGS3jUI9bjAE7xR37v5Pw)
++ é«˜å¹¶å‘ç³»ç»Ÿ
+    - [é«˜å¹¶å‘ç³»ç»Ÿçš„è®¾è®¡](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)  
+        `ç§’æ€ä¸šåŠ¡è®¾è®¡è¦ç´ `
+    - [é«˜å¯ç”¨æ¶æ„è®¾è®¡ä¹‹æ— çŠ¶æ€æœåŠ¡](https://mp.weixin.qq.com/s/IJK8dMJBbpGIgbHDybpr9A)
+    - [é«˜æ€§èƒ½é«˜å¹¶å‘æŠ€æœ¯å¯¹CPU,å†…å­˜,I/Oè¦æ±‚](https://mp.weixin.qq.com/s/P-mPAWxScFAThoNF3M2y3A)
+    - [é«˜å¹¶å‘æœåŠ¡é™æµå®è·µ](https://mp.weixin.qq.com/s/68FSIEet5h3pI221iqIp4g)  
+        `Guavaçš„RateLimiteræä¾›äº†ä»¤ç‰Œæ¡¶ç®—æ³•å®ç°ï¼šå¹³æ»‘çªå‘é™æµ(SmoothBursty)å’Œå¹³æ»‘é¢„çƒ­é™æµ(SmoothWarmingUp)`
+    - ç§’æ€ç³»ç»Ÿæ¶æ„å’Œè®¾è®¡
+        - [ç§’æ€æ¶æ„](https://mp.weixin.qq.com/s/b04s_56kjNANN37LmxK6pw)  
+        `è¶…å–é—®é¢˜/æ¥å£é˜²åˆ·/ç§’æ€url/æ•°æ®åº“è®¾è®¡/é«˜å¹¶å‘/HystrixæœåŠ¡é™çº§`
+        - [ç§’æ€è®¾è®¡](https://mp.weixin.qq.com/s/Ieo6_gHQQLG6mpbEZJGH6A)
+        - [äº’è”ç½‘ç§’æ€ç³»ç»Ÿè®¾è®¡ä¸å®ç°](https://github.com/qiurunze123/miaosha)
+    - [æ­£ç¡®è®¾ç½®æ•°æ®åº“è¿æ¥æ± é™ä½æ—¶å»¶](https://mp.weixin.qq.com/s/CGmH4jmpTYODwnfpywRr1Q)  
+        `è¿æ¥æ± è¶Šå¤§ï¼Œé€Ÿåº¦è¶Šæ…¢äº†ã€‚ä½ éœ€è¦ä¸€ä¸ªå°è¿æ¥æ± ï¼Œå’Œä¸€ä¸ªå……æ»¡äº†ç­‰å¾…è¿æ¥çš„çº¿ç¨‹çš„é˜Ÿåˆ—`
+    - [é«˜å¹¶å‘ä¸‹å®ç°ä¸€æ¬¡å¿«é€Ÿçš„æŸ¥è¯¢](https://mp.weixin.qq.com/s/FGl9olwLjpBCIWCQVwJuyQ)    
++ æ•°æ®å¤„ç†ç³»ç»Ÿ
+    - [æœåŠ¡å‡çº§æ•°æ®è¿ç§»](https://mp.weixin.qq.com/s/d9RZX1dB3QWrmzUAGHZvEw)  
+        `å¹³æ»‘è¿ç§»æ•°æ®/è¿ç§»è¿‡ç¨‹ä¸åœæœº/ä¿è¯ç³»ç»ŸæŒç»­æœåŠ¡-->è¿½æ—¥å¿—æ³•,åŒå†™æ³•`
+    - [äº‹åŠ¡çš„éš”ç¦»](https://mp.weixin.qq.com/s/dLVaMwC_NQn_2JVSFfH9ug)  
+        `è„è¯»(è¯»å–æœªæäº¤çš„æ•°æ®)/ä¸å¯é‡å¤è¯»(ä¸€ä¸ªäº‹åŠ¡èŒƒå›´å†…ä¸¤ä¸ªç›¸åŒçš„æŸ¥è¯¢å´è¿”å›äº†ä¸åŒæ•°æ®,å¯¹åº”çš„æ˜¯Updateæ“ä½œ)/å¹»è¯»(ä¸€ä¸ªäº‹åŠ¡èŒƒå›´å†…æ“ä½œä¸å®Œæ•´çš„ç°è±¡ï¼Œå®ƒå¯¹åº”çš„æ˜¯æ’å…¥Insertæ“ä½œ)-->æ’ä»–é”/å…±äº«é”/æœªæäº¤è¯»(Read uncommitted)/æäº¤è¯»(Read committed)/å¯é‡å¤è¯»(Repeatable reads)/å¯åºåˆ—åŒ–(Serializable)`
+    - [åˆ†å¸ƒå¼äº‹åŠ¡ä¸­å¸¸è§çš„ä¸‰ç§è§£å†³æ–¹æ¡ˆ](https://mp.weixin.qq.com/s/jhyXWcHysSkn21k3s4izlA)  
+        `åˆ†å¸ƒå¼äº‹åŠ¡-->TX/XAåè®®/RMèµ„æºç®¡ç†å™¨/TMäº‹åŠ¡ç®¡ç†å™¨/å¹‚ç­‰æ“ä½œ/TCC/2PCæ“ä½œ/å¯è¡¥å¿æ“ä½œ`<br>
+        `æŸ”æ€§äº‹åŠ¡è§£å†³æ–¹æ¡ˆæ¶æ„-->åŸºäºå¯é æ¶ˆæ¯çš„æœ€ç»ˆä¸€è‡´æ€§æ–¹æ¡ˆ/TCCäº‹åŠ¡è¡¥å¿å‹æ–¹æ¡ˆ/æœ€å¤§åŠªåŠ›é€šçŸ¥å‹`
+    - [æ—¥å¿—å®æ—¶æ•°æ®èšåˆ](https://mp.weixin.qq.com/s/jgHx5mRyIp3CcmyBann0pg)  
+        `æ—¥å¿—åŸºæœ¬æ˜¯æ‰€æœ‰åˆ†å¸ƒå¼æ•°æ®ç³»ç»Ÿå’Œå®æ—¶åº”ç”¨æ¶æ„çš„æ ¸å¿ƒ.æ—¥å¿—è§£å†³çš„ä¸¤ä¸ªé—®é¢˜ï¼šé¡ºåºå˜åŒ–å’Œåˆ†å¸ƒå¼æ•°æ®ï¼Œåœ¨åˆ†å¸ƒå¼æ•°æ®ç³»ç»Ÿä¸­å¯¹æ›´æ–°æ“ä½œçš„é¡ºåºè¾¾æˆä¸€è‡´æ˜¯è¿™äº›ç³»ç»Ÿè¿›è¡Œè®¾è®¡æ—¶çš„æ ¸å¿ƒé—®é¢˜`
+    - [CQRSæ¶æ„æ¨¡å¼](https://mp.weixin.qq.com/s/qGc7wDFGfXUAlEDVM7fNsA)   
+        `åŸåˆ™æ˜¯è¯´ç¨‹åºåº”å½“è¦ä¹ˆä¿®æ”¹ç³»ç»Ÿ(Command), è¦ä¹ˆè¿”å›æŸ¥è¯¢ç»“æœ(Query),è½¯ä»¶ä¸­åº”å½“ä¿æŒå‘½ä»¤ä¸æŸ¥è¯¢çš„åˆ†ç¦»`
 + Microservice
-    - [Î¢·şÎñºËĞÄ¼Ü¹¹ÊáÀí](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)  
-        `Ä«·Æ¶¨ÂÉ(Éè¼ÆÏµÍ³)/¿µÍş¶¨ÂÉ(ÏµÍ³»®·Ö)`<br>
-        `·şÎñ·¢ÏÖ/Íø¹Ø/ÅäÖÃÖĞĞÄ/Í¨Ñ¶·½Ê½/¼à¿ØÔ¤¾¯/¼à¿Ø¼Ü¹¹/µ÷ÓÃÁ´¼à¿ØAPM/ÈÛ¶Ï-¸ôÀë-ÏŞÁ÷-½µ¼¶/ÈİÆ÷Óë·şÎñ±àÅÅÒıÇæ`
-        - [Î¢·şÎñÉè¼ÆÄ£Ê½](https://mp.weixin.qq.com/s/PzPfWHVanSQpZha7qDeKGw)
-        - [Î¢·şÎñ·¢ÏÖ¼¼Êõ](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)  
-            `´«Í³¼¯ÖĞÊ½´úÀí/¿Í»§¶ËÇ¶ÈëÊ½´úÀí/Ö÷»ú¶ÀÁ¢½ø³Ì·½°¸/K8S·şÎñ·¢ÏÖ»úÖÆ`
+    - [å¾®æœåŠ¡æ ¸å¿ƒæ¶æ„æ¢³ç†](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)  
+        `å¢¨è²å®šå¾‹(è®¾è®¡ç³»ç»Ÿ)/åº·å¨å®šå¾‹(ç³»ç»Ÿåˆ’åˆ†)`<br>
+        `æœåŠ¡å‘ç°/ç½‘å…³/é…ç½®ä¸­å¿ƒ/é€šè®¯æ–¹å¼/ç›‘æ§é¢„è­¦/ç›‘æ§æ¶æ„/è°ƒç”¨é“¾ç›‘æ§APM/ç†”æ–­-éš”ç¦»-é™æµ-é™çº§/å®¹å™¨ä¸æœåŠ¡ç¼–æ’å¼•æ“`
+        - [å¾®æœåŠ¡è®¾è®¡æ¨¡å¼](https://mp.weixin.qq.com/s/PzPfWHVanSQpZha7qDeKGw)
+        - [å¾®æœåŠ¡å‘ç°æŠ€æœ¯](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)  
+            `ä¼ ç»Ÿé›†ä¸­å¼ä»£ç†/å®¢æˆ·ç«¯åµŒå…¥å¼ä»£ç†/ä¸»æœºç‹¬ç«‹è¿›ç¨‹æ–¹æ¡ˆ/K8SæœåŠ¡å‘ç°æœºåˆ¶`
         - [Micro Services and Architecture](https://github.com/jsa4000/Getting-Started-Microservices)  
-            `Ñ§Ï°×ÊÁÏ`
+            `å­¦ä¹ èµ„æ–™`
             - [security/OAuth](https://github.com/jsa4000/Getting-Started-Microservices/tree/master/security/OAuth)
-        - [Î¢·şÎñÅäÖÃÖĞĞÄ](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)  
-            `ÖÎÀíÅäÖÃ/ApolloÖÎÀíÄÜÁ¦/¿ÉÓÃĞÔ³¡¾°/¶¯Ì¬ÈÕÖ¾¼¶±ğ/Zuul¶¯Ì¬Íø¹ØÂ·ÓÉ`
-            - [Spring CloudÅäÖÃÖĞĞÄ](https://www.haoyizebo.com/posts/8f2a7e9d/)
-        - [¿ªÔ´Î¢·şÎñ¿ò¼Ü](https://mp.weixin.qq.com/s/AqxYHBGrXmwZ8N1ewFf18A)  
+        - [å¾®æœåŠ¡é…ç½®ä¸­å¿ƒ](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)  
+            `æ²»ç†é…ç½®/Apolloæ²»ç†èƒ½åŠ›/å¯ç”¨æ€§åœºæ™¯/åŠ¨æ€æ—¥å¿—çº§åˆ«/ZuulåŠ¨æ€ç½‘å…³è·¯ç”±`
+            - [Spring Cloudé…ç½®ä¸­å¿ƒ](https://www.haoyizebo.com/posts/8f2a7e9d/)
+        - [å¼€æºå¾®æœåŠ¡æ¡†æ¶](https://mp.weixin.qq.com/s/AqxYHBGrXmwZ8N1ewFf18A)  
             `Service Mesh/Linkerd/Envoy/Istio/Conduit`  
-            - [·şÎñÍø¸ñService Mesh](https://mp.weixin.qq.com/s/vcTzl20zqyiUXleUR0NjyA)
-        - JavaÎ¢·şÎñÖ¸ÄÏ[[1](https://mp.weixin.qq.com/s/_Wz7NweA1NV3-hTD0yA1Rg), [2](https://mp.weixin.qq.com/s/aO5Ocl48jNo7MNUOkbTwCw)]  
-        `¿ª·¢²âÊÔ²¿Êğ/Êµ¼ù¾­Ñé`
-        - ¹¹½¨Î¢·şÎñ¼Ü¹¹([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))  
-        `¶¨ÒåĞèÇó/¼¼ÊõÑ¡ĞÍ/¿ª·¢¼°½»¸¶`
-	- [Î¢·şÎñÑ©±À¼°Ó¦¶Ô´ëÊ©](https://mp.weixin.qq.com/s/OZ8eYm2Vs-C9sCPvf9zJxQ)  
-        `Î¢·şÎñµÄ¸ßÄÚ¾ÛºÍµÍñîºÏ/·şÎñµ÷ÓÃÁ´/¼¶Áª¹ÊÕÏºÍÑ©±À/·şÎñÏŞÁ÷ÈÛ¶Ï½µ¼¶`
-        - [Î¢·şÎñ¼Ü¹¹·şÎñÏŞÁ÷·½°¸](https://mp.weixin.qq.com/s/umeeffXhJXlMASHaVC6xZQ)
-    - [Î¢·şÎñµÄ¾­Ñé½ÌÑµ](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
-        `¹È¸èÊµ¼ù¾­Ñé½ÌÑµ`
-    - [gRPC³¤Á¬½ÓÔÚÎ¢·şÎñÒµÎñÏµÍ³ÖĞµÄÊµ¼ù](https://mp.weixin.qq.com/s/LKGzc6XBAWYdskVQQJFLHw)   
-        `HTTP/2.0 ¶àÂ·¸´ÓÃ/µ¥¸öÁ¬½ÓÎ¬³ÖµÄ³É±¾¸ü¸ß/¸ºÔØ¾ùºâ»úÖÆ`<br>
-        `¸ºÔØ¾ùºâ»úÖÆ/Á¬½ÓµÄ¹ÜÀí(K8s+Istio)/ĞÔÄÜ²âÊÔ`
-    - APIÍø¹Ø
-        - [Î¢·şÎñÍø¹ØĞèÇó](https://mp.weixin.qq.com/s/7pYWWPF5Ux8ULJkANE72rg)
-        - [APIÍø¹ØÔÚÎ¢·şÎñ¼Ü¹¹ÖĞµÄÓ¦ÓÃ](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)    
-            `°¢ÀïÔÆAPIÍø¹ØÓ¦ÓÃ¾­Ñé`
-        - [¾©¶«APIÍø¹ØÊµ¼ùÖ®Â·](https://mp.weixin.qq.com/s/eEArVvp-q5ocQVM9vVj2Mg)            
+            - [æœåŠ¡ç½‘æ ¼Service Mesh](https://mp.weixin.qq.com/s/vcTzl20zqyiUXleUR0NjyA)
+        - Javaå¾®æœåŠ¡æŒ‡å—[[1](https://mp.weixin.qq.com/s/_Wz7NweA1NV3-hTD0yA1Rg), [2](https://mp.weixin.qq.com/s/aO5Ocl48jNo7MNUOkbTwCw)]  
+        `å¼€å‘æµ‹è¯•éƒ¨ç½²/å®è·µç»éªŒ`
+        - æ„å»ºå¾®æœåŠ¡æ¶æ„([**1**](https://mp.weixin.qq.com/s/-x69LvACvquS33Os5I_BSA), [**2**](https://mp.weixin.qq.com/s/mqiJuxR0vrwtZeZCntS21A), [**3**](https://mp.weixin.qq.com/s/MyhPlP5yJN46AEoyQOOFTA))  
+        `å®šä¹‰éœ€æ±‚/æŠ€æœ¯é€‰å‹/å¼€å‘åŠäº¤ä»˜`
+	- [å¾®æœåŠ¡é›ªå´©åŠåº”å¯¹æªæ–½](https://mp.weixin.qq.com/s/OZ8eYm2Vs-C9sCPvf9zJxQ)  
+        `å¾®æœåŠ¡çš„é«˜å†…èšå’Œä½è€¦åˆ/æœåŠ¡è°ƒç”¨é“¾/çº§è”æ•…éšœå’Œé›ªå´©/æœåŠ¡é™æµç†”æ–­é™çº§`
+        - [å¾®æœåŠ¡æ¶æ„æœåŠ¡é™æµæ–¹æ¡ˆ](https://mp.weixin.qq.com/s/umeeffXhJXlMASHaVC6xZQ)
+    - [å¾®æœåŠ¡çš„ç»éªŒæ•™è®­](https://mp.weixin.qq.com/s/ks6VAzvPZDi3o5ynkQ4-ng)  
+        `è°·æ­Œå®è·µç»éªŒæ•™è®­`
+    - [gRPCé•¿è¿æ¥åœ¨å¾®æœåŠ¡ä¸šåŠ¡ç³»ç»Ÿä¸­çš„å®è·µ](https://mp.weixin.qq.com/s/LKGzc6XBAWYdskVQQJFLHw)   
+        `HTTP/2.0 å¤šè·¯å¤ç”¨/å•ä¸ªè¿æ¥ç»´æŒçš„æˆæœ¬æ›´é«˜/è´Ÿè½½å‡è¡¡æœºåˆ¶`<br>
+        `è´Ÿè½½å‡è¡¡æœºåˆ¶/è¿æ¥çš„ç®¡ç†(K8s+Istio)/æ€§èƒ½æµ‹è¯•`
+    - APIç½‘å…³
+        - [å¾®æœåŠ¡ç½‘å…³éœ€æ±‚](https://mp.weixin.qq.com/s/7pYWWPF5Ux8ULJkANE72rg)
+        - [APIç½‘å…³åœ¨å¾®æœåŠ¡æ¶æ„ä¸­çš„åº”ç”¨](https://mp.weixin.qq.com/s/WPYuMrILE8D8Sw5hjvDkZg)    
+            `é˜¿é‡Œäº‘APIç½‘å…³åº”ç”¨ç»éªŒ`
+        - [äº¬ä¸œAPIç½‘å…³å®è·µä¹‹è·¯](https://mp.weixin.qq.com/s/eEArVvp-q5ocQVM9vVj2Mg)            
     - Spring Cloud
-        - [Í¼Ê¾¼Ü¹¹](https://mp.weixin.qq.com/s/gS-aMU5Zt9iDzhV4fNzY9Q)  
+        - [å›¾ç¤ºæ¶æ„](https://mp.weixin.qq.com/s/gS-aMU5Zt9iDzhV4fNzY9Q)  
     - Dubbo
-        - [Dubbo¼Ü¹¹](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)  
-        `·şÎñ×¢²áÖĞĞÄ/¶¯Ì¬´úÀí²ãProxy/Cluster¼¯Èº²ã/protocolĞ­Òé²ã/ExchangeĞÅÏ¢½»»»²ã/TransportÍøÂçÍ¨ĞÅ²ã`
-        - [DubboĞÄÌøÉè¼Æ](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)  
-        `TCP¶ÌÁ¬½Ó/³¤Á¬½Ó/±£»î/Netty-HashedWheelTimer`
-	- ·şÎñÍø¸ñ
-        - [°Ù¶È·şÎñÍø¸ñ](https://mp.weixin.qq.com/s/DN0oXKeR0CnG30XmcF98tw)
-        - [Ä°Ä°Service Mesh¼Ü¹¹](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
-    - ·Ö²¼Ê½µ÷¶È
-        - [·Ö²¼Ê½¶¨Ê±ÈÎÎñµ÷¶ÈÏµÍ³¼¼ÊõÑ¡ĞÍ](https://mp.weixin.qq.com/s/Y0fEWxuH-3PMX-rb92-D6w)
-    - [ÌÚÑ¶Î¢·şÎñÆ½Ì¨µÄ¼Ü¹¹Ñİ½ø](https://mp.weixin.qq.com/s/C8cXSdHcqvuVMxybinFQPQ)  
-        `Ô­ÉúConsulµÄÄÜÁ¦ÓëÏŞÖÆ/¶à×â»§/ĞÔÄÜÓÅ»¯`
-	- [Ğ¡ÅôÆû³µ¼¼ÊõÖĞÌ¨Î¢·şÎñÊµ¼ù](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)  
-        `Spring CloudÔÜÆğÎ¢·şÎñ¾­Ñé-->Eureka/RibbonÈİ´í/SpringBoot Tomcat/HttpClientÁ¬½Ó³ØµÄKeep-Alive/¹ö¶¯Éı¼¶Ê±µÄ¿ÉÓÃĞÔ±£ÕÏ`
-    - [UberÃæÏòÁìÓòµÄÎ¢·şÎñ¼Ü¹¹](https://mp.weixin.qq.com/s/ZK1kJrmBo7rEeZg-K6spxQ)
-    - [Äã¿ÉÄÜ²»ĞèÒªÎ¢·şÎñ](https://mp.weixin.qq.com/s/2ZK-NwzuoziZq_5MI7x4mQ)
-+ [Âş»­ÖĞÌ¨](https://mp.weixin.qq.com/s/49uKZEWa9vG2hsbU8Km5Zg)  
-    `ÒµÎñÖĞÌ¨/¼¼ÊõÖĞÌ¨/Êı¾İÖĞÌ¨/Ëã·¨ÖĞÌ¨`
-+ [ÔÆ¼ÆËã](https://mp.weixin.qq.com/s/WEHhYOdxJEJUpnABlRf10w)
-+ [ÎïÁªÍø](https://mp.weixin.qq.com/s/iVackIMMIwPYQ6mHQ_Q_uw)
-+ [»ìãç¹¤³Ì](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)  
-    `»ìãç¹¤³Ì(chaos engineering)ÊÇÔÚ·Ö²¼Ê½ÏµÍ³ÉÏ½øĞĞÊµÑéµÄÑ§¿Æ, Ä¿µÄÊÇ½¨Á¢¶ÔÏµÍ³µÖÓùÉú²ú»·¾³ÖĞÊ§¿ØÌõ¼şµÄÄÜÁ¦ÒÔ¼°ĞÅĞÄ,°üÀ¨:`<br>
-    `Ä£ÄâÕû¸öIDCå´µô/Ñ¡ÔñÒ»²¿·ÖÍøÂçÁ¬½Ó×¢ÈëÌØ¶¨Ê±¼äµÄÑÓ³Ù/Ëæ»úÈÃÒ»Ğ©º¯ÊıÅ×³öÒì³£/Ç¿ÖÆNTPÊ±¼ä²»Í¬²½/Éú³ÉIO´íÎó/Õ¥¸ÉCPU`
-    - [FreeWheelÍÅ¶Ó»ìãç¹¤³ÌÊµ¼ùÖ®Â·](https://mp.weixin.qq.com/s/0monDPkAlMk7Yhq9swW7gQ)
-    - [»ìãç¹¤³ÌÔÚ¹¤ÉÌÒøĞĞµÄÌ½Ë÷Êµ¼ù](https://mp.weixin.qq.com/s/MjzhWzxO9KZ36IgGJFMvEQ)
-+ [¼¼ÊõÑ¡ĞÍ](https://mp.weixin.qq.com/s/2FN6x8VMA_v6kMW9t5hTww)
-+ [DevOps¹¤¾ßÁ´](https://mp.weixin.qq.com/s/1t1jICQEgXSJ51DVj6JrfQ)  
-    `¼Æ»®¹¤¾ß/ÎÊÌâ¸ú×Ù/Ô´Âë¿ØÖÆ/¹¹½¨¹¤¾ß/²âÊÔ¹¤¾ß/CIºÍCD/ÅäÖÃ¹ÜÀí¹¤¾ß/ÔÆÆ½Ì¨/¼à¿ØºÍÈÕÖ¾¹¤¾ß/¹µÍ¨¹¤¾ß/ÖªÊ¶·ÖÏí¹¤¾ß`
-+ [ServerlessÇ¨ÒÆÊµ¼ù](https://mp.weixin.qq.com/s/kJi2or1e7mQAJzeONeVfeA)
-+ API¿ª·¢
-    + [APIÑİ±ä-´ÓRESTµ½WebSocket/gRPC/GraphQL](https://mp.weixin.qq.com/s/CieKMCv2LbV0eDnoVOoQXw)
-    + [API·½Ê½-REST/RPC/GraphQL](https://mp.weixin.qq.com/s/4IkJqZAB-X0HeGyemQo73A)
-    + [API¶Ô±È-RPC/SOAP/REST/GraphQL](https://mp.weixin.qq.com/s/HDuV-oXKsbGFZ0HOpj8ydw)
-+ ÒÚ¼¶Á÷Á¿¼Ü¹¹µÄ¿¼ÂÇ
-    - ·Ö²¼Ê½ÊÂÎñË¼Â·¼°·½·¨[[1](https://mp.weixin.qq.com/s/ns7AZNK-6GCeMymiMwahQg), [2](https://mp.weixin.qq.com/s/CJ219p87gmffzefSwC_CIQ)]
-    - [·şÎñ½µ¼¶Ë¼Â·Óë·½·¨](https://mp.weixin.qq.com/s/B5BNu6YJssOMlqsuD7W-wA)
-    - [×ÊÔ´¸ôÀëË¼Â·Óë·½·¨](https://mp.weixin.qq.com/s/-FKgYG0djCmtfkE-wFnFsw)
-    - [»º´æË¼Â·Óë·½·¨](https://mp.weixin.qq.com/s/kEEqKphj2GFKRlnXDEZ32A)
-    - [·şÎñÆ÷À©ÈİË¼Â·¼°ÎÊÌâ·ÖÎö](https://mp.weixin.qq.com/s/I0TeBsb6LeAnWhC81RqCHg)
-+ [HystrixÈİ´í¿ò¼Ü](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)  
-    `Ñ©±ÀĞ§Ó¦/»º´æ´©Í¸/HystrixCommand/×ÊÔ´¸ôÀë/ÈÛ¶Ï`
-+ [´ÓÁã¿ªÊ¼´î½¨ºóÌ¨¼¼ÊõÕ»](https://mp.weixin.qq.com/s/q9zzDPJXQRqIF6iQv2EE0A)
-+ [Í·Ìõ¼¼Êõ¼Ü¹¹·ÖÎö](https://mp.weixin.qq.com/s/rzFdLeLwCAqq0DI13kOQkQ)
-+ [¾©¶«¿ª·ÅÆ½Ì¨ÏûÏ¢ÏµÍ³](https://mp.weixin.qq.com/s/-_ojzdrhx9GIaN0xJzeFrA)
-+ [ÍøÒ×»ùÓÚFilebeatµÄÈÕÖ¾²É¼¯·şÎñÉè¼ÆÓëÊµ¼ù](https://mp.weixin.qq.com/s/HpOZ9_T1EVK8DBNb3qt-Nw)
-+ [¿ìÊÖ´óÊı¾İÆ½Ì¨·şÎñ»¯Êµ¼ù](https://mp.weixin.qq.com/s/OelgWc7ptjFmShxiikdARQ)
-+ [Î¢ĞÅÖ±²¥ÁÄÌìÊÒ¼Ü¹¹Ñİ½ø](https://mp.weixin.qq.com/s/poZo0uHl88n9TadBKUzFVA)
-+ [ÃÀÍÅ¼´Ê±ÎïÁ÷µÄ·Ö²¼Ê½ÏµÍ³¼Ü¹¹Éè¼Æ](https://mp.weixin.qq.com/s/UyQmhjv9qMtQSDmu5ZyOvA)
-+ [¶©µ¥ÏµÍ³Éè¼ÆË¼Â·](https://mp.weixin.qq.com/s/dejiHNKRa98b-VNmHjq0tA)
-+ [ÓÅĞãµÄÈí¼şÉè¼ÆÎÄµµÒªÇó](https://mp.weixin.qq.com/s/OyAIKmQ61Lk_BXcMY3ML1A)
-+ [¸ßĞ§Ñ¸ËÙµÄ½øĞĞCodeReview](https://mp.weixin.qq.com/s/gYmwLBixMSUAoAenogX37g)
-+ [ÏîÄ¿¹ÜÀí³£ÓÃµÄÆß´ó¹¤¾ß](https://mp.weixin.qq.com/s/MXOfY1hrE1z_e_bacTX-oQ)
-+ [ÑĞ·¢Ğ§ÄÜË¼¿¼](https://mp.weixin.qq.com/s/8rXUprqmfKhKdqz3VzA9Tg)
+        - [Dubboæ¶æ„](https://mp.weixin.qq.com/s/0vGUp9jiT03UqdhW18ZUHQ)  
+        `æœåŠ¡æ³¨å†Œä¸­å¿ƒ/åŠ¨æ€ä»£ç†å±‚Proxy/Clusteré›†ç¾¤å±‚/protocolåè®®å±‚/Exchangeä¿¡æ¯äº¤æ¢å±‚/Transportç½‘ç»œé€šä¿¡å±‚`
+        - [Dubboå¿ƒè·³è®¾è®¡](https://mp.weixin.qq.com/s/nqoUQwBqiybccDUMMA811w)  
+        `TCPçŸ­è¿æ¥/é•¿è¿æ¥/ä¿æ´»/Netty-HashedWheelTimer`
+	- æœåŠ¡ç½‘æ ¼
+        - [ç™¾åº¦æœåŠ¡ç½‘æ ¼](https://mp.weixin.qq.com/s/DN0oXKeR0CnG30XmcF98tw)
+        - [é™Œé™ŒService Meshæ¶æ„](https://mp.weixin.qq.com/s/EeJTpAMlx_mFZp6mh2i2xw)
+    - åˆ†å¸ƒå¼è°ƒåº¦
+        - [åˆ†å¸ƒå¼å®šæ—¶ä»»åŠ¡è°ƒåº¦ç³»ç»ŸæŠ€æœ¯é€‰å‹](https://mp.weixin.qq.com/s/Y0fEWxuH-3PMX-rb92-D6w)
+    - [è…¾è®¯å¾®æœåŠ¡å¹³å°çš„æ¶æ„æ¼”è¿›](https://mp.weixin.qq.com/s/C8cXSdHcqvuVMxybinFQPQ)  
+        `åŸç”ŸConsulçš„èƒ½åŠ›ä¸é™åˆ¶/å¤šç§Ÿæˆ·/æ€§èƒ½ä¼˜åŒ–`
+	- [å°é¹æ±½è½¦æŠ€æœ¯ä¸­å°å¾®æœåŠ¡å®è·µ](https://mp.weixin.qq.com/s/uXQ9CX6TV7Ij2loAp7iHKQ)  
+        `Spring Cloudæ”’èµ·å¾®æœåŠ¡ç»éªŒ-->Eureka/Ribbonå®¹é”™/SpringBoot Tomcat/HttpClientè¿æ¥æ± çš„Keep-Alive/æ»šåŠ¨å‡çº§æ—¶çš„å¯ç”¨æ€§ä¿éšœ`
+    - [Uberé¢å‘é¢†åŸŸçš„å¾®æœåŠ¡æ¶æ„](https://mp.weixin.qq.com/s/ZK1kJrmBo7rEeZg-K6spxQ)
+    - [ä½ å¯èƒ½ä¸éœ€è¦å¾®æœåŠ¡](https://mp.weixin.qq.com/s/2ZK-NwzuoziZq_5MI7x4mQ)
++ [æ¼«ç”»ä¸­å°](https://mp.weixin.qq.com/s/49uKZEWa9vG2hsbU8Km5Zg)  
+    `ä¸šåŠ¡ä¸­å°/æŠ€æœ¯ä¸­å°/æ•°æ®ä¸­å°/ç®—æ³•ä¸­å°`
++ [äº‘è®¡ç®—](https://mp.weixin.qq.com/s/WEHhYOdxJEJUpnABlRf10w)
++ [ç‰©è”ç½‘](https://mp.weixin.qq.com/s/iVackIMMIwPYQ6mHQ_Q_uw)
++ [æ··æ²Œå·¥ç¨‹](https://mp.weixin.qq.com/s/aJyYbyKPc5Jqr8B8f74Ksw)  
+    `æ··æ²Œå·¥ç¨‹(chaos engineering)æ˜¯åœ¨åˆ†å¸ƒå¼ç³»ç»Ÿä¸Šè¿›è¡Œå®éªŒçš„å­¦ç§‘, ç›®çš„æ˜¯å»ºç«‹å¯¹ç³»ç»ŸæŠµå¾¡ç”Ÿäº§ç¯å¢ƒä¸­å¤±æ§æ¡ä»¶çš„èƒ½åŠ›ä»¥åŠä¿¡å¿ƒ,åŒ…æ‹¬:`<br>
+    `æ¨¡æ‹Ÿæ•´ä¸ªIDCå®•æ‰/é€‰æ‹©ä¸€éƒ¨åˆ†ç½‘ç»œè¿æ¥æ³¨å…¥ç‰¹å®šæ—¶é—´çš„å»¶è¿Ÿ/éšæœºè®©ä¸€äº›å‡½æ•°æŠ›å‡ºå¼‚å¸¸/å¼ºåˆ¶NTPæ—¶é—´ä¸åŒæ­¥/ç”ŸæˆIOé”™è¯¯/æ¦¨å¹²CPU`
+    - [FreeWheelå›¢é˜Ÿæ··æ²Œå·¥ç¨‹å®è·µä¹‹è·¯](https://mp.weixin.qq.com/s/0monDPkAlMk7Yhq9swW7gQ)
+    - [æ··æ²Œå·¥ç¨‹åœ¨å·¥å•†é“¶è¡Œçš„æ¢ç´¢å®è·µ](https://mp.weixin.qq.com/s/MjzhWzxO9KZ36IgGJFMvEQ)
++ [æŠ€æœ¯é€‰å‹](https://mp.weixin.qq.com/s/2FN6x8VMA_v6kMW9t5hTww)
++ [DevOpså·¥å…·é“¾](https://mp.weixin.qq.com/s/1t1jICQEgXSJ51DVj6JrfQ)  
+    `è®¡åˆ’å·¥å…·/é—®é¢˜è·Ÿè¸ª/æºç æ§åˆ¶/æ„å»ºå·¥å…·/æµ‹è¯•å·¥å…·/CIå’ŒCD/é…ç½®ç®¡ç†å·¥å…·/äº‘å¹³å°/ç›‘æ§å’Œæ—¥å¿—å·¥å…·/æ²Ÿé€šå·¥å…·/çŸ¥è¯†åˆ†äº«å·¥å…·`
++ [Serverlessè¿ç§»å®è·µ](https://mp.weixin.qq.com/s/kJi2or1e7mQAJzeONeVfeA)
++ APIå¼€å‘
+    + [APIæ¼”å˜-ä»RESTåˆ°WebSocket/gRPC/GraphQL](https://mp.weixin.qq.com/s/CieKMCv2LbV0eDnoVOoQXw)
+    + [APIæ–¹å¼-REST/RPC/GraphQL](https://mp.weixin.qq.com/s/4IkJqZAB-X0HeGyemQo73A)
+    + [APIå¯¹æ¯”-RPC/SOAP/REST/GraphQL](https://mp.weixin.qq.com/s/HDuV-oXKsbGFZ0HOpj8ydw)
++ äº¿çº§æµé‡æ¶æ„çš„è€ƒè™‘
+    - åˆ†å¸ƒå¼äº‹åŠ¡æ€è·¯åŠæ–¹æ³•[[1](https://mp.weixin.qq.com/s/ns7AZNK-6GCeMymiMwahQg), [2](https://mp.weixin.qq.com/s/CJ219p87gmffzefSwC_CIQ)]
+    - [æœåŠ¡é™çº§æ€è·¯ä¸æ–¹æ³•](https://mp.weixin.qq.com/s/B5BNu6YJssOMlqsuD7W-wA)
+    - [èµ„æºéš”ç¦»æ€è·¯ä¸æ–¹æ³•](https://mp.weixin.qq.com/s/-FKgYG0djCmtfkE-wFnFsw)
+    - [ç¼“å­˜æ€è·¯ä¸æ–¹æ³•](https://mp.weixin.qq.com/s/kEEqKphj2GFKRlnXDEZ32A)
+    - [æœåŠ¡å™¨æ‰©å®¹æ€è·¯åŠé—®é¢˜åˆ†æ](https://mp.weixin.qq.com/s/I0TeBsb6LeAnWhC81RqCHg)
++ [Hystrixå®¹é”™æ¡†æ¶](https://mp.weixin.qq.com/s/SwhpcY2hWAFLEt2iau-CNg)  
+    `é›ªå´©æ•ˆåº”/ç¼“å­˜ç©¿é€/HystrixCommand/èµ„æºéš”ç¦»/ç†”æ–­`
++ [ä»é›¶å¼€å§‹æ­å»ºåå°æŠ€æœ¯æ ˆ](https://mp.weixin.qq.com/s/q9zzDPJXQRqIF6iQv2EE0A)
++ [å¤´æ¡æŠ€æœ¯æ¶æ„åˆ†æ](https://mp.weixin.qq.com/s/rzFdLeLwCAqq0DI13kOQkQ)
++ [äº¬ä¸œå¼€æ”¾å¹³å°æ¶ˆæ¯ç³»ç»Ÿ](https://mp.weixin.qq.com/s/-_ojzdrhx9GIaN0xJzeFrA)
++ [ç½‘æ˜“åŸºäºFilebeatçš„æ—¥å¿—é‡‡é›†æœåŠ¡è®¾è®¡ä¸å®è·µ](https://mp.weixin.qq.com/s/HpOZ9_T1EVK8DBNb3qt-Nw)
++ [å¿«æ‰‹å¤§æ•°æ®å¹³å°æœåŠ¡åŒ–å®è·µ](https://mp.weixin.qq.com/s/OelgWc7ptjFmShxiikdARQ)
++ [å¾®ä¿¡ç›´æ’­èŠå¤©å®¤æ¶æ„æ¼”è¿›](https://mp.weixin.qq.com/s/poZo0uHl88n9TadBKUzFVA)
++ [ç¾å›¢å³æ—¶ç‰©æµçš„åˆ†å¸ƒå¼ç³»ç»Ÿæ¶æ„è®¾è®¡](https://mp.weixin.qq.com/s/UyQmhjv9qMtQSDmu5ZyOvA)
++ [è®¢å•ç³»ç»Ÿè®¾è®¡æ€è·¯](https://mp.weixin.qq.com/s/dejiHNKRa98b-VNmHjq0tA)
++ [ä¼˜ç§€çš„è½¯ä»¶è®¾è®¡æ–‡æ¡£è¦æ±‚](https://mp.weixin.qq.com/s/OyAIKmQ61Lk_BXcMY3ML1A)
++ [é«˜æ•ˆè¿…é€Ÿçš„è¿›è¡ŒCodeReview](https://mp.weixin.qq.com/s/gYmwLBixMSUAoAenogX37g)
++ [é¡¹ç›®ç®¡ç†å¸¸ç”¨çš„ä¸ƒå¤§å·¥å…·](https://mp.weixin.qq.com/s/MXOfY1hrE1z_e_bacTX-oQ)
++ [ç ”å‘æ•ˆèƒ½æ€è€ƒ](https://mp.weixin.qq.com/s/8rXUprqmfKhKdqz3VzA9Tg)
 
 #### Database
-+ »ù±¾ÖªÊ¶
-    - [¼òÃ÷Êı¾İ¿âÊ·](https://mp.weixin.qq.com/s/6j_z4QFxK0bIvzmy7WLhKA)
-    - [Êı¾İ¿âÏµÍ³Ô­Àí](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)  
-        `ÊÂÎñ/²¢·¢Ò»ÖÂĞÔ/Êı¾İËø/¸ôÀë¼¶±ğ/¶à°æ±¾²¢·¢¿ØÖÆ(MVCC)/Next-Key Locks½â¾ö»Ã¶ÁÎÊÌâ/¹ØÏµÊı¾İ¿âÉè¼ÆÀíÂÛ`
-    - [Êı¾İ¿â¹¤³Ì¾­Ñé](https://mp.weixin.qq.com/s/zbAp1xMrxGoxz86uJ3y15Q)  
-        `ACIDµÄ¸÷ÖÖÌôÕ½`
-    - [´æ´¢º£Á¿Êı¾İ](https://mp.weixin.qq.com/s/jgRPk_fyso8ns3WxzmY9Zg)  
-        `»º´æ/Ò³Ãæ¾²Ì¬»¯/Êı¾İ¿âÓÅ»¯/ÈÈµãÊı¾İ·ÖÀë/ºÏ²¢Êı¾İ¿â²Ù×÷/Êı¾İ¿â¶ÁĞ´·ÖÀë`
-    - [·Ö²¼Ê½Êı¾İ¿âÊµÏÖÖ÷¼üÈ«¾Ö×ÔÔö](https://mp.weixin.qq.com/s/oNsTcrWCjntQefD2B0sq1A)  
-        `ÉèÖÃÖ÷¼ü×ÔÔöµÄ²½³¤ºÍÆğÊ¼Æ«ÒÆÁ¿/ZKµİÔö·½Ê½`
-        - [·Ö²¼Ê½ÏÂµÄÖ÷¼üÉú³É](https://mp.weixin.qq.com/s/1TcZAsaJ-T4W6S8cRqZUKQ)  
-            `Êı¾İ¿âÖ÷¼ü×ÔÔö³¤/UUID/Ê±¼ä´Á/snowflake`
-    - [·Ö¿â·Ö±í](https://mp.weixin.qq.com/s/U-9W-vHUReuZ5tgvtCRzJQ)  
++ åŸºæœ¬çŸ¥è¯†
+    - [ç®€æ˜æ•°æ®åº“å²](https://mp.weixin.qq.com/s/6j_z4QFxK0bIvzmy7WLhKA)
+    - [æ•°æ®åº“ç³»ç»ŸåŸç†](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)  
+        `äº‹åŠ¡/å¹¶å‘ä¸€è‡´æ€§/æ•°æ®é”/éš”ç¦»çº§åˆ«/å¤šç‰ˆæœ¬å¹¶å‘æ§åˆ¶(MVCC)/Next-Key Locksè§£å†³å¹»è¯»é—®é¢˜/å…³ç³»æ•°æ®åº“è®¾è®¡ç†è®º`
+    - [æ•°æ®åº“å·¥ç¨‹ç»éªŒ](https://mp.weixin.qq.com/s/zbAp1xMrxGoxz86uJ3y15Q)  
+        `ACIDçš„å„ç§æŒ‘æˆ˜`
+    - [å­˜å‚¨æµ·é‡æ•°æ®](https://mp.weixin.qq.com/s/jgRPk_fyso8ns3WxzmY9Zg)  
+        `ç¼“å­˜/é¡µé¢é™æ€åŒ–/æ•°æ®åº“ä¼˜åŒ–/çƒ­ç‚¹æ•°æ®åˆ†ç¦»/åˆå¹¶æ•°æ®åº“æ“ä½œ/æ•°æ®åº“è¯»å†™åˆ†ç¦»`
+    - [åˆ†å¸ƒå¼æ•°æ®åº“å®ç°ä¸»é”®å…¨å±€è‡ªå¢](https://mp.weixin.qq.com/s/oNsTcrWCjntQefD2B0sq1A)  
+        `è®¾ç½®ä¸»é”®è‡ªå¢çš„æ­¥é•¿å’Œèµ·å§‹åç§»é‡/ZKé€’å¢æ–¹å¼`
+        - [åˆ†å¸ƒå¼ä¸‹çš„ä¸»é”®ç”Ÿæˆ](https://mp.weixin.qq.com/s/1TcZAsaJ-T4W6S8cRqZUKQ)  
+            `æ•°æ®åº“ä¸»é”®è‡ªå¢é•¿/UUID/æ—¶é—´æˆ³/snowflake`
+    - [åˆ†åº“åˆ†è¡¨](https://mp.weixin.qq.com/s/U-9W-vHUReuZ5tgvtCRzJQ)  
         ` ID hash/range/sharding JDBC`
-        - [MySQL·Ö¿â·Ö±í](https://mp.weixin.qq.com/s/CoTO3owzgyciLfpVvFTb8w)  
-            `ShardingÊı¾İ¿âºáÏòÀ©Õ¹µ½¶à¸öÎïÀí½Úµã/Ë®Æ½À©Õ¹(Scale Out)/´¹Ö±À©Õ¹(Scale Up)/·Ö±íºÍ·ÖÇøµÄ³¡¾°ºÍÇø±ğ/·Ö¿âÌá¸ßÊı¾İ¿âĞ´ĞÔÄÜ/Êı¾İÇĞ·Ö/Flickr·½°¸/Snowflake(Ñ©»¨Ëã·¨)`
-    - [·ÖÒ³²éÑ¯](https://mp.weixin.qq.com/s/QHE064D9g1Hwa8-07RgYNg)  
-        `LIMIT×Ó¾ä/×Ó²éÑ¯ÓÅ»¯/idÏŞ¶¨ÓÅ»¯/ÁÙÊ±±íÓÅ»¯`
-        - [±ğÔÙÓÃOFFSET+LIMIT·ÖÒ³](https://mp.weixin.qq.com/s/XCSvDx90ml3uDkwBah8XsQ)
-        - [MyBatisÇ§ÍòÊı¾İ±í¿ìËÙ·ÖÒ³](https://mp.weixin.qq.com/s/6LVORrQC_5NijxwUNheKeg)
-        - [²éÑ¯ÓÅ»¯Ô­Àí·ÖÎö--´Ó17sµ½300ms](https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA)
-    - [ÓĞĞòË÷Òı](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)  
-        `1.ÓĞĞòË÷Òı-->Í¨³£ÊÇBÊ÷/¹şÏ£±í-->GoÖĞmap,PythonÖĞdict,JavaÖĞHashMap`<br>
-        `2.ÄÚ´æÖĞ´æ´¢Êı¾İÊ±£¬¹şÏ£±íµÄĞ§ÂÊºÜ¸ß£¬¶øBÊ÷µÄÉè¼ÆÖ¼ÔÚÒÔ¿éµÄĞÎÊ½·ÃÎÊ½ÏÂıµÄ´æ´¢`
-        - [SQLÊ¹ÓÃÁËË÷Òı²éÑ¯»¹ÊÇÂı](https://mp.weixin.qq.com/s/0ergLeCIsZoq23LxdujiEQ)  
-            `Âı²éÑ¯Óï¾ä/Ö´ĞĞÊ±¼ä/long_query_time/Ë÷ÒıµÄ¹ıÂËĞÔÒª×ã¹»ºÃ`
-    - [Êı¾İ¿âÖĞ¼ä¼şÏê½â ](https://mp.weixin.qq.com/s/Nsbv4yIglDZqYkhfwHRyzQ)  
-        `1.Êı¾İ¿â²ğ·Ö¹ı³Ì¼°ÌôÕ½-->´¹Ö±²ğ·Ö/¶ÁĞ´·ÖÀë/·Ö¿â·Ö±í`<br>
-        `2.ÌôÕ½-->ÔöÉ¾¸Ä¹¦ÄÜ/·Ö²¼Ê½id/·Ö²¼Ê½ÊÂÎñ/¶¯Ì¬À©Èİ`<br>
-        `3.Êı¾İ¿âÖĞ¼ä¼şÉè¼Æ·½°¸-->proxyÄ£Ê½/smart-clientÄ£Ê½/ORM¿ò¼Ü´úÀí`<br>
-        `4.¶ÁĞ´·ÖÀëºËĞÄÒªµã-->Â·ÓÉ¹¦ÄÜ/´Ó¿âÂ·ÓÉ²ßÂÔ/HAÓëScalable`
-    - [Êı¾İ¿â¡®×´Ì¬¡¯×Ö¶ÎÉè¼Æ](https://mp.weixin.qq.com/s/VZFAc-LdeF4YaoixQsf3kw)  
-        `¶©µ¥±íµÄÉè¼Æ-->¶©µ¥×´Ì¬Öµ/×ÖµäÖµ/ÀàĞÍ`
-    - [MySQL/ES/HBASEµÈ¼¼ÊõÌá¸ßºó¶Ë½Ó¿ÚĞÔÄÜ](https://mp.weixin.qq.com/s/SrwndkY5xYEO-V_pYX2ttQ)
-    - [Êı¾İ½¨Ä£¹¤¾ß](https://mp.weixin.qq.com/s/92y3kAfPTtDdiLcoN9h76A)
-    - 2019¾«Ñ¡ºÏ¼¯[[***1***](https://mp.weixin.qq.com/s/tMjk8Ak73OIBvDhG7BiTmA), [***2***](https://mp.weixin.qq.com/s/Q1B3QL2HiVvJvUUHIeCSQA)]
+        - [MySQLåˆ†åº“åˆ†è¡¨](https://mp.weixin.qq.com/s/CoTO3owzgyciLfpVvFTb8w)  
+            `Shardingæ•°æ®åº“æ¨ªå‘æ‰©å±•åˆ°å¤šä¸ªç‰©ç†èŠ‚ç‚¹/æ°´å¹³æ‰©å±•(Scale Out)/å‚ç›´æ‰©å±•(Scale Up)/åˆ†è¡¨å’Œåˆ†åŒºçš„åœºæ™¯å’ŒåŒºåˆ«/åˆ†åº“æé«˜æ•°æ®åº“å†™æ€§èƒ½/æ•°æ®åˆ‡åˆ†/Flickræ–¹æ¡ˆ/Snowflake(é›ªèŠ±ç®—æ³•)`
+    - [åˆ†é¡µæŸ¥è¯¢](https://mp.weixin.qq.com/s/QHE064D9g1Hwa8-07RgYNg)  
+        `LIMITå­å¥/å­æŸ¥è¯¢ä¼˜åŒ–/idé™å®šä¼˜åŒ–/ä¸´æ—¶è¡¨ä¼˜åŒ–`
+        - [åˆ«å†ç”¨OFFSET+LIMITåˆ†é¡µ](https://mp.weixin.qq.com/s/XCSvDx90ml3uDkwBah8XsQ)
+        - [MyBatisåƒä¸‡æ•°æ®è¡¨å¿«é€Ÿåˆ†é¡µ](https://mp.weixin.qq.com/s/6LVORrQC_5NijxwUNheKeg)
+        - [æŸ¥è¯¢ä¼˜åŒ–åŸç†åˆ†æ--ä»17såˆ°300ms](https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA)
+    - [æœ‰åºç´¢å¼•](https://mp.weixin.qq.com/s/hrLpEfDEM1ZjMjcqKXryVw)  
+        `1.æœ‰åºç´¢å¼•-->é€šå¸¸æ˜¯Bæ ‘/å“ˆå¸Œè¡¨-->Goä¸­map,Pythonä¸­dict,Javaä¸­HashMap`<br>
+        `2.å†…å­˜ä¸­å­˜å‚¨æ•°æ®æ—¶ï¼Œå“ˆå¸Œè¡¨çš„æ•ˆç‡å¾ˆé«˜ï¼Œè€ŒBæ ‘çš„è®¾è®¡æ—¨åœ¨ä»¥å—çš„å½¢å¼è®¿é—®è¾ƒæ…¢çš„å­˜å‚¨`
+        - [SQLä½¿ç”¨äº†ç´¢å¼•æŸ¥è¯¢è¿˜æ˜¯æ…¢](https://mp.weixin.qq.com/s/0ergLeCIsZoq23LxdujiEQ)  
+            `æ…¢æŸ¥è¯¢è¯­å¥/æ‰§è¡Œæ—¶é—´/long_query_time/ç´¢å¼•çš„è¿‡æ»¤æ€§è¦è¶³å¤Ÿå¥½`
+    - [æ•°æ®åº“ä¸­é—´ä»¶è¯¦è§£ ](https://mp.weixin.qq.com/s/Nsbv4yIglDZqYkhfwHRyzQ)  
+        `1.æ•°æ®åº“æ‹†åˆ†è¿‡ç¨‹åŠæŒ‘æˆ˜-->å‚ç›´æ‹†åˆ†/è¯»å†™åˆ†ç¦»/åˆ†åº“åˆ†è¡¨`<br>
+        `2.æŒ‘æˆ˜-->å¢åˆ æ”¹åŠŸèƒ½/åˆ†å¸ƒå¼id/åˆ†å¸ƒå¼äº‹åŠ¡/åŠ¨æ€æ‰©å®¹`<br>
+        `3.æ•°æ®åº“ä¸­é—´ä»¶è®¾è®¡æ–¹æ¡ˆ-->proxyæ¨¡å¼/smart-clientæ¨¡å¼/ORMæ¡†æ¶ä»£ç†`<br>
+        `4.è¯»å†™åˆ†ç¦»æ ¸å¿ƒè¦ç‚¹-->è·¯ç”±åŠŸèƒ½/ä»åº“è·¯ç”±ç­–ç•¥/HAä¸Scalable`
+    - [æ•°æ®åº“â€˜çŠ¶æ€â€™å­—æ®µè®¾è®¡](https://mp.weixin.qq.com/s/VZFAc-LdeF4YaoixQsf3kw)  
+        `è®¢å•è¡¨çš„è®¾è®¡-->è®¢å•çŠ¶æ€å€¼/å­—å…¸å€¼/ç±»å‹`
+    - [MySQL/ES/HBASEç­‰æŠ€æœ¯æé«˜åç«¯æ¥å£æ€§èƒ½](https://mp.weixin.qq.com/s/SrwndkY5xYEO-V_pYX2ttQ)
+    - [æ•°æ®å»ºæ¨¡å·¥å…·](https://mp.weixin.qq.com/s/92y3kAfPTtDdiLcoN9h76A)
+    - 2019ç²¾é€‰åˆé›†[[***1***](https://mp.weixin.qq.com/s/tMjk8Ak73OIBvDhG7BiTmA), [***2***](https://mp.weixin.qq.com/s/Q1B3QL2HiVvJvUUHIeCSQA)]
 + SQL
     - [SQL vs NoSQL](https://mp.weixin.qq.com/s/5E8NKSlyu8JrPP-Zs7FrBg)  
-        `½á¹¹»¯/·Ç½á¹¹»¯/°ë½á¹¹»¯Êı¾İ/¹ØÏµĞÍÊı¾İ¿âÓÅÈ±µã/½áºÏNoSql×ö´æ´¢µÄ¼Ü¹¹Ñİ½ø`
-        - [SQLµÄ»Ø¹é](https://mp.weixin.qq.com/s/7sR8W93g-IoOlIEhd4UeMQ)  
+        `ç»“æ„åŒ–/éç»“æ„åŒ–/åŠç»“æ„åŒ–æ•°æ®/å…³ç³»å‹æ•°æ®åº“ä¼˜ç¼ºç‚¹/ç»“åˆNoSqlåšå­˜å‚¨çš„æ¶æ„æ¼”è¿›`
+        - [SQLçš„å›å½’](https://mp.weixin.qq.com/s/7sR8W93g-IoOlIEhd4UeMQ)  
             `MapReduce/Bigtable/Cassandra/MongoDB`--><br>
-            `Amazon RDS&Aurora/¹È¸èCloud SQL/Azure-PostgreSQL/SQL over Hadoop&Spark&Kafka`
-    - [SQLµÄÊ¹ÓÃ](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)  
-        `¹ıÂË/Í¨Åä·û/¼ÆËã×Ö¶Î/º¯Êı/×Ó²éÑ¯/Á¬½Ó/×Ö·û¼¯...`
-        - [Àí½âSQL](https://mp.weixin.qq.com/s/M3MsrV4DyZpLwQVcAgxvsw)  
-            `SQL²¢²»°´ÕÕÓï·¨Ë³ĞòÖ´ĞĞ/ÎåÖÖ±íÁ¬½ÓµÄ·½Ê½`
-        - [Êı¾İ¿â±íÁ¬½ÓµÄ½âÊÍ](http://www.ruanyifeng.com/blog/2019/01/table-join.html)
-        - [Group byÂı²éÑ¯ÓÅ»¯](https://mp.weixin.qq.com/s/TqigpgwtZR-o9xZcg29uDg)  
-            `group by/distinct 500ÍòÊıÁ¿¼¶Êı¾İ²éÑ¯`
-        - [Insert into selectÖÂËø±í](https://mp.weixin.qq.com/s/e9a67_c5igJ-yhbmBQn5SQ)  
-        `Ë÷Òı²éÑ¯²»»á³öÏÖÉ¨ÃèÈ«±íµÄÇé¿ö¶øËø±í£¬Ö»»áËø¶¨·ûºÏÌõ¼şµÄ¼ÇÂ¼`
+            `Amazon RDS&Aurora/è°·æ­ŒCloud SQL/Azure-PostgreSQL/SQL over Hadoop&Spark&Kafka`
+    - [SQLçš„ä½¿ç”¨](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)  
+        `è¿‡æ»¤/é€šé…ç¬¦/è®¡ç®—å­—æ®µ/å‡½æ•°/å­æŸ¥è¯¢/è¿æ¥/å­—ç¬¦é›†...`
+        - [ç†è§£SQL](https://mp.weixin.qq.com/s/M3MsrV4DyZpLwQVcAgxvsw)  
+            `SQLå¹¶ä¸æŒ‰ç…§è¯­æ³•é¡ºåºæ‰§è¡Œ/äº”ç§è¡¨è¿æ¥çš„æ–¹å¼`
+        - [æ•°æ®åº“è¡¨è¿æ¥çš„è§£é‡Š](http://www.ruanyifeng.com/blog/2019/01/table-join.html)
+        - [Group byæ…¢æŸ¥è¯¢ä¼˜åŒ–](https://mp.weixin.qq.com/s/TqigpgwtZR-o9xZcg29uDg)  
+            `group by/distinct 500ä¸‡æ•°é‡çº§æ•°æ®æŸ¥è¯¢`
+        - [Insert into selectè‡´é”è¡¨](https://mp.weixin.qq.com/s/e9a67_c5igJ-yhbmBQn5SQ)  
+        `ç´¢å¼•æŸ¥è¯¢ä¸ä¼šå‡ºç°æ‰«æå…¨è¡¨çš„æƒ…å†µè€Œé”è¡¨ï¼Œåªä¼šé”å®šç¬¦åˆæ¡ä»¶çš„è®°å½•`
         - [Leetcode-SQL-Question](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20%E9%A2%98%E8%A7%A3.md)  
         `Swap Salary/Big Countries/Combine Two Tables...`
 + [MySQL](db/mySQL.md)
 + [PostgreSQL](db/PostgreSQL.md)
 + [Oracle](db/oracle.md)
 + [Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)  
-    `Êı¾İÀàĞÍ/Êı¾İ½á¹¹/Ê¹ÓÃ³¡¾°/Êı¾İÌÔÌ­²ßÂÔ/³Ö¾Ã»¯/ÊÂ¼ş`
-    - [»º´æµÄÖØÒª¸ÅÄî](https://mp.weixin.qq.com/s/S8CssuM02CpExsxXFsF0tw)  
-        `1.±¾µØ»º´æ(HashMap/Ehcache/Guava Cache/Spring Cache/Caffeine)`<br>
-        `2.·Ö²¼Ê½»º´æ(Redis/Memcached)`<br>
-        `3.»º´æ¶ÁĞ´Ä£Ê½/¸üĞÂ²ßÂÔ(Cache Aside PatternÅÔÂ·»º´æ, Read/Write Through Pattern¶ÁĞ´´©Í¸, Write Behind PatternÒì²½»º´æĞ´Èë)`
-    - [RedisµÄ8´óÊı¾İÀàĞÍ](https://mp.weixin.qq.com/s/lbNX--yALXapjsP1NusTIQ)
-    - [Redis¸´ÖÆÔ­Àí](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)  
-        `Redis¼Ü¹¹/Ö÷´Ó¸´ÖÆ/Êı¾İ³õÊ¼»¯/ÖĞ¶ÏºóÍ¬²½/ÔöÁ¿¸´ÖÆ/Êı¾İÒ»ÖÂĞÔÑéÖ¤/ÍêÕûĞÔÍ¬²½/²¿·ÖÍ¬²½`
-    - [Redis»º´æÈı´óÎÊÌâ¼°½â¾ö·½°¸](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)  
-        `»º´æ´©Í¸/»º´æ»÷´©/»º´æÑ©±À`
-        - [»º´æ²ÈÌ¤](https://mp.weixin.qq.com/s/mjySTz73Ltcfsw1e6iY4YA)
-        - [²¼Â¡¹ıÂËÆ÷ÅĞ¶ÏÓÃ»§ÊÇ·ñ´æÔÚ»º´æ](https://www.zhihu.com/question/38211640)  
-        `Êı¾İ²»ÔÚ»º´æÔò²éÑ¯db£¬Èç¹ûÀ´Ò»²¨ÀäÊı¾İ£¬»áµ¼ÖÂ»º´æ´óÁ¿»÷´©£¬Ôì³ÉÑ©±ÀĞ§Ó¦¡£ÓÃ²¼Â¡¹ıÂËÆ÷µ±»º´æµÄË÷Òı£¬Ö»ÓĞÓÃ»§ÔÚ²¼Â¡¹ıÂËÆ÷ÖĞ£¬²ÅÈ¥²éÑ¯»º´æ£¬Èç¹ûÃ»²éÑ¯µ½£¬Ôò´©Í¸µ½db¡£Èç¹û²»ÔÚ²¼Â¡Æ÷ÖĞ£¬ÔòÖ±½Ó·µ»Ø¡£¼õÉÙÖ±½ÓÊı¾İ¿âµÄ·ÃÎÊ`
-    - [Redis·ÖÆ¬»úÖÆ](https://mp.weixin.qq.com/s/1f7lpmXYcaOCH7gR2DhPFw)  
-        `Ò»ÖÂĞÔhashËã·¨/Æ½ºâĞÔ/µ¥µ÷ĞÔ/·ÖÉ¢ĞÔ`
-    - [ÈçºÎ±£Ö¤»º´æÓëÊı¾İ¿âµÄË«Ğ´Ò»ÖÂĞÔ](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)  
-        `Cache Aside Pattern(ÅÔÂ·»º´æÄ£Ê½)`
-    - [Redis³£¼ûÑÓ³ÙÎÊÌâ¶¨Î»Óë·ÖÎö](https://mp.weixin.qq.com/s/L3LVxbtZAUSPUqLVG7D9pw)  
-        `RedisÂıÈÕÖ¾/É¨Ãè´ókey/¼¯ÖĞ¹ıÆÚ/ÊµÀıÄÚ´æÉÏÏŞ/forkºÄÊ±/°ó¶¨CPU/¿ªÆôAOF/Ê¹ÓÃSwap/Íø¿¨¸ºÔØ`
-    - [Redis×Ö·û´®ÊÇÈçºÎÊµÏÖ](https://mp.weixin.qq.com/s/4JfGREmkElvSIY-sBRmMZQ)  
+    `æ•°æ®ç±»å‹/æ•°æ®ç»“æ„/ä½¿ç”¨åœºæ™¯/æ•°æ®æ·˜æ±°ç­–ç•¥/æŒä¹…åŒ–/äº‹ä»¶`
+    - [ç¼“å­˜çš„é‡è¦æ¦‚å¿µ](https://mp.weixin.qq.com/s/S8CssuM02CpExsxXFsF0tw)  
+        `1.æœ¬åœ°ç¼“å­˜(HashMap/Ehcache/Guava Cache/Spring Cache/Caffeine)`<br>
+        `2.åˆ†å¸ƒå¼ç¼“å­˜(Redis/Memcached)`<br>
+        `3.ç¼“å­˜è¯»å†™æ¨¡å¼/æ›´æ–°ç­–ç•¥(Cache Aside Patternæ—è·¯ç¼“å­˜, Read/Write Through Patternè¯»å†™ç©¿é€, Write Behind Patternå¼‚æ­¥ç¼“å­˜å†™å…¥)`
+    - [Redisçš„8å¤§æ•°æ®ç±»å‹](https://mp.weixin.qq.com/s/lbNX--yALXapjsP1NusTIQ)
+    - [Rediså¤åˆ¶åŸç†](https://mp.weixin.qq.com/s/fjZrG0cxK-zV2OYAhw7NEg)  
+        `Redisæ¶æ„/ä¸»ä»å¤åˆ¶/æ•°æ®åˆå§‹åŒ–/ä¸­æ–­ååŒæ­¥/å¢é‡å¤åˆ¶/æ•°æ®ä¸€è‡´æ€§éªŒè¯/å®Œæ•´æ€§åŒæ­¥/éƒ¨åˆ†åŒæ­¥`
+    - [Redisç¼“å­˜ä¸‰å¤§é—®é¢˜åŠè§£å†³æ–¹æ¡ˆ](https://mp.weixin.qq.com/s/nJn_fOl5pEhuoJ9aipbZfw)  
+        `ç¼“å­˜ç©¿é€/ç¼“å­˜å‡»ç©¿/ç¼“å­˜é›ªå´©`
+        - [ç¼“å­˜è¸©è¸](https://mp.weixin.qq.com/s/mjySTz73Ltcfsw1e6iY4YA)
+        - [å¸ƒéš†è¿‡æ»¤å™¨åˆ¤æ–­ç”¨æˆ·æ˜¯å¦å­˜åœ¨ç¼“å­˜](https://www.zhihu.com/question/38211640)  
+        `æ•°æ®ä¸åœ¨ç¼“å­˜åˆ™æŸ¥è¯¢dbï¼Œå¦‚æœæ¥ä¸€æ³¢å†·æ•°æ®ï¼Œä¼šå¯¼è‡´ç¼“å­˜å¤§é‡å‡»ç©¿ï¼Œé€ æˆé›ªå´©æ•ˆåº”ã€‚ç”¨å¸ƒéš†è¿‡æ»¤å™¨å½“ç¼“å­˜çš„ç´¢å¼•ï¼Œåªæœ‰ç”¨æˆ·åœ¨å¸ƒéš†è¿‡æ»¤å™¨ä¸­ï¼Œæ‰å»æŸ¥è¯¢ç¼“å­˜ï¼Œå¦‚æœæ²¡æŸ¥è¯¢åˆ°ï¼Œåˆ™ç©¿é€åˆ°dbã€‚å¦‚æœä¸åœ¨å¸ƒéš†å™¨ä¸­ï¼Œåˆ™ç›´æ¥è¿”å›ã€‚å‡å°‘ç›´æ¥æ•°æ®åº“çš„è®¿é—®`
+    - [Redisåˆ†ç‰‡æœºåˆ¶](https://mp.weixin.qq.com/s/1f7lpmXYcaOCH7gR2DhPFw)  
+        `ä¸€è‡´æ€§hashç®—æ³•/å¹³è¡¡æ€§/å•è°ƒæ€§/åˆ†æ•£æ€§`
+    - [å¦‚ä½•ä¿è¯ç¼“å­˜ä¸æ•°æ®åº“çš„åŒå†™ä¸€è‡´æ€§](https://mp.weixin.qq.com/s/YCElKLSQaM-UeB0drGiOYw)  
+        `Cache Aside Pattern(æ—è·¯ç¼“å­˜æ¨¡å¼)`
+    - [Rediså¸¸è§å»¶è¿Ÿé—®é¢˜å®šä½ä¸åˆ†æ](https://mp.weixin.qq.com/s/L3LVxbtZAUSPUqLVG7D9pw)  
+        `Redisæ…¢æ—¥å¿—/æ‰«æå¤§key/é›†ä¸­è¿‡æœŸ/å®ä¾‹å†…å­˜ä¸Šé™/forkè€—æ—¶/ç»‘å®šCPU/å¼€å¯AOF/ä½¿ç”¨Swap/ç½‘å¡è´Ÿè½½`
+    - [Rediså­—ç¬¦ä¸²æ˜¯å¦‚ä½•å®ç°](https://mp.weixin.qq.com/s/4JfGREmkElvSIY-sBRmMZQ)  
         `SDS(Simple Dynamic String)`
-    - [Redis¼¯Èº](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)  
-        `¼¯Èº×÷ÓÃ/¹şÏ£²Û/ÅäÖÃ¼¯Èº/¹ÊÕÏ×ªÒÆ`
-    - [Redis·Ö²¼Ê½ËøÔì³ÉµÄÖØ´óÊÂ¹Ê](https://mp.weixin.qq.com/s/uxYGPV012Lz7eWVSZJ2ggQ)
-    - [Redis»º´æ + ¶¨Ê±Ğ´ÈëÊı¾İ¿âÊµÏÖ¸ßĞÔÄÜµãÔŞ¹¦ÄÜ](https://mp.weixin.qq.com/s/DOtcQQvhVzi7P8W351T3Ig)
-    - RedisÃæÊÔÌâ[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ), [3](https://mp.weixin.qq.com/s/TBGPv6NXJZu4PfGfT5OfWQ)]  
-        `RedisÇø±ğmap/guava±¾µØ»º´æ/³Ö¾Ã»¯»úÖÆ/ÄÚ´æÌÔÌ­²ßÂÔ/ÊÂÎñ/Ïß³ÌÄ£ĞÍ/²¼Â¡¹ıÂËÆ÷/»º´æÑ©±À/»º´æ´©Í¸`
+    - [Redisé›†ç¾¤](https://mp.weixin.qq.com/s/u16tn4CUAJh33vAKB-4WgA)  
+        `é›†ç¾¤ä½œç”¨/å“ˆå¸Œæ§½/é…ç½®é›†ç¾¤/æ•…éšœè½¬ç§»`
+    - [Redisåˆ†å¸ƒå¼é”é€ æˆçš„é‡å¤§äº‹æ•…](https://mp.weixin.qq.com/s/uxYGPV012Lz7eWVSZJ2ggQ)
+    - [Redisç¼“å­˜ + å®šæ—¶å†™å…¥æ•°æ®åº“å®ç°é«˜æ€§èƒ½ç‚¹èµåŠŸèƒ½](https://mp.weixin.qq.com/s/DOtcQQvhVzi7P8W351T3Ig)
+    - Redisé¢è¯•é¢˜[[1](https://mp.weixin.qq.com/s/RrPTe1f10SNlhArpXkbmLw), [2](https://mp.weixin.qq.com/s/BmcSxghdBw_1GX8RrWudDQ), [3](https://mp.weixin.qq.com/s/TBGPv6NXJZu4PfGfT5OfWQ)]  
+        `RedisåŒºåˆ«map/guavaæœ¬åœ°ç¼“å­˜/æŒä¹…åŒ–æœºåˆ¶/å†…å­˜æ·˜æ±°ç­–ç•¥/äº‹åŠ¡/çº¿ç¨‹æ¨¡å‹/å¸ƒéš†è¿‡æ»¤å™¨/ç¼“å­˜é›ªå´©/ç¼“å­˜ç©¿é€`
 + [SQLite](https://mp.weixin.qq.com/s/ZqIFx5VBrzyuoHwDfX11FA)  
-    `ÊÖ»úÉÏ¿ÉÄÜ¶¼´æÔÚ¼¸Ê®¸öSQLite£¬Î¢ĞÅ¿Í»§¶ËËùÓĞµÄÁÄÌì¼ÇÂ¼£¬¾Í¶¼´æ´¢ÔÚ SQLite Êı¾İ¿âÖĞ`
-+ [MongoDB»ù±¾²Ù×÷](https://mp.weixin.qq.com/s/5iELiClx17sXLKk_BRdy0w)  
-    `»ùÓÚ·Ö²¼Ê½ÎÄ¼ş´æ´¢µÄ°ë½á¹¹»¯µÄ·Ç¹ØÏµĞÍÊı¾İ¿â,²ÉÓÃBSON¸ñÊ½½øĞĞÊı¾İ´æ´¢`<br>
-    `ÅäÖÃÎÄ¼ş/·şÎñÆôÍ£/»ù±¾²Ù×÷/`
+    `æ‰‹æœºä¸Šå¯èƒ½éƒ½å­˜åœ¨å‡ åä¸ªSQLiteï¼Œå¾®ä¿¡å®¢æˆ·ç«¯æ‰€æœ‰çš„èŠå¤©è®°å½•ï¼Œå°±éƒ½å­˜å‚¨åœ¨ SQLite æ•°æ®åº“ä¸­`
++ [MongoDBåŸºæœ¬æ“ä½œ](https://mp.weixin.qq.com/s/5iELiClx17sXLKk_BRdy0w)  
+    `åŸºäºåˆ†å¸ƒå¼æ–‡ä»¶å­˜å‚¨çš„åŠç»“æ„åŒ–çš„éå…³ç³»å‹æ•°æ®åº“,é‡‡ç”¨BSONæ ¼å¼è¿›è¡Œæ•°æ®å­˜å‚¨`<br>
+    `é…ç½®æ–‡ä»¶/æœåŠ¡å¯åœ/åŸºæœ¬æ“ä½œ/`
 
 #### Bigdata
-+ [ÈçºÎ´î½¨Ò»¸ö´óÊı¾İÆ½Ì¨](https://mp.weixin.qq.com/s/GNYg4U1VWVYXAo5efcn5Lg)
-+ [¹¤Òµ»¥ÁªÍø´óÊı¾İÆ½Ì¨½¨Éè·½°¸](https://mp.weixin.qq.com/s/4pymKCmsMVX4cH1twpVt-Q)
++ [å¦‚ä½•æ­å»ºä¸€ä¸ªå¤§æ•°æ®å¹³å°](https://mp.weixin.qq.com/s/GNYg4U1VWVYXAo5efcn5Lg)
++ [å·¥ä¸šäº’è”ç½‘å¤§æ•°æ®å¹³å°å»ºè®¾æ–¹æ¡ˆ](https://mp.weixin.qq.com/s/4pymKCmsMVX4cH1twpVt-Q)
 + [spark](big-data/spark.md)
     - [tutorial Spark's Scala APIs](https://github.com/deanwampler/JustEnoughScalaForSpark)
-    - [Sparkµ÷¶ÈÏµÍ³](https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw)
-    - [SparkÖĞ±àĞ´¿ÉÉìËõ´úÂë](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
+    - [Sparkè°ƒåº¦ç³»ç»Ÿ](https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw)
+    - [Sparkä¸­ç¼–å†™å¯ä¼¸ç¼©ä»£ç ](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
     - [Spark Shuffle](https://mp.weixin.qq.com/s/VdwOwmxmOpQC3NIaxqqbmw)
-    - [Í¼¼ÆËã¿ò¼ÜPlato vs Spark GraphX](https://mp.weixin.qq.com/s/J6GB3RMXY-tyOxEUii6fcw)
+    - [å›¾è®¡ç®—æ¡†æ¶Plato vs Spark GraphX](https://mp.weixin.qq.com/s/J6GB3RMXY-tyOxEUii6fcw)
     - [ScalaNLP](http://www.scalanlp.org/)  
         ScalaNLP is the umbrella project for several libraries. [Breeze](https://github.com/scalanlp/breeze/wiki/Quickstart) is a set of libraries for machine learning and numerical computing.
 + [hadoop](big-data/hadoop.md)
 + [hive](big-data/hive.md)
-    - [Flink+Hive¹¹½¨Á÷ÅúÒ»Ìå×¼ÊµÊ±Êı²Ö](https://mp.weixin.qq.com/s/QgXWA0YvyZiYzXgpW7jLug)
+    - [Flink+Hiveæ„å»ºæµæ‰¹ä¸€ä½“å‡†å®æ—¶æ•°ä»“](https://mp.weixin.qq.com/s/QgXWA0YvyZiYzXgpW7jLug)
 + [HBase RowKey](https://mp.weixin.qq.com/s/ENvPR3kDNG09hMZuhc1BHA)
 + MQ
-    - [Kafka¼Ü¹¹Éè¼Æ](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
-    - [kafkaÈ«ÃæÀí½â](https://mp.weixin.qq.com/s/WCs52JiVCSmh__tOktiMdw)
-        - [Í¼½âkafka»ù±¾¸ÅÄî](https://mp.weixin.qq.com/s/D9Xb2e5q02rU2unU529Jmw)
-    - [KafkaµÄ¡°ºóÀË¡±](https://mp.weixin.qq.com/s/KX9CaDEfQovWBLemUzk6vg)
-    - [KafkaµÄÉú²úÕß/Ïû·ÑÕßÏêÎö](https://mp.weixin.qq.com/s/T9hONRBS37cmolkWhtXs-g)
-    - [RabbitMQºÍKafkaµÄ±È½Ï](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
-    - [RabbitMQ×Ü½á](https://mp.weixin.qq.com/s/0cX6o3QVygxhOTK4uxWFPw)
-    - [RabbitMQÊµÏÖ°ÙÍò¼¶ÏûÏ¢·şÎñ](https://mp.weixin.qq.com/s/qRjz4mkxNkvKrKlC_AsJ2A)
-    - [MQÓëRabbitMQÃæÊÔÌâ](https://mp.weixin.qq.com/s/Lz4NEChB_Twlva5V8BKyvg)
+    - [Kafkaæ¶æ„è®¾è®¡](https://mp.weixin.qq.com/s/ZpV_oaxCrtlOiVq_0_EuSA)
+    - [kafkaå…¨é¢ç†è§£](https://mp.weixin.qq.com/s/WCs52JiVCSmh__tOktiMdw)
+        - [å›¾è§£kafkaåŸºæœ¬æ¦‚å¿µ](https://mp.weixin.qq.com/s/D9Xb2e5q02rU2unU529Jmw)
+    - [Kafkaçš„â€œåæµªâ€](https://mp.weixin.qq.com/s/KX9CaDEfQovWBLemUzk6vg)
+    - [Kafkaçš„ç”Ÿäº§è€…/æ¶ˆè´¹è€…è¯¦æ](https://mp.weixin.qq.com/s/T9hONRBS37cmolkWhtXs-g)
+    - [RabbitMQå’ŒKafkaçš„æ¯”è¾ƒ](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
+    - [RabbitMQæ€»ç»“](https://mp.weixin.qq.com/s/0cX6o3QVygxhOTK4uxWFPw)
+    - [RabbitMQå®ç°ç™¾ä¸‡çº§æ¶ˆæ¯æœåŠ¡](https://mp.weixin.qq.com/s/qRjz4mkxNkvKrKlC_AsJ2A)
+    - [MQä¸RabbitMQé¢è¯•é¢˜](https://mp.weixin.qq.com/s/Lz4NEChB_Twlva5V8BKyvg)
 + ElasticSearch
-    - [¼òµ¥½Ì³Ì](https://mp.weixin.qq.com/s/3Ww4ufcLdzL3zXE7j_0Jnw)
-    - [Í¼½âElasticSearchÔ­Àí](https://mp.weixin.qq.com/s/8NIwVKs1AFq5qPKOowfJAg)
-    - [°²×°ElasticsearchºÍKibana](https://mp.weixin.qq.com/s/K3IT0NGODEZwzvHlIREDfg)
-    - [ElasticSearchÊµÏÖÈÕ¾ù5ÒÚ²éÑ¯Á¿µÄ¾©¶«¶©µ¥ÖĞĞÄ](https://mp.weixin.qq.com/s/9QgQRYMdBeBiBtIYiGD7yA)
-    - [ClickhouseÌæ´úES](https://mp.weixin.qq.com/s/fzgrs8_dOpv2bB4oQHli5A)  
+    - [ç®€å•æ•™ç¨‹](https://mp.weixin.qq.com/s/3Ww4ufcLdzL3zXE7j_0Jnw)
+    - [å›¾è§£ElasticSearchåŸç†](https://mp.weixin.qq.com/s/8NIwVKs1AFq5qPKOowfJAg)
+    - [å®‰è£…Elasticsearchå’ŒKibana](https://mp.weixin.qq.com/s/K3IT0NGODEZwzvHlIREDfg)
+    - [ElasticSearchå®ç°æ—¥å‡5äº¿æŸ¥è¯¢é‡çš„äº¬ä¸œè®¢å•ä¸­å¿ƒ](https://mp.weixin.qq.com/s/9QgQRYMdBeBiBtIYiGD7yA)
+    - [Clickhouseæ›¿ä»£ES](https://mp.weixin.qq.com/s/fzgrs8_dOpv2bB4oQHli5A)  
 + Business intelligence
-    - [PinotÊµÊ±·Ö²¼Ê½µÄOLAPÊı¾İ´æ´¢ºÍ·ÖÎöÏµÍ³](https://mp.weixin.qq.com/s/1R-l_lC6-vxPazgLmX5a-g)
-    - [Êı¾İºşÓëÊı¾İ²Ö¿âµÄĞÂÎ´À´](https://mp.weixin.qq.com/s/DWgiTi4XGzQqPpfXOSkVFA)
+    - [Pinotå®æ—¶åˆ†å¸ƒå¼çš„OLAPæ•°æ®å­˜å‚¨å’Œåˆ†æç³»ç»Ÿ](https://mp.weixin.qq.com/s/1R-l_lC6-vxPazgLmX5a-g)
+    - [æ•°æ®æ¹–ä¸æ•°æ®ä»“åº“çš„æ–°æœªæ¥](https://mp.weixin.qq.com/s/DWgiTi4XGzQqPpfXOSkVFA)
     - [superset](https://superset.incubator.apache.org/)  
-        ApacheµÄÕâ¸öÏîÄ¿¿ÉÒÔ¶Ô´ó¶àÊıdatabase engines½øĞĞÊı¾İ·ÖÎö´¦Àí  
+        Apacheçš„è¿™ä¸ªé¡¹ç›®å¯ä»¥å¯¹å¤§å¤šæ•°database enginesè¿›è¡Œæ•°æ®åˆ†æå¤„ç†  
     - [Flink](https://en.wikipedia.org/wiki/Apache_Flink)  
         Apache Flink is an open-source stream-processing framework    
     - [Druid](https://en.wikipedia.org/wiki/Druid_(open-source_data_store))   
@@ -635,80 +635,80 @@
 #### Machine learning
 + Machine Learning Course  
     - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
-    - [Î¢ÈíÈË¹¤ÖÇÄÜÑ§Ï°ÉçÇø](https://github.com/microsoft/ai-edu)
+    - [å¾®è½¯äººå·¥æ™ºèƒ½å­¦ä¹ ç¤¾åŒº](https://github.com/microsoft/ai-edu)
     - [d2l-zh](https://github.com/d2l-ai/d2l-zh)
-    - [±Ê¼Ç](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
-    - [±Ê¼Ç½éÉÜ](https://mp.weixin.qq.com/s/k3MA8fKtBzFkeVoQWCejNQ)
-    - [±´Ò¶Ë¹¶¨Àí](https://mp.weixin.qq.com/s/cHHYiOuMijOR0ydX4z3NYw)
+    - [ç¬”è®°](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
+    - [ç¬”è®°ä»‹ç»](https://mp.weixin.qq.com/s/k3MA8fKtBzFkeVoQWCejNQ)
+    - [è´å¶æ–¯å®šç†](https://mp.weixin.qq.com/s/cHHYiOuMijOR0ydX4z3NYw)
     - [Metaflow](https://mp.weixin.qq.com/s/4UpELj_SfbdFk4jAMQDlsQ)
-    - [Ê®´óËã·¨-ÏßĞÔ»Ø¹é/¾ö²ßÊ÷](https://mp.weixin.qq.com/s/1tijCsxR12VhNaM-SNgkgQ)
-	- [Òì³£¼ì²â¹ÂÁ¢Ëæ»úÉ­ÁÖËã·¨](https://mp.weixin.qq.com/s/EOBjLqvi_WcSjiDb8b5Nwg)
-	- [¹È¸è´óÄÔTrax](https://mp.weixin.qq.com/s/tLAzDnAr5a2TwafE4Jg91g)
-    - [ÓÃAI·­Òë500ÖÖÓïÑÔ](https://mp.weixin.qq.com/s/as8grEpPtuOlKbpGs8TqvA)
-    - [ÓïÒôÊ¶±ğÎªºÎÈ±Ê§ImageNetÀàËÆ×ÊÁÏ¿â](https://mp.weixin.qq.com/s/OyKnqLz5ZpCd7g7XspYnhw)
-    - [TensorFlow.jsÊ¶±ğº£Á¿Í¼±ê](https://mp.weixin.qq.com/s/sGaXe9QXPAZAy-ga-aJnVQ)
-    - [ĞòÁĞÍÆÀíÒıÇæLightSeq](https://mp.weixin.qq.com/s/HUSYSrjG65p1TU9lS_KEUA)
+    - [åå¤§ç®—æ³•-çº¿æ€§å›å½’/å†³ç­–æ ‘](https://mp.weixin.qq.com/s/1tijCsxR12VhNaM-SNgkgQ)
+	- [å¼‚å¸¸æ£€æµ‹å­¤ç«‹éšæœºæ£®æ—ç®—æ³•](https://mp.weixin.qq.com/s/EOBjLqvi_WcSjiDb8b5Nwg)
+	- [è°·æ­Œå¤§è„‘Trax](https://mp.weixin.qq.com/s/tLAzDnAr5a2TwafE4Jg91g)
+    - [ç”¨AIç¿»è¯‘500ç§è¯­è¨€](https://mp.weixin.qq.com/s/as8grEpPtuOlKbpGs8TqvA)
+    - [è¯­éŸ³è¯†åˆ«ä¸ºä½•ç¼ºå¤±ImageNetç±»ä¼¼èµ„æ–™åº“](https://mp.weixin.qq.com/s/OyKnqLz5ZpCd7g7XspYnhw)
+    - [TensorFlow.jsè¯†åˆ«æµ·é‡å›¾æ ‡](https://mp.weixin.qq.com/s/sGaXe9QXPAZAy-ga-aJnVQ)
+    - [åºåˆ—æ¨ç†å¼•æ“LightSeq](https://mp.weixin.qq.com/s/HUSYSrjG65p1TU9lS_KEUA)
 + face-swapping
     - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
     - [Deepfakes](https://github.com/deepfakes/faceswap)
 
 #### Docker
 + [docker](docker%20commands.md)
-    - [ÈëÃÅµ½Êµ¼ù](https://github.com/yeasy/docker_practice)
-    - [Docker¼Ü¹¹Ô­Àí¹¦ÄÜ¼°Ê¹ÓÃ](https://mp.weixin.qq.com/s/GGoQuGQ2qUByqmX0BR0FEw)
-    - [Docker´ÓÈëÃÅµ½Êµ¼ù](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
-    - [ansible-bender¹¹½¨ÈİÆ÷¾µÏñ](https://mp.weixin.qq.com/s/ZxyhsXp7w03tMYzmhBsF1A)
-    - [docker-slim/docker-gc/watchtowerµÈ¹¤¾ß](https://mp.weixin.qq.com/s/fY0bfMGL3UXT_3j4LZXaHw)
-    - [Docker°²È«¹¤¾ßBench/Clair/Cilium](https://mp.weixin.qq.com/s/RfUYAcAspWBytCfEygDpLg)
-    - [KVM¼Ü¹¹ÓëÔ­Àí](https://mp.weixin.qq.com/s/qFT6zcRDoxFF-XqW86VRtw)
+    - [å…¥é—¨åˆ°å®è·µ](https://github.com/yeasy/docker_practice)
+    - [Dockeræ¶æ„åŸç†åŠŸèƒ½åŠä½¿ç”¨](https://mp.weixin.qq.com/s/GGoQuGQ2qUByqmX0BR0FEw)
+    - [Dockerä»å…¥é—¨åˆ°å®è·µ](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
+    - [ansible-benderæ„å»ºå®¹å™¨é•œåƒ](https://mp.weixin.qq.com/s/ZxyhsXp7w03tMYzmhBsF1A)
+    - [docker-slim/docker-gc/watchtowerç­‰å·¥å…·](https://mp.weixin.qq.com/s/fY0bfMGL3UXT_3j4LZXaHw)
+    - [Dockerå®‰å…¨å·¥å…·Bench/Clair/Cilium](https://mp.weixin.qq.com/s/RfUYAcAspWBytCfEygDpLg)
+    - [KVMæ¶æ„ä¸åŸç†](https://mp.weixin.qq.com/s/qFT6zcRDoxFF-XqW86VRtw)
 
 #### GitHub
-+ [¿ªÔ´µÄ7´óÀíÄî](https://mp.weixin.qq.com/s/P45JQoQfnCnVOPlokwJFMA)
-+ [12306ÇÀÆ±ÏîÄ¿](https://mp.weixin.qq.com/s/b87RzIITe03xIGo53YmD-A)
++ [å¼€æºçš„7å¤§ç†å¿µ](https://mp.weixin.qq.com/s/P45JQoQfnCnVOPlokwJFMA)
++ [12306æŠ¢ç¥¨é¡¹ç›®](https://mp.weixin.qq.com/s/b87RzIITe03xIGo53YmD-A)
 + [netease-music](https://github.com/mbinary/netease-music-cracker)
 + [Real-Time-Voice-Cloning](https://mp.weixin.qq.com/s/r-gzBFheDuBtdLyeZpXGpg)
-+ [ZintÉú³É¶şÎ¬Âë](https://mp.weixin.qq.com/s/ycWK_9idEGN1AvZ48OsDIg)
-+ [ÃüÁîĞĞ±¸Íü¹¤¾ßnavi](https://mp.weixin.qq.com/s/JJy2iv82RkHp6BXyXAOXNg)
-+ [Polynote¶àÓïÑÔ±Ê¼Ç±¾](https://mp.weixin.qq.com/s/KjRbBMXhBkXwJBpI-DaRAQ)
++ [Zintç”ŸæˆäºŒç»´ç ](https://mp.weixin.qq.com/s/ycWK_9idEGN1AvZ48OsDIg)
++ [å‘½ä»¤è¡Œå¤‡å¿˜å·¥å…·navi](https://mp.weixin.qq.com/s/JJy2iv82RkHp6BXyXAOXNg)
++ [Polynoteå¤šè¯­è¨€ç¬”è®°æœ¬](https://mp.weixin.qq.com/s/KjRbBMXhBkXwJBpI-DaRAQ)
 + 2019-hot-project[[10](https://mp.weixin.qq.com/s/ujq6J1njlFVsR_h5c-DT2Q), [11](https://mp.weixin.qq.com/s/fMAeNWMJkZbr7sLveBCy_w)]
 
-GitHubÌá¹©´úÂë¿â¼ìË÷¹¦ÄÜ 
+GitHubæä¾›ä»£ç åº“æ£€ç´¢åŠŸèƒ½ 
 
 + [https://github.com/search](https://github.com/search)
-    + [¼ìË÷Óï·¨](https://help.github.com/en/articles/about-searching-on-github)
-    + [code searchÓï·¨](https://help.github.com/en/articles/searching-code)
-    + [Github¸ß¼¶ËÑË÷¼¼ÇÉ](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
-    + GitHub Actions×Ô¶¯»¯´ò°ü/²¿Êğ¼¼ÇÉ[[1](https://mp.weixin.qq.com/s/L3VBR_mOj8TUhJAcO-rG-w), [2](https://mp.weixin.qq.com/s/yg7_3e30hnXlyiv_YhtLOA), [3](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)]
+    + [æ£€ç´¢è¯­æ³•](https://help.github.com/en/articles/about-searching-on-github)
+    + [code searchè¯­æ³•](https://help.github.com/en/articles/searching-code)
+    + [Githubé«˜çº§æœç´¢æŠ€å·§](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
+    + GitHub Actionsè‡ªåŠ¨åŒ–æ‰“åŒ…/éƒ¨ç½²æŠ€å·§[[1](https://mp.weixin.qq.com/s/L3VBR_mOj8TUhJAcO-rG-w), [2](https://mp.weixin.qq.com/s/yg7_3e30hnXlyiv_YhtLOA), [3](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)]
 + [https://github.com/watching](https://github.com/watching)
 ```console
-# 1.ÏŞ¶¨´ÓjavaÓïÑÔµÄÏîÄ¿(language:java)ÖĞ
-# 2.ËÑÑ°À©Õ¹ÃûÊÇjava(extension:java)µÄÎÄ¼şÄÚÈİ(in:file)
-# 3.Æ¥Åä¹Ø¼ü×Ö process
+# 1.é™å®šä»javaè¯­è¨€çš„é¡¹ç›®(language:java)ä¸­
+# 2.æœå¯»æ‰©å±•åæ˜¯java(extension:java)çš„æ–‡ä»¶å†…å®¹(in:file)
+# 3.åŒ¹é…å…³é”®å­— process
 process in:file language:java extension:java
 
-# ´ÓÏîÄ¿readmeÎÄ¼şÖĞÆ¥Åä¹Ø¼ü×Ö IntelliJ Plugin
+# ä»é¡¹ç›®readmeæ–‡ä»¶ä¸­åŒ¹é…å…³é”®å­— IntelliJ Plugin
 "IntelliJ Plugin" in:readme language:java
 
-# ´ÓÏîÄ¿ÃèÊöÎÄ¼şÖĞÆ¥Åä¹Ø¼ü×Ömonitor
+# ä»é¡¹ç›®æè¿°æ–‡ä»¶ä¸­åŒ¹é…å…³é”®å­—monitor
 monitor in:description language:python
 ```
-ÓÉÓÚGitHub²»Ö§³ÖÕıÔò±í´ïËÑË÷,Òò´Ë¿ÉÒÔÓÃgoogle/bing×öÒ»Ğ©Õ¾ÄÚËÑË÷
+ç”±äºGitHubä¸æ”¯æŒæ­£åˆ™è¡¨è¾¾æœç´¢,å› æ­¤å¯ä»¥ç”¨google/bingåšä¸€äº›ç«™å†…æœç´¢
 ```
 "key" site::https://github.com
 ```
-Èç¹ûGitHubËÑË÷½á¹û²»ÂúÒâ£¬»¹¿ÉÒÔÊÔÊÔÆäËû´úÂëËÑË÷·şÎñ
+å¦‚æœGitHubæœç´¢ç»“æœä¸æ»¡æ„ï¼Œè¿˜å¯ä»¥è¯•è¯•å…¶ä»–ä»£ç æœç´¢æœåŠ¡
 + [https://searchcode.com/](https://searchcode.com/)
 + [https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)
 
-ÊµÓÃµÄ±¾µØÃâ·ÑÎÄ¼ş¼ìË÷¹¤¾ß»¹ÓĞ [EveryThing](https://mp.weixin.qq.com/s/nFGZtVG1gZ3F7Pv_dkwgfA) ¿ÉÒÔ¶ÔÈ«ÅÌÎÄ¼şÄÚÈİ½øĞĞË÷Òı
+å®ç”¨çš„æœ¬åœ°å…è´¹æ–‡ä»¶æ£€ç´¢å·¥å…·è¿˜æœ‰ [EveryThing](https://mp.weixin.qq.com/s/nFGZtVG1gZ3F7Pv_dkwgfA) å¯ä»¥å¯¹å…¨ç›˜æ–‡ä»¶å†…å®¹è¿›è¡Œç´¢å¼•
 
 #### Java
 + [maven](java/mvn.md)
     - [basic](https://github.com/eugenp/tutorials/tree/master/maven-all/maven)
 + [javadoc.io](https://javadoc.io/)
-    - [½Ó¿ÚÎÄµµ×Ô¶¯»¯Swagger-Bootstrap-UI](https://mp.weixin.qq.com/s/OTNP0fNwZxagpwi4axjOqQ)
+    - [æ¥å£æ–‡æ¡£è‡ªåŠ¨åŒ–Swagger-Bootstrap-UI](https://mp.weixin.qq.com/s/OTNP0fNwZxagpwi4axjOqQ)
 + [Design patterns](https://github.com/iluwatar/java-design-patterns)  
-    `JavaÊµÏÖµÄ¸÷ÖÖÉè¼ÆÄ£Ê½`
+    `Javaå®ç°çš„å„ç§è®¾è®¡æ¨¡å¼`
 + [protobuf](#protobuf)
 + [jmeter](java/jmeter.md)
 + [spring](#spring)
@@ -735,60 +735,60 @@ monitor in:description language:python
     - [Lambda](https://mp.weixin.qq.com/s/ZtjO30iZpX8qYDO938l7Mg)
     - [javatpoint](https://www.javatpoint.com/java-tutorial)
     - [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
-    - [JavaGuide](https://github.com/Snailclimb/JavaGuide/)
-    - [Lombok¼ò»¯Java±à³Ì ](https://mp.weixin.qq.com/s/EnZlhaqX0F6uND_LppZSAw)
+    - [JavaGuide(å­¦ä¹ +é¢è¯•)](https://github.com/Snailclimb/JavaGuide/)
+    - [Lombokç®€åŒ–Javaç¼–ç¨‹ ](https://mp.weixin.qq.com/s/EnZlhaqX0F6uND_LppZSAw)
 + Problem Solutions
-    - [ÈçºÎ½â¾ö´úÂëÖĞif¡­else¹ı¶àµÄÎÊÌâ](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
-    - [°¢ÀïArthas¸¨Öú¶¨Î»ÏßÉÏBUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
-    - [ÏßÉÏ¹ÊÕÏÅÅ²é²Î¿¼](https://mp.weixin.qq.com/s/UKa1bksIcTHQsS0T1nt6ZA)
+    - [å¦‚ä½•è§£å†³ä»£ç ä¸­ifâ€¦elseè¿‡å¤šçš„é—®é¢˜](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
+    - [é˜¿é‡ŒArthasè¾…åŠ©å®šä½çº¿ä¸ŠBUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
+    - [çº¿ä¸Šæ•…éšœæ’æŸ¥å‚è€ƒ](https://mp.weixin.qq.com/s/UKa1bksIcTHQsS0T1nt6ZA)
     - Netty
-        - [Netty½â¾öÕ³°ü°ë°üÎÊÌâ](https://mp.weixin.qq.com/s/WuaVdD0_nGaoGZog3tCrqw)
-        - [Netty×öµ½µ¥»úÃë¼¶½ÓÊÕ35Íò¸ö¶ÔÏó](https://mp.weixin.qq.com/s/gwOXHbrfvsJ25Wv4rP4tcg)
-    - [Ò»¸öTCPÁ¬½ÓÉÏÃæÄÜ·¢¶àÉÙ¸öHTTPÇëÇó](https://mp.weixin.qq.com/s/fa-FV3mWK6e8CK9wJ8LMmA)
-    - [JVMÀà¼ÓÔØ¸ÅÊö](https://mp.weixin.qq.com/s/lu-lwKp-bmX8SUySatZ0SA)
-    - [¹¹Ôìº¯ÊıÃ»ÓĞ·µ»ØÖµÊÇÔõÃ´¸³Öµ](https://mp.weixin.qq.com/s/Se7engxA7Dbdj8NHrSCF3Q)
+        - [Nettyè§£å†³ç²˜åŒ…åŠåŒ…é—®é¢˜](https://mp.weixin.qq.com/s/WuaVdD0_nGaoGZog3tCrqw)
+        - [Nettyåšåˆ°å•æœºç§’çº§æ¥æ”¶35ä¸‡ä¸ªå¯¹è±¡](https://mp.weixin.qq.com/s/gwOXHbrfvsJ25Wv4rP4tcg)
+    - [ä¸€ä¸ªTCPè¿æ¥ä¸Šé¢èƒ½å‘å¤šå°‘ä¸ªHTTPè¯·æ±‚](https://mp.weixin.qq.com/s/fa-FV3mWK6e8CK9wJ8LMmA)
+    - [JVMç±»åŠ è½½æ¦‚è¿°](https://mp.weixin.qq.com/s/lu-lwKp-bmX8SUySatZ0SA)
+    - [æ„é€ å‡½æ•°æ²¡æœ‰è¿”å›å€¼æ˜¯æ€ä¹ˆèµ‹å€¼](https://mp.weixin.qq.com/s/Se7engxA7Dbdj8NHrSCF3Q)
 + Lock
-    + [ÉîÈëJava Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
-    + [synchronizedÔ­Àí](https://mp.weixin.qq.com/s/57E7oZK97zMwiRA38V05tQ)
-    + [ÀíÇåAQS»¥³âËø](https://mp.weixin.qq.com/s/boI51YneLxCWWxFBjiXpqA)
-    + [²¢·¢±à³Ì](https://mp.weixin.qq.com/s/yhg5Kxd6AzR-kPpFAE-SdA)
-    + [HashMap²¢·¢ÎÊÌâ](https://mp.weixin.qq.com/s/8fjL-kLnJFOTbvgvqqWTwg)
-+ [JavaÍøÂçĞ­Òé](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
-+ JavaĞéÄâ»ú[[1](https://mp.weixin.qq.com/s/M5r-pUGwpv_SIs9UXKaapw), [2](https://mp.weixin.qq.com/s/R8dcr1b2dzx130yAek2ERA), [3](https://mp.weixin.qq.com/s/-5QyCAys-t1o15cb_S4EEw)]
-+ [JavaSEÑİ½øĞÂ·½Ïò](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
-    - [Java9×ªÉíÎ¢·şÎñ](https://mp.weixin.qq.com/s/NJ-UoD5XgMz97KtnLoA6yw)
+    + [æ·±å…¥Java Lock](https://mp.weixin.qq.com/s/e_C6GAJ2IhmPCABoTj7LlQ)
+    + [synchronizedåŸç†](https://mp.weixin.qq.com/s/57E7oZK97zMwiRA38V05tQ)
+    + [ç†æ¸…AQSäº’æ–¥é”](https://mp.weixin.qq.com/s/boI51YneLxCWWxFBjiXpqA)
+    + [å¹¶å‘ç¼–ç¨‹](https://mp.weixin.qq.com/s/yhg5Kxd6AzR-kPpFAE-SdA)
+    + [HashMapå¹¶å‘é—®é¢˜](https://mp.weixin.qq.com/s/8fjL-kLnJFOTbvgvqqWTwg)
++ [Javaç½‘ç»œåè®®](https://mp.weixin.qq.com/s/PszNBrclW4hwrF3mwtIW_Q)
++ Javaè™šæ‹Ÿæœº[[1](https://mp.weixin.qq.com/s/M5r-pUGwpv_SIs9UXKaapw), [2](https://mp.weixin.qq.com/s/R8dcr1b2dzx130yAek2ERA), [3](https://mp.weixin.qq.com/s/-5QyCAys-t1o15cb_S4EEw)]
++ [JavaSEæ¼”è¿›æ–°æ–¹å‘](https://mp.weixin.qq.com/s/EMLXcm-565Cc4jMo329i4Q)
+    - [Java9è½¬èº«å¾®æœåŠ¡](https://mp.weixin.qq.com/s/NJ-UoD5XgMz97KtnLoA6yw)
 + [JVM GC](https://mp.weixin.qq.com/s/bchk1rfH13DGKjztX0JZpQ)
-    - [JVM8µÄÄÚ´æ½á¹¹](https://mp.weixin.qq.com/s/-_tlaPtm361O8PBwChhIfA)
-    - [ÄÚ´æ·ÖÅäºÍÀ¬»ø»ØÊÕ](https://mp.weixin.qq.com/s/334SLntT6yVqRC1IrSaIbA)
-    - [Hotspot VMÖĞCMS+ParNew GCÎÊÌâ·ÖÎöÓë½â¾ö](https://mp.weixin.qq.com/s/RFwXYdzeRkTG5uaebVoLQw)
-    - [¶ÔÏó²»ÓÃ¸³Öµnull ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
-    - [¹é»¹ÄÚ´æ](https://mp.weixin.qq.com/s/7j3yM0rjaInMMCqs8T8uMg)
-    - [JVMÃæÊÔÎÊÌâ](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
+    - [JVM8çš„å†…å­˜ç»“æ„](https://mp.weixin.qq.com/s/-_tlaPtm361O8PBwChhIfA)
+    - [å†…å­˜åˆ†é…å’Œåƒåœ¾å›æ”¶](https://mp.weixin.qq.com/s/334SLntT6yVqRC1IrSaIbA)
+    - [Hotspot VMä¸­CMS+ParNew GCé—®é¢˜åˆ†æä¸è§£å†³](https://mp.weixin.qq.com/s/RFwXYdzeRkTG5uaebVoLQw)
+    - [å¯¹è±¡ä¸ç”¨èµ‹å€¼null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
+    - [å½’è¿˜å†…å­˜](https://mp.weixin.qq.com/s/7j3yM0rjaInMMCqs8T8uMg)
+    - [JVMé¢è¯•é—®é¢˜](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
 
 #### tools
-+ Linux³£ÓÃ¹¤¾ß[[Ó¢ÎÄ](https://github.com/luong-komorebi/Awesome-Linux-Software), [ÖĞÎÄ](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)]
-+ Windows³£ÓÃ¹¤¾ß[[Ó¢ÎÄ](https://github.com/Awesome-Windows/Awesome), [ÖĞÎÄ](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)]
-+ Mac³£ÓÃ¹¤¾ß[[Ó¢ÎÄ](https://github.com/jaywcjlove/awesome-mac), [ÖĞÎÄ](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)]
++ Linuxå¸¸ç”¨å·¥å…·[[è‹±æ–‡](https://github.com/luong-komorebi/Awesome-Linux-Software), [ä¸­æ–‡](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)]
++ Windowså¸¸ç”¨å·¥å…·[[è‹±æ–‡](https://github.com/Awesome-Windows/Awesome), [ä¸­æ–‡](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)]
++ Macå¸¸ç”¨å·¥å…·[[è‹±æ–‡](https://github.com/jaywcjlove/awesome-mac), [ä¸­æ–‡](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)]
     + Dash for Mac    
-    Ò»¸öºÃÓÃµÄ API ÎÄµµä¯ÀÀÆ÷ºÍ´úÂë¶Î¹ÜÀíÆ÷¡£³ÌĞòÔ±¾­³£²é¿´¸÷ÖÖ API ÎÄµµ£¬Dash ¿ÉÒÔ°ïÄã´Ó·±ËöµÄËÑË÷ÖĞ½âÍÑ£¬Ëü»ù±¾¸²¸ÇÁËËùÓĞÖ÷Á÷ºÍ·ÇÖ÷Á÷ÓïÑÔ¡¢¿ò¼ÜºÍ¿âµÄÎÄµµ¡£Äã»¹¿ÉÒÔÉú³É×Ô¼ºµÄÎÄµµ¼¯¡¢ÇëÇóÎÄµµ¼¯»ò´ÓµÚÈı·½À´Ô´ÏÂÔØÎÄµµ¼¯
-+ Ô¶³Ì×ÀÃæ
+    ä¸€ä¸ªå¥½ç”¨çš„ API æ–‡æ¡£æµè§ˆå™¨å’Œä»£ç æ®µç®¡ç†å™¨ã€‚ç¨‹åºå‘˜ç»å¸¸æŸ¥çœ‹å„ç§ API æ–‡æ¡£ï¼ŒDash å¯ä»¥å¸®ä½ ä»ç¹ççš„æœç´¢ä¸­è§£è„±ï¼Œå®ƒåŸºæœ¬è¦†ç›–äº†æ‰€æœ‰ä¸»æµå’Œéä¸»æµè¯­è¨€ã€æ¡†æ¶å’Œåº“çš„æ–‡æ¡£ã€‚ä½ è¿˜å¯ä»¥ç”Ÿæˆè‡ªå·±çš„æ–‡æ¡£é›†ã€è¯·æ±‚æ–‡æ¡£é›†æˆ–ä»ç¬¬ä¸‰æ–¹æ¥æºä¸‹è½½æ–‡æ¡£é›†
++ è¿œç¨‹æ¡Œé¢
     - [RustDesk](https://mp.weixin.qq.com/s/j0PLWjfD4b0RjgIjZHhCYw)
 + Markdown
-    - [MarkdeepÀ©Õ¹ÄÜÁ¦Markdown](https://mp.weixin.qq.com/s/ONNoK7r9Br-olOBnXRswkw)
-	- [4¸öLinux ÃüÁîĞĞÏÂµÄ Markdown ¹¤¾ß](https://mp.weixin.qq.com/s/9RRveBQU3iXEc04-rmCwVQ)
-    - [ÔÚÏßMarkdown±à¼­Æ÷](https://mp.weixin.qq.com/s/WsJWwIJe_8xnvmZNZYb-9Q)
+    - [Markdeepæ‰©å±•èƒ½åŠ›Markdown](https://mp.weixin.qq.com/s/ONNoK7r9Br-olOBnXRswkw)
+	- [4ä¸ªLinux å‘½ä»¤è¡Œä¸‹çš„ Markdown å·¥å…·](https://mp.weixin.qq.com/s/9RRveBQU3iXEc04-rmCwVQ)
+    - [åœ¨çº¿Markdownç¼–è¾‘å™¨](https://mp.weixin.qq.com/s/WsJWwIJe_8xnvmZNZYb-9Q)
     - [Arya](https://markdown.lovejade.cn/)  
-    Ò»¿î¿ªÔ´µÄÔÚÏß markdown ±à¼­Æ÷£¬¹¦ÄÜ·á¸»£¬Ö§³Ö DOM ½ÚµãÕ¹Ê¾¡¢Á÷³ÌÍ¼¡¢¸ÊÌØÍ¼¡¢Ê±ĞòÍ¼¡¢ÈÎÎñÁĞ±í£¬Ö§³ÖÎåÏßÆ×¡¢¼°²¿·ÖÕ¾µã¡¢ÊÓÆµ¡¢ÒôÆµ½âÎö  
+    ä¸€æ¬¾å¼€æºçš„åœ¨çº¿ markdown ç¼–è¾‘å™¨ï¼ŒåŠŸèƒ½ä¸°å¯Œï¼Œæ”¯æŒ DOM èŠ‚ç‚¹å±•ç¤ºã€æµç¨‹å›¾ã€ç”˜ç‰¹å›¾ã€æ—¶åºå›¾ã€ä»»åŠ¡åˆ—è¡¨ï¼Œæ”¯æŒäº”çº¿è°±ã€åŠéƒ¨åˆ†ç«™ç‚¹ã€è§†é¢‘ã€éŸ³é¢‘è§£æ  
 + Generators
     - [random generator](https://onlinerandomtools.com/)
     - [yaml transformer](https://onlineyamltools.com/)
 + Regex
-    - [ÕıÔò±í´ïÊ½Æ¥ÅäÖĞÎÄ](https://www.w3cschool.cn/regexp/nck51pqj.html) 
-    - [ÕıÔò±í´ïÊ½ÌØÊâ×Ö·û](https://www.w3cschool.cn/regexp/p5cx1pqd.html)
-+ [VLC×ªÂë/Â¼ÆÁ](https://mp.weixin.qq.com/s/jLFYgsggoS6oQAhx9yeG9Q)
+    - [æ­£åˆ™è¡¨è¾¾å¼åŒ¹é…ä¸­æ–‡](https://www.w3cschool.cn/regexp/nck51pqj.html) 
+    - [æ­£åˆ™è¡¨è¾¾å¼ç‰¹æ®Šå­—ç¬¦](https://www.w3cschool.cn/regexp/p5cx1pqd.html)
++ [VLCè½¬ç /å½•å±](https://mp.weixin.qq.com/s/jLFYgsggoS6oQAhx9yeG9Q)
 + ***Notepad++***
     - replace    
-    ĞèÒªÔÚcurl²Ù×÷payloadµÄjsonÃ¿Ò»ĞĞÄ©Î²Ôö¼ÓÒ»¸öÁ¬½Ó·û'\\', ÇÒ×Ö·ûºó²»ÄÜÓĞ¿Õ¸ñ£¬·ñÔòbash½âÎö»áÊ§°Ü¡£
+    éœ€è¦åœ¨curlæ“ä½œpayloadçš„jsonæ¯ä¸€è¡Œæœ«å°¾å¢åŠ ä¸€ä¸ªè¿æ¥ç¬¦'\\', ä¸”å­—ç¬¦åä¸èƒ½æœ‰ç©ºæ ¼ï¼Œå¦åˆ™bashè§£æä¼šå¤±è´¥ã€‚
     ```console
     curl -k -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/v1/measures
     {
@@ -800,7 +800,7 @@ monitor in:description language:python
         "description":"measure description"
     }
     ```
-    Éè¶¨ËÑË÷Ä£Ê½'Extended' È»ºóReplace All : '\r\n'  --> '  \\\\\r\n'
+    è®¾å®šæœç´¢æ¨¡å¼'Extended' ç„¶åReplace All : '\r\n'  --> '  \\\\\r\n'
     ```console
     {  \
         "name":"accuracy_measure",  \
@@ -812,30 +812,30 @@ monitor in:description language:python
     }
     ```
     + plugin/JSTool   
-    ÓÃÀ´¸ñÊ½»¯JS/JSONÊäÈë£¬JSMinÓÃÀ´°ÑJavaScript´úÂëminification£¬JSFormat¿ÉÒÔ½«minificationµÄ´úÂë»¹Ô­
+    ç”¨æ¥æ ¼å¼åŒ–JS/JSONè¾“å…¥ï¼ŒJSMinç”¨æ¥æŠŠJavaScriptä»£ç minificationï¼ŒJSFormatå¯ä»¥å°†minificationçš„ä»£ç è¿˜åŸ
     
 #### Interview
 + [Q&A-1](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)
 + [Q&A-spring](https://quizlet.com/306762411/baeldung-top-spring-framework-interview-questions-spring-core-flash-cards/)
-+ [Êı¾İ¿âÃæÊÔÌâ](https://mp.weixin.qq.com/s/lVfcrhxYvO5DUWe3yws9vw)
-+ [²Ù×÷ÏµÍ³ÎÊÌâ](https://mp.weixin.qq.com/s/fZWEZzSCCgOcLZU4fc3Mcw)
++ [æ•°æ®åº“é¢è¯•é¢˜](https://mp.weixin.qq.com/s/lVfcrhxYvO5DUWe3yws9vw)
++ [æ“ä½œç³»ç»Ÿé—®é¢˜](https://mp.weixin.qq.com/s/fZWEZzSCCgOcLZU4fc3Mcw)
 + [Java-Summarize](https://github.com/zaiyunduan123/Java-Summarize)
-+ [JVMµ×²ãÔ­ÀíÖªÊ¶](https://github.com/doocs/jvm)
-+ [´ó³§ÃæÊÔÖ¸±±](https://github.com/NotFound9/interviewGuide)
-+ [¼¼ÊõÃæÊÔ](https://github.com/CyC2018/CS-Notes)
++ [JVMåº•å±‚åŸç†çŸ¥è¯†](https://github.com/doocs/jvm)
++ [å¤§å‚é¢è¯•æŒ‡åŒ—](https://github.com/NotFound9/interviewGuide)
++ [æŠ€æœ¯é¢è¯•](https://github.com/CyC2018/CS-Notes)
 + [Java-interview](https://mp.weixin.qq.com/s/jnLyvrypsGL9avExjFCoZQ)
 + [go-interview](https://github.com/shomali11/go-interview)
 #### Contract
 + Offer negociation[[1](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q), [2](https://mp.weixin.qq.com/s/mr9URCUSzgESLRkhhgHEdA)]
-+ [ÀÍ¶¯ºÏÍ¬µ½ÆÚĞøÇ©](https://mp.weixin.qq.com/s/1sIyoiluui3fNdK79o_3tw)
-+ [Ã¿ÔÂÎªÉ¶Ö»·¢21.75Ìì¹¤×Ê](https://mp.weixin.qq.com/s/KtWXaxGtr5hSSWmvNAXa0g)
-+ [ÍõÊåÎÄÈ¨Ä±](https://mp.weixin.qq.com/s/dR6LzczILAjrh5CJGme2wA)
++ [åŠ³åŠ¨åˆåŒåˆ°æœŸç»­ç­¾](https://mp.weixin.qq.com/s/1sIyoiluui3fNdK79o_3tw)
++ [æ¯æœˆä¸ºå•¥åªå‘21.75å¤©å·¥èµ„](https://mp.weixin.qq.com/s/KtWXaxGtr5hSSWmvNAXa0g)
++ [ç‹å”æ–‡æƒè°‹](https://mp.weixin.qq.com/s/dR6LzczILAjrh5CJGme2wA)
 
 #### protobuf
-+ [¼òÒªÊ¹ÓÃ](https://mp.weixin.qq.com/s/-OmguA3IqwQqJRjiUhyUEQ)
++ [ç®€è¦ä½¿ç”¨](https://mp.weixin.qq.com/s/-OmguA3IqwQqJRjiUhyUEQ)
 
-protobuf rpc service¶¨Òå±àÒëºóÈ±Ê§£¬Ô­ÒòÊÇÄ¬ÈÏÑ¡ÏîÊÇÁô¸øÊµÏÖ×Ô¼ºÍê³Écustom code generator£¬¶ø²»ÊÇÑ¡Ôñ"generic"²úÉúservicesÄ£°å.
-Òò´Ë£¬ĞèÒªÔÚ.proto¶¨ÒåÎÄ¼şÍ·¼ÓÉÏ`option java_generic_services = true;`
+protobuf rpc serviceå®šä¹‰ç¼–è¯‘åç¼ºå¤±ï¼ŒåŸå› æ˜¯é»˜è®¤é€‰é¡¹æ˜¯ç•™ç»™å®ç°è‡ªå·±å®Œæˆcustom code generatorï¼Œè€Œä¸æ˜¯é€‰æ‹©"generic"äº§ç”Ÿservicesæ¨¡æ¿.
+å› æ­¤ï¼Œéœ€è¦åœ¨.protoå®šä¹‰æ–‡ä»¶å¤´åŠ ä¸Š`option java_generic_services = true;`
 ```console
 #!/bin/bash
 
@@ -846,7 +846,7 @@ done
 
 #### spring
 - [Spring Cloud](https://github.com/ityouknow/awesome-spring-cloud)
-    - [¼Ü¹¹Ë¼Î¬µ¼Í¼](https://mp.weixin.qq.com/s/g6P86D7vQCdiSy01L0-iIQ)
+    - [æ¶æ„æ€ç»´å¯¼å›¾](https://mp.weixin.qq.com/s/g6P86D7vQCdiSy01L0-iIQ)
 - Spring Boot tutorials[[***1***](https://www.tutorialspoint.com/spring_boot/spring_boot_quick_start.htm), [***2***](https://www.mkyong.com/tutorials/spring-boot-tutorials/)]
     - [properties injection](java/spring.md#bu1)
     - [application entry](java/spring.md#bu2)
@@ -855,12 +855,12 @@ done
         - [Run Boot Application](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html)
     - [Tomcat configuration](https://www.baeldung.com/spring-boot-configure-tomcat)
     - [best practices](java/spring.md#bubp)
-	- [Spring BootÖĞµÄÊÂÎñÊÇÈçºÎÊµÏÖµÄ](https://mp.weixin.qq.com/s/VitWI2QsiMv-uXtNrQXRrw)
-	- [Spring BootÔËĞĞ¼à¿Ø](https://mp.weixin.qq.com/s/53akj0zsvdyh8cW0ApObXQ)
+	- [Spring Bootä¸­çš„äº‹åŠ¡æ˜¯å¦‚ä½•å®ç°çš„](https://mp.weixin.qq.com/s/VitWI2QsiMv-uXtNrQXRrw)
+	- [Spring Bootè¿è¡Œç›‘æ§](https://mp.weixin.qq.com/s/53akj0zsvdyh8cW0ApObXQ)
     - spring-boot-based product
-        - [eladminºóÌ¨¹ÜÀíÏµÍ³](https://github.com/elunez/eladmin)
-        - [xxl-job·Ö²¼Ê½µ÷¶ÈÆ½Ì¨](https://github.com/xuxueli/xxl-job)
-        - [Æß¸ö¿ªÔ´Spring BootÇ°ºó¶Ë·ÖÀëÏîÄ¿](https://mp.weixin.qq.com/s/IVbhvqV5Sgh9Pn6Fw_6qYg)
+        - [eladminåå°ç®¡ç†ç³»ç»Ÿ](https://github.com/elunez/eladmin)
+        - [xxl-jobåˆ†å¸ƒå¼è°ƒåº¦å¹³å°](https://github.com/xuxueli/xxl-job)
+        - [ä¸ƒä¸ªå¼€æºSpring Bootå‰åç«¯åˆ†ç¦»é¡¹ç›®](https://mp.weixin.qq.com/s/IVbhvqV5Sgh9Pn6Fw_6qYg)
 - [Spring](java/spring.md)
     - [tutorials](https://github.com/eugenp/tutorials)
         - [spring core-1](https://github.com/eugenp/tutorials/tree/master/spring-core)
@@ -895,69 +895,69 @@ done
     - [spring doc center](https://docs.spring.io/spring/docs/)
         - [spring framework 5.0](https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/index.html)
         - [pdf/excel/html report integration](https://www.baeldung.com/spring-jasper)
-		- [SpringÖĞ¾­µäµÄ9ÖÖÉè¼ÆÄ£Ê½](https://mp.weixin.qq.com/s/YxqwafTbwJFbsmdM16v5IA)
-        - [ÔÄ¶Á±Ê¼Ç](https://github.com/seaswalker/spring-analysis)
-        - [RBAC·ÃÎÊÊµÏÖ](https://mp.weixin.qq.com/s/R90-OulrUj3xvuvIVYPDXw)
-        - [×Ô¶¨Òåannotation+AOPÊµÏÖÈ¨ÏŞ¿ØÖÆ](https://mp.weixin.qq.com/s/U9cOHihPerHqa8MDxDt0mQ)
-        - [private·½·¨Ö®ÓÚ@Transactional](https://mp.weixin.qq.com/s/EXc3tYMWsZ5dcpO9DbB2dA)
+		- [Springä¸­ç»å…¸çš„9ç§è®¾è®¡æ¨¡å¼](https://mp.weixin.qq.com/s/YxqwafTbwJFbsmdM16v5IA)
+        - [é˜…è¯»ç¬”è®°](https://github.com/seaswalker/spring-analysis)
+        - [RBACè®¿é—®å®ç°](https://mp.weixin.qq.com/s/R90-OulrUj3xvuvIVYPDXw)
+        - [è‡ªå®šä¹‰annotation+AOPå®ç°æƒé™æ§åˆ¶](https://mp.weixin.qq.com/s/U9cOHihPerHqa8MDxDt0mQ)
+        - [privateæ–¹æ³•ä¹‹äº@Transactional](https://mp.weixin.qq.com/s/EXc3tYMWsZ5dcpO9DbB2dA)
 
 #### kubernetes
 + [k8s](k8s.md)
 
 #### digest
-µÂ¹úÊ«ÈËº£ÄùËµ£¬²»ÒªÇáÊÓ¹ÛÄîµÄÓ°ÏìÁ¦£¬½ÌÊÚÔÚ³Á¾²µÄÑĞ¾¿ÖĞËùÅàÓı³öÀ´µÄÕÜÑ§¸ÅÄî¿ÉÄÜµß¸²Ò»¸öÎÄÃ÷¡£¡°º£ÄùÕâ¾ä»°ÊÇĞÎÈİ¿µµÂµÄ£¬µ«ÊÇÎÒÈÏÎªÓÃÀ´ĞÎÈİÂí¿ËË¼¸üÎªºÏÊÊ¡£Âí¿ËË¼µÄÄ¹Ç°¿ÌÁËÁ½ĞĞ×Ö£ºÕÜÑ§¼ÒÃÇÖ»ÊÇÓÃ²»Í¬µÄ·½Ê½½âÊÍÊÀ½ç,¶øÎÊÌâÔÚÓÚ¸Ä±äÊÀ½ç¡£µ«ÊÇ´ó¼ÒÓĞÃ»ÓĞÏë¹ı£¬Âí¿ËË¼ÊÇÍ¨¹ıÊ²Ã´·½Ê½È¥¸Ä±äÊÀ½çµÄ£¿ËûÊÇÍ¨¹ı½âÊÍÊÀ½çÈ¥¸Ä±äÊÀ½çµÄ¡£¡±
+å¾·å›½è¯—äººæµ·æ¶…è¯´ï¼Œä¸è¦è½»è§†è§‚å¿µçš„å½±å“åŠ›ï¼Œæ•™æˆåœ¨æ²‰é™çš„ç ”ç©¶ä¸­æ‰€åŸ¹è‚²å‡ºæ¥çš„å“²å­¦æ¦‚å¿µå¯èƒ½é¢ è¦†ä¸€ä¸ªæ–‡æ˜ã€‚â€œæµ·æ¶…è¿™å¥è¯æ˜¯å½¢å®¹åº·å¾·çš„ï¼Œä½†æ˜¯æˆ‘è®¤ä¸ºç”¨æ¥å½¢å®¹é©¬å…‹æ€æ›´ä¸ºåˆé€‚ã€‚é©¬å…‹æ€çš„å¢“å‰åˆ»äº†ä¸¤è¡Œå­—ï¼šå“²å­¦å®¶ä»¬åªæ˜¯ç”¨ä¸åŒçš„æ–¹å¼è§£é‡Šä¸–ç•Œ,è€Œé—®é¢˜åœ¨äºæ”¹å˜ä¸–ç•Œã€‚ä½†æ˜¯å¤§å®¶æœ‰æ²¡æœ‰æƒ³è¿‡ï¼Œé©¬å…‹æ€æ˜¯é€šè¿‡ä»€ä¹ˆæ–¹å¼å»æ”¹å˜ä¸–ç•Œçš„ï¼Ÿä»–æ˜¯é€šè¿‡è§£é‡Šä¸–ç•Œå»æ”¹å˜ä¸–ç•Œçš„ã€‚â€
 
-·ëÓÑÀ¼Ëµ£¬¡°ÕÜÑ§£¬ÌØ±ğÊÇĞÎ¶øÉÏÑ§£¬¶ÔÎÒÃÇÔö½ø¶ÔÊÂÊµµÄÖªÊ¶²¢ÎŞÓÃ´¦£¬µ«ÊÇËüÎªÎÒÃÇÌá¸ßÎÒÃÇµÄĞÄÖÇ£¬ÔòÊÇ±Ø²»¿ÉÉÙµÄ¡£¡±·ëÓÑÀ¼ÈÏÎª£¬ÈËºÍÆäËû¶¯ÎïµÄ²»Í¬Ö®´¦ÔÚÓÚ£¬¶¯ÎïÊÇÃ»ÓĞ×ÔÖªÁ¦ºÍ·´Ë¼Á¦£¬¶øÈË¶ÔÓÚ×Ô¼ºµÄĞĞÎªÓĞÒ»ÖÖ¾õ½â£¬ÕâÖÖ¾õ½â¶ÔËûÕıÔÚ×öµÄÊÂÇé²úÉúÁËÒâÒå£¬ÕâĞ©ÒâÒå×îÖÕĞÎ³ÉµÄÕûÌå£¬¹¹³ÉËûµÄÈËÉú¾³½ç¡£
+å†¯å‹å…°è¯´ï¼Œâ€œå“²å­¦ï¼Œç‰¹åˆ«æ˜¯å½¢è€Œä¸Šå­¦ï¼Œå¯¹æˆ‘ä»¬å¢è¿›å¯¹äº‹å®çš„çŸ¥è¯†å¹¶æ— ç”¨å¤„ï¼Œä½†æ˜¯å®ƒä¸ºæˆ‘ä»¬æé«˜æˆ‘ä»¬çš„å¿ƒæ™ºï¼Œåˆ™æ˜¯å¿…ä¸å¯å°‘çš„ã€‚â€å†¯å‹å…°è®¤ä¸ºï¼Œäººå’Œå…¶ä»–åŠ¨ç‰©çš„ä¸åŒä¹‹å¤„åœ¨äºï¼ŒåŠ¨ç‰©æ˜¯æ²¡æœ‰è‡ªçŸ¥åŠ›å’Œåæ€åŠ›ï¼Œè€Œäººå¯¹äºè‡ªå·±çš„è¡Œä¸ºæœ‰ä¸€ç§è§‰è§£ï¼Œè¿™ç§è§‰è§£å¯¹ä»–æ­£åœ¨åšçš„äº‹æƒ…äº§ç”Ÿäº†æ„ä¹‰ï¼Œè¿™äº›æ„ä¹‰æœ€ç»ˆå½¢æˆçš„æ•´ä½“ï¼Œæ„æˆä»–çš„äººç”Ÿå¢ƒç•Œã€‚
 
-Î÷·½µÄË¹¶à¸ğÑ§ÅÉÓë·ëÓÑÀ¼µÄ¹ÛµãÀàËÆ£¬ÔÚËûÃÇ¿´À´£¬ÕÜÑ§¿ÉÒÔ´øÀ´¶ÔÓÚÈËÉúµÄÎ¿½å¡£Âí¿Ë¡¤°ÂÀÕÁôËµ£º¡°ÈËËùÖ´×ÅµÄÊÇÊ²Ã´ÄØ£¿°¡£¬³ıÕÜÑ§±ğÎŞËûÎï¡£Î¨ÕÜÑ§¿ÉÒÔ±£³ÖÎÒĞÄÖĞµÄÉñĞÔ£¬Ê¹ÎÒÃÇÃâÊÜÉËº¦ÓëÇüÈè£¬Ê¹ÎÒÃÇ³¬È»ÓÚ¿àÀÖÖ®ÉÏ¡£Ê¹ÎÒÃÇ²»ÖÂ×°ÁûÂôÉµ»ò½ÃÇéÑÚÊÎ£¬Ê¹ÎÒÃÇÎŞĞèÑöÈË±ÇÏ¢£¬Ê¹ÈËÇıÊ¹¡£ºÎÖ¹ÓÚ´Ë£¬ÕÜÑ§Ê¹ÎÒÃÇµÄĞÄÁéËäÔâÄæË³¶ø°²Ö®ÈôËØ¡£¡±
+è¥¿æ–¹çš„æ–¯å¤šè‘›å­¦æ´¾ä¸å†¯å‹å…°çš„è§‚ç‚¹ç±»ä¼¼ï¼Œåœ¨ä»–ä»¬çœ‹æ¥ï¼Œå“²å­¦å¯ä»¥å¸¦æ¥å¯¹äºäººç”Ÿçš„æ…°è—‰ã€‚é©¬å…‹Â·å¥¥å‹’ç•™è¯´ï¼šâ€œäººæ‰€æ‰§ç€çš„æ˜¯ä»€ä¹ˆå‘¢ï¼Ÿå•Šï¼Œé™¤å“²å­¦åˆ«æ— ä»–ç‰©ã€‚å”¯å“²å­¦å¯ä»¥ä¿æŒæˆ‘å¿ƒä¸­çš„ç¥æ€§ï¼Œä½¿æˆ‘ä»¬å…å—ä¼¤å®³ä¸å±ˆè¾±ï¼Œä½¿æˆ‘ä»¬è¶…ç„¶äºè‹¦ä¹ä¹‹ä¸Šã€‚ä½¿æˆ‘ä»¬ä¸è‡´è£…è‹å–å‚»æˆ–çŸ«æƒ…æ©é¥°ï¼Œä½¿æˆ‘ä»¬æ— éœ€ä»°äººé¼»æ¯ï¼Œä½¿äººé©±ä½¿ã€‚ä½•æ­¢äºæ­¤ï¼Œå“²å­¦ä½¿æˆ‘ä»¬çš„å¿ƒçµè™½é­é€†é¡ºè€Œå®‰ä¹‹è‹¥ç´ ã€‚â€
 
-×¯×ÓËµµÄ¡°ÖªÆäÒÑÖªÕß¡±ÔÚÒ»¸öºÜ»ù±¾µÄÒâÒåÉÏ£¬ÕÜÑ§¾ÍÊÇÔÚ¸ÉÕâ¸öÊÂ¡£Î¬ÌØ¸ùË¹Ì¹Ò²Ëµ¹ı¼¸ºõºÍ×¯×ÓÒ»Ä£Ò»ÑùµÄ»°£º¿ÆÑ§ÊÇÔÚ²»¶ÏµØÁË½âÎ´ÖªµÄÊÀ½ç£¬¶øÕÜÑ§Ò»Ö±ÊÇÔÚÊÕ¼¯»ØÒä¡£Î¬ÌØ¸ùË¹Ì¹Ëµ¹ı£¬Ò»ÇĞÕÜÑ§ÎÊÌâ¹é¸ù½áµ×¶¼ÊÇÓïÑÔÎÊÌâ¡£
+åº„å­è¯´çš„â€œçŸ¥å…¶å·²çŸ¥è€…â€åœ¨ä¸€ä¸ªå¾ˆåŸºæœ¬çš„æ„ä¹‰ä¸Šï¼Œå“²å­¦å°±æ˜¯åœ¨å¹²è¿™ä¸ªäº‹ã€‚ç»´ç‰¹æ ¹æ–¯å¦ä¹Ÿè¯´è¿‡å‡ ä¹å’Œåº„å­ä¸€æ¨¡ä¸€æ ·çš„è¯ï¼šç§‘å­¦æ˜¯åœ¨ä¸æ–­åœ°äº†è§£æœªçŸ¥çš„ä¸–ç•Œï¼Œè€Œå“²å­¦ä¸€ç›´æ˜¯åœ¨æ”¶é›†å›å¿†ã€‚ç»´ç‰¹æ ¹æ–¯å¦è¯´è¿‡ï¼Œä¸€åˆ‡å“²å­¦é—®é¢˜å½’æ ¹ç»“åº•éƒ½æ˜¯è¯­è¨€é—®é¢˜ã€‚
 
-Ê²Ã´ÊÇ×·Çó¶ÀÒì£¿³Ô·¹²»Ö»Çó±¥£¬¶øÒª³ÔµÃ¡°ÕıÈ·¡±¡°½¡¿µ¡±£»²»²Î¼Ó¡°´óÖÚÂÃÓÎ¡±£¬¶øÒª×î¡°´¿Õı¡±µÄ¡°ÂÃĞĞ¡±£»¹¤×÷²»Ó¦Ö»Îªµ¾Á»Ä±£¬¶øÒªÒâÒåºÍÀÖÈ¤¡£¡°³É¹¦µØÊµÏÖ×ÔÎÒ¡±£¬ÕâÊÇÍíÏÖ´úÎÄ»¯µÄÉú»î·½Ê½µ¼Ïò£¬Ò²ÊÇĞÂÖĞ²ú×·ÇóµÄÄ¿±ê¡£È»¶øÊÂÊµÉÏ£¬»ùÓÚ´ËµÄ¸öÈËĞÒ¸£È´ÏÔµÃĞéÎŞçÎç¿¡ª¡ªÒ»·½ÃæÕâÈ¡¾öÓÚ±ä»¯ÎŞ³£µÄ¸öÈËÌåÑé£¬ÁíÒ»·½ÃæÈ¡¾öÓÚÄÑÒÔ×½ÃşµÄÎÄ»¯ÊĞ³¡¡£
+ä»€ä¹ˆæ˜¯è¿½æ±‚ç‹¬å¼‚ï¼Ÿåƒé¥­ä¸åªæ±‚é¥±ï¼Œè€Œè¦åƒå¾—â€œæ­£ç¡®â€â€œå¥åº·â€ï¼›ä¸å‚åŠ â€œå¤§ä¼—æ—…æ¸¸â€ï¼Œè€Œè¦æœ€â€œçº¯æ­£â€çš„â€œæ—…è¡Œâ€ï¼›å·¥ä½œä¸åº”åªä¸ºç¨»ç²±è°‹ï¼Œè€Œè¦æ„ä¹‰å’Œä¹è¶£ã€‚â€œæˆåŠŸåœ°å®ç°è‡ªæˆ‘â€ï¼Œè¿™æ˜¯æ™šç°ä»£æ–‡åŒ–çš„ç”Ÿæ´»æ–¹å¼å¯¼å‘ï¼Œä¹Ÿæ˜¯æ–°ä¸­äº§è¿½æ±‚çš„ç›®æ ‡ã€‚ç„¶è€Œäº‹å®ä¸Šï¼ŒåŸºäºæ­¤çš„ä¸ªäººå¹¸ç¦å´æ˜¾å¾—è™šæ— ç¼¥ç¼ˆâ€”â€”ä¸€æ–¹é¢è¿™å–å†³äºå˜åŒ–æ— å¸¸çš„ä¸ªäººä½“éªŒï¼Œå¦ä¸€æ–¹é¢å–å†³äºéš¾ä»¥æ‰æ‘¸çš„æ–‡åŒ–å¸‚åœºã€‚
 
-ÔÚ¡¶ÂÛ·¨µÄ¾«Éñ¡·ÖĞ£¬ÃÏµÂË¹ğ¯Ğû³ÆÈ¨Á¦ÏÔÊ¾³öÒ»ÖÖ×ÔÎÒÅòÕÍ²¢ÀÄÓÃ×ÔÉíÌØÈ¨µÄ×ÔÈ»ÇãÏò£¬Ëü²»»áÍ£Ö¹£¬Ö±µ½ÔÚËüµÄÍâ²¿ÕÒµ½Ò»ÖÖÏŞÖÆ¡£ÕâÒ»½ÌÑµÔÚÈÎºÎÊ±¼äºÍÈÎºÎµØµã¶¼ÊÊÓÃ¡£Èç½ñ£¬²»Í£ÅòÕÍ²¢²»¶Ï×ÔÖ÷»¯µÄÈ¨Á¦ÊÇ¾­¼ÃÈ¨Á¦¡¢½ğÈÚÈ¨Á¦¡£
+åœ¨ã€Šè®ºæ³•çš„ç²¾ç¥ã€‹ä¸­ï¼Œå­Ÿå¾·æ–¯é¸ å®£ç§°æƒåŠ›æ˜¾ç¤ºå‡ºä¸€ç§è‡ªæˆ‘è†¨èƒ€å¹¶æ»¥ç”¨è‡ªèº«ç‰¹æƒçš„è‡ªç„¶å€¾å‘ï¼Œå®ƒä¸ä¼šåœæ­¢ï¼Œç›´åˆ°åœ¨å®ƒçš„å¤–éƒ¨æ‰¾åˆ°ä¸€ç§é™åˆ¶ã€‚è¿™ä¸€æ•™è®­åœ¨ä»»ä½•æ—¶é—´å’Œä»»ä½•åœ°ç‚¹éƒ½é€‚ç”¨ã€‚å¦‚ä»Šï¼Œä¸åœè†¨èƒ€å¹¶ä¸æ–­è‡ªä¸»åŒ–çš„æƒåŠ›æ˜¯ç»æµæƒåŠ›ã€é‡‘èæƒåŠ›ã€‚
 
-¡¶º«·Ç×Ó¡·ËµÈüÂíµÄÃî·¨£¬ÔÚÓÚ¡°²»Îª×îÏÈ£¬²»³Ü×îºó¡±
+ã€ŠéŸ©éå­ã€‹è¯´èµ›é©¬çš„å¦™æ³•ï¼Œåœ¨äºâ€œä¸ä¸ºæœ€å…ˆï¼Œä¸è€»æœ€åâ€
 
-´ºÇïÎå°ÔÖ®Ê×Æë»¸¹«¡°ÃË¶ø²»ÓÃì¦¡±£¨²»¾ÙĞĞì¦ÑªµÄÒÇÊ½£©Ê±Ëù½âÊÍµÄÄÇÑùµÄ£¬¡°ÃË¶øÓĞĞÅ£¬ì¦ÎŞËù¼Ó£»ÃË¶øÎŞĞÅ£¬ÓÃì¦ºÎÎª¡±--¹úÓë¹úÖ®¼äÆõÔ¼µÄÀÎ¹Ì£¬¹Ø¼üÔÚÓÚĞÅÓÃºÍ»¥ĞÅ£¬¶ø²»ÔÚÓÚÒ»Ê±¡¢Ò»µØµÄÇ©Ô¼ÒÇÊ½¡£
+æ˜¥ç§‹äº”éœ¸ä¹‹é¦–é½æ¡“å…¬â€œç›Ÿè€Œä¸ç”¨æ­ƒâ€ï¼ˆä¸ä¸¾è¡Œæ­ƒè¡€çš„ä»ªå¼ï¼‰æ—¶æ‰€è§£é‡Šçš„é‚£æ ·çš„ï¼Œâ€œç›Ÿè€Œæœ‰ä¿¡ï¼Œæ­ƒæ— æ‰€åŠ ï¼›ç›Ÿè€Œæ— ä¿¡ï¼Œç”¨æ­ƒä½•ä¸ºâ€--å›½ä¸å›½ä¹‹é—´å¥‘çº¦çš„ç‰¢å›ºï¼Œå…³é”®åœ¨äºä¿¡ç”¨å’Œäº’ä¿¡ï¼Œè€Œä¸åœ¨äºä¸€æ—¶ã€ä¸€åœ°çš„ç­¾çº¦ä»ªå¼ã€‚
 
-Ã¿ÁÙ´óÊÂÓĞ¾²Æø¡£²»Òª¼±£¬¼±Ò²Ã»ÓÃ
+æ¯ä¸´å¤§äº‹æœ‰é™æ°”ã€‚ä¸è¦æ€¥ï¼Œæ€¥ä¹Ÿæ²¡ç”¨
 
-ÒÔÑÔÈ¡ÈË£¬Ê§Ö®Ô×Óè£»ÒÔÃ²È¡ÈË£¬Ê§Ö®×ÓÓğ
+ä»¥è¨€å–äººï¼Œå¤±ä¹‹å®°äºˆï¼›ä»¥è²Œå–äººï¼Œå¤±ä¹‹å­ç¾½
 
-¼û¹ıÊÀÃæµÄÈË£¬¿´µ½×îºÃµÄ£¬²»ÒÔÎïÏ²£»ÖªÏş×î»µµÄ£¬²»ÒÔ¼º±¯¡£ÂÒ»¨½¥Óû£¬²»×¹ÇàÔÆÖ¾£¬¸¹ÓĞÊ«Êé£¬²»¿ä¿äÆäÌ¸
+è§è¿‡ä¸–é¢çš„äººï¼Œçœ‹åˆ°æœ€å¥½çš„ï¼Œä¸ä»¥ç‰©å–œï¼›çŸ¥æ™“æœ€åçš„ï¼Œä¸ä»¥å·±æ‚²ã€‚ä¹±èŠ±æ¸æ¬²ï¼Œä¸å é’äº‘å¿—ï¼Œè…¹æœ‰è¯—ä¹¦ï¼Œä¸å¤¸å¤¸å…¶è°ˆ
 
-ÍòÎïÍ¬Àí£¬¼õ·¨ÓÀÔ¶±È¼Ó·¨ÄÑ£¬ÕıÈçÖ£°åÇÅÒ»¾äÊ«£º¡°É¾·±¾Í¼òÈıÇïÊ÷£¬ÁìÒì±êĞÂ¶şÔÂ»¨¡±¡£
+ä¸‡ç‰©åŒç†ï¼Œå‡æ³•æ°¸è¿œæ¯”åŠ æ³•éš¾ï¼Œæ­£å¦‚éƒ‘æ¿æ¡¥ä¸€å¥è¯—ï¼šâ€œåˆ ç¹å°±ç®€ä¸‰ç§‹æ ‘ï¼Œé¢†å¼‚æ ‡æ–°äºŒæœˆèŠ±â€ã€‚
 
-´«Ô»¡°ÆäÉíÕı£¬²»Áî¶øĞĞ£»ÆäÉí²»Õı£¬ËäÁî²»´Ó¡±£¬ÆäÀî½«¾üÖ®Î½Ò²£¿Óà¶ÃÀî½«¾ü£¬ãªãªÈç±ÉÈË£¬¿Ú²»ÄÜµÀ´Ç¡£¼°ËÀÖ®ÈÕ£¬ÌìÏÂÖªÓë²»Öª£¬½ÔÎª¾¡°§¡£±ËÆäÖÒÊµĞÄ³ÏĞÅÓÚÊ¿´ó·òÒ²£¿ÑèÔ»¡°ÌÒÀî²»ÑÔ£¬ÏÂ×Ô³Éõè¡±¡£´ËÑÔËäĞ¡£¬¿ÉÒÔÚÍ´óÒ²¡£Ë¾ÂíÇ¨ËµµÄ¡°Àî½«¾ü¡±ÊÇÀî¹ã¶ø²»ÊÇÀîÁê£¬È»ÁêÎª¹ãËï£¬ÓĞÆä¼Ò·ç£¬¾ÍÁ¬ÃüÔËµÄ±¯²Ò¶¼Ò»Ä£Ò»Ñù¡£¶ÁÕßÈôÄÃÕâ¶Î»°È¥¶Ô±ÈÒ»ÏÂËÕ½¨ÆÀÎÀÇàµÄ»°£¬ËùÎ½¡°´ó½«¾üÖÁ×ğÖØ£¬¶øÌìÏÂÖ®ÏÍ´ó·òÎã³ÆÑÉ¡±£¨¡¶ÎÀ½«¾ü´«¡·ÔŞÒı£©£¬ËûµÄ¡°ÎŞÑÔ¡±²»ÊÇ¸üÊ¤ÓÚ¡°ÓĞÑÔ¡±Âğ£¿
+ä¼ æ›°â€œå…¶èº«æ­£ï¼Œä¸ä»¤è€Œè¡Œï¼›å…¶èº«ä¸æ­£ï¼Œè™½ä»¤ä¸ä»â€ï¼Œå…¶æå°†å†›ä¹‹è°“ä¹Ÿï¼Ÿä½™ç¹æå°†å†›ï¼Œæ‚›æ‚›å¦‚é„™äººï¼Œå£ä¸èƒ½é“è¾ã€‚åŠæ­»ä¹‹æ—¥ï¼Œå¤©ä¸‹çŸ¥ä¸ä¸çŸ¥ï¼Œçš†ä¸ºå°½å“€ã€‚å½¼å…¶å¿ å®å¿ƒè¯šä¿¡äºå£«å¤§å¤«ä¹Ÿï¼Ÿè°šæ›°â€œæ¡ƒæä¸è¨€ï¼Œä¸‹è‡ªæˆè¹Šâ€ã€‚æ­¤è¨€è™½å°ï¼Œå¯ä»¥è°•å¤§ä¹Ÿã€‚å¸é©¬è¿è¯´çš„â€œæå°†å†›â€æ˜¯æå¹¿è€Œä¸æ˜¯æé™µï¼Œç„¶é™µä¸ºå¹¿å­™ï¼Œæœ‰å…¶å®¶é£ï¼Œå°±è¿å‘½è¿çš„æ‚²æƒ¨éƒ½ä¸€æ¨¡ä¸€æ ·ã€‚è¯»è€…è‹¥æ‹¿è¿™æ®µè¯å»å¯¹æ¯”ä¸€ä¸‹è‹å»ºè¯„å«é’çš„è¯ï¼Œæ‰€è°“â€œå¤§å°†å†›è‡³å°Šé‡ï¼Œè€Œå¤©ä¸‹ä¹‹è´¤å¤§å¤«æ¯‹ç§°ç„‰â€ï¼ˆã€Šå«å°†å†›ä¼ ã€‹èµå¼•ï¼‰ï¼Œä»–çš„â€œæ— è¨€â€ä¸æ˜¯æ›´èƒœäºâ€œæœ‰è¨€â€å—ï¼Ÿ
 
-ÁÖÓïÌÃËµ£º¡°µÀ¼Ò¼°Èå¼ÒÊÇÖĞ¹úÈËÁé»êµÄÁ½Ãæ£¬ÖĞ¹úµÄÎÄÈËºÜĞÒ¸££¬ÍùÍùµÃÒâµÄÊ±ºòÊÇ¸öÈå¼Ò£¬Ê§ÒâµÄÊ±ºòÊÇ¸öµÀ¼Ò¡£¡± ²»ĞÅÄã¿´ËÕéø£¬ÄêÇáÊ±¿¼¿Æ¾Ù¡¢×öÎÄÕÂ¡¢Õù¹¦Ãû¡¢·´Íõ°²Ê¯±ä·¨£¬»îÍÑÍÑÒ»¸öÖ´×ÅÓĞÎªµÄÉÏ½øÇàÄê£¬ÏëµÄ¶¼ÊÇ¡°¹ÅÖ®ËùÎ½ºÀ½ÜÖ®Ê¿¡±¡£ÍíÄêÀú¾­ÕşÖÎ¸¡³Á£¬ÊÖÅõÒ»¾í¡¶×¯×Ó¡·£¬ĞÄÖĞÒ»²ü£¬¡°½ñ¼û¡¶×¯×Ó¡·£¬µÃÎáĞÄÒÓ¡±£¬Âä±ÊĞ´ÏÂ¡°ÖñÕÈÃ¢Ğ¬ÇáÊ¤Âí£¬Ë­ÅÂ£¿Ò»ËòÑÌÓêÈÎÆ½Éú¡±£¬¡°»ØÊ×ÏòÀ´ÏôÉª´¦£¬¹éÈ¥£¬Ò²ÎŞ·çÓêÒ²ÎŞÇç¡±¡£
+æ—è¯­å ‚è¯´ï¼šâ€œé“å®¶åŠå„’å®¶æ˜¯ä¸­å›½äººçµé­‚çš„ä¸¤é¢ï¼Œä¸­å›½çš„æ–‡äººå¾ˆå¹¸ç¦ï¼Œå¾€å¾€å¾—æ„çš„æ—¶å€™æ˜¯ä¸ªå„’å®¶ï¼Œå¤±æ„çš„æ—¶å€™æ˜¯ä¸ªé“å®¶ã€‚â€ ä¸ä¿¡ä½ çœ‹è‹è½¼ï¼Œå¹´è½»æ—¶è€ƒç§‘ä¸¾ã€åšæ–‡ç« ã€äº‰åŠŸåã€åç‹å®‰çŸ³å˜æ³•ï¼Œæ´»è„±è„±ä¸€ä¸ªæ‰§ç€æœ‰ä¸ºçš„ä¸Šè¿›é’å¹´ï¼Œæƒ³çš„éƒ½æ˜¯â€œå¤ä¹‹æ‰€è°“è±ªæ°ä¹‹å£«â€ã€‚æ™šå¹´å†ç»æ”¿æ²»æµ®æ²‰ï¼Œæ‰‹æ§ä¸€å·ã€Šåº„å­ã€‹ï¼Œå¿ƒä¸­ä¸€é¢¤ï¼Œâ€œä»Šè§ã€Šåº„å­ã€‹ï¼Œå¾—å¾å¿ƒçŸ£â€ï¼Œè½ç¬”å†™ä¸‹â€œç«¹æ–èŠ’é‹è½»èƒœé©¬ï¼Œè°æ€•ï¼Ÿä¸€è“‘çƒŸé›¨ä»»å¹³ç”Ÿâ€ï¼Œâ€œå›é¦–å‘æ¥è§ç‘Ÿå¤„ï¼Œå½’å»ï¼Œä¹Ÿæ— é£é›¨ä¹Ÿæ— æ™´â€ã€‚
 
-Èå¼ÒºÍµÀ¼Ò£¬Ò»¸öÊÇÈëÊÀÈË¸ñ£¬Ò»¸öÊÇ³öÊÀÈË¸ñ£¬¿´ÆğÀ´»¥ÏàÃ¬¶Ü£¬È´ÔÚ¶àÉÙÖĞ¹úÈËµÄÁé»êÉî´¦¹²´æ¹²Éú¡£ÆñÖ¹ÊÇÈå¼ÒºÍµÀ¼Ò¾À²ø²»Çå£¬Èå¼Ò¸ú·¨¼ÒÒ²¡°Í¬Á÷ºÏÎÛ¡±¡£Õâ¸öµÀÀíÁ½Ç§ÄêÇ°ÒÑ¾­ÓĞÈË½²µÃºÜÇå³ş¡£ººÔªµÛ³¤ÓÚÉî¹¬£¬Êì¶Á¾­¼®£¬±§Ô¹ÀÏµùººĞûµÛ¡°³ÖĞÌÌ«Éî£¬ÒËÓÃÈåÉú¡£¡±ººĞûµÛÆø²»´òÒ»´¦À´£¬·ÅÏÂ¹ÚÃáÌÃ»ÊµÄ»°£¬Á¬Âî´øºğÑµ¶ù×Ó£¬¡°ºº¼Ò×ÔÓĞÖÆ¶È£¬±¾ÒÔ°ÔÍõµÀÔÓÖ®£¬ÄÎºÎ´¿ÈÎµÂ½Ì£¬ÓÃÖÜÕşºõ£¿¡±
+å„’å®¶å’Œé“å®¶ï¼Œä¸€ä¸ªæ˜¯å…¥ä¸–äººæ ¼ï¼Œä¸€ä¸ªæ˜¯å‡ºä¸–äººæ ¼ï¼Œçœ‹èµ·æ¥äº’ç›¸çŸ›ç›¾ï¼Œå´åœ¨å¤šå°‘ä¸­å›½äººçš„çµé­‚æ·±å¤„å…±å­˜å…±ç”Ÿã€‚å²‚æ­¢æ˜¯å„’å®¶å’Œé“å®¶çº ç¼ ä¸æ¸…ï¼Œå„’å®¶è·Ÿæ³•å®¶ä¹Ÿâ€œåŒæµåˆæ±¡â€ã€‚è¿™ä¸ªé“ç†ä¸¤åƒå¹´å‰å·²ç»æœ‰äººè®²å¾—å¾ˆæ¸…æ¥šã€‚æ±‰å…ƒå¸é•¿äºæ·±å®«ï¼Œç†Ÿè¯»ç»ç±ï¼ŒæŠ±æ€¨è€çˆ¹æ±‰å®£å¸â€œæŒåˆ‘å¤ªæ·±ï¼Œå®œç”¨å„’ç”Ÿã€‚â€æ±‰å®£å¸æ°”ä¸æ‰“ä¸€å¤„æ¥ï¼Œæ”¾ä¸‹å† å†•å ‚çš‡çš„è¯ï¼Œè¿éª‚å¸¦å¼è®­å„¿å­ï¼Œâ€œæ±‰å®¶è‡ªæœ‰åˆ¶åº¦ï¼Œæœ¬ä»¥éœ¸ç‹é“æ‚ä¹‹ï¼Œå¥ˆä½•çº¯ä»»å¾·æ•™ï¼Œç”¨å‘¨æ”¿ä¹ï¼Ÿâ€
 
-[ÈÎÏùÎüÈ¡ÍÀî¡µÄ½ÌÑµ](https://mp.weixin.qq.com/s?__biz=MzU4NTA0NzMyOQ==&mid=2247504335&idx=1&sn=8bd6d31c6fa39059589db3f118a55ded)£¬¶ÔÔ½ÈË²ÉÈ¡¿íËÉÕş²ß£¬¡°¸§ËçÓĞµÀ£¬²»¸ÒÒÔÇØ»¢ÀÇÖ®Íş£¬¸´¼Ó»ÄÒá¡±£¬²»ÔÙÀÄÉ±ÎŞ¹¼£¬¶øÊÇ½ÓÊÜÄÏÔ½Ï°Ë×£¬ÓëÔ½ÈËºÍÄÀÏà´¦¡£ËûÈÎÖ°ÊıÔØ£¬Ô½ÈË½Ô³ÏĞÄ¹é¸½¡£ÈÎÏùÎªÍ³Ò»´óÒµÁ¢ÏÂº¹Âí¹¦ÀÍ£¬Ê·Êé½«ËûÓëµ±Ê±ÔÚ±±·½·ÀÓùĞÙÅ«µÄÃÉÌñ²¢³Æ£º¡°ÇØ±±ÓĞÃÉÌñ£¬ÍşÔ€Ä®Í¥£¬ÄÏÓĞÈÎÏù£¬¶÷Ç¢ÑïÔ½£¬¶øÊ¼»ÊÄËµÃÒÔ×Ô°²¡£¡±
+[ä»»åš£å¸å–å± ç¢çš„æ•™è®­](https://mp.weixin.qq.com/s?__biz=MzU4NTA0NzMyOQ==&mid=2247504335&idx=1&sn=8bd6d31c6fa39059589db3f118a55ded)ï¼Œå¯¹è¶Šäººé‡‡å–å®½æ¾æ”¿ç­–ï¼Œâ€œæŠšç»¥æœ‰é“ï¼Œä¸æ•¢ä»¥ç§¦è™ç‹¼ä¹‹å¨ï¼Œå¤åŠ è’è£”â€ï¼Œä¸å†æ»¥æ€æ— è¾œï¼Œè€Œæ˜¯æ¥å—å—è¶Šä¹ ä¿—ï¼Œä¸è¶Šäººå’Œç¦ç›¸å¤„ã€‚ä»–ä»»èŒæ•°è½½ï¼Œè¶Šäººçš†è¯šå¿ƒå½’é™„ã€‚ä»»åš£ä¸ºç»Ÿä¸€å¤§ä¸šç«‹ä¸‹æ±—é©¬åŠŸåŠ³ï¼Œå²ä¹¦å°†ä»–ä¸å½“æ—¶åœ¨åŒ—æ–¹é˜²å¾¡åŒˆå¥´çš„è’™æ¬å¹¶ç§°ï¼šâ€œç§¦åŒ—æœ‰è’™æ¬ï¼Œå¨è©Ÿæ¼ åº­ï¼Œå—æœ‰ä»»åš£ï¼Œæ©æ´½æ‰¬è¶Šï¼Œè€Œå§‹çš‡ä¹ƒå¾—ä»¥è‡ªå®‰ã€‚â€
 
-[Ò¦¹ãĞ¢](https://mp.weixin.qq.com/s/FshRUfzq_0nZauinK-_v_Q)Ò»¾ä»°"ÏéÒ²¡£·ÉÁúÔÚÌì£¬´ÓÒÔ·çÓê¡£Íß¶é£¬½«Ò×»ÆÒ²¡£" ÎÈ¶¨¾¸ÄÑÊÄÊ¦Ç°ÒÉ»ó
-[èè»÷¡¢ºìÍè¡¢ÒÆ¹¬Èı°¸](https://mp.weixin.qq.com/s/7QGIZBc_UKan_01Xl7jPPw)Ê±Ö¹ÔòÖ¹£¬Ê±ĞĞÔòĞĞ£¬¶¯¾²²»Ê§ÆäÊ±£¬ÆäµÀ¹âÃ÷¡£
-[ÓîÎÄÌ©](https://mp.weixin.qq.com/s/sXStP3o01MjElzfO44xgOQ)
+[å§šå¹¿å­](https://mp.weixin.qq.com/s/FshRUfzq_0nZauinK-_v_Q)ä¸€å¥è¯"ç¥¥ä¹Ÿã€‚é£é¾™åœ¨å¤©ï¼Œä»ä»¥é£é›¨ã€‚ç“¦å •ï¼Œå°†æ˜“é»„ä¹Ÿã€‚" ç¨³å®šé–éš¾èª“å¸ˆå‰ç–‘æƒ‘
+[æ¢ƒå‡»ã€çº¢ä¸¸ã€ç§»å®«ä¸‰æ¡ˆ](https://mp.weixin.qq.com/s/7QGIZBc_UKan_01Xl7jPPw)æ—¶æ­¢åˆ™æ­¢ï¼Œæ—¶è¡Œåˆ™è¡Œï¼ŒåŠ¨é™ä¸å¤±å…¶æ—¶ï¼Œå…¶é“å…‰æ˜ã€‚
+[å®‡æ–‡æ³°](https://mp.weixin.qq.com/s/sXStP3o01MjElzfO44xgOQ)
 
-+ [ˆòÉ½ÌÃÍâ¼o](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
-+ [¹ÅÊ«Ê®¾ÅÊ×](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
-+ [ÍíÌÆÊ®´óÊ«ÈË](https://mp.weixin.qq.com/s/d9Uw_bjAZhIutSA__IMTAA)
-    - [³¤ÏàË¼£¬ÔÚ³¤°²](https://mp.weixin.qq.com/s/CsaPd7yRoky6yWMrySSjsw)
-    - [¶ÅÄÁ](https://mp.weixin.qq.com/s/7C_kgNf4KJY3ZRXsGtZ4RA)
-+ [ËÕéø×îÖÇ»ÛµÄ20Ê×Ê«´Ê](https://mp.weixin.qq.com/s/sAkqckFXhSMXCLRx-kdynA)
-    - [¾ÆÁ¦½¥Å¨´ºË¼µ´-ÁøÓÀ](https://mp.weixin.qq.com/s/OBZJD610g4S4IKxcHvyKtw)
-+ [Ê«¾­¼òÊ·](https://mp.weixin.qq.com/s/GBMJ4KabwcNtuanbVaMwIQ)
-+ [³ş´Ç](https://mp.weixin.qq.com/s/tc3Rlv0sF0IUOqyQZ7H0wg)
-+ [¹ÅÎÄÊ®Æª](https://mp.weixin.qq.com/s/rNLuL0DmyWDVi2bsxnH8Hw)
-+ [×ÊÖÎÍ¨¼øÃûÑÔ](https://mp.weixin.qq.com/s/LtL4xIv2KsttXNxIi_XVRA)
-+ [¾­¼ÃÑ§ÑÛ¾µÉßĞ§Ó¦](https://mp.weixin.qq.com/s/22k9niY-2WuJyEfkjIXRWw)
-+ [Äã´òÄãµÄ, ÎÒ´òÎÒµÄ](https://mp.weixin.qq.com/s/R3hsw2tixRUzg966u_xEAA)
-+ [¸ßÖĞÎïÀí](https://mp.weixin.qq.com/s/QoBtzuadTKWk9Y-zHyH9Kg)
-+ [Ñ§ÕßÑ§ÎÊ](https://mp.weixin.qq.com/s/wMVqFedwKE_KmFN_CDGH4w)
-+ [¾­¼ÃÔö³¤Óë·¢Õ¹](https://mp.weixin.qq.com/s/BdWzVB0ZXtSTR42Xxoc5eQ)
-+ [ÕæÕıÄÜ¿¸ÊÂµÄÈËÊ²Ã´Ñù](https://mp.weixin.qq.com/s/nHS3Z5PCjYFG9X2E4_cbxQ)
-+ [ÇÇÄ·Ë¹»ùÕÜÑ§Ö÷ÕÅ](https://mp.weixin.qq.com/s/BArw5pOy5Wu0HMuY9nMyig)
-+ [ÖĞ¹ú¸ïÃüµÄ°ËÖÖÊ·Ñ§ÃûÖø](https://mp.weixin.qq.com/s/z-GHSqGcnEpwWwPRfuoBYw)
-+ [µ±´úÊ·Ñ§¼ÒÎÄÕÂ](https://mp.weixin.qq.com/s/TEuphpArkvLkuqWLkOYIUA)
++ [å ¯å±±å ‚å¤–ç´€](https://zh.wikisource.org/wiki/%E5%A0%AF%E5%B1%B1%E5%A0%82%E5%A4%96%E7%B4%80/%E5%8D%B7010#%E5%8F%B8%E9%A9%AC%E6%87%BF)
++ [å¤è¯—åä¹é¦–](https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E5%8D%81%E4%B9%9D%E9%A6%96)
++ [æ™šå”åå¤§è¯—äºº](https://mp.weixin.qq.com/s/d9Uw_bjAZhIutSA__IMTAA)
+    - [é•¿ç›¸æ€ï¼Œåœ¨é•¿å®‰](https://mp.weixin.qq.com/s/CsaPd7yRoky6yWMrySSjsw)
+    - [æœç‰§](https://mp.weixin.qq.com/s/7C_kgNf4KJY3ZRXsGtZ4RA)
++ [è‹è½¼æœ€æ™ºæ…§çš„20é¦–è¯—è¯](https://mp.weixin.qq.com/s/sAkqckFXhSMXCLRx-kdynA)
+    - [é…’åŠ›æ¸æµ“æ˜¥æ€è¡-æŸ³æ°¸](https://mp.weixin.qq.com/s/OBZJD610g4S4IKxcHvyKtw)
++ [è¯—ç»ç®€å²](https://mp.weixin.qq.com/s/GBMJ4KabwcNtuanbVaMwIQ)
++ [æ¥šè¾](https://mp.weixin.qq.com/s/tc3Rlv0sF0IUOqyQZ7H0wg)
++ [å¤æ–‡åç¯‡](https://mp.weixin.qq.com/s/rNLuL0DmyWDVi2bsxnH8Hw)
++ [èµ„æ²»é€šé‰´åè¨€](https://mp.weixin.qq.com/s/LtL4xIv2KsttXNxIi_XVRA)
++ [ç»æµå­¦çœ¼é•œè›‡æ•ˆåº”](https://mp.weixin.qq.com/s/22k9niY-2WuJyEfkjIXRWw)
++ [ä½ æ‰“ä½ çš„, æˆ‘æ‰“æˆ‘çš„](https://mp.weixin.qq.com/s/R3hsw2tixRUzg966u_xEAA)
++ [é«˜ä¸­ç‰©ç†](https://mp.weixin.qq.com/s/QoBtzuadTKWk9Y-zHyH9Kg)
++ [å­¦è€…å­¦é—®](https://mp.weixin.qq.com/s/wMVqFedwKE_KmFN_CDGH4w)
++ [ç»æµå¢é•¿ä¸å‘å±•](https://mp.weixin.qq.com/s/BdWzVB0ZXtSTR42Xxoc5eQ)
++ [çœŸæ­£èƒ½æ‰›äº‹çš„äººä»€ä¹ˆæ ·](https://mp.weixin.qq.com/s/nHS3Z5PCjYFG9X2E4_cbxQ)
++ [ä¹”å§†æ–¯åŸºå“²å­¦ä¸»å¼ ](https://mp.weixin.qq.com/s/BArw5pOy5Wu0HMuY9nMyig)
++ [ä¸­å›½é©å‘½çš„å…«ç§å²å­¦åè‘—](https://mp.weixin.qq.com/s/z-GHSqGcnEpwWwPRfuoBYw)
++ [å½“ä»£å²å­¦å®¶æ–‡ç« ](https://mp.weixin.qq.com/s/TEuphpArkvLkuqWLkOYIUA)
