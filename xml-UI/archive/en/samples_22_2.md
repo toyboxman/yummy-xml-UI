@@ -237,3 +237,80 @@ A **stuffed-animal** version of Bing Dwen Dwen, the panda **Olympic mascot, dres
 
 本届奥运会吉祥物熊猫“冰墩墩”的毛绒玩具版，它穿着类似宇航服的冰外套，周身环绕着一个金色织物花环，上面缝制着松竹梅的图案。不管运动员赢得的是金牌、银牌，还是铜牌，他们得到的都是同样的纪念品，与商店里卖给粉丝们的没有多大不同
 
+There’s a lavender one with a deep V lined with shining butterflies and flowers, for a performance to “Butterfly Lovers Concerto.” Another, purple with a splash of white and fuchsia flowers that flows daintily across the bodice. A black one with a moody deep V design of dazzling blues on the front and a matching deep scoop on the back.
+她有一件深V领的薰衣草紫色考斯滕，镶有闪亮的蝴蝶和花朵，搭配的曲目是《梁祝小提琴协奏曲》。另一件的底色是紫色，白色和紫红色的花朵优雅地点缀在身上。还有一件是黑色的，正面的深V设计让人感到情绪的多变，镶着闪亮的蓝色宝石，露背部分的设计与之相呼应
+
+The dress, the hair, the makeup, the music selection and the story behind it, it’s all about the packaging and that’s a big thing, The dress needs to show off the body line in a way that’s most appealing to show things like posture and stretch of the limbs. All those things are evaluated in the program component marks.
+考斯滕、发型、妆容、选曲以及背后的故事，都和整体包装有关，这很重要。考斯滕需要以一种最吸引人的方式来展示身体线条，比如展示姿势和肢体伸展。所有这些都是要在节目组成分里评估的
+
+The White House has said that President Vladimir V. Putin of Russia could decide this week whether to invade, deflating Moscow’s careful murkiness, while also demonstrating, especially to cautious Europeans, that any invasion would be driven by Russia, rather than in response to some outside provocation. This dynamic is very volatile, Would a Russian invasion bring Moscow more reward than downside?
+白宫表示，俄罗斯总统普京可能在本周决定是否入侵，这挑破了莫斯科谨慎的模糊态度，同时也表明（特别是向谨慎的欧洲人），任何入侵都将由俄罗斯推动，而不是为了回应外界的挑衅。形势非常不稳定。俄罗斯入侵对莫斯科会是利大于弊吗？
+
+Of course, if war were really so advantageous, it could have already begun, one of many hints that Mr. Putin may be partly bluffing, although by how much is impossible to say.
+当然，如果真有优势，可能已经开战了，这也在一定程度上表明普京在虚张声势，尽管夸大到什么程度不好说
+
+It’s a game of skill, not a game of chance, So if you can’t provide consistent conditions, then you start to negate the skill level, and it becomes more of a game of chance — and it’s our job to make sure that’s not the case.
+这是比拼技巧的游戏，而不是看运气，因此，如果不能提供稳定条件，那就会抵消技巧的作用，比赛就更像在碰运气——而我们的工作就是确保这种情况不能发生
+
+It’s the pinnacle of everything, and as an ice maker, it’s the same thing, You’ve got to be on your toes all the time. If any little thing happens, you have to fix it. You have to make it the best possible because people tried for 20 years to get to this event.
+这是所有赛事的巅峰，对于制冰商来说也一样，你必须时刻保持警惕。若是出了什么小问题，都必须解决。你必须尽可能做到最好，因为那些人为了参与这项赛事付出了20年的努力
+
+The lopsided victory in a recall election on Tuesday that ousted three members of the San Francisco school board shook the city’s liberal establishment and was a resounding alarm of parental anger over the way the public school system handled the coronavirus pandemic.
+周二，通过一场一边倒的罢免选举，旧金山学区教育委员会的三名成员被驱逐，震动了该市的自由主义建制派，以轰动的方式表达了家长们对公立学校系统应对新冠疫情方式的愤怒
+
+Most Chinese residents in the city are registered as independents and, as Tuesday’s election appeared to show, they are not afraid to buck some of the more liberal elements of the Democratic Party. They are absolutely up for grabs.
+旧金山大多数华裔居民都登记为独立人士，正如周二的选举结果表明的那样，他们并不害怕与民主党内一些更具自由派倾向的成员抗衡。他们绝对是有待争取的群体
+
+Chinese voters were also upset by tweets by Alison Collins, one of the recalled school board members, that were unearthed during the campaign. Ms. Collins said Asian Americans used “white supremacist thinking to assimilate and ‘get ahead.’”
+被罢免的学校董事会成员之一艾莉森·柯林斯在竞选期间发布的推文也让华裔选民不满。柯林斯说，亚裔美国人用“白人至上主义的思维来搞同化和‘出人头地’”。
+
+During the campaign, organizers used WeChat, the Chinese-language messaging app, to offer everything from detailed instructions on how to fill out a ballot to organizing the deployment of volunteers in Chinatown, where lion dances and drumming exhorted residents to vote.
+在活动期间，组织者利用微信这一中文聊天应用提供了各种服务，从如何填写选票的详细说明，到组织在华埠部署志愿者的各种服务。他们在华埠发起舞狮和击鼓活动，鼓励居民投票。
+
+We had very visible examples of incompetence, bad governance and malfeasance. Most people could objectively observe the decisions that were happening last year and think, ‘This is really messed up.’
+我们有非常明显的无能、治理不善和渎职的例子。大多数人可以客观地观察去年发生的决策，然后想，‘这可太差劲了。’
+
+Valieva, who just 11 days ago was deemed unbeatable because of her difficult jumps, textbook technique and prima ballerina’s artistry, was fourth. I was feeling a lot of pleasure because I happened to be in the right time and the right place and did the right things
+仅在11天前，瓦列耶娃因其高难度跳跃、教科书级别的技术和媲美首席芭蕾舞演员的艺术性被认为无可匹敌，但最终仅排名第四. 我感到非常高兴，因为我碰巧在对的时间和对的地点做了对的事情
+
+An air of awkwardness loomed over the victory ceremony on Thursday night, as Shcherbakova, 17, sprung onto the top step of the podium to accept her stuffed mascot panda, a fuzzy reminder of her win until she receives her gold medal on Friday.
+周四晚上的颁花仪式上笼罩着一股尴尬的气氛，17岁的谢尔巴科娃跳上领奖台，接受她的毛绒吉祥物“冰墩墩”，她将在周五领取金牌，在此之前，冰墩墩将一直作为她胜利的证物
+
+To make an Olympic ski jump, China clad a hillside in steel and blanketed it with artificial snow. To construct a high-speed rail line linking the venues and Beijing, engineers blasted tunnels through the surrounding mountains.
+为了建造奥运滑雪跳台，中国在山坡上覆盖钢铁，在上面铺人工雪。为了修建一条连接场馆和北京的高速铁路，工程师在周围的山上炸开隧道
+
+More and more of them have concluded that the Games are not worth being left with a hefty bill, white elephant stadiums and fewer benefits from tourism than they had hoped. China’s concerns about the pandemic have dashed hopes that the Games would draw tourists.
+越来越多的城市已经得出结论，奥运会后留下的巨额账单、大而无用的场馆、低于期望值的旅游收益是不值得的。中国对新冠疫情的担忧使奥运会吸引游客的希望破灭
+
+Gustatory pleasure could be attained, it turned out, with an open mind, an enterprising spirit and tempered expectations. In Beijing, the robot-made dishes were precisely cooked — broccoli always crisp, wonton skins always bouncy — but mostly uninspiring.
+事实证明，只要以开放的心态、进取的精神和适度的期望，就能获得味觉的愉悦。在北京，机器人做的菜做得非常精确——西蓝花总是很脆，馄饨皮总是很Q弹——但大多数都没有什么新意。
+
+Hong Kong’s methods are nondescript, half-baked and full of loopholes, which led to this outbreak. We lack enough organization, mobilization and control capabilities, and we also lack a strong government. the Hong Kong government still has some insufficiently loyal or two-faced officials.
+香港的做法不伦不类、半桶水、漏洞百出，酿成这次大暴发。主要是缺乏足够的组织、动员及控制能力，也缺乏一个強势政府，港府中仍存在一些不够忠诚的官员和两面派。
+
+The motivation behind this phenomenon, as Zhou noted, is fairly simple. Official phonetic transliterations of international names into Chinese — a language whose written characters convey sounds but also distinct concepts and things — can be long, unwieldy and in producing strings of unrelated characters, basically nonsensical.
+正如周煜瑶所说，这种现象背后的动机相当简单。中文里的汉字传达声音的同时也表达不同的概念和事物，官方音译的外国名字可能很长，不方便，而且会出现一连串不相关、基本没有意义的汉字
+
+Take “Guai Ling” (拐凌): Here, fans created a phonetic smoothing of the first two syllables of Gu’s Chinese name, Gu Ailing, to make a well-meaning joke about the fact that the she speaks Chinese with a Beijing accent. (The accent is often the subject of gentle ribbing in China for its contractions and jammed-up syllables.)
+以“拐凌”为例：这一次，粉丝们把谷爱凌的中文名字的前两个音节快速连读，善意地调侃她的中文带有北京口音。（在中国，北京口音里音节的省略和混合常常成为笑话的素材。）
+
+Keenly aware that skiing has been dominated by athletes from richer, colder countries, the International Olympic Committee and skiing’s world governing body have tried to make the sport more inclusive through a quota system that lowers the threshold of qualification.
+国际奥林匹克委会和滑雪运动的世界管理机构深知，滑雪运动一直被来自更富裕、气候更寒冷国家的运动员主导。这两个国际组织试图通过一个降低参赛门槛的配额制度，来让这项运动更具包容性
+
+In a country with a shortage of qualified instructors, injuries are inevitable. More than 80 percent of China’s 13 million skiers are beginners. Many novices wear stuffed animals strapped around their bottoms — mostly turtles, but other cartoonish creatures, too. These help to cushion falls and to alert others on the mountain to keep their distance.
+在一个缺少合格教练的国家，受伤往往不可避免。中国1300万滑雪者中，80%以上是初学者。许多新手将毛绒动物玩具——大多是乌龟，但也有其他卡通动物——绑在屁股上，以便摔倒时起缓冲作用，同时提醒山上的其他人保持距离
+
+With their spectacle of extreme athletics held against a backdrop of climate emergency, public health disaster, political brinkmanship and rampant corruption, the Games reek of societal decline. When anxiety and misery are all around us, and many of us have lost our faith in institutions’ ability or will to solve these problems, state- and corporate-sponsored inspiration doesn’t land the way it used to.
+在气候紧急状况、公共卫生灾难、政治边缘政策和腐败猖獗背景下，壮观的极限竞技奥运场面使得这届奥运会散发出社会衰退的气息。当焦虑和痛苦无处不在，我们中的许多人对制度解决这些问题的能力或意愿失去了信心时，由国家和企业倡议的激励方式就不像过去那样奏效了
+
+All this is also inspiration — but a new kind, befitting this strange moment. It’s not the familiar underdog success story, which flips every loss into a story of ultimate gain, or turns every setback into a narrative of empowerment and success.
+所有这些都是一种激励——但是一种新的激励，与这个奇怪的时刻相称。这不是我们熟悉的那种后来者居上、将每一次失败化作最终胜利，将每一次挫折变为赋权与成功的故事
+
+I like watching the athletes too much to skip the Olympics. Ice dancing is gorgeous, ski jumpers are wild. And I will happily take a few minutes out of an evening over the next few weeks to watch the curlers furiously sweep a slab of stone down a narrow lane of ice.
+我太喜欢看这些运动员们了，以至于无法放弃奥运会。冰舞很华美，跳台滑雪很狂野。在接下来的几个星期里，我很乐意抽出晚上的几分钟，观看冰壶选手在狭窄的冰道上为一块石头疯狂地刷地
+
+There was a time when people felt it was awesome to be American, But as politics between the two countries have spiraled down the rabbit hole, Chinese feel that they should not — or cannot — admire a country that point fingers at them all the time.
+曾经有一段时间，人们觉得身为美国人很了不起，但是随着两国之间的政治掉进了无底洞，中国人觉得他们不应该——或者不能——赞美一个一直指责他们的国家
+
+“Can you imagine, I had left the country 18 years before and here they were cheering me on,” recalled Mr. Zhuang. “I couldn’t play after that, I was so emotional. When I look at the relationship today, and the politics and the competition between the two countries, it kind of hurts,” Mr. Zhuang said. “What a pity.”
+“你能想像吗，我18年前离开这个国家，他们却在这里为我加油，”庄永祥回忆说。“然后我简直不能打球了，我太激动了。看看今天的两国关系，以及两国之间的政治和竞争时，有点让人伤心，”庄永祥说。“真让人遗憾。”
