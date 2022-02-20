@@ -1,59 +1,59 @@
 ### Spark
-[***Apache Spark***](https://en.wikipedia.org/wiki/Apache_Spark)ÊÇÍ¨ÓÃ·Ö²¼Ê½¼¯Èº¼ÆËã¿ò¼Ü£¬Ìá¹©Ò»¸öÒşº¬Êı¾İ²¢ĞĞºÍÈİ´íµÄ½Ó¿Ú£¬À´¶ÔÕû¸ö¼¯Èº±à³Ì¡£Spark¼Ü¹¹»ùÓÚresilient distributed dataset (RDD), Ò»ÖÖÖ»¶ÁµÄ·Ö²¼ÔÚ¶à¸ö¼¯Èº»úÆ÷ÉÏµÄÊı¾İ¶àÖØ¼¯ºÏ£¬ÕâĞ©¼¯ºÏÍ¨¹ıfault-tolerant»úÖÆÎ¬»¤¡£Dataframe APIÊÇRDD²ãÖ®ÉÏµÄ³éÏó½Ó¿Ú, Dataset API×ñ´ÓÕâĞ©½Ó¿Ú¡£Spark 1.x°æ±¾ÖĞRDDÊÇÖ÷ÒªµÄ±à³Ì½Ó¿Ú, µ«Spark 2.xÖ®ºóÍÆ¼öÊ¹ÓÃDataset API£¬µ«RDD¼¼ÊõÈÔ¾ÉÊÇÆäµ×²ãÒÀÀµ¡£
+[***Apache Spark***](https://en.wikipedia.org/wiki/Apache_Spark)æ˜¯é€šç”¨åˆ†å¸ƒå¼é›†ç¾¤è®¡ç®—æ¡†æ¶ï¼Œæä¾›ä¸€ä¸ªéšå«æ•°æ®å¹¶è¡Œå’Œå®¹é”™çš„æ¥å£ï¼Œæ¥å¯¹æ•´ä¸ªé›†ç¾¤ç¼–ç¨‹ã€‚Sparkæ¶æ„åŸºäºresilient distributed dataset (RDD), ä¸€ç§åªè¯»çš„åˆ†å¸ƒåœ¨å¤šä¸ªé›†ç¾¤æœºå™¨ä¸Šçš„æ•°æ®å¤šé‡é›†åˆï¼Œè¿™äº›é›†åˆé€šè¿‡fault-tolerantæœºåˆ¶ç»´æŠ¤ã€‚Dataframe APIæ˜¯RDDå±‚ä¹‹ä¸Šçš„æŠ½è±¡æ¥å£, Dataset APIéµä»è¿™äº›æ¥å£ã€‚Spark 1.xç‰ˆæœ¬ä¸­RDDæ˜¯ä¸»è¦çš„ç¼–ç¨‹æ¥å£, ä½†Spark 2.xä¹‹åæ¨èä½¿ç”¨Dataset APIï¼Œä½†RDDæŠ€æœ¯ä»æ—§æ˜¯å…¶åº•å±‚ä¾èµ–ã€‚
 
-#### ¼Ü¹¹
+#### æ¶æ„
 ![Image of Stack](https://d1.awsstatic.com/Data%20Lake/what-is-apache-spark.b3a3099296936df595d9a7d3610f1a77ff0749df.PNG)
 
-SPARKºËĞÄ·Ö³ÉËÄ´ó¿é¹¦ÄÜ£¬·Ö±ğ¶ÔÓ¦»úÆ÷Ñ§Ï°£¬ÊµÊ±·ÖÎö£¬·Ç½á¹¹»¯Êı¾İ²éÑ¯ºÍÍ¼´¦Àí¡£
-+ Spark core ¨C Foundation for data processing
-+ Spark SQL ¨C Based on Shark and helps in data extracting, loading and transformation
-+ Spark streaming ¨C Light API helps in batch processing and streaming of data
-+ Machine learning library ¨C Helps in machine learning algorithm implementation.
-+ Graph Analytics(GraphX) ¨C Helps in representing Resilient Distributed Graph
+SPARKæ ¸å¿ƒåˆ†æˆå››å¤§å—åŠŸèƒ½ï¼Œåˆ†åˆ«å¯¹åº”æœºå™¨å­¦ä¹ ï¼Œå®æ—¶åˆ†æï¼Œéç»“æ„åŒ–æ•°æ®æŸ¥è¯¢å’Œå›¾å¤„ç†ã€‚
++ Spark core â€“ Foundation for data processing
++ Spark SQL â€“ Based on Shark and helps in data extracting, loading and transformation
++ Spark streaming â€“ Light API helps in batch processing and streaming of data
++ Machine learning library â€“ Helps in machine learning algorithm implementation.
++ Graph Analytics(GraphX) â€“ Helps in representing Resilient Distributed Graph
 + Spark Cassandra Connector
 + Spark R integration
 
 ![Image of Stack1](https://i2.wp.com/www.jenunderwood.com/wp-content/uploads/2016/10/SparkArchitecture-Databrickss.gif?ssl=1)
 
-SPARK¼¯Èº¿ÉÒÔ¶Ô½Ó¸÷ÖÖÊı¾İÔ´£¬Èç´«Í³Êı¾İ¿â£¬·Ç½á¹¹»¯ÎÄ±¾Êı¾İ£¬ÏûÏ¢¶ÓÁĞµÈ¡£¼¯Èº¿ÉÒÔÍ¨¹ıÔÆ£¬ÈİÆ÷±àÅÅÏµÍ³£¬Hadoop¼¯ÈºÀ´µ÷¶È¡£Spark´¦ÀíÒıÇæÓëHadoop dataÏàÊÊÅä£¬ÄÜ´¦Àídata in HDFS, HBase, Cassandra, Hive, and any Hadoop InputFormat. ´¦ÀíÒıÇæ¿ÉÒÔ×öbatch processing (similar to MapReduce)ºÍstreaming, interactive queries, and machine learning. 
+SPARKé›†ç¾¤å¯ä»¥å¯¹æ¥å„ç§æ•°æ®æºï¼Œå¦‚ä¼ ç»Ÿæ•°æ®åº“ï¼Œéç»“æ„åŒ–æ–‡æœ¬æ•°æ®ï¼Œæ¶ˆæ¯é˜Ÿåˆ—ç­‰ã€‚é›†ç¾¤å¯ä»¥é€šè¿‡äº‘ï¼Œå®¹å™¨ç¼–æ’ç³»ç»Ÿï¼ŒHadoopé›†ç¾¤æ¥è°ƒåº¦ã€‚Sparkå¤„ç†å¼•æ“ä¸Hadoop dataç›¸é€‚é…ï¼Œèƒ½å¤„ç†data in HDFS, HBase, Cassandra, Hive, and any Hadoop InputFormat. å¤„ç†å¼•æ“å¯ä»¥åšbatch processing (similar to MapReduce)å’Œstreaming, interactive queries, and machine learning. 
 
-Ïà±ÈSpark¼Ü¹¹£¬Hadoop×÷Îª´óÊı¾İ´¦Àí¼Ü¹¹×î´ó²»×ãÊÇMapReduce Ö»ÊÇÒ»¸önative batch processing engine£¬¶øÇÒHadoop´¦ÀíËÙ¶ÈÃ»ÓĞSpark¿ì¡£³ı´ËÖ®Íâ£¬Èç½ñ´óÊı¾İ´¦ÀíÒªÇó¼æ¾ßbatch processingºÍreal-time processing. ¶øHadoop¡¯s MapReduce½öÄÜ´¦Àíbatch data£¬²¢ÇÒÎŞ·¨Âú×ã´óÊı¾İ´¦Àílow latencyÒªÇó. 
+ç›¸æ¯”Sparkæ¶æ„ï¼ŒHadoopä½œä¸ºå¤§æ•°æ®å¤„ç†æ¶æ„æœ€å¤§ä¸è¶³æ˜¯MapReduce åªæ˜¯ä¸€ä¸ªnative batch processing engineï¼Œè€Œä¸”Hadoopå¤„ç†é€Ÿåº¦æ²¡æœ‰Sparkå¿«ã€‚é™¤æ­¤ä¹‹å¤–ï¼Œå¦‚ä»Šå¤§æ•°æ®å¤„ç†è¦æ±‚å…¼å…·batch processingå’Œreal-time processing. è€ŒHadoopâ€™s MapReduceä»…èƒ½å¤„ç†batch dataï¼Œå¹¶ä¸”æ— æ³•æ»¡è¶³å¤§æ•°æ®å¤„ç†low latencyè¦æ±‚. 
 
-Òò¶ø£¬½«SparkÅÜÔÚHadoopÖ®ÉÏ£¬ÀûÓÃhybrid frameworkºÍresilient distributed dataset (RDD), µ±ÔËĞĞSparkÊ±ºòÊı¾İÄÜ´æ´¢ÓÚÄÚ´æÖĞÀ´¼ÓËÙ´¦Àí. Ã»ÓĞSparkµÄÄÜÁ¦£¬HadoopÎŞ·¨Íê³ÉReal-time and faster data processing. Ã»ÓĞHadoopµÄÄÜÁ¦£¬SparkÒ²ÎŞ·¨Ê¹ÓÃÆä·Ö²¼Ê½ÎÄ¼şÏµÍ³À´±£´æmulti-petabytesµÄdata. Spark±¾ÉíÊÇÒ»¸öcluster computing system¶ø²»ÊÇdata storage system£¬Òò´ËËüĞèÒªÍ¨¹ıÍâ²¿Êı¾İÔ´À´¶ÁĞ´data. Èç¹û²»ĞèÒªÊ¹ÓÃHDFSÉÏÎÄ¼ş£¬Êı¾İÔ´¿ÉÒÔÊÇlocal file system£¬Ò²¿ÉÒÔÊÇno SQL database like Apache Cassandra or HBase or Amazon¡¯s S3. ÕâÖÖ³¡¾°ÏÂÔËĞĞSpark without Hadoop.
+å› è€Œï¼Œå°†Sparkè·‘åœ¨Hadoopä¹‹ä¸Šï¼Œåˆ©ç”¨hybrid frameworkå’Œresilient distributed dataset (RDD), å½“è¿è¡ŒSparkæ—¶å€™æ•°æ®èƒ½å­˜å‚¨äºå†…å­˜ä¸­æ¥åŠ é€Ÿå¤„ç†. æ²¡æœ‰Sparkçš„èƒ½åŠ›ï¼ŒHadoopæ— æ³•å®ŒæˆReal-time and faster data processing. æ²¡æœ‰Hadoopçš„èƒ½åŠ›ï¼ŒSparkä¹Ÿæ— æ³•ä½¿ç”¨å…¶åˆ†å¸ƒå¼æ–‡ä»¶ç³»ç»Ÿæ¥ä¿å­˜multi-petabytesçš„data. Sparkæœ¬èº«æ˜¯ä¸€ä¸ªcluster computing systemè€Œä¸æ˜¯data storage systemï¼Œå› æ­¤å®ƒéœ€è¦é€šè¿‡å¤–éƒ¨æ•°æ®æºæ¥è¯»å†™data. å¦‚æœä¸éœ€è¦ä½¿ç”¨HDFSä¸Šæ–‡ä»¶ï¼Œæ•°æ®æºå¯ä»¥æ˜¯local file systemï¼Œä¹Ÿå¯ä»¥æ˜¯no SQL database like Apache Cassandra or HBase or Amazonâ€™s S3. è¿™ç§åœºæ™¯ä¸‹è¿è¡ŒSpark without Hadoop.
 
-#### ²¿Êğ
+#### éƒ¨ç½²
 ![Image of Deploy](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97bc4145-21de-47f4-b1ef-12bd4635c47a.png)
 
-SPARK¼¯ÈºÖ÷Òª°üÀ¨master½ÚµãºÍºÜ¶àworker½Úµã¡£
+SPARKé›†ç¾¤ä¸»è¦åŒ…æ‹¬masterèŠ‚ç‚¹å’Œå¾ˆå¤šworkerèŠ‚ç‚¹ã€‚
 
-ÈıÖÖ·½Ê½À´²¿ÊğÔËĞĞSpark in Hadoop cluster: Standalone, Over YARN, In MapReduce (SIMR)
+ä¸‰ç§æ–¹å¼æ¥éƒ¨ç½²è¿è¡ŒSpark in Hadoop cluster: Standalone, Over YARN, In MapReduce (SIMR)
 
 + Standalone Deployment
 
-¼«¼ò·½Ê½£¬resources¾²Ì¬·ÖÅäµ½Hadoop clusterËùÓĞnodes»òÕßsubsets of nodes. ²¢ĞĞÔËĞĞSparkÓëMapReduce£¬Spark¹ÜÀí×Ô¼ºcluster. ÕâÊÇHadoop 1.xÍÆ¼ö²¿Êğ·½Ê½
+æç®€æ–¹å¼ï¼Œresourcesé™æ€åˆ†é…åˆ°Hadoop clusteræ‰€æœ‰nodesæˆ–è€…subsets of nodes. å¹¶è¡Œè¿è¡ŒSparkä¸MapReduceï¼ŒSparkç®¡ç†è‡ªå·±cluster. è¿™æ˜¯Hadoop 1.xæ¨èéƒ¨ç½²æ–¹å¼
 
 + Over YARN Deployment
 
-ÕâÊÇHadoop and Spark¼¯³ÉµÄ¼òµ¥·½·¨£¬²»ĞèÒªpre-installation»òadminÅäÖÃ. YARNÊÇÎ¨Ò»°²È«µÄcluster manager£¬ÔÚ´óHadoop cluster²úÆ·»·¾³ÏÂÊÇ¸öºÃµÄ²¿ÊğÑ¡Ôñ
+è¿™æ˜¯Hadoop and Sparké›†æˆçš„ç®€å•æ–¹æ³•ï¼Œä¸éœ€è¦pre-installationæˆ–adminé…ç½®. YARNæ˜¯å”¯ä¸€å®‰å…¨çš„cluster managerï¼Œåœ¨å¤§Hadoop clusteräº§å“ç¯å¢ƒä¸‹æ˜¯ä¸ªå¥½çš„éƒ¨ç½²é€‰æ‹©
 
 + Spark In MapReduce (SIMR)
 
-ÕâÖÖ·½Ê½ÏÂ²»ĞèÒªYARN£¬Spark jobs¿ÉÒÔÔÚMapReduceÖĞ·¢Æğ.
+è¿™ç§æ–¹å¼ä¸‹ä¸éœ€è¦YARNï¼ŒSpark jobså¯ä»¥åœ¨MapReduceä¸­å‘èµ·.
 
-#### ÔËĞĞ
+#### è¿è¡Œ
 ![Image of Run1](https://sigmoid.com/wp-content/uploads/2015/03/Apache_Spark1.png)
 
 ![Image of Run3](https://sdtimes.com/wp-content/uploads/2018/03/image7.png)
 
-Amazon Elastic MapReduce (EMR)ÊÇAmazon Web Services (AWS)´óÊı¾İ´¦Àí¹¤¾ß, »ùÓÚApache Hadoop¼¼ÊõÖ®ÉÏ
+Amazon Elastic MapReduce (EMR)æ˜¯Amazon Web Services (AWS)å¤§æ•°æ®å¤„ç†å·¥å…·, åŸºäºApache HadoopæŠ€æœ¯ä¹‹ä¸Š
 ![Image of Run4](https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram_Amazon-Kinesis-Data-Streams.074de94302fd60948e1ad070e425eeda73d350e7.png)
 
-#### Ê¹ÓÃ
+#### ä½¿ç”¨
 - **setup Spark**
 
-ÏÂÔØ[Spark](http://spark.apache.org/downloads.html)£¬½âÑ¹µ½Éè¶¨Ä¿Â¼¡£Èç¹û°²×°Pseudo Distributed/Single Node Cluster,¿ÉÒÔ²Î¿¼[help](http://why-not-learn-something.blogspot.com/2015/06/spark-installation-pseudo.html).
+ä¸‹è½½[Spark](http://spark.apache.org/downloads.html)ï¼Œè§£å‹åˆ°è®¾å®šç›®å½•ã€‚å¦‚æœå®‰è£…Pseudo Distributed/Single Node Cluster,å¯ä»¥å‚è€ƒ[help](http://why-not-learn-something.blogspot.com/2015/06/spark-installation-pseudo.html).
 
-²Î¿¼ÈçÏÂÅäÖÃÏî [$SPARK_HOME/conf/spark-default.conf](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-SparkConf.html)
+å‚è€ƒå¦‚ä¸‹é…ç½®é¡¹ [$SPARK_HOME/conf/spark-default.conf](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-SparkConf.html)
 
 + [spark.master](https://spark.apache.org/docs/latest/submitting-applications.html#master-urls)
 + [Spark Configuration](http://spark.apache.org/docs/latest/configuration.html)
@@ -98,38 +98,38 @@ cp /apache/hive/conf/hive-site.xml /apache/spark/conf/
 
 - **Spark shell**
 
-Ê¹ÓÃÃüÁîÖ®Ç°ĞèÒªÈ·ÈÏ[Scala](https://downloads.lightbend.com/scala/2.12.8/scala-2.12.8.tgz)ÒÑ¾­ÔÚ±¾µØ°²×°ºÃ£¬¹ÙÍø[link](https://www.scala-lang.org/)¡£
+ä½¿ç”¨å‘½ä»¤ä¹‹å‰éœ€è¦ç¡®è®¤[Scala](https://downloads.lightbend.com/scala/2.12.8/scala-2.12.8.tgz)å·²ç»åœ¨æœ¬åœ°å®‰è£…å¥½ï¼Œå®˜ç½‘[link](https://www.scala-lang.org/)ã€‚
 
-µ¼³öÂ·¾¶µ½ .bashrc
+å¯¼å‡ºè·¯å¾„åˆ° .bashrc
 ```console
 export SPARK_HOME=/apache/spark
 export SCALA_HOME=/apache/scala
 
 export PATH=$PATH:$SPARK_HOME/bin:$SCALA_HOME/bin
 ```
-½øÈëspark shell½»»¥½çÃæ¡£
+è¿›å…¥spark shelläº¤äº’ç•Œé¢ã€‚
 ```console
 $ spark-shell
 scala> :help
 scala> :quit
 
-# Èç¹ûÏ£Íû²»ÓÃÒ»ĞĞĞĞÔÚshellÖĞÇÃÃüÁî£¬Ò²¿ÉÒÔ°ÑÃüÁîĞ´ÈëÒ»¸öÎÄ¼şÆô¶¯shellÊ±preload
-# shell»á°´ÕÕÖğĞĞ½âÊÍ·½Ê½À´´¦ÀíÎÄ¼ş
+# å¦‚æœå¸Œæœ›ä¸ç”¨ä¸€è¡Œè¡Œåœ¨shellä¸­æ•²å‘½ä»¤ï¼Œä¹Ÿå¯ä»¥æŠŠå‘½ä»¤å†™å…¥ä¸€ä¸ªæ–‡ä»¶å¯åŠ¨shellæ—¶preload
+# shellä¼šæŒ‰ç…§é€è¡Œè§£é‡Šæ–¹å¼æ¥å¤„ç†æ–‡ä»¶
 $ spark-shell -I <FilePath>
 ```
 Create an RDD through Parallelized Collection, more refer to [commands](https://data-flair.training/blogs/scala-spark-shell-commands/)
 
-±¾µØÊ¹ÓÃspark-shellÊ±ºòĞèÒªÏÈ°ÑHadoopºÍYarnµÄ·şÎñÆô¶¯£¬[²Î¿¼Ê¹ÓÃ](https://github.com/apache/griffin/blob/master/griffin-doc/deploy/deploy-guide.md#hadoop)
+æœ¬åœ°ä½¿ç”¨spark-shellæ—¶å€™éœ€è¦å…ˆæŠŠHadoopå’ŒYarnçš„æœåŠ¡å¯åŠ¨ï¼Œ[å‚è€ƒä½¿ç”¨](https://github.com/apache/griffin/blob/master/griffin-doc/deploy/deploy-guide.md#hadoop)
 ```console
-// Ä¬ÈÏÒ»¸öjvmÖĞ¾ÍÓĞÒ»¸öcontextÔËĞĞ£¬¿ÉÒÔÖ±½ÓÊ¹ÓÃ
+// é»˜è®¤ä¸€ä¸ªjvmä¸­å°±æœ‰ä¸€ä¸ªcontextè¿è¡Œï¼Œå¯ä»¥ç›´æ¥ä½¿ç”¨
 scala> sc
 res0: org.apache.spark.SparkContext = org.apache.spark.SparkContext@4b3b2a4f
 
-// Èç¹ûÏ£Íû´´½¨Ò»¸öĞÂµÄcontext£¬ÔòÖ´ĞĞÏÂÃæÖ¸Áî
+// å¦‚æœå¸Œæœ›åˆ›å»ºä¸€ä¸ªæ–°çš„contextï¼Œåˆ™æ‰§è¡Œä¸‹é¢æŒ‡ä»¤
 scala> import org.apache.spark.{SparkConf,SparkContext}
 // Create conf object
 scala> val conf = new SparkConf().setAppName("Count")
-// Ä¬ÈÏÒ»¸öjvmÖĞÖ»ÔÊĞíÒ»¸öcontextÔËĞĞ
+// é»˜è®¤ä¸€ä¸ªjvmä¸­åªå…è®¸ä¸€ä¸ªcontextè¿è¡Œ
 //scala> conf.get("spark.driver.allowMultipleContexts")
 //res0: String = false
 //scala> conf.set("spark.driver.allowMultipleContexts","true")
@@ -140,15 +140,15 @@ res0: org.apache.spark.SparkContext = org.apache.spark.SparkContext@bc4a9b0
 
 scala> val no = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 no: Array[Int] = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-// Ä¬ÈÏpartition³É2 parts,  sc.parallelize(no, 3)»ápartition³É3 parts
+// é»˜è®¤partitionæˆ2 parts,  sc.parallelize(no, 3)ä¼špartitionæˆ3 parts
 scala> val noData = sc.parallelize(no)
 noData: org.apache.spark.rdd.RDD[Int] = ParallelCollectionRDD[0] at parallelize at <console>:27
 
-// ½«½á¹ûĞ´ÈëÎÄ¼şÏµÍ³£¬ºóÃæ·¢ÏÖ'nodata.txt'ÊÇHadoopµÄÄ¿Â¼Ãû
+// å°†ç»“æœå†™å…¥æ–‡ä»¶ç³»ç»Ÿï¼Œåé¢å‘ç°'nodata.txt'æ˜¯Hadoopçš„ç›®å½•å
 scala> noData.saveAsTextFile("nodata.txt")
 scala> sc.stop
 ```
-Í¨¹ıHadoopµÄÃüÁîÀ´¼ì²éĞ´ÈëµÄÎÄ¼ş
+é€šè¿‡Hadoopçš„å‘½ä»¤æ¥æ£€æŸ¥å†™å…¥çš„æ–‡ä»¶
 ```console
 $ hdfs dfs -find / nodata*
 nodata.txt
@@ -156,11 +156,11 @@ nodata.txt/_SUCCESS
 nodata.txt/part-00000
 nodata.txt/part-00001
 
-// 'nodata.txt'ÊÇÄ¿Â¼²»ÊÇÎÄ¼ş
+// 'nodata.txt'æ˜¯ç›®å½•ä¸æ˜¯æ–‡ä»¶
 $ hdfs dfs -cat nodata.txt
 cat: `nodata.txt': Is a directory
 
-// ¿ÕÎÄ¼ş
+// ç©ºæ–‡ä»¶
 $ hdfs dfs -cat nodata.txt/_SUCCESS
 
 $ hdfs dfs -cat nodata.txt/part-00000
@@ -176,7 +176,7 @@ $ hdfs dfs -cat nodata.txt/part-00001
 9
 10
 ```
-Èç¹ûsparkÊ¹ÓÃ±¾µØÎÄ¼şÏµÍ³£¬Ôò»á°Ñ½á¹ûĞ´Èë±¾µØÎÄ¼şÄ¿Â¼
+å¦‚æœsparkä½¿ç”¨æœ¬åœ°æ–‡ä»¶ç³»ç»Ÿï¼Œåˆ™ä¼šæŠŠç»“æœå†™å…¥æœ¬åœ°æ–‡ä»¶ç›®å½•
 ```console
 scala> noData.saveAsTextFile("nodata")
 
@@ -199,9 +199,9 @@ bash-5.0# cat nodata/part-00003
 9
 10
 ```
-Ã¿Ò»¸öSparkContextÓĞÒ»¸öweb UI, Ä¬ÈÏ·ÃÎÊµØÖ· http://driver-node:4040, ÓÃÀ´ÏÔÊ¾applicationĞÅÏ¢£¬°üÀ¨scheduler stages/tasks/RDD sizes/memory usage/Environmental/running executors  [*spark application monitoring rest-api*](https://spark.apache.org/docs/latest/monitoring.html#rest-api)
+æ¯ä¸€ä¸ªSparkContextæœ‰ä¸€ä¸ªweb UI, é»˜è®¤è®¿é—®åœ°å€ http://driver-node:4040, ç”¨æ¥æ˜¾ç¤ºapplicationä¿¡æ¯ï¼ŒåŒ…æ‹¬scheduler stages/tasks/RDD sizes/memory usage/Environmental/running executors  [*spark application monitoring rest-api*](https://spark.apache.org/docs/latest/monitoring.html#rest-api)
 
-Èç¹û¶à¸öSparkContextsÔËĞĞÔÚÍ¬Ò»Ì¨hostÉÏ, web·şÎñ»áÒÀ´ÎÍùºó°ó¶¨¶Ë¿Ú4040 (4041, 4042, etc). Èç¹ûÖ±½Ó·ÃÎÊspark web·şÎñÊ§°Ü£¬»¹¿ÉÒÔÍ¨¹ıHadoop´úÀíÀ´·ÃÎÊ http://127.0.0.1:8088/proxy/application_1566972520413_0001/stages/
+å¦‚æœå¤šä¸ªSparkContextsè¿è¡Œåœ¨åŒä¸€å°hostä¸Š, webæœåŠ¡ä¼šä¾æ¬¡å¾€åç»‘å®šç«¯å£4040 (4041, 4042, etc). å¦‚æœç›´æ¥è®¿é—®spark webæœåŠ¡å¤±è´¥ï¼Œè¿˜å¯ä»¥é€šè¿‡Hadoopä»£ç†æ¥è®¿é—® http://127.0.0.1:8088/proxy/application_1566972520413_0001/stages/
 
 
 - **Submit a Scala job to Spark**
@@ -218,37 +218,37 @@ object HelloWorld {
     }
 }
 ```
-¹ØÓÚsparkÈÎÎñµÄÅÅ´íµ÷ÓÅ£¬¿ÉÒÔ²Î¿¼[databricks-spark-knowledge-base](https://databricks.gitbooks.io/databricks-spark-knowledge-base/)
+å…³äºsparkä»»åŠ¡çš„æ’é”™è°ƒä¼˜ï¼Œå¯ä»¥å‚è€ƒ[databricks-spark-knowledge-base](https://databricks.gitbooks.io/databricks-spark-knowledge-base/)
 
 - **Spark Runs with Docker** 
 
-¿ìËÙÊ¹ÓÃspark¿ÉÒÔÍ¨¹ı[docker container·½Ê½](https://github.com/big-data-europe/docker-spark)£¬±ÜÃâ°²×°ÅäÖÃ
+å¿«é€Ÿä½¿ç”¨sparkå¯ä»¥é€šè¿‡[docker containeræ–¹å¼](https://github.com/big-data-europe/docker-spark)ï¼Œé¿å…å®‰è£…é…ç½®
 ```console
-# ÏÂÔØimage
+# ä¸‹è½½image
 docker pull bde2020/spark-master
 docker pull bde2020/spark-worker
 docker pull bde2020/spark-base
-# ÔËĞĞcontainerÊµÀı
+# è¿è¡Œcontainerå®ä¾‹
 docker run --name spark-master -h spark-master -p6066:6066 -p7077:7077 -p8080:8080 -e ENABLE_INIT_DAEMON=false -d bde2020/spark-master:latest
 docker run --name spark-worker-1 --link spark-master:spark-master -p8081:8081 -e ENABLE_INIT_DAEMON=false -d bde2020/spark-worker:latest
 
-# ¼ÙÉèdockerËŞÖ÷»úIPÎª 10.184.108.18£¬¿ÉÒÔÍ¨¹ıÒÔÏÂURL·ÃÎÊmasterºÍworker
+# å‡è®¾dockerå®¿ä¸»æœºIPä¸º 10.184.108.18ï¼Œå¯ä»¥é€šè¿‡ä»¥ä¸‹URLè®¿é—®masterå’Œworker
 # master node URL
 http://10.184.108.18:8080/
-# worker node URL http://172.17.0.3:8081/ Ó³ÉäÎªËŞÖ÷»ú URL
+# worker node URL http://172.17.0.3:8081/ æ˜ å°„ä¸ºå®¿ä¸»æœº URL
 http://10.184.108.18:8081/
 
-# µÇÂ¼spark master½Úµã
+# ç™»å½•spark masterèŠ‚ç‚¹
 docker exec -it spark-master bash
-# µÇÂ¼spark worker-1½Úµã
+# ç™»å½•spark worker-1èŠ‚ç‚¹
 docker exec -it spark-worker-1 bash
 
-# ½øÈësparkÃüÁî½»»¥Ä£Ê½
+# è¿›å…¥sparkå‘½ä»¤äº¤äº’æ¨¡å¼
 bash-5.0# spark/bin/spark-shell
-# ÍË³öÃüÁî½»»¥Ä£Ê½
+# é€€å‡ºå‘½ä»¤äº¤äº’æ¨¡å¼
 scala> :quit
 
-# spark-submit ÃüÁîÊ¹ÓÃËµÃ÷
+# spark-submit å‘½ä»¤ä½¿ç”¨è¯´æ˜
 Usage: spark-submit [options] <app jar | python file | R file> [app arguments]
 Usage: spark-submit --kill [submission ID] --master [spark://...]
 Usage: spark-submit --status [submission ID] --master [spark://...]
@@ -260,45 +260,45 @@ Options:
   
   --deploy-mode DEPLOY_MODE   Whether to launch the driver program locally ("client") or on one of the worker machines inside the cluster ("cluster") (Default: client).
 
-  -v Êä³öÏêÏ¸Ö´ĞĞĞÅÏ¢£¬¶Ô¶¨Î»´íÎóÓĞ°ïÖú
+  -v è¾“å‡ºè¯¦ç»†æ‰§è¡Œä¿¡æ¯ï¼Œå¯¹å®šä½é”™è¯¯æœ‰å¸®åŠ©
 
-# Ìá½»python PI¼ÆËãµÄÈÎÎñ1000´Îµ½local¼ÆËã,¼´ÔÚ±¾µØ½øĞĞ¼ÆËã
+# æäº¤python PIè®¡ç®—çš„ä»»åŠ¡1000æ¬¡åˆ°localè®¡ç®—,å³åœ¨æœ¬åœ°è¿›è¡Œè®¡ç®—
 spark/bin/spark-submit \
 --master local \
 spark/examples/src/main/python/pi.py 1000
-# ¼ÆËã½á¹ûÏÔÊ¾     
+# è®¡ç®—ç»“æœæ˜¾ç¤º     
 20/04/12 14:14:02 INFO DAGScheduler: Job 0 finished: reduce at /spark/examples/src/main/python/pi.py:44, took 141.028314 s
 Pi is roughly 3.141309
 
-# Ìá½»python PI¼ÆËãµÄÈÎÎñ200´Îµ½spark cluster¼ÆËã,¼´ÔÚ¶à¸ö½Úµã·Ö²¼¼ÆËã
-# Õâ¸öºÍÉÏÃælocalÇø±ğÔÚÌá½»ÈÎÎñºó¿ÉÒÔÍ¨¹ı master/worker node URL(http://<ËŞÖ÷»ú>:8080/) ²é¿´jobÖ´ĞĞĞÅÏ¢ÈçÈÕÖ¾µÈ
+# æäº¤python PIè®¡ç®—çš„ä»»åŠ¡200æ¬¡åˆ°spark clusterè®¡ç®—,å³åœ¨å¤šä¸ªèŠ‚ç‚¹åˆ†å¸ƒè®¡ç®—
+# è¿™ä¸ªå’Œä¸Šé¢localåŒºåˆ«åœ¨æäº¤ä»»åŠ¡åå¯ä»¥é€šè¿‡ master/worker node URL(http://<å®¿ä¸»æœº>:8080/) æŸ¥çœ‹jobæ‰§è¡Œä¿¡æ¯å¦‚æ—¥å¿—ç­‰
 spark/bin/spark-submit \
 --master spark://10.184.108.18:7077 \
 spark/examples/src/main/python/pi.py 200 
-# ¼ÆËã½á¹ûÏÔÊ¾£¬¿ÉÒÔ¿´µ½ worker node(172.17.0.3)µÚ200´ÎÖ´ĞĞÊ±³¤158 ms
+# è®¡ç®—ç»“æœæ˜¾ç¤ºï¼Œå¯ä»¥çœ‹åˆ° worker node(172.17.0.3)ç¬¬200æ¬¡æ‰§è¡Œæ—¶é•¿158 ms
 20/04/12 14:30:18 INFO TaskSetManager: Finished task 199.0 in stage 0.0 (TID 199) in 158 ms on 172.17.0.3 (executor 0) (200/200)
 20/04/12 14:30:18 INFO DAGScheduler: Job 0 finished: reduce at /spark/examples/src/main/python/pi.py:44, took 10.733714 s
 Pi is roughly 3.141113
 
-# examplesÄ¿Â¼ÖĞ»¹Ìá¹©ÆäËûÀı×Ó,°üÀ¨java/Scala/RÓïÑÔ°æ±¾
+# examplesç›®å½•ä¸­è¿˜æä¾›å…¶ä»–ä¾‹å­,åŒ…æ‹¬java/Scala/Rè¯­è¨€ç‰ˆæœ¬
 bash-5.0# ls spark/examples/src/main/python/
 als.py                  logistic_regression.py  pagerank.py             sort.py                 streaming/
 avro_inputformat.py     ml/                     parquet_inputformat.py  sql/                    transitive_closure.py
 kmeans.py               mllib/                  pi.py                   status_api_demo.py      wordcount.py
 
-# Ìá½»scala/java PI¼ÆËãµÄÈÎÎñµ½spark cluster¼ÆËã
-# Èç¹ûÔö¼Óspark.eventLogÅäÖÃ£¬ĞèÒªÏÈ mkdir /tmp/spark-events,ÊÂ¼ş»á¼ÇÂ¼sparkµÄÒ»Ğ©ÅäÖÃĞÅÏ¢
+# æäº¤scala/java PIè®¡ç®—çš„ä»»åŠ¡åˆ°spark clusterè®¡ç®—
+# å¦‚æœå¢åŠ spark.eventLogé…ç½®ï¼Œéœ€è¦å…ˆ mkdir /tmp/spark-events,äº‹ä»¶ä¼šè®°å½•sparkçš„ä¸€äº›é…ç½®ä¿¡æ¯
 spark/bin/spark-submit \
 --class org.apache.spark.examples.SparkPi \
 --master spark://10.184.108.18:7077 \
 --conf spark.eventLog.enabled=true \
 spark/examples/jars/spark-examples_2.11-2.4.5.jar 100
-# ¼ÆËã½á¹ûÏÔÊ¾
+# è®¡ç®—ç»“æœæ˜¾ç¤º
 20/04/13 11:52:23 INFO TaskSetManager: Finished task 99.0 in stage 0.0 (TID 99) in 56 ms on 172.17.0.3 (executor 0) (100/100)
 20/04/13 11:52:23 INFO DAGScheduler: Job 0 finished: reduce at SparkPi.scala:38, took 4.118978 s
 Pi is roughly 3.1415535141553512
 
-# ½øÈëspark-sqlÃüÁî½»»¥Ä£Ê½
+# è¿›å…¥spark-sqlå‘½ä»¤äº¤äº’æ¨¡å¼
 bash-5.0# spark/bin/spark-sql
 spark-sql> :help
          > ;
@@ -307,19 +307,19 @@ mismatched input ':' expecting {'(', 'SELECT', 'FROM', 'ADD', 'DESC', 'WITH', 'V
 
 == SQL ==
 :help
-# ÍË³öÃüÁî½»»¥Ä£Ê½
+# é€€å‡ºå‘½ä»¤äº¤äº’æ¨¡å¼
 spark-sql> quit;
 
 ```
 **spark-examples**
-- [A broadcast variable](https://spark.apache.org/docs/2.4.5/api/java/org/apache/spark/broadcast/Broadcast.html) - sc.broadcastÔÚËùÓĞ½ÚµãÉÏ¹ã²¥Ö»¶ÁµÄ¹²Ïí±äÁ¿¶ø²»±ØËæjob´«µİ±äÁ¿¿½±´µ½Ã¿Ì¨»úÆ÷ÉÏ£¬ÀıÈçÓĞĞ§µØ¸øÃ¿¸ö½ÚµãÊäÈë³¬´ódataset£¬Spark»áÍ¨¹ıÓĞĞ§Ëã·¨¼õĞ¡Í¨Ñ¶³É±¾.
+- [A broadcast variable](https://spark.apache.org/docs/2.4.5/api/java/org/apache/spark/broadcast/Broadcast.html) - sc.broadcaståœ¨æ‰€æœ‰èŠ‚ç‚¹ä¸Šå¹¿æ’­åªè¯»çš„å…±äº«å˜é‡è€Œä¸å¿…éšjobä¼ é€’å˜é‡æ‹·è´åˆ°æ¯å°æœºå™¨ä¸Šï¼Œä¾‹å¦‚æœ‰æ•ˆåœ°ç»™æ¯ä¸ªèŠ‚ç‚¹è¾“å…¥è¶…å¤§datasetï¼ŒSparkä¼šé€šè¿‡æœ‰æ•ˆç®—æ³•å‡å°é€šè®¯æˆæœ¬.
 ```console
 # BroadcastTest [partitions] [numElem] [blockSize]
 spark/bin/spark-submit \
 --class org.apache.spark.examples.BroadcastTest \
 --master spark://10.184.108.18:7077 \
 spark/examples/jars/spark-examples_2.11-2.4.5.jar 100 500
-# ÔËĞĞ½á¹û
+# è¿è¡Œç»“æœ
 20/04/13 14:46:14 INFO DAGScheduler: Job 2 finished: collect at BroadcastTest.scala:51, took 0.570157 s
 500
 500
@@ -333,14 +333,14 @@ spark/examples/jars/spark-examples_2.11-2.4.5.jar 100 500
 500
 Iteration 2 took 586 milliseconds
 ```
-- ²âÊÔÈÎÎñÖĞÒì³£´¦Àí
+- æµ‹è¯•ä»»åŠ¡ä¸­å¼‚å¸¸å¤„ç†
 ```console
 spark/bin/spark-submit \
 --class org.apache.spark.examples.ExceptionHandlingTest \
 --master spark://10.184.108.18:7077 \
 spark/examples/jars/spark-examples_2.11-2.4.5.jar
 ```
-- ²âÊÔËæ»ú²úÉúÊı¹é×éÍ³¼Æ - [parallelize](https://spark.apache.org/docs/2.4.5/api/scala/index.html#org.apache.spark.SparkContext)
+- æµ‹è¯•éšæœºäº§ç”Ÿæ•°å½’ç»„ç»Ÿè®¡ - [parallelize](https://spark.apache.org/docs/2.4.5/api/scala/index.html#org.apache.spark.SparkContext)
 Distribute a local Scala collection to form an RDD.
     - [spark by examples](https://sparkbyexamples.com/apache-spark-rdd/how-to-create-an-rdd-using-parallelize/)
     - [map vs. flatMap and reduce vs. reduceByKey](https://annefou.github.io/pyspark/03-pyspark_context/)
@@ -351,13 +351,13 @@ spark/bin/spark-submit \
 --class org.apache.spark.examples.GroupByTest \
 --master spark://10.184.108.18:7077 \
 spark/examples/jars/spark-examples_2.11-2.4.5.jar 3 100 50 2
-# Ö´ĞĞ½á¹û
+# æ‰§è¡Œç»“æœ
 20/04/13 15:09:54 INFO DAGScheduler: Job 1 finished: count at GroupByTest.scala:53, took 1.047462 s
 300
 ```
-- ²âÊÔSparkÎÄ¼şÂ·¾¶
+- æµ‹è¯•Sparkæ–‡ä»¶è·¯å¾„
 ```console
-# µÇÂ¼masterµÄ shell
+# ç™»å½•masterçš„ shell
 scala> sc
 res0: org.apache.spark.SparkContext = org.apache.spark.SparkContext@eef6e
 
@@ -366,39 +366,39 @@ org.apache.spark.SparkException: Added file file:/nodata is a directory and recu
   at org.apache.spark.SparkContext.addFile(SparkContext.scala:1550)
   at org.apache.spark.SparkContext.addFile(SparkContext.scala:1508)
   ... 49 elided
-# µİ¹é½«Ä¿Â¼/ÎÄ¼şËæjobÏÂÔØµ½Ã¿Ò»¸ö½ÚµãÉÏ
+# é€’å½’å°†ç›®å½•/æ–‡ä»¶éšjobä¸‹è½½åˆ°æ¯ä¸€ä¸ªèŠ‚ç‚¹ä¸Š
 scala> sc.addFile("/nodata", true)
 scala> import org.apache.spark.SparkFiles
 import org.apache.spark.SparkFiles
-# »ñÈ¡Í¨¹ıSparkContext.addFile()ÎÄ¼şµÄ¾ø¶ÔÂ·¾¶
+# è·å–é€šè¿‡SparkContext.addFile()æ–‡ä»¶çš„ç»å¯¹è·¯å¾„
 scala> SparkFiles.get("nodata")
 res4: String = /tmp/spark-2f3aabe2-239c-4c0f-b80b-cbb82d0a2830/userFiles-136c293d-9ae6-48a6-aacf-7aeedc60b0d8/nodata
 
-# µÇÂ¼worker-1µÄshell¿ÉÒÔ¿´µ½nodataÄ¿Â¼
+# ç™»å½•worker-1çš„shellå¯ä»¥çœ‹åˆ°nodataç›®å½•
 scala> import org.apache.spark.SparkFiles
 import org.apache.spark.SparkFiles
 
 scala> SparkFiles.get("nodata")
 res0: String = /tmp/spark-1e5d74c2-3121-4cff-ab1f-2535c3c54d56/userFiles-c514c863-5e1b-424a-9026-cd92e65885ec/nodata
 
-# Ìá½»ÈÎÎñ¼ì²éÎÄ¼şÂ·¾¶
+# æäº¤ä»»åŠ¡æ£€æŸ¥æ–‡ä»¶è·¯å¾„
 spark/bin/spark-submit \
 --class org.apache.spark.examples.SparkRemoteFileTest \
 --master spark://10.184.108.18:7077 \
 spark/examples/jars/spark-examples_2.11-2.4.5.jar nodata
 ```
-- ²âÊÔ Spark streamingÄ£Ê½´ÊÊıÍ³¼Æ
+- æµ‹è¯• Spark streamingæ¨¡å¼è¯æ•°ç»Ÿè®¡
 ```console
-# ÏÈÆô¶¯Ò»¸ö²âÊÔserver,Êä³ö words stream
+# å…ˆå¯åŠ¨ä¸€ä¸ªæµ‹è¯•server,è¾“å‡º words stream
 while true;do { printf 'The test streaming for the test word-count OK'; }|nc -l 9999;done
-# ÔËĞĞ word count
+# è¿è¡Œ word count
 spark/bin/run-example org.apache.spark.examples.streaming.NetworkWordCount 10.83.0.254 9999
-# ÊÖ¶¯Ìá½»job
+# æ‰‹åŠ¨æäº¤job
 spark/bin/spark-submit \
 --class org.apache.spark.examples.streaming.NetworkWordCount \
 --master spark://10.184.108.18:7077 \
 spark/examples/jars/spark-examples_2.11-2.4.5.jar 10.83.0.254 9999
-# ÔËĞĞ½á¹û Ã¿¼ä¸ôÒ»Ãë¾Í»áÍ³¼ÆÒ»´ÎstreamÖĞwordµÄÊıÁ¿
+# è¿è¡Œç»“æœ æ¯é—´éš”ä¸€ç§’å°±ä¼šç»Ÿè®¡ä¸€æ¬¡streamä¸­wordçš„æ•°é‡
 ...
 (word-count,1)
 (OK,1)
@@ -426,15 +426,15 @@ Time: 1586963208000 ms
 (test,2)
 ...
 ```
-- ²âÊÔ Spark hdfsÄ£Ê½´ÊÊıÍ³¼Æ
-<br>Ê×ÏÈÏÂÔØÒ»¸ö[µ¥´Ê´Ê¿â](https://github.com/dwyl/english-words),°Ñwords.txtÉÏ´«master container `docker cp words.txt spark-master:/root`
+- æµ‹è¯• Spark hdfsæ¨¡å¼è¯æ•°ç»Ÿè®¡
+<br>é¦–å…ˆä¸‹è½½ä¸€ä¸ª[å•è¯è¯åº“](https://github.com/dwyl/english-words),æŠŠwords.txtä¸Šä¼ master container `docker cp words.txt spark-master:/root`
 ```console
-# ÔËĞĞ word count³ÌĞò
+# è¿è¡Œ word countç¨‹åº
 spark/bin/run-example org.apache.spark.examples.streaming.HdfsWordCount /spark/data/streaming
-# ÔÚ/spark/data/streamingÄ¿Â¼´´½¨Ò»¸ötext file£¬´¥·¢´ÊÍ³¼Æ¼ÆËã
+# åœ¨/spark/data/streamingç›®å½•åˆ›å»ºä¸€ä¸ªtext fileï¼Œè§¦å‘è¯ç»Ÿè®¡è®¡ç®—
 cp /root/words.txt /spark/data/streaming
 
-# ÔËĞĞ½á¹û Ã¿¼ä¸ô2Ãë¾Í»áÍ³¼ÆÒ»´ÎstreamÖĞwordµÄÊıÁ¿
+# è¿è¡Œç»“æœ æ¯é—´éš”2ç§’å°±ä¼šç»Ÿè®¡ä¸€æ¬¡streamä¸­wordçš„æ•°é‡
 -------------------------------------------
 Time: 1589727310000 ms
 -------------------------------------------
@@ -463,8 +463,8 @@ Time: 1589727314000 ms
 Time: 1589727316000 ms
 -------------------------------------------
 ```
-#### Ô´Âë·ÖÎö/API
-+ [Structured StreamingÔ´Âë½âÎö](https://github.com/lw-lin/CoolplaySpark)
+#### æºç åˆ†æ/API
++ [Structured Streamingæºç è§£æ](https://github.com/lw-lin/CoolplaySpark)
 + [spark-core](https://www.javadoc.io/doc/org.apache.spark/spark-core_2.11/2.2.0/index.html#org.apache.spark.SparkContext)
 + [spark-sql](https://www.javadoc.io/doc/org.apache.spark/spark-sql_2.12/3.0.0-preview/org/apache/spark/sql/SparkSession.html)
 + [scala-library](https://www.javadoc.io/doc/org.scala-lang/scala-library/2.12.0/index.html)
@@ -473,47 +473,47 @@ Time: 1589727316000 ms
 # Deprecated. use the scala.math package object instead
 scala> import scala.math.random
 
-# °ÑseqÀàĞÍ[1..10]map³É[1/0]µÄRDD 
+# æŠŠseqç±»å‹[1..10]mapæˆ[1/0]çš„RDD 
 scala> val data=sc.parallelize(1 until 11, 2).map({i=> val x = random * 2 - 1; val y = random * 2 - 1; if (x*x + y*y <= 1) 1 else 0})
 
-# °Ñdata RDD±£´æÎª±¾µØdatamÄ¿Â¼,ÔÙ°ÑËùÓĞÊı¾İ×öÏà¼ÓµÄreduce
+# æŠŠdata RDDä¿å­˜ä¸ºæœ¬åœ°datamç›®å½•,å†æŠŠæ‰€æœ‰æ•°æ®åšç›¸åŠ çš„reduce
 scala> data.saveAsTextFile("datam"); val datar=data.reduce(_ + _)
 datar: Int = 6
-# °ÑËùÓĞÊı¾İ×öÏà¼õµÄreduce
+# æŠŠæ‰€æœ‰æ•°æ®åšç›¸å‡çš„reduce
 scala> val datar=datam.reduce(_ - _)
 datar1: Int = 1
-# °ÑËùÓĞÊı¾İ×öÏà³ËµÄreduce£¬´æÔÚÒ»¸öÁãÔò³Ë»ıÎªÁã
+# æŠŠæ‰€æœ‰æ•°æ®åšç›¸ä¹˜çš„reduceï¼Œå­˜åœ¨ä¸€ä¸ªé›¶åˆ™ä¹˜ç§¯ä¸ºé›¶
 scala> val datar=datam.reduce(_ * _)
 datar1: Int = 0
-# °ÑËùÓĞÊı¾İ×öÏà³ıµÄreduce£¬Èç¹û³ıÁãÔòÎ¥·´ÁË¼ÆËã¹æÔò
+# æŠŠæ‰€æœ‰æ•°æ®åšç›¸é™¤çš„reduceï¼Œå¦‚æœé™¤é›¶åˆ™è¿åäº†è®¡ç®—è§„åˆ™
 scala> val datar=datam.reduce(_ / _)
 20/04/27 03:51:25 ERROR Executor: Exception in task 0.0 in stage 3.0 (TID 6)
 java.lang.ArithmeticException: / by zero
 ```
 
-#### ÊõÓï¸ÅÄî
+#### æœ¯è¯­æ¦‚å¿µ
 
 ##### HiveContext
-Hive¼ÓÉÏSpark library´ò°üÔÚÒ»Æğ¾ÍÊÇHiveContext, ´ÓSQLContext¼Ì³ĞµÄÒ»ÖÖ¸ÅÄî. Ê¹ÓÃHiveContext, ÄãÄÜ¹»create/find tables in the HiveMetaStore²¢ÇÒ¿ÉÒÔÓÃHiveQLĞ´²éÑ¯¹¦ÄÜ¡£Ã»ÓĞ²¿ÊğHive·şÎñµÄÓÃ»§Ò²¿ÉÒÔcreate a HiveContext¡£Èç¹ûÃ»ÓĞÍ¨¹ıhive-site.xmlÖ¸¶¨ÅäÖÃ, the context×Ô¶¯´´½¨Ò»¸öÃûÎªmetastore_dbµÄmetastoreºÍÒ»¸öÃûÎªwarehouseµÄÄ¿Â¼¡£refer to [explanation](https://www.tutorialspoint.com/spark_sql/spark_sql_hive_tables.htm)
+HiveåŠ ä¸ŠSpark libraryæ‰“åŒ…åœ¨ä¸€èµ·å°±æ˜¯HiveContext, ä»SQLContextç»§æ‰¿çš„ä¸€ç§æ¦‚å¿µ. ä½¿ç”¨HiveContext, ä½ èƒ½å¤Ÿcreate/find tables in the HiveMetaStoreå¹¶ä¸”å¯ä»¥ç”¨HiveQLå†™æŸ¥è¯¢åŠŸèƒ½ã€‚æ²¡æœ‰éƒ¨ç½²HiveæœåŠ¡çš„ç”¨æˆ·ä¹Ÿå¯ä»¥create a HiveContextã€‚å¦‚æœæ²¡æœ‰é€šè¿‡hive-site.xmlæŒ‡å®šé…ç½®, the contextè‡ªåŠ¨åˆ›å»ºä¸€ä¸ªåä¸ºmetastore_dbçš„metastoreå’Œä¸€ä¸ªåä¸ºwarehouseçš„ç›®å½•ã€‚refer to [explanation](https://www.tutorialspoint.com/spark_sql/spark_sql_hive_tables.htm)
 
-Spark < 2.0µÄ·¢²¼°æ±¾ÖĞ£¬Èç¹ûÒª¼¯³ÉHive£¬Äã±ØĞëÊ¹ÓÃHiveContext¡£³ı´ËÖ®Íâ£¬ÓëSQLContext×î´ó²»Í¬ÔÚÓÚ¶Ô[window functions](#window-function)µÄÖ§³ÖºÍ·ÃÎÊHive UDFs(user defined functions)µÄÄÜÁ¦¡£
+Spark < 2.0çš„å‘å¸ƒç‰ˆæœ¬ä¸­ï¼Œå¦‚æœè¦é›†æˆHiveï¼Œä½ å¿…é¡»ä½¿ç”¨HiveContextã€‚é™¤æ­¤ä¹‹å¤–ï¼Œä¸SQLContextæœ€å¤§ä¸åŒåœ¨äºå¯¹[window functions](#window-function)çš„æ”¯æŒå’Œè®¿é—®Hive UDFs(user defined functions)çš„èƒ½åŠ›ã€‚
 
-window functionsÊÇºÜ¿áµÄÌØĞÔ£¬ÄÜÓÃÀ´½â¾ö¸´ÔÓÎÊÌâ¶ø²»ÓÃÔÚRDDsºÍDataFramesÖ®¼äÀ´À´»Ø»Ø¡£ĞÔÄÜÒ²Ïàµ±ºÃ£¬ÌØ±ğÊÇÃ»ÓĞPARTITION BYÓï¾ä¡£
+window functionsæ˜¯å¾ˆé…·çš„ç‰¹æ€§ï¼Œèƒ½ç”¨æ¥è§£å†³å¤æ‚é—®é¢˜è€Œä¸ç”¨åœ¨RDDså’ŒDataFramesä¹‹é—´æ¥æ¥å›å›ã€‚æ€§èƒ½ä¹Ÿç›¸å½“å¥½ï¼Œç‰¹åˆ«æ˜¯æ²¡æœ‰PARTITION BYè¯­å¥ã€‚
 
-Hive UDFsÏÖÔÚ²»ÊÇÊ²Ã´ÑÏÖØÎÊÌâ£¬µ«ÔÚSpark 1.5Ö®Ç°ºÜ¶àSQL functionsÒÑ¾­ÓÃHive UDFsÊµÏÖ£¬Òò¶øÒ²ĞèÒªHiveContext¼ÌĞø¹¤×÷¡£Æä×î´óÎÊÌâ¿ÉÄÜ¾ÍÊÇÒÀÀµ¶«Î÷Ì«¶à¡£
+Hive UDFsç°åœ¨ä¸æ˜¯ä»€ä¹ˆä¸¥é‡é—®é¢˜ï¼Œä½†åœ¨Spark 1.5ä¹‹å‰å¾ˆå¤šSQL functionså·²ç»ç”¨Hive UDFså®ç°ï¼Œå› è€Œä¹Ÿéœ€è¦HiveContextç»§ç»­å·¥ä½œã€‚å…¶æœ€å¤§é—®é¢˜å¯èƒ½å°±æ˜¯ä¾èµ–ä¸œè¥¿å¤ªå¤šã€‚
 
-Spark 2.0+ÒÔºó°æ±¾Ìá¹©ÁËnative window functions£¬Òò´Ë½ÏÉÙÒÀÀµHiveÀ´Íê³ÉºËĞÄ¹¦ÄÜ¡£
+Spark 2.0+ä»¥åç‰ˆæœ¬æä¾›äº†native window functionsï¼Œå› æ­¤è¾ƒå°‘ä¾èµ–Hiveæ¥å®Œæˆæ ¸å¿ƒåŠŸèƒ½ã€‚
 
 ##### Window Function
-Spark 1.5Ö®Ç°, Spark SQLÖ§³ÖÁ½ÖÖÀàĞÍfunctionÀ´¼ÆËãÒ»¸öµ¥¶ÀµÄ·µ»ØÖµ£¬Built-in functions»ò³ÆÎªUDFs, ÀıÈçsubstrºÍround, ´Óµ¥¶ÀÒ»ĞĞÊı¾İ»ñµÃÊäÈë, È»ºó¼ÆËã²úÉúÒ»¸öµ¥¶ÀµÄ·µ»ØÖµ£¬Ã¿Ò»ĞĞµÄ¼ÆËã¹æÔò¶¼ÊÇÈç´Ë¡£Aggregate functions, ÀıÈçSUMºÍMAX, ²Ù×÷a group of rows£¬È»ºó¼ÆËãÒ»¸ö·µ»ØÖµ£¬Ã¿Ò»×éµÄ¼ÆËã¹æÔò¶¼Èç´Ë¡£
+Spark 1.5ä¹‹å‰, Spark SQLæ”¯æŒä¸¤ç§ç±»å‹functionæ¥è®¡ç®—ä¸€ä¸ªå•ç‹¬çš„è¿”å›å€¼ï¼ŒBuilt-in functionsæˆ–ç§°ä¸ºUDFs, ä¾‹å¦‚substrå’Œround, ä»å•ç‹¬ä¸€è¡Œæ•°æ®è·å¾—è¾“å…¥, ç„¶åè®¡ç®—äº§ç”Ÿä¸€ä¸ªå•ç‹¬çš„è¿”å›å€¼ï¼Œæ¯ä¸€è¡Œçš„è®¡ç®—è§„åˆ™éƒ½æ˜¯å¦‚æ­¤ã€‚Aggregate functions, ä¾‹å¦‚SUMå’ŒMAX, æ“ä½œa group of rowsï¼Œç„¶åè®¡ç®—ä¸€ä¸ªè¿”å›å€¼ï¼Œæ¯ä¸€ç»„çš„è®¡ç®—è§„åˆ™éƒ½å¦‚æ­¤ã€‚
 
-µ«Êµ¼ÊÉÏÕâÁ½ÖÖ·½Ê½²»×ãÒÔÂú×ãËùÓĞĞèÇó£¬ÀıÈçÎŞ·¨¼ÆËãa group of rowsºóÈ´ÈÔ¾ÉÎªÃ¿Ò»ĞĞÊı¾İ·µ»ØÒ»¸öÖµ¡£ÕâÑùÏŞÖÆÊ¹²»Í¬µÄdata processing tasks±äµÃÀ§ÄÑ£¬ÀıÈç¼ÆËã±ä»¯µÄÆ½¾ùÖµ, ¼ÆËãÀÛ¼ÆµÄºÏ¡£µ«ĞÒÔËµÄÊÇSpark SQLµÄÓÃ»§¿ÉÒÔÓÃwindow functionsÀ´½â¾öÕâĞ©À§ÄÑ¡£
+ä½†å®é™…ä¸Šè¿™ä¸¤ç§æ–¹å¼ä¸è¶³ä»¥æ»¡è¶³æ‰€æœ‰éœ€æ±‚ï¼Œä¾‹å¦‚æ— æ³•è®¡ç®—a group of rowsåå´ä»æ—§ä¸ºæ¯ä¸€è¡Œæ•°æ®è¿”å›ä¸€ä¸ªå€¼ã€‚è¿™æ ·é™åˆ¶ä½¿ä¸åŒçš„data processing taskså˜å¾—å›°éš¾ï¼Œä¾‹å¦‚è®¡ç®—å˜åŒ–çš„å¹³å‡å€¼, è®¡ç®—ç´¯è®¡çš„åˆã€‚ä½†å¹¸è¿çš„æ˜¯Spark SQLçš„ç”¨æˆ·å¯ä»¥ç”¨window functionsæ¥è§£å†³è¿™äº›å›°éš¾ã€‚
 
-Ò»¸öwindow functionÎªÒ»×éÊı¾İĞĞ³ÆÎªFrameÖĞÃ¿Ò»ÌõÊı¾İ¼ÆËã·µ»ØÖµ¡£Ã¿Ò»¸öÊäÈëĞĞ¶¼ÓĞÎ¨Ò»µÄframeÓëÖ®¹ØÁª¡£Õâ¸öÌØĞÔÊ¹window functions¸ü¼ÓÇ¿´ó£¬ÄÜ¹»±í´ï¸ü¶àºÜÀ§ÄÑ±íÊ¾³öÀ´µÄÊı¾İ´¦ÀíÈÎÎñ¡£refer to [explanation](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
+ä¸€ä¸ªwindow functionä¸ºä¸€ç»„æ•°æ®è¡Œç§°ä¸ºFrameä¸­æ¯ä¸€æ¡æ•°æ®è®¡ç®—è¿”å›å€¼ã€‚æ¯ä¸€ä¸ªè¾“å…¥è¡Œéƒ½æœ‰å”¯ä¸€çš„frameä¸ä¹‹å…³è”ã€‚è¿™ä¸ªç‰¹æ€§ä½¿window functionsæ›´åŠ å¼ºå¤§ï¼Œèƒ½å¤Ÿè¡¨è¾¾æ›´å¤šå¾ˆå›°éš¾è¡¨ç¤ºå‡ºæ¥çš„æ•°æ®å¤„ç†ä»»åŠ¡ã€‚refer to [explanation](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
 
 ##### Apache Sqoop
-[Sqoop](https://cwiki.apache.org/confluence/display/SQOOP/Home)ÊÇÒ»¸öcommand-line interfaceÓ¦ÓÃ£¬ÔÚrelational databasesºÍHadoopÖ®¼ä×ª»»Êı¾İ
+[Sqoop](https://cwiki.apache.org/confluence/display/SQOOP/Home)æ˜¯ä¸€ä¸ªcommand-line interfaceåº”ç”¨ï¼Œåœ¨relational databaseså’ŒHadoopä¹‹é—´è½¬æ¢æ•°æ®
 
 ##### BlinkDB
-[BlinkDB](http://blinkdb.org/) ÊÇÒ»¸ö´ó¹æÄ£²¢ĞĞµÄ²éÑ¯ÒıÇæ£¬¿ÉÒÔÔÚ³¬´ó¹æÄ£µÄÊı¾İ¼¯ÉÏÖ´ĞĞ½»»¥Ê½SQL queries
+[BlinkDB](http://blinkdb.org/) æ˜¯ä¸€ä¸ªå¤§è§„æ¨¡å¹¶è¡Œçš„æŸ¥è¯¢å¼•æ“ï¼Œå¯ä»¥åœ¨è¶…å¤§è§„æ¨¡çš„æ•°æ®é›†ä¸Šæ‰§è¡Œäº¤äº’å¼SQL queries
 

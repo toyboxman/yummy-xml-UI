@@ -330,6 +330,8 @@
 + NPM
     - [10个最流行的NPM包](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
     - [发布一个无依赖的npm包](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)  
++ [免费Web APIs](https://github.com/fangzesheng/free-api)    
++ [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 + [前端架构JAMStack不依赖Web Server](https://mp.weixin.qq.com/s/Q8rDSc0yU19lk7q3HfWf0A)
 + [Ratpack](https://github.com/ratpack/ratpack)   
     Ratpack is a simple, capable, toolkit for creating high performance web applications. Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.      
@@ -596,6 +598,7 @@
 + [工业互联网大数据平台建设方案](https://mp.weixin.qq.com/s/4pymKCmsMVX4cH1twpVt-Q)
 + [spark](big-data/spark.md)
     - [tutorial Spark's Scala APIs](https://github.com/deanwampler/JustEnoughScalaForSpark)
+    - [Spark docker image](https://github.com/big-data-europe/docker-spark)
     - [Spark调度系统](https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw)
     - [Spark中编写可伸缩代码](https://mp.weixin.qq.com/s/bERWyo31Usx9f3l3cTlZEA)
     - [Spark Shuffle](https://mp.weixin.qq.com/s/VdwOwmxmOpQC3NIaxqqbmw)
@@ -671,6 +674,8 @@
 + [命令行备忘工具navi](https://mp.weixin.qq.com/s/JJy2iv82RkHp6BXyXAOXNg)
 + [Polynote多语言笔记本](https://mp.weixin.qq.com/s/KjRbBMXhBkXwJBpI-DaRAQ)
 + 2019-hot-project[[10](https://mp.weixin.qq.com/s/ujq6J1njlFVsR_h5c-DT2Q), [11](https://mp.weixin.qq.com/s/fMAeNWMJkZbr7sLveBCy_w)]
++ [Ghidra](https://github.com/NationalSecurityAgency/ghidra)  
+    `software reverse engineering (SRE) framework`
 
 GitHub提供代码库检索功能 
 
@@ -736,7 +741,14 @@ monitor in:description language:python
     - [javatpoint](https://www.javatpoint.com/java-tutorial)
     - [mkyong](https://www.mkyong.com/all-tutorials-on-mkyong-com/)    
     - [JavaGuide(学习+面试)](https://github.com/Snailclimb/JavaGuide/)
+    - [技术类精华书单](https://github.com/biaochenxuying/awesome-books)
     - [Lombok简化Java编程 ](https://mp.weixin.qq.com/s/EnZlhaqX0F6uND_LppZSAw)
+    - Java Parser
+        - [Java Parser and Abstract Syntax Tree](https://github.com/javaparser/javaparser)
+        - [Roaster](https://github.com/forge/roaster)
+    - [企业级低代码平台JEECG BOOT](https://github.com/jeecgboot/jeecg-boot)
+    - [Soot - Java optimization framework](https://github.com/soot-oss/soot)
+    - [Watson Libraries for Analysis ](https://github.com/wala/WALA)
 + Problem Solutions
     - [如何解决代码中if…else过多的问题](https://mp.weixin.qq.com/s/LkJASqUJTlEkx2S_hgPeVQ)
     - [阿里Arthas辅助定位线上BUG](https://mp.weixin.qq.com/s/hcAPHXqrmbKNZNGsCDqU3Q)
