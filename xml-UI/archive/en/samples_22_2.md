@@ -282,35 +282,101 @@ To make an Olympic ski jump, China clad a hillside in steel and blanketed it wit
 More and more of them have concluded that the Games are not worth being left with a hefty bill, white elephant stadiums and fewer benefits from tourism than they had hoped. China’s concerns about the pandemic have dashed hopes that the Games would draw tourists.
 越来越多的城市已经得出结论，奥运会后留下的巨额账单、大而无用的场馆、低于期望值的旅游收益是不值得的。中国对新冠疫情的担忧使奥运会吸引游客的希望破灭
 
-Gustatory pleasure could be attained, it turned out, with an open mind, an enterprising spirit and tempered expectations. In Beijing, the robot-made dishes were precisely cooked — broccoli always crisp, wonton skins always bouncy — but mostly uninspiring.
+**Gustatory pleasure could be attained**, it turned out, with an open mind, an **enterprising spirit and tempered expectations**. In Beijing, the robot-made dishes were **precisely cooked — broccoli always crisp, wonton skins always bouncy** — but mostly uninspiring.
+>uninspiring 不鼓舞人的；没感觉的；无鼓舞作用的  
+>gustatory['gʌstətərɪ] 味觉的  
+>gustatory pleasure 味觉的愉悦  
+>attain 获得；到达；实现  
+>enterprising 有事业心的；有进取心的  
+>enterprising spirit 进取的精神  
+>tempered['tempəd] 回火的；调合的；温和的  
+>tempered expectations 适度的期望  
+>crisp[krɪsp] 易碎的；脆的；酥脆的  
+>wonton skins 馄饨皮  
+>bouncy[ˈbaʊnsi] 弹性好的；有反弹力的；生气勃勃的；精神饱满的
+
 事实证明，只要以开放的心态、进取的精神和适度的期望，就能获得味觉的愉悦。在北京，机器人做的菜做得非常精确——西蓝花总是很脆，馄饨皮总是很Q弹——但大多数都没有什么新意。
 
-Hong Kong’s methods are nondescript, half-baked and full of loopholes, which led to this outbreak. We lack enough organization, mobilization and control capabilities, and we also lack a strong government. the Hong Kong government still has some insufficiently loyal or two-faced officials.
+Hong Kong’s methods are **nondescript, half-baked and full of loopholes**, which led to this outbreak. We **lack enough organization, mobilization** and control capabilities, and we also lack a strong government. the Hong Kong government still **has some insufficiently loyal or two-faced officials**.
+>nondescript[ˌnɑndɪˈskrɪpt] 无特征的；平庸的；毫无个性的  
+>half-baked 计划不完善的；考虑不周的
+
 香港的做法不伦不类、半桶水、漏洞百出，酿成这次大暴发。主要是缺乏足够的组织、动员及控制能力，也缺乏一个強势政府，港府中仍存在一些不够忠诚的官员和两面派。
 
-The motivation behind this phenomenon, as Zhou noted, is fairly simple. Official phonetic transliterations of international names into Chinese — a language whose written characters convey sounds but also distinct concepts and things — can be long, unwieldy and in producing strings of unrelated characters, basically nonsensical.
+The motivation **behind this phenomenon**, as Zhou noted, is **fairly simple**. Official **phonetic transliterations** of international names into Chinese — a language whose **written characters convey sounds but also distinct concepts and things** — can be long, **unwieldy** and in producing strings of unrelated characters, **basically nonsensical**.
+>fairly simple 相当简单  
+>transliteration 音译  
+>convey 表达；输送；运送；传送  
+>convey sounds 表音  
+>unwieldy[ʌnˈwildi] 笨重的；笨拙的；不灵巧的  
+>nonsensical[nɑnˈsensɪk(ə)l] 荒谬的；无意义的
+
 正如周煜瑶所说，这种现象背后的动机相当简单。中文里的汉字传达声音的同时也表达不同的概念和事物，官方音译的外国名字可能很长，不方便，而且会出现一连串不相关、基本没有意义的汉字
 
-Take “Guai Ling” (拐凌): Here, fans created a phonetic smoothing of the first two syllables of Gu’s Chinese name, Gu Ailing, to make a well-meaning joke about the fact that the she speaks Chinese with a Beijing accent. (The accent is often the subject of gentle ribbing in China for its contractions and jammed-up syllables.)
+Take “Guai Ling” (拐凌): Here, fans created a **phonetic smoothing of the first two syllables** of Gu’s Chinese name, Gu Ailing, to **make a well-meaning joke** about the fact that the she speaks Chinese with a Beijing accent. (The accent is often the subject of **gentle ribbing** in China for its **contractions and jammed-up syllables**.)
+>phonetic[fəˈnetɪk] 表示语音的；音标的；与发音近似的  
+>syllable[ˈsɪləb(ə)l] 音节  
+>well-meaning 善意的; 好心的  
+>ribbing 开玩笑；取笑；逗弄  
+>rib 肋骨；排骨；逗弄；开玩笑
+
 以“拐凌”为例：这一次，粉丝们把谷爱凌的中文名字的前两个音节快速连读，善意地调侃她的中文带有北京口音。（在中国，北京口音里音节的省略和混合常常成为笑话的素材。）
 
-Keenly aware that skiing has been dominated by athletes from richer, colder countries, the International Olympic Committee and skiing’s world governing body have tried to make the sport more inclusive through a quota system that lowers the threshold of qualification.
+**Keenly aware** that skiing has been dominated by athletes from richer, colder countries, the International Olympic Committee and **skiing’s world governing body** have tried to make the sport **more inclusive** through a quota system that **lowers the threshold** of qualification.
+>keenly[ˈkinli] 敏锐地；强烈地  
+>keenly aware that 深知  
+>skiing’s world governing body 滑雪运动的世界管理机构
+
 国际奥林匹克委会和滑雪运动的世界管理机构深知，滑雪运动一直被来自更富裕、气候更寒冷国家的运动员主导。这两个国际组织试图通过一个降低参赛门槛的配额制度，来让这项运动更具包容性
 
-In a country with a shortage of qualified instructors, injuries are inevitable. More than 80 percent of China’s 13 million skiers are beginners. Many novices wear stuffed animals strapped around their bottoms — mostly turtles, but other cartoonish creatures, too. These help to cushion falls and to alert others on the mountain to keep their distance.
+In a country **with a shortage of qualified instructors**, injuries are inevitable. More than 80 percent of China’s 13 million skiers are beginners. Many **novices wear stuffed animals strapped around their bottoms** — mostly turtles, but other **cartoonish creatures**, too. These help to **cushion falls** and to alert others on the mountain to **keep their distance**.
+>instructor 讲师；教练  
+>novice[ˈnɑvɪs] 新手；初学者  
+>strap 皮带；背带；捆扎; 系好  
+>strapped around their bottoms 绑在屁股上  
+>cushion falls 摔倒时起缓冲作用
+
 在一个缺少合格教练的国家，受伤往往不可避免。中国1300万滑雪者中，80%以上是初学者。许多新手将毛绒动物玩具——大多是乌龟，但也有其他卡通动物——绑在屁股上，以便摔倒时起缓冲作用，同时提醒山上的其他人保持距离
 
-With their spectacle of extreme athletics held against a backdrop of climate emergency, public health disaster, political brinkmanship and rampant corruption, the Games reek of societal decline. When anxiety and misery are all around us, and many of us have lost our faith in institutions’ ability or will to solve these problems, state- and corporate-sponsored inspiration doesn’t land the way it used to.
+With their **spectacle of extreme athletics** held against a **backdrop** of climate emergency, public health disaster, **political brinkmanship and rampant corruption**, the Games **reek of societal** decline. When **anxiety and misery are all around** us, and many of us have **lost our faith** in institutions’ ability or will to solve these problems, state- and corporate-sponsored inspiration doesn’t **land the way it used to**.
+>spectacle[ˈspektək(ə)l] 壮观的场面  
+>extreme athletics 极限竞技  
+>backdrop 背景板；舞台背景  
+>brinkmanship[ˈbrɪŋkmənˌʃɪp] 边缘政策(刻意进入极其危险的处境，以恐吓并驯服人民)  
+>rampant[ˈræmpənt] 泛滥的；猖獗的  
+>reek[rik] 恶臭；难闻的气味  
+>societal[səˈsaɪət(ə)l] 社会的  
+
 在气候紧急状况、公共卫生灾难、政治边缘政策和腐败猖獗背景下，壮观的极限竞技奥运场面使得这届奥运会散发出社会衰退的气息。当焦虑和痛苦无处不在，我们中的许多人对制度解决这些问题的能力或意愿失去了信心时，由国家和企业倡议的激励方式就不像过去那样奏效了
 
-All this is also inspiration — but a new kind, befitting this strange moment. It’s not the familiar underdog success story, which flips every loss into a story of ultimate gain, or turns every setback into a narrative of empowerment and success.
+All this is also inspiration — but a new kind, **befitting this strange moment**. It’s not the **familiar underdog success story**, which flips every loss into a story of **ultimate gain**, or turns every setback into **a narrative of empowerment and success**.
+>befit 适合；对…相称  
+>underdog 处于劣势的人(或团队、国家等)；弱者；比赛前不被看好者  
+>flip into 改变；转化  
+>ultimate gain 最终胜利  
+>empowerment 赋权；授权
+
 所有这些都是一种激励——但是一种新的激励，与这个奇怪的时刻相称。这不是我们熟悉的那种后来者居上、将每一次失败化作最终胜利，将每一次挫折变为赋权与成功的故事
 
-I like watching the athletes too much to skip the Olympics. Ice dancing is gorgeous, ski jumpers are wild. And I will happily take a few minutes out of an evening over the next few weeks to watch the curlers furiously sweep a slab of stone down a narrow lane of ice.
+I like watching the athletes too much to skip the Olympics. **Ice dancing is gorgeous, ski jumpers are wild**. And I will happily take a few minutes out of an evening over the next few weeks to **watch the curlers furiously sweep a slab of stone down a narrow lane of ice**.
+>ski jumpers 跳台滑雪  
+>gorgeous[ˈɡɔː(r)dʒəs] 漂亮的；美丽动人的；华丽的；绚丽的  
+>curling 冰壶; 卷曲；卷边    
+>slab[slæb] 使成厚板；铺石板  
+>a slab of stone 一块石头  
+>sweep 打扫；清扫；掠
+
 我太喜欢看这些运动员们了，以至于无法放弃奥运会。冰舞很华美，跳台滑雪很狂野。在接下来的几个星期里，我很乐意抽出晚上的几分钟，观看冰壶选手在狭窄的冰道上为一块石头疯狂地刷地
 
-There was a time when people felt it was awesome to be American, But as politics between the two countries have spiraled down the rabbit hole, Chinese feel that they should not — or cannot — admire a country that point fingers at them all the time.
+**There was a time when** people felt it was awesome to be American, But as politics between the two countries have **spiraled down the rabbit hole**, Chinese feel that they should not — or cannot — admire a country that **point fingers at them all the time**.
+>spiral[ˈspaɪrəl] 螺旋式上升(或下降)；急剧增长  
+>the rabbit hole 无底洞
+
 曾经有一段时间，人们觉得身为美国人很了不起，但是随着两国之间的政治掉进了无底洞，中国人觉得他们不应该——或者不能——赞美一个一直指责他们的国家
 
-“Can you imagine, I had left the country 18 years before and here they were cheering me on,” recalled Mr. Zhuang. “I couldn’t play after that, I was so emotional. When I look at the relationship today, and the politics and the competition between the two countries, it kind of hurts,” Mr. Zhuang said. “What a pity.”
+“Can you imagine, I had left the country 18 years before and here they were cheering me on,” **recalled** Mr. Zhuang. “I couldn’t play after that, I was **so emotional**. When I look at the relationship today, and the politics and the competition between the two countries, **it kind of hurts**,” Mr. Zhuang said. “**What a pity**.”
+>recall 回忆  
+>emotional 情绪化的；易动感情的; 激动的  
+>what a pity 真遗憾；真可惜
+
 “你能想像吗，我18年前离开这个国家，他们却在这里为我加油，”庄永祥回忆说。“然后我简直不能打球了，我太激动了。看看今天的两国关系，以及两国之间的政治和竞争时，有点让人伤心，”庄永祥说。“真让人遗憾。”

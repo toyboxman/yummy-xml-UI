@@ -25,7 +25,7 @@
 + Configure Kubernetes YAML/JSON.
 + Submit it to the Kubernetes API (kubectl create -f service.yaml)
 
-Kubernetes可以解决那些问题可以看看
+Kubernetes解决那些问题可以看看
 + [k8s简介](https://mp.weixin.qq.com/s/JSipXCkLAMIpNa4UGDRogQ)
 + [部署Kubernetes的代价](https://mp.weixin.qq.com/s/zzn61ADe2RA7K0L4-EMAOA)
 + Kubernetes 学习曲线[[1](https://mp.weixin.qq.com/s/H8guIwQlMoKnN9OI_Om3RA), [2](https://opensource.com/article/19/6/kubernetes-basics)]
@@ -42,8 +42,8 @@ Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑�
 + [K8S高可用集群架构](https://mp.weixin.qq.com/s/uyLBMHmr0cRsRLGs4nwnjg)
 + [非云环境中Kubernetes的配置和运行](https://mp.weixin.qq.com/s/EdSxylOX6Yk77CXBak-3uQ)
 + [Makisu构建容器镜像](https://mp.weixin.qq.com/s/avUG1v9XHCGWAkNg3qG_Dw)
-+ [Mac配置Kubernetes](https://mp.weixin.qq.com/s/A0hogBew98ekE-HDXVYNkA)
-    MicroK8s需要通过snap install安装到ubuntu vm上，国内安装速度较慢。替代使用[k3s](https://k3s.io/)或[Minikube](https://github.com/kubernetes/minikube)
++ [Mac配置Kubernetes](https://mp.weixin.qq.com/s/A0hogBew98ekE-HDXVYNkA)  
+    `MicroK8s需要通过snap install安装到ubuntu vm上，国内安装速度较慢。`替代使用[k3s](https://k3s.io/)或[Minikube](https://github.com/kubernetes/minikube)
 + Tools for k8s[[1](https://mp.weixin.qq.com/s/nsfr6sArLotsB9U4MU7-wg), [2](https://mp.weixin.qq.com/s/CAroslMhKt21y6_XYYXqQg)]
 + [k9s集群管理的工具](https://mp.weixin.qq.com/s/Jwy42KmPhMC_1sfFrizoLQ)
 + [Prometheus和Grafana监控Kubernetes集群](https://mp.weixin.qq.com/s/ZvbK2AMNugi6DHHqBw9HCg)
@@ -51,6 +51,7 @@ Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑�
 + [基本kubectl和Helm命令](https://mp.weixin.qq.com/s/JpCVNcU2hrfHS2d_Xcttvw)
 + [使用Traefik引导Kubernetes流量](https://mp.weixin.qq.com/s/edMBhL5XtyAsILHSeTWBdA)
 + [数百个ZooKeeper实例迁移到Kubernetes](https://mp.weixin.qq.com/s/AaVTgZc_vUtKD_WytKIW5A)
+    `ZooKeeper服务器迁移四步骤描述`
 + [中文版文档](https://linfan1.gitbooks.io/kubernetes-chinese-docs/content/index.html)
 + [Awesome-Kubernetes](https://ramitsurana.gitbooks.io/awesome-kubernetes/content/)
 
