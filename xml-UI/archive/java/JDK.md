@@ -457,7 +457,7 @@ trace -E class1|class2 method1|method2
 # 查看当前VM中所有 JaegerTracer 实例, 返回实例数组
 [arthas@8873]$ vmtool --action getInstances --className io.jaegertracing.internal.JaegerTracer
 @JaegerTracer[][
-    @JaegerTracer[JaegerTracer(version=Java-1.3.2, serviceName=policy, reporter=RemoteReporter(sender=HttpSender(), closeEnqueueTimeout=1000), sampler=ConstSampler(decision=true, tags={sampler.type=const, sampler.param=true}), tags={hostname=liujin-svc, jaeger.version=Java-1.3.2, ip=10.191.191.99}, zipkinSharedRpcSpan=false, expandExceptionLogs=false, useTraceId128Bit=true)],
+    @JaegerTracer[JaegerTracer(version=Java-1.3.2, serviceName=policy, reporter=RemoteReporter(sender=HttpSender(), closeEnqueueTimeout=1000), sampler=ConstSampler(decision=true, tags={sampler.type=const, sampler.param=true}), tags={hostname=svc, jaeger.version=Java-1.3.2, ip=10.191.191.99}, zipkinSharedRpcSpan=false, expandExceptionLogs=false, useTraceId128Bit=true)],
 ]
 
 # 查看当前VM中所有 ApplicationContext 实例, 返回实例数组
