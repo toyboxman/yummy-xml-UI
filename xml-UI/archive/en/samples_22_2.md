@@ -276,10 +276,20 @@ Valieva, who just 11 days ago was deemed unbeatable because of her difficult jum
 An air of awkwardness loomed over the victory ceremony on Thursday night, as Shcherbakova, 17, sprung onto the top step of the podium to accept her stuffed mascot panda, a fuzzy reminder of her win until she receives her gold medal on Friday.
 周四晚上的颁花仪式上笼罩着一股尴尬的气氛，17岁的谢尔巴科娃跳上领奖台，接受她的毛绒吉祥物“冰墩墩”，她将在周五领取金牌，在此之前，冰墩墩将一直作为她胜利的证物
 
-To make an Olympic ski jump, China clad a hillside in steel and blanketed it with artificial snow. To construct a high-speed rail line linking the venues and Beijing, engineers blasted tunnels through the surrounding mountains.
+To make an Olympic **ski jump**, China **clad a hillside in steel and blanketed it with artificial snow**. To construct a high-speed rail line linking the venues and Beijing, engineers **blasted tunnels** through the surrounding mountains.
+>ski jump 滑雪跳台  
+>clad[klæd] 穿衣的；被覆盖的; 在(金属)外面包上另一种金属  
+>hillside 小山坡  
+>blast tunnels 炸开隧道
+
 为了建造奥运滑雪跳台，中国在山坡上覆盖钢铁，在上面铺人工雪。为了修建一条连接场馆和北京的高速铁路，工程师在周围的山上炸开隧道
 
-More and more of them have concluded that the Games are not worth being left with a hefty bill, white elephant stadiums and fewer benefits from tourism than they had hoped. China’s concerns about the pandemic have dashed hopes that the Games would draw tourists.
+More and more of them have concluded that the Games **are not worth being left with a hefty bill, white elephant stadiums** and fewer benefits from tourism than they had hoped. China’s concerns about the pandemic have **dashed hopes** that the Games would draw tourists.
+>hefty[ˈhefti] 异常大的；笨重的  
+>hefty bill 巨额账单  
+>white elephant 昂贵又无用之物；累赘物  
+>dashed hope 破碎的希望
+
 越来越多的城市已经得出结论，奥运会后留下的巨额账单、大而无用的场馆、低于期望值的旅游收益是不值得的。中国对新冠疫情的担忧使奥运会吸引游客的希望破灭
 
 **Gustatory pleasure could be attained**, it turned out, with an open mind, an **enterprising spirit and tempered expectations**. In Beijing, the robot-made dishes were **precisely cooked — broccoli always crisp, wonton skins always bouncy** — but mostly uninspiring.

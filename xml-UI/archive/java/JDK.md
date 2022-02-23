@@ -1,13 +1,13 @@
 ***
 
 ## JDK operations
-- [´íÎó´¦Àí](#ÔËĞĞ´íÎó´¦Àí)
+- [é”™è¯¯å¤„ç†](#è¿è¡Œé”™è¯¯å¤„ç†)
 	- [Operation not permitted](#operation-not-permitted)
 	- [Unable to open socket file](#unable-to-open-socket-file)
 	- [Cannot open shared object file](#cannot-open-shared-object-file)
 	- [Can't attach to the process: ptrace](#cant-attach-to-the-process-ptrace)
-  - [JVMµÄÍâ¹Ò¼¼Êõ](https://mp.weixin.qq.com/s/cwU2rLOuwock048rKBz3ew)
-- [ÃüÁîÊ¹ÓÃ](#Ê¹ÓÃÃüÁî)
+  - [JVMçš„å¤–æŒ‚æŠ€æœ¯](https://mp.weixin.qq.com/s/cwU2rLOuwock048rKBz3ew)
+- [å‘½ä»¤ä½¿ç”¨](#ä½¿ç”¨å‘½ä»¤)
 	- [jps](#jps)
 	- [jstack](#jstack)
 	- [jmap](#jmap)
@@ -15,25 +15,25 @@
 	- [jstat](#jstat)
   - [javap](#javap)
   - [javadoc](#javadoc)
-- Debug/Monitor¿ªÔ´¹¤¾ß
+- Debug/Monitorå¼€æºå·¥å…·
   - [Arthas](#arthas)
-    - [Ó¦ÓÃ°¸Àı](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2MTY2MjE4OQ==&action=getalbum&album_id=1430941903897460741&subscene=189)
+    - [åº”ç”¨æ¡ˆä¾‹](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2MTY2MjE4OQ==&action=getalbum&album_id=1430941903897460741&subscene=189)
   - [jvm-sandbox](https://github.com/alibaba/jvm-sandbox)
   - [jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater)
   - [findtheflow](http://findtheflow.io/docs/doc_intellij.html#_how_to_use_flow_standalone_version)
   - [Bistoury](https://github.com/qunarcorp/bistoury)  
-    `ÔÚÏßdebug¹¦ÄÜÄ£Äâideµ÷ÊÔÌåÑé£¬Í¨¹ıweb½çÃæÌá¹©¶Ïµãµ÷ÊÔµÄ¹¦ÄÜ£¬¿ÉÒÔÔÚ²»×èÈûÓ¦ÓÃµÄÇé¿öÏÂ²¶»ñ¶Ïµã´¦µÄĞÅÏ¢(°üÀ¨±¾µØ±äÁ¿¡¢³ÉÔ±±äÁ¿¡¢¾²Ì¬±äÁ¿ºÍ·½·¨µ÷ÓÃÕ»)`
+    `åœ¨çº¿debugåŠŸèƒ½æ¨¡æ‹Ÿideè°ƒè¯•ä½“éªŒï¼Œé€šè¿‡webç•Œé¢æä¾›æ–­ç‚¹è°ƒè¯•çš„åŠŸèƒ½ï¼Œå¯ä»¥åœ¨ä¸é˜»å¡åº”ç”¨çš„æƒ…å†µä¸‹æ•è·æ–­ç‚¹å¤„çš„ä¿¡æ¯(åŒ…æ‹¬æœ¬åœ°å˜é‡ã€æˆå‘˜å˜é‡ã€é™æ€å˜é‡å’Œæ–¹æ³•è°ƒç”¨æ ˆ)`
   - [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer)
   - [BTrace](https://github.com/btraceio/btrace/wiki)
   - [vjtools](https://github.com/vipshop/vjtools)
-  - [µ÷ÊÔ¼à¿Ø¾­Ñé¼¯](https://github.com/vipcolud/monitor)
+  - [è°ƒè¯•ç›‘æ§ç»éªŒé›†](https://github.com/vipcolud/monitor)
   - [spring-loaded](https://github.com/spring-projects/spring-loaded)
 - Evolution
   - [new in Java 14](https://mkyong.com/java/what-is-new-in-java-14/)
 
 ***
 
-### ÔËĞĞ´íÎó´¦Àí
+### è¿è¡Œé”™è¯¯å¤„ç†
 #### Operation not permitted
 ```console
 #download jdk8 package
@@ -54,7 +54,7 @@ Java HotSpot(TM) 64-Bit Server VM warning: INFO: os::commit_memory(0x00007b9c510
 # An error report file with more information is saved as:
 # /root/grey/hs_err_pid28237.log
 ``` 
-°´ÕÕ[Á´½Ó](https://bugs.eclipse.org/bugs/show_bug.cgi?id=432069)½â¾ö·½°¸ĞŞ¸ÄÄÚ´æ²Ù×÷Ä£Ê½¿ÉÒÔ½â¾öÆô¶¯Ê§°ÜÎÊÌâ
+æŒ‰ç…§[é“¾æ¥](https://bugs.eclipse.org/bugs/show_bug.cgi?id=432069)è§£å†³æ–¹æ¡ˆä¿®æ”¹å†…å­˜æ“ä½œæ¨¡å¼å¯ä»¥è§£å†³å¯åŠ¨å¤±è´¥é—®é¢˜
 ```console 
 sudo paxctl -C /root/jdk/bin/java
 sudo paxctl -m /root/jdk/bin/java
@@ -73,11 +73,11 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
 2554: Unable to open socket file: target process not responding or HotSpot VM not loaded
 The -F option can be used when the target process is not responding
 ```
-Õâ¸ö´íÎó¿ÉÄÜÊÇÄ¿±êprocess hung×¡,¿ÉÒÔÇ¿ÖÆdump threadĞÅÏ¢
+è¿™ä¸ªé”™è¯¯å¯èƒ½æ˜¯ç›®æ ‡process hungä½,å¯ä»¥å¼ºåˆ¶dump threadä¿¡æ¯
 ```console 
 > jstack -l -F 2554
 ```
-Èç¹û³öÏÖdeduce type´íÎóÔò°´ÕÕÏÂÃæ´íÎó´¦Àí·½Ê½È¥ÅÅ³ı
+å¦‚æœå‡ºç°deduce typeé”™è¯¯åˆ™æŒ‰ç…§ä¸‹é¢é”™è¯¯å¤„ç†æ–¹å¼å»æ’é™¤
 #### Unable to deduce type of thread
 ```console 
 > jstack -l 26191
@@ -89,27 +89,27 @@ Deadlock Detection:
 
 java.lang.RuntimeException: Unable to deduce type of thread from address...
 ```
-Õâ¸ö´íÎóÌáÊ¾²»Ã÷È·£¬Êµ¼ÊÉÏÊÇÓÉÓÚÖ´ĞĞjstackµÄuserºÍjava processµÄowner²»Ò»ÖÂ
+è¿™ä¸ªé”™è¯¯æç¤ºä¸æ˜ç¡®ï¼Œå®é™…ä¸Šæ˜¯ç”±äºæ‰§è¡Œjstackçš„userå’Œjava processçš„ownerä¸ä¸€è‡´
 ```console 
-#²é¿´26191½ø³ÌµÄowner
+#æŸ¥çœ‹26191è¿›ç¨‹çš„owner
 > ps -ef | grep 26191
 > sudo -u owner jstack -l 26191
 ```
-Èç¹û³öÏÖlibÕÒ²»µ½, ÎÄ¼şÄ¿Â¼²»´æÔÚ£¬°´ÕÕÏÂÃæ´¦ÀíÅÅ³ı´íÎó
+å¦‚æœå‡ºç°libæ‰¾ä¸åˆ°, æ–‡ä»¶ç›®å½•ä¸å­˜åœ¨ï¼ŒæŒ‰ç…§ä¸‹é¢å¤„ç†æ’é™¤é”™è¯¯
 #### cannot open shared object file
 ```console 
 > sudo -u owner jstack -l 26191> ls -al /
 drwx------   7 root root     4096 May 24 06:10 root
 ./jstack: error while loading shared libraries: libjli.so: cannot open shared object file: No such file or directory
 ```
-ÕâÖÖ´íÎóÊµ¼ÊÉÏÊÇÓÉÓÚµ±Ç°Ä¿Â¼Ö´ĞĞÈ¨ÏŞ²»×ãÔì³É
+è¿™ç§é”™è¯¯å®é™…ä¸Šæ˜¯ç”±äºå½“å‰ç›®å½•æ‰§è¡Œæƒé™ä¸è¶³é€ æˆ
 ```console 
-#²é¿´Ö´ĞĞÂ·¾¶È¨ÏŞ
+#æŸ¥çœ‹æ‰§è¡Œè·¯å¾„æƒé™
 > pwd
 /root/jdk/bin
-#ÓÉÓÚ·ÇrootÓÃ»§ÎŞ·¨·ÃÎÊ²Ù×÷,ĞèÒª¸øownerÓÃ»§²Ù×÷È¨ÏŞ
+#ç”±äºérootç”¨æˆ·æ— æ³•è®¿é—®æ“ä½œ,éœ€è¦ç»™ownerç”¨æˆ·æ“ä½œæƒé™
 > chmod 777 /root
-# ³É¹¦½«½ø³ÌÕ»ĞÅÏ¢dumpµ½ÎÄ¼şÖĞ
+# æˆåŠŸå°†è¿›ç¨‹æ ˆä¿¡æ¯dumpåˆ°æ–‡ä»¶ä¸­
 > sudo -u owner jstack -l 26191 > stack.log
 ```
 #### Can't attach to the process: ptrace
@@ -118,23 +118,23 @@ sudo -u nsx ./jmap 1180
 Attaching to process ID 1180, please wait...
 Error attaching to process: sun.jvm.hotspot.debugger.DebuggerException: Can't attach to the process: ptrace(PTRACE_ATTACH, ..)...
 ```
-ÕâÖÖ´íÎóÊÇÓÉÓÚÏµÍ³ptrace(process trace)Ã»ÓĞÉè¶¨³Éµ÷ÊÔÄ£Ê½
+è¿™ç§é”™è¯¯æ˜¯ç”±äºç³»ç»Ÿptrace(process trace)æ²¡æœ‰è®¾å®šæˆè°ƒè¯•æ¨¡å¼
 ```console 
-#ÁÙÊ±ĞŞ¸Ä·½°¸ÊÇ½«ÄÚºË±äÁ¿ĞŞ¸Ä,ÖØÆôºó»áÊ§Ğ§
-#²»¹ıÓĞĞ©ÏµÍ³²¢ÎŞ´ËÎÄ¼ş/proc/sys/kernel/yama/ptrace_scope
+#ä¸´æ—¶ä¿®æ”¹æ–¹æ¡ˆæ˜¯å°†å†…æ ¸å˜é‡ä¿®æ”¹,é‡å¯åä¼šå¤±æ•ˆ
+#ä¸è¿‡æœ‰äº›ç³»ç»Ÿå¹¶æ— æ­¤æ–‡ä»¶/proc/sys/kernel/yama/ptrace_scope
 $ echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
 
-#ÓÀ¾ÃĞŞ¸Ä·½°¸ÊÇ½«ptraceµÄ¿ª¹Ø´ò¿ª
+#æ°¸ä¹…ä¿®æ”¹æ–¹æ¡ˆæ˜¯å°†ptraceçš„å¼€å…³æ‰“å¼€
 $ sudo vi /etc/sysctl.d/10-ptrace.conf
-#½«ptrace_scopeÖµ¸Ä³É0
-#ÖØÆôÏµÍ³
+#å°†ptrace_scopeå€¼æ”¹æˆ0
+#é‡å¯ç³»ç»Ÿ
 kernel.yama.ptrace_scope = 0
 ```
 
-### ÃüÁî
+### å‘½ä»¤
 #### jps
 ```console 
-#²é¿´µ±Ç°jvmÊµÀı
+#æŸ¥çœ‹å½“å‰jvmå®ä¾‹
  > jps
 4048 Jps
 9653 RemoteMavenServer
@@ -147,7 +147,7 @@ kernel.yama.ptrace_scope = 0
 ```
 #### jstack
 ```console 
-#²é¿´µ±Ç°stackĞÅÏ¢
+#æŸ¥çœ‹å½“å‰stackä¿¡æ¯
 #connect to running process
 #-m to print both java and native frames (mixed mode)
 #-l  long listing. Prints additional information about locks
@@ -162,7 +162,7 @@ kernel.yama.ptrace_scope = 0
 ```
 #### jmap
 ```console 
-#dumpµ±Ç°¶ÑĞÅÏ¢
+#dumpå½“å‰å †ä¿¡æ¯
 # -dump:<dump-options> to dump java heap in hprof binary format
 #		<dump-options>
 #   			live     dump only live objects; if not specified,
@@ -171,8 +171,8 @@ kernel.yama.ptrace_scope = 0
 #				file=<file>  dump heap to <file>
 #
 > sudo -u owner ./jmap -dump:live,format=b,file=heap.bin 1180
-# dump³öÀ´µÄbinÎÄ¼ş¿ÉÒÔÓÃjvisualvm´ò¿ª Ò²¿ÉÒÔÓÃjhat´ò¿ª
-# jhat»áÆô¶¯Ò»¸öweb·şÎñ,²»¹ıjvisualvm¿ÉÊÓ»¯·ÖÎö¸üºÃ
+# dumpå‡ºæ¥çš„binæ–‡ä»¶å¯ä»¥ç”¨jvisualvmæ‰“å¼€ ä¹Ÿå¯ä»¥ç”¨jhatæ‰“å¼€
+# jhatä¼šå¯åŠ¨ä¸€ä¸ªwebæœåŠ¡,ä¸è¿‡jvisualvmå¯è§†åŒ–åˆ†ææ›´å¥½
 > ./jhat heap.bin  
 Reading from heap.bin...
 Dump file created Thu May 24 07:13:03 UTC 2018
@@ -185,7 +185,7 @@ Started HTTP server on port 7000
 Server is ready
 
 
-#²é¿´µ±Ç°¶ÑĞÅÏ¢
+#æŸ¥çœ‹å½“å‰å †ä¿¡æ¯
 #print same info as Solaris pmap
 #-F      force. Use with -dump:<dump-options> <pid> or -histo
 #          to force a heap dump or histogram when <pid> does not respond
@@ -234,7 +234,7 @@ num     #instances         #bytes  class name
 ```
 #### jinfo
 ```console 
-#²é¿´µ±Ç°jvmÊµÀıµÄĞÅÏ¢
+#æŸ¥çœ‹å½“å‰jvmå®ä¾‹çš„ä¿¡æ¯
  > jinfo 29620
 ...
 Java System Properties:
@@ -243,11 +243,11 @@ java.runtime.name = Java(TM) SE Runtime Environment
 sun.boot.library.path = /usr/jdk/instances/jdk1.6.0/jre/lib/sparc
 java.vm.version = 1.6.0-rc-b100
 ...
-#²é¿´dumpÎÄ¼şÖĞĞÅÏ¢
+#æŸ¥çœ‹dumpæ–‡ä»¶ä¸­ä¿¡æ¯
 > jinfo $JAVA_HOME/bin/java core.29620
 ```
 #### jstat
-²é¿´¼°Õï¶Ïµ±Ç°jvmÊµÀıµÄĞÔÄÜÎÊÌâ
+æŸ¥çœ‹åŠè¯Šæ–­å½“å‰jvmå®ä¾‹çš„æ€§èƒ½é—®é¢˜
 ```console 
 #Samples for Generation Collection
 # 2834 is process id
@@ -286,7 +286,7 @@ Timestamp    OGCMN     OGCMX       OGC        OC   YGC   FGC     FGCT     GCT
 ```
 
 #### javap
-·´»ã±à×Ö½ÚÂëÎÄ¼ş
+åæ±‡ç¼–å­—èŠ‚ç æ–‡ä»¶
 ```console
 # -s Print internal type signatures
 > javap -s java.lang.String | less
@@ -300,56 +300,56 @@ Timestamp    OGCMN     OGCMX       OGC        OC   YGC   FGC     FGCT     GCT
 ```
 
 #### javadoc
-¸ù¾İÔ´Âë×¢ÊÍ²úÉú±ê×¼docÎÄµµ
+æ ¹æ®æºç æ³¨é‡Šäº§ç”Ÿæ ‡å‡†docæ–‡æ¡£
 ```console
-# -d Ö¸¶¨htmlÉú³ÉÎ»ÖÃ
+# -d æŒ‡å®šhtmlç”Ÿæˆä½ç½®
 javadoc common/java/tracing/src/main/java/example/tracing/*.java -d ./javadoc/
 ```
 
 #### Arthas
 - [Diagnostic Tool Arthas](https://github.com/alibaba/arthas)
-- [ÖĞÎÄÊÖ²á](https://arthas.gitee.io/trace.html)
+- [ä¸­æ–‡æ‰‹å†Œ](https://arthas.gitee.io/trace.html)
 ```console
-# ÏÂÔØÔËĞĞ°ü
+# ä¸‹è½½è¿è¡ŒåŒ…
 curl -O https://alibaba.github.io/arthas/arthas-boot.jar
-# Æô¶¯½ø³Ì
+# å¯åŠ¨è¿›ç¨‹
 java -jar arthas-boot.jar
 
-# Èç¹ûÄ¿±êjvmÊÇjreÆô¶¯£¬ĞèÒªÕÒÒ»¸ö¶ÔÓ¦µÄjdk°æ±¾
-# ×î¼òµ¥·½Ê½ÊÇÔÚµ÷ÊÔ»úÆ÷ÉÏÏÂÔØÒ»¸öÏàÍ¬°æ±¾»òÂÔ¸ß°æ±¾µÄjdk£¬È»ºóÍ¨¹ıjdkÖĞjavaÀ´Æô¶¯
-# azulµÄzuluÊÇ»ùÓÚopenjdkµÄÒ»ÖÖjdk·¢ĞÍ°æ±¾
+# å¦‚æœç›®æ ‡jvmæ˜¯jreå¯åŠ¨ï¼Œéœ€è¦æ‰¾ä¸€ä¸ªå¯¹åº”çš„jdkç‰ˆæœ¬
+# æœ€ç®€å•æ–¹å¼æ˜¯åœ¨è°ƒè¯•æœºå™¨ä¸Šä¸‹è½½ä¸€ä¸ªç›¸åŒç‰ˆæœ¬æˆ–ç•¥é«˜ç‰ˆæœ¬çš„jdkï¼Œç„¶åé€šè¿‡jdkä¸­javaæ¥å¯åŠ¨
+# azulçš„zuluæ˜¯åŸºäºopenjdkçš„ä¸€ç§jdkå‘å‹ç‰ˆæœ¬
 wget https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-jdk8.0.282-linux_x64.tar.gz
-# Ò²¿ÉÒÔ´Ó¶ÔÓ¦jdk¿½±´jreÈ±Ê§ÎÄ¼ş
+# ä¹Ÿå¯ä»¥ä»å¯¹åº”jdkæ‹·è´jreç¼ºå¤±æ–‡ä»¶
 cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
-# Èç¹ûÄ¿±êjre libÖĞÈ±ÉÙtools.jar£¬ĞèÒª´ÓjdkÖĞ¸´ÖÆÒ»·İ
+# å¦‚æœç›®æ ‡jre libä¸­ç¼ºå°‘tools.jarï¼Œéœ€è¦ä»jdkä¸­å¤åˆ¶ä¸€ä»½
 cp /usr/java/jdk1.8.0_251/lib/tools.jar /usr/java/jre1.8.0_251/lib
 
-# Èç¹ûÄ¿±êjvm²»ÊÇrootÓÃ»§È¨ÏŞÆô¶¯£¬ÀıÈçÊÇprotonÓÃ»§Ö´ĞĞ
+# å¦‚æœç›®æ ‡jvmä¸æ˜¯rootç”¨æˆ·æƒé™å¯åŠ¨ï¼Œä¾‹å¦‚æ˜¯protonç”¨æˆ·æ‰§è¡Œ
 chown -hR proton arthas-boot.jar 
-# °ÑÖ´ĞĞ°ü´ÓrootÄ¿Â¼ÒÆ¶¯µ½protonÓÃ»§È¨ÏŞÄ¿Â¼ÖĞ
+# æŠŠæ‰§è¡ŒåŒ…ä»rootç›®å½•ç§»åŠ¨åˆ°protonç”¨æˆ·æƒé™ç›®å½•ä¸­
 mv arthas-boot.jar /opt/app/proton-tomcat
-# ÓÃprotonÓÃ»§È¨ÏŞÆô¶¯½ø³Ì£¬attachµ½ jvm 3331½ø³Ì
+# ç”¨protonç”¨æˆ·æƒé™å¯åŠ¨è¿›ç¨‹ï¼Œattachåˆ° jvm 3331è¿›ç¨‹
 sudo -u proton /usr/java/jdk1.8.0_251/bin/java -jar /opt/app/proton-tomcat/arthas-boot.jar 3331
 ```
 ##### search class  
-µ±search loaded classÊ±ºò£¬³£³£Åöµ½classÕÒ²»µ½,È·ÈÏjarÎÄ¼şÒÑ¾­·ÅÔÚclasspath. Èç¹ûjarÒÑ¾­ÔÚ-cpÖ¸¶¨Ä¿Â¼ÖĞ£¬µ«ÈÔÈ»ËÑÑ°²»µ½Ïà¹ØÀàÈçÏÂ
+å½“search loaded classæ—¶å€™ï¼Œå¸¸å¸¸ç¢°åˆ°classæ‰¾ä¸åˆ°,ç¡®è®¤jaræ–‡ä»¶å·²ç»æ”¾åœ¨classpath. å¦‚æœjarå·²ç»åœ¨-cpæŒ‡å®šç›®å½•ä¸­ï¼Œä½†ä»ç„¶æœå¯»ä¸åˆ°ç›¸å…³ç±»å¦‚ä¸‹
 ```console
 [arthas@27705]$ sc *MyContext
 Affect(row-cnt:0) cost in 2319 ms.
 ```
-ÕâÖÖÇé¿öÊÇÓÉÓÚÄ¿±êclassÉĞÎ´±»jvm¼ÓÔØ£¬Ò»°ãÊÇÓÉÓÚÄ¿±êÀàÎ´±»ÆäËûclassÖ±½Óµ÷ÓÃ£¬µ¼ÖÂjvmÃ»ÓĞ¼ÓÔØ£¬½â¾ö·½Ê½Ö»Òª´¥·¢Ò»´Îµ÷ÓÃ¾Í¿ÉÒÔsearchµ½¡£
+è¿™ç§æƒ…å†µæ˜¯ç”±äºç›®æ ‡classå°šæœªè¢«jvmåŠ è½½ï¼Œä¸€èˆ¬æ˜¯ç”±äºç›®æ ‡ç±»æœªè¢«å…¶ä»–classç›´æ¥è°ƒç”¨ï¼Œå¯¼è‡´jvmæ²¡æœ‰åŠ è½½ï¼Œè§£å†³æ–¹å¼åªè¦è§¦å‘ä¸€æ¬¡è°ƒç”¨å°±å¯ä»¥searchåˆ°ã€‚
 ```console
-# ²é¿´class¾ßÌåĞÅÏ¢
+# æŸ¥çœ‹classå…·ä½“ä¿¡æ¯
 [arthas@24124]$ sc -d *ConfigConverter
 
-# ²é¿´¼ÓÔØclassµÄclassloader±êÊ¾ºÅ
+# æŸ¥çœ‹åŠ è½½classçš„classloaderæ ‡ç¤ºå·
 [arthas@24124]$ sc -d *ConfigConverter | grep classLoaderHash
 classLoaderHash   1911bd1e
-# ²é¿´classloader¼ÓÔØÄÄĞ©ÎÄ¼ş
+# æŸ¥çœ‹classloaderåŠ è½½å“ªäº›æ–‡ä»¶
 [arthas@24124]$ classloader -c 1911bd1e
 ```
 ##### search method
-ËÑÑ°classÈ«²¿method¿ÉÒÔÈçÏÂ²Ù×÷
+æœå¯»classå…¨éƒ¨methodå¯ä»¥å¦‚ä¸‹æ“ä½œ
 ```console
 [arthas@17977]$ sm example.messaging.RpcServices
 example.messaging.RpcServices <init>()V
@@ -359,13 +359,13 @@ example.messaging.RpcServices setRpcEnabled(Z)V
 example.messaging.RpcServices getServiceEndpoint(Ljava/lang/String;)Ljava/lang/String;
 Affect(row-cnt:14) cost in 339 ms.
 
-# ËÑÑ°Ïà¹Ømethod
+# æœå¯»ç›¸å…³method
 [arthas@28030]$ sm *facade.LogicalSwitchImpl delete*
 com.example.LogicalSwitchFacadeImpl deleteLogicalSwitch(Ljava/lang/String;)V
 com.example.LogicalSwitchFacadeImpl deleteLogicalSwitch_aroundBody6(Lorg/aspectj/lang/JoinPoint;)V
 Affect(row-cnt:2) cost in 188 ms.
 
-# ²é¿´method¾ßÌåĞÅÏ¢
+# æŸ¥çœ‹methodå…·ä½“ä¿¡æ¯
 [arthas@28030]$ sm -d java.lang.String toString
  declaring-class  java.lang.String                                                                                                
  method-name      toString                                                                                                        
@@ -377,37 +377,37 @@ Affect(row-cnt:2) cost in 188 ms.
  classLoaderHash  null   
 ```
 ##### [watch](https://arthas.gitee.io/watch.html)
-È·¶¨methodºó¾Í¿ÉÒÔwatch²Ù×÷
+ç¡®å®šmethodåå°±å¯ä»¥watchæ“ä½œ
 ```console
-# Ä¬ÈÏÇé¿öÊä³öµ÷ÓÃ·½·¨µÄ {parameter/·½·¨ËùÊô class instance/return}
+# é»˜è®¤æƒ…å†µè¾“å‡ºè°ƒç”¨æ–¹æ³•çš„ {parameter/æ–¹æ³•æ‰€å± class instance/return}
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint
 Affect(class count: 1 , method count: 1) cost in 481 ms, listenerId: 1
 ts=2020-12-16 13:30:41; [cost=1.273833ms] result=@ArrayList[
-    # µÚÒ»Ïî·µ»ØÊÇ·½·¨ÊäÈë²ÎÊıµÄarray£¬ size=1±íÊ¾Ö»ÓĞÒ»¸ö²ÎÊı
+    # ç¬¬ä¸€é¡¹è¿”å›æ˜¯æ–¹æ³•è¾“å…¥å‚æ•°çš„arrayï¼Œ size=1è¡¨ç¤ºåªæœ‰ä¸€ä¸ªå‚æ•°
     @Object[][isEmpty=false;size=1],
-    # µÚ¶şÏî·µ»ØÊÇ·½·¨ËùÊôµÄclass instance
+    # ç¬¬äºŒé¡¹è¿”å›æ˜¯æ–¹æ³•æ‰€å±çš„class instance
     @NsxRpcServices[example.messaging.RpcServices@46ba4da8],
-    # µÚÈıÏî·µ»ØÊÇ·½·¨·µ»ØÖµ
+    # ç¬¬ä¸‰é¡¹è¿”å›æ˜¯æ–¹æ³•è¿”å›å€¼
     null,
 ]
 
-# ²é¿´ class instance µÄ fields
+# æŸ¥çœ‹ class instance çš„ fields
 [arthas@16754]$ watch example.tracing.Tracer isDumbMode "{target}" -x 2
 traceConfig=@DefaultTraceConfig[DefaultTraceConfig{traceConfigName='remote_trace', flushInterval=1000, maxQueueSize=10000, samplerType='const', samplerParam=1, collectorIp='127.0.0.1', collectorPort='6831', isLogSpans='false'}],
 
-# Èç¹ûÏë¿´µ½¸ü¶àÏ¸½Ú£¬Èç²ÎÊıÏ¸½ÚµÈ£¬¿ÉÒÔÍ¨¹ı -x 2 Éè¶¨ÍùÄÚ¿´Á½²ã
-# OGNL±í´ïÊ½ "{params,target,returnObj}" Éè¶¨result°üº¬²ÎÊı/ÀàÊµÀı/·µ»ØÖµÊı¾İ, ÕâÊÇÄ¬ÈÏµÄ·µ»ØÊı¾İ¸ñÊ½
-# Éè¶¨ "{params,returnObj}" resultÖ»·µ»Ø ²ÎÊıºÍ·µ»ØÖµ
+# å¦‚æœæƒ³çœ‹åˆ°æ›´å¤šç»†èŠ‚ï¼Œå¦‚å‚æ•°ç»†èŠ‚ç­‰ï¼Œå¯ä»¥é€šè¿‡ -x 2 è®¾å®šå¾€å†…çœ‹ä¸¤å±‚
+# OGNLè¡¨è¾¾å¼ "{params,target,returnObj}" è®¾å®šresultåŒ…å«å‚æ•°/ç±»å®ä¾‹/è¿”å›å€¼æ•°æ®, è¿™æ˜¯é»˜è®¤çš„è¿”å›æ•°æ®æ ¼å¼
+# è®¾å®š "{params,returnObj}" resultåªè¿”å› å‚æ•°å’Œè¿”å›å€¼
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params,target,returnObj}" -x 2
 Press Q or Ctrl+C to abort.
 Affect(class count: 1 , method count: 1) cost in 421 ms, listenerId: 2
 ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
     @Object[][
-        # µÚÒ»ÏîµÚ¶ş²ã±íÊ¾²ÎÊıÀàĞÍÊÇstring£¬Öµ ¡°Traceflow¡±
+        # ç¬¬ä¸€é¡¹ç¬¬äºŒå±‚è¡¨ç¤ºå‚æ•°ç±»å‹æ˜¯stringï¼Œå€¼ â€œTraceflowâ€
         @String[Traceflow],
     ],
     @NsxRpcServices[
-        # µÚ¶şÏîµÚ¶ş²ã±íÊ¾RpcServicesÊµÀıµÄfieldsµÄÖµ
+        # ç¬¬äºŒé¡¹ç¬¬äºŒå±‚è¡¨ç¤ºRpcServiceså®ä¾‹çš„fieldsçš„å€¼
         logger=@Logger[example.logging.Logger@19340508],
         services=@ConcurrentHashMap[isEmpty=true;size=0],
         rpcEnabled=@Boolean[true],
@@ -415,46 +415,52 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
     null,
 ]
 
-# Ö»¿´Èë²ÎÏ¸½Ú
+# åªçœ‹å…¥å‚ç»†èŠ‚
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params}" -x 3
-# Ö»¿´Âú×ãÈë²ÎÊıÄ¿Îª6¸öµÄmethodÏ¸½Ú,¹ıÂËÍ¬ÃûoverloadµÄÆäËû·½·¨
+# åªçœ‹æ»¡è¶³å…¥å‚æ•°ç›®ä¸º6ä¸ªçš„methodç»†èŠ‚,è¿‡æ»¤åŒåoverloadçš„å…¶ä»–æ–¹æ³•
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params[0],params[1]}" "params.length==6" -x 2
-# ÃüÁî¹ıÂË²ÎÊıÖ»ÓĞÒ»¸ö£¬¶à¸öÌõ¼şĞèÒªÍ¨¹ıÂß¼­²Ù×÷·û && || À´¹ØÁª
-# ÏÂÃæ¹ıÂËÌõ¼şÊÇ Èë²Î¸öÊı6¸ö²¢ÇÒÆäÖĞµÚÒ»¸ö²ÎÊı(Îª¼¯ºÏÀàĞÍ)µÄsizeÒª´óÓÚ2
+# å‘½ä»¤è¿‡æ»¤å‚æ•°åªæœ‰ä¸€ä¸ªï¼Œå¤šä¸ªæ¡ä»¶éœ€è¦é€šè¿‡é€»è¾‘æ“ä½œç¬¦ && || æ¥å…³è”
+# ä¸‹é¢è¿‡æ»¤æ¡ä»¶æ˜¯ å…¥å‚ä¸ªæ•°6ä¸ªå¹¶ä¸”å…¶ä¸­ç¬¬ä¸€ä¸ªå‚æ•°(ä¸ºé›†åˆç±»å‹)çš„sizeè¦å¤§äº2
 [arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].size()>2" -x 2
-# ÏÂÃæ¹ıÂËÌõ¼şÊÇ Èë²Î¸öÊı6¸ö²¢ÇÒÆäÖĞµÚÒ»¸ö²ÎÊı(Îª¼¯ºÏÀàĞÍ)µÄelements°üº¬MyProviderÔªËØÀàĞÍµÄ¸öÊıÒª´óÓÚ0
-# ¶ÔÓÚ¼¯ºÏÀàĞÍ²ÎÊı±í´ïÊ½ params[0].{? #this instanceof com.example.MyProvider}½«·µ»ØÒ»¸öĞÂ¼¯ºÏ¶ÔÏó
+# ä¸‹é¢è¿‡æ»¤æ¡ä»¶æ˜¯ å…¥å‚ä¸ªæ•°6ä¸ªå¹¶ä¸”å…¶ä¸­ç¬¬ä¸€ä¸ªå‚æ•°(ä¸ºé›†åˆç±»å‹)çš„elementsåŒ…å«MyProviderå…ƒç´ ç±»å‹çš„ä¸ªæ•°è¦å¤§äº0
+# å¯¹äºé›†åˆç±»å‹å‚æ•°è¡¨è¾¾å¼ params[0].{? #this instanceof com.example.MyProvider}å°†è¿”å›ä¸€ä¸ªæ–°é›†åˆå¯¹è±¡
 [arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].{? #this instanceof com.example.MyProvider}.size()>0" -x 2
 ```
 
 ##### [stack](https://arthas.gitee.io/stack.html)
-Èç¹ûÏë²é¿´µ÷ÓÃÕ»¿ÉÒÔstack²Ù×÷, Ò»Ö±ÄÜÉÏËİ¿´µ½Ë­µ÷ÓÃµ½´Ë·½·¨
+å¦‚æœæƒ³æŸ¥çœ‹è°ƒç”¨æ ˆå¯ä»¥stackæ“ä½œ, ä¸€ç›´èƒ½ä¸Šæº¯çœ‹åˆ°è°è°ƒç”¨åˆ°æ­¤æ–¹æ³•
 ```console
-# ¼ÇÂ¼LogicalSwitchImplËùÓĞ·½·¨±»´¥·¢µÄµ÷ÓÃÕ»Êı¾İ
+# è®°å½•LogicalSwitchImplæ‰€æœ‰æ–¹æ³•è¢«è§¦å‘çš„è°ƒç”¨æ ˆæ•°æ®
 [arthas@28030]$ stack *facade.LogicalSwitchImpl *
-# °´Ìõ¼ş¼ÇÂ¼µ÷ÓÃÕ»Êı¾İ
+# æŒ‰æ¡ä»¶è®°å½•è°ƒç”¨æ ˆæ•°æ®
 [arthas@28030]$ stack *PolicyEngineHandler invokeProviders "params.length==6 && params[0].{? #this instanceof com.example.MyProvider}.size()>0"
 ```
 
 ##### [trace](https://arthas.gitee.io/trace.html)
-Èç¹ûÏë²é¿´µ÷ÓÃÕ»¿ÉÒÔtrace²Ù×÷£¬ÍùÏÂ¿´µ½ºóÃæÃ¿Ò»¸ö±»µ÷ÓÃµÄ·½·¨¼°Ö´ĞĞÊ±¼ä
+å¦‚æœæƒ³æŸ¥çœ‹è°ƒç”¨æ ˆå¯ä»¥traceæ“ä½œï¼Œå¾€ä¸‹çœ‹åˆ°åé¢æ¯ä¸€ä¸ªè¢«è°ƒç”¨çš„æ–¹æ³•åŠæ‰§è¡Œæ—¶é—´
 ```console
-# ¼ÇÂ¼LogicalSwitchImplËùÓĞ·½·¨±»´¥·¢µÄµ÷ÓÃÕ»Êı¾İ
+# è®°å½•LogicalSwitchImplæ‰€æœ‰æ–¹æ³•è¢«è§¦å‘çš„è°ƒç”¨æ ˆæ•°æ®
 [arthas@28030]$ trace *facade.LogicalSwitchImpl delete*
-# Í¬ÉÏÃæÃüÁîµ«ÊÇ¿ÉÒÔ×·×ÙjdkµÄ·½·¨µ÷ÓÃ
+# åŒä¸Šé¢å‘½ä»¤ä½†æ˜¯å¯ä»¥è¿½è¸ªjdkçš„æ–¹æ³•è°ƒç”¨
 [arthas@28030]$ trace --skipJDKMethod false *LogicalSwitchImpl delete*trace
 
-# ¼ÇÂ¼LogicalSwitchImplËùÓĞ¹¹Ôì·½·¨±»µ÷ÓÃµÄÕ»Êı¾İ
+# è®°å½•LogicalSwitchImplæ‰€æœ‰æ„é€ æ–¹æ³•è¢«è°ƒç”¨çš„æ ˆæ•°æ®
 [arthas@28030]$ trace *facade.LogicalSwitchImpl <init>
 
-# Í¨¹ıÕıÔò±í´ï×·×Ù¶à¸ö¶ÔÏó·½·¨
+# é€šè¿‡æ­£åˆ™è¡¨è¾¾è¿½è¸ªå¤šä¸ªå¯¹è±¡æ–¹æ³•
 trace -E class1|class2 method1|method2
 ```
 
 ##### [vmtool](https://arthas.gitee.io/vmtool.html)
-ÔÊĞí´Óµ±Ç°VMÖĞ²éÕÒµ½ÊµÀı£¬²¢Ö´ĞĞÒ»Ğ©·½·¨
+å…è®¸ä»å½“å‰VMä¸­æŸ¥æ‰¾åˆ°å®ä¾‹ï¼Œå¹¶æ‰§è¡Œä¸€äº›æ–¹æ³•
 ```console
-# ²é¿´µ±Ç°VMÖĞËùÓĞ ApplicationContext ÊµÀı, ·µ»ØÊµÀıÊı×é
+# æŸ¥çœ‹å½“å‰VMä¸­æ‰€æœ‰ JaegerTracer å®ä¾‹, è¿”å›å®ä¾‹æ•°ç»„
+[arthas@8873]$ vmtool --action getInstances --className io.jaegertracing.internal.JaegerTracer
+@JaegerTracer[][
+    @JaegerTracer[JaegerTracer(version=Java-1.3.2, serviceName=policy, reporter=RemoteReporter(sender=HttpSender(), closeEnqueueTimeout=1000), sampler=ConstSampler(decision=true, tags={sampler.type=const, sampler.param=true}), tags={hostname=liujin-svc, jaeger.version=Java-1.3.2, ip=10.191.191.99}, zipkinSharedRpcSpan=false, expandExceptionLogs=false, useTraceId128Bit=true)],
+]
+
+# æŸ¥çœ‹å½“å‰VMä¸­æ‰€æœ‰ ApplicationContext å®ä¾‹, è¿”å›å®ä¾‹æ•°ç»„
 [arthas@26393]$ vmtool --action getInstances --className org.springframework.context.ApplicationContext
 @ApplicationContext[][
     @ClassPathXmlApplicationContext[org.springframework.context.support.ClassPathXmlApplicationContext@30459c85, started on Wed Oct 13 08:20:54 UTC 2021, parent: Root WebApplicationContext],
@@ -462,23 +468,23 @@ trace -E class1|class2 method1|method2
     @AnnotationConfigWebApplicationContext[Root WebApplicationContext, started on Wed Oct 13 08:20:24 UTC 2021],
 ]
 
-# µ÷ÓÃÖ¸¶¨ÊµÀıµÄ·½·¨(Í¨¹ıÉÏÒ»¸ö·½·¨·µ»ØµÄÊı×éÏÂ±êÀ´Ö¸¶¨ÊµÀı£¬Ö»ÄÜµ÷ÓÃÊµÀıµÄpublic·½·¨)
+# è°ƒç”¨æŒ‡å®šå®ä¾‹çš„æ–¹æ³•(é€šè¿‡ä¸Šä¸€ä¸ªæ–¹æ³•è¿”å›çš„æ•°ç»„ä¸‹æ ‡æ¥æŒ‡å®šå®ä¾‹ï¼Œåªèƒ½è°ƒç”¨å®ä¾‹çš„publicæ–¹æ³•)
 [arthas@26393]$ vmtool --action getInstances  --className org.springframework.context.ApplicationContext --express 'instances[1].toString()'
 @String[WebApplicationContext for namespace 'spring-servlet', started on Wed Oct 13 08:23:05 UTC 2021, parent: org.springframework.context.support.ClassPathXmlApplicationContext@30459c85]
 
-# Õ¹¿ªÖ¸¶¨ÊµÀıµÄÁ½²ã½á¹¹(ÓÃÀ´²é¿´ÊµÀıµÄ¸÷¸öfieldsµÄµ±Ç°Öµ)
+# å±•å¼€æŒ‡å®šå®ä¾‹çš„ä¸¤å±‚ç»“æ„(ç”¨æ¥æŸ¥çœ‹å®ä¾‹çš„å„ä¸ªfieldsçš„å½“å‰å€¼)
 [arthas@26393]$ vmtool --action getInstances  --className org.springframework.context.ApplicationContext --express 'instances[0]' -x 2
 
-# Ö¸¶¨classloaderÖĞµÄÊµÀı£¬½øĞĞÕ¹¿ª²é¿´²Ù×÷£¬µ÷ÓÃgetBeanDefinitionNames·½·¨
+# æŒ‡å®šclassloaderä¸­çš„å®ä¾‹ï¼Œè¿›è¡Œå±•å¼€æŸ¥çœ‹æ“ä½œï¼Œè°ƒç”¨getBeanDefinitionNamesæ–¹æ³•
 [arthas@26393]$ vmtool --action getInstances -c 19469ea2 --className org.springframework.context.ApplicationContext -x 2
 
 [arthas@26393]$ vmtool --action getInstances --classLoaderClass org.springframework.boot.loader.LaunchedURLClassLoader --className org.springframework.context.ApplicationContext --express 'instances[0].getBeanDefinitionNames()'
 ```
 
 ##### [getstatic](https://arthas.gitee.io/getstatic.html)
-Èç¹ûÏë²é¿´ÀàµÄ¾²Ì¬ÓòÖµ£¬¿ÉÒÔÖ±½Ó²é¿´¶ø²»ÂÛÆäÊÇ·ñÊÇprivate
+å¦‚æœæƒ³æŸ¥çœ‹ç±»çš„é™æ€åŸŸå€¼ï¼Œå¯ä»¥ç›´æ¥æŸ¥çœ‹è€Œä¸è®ºå…¶æ˜¯å¦æ˜¯private
 ```console
-# ²é¿´SystemµÄ¾²Ì¬Óò out
+# æŸ¥çœ‹Systemçš„é™æ€åŸŸ out
 [arthas@14150]$ getstatic java.lang.System out
 field: out
 @SystemLogHandler[
@@ -495,11 +501,11 @@ field: out
 ]
 Affect(row-cnt:1) cost in 101 ms.
 
-# Èç¹û²é¿´class²»ÔÚµ±Ç°classloader£¬»¹¿ÉÒÔÖ¸¶¨hashÖµ
+# å¦‚æœæŸ¥çœ‹classä¸åœ¨å½“å‰classloaderï¼Œè¿˜å¯ä»¥æŒ‡å®šhashå€¼
 [arthas@14150]$ sc -d <class>
 [arthas@14150]$ getstatic -c 3d4eac69 <class> <field>
-# »¹¿ÉÒÔ´îÅä ognl Ìõ¼şÊ½À´´¦ÀíÊä³ö½á¹û
-# nÊÇÒ»¸öMapÓò£¬MapµÄKeyÊÇÒ»¸öEnum£¬¹ıÂË³öMapÖĞKeyÎªSTOPµÄEnumÖµ
+# è¿˜å¯ä»¥æ­é… ognl æ¡ä»¶å¼æ¥å¤„ç†è¾“å‡ºç»“æœ
+# næ˜¯ä¸€ä¸ªMapåŸŸï¼ŒMapçš„Keyæ˜¯ä¸€ä¸ªEnumï¼Œè¿‡æ»¤å‡ºMapä¸­Keyä¸ºSTOPçš„Enumå€¼
 [arthas@14150]$ getstatic com.alibaba.arthas.Test n 'entrySet().iterator.{? #this.key.name()=="STOP"}'
 field: n
 @ArrayList[
@@ -509,29 +515,29 @@ Affect(row-cnt:1) cost in 68 ms.
 ```
 
 ##### [retransform](https://arthas.gitee.io/retransform.html)
-Èç¹ûÏë¶ÔÒÑ¼ÓÔØµÄclass×öÈÈÌæ»»¿ÉÒÔÊ¹ÓÃretransformºÍredefine£¬ÀàËÆ±¾µØIDEµ÷ÊÔÊ±ºòÖ±½ÓĞŞ¸Ä´úÂë¼´¿ÉÉúĞ§¡£µ«ÊÜjvmÈÈÌæ»»ÏŞÖÆ²»ÄÜĞŞ¸Ä¡¢Ìí¼Ó¡¢É¾³ıÀàµÄfieldºÍmethod£¬°üÀ¨·½·¨²ÎÊı¡¢·½·¨Ãû³Æ¼°·µ»ØÖµ¡£<br>  
-retransformºÍredefineÁ½¸öÃüÁîÓĞµã²îÒì:
-  - redefine Ö®ºóÔ­À´µÄclass²»ÄÜ»Ö¸´£¬³ı·ÇÖØÆôjvm¡£ÓĞ¿ÉÄÜÊ§°Ü(±ÈÈçÔö¼ÓÁËĞÂµÄfield)£¬resetÃüÁî¶ÔredefineµÄÀàÎŞĞ§¡£Èç¹ûÏëÖØÖÃ»ØÀ´£¬ĞèÒªredefineÔ­Ê¼classµÄ×Ö½ÚÂë¡£
-  - ÁíÍâ£¬redefineÃüÁîºÍjad/watch/trace/monitor/ttµÈÃüÁî»á³åÍ»¡£Ö´ĞĞÍêredefineÖ®ºó£¬Èç¹ûÔÙÖ´ĞĞÉÏÃæÌáµ½µÄÃüÁî£¬Ôò»á°ÑredefineµÄ×Ö½ÚÂëÖØÖÃ¡£ÒòÎªºó¼¸¸öÃüÁî»ùÓÚRetransform£¬jdk±¾ÉíredefineºÍRetransformÊÇ²»Í¬µÄ»úÖÆ£¬Í¬Ê±Ê¹ÓÃÁ½ÖÖ»úÖÆÀ´¸üĞÂ×Ö½ÚÂë£¬Ö»ÓĞ×îºóĞŞ¸ÄµÄÄÇÒ»¸ö»áÉúĞ§
-  - retransformÔò¿ÉÒÔ½øĞĞ»Ö¸´£¬»Øµ½×î³õ¼ÓÔØµÄclass×Ö½ÚÂë
-  - jad/mcÒ²Ğí²»ÊÊºÏ×ö¸´ÔÓµÄ·´±àÒëºÍ±àÒë£¬ËùÒÔ¿ÉÒÔ±¾µØ¹¤³Ì±àÒëºÃclassÎÄ¼şÉÏ´«ºóÔÙ×öclassÈÈÌæ»»
+å¦‚æœæƒ³å¯¹å·²åŠ è½½çš„classåšçƒ­æ›¿æ¢å¯ä»¥ä½¿ç”¨retransformå’Œredefineï¼Œç±»ä¼¼æœ¬åœ°IDEè°ƒè¯•æ—¶å€™ç›´æ¥ä¿®æ”¹ä»£ç å³å¯ç”Ÿæ•ˆã€‚ä½†å—jvmçƒ­æ›¿æ¢é™åˆ¶ä¸èƒ½ä¿®æ”¹ã€æ·»åŠ ã€åˆ é™¤ç±»çš„fieldå’Œmethodï¼ŒåŒ…æ‹¬æ–¹æ³•å‚æ•°ã€æ–¹æ³•åç§°åŠè¿”å›å€¼ã€‚<br>  
+retransformå’Œredefineä¸¤ä¸ªå‘½ä»¤æœ‰ç‚¹å·®å¼‚:
+  - redefine ä¹‹ååŸæ¥çš„classä¸èƒ½æ¢å¤ï¼Œé™¤éé‡å¯jvmã€‚æœ‰å¯èƒ½å¤±è´¥(æ¯”å¦‚å¢åŠ äº†æ–°çš„field)ï¼Œresetå‘½ä»¤å¯¹redefineçš„ç±»æ— æ•ˆã€‚å¦‚æœæƒ³é‡ç½®å›æ¥ï¼Œéœ€è¦redefineåŸå§‹classçš„å­—èŠ‚ç ã€‚
+  - å¦å¤–ï¼Œredefineå‘½ä»¤å’Œjad/watch/trace/monitor/ttç­‰å‘½ä»¤ä¼šå†²çªã€‚æ‰§è¡Œå®Œredefineä¹‹åï¼Œå¦‚æœå†æ‰§è¡Œä¸Šé¢æåˆ°çš„å‘½ä»¤ï¼Œåˆ™ä¼šæŠŠredefineçš„å­—èŠ‚ç é‡ç½®ã€‚å› ä¸ºåå‡ ä¸ªå‘½ä»¤åŸºäºRetransformï¼Œjdkæœ¬èº«redefineå’ŒRetransformæ˜¯ä¸åŒçš„æœºåˆ¶ï¼ŒåŒæ—¶ä½¿ç”¨ä¸¤ç§æœºåˆ¶æ¥æ›´æ–°å­—èŠ‚ç ï¼Œåªæœ‰æœ€åä¿®æ”¹çš„é‚£ä¸€ä¸ªä¼šç”Ÿæ•ˆ
+  - retransformåˆ™å¯ä»¥è¿›è¡Œæ¢å¤ï¼Œå›åˆ°æœ€åˆåŠ è½½çš„classå­—èŠ‚ç 
+  - jad/mcä¹Ÿè®¸ä¸é€‚åˆåšå¤æ‚çš„åç¼–è¯‘å’Œç¼–è¯‘ï¼Œæ‰€ä»¥å¯ä»¥æœ¬åœ°å·¥ç¨‹ç¼–è¯‘å¥½classæ–‡ä»¶ä¸Šä¼ åå†åšclassçƒ­æ›¿æ¢
 ```console
 # retransform
 [arthas@28030]$ retransform /tmp/Test.class
-# ²é¿´ retransform entry, TransformCountÁĞÏÔÊ¾ÔÚClassFileTransformer.transformº¯ÊıÀï³¢ÊÔ·µ»Øentry¶ÔÓ¦µÄ.classÎÄ¼şµÄ´ÎÊı£¬µ«²¢²»±íÃ÷transformÒ»¶¨³É¹¦
+# æŸ¥çœ‹ retransform entry, TransformCountåˆ—æ˜¾ç¤ºåœ¨ClassFileTransformer.transformå‡½æ•°é‡Œå°è¯•è¿”å›entryå¯¹åº”çš„.classæ–‡ä»¶çš„æ¬¡æ•°ï¼Œä½†å¹¶ä¸è¡¨æ˜transformä¸€å®šæˆåŠŸ
 [arthas@28030]$ retransform -l
-# É¾³ıÖ¸¶¨ retransform entry
+# åˆ é™¤æŒ‡å®š retransform entry
 [arthas@28030]$ retransform -d 1
-# É¾³ıËùÓĞ retransform entry
+# åˆ é™¤æ‰€æœ‰ retransform entry
 [arthas@28030]$ retransform --deleteAll  
-# ÏÔÊ½´¥·¢ retransform 
-# ¶ÔÓÚÍ¬Ò»¸öÀà£¬µ±´æÔÚ¶à¸ö retransform entryÊ±£¬Èç¹ûÏÔÊ½´¥·¢ retransform £¬Ôò×îºóÌí¼ÓµÄentryÉúĞ§(id×î´óµÄ)
+# æ˜¾å¼è§¦å‘ retransform 
+# å¯¹äºåŒä¸€ä¸ªç±»ï¼Œå½“å­˜åœ¨å¤šä¸ª retransform entryæ—¶ï¼Œå¦‚æœæ˜¾å¼è§¦å‘ retransform ï¼Œåˆ™æœ€åæ·»åŠ çš„entryç”Ÿæ•ˆ(idæœ€å¤§çš„)
 [arthas@28030]$ retransform --classPattern demo.* 
 [arthas@28030]$ retransform -c 327a647b /tmp/Test.class /tmp/Test\$Inner.class
 [arthas@28030]$ retransform --classLoaderClass 'sun.misc.Launcher$AppClassLoader' /tmp/Test.class
 
-# Èç¹û¶ÔÄ³¸öÀàÖ´ĞĞ retransform Ö®ºó£¬ÏëÏû³ıÓ°Ïì»Ö¸´Ô­×´¡£ ÒªÉ¾³ıÕâ¸öÀà¶ÔÓ¦µÄ retransform entry£¬ÖØĞÂ´¥·¢ retransform¡£
-# Èç¹û²»Çå³ıµôËùÓĞµÄ retransform entry£¬²¢ÖØĞÂ´¥·¢ retransform £¬Ôòarthas stopÊ±£¬retransform¹ıµÄÀàÈÔÈ»ÉúĞ§¡£ 
+# å¦‚æœå¯¹æŸä¸ªç±»æ‰§è¡Œ retransform ä¹‹åï¼Œæƒ³æ¶ˆé™¤å½±å“æ¢å¤åŸçŠ¶ã€‚ è¦åˆ é™¤è¿™ä¸ªç±»å¯¹åº”çš„ retransform entryï¼Œé‡æ–°è§¦å‘ retransformã€‚
+# å¦‚æœä¸æ¸…é™¤æ‰æ‰€æœ‰çš„ retransform entryï¼Œå¹¶é‡æ–°è§¦å‘ retransform ï¼Œåˆ™arthas stopæ—¶ï¼Œretransformè¿‡çš„ç±»ä»ç„¶ç”Ÿæ•ˆã€‚ 
 
 # redefine
 [arthas@28030]$ jad --source-only com.example.demo.arthas.user.UserController > /tmp/UserController.java
@@ -540,13 +546,13 @@ retransformºÍredefineÁ½¸öÃüÁîÓĞµã²îÒì:
 ```
 
 ##### stop
-Èç¹ûÒª½áÊøsessionÖ´ĞĞstop²Ù×÷
+å¦‚æœè¦ç»“æŸsessionæ‰§è¡Œstopæ“ä½œ
 ```console
 [arthas@28030]$ stop
 ```
 
 ##### [classloader](https://arthas.gitee.io/classloader.html)
-²é¿´classloaderµÄ¼Ì³ĞÊ÷£¬urls£¬Àà¼ÓÔØĞÅÏ¢
+æŸ¥çœ‹classloaderçš„ç»§æ‰¿æ ‘ï¼Œurlsï¼Œç±»åŠ è½½ä¿¡æ¯
 ```console
 [arthas@28030]$ classloader -t
 +-BootstrapClassLoader                                                                                                            
@@ -564,7 +570,7 @@ retransformºÍredefineÁ½¸öÃüÁîÓĞµã²îÒì:
         +-org.apache.jasper.servlet.JasperLoader@750f747d                                                                         
 Affect(row-cnt:8) cost in 35 ms.
 
-# ²éÕÒclassÎÄ¼ş»òresourceÎÄ¼ş´ÓÊ²Ã´µØ·½¼ÓÔØµÄ
+# æŸ¥æ‰¾classæ–‡ä»¶æˆ–resourceæ–‡ä»¶ä»ä»€ä¹ˆåœ°æ–¹åŠ è½½çš„
 [arthas@30000]$ sc -d *EntityType | grep code-source                                    
  code-source       /opt/tomcat/webapps/api/WEB-INF/lib/model.jar
 
