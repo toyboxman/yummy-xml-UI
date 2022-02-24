@@ -461,3 +461,15 @@ I like watching the athletes too much to skip the Olympics. **Ice dancing is gor
 >what a pity 真遗憾；真可惜
 
 “你能想像吗，我18年前离开这个国家，他们却在这里为我加油，”庄永祥回忆说。“然后我简直不能打球了，我太激动了。看看今天的两国关系，以及两国之间的政治和竞争时，有点让人伤心，”庄永祥说。“真让人遗憾。”
+
+Yet the truth is more prosaic. Mr. Zelensky, the showman and performer, has been unmasked by reality. And it has revealed him to be dispiritingly mediocre.
+然而，事实却更加平淡无奇。泽伦斯基，这名演艺人士和表演者，已经被现实揭开了他的面具，暴露出他只是令人沮丧的平庸之辈
+
+In my view, there are two huge logs fueling this fire. The first log was the ill-considered decision by the U.S. in the 1990s to expand NATO after — indeed, despite — the collapse of the Soviet Union. And the second and far bigger log is how Putin cynically exploited NATO’s expansion closer to Russia’s borders to rally Russians to his side to cover for his huge failure of leadership
+在我看来，有两根给这场火添柴的巨大木头。第一根是美国考虑欠周的决定，即美国在20世纪90年代苏联解体后——其实是尽管苏联已解体——做出的扩大北约的决定. 第二根而且是大的一根，是普京如何无所顾忌地利用了北约向俄罗斯周边地区的扩张，将俄罗斯人团结到他的身边，来掩盖他在领导力方面的巨大失败
+
+I think it is the beginning of a new cold war. I think the Russians will gradually react quite adversely and it will affect their policies. I think it is a tragic mistake. There was no reason for this whatsoever. No one was threatening anybody else. This expansion would make the founding fathers of this country turn over in their graves
+我认为这是一场新冷战的开端。我认为俄罗斯将慢慢做出相当不利的反应，这将影响他们的政策。我认为这是个可悲的错误。这完全没有任何理由这样做。没有人在威胁其他人。这种扩张会让我国的制宪元勋们九泉之下不得安宁
+
+
+
