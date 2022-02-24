@@ -237,43 +237,114 @@ A **stuffed-animal** version of Bing Dwen Dwen, the panda **Olympic mascot, dres
 
 本届奥运会吉祥物熊猫“冰墩墩”的毛绒玩具版，它穿着类似宇航服的冰外套，周身环绕着一个金色织物花环，上面缝制着松竹梅的图案。不管运动员赢得的是金牌、银牌，还是铜牌，他们得到的都是同样的纪念品，与商店里卖给粉丝们的没有多大不同
 
-There’s a lavender one with a deep V lined with shining butterflies and flowers, for a performance to “Butterfly Lovers Concerto.” Another, purple with a splash of white and fuchsia flowers that flows daintily across the bodice. A black one with a moody deep V design of dazzling blues on the front and a matching deep scoop on the back.
+There’s a **lavender one with a deep V lined with shining butterflies and flowers**, for a performance to “**Butterfly Lovers Concerto**.” Another, **purple with a splash of white and fuchsia flowers that flows daintily across the bodice**. A black one with **a moody deep V design of dazzling blues** on the front and **a matching deep scoop** on the back.
+>lavender[ˈlævəndər] 淡紫色；熏衣草  
+>lined with shining butterflies and flowers 镶有闪亮的蝴蝶和花朵  
+>concerto[kənˈtʃɜrtoʊ] 协奏曲  
+>Butterfly Lovers Concerto 梁祝小提琴协奏曲  
+>fuchsia[ˈfjuːʃə] 桃红色  
+>daintily[ˈdentlɪ] 讲究地；优雅地  
+>bodice[ˈbɑdɪs] 连衣裙上身  
+>flows daintily across the bodice 优雅地点缀在上身  
+>moody 情绪多变的；喜怒无常的；脾气坏的；郁郁寡欢的  
+>dazzling 耀眼的；眼花缭乱的  
+>scoop 勺子
+
 她有一件深V领的薰衣草紫色考斯滕，镶有闪亮的蝴蝶和花朵，搭配的曲目是《梁祝小提琴协奏曲》。另一件的底色是紫色，白色和紫红色的花朵优雅地点缀在身上。还有一件是黑色的，正面的深V设计让人感到情绪的多变，镶着闪亮的蓝色宝石，露背部分的设计与之相呼应
 
-The dress, the hair, the makeup, the music selection and the story behind it, it’s all about the packaging and that’s a big thing, The dress needs to show off the body line in a way that’s most appealing to show things like posture and stretch of the limbs. All those things are evaluated in the program component marks.
+The dress, the hair, the makeup, the **music selection and the story behind it**, it’s all about the packaging and **that’s a big thing**, The dress needs to **show off the body line in a way** that’s **most appealing to show things like posture and stretch of the limbs**. All those things are evaluated in the **program component marks**.
+>that’s a big thing 这很重要  
+>show off the body line 展示身体线条  
+>appealing 有吸引力的；有感染力的；令人感兴趣的  
+>limb[lɪm] 肢体  
+>stretch of the limbs 肢体伸展  
+
 考斯滕、发型、妆容、选曲以及背后的故事，都和整体包装有关，这很重要。考斯滕需要以一种最吸引人的方式来展示身体线条，比如展示姿势和肢体伸展。所有这些都是要在节目组成分里评估的
 
-The White House has said that President Vladimir V. Putin of Russia could decide this week whether to invade, deflating Moscow’s careful murkiness, while also demonstrating, especially to cautious Europeans, that any invasion would be driven by Russia, rather than in response to some outside provocation. This dynamic is very volatile, Would a Russian invasion bring Moscow more reward than downside?
+The White House has said that President Vladimir V. Putin of Russia could decide this week whether to invade, **deflating Moscow’s careful murkiness**, while also demonstrating, especially to cautious Europeans, that any invasion would be driven by Russia, rather than in response to some **outside provocation**. This **dynamic is very volatile**, Would a Russian invasion **bring Moscow more reward than downside**?
+>deflate 放气；紧缩；缩小  
+>deflating murkiness 挑破了模糊态度  
+>outside provocation 外界的挑衅  
+>volatile[ˈvɒlətaɪl] 易变的；无定性的；无常性的  
+>more reward than downside 利大于弊
+
 白宫表示，俄罗斯总统普京可能在本周决定是否入侵，这挑破了莫斯科谨慎的模糊态度，同时也表明（特别是向谨慎的欧洲人），任何入侵都将由俄罗斯推动，而不是为了回应外界的挑衅。形势非常不稳定。俄罗斯入侵对莫斯科会是利大于弊吗？
 
-Of course, if war were really so advantageous, it could have already begun, one of many hints that Mr. Putin may be partly bluffing, although by how much is impossible to say.
+Of course, if war were really so **advantageous**, it could have already begun, **one of many hints that** Mr. Putin may be **partly bluffing**, although by how much is impossible to say.
+>advantageous[ˌædvənˈteɪdʒəs] 有利的；有好处的  
+>partly 一定程度上  
+>bluff 虚张声势；吓唬
+
 当然，如果真有优势，可能已经开战了，这也在一定程度上表明普京在虚张声势，尽管夸大到什么程度不好说
 
-It’s a game of skill, not a game of chance, So if you can’t provide consistent conditions, then you start to negate the skill level, and it becomes more of a game of chance — and it’s our job to make sure that’s not the case.
+It’s a game of skill, not **a game of chance**, So if you can’t provide **consistent conditions**, then you start to negate the skill level, and it becomes more of a game of chance — and it’s our job to **make sure that’s not the case**.
+>game of chance 看运气的游戏
+
 这是比拼技巧的游戏，而不是看运气，因此，如果不能提供稳定条件，那就会抵消技巧的作用，比赛就更像在碰运气——而我们的工作就是确保这种情况不能发生
 
-It’s the pinnacle of everything, and as an ice maker, it’s the same thing, You’ve got to be on your toes all the time. If any little thing happens, you have to fix it. You have to make it the best possible because people tried for 20 years to get to this event.
+It’s the **pinnacle of everything**, and as an ice maker, it’s the same thing, You’ve **got to be on your toes all the time**. If any little thing happens, you have to fix it. You have to make it the best possible because people tried for 20 years to get to this event.
+>pinnacle[ˈpɪnək(ə)l] 顶峰；顶点  
+>on one's toes 精神振作；热心；在活动; 活跃；警觉的；准备行动
+
 这是所有赛事的巅峰，对于制冰商来说也一样，你必须时刻保持警惕。若是出了什么小问题，都必须解决。你必须尽可能做到最好，因为那些人为了参与这项赛事付出了20年的努力
 
-The lopsided victory in a recall election on Tuesday that ousted three members of the San Francisco school board shook the city’s liberal establishment and was a resounding alarm of parental anger over the way the public school system handled the coronavirus pandemic.
+The **lopsided victory in a recall election** on Tuesday that **ousted three members** of the San Francisco school board shook the city’s **liberal establishment** and was a **resounding alarm of parental anger** over the way the public school system handled the coronavirus pandemic.
+>lopsided 不对称的；不平衡的  
+>liberal establishment 自由主义建制派  
+>resounding[rɪˈzaʊndɪŋ] 巨大的；令人瞩目的；响亮的；嘹亮的  
+>resounding alarm 轰动的方式
+
 周二，通过一场一边倒的罢免选举，旧金山学区教育委员会的三名成员被驱逐，震动了该市的自由主义建制派，以轰动的方式表达了家长们对公立学校系统应对新冠疫情方式的愤怒
 
-Most Chinese residents in the city are registered as independents and, as Tuesday’s election appeared to show, they are not afraid to buck some of the more liberal elements of the Democratic Party. They are absolutely up for grabs.
+Most Chinese residents in the city are registered as independents and, as Tuesday’s election appeared to show, they are **not afraid to buck some of the more liberal elements** of the Democratic Party. They **are absolutely up for grabs**.
+>buck 雄鹿；美元; 抵挡，掷  
+>up for grabs 供人竞购(以售给出价最高者)；可以争取；可供争夺的
+
 旧金山大多数华裔居民都登记为独立人士，正如周二的选举结果表明的那样，他们并不害怕与民主党内一些更具自由派倾向的成员抗衡。他们绝对是有待争取的群体
 
-Chinese voters were also upset by tweets by Alison Collins, one of the recalled school board members, that were unearthed during the campaign. Ms. Collins said Asian Americans used “white supremacist thinking to assimilate and ‘get ahead.’”
+Chinese voters were also upset by tweets by Alison Collins, one of the **recalled school board members**, that were **unearthed** during the campaign. Ms. Collins said Asian Americans used “**white supremacist thinking to assimilate** and ‘get ahead.’”
+>recall 召回；回忆起  
+>unearth 发掘；使出土; 发现；揭露  
+>white supremacist thinking 白人至上主义的思维  
+>assimilate[əˈsɪmɪˌleɪt]吸收；消化；透彻理解；使同化
+
 被罢免的学校董事会成员之一艾莉森·柯林斯在竞选期间发布的推文也让华裔选民不满。柯林斯说，亚裔美国人用“白人至上主义的思维来搞同化和‘出人头地’”。
 
-During the campaign, organizers used WeChat, the Chinese-language messaging app, to offer everything from detailed instructions on how to fill out a ballot to organizing the deployment of volunteers in Chinatown, where lion dances and drumming exhorted residents to vote.
+During the campaign, organizers used WeChat, the Chinese-language messaging app, to offer everything from **detailed instructions on how to fill out a ballot** to organizing the deployment of volunteers in Chinatown, where **lion dances and drumming exhorted residents** to vote.
+>detailed instructions 详细说明  
+>fill out a ballot 填写选票  
+>lion dances and drumming 舞狮和击鼓活动  
+>exhort[ɪɡˈzɔrt] 规劝；敦促；告诫
+
 在活动期间，组织者利用微信这一中文聊天应用提供了各种服务，从如何填写选票的详细说明，到组织在华埠部署志愿者的各种服务。他们在华埠发起舞狮和击鼓活动，鼓励居民投票。
 
-We had very visible examples of incompetence, bad governance and malfeasance. Most people could objectively observe the decisions that were happening last year and think, ‘This is really messed up.’
+We had very **visible examples of incompetence, bad governance and malfeasance**. Most people could **objectively observe** the decisions that were happening last year and think, ‘This is really **messed up**.’
+>visible examples 明显的例子  
+>bad governance 治理不善  
+>malfeasance[ˌmælˈfiz(ə)ns] 渎职；不法行为；不正当  
+>objectively 客观地
+
 我们有非常明显的无能、治理不善和渎职的例子。大多数人可以客观地观察去年发生的决策，然后想，‘这可太差劲了。’
 
-Valieva, who just 11 days ago was deemed unbeatable because of her difficult jumps, textbook technique and prima ballerina’s artistry, was fourth. I was feeling a lot of pleasure because I happened to be in the right time and the right place and did the right things
+Valieva, who just 11 days ago **was deemed unbeatable** because of her difficult jumps, **textbook technique and prima ballerina’s artistry**, was fourth. I was **feeling a lot of pleasure** because I **happened to be in the right time and the right place and did the right things**
+>be deemed unbeatable 被认为无可匹敌  
+>textbook technique 教科书级别的技术  
+>prima['priːmə] 第一的  
+>ballerina[ˌbæləˈrinə] 芭蕾舞星；芭蕾舞女演员  
+>prima ballerina 首席芭蕾舞演员  
+>artistry[ˈɑrtɪstri] 艺术技巧；艺术性
+
 仅在11天前，瓦列耶娃因其高难度跳跃、教科书级别的技术和媲美首席芭蕾舞演员的艺术性被认为无可匹敌，但最终仅排名第四. 我感到非常高兴，因为我碰巧在对的时间和对的地点做了对的事情
 
-An air of awkwardness loomed over the victory ceremony on Thursday night, as Shcherbakova, 17, sprung onto the top step of the podium to accept her stuffed mascot panda, a fuzzy reminder of her win until she receives her gold medal on Friday.
+**An air of awkwardness loomed over** the victory ceremony on Thursday night, as Shcherbakova, 17, **sprung onto** the top step of the **podium** to accept her **stuffed mascot panda**, a **fuzzy reminder** of her win until she receives her gold medal on Friday.
+>awkwardness['ɔːkwədnəs] 尴尬；笨拙；别扭  
+>an air of 一股气氛; 一种语气  
+>spring/sprung 跳；跃；蹦  
+>podium[ˈpoʊdiəm] 讲台；讲坛；(乐队的)指挥台; 颁奖台  
+>spring onto the podium 跳上领奖台  
+>stuffed mascot 毛绒吉祥物  
+>fuzzy[ˈfʌzi] 模糊的；失真的; 覆有绒毛的；毛茸茸的
+
 周四晚上的颁花仪式上笼罩着一股尴尬的气氛，17岁的谢尔巴科娃跳上领奖台，接受她的毛绒吉祥物“冰墩墩”，她将在周五领取金牌，在此之前，冰墩墩将一直作为她胜利的证物
 
 To make an Olympic **ski jump**, China **clad a hillside in steel and blanketed it with artificial snow**. To construct a high-speed rail line linking the venues and Beijing, engineers **blasted tunnels** through the surrounding mountains.
