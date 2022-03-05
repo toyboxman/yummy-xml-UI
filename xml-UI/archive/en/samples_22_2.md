@@ -65,7 +65,7 @@ The city, Qitaihe, has **endured mine disasters, industrial closures and an exod
 >mine disaster 矿难  
 >industrial closures 工厂倒闭  
 >exodus[ˈeksədəs] 出埃及记；大批离去  
->take hard kocks 承受打击; 能吃苦  
+>take hard knocks 承受打击; 能吃苦  
 >soldier 当兵  
 >go all out 全力以赴
 
@@ -471,5 +471,36 @@ In my view, there are two huge logs fueling this fire. The first log was the ill
 I think it is the beginning of a new cold war. I think the Russians will gradually react quite adversely and it will affect their policies. I think it is a tragic mistake. There was no reason for this whatsoever. No one was threatening anybody else. This expansion would make the founding fathers of this country turn over in their graves
 我认为这是一场新冷战的开端。我认为俄罗斯将慢慢做出相当不利的反应，这将影响他们的政策。我认为这是个可悲的错误。这完全没有任何理由这样做。没有人在威胁其他人。这种扩张会让我国的制宪元勋们九泉之下不得安宁
 
+Russia wants insecurity in Europe because force is its trump card, They never wanted a new security order, whatever the European illusions. Nearly everywhere, in many regions of the world where the United States brought its law and order, this created bloody, unhealing wounds and the curse of international terrorism and extremism, America’s conduct across the globe was “con-artist behavior.”
+俄罗斯希望看到欧洲动荡，因为武力是它的王牌，不论欧洲抱有怎样的幻想，俄罗斯想要的从来都不是新的安全秩序。美国给世界许多地区带去法律和秩序，但几乎在每个地方都造成血淋淋、无法治愈的伤口以及国际恐怖主义和极端主义的诅咒，美国在全球的所作所为是“骗子行径”。
 
+They designed a constitution for fallen people, Its genius lay in how it held in tension two seemingly incompatible beliefs: first, that the majority must generally prevail; and second, that the majority is predisposed to seek personal advantage above the common good.
+他们为堕落的人设计了一部宪法，宪法的天才之处在于，它如何将两个看似不相容的信念矛盾地统一起来：第一个是，大多数人必须通常占上风；第二个是，大多数人容易将个人利益置于共同利益之上。
+
+It is also unwarranted. There are two types of war: wars of necessity, to protect vital national interests and involving the use of military force as a last resort, such as World War II and the Persian Gulf war of 1991; and wars of choice — armed interventions taken either in the absence of vital national interests or despite the availability of options not involving military force. Into this category fall the wars in Vietnam, Iraq and, after a limited initial phase, Afghanistan.
+这也是毫无根据的。当前世界上有两种战争：一种是为保护重要国家利益而不得已发动的战争，如第二次世界大战和1991年的波斯湾战争；还有可选择的战争——在没有重大国家利益、或在尽管有不涉及军事力量选项的情况下采取武装干预。这类战争包括越南战争、伊拉克战争，以及在有限的初期阶段后的阿富汗战争
+
+Though far from a panacea, The United States should also continue to make public its intelligence that sheds light on Russian intentions to spoil surprises. 
+尽管远非万能，美国还应该继续公开其关于俄罗斯意图的情报，以破坏该国出其不意的手段
+
+Sitting across a small table from him in the Kremlin, I was immediately struck by the contrast between Mr. Putin and his bombastic predecessor, Boris Yeltsin. Whereas Mr. Yeltsin had cajoled, blustered and flattered, Mr. Putin spoke unemotionally and without notes about his determination to resurrect Russia’s economy and quash Chechen rebels. 
+在克里姆林宫，坐在他对面的一张小桌子旁，我立刻被普京和他夸夸其谈的前任鲍里斯·叶利钦的区别之明显所震撼。叶利钦使用哄骗、恫吓和奉承，而普京则不带感情色彩地脱稿讲述他复兴俄罗斯经济和镇压车臣叛军的决心
+
+In the 20-odd years since we met, Mr. Putin has charted his course by ditching democratic development for Stalin’s playbook. He is sure that Americans mirror both his cynicism and his lust for power and that in a world where everyone lies, he is under no obligation to tell the truth.
+自我们见面以来的20多年里，普京转向斯大林的战术，摒弃了民主发展，制定了自己的路线。他确信美国人像他一样无所顾忌且渴望权力，在一个人人都撒谎的世界里，他没有义务说真话。
+
+Mr. Putin and his counterpart like to claim that we now live in a multipolar world. While that is self-evident, it does not mean that the major powers have a right to chop the globe into spheres of influence as colonial empires did centuries ago.
+普京和其他领导人都喜欢说我们现在生活在一个多极化的世界。虽然这不言而喻，但这不意味着大国有权像几世纪前的殖民帝国那样，将全球划分成几个势力范围。
+
+Before the pandemic, the club was a fixture of the city’s curious, plugged-in music scene. Locals crammed in to hear visiting Polish jazz quintets or Argentine percussionists. Expatriates could discover up-and-coming Chinese punk bands. The coronavirus crystallized those tendencies. Bent on stamping out infections, China canceled virtually all international flights.
+在疫情之前，这家俱乐部是这座城市充满好奇、无处不在的音乐场景中的一个组成部分。本地人蜂拥而至，聆听来访的波兰爵士五重奏或阿根廷打击乐手的演奏. 新冠病毒使这些趋势变得具体化。中国一心想消灭感染，几乎取消了所有国际航班
+
+Countries around the world should uphold true multilateralism, We should remove barriers, not erect walls, not recast the meeting of minds and cultures as a zero-sum clash.
+世界各国要坚持真正的多边主义，坚持拆墙而不筑墙。不将思想和文化的交汇重新定义为一场零和冲突。
+
+Wariness lingered. Deng Xiaoping, the leader who spearheaded the economic opening, memorably warned that an open window brings both fresh air and flies. But in those heady early days, many believed that China was hurtling irreversibly toward openness.
+戒心也挥之不去。引领中国经济开放的领导人邓小平的警告令人难忘，他说打开窗户既会带来新鲜空气，也会带来苍蝇。但在那些令人兴奋的早期时光，许多人认为中国正在不可逆转地奔向开放
+
+Did it ever think about the consequences of pushing a big country to the wall? You may go ask the U.S.: they started the fire and fanned the flames,How are they going to put out the fire now? The U.S. is in no position to tell China off, NATO still owes the Chinese people a debt of blood
+有没有想过把一个大国逼到绝地的后果？你可以去问问美方，他们不断拱火、点火，现在打算怎么灭火？美方恐怕没有资格告诉中方怎么做。北约还欠着中国人民的血债
 

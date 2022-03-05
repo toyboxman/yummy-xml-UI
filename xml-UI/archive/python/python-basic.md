@@ -11,6 +11,7 @@
 	- [thread/kill/sizeof](#s1)
 	- [file](#s2)
 - [Python CLI](#python-cli)
+- [Python速查表中文版](https://github.com/LLiuHuan/cn-awesome-cheatsheets/blob/master/Languages/python.md#%E5%B8%B8%E8%A7%81%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C)
 - [建立Python环境的工具](https://mp.weixin.qq.com/s/rTag8BRfDkMOqq_tQupX-w)
 - [Python异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html)
 - [Python代码片段](https://mp.weixin.qq.com/s/ZjRmJmEiHkEN_3wQaAzsxg)
