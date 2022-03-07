@@ -34,10 +34,14 @@
     + [循环读写REST API,计算执行时间](#exp8)
     + [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
     + [Bash函数定义](#exp10)
-    + [获取多机信息](#exp10)  
+    + [获取多机信息](#exp11)  
         `并发从数台机器中获取hostname，并记录返回信息花费的时长，重定向到一个文件hostname.txt，全部完成后输出花费时长最短的那台机器的CPU信息`
-    + [统计进程数](#exp11)  
+    + [统计进程数](#exp12)  
         `统计/proc 目类下Linux进程相关数量信息，输出总进程数，runninq 进程数，stoped 进程数，sleeing进程数，zombie 进程数`
+    + [批量文件改名及内容](#exp13)  
+        `把当前目录(包含子目录)下所有后缀为".sh"的文件后缀变更为".shell"，之后删除每个文件的第二行`
+    + [判断文件是否存在及操作](#exp14)  
+        `判断目录/tmp/jstack是否存在，不存在则新建一个目录若存在则删除目录下所有内容`
     + [Shell脚本单例运行](https://mp.weixin.qq.com/s/F3iojH8R0kvqhzzJeQiSSA)
     + [数学运算 bc/basic calculator](https://mp.weixin.qq.com/s/JAdUxU3ziqT1dw8vhjXHyQ)
     + [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
@@ -72,9 +76,9 @@
     + [批量修改服务器用户密码](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#19%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81)
     + [批量检测网站是否异常](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#30%E6%89%B9%E9%87%8F%E6%A3%80%E6%B5%8B%E7%BD%91%E7%AB%99%E6%98%AF%E5%90%A6%E5%BC%82%E5%B8%B8%E8%84%9A%E6%9C%AC)
     + [批量主机远程执行命令脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#31%E6%89%B9%E9%87%8F%E4%B8%BB%E6%9C%BA%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4%E8%84%9A%E6%9C%AC)
+    + [一键查看服务器利用率](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#33%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%E5%88%A9%E7%94%A8%E7%8E%87)
+    + [一键部署LNMP网站平台脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#32%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2lnmp%E7%BD%91%E7%AB%99%E5%B9%B3%E5%8F%B0%E8%84%9A%E6%9C%AC)
     
-    + 把当前目录（包含子目录）下所有后缀为".sh"的文件后缀变更为".shell"，之后删除每个文件的第二行。
-    + 判断目录/tmp/jstack是否存在，不存在则新建一个目录若存在则删除目录下所有内容。
     + 从 test.loq中截取当天的所有gc 信息日志，并统计 gc 时间的平均值和时长最长的时间。
     + 查找80端口请求数最高的前 20个IP地址，判断中间最小的请求数是否大于 500，如大于 500，则输出系统活动情况报告到 alert.txt，如果没有，则在 600s后重试，直到有输出为止。
     + 将当前目录下大于10K的文件转移到/tmp 目录，再按照文件大小顺序，从大到小输出文件名。
@@ -96,18 +100,12 @@
     + 生成10个随机数保存于数组中并找出其最大值和最小值
     + 查看网卡实时流量
     + 服务器系统配置初始化
-    
-    + 一键查看服务器利用率
     + 找出占用CPU 内存过高的进程
     + 查看网卡的实时流量
     + 监控多台服务器磁盘利用率脚本
-    
-    + 一键部署LNMP网站平台脚本
-    
-    + MySgl数据库备份脚本
+    + MySQl数据库备份脚本
     + 自动发布Java项目（Tomcat）
     + 自动发布PHP项目
-    + DOS攻击防范（自动屏蔽攻击IP）
     + 本地选择脚本auto build.sh
     + 服务器编译脚本 build.sh首先第一个使用的就是{\$\#}和（\$\@）其次使用了字符串截取的操作
     + 本地expect登陆拷贝scp exec.sh脚本
@@ -170,7 +168,7 @@
 IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
 i. e. how to recognize word boundaries. The default value for IFS consists of whitespace 
 characters (to be precise: space, tab and newline) Now, the shell splits mystring into words as well
-```console
+```sh
 #!/usr/bin/sh
 mystring="foo:bar baz rab"
 for word in $mystring; do
@@ -185,7 +183,7 @@ But now, it can only treats a colon as the word boundary. because the first char
 It is used to delimit words in the output when using the special $* variable (example taken from the 
 Advanced Bash Scripting Guide, where you can also find more information on special 
 variables like that one):
-```console
+```sh
 $ bash -c 'set w x y z; IFS=":-;"; echo "$*"'
 w:x:y:z
 
@@ -209,7 +207,7 @@ w+x+y+z
 - $! is the PID of the most recent background command.
 - $0 is the name of the shell or shell script.
 > [Link](https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables)
-```console
+```sh
 # test.sh
 #!/bin/sh
 echo '$#' $#
@@ -223,7 +221,7 @@ $?  0
 ```
 
 ### shell脚本调试方法
-```console
+```sh
 # 读一遍脚本中的命令但不执行，用于检查脚本中的语法错误
 sh -n script.sh  
 
@@ -236,17 +234,17 @@ sh -x script.sh
 * 使用这些选项有三种方法，
 
 	* 在命令行提供参数
-	```console
+	```sh
 	$ sh -x ./script.sh
 	```
 
 	* 在脚本开头提供参数 
-	```console
+	```sh
 	#! /bin/sh -x
 	```
 
 	* 在脚本中用set命令启用或禁用参数
-	```console
+	```sh
 	#! /bin/sh
 	# 通过启用和禁用X参数,只对脚本中的某一段进行跟踪调试
 	if [ -z "$1" ]; then
@@ -264,12 +262,12 @@ sh -x script.sh
 经常需要将命令执行结果赋值给shell中变量，可以用下面两种方式
 
 - eval命令
-```console
+```sh
 # 执行命令将结果赋给变量,注意命令不是单引号(' ')包括, 而是`｀号(～按键)
 eval A=`whoami` 
 ```
 - 直接赋值
-```console
+```sh
 # 赋值等号两边不要有空格
 # 把当前用户名赋值给变量
 B=`whoami | awk '{print $1}'` 
@@ -322,7 +320,7 @@ kill -9 $eclipse_pid
 
 * 双引号 ""
 	1. 引用时可以保有变量的内容
-```console
+```sh
 export filename=AAA
 echo "$filename"=BBB
 echo '$filename'=$filename
@@ -332,7 +330,7 @@ $filename=AAA
 ```
 
 ### 数值比较
-```console
+```sh
 # 关键要点：
 # 1. 使用单个等号
 # 2. 注意到等号两边各有一个空格,这是unix shell的要求
@@ -344,7 +342,7 @@ if [ "$test"x = "test"x ]; then
 ```
 
 * 整数比较
-```console
+```sh
 # 等于 -eq
 if [ "$a" -eq "$b" ]
 
@@ -377,7 +375,7 @@ if [ "$a" -le "$b" ]
 ```
 
 * 字符串比较
-```console
+```sh
 # 习惯于使用""来测试字符串是一种好习惯
 
 # 当两个串有相同内容、长度时为真
@@ -427,7 +425,7 @@ if [[ "$a" > "$b" ]]
 if [ "$a" \> "$b" ]
 ```
 ### IF 控制流
-```console
+```sh
 # *注意* if 与后面括号要有空格，否者出错 if []; 方括号与条件前后都需要空格 if [ "$user" = "root" ]，否者也会出错
 if ....; then
 ....
@@ -448,7 +446,7 @@ fi
 ```
 
 - 常用判断
-```console
+```sh
 # 判断是否是一个文件
 [ -f "somefile" ]
 # 判断/bin/ls是否存在并有可执行权限
@@ -464,7 +462,7 @@ fi
 + [for, while and until](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
 + Bash For Loop Examples[[1](https://www.cyberciti.biz/faq/bash-for-loop/), [2](https://www.garron.me/en/articles/bash-for-loop-examples.html)]
 + 循环[[1](https://mp.weixin.qq.com/s/8ovegZAD2BPPApptEW5B8g), [2](https://mp.weixin.qq.com/s/n_mEWCrjTHU-k7kOMpjg1Q), [3](https://mp.weixin.qq.com/s/Y5-0PfkJJj7A-bhLHv4mEw)]
-```console
+```sh
 for i in {1..5}
 do
     echo "Welcome $i times"
@@ -500,7 +498,7 @@ commandN
 done
 ```
 还可以传入循环参数
-```console
+```sh
 # Use "$@" to represent all the arguments in test.sh
 for var in "$@"
 do
@@ -515,7 +513,7 @@ sh test.sh 1 2 '3 4'
 
 ### Logical 条件
 > [Link](http://www.geekpills.com/operating-system/linux/bash-and-or-operators)
-```console
+```sh
 # OR operator
 ||
 # AND operator 
@@ -527,7 +525,7 @@ sh test.sh 1 2 '3 4'
 
 * 汇总日志      
 脚本执行后将两分钟内日志导出，如2019-10-31T09:24:27至2019-10-31T09:26:27
-```console
+```sh
 #!/bin/sh
 
 now=`date +"%Y-%m-%dT%T"`
@@ -542,7 +540,7 @@ cat /var/log/proton/nsxapi.log /var/log/cloudnet/nsx-ccp.log \
 <div id = "exp2"></div>
 
 * 设定网络配置
-```console
+```sh
 #!/usr/bin/sh
 # 1.得到VM的guestinfo信息
 # 2.读出ip/netmask/default gateway
@@ -636,7 +634,7 @@ echo "complete boot setting" >> $VMINFO/result.log
 命令行处理工具expect，这是一个可编程的工具, 通过预期结果和发送命令来操作远程机器。    
 expect基本组成结构为几部分:       
 解释声明->spawn->expect->send->interact   
-```console
+```sh
 # 指定脚本解释器
 #!/usr/bin/expect -f    
 
@@ -690,7 +688,7 @@ interact
 	- [Special Shell Variables](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/SpecialShellVariables/SpecialShellVariables.html)
 	- [优雅地处理shell参数](https://mp.weixin.qq.com/s/FNw574sOa5cVe4hsPhyWQw)
 	- parameter type
-	```console
+	```sh
 	# the name of the command executing
 	$0 
 
@@ -723,7 +721,7 @@ interact
 	- expect script的参数
 	如果需要通过脚本输入参数来进行expect操作，可以通过bash+expect脚本方式，因为
     expect获得外部参数较复杂些，如下实现    
-	```console
+	```sh
 	#!/usr/bin/sh
 	#For loop来获取命令行传入机器地址
 	for host in $@  
@@ -804,7 +802,7 @@ interact
     很麻烦需要不停输入密码。如果通过expect脚本，则半分钟可能就完成了。   
     首先，设计一个循环执行的shell脚本(ssh_open.sh)，remote机器地    
     址通过命令参数传入
-    ```console
+    ```sh
     #!/usr/bin/sh
     #循环获取传入参数
     for host in $@   
@@ -818,7 +816,7 @@ interact
     done
     ```
     然后，设计一个Expect脚本(open.sh)，登录远程主机修改ssh的权限
-    ```console
+    ```sh
     #!/usr/bin/expect -f  
     # expect脚本和普通shell不一样，需要通过expect来解释
     # expect中赋值操作，将传入脚本的第一个参数赋值给变量host
@@ -874,7 +872,7 @@ interact
 		设定循环变量，条件，计算需要分三个｛ ｝<br>
 		for {initialization} {conditions} {incrementation or decrementation} { ... }<br>
 		set count 5; while {$count > 0 } { puts "count : $count\n"; set count [expr $count-1]; }
-	```console
+	```sh
 	#!/usr/bin/expect -f
 	#设定默认expect超时为5秒
 	set timeout 5 
@@ -955,7 +953,7 @@ interact
 
 * Update jar文件并重启服务     
 编译某些class之后替换到对应的jar包中，然后重启服务
-```console    
+```sh    
 #!/bin/sh
 
 # 提示执行的目录位置
@@ -989,7 +987,7 @@ ssh root@$server service db-adapter restart
 * 根据输入选择执行分支
 
 执行remote.sh脚本传入参数 sh remote.sh root@10.92.176.78
-```console
+```sh
 server=$1
 scp restart.sh "$server:/root/"
 echo "continue(y/n)"
@@ -1008,7 +1006,7 @@ exit 0
 
 * 循环读写REST API,计算执行时间
 
-```console
+```sh
 #!/bin/sh
 for i in {1..2}
 do
@@ -1037,7 +1035,7 @@ done
 * 根据脚本输入参数循环执行，[判断文件是否存在](https://github.com/dylanaraps/pure-bash-bible#file-conditionals)
 
 执行remote.sh脚本传入参数 sh remote.sh 10.92.176.78 10.92.176.79 10.92.176.80
-```console
+```sh
 #!/bin/sh
 
 # 改变执行目录
@@ -1065,7 +1063,7 @@ fi
 * 编写bash函数
 	+ [处理函数参数](http://www.freeos.com/guides/lsst/advance01.html)
 	+ [定义函数](https://mp.weixin.qq.com/s/-aFndwOUi95rEdYAciO57A)
-```console
+```sh
 #!/bin/sh
 # 脚本名称 parameter.sh
 
@@ -1088,7 +1086,7 @@ resonate
 resonate World
 ```
 执行`sh parameter.sh Shell`, 结果如下
-```console
+```sh
 start this shell  //echo 'start this shell'
 $1    //echo '$1'
 Shell  //echo "$1"
@@ -1100,7 +1098,7 @@ Hello World   //resonate World
 <div id = "exp11"></div> 
 
 * 并发从数台机器中获取hostname，并记录返回信息花费的时长，重定向到一个文件hostname.txt，全部完成后输出花费时长最短的那台机器的CPU信息
-```console
+```sh
 #!bin/bash  
 
 # 主机以空格分隔
@@ -1128,7 +1126,7 @@ ssh $host "top -b -n 1"
 <div id = "exp12"></div> 
 
 * 统计/proc目类下Linux 进程相关数量信息，输出总进程数，running，stoped，sleeing，zombie进程数。输出所有zombie的进程到zombie.txt并杀死所有zombie进程
-```console
+```sh
 #!/bin/bash
 
 ALL_PROCESS=$(ls /proc/ | egrep '[0-9]+')
@@ -1161,4 +1159,50 @@ done
 
 
 echo -e "total: $((running_count+stoped_count+sleeping_count+zombie_count))\nrunning: $running_count\nstoped: $stoped_count\nsleeping: $sleeping_count\nzombie: $zombie_count"
+```
+
+<div id = "exp13"></div> 
+
+* 把当前目录(包含子目录)下所有后缀为".sh"的文件后缀变更为".shell"，之后删除每个文件的第二行
+```sh
+#!/bin/bash
+
+ALL_SH_FILE=$(find . -type f -name "*.sh")
+for file in ${ALL_SH_FILE[*]}
+do
+    filename=$(echo $file | awk -F'.sh' '{print $1}')
+    new_filename="${filename}.shell"
+    mv "$file" "$new_filename"
+    sed -i '2d' "$new_filename"
+done
+```
+<div id = "exp14"></div> 
+
+* 判断目录/tmp/jstack是否存在，不存在则新建一个目录若存在则删除目录下所有内容
+```sh
+#!/bin/bash
+# 每隔 1 小时打印 inceptor server 的 jstack 信息，并以 jstack_${当前时间} 命名文件，每当目录下超过 10 个文件后，删除最旧的文件
+
+DIRPATH='/tmp/jstack'
+CURRENT_TIME=$(date +'%F'-'%H:%M:%S')
+
+if [ ! -d "$DIRPATH" ];then
+    mkdir "$DIRPATH"
+else
+    rm -rf "$DIRPATH"/*
+fi
+
+cd "$DIRPATH"
+
+while true
+do
+    sleep 3600
+    # 这里需要将inceptor改后自己的java进程名称
+    pid=$(ps -ef | grep 'inceptor' | grep -v grep | awk '{print $2}')
+    jstack $pid >> "jstack_${CURRENT_TIME}"
+    dir_count=$(ls | wc -l)
+    if [ "$dir_count" -gt 10 ];then
+       rm -f $(ls -tr | head -1)
+    fi
+done
 ```
