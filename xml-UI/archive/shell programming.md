@@ -50,16 +50,26 @@
     + [时间差计算](https://mp.weixin.qq.com/s/3SrV3wTrcu9O2s1r_MwRHg)
     + [生产环境脚本案例](https://mp.weixin.qq.com/s/d6XkEKz2BrP-QUPzOFUqOQ)
     + [发现截断的数据](https://mp.weixin.qq.com/s/7i84lQARwxtTVrcnEk6xBw)
-    + [Dos 攻击防范（自动屏蔽攻击IP）]("连续输入5个100以内的数字，统计和、最小和最大" in:file extension:md https://github.com/search)
-    + Linux 系统发送告警脚本
-    + MySQL 数据库备份单循环
-    + MySQL 数据库备份多循环
-    + Nginx 访问访问日志按天切割
-    + Nginx访问日志分析脚本
-    + 查看网卡实时流量脚本
-    + 服务器系统配置初始化脚本
-    + 监控 100 台服务器磁盘利用率脚本
-    + 并发从数台机器中获取 hostname，并记录返回信息花费的时长，重定向到一个文件 hostname.txt中，在全部完成后输出花费时长最短的那台机器的 CPU 信息。
+    + [连续输入5个100以内的数字，统计和、最小和最大](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#7%E8%BF%9E%E7%BB%AD%E8%BE%93%E5%85%A55%E4%B8%AA100%E4%BB%A5%E5%86%85%E7%9A%84%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1%E5%92%8C%E6%9C%80%E5%B0%8F%E5%92%8C%E6%9C%80%E5%A4%A7)  
+        `"连续输入5个100以内的数字，统计和、最小和最大" in:file extension:md https://github.com/search`
+    + [Dos攻击防范(自动屏蔽攻击IP)](https://github.com/wxzForest/wxzforest.github.io/blob/master/2021/%E5%AE%9E%E7%94%A8shell%E8%84%9A%E6%9C%AC/index.md#16dos%E6%94%BB%E5%87%BB%E9%98%B2%E8%8C%83%E8%87%AA%E5%8A%A8%E5%B1%8F%E8%94%BD%E6%94%BB%E5%87%BBip)
+    + [目录入侵检测与告警](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#17%E7%9B%AE%E5%BD%95%E5%85%A5%E4%BE%B5%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%91%8A%E8%AD%A6)
+    + [Linux系统发送告警脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#19linux%E7%B3%BB%E7%BB%9F%E5%8F%91%E9%80%81%E5%91%8A%E8%AD%A6%E8%84%9A%E6%9C%AC)
+    + [MySQL数据库备份单循环](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#20mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%87%E4%BB%BD%E5%8D%95%E5%BE%AA%E7%8E%AF)
+    + [MySQL数据库备份多循环](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#21mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%87%E4%BB%BD%E5%A4%9A%E5%BE%AA%E7%8E%AF)
+    + [监控MySQL主从同步状态是否异常脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#27%E7%9B%91%E6%8E%A7mysql%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5%E7%8A%B6%E6%80%81%E6%98%AF%E5%90%A6%E5%BC%82%E5%B8%B8%E8%84%9A%E6%9C%AC)
+    + [Nginx访问访问日志按天切割](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#22nginx-%E8%AE%BF%E9%97%AE%E8%AE%BF%E9%97%AE%E6%97%A5%E5%BF%97%E6%8C%89%E5%A4%A9%E5%88%87%E5%89%B2)
+    + [Nginx访问日志分析脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#23nginx%E8%AE%BF%E9%97%AE%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E8%84%9A%E6%9C%AC)
+    + [查看网卡实时流量脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#24%E6%9F%A5%E7%9C%8B%E7%BD%91%E5%8D%A1%E5%AE%9E%E6%97%B6%E6%B5%81%E9%87%8F%E8%84%9A%E6%9C%AC)
+    + [服务器系统配置初始化脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#25%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E5%88%9D%E5%A7%8B%E5%8C%96%E8%84%9A%E6%9C%AC)
+    + [监控100台服务器磁盘利用率脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#26%E7%9B%91%E6%8E%A7100%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A3%81%E7%9B%98%E5%88%A9%E7%94%A8%E7%8E%87%E8%84%9A%E6%9C%AC)
+    + [目录文件变化监控和实时文件同步](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#28%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6%E5%8F%98%E5%8C%96%E7%9B%91%E6%8E%A7%E5%92%8C%E5%AE%9E%E6%97%B6%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5)
+    + [批量创建多个用户并设置密码](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#29%E6%89%B9%E9%87%8F%E5%88%9B%E5%BB%BA100%E7%94%A8%E6%88%B7%E5%B9%B6%E8%AE%BE%E7%BD%AE%E5%AF%86%E7%A0%81%E8%84%9A%E6%9C%AC)
+    + [批量修改服务器用户密码](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#19%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81)
+    + [批量检测网站是否异常](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#30%E6%89%B9%E9%87%8F%E6%A3%80%E6%B5%8B%E7%BD%91%E7%AB%99%E6%98%AF%E5%90%A6%E5%BC%82%E5%B8%B8%E8%84%9A%E6%9C%AC)
+    + [批量主机远程执行命令脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#31%E6%89%B9%E9%87%8F%E4%B8%BB%E6%9C%BA%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4%E8%84%9A%E6%9C%AC)
+    + [获取多机信息]  
+        `并发从数台机器中获取hostname，并记录返回信息花费的时长，重定向到一个文件hostname.txt，全部完成后输出花费时长最短的那台机器的CPU信息`
     + 统计/proc 目类下Linux进程相关数量信息，输出总进程数，runninq 进程数，stoped 进程数，sleeing进程数，zo mbie 进程数。
     + 把当前目录（包含子目录）下所有后缀为".sh"的文件后缀变更为".shell"，之后删除每个文件的第二行。
     + 判断目录/tmp/jstack是否存在，不存在则新建一个目录若存在则删除目录下所有内容。
@@ -78,31 +88,24 @@
     + 构建本地YUM
     + 备份当前日期文件
     + DOS攻击防范（自动屏蔽攻击IP）
-    + 批量创建多少个用户并设置密码
     + 快速在Ubuntu 20.04上架设LAMP服务器及WordPress 博客
     + 每天自动备份 MySQL 数据库
-    + MySQL 数据库备份单循环
-    + MySQL 数据库备份多循环
     + Nginx日志按要求切割
     + 生成10个随机数保存于数组中并找出其最大值和最小值
     + 查看网卡实时流量
     + 服务器系统配置初始化
-    + 批量创建多个用户并设置密码
+    
     + 一键查看服务器利用率
     + 找出占用CPU 内存过高的进程
     + 查看网卡的实时流量
     + 监控多台服务器磁盘利用率脚本
-    + 批量检测网站是否异常并邮队件通知
-    + 批量主机远程执行命令脚本
+    
     + 一键部署LNMP网站平台脚本
-    + 监控MySQL主从同步状态是否异常脚本
+    
     + MySgl数据库备份脚本
-    + Nginx访问日志分析
-    + Nginx访问日志自动按天（周、月）切割
     + 自动发布Java项目（Tomcat）
     + 自动发布PHP项目
     + DOS攻击防范（自动屏蔽攻击IP）
-    + 目录入侵检测与告警
     + 本地选择脚本auto build.sh
     + 服务器编译脚本 build.sh首先第一个使用的就是{\$\#}和（\$\@）其次使用了字符串截取的操作
     + 本地expect登陆拷贝scp exec.sh脚本
@@ -111,8 +114,7 @@
     + 检测网卡流量，并按规定格式记录在日志中
     + 计算文档每行出现的数字个数，并计算整个文档的数字总数
     + 从FTP服务器下载文件
-    + [连续输入5个100以内的数字，统计和、最小和最大](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md)  
-    +    `"连续输入5个100以内的数字，统计和、最小和最大" in:file extension:md https://github.com/search`
+    
     + 监测 Nginx 访问日志 502情况，并做相应动作
     + 将结果分别赋值给变量
     + 批量修改文件名
@@ -121,7 +123,6 @@
     + 输入数字运行相应命令
     + Expect 实现 SSH 免交互执行命令
     + 监控 httpd 的进程数，根据监控情况做相应处理
-    + 批量修改服务器用户密码
     + iptables 自动屏蔽访问网站频须繁的IP
     + 根据web访问日志，封禁请求量异常的IP，如IP在半小时后恢复正常，则解除封禁
     + 判断用户输入的是否为IP地址
@@ -147,7 +148,6 @@
     + 内存检测
     + 剩余inode检测
     + 判断哪些用户登陆了系统
-    + 批量创建账号
     + 批量扫面存活
     + 正则匹配IP
     + 正则匹配邮箱
@@ -1086,6 +1086,42 @@ resonate
 resonate World
 ```
 执行`sh parameter.sh Shell`, 结果如下
+```console
+start this shell  //echo 'start this shell'
+$1    //echo '$1'
+Shell  //echo "$1"
+Shell  //echo $1
+Hello   //resonate
+Hello World   //resonate World
+```
+
+<div id = "exp11"></div> 
+```console
+#!bin/bash  
+
+# 主机以空格分隔
+ALL_HOSTS=(IP1 IP2)
+
+for host in ${ALL_HOSTS[*]}
+do
+{
+    start_time=$(date +'%s')
+    ssh $host "hostname" &>/dev/null
+    sleep 2
+    stop_time=$(date +'%s')
+    time_consuming=$((stop_time-start_time))
+    echo "$host: $time_consuming" >>hostname.txt
+}&
+done
+
+wait
+
+host=$(sort -n -k 2 hostname.txt | head -1 | awk -F':' '{print $1}')
+
+ssh $host "top -b -n 1"
+```
+
+<div id = "exp12"></div> 
 ```console
 start this shell  //echo 'start this shell'
 $1    //echo '$1'
