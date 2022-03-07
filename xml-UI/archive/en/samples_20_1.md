@@ -1,590 +1,590 @@
-`If you¡¯re depressed by` the state of the world, let me `toss out an idea`: In `the long arc of human history`, 2019 has been the best year ever
-Èç¹ûÊÀ½çµÄÏÖ×´Ê¹Äã¸Ğµ½¾ÚÉ¥£¬ÇëÌıÌıÎÒµÄÒ»¸öÏë·¨£ºÔÚÈËÀàÀúÊ·µÄ³¤»¡ÖĞ£¬2019ÄêÊÇÓĞÊ·ÒÔÀ´×îºÃµÄÒ»Äê
+`If youâ€™re depressed by` the state of the world, let me `toss out an idea`: In `the long arc of human history`, 2019 has been the best year ever
+å¦‚æœä¸–ç•Œçš„ç°çŠ¶ä½¿ä½ æ„Ÿåˆ°æ²®ä¸§ï¼Œè¯·å¬å¬æˆ‘çš„ä¸€ä¸ªæƒ³æ³•ï¼šåœ¨äººç±»å†å²çš„é•¿å¼§ä¸­ï¼Œ2019å¹´æ˜¯æœ‰å²ä»¥æ¥æœ€å¥½çš„ä¸€å¹´
 
 The bad things that you `fret about` are true. But 2019 was probably the year in which children were `least likely to die`, adults were `least likely to be illiterate` and people were least likely to `suffer excruciating and disfiguring diseases`
-ÄÇĞ©ÈÃÄã·³ÄÕµÄ»µÊÂÊÇÕæµÄ¡£µ«2019Äê¼¸ºõ¿Ï¶¨ÊÇ¶ùÍ¯ËÀÍöµÄ¿ÉÄÜĞÔ×îĞ¡¡¢³ÉÈËÎÄÃ¤µÄ¿ÉÄÜĞÔ×îĞ¡£¬ÒÔ¼°ÈËÀàÔâÊÜ¼«Í´¿à¡¢Ëğ»ÙÍâĞÎµÄ¼²²¡¿ÉÄÜĞÔ×îĞ¡µÄÒ»Äê
+é‚£äº›è®©ä½ çƒ¦æ¼çš„åäº‹æ˜¯çœŸçš„ã€‚ä½†2019å¹´å‡ ä¹è‚¯å®šæ˜¯å„¿ç«¥æ­»äº¡çš„å¯èƒ½æ€§æœ€å°ã€æˆäººæ–‡ç›²çš„å¯èƒ½æ€§æœ€å°ï¼Œä»¥åŠäººç±»é­å—æç—›è‹¦ã€æŸæ¯å¤–å½¢çš„ç–¾ç—…å¯èƒ½æ€§æœ€å°çš„ä¸€å¹´
 
 Every single day in recent years, another 325,000 people `got their first access to electricity`. Each day, more than 200,000 `got piped water` for the first time. And some 650,000 `went online` for the first time, every single day
-ÔÚ×î½ü¼¸ÄêÀï£¬Ã¿Ìì¶¼ÓĞ32.5ÍòÈËÊ×´ÎÓÃÉÏµç¡£Ã¿Ìì¶¼ÓĞ³¬¹ı20ÍòÈËÊ×´Î»ñµÃ×ÔÀ´Ë®¡£Ã¿Ìì¶¼ÓĞ65ÍòÈËµÚÒ»´ÎÉÏÍø
+åœ¨æœ€è¿‘å‡ å¹´é‡Œï¼Œæ¯å¤©éƒ½æœ‰32.5ä¸‡äººé¦–æ¬¡ç”¨ä¸Šç”µã€‚æ¯å¤©éƒ½æœ‰è¶…è¿‡20ä¸‡äººé¦–æ¬¡è·å¾—è‡ªæ¥æ°´ã€‚æ¯å¤©éƒ½æœ‰65ä¸‡äººç¬¬ä¸€æ¬¡ä¸Šç½‘
 
-`If you were given the opportunity` to choose the time you were born in, `it¡¯d be pretty risky` to choose a time in any of the thousands of generations in the past, Almost everyone `lived in poverty, hunger was widespread and famines common`
-Èç¹ûÄãÓĞ»ú»áÑ¡Ôñ×Ô¼ºµÄ³öÉúÊ±¼ä£¬Ñ¡ÔñÔÚ¹ıÈ¥¼¸Ç§´úÈËÖĞµÄÈÎºÎÊ±¼ä¶¼ÓĞÏàµ±´óµÄ·çÏÕ£¬¹ıÈ¥£¬¼¸ºõÃ¿¸öÈË¶¼Éú»îÔÚÆ¶À§ÖĞ£¬¼¢¶öÊÇÆÕ±éÏÖÏó£¬¼¢»Ä¾­³£·¢Éú
+`If you were given the opportunity` to choose the time you were born in, `itâ€™d be pretty risky` to choose a time in any of the thousands of generations in the past, Almost everyone `lived in poverty, hunger was widespread and famines common`
+å¦‚æœä½ æœ‰æœºä¼šé€‰æ‹©è‡ªå·±çš„å‡ºç”Ÿæ—¶é—´ï¼Œé€‰æ‹©åœ¨è¿‡å»å‡ åƒä»£äººä¸­çš„ä»»ä½•æ—¶é—´éƒ½æœ‰ç›¸å½“å¤§çš„é£é™©ï¼Œè¿‡å»ï¼Œå‡ ä¹æ¯ä¸ªäººéƒ½ç”Ÿæ´»åœ¨è´«å›°ä¸­ï¼Œé¥¥é¥¿æ˜¯æ™®éç°è±¡ï¼Œé¥¥è’ç»å¸¸å‘ç”Ÿ
 
 Diseases like `polio, leprosy, river blindness and elephantiasis` are `on the decline`, and global efforts have `turned the tide on AIDS`
-¼¹Ëè»ÒÖÊÑ×¡¢Âé·ç²¡¡¢ºÓÃ¤Ö¢ºÍÏóÆ¤²¡µÈ¼²²¡ÕıÔÚ¼õÉÙ£¬¶øÇÒ£¬È«ÇòµÄÅ¬Á¦ÒÑ¾­Å¤×ªÁË°¬×Ì²¡µÄĞÎÊÆ
+è„Šé«“ç°è´¨ç‚ã€éº»é£ç—…ã€æ²³ç›²ç—‡å’Œè±¡çš®ç—…ç­‰ç–¾ç—…æ­£åœ¨å‡å°‘ï¼Œè€Œä¸”ï¼Œå…¨çƒçš„åŠªåŠ›å·²ç»æ‰­è½¬äº†è‰¾æ»‹ç—…çš„å½¢åŠ¿
 
 You may `feel uncomfortable reading this`. It can `seem tasteless, misleading or counterproductive to hail progress` when there is still so much wrong with the world
-¶Áµ½ÕâÀï£¬Äã¿ÉÄÜ»á¸Ğµ½²»Êæ·ş¡£ÔÚÊÀ½çÈÔ´æÔÚÈç´Ë¶àÎÊÌâµÄÇé¿öÏÂ£¬»¶ºô½ø²½ËÆºõ²»µÃÌå¡¢´æÔÚÎóµ¼»ò²úÉúÊÊµÃÆä·´µÄĞ§¹û
+è¯»åˆ°è¿™é‡Œï¼Œä½ å¯èƒ½ä¼šæ„Ÿåˆ°ä¸èˆ’æœã€‚åœ¨ä¸–ç•Œä»å­˜åœ¨å¦‚æ­¤å¤šé—®é¢˜çš„æƒ…å†µä¸‹ï¼Œæ¬¢å‘¼è¿›æ­¥ä¼¼ä¹ä¸å¾—ä½“ã€å­˜åœ¨è¯¯å¯¼æˆ–äº§ç”Ÿé€‚å¾—å…¶åçš„æ•ˆæœ
 
 But I worry that `deep pessimism` about the state of the world is `paralyzing rather than empowering`; `excessive pessimism` can leave people feeling `not just hopeless but also helpless`
-µ«ÎÒµ£ĞÄ£¬¶ÔÊÀ½çÏÖ×´µÄÉî¶È±¯¹ÛÈÃÈËÂé±Ô£¬¶ø²»ÊÇÔöÇ¿ÈËÃÇµÄÁ¦Á¿£»¹ı¶È±¯¹Û²»½öÈÃÈË¸Ğµ½¾øÍû£¬Ò²ÈÃÈË¸Ğµ½ÎŞÖú
+ä½†æˆ‘æ‹…å¿ƒï¼Œå¯¹ä¸–ç•Œç°çŠ¶çš„æ·±åº¦æ‚²è§‚è®©äººéº»ç—¹ï¼Œè€Œä¸æ˜¯å¢å¼ºäººä»¬çš„åŠ›é‡ï¼›è¿‡åº¦æ‚²è§‚ä¸ä»…è®©äººæ„Ÿåˆ°ç»æœ›ï¼Œä¹Ÿè®©äººæ„Ÿåˆ°æ— åŠ©
 
-They don¡¯t realize that when parents `are confident that` their children will survive, and `have access to birth control`, they have fewer children
-ËûÃÇÃ»ÓĞÒâÊ¶µ½£¬µ±¸¸Ä¸ÏàĞÅËûÃÇµÄº¢×Ó»á»îÏÂÀ´£¬¶øÇÒ¸¸Ä¸ÓĞ¿ØÖÆÉúÓıµÄÊÖ¶ÎÊ±£¬ËûÃÇ»áÉú¸üÉÙµÄº¢×Ó
+They donâ€™t realize that when parents `are confident that` their children will survive, and `have access to birth control`, they have fewer children
+ä»–ä»¬æ²¡æœ‰æ„è¯†åˆ°ï¼Œå½“çˆ¶æ¯ç›¸ä¿¡ä»–ä»¬çš„å­©å­ä¼šæ´»ä¸‹æ¥ï¼Œè€Œä¸”çˆ¶æ¯æœ‰æ§åˆ¶ç”Ÿè‚²çš„æ‰‹æ®µæ—¶ï¼Œä»–ä»¬ä¼šç”Ÿæ›´å°‘çš„å­©å­
 
-Recognizing that progress is possible can `be a spur to do more`, and that¡¯s why I `write this annual reminder` of gains against the common enemies of humanity
-ÈÏÊ¶µ½½ø²½µÄ¿ÉÄÜ£¬ÄÜ¼¤ÀøÎÒÃÇ×÷³ö¸ü´óµÄÅ¬Á¦£¬Õâ¾ÍÊÇÎÒÎªÊ²Ã´Ã¿ÄêĞ´ÆªÎÄÕÂÀ´ÌáĞÑÈËÃÇ£¬ÎÒÃÇÔÚ¶Ô¿¹ÈËÀà¹²Í¬µĞÈËÉÏÈ¡µÃµÄ½øÕ¹
+Recognizing that progress is possible can `be a spur to do more`, and thatâ€™s why I `write this annual reminder` of gains against the common enemies of humanity
+è®¤è¯†åˆ°è¿›æ­¥çš„å¯èƒ½ï¼Œèƒ½æ¿€åŠ±æˆ‘ä»¬ä½œå‡ºæ›´å¤§çš„åŠªåŠ›ï¼Œè¿™å°±æ˜¯æˆ‘ä¸ºä»€ä¹ˆæ¯å¹´å†™ç¯‡æ–‡ç« æ¥æé†’äººä»¬ï¼Œæˆ‘ä»¬åœ¨å¯¹æŠ—äººç±»å…±åŒæ•Œäººä¸Šå–å¾—çš„è¿›å±•
 
-We¡¯ll `get a morale boost` if we `acknowledge the backdrop of hard-won improvement`
-Èç¹ûÎÒÃÇ³ĞÈÏÓĞÀ´Ö®²»Ò×µÄ½ø²½Õâ¸ö±³¾°µÄ»°£¬ÎÒÃÇ½«ÌáÉıÊ¿Æø
+Weâ€™ll `get a morale boost` if we `acknowledge the backdrop of hard-won improvement`
+å¦‚æœæˆ‘ä»¬æ‰¿è®¤æœ‰æ¥ä¹‹ä¸æ˜“çš„è¿›æ­¥è¿™ä¸ªèƒŒæ™¯çš„è¯ï¼Œæˆ‘ä»¬å°†æå‡å£«æ°”
 
-I also `take heart from the passion` so many ¡ª especially young people ¡ª show to make the world a better place. 
-ÎÒÒ²´ÓĞí¶àÈË¡ª¡ªÓÈÆäÊÇÄêÇáÈË¡ª¡ªÕ¹ÏÖµÄÈÃÊÀ½ç±äµÃ¸üÃÀºÃµÄÈÈÇéÖĞÕÒ»ØĞÅĞÄ
+I also `take heart from the passion` so many â€” especially young people â€” show to make the world a better place. 
+æˆ‘ä¹Ÿä»è®¸å¤šäººâ€”â€”å°¤å…¶æ˜¯å¹´è½»äººâ€”â€”å±•ç°çš„è®©ä¸–ç•Œå˜å¾—æ›´ç¾å¥½çš„çƒ­æƒ…ä¸­æ‰¾å›ä¿¡å¿ƒ
 
-I recently published my annual ¡°gifts with meaning¡± guide and suggested four organizations to support `in lieu of traditional presents`
-ÎÒ×î½ü·¢±íÁËÎÒµÄÄê¶È¡°ÓĞÒâÒåµÄÀñÎï¡±Ö¸ÄÏ£¬½¨ÒéÏòËÄ¸ö×éÖ¯¾è¿îÀ´È¡´ú´«Í³ÀñÎï
+I recently published my annual â€œgifts with meaningâ€ guide and suggested four organizations to support `in lieu of traditional presents`
+æˆ‘æœ€è¿‘å‘è¡¨äº†æˆ‘çš„å¹´åº¦â€œæœ‰æ„ä¹‰çš„ç¤¼ç‰©â€æŒ‡å—ï¼Œå»ºè®®å‘å››ä¸ªç»„ç»‡ææ¬¾æ¥å–ä»£ä¼ ç»Ÿç¤¼ç‰©
 
-So I promise to `tear my hair out every other day`, but let¡¯s `interrupt our gloom for a nanosecond` to note what historians may eventually see as the most important trend in the world in the early 21st century: our progress toward `elimination of hideous diseases, illiteracy and the most extreme poverty`
-ËùÒÔÎÒ±£Ö¤£¬ÎÒ»¹»áÔÚÎÒÃ¿¸ôÒ»ÌìµÄ×¨À¸ÀïÎªÊÀ½ç·¢³î£¬µ«ÈÃÎÒÃÇ´ò¶ÏÕâÖÖÓÇÓôÆ¬¿Ì£¬À´¿´¿´×îÖÕ¿ÉÄÜ»á±»ÀúÊ·Ñ§¼ÒÊÓÎª21ÊÀ¼Í³õÊÀ½çÉÏ×îÖØÒªµÄÒ»¸öÇ÷ÊÆ£ºÎÒÃÇÔÚÏû³ı¿ÉÅÂµÄ¼²²¡¡¢ÎÄÃ¤ºÍ¼«¶ËÆ¶À§ÉÏÈ¡µÃµÄ½ø²½
+So I promise to `tear my hair out every other day`, but letâ€™s `interrupt our gloom for a nanosecond` to note what historians may eventually see as the most important trend in the world in the early 21st century: our progress toward `elimination of hideous diseases, illiteracy and the most extreme poverty`
+æ‰€ä»¥æˆ‘ä¿è¯ï¼Œæˆ‘è¿˜ä¼šåœ¨æˆ‘æ¯éš”ä¸€å¤©çš„ä¸“æ é‡Œä¸ºä¸–ç•Œå‘æ„ï¼Œä½†è®©æˆ‘ä»¬æ‰“æ–­è¿™ç§å¿§éƒç‰‡åˆ»ï¼Œæ¥çœ‹çœ‹æœ€ç»ˆå¯èƒ½ä¼šè¢«å†å²å­¦å®¶è§†ä¸º21ä¸–çºªåˆä¸–ç•Œä¸Šæœ€é‡è¦çš„ä¸€ä¸ªè¶‹åŠ¿ï¼šæˆ‘ä»¬åœ¨æ¶ˆé™¤å¯æ€•çš„ç–¾ç—…ã€æ–‡ç›²å’Œæç«¯è´«å›°ä¸Šå–å¾—çš„è¿›æ­¥
 
-By the time I die, `illiteracy and extreme poverty may be almost eliminated` ¡ª and it¡¯s difficult to imagine `a greater triumph` for humanity `on our watch`
-µ½ÎÒËÀµÄÊ±ºò£¬ÎÄÃ¤ºÍ¼«¶ÈÆ¶À§ÓĞ¿ÉÄÜ²î²»¶àÒÑ±»Ïû³ı¡£ºÜÄÑÏëÏñÈËÀàÉç»áÔÚÎÒÃÇµÄ×¢ÊÓÏÂ£¬È¡µÃ±ÈÕâ¸ü´óµÄÊ¤Àû
+By the time I die, `illiteracy and extreme poverty may be almost eliminated` â€” and itâ€™s difficult to imagine `a greater triumph` for humanity `on our watch`
+åˆ°æˆ‘æ­»çš„æ—¶å€™ï¼Œæ–‡ç›²å’Œæåº¦è´«å›°æœ‰å¯èƒ½å·®ä¸å¤šå·²è¢«æ¶ˆé™¤ã€‚å¾ˆéš¾æƒ³åƒäººç±»ç¤¾ä¼šåœ¨æˆ‘ä»¬çš„æ³¨è§†ä¸‹ï¼Œå–å¾—æ¯”è¿™æ›´å¤§çš„èƒœåˆ©
 
 He was describing how `sea cucumbers`, `the unlovely cousins of starfish and sea urchins`, `end up on the tables` of the Chinese today
-ËûËµµÄÊÇº£²Î£¬Õâ¸öº£ĞÇºÍº£µ¨µÄ³óÇ×Æİ£¬ÊÇÔõÃ´ÉÏÁËÏÖÔÚÖĞ¹úÈËµÄ²Í×ÀµÄ
+ä»–è¯´çš„æ˜¯æµ·å‚ï¼Œè¿™ä¸ªæµ·æ˜Ÿå’Œæµ·èƒ†çš„ä¸‘äº²æˆšï¼Œæ˜¯æ€ä¹ˆä¸Šäº†ç°åœ¨ä¸­å›½äººçš„é¤æ¡Œçš„
 
-¡°Some are raised `in pens`,¡± Mr. Cong said, `wearing blue overalls and white rubber boots`, and standing outside `a long cinder-block building` that contained 54 pools filled with sea cucumbers, `redolent of the sea`. ¡°And some are `free range`.¡±
-¡°ÓĞĞ©ÊÇÈ¦ÑøµÄ£¬¡±´ÔÑ¡Ö¦Ëµ¡£Ëû´©×ÅÀ¶É«µÄÁ¬Ìå¹¤×÷·şºÍ°×É«µÄÏğ½ºÑ¥£¬Õ¾ÔÚÒ»¸ö³¤³¤µÄ×©·¿ÍâÃæ£¬ÀïÃæÊÇ54¸ö³äÂúº£²ÎµÄË®³Ø£¬É¢·¢×Åº£Ë®µÄÆøÎ¶¡£¡°ÓĞĞ©ÊÇÉ¢ÑøµÄ¡±
+â€œSome are raised `in pens`,â€ Mr. Cong said, `wearing blue overalls and white rubber boots`, and standing outside `a long cinder-block building` that contained 54 pools filled with sea cucumbers, `redolent of the sea`. â€œAnd some are `free range`.â€
+â€œæœ‰äº›æ˜¯åœˆå…»çš„ï¼Œâ€ä¸›é€‰æè¯´ã€‚ä»–ç©¿ç€è“è‰²çš„è¿ä½“å·¥ä½œæœå’Œç™½è‰²çš„æ©¡èƒ¶é´ï¼Œç«™åœ¨ä¸€ä¸ªé•¿é•¿çš„ç –æˆ¿å¤–é¢ï¼Œé‡Œé¢æ˜¯54ä¸ªå……æ»¡æµ·å‚çš„æ°´æ± ï¼Œæ•£å‘ç€æµ·æ°´çš„æ°”å‘³ã€‚â€œæœ‰äº›æ˜¯æ•£å…»çš„â€
 
-That¡¯s `a figure of speech`, strictly speaking, since the creatures `barely move in their lives`
-ÑÏ¸ñÀ´Ëµ£¬ÕâÖ»ÊÇÒ»ÖÖ±ÈÓ÷£¬ÒòÎªÕâĞ©ÉúÎïÔÚÉú»îÖĞ¼¸ºõ²»ÒÆ¶¯
+Thatâ€™s `a figure of speech`, strictly speaking, since the creatures `barely move in their lives`
+ä¸¥æ ¼æ¥è¯´ï¼Œè¿™åªæ˜¯ä¸€ç§æ¯”å–»ï¼Œå› ä¸ºè¿™äº›ç”Ÿç‰©åœ¨ç”Ÿæ´»ä¸­å‡ ä¹ä¸ç§»åŠ¨
 
 In a few decades, demand `has all but depleted the natural stocks` of the local species
-¼¸Ê®ÄêÀ´£¬Ò°ÉúµÄ¸ÃÎïÖÖÒÑ±»ÈËÃÇµÄĞèÇóºÄ¾¡
+å‡ åå¹´æ¥ï¼Œé‡ç”Ÿçš„è¯¥ç‰©ç§å·²è¢«äººä»¬çš„éœ€æ±‚è€—å°½
 
 Sea cucumbers have been `highly prized for centuries` for their `nutritional value and texture`, if not their flavor. They are believed to `have medicinal properties`, `treating ailments from arthritis to impotency`
-º£²ÎÊı°ÙÄêÀ´²»½öÒòÎª¿ÚÎ¶£¬»¹ÒòÎªÆäÓªÑø¼ÛÖµºÍ¿Ú¸Ğ¶ø±¸ÊÜÍÆ³ç¡£ÈËÃÇÏàĞÅËü»¹ÓĞÒ©ÓÃÌØĞÔ£¬¿ÉÒÔÖÎÁÆ´Ó¹Ø½ÚÑ×µ½ÑôğôµÄ¸÷ÖÖ¼²²¡
+æµ·å‚æ•°ç™¾å¹´æ¥ä¸ä»…å› ä¸ºå£å‘³ï¼Œè¿˜å› ä¸ºå…¶è¥å…»ä»·å€¼å’Œå£æ„Ÿè€Œå¤‡å—æ¨å´‡ã€‚äººä»¬ç›¸ä¿¡å®ƒè¿˜æœ‰è¯ç”¨ç‰¹æ€§ï¼Œå¯ä»¥æ²»ç–—ä»å…³èŠ‚ç‚åˆ°é˜³ç—¿çš„å„ç§ç–¾ç—…
 
 They are also good for the environment, `feeding off the rocks and sand` where they live, `purifying the surrounding water`. Their `eradication` would be `devastating up and down the food chain`
-ËüÃÇ»¹ÓĞÒæÓÚ»·¾³£¬ÒÔËüÃÇËù¸½×ÅµÄÑÒÊ¯ºÍÉ³×ÓÎªÊ³£¬¾»»¯ÁËÖÜÎ§µÄº£Ë®¡£ËüÃÇµÄÃğ¾ø½«´ÓÉÏÖÁÏÂÆÆ»µÕû¸öÊ³ÎïÁ´
+å®ƒä»¬è¿˜æœ‰ç›Šäºç¯å¢ƒï¼Œä»¥å®ƒä»¬æ‰€é™„ç€çš„å²©çŸ³å’Œæ²™å­ä¸ºé£Ÿï¼Œå‡€åŒ–äº†å‘¨å›´çš„æµ·æ°´ã€‚å®ƒä»¬çš„ç­ç»å°†ä»ä¸Šè‡³ä¸‹ç ´åæ•´ä¸ªé£Ÿç‰©é“¾
 
 `Given the Chinese belief` that one can `reinforce a specific part` of the body by eating food that are `in a similar shape`
-ÖĞ¹úÈËÈÏÎªÉíÌåÄ³¸ö²¿·Ö¿ÉÒÔÍ¨¹ıÊ³ÓÃÏàËÆĞÎ×´µÄÊ³Îï¶øÇ¿½¡£¬Õâ¿ÉÄÜÓĞÖúÓÚËüµ±Ê±×÷ÎªÊ³²ÄµÄÁ÷ĞĞ
+ä¸­å›½äººè®¤ä¸ºèº«ä½“æŸä¸ªéƒ¨åˆ†å¯ä»¥é€šè¿‡é£Ÿç”¨ç›¸ä¼¼å½¢çŠ¶çš„é£Ÿç‰©è€Œå¼ºå¥ï¼Œè¿™å¯èƒ½æœ‰åŠ©äºå®ƒå½“æ—¶ä½œä¸ºé£Ÿæçš„æµè¡Œ
 
 During `the peak harvest season`, as `fall turns into winter`, divers `plunge into water` that is about 48 `degrees Fahrenheit`, coming up for only short breaks to `unload their mesh nets`
-ÊÕ»ñ¼¾½ÚµÄ¸ß·åÆÚÊÇÔÚÇï¶¬×ª»»µÄÊ±ºò£¬Ç±Ë®Ô±½øÈë´óÔ¼48»ªÊÏ¶È£¨Ô¼Îª8.89ÉãÊÏ¶È£©µÄË®ÖĞ¹¤×÷£¬Ö»ÄÜ¶ÌÔİ³öË®Æ¬¿Ì£¬Ğ¶ÏÂÓæÍø²¶ÀÌµ½µÄ¶«Î÷
+æ”¶è·å­£èŠ‚çš„é«˜å³°æœŸæ˜¯åœ¨ç§‹å†¬è½¬æ¢çš„æ—¶å€™ï¼Œæ½œæ°´å‘˜è¿›å…¥å¤§çº¦48åæ°åº¦ï¼ˆçº¦ä¸º8.89æ‘„æ°åº¦ï¼‰çš„æ°´ä¸­å·¥ä½œï¼Œåªèƒ½çŸ­æš‚å‡ºæ°´ç‰‡åˆ»ï¼Œå¸ä¸‹æ¸”ç½‘æ•æåˆ°çš„ä¸œè¥¿
 
-When `plucked alive` from the sea, `blanched lightly and bathed in`, say, a sauce of garlic, `cilantro and chili oil` ¡ª as they `are served at` a small fish restaurant not far away ¡ª they `taste like a rubbery piece of cartilage`, bathed in a sauce of garlic, cilantro and chili oil.
-°Ñ´Óº£ÖĞÏÖÀÌµÄº£²ÎÉÔÎ¢ìÌÒ»ÏÂ£¬ÕºÉÏËâÄ©¡¢Ïã²ËºÍÀ±½·ÓÍ¡ª¡ª¸½½üµÄĞ¡º£ÏÊµêÀï¾ÍÊÇÕâÃ´×öµÄ¡ª¡ªÎ¶µÀ³¢ÆğÀ´¾ÍÏñÒ»¿éÓĞµ¯ĞÔµÄÈí¹Ç£¬ÔÙÕºµãËâÄ©¡¢Ïã²ËºÍÀ±½·ÓÍ
+When `plucked alive` from the sea, `blanched lightly and bathed in`, say, a sauce of garlic, `cilantro and chili oil` â€” as they `are served at` a small fish restaurant not far away â€” they `taste like a rubbery piece of cartilage`, bathed in a sauce of garlic, cilantro and chili oil.
+æŠŠä»æµ·ä¸­ç°æçš„æµ·å‚ç¨å¾®ç„¯ä¸€ä¸‹ï¼Œè˜¸ä¸Šè’œæœ«ã€é¦™èœå’Œè¾£æ¤’æ²¹â€”â€”é™„è¿‘çš„å°æµ·é²œåº—é‡Œå°±æ˜¯è¿™ä¹ˆåšçš„â€”â€”å‘³é“å°èµ·æ¥å°±åƒä¸€å—æœ‰å¼¹æ€§çš„è½¯éª¨ï¼Œå†è˜¸ç‚¹è’œæœ«ã€é¦™èœå’Œè¾£æ¤’æ²¹
 
-Mr. Xu¡¯s note `was rich in metaphors` describing the difficult days ahead. Alternately `likening the company to plums bitten` by winter¡¯s frost, `a bamboo stalk battered by wind` and an `embattled aircraft`
-ĞìÖ±¾üµÄÖÂ´ÇÒ²³äÂúÁËÓÃÀ´ÃèÊöÎ´À´¼èÄÑÈÕ×ÓµÄÒşÓ÷¡£ÕâÎ»¸ß¹ÜÊ±¶ø°Ñ¹«Ë¾±È×÷ÑÏ¶¬Ëª´òÏÂµÄÃ·»¨£¬Ê±¶ø½«Æä±È×÷±»¿ñ·ç´µ´òµÄÖñ×Ó£¬Ê±¶øÓÖ½«Æä±È×÷¼è¿à×÷Õ½ÖĞµÄ·É»ú
+Mr. Xuâ€™s note `was rich in metaphors` describing the difficult days ahead. Alternately `likening the company to plums bitten` by winterâ€™s frost, `a bamboo stalk battered by wind` and an `embattled aircraft`
+å¾ç›´å†›çš„è‡´è¾ä¹Ÿå……æ»¡äº†ç”¨æ¥æè¿°æœªæ¥è‰°éš¾æ—¥å­çš„éšå–»ã€‚è¿™ä½é«˜ç®¡æ—¶è€ŒæŠŠå…¬å¸æ¯”ä½œä¸¥å†¬éœœæ‰“ä¸‹çš„æ¢…èŠ±ï¼Œæ—¶è€Œå°†å…¶æ¯”ä½œè¢«ç‹‚é£å¹æ‰“çš„ç«¹å­ï¼Œæ—¶è€Œåˆå°†å…¶æ¯”ä½œè‰°è‹¦ä½œæˆ˜ä¸­çš„é£æœº
 
 `Even so`, Mr. Xu indicated that the confrontation with the United States would `continue to dampen growth` and said he expected Huawei to remain on the blacklist in 2020
-¼´±ãÈç´Ë£¬ĞìÖ±¾üÈÔ±íÊ¾ÓëÃÀ¹úµÄ¶Ô¿¹½«¼ÌĞøÒÖÖÆÔö³¤£¬²¢³ÆËûÔ¤¼Æ2020Äê»ªÎª½«¼ÌĞø±»ÁĞÈë¡°ÊµÌåÇåµ¥¡±
+å³ä¾¿å¦‚æ­¤ï¼Œå¾ç›´å†›ä»è¡¨ç¤ºä¸ç¾å›½çš„å¯¹æŠ—å°†ç»§ç»­æŠ‘åˆ¶å¢é•¿ï¼Œå¹¶ç§°ä»–é¢„è®¡2020å¹´åä¸ºå°†ç»§ç»­è¢«åˆ—å…¥â€œå®ä½“æ¸…å•â€
 
 Difficulty is `the prelude` to greater success, and `adversity the whetstone of an iron-willed team`
-À§ÄÑ´ÓÀ´¶¼ÊÇ¸ü´óÊ¤ÀûµÄÇ°×à£¬ÌôÕ½¸üÊÇ¼áÇ¿¶ÓÎéµÄÄ¥µ¶Ê¯
+å›°éš¾ä»æ¥éƒ½æ˜¯æ›´å¤§èƒœåˆ©çš„å‰å¥ï¼ŒæŒ‘æˆ˜æ›´æ˜¯åšå¼ºé˜Ÿä¼çš„ç£¨åˆ€çŸ³
 
-Huawei, he said, will ¡°`need to go all out`¡± to develop software and services that work with its smartphones
-ËûËµ£¬»ªÎª½«¡°ĞèÒªÈ«Á¦¡±¿ª·¢ÓëÖÇÄÜÊÖ»ú¼æÈİµÄÈí¼şºÍ·şÎñ
+Huawei, he said, will â€œ`need to go all out`â€ to develop software and services that work with its smartphones
+ä»–è¯´ï¼Œåä¸ºå°†â€œéœ€è¦å…¨åŠ›â€å¼€å‘ä¸æ™ºèƒ½æ‰‹æœºå…¼å®¹çš„è½¯ä»¶å’ŒæœåŠ¡
 
-The company¡¯s shares are not `publicly traded` and it `has no obligation to` announce its results. `In a nod to transparency`, Huawei has long announced financials, and this year it began reporting unaudited results quarterly
-»ªÎª²¢Î´ÉÏÊĞ£¬Òò´ËÃ»ÓĞ¹«²¼²Æ±¨µÄÒåÎñ¡£ÎªÁËÌá¸ßÍ¸Ã÷¶È£¬¸Ã¹«Ë¾³¤ÆÚÒÔÀ´Ò»Ö±¶ÔÍâ¹«²¼²ÆÎñÊı¾İ£¬²¢ÓÚ½ñÄê¿ªÊ¼¹«¿ªÁËÎ´¾­Éó¼ÆµÄ¼¾¶È²Æ±¨
+The companyâ€™s shares are not `publicly traded` and it `has no obligation to` announce its results. `In a nod to transparency`, Huawei has long announced financials, and this year it began reporting unaudited results quarterly
+åä¸ºå¹¶æœªä¸Šå¸‚ï¼Œå› æ­¤æ²¡æœ‰å…¬å¸ƒè´¢æŠ¥çš„ä¹‰åŠ¡ã€‚ä¸ºäº†æé«˜é€æ˜åº¦ï¼Œè¯¥å…¬å¸é•¿æœŸä»¥æ¥ä¸€ç›´å¯¹å¤–å…¬å¸ƒè´¢åŠ¡æ•°æ®ï¼Œå¹¶äºä»Šå¹´å¼€å§‹å…¬å¼€äº†æœªç»å®¡è®¡çš„å­£åº¦è´¢æŠ¥
 
 The experience `struck a chord` for many Chinese white-collar tech employees, who are now `facing sagging returns` for long hours at the office
-´ËÊÂÒ²ÒıÆğÁËÖĞ¹ú¿Æ¼¼ĞĞÒµĞí¶à°×ÁìÔ±¹¤µÄ¹²Ãù£¬ËûÃÇÍ¬ÑùÃæÁÙ×Å³¤Ê±¼ä¼Ó°àÈ´ÄÑÒÔ»ñµÃ»Ø±¨µÄÀ§¾³
+æ­¤äº‹ä¹Ÿå¼•èµ·äº†ä¸­å›½ç§‘æŠ€è¡Œä¸šè®¸å¤šç™½é¢†å‘˜å·¥çš„å…±é¸£ï¼Œä»–ä»¬åŒæ ·é¢ä¸´ç€é•¿æ—¶é—´åŠ ç­å´éš¾ä»¥è·å¾—å›æŠ¥çš„å›°å¢ƒ
 
-Despite `the renewed focus` on Huawei¡¯s famous `hard-charging corporate spirit`, Mr. Xu did not `mince his metaphors` in describing the company¡¯s outlook on its employees
-¾¡¹ÜÈËÃÇ¿ªÊ¼ÖØĞÂ¹Ø×¢»ªÎªÖøÃûµÄ¡°ÀÇĞÔ¡±ÎÄ»¯£¬µ«ÔÚÃèÊö¹«Ë¾¶ÔÔ±¹¤µÄÆÚÍûÊ±£¬ĞìÖ±¾üÃ»ÓĞ¹ÕÍäÄ¨½Ç
+Despite `the renewed focus` on Huaweiâ€™s famous `hard-charging corporate spirit`, Mr. Xu did not `mince his metaphors` in describing the companyâ€™s outlook on its employees
+å°½ç®¡äººä»¬å¼€å§‹é‡æ–°å…³æ³¨åä¸ºè‘—åçš„â€œç‹¼æ€§â€æ–‡åŒ–ï¼Œä½†åœ¨æè¿°å…¬å¸å¯¹å‘˜å·¥çš„æœŸæœ›æ—¶ï¼Œå¾ç›´å†›æ²¡æœ‰æ‹å¼¯æŠ¹è§’
 
-¡°Managers at all levels need to `put company interests above personal gain` and go where they are `needed most`, including hardship regions,¡± he wrote, calling those willing to `put up with` such difficulties ¡°tree growers.¡±
-¡°¸÷¼¶¸É²¿ÒªÒÔ¹«Ë¾´ó¾ÖÎªÖØ£¬ÉÏ»ğÏß¡¢ÏÂÕ½º¾£¬µ½ÒµÎñ×îĞèÒªµÄµØ·½£¬µ½¼è¿àÇøÓò×÷Õ½£¬¡±ËûÕâÑùĞ´µÀ£¬²¢³ĞÅµ½«°ÑÔ¸Òâ¡°ÔÔÊ÷²¢³ÖĞø¹±Ï×µÄ¡±ÈËÌá°ÎÉÏÀ´
+â€œManagers at all levels need to `put company interests above personal gain` and go where they are `needed most`, including hardship regions,â€ he wrote, calling those willing to `put up with` such difficulties â€œtree growers.â€
+â€œå„çº§å¹²éƒ¨è¦ä»¥å…¬å¸å¤§å±€ä¸ºé‡ï¼Œä¸Šç«çº¿ã€ä¸‹æˆ˜å£•ï¼Œåˆ°ä¸šåŠ¡æœ€éœ€è¦çš„åœ°æ–¹ï¼Œåˆ°è‰°è‹¦åŒºåŸŸä½œæˆ˜ï¼Œâ€ä»–è¿™æ ·å†™é“ï¼Œå¹¶æ‰¿è¯ºå°†æŠŠæ„¿æ„â€œæ ½æ ‘å¹¶æŒç»­è´¡çŒ®çš„â€äººææ‹”ä¸Šæ¥
 
-¡°We will remove `mediocre managers` more quickly ¡ª people who have `lost their enterprising spirit`, who have `built their position on personal connections` or `empty and unactionable reporting`, and those who `prioritize short-term gains and pass problems on to` their successors,¡± he wrote, calling such people ¡°`the pit-diggers` among us.¡±
-»ªÎª½«¡°¼Ó¿ì¶ÔÆ½Ó¹¸É²¿ÌÔÌ­£¬¼á¾ö°Ñ²»Ë¼½øÈ¡¡¢¿¿»ì¹ØÏµ¡¢×ö±¨¸æ×øÉÏ¹ÜÀí¸ÚÎ»¡¢ÀúÊ·ÉÏÍÚ¹ı¿ÓµÄ¸É²¿³·ÏÂÀ´¡±£¬ËûĞ´µÀ
+â€œWe will remove `mediocre managers` more quickly â€” people who have `lost their enterprising spirit`, who have `built their position on personal connections` or `empty and unactionable reporting`, and those who `prioritize short-term gains and pass problems on to` their successors,â€ he wrote, calling such people â€œ`the pit-diggers` among us.â€
+åä¸ºå°†â€œåŠ å¿«å¯¹å¹³åº¸å¹²éƒ¨æ·˜æ±°ï¼Œåšå†³æŠŠä¸æ€è¿›å–ã€é æ··å…³ç³»ã€åšæŠ¥å‘Šåä¸Šç®¡ç†å²—ä½ã€å†å²ä¸ŠæŒ–è¿‡å‘çš„å¹²éƒ¨æ’¤ä¸‹æ¥â€ï¼Œä»–å†™é“
 
 The Chinese book world is `cautiously optimistic` that `the partial trade truce` reached this month between Beijing and Washington will `break the logjam`
-ÖĞ¹ú³ö°æ½ç½÷É÷ÀÖ¹ÛµØÈÏÎª£¬±¾ÔÂ±±¾©Óë»ªÊ¢¶ÙÖ®¼ä´ï³ÉµÄ¾Ö²¿Ã³Ò×Í£Õ½½«½áÊøÕâÒ»Í£ÖÍ¾ÖÃæ
+ä¸­å›½å‡ºç‰ˆç•Œè°¨æ…ä¹è§‚åœ°è®¤ä¸ºï¼Œæœ¬æœˆåŒ—äº¬ä¸åç››é¡¿ä¹‹é—´è¾¾æˆçš„å±€éƒ¨è´¸æ˜“åœæˆ˜å°†ç»“æŸè¿™ä¸€åœæ»å±€é¢
 
 People in the publishing industry `are reluctant to` discuss publicly which books have been `held up` for fear that Beijing will target them for speaking out. Many spoke `on condition of anonymity`
-ÓÉÓÚµ£ĞÄ±»Õë¶Ô£¬³ö°æÒµÈËÊ¿²»Ô¸¹«¿ªÌÖÂÛÄÄĞ©Êé±»¸éÖÃ¡£Ğí¶àÈËÒªÇóÄäÃû
+ç”±äºæ‹…å¿ƒè¢«é’ˆå¯¹ï¼Œå‡ºç‰ˆä¸šäººå£«ä¸æ„¿å…¬å¼€è®¨è®ºå“ªäº›ä¹¦è¢«æç½®ã€‚è®¸å¤šäººè¦æ±‚åŒ¿å
 
-¡°China and Japan,¡± about `the turbulent history` between the Asian giants by the `influential Sinologist` Ezra Vogel
-ººÑ§´ó¼Ò¸µ¸ßÒå(Ezra Vogel)µÄ¡¶ÖĞ¹úÓëÈÕ±¾¡·(China and Japan)£¬¹ØÓÚÁ½¸öÑÇÖŞ¾ŞÈËÖ®¼äµÄ¶¯µ´ÀúÊ·
+â€œChina and Japan,â€ about `the turbulent history` between the Asian giants by the `influential Sinologist` Ezra Vogel
+æ±‰å­¦å¤§å®¶å‚…é«˜ä¹‰(Ezra Vogel)çš„ã€Šä¸­å›½ä¸æ—¥æœ¬ã€‹(China and Japan)ï¼Œå…³äºä¸¤ä¸ªäºšæ´²å·¨äººä¹‹é—´çš„åŠ¨è¡å†å²
 
 Still, publishing industry `insiders` describe `a near freeze of regulatory approvals`, one that could make the publishing industry reluctant to `buy the rights to sell American books` in China
-²»¹ı³ö°æÒµµÄÄÚ²¿ÈËÊ¿³Æ£¬¼à¹Ü»ú¹¹µÄÉóÅú¼¸ºõÍêÈ«¶³½á£¬Õâµ¼ÖÂ³ö°æÒµ²»Ô¸Òâ¹ºÂòÃÀ¹úÍ¼ÊéÔÚ»ªÏúÊÛµÄ°æÈ¨
+ä¸è¿‡å‡ºç‰ˆä¸šçš„å†…éƒ¨äººå£«ç§°ï¼Œç›‘ç®¡æœºæ„çš„å®¡æ‰¹å‡ ä¹å®Œå…¨å†»ç»“ï¼Œè¿™å¯¼è‡´å‡ºç‰ˆä¸šä¸æ„¿æ„è´­ä¹°ç¾å›½å›¾ä¹¦åœ¨åé”€å”®çš„ç‰ˆæƒ
 
 His `autobiography` had been `scrubbed of mentions of` the Arab Spring protests and other material
-Æä×Ô´«ÖĞ£¬Ìá¼°°¢À­²®Ö®´º¿¹Òé»î¶¯µÈÄÚÈİµÄ²¿·ÖÒÑ±»É¾³ı
+å…¶è‡ªä¼ ä¸­ï¼ŒæåŠé˜¿æ‹‰ä¼¯ä¹‹æ˜¥æŠ—è®®æ´»åŠ¨ç­‰å†…å®¹çš„éƒ¨åˆ†å·²è¢«åˆ é™¤
 
 `Given the vast gulf` in understanding and communication between the U.S. and China, we should be worried about any `narrowing of the flow of information`
-¼øÓÚÖĞÃÀÁ½¹úÖ®¼äÔÚÀí½âºÍ¹µÍ¨·½Ãæ´æÔÚµÄ¾Ş´óºè¹µ£¬ÎÒÃÇÓĞÀíÓÉµ£ĞÄĞÅÏ¢Á÷Í¨µÄËõÕ­
+é‰´äºä¸­ç¾ä¸¤å›½ä¹‹é—´åœ¨ç†è§£å’Œæ²Ÿé€šæ–¹é¢å­˜åœ¨çš„å·¨å¤§é¸¿æ²Ÿï¼Œæˆ‘ä»¬æœ‰ç†ç”±æ‹…å¿ƒä¿¡æ¯æµé€šçš„ç¼©çª„
 
 Peter Navarro, his `hawkish trade adviser`, was ready with `a flurry of arguments` against the move
-Ó¥ÅÉÃ³Ò×¹ËÎÊ±ËµÃ¡¤ÄÉÍßÂŞÒÑ×¼±¸ºÃÓÃÒ»ÏµÁĞµÄÂÛµã·´¶Ô´Ë¾Ù
+é¹°æ´¾è´¸æ˜“é¡¾é—®å½¼å¾—Â·çº³ç“¦ç½—å·²å‡†å¤‡å¥½ç”¨ä¸€ç³»åˆ—çš„è®ºç‚¹åå¯¹æ­¤ä¸¾
 
-It was a familiar argument for Mr. Trump¡¯s top trade adviser, who has spent the past three years `fanning the president¡¯s protectionist instincts` and encouraging him to `embark on` a punishing trade war with China
-ÌØÀÊÆÕÊ×Ï¯Ã³Ò×¹ËÎÊµÄÂÛµã²¢²»ÁîÈËÄ°Éú£¬¹ıÈ¥ÈıÄê£¬ËûÒ»Ö±É¿¶¯×ÜÍ³µÄ±£»¤Ö÷Òå±¾ÄÜ£¬¹ÄÀø×ÜÍ³ÓëÖĞ¹ú¿ªÕ¹³Í·£ĞÔµÄÃ³Ò×Õ½
+It was a familiar argument for Mr. Trumpâ€™s top trade adviser, who has spent the past three years `fanning the presidentâ€™s protectionist instincts` and encouraging him to `embark on` a punishing trade war with China
+ç‰¹æœ—æ™®é¦–å¸­è´¸æ˜“é¡¾é—®çš„è®ºç‚¹å¹¶ä¸ä»¤äººé™Œç”Ÿï¼Œè¿‡å»ä¸‰å¹´ï¼Œä»–ä¸€ç›´ç…½åŠ¨æ€»ç»Ÿçš„ä¿æŠ¤ä¸»ä¹‰æœ¬èƒ½ï¼Œé¼“åŠ±æ€»ç»Ÿä¸ä¸­å›½å¼€å±•æƒ©ç½šæ€§çš„è´¸æ˜“æˆ˜
 
-Mr. Trump `dismissed Mr. Navarro¡¯s concerns`, `opting for` an initial deal with China
-ÌØÀÊÆÕ²»Àí»áÄÉÍßÂŞµÄµ£ÓÇ£¬Ñ¡ÔñÓëÖĞ¹ú´ï³É³õ²½Ğ­Òé
+Mr. Trump `dismissed Mr. Navarroâ€™s concerns`, `opting for` an initial deal with China
+ç‰¹æœ—æ™®ä¸ç†ä¼šçº³ç“¦ç½—çš„æ‹…å¿§ï¼Œé€‰æ‹©ä¸ä¸­å›½è¾¾æˆåˆæ­¥åè®®
 
 `What happens in the Oval should stay in the Oval`, both for `the sanctity and security` of the internal discussions and `for the good of the country`
-ÎªÁËÄÚ²¿ÌÖÂÛµÄÉñÊ¥ĞÔºÍ°²È«ĞÔ£¬Ò²ÎªÁË¹ú¼ÒµÄÀûÒæ£¬ÍÖÔ²ĞÎ°ì¹«ÊÒ·¢ÉúµÄÊÂÇé²»Ó¦Íâ´«
+ä¸ºäº†å†…éƒ¨è®¨è®ºçš„ç¥åœ£æ€§å’Œå®‰å…¨æ€§ï¼Œä¹Ÿä¸ºäº†å›½å®¶çš„åˆ©ç›Šï¼Œæ¤­åœ†å½¢åŠå…¬å®¤å‘ç”Ÿçš„äº‹æƒ…ä¸åº”å¤–ä¼ 
 
-An academic `with little previous government or business experience`, Mr. Navarro has `managed to exert enormous influence over` United States trade policy by `tapping into` the president¡¯s `disdain for globalization`
-ÄÉÍßÂŞÊÇÒ»Î»¼¸ºõÃ»ÓĞÕş¸®ºÍÉÌÒµ¾­ÑéµÄÑ§Õß£¬ËûÀûÓÃ×ÜÍ³¶ÔÈ«Çò»¯µÄÃïÊÓ£¬³É¹¦¶ÔÃÀ¹úÃ³Ò×Õş²ßÊ©¼ÓÁË¾Ş´óÓ°Ïì
+An academic `with little previous government or business experience`, Mr. Navarro has `managed to exert enormous influence over` United States trade policy by `tapping into` the presidentâ€™s `disdain for globalization`
+çº³ç“¦ç½—æ˜¯ä¸€ä½å‡ ä¹æ²¡æœ‰æ”¿åºœå’Œå•†ä¸šç»éªŒçš„å­¦è€…ï¼Œä»–åˆ©ç”¨æ€»ç»Ÿå¯¹å…¨çƒåŒ–çš„è”‘è§†ï¼ŒæˆåŠŸå¯¹ç¾å›½è´¸æ˜“æ”¿ç­–æ–½åŠ äº†å·¨å¤§å½±å“
 
 For all the criticism he gets from `the free trade wing of` the Republican Party, he was one of the first people to `ring the alarm` on China years ago
-¾¡¹Ü¹²ºÍµ³×ÔÓÉÃ³Ò×ÅÉ¶ÔËû×ö³öÁË¸÷ÖÖÅúÆÀ£¬µ«ËûÈÔÊÇ¶àÄêÇ°Ê×ÏÈÇÃÏìÖĞ¹ú¾¯ÖÓµÄÈËÖ®Ò»
+å°½ç®¡å…±å’Œå…šè‡ªç”±è´¸æ˜“æ´¾å¯¹ä»–åšå‡ºäº†å„ç§æ‰¹è¯„ï¼Œä½†ä»–ä»æ˜¯å¤šå¹´å‰é¦–å…ˆæ•²å“ä¸­å›½è­¦é’Ÿçš„äººä¹‹ä¸€
 
-He¡¯s helped `step up inspections` of Chinese packages to `crack down on online counterfeiting` and gotten involved with a project to `revive American shipyards`
-Ëû°ïÖú¼ÓÇ¿ÁË¶ÔÖĞ¹ú°ü¹üµÄ¼ì²é£¬ÒÔ´ò»÷ÍøÂç¼ÙÃ°²úÆ·£¬²¢²ÎÓëÁËÒ»¸öÖØÕñÃÀ¹úÔì´¬³§µÄÏîÄ¿
+Heâ€™s helped `step up inspections` of Chinese packages to `crack down on online counterfeiting` and gotten involved with a project to `revive American shipyards`
+ä»–å¸®åŠ©åŠ å¼ºäº†å¯¹ä¸­å›½åŒ…è£¹çš„æ£€æŸ¥ï¼Œä»¥æ‰“å‡»ç½‘ç»œå‡å†’äº§å“ï¼Œå¹¶å‚ä¸äº†ä¸€ä¸ªé‡æŒ¯ç¾å›½é€ èˆ¹å‚çš„é¡¹ç›®
 
-You don¡¯t need to be `a big bloated bureaucracy`. All you need be is `lean and flat and nimble` enough to `harness agency resources` for the president and his agenda
-Äã²»ĞèÒª³ÉÎªÒ»¸öÓ·Ö×µÄ¹ÙÁÅ»ú¹¹¡£ÄãĞèÒª×öµÄ¾ÍÊÇ¾«¼ò¡¢±âÆ½»¯ºÍÁé»îµØÀûÓÃ»ú¹¹×ÊÔ´£¬Îª×ÜÍ³ºÍËûµÄÒé³Ì·şÎñ
+You donâ€™t need to be `a big bloated bureaucracy`. All you need be is `lean and flat and nimble` enough to `harness agency resources` for the president and his agenda
+ä½ ä¸éœ€è¦æˆä¸ºä¸€ä¸ªè‡ƒè‚¿çš„å®˜åƒšæœºæ„ã€‚ä½ éœ€è¦åšçš„å°±æ˜¯ç²¾ç®€ã€æ‰å¹³åŒ–å’Œçµæ´»åœ°åˆ©ç”¨æœºæ„èµ„æºï¼Œä¸ºæ€»ç»Ÿå’Œä»–çš„è®®ç¨‹æœåŠ¡
 
 VMware, `the jewel in the crown` at Dell Technologies, is one of the cheapest tech stocks you can buy right now
-VMware¹«Ë¾ÊÇDellÆìÏÂÈçÍ¬Íõ¹ÚÉÏµÄ±¦Ê¯£¬Ò»¸ö×î±ãÒËµÄÄãÄÜ¹»ÏÖÔÚÍ¶×ÊµÄ¼¼Êõ¹ÉÆ±
+VMwareå…¬å¸æ˜¯Dellæ——ä¸‹å¦‚åŒç‹å† ä¸Šçš„å®çŸ³ï¼Œä¸€ä¸ªæœ€ä¾¿å®œçš„ä½ èƒ½å¤Ÿç°åœ¨æŠ•èµ„çš„æŠ€æœ¯è‚¡ç¥¨
 
-But TikTok¡¯s popularity and its roots in China, where no large corporation can `thrive outside the good graces of the government`, have `prompted intense scrutiny` of the app¡¯s content policies and data practices
-µ«ÊÇTikTokÔ´ÓÚÖĞ¹ú£¬ÔÚÄÇÀï£¬ÈÎºÎÒ»¼Ò´ó¹«Ë¾Ã»ÓĞ»ñµÃÕş¸®µÄºÃ¸ĞÊÇÄÑÒÔ×Â×³³É³¤µÄ£¬¼ÓÖ®TikTokµÄÁ÷ĞĞ³Ì¶È£¬Õâ´ÙÊ¹ÈËÃÇ¶Ô¸ÃÓ¦ÓÃ³ÌĞòµÄÄÚÈİÕş²ßºÍÊı¾İÊµ¼ù½øĞĞÁËÑÏ¸ñÉó²é
+But TikTokâ€™s popularity and its roots in China, where no large corporation can `thrive outside the good graces of the government`, have `prompted intense scrutiny` of the appâ€™s content policies and data practices
+ä½†æ˜¯TikTokæºäºä¸­å›½ï¼Œåœ¨é‚£é‡Œï¼Œä»»ä½•ä¸€å®¶å¤§å…¬å¸æ²¡æœ‰è·å¾—æ”¿åºœçš„å¥½æ„Ÿæ˜¯éš¾ä»¥èŒå£®æˆé•¿çš„ï¼ŒåŠ ä¹‹TikTokçš„æµè¡Œç¨‹åº¦ï¼Œè¿™ä¿ƒä½¿äººä»¬å¯¹è¯¥åº”ç”¨ç¨‹åºçš„å†…å®¹æ”¿ç­–å’Œæ•°æ®å®è·µè¿›è¡Œäº†ä¸¥æ ¼å®¡æŸ¥
 
-TikTok agreed to pay $5.7 million to `settle the complaint` and said it would `abide by` COPPA(Children¡¯s Online Privacy Protection Act)
-TikTokÍ¬ÒâÖ§¸¶570ÍòÃÀÔª´ï³ÉºÍ½â£¬²¢±íÊ¾½«×ñÊØ¡¶¶ùÍ¯ÔÚÏßÒşË½±£»¤·¨¡·
+TikTok agreed to pay $5.7 million to `settle the complaint` and said it would `abide by` COPPA(Childrenâ€™s Online Privacy Protection Act)
+TikTokåŒæ„æ”¯ä»˜570ä¸‡ç¾å…ƒè¾¾æˆå’Œè§£ï¼Œå¹¶è¡¨ç¤ºå°†éµå®ˆã€Šå„¿ç«¥åœ¨çº¿éšç§ä¿æŠ¤æ³•ã€‹
 
 Dinat Yur `is fed up with living` in a place where `winters drag on` for six months and the average `annual temperature is below freezing`
-µÏÄÉÌØ¡¤ÓÈ¶ûÒ²Ñá¾ëÁËÉú»îÔÚÕâÑùÒ»¸öµØ·½£º¶¬¼¾³¤´ïÁù¸öÔÂ£¬ÄêÆ½¾ùÆøÎÂµÍÓÚ±ùµã
+è¿ªçº³ç‰¹Â·å°¤å°”ä¹ŸåŒå€¦äº†ç”Ÿæ´»åœ¨è¿™æ ·ä¸€ä¸ªåœ°æ–¹ï¼šå†¬å­£é•¿è¾¾å…­ä¸ªæœˆï¼Œå¹´å¹³å‡æ°”æ¸©ä½äºå†°ç‚¹
 
 `Born and raised in` a city proud of `its resilience against climatic` and `all other odds`, Mr. Yur has for the moment found `his calling in a defiantly contrarian occupation` for a place so cold: He makes ice cream
-ÓÈ¶û³öÉú²¢³É³¤ÔÚÒ»¸öÒÔµÖÓù¶ñÁÓÆøºòºÍÆäËûÖÖÖÖ²»ÀûÒòËØÎªÈÙµÄ³ÇÊĞ£¬Èç½ñ£¬ËûµÄÊ¹ÃüÊÇÔÚÒ»¸öÕâÃ´ÀäµÄµØ·½´ÓÊÂÒ»ÏîÒ»·´³£¹æµÄÊÂÒµ£ºÖÆ×÷±ùä¿ÁÜ
+å°¤å°”å‡ºç”Ÿå¹¶æˆé•¿åœ¨ä¸€ä¸ªä»¥æŠµå¾¡æ¶åŠ£æ°”å€™å’Œå…¶ä»–ç§ç§ä¸åˆ©å› ç´ ä¸ºè£çš„åŸå¸‚ï¼Œå¦‚ä»Šï¼Œä»–çš„ä½¿å‘½æ˜¯åœ¨ä¸€ä¸ªè¿™ä¹ˆå†·çš„åœ°æ–¹ä»äº‹ä¸€é¡¹ä¸€åå¸¸è§„çš„äº‹ä¸šï¼šåˆ¶ä½œå†°æ·‡æ·‹
 
 He `was hard at work` mixing milk, sugar and `a raspberry mush imported` from Italy to produce `a summery swirl of frozen gelato`
-ÓÈ¶ûÔÚĞÁÇÚµØÀÍ×÷×Å£¬°ÑÅ£ÄÌ¡¢ÌÇºÍÒâ´óÀû½ø¿ÚµÄ¸²Åè×Óºı×ö³ÉÒ»¸ö³äÂúÏÄÈÕ·çÇéµÄÒâÊ½±ù¼¤ÁèäöÎĞ
+å°¤å°”åœ¨è¾›å‹¤åœ°åŠ³ä½œç€ï¼ŒæŠŠç‰›å¥¶ã€ç³–å’Œæ„å¤§åˆ©è¿›å£çš„è¦†ç›†å­ç³Šåšæˆä¸€ä¸ªå……æ»¡å¤æ—¥é£æƒ…çš„æ„å¼å†°æ¿€å‡Œæ¼©æ¶¡
 
-Eating his `confections outside` during winter, Mr. Yur `conceded, is not a good idea` ¡ª they quickly turn to `teeth-cracking chunks of ice`
-ÓÈ¶û³ĞÈÏ£¬¶¬ÌìÔÚÊÒÍâ³ÔËûµÄÌğÆ·²»ÊÇÊ²Ã´ºÃÖ÷Òâ¡ª¡ªËüÃÇºÜ¿ì¾Í»á±ä³ÉÄÜ±ÀËéÑÀ³İµÄ´ó±ù¿é
+Eating his `confections outside` during winter, Mr. Yur `conceded, is not a good idea` â€” they quickly turn to `teeth-cracking chunks of ice`
+å°¤å°”æ‰¿è®¤ï¼Œå†¬å¤©åœ¨å®¤å¤–åƒä»–çš„ç”œå“ä¸æ˜¯ä»€ä¹ˆå¥½ä¸»æ„â€”â€”å®ƒä»¬å¾ˆå¿«å°±ä¼šå˜æˆèƒ½å´©ç¢ç‰™é½¿çš„å¤§å†°å—
 
-Russia¡¯s `curious love affair with ice cream` has long been a subject of `theorizing about` how a country `plagued by such terrible weather` and other `miserable conditions` `manages to keep going`, `prevailing over seemingly unsurmountable hurdles`
-³¤ÆÚÒÔÀ´£¬ÈËÃÇÒ»Ö±ÔÚÊÔÍ¼Àí½â£¬Ò»¸öÈç´Ë±¥ÊÜ¶ñÁÓÌìÆøºÍÆäËû¶ñÁÓÌõ¼şÕÛÄ¥µÄ¹ú¼Ò£¬ÊÇÔõÃ´¿Ë·ş¿´ËÆÎŞ·¨ÓâÔ½µÄÕÏ°­Å¬Á¦Ç°ĞĞµÄ£¬¶øÆä¹úÃñ¶Ô±ù¼¤ÁèµÄÈÈ°®¾ÍÊÇ¿ÎÌâÖ®Ò»
+Russiaâ€™s `curious love affair with ice cream` has long been a subject of `theorizing about` how a country `plagued by such terrible weather` and other `miserable conditions` `manages to keep going`, `prevailing over seemingly unsurmountable hurdles`
+é•¿æœŸä»¥æ¥ï¼Œäººä»¬ä¸€ç›´åœ¨è¯•å›¾ç†è§£ï¼Œä¸€ä¸ªå¦‚æ­¤é¥±å—æ¶åŠ£å¤©æ°”å’Œå…¶ä»–æ¶åŠ£æ¡ä»¶æŠ˜ç£¨çš„å›½å®¶ï¼Œæ˜¯æ€ä¹ˆå…‹æœçœ‹ä¼¼æ— æ³•é€¾è¶Šçš„éšœç¢åŠªåŠ›å‰è¡Œçš„ï¼Œè€Œå…¶å›½æ°‘å¯¹å†°æ¿€å‡Œçš„çƒ­çˆ±å°±æ˜¯è¯¾é¢˜ä¹‹ä¸€
 
 `Particularly popular in Russia is a story`, probably `apocryphal`, about a visit to Moscow in the winter of 1944 by Winston Churchill
-ÔÚ¶íÂŞË¹Á÷ĞĞ×ÅÒ»¸ö¿ÉÄÜÊÇ¶Å×«µÄ¹ÊÊÂ£¬1944Äê¶¬ÌìÎÂË¹¶Ù¡¤Çğ¼ª¶û·ÃÎÊÄªË¹¿Æ
+åœ¨ä¿„ç½—æ–¯æµè¡Œç€ä¸€ä¸ªå¯èƒ½æ˜¯æœæ’°çš„æ•…äº‹ï¼Œ1944å¹´å†¬å¤©æ¸©æ–¯é¡¿Â·ä¸˜å‰å°”è®¿é—®è«æ–¯ç§‘
 
-Moscow, however, has winters that usually `hover in the 20s Fahrenheit` ¡ª meaning that Magadan is `pushing the limits of this against-the-odds spirit`
-È»¶ø£¬ÄªË¹¿ÆµÄ¶¬ÌìÍ¨³£ÔÚÁãÏÂÁùÉãÊÏ¶È×óÓÒÅÇ»²¡ª¡ªÕâÒâÎ¶×ÅÂí¼Óµ¤ÊÇÔÚÌôÕ½ÕâÖÖ²»Î·À§ÄÑ¾«ÉñµÄ¼«ÏŞ
+Moscow, however, has winters that usually `hover in the 20s Fahrenheit` â€” meaning that Magadan is `pushing the limits of this against-the-odds spirit`
+ç„¶è€Œï¼Œè«æ–¯ç§‘çš„å†¬å¤©é€šå¸¸åœ¨é›¶ä¸‹å…­æ‘„æ°åº¦å·¦å³å¾˜å¾Šâ€”â€”è¿™æ„å‘³ç€é©¬åŠ ä¸¹æ˜¯åœ¨æŒ‘æˆ˜è¿™ç§ä¸ç•å›°éš¾ç²¾ç¥çš„æé™
 
 Only Russians never rushed to Magadan; they `were dragged there`. The only `recent rush has been to the exit`. Young people particularly are `making a run for it, a stampede`
-Ö»ÊÇ¶íÂŞË¹ÈË²¢²»ÊÇÓ¿ÏòÂí¼Óµ¤£¬¶øÊÇ±»ÍÏµ½ÄÇÀïÈ¥µÄ. ×î½ü£¬ÄÇÀïÎ¨Ò»µÄÈÈ³±ÊÇÈËÃÇ¾ºÏàÀë¿ªµÄÀË³±. ÄêÇáÈËÓÈÆäĞÄ¼±
+åªæ˜¯ä¿„ç½—æ–¯äººå¹¶ä¸æ˜¯æ¶Œå‘é©¬åŠ ä¸¹ï¼Œè€Œæ˜¯è¢«æ‹–åˆ°é‚£é‡Œå»çš„. æœ€è¿‘ï¼Œé‚£é‡Œå”¯ä¸€çš„çƒ­æ½®æ˜¯äººä»¬ç«ç›¸ç¦»å¼€çš„æµªæ½®. å¹´è½»äººå°¤å…¶å¿ƒæ€¥
 
-`Aside from its bleak weather` and even bleaker history, Magadan is, `if truth be told`, no worse ¡ª and `in some respects better` ¡ª than many provincial Russian towns
-ËµÊµ»°£¬³ıÁË»ÄÁ¹µÄÌìÆøºÍ¸ü»ÄÁ¹µÄÀúÊ·£¬Âí¼Óµ¤²»±ÈĞí¶à¶íÂŞË¹µØ·½³ÇÕò²î£¬²¢ÇÒÔÚÄ³Ğ©·½Ãæ»¹¸üºÃ
+`Aside from its bleak weather` and even bleaker history, Magadan is, `if truth be told`, no worse â€” and `in some respects better` â€” than many provincial Russian towns
+è¯´å®è¯ï¼Œé™¤äº†è’å‡‰çš„å¤©æ°”å’Œæ›´è’å‡‰çš„å†å²ï¼Œé©¬åŠ ä¸¹ä¸æ¯”è®¸å¤šä¿„ç½—æ–¯åœ°æ–¹åŸé•‡å·®ï¼Œå¹¶ä¸”åœ¨æŸäº›æ–¹é¢è¿˜æ›´å¥½
 
 `Another plus` is climate change, which is `making winters somewhat milder`
-»¹ÓĞ¸ö¼Ó·ÖÏîÊÇÆøºò±ä»¯ÈÃÕâÀïµÄ¶¬ÌìÉÔÎ¢Ã»ÄÇÃ´¿ÉÅÂÁË
+è¿˜æœ‰ä¸ªåŠ åˆ†é¡¹æ˜¯æ°”å€™å˜åŒ–è®©è¿™é‡Œçš„å†¬å¤©ç¨å¾®æ²¡é‚£ä¹ˆå¯æ€•äº†
 
 But for many people in Magadan, the end of the Soviet Union meant `economic ruin`. The `slashing of` Soviet-era subsidies `sent Magadan salaries tumbling`
-µ«ÊÇ¶ÔÓÚÂí¼Óµ¤ÖİµÄĞí¶àÈËÀ´Ëµ£¬ËÕÁªµÄ½âÌåÒâÎ¶×Å¾­¼ÃµÄ±ÀÀ£¡£ËÕÁªÊ±ÆÚµÄ²¹Ìù±»´ó·ùÏ÷¼õ£¬Ê¹Âí¼Óµ¤µÄĞ½Ë®´óµø
+ä½†æ˜¯å¯¹äºé©¬åŠ ä¸¹å·çš„è®¸å¤šäººæ¥è¯´ï¼Œè‹è”çš„è§£ä½“æ„å‘³ç€ç»æµçš„å´©æºƒã€‚è‹è”æ—¶æœŸçš„è¡¥è´´è¢«å¤§å¹…å‰Šå‡ï¼Œä½¿é©¬åŠ ä¸¹çš„è–ªæ°´å¤§è·Œ
 
-Mr. Putin, though, has `done the opposite`, stressing the importance of `keeping remote northern outposts alive`, `no matter the cost`. His `calculations include` security, patriotic pride in Russia¡¯s reach, and economics: Most of Russia¡¯s `natural resources lie beneath the ice` and snow of places like Magadan and the nearby wilds.
-²»¹ı£¬ÆÕ¾©È´×öÁËÏà·´µÄÊÂÇé£¬ËûÇ¿µ÷²»¼Æ´ú¼Û±£×¡Õâ¸öÆ«Ô¶µÄ±±²¿¾Ó×¡µØµÄ»îÁ¦¡£ËûµÄ³ïËã°üÀ¨°²È«£¬¶Ô¶íÂŞË¹µÄ°®¹ú×ÔºÀ¸ĞºÍ¾­¼ÃÒòËØ£º¶íÂŞË¹µÄ´ó²¿·Ö×ÔÈ»×ÊÔ´¶¼Î»ÓÚÂí¼Óµ¤ºÍ¸½½üÒ°ÍâµÄ±ùÑ©¸²¸ÇÏÂ
+Mr. Putin, though, has `done the opposite`, stressing the importance of `keeping remote northern outposts alive`, `no matter the cost`. His `calculations include` security, patriotic pride in Russiaâ€™s reach, and economics: Most of Russiaâ€™s `natural resources lie beneath the ice` and snow of places like Magadan and the nearby wilds.
+ä¸è¿‡ï¼Œæ™®äº¬å´åšäº†ç›¸åçš„äº‹æƒ…ï¼Œä»–å¼ºè°ƒä¸è®¡ä»£ä»·ä¿ä½è¿™ä¸ªåè¿œçš„åŒ—éƒ¨å±…ä½åœ°çš„æ´»åŠ›ã€‚ä»–çš„ç­¹ç®—åŒ…æ‹¬å®‰å…¨ï¼Œå¯¹ä¿„ç½—æ–¯çš„çˆ±å›½è‡ªè±ªæ„Ÿå’Œç»æµå› ç´ ï¼šä¿„ç½—æ–¯çš„å¤§éƒ¨åˆ†è‡ªç„¶èµ„æºéƒ½ä½äºé©¬åŠ ä¸¹å’Œé™„è¿‘é‡å¤–çš„å†°é›ªè¦†ç›–ä¸‹
 
 Government subsidies also help keep `the interest rate on mortgages` in town much lower than in warmer parts of Russia
-Õş¸®²¹Ìù»¹ÓĞÖúÓÚÊ¹µ±µØ³ÇÕòµÖÑº´û¿îµÄÀûÂÊ±£³ÖÔÚÔ¶µÍÓÚ¶íÂŞË¹ÎÂÅ¯µØÇøµÄË®Æ½
+æ”¿åºœè¡¥è´´è¿˜æœ‰åŠ©äºä½¿å½“åœ°åŸé•‡æŠµæŠ¼è´·æ¬¾çš„åˆ©ç‡ä¿æŒåœ¨è¿œä½äºä¿„ç½—æ–¯æ¸©æš–åœ°åŒºçš„æ°´å¹³
 
 While Magadan `is blessed with` rich supplies of gold, silver and other natural resources, conditions are `so harsh that` some economists still question
-¾¡¹ÜÂí¼Óµ¤ÓµÓĞ·á¸»µÄ»Æ½ğ¡¢ÒøºÍÆäËû×ÔÈ»×ÊÔ´£¬µ«Ìõ¼şÈç´Ë¶ñÁÓ£¬ÒÔÖÁÓÚÒ»Ğ©¾­¼ÃÑ§¼ÒÈÔÔÚÖÊÒÉ
+å°½ç®¡é©¬åŠ ä¸¹æ‹¥æœ‰ä¸°å¯Œçš„é»„é‡‘ã€é“¶å’Œå…¶ä»–è‡ªç„¶èµ„æºï¼Œä½†æ¡ä»¶å¦‚æ­¤æ¶åŠ£ï¼Œä»¥è‡³äºä¸€äº›ç»æµå­¦å®¶ä»åœ¨è´¨ç–‘
 
-To `lift flagging spirits`, municipal buses `are emblazoned with a defiant statement` of the city¡¯s will to survive: ¡°Magadan was, is and will be.¡±
-ÎªÁËÕñ×÷¾«Éñ£¬¹«½»³µÉÏĞÑÄ¿µØÕ¹Ê¾×Å¶Ô³ÇÊĞÉú´æÒâÔ¸µÄ¿¹ÕùÉùÃ÷£º¡°Âí¼Óµ¤ÓĞÔø¾­£¬ÓĞÏÖÔÚ£¬Ò²ÓĞÎ´À´¡£¡±
+To `lift flagging spirits`, municipal buses `are emblazoned with a defiant statement` of the cityâ€™s will to survive: â€œMagadan was, is and will be.â€
+ä¸ºäº†æŒ¯ä½œç²¾ç¥ï¼Œå…¬äº¤è½¦ä¸Šé†’ç›®åœ°å±•ç¤ºç€å¯¹åŸå¸‚ç”Ÿå­˜æ„æ„¿çš„æŠ—äº‰å£°æ˜ï¼šâ€œé©¬åŠ ä¸¹æœ‰æ›¾ç»ï¼Œæœ‰ç°åœ¨ï¼Œä¹Ÿæœ‰æœªæ¥ã€‚â€
 
-The phrase `borrows, inauspiciously, from a less-than-successful Soviet-era slogan` once plastered across the country: ¡°Lenin lived, lives and will live!¡±
-Õâ¾ä»°²»Ì«¼ªÀûµØ½èÓÃÁËÔø¾­ÔÚÈ«¹ú·¶Î§Ğû´«µÄ¡¢²»Ì«³É¹¦µÄËÕÁªÊ±´ú¿ÚºÅ£º¡°ÁĞÄş»îÔÚ¹ıÈ¥£¬»îÔÚÏÖÔÚ£¬Ò²½«ÓÀÔ¶»îÔÚÎ´À´£¡¡±
+The phrase `borrows, inauspiciously, from a less-than-successful Soviet-era slogan` once plastered across the country: â€œLenin lived, lives and will live!â€
+è¿™å¥è¯ä¸å¤ªå‰åˆ©åœ°å€Ÿç”¨äº†æ›¾ç»åœ¨å…¨å›½èŒƒå›´å®£ä¼ çš„ã€ä¸å¤ªæˆåŠŸçš„è‹è”æ—¶ä»£å£å·ï¼šâ€œåˆ—å®æ´»åœ¨è¿‡å»ï¼Œæ´»åœ¨ç°åœ¨ï¼Œä¹Ÿå°†æ°¸è¿œæ´»åœ¨æœªæ¥ï¼â€
 
 For days, Li Bin `had what felt like a cold`, with a high fever of between 102 and 105
-¼¸ÌìÀ´£¬Àî±óÒ»Ö±¸ĞÃ°£¬¸ßÉÕÔÚ38.8µ½40.5¶ÈÖ®¼ä
+å‡ å¤©æ¥ï¼Œææ–Œä¸€ç›´æ„Ÿå†’ï¼Œé«˜çƒ§åœ¨38.8åˆ°40.5åº¦ä¹‹é—´
 
 A doctor told him he had `a form of viral pneumonia`, without offering `specifics`. Mr. Li, 42, was hospitalized, then transferred to another facility and `quarantined with` other patients who had similarly unexplained symptoms
-Ò½Éú¸æËßËû£¬Ëû»¼ÓĞÄ³ÖÖĞÎÊ½µÄ²¡¶¾ĞÔ·ÎÑ×£¬µ«Ã»ÓĞÌá¹©¾ßÌåĞÅÏ¢¡£42ËêµÄÀî±ó×¡Ôººó£¬±»×ªÒÆµ½ÁíÒ»¼ÒÒ½Ôº£¬ÓëÆäËûÓĞÏàËÆÖ¢×´¡¢²¡Òò²»Ã÷µÄ»¼ÕßÒ»Æğ¸ôÀë
+åŒ»ç”Ÿå‘Šè¯‰ä»–ï¼Œä»–æ‚£æœ‰æŸç§å½¢å¼çš„ç—…æ¯’æ€§è‚ºç‚ï¼Œä½†æ²¡æœ‰æä¾›å…·ä½“ä¿¡æ¯ã€‚42å²çš„ææ–Œä½é™¢åï¼Œè¢«è½¬ç§»åˆ°å¦ä¸€å®¶åŒ»é™¢ï¼Œä¸å…¶ä»–æœ‰ç›¸ä¼¼ç—‡çŠ¶ã€ç—…å› ä¸æ˜çš„æ‚£è€…ä¸€èµ·éš”ç¦»
 
 The cases have `alarmed Chinese officials`, who are `racing to unravel the mystery` behind them in a region where the memory of an outbreak of `the dangerous respiratory disease` known as SARS `remains fresh`
-ÕâĞ©²¡ÀıÊ¹ÖĞ¹ú¹ÙÔ±¸Ğµ½µ£ÓÇ£¬ËûÃÇÕıÔÚÅ¬Á¦ÕÒ³öÕâĞ©ÉñÃØ²¡Àı±³ºóµÄÔ­Òò£¬ÔÚ¸ÃµØÇø£¬±»³Æ×÷SARSµÄÎ£ÏÕºôÎüµÀ¼²²¡±¬·¢µÄ¼ÇÒä»¹ÀúÀúÔÚÄ¿
+è¿™äº›ç—…ä¾‹ä½¿ä¸­å›½å®˜å‘˜æ„Ÿåˆ°æ‹…å¿§ï¼Œä»–ä»¬æ­£åœ¨åŠªåŠ›æ‰¾å‡ºè¿™äº›ç¥ç§˜ç—…ä¾‹èƒŒåçš„åŸå› ï¼Œåœ¨è¯¥åœ°åŒºï¼Œè¢«ç§°ä½œSARSçš„å±é™©å‘¼å¸é“ç–¾ç—…çˆ†å‘çš„è®°å¿†è¿˜å†å†åœ¨ç›®
 
 Symptoms of the new illness include high fever, `difficulty breathing and lung lesions`, the city government said they had `ruled out` as causes SARS, the Middle East Respiratory Syndrome (MERS), bird flu and the adenovirus
-ĞÂ¼²²¡µÄÖ¢×´°üÀ¨¸ßÉÕ¡¢ºôÎüÀ§ÄÑºÍ·Î²¿²¡±ä, ÊĞÕş¸®±íÊ¾£¬ËûÃÇÒÑ¾­ÅÅ³ıÁËSARS¡¢ÖĞ¶«ºôÎü×ÛºÏÕ÷(MERS)¡¢ÇİÁ÷¸ĞºÍÏÙ²¡¶¾²¡Ô­
+æ–°ç–¾ç—…çš„ç—‡çŠ¶åŒ…æ‹¬é«˜çƒ§ã€å‘¼å¸å›°éš¾å’Œè‚ºéƒ¨ç—…å˜, å¸‚æ”¿åºœè¡¨ç¤ºï¼Œä»–ä»¬å·²ç»æ’é™¤äº†SARSã€ä¸­ä¸œå‘¼å¸ç»¼åˆå¾(MERS)ã€ç¦½æµæ„Ÿå’Œè…ºç—…æ¯’ç—…åŸ
 
 Experts have said `contact with infected animals` was `the likeliest source of transmission`
-×¨¼ÒËµÓë±»¸ĞÈ¾¶¯ÎïµÄ½Ó´¥ÊÇ×î¿ÉÄÜµÄ´«²¥À´Ô´
+ä¸“å®¶è¯´ä¸è¢«æ„ŸæŸ“åŠ¨ç‰©çš„æ¥è§¦æ˜¯æœ€å¯èƒ½çš„ä¼ æ’­æ¥æº
 
-Those `strains are particularly evident` in `the convenience store` industry. Japan¡¯s `chains` have greatly expanded in recent years `in an effort to` capture market share at one another¡¯s expense
-ÕâĞ©Ñ¹Á¦ÔÚ±ãÀûµêĞĞÒµÖĞÓÈÎªÃ÷ÏÔ¡£½üÄêÀ´£¬ÈÕ±¾µÄÁ¬ËøµêÒÑ¼«ËÙÀ©Õ¹£¬ÎªÁËÊĞ³¡·İ¶îÕ¹¿ªÄãËÀÎÒ»îµÄ¾ºÕù
+Those `strains are particularly evident` in `the convenience store` industry. Japanâ€™s `chains` have greatly expanded in recent years `in an effort to` capture market share at one anotherâ€™s expense
+è¿™äº›å‹åŠ›åœ¨ä¾¿åˆ©åº—è¡Œä¸šä¸­å°¤ä¸ºæ˜æ˜¾ã€‚è¿‘å¹´æ¥ï¼Œæ—¥æœ¬çš„è¿é”åº—å·²æé€Ÿæ‰©å±•ï¼Œä¸ºäº†å¸‚åœºä»½é¢å±•å¼€ä½ æ­»æˆ‘æ´»çš„ç«äº‰
 
-While the expenses for the chains were minimal, the expansion `took a toll on the franchisees` who operate the vast majority of Japan¡¯s more than 55,000 convenience stores
-Á¬ËøÆóÒµµÄÖ§³öÎ¢ºõÆäÎ¢£¬µ«À©ÕÅÈ´¸ø¼ÓÃËÉÌÔì³ÉÁËËğÊ§£¬ËûÃÇ¾­Óª×ÅÈÕ±¾5.5Íò¶à¼Ò±ãÀûµêµÄ¾ø´ó²¿·Ö
+While the expenses for the chains were minimal, the expansion `took a toll on the franchisees` who operate the vast majority of Japanâ€™s more than 55,000 convenience stores
+è¿é”ä¼ä¸šçš„æ”¯å‡ºå¾®ä¹å…¶å¾®ï¼Œä½†æ‰©å¼ å´ç»™åŠ ç›Ÿå•†é€ æˆäº†æŸå¤±ï¼Œä»–ä»¬ç»è¥ç€æ—¥æœ¬5.5ä¸‡å¤šå®¶ä¾¿åˆ©åº—çš„ç»å¤§éƒ¨åˆ†
 
 Even back then, I `was preoccupied with` store operations, worrying about `sudden cancellation by part-time workers`. I had to hold a mobile phone while I `soaked in a spa`
-¼´Ê¹ÔÚÄÇÊ±£¬ÎÒÒ²µÃÈ«Éñ¹á×¢ÓÚÉÌµêÔËÓª£¬µ£ĞÄ¼æÖ°Ô±¹¤Í»È»²»À´ÁË¡£ÅİÎÂÈªÊ±»¹±ØĞëµÃÄÃ×ÅÊÖ»ú
+å³ä½¿åœ¨é‚£æ—¶ï¼Œæˆ‘ä¹Ÿå¾—å…¨ç¥è´¯æ³¨äºå•†åº—è¿è¥ï¼Œæ‹…å¿ƒå…¼èŒå‘˜å·¥çªç„¶ä¸æ¥äº†ã€‚æ³¡æ¸©æ³‰æ—¶è¿˜å¿…é¡»å¾—æ‹¿ç€æ‰‹æœº
 
 `Supportive customers have shown up to shop` among his remaining inventory, which includes snacks, instant noodles, `stationery items, detergents and cosmetics`
-Ö§³ÖËûµÄ¿ÍÈËÀ´µ½µêÀï£¬ÔÚËûÊ£ÓàµÄ´æ»õÖĞ¹ºÂò¶«Î÷£¬ÆäÖĞ°üÀ¨ÁãÊ³¡¢·½±ãÃæ¡¢ÎÄ¾ß¡¢Çå½à¼ÁºÍ»¯×±Æ·
+æ”¯æŒä»–çš„å®¢äººæ¥åˆ°åº—é‡Œï¼Œåœ¨ä»–å‰©ä½™çš„å­˜è´§ä¸­è´­ä¹°ä¸œè¥¿ï¼Œå…¶ä¸­åŒ…æ‹¬é›¶é£Ÿã€æ–¹ä¾¿é¢ã€æ–‡å…·ã€æ¸…æ´å‰‚å’ŒåŒ–å¦†å“
 
 I just want to `disclose everything` in my case. I believe `the justice will be given`. That is why, he said, he plans to `fight to the bitter end.`
-ÎÒÖ»Ïë¹«¿ªÎÒµÄÈ«²¿Çé¿ö¡£ÎÒÏàĞÅ»áµÃµ½¹«ÕıµÄ¶Ô´ı. ËûËµ£¬Õâ¾ÍÊÇÎªÊ²Ã´Ëû´òËãÕ½¶·µ½×îºóÒ»¿Ì
+æˆ‘åªæƒ³å…¬å¼€æˆ‘çš„å…¨éƒ¨æƒ…å†µã€‚æˆ‘ç›¸ä¿¡ä¼šå¾—åˆ°å…¬æ­£çš„å¯¹å¾…. ä»–è¯´ï¼Œè¿™å°±æ˜¯ä¸ºä»€ä¹ˆä»–æ‰“ç®—æˆ˜æ–—åˆ°æœ€åä¸€åˆ»
 
-Water is pretty boring, `as far as beverages go`. It doesn¡¯t `have a catchy jingle`, a secret `family recipe` or even a taste, really. Yet people can¡¯t `seem to get enough of it`
-Ë®ÊÇÒ»ÖÖÃ»Ê²Ã´ÒâË¼µÄÒûÆ·¡£Ã»ÓĞ¹ØÓÚË®µÄ¹ã¸æ¿ÚË®¸è£¬Ã»ÓĞË®µÄ¼Ò´«ÃØ·½£¬ËüÉõÖÁÁ¬Î¶µÀ¶¼Ã»ÓĞ£¬ÕæµÄ¡£¿ÉÊÇÈËÃÇºÃÏñÔõÃ´ºÈË®¶¼²»¹»
+Water is pretty boring, `as far as beverages go`. It doesnâ€™t `have a catchy jingle`, a secret `family recipe` or even a taste, really. Yet people canâ€™t `seem to get enough of it`
+æ°´æ˜¯ä¸€ç§æ²¡ä»€ä¹ˆæ„æ€çš„é¥®å“ã€‚æ²¡æœ‰å…³äºæ°´çš„å¹¿å‘Šå£æ°´æ­Œï¼Œæ²¡æœ‰æ°´çš„å®¶ä¼ ç§˜æ–¹ï¼Œå®ƒç”šè‡³è¿å‘³é“éƒ½æ²¡æœ‰ï¼ŒçœŸçš„ã€‚å¯æ˜¯äººä»¬å¥½åƒæ€ä¹ˆå–æ°´éƒ½ä¸å¤Ÿ
 
-Another warns that if you `feel thirsty`, you¡¯re already `dehydrated`
-»¹ÓĞÒ»ÖÖ½¨Òé¾¯¸æËµ£¬Èç¹ûÄã¸Ğµ½¿Ú¿Ê£¬ËµÃ÷ÄãÒÑ¾­ÍÑË®ÁË
+Another warns that if you `feel thirsty`, youâ€™re already `dehydrated`
+è¿˜æœ‰ä¸€ç§å»ºè®®è­¦å‘Šè¯´ï¼Œå¦‚æœä½ æ„Ÿåˆ°å£æ¸´ï¼Œè¯´æ˜ä½ å·²ç»è„±æ°´äº†
 
 Feeling `sluggish`? You probably need more water. `Uninspired and utterly hopeless` about your career and `romantic prospects`? Well, have you had any water today?
-¾õµÃÆ£±¹Âğ£¿Äã¿ÉÄÜĞèÒª¸ü¶àµÄË®¡£ÊÂÒµºÍÁµ°®ºÁÎŞÁé¸ĞºÍÏ£Íû£¿àÅ£¬Äã½ñÌìºÈË®ÁËÂğ£¿
+è§‰å¾—ç–²æƒ«å—ï¼Ÿä½ å¯èƒ½éœ€è¦æ›´å¤šçš„æ°´ã€‚äº‹ä¸šå’Œæ‹çˆ±æ¯«æ— çµæ„Ÿå’Œå¸Œæœ›ï¼Ÿå—¯ï¼Œä½ ä»Šå¤©å–æ°´äº†å—ï¼Ÿ
 
 People `hydrate as if` their reputations depend on it. They `dutifully carry water bottles` with them wherever they go, `draining and refilling them with gusto`
-·Â·ğ²¹Ë®ÊÇÒ»¸ö¹Øºõ¸öÈËÃûÓşµÄÊÂ¡£ÎŞÂÛ×ßµ½ÄÄÀï£¬ËûÃÇ¶¼ÖÒÊµµØËæÉíĞ¯´øË®Æ¿£¬ĞËÖÂ²ª²ªµØºÈÍêË®ÔÙ¹àÂú
+ä»¿ä½›è¡¥æ°´æ˜¯ä¸€ä¸ªå…³ä¹ä¸ªäººåèª‰çš„äº‹ã€‚æ— è®ºèµ°åˆ°å“ªé‡Œï¼Œä»–ä»¬éƒ½å¿ å®åœ°éšèº«æºå¸¦æ°´ç“¶ï¼Œå…´è‡´å‹ƒå‹ƒåœ°å–å®Œæ°´å†çŒæ»¡
 
 A study published in 2015, of `72 male subjects`, found that `full-fat milk, skim milk` and orange juice kept people more hydrated than still water did
-2015Äê·¢±íµÄÒ»ÏîÕë¶Ô72ÃûÄĞĞÔÊÜÊÔÕßµÄÑĞ¾¿·¢ÏÖ£¬È«Ö¬Å£ÄÌ¡¢ÍÑÖ¬Å£ÄÌºÍ³ÈÖ­±ÈÒûÓÃË®µÄ²¹Ë®Ğ§¹û¸üºÃ
+2015å¹´å‘è¡¨çš„ä¸€é¡¹é’ˆå¯¹72åç”·æ€§å—è¯•è€…çš„ç ”ç©¶å‘ç°ï¼Œå…¨è„‚ç‰›å¥¶ã€è„±è„‚ç‰›å¥¶å’Œæ©™æ±æ¯”é¥®ç”¨æ°´çš„è¡¥æ°´æ•ˆæœæ›´å¥½
 
-`It¡¯s no accident that` it¡¯s No. 1, If you had to `put together a perfect scenario` and plan how to build a category this would have been it
-Ëü³ÉÎªµÚÒ»¾ø·ÇÅ¼È»£¬ÕâÊÇ½¨Á¢ÍêÃÀ³¡¾°£¬½¨Á¢ÉÌÆ·Àà±ğµÄºÃÀı×Ó
+`Itâ€™s no accident that` itâ€™s No. 1, If you had to `put together a perfect scenario` and plan how to build a category this would have been it
+å®ƒæˆä¸ºç¬¬ä¸€ç»éå¶ç„¶ï¼Œè¿™æ˜¯å»ºç«‹å®Œç¾åœºæ™¯ï¼Œå»ºç«‹å•†å“ç±»åˆ«çš„å¥½ä¾‹å­
 
 In the 1970s, `ad campaigns` by Evian and Perrier introduced the concept of bottled water as `a high-end refreshment beverage`
-1970Äê´ú£¬ÒÀÔÆ(Evian)ºÍ°ÍÀèË®(Perrier)µÄ¹ã¸æĞû´«ÒıÈëÁËÆ¿×°Ë®¸ÅÄî£¬°ÑËü×÷ÎªÒ»ÖÖ¸ß¶ËµÄ¡¢ÁîÈË»Ö¸´»îÁ¦µÄÒûÆ·
+1970å¹´ä»£ï¼Œä¾äº‘(Evian)å’Œå·´é»æ°´(Perrier)çš„å¹¿å‘Šå®£ä¼ å¼•å…¥äº†ç“¶è£…æ°´æ¦‚å¿µï¼ŒæŠŠå®ƒä½œä¸ºä¸€ç§é«˜ç«¯çš„ã€ä»¤äººæ¢å¤æ´»åŠ›çš„é¥®å“
 
 While consumers may have begun to `curb their intake` of `caffeinated or sugary beverages`, they `had no reason to` put a limit on `zero-calorie, thirst-quenching water`. And they were carrying it around with them, `on the go`
-Ïû·ÑÕß¿ÉÄÜ»áÏŞÖÆÉãÈë¿§·ÈÒò»òº¬ÌÇÒûÁÏ£¬µ«ËûÃÇÃ»ÓĞÀíÓÉÏŞÖÆÁã¿¨Â·ÀïÇÒ½â¿ÊµÄË®¡£ËûÃÇÈ¥ÄÄÀï¶¼´ø×ÅË®
+æ¶ˆè´¹è€…å¯èƒ½ä¼šé™åˆ¶æ‘„å…¥å’–å•¡å› æˆ–å«ç³–é¥®æ–™ï¼Œä½†ä»–ä»¬æ²¡æœ‰ç†ç”±é™åˆ¶é›¶å¡è·¯é‡Œä¸”è§£æ¸´çš„æ°´ã€‚ä»–ä»¬å»å“ªé‡Œéƒ½å¸¦ç€æ°´
 
 As `single-use plastic` water bottles `proliferated`, an `environmentally conscious response` emerged: reusable water bottles
-Ëæ×ÅÒ»´ÎĞÔËÜÁÏË®Æ¿µÄÆÕ¼°£¬¿ÉÖØ¸´Ê¹ÓÃµÄË®Æ¿ÕâÒ»»·±£ÒâÊ¶Ò²ËæÖ®ĞËÆğ
+éšç€ä¸€æ¬¡æ€§å¡‘æ–™æ°´ç“¶çš„æ™®åŠï¼Œå¯é‡å¤ä½¿ç”¨çš„æ°´ç“¶è¿™ä¸€ç¯ä¿æ„è¯†ä¹Ÿéšä¹‹å…´èµ·
 
 Water is a `go-to remedy` for a variety of `ailments`: exhaustion, headaches, `digestive problems, inflammation`, dry skin, `acne`.
-Ë®ÊÇÖÎÁÆ¸÷ÖÖ¼²²¡µÄÊ×Ñ¡Áéµ¤ÃîÒ©£ºÆ£ÀÍ¡¢Í·Í´¡¢Ïû»¯²»Á¼¡¢Ñ×Ö¢¡¢Æ¤·ô¸ÉÔï¡¢ğî´¯
+æ°´æ˜¯æ²»ç–—å„ç§ç–¾ç—…çš„é¦–é€‰çµä¸¹å¦™è¯ï¼šç–²åŠ³ã€å¤´ç—›ã€æ¶ˆåŒ–ä¸è‰¯ã€ç‚ç—‡ã€çš®è‚¤å¹²ç‡¥ã€ç—¤ç–®
 
 `Still`, many consumers treat water like `an anti-aging potion`
-¾¡¹ÜÈç´Ë£¬Ğí¶àÏû·ÑÕßÈÔ½«Ë®ÊÓÎª¿¹Ë¥ÀÏµÄÉñÎï
+å°½ç®¡å¦‚æ­¤ï¼Œè®¸å¤šæ¶ˆè´¹è€…ä»å°†æ°´è§†ä¸ºæŠ—è¡°è€çš„ç¥ç‰©
 
-Water `appears immune` to claims that its benefits are `overblown` ¡ª we need it to survive, after all. Its benefits have even become `a meme`. 
-ÎŞÂÛÔõÃ´ËµË®µÄÒæ´¦±»¿ä´óÁË£¬ËÆºõ¶¼²»»áÓ°ÏìËü¡ª¡ªÎÒÃÇ±Ï¾¹È·ÊµĞèÒªË®²ÅÄÜÉú´æ¡£ËüµÄºÃ´¦ÉõÖÁ³ÉÎªÁËÒ»ÖÖÃ×Ä·
+Water `appears immune` to claims that its benefits are `overblown` â€” we need it to survive, after all. Its benefits have even become `a meme`. 
+æ— è®ºæ€ä¹ˆè¯´æ°´çš„ç›Šå¤„è¢«å¤¸å¤§äº†ï¼Œä¼¼ä¹éƒ½ä¸ä¼šå½±å“å®ƒâ€”â€”æˆ‘ä»¬æ¯•ç«Ÿç¡®å®éœ€è¦æ°´æ‰èƒ½ç”Ÿå­˜ã€‚å®ƒçš„å¥½å¤„ç”šè‡³æˆä¸ºäº†ä¸€ç§ç±³å§†
 
 There are social media accounts dedicated to `berating their followers` for not drinking enough water
-ÓĞÒ»Ğ©Éç½»Ã½ÌåÕËºÅ×¨ÃÅÓÃÀ´³âÔğ¹Ø×¢ÕßÃ»ÓĞ²¹³ä×ã¹»µÄË®
+æœ‰ä¸€äº›ç¤¾äº¤åª’ä½“è´¦å·ä¸“é—¨ç”¨æ¥æ–¥è´£å…³æ³¨è€…æ²¡æœ‰è¡¥å……è¶³å¤Ÿçš„æ°´
 
-Coffee is a `hydrating beverage`, If you¡¯re drinking it, `let go of the guilt`. Enjoy it
-¿§·ÈÊÇÒ»ÖÖ²¹Ë®ÒûÁÏ£¬Èç¹ûÄãºÈÁË£¬¾Í²»ÒªÓĞ¸º×ï¸Ğ¡£ÏíÊÜËü
+Coffee is a `hydrating beverage`, If youâ€™re drinking it, `let go of the guilt`. Enjoy it
+å’–å•¡æ˜¯ä¸€ç§è¡¥æ°´é¥®æ–™ï¼Œå¦‚æœä½ å–äº†ï¼Œå°±ä¸è¦æœ‰è´Ÿç½ªæ„Ÿã€‚äº«å—å®ƒ
 
-One friend `gutted her downstairs bedroom` to `house five of the kangaroos`. Ms. Pulis has kept the youngest joeys `in quilt pouches `in another¡¯s living room
-Ò»Î»ÅóÓÑ°ÑÂ¥ÏÂÎÔÊÒÇå¿Õ£¬°²ÖÃÁË5Ö»´üÊó¡£ÆÕÀûË¹½«×îĞ¡µÄÓ×´üÊóÃÇ·ÅÔÚÁíÒ»¸ö¿ÍÌüµÄÃŞ²¼´üÀï
+One friend `gutted her downstairs bedroom` to `house five of the kangaroos`. Ms. Pulis has kept the youngest joeys `in quilt pouches `in anotherâ€™s living room
+ä¸€ä½æœ‹å‹æŠŠæ¥¼ä¸‹å§å®¤æ¸…ç©ºï¼Œå®‰ç½®äº†5åªè¢‹é¼ ã€‚æ™®åˆ©æ–¯å°†æœ€å°çš„å¹¼è¢‹é¼ ä»¬æ”¾åœ¨å¦ä¸€ä¸ªå®¢å…çš„æ£‰å¸ƒè¢‹é‡Œ
 
-As wildfires have killed at least 24 people, destroyed more than 1,400 homes and `ravaged 15 million acres`, they have also `inflicted a grievous toll` on Australia¡¯s `renowned wildlife`
-Ò°»ğÒÑ¾­Ôì³ÉÖÁÉÙ24ÈËÉ¥Éú£¬1400¶àËù·¿Îİ±»»Ù£¬6ÍòÆ½·½¹«ÀïµÄÍÁµØÔâµ½ÆÆ»µ£¬¶øÇÒ¶Ô°Ä´óÀûÑÇÖøÃûµÄÒ°Éú¶¯Ö²ÎïÔì³ÉÁË²ÒÖØµÄËğÊ§
+As wildfires have killed at least 24 people, destroyed more than 1,400 homes and `ravaged 15 million acres`, they have also `inflicted a grievous toll` on Australiaâ€™s `renowned wildlife`
+é‡ç«å·²ç»é€ æˆè‡³å°‘24äººä¸§ç”Ÿï¼Œ1400å¤šæ‰€æˆ¿å±‹è¢«æ¯ï¼Œ6ä¸‡å¹³æ–¹å…¬é‡Œçš„åœŸåœ°é­åˆ°ç ´åï¼Œè€Œä¸”å¯¹æ¾³å¤§åˆ©äºšè‘—åçš„é‡ç”ŸåŠ¨æ¤ç‰©é€ æˆäº†æƒ¨é‡çš„æŸå¤±
 
 `Quilters` in the Netherlands have `made mittens` for koalas with burned paws. New Zealanders are `stitching joey pouches and bat wraps`
-ºÉÀ¼µÄÃŞ·ÄÖ¯ÕßÎª×¦×ÓÉÕÉËµÄ¿¼À­ÖÆ×÷ÁËÊÖÌ×¡£ĞÂÎ÷À¼ÈËÕıÔÚ·ìÖÆÓ×´üÊó²¼´üºÍòùòğñßñÙ
+è·å…°çš„æ£‰çººç»‡è€…ä¸ºçˆªå­çƒ§ä¼¤çš„è€ƒæ‹‰åˆ¶ä½œäº†æ‰‹å¥—ã€‚æ–°è¥¿å…°äººæ­£åœ¨ç¼åˆ¶å¹¼è¢‹é¼ å¸ƒè¢‹å’Œè™è è¥è¤“
 
 Some experts have `been dubious of` the high numbers that have spread widely on social media, which are based on estimates of `population densities of mammals`, birds and `reptiles` from previously published studies
-Ò»Ğ©×¨¼Ò¶ÔÉç½»Ã½ÌåÉÏ¹ã·º´«²¥µÄ¾Ş´óÊı×Ö±íÊ¾»³ÒÉ£¬ÕâĞ©Êı×ÖÊÇ´ÓÏÈÇ°·¢±íµÄÑĞ¾¿ÖĞ»ùÓÚ²¸Èé¶¯Îï£¬ÄñÀàºÍÅÀĞĞ¶¯ÎïµÄÖÖÈºÃÜ¶È¹ÀËã³öÀ´µÄ
+ä¸€äº›ä¸“å®¶å¯¹ç¤¾äº¤åª’ä½“ä¸Šå¹¿æ³›ä¼ æ’­çš„å·¨å¤§æ•°å­—è¡¨ç¤ºæ€€ç–‘ï¼Œè¿™äº›æ•°å­—æ˜¯ä»å…ˆå‰å‘è¡¨çš„ç ”ç©¶ä¸­åŸºäºå“ºä¹³åŠ¨ç‰©ï¼Œé¸Ÿç±»å’Œçˆ¬è¡ŒåŠ¨ç‰©çš„ç§ç¾¤å¯†åº¦ä¼°ç®—å‡ºæ¥çš„
 
 `The death toll is arrived at` by multiplying the number of animals expected to inhabit a given area by the total acreage burned.
-ËÀÍöÊı×ÖÊÇÓÃ¸ø¶¨ÇøÓòµÄÔ¤¹À¶¯ÎïÊıÁ¿³ËÒÔ¹ı»ğÃæ»ı
+æ­»äº¡æ•°å­—æ˜¯ç”¨ç»™å®šåŒºåŸŸçš„é¢„ä¼°åŠ¨ç‰©æ•°é‡ä¹˜ä»¥è¿‡ç«é¢ç§¯
 
 A video taken by a reporter showed `the scorched corpses` of sheep and cows `strewn along a highway`. `Carcasses` like these have raised biological fears around the country
-¼ÇÕßÅÄÉãµÄÒ»¶ÎÊÓÆµÏÔÊ¾£¬ÑØ¹«Â·É¢Âä×ÅÉÕ½¹µÄÃàÑòºÍÄ¸Å£µÄÊ¬Ìå¡£ÕâÑùµÄ²Ğº¡ÔÚÈ«¹úÒıÆğÁËÈËÃÇ¶ÔÉúÎï°²È«µÄ¿Ö»Å
+è®°è€…æ‹æ‘„çš„ä¸€æ®µè§†é¢‘æ˜¾ç¤ºï¼Œæ²¿å…¬è·¯æ•£è½ç€çƒ§ç„¦çš„ç»µç¾Šå’Œæ¯ç‰›çš„å°¸ä½“ã€‚è¿™æ ·çš„æ®‹éª¸åœ¨å…¨å›½å¼•èµ·äº†äººä»¬å¯¹ç”Ÿç‰©å®‰å…¨çš„ææ…Œ
 
 Farmers had to `put down burned livestock` at a time when drought had already made `earning a living` nearly impossible
-ÔÚ¸ÉºµÒÑ¾­Ê¹ÈËÃÇ¼¸ºõÎŞ·¨Ä±ÉúµÄÊ±ºò£¬Å©Ãñ²»µÃ²»É±ËÀ±»ÉÕÉËµÄÉüĞó
+åœ¨å¹²æ—±å·²ç»ä½¿äººä»¬å‡ ä¹æ— æ³•è°‹ç”Ÿçš„æ—¶å€™ï¼Œå†œæ°‘ä¸å¾—ä¸æ€æ­»è¢«çƒ§ä¼¤çš„ç‰²ç•œ
 
 Farmers in the nearby town of Bairnsdale said that `a cattle sale was planned` Thursday to `unload their remaining livestock`, some of which may be injured
-¸½½ü³ÇÕò°İ¶÷Ë¹´ú¶ûµÄÅ©ÃñËµ£¬¼Æ»®ÓÚÖÜËÄ½øĞĞ¼ÒĞóÊÛÂô£¬ÇãÏúÊ£ÓàµÄÉüĞó£¬ÆäÖĞÒ»Ğ©¿ÉÄÜÊÜÁËÉË
+é™„è¿‘åŸé•‡æ‹œæ©æ–¯ä»£å°”çš„å†œæ°‘è¯´ï¼Œè®¡åˆ’äºå‘¨å››è¿›è¡Œå®¶ç•œå”®å–ï¼Œå€¾é”€å‰©ä½™çš„ç‰²ç•œï¼Œå…¶ä¸­ä¸€äº›å¯èƒ½å—äº†ä¼¤
 
 Around the country, people have `banded together` to help feed, find and `rehabilitate survivors`
-ÔÚÈ«¹ú¸÷µØ£¬ÈËÃÇÍÅ½áÆğÀ´£¬°ïÖúÑø»î¡¢Ñ°ÕÒĞÒ´æ¶¯Îï£¬Ğ­ÖúËüÃÇµÄ¿µ¸´
+åœ¨å…¨å›½å„åœ°ï¼Œäººä»¬å›¢ç»“èµ·æ¥ï¼Œå¸®åŠ©å…»æ´»ã€å¯»æ‰¾å¹¸å­˜åŠ¨ç‰©ï¼ŒååŠ©å®ƒä»¬çš„åº·å¤
 
 Americans would `be wise to brace for` war with Iran. `Full-scale conflict` is not a certainty, but the probability is higher than at any point in decades
-ÃÀ¹ú×îºÃÎªÓëÒÁÀÊµÄÕ½Õù×öºÃ×¼±¸ È«Ãæ³åÍ»²¢²»Ò»¶¨»á·¢Éú£¬µ«ËüµÄ¿ÉÄÜĞÔ±È¼¸Ê®ÄêÀ´µÄÈÎºÎÊ±ºò¶¼Òª¸ß
+ç¾å›½æœ€å¥½ä¸ºä¸ä¼Šæœ—çš„æˆ˜äº‰åšå¥½å‡†å¤‡ å…¨é¢å†²çªå¹¶ä¸ä¸€å®šä¼šå‘ç”Ÿï¼Œä½†å®ƒçš„å¯èƒ½æ€§æ¯”å‡ åå¹´æ¥çš„ä»»ä½•æ—¶å€™éƒ½è¦é«˜
 
 Instead, `predictably, it induced` Tehran to `lash out with` a series of increasingly `bold military provocations` against Sunni Arab and Western targets while restarting `important aspects` of its nuclear program
-Ïà·´£¬¿ÉÒÔÔ¤¼ûµÄÊÇ£¬Ëü´ÙÊ¹µÂºÚÀ¼ÖØĞÂÆô¶¯ÁËÆäºË¼Æ»®µÄÖØÒª²¿·Ö£¬Í¬Ê±¶ÔÑ·ÄáÅÉ°¢À­²®ÈËºÍÎ÷·½Ä¿±ê½øĞĞÁËÒ»ÏµÁĞÈÕÒæ´óµ¨µÄ¾üÊÂÌôĞÆ
+ç›¸åï¼Œå¯ä»¥é¢„è§çš„æ˜¯ï¼Œå®ƒä¿ƒä½¿å¾·é»‘å…°é‡æ–°å¯åŠ¨äº†å…¶æ ¸è®¡åˆ’çš„é‡è¦éƒ¨åˆ†ï¼ŒåŒæ—¶å¯¹é€Šå°¼æ´¾é˜¿æ‹‰ä¼¯äººå’Œè¥¿æ–¹ç›®æ ‡è¿›è¡Œäº†ä¸€ç³»åˆ—æ—¥ç›Šå¤§èƒ†çš„å†›äº‹æŒ‘è¡…
 
 `In deciding to` eliminate General Suleimani, Mr. Trump and his team argue they were acting `in self-defense` to `thwart imminent attacks` on Americans in Iraq and the region
-¶ÔÓÚ³ıµôËÕÀ³ÂüÄá½«¾üµÄ¾ö¶¨£¬ÌØÀÊÆÕºÍËûµÄÍÅ¶Ó±ç³Æ£¬ËûÃÇÊÇÔÚ×ÔÎÀ£¬ÒÔÖÆÖ¹¼´½«¶ÔÉíÔÚÒÁÀ­¿ËºÍ¸ÃµØÇøµÄÃÀ¹úÈË·¢ÆğµÄÏ®»÷
+å¯¹äºé™¤æ‰è‹è±æ›¼å°¼å°†å†›çš„å†³å®šï¼Œç‰¹æœ—æ™®å’Œä»–çš„å›¢é˜Ÿè¾©ç§°ï¼Œä»–ä»¬æ˜¯åœ¨è‡ªå«ï¼Œä»¥åˆ¶æ­¢å³å°†å¯¹èº«åœ¨ä¼Šæ‹‰å…‹å’Œè¯¥åœ°åŒºçš„ç¾å›½äººå‘èµ·çš„è¢­å‡»
 
 Even in this `critical instance`, the administration `failed to brief, much less consult`, bipartisan leaders in Congress
-¼´Ê¹ÔÚÕâ¸ö¹Ø¼üÊ±¿Ì£¬±¾½ìÕş¸®Ò²Î´ÄÜÏò¹ú»áµÄµÄÁ½µ³ÁìĞäÍ¨±¨Çé¿ö£¬¸ü²»ÓÃËµÕ÷ÇóÒâ¼ûÁË
+å³ä½¿åœ¨è¿™ä¸ªå…³é”®æ—¶åˆ»ï¼Œæœ¬å±Šæ”¿åºœä¹Ÿæœªèƒ½å‘å›½ä¼šçš„çš„ä¸¤å…šé¢†è¢–é€šæŠ¥æƒ…å†µï¼Œæ›´ä¸ç”¨è¯´å¾æ±‚æ„è§äº†
 
 To `assess the fallout` of killing General Suleimani, we must understand that the Iranian regime cannot survive internal dissent or sustain its powerful position in the region if it `backs down from` this provocation
-ÎªÁËÆÀ¹ÀÉ±º¦ËÕÀ³ÂüÄá½«¾üµÄºó¹û£¬ÎÒÃÇ±ØĞëÁË½â£¬Èç¹ûÒÁÀÊÔÚÕâ´ÎÌôĞÆÃæÇ°ÍËÈ´£¬ÒÁÀÊÕşÈ¨½«ÎŞ·¨³ĞÊÜÄÚ²¿µÄ·ÖÆç»òÎ¬³ÖÔÚ¸ÃµØÇøµÄÇ¿´óµØÎ»
+ä¸ºäº†è¯„ä¼°æ€å®³è‹è±æ›¼å°¼å°†å†›çš„åæœï¼Œæˆ‘ä»¬å¿…é¡»äº†è§£ï¼Œå¦‚æœä¼Šæœ—åœ¨è¿™æ¬¡æŒ‘è¡…é¢å‰é€€å´ï¼Œä¼Šæœ—æ”¿æƒå°†æ— æ³•æ‰¿å—å†…éƒ¨çš„åˆ†æ­§æˆ–ç»´æŒåœ¨è¯¥åœ°åŒºçš„å¼ºå¤§åœ°ä½
 
 `There is no hope` now to `revive, much less strengthen`, the Iran nuclear deal
-ÏÖÔÚÒÑ¾­Ã»ÓĞÏ£Íû»Ö¸´¡ª¡ª¸ü²»ÓÃËµ¼ÓÇ¿¡ª¡ªÒÁÀÊµÄºËĞ­ÒéÁË
+ç°åœ¨å·²ç»æ²¡æœ‰å¸Œæœ›æ¢å¤â€”â€”æ›´ä¸ç”¨è¯´åŠ å¼ºâ€”â€”ä¼Šæœ—çš„æ ¸åè®®äº†
 
 When Iran does respond, its response will likely be `multifaceted` and `occur at unpredictable times` and in multiple places
-µ±ÒÁÀÊÕæÕı×ö³ö»ØÓ¦Ê±£¬¿ÉÄÜ»áÊÇ¶à·½ÃæµÄ£¬²¢ÇÒ»áÔÚ²»¿ÉÔ¤²âµÄÊ±¼äºÍ¶à¸öµØ·½·¢Éú
+å½“ä¼Šæœ—çœŸæ­£åšå‡ºå›åº”æ—¶ï¼Œå¯èƒ½ä¼šæ˜¯å¤šæ–¹é¢çš„ï¼Œå¹¶ä¸”ä¼šåœ¨ä¸å¯é¢„æµ‹çš„æ—¶é—´å’Œå¤šä¸ªåœ°æ–¹å‘ç”Ÿ
 
-Oil prices `rattled skittishly`, everyone suddenly monitored ships, and headlines `speculated that` Israel might attack Iran¡¯s nuclear sites
-ÓÍ¼Û²¨¶¯²»¶¨£¬¸÷·½¶¼Í»È»¸ú×Ù´¬Ö»ÍùÀ´£¬ĞÂÎÅ´ó±êÌâ¶¼ÊÇ¶ÔÒÔÉ«ÁĞ¿ÉÄÜ¹¥»÷ÒÁÀÊºËÉèÊ©µÄ²Â²â
+Oil prices `rattled skittishly`, everyone suddenly monitored ships, and headlines `speculated that` Israel might attack Iranâ€™s nuclear sites
+æ²¹ä»·æ³¢åŠ¨ä¸å®šï¼Œå„æ–¹éƒ½çªç„¶è·Ÿè¸ªèˆ¹åªå¾€æ¥ï¼Œæ–°é—»å¤§æ ‡é¢˜éƒ½æ˜¯å¯¹ä»¥è‰²åˆ—å¯èƒ½æ”»å‡»ä¼Šæœ—æ ¸è®¾æ–½çš„çŒœæµ‹
 
-My `piece featured scenes` of `distraught young people` gathering on crowded `intersections singing the national anthem` ¡ª suddenly everyone a terrified Iranian citizen rather than an `aspiring guitarist` or a `day laborer`
-ÎÒÔÚÎÄÕÂÖĞÕ¹ÏÖµÄ³¡¾°ÊÇĞÄÉñ¿ñÂÒµÄÄêÇáÈË¾Û¼¯ÔÚÓµ¼·µÄÊ®×ÖÂ·¿Ú³ª¹ú¸è£¬´óº°´ó½ĞµÄÂèÂè´Ó³¬ÊĞÂòÄÌ·Û¶Ú»ı¡ª¡ªÍ»È»¼ä£¬Ã¿¸öÈË¶¼³ÉÁË¾ª¿ÖµÄÒÁÀÊ¹«Ãñ£¬¶ø²»ÊÇÓĞÖ¾³ÉÎª¼ªËûÊÖµÄÈË¡¢´ò¶Ì¹¤µÄÈË
+My `piece featured scenes` of `distraught young people` gathering on crowded `intersections singing the national anthem` â€” suddenly everyone a terrified Iranian citizen rather than an `aspiring guitarist` or a `day laborer`
+æˆ‘åœ¨æ–‡ç« ä¸­å±•ç°çš„åœºæ™¯æ˜¯å¿ƒç¥ç‹‚ä¹±çš„å¹´è½»äººèšé›†åœ¨æ‹¥æŒ¤çš„åå­—è·¯å£å”±å›½æ­Œï¼Œå¤§å–Šå¤§å«çš„å¦ˆå¦ˆä»è¶…å¸‚ä¹°å¥¶ç²‰å›¤ç§¯â€”â€”çªç„¶é—´ï¼Œæ¯ä¸ªäººéƒ½æˆäº†æƒŠæçš„ä¼Šæœ—å…¬æ°‘ï¼Œè€Œä¸æ˜¯æœ‰å¿—æˆä¸ºå‰ä»–æ‰‹çš„äººã€æ‰“çŸ­å·¥çš„äºº
 
-The American-backed 1953 `coup` destroyed both my grandfather and `great uncle¡¯s careers`, until then in service of the government, and `sent the latter into exile`
-1953ÄêÃÀ¹úÖ§³ÖµÄÒÁÀÊÕş±ä£¬´İ»ÙÁËÔ­±¾ÔÚÕş¸®¹¤×÷µÄ×æ¸¸ºÍÊå×æ¸¸µÄÖ°Òµ£¬ºóÕß±»ÆÈÁ÷Íö
+The American-backed 1953 `coup` destroyed both my grandfather and `great uncleâ€™s careers`, until then in service of the government, and `sent the latter into exile`
+1953å¹´ç¾å›½æ”¯æŒçš„ä¼Šæœ—æ”¿å˜ï¼Œæ‘§æ¯äº†åŸæœ¬åœ¨æ”¿åºœå·¥ä½œçš„ç¥–çˆ¶å’Œå”ç¥–çˆ¶çš„èŒä¸šï¼Œåè€…è¢«è¿«æµäº¡
 
 In the 1980s, Iran `cultivated regional groups and militias hostile` to Washington, and encouraged them to take Westerners hostages and staged attacks through these networks
-20ÊÀ¼Í80Äê´ú£¬Ëü·öÖ²Óë»ªÊ¢¶ÙÓĞµĞÒâµÄµØÇø×éÖ¯ºÍÃñ±ø£¬¹ÄÀøËûÃÇ½Ù³ÖÎ÷·½ÈË×÷ÈËÖÊ£¬²¢Í¨¹ıÕâĞ©ÍøÂç·¢¶¯Ï®»÷
+20ä¸–çºª80å¹´ä»£ï¼Œå®ƒæ‰¶æ¤ä¸åç››é¡¿æœ‰æ•Œæ„çš„åœ°åŒºç»„ç»‡å’Œæ°‘å…µï¼Œé¼“åŠ±ä»–ä»¬åŠ«æŒè¥¿æ–¹äººä½œäººè´¨ï¼Œå¹¶é€šè¿‡è¿™äº›ç½‘ç»œå‘åŠ¨è¢­å‡»
 
 He was `a pivotal figure` in `vanquishing` the Islamic State, helping `repel its rapid march` across Iraq in 2014. In Syria, for the many Syrians who `endured the industrial-scale brutality` of the Assad regime, the general led what could only be understood as an offensive force
-ËûÊÇ»÷°ÜÒÁË¹À¼¹úµÄ¹Ø¼üÈËÎï£¬ÔÚ2014Äê°ïÖú»÷ÍËÁËÒÁË¹À¼¹úÔÚÒÁÀ­¿ËµÄ¿ìËÙÍ¦½ø¡£ÔÚĞğÀûÑÇ£¬¶ÔÓÚĞí¶àÈÌÊÜÁË°¢ÈøµÂÕşÈ¨¹¤Òµ»¯¹æÄ£±©ĞĞµÄĞğÀûÑÇÈËÀ´Ëµ£¬ÕâÎ»½«¾üÁìµ¼µÄÊÇÒ»Ö§Ö»ÄÜ±»Àí½âÎª½ø¹¥ĞÔµÄÁ¦Á¿
+ä»–æ˜¯å‡»è´¥ä¼Šæ–¯å…°å›½çš„å…³é”®äººç‰©ï¼Œåœ¨2014å¹´å¸®åŠ©å‡»é€€äº†ä¼Šæ–¯å…°å›½åœ¨ä¼Šæ‹‰å…‹çš„å¿«é€ŸæŒºè¿›ã€‚åœ¨å™åˆ©äºšï¼Œå¯¹äºè®¸å¤šå¿å—äº†é˜¿è¨å¾·æ”¿æƒå·¥ä¸šåŒ–è§„æ¨¡æš´è¡Œçš„å™åˆ©äºšäººæ¥è¯´ï¼Œè¿™ä½å°†å†›é¢†å¯¼çš„æ˜¯ä¸€æ”¯åªèƒ½è¢«ç†è§£ä¸ºè¿›æ”»æ€§çš„åŠ›é‡
 
 It is for `these maneuvers`, `in part to provide Iran some deterrence` against relentless American hostility, that General Suleimani is remembered
-ÕâĞ©²ßÂÔ²¿·ÖÊÇÎªÁË¸øÒÁÀÊÌá¹©Ò»Ğ©µÖ¿¹ÃÀ¹úÎŞÇéµĞÒâµÄÍşÉå£¬ËÕÀ³ÂüÄáÕıÊÇÒòÎªÕâĞ©²ßÂÔ¶ø±»ÈËÃú¼Ç
+è¿™äº›ç­–ç•¥éƒ¨åˆ†æ˜¯ä¸ºäº†ç»™ä¼Šæœ—æä¾›ä¸€äº›æŠµæŠ—ç¾å›½æ— æƒ…æ•Œæ„çš„å¨æ…‘ï¼Œè‹è±æ›¼å°¼æ­£æ˜¯å› ä¸ºè¿™äº›ç­–ç•¥è€Œè¢«äººé“­è®°
 
 He had become `a patriarch` for an `ambivalent country adrift, forgiven`, at least by the hundreds of thousands who `turned out` for his funeral
-ËûÒÑ³ÉÎªÒ»¸ö³äÂúÃ¬¶Ü¡¢ÂşÎŞÄ¿µÄµÄ¹ú¼ÒµÂ¸ßÍûÖØµÄ³¤Õß£¬ÖÁÉÙÄÇĞ©²Î¼ÓÁËËûÔáÀñµÄ¼¸Ê®ÍòÈË¿íË¡ÁËËûÖ¸»ÓÄÇÖ§Á¦Á¿Ê±¹ı·ÖÇ¿Ó²µÄ×ö·¨
+ä»–å·²æˆä¸ºä¸€ä¸ªå……æ»¡çŸ›ç›¾ã€æ¼«æ— ç›®çš„çš„å›½å®¶å¾·é«˜æœ›é‡çš„é•¿è€…ï¼Œè‡³å°‘é‚£äº›å‚åŠ äº†ä»–è‘¬ç¤¼çš„å‡ åä¸‡äººå®½æ•äº†ä»–æŒ‡æŒ¥é‚£æ”¯åŠ›é‡æ—¶è¿‡åˆ†å¼ºç¡¬çš„åšæ³•
 
 Even the reformist cleric Mehdi Karroubi, `an octogenarian` who `is confined under permanent house arrest, issued condolences`
-ÉõÖÁÒÑ±»ÓÀ¾ÃÈí½ûµÄ¸Ä¸ïÅÉ½ÌÊ¿¡¢°ËÊ®¶àËêµÄÂõºÕµÏ¡¤¿¨Â³±ÈÒ²±íÊ¾ÁË°§µ¿
+ç”šè‡³å·²è¢«æ°¸ä¹…è½¯ç¦çš„æ”¹é©æ´¾æ•™å£«ã€å…«åå¤šå²çš„è¿ˆèµ«è¿ªÂ·å¡é²æ¯”ä¹Ÿè¡¨ç¤ºäº†å“€æ‚¼
 
-`In other words`, Trump¡¯s latest attempt to bully another country `has backfired` ¡ª just like all his previous attempts.
-»»¾ä»°Ëµ£¬ÌØÀÊÆÕ×î½ü°ÔÁèÁíÒ»¸ö¹ú¼ÒµÄÆóÍ¼ÊÊµÃÆä·´¡ª¡ª¾ÍÏñËûÖ®Ç°µÄËùÓĞÊÂÇéÒ»Ñù
+`In other words`, Trumpâ€™s latest attempt to bully another country `has backfired` â€” just like all his previous attempts.
+æ¢å¥è¯è¯´ï¼Œç‰¹æœ—æ™®æœ€è¿‘éœ¸å‡Œå¦ä¸€ä¸ªå›½å®¶çš„ä¼å›¾é€‚å¾—å…¶åâ€”â€”å°±åƒä»–ä¹‹å‰çš„æ‰€æœ‰äº‹æƒ…ä¸€æ ·
 
-Trump has `acted on the apparent belief` that he could easily `intimidate foreign governments` ¡ª that they would `quickly fold` and allow themselves to `be humiliated`
-ÌØÀÊÆÕµÄËù×÷ËùÎª¾ÍÊÇ»ùÓÚÕâÑùÒ»¸öÏÔÈ»µÄĞÅÄî£ºËû¿ÉÒÔÇáÒ×¿ÖÏÅÍâ¹úÕş¸®¡ª¡ªËûÃÇ»áºÜ¿ìÇü·ş£¬ÈÎÆ¾ËûÃÉĞß
+Trump has `acted on the apparent belief` that he could easily `intimidate foreign governments` â€” that they would `quickly fold` and allow themselves to `be humiliated`
+ç‰¹æœ—æ™®çš„æ‰€ä½œæ‰€ä¸ºå°±æ˜¯åŸºäºè¿™æ ·ä¸€ä¸ªæ˜¾ç„¶çš„ä¿¡å¿µï¼šä»–å¯ä»¥è½»æ˜“æå“å¤–å›½æ”¿åºœâ€”â€”ä»–ä»¬ä¼šå¾ˆå¿«å±ˆæœï¼Œä»»å‡­ä»–è’™ç¾
 
 But this strategy keeps failing; the regimes he threatens are `strengthened rather than weakened`, and Trump is the one who `ends up making humiliating concessions`
-µ«ÕâÖÖ²ßÂÔÒ»Ö±Ê§°Ü£»ËûËùÍşĞ²µÄÕşÈ¨µÃÒÔ¼ÓÇ¿£¬¶ø²»ÊÇÔâµ½Ï÷Èõ£¬×îÖÕ×ö³ö¶ªÈËÏÖÑÛµÄÈÃ²½µÄÊÇÌØÀÊÆÕ×Ô¼º
+ä½†è¿™ç§ç­–ç•¥ä¸€ç›´å¤±è´¥ï¼›ä»–æ‰€å¨èƒçš„æ”¿æƒå¾—ä»¥åŠ å¼ºï¼Œè€Œä¸æ˜¯é­åˆ°å‰Šå¼±ï¼Œæœ€ç»ˆåšå‡ºä¸¢äººç°çœ¼çš„è®©æ­¥çš„æ˜¯ç‰¹æœ—æ™®è‡ªå·±
 
 Or consider the trade war with China, which was supposed to `bring the Chinese to their knees`
-»òÕßÏëÏëÍ¬ÖĞ¹úµÄÃ³Ò×Õ½£¬ËüµÄ±¾ÒâÊÇÈÃÖĞ¹úÈËÇü·ş
+æˆ–è€…æƒ³æƒ³åŒä¸­å›½çš„è´¸æ˜“æˆ˜ï¼Œå®ƒçš„æœ¬æ„æ˜¯è®©ä¸­å›½äººå±ˆæœ
 
 `Ask yourself`, how would Americans have reacted if a foreign power had `assassinated Dick Cheney`, claiming that `he had the blood of` hundreds of thousands of Iraqis on his hands?
-ŞÑĞÄ×ÔÎÊ£¬Èç¹ûÒ»¸öÍâ¹úÊÆÁ¦°µÉ±ÁËµÏ¿Ë¡¤ÇĞÄá£¬Éù³ÆËûÊÖÉÏÕ´ÓĞ³ÉÇ§ÉÏÍòÒÁÀ­¿ËÈËµÄÏÊÑª£¬ÃÀ¹úÈË»á×÷ºÎ·´Ó¦
+æ‰ªå¿ƒè‡ªé—®ï¼Œå¦‚æœä¸€ä¸ªå¤–å›½åŠ¿åŠ›æš—æ€äº†è¿ªå…‹Â·åˆ‡å°¼ï¼Œå£°ç§°ä»–æ‰‹ä¸Šæ²¾æœ‰æˆåƒä¸Šä¸‡ä¼Šæ‹‰å…‹äººçš„é²œè¡€ï¼Œç¾å›½äººä¼šä½œä½•ååº”
 
 Even more important, however, was the fact that America was something more than a big country `throwing its weight around`. We always `stood for something larger`
-È»¶ø£¬¸üÖØÒªµÄÊÇ£¬ÃÀ¹ú²¢·ÇÖ»ÊÇÒ»¸öµ½´¦·¢ºÅÊ©ÁîµÄ´ó¹ú¡£ÎÒÃÇÒ»Ö±ÔÚº´ÎÀµÄÊÇÄ³ÖÖ¸ü´óµÄ¶«Î÷
+ç„¶è€Œï¼Œæ›´é‡è¦çš„æ˜¯ï¼Œç¾å›½å¹¶éåªæ˜¯ä¸€ä¸ªåˆ°å¤„å‘å·æ–½ä»¤çš„å¤§å›½ã€‚æˆ‘ä»¬ä¸€ç›´åœ¨æå«çš„æ˜¯æŸç§æ›´å¤§çš„ä¸œè¥¿
 
-Trump officials `seem taken aback` by the uniformly negative consequences of the Suleimani killing. But that¡¯s what happens when you `betray` all your friends and `squander all your credibility`
-ÌØÀÊÆÕµÄ¹ÙÔ±ÃÇËÆºõ¶ÔËÕÀ³ÂüÄá±»É±´øÀ´µÄÒ»±ßµ¹µÄ¸ºÃæºó¹û¸Ğµ½³Ô¾ª¡£µ«ÊÇ£¬±³ÅÑ×Ô¼ºËùÓĞµÄÅóÓÑ£¬»Ó»ô×Ô¼ºËùÓĞµÄĞÅÓş£¬¾ÍÊÇ»áµ¼ÖÂÕâÑùµÄºó¹û
+Trump officials `seem taken aback` by the uniformly negative consequences of the Suleimani killing. But thatâ€™s what happens when you `betray` all your friends and `squander all your credibility`
+ç‰¹æœ—æ™®çš„å®˜å‘˜ä»¬ä¼¼ä¹å¯¹è‹è±æ›¼å°¼è¢«æ€å¸¦æ¥çš„ä¸€è¾¹å€’çš„è´Ÿé¢åæœæ„Ÿåˆ°åƒæƒŠã€‚ä½†æ˜¯ï¼ŒèƒŒå›è‡ªå·±æ‰€æœ‰çš„æœ‹å‹ï¼ŒæŒ¥éœè‡ªå·±æ‰€æœ‰çš„ä¿¡èª‰ï¼Œå°±æ˜¯ä¼šå¯¼è‡´è¿™æ ·çš„åæœ
 
-Trump, however, has `turned his back on everything` that used to make America great. Under his leadership, we¡¯ve become `nothing more than a big, self-interested bully`
-È»¶ø£¬ÌØÀÊÆÕÈ´Å×ÆúÁËËùÓĞÔø¾­ÈÃÃÀ¹úÎ°´óµÄ¶«Î÷¡£ÔÚËûµÄÁìµ¼ÏÂ£¬ÎÒÃÇ±ä³ÉÁËÒ»¸ö×ÔË½×ÔÀûµÄ´ó¶ñ°Ô
+Trump, however, has `turned his back on everything` that used to make America great. Under his leadership, weâ€™ve become `nothing more than a big, self-interested bully`
+ç„¶è€Œï¼Œç‰¹æœ—æ™®å´æŠ›å¼ƒäº†æ‰€æœ‰æ›¾ç»è®©ç¾å›½ä¼Ÿå¤§çš„ä¸œè¥¿ã€‚åœ¨ä»–çš„é¢†å¯¼ä¸‹ï¼Œæˆ‘ä»¬å˜æˆäº†ä¸€ä¸ªè‡ªç§è‡ªåˆ©çš„å¤§æ¶éœ¸
 
 Oh, and because we `were committed to enforcing rules`, we were also `relatively trustworthy`
-Å¶¶ÔÁË£¬ÓÉÓÚÎÒÃÇÖÂÁ¦ÓÚÖ´ĞĞ¹æÔò£¬ÎÒÃÇÒ²»áÏà¶ÔÖµµÃĞÅÀµ
+å“¦å¯¹äº†ï¼Œç”±äºæˆ‘ä»¬è‡´åŠ›äºæ‰§è¡Œè§„åˆ™ï¼Œæˆ‘ä»¬ä¹Ÿä¼šç›¸å¯¹å€¼å¾—ä¿¡èµ–
 
-`The natural sugar` in `whole fruit (fructose)` is accompanied by `fiber and nutrients` and `makes a slow journey` through your body. But when sugar is added to beverages or `packaged foods`, it¡¯s more quickly absorbed and burdens the liver
-Ë®¹ûÖĞµÄÌìÈ»ÌÇ·Ö£¨¹ûÌÇ£©ÊÇÓÉÏËÎ¬ºÍÓªÑøÎïÖÊ×é³ÉµÄ£¬Ëü»áÔÚÄãµÄÌåÄÚ»ºÂı´úĞ»¡£µ«ÊÇ£¬µ±ÌÇ±»Ìí¼Óµ½ÒûÁÏ»ò°ü×°Ê³Æ·ÖĞ£¬ËüµÄÎüÊÕ»á¸ü¿ì£¬»á¼ÓÖØ¸ÎÔà¸ºµ£
+`The natural sugar` in `whole fruit (fructose)` is accompanied by `fiber and nutrients` and `makes a slow journey` through your body. But when sugar is added to beverages or `packaged foods`, itâ€™s more quickly absorbed and burdens the liver
+æ°´æœä¸­çš„å¤©ç„¶ç³–åˆ†ï¼ˆæœç³–ï¼‰æ˜¯ç”±çº¤ç»´å’Œè¥å…»ç‰©è´¨ç»„æˆçš„ï¼Œå®ƒä¼šåœ¨ä½ çš„ä½“å†…ç¼“æ…¢ä»£è°¢ã€‚ä½†æ˜¯ï¼Œå½“ç³–è¢«æ·»åŠ åˆ°é¥®æ–™æˆ–åŒ…è£…é£Ÿå“ä¸­ï¼Œå®ƒçš„å¸æ”¶ä¼šæ›´å¿«ï¼Œä¼šåŠ é‡è‚è„è´Ÿæ‹…
 
 `Processed food is digested` quickly as soon as it enters our `intestines`. `Fiber-rich foods` like whole fruits break down slowly and `travel farther through the digestive track`, which triggers the release of `satiety hormones that make us feel full`
-¼Ó¹¤Ê³Æ·Ò»µ©½øÈë³¦µÀ¾Í»á±»Ñ¸ËÙÏû»¯¡£¶øÈ«¹ûÕâÀà¸»º¬ÏËÎ¬µÄÊ³ÎïÔò»áÂıÂı·Ö½â£¬ÔÚÏû»¯ÏµÍ³ÖĞÍ£Áô¸ü³¤Ê±¼ä£¬´Ó¶ø´¥·¢±¥×ãºÉ¶ûÃÉµÄÊÍ·Å£¬ÈÃÎÒÃÇ¸Ğ¾õºÜ±¥
+åŠ å·¥é£Ÿå“ä¸€æ—¦è¿›å…¥è‚ é“å°±ä¼šè¢«è¿…é€Ÿæ¶ˆåŒ–ã€‚è€Œå…¨æœè¿™ç±»å¯Œå«çº¤ç»´çš„é£Ÿç‰©åˆ™ä¼šæ…¢æ…¢åˆ†è§£ï¼Œåœ¨æ¶ˆåŒ–ç³»ç»Ÿä¸­åœç•™æ›´é•¿æ—¶é—´ï¼Œä»è€Œè§¦å‘é¥±è¶³è·å°”è’™çš„é‡Šæ”¾ï¼Œè®©æˆ‘ä»¬æ„Ÿè§‰å¾ˆé¥±
 
 Bananas and grapes are particularly high in fructose `given the amount of fiber they contain`, so they give us `a faster sugar spike`
-Ïã½¶ºÍÆÏÌÑµÄ¹ûÌÇº¬Á¿ÌØ±ğ¸ß£¬ÒòÎªËüÃÇº¬ÓĞ´óÁ¿µÄÏËÎ¬£¬ËùÒÔËüÃÇ»áÈÃÑªÌÇì­ÉıµÃ¸ü¿ì
+é¦™è•‰å’Œè‘¡è„çš„æœç³–å«é‡ç‰¹åˆ«é«˜ï¼Œå› ä¸ºå®ƒä»¬å«æœ‰å¤§é‡çš„çº¤ç»´ï¼Œæ‰€ä»¥å®ƒä»¬ä¼šè®©è¡€ç³–é£™å‡å¾—æ›´å¿«
 
 Dried fruit `is packed with nutrients`, but the drying process removes the water and `concentrates a lot of fruit sugar in` a very small `bite`. The risk is that it takes more dried fruit to `fill you up` than whole fruits
-¸É¹û¸»º¬ÓªÑøÎïÖÊ£¬µ«ÔÚ¸ÉÔï¹ı³ÌÖĞ£¬Ë®·Ö»áÁ÷Ê§£¬ÕâÑùºÜĞ¡µÄÒ»¿Ú¸É¹ûÀï¾ÍÅ¨ËõÁË´óÁ¿µÄ¹ûÌÇ¡£·çÏÕÔÚÓÚ£¬ÒªÏëÌî±¥¶Ç×Ó£¬¾ÍµÃ³ÔÏÂ±ÈÈ«¹û¸ü¶àµÄ¸É¹û
+å¹²æœå¯Œå«è¥å…»ç‰©è´¨ï¼Œä½†åœ¨å¹²ç‡¥è¿‡ç¨‹ä¸­ï¼Œæ°´åˆ†ä¼šæµå¤±ï¼Œè¿™æ ·å¾ˆå°çš„ä¸€å£å¹²æœé‡Œå°±æµ“ç¼©äº†å¤§é‡çš„æœç³–ã€‚é£é™©åœ¨äºï¼Œè¦æƒ³å¡«é¥±è‚šå­ï¼Œå°±å¾—åƒä¸‹æ¯”å…¨æœæ›´å¤šçš„å¹²æœ
 
 `Raisins and dates` are about 60 to 65 percent sugar, `dried figs` and apricots are about 50 percent sugar, and `prunes` are about 38 percent sugar
-ÆÏÌÑ¸ÉºÍÔæ¸Éº¬ÓĞ60%µ½65%µÄÌÇ£¬ÎŞ»¨¹û¸ÉºÍĞÓ¸Éº¬ÓĞ50%µÄÌÇ£¬Ã·¸Éº¬ÓĞ38%µÄÌÇ
+è‘¡è„å¹²å’Œæ£å¹²å«æœ‰60%åˆ°65%çš„ç³–ï¼Œæ— èŠ±æœå¹²å’Œæå¹²å«æœ‰50%çš„ç³–ï¼Œæ¢…å¹²å«æœ‰38%çš„ç³–
 
 Another way to `weigh the pros and cons` of dried fruit is to look at `glycemic load`, a measure of how fast your body `converts a serving of food into sugar`
-ºâÁ¿¸É¹ûÀû±×µÄÁíÒ»ÖÖ·½·¨ÊÇ¿´ÉıÌÇÖ¸Êı£¬Õâ¸öÊıÖµÊÇÓÃÀ´ºâÁ¿ÉíÌå½«Ò»·İÊ³Îï×ª»¯ÎªÌÇµÄËÙ¶È
+è¡¡é‡å¹²æœåˆ©å¼Šçš„å¦ä¸€ç§æ–¹æ³•æ˜¯çœ‹å‡ç³–æŒ‡æ•°ï¼Œè¿™ä¸ªæ•°å€¼æ˜¯ç”¨æ¥è¡¡é‡èº«ä½“å°†ä¸€ä»½é£Ÿç‰©è½¬åŒ–ä¸ºç³–çš„é€Ÿåº¦
 
 Strawberries, apricots, grapefruit, lemon, limes, cantaloupe, nectarines, oranges, pears, blueberries, peaches, plums, apples and pineapple have `glycemic loads of 6 or less`
-²İİ®¡¢ĞÓ×Ó¡¢ÆÏÌÑèÖ¡¢ÄûÃÊ¡¢Ëá³È¡¢¹şÃÜ¹Ï¡¢ÓÍÌÒ¡¢³È×Ó¡¢Àæ¡¢À¶İ®¡¢ÌÒ×Ó¡¢Àî×Ó¡¢Æ»¹ûºÍ²¤ÂÜµÄÉıÌÇÖ¸Êı²»³¬¹ı6
+è‰è“ã€æå­ã€è‘¡è„æŸšã€æŸ æª¬ã€é…¸æ©™ã€å“ˆå¯†ç“œã€æ²¹æ¡ƒã€æ©™å­ã€æ¢¨ã€è“è“ã€æ¡ƒå­ã€æå­ã€è‹¹æœå’Œè èçš„å‡ç³–æŒ‡æ•°ä¸è¶…è¿‡6
 
-A quarter-cup of milk contains about `3 grams of` a natural sugar called lactose. The sugar in milk is not considered `an ¡°added sugar`,¡± and it doesn¡¯t `overwhelm the liver` the way added sugar does
-ËÄ·ÖÖ®Ò»±­Å£ÄÌº¬ÓĞÔ¼3¿Ë±»³ÆÎªÈéÌÇµÄÌìÈ»ÌÇ¡£Å£ÄÌÖĞµÄÌÇ²»±»ÈÏÎªÊÇ¡°Ìí¼ÓÌÇ¡±£¬ËüÒ²²»ÏñÌí¼ÓÌÇÄÇÑù¼ÓÖØ¸ÎÔà¸ºµ£
+A quarter-cup of milk contains about `3 grams of` a natural sugar called lactose. The sugar in milk is not considered `an â€œadded sugar`,â€ and it doesnâ€™t `overwhelm the liver` the way added sugar does
+å››åˆ†ä¹‹ä¸€æ¯ç‰›å¥¶å«æœ‰çº¦3å…‹è¢«ç§°ä¸ºä¹³ç³–çš„å¤©ç„¶ç³–ã€‚ç‰›å¥¶ä¸­çš„ç³–ä¸è¢«è®¤ä¸ºæ˜¯â€œæ·»åŠ ç³–â€ï¼Œå®ƒä¹Ÿä¸åƒæ·»åŠ ç³–é‚£æ ·åŠ é‡è‚è„è´Ÿæ‹…
 
 Adding milk or cream to your coffee and enjoying the naturally sweet taste of milk is a great way to `kick the added sugar habit` in the morning
-ÔÚ¿§·ÈÖĞ¼ÓÈëÅ£ÄÌ»òÄÌÓÍ£¬ÏíÊÜÅ£ÄÌÌìÈ»µÄÌğÎ¶£¬ÕâÊÇ´ÓÔçÉÏ¿ªÊ¼½äµôÌí¼ÓÌÇÏ°¹ßµÄºÃ·½·¨
+åœ¨å’–å•¡ä¸­åŠ å…¥ç‰›å¥¶æˆ–å¥¶æ²¹ï¼Œäº«å—ç‰›å¥¶å¤©ç„¶çš„ç”œå‘³ï¼Œè¿™æ˜¯ä»æ—©ä¸Šå¼€å§‹æˆ’æ‰æ·»åŠ ç³–ä¹ æƒ¯çš„å¥½æ–¹æ³•
 
 Over time you can `cut it in half` again and `wean yourself off` the sugar
-Ëæ×ÅÊ±¼äµÄÍÆÒÆ£¬Äã¿ÉÒÔ°ÑÌÇÔÙ¼õ°ë£¬ÈÃ×Ô¼º°ÚÍÑ¶ÔÌÇµÄÒÀÀµ
+éšç€æ—¶é—´çš„æ¨ç§»ï¼Œä½ å¯ä»¥æŠŠç³–å†å‡åŠï¼Œè®©è‡ªå·±æ‘†è„±å¯¹ç³–çš„ä¾èµ–
 
 With so much added sugar `lurking in granola, cereals, pastries, breads and yogurts`, you might as well just call it `dessert`. But readers have `had a tough time figuring out alternatives` to popular grain-based breakfast foods
-¸ñÀ¼ÅµÀ­ÂóÆ¬¡¢ÂóÆ¬¡¢¸âµã¡¢Ãæ°üºÍËáÄÌÖĞ¶¼º¬ÓĞ´óÁ¿Ìí¼ÓÌÇ£¬²»·Á°ÑËüÃÇ³ÆÎªÌğµã¡£³£¼ûµÄÔç²ÍÊ³Æ·ÒÔ¹ÈÎïÎªÖ÷£¬¶ÁÕßÃÇºÜÄÑÕÒµ½Ìæ´úÆ·
+æ ¼å…°è¯ºæ‹‰éº¦ç‰‡ã€éº¦ç‰‡ã€ç³•ç‚¹ã€é¢åŒ…å’Œé…¸å¥¶ä¸­éƒ½å«æœ‰å¤§é‡æ·»åŠ ç³–ï¼Œä¸å¦¨æŠŠå®ƒä»¬ç§°ä¸ºç”œç‚¹ã€‚å¸¸è§çš„æ—©é¤é£Ÿå“ä»¥è°·ç‰©ä¸ºä¸»ï¼Œè¯»è€…ä»¬å¾ˆéš¾æ‰¾åˆ°æ›¿ä»£å“
 
 Eggs are `a high-protein option`, and while they are also `high in cholesterol`, many people can probably `eat them in moderation `without worrying about heart risks
-¼¦µ°ÊÇÌá¹©¸ßµ°°×µÄÑ¡Ôñ£¬ËäÈ»ËüÃÇÒ²º¬ÓĞ¸ßµ¨¹Ì´¼£¬µ«Ğí¶àÈËÒ²Ğí¿ÉÒÔÊÊÁ¿Ê³ÓÃ£¬ÎŞĞèµ£ĞÄĞÄÔà·çÏÕ
+é¸¡è›‹æ˜¯æä¾›é«˜è›‹ç™½çš„é€‰æ‹©ï¼Œè™½ç„¶å®ƒä»¬ä¹Ÿå«æœ‰é«˜èƒ†å›ºé†‡ï¼Œä½†è®¸å¤šäººä¹Ÿè®¸å¯ä»¥é€‚é‡é£Ÿç”¨ï¼Œæ— éœ€æ‹…å¿ƒå¿ƒè„é£é™©
 
 Consider eating `smoked salmon, tuna or chicken salad` for breakfast. `Make a vegan breakfast bowl` of sweet potatoes, beans and `avocado`
-¿ÉÒÔ¿¼ÂÇÔç²Í³ÔÑÌÑ¬ÈıÎÄÓã¡¢½ğÇ¹Óã»ò¼¦ÈâÉ³À­¡£»òÕßÓÃºìÊí¡¢¶¹×ÓºÍöùÀæ(Å£ÓÍ¹û)×öÒ»·İËØÊ³Ôç²Í
+å¯ä»¥è€ƒè™‘æ—©é¤åƒçƒŸç†ä¸‰æ–‡é±¼ã€é‡‘æªé±¼æˆ–é¸¡è‚‰æ²™æ‹‰ã€‚æˆ–è€…ç”¨çº¢è–¯ã€è±†å­å’Œé³„æ¢¨(ç‰›æ²¹æœ)åšä¸€ä»½ç´ é£Ÿæ—©é¤
 
 Try `plain, unsweetened yogurt` with `berries and nuts` or `sliced apples with sugar-free peanut butter`. Or just eat and `savor a whole orange` or make a fruit salad
-³¢ÊÔÆÕÍ¨ÎŞÌÇËáÄÌ£¬¼ÓÈë½¬¹ûºÍ¼á¹û£¬»òÕßÆ»¹ûÆ¬ºÍÎŞÌÇ»¨Éú½´¡£Òª²»¾Í³ÔÒ»¸öÍêÕûµÄéÙ×Ó£¬»òÕß×öÒ»·İË®¹ûÉ³À­
+å°è¯•æ™®é€šæ— ç³–é…¸å¥¶ï¼ŒåŠ å…¥æµ†æœå’Œåšæœï¼Œæˆ–è€…è‹¹æœç‰‡å’Œæ— ç³–èŠ±ç”Ÿé…±ã€‚è¦ä¸å°±åƒä¸€ä¸ªå®Œæ•´çš„æ©˜å­ï¼Œæˆ–è€…åšä¸€ä»½æ°´æœæ²™æ‹‰
 
 Try a breakfast salad with avocado and `hard-boiled eggs`. Use `a big kale leaf` to make a breakfast `burrito or egg salad wrap`. `Experiment with cauliflower` to make `hash browns`. Bake a sweet potato and add salsa, yogurt or nuts
-ÊÔÊÔÓÃöùÀæºÍÖó¼¦µ°×öÔç²ÍÉ³À­¡£ÓÃÒ»Æ¬´ó¸ÊÀ¶Ò¶×öÔç²Í¾í»ò¼¦µ°É³À­¾í¡£ÊÔÊÔ×öÒ»¸ö»¨Ò¬²Ë°æµÄÍÁ¶¹Ë¿±ı¡£¿¾Ò»¸öºìÊí£¬¼ÓÈëµ÷Î¶Ö­¡¢ËáÄÌ»ò¼á¹û
+è¯•è¯•ç”¨é³„æ¢¨å’Œç…®é¸¡è›‹åšæ—©é¤æ²™æ‹‰ã€‚ç”¨ä¸€ç‰‡å¤§ç”˜è“å¶åšæ—©é¤å·æˆ–é¸¡è›‹æ²™æ‹‰å·ã€‚è¯•è¯•åšä¸€ä¸ªèŠ±æ¤°èœç‰ˆçš„åœŸè±†ä¸é¥¼ã€‚çƒ¤ä¸€ä¸ªçº¢è–¯ï¼ŒåŠ å…¥è°ƒå‘³æ±ã€é…¸å¥¶æˆ–åšæœ
 
-Try `miso soup, butternut squash soup` or another variety of hot soup. You¡¯d be surprised how great soup tastes on a winter morning
-³¢ÊÔÎ¶àáÌÀ¡¢ÄÏ¹ÏÅ¨ÌÀ£¬»òÕßÆäËûÖÖÀàµÄÈÈÌÀ¡£ÔÚ¶¬ÌìµÄÔç³¿£¬Äã»á¾ªÑÈµØ·¢ÏÖÌÀµÄÎ¶µÀÊµÔÚÌ«ºÃÁË
+Try `miso soup, butternut squash soup` or another variety of hot soup. Youâ€™d be surprised how great soup tastes on a winter morning
+å°è¯•å‘³å™Œæ±¤ã€å—ç“œæµ“æ±¤ï¼Œæˆ–è€…å…¶ä»–ç§ç±»çš„çƒ­æ±¤ã€‚åœ¨å†¬å¤©çš„æ—©æ™¨ï¼Œä½ ä¼šæƒŠè®¶åœ°å‘ç°æ±¤çš„å‘³é“å®åœ¨å¤ªå¥½äº†
 
 What about `steel-cut oats`? Or `regular oats`? Do they have added sugar?
-¸ÖÇĞÑàÂóÆ¬ÔõÃ´Ñù£¿»òÕßÆÕÍ¨ÑàÂóÄØ£¿ËüÃÇ¼ÓÌÇÁËÂğ£¿
+é’¢åˆ‡ç‡•éº¦ç‰‡æ€ä¹ˆæ ·ï¼Ÿæˆ–è€…æ™®é€šç‡•éº¦å‘¢ï¼Ÿå®ƒä»¬åŠ ç³–äº†å—ï¼Ÿ
 
-Morning oat-eaters are `by far the biggest demographic` we¡¯ve heard from since starting the Sugar Challenge
-×Ô´Ó·¢Æğ¡°ÎŞÌÇÌôÕ½¡±ÒÔÀ´£¬·´Ïì×îÇ¿ÁÒµÄ¾ÍÊÇÔç²Í³ÔÑàÂóÆ¬µÄÈºÌåÁË
+Morning oat-eaters are `by far the biggest demographic` weâ€™ve heard from since starting the Sugar Challenge
+è‡ªä»å‘èµ·â€œæ— ç³–æŒ‘æˆ˜â€ä»¥æ¥ï¼Œåå“æœ€å¼ºçƒˆçš„å°±æ˜¯æ—©é¤åƒç‡•éº¦ç‰‡çš„ç¾¤ä½“äº†
 
 Steel cut oats `are the least processed`, meaning they have more fiber and are the best choice. `Rolled oats have been partially cooked`, making them increase blood sugar faster. `Instant oats should be avoided`, because they will be rapidly converted to sugar
-¸ÖÇĞÑàÂóÆ¬ÊÇÆäÖĞ¼Ó¹¤×îÉÙµÄ£¬ÕâÒâÎ¶×ÅËüÃÇº¬ÓĞ¸ü¶àÏËÎ¬£¬ÊÇ×îºÃµÄÑ¡Ôñ¡£ÄëÑ¹ÑàÂóÒÑ²¿·ÖÖóÊì£¬Òò´ËÉıÑªÌÇ¸ü¿ì¡£Ó¦±ÜÃâÊ³ÓÃËÙÈÜÑàÂó£¬ÒòÎªËüÃÇ»áºÜ¿ì×ª»¯ÎªÌÇ·Ö
+é’¢åˆ‡ç‡•éº¦ç‰‡æ˜¯å…¶ä¸­åŠ å·¥æœ€å°‘çš„ï¼Œè¿™æ„å‘³ç€å®ƒä»¬å«æœ‰æ›´å¤šçº¤ç»´ï¼Œæ˜¯æœ€å¥½çš„é€‰æ‹©ã€‚ç¢¾å‹ç‡•éº¦å·²éƒ¨åˆ†ç…®ç†Ÿï¼Œå› æ­¤å‡è¡€ç³–æ›´å¿«ã€‚åº”é¿å…é£Ÿç”¨é€Ÿæº¶ç‡•éº¦ï¼Œå› ä¸ºå®ƒä»¬ä¼šå¾ˆå¿«è½¬åŒ–ä¸ºç³–åˆ†
 
 The reward for doing a little extra research? Ms. McMullen gets to enjoy her `sprouted rye guilt-free and (mostly) sugar free`
-¶à×öµã¹¦¿ÎÓĞÊ²Ã´ºÃ´¦£¿Âó¿ËÂíÂ×¿ÉÒÔºÁ²»ÄÚ¾ÎµØÏíÊÜ£¨»ù±¾ÉÏ£©²»º¬ÌÇµÄ·¢Ñ¿ºÚÂóÃæ°üÁË
+å¤šåšç‚¹åŠŸè¯¾æœ‰ä»€ä¹ˆå¥½å¤„ï¼Ÿéº¦å…‹é©¬ä¼¦å¯ä»¥æ¯«ä¸å†…ç–šåœ°äº«å—ï¼ˆåŸºæœ¬ä¸Šï¼‰ä¸å«ç³–çš„å‘èŠ½é»‘éº¦é¢åŒ…äº†
 
 Some smaller companies have until 2021 to `comply with the rule`. As a result, you may see a mix of old and new `food labels` for another year. The new label will help consumers `distinguish between` sugars that occur naturally in foods and those that are added
-Ò»Ğ©¹æÄ£½ÏĞ¡µÄ¹«Ë¾ÔòÊÇ´Ó2021Äê²Å¿ªÊ¼×ñÊØÕâÒ»¹æ¶¨¡£Òò´Ë£¬ĞÂµÄÒ»ÄêÀï£¬ĞÂ¾ÉÊ³Æ·±êÇ©¶¼ÓĞ¿ÉÄÜ¿´µ½¡£ĞÂ±êÇ©½«°ïÖúÏû·ÑÕßÇø·ÖÊ³ÎïÖĞÌìÈ»´æÔÚµÄÌÇºÍÌí¼ÓÌÇ
+ä¸€äº›è§„æ¨¡è¾ƒå°çš„å…¬å¸åˆ™æ˜¯ä»2021å¹´æ‰å¼€å§‹éµå®ˆè¿™ä¸€è§„å®šã€‚å› æ­¤ï¼Œæ–°çš„ä¸€å¹´é‡Œï¼Œæ–°æ—§é£Ÿå“æ ‡ç­¾éƒ½æœ‰å¯èƒ½çœ‹åˆ°ã€‚æ–°æ ‡ç­¾å°†å¸®åŠ©æ¶ˆè´¹è€…åŒºåˆ†é£Ÿç‰©ä¸­å¤©ç„¶å­˜åœ¨çš„ç³–å’Œæ·»åŠ ç³–
 
 `As an example`, take a look at the label on `whole milk`, which shows 11 grams of sugar `in a one-cup serving`. That `sounds like a lot`, but the new label will make it clear that all that sugar `occurs naturally as lactose` and that the same cup of milk has zero grams of added sugar
-ÒÔÈ«Ö¬Å£ÄÌ±êÇ©ÎªÀı£¬ÉÏÃæÏÔÊ¾Ò»·İÅ£ÄÌº¬ÓĞ11¿ËÌÇ¡£¿´ÆğÀ´ºÃÏñºÜ¶à£¬µ«ÊÇĞÂµÄ±êÇ©½«Çå³şµØ±íÃ÷£¬ËùÓĞÌÇ¶¼ÊÇÌìÈ»ÈéÌÇ£¬²»º¬Ìí¼ÓÌÇ
+ä»¥å…¨è„‚ç‰›å¥¶æ ‡ç­¾ä¸ºä¾‹ï¼Œä¸Šé¢æ˜¾ç¤ºä¸€ä»½ç‰›å¥¶å«æœ‰11å…‹ç³–ã€‚çœ‹èµ·æ¥å¥½åƒå¾ˆå¤šï¼Œä½†æ˜¯æ–°çš„æ ‡ç­¾å°†æ¸…æ¥šåœ°è¡¨æ˜ï¼Œæ‰€æœ‰ç³–éƒ½æ˜¯å¤©ç„¶ä¹³ç³–ï¼Œä¸å«æ·»åŠ ç³–
 
-`The spate of moves` offers some clues about Mr. Putin¡¯s plans and priorities, but also raises questions about what may `lie ahead` for the Russian president
-ÕâÒ»ÏµÁĞ¾Ù¶¯Ìá¹©ÁËÒ»Ğ©ÏßË÷£¬ÈÃÈËÃÇ¿ÉÒÔÁË½âÆÕ¾©µÄ¼Æ»®ºÍÓÅÏÈÊÂÏî£¬µ«Ò²ÈÃÈË¶ÔÕâÎ»¶íÂŞË¹×ÜÍ³¿ÉÄÜÃæÁÙµÄÇ°¾°²úÉúÁËÒÉÎÊ
+`The spate of moves` offers some clues about Mr. Putinâ€™s plans and priorities, but also raises questions about what may `lie ahead` for the Russian president
+è¿™ä¸€ç³»åˆ—ä¸¾åŠ¨æä¾›äº†ä¸€äº›çº¿ç´¢ï¼Œè®©äººä»¬å¯ä»¥äº†è§£æ™®äº¬çš„è®¡åˆ’å’Œä¼˜å…ˆäº‹é¡¹ï¼Œä½†ä¹Ÿè®©äººå¯¹è¿™ä½ä¿„ç½—æ–¯æ€»ç»Ÿå¯èƒ½é¢ä¸´çš„å‰æ™¯äº§ç”Ÿäº†ç–‘é—®
 
-Mr. Putin¡¯s hold on power in Russia is `unrivaled`, built up over the last 20 years `in his posts` as president and prime minister.
-ÆÕ¾©¶Ô¶íÂŞË¹È¨Á¦µÄÕÆ¿ØÎŞÈËÄÜ¼°£¬ÕâÊÇËûÔÚ¹ıÈ¥20Äêµ£ÈÎ×ÜÍ³ºÍ×ÜÀíÆÚ¼ä½¨Á¢ÆğÀ´µÄ
+Mr. Putinâ€™s hold on power in Russia is `unrivaled`, built up over the last 20 years `in his posts` as president and prime minister.
+æ™®äº¬å¯¹ä¿„ç½—æ–¯æƒåŠ›çš„æŒæ§æ— äººèƒ½åŠï¼Œè¿™æ˜¯ä»–åœ¨è¿‡å»20å¹´æ‹…ä»»æ€»ç»Ÿå’Œæ€»ç†æœŸé—´å»ºç«‹èµ·æ¥çš„
 
-But Russia¡¯s Constitution `bars a president from serving` more than `two consecutive terms`. To maintain his grip on power, as he has hinted he intends to do, Mr. Putin needs to find a way to `engineer a leadership transition` that will allow that to happen
+But Russiaâ€™s Constitution `bars a president from serving` more than `two consecutive terms`. To maintain his grip on power, as he has hinted he intends to do, Mr. Putin needs to find a way to `engineer a leadership transition` that will allow that to happen
 
 This and other changes could `give Mr. Putin more leeway` to find a position in which he can maintain power without violating the Constitution
 
 `A revamped State Council` could `become a vehicle` for Mr. Putin to maintain power if he `relinquishes the presidency`, particularly over the military and foreign policy
-Èç¹ûÆÕ¾©·ÅÆú×ÜÍ³Ö°Î»£¬¸Ä×éºóµÄ¹úÎñÎ¯Ô±»á¿ÉÄÜ»á³ÉÎªËûÎ¬³ÖÈ¨Á¦µÄ¹¤¾ß£¬ÌØ±ğÊÇÔÚ¾üÊÂºÍÍâ½»Õş²ß·½ÃæµÄÈ¨Á¦
+å¦‚æœæ™®äº¬æ”¾å¼ƒæ€»ç»ŸèŒä½ï¼Œæ”¹ç»„åçš„å›½åŠ¡å§”å‘˜ä¼šå¯èƒ½ä¼šæˆä¸ºä»–ç»´æŒæƒåŠ›çš„å·¥å…·ï¼Œç‰¹åˆ«æ˜¯åœ¨å†›äº‹å’Œå¤–äº¤æ”¿ç­–æ–¹é¢çš„æƒåŠ›
 
-Despite Mr. Putin¡¯s `immense sway`, he¡¯d be taking a risk if he simply declared himself `president for life`
-¾¡¹ÜÆÕ¾©ÓµÓĞ¾Ş´óµÄÓ°ÏìÁ¦£¬µ«¼òµ¥µØĞû²¼×Ô¼ºÊÇÖÕÉí×ÜÍ³»áÊÇÒ»ÖÖÃ°ÏÕ
+Despite Mr. Putinâ€™s `immense sway`, heâ€™d be taking a risk if he simply declared himself `president for life`
+å°½ç®¡æ™®äº¬æ‹¥æœ‰å·¨å¤§çš„å½±å“åŠ›ï¼Œä½†ç®€å•åœ°å®£å¸ƒè‡ªå·±æ˜¯ç»ˆèº«æ€»ç»Ÿä¼šæ˜¯ä¸€ç§å†’é™©
 
-This time around, Mr. Putin `looks determined to orchestrate` his next move in `a slow-motion fashion` that¡¯s less likely to produce `a backlash`
-ÕâÒ»´Î£¬ÆÕ¾©ËÆºõÏÂ¶¨¾öĞÄÒªÒÔÒ»ÖÖ²»Ì«¿ÉÄÜÒıÆğÇ¿ÁÒ·´¶ÔµÄÂı¶¯×÷À´²ß»®ÏÂÒ»²½ĞĞ¶¯
+This time around, Mr. Putin `looks determined to orchestrate` his next move in `a slow-motion fashion` thatâ€™s less likely to produce `a backlash`
+è¿™ä¸€æ¬¡ï¼Œæ™®äº¬ä¼¼ä¹ä¸‹å®šå†³å¿ƒè¦ä»¥ä¸€ç§ä¸å¤ªå¯èƒ½å¼•èµ·å¼ºçƒˆåå¯¹çš„æ…¢åŠ¨ä½œæ¥ç­–åˆ’ä¸‹ä¸€æ­¥è¡ŒåŠ¨
 
-The changes to the Constitution he called for give him several options to hold on to power ¡ª while affording him as much as four years¡¯ time to `set his course`
-ËûºôÓõĞŞ¸ÄÏÜ·¨£¬Õâ¸øÁËËû¼¸¸ö¼ÌĞøÕÆÈ¨µÄÑ¡Ôñ£¬Í¬Ê±Ò²¸øÁËËûËÄÄêµÄÊ±¼äÀ´ÖÆ¶¨×Ô¼ºµÄÂ·Ïß
+The changes to the Constitution he called for give him several options to hold on to power â€” while affording him as much as four yearsâ€™ time to `set his course`
+ä»–å‘¼åä¿®æ”¹å®ªæ³•ï¼Œè¿™ç»™äº†ä»–å‡ ä¸ªç»§ç»­æŒæƒçš„é€‰æ‹©ï¼ŒåŒæ—¶ä¹Ÿç»™äº†ä»–å››å¹´çš„æ—¶é—´æ¥åˆ¶å®šè‡ªå·±çš„è·¯çº¿
 
-All of this means that the Kremlin is likely to `portray the resignation` on Wednesday of Mr. Medvedev and every cabinet minister as a sign that Mr. Putin has `heard Russians¡¯ demand for change`
-ÕâÒ»ÇĞÒâÎ¶×Å£¬¿ËÀïÄ·ÁÖ¹¬¿ÉÄÜ»á°ÑÖÜÈıÃ·µÂÎ¤½Ü·òºÍÈ«ÌåÄÚ¸óµÄ´ÇÖ°ÃèÊöÎªÆÕ¾©ÌıÈ¡ÁË¶íÂŞË¹ÈËÒªÇó¸Ä±äµÄĞÅºÅ
+All of this means that the Kremlin is likely to `portray the resignation` on Wednesday of Mr. Medvedev and every cabinet minister as a sign that Mr. Putin has `heard Russiansâ€™ demand for change`
+è¿™ä¸€åˆ‡æ„å‘³ç€ï¼Œå…‹é‡Œå§†æ—å®«å¯èƒ½ä¼šæŠŠå‘¨ä¸‰æ¢…å¾·éŸ¦æ°å¤«å’Œå…¨ä½“å†…é˜çš„è¾èŒæè¿°ä¸ºæ™®äº¬å¬å–äº†ä¿„ç½—æ–¯äººè¦æ±‚æ”¹å˜çš„ä¿¡å·
 
 While Russians do increasingly blame Mr. Putin `for their ills`, many more blame `the bureaucrats below him`
-¾¡¹Ü¶íÂŞË¹ÈËÈ·ÊµÔ½À´Ô½¶àµØÒòËûÃÇµÄÀ§¾³Ö¸ÔğÆÕ¾©£¬µ«¸ü¶àµÄÈËÖ¸ÏòÁËËûÏÂÃæµÄ¹ÙÁÅ
+å°½ç®¡ä¿„ç½—æ–¯äººç¡®å®è¶Šæ¥è¶Šå¤šåœ°å› ä»–ä»¬çš„å›°å¢ƒæŒ‡è´£æ™®äº¬ï¼Œä½†æ›´å¤šçš„äººæŒ‡å‘äº†ä»–ä¸‹é¢çš„å®˜åƒš
 
-`To drive home the point`, Mr. Putin proposed `a constitutional amendment` that offered the day¡¯s clearest statement of how he views his successor
-ÎªÁË²ûÃ÷ÕâÒ»µã£¬ÆÕ¾©Ìá³öÁËÒ»ÏîÏÜ·¨ĞŞÕı°¸£¬¸ø³öÁËµ±Ìì¹ØÓÚËû¶Ô¼ÌÈÎÕß¿´·¨µÄ×îÇåÎúµÄÉùÃ÷
+`To drive home the point`, Mr. Putin proposed `a constitutional amendment` that offered the dayâ€™s clearest statement of how he views his successor
+ä¸ºäº†é˜æ˜è¿™ä¸€ç‚¹ï¼Œæ™®äº¬æå‡ºäº†ä¸€é¡¹å®ªæ³•ä¿®æ­£æ¡ˆï¼Œç»™å‡ºäº†å½“å¤©å…³äºä»–å¯¹ç»§ä»»è€…çœ‹æ³•çš„æœ€æ¸…æ™°çš„å£°æ˜
 
-That was `an allusion` to Mr. Putin¡¯s frequent charge the West is `fomenting political opposition` to undermine Russian sovereignty
-ÕâÊÇÔÚ¼ä½ÓÌá¼°£¬ÆÕ¾©¶à´ÎÖ¸¿ØÎ÷·½¹ú¼ÒÉ¿¶¯ÕşÖÎ·´¶¯ÅÉÆÆ»µ¶íÂŞË¹Ö÷È¨
+That was `an allusion` to Mr. Putinâ€™s frequent charge the West is `fomenting political opposition` to undermine Russian sovereignty
+è¿™æ˜¯åœ¨é—´æ¥æåŠï¼Œæ™®äº¬å¤šæ¬¡æŒ‡æ§è¥¿æ–¹å›½å®¶ç…½åŠ¨æ”¿æ²»ååŠ¨æ´¾ç ´åä¿„ç½—æ–¯ä¸»æƒ
 
 China has `committed to buy` an additional $200 billion of American goods and services by 2021 and `crack down on business practices` that the Trump administration has criticized. But text of the accord does not provide enough information to `determine how it will work in practice`
-ÖĞ¹ú³ĞÅµÔÚ2021Äêµ×Ç°ÔÙ¹ºÂò2000ÒÚÃÀÔªµÄÃÀ¹úÉÌÆ·ºÍ·şÎñ£¬²¢¶ÔÌØÀÊÆÕÕş¸®ÅúÆÀµÄÉÌÒµĞĞÎª½øĞĞ´ò»÷¡£µ«Ğ­ÒéÎÄ±¾Ã»ÓĞÌá¹©×ã¹»µÄĞÅÏ¢À´È·¶¨Ëü½«ÈçºÎÂäÊµ
+ä¸­å›½æ‰¿è¯ºåœ¨2021å¹´åº•å‰å†è´­ä¹°2000äº¿ç¾å…ƒçš„ç¾å›½å•†å“å’ŒæœåŠ¡ï¼Œå¹¶å¯¹ç‰¹æœ—æ™®æ”¿åºœæ‰¹è¯„çš„å•†ä¸šè¡Œä¸ºè¿›è¡Œæ‰“å‡»ã€‚ä½†åè®®æ–‡æœ¬æ²¡æœ‰æä¾›è¶³å¤Ÿçš„ä¿¡æ¯æ¥ç¡®å®šå®ƒå°†å¦‚ä½•è½å®
 
 Mr. Trump said his deal is `a boon for farmers`, who have been among `the hardest hit` by his trade war
-ÌØÀÊÆÕËµ£¬Õâ±Ê½»Ò×¶ÔÅ©ÃñÀ´ËµÊÇÒ»¸ö¸£Òô£¬ÒòÎªËûÃÇÊÇÊÜµ½Ã³Ò×Õ½´ò»÷×îÑÏÖØµÄÈºÌåÖ®Ò»
+ç‰¹æœ—æ™®è¯´ï¼Œè¿™ç¬”äº¤æ˜“å¯¹å†œæ°‘æ¥è¯´æ˜¯ä¸€ä¸ªç¦éŸ³ï¼Œå› ä¸ºä»–ä»¬æ˜¯å—åˆ°è´¸æ˜“æˆ˜æ‰“å‡»æœ€ä¸¥é‡çš„ç¾¤ä½“ä¹‹ä¸€
 
 China is only agreeing to make purchases for the next two years and `is vague about what happens thereafter`
-ÖĞ¹ú½öÍ¬ÒâÔÚÎ´À´Á½Äê½øĞĞ²É¹º£¬¶ÔÖ®ºó»á·¢ÉúÊ²Ã´²¢²»ÇåÎú
+ä¸­å›½ä»…åŒæ„åœ¨æœªæ¥ä¸¤å¹´è¿›è¡Œé‡‡è´­ï¼Œå¯¹ä¹‹åä¼šå‘ç”Ÿä»€ä¹ˆå¹¶ä¸æ¸…æ™°
 
-The agreement says the countries ¡°`project that the trajectory`¡± of increased purchases would continue through 2025, but it remains to be seen how it will `actually play out`
-Ğ­ÒéËµ£¬Á½¹ú¡°Ô¤¼Æ¡±Ôö¼Ó¹ºÂòÁ¿µÄ¡°¹ì¼£¡±½«³ÖĞøµ½2025Äê£¬µ«ÂäÊµÇé¿öÈÔÓĞ´ı¹Û²ì
+The agreement says the countries â€œ`project that the trajectory`â€ of increased purchases would continue through 2025, but it remains to be seen how it will `actually play out`
+åè®®è¯´ï¼Œä¸¤å›½â€œé¢„è®¡â€å¢åŠ è´­ä¹°é‡çš„â€œè½¨è¿¹â€å°†æŒç»­åˆ°2025å¹´ï¼Œä½†è½å®æƒ…å†µä»æœ‰å¾…è§‚å¯Ÿ
 
-Can it `get out of such commitments` if there isn¡¯t `domestic demand`? Will the purchases `distort commodities markets`?
-Èç¹û¹úÄÚĞèÇó²»´æÔÚ£¬ËüÄÜ´ÓÕâÖÖ³ĞÅµÖĞÍÑÉíÂğ£¿ÕâÖÖ¹ºÂòÊÇ·ñ»áÅ¤Çú´ó×ÚÉÌÆ·ÊĞ³¡£¿
+Can it `get out of such commitments` if there isnâ€™t `domestic demand`? Will the purchases `distort commodities markets`?
+å¦‚æœå›½å†…éœ€æ±‚ä¸å­˜åœ¨ï¼Œå®ƒèƒ½ä»è¿™ç§æ‰¿è¯ºä¸­è„±èº«å—ï¼Ÿè¿™ç§è´­ä¹°æ˜¯å¦ä¼šæ‰­æ›²å¤§å®—å•†å“å¸‚åœºï¼Ÿ
 
 Previous administrations have tried to get China to crack down on this practice `with limited success.`
-ÏÈÇ°µÄÕş¸®ÔøÊÔÍ¼ÈÃÖĞ¹úÑÏÀ÷´ò»÷ÕâÖÖ×ö·¨£¬µ«ÊÕĞ§ÉõÎ¢
+å…ˆå‰çš„æ”¿åºœæ›¾è¯•å›¾è®©ä¸­å›½ä¸¥å‰æ‰“å‡»è¿™ç§åšæ³•ï¼Œä½†æ”¶æ•ˆç”šå¾®
 
-For instance, the deal requires China to ¡°`enumerate additional acts constituting trade secret misappropriation`,¡± including ¡°`electronic intrusions`,¡± a reference to hacking of computer systems
-ÀıÈç£¬¸Ã½»Ò×ÒªÇóÖĞ¹ú¡°ÁĞ¾Ù¹¹³ÉÉÌÒµ»úÃÜµÁÓÃµÄÆäËûĞĞÎª¡±£¬°üÀ¨¡°µç×ÓÈëÇÖ¡±£¬Ö¸¶Ô¼ÆËã»úÏµÍ³µÄºÚ¿ÍÈëÇÖ
+For instance, the deal requires China to â€œ`enumerate additional acts constituting trade secret misappropriation`,â€ including â€œ`electronic intrusions`,â€ a reference to hacking of computer systems
+ä¾‹å¦‚ï¼Œè¯¥äº¤æ˜“è¦æ±‚ä¸­å›½â€œåˆ—ä¸¾æ„æˆå•†ä¸šæœºå¯†ç›—ç”¨çš„å…¶ä»–è¡Œä¸ºâ€ï¼ŒåŒ…æ‹¬â€œç”µå­å…¥ä¾µâ€ï¼ŒæŒ‡å¯¹è®¡ç®—æœºç³»ç»Ÿçš„é»‘å®¢å…¥ä¾µ
 
 The agreement also aims to make it easier for companies to `seek redress` in China if they believe their trade secrets have been stolen. 
-¸ÃĞ­Òé»¹Ö¼ÔÚÈÃÆóÒµÈÏÎª×Ô¼ºµÄÉÌÒµ»úÃÜ±»ÇÔÈ¡µÄÊ±ºò£¬¸üÈİÒ×ÔÚÖĞ¹úÑ°ÇóÅâ³¥
+è¯¥åè®®è¿˜æ—¨åœ¨è®©ä¼ä¸šè®¤ä¸ºè‡ªå·±çš„å•†ä¸šæœºå¯†è¢«çªƒå–çš„æ—¶å€™ï¼Œæ›´å®¹æ˜“åœ¨ä¸­å›½å¯»æ±‚èµ”å¿
 
 `The pharmaceutical industry` appears to have `secured significant gains`, including commitments by the Chinese government to do more to protect patent owners from `copycats`
-ÖÆÒ©ÒµËÆºõ»ñµÃÁËÖØ´óÊÕÒæ£¬°üÀ¨ÖĞ¹úÕş¸®³ĞÅµ²ÉÈ¡¸ü¶à´ëÊ©±£»¤×¨ÀûËùÓĞÕßÃâÊÜ·ÂÖÆÆ·µÄËğº¦
+åˆ¶è¯ä¸šä¼¼ä¹è·å¾—äº†é‡å¤§æ”¶ç›Šï¼ŒåŒ…æ‹¬ä¸­å›½æ”¿åºœæ‰¿è¯ºé‡‡å–æ›´å¤šæªæ–½ä¿æŠ¤ä¸“åˆ©æ‰€æœ‰è€…å…å—ä»¿åˆ¶å“çš„æŸå®³
 
 Among the biggest questions `going in to the negotiations` with China was how any agreement `would be enforced`. `Having watched `previous agreements with China fail to `live up to their promise`, many American experts and business executives `were skeptical` that the Trump administration could get China to keep the commitments it makes
-ÓëÖĞ¹ú½øĞĞÌ¸ÅĞµÄ×î´óÎÊÌâÖ®Ò»ÊÇĞ­Òé½«ÈçºÎÖ´ĞĞ¡£Ä¿¶ÃÏÈÇ°ÓëÖĞ¹ú´ï³ÉµÄĞ­ÒéÎ´ÄÜ¶ÒÏÖ³ĞÅµºó£¬Ğí¶àÃÀ¹ú×¨¼ÒºÍÆóÒµ¸ß¹Ü¶ÔÌØÀÊÆÕÕş¸®ÄÜ·ñÈÃÖĞ¹úĞÅÊØ³ĞÅµ±íÊ¾»³ÒÉ
+ä¸ä¸­å›½è¿›è¡Œè°ˆåˆ¤çš„æœ€å¤§é—®é¢˜ä¹‹ä¸€æ˜¯åè®®å°†å¦‚ä½•æ‰§è¡Œã€‚ç›®ç¹å…ˆå‰ä¸ä¸­å›½è¾¾æˆçš„åè®®æœªèƒ½å…‘ç°æ‰¿è¯ºåï¼Œè®¸å¤šç¾å›½ä¸“å®¶å’Œä¼ä¸šé«˜ç®¡å¯¹ç‰¹æœ—æ™®æ”¿åºœèƒ½å¦è®©ä¸­å›½ä¿¡å®ˆæ‰¿è¯ºè¡¨ç¤ºæ€€ç–‘
 
 The deal also includes `an appeals process` where issues can be `elevated from midlevel officials all the way up to` the offices of the United States trade representative and the vice premier of China
-¸ÃĞ­Òé»¹°üÀ¨Ò»¸öÉÏËß³ÌĞò£¬ÎÊÌâ¿ÉÒÔ´ÓÖĞ²ã¹ÙÔ±Ò»Ö±ÌáÉıµ½ÃÀ¹úÃ³Ò×´ú±íºÍÖĞ¹ú¸±×ÜÀí°ì¹«ÊÒ
+è¯¥åè®®è¿˜åŒ…æ‹¬ä¸€ä¸ªä¸Šè¯‰ç¨‹åºï¼Œé—®é¢˜å¯ä»¥ä»ä¸­å±‚å®˜å‘˜ä¸€ç›´æå‡åˆ°ç¾å›½è´¸æ˜“ä»£è¡¨å’Œä¸­å›½å‰¯æ€»ç†åŠå…¬å®¤
 
 If the United States or China believes that the other is acting `in bad faith`, either country can `give written notice and withdraw from the deal`
-Èç¹ûÃÀ¹ú»òÖĞ¹úÈÏÎª¶Ô·½±³ĞÅÆúÒå£¬ÔòÆäÖĞÒ»·½¿ÉÒÔ·¢³öÊéÃæÍ¨Öª²¢ÍË³ö½»Ò×
+å¦‚æœç¾å›½æˆ–ä¸­å›½è®¤ä¸ºå¯¹æ–¹èƒŒä¿¡å¼ƒä¹‰ï¼Œåˆ™å…¶ä¸­ä¸€æ–¹å¯ä»¥å‘å‡ºä¹¦é¢é€šçŸ¥å¹¶é€€å‡ºäº¤æ˜“
 
-The Parties shall `work constructively to provide fair, effective, and nondiscriminatory market access` for each other¡¯s services and services suppliers. `To that end`, the Parties shall take specific actions beginning with the actions `set forth in` this Chapter `with respect to` the financial services sector
-Ë«·½Ó¦½øĞĞ½¨ÉèĞÔµÄ¹¤×÷£¬¸øÓè¶Ô·½µÄ·şÎñºÍ·şÎñÌá¹©Õß¹«Æ½¡¢ÓĞĞ§¡¢·ÇÆçÊÓµÄÊĞ³¡×¼Èë´ıÓö¡£Îª´Ë£¬Ë«·½Ó¦´Ó±¾½ğÈÚ·şÎñÕÂ½ÚÔ¼¶¨µÄĞĞ¶¯¿ªÊ¼£¬²ÉÈ¡¾ßÌåĞĞ¶¯
+The Parties shall `work constructively to provide fair, effective, and nondiscriminatory market access` for each otherâ€™s services and services suppliers. `To that end`, the Parties shall take specific actions beginning with the actions `set forth in` this Chapter `with respect to` the financial services sector
+åŒæ–¹åº”è¿›è¡Œå»ºè®¾æ€§çš„å·¥ä½œï¼Œç»™äºˆå¯¹æ–¹çš„æœåŠ¡å’ŒæœåŠ¡æä¾›è€…å…¬å¹³ã€æœ‰æ•ˆã€éæ­§è§†çš„å¸‚åœºå‡†å…¥å¾…é‡ã€‚ä¸ºæ­¤ï¼ŒåŒæ–¹åº”ä»æœ¬é‡‘èæœåŠ¡ç« èŠ‚çº¦å®šçš„è¡ŒåŠ¨å¼€å§‹ï¼Œé‡‡å–å…·ä½“è¡ŒåŠ¨
 
-Even if China did approve their applications, it is not clear that those businesses would `make many inroads` in the country¡¯s `advanced electronic payment system`, which `is dominated by` domestic companies
-¼´Ê¹ÖĞ¹úÅú×¼ÁËËüÃÇµÄÉêÇë£¬Ò²²»Çå³şÕâĞ©ÆóÒµÊÇ·ñ»áÔÚÖĞ¹úÓÉ¹úÄÚÆóÒµÖ÷µ¼µÄÏÈ½øµç×ÓÖ§¸¶ÏµÍ³ÖĞÈ¡µÃºÜ´ó½øÕ¹
+Even if China did approve their applications, it is not clear that those businesses would `make many inroads` in the countryâ€™s `advanced electronic payment system`, which `is dominated by` domestic companies
+å³ä½¿ä¸­å›½æ‰¹å‡†äº†å®ƒä»¬çš„ç”³è¯·ï¼Œä¹Ÿä¸æ¸…æ¥šè¿™äº›ä¼ä¸šæ˜¯å¦ä¼šåœ¨ä¸­å›½ç”±å›½å†…ä¼ä¸šä¸»å¯¼çš„å…ˆè¿›ç”µå­æ”¯ä»˜ç³»ç»Ÿä¸­å–å¾—å¾ˆå¤§è¿›å±•
 
 The Parties shall `refrain from competitive devaluations` and not target exchange rates for competitive purposes, including through `large-scale, persistent, one-sided intervention` in exchange markets
-Ë«·½Ó¦±ÜÃâ¾ºÕùĞÔ±áÖµ£¬±ÜÃâ½«»ãÂÊÓÃÓÚ¾ºÕùĞÔÄ¿µÄ£¬°üÀ¨¶ÔÍâ»ãÊĞ³¡½øĞĞ´ó¹æÄ£¡¢³ÖĞø¡¢µ¥Ïò¸ÉÔ¤
+åŒæ–¹åº”é¿å…ç«äº‰æ€§è´¬å€¼ï¼Œé¿å…å°†æ±‡ç‡ç”¨äºç«äº‰æ€§ç›®çš„ï¼ŒåŒ…æ‹¬å¯¹å¤–æ±‡å¸‚åœºè¿›è¡Œå¤§è§„æ¨¡ã€æŒç»­ã€å•å‘å¹²é¢„
 
 `Much of what` China is agreeing to do is `in line with commitments` it has already made through the Group of 20 and `its obligations` to the International Monetary Fund
-ÖĞ¹úÍ¬Òâ²ÉÈ¡µÄĞĞ¶¯£¬ÔÚºÜ´ó³Ì¶ÈÉÏ·ûºÏËüÍ¨¹ı20¹ú¼¯ÍÅ×ö³öµÄ³ĞÅµ£¬ÒÔ¼°Ëü¶Ô¹ú¼Ê»õ±Ò»ù½ğ×éÖ¯µÄÒåÎñ
+ä¸­å›½åŒæ„é‡‡å–çš„è¡ŒåŠ¨ï¼Œåœ¨å¾ˆå¤§ç¨‹åº¦ä¸Šç¬¦åˆå®ƒé€šè¿‡20å›½é›†å›¢åšå‡ºçš„æ‰¿è¯ºï¼Œä»¥åŠå®ƒå¯¹å›½é™…è´§å¸åŸºé‡‘ç»„ç»‡çš„ä¹‰åŠ¡
 
 Brad Setser, an economist at `the Council on Foreign Relations`, was `unimpressed by` the new currency provisions, `pointing out` that China is `primarily promising things` that it already does and that it will continue to `be circumspect about` its actual interventions
-ÃÀ¹úÍâ½»¹ØÏµÎ¯Ô±»á¾­¼ÃÑ§¼Ò²¼À­µÂ¡¤Èû²ß¶ÔĞÂµÄ»ãÂÊÌõ¿î²»ÒÔÎªÈ»£¬ËûÖ¸³ö£¬ÖĞ¹úÖ÷ÒªÊÇÔÚ³ĞÅµËüÒÑ¾­ÔÚ×öµÄÊÂÇé£¬²¢½«¼ÌĞø¶ÔÆäÊµ¼Ê¸ÉÔ¤ĞĞ¶¯±£³Ö½÷É÷Ì¬¶È
+ç¾å›½å¤–äº¤å…³ç³»å§”å‘˜ä¼šç»æµå­¦å®¶å¸ƒæ‹‰å¾·Â·å¡ç­–å¯¹æ–°çš„æ±‡ç‡æ¡æ¬¾ä¸ä»¥ä¸ºç„¶ï¼Œä»–æŒ‡å‡ºï¼Œä¸­å›½ä¸»è¦æ˜¯åœ¨æ‰¿è¯ºå®ƒå·²ç»åœ¨åšçš„äº‹æƒ…ï¼Œå¹¶å°†ç»§ç»­å¯¹å…¶å®é™…å¹²é¢„è¡ŒåŠ¨ä¿æŒè°¨æ…æ€åº¦
 
 Administration officials have said that they will not `lift those tariffs` until the countries `manage to agree to` a phase 2 agreement. `Prolonged strains` in the relationship could `prompt American firms to spend less` in China `and vice versa`
-Õş¸®¹ÙÔ±±íÊ¾£¬ÔÚÁ½¹ú´ï³ÉµÚ¶ş½×¶ÎĞ­ÒéÖ®Ç°£¬ËûÃÇ²»»áÈ¡ÏûÕâĞ©¹ØË°¡£³¤ÆÚµÄ½ôÕÅ¹ØÏµ»á´ÙÊ¹ÃÀ¹ú¹«Ë¾¼õÉÙÔÚÖĞ¹úµÄÍ¶×Ê£¬·´Ö®ÒàÈ»
+æ”¿åºœå®˜å‘˜è¡¨ç¤ºï¼Œåœ¨ä¸¤å›½è¾¾æˆç¬¬äºŒé˜¶æ®µåè®®ä¹‹å‰ï¼Œä»–ä»¬ä¸ä¼šå–æ¶ˆè¿™äº›å…³ç¨ã€‚é•¿æœŸçš„ç´§å¼ å…³ç³»ä¼šä¿ƒä½¿ç¾å›½å…¬å¸å‡å°‘åœ¨ä¸­å›½çš„æŠ•èµ„ï¼Œåä¹‹äº¦ç„¶
 
 PREAMBLE: REALIZING that it is in the interests of both countries that trade grow and that `there is adherence to international norms` `so as to` promote market-based outcomes
-ĞòÑÔ : ÈÏÊ¶µ½Ã³Ò×Ôö³¤ºÍ×ñÑ­¹ú¼Ê¹æ·¶¡¢ÒÔ´Ù½ø»ùÓÚÊĞ³¡µÄ³É¹û£¬·ûºÏÁ½¹úµÄÀûÒæ
+åºè¨€ : è®¤è¯†åˆ°è´¸æ˜“å¢é•¿å’Œéµå¾ªå›½é™…è§„èŒƒã€ä»¥ä¿ƒè¿›åŸºäºå¸‚åœºçš„æˆæœï¼Œç¬¦åˆä¸¤å›½çš„åˆ©ç›Š
 
 A Chinese man in his 30s has `tested positive` for the `new coronavirus`, the Japanese health ministry said Thursday
-ÈÕ±¾ºñÉúÀÍ¶¯Ê¡ÖÜËÄ±íÊ¾£¬Ò»Ãû30¶àËêµÄÖĞ¹úÄĞ×Ó±»¼ì²â³öĞÂĞÍ¹Ú×´²¡¶¾³ÊÑôĞÔ
+æ—¥æœ¬åšç”ŸåŠ³åŠ¨çœå‘¨å››è¡¨ç¤ºï¼Œä¸€å30å¤šå²çš„ä¸­å›½ç”·å­è¢«æ£€æµ‹å‡ºæ–°å‹å† çŠ¶ç—…æ¯’å‘ˆé˜³æ€§
 
 It is possible that the patient had `close contact with` an unknown patient with `lung inflammation while in China`
-ÔÚÖĞ¹úÆÚ¼ä£¬¸Ã»¼Õß¿ÉÄÜÓëÒ»ÃûÎ´ÖªµÄ·ÎÑ×»¼ÕßÃÜÇĞ½Ó´¥¹ı
+åœ¨ä¸­å›½æœŸé—´ï¼Œè¯¥æ‚£è€…å¯èƒ½ä¸ä¸€åæœªçŸ¥çš„è‚ºç‚æ‚£è€…å¯†åˆ‡æ¥è§¦è¿‡
 
 The Wuhan health commission said on Wednesday that `the risk of a rapid spread of the virus among humans is low` but it could not `rule out the possibility of human-to-human transmission` of the virus. Officials also said they `detected the first cluster of` the virus involving members of a family
-ÎäººÊĞÎÀ½¡Î¯ÖÜÈı±íÊ¾£¬¸Ã²¡¶¾ÔÚÈËÀàÖĞÑ¸ËÙ´«²¥µÄ·çÏÕºÜµÍ£¬µ«²»ÄÜÅÅ³ı¸Ã²¡¶¾ÔÚÈË¼ÊÖ®¼ä´«²¥µÄ¿ÉÄÜĞÔ¡£¹ÙÔ±ÃÇ»¹Ëµ£¬ËûÃÇ·¢ÏÖÁËÊ×Åú¼ÒÍ¥¾Û¼¯ĞÔ²¡Àı
+æ­¦æ±‰å¸‚å«å¥å§”å‘¨ä¸‰è¡¨ç¤ºï¼Œè¯¥ç—…æ¯’åœ¨äººç±»ä¸­è¿…é€Ÿä¼ æ’­çš„é£é™©å¾ˆä½ï¼Œä½†ä¸èƒ½æ’é™¤è¯¥ç—…æ¯’åœ¨äººé™…ä¹‹é—´ä¼ æ’­çš„å¯èƒ½æ€§ã€‚å®˜å‘˜ä»¬è¿˜è¯´ï¼Œä»–ä»¬å‘ç°äº†é¦–æ‰¹å®¶åº­èšé›†æ€§ç—…ä¾‹
 
 The World Health Organization has `reiterated that` there is no evidence of `human-to-human transmission of the virus`
-ÊÀ½çÎÀÉú×éÖ¯ÖØÉê£¬Ã»ÓĞÖ¤¾İ±íÃ÷¸Ã²¡¶¾ÔÚÈËÓëÈËÖ®¼ä´«²¥
+ä¸–ç•Œå«ç”Ÿç»„ç»‡é‡ç”³ï¼Œæ²¡æœ‰è¯æ®è¡¨æ˜è¯¥ç—…æ¯’åœ¨äººä¸äººä¹‹é—´ä¼ æ’­
 
 Experts say they want to know how the virus was transmitted to humans and `the incubation period` of the patients
-×¨¼ÒËµ£¬ËûÃÇÏëÖªµÀ²¡¶¾ÊÇÈçºÎ´«²¥¸øÈËÀàµÄ£¬ÒÔ¼°»¼ÕßµÄÇ±·üÆÚÓĞ¶à³¤
+ä¸“å®¶è¯´ï¼Œä»–ä»¬æƒ³çŸ¥é“ç—…æ¯’æ˜¯å¦‚ä½•ä¼ æ’­ç»™äººç±»çš„ï¼Œä»¥åŠæ‚£è€…çš„æ½œä¼æœŸæœ‰å¤šé•¿
 
 While the new coronavirus appears to be `less virulent and deadly` than the virus that caused the 2003 `severe acute respiratory syndrome` outbreak, many questions remain
-¾¡¹ÜÕâÒ»ĞÂĞÍ¹Ú×´²¡¶¾ËÆºõ²»ÈçÒıÆğ2003ÄêÑÏÖØ¼±ĞÔºôÎüÏµÍ³×ÛºÏÕ÷±¬·¢µÄ²¡¶¾ÄÇÑù¾çÁÒºÍÖÂÃü£¬µ«ÈÔÓĞºÜ¶àÎÊÌâÎ´½â
+å°½ç®¡è¿™ä¸€æ–°å‹å† çŠ¶ç—…æ¯’ä¼¼ä¹ä¸å¦‚å¼•èµ·2003å¹´ä¸¥é‡æ€¥æ€§å‘¼å¸ç³»ç»Ÿç»¼åˆå¾çˆ†å‘çš„ç—…æ¯’é‚£æ ·å‰§çƒˆå’Œè‡´å‘½ï¼Œä½†ä»æœ‰å¾ˆå¤šé—®é¢˜æœªè§£
 
 The whole trouble `with resolutions` is that keeping them is hard. Which makes sense: If it were easy to `keep a resolution, there would be no need to make one`
-¾öĞÄµÄÈ«²¿ÎÊÌâÔÚÓÚÄÑÒÔ¼á³Ö¡£Õâ²»ÄÑ¶®£ºÈç¹û¼á³Ö¾öĞÄÈİÒ×µÄ»°£¬¾Í²»½Ğ¾öĞÄÁË
+å†³å¿ƒçš„å…¨éƒ¨é—®é¢˜åœ¨äºéš¾ä»¥åšæŒã€‚è¿™ä¸éš¾æ‡‚ï¼šå¦‚æœåšæŒå†³å¿ƒå®¹æ˜“çš„è¯ï¼Œå°±ä¸å«å†³å¿ƒäº†
 
 In that spirit, I offer some `very doable resolutions` for l`iving more lightly on the earth`
-±¾×ÅÕâÖÖ¾«Éñ£¬ÎÒ½¨ÒéÒ»Ğ©ÇĞÊµ¿ÉĞĞµÄĞÂÄê¾öĞÄ£¬ÈÃÎÒÃÇÄÜ¸ü»·±£µØÉú»îÔÚµØÇòÉÏ
+æœ¬ç€è¿™ç§ç²¾ç¥ï¼Œæˆ‘å»ºè®®ä¸€äº›åˆ‡å®å¯è¡Œçš„æ–°å¹´å†³å¿ƒï¼Œè®©æˆ‘ä»¬èƒ½æ›´ç¯ä¿åœ°ç”Ÿæ´»åœ¨åœ°çƒä¸Š
 
-First, let¡¯s `give credit where it is due`. Trump¡¯s tough line on China has `shaken loose more apparent concessions` from the Chinese than previous administrations managed. 
-Ê×ÏÈ£¬¸Ã¸øµÄ³ÆÔŞ»¹ÊÇÒª¸ø¡£±ÈÆğÇ°¼¸ÈÎÕş¸®£¬ÌØÀÊÆÕ¶ÔÖĞ¹úµÄÇ¿Ó²Á¢³¡´ÙÊ¹ÖĞ¹úÈË¸ø³ö¸üÎªÃ÷ÏÔµÄÈÃ²½¡£
+First, letâ€™s `give credit where it is due`. Trumpâ€™s tough line on China has `shaken loose more apparent concessions` from the Chinese than previous administrations managed. 
+é¦–å…ˆï¼Œè¯¥ç»™çš„ç§°èµè¿˜æ˜¯è¦ç»™ã€‚æ¯”èµ·å‰å‡ ä»»æ”¿åºœï¼Œç‰¹æœ—æ™®å¯¹ä¸­å›½çš„å¼ºç¡¬ç«‹åœºä¿ƒä½¿ä¸­å›½äººç»™å‡ºæ›´ä¸ºæ˜æ˜¾çš„è®©æ­¥ã€‚
 
 The previous, longstanding policy of `constructive engagement`, using `persuasion couched` in the language of mutual benefits, `bore little fruit`.
-¹ıÈ¥µÄ³¤ÆÚ½¨ÉèĞÔ½Ó´¥Õş²ß£¬ÒÔ»¥»İ»¥ÀûµÄ´ë´Ç½øĞĞËµ·ş£¬ÊÕĞ§ÉõÎ¢
+è¿‡å»çš„é•¿æœŸå»ºè®¾æ€§æ¥è§¦æ”¿ç­–ï¼Œä»¥äº’æƒ äº’åˆ©çš„æªè¾è¿›è¡Œè¯´æœï¼Œæ”¶æ•ˆç”šå¾®
 
-Why did China make these concessions? `Therein lies a deep irony`. Many of `the ostensible concessions` are in areas where Chinese reformers have long sought to create change `for their country¡¯s own good.`
-ÖĞ¹úÎªÊ²Ã´×÷³öÕâĞ©ÈÃ²½£¿ÕâÆäÖĞ¾ÍºÜÓĞ·í´ÌÒâÎ¶ÁË¡£Ğí¶à¿´ÉÏÈ¥ÊÇÈÃ²½µÄµØ·½£¬ÖĞ¹úµÄ¸Ä¸ïÕß³öÓÚ×ÔÉíÀû±×µÄ¿¼Á¿±¾À´¾Í´òËã¸Ä±äÁË¡£
+Why did China make these concessions? `Therein lies a deep irony`. Many of `the ostensible concessions` are in areas where Chinese reformers have long sought to create change `for their countryâ€™s own good.`
+ä¸­å›½ä¸ºä»€ä¹ˆä½œå‡ºè¿™äº›è®©æ­¥ï¼Ÿè¿™å…¶ä¸­å°±å¾ˆæœ‰è®½åˆºæ„å‘³äº†ã€‚è®¸å¤šçœ‹ä¸Šå»æ˜¯è®©æ­¥çš„åœ°æ–¹ï¼Œä¸­å›½çš„æ”¹é©è€…å‡ºäºè‡ªèº«åˆ©å¼Šçš„è€ƒé‡æœ¬æ¥å°±æ‰“ç®—æ”¹å˜äº†ã€‚
 
 Even `a cease-fire`, and the prospects that further tariffs can be avoided, might help `mitigate the slump` in business sentiment and investment in China.
-½öÊÇĞİÕ½£¬ÒÔ¼°¿ÉÒÔ±ÜÃâ½øÒ»²½Õ÷ÊÕ¹ØË°µÄÇ°¾°£¬¶¼¿ÉÄÜÓĞÖúÓÚ»º½âÖĞ¹úÉÌÒµĞÅĞÄºÍÍ¶×ÊµÄµÍÃÔ
+ä»…æ˜¯ä¼‘æˆ˜ï¼Œä»¥åŠå¯ä»¥é¿å…è¿›ä¸€æ­¥å¾æ”¶å…³ç¨çš„å‰æ™¯ï¼Œéƒ½å¯èƒ½æœ‰åŠ©äºç¼“è§£ä¸­å›½å•†ä¸šä¿¡å¿ƒå’ŒæŠ•èµ„çš„ä½è¿·
 
 In that case, `all bets are off` and Washington wants Beijing to `override the market`
-ÔÚÕâÖÖÇé¿öÏÂ£¬Ò»ÇĞ½ÔÓĞ¿ÉÄÜ£¬²¢ÇÒ»ªÊ¢¶Ù»áÏëÒª±±¾©È¥ÍÆ·­ÊĞ³¡µÄ¾ö¶¨
+åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œä¸€åˆ‡çš†æœ‰å¯èƒ½ï¼Œå¹¶ä¸”åç››é¡¿ä¼šæƒ³è¦åŒ—äº¬å»æ¨ç¿»å¸‚åœºçš„å†³å®š
 
-These include China¡¯s corporate subsidies, which `give its companies a leg up on` foreign competition, the dominance of state-owned enterprises in its economy
-ÆäÖĞ°üÀ¨ÖĞ¹úµÄÆóÒµ²¹Ìù£¬ÕâĞ©²¹ÌùÊ¹ÖĞ¹úÆóÒµÔÚ¹úÍâ¾ºÕùÖĞ´¦ÓÚÓÅÊÆµØÎ»£¬Ê¹¹úÓĞÆóÒµÔÚ¾­¼ÃÖĞÕ¼Ö÷µ¼µØÎ»
+These include Chinaâ€™s corporate subsidies, which `give its companies a leg up on` foreign competition, the dominance of state-owned enterprises in its economy
+å…¶ä¸­åŒ…æ‹¬ä¸­å›½çš„ä¼ä¸šè¡¥è´´ï¼Œè¿™äº›è¡¥è´´ä½¿ä¸­å›½ä¼ä¸šåœ¨å›½å¤–ç«äº‰ä¸­å¤„äºä¼˜åŠ¿åœ°ä½ï¼Œä½¿å›½æœ‰ä¼ä¸šåœ¨ç»æµä¸­å ä¸»å¯¼åœ°ä½
 
 The deal with China and the recently `ratified` United States-Mexico-Canada Agreement `ought to help resolve that uncertainty`
-ÓëÖĞ¹úµÄĞ­ÒéÒÔ¼°×î½üÕıÊ½Åú×¼µÄ¡¶ÃÀ¹ú-Ä«Î÷¸ç-¼ÓÄÃ´óĞ­Òé¡·Ó¦ÓĞÖúÓÚ½â¾öÕâÒ»²»È·¶¨ĞÔ
+ä¸ä¸­å›½çš„åè®®ä»¥åŠæœ€è¿‘æ­£å¼æ‰¹å‡†çš„ã€Šç¾å›½-å¢¨è¥¿å“¥-åŠ æ‹¿å¤§åè®®ã€‹åº”æœ‰åŠ©äºè§£å†³è¿™ä¸€ä¸ç¡®å®šæ€§
 
-But given the Trump administration¡¯s record of `mercurial policymaking`, `trade hostilities` could again `flare up` at the president¡¯s `whim`, `undermining the certainty` businesses need before making decisions about their investments and supply chains
-µ«ÊÇ£¬¼øÓÚÌØÀÊÆÕÕş¸®ÔÚÕş²ßÖÆ¶¨ÉÏÒ»¹áµÄ·´¸´ÎŞ³££¬Ã³Ò×µĞ¶Ô¿ÉÄÜÔÙ´ÎÒò×ÜÍ³µÄÍ»·¢ÆæÏë¶ø±¬·¢£¬ÆÆ»µÆóÒµÔÚ×ö³öÓĞ¹ØÍ¶×ÊºÍ¹©Ó¦Á´¾ö²ßÖ®Ç°ËùĞèÒªµÄÈ·¶¨ĞÔ
+But given the Trump administrationâ€™s record of `mercurial policymaking`, `trade hostilities` could again `flare up` at the presidentâ€™s `whim`, `undermining the certainty` businesses need before making decisions about their investments and supply chains
+ä½†æ˜¯ï¼Œé‰´äºç‰¹æœ—æ™®æ”¿åºœåœ¨æ”¿ç­–åˆ¶å®šä¸Šä¸€è´¯çš„åå¤æ— å¸¸ï¼Œè´¸æ˜“æ•Œå¯¹å¯èƒ½å†æ¬¡å› æ€»ç»Ÿçš„çªå‘å¥‡æƒ³è€Œçˆ†å‘ï¼Œç ´åä¼ä¸šåœ¨åšå‡ºæœ‰å…³æŠ•èµ„å’Œä¾›åº”é“¾å†³ç­–ä¹‹å‰æ‰€éœ€è¦çš„ç¡®å®šæ€§
 
 But China might `end up being the winner` when `the dust settles`
-µ«³¾°£Âä¶¨ºó£¬ÖĞ¹ú¿ÉÄÜ³ÉÎª×îÖÕÓ®¼Ò
+ä½†å°˜åŸƒè½å®šåï¼Œä¸­å›½å¯èƒ½æˆä¸ºæœ€ç»ˆèµ¢å®¶
 
-Summer temperatures can approach 100 degrees, `with heavy humidity`. Its `traditional dish`, and one of China¡¯s `favorite noshes, is a pungent pasta concoction called reganmian, or ¡°hot dry noodles.¡±`
-ÕâÀïÏÄ¼¾ÆøÎÂ¿É´ï100»ªÊÏ¶È£¬Êª¶È¼«´ó¡£ËüµÄ´«Í³²ËëÈ¡ª¡ªÒ²ÊÇÖĞ¹úÈË×îÏ²»¶µÄĞ¡³ÔÖ®Ò»£¬ÊÇÒ»ÖÖĞÁÀ±µÄÃæÊ³£¬½Ğ×öÈÈ¸ÉÃæ
+Summer temperatures can approach 100 degrees, `with heavy humidity`. Its `traditional dish`, and one of Chinaâ€™s `favorite noshes, is a pungent pasta concoction called reganmian, or â€œhot dry noodles.â€`
+è¿™é‡Œå¤å­£æ°”æ¸©å¯è¾¾100åæ°åº¦ï¼Œæ¹¿åº¦æå¤§ã€‚å®ƒçš„ä¼ ç»Ÿèœè‚´â€”â€”ä¹Ÿæ˜¯ä¸­å›½äººæœ€å–œæ¬¢çš„å°åƒä¹‹ä¸€ï¼Œæ˜¯ä¸€ç§è¾›è¾£çš„é¢é£Ÿï¼Œå«åšçƒ­å¹²é¢
 
 `The boom has come with problems`. Heavy pollution has provoked protests. Its streets `are often clogged with traffic. `
-·±ÈÙÖ®ÏÂ£¬ÎÊÌâËæÖ®¶øÀ´¡£ÑÏÖØµÄÎÛÈ¾Òı·¢ÁË¿¹Òé¡£ËüµÄ½ÖµÀ¾­³£±»¶ÂµÃË®Ğ¹²»Í¨
+ç¹è£ä¹‹ä¸‹ï¼Œé—®é¢˜éšä¹‹è€Œæ¥ã€‚ä¸¥é‡çš„æ±¡æŸ“å¼•å‘äº†æŠ—è®®ã€‚å®ƒçš„è¡—é“ç»å¸¸è¢«å µå¾—æ°´æ³„ä¸é€š
 
 Its steel factories, `long a backbone of the local economy`, have struggled along with the rest of the inefficient industry in China `with overcapacity and pollution problems`, leading Beijing to combine the state-owned local giant, Wuhan Steel, with another company.
-ÎäººµÄ¸ÖÌú³§³¤ÆÚÒÔÀ´Ò»Ö±ÊÇµ±µØ¾­¼ÃµÄÖ§Öù£¬µ«Ëæ×Å²úÄÜ¹ıÊ£ºÍÎÛÈ¾ÎÊÌâµÄ³öÏÖ£¬ËüÃÇºÍÖĞ¹úÆäËûĞ§ÂÊµÍÏÂµÄĞĞÒµÒ»Ñù¿à¿àÕõÔú£¬±±¾©·½Ãæ×îÖÕ½«±¾µØµÄ¹úÆó¾ŞÍ·Îä¸ÖÓëÁíÒ»¼Ò¹«Ë¾ºÏ²¢
+æ­¦æ±‰çš„é’¢é“å‚é•¿æœŸä»¥æ¥ä¸€ç›´æ˜¯å½“åœ°ç»æµçš„æ”¯æŸ±ï¼Œä½†éšç€äº§èƒ½è¿‡å‰©å’Œæ±¡æŸ“é—®é¢˜çš„å‡ºç°ï¼Œå®ƒä»¬å’Œä¸­å›½å…¶ä»–æ•ˆç‡ä½ä¸‹çš„è¡Œä¸šä¸€æ ·è‹¦è‹¦æŒ£æ‰ï¼ŒåŒ—äº¬æ–¹é¢æœ€ç»ˆå°†æœ¬åœ°çš„å›½ä¼å·¨å¤´æ­¦é’¢ä¸å¦ä¸€å®¶å…¬å¸åˆå¹¶
 
 Wuhan held a special place in the heart of Mao Zedong, who famously took a swim in the Yangtze there in 1966 to `show his vitality`
-ÎäººÔÚÃ«Ôó¶«µÄĞÄÖĞÏíÓĞÌØÊâµÄµØÎ»¡£1966Äê£¬ËûÔøÔÚÎäººµÄ³¤½­ÖĞÓÎÓ¾£¬ÒÔÕÃÏÔ×Ô¼ºµÄÉúÃüÁ¦£¬Õâ¼şÊÂºÜÖøÃû
+æ­¦æ±‰åœ¨æ¯›æ³½ä¸œçš„å¿ƒä¸­äº«æœ‰ç‰¹æ®Šçš„åœ°ä½ã€‚1966å¹´ï¼Œä»–æ›¾åœ¨æ­¦æ±‰çš„é•¿æ±Ÿä¸­æ¸¸æ³³ï¼Œä»¥å½°æ˜¾è‡ªå·±çš„ç”Ÿå‘½åŠ›ï¼Œè¿™ä»¶äº‹å¾ˆè‘—å
 
-Experts said `the stunning scale of the shutdown`, isolating a major urban `transit hub` larger than New York City, was without precedent.¡°It¡¯s `an unbelievable undertaking`,¡± said Dr. Howard Markel
-×¨¼Ò±íÊ¾£¬´Ë´Î·â³ÇÏàµ±ÓÚ¹ÂÁ¢ÁËÒ»¸ö±ÈÅ¦Ô¼ÊĞ»¹´óµÄÖØÒª³ÇÊĞ½»Í¨ÊàÅ¦£¬¹æÄ£Ö®´óÁîÈËÕğ¾ª£¬ÕâÊÇÊ·ÎŞÇ°ÀıµÄ, ¡°ÕâÊÇÒ»Ïî²»¿ÉË¼ÒéµÄ¹¤×÷¡±
+Experts said `the stunning scale of the shutdown`, isolating a major urban `transit hub` larger than New York City, was without precedent.â€œItâ€™s `an unbelievable undertaking`,â€ said Dr. Howard Markel
+ä¸“å®¶è¡¨ç¤ºï¼Œæ­¤æ¬¡å°åŸç›¸å½“äºå­¤ç«‹äº†ä¸€ä¸ªæ¯”çº½çº¦å¸‚è¿˜å¤§çš„é‡è¦åŸå¸‚äº¤é€šæ¢çº½ï¼Œè§„æ¨¡ä¹‹å¤§ä»¤äººéœ‡æƒŠï¼Œè¿™æ˜¯å²æ— å‰ä¾‹çš„, â€œè¿™æ˜¯ä¸€é¡¹ä¸å¯æ€è®®çš„å·¥ä½œâ€
 
 

@@ -1,2996 +1,2996 @@
-#### ¾Û¹âµÆ ×¢Òâ ¾Û½¹ spotlight  º£±ªÍ»»÷¶Ó³ÉÎª½¹µã SEAL Team Six spotlight  ×¥×¡×¢Òâ grab spotlight  ¶ÀÕ¼ ÇÀÕ¼ hog spotlight
+#### èšå…‰ç¯ æ³¨æ„ èšç„¦ spotlight  æµ·è±¹çªå‡»é˜Ÿæˆä¸ºç„¦ç‚¹ SEAL Team Six spotlight  æŠ“ä½æ³¨æ„ grab spotlight  ç‹¬å  æŠ¢å  hog spotlight
 SEAL Team Six spotlighted again in Somalia raid(CBS)
-º£±ªÍ»»÷¶ÓÔÚË÷ÂíÀïÍ»Ï®ÖĞÔÙ´Î³ÉÎª½¹µã
+æµ·è±¹çªå‡»é˜Ÿåœ¨ç´¢é©¬é‡Œçªè¢­ä¸­å†æ¬¡æˆä¸ºç„¦ç‚¹
 Spotlight Fixed on Timothy Geithner, a Man Obama Fought to Keep(TIMES) 
-¾Û¹âµÆ¾Û½¹ÔÚ¸ÇÌØÄÉÉíÉÏ,Ò»¸ö°Â°ÍÂíÅ¬Á¦ÁôÏÂµÄÈË
+èšå…‰ç¯èšç„¦åœ¨ç›–ç‰¹çº³èº«ä¸Š,ä¸€ä¸ªå¥¥å·´é©¬åŠªåŠ›ç•™ä¸‹çš„äºº
 Abortion, birth control grab political spotlight(AP)
-¶éÌ¥,ÉúÓı¿ØÖÆ×¥×¡ÕşÖÎ½¹µã
+å •èƒ,ç”Ÿè‚²æ§åˆ¶æŠ“ä½æ”¿æ²»ç„¦ç‚¹
 Will Romney and Gingrich hog the spotlight?(CBS)
-Â³Ã·ÄáºÍ½ğÀïÆæ½«Õ¼ÓÃ´ó¼Ò×¢Òâ
+é²æ¢…å°¼å’Œé‡‘é‡Œå¥‡å°†å ç”¨å¤§å®¶æ³¨æ„
 
-#### ½ûÁî ÃüÁî injunction  ·¢²¼½ûÁî issue injunction
+#### ç¦ä»¤ å‘½ä»¤ injunction  å‘å¸ƒç¦ä»¤ issue injunction
 Apple wins injunction against Samsung Galaxy Tab(WAPOST)
-Æ»¹ûÓ®µÃ¶ÔÈıĞÇÆ½°åÏúÊÛ½ûÁî
+è‹¹æœèµ¢å¾—å¯¹ä¸‰æ˜Ÿå¹³æ¿é”€å”®ç¦ä»¤
 Injunction seeks to bar prolific ticket scalpers from L.A. venues(LATIMES)
-ÃüÁîÑ°Çó×èÖ¹À´×ÔÂåÉ¼í¶µØÇø¹ı¶àµÄ»ÆÅ£
+å‘½ä»¤å¯»æ±‚é˜»æ­¢æ¥è‡ªæ´›æ‰çŸ¶åœ°åŒºè¿‡å¤šçš„é»„ç‰›
 British Court Issues Injunction in Radical Cleric Case(TIMES)
-Ó¢¹ú·¨Í¥¶Ô¼¤½øÄÁÊ¦°¸·¢²¼½ûÁî
+è‹±å›½æ³•åº­å¯¹æ¿€è¿›ç‰§å¸ˆæ¡ˆå‘å¸ƒç¦ä»¤
 
-#### ´óÂéÖ§³ÖÕß pot backer
+#### å¤§éº»æ”¯æŒè€… pot backer
 Pot backers get approval for CA ballot petitions(AP)
-´óÂéÖ§³ÖÕßµÃµ½,¼ÓÖİÇëÔ¸Í¶Æ±µÄÅú×¼
+å¤§éº»æ”¯æŒè€…å¾—åˆ°,åŠ å·è¯·æ„¿æŠ•ç¥¨çš„æ‰¹å‡†
 
-#### Ä£Ê½ ·¶Ê½ paradigm
+#### æ¨¡å¼ èŒƒå¼ paradigm
 Shifting the pro bono paradigm(WAPOST) 
-¸Ä±äÎŞ³¥µÄÄ£Ê½
+æ”¹å˜æ— å¿çš„æ¨¡å¼
 
-#### Í£ÖÍµÄ±ÈÂÊ stalled rating  ½â¾öÍ£ÖÍÊÕÊÓÂÊ lift stalled rating
+#### åœæ»çš„æ¯”ç‡ stalled rating  è§£å†³åœæ»æ”¶è§†ç‡ lift stalled rating
 CNN Hires Bourdain, in a Bet on Lifting Stalled Ratings(TIMES)
-ÓĞÏßĞÂÎÅÍø¹ÍÓ¶ĞÂÈËÀ´ÏÂÁ¦½â¾öÍ£ÖÍÊÕÊÓÂÊ
+æœ‰çº¿æ–°é—»ç½‘é›‡ä½£æ–°äººæ¥ä¸‹åŠ›è§£å†³åœæ»æ”¶è§†ç‡
 
-#### ·´¶Ô ÒìÒé ÀıÍâ exception/question/objection
+#### åå¯¹ å¼‚è®® ä¾‹å¤– exception/question/objection
 Gov. Jerry Brown to scrap environmental exception for bullet train(LATIMES)
-¼ÓÖİÖİ³¤Å×Æú¶Ô¸ßËÙ»ğ³µ½¨Éè»·¾³ÒìÒé
+åŠ å·å·é•¿æŠ›å¼ƒå¯¹é«˜é€Ÿç«è½¦å»ºè®¾ç¯å¢ƒå¼‚è®®
 No exceptions for rape in GOP's anti-abortion platform(LATIMES)
-¶ÔÓÚ¹²ºÍµ³Ç¿¼éµ¼ÖÂ»³ÔĞµÄ·´¶éÌ¥ÕşÖÎ¸ÙÁì,Ã»ÓĞ·´¶Ô
+å¯¹äºå…±å’Œå…šå¼ºå¥¸å¯¼è‡´æ€€å­•çš„åå •èƒæ”¿æ²»çº²é¢†,æ²¡æœ‰åå¯¹
 U.S. Asks E.U. for Emissions Exception for Airlines(TIMES) 
-ÃÀÒªÇóÅ·ÃË¹«²¼º½Ïß·¢ÉäÒì³£
+ç¾è¦æ±‚æ¬§ç›Ÿå…¬å¸ƒèˆªçº¿å‘å°„å¼‚å¸¸
 
-#### ÈıÈË×é Èı¼İÂí³µ troika
+#### ä¸‰äººç»„ ä¸‰é©¾é©¬è½¦ troika
 Juncker says Cyprus and troika must expedite talks(Yahoo)
-Èİ¿ËËµÈûÆÖÂ·Ë¹ºÍÅ·ÖŞÈı¾ŞÍ·±ØĞë¼ÓËÙ¶Ô»°
+å®¹å…‹è¯´å¡æµ¦è·¯æ–¯å’Œæ¬§æ´²ä¸‰å·¨å¤´å¿…é¡»åŠ é€Ÿå¯¹è¯
 
-#### Ö¢½á ¹Ø¼üµã sticking point
+#### ç—‡ç»“ å…³é”®ç‚¹ sticking point
 For Afghan-U.S. Accord, Night Raids Are a Sticking Point(TIMES) 
-¶ÔÓÚ°¢ÃÀĞ­Òé,Ò¹ÍíÏ®»÷ÊÇ¹Ø¼üµã
+å¯¹äºé˜¿ç¾åè®®,å¤œæ™šè¢­å‡»æ˜¯å…³é”®ç‚¹
 Getting a flu shot can be sticking point with healthcare workers(LATIMES)
-×¢ÉäÁ÷¸ĞÒßÃçÊÇÒ»¸öÖ¢½áµã
+æ³¨å°„æµæ„Ÿç–«è‹—æ˜¯ä¸€ä¸ªç—‡ç»“ç‚¹
 
-#### ÏìÎ²Éß rattlesnake
+#### å“å°¾è›‡ rattlesnake
 Rattlesnakes force Calif. high school to close(CBS) 
-ÏìÎ²ÉßÆÈÊ¹¼ÓÖİ¸ßÖĞ¹Ø±Õ
+å“å°¾è›‡è¿«ä½¿åŠ å·é«˜ä¸­å…³é—­
 
-#### Àï¸ù¾­¼ÃÑ§ ÀûÒæ¾ùÕ´ÂÛ µÎÂ©ÀíÂÛ(Ö¸²»¾È¼ÃÇîÈË ¶øÍ¨¹ı·¢Õ¹¾­¼Ã×ÜÁ¿À´´ø¸øËûÃÇºÃ´¦) trickle-down
+#### é‡Œæ ¹ç»æµå­¦ åˆ©ç›Šå‡æ²¾è®º æ»´æ¼ç†è®º(æŒ‡ä¸æ•‘æµç©·äºº è€Œé€šè¿‡å‘å±•ç»æµæ€»é‡æ¥å¸¦ç»™ä»–ä»¬å¥½å¤„) trickle-down
 Obama promotes 'Buffett rule,' mocks 'trickle down' economics(LATIMES)
-°Â°ÍÂíĞû´«°Í·ÆÌØ¹æÔò,¿¹¾Ü³°ÅªÀï¸ù¾­¼ÃÑ§
+å¥¥å·´é©¬å®£ä¼ å·´è²ç‰¹è§„åˆ™,æŠ—æ‹’å˜²å¼„é‡Œæ ¹ç»æµå­¦
 Castro says GOP pushing trickle-down economic plan(Yahoo)
-¿¨Ë¹ÌØÈÏÎª¹²ºÍµ³Ó¦ÍÆ¶¯ä¸µÎÂÛÊ½¾­¼Ã¼Æ»®
+å¡æ–¯ç‰¹è®¤ä¸ºå…±å’Œå…šåº”æ¨åŠ¨æ¶“æ»´è®ºå¼ç»æµè®¡åˆ’
 Flat tax renews fight on 'trickle-down economics'(AP)
-Æ½Ë°ÖÆ¸´»îÓë"Àï¸ù¾­¼Ã"¶·Õù
+å¹³ç¨åˆ¶å¤æ´»ä¸"é‡Œæ ¹ç»æµ"æ–—äº‰
 
-#### Ò×»õ½»Ò× barter
+#### æ˜“è´§äº¤æ˜“ barter
 Iran turns to barter for food as sanctions cripple imports(Reuters)
-ÒÁÀÊ¿ªÊ¼Ê³ÎïÒ×»õ½»Ò×,ÓÉÓÚÖÆ²ÃÈÃÆä½ø¿ÚÌ±»¾
+ä¼Šæœ—å¼€å§‹é£Ÿç‰©æ˜“è´§äº¤æ˜“,ç”±äºåˆ¶è£è®©å…¶è¿›å£ç˜«ç—ª
 
-#### Ó²±Ò dime
+#### ç¡¬å¸ dime
 1873 dime sells for a pretty penny: $1.6M(CBS)
-17ÊÀ¼ÍµÄÊ®·ÖÓ²±ÒÂô³ö¸ß¼Û
+17ä¸–çºªçš„ååˆ†ç¡¬å¸å–å‡ºé«˜ä»·
 
-#### ÌÖ¼Û»¹¼Û bargain  ¼¯ÌåµÄĞ­ÉÌ collective bargain  ÈÏ×ïĞ­ÉÌ plea bargain/plea deal  ÌÔ±ãÒË»õµÄÈË bargain hunter
+#### è®¨ä»·è¿˜ä»· bargain  é›†ä½“çš„åå•† collective bargain  è®¤ç½ªåå•† plea bargain/plea deal  æ·˜ä¾¿å®œè´§çš„äºº bargain hunter
 Wis. Judge halts implementation of bargaining law (AP)
-ÍşË¹¿µĞÁÖİ·¨¹ÙÔİÍ£ÌÖ¼Û»¹¼ÛÊµÊ©
+å¨æ–¯åº·è¾›å·æ³•å®˜æš‚åœè®¨ä»·è¿˜ä»·å®æ–½
 Ohio Legislature passes collective bargain limits(AP)
-¶íÖİÁ¢·¨Í¨¹ı¼¯ÌåĞ­ÉÌµÄÏŞÖÆ
+ä¿„å·ç«‹æ³•é€šè¿‡é›†ä½“åå•†çš„é™åˆ¶
 Wis. GOP bullish in pressing union bargaining law (AP)
-ÍşÖİ¹²ºÍµ³ÔÚÑ¹ÖÆÁª°îĞ­Òé°¸³¬»ı¼«
+å¨å·å…±å’Œå…šåœ¨å‹åˆ¶è”é‚¦åè®®æ¡ˆè¶…ç§¯æ
 Ohio police, firefighters decry bargaining limits(AP)
-¶íÖİ¾¯²ìÏû·ÀÔ±±áµÍĞ­ÉÌ·¨°¸
+ä¿„å·è­¦å¯Ÿæ¶ˆé˜²å‘˜è´¬ä½åå•†æ³•æ¡ˆ
 Tough Sentences Help Prosecutors Push for Plea Bargains(TIMES)
-ÑÏÀ÷ÅĞ¾ö°ïÖú¼ì²ì¹ÙÍÆ¶¯ÈÏ×ï±çËßĞ­Òé
+ä¸¥å‰åˆ¤å†³å¸®åŠ©æ£€å¯Ÿå®˜æ¨åŠ¨è®¤ç½ªè¾©è¯‰åè®®
 On day after Christmas, bargain hunters aren't disappointed(WAPOST) 
-Ê¥µ®µÄºóÒ»Ìì,ÌÔ±ãÒË»õµÄÈËÃ»ÓĞÊ§Íû
+åœ£è¯çš„åä¸€å¤©,æ·˜ä¾¿å®œè´§çš„äººæ²¡æœ‰å¤±æœ›
 
-#### ÒÖÖÆ Ñ¹ÖÆ ÕòÑ¹ repression/crackdown  ±©Á¦ÕòÑ¹ violent repression
+#### æŠ‘åˆ¶ å‹åˆ¶ é•‡å‹ repression/crackdown  æš´åŠ›é•‡å‹ violent repression
 Wave of Violent Repression Plagues Capital of Mali(TIMES)
-Ò»²¨±©Á¦ÕòÑ¹¸øÂíÀïÊ×¶¼Ôì³ÉÍ´¿à
+ä¸€æ³¢æš´åŠ›é•‡å‹ç»™é©¬é‡Œé¦–éƒ½é€ æˆç—›è‹¦
 Repression Tears Apart Bahrain's Social Fabric(TIMES)
-·Ö¸îµÄ°ÍÁÖÉç»á½á¹¹Ñ¹ÒÖµÄÑÛÀá
+åˆ†å‰²çš„å·´æ—ç¤¾ä¼šç»“æ„å‹æŠ‘çš„çœ¼æ³ª
 
-#### µ¿Äî condolence/lament  Ñäµç condolence letter  ÖÂ°§ offer condolence
+#### æ‚¼å¿µ condolence/lament  å”ç”µ condolence letter  è‡´å“€ offer condolence
 Policy shift in presidential condolence letters(CBS)
-ÔÚ×ÜÍ³µÄ°§µ¿ĞÅÖĞ,Õş²ß¸Ä±ä
+åœ¨æ€»ç»Ÿçš„å“€æ‚¼ä¿¡ä¸­,æ”¿ç­–æ”¹å˜
 Obama Offers Condolences in Deaths of Pakistani Troops(TIMES) 
-°Â°ÍÂí°§µ¿°Í»ùË¹Ì¹¾ü¶ÓËÀÍöÊ¿±ø
+å¥¥å·´é©¬å“€æ‚¼å·´åŸºæ–¯å¦å†›é˜Ÿæ­»äº¡å£«å…µ
 Former South Korean first lady heads North for condolences(Reuters) 
-Ç°º«¹úµÚÒ»·òÈËÇ°Íù³¯ÏÊµõÑä
+å‰éŸ©å›½ç¬¬ä¸€å¤«äººå‰å¾€æœé²œåŠå”
 
-#### Ïì »· ½äÖ¸ ring  ÁåÉùÏìÆğ bell ring
+#### å“ ç¯ æˆ’æŒ‡ ring  é“ƒå£°å“èµ· bell ring
 Bells ring marking year since Tucson attack(CBS)
-¼ÍÄîÍÁÉ£ÊĞÇ¹»÷ÊÂ¼şÒ»ÖÜÄê,ÁåÉùÏìÆğ
+çºªå¿µåœŸæ¡‘å¸‚æªå‡»äº‹ä»¶ä¸€å‘¨å¹´,é“ƒå£°å“èµ·
 Famous church's bells to ring for same-sex couples(Yahoo)
-½ÌÌÃÖÓÎªÍ¬ĞÔ»éÒöÃùÏì
+æ•™å ‚é’Ÿä¸ºåŒæ€§å©šå§»é¸£å“
 
-#### »¨Ğõ tidbit
+#### èŠ±çµ® tidbit
 The 10 juiciest tidbits from the 'fiscal cliff' talks(WAPOST)
-À´×Ô²ÆÕşĞüÑÂÌ¸ÅĞÖĞ10¸öÓĞÈ¤µÄ»¨Ğõ
+æ¥è‡ªè´¢æ”¿æ‚¬å´–è°ˆåˆ¤ä¸­10ä¸ªæœ‰è¶£çš„èŠ±çµ®
 
-#### ½ÖÍ·ÖÇ»Û ³ÇÊĞÉú»î¼¼ÄÜ street smarts  ÊìÏ¤ÊĞ¾®Éú»îµÄ streetwise
+#### è¡—å¤´æ™ºæ…§ åŸå¸‚ç”Ÿæ´»æŠ€èƒ½ street smarts  ç†Ÿæ‚‰å¸‚äº•ç”Ÿæ´»çš„ streetwise
 Street smarts trump school learning in starting a business(WAPOST) 
-ÔÚÑ§Ï°ÈçºÎ¿ªÊ¼ÉÌÒµ»î¶¯ÎÊÌâÉÏ,ÊìÏ¤³ÇÊĞÉú»î±ÈÑ§Ğ£Ñ§Ï°¶«Î÷Ç¿
+åœ¨å­¦ä¹ å¦‚ä½•å¼€å§‹å•†ä¸šæ´»åŠ¨é—®é¢˜ä¸Š,ç†Ÿæ‚‰åŸå¸‚ç”Ÿæ´»æ¯”å­¦æ ¡å­¦ä¹ ä¸œè¥¿å¼º
 
-#### ÄÌÅ© dairy farmer
+#### å¥¶å†œ dairy farmer
 For Vermont Dairy Farmers, the Flood Crisis Continues(TIMES)
 
-#### ÓéÀÖ amusement/entertainment
+#### å¨±ä¹ amusement/entertainment
 Ruling over bumper-car injury supports amusement park(LATIMES)
-¹ØÓÚÅöÅö³µÊÜÉË°¸²Ã¾öÖ§³ÖÓéÀÖ³¡Ò»·½
+å…³äºç¢°ç¢°è½¦å—ä¼¤æ¡ˆè£å†³æ”¯æŒå¨±ä¹åœºä¸€æ–¹
 
-#### ÔğÈÎ liability
+#### è´£ä»» liability
 Cruise Lines Use Law and Contracts to Limit Liability(TIMES)
-ÓÊ´¬¹«Ë¾ÓÃ·¨ÂÉºÍºÏÍ¬À´ÏŞÖÆÔğÈÎºÍÒåÎñ
+é‚®èˆ¹å…¬å¸ç”¨æ³•å¾‹å’ŒåˆåŒæ¥é™åˆ¶è´£ä»»å’Œä¹‰åŠ¡
 Gov. Jerry Brown seeks to cap wildfire liabilities in California(LATIMES)
-¼ÓÖİÖİ³¤Ñ°ÇóÏŞÖÆÕş¸®ÔÚÉ½»ğÎÊÌâÉÏÔğÈÎ
+åŠ å·å·é•¿å¯»æ±‚é™åˆ¶æ”¿åºœåœ¨å±±ç«é—®é¢˜ä¸Šè´£ä»»
 Housing danger: Slump a 2012 liability for Obama(AP)
-¹ú»áÎ£»ú:½µµÍÁË2012Äê´óÑ¡¶ÔÓÚ°Â°ÍÂíµÄÔğÈÎ
+å›½ä¼šå±æœº:é™ä½äº†2012å¹´å¤§é€‰å¯¹äºå¥¥å·´é©¬çš„è´£ä»»
 
-#### Õæ¼û¹í heck/hell  (¼ÓÇ¿ÓïÆø)¼û¹íµÄ»ª·ò±ı heck of waffle
+#### çœŸè§é¬¼ heck/hell  (åŠ å¼ºè¯­æ°”)è§é¬¼çš„åå¤«é¥¼ heck of waffle
 Value Added: Choice Hotels chief bets future on technology and one heck of a waffle(WAPOST)
-ÂÃ¹İ¹ÜÀíÕß½«Î´À´·¢Õ¹¶ÄÓÚ¼¼ÊõºÍ¼û¹íµÄ»ª·ò±ı
+æ—…é¦†ç®¡ç†è€…å°†æœªæ¥å‘å±•èµŒäºæŠ€æœ¯å’Œè§é¬¼çš„åå¤«é¥¼
 
-#### Èº horde  Ò»´óÈº hordes of
+#### ç¾¤ horde  ä¸€å¤§ç¾¤ hordes of
 In Brazil's cracolandias , roving hordes of lost souls(LATIMES)
-ÔÚ°ÍÎ÷Ò»´óÈºÊ§È¥Áé»êµÄÈËÔÚÆ¯²´
+åœ¨å·´è¥¿ä¸€å¤§ç¾¤å¤±å»çµé­‚çš„äººåœ¨æ¼‚æ³Š
 Hordes of post-Christmas shoppers expected(LATIMES) 
-Ò»´óÈºÊ¥µ®½ÚºóÏû·ÑÕß±»ÆÚ´ı
+ä¸€å¤§ç¾¤åœ£è¯èŠ‚åæ¶ˆè´¹è€…è¢«æœŸå¾…
 
-#### ÉñÍ¯ ÇàÄêÆæ²Å wunderkind/wonderkid
-Yahoo¡¯s new wunderkind: Another risky move by CEO Marissa Mayer(WAPOST) 
-ÑÅ»¢ĞÂ¶ùÍ¯Ææ²Å,ÁíÒ»¸öCEOµÄÃ°ÏÕĞĞÎª
+#### ç¥ç«¥ é’å¹´å¥‡æ‰ wunderkind/wonderkid
+Yahooâ€™s new wunderkind: Another risky move by CEO Marissa Mayer(WAPOST) 
+é›…è™æ–°å„¿ç«¥å¥‡æ‰,å¦ä¸€ä¸ªCEOçš„å†’é™©è¡Œä¸º
 
-#### ¹ÂÁ¢ÎŞÖú ÏİÈë¾ø¾³ out on a limb
+#### å­¤ç«‹æ— åŠ© é™·å…¥ç»å¢ƒ out on a limb
 Out on a limb(CBS)
-´¦ÓÚÎ£ÏÕ¾³µØ
+å¤„äºå±é™©å¢ƒåœ°
 
-#### ÅÅË®¹µ ÏÂË®µÀ sewer
+#### æ’æ°´æ²Ÿ ä¸‹æ°´é“ sewer
 Ohio teen travels quarter of a mile through sewer(Yahoo)
-¶íº¥¶íÖİÊ®À´Ëêº¢×ÓÍ¨¹ıËÄ·ÖÖ®Ò»Ó¢ÀïµÄÏÂË®µÀ
+ä¿„äº¥ä¿„å·åæ¥å²å­©å­é€šè¿‡å››åˆ†ä¹‹ä¸€è‹±é‡Œçš„ä¸‹æ°´é“
 Puppies saved from sewer near razed Pa. plant(CBS)
-Ğ¡º¢ÃÇ±»´ÓÏÂË®µÀÖĞ¾È³ö,¿¿½ü»Ù»µµÄÅÁ¹¤³§
+å°å­©ä»¬è¢«ä»ä¸‹æ°´é“ä¸­æ•‘å‡º,é è¿‘æ¯åçš„å¸•å·¥å‚
 
-#### ÅÅ³ıÔÚÈ¦Íâ out of the loop
+#### æ’é™¤åœ¨åœˆå¤– out of the loop
 Landowners left out of the loop on 'fracking' risks(LATIMES) 
-¹ØÓÚ¶ÏÁÑÑÒ²ã·çÏÕ,ÍÁµØÖ÷±»ÖÃÓÚÈ¦ÍâºÁ²»ÖªÇé
+å…³äºæ–­è£‚å²©å±‚é£é™©,åœŸåœ°ä¸»è¢«ç½®äºåœˆå¤–æ¯«ä¸çŸ¥æƒ…
 
-#### Ğ¡Ñ§ elementary school
+#### å°å­¦ elementary school
 Ex-porn actress Sasha Grey defends elementary school visit(LATIMES) 
-Ç°É«ÇéÑİÔ±ÎªĞ¡Ñ§·ÃÎÊ±ç»¤
+å‰è‰²æƒ…æ¼”å‘˜ä¸ºå°å­¦è®¿é—®è¾©æŠ¤
 
-#### ÒôÀÖ¾çµÄ±³¾°½éÉÜ²á×Ó cast album/cast recording
+#### éŸ³ä¹å‰§çš„èƒŒæ™¯ä»‹ç»å†Œå­ cast album/cast recording
 'Smash' musical getting cast album(Yahoo)
-ºä¶¯µÄÒôÀÖ¾çÓĞÁË±³¾°ËµÃ÷²á×Ó
+è½°åŠ¨çš„éŸ³ä¹å‰§æœ‰äº†èƒŒæ™¯è¯´æ˜å†Œå­
 
-#### ÖÖÀà category  µÚÈı¼¶·ç±© Category 3 Storm
+#### ç§ç±» category  ç¬¬ä¸‰çº§é£æš´ Category 3 Storm
 Hurricane Irene swells to Category 3 overnight(LATIMES)
-ÔÚÍíÉÏ,°¬Â×ì«·çÔöÇ¿Éı¼¶Îª3¼¶
+åœ¨æ™šä¸Š,è‰¾ä¼¦é£“é£å¢å¼ºå‡çº§ä¸º3çº§
 Hurricane Katia Grows to Category 3 Storm(TIMES)
-ì«·ç¿­ÌØ±ä³ÉIIIÀà·ç±©
+é£“é£å‡¯ç‰¹å˜æˆIIIç±»é£æš´
 
-#### ×ï·¸ offender
+#### ç½ªçŠ¯ offender
 Health-care arguments recall a Supreme Court case that is an equal-opportunity offender(WAPOST)
-Ò½±£·¨°¸ÕùÂÛÏàÈÏ»ØÒäÆğ×î¸ß·¨Ôº¹ØÓÚ×ï·¸»ú»á¾ùµÈµÄ°¸¼ş
+åŒ»ä¿æ³•æ¡ˆäº‰è®ºç›¸è®¤å›å¿†èµ·æœ€é«˜æ³•é™¢å…³äºç½ªçŠ¯æœºä¼šå‡ç­‰çš„æ¡ˆä»¶
 Sex offender to remain free despite new law
 
-#### ´óµÀ avenue/Ave.
+#### å¤§é“ avenue/Ave.
 Jerome Ave. Becomes a River After a Water Main Bursts(TIMES)
-ÔÚ¸øË®×Ü¹ÜµÀµ½ÆÆÁÑºó,½ÜÂŞÄ·´óµÀ±ä³ÉÒ»ÌõºÓ
+åœ¨ç»™æ°´æ€»ç®¡é“åˆ°ç ´è£‚å,æ°ç½—å§†å¤§é“å˜æˆä¸€æ¡æ²³
 
-#### Ñø·ä beekeep(beekeeper)
+#### å…»èœ‚ beekeep(beekeeper)
 Abuzz about beekeeping in Los Angeles(LATIMES) 
-ÂåÉ¼í¶µØÇøÑø·ä»î¶¯ÊÇ»îÔ¾µÄ
+æ´›æ‰çŸ¶åœ°åŒºå…»èœ‚æ´»åŠ¨æ˜¯æ´»è·ƒçš„
 
-#### ÎŞÄÜÁ¦ ÎŞ×Ê¸ñ incompetence
+#### æ— èƒ½åŠ› æ— èµ„æ ¼ incompetence
 Obama's money gap: Incompetence, incumbency or meaningless?(WAPOST)
-°Â°ÍÂí³ï¿î²î¾à:ÎŞÄÜÁ¦,Ö°Ôğ»òÎŞÒâÒå
+å¥¥å·´é©¬ç­¹æ¬¾å·®è·:æ— èƒ½åŠ›,èŒè´£æˆ–æ— æ„ä¹‰
 
-#### Õ®È¨ÈË loaner/lender
+#### å€ºæƒäºº loaner/lender
 Lenders press Greece to shrink state and avoid default(Reuters)
-Õ®È¨ÈËÒªÇóÏ£À°¾«¼òÕş¸®±ÜÃâÕ®ÎñÎ¥Ô¼
+å€ºæƒäººè¦æ±‚å¸Œè…Šç²¾ç®€æ”¿åºœé¿å…å€ºåŠ¡è¿çº¦
 
-#### »ìÂÒ turmoil/snarl/chaos/tumult/turbulence  È«ÇòµÄ»ìÂÒ global turmoil  ¾­¼Ã¶¯µ´ economic turmoil
+#### æ··ä¹± turmoil/snarl/chaos/tumult/turbulence  å…¨çƒçš„æ··ä¹± global turmoil  ç»æµåŠ¨è¡ economic turmoil
 Colorado theater shooting plunged hospitals into turmoil(LATIMES)
-µ¤·ğÇ¹»÷°¸ÈÃÒ½ÔºÍ»È»½øÈë»ìÂÒ×´Ì¬
+ä¸¹ä½›æªå‡»æ¡ˆè®©åŒ»é™¢çªç„¶è¿›å…¥æ··ä¹±çŠ¶æ€
 Clinton warns against sectarian turmoil in Syria(Yahoo)
-Ï£À­Àï¶ÔĞğÀûÑÇ×ÚÅÉ¼äµÄ³åÍ»Ìá³ö¾¯¸æ
+å¸Œæ‹‰é‡Œå¯¹å™åˆ©äºšå®—æ´¾é—´çš„å†²çªæå‡ºè­¦å‘Š
 Stocks Plunge on Fears of Global Turmoil(TIMES)
-µ£ÓÇÈ«ÇòµÄ»ìÂÒ,¹ÉÊĞ´óµø
+æ‹…å¿§å…¨çƒçš„æ··ä¹±,è‚¡å¸‚å¤§è·Œ
 Bernanke Blames Politics for Economic Turmoil(TIMES)
-²®ÄÏ¿ËÖ¸ÔğÕşÖÎ¶·Õù¶Ô¾­¼Ã¶¯µ´¸ºÔğ
+ä¼¯å—å…‹æŒ‡è´£æ”¿æ²»æ–—äº‰å¯¹ç»æµåŠ¨è¡è´Ÿè´£
 
-#### º£ÂåÒò heroin
+#### æµ·æ´›å›  heroin
 Misery among Afghan heroin addicts(CBS)
-ÔÚ°¢¸»º¹º£ÂåÒòñ«¾ı×Ó¼äµÄÍ´¿à
+åœ¨é˜¿å¯Œæ±—æµ·æ´›å› ç˜¾å›å­é—´çš„ç—›è‹¦
 
-#### Î´·Ö³öÊ¤¸º dead heat  ¾«Æ£Á¦½ß dead beat
+#### æœªåˆ†å‡ºèƒœè´Ÿ dead heat  ç²¾ç–²åŠ›ç«­ dead beat
 Dead heat in Iowa, but a blowout in New Hampshire for Mitt Romney(LATIMES)
-ÔÚÒÂ°¢»ªÎ´·Ö³öÊ¤¸ºµÄ±ÈÈü,µ«ÊÇÂ³Ã·ÄáÔÚĞÂº±²¼Ê²¶ûÖİ»ñµÃµ¥·½Ê¤Àû
+åœ¨è¡£é˜¿åæœªåˆ†å‡ºèƒœè´Ÿçš„æ¯”èµ›,ä½†æ˜¯é²æ¢…å°¼åœ¨æ–°ç½•å¸ƒä»€å°”å·è·å¾—å•æ–¹èƒœåˆ©
 Poll: Dead heat in Wisconsin recall election(CBS)
-²»·ÖÊ¤¸º,ÍşË¹¿µĞÁÖİºôÓõÖØÑ¡
+ä¸åˆ†èƒœè´Ÿ,å¨æ–¯åº·è¾›å·å‘¼åé‡é€‰
 
-#### ÈÃ²½ ³ĞÈÏ concession  ¾Ü¾øÈÃ²½ reject concession ·´¶ÔÈÃ²½ resist concession  ¾üÊÂÍ×Ğ­ military concession
+#### è®©æ­¥ æ‰¿è®¤ concession  æ‹’ç»è®©æ­¥ reject concession åå¯¹è®©æ­¥ resist concession  å†›äº‹å¦¥å military concession
 Concession fails to quell violent Egypt clashes(Reuters)
-Í×Ğ­ÈÃ²½Ã»ÄÜÑ¹ÖÆ°£¼°³åÍ»
+å¦¥åè®©æ­¥æ²¡èƒ½å‹åˆ¶åŸƒåŠå†²çª
 Report: Merkel ally rejects concessions to Greece(Yahoo)
-Ä¬¿Ë¶ûÁªÃË¾Ü¾ø¶ÔÏ£À°ÈÃ²½
+é»˜å…‹å°”è”ç›Ÿæ‹’ç»å¯¹å¸Œè…Šè®©æ­¥
 As Greece smolders, its creditors in Europe resist further concessions(WAPOST)
-ÓÉÓÚÏ£À°½øÒ»²½¶ñ»¯,ËüµÄÅ·ÖŞÕ®È¨ÈË·´¶Ô½øÒ»²½È¨Àû³öÈÃ
+ç”±äºå¸Œè…Šè¿›ä¸€æ­¥æ¶åŒ–,å®ƒçš„æ¬§æ´²å€ºæƒäººåå¯¹è¿›ä¸€æ­¥æƒåˆ©å‡ºè®©
 Egypt protesters reject military concessions(CBS) 
-°£¼°Ê¾ÍşÕß¾Ü¾ø¾üÊÂÈÃ²½Í×Ğ­
+åŸƒåŠç¤ºå¨è€…æ‹’ç»å†›äº‹è®©æ­¥å¦¥å
 
-#### Åû¼ç Î§½í shawl
+#### æŠ«è‚© å›´å·¾ shawl
 Israel revisits ban on female shawls at holy site(CBS)
-ÒÔÉ«ÁĞÖØ·Ã½ûÖ¹¸¾Å®Î§½íµÄÊ¥µØ
+ä»¥è‰²åˆ—é‡è®¿ç¦æ­¢å¦‡å¥³å›´å·¾çš„åœ£åœ°
 
-#### ¿ìÏß ¿ìÔË express
+#### å¿«çº¿ å¿«è¿ express
 House GOP tries to derail Dodd-Frank express(Reuters) 
-¹²ºÍµ³ÊÔÍ¼×è°­¿ìÔË
+å…±å’Œå…šè¯•å›¾é˜»ç¢å¿«è¿
 
-#### ¹«²¼(·¢²¼)ÕÕÆ¬ release photo
+#### å…¬å¸ƒ(å‘å¸ƒ)ç…§ç‰‡ release photo
 Cuba releases photos of convalescing Hugo Chavez(CBS)
-¹Å°Í¹«²¼¿µ¸´ÖĞ²éÎ¤Ë¹µÄÕÕÆ¬
+å¤å·´å…¬å¸ƒåº·å¤ä¸­æŸ¥éŸ¦æ–¯çš„ç…§ç‰‡
 
-#### µ¯ĞÔ ·´µ¯ resilience/bounce/rebound
+#### å¼¹æ€§ åå¼¹ resilience/bounce/rebound
 Taliban resilience on display in Kabul attacks(CBS)
-¿¦²¼¶ûÏ®»÷ÏÔÊ¾³öËşÀû°à·´µ¯
+å–€å¸ƒå°”è¢­å‡»æ˜¾ç¤ºå‡ºå¡”åˆ©ç­åå¼¹
 
-#### ÎŞ´¦²»ÔÚ µ½´¦´æÔÚ ubiquity
+#### æ— å¤„ä¸åœ¨ åˆ°å¤„å­˜åœ¨ ubiquity
 CES 2012: The perils of ubiquity(WAPOST)
-ÎŞ´¦²»ÔÚµÄÎ£ÏÕ
+æ— å¤„ä¸åœ¨çš„å±é™©
 
-#### ²»¼ÓĞ½ºÏÍ¬ no-raise contract
+#### ä¸åŠ è–ªåˆåŒ no-raise contract
 Cal State faculty agree to four-year no-raise contract(LATIMES)
-¼ÓÖİÕş¸®¸÷¿ÆÊÒÍ¬ÒâËÄÄê²»¼ÓĞ½ºÏÍ¬
+åŠ å·æ”¿åºœå„ç§‘å®¤åŒæ„å››å¹´ä¸åŠ è–ªåˆåŒ
 
-#### ½ÅÖº toe  ´ç²½²»ÈÃ ¼á³ÖÁ¢³¡ keep on one's toes/dig one's toes in/dig one's heels in
+#### è„šè¶¾ toe  å¯¸æ­¥ä¸è®© åšæŒç«‹åœº keep on one's toes/dig one's toes in/dig one's heels in
 Biden's unscripted moments keep campaign on its toes(LATIMES)
-°İµÇÎŞ²İ¸åµÄ½²»°Ê±¿Ì¶ÔÑ¡Õ½±£³Ö²»ÍËÈÃ
+æ‹œç™»æ— è‰ç¨¿çš„è®²è¯æ—¶åˆ»å¯¹é€‰æˆ˜ä¿æŒä¸é€€è®©
 Women chopping off toes to fit into heels(CBS)
-Å®ÈËÃÇÏ÷×ãÊÊÂÄ
+å¥³äººä»¬å‰Šè¶³é€‚å±¥
 AT&T fires back at FCC, digs heels deeper into fight for T-Mobile(WAPOST) 
-ÃÀµç±¨¹«Ë¾¶ÔÍ¨Ñ¶Î¯Ô±»á»Ø»÷,¼á³Ö¶ÔÓëÒÆ¶¯¹«Ë¾µÄºÏ²¢ÒªÇó½øĞĞ¿¹Õù
+ç¾ç”µæŠ¥å…¬å¸å¯¹é€šè®¯å§”å‘˜ä¼šå›å‡»,åšæŒå¯¹ä¸ç§»åŠ¨å…¬å¸çš„åˆå¹¶è¦æ±‚è¿›è¡ŒæŠ—äº‰
 
-#### ½Ì»ÊÖ°Î» papacy
+#### æ•™çš‡èŒä½ papacy
 Pope Francis: Humility and simple life lead Jesuit to papacy(LATIMES)
-Ç«Ñ·ºÍ¼òµ¥Éú»îÈÃ½ÌÊ¿³ÉÎª½Ì»Ê
+è°¦é€Šå’Œç®€å•ç”Ÿæ´»è®©æ•™å£«æˆä¸ºæ•™çš‡
 
-#### ÕìÌ½Ğ¡Ëµ whodunit
+#### ä¾¦æ¢å°è¯´ whodunit
 In a Vatican Whodunit, a Punch Line of a Suspect (TIMES)
-ÔÚèóµÙ¸ÔÕìÌ½Ğ¡ËµÖĞ,ÒÉ·¸µÄÒ»¸öµã¾¦Ö®±Ê
+åœ¨æ¢µè’‚å†ˆä¾¦æ¢å°è¯´ä¸­,ç–‘çŠ¯çš„ä¸€ä¸ªç‚¹ç›ä¹‹ç¬”
 Claim of Romney taxes theft a puzzling whodunit(Yahoo)
-¶ÔÂ³Ã·ÄáÍµË°µÄÉùÃ÷ÊÇÒ»¸öÈÃÈËÃÔ»óµÄÕìÌ½Ğ¡Ëµ
+å¯¹é²æ¢…å°¼å·ç¨çš„å£°æ˜æ˜¯ä¸€ä¸ªè®©äººè¿·æƒ‘çš„ä¾¦æ¢å°è¯´
 
-#### ÄÑÌâ ÃÕÓï conundrum/puzzle
+#### éš¾é¢˜ è°œè¯­ conundrum/puzzle
 The Libor conundrum: How the world throws out the rate used around the world(WAPOST)
-ÒøĞĞ²ğ½èÂÊÄÑÌâ:ÈçºÎÖÆ¶¨³öÊÀ½ç½ÔÓÃµÄÀûÂÊ
+é“¶è¡Œæ‹†å€Ÿç‡éš¾é¢˜:å¦‚ä½•åˆ¶å®šå‡ºä¸–ç•Œçš†ç”¨çš„åˆ©ç‡
 
-#### ÃÕ ÄÑÒÔÀí½â¶«Î÷ enigma
+#### è°œ éš¾ä»¥ç†è§£ä¸œè¥¿ enigma
 Queen Elizabeth II is Britain's 'most familiar enigma'(LATIMES)
-Å®ÍõÊÇÓ¢¹ú×îÊìÏ¤µÄÄÑÒÔÀí½âµÄÈË
+å¥³ç‹æ˜¯è‹±å›½æœ€ç†Ÿæ‚‰çš„éš¾ä»¥ç†è§£çš„äºº
 The brief, enigmatic life of mass-murderer Adam Lanza(CBS)
-Ç¹»÷°¸É±ÊÖ¼ò¶ÌµÄ,ÄÑÒÔÀí½âµÄÉú»î
+æªå‡»æ¡ˆæ€æ‰‹ç®€çŸ­çš„,éš¾ä»¥ç†è§£çš„ç”Ÿæ´»
 An Enigma in Power, Qaddafi is Elusive at Large(TIMES)
-Ò»¸öÕÆÈ¨µÄÃÕÒ»ÑùÈËÎï,¿¨Ôú·ÆÎ´±»×¥»ñÄÑÒÔ×ÁÄ¥
+ä¸€ä¸ªæŒæƒçš„è°œä¸€æ ·äººç‰©,å¡æ‰è²æœªè¢«æŠ“è·éš¾ä»¥ç¢ç£¨
 
-#### Æû³µºó±¸Ïä trunk
+#### æ±½è½¦åå¤‡ç®± trunk
 "Lawyer: Powell boy spoke of mommy "in the trunk"(CBS)
-ÄĞº¢ĞğÊöÄ¸Ç×±»"ËøÔÚÆû³µºó±¸ÏäÖĞ
+ç”·å­©å™è¿°æ¯äº²è¢«"é”åœ¨æ±½è½¦åå¤‡ç®±ä¸­
 
-#### ÓÎÓ¾¿ã trunk
+#### æ¸¸æ³³è£¤ trunk
 Tide rolls out for Buffett: is he wearing trunks?(Reuters)
-³±Ï«ÍËÈ¥°Í·ÆÌØ»¹´©×Å¿ã×ÓÂğ
+æ½®æ±é€€å»å·´è²ç‰¹è¿˜ç©¿ç€è£¤å­å—
 
-#### ÈİÆ÷ ºĞ×Ó Ïä×Ó case
+#### å®¹å™¨ ç›’å­ ç®±å­ case
 Cellphone Cases Can Imitate Their Makers - Digital Domain(TIMES)
-ÊÖ»úºĞ×Ó(Ïä×Ó)ÄÜÎ±Ôì³öËûÃÇÖÆÔìÉÌ
+æ‰‹æœºç›’å­(ç®±å­)èƒ½ä¼ªé€ å‡ºä»–ä»¬åˆ¶é€ å•†
 
-#### ¼¯ÌåËßËÏ class-action
+#### é›†ä½“è¯‰è®¼ class-action
 Facebook, Morgan Stanley face class-action suit over IPO(LATIMES)
-Á³Æ×,Ä¦¸ùË¹Ì¹ÀûÃæÁÙIPO¼¯ÌåËßËÏ
+è„¸è°±,æ‘©æ ¹æ–¯å¦åˆ©é¢ä¸´IPOé›†ä½“è¯‰è®¼
 
-#### ±¬·¢ eruption/outburst  Ì«Ñô±¬·¢ solar eruption  »ğÉ½±Å·¢ volcano eruption
+#### çˆ†å‘ eruption/outburst  å¤ªé˜³çˆ†å‘ solar eruption  ç«å±±è¿¸å‘ volcano eruption
 Massive solar eruption coming Tues.(CBS)
-ÔÚ½ÓÏÂÀ´µÄÖÜ¶ş,´óÁ¿µÄÌ«Ñô±¬·¢·¢Éú
+åœ¨æ¥ä¸‹æ¥çš„å‘¨äºŒ,å¤§é‡çš„å¤ªé˜³çˆ†å‘å‘ç”Ÿ
 Volcanic eruption shuts down Iceland airspace(ABC)
-»ğÉ½(ÃÍÁÒ)µÄ±¬·¢¹Ø±Õ»ú³¡
+ç«å±±(çŒ›çƒˆ)çš„çˆ†å‘å…³é—­æœºåœº
 3,500 flee large Chile volcano eruption(CBS)
-ÖÇÀû»ğÉ½Åç·¢µ¼ÖÂ3500ÈË³·Àë
+æ™ºåˆ©ç«å±±å–·å‘å¯¼è‡´3500äººæ’¤ç¦»
 
-#### Éºº÷ coral  Éºº÷½¸ coral reef
+#### çŠç‘š coral  çŠç‘šç¤ coral reef
 U.S. seeks to protect 66 kinds of coral(LATIMES)
-ÃÀ¹úÑ°Çó±£»¤66ÖÖÉºº÷
+ç¾å›½å¯»æ±‚ä¿æŠ¤66ç§çŠç‘š
 US Navy ship stuck on coral reef in Philippines(Yahoo)
-ÃÀº£¾ü½¢Ö»ÔÚ·ÆÂÉ±öÉºº÷½¸¸éÇ³
+ç¾æµ·å†›èˆ°åªåœ¨è²å¾‹å®¾çŠç‘šç¤ææµ…
 
-#### ËßËÏ proceedings  ¹úÓĞ»¯ËßËÏ nationalization proceedings
+#### è¯‰è®¼ proceedings  å›½æœ‰åŒ–è¯‰è®¼ nationalization proceedings
 Venezuela: Government to Pull Out of Nationalization Proceedings(TIMES)
-Õş¸®´Ó¹úÓĞ»¯ËßËÏÖĞ³·³ö
+æ”¿åºœä»å›½æœ‰åŒ–è¯‰è®¼ä¸­æ’¤å‡º
 
-#### ÎşÉü immolation  ×ÔÎÒÎşÉü self-immolation
+#### ç‰ºç‰² immolation  è‡ªæˆ‘ç‰ºç‰² self-immolation
 Self-Immolation on the Rise in the Arab World(TIMES)
-ÔÚ°¢À­²®ÊÀ½ç,×ÔÎşÉüÔÚÔö¼Ó
+åœ¨é˜¿æ‹‰ä¼¯ä¸–ç•Œ,è‡ªç‰ºç‰²åœ¨å¢åŠ 
 
-#### ²¨Ë¹Íå Persian gulf
+#### æ³¢æ–¯æ¹¾ Persian gulf
 Iran warns U.S. away from Persian Gulf(CBS)
-ÒÁÀÊ¾¯¸æÃÀ¹úÀë¿ª²¨Ë¹Íå
+ä¼Šæœ—è­¦å‘Šç¾å›½ç¦»å¼€æ³¢æ–¯æ¹¾
 
-#### ÊÂÒµ ×·Çó cause  ½ÓÊÖ×öÆäÊÂÒµ take up one's cause
+#### äº‹ä¸š è¿½æ±‚ cause  æ¥æ‰‹åšå…¶äº‹ä¸š take up one's cause
 Ai Weiwei Is Barred From a Hearing, and Supporters Take Up His Cause(TIMES)
-°¬±»×èÖ¹²ÎÓëÌıÖ¤»á,Ö§³ÖÕß¼ÌĞøÆäÊÂÒµ
+è‰¾è¢«é˜»æ­¢å‚ä¸å¬è¯ä¼š,æ”¯æŒè€…ç»§ç»­å…¶äº‹ä¸š
 
-#### °ÙÄê centenary
+#### ç™¾å¹´ centenary
 Events around world mark Titanic centenary(CBS)
-ÊÀ½ç¸÷µØ»î¶¯À´¼ÍÄîÌ©Ì¹Äá¿Ë°ÙÄê
+ä¸–ç•Œå„åœ°æ´»åŠ¨æ¥çºªå¿µæ³°å¦å°¼å…‹ç™¾å¹´
 
-#### ½²»° Ëµ»° utterance/speech
+#### è®²è¯ è¯´è¯ utterance/speech
 Seeking Nuclear Insight in Fog of the Ayatollah's Utterances(TIMES)
-ÔÚÄ³ÈË½²»°µÄÀ§»óÖĞÑ°ÇóºËÎäÆ÷ÄÚÄ»
+åœ¨æŸäººè®²è¯çš„å›°æƒ‘ä¸­å¯»æ±‚æ ¸æ­¦å™¨å†…å¹•
 
-#### ½»Í¨ÊÂ¹Ê traffic accident
+#### äº¤é€šäº‹æ•… traffic accident
 Traffic Accident Wrecks a Dozen Luxury Cars in Japan(TIMES) 
-½»Í¨ÊÂ¹Ê»Ù»µ12Á¾ºÀ»ª½Î³µ
+äº¤é€šäº‹æ•…æ¯å12è¾†è±ªåè½¿è½¦
 
-#### ¿¹ÒÖÓô antidepressant
+#### æŠ—æŠ‘éƒ antidepressant
 Study: Antidepressants are overprescribed(CBS)
-¿¹ÒÖÓô¼Á±»¹ıÁ¿¿ª³ö´¦·½
+æŠ—æŠ‘éƒå‰‚è¢«è¿‡é‡å¼€å‡ºå¤„æ–¹
 Antidepressants to treat grief? Psychiatry panelists with ties to drug industry say yes(WAPOST)
-¿¹ÒÖÓô¼ÁÖÎÁÆ±¯ÉË?¾«Éñ²¡Î¯Ô±»á³ÉÔ±ÓëÒ©ÉÌÓĞ¹ØÏµÅú×¼
+æŠ—æŠ‘éƒå‰‚æ²»ç–—æ‚²ä¼¤?ç²¾ç¥ç—…å§”å‘˜ä¼šæˆå‘˜ä¸è¯å•†æœ‰å…³ç³»æ‰¹å‡†
 
-#### Î´»é·ò fiance
+#### æœªå©šå¤« fiance
 Police: Slain NYC woman's fiance was still married(Yahoo) 
-ËÀÍöµÄÅ®×ÓÎ´»é·ò´¦ÔÚÒÑ»é×´Ì¬
+æ­»äº¡çš„å¥³å­æœªå©šå¤«å¤„åœ¨å·²å©šçŠ¶æ€
 
-#### Å¦Ô¼Öİ Å¦Ô¼µÛ¹ú´óÏÃ Empire State
+#### çº½çº¦å· çº½çº¦å¸å›½å¤§å¦ Empire State
 New WTC tower surpasses Empire State(CBS)
-ĞÂÊÀÃ³´óÏÃ¸ß¶È³¬¹ıµÛ¹ú´óÏÃ
+æ–°ä¸–è´¸å¤§å¦é«˜åº¦è¶…è¿‡å¸å›½å¤§å¦
 In Empire State Killing, a Grudge Boiled Over(TIMES)
-ÔÚÅ¦Ô¼ÖİÄ±É±ÊÂ¼şÖĞ,Ô¹ºŞÒÑ·ĞÌÚ
+åœ¨çº½çº¦å·è°‹æ€äº‹ä»¶ä¸­,æ€¨æ¨å·²æ²¸è…¾
 
-#### ÁïË÷(ÉşË÷»¬µÀ) zip wire/zip line
+#### æºœç´¢(ç»³ç´¢æ»‘é“) zip wire/zip line
 Watch: London Mayor gets stuck on a zip wire(CBS)
-Â×¶ØÊĞ³¤ÓÉÓÚÁïË÷µ¼ÖÂ±»À§¿ÕÖĞ
+ä¼¦æ•¦å¸‚é•¿ç”±äºæºœç´¢å¯¼è‡´è¢«å›°ç©ºä¸­
 
-#### ÀßÅÅ Àß¹Ç rib  Àß¹Ç¹ÇÕÛ rib fracture
+#### è‚‹æ’ è‚‹éª¨ rib  è‚‹éª¨éª¨æŠ˜ rib fracture
 A Good Appetite: Short Ribs Replace Brisket for Passover(TIMES)
-ÔÚÓÌÌ«ÓâÔ½½ÚÉÏ,Å£µÄĞ¡ÀßÅÅÌæ´úĞØÈâ
+åœ¨çŠ¹å¤ªé€¾è¶ŠèŠ‚ä¸Š,ç‰›çš„å°è‚‹æ’æ›¿ä»£èƒ¸è‚‰
 Romo rallies Cowboys playing with fractured rib(AP)
-ĞÂÀËÂşÖ÷ÒåÒôÀÖ»á»î¶¯¼¯ºÏÁËÀß¹Ç¹ÇÕÛµÄÅ£×ĞÃÇ
+æ–°æµªæ¼«ä¸»ä¹‰éŸ³ä¹ä¼šæ´»åŠ¨é›†åˆäº†è‚‹éª¨éª¨æŠ˜çš„ç‰›ä»”ä»¬
 
-#### ·ç¶È ¾Ù¶¯ demeanor
+#### é£åº¦ ä¸¾åŠ¨ demeanor
 Statements suggest Bales' demeanor after attacks(Yahoo) 
-ÉùÃ÷°µÊ¾ÁË°ÍÀ³µÄ¾Ù¶¯
+å£°æ˜æš—ç¤ºäº†å·´è±çš„ä¸¾åŠ¨
 
-#### ¸Ä±äµÄÖ¤Ã÷ proof of change
+#### æ”¹å˜çš„è¯æ˜ proof of change
 Kremlin Points to Medvedev Speech as Proof of Change(TIMES) 
-¿ËÀïÄ·ÁÖ¹¬Ö¸³öÃ·µÂÎ¤½Ü·ò½²»°¾ÍÊÇ¸Ä±äµÄÖ¤Ã÷
+å…‹é‡Œå§†æ—å®«æŒ‡å‡ºæ¢…å¾·éŸ¦æ°å¤«è®²è¯å°±æ˜¯æ”¹å˜çš„è¯æ˜
 
-#### Ê§°Ü flop/failure
+#### å¤±è´¥ flop/failure
 What happens after North Korea missile flop?(CBS)
-³¯ÏÊ»ğ¼ı·¢Éä³¹µ×Ê§°Üºó·¢ÉúÊ²Ã´
+æœé²œç«ç®­å‘å°„å½»åº•å¤±è´¥åå‘ç”Ÿä»€ä¹ˆ
 Local sports trades: A look at the smash hits and flops(LATIMES)
-±¾ÍÁÌåÌ³½»Ò×:ÅÔ¹ÛÁ÷ĞĞµÄ¶«Î÷ºÍ×îÖÕÊ§°Ü
+æœ¬åœŸä½“å›äº¤æ˜“:æ—è§‚æµè¡Œçš„ä¸œè¥¿å’Œæœ€ç»ˆå¤±è´¥
 
-#### ²Ğ±© ±©ĞĞ atrocity  ²Ğ±©µÄ atrocious
+#### æ®‹æš´ æš´è¡Œ atrocity  æ®‹æš´çš„ atrocious
 Soldier Says Syrian Atrocities Forced Him to Defect(TIMES)
-Ê¿±øËµĞğÀûÑÇµÄ²Ğ±©ÆÈÊ¹Ëû·´ÅÑ
+å£«å…µè¯´å™åˆ©äºšçš„æ®‹æš´è¿«ä½¿ä»–åå›
 Aleppo battle rages as both sides report atrocities(Yahoo)
-°¢ÀÕÆÄÕ½ÊÂÂûÑÓÀ©´ó,µ¼ÖÂË«·½±¨¸æ¶Ô·½±©ĞĞ
+é˜¿å‹’é¢‡æˆ˜äº‹è”“å»¶æ‰©å¤§,å¯¼è‡´åŒæ–¹æŠ¥å‘Šå¯¹æ–¹æš´è¡Œ
 
-#### Ô¡ÑÎ bath salt
+#### æµ´ç› bath salt
 Fla. "face-chewer" may have been high on bath salts(CBS)
-·ğÖİÒ§Á³ÈË¿ÉÄÜ´ÓëçÖÆÑÎµÃµ½¿ì¸Ğ
+ä½›å·å’¬è„¸äººå¯èƒ½ä»è…Œåˆ¶ç›å¾—åˆ°å¿«æ„Ÿ
 
-#### ²¿Âä tribal  ²¿Âä³åÍ» tribal clash
+#### éƒ¨è½ tribal  éƒ¨è½å†²çª tribal clash
 Libyan PM visits scene of tribal clashes in desert
-Àû±ÈÑÇ×ÜÀíÊÓ²ìÉ³Ä®µØÇø²¿Âä³åÍ»µÄµØ·½
+åˆ©æ¯”äºšæ€»ç†è§†å¯Ÿæ²™æ¼ åœ°åŒºéƒ¨è½å†²çªçš„åœ°æ–¹
 
-#### Â¡ĞØ breast implants
+#### éš†èƒ¸ breast implants
 Breast implants safe but not problem-free: FDA(CBS) 
-FDAËµÂ¡ĞØ°²È«µ«ÊÇ²¢·ÇÃ»ÎÊÌâ
+FDAè¯´éš†èƒ¸å®‰å…¨ä½†æ˜¯å¹¶éæ²¡é—®é¢˜
 France ponders removing risky breast implants(AP) 
-·¨¹úÈÏÕæ¿¼ÂÇÈ¥³ıÓĞ·çÏÕµÄÈé·¿ÒÆÖ²Êõ
+æ³•å›½è®¤çœŸè€ƒè™‘å»é™¤æœ‰é£é™©çš„ä¹³æˆ¿ç§»æ¤æœ¯
 
-#### ÂëÍ· ÇÅ¶Õ pier
+#### ç å¤´ æ¡¥å¢© pier
 Ferry that left 57 injured at NYC pier had undergone renovations(LATIMES)
-Í£ÔÚÅ¦Ô¼ÂëÍ·Ôì³É57ÈËÊÜÉËµÄ¶É´¬ÒÑ¾­Íê³ÉĞŞ¸´
+åœåœ¨çº½çº¦ç å¤´é€ æˆ57äººå—ä¼¤çš„æ¸¡èˆ¹å·²ç»å®Œæˆä¿®å¤
 
-#### ÎÆÉí tattoo  ÎÆÁËÒ»ÌõÁú tattoo with dragon  È¥µôÎÆÉí remove tattoo
+#### çº¹èº« tattoo  çº¹äº†ä¸€æ¡é¾™ tattoo with dragon  å»æ‰çº¹èº« remove tattoo
 Underage Wash. boy tattooed with 6-inch dragon(Yahoo)
-Î´³ÉÄêµÄÄĞº¢ÎÆÉíÁËÒ»Ìõ6Ó¢´çµÄÁú
+æœªæˆå¹´çš„ç”·å­©çº¹èº«äº†ä¸€æ¡6è‹±å¯¸çš„é¾™
 Nikitin insists tattoo was not swastika(Yahoo)
-Äá»ù¶¡¼á³ÖÎÆÉí²»ÊÇÄÉ´âµÄ±êÖ¾
+å°¼åŸºä¸åšæŒçº¹èº«ä¸æ˜¯çº³ç²¹çš„æ ‡å¿—
 Okla. Man: Attackers tattooed "RAPEST" on forehead (AP) 
-¶í¿ËÀ­ÂêÄĞÈËÎÆÉíÇ°¶î
+ä¿„å…‹æ‹‰ç›ç”·äººçº¹èº«å‰é¢
 Reformed skinhead endures agony to remove tattoos(AP)
-¸Ä¹ı×ÔĞÂµÄ¹âÍ·µ³ÈÌÊÜÍ´¿àÀ´È¥µôÎÆÉí
+æ”¹è¿‡è‡ªæ–°çš„å…‰å¤´å…šå¿å—ç—›è‹¦æ¥å»æ‰çº¹èº«
 
-#### Ã»ÓĞ ÎŞ Áã naught/nought/nothing  Í½È» ÎŞÓÃ all for naught
+#### æ²¡æœ‰ æ—  é›¶ naught/nought/nothing  å¾’ç„¶ æ— ç”¨ all for naught
 For politically aware songs, the '00s were all for naught(LATIMES) 
-ÕşÖÎÒâÊ¶ĞÎÌ¬µÄ¸èÇú,¶ÔÓÚÁãÁãºóÒ»´úÍ½È»ÎŞÓÃ
+æ”¿æ²»æ„è¯†å½¢æ€çš„æ­Œæ›²,å¯¹äºé›¶é›¶åä¸€ä»£å¾’ç„¶æ— ç”¨
 
-#### ÃÀÊ³¾Æ°É gastropub
+#### ç¾é£Ÿé…’å§ gastropub
 Counter Intelligence: Bizarra Capital, a dreamland Mexican-style gastropub(LATIMES)
-Ò»¸öÃÎ¾³µÄÄ«Î÷¸ç·ç¸ñµÄÃÀÊ³¾Æ°É
+ä¸€ä¸ªæ¢¦å¢ƒçš„å¢¨è¥¿å“¥é£æ ¼çš„ç¾é£Ÿé…’å§
 
-#### ÃÎ¾³ ÃÎÏç dreamland 
+#### æ¢¦å¢ƒ æ¢¦ä¹¡ dreamland 
 Counter Intelligence: Bizarra Capital, a dreamland Mexican-style gastropub(LATIMES)
-Ò»¸öÃÎ¾³µÄÄ«Î÷¸ç·ç¸ñµÄÃÀÊ³¾Æ°É
+ä¸€ä¸ªæ¢¦å¢ƒçš„å¢¨è¥¿å“¥é£æ ¼çš„ç¾é£Ÿé…’å§
 
-#### ÊÕ¸îºó´ø×´µØ Ò»³¤Ìõ swath  ËÀÍöµØ´ø deadly swath
+#### æ”¶å‰²åå¸¦çŠ¶åœ° ä¸€é•¿æ¡ swath  æ­»äº¡åœ°å¸¦ deadly swath
 YouTube videos show tornadoes' deadly swath(CBS)
-ÊÓÆµÕ¹Ê¾Áú¾í·çÔì³ÉµÄËÀÍöµØ´ø
+è§†é¢‘å±•ç¤ºé¾™å·é£é€ æˆçš„æ­»äº¡åœ°å¸¦
 
-#### ÎÄÏ×µÄ ¼ÍÂ¼Æ¬ documentary
+#### æ–‡çŒ®çš„ çºªå½•ç‰‡ documentary
 US documentary pries lid off isolated Myanmar
-ÃÀ¹úÎÄÏ×ÇË¿ª¹ÂÁ¢µÄÃåµéµÄ¸Ç×Ó
+ç¾å›½æ–‡çŒ®æ’¬å¼€å­¤ç«‹çš„ç¼…ç”¸çš„ç›–å­
 Bush details 9/11 memories for documentary(CBS)
-²¼Ê²ÏêÊö911ÊÂ¼şÎÄÏ×µÄ¼ÇÒä
+å¸ƒä»€è¯¦è¿°911äº‹ä»¶æ–‡çŒ®çš„è®°å¿†
 Michael Jackson's family demands MSNBC ax Conrad Murray documentary(LATIMES)
-½Ü¿ËÑ·¼ÒÍ¥ÒªÇó³·Ïú/Ï÷¼õÄªÈğµÄ¼ÇÂ¼½ÚÄ¿
+æ°å…‹é€Šå®¶åº­è¦æ±‚æ’¤é”€/å‰Šå‡è«ç‘çš„è®°å½•èŠ‚ç›®
 
-#### Ñ²Âß patrol/squad  Ñ²Âß³µ patrol car/squad car
+#### å·¡é€» patrol/squad  å·¡é€»è½¦ patrol car/squad car
 Israel Guards Against Terror From Laxly Patrolled Sinai(TIMES)
-ÒÔÉ«ÁĞÎÀ±ø¶Ô¿¹¿Ö²À,À´×ÔËÉĞ¸µØÎ÷ÄÎ°ëµºÑ²Âß
+ä»¥è‰²åˆ—å«å…µå¯¹æŠ—ææ€–,æ¥è‡ªæ¾æ‡ˆåœ°è¥¿å¥ˆåŠå²›å·¡é€»
 Police: Man called girlfriend from Ark. squad car(Yahoo)
-ÄĞ×Ó´Ó°¢¿ÏÈøË¹Ñ²Âß³µÖĞ¸øÅ®ÓÑ´òµç»°
+ç”·å­ä»é˜¿è‚¯è¨æ–¯å·¡é€»è½¦ä¸­ç»™å¥³å‹æ‰“ç”µè¯
 LAPD to pull officers off patrol to deal with influx of offenders(LATIMES)
-ÂåÉ¼í¶¾¯¾ÖËùÓĞ¹ÙÔ±¶¼Íê³ÉÑ²Âß´¦Àí¿¹ÒéÕß»ãÈë³ÇÊĞ
+æ´›æ‰çŸ¶è­¦å±€æ‰€æœ‰å®˜å‘˜éƒ½å®Œæˆå·¡é€»å¤„ç†æŠ—è®®è€…æ±‡å…¥åŸå¸‚
 
-#### ÏàËÆ Ïñ resemble   ÀàËÆµÄ resembling
+#### ç›¸ä¼¼ åƒ resemble   ç±»ä¼¼çš„ resembling
 Apple and Microsoft Unwrap Products That Resemble Phone Apps(TIMES)
-Æ»¹ûºÍÎ¢Èí½Ò¿ªÏàËÆµÄÊÖ»úÓ¦ÓÃ
+è‹¹æœå’Œå¾®è½¯æ­å¼€ç›¸ä¼¼çš„æ‰‹æœºåº”ç”¨
 Marines posed with flag resembling Nazi SS logo(CBS)
-Â½Õ½¶Ó´ò³öµÄÆìÖÄÀàËÆÓëÄÉ´â±êÖ¾
+é™†æˆ˜é˜Ÿæ‰“å‡ºçš„æ——å¸œç±»ä¼¼ä¸çº³ç²¹æ ‡å¿—
 
-#### ÇıÖğ eviction(evict)  ·¢²¼ÇıÖğÍ¨Öª issue/post eviction notice  ÇıÖğÁî eviction order
+#### é©±é€ eviction(evict)  å‘å¸ƒé©±é€é€šçŸ¥ issue/post eviction notice  é©±é€ä»¤ eviction order
 Pressure to leave mounts on Occupy Oakland protesters, as city issues second eviction notice(WAPOST) 
-ÔÚ°Â¿ËÀ¼Ê¾ÍşÕßÉíÉÏÀë¿ªµÄÑ¹Á¦ÉÏÉı,ÓÉÓÚ³ÇÊĞ·¢²¼ÇıÖğÍ¨Öª
+åœ¨å¥¥å…‹å…°ç¤ºå¨è€…èº«ä¸Šç¦»å¼€çš„å‹åŠ›ä¸Šå‡,ç”±äºåŸå¸‚å‘å¸ƒé©±é€é€šçŸ¥
 Occupy protesters defy eviction order in Oregon; dozens arrested elsewhere(WAPOST) 
-¶íÀÕ¸ÔÊ¾ÍşÕßÃêÊÓÇıÖğÁî,ÔÚ±ğ´¦ÊıÈË±»²¶
+ä¿„å‹’å†ˆç¤ºå¨è€…è—è§†é©±é€ä»¤,åœ¨åˆ«å¤„æ•°äººè¢«æ•
 After extending olive branch, Los Angeles posts eviction notice on Occupy LA camp(The Christian Science Monitor) 
-ÔÚÉì³öéÏé­Ö¦ºó,ÂåÉ¼í¶Ìù³öÇıÖğÍ¨Öª
+åœ¨ä¼¸å‡ºæ©„æ¦„æå,æ´›æ‰çŸ¶è´´å‡ºé©±é€é€šçŸ¥
 
-#### ÒıÖ¤ ´«Ñ¶ citation
+#### å¼•è¯ ä¼ è®¯ citation
 Truck company in Nev. train wreck had citations(AP)
-ÔÚÄÚ»ª´ïÖİ»ğ³µÊÂ¹ÊÖĞ,¿¨³µ¹«Ë¾·¨Í¥´«Ñ¶
+åœ¨å†…åè¾¾å·ç«è½¦äº‹æ•…ä¸­,å¡è½¦å…¬å¸æ³•åº­ä¼ è®¯
 
-#### È«Ãæ¼ì²é ³¹µ×¼ì²é scrutiny ÊÜµ½³¹µ×¼ì²é come under scrutiny  ¹«¹²¼à¶½Éó²éµÄ¹Ø×¢ glare of public scrutiny
+#### å…¨é¢æ£€æŸ¥ å½»åº•æ£€æŸ¥ scrutiny å—åˆ°å½»åº•æ£€æŸ¥ come under scrutiny  å…¬å…±ç›‘ç£å®¡æŸ¥çš„å…³æ³¨ glare of public scrutiny
 Boeing 737s around the world face new scrutiny(AP)
-²¨Òô·É»úÃæÁÙĞÂµÄÈ«Ãæ¼ì²é
+æ³¢éŸ³é£æœºé¢ä¸´æ–°çš„å…¨é¢æ£€æŸ¥
 UK police under scrutiny as Murdoch tries to damp fire(Reuters)
-ÓÉÓÚÄ¬¶à¿ËÊÔÍ¼Ãğ»ğ,Ó¢¹ú¾¯²ìÔÚ³¹µ×¼ìÌÖ
+ç”±äºé»˜å¤šå…‹è¯•å›¾ç­ç«,è‹±å›½è­¦å¯Ÿåœ¨å½»åº•æ£€è®¨
 Cain accuser, despite glare of public scrutiny, has no regrets(LATIMES) 
-¿­¶÷Ö¸¿ØÕß,¾¡¹ÜÊÜ¹«ÖÚ¼à¶½µÄÖõÄ¿,Ò²²»ºó»Ú
+å‡¯æ©æŒ‡æ§è€…,å°½ç®¡å—å…¬ä¼—ç›‘ç£çš„ç©ç›®,ä¹Ÿä¸åæ‚”
 London fog: Banks behind Libor benchmark come under increased scrutiny(WAPOST) 
-Â×¶Ø´óÎí:µÍÓÚÂ×¶ØÒøĞĞ¼ä²ğ·ÅÀûÂÊ±ê×¼µÄÒøĞĞÊÜµ½³¹µ×¼ì²é
+ä¼¦æ•¦å¤§é›¾:ä½äºä¼¦æ•¦é“¶è¡Œé—´æ‹†æ”¾åˆ©ç‡æ ‡å‡†çš„é“¶è¡Œå—åˆ°å½»åº•æ£€æŸ¥
 
-#### Ì±»¾ paralysis(paralyse)
+#### ç˜«ç—ª paralysis(paralyse)
 Promising progress on paralysis(CBS)
-ÔÚÂé±ÔÌ±»¾ÖÎÁÆÉÏµÄÓĞÏ£ÍûµÄ½ø²½
+åœ¨éº»ç—¹ç˜«ç—ªæ²»ç–—ä¸Šçš„æœ‰å¸Œæœ›çš„è¿›æ­¥
 Analysis: Economic leaders fear policy paralysis(Reuters)
-¾­¼ÃÁìµ¼ÈËº¦ÅÂÕş²ßÌ±»¾
+ç»æµé¢†å¯¼äººå®³æ€•æ”¿ç­–ç˜«ç—ª
 
-#### ÓÎ»÷¶Ó guerrilla
+#### æ¸¸å‡»é˜Ÿ guerrilla
 Former guerrilla wins East Timor presidency
-Ç°ÓÎ»÷¶ÓÔ±Ó®µÃ¶«µÛãë×ÜÍ³Ñ¡¾Ù
+å‰æ¸¸å‡»é˜Ÿå‘˜èµ¢å¾—ä¸œå¸æ±¶æ€»ç»Ÿé€‰ä¸¾
 
-#### ÇáÎ¢¼¶¶¾Æ· minor drug
+#### è½»å¾®çº§æ¯’å“ minor drug
 Snoop Dog hit with minor drug charge in Texas(AP)
-µÂÖİ,Ê·Å¬±È¹·±»Ö¸¿ØĞ¯´øÇáÎ¢¼¶¶¾Æ·
+å¾·å·,å²åŠªæ¯”ç‹—è¢«æŒ‡æ§æºå¸¦è½»å¾®çº§æ¯’å“
 
-#### ¾Æ¾«ÑÌ²İÓë»ğÆ÷¹ÜÀí¾ÖµÄµöÓãÖ´·¨²ßÂÔ(°ÑÇ¹Âô¸ø·Ç·¨µÄÈË) gun-walking/gunwalking
+#### é…’ç²¾çƒŸè‰ä¸ç«å™¨ç®¡ç†å±€çš„é’“é±¼æ‰§æ³•ç­–ç•¥(æŠŠæªå–ç»™éæ³•çš„äºº) gun-walking/gunwalking
 Lawmakers: Heads should roll over gun-walking(CBS) 
-ÒéÔ±ÃÇ:¾Æ¾«ÑÌ²İÓë»ğÆ÷¹ÜÀí¾Ö¹ÙÔ±ÃÇÓ¦¸ÃÎªÇ¹Ö§ÂòÂô³óÎÅ¹öµ°
+è®®å‘˜ä»¬:é…’ç²¾çƒŸè‰ä¸ç«å™¨ç®¡ç†å±€å®˜å‘˜ä»¬åº”è¯¥ä¸ºæªæ”¯ä¹°å–ä¸‘é—»æ»šè›‹
 
-#### Ó²×ÅÂ½ hard landing
+#### ç¡¬ç€é™† hard landing
 IMF plays down risk of China "hard landing"(Reuters)
-¹ú¼Ê»õ±Ò»ù½ğ×éÖ¯ÇáÃèµ­Ğ´ÖĞ¹ú¾­¼ÃÓ²×ÅÂ½·çÏÕ
+å›½é™…è´§å¸åŸºé‡‘ç»„ç»‡è½»ææ·¡å†™ä¸­å›½ç»æµç¡¬ç€é™†é£é™©
 Analysis: China currency move nails hard landing risk coffin
-ÖĞ¹ú»õ±ÒÒª½â¾öÓ²×ÅÂ½µÄ·çÏÕ
+ä¸­å›½è´§å¸è¦è§£å†³ç¡¬ç€é™†çš„é£é™©
 
-#### ¿²¿ÀµÄÂ· rough road
+#### åå·çš„è·¯ rough road
 The next deficit deal: There's a rough road ahead(AP)
-ÏÂÒ»¸ö³à×ÖÒé°¸:Ç°ÃæÓĞÒ»Ìõ¿²¿ÀµÄÂ·
+ä¸‹ä¸€ä¸ªèµ¤å­—è®®æ¡ˆ:å‰é¢æœ‰ä¸€æ¡åå·çš„è·¯
 
-#### µØÇø³åÍ» regional strife
+#### åœ°åŒºå†²çª regional strife
 Syrian Conflict Poses Risk of Regional Strife(TIMES)
-ĞğÀûÑÇ³åÍ»µ¼ÖÂµØÇø³åÍ»µÄ·çÏÕ
+å™åˆ©äºšå†²çªå¯¼è‡´åœ°åŒºå†²çªçš„é£é™©
 
-#### ÎŞÈË¹¥»÷»ú armed drone
+#### æ— äººæ”»å‡»æœº armed drone
 Air Force buys an Avenger, its biggest and fastest armed drone(LATIMES) 
-¿Õ¾ü¹ºÂò¸´³ğÕß,ÕâÊÇ×î´ó×î¿ìµÄÎŞÈË¹¥»÷»ú
+ç©ºå†›è´­ä¹°å¤ä»‡è€…,è¿™æ˜¯æœ€å¤§æœ€å¿«çš„æ— äººæ”»å‡»æœº
 
-#### ·ÊÎÖ ÉúÓı fertility ÉúÓıÖÎÁÆ fertility treatment  ÉúÓıÂÊ fertility rate
+#### è‚¥æ²ƒ ç”Ÿè‚² fertility ç”Ÿè‚²æ²»ç–— fertility treatment  ç”Ÿè‚²ç‡ fertility rate
 Birth-Defect Risk Higher With Fertility Treatments, Study Shows(TIMES)
-¶Ô»³ÔĞÈË¹¤¸ÉÔ¤ÖÎÁÆ´øÀ´³öÉúÈ±Ïİ·çÏÕ¸ü¸ß
+å¯¹æ€€å­•äººå·¥å¹²é¢„æ²»ç–—å¸¦æ¥å‡ºç”Ÿç¼ºé™·é£é™©æ›´é«˜
 
-#### Ä¦²Á ²»ºÍ friction
+#### æ‘©æ“¦ ä¸å’Œ friction
 Obama-Brewer friction on display on tarmac tiff(AP)
-°Â°ÍÂíºÍ²¼Â³¶ûÄ¦éßÏÔÊ¾ÔÚÍ£»úÆºÕù³³ÉÏ
+å¥¥å·´é©¬å’Œå¸ƒé²å°”æ‘©æª«æ˜¾ç¤ºåœ¨åœæœºåªäº‰åµä¸Š
 Realignment plan for California prisons causing new friction(LATIMES)
-¶Ô¼ÓÖİ¼àÓüÖØĞÂµ÷Õû¼Æ»®µ¼ÖÂĞÂµÄÄ¦²Á
+å¯¹åŠ å·ç›‘ç‹±é‡æ–°è°ƒæ•´è®¡åˆ’å¯¼è‡´æ–°çš„æ‘©æ“¦
 Pacific trade pact gains, but friction remains(AP) 
-Ì«Æ½ÑóÃ³Ò×Ğ­Òé´ï³É,µ«Ä¦²ÁÒÀ¾É
+å¤ªå¹³æ´‹è´¸æ˜“åè®®è¾¾æˆ,ä½†æ‘©æ“¦ä¾æ—§
 In Iran Newspaper Protest, New Friction Seen(TIMES) 
-ÔÚÒÁÀÊ±¨Ö½Ê¾ÍşÖĞ,ĞÂÄ¦²ÁÒÀ¾É
+åœ¨ä¼Šæœ—æŠ¥çº¸ç¤ºå¨ä¸­,æ–°æ‘©æ“¦ä¾æ—§
 
-#### ÉúÎïÁ¦Ñ§ Biomechanical
+#### ç”Ÿç‰©åŠ›å­¦ Biomechanical
 Biomechanical legs are a giant step for robot-kind(Yahoo)
-ÉúÎïÁ¦Ñ§ÍÈ·¢Ã÷ÊÇ»úÆ÷ÈËÀàÒ»¸ö¾Ş´ó²½Öè
+ç”Ÿç‰©åŠ›å­¦è…¿å‘æ˜æ˜¯æœºå™¨äººç±»ä¸€ä¸ªå·¨å¤§æ­¥éª¤
 
-#### ¾«ÉñÕı³£ sanity
+#### ç²¾ç¥æ­£å¸¸ sanity
 Prisons Rethink Isolation, Saving Money, Lives and Sanity(TIMES)
-¼àÓüÖØĞÂ¿¼ÂÇ¸ôÀë,½ÚÔ¼·ÑÓÃ,±£»¤ÉúÃüºÍ¾«ÉñÕı³£
+ç›‘ç‹±é‡æ–°è€ƒè™‘éš”ç¦»,èŠ‚çº¦è´¹ç”¨,ä¿æŠ¤ç”Ÿå‘½å’Œç²¾ç¥æ­£å¸¸
 
-#### ·´ÈËÀà×ï crime against humanity  ÈËÀà ÈËĞÔ humanity
+#### åäººç±»ç½ª crime against humanity  äººç±» äººæ€§ humanity
 Cameroon archbishop calls same-sex marriage crime against humanity(Yahoo)
-¿¦ÂóÂ¡´óÖ÷½ÌºôÓõÍ¬ĞÔ»éÒö·´ÈËÀà×ï
+å–€éº¦éš†å¤§ä¸»æ•™å‘¼ååŒæ€§å©šå§»åäººç±»ç½ª
 
-#### ÂÌÖŞ oasis
+#### ç»¿æ´² oasis
 Despite Its Turmoil, Syria Still Looks Like an Oasis to Iraqis(TIMES)
-¾¡¹ÜÉ§ÂÒ,ĞğÀûÑÇÈÔ¾É¿´ÆğÀ´ÏñÒÁÀ­¿ËÈËµÄÂÌÖŞ
+å°½ç®¡éªšä¹±,å™åˆ©äºšä»æ—§çœ‹èµ·æ¥åƒä¼Šæ‹‰å…‹äººçš„ç»¿æ´²
 
-#### ¹ÕÕÈ ÒÀ¿¿ crutch
+#### æ‹æ– ä¾é  crutch
 Loans flow from Europe's central bank, but analysts debate if they're a cure or a crutch(WAPOST)
-´û¿î´ÓÅ·ÖŞÖĞÑëÒøĞĞ·Å³ö,µ«·ÖÎöÊ¦ÕùÂÛÊ±ºòÕâĞ©Ç®ÊÇÖÎÓúÁ¼·½»òÖ§³Å¹ÕÕÈ
+è´·æ¬¾ä»æ¬§æ´²ä¸­å¤®é“¶è¡Œæ”¾å‡º,ä½†åˆ†æå¸ˆäº‰è®ºæ—¶å€™è¿™äº›é’±æ˜¯æ²»æ„ˆè‰¯æ–¹æˆ–æ”¯æ’‘æ‹æ–
 
-#### ¸öÈË»ìºÏ(Ó¾) individual medley  »ìºÏ »ìºÏµÄ medley
+#### ä¸ªäººæ··åˆ(æ³³) individual medley  æ··åˆ æ··åˆçš„ medley
 Ryan Lochte whips Michael Phelps to win 400-meter individual medley(LATIMES)
-Èğ°²Õ½Ê¤·Æ¶ûÆÕË¹Ó®µÃ400Ã×»ìºÏÓ¾¹Ú¾ü
+ç‘å®‰æˆ˜èƒœè²å°”æ™®æ–¯èµ¢å¾—400ç±³æ··åˆæ³³å† å†›
 
-#### Å¦Ô¼ÏÖ´úÒÕÊõ²©Îï¹İ MoMA(The Museum of Modern Art)
+#### çº½çº¦ç°ä»£è‰ºæœ¯åšç‰©é¦† MoMA(The Museum of Modern Art)
 De Kooning Retrospective Is to Open at MoMA(The Museum of Modern Art)(TIMES)
-µÂ¿ÆÄş(ÃÀ»­¼Ò)×÷Æ·»Ø¹ËÕ¹³öÔÚÅ¦Ô¼ÏÖ´úÒÕÊõ²©Îï¹İ¿ªÕ¹
+å¾·ç§‘å®(ç¾ç”»å®¶)ä½œå“å›é¡¾å±•å‡ºåœ¨çº½çº¦ç°ä»£è‰ºæœ¯åšç‰©é¦†å¼€å±•
 
-#### Ğ¡Ç® pocket change
+#### å°é’± pocket change
 Judge rejects SEC deal with 'recidivist' Citigroup, calls fine 'pocket change'(The Christian Science Monitor) 
-·¨¹Ù¾Ü¾ø'¹ß·¸'»¨Æì¼¯ÍÅÓëÖ¤¼à»áµÄĞ­Òé,³Æ·£¿îÊÇĞ¡Ç®
+æ³•å®˜æ‹’ç»'æƒ¯çŠ¯'èŠ±æ——é›†å›¢ä¸è¯ç›‘ä¼šçš„åè®®,ç§°ç½šæ¬¾æ˜¯å°é’±
 
-#### ¼Æ»®ÉúÓı planned parenthood
+#### è®¡åˆ’ç”Ÿè‚² planned parenthood
 Backlash over Komen-Planned Parenthood flap(CBS)
-¶Ô¿ÆÂü¼Æ»®ÉúÓı¼Æ»®Ò¡°ÚÉÏµÄ²»Âú
+å¯¹ç§‘æ›¼è®¡åˆ’ç”Ÿè‚²è®¡åˆ’æ‘‡æ‘†ä¸Šçš„ä¸æ»¡
 
-#### ÈÍ´øËğÉË ligament damage
+#### éŸ§å¸¦æŸä¼¤ ligament damage
 Lattimore dislocated knee and has ligament damage(Yahoo) 
-À­µÙÄ¬¶ûÏ¥¸ÇÍÑ¾Ê²¢ÇÒÈÍ´øËºÁÑ
+æ‹‰è’‚é»˜å°”è†ç›–è„±è‡¼å¹¶ä¸”éŸ§å¸¦æ’•è£‚
 
-#### Æ­×Ó Èö»ÑÕß liar
+#### éª—å­ æ’’è°è€… liar
 Prosecutors grill "convicted liar" Blagojevich(CBS)
-¼ì²ì¹ÙÅÌÎÊ¶¨×ïµÄÆ­×Ó
+æ£€å¯Ÿå®˜ç›˜é—®å®šç½ªçš„éª—å­
 Rod Blagojevich was likable, but a liar(CBS)
-ÂŞµÂ³ıÁËÊÇÈö»ÑÕßÍâ,ÊÇ¿É°®µÄ
+ç½—å¾·é™¤äº†æ˜¯æ’’è°è€…å¤–,æ˜¯å¯çˆ±çš„
 
-#### ³²Ñ¨ lair
+#### å·¢ç©´ lair
 Tracking Somali Pirates to Their Lair(TIMES)
-¸ú×ÙË÷ÂíÀïº£µÁµ½ËûÃÇµÄ³²Ñ¨
+è·Ÿè¸ªç´¢é©¬é‡Œæµ·ç›—åˆ°ä»–ä»¬çš„å·¢ç©´
 
-#### ÖÙ²Ã arbitration ÖÙ²ÃÌıÖ¤»á arbitration hearing  ÖÙ²ÃÎ¯Ô±»á arbitration panel
+#### ä»²è£ arbitration ä»²è£å¬è¯ä¼š arbitration hearing  ä»²è£å§”å‘˜ä¼š arbitration panel
 Brees' franchise tag arbitration hearing held(Yahoo)
-NFLÇòÔ±²¼ÀïÓÅÏÈÇ©Ô¼È¨ÖÙ²ÃÌıÖ¤»á¾ÙĞĞ
+NFLçƒå‘˜å¸ƒé‡Œä¼˜å…ˆç­¾çº¦æƒä»²è£å¬è¯ä¼šä¸¾è¡Œ
 Saints players suspensions lifted by arbitration panel(LATIMES)
-Ê¥Í½¶ÓÇòÔ±µÄÍ£Èü±»ÖÙ²ÃÎ¯Ô±»á½â¾öÁË
+åœ£å¾’é˜Ÿçƒå‘˜çš„åœèµ›è¢«ä»²è£å§”å‘˜ä¼šè§£å†³äº†
 
-#### º£¾° ocean view
+#### æµ·æ™¯ ocean view
 No rest for weary as these Ocean View stars and coaches play on(LATIMES)
-½îÆ£Á¦½ßÒ²ÎŞĞİÏ¢,ÓÉÓÚº£¾°Ã÷ĞÇºÍ½ÌÁ·Ò»Ö±±íÑİ
+ç­‹ç–²åŠ›ç«­ä¹Ÿæ— ä¼‘æ¯,ç”±äºæµ·æ™¯æ˜æ˜Ÿå’Œæ•™ç»ƒä¸€ç›´è¡¨æ¼”
 
-#### ÇãÏò Ï²»¶ Ç×ºÍÁ¦ affinity for
+#### å€¾å‘ å–œæ¬¢ äº²å’ŒåŠ› affinity for
 Among Russian Immigrants in New York, Affinity for Republicans(TIMES)
-Å¦Ô¼µÄ¶í¹úÒÆÃñÏ²»¶¹²ºÍµ³
+çº½çº¦çš„ä¿„å›½ç§»æ°‘å–œæ¬¢å…±å’Œå…š
 
-#### ÅÔ¹ÛÕß bystander
+#### æ—è§‚è€… bystander
 Obama on Syria: U.S. can't be a bystander(CBS)
-ÃÀ¹ú²»ÄÜÊÇÒ»¸öÅÔ¹ÛÕß
+ç¾å›½ä¸èƒ½æ˜¯ä¸€ä¸ªæ—è§‚è€…
 
-#### Í³ÖÎ Ö§Åä reign/dominance
+#### ç»Ÿæ²» æ”¯é… reign/dominance
 Newt Gingrich's rise - and fall - tied to his reign as House Speaker(The Christian Science Monitor)
-¸ñÁÖÀïÆæÉÏÌ¨ºÍÏÂÌ¨,È¡¾öÓÚËû×÷ÎªÒé³¤µÄÍ³ÖÎ
+æ ¼æ—é‡Œå¥‡ä¸Šå°å’Œä¸‹å°,å–å†³äºä»–ä½œä¸ºè®®é•¿çš„ç»Ÿæ²»
 In Central Valley, where raisins reign, concern over a tart upstart(LATIMES)
-ÃÀ¹úÖĞÑë¹È,ÆÏÌÑ¸ÉÊ¢ĞĞ,±»¼â¿ÌµÄ±©·¢»§¹Ø×¢
+ç¾å›½ä¸­å¤®è°·,è‘¡è„å¹²ç››è¡Œ,è¢«å°–åˆ»çš„æš´å‘æˆ·å…³æ³¨
 Live streamed royal wedding reigns on the Web(AP) 
-Ö±²¥»éÀñÍ³ÖÎÖ§ÅäÍøÂç
+ç›´æ’­å©šç¤¼ç»Ÿæ²»æ”¯é…ç½‘ç»œ
 
-#### ĞÔ±ğÆ«ÒÆ gender-bending  ²»ÄĞ²»Å®µÄÈË ĞÔ±ğÅ¤Çú gender-bender
+#### æ€§åˆ«åç§» gender-bending  ä¸ç”·ä¸å¥³çš„äºº æ€§åˆ«æ‰­æ›² gender-bender
 Gender-bending model a runway sensation (CBS)
-ĞÔ±ğÈ¡ÏòĞÎ³ÉTÌ¨¸Ğ¾õ
+æ€§åˆ«å–å‘å½¢æˆTå°æ„Ÿè§‰
 
-#### ÊµÊ±¸¶·Ñ Ã¿´ÎÖ§¸¶ one-time payment
+#### å®æ—¶ä»˜è´¹ æ¯æ¬¡æ”¯ä»˜ one-time payment
 Verizon scraps $2 fee for one-time payments(CBS) 
-µçĞÅ¹«Ë¾Å×ÆúÃ¿´ÎÖ§¸¶ĞĞÎªµÄÊÕ·Ñ
+ç”µä¿¡å…¬å¸æŠ›å¼ƒæ¯æ¬¡æ”¯ä»˜è¡Œä¸ºçš„æ”¶è´¹
 
-#### ²ĞÓàÎï residue
+#### æ®‹ä½™ç‰© residue
 Autopsy: White Residue on Spoon in Houston's Room(TIMES)
-Ê¬¼ì·¢ÏÖ°×É«²ĞÓàÎïÔÚ»İÌØÄáµÄ·¿¼äÖĞÉ×ÉÏ
+å°¸æ£€å‘ç°ç™½è‰²æ®‹ä½™ç‰©åœ¨æƒ ç‰¹å°¼çš„æˆ¿é—´ä¸­å‹ºä¸Š
 
-#### Ë³ÀûµÄÔç³¿ smooth morning
+#### é¡ºåˆ©çš„æ—©æ™¨ smooth morning
 Don't 'get complacent' after smooth morning, officials say(LATIMES)
-ÔÚË³ÀûµÄÔç³¿ºó,²»Òª±äµÃ×ÔÂú
+åœ¨é¡ºåˆ©çš„æ—©æ™¨å,ä¸è¦å˜å¾—è‡ªæ»¡
 
-#### Æ·ÍÑ(¾Æ) pint  ºÜĞ¡µÄ Î¢ĞÍµÄ pint-sized/small
+#### å“è„±(é…’) pint  å¾ˆå°çš„ å¾®å‹çš„ pint-sized/small
 Pint-sized former Mr. Universe turns 100 in India
-ºÜĞ¡µÄÇ°ÈÎÔÚÓ¡¶Èµ½100ËêÁË
+å¾ˆå°çš„å‰ä»»åœ¨å°åº¦åˆ°100å²äº†
 Obama marks St. Patrick's Day with pint in a pub
-°Â°ÍÂíÇì×£Ê¥ÅÁÌØÀï¿Ë½Ú,ÔÚ¾Æ¹İÀ´ÁËÒ»Æ·ÍÑ
+å¥¥å·´é©¬åº†ç¥åœ£å¸•ç‰¹é‡Œå…‹èŠ‚,åœ¨é…’é¦†æ¥äº†ä¸€å“è„±
 Pentagon to soon deploy pint-sized but lethal Switchblade drones(LATIMES)
-Îå½Ç´óÂ¥ºÜ¿ì²¿ÊğÎ¢ĞÍµÄÖÂÃüĞÔµ¯»Éµ¶ÎŞÈË»ú
+äº”è§’å¤§æ¥¼å¾ˆå¿«éƒ¨ç½²å¾®å‹çš„è‡´å‘½æ€§å¼¹ç°§åˆ€æ— äººæœº
 
-#### ¾Æ¹İ ¿ÍÕ» pub
+#### é…’é¦† å®¢æ ˆ pub
 Obama marks St. Patrick's Day with pint in a pub
-°Â°ÍÂíÇì×£Ê¥ÅÁÌØÀï¿Ë½Ú,ÔÚ¾Æ¹İÀ´ÁËÒ»Æ·ÍÑ
+å¥¥å·´é©¬åº†ç¥åœ£å¸•ç‰¹é‡Œå…‹èŠ‚,åœ¨é…’é¦†æ¥äº†ä¸€å“è„±
 
-#### Ò»¼şÉÔĞíÈÃÈËÍ·ÌÛµÄÊÂ one less headache
+#### ä¸€ä»¶ç¨è®¸è®©äººå¤´ç–¼çš„äº‹ one less headache
 For China, Chen Guangcheng's Exile Is One Less Headache(TIMES)
-ÇıÖğÊÇÒ»¼şÉÔĞíÈÃÈËÍ·ÌÛµÄÊÂ
+é©±é€æ˜¯ä¸€ä»¶ç¨è®¸è®©äººå¤´ç–¼çš„äº‹
 
-#### Ğı·ç whirlwind  Ğı·ç°ãÂÃ³Ì whirlwind tour
+#### æ—‹é£ whirlwind  æ—‹é£èˆ¬æ—…ç¨‹ whirlwind tour
 Ryan wraps up whirlwind first week as VP pick(Yahoo)
-Èğ°²±»Ñ¡×ö¸±×ÜÍ³ºòÑ¡ÈËºóµÚÒ»ÖÜÒÔ(whirlwind/whirl Ğı×ª)Ğı·ç°ã»î¶¯½áÊø
+ç‘å®‰è¢«é€‰åšå‰¯æ€»ç»Ÿå€™é€‰äººåç¬¬ä¸€å‘¨ä»¥(whirlwind/whirl æ—‹è½¬)æ—‹é£èˆ¬æ´»åŠ¨ç»“æŸ
 Endeavour swans California skies in whirlwind tour(Yahoo)
-ÔÚĞı·çÂÃ³ÌÖĞ,·Ü½øºÅÔÚ¼ÓÖİÌì¿ÕÏĞ¹ä·É¹ı
+åœ¨æ—‹é£æ—…ç¨‹ä¸­,å¥‹è¿›å·åœ¨åŠ å·å¤©ç©ºé—²é€›é£è¿‡
 
-#### ÍòÄÜÒ© °üÖÎ°Ù²¡µÄÒ© panacea  Ã»ÓĞÍòÄÜÒ© no panacea
+#### ä¸‡èƒ½è¯ åŒ…æ²»ç™¾ç—…çš„è¯ panacea  æ²¡æœ‰ä¸‡èƒ½è¯ no panacea
 Gov. Jerry Brown's plan to stem pension costs is no panacea(LATIMES)
-²¼ÀÊÖİ³¤¶ôÖÆÍËĞİ½ğ¿ªÖ§µÄ¼Æ»®²¢²»ÊÇÍòÄÜÒ©
+å¸ƒæœ—å·é•¿éåˆ¶é€€ä¼‘é‡‘å¼€æ”¯çš„è®¡åˆ’å¹¶ä¸æ˜¯ä¸‡èƒ½è¯
 Bank of England still open to stimulus but no panacea for growth(Yahoo)
-Ó¢¸ñÀ¼ÒøĞĞÈÔ¾É¿ªÊ¼´Ì¼¤Õş²ßµ«Ôö³¤Ã»ÓĞÍòÄÜÒ©
+è‹±æ ¼å…°é“¶è¡Œä»æ—§å¼€å§‹åˆºæ¿€æ”¿ç­–ä½†å¢é•¿æ²¡æœ‰ä¸‡èƒ½è¯
 
-#### ¼òÒ×±¬Õ¨×°ÖÃ ¼òÒ×Õ¨µ¯ collar bomb
+#### ç®€æ˜“çˆ†ç‚¸è£…ç½® ç®€æ˜“ç‚¸å¼¹ collar bomb
 Australian admits fake-collar-bomb extortion bid
-°Ä´óÀûÑÇ³ĞÈÏ¼ÙµÄ¼òÒ×±¬Õ¨×°ÖÃÇÃÕ©ÀÕË÷ÆóÍ¼
+æ¾³å¤§åˆ©äºšæ‰¿è®¤å‡çš„ç®€æ˜“çˆ†ç‚¸è£…ç½®æ•²è¯ˆå‹’ç´¢ä¼å›¾
 Sentencing set for Australian fake-collar-bomber
-°ÄÖŞ¼ÙµÄ¼òÒ×Õ¨µ¯Ğ¯´øÕß±»ÅĞ¾ö
+æ¾³æ´²å‡çš„ç®€æ˜“ç‚¸å¼¹æºå¸¦è€…è¢«åˆ¤å†³
 
-#### Æ¤Ìõ¿Í pimp
+#### çš®æ¡å®¢ pimp
 Phones, video point to premeditated killing of alleged pimp, San Francisco D.A. says(LATIMES)
-µç»°¼°ÊÓÆµÖ¤¾İÖ¸ÏòËùÖ¸Æ¤Ìõ¿Í±»Ô¤Ä±É±ËÀ°¸¼ş
+ç”µè¯åŠè§†é¢‘è¯æ®æŒ‡å‘æ‰€æŒ‡çš®æ¡å®¢è¢«é¢„è°‹æ€æ­»æ¡ˆä»¶
 Baltimore firefighter accused of being a pimp(CBS)
-°Í¶ûµÚÄ¦Ïû·ÀÔ±±»Ö¸¿Øµ±Æ¤Ìõ¿Í
+å·´å°”ç¬¬æ‘©æ¶ˆé˜²å‘˜è¢«æŒ‡æ§å½“çš®æ¡å®¢
 
-#### ºìÀ±½· chili  ÏãÁÏ spice ºú½· pepper
+#### çº¢è¾£æ¤’ chili  é¦™æ–™ spice èƒ¡æ¤’ pepper
 Obama, Romney eat chili, talk leadership(CBS) 
-°Â°ÍÂíºÍÂ³Ã·Äá³ÔÀ±½·Ì¸ÂÛÁìµ¼Á¦
+å¥¥å·´é©¬å’Œé²æ¢…å°¼åƒè¾£æ¤’è°ˆè®ºé¢†å¯¼åŠ›
 
-#### µÍ¼¶ÁªÈü minor league
+#### ä½çº§è”èµ› minor league
 Billy Hamilton's speed thrills the minor leagues(LATIMES) 
-ººÃÜ¶û¶ÙÔö¼ÓµÍ¼¶ÁªÈüÖĞ¼¤¶¯
+æ±‰å¯†å°”é¡¿å¢åŠ ä½çº§è”èµ›ä¸­æ¿€åŠ¨
 
-#### Êï¹â golden dawn/twilight
+#### æ›™å…‰ golden dawn/twilight
 Anti-immigrant Golden Dawn rises in Greece(WAPOST) 
-·´ÒÆÃñµÄÊï¹â³õÏÖÔÚÏ£À°
+åç§»æ°‘çš„æ›™å…‰åˆç°åœ¨å¸Œè…Š
 
-#### ÉñÑ§ theology
+#### ç¥å­¦ theology
 Santorum again hits Obama on energy, drops 'phony theology' barb(LATIMES)
-É£¶àÀ­Ä·ÔÙ´Î¹¥»÷°Â°ÍÂíÄÜÔ´Õş²ß,¶ªÆú¼ÙÃ°µÄÉñÑ§ÉËÈËµÄ»°
+æ¡‘å¤šæ‹‰å§†å†æ¬¡æ”»å‡»å¥¥å·´é©¬èƒ½æºæ”¿ç­–,ä¸¢å¼ƒå‡å†’çš„ç¥å­¦ä¼¤äººçš„è¯
 
-#### ÍâĞÇĞÇÇò alien planet
+#### å¤–æ˜Ÿæ˜Ÿçƒ alien planet
 Potentially habitable alien planet?(CBS)
-Ç±ÔÚµÄÒË¾ÓÍâĞÇĞÇÇò
+æ½œåœ¨çš„å®œå±…å¤–æ˜Ÿæ˜Ÿçƒ
 Giant dying star devours alien planet(CBS)
-¾Ş´óµÄËÀÍöĞÇÍÌÊÉÁËÍâĞÇÏµĞÇÇò
+å·¨å¤§çš„æ­»äº¡æ˜Ÿåå™¬äº†å¤–æ˜Ÿç³»æ˜Ÿçƒ
 
-#### Ô¤·À´ëÊ© precaution  ÌØ±ğµÄÔ¤·À´ëÊ© extraordinary precaution
+#### é¢„é˜²æªæ–½ precaution  ç‰¹åˆ«çš„é¢„é˜²æªæ–½ extraordinary precaution
 Tepco Admits Inadequate Precautions at Nuclear Plant(TIMES)
-¶«µç¹«Ë¾³ĞÈÏÔÚºË¹¤³§ÉÏÈ±ÉÙÔ¤·À´ëÊ©
+ä¸œç”µå…¬å¸æ‰¿è®¤åœ¨æ ¸å·¥å‚ä¸Šç¼ºå°‘é¢„é˜²æªæ–½
 Precautions at New York Post as Tabloid Inquiry Expands(TIMES)
-ÓÉÓÚ¶ÔĞ¡±¨µ÷²éÀ©´ó,Å¦Ô¼ÓÊ±¨ÓĞÔ¤·À´ëÊ©
+ç”±äºå¯¹å°æŠ¥è°ƒæŸ¥æ‰©å¤§,çº½çº¦é‚®æŠ¥æœ‰é¢„é˜²æªæ–½
 Extraordinary Precautions Taken for Mubarak Trial(TIMES)
-ÌØ±ğµÄÔ¤·À´ëÊ©,ÎªÄÂ°ÍÀ­¿ËÉóÅĞ×¼±¸
+ç‰¹åˆ«çš„é¢„é˜²æªæ–½,ä¸ºç©†å·´æ‹‰å…‹å®¡åˆ¤å‡†å¤‡
 
-#### º£±õµØ´ø beachside
+#### æµ·æ»¨åœ°å¸¦ beachside
 Changing of the Guard: China's Communist Elders Take Backroom Intrigue Beachside(TIMES)
-»»¸Ú:¹²²úµ³ÀÏÒ»´úÔÚº£±õµØ´ø½øĞĞÄ»ºóµÄÃÜÄ±
+æ¢å²—:å…±äº§å…šè€ä¸€ä»£åœ¨æµ·æ»¨åœ°å¸¦è¿›è¡Œå¹•åçš„å¯†è°‹
 
-#### ºÜÓĞÁÏ ÓĞÄÚÈİ There's a lot of 'stuff'
+#### å¾ˆæœ‰æ–™ æœ‰å†…å®¹ There's a lot of 'stuff'
 There's a lot of 'stuff' going on when Saints face Falcons(LATIMES) 
-µ±Ê¥Í½¶ÓÓöµ½ÀÏÓ¥¶ÓÊ±ºò,±ÈÈü³äÂúĞí¶àµÄÄÚÈİ
+å½“åœ£å¾’é˜Ÿé‡åˆ°è€é¹°é˜Ÿæ—¶å€™,æ¯”èµ›å……æ»¡è®¸å¤šçš„å†…å®¹
 
-#### ²ÓÀÃ ºÀ»ª ìÅÄ¿ glitz
+#### ç¿çƒ‚ è±ªå ç‚«ç›® glitz
 At the Consumer Electronics Show, more glitz than gee whiz(LATIMES)
-ÔÚÏû·Ñµç×ÓÕ¹ÉÏ,´øÀ´¸ü¶àµÄÊÇìÅÄ¿²úÆ·Íâ¹Û¶ø²»ÊÇ¾ªÆæ
+åœ¨æ¶ˆè´¹ç”µå­å±•ä¸Š,å¸¦æ¥æ›´å¤šçš„æ˜¯ç‚«ç›®äº§å“å¤–è§‚è€Œä¸æ˜¯æƒŠå¥‡
 
-#### Òì¼ûÕß dissident/dissenter
+#### å¼‚è§è€… dissident/dissenter
 Diplomatic silence shrouds Chinese dissident's situation(LATIMES)
-Íâ½»³ÁÄ¬ÑÚ¸ÇÒì¼ûÕßÇé¿ö
+å¤–äº¤æ²‰é»˜æ©ç›–å¼‚è§è€…æƒ…å†µ
 Yemen dissidents urge swift action in Saleh absence(AFP) 
-Ò²ÃÅÒì¼ûÈËÊ¿ÒªÇó×ÜÍ³ÈøÀûºÕ´ÇÖ°¸ü¿ìĞĞ¶¯
+ä¹Ÿé—¨å¼‚è§äººå£«è¦æ±‚æ€»ç»Ÿè¨åˆ©èµ«è¾èŒæ›´å¿«è¡ŒåŠ¨
 China Increasingly Uses Tactic of Making Dissidents Vanish(TIMES)
-Öğ²½ÔöÇ¿Ê¹ÓÃÈÃÒì¼û·Ö×ÓÏûÊ§µÄÕ½Êõ
+é€æ­¥å¢å¼ºä½¿ç”¨è®©å¼‚è§åˆ†å­æ¶ˆå¤±çš„æˆ˜æœ¯
 As dissenters die, Syria promises free elections(CBS)
-ÓÉÓÚÒì¼ûÕßËÀÍö,ĞğÀûÑÇ³ĞÅµ×ÔÓÉÑ¡¾Ù
+ç”±äºå¼‚è§è€…æ­»äº¡,å™åˆ©äºšæ‰¿è¯ºè‡ªç”±é€‰ä¸¾
 
-#### ´õÍ½ mobster/mob
+#### æ­¹å¾’ mobster/mob
 Reputed Mass. mobster girlfriend rethinking plea(CBS)
-±»ÈÏÎªÊÇÂíÈøÖîÈûÖİ´õÍ½µÄÅ®ÅóÓÑÖØĞÂ¿¼ÂÇ±ç»¤
+è¢«è®¤ä¸ºæ˜¯é©¬è¨è¯¸å¡å·æ­¹å¾’çš„å¥³æœ‹å‹é‡æ–°è€ƒè™‘è¾©æŠ¤
 Mystery bones in reputed Italian mobster's crypt(CBS)
-ÉñÃØÈË¹Ç±»¹«ÈÏÎªÒâ´óÀû·ËÍ½µÄÃØÃÜ
+ç¥ç§˜äººéª¨è¢«å…¬è®¤ä¸ºæ„å¤§åˆ©åŒªå¾’çš„ç§˜å¯†
 
-#### µçÊÓÖĞ¼ò¶ÌÔ­Éù²É·Ã²å²¥  sound bite
+#### ç”µè§†ä¸­ç®€çŸ­åŸå£°é‡‡è®¿æ’æ’­  sound bite
 Cory Booker, Hillary Clinton and Ryan Gosling: Memes are the new sound bite(WAPOST)
-Ï£À­ÀïµÈÈËµÄÔ­Éù²å²¥
+å¸Œæ‹‰é‡Œç­‰äººçš„åŸå£°æ’æ’­
 
-#### ±ùÇòÖĞ×¨ÃÅ±©Á¦·¸¹æµÄ½ÇÉ« hockey enforcer
+#### å†°çƒä¸­ä¸“é—¨æš´åŠ›çŠ¯è§„çš„è§’è‰² hockey enforcer
 In Hockey Enforcer's Descent, Easy Access to Prescriptions(TIMES)
-ÔÚ±ùÇò¶ñ¹÷ÇòÔ±µÄÀúÊ·ÉÏ,ºÜÈİÒ×»ñµÃ´¦·½Ò©Îï
+åœ¨å†°çƒæ¶æ£çƒå‘˜çš„å†å²ä¸Š,å¾ˆå®¹æ˜“è·å¾—å¤„æ–¹è¯ç‰©
 
-#### Å×Ãª anchor
+#### æŠ›é”š anchor
 Shell vessel re-anchors after moving toward shore(Yahoo) 
-ÔÚÏò°¶±ßÇ°½øºó,´¬Ö»ÔÙ´ÎÅ×ÃªÍ£²´
+åœ¨å‘å²¸è¾¹å‰è¿›å,èˆ¹åªå†æ¬¡æŠ›é”šåœæ³Š
 
-#### Ö§Öù Ì¨Öù×Ó anchor post
+#### æ”¯æŸ± å°æŸ±å­ anchor post
 AP source: Couric leaving news anchor post (AP) 
-CBSÖ÷²¥Àë¿ªĞÂÎÅÖ§Öù
+CBSä¸»æ’­ç¦»å¼€æ–°é—»æ”¯æŸ±
 
-#### Ì«Æ½Ê¢ÊÀ Ç§Äê millennium
+#### å¤ªå¹³ç››ä¸– åƒå¹´ millennium
 Sentence struck down in millennium bomb plot
-Ç§ÄêÕ¨µ¯ÒõÄ±ÉóÅĞ,ÅĞ¾öĞû²¼ÎŞĞ§
+åƒå¹´ç‚¸å¼¹é˜´è°‹å®¡åˆ¤,åˆ¤å†³å®£å¸ƒæ— æ•ˆ
 
-#### ¸ßÔ­ ÎÈ¶¨Ë®Æ½ Æ½ÎÈ×´Ì¬ plateau
+#### é«˜åŸ ç¨³å®šæ°´å¹³ å¹³ç¨³çŠ¶æ€ plateau
 A plateau in young adults' insurance gains(WAPOST)
-×³ÄêÈË±£ÏÕÊÕÒæµÄÎÈ¶¨×´Ì¬
+å£®å¹´äººä¿é™©æ”¶ç›Šçš„ç¨³å®šçŠ¶æ€
 
-#### Ê§Ì¬ ¶ª³ó gaffe  ÕşÖÎ³óÌ¬ political gaffe
+#### å¤±æ€ ä¸¢ä¸‘ gaffe  æ”¿æ²»ä¸‘æ€ political gaffe
 Romney, Santorum trying to recover from verbal gaffes(LATIMES)
-Â³Ã·ÄáºÍÉ£¶àÀ­Ä·ÊÔÍ¼´ÓÑÔÓïÉÏÊ§Ì¬ÉÏ»Ö¸´
+é²æ¢…å°¼å’Œæ¡‘å¤šæ‹‰å§†è¯•å›¾ä»è¨€è¯­ä¸Šå¤±æ€ä¸Šæ¢å¤
 Obama's political gaffe will be fodder in general election(WAPOST)
-°Â°ÍÂíÕşÖÎÊ§Ì¬ÔÚÑ¡¾ÙÖĞ¸ø¶ÔÊÖÌá¹©µ¯Ò©
+å¥¥å·´é©¬æ”¿æ²»å¤±æ€åœ¨é€‰ä¸¾ä¸­ç»™å¯¹æ‰‹æä¾›å¼¹è¯
 2013 Nissan Altima 3.5 SV: No gaffes, no zingers(WAPOST)
-ÄáÉ£°¢µÙÂê½Î³µ:Ã»ÓĞ¶ª³ó,Ò²Ã»ÓĞÈÃÈËÕğº³³Ô¾ª
+å°¼æ¡‘é˜¿è’‚ç›è½¿è½¦:æ²¡æœ‰ä¸¢ä¸‘,ä¹Ÿæ²¡æœ‰è®©äººéœ‡æ’¼åƒæƒŠ
 
-#### ×ÔÓÉÓ¾½ÓÁ¦Èü freestyle relay
+#### è‡ªç”±æ³³æ¥åŠ›èµ› freestyle relay
 U.S. Loses to France in Freestyle Relay at Olympics(TIMES)
-ÔÚ×ÔÓÉÓ¾½ÓÁ¦ÈüÖĞÃÀ¹úÊä¸ø·¨¹ú
+åœ¨è‡ªç”±æ³³æ¥åŠ›èµ›ä¸­ç¾å›½è¾“ç»™æ³•å›½
 
-#### Ã¤´Ó Æ«Ö´ Íç¹Ì bigotry/paranoia  ¶àÒÉµÄ Æ«Ö´µÄ paranoid  ¶àÒÉµÄÒ»Ãæ paranoid side
+#### ç›²ä» åæ‰§ é¡½å›º bigotry/paranoia  å¤šç–‘çš„ åæ‰§çš„ paranoid  å¤šç–‘çš„ä¸€é¢ paranoid side
 Cuban comments on bigotry stir debate(Yahoo)
-¿â°à¹ØÓÚÆ«Ö´µÄÆÀÂÛÒıÆğÕùÂÛ
+åº“ç­å…³äºåæ‰§çš„è¯„è®ºå¼•èµ·äº‰è®º
 New recordings a window into Nixon's paranoia(CBS)
-ĞÂµÄÂ¼Ïñ×ÊÁÏÍ¨ÍùÕ¹ÏÖÄá¿ËËÉÆ«Ö´
+æ–°çš„å½•åƒèµ„æ–™é€šå¾€å±•ç°å°¼å…‹æ¾åæ‰§
 Bo Xilai's Former Wife Reveals Paranoid Side of a Once-Powerful Chinese Family(TIMES)
-Ç°ÆŞ½ÒÂ¶Ôø¾­µÄÈ¨ÊÆ¼ÒÍ¥Æ«Ö´¿ñµÄÒ»Ãæ
+å‰å¦»æ­éœ²æ›¾ç»çš„æƒåŠ¿å®¶åº­åæ‰§ç‹‚çš„ä¸€é¢
 
-#### ²»¿íÈİ Æ«Ö´ intolerance
+#### ä¸å®½å®¹ åæ‰§ intolerance
 Obama at U.N. calls for end to intolerance, warns Iran(Yahoo)
-°Â°ÍÂíºôÓõÁªºÏ¹ú½áÊøÆ«Ö´,¾¯¸æÒÁÀÊ
+å¥¥å·´é©¬å‘¼åè”åˆå›½ç»“æŸåæ‰§,è­¦å‘Šä¼Šæœ—
 
-#### ¾Æ¾«´µÆø¼ì²â breathalyzer test
+#### é…’ç²¾å¹æ°”æ£€æµ‹ breathalyzer test
 Marines to undergo random Breathalyzer tests(LATIMES)
-Â½Õ½¶ÓÔ±½ÓÊÜËæ»úµÄ¾Æ¾«´µÆø¼ì²â
+é™†æˆ˜é˜Ÿå‘˜æ¥å—éšæœºçš„é…’ç²¾å¹æ°”æ£€æµ‹
 
-#### ¸±×ÜÍ³Î»ÖÃ VP slot
+#### å‰¯æ€»ç»Ÿä½ç½® VP slot
 Romney: Rubio is being vetted for VP slot(CBS)
-Â³±ÈÅ·ÕıÔÚÎª³ÉÎªÂ³Ã·Äá¸±×ÜÍ³Î»ÖÃ½ÓÊÜÉó²é
+é²æ¯”æ¬§æ­£åœ¨ä¸ºæˆä¸ºé²æ¢…å°¼å‰¯æ€»ç»Ÿä½ç½®æ¥å—å®¡æŸ¥
 
-#### Î´±»²¶ åĞÒ£·¨Íâ at large  ÈÎÈ»Î´±»²¶ remain at large
+#### æœªè¢«æ• é€é¥æ³•å¤– at large  ä»»ç„¶æœªè¢«æ• remain at large
 As fighting persists in Libya, Kadafi remains at large(LATIMES)
-ÓÉÓÚÕ½¶·¼ÌĞø,¿¨Ôú·ÆÈÔÎ´±»²¶»ñ
+ç”±äºæˆ˜æ–—ç»§ç»­,å¡æ‰è²ä»æœªè¢«æ•è·
 An Enigma in Power, Qaddafi is Elusive at Large(TIMES)
-Ò»¸öÕÆÈ¨µÄÃÕÒ»ÑùÈËÎï,¿¨Ôú·ÆÎ´±»×¥»ñÄÑÒÔ×ÁÄ¥
+ä¸€ä¸ªæŒæƒçš„è°œä¸€æ ·äººç‰©,å¡æ‰è²æœªè¢«æŠ“è·éš¾ä»¥ç¢ç£¨
 
-#### ĞüÄî ĞüÒÉ suspense  Ôö¼ÓĞüÄî add to suspense
+#### æ‚¬å¿µ æ‚¬ç–‘ suspense  å¢åŠ æ‚¬å¿µ add to suspense
 In Egypt's Election, Dark-Horse Candidates Add to Suspense(TIMES)
-°£¼°Ñ¡¾ÙÖĞºÚÂíºòÑ¡ÈËÔö¼ÓĞüÄî
+åŸƒåŠé€‰ä¸¾ä¸­é»‘é©¬å€™é€‰äººå¢åŠ æ‚¬å¿µ
 
-#### ¼à¶½ Ö¸»Ó superintendent  ¿ó¼à Mine Superintendent
+#### ç›‘ç£ æŒ‡æŒ¥ superintendent  çŸ¿ç›‘ Mine Superintendent
 Mine Superintendent Charged in 2010 Disaster(TIMES)
-2010ÄêÔÖÄÑµÄ¿ó¼à±»ÆğËß
+2010å¹´ç¾éš¾çš„çŸ¿ç›‘è¢«èµ·è¯‰
 
-#### ¾ÈÔÖ disaster aid
+#### æ•‘ç¾ disaster aid
 Shutdown averted; disaster aid dispute surmounted(AP) 
-Í£¹¤±»½â¾ö,ÔÖÄÑ¾ÈÖúÕùÂÛ±»¿Ë·ş
+åœå·¥è¢«è§£å†³,ç¾éš¾æ•‘åŠ©äº‰è®ºè¢«å…‹æœ
 
-#### µÖÑºÆ· collateral
+#### æŠµæŠ¼å“ collateral
 E.C.B. Will Not Accept Greek Bonds as Bank Collateral(TIMES)
-Å·ÖŞÑëĞĞ²»½ÓÊÜÏ£À°Õ®È¯×÷ÎªÒøĞĞµÖÑº
+æ¬§æ´²å¤®è¡Œä¸æ¥å—å¸Œè…Šå€ºåˆ¸ä½œä¸ºé“¶è¡ŒæŠµæŠ¼
 Finland: No deal likely on Greek collateral(AP)
-ÔÚÏ£À°µÖÑºÎÊÌâÉÏÃ»ÓĞ´ï³É½»Ò×
+åœ¨å¸Œè…ŠæŠµæŠ¼é—®é¢˜ä¸Šæ²¡æœ‰è¾¾æˆäº¤æ˜“
 
-#### ¾ÍÒµÑİ½² job address
+#### å°±ä¸šæ¼”è®² job address
 More sniping in partisan spat over Obama's jobs address(LATIMES)
-ºÜ¶àÅê»÷Á½µ³¶ÔÓÚ°Â°ÍÂí¾ÍÒµÑİ½²µÄÕù³³
+å¾ˆå¤šæŠ¨å‡»ä¸¤å…šå¯¹äºå¥¥å·´é©¬å°±ä¸šæ¼”è®²çš„äº‰åµ
 
-#### Ïû·ÑÖ÷Òå consumerism
+#### æ¶ˆè´¹ä¸»ä¹‰ consumerism
 Pope laments Christmas consumerism(CBS) 
-½Ì»ÊÍ´Ï§Ê¥µ®Ïû·ÑÖ÷Òå
+æ•™çš‡ç—›æƒœåœ£è¯æ¶ˆè´¹ä¸»ä¹‰
 
-#### ¼«ÓÒÒí far-right  ¼«ÓÒÒíÕşÖÎ¼Ò Far-Right Politician
+#### æå³ç¿¼ far-right  æå³ç¿¼æ”¿æ²»å®¶ Far-Right Politician
 Far-Right Politician in Greece Slaps Rival on TV(TIMES)
-¼«ÓÒÒíÕşÖÎ¼ÒÔÚµçÊÓÉÏ(slapÅúÆÀ)³é¶ÔÊÖ¶ú¹â
+æå³ç¿¼æ”¿æ²»å®¶åœ¨ç”µè§†ä¸Š(slapæ‰¹è¯„)æŠ½å¯¹æ‰‹è€³å…‰
 
-#### ÖØÉóÅĞ retrial
+#### é‡å®¡åˆ¤ retrial
 Retrial in gay teen killing poses challenges(LATIMES)
-¶ÔÍ¬ĞÔÁµÄĞº¢ÖØÉóÅĞµ¼ÖÂÖÊÒÉ
+å¯¹åŒæ€§æ‹ç”·å­©é‡å®¡åˆ¤å¯¼è‡´è´¨ç–‘
 
-#### ÅÅÎÛ¿Ú ´ó¿Ó sinkhole
+#### æ’æ±¡å£ å¤§å‘ sinkhole
 Fla. man presumed dead after sinkhole opens under his bed(CBS)
-ÔÚ´²µ×³öÏÖ´ó¿Óºó,Ê§×ÙÄĞ×Ó±»¼Ù¶¨ËÀÍö
+åœ¨åºŠåº•å‡ºç°å¤§å‘å,å¤±è¸ªç”·å­è¢«å‡å®šæ­»äº¡
 Video captures man falling into sinkhole in China(CBS) 
-ÊÓÆµÅÄÏÂÁËÄĞ×ÓµôÈëÅÅÎÛ¿Ú
+è§†é¢‘æ‹ä¸‹äº†ç”·å­æ‰å…¥æ’æ±¡å£
 
-#### ÕÓÔó quagmire/swamp/mire
+#### æ²¼æ³½ quagmire/swamp/mire
 After election win, Anastasiades faces Cyprus bailout quagmire(Yahoo)
-Ñ¡¾ÙÊ¤Àûºó,Ãæ¶ÔÈûÆÖÂ·Ë¹¾­¼Ã¾ÈÔ®ÕÓÔó
+é€‰ä¸¾èƒœåˆ©å,é¢å¯¹å¡æµ¦è·¯æ–¯ç»æµæ•‘æ´æ²¼æ³½
 
-#### ÈË¼ä¹ØÏµ human bonds
+#### äººé—´å…³ç³» human bonds
 Burial plot sheds new light on human bonds(CBS)
-Ä¹µØÇåÎú·´Ó³ÈËÃÇ¹ØÏµ
+å¢“åœ°æ¸…æ™°åæ˜ äººä»¬å…³ç³»
 
-#### µÊ×Ó ·à±ã stool
+#### å‡³å­ ç²ªä¾¿ stool
 Seattle "hero" hurled stools at gunman(CBS)
-Î÷ÑÅÍ¼Ó¢ĞÛ³¯Ç¹ÊÖÈÓµÊ×Ó
+è¥¿é›…å›¾è‹±é›„æœæªæ‰‹æ‰”å‡³å­
 
-#### ÔÖÄÑ calamity/disaster  ½ğÈÚÔÖÄÑ financial calamity
+#### ç¾éš¾ calamity/disaster  é‡‘èç¾éš¾ financial calamity
 Memphis readies for big river; Ky. Spared calamity (AP) 
-ÃÏ·ÆË¹Îª´óºÓ³öÏÖÒâÍâ×öÔ¤±¸,¿ÏËş»ùÖİÃâÔâÔÖÄÑ
+å­Ÿè²æ–¯ä¸ºå¤§æ²³å‡ºç°æ„å¤–åšé¢„å¤‡,è‚¯å¡”åŸºå·å…é­ç¾éš¾
 Bernanke warns of a "huge financial calamity"(CBS) 
-²®ÄÏ¿Ë¾¯¸æ×î´óµÄ½ğÈÚÔÖÄÑ
+ä¼¯å—å…‹è­¦å‘Šæœ€å¤§çš„é‡‘èç¾éš¾
 United States avoids calamity in "fiscal cliff" drama(Yahoo)
-ÃÀ¹ú±ÜÃâ²ÆÕşÔÖÄÑ
+ç¾å›½é¿å…è´¢æ”¿ç¾éš¾
 
-#### ½ÌÌõ ĞÅÌõ ½ÌÌõµÄ dogma
+#### æ•™æ¡ ä¿¡æ¡ æ•™æ¡çš„ dogma
 New prostate cancer test advice overturns dogma(AP)
-ĞÂÇ°ÁĞÏÙ°©¼ì²â½¨Òéµß¸²Éç»áĞÅÌõ
+æ–°å‰åˆ—è…ºç™Œæ£€æµ‹å»ºè®®é¢ è¦†ç¤¾ä¼šä¿¡æ¡
 
-#### ºÚÊĞ black market
+#### é»‘å¸‚ black market
 Officials in China Seized Infants for Black Market, Parents Say(TIMES)
-ÖĞ¹ú¹ÙÔ±ÎªºÚÊĞÕÒµ½Ó¤¶ù
+ä¸­å›½å®˜å‘˜ä¸ºé»‘å¸‚æ‰¾åˆ°å©´å„¿
 
-#### ÉîÄ±Ô¶ÂÇ É÷ÖØ prudence
+#### æ·±è°‹è¿œè™‘ æ…é‡ prudence
 BP fined, charged in oil spill that showed 'profit over prudence'(LATIMES)
-ÒòÂ©ÓÍÊÂ¹ÊÓ¢Ê¯ÓÍ±»·£¿î,ÊÜÖ¸¿Ø,ÏÔÊ¾³öÀûÈó´¦ÓÚÉ÷ÖØÖ®ÉÏ
+å› æ¼æ²¹äº‹æ•…è‹±çŸ³æ²¹è¢«ç½šæ¬¾,å—æŒ‡æ§,æ˜¾ç¤ºå‡ºåˆ©æ¶¦å¤„äºæ…é‡ä¹‹ä¸Š
 
-#### ÃØÃÜĞĞ¶¯ stealth   ÃØÃÜµ÷²é Stealth Survey
+#### ç§˜å¯†è¡ŒåŠ¨ stealth   ç§˜å¯†è°ƒæŸ¥ Stealth Survey
 U.S. Plans Stealth Survey on Access to Doctors(TIMES)
-ÃÀ¹ú¼Æ»®²ÉÓÃÃØÃÜµ÷²é,ÔÚ¼ì²éÒ½ÉúÃÇµÄ·½·¨ÉÏ
+ç¾å›½è®¡åˆ’é‡‡ç”¨ç§˜å¯†è°ƒæŸ¥,åœ¨æ£€æŸ¥åŒ»ç”Ÿä»¬çš„æ–¹æ³•ä¸Š
 Despite law against it, stealth commercials frequently masquerade as TV news(WAPOST) 
-¾¡¹Ü·¨ÂÉ½ûÖ¹,ÒşÃØµÄ¹ã¸æ¾­³£Î±×°ÓÚµçÊÓĞÂÎÅÖĞ
+å°½ç®¡æ³•å¾‹ç¦æ­¢,éšç§˜çš„å¹¿å‘Šç»å¸¸ä¼ªè£…äºç”µè§†æ–°é—»ä¸­
 
-#### ¹ÂÁ¢ÎŞÔ® ¸éÇ³ high and dry
+#### å­¤ç«‹æ— æ´ ææµ… high and dry
 Will cargo crash leave ISS crew high and dry?(CBS)
-»õÔË±ÀÀ£,½«ÈÃ¹ú¼Ê¿Õ¼äÕ¾ÈËÔ±¹ÂÁ¢ÎŞÔ®
+è´§è¿å´©æºƒ,å°†è®©å›½é™…ç©ºé—´ç«™äººå‘˜å­¤ç«‹æ— æ´
 
-#### Ïû¶¾É±¾úÒº sanitizer
+#### æ¶ˆæ¯’æ€èŒæ¶² sanitizer
 A troubling trend in teens drinking hand sanitizer(LATIMES)
-Ò»¸öÔã¸âµÄÇ÷ÊÆÊÇÉÙÄêÃÇÒûÓÃÏ´ÊÖÏû¶¾É±¾úÒº
+ä¸€ä¸ªç³Ÿç³•çš„è¶‹åŠ¿æ˜¯å°‘å¹´ä»¬é¥®ç”¨æ´—æ‰‹æ¶ˆæ¯’æ€èŒæ¶²
 
-#### Ã°Ãû¶¥ÌæÕß Æ­×Ó impostor
+#### å†’åé¡¶æ›¿è€… éª—å­ impostor
 Rockefeller impostor on trial for murder(Yahoo) 
-Âå¿Ë·ÆÀÕÃ°Ãû¶¥ÌæÕßÒòÄ±É±°¸ÊÜÉóÅĞ
+æ´›å…‹è²å‹’å†’åé¡¶æ›¿è€…å› è°‹æ€æ¡ˆå—å®¡åˆ¤
 
-#### ´ó¶À²ÃÕß ×¨ÖÆ¹ú¼Ò Big Brother
+#### å¤§ç‹¬è£è€… ä¸“åˆ¶å›½å®¶ Big Brother
 Wikileaks disclosure shines light on Big Brother(CBS) 
-Î¬»ù½âÃÜÅûÂ¶ÄÚÈİÈÃ×¨ÖÆ¹ú¼ÒĞĞÎªÆØÂ¶³öÀ´
+ç»´åŸºè§£å¯†æŠ«éœ²å†…å®¹è®©ä¸“åˆ¶å›½å®¶è¡Œä¸ºæ›éœ²å‡ºæ¥
 
-#### ËÀĞÌ execution  Ö´ĞĞËÀĞÌ execute
+#### æ­»åˆ‘ execution  æ‰§è¡Œæ­»åˆ‘ execute
 High court grants stay in Tex. execution(CBS)
-¸ßµÈ·¨ÔºÍ¬ÒâµÂÖİËÀĞÌµÄÔİÍ£
+é«˜ç­‰æ³•é™¢åŒæ„å¾·å·æ­»åˆ‘çš„æš‚åœ
 Texas execution halted amid Supreme Court review(AP)
-µÂÖİËÀĞÌÔİÍ£ÔÚ×î¸ß·¨Í¥¼ìÊÓÇ°
+å¾·å·æ­»åˆ‘æš‚åœåœ¨æœ€é«˜æ³•åº­æ£€è§†å‰
 Texas man executed for killing store clerk(AP)
-µÂÖİÄĞ×Ó±»Ö´ĞĞËÀĞÌÒòÎªÉ±ËÀ³¬ÊĞÖ°Ô±
+å¾·å·ç”·å­è¢«æ‰§è¡Œæ­»åˆ‘å› ä¸ºæ€æ­»è¶…å¸‚èŒå‘˜
 
-#### ²Ğº¡ debris
+#### æ®‹éª¸ debris
 Tsunami debris spreads halfway across Pacific(AP)
-º£Ğ¥²Ğº¡À©´óµ½Ì«Æ½ÑóÖĞ¼ä
+æµ·å•¸æ®‹éª¸æ‰©å¤§åˆ°å¤ªå¹³æ´‹ä¸­é—´
 Navy jet crash: Don't breathe the air, don't touch the debris(LATIMES)
-²»ÒªºôÎü,²»Òª½Ó´¥ËéÆ¬²Ğº¡
+ä¸è¦å‘¼å¸,ä¸è¦æ¥è§¦ç¢ç‰‡æ®‹éª¸
 US firefighters comb through debris after jet crash
-ÃÀ¹úÏû·ÀÔ±ËÑË÷³öÊÂ·É»ú²Ğº¡
+ç¾å›½æ¶ˆé˜²å‘˜æœç´¢å‡ºäº‹é£æœºæ®‹éª¸
 In Tsunami-Torn City, Seaside Playgrounds Become Debris Dumps(TIMES) 
-±»º£Ğ¥Ëğ»µµÄ³ÇÊĞ,º£±ßÓÎÀÖ³¡±ä³É²Ğº¡Çãµ¹³¡
+è¢«æµ·å•¸æŸåçš„åŸå¸‚,æµ·è¾¹æ¸¸ä¹åœºå˜æˆæ®‹éª¸å€¾å€’åœº
 
-#### ÇÖÈë inroad   ½øÈë ÏûºÄµô.. make inroad into
+#### ä¾µå…¥ inroad   è¿›å…¥ æ¶ˆè€—æ‰.. make inroad into
 U.S. Alert as China's Cash Buys Inroads in Caribbean(TIMES)
-ÃÀ¹ú¶ÔÖĞ¹úÏÖ½ğ¹ºÂòÇÖÈë¼ÓÀÕ±ÈµØÇø·¢³ö¾¯¸æ
+ç¾å›½å¯¹ä¸­å›½ç°é‡‘è´­ä¹°ä¾µå…¥åŠ å‹’æ¯”åœ°åŒºå‘å‡ºè­¦å‘Š
 Women candidates to make inroads in Congress(CBS)
-Å®ĞÔºòÑ¡ÈË½øÈë¹ú»á
+å¥³æ€§å€™é€‰äººè¿›å…¥å›½ä¼š
 China's News Media Are Making Inroads in Africa(TIMES)
-ÖĞ¹úĞÂÎÅ»ú¹¹ÔÚ·ÇÖŞ»¨·Ñ²»·Æ
+ä¸­å›½æ–°é—»æœºæ„åœ¨éæ´²èŠ±è´¹ä¸è²
 
-#### ¶ÌÈ± shortage/shortfall  A shortage of/lack of
+#### çŸ­ç¼º shortage/shortfall  A shortage of/lack of
 A shortage of morphine means a world of pain(CBS)
-Âğ·È¶ÌÈ±ÒâÎ¶×Å´óÁ¿µÄÌÛÍ´
+å—å•¡çŸ­ç¼ºæ„å‘³ç€å¤§é‡çš„ç–¼ç—›
 Gas rationing, shortage fray nerves in NYC(Yahoo)
-ÆûÓÍÅä¸ø,¶ÌÈ±ÕıÔÚÄ¥ËğÅ¦Ô¼Ó¦¸¶ÔÖÄÑÓÂÆø
+æ±½æ²¹é…ç»™,çŸ­ç¼ºæ­£åœ¨ç£¨æŸçº½çº¦åº”ä»˜ç¾éš¾å‹‡æ°”
 Critical shortage of doctors predicted(CBS)
-Ò½Éú±ôÁÙ¶ÌÈ±±»Ô¤²â
+åŒ»ç”Ÿæ¿’ä¸´çŸ­ç¼ºè¢«é¢„æµ‹
 AP IMPACT: Hospital drug shortages deadly, costly(AP)
-Ò½ÔºÒ©ÎïÖÂÃüµÄ°º¹óµÄ¶ÌÈ±
+åŒ»é™¢è¯ç‰©è‡´å‘½çš„æ˜‚è´µçš„çŸ­ç¼º
 
-#### ¹ìµÀ³åÀËÈË rail surfer
+#### è½¨é“å†²æµªäºº rail surfer
 'Indonesia battles "rail surfers" with goop(CBS)
-Ó¡¶ÈÄáÎ÷ÑÇ¶Ô¸¶ÓŞ´ÀÎŞÀñÃ²µÄ'¹ìµÀ³åÀËÈË
+å°åº¦å°¼è¥¿äºšå¯¹ä»˜æ„šè ¢æ— ç¤¼è²Œçš„'è½¨é“å†²æµªäºº
 
-#### »ÄÄ® »ÄÒ° wilderness
+#### è’æ¼  è’é‡ wilderness
 Veterans Discover Allure of Jobs in Western Wilderness(TIMES)
-ÀÏ±øÃÇÔÚÎ÷²¿»ÄÄ®·¢ÏÖÓĞÎüÒıÁ¦µÄ¹¤×÷
+è€å…µä»¬åœ¨è¥¿éƒ¨è’æ¼ å‘ç°æœ‰å¸å¼•åŠ›çš„å·¥ä½œ
 
-#### ×¿Ô½Ñİ×à¼Ò virtuoso
+#### å“è¶Šæ¼”å¥å®¶ virtuoso
 Alvin Lee dies at 68; guitar virtuoso with Ten Years After(LATIMES)
-¼ªËû×¿Ô½Ñİ×à¼ÒÊÅÊÀ
+å‰ä»–å“è¶Šæ¼”å¥å®¶é€ä¸–
 
-#### ÖØ×ï felony  ÖØ·¸ felon
+#### é‡ç½ª felony  é‡çŠ¯ felon
 Former L.A. County appraiser arraigned on 60 felony counts(LATIMES)
-Ç°ÂåÉ¼í¶¼ø¶¨ÈË±»¿Ø¸æ60ÏîÖØ×ï
+å‰æ´›æ‰çŸ¶é‰´å®šäººè¢«æ§å‘Š60é¡¹é‡ç½ª
 Man who attacked priest in revenge is not guilty of felonies(LATIMES)
-ÄĞ×ÓÒò±¨¸´Ï®»÷ÄÁÊ¦,µ«Æä¶ÔÖ¸¿ØÖØ×ï²¢²»ÈÏ×ï
+ç”·å­å› æŠ¥å¤è¢­å‡»ç‰§å¸ˆ,ä½†å…¶å¯¹æŒ‡æ§é‡ç½ªå¹¶ä¸è®¤ç½ª
 Barry Bonds avoids prison, gets house arrest on felony conviction(LATIMES) 
-ÔÚÖØ×ï°¸µÄÅĞ¾öÉÏ,°ÍÀï±ÜÃâÁËÈëÓü,Ö»ÊÇÒªÈí½û
+åœ¨é‡ç½ªæ¡ˆçš„åˆ¤å†³ä¸Š,å·´é‡Œé¿å…äº†å…¥ç‹±,åªæ˜¯è¦è½¯ç¦
 
-#### ¹ØË° tariff   Ôö¼Ó¹ØË° ¿ÎË° impose/place/slap/order tariff on
+#### å…³ç¨ tariff   å¢åŠ å…³ç¨ è¯¾ç¨ impose/place/slap/order tariff on
 China Imposes New Tariffs on Some Vehicles From the U.S.(TIMES) 
-ÖĞ¹ú¶ÔÄ³Ğ©ÃÀ¹ú½ø¿ÚÆû³µÔö¼ÓĞÂµÄ¹ØË°
+ä¸­å›½å¯¹æŸäº›ç¾å›½è¿›å£æ±½è½¦å¢åŠ æ–°çš„å…³ç¨
 U.S. to Place Tariffs on Solar Panels From China(TIMES)
-ÃÀ¹ú¸øÀ´×ÔÖĞ¹úµÄÌ«ÑôÄÜÃæ°å¼Ó¹ØË°
+ç¾å›½ç»™æ¥è‡ªä¸­å›½çš„å¤ªé˜³èƒ½é¢æ¿åŠ å…³ç¨
 U.S. Slaps Tariffs on Chinese Solar Panels(TIMES)
-ÃÀ¹ú¸ø²ú×ÔÖĞ¹úÌ«ÑôÄÜ°åÔö¼Ó¹ØË°
+ç¾å›½ç»™äº§è‡ªä¸­å›½å¤ªé˜³èƒ½æ¿å¢åŠ å…³ç¨
 
-#### µöÓãÖ´·¨(Îª´ş²¶×ï·¸¶ø¾«ĞÄÉè¼ÆµÄĞĞ¶¯) sting operation
+#### é’“é±¼æ‰§æ³•(ä¸ºé€®æ•ç½ªçŠ¯è€Œç²¾å¿ƒè®¾è®¡çš„è¡ŒåŠ¨) sting operation
 International sting operation brought down underwear bomb plot(LATIMES)
-¿ç¹úµöÓãĞĞ¶¯ÆÆ»ñÁËÄÚÒÂÕ¨µ¯ÒõÄ±°¸
+è·¨å›½é’“é±¼è¡ŒåŠ¨ç ´è·äº†å†…è¡£ç‚¸å¼¹é˜´è°‹æ¡ˆ
 FBI sting nabs about 24 alleged online credit card scammers(LATIMES)
-µöÓãÖ´·¨×¥×¡24ÃûĞÅÓÃ¿¨ÆÛÕ©ÍÅ»ï·Ö×Ó
+é’“é±¼æ‰§æ³•æŠ“ä½24åä¿¡ç”¨å¡æ¬ºè¯ˆå›¢ä¼™åˆ†å­
 Attorney General Holder vows not to quit in gun sting case(Reuters) 
-Ê×Ï¯¼ì²ì¹Ù»ôµÂ¶û·¢ÊÄ¾ø²»ÍË³öÉæÇ¹µöÓã°¸¼ş
+é¦–å¸­æ£€å¯Ÿå®˜éœå¾·å°”å‘èª“ç»ä¸é€€å‡ºæ¶‰æªé’“é±¼æ¡ˆä»¶
 
-#### ±ù´¨¹ú¼Ò¹«Ô° glacier national park
+#### å†°å·å›½å®¶å…¬å›­ glacier national park
 Glacier National Park melting at an alarming rate(CBS)
-±ù´¨¹ú¼Ò¹«Ô°´¦ÔÚÈÚ»¯µÄÎ£ÏÕÂÊ
+å†°å·å›½å®¶å…¬å›­å¤„åœ¨èåŒ–çš„å±é™©ç‡
 
-#### ´òÁË¾ÍÅÜ ÕØÊÂºóÌÓÒİ hit-and-run
+#### æ‰“äº†å°±è·‘ è‚‡äº‹åé€ƒé€¸ hit-and-run
 San Diego cop accused of hit-and-run DUI(Driving Under the Influence) apparently kills himself(LATIMES)
-Ê¥µü¸ê¾¯²ì±»Ö¸¿Ø,ÓÉÓÚÃ÷ÏÔµØº¦ËÀÆä±¾ÈËµÄ¾Æºó¼İ³µ²¢ÕØÊÂºóÌÓÒİ
+åœ£è¿­æˆˆè­¦å¯Ÿè¢«æŒ‡æ§,ç”±äºæ˜æ˜¾åœ°å®³æ­»å…¶æœ¬äººçš„é…’åé©¾è½¦å¹¶è‚‡äº‹åé€ƒé€¸
 
-#### ¹«Îñ line of duty   Òò¹«Ñ³Ö° die in the line of duty
+#### å…¬åŠ¡ line of duty   å› å…¬æ®‰èŒ die in the line of duty
 Gilbert Vargas died in the line of duty(LATIMES) 
-¼ª²®ÌØËÀÓÚÖ´ĞĞ¹«Îñ
+å‰ä¼¯ç‰¹æ­»äºæ‰§è¡Œå…¬åŠ¡
 
-#### ¹ÊÕÏ ¹¦ÄÜÊ§Áé malfunction
+#### æ•…éšœ åŠŸèƒ½å¤±çµ malfunction
 High costs, malfunctions plague F-22 Raptor fighter jets(LATIMES)
-¸ß³É±¾Óë¹ÊÕÏÀ§ÈÅÃÍÇİÕ½¶·»ú
+é«˜æˆæœ¬ä¸æ•…éšœå›°æ‰°çŒ›ç¦½æˆ˜æ–—æœº
 Nancy Grace: No wardrobe malfunction(CBS)
-Ã»ÓĞÒÂ¹ñ¹ÊÕÏ
+æ²¡æœ‰è¡£æŸœæ•…éšœ
 
-#### ¶ÌÂ· short-circuiting
+#### çŸ­è·¯ short-circuiting
 NTSB: Boeing 787 battery shows short-circuiting(Yahoo)
-²¨Òôµç³Ø³öÏÖ(short-circuiting)¶ÌÂ·µÄÇé¿ö
+æ³¢éŸ³ç”µæ± å‡ºç°(short-circuiting)çŸ­è·¯çš„æƒ…å†µ
 
-#### ĞÂ»éÈËÊ¿ ĞÂ»é·ò¸¾ newlywed
+#### æ–°å©šäººå£« æ–°å©šå¤«å¦‡ newlywed
 Wrestler Becomes Olympian, Then a Newlywed(TIMES)
-Ë¤õÓÑ¡ÊÖ±ä³É°ÂÔËÑ¡ÊÖ,È»ºó³ÉÎª(newlywed)ĞÂ»éÈËÊ¿
+æ‘”è·¤é€‰æ‰‹å˜æˆå¥¥è¿é€‰æ‰‹,ç„¶åæˆä¸º(newlywed)æ–°å©šäººå£«
 
-#### ÆÛÆ­ deceit/deception
+#### æ¬ºéª— deceit/deception
 Deloitte's role cited in Standard Chartered Iran deceit(Yahoo)
-ÔÚÔü´òÒøĞĞÒÁÀÊÆÛÕ©ÖĞÄ³Ğ©½ÇÉ«±»Ìáµ½
+åœ¨æ¸£æ‰“é“¶è¡Œä¼Šæœ—æ¬ºè¯ˆä¸­æŸäº›è§’è‰²è¢«æåˆ°
 
-#### ÌÓ·¸ outlaw
+#### é€ƒçŠ¯ outlaw
 Skeleton of Ned Kelly, Australian Outlaw and Folk Hero, Is Identified(TIMES)
-ÄÚµÂµÄÒÅº¡±»È·ÈÏ,Ò»Î»°Ä´óÀûÑÇÃñ¼äÓ¢ĞÛºÍÌÓ·¸
+å†…å¾·çš„é—éª¸è¢«ç¡®è®¤,ä¸€ä½æ¾³å¤§åˆ©äºšæ°‘é—´è‹±é›„å’Œé€ƒçŠ¯
 
-#### Í¬Ö¾Ö®°® ÓÑÇé  camaraderie
+#### åŒå¿—ä¹‹çˆ± å‹æƒ…  camaraderie
 Jordan democracy activists enjoy camaraderie, freedom to protest(LATIMES) 
-Ô¼µ©ÃñÖ÷»î¶¯ÕßÏíÊÜÍ¬Ö¾¼äÇéÒêºÍÎª×ÔÓÉµÄÊ¾Íş
+çº¦æ—¦æ°‘ä¸»æ´»åŠ¨è€…äº«å—åŒå¿—é—´æƒ…è°Šå’Œä¸ºè‡ªç”±çš„ç¤ºå¨
 
-#### ×æÏÈ ancestry/ancestor
+#### ç¥–å…ˆ ancestry/ancestor
 New Fossils May Redraw Human Ancestry(TIMES)
-ĞÂ»¯Ê¯¿ÉÄÜÖØĞÂ¹´»­ÈËÀà×æÏÈ
+æ–°åŒ–çŸ³å¯èƒ½é‡æ–°å‹¾ç”»äººç±»ç¥–å…ˆ
 Romney's rugged Mormon ancestors sowed riches in Mexico(Reuters)
-Â³Ã·ÄáÇ¿½¡µÄÄ¦ÃÅ½Ì×æÈË²¥ÖÖ²Æ¸»ÔÚÄ«Î÷¸ç
+é²æ¢…å°¼å¼ºå¥çš„æ‘©é—¨æ•™ç¥–äººæ’­ç§è´¢å¯Œåœ¨å¢¨è¥¿å“¥
 
-#### ÔÚ¹Õ½Ç´¦ ¼´½«À´ÁÙ around the corner
+#### åœ¨æ‹è§’å¤„ å³å°†æ¥ä¸´ around the corner
 Value Added: Geoff Allen has the knack for seeing the next big thing around the corner(WAPOST)
-°¬Â×ÓĞÔÚ¹Õ½Ç´¦Ô¤²âÏÂÒ»¸ö´óÊÂµÄÏ°¹ß
+è‰¾ä¼¦æœ‰åœ¨æ‹è§’å¤„é¢„æµ‹ä¸‹ä¸€ä¸ªå¤§äº‹çš„ä¹ æƒ¯
 
-#### Ñ²ÊÓ¹Ù ombudsman
+#### å·¡è§†å®˜ ombudsman
 Post ombudsman will be replaced by reader representative(WAPOST)
-ÓÊÕşÑ²ÊÓ¹Ù½«±»¶ÁÕß´ú±íÈ¡´ú
+é‚®æ”¿å·¡è§†å®˜å°†è¢«è¯»è€…ä»£è¡¨å–ä»£
 
-#### ÈË¹Ç»Ò human ashes
+#### äººéª¨ç° human ashes
 South Korea firm turns human ashes into beads(LATIMES)
-º«¹ú¹«Ë¾½«ÈË¹Ç»Ò±ä³ÉÖé×Ó
+éŸ©å›½å…¬å¸å°†äººéª¨ç°å˜æˆç å­
 
-#### ¼ÛÖµ ÓĞ¼ÛÖµµÄ worth ¼ÛÖµ³¬¹ı worth more than  ¸»ÈËÇø worth area  ¾»×Ê²ú net worth
+#### ä»·å€¼ æœ‰ä»·å€¼çš„ worth ä»·å€¼è¶…è¿‡ worth more than  å¯ŒäººåŒº worth area  å‡€èµ„äº§ net worth
 Apple worth more than Google, Microsoft combined(WAPOST)
-Æ»¹û¹«Ë¾¼ÛÖµ³¬¹ıÎ¢ÈíºÍ¹È¸è¼ÛÖµ×ÜºÍ
+è‹¹æœå…¬å¸ä»·å€¼è¶…è¿‡å¾®è½¯å’Œè°·æ­Œä»·å€¼æ€»å’Œ
 Damaging tornadoes rip through Dallas-Fort Worth area(LATIMES)
-»ÙÃğĞÔµÄÁú¾í·çËºËé´ïÀ­Ë¹¸»ÈËÇø
+æ¯ç­æ€§çš„é¾™å·é£æ’•ç¢è¾¾æ‹‰æ–¯å¯ŒäººåŒº
 Family Net Worth Drops to Level of Early '90s, Fed Says(TIMES)
-¼ÒÍ¥¾»×Ê²úÏÂ½µµ½90Äê´úË®Æ½
+å®¶åº­å‡€èµ„äº§ä¸‹é™åˆ°90å¹´ä»£æ°´å¹³
 
-#### ³øÊ¦ ´ó³ø chef
+#### å¨å¸ˆ å¤§å¨ chef
 N.Y. chef promotes roaches, other insects as food of the future(LATIMES)
-Å¦Ô¼³øÊ¦Ğû´«´ÙÏúÄâÀğºÍÆäËüÀ¥³æ×÷ÎªÎ´À´Ê³Îï
+çº½çº¦å¨å¸ˆå®£ä¼ ä¿ƒé”€æ‹Ÿé²¤å’Œå…¶å®ƒæ˜†è™«ä½œä¸ºæœªæ¥é£Ÿç‰©
 A Chef Finds Healing in Food(TIMES)
-Ò»Î»³øÊ¦³¤·¢ÏÖÓÃÊ³ÎïÖÎÓú
+ä¸€ä½å¨å¸ˆé•¿å‘ç°ç”¨é£Ÿç‰©æ²»æ„ˆ
 
-#### ÌıÖÚÏ¯ ¹ÛÖÚÏ¯ auditorium
+#### å¬ä¼—å¸­ è§‚ä¼—å¸­ auditorium
 Romneys practice speeches at school auditorium(Yahoo)
-Â³Ã·ÄáÔÚÑ§Ğ£ÌıÖÚÏ¯Á·Ï°Ñİ½²
+é²æ¢…å°¼åœ¨å­¦æ ¡å¬ä¼—å¸­ç»ƒä¹ æ¼”è®²
 
-#### Ë®ĞÌ Waterboarding
+#### æ°´åˆ‘ Waterboarding
 John Yoo: Waterboarding is not torture(CBS)
-Ë®ĞÌ²»ÊÇĞÌÑ¶
+æ°´åˆ‘ä¸æ˜¯åˆ‘è®¯
 
-#### ÆÏÌÑÌÙÂû vine  ²ÆÕşÎÊÌâÂûÑÓ fiscal vine
+#### è‘¡è„è—¤è”“ vine  è´¢æ”¿é—®é¢˜è”“å»¶ fiscal vine
 California's newest city withering on fiscal vine(LATIMES)
-²ÆÕşÎÊÌâÂûÑÓ¿ª,¼ÓÖİ×îÄêÇáµÄ³ÇÊĞ¿ìÒªÔË×÷Î£»ú
+è´¢æ”¿é—®é¢˜è”“å»¶å¼€,åŠ å·æœ€å¹´è½»çš„åŸå¸‚å¿«è¦è¿ä½œå±æœº
 
-#### Áìµ¼ÈËÎï Ö÷ÒªÈËÎï leading figure
+#### é¢†å¯¼äººç‰© ä¸»è¦äººç‰© leading figure
 Leading Syrian Opposition Figure Killed, and Another Publicly Beaten(TIMES)
-Áìµ¼ĞğÀûÑÇÈË·´¿¹µÄÖ÷ÒªÈËÎï±»É±,ÁíÒ»Ğ©¹«¿ªµØ½îÆ£Á¦½ß
+é¢†å¯¼å™åˆ©äºšäººåæŠ—çš„ä¸»è¦äººç‰©è¢«æ€,å¦ä¸€äº›å…¬å¼€åœ°ç­‹ç–²åŠ›ç«­
 
-#### µñËÜ µñÏñ sculpture/statute  µñ¿Ì¼Ò sculptor  Ä¾ÖÆµÄµñËÜ wooden sculptures
+#### é›•å¡‘ é›•åƒ sculpture/statute  é›•åˆ»å®¶ sculptor  æœ¨åˆ¶çš„é›•å¡‘ wooden sculptures
 Incredible ice house sculptures (CBS)
-ÄÑÒÔÖÃĞÅµÄ±ù·¿×ÓµñËÜ
+éš¾ä»¥ç½®ä¿¡çš„å†°æˆ¿å­é›•å¡‘
 Sculptor 'tries to catch the essence of Coach' John Wooden(LATIMES)
-µñ¿Ì¼ÒÊÔÍ¼×¥×¡½ÌÁ·µÄ¾«Ëè
+é›•åˆ»å®¶è¯•å›¾æŠ“ä½æ•™ç»ƒçš„ç²¾é«“
 Chainsaw artist's wooden sculptures(CBS)
-ÓÍ¾âÒÕÊõ¼ÒµÄÄ¾ÖÆµÄµñËÜ
+æ²¹é”¯è‰ºæœ¯å®¶çš„æœ¨åˆ¶çš„é›•å¡‘
 
-#### ´È°® ÈÊ°® philanthropy
+#### æ…ˆçˆ± ä»çˆ± philanthropy
 UCLA philanthropy class benefits community groups and students(LATIMES)
-´È°®°àÈÃÉçÇøÍÅÌåºÍÑ§Éú»ñÒæ
+æ…ˆçˆ±ç­è®©ç¤¾åŒºå›¢ä½“å’Œå­¦ç”Ÿè·ç›Š
 
-#### ¸£Òô Ô­Ôò ĞÅÌõ gospel
+#### ç¦éŸ³ åŸåˆ™ ä¿¡æ¡ gospel
 Mitt Romney, Bain Capital and the gospel of 'creative destruction'(WAPOST)
-Â³Ã·Äá,±´¶÷×Ê±¾ºÍ'´´ÔìĞÔ»ÙÃğ'µÄ¸£Òô
+é²æ¢…å°¼,è´æ©èµ„æœ¬å’Œ'åˆ›é€ æ€§æ¯ç­'çš„ç¦éŸ³
 A gospel funeral for Whitney Houston(LATIMES)
-Ò»¸ö¸£ÒôÒôÀÖµÄÔáÀñ
+ä¸€ä¸ªç¦éŸ³éŸ³ä¹çš„è‘¬ç¤¼
 
-#### »ŞÆø ´ò»÷ whammy
+#### æ™¦æ°” æ‰“å‡» whammy
 States face double fiscal whammy: Federal aid cuts and spiraling health-care costs(WAPOST)
-ÖİÕş¸®Ãæ¶ÔË«ÖØ»ŞÆø:Áª°îÕş¸®Ô®ÖúÏ÷¼õºÍÒ½±£³É±¾ÉÏÉı
+å·æ”¿åºœé¢å¯¹åŒé‡æ™¦æ°”:è”é‚¦æ”¿åºœæ´åŠ©å‰Šå‡å’ŒåŒ»ä¿æˆæœ¬ä¸Šå‡
 
-#### ´ó³¦¸Ë¾ú E. Coli
+#### å¤§è‚ æ†èŒ E. Coli
 Smoking gun elusive in deadly E. Coli outbreak (AP) 
-´ó³¦¸Ë¾ú±¬·¢ÖÂËÀÊÂ¹ÊÈ·ÔäÖ¤¾İ»¹Ã»ÕÒ³ö
+å¤§è‚ æ†èŒçˆ†å‘è‡´æ­»äº‹æ•…ç¡®å‡¿è¯æ®è¿˜æ²¡æ‰¾å‡º
 E. coli outbreak blamed on German veggie sprouts(CBS)
-´ó³¦¸Ë¾ú±¬·¢¹é¾ÌÓÚµÂ¹úÊß²ËµÄ·¢Ñ¿
+å¤§è‚ æ†èŒçˆ†å‘å½’å’äºå¾·å›½è”¬èœçš„å‘èŠ½
 
-#### ËØÊ³Õß Êß²Ë veggie
+#### ç´ é£Ÿè€… è”¬èœ veggie
 E. coli outbreak blamed on German veggie sprouts(CBS)
-´ó³¦¸Ë¾ú±¬·¢¹é¾ÌÓÚµÂ¹úÊß²ËµÄ·¢Ñ¿
+å¤§è‚ æ†èŒçˆ†å‘å½’å’äºå¾·å›½è”¬èœçš„å‘èŠ½
 Scrumptious grilled chicken, veggies on a budget(CBS)
-ÃÀÎ¶µÄÉÕ¿¾¼¦Èâ,ËØÊ³Õß½ÚÊ¡·ÑÓÃ
+ç¾å‘³çš„çƒ§çƒ¤é¸¡è‚‰,ç´ é£Ÿè€…èŠ‚çœè´¹ç”¨
 
-#### Ñ¿ ·¢Ñ¿ ÃÈÑ¿ sprout/burgeon
+#### èŠ½ å‘èŠ½ èŒèŠ½ sprout/burgeon
 E. coli outbreak blamed on German veggie sprouts(CBS)
-´ó³¦¸Ë¾ú±¬·¢¹é¾ÌÓÚµÂ¹úÊß²ËµÄ·¢Ñ¿
+å¤§è‚ æ†èŒçˆ†å‘å½’å’äºå¾·å›½è”¬èœçš„å‘èŠ½
 
-#### ÂÉÊ¦ È°¸æ ÖÒ¸æ counsel  Ö°ÒµÉúÑÄ½¨Òé career counseling
+#### å¾‹å¸ˆ åŠå‘Š å¿ å‘Š counsel  èŒä¸šç”Ÿæ¶¯å»ºè®® career counseling
 A new model for career counseling(WAPOST)
-¶ÔÖ°ÒµÉúÑÄ½¨ÒéµÄĞÂĞÍÄ£ĞÍ
+å¯¹èŒä¸šç”Ÿæ¶¯å»ºè®®çš„æ–°å‹æ¨¡å‹
 Obese adults should get counseling, federal task force says(LATIMES)
-·ÊÅÖ³ÉÄêÈËÓ¦¸ÃµÃµ½½¡¿µ½¨Òé,Áª°î×¨Òµ»ú¹¹³Æ
+è‚¥èƒ–æˆå¹´äººåº”è¯¥å¾—åˆ°å¥åº·å»ºè®®,è”é‚¦ä¸“ä¸šæœºæ„ç§°
 Emerging from a notorious hell of abuse to counsel others(LATIMES)
-´Ó³ôÃûÔ¶²¥µÄÅ°´ıµØÓüµ½ÆäËûÂÉÊ¦³öÏÖ
+ä»è‡­åè¿œæ’­çš„è™å¾…åœ°ç‹±åˆ°å…¶ä»–å¾‹å¸ˆå‡ºç°
 
-#### Í¯×Ó¾ü scout  Å®Í¯×Ó¾ü Girl Scout  ÄĞÍ¯×Ó¾ü boy scout
+#### ç«¥å­å†› scout  å¥³ç«¥å­å†› Girl Scout  ç”·ç«¥å­å†› boy scout
 Indiana lawmaker defends slam on Girl Scouts(CBS)
-Ó¡µÚ°²ÄÉÁ¢·¨ÕßÎªÅ®Í¯×Ó¾üÅúÆÀ¶ø±ç»¤
+å°ç¬¬å®‰çº³ç«‹æ³•è€…ä¸ºå¥³ç«¥å­å†›æ‰¹è¯„è€Œè¾©æŠ¤
 Skull linked to UT scout missing since '61 flood(CBS)   
-ºÍÍ¯×Ó¾üÓĞ¹ØµÄ÷¼÷ÃÍ·ÔÚºéË®ÖĞÊ§×Ù
+å’Œç«¥å­å†›æœ‰å…³çš„éª·é«…å¤´åœ¨æ´ªæ°´ä¸­å¤±è¸ª
 
-#### ·Àºé°Ó ·ÀºéµÌ levee
+#### é˜²æ´ªå é˜²æ´ªå ¤ levee
 Hurricane Isaac hovering over Gulf Coast; so far, levees holding(LATIMES)
-·ç±©ÔÚÍåÇøÅÌĞıÅÇ»²,Ä¿Ç°ÎªÖ¹·Àºé°ÓµÖµ²×¡ÁË
+é£æš´åœ¨æ¹¾åŒºç›˜æ—‹å¾˜å¾Š,ç›®å‰ä¸ºæ­¢é˜²æ´ªåæŠµæŒ¡ä½äº†
 Floodwaters threaten to overrun Midwest levees(AP) 
-ºéË®Ô¤Ê¾³¬¹ı·ÀºéµÌ
+æ´ªæ°´é¢„ç¤ºè¶…è¿‡é˜²æ´ªå ¤
 U.S. agency moves closer to blowing up levee(Reuters) 
-ÃÀ²¿ÃÅ¸ü½Ó½üÕ¨µô´óµÌ
+ç¾éƒ¨é—¨æ›´æ¥è¿‘ç‚¸æ‰å¤§å ¤
 Missouri River levee breach prompts evacuations(CBS)
-ÃÜËÕÀïºÓ°Ó±»ºÓË®Âş¹ı¼ÓËÙÊèÉ¢ĞĞ¶¯
+å¯†è‹é‡Œæ²³åè¢«æ²³æ°´æ¼«è¿‡åŠ é€Ÿç–æ•£è¡ŒåŠ¨
 
-#### ½±Ñ§½ğ Ñ§ÎÊ scholarship
+#### å¥–å­¦é‡‘ å­¦é—® scholarship
 Director Tony Scott cremated; scholarship created(Yahoo)
-ÍĞÄá±»»ğÔá,Æä½±Ñ§½ğ±»½¨Á¢
+æ‰˜å°¼è¢«ç«è‘¬,å…¶å¥–å­¦é‡‘è¢«å»ºç«‹
 
-#### µ¼µ¯·ÀÓù missile shield
+#### å¯¼å¼¹é˜²å¾¡ missile shield
 Exclusive: U.S. dangles secret data for Russia missile shield approval
-ÎªÈÃÕë¶Ô¶í¹úµÄµ¼µ¯·ÀÓù¼Æ»®Í¨¹ı,ÃÀ¹úÓÃÆäÃØÃÜÊı¾İÓÕ»ó¹ú»á
+ä¸ºè®©é’ˆå¯¹ä¿„å›½çš„å¯¼å¼¹é˜²å¾¡è®¡åˆ’é€šè¿‡,ç¾å›½ç”¨å…¶ç§˜å¯†æ•°æ®è¯±æƒ‘å›½ä¼š
 
-#### Ç¿¼é·¸ rapist
+#### å¼ºå¥¸çŠ¯ rapist
 'Teardrop' rapist strikes again after lengthy break(LATIMES)
-ÔÚºÜ³¤µÄÕİ·üºó,ÀáÖéÇ¿¼é·¸ÔÙ´ÎÏ®»÷
+åœ¨å¾ˆé•¿çš„è›°ä¼å,æ³ªç å¼ºå¥¸çŠ¯å†æ¬¡è¢­å‡»
 Ohio rapist appeals for serial killer's life(CBS)
-¶íº¥¶íÖİÇ¿¼é·¸,ÎªÁ¬»·É±ÊÖµÄÉúÃü,ÉêËß¿ÒÇó
+ä¿„äº¥ä¿„å·å¼ºå¥¸çŠ¯,ä¸ºè¿ç¯æ€æ‰‹çš„ç”Ÿå‘½,ç”³è¯‰æ³æ±‚
 
-#### ÄÉ´âµ³ËùÓÃµÄÊ®×Ö¼ÇºÅ swastika
+#### çº³ç²¹å…šæ‰€ç”¨çš„åå­—è®°å· swastika
 Nikitin insists tattoo was not swastika(Yahoo)
-Äá»ù¶¡¼á³ÖÎÆÉí²»ÊÇÄÉ´âµÄ±êÖ¾
+å°¼åŸºä¸åšæŒçº¹èº«ä¸æ˜¯çº³ç²¹çš„æ ‡å¿—
 
-#### ¿¹°©×÷ÓÃ cancer-fight
+#### æŠ—ç™Œä½œç”¨ cancer-fight
 Diabetes drug metformin may double as cancer-fighting medicine(LATIMES)
-ÌÇÄò²¡Ò©Îï¶ş¼×Ë«ëÒ¿ÉÄÜÓĞ¿¹°©×÷ÓÃ
+ç³–å°¿ç—…è¯ç‰©äºŒç”²åŒèƒå¯èƒ½æœ‰æŠ—ç™Œä½œç”¨
 
-#### Äæ¾³ ¶òÔË adversity
+#### é€†å¢ƒ å„è¿ adversity
 Little League team defies adversity(CBS)
-Ğ¡µÄÁªÃËÇò¶Ó·´¿¹À§¾³
+å°çš„è”ç›Ÿçƒé˜ŸåæŠ—å›°å¢ƒ
 49ers' Gore kept hope through all the adversity(Yahoo)
-49ÈË¶ÓÇòÔ±±£³Ö×ÅÏ£Íû¶È¹ı¶òÔË
+49äººé˜Ÿçƒå‘˜ä¿æŒç€å¸Œæœ›åº¦è¿‡å„è¿
 
-#### »ğ°Ñ É¿¶¯Õß firebrand
+#### ç«æŠŠ ç…½åŠ¨è€… firebrand
 Ecuador's Correa: from boyhood leader to firebrand president(Yahoo)
-´ÓÉÙÄêÊ±´úµÄÁìµ¼ÈËµ½É¿¶¯Õß×ÜÍ³
+ä»å°‘å¹´æ—¶ä»£çš„é¢†å¯¼äººåˆ°ç…½åŠ¨è€…æ€»ç»Ÿ
 
-#### »Æ½ğ¹¤×÷Ê±ÆÚ ×î¼ÑµÄ¹¤×÷Äê´ú prime working year
+#### é»„é‡‘å·¥ä½œæ—¶æœŸ æœ€ä½³çš„å·¥ä½œå¹´ä»£ prime working year
 Job recovery is scant for Americans in prime working years(WAPOST)
-ÔÚ»Æ½ğ¹¤×÷Ê±ÆÚ,¶ÔÃÀ¹úÈËÀ´Ëµ¾ÍÒµ¸´ËÕ²»³ä·Ö
+åœ¨é»„é‡‘å·¥ä½œæ—¶æœŸ,å¯¹ç¾å›½äººæ¥è¯´å°±ä¸šå¤è‹ä¸å……åˆ†
 
-#### ½ÌÇø parish
+#### æ•™åŒº parish
 New pope will lead increasingly diverse parishes in U.S.(CBS)
-ĞÂ½Ì»Ê½«µ¼ÖÂÃÀ¹ú³ÖĞø³öÏÖ²»Í¬µÄ½ÌÇø
+æ–°æ•™çš‡å°†å¯¼è‡´ç¾å›½æŒç»­å‡ºç°ä¸åŒçš„æ•™åŒº
 
-#### ¹øÂ¯ furnace
+#### é”…ç‚‰ furnace
 Owner of exploded Ind. home cites faulty furnace(CBS)
-Ó¡¶È·¢Éú±¬Õ¨,¾ÓÃñÌ¸µ½ÓĞÎÊÌâµÄ¹øÂ¯
+å°åº¦å‘ç”Ÿçˆ†ç‚¸,å±…æ°‘è°ˆåˆ°æœ‰é—®é¢˜çš„é”…ç‚‰
 
-#### ±¬·¢ outburst/eruption/outbreak
+#### çˆ†å‘ outburst/eruption/outbreak
 Santorum: No regrets about outburst(CBS)
-¶Ô±¬·¢Ã»ÓĞºó»Ú
+å¯¹çˆ†å‘æ²¡æœ‰åæ‚”
 Galliano blames booze and drugs for outburst(ABC) 
-¼ÓÀûÑÇÅµÖ¸ÔğĞï¾ÆºÍ¶¾Æ·µ¼ÖÂ±¬Õ¨±¬·¢
+åŠ åˆ©äºšè¯ºæŒ‡è´£é…—é…’å’Œæ¯’å“å¯¼è‡´çˆ†ç‚¸çˆ†å‘
 
-#### ¶¾Õë poison-needle
+#### æ¯’é’ˆ poison-needle
 North Koreans abroad said to face poison-needle attacks(LATIMES)
-±±º«Íâ¹úÓÎ¿Í¾İËµÃæ¶Ô¶¾ÕëÏ®»÷
+åŒ—éŸ©å¤–å›½æ¸¸å®¢æ®è¯´é¢å¯¹æ¯’é’ˆè¢­å‡»
 
-#### °ë¾öÈü semifinal  ËÄ·ÖÖ®Ò»¾öÈü quarterfinal
+#### åŠå†³èµ› semifinal  å››åˆ†ä¹‹ä¸€å†³èµ› quarterfinal
 Louisville routs ND 64-50 in Big East semifinals
-ÔÚÖ°°ô¶«Çø°ë¾öÈüÖĞ,Â·Ò×Î¬¶û´ó°ÜÄÏ´ï¿ÆËû
+åœ¨èŒæ£’ä¸œåŒºåŠå†³èµ›ä¸­,è·¯æ˜“ç»´å°”å¤§è´¥å—è¾¾ç§‘ä»–
 
-#### ¶¨Á¿¿íËÉ quantitative-easing
+#### å®šé‡å®½æ¾ quantitative-easing
 Sign that bond market backs 3rd quantitative-easing round? Check Huggies' price.(WAPOST)
-Õ®È¯ÊĞ³¡»Øµ½µÚÈıÂÖ¶¨Á¿¿íËÉ¼£Ïó
+å€ºåˆ¸å¸‚åœºå›åˆ°ç¬¬ä¸‰è½®å®šé‡å®½æ¾è¿¹è±¡
 
-#### Ğ¬ÓÍ shoeshine
+#### é‹æ²¹ shoeshine
 Pa. hospital gets shoeshine tips totaling $200,000(Yahoo)
-Ò½Ôº»ñµÃ×Ü¼Æ20ÍòÃÀÔªµÄĞ¬ÓÍÏûÏ¢
+åŒ»é™¢è·å¾—æ€»è®¡20ä¸‡ç¾å…ƒçš„é‹æ²¹æ¶ˆæ¯
 
-#### ´ÀÈË Éµ¹Ï knucklehead   Ö¸¹Ø½Ú knuckle
+#### è ¢äºº å‚»ç“œ knucklehead   æŒ‡å…³èŠ‚ knuckle
 Even the best and brightest can be knuckleheads(LATIMES)
-ÖÇÕßÇ§ÂÇ±ØÓĞÒ»Ê§,¼´Ê¹×î´ÏÃ÷µÄÈËÒ²»áµ±Éµ¹Ï
+æ™ºè€…åƒè™‘å¿…æœ‰ä¸€å¤±,å³ä½¿æœ€èªæ˜çš„äººä¹Ÿä¼šå½“å‚»ç“œ
 
-#### ³²Ñ¨ den  »¢Ñ¨ tiger den
+#### å·¢ç©´ den  è™ç©´ tiger den
 Man who jumped into Bronx Zoo tiger den recovering; tiger OK too(LATIMES)
-ÌøÈë»¢Ñ¨µÄÄĞ×ÓÒÑ±»ÇÀ¾È¹ıÀ´
+è·³å…¥è™ç©´çš„ç”·å­å·²è¢«æŠ¢æ•‘è¿‡æ¥
 
-#### ³öÓÚµ£ÓÇ out of fear  ³öÓÚÁ¯Ãõ out of pity
+#### å‡ºäºæ‹…å¿§ out of fear  å‡ºäºæ€œæ‚¯ out of pity
 Former Bell official says he voted for pay raise out of fear(LATIMES)
-³öÓÚµ£ÓÇ,Ç°±´¶ûÊµÑéÊÒ¹ÙÔ±Îª¼ÓĞ½Í¶Æ±
+å‡ºäºæ‹…å¿§,å‰è´å°”å®éªŒå®¤å®˜å‘˜ä¸ºåŠ è–ªæŠ•ç¥¨
 
-#### ·ÑÓÃ ½±½ğ Òç¼Û premium  ·ÑÓÃ¼Û¸ñ premium price
+#### è´¹ç”¨ å¥–é‡‘ æº¢ä»· premium  è´¹ç”¨ä»·æ ¼ premium price
 Asian women command premium prices for egg donation in U.S.(LATIMES)
-ÑÇÖŞ¸¾Å®ÃÇ¿ØÖÆÃÀ¹úÂÑ×Ó¾èÔù¸ß¼Û¸ñ
+äºšæ´²å¦‡å¥³ä»¬æ§åˆ¶ç¾å›½åµå­æèµ é«˜ä»·æ ¼
 Health insurance premiums climb faster in 2011(Reuters)
-Ò½ÁÆ±£ÏÕµÄ±£ÏÕ·ÑÓÃÉÏÉıºÜ¿ì
+åŒ»ç–—ä¿é™©çš„ä¿é™©è´¹ç”¨ä¸Šå‡å¾ˆå¿«
 House bill to raise Medicare premiums for wealthy(AP) 
-¹ú»áÒé°¸Ìá¸ß¸»ÈËµÄÒ½ÁÆ±£ÏÕ½ğ
+å›½ä¼šè®®æ¡ˆæé«˜å¯Œäººçš„åŒ»ç–—ä¿é™©é‡‘
 
-#### ÖÇÄÒÍÅ think tank
+#### æ™ºå›Šå›¢ think tank
 WikiLeaks to publish security think tank emails(Reuters)
-Î¬»ùĞ¹ÃÜ¹«²¼°²È«ÖÇÄÒÍÅ¶ÓÓÊ¼ş
+ç»´åŸºæ³„å¯†å…¬å¸ƒå®‰å…¨æ™ºå›Šå›¢é˜Ÿé‚®ä»¶
 
-#### ±£»¤Ç½ retaining wall
+#### ä¿æŠ¤å¢™ retaining wall
 49 killed as train slams into retaining wall in Buenos Aires(LATIMES)
-µØÌú×²ÉÏ±£»¤Ç½Ôì³É49ÈËËÀÍö
+åœ°é“æ’ä¸Šä¿æŠ¤å¢™é€ æˆ49äººæ­»äº¡
 
-#### ÓÅµã ¼ÛÖµ merit
+#### ä¼˜ç‚¹ ä»·å€¼ merit
 Chu: Solyndra loan based on merits, not politics(AP) 
-Öìé¦ÎÄ:Ì«ÑôÄÜ¹«Ë¾µÄÕş¸®´û¿îÊÇ»ùÓÚ¼ÛÖµ¶ø²»ÊÇ»ùÓÚÕşÖÎ
+æœ±æ££æ–‡:å¤ªé˜³èƒ½å…¬å¸çš„æ”¿åºœè´·æ¬¾æ˜¯åŸºäºä»·å€¼è€Œä¸æ˜¯åŸºäºæ”¿æ²»
 
-#### ×£¸£ ×£µ» benediction
+#### ç¥ç¦ ç¥ç¥· benediction
 Pastor pulls out of Obama inauguration benediction(LATIMES)
-ÄÁÊ¦ÍË³ö°Â°ÍÂí¾ÍÖ°×£¸£ÒÇÊ½
+ç‰§å¸ˆé€€å‡ºå¥¥å·´é©¬å°±èŒç¥ç¦ä»ªå¼
 
-#### ¸ß¼¶µÄ»§Íâ°®ºÃÕß upper outdoor fan
+#### é«˜çº§çš„æˆ·å¤–çˆ±å¥½è€… upper outdoor fan
 Snowfall a boon for Upper Midwest outdoors fans(Yahoo)
-½µÑ©¶Ô¸ß¼¶µÄ»§Íâ°®ºÃÕßÀ´ËµÊÇ¶÷»İ
+é™é›ªå¯¹é«˜çº§çš„æˆ·å¤–çˆ±å¥½è€…æ¥è¯´æ˜¯æ©æƒ 
 
-#### »¯Ê¯ fossil  Ê¹³Â¸¯ ¹Ì»¯ fossilize
+#### åŒ–çŸ³ fossil  ä½¿é™ˆè… å›ºåŒ– fossilize
 New Fossils May Redraw Human Ancestry(TIMES)
-ĞÂ»¯Ê¯¿ÉÄÜÖØĞÂ¹´»­ÈËÀà×æÏÈ
+æ–°åŒ–çŸ³å¯èƒ½é‡æ–°å‹¾ç”»äººç±»ç¥–å…ˆ
 Observatory: Fossilized Moth's Color Is Revealed With Microscopes and Math(TIMES) 
-ÏÔÎ¢¾µºÍÊıÑ§·½·¨ÈÃ±ä³É»¯Ê¯µÄ¶êµÄÑÕÉ«ÔÙÏÖ³öÀ´
+æ˜¾å¾®é•œå’Œæ•°å­¦æ–¹æ³•è®©å˜æˆåŒ–çŸ³çš„è›¾çš„é¢œè‰²å†ç°å‡ºæ¥
 
-#### ¾üÍÅ ÍÅÌå Corps  º£¾üÂ½Õ½¶Ó Marine Corps  Â½¾ü Army Corps
+#### å†›å›¢ å›¢ä½“ Corps  æµ·å†›é™†æˆ˜é˜Ÿ Marine Corps  é™†å†› Army Corps
 Marine says Corps wants him booted for Obama posts
-º£¾üÂ½Õ½¶ÓÊ¿±øËµÂ½Õ½¶ÓÒòÎª°Â°ÍÂíº£±¨Òª¿ª³ıËû
+æµ·å†›é™†æˆ˜é˜Ÿå£«å…µè¯´é™†æˆ˜é˜Ÿå› ä¸ºå¥¥å·´é©¬æµ·æŠ¥è¦å¼€é™¤ä»–
 Marine Corps forms new fighter jet squadron(Yahoo)
-Â½Õ½¶ÓÍÅ³ÉÁ¢ĞÂ·ÉĞĞÖĞ¶Ó
+é™†æˆ˜é˜Ÿå›¢æˆç«‹æ–°é£è¡Œä¸­é˜Ÿ
 Army Corps of Engineers clear-cuts lush habitat in Valley(LATIMES)
-¾ü·½¹¤³ÌÊ¦ÃÇÔÚ¹è¹ÈÓĞÇåÎúµÄÖÚ¶àµÄµØ·½È¥
+å†›æ–¹å·¥ç¨‹å¸ˆä»¬åœ¨ç¡…è°·æœ‰æ¸…æ™°çš„ä¼—å¤šçš„åœ°æ–¹å»
 Army Corps Agrees to Pay Whistle-Blower In Iraq Case(TIMES)
-Â½¾üÍ¬ÒâÏòÒÁÀ­¿ËÊÂ¼ş¸æÃÜÕßÖ§¸¶Ç®
+é™†å†›åŒæ„å‘ä¼Šæ‹‰å…‹äº‹ä»¶å‘Šå¯†è€…æ”¯ä»˜é’±
 
-#### ÔºÂä compound  µ¼µ¯»ùµØ missile compound
+#### é™¢è½ compound  å¯¼å¼¹åŸºåœ° missile compound
 Pakistan halfway done razing bin Laden's compound(AP)
-°Í»ùË¹Ì¹²»³¹µ×µØ´İ»ÙÀ­µÇÔºÂä
+å·´åŸºæ–¯å¦ä¸å½»åº•åœ°æ‘§æ¯æ‹‰ç™»é™¢è½
 Libyans bulldoze Gadhafi's Tripoli compound(AP)
-Àû±ÈÑÇÈËÓÃÍÆÍÁ»úÍÆÆ½¿¨Ôú·Æ×¡Ëù
+åˆ©æ¯”äºšäººç”¨æ¨åœŸæœºæ¨å¹³å¡æ‰è²ä½æ‰€
 Damage to Iranian missile compound(CBS) 
-¶ÔÒÁÀÊµ¼µ¯»ùµØµÄ´ò»÷
+å¯¹ä¼Šæœ—å¯¼å¼¹åŸºåœ°çš„æ‰“å‡»
 Air strike flattens building in Gaddafi compound(Reuters) 
-¿ÕÏ®µ´Æ½¿¨ÊÏ³¡µØµÄ½¨Öş
+ç©ºè¢­è¡å¹³å¡æ°åœºåœ°çš„å»ºç­‘
 Mystery shrouds the quiet man who built Bin Laden's compound
-ÉñÃØÁıÕÖ(ÕÚ¸Ç)ĞŞ½¨·¿ÎİµÄÈË
+ç¥ç§˜ç¬¼ç½©(é®ç›–)ä¿®å»ºæˆ¿å±‹çš„äºº
 Afghanistan insurgents attack government compounds in Kandahar(LATIMES)
-ÅÑÂÒÊ¿±ø¹¥´ò¿²´ó¹şÕş¸®×¤µØ
+å›ä¹±å£«å…µæ”»æ‰“åå¤§å“ˆæ”¿åºœé©»åœ°
 
-#### Ç¦ lead
+#### é“… lead
 16 L.A. businesses accused of selling jewelry tainted with lead(LATIMES)
-16¼ÒÂåÉ¼í¶ÉÌÒµ»ú¹¹±»Ö¸¿ØÊÛÂô±»Ç¦ÎÛÈ¾µÄÖé±¦
+16å®¶æ´›æ‰çŸ¶å•†ä¸šæœºæ„è¢«æŒ‡æ§å”®å–è¢«é“…æ±¡æŸ“çš„ç å®
 Recycled Battery Lead Puts Mexicans in Danger(TIMES) 
-»ØÊÕµç³ØËùº¬µÄÇ¦ÈÃÄ«Î÷¸çÏİÈëÎ£ÏÕ
+å›æ”¶ç”µæ± æ‰€å«çš„é“…è®©å¢¨è¥¿å“¥é™·å…¥å±é™©
 
-#### ·ÂÕæÇ¹ gun replica
+#### ä»¿çœŸæª gun replica
 Teenager's Death a Reminder of Gun Replicas' Dangers(TIMES)
-Ê®À´Ëêº¢×ÓÖ®ËÀÌáĞÑ·ÂÕæÇ¹ĞµµÄÎ£ÏÕ
+åæ¥å²å­©å­ä¹‹æ­»æé†’ä»¿çœŸæªæ¢°çš„å±é™©
 
-#### ÒßÃç vaccination(vaccinate)
+#### ç–«è‹— vaccination(vaccinate)
 Study: Whooping cough vaccination fades in 3 years(AP)
-°ÙÈÕ¿ÈÒßÃç½ÓÖÖÈıÄêºó½«ÏûÊ§
+ç™¾æ—¥å’³ç–«è‹—æ¥ç§ä¸‰å¹´åå°†æ¶ˆå¤±
 
-#### ·½°¸ ²ß»® scheme
+#### æ–¹æ¡ˆ ç­–åˆ’ scheme
 2 arrested in alleged death row jailbreak scheme(CBS)
-ËùËµÔÚËÀÇôÇø²ß»®Ô½ÓüµÄÏà¹ØÁ½ÈË±»²¶
+æ‰€è¯´åœ¨æ­»å›šåŒºç­–åˆ’è¶Šç‹±çš„ç›¸å…³ä¸¤äººè¢«æ•
 Designer details scheme to funnel money to Edwards
-Éè¼ÆÕßÏêÏ¸ĞğÊöÈçºÎ½«Ç®ÂıÂı×ªÒÆ¸ø°®µÂ»ªµÄ·½°¸
+è®¾è®¡è€…è¯¦ç»†å™è¿°å¦‚ä½•å°†é’±æ…¢æ…¢è½¬ç§»ç»™çˆ±å¾·åçš„æ–¹æ¡ˆ
 Global diamond scheme completes Zimbabwe's rehabilitation(Yahoo)
-È«Çò×êÊ¯¹æ»®½áÊø½ò°Í²¼Î¤µÄ»Ö¸´
+å…¨çƒé’»çŸ³è§„åˆ’ç»“æŸæ´¥å·´å¸ƒéŸ¦çš„æ¢å¤
 
-#### Èë³¡È¯ ³ĞÈÏ admission(admit)
+#### å…¥åœºåˆ¸ æ‰¿è®¤ admission(admit)
 Cal State thaws admission freeze for nonresidents(LATIMES)
-¼ÓÖİÕş¸®·ÅËÉÁË¶Ô·Ç¾ÓÃñ½øÈëÃÀ¹ú(Éí·İ³ĞÈÏ)µÄ¶³½á
+åŠ å·æ”¿åºœæ”¾æ¾äº†å¯¹éå±…æ°‘è¿›å…¥ç¾å›½(èº«ä»½æ‰¿è®¤)çš„å†»ç»“
 Supreme Court scrutinizes race-based admissions(CBS)
-×î¸ß·¨Ôº×ĞÏ¸¼ì²é»ùÓÚÑ¡Õ½µÄĞí¿É
+æœ€é«˜æ³•é™¢ä»”ç»†æ£€æŸ¥åŸºäºé€‰æˆ˜çš„è®¸å¯
 Yemeni Leader to Be Admitted Into U.S. for Medical Care(TIMES) 
-Ò²ÃÅÁìµ¼µ½ÔÊĞíµ½ÃÀ¹ú½øĞĞÖÎÁÆ
+ä¹Ÿé—¨é¢†å¯¼åˆ°å…è®¸åˆ°ç¾å›½è¿›è¡Œæ²»ç–—
 
-#### ·ç±© tempest/storm
+#### é£æš´ tempest/storm
 Saturn wracked by monster tempest(CBS) 
-ÍÁĞÇ±»¾Ş´óµÄ·ç±©»Ù»µ
+åœŸæ˜Ÿè¢«å·¨å¤§çš„é£æš´æ¯å
 
-#### Ö§Æ±±¾ checkbook
+#### æ”¯ç¥¨æœ¬ checkbook
 To Fill Out Its App Store, Microsoft Wields Its Checkbook(TIMES)
-Îª³äÊµ×Ô¼ºµÄÓ¦ÓÃÉÌµê,Î¢Èí»ÓÎèËûµÄÖ§Æ±±¾
+ä¸ºå……å®è‡ªå·±çš„åº”ç”¨å•†åº—,å¾®è½¯æŒ¥èˆä»–çš„æ”¯ç¥¨æœ¬
 
-#### Ñ©Çò ¹öÑ©Çò ´òÑ©ÕÌ snowball
+#### é›ªçƒ æ»šé›ªçƒ æ‰“é›ªä»— snowball
 Analysts fear euro zone capital flight might snowball(WAPOST)
-·ÖÎöÊ¦µ£ÓÇÅ·ÔªÇø½ğÈÚÕ½½«»áÊÇ¹öÑ©Çò
+åˆ†æå¸ˆæ‹…å¿§æ¬§å…ƒåŒºé‡‘èæˆ˜å°†ä¼šæ˜¯æ»šé›ªçƒ
 
-#### ¹âÍ· skinhead
+#### å…‰å¤´ skinhead
 3 charged in 1998 skinhead slayings near Vegas(LATIMES)
-¹âÍ·ÈËËÀÍöÊÂ¼şÖĞ,ÈıÈË±»Ö¸¿Ø
+å…‰å¤´äººæ­»äº¡äº‹ä»¶ä¸­,ä¸‰äººè¢«æŒ‡æ§
 Reformed skinhead endures agony to remove tattoos(AP)
-¸Ä¹ı×ÔĞÂµÄ¹âÍ·µ³ÈÌÊÜÍ´¿àÀ´È¥µôÎÆÉí
+æ”¹è¿‡è‡ªæ–°çš„å…‰å¤´å…šå¿å—ç—›è‹¦æ¥å»æ‰çº¹èº«
 
-#### Á½Î»ÊıÓÅÊÆ double-digit lead
+#### ä¸¤ä½æ•°ä¼˜åŠ¿ double-digit lead
 Gingrich takes double-digit lead in Iowa(CBS) 
-¸ñÁÖÀïÆæÔÚÒÂ°¢»ªÖİÓĞÁ½Î»ÊıÁìÏÈÓÅÊÆ
+æ ¼æ—é‡Œå¥‡åœ¨è¡£é˜¿åå·æœ‰ä¸¤ä½æ•°é¢†å…ˆä¼˜åŠ¿
 
-#### ÖĞĞÄ×°ÊÎÆ· centerpiece
+#### ä¸­å¿ƒè£…é¥°å“ centerpiece
 Rocket still centerpiece as NKoreans mourn Kim(Yahoo)
-»ğ¼ıÒÀ¾ÉÊÇµ¿Äî½ğÕıÈÕµÄÖĞĞÄ°ÚÊÎ
+ç«ç®­ä¾æ—§æ˜¯æ‚¼å¿µé‡‘æ­£æ—¥çš„ä¸­å¿ƒæ‘†é¥°
 
-#### ÀÁÉ¢ ³ÙÒÉ ÍÏ×Å½Å²½ foot-dragging
+#### æ‡’æ•£ è¿Ÿç–‘ æ‹–ç€è„šæ­¥ foot-dragging
 Kelly Thomas' father accuses Orange County D.A. of foot-dragging(LATIMES)
-¿­Àû¸¸Ç×Ö¸¿ØéÙ¿¤µØÇø¼ì²ì¹ÙÀÁÉ¢³ÙÒÉ
+å‡¯åˆ©çˆ¶äº²æŒ‡æ§æ©˜éƒ¡åœ°åŒºæ£€å¯Ÿå®˜æ‡’æ•£è¿Ÿç–‘
 
-#### ·´ÇÔÌı anti-eavesdropping
+#### åçªƒå¬ anti-eavesdropping
 Another blow for state's anti-eavesdropping law(Yahoo)
-ÓÖÒ»¶ÔÕş¸®·´ÇÔÌı·¨°¸µÄÖ§³Ö
+åˆä¸€å¯¹æ”¿åºœåçªƒå¬æ³•æ¡ˆçš„æ”¯æŒ
 
-#### È±Ï¯ absence
+#### ç¼ºå¸­ absence
 High-flying Chinese leader reappears after absence
-ÓĞĞÛĞÄµÄÖĞ¹úÁìµ¼ÈËÔÚÈ±Ï¯ºóÔÙ´Î³öÏÖ
+æœ‰é›„å¿ƒçš„ä¸­å›½é¢†å¯¼äººåœ¨ç¼ºå¸­åå†æ¬¡å‡ºç°
 Embattled assessor's leave of absence a good thing, D.A. says(LATIMES)
-ÑÏÕóÒÔ´ıµÄÆÀ¹ÀÔ±µÄ¼ÙÆÚÊÇÒ»¼şºÃÊÂ,µØÇø¼ì²ì¹ÙËµ
+ä¸¥é˜µä»¥å¾…çš„è¯„ä¼°å‘˜çš„å‡æœŸæ˜¯ä¸€ä»¶å¥½äº‹,åœ°åŒºæ£€å¯Ÿå®˜è¯´
 Yemen dissidents urge swift action in Saleh absence(AFP) 
-Ò²ÃÅÒì¼ûÈËÊ¿ÒªÇóÔÚÈøÀûºÕÀëÖ°ÎÊÌâÉÏ²ÉÈ¡Ñ¸ËÙĞĞ¶¯
+ä¹Ÿé—¨å¼‚è§äººå£«è¦æ±‚åœ¨è¨åˆ©èµ«ç¦»èŒé—®é¢˜ä¸Šé‡‡å–è¿…é€Ÿè¡ŒåŠ¨
 
-#### Óà²¨ ºó¹û aftermath/result/consequence/fallout
+#### ä½™æ³¢ åæœ aftermath/result/consequence/fallout
 Insight: Two firms flourish in frenzied MF Global aftermath(Reuters)
-ÔÚ·è¿ñµØÂüÊÏ½ğÈÚµÄÓà²¨ºó¹ûÖĞ,Á½¼Ò¹«Ë¾·±ÈÙ
+åœ¨ç–¯ç‹‚åœ°æ›¼æ°é‡‘èçš„ä½™æ³¢åæœä¸­,ä¸¤å®¶å…¬å¸ç¹è£
 Japan mourns; grapples with tsunami aftermath
-ÈÕ±¾µ¿Äî:Å¬Á¦½â¾öº£Ğ¥Óà²¨
+æ—¥æœ¬æ‚¼å¿µ:åŠªåŠ›è§£å†³æµ·å•¸ä½™æ³¢
 In tornadoes' aftermath, Dallas-area officials feel grateful(LATIMES)
-ì«·çµÄÓà²¨ÖĞ,´ïÀ­Ë¹µØ·½Õş¸®¸Ğ¼¤µÄ
+é£“é£çš„ä½™æ³¢ä¸­,è¾¾æ‹‰æ–¯åœ°æ–¹æ”¿åºœæ„Ÿæ¿€çš„
 
-#### ÈË¹¤ÖÆÆ· artifact
+#### äººå·¥åˆ¶å“ artifact
 Discovery of Indian artifacts complicates Genesis solar project(LATIMES)
-Ó¡¶È·¢ÏÖµÄÈË¹¤ÖÆÆ·ÈÃÌ«Ñô¹¤³ÌÆğÔ´¸´ÔÓ»¯
+å°åº¦å‘ç°çš„äººå·¥åˆ¶å“è®©å¤ªé˜³å·¥ç¨‹èµ·æºå¤æ‚åŒ–
 Gangster artifacts ready for auction block(CBS)
-Ç¿µÁÍÁ·ËµÄÖÆÆ·ÔÚÅÄÂôÌ¨ÉÏ×¼±¸ºÃÁË
+å¼ºç›—åœŸåŒªçš„åˆ¶å“åœ¨æ‹å–å°ä¸Šå‡†å¤‡å¥½äº†
 S.F. terminal dig unearths Gold Rush artifacts(CBS) 
-¾É½ğÉ½³µÕ¾ÍÚ¾ò»î¶¯·¢¾ò³öµØÏÂÂñ²ØµÄÌÔ½ğ³±Ê±ÆÚÎï¼ş
+æ—§é‡‘å±±è½¦ç«™æŒ–æ˜æ´»åŠ¨å‘æ˜å‡ºåœ°ä¸‹åŸ‹è—çš„æ·˜é‡‘æ½®æ—¶æœŸç‰©ä»¶
 
-#### ¶éÌ¥ Ê§°Ü abortion
+#### å •èƒ å¤±è´¥ abortion
 Perry: Romney abortion flip was for 'convenience'(AP)
-Â³Ã·Äá¶éÌ¥Ì¬¶È×ª±äÊÇÎªÁËÊµÓÃ
+é²æ¢…å°¼å •èƒæ€åº¦è½¬å˜æ˜¯ä¸ºäº†å®ç”¨
 In Komen fallout, abortion-breast cancer myth is resurrected(LATIMES)
-ÔÚ¿ÆÂüÓà²¨ÖĞ,Ê§°ÜµÄÈé°©Éñ»°±»¸´»î
+åœ¨ç§‘æ›¼ä½™æ³¢ä¸­,å¤±è´¥çš„ä¹³ç™Œç¥è¯è¢«å¤æ´»
 SD governor signs 3-day wait for abortion into law
-ÄÏ´ï¿ÆÌØÖİ³¤¶Ô¶éÌ¥Á¢·¨ÑÓ³¤ÈıÌìÆÚÏŞ
+å—è¾¾ç§‘ç‰¹å·é•¿å¯¹å •èƒç«‹æ³•å»¶é•¿ä¸‰å¤©æœŸé™
 After criticism, Cain clarifies his abortion views(AP)
-ÔÚ±»ÅúÆÀºó,¿­¶÷³ÎÇåËû¶éÌ¥¹Ûµã
+åœ¨è¢«æ‰¹è¯„å,å‡¯æ©æ¾„æ¸…ä»–å •èƒè§‚ç‚¹
 
-#### Ò»Ãù¾ªÈË ÖØ°õÕ¨µ¯ blockbuster
+#### ä¸€é¸£æƒŠäºº é‡ç£…ç‚¸å¼¹ blockbuster
 Questions and answers on blockbuster Facebook IPO
-¶ÔÁ³Æ×ÉÏÊĞÒ»Ãù¾ªÈËµÄÒÉÎÊºÍ»Ø´ğ
+å¯¹è„¸è°±ä¸Šå¸‚ä¸€é¸£æƒŠäººçš„ç–‘é—®å’Œå›ç­”
 "X-Men First Class" next summer blockbuster?(CBS)
-XÕ½¾¯ÏÂ¸öÊîÆÚµÄ´óÆ¬(¾ŞĞÍÕ¨µ¯)
+Xæˆ˜è­¦ä¸‹ä¸ªæš‘æœŸçš„å¤§ç‰‡(å·¨å‹ç‚¸å¼¹)
 'Leonardo da Vinci' Blockbuster at National Gallery in London(TIMES) 
-´ï·ÒÆæ´ó×÷ÔÚÂ×¶Ø¹ú¼Ò»­ÀÈÕ¹³ö
+è¾¾èŠ¬å¥‡å¤§ä½œåœ¨ä¼¦æ•¦å›½å®¶ç”»å»Šå±•å‡º
 
-#### Á­µ¶ sickle  Á­µ¶ĞÎÏ¸°ûÌØÕ÷ Á­×´Ï¸°ûÑªÖ¢ sickle cell trait/sicklemia
+#### é•°åˆ€ sickle  é•°åˆ€å½¢ç»†èƒç‰¹å¾ é•°çŠ¶ç»†èƒè¡€ç—‡ sickle cell trait/sicklemia
 Sickle cell trait sidelines Pittsburgh Steelers player(CBS)
-Á­×´Ï¸°ûÑªÖ¢ÈÃNFLÆ¥×È±¤¸ÖÌú¶ÓÇòÔ±ÍË³ö±ÈÈü
+é•°çŠ¶ç»†èƒè¡€ç—‡è®©NFLåŒ¹å…¹å ¡é’¢é“é˜Ÿçƒå‘˜é€€å‡ºæ¯”èµ›
 
-#### ¸Éºµ ºµÔÖ drought  ÎŞÊ¤ÆÚ victory drought
+#### å¹²æ—± æ—±ç¾ drought  æ— èƒœæœŸ victory drought
 Advertising: Hoping to Slake Viewers' Thirst After 'Mad Men' Drought(TIMES)
-ÔÚ'·è¿ñÈË'ºµÔÖÖ®ºó,Ï£ÍûÂú×ã¹ÛÖÚµÄ¼¢¿Ê
+åœ¨'ç–¯ç‹‚äºº'æ—±ç¾ä¹‹å,å¸Œæœ›æ»¡è¶³è§‚ä¼—çš„é¥¥æ¸´
 Long, hot summer: Wildfires thrive on drought, heat and wind(LATIMES)
-ÔÚ¸Éºµ,Ñ×ÈÈ,´ó·çÖúÍÆÏÂ,É½»ğËÁÂÓ
+åœ¨å¹²æ—±,ç‚çƒ­,å¤§é£åŠ©æ¨ä¸‹,å±±ç«è‚†æ 
 La Nina brings flood risks and drought to the West(AP) 
-ÄÉÄáÑÇÏÖÏó´øÀ´ºéË®ºÍ¸Éºµ
+çº³å°¼äºšç°è±¡å¸¦æ¥æ´ªæ°´å’Œå¹²æ—±
 Texas drought has farmers on the ropes(LATIMES)
-µÂÖİ¸ÉºµÈÃÅ©Ãñ´¦ÓÚÎŞÖúµÄ¾³µØ
+å¾·å·å¹²æ—±è®©å†œæ°‘å¤„äºæ— åŠ©çš„å¢ƒåœ°
 Drought reveals ghost towns, graves(CBS) 
-¸ÉºµÏÔÂ¶³ö¹í³ÇºÍ·ØÄ¹
+å¹²æ—±æ˜¾éœ²å‡ºé¬¼åŸå’ŒåŸå¢“
 Tiger Woods ends victory drought(CBS) 
-Ì©¸ñÎé×È½áÊøÎŞÊ¤ÆÚ
+æ³°æ ¼ä¼å…¹ç»“æŸæ— èƒœæœŸ
 
-#### ÀäÕ½ cold war
+#### å†·æˆ˜ cold war
 A Cold War Bunker Shelters Art in Former Yugoslavia(TIMES)
-Ò»¸öÀäÕ½µÄµØÏÂ±¤Àİ±£»¤ÁËÇ°ÄÏË¹À­·òµÄÒÕÊõ
+ä¸€ä¸ªå†·æˆ˜çš„åœ°ä¸‹å ¡å’ä¿æŠ¤äº†å‰å—æ–¯æ‹‰å¤«çš„è‰ºæœ¯
 
-#### ĞĞ»ß »ßÂ¸ bribe(bribery)
+#### è¡Œè´¿ è´¿èµ‚ bribe(bribery)
 I Paid a Bribe and Similar Corruption-Exposing Sites Spread(TIMES)
-ÎÒĞĞ»ßÂ¸ºÍÀàËÆ¸¯°Ü±©Â¶ÍøÕ¾À©ÕÅ
+æˆ‘è¡Œè´¿èµ‚å’Œç±»ä¼¼è…è´¥æš´éœ²ç½‘ç«™æ‰©å¼ 
 Report: Wal-Mart hushed up bribe network in Mexico(CBS)
-ÎÖ¶ûÂê×èÖ¹»ßÂ¸³óÎÅÕÅÑï³öÈ¥
+æ²ƒå°”ç›é˜»æ­¢è´¿èµ‚ä¸‘é—»å¼ æ‰¬å‡ºå»
 
-#### ¶·¼¦ cockfight
+#### æ–—é¸¡ cockfight
 Cockfight shooting believed to be sloppy hit
-¶·¼¦»î¶¯ÖĞÇ¹»÷±»ÈÏÎªÊÇÂí»¢µÄ´ò»÷
+æ–—é¸¡æ´»åŠ¨ä¸­æªå‡»è¢«è®¤ä¸ºæ˜¯é©¬è™çš„æ‰“å‡»
 
-#### ÍâĞÎÂÖÀª ¹«²¼ ÃèÊö outline  ÃèÊöÅÅ·ÅÄ¿±ê outline emission  ¹«²¼¼Æ»® outline plan
+#### å¤–å½¢è½®å»“ å…¬å¸ƒ æè¿° outline  æè¿°æ’æ”¾ç›®æ ‡ outline emission  å…¬å¸ƒè®¡åˆ’ outline plan
 China Outlines Cuts in Carbon Emissions(TIMES) 
-ÖĞ¹ú¹«²¼Ì¼ÅÅ·ÅµÄÏ÷¼õ
+ä¸­å›½å…¬å¸ƒç¢³æ’æ”¾çš„å‰Šå‡
 Obama outlines $3-trillion deficit plan, rejects 'class warfare' claim(LATIMES)
-°Â°ÍÂí¹«²¼³à×Ö¼Æ»®,¾Ü¾ø½×¼¶¶·Õù¶ÏÑÔ
+å¥¥å·´é©¬å…¬å¸ƒèµ¤å­—è®¡åˆ’,æ‹’ç»é˜¶çº§æ–—äº‰æ–­è¨€
 
-#### ÔÎµ¹ ÔÎØÊ swoon/faint
+#### æ™•å€’ æ™•å¥ swoon/faint
 The Wall Street heretic who called Apple's swoon
-»ª¶û½Ö³ÆÆ»¹ûµ¹ÏÂµÄÒì½ÌÍ½
+åå°”è¡—ç§°è‹¹æœå€’ä¸‹çš„å¼‚æ•™å¾’
 China delegates swoon at their proximity to power(Yahoo)
-ÖĞ¹ú´ú±í»èµ¹ÔÚÁÙ½ü¸ß²ãµÄµØ·½
+ä¸­å›½ä»£è¡¨æ˜å€’åœ¨ä¸´è¿‘é«˜å±‚çš„åœ°æ–¹
 
-#### º£±ßÓÎÀÖ³¡ seaside playground
+#### æµ·è¾¹æ¸¸ä¹åœº seaside playground
 In  Tsunami-Torn City, Seaside Playgrounds Become Debris Dumps(TIMES) 
-±»º£Ğ¥Ëğ»µµÄ³ÇÊĞ,º£±ßÓÎÀÖ³¡±ä³É²Ğº¡Çãµ¹³¡
+è¢«æµ·å•¸æŸåçš„åŸå¸‚,æµ·è¾¹æ¸¸ä¹åœºå˜æˆæ®‹éª¸å€¾å€’åœº
 
-#### ³Ğ°ìÕß ´«²¥Õß purveyor  É«Çé´«²¥Õß porn purveyor
+#### æ‰¿åŠè€… ä¼ æ’­è€… purveyor  è‰²æƒ…ä¼ æ’­è€… porn purveyor
 Feud between casino mogul and porn purveyor enters L.A. court(LATIMES)
-¶Ä³¡´óºàºÍÉ«Çé´«²¥ÕßÖ®¼äÙí³ğ½øÈë·¨Í¥ÉóÀí
+èµŒåœºå¤§äº¨å’Œè‰²æƒ…ä¼ æ’­è€…ä¹‹é—´å¤™ä»‡è¿›å…¥æ³•åº­å®¡ç†
 
-#### ½©Ê¬ Ä¾ÄÉ´ô°åµÄÈË zombie  ½©Ê¬ÒøĞĞ zombie bank
+#### åƒµå°¸ æœ¨çº³å‘†æ¿çš„äºº zombie  åƒµå°¸é“¶è¡Œ zombie bank
 Canada is well-prepared for a zombie invasion(WAPOST)
-¼ÓÄÃ´óÒÑ×öºÃÍê±¸Ô¤°¸À´Ó¦¶Ô½©Ê¬ÈëÇÖ
+åŠ æ‹¿å¤§å·²åšå¥½å®Œå¤‡é¢„æ¡ˆæ¥åº”å¯¹åƒµå°¸å…¥ä¾µ
 Help in European Financial Crisis Could Spawn 'Zombie Banks'(TIMES)
-¶ÔÅ·ÖŞ½ğÈÚÎ£»ú°ïÖú¿ÉÄÜ´óÁ¿²úÉú'½©Ê¬ÒøĞĞ'
+å¯¹æ¬§æ´²é‡‘èå±æœºå¸®åŠ©å¯èƒ½å¤§é‡äº§ç”Ÿ'åƒµå°¸é“¶è¡Œ'
 
-#### µÃÀ´ËÙ(Õë¶Ô³µÄÚ³ÔµÄ·şÎñ´°¿Ú) drive-thru
+#### å¾—æ¥é€Ÿ(é’ˆå¯¹è½¦å†…åƒçš„æœåŠ¡çª—å£) drive-thru
 Fast-food fan gets drive-thru send-off after funeral(CBS)
-ÔáÀñºó¿ì²Í·ÛË¿ÔÚµÃÀ´ËÙËÍĞĞËÍ±ğ
+è‘¬ç¤¼åå¿«é¤ç²‰ä¸åœ¨å¾—æ¥é€Ÿé€è¡Œé€åˆ«
 
-#### ĞÂÄï bride
+#### æ–°å¨˜ bride
 Video courtship of a terrorist and his bride(CBS)
-¿Ö²À·Ö×ÓºÜĞÂÄïµÄÁµ°®ÆÚÊÓÆµ
+ææ€–åˆ†å­å¾ˆæ–°å¨˜çš„æ‹çˆ±æœŸè§†é¢‘
 Paralyzed bride adjusts to life, ready to marry(CBS)
-Ì±»¾µÄĞÂÄïÊÊÓ¦Éú»î
+ç˜«ç—ªçš„æ–°å¨˜é€‚åº”ç”Ÿæ´»
 Bar owner helps bride through Facebook(CBS)
-¾Æ°É°ïÖúĞÂÄï´ÓÊ¼ÖÁÖÕ¸üĞÂÁ³Æ×
+é…’å§å¸®åŠ©æ–°å¨˜ä»å§‹è‡³ç»ˆæ›´æ–°è„¸è°±
 Turkish Television Takes on Topic of Child Brides(TIMES) 
-ÍÁ¶úÆäµçÊÓ²¥·Å¶ùÍ¯ĞÂÄï»°Ìâ
+åœŸè€³å…¶ç”µè§†æ’­æ”¾å„¿ç«¥æ–°å¨˜è¯é¢˜
 
-#### ÂäÆÇÁÊµ¹ down and out
+#### è½é­„æ½¦å€’ down and out
 For London Youth, Down and Out Is Way of Life(TIMES)
-¶ÔÓÚÓ¢¹úÄêÇáÈË,ÂäÆÇÁÊµ¹ÊÇÉú»îµÄ·½Ê½
+å¯¹äºè‹±å›½å¹´è½»äºº,è½é­„æ½¦å€’æ˜¯ç”Ÿæ´»çš„æ–¹å¼
 
-#### ¸¸µÀ fatherhood
+#### çˆ¶é“ fatherhood
 In Study, Fatherhood Leads to Drop in Testosterone(TIMES)
-ÑĞ¾¿±íÃ÷,¸¸Ç×ÒòËØµ¼ÖÂØºÍè¼¤ËØÏÂ½µ
+ç ”ç©¶è¡¨æ˜,çˆ¶äº²å› ç´ å¯¼è‡´ç¾ä¸¸æ¿€ç´ ä¸‹é™
 
-#### ¾ü·§ warlord
+#### å†›é˜€ warlord
 UN urges global help to equip force hunting warlord Kony(Yahoo)
-ÁªºÏ¹úÒªÇóÈ«ÇòĞ­×÷Åä±¸Á¦Á¿À´×¥²¶¾ü·§¿ÆÄá
+è”åˆå›½è¦æ±‚å…¨çƒåä½œé…å¤‡åŠ›é‡æ¥æŠ“æ•å†›é˜€ç§‘å°¼
 AP Exclusive: Ivory Coast warlord cites heavy toll
-¶À¼ÒĞÂÎÅ:¿ÆÌØµÏÍß¾ü·§Ì¸µ½ÑÏÖØ»Ù»µ
+ç‹¬å®¶æ–°é—»:ç§‘ç‰¹è¿ªç“¦å†›é˜€è°ˆåˆ°ä¸¥é‡æ¯å
 
-#### ·ÉÍ§ blimp
+#### é£è‰‡ blimp
 U.S. tests spy blimps on Mexico border(CBS)
-ÃÀ¹úÔÚÃÀÄ«±ß½çÊÔÑé¼äµı·ÉÍ§
+ç¾å›½åœ¨ç¾å¢¨è¾¹ç•Œè¯•éªŒé—´è°é£è‰‡
 
-#### ·Àµ¯ bombproof
+#### é˜²å¼¹ bombproof
 Rescued horse is retrained to be a 'bombproof' pack animal(LATIMES)
-±»¾ÈµÄÂí±»ÖØĞÂÑµÁ·³ÉÓ¦¶Ô°ü¹üÕ¨µ¯µÄ·Àµ¯¶¯Îï
+è¢«æ•‘çš„é©¬è¢«é‡æ–°è®­ç»ƒæˆåº”å¯¹åŒ…è£¹ç‚¸å¼¹çš„é˜²å¼¹åŠ¨ç‰©
 
-#### ¾Æ wine/liquor/alcohol  ºì¾Æ Red wine  ¾ÆÉÌ wine dealer  Äğ¾ÆÉÌ Winemakers  Ã×(»Æ)¾Æ rice wine
+#### é…’ wine/liquor/alcohol  çº¢é…’ Red wine  é…’å•† wine dealer  é…¿é…’å•† Winemakers  ç±³(é»„)é…’ rice wine
 Red wine researcher flagged for fake data(CBS)
-ºì¾ÆÑĞ¾¿ÕßÒòÎªĞé¼ÙÊı¾İ±äÆ£¾ë
+çº¢é…’ç ”ç©¶è€…å› ä¸ºè™šå‡æ•°æ®å˜ç–²å€¦
 Wine Dealer Accused of Trying to Sell Counterfeits(TIMES)
-¾ÆÉÌ±»Ö¸¿ØÊÔÍ¼Âô¼Ù»õ
+é…’å•†è¢«æŒ‡æ§è¯•å›¾å–å‡è´§
 Europe's Winemakers Look to Asia to Offset Slow Sales in West(TIMES)
-Å·ÖŞ¾ÆÉÌÖ¸ÍûÑÇÖŞÏúÊÛÔö³¤²¹³¥ÔÚÎ÷·½¹ú¼ÒµÄÏúÊÛ¼õ»º
+æ¬§æ´²é…’å•†æŒ‡æœ›äºšæ´²é”€å”®å¢é•¿è¡¥å¿åœ¨è¥¿æ–¹å›½å®¶çš„é”€å”®å‡ç¼“
 Illegal Sale of Rice Wine Thrives in Chinese Enclaves(TIMES)
-·Ç·¨ÏúÊÛÃ×(»Æ)¾ÆÔÚÖĞ¹ú·ÉµØ·±ÈÙ²şâ±
+éæ³•é”€å”®ç±³(é»„)é…’åœ¨ä¸­å›½é£åœ°ç¹è£çŒ–ç—
 
-#### Â¼ÏñÊ¦ videographer
+#### å½•åƒå¸ˆ videographer
 Caught on tape: Vegas cop beats videographer(CBS)
-À­Ë¹Î¬¼ÓË¹¾¯²ìÅ¹´òÂ¼ÏñÊ¦¹ı³Ì±»¼ÇÂ¼ÏÂÀ´
+æ‹‰æ–¯ç»´åŠ æ–¯è­¦å¯Ÿæ®´æ‰“å½•åƒå¸ˆè¿‡ç¨‹è¢«è®°å½•ä¸‹æ¥
 
-#### ÔİÍ£ ÖĞÖ¹ moratorium/suspension/halt
+#### æš‚åœ ä¸­æ­¢ moratorium/suspension/halt
 North Korea Is Said to Consider Nuclear Weapons Test Moratorium(TIMES)
-³¯ÏÊ¾İËµ¿¼ÂÇÔİÍ£/ÖĞÖ¹ºËÎäÆ÷ÊÔÑé
+æœé²œæ®è¯´è€ƒè™‘æš‚åœ/ä¸­æ­¢æ ¸æ­¦å™¨è¯•éªŒ
 
-#### ×¯Ô° ¹ÜÇø  manor
+#### åº„å›­ ç®¡åŒº  manor
 48 Hours Mystery: Murder at the Manor(CBS) 
-48Ğ¡Ê±µÄÃØÃÜ:×¯Ô°Ä±É±°¸
+48å°æ—¶çš„ç§˜å¯†:åº„å›­è°‹æ€æ¡ˆ
 
-#### Ğ»ÌìĞ»µØ ÈçÊÍÖØ¸ºµÄ¸Ğ¾õ good riddance
+#### è°¢å¤©è°¢åœ° å¦‚é‡Šé‡è´Ÿçš„æ„Ÿè§‰ good riddance
 Christie says good riddance to Brooklyn-bound Nets
-¿ËÀïË¹µÙËµ³ö¿ÉÏ²µÄ°ÚÍÑ
+å…‹é‡Œæ–¯è’‚è¯´å‡ºå¯å–œçš„æ‘†è„±
 Goodbye and good riddance, 112th Congress(WAPOST)
-ÔÙ¼û,Ğ»ÌìĞ»µØ,ÕâÒ»½ì¹ú»á
+å†è§,è°¢å¤©è°¢åœ°,è¿™ä¸€å±Šå›½ä¼š
 
-#### ÎüÄÌÆ÷ breast pump
+#### å¸å¥¶å™¨ breast pump
 Mother lode: Offended by an Office Breast Pump(TIMES)
-Ö÷¿óÂö/Ä¸Âö:±»¹Ù·½ÎüÄÌÆ÷Ã°·¸
+ä¸»çŸ¿è„‰/æ¯è„‰:è¢«å®˜æ–¹å¸å¥¶å™¨å†’çŠ¯
 The breast pump industry is booming, thanks to Obamacare(WAPOST)
-µÃÒæÓÚ°Â°ÍÂíÒ½±£·¨,ÎüÄÌÆ÷²úÒµºÜ·±ÈÙ
+å¾—ç›Šäºå¥¥å·´é©¬åŒ»ä¿æ³•,å¸å¥¶å™¨äº§ä¸šå¾ˆç¹è£
 
-#### Ï´Àñ baptism
+#### æ´—ç¤¼ baptism
 Mormons apologize for posthumous Jewish baptism(AP)
-Ä§ÃÅ½ÌÍ½µÀÇ¸,ÎªËÀºóµÄÓÌÌ«Ï´Àñ
+é­”é—¨æ•™å¾’é“æ­‰,ä¸ºæ­»åçš„çŠ¹å¤ªæ´—ç¤¼
 Mormon church to warn members of proxy baptisms(CBS)
-Ä¦ÃÅ½Ì½ÌÌÃ¾¯¸æ´úÀíÏ´ÀñĞÅÍ½
+æ‘©é—¨æ•™æ•™å ‚è­¦å‘Šä»£ç†æ´—ç¤¼ä¿¡å¾’
 Southern Baptist leader reprimanded, show canceled
-ÄÏ²¿Ï´Àñ½ÌÁìµ¼ÈË±»Ñµ³â,Õ¹Ê¾È¡Ïû
+å—éƒ¨æ´—ç¤¼æ•™é¢†å¯¼äººè¢«è®­æ–¥,å±•ç¤ºå–æ¶ˆ
 
-#### Ò¬×Ó coconut
+#### æ¤°å­ coconut
 India activist ends hunger strike with a sip of coconut water(LATIMES)
-Ó¡¶È»î¶¯Õß½áÊø¾øÊ³¿¹ÒéÃòÁËÒ»¿ÚÒ¬×ÓË®
+å°åº¦æ´»åŠ¨è€…ç»“æŸç»é£ŸæŠ—è®®æŠ¿äº†ä¸€å£æ¤°å­æ°´
 
-#### ½â·ÅÕß liberator
+#### è§£æ”¾è€… liberator
 Dachau survivor and liberator meet 6 decades later(AP)
-µÂ¹ú´ïºÀ¼¯ÖĞÓªĞÒ´æÕßºÍ½â·ÅÕß60ÄêºóÏàÓö
+å¾·å›½è¾¾è±ªé›†ä¸­è¥å¹¸å­˜è€…å’Œè§£æ”¾è€…60å¹´åç›¸é‡
 
-#### ¾ıÖ÷ÖÆ monarchy
+#### å›ä¸»åˆ¶ monarchy
 European crisis puts new spotlight on monarchies' spending(WAPOST)
-Å·ÖŞÎ£»úÈÃ¾ıÖ÷ÖÆ»¨·Ñ³ÉÎª½¹µã
+æ¬§æ´²å±æœºè®©å›ä¸»åˆ¶èŠ±è´¹æˆä¸ºç„¦ç‚¹
 Royalists Step Up Efforts to Defend Thai Monarchy(TIMES) 
-»ÊÊÒÌá¸ßÅ¬Á¦À´±£ÎÀÌ©¹ú¾ıÖ÷ÖÆ
+çš‡å®¤æé«˜åŠªåŠ›æ¥ä¿å«æ³°å›½å›ä¸»åˆ¶
 
-#### ÆøÏóÌ¨ observatory
+#### æ°”è±¡å° observatory
 Observatory: Rare Mutation Causes Lack of Fingerprints(TIMES)
-ÆøÏóÌ¨:º±¼ûµÄÍ»±ä,µ¼ÖÂÌØÕ÷È±·¦
+æ°”è±¡å°:ç½•è§çš„çªå˜,å¯¼è‡´ç‰¹å¾ç¼ºä¹
 
-#### µ÷×Ó ±í´ï ½²Êö pitch ¶¨µ÷×Ó make pitch for/make pitch to do
+#### è°ƒå­ è¡¨è¾¾ è®²è¿° pitch å®šè°ƒå­ make pitch for/make pitch to do
 No Florida-specific pitches yet from Santorum(CBS)
-È»¶øÃ»ÓĞ·ğÖİÌØ¶¨µÄ¿´·¨À´×ÔÉ£µÂÀ­Ä·
+ç„¶è€Œæ²¡æœ‰ä½›å·ç‰¹å®šçš„çœ‹æ³•æ¥è‡ªæ¡‘å¾·æ‹‰å§†
 Rick Santorum tailors his pitch to South Florida Latinos(LATIMES)
-É£¶àÄ·²Ã¸Ä·¢ÑÔÊÊÓ¦·ğÖİÀ­¶¡ÈË¿Ú
+æ¡‘å¤šå§†è£æ”¹å‘è¨€é€‚åº”ä½›å·æ‹‰ä¸äººå£
 Romney, Santorum in late pitches for Michigan votes(Reuters)
-Â³Ã·ÄáºÍÉ£¶àÀ­Ä·ÎªÃÜĞª¸ùÖİÍ¶Æ±Ç°×îºóµÄ·¢ÑÔ
+é²æ¢…å°¼å’Œæ¡‘å¤šæ‹‰å§†ä¸ºå¯†æ­‡æ ¹å·æŠ•ç¥¨å‰æœ€åçš„å‘è¨€
 House election results cloud Obama's jobs plan pitch(LATIMES)
-¹ú»áÑ¡¾Ù½á¹û¸ø°Â°ÍÂí¾ÍÒµ¼Æ»®¹ÊÊÂÁıÉÏÒõÔÆ
+å›½ä¼šé€‰ä¸¾ç»“æœç»™å¥¥å·´é©¬å°±ä¸šè®¡åˆ’æ•…äº‹ç¬¼ä¸Šé˜´äº‘
 House Republicans make cross-party pitch to embolden debt 'supercommittee'(WAPOST)
-¹²ºÍµ³²ÎÔºÖÆ¶¨¿çµ³µÄ»ùµ÷¸øÕ®Îñ³¬¼¶Î¯Ô±»á×³µ¨
+å…±å’Œå…šå‚é™¢åˆ¶å®šè·¨å…šçš„åŸºè°ƒç»™å€ºåŠ¡è¶…çº§å§”å‘˜ä¼šå£®èƒ†
 Obama, Hu pitching different trade agendas(Reuters)
-°Â°ÍÂíºú½õÌÎ½²Êö²»Í¬µÄÃ³Ò×Òé³Ì
+å¥¥å·´é©¬èƒ¡é”¦æ¶›è®²è¿°ä¸åŒçš„è´¸æ˜“è®®ç¨‹
 Obama State of the Union Address to Make Pitch for Economic Fairness(TIMES)
-°Â°ÍÂí¹úÇé×ÉÎÄÎª¾­¼Ã¹«Æ½¶¨ÏÂµ÷×Ó
+å¥¥å·´é©¬å›½æƒ…å’¨æ–‡ä¸ºç»æµå…¬å¹³å®šä¸‹è°ƒå­
 In Ohio, Romney ads against auto bailout make pitch to the decideds(WAPOST) 
-¶íº¥¶íÖİÂ³Ã·Äá·´¶Ô¾ÈÔ®Æû³µÒµµÄ¹ã¸æ×ö³öÁË¾ö¶¨ĞÔµÄµ÷×Ó
+ä¿„äº¥ä¿„å·é²æ¢…å°¼åå¯¹æ•‘æ´æ±½è½¦ä¸šçš„å¹¿å‘Šåšå‡ºäº†å†³å®šæ€§çš„è°ƒå­
 
-#### Ê±Çø·Ö¸îÏß time-jumping
+#### æ—¶åŒºåˆ†å‰²çº¿ time-jumping
 New Year cheer starts early in time-jumping Samoa(AP) 
-ÔÚÊ±Çø·Ö¸îÏßµÄÈøÄ¦ÑÇµØÇøĞÂÄêÇì×£×îÔç¿ªÊ¼
+åœ¨æ—¶åŒºåˆ†å‰²çº¿çš„è¨æ‘©äºšåœ°åŒºæ–°å¹´åº†ç¥æœ€æ—©å¼€å§‹
 
-#### ØÒ¶î plaque
+#### åŒ¾é¢ plaque
 Stripping away a small town's plaque stories(LATIMES)
-½ÒµôĞ¡³ÇØÒ¶î¹ÊÊÂ
+æ­æ‰å°åŸåŒ¾é¢æ•…äº‹
 
-#### ºì÷®Óã sockeye salmon
+#### çº¢é³Ÿé±¼ sockeye salmon
 Northwest sees record returns of sockeye salmon(Yahoo)
-Î÷±±²¿³öÏÖ´´¼ÍÂ¼µÄºìÑÛ´óÂí¹şÓã»ØÁ÷¼ÇÂ¼
+è¥¿åŒ—éƒ¨å‡ºç°åˆ›çºªå½•çš„çº¢çœ¼å¤§é©¬å“ˆé±¼å›æµè®°å½•
 
-#### ¶¥µã ¸ß³± µ½´ï¶¥µã climax  ´ïµ½¶¥µã reache climax
-Åµ¶¡É½¿ñ»¶´ïµ½¿ä´óÆäÊµµÄ¸ß³±
+#### é¡¶ç‚¹ é«˜æ½® åˆ°è¾¾é¡¶ç‚¹ climax  è¾¾åˆ°é¡¶ç‚¹ reache climax
+è¯ºä¸å±±ç‹‚æ¬¢è¾¾åˆ°å¤¸å¤§å…¶å®çš„é«˜æ½®
 
-#### ºóÊÓ¾µ rearview  ºó²¿µÄ rear
+#### åè§†é•œ rearview  åéƒ¨çš„ rear
 Delays litter long road to vehicle rearview rules(Yahoo)
-ÑÓ³ÙÔàÂÒ³¤Â·ÉÏ³µÁ¾ºóÊÓ¾µ¹æÔò
+å»¶è¿Ÿè„ä¹±é•¿è·¯ä¸Šè½¦è¾†åè§†é•œè§„åˆ™
 
-#### ¾«Éñ¼ì²â mental exam
+#### ç²¾ç¥æ£€æµ‹ mental exam
 Accused White House shooter to have mental exam(Reuters) 
-±»Ö¸¿ØµÄ°×¹¬Ç¹ÊÖ½ÓÊÜ¾«Éñ¼ì²â
+è¢«æŒ‡æ§çš„ç™½å®«æªæ‰‹æ¥å—ç²¾ç¥æ£€æµ‹
 
-#### ÎïÒµË° household tax
+#### ç‰©ä¸šç¨ household tax
 Half of Irish Homeowners Join Boycott of Household Tax(TIMES)
-°®¶ûÀ¼Ò»°ëµÄÒµÖ÷,¼ÓÈë¶ÔÎïÒµË°µÄµÖÖÆ
+çˆ±å°”å…°ä¸€åŠçš„ä¸šä¸»,åŠ å…¥å¯¹ç‰©ä¸šç¨çš„æŠµåˆ¶
 
-#### Í£°Ú Í£¹¤ lockout
+#### åœæ‘† åœå·¥ lockout
 Judge sides with NFL players, says end lockout(CBS)
-·¨¹ÙÕ¾ÇòÔ±Ò»±ßÖ§³Ö½áÊøÍ£¹¤
+æ³•å®˜ç«™çƒå‘˜ä¸€è¾¹æ”¯æŒç»“æŸåœå·¥
 NFL lockout lifted; judge rules in favor of players(LATIMES)
-Ö°±ùÍ£¹¤½áÊø·¨¹Ù²Ã¾öÖ§³ÖÇòÔ±
+èŒå†°åœå·¥ç»“æŸæ³•å®˜è£å†³æ”¯æŒçƒå‘˜
 NFL lockout: Owners ratify deal to end lockout(LATIMES)
-éÏé­ÇòÁªÃËÍ£°Ú,×Ê·½Åú×¼Ğ­Òé½áÊøÍ£°Ú
+æ©„æ¦„çƒè”ç›Ÿåœæ‘†,èµ„æ–¹æ‰¹å‡†åè®®ç»“æŸåœæ‘†
 
-#### Ò»²¨ Ò»ÂÖ (a) wave of   ¸ÏÉÏÒ»²¨Á÷ĞĞ·ç³± riding wave of popularity
+#### ä¸€æ³¢ ä¸€è½® (a) wave of   èµ¶ä¸Šä¸€æ³¢æµè¡Œé£æ½® riding wave of popularity
 Queen marks diamond jubilee riding wave of popularity
-ÒÁÀûÉ¯°×Å®ÍõÇì×£×êÊ¯ÖÜÄêÇì¼İ×ÅÁ÷ĞĞµÄ·ç³±
+ä¼Šåˆ©èç™½å¥³ç‹åº†ç¥é’»çŸ³å‘¨å¹´åº†é©¾ç€æµè¡Œçš„é£æ½®
 Syria offers concessions amid wave of unrest (AP)
-ĞğÀûÑÇÔÚÕş¾Ö¶¯µ´ÀË³±ÖĞ´ğÓ¦Í×Ğ­ÈÃ²½
+å™åˆ©äºšåœ¨æ”¿å±€åŠ¨è¡æµªæ½®ä¸­ç­”åº”å¦¥åè®©æ­¥
 Waves of Disinformation and Confusion Swamp the Truth in Libya(TIMES)
-Ò»²¨²¨¼ÙÇé±¨ºÍÃÔ»ó,ÑÍÃ»Àû±ÈÑÇÕæÏà
+ä¸€æ³¢æ³¢å‡æƒ…æŠ¥å’Œè¿·æƒ‘,æ·¹æ²¡åˆ©æ¯”äºšçœŸç›¸
 Newark Is Betting on a Wave of New Principals(TIMES)
-Å¦ÎÖ¿ËÔÚĞÂÒ»²¨Ö÷ÑİÉÏÏÂ¶Ä×¢
+çº½æ²ƒå…‹åœ¨æ–°ä¸€æ³¢ä¸»æ¼”ä¸Šä¸‹èµŒæ³¨
 'Occupy' protests go global, riding wave of economic frustration(The Christian Science Monitor)
-Õ¼ÁìÊ¾ÍşÕß×ßÏòÈ«ÇòÊÇÒòÎª¸ÏÉÏ¾­¼ÃÔã¸âµÄ²¨ÌÎ
+å é¢†ç¤ºå¨è€…èµ°å‘å…¨çƒæ˜¯å› ä¸ºèµ¶ä¸Šç»æµç³Ÿç³•çš„æ³¢æ¶›
 
-#### À»Î² ¸½Â¼ appendix
+#### é˜‘å°¾ é™„å½• appendix
 Study: Appendix surgery costs vary wildly in US(CBS)
-À»Î²ÊÖÊõ¼Û¸ñ±ä»¯¾Ş´ó
+é˜‘å°¾æ‰‹æœ¯ä»·æ ¼å˜åŒ–å·¨å¤§
 
-#### ½ô¸úÆäºó on one's heels/on the heels of sth
+#### ç´§è·Ÿå…¶å on one's heels/on the heels of sth
 Mitt Romney remains fundraising king, but look who's hard on his heels(The Christian Science Monitor)
-Â³Ã·Äá±£³Ö×Ê½ğ³ï´ëÍõÍ·ÏÎ,µ«À§ÄÑ¿´×¼Ë­½ô¸úÆäºó
+é²æ¢…å°¼ä¿æŒèµ„é‡‘ç­¹æªç‹å¤´è¡”,ä½†å›°éš¾çœ‹å‡†è°ç´§è·Ÿå…¶å
 FAA will close 149 airport towers on heels of sequester(WAPOST) 
-½ô¸ú×ÅÔ¤Ëã×Ô¶¯²Ã¼ôÖ®ºó,Áª°î¿Õ¹Ü¾Ö¹Ø±Õ¶à¸ö»ú³¡¿ØÖÆËşÌ¨
+ç´§è·Ÿç€é¢„ç®—è‡ªåŠ¨è£å‰ªä¹‹å,è”é‚¦ç©ºç®¡å±€å…³é—­å¤šä¸ªæœºåœºæ§åˆ¶å¡”å°
 
-#### Ö×Áö tumor  °©Ö×ÁöÊÖÊõ cancer tumor op  ÇĞ³ıÖ×Áö remove tumor
+#### è‚¿ç˜¤ tumor  ç™Œè‚¿ç˜¤æ‰‹æœ¯ cancer tumor op  åˆ‡é™¤è‚¿ç˜¤ remove tumor
 Venezuelan President Chavez admits cancer tumor op(AFP)
-Î¯ÄÚÈğÀ­×ÜÍ³²éÎ¤Ë¹³ĞÈÏ°©Ö×ÁöÊÖÊõ
+å§”å†…ç‘æ‹‰æ€»ç»ŸæŸ¥éŸ¦æ–¯æ‰¿è®¤ç™Œè‚¿ç˜¤æ‰‹æœ¯
 Mexico doctors remove child's 33-pound tumor(Yahoo)
-Ä«Î÷¸çÒ½ÉúÇĞ³ı²¡¶ù´óÖ×Áö
+å¢¨è¥¿å“¥åŒ»ç”Ÿåˆ‡é™¤ç—…å„¿å¤§è‚¿ç˜¤
 
-#### ËãÃüÕ¼²·Õß fortuneteller
+#### ç®—å‘½å åœè€… fortuneteller
 Lunar New Year a busy time for fortunetellers(LATIMES)
-ÒõÀúĞÂÄêÊÇËãÃüÕ¼²·Õß·±Ã¦Ê±ºò
+é˜´å†æ–°å¹´æ˜¯ç®—å‘½å åœè€…ç¹å¿™æ—¶å€™
 
-#### Í×Ğ­ compromise(compromiser)  Ã»ÓĞÍ×Ğ­ÓàµØ no room for compromise  ÄÑÒÔ´ï³ÉµÄÍ×Ğ­ elusive compromise
+#### å¦¥å compromise(compromiser)  æ²¡æœ‰å¦¥åä½™åœ° no room for compromise  éš¾ä»¥è¾¾æˆçš„å¦¥å elusive compromise
 Romney pounces on Santorum's Senate compromises(AP)
-Â³Ã·Äá¹¥»÷É£¶àÀ­Ä·²ÎÒéÔ±Ê±Í×Ğ­ĞĞÎª
+é²æ¢…å°¼æ”»å‡»æ¡‘å¤šæ‹‰å§†å‚è®®å‘˜æ—¶å¦¥åè¡Œä¸º
 Biden says GOP makes "no room for compromise"(CBS)
-°İµÇËµ¹²ºÍµ³Ã»ÁôÍ×Ğ­µÄÓàµØ
+æ‹œç™»è¯´å…±å’Œå…šæ²¡ç•™å¦¥åçš„ä½™åœ°
 Senate debt vote delayed in quest for elusive compromise(LATIMES)
-ÎªÕÒÑ°ÄÑÒÔ´ï³ÉµÄÍ×Ğ­,²ÎÔºÕ®ÎñÍ¶Æ±ÑÓ³Ù
+ä¸ºæ‰¾å¯»éš¾ä»¥è¾¾æˆçš„å¦¥å,å‚é™¢å€ºåŠ¡æŠ•ç¥¨å»¶è¿Ÿ
 
-#### ÎŞ¾­ÑéµÄÈË ³ûÄñ fledgling(fledge) ³õÊ¼µÄ¸´ËÕ fledgling recovery  ÓğÒí·áÂúµÄ full-fledged
+#### æ— ç»éªŒçš„äºº é›é¸Ÿ fledgling(fledge) åˆå§‹çš„å¤è‹ fledgling recovery  ç¾½ç¿¼ä¸°æ»¡çš„ full-fledged
 Iceland makes fledgling recovery from its economic meltdown(WAPOST)
-±ùµº´Ó¾­¼ÃÈÛ»ÙÖĞ,¿ªÊ¼½øĞĞ³õ³¤³ÉµÄ»Ö¸´
+å†°å²›ä»ç»æµç†”æ¯ä¸­,å¼€å§‹è¿›è¡Œåˆé•¿æˆçš„æ¢å¤
 
-#### ÊÀ½ç¹Û worldview
+#### ä¸–ç•Œè§‚ worldview
 Santorum: Obama's worldview upside-down(CBS)
-É£¶àÀ­Ä·Ëµ°Â°ÍÂíÊÀ½ç¹ÛÊÇÉÏÏÂµßµ¹,ÂÒÆß°ËÔã
+æ¡‘å¤šæ‹‰å§†è¯´å¥¥å·´é©¬ä¸–ç•Œè§‚æ˜¯ä¸Šä¸‹é¢ å€’,ä¹±ä¸ƒå…«ç³Ÿ
 
-#### Ç¹Õ½ shootout
+#### æªæˆ˜ shootout
 Ga. granny thwarts 2 would-be robbers in shootout
-×ôÖÎÑÇÖİÀÏÄÌÄÌÔÚÇ¹Õ½ÖĞ,×èÖ¹ÁËÁ½Ãû½«Òª³ÉÎª½Ù·ËµÄÈË
+ä½æ²»äºšå·è€å¥¶å¥¶åœ¨æªæˆ˜ä¸­,é˜»æ­¢äº†ä¸¤åå°†è¦æˆä¸ºåŠ«åŒªçš„äºº
 
-#### Çé±¨Ê×³¤ spy chief
+#### æƒ…æŠ¥é¦–é•¿ spy chief
 Suspect Called French School Attack 'Improvised,' Spy Chief Says(TIMES)
-ÒÉ·¸³Æ¶ÔÑ§Ğ£Ï®»÷ÊÇ'ÁÙÊ±¶øÎª',·¨¹úÇé±¨Ê×³¤Ëµ
+ç–‘çŠ¯ç§°å¯¹å­¦æ ¡è¢­å‡»æ˜¯'ä¸´æ—¶è€Œä¸º',æ³•å›½æƒ…æŠ¥é¦–é•¿è¯´
 
-#### Òì½ÌÍ½ pagan
+#### å¼‚æ•™å¾’ pagan
 Morocco denies pagan rock carving destroyed(Yahoo) 
-Ä¦Âå¸ç·ñÈÏ»Ù»µÒì½ÌÍ½µÄÑÒ¿ÌÒÕÊõÆ·
+æ‘©æ´›å“¥å¦è®¤æ¯åå¼‚æ•™å¾’çš„å²©åˆ»è‰ºæœ¯å“
 
-#### ÑÒ¿Ì ÑÒµñ rock carving
+#### å²©åˆ» å²©é›• rock carving
 Morocco denies pagan rock carving destroyed(Yahoo) 
-Ä¦Âå¸ç·ñÈÏ»Ù»µÒì½ÌÍ½µÄÑÒ¿ÌÒÕÊõÆ·
+æ‘©æ´›å“¥å¦è®¤æ¯åå¼‚æ•™å¾’çš„å²©åˆ»è‰ºæœ¯å“
 
-#### É£ÄÃ sauna
+#### æ¡‘æ‹¿ sauna
 Sheriff: Calif. burglar was using sauna(Yahoo)
-±»´ş²¶Ê±ÇÔÔôÕıÔÚÏíÓÃÉ£ÄÃ
+è¢«é€®æ•æ—¶çªƒè´¼æ­£åœ¨äº«ç”¨æ¡‘æ‹¿
 
-#### ³ÖÒìÒé ÒìÒé dissent   Òì¼ûÕß dissenter/dissident  Ñ¹ÖÆÒì¼û quell dissent  ÆËÃğÒì¼û stifle dissent
+#### æŒå¼‚è®® å¼‚è®® dissent   å¼‚è§è€… dissenter/dissident  å‹åˆ¶å¼‚è§ quell dissent  æ‰‘ç­å¼‚è§ stifle dissent
 Massachusetts Health Insurance Mandate Stirs Dissent(TIMES)
-ÂíÈøÖîÈûÇ¿ÖÆÒ½±£ÒıÆğÒì¼û
+é©¬è¨è¯¸å¡å¼ºåˆ¶åŒ»ä¿å¼•èµ·å¼‚è§
 As Kremlin Ends U.S. Aid, Critics See Bid to Quell Dissent(TIMES)
-ÓÉÓÚ¶í¹ú½áÊøÃÀ¹ú°ïÖú,ÅúÆÀÔ¤ÆÚÕòÑ¹Òì¼ûÕßÆóÍ¼
+ç”±äºä¿„å›½ç»“æŸç¾å›½å¸®åŠ©,æ‰¹è¯„é¢„æœŸé•‡å‹å¼‚è§è€…ä¼å›¾
 As dissenters die, Syria promises free elections(CBS)
-ÓÉÓÚÒì¼ûÕßËÀÍö,ĞğÀûÑÇ³ĞÅµ×ÔÓÉÑ¡¾Ù
+ç”±äºå¼‚è§è€…æ­»äº¡,å™åˆ©äºšæ‰¿è¯ºè‡ªç”±é€‰ä¸¾
 Myanmar Uses Law to Stifle Dissent, Activists Say(TIMES) 
-ÃåµéÊ¹ÓÃ·¨ÂÉÀ´ÕòÑ¹¶ôÖÆÒì¼û·Ö×Ó
+ç¼…ç”¸ä½¿ç”¨æ³•å¾‹æ¥é•‡å‹éåˆ¶å¼‚è§åˆ†å­
 
-#### ¼ÒĞó livestock
+#### å®¶ç•œ livestock
 F.D.A. Restricts Cephalosporin Antibiotics in Livestock(TIMES)
-Ê³Æ·Ò©Æ·¹ÜÀí¾ÖÏŞÖÆÔÚ¼ÒĞó¿¹¾úËØÖĞÍ·æß¾úËØÊ¹ÓÃ
+é£Ÿå“è¯å“ç®¡ç†å±€é™åˆ¶åœ¨å®¶ç•œæŠ—èŒç´ ä¸­å¤´å­¢èŒç´ ä½¿ç”¨
 'FDA to limit antibiotics to treat livestock to prevent 'superbugs'(WAPOST)
-Ê³Æ·Ò©Æ·¹ÜÀí¾ÖÏŞÖÆ¿¹¾úËØÖÎÁÆ¼ÒĞó,×èÖ¹²úÉú'³¬¼¶Ï¸¾ú
+é£Ÿå“è¯å“ç®¡ç†å±€é™åˆ¶æŠ—èŒç´ æ²»ç–—å®¶ç•œ,é˜»æ­¢äº§ç”Ÿ'è¶…çº§ç»†èŒ
 
-#### ÅöÅö³µ bumper-car
+#### ç¢°ç¢°è½¦ bumper-car
 Ruling over bumper-car injury supports amusement park(LATIMES)
-¹ØÓÚÅöÅö³µÊÜÉË°¸²Ã¾öÖ§³ÖÓéÀÖ³¡Ò»·½
+å…³äºç¢°ç¢°è½¦å—ä¼¤æ¡ˆè£å†³æ”¯æŒå¨±ä¹åœºä¸€æ–¹
 
-#### ¸ÉÈÅÆ÷ jammer
+#### å¹²æ‰°å™¨ jammer
 FCC: Cellphone jammers are illegal(WAPOST)
-ÊÖ»ú¸ÉÈÅÆ÷ÊÇ·Ç·¨µÄ
+æ‰‹æœºå¹²æ‰°å™¨æ˜¯éæ³•çš„
 
-#### ×÷¼Ò storyteller
+#### ä½œå®¶ storyteller
 Huell Howser relished role of storyteller(LATIMES)
-¹şÒÁ¶ûÏíÊÜ×÷¼ÒµÄ½ÇÉ«
+å“ˆä¼Šå°”äº«å—ä½œå®¶çš„è§’è‰²
 
-#### ÑüÎ§ waistline  Ôö¼ÓÑüÎ§ add plenty of waistline
+#### è…°å›´ waistline  å¢åŠ è…°å›´ add plenty of waistline
 Potatoes can add plenty to waistline(LATIMES) 
-³ÔÍÁ¶¹ÄÜ¹»Ôö¼ÓÑüÎ§
+åƒåœŸè±†èƒ½å¤Ÿå¢åŠ è…°å›´
 Could big fork be key to small waistline?(CBS)
-´ó²æ×Ó¶ÔĞ¡ÑüÖØÒªÂğ
+å¤§å‰å­å¯¹å°è…°é‡è¦å—
 
-#### Ô­Ê¼ĞÎÊ½ raw form
+#### åŸå§‹å½¢å¼ raw form
 Foreclosure Auctions Show Raw Form of Capitalism(TIMES)
-Ê§È¥Êê»ØÈ¨µÄµÖÑºÆ·ÅÄÂôÏÔÊ¾ÁË×Ê±¾Ö÷ÒåµÄÔ­Ê¼ĞÎÊ½
+å¤±å»èµå›æƒçš„æŠµæŠ¼å“æ‹å–æ˜¾ç¤ºäº†èµ„æœ¬ä¸»ä¹‰çš„åŸå§‹å½¢å¼
 
-#### ÓæÒµ fishery
+#### æ¸”ä¸š fishery
 A Growing Movement for Community-Supported Fisheries(TIMES)
-Ôö³¤µÄÉç»áÖ§³ÖÓæÒµµÄĞĞ¶¯
+å¢é•¿çš„ç¤¾ä¼šæ”¯æŒæ¸”ä¸šçš„è¡ŒåŠ¨
 
-#### ÉËÍö ÊÜº¦ casualty
+#### ä¼¤äº¡ å—å®³ casualty
 Health overhaul law suffers first major casualty(AP)
-½¡¿µ´óĞŞ·¨ÔâÊÜµÚÒ»Ö÷ÒªÉËº¦
+å¥åº·å¤§ä¿®æ³•é­å—ç¬¬ä¸€ä¸»è¦ä¼¤å®³
 
-#### É±ÊÖ ´Ì¿Í assassin(assassinate)  °µÉ± assassination  ·Ì°ùÈË¸ñ character assassination
+#### æ€æ‰‹ åˆºå®¢ assassin(assassinate)  æš—æ€ assassination  è¯½è°¤äººæ ¼ character assassination
 Reagan shooter wants to change 'assassin' image(AP)
-´ÌÉ±Àï¸ù×ÜÍ³Ç¹ÊÖÒª¸Ä±ä´ÌÉ±¼ÇÒä
+åˆºæ€é‡Œæ ¹æ€»ç»Ÿæªæ‰‹è¦æ”¹å˜åˆºæ€è®°å¿†
 Bin Laden plotted to assassinate Obama, Petraeus, documents show(LATIMES)
-±¾À­µÇÄ±»®´ÌÉ±°Â°ÍÂí,ÅÁÄÚËş
+æœ¬æ‹‰ç™»è°‹åˆ’åˆºæ€å¥¥å·´é©¬,å¸•å†…å¡”
 Syrian rebels emboldened after assassinations(CBS)
-ÔÚ´ÌÉ±ÊÂ¼şºó,ĞğÀûÑÇ·´¶ÔÅÉÊÜµ½¹ÄÀø
+åœ¨åˆºæ€äº‹ä»¶å,å™åˆ©äºšåå¯¹æ´¾å—åˆ°é¼“åŠ±
 Romney: Obama engaged in "character assassination"(CBS)
-Â³Ã·ÄáËµ°Â°ÍÂí×íĞÄÓÚ·Ì°ùÈË¸ñ
+é²æ¢…å°¼è¯´å¥¥å·´é©¬é†‰å¿ƒäºè¯½è°¤äººæ ¼
 
-#### ÄàµØË¤õÓ mud wrestling
+#### æ³¥åœ°æ‘”è·¤ mud wrestling
 Media want "mud wrestling" with Palin(CBS)
-Ã½ÌåÒªºÍÅåÁÖ'ÄàµØË¤õÓ'
+åª’ä½“è¦å’Œä½©æ—'æ³¥åœ°æ‘”è·¤'
 
-#### ´óÅ£ ´óÊ¦ guru  ËÄ·ÖÎÀ´óÅ£ quarterback guru
+#### å¤§ç‰› å¤§å¸ˆ guru  å››åˆ†å«å¤§ç‰› quarterback guru
 The quarterback guru's magic touch(LATIMES)
-ËÄ·ÖÎÀ´óÅ£µÄÄ§ÊõÊÖ·¨
+å››åˆ†å«å¤§ç‰›çš„é­”æœ¯æ‰‹æ³•
 Reward offered by L.A. bond guru adds to intrigue over art theft(LATIMES)
-ÂåÉ¼í¶Õ®È¯´óÊ¦Ìá¹©µÄ±¨³¥Ôö¼Ó¶ÔÒÕÊõÇÔÔôµÄĞËÈ¤
+æ´›æ‰çŸ¶å€ºåˆ¸å¤§å¸ˆæä¾›çš„æŠ¥å¿å¢åŠ å¯¹è‰ºæœ¯çªƒè´¼çš„å…´è¶£
 Popular Indian guru's anticorruption fast turns violent(LATIMES)
-Á÷ĞĞµÄÓ¡¶Èè¤Ù¤´óÊ¦·´¸¯°Ü¾øÊ³»î¶¯±ä³É±©Á¦
+æµè¡Œçš„å°åº¦ç‘œä¼½å¤§å¸ˆåè…è´¥ç»é£Ÿæ´»åŠ¨å˜æˆæš´åŠ›
 Skin Deep: A Yoga Devotee Finds a New Guru in a Personal Trainer(TIMES) 
-±íÃæÉÏµÄ:Ò»¸öè¤Ù¤µÄÈÈ°®ÕßÕÒµ½Ò»¸ö¸öÈËÑµÁ·µÄ´óÅ£
+è¡¨é¢ä¸Šçš„:ä¸€ä¸ªç‘œä¼½çš„çƒ­çˆ±è€…æ‰¾åˆ°ä¸€ä¸ªä¸ªäººè®­ç»ƒçš„å¤§ç‰›
 
-#### Ëè ¾«»ª marrow/essence  ¹ÇËè bone marrow
+#### é«“ ç²¾å marrow/essence  éª¨é«“ bone marrow
 Court won't reconsider bone marrow payments ruling
-·¨Í¥Ã»ÖØĞÂ¿¼ÂÇ¹ÇËèÖ§¸¶²Ã¾ö
+æ³•åº­æ²¡é‡æ–°è€ƒè™‘éª¨é«“æ”¯ä»˜è£å†³
 ABC's Roberts has blood, bone marrow disorder
-ÂŞ²®ÌØÓĞÑªÒººÍ¹ÇËèµÄ¼²²¡
+ç½—ä¼¯ç‰¹æœ‰è¡€æ¶²å’Œéª¨é«“çš„ç–¾ç—…
 E. Donnall Thomas, Furthered Bone Marrow Transplants, Dies(TIMES) 
-ÍĞÂíË¹½øĞĞ¹ıÉîÈëµÄ¹ÇËèÒÆÖ²,ÈÔËÀÍö
+æ‰˜é©¬æ–¯è¿›è¡Œè¿‡æ·±å…¥çš„éª¨é«“ç§»æ¤,ä»æ­»äº¡
 
-#### ¾ü¹ÙÑ§Ğ£Ñ§Ô± cadet
+#### å†›å®˜å­¦æ ¡å­¦å‘˜ cadet
 Cadet quits, cites overt religion at West Point(Yahoo)
-ÄêÇáÑ§Ô±ÍË³öÎ÷µã¾üĞ£,Ìáµ½¹«¿ªµÄ×Ú½ÌĞÅÑö
+å¹´è½»å­¦å‘˜é€€å‡ºè¥¿ç‚¹å†›æ ¡,æåˆ°å…¬å¼€çš„å®—æ•™ä¿¡ä»°
 
-#### ÄĞ×ÓµÄÆøÖÊ ³ÉÄêÆÚ manhood
+#### ç”·å­çš„æ°”è´¨ æˆå¹´æœŸ manhood
 Testosterone Study Has Fathers Questioning Their Manhood(TIMES)
-ØºÍè¼¤ËØÑĞ¾¿Ê¹¸¸Ç×ÖÊÒÉËûÃÇµÄÄĞ×ÓµÄÆøÖÊ
+ç¾ä¸¸æ¿€ç´ ç ”ç©¶ä½¿çˆ¶äº²è´¨ç–‘ä»–ä»¬çš„ç”·å­çš„æ°”è´¨
 
-#### ¸ôÀë segregation
+#### éš”ç¦» segregation
 Ending Segregation of the Mentally Disabled(TIMES)
-½áÊø¾«Éñ²ĞÕÏÈËµÄ¸ôÀë
+ç»“æŸç²¾ç¥æ®‹éšœäººçš„éš”ç¦»
 James A. Hood dies at 70; fought segregation at University of Alabama(LATIMES)
-ÎªÔÚ°¢À­°ÍÂí´óÑ§¸ôÀë¶øÕ½¶·µÄÀÏÈËÈ¥ÊÀ
+ä¸ºåœ¨é˜¿æ‹‰å·´é©¬å¤§å­¦éš”ç¦»è€Œæˆ˜æ–—çš„è€äººå»ä¸–
 
-#### ´³ÈëÕß interloper
+#### é—¯å…¥è€… interloper
 EYES ON LONDON: An interloper, and empty seats(Yahoo)
-¾Û½¹Â×¶Ø,Ò»¸ö´³ÈëÕßºÍºÜ¶à¿Õ×ùÎ»
+èšç„¦ä¼¦æ•¦,ä¸€ä¸ªé—¯å…¥è€…å’Œå¾ˆå¤šç©ºåº§ä½
 
-#### ¶àÏî.. (a) count of
+#### å¤šé¡¹.. (a) count of
 U.S. Sergeant Faces 17 Counts of Murder in Afghan Killings(TIMES)
-ÃÀ¾üÖĞÊ¿ÃæÁÙ17Ïî°¢¸»º¹ÍÀÉ±Ö¸¿Ø
+ç¾å†›ä¸­å£«é¢ä¸´17é¡¹é˜¿å¯Œæ±—å± æ€æŒ‡æ§
 
-#### ÅĞ¾ö ²Ã¾ö verdict/ruling
+#### åˆ¤å†³ è£å†³ verdict/ruling
 Rutgers Verdict Repudiates Notion of Youth as a Defense(TIMES)
-ÅĞ¾ö¾Ü¾øÄêÇá¸ÅÄî×÷Îª±ç»¤
+åˆ¤å†³æ‹’ç»å¹´è½»æ¦‚å¿µä½œä¸ºè¾©æŠ¤
 Anger over Casey Anthony verdict pours out online(AP) 
-¶Ô°²¶«Äá°¸²Ã¾öµÄÅ­»ğÍ¨¹ıÍøÂçÇãĞ¹
+å¯¹å®‰ä¸œå°¼æ¡ˆè£å†³çš„æ€’ç«é€šè¿‡ç½‘ç»œå€¾æ³„
 Jury unable to reach verdict in killing of gay student(LATIMES)
-ÅãÉóÍÅ²»ÄÜ´ï³ÉÒ»ÖÂ²Ã¾öÔÚÄ±É±°¸ÖĞ
+é™ªå®¡å›¢ä¸èƒ½è¾¾æˆä¸€è‡´è£å†³åœ¨è°‹æ€æ¡ˆä¸­
 Greece faces auditor verdict, fresh aid at stake(Reuters)
-Ï£À°Ãæ¶ÔÉó¼ÆÔ±²Ã¾ö,ĞÂµÄ¾ÈÔ®ÔÚÎ£¼±¹ØÍ·
+å¸Œè…Šé¢å¯¹å®¡è®¡å‘˜è£å†³,æ–°çš„æ•‘æ´åœ¨å±æ€¥å…³å¤´
 Guilty verdict in home invasion trial(CBS)
-×¡Õ¬ÈëÇÖ°¸¶¨ÓĞ×ïÅĞ¾ö
+ä½å®…å…¥ä¾µæ¡ˆå®šæœ‰ç½ªåˆ¤å†³
 No verdict in first day of jury deliberations for Conrad Murray trial(LATIMES)
-¶ÔÓÚ¿µÄÉµÂÉóÅĞµÚÒ»ÌìÅãÉóÍÅ×ĞÏ¸¿¼ÂÇÃ»ÓĞ²Ã¾ö
+å¯¹äºåº·çº³å¾·å®¡åˆ¤ç¬¬ä¸€å¤©é™ªå®¡å›¢ä»”ç»†è€ƒè™‘æ²¡æœ‰è£å†³
 
-#### Î§À§ siege ´¦ÓÚÎ§À§ under siege  ½áÊø°üÎ§ end siege ¼Ó½ôÎ§À§ tighten siege À©´ó°üÎ§ extend siege
+#### å›´å›° siege å¤„äºå›´å›° under siege  ç»“æŸåŒ…å›´ end siege åŠ ç´§å›´å›° tighten siege æ‰©å¤§åŒ…å›´ extend siege
 Highway 12, Outer Banks Lifeline, Is Under Siege by Nature(TIMES)
-12ºÅ¸ßËÙ¹«Â·,Íâ°¶µÄÉúÃüÏß,´¦ÓÚ×ÔÈ»ÔÖº¦µÄÎ§À§
+12å·é«˜é€Ÿå…¬è·¯,å¤–å²¸çš„ç”Ÿå‘½çº¿,å¤„äºè‡ªç„¶ç¾å®³çš„å›´å›°
 JK Rowling: UK press left me feeling under siege(AP) 
-JKÂŞÁá:Ó¢¹úĞÂÎÅ½çÈÃÎÒ¸Ğ¾õÏñ±»°üÎ§
+JKç½—ç²:è‹±å›½æ–°é—»ç•Œè®©æˆ‘æ„Ÿè§‰åƒè¢«åŒ…å›´
 At least 53 dead as Iraqi forces end gunmen's siege
-ÒÁ¾ü½áÊø¶ÔÎä×°·Ö×Ó°üÎ§ÖÁÉÙ53ÈËËÀÍö
+ä¼Šå†›ç»“æŸå¯¹æ­¦è£…åˆ†å­åŒ…å›´è‡³å°‘53äººæ­»äº¡
 Libya says Gaddafi stays, wounded relate siege hell
-ÀûËµÀÏ¿¨´ıÔÚ¹úÄÚÉË±øÃÇĞğÊö±»Î§µØÓü
+åˆ©è¯´è€å¡å¾…åœ¨å›½å†…ä¼¤å…µä»¬å™è¿°è¢«å›´åœ°ç‹±
 Syria promises free election as it tightens siege(AP)
-µ±ĞğÀûÑÇ¼Ó½ô¶Ô·´¶ÔÅÉ°üÎ§Í¬Ê±,³ĞÅµ×ÔÓÉÑ¡¾Ù
+å½“å™åˆ©äºšåŠ ç´§å¯¹åå¯¹æ´¾åŒ…å›´åŒæ—¶,æ‰¿è¯ºè‡ªç”±é€‰ä¸¾
 Syria Forces Extend Siege on Hama as Toll Rises(TIMES)
-ĞğÀûÑÇ¾ü¶ÓÀ©´ó¶Ô¹şÂí°üÎ§,µ¼ÖÂËÀÍöÉÏÉı
+å™åˆ©äºšå†›é˜Ÿæ‰©å¤§å¯¹å“ˆé©¬åŒ…å›´,å¯¼è‡´æ­»äº¡ä¸Šå‡
 
-#### ×¢ÒâÁ¦·ÖÉ¢ ĞÄ·³ÒâÂÒ distraction
+#### æ³¨æ„åŠ›åˆ†æ•£ å¿ƒçƒ¦æ„ä¹± distraction
 G.O.P. Nominating Fight Offers Democrats a Welcome Distraction(TIMES) 
-¹²ºÍµ³ÌáÃûÕ½´øÀ´µÄ×¢ÒâÁ¦·ÖÉ¢ÈÃÃñÖ÷µ³»¶Ó­
+å…±å’Œå…šæåæˆ˜å¸¦æ¥çš„æ³¨æ„åŠ›åˆ†æ•£è®©æ°‘ä¸»å…šæ¬¢è¿
 
-#### Î×Êõ Ä§·¨ wizardry  ¸ß¼¼ÊõµÄ¼¼ÇÉ high-tech wizardry
+#### å·«æœ¯ é­”æ³• wizardry  é«˜æŠ€æœ¯çš„æŠ€å·§ high-tech wizardry
 As buzz builds around Apple iPhone 5, focus shifts from high-tech wizardry to content(WAPOST)
-Î§ÈÆĞÂ°®·èµÄ´«ÑÔ,¹Ø×¢´Ó¸ß¼¼ÊõÓ¦ÓÃ×ªÏòÄÚÈİ
+å›´ç»•æ–°çˆ±ç–¯çš„ä¼ è¨€,å…³æ³¨ä»é«˜æŠ€æœ¯åº”ç”¨è½¬å‘å†…å®¹
 
-#### Á÷²ú Ê§°Ü miscarriage
+#### æµäº§ å¤±è´¥ miscarriage
 Colo. victim paralyzed, had miscarriage(CBS)
-µ¤·ğÊÜº¦ÕßÌ±»¾,¶øÇÒÁ÷²ú
+ä¸¹ä½›å—å®³è€…ç˜«ç—ª,è€Œä¸”æµäº§
 
-#### ÒÇÊ½ ritual/rite  ÔáÀñÒÇÊ½ funeral ritual
+#### ä»ªå¼ ritual/rite  è‘¬ç¤¼ä»ªå¼ funeral ritual
 Does the tech sector have an IPO hazing ritual?(WAPOST)
-¼¼Êõ°å¿é´æÔÚ¹«¿ªÄ¼¼¯×Ê½ğÄ£ºıµÄ³ÌĞò
+æŠ€æœ¯æ¿å—å­˜åœ¨å…¬å¼€å‹Ÿé›†èµ„é‡‘æ¨¡ç³Šçš„ç¨‹åº
 "Dead" Egyptian awakens during funeral ritual(CBS)
-ÔÚÔáÀñÒÇÊ½ÆÚ¼ä,ËÀÍöµÄ°£¼°ÈËĞÑÁË¹ıÀ´
+åœ¨è‘¬ç¤¼ä»ªå¼æœŸé—´,æ­»äº¡çš„åŸƒåŠäººé†’äº†è¿‡æ¥
 Ritual Mourning for Slain Brooklyn 8-Year-Old(TIMES) 
-µ¿ÄîÒÇÊ½Îª±»º¦Ğ¡º¢¾ÙĞĞ
+æ‚¼å¿µä»ªå¼ä¸ºè¢«å®³å°å­©ä¸¾è¡Œ
 Muslim hajj pilgrims perform devil stoning ritual(AP)
-ÄÂË¹ÁÖÂó¼Ó³¯Ê¥µÄ³¯Ê¥Õß½øĞĞÔÒÄ§¹íµÄÒÇÊ½
+ç©†æ–¯æ—éº¦åŠ æœåœ£çš„æœåœ£è€…è¿›è¡Œç ¸é­”é¬¼çš„ä»ªå¼
 
-#### Åã³Ä ÎıÖ½ foil
+#### é™ªè¡¬ é”¡çº¸ foil
 For Obama, finding one clear foil may take a while(AP)
-¶ÔÓÚ°Â°ÍÂí,ÕÒµ½Ò»¸öÃ÷È·Åã³ÄÒª»¨µãÊ±¼ä
+å¯¹äºå¥¥å·´é©¬,æ‰¾åˆ°ä¸€ä¸ªæ˜ç¡®é™ªè¡¬è¦èŠ±ç‚¹æ—¶é—´
 
-#### µ¶¼â knifepoint  ÔÚµ¶¼âÉÏ ±»µ¶µÖ×Å at knifepoint
+#### åˆ€å°– knifepoint  åœ¨åˆ€å°–ä¸Š è¢«åˆ€æŠµç€ at knifepoint
 Justice Breyer robbed at knifepoint in Caribbean(CBS)
-×î¸ß·¨ÔºÔº³¤ÔÚ¼ÓÀÕ±È±»µ¶¼âµÖ×¡Ôâ½Ù
+æœ€é«˜æ³•é™¢é™¢é•¿åœ¨åŠ å‹’æ¯”è¢«åˆ€å°–æŠµä½é­åŠ«
 
-#### ÆôÊ¾Â¼ ¾Ş´óÊÂ¼ş apocalypse
+#### å¯ç¤ºå½• å·¨å¤§äº‹ä»¶ apocalypse
 The coming parrot-robot apocalypse(WAPOST)
-¼´½«³öÏÖµÄğĞğÄ»úÆ÷ÈËÆôÊ¾Â¼
+å³å°†å‡ºç°çš„é¹¦é¹‰æœºå™¨äººå¯ç¤ºå½•
 Mexico Mayan region launches apocalypse countdown(AP) 
-Ä«Î÷¸çÂêÑÅµØÇø·¢ÆğÊÀ½çÄ©ÈÕµ¹¼ÆÊ±
+å¢¨è¥¿å“¥ç›é›…åœ°åŒºå‘èµ·ä¸–ç•Œæœ«æ—¥å€’è®¡æ—¶
 
-#### É§ÂÒ tumult/uproar/riot/chaos/mayhem/turbulence/turmoil
+#### éªšä¹± tumult/uproar/riot/chaos/mayhem/turbulence/turmoil
 Church burning deepens tumult of Egypt transition(AP) 
-½ÌÌÃÈ¼ÉÕ¼ÓÉî±äÇ¨¹ı¶ÉÖĞ»ìÂÒ
+æ•™å ‚ç‡ƒçƒ§åŠ æ·±å˜è¿è¿‡æ¸¡ä¸­æ··ä¹±
 News Analysis: Tumult of Arab Spring Prompts Worries in Washington(TIMES)
-°¢À­²®´ºÌìµÄ»ìÂÒÒıÆğ»ªÊ¢¶Ùµ£ÓÇ
+é˜¿æ‹‰ä¼¯æ˜¥å¤©çš„æ··ä¹±å¼•èµ·åç››é¡¿æ‹…å¿§
 
-#### µæ×Ó »º³å ±£»¤ cushion  »º³å¾­¼ÃÏÂµø Cushions Economic Fall
+#### å«å­ ç¼“å†² ä¿æŠ¤ cushion  ç¼“å†²ç»æµä¸‹è·Œ Cushions Economic Fall
 The Welsh Economy Slips, but London Cushions the Fall(TIMES)
-Íş¶ûÊ¿¾­¼ÃÏÂ»¬,µ«Â×¶Ø»º³å¾­¼ÃÏÂµø
+å¨å°”å£«ç»æµä¸‹æ»‘,ä½†ä¼¦æ•¦ç¼“å†²ç»æµä¸‹è·Œ
 
-#### ÇÖ·¸ ´òÈÅ incursion
+#### ä¾µçŠ¯ æ‰“æ‰° incursion
 The Media Equation: Digital's Ever-Swifter Incursion(TIMES)
-Êı×ÖÊ±´úÔø¾­µÄË¹Íş·òÌØµÄ´òÈÅ
+æ•°å­—æ—¶ä»£æ›¾ç»çš„æ–¯å¨å¤«ç‰¹çš„æ‰“æ‰°
 
-#### Ó®ÕßÍ¨³Ô winner-take-all
+#### èµ¢è€…é€šåƒ winner-take-all
 Gingrich challenges Florida's winner-take-all delegate plan(LATIMES)
-½ğÀïÆæÖÊÒÉ·ğÖİÓ®ÕßÍ¨³Ô´ú±íµÄ¼Æ»®
+é‡‘é‡Œå¥‡è´¨ç–‘ä½›å·èµ¢è€…é€šåƒä»£è¡¨çš„è®¡åˆ’
 Clinton says GOP wants 'winner-take-all society'(Yahoo)
-¿ËÁÖ¶ÙËµ¹²ºÍµ³Òª½¨Á¢ÙøÕßÍ¨³ÔµÄÉç»á
+å…‹æ—é¡¿è¯´å…±å’Œå…šè¦å»ºç«‹å¬´è€…é€šåƒçš„ç¤¾ä¼š
 
-#### Ï¯¾í¶Ä½ğ Ï¯¾íÊ¤Àû sweepstake
+#### å¸­å·èµŒé‡‘ å¸­å·èƒœåˆ© sweepstake
 Va. finds its place in presidential sweepstakes(Yahoo)
-¸¥¼ªÄáÑÇÖİ·¢ÏÖÔÚ×ÜÍ³Ñ¡¾ÙÖĞÓ®ÕßÍ¨³ÔÖĞÎ»ÖÃ
+å¼—å‰å°¼äºšå·å‘ç°åœ¨æ€»ç»Ÿé€‰ä¸¾ä¸­èµ¢è€…é€šåƒä¸­ä½ç½®
 
-#### ´ó¾öÕ½ [Ê¥¾­]ÊÀ½çÄ©ÈÕÉÆ¶ñ¾öÕ½ Armageddon
+#### å¤§å†³æˆ˜ [åœ£ç»]ä¸–ç•Œæœ«æ—¥å–„æ¶å†³æˆ˜ Armageddon
 Armageddon alert after Texas lake turns blood-red(CBS)
-ÔÚµÂÖİºş±ä³ÉÑªºìÉ«Ö®ºó,´ó¾öÕ½·¢³ö¾¯±¨
+åœ¨å¾·å·æ¹–å˜æˆè¡€çº¢è‰²ä¹‹å,å¤§å†³æˆ˜å‘å‡ºè­¦æŠ¥
 
-#### ³·Ïú¹ÜÖÆ deregulation
+#### æ’¤é”€ç®¡åˆ¶ deregulation
 NCAA to reconsider some recruiting deregulation(Yahoo)
-ÃÀÓîº½¾ÖÖØĞÂ¿¼ÂÇÒ»Ğ©ÕĞÆ¸µÄ³·Ïú¹ÜÖÆ¹æ¶¨
+ç¾å®‡èˆªå±€é‡æ–°è€ƒè™‘ä¸€äº›æ‹›è˜çš„æ’¤é”€ç®¡åˆ¶è§„å®š
 
-#### ÏŞÖÆĞÔÌõ¿î caveat
+#### é™åˆ¶æ€§æ¡æ¬¾ caveat
 November jobs report: A decent number with lots of caveats(WAPOST)
-¾ÍÒµ±¨¸æÖĞ²»´íµÄ¾ÍÒµÊı×ÖÈÔ´ø×ÅºÜ¶à¾¯¸æ
+å°±ä¸šæŠ¥å‘Šä¸­ä¸é”™çš„å°±ä¸šæ•°å­—ä»å¸¦ç€å¾ˆå¤šè­¦å‘Š
 Syria Says It Will Allow Arab League Observers, With Caveats(TIMES) 
-ĞğÀûÑÇÔÊĞí°¢ÃË¹Û²ìÔ±,µ«ÓĞÏŞÖÆĞÔÌõ¿î
+å™åˆ©äºšå…è®¸é˜¿ç›Ÿè§‚å¯Ÿå‘˜,ä½†æœ‰é™åˆ¶æ€§æ¡æ¬¾
 
-#### ÏãÓÍ Ò©¸à  °²Î¿Îï balm  ¾«ÉñµÄ¸§Î¿ balm for soul
+#### é¦™æ²¹ è¯è†  å®‰æ…°ç‰© balm  ç²¾ç¥çš„æŠšæ…° balm for soul
 Macy's Thanksgiving Day Parade: After Sandy, balm for the N.Y. soul(LATIMES)
-¸Ğ¶÷½ÚÓÎĞĞ,É£µÏ·ç±©ºó¾«ÉñµÄ¸§Î¿
+æ„Ÿæ©èŠ‚æ¸¸è¡Œ,æ¡‘è¿ªé£æš´åç²¾ç¥çš„æŠšæ…°
 
-#### ½øÈëÕß entrant
+#### è¿›å…¥è€… entrant
 For Many Illegal Entrants Into U.S., a Particularly Inhospitable First Stop(TIMES)
-¶ÔÓÚºÜ¶à·Ç·¨½øÈëÃÀ¹úµÄÈËÀ´½²,µÚÒ»Õ¾¾ÍÊÇÌØ±ğ²»ºÃ¿ÍµÄ
+å¯¹äºå¾ˆå¤šéæ³•è¿›å…¥ç¾å›½çš„äººæ¥è®²,ç¬¬ä¸€ç«™å°±æ˜¯ç‰¹åˆ«ä¸å¥½å®¢çš„
 
-#### Â×¶ØÒøĞĞ¼ä²ğ·ÅÀûÂÊ Libor(London InterBank Offered Rate)
+#### ä¼¦æ•¦é“¶è¡Œé—´æ‹†æ”¾åˆ©ç‡ Libor(London InterBank Offered Rate)
 London fog: Banks behind Libor benchmark come under increased scrutiny(WAPOST) 
-Â×¶Ø´óÎí:µÍÓÚÂ×¶ØÒøĞĞ¼ä²ğ·ÅÀûÂÊ±ê×¼µÄÒøĞĞÊÜµ½³¹µ×¼ì²é
+ä¼¦æ•¦å¤§é›¾:ä½äºä¼¦æ•¦é“¶è¡Œé—´æ‹†æ”¾åˆ©ç‡æ ‡å‡†çš„é“¶è¡Œå—åˆ°å½»åº•æ£€æŸ¥
 
-#### ¶ÀÁ¢Î¯Ô±»á independent panel
+#### ç‹¬ç«‹å§”å‘˜ä¼š independent panel
 Independent Panel to Start Inquiry Into Japan's Nuclear Crisis(TIMES)
-¶ÀÁ¢Î¯Ô±»á¿ªÊ¼µ÷²éÈÕ±¾ºËÎ£»ú
+ç‹¬ç«‹å§”å‘˜ä¼šå¼€å§‹è°ƒæŸ¥æ—¥æœ¬æ ¸å±æœº
 
-#### ÍÁµØÕù¶Ë land conflict
+#### åœŸåœ°äº‰ç«¯ land conflict
 Honduras Land Conflicts Highlight Polarization(TIMES)
-ºé¶¼À­Ë¹ÍÁµØÕù¶ËÍ»³ö¼«¶Ë»¯
+æ´ªéƒ½æ‹‰æ–¯åœŸåœ°äº‰ç«¯çªå‡ºæç«¯åŒ–
 
-#### Ó¢Óï×¨Òµ English major
+#### è‹±è¯­ä¸“ä¸š English major
 Value Added: This English major prefers the language of money(WAPOST)
-Ó¢Óï×¨ÒµÑ§Éú¸üÏ²»¶Ñ¡ÔñÓĞÇ®¾°µÄÓïÑÔ
+è‹±è¯­ä¸“ä¸šå­¦ç”Ÿæ›´å–œæ¬¢é€‰æ‹©æœ‰é’±æ™¯çš„è¯­è¨€
 
-#### ÎÄÒÕÅúÆÀ¼Ò art critic
+#### æ–‡è‰ºæ‰¹è¯„å®¶ art critic
 Hilton Kramer, Art Critic at The Times, Dies at 84(TIMES)
-Å¦Ô¼Ê±±¨µÄÎÄÒÕÅúÆÀ¼ÒËÀÍö
+çº½çº¦æ—¶æŠ¥çš„æ–‡è‰ºæ‰¹è¯„å®¶æ­»äº¡
 
-#### µÍÊÕÈëÕß working poor
+#### ä½æ”¶å…¥è€… working poor
 In Rich Europe, Growing Ranks of Working Poor(TIMES)
-ÔÚ¸»Ô£µÄÅ·ÖŞ,µÍÊÕÈëÈËµÄ¶ÓÎéÔÚÔö³¤
+åœ¨å¯Œè£•çš„æ¬§æ´²,ä½æ”¶å…¥äººçš„é˜Ÿä¼åœ¨å¢é•¿
 
-#### ĞÄÔàË¥½ß heart failure
+#### å¿ƒè„è¡°ç«­ heart failure
 Dizzy when you stand up? Heart failure a risk(CBS)
-µ±ÄãÕ¾Á¢Ê±ºòÍ·ÔÎ?ÓĞĞÄÔàË¥½ßµÄ·çÏÕ
+å½“ä½ ç«™ç«‹æ—¶å€™å¤´æ™•?æœ‰å¿ƒè„è¡°ç«­çš„é£é™©
 
-#### º£ÉÏÁú¾í·ç ÅÅË®¹Ü waterspout
+#### æµ·ä¸Šé¾™å·é£ æ’æ°´ç®¡ waterspout
 Video: Waterspout off the coast of Australia(CBS)
-º£ÉÏÁú¾í·çÀë¿ª°ÄÖŞº£°¶
+æµ·ä¸Šé¾™å·é£ç¦»å¼€æ¾³æ´²æµ·å²¸
 
-#### »õ±Ò½»Ò× forex(foreign exchange)
+#### è´§å¸äº¤æ˜“ forex(foreign exchange)
 Exclusive: China eyes market forces to drive forex reform agenda(Yahoo)
-ÖĞ¹ú¹Ø×¢ÊĞ³¡Á¦Á¿Çı¶¯»õ±Ò½»Ò×¸Ä¸ïÒé³Ì
+ä¸­å›½å…³æ³¨å¸‚åœºåŠ›é‡é©±åŠ¨è´§å¸äº¤æ˜“æ”¹é©è®®ç¨‹
 
-#### È±Ê§ ²»×ã deficiency/shortage
+#### ç¼ºå¤± ä¸è¶³ deficiency/shortage
 Widespread deficiencies found in L.A. County's oversight of abused children(LATIMES)
-ÂåÉ¼í¶¿¤¶Ô±»Å°´ıº¢×ÓµÄ¼à¹Ü,±»¹ã·º·¢ÏÖÈ±Ê§
+æ´›æ‰çŸ¶éƒ¡å¯¹è¢«è™å¾…å­©å­çš„ç›‘ç®¡,è¢«å¹¿æ³›å‘ç°ç¼ºå¤±
 Review of Burbank Police Department finds deficiencies(LATIMES)
-¶Ô¾¯²ì¾Ö¼ìÊÓÖĞ·¢ÏÖ²»×ã
+å¯¹è­¦å¯Ÿå±€æ£€è§†ä¸­å‘ç°ä¸è¶³
 
-#### ´îË³·ç³µµÄÈË hitchhiker  ´î±ã³µ hitchhike
+#### æ­é¡ºé£è½¦çš„äºº hitchhiker  æ­ä¾¿è½¦ hitchhike
 Cops: "Kindness" hitchhiker shot self(CBS)
-ÉÆÁ¼µÄ´îË³·ç³µµÄÈËÉäÉ±×Ô¼º
+å–„è‰¯çš„æ­é¡ºé£è½¦çš„äººå°„æ€è‡ªå·±
 
-#### ·ç¾° landscape  ÕşÖÎ·ç¾° political landscape
+#### é£æ™¯ landscape  æ”¿æ²»é£æ™¯ political landscape
 Redistricting map shakes up L.A. political landscape(LATIMES)
-¸ü¸ÄÑ¡Çø¼Æ»®¶¯Ò¡ÂåÉ¼í¶ÕşÖÎ·ç¾°
+æ›´æ”¹é€‰åŒºè®¡åˆ’åŠ¨æ‘‡æ´›æ‰çŸ¶æ”¿æ²»é£æ™¯
 Ash dieback disease could alter the landscape of England(LATIMES)
-°×À¯Ê÷¶¥¶Ë¿İËÀ¼²²¡»á¸Ä±äÓ¢¸ñÀ¼·ç¾°
+ç™½èœ¡æ ‘é¡¶ç«¯æ¯æ­»ç–¾ç—…ä¼šæ”¹å˜è‹±æ ¼å…°é£æ™¯
 
-#### ±êÓï ĞÑÄ¿µÄ¹ã¸æÓï catchphrase
+#### æ ‡è¯­ é†’ç›®çš„å¹¿å‘Šè¯­ catchphrase
 Catchphrases obscure who pays for 'base-broadening' tax reform(WAPOST)
-±êÓïÈÃË°¸ÄÄÉË°ÈË¸ã²»Çå
+æ ‡è¯­è®©ç¨æ”¹çº³ç¨äººæä¸æ¸…
 
-#### ÅÚµ¯ Cannonball
+#### ç‚®å¼¹ Cannonball
 Cops: Cannonball fired by husband kills wife(CBS)
-ÕÉ·òÓÃ·¢ÉäÅÚµ¯É±ËÀÆŞ×Ó
+ä¸ˆå¤«ç”¨å‘å°„ç‚®å¼¹æ€æ­»å¦»å­
 
-#### ÁôÏÂÓ¡¼Ç  ÁôÏÂÉîÔ¶Ó°Ïì make a mark
+#### ç•™ä¸‹å°è®°  ç•™ä¸‹æ·±è¿œå½±å“ make a mark
 Olympic hopeful looks to make a mark(CBS)
-°ÂÁÖÆ¥¿ËÓĞÏ£ÍûµÄÈËÖ¸ÍûÁôÏÂÉîÔ¶Ó°Ïì
+å¥¥æ—åŒ¹å…‹æœ‰å¸Œæœ›çš„äººæŒ‡æœ›ç•™ä¸‹æ·±è¿œå½±å“
 
-#### ÅóÓÑ ½áÎªÅóÓÑ pal  ±ÊÓÑ pen pal
+#### æœ‹å‹ ç»“ä¸ºæœ‹å‹ pal  ç¬”å‹ pen pal
 Separated by years and oceans, pen pals reconnect(LATIMES)
-ÊıÄê±»´óÑó·Ö¸ôºó,±ÊÓÑÖØĞÂÁªÂçÉÏ
+æ•°å¹´è¢«å¤§æ´‹åˆ†éš”å,ç¬”å‹é‡æ–°è”ç»œä¸Š
 Prince Harry pal blasts 'despicable' nude photo leaker(Yahoo)
-¹şÀïÍõ×ÓÅóÓÑ³âÔğ±°±ÉµÄÂãÌåÕÕÆ¬Ğ¹Â¶Õß
+å“ˆé‡Œç‹å­æœ‹å‹æ–¥è´£å‘é„™çš„è£¸ä½“ç…§ç‰‡æ³„éœ²è€…
 Soldier allegedly kills pal who had hiccups(CBS)
-Ê¿±ø±»Ö¸É±ËÀ´òàÃµÄÅóÓÑ
+å£«å…µè¢«æŒ‡æ€æ­»æ‰“å—çš„æœ‹å‹
 Bradley Cooper ropes in old school pals for premiere(CBS) 
-Ê×Ó³Ê½ÉÏ²¼À­µÂÀûÓëÒ»ÈºÑ§Ğ£ÀÏÓÑ¹üÔÚÒ»Æğ
+é¦–æ˜ å¼ä¸Šå¸ƒæ‹‰å¾·åˆ©ä¸ä¸€ç¾¤å­¦æ ¡è€å‹è£¹åœ¨ä¸€èµ·
 
-#### »ØÎÄ(Ö¸Ë³¶ÁºÍµ¹¶Á¶¼Ò»ÑùµÄ´ÊÓï) palindrome
+#### å›æ–‡(æŒ‡é¡ºè¯»å’Œå€’è¯»éƒ½ä¸€æ ·çš„è¯è¯­) palindrome
 Today is 11022011 - a very rare palindrome day(LATIMES)
-½ñÌìÈÕÆÚÊÇÉÙ¼ûµÄ»ØÎÄ
+ä»Šå¤©æ—¥æœŸæ˜¯å°‘è§çš„å›æ–‡
 
-#### ¼¤ÁÒ»¥Å¹ slugfest
+#### æ¿€çƒˆäº’æ®´ slugfest
 GOP slug-fest could drag on till June(LATIMES)
-¹²ºÍµ³ÄÚ¼¤ÁÒ»¥Å¹»áÍÏÑÓµ½6ÔÂ·İ
+å…±å’Œå…šå†…æ¿€çƒˆäº’æ®´ä¼šæ‹–å»¶åˆ°6æœˆä»½
 WTO faces a nine-way slugfest(WAPOST)
-ÊÀÃ³×éÖ¯Ãæ¶Ô¾Å·½¼¤ÁÒÕù³³
+ä¸–è´¸ç»„ç»‡é¢å¯¹ä¹æ–¹æ¿€çƒˆäº‰åµ
 
-#### ÅÑÂÒ mutiny/insurgency
+#### å›ä¹± mutiny/insurgency
 Soldiers mutiny at military base in Mali
-ÔÚÂíÀï¾üÊÂ»ùµØÀï,Ê¿±ø¿ªÊ¼ÅÑÂÒ
+åœ¨é©¬é‡Œå†›äº‹åŸºåœ°é‡Œ,å£«å…µå¼€å§‹å›ä¹±
 UN report on Congo mutiny omits evidence of Rwanda role
-ÁªºÏ¹ú¹ØÓÚ¸Õ¹û·´ÅÑ±¨¸æºöÂÔÁËÂ¬Íú´ï½ÇÉ«
+è”åˆå›½å…³äºåˆšæœåå›æŠ¥å‘Šå¿½ç•¥äº†å¢æ—ºè¾¾è§’è‰²
 Starbucks Mutiny Exposes New York's Reliance on Chain's Toilets(TIMES) 
-ĞÇ°Í¿ËµÄ±³ÅÑ±©Â¶³öÅ¦Ô¼ÒÀÀµÓÚÁ¬ËøµêµÄ²ŞËù
+æ˜Ÿå·´å…‹çš„èƒŒå›æš´éœ²å‡ºçº½çº¦ä¾èµ–äºè¿é”åº—çš„å•æ‰€
 
-#### ÃñÈ¨ civil rights
+#### æ°‘æƒ civil rights
 Wichita, Kan. civil rights sit-in pioneers(CBS)
-¿°ÈøË¹Öİ,ÃñÈ¨²ÎÓëµÄÏÈÇı
+å ªè¨æ–¯å·,æ°‘æƒå‚ä¸çš„å…ˆé©±
 'Apostate' aids civil rights lawsuit against radical sect(LATIMES)
-±ä½ÚÕßĞ­Öú½øĞĞ·´¶Ô¼¤½øÅÉ±ğµÄ¹«ÃñÈ¨ËßËÏ
+å˜èŠ‚è€…ååŠ©è¿›è¡Œåå¯¹æ¿€è¿›æ´¾åˆ«çš„å…¬æ°‘æƒè¯‰è®¼
 Obama likens civil rights to economy fight at memorial(Reuters)
-°Â°ÍÂí±ÈÄâ¹«ÃñÈ¨³É¾­¼ÃÈ¨ÔÚ¼ÍÄî±®Âä³ÉÒÇÊ½ÉÏ
+å¥¥å·´é©¬æ¯”æ‹Ÿå…¬æ°‘æƒæˆç»æµæƒåœ¨çºªå¿µç¢‘è½æˆä»ªå¼ä¸Š
 
-#### ÈÎÆÚ tenure  ÖÕÉúÈÎÆÚ lifetime tenure  Æ¸ÓÃÂÊ tenure rate
+#### ä»»æœŸ tenure  ç»ˆç”Ÿä»»æœŸ lifetime tenure  è˜ç”¨ç‡ tenure rate
 Poll: 60% oppose Supreme Court lifetime tenure(CBS)
-´ó²¿·ÖÈË·´¶Ô¸ßµÈ·¨ÔºµÄÖÕÉúÈÎÆÚ
+å¤§éƒ¨åˆ†äººåå¯¹é«˜ç­‰æ³•é™¢çš„ç»ˆç”Ÿä»»æœŸ
 Once Nearly 100%, Teacher Tenure Rate Drops to 58% as Rules Tighten(TIMES)
-ÓÉÓÚ¹æÔò¼ÓÇ¿,½ÌÊ¦Æ¸ÓÃÂÊ´Ó½Ó½ü100%ÏÂ½µµ½58%×óÓÒ
+ç”±äºè§„åˆ™åŠ å¼º,æ•™å¸ˆè˜ç”¨ç‡ä»æ¥è¿‘100%ä¸‹é™åˆ°58%å·¦å³
 Mitt Romney's Bain Capital tenure shows mixed record on bankruptcies(WAPOST) 
-Â³Ã·Äá±´¶÷×Ê±¾µÄÈÎÆÚÏÔÊ¾ÔÚÆÆ²úÎÊÌâÉÏÓĞ»ìÂÒµÄ¼ÇÂ¼
+é²æ¢…å°¼è´æ©èµ„æœ¬çš„ä»»æœŸæ˜¾ç¤ºåœ¨ç ´äº§é—®é¢˜ä¸Šæœ‰æ··ä¹±çš„è®°å½•
 
-#### ¹ÜÀí ÊÜ¿´¹Ü ±»²¶ in charge
+#### ç®¡ç† å—çœ‹ç®¡ è¢«æ• in charge
 Ahmadinejad limps towards last year in charge(CBS)
-ÄÚ¼ÖµÂµøµø×²×²Íê³ÉÈ¥Äê¶ÔÒÁÀÊ¹ÜÀí
+å†…è´¾å¾·è·Œè·Œæ’æ’å®Œæˆå»å¹´å¯¹ä¼Šæœ—ç®¡ç†
 Christie "fine and in charge" from hospital(CBS)
-¿ËÀïË¹µÙÔÚÒ½ÔººÜºÃ²¢´¦ÓÚ¿´¹ÜÖ®ÏÂ
+å…‹é‡Œæ–¯è’‚åœ¨åŒ»é™¢å¾ˆå¥½å¹¶å¤„äºçœ‹ç®¡ä¹‹ä¸‹
 Eyewitness to Qaddafi's last moments in charge(CBS)
-¿¨Ôú·Æ×îºóÊ±¿ÌÄ¿»÷Õß±»²¶
+å¡æ‰è²æœ€åæ—¶åˆ»ç›®å‡»è€…è¢«æ•
 
-#### µçÓ°¾ç±¾ screenplay
+#### ç”µå½±å‰§æœ¬ screenplay
 Screenplay for murder(CBS)
-Ä±É±µÄµçÓ°¾ç±¾
+è°‹æ€çš„ç”µå½±å‰§æœ¬
 Download screenplays of Oscar contenders(CBS)
-ÏÂÔØµçÓ°¾ç±¾
+ä¸‹è½½ç”µå½±å‰§æœ¬
 
-#### Ò»ÏßÏ£Íû Silver lining   ÓĞÒ»ÏßÏ£Íû have a silver lining
+#### ä¸€çº¿å¸Œæœ› Silver lining   æœ‰ä¸€çº¿å¸Œæœ› have a silver lining
 Silver lining in June's dismal jobs report(CBS)
-ÁùÔÂ²î¾¢µÄ¾ÍÒµ±¨¸æÖĞÓĞÒ»ÏßÏ£Íû
+å…­æœˆå·®åŠ²çš„å°±ä¸šæŠ¥å‘Šä¸­æœ‰ä¸€çº¿å¸Œæœ›
 Tattered economy has a silver lining for conservationists(LATIMES)
-¶ÔÓÚ¹ØĞÄ»·±£ÎÊÌâµÄÈË,ÆÆËéµÄ¾­¼Ã,ÓĞÒ»ÏßÏ£Íû
+å¯¹äºå…³å¿ƒç¯ä¿é—®é¢˜çš„äºº,ç ´ç¢çš„ç»æµ,æœ‰ä¸€çº¿å¸Œæœ›
 
-#### ÊÔÒÂ¼ä fitting room
+#### è¯•è¡£é—´ fitting room
 Virtual fitting rooms changing the clothes shopping experience(LATIMES) 
-ĞéÄâÊÔÒÂ¼ä¸Ä±ä¹ºÒÂµÄÌåÑé
+è™šæ‹Ÿè¯•è¡£é—´æ”¹å˜è´­è¡£çš„ä½“éªŒ
 
-#### ¼Ù¾¯¸æ false alarm
+#### å‡è­¦å‘Š false alarm
 HIV scare that led to porn industry shutdown a false alarm(LATIMES)
-µ¼ÖÂĞÔ²úÒµ¹Ø±ÕµÄ°¬×Ì¿Ö»ÅÊÇ¸ö¼Ù¾¯¸æ
+å¯¼è‡´æ€§äº§ä¸šå…³é—­çš„è‰¾æ»‹ææ…Œæ˜¯ä¸ªå‡è­¦å‘Š
 
-#### Ë®¾® water well  Ë®¾®¸ÉºÔ water wells dry up
+#### æ°´äº• water well  æ°´äº•å¹²æ¶¸ water wells dry up
 Midwest Water Wells Drying Up in Drought(TIMES)
-¸ÉºµÖĞÖĞÎ÷²¿´óÁ¿Ë®¾®¸ÉºÔ
+å¹²æ—±ä¸­ä¸­è¥¿éƒ¨å¤§é‡æ°´äº•å¹²æ¶¸
 
-#### ¾öÈüÑ¡ÊÖ finalist
+#### å†³èµ›é€‰æ‰‹ finalist
 Another finalist sliced from 'American Idol'
-ÓÖÒ»ÃûÃÀ¹úÅ¼Ïñ¾öÈüÑ¡ÊÖ±»ÌÔÌ­
+åˆä¸€åç¾å›½å¶åƒå†³èµ›é€‰æ‰‹è¢«æ·˜æ±°
 Another finalist takes a bow on 'American Idol'
-ÓÖÒ»¸ö¾öÈüÑ¡ÊÖÏòÃÀ¹úÅ¼Ïñ½ÚÄ¿³ö¾Ö
+åˆä¸€ä¸ªå†³èµ›é€‰æ‰‹å‘ç¾å›½å¶åƒèŠ‚ç›®å‡ºå±€
 'Idol' finalists brave birth-year tunes 
-'ÄêÁäÃÅ'ÊÂ¼şÏÖÃÀ¹úÅ¼Ïñ¾öÈüÑ¡ÊÖÎŞÎ·ÄêÁäĞŞ¸Ä´«ÎÅ
+'å¹´é¾„é—¨'äº‹ä»¶ç°ç¾å›½å¶åƒå†³èµ›é€‰æ‰‹æ— ç•å¹´é¾„ä¿®æ”¹ä¼ é—»
 'Idol' finalists ignite Elton John classics (AP)
-Å¼Ïñ¾öÈüÃûµ¥µãÈ¼¶Ô¾ö
+å¶åƒå†³èµ›åå•ç‚¹ç‡ƒå¯¹å†³
 Another finalist bounced from 'American Idol'(AP) 
-ÓÖÒ»¸ö¾öÈüÑ¡ÊÖ±»µ¯»Ø
+åˆä¸€ä¸ªå†³èµ›é€‰æ‰‹è¢«å¼¹å›
 
-#### ÂıÅÜÕß jogger
+#### æ…¢è·‘è€… jogger
 Chicago jogger critically hurt in pit bull attack(CBS)
-Ö¥¼Ó¸çÂıÅÜÕß±»±ÈÌØÈ®¹¥»÷¶øÑÏÖØµØÊÜÉË
+èŠåŠ å“¥æ…¢è·‘è€…è¢«æ¯”ç‰¹çŠ¬æ”»å‡»è€Œä¸¥é‡åœ°å—ä¼¤
 Dustin Hoffman comes to aid of London jogger(CBS)
-´ïË¹¶¡»ô·òÂüÀ´°ïÖúÂ×¶ØÂıÅÜÕß
+è¾¾æ–¯ä¸éœå¤«æ›¼æ¥å¸®åŠ©ä¼¦æ•¦æ…¢è·‘è€…
 NYC seeks footage for Central Park jogger lawsuit(Yahoo)
-Å¦Ô¼Ñ°ÇóÕë¶ÔÖĞÑë¹«Ô°ÂıÅÜÕßËßËÏµÄÊÓÆµÆ¬¶Î
+çº½çº¦å¯»æ±‚é’ˆå¯¹ä¸­å¤®å…¬å›­æ…¢è·‘è€…è¯‰è®¼çš„è§†é¢‘ç‰‡æ®µ
 
-#### ²¢¼İÆëÇı neck-and-neck
+#### å¹¶é©¾é½é©± neck-and-neck
 New polls show presidential race neck-and-neck(CBS)
-ĞÂÃñµ÷ÏÔÊ¾×ÜÍ³Ñ¡¾Ù²¢¼İÆëÇı
+æ–°æ°‘è°ƒæ˜¾ç¤ºæ€»ç»Ÿé€‰ä¸¾å¹¶é©¾é½é©±
 
-#### »ù´¡ Á¢³¡ footing
+#### åŸºç¡€ ç«‹åœº footing
 Interstate Hotels regains its footing: Is an IPO in the future?(WAPOST) 
-Öİ¼Ê¾ÆµêÖØ»ñËüµÄ»ù´¡
+å·é™…é…’åº—é‡è·å®ƒçš„åŸºç¡€
 
-#### ½ĞĞÑÈËµÄµç»° ÌáĞÑĞÅºÅ wake-up call
+#### å«é†’äººçš„ç”µè¯ æé†’ä¿¡å· wake-up call
 Google, Safari and our final privacy wake-up call(WAPOST)
-»½ĞÑÒşË½µÄºôÓõ
+å”¤é†’éšç§çš„å‘¼å
 New study is wake-up call for diet soda drinkers(CBS)
-ĞÂµÄÑĞ¾¿½á¹ûÊÇÒ»¸öÌáĞÑĞÅºÅ,¶ÔÓÚÈÕ³£ÒûÊ³ËÕ´òµÄÈË
+æ–°çš„ç ”ç©¶ç»“æœæ˜¯ä¸€ä¸ªæé†’ä¿¡å·,å¯¹äºæ—¥å¸¸é¥®é£Ÿè‹æ‰“çš„äºº
 
-#### ÓŞ´ÀÎŞÀñÃ²µÄÈË goop
+#### æ„šè ¢æ— ç¤¼è²Œçš„äºº goop
 'Indonesia battles "rail surfers" with goop(CBS)
-Ó¡¶ÈÄáÎ÷ÑÇ¶Ô¸¶ÓŞ´ÀÎŞÀñÃ²µÄ'¹ìµÀ³åÀËÈË
+å°åº¦å°¼è¥¿äºšå¯¹ä»˜æ„šè ¢æ— ç¤¼è²Œçš„'è½¨é“å†²æµªäºº
 
-#### ..µÄ¸´ËÕ ..µÄ¸´ĞË rise of sth
+#### ..çš„å¤è‹ ..çš„å¤å…´ rise of sth
 Rise of Consumer Credit in Chile and Brazil Leads to Big Debts and Lender Abuses(TIMES)
-°ÍÎ÷ºÍÖÇÀûÏû·ÑÕßĞÅ´û¸´ËÕ,Ôì³É´óÕ®ÎñºÍ½è´ûÈËÀÄÓÃ
+å·´è¥¿å’Œæ™ºåˆ©æ¶ˆè´¹è€…ä¿¡è´·å¤è‹,é€ æˆå¤§å€ºåŠ¡å’Œå€Ÿè´·äººæ»¥ç”¨
 
-#### ³¤µÊ ×ùÎ» pew/seat
+#### é•¿å‡³ åº§ä½ pew/seat
 Pew on economic mobility: To get ahead, try Northeast or Midwest(LATIMES)
-×øÉÏ¾­¼ÃÁé»îĞÔ:ÏòÇ°,ÊÔÊÔ¶«±±ºÍÖĞÎ÷²¿µØÇø
+åä¸Šç»æµçµæ´»æ€§:å‘å‰,è¯•è¯•ä¸œåŒ—å’Œä¸­è¥¿éƒ¨åœ°åŒº
 Questions of 'Why' and 'How' fill pews in CT town(Yahoo)
-ÎªºÎ¼°ÔõÃ´ÑùÔÚ³ÇÊĞÔö¼Ó×ùÎ»
+ä¸ºä½•åŠæ€ä¹ˆæ ·åœ¨åŸå¸‚å¢åŠ åº§ä½
 
-#### Ö¤¾İ ·À»¤ proof  µ¼µ¯·ÀÓùÏµÍ³ shield-proof missile  ´ú¼ÛµÄÖ¤Ã÷ proof of costs  ¸Ä±äµÄÖ¤Ã÷ proof of change
+#### è¯æ® é˜²æŠ¤ proof  å¯¼å¼¹é˜²å¾¡ç³»ç»Ÿ shield-proof missile  ä»£ä»·çš„è¯æ˜ proof of costs  æ”¹å˜çš„è¯æ˜ proof of change
 Russia: Shield-proof missile test-fired(CBS)
-µ¼µ¯·ÀÓùÏµÍ³ÊÔÉä
+å¯¼å¼¹é˜²å¾¡ç³»ç»Ÿè¯•å°„
 Inside a Libyan Hospital, Proof of a Revolt's Costs(TIMES)
-ÔÚÀû±ÈÑÇÒ½ÔºÖĞµÄ(ÉËÕß),ÊÇ·´¿¹Õß´ú¼ÛµÄÖ¤Ã÷
+åœ¨åˆ©æ¯”äºšåŒ»é™¢ä¸­çš„(ä¼¤è€…),æ˜¯åæŠ—è€…ä»£ä»·çš„è¯æ˜
 Coroner: No proof Jackson gave self fatal dose(CBS)
-Ã»ÓĞÖ¤¾İ±íÃ÷½Ü¿ËÑ·¸ø×Ô¼º×¢ÉäÖÂÃüÒ©¼ÁÁ¿
+æ²¡æœ‰è¯æ®è¡¨æ˜æ°å…‹é€Šç»™è‡ªå·±æ³¨å°„è‡´å‘½è¯å‰‚é‡
 Kremlin Points to Medvedev Speech as Proof of Change(TIMES) 
-¿ËÀïÄ·ÁÖ¹¬Ö¸³öÃ·µÂÎ¤½Ü·ò½²»°¾ÍÊÇ¸Ä±äµÄÖ¤Ã÷
+å…‹é‡Œå§†æ—å®«æŒ‡å‡ºæ¢…å¾·éŸ¦æ°å¤«è®²è¯å°±æ˜¯æ”¹å˜çš„è¯æ˜
 
-#### °ËØÔ gossip/shoot the breeze
+#### å…«å¦ gossip/shoot the breeze
 Small-Town Gossip Moves to the Web, Anonymous and Vicious(TIMES)
-Ğ¡³Ç°ËØÔÉÏÁË»¥ÁªÍø,ÄäÃûµÄºÍ¶ñ¶¾µÄ
+å°åŸå…«å¦ä¸Šäº†äº’è”ç½‘,åŒ¿åçš„å’Œæ¶æ¯’çš„
 
-#### µ¥¹ìÌúÂ· monorail  ÌøÏÂµ¥¹ì³µ jump off monorail
+#### å•è½¨é“è·¯ monorail  è·³ä¸‹å•è½¨è½¦ jump off monorail
 Man jumps off Bronx Zoo monorail, mauled by tiger(Yahoo)
-ÄĞ×Ó´Óµ¥¹ìÌúÂ·ÉÏÌøÏÂ,±»ÀÏ»¢ÉËº¦
+ç”·å­ä»å•è½¨é“è·¯ä¸Šè·³ä¸‹,è¢«è€è™ä¼¤å®³
 
-#### ´óÖ÷½Ì archbishop
+#### å¤§ä¸»æ•™ archbishop
 Cameroon archbishop calls same-sex marriage crime against humanity(Yahoo)
-¿¦ÂóÂ¡´óÖ÷½ÌºôÓõÍ¬ĞÔ»éÒö·´ÈËÀà×ï
+å–€éº¦éš†å¤§ä¸»æ•™å‘¼ååŒæ€§å©šå§»åäººç±»ç½ª
 
-#### Ğ¡¶îË÷Åâ small-claims
+#### å°é¢ç´¢èµ” small-claims
 Honda wins reversal of Civic hybrid small-claims judgment(LATIMES)
-±¾ÌïÔÚĞ¡¶îË÷Åâ°¸²ÃÅĞÉÏÅ¤×ª»ñÊ¤
+æœ¬ç”°åœ¨å°é¢ç´¢èµ”æ¡ˆè£åˆ¤ä¸Šæ‰­è½¬è·èƒœ
 
-#### É±ÈË homicide
+#### æ€äºº homicide
 Homicide no longer a top cause of death in U.S.(CBS)
-É±ÈË²»ÔÙÊÇÃÀ¹úËÀÍöÔ­ÒòµÄµÚÒ»Î»
+æ€äººä¸å†æ˜¯ç¾å›½æ­»äº¡åŸå› çš„ç¬¬ä¸€ä½
 Danny Chen suicide: Sergeant guilty of assault but not homicide(LATIMES)
-Ê¿±ø×ÔÉ±°¸,ÖĞÊ¿¶Ô¹¥»÷ÈÏ×ïµ«²»Í¬ÒâÉ±ÈËÖ¸¿Ø
+å£«å…µè‡ªæ€æ¡ˆ,ä¸­å£«å¯¹æ”»å‡»è®¤ç½ªä½†ä¸åŒæ„æ€äººæŒ‡æ§
 
-#### Á÷ÑÔ Ì¸ÂÛ ÎËÎËÉù buzz
+#### æµè¨€ è°ˆè®º å—¡å—¡å£° buzz
 Premiere buzz whets appetite of 'Hunger' fans
-Ê×ÑİµÄÁ÷ÑÔÒıÆğ¼¢¶ö·ÛË¿µÄÎ¸¿Ú
+é¦–æ¼”çš„æµè¨€å¼•èµ·é¥¥é¥¿ç²‰ä¸çš„èƒƒå£
 From Cubicles, Cry for Quiet Pierces Office Buzz(TIMES)
-Ğ¡¸ô¼äÖĞ,¿ŞÇó°²¾²´©Í¸°ì¹«ÊÒÏĞÑÔ
+å°éš”é—´ä¸­,å“­æ±‚å®‰é™ç©¿é€åŠå…¬å®¤é—²è¨€
 A buzzing NY readies for hundreds of gay weddings(AP)
-ÈÈÁÒÌ¸ÂÛµÄÅ¦Ô¼×¼±¸ºÃ¼¸°ÙÍ¬ĞÔÁµ½á»é
+çƒ­çƒˆè°ˆè®ºçš„çº½çº¦å‡†å¤‡å¥½å‡ ç™¾åŒæ€§æ‹ç»“å©š
 Noncandidates are keeping presidential buzz alive(AP)
-·ÇºòÑ¡ÈËÕı³ÖĞø±£³Ö×ÜÍ³µÄÁ÷ÑÔ
+éå€™é€‰äººæ­£æŒç»­ä¿æŒæ€»ç»Ÿçš„æµè¨€
 Why are toys selling out? Might be mommy blog buzz(AP) 
-ÎªºÎÍæ¾ßÂôµÄ¿ì,¿ÉÄÜÂèÂèÃÇ²©¿Í´«²¥×÷ÓÃ
+ä¸ºä½•ç©å…·å–çš„å¿«,å¯èƒ½å¦ˆå¦ˆä»¬åšå®¢ä¼ æ’­ä½œç”¨
 
-#### ¹ã½»»á canton fair
+#### å¹¿äº¤ä¼š canton fair
 Chinese Exporters Show Weakness at Canton Fair(TIMES)
-ÔÚ¹ã½»»áÉÏ,ÖĞ¹ú³ö¿ÚÏÔÈõ
+åœ¨å¹¿äº¤ä¼šä¸Š,ä¸­å›½å‡ºå£æ˜¾å¼±
 
-#### º£°Î ¸ß¶È altitude  Ê§È¥ÁìÏÈ lose altitude
+#### æµ·æ‹” é«˜åº¦ altitude  å¤±å»é¢†å…ˆ lose altitude
 Cattle Tested for Effects of Altitude on Heart(TIMES)
-Å£±»ÊÔÑéº£°Î¸ß¶È¶ÔĞÄÔàµÄÓ°ÏìĞ§¹û
+ç‰›è¢«è¯•éªŒæµ·æ‹”é«˜åº¦å¯¹å¿ƒè„çš„å½±å“æ•ˆæœ
 New poll shows Israel's leader losing altitude(Yahoo)
-ĞÂÃñµ÷ÏÔÊ¾ÒÔÉ«ÁĞÁìµ¼ÈËÖ§³ÖÏÂ½µ
+æ–°æ°‘è°ƒæ˜¾ç¤ºä»¥è‰²åˆ—é¢†å¯¼äººæ”¯æŒä¸‹é™
 
-#### Çõ³¤¹ú emirate
+#### é…‹é•¿å›½ emirate
 Emirates Airline Bets on Glamour(TIMES)
-Çõ³¤¹úº½¿Õ¹«Ë¾ÔÚÎüÒıÁ¦ÉÏÏÂ¹¦·ò
+é…‹é•¿å›½èˆªç©ºå…¬å¸åœ¨å¸å¼•åŠ›ä¸Šä¸‹åŠŸå¤«
 
-#### ÄÁÑòÈË sheep-herding
+#### ç‰§ç¾Šäºº sheep-herding
 Swedish sheep-herding bunny becomes viral hit(CBS)
-ÈğµäÄÁÑòÈËÍÃÅ®ÀÉÊÓÆµ±äµÃ³¬Á÷ĞĞ
+ç‘å…¸ç‰§ç¾Šäººå…”å¥³éƒè§†é¢‘å˜å¾—è¶…æµè¡Œ
 
-#### ÂíÈü horserace
+#### é©¬èµ› horserace
 GOP horserace: Bunching around the first turn(CBS) 
-¹²ºÍµ³ÄÚ²¿Ñ¡Õ½:ÔÚµÚÒ»Î»ÖÃÅÔ±ß¾Û¼¯ÁËºÜ¶àÈË
+å…±å’Œå…šå†…éƒ¨é€‰æˆ˜:åœ¨ç¬¬ä¸€ä½ç½®æ—è¾¹èšé›†äº†å¾ˆå¤šäºº
 
-#### Ğ¡¼¿Á© »¨ÕĞ gimmick
+#### å°ä¼ä¿© èŠ±æ‹› gimmick
 Frustrated GOP freshmen target gimmicks that make it hard to cut the budget(WAPOST)
-Ê§ÍûÊÜ´ìµÄ¹²ºÍµ³ÒéÔ±×¼±¸ÓÃ»¨ÕĞÀ´Ê¹Ô¤ËãÏ÷¼õÀ§ÄÑ
+å¤±æœ›å—æŒ«çš„å…±å’Œå…šè®®å‘˜å‡†å¤‡ç”¨èŠ±æ‹›æ¥ä½¿é¢„ç®—å‰Šå‡å›°éš¾
 Google's Project Glass: Gimmick or great idea?(WAPOST)
-¹È¸èµÄÖÇÄÜÑÛ¾µÏîÄ¿ÊÇĞ¡ÍæÒâ»¹ÊÇ´óÏë·¨
+è°·æ­Œçš„æ™ºèƒ½çœ¼é•œé¡¹ç›®æ˜¯å°ç©æ„è¿˜æ˜¯å¤§æƒ³æ³•
 States are using gimmicks to hide their budget woes, but their fiscal problems are here to stay(WAPOST)
-Õş¸®Ê¹ÓÃĞ¡»¨ÕĞÀ´ÒşÂ÷Õ®ÎñÍ´¿à,µ«²ÆÕşÎÊÌâÒÀ¾É´æÔÚ
+æ”¿åºœä½¿ç”¨å°èŠ±æ‹›æ¥éšç’å€ºåŠ¡ç—›è‹¦,ä½†è´¢æ”¿é—®é¢˜ä¾æ—§å­˜åœ¨
 
-#### Õæ¿Õ vacuum  Ìî²¹È¨Á¦Õæ¿Õ fill power vacuum
+#### çœŸç©º vacuum  å¡«è¡¥æƒåŠ›çœŸç©º fill power vacuum
 Itineraries: Trench Coats, Vacuum-Seal Bags and Other Ways to Avoid Airline Fees(TIMES)
-ÂÃĞĞÂ·Ïß¼Æ»®:·ÀË®·ş,Õæ¿ÕÃÜ·â°üºÓÆäËü·½Ê½À´±ÜÃâ·É»ú·ÑÓÃ
+æ—…è¡Œè·¯çº¿è®¡åˆ’:é˜²æ°´æœ,çœŸç©ºå¯†å°åŒ…æ²³å…¶å®ƒæ–¹å¼æ¥é¿å…é£æœºè´¹ç”¨
 Many rebel-held Syria towns attempt to fill power vacuum(LATIMES)
-ºÜ¶à·´¶ÔÅÉÕÆ¿ØµÄ³ÇÕòÊÔÍ¼Ìî²¹È¨Á¦Õæ¿Õ
+å¾ˆå¤šåå¯¹æ´¾æŒæ§çš„åŸé•‡è¯•å›¾å¡«è¡¥æƒåŠ›çœŸç©º
 Tripoli Divided as Rebels Jostle to Fill Power Vacuum(TIMES)
-µÄÀè²¨Àï·ÖÁÑÓÉÓÚ·´¶ÔÅÉÕù¶áÌî²¹È¨ÀûÕæ¿Õ
+çš„é»æ³¢é‡Œåˆ†è£‚ç”±äºåå¯¹æ´¾äº‰å¤ºå¡«è¡¥æƒåˆ©çœŸç©º
 
-#### ¿ê×Ó chopsticks
+#### ç­·å­ chopsticks
 China's hunger for chopsticks gives American town a lift(CBS)
-ÖĞ¹ú¶Ô¿ê×ÓµÄ¿ÊÍû¸øÃÀ¹ú³ÇÊĞÒ»¸ö¹ÄÎè
+ä¸­å›½å¯¹ç­·å­çš„æ¸´æœ›ç»™ç¾å›½åŸå¸‚ä¸€ä¸ªé¼“èˆ
 
-#### Ö÷½Ì ºìÈ¸ »ù±¾µÄ ÖØÒªµÄ cardinal
+#### ä¸»æ•™ çº¢é›€ åŸºæœ¬çš„ é‡è¦çš„ cardinal
 Pope convenes cardinals to discuss leak scandal
-½Ì»ÊÕÙ¼¯Ö÷½ÌÃÇÌÖÂÛ³óÎÅĞ¹Â©ÎÊÌâ
+æ•™çš‡å¬é›†ä¸»æ•™ä»¬è®¨è®ºä¸‘é—»æ³„æ¼é—®é¢˜
 Kolb, Cardinals battered in fall from unbeatens(Yahoo)
-¿Æ¶û²¼,ºìÈ¸¶ÓÔÚÇï¼¾Èü³ÌÖĞ´Ó²»¿É»÷°Üµ½ÊÜ½ÓÁ¬´ò»÷
+ç§‘å°”å¸ƒ,çº¢é›€é˜Ÿåœ¨ç§‹å­£èµ›ç¨‹ä¸­ä»ä¸å¯å‡»è´¥åˆ°å—æ¥è¿æ‰“å‡»
 
-#### Åó¿ËÒ¡¹öÀÖ¶Ó punk rock band
+#### æœ‹å…‹æ‘‡æ»šä¹é˜Ÿ punk rock band
 Russian punk band plans new anti-Putin protests(Yahoo)
-¶íÂŞË¹Åó¿ËÒ¡¹öÀÖ¶Ó¼Æ»®ĞÂµÄ·´ÆÕ¾©Ê¾Íş
+ä¿„ç½—æ–¯æœ‹å…‹æ‘‡æ»šä¹é˜Ÿè®¡åˆ’æ–°çš„åæ™®äº¬ç¤ºå¨
 
-#### (²ÆÎñ)¼õ¼Ç writedown
+#### (è´¢åŠ¡)å‡è®° writedown
 HP braces for huge loss after $8 billion EDS writedown(Yahoo)
-»İÆÕ×¼±¸ºÃ´ó¹æÄ£ËğÊ§,ÔÚÊÕ¹ºEDS²Æ±¨¼õ¼Çºó
+æƒ æ™®å‡†å¤‡å¥½å¤§è§„æ¨¡æŸå¤±,åœ¨æ”¶è´­EDSè´¢æŠ¥å‡è®°å
 Greece may need 60 percent bond writedown; EU at odds(Reuters)
-Ï£À°ĞèÒª°Ù·ÖÖ®ÁùÊ®Õ®È¯ÕËÃæ¼ÛÖµµÄ¼õ¼Ç,Å·ÃËºÜ³Ô¾ª
+å¸Œè…Šéœ€è¦ç™¾åˆ†ä¹‹å…­åå€ºåˆ¸è´¦é¢ä»·å€¼çš„å‡è®°,æ¬§ç›Ÿå¾ˆåƒæƒŠ
 
-#### ÆğÖØ»ú crane
+#### èµ·é‡æœº crane
 Mother not surprised son died in crane standoff
-¶ù×ÓËÀÓÚÆğÖØ»úËÀËø
+å„¿å­æ­»äºèµ·é‡æœºæ­»é”
 2 dead in crane collapse on UT-Dallas campus(CBS)
-2ÈËËÀÓÚ´óµõ³µµÄ±ÀËúÊÂ¹Ê
+2äººæ­»äºå¤§åŠè½¦çš„å´©å¡Œäº‹æ•…
 
-#### ÁªºÏÌå ×ÛºÏÌå complex
+#### è”åˆä½“ ç»¼åˆä½“ complex
 Mexico port picks up slack from strike at L.A., Long Beach complex(LATIMES)
-ÔÚ°Õ¹¤ºó,Ä«Î÷¸ç¸Û½ÓÊÖÏôÌõµÄ³¤Ì²ÁªºÏÌå
+åœ¨ç½¢å·¥å,å¢¨è¥¿å“¥æ¸¯æ¥æ‰‹è§æ¡çš„é•¿æ»©è”åˆä½“
 
-#### ÉşÌ× Êø¸¿ noose  ¼Ó½ô¿ØÖÆ tighten noose
+#### ç»³å¥— æŸç¼š noose  åŠ ç´§æ§åˆ¶ tighten noose
 Congress sees shipping-certification firms as tool to tighten Iran noose(WAPOST) 
-¹ú»áÉó²éÓĞ×Ê¸ñ´¬ÔË¹«Ë¾×÷Îª¼Ó½ô¶ÔÒÁÀÊ½ûÔËµÄÊÖ¶Î
+å›½ä¼šå®¡æŸ¥æœ‰èµ„æ ¼èˆ¹è¿å…¬å¸ä½œä¸ºåŠ ç´§å¯¹ä¼Šæœ—ç¦è¿çš„æ‰‹æ®µ
 
-#### ·¨Áî ÌõÁî ordinance
+#### æ³•ä»¤ æ¡ä»¤ ordinance
 Los Angeles adopts 'responsible banking' ordinance(LATIMES)
-ÂåÉ¼í¶ÊĞ²ÉÓÃÓĞÔğÈÎÒøĞĞ·¨¹æ
+æ´›æ‰çŸ¶å¸‚é‡‡ç”¨æœ‰è´£ä»»é“¶è¡Œæ³•è§„
 
-#### Ö¸µ¼ ·½Õë guideline/guidance/tutorial
+#### æŒ‡å¯¼ æ–¹é’ˆ guideline/guidance/tutorial
 Guidelines on cervical cancer tests present dilemma(CBS)
-¹¬¾±°©¼ì²âÖ¸µ¼³öÏÖÀ§¾³
+å®«é¢ˆç™Œæ£€æµ‹æŒ‡å¯¼å‡ºç°å›°å¢ƒ
 
-#### ´óºà tycoon
+#### å¤§äº¨ tycoon
 British MPs to grill media tycoon over phone hacking(AFP)
-Ó¢¹úÒéÔ±ÖË¿¾ÅÌÎÊÃ½Ìå´óºà
+è‹±å›½è®®å‘˜ç‚™çƒ¤ç›˜é—®åª’ä½“å¤§äº¨
 Russian Tycoons Find Tougher Times as Money Flees(TIMES) 
-¶í¹ú´óºà·¢¾õ¼èÄÑµÄÊ±´úÓÉÓÚÏÖ½ğÁ÷Ê§
+ä¿„å›½å¤§äº¨å‘è§‰è‰°éš¾çš„æ—¶ä»£ç”±äºç°é‡‘æµå¤±
 
-#### ²»Æ½µÈ inequality  ÊÕÈë²»Æ½µÈ income inequality
+#### ä¸å¹³ç­‰ inequality  æ”¶å…¥ä¸å¹³ç­‰ income inequality
 Paul Ryan's budget plan betrays his own views on income inequality(WAPOST)
-±£ÂŞÔ¤Ëã¼Æ»®±³ÅÑËû×Ô¼º¶ÔÊÕÈë²»Æ½µÈµÄ¿´·¨
+ä¿ç½—é¢„ç®—è®¡åˆ’èƒŒå›ä»–è‡ªå·±å¯¹æ”¶å…¥ä¸å¹³ç­‰çš„çœ‹æ³•
 
-#### ´Ì Âé·³ÊÂ thorn ´ø´ÌµÄ thorny
+#### åˆº éº»çƒ¦äº‹ thorn å¸¦åˆºçš„ thorny
 Amazon's E-Book Pricing a Constant Thorn for Publishers(TIMES)
-ÑÇÂíÑ·µç×ÓÊé¶¨¼Û¶Ô³ö°æÕßÀ´ËµÊÇ¸öÓÀ¾ÃµÄÂé·³ÊÂ
+äºšé©¬é€Šç”µå­ä¹¦å®šä»·å¯¹å‡ºç‰ˆè€…æ¥è¯´æ˜¯ä¸ªæ°¸ä¹…çš„éº»çƒ¦äº‹
 
-#### µç»ã wire transfer
+#### ç”µæ±‡ wire transfer
 In Somalia, fears over US wire transfer block(AP) 
-ÔÚË÷ÂíÀï,ÈËÃÇµ£ÓÇÃÀ¹ú½ûÖ¹µç»ã
+åœ¨ç´¢é©¬é‡Œ,äººä»¬æ‹…å¿§ç¾å›½ç¦æ­¢ç”µæ±‡
 
-#### È¨¹ó ¸ß¹óµÄÈË dignitary  ×ğÑÏ dignity
+#### æƒè´µ é«˜è´µçš„äºº dignitary  å°Šä¸¥ dignity
 Dignitaries attending Mexico inauguration(Yahoo)
-È¨¹óÃÇ²Î¼ÓÄ«Î÷¸ç×ÜÍ³¾ÍÖ°ÒÇÊ½
+æƒè´µä»¬å‚åŠ å¢¨è¥¿å“¥æ€»ç»Ÿå°±èŒä»ªå¼
 Family, dignitaries pay tribute to Betty Ford(LATIMES) 
-¼Ò×å,È¨¹óÃÇ¶Ô¸£ÌØ±í´ï¾´Òâ
+å®¶æ—,æƒè´µä»¬å¯¹ç¦ç‰¹è¡¨è¾¾æ•¬æ„
 
-#### ºÃÖ÷Òâ ºÃµã×Ó ñŞÖå wrinkle
+#### å¥½ä¸»æ„ å¥½ç‚¹å­ è¤¶çš± wrinkle
 Pittsburgh negotiators new to Facebook wrinkle(Yahoo)
-Æ¥×È±¤½»Ò×Õß¶ÔÁ³Æ×ºÃµã×Ó²»ÊìÏ¤
+åŒ¹å…¹å ¡äº¤æ˜“è€…å¯¹è„¸è°±å¥½ç‚¹å­ä¸ç†Ÿæ‚‰
 
-#### ¿äÕÅ äÖÈ¾ hype/hyperbole  ¸÷ÖÖĞû´«³´×÷ all the hype Ã»´ïµ½Ğû´«Ä¿µÄ fall short of hype
+#### å¤¸å¼  æ¸²æŸ“ hype/hyperbole  å„ç§å®£ä¼ ç‚’ä½œ all the hype æ²¡è¾¾åˆ°å®£ä¼ ç›®çš„ fall short of hype
 Microcredit doesn't end poverty, despite all the hype(WAPOST)
-Ğ¡¶î´û¿î²¢Î´½áÊøÆ¶À§,¾¡¹ÜÓĞ¸÷ÖÖÌì»¨ÂÒ×¹µÄ¹ã¸æĞû´«
+å°é¢è´·æ¬¾å¹¶æœªç»“æŸè´«å›°,å°½ç®¡æœ‰å„ç§å¤©èŠ±ä¹±å çš„å¹¿å‘Šå®£ä¼ 
 GOP says Obama running on 'hype and blame'(LATIMES)
-¹²ºÍµ³Ëµ°Â°ÍÂíÕıÔÚ¼ÌĞø¿ä´óÆäÊµºÍÖ¸Ôğ¶ÔÊÖ
+å…±å’Œå…šè¯´å¥¥å·´é©¬æ­£åœ¨ç»§ç»­å¤¸å¤§å…¶å®å’ŒæŒ‡è´£å¯¹æ‰‹
 Facebook IPO: Lackluster trading after all the hype(CBS)
-Á³Æ×ÉÏÊĞ:ÔÚ¸÷ÖÖ¿ä´óÖ®ºóÆä½»Ò×Æ½µ­
+è„¸è°±ä¸Šå¸‚:åœ¨å„ç§å¤¸å¤§ä¹‹åå…¶äº¤æ˜“å¹³æ·¡
 Facebook IPO falls short of the hype(LATIMES)
-Á³Æ×ÉÏÊĞÃ»´ïµ½¿ä´óĞû´«µÄÄ¿µÄ
+è„¸è°±ä¸Šå¸‚æ²¡è¾¾åˆ°å¤¸å¤§å®£ä¼ çš„ç›®çš„
 Did Black Friday save the season? Beware the retail hype.(WAPOST) 
-ºÚÉ«ĞÇÆÚÎåÕü¾È±¾¼¾¶È,µ±ĞÄÁãÊÛÒµÌì»¨ÂÒ×¹µÄĞû´«±¨µÀ
+é»‘è‰²æ˜ŸæœŸäº”æ‹¯æ•‘æœ¬å­£åº¦,å½“å¿ƒé›¶å”®ä¸šå¤©èŠ±ä¹±å çš„å®£ä¼ æŠ¥é“
 
-#### ¹ÈÎï´¦Àí´«ËÍ»ú grain elevator
+#### è°·ç‰©å¤„ç†ä¼ é€æœº grain elevator
 Grain elevators shut, barges halted as Isaac nears(Yahoo)
-ÓÉÓÚ·ç±©,Å©³¡×÷Òµ¹Ø±Õ,¶ÉºÓ²µ´¬Í£ÔË
+ç”±äºé£æš´,å†œåœºä½œä¸šå…³é—­,æ¸¡æ²³é©³èˆ¹åœè¿
 Search suspended after Kansas grain elevator blast(AP)
-ÔÚ¿°ÈøË¹Öİ¹ÈÎï´«ËÍ´ø±¬Õ¨ºóËÑË÷ÔİÍ£
+åœ¨å ªè¨æ–¯å·è°·ç‰©ä¼ é€å¸¦çˆ†ç‚¸åæœç´¢æš‚åœ
 
-#### Õ½Êõ tactic  ºÏ·¨ÊÖ¶Î legal tactic
+#### æˆ˜æœ¯ tactic  åˆæ³•æ‰‹æ®µ legal tactic
 British tabloids' tactics may spur soul-searching(LATIMES)
-Ó¢¹úĞ¡±¨µÄ²ßÂÔ,´Ì¼¤Éî¶È·´Ë¼
+è‹±å›½å°æŠ¥çš„ç­–ç•¥,åˆºæ¿€æ·±åº¦åæ€
 China Increasingly Uses Tactic of Making Dissidents Vanish(TIMES)
-Öğ²½ÔöÇ¿Ê¹ÓÃÈÃÒì¼û·Ö×ÓÏûÊ§µÄÕ½Êõ
+é€æ­¥å¢å¼ºä½¿ç”¨è®©å¼‚è§åˆ†å­æ¶ˆå¤±çš„æˆ˜æœ¯
 Ohio Bill Splits Anti-Abortion Forces on Legal Tactics(TIMES) 
-¶íº¥¶íÒé°¸ÓÃºÏ·¨ÊÖ¶ÎÊ¹·´¶éÌ¥Á¦Á¿·ÖÁÑ
+ä¿„äº¥ä¿„è®®æ¡ˆç”¨åˆæ³•æ‰‹æ®µä½¿åå •èƒåŠ›é‡åˆ†è£‚
 
-#### ¸û×÷ ÖÖÖ² ÅàÑø cultivation
+#### è€•ä½œ ç§æ¤ åŸ¹å…» cultivation
 Roots of pot cultivation in national forests are hard to trace(LATIMES)
-´óÂéÖÖÖ²µÄ¸ùÒòºÜÀ§ÄÑ±»×·×Ù
+å¤§éº»ç§æ¤çš„æ ¹å› å¾ˆå›°éš¾è¢«è¿½è¸ª
 
-#### ¼ÍÄî »¶Çì jubilee  Çì×£×êÊ¯ÖÜÄêÇì mark diamond jubilee
+#### çºªå¿µ æ¬¢åº† jubilee  åº†ç¥é’»çŸ³å‘¨å¹´åº† mark diamond jubilee
 Queen marks diamond jubilee riding wave of popularity
-ÒÁÀûÉ¯°×Å®ÍõÇì×£×êÊ¯ÖÜÄêÇì¼İ×ÅÁ÷ĞĞµÄ·ç³±
+ä¼Šåˆ©èç™½å¥³ç‹åº†ç¥é’»çŸ³å‘¨å¹´åº†é©¾ç€æµè¡Œçš„é£æ½®
 
-#### ÂÛÌ³ tribune
+#### è®ºå› tribune
 The Texas Tribune: Analysis Reveals Asylum Records of Judges(TIMES)
-µÂÖİÂÛÌ³±¨:·ÖÎö½ÒÊ¾±ÜÄÑµÄÅĞ¾ö¼ÇÂ¼
+å¾·å·è®ºå›æŠ¥:åˆ†ææ­ç¤ºé¿éš¾çš„åˆ¤å†³è®°å½•
 
-#### ´æÁ¿×¡·¿ existing home
+#### å­˜é‡ä½æˆ¿ existing home
 Existing home sales up but price outlook grim(Reuters)
-´æÁ¿×¡·¿ÏúÊÛÉÏÉı,µ«¼Û¸ñÕ¹ÍûÑÏ¾ş
+å­˜é‡ä½æˆ¿é”€å”®ä¸Šå‡,ä½†ä»·æ ¼å±•æœ›ä¸¥å³»
 
-#### Ö±Éı»ú chopper Ö±Éı»ú×¹»Ù chopper crash
+#### ç›´å‡æœº chopper ç›´å‡æœºå æ¯ chopper crash
 Medical chopper crash in Missouri kills 4(CBS)
-Ò½Îñ¾ÈÔ®Ö±Éı»ú×¹»ÙÔÚÃÜËÕÀïÖİ4ÈËËÀÍö
+åŒ»åŠ¡æ•‘æ´ç›´å‡æœºå æ¯åœ¨å¯†è‹é‡Œå·4äººæ­»äº¡
 
-#### ×ÔÈ»Á¦Á¿ ´óµØÖ®Ä¸ mother nature
+#### è‡ªç„¶åŠ›é‡ å¤§åœ°ä¹‹æ¯ mother nature
 The scold in Mother Nature's cold: It's winter! Wear a coat! (VIDEO)(The Christian Science Monitor)
-×ÔÈ»Á¦Á¿µÄÔğÂî:¶¬ÌìÁË,´©ÉÏÒÂ·ş
+è‡ªç„¶åŠ›é‡çš„è´£éª‚:å†¬å¤©äº†,ç©¿ä¸Šè¡£æœ
 
-#### Âğ·È morphine
+#### å—å•¡ morphine
 A shortage of morphine means a world of pain(CBS)
-Âğ·È¶ÌÈ±ÒâÎ¶×Å´óÁ¿µÄÌÛÍ´
+å—å•¡çŸ­ç¼ºæ„å‘³ç€å¤§é‡çš„ç–¼ç—›
 
-#### ×îºó³ÂÊö closing statement
+#### æœ€åé™ˆè¿° closing statement
 Irvine 11 D.A.'s closing statement branded 'political theater'(LATIMES)
-Å·ÎÄ(ÃÀ¹ú¼ÓÖİÒ»³ÇÊĞÃû)µØ·½¼ì²ì¹ÙµÄ×îºó³ÂÊö±»ÌùÉÏÕşÖÎĞû´«µÄ±êÇ©
+æ¬§æ–‡(ç¾å›½åŠ å·ä¸€åŸå¸‚å)åœ°æ–¹æ£€å¯Ÿå®˜çš„æœ€åé™ˆè¿°è¢«è´´ä¸Šæ”¿æ²»å®£ä¼ çš„æ ‡ç­¾
 
-#### ³åÀËÕß surfer
+#### å†²æµªè€… surfer
 Alaska bore tide draws surfers, viewers
-°¢À­Ë¹¼Ó³±Ï«Ó¿¶¯¾°¹ÛÎüÒı³åÀËÕßºÍ¹Û¿´Õß
+é˜¿æ‹‰æ–¯åŠ æ½®æ±æ¶ŒåŠ¨æ™¯è§‚å¸å¼•å†²æµªè€…å’Œè§‚çœ‹è€…
 World's best big wave surfers compete at Mavericks(Yahoo)
-ÊÀ½ç×î´óµÄ³åÀËÑ¡ÊÖÔÚ±ÈÈü
+ä¸–ç•Œæœ€å¤§çš„å†²æµªé€‰æ‰‹åœ¨æ¯”èµ›
 
-#### Ö´Õşµ³ ruling party
+#### æ‰§æ”¿å…š ruling party
 For India's Ruling Party, an Electoral Setback(TIMES)
-¶ÔÓÚÓ¡¶ÈµÄÍ³ÖÎµ³,Ò»¸öÑ¡¾ÙµÄ´ì°Ü
+å¯¹äºå°åº¦çš„ç»Ÿæ²»å…š,ä¸€ä¸ªé€‰ä¸¾çš„æŒ«è´¥
 Russia's ruling party wary as nation votes(AP) 
-¶ÔÓÚÑ¡¾ÙÍ¶Æ±¶í¹úÖ´Õşµ³Ğ¡ĞÄ½÷É÷
+å¯¹äºé€‰ä¸¾æŠ•ç¥¨ä¿„å›½æ‰§æ”¿å…šå°å¿ƒè°¨æ…
 Russians vote amid signs ruling party's dominance is slipping(LATIMES) 
-ÔÚÖ´Õşµ³Í³ÖÎµØÎ»ÏÂ»¬¼£ÏóÏÂ¶í¹úÈË¿ªÊ¼Í¶Æ±
+åœ¨æ‰§æ”¿å…šç»Ÿæ²»åœ°ä½ä¸‹æ»‘è¿¹è±¡ä¸‹ä¿„å›½äººå¼€å§‹æŠ•ç¥¨
 
-#### Ğİ¼Ù furlough
+#### ä¼‘å‡ furlough
 Gov. Brown issues furlough order for two unions(LATIMES)
-²¼ÀÊÖİÕş¸®ÎªÁ½´ó¹¤»á°ä²¼Ğİ¼ÙÃüÁî
+å¸ƒæœ—å·æ”¿åºœä¸ºä¸¤å¤§å·¥ä¼šé¢å¸ƒä¼‘å‡å‘½ä»¤
 
-#### ÈÏ×ï±çËßĞ­Òé plea deal/plea bargain
+#### è®¤ç½ªè¾©è¯‰åè®® plea deal/plea bargain
 Haditha killings: Plea deal reached in Marine trial(LATIMES)
-ÔÚÂ½Õ½¶ÓÉóÅĞ°¸ÉÏ,ÈÏ×ïĞ­ÉÌ´ï³É
+åœ¨é™†æˆ˜é˜Ÿå®¡åˆ¤æ¡ˆä¸Š,è®¤ç½ªåå•†è¾¾æˆ
 DOJ taking hard line on any Edwards plea deal(CBS)
-¶Ô±ç½âĞ­Òé³ÖÇ¿Ó²µÄÌ¬¶È
+å¯¹è¾©è§£åè®®æŒå¼ºç¡¬çš„æ€åº¦
 
-#### Ê¥Ì³ altar
+#### åœ£å› altar
 Prop. 8 struck down: Will California's gay couples flock to the altar?(The Christian Science Monitor)
-¼ÓÖİ8ºÅÌá°¸±»·ÏÖ¹,¼ÓÖİÍ¬ĞÔ·òÆŞ½«Ó¿ÏòÊ¥Ì³
+åŠ å·8å·ææ¡ˆè¢«åºŸæ­¢,åŠ å·åŒæ€§å¤«å¦»å°†æ¶Œå‘åœ£å›
 
-#### ´Ì¼¤¼Æ»® ´Ì¼¤ÊÖ¶Î stimulus
+#### åˆºæ¿€è®¡åˆ’ åˆºæ¿€æ‰‹æ®µ stimulus
 Mitt Romney: Fed should steer clear of new stimulus(CBS)
-Áª°îÕş¸®Ó¦¸Ã±ÜÃâĞÂµÄ´Ì¼¤Õş²ß
+è”é‚¦æ”¿åºœåº”è¯¥é¿å…æ–°çš„åˆºæ¿€æ”¿ç­–
 Bernanke Offers No Plan for New Stimulus(TIMES)
-²®ÄÏ¿ËÃ»ÓĞÌá¹©ĞÂµÄ´Ì¼¤¼Æ»®
+ä¼¯å—å…‹æ²¡æœ‰æä¾›æ–°çš„åˆºæ¿€è®¡åˆ’
 
-#### ÂÖÀª ÍâĞÎ contour/outline
+#### è½®å»“ å¤–å½¢ contour/outline
 Contours of Obama jobs package coming into focus(Reuters)
-°Â°ÍÂí¾ÍÒµÒ»À¿×Ó¼Æ»®ÂÖÀªÒıÈËÖõÄ¿
+å¥¥å·´é©¬å°±ä¸šä¸€æ½å­è®¡åˆ’è½®å»“å¼•äººç©ç›®
 
-#### ¸ø..²¦¿î ±ê¼Ç earmark
+#### ç»™..æ‹¨æ¬¾ æ ‡è®° earmark
 Santorum defends earmarks, past statements(AP)
-É£ÍĞÀÕÄ·Îª²¦¿îºÍ¹ıÈ¥µÄÉùÃ÷±ç½â
+æ¡‘æ‰˜å‹’å§†ä¸ºæ‹¨æ¬¾å’Œè¿‡å»çš„å£°æ˜è¾©è§£
 Behind Army's $17,000 Drip Pan, Harold Rogers's Earmark(TIMES)
-¾ü¶Ó°º¹óµÄ¿¾Èâ½ÓÓÍÅÌºóÃæ,¹şÂŞµÂµÄ±ê¼Ç
+å†›é˜Ÿæ˜‚è´µçš„çƒ¤è‚‰æ¥æ²¹ç›˜åé¢,å“ˆç½—å¾·çš„æ ‡è®°
 Russia earmarks $40 billion as euro zone crisis buffer: FT
-¶í¹ú²¦¿î400ÒÚ×÷ÎªÅ·ÔªÎ£»ú»º³å
+ä¿„å›½æ‹¨æ¬¾400äº¿ä½œä¸ºæ¬§å…ƒå±æœºç¼“å†²
 McCaskill-led earmark probe finds $834 million in requests(WAPOST) 
-Âó¿¨Ë¹»ù¶ûÁìµ¼µÄ²¦¿îµ÷²é·¢ÏÖ8ÒÚÃÀÔªÕıÔÚÉêÇëÖĞ
+éº¦å¡æ–¯åŸºå°”é¢†å¯¼çš„æ‹¨æ¬¾è°ƒæŸ¥å‘ç°8äº¿ç¾å…ƒæ­£åœ¨ç”³è¯·ä¸­
 
-#### ¾«ĞÄÖÆ×÷ ÊÖÒÕ ·ÉĞĞÆ÷  craft  ´ï³ÉĞ­Òé craft deal
+#### ç²¾å¿ƒåˆ¶ä½œ æ‰‹è‰º é£è¡Œå™¨  craft  è¾¾æˆåè®® craft deal
 New California budget crafted to influence voters(Yahoo)
-¼ÓÖİĞÂÔ¤Ëã±»¾«ĞÄÖÆ×÷À´Ó°ÏìÑ¡ÃñÖ§³Ö
+åŠ å·æ–°é¢„ç®—è¢«ç²¾å¿ƒåˆ¶ä½œæ¥å½±å“é€‰æ°‘æ”¯æŒ
 Obama calls on Congress to craft at least a minimal 'fiscal cliff' deal(WAPOST)
-°Â°ÍÂíºôÓõ¹ú»á´ï³É×îĞ¡²ÆÕşĞüÑÂĞ­Òé
+å¥¥å·´é©¬å‘¼åå›½ä¼šè¾¾æˆæœ€å°è´¢æ”¿æ‚¬å´–åè®®
 Los Angeles' craft brewery scene has more on tap(LATIMES)
-ÊÖ¹¤Äğ¾Æ³§ÏÖ³¡ÓĞºÜ¶àÁãÊÛ¹©Ó¦
+æ‰‹å·¥é…¿é…’å‚ç°åœºæœ‰å¾ˆå¤šé›¶å”®ä¾›åº”
 Obama faces tight restraints in crafting jobs plan(AP)
-°Â°ÍÂíÔÚ¾«Ï¸ÖÆ¶¨¾ÍÒµ¼Æ»®Ê±Ãæ¶ÔÑÏ¸ñµÄÏŞÖÆ
+å¥¥å·´é©¬åœ¨ç²¾ç»†åˆ¶å®šå°±ä¸šè®¡åˆ’æ—¶é¢å¯¹ä¸¥æ ¼çš„é™åˆ¶
 
-#### ÇÀ½Ù ÂÓ¶á pillage/loot
+#### æŠ¢åŠ« æ å¤º pillage/loot
 Libyan Rebels Accused of Pillage and Beatings(TIMES) 
-Àû±ÈÑÇ·´¶ÔÅÉ±»¿ØÇÀ½ÙºÍ±©Á¦
+åˆ©æ¯”äºšåå¯¹æ´¾è¢«æ§æŠ¢åŠ«å’Œæš´åŠ›
 
-#### ÅÅÃû°ñ leaderboard  ÅÅÃû°ñÉÏ»¬Âä slide down leaderboard
+#### æ’åæ¦œ leaderboard  æ’åæ¦œä¸Šæ»‘è½ slide down leaderboard
 Westwood works way up leaderboard at Masters(CBS)
-ÔÚ¸ß¶û·ò´óÊ¦ÈüÉÏ,Î¬Ë¹ÎéµÂ»Ó¸ËÔÚÅÅÃû°ñÉÏÒ£Ò£ÁìÏÈ
+åœ¨é«˜å°”å¤«å¤§å¸ˆèµ›ä¸Š,ç»´æ–¯ä¼å¾·æŒ¥æ†åœ¨æ’åæ¦œä¸Šé¥é¥é¢†å…ˆ
 Na heckled at Players, slides down leaderboard
-ÄÉ±»ÖÊÎÊÚµÎÊ,ÎªºÎ´Ó¸ß¶û·òÑ¡ÊÖÅÅÃû°ñÉÏ»¬Âä
+çº³è¢«è´¨é—®è¯˜é—®,ä¸ºä½•ä»é«˜å°”å¤«é€‰æ‰‹æ’åæ¦œä¸Šæ»‘è½
 
-#### µÇ¼Ç ÈëÎéÈËÊı enrollment
+#### ç™»è®° å…¥ä¼äººæ•° enrollment
 Cal State plans to freeze enrollment next spring at most campuses(LATIMES)
-¼ÓÖİÕş¸®¼Æ»®¶³½á´ó²¿·Ö´óÑ§ÏÂ¸öÑ§ÆÚÈëÑ§ÈËÊı
+åŠ å·æ”¿åºœè®¡åˆ’å†»ç»“å¤§éƒ¨åˆ†å¤§å­¦ä¸‹ä¸ªå­¦æœŸå…¥å­¦äººæ•°
 
-#### ÒòËØ Ô­ÁÏ ÔªËØ ingredient/factor/element
+#### å› ç´  åŸæ–™ å…ƒç´  ingredient/factor/element
 City Kitchen: Farro Pasta With Nettles: Worth the Ingredient Search(TIMES)
-ÖµµÃÔ­ÁÏËÑË÷
+å€¼å¾—åŸæ–™æœç´¢
 Chop't's essential ingredient: Its founders(WAPOST)
-»ù±¾ÒòËØ:´´Á¢Õß
+åŸºæœ¬å› ç´ :åˆ›ç«‹è€…
 Texas ranch's secret cattle feed ingredient: Beer(CBS)
-µÂÖİÅ©³¡ÃØÃÜÅ£ÈºÎ¹ÑøÔªËØ
+å¾·å·å†œåœºç§˜å¯†ç‰›ç¾¤å–‚å…»å…ƒç´ 
 
-#### Í£Ö¹ ËÉĞ¸ letup
+#### åœæ­¢ æ¾æ‡ˆ letup
 Attacks hurt Gingrich in Iowa, no letup pre-caucus(AP) 
-ÒÂ°¢»ªµÄ¹¥»÷ÉËº¦µ½¸ñÁÖÀïÆæ,ÔÚµØ·½Î¯Ô±»áÑ¡¾ÙÇ°²»ÄÜÓĞÈÎºÎËÉĞ¸
+è¡£é˜¿åçš„æ”»å‡»ä¼¤å®³åˆ°æ ¼æ—é‡Œå¥‡,åœ¨åœ°æ–¹å§”å‘˜ä¼šé€‰ä¸¾å‰ä¸èƒ½æœ‰ä»»ä½•æ¾æ‡ˆ
 
-#### Ë®Òø mercury  Ë®ĞÇ Mercury
+#### æ°´é“¶ mercury  æ°´æ˜Ÿ Mercury
 Mercury warning for school lunch tuna(CBS)
-Ñ§Ğ£Îç²ÍÖĞ½ğÇ¹Óã´øÀ´µÄË®Òø¾¯¸æ
+å­¦æ ¡åˆé¤ä¸­é‡‘æªé±¼å¸¦æ¥çš„æ°´é“¶è­¦å‘Š
 EPA issues strong limits on mercury emissions from smokestacks(LATIMES) 
-»·±£Êğ·¢²¼¶ÔË®ÒøÅÅ·ÅºÍÑÌ´Ñ¸üÑÏ¸ñµÄÏŞÖÆ
+ç¯ä¿ç½²å‘å¸ƒå¯¹æ°´é“¶æ’æ”¾å’ŒçƒŸå›±æ›´ä¸¥æ ¼çš„é™åˆ¶
 Study: Unsafe mercury levels in 84 percent of fish(CBS)
-84%µÄÓãÌåÄÚË®Òø¼¶±ğ³¬±ê
+84%çš„é±¼ä½“å†…æ°´é“¶çº§åˆ«è¶…æ ‡
 
-#### º½¿ÕÔËÊä¹«Ë¾ air carrier
+#### èˆªç©ºè¿è¾“å…¬å¸ air carrier
 Air Carriers in U.S. Fight Europe's Fees Over Carbons(TIMES)
-ÃÀ¹úº½¿ÕÔËÊä¹«Ë¾,ÔÚÅ·ÖŞÌ¼Ë°ÉÏ¶·Õù
+ç¾å›½èˆªç©ºè¿è¾“å…¬å¸,åœ¨æ¬§æ´²ç¢³ç¨ä¸Šæ–—äº‰
 
-#### ¸ÌéÙ citrus İ«ÜÄ lettuce
+#### æŸ‘æ©˜ citrus è´è‹£ lettuce
 Bitter cold grips West; citrus and lettuce damaged(Yahoo)
-ÑÏº®Ï®»÷Î÷²¿,¸ÌéÙºÍİ«ÜÄ×÷Îï±»»Ù»µ
+ä¸¥å¯’è¢­å‡»è¥¿éƒ¨,æŸ‘æ©˜å’Œè´è‹£ä½œç‰©è¢«æ¯å
 
-#### Ó¡µÚ°²ÈË redskin
+#### å°ç¬¬å®‰äºº redskin
 Redskins hopeful with RGIII after lean years(Yahoo)
-ÔÚÔÖÄêÖ®ºóÓ¡µÚ°²ÈË±§ÓĞÏ£Íû
+åœ¨ç¾å¹´ä¹‹åå°ç¬¬å®‰äººæŠ±æœ‰å¸Œæœ›
 
-#### °®ºÃ Ï°¹ß hobby  ÉÏñ«Õß hobbyist
+#### çˆ±å¥½ ä¹ æƒ¯ hobby  ä¸Šç˜¾è€… hobbyist
 A gun enthusiast explains his hobby(CBS)
-Ç¹Ö§°®ºÃÕß½âÊÍËûÏ°¹ß
+æªæ”¯çˆ±å¥½è€…è§£é‡Šä»–ä¹ æƒ¯
 
-#### Ó×áÌ pup
+#### å¹¼å´½ pup
 Endangered wolves at NY preserve produce 8 pups
-ÔÚ±£»¤ÇøÖĞÎ£ÏÕµÄÀÇ,Éú²ú³ö8Ö»Ó×áÌ
+åœ¨ä¿æŠ¤åŒºä¸­å±é™©çš„ç‹¼,ç”Ÿäº§å‡º8åªå¹¼å´½
 Watch: Mother sea otters and their pups(CBS)
-º£Ì¡ÂèÂèºÍËûÃÇµÄÓ×áÌÃÇ
+æµ·ç­å¦ˆå¦ˆå’Œä»–ä»¬çš„å¹¼å´½ä»¬
 For struggling sea lion pups, a lot of healthy attention(LATIMES)
-ÎªÁË¿à¿àÕõÔúµÄº£Ê¨Ó×áÌ,ÓĞºÜ¶à×¢Òâ½¡¿µµÄµØ·½
+ä¸ºäº†è‹¦è‹¦æŒ£æ‰çš„æµ·ç‹®å¹¼å´½,æœ‰å¾ˆå¤šæ³¨æ„å¥åº·çš„åœ°æ–¹
 
-#### ÖØ×ö do-over
+#### é‡åš do-over
 App.net and the myth of the social network do-over(WAPOST)
-Æ»¹ûÍøºÍÆäÖØ×öµÄÉñÃØÉç½»ÍøÂç
+è‹¹æœç½‘å’Œå…¶é‡åšçš„ç¥ç§˜ç¤¾äº¤ç½‘ç»œ
 
-#### ³Ö¾ÃÁ¦ ÄÍ¾ÃÁ¦ staying power
+#### æŒä¹…åŠ› è€ä¹…åŠ› staying power
 In Paraguay, Indigenous Language With Unique Staying Power(TIMES)
-ÔÚ°ÍÀ­¹ç,±¾µØµÄÓïÑÔÓĞ×Å¶ÀÒ»ÎŞ¶şµÄÄÍ¾ÃÁ¦
+åœ¨å·´æ‹‰åœ­,æœ¬åœ°çš„è¯­è¨€æœ‰ç€ç‹¬ä¸€æ— äºŒçš„è€ä¹…åŠ›
 
-#### ¹ş°Í¹· pug
+#### å“ˆå·´ç‹— pug
 Watch: Pugs go for a sleigh ride(CBS)
-¹ş°Í¹·¶ùÒª²ÎÓëÑ©ÇÁÂÃ³Ì
+å“ˆå·´ç‹—å„¿è¦å‚ä¸é›ªæ©‡æ—…ç¨‹
 
-#### Ç£ÒıÁ¦ traction »ñµÃ¶¯Á¦ gain traction
+#### ç‰µå¼•åŠ› traction è·å¾—åŠ¨åŠ› gain traction
 Big debt deal gains traction amid chaotic efforts(Reuters)
-ÔÚ»ìÂÒÅ¬Á¦ÆÚ¼ä,´óµÄÕ®Îñ½»Ò×µÃµ½Ç£ÒıÁ¦
+åœ¨æ··ä¹±åŠªåŠ›æœŸé—´,å¤§çš„å€ºåŠ¡äº¤æ˜“å¾—åˆ°ç‰µå¼•åŠ›
 
-#### ½ôÉíÒÂ bodysuit
+#### ç´§èº«è¡£ bodysuit
 Bodysuit tracks Olympic hopefuls(CBS)
-½ôÉíÒÂ×·×Ù°ÂÁÖÆ¥¿ËÓĞÏ£ÍûµÄÑ¡ÊÖ
+ç´§èº«è¡£è¿½è¸ªå¥¥æ—åŒ¹å…‹æœ‰å¸Œæœ›çš„é€‰æ‰‹
 
-#### ³ö¿Ú ·¢Ğ¹¿Ú ¾­Ïúµê(°ÂÌØÀ³Ë¹) outlet
+#### å‡ºå£ å‘æ³„å£ ç»é”€åº—(å¥¥ç‰¹è±æ–¯) outlet
 Seeking an outlet, Olympian turned to double life(Yahoo)
-Ñ°ÕÒ·¢Ğ¹¿Ú,°ÂÔËÑ¡ÊÖ¿ªÊ¼Ë«ÖØÈËÉú
+å¯»æ‰¾å‘æ³„å£,å¥¥è¿é€‰æ‰‹å¼€å§‹åŒé‡äººç”Ÿ
 
-#### Ö´ÇÚÈËÔ±±í roster  ÅÅ³ıÓÚ»¨Ãû²á off roster
+#### æ‰§å‹¤äººå‘˜è¡¨ roster  æ’é™¤äºèŠ±åå†Œ off roster
 Jozy Altidore off US roster for WCup qualifiers(Yahoo)
-ÇÇÏ£±»ÅÅ³ıÃÀ¹úÊÀ½ç±­×Ê¸ñµÄ»¨Ãû²á
+ä¹”å¸Œè¢«æ’é™¤ç¾å›½ä¸–ç•Œæ¯èµ„æ ¼çš„èŠ±åå†Œ
 
-#### ²ÃÅĞÈ¨ Ë¾·¨È¨ jurisdiction
+#### è£åˆ¤æƒ å¸æ³•æƒ jurisdiction
 Brazil may shift jurisdiction of Chevron case
-°ÍÎ÷½«¸Ä±äÑ©·ğÁú¹«Ë¾°¸¼şµÄË¾·¨È¨
+å·´è¥¿å°†æ”¹å˜é›ªä½›é¾™å…¬å¸æ¡ˆä»¶çš„å¸æ³•æƒ
 Delayed 911 response a matter of geography and jurisdictions(LATIMES) 
-³ÙÖÍµÄ911ÉóÅĞĞĞ¶¯ÓëµØÓòºÍÉóÅĞÈ¨ÓĞ¹Ø
+è¿Ÿæ»çš„911å®¡åˆ¤è¡ŒåŠ¨ä¸åœ°åŸŸå’Œå®¡åˆ¤æƒæœ‰å…³
 
-#### °ÇÊÖ Ğ¡Íµ pickpocket
+#### æ‰’æ‰‹ å°å· pickpocket
 A handy guide to pickpocketing(WAPOST)
-¶Ô¸¶°ÇÊÖµÄÊÖ²á
+å¯¹ä»˜æ‰’æ‰‹çš„æ‰‹å†Œ
 
-#### ¶ôÖÆ deterrent  ºË¶ôÖÆ nuclear deterrent
+#### éåˆ¶ deterrent  æ ¸éåˆ¶ nuclear deterrent
 North Korea says will boost nuclear deterrent after U.N. rebuke(Yahoo)
-ÔÚÁªºÏ¹úÖ¸Ôğºó³¯ÏÊËµ½«¼ÓÇ¿ºË¶ôÖÆ
+åœ¨è”åˆå›½æŒ‡è´£åæœé²œè¯´å°†åŠ å¼ºæ ¸éåˆ¶
 
-#### ÖØĞÂ°²ÅÅ remap
+#### é‡æ–°å®‰æ’ remap
 L.A. City Council OKs power-shifting remap(LATIMES)
-ÂåÉ¼í¶ÊĞÒé»áÍ¬ÒâÈ¨Àû×ªÒÆµÄÖØĞÂ°²ÅÅ
+æ´›æ‰çŸ¶å¸‚è®®ä¼šåŒæ„æƒåˆ©è½¬ç§»çš„é‡æ–°å®‰æ’
 
-#### ³¤Àñ·ş gown
+#### é•¿ç¤¼æœ gown
 Michelle Obama wears Jason Wu gown to inaugural balls(CBS)
-µÚÒ»·òÈË´©×Å³¤Àñ·ş²Î¼Ó¾ÍÖ°Îè»á
+ç¬¬ä¸€å¤«äººç©¿ç€é•¿ç¤¼æœå‚åŠ å°±èŒèˆä¼š
 
-#### Öü²Ø hoard  ÏÖ½ğ´¢±¸ cash hoard
+#### è´®è— hoard  ç°é‡‘å‚¨å¤‡ cash hoard
 Apple to Say Monday How It Will Use Cash Hoard(holdings)(TIMES)
-Æ»¹ûÖÜÒ»¹«²¼ÈçºÎÊ¹ÓÃÏÖ½ğ´¢±¸·½°¸
+è‹¹æœå‘¨ä¸€å…¬å¸ƒå¦‚ä½•ä½¿ç”¨ç°é‡‘å‚¨å¤‡æ–¹æ¡ˆ
 
-#### ÓªÑø Ê³Îï nutrition/sustenance  ÓªÑø±êÇ© nutrition label
+#### è¥å…» é£Ÿç‰© nutrition/sustenance  è¥å…»æ ‡ç­¾ nutrition label
 USDA to reshape how we see dietary nutrition(LATIMES)
-ÖØËÜÎÒÃÇËù¼ûµÄÒûÊ³ÓªÑø
+é‡å¡‘æˆ‘ä»¬æ‰€è§çš„é¥®é£Ÿè¥å…»
 New food nutrition labels from FDA coming(CBS)
-FDA½«·¢²¼µÄĞÂÊ³ÎïÓªÑø±êÇ©
+FDAå°†å‘å¸ƒçš„æ–°é£Ÿç‰©è¥å…»æ ‡ç­¾
 De Gustibus: A Vegetarian's Struggle for Sustenance in the Midwest(TIMES)
-ÔÚÖĞÎ÷²¿,Ò»¸öËØÊ³ÕßÎªÓªÑøÊ³ÎïµÄÅ¬Á¦
+åœ¨ä¸­è¥¿éƒ¨,ä¸€ä¸ªç´ é£Ÿè€…ä¸ºè¥å…»é£Ÿç‰©çš„åŠªåŠ›
 
-#### Ä¿»÷ ¿´µ½ Ö¤ÈË witness  ×÷Ö¤ ¼ûÖ¤ bear witness
+#### ç›®å‡» çœ‹åˆ° è¯äºº witness  ä½œè¯ è§è¯ bear witness
 Washington area witnesses revival in menswear(WAPOST)
-»ªÊ¢¶ÙµØÇøÄ¿»÷µ½ÄĞ×°µÄÖØĞÂÁ÷ĞĞ
+åç››é¡¿åœ°åŒºç›®å‡»åˆ°ç”·è£…çš„é‡æ–°æµè¡Œ
 Key witness in Bryan Stow beating dies unexpectedly(LATIMES)
-ÔÚ¶·Å¹°¸ÖĞ¹Ø¼üÖ¤ÈËÍ»È»ËÀÍö
+åœ¨æ–—æ®´æ¡ˆä¸­å…³é”®è¯äººçªç„¶æ­»äº¡
 Neighbor witnessed Ill. family shootings(CBS) 
-ÁÚ¾ÓÄ¿»÷ÁËÒÁÀûÅµÒÁÖİ¼ÒÍ¥Ç¹»÷°¸
+é‚»å±…ç›®å‡»äº†ä¼Šåˆ©è¯ºä¼Šå·å®¶åº­æªå‡»æ¡ˆ
 Two Journalists Shared Desire to Bear Witness in World's Hot Spots(TIMES)
-Á½¼ÇÕß·ÖÏíÈ¥ÊÀ½çÈÈµãµØÇø×÷Ö¤µÄ¿ÊÍû
+ä¸¤è®°è€…åˆ†äº«å»ä¸–ç•Œçƒ­ç‚¹åœ°åŒºä½œè¯çš„æ¸´æœ›
 
-#### ³ıÏ¦ Watch Night
+#### é™¤å¤• Watch Night
 Watch Nights mark Emancipation Proclamation 150th(Yahoo)
-³ıÏ¦Çì×£·ÏÅ«ĞûÑÔ150ÖÜÄê
+é™¤å¤•åº†ç¥åºŸå¥´å®£è¨€150å‘¨å¹´
 
-#### ²»µ±ÑÔĞĞ ¶ñÁÓµÄÑÔĞĞ cheap shot
+#### ä¸å½“è¨€è¡Œ æ¶åŠ£çš„è¨€è¡Œ cheap shot
 Watch: College player banned for cheap shot(CBS)
-ÓÉÓÚ²»µ±ÑÔĞĞ´óÑ§ÇòÔ±±»½ûÖ¹²ÎÈü
+ç”±äºä¸å½“è¨€è¡Œå¤§å­¦çƒå‘˜è¢«ç¦æ­¢å‚èµ›
 Powell says Cheney taking 'cheap shots' in book(AP)
-±«Íş¶ûÔÚÊéÖĞ¼ÇÂ¼ÁËÇĞÄá¶ñÁÓµÄÑÔĞĞ
+é²å¨å°”åœ¨ä¹¦ä¸­è®°å½•äº†åˆ‡å°¼æ¶åŠ£çš„è¨€è¡Œ
 
-#### ÖúÑ§´û¿î student loan
+#### åŠ©å­¦è´·æ¬¾ student loan
 Degrees of Debt: Student Loans Weighing Down a Generation With Heavy Debt(TIMES)
-Ñ§Éú´û¿îÈÃÒ»´úÈË±³×ÅÖØÕ®²»¿°ÖØ¸º
+å­¦ç”Ÿè´·æ¬¾è®©ä¸€ä»£äººèƒŒç€é‡å€ºä¸å ªé‡è´Ÿ
 Complaints may presage student loan crisis(WAPOST)
-±§Ô¹½«Ô¤Ê¾ÖúÑ§´û¿îÎ£»ú
+æŠ±æ€¨å°†é¢„ç¤ºåŠ©å­¦è´·æ¬¾å±æœº
 
-#### Ö÷¶Ó home team
+#### ä¸»é˜Ÿ home team
 Soccer Fans' Chants Fire Up Home Team or Slight the Opponent(TIMES)
-×ãÇòÃÔÃÇµÄ¸ß³ª¼¤Å­Ö÷¶Ó,ÇáÃï¶ÔÊÖ
+è¶³çƒè¿·ä»¬çš„é«˜å”±æ¿€æ€’ä¸»é˜Ÿ,è½»è”‘å¯¹æ‰‹
 
-#### ½İ¾¶ ¼ò»¯ shortcut
+#### æ·å¾„ ç®€åŒ– shortcut
 BP Shortcuts Led to Gulf Oil Spill, Report Says(TIMES)
-Ó¢¹úÊ¯ÓÍ¹«Ë¾²Ù×÷¼ò»¯µ¼ÖÂº£ÍåÂ©ÓÍ
+è‹±å›½çŸ³æ²¹å…¬å¸æ“ä½œç®€åŒ–å¯¼è‡´æµ·æ¹¾æ¼æ²¹
 
-#### ³É¼¨µ¥ report card
+#### æˆç»©å• report card
 Has Obama's 'let's talk' approach worked with US adversaries? A report card.(The Christian Science Monitor) 
-°Â°ÍÂí"ÈÃÎÒÃÇÌ¸ÅĞ"µÄ·½Ê½ÒÑ¾­¶ÔÃÀ¶ÔÊÖÆğ×÷ÓÃÁËÂğ?ÕâÊÇÒ»·İ³É¼¨µ¥
+å¥¥å·´é©¬"è®©æˆ‘ä»¬è°ˆåˆ¤"çš„æ–¹å¼å·²ç»å¯¹ç¾å¯¹æ‰‹èµ·ä½œç”¨äº†å—?è¿™æ˜¯ä¸€ä»½æˆç»©å•
 
-#### ·Ç³£±¡µÄ±¡Ä¤ thin film
+#### éå¸¸è–„çš„è–„è†œ thin film
 'Very Thin Film' of Slick Reported Oozing from Costa Concordia(TIMES)
-¸¡ÓÍµÄ'·Ç³£±¡µÄ±¡Ä¤'²ã±»±¨µÀ´Ó¸éÇ³ÓÍÂÖÖĞÁ÷³ö
+æµ®æ²¹çš„'éå¸¸è–„çš„è–„è†œ'å±‚è¢«æŠ¥é“ä»ææµ…æ²¹è½®ä¸­æµå‡º
 
-#### ÊıÀí×¨Òµ STEM(science technology engineering mathematics) major
+#### æ•°ç†ä¸“ä¸š STEM(science technology engineering mathematics) major
 Lack of interest and aptitude keeps students out of STEM majors(WAPOST)
-È±ÉÙĞËÈ¤ºÍÌì¸³ÈÃÑ§Éú´¦ÓÚÖ÷Òª¿ÆÑ§,¼¼Êõ,¹¤³ÌºÍÊıÑ§ÑĞ¾¿Ö®Íâ
+ç¼ºå°‘å…´è¶£å’Œå¤©èµ‹è®©å­¦ç”Ÿå¤„äºä¸»è¦ç§‘å­¦,æŠ€æœ¯,å·¥ç¨‹å’Œæ•°å­¦ç ”ç©¶ä¹‹å¤–
 
-#### ÀÛ¼Æ½±½ğ jackpot
+#### ç´¯è®¡å¥–é‡‘ jackpot
 Powerball jackpot up to $310 million(CBS)
-Ç¿Á¦ÇòÀÛ¼Æ¶Ä×¢µ½3ÒÚÃÀÔª
+å¼ºåŠ›çƒç´¯è®¡èµŒæ³¨åˆ°3äº¿ç¾å…ƒ
 81-year-old claims 6th largest jackpot in U.S. history(CBS)
-81ËêÀÏÈËµÃµ½ÃÀ¹úÀúÊ·ÉÏµÚÁù¸ö×î´óµÄÀÛ¼Æ½±½ğ
+81å²è€äººå¾—åˆ°ç¾å›½å†å²ä¸Šç¬¬å…­ä¸ªæœ€å¤§çš„ç´¯è®¡å¥–é‡‘
 
-#### Ç°Õ× ÏÈÇı harbinger
+#### å‰å…† å…ˆé©± harbinger
 Rainbow-colored Oreo a harbinger of more gay advertising(WAPOST)
-²ÊºçÉ«µÄ°ÂÀû°ÂÊÇ¸ü¶àÍ¬ĞÔÁµ¹ã¸æµÄÇ°Õ×
+å½©è™¹è‰²çš„å¥¥åˆ©å¥¥æ˜¯æ›´å¤šåŒæ€§æ‹å¹¿å‘Šçš„å‰å…†
 Tale of wandering cougar seen as harbinger(CBS)
-ÓÎµ´µÄÃÀÖŞ±ª¹ÊÊÂ¿´×÷ÊÇÇ°Õ×
+æ¸¸è¡çš„ç¾æ´²è±¹æ•…äº‹çœ‹ä½œæ˜¯å‰å…†
 News Analysis: Wukan Revolt Could Be a Harbinger(TIMES) 
-·´¿¹ĞĞ¶¯¿ÉÄÜÊÇÏÈÕ×
+åæŠ—è¡ŒåŠ¨å¯èƒ½æ˜¯å…ˆå…†
 
-#### µÖÖÆ boycott
+#### æŠµåˆ¶ boycott
 Half of Irish Homeowners Join Boycott of Household Tax(TIMES)
-°®¶ûÀ¼Ò»°ëµÄÒµÖ÷,¼ÓÈë¶ÔÎïÒµË°µÄµÖÖÆ
+çˆ±å°”å…°ä¸€åŠçš„ä¸šä¸»,åŠ å…¥å¯¹ç‰©ä¸šç¨çš„æŠµåˆ¶
 Immigration Advocates Are Split Over Arizona Boycott(TIMES)
-ÔÚµÖÖÆÑÇÀûÉ£ÄÇÖİÉÏ,ÒÆÃñÃÇµÄÖ§³Ö·ÖÁÑ
+åœ¨æŠµåˆ¶äºšåˆ©æ¡‘é‚£å·ä¸Š,ç§»æ°‘ä»¬çš„æ”¯æŒåˆ†è£‚
 Iraqi Parliament Boycott Threatens Coalition(TIMES) 
-ÒÁÀ­¿ËÒé»áµÖÖÆĞĞ¶¯ÍşĞ²ÍÅ½áÁªºÏ
+ä¼Šæ‹‰å…‹è®®ä¼šæŠµåˆ¶è¡ŒåŠ¨å¨èƒå›¢ç»“è”åˆ
 
-#### ¾Ş¸» super rich
+#### å·¨å¯Œ super rich
 Super rich prop up super PACs(CBS)
-¾Ş¸»ÃÇÖ§³Ö³¬¼¶ÕşÖÎĞĞ¶¯Î¯Ô±»á
+å·¨å¯Œä»¬æ”¯æŒè¶…çº§æ”¿æ²»è¡ŒåŠ¨å§”å‘˜ä¼š
 
-#### ¹ÛÓ°ÈË movie attendance
+#### è§‚å½±äºº movie attendance
 Summer Movie Attendance Continues to Erode(TIMES)
-ÏÄ¼¾µçÓ°¹ÛÓ°ÈË¼ÌĞø¼õÉÙ
+å¤å­£ç”µå½±è§‚å½±äººç»§ç»­å‡å°‘
 
-#### É®ÂÂ monk
+#### åƒ§ä¾£ monk
 2 Buddhist monks set selves on fire in Tibet
-Á½Ãû·ğ½ÌÍ½×Ô·Ù
+ä¸¤åä½›æ•™å¾’è‡ªç„š
 Tibetan monks get stiff prison terms in burning death(LATIMES)
-Î÷²ØÀ®ÂïÔÚ×İ»ğÖÂËÀ°¸¼şÖĞ»ñµÃÑÏÀ÷µÄĞÌÆÚ
+è¥¿è—å–‡å˜›åœ¨çºµç«è‡´æ­»æ¡ˆä»¶ä¸­è·å¾—ä¸¥å‰çš„åˆ‘æœŸ
 
-#### µ×²Õ ¸ß¶û·òÇòÉ³¿Ó ±¤Àİ bunker/bastion/stronghold  ±¤Àİ½©¾Ö bunker standoff
+#### åº•èˆ± é«˜å°”å¤«çƒæ²™å‘ å ¡å’ bunker/bastion/stronghold  å ¡å’åƒµå±€ bunker standoff
 Explosion ends bunker standoff in Washington state; body found(LATIMES)
-±¬Õ¨½áÊø±¤Àİ½©¾Ö
+çˆ†ç‚¸ç»“æŸå ¡å’åƒµå±€
 Fugitive in Wash. bunker recorded video of plans(Yahoo)
-¶ãÓÚ´¬µ×²ÕµÄÌÓÄÑÕßÌÓÅÜ¹ı³ÌÍ¨¹ıÊÓÆµ¼ÇÂ¼
+èº²äºèˆ¹åº•èˆ±çš„é€ƒéš¾è€…é€ƒè·‘è¿‡ç¨‹é€šè¿‡è§†é¢‘è®°å½•
 Ivory Coast strongman defiant from within bunker(AP)
-¿ÆÌØµÏÍß¶À²ÃÕßÔÚµØ±¤ÖĞ¼ÌĞø·´¿¹
+ç§‘ç‰¹è¿ªç“¦ç‹¬è£è€…åœ¨åœ°å ¡ä¸­ç»§ç»­åæŠ—
 
-#### ¶¯ÂÒ ¶¯µ´ upheaval/unrest/chaos/tumult
+#### åŠ¨ä¹± åŠ¨è¡ upheaval/unrest/chaos/tumult
 Davos 2012: Across the World, Leaders Brace for Discontent and Upheaval(TIMES)
-È«ÊÀ½çÁìĞäÃÇ×¼±¸Ó¦¶Ô²»ÂúºÍ¶¯ÂÒ
+å…¨ä¸–ç•Œé¢†è¢–ä»¬å‡†å¤‡åº”å¯¹ä¸æ»¡å’ŒåŠ¨ä¹±
 In Upheaval for Egypt, Morsi Forces Out Military Chiefs(TIMES)
-°£¼°·¢Éú¾Ş´ó±ä¶¯,ĞÂ×ÜÍ³Ç¿ÆÈ¾ü·½Ê×ÄÔÀë¿ª
+åŸƒåŠå‘ç”Ÿå·¨å¤§å˜åŠ¨,æ–°æ€»ç»Ÿå¼ºè¿«å†›æ–¹é¦–è„‘ç¦»å¼€
 Upheaval Grips South Africa as Hopes for Its Workers Fade(TIMES)
-ÓÉÓÚ¹¤ÈËµÄÏ£ÍûÆÆÃğ,ÄÏ·Ç²úÉú¶¯ÂÒ
+ç”±äºå·¥äººçš„å¸Œæœ›ç ´ç­,å—éäº§ç”ŸåŠ¨ä¹±
 In Riddle of Mideast Upheaval, Turkey Offers Itself as an Answer(TIMES)
-ÔÚÖĞ¶«¶¯ÂÒÄÑÌâÖĞ,ÍÁ¶úÆäÌá³ö×Ô¼ºÄ£Ê½×÷Îª´ğ°¸
+åœ¨ä¸­ä¸œåŠ¨ä¹±éš¾é¢˜ä¸­,åœŸè€³å…¶æå‡ºè‡ªå·±æ¨¡å¼ä½œä¸ºç­”æ¡ˆ
 
-#### ¼ÙÏó ÆÛÆ­ ¼ÙµÄ Î±ÔìµÄ sham/fake/forgery
+#### å‡è±¡ æ¬ºéª— å‡çš„ ä¼ªé€ çš„ sham/fake/forgery
 Syrian activists say troop withdrawal is a sham(Reuters)
-ĞğÀûÑÇ»ı¼«·Ö×ÓËµ¾ü¶Ó³·ÍËÊÇ¸ö¼ÙÏó
+å™åˆ©äºšç§¯æåˆ†å­è¯´å†›é˜Ÿæ’¤é€€æ˜¯ä¸ªå‡è±¡
 West calls Syrian referendum a "sham"(CBS)
-Î÷·½³ÆĞğÀûÑÇÈ«Ãñ¹«¾öÊÇ¼Ù¶«Î÷
+è¥¿æ–¹ç§°å™åˆ©äºšå…¨æ°‘å…¬å†³æ˜¯å‡ä¸œè¥¿
 Chicago-area RTA: United running 'sham' business(Yahoo)
-ÔËÓª¼ÙµÄÉÌÒµ
+è¿è¥å‡çš„å•†ä¸š
 Bell council members took pay for 'sham' board meetings, D.A. says(LATIMES) 
-µØÇø¼ì²ì¹ÙËµ±´¶ûÎ¯Ô±»á³ÉÔ±´Ó¼ÙµÄÎ¯Ô±»á»áÒéÉÏÁìÈ¡±¨³ê
+åœ°åŒºæ£€å¯Ÿå®˜è¯´è´å°”å§”å‘˜ä¼šæˆå‘˜ä»å‡çš„å§”å‘˜ä¼šä¼šè®®ä¸Šé¢†å–æŠ¥é…¬
 
-#### ±©Á¦ ÎŞÀµĞĞÎª hooliganism/violence  ±©Á¦ĞĞÎª³öÏÖ hooliganism loom
+#### æš´åŠ› æ— èµ–è¡Œä¸º hooliganism/violence  æš´åŠ›è¡Œä¸ºå‡ºç° hooliganism loom
 Russian Hooliganism Looms Over Euro 2012(TIMES)
-¶í¹úÈËÎŞÀµ±©Á¦ĞĞÎªÔÚÅ·ÖŞ±­ÆÚ¼äÒşÏÖ
+ä¿„å›½äººæ— èµ–æš´åŠ›è¡Œä¸ºåœ¨æ¬§æ´²æ¯æœŸé—´éšç°
 
-#### ·½ÖÛ ±ÜÄÑ Ark  ±ÜÄÑÉ­ÁÖ Ark forest
+#### æ–¹èˆŸ é¿éš¾ Ark  é¿éš¾æ£®æ— Ark forest
 Body found in Ark. forest was missing dispatcher(AP)
-ÔÚ±ÜÄÑÉ­ÁÖ·¢ÏÖÊ¬ÌåÊÇÊ§×ÙµÄµ÷¶ÈÔ±µÄ
+åœ¨é¿éš¾æ£®æ—å‘ç°å°¸ä½“æ˜¯å¤±è¸ªçš„è°ƒåº¦å‘˜çš„
 Survival ark at cutting edge of tsunami safety(CBS)
-ĞÒ´æµÄ·½ÖÛÔÚº£Ğ¥µÄÇ°¶ËÊÇ°²È«µÄ
+å¹¸å­˜çš„æ–¹èˆŸåœ¨æµ·å•¸çš„å‰ç«¯æ˜¯å®‰å…¨çš„
 
-#### È¨Àû×ªÒÆ power-shifting
+#### æƒåˆ©è½¬ç§» power-shifting
 L.A. City Council OKs power-shifting remap(LATIMES)
-ÂåÉ¼í¶ÊĞÒé»áÍ¬ÒâÈ¨Àû×ªÒÆµÄÖØĞÂ°²ÅÅ
+æ´›æ‰çŸ¶å¸‚è®®ä¼šåŒæ„æƒåˆ©è½¬ç§»çš„é‡æ–°å®‰æ’
 
-#### ¼ªÏéÎï mascot
+#### å‰ç¥¥ç‰© mascot
 Watch: French steeplechase winner shoves mascot(CBS)
-·¨¹úÕÏ°­ÈüÂí¹Ú¾üÂÒ×²¼ªÏéÎï
+æ³•å›½éšœç¢èµ›é©¬å† å†›ä¹±æ’å‰ç¥¥ç‰©
 
-#### ÂÉÊ¦ÊÂÎñËù law firm
+#### å¾‹å¸ˆäº‹åŠ¡æ‰€ law firm
 DealBook: Once an Ambitious Law Firm, Reduced to Grim Dispatches(TIMES)
-Ôø¾­Ò»¸öÓĞĞÛĞÄµÄÂÉÊ¦ÊÂÎñËù,¼õÉÙÑÏÖØµÄÅÉËÍ
+æ›¾ç»ä¸€ä¸ªæœ‰é›„å¿ƒçš„å¾‹å¸ˆäº‹åŠ¡æ‰€,å‡å°‘ä¸¥é‡çš„æ´¾é€
 
-#### ·­¸úÍ· handspring
+#### ç¿»è·Ÿå¤´ handspring
 Sixteen-year-old sets world handspring record(WAPOST)
-16Ëêº¢×Ó´´Ôì·­¸úÍ·µÄÊÀ½ç¼ÍÂ¼
+16å²å­©å­åˆ›é€ ç¿»è·Ÿå¤´çš„ä¸–ç•Œçºªå½•
 
-#### ¿ÖÁú dinosaur
+#### æé¾™ dinosaur
 Dinosaur Dig in China Turns Up Largest Known Feathered Animal(TIMES)
-ÔÚÖĞ¹ú¿ÖÁú·¢¾ò»î¶¯³öÏÖ×î´óµÄÒÑÖªÓğÀà¶¯Îï
+åœ¨ä¸­å›½æé¾™å‘æ˜æ´»åŠ¨å‡ºç°æœ€å¤§çš„å·²çŸ¥ç¾½ç±»åŠ¨ç‰©
 Dinosaur "gas" may have warmed prehistoric earth (CBS)
-¿ÖÁúÅÅ³ıÆøÌå¿ÉÄÜÈÃÊ·Ç°µØÇòÉıÎÂ
+æé¾™æ’é™¤æ°”ä½“å¯èƒ½è®©å²å‰åœ°çƒå‡æ¸©
 US sues to force return of dinosaur to Mongolia
-ÃÀ¹úËßËÏÇ¿ÖÆ¹é»¹¿ÖÁúÎÄÎï¸øÃÉ¹Å
+ç¾å›½è¯‰è®¼å¼ºåˆ¶å½’è¿˜æé¾™æ–‡ç‰©ç»™è’™å¤
 
-#### ÓÂÆø valor/courage/bravery  ÓÂÆøÑ«ÕÂ medal of valor
+#### å‹‡æ°” valor/courage/bravery  å‹‡æ°”å‹‹ç«  medal of valor
 One man's heroic quest: Cataloging 350,000 medal-of-valor winners(LATIMES)
-Ò»¸öÄĞ×ÓÓ¢ĞÛ°ãËÑÑ°:·ÖÀà±àÂ¼35ÍòÓÂÆøÑ«ÕÂ»ñµÃÕß
+ä¸€ä¸ªç”·å­è‹±é›„èˆ¬æœå¯»:åˆ†ç±»ç¼–å½•35ä¸‡å‹‡æ°”å‹‹ç« è·å¾—è€…
 A look inside a National Guard unit known for valor, dysfunction(LATIMES)
-Éî¶È¹Û²ì¹úÃñ¾¯ÎÀ¶ÓµÄÓ¢ÓÂºÍ»úÄÜÕÏ°­
+æ·±åº¦è§‚å¯Ÿå›½æ°‘è­¦å«é˜Ÿçš„è‹±å‹‡å’Œæœºèƒ½éšœç¢
 
-#### Å®Ê±×° couture
+#### å¥³æ—¶è£… couture
 New-look Dior blooms at Paris couture(Yahoo)
-µÏ°ÂĞÂÊ½ÑùÔÚ°ÍÀèÅ®Ê±×°ÖÜÉÏºÜ»ğ
+è¿ªå¥¥æ–°å¼æ ·åœ¨å·´é»å¥³æ—¶è£…å‘¨ä¸Šå¾ˆç«
 
-#### ×°ÊÎ Íâ²¿±êÖ¾ trappings/sign  È¨Àû±êÖ¾ trappings of power
+#### è£…é¥° å¤–éƒ¨æ ‡å¿— trappings/sign  æƒåˆ©æ ‡å¿— trappings of power
 Libyans Rejoice in a Castle Filled With Guns and the Trappings of Power(TIMES)
-ÔÚÒ»¸ö×°ÂúÇ¹ºÍÈ¨Àû±êÖ¾µÄ³Ç±¤,Àû±ÈÑÇÈË¼«¸ßĞË
+åœ¨ä¸€ä¸ªè£…æ»¡æªå’Œæƒåˆ©æ ‡å¿—çš„åŸå ¡,åˆ©æ¯”äºšäººæé«˜å…´
 
-#### ±©¾ı tyrant
+#### æš´å› tyrant
 2011 "Year of the Tyrant," 2012 ominous for Syria, Iraq(Reuters) 
-2011±©¾ıµÄÄê´ú,2012Äê¶ÔĞğÀûÑÇÒÁÀ­¿Ë¸üĞ×ÏÕµÄ
+2011æš´å›çš„å¹´ä»£,2012å¹´å¯¹å™åˆ©äºšä¼Šæ‹‰å…‹æ›´å‡¶é™©çš„
 
-#### Ğ¡Ã÷ĞÇ startlet
+#### å°æ˜æ˜Ÿ startlet
 Starlets pumped to help Weitzman fight cancer(Yahoo)
-Ğ¡Ã÷ĞÇÃÇ¸øÎ¤´ÄÂüÕ½Ê¤°©Ö¢Ìá¹©°ïÖú
+å°æ˜æ˜Ÿä»¬ç»™éŸ¦èŒ¨æ›¼æˆ˜èƒœç™Œç—‡æä¾›å¸®åŠ©
 
-#### ¶¾èÉ drug lord
+#### æ¯’æ­ drug lord
 Family says Mexican drug lord is suffering in jail (AP)
-¼ÒÈËÉê³ÆÄ«Î÷¸ç¶¾èÉÕıÔÚ¼àÓüÔâÊÜÕÛÄ¥
+å®¶äººç”³ç§°å¢¨è¥¿å“¥æ¯’æ­æ­£åœ¨ç›‘ç‹±é­å—æŠ˜ç£¨
 Mexico extradites once-powerful drug lord to U.S.(Reuters) 
-Ä«Òı¶É¶¾èÉÈ¥ÃÀ
+å¢¨å¼•æ¸¡æ¯’æ­å»ç¾
 
-#### ÒÁµéÔ° Eden
+#### ä¼Šç”¸å›­ Eden
 Personal Journeys: In Guatemala, a Torturous Drive to a Remote Eden(TIMES)
-¹ÏµØÂíÀ­,¼«ÆäÍ´¿àµÄÇ°ÍùÒÁµéÔ°µÄÂ·³Ì
+ç“œåœ°é©¬æ‹‰,æå…¶ç—›è‹¦çš„å‰å¾€ä¼Šç”¸å›­çš„è·¯ç¨‹
 
-#### ¾«Éñ¼²²¡ mental illness
+#### ç²¾ç¥ç–¾ç—… mental illness
 Watch: The dangerous stigma of mental illness(CBS)
-¾«Éñ¼²²¡Î£ÏÕµÄÃçÍ·
+ç²¾ç¥ç–¾ç—…å±é™©çš„è‹—å¤´
 Some With Histories of Mental Illness Petition to Get Their Gun Rights Back(TIMES)
-Ò»Ğ©ÓĞ¾«Éñ¼²²¡ÀúÊ·µÄÈËÇëÔ¸Òª»Ø³ÖÇ¹È¨Àû
+ä¸€äº›æœ‰ç²¾ç¥ç–¾ç—…å†å²çš„äººè¯·æ„¿è¦å›æŒæªæƒåˆ©
 
-#### ÆøÏóÑ§Õß meteorologist
+#### æ°”è±¡å­¦è€… meteorologist
 NYC TV meteorologist admits false attack claims(CBS)
-ÆøÏóÑ§Õß³ĞÈÏ´íÎóÔ¤±¨
+æ°”è±¡å­¦è€…æ‰¿è®¤é”™è¯¯é¢„æŠ¥
 
-#### ´¬¶Ó flotilla
+#### èˆ¹é˜Ÿ flotilla
 Boats take to Thames for queen's jubilee flotilla
-Ğ¡´¬½øÈëÌ©ÎîÊ¿ºÓ,ÎªÅ®ÍõÖÜÄêÇìÓÎĞĞ´¬¶Ó
+å°èˆ¹è¿›å…¥æ³°æ™¤å£«æ²³,ä¸ºå¥³ç‹å‘¨å¹´åº†æ¸¸è¡Œèˆ¹é˜Ÿ
 Israel Rescinds Threat to Reporters on Flotilla(TIMES)
-¶ÔĞ¡ĞÍ½¢¶Ó±¨µÀÕß,ÒÔÉ«ÁĞ·Ï³ı³·ÏúÍşĞ²
+å¯¹å°å‹èˆ°é˜ŸæŠ¥é“è€…,ä»¥è‰²åˆ—åºŸé™¤æ’¤é”€å¨èƒ
 
-#### ·ÃÎÊ..¹ı³ÌÖĞ in visit to
+#### è®¿é—®..è¿‡ç¨‹ä¸­ in visit to
 In Visit to Japan, Biden Seeks to Inspire Recovery(TIMES)
-·ÃÎÊÈÕ±¾¹ı³ÌÖĞ,°İµÇÑ°Çó¼¤Àø¸´ËÕ
+è®¿é—®æ—¥æœ¬è¿‡ç¨‹ä¸­,æ‹œç™»å¯»æ±‚æ¿€åŠ±å¤è‹
 
-#### º£Íâ×Ê²ú offshore assets
+#### æµ·å¤–èµ„äº§ offshore assets
 Romney's offshore assets hint at greater wealth(CBS)
-Â³Ã·Äáº£Íâ×Ê²úÏÔÊ¾ÆäÓĞ¾Ş´ó×Ê²ú
+é²æ¢…å°¼æµ·å¤–èµ„äº§æ˜¾ç¤ºå…¶æœ‰å·¨å¤§èµ„äº§
 
-#### Öé×Ó bead
+#### ç å­ bead
 South Korea firm turns human ashes into beads(LATIMES)
-º«¹ú¹«Ë¾½«ÈË¹Ç»Ò±ä³ÉÖé×Ó
+éŸ©å›½å…¬å¸å°†äººéª¨ç°å˜æˆç å­
 Mardi Gras beads cause environmental hangover(LATIMES)
-ÂíµÏÖé×Óµ¼ÖÂ»·¾³µÄ·ÏÆúÒÅÎï
+é©¬è¿ªç å­å¯¼è‡´ç¯å¢ƒçš„åºŸå¼ƒé—ç‰©
 
-#### È·ÈÏ Ğ£Õı fact-check
+#### ç¡®è®¤ æ ¡æ­£ fact-check
 Fact-checking Michele Bachmann on energy(CBS)
-È·ÈÏÂó¿ËÔÚÄÜÔ´·½ÃæÇé¿ö
+ç¡®è®¤éº¦å…‹åœ¨èƒ½æºæ–¹é¢æƒ…å†µ
 
-#### ÑÇ¾ü runner-up
+#### äºšå†› runner-up
 Phelps settles for another runner-up at Charlotte
-·Æ¶ûÆÕË¹¶Ô»ñµÃÑÇ¾ü¸Ğµ½ÂúÒâ
+è²å°”æ™®æ–¯å¯¹è·å¾—äºšå†›æ„Ÿåˆ°æ»¡æ„
 
-#### Ë®Æ¿×ù Aquarius
+#### æ°´ç“¶åº§ Aquarius
 An ex-Beatle wife brings the Age of Aquarius back to Catalina Island(LATIMES)
-Ç°¼×¿Ç³æÀÖ¶Ó³ÉÔ±ÆŞ×Ó´ø×ÅË®Æ¿×ùÊ±´úÕ¹ÀÀ»Øµ½¿¨ÌØÁÕÄÈµº
+å‰ç”²å£³è™«ä¹é˜Ÿæˆå‘˜å¦»å­å¸¦ç€æ°´ç“¶åº§æ—¶ä»£å±•è§ˆå›åˆ°å¡ç‰¹ç³å¨œå²›
 
-#### µØµã venue  ¸Ä±äµØµã a change of venue
+#### åœ°ç‚¹ venue  æ”¹å˜åœ°ç‚¹ a change of venue
 Legal Drama Has a Change of Venue, From Cable to Satellite(TIMES)
-ºÏ·¨¾ç¼¯¸Ä±ä²¥·ÅµØµã,´ÓÓĞÏßµ½ÉÏĞÇ
+åˆæ³•å‰§é›†æ”¹å˜æ’­æ”¾åœ°ç‚¹,ä»æœ‰çº¿åˆ°ä¸Šæ˜Ÿ
 
-#### ´ó»á´ú±í convention delegate
+#### å¤§ä¼šä»£è¡¨ convention delegate
 Romney picks up 9 convention delegates from Guam(CBS)
-Â³Ã·ÄáµÃµ½À´×Ô¹ØµºµÄ9Ãû´ó»á´ú±íÖ§³Ö
+é²æ¢…å°¼å¾—åˆ°æ¥è‡ªå…³å²›çš„9åå¤§ä¼šä»£è¡¨æ”¯æŒ
 
-#### ÀíÂÛ¼Ò ideologist
+#### ç†è®ºå®¶ ideologist
 Putin resists revote; Kremlin ideologist out(CBS) 
-ÆÕ¾©µÖÖÆÖØÑ¡,¿ËÀïÄ·ÁÖÀíÂÛ¼Ò³ö¾Ö
+æ™®äº¬æŠµåˆ¶é‡é€‰,å…‹é‡Œå§†æ—ç†è®ºå®¶å‡ºå±€
 
-#### Òô¹ì ¹µ²Û groove  Ñø³ÉÏ°¹ß ½øÈë×´Ì¬ get into a groove/get stuck in a groove
+#### éŸ³è½¨ æ²Ÿæ§½ groove  å…»æˆä¹ æƒ¯ è¿›å…¥çŠ¶æ€ get into a groove/get stuck in a groove
 Can Rafael Nadal Get His Groove Back?(TIMES) 
-ÄÉ´ï¶ûÄÜ¹»»Øµ½ËûµÄ×î¼Ñ×´Ì¬Âğ
+çº³è¾¾å°”èƒ½å¤Ÿå›åˆ°ä»–çš„æœ€ä½³çŠ¶æ€å—
 
-#### ÈÙÒ« ¹â»Ô ¹âÔó sheen/luster  ÓÍ¹â oil sheen
+#### è£è€€ å…‰è¾‰ å…‰æ³½ sheen/luster  æ²¹å…‰ oil sheen
 Shell says Gulf of Mexico sheen dissipating
-Ä«Î÷¸çº£Íå¹â»ÔÏûÉ¢ÁË
+å¢¨è¥¿å“¥æµ·æ¹¾å…‰è¾‰æ¶ˆæ•£äº†
 BP says gulf oil sheen not from a fresh leak(WAPOST)
-Ó¢¹úÊ¯ÓÍËµÍåÇø¸¡ÓÍ¹âÔó²»ÊÇÀ´×ÔÓÚĞÂµÄĞ¹Â©
+è‹±å›½çŸ³æ²¹è¯´æ¹¾åŒºæµ®æ²¹å…‰æ³½ä¸æ˜¯æ¥è‡ªäºæ–°çš„æ³„æ¼
 No fuel sheen or sign that ship hull is breached(Yahoo)
-Ã»ÓĞÓÍ¹â»ò´¬ÌåÆÆËğ¼£Ïó
+æ²¡æœ‰æ²¹å…‰æˆ–èˆ¹ä½“ç ´æŸè¿¹è±¡
 Netflix's 4Q restores company's investment luster(Yahoo)
-ÍøÂç¹«Ë¾4¼¾¶ÈÊÕÈë»Ö¸´¹«Ë¾Í¶×ÊµÄ¹â²Ê
+ç½‘ç»œå…¬å¸4å­£åº¦æ”¶å…¥æ¢å¤å…¬å¸æŠ•èµ„çš„å…‰å½©
 
-#### ÀÛ·¸ ¹ß·¸ recidivist
+#### ç´¯çŠ¯ æƒ¯çŠ¯ recidivist
 Judge rejects SEC deal with 'recidivist' Citigroup, calls fine 'pocket change'(The Christian Science Monitor) 
-·¨¹Ù¾Ü¾ø'¹ß·¸'»¨Æì¼¯ÍÅÓëÖ¤¼à»áµÄĞ­Òé,³Æ·£¿îÊÇĞ¡Ç®
+æ³•å®˜æ‹’ç»'æƒ¯çŠ¯'èŠ±æ——é›†å›¢ä¸è¯ç›‘ä¼šçš„åè®®,ç§°ç½šæ¬¾æ˜¯å°é’±
 
-#### ·ºÌ«Æ½Ñó »·Ì«Æ½Ñó pacific rim
+#### æ³›å¤ªå¹³æ´‹ ç¯å¤ªå¹³æ´‹ pacific rim
 Obama attends to Pacific Rim diplomacy(CBS) 
-°Â°ÍÂí²Î¼Ó»·Ì«Æ½ÑóÍâ½»
+å¥¥å·´é©¬å‚åŠ ç¯å¤ªå¹³æ´‹å¤–äº¤
 
-#### ¸Ğ¾õ Öª¾õ Ãô¸Ğ sensation
+#### æ„Ÿè§‰ çŸ¥è§‰ æ•æ„Ÿ sensation
 Gender-bending model a runway sensation (CBS)
-ĞÔ±ğÈ¡ÏòĞÎ³ÉÅÜµÀ¸Ğ¾õ
+æ€§åˆ«å–å‘å½¢æˆè·‘é“æ„Ÿè§‰
 China prepares for trial in sensational case of Neil Heywood slaying(LATIMES)
-ÖĞ¹ú×¼±¸ºÃ¶ÔÄÚ¶ûÎéµÂÄ±É±ÕâÆğÃô¸Ğ°¸¼ş½øĞĞÉóÀí
+ä¸­å›½å‡†å¤‡å¥½å¯¹å†…å°”ä¼å¾·è°‹æ€è¿™èµ·æ•æ„Ÿæ¡ˆä»¶è¿›è¡Œå®¡ç†
 
-#### ²»Ò»ÖÂ ²îÒì disparity  À©´ó²îÒì widen disparity
+#### ä¸ä¸€è‡´ å·®å¼‚ disparity  æ‰©å¤§å·®å¼‚ widen disparity
 Post office closings may increase rural isolation, economic disparity(WAPOST)
-ÓÊÕş»ú¹¹¹Ø±Õ½«Ôö¼ÓÏç´åµÄ¸ôÀë,¾­¼ÃµÄ²î¾àºÍ²»µÈ
+é‚®æ”¿æœºæ„å…³é—­å°†å¢åŠ ä¹¡æ‘çš„éš”ç¦»,ç»æµçš„å·®è·å’Œä¸ç­‰
 Court ruling could widen health coverage disparities among states(LATIMES)
-·¨Í¥²Ã¾ö¿ÉÄÜ¼Ó´ó¸÷ÖİÒ½±£¸²¸ÇµÄ²»Í¬
+æ³•åº­è£å†³å¯èƒ½åŠ å¤§å„å·åŒ»ä¿è¦†ç›–çš„ä¸åŒ
 BET founder offers plan to cut racial disparity in hiring(WAPOST)
-ÔÚ¹ÍÓ¶·½ÃæÌá¹©¼Æ»®À´¼õÉÙÖÖ×å²îÒìÎÊÌâ
+åœ¨é›‡ä½£æ–¹é¢æä¾›è®¡åˆ’æ¥å‡å°‘ç§æ—å·®å¼‚é—®é¢˜
 Campaign finance reports underscore GOP disparities(LATIMES)
-½ğÈÚ»î¶¯±¨¸æÇ¿µ÷¹²ºÍµ³²»Í¬
+é‡‘èæ´»åŠ¨æŠ¥å‘Šå¼ºè°ƒå…±å’Œå…šä¸åŒ
 Campaign reports show disparity among GOP(AP)
-¾ºÑ¡±¨¸æÏÔÊ¾¹²ºÍµ³ÄÚ²»Ò»ÖÂ
+ç«é€‰æŠ¥å‘Šæ˜¾ç¤ºå…±å’Œå…šå†…ä¸ä¸€è‡´
 
-#### ²¼ Ö¯Îï fabric  Éç»á½á¹¹ social fabric
+#### å¸ƒ ç»‡ç‰© fabric  ç¤¾ä¼šç»“æ„ social fabric
 Repression Tears Apart Bahrain's Social Fabric(TIMES)
-·Ö¸îµÄ°ÍÁÖÉç»á½á¹¹Ñ¹ÒÖµÄÑÛÀá
+åˆ†å‰²çš„å·´æ—ç¤¾ä¼šç»“æ„å‹æŠ‘çš„çœ¼æ³ª
 
-#### ÈÊ´È ÎÂºÍ clemency(clement)/lenience(lenient)/mercy(merciful)
+#### ä»æ…ˆ æ¸©å’Œ clemency(clement)/lenience(lenient)/mercy(merciful)
 Despite Clemency Uproar, Haley Barbour Finds Lucrative Nest(TIMES)
-¾¡¹ÜÎÂºÍµÄÉ§¶¯,ÃÜÎ÷Î÷±ÈÖİ³¤¹şÀ×·¢ÏÖ×¬Ç®µÄÎÑ
+å°½ç®¡æ¸©å’Œçš„éªšåŠ¨,å¯†è¥¿è¥¿æ¯”å·é•¿å“ˆé›·å‘ç°èµšé’±çš„çª
 Troy Davis Is Denied Clemency in Georgia(TIMES)
-ÔÚ×ôÖÎÑÇÖİ,´÷Î¬±»·ñ¶¨ÊÇÈÊ´È¿íºñµÄÈË
+åœ¨ä½æ²»äºšå·,æˆ´ç»´è¢«å¦å®šæ˜¯ä»æ…ˆå®½åšçš„äºº
 
-#### ±¬ÁÑ ±£ÏÕË¿ÉÕ¶Ï Ò»±ßµ¹Ê¤Àû blowout
+#### çˆ†è£‚ ä¿é™©ä¸çƒ§æ–­ ä¸€è¾¹å€’èƒœåˆ© blowout
 Dead heat in Iowa, but a blowout in New Hampshire for Mitt Romney(LATIMES)
-ÔÚÒÂ°¢»ªÎ´·Ö³öÊ¤¸ºµÄ±ÈÈü,µ«ÊÇÂ³Ã·ÄáÔÚĞÂº±²¼Ê²¶ûÖİ»ñµÃÒ»±ßµ¹Ê¤Àû
+åœ¨è¡£é˜¿åæœªåˆ†å‡ºèƒœè´Ÿçš„æ¯”èµ›,ä½†æ˜¯é²æ¢…å°¼åœ¨æ–°ç½•å¸ƒä»€å°”å·è·å¾—ä¸€è¾¹å€’èƒœåˆ©
 
-#### ´å³¤ ¼Ò³¤ Çõ³¤ sheik
+#### æ‘é•¿ å®¶é•¿ é…‹é•¿ sheik
 Chinese firms and Gulf sheiks are snatching up farmland worldwide. Why?(WAPOST)
-ÖĞ¹ú¹«Ë¾ºÍº£ÍåÇõ³¤ÃÇËÄ´¦ÇÀÅ©Ìï
+ä¸­å›½å…¬å¸å’Œæµ·æ¹¾é…‹é•¿ä»¬å››å¤„æŠ¢å†œç”°
 
-#### Ç¹¿Ú gunpoint  ÔÚÇ¹¿ÚÏÂ at gunpoint
+#### æªå£ gunpoint  åœ¨æªå£ä¸‹ at gunpoint
 87-year-old: Forced at gunpoint to move cocaine(CBS) 
-87ËêÀÏÈËÔÚÇ¹¿ÚÇ¿ÆÈÏÂÔËËÍ¿É¿¨Òò
+87å²è€äººåœ¨æªå£å¼ºè¿«ä¸‹è¿é€å¯å¡å› 
 
-#### µØÌú metro/subway
+#### åœ°é“ metro/subway
 Belarus police step up checks after metro bomb(Reuters)
-°×¶íÂŞË¹½¨Á¢µØÌú°²¼ì
+ç™½ä¿„ç½—æ–¯å»ºç«‹åœ°é“å®‰æ£€
 Authorities beef up patrols on Metro rail system after attacks(LATIMES)
-ÔÚÏ®»÷ºó,¹Ù·½µ±¾Ö¼ÓÇ¿µØÌúÏµÍ³Ñ²Âß
+åœ¨è¢­å‡»å,å®˜æ–¹å½“å±€åŠ å¼ºåœ°é“ç³»ç»Ÿå·¡é€»
 
-#### ÔÂÈ«Ê³ total lunar eclipse
+#### æœˆå…¨é£Ÿ total lunar eclipse
 Sky-watchers get rare treat: total lunar eclipse(AP) 
-Ì«¿Õ¹Û²âÕßµÃµ½ÉÙÓĞµÄÏíÊÜÀÖÈ¤:ÔÂÈ«Ê³
+å¤ªç©ºè§‚æµ‹è€…å¾—åˆ°å°‘æœ‰çš„äº«å—ä¹è¶£:æœˆå…¨é£Ÿ
 
-#### ÈÈÁ¦²¹Öú heating aid
+#### çƒ­åŠ›è¡¥åŠ© heating aid
 Northeast states cut heating aid to poor(AP) 
-¶«±±²¿ÖİÏ÷¼õ¶ÔÇîÈËµÄÈÈÁ¦²¹Öú
+ä¸œåŒ—éƒ¨å·å‰Šå‡å¯¹ç©·äººçš„çƒ­åŠ›è¡¥åŠ©
 
-#### Ú¤ÍõĞÇ Pluto
+#### å†¥ç‹æ˜Ÿ Pluto
 It's not lunacy: Not-a-planet Pluto boasts 5 moons(Yahoo)
-²¢·ÇÓŞ´À:·ÇĞĞĞÇµÄÚ¤ÍõĞÇÒıÒÔÎª°ÁµÄ5¸öÔÂÁÁ
+å¹¶éæ„šè ¢:éè¡Œæ˜Ÿçš„å†¥ç‹æ˜Ÿå¼•ä»¥ä¸ºå‚²çš„5ä¸ªæœˆäº®
 Dwarf planet beyond Pluto is small and barren(CBS)
-Ú¤ÍõĞÇÖ®ÍâµÄ´ï·òĞĞĞÇĞ¡ÓÖÆ¶ñ¤
+å†¥ç‹æ˜Ÿä¹‹å¤–çš„è¾¾å¤«è¡Œæ˜Ÿå°åˆè´«ç˜ 
 
-#### Áú¾í·ç twister
+#### é¾™å·é£ twister
 After twister, surprise blessings for single mom(CBS)
-ÔÚÁú¾í·ç¹ıºó,Îªµ¥ÉíÄ¸Ç×Æíµ»Ææ¼£
+åœ¨é¾™å·é£è¿‡å,ä¸ºå•èº«æ¯äº²ç¥ˆç¥·å¥‡è¿¹
 South looks to recover from killer twisters (AP)
-ÄÏ²¿Ö¸Íû´ÓÎ£ÏÕµÄÁú¾í·ç(ÄÑÌâ)ÖĞ»Ö¸´
+å—éƒ¨æŒ‡æœ›ä»å±é™©çš„é¾™å·é£(éš¾é¢˜)ä¸­æ¢å¤
 Even rescuers hobbled by worst twisters since 1932(AP) 
-ÉõÖÁ¾ÈÔ®ÕßÒ²±»×èÖÍ
+ç”šè‡³æ•‘æ´è€…ä¹Ÿè¢«é˜»æ»
 Lee's remnants spawn Ga. twisters, drown Miss. man(AP)
-ì«·çÀîµÄ²Ğ´æ²úÉú'¼Ó'Áú¾í·ç,ÑÍËÀÃÜÎ÷Î÷±ÈºÓÖĞµÄÈË
+é£“é£æçš„æ®‹å­˜äº§ç”Ÿ'åŠ 'é¾™å·é£,æ·¹æ­»å¯†è¥¿è¥¿æ¯”æ²³ä¸­çš„äºº
 
-#### ¾ÍÒµ¼Æ»® jobs plan
+#### å°±ä¸šè®¡åˆ’ jobs plan
 Obama works to sell jobs plan, but it's far from a sure deal(LATIMES)
-°Â°ÍÂíÅ¬Á¦ÍÆÏú¾ÍÒµ¼Æ»®,µ«ËüÀëÎŞÒÉÎÊÕæÊµµÄÒé°¸ºÜÔ¶
+å¥¥å·´é©¬åŠªåŠ›æ¨é”€å°±ä¸šè®¡åˆ’,ä½†å®ƒç¦»æ— ç–‘é—®çœŸå®çš„è®®æ¡ˆå¾ˆè¿œ
 
-#### ¾­¼ÃÉÏÆ½µÈ financial equality
+#### ç»æµä¸Šå¹³ç­‰ financial equality
 Financial equality still eludes married gays(CBS)
-¾­¼ÃÉÏÆ½µÈÈÔ¾ÉÈÃÍ¬ĞÔÁµ»éÒö²»Àí½â
+ç»æµä¸Šå¹³ç­‰ä»æ—§è®©åŒæ€§æ‹å©šå§»ä¸ç†è§£
 
-#### ¹¤ÒµË¥ÍËµØ´ø Rust Belt
+#### å·¥ä¸šè¡°é€€åœ°å¸¦ Rust Belt
 A new mayor's bid to revive Rust Belt city(The Christian Science Monitor)
-Ò»Î»ĞÂÊĞ³¤µÄÅ¬Á¦»Ö¸´¹¤ÒµË¥ÍËµØ´ø³ÇÊĞ
+ä¸€ä½æ–°å¸‚é•¿çš„åŠªåŠ›æ¢å¤å·¥ä¸šè¡°é€€åœ°å¸¦åŸå¸‚
 Nanotech creating jobs in Rust Belt(CBS)
-ÔÚ¹¤ÒµË¥ÍËµØ´ø´´Ôì¾ÍÒµ»ú»á
+åœ¨å·¥ä¸šè¡°é€€åœ°å¸¦åˆ›é€ å°±ä¸šæœºä¼š
 
-#### ºÚÂí dark-horse  ºÚÂíºòÑ¡ÈË dark-horse candidate
+#### é»‘é©¬ dark-horse  é»‘é©¬å€™é€‰äºº dark-horse candidate
 In Egypt's Election, Dark-Horse Candidates Add to Suspense(TIMES)
-°£¼°Ñ¡¾ÙÖĞºÚÂíºòÑ¡ÈËÔö¼ÓĞüÄî
+åŸƒåŠé€‰ä¸¾ä¸­é»‘é©¬å€™é€‰äººå¢åŠ æ‚¬å¿µ
 
-#### ÕÏ°­ À¸ hurdle/barrier/obstacle
+#### éšœç¢ æ  hurdle/barrier/obstacle
 Saving desert tortoises is a costly hurdle for solar projects(LATIMES)
-±£»¤É³Ä®¹êÊÇÌ«ÑôÄÜ¹¤³Ì×îÎª°º¹óµÄÕÏ°­
+ä¿æŠ¤æ²™æ¼ é¾Ÿæ˜¯å¤ªé˜³èƒ½å·¥ç¨‹æœ€ä¸ºæ˜‚è´µçš„éšœç¢
 D.C.'s start-up engine gaining momentum, but hurdles persist for entrepreneurs(WAPOST)
-»ªÊ¢¶ÙµØÇøÆğ²½ÆóÒµ»ñµÃ¶¯Á¦,µ«¶ÔÆóÒµ¼ÒÒÀ¾ÉÓĞºÜ¶à×è°­
+åç››é¡¿åœ°åŒºèµ·æ­¥ä¼ä¸šè·å¾—åŠ¨åŠ›,ä½†å¯¹ä¼ä¸šå®¶ä¾æ—§æœ‰å¾ˆå¤šé˜»ç¢
 Wis. Republicans face new hurdle in union battle (AP)
-ÍşÖİ¹²ºÍµ³ÔÚÁªºÏ¶·ÕùÖĞÃæ¶ÔĞÂÕÏ°­
+å¨å·å…±å’Œå…šåœ¨è”åˆæ–—äº‰ä¸­é¢å¯¹æ–°éšœç¢
 Next hurdle for Giffords: Mending damaged skull(CBS)
-ÏÂÒ»¸öÕÏ°­ĞŞ¸´Ç¹»÷»µµÄÍ·¸Ç¹Ç
+ä¸‹ä¸€ä¸ªéšœç¢ä¿®å¤æªå‡»åçš„å¤´ç›–éª¨
 
-#### ·Ì°ù libel/defame(defamation)  ·Ì°ù°¸ libel case
+#### è¯½è°¤ libel/defame(defamation)  è¯½è°¤æ¡ˆ libel case
 President of Ecuador to Pardon Four in Libel Case(TIMES)
-¶ò¹Ï¶à¶û×ÜÍ³ÉâÃâ·Ì°ù°¸ÖĞËÄÈË
+å„ç“œå¤šå°”æ€»ç»Ÿèµ¦å…è¯½è°¤æ¡ˆä¸­å››äºº
 UK paper suing Lance Armstrong over libel case(Yahoo)
-Ó¢¹ú±¨Ö½ËßËÏ·Ì°ù°¸
+è‹±å›½æŠ¥çº¸è¯‰è®¼è¯½è°¤æ¡ˆ
 
-#### ÕşÈ¨ regime
+#### æ”¿æƒ regime
 Rebels cheer cracks in Gaddafi regime(Reuters)
-·´¶ÔÅÉÇìºØÀûÕşÈ¨·ÖÁÑ´ò»÷
+åå¯¹æ´¾åº†è´ºåˆ©æ”¿æƒåˆ†è£‚æ‰“å‡»
 Syrian regime supporters pelt US envoy with eggs(AP)
-ĞğÀûÑÇÕşÈ¨Ö§³ÖÕßÏòÃÀ¹ú´óÊ¹Í¶ÖÀ¼¦µ°
+å™åˆ©äºšæ”¿æƒæ”¯æŒè€…å‘ç¾å›½å¤§ä½¿æŠ•æ·é¸¡è›‹
 Obama: 'The Kadafi regime has come to an end'(LATIMES)
-¿¨Ôú·ÆÕşÈ¨ÒÑ¾­×ßµ½ÖÕµã
+å¡æ‰è²æ”¿æƒå·²ç»èµ°åˆ°ç»ˆç‚¹
 
-#### Ò»¼Á Ò»´Î a dose of
+#### ä¸€å‰‚ ä¸€æ¬¡ a dose of
 Feds get a dose of kitchen-table economics(AP)
-Áª°îÕş¸®µÃµ½Ò»´Î²Í×À¾­¼Ã
+è”é‚¦æ”¿åºœå¾—åˆ°ä¸€æ¬¡é¤æ¡Œç»æµ
 
-#### ÂôÒù prostitution  ÂôÒù¼¯ÍÅ prostitution ring
+#### å–æ·« prostitution  å–æ·«é›†å›¢ prostitution ring
 Prostitution probe to quiz Strauss-Kahn: source(Reuters)
-ÂôÒùµ÷²éÅÌÎÊ¿¨¶÷
+å–æ·«è°ƒæŸ¥ç›˜é—®å¡æ©
 John Edwards denies link to New York prostitution ring(LATIMES)
-Ô¼º²·ñÈÏÓëÅ¦Ô¼ÂôÒù¼¯ÍÅÓĞ¹ØÏµ
+çº¦ç¿°å¦è®¤ä¸çº½çº¦å–æ·«é›†å›¢æœ‰å…³ç³»
 Secret Service director says Colombia prostitution scandal was isolated incident(LATIMES)
-ÌØÇÚ¾ÖÁìµ¼Ëµ¸çÂ×±ÈÑÇÕĞ¼ËÊÂ¼şÊÇ·¢ÉúµÄ¹ÂÁ¢µÄÊÂ¼ş
+ç‰¹å‹¤å±€é¢†å¯¼è¯´å“¥ä¼¦æ¯”äºšæ‹›å¦“äº‹ä»¶æ˜¯å‘ç”Ÿçš„å­¤ç«‹çš„äº‹ä»¶
 
-#### ¿¶¿® ¿íÈİ generosity(generous)
+#### æ…·æ…¨ å®½å®¹ generosity(generous)
 Al-Qaida leader recalls bin Laden's 'generosity'
-»ùµØÁìµ¼ÈË»ØÒäÀ­µÇµÄ¿¶¿®¿íÈİ
+åŸºåœ°é¢†å¯¼äººå›å¿†æ‹‰ç™»çš„æ…·æ…¨å®½å®¹
 Chef serves up generosity to needy kids(CBS)
-³øÊ¦¸øÓèÆ¶ÇîµÄº¢×Ó´ó·½¿¶¿®µÄ·şÎñ
+å¨å¸ˆç»™äºˆè´«ç©·çš„å­©å­å¤§æ–¹æ…·æ…¨çš„æœåŠ¡
 
-#### ÃÔ»ó obsession(obsess)/puzzle
+#### è¿·æƒ‘ obsession(obsess)/puzzle
 Vietnamese obsession with rhino horn makes it more costly than cocaine(CBS)
-Ô½ÄÏÈË¶ÔÏ¬Å£½ÇÃÔ»ó,¶ÔÆä¼Ó¹¤±È¿É¿¨Òò¸ü¼Ó°º¹ó
+è¶Šå—äººå¯¹çŠ€ç‰›è§’è¿·æƒ‘,å¯¹å…¶åŠ å·¥æ¯”å¯å¡å› æ›´åŠ æ˜‚è´µ
 
-#### ¾«×Ó sperm/semen  ÅàÓı¾«×Ó grow sperm  ¾«×Ó¿â sperm bank ¾è¾« donate sperm
+#### ç²¾å­ sperm/semen  åŸ¹è‚²ç²¾å­ grow sperm  ç²¾å­åº“ sperm bank æç²¾ donate sperm
 Scientists grow sperm in lab: Will it help men?(CBS)
-¿ÆÑ§¼ÒÔÚÊµÑéÊÒÅàÓı¾«×Ó,Õâ½«°ïÖúÄĞÈËÃÇ
+ç§‘å­¦å®¶åœ¨å®éªŒå®¤åŸ¹è‚²ç²¾å­,è¿™å°†å¸®åŠ©ç”·äººä»¬
 One Sperm Donor, 150 Sons and Daughters(TIMES)
-Ò»¸ö¾«×Ó¾èÏ×Õß,ÓĞ150¸ö¶ùÅ®
+ä¸€ä¸ªç²¾å­æçŒ®è€…,æœ‰150ä¸ªå„¿å¥³
 Sperm bank says no to donors with red hair(CBS)
-¾«×Ó¿âËµÃ»ÓĞºìÍ··¢µÄ¾èÔùÈË
+ç²¾å­åº“è¯´æ²¡æœ‰çº¢å¤´å‘çš„æèµ äºº
 Woman charged with stealing bull semen(CBS)
-Å®×Ó±»Ö¸¿ØÍµÅ£¾«Òº
+å¥³å­è¢«æŒ‡æ§å·ç‰›ç²¾æ¶²
 FDA warns man to stop donating sperm online(CBS) 
-Ê³Æ·Ò©Æ·¹ÜÀí¾Ö¾¯¸æÄĞ×ÓÍ£Ö¹ÔÚÏß¾èÖú¾«×Ó
+é£Ÿå“è¯å“ç®¡ç†å±€è­¦å‘Šç”·å­åœæ­¢åœ¨çº¿æåŠ©ç²¾å­
 
-#### Î±ÉÆ ĞéÎ± hypocrisy ĞéÎ±µÄ hypocritical Î±¾ı×Ó hypocrite
+#### ä¼ªå–„ è™šä¼ª hypocrisy è™šä¼ªçš„ hypocritical ä¼ªå›å­ hypocrite
 Joe Biden accuses Romney, Ryan of deficit hypocrisy(LATIMES)
-°İµÇÖ¸ÔğÂ³Ã·ÄáÔ¤ËãÎ±ÉÆ
+æ‹œç™»æŒ‡è´£é²æ¢…å°¼é¢„ç®—ä¼ªå–„
 Ron Paul attacks Gingrich: "Serial hypocrisy"(CBS) 
-¸ñÁÖÀïÆæ±»¹¥»÷ÏµÁĞÎ±ÉÆ×÷Îª
+æ ¼æ—é‡Œå¥‡è¢«æ”»å‡»ç³»åˆ—ä¼ªå–„ä½œä¸º
 Nancy Giles to politicians: Stop the hypocrisy(CBS)
-Í£Ö¹Î±ÉÆ×ö×÷
+åœæ­¢ä¼ªå–„åšä½œ
 Paul Ryan supported Bush's 2002 stimulus. But that doesn't make him a hypocrite.(WAPOST)
-Èğ°²Ö§³Ö²¼Ê²´Ì¼¤Õş²ß,µ«ÕâÃ»ÈÃËûÏñÒ»¸öÎ±¾ı×Ó
+ç‘å®‰æ”¯æŒå¸ƒä»€åˆºæ¿€æ”¿ç­–,ä½†è¿™æ²¡è®©ä»–åƒä¸€ä¸ªä¼ªå›å­
 
-#### ´óÔÖÄÑ catastrophe
+#### å¤§ç¾éš¾ catastrophe
 Geithner says Europe has lowered risks of "catastrophe"(Reuters)
-¼ª¸£µÂËµÅ·ÖŞÒÑ¾­½µµÍÁË´óÔÖÄÑµÄ·çÏÕ
+å‰ç¦å¾·è¯´æ¬§æ´²å·²ç»é™ä½äº†å¤§ç¾éš¾çš„é£é™©
 Sequester cuts would be a "catastrophe" for DOD civilians(CBS)
-¸ôÀëµÄ¼õÉÙ½«¶Ô¹ú·À²¿±£»¤ÏÂ¹«Ãñ´øÀ´Í»ÈëÆäÀ´µÄÔÖÄÑ
+éš”ç¦»çš„å‡å°‘å°†å¯¹å›½é˜²éƒ¨ä¿æŠ¤ä¸‹å…¬æ°‘å¸¦æ¥çªå…¥å…¶æ¥çš„ç¾éš¾
 
-#### ·¢Éä liftoff/blastoff
+#### å‘å°„ liftoff/blastoff
 North Korean Rocket Said to Fail Moments After Liftoff(TIMES)
-³¯ÏÊ»ğ¼ı¾İËµ·¢ÉäºóÊ§°Ü
+æœé²œç«ç®­æ®è¯´å‘å°„åå¤±è´¥
 
-#### Îİ¶¥ rooftop  µ¼µ¯·ÀÓù¼Æ»® rooftop missiles plan
+#### å±‹é¡¶ rooftop  å¯¼å¼¹é˜²å¾¡è®¡åˆ’ rooftop missiles plan
 London Wary of Rooftop Missiles Plan During Olympics(TIMES)
-ÔÚ°ÂÔËÆÚ¼äÂ×¶ØĞ¡ĞÄµÄµ¼µ¯·ÀÓù¼Æ»®
+åœ¨å¥¥è¿æœŸé—´ä¼¦æ•¦å°å¿ƒçš„å¯¼å¼¹é˜²å¾¡è®¡åˆ’
 NYPD videos capture rooftop rescues after Sandy(CBS) 
-ÊÓÆµ²¶×½µ½Îİ¶¥¾ÈÔ®
+è§†é¢‘æ•æ‰åˆ°å±‹é¡¶æ•‘æ´
 From rooftops, snipers kill 46 Yemeni protesters 
-Ò²ÃÅ¾ÖÊÆ¶ñ»¯,¾ü·½¾Ñ»÷ÊÖÇ¹É±ÁË46ÃûÊ¾ÍşÕß
+ä¹Ÿé—¨å±€åŠ¿æ¶åŒ–,å†›æ–¹ç‹™å‡»æ‰‹æªæ€äº†46åç¤ºå¨è€…
 
-#### ĞåÇò»¨Ö²Îï hydrangea
+#### ç»£çƒèŠ±æ¤ç‰© hydrangea
 Madonna pokes fun at hydrangeas incident(CBS)
-ÂüµÂÀ­¿ªĞåÇò»¨ÊÂÇéµÄÍæĞ¦
+æ›¼å¾·æ‹‰å¼€ç»£çƒèŠ±äº‹æƒ…çš„ç©ç¬‘
 
-#### Æ¢Æø Å­»ğ Ê¹Æ½Ï¢ temper Å­ÆøÒıÈ¼ tempers flare Æ½Ï¢Õù³³ temper fray  »ººÍµ£ÓÇ temper fears ÈÌ×¡²»·¢Æ¢Æø keep one's temper ·¢»ğ lose one's temper  Å­·¢³å¹Ú Òı·¢Å­»ğ raise hackle
+#### è„¾æ°” æ€’ç« ä½¿å¹³æ¯ temper æ€’æ°”å¼•ç‡ƒ tempers flare å¹³æ¯äº‰åµ temper fray  ç¼“å’Œæ‹…å¿§ temper fears å¿ä½ä¸å‘è„¾æ°” keep one's temper å‘ç« lose one's temper  æ€’å‘å†²å†  å¼•å‘æ€’ç« raise hackle
 Greeks seek elusive bailout deal as EU tempers fray(Reuters)
-Ï£À°Ñ°ÇóĞéÎŞµÄ¾ÈÔ®Ğ­Òé,ÓÉÓÚÅ·ÃËÆ½Ï¢Õù³³
+å¸Œè…Šå¯»æ±‚è™šæ— çš„æ•‘æ´åè®®,ç”±äºæ¬§ç›Ÿå¹³æ¯äº‰åµ
 Woods Loses His Temper and More Ground at Masters(TIMES)
-Îé×È·¢Æ¢Æø,²¢ÇÒÔÚ´óÊ¦ÈüÉÏÂäºó
+ä¼å…¹å‘è„¾æ°”,å¹¶ä¸”åœ¨å¤§å¸ˆèµ›ä¸Šè½å
 When an employee throws a temper tantrum(CBS)
-µ±¹ÍÔ±·¢³öÅ­»ğ
+å½“é›‡å‘˜å‘å‡ºæ€’ç«
 Time short, tempers flare in budget showdown (AP)
-Ô¤Ëã°¸Ì¯ÅÆµÄÊ±¼äÔÚÁÙ½ü,Å­ÆøÕıÔÚµãÈ¼
+é¢„ç®—æ¡ˆæ‘Šç‰Œçš„æ—¶é—´åœ¨ä¸´è¿‘,æ€’æ°”æ­£åœ¨ç‚¹ç‡ƒ
 Factory, jobs data temper recession fears(Reuters)
-¹¤³§¾ÍÒµÊı¾İ»ººÍÁË¶Ô¾­¼ÃË¥ÍËµ£ÓÇ
+å·¥å‚å°±ä¸šæ•°æ®ç¼“å’Œäº†å¯¹ç»æµè¡°é€€æ‹…å¿§
 
-#### Õæ¿ÕÃÜ·â°ü vacuum-seal bag
+#### çœŸç©ºå¯†å°åŒ… vacuum-seal bag
 Itineraries: Trench Coats, Vacuum-Seal Bags and Other Ways to Avoid Airline Fees(TIMES)
-ÂÃĞĞÂ·Ïß¼Æ»®:·ÀË®·ş,Õæ¿ÕÃÜ·â°üºÍÆäËü·½Ê½À´±ÜÃâ·É»ú·ÑÓÃ
+æ—…è¡Œè·¯çº¿è®¡åˆ’:é˜²æ°´æœ,çœŸç©ºå¯†å°åŒ…å’Œå…¶å®ƒæ–¹å¼æ¥é¿å…é£æœºè´¹ç”¨
 
-#### ÔÖÄÑ´ò»÷µÄ disaster-hit
+#### ç¾éš¾æ‰“å‡»çš„ disaster-hit
 Power back at nuclear plant in disaster-hit Japan (AFP)
-ºËµç³§µÄµçÔ´»Ö¸´
+æ ¸ç”µå‚çš„ç”µæºæ¢å¤
 Tropical Storm Emily nears disaster-hit Haiti(AP)
-ÈÈ´ø·ç±©,ÁÙ½üÒÑ±»ÔÖÄÑ´ò»÷µÄº£µØ
+çƒ­å¸¦é£æš´,ä¸´è¿‘å·²è¢«ç¾éš¾æ‰“å‡»çš„æµ·åœ°
 
-#### Ê¢´ó±íÑİ ¿ñÍıµÄÑÔĞĞ extravaganza  ´ÈÉÆ±íÑİ charity extravaganza  ÒôÀÖ»á music extravaganza 
+#### ç››å¤§è¡¨æ¼” ç‹‚å¦„çš„è¨€è¡Œ extravaganza  æ…ˆå–„è¡¨æ¼” charity extravaganza  éŸ³ä¹ä¼š music extravaganza 
 2 dogs 'wed' at NYC charity extravaganza(Yahoo)
-Á½Ìõ¹·ÔÚÅ¦Ô¼´ÈÉÆ±íÑİÉÏ½á»é
+ä¸¤æ¡ç‹—åœ¨çº½çº¦æ…ˆå–„è¡¨æ¼”ä¸Šç»“å©š
 London calling, Games end with music extravaganza(Yahoo)
-Â×¶ØÊ¹Ãü,°ÂÔË½áÊø°éËæ×Å´ó³¡Ãæ±íÑİµÄÒôÀÖ»á
+ä¼¦æ•¦ä½¿å‘½,å¥¥è¿ç»“æŸä¼´éšç€å¤§åœºé¢è¡¨æ¼”çš„éŸ³ä¹ä¼š
 
-#### Â¯×Ó Ôî stove  ³øÔî kitchen stove
+#### ç‚‰å­ ç¶ stove  å¨ç¶ kitchen stove
 Fairbanks area, trying to stay warm, chokes on wood stove pollution(LATIMES)
-·Ñ¶û°àµØÇø±£³ÖÎÂÅ¯,ÊÜÄ¾²ÄÂ¯ÎÛÈ¾¶øÖÏÏ¢
+è´¹å°”ç­åœ°åŒºä¿æŒæ¸©æš–,å—æœ¨æç‚‰æ±¡æŸ“è€Œçª’æ¯
 
-#### °ÄÍø¹«¿ªÈü Aussie open
+#### æ¾³ç½‘å…¬å¼€èµ› Aussie open
 Watch: Player destroys 4 rackets at Aussie Open(CBS)
-ÔÚ°ÄÍø¹«¿ªÈüÉÏ,ÇòÔ±»ÙµôËÄ¸öÇòÅÄ
+åœ¨æ¾³ç½‘å…¬å¼€èµ›ä¸Š,çƒå‘˜æ¯æ‰å››ä¸ªçƒæ‹
 
-#### ÌØÖ¸×ö¼¹×µ¶¯Îï±ê±¾µÄÈË taxidermist 
+#### ç‰¹æŒ‡åšè„Šæ¤åŠ¨ç‰©æ ‡æœ¬çš„äºº taxidermist 
 Mo. taxidermist preserves man's best friend(Yahoo)
-±ê±¾ÖÆ×÷Õß±£»¤ÈËÀà×îºÃµÄ¶¯ÎïÅóÓÑ
+æ ‡æœ¬åˆ¶ä½œè€…ä¿æŠ¤äººç±»æœ€å¥½çš„åŠ¨ç‰©æœ‹å‹
 
-#### Â©¶´ loophole/flaw
+#### æ¼æ´ loophole/flaw
 Obama urges corporate tax cut, closing loopholes(Reuters)
-°Â°ÍÂíÒªÇó¹«Ë¾¼õË°,¹Ø±ÕÂ©¶´
+å¥¥å·´é©¬è¦æ±‚å…¬å¸å‡ç¨,å…³é—­æ¼æ´
 CFTC investigates JPMorgan loss, argues against derivatives loophole abroad(WAPOST)
-µ÷²é´óÄ¦ËğÊ§,ÔÚ¶Ô¸¶ÑÜÉúµÄ¹úÍâ½»Ò×Â©¶´ÉÏÓĞÕùÂÛ
+è°ƒæŸ¥å¤§æ‘©æŸå¤±,åœ¨å¯¹ä»˜è¡ç”Ÿçš„å›½å¤–äº¤æ˜“æ¼æ´ä¸Šæœ‰äº‰è®º
 Pelosi filing shows financial disclosure loophole(AP)
-ÅåÂåÎ÷ÕûÀíµÄÎÄµµÏÔÊ¾½ğÈÚÒµµÄ½ÓÂ¶³öµÄÂ©¶´
+ä½©æ´›è¥¿æ•´ç†çš„æ–‡æ¡£æ˜¾ç¤ºé‡‘èä¸šçš„æ¥éœ²å‡ºçš„æ¼æ´
 
-#### ¿ª³ı ÇıÖğ expulsion
+#### å¼€é™¤ é©±é€ expulsion
 Arts Club's Expulsion of O. Aldon James Is Struck Down(TIMES)
-ÒÕÊõ¾ãÀÖ²¿¿ª³ı°£¶û¶Ù¾ö¶¨±»(strike down/annul/nullify/revoke)·Ï³ı
+è‰ºæœ¯ä¿±ä¹éƒ¨å¼€é™¤åŸƒå°”é¡¿å†³å®šè¢«(strike down/annul/nullify/revoke)åºŸé™¤
 
-#### ·´µ¯ Ç¿ÁÒ·´¶Ô ·´³å backlash
+#### åå¼¹ å¼ºçƒˆåå¯¹ åå†² backlash
 As IMF stumps for funds, a Republican backlash brews over Europe(WAPOST)
-ÓÉÓÚ¹ú¼Ê»õ±Ò»ù½ğ×éÖ¯ÒªÇó(ÊÕÈ¡)¸ü¶à×Ê½ğ,Ò»¸ö¹²ºÍÖ÷ÒåÕß·´µ¯ÔÚÅ·ÖŞÔÍÄğ
+ç”±äºå›½é™…è´§å¸åŸºé‡‘ç»„ç»‡è¦æ±‚(æ”¶å–)æ›´å¤šèµ„é‡‘,ä¸€ä¸ªå…±å’Œä¸»ä¹‰è€…åå¼¹åœ¨æ¬§æ´²é…é…¿
 Bristol Palin ridiculing Obama on gay marriage? Cue the backlash(LATIMES)
-ÔÚÍ¬ĞÔ»éÒöÉÏÅåÁÖ³°ÅªÅ²Şí°Â°ÍÂí, °µÊ¾Ç¿ÁÒ·´Ó¦
+åœ¨åŒæ€§å©šå§»ä¸Šä½©æ—å˜²å¼„æŒªæ„å¥¥å·´é©¬, æš—ç¤ºå¼ºçƒˆååº”
 Rural post offices get reprieve after backlash(CBS)
-³öÏÖ¿¹Òé·´µ¯ºó,Ïç´åµØÇøÓÊÕş¾Ö²Ã³·Ôİ»º
+å‡ºç°æŠ—è®®åå¼¹å,ä¹¡æ‘åœ°åŒºé‚®æ”¿å±€è£æ’¤æš‚ç¼“
 Nevada moves caucus to Feb. 4 after backlash(AP)
-ÄÚ»ª´ïÖİ½«»ù²ãÑ¡¾ÙÒÆµ½ºóÃæÔÚ¼¤ÁÒ·´¶ÔÖ®ºó
+å†…åè¾¾å·å°†åŸºå±‚é€‰ä¸¾ç§»åˆ°åé¢åœ¨æ¿€çƒˆåå¯¹ä¹‹å
 Bank of America backs off debit card fee after consumer backlash(WAPOST)
-BOfA·Ï³ı½è¼Ç¿¨ÊÕ·Ñ¹æ¶¨ÔÚÓÃ»§Ç¿ÁÒ·´¶Ô·´µ¯ºó
+BOfAåºŸé™¤å€Ÿè®°å¡æ”¶è´¹è§„å®šåœ¨ç”¨æˆ·å¼ºçƒˆåå¯¹åå¼¹å
 'Verizon abandons $2 'convenience fee' after consumer backlash(LATIMES) 
-¿Í»§¼¤ÁÒ·´µ¯ºó,·ÅÆú2ÃÀÔª'±ãÀûÊÕ·Ñ
+å®¢æˆ·æ¿€çƒˆåå¼¹å,æ”¾å¼ƒ2ç¾å…ƒ'ä¾¿åˆ©æ”¶è´¹
 Verizon backs off plan to charge $2 convenience fee amid consumer backlash(WAPOST) 
-¿Í»§·´µ¯µÄĞĞÎª,ÈÃµçĞÅ¹«Ë¾³·»ØÊÕ·Ñ¼Æ»®
+å®¢æˆ·åå¼¹çš„è¡Œä¸º,è®©ç”µä¿¡å…¬å¸æ’¤å›æ”¶è´¹è®¡åˆ’
 
-#### ¿ÎË° Õ÷ÊÕ ¿ÛÑº levy
+#### è¯¾ç¨ å¾æ”¶ æ‰£æŠ¼ levy
 Japanese watchdog may seek levy on Olympus: source(Reuters) 
-ÈÕ±¾¼à²ìÈË¿ÉÄÜÑ°Çó¿ÛÑº°ÂÁÖ°ÍË¹ÒÔ»¹Õ®
+æ—¥æœ¬ç›‘å¯Ÿäººå¯èƒ½å¯»æ±‚æ‰£æŠ¼å¥¥æ—å·´æ–¯ä»¥è¿˜å€º
 Cyprus weighs big bank levy; bailout goes down to wire(Yahoo) 
-ÈûÆÖÂ·Ë¹¿¼ÂÇ´óÒøĞĞÕ÷ÊÕ´æ¿îË°,¾­¼Ã¾ÈÔ®µ½ÁË×îºó¹ØÍ·
+å¡æµ¦è·¯æ–¯è€ƒè™‘å¤§é“¶è¡Œå¾æ”¶å­˜æ¬¾ç¨,ç»æµæ•‘æ´åˆ°äº†æœ€åå…³å¤´
 Cyprus works on last-minute deal to soften bank levy(Yahoo) 
-ÈûÆÕÂ·Ë¹×îºóÒ»·ÖÖÓ´ï³ÉĞ­ÒéÀ´¼õ»ºÒøĞĞ¶Ô´¢»§Õ÷ÊÕË°ĞĞÎª
+å¡æ™®è·¯æ–¯æœ€åä¸€åˆ†é’Ÿè¾¾æˆåè®®æ¥å‡ç¼“é“¶è¡Œå¯¹å‚¨æˆ·å¾æ”¶ç¨è¡Œä¸º
 Cypriot president postpones briefing on bank levy(Yahoo) 
-ÈûÆÖÂ·Ë¹×ÜÍ³ÍÆ³Ù¹«²¼¹ØÓÚÒøĞĞÕ÷ÊÕµÄ¼ò±¨
+å¡æµ¦è·¯æ–¯æ€»ç»Ÿæ¨è¿Ÿå…¬å¸ƒå…³äºé“¶è¡Œå¾æ”¶çš„ç®€æŠ¥
 
-#### ÖªÊ¶·Ö×Ó·¨°¸ BRAIN Act
+#### çŸ¥è¯†åˆ†å­æ³•æ¡ˆ BRAIN Act
 House lawmakers drafting BRAIN Act to retain highly educated immigrants(WAPOST) 
-¹ú»áÒéÔ±²İÄâÖªÊ¶·Ö×Ó·¨°¸À´±£Ö¤¸ßµÈ½ÌÓıµÄÒÆÃñÕß
+å›½ä¼šè®®å‘˜è‰æ‹ŸçŸ¥è¯†åˆ†å­æ³•æ¡ˆæ¥ä¿è¯é«˜ç­‰æ•™è‚²çš„ç§»æ°‘è€…
 
-#### Ó¢Àï mileage 
+#### è‹±é‡Œ mileage 
 New mileage standards would double fuel efficiency(Yahoo)
-ĞÂÓ¢ÀïÊı±ê×¼½«¼Ó±¶È¼ÓÍĞ§ÂÊ
+æ–°è‹±é‡Œæ•°æ ‡å‡†å°†åŠ å€ç‡ƒæ²¹æ•ˆç‡
 
-#### ½ô¸ú×Å ½ô½Ó×Å in wake of
+#### ç´§è·Ÿç€ ç´§æ¥ç€ in wake of
 GOP maps strategy in wake of payroll tax debacle(AP)
-½ô¸ú×ÅË°°¸²Ò°Üºó,¹²ºÍµ³³ï»®¼Æ»®²ßÂÔ
+ç´§è·Ÿç€ç¨æ¡ˆæƒ¨è´¥å,å…±å’Œå…šç­¹åˆ’è®¡åˆ’ç­–ç•¥
 John Edwards owns up to 'sins' in wake of mistrial(LATIMES)
-´íÎóÉóÅĞÖ®ºó,Ô¼º²³ĞÈÏ¹ıÊ§
+é”™è¯¯å®¡åˆ¤ä¹‹å,çº¦ç¿°æ‰¿è®¤è¿‡å¤±
 Consensus scarce in wake of Supreme Court's immigration ruling(LATIMES)
-½ô½Ó×Å¸ßµÈ·¨ÔºÒÆÃñ·¨°¸²Ã¾öºó,¶à·½È±·¦Ò»ÖÂ¿´·¨
+ç´§æ¥ç€é«˜ç­‰æ³•é™¢ç§»æ°‘æ³•æ¡ˆè£å†³å,å¤šæ–¹ç¼ºä¹ä¸€è‡´çœ‹æ³•
 Turkish Prime Minister Climbs a Higher Perch in Wake of Resignations(TIMES)
-½ôËæ×Å¾ü·½¸ß¹Ù´ÇÖ°Ö®ºó,¾ÍÊÇÍÁ¶úÆä×ÜÀíµÇÉÏ¸ü¸ßµÄµØÎ»
+ç´§éšç€å†›æ–¹é«˜å®˜è¾èŒä¹‹å,å°±æ˜¯åœŸè€³å…¶æ€»ç†ç™»ä¸Šæ›´é«˜çš„åœ°ä½
 Airlifts, water rescues in wake of Hurricane Irene(Reuters)
-ÔÚ°¬ÁÕì«·çÖ®ºó¿ÕÔËË®¾ÈÔ®
+åœ¨è‰¾ç³é£“é£ä¹‹åç©ºè¿æ°´æ•‘æ´
 Energy loans official leaves in wake of Solyndra(Reuters)
-SolyndraÌ«ÑôÄÜ¹«Ë¾ÆÆ²úÖ®ºóÁôÏÂÁËÕş¸®ÄÜÔ´´û¿î»µÕË
+Solyndraå¤ªé˜³èƒ½å…¬å¸ç ´äº§ä¹‹åç•™ä¸‹äº†æ”¿åºœèƒ½æºè´·æ¬¾åè´¦
 
-#### Ë«ÖØ¹ú¼® dual citizenship
+#### åŒé‡å›½ç± dual citizenship
 Swiss no more: Bachmann withdraws dual citizenship(LATIMES)
-²»ÔÚÊÇÈğÊ¿ÈË:°Í¿ËÂü·ÅÆúË«ÖØ¹ú¼®
+ä¸åœ¨æ˜¯ç‘å£«äºº:å·´å…‹æ›¼æ”¾å¼ƒåŒé‡å›½ç±
 
-#### ĞÎÏó ÉùÓş image  ±£»¤ĞÎÏó protect image  çèÎÛĞÎÏó tarnish image
+#### å½¢è±¡ å£°èª‰ image  ä¿æŠ¤å½¢è±¡ protect image  ç·æ±¡å½¢è±¡ tarnish image
 Back in Russia flood zone, Putin tries to protect image(Yahoo)
-´ÓºéË®ÔÖÇø·µ»Øºó,ÆÕ¾©ÊÔÍ¼±£»¤ĞÎÏó
+ä»æ´ªæ°´ç¾åŒºè¿”å›å,æ™®äº¬è¯•å›¾ä¿æŠ¤å½¢è±¡
 Fed's image tarnished by newly released documents(WAPOST)
-Áª°îÕş¸®µÄÉùÓşĞÎÏó±»ĞÂ¹«²¼µÄÎÄµµ¸øçèÎÛÁË
+è”é‚¦æ”¿åºœçš„å£°èª‰å½¢è±¡è¢«æ–°å…¬å¸ƒçš„æ–‡æ¡£ç»™ç·æ±¡äº†
 
-#### ¼ÇÃûÍ¶Æ±(Ñ¡Ãñ×Ô¼ºĞ´ºòÑ¡ÈËµÄÍ¶Æ±) write-in
+#### è®°åæŠ•ç¥¨(é€‰æ°‘è‡ªå·±å†™å€™é€‰äººçš„æŠ•ç¥¨) write-in
 Newt Gingrich won't be able to mount Virginia write-in effort(LATIMES) 
-¸ñÁÖÀïÆæÎŞ·¨ÔöÇ¿¸¥¼ªÄáÑÇ¼ÇÃûÍ¶Æ±µÄÅ¬Á¦
+æ ¼æ—é‡Œå¥‡æ— æ³•å¢å¼ºå¼—å‰å°¼äºšè®°åæŠ•ç¥¨çš„åŠªåŠ›
 
-#### ÓÌÌ«¸´¹úÖ÷ÒåÕß Zionist
+#### çŠ¹å¤ªå¤å›½ä¸»ä¹‰è€… Zionist
 Iranian president says 'uncivilized Zionists' threaten his country(LATIMES)
-ÒÁÀÊ×ÜÍ³Ëµ²»ÎÄÃ÷µÄÓÌÌ«¸´¹úÖ÷ÒåÕßÍşĞ²ËûµÄ¹ú¼Ò
+ä¼Šæœ—æ€»ç»Ÿè¯´ä¸æ–‡æ˜çš„çŠ¹å¤ªå¤å›½ä¸»ä¹‰è€…å¨èƒä»–çš„å›½å®¶
 
-#### Í¬ÃûÈË»òÎï namesake
+#### åŒåäººæˆ–ç‰© namesake
 34% Gap to close 34% of namesake U.S. stores by end of 2013(LATIMES)
-µ½2013Äêµ×Í¬ÃûÃÀ¹úÈË´¢´æ¼äÏ¶½Ó½ü
+åˆ°2013å¹´åº•åŒåç¾å›½äººå‚¨å­˜é—´éš™æ¥è¿‘
 Marriott's next boss may sound like its namesake, but Arne Sorenson is no clone(WAPOST) 
-ÂêÀöÌØÏÂÒ»¸öÀÏ°åÌıÆğÀ´ÏñÍ¬ÃûÈËÎï,µ«°¢¶÷²»ÊÇ¿ËÂ¡µÄ
+ç›ä¸½ç‰¹ä¸‹ä¸€ä¸ªè€æ¿å¬èµ·æ¥åƒåŒåäººç‰©,ä½†é˜¿æ©ä¸æ˜¯å…‹éš†çš„
 
-#### Æ¿×°Ë® bottled water
+#### ç“¶è£…æ°´ bottled water
 Mexico City Journal: Mexicans Struggle to Kick Bottled-Water Habit(TIMES)
-Ä«Î÷¸çÈËÅ¬Á¦½ä³ıÆ¿×°Ë®Ï°¹ß
+å¢¨è¥¿å“¥äººåŠªåŠ›æˆ’é™¤ç“¶è£…æ°´ä¹ æƒ¯
 Radiation scare leaves Tokyo short of bottled water (Reuters)
-·øÉä¿Ö¾åÈÃ¶«¾©Æ¿×°Ë®¶ÌÈ±
+è¾å°„ææƒ§è®©ä¸œäº¬ç“¶è£…æ°´çŸ­ç¼º
 
-#### Ê§È¥ÁªÏµ Åö²»µ½ out of touch
+#### å¤±å»è”ç³» ç¢°ä¸åˆ° out of touch
 Billy Crystal in blackface: Are the Academy Awards out of touch on race?(The Christian Science Monitor)
-±ÈÀû°çÑİºÚÈË:ÔÚ¾ºÕùÖĞ,Ğ­»á½±Ïî½«Åö²»µ½Âğ
+æ¯”åˆ©æ‰®æ¼”é»‘äºº:åœ¨ç«äº‰ä¸­,åä¼šå¥–é¡¹å°†ç¢°ä¸åˆ°å—
 
-#### ¾èÖú ¾èÖúÕß Ï×ÑªÕß donor
+#### æåŠ© æåŠ©è€… çŒ®è¡€è€… donor
 What donors? Super PACs buy time to keep secrets(AP)
-Ê²Ã´¾èÖú?³¬¼¶ÕşÖÎĞĞ¶¯Î¯Ô±»áÎª±£³ÖÃØÃÜ¶øÍÏÑÓÊ±¼ä
+ä»€ä¹ˆæåŠ©?è¶…çº§æ”¿æ²»è¡ŒåŠ¨å§”å‘˜ä¼šä¸ºä¿æŒç§˜å¯†è€Œæ‹–å»¶æ—¶é—´
 Edwards donor: I told Obama camp about affair(CBS)
-°®µÂ»ª¾èÖúÕß³ĞÈÏ¸æËß°Â°ÍÂíÕóÓªÍµÇéÊÂ¼ş
+çˆ±å¾·åæåŠ©è€…æ‰¿è®¤å‘Šè¯‰å¥¥å·´é©¬é˜µè¥å·æƒ…äº‹ä»¶
 Donor in rabies cases had symptoms, wasn't tested(CBS)
-ÔÚ¿ñÈ®Ö¢°¸ÀıÖĞÏ×ÑªÕßÓĞÖ¢×´,µ«Ã»ÓĞ±»¼ì²â
+åœ¨ç‹‚çŠ¬ç—‡æ¡ˆä¾‹ä¸­çŒ®è¡€è€…æœ‰ç—‡çŠ¶,ä½†æ²¡æœ‰è¢«æ£€æµ‹
 
-#### Ì½µ× bottom out
+#### æ¢åº• bottom out
 China's economic slowdown bottoming out, data seen showing(Yahoo)
-ÖĞ¹ú¾­¼ÃÏÂ»¬µ½µ×,Êı¾İÏÔÊ¾
+ä¸­å›½ç»æµä¸‹æ»‘åˆ°åº•,æ•°æ®æ˜¾ç¤º
 
-#### ¹ıÃôÖ¢ ·´¸Ğ allergy  ¹ıÃôÖ¢»¼Õß allergy sufferer
+#### è¿‡æ•ç—‡ åæ„Ÿ allergy  è¿‡æ•ç—‡æ‚£è€… allergy sufferer
 Achoo! 12 worst cities for allergy sufferers(CBS)
-°¢ôÜ!¶Ô¹ıÃôÖ¢»¼ÕßÀ´Ëµ×îÔã¸âµÄ12¸ö³ÇÊĞ
+é˜¿ç³—!å¯¹è¿‡æ•ç—‡æ‚£è€…æ¥è¯´æœ€ç³Ÿç³•çš„12ä¸ªåŸå¸‚
 
-#### ²»Âú dissatisfaction
+#### ä¸æ»¡ dissatisfaction
 Gallup poll: Dissatisfaction with government at record levels(LATIMES)
-¸ÇÂåÆÕµ÷²é:¶ÔÕş¸®²»Âú´ïµ½´´¼ÍÂ¼Ë®Æ½
+ç›–æ´›æ™®è°ƒæŸ¥:å¯¹æ”¿åºœä¸æ»¡è¾¾åˆ°åˆ›çºªå½•æ°´å¹³
 
-#### Ó¢±£ÊØµ³Ô± Tory
+#### è‹±ä¿å®ˆå…šå‘˜ Tory
 British Tories Squirm as They Feel the Heat in Murdoch's Embrace(TIMES)
-Ó¢±£ÊØµ³Ô±ÃÇÄÑÎªÇé,ºÃÏñËûÃÇ¸ĞÊÜµ½Ä¬¶à¿ËÓµ±§µÄÈÈ¶È
+è‹±ä¿å®ˆå…šå‘˜ä»¬éš¾ä¸ºæƒ…,å¥½åƒä»–ä»¬æ„Ÿå—åˆ°é»˜å¤šå…‹æ‹¥æŠ±çš„çƒ­åº¦
 
-#### Ôİ»º »ºÆÚÖ´ĞĞ respite/reprieve/commute
+#### æš‚ç¼“ ç¼“æœŸæ‰§è¡Œ respite/reprieve/commute
 Calm weather a respite in tornado zone where 39 died(Reuters)
-Æ½¾²µÄÌìÆøÔİ»ºÁú¾í·çµØÇø
+å¹³é™çš„å¤©æ°”æš‚ç¼“é¾™å·é£åœ°åŒº
 Egypt's Mubarak detained, army wins protest respite
-°£¼°¾ü·½Ó®µÃ¿¹Òé»º½â
+åŸƒåŠå†›æ–¹èµ¢å¾—æŠ—è®®ç¼“è§£
 
-#### ¸øË®×Ü¹ÜµÀ water main
+#### ç»™æ°´æ€»ç®¡é“ water main
 At least three water main breaks flood Fairfax district streets(LATIMES)
-ÖÁÉÙ3¸ö¸øË®×Ü¹ÜÆÆÁÑ,Â©³öË®ÑÍÃ»½ÖÇø
+è‡³å°‘3ä¸ªç»™æ°´æ€»ç®¡ç ´è£‚,æ¼å‡ºæ°´æ·¹æ²¡è¡—åŒº
 Jerome Ave. Becomes a River After a Water Main Bursts(TIMES)
-ÔÚ¸øË®×Ü¹ÜµÀµ½ÆÆÁÑºó,½ÜÂŞÄ·´óµÀ±ä³ÉÒ»ÌõºÓ
+åœ¨ç»™æ°´æ€»ç®¡é“åˆ°ç ´è£‚å,æ°ç½—å§†å¤§é“å˜æˆä¸€æ¡æ²³
 
-#### ÓÌÔ¥ ¾ÙÆå²»¶¨ ambivalence/hesitance
+#### çŠ¹è±« ä¸¾æ£‹ä¸å®š ambivalence/hesitance
 Garcetti, Greuel could lose leads to voter ambivalence(LATIMES)
-Ñ¡Ãñ¾ÙÆå²»¶¨µ¼ÖÂÁ½Î»ÁìÏÈÕß¿ÉÄÜÊ§È¥ÁìÏÈÓÅÊÆ
+é€‰æ°‘ä¸¾æ£‹ä¸å®šå¯¼è‡´ä¸¤ä½é¢†å…ˆè€…å¯èƒ½å¤±å»é¢†å…ˆä¼˜åŠ¿
 
-#### ·ÇÖŞÖ®½Ç Horn of Africa
+#### éæ´²ä¹‹è§’ Horn of Africa
 Piracy Around Horn of Africa Has Plunged, U.S. Says(TIMES)
-·ÇÖŞÖ®½ÇµÄº£µÁĞĞÎªÒÑ¾­¼õÉÙ
+éæ´²ä¹‹è§’çš„æµ·ç›—è¡Œä¸ºå·²ç»å‡å°‘
 
-#### ·ç¶È ÓÅÑÅ grace  ¶éÂä fall from grace
+#### é£åº¦ ä¼˜é›… grace  å •è½ fall from grace
 John Ramsey's journey from grief to grace(CBS)
-Ô¼º²µÄÂÃĞĞ´ÓÍ´¿àµ½¶÷»İ
+çº¦ç¿°çš„æ—…è¡Œä»ç—›è‹¦åˆ°æ©æƒ 
 Petraeus' fall from grace(LATIMES)
-±ËµÃÀ×ÎÚË¹µÄ¶éÂä
+å½¼å¾—é›·ä¹Œæ–¯çš„å •è½

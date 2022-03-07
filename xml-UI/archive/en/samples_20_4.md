@@ -1,107 +1,107 @@
 `Any way you cut it`, this is going to be bad, `the projected size` of the outbreak already seems hard to believe
-²»¹ÜÄãÃÇÔõÃ´¿´£¬Çé¿ö¶¼»á±äµÃºÜÔã¸â£¬Ô¤ÆÚµÄÒßÇé¹æÄ£¿´ÆğÀ´ÒÑ¾­ÈÃÈËÄÑÒÔÖÃĞÅ
+ä¸ç®¡ä½ ä»¬æ€ä¹ˆçœ‹ï¼Œæƒ…å†µéƒ½ä¼šå˜å¾—å¾ˆç³Ÿç³•ï¼Œé¢„æœŸçš„ç–«æƒ…è§„æ¨¡çœ‹èµ·æ¥å·²ç»è®©äººéš¾ä»¥ç½®ä¿¡
 
-Dr. Mecher was urging `the upper ranks` of the nation¡¯s public health bureaucracy to wake up and prepare for the possibility of `far more drastic action`
-Ã·³¹ÔÚÓÊ¼şÖĞ¶Ø´ÙÃÀ¹ú¹«¹²ÎÀÉú²¿ÃÅµÄ¸ß²ãÇåĞÑ¹ıÀ´£¬Îª²ÉÈ¡¸ü¼¤ÁÒÓ¦¶Ô´ëÊ©µÄ¿ÉÄÜĞÔ×öºÃ×¼±¸
+Dr. Mecher was urging `the upper ranks` of the nationâ€™s public health bureaucracy to wake up and prepare for the possibility of `far more drastic action`
+æ¢…å½»åœ¨é‚®ä»¶ä¸­æ•¦ä¿ƒç¾å›½å…¬å…±å«ç”Ÿéƒ¨é—¨çš„é«˜å±‚æ¸…é†’è¿‡æ¥ï¼Œä¸ºé‡‡å–æ›´æ¿€çƒˆåº”å¯¹æªæ–½çš„å¯èƒ½æ€§åšå¥½å‡†å¤‡
 
-He `seemed shellshocked and deflated` to some of his closest associates. One described him as `¡°subdued¡± and ¡°baffled¡±` by how the crisis had played out
-Ò»Ğ©×îÇ×ÃÜµÄÖúÊÖ·¢ÏÖËû±¸ÊÜ´ò»÷£¬»ÒĞÄÉ¥Æø¡£ÓĞÈËËµËû¶ÔÎ£»úÓúÑİÓúÁÒ¸Ğµ½¡°ÓôÃÆ¡±ºÍ¡°À§»ó¡±
+He `seemed shellshocked and deflated` to some of his closest associates. One described him as `â€œsubduedâ€ and â€œbaffledâ€` by how the crisis had played out
+ä¸€äº›æœ€äº²å¯†çš„åŠ©æ‰‹å‘ç°ä»–å¤‡å—æ‰“å‡»ï¼Œç°å¿ƒä¸§æ°”ã€‚æœ‰äººè¯´ä»–å¯¹å±æœºæ„ˆæ¼”æ„ˆçƒˆæ„Ÿåˆ°â€œéƒé—·â€å’Œâ€œå›°æƒ‘â€
 
 He only `regained his swagger`, the associate said, from `conducting his daily White House briefings`, at which he often seeks to rewrite the history of the past several months
-ÄÇÃûÖúÊÖËµ£¬ËûÖ»ÄÜ¿¿Ã¿ÌìµÄ°×¹¬ĞÂÎÅ·¢²¼»áÀ´ÖØÊ°×ÔĞÅ£¬·¢²¼»áÉÏ£¬Ëû¾­³£ÊÔÍ¼¸ÄĞ´¹ıÈ¥¼¸¸öÔÂµÄÀúÊ·
+é‚£ååŠ©æ‰‹è¯´ï¼Œä»–åªèƒ½é æ¯å¤©çš„ç™½å®«æ–°é—»å‘å¸ƒä¼šæ¥é‡æ‹¾è‡ªä¿¡ï¼Œå‘å¸ƒä¼šä¸Šï¼Œä»–ç»å¸¸è¯•å›¾æ”¹å†™è¿‡å»å‡ ä¸ªæœˆçš„å†å²
 
-And they insist that the president was either not `getting proper information`, or the people around him weren¡¯t `conveying the urgency of the threat`. In some cases, they argue, the specific officials he was hearing from had been `discredited in his eyes`, but once the right information got to him through other channels, he `made the right calls`
-ËûÃÇ¼á³ÖÈÏÎª£¬ÒªÃ´ÊÇ×ÜÍ³Ã»µÃµ½ÕıÈ·µÄĞÅÏ¢£¬ÒªÃ´ÊÇËûÖÜÎ§µÄÈËÃ»ÓĞ´«´ïÍşĞ²µÄ½ôÆÈĞÔ¡£ËûÃÇ±ç³Æ£¬ÔÚÄ³Ğ©Çé¿öÏÂ£¬Ä³Ğ©¸øËûÒâ¼ûµÄ¹ÙÔ±ÔÚËû¿´À´ÊÇ²»×ãĞÅµÄ£¬µ«Ò»µ©Í¨¹ıÆäËûÇşµÀ»ñµÃÁËÕıÈ·µÄĞÅÏ¢£¬Ëû¾Í»á×ö³öÕıÈ·µÄ¾ö¶¨
+And they insist that the president was either not `getting proper information`, or the people around him werenâ€™t `conveying the urgency of the threat`. In some cases, they argue, the specific officials he was hearing from had been `discredited in his eyes`, but once the right information got to him through other channels, he `made the right calls`
+ä»–ä»¬åšæŒè®¤ä¸ºï¼Œè¦ä¹ˆæ˜¯æ€»ç»Ÿæ²¡å¾—åˆ°æ­£ç¡®çš„ä¿¡æ¯ï¼Œè¦ä¹ˆæ˜¯ä»–å‘¨å›´çš„äººæ²¡æœ‰ä¼ è¾¾å¨èƒçš„ç´§è¿«æ€§ã€‚ä»–ä»¬è¾©ç§°ï¼Œåœ¨æŸäº›æƒ…å†µä¸‹ï¼ŒæŸäº›ç»™ä»–æ„è§çš„å®˜å‘˜åœ¨ä»–çœ‹æ¥æ˜¯ä¸è¶³ä¿¡çš„ï¼Œä½†ä¸€æ—¦é€šè¿‡å…¶ä»–æ¸ é“è·å¾—äº†æ­£ç¡®çš„ä¿¡æ¯ï¼Œä»–å°±ä¼šåšå‡ºæ­£ç¡®çš„å†³å®š
 
 President Trump `took bold action` to protect Americans and `unleash the full power` of the federal government to `curb the spread of the virus,` expand testing capacities and `expedite vaccine development` even when we had no true idea the level of transmission or `asymptomatic spread`
-ÌØÀÊÆÕ×ÜÍ³²ÉÈ¡ÁË´óµ¨µÄĞĞ¶¯À´±£»¤ÃÀ¹úÃñÖÚ£¬·¢¶¯ÁËÁª°îÕş¸®µÄÈ«²¿Á¦Á¿À´¶ôÖÆ²¡¶¾µÄ´«²¥£¬¼Ó´óÁË¼ì²âÄÜÁ¦£¬¼Ó¿ìÁËÒßÃçÑĞ·¢£¬¼´±ãµ±Ê±ÎÒÃÇ¶Ô¸ĞÈ¾»òÎŞÖ¢×´´«²¥µÄË®Æ½Ã»ÓĞ³ä·ÖÈÏÖª
+ç‰¹æœ—æ™®æ€»ç»Ÿé‡‡å–äº†å¤§èƒ†çš„è¡ŒåŠ¨æ¥ä¿æŠ¤ç¾å›½æ°‘ä¼—ï¼Œå‘åŠ¨äº†è”é‚¦æ”¿åºœçš„å…¨éƒ¨åŠ›é‡æ¥éåˆ¶ç—…æ¯’çš„ä¼ æ’­ï¼ŒåŠ å¤§äº†æ£€æµ‹èƒ½åŠ›ï¼ŒåŠ å¿«äº†ç–«è‹—ç ”å‘ï¼Œå³ä¾¿å½“æ—¶æˆ‘ä»¬å¯¹æ„ŸæŸ“æˆ–æ— ç—‡çŠ¶ä¼ æ’­çš„æ°´å¹³æ²¡æœ‰å……åˆ†è®¤çŸ¥
 
 There had already been `an alarming spike` in new cases around the world and the virus was spreading across the Middle East. It was becoming apparent that the administration `had botched the rollout` of testing to track the virus at home, and a smaller-scale surveillance program `intended to piggyback` on a federal flu tracking system had also been `stillborn`
-ÊÀ½ç¸÷µØµÄĞÂ²¡Àı³öÏÖÁËÁîÈËµ£ÓÇµÄ¼¤Ôö£¬²¡¶¾ÕıÔÚÕû¸öÖĞ¶«µØÇøÂûÑÓ¡£Ô½À´Ô½Ã÷ÏÔµÄÊÇ£¬Õş¸®¸ãÔÒÁËÓÃÀ´×·×Ù¹úÄÚ´«²¥µÄ²¡¶¾¼ì²â£¬¶øÒ»¸ö½èÖúÁª°îÁ÷¸Ğ×·×ÙÏµÍ³µÄĞ¡ĞÍ¼à¿ØÏîÄ¿Ò²Ì¥ËÀ¸¹ÖĞ
+ä¸–ç•Œå„åœ°çš„æ–°ç—…ä¾‹å‡ºç°äº†ä»¤äººæ‹…å¿§çš„æ¿€å¢ï¼Œç—…æ¯’æ­£åœ¨æ•´ä¸ªä¸­ä¸œåœ°åŒºè”“å»¶ã€‚è¶Šæ¥è¶Šæ˜æ˜¾çš„æ˜¯ï¼Œæ”¿åºœæç ¸äº†ç”¨æ¥è¿½è¸ªå›½å†…ä¼ æ’­çš„ç—…æ¯’æ£€æµ‹ï¼Œè€Œä¸€ä¸ªå€ŸåŠ©è”é‚¦æµæ„Ÿè¿½è¸ªç³»ç»Ÿçš„å°å‹ç›‘æ§é¡¹ç›®ä¹Ÿèƒæ­»è…¹ä¸­
 
-`Facing the likelihood` of a real pandemic, the group needed to decide when to `abandon ¡°containment¡±` ¡ª the effort to keep the virus outside the U.S. and to isolate anyone who gets infected ¡ª and `embrace ¡°mitigation¡± to thwart the spread` of the virus inside the country until a vaccine becomes available
-Ãæ¶ÔÕæ³öÏÖÒ»³¡´óÁ÷ĞĞµÄ¿ÉÄÜ£¬¹¤×÷×éĞèÒª¾ö¶¨ºÎÊ±·ÅÆú¡°¶ôÖÆ¡±¡ª¡ª¼´Å¬Á¦½«²¡¶¾¿ØÖÆÔÚÃÀ¹úÖ®Íâ£¬²¢¸ôÀëÈÎºÎ±»¸ĞÈ¾µÄÈË¡ª¡ª×ª¶ø²ÉÈ¡¡°»º½â¡±´ëÊ©£¬×èÖ¹²¡¶¾ÔÚ¹úÄÚµÄ´«²¥£¬Ö±µ½ÓĞÒßÃç¿ÉÓÃ
+`Facing the likelihood` of a real pandemic, the group needed to decide when to `abandon â€œcontainmentâ€` â€” the effort to keep the virus outside the U.S. and to isolate anyone who gets infected â€” and `embrace â€œmitigationâ€ to thwart the spread` of the virus inside the country until a vaccine becomes available
+é¢å¯¹çœŸå‡ºç°ä¸€åœºå¤§æµè¡Œçš„å¯èƒ½ï¼Œå·¥ä½œç»„éœ€è¦å†³å®šä½•æ—¶æ”¾å¼ƒâ€œéåˆ¶â€â€”â€”å³åŠªåŠ›å°†ç—…æ¯’æ§åˆ¶åœ¨ç¾å›½ä¹‹å¤–ï¼Œå¹¶éš”ç¦»ä»»ä½•è¢«æ„ŸæŸ“çš„äººâ€”â€”è½¬è€Œé‡‡å–â€œç¼“è§£â€æªæ–½ï¼Œé˜»æ­¢ç—…æ¯’åœ¨å›½å†…çš„ä¼ æ’­ï¼Œç›´åˆ°æœ‰ç–«è‹—å¯ç”¨
 
-A 20-year-old Chinese woman had `infected five relatives` with the virus even though she never `displayed any symptoms herself`. The `implication was grave` ¡ª apparently healthy people could be `unknowingly spreading the virus` ¡ª and supported the need to move quickly to mitigation
-Ò»Ãû20ËêµÄÖĞ¹úÅ®×Ó¸ĞÈ¾ÁËÎåÃûÇ×Êô£¬¾¡¹ÜËı±¾ÈË´ÓÎ´±íÏÖ³öÈÎºÎÖ¢×´¡£Õâ¼şÊÂµÄ¿ÉÄÜÓ°ÏìºÜÑÏÖØ¡ª¡ª±íÃæÉÏ½¡¿µµÄÈË¿ÉÄÜÔÚÎŞÒâÖĞ´«²¥²¡¶¾¡ª¡ªÒ²ÎªÑ¸ËÙ²ÉÈ¡´ëÊ©¼õÉÙ´«²¥µÄĞèÒªÌá¹©ÁËÒÀ¾İ
+A 20-year-old Chinese woman had `infected five relatives` with the virus even though she never `displayed any symptoms herself`. The `implication was grave` â€” apparently healthy people could be `unknowingly spreading the virus` â€” and supported the need to move quickly to mitigation
+ä¸€å20å²çš„ä¸­å›½å¥³å­æ„ŸæŸ“äº†äº”åäº²å±ï¼Œå°½ç®¡å¥¹æœ¬äººä»æœªè¡¨ç°å‡ºä»»ä½•ç—‡çŠ¶ã€‚è¿™ä»¶äº‹çš„å¯èƒ½å½±å“å¾ˆä¸¥é‡â€”â€”è¡¨é¢ä¸Šå¥åº·çš„äººå¯èƒ½åœ¨æ— æ„ä¸­ä¼ æ’­ç—…æ¯’â€”â€”ä¹Ÿä¸ºè¿…é€Ÿé‡‡å–æªæ–½å‡å°‘ä¼ æ’­çš„éœ€è¦æä¾›äº†ä¾æ®
 
 But over the next several days, a presidential `blowup and internal turf fights` would `sidetrack such a move`
-µ«ÔÚ½ÓÏÂÀ´µÄ¼¸ÌìÀï£¬×ÜÍ³µÄ´ó·¢Æ¢ÆøºÍÄÚ²¿µÄµØÅÌÖ®Õùµ¢¸éÁËÕâÏî¼Æ»®
+ä½†åœ¨æ¥ä¸‹æ¥çš„å‡ å¤©é‡Œï¼Œæ€»ç»Ÿçš„å¤§å‘è„¾æ°”å’Œå†…éƒ¨çš„åœ°ç›˜ä¹‹äº‰è€½æäº†è¿™é¡¹è®¡åˆ’
 
-These final days of February, perhaps more than any other moment `during his tenure` in the White House, `illustrated Trump¡¯s inability or unwillingness to absorb warnings` coming at him. 
-2ÔÂ·İµÄ×îºó¼¸Ìì£¬»òĞí±ÈÌØÀÊÆÕÈëÖ÷°×¹¬ºóµÄÈÎºÎÊ±¿Ì¶¼¸üÄÜËµÃ÷ÕâÎ»×ÜÍ³µÄÎŞÄÜ»ò²»Ô¸Òâ½ÓÊÜÏòËû·¢³öµÄ¾¯¸æ
+These final days of February, perhaps more than any other moment `during his tenure` in the White House, `illustrated Trumpâ€™s inability or unwillingness to absorb warnings` coming at him. 
+2æœˆä»½çš„æœ€åå‡ å¤©ï¼Œæˆ–è®¸æ¯”ç‰¹æœ—æ™®å…¥ä¸»ç™½å®«åçš„ä»»ä½•æ—¶åˆ»éƒ½æ›´èƒ½è¯´æ˜è¿™ä½æ€»ç»Ÿçš„æ— èƒ½æˆ–ä¸æ„¿æ„æ¥å—å‘ä»–å‘å‡ºçš„è­¦å‘Š
 
 He instead `reverted to his traditional political playbook` in the midst of a `public health calamity`, `squandering vital time` as the coronavirus spread silently across the country
-ÔÚÒ»³¡¹«¹²ÎÀÉúÔÖÄÑÖĞ£¬ËûÈ´ÖØÊ°×Ô¼º¹ßÓÃµÄÕşÖÎ²ßÂÔ£¬ÀË·ÑÁË±¦¹óµÄÊ±¼ä£¬ÈÃĞÂ¹Ú²¡¶¾µÃÒÔÔÚÈ«¹úÇÄÇÄµØÂûÑÓ
+åœ¨ä¸€åœºå…¬å…±å«ç”Ÿç¾éš¾ä¸­ï¼Œä»–å´é‡æ‹¾è‡ªå·±æƒ¯ç”¨çš„æ”¿æ²»ç­–ç•¥ï¼Œæµªè´¹äº†å®è´µçš„æ—¶é—´ï¼Œè®©æ–°å† ç—…æ¯’å¾—ä»¥åœ¨å…¨å›½æ‚„æ‚„åœ°è”“å»¶
 
 Within 24 hours, before they got a chance to make their presentation to the president, `the plan went awry`
-µ«ÔÚËûÃÇÓĞ»ú»áÏò×ÜÍ³µ±ÃæÌá½»Õâ·İ±¸ÍüÂ¼Ç°²»µ½24Ğ¡Ê±ÄÚ£¬¼Æ»®»ÆÁË
+ä½†åœ¨ä»–ä»¬æœ‰æœºä¼šå‘æ€»ç»Ÿå½“é¢æäº¤è¿™ä»½å¤‡å¿˜å½•å‰ä¸åˆ°24å°æ—¶å†…ï¼Œè®¡åˆ’é»„äº†
 
 But Messonnier had `jumped the gun`. They had not told the president yet, `much less gotten his consent`.
-µ«Ã·Ë÷ÄáÒ®ÔçÁËÒ»²½¡£¹¤×÷×é»¹Ã»ÓĞ°Ñ¼Æ»®¸æËß×ÜÍ³£¬¸ü²»ÓÃËµµÃµ½ËûµÄÍ¬ÒâÁË
+ä½†æ¢…ç´¢å°¼è€¶æ—©äº†ä¸€æ­¥ã€‚å·¥ä½œç»„è¿˜æ²¡æœ‰æŠŠè®¡åˆ’å‘Šè¯‰æ€»ç»Ÿï¼Œæ›´ä¸ç”¨è¯´å¾—åˆ°ä»–çš„åŒæ„äº†
 
-On the 18-hour plane ride home, Trump `fumed as he watched the stock market crash` after Messonnier¡¯s comments. `Furious`, he called Azar when he landed at around 6 a.m. on Feb. 26, `raging that` Messonnier had scared people unnecessarily. 
-ÔÚ·É»ØÃÀ¹úµÄ18¸öĞ¡Ê±ĞĞ³ÌÖĞ£¬ÌØÀÊÆÕÑÛ¿´×ÅÃ·Ë÷ÄáÒ®µÄ¾¯¸æµ¼ÖÂ¹ÉÊĞ±ÀÅÌ£¬ÕâÈÃËûÅ­²»¿É¶ô¡£·É»úÔÚ2ÔÂ26ÈÕÔçÉÏ6µã×óÓÒ½µÂäºó£¬ÌØÀÊÆÕ¾ÍÅ­Æø³å³åµØ´òµç»°¸ø°¢Ôú¶û£¬¶ÔÃ·Ë÷ÄáÒ®²»±ØÒªµØÈÃÈËÃÇ¾ª»Å´ó·¢À×öª
+On the 18-hour plane ride home, Trump `fumed as he watched the stock market crash` after Messonnierâ€™s comments. `Furious`, he called Azar when he landed at around 6 a.m. on Feb. 26, `raging that` Messonnier had scared people unnecessarily. 
+åœ¨é£å›ç¾å›½çš„18ä¸ªå°æ—¶è¡Œç¨‹ä¸­ï¼Œç‰¹æœ—æ™®çœ¼çœ‹ç€æ¢…ç´¢å°¼è€¶çš„è­¦å‘Šå¯¼è‡´è‚¡å¸‚å´©ç›˜ï¼Œè¿™è®©ä»–æ€’ä¸å¯éã€‚é£æœºåœ¨2æœˆ26æ—¥æ—©ä¸Š6ç‚¹å·¦å³é™è½åï¼Œç‰¹æœ—æ™®å°±æ€’æ°”å†²å†²åœ°æ‰“ç”µè¯ç»™é˜¿æ‰å°”ï¼Œå¯¹æ¢…ç´¢å°¼è€¶ä¸å¿…è¦åœ°è®©äººä»¬æƒŠæ…Œå¤§å‘é›·éœ†
 
 `Already on thin ice with` the president over a variety of issues and having overseen the failure to quickly produce an effective and widely available test, Azar would soon find his authority reduced
-ÓÉÓÚ°¢Ôú¶ûÒÑÔÚ¼¸¸öÎÊÌâÉÏÓë×ÜÍ³µÄ¹ØÏµÈçÂÄ±¡±ù£¬¶øÇÒÔÚ¿ìËÙÉú²úÓĞĞ§ÇÒ¿É¹ã·ºÊ¹ÓÃµÄ¼ì²âºĞÉÏ¼à¹Ü²»Á¦£¬ËûºÜ¿ì¾Í»á·¢ÏÖ×Ô¼ºµÄÈ¨Á¦±»Ï÷ÈõÁË
+ç”±äºé˜¿æ‰å°”å·²åœ¨å‡ ä¸ªé—®é¢˜ä¸Šä¸æ€»ç»Ÿçš„å…³ç³»å¦‚å±¥è–„å†°ï¼Œè€Œä¸”åœ¨å¿«é€Ÿç”Ÿäº§æœ‰æ•ˆä¸”å¯å¹¿æ³›ä½¿ç”¨çš„æ£€æµ‹ç›’ä¸Šç›‘ç®¡ä¸åŠ›ï¼Œä»–å¾ˆå¿«å°±ä¼šå‘ç°è‡ªå·±çš„æƒåŠ›è¢«å‰Šå¼±äº†
 
 `The push to convince Trump` of the need for `more assertive action stalled`. With Pence and his staff in charge, the focus was clear: no more `alarmist messages`
-Ëµ·şÌØÀÊÆÕÓĞ±ØÒª²ÉÈ¡¹û¶ÏĞĞ¶¯µÄÅ¬Á¦ÊÜµ½ÍÏÑÓ¡£ÈÃÅíË¹ºÍËûµÄ¹¤×÷ÈËÔ±¸ºÔğÕâÏî¹¤×÷£¬ÖØµãºÜÃ÷È·£º²»ÒªÔÙ·¢³öÎ£ÑÔËÊÌıµÄĞÅÏ¢
+è¯´æœç‰¹æœ—æ™®æœ‰å¿…è¦é‡‡å–æœæ–­è¡ŒåŠ¨çš„åŠªåŠ›å—åˆ°æ‹–å»¶ã€‚è®©å½­æ–¯å’Œä»–çš„å·¥ä½œäººå‘˜è´Ÿè´£è¿™é¡¹å·¥ä½œï¼Œé‡ç‚¹å¾ˆæ˜ç¡®ï¼šä¸è¦å†å‘å‡ºå±è¨€è€¸å¬çš„ä¿¡æ¯
 
-Pottinger, the deputy national security adviser and `a hawk on China`, `took a blunt warning away from the call` with the doctor, a longtime friend: `A ferocious, new outbreak` that `on the surface appeared similar to` the SARS epidemic of 2003 had emerged in China. It had spread far more quickly than the government was admitting to, and `it wouldn¡¯t be long before` it reached other parts of the world
-²¨Í¢¸ñÊÇ¹ú¼Ò°²È«ÊÂÎñ¸±Ö÷ÈÎ£¬Ò²ÊÇ¶Ô»ªÓ¥ÅÉÈËÊ¿£¬ËûÔÚ´ò¸øÒ½ÉúÀÏÓÑµÄµç»°ÖĞ£¬µÃµ½ÁËÒ»¸öÖ±ÑÔ²»»äµÄ¾¯¸æ£ºÖĞ¹ú³öÏÖÁË¿´ÆğÀ´Óë2003ÄêµÄSARSÏàËÆµÄĞÂÒßÇé¡£ËüµÄ´«²¥ËÙ¶È±ÈÕş¸®³ĞÈÏµÄ¿ìµÃ¶à£¬¶øÇÒÓÃ²»ÁË¶àÉÙÊ±¼ä¾Í»á´«²¥µ½ÊÀ½çÆäËûµØ·½
+Pottinger, the deputy national security adviser and `a hawk on China`, `took a blunt warning away from the call` with the doctor, a longtime friend: `A ferocious, new outbreak` that `on the surface appeared similar to` the SARS epidemic of 2003 had emerged in China. It had spread far more quickly than the government was admitting to, and `it wouldnâ€™t be long before` it reached other parts of the world
+æ³¢å»·æ ¼æ˜¯å›½å®¶å®‰å…¨äº‹åŠ¡å‰¯ä¸»ä»»ï¼Œä¹Ÿæ˜¯å¯¹åé¹°æ´¾äººå£«ï¼Œä»–åœ¨æ‰“ç»™åŒ»ç”Ÿè€å‹çš„ç”µè¯ä¸­ï¼Œå¾—åˆ°äº†ä¸€ä¸ªç›´è¨€ä¸è®³çš„è­¦å‘Šï¼šä¸­å›½å‡ºç°äº†çœ‹èµ·æ¥ä¸2003å¹´çš„SARSç›¸ä¼¼çš„æ–°ç–«æƒ…ã€‚å®ƒçš„ä¼ æ’­é€Ÿåº¦æ¯”æ”¿åºœæ‰¿è®¤çš„å¿«å¾—å¤šï¼Œè€Œä¸”ç”¨ä¸äº†å¤šå°‘æ—¶é—´å°±ä¼šä¼ æ’­åˆ°ä¸–ç•Œå…¶ä»–åœ°æ–¹
 
-And they `ran into opposition` from Trump¡¯s economic advisers, who worried a tough approach toward China could `scuttle a trade deal` that was a pillar of Trump¡¯s reelection campaign
-ÕâĞ©ÈËÒ²ÊÜµ½ÁËÌØÀÊÆÕµÄ¾­¼Ã¹ËÎÊµÄ·´¶Ô¡£ËûÃÇµ£ĞÄ£¬¶ÔÖĞ¹ú²ÉÈ¡Ç¿Ó²Ì¬¶È¿ÉÄÜ»áÆÆ»µÓëÖĞ¹ú´ï³ÉµÄ³õ²½Ã³Ò×Ğ­Òé£¬¶øÕâÊÇÌØÀÊÆÕÁ¬ÈÎ¾ºÑ¡µÄÖ§ÖùÖ®Ò»
+And they `ran into opposition` from Trumpâ€™s economic advisers, who worried a tough approach toward China could `scuttle a trade deal` that was a pillar of Trumpâ€™s reelection campaign
+è¿™äº›äººä¹Ÿå—åˆ°äº†ç‰¹æœ—æ™®çš„ç»æµé¡¾é—®çš„åå¯¹ã€‚ä»–ä»¬æ‹…å¿ƒï¼Œå¯¹ä¸­å›½é‡‡å–å¼ºç¡¬æ€åº¦å¯èƒ½ä¼šç ´åä¸ä¸­å›½è¾¾æˆçš„åˆæ­¥è´¸æ˜“åè®®ï¼Œè€Œè¿™æ˜¯ç‰¹æœ—æ™®è¿ä»»ç«é€‰çš„æ”¯æŸ±ä¹‹ä¸€
 
 Intelligence agencies did not `detect any alarm` inside the Chinese government that `analysts presumed` would `accompany the accidental leak` of a deadly virus from a government laboratory
-Çé±¨»ú¹¹Ã»ÓĞÔÚÖĞ¹úÕş¸®µÄÄÚ²¿½»Á÷ÖĞ·¢ÏÖÈÎºÎ¾¯±¨£¬·ÖÎöÈËÊ¿ÈÏÎª£¬Èç¹ûÒ»ÖÖÖÂÃü²¡¶¾´ÓÕş¸®ÊµÑéÊÒÒâÍâĞ¹Â©µÄ»°£¬»á°éËæÓĞÕâÖÖ¾¯±¨
+æƒ…æŠ¥æœºæ„æ²¡æœ‰åœ¨ä¸­å›½æ”¿åºœçš„å†…éƒ¨äº¤æµä¸­å‘ç°ä»»ä½•è­¦æŠ¥ï¼Œåˆ†æäººå£«è®¤ä¸ºï¼Œå¦‚æœä¸€ç§è‡´å‘½ç—…æ¯’ä»æ”¿åºœå®éªŒå®¤æ„å¤–æ³„æ¼çš„è¯ï¼Œä¼šä¼´éšæœ‰è¿™ç§è­¦æŠ¥
 
 Faced with `the relentless march of a deadly pathogen`, the disagreements and a lack of long-term planning had `significant consequences`
-Ãæ¶ÔÕâÖÖÖÂÃü²¡Ô­ÌåµÄ³ÖĞø´ò»÷£¬·ÖÆçºÍÈ±·¦³¤ÆÚ¹æ»®µ¼ÖÂÁËÑÏÖØºó¹û
+é¢å¯¹è¿™ç§è‡´å‘½ç—…åŸä½“çš„æŒç»­æ‰“å‡»ï¼Œåˆ†æ­§å’Œç¼ºä¹é•¿æœŸè§„åˆ’å¯¼è‡´äº†ä¸¥é‡åæœ
 
 The efforts to `sort out policy behind closed doors` were contentious and sometimes only loosely organized.
-°µÖĞÖÆ¶¨¶Ô²ßµÄ¹ı³Ì³äÂúÁËÕù³³£¬ÓĞÊ±ÔÚ×éÖ¯ÉÏºÜËæÒâ¡£
+æš—ä¸­åˆ¶å®šå¯¹ç­–çš„è¿‡ç¨‹å……æ»¡äº†äº‰åµï¼Œæœ‰æ—¶åœ¨ç»„ç»‡ä¸Šå¾ˆéšæ„ã€‚
 
-That was the case when the National Security Council `convened a meeting` on short notice on the afternoon of Jan. 27. `The Situation Room` was standing room only, `packed with` top White House advisers, low-level staffers, Trump¡¯s `social media guru` and several Cabinet secretaries.
-ÃÀ¹ú¹ú¼Ò°²È«Î¯Ô±»áÓÚ1ÔÂ27ÈÕÏÂÎç´Ò´ÒÕÙ¼¯µÄÒ»³¡»áÒé£¬¾ÍÊôÓÚÕâÖÖÇé¿ö¡£°×¹¬Õ½ÇéÊÒÀïÖ»ÄÜÕ¾Á¢£¬¼·ÂúÁË°×¹¬¸ß¼¶¹ËÎÊ¡¢µÍ¼¶±ğÄ»ÁÅ¡¢ÌØÀÊÆÕµÄÉçÃ½´óÊ¦ºÍ¶àÎ»ÄÚ¸ó²¿³¤
+That was the case when the National Security Council `convened a meeting` on short notice on the afternoon of Jan. 27. `The Situation Room` was standing room only, `packed with` top White House advisers, low-level staffers, Trumpâ€™s `social media guru` and several Cabinet secretaries.
+ç¾å›½å›½å®¶å®‰å…¨å§”å‘˜ä¼šäº1æœˆ27æ—¥ä¸‹åˆåŒ†åŒ†å¬é›†çš„ä¸€åœºä¼šè®®ï¼Œå°±å±äºè¿™ç§æƒ…å†µã€‚ç™½å®«æˆ˜æƒ…å®¤é‡Œåªèƒ½ç«™ç«‹ï¼ŒæŒ¤æ»¡äº†ç™½å®«é«˜çº§é¡¾é—®ã€ä½çº§åˆ«å¹•åƒšã€ç‰¹æœ—æ™®çš„ç¤¾åª’å¤§å¸ˆå’Œå¤šä½å†…é˜éƒ¨é•¿
 
-That `sentiment was present throughout February`, as the president¡¯s top aides reached for a consistent message but took few concrete steps to prepare for the possibility of a major public health crisis
-Õû¸ö2ÔÂ·İ£¬ÕâÖÖĞÄÌ¬Ò»Ö±´æÔÚ£¬×ÜÍ³µÄ¸ß¼¶ÖúÊÖÃÇÒ»Ö±ÔÚ´«´ïÒ»ÖÂµÄĞÅÏ¢£¬µ«Ã»ÓĞ²ÉÈ¡ÈÎºÎ¾ßÌå²½ÖèÀ´Îª¿ÉÄÜ·¢ÉúµÄÖØ´ó¹«¹²ÎÀÉúÎ£»ú×ö×¼±¸
+That `sentiment was present throughout February`, as the presidentâ€™s top aides reached for a consistent message but took few concrete steps to prepare for the possibility of a major public health crisis
+æ•´ä¸ª2æœˆä»½ï¼Œè¿™ç§å¿ƒæ€ä¸€ç›´å­˜åœ¨ï¼Œæ€»ç»Ÿçš„é«˜çº§åŠ©æ‰‹ä»¬ä¸€ç›´åœ¨ä¼ è¾¾ä¸€è‡´çš„ä¿¡æ¯ï¼Œä½†æ²¡æœ‰é‡‡å–ä»»ä½•å…·ä½“æ­¥éª¤æ¥ä¸ºå¯èƒ½å‘ç”Ÿçš„é‡å¤§å…¬å…±å«ç”Ÿå±æœºåšå‡†å¤‡
 
-As images of America¡¯s overwhelmed hospital wards and `snaking jobless lines` have flickered across the world, people on the European side of the Atlantic are looking at the richest and most powerful nation in the world `with disbelief`
-µ±ÃÀ¹úÈËÂúÎª»¼µÄÒ½Ôº²¡·¿ºÍòêÑÑµÄÊ§ÒµÕß¶ÓÎéµÄÓ°ÏñÔÚÊÀ½ç¸÷µØ²¥·Å£¬´óÎ÷ÑóÁíÒ»±ßµÄÅ·ÖŞÃñÖÚÕıÄÑÒÔÖÃĞÅµØ×¢ÊÓ×ÅÕâ¸öÊÀ½çÉÏ×î¸»ÓĞºÍ×îÇ¿´óµÄ¹ú¼Ò
+As images of Americaâ€™s overwhelmed hospital wards and `snaking jobless lines` have flickered across the world, people on the European side of the Atlantic are looking at the richest and most powerful nation in the world `with disbelief`
+å½“ç¾å›½äººæ»¡ä¸ºæ‚£çš„åŒ»é™¢ç—…æˆ¿å’Œèœ¿èœ’çš„å¤±ä¸šè€…é˜Ÿä¼çš„å½±åƒåœ¨ä¸–ç•Œå„åœ°æ’­æ”¾ï¼Œå¤§è¥¿æ´‹å¦ä¸€è¾¹çš„æ¬§æ´²æ°‘ä¼—æ­£éš¾ä»¥ç½®ä¿¡åœ°æ³¨è§†ç€è¿™ä¸ªä¸–ç•Œä¸Šæœ€å¯Œæœ‰å’Œæœ€å¼ºå¤§çš„å›½å®¶
 
 There is a special irony: Germany and South Korea, both products of `enlightened postwar` American leadership, have become `potent examples` of best practices in the coronavirus crisis
-ÓĞÒ»µã¸ñÍâ·í´Ì£ºµÂ¹úºÍº«¹ú¾ùÎªÕ½ºóÃÀ¹úÁìµ¼ÆôµÏÏÂµÄ²úÎï£¬Èç½ñÒÑ¾­³ÉÎªĞÂ¹Ú²¡¶¾Î£»úÖĞ²ÉÈ¡×î¼Ñ´ëÊ©µÄ±íÂÊ
+æœ‰ä¸€ç‚¹æ ¼å¤–è®½åˆºï¼šå¾·å›½å’ŒéŸ©å›½å‡ä¸ºæˆ˜åç¾å›½é¢†å¯¼å¯è¿ªä¸‹çš„äº§ç‰©ï¼Œå¦‚ä»Šå·²ç»æˆä¸ºæ–°å† ç—…æ¯’å±æœºä¸­é‡‡å–æœ€ä½³æªæ–½çš„è¡¨ç‡
 
 Not long ago, Ms. Merkel was considered `a spent force`, having announced that this would be her last term. Now her approval ratings are at 80 percent
-Ä¬¿Ë¶û²»¾ÃÇ°Ğû²¼Õâ½«ÊÇËıµÄ×îºóÈÎÆÚ£¬±»ÈÏÎª´óÊÆÒÑÈ¥¡£¶øÏÖÔÚËıµÄÖ§³ÖÂÊÊÇ80£¥
+é»˜å…‹å°”ä¸ä¹…å‰å®£å¸ƒè¿™å°†æ˜¯å¥¹çš„æœ€åä»»æœŸï¼Œè¢«è®¤ä¸ºå¤§åŠ¿å·²å»ã€‚è€Œç°åœ¨å¥¹çš„æ”¯æŒç‡æ˜¯80ï¼…
 
 There is `another wild card` in the short term, Mr. Mo?si pointed out. The United States has an election in November. That, and `the aftermath of the deepest economic crisis` since the 1930s, might also affect the course of history
-ÄªÒÁÎ÷Ö¸³ö£¬¶ÌÆÚÄÚ»¹ÓĞÒ»¸ö²»È·¶¨ÒòËØ¡£ÃÀ¹ú½«ÔÚ11ÔÂ¾ÙĞĞ´óÑ¡¡£Õâ¼şÊÂ£¬¼ÓÉÏ×ÔÉÏÊÀ¼Í30Äê´úÒÔÀ´×îÑÏÖØµÄ¾­¼ÃÎ£»úµÄºó¹û£¬¿ÉÄÜÒ²»áÓ°ÏìÀúÊ·µÄ½ø³Ì
+è«ä¼Šè¥¿æŒ‡å‡ºï¼ŒçŸ­æœŸå†…è¿˜æœ‰ä¸€ä¸ªä¸ç¡®å®šå› ç´ ã€‚ç¾å›½å°†åœ¨11æœˆä¸¾è¡Œå¤§é€‰ã€‚è¿™ä»¶äº‹ï¼ŒåŠ ä¸Šè‡ªä¸Šä¸–çºª30å¹´ä»£ä»¥æ¥æœ€ä¸¥é‡çš„ç»æµå±æœºçš„åæœï¼Œå¯èƒ½ä¹Ÿä¼šå½±å“å†å²çš„è¿›ç¨‹
 
-Europe¡¯s social democratic systems are not only more human, they leave us better prepared and `fit to deal with a crisis` like this than the more `brutal capitalistic system` in the United States
-Å·ÖŞµÄÉç»áÃñÖ÷ÖÆ¶È²»½ö¸üÈËĞÔ»¯£¬»¹ÈÃÎÒÃÇ±ÈÊµĞĞ²Ğ¿á×Ê±¾Ö÷ÒåÖÆ¶ÈµÄÃÀ¹ú¸üÓĞ×¼±¸£¬¸üÊÊºÏÓ¦¶ÔÕâÑùµÄÎ£»ú
+Europeâ€™s social democratic systems are not only more human, they leave us better prepared and `fit to deal with a crisis` like this than the more `brutal capitalistic system` in the United States
+æ¬§æ´²çš„ç¤¾ä¼šæ°‘ä¸»åˆ¶åº¦ä¸ä»…æ›´äººæ€§åŒ–ï¼Œè¿˜è®©æˆ‘ä»¬æ¯”å®è¡Œæ®‹é…·èµ„æœ¬ä¸»ä¹‰åˆ¶åº¦çš„ç¾å›½æ›´æœ‰å‡†å¤‡ï¼Œæ›´é€‚åˆåº”å¯¹è¿™æ ·çš„å±æœº
 
-To a historian `it¡¯s nothing new`, that¡¯s what happens, It¡¯s `a very familiar story` in world history that after `a certain amount of time a power declines`
-¶ÔÓÚÀúÊ·Ñ§¼ÒÀ´Ëµ£¬Õâ²¢²»ÊÇÊ²Ã´ĞÂÏÊÊÂ£¬ÕâÊÇÊÀ½çÀúÊ·ÉÏ¾­³£·¢ÉúµÄ¹ÊÊÂ£¬Ò»¶ÎÊ±¼äºó£¬Ò»¸ö´ó¹ú»áË¥Âä
+To a historian `itâ€™s nothing new`, thatâ€™s what happens, Itâ€™s `a very familiar story` in world history that after `a certain amount of time a power declines`
+å¯¹äºå†å²å­¦å®¶æ¥è¯´ï¼Œè¿™å¹¶ä¸æ˜¯ä»€ä¹ˆæ–°é²œäº‹ï¼Œè¿™æ˜¯ä¸–ç•Œå†å²ä¸Šç»å¸¸å‘ç”Ÿçš„æ•…äº‹ï¼Œä¸€æ®µæ—¶é—´åï¼Œä¸€ä¸ªå¤§å›½ä¼šè¡°è½
 
-You `accumulate problems`, and because you¡¯re such a strong player, you can `carry these dysfunctionalities for a long time` Until something happens and you can¡¯t anymore
-Äã»ıÀÛÁËºÜ¶àÎÊÌâ£¬ÒòÎªÄãÊÇÒ»¹ÉÇ¿´óµÄÊÆÁ¦£¬Òò´ËÄÜ¹»ÔÚºÜ³¤Ò»¶ÎÊ±¼äÄÚÈİÄÉÕâĞ©»úÄÜµÄÊ§µ÷£¬Ö±µ½ÓĞÊ²Ã´ÊÂÇé·¢Éú£¬¸ãµÃÄã²»ÄÜ¼ÌĞøÕâÑùÏÂÈ¥
+You `accumulate problems`, and because youâ€™re such a strong player, you can `carry these dysfunctionalities for a long time` Until something happens and you canâ€™t anymore
+ä½ ç§¯ç´¯äº†å¾ˆå¤šé—®é¢˜ï¼Œå› ä¸ºä½ æ˜¯ä¸€è‚¡å¼ºå¤§çš„åŠ¿åŠ›ï¼Œå› æ­¤èƒ½å¤Ÿåœ¨å¾ˆé•¿ä¸€æ®µæ—¶é—´å†…å®¹çº³è¿™äº›æœºèƒ½çš„å¤±è°ƒï¼Œç›´åˆ°æœ‰ä»€ä¹ˆäº‹æƒ…å‘ç”Ÿï¼Œæå¾—ä½ ä¸èƒ½ç»§ç»­è¿™æ ·ä¸‹å»
 
 President Trump arrives in the Oval Office these days `as late as noon`, when he is usually `in a sour mood` after his morning `marathon of television`
-ÌØÀÊÆÕ×ÜÍ³Òªµ½ÖĞÎç²Å»áÀ´µ½×ÜÍ³°ì¹«ÊÒ¡£ÒòÎª¿´ÁËÒ»ÉÏÎçµÄµçÊÓ£¬À´µ½°ì¹«ÊÒµÄÊ±ºòËû×ÜÊÇÇéĞ÷²»¼Ñ
+ç‰¹æœ—æ™®æ€»ç»Ÿè¦åˆ°ä¸­åˆæ‰ä¼šæ¥åˆ°æ€»ç»ŸåŠå…¬å®¤ã€‚å› ä¸ºçœ‹äº†ä¸€ä¸Šåˆçš„ç”µè§†ï¼Œæ¥åˆ°åŠå…¬å®¤çš„æ—¶å€™ä»–æ€»æ˜¯æƒ…ç»ªä¸ä½³
 
 The president `sees few allies` `no matter which channel he clicks`. He is angry even with Fox, `an old security blanket`, for not `portraying him as he would like to be seen`
-²»¹Ü×ÜÍ³µ÷µ½ÄÄ¸öÌ¨£¬¶¼¿´²»µ½°ïËûËµ»°µÄÈË¡£¾ÍÁ¬¸£¿ËË¹Õâ¸öÒÔÍùÈÃËû±¸¸Ğ°²Î¿µÄÌ¨ÏÖÔÚÒ²ÈÃÈËÉúÆø£¬ÒòÎªËûÃÇ¶Ô×Ô¼ºµÄÃè»æÓëËûµÄÆÚÍû²»·û
+ä¸ç®¡æ€»ç»Ÿè°ƒåˆ°å“ªä¸ªå°ï¼Œéƒ½çœ‹ä¸åˆ°å¸®ä»–è¯´è¯çš„äººã€‚å°±è¿ç¦å…‹æ–¯è¿™ä¸ªä»¥å¾€è®©ä»–å¤‡æ„Ÿå®‰æ…°çš„å°ç°åœ¨ä¹Ÿè®©äººç”Ÿæ°”ï¼Œå› ä¸ºä»–ä»¬å¯¹è‡ªå·±çš„æç»˜ä¸ä»–çš„æœŸæœ›ä¸ç¬¦
 
-Even Republicans have criticized Mr. Trump¡¯s briefings as `long-winded` and his rough handling of critics as `unproductive`
-¾ÍÁ¬¹²ºÍµ³Ò²ÅúÆÀÌØÀÊÆÕµÄ·¢²¼»áÈß³¤¡¢Ó¦¶ÔÅúÆÀ´ÖÂÊÇÒÃ»ÓĞ³ÉĞ§
+Even Republicans have criticized Mr. Trumpâ€™s briefings as `long-winded` and his rough handling of critics as `unproductive`
+å°±è¿å…±å’Œå…šä¹Ÿæ‰¹è¯„ç‰¹æœ—æ™®çš„å‘å¸ƒä¼šå†—é•¿ã€åº”å¯¹æ‰¹è¯„ç²—ç‡ä¸”æ²¡æœ‰æˆæ•ˆ
 
-The executive order ¡ª `watered down with loopholes` after `an uproar` from business groups ¡ª was aimed at `pleasing his political base`
-ÕâµÀĞĞÕşÃüÁî£¨ÒòÉÌ½çÍÅÌåÒ»Æ¬»©È»¶ø±£Áô¶àÏîÀıÍâ£©ÊÇÎªÁËÈ¡ÔÃËûµÄÕşÖÎ»ù±¾ÅÌ
+The executive order â€” `watered down with loopholes` after `an uproar` from business groups â€” was aimed at `pleasing his political base`
+è¿™é“è¡Œæ”¿å‘½ä»¤ï¼ˆå› å•†ç•Œå›¢ä½“ä¸€ç‰‡å“—ç„¶è€Œä¿ç•™å¤šé¡¹ä¾‹å¤–ï¼‰æ˜¯ä¸ºäº†å–æ‚¦ä»–çš„æ”¿æ²»åŸºæœ¬ç›˜
 
-Aides said the president¡¯s `low point` was in mid-March
-ËûµÄÖúÊÖËµ£¬3ÔÂÖĞÑ®ÊÇ×îÔãµÄÊ±¿Ì
+Aides said the presidentâ€™s `low point` was in mid-March
+ä»–çš„åŠ©æ‰‹è¯´ï¼Œ3æœˆä¸­æ—¬æ˜¯æœ€ç³Ÿçš„æ—¶åˆ»

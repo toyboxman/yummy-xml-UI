@@ -1,271 +1,271 @@
-In control theory, `a causal system` is a system where the output depends on past and current inputs but not future inputs¡ªi.e., the output depends on only the input.
-ÔÚ¿ØÖÆÀíÂÛÖĞ£¬Òò¹ûÏµÍ³ÊÇÒ»¸ö½á¹ûÊä³öÒÀÀµÓÚµ±Ç°ºÍÖ®Ç°ÏµÍ³ÊäÈë¶ø²»ÒÀÀµÓÚÏµÍ³Î´À´µÄÊäÈë
+In control theory, `a causal system` is a system where the output depends on past and current inputs but not future inputsâ€”i.e., the output depends on only the input.
+åœ¨æ§åˆ¶ç†è®ºä¸­ï¼Œå› æœç³»ç»Ÿæ˜¯ä¸€ä¸ªç»“æœè¾“å‡ºä¾èµ–äºå½“å‰å’Œä¹‹å‰ç³»ç»Ÿè¾“å…¥è€Œä¸ä¾èµ–äºç³»ç»Ÿæœªæ¥çš„è¾“å…¥
 
 The biggest shopping day in China `is fast approaching`, and American companies `are treading carefully`.
-ÖĞ¹ú×î´óµÄ¹ºÎïÈÕ¼´½«À´ÁÙ£¬ÃÀ¹ú¹«Ë¾ÔòÔÚ½÷É÷ĞĞÊÂ¡£
+ä¸­å›½æœ€å¤§çš„è´­ç‰©æ—¥å³å°†æ¥ä¸´ï¼Œç¾å›½å…¬å¸åˆ™åœ¨è°¨æ…è¡Œäº‹ã€‚
 
 Some 22,000 international merchants are expected to offer discounts and other deals, mostly online, `without the overnight lines and doorbuster bargains` associated with Black Friday in the United States.
-Ô¤¼ÆÔ¼ÓĞ2.2Íò¼Ò¹ú¼ÊÉÌ¼Ò½«Ìá¹©ÕÛ¿Û¼°ÆäËûÓÅ»İ»î¶¯£¬Ö÷ÒªÔÚÏßÉÏ½øĞĞ£¬²»»á³öÏÖÃÀ¹úµÄ¡°ºÚÉ«ĞÇÆÚÎå¡±ÄÇÑùÍ¨ÏüÅÅ¶ÓºÍ¿ªÃÅ´óÇÀ¹º
+é¢„è®¡çº¦æœ‰2.2ä¸‡å®¶å›½é™…å•†å®¶å°†æä¾›æŠ˜æ‰£åŠå…¶ä»–ä¼˜æƒ æ´»åŠ¨ï¼Œä¸»è¦åœ¨çº¿ä¸Šè¿›è¡Œï¼Œä¸ä¼šå‡ºç°ç¾å›½çš„â€œé»‘è‰²æ˜ŸæœŸäº”â€é‚£æ ·é€šå®µæ’é˜Ÿå’Œå¼€é—¨å¤§æŠ¢è´­
 
 American companies, facing increasing pressure in the United States to `take a stand on social issues`, have `lately stayed away from any whiff of` the political in ads that appear in China. They `definitely talk about being conservative`, and they try to double-check things over and over again
-ÓÉÓÚÔÚÃÀ¹úÃæÁÙ×ÅÔ½À´Ô½´óµÄÑ¹Á¦£¬ÒªÔÚÉç»áÎÊÌâÉÏ±íÃ÷Á¢³¡£¬ÃÀ¹úÆóÒµ½üÀ´ÔÚÖĞ¹ú·¢²¼µÄ¹ã¸æÖĞ¶¼±Ü¿ªÁËÈÎºÎÓĞÕşÖÎÒâÎ¶µÄÄÚÈİ¡£ËûÃÇ¿Ï¶¨ÔÚËµÒª±£ÊØĞĞÊÂ£¬ËûÃÇ»¹»áÒ»±éÓÖÒ»±éµØ·´¸´¼ì²é
+ç”±äºåœ¨ç¾å›½é¢ä¸´ç€è¶Šæ¥è¶Šå¤§çš„å‹åŠ›ï¼Œè¦åœ¨ç¤¾ä¼šé—®é¢˜ä¸Šè¡¨æ˜ç«‹åœºï¼Œç¾å›½ä¼ä¸šè¿‘æ¥åœ¨ä¸­å›½å‘å¸ƒçš„å¹¿å‘Šä¸­éƒ½é¿å¼€äº†ä»»ä½•æœ‰æ”¿æ²»æ„å‘³çš„å†…å®¹ã€‚ä»–ä»¬è‚¯å®šåœ¨è¯´è¦ä¿å®ˆè¡Œäº‹ï¼Œä»–ä»¬è¿˜ä¼šä¸€éåˆä¸€éåœ°åå¤æ£€æŸ¥
 
 A few days before Singles Day, advertisements from companies like Dell, Nike and Procter & Gamble `were more functional than flashy`, focused largely on discounts
-¡°Ë«11¡±µ½À´¼¸ÌìÇ°£¬´÷¶û(Dell)¡¢ÄÍ¿Ë(Nike)ºÍ±¦½àµÈ¹«Ë¾·¢²¼µÄ¹ã¸æ¶¼±È½ÏÆ½Êµ£¬²»Ì«ÏÔÑÛ£¬Ö÷ÒªÍ»³öÕÛ¿Û
+â€œåŒ11â€åˆ°æ¥å‡ å¤©å‰ï¼Œæˆ´å°”(Dell)ã€è€å…‹(Nike)å’Œå®æ´ç­‰å…¬å¸å‘å¸ƒçš„å¹¿å‘Šéƒ½æ¯”è¾ƒå¹³å®ï¼Œä¸å¤ªæ˜¾çœ¼ï¼Œä¸»è¦çªå‡ºæŠ˜æ‰£
 
-A growing number of China¡¯s smaller banks `are stumbling` as Beijing tries to `navigate a difficult path`, forcing regulators to balance economic concerns with the health of `an enormous but fractured financial system`.
-Õıµ±±±¾©ÊÔÍ¼×ß³öÀ§Í¾£¬Ô½À´Ô½¶àµÄÖĞ¹úÖĞĞ¡ÒøĞĞÏİÈëÀ§¾³£¬ÆÈÊ¹¼à¹Ü»ú¹¹ÔÚ¾­¼Ãµ£ÓÇºÍÅÓ´óµ«Ö§ÀëÆÆËéµÄ½ğÈÚÏµÍ³µÄ½¡¿µÖ®¼äÕÒµ½Æ½ºâ
+A growing number of Chinaâ€™s smaller banks `are stumbling` as Beijing tries to `navigate a difficult path`, forcing regulators to balance economic concerns with the health of `an enormous but fractured financial system`.
+æ­£å½“åŒ—äº¬è¯•å›¾èµ°å‡ºå›°é€”ï¼Œè¶Šæ¥è¶Šå¤šçš„ä¸­å›½ä¸­å°é“¶è¡Œé™·å…¥å›°å¢ƒï¼Œè¿«ä½¿ç›‘ç®¡æœºæ„åœ¨ç»æµæ‹…å¿§å’Œåºå¤§ä½†æ”¯ç¦»ç ´ç¢çš„é‡‘èç³»ç»Ÿçš„å¥åº·ä¹‹é—´æ‰¾åˆ°å¹³è¡¡
 
-At the same time, years of borrowing have `left the country¡¯s financial system riddled with trillions of dollars¡¯ worth of debt`. Much of it is hidden off the books, `raising the prospect of potentially devastating debt bombs lurking in unexpected corners.`
-Í¬Ê±£¬¶àÄêµÄ½è´ûÊ¹ÖĞ¹úµÄ½ğÈÚÌåÏµ³ä³â×ÅÊıÍòÒÚÃÀÔªµÄÕ®Îñ¡£ÆäÖĞ´ó²¿·Ö²»ÏÔÊ¾ÔÚÕËÄ¿ÉÏ£¬ÕâÔö¼ÓÁËÇ±ÔÚ»ÙÃğĞÔÕ®ÎñÕ¨µ¯Ç±·üÔÚÒâÏë²»µ½½ÇÂäµÄ¿ÉÄÜĞÔ
+At the same time, years of borrowing have `left the countryâ€™s financial system riddled with trillions of dollarsâ€™ worth of debt`. Much of it is hidden off the books, `raising the prospect of potentially devastating debt bombs lurking in unexpected corners.`
+åŒæ—¶ï¼Œå¤šå¹´çš„å€Ÿè´·ä½¿ä¸­å›½çš„é‡‘èä½“ç³»å……æ–¥ç€æ•°ä¸‡äº¿ç¾å…ƒçš„å€ºåŠ¡ã€‚å…¶ä¸­å¤§éƒ¨åˆ†ä¸æ˜¾ç¤ºåœ¨è´¦ç›®ä¸Šï¼Œè¿™å¢åŠ äº†æ½œåœ¨æ¯ç­æ€§å€ºåŠ¡ç‚¸å¼¹æ½œä¼åœ¨æ„æƒ³ä¸åˆ°è§’è½çš„å¯èƒ½æ€§
 
 In the past few years, some banks have `expanded blindly`, Many of them also `played tricks with` their accounting. Then, two years ago, a new top banking regulator `pledged to rein in reckless lending` by banks and other financial institutions.
-Ç°Ğ©Äê£¬ÓĞĞ©ÒøĞĞÃ¤Ä¿À©ÕÅ ËüÃÇºÜ¶à»¹ÔÚ×öÕËµÄÊ±ºòÍæ»¨ÕĞ, È»ºó£¬ÔÚÁ½ÄêÇ°£¬×î¸ßÒøĞĞ¼à¹Ü»ú¹¹µÄĞÂ¼à¹ÜÈË³ĞÅµ£¬Òª¿ØÖÆÒøĞĞºÍÆäËû½ğÈÚ»ú¹¹ÇáÂÊ·Å³öµÄ´û¿î¡£
+å‰äº›å¹´ï¼Œæœ‰äº›é“¶è¡Œç›²ç›®æ‰©å¼  å®ƒä»¬å¾ˆå¤šè¿˜åœ¨åšè´¦çš„æ—¶å€™ç©èŠ±æ‹›, ç„¶åï¼Œåœ¨ä¸¤å¹´å‰ï¼Œæœ€é«˜é“¶è¡Œç›‘ç®¡æœºæ„çš„æ–°ç›‘ç®¡äººæ‰¿è¯ºï¼Œè¦æ§åˆ¶é“¶è¡Œå’Œå…¶ä»–é‡‘èæœºæ„è½»ç‡æ”¾å‡ºçš„è´·æ¬¾ã€‚
 
 Soon online lenders that once offered `eye-watering returns` were `put out of business`, companies `began to default on their bonds` and banks were told to stop hiding bad loans. In the process, a number of smaller Chinese banks were shown to `be less than healthy`
-²»¾Ã£¬ÄÇĞ©Ôø¾­Ìá¹©¾ªÈË»Ø±¨µÄÔÚÏß·Å´û¹«Ë¾±»ÆÈÍ£Òµ£¬¹«Ë¾¿ªÊ¼ÍÏÇ·Õ®È¯£¬ÒøĞĞÒ²±»¸æÖªÒªÍ£Ö¹ÒşÂ÷²»Á¼´û¿î¡£ÔÚ´Ë¹ı³ÌÖĞ£¬Ğí¶àÖĞ¹úµÄÖĞĞ¡ÒøĞĞ±íÏÖ²»¼Ñ
+ä¸ä¹…ï¼Œé‚£äº›æ›¾ç»æä¾›æƒŠäººå›æŠ¥çš„åœ¨çº¿æ”¾è´·å…¬å¸è¢«è¿«åœä¸šï¼Œå…¬å¸å¼€å§‹æ‹–æ¬ å€ºåˆ¸ï¼Œé“¶è¡Œä¹Ÿè¢«å‘ŠçŸ¥è¦åœæ­¢éšç’ä¸è‰¯è´·æ¬¾ã€‚åœ¨æ­¤è¿‡ç¨‹ä¸­ï¼Œè®¸å¤šä¸­å›½çš„ä¸­å°é“¶è¡Œè¡¨ç°ä¸ä½³
 
-Weeks later, a unit of China¡¯s `sovereign wealth fund injected cash into` Hengfeng Bank, a bank based in the coastal city of Yantai
-¼¸ÖÜºó£¬ÖĞ¹úÖ÷È¨²Æ¸»»ù½ğµÄÒ»¸öÏÂÊô»ú¹¹ÏòÑØº£³ÇÊĞÑÌÌ¨µÄºã·áÒøĞĞ×¢×Ê
+Weeks later, a unit of Chinaâ€™s `sovereign wealth fund injected cash into` Hengfeng Bank, a bank based in the coastal city of Yantai
+å‡ å‘¨åï¼Œä¸­å›½ä¸»æƒè´¢å¯ŒåŸºé‡‘çš„ä¸€ä¸ªä¸‹å±æœºæ„å‘æ²¿æµ·åŸå¸‚çƒŸå°çš„æ’ä¸°é“¶è¡Œæ³¨èµ„
 
-In her confession, she said she had hoped the video `¡°would go viral.¡±`
-ÔÚ¹©´ÊÖĞ£¬ËıËµËıÏ£ÍûÊÓÆµÄÜ¡°ÉÏÈÈÃÅ¡±
+In her confession, she said she had hoped the video `â€œwould go viral.â€`
+åœ¨ä¾›è¯ä¸­ï¼Œå¥¹è¯´å¥¹å¸Œæœ›è§†é¢‘èƒ½â€œä¸Šçƒ­é—¨â€
 
 As banks come under more pressure, the authorities are `looking for ways to keep them going`, `lest a spectacular failure ripple through` the financial system
-Ëæ×ÅÒøĞĞ³ĞÊÜµÄÑ¹Á¦Ô½À´Ô½´ó£¬µ±¾ÖÕıÔÚÏë·½Éè·¨ÈÃËüÃÇµÃÒÔÎ¬³Ö£¬ÒÔÃâ´ó¹æÄ£µÄµ¹±Õ²¨¼°Õû¸ö½ğÈÚÏµÍ³
+éšç€é“¶è¡Œæ‰¿å—çš„å‹åŠ›è¶Šæ¥è¶Šå¤§ï¼Œå½“å±€æ­£åœ¨æƒ³æ–¹è®¾æ³•è®©å®ƒä»¬å¾—ä»¥ç»´æŒï¼Œä»¥å…å¤§è§„æ¨¡çš„å€’é—­æ³¢åŠæ•´ä¸ªé‡‘èç³»ç»Ÿ
 
 The seventh `defendant`, Wayne Marino, was expected to `surrender to the authorities` on Friday. 
-µÚ7Ãû±»¸æÎ¤¶÷¡¤ÂíÀïÅµÔ¤¼Æ½«ÓÚÖÜÎåÏòµ±¾Ö×ÔÊ×
+ç¬¬7åè¢«å‘ŠéŸ¦æ©Â·é©¬é‡Œè¯ºé¢„è®¡å°†äºå‘¨äº”å‘å½“å±€è‡ªé¦–
 
 The defendants `were charged with conspiracy to commit wire fraud and illegal importation`. Jack and Frances Cabasso, `a married couple`, were also charged with `money laundering conspiracy`
-±»¸æ±»¿Ø´®Ä±½øĞĞµçĞÅÕ©Æ­ºÍ·Ç·¨½ø¿Ú¡£Îª·òÆŞ¹ØÏµµÄ½Ü¿ËºÍ¸¥ÀÊÎ÷Ë¿¡¤¿¨ÅÁË÷»¹±»¿Ø´®Ä±Ï´Ç®
+è¢«å‘Šè¢«æ§ä¸²è°‹è¿›è¡Œç”µä¿¡è¯ˆéª—å’Œéæ³•è¿›å£ã€‚ä¸ºå¤«å¦»å…³ç³»çš„æ°å…‹å’Œå¼—æœ—è¥¿ä¸Â·å¡å¸•ç´¢è¿˜è¢«æ§ä¸²è°‹æ´—é’±
 
-Obviously it¡¯s `a grave concern` to the United States that infrastructure `is compromised` by hardware and software made in other countries
-»ù´¡ÉèÊ©±»ÆäËû¹úÖÆÔìµÄÓ²¼şºÍÈí¼şËğº¦£¬ÕâÏÔÈ»ÊÇÃÀ¹úÑÏÖØ¹ØÇĞµÄÎÊÌâ
+Obviously itâ€™s `a grave concern` to the United States that infrastructure `is compromised` by hardware and software made in other countries
+åŸºç¡€è®¾æ–½è¢«å…¶ä»–å›½åˆ¶é€ çš„ç¡¬ä»¶å’Œè½¯ä»¶æŸå®³ï¼Œè¿™æ˜¾ç„¶æ˜¯ç¾å›½ä¸¥é‡å…³åˆ‡çš„é—®é¢˜
 
 In a memo seeking to `detain Mr. Cabasso in custody until trial`, prosecutors `portrayed him as a serial con man` with a long criminal history
-ÔÚÒ»·İÑ°Çó¶ÔºòÉóÆÚ¼äµÄ¿¨ÅÁË÷ÊµÊ©¾Ğ½ûµÄ±¸ÍüÂ¼ÖĞ£¬¼ì²ì¹Ù½«ËûÃèÊöÎªÒ»¸öÓĞ×Å³¤ÆÚ·¸×ïÊ·µÄÁ¬»·Õ©Æ­·¸
+åœ¨ä¸€ä»½å¯»æ±‚å¯¹å€™å®¡æœŸé—´çš„å¡å¸•ç´¢å®æ–½æ‹˜ç¦çš„å¤‡å¿˜å½•ä¸­ï¼Œæ£€å¯Ÿå®˜å°†ä»–æè¿°ä¸ºä¸€ä¸ªæœ‰ç€é•¿æœŸçŠ¯ç½ªå²çš„è¿ç¯è¯ˆéª—çŠ¯
 
 Since 1982, prosecutors said, he `had been convicted of jury tampering, grand larceny and other crimes`. He had deep business relationships in China and used a network of `shell companies to launder` the millions of dollars he made.
-×Ô1982ÄêÒÔÀ´£¬ËûÒÑ±»ÅĞ·¸ÓĞ¸ÉÈÅÅãÉóÍÅ¡¢ÖØ´óµÁÇÔ×ï¼°ÆäËû×ïĞĞ¡£¼ì²ì¹ÙµÄ±¸ÍüÂ¼³Æ£¬ËûºÍÖĞ¹úÓĞ×ÅºÜÉîµÄÉÌÒµ¹ØÏµ£¬²¢ÀûÓÃ¿Õ¿Ç¹«Ë¾ÍøÂçÇåÏ´×Ô¼º×¬µÃµÄÊı°ÙÍòÃÀÔªºÚÇ®
+è‡ª1982å¹´ä»¥æ¥ï¼Œä»–å·²è¢«åˆ¤çŠ¯æœ‰å¹²æ‰°é™ªå®¡å›¢ã€é‡å¤§ç›—çªƒç½ªåŠå…¶ä»–ç½ªè¡Œã€‚æ£€å¯Ÿå®˜çš„å¤‡å¿˜å½•ç§°ï¼Œä»–å’Œä¸­å›½æœ‰ç€å¾ˆæ·±çš„å•†ä¸šå…³ç³»ï¼Œå¹¶åˆ©ç”¨ç©ºå£³å…¬å¸ç½‘ç»œæ¸…æ´—è‡ªå·±èµšå¾—çš„æ•°ç™¾ä¸‡ç¾å…ƒé»‘é’±
 
-Prosecutors `seized the Cabassos¡¯ 70-foot luxury yacht`, the Tranquilo, and `froze 12 bank accounts` containing around $3 million
-¼ì²ì¹Ù²é¿ÛÁË¿¨ÅÁË÷µÄÒ»ËÒ70Ó¢³ß³¤µÄºÀ»ªÓÎÍ§¡°Æ½¾²ºÅ¡±£¬²¢¶³½áÁË12¸öÒøĞĞÕË»§£¬ÆäÖĞÓĞ´óÔ¼300ÍòÃÀÔª
+Prosecutors `seized the Cabassosâ€™ 70-foot luxury yacht`, the Tranquilo, and `froze 12 bank accounts` containing around $3 million
+æ£€å¯Ÿå®˜æŸ¥æ‰£äº†å¡å¸•ç´¢çš„ä¸€è‰˜70è‹±å°ºé•¿çš„è±ªåæ¸¸è‰‡â€œå¹³é™å·â€ï¼Œå¹¶å†»ç»“äº†12ä¸ªé“¶è¡Œè´¦æˆ·ï¼Œå…¶ä¸­æœ‰å¤§çº¦300ä¸‡ç¾å…ƒ
 
-Cryptocurrency makers and watchers said the comments `were most likely meant to pave the way for China to create its own digital currency`, both to tighten controls as well as to make China¡¯s currency `more readily available outside the country`
-¼ÓÃÜ»õ±ÒÖÆÔìÉÌºÍ¹Û²ìÈËÊ¿±íÊ¾£¬Õâ·¬±íÌ¬¼«ÓĞ¿ÉÄÜÊÇÎªÖĞ¹ú´´Ôì×Ô¼ºµÄÊı×Ö»õ±ÒÆÌÆ½µÀÂ·£¬ÒÔ±ã¼ÓÇ¿¿ØÖÆ£¬Í¬Ê±ÈÃÖĞ¹úµÄ»õ±ÒÔÚ¾³Íâ¸üÈİÒ×»ñµÃ
+Cryptocurrency makers and watchers said the comments `were most likely meant to pave the way for China to create its own digital currency`, both to tighten controls as well as to make Chinaâ€™s currency `more readily available outside the country`
+åŠ å¯†è´§å¸åˆ¶é€ å•†å’Œè§‚å¯Ÿäººå£«è¡¨ç¤ºï¼Œè¿™ç•ªè¡¨æ€ææœ‰å¯èƒ½æ˜¯ä¸ºä¸­å›½åˆ›é€ è‡ªå·±çš„æ•°å­—è´§å¸é“ºå¹³é“è·¯ï¼Œä»¥ä¾¿åŠ å¼ºæ§åˆ¶ï¼ŒåŒæ—¶è®©ä¸­å›½çš„è´§å¸åœ¨å¢ƒå¤–æ›´å®¹æ˜“è·å¾—
 
 The comments led to `a surge in interest` in China. Investors `sent shares of local digital currency-related companies soaring`, while cryptocurrency `stalwarts rejoiced`
-´Ë·¬±íÌ¬Ê¹ÖĞ¹ú¹úÄÚ¶Ô¼ÓÃÜ»õ±ÒµÄĞËÈ¤¼¤Ôö¡£ÔÚÍ¶×ÊÕßµÄÍÆ¶¯ÏÂ£¬ÓëÊı×Ö»õ±ÒÓĞ¹ØµÄ±¾µØÆóÒµ¹É¼Ûì­Éı£¬¼ÓÃÜ»õ±ÒµÄÖÒÊµÖ§³ÖÕßÔò»¶ĞÀ¹ÄÎè
+æ­¤ç•ªè¡¨æ€ä½¿ä¸­å›½å›½å†…å¯¹åŠ å¯†è´§å¸çš„å…´è¶£æ¿€å¢ã€‚åœ¨æŠ•èµ„è€…çš„æ¨åŠ¨ä¸‹ï¼Œä¸æ•°å­—è´§å¸æœ‰å…³çš„æœ¬åœ°ä¼ä¸šè‚¡ä»·é£™å‡ï¼ŒåŠ å¯†è´§å¸çš„å¿ å®æ”¯æŒè€…åˆ™æ¬¢æ¬£é¼“èˆ
 
 China also wants to `track money flowing across its borders`, both to `tamp down on corruption` and to `protect the economy from violent swings in currency value.`
-ÖĞ¹ú»¹Ï£Íû×·×Ù¿ç¾³×Ê½ğÁ÷¶¯£¬ÒÔ´ò»÷¸¯°Ü£¬Í¬Ê±±£»¤¾­¼ÃÃâÊÜ±ÒÖµ¾çÁÒ²¨¶¯µÄÓ°Ïì
+ä¸­å›½è¿˜å¸Œæœ›è¿½è¸ªè·¨å¢ƒèµ„é‡‘æµåŠ¨ï¼Œä»¥æ‰“å‡»è…è´¥ï¼ŒåŒæ—¶ä¿æŠ¤ç»æµå…å—å¸å€¼å‰§çƒˆæ³¢åŠ¨çš„å½±å“
 
 The Chinese government has released new rules `aimed at curbing video game addiction` among young people, a problem that top officials believe is to `blame for a rise in nearsightedness and poor academic performance` across `a broad swath of society`
-ÖĞ¹úÕş¸®·¢²¼ÁËÖ¼ÔÚ¶ôÖÆÄêÇáÈË³ÁÃÔµç×ÓÓÎÏ·µÄĞÂ¹æ¶¨£¬¸ß²ã¹ÙÔ±ÈÏÎª£¬Õâ¸öÎÊÌâÊÇÈ«Éç»áÔ½À´Ô½¶àÄêÇáÈË³öÏÖ½üÊÓºÍÑ§Ï°²»¼ÑµÄÔ­Òò
+ä¸­å›½æ”¿åºœå‘å¸ƒäº†æ—¨åœ¨éåˆ¶å¹´è½»äººæ²‰è¿·ç”µå­æ¸¸æˆçš„æ–°è§„å®šï¼Œé«˜å±‚å®˜å‘˜è®¤ä¸ºï¼Œè¿™ä¸ªé—®é¢˜æ˜¯å…¨ç¤¾ä¼šè¶Šæ¥è¶Šå¤šå¹´è½»äººå‡ºç°è¿‘è§†å’Œå­¦ä¹ ä¸ä½³çš„åŸå› 
 
-The state-run media has `likened some games to ¡°poison,¡±` and the government has blocked sales of some titles `on the grounds that` they are too violent.
-µç×ÓÓÎÏ·ÒÑ¾­³ÉÎªÒ»¸öÆÕ±éµÄÄ¿±ê¡£¹Ù·½Ã½Ìå½«Ò»Ğ©ÓÎÏ·±È×÷¡°¶¾Ò©¡±£¬²¢ÒÔ¹ıÓÚ±©Á¦ÎªÓÉ£¬½ûµôÁËÒ»Ğ©ÓÎÏ·
+The state-run media has `likened some games to â€œpoison,â€` and the government has blocked sales of some titles `on the grounds that` they are too violent.
+ç”µå­æ¸¸æˆå·²ç»æˆä¸ºä¸€ä¸ªæ™®éçš„ç›®æ ‡ã€‚å®˜æ–¹åª’ä½“å°†ä¸€äº›æ¸¸æˆæ¯”ä½œâ€œæ¯’è¯â€ï¼Œå¹¶ä»¥è¿‡äºæš´åŠ›ä¸ºç”±ï¼Œç¦æ‰äº†ä¸€äº›æ¸¸æˆ
 
 These problems `affect the physical and mental health of minors`, as well as their normal learning and living. There are always going to be loopholes
-ÕâĞ©ÎÊÌâÓ°ÏìÎ´³ÉÄêÈËÉíĞÄ½¡¿µºÍÕı³£Ñ§Ï°Éú»î ×Ü»áÓĞÂ©¶´
+è¿™äº›é—®é¢˜å½±å“æœªæˆå¹´äººèº«å¿ƒå¥åº·å’Œæ­£å¸¸å­¦ä¹ ç”Ÿæ´» æ€»ä¼šæœ‰æ¼æ´
 
 As China matures and develops further, `the uniqueness that Hong Kong provides` is going to continue to diminish, but likely over `a gradual pace`
-Ëæ×ÅÖĞ¹úµÄ³ÉÊìºÍ½øÒ»²½·¢Õ¹£¬Ïã¸ÛËùÌá¹©µÄ¶ÀÌØĞÔ½«²»¶Ï¼õÈõ£¬µ«Õâ¿ÉÄÜÊÇÒ»¸ö½¥½øµÄ¹ı³Ì
+éšç€ä¸­å›½çš„æˆç†Ÿå’Œè¿›ä¸€æ­¥å‘å±•ï¼Œé¦™æ¸¯æ‰€æä¾›çš„ç‹¬ç‰¹æ€§å°†ä¸æ–­å‡å¼±ï¼Œä½†è¿™å¯èƒ½æ˜¯ä¸€ä¸ªæ¸è¿›çš„è¿‡ç¨‹
 
-The media coverage of Watergate gave us much of today¡¯s `concussive, ballistic jargon` of scandal. There were ¡°`bombshells`.¡± There were ¡°`smoking guns`.¡± `Ever since`, we have measured controversies as if on a decibel meter, `judging them by their ¡°fireworks¡± and ¡°explosive¡± drama`.
-Èç½ñÔÚÌ¸¼°³óÎÅÊ±Ê¹ÓÃµÄĞí¶àº§ÈËµÄ¡¢¼«¾ß³å»÷Á¦µÄÊõÓï£¬ÓĞ²»ÉÙÀ´×Ôµ±Äê¶ÔË®ÃÅÊÂ¼şµÄ±¨µÀ¡£±ÈÈç¡°bombshell¡±£¨±¬Õ¨ĞÔÊÂ¼ş£©ºÍ¡°smoking gun¡±£¨ÌúÖ¤£©¡£´ÓÄÇÒÔºó£¬ÎÒÃÇ¾ÍÏñ²âÔëÒô·Ö±´ÄÇÑùºâÁ¿ÕùÒé£¬ÆÀÅĞÄÇĞ©¡°»ğ±¬¡±ºÍ¡°¾¢±¬¡±µÄ¾ªÈËÊÂ¼ş
+The media coverage of Watergate gave us much of todayâ€™s `concussive, ballistic jargon` of scandal. There were â€œ`bombshells`.â€ There were â€œ`smoking guns`.â€ `Ever since`, we have measured controversies as if on a decibel meter, `judging them by their â€œfireworksâ€ and â€œexplosiveâ€ drama`.
+å¦‚ä»Šåœ¨è°ˆåŠä¸‘é—»æ—¶ä½¿ç”¨çš„è®¸å¤šéª‡äººçš„ã€æå…·å†²å‡»åŠ›çš„æœ¯è¯­ï¼Œæœ‰ä¸å°‘æ¥è‡ªå½“å¹´å¯¹æ°´é—¨äº‹ä»¶çš„æŠ¥é“ã€‚æ¯”å¦‚â€œbombshellâ€ï¼ˆçˆ†ç‚¸æ€§äº‹ä»¶ï¼‰å’Œâ€œsmoking gunâ€ï¼ˆé“è¯ï¼‰ã€‚ä»é‚£ä»¥åï¼Œæˆ‘ä»¬å°±åƒæµ‹å™ªéŸ³åˆ†è´é‚£æ ·è¡¡é‡äº‰è®®ï¼Œè¯„åˆ¤é‚£äº›â€œç«çˆ†â€å’Œâ€œåŠ²çˆ†â€çš„æƒŠäººäº‹ä»¶
 
-I `arrive red-eyed and sleepy` to work now and don¡¯t care. `Stumblin¡¯ Sam` can¡¯t even `read his script straight! WITCH HUNT!!!`
-ÎÒÏÖÔÚË¯ÑÛĞÊâìµØÀ´ÉÏ°à£¬ÎÒ¸ù±¾²»ÔÚºõ   ¿Ä°ÍÉ½Ä·Á¬×Ô¼ºµÄ¾ç±¾¶¼¶Á²»¶Ô£¡ÕşÖÎÆÈº¦£¡£¡£¡
+I `arrive red-eyed and sleepy` to work now and donâ€™t care. `Stumblinâ€™ Sam` canâ€™t even `read his script straight! WITCH HUNT!!!`
+æˆ‘ç°åœ¨ç¡çœ¼æƒºå¿ªåœ°æ¥ä¸Šç­ï¼Œæˆ‘æ ¹æœ¬ä¸åœ¨ä¹   ç£•å·´å±±å§†è¿è‡ªå·±çš„å‰§æœ¬éƒ½è¯»ä¸å¯¹ï¼æ”¿æ²»è¿«å®³ï¼ï¼ï¼
 
 Beijing officials said the two infected people came from Inner Mongolia, `a sparsely populated region` of northern China
-±±¾©¹ÙÔ±±íÊ¾£¬Á½Ãû¸ĞÈ¾ÕßÀ´×ÔÄÚÃÉ¹Å£¬ÖĞ¹ú±±·½Ò»¸öÈË¿ÚÏ¡ÉÙµÄµØÇø
+åŒ—äº¬å®˜å‘˜è¡¨ç¤ºï¼Œä¸¤åæ„ŸæŸ“è€…æ¥è‡ªå†…è’™å¤ï¼Œä¸­å›½åŒ—æ–¹ä¸€ä¸ªäººå£ç¨€å°‘çš„åœ°åŒº
 
 `Fears are mounting` in China over a possible outbreak of the disease, once known as the Black Death. Last month, the authorities in China said they would `strengthen quarantine measures` to prevent plague from `entering the country` after Madagascar `was struck by a fast-spreading outbreak of the disease.`
-ÔÚÖĞ¹ú£¬¶ÔÕâÖÖ¼²²¡¿ÉÄÜ±¬·¢µÄµ£ÓÇÕıÔÚÔö³¤¡£ËüÔø±»³ÆÎª¡°ºÚËÀ²¡¡±.  ÉÏ¸öÔÂ£¬ÖĞ¹úµ±¾Ö±íÊ¾½«¼ÓÇ¿¼ìÒß´ëÊ©£¬·À·¶ÊóÒß½øÈëÖĞ¹ú¡£´ËÇ°£¬Âí´ï¼ÓË¹¼ÓÔø±¬·¢Ñ¸ËÙÂûÑÓµÄÊóÒßÒßÇé
+åœ¨ä¸­å›½ï¼Œå¯¹è¿™ç§ç–¾ç—…å¯èƒ½çˆ†å‘çš„æ‹…å¿§æ­£åœ¨å¢é•¿ã€‚å®ƒæ›¾è¢«ç§°ä¸ºâ€œé»‘æ­»ç—…â€.  ä¸Šä¸ªæœˆï¼Œä¸­å›½å½“å±€è¡¨ç¤ºå°†åŠ å¼ºæ£€ç–«æªæ–½ï¼Œé˜²èŒƒé¼ ç–«è¿›å…¥ä¸­å›½ã€‚æ­¤å‰ï¼Œé©¬è¾¾åŠ æ–¯åŠ æ›¾çˆ†å‘è¿…é€Ÿè”“å»¶çš„é¼ ç–«ç–«æƒ…
 
-Signs of any `infectious disease` need to be repeatedly verified and investigated, and such announcements cannot be `¡°transmitted casually.¡±` 
-ÈÎºÎ´«È¾²¡µÄ¼£Ïó¶¼ĞèÒª·´¸´ºËÊµºÍµ÷²é£¬ÕâÑùµÄÏûÏ¢²»ÄÜ¡°Ëæ±ã·¢¡±¡£
+Signs of any `infectious disease` need to be repeatedly verified and investigated, and such announcements cannot be `â€œtransmitted casually.â€` 
+ä»»ä½•ä¼ æŸ“ç—…çš„è¿¹è±¡éƒ½éœ€è¦åå¤æ ¸å®å’Œè°ƒæŸ¥ï¼Œè¿™æ ·çš„æ¶ˆæ¯ä¸èƒ½â€œéšä¾¿å‘â€ã€‚
 
-"`After so many years of specialist training`, I¡¯m familiar with the diagnosis and treatment of most `respiratory diseases`,¡± wrote Dr. Li. ¡°But this time, I looked and looked at it. I couldn¡¯t guess what pathogen caused this `pneumonia`. I only knew it was rare.¡±
-¡°¾­¹ıÕâÃ´¶àÄêµÄ×¨¿ÆÅàÑµ£¬¶ÔÓÚ¾ø´ó¶àÊıºôÎüÏµÍ³¼²²¡µÄÕïÁÆ£¬ÎÒÒÑ¼İÇá¾ÍÊì£¬¡±Àî»ı·ïĞ´µÀ¡£¡°µ«ÊÇÕâÒ»´Î£¬ÎÒ¿´ÁËÓÖ¿´£¬ÍêÈ«ÍÆ²â²»³öÊÇÊ²Ã´²¡Ô­Ìåµ¼ÖÂµÄ·ÎÑ×£¬Ö»¾õµÃÊÇÉÙ¼û²¡¡£¡±
+"`After so many years of specialist training`, Iâ€™m familiar with the diagnosis and treatment of most `respiratory diseases`,â€ wrote Dr. Li. â€œBut this time, I looked and looked at it. I couldnâ€™t guess what pathogen caused this `pneumonia`. I only knew it was rare.â€
+â€œç»è¿‡è¿™ä¹ˆå¤šå¹´çš„ä¸“ç§‘åŸ¹è®­ï¼Œå¯¹äºç»å¤§å¤šæ•°å‘¼å¸ç³»ç»Ÿç–¾ç—…çš„è¯Šç–—ï¼Œæˆ‘å·²é©¾è½»å°±ç†Ÿï¼Œâ€æç§¯å‡¤å†™é“ã€‚â€œä½†æ˜¯è¿™ä¸€æ¬¡ï¼Œæˆ‘çœ‹äº†åˆçœ‹ï¼Œå®Œå…¨æ¨æµ‹ä¸å‡ºæ˜¯ä»€ä¹ˆç—…åŸä½“å¯¼è‡´çš„è‚ºç‚ï¼Œåªè§‰å¾—æ˜¯å°‘è§ç—…ã€‚â€
 
 `If left untreated`, pneumonic plague is always fatal, according to the World Health Organization. But recovery rates are high `if detected and treated with antibiotics, within 24 hours of the onset of symptoms`, the agency said.
-¸ù¾İÊÀ½çÎÀÉú×éÖ¯µÄËµ·¨£¬Èç¹ûÃ»ÓĞµÃµ½¼°Ê±ÖÎÁÆ£¬ÊóÒßÍ¨³£ÊÇÖÂÃüµÄ¡£µ«¸Ã»ú¹¹Ò²±íÊ¾£¬Èç¹ûÔÚÖ¢×´·¢×÷ºóµÄ24Ğ¡Ê±ÄÚ±»È·Õï²¢µÃµ½¿¹ÉúËØÖÎÁÆ£¬¿µ¸´ÂÊÏàµ±¸ß
+æ ¹æ®ä¸–ç•Œå«ç”Ÿç»„ç»‡çš„è¯´æ³•ï¼Œå¦‚æœæ²¡æœ‰å¾—åˆ°åŠæ—¶æ²»ç–—ï¼Œé¼ ç–«é€šå¸¸æ˜¯è‡´å‘½çš„ã€‚ä½†è¯¥æœºæ„ä¹Ÿè¡¨ç¤ºï¼Œå¦‚æœåœ¨ç—‡çŠ¶å‘ä½œåçš„24å°æ—¶å†…è¢«ç¡®è¯Šå¹¶å¾—åˆ°æŠ—ç”Ÿç´ æ²»ç–—ï¼Œåº·å¤ç‡ç›¸å½“é«˜
 
-I¡¯m `shaking and trembling.`
-ÎÒ¼òÖ±ÉªÉª·¢¶¶ºÃÂğ
+Iâ€™m `shaking and trembling.`
+æˆ‘ç®€ç›´ç‘Ÿç‘Ÿå‘æŠ–å¥½å—
 
-Apple unveiled a new 16-inch MacBook with `a revamped keyboard` on Wednesday, good news for the many Apple lovers who¡¯ve been `grumbling` about the company¡¯s `lackluster slate of recent Macs`
-Æ»¹û¹«Ë¾ÓÚÖÜÈı·¢²¼ÁËÒ»¿îÈ«ĞÂµÄ16Ó¢´çMacBook£¬¼üÅÌ¾­¹ıÁË¸Ä½ø£¬Õâ¶ÔºÜ¶àÒ»Ö±±§Ô¹×î½ü¼¸¿îMacµçÄÔÈ±·¦ÁÁµãµÄÆ»¹û°®ºÃÕßÀ´ËµÊÇ¸öºÃÏûÏ¢
+Apple unveiled a new 16-inch MacBook with `a revamped keyboard` on Wednesday, good news for the many Apple lovers whoâ€™ve been `grumbling` about the companyâ€™s `lackluster slate of recent Macs`
+è‹¹æœå…¬å¸äºå‘¨ä¸‰å‘å¸ƒäº†ä¸€æ¬¾å…¨æ–°çš„16è‹±å¯¸MacBookï¼Œé”®ç›˜ç»è¿‡äº†æ”¹è¿›ï¼Œè¿™å¯¹å¾ˆå¤šä¸€ç›´æŠ±æ€¨æœ€è¿‘å‡ æ¬¾Macç”µè„‘ç¼ºä¹äº®ç‚¹çš„è‹¹æœçˆ±å¥½è€…æ¥è¯´æ˜¯ä¸ªå¥½æ¶ˆæ¯
 
 But I think the iPad is already beginning to `eclipse the traditional personal computer`
-µ«ÎÒÈÏÎªiPadÒÑ¾­¿ªÊ¼³¬Ô½´«Í³¸öÈËµçÄÔ
+ä½†æˆ‘è®¤ä¸ºiPadå·²ç»å¼€å§‹è¶…è¶Šä¼ ç»Ÿä¸ªäººç”µè„‘
 
-Tablets were `good for surfing the Web` and watching Netflix, but they¡¯ve always `been dogged by the charge` that you couldn¡¯t get a lot of work done on them
-Æ½°åµçÄÔ±¾À´ºÜÊÊºÏÉÏÍø¡¢¿´Netflix£¬µ«ËüÃÇ×Ü±»Ö¸ÔğÃ»·¨ÓÃÀ´×öÌ«¶à¹¤×÷
+Tablets were `good for surfing the Web` and watching Netflix, but theyâ€™ve always `been dogged by the charge` that you couldnâ€™t get a lot of work done on them
+å¹³æ¿ç”µè„‘æœ¬æ¥å¾ˆé€‚åˆä¸Šç½‘ã€çœ‹Netflixï¼Œä½†å®ƒä»¬æ€»è¢«æŒ‡è´£æ²¡æ³•ç”¨æ¥åšå¤ªå¤šå·¥ä½œ
 
-`Among other things`, I now research and write just about `every column` using an iPad (I still `compose many first drafts` by speaking into my headphones, but I¡¯m `an odd duck`)
-ÌØ±ğÊÇ£¬ÎÒÏÖÔÚ¼¸ºõËùÓĞ×¨À¸ÎÄÕÂµÄ°¸Í·ºÍ×«Ğ´¶¼ÊÇÓÃiPad£¨ÎÒÈÔÈ»Í¨¹ı¶Ô×Å¶ú»úËµ»°À´Ğ´Ğí¶à³õ¸å£¬µ«ÎÒÊÇ¸ö¹ÖÈË£©
+`Among other things`, I now research and write just about `every column` using an iPad (I still `compose many first drafts` by speaking into my headphones, but Iâ€™m `an odd duck`)
+ç‰¹åˆ«æ˜¯ï¼Œæˆ‘ç°åœ¨å‡ ä¹æ‰€æœ‰ä¸“æ æ–‡ç« çš„æ¡ˆå¤´å’Œæ’°å†™éƒ½æ˜¯ç”¨iPadï¼ˆæˆ‘ä»ç„¶é€šè¿‡å¯¹ç€è€³æœºè¯´è¯æ¥å†™è®¸å¤šåˆç¨¿ï¼Œä½†æˆ‘æ˜¯ä¸ªæ€ªäººï¼‰
 
 I thought I had `gotten out of the gadget-reviewing business for good` last year. Since the smartphone had `gobbled up everything` from cameras to music players to portable gaming systems, I declared the whole field of gadgetry dead. But just when I thought I was out, they pulled me back in
-È¥Äê£¬ÎÒÒÔÎª×Ô¼ºÓÀÔ¶Àë¿ªÁËµç×Ó²úÆ·ÆÀ²âĞĞÒµ¡£ÓÉÓÚÖÇÄÜÊÖ»úÍÌÊÉÁË´ÓÏà»úµ½ÒôÀÖ²¥·ÅÆ÷ÔÙµ½±ãĞ¯ÓÎÏ·ÏµÍ³µÄÒ»ÇĞ£¬ÎÒĞû¸æÕû¸öµç×ÓÉè±¸ÁìÓòµÄËÀÍö¡£µ«¾ÍÔÚÎÒÒÔÎª×Ô¼º³ö¾ÖµÄÊ±ºò£¬ËüÃÇÓÖ°ÑÎÒÀ­ÁË»ØÀ´
+å»å¹´ï¼Œæˆ‘ä»¥ä¸ºè‡ªå·±æ°¸è¿œç¦»å¼€äº†ç”µå­äº§å“è¯„æµ‹è¡Œä¸šã€‚ç”±äºæ™ºèƒ½æ‰‹æœºåå™¬äº†ä»ç›¸æœºåˆ°éŸ³ä¹æ’­æ”¾å™¨å†åˆ°ä¾¿æºæ¸¸æˆç³»ç»Ÿçš„ä¸€åˆ‡ï¼Œæˆ‘å®£å‘Šæ•´ä¸ªç”µå­è®¾å¤‡é¢†åŸŸçš„æ­»äº¡ã€‚ä½†å°±åœ¨æˆ‘ä»¥ä¸ºè‡ªå·±å‡ºå±€çš„æ—¶å€™ï¼Œå®ƒä»¬åˆæŠŠæˆ‘æ‹‰äº†å›æ¥
 
-The history of the iPad is a story about `consolidation, focus and the power of scale` in the tech business. It¡¯s a story about `how thoroughly one company`, Apple, has `dominated the entire hardware business` this decade. And it is also, really, a story about the only thing that mattered in tech in the 2010s ¡ª the smartphone ¡ª and the way that one device `became the gravitational center` of the entire tech business, `shaping every market` in the industry, and much of the non-tech world beyond it
-IPadµÄÀúÊ·ÊÇÒ»Ôò¼¼ÊõĞĞÒµÕûºÏ¡¢¾Û½¹ºÍ¹æÄ£»¯Á¦Á¿µÄ¹ÊÊÂ£¬ÊÇ¹ØÓÚÆ»¹û¹«Ë¾ÈçºÎ³¹µ×Í³ÖÎÕû¸öÓ²¼şĞĞÒµµÄ¹ÊÊÂ¡£¶øÇÒ£¬ÕæµÄ£¬ËüÒ²¹Øºõ2010Äê´ú¿Æ¼¼²úÒµÄÚÎ¨Ò»Ò»¼şÖØÒªµÄ¶«Î÷¡ª¡ªÖÇÄÜÊÖ»ú¡ª¡ªÒÔ¼°Ò»¸öÉè±¸ÔõÑù³ÉÎªÕû¸ö¼¼ÊõÆóÒµµÄÖĞĞÄ£¬ËÜÔì×Å¼¼ÊõĞĞÒµµÄÃ¿Ò»¸öÊĞ³¡£¬ÒÔ¼°Ëü×ÔÉíÖ®Íâ·Ç¼¼ÊõÊÀ½çµÄ´ó²¿·ÖÊĞ³¡
+The history of the iPad is a story about `consolidation, focus and the power of scale` in the tech business. Itâ€™s a story about `how thoroughly one company`, Apple, has `dominated the entire hardware business` this decade. And it is also, really, a story about the only thing that mattered in tech in the 2010s â€” the smartphone â€” and the way that one device `became the gravitational center` of the entire tech business, `shaping every market` in the industry, and much of the non-tech world beyond it
+IPadçš„å†å²æ˜¯ä¸€åˆ™æŠ€æœ¯è¡Œä¸šæ•´åˆã€èšç„¦å’Œè§„æ¨¡åŒ–åŠ›é‡çš„æ•…äº‹ï¼Œæ˜¯å…³äºè‹¹æœå…¬å¸å¦‚ä½•å½»åº•ç»Ÿæ²»æ•´ä¸ªç¡¬ä»¶è¡Œä¸šçš„æ•…äº‹ã€‚è€Œä¸”ï¼ŒçœŸçš„ï¼Œå®ƒä¹Ÿå…³ä¹2010å¹´ä»£ç§‘æŠ€äº§ä¸šå†…å”¯ä¸€ä¸€ä»¶é‡è¦çš„ä¸œè¥¿â€”â€”æ™ºèƒ½æ‰‹æœºâ€”â€”ä»¥åŠä¸€ä¸ªè®¾å¤‡æ€æ ·æˆä¸ºæ•´ä¸ªæŠ€æœ¯ä¼ä¸šçš„ä¸­å¿ƒï¼Œå¡‘é€ ç€æŠ€æœ¯è¡Œä¸šçš„æ¯ä¸€ä¸ªå¸‚åœºï¼Œä»¥åŠå®ƒè‡ªèº«ä¹‹å¤–éæŠ€æœ¯ä¸–ç•Œçš„å¤§éƒ¨åˆ†å¸‚åœº
 
-The iPad has always `been freighted with great expectations`. Although the iPad was unveiled in 2010, three years after the iPhone, `development of the iPad predated development of the phone`, and Steve Jobs, Apple¡¯s co-founder, always seemed to `have his heart in the tablet`
-ÈËÃÇ¶ÔiPadÒ»Ö±±§ÓĞºÜ´óµÄÆÚ´ı¡£¾¡¹ÜÊÇÔÚiPhone·¢²¼ÈıÄêºóµÄ2010Äê·¢²¼µÄ£¬iPadµÄ¿ª·¢ÔçÓÚiPhone£¬¶øÆ»¹ûµÄÁªºÏ´´Ê¼ÈËÊ·µÙ·ò¡¤ÇÇ²¼Ë¹ËÆºõ×Ü¶ÔÆ½°åµçÄÔÇéÓĞ¶ÀÖÓ
+The iPad has always `been freighted with great expectations`. Although the iPad was unveiled in 2010, three years after the iPhone, `development of the iPad predated development of the phone`, and Steve Jobs, Appleâ€™s co-founder, always seemed to `have his heart in the tablet`
+äººä»¬å¯¹iPadä¸€ç›´æŠ±æœ‰å¾ˆå¤§çš„æœŸå¾…ã€‚å°½ç®¡æ˜¯åœ¨iPhoneå‘å¸ƒä¸‰å¹´åçš„2010å¹´å‘å¸ƒçš„ï¼ŒiPadçš„å¼€å‘æ—©äºiPhoneï¼Œè€Œè‹¹æœçš„è”åˆåˆ›å§‹äººå²è’‚å¤«Â·ä¹”å¸ƒæ–¯ä¼¼ä¹æ€»å¯¹å¹³æ¿ç”µè„‘æƒ…æœ‰ç‹¬é’Ÿ
 
-The traditional Mac and Windows machines `would still be around, but like big rigs`, they¡¯d be used by a small set of power users for `a dwindling set of specific, high-power tasks`
-´«Í³µÄMacºÍWindowsµçÄÔÈÔ½«´æÔÚ£¬µ«Ïñ´óĞÍ×ê»úÒ»Ñù£¬ËüÃÇ½«Ö»±»Ò»Ğ¡²¿·Ö¸ß¼¶ÓÃ»§ÓÃÓÚÔ½À´Ô½ÉÙµÄÌØ¶¨¸ßÇ¿¶ÈÈÎÎñ
+The traditional Mac and Windows machines `would still be around, but like big rigs`, theyâ€™d be used by a small set of power users for `a dwindling set of specific, high-power tasks`
+ä¼ ç»Ÿçš„Macå’ŒWindowsç”µè„‘ä»å°†å­˜åœ¨ï¼Œä½†åƒå¤§å‹é’»æœºä¸€æ ·ï¼Œå®ƒä»¬å°†åªè¢«ä¸€å°éƒ¨åˆ†é«˜çº§ç”¨æˆ·ç”¨äºè¶Šæ¥è¶Šå°‘çš„ç‰¹å®šé«˜å¼ºåº¦ä»»åŠ¡
 
-For a while, he was only `partially right`. The iPad sold well `at launch`, but after a few years it `hit some hurdles`. After Jobs¡¯s death, Apple `left the iPad to languish, and did something similar with the Mac`
-ÓĞÒ»¶ÎÊ±¼ä£¬ËûµÄ»°Ö»ÓĞ²¿·ÖÊÇÕıÈ·µÄ¡£iPadÒ»ÉÏÊĞ¾ÍÂôµÃºÜºÃ£¬µ«¼¸Äêºó¾ÍÓöµ½ÁËÒ»Ğ©ÕÏ°­¡£ÇÇ²¼Ë¹È¥ÊÀºó£¬Æ»¹û¹«Ë¾ÈÎÆ¾iPadÖğ½¥Ë¥Âä£¬¶Ô´ıMacÒ²Í¬ÑùÈç´Ë
+For a while, he was only `partially right`. The iPad sold well `at launch`, but after a few years it `hit some hurdles`. After Jobsâ€™s death, Apple `left the iPad to languish, and did something similar with the Mac`
+æœ‰ä¸€æ®µæ—¶é—´ï¼Œä»–çš„è¯åªæœ‰éƒ¨åˆ†æ˜¯æ­£ç¡®çš„ã€‚iPadä¸€ä¸Šå¸‚å°±å–å¾—å¾ˆå¥½ï¼Œä½†å‡ å¹´åå°±é‡åˆ°äº†ä¸€äº›éšœç¢ã€‚ä¹”å¸ƒæ–¯å»ä¸–åï¼Œè‹¹æœå…¬å¸ä»»å‡­iPadé€æ¸è¡°è½ï¼Œå¯¹å¾…Macä¹ŸåŒæ ·å¦‚æ­¤
 
 The smartphone also `altered the business dynamics` of the tech industry, and `decimated a host of phone brands` (remember Nokia? Motorola?)
-ÖÇÄÜÊÖ»ú»¹¸Ä±äÁË¿Æ¼¼ĞĞÒµµÄÉÌÒµ¸ñ¾Ö, ´İ»ÙÁËĞí¶àÊÖ»úÆ·ÅÆ£¨»¹¼ÇµÃÅµ»ùÑÇÂğ£¿£©
+æ™ºèƒ½æ‰‹æœºè¿˜æ”¹å˜äº†ç§‘æŠ€è¡Œä¸šçš„å•†ä¸šæ ¼å±€, æ‘§æ¯äº†è®¸å¤šæ‰‹æœºå“ç‰Œï¼ˆè¿˜è®°å¾—è¯ºåŸºäºšå—ï¼Ÿï¼‰
 
-Apple¡¯s dominance `came despite the fact` that the company made some big mistakes and was late to many big innovations. Samsung, not Apple, invented huge-screen phones. Apple¡¯s Mac line `was plagued by delays and dead ends`
-Æ»¹û¹«Ë¾Õ¼¾İÖ÷µ¼µØÎ»µÄÍ¬Ê±Ò²·¸ÁËÒ»Ğ©´ó´í£¬¶øÇÒÔÚºÜ¶àÖØ´ó´´ĞÂÉÏ¶¼ÍíÁËÒ»²½¡£·¢Ã÷´óÆÁÄ»ÊÖ»úµÄ²»ÊÇÆ»¹û£¬¶øÊÇÈıĞÇ¡£Æ»¹ûµÄMacÏµÁĞ²úÆ·ÆµÆµ³öÏÖÑÓÆÚ£¬ÕÒ²»µ½³öÂ·
+Appleâ€™s dominance `came despite the fact` that the company made some big mistakes and was late to many big innovations. Samsung, not Apple, invented huge-screen phones. Appleâ€™s Mac line `was plagued by delays and dead ends`
+è‹¹æœå…¬å¸å æ®ä¸»å¯¼åœ°ä½çš„åŒæ—¶ä¹ŸçŠ¯äº†ä¸€äº›å¤§é”™ï¼Œè€Œä¸”åœ¨å¾ˆå¤šé‡å¤§åˆ›æ–°ä¸Šéƒ½æ™šäº†ä¸€æ­¥ã€‚å‘æ˜å¤§å±å¹•æ‰‹æœºçš„ä¸æ˜¯è‹¹æœï¼Œè€Œæ˜¯ä¸‰æ˜Ÿã€‚è‹¹æœçš„Macç³»åˆ—äº§å“é¢‘é¢‘å‡ºç°å»¶æœŸï¼Œæ‰¾ä¸åˆ°å‡ºè·¯
 
-The three days `leading up to` Thanksgiving are manic at Kau Kau BBQ Market & Restaurant, `a mainstay` in Seattle¡¯s Chinatown that `specializes in` Chinese barbecue. At least two extra cooks are brought on to help `clean, brine, dry, baste and roast` holiday turkeys 24 hours a day in the kitchen¡¯s already `packed ovens: crisp-skinned, five-spice-seasoned birds` that Kau Kau makes according to the same process it uses for its roast duck.
-¸Ğ¶÷½ÚÇ°µÄÈıÌì£¬ÇÉÇÉº£ÏÊÉÕÀ°·¹µêÒ»Æ¬Ã¦ÂÒ£¬ÕâÊÇÎ÷ÑÅÍ¼»ª²ºÖ÷´òÖĞÊ½ÉÕ¿¾µÄÒ»¼ÒÕĞÅÆ²ÍÌü¡£²ÍÌüÖÁÉÙ¶à¹ÍÁËÁ½Ãû³øÊ¦£¬°ïÃ¦Ò»Ìì24Ğ¡Ê±ÇåÏ´¡¢ëç×Õ¡¢·ç¸É»ğ¼¦£¬È»ºóË¢Ö­Èû½øÒÑ¾­ÂúÂúµ±µ±µÄ¿¾ÏäÀï¿¾£ºÇÉÇÉÓÃÖÆ×÷¿¾Ñ¼µÄÍ¬ÑùÁ÷³ÌÖÆ×÷µÄ´àÆ¤ÎåÏã»ğ¼¦
+The three days `leading up to` Thanksgiving are manic at Kau Kau BBQ Market & Restaurant, `a mainstay` in Seattleâ€™s Chinatown that `specializes in` Chinese barbecue. At least two extra cooks are brought on to help `clean, brine, dry, baste and roast` holiday turkeys 24 hours a day in the kitchenâ€™s already `packed ovens: crisp-skinned, five-spice-seasoned birds` that Kau Kau makes according to the same process it uses for its roast duck.
+æ„Ÿæ©èŠ‚å‰çš„ä¸‰å¤©ï¼Œå·§å·§æµ·é²œçƒ§è…Šé¥­åº—ä¸€ç‰‡å¿™ä¹±ï¼Œè¿™æ˜¯è¥¿é›…å›¾ååŸ ä¸»æ‰“ä¸­å¼çƒ§çƒ¤çš„ä¸€å®¶æ‹›ç‰Œé¤å…ã€‚é¤å…è‡³å°‘å¤šé›‡äº†ä¸¤åå¨å¸ˆï¼Œå¸®å¿™ä¸€å¤©24å°æ—¶æ¸…æ´—ã€è…Œæ¸ã€é£å¹²ç«é¸¡ï¼Œç„¶ååˆ·æ±å¡è¿›å·²ç»æ»¡æ»¡å½“å½“çš„çƒ¤ç®±é‡Œçƒ¤ï¼šå·§å·§ç”¨åˆ¶ä½œçƒ¤é¸­çš„åŒæ ·æµç¨‹åˆ¶ä½œçš„è„†çš®äº”é¦™ç«é¸¡
 
 There is one day of the year when roast duck, `soy-sauce chicken, char siu and crispy roast pork` may be cast aside for `plump turkeys`. Available from chains like 99 Ranch Market and `mom-and-pop shops alike`, and often with `sticky rice, steamed buns and hoisin-based sauces` on the side, these Chinese barbecue-style turkeys provide `an inroad to` Thanksgiving for many Chinese-Americans
-Ò»ÄêÖĞ×ÜÓĞÒ»Ìì£¬¿¾Ñ¼¡¢½´ÓÍ¼¦¡¢²æÉÕºÍ´àÆ¤ÉÕÈâ¿ÉÄÜ»á±»ÈËÃÇÅ×µ½Ò»±ß£¬×ª¶øÏíÓÃÔ²¹ö¹öµÄ»ğ¼¦¡£ÕâÖÖÖĞÊ½ÉÕ¿¾»ğ¼¦¿ÉÒÔ´Ó´ó»ª³¬¼¶ÊĞ³¡ºÍ·òÆŞµµµêÆÌÂòµ½£¬Ò»°ã»áÅäÉÏÅ´Ã×¡¢ÂøÍ·ºÍº£ÏÊ½´£¬¶ÔºÜ¶à»ªÒáÃÀ¹úÈË¶øÑÔ£¬ËüÃÇÊÇÍù¸Ğ¶÷½ÚÖĞ×¢Èë×Ô¼ºµÄÓ°ÏìµÄÒ»¸öºÃ°ì·¨
+ä¸€å¹´ä¸­æ€»æœ‰ä¸€å¤©ï¼Œçƒ¤é¸­ã€é…±æ²¹é¸¡ã€å‰çƒ§å’Œè„†çš®çƒ§è‚‰å¯èƒ½ä¼šè¢«äººä»¬æŠ›åˆ°ä¸€è¾¹ï¼Œè½¬è€Œäº«ç”¨åœ†æ»šæ»šçš„ç«é¸¡ã€‚è¿™ç§ä¸­å¼çƒ§çƒ¤ç«é¸¡å¯ä»¥ä»å¤§åè¶…çº§å¸‚åœºå’Œå¤«å¦»æ¡£åº—é“ºä¹°åˆ°ï¼Œä¸€èˆ¬ä¼šé…ä¸Šç³¯ç±³ã€é¦’å¤´å’Œæµ·é²œé…±ï¼Œå¯¹å¾ˆå¤šåè£”ç¾å›½äººè€Œè¨€ï¼Œå®ƒä»¬æ˜¯å¾€æ„Ÿæ©èŠ‚ä¸­æ³¨å…¥è‡ªå·±çš„å½±å“çš„ä¸€ä¸ªå¥½åŠæ³•
 
-¡°If they don¡¯t, we usually `kind of worry`,¡± Mr. Chang said. ¡°We `hope nothing happened to them`.¡±
-¡°Èç¹ûËûÃÇÃ»µã£¬ÎÒÃÇÍ¨³£»áÓĞµãµ£ĞÄ£¬¡±Àí²éµÂ¡¤ÕÅËµ¡£¡°ÎÒÃÇÏ£ÍûËûÃÇÆ½°²ÎŞÊÂ¡£¡±
+â€œIf they donâ€™t, we usually `kind of worry`,â€ Mr. Chang said. â€œWe `hope nothing happened to them`.â€
+â€œå¦‚æœä»–ä»¬æ²¡ç‚¹ï¼Œæˆ‘ä»¬é€šå¸¸ä¼šæœ‰ç‚¹æ‹…å¿ƒï¼Œâ€ç†æŸ¥å¾·Â·å¼ è¯´ã€‚â€œæˆ‘ä»¬å¸Œæœ›ä»–ä»¬å¹³å®‰æ— äº‹ã€‚â€
 
 But `the main draw of` a turkey roasted according to `the lengthy procedures` of professional Chinese barbecue is `juicy, flavorful meat`.
-µ«°´ÕÕÖĞ¹ú×¨ÒµÉÕ¿¾µÄÂş³¤³ÌĞò¿¾ÖÆµÄ»ğ¼¦£¬Ö÷ÒªÎüÒıÁ¦ÊÇ¶àÖ­¡¢ÃÀÎ¶µÄÈâ
+ä½†æŒ‰ç…§ä¸­å›½ä¸“ä¸šçƒ§çƒ¤çš„æ¼«é•¿ç¨‹åºçƒ¤åˆ¶çš„ç«é¸¡ï¼Œä¸»è¦å¸å¼•åŠ›æ˜¯å¤šæ±ã€ç¾å‘³çš„è‚‰
 
-`Rather than filling the turkey¡¯s cavity with a bready stuffing` to roast, Chinese barbecue cooks typically fill it many hours ahead `with a wet, mushy marinade` that may include toasted `dry spices, onions, garlic, ginger and plenty of salt`, then `skewer the cavity shut`.
-ÖĞ¹úµÄÉÕ¿¾³øÊ¦Í¨³£»áÌáÇ°¼¸Ğ¡Ê±ÓÃÊªºı×´µÄëçÁÏÌîÂú»ğ¼¦Ç»£¬ÆäÖĞ¿ÉÄÜ°üÀ¨ºæ¿¾¹ıµÄ¸ÉÏãÁÏ¡¢Ñó´Ğ¡¢´óËâ¡¢½ªºÍ´óÁ¿µÄÑÎ£¬È»ºóÓÃ´®ÈâÇ¤°ÑÄÚÇ»ºÏÉÏ£¬¶ø²»ÊÇÓÃÃæ°üÌîÁÏÌîÂúÇ»Ìå£¬½øĞĞ¿¾ÖÆ
+`Rather than filling the turkeyâ€™s cavity with a bready stuffing` to roast, Chinese barbecue cooks typically fill it many hours ahead `with a wet, mushy marinade` that may include toasted `dry spices, onions, garlic, ginger and plenty of salt`, then `skewer the cavity shut`.
+ä¸­å›½çš„çƒ§çƒ¤å¨å¸ˆé€šå¸¸ä¼šæå‰å‡ å°æ—¶ç”¨æ¹¿ç³ŠçŠ¶çš„è…Œæ–™å¡«æ»¡ç«é¸¡è…”ï¼Œå…¶ä¸­å¯èƒ½åŒ…æ‹¬çƒ˜çƒ¤è¿‡çš„å¹²é¦™æ–™ã€æ´‹è‘±ã€å¤§è’œã€å§œå’Œå¤§é‡çš„ç›ï¼Œç„¶åç”¨ä¸²è‚‰æ‰¦æŠŠå†…è…”åˆä¸Šï¼Œè€Œä¸æ˜¯ç”¨é¢åŒ…å¡«æ–™å¡«æ»¡è…”ä½“ï¼Œè¿›è¡Œçƒ¤åˆ¶
 
-He `passed that knowledge on to` his sons, although the brothers have `made slight tweaks to the classic recipes`. That includes the shop¡¯s Thanksgiving turkey, which `dates back to the time before` their father joined the business
-Ëû°ÑÕâĞ©ÖªÊ¶´«¸øÁËÁ½¸ö¶ù×Ó£¬¾¡¹ÜĞÖµÜÁ©¶ÔÕâĞ©¾­µäÊ³Æ××öÁËĞ©Ğ¡µÄĞŞ¸Ä¡£ÆäÖĞ°üÀ¨Õâ¼ÒµêµÄ¸Ğ¶÷½Ú»ğ¼¦£¬ÕâµÀ²ËÔÚËûÃÇµÄ¸¸Ç×½øÈëÕâ¼Òµê¹¤×÷Ö®Ç°¾ÍÒÑ¾­ÓĞÁË
+He `passed that knowledge on to` his sons, although the brothers have `made slight tweaks to the classic recipes`. That includes the shopâ€™s Thanksgiving turkey, which `dates back to the time before` their father joined the business
+ä»–æŠŠè¿™äº›çŸ¥è¯†ä¼ ç»™äº†ä¸¤ä¸ªå„¿å­ï¼Œå°½ç®¡å…„å¼Ÿä¿©å¯¹è¿™äº›ç»å…¸é£Ÿè°±åšäº†äº›å°çš„ä¿®æ”¹ã€‚å…¶ä¸­åŒ…æ‹¬è¿™å®¶åº—çš„æ„Ÿæ©èŠ‚ç«é¸¡ï¼Œè¿™é“èœåœ¨ä»–ä»¬çš„çˆ¶äº²è¿›å…¥è¿™å®¶åº—å·¥ä½œä¹‹å‰å°±å·²ç»æœ‰äº†
 
 For their `in-demand turkey`, the Cheungs apply `a dry rub of Chinese spices like star anise and licorice to the cavity`, then fill it with `a mixture of onions, garlic and celery`. The turkeys, like ducks, are then `skewered up to close` the cavity, `scalded with hot water to tighten the skin` and clean off any `seasoning mixture, coated in vinegar`, and hung to dry for 12 hours
-¶ÔÓÚËûÃÇµÄÈÈÏú»ğ¼¦£¬Ö£ÊÏĞÖµÜ½«°Ë½ÇºÍ¸Ê²İµÈÖĞ¹úÏãÁÏ¸É²ÁÔÚ»ğ¼¦Ç»ÄÚ±Ú£¬ÔÙÓÃÑó´Ğ¡¢´óËâºÍÇÛ²ËµÄ»ìºÏÎïÌîÂú»ğ¼¦Ç»¡£È»ºó£¬°Ñ»ğ¼¦ÏñÑ¼×ÓÒ»Ñù´®Æğ£¬ºÏÉÏÇ»Ìå£¬ÓÃÈÈË®ÌÌÒ»ÏÂ£¬ÊÕ½ô¼¦Æ¤£¬ÇåÀíµôÈÎºÎµ÷ÁÏ»ìºÏÎï£¬Í¿ÉÏ´×£¬¹ÒÆğÀ´ÁÀ12¸öĞ¡Ê±
+å¯¹äºä»–ä»¬çš„çƒ­é”€ç«é¸¡ï¼Œéƒ‘æ°å…„å¼Ÿå°†å…«è§’å’Œç”˜è‰ç­‰ä¸­å›½é¦™æ–™å¹²æ“¦åœ¨ç«é¸¡è…”å†…å£ï¼Œå†ç”¨æ´‹è‘±ã€å¤§è’œå’ŒèŠ¹èœçš„æ··åˆç‰©å¡«æ»¡ç«é¸¡è…”ã€‚ç„¶åï¼ŒæŠŠç«é¸¡åƒé¸­å­ä¸€æ ·ä¸²èµ·ï¼Œåˆä¸Šè…”ä½“ï¼Œç”¨çƒ­æ°´çƒ«ä¸€ä¸‹ï¼Œæ”¶ç´§é¸¡çš®ï¼Œæ¸…ç†æ‰ä»»ä½•è°ƒæ–™æ··åˆç‰©ï¼Œæ¶‚ä¸Šé†‹ï¼ŒæŒ‚èµ·æ¥æ™¾12ä¸ªå°æ—¶
 
-To `further set themselves apart from` other Chinese barbecue restaurants in the area, Eric Cheung created a Southern-style `cream gravy to go with their turkey, using the necks, gizzards and liver` ¡ª a twist he said `was inspired by his fondness` for chicken-fried steak at places like IHOP
-ÎªÁË½øÒ»²½½«×Ô¼ºÓë¸ÃµØÇøÆäËûÖĞ¹úÉÕ¿¾²ÍÌüÇø·Ö¿ªÀ´£¬°£Àï¿Ë¡¤Ö£ÓÃ¼¦²±¡¢ëÓºÍ¸ÎÖÆ×÷ÁËÒ»µÀÄÏ·½·çÎ¶µÄÄÌÓÍÈâÖ­À´´îÅäËûÃÇµÄ»ğ¼¦¡ª¡ªËûËµ£¬ÕâÒ»±ä»¯µÄÁé¸ĞÀ´×ÔÓÚËûÏ²»¶³ÔµÄIHOPµÈ²ÍÌüµÄÕ¨¼¦ÅÅ
+To `further set themselves apart from` other Chinese barbecue restaurants in the area, Eric Cheung created a Southern-style `cream gravy to go with their turkey, using the necks, gizzards and liver` â€” a twist he said `was inspired by his fondness` for chicken-fried steak at places like IHOP
+ä¸ºäº†è¿›ä¸€æ­¥å°†è‡ªå·±ä¸è¯¥åœ°åŒºå…¶ä»–ä¸­å›½çƒ§çƒ¤é¤å…åŒºåˆ†å¼€æ¥ï¼ŒåŸƒé‡Œå…‹Â·éƒ‘ç”¨é¸¡è„–ã€èƒ—å’Œè‚åˆ¶ä½œäº†ä¸€é“å—æ–¹é£å‘³çš„å¥¶æ²¹è‚‰æ±æ¥æ­é…ä»–ä»¬çš„ç«é¸¡â€”â€”ä»–è¯´ï¼Œè¿™ä¸€å˜åŒ–çš„çµæ„Ÿæ¥è‡ªäºä»–å–œæ¬¢åƒçš„IHOPç­‰é¤å…çš„ç‚¸é¸¡æ’
 
-For Hing Lung¡¯s customers, who are `predominantly Chinese-American`, the turkey `strikes a balance`, allowing them to `assimilate to American holiday conventions without sacrificing their tastes`. After all, what could be more American than `having things your way?`
-¶ÔÓÚÒÔÃÀ¼®»ªÈËÎªÖ÷µÄĞËÂ¡µÄ¹Ë¿Í¶øÑÔ£¬»ğ¼¦ÊµÏÖÁËÒ»ÖÖÆ½ºâ£¬ÈÃËûÃÇÔÚ²»ÎşÉü¿Ú¸ĞµÄÍ¬Ê±ÈÚÈëÃÀ¹úµÄ½ÚÈÕÏ°Ë×¡£±Ï¾¹£¬»¹ÓĞÊ²Ã´±ÈËæĞÄËùÓû¸ü¾ßÃÀ¹úÌØÉ«ÄØ?
+For Hing Lungâ€™s customers, who are `predominantly Chinese-American`, the turkey `strikes a balance`, allowing them to `assimilate to American holiday conventions without sacrificing their tastes`. After all, what could be more American than `having things your way?`
+å¯¹äºä»¥ç¾ç±åäººä¸ºä¸»çš„å…´éš†çš„é¡¾å®¢è€Œè¨€ï¼Œç«é¸¡å®ç°äº†ä¸€ç§å¹³è¡¡ï¼Œè®©ä»–ä»¬åœ¨ä¸ç‰ºç‰²å£æ„Ÿçš„åŒæ—¶èå…¥ç¾å›½çš„èŠ‚æ—¥ä¹ ä¿—ã€‚æ¯•ç«Ÿï¼Œè¿˜æœ‰ä»€ä¹ˆæ¯”éšå¿ƒæ‰€æ¬²æ›´å…·ç¾å›½ç‰¹è‰²å‘¢?
 
 American turkey can also be hard to `cook well. Prone to bland, dry breast meat and blackened wing tips`, the bulky bird is a challenge for home cooks all over
-¶øÇÒÃÀ¹ú»ğ¼¦Ò²ºÜÄÑ×öºÃ¡£´ó¿éÍ·µÄ»ğ¼¦ÈİÒ××ö³öµ­¶ø¸ÉÔïµÄĞØ¸¬ÈâºÍ±äºÚµÄÒí¼â£¬¶ÔËùÓĞµÄ¼ÒÍ¥³øÊ¦À´Ëµ¶¼ÊÇÒ»¸öÌôÕ½
+è€Œä¸”ç¾å›½ç«é¸¡ä¹Ÿå¾ˆéš¾åšå¥½ã€‚å¤§å—å¤´çš„ç«é¸¡å®¹æ˜“åšå‡ºæ·¡è€Œå¹²ç‡¥çš„èƒ¸è„¯è‚‰å’Œå˜é»‘çš„ç¿¼å°–ï¼Œå¯¹æ‰€æœ‰çš„å®¶åº­å¨å¸ˆæ¥è¯´éƒ½æ˜¯ä¸€ä¸ªæŒ‘æˆ˜
 
 Many `were totally unaccustomed to` using their ovens, `let alone for such a large bird`, so they asked the restaurant for help. (Ovens are not a typical feature of home kitchens in China, and most Chinese home cooking occurs `on the stovetop`.)
-Ğí¶àÈËÍêÈ«²»Ï°¹ßÊ¹ÓÃËûÃÇµÄ¿¾Ïä£¬¸ü²»ÓÃËµÕâÃ´´óµÄ¼¦£¬ÓÚÊÇËûÃÇÏò²ÍÌüÇóÖú¡£(¿¾Ïä²¢·ÇÖĞ¹ú¼ÒÍ¥³ø·¿µÄµäĞÍÅäÖÃ£¬´ó¶àÊıÖĞ¹ú¼ÒÍ¥Åëâ¿¶¼ÔÚÔîÌ¨ÉÏ½øĞĞ¡£)
+è®¸å¤šäººå®Œå…¨ä¸ä¹ æƒ¯ä½¿ç”¨ä»–ä»¬çš„çƒ¤ç®±ï¼Œæ›´ä¸ç”¨è¯´è¿™ä¹ˆå¤§çš„é¸¡ï¼Œäºæ˜¯ä»–ä»¬å‘é¤å…æ±‚åŠ©ã€‚(çƒ¤ç®±å¹¶éä¸­å›½å®¶åº­å¨æˆ¿çš„å…¸å‹é…ç½®ï¼Œå¤§å¤šæ•°ä¸­å›½å®¶åº­çƒ¹é¥ªéƒ½åœ¨ç¶å°ä¸Šè¿›è¡Œã€‚)
 
-Their recipe has also `gradually changed to adapt to the oversize bird`. They started out with `a standard five-spice seasoning` based on their roast duck, but found it wasn¡¯t enough to `flavor whole turkeys`, which have a much higher ratio of meat to skin and bone. They added ginger and `cilantro` to the inside-brine mixture, and `boosted the overall seasoning` so it was stronger.
-ËûÃÇµÄÊ³Æ×Ò²Öğ½¥¸Ä±ä£¬ÒÔ±ãÊÊÓ¦ÕâÖÖ³¬´óÇİÀà¡£ËûÃÇÒ»¿ªÊ¼ÓÃµÄÊÇÊÊºÏ¿¾Ñ¼µÄ±ê×¼ÎåÏãµ÷ÁÏ£¬µ«·¢ÏÖÕâ²»×ãÒÔ¸øÕûÖ»»ğ¼¦µ÷Î¶£¬ÒòÎªºÍÑ¼×ÓÏà±È£¬ËüÃÇÈâ¶à£¬Æ¤ºÍ¹ÇÍ·ÉÙ¡£ËûÃÇÔÚÂ±Ö­ÖĞ¼ÓÈëÉú½ªºÍÏã²Ë£¬Ìá¸ßÕûÌåµ÷Î¶Ğ§¹û£¬Ê¹Æä¸ü¼ÓÅ¨Óô¡£
+Their recipe has also `gradually changed to adapt to the oversize bird`. They started out with `a standard five-spice seasoning` based on their roast duck, but found it wasnâ€™t enough to `flavor whole turkeys`, which have a much higher ratio of meat to skin and bone. They added ginger and `cilantro` to the inside-brine mixture, and `boosted the overall seasoning` so it was stronger.
+ä»–ä»¬çš„é£Ÿè°±ä¹Ÿé€æ¸æ”¹å˜ï¼Œä»¥ä¾¿é€‚åº”è¿™ç§è¶…å¤§ç¦½ç±»ã€‚ä»–ä»¬ä¸€å¼€å§‹ç”¨çš„æ˜¯é€‚åˆçƒ¤é¸­çš„æ ‡å‡†äº”é¦™è°ƒæ–™ï¼Œä½†å‘ç°è¿™ä¸è¶³ä»¥ç»™æ•´åªç«é¸¡è°ƒå‘³ï¼Œå› ä¸ºå’Œé¸­å­ç›¸æ¯”ï¼Œå®ƒä»¬è‚‰å¤šï¼Œçš®å’Œéª¨å¤´å°‘ã€‚ä»–ä»¬åœ¨å¤æ±ä¸­åŠ å…¥ç”Ÿå§œå’Œé¦™èœï¼Œæé«˜æ•´ä½“è°ƒå‘³æ•ˆæœï¼Œä½¿å…¶æ›´åŠ æµ“éƒã€‚
 
-Bryan Cardenas, who is not of `Chinese descent`, has been `serving Sun Wah¡¯s turkey` at Thanksgiving for more than a decade. He has also `incorporated Chinese flavors into` his holiday cooking, `tinkering with dishes` like his fresh cranberry sauce. ¡°I added `a tablespoon` of Chinese five-spice,¡± he said. ¡°`It was out of this world.¡±`
-²¼À³¶÷¡¤¿¨µÂÄÉË¹²»ÊÇ»ªÒá£¬Ê®¶àÄêÀ´£¬Ëû¸Ğ¶÷½Ú³ÔµÄÒ»Ö±ÊÇĞÂ»ª¹©Ó¦µÄ»ğ¼¦¡£Ëû»¹½«ÖĞ¹ú·çÎ¶ÈÚÈëµ½×Ô¼ºµÄ¼ÙÈÕÅëâ¿ÖĞ£¬ÓÃËû×Ô¼ºµÄĞÂÏÊÂûÔ½İ®½´µÈ²ËÊ½½øĞĞĞ¡Ğ¡ĞŞ¸Ä¡£¡°ÎÒ¼ÓÁËÒ»´óÉ×ÖĞ¹úÎåÏã·Û£¬¡±ËûËµ¡£¡°¸Ğ¾õÌ«°ôÁË¡£¡±
+Bryan Cardenas, who is not of `Chinese descent`, has been `serving Sun Wahâ€™s turkey` at Thanksgiving for more than a decade. He has also `incorporated Chinese flavors into` his holiday cooking, `tinkering with dishes` like his fresh cranberry sauce. â€œI added `a tablespoon` of Chinese five-spice,â€ he said. â€œ`It was out of this world.â€`
+å¸ƒè±æ©Â·å¡å¾·çº³æ–¯ä¸æ˜¯åè£”ï¼Œåå¤šå¹´æ¥ï¼Œä»–æ„Ÿæ©èŠ‚åƒçš„ä¸€ç›´æ˜¯æ–°åä¾›åº”çš„ç«é¸¡ã€‚ä»–è¿˜å°†ä¸­å›½é£å‘³èå…¥åˆ°è‡ªå·±çš„å‡æ—¥çƒ¹é¥ªä¸­ï¼Œç”¨ä»–è‡ªå·±çš„æ–°é²œè”“è¶Šè“é…±ç­‰èœå¼è¿›è¡Œå°å°ä¿®æ”¹ã€‚â€œæˆ‘åŠ äº†ä¸€å¤§å‹ºä¸­å›½äº”é¦™ç²‰ï¼Œâ€ä»–è¯´ã€‚â€œæ„Ÿè§‰å¤ªæ£’äº†ã€‚â€
 
-But no one particularly cared if it was good or not: ¡°The only reason we wanted her to cook it was to `make congee` the next day,¡± Ms. Cheng said `with a laugh.`
-µ«ÊÇÃ»ÓĞÈËÌØ±ğÔÚÒâËüÊÇºÃÊÇ»µ£º¡°ÎÒÃÇÏëÈÃËı×öµÄÎ¨Ò»Ô­Òò¾ÍÊÇµÚ¶şÌì¿ÉÒÔ×öÖà£¬¡±Ö£ÎÄ²ÊĞ¦×ÅËµ
+But no one particularly cared if it was good or not: â€œThe only reason we wanted her to cook it was to `make congee` the next day,â€ Ms. Cheng said `with a laugh.`
+ä½†æ˜¯æ²¡æœ‰äººç‰¹åˆ«åœ¨æ„å®ƒæ˜¯å¥½æ˜¯åï¼šâ€œæˆ‘ä»¬æƒ³è®©å¥¹åšçš„å”¯ä¸€åŸå› å°±æ˜¯ç¬¬äºŒå¤©å¯ä»¥åšç²¥ï¼Œâ€éƒ‘æ–‡å½©ç¬‘ç€è¯´
 
-¡°It¡¯s such `an ingrained part` of American culture that we wanted to bring home, but to my parents, it was still `completely foreign` to them,¡± said Andrew Shiue, the Chinese-American writer behind the blog Beyond Chinatown. ¡°We wanted to `take part in this American tradition`.¡±
-¡°ÕâÊÇÃÀ¹úÎÄ»¯ÖĞ¸ùÉîµÙ¹ÌµÄÒ»²¿·Ö£¬ÎÒÃÇÏë°ÑËü´ø»Ø¼Ò£¬µ«Õâ¶ÔÎÒµÄ¸¸Ä¸À´Ëµ»¹ÊÇÍêÈ«Ä°ÉúµÄ£¬¡±²©¿Í¡°³ÇÀï³ÇÍâ¡±µÄ²©Ö÷£¬»ªÒáÃÀ¹ú×÷¼ÒÑ¦Î¨ÖĞ(Andrew Shiue)Ëµ¡£¡°ÎÒÃÇÏë¼ÓÈëÕâ¸öÃÀ¹ú´«Í³¡£¡±
+â€œItâ€™s such `an ingrained part` of American culture that we wanted to bring home, but to my parents, it was still `completely foreign` to them,â€ said Andrew Shiue, the Chinese-American writer behind the blog Beyond Chinatown. â€œWe wanted to `take part in this American tradition`.â€
+â€œè¿™æ˜¯ç¾å›½æ–‡åŒ–ä¸­æ ¹æ·±è’‚å›ºçš„ä¸€éƒ¨åˆ†ï¼Œæˆ‘ä»¬æƒ³æŠŠå®ƒå¸¦å›å®¶ï¼Œä½†è¿™å¯¹æˆ‘çš„çˆ¶æ¯æ¥è¯´è¿˜æ˜¯å®Œå…¨é™Œç”Ÿçš„ï¼Œâ€åšå®¢â€œåŸé‡ŒåŸå¤–â€çš„åšä¸»ï¼Œåè£”ç¾å›½ä½œå®¶è–›å”¯ä¸­(Andrew Shiue)è¯´ã€‚â€œæˆ‘ä»¬æƒ³åŠ å…¥è¿™ä¸ªç¾å›½ä¼ ç»Ÿã€‚â€
 
-Wilson Tang, the owner of Nom Wah `Tea Parlor` in Manhattan¡¯s Chinatown, said his family `dabbled in roasting turkey` at home when he was growing up, with results that were `¡°hit or miss.¡±`
-Âü¹ş¶Ù»ª²ºÄÏ»ª²èÊÒ(Nom Wah Tea Parlor)µÄÀÏ°åµËÎ°Ëµ£¬ÔÚËûĞ¡Ê±ºò£¬ËûµÄ¼ÒÈËÔøÔÚ¼ÒÀï³¢ÊÔ¿¾»ğ¼¦£¬×îÖÕ½á¹ûÈçºÎÒª¡°¿´ÔËÆø¡±¡£
+Wilson Tang, the owner of Nom Wah `Tea Parlor` in Manhattanâ€™s Chinatown, said his family `dabbled in roasting turkey` at home when he was growing up, with results that were `â€œhit or miss.â€`
+æ›¼å“ˆé¡¿ååŸ å—åèŒ¶å®¤(Nom Wah Tea Parlor)çš„è€æ¿é‚“ä¼Ÿè¯´ï¼Œåœ¨ä»–å°æ—¶å€™ï¼Œä»–çš„å®¶äººæ›¾åœ¨å®¶é‡Œå°è¯•çƒ¤ç«é¸¡ï¼Œæœ€ç»ˆç»“æœå¦‚ä½•è¦â€œçœ‹è¿æ°”â€ã€‚
 
-Yee Li, on nearby Bayard Street, became his family¡¯s `go-to source`. The meat was `moister` than American-style turkey, Mr. Tang said, and the shop would also `carve the turkey in neat pieces`, just like a roast duck or `soy-sauce chicken.`
-¸½½ü°ÚÒ²½ÖÉÏµÄÔ£ÀûÈâÆÌ(Yee Li)ÊÇËû¼Ò¹ºÂò»ğ¼¦µÄÖ÷ÒªÈ¥´¦¡£µËÎ°Ëµ£¬ÄÇÀïµÄÈâ±ÈÃÀÊ½»ğ¼¦¶àÖ­£¬¶øÇÒµê¼Ò»¹»á°Ñ»ğ¼¦ÇĞ³ÉÕûÆëµÄĞ¡¿é£¬¾ÍÏñ¿¾Ñ¼»òôùÓÍ¼¦Ò»Ñù¡£
+Yee Li, on nearby Bayard Street, became his familyâ€™s `go-to source`. The meat was `moister` than American-style turkey, Mr. Tang said, and the shop would also `carve the turkey in neat pieces`, just like a roast duck or `soy-sauce chicken.`
+é™„è¿‘æ‘†ä¹Ÿè¡—ä¸Šçš„è£•åˆ©è‚‰é“º(Yee Li)æ˜¯ä»–å®¶è´­ä¹°ç«é¸¡çš„ä¸»è¦å»å¤„ã€‚é‚“ä¼Ÿè¯´ï¼Œé‚£é‡Œçš„è‚‰æ¯”ç¾å¼ç«é¸¡å¤šæ±ï¼Œè€Œä¸”åº—å®¶è¿˜ä¼šæŠŠç«é¸¡åˆ‡æˆæ•´é½çš„å°å—ï¼Œå°±åƒçƒ¤é¸­æˆ–è±‰æ²¹é¸¡ä¸€æ ·ã€‚
 
 Although Yee Li closed this year after more than 30 years on Bayard Street, John Chan, `a scion of `the family that had owned the shop, opened New Yee Li in January in Dyker Heights, Brooklyn, `filling a niche for classic Cantonese roast meats and other specialties` in an area with a growing population of Chinese immigrants.
-Ô£ÀûÔÚ°ÚÒ²½ÖÉÏ¾­ÓªÁË30¶àÄê£¬ÓÚ½ñÄê¹ØÃÅĞªÒµ£¬ÆäËùÓĞÕßµÄºóÒáÔ¼º²¡¤³ÂÓÚ1ÔÂÔÚ²¼Â³¿ËÁÖµÄ´÷¿Ë¸ßµØ¿ªÁËĞÂÔ£Àû(New Yee Li)£¬ÓÃ´«Í³ÔÁÊ½¿¾ÈâºÍÆäËûÌØÉ«²ËÌî²¹Õâ¸öÖĞ¹úÒÆÃñÈË¿Ú²»¶ÏÔö³¤µØÇøµÄĞ¡ÊĞ³¡¡£
+è£•åˆ©åœ¨æ‘†ä¹Ÿè¡—ä¸Šç»è¥äº†30å¤šå¹´ï¼Œäºä»Šå¹´å…³é—¨æ­‡ä¸šï¼Œå…¶æ‰€æœ‰è€…çš„åè£”çº¦ç¿°Â·é™ˆäº1æœˆåœ¨å¸ƒé²å…‹æ—çš„æˆ´å…‹é«˜åœ°å¼€äº†æ–°è£•åˆ©(New Yee Li)ï¼Œç”¨ä¼ ç»Ÿç²¤å¼çƒ¤è‚‰å’Œå…¶ä»–ç‰¹è‰²èœå¡«è¡¥è¿™ä¸ªä¸­å›½ç§»æ°‘äººå£ä¸æ–­å¢é•¿åœ°åŒºçš„å°å¸‚åœºã€‚
 
-Quick, who is your favorite president? Is it Abraham Lincoln? Well, you¡¯ll never believe this but Tom Hanks `is related to him`. The `maiden name` of Lincoln¡¯s mother, Nancy, was Hanks, and yes, it¡¯s the same Hanks.
-ÎÊÒ»ÏÂ£¬Äã×îÏ²»¶µÄ×ÜÍ³ÊÇ£¿ÊÇÑÇ²®À­º±¡¤ÁÖ¿ÏÂğ£¿Äã¾ø¶Ô²»»áÏàĞÅ£¬ÌÀÄ·¡¤ºº¿ËË¹ºÍËûÊÇÇ×Æİ¡£ÁÖ¿ÏÄ¸Ç×ÄÏÏ£µÄÄï¼ÒĞÕÊÇºº¿ËË¹£¬Ã»´í£¬¾ÍÊÇÕâ¸öºº¿ËË¹¡£
+Quick, who is your favorite president? Is it Abraham Lincoln? Well, youâ€™ll never believe this but Tom Hanks `is related to him`. The `maiden name` of Lincolnâ€™s mother, Nancy, was Hanks, and yes, itâ€™s the same Hanks.
+é—®ä¸€ä¸‹ï¼Œä½ æœ€å–œæ¬¢çš„æ€»ç»Ÿæ˜¯ï¼Ÿæ˜¯äºšä¼¯æ‹‰ç½•Â·æ—è‚¯å—ï¼Ÿä½ ç»å¯¹ä¸ä¼šç›¸ä¿¡ï¼Œæ±¤å§†Â·æ±‰å…‹æ–¯å’Œä»–æ˜¯äº²æˆšã€‚æ—è‚¯æ¯äº²å—å¸Œçš„å¨˜å®¶å§“æ˜¯æ±‰å…‹æ–¯ï¼Œæ²¡é”™ï¼Œå°±æ˜¯è¿™ä¸ªæ±‰å…‹æ–¯ã€‚
 
-Once, in 2015, he `stopped by a table` of Girl Scout Cookies and bought some boxes, donated an additional $20, then `offered selfies to passersby as an enticement to buy`. That same year, he found a young woman¡¯s student ID in a park and used `his charming Twitter feed`, which is filled with found items, to get it back to her
-ÓĞÒ»´Î£¬2015Äê£¬ËûÔÚÒ»¸öÅ®Í¯×Ó¾ü±ı¸ÉÌ¯Ç°×¤×ã£¬ÂòÁË¼¸ºĞ±ı¸É£¬ÓÖ¾èÁË20ÃÀÔª£¬È»ºóÏòÂ·ÈËÌá¹©ºÏÓ°»ú»á£¬ÎüÒıËûÃÇÂò±ı¸É¡£Í¬Ò»Äê£¬ËûÔÚ¹«Ô°Àï¼ñµ½Ò»¸öÅ®º¢µÄÑ§ÉúÖ¤£¬ËûÀûÓÃËûÄÇÕĞÈËÏ²°®µÄTwitterÕËºÅ¡ª¡ªÀïÃæÓĞ¸÷ÖÖÒÅÊ§ÎïÆ·µÄÕÕÆ¬¡ª¡ª°ÑÖ¤¼ş»¹¸øÁËËı
+Once, in 2015, he `stopped by a table` of Girl Scout Cookies and bought some boxes, donated an additional $20, then `offered selfies to passersby as an enticement to buy`. That same year, he found a young womanâ€™s student ID in a park and used `his charming Twitter feed`, which is filled with found items, to get it back to her
+æœ‰ä¸€æ¬¡ï¼Œ2015å¹´ï¼Œä»–åœ¨ä¸€ä¸ªå¥³ç«¥å­å†›é¥¼å¹²æ‘Šå‰é©»è¶³ï¼Œä¹°äº†å‡ ç›’é¥¼å¹²ï¼Œåˆæäº†20ç¾å…ƒï¼Œç„¶åå‘è·¯äººæä¾›åˆå½±æœºä¼šï¼Œå¸å¼•ä»–ä»¬ä¹°é¥¼å¹²ã€‚åŒä¸€å¹´ï¼Œä»–åœ¨å…¬å›­é‡Œæ¡åˆ°ä¸€ä¸ªå¥³å­©çš„å­¦ç”Ÿè¯ï¼Œä»–åˆ©ç”¨ä»–é‚£æ‹›äººå–œçˆ±çš„Twitterè´¦å·â€”â€”é‡Œé¢æœ‰å„ç§é—å¤±ç‰©å“çš„ç…§ç‰‡â€”â€”æŠŠè¯ä»¶è¿˜ç»™äº†å¥¹
 
-¡°People have said that Tom is `Hollywood¡¯s Everyman`; that he¡¯s this generation¡¯s Jimmy Stewart or Gary Cooper. But he¡¯s just Tom Hanks. And that¡¯s enough. `That¡¯s more than enough`.¡± Two years later, Obama gave him `the Presidential Medal of Freedom.`
-¡°ÈËÃÇËµÌÀÄ·ÊÇºÃÀ³ÎëµÄÆÕÍ¨ÈË£»ËûÊÇÕâÒ»´úÈËµÄ¼ªÃ×¡¤Ë¹Í¼¶ûÌØ»ò¼ÓÀï¡¤¿âçê¡£µ«ËûÖ»ÊÇÌÀÄ·¡¤ºº¿ËË¹¡£Õâ¾Í×ã¹»ÁË¡£ÒÑ¾­Ì«¹»ÁË¡£¡±Á½Äêºó£¬°Â°ÍÂíÊÚÓèºº¿ËË¹×ÜÍ³×ÔÓÉÑ«ÕÂ¡£
+â€œPeople have said that Tom is `Hollywoodâ€™s Everyman`; that heâ€™s this generationâ€™s Jimmy Stewart or Gary Cooper. But heâ€™s just Tom Hanks. And thatâ€™s enough. `Thatâ€™s more than enough`.â€ Two years later, Obama gave him `the Presidential Medal of Freedom.`
+â€œäººä»¬è¯´æ±¤å§†æ˜¯å¥½è±åçš„æ™®é€šäººï¼›ä»–æ˜¯è¿™ä¸€ä»£äººçš„å‰ç±³Â·æ–¯å›¾å°”ç‰¹æˆ–åŠ é‡ŒÂ·åº“ç€ã€‚ä½†ä»–åªæ˜¯æ±¤å§†Â·æ±‰å…‹æ–¯ã€‚è¿™å°±è¶³å¤Ÿäº†ã€‚å·²ç»å¤ªå¤Ÿäº†ã€‚â€ä¸¤å¹´åï¼Œå¥¥å·´é©¬æˆäºˆæ±‰å…‹æ–¯æ€»ç»Ÿè‡ªç”±å‹‹ç« ã€‚
 
-That does not really ever happen, an actor waiting for me ahead of `the appointed time, versus clearly dreading me two hours past it`. ¡°I think a long time ago, I learned how important it was to `show up a little bit early`,¡± Hanks told me. ¡°`Be ready to go`, you know? And to respect the whole process, and I think that you could respect the whole process `even when` the other people don¡¯t.¡±
-ÕâÖÖÊÂÕæÊÇÇ°ËùÎ´ÓĞ£¬Ò»¸öÑİÔ±ÔÚÔ¼¶¨Ê±¼äÖ®Ç°µÈÎÒ£¬¶ø²»ÊÇÓÃ³Ùµ½Á½Ğ¡Ê±À´ÍşÏÅÎÒ¡£¡°ÎÒÏëºÜ¾ÃÒÔÇ°£¬ÎÒ¾ÍÖªµÀÔçµ½ÊÇ¶àÃ´ÖØÒª£¬¡±ºº¿ËË¹¸æËßÎÒ¡£¡°×öºÃ×¼±¸£¬¶Ô°É£¿×ğÖØÕû¸ö¹ı³Ì£¬ÎÒÈÏÎªÄã¿ÉÒÔ×ğÖØÕû¸ö¹ı³Ì£¬¼´Ê¹ÆäËûÈË²»ÊÇÄÇÃ´×ğÖØ¡£¡±
+That does not really ever happen, an actor waiting for me ahead of `the appointed time, versus clearly dreading me two hours past it`. â€œI think a long time ago, I learned how important it was to `show up a little bit early`,â€ Hanks told me. â€œ`Be ready to go`, you know? And to respect the whole process, and I think that you could respect the whole process `even when` the other people donâ€™t.â€
+è¿™ç§äº‹çœŸæ˜¯å‰æ‰€æœªæœ‰ï¼Œä¸€ä¸ªæ¼”å‘˜åœ¨çº¦å®šæ—¶é—´ä¹‹å‰ç­‰æˆ‘ï¼Œè€Œä¸æ˜¯ç”¨è¿Ÿåˆ°ä¸¤å°æ—¶æ¥å¨å“æˆ‘ã€‚â€œæˆ‘æƒ³å¾ˆä¹…ä»¥å‰ï¼Œæˆ‘å°±çŸ¥é“æ—©åˆ°æ˜¯å¤šä¹ˆé‡è¦ï¼Œâ€æ±‰å…‹æ–¯å‘Šè¯‰æˆ‘ã€‚â€œåšå¥½å‡†å¤‡ï¼Œå¯¹å§ï¼Ÿå°Šé‡æ•´ä¸ªè¿‡ç¨‹ï¼Œæˆ‘è®¤ä¸ºä½ å¯ä»¥å°Šé‡æ•´ä¸ªè¿‡ç¨‹ï¼Œå³ä½¿å…¶ä»–äººä¸æ˜¯é‚£ä¹ˆå°Šé‡ã€‚â€
 
-`In the panels after the premiere`, some of the questions seemed to be based on `the notion` that Tom Hanks is so wonderful and Mister Rogersy that he just had to show up and read some lines since hey, they¡¯re both `essentially the same: easygoing nice men` with graying hair.
-ÔÚÊ×Ó³Ê½ºóµÄ×ùÌ¸ÉÏ£¬ÓĞĞ©ÎÊÌâËÆºõÊÇ»ùÓÚÕâÑùÒ»ÖÖ¹ÛÄî£ºÌÀÄ·¡¤ºº¿ËË¹Ì«°ôÁË£¬ËûÖ»ÒªÒ»³ö³¡¡¢Ëµ¼¸¾äÌ¨´Ê¾ÍÊÇÂŞ½ÜË¹ÏÈÉú£¬ÒòÎª£¬ºÙ£¬ËûÃÇµÄ±¾ÖÊÊÇÒ»ÑùµÄ£ºËæºÍ¡¢ÓÑÉÆ¡¢Í··¢»¨°×µÄÄĞÈË¡£
+`In the panels after the premiere`, some of the questions seemed to be based on `the notion` that Tom Hanks is so wonderful and Mister Rogersy that he just had to show up and read some lines since hey, theyâ€™re both `essentially the same: easygoing nice men` with graying hair.
+åœ¨é¦–æ˜ å¼åçš„åº§è°ˆä¸Šï¼Œæœ‰äº›é—®é¢˜ä¼¼ä¹æ˜¯åŸºäºè¿™æ ·ä¸€ç§è§‚å¿µï¼šæ±¤å§†Â·æ±‰å…‹æ–¯å¤ªæ£’äº†ï¼Œä»–åªè¦ä¸€å‡ºåœºã€è¯´å‡ å¥å°è¯å°±æ˜¯ç½—æ°æ–¯å…ˆç”Ÿï¼Œå› ä¸ºï¼Œå˜¿ï¼Œä»–ä»¬çš„æœ¬è´¨æ˜¯ä¸€æ ·çš„ï¼šéšå’Œã€å‹å–„ã€å¤´å‘èŠ±ç™½çš„ç”·äººã€‚
 
-He is `most often cast in roles` that need what Robert Zemeckis (who directed ¡°Forrest Gump,¡± among other Hanks movies) calls ¡°that `classic Everyman quality`.¡± Over my reporting, many, many people told me what an Everyman he is.
-Ëû×î³£ÊÎÑİµÄÄÇĞ©½ÇÉ«¶¼ĞèÒª¡¶°¢¸ÊÕı´«¡·µÄµ¼ÑİÂŞ²®ÌØ¡¤ÔóÃ×»ùË¹ËùËµµÄÄÇÖÖ¡°¾­µäµÄÆÕÍ¨ÈËÆ·ÖÊ¡±¡£ÔÚÎÒ×ö²É·ÃÆÚ¼ä£¬ºÜ¶àºÜ¶àÈË¸æËßÎÒ£¬ºº¿ËË¹ÊÇÒ»¸öÆÕÍ¨ÈË¡£
+He is `most often cast in roles` that need what Robert Zemeckis (who directed â€œForrest Gump,â€ among other Hanks movies) calls â€œthat `classic Everyman quality`.â€ Over my reporting, many, many people told me what an Everyman he is.
+ä»–æœ€å¸¸é¥°æ¼”çš„é‚£äº›è§’è‰²éƒ½éœ€è¦ã€Šé˜¿ç”˜æ­£ä¼ ã€‹çš„å¯¼æ¼”ç½—ä¼¯ç‰¹Â·æ³½ç±³åŸºæ–¯æ‰€è¯´çš„é‚£ç§â€œç»å…¸çš„æ™®é€šäººå“è´¨â€ã€‚åœ¨æˆ‘åšé‡‡è®¿æœŸé—´ï¼Œå¾ˆå¤šå¾ˆå¤šäººå‘Šè¯‰æˆ‘ï¼Œæ±‰å…‹æ–¯æ˜¯ä¸€ä¸ªæ™®é€šäººã€‚
 
-He `was never angry at` his parents; he¡¯s still not. He saw `how hard it was for them to function`. They never explained things to him. Now he knows, ¡°it¡¯s because they didn¡¯t `have the verbiage`. They didn¡¯t `have the vocabulary`. And they `were so racked with self-loathing and guilt and et cetera`, all that stuff that `went along`, and there were four of us, for God¡¯s sake, and they just, you know, couldn¡¯t do it. Now, I¡¯ve got four kids myself, and as soon as you start having your own kids, you go, like, oh, I get it.¡±
-Ëû´Ó²»Éú¸¸Ä¸µÄÆø£»ÏÖÔÚÒÀÈ»Ã»ÓĞ¡£ËûÃ÷°×ËûÃÇºÜÄÑ¾¡µ½¸¸Ä¸µÄÖ°Ôğ¡£ËûÃÇ´Ó²»ÏòËû½âÊÍÈÎºÎÊÂÇé¡£ÏÖÔÚËûÃ÷°×ÁË£¬¡°ÄÇÊÇÒòÎªËûÃÇÃ»·¨³¤Æª´óÂÛ¡£ËûÃÇÎŞ»°¿ÉËµ¡£ËûÃÇ±»×ÔÔ÷ºÍÄÚ¾ÎÕâĞ©¶«Î÷ÕÛÄ¥µÃÍ´¿à²»¿°£¬ËùÓĞÕâĞ©¶¼ËæÖ®¶øÀ´£¬ÓĞËÄ¸öº¢×Ó£¬¿´ÔÚÉÏµÛµÄ·İÉÏ£¬ËûÃÇ¾ÍÊÇ×ö²»µ½¡£ÏÖÔÚ£¬ÎÒ×Ô¼ºÒ²ÓĞÁËËÄ¸öº¢×Ó£¬µ±Äã×Ô¼ºÓĞÁËº¢×ÓµÄÊ±ºò£¬Äã»áËµ£¬Å¶£¬ÎÒÃ÷°×ÁË¡£¡±
+He `was never angry at` his parents; heâ€™s still not. He saw `how hard it was for them to function`. They never explained things to him. Now he knows, â€œitâ€™s because they didnâ€™t `have the verbiage`. They didnâ€™t `have the vocabulary`. And they `were so racked with self-loathing and guilt and et cetera`, all that stuff that `went along`, and there were four of us, for Godâ€™s sake, and they just, you know, couldnâ€™t do it. Now, Iâ€™ve got four kids myself, and as soon as you start having your own kids, you go, like, oh, I get it.â€
+ä»–ä»ä¸ç”Ÿçˆ¶æ¯çš„æ°”ï¼›ç°åœ¨ä¾ç„¶æ²¡æœ‰ã€‚ä»–æ˜ç™½ä»–ä»¬å¾ˆéš¾å°½åˆ°çˆ¶æ¯çš„èŒè´£ã€‚ä»–ä»¬ä»ä¸å‘ä»–è§£é‡Šä»»ä½•äº‹æƒ…ã€‚ç°åœ¨ä»–æ˜ç™½äº†ï¼Œâ€œé‚£æ˜¯å› ä¸ºä»–ä»¬æ²¡æ³•é•¿ç¯‡å¤§è®ºã€‚ä»–ä»¬æ— è¯å¯è¯´ã€‚ä»–ä»¬è¢«è‡ªæ†å’Œå†…ç–šè¿™äº›ä¸œè¥¿æŠ˜ç£¨å¾—ç—›è‹¦ä¸å ªï¼Œæ‰€æœ‰è¿™äº›éƒ½éšä¹‹è€Œæ¥ï¼Œæœ‰å››ä¸ªå­©å­ï¼Œçœ‹åœ¨ä¸Šå¸çš„ä»½ä¸Šï¼Œä»–ä»¬å°±æ˜¯åšä¸åˆ°ã€‚ç°åœ¨ï¼Œæˆ‘è‡ªå·±ä¹Ÿæœ‰äº†å››ä¸ªå­©å­ï¼Œå½“ä½ è‡ªå·±æœ‰äº†å­©å­çš„æ—¶å€™ï¼Œä½ ä¼šè¯´ï¼Œå“¦ï¼Œæˆ‘æ˜ç™½äº†ã€‚â€
 
-He remembers Oprah once asked him on her show about `his dysfunctional family growing up`, and he thought, ¡°`What¡¯s that? Oh, that¡¯s us.`¡±
-Ëû¼ÇµÃ°ÂÆÕÀ­Ôø¾­ÔÚ½ÚÄ¿ÖĞÎÊËû£¬ÔÚ²»Õı³£µÄ¼ÒÍ¥³É³¤ÊÇÊ²Ã´ÑùµÄ¸ĞÊÜ£¬ËûÏë£¬¡°Ê²Ã´ÒâË¼£¿àŞ£¬ÊÇËµÎÒÃÇ¡£¡±
+He remembers Oprah once asked him on her show about `his dysfunctional family growing up`, and he thought, â€œ`Whatâ€™s that? Oh, thatâ€™s us.`â€
+ä»–è®°å¾—å¥¥æ™®æ‹‰æ›¾ç»åœ¨èŠ‚ç›®ä¸­é—®ä»–ï¼Œåœ¨ä¸æ­£å¸¸çš„å®¶åº­æˆé•¿æ˜¯ä»€ä¹ˆæ ·çš„æ„Ÿå—ï¼Œä»–æƒ³ï¼Œâ€œä»€ä¹ˆæ„æ€ï¼Ÿå™¢ï¼Œæ˜¯è¯´æˆ‘ä»¬ã€‚â€
 
-¡°`The Reality television show¡¯s` awareness of `safety precautions is too poor`,¡± Xu Zheng, a prominent actor and director, wrote on Weibo. ¡°`It must be held responsible`!¡±
-¡°ÕæÈËĞã½ÚÄ¿µÄ°²È«·À·¶ÒâÊ¶Ò²Ì«²îÁË£¬¡±ÖøÃûÑİÔ±¡¢µ¼ÑİĞìá¿ÔÚÎ¢²©ÉÏĞ´µÀ¡£¡°¾ø¶ÔÒª¸ºÔğ°¡£¡¡±
+â€œ`The Reality television showâ€™s` awareness of `safety precautions is too poor`,â€ Xu Zheng, a prominent actor and director, wrote on Weibo. â€œ`It must be held responsible`!â€
+â€œçœŸäººç§€èŠ‚ç›®çš„å®‰å…¨é˜²èŒƒæ„è¯†ä¹Ÿå¤ªå·®äº†ï¼Œâ€è‘—åæ¼”å‘˜ã€å¯¼æ¼”å¾å³¥åœ¨å¾®åšä¸Šå†™é“ã€‚â€œç»å¯¹è¦è´Ÿè´£å•Šï¼â€
 
 `Adrenaline-pumping moments are a staple`, often filmed at night in a downtown stretch of Ningbo. In one recent episode, a professional boxer `fell into a ball pit and struggled to emerge` as his teammates watched on.
-Ê¹ÈËÈÈÑª·ĞÌÚµÄĞË·ÜÊ±¿ÌÊÇ½ÚÄ¿µÄÖ÷ÒªÄÚÈİ£¬ÅÄÉãÏÖ³¡Í¨³£ÊÇÒ¹¼äµÄÄş²¨ÊĞÇø¡£ÔÚ×î½üµÄÒ»¼¯Àï£¬Ò»ÃûÖ°ÒµÈ­»÷ÔË¶¯Ô±µô½øÁËÒ»¸öÇò¿Ó£¬ÔÚ¶ÓÓÑµÄ×¢ÊÓÏÂÕõÔú×ÅÅÀÁË³öÀ´
+ä½¿äººçƒ­è¡€æ²¸è…¾çš„å…´å¥‹æ—¶åˆ»æ˜¯èŠ‚ç›®çš„ä¸»è¦å†…å®¹ï¼Œæ‹æ‘„ç°åœºé€šå¸¸æ˜¯å¤œé—´çš„å®æ³¢å¸‚åŒºã€‚åœ¨æœ€è¿‘çš„ä¸€é›†é‡Œï¼Œä¸€åèŒä¸šæ‹³å‡»è¿åŠ¨å‘˜æ‰è¿›äº†ä¸€ä¸ªçƒå‘ï¼Œåœ¨é˜Ÿå‹çš„æ³¨è§†ä¸‹æŒ£æ‰ç€çˆ¬äº†å‡ºæ¥
 
-Early on Wednesday, Mr. Gao was `filming a guest appearance on the ninth episode` of ¡°Chase Me¡± when he collapsed, according to the statement by the show¡¯s producers. The show¡¯s medical staff tried to `revive him`, but when they could not, Mr. Gao was taken to a hospital and `pronounced dead`, the producers said.
-¾İ½ÚÄ¿×éÖÜÈıÔçĞ©Ê±ºòµÄÉùÃ÷£¬¸ßÒÔÏèÔÚÅÄÉã¡¶×·ÎÒ°É¡·µÚ¾Å¼¯Ê±Í»È»ÔÎµ¹¡£½ÚÄ¿×éËµ£¬ÏÖ³¡µÄÒ½ÎñÈËÔ±ÊÔÍ¼¶ÔËû½øĞĞ¾ÈÖÎ£¬µ«Î´³É¹¦£¬¸ßÒÔÏè±»ËÍÍùÒ½Ôº£¬²¢ÔÚÄÇÀï±»Ğû²¼ËÀÍö
+Early on Wednesday, Mr. Gao was `filming a guest appearance on the ninth episode` of â€œChase Meâ€ when he collapsed, according to the statement by the showâ€™s producers. The showâ€™s medical staff tried to `revive him`, but when they could not, Mr. Gao was taken to a hospital and `pronounced dead`, the producers said.
+æ®èŠ‚ç›®ç»„å‘¨ä¸‰æ—©äº›æ—¶å€™çš„å£°æ˜ï¼Œé«˜ä»¥ç¿”åœ¨æ‹æ‘„ã€Šè¿½æˆ‘å§ã€‹ç¬¬ä¹é›†æ—¶çªç„¶æ™•å€’ã€‚èŠ‚ç›®ç»„è¯´ï¼Œç°åœºçš„åŒ»åŠ¡äººå‘˜è¯•å›¾å¯¹ä»–è¿›è¡Œæ•‘æ²»ï¼Œä½†æœªæˆåŠŸï¼Œé«˜ä»¥ç¿”è¢«é€å¾€åŒ»é™¢ï¼Œå¹¶åœ¨é‚£é‡Œè¢«å®£å¸ƒæ­»äº¡
 
-¡°Everyone can make a difference,¡± he wrote in a post in July, `¡°one small step at a time.¡±`¡°Ã¿¸öÈË¶¼ÄÜÓĞËù×÷Îª£¬¡±ËûÔÚ½ñÄê7ÔÂµÄÒ»¸öÌû×ÓÖĞĞ´µÀ£¬¡°Ö»Òª³ÖÖ®ÒÔºã¡£¡±
+â€œEveryone can make a difference,â€ he wrote in a post in July, `â€œone small step at a time.â€`â€œæ¯ä¸ªäººéƒ½èƒ½æœ‰æ‰€ä½œä¸ºï¼Œâ€ä»–åœ¨ä»Šå¹´7æœˆçš„ä¸€ä¸ªå¸–å­ä¸­å†™é“ï¼Œâ€œåªè¦æŒä¹‹ä»¥æ’ã€‚â€
 
-`Given that`, you might expect me to think that Thanksgiving is one of the most important days of the year. `After all`, if there¡¯s a day on which the benefits of gratitude are maximized, surely it¡¯s the national holiday `set aside for the purpose of expressing that emotion.`
-Òò´Ë£¬Äã¿ÉÄÜ»á¾õµÃÎÒÈÏÎª¸Ğ¶÷½ÚÊÇÒ»ÄêÖĞ×îÖØÒªµÄÈÕ×ÓÖ®Ò»¡£±Ï¾¹£¬Èç¹ûÄ³Ò»Ìì¸Ğ¶÷µÄºÃ´¦±»×î´ó»¯£¬ÄÇÕâÒ»ÌìÒ»¶¨»áÊÇÎªÁË±í´ïÕâÖÖ¸ĞÇé¶ø×¨ÃÅÉèÖÃµÄ¹ú¼Ò½ÚÈÕ.
+`Given that`, you might expect me to think that Thanksgiving is one of the most important days of the year. `After all`, if thereâ€™s a day on which the benefits of gratitude are maximized, surely itâ€™s the national holiday `set aside for the purpose of expressing that emotion.`
+å› æ­¤ï¼Œä½ å¯èƒ½ä¼šè§‰å¾—æˆ‘è®¤ä¸ºæ„Ÿæ©èŠ‚æ˜¯ä¸€å¹´ä¸­æœ€é‡è¦çš„æ—¥å­ä¹‹ä¸€ã€‚æ¯•ç«Ÿï¼Œå¦‚æœæŸä¸€å¤©æ„Ÿæ©çš„å¥½å¤„è¢«æœ€å¤§åŒ–ï¼Œé‚£è¿™ä¸€å¤©ä¸€å®šä¼šæ˜¯ä¸ºäº†è¡¨è¾¾è¿™ç§æ„Ÿæƒ…è€Œä¸“é—¨è®¾ç½®çš„å›½å®¶èŠ‚æ—¥.
 
-`But truth be told`, gratitude is wasted on Thanksgiving. `Don¡¯t get me wrong`: I love the `rhythms and rituals of the day as much as anyone`
-µ«ËµÊµ»°£¬¸Ğ¶÷ÔÚ¸Ğ¶÷½ÚÊµÊôÀË·Ñ¡£²»ÒªÎó½âÎÒµÄÒâË¼£ºÎÒºÍ´ó¼ÒÒ»ÑùÏ²»¶ÕâÒ»ÌìµÄ½Ú×àºÍÒÇÊ½´«Í³
+`But truth be told`, gratitude is wasted on Thanksgiving. `Donâ€™t get me wrong`: I love the `rhythms and rituals of the day as much as anyone`
+ä½†è¯´å®è¯ï¼Œæ„Ÿæ©åœ¨æ„Ÿæ©èŠ‚å®å±æµªè´¹ã€‚ä¸è¦è¯¯è§£æˆ‘çš„æ„æ€ï¼šæˆ‘å’Œå¤§å®¶ä¸€æ ·å–œæ¬¢è¿™ä¸€å¤©çš„èŠ‚å¥å’Œä»ªå¼ä¼ ç»Ÿ
 
-Consider that one of gratitude¡¯s `central purposes` is to help us `form strong bonds with` other people
-¸Ğ¶÷µÄºËĞÄÄ¿µÄÖ®Ò»£¬¾ÍÊÇ°ïÖúÎÒÃÇÓëËûÈË½¨Á¢ÀÎ¹ÌµÄÁªÏµ
+Consider that one of gratitudeâ€™s `central purposes` is to help us `form strong bonds with` other people
+æ„Ÿæ©çš„æ ¸å¿ƒç›®çš„ä¹‹ä¸€ï¼Œå°±æ˜¯å¸®åŠ©æˆ‘ä»¬ä¸ä»–äººå»ºç«‹ç‰¢å›ºçš„è”ç³»
 
-`To be clear`, I¡¯m not saying that taking time to `reflect on and show appreciation for the good in life isn¡¯t worthwhile`. It¡¯s surely `a noble act`. But from a scientific perspective ¡ª where emotions exist to `nudge our decisions and behaviors toward certain ends` ¡ª the benefits that gratitude offers `tend to be rendered irrelevant on the day it¡¯s most expressed`.
-ĞèÒªÃ÷È·µÄÊÇ£¬ÎÒ²¢²»ÊÇËµ»¨Ê±¼ä·´Ê¡¡¢±í´ï¶ÔÉú»îÖĞÃÀºÃÊÂÎïµÄĞÀÉÍÊÇ²»ÖµµÃµÄ¡£Õâµ±È»ÊÇÒ»ÖÖ¸ßÉĞµÄĞĞÎª¡£µ«´Ó¿ÆÑ§µÄ½Ç¶È¿´¡ª¡ªÇéĞ÷µÄ´æÔÚ»áÍÆ¶¯ÎÒÃÇ¾ö¶¨ºÍĞĞÎª³¯×ÅÌØ¶¨·½Ïò·¢Õ¹¡ª¡ª¸Ğ¶÷´øÀ´µÄºÃ´¦£¬ÍùÍùÔÚ±í´ï×î¶àµÄÄÇÒ»Ìì±äµÃÎŞ¹Ø½ôÒª
+`To be clear`, Iâ€™m not saying that taking time to `reflect on and show appreciation for the good in life isnâ€™t worthwhile`. Itâ€™s surely `a noble act`. But from a scientific perspective â€” where emotions exist to `nudge our decisions and behaviors toward certain ends` â€” the benefits that gratitude offers `tend to be rendered irrelevant on the day itâ€™s most expressed`.
+éœ€è¦æ˜ç¡®çš„æ˜¯ï¼Œæˆ‘å¹¶ä¸æ˜¯è¯´èŠ±æ—¶é—´åçœã€è¡¨è¾¾å¯¹ç”Ÿæ´»ä¸­ç¾å¥½äº‹ç‰©çš„æ¬£èµæ˜¯ä¸å€¼å¾—çš„ã€‚è¿™å½“ç„¶æ˜¯ä¸€ç§é«˜å°šçš„è¡Œä¸ºã€‚ä½†ä»ç§‘å­¦çš„è§’åº¦çœ‹â€”â€”æƒ…ç»ªçš„å­˜åœ¨ä¼šæ¨åŠ¨æˆ‘ä»¬å†³å®šå’Œè¡Œä¸ºæœç€ç‰¹å®šæ–¹å‘å‘å±•â€”â€”æ„Ÿæ©å¸¦æ¥çš„å¥½å¤„ï¼Œå¾€å¾€åœ¨è¡¨è¾¾æœ€å¤šçš„é‚£ä¸€å¤©å˜å¾—æ— å…³ç´§è¦
 
-When my colleagues and I asked people to report whether a coin they `flipped` in private `came up heads or tails` (heads meant they¡¯d get more money), those who had been made to feel grateful (by `counting their blessings`) cheated at half the rate of others. (We knew who cheated because the coin `was rigged to come up tails`.)
-µ±ÎÒºÍÍ¬ÊÂÃÇÈÃÈËÃÇ±¨¸æËûÃÇË½ÏÂÖÀ³öµÄÓ²±ÒÊÇÕıÃæ»¹ÊÇ·´ÃæÊ±£¨ÕıÃæÒâÎ¶×ÅËûÃÇ»áµÃµ½¸ü¶àÇ®£©£¬ÄÇĞ©£¨Í¨¹ıÀúÊı×Ô¼ºµÄĞÒ¸££©±äµÃĞÄ»³¸Ğ¼¤µÄÈË×÷±×ÂÊÖ»ÓĞÆäËûÈËµÄÒ»°ë¡££¨ÎÒÃÇÖªµÀË­×÷±×ÁË£¬ÒòÎªÓ²±Ò±»Éè¼Æ³É·´Ãæ³¯ÉÏ¡££©
+When my colleagues and I asked people to report whether a coin they `flipped` in private `came up heads or tails` (heads meant theyâ€™d get more money), those who had been made to feel grateful (by `counting their blessings`) cheated at half the rate of others. (We knew who cheated because the coin `was rigged to come up tails`.)
+å½“æˆ‘å’ŒåŒäº‹ä»¬è®©äººä»¬æŠ¥å‘Šä»–ä»¬ç§ä¸‹æ·å‡ºçš„ç¡¬å¸æ˜¯æ­£é¢è¿˜æ˜¯åé¢æ—¶ï¼ˆæ­£é¢æ„å‘³ç€ä»–ä»¬ä¼šå¾—åˆ°æ›´å¤šé’±ï¼‰ï¼Œé‚£äº›ï¼ˆé€šè¿‡å†æ•°è‡ªå·±çš„å¹¸ç¦ï¼‰å˜å¾—å¿ƒæ€€æ„Ÿæ¿€çš„äººä½œå¼Šç‡åªæœ‰å…¶ä»–äººçš„ä¸€åŠã€‚ï¼ˆæˆ‘ä»¬çŸ¥é“è°ä½œå¼Šäº†ï¼Œå› ä¸ºç¡¬å¸è¢«è®¾è®¡æˆåé¢æœä¸Šã€‚ï¼‰
 
-Research by me and my colleagues found that people feeling grateful `made less impulsive financial choices` ¡ª they were more willing to be patient for future investment gains than to `take smaller amounts of money in hand`
-ÎÒºÍÍ¬ÊÂµÄÑĞ¾¿·¢ÏÖ£¬¸Ğ¶÷µÄÈË¸üÉÙ×ö³å¶¯µÄ²ÆÎñÑ¡Ôñ¡ª¡ªËûÃÇ¸üÔ¸¶ÔÎ´À´µÄÍ¶×ÊÊÕÒæ±£³ÖÄÍĞÄ£¬¶ø²»ÊÇÌ°Í¼ÑÛÇ°Ğ¡Àû
+Research by me and my colleagues found that people feeling grateful `made less impulsive financial choices` â€” they were more willing to be patient for future investment gains than to `take smaller amounts of money in hand`
+æˆ‘å’ŒåŒäº‹çš„ç ”ç©¶å‘ç°ï¼Œæ„Ÿæ©çš„äººæ›´å°‘åšå†²åŠ¨çš„è´¢åŠ¡é€‰æ‹©â€”â€”ä»–ä»¬æ›´æ„¿å¯¹æœªæ¥çš„æŠ•èµ„æ”¶ç›Šä¿æŒè€å¿ƒï¼Œè€Œä¸æ˜¯è´ªå›¾çœ¼å‰å°åˆ©
 
-Gratitude also `drives us to be more productive.` There¡¯s one other benefit of gratitude I want to point out: `It reduces materialism`
-¸Ğ¶÷»¹»áÈÃÎÒÃÇ¸üÓĞĞ§ÂÊ, ÎÒÏëÖ¸³ö¸Ğ¶÷µÄÁíÒ»¸öºÃ´¦£ºËü¿ÉÒÔ¼õÉÙÎïÖÊÖ÷Òå
+Gratitude also `drives us to be more productive.` Thereâ€™s one other benefit of gratitude I want to point out: `It reduces materialism`
+æ„Ÿæ©è¿˜ä¼šè®©æˆ‘ä»¬æ›´æœ‰æ•ˆç‡, æˆ‘æƒ³æŒ‡å‡ºæ„Ÿæ©çš„å¦ä¸€ä¸ªå¥½å¤„ï¼šå®ƒå¯ä»¥å‡å°‘ç‰©è´¨ä¸»ä¹‰
 
 This finding `jibes with research` by the psychologist Thomas Gilovich that shows that people tend to be more grateful for time spent with others than for `gifts of big-ticket items`
-ÕâÒ»·¢ÏÖÓëĞÄÀíÑ§¼ÒÍĞÂíË¹¡¤»ùÂåÎ¬ÆæµÄÑĞ¾¿Ïà·û£¬¸ÃÑĞ¾¿±íÃ÷£¬±ÈÆğ°º¹óµÄÀñÎï£¬ÈËÃÇÍùÍù¶ÔÓëËûÈËÏà´¦µÄÊ±¼ä¸üÓĞ¸Ğ¼¤Ö®Çé
+è¿™ä¸€å‘ç°ä¸å¿ƒç†å­¦å®¶æ‰˜é©¬æ–¯Â·åŸºæ´›ç»´å¥‡çš„ç ”ç©¶ç›¸ç¬¦ï¼Œè¯¥ç ”ç©¶è¡¨æ˜ï¼Œæ¯”èµ·æ˜‚è´µçš„ç¤¼ç‰©ï¼Œäººä»¬å¾€å¾€å¯¹ä¸ä»–äººç›¸å¤„çš„æ—¶é—´æ›´æœ‰æ„Ÿæ¿€ä¹‹æƒ…
 
-Yet on the other 364 days of the year ¡ª the ones when you might feel lonely, `stressed at work, tempted to dishonesty or stinginess` ¡ª pausing to `cultivate a sense` of gratitude can make a big difference
-µ«ÔÚÒ»ÄêÖĞµÄÆäËû364Ìì¡ª¡ªÄÇĞ©Äã¿ÉÄÜ»á¸Ğµ½¹Â¶À¡¢¹¤×÷Ñ¹Á¦´ó¡¢ÊÜ»óÈ¥ÆÛÆ­»òĞ¡¼Ò×ÓÆøµÄÈÕ×ÓÀï£¬Í£ÏÂÀ´ÅàÑø¸Ğ¶÷Ö®ĞÄ¾Í»á´øÀ´ºÜ´óµÄ²»Í¬
+Yet on the other 364 days of the year â€” the ones when you might feel lonely, `stressed at work, tempted to dishonesty or stinginess` â€” pausing to `cultivate a sense` of gratitude can make a big difference
+ä½†åœ¨ä¸€å¹´ä¸­çš„å…¶ä»–364å¤©â€”â€”é‚£äº›ä½ å¯èƒ½ä¼šæ„Ÿåˆ°å­¤ç‹¬ã€å·¥ä½œå‹åŠ›å¤§ã€å—æƒ‘å»æ¬ºéª—æˆ–å°å®¶å­æ°”çš„æ—¥å­é‡Œï¼Œåœä¸‹æ¥åŸ¹å…»æ„Ÿæ©ä¹‹å¿ƒå°±ä¼šå¸¦æ¥å¾ˆå¤§çš„ä¸åŒ
 
 The `ripping sound you hear` is the sound of two giant economies starting to decouple.
-ÄãÌıµ½µÄËºÁÑÉù£¬ÊÇÁ½¸ö¾­¼Ã´ó¹ú¿ªÊ¼ÍÑ¹³µÄÉùÒô
+ä½ å¬åˆ°çš„æ’•è£‚å£°ï¼Œæ˜¯ä¸¤ä¸ªç»æµå¤§å›½å¼€å§‹è„±é’©çš„å£°éŸ³
 
-`Protracted visa delays` and ¡°`harsh rhetoric` against most immigrants,¡± Reif added, are sending a message that ¡°the U.S. is closing the door ¡ª that we no longer seek to be `a magnet for the world¡¯s most driven and creative individuals.¡±`
-Àµ·ò»¹Ëµ£¬³¤ÆÚµÄÇ©Ö¤ÑÓÎóºÍ¡°Õë¶Ô´ó¶àÊıÒÆÃñµÄÑÏÀ÷´ë´Ç¡±·¢³öÁËÕâÑùÒ»¸öĞÅÏ¢£¬¼´¡°ÃÀ¹úÕıÔÚ¹Ø±Õ´óÃÅ¡ª¡ªÎÒÃÇ²»ÔÙÑ°Çó³ÉÎª´ÅÊ¯£¬ÎüÒıÊÀ½çÉÏ×î¾ß¶¯Á¦ºÍ´´ÔìÁ¦µÄ¸öÈË¡±
+`Protracted visa delays` and â€œ`harsh rhetoric` against most immigrants,â€ Reif added, are sending a message that â€œthe U.S. is closing the door â€” that we no longer seek to be `a magnet for the worldâ€™s most driven and creative individuals.â€`
+èµ–å¤«è¿˜è¯´ï¼Œé•¿æœŸçš„ç­¾è¯å»¶è¯¯å’Œâ€œé’ˆå¯¹å¤§å¤šæ•°ç§»æ°‘çš„ä¸¥å‰æªè¾â€å‘å‡ºäº†è¿™æ ·ä¸€ä¸ªä¿¡æ¯ï¼Œå³â€œç¾å›½æ­£åœ¨å…³é—­å¤§é—¨â€”â€”æˆ‘ä»¬ä¸å†å¯»æ±‚æˆä¸ºç£çŸ³ï¼Œå¸å¼•ä¸–ç•Œä¸Šæœ€å…·åŠ¨åŠ›å’Œåˆ›é€ åŠ›çš„ä¸ªäººâ€
 
-This decoupling is not all Trump¡¯s fault ¡ª not `by a long shot`
-ÕâÖÖÍÑ¹³²¢²»È«ÊÇÌØÀÊÆÕµÄ´í¡ª¡ª¾ø¶Ô²»ÊÇ
+This decoupling is not all Trumpâ€™s fault â€” not `by a long shot`
+è¿™ç§è„±é’©å¹¶ä¸å…¨æ˜¯ç‰¹æœ—æ™®çš„é”™â€”â€”ç»å¯¹ä¸æ˜¯
 
-¡°Levi¡¯s started it all and definitely we have `had a lot of inspiration from` Levi¡¯s,¡± she said, ¡°but we `tend not to follow anyone and try to have our own originality.¡±`
-¡°ÀîÎ¬Ë¹¿ª´´ÁËÕâÒ»ÇĞ£¬ºÁÎŞÒÉÎÊ£¬ÎÒÃÇ´ÓÀîÎ¬Ë¹ÄÇÀïµÃµ½ÁËºÜ¶àÁé¸Ğ£¬¡±ËıËµ£¬¡°µ«ÎÒÃÇ²»»á¸ú×Å±ğÈË×ß£¬¶øÊÇÊÔ×ÅÄÃ³ö×Ô¼ºµÄ´´Òâ¡£¡±
+â€œLeviâ€™s started it all and definitely we have `had a lot of inspiration from` Leviâ€™s,â€ she said, â€œbut we `tend not to follow anyone and try to have our own originality.â€`
+â€œæç»´æ–¯å¼€åˆ›äº†è¿™ä¸€åˆ‡ï¼Œæ¯«æ— ç–‘é—®ï¼Œæˆ‘ä»¬ä»æç»´æ–¯é‚£é‡Œå¾—åˆ°äº†å¾ˆå¤šçµæ„Ÿï¼Œâ€å¥¹è¯´ï¼Œâ€œä½†æˆ‘ä»¬ä¸ä¼šè·Ÿç€åˆ«äººèµ°ï¼Œè€Œæ˜¯è¯•ç€æ‹¿å‡ºè‡ªå·±çš„åˆ›æ„ã€‚â€
 
-¡°They are uncomfortable at the beginning, as the material `is really quite stiff`. And also because `in the waist` you buy them quite tight at the beginning, about one inch,¡± Ms. Makino said. ¡°But if you can `bear with them for a while`, they `get really well-fitting` and you can just wear them every day.¡±
-¡°Ò»¿ªÊ¼»á²»Êæ·ş£¬ÒòÎªÃæÁÏÕæµÄºÜÓ²¡£¶øÇÒ¸ÕÂòÍêµÄÊ±ºò´©»á¸Ğ¾õÑü²¿±È½Ï½ô£¬´óÔ¼ÓĞÒ»Ó¢´ç£¬¡±ÄÁÒ°Ëµ¡£¡°µ«Èç¹ûÄãÄÜÈÌÊÜÒ»¶ÎÊ±¼ä£¬ËüÃÇ»á±äµÃ·Ç³£ºÏÉí£¬Äã¿ÉÒÔÃ¿Ìì¶¼´©¡£¡±
+â€œThey are uncomfortable at the beginning, as the material `is really quite stiff`. And also because `in the waist` you buy them quite tight at the beginning, about one inch,â€ Ms. Makino said. â€œBut if you can `bear with them for a while`, they `get really well-fitting` and you can just wear them every day.â€
+â€œä¸€å¼€å§‹ä¼šä¸èˆ’æœï¼Œå› ä¸ºé¢æ–™çœŸçš„å¾ˆç¡¬ã€‚è€Œä¸”åˆšä¹°å®Œçš„æ—¶å€™ç©¿ä¼šæ„Ÿè§‰è…°éƒ¨æ¯”è¾ƒç´§ï¼Œå¤§çº¦æœ‰ä¸€è‹±å¯¸ï¼Œâ€ç‰§é‡è¯´ã€‚â€œä½†å¦‚æœä½ èƒ½å¿å—ä¸€æ®µæ—¶é—´ï¼Œå®ƒä»¬ä¼šå˜å¾—éå¸¸åˆèº«ï¼Œä½ å¯ä»¥æ¯å¤©éƒ½ç©¿ã€‚â€
 
-To `make their own truly domestic denim`, Japanese manufacturers had to forget much of what they¡¯d learned in `a millennium of dyeing with indigo`. If the color went all the way through the fabric, the jeans `wouldn¡¯t fade`. They had to `dye the threads more shallowly`, maintaining a white center that would start to show over time
-ÎªÁËÖÆÔìÕæÕıÊôÓÚ±¾ÍÁµÄÅ£×Ğ£¬ÈÕ±¾ÖÆÔìÉÌ²»µÃ²»ÍüµôËûÃÇÔÚÇ§ÄêÀ¶È¾´«Í³ÖĞÑ§µ½µÄĞí¶à¶«Î÷¡£Èç¹ûÑÕÉ«ÉøÍ¸²¼ÁÏ£¬¾Í²»»áÍÊÉ«ÁË¡£ËûÃÇ²»µÃ²»½«Ïß¹ÉÈ¾µÃ¸üÇ³£¬±£³ÖÆäÖĞĞÄÊÇ°×É«£¬ÕâÑùËæ×ÅÊ±¼äµÄÍÆÒÆ£¬°×É«²Å»áÏÔÂ¶³öÀ´
+To `make their own truly domestic denim`, Japanese manufacturers had to forget much of what theyâ€™d learned in `a millennium of dyeing with indigo`. If the color went all the way through the fabric, the jeans `wouldnâ€™t fade`. They had to `dye the threads more shallowly`, maintaining a white center that would start to show over time
+ä¸ºäº†åˆ¶é€ çœŸæ­£å±äºæœ¬åœŸçš„ç‰›ä»”ï¼Œæ—¥æœ¬åˆ¶é€ å•†ä¸å¾—ä¸å¿˜æ‰ä»–ä»¬åœ¨åƒå¹´è“æŸ“ä¼ ç»Ÿä¸­å­¦åˆ°çš„è®¸å¤šä¸œè¥¿ã€‚å¦‚æœé¢œè‰²æ¸—é€å¸ƒæ–™ï¼Œå°±ä¸ä¼šè¤ªè‰²äº†ã€‚ä»–ä»¬ä¸å¾—ä¸å°†çº¿è‚¡æŸ“å¾—æ›´æµ…ï¼Œä¿æŒå…¶ä¸­å¿ƒæ˜¯ç™½è‰²ï¼Œè¿™æ ·éšç€æ—¶é—´çš„æ¨ç§»ï¼Œç™½è‰²æ‰ä¼šæ˜¾éœ²å‡ºæ¥
 
 Brands `branched off with different levels of dedication to strict tradition`, from the `copper rivets to the chain-stitched hems to the classic cut to the selvage denim`, which signifies that the fabric was made on `small-batch looms.` It comes from this really `Confucian idea`
-²»Í¬Æ·ÅÆ¶ÔÑÏ¸ñµÄ´«Í³Ò²ÓĞ²»Í¬³Ì¶ÈµÄÖ´×Å£¬´ÓÍ­Ã­¶¤µ½Á´Ê½·ì±ßµ½¾­µä¼ô²ÃÔÙµ½Ïâ±ßÅ£×Ğ£¬¶¼±íÃ÷ÕâĞ©²¼ÁÏÊÇÔÚĞ¡ÅúÁ¿Ö¯²¼»úÉÏÉú²úµÄ. ÕâÖÖË¼ÏëÆäÊµºÜÈå¼Ò
+ä¸åŒå“ç‰Œå¯¹ä¸¥æ ¼çš„ä¼ ç»Ÿä¹Ÿæœ‰ä¸åŒç¨‹åº¦çš„æ‰§ç€ï¼Œä»é“œé“†é’‰åˆ°é“¾å¼ç¼è¾¹åˆ°ç»å…¸å‰ªè£å†åˆ°é•¶è¾¹ç‰›ä»”ï¼Œéƒ½è¡¨æ˜è¿™äº›å¸ƒæ–™æ˜¯åœ¨å°æ‰¹é‡ç»‡å¸ƒæœºä¸Šç”Ÿäº§çš„. è¿™ç§æ€æƒ³å…¶å®å¾ˆå„’å®¶
 
-¡°`Beware of imitations`,¡± the labels say. Around the Warehouse website and catalog, a word often leaned on is `¡°authentic.¡±` ¡°So how do you `make authentic jeans`?¡± Mr. Marx asked. ¡°If you can make the jeans authentically to `how they used to be made`, then you have a claim to authenticity, and that¡¯s what Japan has done.¡±
-ËûÃÇµÄ·ş×°±êÇ©ÉÏĞ´×Å¡°µ±ĞÄ·ÂÖÆÆ·¡±¡£¶øÔÚWarehouseµÄÍøÕ¾¼°ÉÌÆ·Ä¿Â¼ÖĞ£¬¡°Õı×Ú¡±ÊÇ¾­³£³öÏÖµÄ´Ê¡£ ¡°ÄÇÃ´£¬ÔõÑù²ÅÄÜ×ö³öÕı×ÚµÄÅ£×Ğ¿ã£¿¡±Âí¿ËË¹ÎÊ£¬¡°Èç¹ûÄãÄÜ°´ÕÕ¹ıÈ¥µÄ·½Ê½ÖÆ×÷Õı×ÚµÄÅ£×Ğ¿ã£¬ÄÇÄã¾ÍÓĞ×Ê¸ñËµ×Ô¼ºÕı×Ú¡£ÈÕ±¾¾ÍÊÇÕâÃ´×öµÄ¡£¡±
+â€œ`Beware of imitations`,â€ the labels say. Around the Warehouse website and catalog, a word often leaned on is `â€œauthentic.â€` â€œSo how do you `make authentic jeans`?â€ Mr. Marx asked. â€œIf you can make the jeans authentically to `how they used to be made`, then you have a claim to authenticity, and thatâ€™s what Japan has done.â€
+ä»–ä»¬çš„æœè£…æ ‡ç­¾ä¸Šå†™ç€â€œå½“å¿ƒä»¿åˆ¶å“â€ã€‚è€Œåœ¨Warehouseçš„ç½‘ç«™åŠå•†å“ç›®å½•ä¸­ï¼Œâ€œæ­£å®—â€æ˜¯ç»å¸¸å‡ºç°çš„è¯ã€‚ â€œé‚£ä¹ˆï¼Œæ€æ ·æ‰èƒ½åšå‡ºæ­£å®—çš„ç‰›ä»”è£¤ï¼Ÿâ€é©¬å…‹æ–¯é—®ï¼Œâ€œå¦‚æœä½ èƒ½æŒ‰ç…§è¿‡å»çš„æ–¹å¼åˆ¶ä½œæ­£å®—çš„ç‰›ä»”è£¤ï¼Œé‚£ä½ å°±æœ‰èµ„æ ¼è¯´è‡ªå·±æ­£å®—ã€‚æ—¥æœ¬å°±æ˜¯è¿™ä¹ˆåšçš„ã€‚â€

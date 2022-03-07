@@ -79,19 +79,34 @@
         + [判断用户输入的是否为IP地址](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#22%E5%88%A4%E6%96%AD%E7%94%A8%E6%88%B7%E8%BE%93%E5%85%A5%E7%9A%84%E6%98%AF%E5%90%A6%E4%B8%BAip%E5%9C%B0%E5%9D%80)
         + [Nginx访问访问日志按天切割](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#22nginx-%E8%AE%BF%E9%97%AE%E8%AE%BF%E9%97%AE%E6%97%A5%E5%BF%97%E6%8C%89%E5%A4%A9%E5%88%87%E5%89%B2)
         + [Nginx访问日志分析](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#23nginx%E8%AE%BF%E9%97%AE%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E8%84%9A%E6%9C%AC)
+        + [Nginx访问日志监测502情况](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#9%E7%9B%91%E6%B5%8B-nginx-%E8%AE%BF%E9%97%AE%E6%97%A5%E5%BF%97-502-%E6%83%85%E5%86%B5%E5%B9%B6%E5%81%9A%E7%9B%B8%E5%BA%94%E5%8A%A8%E4%BD%9C)
         + [查看网卡实时流量](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#24%E6%9F%A5%E7%9C%8B%E7%BD%91%E5%8D%A1%E5%AE%9E%E6%97%B6%E6%B5%81%E9%87%8F%E8%84%9A%E6%9C%AC)
+        + [扫描主机端口状态](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#13%E6%89%AB%E6%8F%8F%E4%B8%BB%E6%9C%BA%E7%AB%AF%E5%8F%A3%E7%8A%B6%E6%80%81)
+        + [批量检测网站是否异常](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#30%E6%89%B9%E9%87%8F%E6%A3%80%E6%B5%8B%E7%BD%91%E7%AB%99%E6%98%AF%E5%90%A6%E5%BC%82%E5%B8%B8%E8%84%9A%E6%9C%AC)
     + [服务器系统配置初始化](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#25%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E5%88%9D%E5%A7%8B%E5%8C%96%E8%84%9A%E6%9C%AC)
     + [监控100台服务器磁盘利用率](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#26%E7%9B%91%E6%8E%A7100%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A3%81%E7%9B%98%E5%88%A9%E7%94%A8%E7%8E%87%E8%84%9A%E6%9C%AC)
     + [目录文件变化监控和实时文件同步](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#28%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6%E5%8F%98%E5%8C%96%E7%9B%91%E6%8E%A7%E5%92%8C%E5%AE%9E%E6%97%B6%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5)
     + [批量创建多个用户并设置密码](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#29%E6%89%B9%E9%87%8F%E5%88%9B%E5%BB%BA100%E7%94%A8%E6%88%B7%E5%B9%B6%E8%AE%BE%E7%BD%AE%E5%AF%86%E7%A0%81%E8%84%9A%E6%9C%AC)
     + [批量修改服务器用户密码](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#19%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81)
-    + [批量检测网站是否异常](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#30%E6%89%B9%E9%87%8F%E6%A3%80%E6%B5%8B%E7%BD%91%E7%AB%99%E6%98%AF%E5%90%A6%E5%BC%82%E5%B8%B8%E8%84%9A%E6%9C%AC)
     + [批量主机远程执行命令](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#31%E6%89%B9%E9%87%8F%E4%B8%BB%E6%9C%BA%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4%E8%84%9A%E6%9C%AC)
     + [一键查看服务器利用率](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#33%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%E5%88%A9%E7%94%A8%E7%8E%87)
     + [一键部署LNMP网站平台](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#32%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2lnmp%E7%BD%91%E7%AB%99%E5%B9%B3%E5%8F%B0%E8%84%9A%E6%9C%AC)
     + [找出占用CPU内存过高的进程](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#34%E6%89%BE%E5%87%BA%E5%8D%A0%E7%94%A8cpu-%E5%86%85%E5%AD%98%E8%BF%87%E9%AB%98%E7%9A%84%E8%BF%9B%E7%A8%8B%E8%84%9A%E6%9C%AC)
+    + [从FTP服务器下载文件](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#6%E4%BB%8E-ftp-%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6)
+    + [将结果分别赋值给变量](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#10%E5%B0%86%E7%BB%93%E6%9E%9C%E5%88%86%E5%88%AB%E8%B5%8B%E5%80%BC%E7%BB%99%E5%8F%98%E9%87%8F)
+    + [批量修改文件名](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#11%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%E5%90%8D)
+    + [统计当前目录中以html结尾的文件总大小](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#12%E7%BB%9F%E8%AE%A1%E5%BD%93%E5%89%8D%E7%9B%AE%E5%BD%95%E4%B8%AD%E4%BB%A5html%E7%BB%93%E5%B0%BE%E7%9A%84%E6%96%87%E4%BB%B6%E6%80%BB%E6%95%B0)
+    + [打印字母数小于6的单词](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#14%E7%94%A8-shell-%E6%89%93%E5%8D%B0%E7%A4%BA%E4%BE%8B%E8%AF%AD%E5%8F%A5%E4%B8%AD%E5%AD%97%E6%AF%8D%E6%95%B0%E5%B0%8F%E4%BA%8E6%E7%9A%84%E5%8D%95%E8%AF%8D)
+    + [输入数字运行相应命令](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#15%E8%BE%93%E5%85%A5%E6%95%B0%E5%AD%97%E8%BF%90%E8%A1%8C%E7%9B%B8%E5%BA%94%E5%91%BD%E4%BB%A4)
+    + [Expect实现SSH免交互执行命令](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#16expect-%E5%AE%9E%E7%8E%B0-ssh-%E5%85%8D%E4%BA%A4%E4%BA%92%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4)
+    + [监控httpd进程数](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#18%E7%9B%91%E6%8E%A7-httpd-%E7%9A%84%E8%BF%9B%E7%A8%8B%E6%95%B0%E6%A0%B9%E6%8D%AE%E7%9B%91%E6%8E%A7%E6%83%85%E5%86%B5%E5%81%9A%E7%9B%B8%E5%BA%94%E5%A4%84%E7%90%86)
     + [自动发布Java项目(Tomcat)](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#35%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83java%E9%A1%B9%E7%9B%AEtomcat)
     + [自动发布PHP项目](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#36%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83php%E9%A1%B9%E7%9B%AE%E8%84%9A%E6%9C%AC)
+    + [监控多台服务器磁盘利用率](https://github.com/xiangsui5/Shell_Script/blob/main/usual_scripts.md#%E7%9B%91%E6%8E%A7%E5%A4%9A%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A3%81%E7%9B%98%E5%88%A9%E7%94%A8%E7%8E%87%E8%84%9A%E6%9C%AC)
+    + [检测两台服务器指定目录下的文件—致性](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#1%E6%A3%80%E6%B5%8B%E4%B8%A4%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8C%87%E5%AE%9A%E7%9B%AE%E5%BD%95%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E4%B8%80%E8%87%B4%E6%80%A7)
+    + [定时清空文件内容，定时记录文件大小](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#2%E5%AE%9A%E6%97%B6%E6%B8%85%E7%A9%BA%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E5%AE%9A%E6%97%B6%E8%AE%B0%E5%BD%95%E6%96%87%E4%BB%B6%E5%A4%A7%E5%B0%8F)
+    + [检测网卡流量，并按规定格式记录在日志中](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#3%E6%A3%80%E6%B5%8B%E7%BD%91%E5%8D%A1%E6%B5%81%E9%87%8F%E5%B9%B6%E6%8C%89%E8%A7%84%E5%AE%9A%E6%A0%BC%E5%BC%8F%E8%AE%B0%E5%BD%95%E5%9C%A8%E6%97%A5%E5%BF%97%E4%B8%AD)
+    + [计算文档每行出现的数字个数，并计算整个文档的数字总数](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#4%E8%AE%A1%E7%AE%97%E6%96%87%E6%A1%A3%E6%AF%8F%E8%A1%8C%E5%87%BA%E7%8E%B0%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0%E5%B9%B6%E8%AE%A1%E7%AE%97%E6%95%B4%E4%B8%AA%E6%96%87%E6%A1%A3%E7%9A%84%E6%95%B0%E5%AD%97%E6%80%BB%E6%95%B0)
     + [实用Python/Shell脚本](https://mp.weixin.qq.com/s/teUxJt0OMwdWz8nHTgJlLg)
         - 企业微信告警
         - FTP客户端
@@ -103,63 +118,31 @@
         - SVN 完整备份
         - zabbix 监控用户密码过期
         - 构建本地YUM
-    + 备份当前日期文件
-    + DOS攻击防范（自动屏蔽攻击IP）
-    + 快速在Ubuntu 20.04上架设LAMP服务器及WordPress 博客
-    + 每天自动备份 MySQL 数据库
-    + Nginx日志按要求切割
-    + 生成10个随机数保存于数组中并找出其最大值和最小值
-    + 监控多台服务器磁盘利用率脚本
-    + MySQl数据库备份脚本
-    + 本地选择脚本auto build.sh
-    + 服务器编译脚本 build.sh首先第一个使用的就是{\$\#}和（\$\@）其次使用了字符串截取的操作
-    + 本地expect登陆拷贝scp exec.sh脚本
-    + 检测两台服务器指定目录下的文件—致性
-    + 定时清空文件内容，定时记录文件大小
-    + 检测网卡流量，并按规定格式记录在日志中
-    + 计算文档每行出现的数字个数，并计算整个文档的数字总数
-    + 从FTP服务器下载文件
-    + 监测 Nginx 访问日志 502情况，并做相应动作
-    + 将结果分别赋值给变量
-    + 批量修改文件名
-    + 统计当前目录中以html结尾的文件总大小
-    + 扫描主机端口状态
-    + 输入数字运行相应命令
-    + Expect 实现 SSH 免交互执行命令
-    + 监控 httpd 的进程数，根据监控情况做相应处理
-    + 轮询检测Apache状态并启用钉钉报警
-    + 一台监控主机，一台被监控主机。被监控主机分区使用率大于80%，就发告警部邮件。放到crontab里面，每10分钟执行一次。
-    + 监控主机的磁盘空间，当使用空间超过90%就通过发mail 来发警告
-    + 自动ftp上传
-    + mysqlbak.sh备份数据库目录脚本
-    + 打印彩虹
-    + 打印菱形
-    + expect实现远程登陆自动交互
-    + http心跳检测
-    + PV过量自动实现防火墙封IP
-    + shellI实现自动安装
-    + shell实现插入排序
-    + bash实现动态进度条
-    + 根据文件内容创建账号
-    + 红色进度条
-    + 监控服务器网卡流量
-    + 检测CPU剩余百分比
-    + 检测磁盘剩余空间
-    + bash-实现检测apache状态并钉钉报警
-    + 内存检测
-    + 剩余inode检测
-    + 判断哪些用户登陆了系统
-    + 批量扫面存活
-    + 正则匹配IP
-    + 正则匹配邮箱
-    + 实现布片效果
-    + 剔除白名单以外的用户
-    + 一键安装 MongoDB 数据库脚本
-    + 使用mobaXtrem显示CentOS上的图形工具
-    + 一键申请多个证书 shell 脚本
-    + 基于CentOS一键编译安装Redis脚本
-    + 基于CentOS一键安装tomcat脚本
-    + 一键证书申请和颁发脚本
+    + [shell使用案例](https://github.com/lzhwWeb/nirvana/blob/master/source/_posts/linux/%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E7%9A%84shell%E8%84%9A%E6%9C%AC.md)
+        + 轮询检测Apache状态并启用钉钉报警
+        + 一台监控主机，一台被监控主机。被监控主机分区使用率大于80%，就发告警部邮件。放到crontab里面，每10分钟执行一次。
+        + 监控主机的磁盘空间，当使用空间超过90%就通过发mail发警告
+        + 自动ftp上传
+        + mysqlbak.sh备份数据库目录脚本
+        + 打印彩虹
+        + 打印菱形
+        + expect实现远程登陆自动交互
+        + http心跳检测
+        + shell实现插入排序
+        + bash实现动态进度条
+        + 根据文件内容创建账号
+        + 红色进度条
+        + 监控服务器网卡流量
+        + 检测CPU剩余百分比
+        + 检测磁盘剩余空间
+        + 内存检测
+        + 剩余inode检测
+        + 判断哪些用户登陆了系统
+        + 批量扫面存活
+        + 正则匹配IP
+        + 正则匹配邮箱
+        + 实现布片效果
+        + 剔除白名单以外的用户
 
 > [shell programming guide](http://www.freeos.com/guides/lsst/)
 

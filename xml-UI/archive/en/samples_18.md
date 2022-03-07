@@ -1,1364 +1,1359 @@
 `Recurrent fevers abate and flare up` again
-·´¸´·¢ÉÕ¼õÍË¶øºóÔÙ´Î·¢ÈÈ
+åå¤å‘çƒ§å‡é€€è€Œåå†æ¬¡å‘çƒ­
 
 `Conditions domestically and abroad` are undergoing `deep and complicated changes`
-¹ú¼Ê¹úÄÚµÄÇé¿öÕıÔÚ¾­ÀúÉî¿ÌµÄ±ä»¯
+å›½é™…å›½å†…çš„æƒ…å†µæ­£åœ¨ç»å†æ·±åˆ»çš„å˜åŒ–
 
 HK has been part of Chinese territory `since ancient times`, Support `the absorption of HK into` China
-×Ô¹ÅÒÔÀ´Ïã¸Û¾ÍÊÇÖĞ¹úÒ»²¿·Ö Ö§³ÖÏã¸Û²¢ÈëÖĞ¹ú
+è‡ªå¤ä»¥æ¥é¦™æ¸¯å°±æ˜¯ä¸­å›½ä¸€éƒ¨åˆ† æ”¯æŒé¦™æ¸¯å¹¶å…¥ä¸­å›½
 
 Destruction was `particularly acute`, which was subjected to `napalm bombing`
-ÆÆ»µÓÈÎªÑÏÖØ£¬ÔâÓöÄı¹ÌÆûÓÍµ¯ºäÕ¨
+ç ´åå°¤ä¸ºä¸¥é‡ï¼Œé­é‡å‡å›ºæ±½æ²¹å¼¹è½°ç‚¸
 
 The committal hearing of cardinal `is expected to adjourn`
-¶ÔÊà»úÖ÷½ÌÌıÖ¤»áÔ¤¼ÆĞİ»á
+å¯¹æ¢æœºä¸»æ•™å¬è¯ä¼šé¢„è®¡ä¼‘ä¼š
 
 A woman of color so `publicly adored`
-ÉîÉ«·ôÉ«Å®ĞÔÊÜÈç´Ë°®´÷
+æ·±è‰²è‚¤è‰²å¥³æ€§å—å¦‚æ­¤çˆ±æˆ´
 
 Students have been imprisoned for their `legal advocacy`
-Ñ§ÉúÃÇÒò·¨ÂÉÖ÷ÕÅÔâ¼à½û
+å­¦ç”Ÿä»¬å› æ³•å¾‹ä¸»å¼ é­ç›‘ç¦
 
 `Think tank affiliated with` the government warned this week
-Õş¸®ÏÂÊôµÄÒ»¸ö¾«Ó¢ÖÇ¿âÓÚ±¾ÖÜ¾¯¸æ
+æ”¿åºœä¸‹å±çš„ä¸€ä¸ªç²¾è‹±æ™ºåº“äºæœ¬å‘¨è­¦å‘Š
 
 I remain `agnostic`
-ÎÒ±£³ÖÎŞÖªÂÛµÄÌ¬¶È
+æˆ‘ä¿æŒæ— çŸ¥è®ºçš„æ€åº¦
 
 A sense of the scale of `the agreed-upon increases`
-Ë«·½ÉÌ¶¨µÄÔö¼Ó¹æÄ£
+åŒæ–¹å•†å®šçš„å¢åŠ è§„æ¨¡
 
 nano flats `are all the rage`
-³¬Î¢ĞÍ¹«Ô¢·çÃÒÒ»Ê±
+è¶…å¾®å‹å…¬å¯“é£é¡ä¸€æ—¶
 
 `allude to a famous saying`
-¼ä½ÓÌáµ½Ò»¾äÃûÑÔ
+é—´æ¥æåˆ°ä¸€å¥åè¨€
 
 It is also trying to `curb problems caused by business run amok`, like pollution and poor treatment of workers, as well as years of companies `dodging taxes.`
-Õş¸®Ò²ÔÚÊÔÍ¼¶ôÖÆÆóÒµ·è¿ñ·¢Õ¹Ëù´øÀ´µÄÖî¶àÎÊÌâ£¬ÀıÈç»·¾³ÎÛÈ¾¡¢¹¤ÈË´ıÓö²»¼Ñ£¬ÒÔ¼°¶àÄêÀ´µÄÆóÒµÌÓË°ĞĞÎª
+æ”¿åºœä¹Ÿåœ¨è¯•å›¾éåˆ¶ä¼ä¸šç–¯ç‹‚å‘å±•æ‰€å¸¦æ¥çš„è¯¸å¤šé—®é¢˜ï¼Œä¾‹å¦‚ç¯å¢ƒæ±¡æŸ“ã€å·¥äººå¾…é‡ä¸ä½³ï¼Œä»¥åŠå¤šå¹´æ¥çš„ä¼ä¸šé€ƒç¨è¡Œä¸º
 
 Punish expressions of disrespect for `the national anthem`
-³Í·£²»×ğÖØ¹ú¸èĞĞÎª
+æƒ©ç½šä¸å°Šé‡å›½æ­Œè¡Œä¸º
 
 `Party apparatus` at every level `seemed ineffectual`
-µ³µÄ»úÖÆÔÚÃ¿Ò»²ã´ÎÊÓºõ¶¼Ê§Ğ§
+å…šçš„æœºåˆ¶åœ¨æ¯ä¸€å±‚æ¬¡è§†ä¹éƒ½å¤±æ•ˆ
 
 Approval of US has `collapsed to a record low of 30 percent`
-¶ÔÃÀ¹úÖ§³ÖÂÊÏÂ½µµ½ÀúÊ·µÍÎ»
+å¯¹ç¾å›½æ”¯æŒç‡ä¸‹é™åˆ°å†å²ä½ä½
 
 He killed himself by `severing the arteries` in his legs
-ËûÇĞ¶ÏÍÈ²¿¶¯Âö×ÔÉ±
+ä»–åˆ‡æ–­è…¿éƒ¨åŠ¨è„‰è‡ªæ€
 
 `As close as lips to teeth`   `historical baggage`  `bides his time`  `bittersweet`  `blatant ball-tampering`  `blue-ribbon`
-´½³İÏàÒÀ ´½Íö³İº®       ÀúÊ·°ü¸¤         µÈ´ıÊ±»ú      ¿àÀÖ²Î°ëµÄ        ¹«È»×÷±×   µÚÒ»Á÷µÄ
+å”‡é½¿ç›¸ä¾ å”‡äº¡é½¿å¯’       å†å²åŒ…è¢±         ç­‰å¾…æ—¶æœº      è‹¦ä¹å‚åŠçš„        å…¬ç„¶ä½œå¼Š   ç¬¬ä¸€æµçš„
 
 `bolster ability to do`      `briefing room`   `marketing brochure`   `brush aside threats`  `buck the rule`
-ÔöÇ¿ÄÜÁ¦    ½Ó´ıÊÒ   ÓªÏúĞû´«²á    ¶ÔÍşĞ²²»ÓèÀí»á    ´òÆÆ¹æÔò
+å¢å¼ºèƒ½åŠ›    æ¥å¾…å®¤   è¥é”€å®£ä¼ å†Œ    å¯¹å¨èƒä¸äºˆç†ä¼š    æ‰“ç ´è§„åˆ™
 
 `During the bulk of her childhood`   `buttoned-down party look`  `buy time for economy`
-ÔÚÍ¯Äê´ó²¿·ÖÊ±¼äÀï     ±£ÊØµÄ×÷·ç     Îª¾­¼ÃÕùÈ¡Ê±¼ä
+åœ¨ç«¥å¹´å¤§éƒ¨åˆ†æ—¶é—´é‡Œ     ä¿å®ˆçš„ä½œé£     ä¸ºç»æµäº‰å–æ—¶é—´
 
 `bon vivant`    `c'est la vie`
-(·¨)½²¾¿ÃÀÊ³¼°Éú»îÏíÊÜµÄÈË   Õâ¾ÍÊÇÉú»î
+(æ³•)è®²ç©¶ç¾é£ŸåŠç”Ÿæ´»äº«å—çš„äºº   è¿™å°±æ˜¯ç”Ÿæ´»
 
 `cajoling voter`   `calving whales`  `get the ideological canonization`  `capitalize on relative success`
-ºåÆ­Ñ¡Ãñ     ÉúÓı·±ÑÜµÄ¾¨Óã   µÃµ½Ë¼ÏëÉÏµÄ·âÊ¥     ÀûÓÃÏà¹ØµÄ³É¹¦
+å“„éª—é€‰æ°‘     ç”Ÿè‚²ç¹è¡çš„é²¸é±¼   å¾—åˆ°æ€æƒ³ä¸Šçš„å°åœ£     åˆ©ç”¨ç›¸å…³çš„æˆåŠŸ
 
 `car-pooling service`   `casual jacket`  `tarnish the cause`   `ceremonial post`  `chain smoker`
-Æ´³µ·şÎñ   ĞİÏĞÍâÒÂ    çèÎÛÕâÏîÊÂÒµ     ÒÇÊ½ĞÔµÄÖ°Î»  ÑÌñ«´óµÄÈË
+æ‹¼è½¦æœåŠ¡   ä¼‘é—²å¤–è¡£    ç·æ±¡è¿™é¡¹äº‹ä¸š     ä»ªå¼æ€§çš„èŒä½  çƒŸç˜¾å¤§çš„äºº
 
 `choreographed celebration`   `clammy or sweaty skin`  `conciliatory tone`  `military confrontation`
-Éè¼ÆºÃµÄÇì×£   ÊªÕ³»ò³öº¹Æ¤·ô   ºÍ½âµÄÓïµ÷   ¾üÊÂ¶Ô¿¹
+è®¾è®¡å¥½çš„åº†ç¥   æ¹¿ç²˜æˆ–å‡ºæ±—çš®è‚¤   å’Œè§£çš„è¯­è°ƒ   å†›äº‹å¯¹æŠ—
 
 Simply `ascribing human emotions and desires` to dogs
-¼òµ¥°ÑÈËÀà¸ĞÇéºÍÓûÍû¸½¼ÓÔÚ¹·ÉíÉÏ
+ç®€å•æŠŠäººç±»æ„Ÿæƒ…å’Œæ¬²æœ›é™„åŠ åœ¨ç‹—èº«ä¸Š
 
 He had `aspired to study Chinese literature`
-Ëû±¾´òËãÑ§Ï°ÖĞ¹úÎÄÑ§
+ä»–æœ¬æ‰“ç®—å­¦ä¹ ä¸­å›½æ–‡å­¦
 
 They `outlined a vision` that is `sharply at odds with other worldview`
-ËûÃÇÌá³öÁËÒ»¸öÓëÆäËûÊÀ½ç¹Û²»Ò»ÑùµÄÔ¸¾°
+ä»–ä»¬æå‡ºäº†ä¸€ä¸ªä¸å…¶ä»–ä¸–ç•Œè§‚ä¸ä¸€æ ·çš„æ„¿æ™¯
 
 it was `not average royal wedding`
-Õâ²»ÊÇÒ»°ãµÄÍõÊÒ»éÒö
+è¿™ä¸æ˜¯ä¸€èˆ¬çš„ç‹å®¤å©šå§»
 
 The comments `provoked a sharp backlash` from hard-liners `across the political spectrum`
-ÕâĞ©ÆÀÂÛÒı·¢Õş½çÇ¿Ó²ÈËÊ¿µÄÇ¿ÁÒ·´µ¯
+è¿™äº›è¯„è®ºå¼•å‘æ”¿ç•Œå¼ºç¡¬äººå£«çš„å¼ºçƒˆåå¼¹
 
 Each representation `diminishes impressive creature` to an object of most `banal imagination`
-¸÷¸ö±íÏÖĞÎÊ½½«ÁîÈËÔŞÌ¾µÄ´´Ôì±áµÍ³É×îÆ½Ó¹µÄÏëÏó¿ÍÌå
+å„ä¸ªè¡¨ç°å½¢å¼å°†ä»¤äººèµå¹çš„åˆ›é€ è´¬ä½æˆæœ€å¹³åº¸çš„æƒ³è±¡å®¢ä½“
 
 Half of that band is more `heavily populated`
-Ò»°ëÇøÓòÈË¿Ú¸üÃÜ¼¯
+ä¸€åŠåŒºåŸŸäººå£æ›´å¯†é›†
 
 A friend `banged on his dormitory door`
-Ò»Î»ÅóÓÑÃÍÇÃËûËŞÉá´óÃÅ
+ä¸€ä½æœ‹å‹çŒ›æ•²ä»–å®¿èˆå¤§é—¨
 
 `Even while banished` from news media
-¾¡¹Ü(¼´±ã)Ôâµ½Ã½Ìå·âÉ±
+å°½ç®¡(å³ä¾¿)é­åˆ°åª’ä½“å°æ€
 
 Party elite had `been battered by infighting`
-µ³ÄÚ¾«Ó¢±»ÄÚ¶·Ëù»÷¿å
+å…šå†…ç²¾è‹±è¢«å†…æ–—æ‰€å‡»å®
 
 Party was `beset by laxity and softness`
-µ³ÊÜÀ§ÓÚ¹ÜÀíËÉÈí
+å…šå—å›°äºç®¡ç†æ¾è½¯
 
 It would probably `be better off` on its own
-¿ÉÄÜ»á¶ÔËü¸ü¼ÓÓĞÒæ
+å¯èƒ½ä¼šå¯¹å®ƒæ›´åŠ æœ‰ç›Š
 
 she `was devoted to` Princess Diana
-ËıÒ»Ö±³ç°İ´÷°²ÄÈÍõåú
+å¥¹ä¸€ç›´å´‡æ‹œæˆ´å®‰å¨œç‹å¦ƒ
 
 he said `with a half-bemused shake of his head`
-ËûÓĞĞ©À§»óµØÒ¡×ÅÍ·Ëµ
+ä»–æœ‰äº›å›°æƒ‘åœ°æ‘‡ç€å¤´è¯´
 
 Months of `struggling with` economic problems at home and `bickering with` President 
-ÔÚ¾­¼ÃÎÊÌâÉÏ³ÖĞøÊıÔÂµÄ¶·Õù£¬ÒÔ¼°Í¬×ÜÍ³ÔÚÃ³Ò×·½ÃæµÄÕù³³
+åœ¨ç»æµé—®é¢˜ä¸ŠæŒç»­æ•°æœˆçš„æ–—äº‰ï¼Œä»¥åŠåŒæ€»ç»Ÿåœ¨è´¸æ˜“æ–¹é¢çš„äº‰åµ
 
 Fueled an `overseas buying binge` of hotels  `borrowing binge`
-¼ÓËÙ¹ºÂòº£Íâ¾ÆµêµÄ·è¿ñ   ½è´û¿ñ³±
+åŠ é€Ÿè´­ä¹°æµ·å¤–é…’åº—çš„ç–¯ç‹‚   å€Ÿè´·ç‹‚æ½®
 
 `Bizarrely backed` a blockade of Qatar
-Ææ¹ÖµØÖ§³Ö·âËø¿¨Ëş¶û
+å¥‡æ€ªåœ°æ”¯æŒå°é”å¡å¡”å°”
 
 `Blowing the whistle` on deceptive practices
-½ÒÂ¶ÆÛÆ­ĞĞÎª
+æ­éœ²æ¬ºéª—è¡Œä¸º
 
 Left villages for the `booming cities`
-Àë¿ª´å×ÓÈ¥Íù·±»ªµÄ³ÇÊĞ
+ç¦»å¼€æ‘å­å»å¾€ç¹åçš„åŸå¸‚
 
-They won't `hold accountable for anything`£¬even if `it borders on treason`
-¾ÍËã½Ó½üÅÑ¹ú±ßÔµ£¬ËûÃÇÒ²²»»á³Ğµ£ÈÎºÎÔğÈÎ
+They won't `hold accountable for anything`ï¼Œeven if `it borders on treason`
+å°±ç®—æ¥è¿‘å›å›½è¾¹ç¼˜ï¼Œä»–ä»¬ä¹Ÿä¸ä¼šæ‰¿æ‹…ä»»ä½•è´£ä»»
 
 Lawyers `bowed out`
-ÂÉÊ¦ÍË³ö
+å¾‹å¸ˆé€€å‡º
 
 Expanding at `a breakneck pace` within the country and around the world
-ÔÚ¹úÄÚÍâÑ¸ËÙÀ©ÕÅ
+åœ¨å›½å†…å¤–è¿…é€Ÿæ‰©å¼ 
 
 He `pleaded not guilty` to charges that he tried to `bribe top officials`
-Ëû¾Ü¾ø¶Ô»ßÂ¸¸ß¹ÙÈÏ×ï
+ä»–æ‹’ç»å¯¹è´¿èµ‚é«˜å®˜è®¤ç½ª
 
 In order to `bring it in line with` history curriculum on the mainland
-ÎªÁËÊ¹ÀúÊ·¿Î³ÌÓë´óÂ½±£³ÖÒ»ÖÂ
+ä¸ºäº†ä½¿å†å²è¯¾ç¨‹ä¸å¤§é™†ä¿æŒä¸€è‡´
 
 Atlanta city government has been `brought to its knees` by `a ransomware attack`
-ÑÇÌØÀ¼´óÊĞ¸®±»ÀÕË÷Èí¼ş¹¥»÷»÷¿å
+äºšç‰¹å…°å¤§å¸‚åºœè¢«å‹’ç´¢è½¯ä»¶æ”»å‡»å‡»å®
 
 Real estate agents are `brushing up on` their Mandarin as Chinese investors `flock to` phnompenh
-Ëæ×ÅÖĞ¹úÍ¶×ÊÕßÓ¿Ïò½ğ±ß£¬·¿µØ²ú¾­¼ÃÈËÕıÔÚÁ·Ï°ÆÕÍ¨»°
+éšç€ä¸­å›½æŠ•èµ„è€…æ¶Œå‘é‡‘è¾¹ï¼Œæˆ¿åœ°äº§ç»æµäººæ­£åœ¨ç»ƒä¹ æ™®é€šè¯
 
 Beijing `bustles with` Internet entrepreneur
-±±¾©µ½´¦ÊÇ»¥ÁªÍø´´ÒµÕß
+åŒ—äº¬åˆ°å¤„æ˜¯äº’è”ç½‘åˆ›ä¸šè€…
 
-`Wean cadres off fancy meals£¬heavy drinking`
-¶Ï¾ø¸É²¿¶ÓÎéÏíÀÖÃÀÊ³£¬ºÀÒû
+`Wean cadres off fancy mealsï¼Œheavy drinking`
+æ–­ç»å¹²éƒ¨é˜Ÿä¼äº«ä¹ç¾é£Ÿï¼Œè±ªé¥®
 
 He is `a carbon copy` of his mum
-ËûºÍÂèÂèÒ»Ä£Ò»Ñù
+ä»–å’Œå¦ˆå¦ˆä¸€æ¨¡ä¸€æ ·
 
 `Cast aside illusions` and rely on ourselves
-ŞğÆú»ÃÏë¿¿×Ô¼º
+æ‘’å¼ƒå¹»æƒ³é è‡ªå·±
 
 `Charm offensive` was motivated by Olympic spirit
-÷ÈÁ¦¹¥ÊÆÊÇÊÜµ½°ÂÔË¾«Éñ¼¤·¢
+é­…åŠ›æ”»åŠ¿æ˜¯å—åˆ°å¥¥è¿ç²¾ç¥æ¿€å‘
 
 Officials have `clashed` in recent days
-¹ÙÔ±ÄÚ²¿ÆğÁË³åÍ»
+å®˜å‘˜å†…éƒ¨èµ·äº†å†²çª
 
-His vote became `the undisputed crucial one` in most of the court¡¯s `closely divided cases.` ËûµÄÕâÒ»Æ±¾ÍÎŞ¿ÉÕùÒéµØ³ÉÁË×î¸ß·¨Ôº´ó¶àÊıÊÆ¾ùÁ¦µĞµÄ°¸¼şÖĞµÄ¹Ø¼ü
+His vote became `the undisputed crucial one` in most of the courtâ€™s `closely divided cases.` ä»–çš„è¿™ä¸€ç¥¨å°±æ— å¯äº‰è®®åœ°æˆäº†æœ€é«˜æ³•é™¢å¤§å¤šæ•°åŠ¿å‡åŠ›æ•Œçš„æ¡ˆä»¶ä¸­çš„å…³é”®
 
 They have `clung to their old position`
-¼á³ÖÔ­À´Á¢³¡
+åšæŒåŸæ¥ç«‹åœº
 
 Reliable data are always hard to `come by`
-¿É¿¿Êı¾İºÜÄÑÕÒµ½
+å¯é æ•°æ®å¾ˆéš¾æ‰¾åˆ°
 
 `In the company of` two small pageboys in military dress
-ÔÚÁ½Ãû´©¾üÀñ·şµÄĞ¡ÄĞÙÏÏàÅã°éÏÂ
+åœ¨ä¸¤åç©¿å†›ç¤¼æœçš„å°ç”·å‚§ç›¸é™ªä¼´ä¸‹
 
 What's `completely gone` is concensus
-¹²Ê¶ÍêÈ«ÏûÊ§ÁË
+å…±è¯†å®Œå…¨æ¶ˆå¤±äº†
 
 `Develop life-threatening complications`
-³öÏÖÎ£¼°ÉúÃüµÄ²¢·¢Ö¢
+å‡ºç°å±åŠç”Ÿå‘½çš„å¹¶å‘ç—‡
 
 `Cut concentrations` of one pollutant
-½µµÍÒ»ÖÖÎÛÈ¾ÎïÅ¨¶È
+é™ä½ä¸€ç§æ±¡æŸ“ç‰©æµ“åº¦
 
 Media `contested the concessions`
-Ã½Ìå¶ÔÕâĞ©ÈÃ²½Ìá³öÒìÒé
+åª’ä½“å¯¹è¿™äº›è®©æ­¥æå‡ºå¼‚è®®
 
 `Centralized style of rule` must be consolidated
-¼¯ÖĞ¹ÜÀí±ØĞë¼ÓÇ¿
+é›†ä¸­ç®¡ç†å¿…é¡»åŠ å¼º
 
 `A constellation of` American celebrities
-Ò»ÈºÃÀ¹úÃûÈË
+ä¸€ç¾¤ç¾å›½åäºº
 
 `Behavior constituted a crime`
-ĞĞÎª¹¹³É·¸×ï
+è¡Œä¸ºæ„æˆçŠ¯ç½ª
 
 Considering `historical context`, this is another `point of contention`
-¿¼ÂÇÀúÊ·Ô¨Ô´, ÕâÊÇÁíÒ»¸öÕùÒéµã
+è€ƒè™‘å†å²æ¸Šæº, è¿™æ˜¯å¦ä¸€ä¸ªäº‰è®®ç‚¹
 
 `Coordinated response`  `crowning achievement`  `crucial factor`  `fix crumbling infrastructure`
-Ò»ÖÂµÄ·´Ó¦  µÇ·åÔì¼«µÄ³É¾Í   ¹Ø¼üÒòËØ   ĞŞ¸´Ö§ÀëÆÆËéµÄ»ù´¡¼Ü¹¹
+ä¸€è‡´çš„ååº”  ç™»å³°é€ æçš„æˆå°±   å…³é”®å› ç´    ä¿®å¤æ”¯ç¦»ç ´ç¢çš„åŸºç¡€æ¶æ„
 
 Look like `a coronation` than an `institutionalized transition`
-¿´ÉÏÈ¥Ïñ¼ÓÃáÀñ¶ø²»ÊÇÖÆ¶È»¯½»½Ó
+çœ‹ä¸Šå»åƒåŠ å†•ç¤¼è€Œä¸æ˜¯åˆ¶åº¦åŒ–äº¤æ¥
 
 `Correlated with emotional and developmental problems` among children
-Óë¶ùÍ¯ÇéĞ÷ºÍ·¢ÓıÎÊÌâ´æÔÚ¹ØÁª
+ä¸å„¿ç«¥æƒ…ç»ªå’Œå‘è‚²é—®é¢˜å­˜åœ¨å…³è”
 
 The comments `were couched in` careful language 
-ÆÀÂÛÓÃĞ¡ĞÄ½÷É÷µÄÓïÑÔ±íÊö
+è¯„è®ºç”¨å°å¿ƒè°¨æ…çš„è¯­è¨€è¡¨è¿°
 
 He won `a coveted place` in higher education
-Ëû»ñµÃ½ÓÊÜ¸ßµÈ½ÌÓı±¦¹ó»ú»á
+ä»–è·å¾—æ¥å—é«˜ç­‰æ•™è‚²å®è´µæœºä¼š
 
 He started out as `crack pilot`
-×î³õÊÇÒ»Ãû³öÉ«µÄ·ÉĞĞÔ±
+æœ€åˆæ˜¯ä¸€åå‡ºè‰²çš„é£è¡Œå‘˜
 
 Scholars `lent credence to the unorthodox` yet increasingly popular view
-Ñ§ÕßÃÇ½øÒ»²½Ö¤ÊµÁËÕâ¸ö·ÇÕıÍ³È´ÓÖÈÕÒæÁ÷ĞĞµÄ¹Ûµã
+å­¦è€…ä»¬è¿›ä¸€æ­¥è¯å®äº†è¿™ä¸ªéæ­£ç»Ÿå´åˆæ—¥ç›Šæµè¡Œçš„è§‚ç‚¹
 
 `A narrative` that `was long amplified` by `often-credulous coverage` from news organizations 
-ÕâÖÖËµ·¨³¤ÆÚÒÔÀ´Ò»Ö±±»ÇáĞÅµÄÃ½Ìå±¨µÀ¼ÓÒÔ·Å´ó
+è¿™ç§è¯´æ³•é•¿æœŸä»¥æ¥ä¸€ç›´è¢«è½»ä¿¡çš„åª’ä½“æŠ¥é“åŠ ä»¥æ”¾å¤§
 
 Many economists believe these state-owned companys `crowd out` private businesses. 
-Ğí¶à¾­¼ÃÑ§¼ÒÈÏÎªÕâĞ©¹úÓĞ¹«Ë¾ÅÅ¼·ÁËÃñÓªÆóÒµ
+è®¸å¤šç»æµå­¦å®¶è®¤ä¸ºè¿™äº›å›½æœ‰å…¬å¸æ’æŒ¤äº†æ°‘è¥ä¼ä¸š
 
 I `have a crush on` him on my entire life
-ÎÒÕâ±²×ÓÃÔÁµËû
+æˆ‘è¿™è¾ˆå­è¿·æ‹ä»–
 
 This is `the crux` of the matter
-Õâ¾ÍÊÇÎÊÌâÖ¢½áËùÔÚ
+è¿™å°±æ˜¯é—®é¢˜ç—‡ç»“æ‰€åœ¨
 
 `crystal clear`  `revise history curriculum`    `curtail such criticism`  `a life-size cutout of himself`
-ÍêÈ«Í¸Ã÷µÄ, ¼«ÆäÃ÷°×   ĞŞ¸ÄÀúÊ·¿Î³Ì   ¼õÉÙÕâÖÖÅúÆÀ   Ò»¸öÕæÈË´óĞ¡µÄËû±¾ÈËµÄÈËĞÎÁ¢°å
+å®Œå…¨é€æ˜çš„, æå…¶æ˜ç™½   ä¿®æ”¹å†å²è¯¾ç¨‹   å‡å°‘è¿™ç§æ‰¹è¯„   ä¸€ä¸ªçœŸäººå¤§å°çš„ä»–æœ¬äººçš„äººå½¢ç«‹æ¿
 
-`Culminating` in emperor¡¯s ten perfect military campaigns
-ÒÔÇ¬Â¡»ÊµÛÊ®È«Îä¹¦Îª±êÖ¾¶ø´ïµ½¶¥·å
+`Culminating` in emperorâ€™s ten perfect military campaigns
+ä»¥ä¹¾éš†çš‡å¸åå…¨æ­¦åŠŸä¸ºæ ‡å¿—è€Œè¾¾åˆ°é¡¶å³°
 
 Her dress, with `a flowing train` 16 feet long, was `dazzling pure white`, wide-necked and minimal, leaving her `collarbones bare`
-Ëı»éÉ´ÓĞ¸ö16Ó¢³ßÍÏñÕ£¬ÊÇÒ«ÑÛµÄ´¿°×É«£¬ÓÃ¼«¼òÉè¼Æ£¬¿ª¿Ú½Ï¿í¾±²¿ÈÃËø¹ÇÂ¶³ö
+å¥¹å©šçº±æœ‰ä¸ª16è‹±å°ºæ‹–è£¾ï¼Œæ˜¯è€€çœ¼çš„çº¯ç™½è‰²ï¼Œç”¨æç®€è®¾è®¡ï¼Œå¼€å£è¾ƒå®½é¢ˆéƒ¨è®©é”éª¨éœ²å‡º
 
 The chances of anyone being hit by `falling debris` are `extremely low`
-ÈËÃÇ±»ÔÉÂä²Ğº¡»÷ÖĞ¿ÉÄÜĞÔ¼«µÍ
+äººä»¬è¢«é™¨è½æ®‹éª¸å‡»ä¸­å¯èƒ½æ€§æä½
 
 `debt-ridden financial sector`  `water slide decapitated a boy`   `deceleration strip`  `fervent dedication`  
-¸ºÕ®ÀÛÀÛµÄ½ğÈÚĞĞÒµ   Ë®»¬ÌİÊ¹¶ùÍ¯ÉíÊ×Òì´¦   ¼õËÙ´ø    ¿ñÈÈµÄÍ¶Èë  
+è´Ÿå€ºç´¯ç´¯çš„é‡‘èè¡Œä¸š   æ°´æ»‘æ¢¯ä½¿å„¿ç«¥èº«é¦–å¼‚å¤„   å‡é€Ÿå¸¦    ç‹‚çƒ­çš„æŠ•å…¥  
 
 Its memory decades later is `overshadowed` by Vietnam war
-¼¸Ê®Äêºó¶ÔËü¼ÇÒä±»Ô½Õ½ÒõÓ°ÑÚ¸Ç
+å‡ åå¹´åå¯¹å®ƒè®°å¿†è¢«è¶Šæˆ˜é˜´å½±æ©ç›–
 
 But if influence were `the deciding factor`, it would be more accurate to `speak of ` the period since 1988 as the Kennedy court.
-µ«Èç¹ûÓ°ÏìÁ¦ÊÇ¾ö¶¨ĞÔÒòËØ£¬1988ÄêÒÔÀ´£¬½«×î¸ß·¨Ôº³ÆÎª¿ÏÄáµÏ·¨Ôº¸üÎª×¼È·
+ä½†å¦‚æœå½±å“åŠ›æ˜¯å†³å®šæ€§å› ç´ ï¼Œ1988å¹´ä»¥æ¥ï¼Œå°†æœ€é«˜æ³•é™¢ç§°ä¸ºè‚¯å°¼è¿ªæ³•é™¢æ›´ä¸ºå‡†ç¡®
 
 `deep seated`  `documents deemed accessible`  `deepen the pain for US`  `deflect criticism`  `defraud investors`  `defies easy explanation`
-¸ùÉîµÙ¹ÌµÄ    ÄÇĞ©Éù³Æ¿ª·ÅµÄÎÄ¼ş   ¼Ó¾çÃÀ¹úÊÜµ½´ò»÷   »Ø±ÜÅúÆÀ  ÆÛÕ©Í¶×ÊÈË   ÎŞ·¨ÇáÒ×½âÊÍ
+æ ¹æ·±è’‚å›ºçš„    é‚£äº›å£°ç§°å¼€æ”¾çš„æ–‡ä»¶   åŠ å‰§ç¾å›½å—åˆ°æ‰“å‡»   å›é¿æ‰¹è¯„  æ¬ºè¯ˆæŠ•èµ„äºº   æ— æ³•è½»æ˜“è§£é‡Š
 
 `delving into the past`   `demonstrate resolve`  `destabilize economy`  `diminish American standing`
-Ì½Ë÷¹ıÈ¥    Õ¹Ê¾¾öĞÄ   Ê¹¾­¼Ã²»ÎÈ   Ï÷ÈõÃÀ¹úÁ¢³¡
+æ¢ç´¢è¿‡å»    å±•ç¤ºå†³å¿ƒ   ä½¿ç»æµä¸ç¨³   å‰Šå¼±ç¾å›½ç«‹åœº
 
 `Demolish the myth` that they were `tightly allied`
-´òÆÆËûÃÇ½ôÃÜ½áÃËÉñ»°
+æ‰“ç ´ä»–ä»¬ç´§å¯†ç»“ç›Ÿç¥è¯
 
-`Denounce` western countries¡¯ `colonial legacy`
-Ç´ÔğÎ÷·½¹ú¼ÒÖ³ÃñÍ³ÖÎµÄÒÅ²ú
+`Denounce` western countriesâ€™ `colonial legacy`
+è°´è´£è¥¿æ–¹å›½å®¶æ®–æ°‘ç»Ÿæ²»çš„é—äº§
 
 `Depart sharply from` the buttoned-down party look
-Ã÷ÏÔÓëµ³±£ÊØ×÷·ç´óÏà¾¶Í¥
+æ˜æ˜¾ä¸å…šä¿å®ˆä½œé£å¤§ç›¸å¾„åº­
 
 `A departure from` long tradition that in self sent a message to the world
-Õâ¸öÆ«ÀëÓÆ¾Ã´«Í³×ö·¨µÄ±¾Éí¾ÍÏòÊÀ½ç´«µİÁËÒ»¸öĞÅÏ¢
+è¿™ä¸ªåç¦»æ‚ ä¹…ä¼ ç»Ÿåšæ³•çš„æœ¬èº«å°±å‘ä¸–ç•Œä¼ é€’äº†ä¸€ä¸ªä¿¡æ¯
 
 A plan was `quickly derided`
-¼Æ»®ºÜ¿ìÔâµ½³°Ğ¦
+è®¡åˆ’å¾ˆå¿«é­åˆ°å˜²ç¬‘
 
-`Seated directly opposite` queen was her mother£¬`the descendant of slaves on plantation` in deep south
-Õı¶ÔÅ®Íõ¾Í×øµÄÊÇËıÄ¸Ç×£¬ÃÀ¹úÄÏ²¿ÖİÖÖÖ²Ô°Å«Á¥µÄºóÒá
+`Seated directly opposite` queen was her motherï¼Œ`the descendant of slaves on plantation` in deep south
+æ­£å¯¹å¥³ç‹å°±åçš„æ˜¯å¥¹æ¯äº²ï¼Œç¾å›½å—éƒ¨å·ç§æ¤å›­å¥´éš¶çš„åè£”
 
 `Few commonalities` and different `destinies`
-¼¸ºõÃ»ÓĞ¹²Í¬Ö®´¦£¬ÃüÔËÒ²½ØÈ»²»Í¬
+å‡ ä¹æ²¡æœ‰å…±åŒä¹‹å¤„ï¼Œå‘½è¿ä¹Ÿæˆªç„¶ä¸åŒ
 
 The war `devastated` Korea, `firm figures` have never been produced
-Õâ³¡Õ½Õù´İ»ÙÁË³¯ÏÊ°ëµº£¬´ÓÎ´ÓĞ¹ıÈ·ÇĞµÄÉËÍöÊı×Ö
+è¿™åœºæˆ˜äº‰æ‘§æ¯äº†æœé²œåŠå²›ï¼Œä»æœªæœ‰è¿‡ç¡®åˆ‡çš„ä¼¤äº¡æ•°å­—
 
 `Party delegates` and other `dignitaries assembled`
-µ³´ú±íºÍ¸ß¹ÙÃÇÆë¾ÛÒ»ÌÃ
+å…šä»£è¡¨å’Œé«˜å®˜ä»¬é½èšä¸€å ‚
 
 Both sides acknowledge `full disengagement` is impossible
-Ë«·½³ĞÈÏÈ«ÃæÍÑÀëÊÇ²»¿ÉÄÜµÄ
+åŒæ–¹æ‰¿è®¤å…¨é¢è„±ç¦»æ˜¯ä¸å¯èƒ½çš„
 
 `Dismantle` the old system
-²ğ³ı¾ÉÏµÍ³
+æ‹†é™¤æ—§ç³»ç»Ÿ
 
 He is `dismissive of recent predecessors`
-¶ÔÇ°ÈÎ²»Âú
+å¯¹å‰ä»»ä¸æ»¡
 
 `Disseminate false content`
-´«²¥¼ÙĞÅÏ¢
+ä¼ æ’­å‡ä¿¡æ¯
 
 Justice Kennedy joined `a liberal majority` in a `closely divided case`, while Chief Justice Roberts `dissented `
-¿ÏÄáµÏ´ó·¨¹Ù¼ÓÈëÁËÕ¼¶àÊıµÄ×ÔÓÉÅÉ£¬¶øÂŞ²®´ÄÊ×Ï¯´ó·¨¹ÙÔòÕ¾ÔÚ·´¶ÔµÄÒ»·½
+è‚¯å°¼è¿ªå¤§æ³•å®˜åŠ å…¥äº†å å¤šæ•°çš„è‡ªç”±æ´¾ï¼Œè€Œç½—ä¼¯èŒ¨é¦–å¸­å¤§æ³•å®˜åˆ™ç«™åœ¨åå¯¹çš„ä¸€æ–¹
 
 The dog is posed in `a distinctively person-like way`
-¹·±»°Ú³ÉÌØ±ğÏñÈËµÄÔìĞÍ
+ç‹—è¢«æ‘†æˆç‰¹åˆ«åƒäººçš„é€ å‹
 
 `Dithering` as `popular ire spread`
-ÓÉÓÚÃñÖÚÅ­ÆøÀ©´ó£¬³öÏÖ²»ÎÈ¶¨
+ç”±äºæ°‘ä¼—æ€’æ°”æ‰©å¤§ï¼Œå‡ºç°ä¸ç¨³å®š
 
 VC are `pouring vast sums into a dizzying array of start-up`
-·çÍ¶°Ñ´óÁ¿×Ê½ğÍ¶ÈëÑÛ»¨çÔÂÒµÄ³õ´´ÆóÒµ
+é£æŠ•æŠŠå¤§é‡èµ„é‡‘æŠ•å…¥çœ¼èŠ±ç¼­ä¹±çš„åˆåˆ›ä¼ä¸š
 
 The history of `domestication`  `dumbfounded` the news media
-Ñ±ÑøµÄÀúÊ·   ÈÃĞÂÎÅ½çÄ¿µÉ¿Ú´ô
+é©¯å…»çš„å†å²   è®©æ–°é—»ç•Œç›®çªå£å‘†
 
 `Doubling down on` political brainwashing this way is unlikely to serve cause
-Ê©¼ÓË«±¶ÕşÖÎÏ´ÄÔ²»Ì«¿ÉÄÜ´ïµ½Ä¿µÄ
+æ–½åŠ åŒå€æ”¿æ²»æ´—è„‘ä¸å¤ªå¯èƒ½è¾¾åˆ°ç›®çš„
 
 He has `taken his drive for transparency` beyond borders
-Ëû´ø×ÅÑ°ÇóÕæÏàµÄ¾öĞÄ×ß³ö¹úÃÅ
+ä»–å¸¦ç€å¯»æ±‚çœŸç›¸çš„å†³å¿ƒèµ°å‡ºå›½é—¨
 
 Trump `participated in dubious tax schemes` during the 1990s, including `instances of outright fraud`
-ÌØÀÊÆÕ×ÜÍ³ÔÚÉÏÊÀ¼Í90Äê´ú²ÉÈ¡ÁËÒ»Ğ©¿ÉÒÉµÄ±ÜË°·½°¸£¬°üÀ¨Ò»Ğ©ÍêÈ«ÊôÓÚÆÛÕ©µÄ×ö·¨
+ç‰¹æœ—æ™®æ€»ç»Ÿåœ¨ä¸Šä¸–çºª90å¹´ä»£é‡‡å–äº†ä¸€äº›å¯ç–‘çš„é¿ç¨æ–¹æ¡ˆï¼ŒåŒ…æ‹¬ä¸€äº›å®Œå…¨å±äºæ¬ºè¯ˆçš„åšæ³•
 
 make me `grumpy`, not `elated`
-Ê¹ÎÒ¸Ğµ½·³Ôê¶ø·ÇĞË·Ü
+ä½¿æˆ‘æ„Ÿåˆ°çƒ¦èºè€Œéå…´å¥‹
 
 they were `elated but still cautious`
-ËûÃÇÎª´Ë¸ßĞËµ«ÈÔ¾É½÷É÷
+ä»–ä»¬ä¸ºæ­¤é«˜å…´ä½†ä»æ—§è°¨æ…
 
 must not be exported to `embargoed nations`
-²»µÃ³ö¿Úµ½½ûÔË¹ú¼Ò
+ä¸å¾—å‡ºå£åˆ°ç¦è¿å›½å®¶
 
 charge him with `embezzlement`
-Ö¸¿ØÆäÌ°ÎÛ
+æŒ‡æ§å…¶è´ªæ±¡
 
 rewrite Constitution to `emulate` China
-ĞŞ¸ÄÏÜ·¨·ÂĞ§ÖĞ¹ú
+ä¿®æ”¹å®ªæ³•ä»¿æ•ˆä¸­å›½
 
 `infringing on the rule of law` and potentially `endangering national security`
-ÆÆ»µ·¨ÖÎ¿ÉÄÜ»áÎ£¼°¹ú¼Ò°²È«
+ç ´åæ³•æ²»å¯èƒ½ä¼šå±åŠå›½å®¶å®‰å…¨
 
 he `was engulfed in the mass persecutions`
-Ëû±»¾íÈë´ó¹æÄ£ÆÈº¦ÖĞ
+ä»–è¢«å·å…¥å¤§è§„æ¨¡è¿«å®³ä¸­
 
 `relatively enlightened`  `erratic behavior`  `exuberant expression`
-Ïà¶Ô¿ªÃ÷µÄ   ²»ÎÈ¶¨µÄĞĞÎª   ÈÈÇéÁ÷Â¶
+ç›¸å¯¹å¼€æ˜çš„   ä¸ç¨³å®šçš„è¡Œä¸º   çƒ­æƒ…æµéœ²
 
 he is expected to `enshrine his authoritarian vision`
-ËûÆÚÍû°Ñ×Ô¼ºË¼Ïë·îÎªÈ¨Íş
+ä»–æœŸæœ›æŠŠè‡ªå·±æ€æƒ³å¥‰ä¸ºæƒå¨
 
-Stricter `social security tax collections` could `erode China¡¯s corporate profits` by 2.5 percent 
-¸üÑÏ¸ñµÄÉç±£Õ÷ÊÕ¿ÉÄÜ»áÊ¹ÆóÒµÀûÈóÏÂ½µ2.5£¥
+Stricter `social security tax collections` could `erode Chinaâ€™s corporate profits` by 2.5 percent 
+æ›´ä¸¥æ ¼çš„ç¤¾ä¿å¾æ”¶å¯èƒ½ä¼šä½¿ä¼ä¸šåˆ©æ¶¦ä¸‹é™2.5ï¼…
 
 `escalate his feud with Mark`   `evade recession` for 27 years
-¼Ó¾çËûÃÇ¼ä²»ºÍ  ¶àÄêÎ´³öÏÖ¾­¼ÃË¥ÍË
+åŠ å‰§ä»–ä»¬é—´ä¸å’Œ  å¤šå¹´æœªå‡ºç°ç»æµè¡°é€€
 
 Australia's `claim to playing hard but fair has evaporated`
-°ÄÖŞ¶Ó¸Ò´ò¸ÒÆ´È´³ÏÊµµÄËµ·¨²»´æÔÚÁË
+æ¾³æ´²é˜Ÿæ•¢æ‰“æ•¢æ‹¼å´è¯šå®çš„è¯´æ³•ä¸å­˜åœ¨äº†
 
 a financial `panic had risen significantly`, shaking markets `even more `
-³öÏÖ½ğÈÚ¿Ö»ÅµÄ¿ÉÄÜĞÔÏÔÖøÉÏÉı£¬Õâ½øÒ»²½Õğº³ÁËÊĞ³¡
+å‡ºç°é‡‘èææ…Œçš„å¯èƒ½æ€§æ˜¾è‘—ä¸Šå‡ï¼Œè¿™è¿›ä¸€æ­¥éœ‡æ’¼äº†å¸‚åœº
 
 `an ever-wandering revolutionary`  `point to history as evidence`
-Ò»ÃûÀË¼£ÌìÑÄµÄ¸ïÃüÕß   Ô®ÒıÀúÊ·×÷ÎªÖ¤¾İ
+ä¸€åæµªè¿¹å¤©æ¶¯çš„é©å‘½è€…   æ´å¼•å†å²ä½œä¸ºè¯æ®
 
 `exacerbate medical problems`  `excel at` professional human sports
-¼ÓÖØ½¡¿µÎÊÌâ    ÌØ±ğÉÃ³¤ÈËÀàµÄ×¨ÒµÔË¶¯
+åŠ é‡å¥åº·é—®é¢˜    ç‰¹åˆ«æ“…é•¿äººç±»çš„ä¸“ä¸šè¿åŠ¨
  
 `excessive intervention` in the economy
-¹ı¶È¾­¼Ã¸ÉÔ¤
+è¿‡åº¦ç»æµå¹²é¢„
 
 `echoed with` the exhortations of a preacher and a gospel choir
-Ò»Î»ÄÁÊ¦µÄ¶Ø´ÙºÍ¸£Òô³ªÊ«°àµÄ¸èÉùÔÚ»Øµ´
+ä¸€ä½ç‰§å¸ˆçš„æ•¦ä¿ƒå’Œç¦éŸ³å”±è¯—ç­çš„æ­Œå£°åœ¨å›è¡
 
 he `lived in exile` in US
-ËûÁ÷ÍöÃÀ¹ú¶àÄê
+ä»–æµäº¡ç¾å›½å¤šå¹´
 
 sixty diplomats are `expelled`
-60ÃûÍâ½»¹ÙÔâÇıÖğ
+60åå¤–äº¤å®˜é­é©±é€
 
 careful examination of `the expenditures`
-×ĞÏ¸Éó²é¿ªÖ§
+ä»”ç»†å®¡æŸ¥å¼€æ”¯
 
 `exploit gaps` in regulatory responsibility
-ÀûÓÃ¼à¹ÜÔğÈÎ¿Õ°×
+åˆ©ç”¨ç›‘ç®¡è´£ä»»ç©ºç™½
 
 `extract papers` from `reluctant` librarians at archives
-´Ó²»ÇéÔ¸µÄÍ¼Êé¹ÜÔ±ÄÇ»ñµÃÒ»Ğ©ÎÄ¼ş
+ä»ä¸æƒ…æ„¿çš„å›¾ä¹¦ç®¡å‘˜é‚£è·å¾—ä¸€äº›æ–‡ä»¶
 
 `face up to` 10 years in prison
-ÃæÁÙÊ®ÄêĞÌÆÚ
+é¢ä¸´åå¹´åˆ‘æœŸ
 
 we `fact-checked` president's assertion
-ÎÒÃÇ¶Ô×ÜÍ³Ëµ·¨½øĞĞÁËÊÂÊµºË²é
+æˆ‘ä»¬å¯¹æ€»ç»Ÿè¯´æ³•è¿›è¡Œäº†äº‹å®æ ¸æŸ¥
 
 `fan nationalist`  `a fatalistic orientation`  `the ferocity of attacks`  `feverish overseas investment`  `fine particulate`
-É¿¶¯Ãñ×åÖ÷Òå  ÌıÌìÓÉÃüµÄÌ¬¶È   ¼¤ÁÒ¹¥»÷    ¿ñÈÈµÄº£ÍâÍ¶×Ê   Ï¸Ğ¡¿ÅÁ£Îï
+ç…½åŠ¨æ°‘æ—ä¸»ä¹‰  å¬å¤©ç”±å‘½çš„æ€åº¦   æ¿€çƒˆæ”»å‡»    ç‹‚çƒ­çš„æµ·å¤–æŠ•èµ„   ç»†å°é¢—ç²’ç‰©
 
 HK is `faring no better politically`
-Ïã¸ÛÔÚÕşÖÎ·½Ãæ²¢²»ºÃ
+é¦™æ¸¯åœ¨æ”¿æ²»æ–¹é¢å¹¶ä¸å¥½
 
 identified herself as `feminist`
-ÈÏÎª×Ô¼ºÊÇÅ®È¨Ö÷ÒåÕß
+è®¤ä¸ºè‡ªå·±æ˜¯å¥³æƒä¸»ä¹‰è€…
 
 sometimes to `fend for themselves`
-ÓĞµÄÖ»ÄÜ×ÔÁ¦¸üÉú
+æœ‰çš„åªèƒ½è‡ªåŠ›æ›´ç”Ÿ
 
 evolution is from `optimistic ferment to the reversals`
-¸Ä¸ï´Ó×î³õµÄÀÖ¹Û·¢½Íµ½ÏÖÔÚ³öÏÖÄæ×ª
+æ”¹é©ä»æœ€åˆçš„ä¹è§‚å‘é…µåˆ°ç°åœ¨å‡ºç°é€†è½¬
 
 `a well-considered fictionalized account`     `furry emoji`
-¾«ĞÄ¹¹Ë¼µÄĞé¹¹ÃèÊö      Ã«È×È×µÄ±íÇé°ü
+ç²¾å¿ƒæ„æ€çš„è™šæ„æè¿°      æ¯›èŒ¸èŒ¸çš„è¡¨æƒ…åŒ…
 
 `a fledgling movement` in the country  `full-fledged`
-ÔÚÕâ¸ö¹ú¼ÒµÄĞÂÔË¶¯  ÓğÒí·áÂúµÄ, ÓĞ³ä·Ö×Ê¸ñµÄ
+åœ¨è¿™ä¸ªå›½å®¶çš„æ–°è¿åŠ¨  ç¾½ç¿¼ä¸°æ»¡çš„, æœ‰å……åˆ†èµ„æ ¼çš„
 
 the company `was fined 1.2 billion and forbade from selling`
-¸Ã¹«Ë¾±»·£¿î²¢±»½ûÊÛ
+è¯¥å…¬å¸è¢«ç½šæ¬¾å¹¶è¢«ç¦å”®
 
-Korea `was flatten`£¬Koreans see the bombing as `holocaust`
-³¯ÏÊ±»ÒÄÎªÆ½µØ£¬³¯ÏÊÈËÊÓºäÕ¨Îª´óÍÀÉ±
+Korea `was flatten`ï¼ŒKoreans see the bombing as `holocaust`
+æœé²œè¢«å¤·ä¸ºå¹³åœ°ï¼Œæœé²œäººè§†è½°ç‚¸ä¸ºå¤§å± æ€
 
 `minted` graduates have `flouted hymn`   `frost-covered hair`
-±ÏÒµÉú¶Ô¹ú¸è²»¾´    ½áÂúËªµÄÍ··¢
+æ¯•ä¸šç”Ÿå¯¹å›½æ­Œä¸æ•¬    ç»“æ»¡éœœçš„å¤´å‘
 
-`getting enough fluids`£¬watching for urine that `becomes dark in color`
-¶àÒûË®×¢ÒâÄòÒºÑÕÉ«±äÉî
+`getting enough fluids`ï¼Œwatching for urine that `becomes dark in color`
+å¤šé¥®æ°´æ³¨æ„å°¿æ¶²é¢œè‰²å˜æ·±
 
 `flung a banana peel` at cameramen  `produce formidable growth`  `forward-looking young people`
-ÏòÉãÓ°Ê¦ÈÓÏã½¶Æ¤   ´ÙÉú¾Ş´óµÄÔö³¤  ¸ßÕ°Ô¶ÖõµÄÄêÇáÈË
+å‘æ‘„å½±å¸ˆæ‰”é¦™è•‰çš®   ä¿ƒç”Ÿå·¨å¤§çš„å¢é•¿  é«˜ç»è¿œç©çš„å¹´è½»äºº
 
 `a flurry of speculation` surrounding `diplomatic quarter`
-Íâ½»È¦±»Ò»ÏµÁĞ²Â²â°üÎ§
+å¤–äº¤åœˆè¢«ä¸€ç³»åˆ—çŒœæµ‹åŒ…å›´
 
 `fluttering red hammer-and-sickle flags`   `the smell of foliage`  `diplomatic foray`
-Æ®ÎèµÄ´¸×ÓÁ­µ¶ÆìÖÄ  Ê÷Ò¶(Ö²Îï)µÄÆøÏ¢   Íâ½»¹¥ÊÆ
+é£˜èˆçš„é”¤å­é•°åˆ€æ——å¸œ  æ ‘å¶(æ¤ç‰©)çš„æ°”æ¯   å¤–äº¤æ”»åŠ¿
 
 `footage` of the astronauts inside the space station
-Óîº½Ô±ÔÚ¿Õ¼äÕ¾µÄ¾µÍ·
+å®‡èˆªå‘˜åœ¨ç©ºé—´ç«™çš„é•œå¤´
 
 `forestall the possibility` of a trade war and secure China's purchase
-Ô¤ÏÈ×èÖ¹¿ÉÄÜµÄÃ³Ò×Õ½²¢ÇÒ±£Ö¤ÖĞ¹úÎ´À´Ôö¼Ó¹ºÂò
+é¢„å…ˆé˜»æ­¢å¯èƒ½çš„è´¸æ˜“æˆ˜å¹¶ä¸”ä¿è¯ä¸­å›½æœªæ¥å¢åŠ è´­ä¹°
 
-He also helped `formulate a strategy to undervalue` his parents¡¯ real estate holdings by hundreds of millions of dollars 
-Ëû»¹°ïÖúÖÆ¶©ÁËÒ»¸ö²ßÂÔ£¬½«ÄÉË°Éê±¨µ¥ÉÏ¸¸Ä¸³ÖÓĞµÄ·¿²úµÄ¼ÛÖµµÍ¹ÀÁËÊıÒÚÃÀÔª
+He also helped `formulate a strategy to undervalue` his parentsâ€™ real estate holdings by hundreds of millions of dollars 
+ä»–è¿˜å¸®åŠ©åˆ¶è®¢äº†ä¸€ä¸ªç­–ç•¥ï¼Œå°†çº³ç¨ç”³æŠ¥å•ä¸Šçˆ¶æ¯æŒæœ‰çš„æˆ¿äº§çš„ä»·å€¼ä½ä¼°äº†æ•°äº¿ç¾å…ƒ
 
-has long `cherished its special£¬if fraught£¬connection` to Japan
-Ò»Ö±ÕäÊÓÓëÈÕ±¾ÌØÊâÇÒ³äÂú²¨ÕÛµÄÁªÏµ
+has long `cherished its specialï¼Œif fraughtï¼Œconnection` to Japan
+ä¸€ç›´çè§†ä¸æ—¥æœ¬ç‰¹æ®Šä¸”å……æ»¡æ³¢æŠ˜çš„è”ç³»
 
 these are quiet but `fretful days`  `fret so much`  `power grab`
-ÕâÊÇÒ»¶ÎÆ½¾²¶ø·³ÃÆµÄÊ±ÆÚ  Ê®·Öµ£ÓÇ  È¨Á¦Õù¶á
+è¿™æ˜¯ä¸€æ®µå¹³é™è€Œçƒ¦é—·çš„æ—¶æœŸ  ååˆ†æ‹…å¿§  æƒåŠ›äº‰å¤º
 
-he also offered `a full-throated defense` of the country¡¯s big state-controlled companies  `full-throated capitalism`
-ËûÒ²ÓĞÁ¦µØÎª´óĞÍ¹úÓĞ¹«Ë¾±ç»¤   ÍêÈ«µÄ×Ê±¾Ö÷Òå
+he also offered `a full-throated defense` of the countryâ€™s big state-controlled companies  `full-throated capitalism`
+ä»–ä¹Ÿæœ‰åŠ›åœ°ä¸ºå¤§å‹å›½æœ‰å…¬å¸è¾©æŠ¤   å®Œå…¨çš„èµ„æœ¬ä¸»ä¹‰
 
 PM `would be in big trouble` if Canada were caught `funneling money to private organization`
-Èç¹û¼ÓÄÃ´ó±»×¥µ½ÏòË½ÈË×éÖ¯×ªÒÆ½ğÇ®£¬×ÜÀí»áÏİÈë´óÂé·³
+å¦‚æœåŠ æ‹¿å¤§è¢«æŠ“åˆ°å‘ç§äººç»„ç»‡è½¬ç§»é‡‘é’±ï¼Œæ€»ç†ä¼šé™·å…¥å¤§éº»çƒ¦
 
 No one will `make much of a fuss`  
-Ã»ÈË»á´ó¾ªĞ¡¹Ö  
+æ²¡äººä¼šå¤§æƒŠå°æ€ª  
 
 `facing political gale`  `garner the headlines`  `garrison state`
-Ãæ¶ÔÕşÖÎ·ç±©  ÇÀÁËÍ·Ìõ   ¾üÊÂÌåÖÆ¹ú¼Ò
+é¢å¯¹æ”¿æ²»é£æš´  æŠ¢äº†å¤´æ¡   å†›äº‹ä½“åˆ¶å›½å®¶
 
 dogs are uniquely attentive to the `human gaze`
-¹·¶ÔÈËÀàµÄÊÓÏßÓÈÎªÃô¸Ğ
+ç‹—å¯¹äººç±»çš„è§†çº¿å°¤ä¸ºæ•æ„Ÿ
 
 sporting events have long been `a window into geopolitics`
-³¤ÆÚÒÔÀ´ÌåÓıÊÂ¼şÒ»Ö±ÊÇ¹Û²ìµØÔµÕşÖÎµÄ´°¿Ú
+é•¿æœŸä»¥æ¥ä½“è‚²äº‹ä»¶ä¸€ç›´æ˜¯è§‚å¯Ÿåœ°ç¼˜æ”¿æ²»çš„çª—å£
 
 the government is `going after individuals`
-Õş¸®½«×·¾¿Ò»Ğ©¸öÈËÔğÈÎ
+æ”¿åºœå°†è¿½ç©¶ä¸€äº›ä¸ªäººè´£ä»»
 
-Trump¡¯s `soft spot` for authoritarianism `goes way back`
-´¨ÆÕ¶Ô×¨ÖÆÖ÷ÒåµÄÏ²°®ÓÉÀ´ÒÑ¾Ã
+Trumpâ€™s `soft spot` for authoritarianism `goes way back`
+å·æ™®å¯¹ä¸“åˆ¶ä¸»ä¹‰çš„å–œçˆ±ç”±æ¥å·²ä¹…
 
 space station `gradually brushes against the upper atmosphere`
-¿Õ¼äÕ¾Öğ½¥»®¹ıÉÏ²ã´óÆø
+ç©ºé—´ç«™é€æ¸åˆ’è¿‡ä¸Šå±‚å¤§æ°”
 
 two countries `grapple with the strident nationalism`
-Á½¹úÃ¦×ÅÓ¦¶ÔÇ¿Ó²µÄÃñ×åÖ÷Òå
+ä¸¤å›½å¿™ç€åº”å¯¹å¼ºç¡¬çš„æ°‘æ—ä¸»ä¹‰
 
-`the Outlook is bright£¬the challenges are also grim`
-Ç°¾°ÊÇ¹âÃ÷µÄ£¬ÌôÕ½ÊÇÑÏ¾şµÄ
+`the Outlook is brightï¼Œthe challenges are also grim`
+å‰æ™¯æ˜¯å…‰æ˜çš„ï¼ŒæŒ‘æˆ˜æ˜¯ä¸¥å³»çš„
 
 `gross domestic product` per person
-ÈË¾ù¹úÄÚÉú²ú×ÜÖµ
+äººå‡å›½å†…ç”Ÿäº§æ€»å€¼
 
 state `security chieftain` had grown `grossly corrupt`
-¹ú¼Ò°²È«Ê×ÄÔÒÑÊ®·Ö¸¯°Ü
+å›½å®¶å®‰å…¨é¦–è„‘å·²ååˆ†è…è´¥
 
 threatened with `gruff humor`
-ÓÃÉúÓ²µÄÓÄÄ¬·½Ê½ÍşĞ²
+ç”¨ç”Ÿç¡¬çš„å¹½é»˜æ–¹å¼å¨èƒ
 
 produce `a profound anti-grumpiness`
-²úÉúÉîÇĞµÄÖ¹Ôê×÷ÓÃ
+äº§ç”Ÿæ·±åˆ‡çš„æ­¢èºä½œç”¨
 
 it was always `his guts and gumption that overcame setbacks `
-ÓÀÔ¶ÊÇËûµÄÓÂÆøºÍ½øÈ¡ĞÄÈÃËû¿Ë·şÁËÀ§ÄÑ
+æ°¸è¿œæ˜¯ä»–çš„å‹‡æ°”å’Œè¿›å–å¿ƒè®©ä»–å…‹æœäº†å›°éš¾
 
 `hail a ride` downtown   `ham-handed`   `harrowing story`   `head off tariffs`  `head-spinning decision`
-½Ğ³µÈ¥ÊĞÖĞĞÄ  ±¿ÊÖ±¿½ÅµÄ   ¿ÉÅÂµÄ¹ÊÊÂ   ×èÖ¹¹ØË°  Ãş²»×ÅÍ·ÄÔµÄ¾ö¶¨
+å«è½¦å»å¸‚ä¸­å¿ƒ  ç¬¨æ‰‹ç¬¨è„šçš„   å¯æ€•çš„æ•…äº‹   é˜»æ­¢å…³ç¨  æ‘¸ä¸ç€å¤´è„‘çš„å†³å®š
 
 `take a hard line against` China since the president `took office` 
-×Ô´Ó×ÜÍ³ÉÏÌ¨ÒÔÀ´¶ÔÖĞ¹úÁ¢³¡Ç¿Ó²
+è‡ªä»æ€»ç»Ÿä¸Šå°ä»¥æ¥å¯¹ä¸­å›½ç«‹åœºå¼ºç¡¬
 
 `increasingly heavy-handed`   `heavy-headed`  `suffer a home invasion`  `humiliating snub`   `hunting ground`
-ÈÕÒæÑÏÀ÷µÄ  ³Ù¶ÛµÄ,»è»èÓûË¯µÄ   ÔâÓö¼ÒÖĞÈëÇÖ   ÎêÈèĞÔµÄµ¡Âı  ÓĞÏ£ÍûÕÒµ½ËùÑ°Çó¶«Î÷µÄµØ·½
+æ—¥ç›Šä¸¥å‰çš„  è¿Ÿé’çš„,æ˜æ˜æ¬²ç¡çš„   é­é‡å®¶ä¸­å…¥ä¾µ   ä¾®è¾±æ€§çš„æ€ æ…¢  æœ‰å¸Œæœ›æ‰¾åˆ°æ‰€å¯»æ±‚ä¸œè¥¿çš„åœ°æ–¹
 
 it created `a growth machine` that helped make China second only to the United States `in terms of economic heft. `
-°ïÖúÖĞ¹úµÄ¾­¼Ã×ÜÁ¿´ïµ½ÁË½ö´ÎÓÚÃÀ¹úµÄË®Æ½
+å¸®åŠ©ä¸­å›½çš„ç»æµæ€»é‡è¾¾åˆ°äº†ä»…æ¬¡äºç¾å›½çš„æ°´å¹³
 
 60 killed and more than 1700 `hospitalized `
-60ÈËÉ¥Éú£¬³¬¹ı1700ÈËÈëÔºÖÎÁÆ
+60äººä¸§ç”Ÿï¼Œè¶…è¿‡1700äººå…¥é™¢æ²»ç–—
 
 what would once have been `hot-button issues`
-Ä³Ğ©ÎÊÌâ¹ıÈ¥¿Ï¶¨»á³ÉÎªÈÈµã
+æŸäº›é—®é¢˜è¿‡å»è‚¯å®šä¼šæˆä¸ºçƒ­ç‚¹
 
-people had `camped out all night`£¬`huddling in blanket and clutching hot-water bottles`
-ÈËÃÇÔÚÍâÃæÂ¶ÓªÒ»ËŞ£¬¼·ÔÚÌº×ÓÏÂÄÃ×ÅÈÈË®Æ¿È¡Å¯
+people had `camped out all night`ï¼Œ`huddling in blanket and clutching hot-water bottles`
+äººä»¬åœ¨å¤–é¢éœ²è¥ä¸€å®¿ï¼ŒæŒ¤åœ¨æ¯¯å­ä¸‹æ‹¿ç€çƒ­æ°´ç“¶å–æš–
 
 `illiterate` grandparents
-Ä¿²»Ê¶¶¡µÄ×æ¸¸Ä¸
+ç›®ä¸è¯†ä¸çš„ç¥–çˆ¶æ¯
 
 reduce the multibillion-dollar `trade imbalance`
-¼õÉÙÊıÇ§ÒÚµÄÃ³Ò×²»Æ½ºâ
+å‡å°‘æ•°åƒäº¿çš„è´¸æ˜“ä¸å¹³è¡¡
 
 100,000 pages of documents describing the inner workings and `immense profitability of his empire` 
-ÃèÊöËûµÄ·¿²úµÛ¹úÄÚ²¿ÔË×÷ºÍ¾Ş´óÓ¯ÀûÄÜÁ¦µÄÓâ10ÍòÒ³µÄÎÄ¼ş
+æè¿°ä»–çš„æˆ¿äº§å¸å›½å†…éƒ¨è¿ä½œå’Œå·¨å¤§ç›ˆåˆ©èƒ½åŠ›çš„é€¾10ä¸‡é¡µçš„æ–‡ä»¶
 
 it's `imperative` that we do not `back off one iota`
-ÎÒÃÇÒ»¶¨Òª´ç²½²»ÈÃ
+æˆ‘ä»¬ä¸€å®šè¦å¯¸æ­¥ä¸è®©
 
 has a long past as `an imperialist power`
-ºÜ³¤Ò»¶ÎÊ±¼äÒ²ÊÇÒ»¸öµÛ¹úÖ÷Òå´ó¹ú
+å¾ˆé•¿ä¸€æ®µæ—¶é—´ä¹Ÿæ˜¯ä¸€ä¸ªå¸å›½ä¸»ä¹‰å¤§å›½
 
 `impose tariffs` on Chinese imports such as steel
-¶ÔÖĞ¹ú½ø¿ÚÉÌÆ·Õ÷Ë°
+å¯¹ä¸­å›½è¿›å£å•†å“å¾ç¨
 
 life imprisonment   life sentence
-ÖÕÉí¼à½û    ÎŞÆÚÍ½ĞÌ
+ç»ˆèº«ç›‘ç¦    æ— æœŸå¾’åˆ‘
 
 Trump helped his father `take improper tax deductions worth millions more `
-ÌØÀÊÆÕ°ïÖú¸¸Ç×Ê¹ÓÃ²»Õıµ±µÄË°ÊÕ¼õÃâ,×Ü¼õÃâÊı¶î¸ß´ïÊı°ÙÍòÃÀÔª
+ç‰¹æœ—æ™®å¸®åŠ©çˆ¶äº²ä½¿ç”¨ä¸æ­£å½“çš„ç¨æ”¶å‡å…,æ€»å‡å…æ•°é¢é«˜è¾¾æ•°ç™¾ä¸‡ç¾å…ƒ
 
-preachers delivered `a loose£¬improvisational sermon`
-ÄÁÊ¦ÃÇ×öÁËÒ»³¡ÇáËÉ¼´ĞËµÄ²¼µÀ
+preachers delivered `a looseï¼Œimprovisational sermon`
+ç‰§å¸ˆä»¬åšäº†ä¸€åœºè½»æ¾å³å…´çš„å¸ƒé“
 
 what we hope is that `cool heads and rational actions will prevail` instead of `emotions or impulses holding away` 
-ÎÒÃÇÏ£Íû±£³ÖÀíĞÔ¶ø·Ç¸ĞÇéÓÃÊÂ
+æˆ‘ä»¬å¸Œæœ›ä¿æŒç†æ€§è€Œéæ„Ÿæƒ…ç”¨äº‹
 
-`in a sense`£¬this was the first war    `in some respects`   `in the wake of`
-´ÓÄ³ÖÖÒâÒåÉÏ½²£¬ÕâÊÇµÚÒ»´ÎÕ½Õù    ÔÚÄ³Ğ©·½Ãæ   Ëæ×Å¡­¶øÀ´
+`in a sense`ï¼Œthis was the first war    `in some respects`   `in the wake of`
+ä»æŸç§æ„ä¹‰ä¸Šè®²ï¼Œè¿™æ˜¯ç¬¬ä¸€æ¬¡æˆ˜äº‰    åœ¨æŸäº›æ–¹é¢   éšç€â€¦è€Œæ¥
 
 `in an effort to` start a new era of closer cooperation
-Ö¼ÔÚ¿ªÆôĞÂÊ±´ú¸ü¼ÓÃÜÇĞµÄºÏ×÷
+æ—¨åœ¨å¼€å¯æ–°æ—¶ä»£æ›´åŠ å¯†åˆ‡çš„åˆä½œ
 
 new measures would `be in place` by the end of the month
-ĞÂ¾Ù´ë½«ÔÚ±¾ÔÂµ×Ö®Ç°µ½Î»
+æ–°ä¸¾æªå°†åœ¨æœ¬æœˆåº•ä¹‹å‰åˆ°ä½
 
 betray the nation's security `in return for a bribe`
-³öÂô¹ú¼Ò°²È«»»È¡»ßÂ¸
+å‡ºå–å›½å®¶å®‰å…¨æ¢å–è´¿èµ‚
 
 `mercantilist` trade practices are `indefensible`
-ÖØÉÌÖ÷ÒåÃ³Ò×ĞĞÎªÊÇ²»¿ÉÔ­ÁÂµÄ
+é‡å•†ä¸»ä¹‰è´¸æ˜“è¡Œä¸ºæ˜¯ä¸å¯åŸè°…çš„
 
 seems simply `indifferent`   `indigenous language`  `ineffectual`  `inequality`
-ËÆºõÎŞ¶¯ÓÚÖÔ  ÍÁÖøÓï  ÎŞĞ§µÄ  ²»Æ½µÈ
+ä¼¼ä¹æ— åŠ¨äºè¡·  åœŸè‘—è¯­  æ— æ•ˆçš„  ä¸å¹³ç­‰
 
 `income inequality`  `inexplicable`
-Ğ½³ê²»¾ù  ÎŞ·¨ËµÃ÷µÄ,²»ÄÜ½âÊÍµÄ
+è–ªé…¬ä¸å‡  æ— æ³•è¯´æ˜çš„,ä¸èƒ½è§£é‡Šçš„
 
 `brutal` military conquests led by the `infamous` first emperor
-³ôÃûÕÑÖøµÄ»ÊµÛ·¢Æğ²Ğ¿áµÄ¾üÊÂÕ÷·ş
+è‡­åæ˜­è‘—çš„çš‡å¸å‘èµ·æ®‹é…·çš„å†›äº‹å¾æœ
 
 my field is `in its infancy`
-ÎÒµÄÑĞ¾¿ÁìÓò´¦ÔÚ³õÆÚ½×¶Î
+æˆ‘çš„ç ”ç©¶é¢†åŸŸå¤„åœ¨åˆæœŸé˜¶æ®µ
 
 `infectious disease specialist`   `install a party boss`   `trust instinct`
-´«È¾²¡×¨¼Ò   ÈÎÃüµ³Î¯Êé¼Ç  ÏàĞÅÖ±¾õ
+ä¼ æŸ“ç—…ä¸“å®¶   ä»»å‘½å…šå§”ä¹¦è®°  ç›¸ä¿¡ç›´è§‰
 
 how `inflammatory` FB posts `stirred ethnic violence`
-¾ßÓĞÉ¿¶¯ĞÔÁ³ÊéÌû×ÓÊÇÈçºÎ¼¤ÆğÃñ×å±©Á¦µÄ
+å…·æœ‰ç…½åŠ¨æ€§è„¸ä¹¦å¸–å­æ˜¯å¦‚ä½•æ¿€èµ·æ°‘æ—æš´åŠ›çš„
 
 `infringe on the rights` of immigrants
-ÇÖ·¸ÒÆÃñµÄÈ¨Àû
+ä¾µçŠ¯ç§»æ°‘çš„æƒåˆ©
 
 mark his place in the party's history by `inscribing his idea`
-Í¨¹ıĞ´ÈëË¼Ïë¶øÔÚµ³Ê·ÁôÃû
+é€šè¿‡å†™å…¥æ€æƒ³è€Œåœ¨å…šå²ç•™å
 
 `instigated` a week of protests   `invigorate` party control
-É¿¶¯Ò»ÖÜµÄ¿¹Òé»î¶¯  ¼ÓÇ¿µ³µÄÁìµ¼
+ç…½åŠ¨ä¸€å‘¨çš„æŠ—è®®æ´»åŠ¨  åŠ å¼ºå…šçš„é¢†å¯¼
 
 use several `instruments` to observe the Earth
-Ê¹ÓÃ¶àÖÖÒÇÆ÷¹Û²âµØÇò
+ä½¿ç”¨å¤šç§ä»ªå™¨è§‚æµ‹åœ°çƒ
 
 this is `unnecessarily instrusive` and `beyond ridiculous`
-ÕâÊÇ¹ı·ÖÇÖÈÅ£¬ÊÇÔÙ»ÄÌÆ²»¹ıµÄ×ö·¨
+è¿™æ˜¯è¿‡åˆ†ä¾µæ‰°ï¼Œæ˜¯å†è’å”ä¸è¿‡çš„åšæ³•
 
 `insurgents overran` the Afghan city
-ÅÑ¾üÈëÇÖÁË°¢¸»º¹³ÇÊĞ
+å›å†›å…¥ä¾µäº†é˜¿å¯Œæ±—åŸå¸‚
 
 drivers had tagged her as an `'intellectual beauty' and 'sweetheart'`
-Ë¾»ú¸øËı´òÉÏ'ÖªĞÔÃÀÅ®'ºÍ'Ğ¡¿É°®'±êÇ©
+å¸æœºç»™å¥¹æ‰“ä¸Š'çŸ¥æ€§ç¾å¥³'å’Œ'å°å¯çˆ±'æ ‡ç­¾
 
 back off `one iota`
-ÍËÒ»Ğ¡²½
+é€€ä¸€å°æ­¥
 
 this is `joyous time to be alive`
-ÕâÊÇ¸öºÃÊ±´ú
+è¿™æ˜¯ä¸ªå¥½æ—¶ä»£
 
 newspapers `swung the klieg lights of their attention to` her `estranged half siblings`
-±¨Ö½°ÑÇ¿´ó×¢ÒâÁ¦¾Û½¹ËıÃ»ÓĞÀ´ÍùµÄÍ¬¸¸ÒìÄ¸ĞÖµÜ½ãÃÃÃÇ
+æŠ¥çº¸æŠŠå¼ºå¤§æ³¨æ„åŠ›èšç„¦å¥¹æ²¡æœ‰æ¥å¾€çš„åŒçˆ¶å¼‚æ¯å…„å¼Ÿå§å¦¹ä»¬
 
 this is my `last-ditch attempt`
-ÕâÊÇÎÒ×îºóµÄ³¢ÊÔ
+è¿™æ˜¯æˆ‘æœ€åçš„å°è¯•
 
 between 43 `degrees north` and 43 `degrees south latitudes`
-±±Î³43¶ÈºÍÄÏÎ³43¶ÈÖ®¼ä
+åŒ—çº¬43åº¦å’Œå—çº¬43åº¦ä¹‹é—´
 
 too `lax` , too corrupt  `left-behind children`  `legitimate question`
-Ì«ËÉĞ¸Ì«¸¯°Ü  ÁôÊØ¶ùÍ¯  ºÏÀíµÄÎÊÌâ
+å¤ªæ¾æ‡ˆå¤ªè…è´¥  ç•™å®ˆå„¿ç«¥  åˆç†çš„é—®é¢˜
 
 the subject of `agitated speculation` for weeks `leading up to` the wedding
-»éÀñÇ°¼¸ÖÜ¼¤ÁÒÌÖÂÛµÄ»°Ìâ
+å©šç¤¼å‰å‡ å‘¨æ¿€çƒˆè®¨è®ºçš„è¯é¢˜
 
 more and more HKers seem to feel `less and less` Chinese
-Ô½À´Ô½¶àÏã¸ÛÈËËÆºõ²»ÔÙÈÏÎª×Ô¼ºÖĞ¹úÈË
+è¶Šæ¥è¶Šå¤šé¦™æ¸¯äººä¼¼ä¹ä¸å†è®¤ä¸ºè‡ªå·±ä¸­å›½äºº
 
 `felt let down` by the way magazines portrayed Asian cuisines
-¸Ğ¾õÔÓÖ¾³ÊÏÖÑÇÖŞÃÀÊ³·½Ê½ÁîÈËÊ§Íû
+æ„Ÿè§‰æ‚å¿—å‘ˆç°äºšæ´²ç¾é£Ÿæ–¹å¼ä»¤äººå¤±æœ›
 
 social media `lit up with the wind-burned face`
-±»·ç¹ÎµÄÍ¨ºìµÄÁ³ÕÕÆ¬µãÁÁÉç½»ÍøÂç
+è¢«é£åˆ®çš„é€šçº¢çš„è„¸ç…§ç‰‡ç‚¹äº®ç¤¾äº¤ç½‘ç»œ
 
 `like-minded` academice have `retreated into silence`
-Ö¾Í¬µÀºÏµÄÑ§Õß¿ªÊ¼Ñ¡Ôñ³ÁÄ¬
+å¿—åŒé“åˆçš„å­¦è€…å¼€å§‹é€‰æ‹©æ²‰é»˜
 
 `a high likelihood` of impeachment
-ºÜ´ó¿ÉÄÜ±»µ¯ÛÀ
+å¾ˆå¤§å¯èƒ½è¢«å¼¹åŠ¾
 
 visa application will `likely to` be rejected
-Ç©Ö¤¿ÉÄÜ±»¾ÜÇ©
+ç­¾è¯å¯èƒ½è¢«æ‹’ç­¾
 
 the impacts `linger more than 60 years`
-Ó°ÏìÑÓĞø60¶àÄê
+å½±å“å»¶ç»­60å¤šå¹´
 
 `lionized him as a trailblazer`  `longstanding ties with`   `regulatory loophole`
-ÊÓËûÎªÏÈÇı   ³¤ÆÚµÄ¹ØÏµ   ¼à¹ÜÂ©¶´
+è§†ä»–ä¸ºå…ˆé©±   é•¿æœŸçš„å…³ç³»   ç›‘ç®¡æ¼æ´
 
 Private entrepreneurs `are loath to speak out` for fear of `attracting official condemnation `
-ÃñÓªÆóÒµ¼Òº¦ÅÂÕĞÀ´¹Ù·½µÄÔğ±¸²»¸Ò·¢Éù
+æ°‘è¥ä¼ä¸šå®¶å®³æ€•æ‹›æ¥å®˜æ–¹çš„è´£å¤‡ä¸æ•¢å‘å£°
 
 one could say that `long before 1997`     `memorandum` of conversation    `mercurial` leader 
-¿ÉÒÔËµÔÚ97ÄêÖ®Ç°ºÜ¾Ã         Ì¸»°±¸ÍüÂ¼     ÉÆ±äµÄÁìĞä
+å¯ä»¥è¯´åœ¨97å¹´ä¹‹å‰å¾ˆä¹…         è°ˆè¯å¤‡å¿˜å½•     å–„å˜çš„é¢†è¢–
 
 seek `a better long-term future` thru `more lucrative employment`
-Í¨¹ı¸ü·áºñµÄ¹¤×÷Ñ°Çó¸üºÃµÄ³¤Ô¶Î´À´
+é€šè¿‡æ›´ä¸°åšçš„å·¥ä½œå¯»æ±‚æ›´å¥½çš„é•¿è¿œæœªæ¥
 
-it `breaks a taboo`£¬it is `magnificent`   `minted` graduates
-Ëü´òÆÆÒ»¸ö½û¼É£¬Ïàµ±ÔŞ    ±ÏÒµÉúÃÇ
+it `breaks a taboo`ï¼Œit is `magnificent`   `minted` graduates
+å®ƒæ‰“ç ´ä¸€ä¸ªç¦å¿Œï¼Œç›¸å½“èµ    æ¯•ä¸šç”Ÿä»¬
 
 in hopes of `making eye contact`   diplomatic `maneuvering`   legal `maverick`
-Ï£Íû¿´ËûÃÇÒ»ÑÛ(ÑÛÉñ½»Á÷)   Íâ½»ÎÓĞı   ·¨ÂÉ½çÒì¼û(ÌØÁ¢¶ÀĞĞ)ÈËÊ¿
+å¸Œæœ›çœ‹ä»–ä»¬ä¸€çœ¼(çœ¼ç¥äº¤æµ)   å¤–äº¤æ–¡æ—‹   æ³•å¾‹ç•Œå¼‚è§(ç‰¹ç«‹ç‹¬è¡Œ)äººå£«
 
 `These maneuvers met with little resistance` from the Internal Revenue Service 
-ÕâĞ©×ö·¨¼¸ºõÃ»ÓĞÊÜµ½À´×ÔÃÀ¹ú¹úË°¾ÖµÄ·´¶Ô
+è¿™äº›åšæ³•å‡ ä¹æ²¡æœ‰å—åˆ°æ¥è‡ªç¾å›½å›½ç¨å±€çš„åå¯¹
 
-he insisted that it was `manifestly unfair` for the government to `tax his fortune` as it passed to his children ËûÈ´¼á³ÖÈÏÎªÕş¸®ÔÚËû°Ñ²Æ²ú¹ı»§¸ø×ÓÅ®Ê±Õ÷Ë°ÊÇÃ÷ÏÔ²»¹«Æ½µÄ
+he insisted that it was `manifestly unfair` for the government to `tax his fortune` as it passed to his children ä»–å´åšæŒè®¤ä¸ºæ”¿åºœåœ¨ä»–æŠŠè´¢äº§è¿‡æˆ·ç»™å­å¥³æ—¶å¾ç¨æ˜¯æ˜æ˜¾ä¸å…¬å¹³çš„
 
-China `marches forward`£¬US is `standing still`
-ÖĞ¹úÇ°½ø£¬ÃÀ¹úÔ­µØÌ¤²½
+China `marches forward`ï¼ŒUS is `standing still`
+ä¸­å›½å‰è¿›ï¼Œç¾å›½åŸåœ°è¸æ­¥
 
-all democrats here `essentially hate the authoritarian`£¬its bullying and its `meddling with autonomy`
-ÕâÀïµÄÃñÖ÷ÈËÊ¿»ù±¾ÉÏ¶¼Í´ºŞÍşÈ¨£¬ËüµÄÊÑÇ¿ÁèÈõºÍ¶Ô×ÔÖÎµÄ¸ÉÉæ
+all democrats here `essentially hate the authoritarian`ï¼Œits bullying and its `meddling with autonomy`
+è¿™é‡Œçš„æ°‘ä¸»äººå£«åŸºæœ¬ä¸Šéƒ½ç—›æ¨å¨æƒï¼Œå®ƒçš„æƒå¼ºå‡Œå¼±å’Œå¯¹è‡ªæ²»çš„å¹²æ¶‰
 
 `it's fair to say` the meme intends to make cinema
-¹«Æ½µÄ½²ÕâĞ©Ã×Ä·²¢·ÇÏë×öµçÓ°
+å…¬å¹³çš„è®²è¿™äº›ç±³å§†å¹¶éæƒ³åšç”µå½±
 
 while `the merits of` punishing for unfair trade practices are strong
-¾¡¹Ü³Í·£²»¹«Æ½Ã³Ò×ĞĞÎªÒàÓĞÖØ´óÒâÒå
+å°½ç®¡æƒ©ç½šä¸å…¬å¹³è´¸æ˜“è¡Œä¸ºäº¦æœ‰é‡å¤§æ„ä¹‰
 
 `income mobility charts` make your `own comparisons`
-ÊÕÈëÁ÷¶¯ĞÔÍ¼±íÈÃÄãÄÜ×ÔĞĞ±È½Ï
+æ”¶å…¥æµåŠ¨æ€§å›¾è¡¨è®©ä½ èƒ½è‡ªè¡Œæ¯”è¾ƒ
 
 losing power to `mobilize protests`    
-Ê§È¥¶¯Ô±¿¹ÒéµÄÁ¦Á¿      
+å¤±å»åŠ¨å‘˜æŠ—è®®çš„åŠ›é‡      
 
 they plan to `project a more inclusive monarchy`
-ËûÃÇ¼Æ»®³ÊÏÖÒ»¸ö¸ü¾ß°üÈİĞÔµÄ¾ıÖ÷ÖÆ
+ä»–ä»¬è®¡åˆ’å‘ˆç°ä¸€ä¸ªæ›´å…·åŒ…å®¹æ€§çš„å›ä¸»åˆ¶
 
 dogs can `feel mortified`   `nationalist bent `    `reshape norms`
-¹·ÄÜ¸Ğµ½ÇüÈè    Ãñ×åÖ÷ÒåÇãÏò    ĞÎ³É¹æ·¶
+ç‹—èƒ½æ„Ÿåˆ°å±ˆè¾±    æ°‘æ—ä¸»ä¹‰å€¾å‘    å½¢æˆè§„èŒƒ
 
 the state-run people's daily, considered `a mouthpiece`
-¹ÙÃ½ÈËÃñÈÕ±¨±»ÊÓÎªºíÉà
+å®˜åª’äººæ°‘æ—¥æŠ¥è¢«è§†ä¸ºå–‰èˆŒ
 
 response has so far been `muted`    `near-impossible`
-Æù½ñÎªÖ¹·´Ó¦½ÏÎªÎÂºÍ   ¼¸ºõ²»¿ÉÄÜµÄ
+è¿„ä»Šä¸ºæ­¢ååº”è¾ƒä¸ºæ¸©å’Œ   å‡ ä¹ä¸å¯èƒ½çš„
 
 apparently bolstered by `newfound wealth and might`
-ÏÔÈ»ÓĞÁËĞÂ»ñ²Æ¸»ÓëÁ¦Á¿³ÅÑü
+æ˜¾ç„¶æœ‰äº†æ–°è·è´¢å¯Œä¸åŠ›é‡æ’‘è…°
 
 skeptics `notwithstanding`, China's model bringing more people out of poverty
-¾¡¹ÜÓĞÈË»³ÒÉ, µ«ÖĞ¹úÄ£Ê½ÈÃ¸ü¶àÈËÍÑÆ¶
+å°½ç®¡æœ‰äººæ€€ç–‘, ä½†ä¸­å›½æ¨¡å¼è®©æ›´å¤šäººè„±è´«
 
 an actress `nudged the royal family into` a new era   `become obsessed by art`
-ÃÀ¹úÅ®ÑİÔ±½«Ó¢¹úÍõÊÒ´øÈëĞÂÊ±´ú    ÃÔÉÏÁËÒÕÊõ
+ç¾å›½å¥³æ¼”å‘˜å°†è‹±å›½ç‹å®¤å¸¦å…¥æ–°æ—¶ä»£    è¿·ä¸Šäº†è‰ºæœ¯
 
 time is `of the essence`    `of late years`
-Ê±¼ä·Ç³£ÖØÒª    ½üÄêÀ´
+æ—¶é—´éå¸¸é‡è¦    è¿‘å¹´æ¥
 
 offer `an Olive branch` amid trade war
-Ã³Ò×Õ½ÖĞÉì³öéÏé­Ö¦
+è´¸æ˜“æˆ˜ä¸­ä¼¸å‡ºæ©„æ¦„æ
 
 `weirdly, the omnipresence of subject` begins making me `grumpy`
-Ææ¹ÖµÄÊÇ, ÑĞ¾¿¶ÔÏóÎŞ´¦²»ÔÚÈ´ÈÃÎÒ¿ªÊ¼¸Ğµ½·³Ôê
+å¥‡æ€ªçš„æ˜¯, ç ”ç©¶å¯¹è±¡æ— å¤„ä¸åœ¨å´è®©æˆ‘å¼€å§‹æ„Ÿåˆ°çƒ¦èº
 
 everyone has been `on pins and needles`    `onerous jobs`   `open-necked shirt`
-Ã¿¸öÈË×øÁ¢²»°²       ·±ÖØµÄ¹¤×÷   ¿ªÁì³ÄÉÀ
+æ¯ä¸ªäººåç«‹ä¸å®‰       ç¹é‡çš„å·¥ä½œ   å¼€é¢†è¡¬è¡«
 
 while space station was `operational`   `keep space stations in orbit`
-¿Õ¼äÕ¾ÔË×ªÆÚ¼ä   Î¬³Ö¿Õ¼äÕ¾ÔÚ¹ì
+ç©ºé—´ç«™è¿è½¬æœŸé—´   ç»´æŒç©ºé—´ç«™åœ¨è½¨
 
 she `stood opposite` him   `iron ore`
-ËıÕ¾Ëû¶ÔÃæ       Ìú¿óÊ¯
+å¥¹ç«™ä»–å¯¹é¢       é“çŸ¿çŸ³
 
 Beijing `adjusted the optics` in other areas
-±±¾©ÔÚÆäËûÁìÓòÒ²ÓĞËù¶¯×÷
+åŒ—äº¬åœ¨å…¶ä»–é¢†åŸŸä¹Ÿæœ‰æ‰€åŠ¨ä½œ
 
 `ostensibly` fearing social unrest   `overhaul supervision`
-¿´×ÅÍ¦µ£ĞÄÔì³ÉÉç»á²»ÎÈ¶¨   È«Ãæ¸Ä¸ï¼à¹Ü
+çœ‹ç€æŒºæ‹…å¿ƒé€ æˆç¤¾ä¼šä¸ç¨³å®š   å…¨é¢æ”¹é©ç›‘ç®¡
 
 `outright` transformation seemed `out of reach`
-³¹µ×¸Ä±äËÆºõÒ£²»¿É¼°
+å½»åº•æ”¹å˜ä¼¼ä¹é¥ä¸å¯åŠ
 
 she is `biracial` and `outspoken in her views`
-Ëı»ìÑª¶øÇÒ¶Ô×Ô¼º¹ÛµãÖ±ÑÔ²»»ä
+å¥¹æ··è¡€è€Œä¸”å¯¹è‡ªå·±è§‚ç‚¹ç›´è¨€ä¸è®³
 
 `depicting stories` have been `overlooked or misrepresented`
-ÃèÊöµÄ¹ÊÊÂ±»ºöÊÓ»òÇú½â
+æè¿°çš„æ•…äº‹è¢«å¿½è§†æˆ–æ›²è§£
 
 China is a long way from `overtaking` US
-ÖĞ¹úÒª¸Ï³¬ÃÀ¹ú»¹ĞèÒªºÜ³¤Â·Òª×ß
+ä¸­å›½è¦èµ¶è¶…ç¾å›½è¿˜éœ€è¦å¾ˆé•¿è·¯è¦èµ°
 
 marriage is often viewed as `a social pact` and attitudes remain `deeply conservative`
-»éÒöÍùÍù±»¿´×÷Ò»ÖÖÉç»áÆõÔ¼£¬ÃñÖÚÌ¬¶ÈÒÀÈ»Ê®·Ö±£ÊØ
+å©šå§»å¾€å¾€è¢«çœ‹ä½œä¸€ç§ç¤¾ä¼šå¥‘çº¦ï¼Œæ°‘ä¼—æ€åº¦ä¾ç„¶ååˆ†ä¿å®ˆ
 
 `pageantry` of goose-stepping soldiers   `a pathway` to US citizenship
-×³¹ÛµÄÕı²½×ß¾üÍÅ    »ñµÃÃÀ¹ú¹«ÃñµÄÍ¾¾¶
+å£®è§‚çš„æ­£æ­¥èµ°å†›å›¢    è·å¾—ç¾å›½å…¬æ°‘çš„é€”å¾„
 
 `notwithstanding a parting warning` and `a call to arm` from Obama
-¾­¹ÜÊÕµ½°Â°ÍÂíÕş¸®ÁÙ±ğ¾¯¸æºÍÕ½¶·ºÅÕÙ
+ç»ç®¡æ”¶åˆ°å¥¥å·´é©¬æ”¿åºœä¸´åˆ«è­¦å‘Šå’Œæˆ˜æ–—å·å¬
 
 it was an attempt to `promote this so-called patriotic education`
-ÍÆ¹ãËùÎ½°®¹úÖ÷Òå½ÌÓıµÄ³¢ÊÔ
+æ¨å¹¿æ‰€è°“çˆ±å›½ä¸»ä¹‰æ•™è‚²çš„å°è¯•
 
 `peculiar` foreign policy   `impeccable pedigree`   `peer too deeply`
-ÌØÊâµÄÍâ½»Õş²ß   ÍêÃÀµÄ¼Ò×å±³¾°   ÉîÈë¿úÊÓ
+ç‰¹æ®Šçš„å¤–äº¤æ”¿ç­–   å®Œç¾çš„å®¶æ—èƒŒæ™¯   æ·±å…¥çª¥è§†
 
 `pendulum swinging back toward` the government   `Korean peninsula`
-ÖÓ°ÚÕıÔÚµ¹ÏòÕş¸®µÄ·½Ïò    ³¯ÏÊ°ëµº
+é’Ÿæ‘†æ­£åœ¨å€’å‘æ”¿åºœçš„æ–¹å‘    æœé²œåŠå²›
 
 pictures `pepper` Twitter feeds and Facebook posts
-ÍÆÌØºÍÁ³ÊéÉÏÈ«ÊÇÄÇĞ©ÕÕÆ¬
+æ¨ç‰¹å’Œè„¸ä¹¦ä¸Šå…¨æ˜¯é‚£äº›ç…§ç‰‡
 
 how dogs `perceive the world`   `swallowing pesticide`
-¹·¹·ÈçºÎ¸ĞÖªÊÀ½ç    ÍÌ·şÅ©Ò©
+ç‹—ç‹—å¦‚ä½•æ„ŸçŸ¥ä¸–ç•Œ    åæœå†œè¯
 
 `perceived as cozy with` the industries they regulate
-±»ÈÏÎªÓë¼à¹ÜĞĞÒµ¹ØÏµÇ×ÃÜ
+è¢«è®¤ä¸ºä¸ç›‘ç®¡è¡Œä¸šå…³ç³»äº²å¯†
 
 feel `peril close at hand`  perform the `periodic boost`
-¸Ğµ½Î£»úÔÚÅÔ    ×öÖÜÆÚĞÔÖúÍÆ
+æ„Ÿåˆ°å±æœºåœ¨æ—    åšå‘¨æœŸæ€§åŠ©æ¨
 
 `Persona non grata` in his country    `picturesque village`
-ËûÊÇ×î²»ÊÜ»¶Ó­µÄ¹úÈË    ·ç¾°Èç»­µÄ´å×Ó
+ä»–æ˜¯æœ€ä¸å—æ¬¢è¿çš„å›½äºº    é£æ™¯å¦‚ç”»çš„æ‘å­
 
-They described how Mr. Trump `piggybacked off` his father¡¯s banking connections to `gain a foothold` in Manhattan real estate. 
-ËûÃÇÃèÊöÁËÌØÀÊÆÕÈçºÎÀûÓÃËû¸¸Ç×µÄÒøĞĞ¹ØÏµ£¬ÔÚÂü¹ş¶ÙµÄ·¿µØ²úÊĞ³¡Õ¾ÎÈÁË½Å¸ú
+They described how Mr. Trump `piggybacked off` his fatherâ€™s banking connections to `gain a foothold` in Manhattan real estate. 
+ä»–ä»¬æè¿°äº†ç‰¹æœ—æ™®å¦‚ä½•åˆ©ç”¨ä»–çˆ¶äº²çš„é“¶è¡Œå…³ç³»ï¼Œåœ¨æ›¼å“ˆé¡¿çš„æˆ¿åœ°äº§å¸‚åœºç«™ç¨³äº†è„šè·Ÿ
 
 `placate trade hawks`    `create a plethora` of leadership groups
-°²¸§Ã³Ò×Ç¿Ó²ÅÉ     Ôì³ÉÁìµ¼»ú¹¹¹ıÊ£
+å®‰æŠšè´¸æ˜“å¼ºç¡¬æ´¾     é€ æˆé¢†å¯¼æœºæ„è¿‡å‰©
 
-it's well `within the bounds of possibility`£¬even `plausibility`
-ÕâÊÂÍêÈ«ÔÚ¿ÉÄÜ·¶Î§ÄÚ£¬ÉõÖÁÔÚºÏÀí·¶Î§ÄÚ
+it's well `within the bounds of possibility`ï¼Œeven `plausibility`
+è¿™äº‹å®Œå…¨åœ¨å¯èƒ½èŒƒå›´å†…ï¼Œç”šè‡³åœ¨åˆç†èŒƒå›´å†…
 
 The government has `pledged to inject` nearly $150 million into the company. 
-Õş¸®³ĞÅµÏò¸Ã¹«Ë¾×¢Èë½ü1.5ÒÚÃÀÔªµÄ×Ê½ğ
+æ”¿åºœæ‰¿è¯ºå‘è¯¥å…¬å¸æ³¨å…¥è¿‘1.5äº¿ç¾å…ƒçš„èµ„é‡‘
 
 the advocates of `political pluralism`    `political stand`  `pour into streets`
-³«µ¼ÕşÖÎ¶àÔª»¯     ÕşÖÎÁ¢³¡  Ó¿Ïò½ÖÍ·
+å€¡å¯¼æ”¿æ²»å¤šå…ƒåŒ–     æ”¿æ²»ç«‹åœº  æ¶Œå‘è¡—å¤´
 
 They `poked holes` in his `go-to talking point` about the $1 million loan 
-ËûÃÇ´Á´©ÁËËû¶ÔÄÇÏî100ÍòÃÀÔª´û¿îµÄ³£ÓÃËµ·¨
+ä»–ä»¬æˆ³ç©¿äº†ä»–å¯¹é‚£é¡¹100ä¸‡ç¾å…ƒè´·æ¬¾çš„å¸¸ç”¨è¯´æ³•
 
-news media `portrayed the meeting`  `crude meddling` in China¡¯s `internal affairs`
-ĞÂÎÅÃ½Ìå³ÊÏÖ»áÎî    ¶ÔÖĞ¹úÄÚÕşµÄ´Ö±©¸ÉÉæ
+news media `portrayed the meeting`  `crude meddling` in Chinaâ€™s `internal affairs`
+æ–°é—»åª’ä½“å‘ˆç°ä¼šæ™¤    å¯¹ä¸­å›½å†…æ”¿çš„ç²—æš´å¹²æ¶‰
 
 he `possesses a blue-ribbon political pedigree`  `precursor trips`   `predatory practices`
-ËûÕâÖÖÓµÓĞ¸ùÕıÃçºìµÄÕşÖÎÑªÍ³    ÏÈĞĞ·ÃÎÊ   ÂÓ¶áĞÔĞĞÎª
+ä»–è¿™ç§æ‹¥æœ‰æ ¹æ­£è‹—çº¢çš„æ”¿æ²»è¡€ç»Ÿ    å…ˆè¡Œè®¿é—®   æ å¤ºæ€§è¡Œä¸º
 
 a `pothole epidemic` turns the streets into `embarrassing mess`   `press freedom`
-¿Ó¿ÓÍİÍİµÄ½ÖµÀÈÃ³ÇÊĞÁîÈËŞÏŞÎ£¬±äµÃÒ»ÍÅÔã   ĞÂÎÅ×ÔÓÉ/³ö°æ×ÔÓÉ
+å‘å‘æ´¼æ´¼çš„è¡—é“è®©åŸå¸‚ä»¤äººå°´å°¬ï¼Œå˜å¾—ä¸€å›¢ç³Ÿ   æ–°é—»è‡ªç”±/å‡ºç‰ˆè‡ªç”±
 
 Korea transformed into an `economic powerhouse`  `set a precedent`
-º«¹ú±ä³ÉÒ»¸ö¾­¼ÃÇ¿¹ú  Éè¶¨ÏÈÀı£¬¿ªÏÈºÓ
+éŸ©å›½å˜æˆä¸€ä¸ªç»æµå¼ºå›½  è®¾å®šå…ˆä¾‹ï¼Œå¼€å…ˆæ²³
 
 while mao `promoted class struggle` and deng `embraced pragmatic capitalism`
-Ã«Ìá³«½×¼¶¶·Õù£¬µËÓµ±§ÊµÓÃµÄ×Ê±¾Ö÷Òå
+æ¯›æå€¡é˜¶çº§æ–—äº‰ï¼Œé‚“æ‹¥æŠ±å®ç”¨çš„èµ„æœ¬ä¸»ä¹‰
 
 `presumably` the future king  `a pristine stretch` of ocean
-ºÜ¿ÉÄÜµÄÎ´À´¹úÍõ    Ò»Æ¬Î´¿ª·¢µÄÏÁ³¤º£Óò
+å¾ˆå¯èƒ½çš„æœªæ¥å›½ç‹    ä¸€ç‰‡æœªå¼€å‘çš„ç‹­é•¿æµ·åŸŸ
 
 `preternatural sensitivity` to emotions and behavior   `pro rata`
-¶Ô¸ĞÇéºÍĞĞÎª³¬×ÔÈ»µÄÎòĞÔ  °´±ÈÀıµÄ/adv.³É±ÈÀı
+å¯¹æ„Ÿæƒ…å’Œè¡Œä¸ºè¶…è‡ªç„¶çš„æ‚Ÿæ€§  æŒ‰æ¯”ä¾‹çš„/adv.æˆæ¯”ä¾‹
 
 `profligate lending` can worsen relations with other countries rather than help them
-ËÁÒâ»Ó»ôµÄ½è´û»áÁî¹ú¼Ò¼ä¹ØÏµ¶ñ»¯¶ø²»ÊÇ´Ù½ø
+è‚†æ„æŒ¥éœçš„å€Ÿè´·ä¼šä»¤å›½å®¶é—´å…³ç³»æ¶åŒ–è€Œä¸æ˜¯ä¿ƒè¿›
 
 `prohibitively high` tuition   `propaganda department`
-¸ßµÄÍû¶øÈ´²½µÄÑ§·Ñ   Ğû´«²¿
+é«˜çš„æœ›è€Œå´æ­¥çš„å­¦è´¹   å®£ä¼ éƒ¨
 
 US proposed temporarily dividing the country along `the 38th Parallel`
-ÃÀ¹úÌá³öÔİÊ±ÑØ38Ïß»®·Ö³¯ÏÊ
+ç¾å›½æå‡ºæš‚æ—¶æ²¿38çº¿åˆ’åˆ†æœé²œ
 
 `his faction propounded`   `prosaic industries`
-ËûµÄÒ»ÅÉÌá³ö    Æ½·²µÄĞĞÒµ
+ä»–çš„ä¸€æ´¾æå‡º    å¹³å‡¡çš„è¡Œä¸š
 
-the city of `prose and fantasy`£¬of capitalist automatism£¬its streets `a triumph of cubism`
-É¢ÎÄºÍ»ÃÏëÖ®³Ç£¬×Ê±¾Ö÷Òå×Ô¶¯Ö÷ÒåÖ®³Ç£¬ÕâÀï½ÖµÀÊÇÁ¢ÌåÖ÷ÒåµÄÊ¤Àû
+the city of `prose and fantasy`ï¼Œof capitalist automatismï¼Œits streets `a triumph of cubism`
+æ•£æ–‡å’Œå¹»æƒ³ä¹‹åŸï¼Œèµ„æœ¬ä¸»ä¹‰è‡ªåŠ¨ä¸»ä¹‰ä¹‹åŸï¼Œè¿™é‡Œè¡—é“æ˜¯ç«‹ä½“ä¸»ä¹‰çš„èƒœåˆ©
 
 such positions are `provocative`   `punitive measures` 
-ÕâÑùµÄÁ¢³¡ÊÇÉ¿¶¯ĞÔµÄ   ³Í·£´ëÊ©
+è¿™æ ·çš„ç«‹åœºæ˜¯ç…½åŠ¨æ€§çš„   æƒ©ç½šæªæ–½
 
 `burst of diplomacy punctuated` by nuclear tests
-Íâ½»Í»ÆÆÊ±²»Ê±±»ºËÊÔÑé´ò¶Ï
+å¤–äº¤çªç ´æ—¶ä¸æ—¶è¢«æ ¸è¯•éªŒæ‰“æ–­
 
 Japanese imperial `puppet state`    
-ÈÕµÛ¹úµÄ¿şÀÜÕş¸®  
+æ—¥å¸å›½çš„å‚€å„¡æ”¿åºœ  
 
 `quid pro quo`            `quasi`
-²¹³¥Îï/½»»»Ìõ¼ş    adj.×¼µÄÀàËÆµÄ/adv.¼¸ºõËÆºõÊÇ
+è¡¥å¿ç‰©/äº¤æ¢æ¡ä»¶    adj.å‡†çš„ç±»ä¼¼çš„/adv.å‡ ä¹ä¼¼ä¹æ˜¯
 
 was there `a quid pro quo`    `ransomware`
-ÕâÓĞÃ»ÓĞ½»»»Ìõ¼ş      ÀÕË÷Èí¼ş
+è¿™æœ‰æ²¡æœ‰äº¤æ¢æ¡ä»¶      å‹’ç´¢è½¯ä»¶
 
 he has `railed against` the country for weakening its currency 
-ËûÔøÖ¸Ôğ¶ÔÊÖ¹ÊÒâÁî»õ±Ò±áÖµ
+ä»–æ›¾æŒ‡è´£å¯¹æ‰‹æ•…æ„ä»¤è´§å¸è´¬å€¼
 
 `rarely do dogs get to be dogs`
-¹·¼¸ºõ²»ÔÙÊÇ¹·
+ç‹—å‡ ä¹ä¸å†æ˜¯ç‹—
 
 `ideological reactionary`    `realpolitik consideration`
-ÒâÊ¶ĞÎÌ¬·´¶¯ÅÉ     ÏÖÊµÕşÖÎ¿¼Á¿
+æ„è¯†å½¢æ€ååŠ¨æ´¾     ç°å®æ”¿æ²»è€ƒé‡
 
-confident£¬reasonable£¬`willing to bargain`
-×ÔĞÅ£¬½²µÀÀíÔ¸Òâ½»Ò×
+confidentï¼Œreasonableï¼Œ`willing to bargain`
+è‡ªä¿¡ï¼Œè®²é“ç†æ„¿æ„äº¤æ˜“
 
 he `reasserted sweeping supremacy`
-ËûÖØÉê¾ø¶ÔµÄ¿ØÖÆÈ¨
+ä»–é‡ç”³ç»å¯¹çš„æ§åˆ¶æƒ
 
 in `an apparent rebuke of` president
-Ã÷ÏÔÔÚÖ¸ÔğÖ÷Ï¯
+æ˜æ˜¾åœ¨æŒ‡è´£ä¸»å¸­
 
 `informer recanted`
-¸æÃÜÕß¹«¿ªÈÏ´í
+å‘Šå¯†è€…å…¬å¼€è®¤é”™
 
 leaders `recoiled from relaxation`
-Áìµ¼ÈËÊÕËõ¿íËÉÕş²ß
+é¢†å¯¼äººæ”¶ç¼©å®½æ¾æ”¿ç­–
 
 she `recuses herself from` the case
-Ëı»Ø±Ü¸Ã°¸
+å¥¹å›é¿è¯¥æ¡ˆ
 
 `redouble efforts to do `
-¼Ó±¶Å¬Á¦×ö
+åŠ å€åŠªåŠ›åš
 
 `highly regarded` historians
-ÏíÓĞÊ¢ÓşµÄÊ·Ñ§¼Ò
+äº«æœ‰ç››èª‰çš„å²å­¦å®¶
 
 `rein in` the growth of wealth management products
-¿ØÖÆÀí²Æ²úÆ·Ôö³¤
+æ§åˆ¶ç†è´¢äº§å“å¢é•¿
 
 `reinforce the point` to China that `our resolve` is strong
-ÏòÖĞ¹úÇ¿µ÷ÎÒÃÇ¾öĞÄ¼á¶¨
+å‘ä¸­å›½å¼ºè°ƒæˆ‘ä»¬å†³å¿ƒåšå®š
 
 `reinvent itself `at critical moments to survive
-ÔÚ¹Ø¼üÊ±¿ÌÖØ»ñĞÂÉú
+åœ¨å…³é”®æ—¶åˆ»é‡è·æ–°ç”Ÿ
 
 using visit to `reinvigorate ties`   `food-delivery`
-ÀûÓÃ·ÃÎÊÀ´ÖØÕñÁ½¹ú¹ØÏµ     ÍâÂô
+åˆ©ç”¨è®¿é—®æ¥é‡æŒ¯ä¸¤å›½å…³ç³»     å¤–å–
 
 Fred Trump was `relentless and creative` in `finding ways to channel` this wealth to his children 
-¸¥À×µÂ¡¤ÌØÀÊÆÕéé¾«½ßÂÇ¡¢Ç§·½°Ù¼Æ°ÑÕâ±Ê²Æ¸»×ªÒÆ¸ø×ÓÅ®
+å¼—é›·å¾·Â·ç‰¹æœ—æ™®æ®šç²¾ç«­è™‘ã€åƒæ–¹ç™¾è®¡æŠŠè¿™ç¬”è´¢å¯Œè½¬ç§»ç»™å­å¥³
 
 `renege on` these terms    `fear of reprisals`    `revolving door`
-Î¥±³ÕâĞ©Ìõ¿î         µ£ĞÄ±¨¸´         Ğı×ªÃÅ
+è¿èƒŒè¿™äº›æ¡æ¬¾         æ‹…å¿ƒæŠ¥å¤         æ—‹è½¬é—¨
 
 we do not `hide feelings of repugnance` towards him
-ÎÒÃÇ²»ÑÚÊÎ¶ÔËûµÄÑá¶ñ
+æˆ‘ä»¬ä¸æ©é¥°å¯¹ä»–çš„åŒæ¶
 
 `resent an arrangement`   `revamp the service`
-Ô÷ºŞÕâ¸ö°²ÅÅ          Õû¸Ä¸Ã·şÎñ
+æ†æ¨è¿™ä¸ªå®‰æ’          æ•´æ”¹è¯¥æœåŠ¡
 
 `this disconnect reveals a rift` within the Pro-democracy camp
-ÕâÖÖÍÑ½Ú±©Â¶³öÃñÖ÷ÅÉÕóÓªÄÚ²¿µÄ·ÖÆç
+è¿™ç§è„±èŠ‚æš´éœ²å‡ºæ°‘ä¸»æ´¾é˜µè¥å†…éƒ¨çš„åˆ†æ­§
 
 `right-hand man`   `risk-taking behavior`  `roil politics` 
-×ó°òÓÒ±ÛµÄÈË     Ã°ÏÕĞĞÎª          º³¶¯ÕşÖÎ
+å·¦è†€å³è‡‚çš„äºº     å†’é™©è¡Œä¸º          æ’¼åŠ¨æ”¿æ²»
 
 pressures on private businesses could `create serious ripples.`
-ÃñÓª¹¤ÉÌÒµÊÜ¼·Ñ¹¿ÉÄÜÔì³ÉÑÏÖØµÄºó¹û
+æ°‘è¥å·¥å•†ä¸šå—æŒ¤å‹å¯èƒ½é€ æˆä¸¥é‡çš„åæœ
 
-journalist `was roughed up` and detained£¬while covering `the disciplinary hearing`
-ÔÚ±¨µÀ³Í½äÌıÖ¤»áÊ±£¬¼ÇÕßÔâµ½´Ö±©¶Ô´ıºÍ¾ĞÁô
+journalist `was roughed up` and detainedï¼Œwhile covering `the disciplinary hearing`
+åœ¨æŠ¥é“æƒ©æˆ’å¬è¯ä¼šæ—¶ï¼Œè®°è€…é­åˆ°ç²—æš´å¯¹å¾…å’Œæ‹˜ç•™
 
 `is rumored to do`  `run-ins with system`
-¾İ´«×öÊ²Ã´       ÓëÏµÍ³ÓĞ³åÍ»
+æ®ä¼ åšä»€ä¹ˆ       ä¸ç³»ç»Ÿæœ‰å†²çª
 
 `highest rung` of power    `sap strength`
-×î¸ßÕşÖÎµØÎ»        Ï÷ÈõÊµÁ¦
+æœ€é«˜æ”¿æ²»åœ°ä½        å‰Šå¼±å®åŠ›
 
 we are `deeply saddened` by and sorry about the tragedy
-ÎÒÃÇ¸Ğµ½Íò·Ö±¯Í´ÓëÀ¢¾Î
+æˆ‘ä»¬æ„Ÿåˆ°ä¸‡åˆ†æ‚²ç—›ä¸æ„§ç–š
 
 `cast himself as the salvation` of both party and nation
-°Ñ×Ô¼ºµ±³Éµ³ºÍ¹ú¼ÒÖĞĞËÕß
+æŠŠè‡ªå·±å½“æˆå…šå’Œå›½å®¶ä¸­å…´è€…
 
 `forerunners` sanctioned slavery
-×æÏÈ×¼ĞíÅ«Á¥ÖÆ
+ç¥–å…ˆå‡†è®¸å¥´éš¶åˆ¶
 
 the details have `been scant`
-µ«Ï¸½ÚÉĞ²»Çå³ş
+ä½†ç»†èŠ‚å°šä¸æ¸…æ¥š
 
 `the scars` from that time `were deeply felt`
-ÄÇ¸öÊ±´úÁôÏÂÉËºÛÍ¦Éî
+é‚£ä¸ªæ—¶ä»£ç•™ä¸‹ä¼¤ç—•æŒºæ·±
 
 `the scenic approach` to Windsor Castle
-Í¨ÍùÎÂÉ¯³Ç±¤·ç¾°ÓÅÃÀµÄÂ·
+é€šå¾€æ¸©èåŸå ¡é£æ™¯ä¼˜ç¾çš„è·¯
 
 he was involved in `two bribery schemes`
-Ëû²ÎÓëÁËÁ½Æğ»ßÂ¸¼Æ»®
+ä»–å‚ä¸äº†ä¸¤èµ·è´¿èµ‚è®¡åˆ’
 
 `political schism deepens`   `scorched earth`
-ÕşÖÎ·ÖÆç¼ÓÉî   ½¹ÍÁ²ßÂÔ
+æ”¿æ²»åˆ†æ­§åŠ æ·±   ç„¦åœŸç­–ç•¥
 
 `scorn for the party`   `sedition charges`
-¶ÔÕşµ³µÄÃïÊÓ    É¿¶¯Ö¸¿Ø
+å¯¹æ”¿å…šçš„è”‘è§†    ç…½åŠ¨æŒ‡æ§
 
 `advocate varying degrees of self-determination`
-Ö÷ÕÅÊµÏÖ²»Í¬³Ì¶È×ÔÖÎ
+ä¸»å¼ å®ç°ä¸åŒç¨‹åº¦è‡ªæ²»
 
 Trump won the presidency `proclaiming himself a self-made billionaire `
-ÌØÀÊÆÕÒÔÒ»¸ö°×ÊÖÆğ¼ÒµÄÒÚÍò¸»ÎÌµÄĞÎÏóÓ®µÃÁË×ÜÍ³´óÑ¡
+ç‰¹æœ—æ™®ä»¥ä¸€ä¸ªç™½æ‰‹èµ·å®¶çš„äº¿ä¸‡å¯Œç¿çš„å½¢è±¡èµ¢å¾—äº†æ€»ç»Ÿå¤§é€‰
 
 `seminal work`    `sensational stories`   `shake-up`
-ÖØÒª¹¤×÷       º§ÈËÌıÎÅµÄ¹ÊÊÂ   ÈËÊÂ¸Ä×é
+é‡è¦å·¥ä½œ       éª‡äººå¬é—»çš„æ•…äº‹   äººäº‹æ”¹ç»„
 
 `set the stage` for decades of tension
-ÎªÊıÊ®ÄêµÄ½ôÕÅ¹ØÏµÂñÏÂ·ü±Ê
+ä¸ºæ•°åå¹´çš„ç´§å¼ å…³ç³»åŸ‹ä¸‹ä¼ç¬”
 
 `set the tone` for Soviet-American rivalry
-ÎªÃÀËÕ¾ºÕùµì¶¨ÁË»ùµ÷
+ä¸ºç¾è‹ç«äº‰å¥ å®šäº†åŸºè°ƒ
 
 he killed himself by `severing the arteries in his legs`
-ËûÇĞ¶ÏÍÈ²¿¶¯Âö×ÔÉ±
+ä»–åˆ‡æ–­è…¿éƒ¨åŠ¨è„‰è‡ªæ€
 
 He and his siblings `set up a sham corporation` to `disguise` millions of dollars in gifts from their parents 
-ËûºÍËûµÄĞÖµÜ½ãÃÃÃÇ³ÉÁ¢ÁËÒ»¸öÆ¤°ü¹«Ë¾£¬ÓÃÒÔÕÚÑÚ¸¸Ä¸ÔùËÍ¸øËûÃÇµÄ³É°ÙÉÏÇ§ÍòÃÀÔª
+ä»–å’Œä»–çš„å…„å¼Ÿå§å¦¹ä»¬æˆç«‹äº†ä¸€ä¸ªçš®åŒ…å…¬å¸ï¼Œç”¨ä»¥é®æ©çˆ¶æ¯èµ é€ç»™ä»–ä»¬çš„æˆç™¾ä¸Šåƒä¸‡ç¾å…ƒ
 
 `a sheen of permanence`
-ÓÀ¾ÃµÄ¹â»Ô
+æ°¸ä¹…çš„å…‰è¾‰
 
 `art center of gravity shifts toward Asia`
-ÒÕÊõÖØĞÄÏòÑÇÖŞ×ªÒÆ
+è‰ºæœ¯é‡å¿ƒå‘äºšæ´²è½¬ç§»
 
 `shine a light on` darkest secrets
-½Ò¿ª×îºÚ°µµÄÃØÃÜ
+æ­å¼€æœ€é»‘æš—çš„ç§˜å¯†
 
 `high heart rate`   `shortness of breath`
-ĞÄÌø¼ÓËÙ     ºôÎü¶Ì´Ù
+å¿ƒè·³åŠ é€Ÿ     å‘¼å¸çŸ­ä¿ƒ
 
 a plan `sends shudders` through `policy circles`
-¼Æ»®ÈÃÕş²ßÈ¦¸Ğµ½Õğ¾ª
+è®¡åˆ’è®©æ”¿ç­–åœˆæ„Ÿåˆ°éœ‡æƒŠ
 
 the north not only `shunned the 1988 summer Olympic` but also tried to disrupt the games
-³¯ÏÊ²»½öµÖÖÆ88Äê°ÂÔË¶øÇÒÊÔÍ¼ÈÅÂÒ±ÈÈü
+æœé²œä¸ä»…æŠµåˆ¶88å¹´å¥¥è¿è€Œä¸”è¯•å›¾æ‰°ä¹±æ¯”èµ›
 
 `shuttered the company's business` and put tens of thousands of jobs at risk
-¹ØÍ£¹«Ë¾ÒµÎñ£¬ÖÂÎ£¼°ÊıÍò¹¤×÷
+å…³åœå…¬å¸ä¸šåŠ¡ï¼Œè‡´å±åŠæ•°ä¸‡å·¥ä½œ
 
 that idea `is under siege`   `border skirmish`
-Õâ¸ö¹ÛÄîÕı±»Î§¹¥    ±ß¾³³åÍ»
+è¿™ä¸ªè§‚å¿µæ­£è¢«å›´æ”»    è¾¹å¢ƒå†²çª
 
 Korea `singled out him` for criticism
-³¯ÏÊµ¥Ìô³öËûÅúÆÀ
+æœé²œå•æŒ‘å‡ºä»–æ‰¹è¯„
 
 `sit back and watch` as interests get hurt
-×øÊÓÀûÒæÊÜËğ
+åè§†åˆ©ç›Šå—æŸ
 
 I `sit down to` many movies `featuring dogs`
-ÎÒ¿´ÁËĞí¶à¹·²ÎÑİµÄµçÓ°
+æˆ‘çœ‹äº†è®¸å¤šç‹—å‚æ¼”çš„ç”µå½±
 
 `is sketchily understood` from China's point of view
-´ÓÖĞ¹úµÄ½Ç¶È»ñµÃ´ÖÂÔµÄÈÏÊ¶
+ä»ä¸­å›½çš„è§’åº¦è·å¾—ç²—ç•¥çš„è®¤è¯†
 
 librarians `skilled at deflecting the inquiries`
-Í¼Êé¹ÜÀíÔ±ºÜÉÆÓÚÈ°×èÑ¯ÎÊ
+å›¾ä¹¦ç®¡ç†å‘˜å¾ˆå–„äºåŠé˜»è¯¢é—®
 
 Such statements are wrong and `slanted `
-ÄÇĞ©Ëµ·¨ÂÛµ÷¶¼ÊÇ´íÎóµÄÆ¬ÃæµÄ
+é‚£äº›è¯´æ³•è®ºè°ƒéƒ½æ˜¯é”™è¯¯çš„ç‰‡é¢çš„
 
 `slapstick comedy`      `smoldering crisis`
-ÄÖ¾ç/µÍ¼¶Ï²¾ç        »ı¾ÛµÄÅúÆÀ
+é—¹å‰§/ä½çº§å–œå‰§        ç§¯èšçš„æ‰¹è¯„
 
 `less visible` than `sleek modern skyscrapers`
-Óë¹âÏÊÁÁÀöÏÖ´úÄ¦Ìì´óÂ¥±È¸ü²»ÎªÈËËù¼ûµÄÊÇ
+ä¸å…‰é²œäº®ä¸½ç°ä»£æ‘©å¤©å¤§æ¥¼æ¯”æ›´ä¸ä¸ºäººæ‰€è§çš„æ˜¯
 
 Beijing has `been smothered by sandstorm`
-±±¾©ÁıÕÖÔÚÉ³³¾±©ÖĞ
+åŒ—äº¬ç¬¼ç½©åœ¨æ²™å°˜æš´ä¸­
 
 `jailhouse snitch`  `soft spot`
-¼àÓü¸æÃÜÕß     Èõµã
+ç›‘ç‹±å‘Šå¯†è€…     å¼±ç‚¹
 
 the deal `soothed fears`
-¸ÃĞ­Òé»ººÍÁËµ£ÓÇ
+è¯¥åè®®ç¼“å’Œäº†æ‹…å¿§
 
 `rightful sovereign`   `spoiler`   `stagecraft`
-ºÏ·¨Ö÷È¨  ¾çÍ¸Õß   ±à¾ç²ÅÄÜ/Ñİ³ö¼¼Êõ
+åˆæ³•ä¸»æƒ  å‰§é€è€…   ç¼–å‰§æ‰èƒ½/æ¼”å‡ºæŠ€æœ¯
 
 city `was subjected to` the sovereign of China
-ÊÜµ½ÖĞ¹úµÄÖ÷È¨Í³ÖÎ
+å—åˆ°ä¸­å›½çš„ä¸»æƒç»Ÿæ²»
 
 her furture `sparkled with promise`
-ËıÇ°Í¾Ò»Æ¬¹âÃ÷
+å¥¹å‰é€”ä¸€ç‰‡å…‰æ˜
 
 they `spoke of `a need for free trade
-ËûÃÇÌáµ½×ÔÓÉÃ³Ò×µÄĞèÒª
+ä»–ä»¬æåˆ°è‡ªç”±è´¸æ˜“çš„éœ€è¦
 
 the subject of `agitated speculation` for weeks `leading up to` the wedding
-»éÀñÇ°¼¸ÖÜ¼¤ÁÒÌÖÂÛµÄ»°Ìâ
+å©šç¤¼å‰å‡ å‘¨æ¿€çƒˆè®¨è®ºçš„è¯é¢˜
 
 the spacecraft is `slowly spinning`
-º½ÌìÆ÷ÕıÂıËÙĞı×ª
+èˆªå¤©å™¨æ­£æ…¢é€Ÿæ—‹è½¬
 
 began as `a spoil of bloody conquests`
-ÒÔÑªĞÈµÄÕ÷·ş¿ªÊ¼
+ä»¥è¡€è…¥çš„å¾æœå¼€å§‹
 
 journalists `spotted honor guard`
-¼ÇÕßÃÇ·¢ÏÖÒÇÕÌ±ø
+è®°è€…ä»¬å‘ç°ä»ªä»—å…µ
 
 `take a tough stance`    `stand up to pressure` 
-²ÉÈ¡Ç¿Ó²Á¢³¡    ¾­ÊÜÑ¹Á¦/¿¸×¡Ñ¹Á¦
+é‡‡å–å¼ºç¡¬ç«‹åœº    ç»å—å‹åŠ›/æ‰›ä½å‹åŠ›
 
 she `stood apart from Diana`
-ËıºÍ´÷°²ÄÈºÜ²»Ò»Ñù
+å¥¹å’Œæˆ´å®‰å¨œå¾ˆä¸ä¸€æ ·
 
 `stand-ins` for emotions and sentiment
-Çé¸ĞºÍÇéĞ÷µÄÌæÉí
+æƒ…æ„Ÿå’Œæƒ…ç»ªçš„æ›¿èº«
 
 `starchy academic`  `stark example`
-¹Å°åµÄÑ§Õß    Ã÷ÏÔµÄÀı×Ó
+å¤æ¿çš„å­¦è€…    æ˜æ˜¾çš„ä¾‹å­
 
 `start off fast`   `global statesman`
-¿ìËÙ¿ªÊ¼      ¹ú¼ÊÕşÖÎ¼Ò
+å¿«é€Ÿå¼€å§‹      å›½é™…æ”¿æ²»å®¶
 
 `the most startling moments` came with `the sermon`
-×îÈÃÈËÕğ¾ªµÄÊ±¿ÌÊÇ²¼µÀ
+æœ€è®©äººéœ‡æƒŠçš„æ—¶åˆ»æ˜¯å¸ƒé“
 
-he said `in a calm£¬steady voice`
-ËûÓÃÆ½¾²¶ø¼á¶¨µÄÓïÆøËµ
+he said `in a calmï¼Œsteady voice`
+ä»–ç”¨å¹³é™è€Œåšå®šçš„è¯­æ°”è¯´
 
-Some of the government¡¯s `efforts stem from necessity `
-Õş¸®µÄÄ³Ğ©×ö·¨Ô´ÓÚĞèÒª
+Some of the governmentâ€™s `efforts stem from necessity `
+æ”¿åºœçš„æŸäº›åšæ³•æºäºéœ€è¦
 
 we need to `step up to win the trust` of our users
-ÎÒÃÇ¹¼¸ºÁËÓÃ»§µÄĞÅÈÎ(ĞèÒªÔöÇ¿Ó®µÃĞÅÈÎ)
+æˆ‘ä»¬è¾œè´Ÿäº†ç”¨æˆ·çš„ä¿¡ä»»(éœ€è¦å¢å¼ºèµ¢å¾—ä¿¡ä»»)
 
 the past five years have `been really stifling`
-ÕâÎåÄêÌØ±ğÑ¹ÒÖµÄ
+è¿™äº”å¹´ç‰¹åˆ«å‹æŠ‘çš„
 
 `ride the wave of credit stimulus`
-³Ë×ÅĞÅ´û´Ì¼¤µÄÀË³±
+ä¹˜ç€ä¿¡è´·åˆºæ¿€çš„æµªæ½®
 
 `stint running`
-µ£ÈÎ¹ı/¹ÜÀíÒ»¶ÎÊ±¼ä
+æ‹…ä»»è¿‡/ç®¡ç†ä¸€æ®µæ—¶é—´
 
 `stray dog`
-Á÷ÀË¹·
+æµæµªç‹—
 
 `strengthen/dilute control`
-¼ÓÇ¿/Ï÷Èõ¿ØÖÆ
+åŠ å¼º/å‰Šå¼±æ§åˆ¶
 
 `stretch the bounds of convention`
-´òÆÆ³£¹æÏŞÖÆ
+æ‰“ç ´å¸¸è§„é™åˆ¶
 
 `strident nationalism`
-ñøÔëµÄÃñ×åÖ÷ÒåÕß
+è’å™ªçš„æ°‘æ—ä¸»ä¹‰è€…
 
 `stringent media censorship`
-ÑÏ¸ñµÄÃ½ÌåÉó²é
+ä¸¥æ ¼çš„åª’ä½“å®¡æŸ¥
 
 `strode out` in the hall
-´Ó´óÌüÖĞ×ß³öÀ´
+ä»å¤§å…ä¸­èµ°å‡ºæ¥
 
 what `a strong hand` he has goes to negotiations
-ËûÔÚÌ¸ÅĞÖĞÓĞ¶à´óÊµÁ¦
+ä»–åœ¨è°ˆåˆ¤ä¸­æœ‰å¤šå¤§å®åŠ›
 
 similar conquests `were undertaken subsequently`
-ÀàËÆµÄÕ÷·şËæºóÏà¼Ì·¢Éú
+ç±»ä¼¼çš„å¾æœéšåç›¸ç»§å‘ç”Ÿ
 
 persistent `high fever subside`
-³ÖĞø¸ßÉÕ¼õÍË
+æŒç»­é«˜çƒ§å‡é€€
 
 `supersensitive` corporation
-³¬¼¶Ãô¸ĞµÄ¹«Ë¾
+è¶…çº§æ•æ„Ÿçš„å…¬å¸
 
 these memories `swelled`
-¼¤Æğ¶ÔÍùÊÂ»ØÒä
+æ¿€èµ·å¯¹å¾€äº‹å›å¿†
 
 I didn't expect them to be so `impatient and swift`
-ÎÒÃ»Ïëµ½ËıÃÇ»áÄÇÃ´¼±ÄÇÃ´¿ì
+æˆ‘æ²¡æƒ³åˆ°å¥¹ä»¬ä¼šé‚£ä¹ˆæ€¥é‚£ä¹ˆå¿«
 
 speak `sympathetically`
-Í¬ÇéµØËµ
+åŒæƒ…åœ°è¯´
 
 `break a taboo`
-´òÆÆÒ»¸ö½û¼É
+æ‰“ç ´ä¸€ä¸ªç¦å¿Œ
 
 come to `a tacit understanding`
-´ï³ÉÄ¬Æõ
+è¾¾æˆé»˜å¥‘
 
-`take their toll on` China¡¯s financial health 
-¶Ô½ğÈÚ½¡¿µÔì³ÉËğº¦
+`take their toll on` Chinaâ€™s financial health 
+å¯¹é‡‘èå¥åº·é€ æˆæŸå®³
 
 he would `take the heat`
-ËûÔ¸Òâ³ĞÊÜ¹¥»÷
+ä»–æ„¿æ„æ‰¿å—æ”»å‡»
 
 `industrial takeoff` and `feverish urban growth
-¹¤ÒµÌÚ·ÉºÍ³ÇÊĞ·¢Õ¹
+å·¥ä¸šè…¾é£å’ŒåŸå¸‚å‘å±•
 
 `ball-tampering`
-ÇòÈü²Ù¿Ø
+çƒèµ›æ“æ§
 
 treating development and security `in tandem`
-Í¬µÈ¶Ô´ı·¢Õ¹ºÍ°²È«
+åŒç­‰å¯¹å¾…å‘å±•å’Œå®‰å…¨
 
 add `a tangible new requirement`
-Ôö¼ÓÒ»¸öĞÂµÄÊµ¼ÊÒªÇó
+å¢åŠ ä¸€ä¸ªæ–°çš„å®é™…è¦æ±‚
 
 tensions continue to mount amid missile tests and `taunts`
-½ôÕÅ¹ØÏµÔÚµ¼µ¯ÊÔÉäºÍÃ¡ÂîÉùÖĞÉı¼¶
+ç´§å¼ å…³ç³»åœ¨å¯¼å¼¹è¯•å°„å’Œè°©éª‚å£°ä¸­å‡çº§
 
-Uniqlo£¬clothing giant is `teaming up with` the designer
-ÓÅÒÂ¿âÕıÓëÉè¼ÆÊ¦ºÏ×÷
+Uniqloï¼Œclothing giant is `teaming up with` the designer
+ä¼˜è¡£åº“æ­£ä¸è®¾è®¡å¸ˆåˆä½œ
 
 `teeming fisheries`
-·áÅæµÄÓæ³¡
+ä¸°æ²›çš„æ¸”åœº
 
 `tenacious` researchers
-Ö´×ÅµÄÑĞ¾¿Ô±
+æ‰§ç€çš„ç ”ç©¶å‘˜
 
 `tend to` recommend
-ÇãÏòÓÚ½¨Òé
+å€¾å‘äºå»ºè®®
 
 one of `the least developed` in China
-ÖĞ¹ú×î²»·¢´ïµÄÒ»¸öµØ·½
+ä¸­å›½æœ€ä¸å‘è¾¾çš„ä¸€ä¸ªåœ°æ–¹
 
-any wedding is `theater`£¬this one did not disappoint
-ÈÎºÎ»éÀñ¶¼ÊÇÑİÏ·£¬Õâ´ÎÒ²Ã»ÈÃÈËÊ§Íû
+any wedding is `theater`ï¼Œthis one did not disappoint
+ä»»ä½•å©šç¤¼éƒ½æ˜¯æ¼”æˆï¼Œè¿™æ¬¡ä¹Ÿæ²¡è®©äººå¤±æœ›
 
 urban children have `thrived academically`
-³ÇÊĞ¶ùÍ¯ÔÚÑ§ÒµÉÏ·¢Õ¹Ñ¸ËÙ
+åŸå¸‚å„¿ç«¥åœ¨å­¦ä¸šä¸Šå‘å±•è¿…é€Ÿ
 
 `the throngs` filled the streets of Windsor
-ÎÂÉ¯½ÖµÀÉÏ¼·ÂúÁËÈËÈº
+æ¸©èè¡—é“ä¸ŠæŒ¤æ»¡äº†äººç¾¤
 
 when `throughout` the fall
-Õû¸öÇï¼¾
+æ•´ä¸ªç§‹å­£
 
 `tighten sanctions `
-ÊÕ½ôÖÆ²Ã
+æ”¶ç´§åˆ¶è£
 
 `time bomb`
-¶¨Ê±Õ¨µ¯/Ç±ÔÚÆÆ»µÒòËØ
+å®šæ—¶ç‚¸å¼¹/æ½œåœ¨ç ´åå› ç´ 
 
 `tit for tat`
-ÒÔÑÀ»¹ÑÀ/Õë·æÏà¶Ô
+ä»¥ç‰™è¿˜ç‰™/é’ˆé”‹ç›¸å¯¹
 
 at `a torrid pace`
-ÒÔ·É¿ìµÄËÙ¶È
+ä»¥é£å¿«çš„é€Ÿåº¦
 
 it's `torture` for people
-¶ÔÈËÃÇÀ´Ëµ¾ÍÊÇÒ»ÖÖÊÜ×ï
+å¯¹äººä»¬æ¥è¯´å°±æ˜¯ä¸€ç§å—ç½ª
 
 `tousled hair`
-ÅîÂÒµÄÍ··¢
+è“¬ä¹±çš„å¤´å‘
 
 bridesmaids and pageboys `trailed behind` her
-ÄĞÅ®ÙÏÏà¸ú×ÅËıºóÃæ
+ç”·å¥³å‚§ç›¸è·Ÿç€å¥¹åé¢
 
 `lionized him as a trailblazer`
-ÊÓËûÎªÏÈÇı
+è§†ä»–ä¸ºå…ˆé©±
 
 `trek` almost three miles to school
-°ÏÉæ¼¸ºõÈıÓ¢ÀïÈ¥Ñ§Ğ£
+è·‹æ¶‰å‡ ä¹ä¸‰è‹±é‡Œå»å­¦æ ¡
 
 in a time of `tribalism and separation`
-ÔÚÊÀ½ç´¦ÓÚ²¿ÂäÖ÷ÒåºÍ¸ôºÒµÄÊ±´ú
+åœ¨ä¸–ç•Œå¤„äºéƒ¨è½ä¸»ä¹‰å’Œéš”é˜‚çš„æ—¶ä»£
 
 `triumphant stagecraft`
-³öÉ«µÄ±à¾çÄÜÁ¦
+å‡ºè‰²çš„ç¼–å‰§èƒ½åŠ›
 
 that should not `be trivialized`
-ÄÇ²»Ó¦±»ÇáÊÓ
+é‚£ä¸åº”è¢«è½»è§†
 
-he came to China `bearing gifts£¬tried his hand at Mandarin`
-Ëû´ø×ÅÀñÎïÀ´ÖĞ¹ú£¬ÊÔ×Å½²ÆÕÍ¨»°
+he came to China `bearing giftsï¼Œtried his hand at Mandarin`
+ä»–å¸¦ç€ç¤¼ç‰©æ¥ä¸­å›½ï¼Œè¯•ç€è®²æ™®é€šè¯
 
 `relies heavily on` archives in `Europe that tumbled` open
-ºÜ´ó³Ì¶ÈÉÏÒÀÀµÀ´×Åµ¹Ì¨ÖĞÅ·¹ú¼Ò¹«¿ªµÄµµ°¸
+å¾ˆå¤§ç¨‹åº¦ä¸Šä¾èµ–æ¥ç€å€’å°ä¸­æ¬§å›½å®¶å…¬å¼€çš„æ¡£æ¡ˆ
 
 `ensure a credible turnout`
-È·±£ÓĞĞ§Æ±Êı
+ç¡®ä¿æœ‰æ•ˆç¥¨æ•°
 
 `twisted path`
-ÇúÕÛµÄµÀÂ·
+æ›²æŠ˜çš„é“è·¯
 
 `the ubiquity` of dogs in our culture
-¹·ÔÚÎÒÃÇÎÄ»¯ÖĞÎŞ´¦²»ÔÚ
+ç‹—åœ¨æˆ‘ä»¬æ–‡åŒ–ä¸­æ— å¤„ä¸åœ¨
 
 `unbeknown` to him
-Ëû²»ÖªµÀ
+ä»–ä¸çŸ¥é“
 
 there was `no unbridgeable Gulf`
-ÄÇ¶ùÃ»ÓĞ²»¿ÉÓâÔ½µÄºè¹µ
+é‚£å„¿æ²¡æœ‰ä¸å¯é€¾è¶Šçš„é¸¿æ²Ÿ
 
 our responsibilities in this case `are undeniable`
-ÔÚÕâ¼şÊÂÉÏÎÒÃÇ¸ºÓĞ²»¿ÉÍÆĞ¶µÄÔğÈÎ
+åœ¨è¿™ä»¶äº‹ä¸Šæˆ‘ä»¬è´Ÿæœ‰ä¸å¯æ¨å¸çš„è´£ä»»
 
 bribe him to `undermine national security`
-»ßÂ¸ËûÆÆ»µ¹ú¼Ò°²È«
+è´¿èµ‚ä»–ç ´åå›½å®¶å®‰å…¨
 
 `underpinning` that dispute lies a more consequential struggle
-ÕùÂÛµÄ¸ùÔ´ÊÇ¶·Õù
+äº‰è®ºçš„æ ¹æºæ˜¯æ–—äº‰
 
 `undue influence` is always a problem
-²»Õıµ±µÄÓ°ÏìÊ¼ÖÕÊÇ¸öÎÊÌâ
+ä¸æ­£å½“çš„å½±å“å§‹ç»ˆæ˜¯ä¸ªé—®é¢˜
 
 `"unharmonious voices"` were now `condemning` private enterprise. 
-Ò»Ğ©¡°²»Ğ³ºÍµÄÉùÒô¡±ÔÚÉùÌÖÃñÓªÆóÒµ
+ä¸€äº›â€œä¸è°å’Œçš„å£°éŸ³â€åœ¨å£°è®¨æ°‘è¥ä¼ä¸š
 
 oppose the `unilateralism `
-·´¶Ôµ¥±ßÖ÷Òå
+åå¯¹å•è¾¹ä¸»ä¹‰
 
-referred repeatedly to social tensions `unleashed by` economic inequality£¬pollution and inadequate access to healthcare£¬schools and housing
-¶à´ÎÖ¸³öÉç»á½ôÕÅÀ´×ÔÓÚ¾­¼Ã²»Æ½µÈ£¬ÎÛÈ¾¼ÓÉÏÒ½ÁÆ½ÌÓıºÍ×¡·¿µÄ²»×ã
+referred repeatedly to social tensions `unleashed by` economic inequalityï¼Œpollution and inadequate access to healthcareï¼Œschools and housing
+å¤šæ¬¡æŒ‡å‡ºç¤¾ä¼šç´§å¼ æ¥è‡ªäºç»æµä¸å¹³ç­‰ï¼Œæ±¡æŸ“åŠ ä¸ŠåŒ»ç–—æ•™è‚²å’Œä½æˆ¿çš„ä¸è¶³
 
 US `is unnerved by` China's rise
-ÃÀ¹ú¶ÔÖĞ¹úáÈÆğ¸Ğµ½²»°²
+ç¾å›½å¯¹ä¸­å›½å´›èµ·æ„Ÿåˆ°ä¸å®‰
 
 The experiment was `an unparalleled success. `
-ÕâÒ»³¢ÊÔÎŞ±È³É¹¦
+è¿™ä¸€å°è¯•æ— æ¯”æˆåŠŸ
 
 royal fans embraced the couple `unreservedly`
-ÍõÊÒ·ÛË¿ÃÇºÁÎŞ±£ÁôµØ½ÓÊÜÕâ¶Ô·ò¸¾
+ç‹å®¤ç²‰ä¸ä»¬æ¯«æ— ä¿ç•™åœ°æ¥å—è¿™å¯¹å¤«å¦‡
 
 organize `an unsanctioned rally`
-×éÖ¯Î´¾­Åú×¼µÄ¼¯»á
+ç»„ç»‡æœªç»æ‰¹å‡†çš„é›†ä¼š
 
 `unyielding` leader
-Ç¿Ó²µÄÁìµ¼
+å¼ºç¡¬çš„é¢†å¯¼
 
 the nation was recovering from `the upheaval`
-¹ú¼Ò´Ó¶¯µ´ÖĞ»Ö¸´
+å›½å®¶ä»åŠ¨è¡ä¸­æ¢å¤
 
 `vast majority of otherwise` healthy children
-¾ø´ó¶àÊı½¡¿µµÄ¶ùÍ¯
+ç»å¤§å¤šæ•°å¥åº·çš„å„¿ç«¥
 
 historical record suggests `a vastly different` interpretation
-ÀúÊ·¼ÇÂ¼Ìá¹©Ò»ÖÖ½ØÈ»²»Í¬µÄ½âÊÍ
+å†å²è®°å½•æä¾›ä¸€ç§æˆªç„¶ä¸åŒçš„è§£é‡Š
 
-the dim£¬`vaulted opening` of street
-¹âÏß°µµÄ¹°¶¥½ÖÈë¿Ú
+the dimï¼Œ`vaulted opening` of street
+å…‰çº¿æš—çš„æ‹±é¡¶è¡—å…¥å£
 
 the `vaunted` dream
-´óËÁĞû´«µÄÃÎÏë
+å¤§è‚†å®£ä¼ çš„æ¢¦æƒ³
 
 `vending machine`
-×Ô¶¯ÊÛ»õ»ú
+è‡ªåŠ¨å”®è´§æœº
 
 drivers will be required to `be vetted` and go through a background check
-Ë¾»ú±»ÒªÇó½ÓÊÜÉó²é²¢½ÓÊÜ±³¾°µ÷²é
+å¸æœºè¢«è¦æ±‚æ¥å—å®¡æŸ¥å¹¶æ¥å—èƒŒæ™¯è°ƒæŸ¥
 
 `vicious cycle`
-¶ñĞÔÑ­»·
+æ¶æ€§å¾ªç¯
 
 violate `basic engineering standards`
-Î¥·´»ù±¾¹¤³ÌÑ§¹æ·¶
+è¿ååŸºæœ¬å·¥ç¨‹å­¦è§„èŒƒ
 
 photo `goes viral online`
-ÕÕÆ¬ÔÚÍøÉÏ²¡¶¾Ê½´«²¥¿ª
+ç…§ç‰‡åœ¨ç½‘ä¸Šç—…æ¯’å¼ä¼ æ’­å¼€
 
 army `virtually collapsed`
-¾ü¶ÓÊµ¼ÊÉÏ±¼À£ÁË
+å†›é˜Ÿå®é™…ä¸Šå¥”æºƒäº†
 
 `virtually safe dose`
-Êµ¼Ê°²È«·şÓÃ¼ÁÁ¿
+å®é™…å®‰å…¨æœç”¨å‰‚é‡
 
 `wage a long legal fight` against Well Fargo
-Ïò¸»¹úÒøĞĞ·¢ÆğÂş³¤·¨ÂÉÕ½
+å‘å¯Œå›½é“¶è¡Œå‘èµ·æ¼«é•¿æ³•å¾‹æˆ˜
 
 `walk the thin line`
-±£³ÖÆ½ºâ
+ä¿æŒå¹³è¡¡
 
 `wary about/of` rising levels of debt
-¾¯ÌèÅÊÉıµÄÕ®Îñ
+è­¦æƒ•æ”€å‡çš„å€ºåŠ¡
 
 using `an upturned washbowl` balanced on knees as a desk
-ÓÃÏ´Á³Åèµ¹¿ÛÔÚÏ¥¸ÇÉÏ³äµ±Êé×À
+ç”¨æ´—è„¸ç›†å€’æ‰£åœ¨è†ç›–ä¸Šå……å½“ä¹¦æ¡Œ
 
-I went `in hopeful`£¬I came `out waspish`
-ÎÒÂú»³ÆÚ´ı½øÈ¥£¬´ø×ÅÂúÉí·³Ôê³öÀ´
+I went `in hopeful`ï¼ŒI came `out waspish`
+æˆ‘æ»¡æ€€æœŸå¾…è¿›å»ï¼Œå¸¦ç€æ»¡èº«çƒ¦èºå‡ºæ¥
 
-Beijing¡¯s efforts to `wean the economy from` its dependence on borrowing 
-±±¾©ÔÚÅ¬Á¦°ÚÍÑ¾­¼Ã¶ÔĞÅ´ûµÄÒÀÀµ
+Beijingâ€™s efforts to `wean the economy from` its dependence on borrowing 
+åŒ—äº¬åœ¨åŠªåŠ›æ‘†è„±ç»æµå¯¹ä¿¡è´·çš„ä¾èµ–
 
 `weather enough to know`
-±¥¾­·çÓêÖªµÀ
+é¥±ç»é£é›¨çŸ¥é“
 
 `which is to say`
-Ò²¾ÍÊÇËµ
+ä¹Ÿå°±æ˜¯è¯´
 
 four men `wielding swords` were shot dead at a security checkpoint
-ËÄÃû»ÓÎè½£µÄÄĞ×ÓÔÚÒ»¸ö°²È«¼ì²éÕ¾±»»÷±Ğ
+å››åæŒ¥èˆå‰‘çš„ç”·å­åœ¨ä¸€ä¸ªå®‰å…¨æ£€æŸ¥ç«™è¢«å‡»æ¯™
 
 `in a wig` and a white dress
-Í·´÷¼Ù·¢´©Ò»¼ş°×É«È¹×°
+å¤´æˆ´å‡å‘ç©¿ä¸€ä»¶ç™½è‰²è£™è£…
 
 `creating a will` is about your legacy
-´´½¨¹ØÓÚÄãÒÅÁôµÄÒÅÖö
+åˆ›å»ºå…³äºä½ é—ç•™çš„é—å˜±
 
 both countries have `shown a willingness` to compromise to reduce trade tension
-Ë«·½±íÏÖ³öÍ×Ğ­ÒâÔ¸À´»ººÍÃ³Ò×½ôÕÅ¹ØÏµ
+åŒæ–¹è¡¨ç°å‡ºå¦¥åæ„æ„¿æ¥ç¼“å’Œè´¸æ˜“ç´§å¼ å…³ç³»
 
-as the `negotiations wound down`£¬`mixed signals emerged` about the progress the two sides had made
-Ëæ×ÅÌ¸ÅĞ½áÊø£¬ÓĞ¹ØË«·½Ëù»ñ½øÕ¹ÓĞÏ²ÓĞÓÇ
+as the `negotiations wound down`ï¼Œ`mixed signals emerged` about the progress the two sides had made
+éšç€è°ˆåˆ¤ç»“æŸï¼Œæœ‰å…³åŒæ–¹æ‰€è·è¿›å±•æœ‰å–œæœ‰å¿§
 
-president has `dismissed it as a witch-hunt`£¬ but FBI repeatedly took steps that benefited him
-×ÜÍ³³Æµ÷²éÊÇÕşÖÎÆÈº¦£¬µ«µ÷²é¾Ö¶à´Î²ÉÈ¡¶ÔÆäÓĞÀûµÄ´ëÊ©
+president has `dismissed it as a witch-hunt`ï¼Œ but FBI repeatedly took steps that benefited him
+æ€»ç»Ÿç§°è°ƒæŸ¥æ˜¯æ”¿æ²»è¿«å®³ï¼Œä½†è°ƒæŸ¥å±€å¤šæ¬¡é‡‡å–å¯¹å…¶æœ‰åˆ©çš„æªæ–½
 
 step into `a wonderland`
-ÖÃÉíÏÉ¾³
+ç½®èº«ä»™å¢ƒ
 
-dogs `wriggling in the snow£¬sniffing or licking or wagging`
-¹·ÔÚÑ©µØÅ¤¶¯£¬ĞáÀ´ĞáÈ¥£¬ÌòÈË£¬Ò¡Î²°Í
-
-
-
-
-
+dogs `wriggling in the snowï¼Œsniffing or licking or wagging`
+ç‹—åœ¨é›ªåœ°æ‰­åŠ¨ï¼Œå—…æ¥å—…å»ï¼Œèˆ”äººï¼Œæ‘‡å°¾å·´

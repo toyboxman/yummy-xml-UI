@@ -1,252 +1,252 @@
 The Defense Department should `capitalize on that resource surge to build breakthrough capabilities` in A.I., quantum, hypersonics and other `priority technology areas`
-¹ú·À²¿Ó¦½«ÕâĞ©×ÊÔ´Í¶×Êµ½ÈË¹¤ÖÇÄÜ¡¢Á¿×ÓÎïÀí¡¢³¬ÒôËÙ¼¼ÊõºÍÆäËû¸ßÓÅÏÈ¼¶¼¼ÊõÉÏ£¬ÒÔ´´ÔìÁìÓòË®Æ½ÉÏµÄÍ»ÆÆ
+å›½é˜²éƒ¨åº”å°†è¿™äº›èµ„æºæŠ•èµ„åˆ°äººå·¥æ™ºèƒ½ã€é‡å­ç‰©ç†ã€è¶…éŸ³é€ŸæŠ€æœ¯å’Œå…¶ä»–é«˜ä¼˜å…ˆçº§æŠ€æœ¯ä¸Šï¼Œä»¥åˆ›é€ é¢†åŸŸæ°´å¹³ä¸Šçš„çªç ´
 
-For example, a partnership should `expand affordable access` to cloud computing for university researchers and students. A new proposal from Stanford for a ¡°National Research Cloud¡± `offers a vision` for this.
-ÀıÈç£¬Ó¦¸Ã½¨Á¢Ò»ÖÖºÏ×÷»ï°é¹ØÏµ£¬ÈÃ´óÑ§ÑĞ¾¿ÈËÔ±ºÍÑ§Éú¿ÉÒÔÓÃÉÏÁ®¼ÛµÄÔÆ¼ÆËã¡£Ë¹Ì¹¸£´óÑ§µÄĞÂÌáÒé¡°¹ú¼ÒÑĞ¾¿ÔÆ¡±Îª¸ÃÄ¿±êÌá¹©ÁËÒ»¸öË¼Â·
+For example, a partnership should `expand affordable access` to cloud computing for university researchers and students. A new proposal from Stanford for a â€œNational Research Cloudâ€ `offers a vision` for this.
+ä¾‹å¦‚ï¼Œåº”è¯¥å»ºç«‹ä¸€ç§åˆä½œä¼™ä¼´å…³ç³»ï¼Œè®©å¤§å­¦ç ”ç©¶äººå‘˜å’Œå­¦ç”Ÿå¯ä»¥ç”¨ä¸Šå»‰ä»·çš„äº‘è®¡ç®—ã€‚æ–¯å¦ç¦å¤§å­¦çš„æ–°æè®®â€œå›½å®¶ç ”ç©¶äº‘â€ä¸ºè¯¥ç›®æ ‡æä¾›äº†ä¸€ä¸ªæ€è·¯
 
-We can change the immigration process for `highly skilled people` now to `reduce the red tape, backlogs and uncertainty` that threaten to drive tech talent to other countries ¡ª including to our strategic competitors.
-ÎÒÃÇÏÖÔÚ¾Í¿ÉÒÔ¸Ä±ä¸ß¼¼ÄÜÈË²ÅµÄÒÆÃñ³ÌĞò£¬ÒÔ¼õÉÙ¹ÙÁÅÖ÷Òå¡¢»ıÑ¹ºÍ²»È·¶¨ĞÔ£¬ÕâĞ©¶¼ÓĞ¿ÉÄÜ½«¿Æ¼¼ÈË²ÅÍÆÏòÆäËû¹ú¼Ò¡ª¡ª°üÀ¨ÎÒÃÇµÄÕ½ÂÔ¾ºÕù¶ÔÊÖ
+We can change the immigration process for `highly skilled people` now to `reduce the red tape, backlogs and uncertainty` that threaten to drive tech talent to other countries â€” including to our strategic competitors.
+æˆ‘ä»¬ç°åœ¨å°±å¯ä»¥æ”¹å˜é«˜æŠ€èƒ½äººæ‰çš„ç§»æ°‘ç¨‹åºï¼Œä»¥å‡å°‘å®˜åƒšä¸»ä¹‰ã€ç§¯å‹å’Œä¸ç¡®å®šæ€§ï¼Œè¿™äº›éƒ½æœ‰å¯èƒ½å°†ç§‘æŠ€äººæ‰æ¨å‘å…¶ä»–å›½å®¶â€”â€”åŒ…æ‹¬æˆ‘ä»¬çš„æˆ˜ç•¥ç«äº‰å¯¹æ‰‹
 
 We should `accelerate discovery by creating more flexible ways` to fund `the most promising researchers` for multiple years at a time. This `opens longer-term paths` to scientific discovery
-ÎÒÃÇÓ¦¸ÃÍ¨¹ı´´Ôì¸üÁé»îµÄ·½Ê½À´¼ÓËÙĞÂ·¢ÏÖ£¬Îª×îÓĞÇ°Í¾µÄÑĞ¾¿ÈËÔ±Ìá¹©¶àÄê×ÊÖú¡£Õâ»áÎª¿ÆÑ§·¢ÏÖ¿ª±Ù¸ü³¤Ô¶µÄµÀÂ·
+æˆ‘ä»¬åº”è¯¥é€šè¿‡åˆ›é€ æ›´çµæ´»çš„æ–¹å¼æ¥åŠ é€Ÿæ–°å‘ç°ï¼Œä¸ºæœ€æœ‰å‰é€”çš„ç ”ç©¶äººå‘˜æä¾›å¤šå¹´èµ„åŠ©ã€‚è¿™ä¼šä¸ºç§‘å­¦å‘ç°å¼€è¾Ÿæ›´é•¿è¿œçš„é“è·¯
 
 `Despite earnest efforts`, the tech community has not `demonstrated convincingly` that it can regulate itself
-¾¡¹Ü×ö³öÁËÈÏÕæµÄÅ¬Á¦£¬µ«¿Æ¼¼½ç²¢Ã»ÓĞÁîÈËĞÅ·şµØÖ¤Ã÷Ëü¿ÉÒÔ×ÔÎÒµ÷Õû
+å°½ç®¡åšå‡ºäº†è®¤çœŸçš„åŠªåŠ›ï¼Œä½†ç§‘æŠ€ç•Œå¹¶æ²¡æœ‰ä»¤äººä¿¡æœåœ°è¯æ˜å®ƒå¯ä»¥è‡ªæˆ‘è°ƒæ•´
 
-`To be sure`, while we are competing with the Chinese, we should also work with them. There are many areas where cooperation can help everyone ¡ª for example in A.I.-based approaches to `climate challenges, space exploration, disaster relief and pandemics.`
-µ±È»£¬ÎÒÃÇÔÚÓëÖĞ¹úÈË¾ºÕùµÄÍ¬Ê±£¬Ò²Ó¦¸ÃÓëËûÃÇºÏ×÷¡£ÔÚĞí¶àÁìÓò£¬ºÏ×÷¿ÉÒÔ°ïÖúËùÓĞÈË¡ª¡ªÀıÈçÊ¹ÓÃÈË¹¤ÖÇÄÜ£¬ÔÚÓ¦¶ÔÆøºòÌôÕ½¡¢Ì«¿ÕÌ½Ë÷¡¢¾ÈÔÖºÍÁ÷ĞĞ²¡µÈ·½Ãæ²ÉÈ¡´ëÊ©
+`To be sure`, while we are competing with the Chinese, we should also work with them. There are many areas where cooperation can help everyone â€” for example in A.I.-based approaches to `climate challenges, space exploration, disaster relief and pandemics.`
+å½“ç„¶ï¼Œæˆ‘ä»¬åœ¨ä¸ä¸­å›½äººç«äº‰çš„åŒæ—¶ï¼Œä¹Ÿåº”è¯¥ä¸ä»–ä»¬åˆä½œã€‚åœ¨è®¸å¤šé¢†åŸŸï¼Œåˆä½œå¯ä»¥å¸®åŠ©æ‰€æœ‰äººâ€”â€”ä¾‹å¦‚ä½¿ç”¨äººå·¥æ™ºèƒ½ï¼Œåœ¨åº”å¯¹æ°”å€™æŒ‘æˆ˜ã€å¤ªç©ºæ¢ç´¢ã€æ•‘ç¾å’Œæµè¡Œç—…ç­‰æ–¹é¢é‡‡å–æªæ–½
 
 `These recommendations are informed by` recent experiences in industry and public service, but they are `inspired by the conviction instilled` when I was a much younger man that a wise federal strategy can `spur innovation`, drive private enterprise and `renew American leadership.`
-ÕâĞ©½¨ÒéÊÇ¸ù¾İÎÒ×î½üÔÚ²úÒµºÍ¹«¹²·şÎñ·½ÃæµÄ¾­ÑéÌá³öµÄ£¬µ«ËüÃÇµÄÁé¸Ğ£¬À´×ÔÄêÉÙÖ®Ê±Ç±ÒÆÄ¬»¯¶ø³ÉµÄĞÅÄî£ºÃ÷ÖÇµÄÁª°îÕ½ÂÔ¿ÉÒÔ´Ì¼¤´´ĞÂ¡¢ÍÆ¶¯Ë½ÓªÆóÒµºÍÖØÕñÃÀ¹úµÄÁìµ¼µØÎ»
+è¿™äº›å»ºè®®æ˜¯æ ¹æ®æˆ‘æœ€è¿‘åœ¨äº§ä¸šå’Œå…¬å…±æœåŠ¡æ–¹é¢çš„ç»éªŒæå‡ºçš„ï¼Œä½†å®ƒä»¬çš„çµæ„Ÿï¼Œæ¥è‡ªå¹´å°‘ä¹‹æ—¶æ½œç§»é»˜åŒ–è€Œæˆçš„ä¿¡å¿µï¼šæ˜æ™ºçš„è”é‚¦æˆ˜ç•¥å¯ä»¥åˆºæ¿€åˆ›æ–°ã€æ¨åŠ¨ç§è¥ä¼ä¸šå’Œé‡æŒ¯ç¾å›½çš„é¢†å¯¼åœ°ä½
 
-Ultimately, the Chinese are competing to become the world¡¯s leading innovators, and the United States `is not playing to win`. A `bold, bipartisan initiative` can `extend our country¡¯s technology advantage` beyond what many experts predict. `Success matters` for more than our companies¡¯ bottom lines and our military¡¯s `battlefield edge`
-×îÖÕ£¬ÖĞ¹úÕıÔÚ¾ºÕù³ÉÎªÊÀ½çÁìÏÈµÄ´´ĞÂÕß£¬¶øÃÀ¹úÕâÑùÏÂÈ¥ÊÇ²»»á»ñÊ¤µÄ¡£Ò»¸ö´óµ¨µÄ¡¢¿çµ³ÅÉµÄ³«Òé¸øÎÒ¹úµÄ¼¼ÊõÓÅÊÆ´øÀ´µÄ´ó·ùÌáÕñ£¬½«ÊÇĞí¶à×¨¼Ò²»ÔøÔ¤¼ûµÄ¡£³É°Ü²»Ö»ÊÇ¹ØÏµµ½ÆóÒµµÄÓ¯¿÷ºÍ¾ü¶ÓÔÚÕ½³¡ÉÏµÄÓÅÊÆ
+Ultimately, the Chinese are competing to become the worldâ€™s leading innovators, and the United States `is not playing to win`. A `bold, bipartisan initiative` can `extend our countryâ€™s technology advantage` beyond what many experts predict. `Success matters` for more than our companiesâ€™ bottom lines and our militaryâ€™s `battlefield edge`
+æœ€ç»ˆï¼Œä¸­å›½æ­£åœ¨ç«äº‰æˆä¸ºä¸–ç•Œé¢†å…ˆçš„åˆ›æ–°è€…ï¼Œè€Œç¾å›½è¿™æ ·ä¸‹å»æ˜¯ä¸ä¼šè·èƒœçš„ã€‚ä¸€ä¸ªå¤§èƒ†çš„ã€è·¨å…šæ´¾çš„å€¡è®®ç»™æˆ‘å›½çš„æŠ€æœ¯ä¼˜åŠ¿å¸¦æ¥çš„å¤§å¹…ææŒ¯ï¼Œå°†æ˜¯è®¸å¤šä¸“å®¶ä¸æ›¾é¢„è§çš„ã€‚æˆè´¥ä¸åªæ˜¯å…³ç³»åˆ°ä¼ä¸šçš„ç›ˆäºå’Œå†›é˜Ÿåœ¨æˆ˜åœºä¸Šçš„ä¼˜åŠ¿
 
-A group of experts I belong to (the R&D Blueprint) `coined the term` ¡°Disease X¡±: We `were referring to the next pandemic`, which would be caused by an unknown, `novel pathogen that hadn¡¯t yet entered the human population`
-ÎÒËùÔÚµÄ×¨¼Ò×éR&D Blueprint´´ÔìÁË¡°¼²²¡X¡±Õâ¸ö´Ê£¬ËüÖ¸µÄÊÇÏÂÒ»´Î´ó·¶Î§Á÷ĞĞ²¡£¬½ìÊ±»áÓÉÒ»ÖÖÎ´Öª¡¢ĞÂÆæ¡¢ÈËÀà´ÓÎ´½Ó´¥¹ıµÄ²¡Ô­ÌåÒı·¢
+A group of experts I belong to (the R&D Blueprint) `coined the term` â€œDisease Xâ€: We `were referring to the next pandemic`, which would be caused by an unknown, `novel pathogen that hadnâ€™t yet entered the human population`
+æˆ‘æ‰€åœ¨çš„ä¸“å®¶ç»„R&D Blueprintåˆ›é€ äº†â€œç–¾ç—…Xâ€è¿™ä¸ªè¯ï¼Œå®ƒæŒ‡çš„æ˜¯ä¸‹ä¸€æ¬¡å¤§èŒƒå›´æµè¡Œç—…ï¼Œå±Šæ—¶ä¼šç”±ä¸€ç§æœªçŸ¥ã€æ–°å¥‡ã€äººç±»ä»æœªæ¥è§¦è¿‡çš„ç—…åŸä½“å¼•å‘
 
-As the world `stands today on the edge of the pandemic precipice`, it¡¯s worth taking a moment to consider whether Covid-19 is the disease our group was warning about
-½ñÌì£¬ÊÀ½çÕıÕ¾ÔÚ´ó·¶Î§Á÷ĞĞ²¡µÄĞüÑÂ±ßÔµ£¬ÎÒÃÇÓĞ±ØÒª»¨µãÊ±¼äÀ´¿¼ÂÇÒ»ÏÂ£¬Covid-19ÊÇ·ñ¾ÍÊÇÎÒÃÇĞ¡×éËù¾¯¸æµÄÄÇÖÖ¼²²¡
+As the world `stands today on the edge of the pandemic precipice`, itâ€™s worth taking a moment to consider whether Covid-19 is the disease our group was warning about
+ä»Šå¤©ï¼Œä¸–ç•Œæ­£ç«™åœ¨å¤§èŒƒå›´æµè¡Œç—…çš„æ‚¬å´–è¾¹ç¼˜ï¼Œæˆ‘ä»¬æœ‰å¿…è¦èŠ±ç‚¹æ—¶é—´æ¥è€ƒè™‘ä¸€ä¸‹ï¼ŒCovid-19æ˜¯å¦å°±æ˜¯æˆ‘ä»¬å°ç»„æ‰€è­¦å‘Šçš„é‚£ç§ç–¾ç—…
 
 Disease X would have `a mortality rate` higher than a seasonal flu but would `spread as easily as the flu`. It would `shake financial markets` even before it `achieved pandemic status`. `In a nutshell`, Covid-19 is Disease X.
-¼²²¡XµÄËÀÍöÂÊ¸ßÓÚ¼¾½ÚĞÔÁ÷¸Ğ£¬µ«´«²¥ÆğÀ´ºÍÁ÷¸ĞÒ»ÑùÈİÒ×¡£ÉõÖÁÔÚ´óÁ÷ĞĞÖ®Ç°¾ÍÄÜº³¶¯½ğÈÚÊĞ³¡. ¼ò¶øÑÔÖ®£¬Covid-19¾ÍÊÇ¼²²¡
+ç–¾ç—…Xçš„æ­»äº¡ç‡é«˜äºå­£èŠ‚æ€§æµæ„Ÿï¼Œä½†ä¼ æ’­èµ·æ¥å’Œæµæ„Ÿä¸€æ ·å®¹æ˜“ã€‚ç”šè‡³åœ¨å¤§æµè¡Œä¹‹å‰å°±èƒ½æ’¼åŠ¨é‡‘èå¸‚åœº. ç®€è€Œè¨€ä¹‹ï¼ŒCovid-19å°±æ˜¯ç–¾ç—…
 
 `The looming pandemic` will challenge us in new ways, as people try to `evade quarantines`, and misinformation campaigns and conspiracy theorists `ply their trade` in open democracies.
-Ëæ×ÅÈËÃÇÊÔÍ¼ÌÓ±Ü¼ìÒß£¬É¢²¼²»ÊµĞÅÏ¢£¬ÒõÄ±ÂÛÕßÔÚ¿ª·ÅµÄÃñÖ÷¹ú¼Ò¿ªÕ¹»î¶¯£¬ÆÈÔÚÃ¼½ŞµÄ´óÁ÷ĞĞ½«ÒÔĞÂµÄ·½Ê½ÌôÕ½ÎÒÃÇ
+éšç€äººä»¬è¯•å›¾é€ƒé¿æ£€ç–«ï¼Œæ•£å¸ƒä¸å®ä¿¡æ¯ï¼Œé˜´è°‹è®ºè€…åœ¨å¼€æ”¾çš„æ°‘ä¸»å›½å®¶å¼€å±•æ´»åŠ¨ï¼Œè¿«åœ¨çœ‰ç«çš„å¤§æµè¡Œå°†ä»¥æ–°çš„æ–¹å¼æŒ‘æˆ˜æˆ‘ä»¬
 
 But as the world struggles to respond to Covid-19, we `risk missing the really big picture`: Pandemics are `on the rise`, and we need to `contain the process` that drives them, not just the individual diseases
-µ«ÊÇ£¬µ±È«ÊÀ½ç¶¼ÔÚÅ¬Á¦Ó¦¶ÔCovid-19µÄÊ±ºò£¬ÎÒÃÇÈ´ÓĞ¿ÉÄÜºöÊÓÁËÕæÕıµÄ´ó·½Ïò£º´ó¹æÄ£Á÷ĞĞ²¡µÄÊÆÍ·ÕıÔÚÉÏÉı£¬ÎÒÃÇĞèÒª¶ôÖÆÍÆ¶¯ËüÃÇµÄ½ø³Ì£¬¶ø²»ÊÇ½ö½ö¹Ø×¢¸ö±ğ¼²²¡
+ä½†æ˜¯ï¼Œå½“å…¨ä¸–ç•Œéƒ½åœ¨åŠªåŠ›åº”å¯¹Covid-19çš„æ—¶å€™ï¼Œæˆ‘ä»¬å´æœ‰å¯èƒ½å¿½è§†äº†çœŸæ­£çš„å¤§æ–¹å‘ï¼šå¤§è§„æ¨¡æµè¡Œç—…çš„åŠ¿å¤´æ­£åœ¨ä¸Šå‡ï¼Œæˆ‘ä»¬éœ€è¦éåˆ¶æ¨åŠ¨å®ƒä»¬çš„è¿›ç¨‹ï¼Œè€Œä¸æ˜¯ä»…ä»…å…³æ³¨ä¸ªåˆ«ç–¾ç—…
 
 These `spillovers` are `increasing exponentially` as our `ecological footprint` brings us closer to wildlife in remote areas and the wildlife trade brings these animals into urban centers. 
-Ëæ×ÅÎÒÃÇµÄÉúÌ¬×ã¼£Ê¹ÎÒÃÇ¸ü½Ó½üÆ«Ô¶µØÇøµÄÒ°Éú¶¯Îï£¬ÒÔ¼°Ò°Éú¶¯ÎïÃ³Ò×Ê¹ÕâĞ©¶¯Îï½øÈë³ÇÊĞÖĞĞÄ£¬ÕâĞ©ºó¹ûÕı³ÊÖ¸Êı¼¶Ôö³¤
+éšç€æˆ‘ä»¬çš„ç”Ÿæ€è¶³è¿¹ä½¿æˆ‘ä»¬æ›´æ¥è¿‘åè¿œåœ°åŒºçš„é‡ç”ŸåŠ¨ç‰©ï¼Œä»¥åŠé‡ç”ŸåŠ¨ç‰©è´¸æ˜“ä½¿è¿™äº›åŠ¨ç‰©è¿›å…¥åŸå¸‚ä¸­å¿ƒï¼Œè¿™äº›åæœæ­£å‘ˆæŒ‡æ•°çº§å¢é•¿
 
 `Unprecedented road-building, deforestation, land clearing` and agricultural development, as well as globalized travel and trade, make us `supremely susceptible` to pathogens like coronaviruses
-Ëæ×ÅÎÒÃÇµÄÉúÌ¬×ã¼£Ê¹ÎÒÃÇ¸ü½Ó½üÆ«Ô¶µØÇøµÄÒ°Éú¶¯Îï£¬ÒÔ¼°Ò°Éú¶¯ÎïÃ³Ò×Ê¹ÕâĞ©¶¯Îï½øÈë³ÇÊĞÖĞĞÄ£¬ÕâĞ©ºó¹ûÕı³ÊÖ¸Êı¼¶Ôö³¤
+éšç€æˆ‘ä»¬çš„ç”Ÿæ€è¶³è¿¹ä½¿æˆ‘ä»¬æ›´æ¥è¿‘åè¿œåœ°åŒºçš„é‡ç”ŸåŠ¨ç‰©ï¼Œä»¥åŠé‡ç”ŸåŠ¨ç‰©è´¸æ˜“ä½¿è¿™äº›åŠ¨ç‰©è¿›å…¥åŸå¸‚ä¸­å¿ƒï¼Œè¿™äº›åæœæ­£å‘ˆæŒ‡æ•°çº§å¢é•¿
 
-Yet the world¡¯s strategy for dealing with pandemics is `woefully inadequate`. `Across the board, from politicians to the public`, we treat pandemics as a disaster-response issue: We wait for them to happen and hope a vaccine or drug can be developed quickly `in their aftermath`
-È»¶ø£¬ÊÀ½çÓ¦¶Ô´ó·¶Î§Á÷ĞĞ²¡µÄ²ßÂÔÑÏÖØ²»×ã¡£´ÓÕşÖÎÈËÎïµ½¹«ÖÚ£¬ÎÒÃÇ¶¼°ÑËüµ±×÷ÔÖÄÑÀ´Ó¦¶Ô£ºÎÒÃÇ×øµÈËüÃÇ·¢Éú£¬²¢Ï£Íû·¢ÉúºóÄÜ¹»Ñ¸ËÙÑĞÖÆ³öÒßÃç»òÒ©Îï
+Yet the worldâ€™s strategy for dealing with pandemics is `woefully inadequate`. `Across the board, from politicians to the public`, we treat pandemics as a disaster-response issue: We wait for them to happen and hope a vaccine or drug can be developed quickly `in their aftermath`
+ç„¶è€Œï¼Œä¸–ç•Œåº”å¯¹å¤§èŒƒå›´æµè¡Œç—…çš„ç­–ç•¥ä¸¥é‡ä¸è¶³ã€‚ä»æ”¿æ²»äººç‰©åˆ°å…¬ä¼—ï¼Œæˆ‘ä»¬éƒ½æŠŠå®ƒå½“ä½œç¾éš¾æ¥åº”å¯¹ï¼šæˆ‘ä»¬åç­‰å®ƒä»¬å‘ç”Ÿï¼Œå¹¶å¸Œæœ›å‘ç”Ÿåèƒ½å¤Ÿè¿…é€Ÿç ”åˆ¶å‡ºç–«è‹—æˆ–è¯ç‰©
 
-The problem is that between outbreaks, `the will to spend money on prevention wanes`, and the market for vaccines and drugs against `sporadic viral diseases` isn¡¯t enough to drive research and development
-ÎÊÌâÊÇ£¬ÔÚÁ½´ÎÒßÇé±©·¢¼äÏ¶£¬Í¶Èë×Ê½ğÔ¤·ÀµÄÒâÔ¸¼õÈõ£¬Õë¶ÔÁãĞÇ²¡¶¾ĞÔ¼²²¡µÄÒßÃçºÍÒ©ÎïÊĞ³¡²»×ãÒÔÍÆ¶¯ÑĞ¾¿ºÍ¿ª·¢
+The problem is that between outbreaks, `the will to spend money on prevention wanes`, and the market for vaccines and drugs against `sporadic viral diseases` isnâ€™t enough to drive research and development
+é—®é¢˜æ˜¯ï¼Œåœ¨ä¸¤æ¬¡ç–«æƒ…æš´å‘é—´éš™ï¼ŒæŠ•å…¥èµ„é‡‘é¢„é˜²çš„æ„æ„¿å‡å¼±ï¼Œé’ˆå¯¹é›¶æ˜Ÿç—…æ¯’æ€§ç–¾ç—…çš„ç–«è‹—å’Œè¯ç‰©å¸‚åœºä¸è¶³ä»¥æ¨åŠ¨ç ”ç©¶å’Œå¼€å‘
 
 As Covid-19 strikes today and `a spate of` other pathogens are ready to emerge in the future, we continue to `butt up against nature`
-Ëæ×Å½ñÌìµÄCovid-19±©·¢ºÍÎ´À´ÆäËû´óÁ¿²¡Ô­ÌåµÄ³öÏÖ£¬ÎÒÃÇ»¹ÔÚ¼ÌĞøÓë×ÔÈ»×÷¶·Õù
+éšç€ä»Šå¤©çš„Covid-19æš´å‘å’Œæœªæ¥å…¶ä»–å¤§é‡ç—…åŸä½“çš„å‡ºç°ï¼Œæˆ‘ä»¬è¿˜åœ¨ç»§ç»­ä¸è‡ªç„¶ä½œæ–—äº‰
 
 Scaling up this effort to `cover all viral families`, as the Global Virome Project proposes to do, is `a logical first step` toward prevention
-°´ÕÕGlobal ViromeÏîÄ¿µÄ½¨Òé£¬½«ÕâÒ»Å¬Á¦À©´óµ½ËùÓĞ²¡¶¾¼Ò×å£¬ÕâÊÇÂõÏòÔ¤·ÀµÄºÏÀíµÚÒ»²½
+æŒ‰ç…§Global Viromeé¡¹ç›®çš„å»ºè®®ï¼Œå°†è¿™ä¸€åŠªåŠ›æ‰©å¤§åˆ°æ‰€æœ‰ç—…æ¯’å®¶æ—ï¼Œè¿™æ˜¯è¿ˆå‘é¢„é˜²çš„åˆç†ç¬¬ä¸€æ­¥
 
-China is known as the world¡¯s factory for `car parts`, toys and electronics, but it also `churns out` much of the `penicillin, antibiotics and pain medicines` used across the globe, as well as `surgical masks` and medical devices
-ÖĞ¹úÒÔÆû³µÁã²¿¼ş¡¢Íæ¾ßºÍµç×Ó²úÆ·µÄÊÀ½ç¹¤³§¶øÎÅÃû£¬µ«ËüÒ²Éú²úÁËÈ«ÊÀ½çËùÊ¹ÓÃµÄ´ó²¿·ÖÇàÃ¹ËØ¡¢¿¹ÉúËØºÍÖ¹Í´Ò©£¬ÒÔ¼°Ò½ÓÃ¿ÚÕÖºÍÒ½ÁÆÉè±¸
+China is known as the worldâ€™s factory for `car parts`, toys and electronics, but it also `churns out` much of the `penicillin, antibiotics and pain medicines` used across the globe, as well as `surgical masks` and medical devices
+ä¸­å›½ä»¥æ±½è½¦é›¶éƒ¨ä»¶ã€ç©å…·å’Œç”µå­äº§å“çš„ä¸–ç•Œå·¥å‚è€Œé—»åï¼Œä½†å®ƒä¹Ÿç”Ÿäº§äº†å…¨ä¸–ç•Œæ‰€ä½¿ç”¨çš„å¤§éƒ¨åˆ†é’éœ‰ç´ ã€æŠ—ç”Ÿç´ å’Œæ­¢ç—›è¯ï¼Œä»¥åŠåŒ»ç”¨å£ç½©å’ŒåŒ»ç–—è®¾å¤‡
 
 `While the United States remains a global leader in drug discovery`, much of the manufacturing has `moved offshore`. The last American plant to `make key ingredients for penicillin` announced it would close its doors in 2004
-ÃÀ¹úÈÔÈ»ÊÇÈ«ÇòÁìÏÈµÄÒ©ÎïÑĞ·¢¹ú£¬µ«Æä´ó²¿·ÖÒ©ÎïÉú²úÒÑ¾­×ªÒÆµ½º£Íâ¡£ÃÀ¹ú×îºóÒ»¼ÒÉú²úÇàÃ¹ËØ¹Ø¼ü³É·ÖµÄ¹¤³§ÒÑÔÚ2004ÄêĞû²¼¹Ø±Õ
+ç¾å›½ä»ç„¶æ˜¯å…¨çƒé¢†å…ˆçš„è¯ç‰©ç ”å‘å›½ï¼Œä½†å…¶å¤§éƒ¨åˆ†è¯ç‰©ç”Ÿäº§å·²ç»è½¬ç§»åˆ°æµ·å¤–ã€‚ç¾å›½æœ€åä¸€å®¶ç”Ÿäº§é’éœ‰ç´ å…³é”®æˆåˆ†çš„å·¥å‚å·²åœ¨2004å¹´å®£å¸ƒå…³é—­
 
 If China shut the door on exports of core components to make our medicines, within months our `pharmacy shelves would become bare` and our health care system would `cease to function`
-¼ÙÈçÖĞ¹úÍ£Ö¹³ö¿ÚÎÒ¹úÒ©Æ·Éú²úµÄºËĞÄ³É·Ö£¬¼¸¸öÔÂÖ®ÄÚ£¬ÎÒÃÇµÄÒ©µê»õ¼Ü¾Í»á¿Õ¿ÕÈçÒ²£¬ÎÒÃÇµÄÒ½ÁÆÏµÍ³¾Í»áÍ£Ö¹ÔË×÷
+å‡å¦‚ä¸­å›½åœæ­¢å‡ºå£æˆ‘å›½è¯å“ç”Ÿäº§çš„æ ¸å¿ƒæˆåˆ†ï¼Œå‡ ä¸ªæœˆä¹‹å†…ï¼Œæˆ‘ä»¬çš„è¯åº—è´§æ¶å°±ä¼šç©ºç©ºå¦‚ä¹Ÿï¼Œæˆ‘ä»¬çš„åŒ»ç–—ç³»ç»Ÿå°±ä¼šåœæ­¢è¿ä½œ
 
 If China `banned the export of drugs`, the United States would `sink into the hell` of a novel coronavirus epidemic
-Èç¹ûÖĞ¹ú½ûÖ¹Ò©Æ·³ö¿Ú£¬ÃÀ¹ú½«»áÏİÈëĞÂ¹Ú·ÎÑ×ÒßÇéµÄµØÓü
+å¦‚æœä¸­å›½ç¦æ­¢è¯å“å‡ºå£ï¼Œç¾å›½å°†ä¼šé™·å…¥æ–°å† è‚ºç‚ç–«æƒ…çš„åœ°ç‹±
 
 And South Korea, Germany, India, Taiwan and others `have clamped down on exports` of masks and other `protective gear` over worries their own supplies will `fall short`
-º«¹ú¡¢µÂ¹ú¡¢Ó¡¶È¡¢Ì¨Íå¼°ÆäËû¹ú¼ÒÕş¸®¶¼ÒòÎªµ£ĞÄ¹©Ó¦²»×ã¶øÏŞÖÆÁË¿ÚÕÖºÍÆäËû·À»¤×°±¸µÄ³ö¿Ú
+éŸ©å›½ã€å¾·å›½ã€å°åº¦ã€å°æ¹¾åŠå…¶ä»–å›½å®¶æ”¿åºœéƒ½å› ä¸ºæ‹…å¿ƒä¾›åº”ä¸è¶³è€Œé™åˆ¶äº†å£ç½©å’Œå…¶ä»–é˜²æŠ¤è£…å¤‡çš„å‡ºå£
 
-He called the administration¡¯s coming `executive order` ¡°a very strong first step in `incentivizing domestic production`.¡±
-Õş¸®¼´½«·¢²¼µÄĞĞÕşÃüÁîÊÇ¡°´Ì¼¤¹úÄÚÉú²úÇ¿ÓĞÁ¦µÄµÚÒ»²½¡±¡£
+He called the administrationâ€™s coming `executive order` â€œa very strong first step in `incentivizing domestic production`.â€
+æ”¿åºœå³å°†å‘å¸ƒçš„è¡Œæ”¿å‘½ä»¤æ˜¯â€œåˆºæ¿€å›½å†…ç”Ÿäº§å¼ºæœ‰åŠ›çš„ç¬¬ä¸€æ­¥â€ã€‚
 
-Technically I think it¡¯s possible, but `unlikely from a cost effectiveness perspective`. The Trump administration has urged companies making electronics, steel, toys and many other products to move their supply chains out of China, `with mixed success`.
-´Ó¼¼ÊõÉÏ½²£¬ÎÒÈÏÎªÊÇ¿ÉÄÜµÄ£¬µ«´Ó³É±¾Ğ§ÒæµÄ½Ç¶È¿´£¬¿ÉÄÜĞÔ²»´ó¡£ÌØÀÊÆÕÕş¸®ºôÓõÖÆÔìµç×Ó²úÆ·¡¢¸ÖÌú¡¢Íæ¾ßºÍĞí¶àÆäËû²úÆ·µÄÆóÒµ½«¹©Ó¦Á´ÒÆ³öÖĞ¹ú£¬µ«ÊÕĞ§ÉÏÏ²ÓÇ²Î°ë
+Technically I think itâ€™s possible, but `unlikely from a cost effectiveness perspective`. The Trump administration has urged companies making electronics, steel, toys and many other products to move their supply chains out of China, `with mixed success`.
+ä»æŠ€æœ¯ä¸Šè®²ï¼Œæˆ‘è®¤ä¸ºæ˜¯å¯èƒ½çš„ï¼Œä½†ä»æˆæœ¬æ•ˆç›Šçš„è§’åº¦çœ‹ï¼Œå¯èƒ½æ€§ä¸å¤§ã€‚ç‰¹æœ—æ™®æ”¿åºœå‘¼ååˆ¶é€ ç”µå­äº§å“ã€é’¢é“ã€ç©å…·å’Œè®¸å¤šå…¶ä»–äº§å“çš„ä¼ä¸šå°†ä¾›åº”é“¾ç§»å‡ºä¸­å›½ï¼Œä½†æ”¶æ•ˆä¸Šå–œå¿§å‚åŠ
 
 China is also a key producer of the chemicals that go into making drugs, and `home to a vast supply` of `well-educated but low-paid scientists`. And `pharmaceutical companies` say they `are drawn to` China as a large and rapidly growing health care market `in its own right`
-ÖĞ¹úÒ²ÊÇÓÃÓÚÖÆÒ©µÄ»¯Ñ§ÎïÖÊµÄÖ÷ÒªÉú²ú¹ú£¬²¢ÓµÓĞ´óÅúÊÜ¹ıÁ¼ºÃ½ÌÓıµ«ÊÕÈë½ÏµÍµÄ¿ÆÑ§¼Ò¡£ÖÆÒ©¹«Ë¾Ëµ£¬ËüÃÇ±»ÎüÒıµ½ÖĞ¹ú£¬ÒòÆä±¾Éí¾ÍÊÇÒ»¸öÅÓ´óÇÒ¿ìËÙÔö³¤µÄÒ½ÁÆ±£½¡ÊĞ³¡
+ä¸­å›½ä¹Ÿæ˜¯ç”¨äºåˆ¶è¯çš„åŒ–å­¦ç‰©è´¨çš„ä¸»è¦ç”Ÿäº§å›½ï¼Œå¹¶æ‹¥æœ‰å¤§æ‰¹å—è¿‡è‰¯å¥½æ•™è‚²ä½†æ”¶å…¥è¾ƒä½çš„ç§‘å­¦å®¶ã€‚åˆ¶è¯å…¬å¸è¯´ï¼Œå®ƒä»¬è¢«å¸å¼•åˆ°ä¸­å›½ï¼Œå› å…¶æœ¬èº«å°±æ˜¯ä¸€ä¸ªåºå¤§ä¸”å¿«é€Ÿå¢é•¿çš„åŒ»ç–—ä¿å¥å¸‚åœº
 
-In the private sector, as in many other industries, pharmaceutical companies `have shifted from stockpiling goods in warehouses` to a `¡°just in time¡± logistics model` that ships products as `need arises` ¡ª reducing costs but also increasing the `likelihood of shortages`
-ÓëĞí¶àÆäËûĞĞÒµÒ»Ñù£¬Ë½Óª²¿ÃÅÖĞµÄÖÆÒ©¹«Ë¾ÒÑ¾­´ÓÔÚ²Ö¿âÖĞ´¢´æ»õÎï×ª±äÎªÔÚĞèÇóÔö¼ÓÊ±ÔËÊä²úÆ·µÄ¡°¸Õ¸ÕºÃ¡±ÎïÁ÷Ä£Ê½¡ª¡ªÕâ½µµÍÁË³É±¾£¬µ«Ò²Ôö¼ÓÁË¶ÌÈ±µÄ¿ÉÄÜĞÔ
+In the private sector, as in many other industries, pharmaceutical companies `have shifted from stockpiling goods in warehouses` to a `â€œjust in timeâ€ logistics model` that ships products as `need arises` â€” reducing costs but also increasing the `likelihood of shortages`
+ä¸è®¸å¤šå…¶ä»–è¡Œä¸šä¸€æ ·ï¼Œç§è¥éƒ¨é—¨ä¸­çš„åˆ¶è¯å…¬å¸å·²ç»ä»åœ¨ä»“åº“ä¸­å‚¨å­˜è´§ç‰©è½¬å˜ä¸ºåœ¨éœ€æ±‚å¢åŠ æ—¶è¿è¾“äº§å“çš„â€œåˆšåˆšå¥½â€ç‰©æµæ¨¡å¼â€”â€”è¿™é™ä½äº†æˆæœ¬ï¼Œä½†ä¹Ÿå¢åŠ äº†çŸ­ç¼ºçš„å¯èƒ½æ€§
 
-¡®It¡¯s Just Everywhere Already¡¯: How Delays in Testing `Set Back` the U.S. Coronavirus Response
-¡°ËüÒÑ¾­ÎŞ´¦²»ÔÚ¡±£ºÃÀ¹úÈçºÎ´íÊ§ÁË¶ôÖÆĞÂ¹Ú²¡¶¾µÄÁ¼»ú
+â€˜Itâ€™s Just Everywhere Alreadyâ€™: How Delays in Testing `Set Back` the U.S. Coronavirus Response
+â€œå®ƒå·²ç»æ— å¤„ä¸åœ¨â€ï¼šç¾å›½å¦‚ä½•é”™å¤±äº†éåˆ¶æ–°å† ç—…æ¯’çš„è‰¯æœº
 
 `As luck would have it`, Dr. Chu had a way to monitor the region. For months, as part of a research project into the flu, she and a team of researchers had been `collecting nasal swabs` from residents experiencing symptoms throughout the Puget Sound region.
-´ÕÇÉµÄÊÇ£¬º£Â×¡¤ÖìÓĞ°ì·¨¼à²â¸ÃµØÇø¡£¼¸¸öÔÂÀ´£¬×÷ÎªÕë¶ÔÁ÷¸ĞµÄÑĞ¾¿ÏîÄ¿µÄÒ»²¿·Ö£¬ËıºÍÒ»×éÑĞ¾¿ÈËÔ±Ò»Ö±ÔÚÕû¸öÆÕ¼ªÌØº£ÍåµØÇø³öÏÖÖ¢×´µÄ¾ÓÃñÖĞÊÕ¼¯±ÇÊÃ×Ó
+å‡‘å·§çš„æ˜¯ï¼Œæµ·ä¼¦Â·æœ±æœ‰åŠæ³•ç›‘æµ‹è¯¥åœ°åŒºã€‚å‡ ä¸ªæœˆæ¥ï¼Œä½œä¸ºé’ˆå¯¹æµæ„Ÿçš„ç ”ç©¶é¡¹ç›®çš„ä¸€éƒ¨åˆ†ï¼Œå¥¹å’Œä¸€ç»„ç ”ç©¶äººå‘˜ä¸€ç›´åœ¨æ•´ä¸ªæ™®å‰ç‰¹æµ·æ¹¾åœ°åŒºå‡ºç°ç—‡çŠ¶çš„å±…æ°‘ä¸­æ”¶é›†é¼»æ‹­å­
 
  Local officials across the country were left to `work blindly` as the crisis `grew undetected and exponentially`
- Î£»úÔÚ²»Öª²»¾õÖĞ¼±¾ç¶ñ»¯£¬È«¹ú¸÷µØµÄµØ·½¹ÙÔ±È´Ö»ÄÜÃ¤Ä¿Ó¦¶Ô
+ å±æœºåœ¨ä¸çŸ¥ä¸è§‰ä¸­æ€¥å‰§æ¶åŒ–ï¼Œå…¨å›½å„åœ°çš„åœ°æ–¹å®˜å‘˜å´åªèƒ½ç›²ç›®åº”å¯¹
 
- It¡¯s going to `take rigorous, aggressive public health` ¡ª `what I like to say, block and tackle`, That means if you find a new case, you isolate it
-Õâ½«ĞèÒªÑÏ¸ñ¡¢»ı¼«Ö÷¶¯µÄ¹«ÖÚÎÀÉú¡ª¡ªÎÒÏëËµµÄÊÇ£¬×è¶Ï²¢´¦Àí£¬ÕâÒâÎ¶×ÅÈç¹ûÄã·¢ÏÖÁËÒ»¸öĞÂ²¡Àı£¬Òª½øĞĞ¸ôÀë
+ Itâ€™s going to `take rigorous, aggressive public health` â€” `what I like to say, block and tackle`, That means if you find a new case, you isolate it
+è¿™å°†éœ€è¦ä¸¥æ ¼ã€ç§¯æä¸»åŠ¨çš„å…¬ä¼—å«ç”Ÿâ€”â€”æˆ‘æƒ³è¯´çš„æ˜¯ï¼Œé˜»æ–­å¹¶å¤„ç†ï¼Œè¿™æ„å‘³ç€å¦‚æœä½ å‘ç°äº†ä¸€ä¸ªæ–°ç—…ä¾‹ï¼Œè¦è¿›è¡Œéš”ç¦»
 
-But the Seattle Flu Study illustrates `how existing regulations and red tape` ¡ª sometimes designed to protect privacy and health ¡ª have `impeded the rapid rollout` of testing nationally, while other countries ramped up much earlier and faster
-µ«ÊÇ´ÓÎ÷ÑÅÍ¼µÄÁ÷¸ĞÑĞ¾¿¿É¼û£¬ÏÖĞĞµÄ¼à¹ÜºÍ·±Ëö³ÌĞò¡ª¡ªÓĞÊ±Ö¼ÔÚ±£»¤ÒşË½ºÍ½¡¿µ¡ª¡ªÈçºÎµ¼ÖÂÎŞ·¨¿ìËÙ½øĞĞÈ«¹ú·¶Î§µÄ²âÊÔ£¬¶øÆäËû¹ú¼ÒÈ´¿ÉÒÔ¸üÔç¡¢¸üÑ¸ËÙµØ½øĞĞ
+But the Seattle Flu Study illustrates `how existing regulations and red tape` â€” sometimes designed to protect privacy and health â€” have `impeded the rapid rollout` of testing nationally, while other countries ramped up much earlier and faster
+ä½†æ˜¯ä»è¥¿é›…å›¾çš„æµæ„Ÿç ”ç©¶å¯è§ï¼Œç°è¡Œçš„ç›‘ç®¡å’Œç¹çç¨‹åºâ€”â€”æœ‰æ—¶æ—¨åœ¨ä¿æŠ¤éšç§å’Œå¥åº·â€”â€”å¦‚ä½•å¯¼è‡´æ— æ³•å¿«é€Ÿè¿›è¡Œå…¨å›½èŒƒå›´çš„æµ‹è¯•ï¼Œè€Œå…¶ä»–å›½å®¶å´å¯ä»¥æ›´æ—©ã€æ›´è¿…é€Ÿåœ°è¿›è¡Œ
 
 Faced with a public health emergency `on a scale potentially not seen in a century`, the United States has not `responded nimbly`
-Ãæ¶Ô¿ÉÄÜÊÇ°ÙÄêÒ»ÓöµÄ¹«¹²ÎÀÉúÍ»·¢ÊÂ¼ş£¬ÃÀ¹úÎ´ÄÜ×ö³öÁé»î·´Ó¦
+é¢å¯¹å¯èƒ½æ˜¯ç™¾å¹´ä¸€é‡çš„å…¬å…±å«ç”Ÿçªå‘äº‹ä»¶ï¼Œç¾å›½æœªèƒ½åšå‡ºçµæ´»ååº”
 
-The C.D.C.¡¯s `own effort to` create a system for monitoring the virus around the country, using `established government surveillance networks` for the flu, has not yet `built steam`
-¼²¿ØÖĞĞÄ×Ô¼ºµÄÅ¬Á¦£¬¼´ÀûÓÃÏÖ³ÉµÄÕş¸®Á÷¸Ğ¼à¿ØÍøÂç½¨Á¢È«¹ú·¶Î§ÄÚµÄ²¡¶¾¼à¿ØÏµÍ³£¬Ä¿Ç°ÉĞÎ´ÔË×ªÆğÀ´
+The C.D.C.â€™s `own effort to` create a system for monitoring the virus around the country, using `established government surveillance networks` for the flu, has not yet `built steam`
+ç–¾æ§ä¸­å¿ƒè‡ªå·±çš„åŠªåŠ›ï¼Œå³åˆ©ç”¨ç°æˆçš„æ”¿åºœæµæ„Ÿç›‘æ§ç½‘ç»œå»ºç«‹å…¨å›½èŒƒå›´å†…çš„ç—…æ¯’ç›‘æ§ç³»ç»Ÿï¼Œç›®å‰å°šæœªè¿è½¬èµ·æ¥
 
-The C.D.C.¡¯s first job was to `develop a diagnostic test`. ¡°That¡¯s our `prime mission`,¡± Dr. Redfield said, ¡°to `get eyes on this thing`.¡±
-¼²¿ØÖĞĞÄµÄµÚÒ»Ïî¹¤×÷¾ÍÊÇ¿ª·¢Õï¶Ï²âÊÔ¡£¡°ÎÒÃÇµÄÊ×ÒªÈÎÎñ£¬¡±À×µÂ·Æ¶ûµÂËµ£¬¡°¾ÍÊÇÄÜ¿´µ½Õâ¶«Î÷¡±
+The C.D.C.â€™s first job was to `develop a diagnostic test`. â€œThatâ€™s our `prime mission`,â€ Dr. Redfield said, â€œto `get eyes on this thing`.â€
+ç–¾æ§ä¸­å¿ƒçš„ç¬¬ä¸€é¡¹å·¥ä½œå°±æ˜¯å¼€å‘è¯Šæ–­æµ‹è¯•ã€‚â€œæˆ‘ä»¬çš„é¦–è¦ä»»åŠ¡ï¼Œâ€é›·å¾·è²å°”å¾·è¯´ï¼Œâ€œå°±æ˜¯èƒ½çœ‹åˆ°è¿™ä¸œè¥¿â€
 
 Dr. Chu `tried repeatedly to wrangle approval` to use the Seattle Flu Study. The answers `were always no`
-ÖìÒ½ÉúÔø¶à´ÎÊÔÍ¼ÕùÈ¡Åú×¼Ê¹ÓÃÎ÷ÑÅÍ¼Á÷¸ĞÑĞ¾¿¡£µÃµ½µÄ»Ø´ğÊ¼ÖÕÊÇ·ñ¶¨µÄ
+æœ±åŒ»ç”Ÿæ›¾å¤šæ¬¡è¯•å›¾äº‰å–æ‰¹å‡†ä½¿ç”¨è¥¿é›…å›¾æµæ„Ÿç ”ç©¶ã€‚å¾—åˆ°çš„å›ç­”å§‹ç»ˆæ˜¯å¦å®šçš„
 
 By Feb. 24, as new cases of the virus began `popping up` in the United States, the state labs were `growing frantic`.
-µ½2ÔÂ24ÈÕ£¬Ëæ×ÅĞÂµÄ²¡Àı¿ªÊ¼ÔÚÃÀ¹ú³öÏÖ£¬ÖİÊµÑéÊÒÒ»Æ¬»ì.
+åˆ°2æœˆ24æ—¥ï¼Œéšç€æ–°çš„ç—…ä¾‹å¼€å§‹åœ¨ç¾å›½å‡ºç°ï¼Œå·å®éªŒå®¤ä¸€ç‰‡æ··.
 
-The Association of Public Health Laboratories made what it called an ¡°`extraordinary and rare request`¡± of Dr. Stephen Hahn, `the commissioner` of the F.D.A., asking him to `use his discretion` to allow state and local public health laboratories to create their own tests for the virus
-ÃÀ¹ú¹«¹²ÎÀÉúÊµÑéÊÒĞ­»áÏòFDA¾Ö³¤Ë¹µÙ·Ò¡¤¹ş¶÷²©Ê¿Ìá³öÁËÒ»¸ö¡°·ÇÍ¬Ñ°³£¶øº±¼ûµÄÒªÇó¡±£¬ÒªÇóËûÊ¹ÓÃ×ÔÓÉ²ÃÁ¿È¨£¬ÔÊĞíÖİºÍµØ·½¹«¹²ÎÀÉúÊµÑéÊÒ×ÔĞĞ½øĞĞ²¡¶¾¼ì²â
+The Association of Public Health Laboratories made what it called an â€œ`extraordinary and rare request`â€ of Dr. Stephen Hahn, `the commissioner` of the F.D.A., asking him to `use his discretion` to allow state and local public health laboratories to create their own tests for the virus
+ç¾å›½å…¬å…±å«ç”Ÿå®éªŒå®¤åä¼šå‘FDAå±€é•¿æ–¯è’‚èŠ¬Â·å“ˆæ©åšå£«æå‡ºäº†ä¸€ä¸ªâ€œéåŒå¯»å¸¸è€Œç½•è§çš„è¦æ±‚â€ï¼Œè¦æ±‚ä»–ä½¿ç”¨è‡ªç”±è£é‡æƒï¼Œå…è®¸å·å’Œåœ°æ–¹å…¬å…±å«ç”Ÿå®éªŒå®¤è‡ªè¡Œè¿›è¡Œç—…æ¯’æ£€æµ‹
 
 But the approval process for laboratory-developed tests `was proving onerous`
-µ«ÊÂÊµÖ¤Ã÷£¬ÊµÑéÊÒ½øĞĞ¼ì²âµÄÉóÅú¹ı³ÌÊ®·Ö·±Ëö
+ä½†äº‹å®è¯æ˜ï¼Œå®éªŒå®¤è¿›è¡Œæ£€æµ‹çš„å®¡æ‰¹è¿‡ç¨‹ååˆ†ç¹ç
 
-Still, the troubling finding `reshaped how officials understood the outbreak`. Seattle Flu Study scientists `quickly sequenced the genome` of the virus, finding `a genetic variation` also present in the country¡¯s first coronavirus case
-¾¡¹ÜÈç´Ë£¬ÕâÒ»ÁîÈË²»°²µÄ·¢ÏÖ¸Ä±äÁË¹ÙÔ±ÃÇ¶ÔÒßÇéµÄÀí½â¡£Î÷ÑÅÍ¼Á÷¸ĞÑĞ¾¿ËùµÄ¿ÆÑ§¼ÒÑ¸ËÙ¶Ô²¡¶¾µÄ»ùÒò×é½øĞĞÁË²âĞò£¬·¢ÏÖÔÚÃÀ¹úÊ×Àı¹Ú×´²¡¶¾²¡ÀıÖĞÒ²´æÔÚÒÅ´«±äÒì
+Still, the troubling finding `reshaped how officials understood the outbreak`. Seattle Flu Study scientists `quickly sequenced the genome` of the virus, finding `a genetic variation` also present in the countryâ€™s first coronavirus case
+å°½ç®¡å¦‚æ­¤ï¼Œè¿™ä¸€ä»¤äººä¸å®‰çš„å‘ç°æ”¹å˜äº†å®˜å‘˜ä»¬å¯¹ç–«æƒ…çš„ç†è§£ã€‚è¥¿é›…å›¾æµæ„Ÿç ”ç©¶æ‰€çš„ç§‘å­¦å®¶è¿…é€Ÿå¯¹ç—…æ¯’çš„åŸºå› ç»„è¿›è¡Œäº†æµ‹åºï¼Œå‘ç°åœ¨ç¾å›½é¦–ä¾‹å† çŠ¶ç—…æ¯’ç—…ä¾‹ä¸­ä¹Ÿå­˜åœ¨é—ä¼ å˜å¼‚
 
 `The implications were unnerving`. There was a good chance that the virus had been `circulating silently in the community` for around six weeks, infecting potentially hundreds of people.
-Æäº¬ÒåÁîÈË²»°²¡£¸Ã²¡¶¾ºÜÓĞ¿ÉÄÜÒÑ¾­ÔÚÉçÇøÄÚÇÄÎŞÉùÏ¢µØ´«²¥ÁË´óÔ¼ÁùÖÜ£¬¸ĞÈ¾ÁËÊı°ÙÈË
+å…¶å«ä¹‰ä»¤äººä¸å®‰ã€‚è¯¥ç—…æ¯’å¾ˆæœ‰å¯èƒ½å·²ç»åœ¨ç¤¾åŒºå†…æ‚„æ— å£°æ¯åœ°ä¼ æ’­äº†å¤§çº¦å…­å‘¨ï¼Œæ„ŸæŸ“äº†æ•°ç™¾äºº
 
 They would need to use `a new consent form` that explicitly mentioned that results of the coronavirus tests might be shared with the local health department
-ËûÃÇ½«ĞèÒªÊ¹ÓÃÒ»·İĞÂµÄÍ¬ÒâÊé£¬Ã÷È·Ìáµ½¹Ú×´²¡¶¾¼ì²âµÄ½á¹û¿ÉÄÜ»áÓëµ±µØÎÀÉú²¿ÃÅ¹²Ïí
+ä»–ä»¬å°†éœ€è¦ä½¿ç”¨ä¸€ä»½æ–°çš„åŒæ„ä¹¦ï¼Œæ˜ç¡®æåˆ°å† çŠ¶ç—…æ¯’æ£€æµ‹çš„ç»“æœå¯èƒ½ä¼šä¸å½“åœ°å«ç”Ÿéƒ¨é—¨å…±äº«
 
 The availability of testing for coronavirus `remains uneven`
-¹Ú×´²¡¶¾¼ì²âÈÔÈ»²»ÊÇÄÄÀï¶¼¿ÉÒÔ×ö
+å† çŠ¶ç—…æ¯’æ£€æµ‹ä»ç„¶ä¸æ˜¯å“ªé‡Œéƒ½å¯ä»¥åš
 
 `The frustration`, she said, was how long it took to `cut through red tape` to try to save lives in an outbreak that had the potential to explode in Washington State and spread in many other regions
-ËıËµ£¬ÁîÈË¾ÚÉ¥µÄÊÇ£¬ÔÚÒ»³¡¿ÉÄÜÔÚ»ªÊ¢¶ÙÖİ±©·¢£¬²¢ÔÚĞí¶àÆäËûµØÇøÂûÑÓµÄÒßÇéÖĞ£¬ÈËÃÇ»¨ÁËĞí¶àÊ±¼ä²ÅµÃÒÔÍ»ÆÆ·±ÎÄçÈ½ÚÈ¥Íì¾ÈÉúÃü
+å¥¹è¯´ï¼Œä»¤äººæ²®ä¸§çš„æ˜¯ï¼Œåœ¨ä¸€åœºå¯èƒ½åœ¨åç››é¡¿å·æš´å‘ï¼Œå¹¶åœ¨è®¸å¤šå…¶ä»–åœ°åŒºè”“å»¶çš„ç–«æƒ…ä¸­ï¼Œäººä»¬èŠ±äº†è®¸å¤šæ—¶é—´æ‰å¾—ä»¥çªç ´ç¹æ–‡ç¼›èŠ‚å»æŒ½æ•‘ç”Ÿå‘½
 
-I¡¯m writing this from `the makeshift quarantine bunker` in my dining room ¡ª `sweatpants on, hand sanitizer nearby`, `snacking my way through` my `emergency rations`.
-ÕâĞ©ÊÇÎÒÔÚÎÒ¼Ò·¹ÌüÁÙÊ±¸ÄÔìµÄ¸ôÀëÇøĞ´ÏÂµÄ¡ª¡ª´©×ÅÔË¶¯¿ã£¬Ï´ÊÖÏû¶¾Òº¾ÍÔÚÊÖ±ß£¬Ê±²»Ê±µØ³ÔÁ½¿ÚÎÒµÄ½ô¼±¿ÚÁ¸Åä¸ø£¬Ò²¾ÍÊÇÁãÊ³
+Iâ€™m writing this from `the makeshift quarantine bunker` in my dining room â€” `sweatpants on, hand sanitizer nearby`, `snacking my way through` my `emergency rations`.
+è¿™äº›æ˜¯æˆ‘åœ¨æˆ‘å®¶é¥­å…ä¸´æ—¶æ”¹é€ çš„éš”ç¦»åŒºå†™ä¸‹çš„â€”â€”ç©¿ç€è¿åŠ¨è£¤ï¼Œæ´—æ‰‹æ¶ˆæ¯’æ¶²å°±åœ¨æ‰‹è¾¹ï¼Œæ—¶ä¸æ—¶åœ°åƒä¸¤å£æˆ‘çš„ç´§æ€¥å£ç²®é…ç»™ï¼Œä¹Ÿå°±æ˜¯é›¶é£Ÿ
 
-In his blog post last week, he wrote that it ¡°might also offer an opportunity for many companies to finally build a culture that allows `long-overdue work flexibility`.¡±
-ËûÉÏÖÜÔÚ²©¿ÍÖĞĞ´µÀ£º¡°Ëü»¹¿ÉÄÜÎªĞí¶à¹«Ë¾Ìá¹©»ú»á£¬×îÖÕ½¨Á¢Ò»ÖÖ±¸ÊÜÆÚ´ıµÄÁé»î¹¤×÷ÎÄ»¯¡£¡±
+In his blog post last week, he wrote that it â€œmight also offer an opportunity for many companies to finally build a culture that allows `long-overdue work flexibility`.â€
+ä»–ä¸Šå‘¨åœ¨åšå®¢ä¸­å†™é“ï¼šâ€œå®ƒè¿˜å¯èƒ½ä¸ºè®¸å¤šå…¬å¸æä¾›æœºä¼šï¼Œæœ€ç»ˆå»ºç«‹ä¸€ç§å¤‡å—æœŸå¾…çš„çµæ´»å·¥ä½œæ–‡åŒ–ã€‚â€
 
-I was a work-from-home evangelist who told everyone `within earshot` about the benefits of avoiding the office. `No commute! No distracting co-workers`! Home-cooked lunch! What¡¯s not to love?
-ÎÒ¿ñÈÈ¹Ä´µÔÚ¼Ò¹¤×÷£¬¸æËßÉí±ßµÄÃ¿¸öÈË±Ü¿ª°ì¹«ÊÒµÄºÃ´¦¡£²»ÓÃÍ¨ÇÚ£¡Ã»ÓĞÍ¬ÊÂÀ´´òÈÅÄã£¡ÔÚ¼Ò³Ô·¹£¡ÈÃÈËÔõÄÜ²»°®£¿
+I was a work-from-home evangelist who told everyone `within earshot` about the benefits of avoiding the office. `No commute! No distracting co-workers`! Home-cooked lunch! Whatâ€™s not to love?
+æˆ‘ç‹‚çƒ­é¼“å¹åœ¨å®¶å·¥ä½œï¼Œå‘Šè¯‰èº«è¾¹çš„æ¯ä¸ªäººé¿å¼€åŠå…¬å®¤çš„å¥½å¤„ã€‚ä¸ç”¨é€šå‹¤ï¼æ²¡æœ‰åŒäº‹æ¥æ‰“æ‰°ä½ ï¼åœ¨å®¶åƒé¥­ï¼è®©äººæ€èƒ½ä¸çˆ±ï¼Ÿ
 
 Most people should work in an office, or near other people, and `avoid solitary work-from-home arrangements whenever possible.`
-´ó¶àÊıÈËÓ¦¸ÃÔÚ°ì¹«ÊÒ»òÔÚÆäËûÈËÖÜÎ§¹¤×÷£¬²¢¾¡Á¿±ÜÃâ¶À×ÔÔÚ¼Ò¹¤×÷µÄ°²ÅÅ
+å¤§å¤šæ•°äººåº”è¯¥åœ¨åŠå…¬å®¤æˆ–åœ¨å…¶ä»–äººå‘¨å›´å·¥ä½œï¼Œå¹¶å°½é‡é¿å…ç‹¬è‡ªåœ¨å®¶å·¥ä½œçš„å®‰æ’
 
 But for those of us `lucky enough to be able to` work from home, coronavirus or no, `a few words of caution are in order.`
-µ«ÊÇ¶ÔÓÚÎÒÃÇÕâĞ©ÄÜÔÚ¼Ò¹¤×÷µÄĞÒÔË¶ù£¬ÎŞÂÛÓĞÃ»ÓĞ¹Ú×´²¡¶¾£¬ÓĞ±ØÒª×¢ÒâÒÔÏÂ¼¸µã
+ä½†æ˜¯å¯¹äºæˆ‘ä»¬è¿™äº›èƒ½åœ¨å®¶å·¥ä½œçš„å¹¸è¿å„¿ï¼Œæ— è®ºæœ‰æ²¡æœ‰å† çŠ¶ç—…æ¯’ï¼Œæœ‰å¿…è¦æ³¨æ„ä»¥ä¸‹å‡ ç‚¹
 
 `The study examined` remote workers at a Chinese travel agency and found that they `were 13 percent more efficient than` their office-based peers
-¸ÃÑĞ¾¿¶ÔÖĞ¹úÒ»¼ÒÔÚÏßÂÃĞĞ·şÎñ¹«Ë¾µÄÔ¶³Ì¹¤×÷ÈËÔ±½øĞĞÁËµ÷²é£¬·¢ÏÖËûÃÇµÄĞ§ÂÊ±È°ì¹«ÊÒÍ¬ÊÂ¸ß13£¥
+è¯¥ç ”ç©¶å¯¹ä¸­å›½ä¸€å®¶åœ¨çº¿æ—…è¡ŒæœåŠ¡å…¬å¸çš„è¿œç¨‹å·¥ä½œäººå‘˜è¿›è¡Œäº†è°ƒæŸ¥ï¼Œå‘ç°ä»–ä»¬çš„æ•ˆç‡æ¯”åŠå…¬å®¤åŒäº‹é«˜13ï¼…
 
 But research also shows that what remote workers `gain in productivity`, they often miss in `harder-to-measure benefits` like creativity and innovative thinking. `Team cohesion` suffers in remote work arrangements
-µ«ÊÇÑĞ¾¿Ò²±íÃ÷£¬ËäÈ»Ô¶³Ì¹¤×÷ÕßĞ§ÂÊ¸ü¸ß£¬µ«ËûÃÇÒ²´íÊ§ÁË´´ÔìÁ¦ºÍ´´ĞÂË¼Î¬ÕâĞ©ÄÑÒÔºâÁ¿µÄÊÕÒæ. Ô¶³Ì¹¤×÷»áÓ°ÏìÍÅ¶ÓÄı¾ÛÁ¦
+ä½†æ˜¯ç ”ç©¶ä¹Ÿè¡¨æ˜ï¼Œè™½ç„¶è¿œç¨‹å·¥ä½œè€…æ•ˆç‡æ›´é«˜ï¼Œä½†ä»–ä»¬ä¹Ÿé”™å¤±äº†åˆ›é€ åŠ›å’Œåˆ›æ–°æ€ç»´è¿™äº›éš¾ä»¥è¡¡é‡çš„æ”¶ç›Š. è¿œç¨‹å·¥ä½œä¼šå½±å“å›¢é˜Ÿå‡èšåŠ›
 
-Steve Jobs, `for one`, was a famous opponent of remote work, believing that Apple employees¡¯ best work `came from accidentally bumping into other people`, not sitting at home in front of an email inbox.
-Ê·µÙ·ò¡¤ÇÇ²¼Ë¹¾ÍÊÇÖøÃûµÄÔ¶³Ì¹¤×÷·´¶ÔÕß£¬ËûÈÏÎªÆ»¹ûÔ±¹¤×îºÃµÄ¹¤×÷±íÏÖÀ´×ÔÓÚÅ¼È»µÄÅö×²£¬¶ø²»ÊÇ×øÔÚ¼ÒÀïÃæ¶ÔÊÕ¼şÏä
+Steve Jobs, `for one`, was a famous opponent of remote work, believing that Apple employeesâ€™ best work `came from accidentally bumping into other people`, not sitting at home in front of an email inbox.
+å²è’‚å¤«Â·ä¹”å¸ƒæ–¯å°±æ˜¯è‘—åçš„è¿œç¨‹å·¥ä½œåå¯¹è€…ï¼Œä»–è®¤ä¸ºè‹¹æœå‘˜å·¥æœ€å¥½çš„å·¥ä½œè¡¨ç°æ¥è‡ªäºå¶ç„¶çš„ç¢°æ’ï¼Œè€Œä¸æ˜¯ååœ¨å®¶é‡Œé¢å¯¹æ”¶ä»¶ç®±
 
-Creativity comes from `spontaneous meetings`, from random discussions, You `run into someone`, you ask what they¡¯re doing, you say ¡®Wow,¡¯ and soon you¡¯re `cooking up all sorts of ideas`.
-´´ÔìÁ¦Ô´ÓÚ×Ô·¢µÄ»áÒé£¬À´×ÔËæ»úµÄÌÖÂÛ£¬ÄãÓöµ½Ò»¸öÈË£¬ÎÊÎÊËûÔÚ×öÊ²Ã´£¬ÌıÁË¾ÍËµ¡®ÍÛ¡¯£¬È»ºóºÜ¿ì¾ÍÓĞ¸÷ÖÖ¸÷ÑùµÄµã×ÓÃ°³öÀ´
+Creativity comes from `spontaneous meetings`, from random discussions, You `run into someone`, you ask what theyâ€™re doing, you say â€˜Wow,â€™ and soon youâ€™re `cooking up all sorts of ideas`.
+åˆ›é€ åŠ›æºäºè‡ªå‘çš„ä¼šè®®ï¼Œæ¥è‡ªéšæœºçš„è®¨è®ºï¼Œä½ é‡åˆ°ä¸€ä¸ªäººï¼Œé—®é—®ä»–åœ¨åšä»€ä¹ˆï¼Œå¬äº†å°±è¯´â€˜å“‡â€™ï¼Œç„¶åå¾ˆå¿«å°±æœ‰å„ç§å„æ ·çš„ç‚¹å­å†’å‡ºæ¥
 
-`I¡¯ll grant that office work has its downsides`, even in healthy times. Commuting has been shown to make us less happy, and `the open-plan office`, `a truly cursed workplace design trend` that emphasizes `airy spaces` with `rows of desks and little privacy`, has made `distraction-free focus nearly impossible`
-ÎÒ³ĞÈÏ£¬¼´Ê¹ÊÇÔÚ½¡¿µµÄÊ±ÆÚ£¬ÔÚ°ì¹«ÊÒ¹¤×÷Ò²ÓĞËüµÄÈ±µã¡£ÊÂÊµÖ¤Ã÷£¬Í¨ÇÚ»áÈÃÎÒÃÇ²»ÄÇÃ´¿ªĞÄ£¬¿ª·ÅÊ½°ì¹«ÊÒÕæÊÇÒ»ÖÖÁîÈËÌÖÑáµÄ°ì¹«ÊÒÉè¼ÆÇ÷ÊÆ£¬ËüÇ¿µ÷Í¨·çµÄ¿Õ¼ä£¬´øÓĞÒ»ÅÅÅÅµÄ°ì¹«×À£¬¼¸ºõÃ»ÓĞÒşË½£¬ÈÃÈË¼¸ºõ²»¿ÉÄÜ²»ÊÜ¸ÉÈÅµØ×¨ĞÄ¹¤×÷
+`Iâ€™ll grant that office work has its downsides`, even in healthy times. Commuting has been shown to make us less happy, and `the open-plan office`, `a truly cursed workplace design trend` that emphasizes `airy spaces` with `rows of desks and little privacy`, has made `distraction-free focus nearly impossible`
+æˆ‘æ‰¿è®¤ï¼Œå³ä½¿æ˜¯åœ¨å¥åº·çš„æ—¶æœŸï¼Œåœ¨åŠå…¬å®¤å·¥ä½œä¹Ÿæœ‰å®ƒçš„ç¼ºç‚¹ã€‚äº‹å®è¯æ˜ï¼Œé€šå‹¤ä¼šè®©æˆ‘ä»¬ä¸é‚£ä¹ˆå¼€å¿ƒï¼Œå¼€æ”¾å¼åŠå…¬å®¤çœŸæ˜¯ä¸€ç§ä»¤äººè®¨åŒçš„åŠå…¬å®¤è®¾è®¡è¶‹åŠ¿ï¼Œå®ƒå¼ºè°ƒé€šé£çš„ç©ºé—´ï¼Œå¸¦æœ‰ä¸€æ’æ’çš„åŠå…¬æ¡Œï¼Œå‡ ä¹æ²¡æœ‰éšç§ï¼Œè®©äººå‡ ä¹ä¸å¯èƒ½ä¸å—å¹²æ‰°åœ°ä¸“å¿ƒå·¥ä½œ
 
 But some people may never `be content with virtual water coolers.`
-µ«ÓĞĞ©ÈË¿ÉÄÜÓÀÔ¶²»»áÂú×ãÓÚĞéÄâµÄÒûË®»ú
+ä½†æœ‰äº›äººå¯èƒ½æ°¸è¿œä¸ä¼šæ»¡è¶³äºè™šæ‹Ÿçš„é¥®æ°´æœº
 
-As `a white-collar millennial`, I¡¯m supposed to `be cheering on` the remote work revolution. But I¡¯ve realized that `I can¡¯t be my best, most human self in sweatpants`, pretending to pay attention on video conferences `between trips to the fridge`
-×÷ÎªÒ»ÃûÇ§ìûÒ»´úµÄ°×Áì£¬ÎÒÓ¦¸ÃÎªÔ¶³Ì¹¤×÷¸ïÃü»¶ºô¡£µ«ÎÒÒÑ¾­ÒâÊ¶µ½£¬´©×ÅÔË¶¯¿ã£¬¼Ù×°×¨ĞÄ²Î¼ÓÊÓÆµ»áÒé£¬Ê±²»Ê±È¥±ùÏäÄÃ¶«Î÷£¬Õâ²¢²»ÊÇÎÒ×îºÃ¡¢×îÓĞÈËÇéÎ¶µÄ×´Ì¬
+As `a white-collar millennial`, Iâ€™m supposed to `be cheering on` the remote work revolution. But Iâ€™ve realized that `I canâ€™t be my best, most human self in sweatpants`, pretending to pay attention on video conferences `between trips to the fridge`
+ä½œä¸ºä¸€ååƒç¦§ä¸€ä»£çš„ç™½é¢†ï¼Œæˆ‘åº”è¯¥ä¸ºè¿œç¨‹å·¥ä½œé©å‘½æ¬¢å‘¼ã€‚ä½†æˆ‘å·²ç»æ„è¯†åˆ°ï¼Œç©¿ç€è¿åŠ¨è£¤ï¼Œå‡è£…ä¸“å¿ƒå‚åŠ è§†é¢‘ä¼šè®®ï¼Œæ—¶ä¸æ—¶å»å†°ç®±æ‹¿ä¸œè¥¿ï¼Œè¿™å¹¶ä¸æ˜¯æˆ‘æœ€å¥½ã€æœ€æœ‰äººæƒ…å‘³çš„çŠ¶æ€
 
 As supply chains in the West `began to run dry`, `airfreight rates from China jumped` suddenly last week
-Ëæ×ÅÎ÷·½¹ú¼ÒµÄ¹©Ó¦Á´¿ªÊ¼¿İ½ß£¬ÉÏÖÜÀ´×ÔÖĞ¹úµÄ¿ÕÔË¼Û¸ñÑ¸ËÙÉÏÕÇ
+éšç€è¥¿æ–¹å›½å®¶çš„ä¾›åº”é“¾å¼€å§‹æ¯ç«­ï¼Œä¸Šå‘¨æ¥è‡ªä¸­å›½çš„ç©ºè¿ä»·æ ¼è¿…é€Ÿä¸Šæ¶¨
 
 Beijing `has unleashed a series of top-down measures` to get offices and factories `humming again`
-ÎªÁËÈÃ°ì¹«ÊÒºÍ¹¤³§ÖØĞÂ»îÔ¾ÆğÀ´£¬ÖĞ¹úÕş¸®³öÌ¨ÁËÒ»ÏµÁĞ×ÔÉÏ¶øÏÂµÄ´ëÊ©
+ä¸ºäº†è®©åŠå…¬å®¤å’Œå·¥å‚é‡æ–°æ´»è·ƒèµ·æ¥ï¼Œä¸­å›½æ”¿åºœå‡ºå°äº†ä¸€ç³»åˆ—è‡ªä¸Šè€Œä¸‹çš„æªæ–½
 
 The state-owned railway `has halved a wide range of freight charges`. The national education ministry has `created 180,000 spaces at graduate schools` next autumn for students graduating this spring `with little prospect of a job`
 
 Those measures `face formidable hurdles`. Local officials are under pressure to reduce new infections, making them nervous about allowing people to return to work.
-»Ö¸´¾­¼Ã»î¶¯µÄ´ëÊ©ÃæÁÙ×Å¾Ş´óÕÏ°­¡£µØ·½¹ÙÔ±ÔÚ¼õÉÙĞÂ¸ĞÈ¾²¡ÀıÉÏÃæÁÙ¾Ş´óÑ¹Á¦£¬ÕâÈÃËûÃÇ¶ÔÔÊĞí¹¤ÈËÖØ·µ¹¤×÷¸ÚÎ»Ê®·Ö½ôÕÅ
+æ¢å¤ç»æµæ´»åŠ¨çš„æªæ–½é¢ä¸´ç€å·¨å¤§éšœç¢ã€‚åœ°æ–¹å®˜å‘˜åœ¨å‡å°‘æ–°æ„ŸæŸ“ç—…ä¾‹ä¸Šé¢ä¸´å·¨å¤§å‹åŠ›ï¼Œè¿™è®©ä»–ä»¬å¯¹å…è®¸å·¥äººé‡è¿”å·¥ä½œå²—ä½ååˆ†ç´§å¼ 
 
 `Cash-strapped families` may also `be reluctant to spend`. Household and corporate debts are huge after a decade of `heavy lending by the state-controlled banking sector`. Workers do not know whether their employers can pay them. Businesses do not know if other businesses `will default on payments` for goods and services
-ÏÖ½ğŞ×¾İµÄ¼ÒÍ¥¿ÉÄÜÒ²²»Ô¸Òâ»¨Ç®¡£ÔÚ¹ú¼Ò¿ØÖÆµÄÒøĞĞ²¿ÃÅ´óÁ¿·¢·Å´û¿îÊ®ÄêÖ®ºó£¬¼ÒÍ¥ºÍÆóÒµ¶¼µ£¸º×Å¾Ş¶îµÄÕ®Îñ¡£¹¤ÈËÃÇ²»ÖªµÀËûÃÇµÄ¹ÍÖ÷ÊÇ·ñ·¢µÃ³ö¹¤×Ê¡£ÆóÒµ²»ÖªµÀÆäËûÆóÒµÊÇ·ñ»áÍÏÇ·ÉÌÆ·ºÍ·şÎñµÄ¸¶¿î
+ç°é‡‘æ‹®æ®çš„å®¶åº­å¯èƒ½ä¹Ÿä¸æ„¿æ„èŠ±é’±ã€‚åœ¨å›½å®¶æ§åˆ¶çš„é“¶è¡Œéƒ¨é—¨å¤§é‡å‘æ”¾è´·æ¬¾åå¹´ä¹‹åï¼Œå®¶åº­å’Œä¼ä¸šéƒ½æ‹…è´Ÿç€å·¨é¢çš„å€ºåŠ¡ã€‚å·¥äººä»¬ä¸çŸ¥é“ä»–ä»¬çš„é›‡ä¸»æ˜¯å¦å‘å¾—å‡ºå·¥èµ„ã€‚ä¼ä¸šä¸çŸ¥é“å…¶ä»–ä¼ä¸šæ˜¯å¦ä¼šæ‹–æ¬ å•†å“å’ŒæœåŠ¡çš„ä»˜æ¬¾
 
 The provincial authorities in southern China `stepped in` a week ago to rescue HNA Group, `a debt-laden private sector conglomerate` that has struggled to pay its bills.
-Ò»ÖÜÇ°£¬ÖĞ¹úÄÏ·½Ò»¸öÊ¡µÄÕş¸®³öÊÖ¾ÈÖúº£º½¼¯ÍÅ£¬Õâ¼Ò¸ºÕ®ÀÛÀÛµÄË½ÓªÆóÒµ¼¯ÍÅÏİÈëÕ®ÎñÎ£»ú
+ä¸€å‘¨å‰ï¼Œä¸­å›½å—æ–¹ä¸€ä¸ªçœçš„æ”¿åºœå‡ºæ‰‹æ•‘åŠ©æµ·èˆªé›†å›¢ï¼Œè¿™å®¶è´Ÿå€ºç´¯ç´¯çš„ç§è¥ä¼ä¸šé›†å›¢é™·å…¥å€ºåŠ¡å±æœº
 
 More than 50 million migrant workers have not yet returned to their jobs, according to official data. Some `remain in quarantine`. Others are `stranded in rural areas` where bus service has not resumed
-¹Ù·½Êı¾İÏÔÊ¾£¬Óâ5000ÍòÅ©Ãñ¹¤ÉĞÎ´·µ»Ø¹¤×÷¸ÚÎ»¡£ÓĞĞ©ÈËÈÔÔÚ¸ôÀëÖĞ¡£ÓĞĞ©ÈË±»À§ÔÚÅ©´åµØÇø£¬ÒòÎªÄÇÀïµÄ³¤Í¾Æû³µ»¹Ã»ÓĞ»Ö¸´ÔËĞĞ
+å®˜æ–¹æ•°æ®æ˜¾ç¤ºï¼Œé€¾5000ä¸‡å†œæ°‘å·¥å°šæœªè¿”å›å·¥ä½œå²—ä½ã€‚æœ‰äº›äººä»åœ¨éš”ç¦»ä¸­ã€‚æœ‰äº›äººè¢«å›°åœ¨å†œæ‘åœ°åŒºï¼Œå› ä¸ºé‚£é‡Œçš„é•¿é€”æ±½è½¦è¿˜æ²¡æœ‰æ¢å¤è¿è¡Œ
 
 `Signs of fraud` have already emerged, making it harder for officials in Beijing to figure out what is going on around the country. `One scam `involves businesses that `turn on air conditioning and run machinery with no output`, said Cao Heping, a Peking University economist. The goal is to `burn enough electricity to qualify for restart subsidies`
-ÆÛÕ©µÄ¼£ÏóÒÑ¾­³öÏÖ£¬ÕâÈÃ±±¾©µÄ¹ÙÔ±ÃÇ¸üÄÑÅªÇå³şÈ«¹úµÄÇé¿ö¡£±±¾©´óÑ§¾­¼ÃÑ§¼Ò²ÜºÍÆ½Ëµ£¬Ò»ÖÖÆ­¾ÖÊÇ£¬ÆóÒµ´ò¿ª¿Õµ÷£¬ÈÃ»úÆ÷ÔË×ªÆğÀ´£¬È´Ã»ÓĞ²ú³ö¡£ÕâÑù×öµÄÄ¿µÄÊÇºÄµô×ã¹»¶àµÄµçÁ¦£¬ÒÔ´ïµ½ÁìÈ¡¸´¹¤²¹ÌùµÄ×Ê¸ñ
+æ¬ºè¯ˆçš„è¿¹è±¡å·²ç»å‡ºç°ï¼Œè¿™è®©åŒ—äº¬çš„å®˜å‘˜ä»¬æ›´éš¾å¼„æ¸…æ¥šå…¨å›½çš„æƒ…å†µã€‚åŒ—äº¬å¤§å­¦ç»æµå­¦å®¶æ›¹å’Œå¹³è¯´ï¼Œä¸€ç§éª—å±€æ˜¯ï¼Œä¼ä¸šæ‰“å¼€ç©ºè°ƒï¼Œè®©æœºå™¨è¿è½¬èµ·æ¥ï¼Œå´æ²¡æœ‰äº§å‡ºã€‚è¿™æ ·åšçš„ç›®çš„æ˜¯è€—æ‰è¶³å¤Ÿå¤šçš„ç”µåŠ›ï¼Œä»¥è¾¾åˆ°é¢†å–å¤å·¥è¡¥è´´çš„èµ„æ ¼
 
 Until China `revs up fully`, many people are trying to `conserve cash`
-ÔÚÖĞ¹ú»Ö¸´È«ËÙ·¢Õ¹Ö®Ç°£¬Ğí¶àÈË¶¼ÔÚÅ¬Á¦½ÚÊ¡ÏÖ½ğ
+åœ¨ä¸­å›½æ¢å¤å…¨é€Ÿå‘å±•ä¹‹å‰ï¼Œè®¸å¤šäººéƒ½åœ¨åŠªåŠ›èŠ‚çœç°é‡‘
 
 On a nearby street, Dai Jianglai fears `the imminent failure` of her `grilled pancake eatery`
-ÔÚ¸½½üµÄÒ»Ìõ½ÖÉÏ£¬´÷½ªÀ³µ£ĞÄ×Ô¼ºµÄ¹ø¿øµêºÜ¿ì¾ÍÒªµ¹±Õ
+åœ¨é™„è¿‘çš„ä¸€æ¡è¡—ä¸Šï¼Œæˆ´å§œè±æ‹…å¿ƒè‡ªå·±çš„é”…ç›”åº—å¾ˆå¿«å°±è¦å€’é—­
 
-`With business so weak`, Mr. Zhang sits every day among his `piles of unsold windshields` and regrets returning a month ago from his hometown, several hours¡¯ drive from Shanghai. ¡°`If I had known it would come to this`," he said, ¡°`I would have stayed home`.¡±
-ÉúÒâÕâÃ´²»¾°Æø£¬ÕÅÏÈÉúÃ¿Ìì¶¼×øÔÚÒ»¶ÑÂô²»³öÈ¥µÄµ²·ç²£Á§ÖĞ¼ä£¬ºó»ÚÒ»¸öÔÂÇ°´Ó¾àÀëÉÏº£¼¸¸öĞ¡Ê±³µ³ÌµÄÀÏ¼Ò»Øµ½ÉÏº££¬ËûµÄÀÏ¼Ò¡£¡°ÔçÖªµÀÊÇÕâ¸öÇé¿ö£¬¡±ËûËµ£¬¡°ÎÒ¾Í²»»ØÀ´ÁË¡£¡±
+`With business so weak`, Mr. Zhang sits every day among his `piles of unsold windshields` and regrets returning a month ago from his hometown, several hoursâ€™ drive from Shanghai. â€œ`If I had known it would come to this`," he said, â€œ`I would have stayed home`.â€
+ç”Ÿæ„è¿™ä¹ˆä¸æ™¯æ°”ï¼Œå¼ å…ˆç”Ÿæ¯å¤©éƒ½ååœ¨ä¸€å †å–ä¸å‡ºå»çš„æŒ¡é£ç»ç’ƒä¸­é—´ï¼Œåæ‚”ä¸€ä¸ªæœˆå‰ä»è·ç¦»ä¸Šæµ·å‡ ä¸ªå°æ—¶è½¦ç¨‹çš„è€å®¶å›åˆ°ä¸Šæµ·ï¼Œä»–çš„è€å®¶ã€‚â€œæ—©çŸ¥é“æ˜¯è¿™ä¸ªæƒ…å†µï¼Œâ€ä»–è¯´ï¼Œâ€œæˆ‘å°±ä¸å›æ¥äº†ã€‚â€
 
 Her `lectures` were being replaced by online classes. Her `residence hall was being cleared out`. She, `like thousands of others in her shoes`, had a million questions
-ËıµÄ¿Î»»³ÉÁËÔÚÏß½ÌÑ§¡£ËıµÄËŞÉáÒªÌÚ¿Õ¡£ÏÖÔÚ£¬ËıºÍÆäËû¼¸ÍòÃûÃæÁÙÍ¬Ñù´¦¾³µÄÑ§ÉúÒ»Ñù£¬ÄÔÖĞÓĞÎŞÊıÒÉÎÊ
+å¥¹çš„è¯¾æ¢æˆäº†åœ¨çº¿æ•™å­¦ã€‚å¥¹çš„å®¿èˆè¦è…¾ç©ºã€‚ç°åœ¨ï¼Œå¥¹å’Œå…¶ä»–å‡ ä¸‡åé¢ä¸´åŒæ ·å¤„å¢ƒçš„å­¦ç”Ÿä¸€æ ·ï¼Œè„‘ä¸­æœ‰æ— æ•°ç–‘é—®
 
 One after the other, `like dominoes`, they announced they were suspending classes and asking students to `pack up and go`
-ÓÚÊÇ£¬Èç¶àÃ×Åµ¹ÇÅÆÒ»°ã£¬ËûÃÇÒ»¸ö½ÓÒ»¸öµØĞû²¼Í£¿Î£¬²¢ÈÃÑ§Éú´ò°üÀë¿ª
+äºæ˜¯ï¼Œå¦‚å¤šç±³è¯ºéª¨ç‰Œä¸€èˆ¬ï¼Œä»–ä»¬ä¸€ä¸ªæ¥ä¸€ä¸ªåœ°å®£å¸ƒåœè¯¾ï¼Œå¹¶è®©å­¦ç”Ÿæ‰“åŒ…ç¦»å¼€
 
 Dance, theater and music students `fretted that after months of rehearsals` there would be no performances. `Seniors were already mourning their commencement`, assuming that it, too, would be canceled, and that `the Class of 2020 might be together for the last time`
-ÈÃÎèµ¸¡¢Ï·¾çºÍÒôÀÖ×¨ÒµµÄÑ§Éú¿àÄÕµÄÊÇ£¬ËûÃÇÅÅÁ·ÁËºÃ¼¸¸öÔÂ£¬µ«Ñİ³ö¿ÉÄÜÒªÃ»ÁË¡£´óËÄÑ§ÉúÒÑ¾­¿ªÊ¼°§Ì¾£ºËûÃÇ²Â²â±ÏÒµµäÀñÒ²Òª±»È¡ÏûÁË£¬2020½ì¿ÉÄÜÒª¾Í´Ë¸÷±¼¶«Î÷
+è®©èˆè¹ˆã€æˆå‰§å’ŒéŸ³ä¹ä¸“ä¸šçš„å­¦ç”Ÿè‹¦æ¼çš„æ˜¯ï¼Œä»–ä»¬æ’ç»ƒäº†å¥½å‡ ä¸ªæœˆï¼Œä½†æ¼”å‡ºå¯èƒ½è¦æ²¡äº†ã€‚å¤§å››å­¦ç”Ÿå·²ç»å¼€å§‹å“€å¹ï¼šä»–ä»¬çŒœæµ‹æ¯•ä¸šå…¸ç¤¼ä¹Ÿè¦è¢«å–æ¶ˆäº†ï¼Œ2020å±Šå¯èƒ½è¦å°±æ­¤å„å¥”ä¸œè¥¿
 
 Some `altruistically minded students` worried about going home and `perhaps unwittingly infecting` their older and more vulnerable parents and grandparents `should the virus already be present at their schools`
-ÓĞÒ»Ğ©ÎªËûÈË×ÅÏëµÄÑ§Éúµ£ĞÄ£¬Èç¹ûÑ§Ğ£ÒÑ¾­·¢ÏÖ²¡¶¾£¬»Ø¼Ò»áÎŞÒâÖĞ¸ĞÈ¾¸üÒ×¸ĞµÄ¸¸Ä¸ºÍ×æ¸¸Ä¸µÈ³¤±²
+æœ‰ä¸€äº›ä¸ºä»–äººç€æƒ³çš„å­¦ç”Ÿæ‹…å¿ƒï¼Œå¦‚æœå­¦æ ¡å·²ç»å‘ç°ç—…æ¯’ï¼Œå›å®¶ä¼šæ— æ„ä¸­æ„ŸæŸ“æ›´æ˜“æ„Ÿçš„çˆ¶æ¯å’Œç¥–çˆ¶æ¯ç­‰é•¿è¾ˆ
 
 Ms. Lockhart-Calpito, 19, is `on full financial aid`, which includes tuition, room and board. Her parents are `self-employed`, and she `had scraped together airfare home` for spring break by working two part-time jobs, `as a tutor and as an usher and ticket seller`
-19ËêµÄÂå¹şÌØ-¿¨Æ¤ÍĞÁì×ÅÈ«¶îÖúÑ§½ğ£¬°üÀ¨Ñ§·Ñ¡¢×¡ËŞ·ÑºÍ²Í·Ñ¡£Ëı¸¸Ä¸ÊÇ¸öÌå¾­ÓªÕß£¬Ëı×Ô¼ºÃãÇ¿´Õ¹»ÁË´º¼Ù»Ø¼ÒµÄ»úÆ±£¬Îª´ËËıÒª´òÁ½·İÁã¹¤£¬Ò»·İÊÇ¼Ò½Ì£¬Ò»·İÊÇÁìÎ»¼æÊÛÆ±Ô±
+19å²çš„æ´›å“ˆç‰¹-å¡çš®æ‰˜é¢†ç€å…¨é¢åŠ©å­¦é‡‘ï¼ŒåŒ…æ‹¬å­¦è´¹ã€ä½å®¿è´¹å’Œé¤è´¹ã€‚å¥¹çˆ¶æ¯æ˜¯ä¸ªä½“ç»è¥è€…ï¼Œå¥¹è‡ªå·±å‹‰å¼ºå‡‘å¤Ÿäº†æ˜¥å‡å›å®¶çš„æœºç¥¨ï¼Œä¸ºæ­¤å¥¹è¦æ‰“ä¸¤ä»½é›¶å·¥ï¼Œä¸€ä»½æ˜¯å®¶æ•™ï¼Œä¸€ä»½æ˜¯é¢†ä½å…¼å”®ç¥¨å‘˜
 
-`Now though`, she has found that the university so welcoming to students like her `had not thought through the consequences of its decisions` about the virus for `those without means`. It felt, she said, ¡°`like an eviction notice.`¡±
-È»¶øÏÖÔÚ£¬Ëı·¢¾õÈç´Ë»¶Ó­ÏñËıÕâÑùµÄÑ§ÉúµÄÑ§Ğ££¬ÔÚ¾ÍÒßÇé×ö¾ö²ßÊ±£¬Ã»ÓĞ¿¼ÂÇÕâ»á¸øÃ»ÓĞ×ÊÔ´µÄÑ§Éú´øÀ´Ê²Ã´ÑùµÄºó¹û¡£ËıËµ£¬¸Ğ¾õ¾ÍÏñÊÇ¡°ÊÕµ½ÁËÒ»ÕÅÇıÖğÁî¡±
+`Now though`, she has found that the university so welcoming to students like her `had not thought through the consequences of its decisions` about the virus for `those without means`. It felt, she said, â€œ`like an eviction notice.`â€
+ç„¶è€Œç°åœ¨ï¼Œå¥¹å‘è§‰å¦‚æ­¤æ¬¢è¿åƒå¥¹è¿™æ ·çš„å­¦ç”Ÿçš„å­¦æ ¡ï¼Œåœ¨å°±ç–«æƒ…åšå†³ç­–æ—¶ï¼Œæ²¡æœ‰è€ƒè™‘è¿™ä¼šç»™æ²¡æœ‰èµ„æºçš„å­¦ç”Ÿå¸¦æ¥ä»€ä¹ˆæ ·çš„åæœã€‚å¥¹è¯´ï¼Œæ„Ÿè§‰å°±åƒæ˜¯â€œæ”¶åˆ°äº†ä¸€å¼ é©±é€ä»¤â€
 
 She `had originally planned to fly home` for spring break on Thursday but had to cancel her flight, `forfeiting its $250 value`, when she got the notification on Tuesday morning
-ËıÔ­¼Æ»®ÖÜËÄ´î·É»ú»Ø¼Ò¹ı´º¼Ù£¬µ«ÖÜ¶şÊÕµ½Í¨Öªºó£¬²»µÃ²»È¡Ïû»úÆ±£¬²¢Òò´ËËğÊ§250ÃÀÔª
+å¥¹åŸè®¡åˆ’å‘¨å››æ­é£æœºå›å®¶è¿‡æ˜¥å‡ï¼Œä½†å‘¨äºŒæ”¶åˆ°é€šçŸ¥åï¼Œä¸å¾—ä¸å–æ¶ˆæœºç¥¨ï¼Œå¹¶å› æ­¤æŸå¤±250ç¾å…ƒ
 
-¡°We¡¯re `living off her tips`,¡± she said of her family. ¡°It was a difficult decision, but honestly we `weren¡¯t really left with a choice`.¡±
-¡°ÎÒÃÇ¿¿ÂèÂèµÄĞ¡·Ñ¹ıÈÕ×Ó£¬¡±ËıÌ¸µ½¼ÒÍ¥Çé¿öÊ±Ëµ£¬¡°ÕâÊÇ¸ö¼èÄÑµÄ¾ö¶¨£¬µ«ËµÊµ»°ÎÒÃÇÃ»ÓĞÑ¡ÔñµÄÓàµØ¡£¡±
+â€œWeâ€™re `living off her tips`,â€ she said of her family. â€œIt was a difficult decision, but honestly we `werenâ€™t really left with a choice`.â€
+â€œæˆ‘ä»¬é å¦ˆå¦ˆçš„å°è´¹è¿‡æ—¥å­ï¼Œâ€å¥¹è°ˆåˆ°å®¶åº­æƒ…å†µæ—¶è¯´ï¼Œâ€œè¿™æ˜¯ä¸ªè‰°éš¾çš„å†³å®šï¼Œä½†è¯´å®è¯æˆ‘ä»¬æ²¡æœ‰é€‰æ‹©çš„ä½™åœ°ã€‚â€
 
 Harvard officials said they `were swamped with requests` for financial and logistical help and could not take time to talk in detail about the situation
-¹ş·ğĞ£·½±íÊ¾£¬ËûÃÇÏÖÔÚ±»×Ê½ğºÍºóÇÚ·½ÃæµÄĞ­ÖúÒªÇóÑÍÃ»£¬Ã»ÓĞÊ±¼äÉîÈëÌ¸ÂÛ¾ßÌåÇé¿ö
+å“ˆä½›æ ¡æ–¹è¡¨ç¤ºï¼Œä»–ä»¬ç°åœ¨è¢«èµ„é‡‘å’Œåå‹¤æ–¹é¢çš„ååŠ©è¦æ±‚æ·¹æ²¡ï¼Œæ²¡æœ‰æ—¶é—´æ·±å…¥è°ˆè®ºå…·ä½“æƒ…å†µ
 
 A friend sent him a video of a lecture in which the professor `was wearing purple surgical gloves` and `spraying down the table with a bottle of bleach`
-ÅóÓÑ·¢¸øËûÒ»¸ö½²×ùµÄÊÓÆµ£¬½ÌÊÚ´÷×Å×ÏÉ«µÄÍâ¿ÆÊÖÌ×£¬ÄÃ×ÅÒ»Æ¿Ïû¶¾ÒºÔÚÅç×À×Ó
+æœ‹å‹å‘ç»™ä»–ä¸€ä¸ªè®²åº§çš„è§†é¢‘ï¼Œæ•™æˆæˆ´ç€ç´«è‰²çš„å¤–ç§‘æ‰‹å¥—ï¼Œæ‹¿ç€ä¸€ç“¶æ¶ˆæ¯’æ¶²åœ¨å–·æ¡Œå­
 
 He is not looking forward to online classes `because of his previous experience with virtual physics and calculus courses`. They were easier than `live classes`, he said, and as a result, `he did not learn as much`
-ÓÉÓÚÖ®Ç°µÄÎïÀíºÍÎ¢»ı·ÖÍø¿ÎÌåÑé²»¼Ñ£¬Ëû¶ÔÔÚÏßÉÏ¿ÎÃ»Ê²Ã´ÆÚ´ı¡£Íø¿ÎÒª±ÈÃæÊÚ¼òµ¥£¬ËûËµ£¬Òò´ËËûÔÚÍø¿ÎÖĞÑ§µ½µÄ²»ÈçÃæÊÚ¶à
+ç”±äºä¹‹å‰çš„ç‰©ç†å’Œå¾®ç§¯åˆ†ç½‘è¯¾ä½“éªŒä¸ä½³ï¼Œä»–å¯¹åœ¨çº¿ä¸Šè¯¾æ²¡ä»€ä¹ˆæœŸå¾…ã€‚ç½‘è¯¾è¦æ¯”é¢æˆç®€å•ï¼Œä»–è¯´ï¼Œå› æ­¤ä»–åœ¨ç½‘è¯¾ä¸­å­¦åˆ°çš„ä¸å¦‚é¢æˆå¤š
 
-Juan Diego Jaramillo, a senior at Columbia, `was bracing for his long-awaited commencement` to be canceled because of the danger that the virus would spread through `the assembled families`. ¡°`We¡¯d rather they just pull the Band-Aid off`¡± and deliver the bad news now, he said
-¸çÂ×±ÈÑÇ´óÑ§µÄ´óËÄÑ§Éúºú°²¡¤µü¸ê¡¤¹şÀ­Ã×Ô¼ÕıÔÚÎªÈ¡Ïû±ÏÒµµäÀñ×ö×¼±¸£¬ËûÒ»Ö±ÔÚµÈ´ıÕâÒ»ÏûÏ¢£¬ÒòÎªµäÀñÉÏ¼ÒÍ¥¾Û¼¯£¬ÓĞ´«²¥²¡¶¾µÄÎ£ÏÕ¡£¡°ÎÒÃÇÄşÔ¸ËûÃÇÖ±½Ó°Ñ´´¿ÉÌùËºÁË£¬¡±ÏÖÔÚ¾ÍĞû²¼»µÏûÏ¢£¬ËûËµ
+Juan Diego Jaramillo, a senior at Columbia, `was bracing for his long-awaited commencement` to be canceled because of the danger that the virus would spread through `the assembled families`. â€œ`Weâ€™d rather they just pull the Band-Aid off`â€ and deliver the bad news now, he said
+å“¥ä¼¦æ¯”äºšå¤§å­¦çš„å¤§å››å­¦ç”Ÿèƒ¡å®‰Â·è¿­æˆˆÂ·å“ˆæ‹‰ç±³çº¦æ­£åœ¨ä¸ºå–æ¶ˆæ¯•ä¸šå…¸ç¤¼åšå‡†å¤‡ï¼Œä»–ä¸€ç›´åœ¨ç­‰å¾…è¿™ä¸€æ¶ˆæ¯ï¼Œå› ä¸ºå…¸ç¤¼ä¸Šå®¶åº­èšé›†ï¼Œæœ‰ä¼ æ’­ç—…æ¯’çš„å±é™©ã€‚â€œæˆ‘ä»¬å®æ„¿ä»–ä»¬ç›´æ¥æŠŠåˆ›å¯è´´æ’•äº†ï¼Œâ€ç°åœ¨å°±å®£å¸ƒåæ¶ˆæ¯ï¼Œä»–è¯´
 
 Most of what it makes are `the disposable surgical masks` worn by health professionals. It makes `a smaller number of N95 respirator masks`, which provide `more filtration` for doctors and nurses.
-ËüÉú²úµÄ´ó²¿·Ö²úÆ·ÊÇÎÀÉú×¨ÒµÈËÔ±´÷µÄÒ»´ÎĞÔÍâ¿Æ¿ÚÕÖ£¬ÎªÒ½»¤ÈËÔ±Ìá¹©¸ü¶à¹ıÂËÄÜÁ¦µÄN95ºôÎüÆ÷¿ÚÕÖ²úÁ¿½ÏĞ¡
+å®ƒç”Ÿäº§çš„å¤§éƒ¨åˆ†äº§å“æ˜¯å«ç”Ÿä¸“ä¸šäººå‘˜æˆ´çš„ä¸€æ¬¡æ€§å¤–ç§‘å£ç½©ï¼Œä¸ºåŒ»æŠ¤äººå‘˜æä¾›æ›´å¤šè¿‡æ»¤èƒ½åŠ›çš„N95å‘¼å¸å™¨å£ç½©äº§é‡è¾ƒå°
 
-The bans ¡°`risk undermining our collective approach` to handle this crisis,¡±
-ÕâĞ©½ûÁî¡°ÓĞ¿ÉÄÜÆÆ»µÎÒÃÇÔÚÕâ³¡Î£»úÖĞµÄ¹²Í¬Ó¦¶Ô¡±
+The bans â€œ`risk undermining our collective approach` to handle this crisis,â€
+è¿™äº›ç¦ä»¤â€œæœ‰å¯èƒ½ç ´åæˆ‘ä»¬åœ¨è¿™åœºå±æœºä¸­çš„å…±åŒåº”å¯¹â€
 
 Supplies from `a five-story building` in southwestern Shanghai could `help alleviate the shortage`
-À´×ÔÉÏº£Î÷ÄÏÒ»×ùÎå²ã´óÂ¥µÄ¹©Ó¦£¬¿ÉÄÜÓĞÖúÓÚ»º½â¶ÌÈ±
+æ¥è‡ªä¸Šæµ·è¥¿å—ä¸€åº§äº”å±‚å¤§æ¥¼çš„ä¾›åº”ï¼Œå¯èƒ½æœ‰åŠ©äºç¼“è§£çŸ­ç¼º
 
 Standing at the factory fence, which `was topped with six strands of electrified wire`, a worker who gave only his family name, Zhou, said the masks had been helping China fight the virus
-Ò»Î»Ö»Ô¸Í¸Â¶×Ô¼ºĞÕÖÜµÄ¹¤ÈËÕ¾ÔÚ¹¤³§ÍâµÄµçÍøÕ¤À¸Ç°Ëµ£¬¿ÚÕÖÒ»Ö±ÔÚ°ïÖúÖĞ¹ú¿¹»÷²¡¶¾
+ä¸€ä½åªæ„¿é€éœ²è‡ªå·±å§“å‘¨çš„å·¥äººç«™åœ¨å·¥å‚å¤–çš„ç”µç½‘æ …æ å‰è¯´ï¼Œå£ç½©ä¸€ç›´åœ¨å¸®åŠ©ä¸­å›½æŠ—å‡»ç—…æ¯’
 
 
