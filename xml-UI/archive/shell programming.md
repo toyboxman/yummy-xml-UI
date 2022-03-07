@@ -1096,6 +1096,7 @@ Hello World   //resonate World
 ```
 
 <div id = "exp11"></div> 
+
 ```console
 #!bin/bash  
 
@@ -1122,6 +1123,7 @@ ssh $host "top -b -n 1"
 ```
 
 <div id = "exp12"></div> 
+
 ```console
 start this shell  //echo 'start this shell'
 $1    //echo '$1'
