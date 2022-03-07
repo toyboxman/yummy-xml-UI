@@ -42,6 +42,12 @@
         `把当前目录(包含子目录)下所有后缀为".sh"的文件后缀变更为".shell"，之后删除每个文件的第二行`
     + [判断文件是否存在及操作](#exp14)  
         `判断目录/tmp/jstack是否存在，不存在则新建一个目录若存在则删除目录下所有内容`
+    + [解析文件内容及统计](#exp15)  
+        `从test.loq中截取当天的所有gc信息日志，并统计gc时间的平均值和时长最长的时间`
+    + [监控端口请求及统计](#exp16)  
+        `查找80端口请求数最高的前20个IP地址，判断中间最小的请求数是否大于500，如大于500，则输出系统活动情况报告到alert.txt，如果没有，则在600s后重试，直到有输出为止`
+    + [监控文件大小及操作](#exp17)  
+        `将当前目录下大于10K的文件转移到/tmp目录，再按照文件大小顺序，从大到小输出文件名`
     + [Shell脚本单例运行](https://mp.weixin.qq.com/s/F3iojH8R0kvqhzzJeQiSSA)
     + [数学运算 bc/basic calculator](https://mp.weixin.qq.com/s/JAdUxU3ziqT1dw8vhjXHyQ)
     + [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
@@ -78,10 +84,6 @@
     + [批量主机远程执行命令脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#31%E6%89%B9%E9%87%8F%E4%B8%BB%E6%9C%BA%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4%E8%84%9A%E6%9C%AC)
     + [一键查看服务器利用率](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#33%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%E5%88%A9%E7%94%A8%E7%8E%87)
     + [一键部署LNMP网站平台脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#32%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2lnmp%E7%BD%91%E7%AB%99%E5%B9%B3%E5%8F%B0%E8%84%9A%E6%9C%AC)
-    
-    + 从 test.loq中截取当天的所有gc 信息日志，并统计 gc 时间的平均值和时长最长的时间。
-    + 查找80端口请求数最高的前 20个IP地址，判断中间最小的请求数是否大于 500，如大于 500，则输出系统活动情况报告到 alert.txt，如果没有，则在 600s后重试，直到有输出为止。
-    + 将当前目录下大于10K的文件转移到/tmp 目录，再按照文件大小顺序，从大到小输出文件名。
     + 企业微信告警
     + FTP客户端
     + SSH客户端
@@ -1205,4 +1207,47 @@ do
        rm -f $(ls -tr | head -1)
     fi
 done
+```
+<div id = "exp15"></div> 
+
+* 从test.loq中截取当天的所有gc信息日志，并统计gc时间的平均值和时长最长的时间
+```sh
+#!/bin/bash
+
+awk '{print $2}' hive-server2.log | tr -d ':' | awk '{sum+=$1} END {print "avg: ", sum/NR}' >>capture_hive_log.log
+awk '{print $2}' hive-server2.log | tr -d ':' | awk '{max = 0} {if ($1+0 > max+0) max=$1} END {print "Max: ", max}'>>capture_hive_log.log
+```
+<div id = "exp16"></div> 
+
+* 查找80端口请求数最高的前20个IP地址，判断中间最小的请求数是否大于500，如大于500，则输出系统活动情况报告到alert.txt，如果没有，则在600s后重试，直到有输出为止
+```sh
+#!/bin/bash
+
+state="true"
+
+while $state
+do
+    SMALL_REQUESTS=$(netstat -ant | awk -F'[ :]+' '/:22/{count[$4]++} END {for(ip in count) print count[ip]}' | sort -n | head -20 | head -1)
+    if [ "$SMALL_REQUESTS" -gt 500 ];then
+        sar -A > alert.txt
+        state="false"
+    else
+        sleep 6
+        continue
+    fi
+done    
+```
+<div id = "exp17"></div> 
+
+* 将当前目录下大于10K的文件转移到/tmp目录，再按照文件大小顺序，从大到小输出文件名
+```sh
+#!/bin/bash
+
+# 目标目录
+DIRPATH='/tmp'
+# 查看目录
+FILEPATH='.'
+
+find "$FILEPATH" -size +10k -type f | xargs -i mv {} "$DIRPATH"
+ls -lS "$DIRPATH" | awk '{if(NR>1) print $NF}'
 ```
