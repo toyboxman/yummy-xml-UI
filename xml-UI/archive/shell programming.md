@@ -34,6 +34,10 @@
     + [循环读写REST API,计算执行时间](#exp8)
     + [根据脚本输入参数循环执行，判断文件是否存在](#exp9)
     + [Bash函数定义](#exp10)
+    + [获取多机信息](#exp10)  
+        `并发从数台机器中获取hostname，并记录返回信息花费的时长，重定向到一个文件hostname.txt，全部完成后输出花费时长最短的那台机器的CPU信息`
+    + [统计进程数](#exp11)  
+        `统计/proc 目类下Linux进程相关数量信息，输出总进程数，runninq 进程数，stoped 进程数，sleeing进程数，zombie 进程数`
     + [Shell脚本单例运行](https://mp.weixin.qq.com/s/F3iojH8R0kvqhzzJeQiSSA)
     + [数学运算 bc/basic calculator](https://mp.weixin.qq.com/s/JAdUxU3ziqT1dw8vhjXHyQ)
     + [转换大小写](https://mp.weixin.qq.com/s/w2PTMyvTA1DOsZU6c1pYLQ)
@@ -68,9 +72,7 @@
     + [批量修改服务器用户密码](https://github.com/Chao-Xi/JacobTechBlog/blob/master/linux/17Linux_shell.md#19%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81)
     + [批量检测网站是否异常](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#30%E6%89%B9%E9%87%8F%E6%A3%80%E6%B5%8B%E7%BD%91%E7%AB%99%E6%98%AF%E5%90%A6%E5%BC%82%E5%B8%B8%E8%84%9A%E6%9C%AC)
     + [批量主机远程执行命令脚本](https://github.com/xlc520/docsify/blob/docsify/linux/%E5%AE%9E%E7%94%A8%20shell%20%E8%84%9A%E6%9C%AC.md#31%E6%89%B9%E9%87%8F%E4%B8%BB%E6%9C%BA%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4%E8%84%9A%E6%9C%AC)
-    + [获取多机信息]  
-        `并发从数台机器中获取hostname，并记录返回信息花费的时长，重定向到一个文件hostname.txt，全部完成后输出花费时长最短的那台机器的CPU信息`
-    + 统计/proc 目类下Linux进程相关数量信息，输出总进程数，runninq 进程数，stoped 进程数，sleeing进程数，zo mbie 进程数。
+    
     + 把当前目录（包含子目录）下所有后缀为".sh"的文件后缀变更为".shell"，之后删除每个文件的第二行。
     + 判断目录/tmp/jstack是否存在，不存在则新建一个目录若存在则删除目录下所有内容。
     + 从 test.loq中截取当天的所有gc 信息日志，并统计 gc 时间的平均值和时长最长的时间。
@@ -1097,6 +1099,7 @@ Hello World   //resonate World
 
 <div id = "exp11"></div> 
 
+* 并发从数台机器中获取hostname，并记录返回信息花费的时长，重定向到一个文件hostname.txt，全部完成后输出花费时长最短的那台机器的CPU信息
 ```console
 #!bin/bash  
 
@@ -1124,11 +1127,38 @@ ssh $host "top -b -n 1"
 
 <div id = "exp12"></div> 
 
+* 统计/proc目类下Linux 进程相关数量信息，输出总进程数，running，stoped，sleeing，zombie进程数。输出所有zombie的进程到zombie.txt并杀死所有zombie进程
 ```console
-start this shell  //echo 'start this shell'
-$1    //echo '$1'
-Shell  //echo "$1"
-Shell  //echo $1
-Hello   //resonate
-Hello World   //resonate World
+#!/bin/bash
+
+ALL_PROCESS=$(ls /proc/ | egrep '[0-9]+')
+
+running_count=0
+stoped_count=0
+sleeping_count=0
+zombie_count=0
+
+for pid in ${ALL_PROCESS[*]}
+do
+    test -f /proc/$pid/status && state=$(egrep "State" /proc/$pid/status | awk '{print $2}')
+    case "$state" in
+        R)
+            running_count=$((running_count+1))
+        ;;
+        T)
+            stoped_count=$((stoped_count+1))
+        ;;
+        S)
+            sleeping_count=$((sleeping_count+1))
+        ;;
+        Z)
+            zombie_count=$((zombie_count+1))
+            echo "$pid" >>zombie.txt
+            kill -9 "$pid"
+        ;;
+    esac
+done
+
+
+echo -e "total: $((running_count+stoped_count+sleeping_count+zombie_count))\nrunning: $running_count\nstoped: $stoped_count\nsleeping: $sleeping_count\nzombie: $zombie_count"
 ```
