@@ -76,3 +76,31 @@ Beyond the answers Mr. Zelensky provided to questions, pulling a chair close to 
 Mr. Zelensky said he was getting about three hours of sleep a night. His cheeks sagged with weariness. He was, though, animated and gestured energetically to drive home points. Zelensky, who has refused to the flee the country, turning down a reported American evacuation offer. “I need ammunition, not a ride,” he said at the time.
 泽连斯基说他每晚睡三个小时左右。他的脸颊因疲倦而下垂。但他精神抖擞并活跃地打着手势表达自己的观点。据报道，泽连斯基拒绝了美国的撤离提议，拒绝逃到国外。“我需要的是弹药，不是顺风车，”他当时说
 
+We must not allow anyone in the Kremlin to get away with misrepresenting our intentions in order to find ex post facto justification for this war of choice. We have no hostility toward the Russian people, and we have no desire to impugn a great nation and a world power. We despair of the decision to send young, innocent Russians into a futile war.
+我们绝不允许克里姆林宫有人成功歪曲我们的意图，以便事后为发动这场蓄意之战找借口。我们对俄罗斯人民没有敌意，我们也无意指责一个伟大的国家和一个世界强国。我们对于将年轻、无辜的俄罗斯人送入一场徒劳战争的决定感到绝望
+
+The annual government work report delivered to China’s National People’s Congress did not even mention Russia’s invasion of Ukraine, and it took an implacably steady-as-it-goes tone on China’s economic outlook. The implicit message appeared to be that China could weather the turbulence in Europe, and would focus on trying to keep the Chinese population at home contented and employed
+向全国人民代表大会提交的年度政府工作报告中根本没有提到俄罗斯对乌克兰的入侵，同时，该文件对中国经济前景采取了坚决的求稳立场。这其中暗含的消息似乎是：中国能够经受住欧洲的动荡，并将致力于让国内人民安居乐业
+
+Many Chinese media organizations admire RT and Sputnik, which they believe have broken the West’s information monopoly, or at least muddied the water. Russia’s military actions are anti-West, anti-NATO expansion and anti-Nazi — thus justified and popular.
+许多中国媒体机构钦佩今日俄罗斯和俄罗斯卫星通讯社，他们认为这两家媒体打破了西方的信息垄断，或者至少把水搅浑了. 俄罗斯的军事行动针对的是西方和北约扩张，是反纳粹的，因此是正当和广受欢迎的
+
+The one-two punch is working, keeping the public from facts while sowing confusion. The battalion, a unit of the Ukrainian National Guard, is known for having neo-Nazi sympathizers but remains a fringe presence in the country and its military.
+虚假信息与审查的结合已见成效，在让公众不了解事实的同时，也制造了困惑。亚速营是乌克兰国民警卫队的一个支队，人们知道其中有新纳粹的同情者，但这支队伍在乌克兰及其军队一直处于边缘地位
+
+But as the war continues and China recalibrates its position, some Chinese online users have begun to scrutinize the Russian news media reports. some people called out Russia for waging an information war in China. Russia’s external propaganda has infiltrated China out-and-out.
+但随着战争的继续以及中国重新调整自己的立场，一些中国网民开始仔细审阅俄罗斯新闻媒体的报道. 有人指出俄罗斯正在中国打一场信息战。俄罗斯外宣把国内渗透的底裤都不剩了
+
+The global system was built in the 1950s, and if you think of it as a car from those years, it is battered, out of date in some ways, and could use a good tuneup, the reappearance of war in Europe is also an omen.
+全球体系是在1950年代建立的，如果你把它看成是那个年代出厂的汽车，你会发现它破旧不堪，在某些方面已经过时，可能需要好好调整一下了，欧洲也显露了再次爆发战争的预兆
+
+We have become increasingly indifferent — that’s why the Putin example has been so striking, A lot of people had a comforting and benign view of what a post-American world would look like — it would just be adjusting to other people having different opinions — so for the consequence to be war, it’s shocking to people.
+我们变得越来越冷漠——这就是为什么普京的例子如此引人注目，很多人对后美国世界会是什么样子有一种善意而令人宽慰的看法——它只是在适应那些有不同意见的人——所以其后果是战争才会让人们感到震惊
+
+The Biden administration, in an effort to deter Putin, assembled a powerful package of deep and broad economic sanctions and warned the Russian leader that if he invaded Ukraine, he’d be betting his whole farm — the economic viability of his country and regime. Tragically, Putin bet the farm, and the results have been swift and merciless.
+拜登政府为了威慑普京，制定了一套极具深度与广度的严厉经济制裁，并警告俄罗斯领导人，如果他入侵乌克兰，他就赌上了全部——他的国家和政权的经济生存能力。不幸的是，普京选择孤注一掷，后果则来得迅速而无情
+
+“It turns out that Russia’s foreign reserves strategy had a major flaw: About half of the money was held overseas in foreign banks — and now Russia can’t get to it” because of the sanctions, noted Fortune. So the ruble savings of many Russians are being ravaged.
+ 《财富》指出，“事实证明，俄罗斯的外汇储备战略存在重大缺陷：大约一半的资金存放在海外的外国银行里，而现在俄罗斯无法拿到这些钱，”因为俄罗斯受到了制裁。因此，许多俄罗斯人的卢布储蓄正在遭受重创
+
+ 

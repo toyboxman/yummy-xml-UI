@@ -775,6 +775,7 @@ monitor in:description language:python
     - [Hotspot VM中CMS+ParNew GC问题分析与解决](https://mp.weixin.qq.com/s/RFwXYdzeRkTG5uaebVoLQw)
     - [对象不用赋值null ](https://mp.weixin.qq.com/s/AsJml1DeHFAm_eN8wA1rEg)
     - [归还内存](https://mp.weixin.qq.com/s/7j3yM0rjaInMMCqs8T8uMg)
+    - [测量JVM中Object大小](https://www.baeldung.com/jvm-measuring-object-sizes)
     - [JVM面试问题](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
 
 #### tools
