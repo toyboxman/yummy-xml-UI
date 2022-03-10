@@ -462,45 +462,136 @@ I like watching the athletes too much to skip the Olympics. **Ice dancing is gor
 
 “你能想像吗，我18年前离开这个国家，他们却在这里为我加油，”庄永祥回忆说。“然后我简直不能打球了，我太激动了。看看今天的两国关系，以及两国之间的政治和竞争时，有点让人伤心，”庄永祥说。“真让人遗憾。”
 
-Yet the truth is more prosaic. Mr. Zelensky, the showman and performer, has been unmasked by reality. And it has revealed him to be dispiritingly mediocre.
+Yet the truth is more **prosaic**. Mr. Zelensky, the **showman** and performer, has been **unmasked by reality**. And it has **revealed him to be dispiritingly mediocre**.
+>prosaic[proʊˈzeɪɪk] 平庸的；平淡的；乏味的; 散文的；单调的；平凡的  
+>showman 善于引起公众注意的人；喜欢出风头的人; 演出主持人；玩杂耍的人  
+>dispiriting[dɪˈspɪrɪtɪŋ] 令人沮丧的；使人气馁的  
+>mediocre[ˌmidiˈoʊkər] 平庸的；普通的；平常的
+
 然而，事实却更加平淡无奇。泽伦斯基，这名演艺人士和表演者，已经被现实揭开了他的面具，暴露出他只是令人沮丧的平庸之辈
 
-In my view, there are two huge logs fueling this fire. The first log was the ill-considered decision by the U.S. in the 1990s to expand NATO after — indeed, despite — the collapse of the Soviet Union. And the second and far bigger log is how Putin cynically exploited NATO’s expansion closer to Russia’s borders to rally Russians to his side to cover for his huge failure of leadership
+**In my view**, there are **two huge logs fueling this fire**. The first log was the **ill-considered decision** by the U.S. in the 1990s to expand NATO after — indeed, despite — the collapse of the Soviet Union. And the second and far bigger log is how Putin **cynically exploited** NATO’s expansion closer to Russia’s borders to **rally Russians to his side to cover** for his huge failure of leadership
+>ill-considered decision 考虑欠周的决定  
+>cynically['sɪnɪkli] 悲观地；犬儒地  
+>cynically exploit 无所顾忌地利用  
+
 在我看来，有两根给这场火添柴的巨大木头。第一根是美国考虑欠周的决定，即美国在20世纪90年代苏联解体后——其实是尽管苏联已解体——做出的扩大北约的决定. 第二根而且是大的一根，是普京如何无所顾忌地利用了北约向俄罗斯周边地区的扩张，将俄罗斯人团结到他的身边，来掩盖他在领导力方面的巨大失败
 
-I think it is the beginning of a new cold war. I think the Russians will gradually react quite adversely and it will affect their policies. I think it is a tragic mistake. There was no reason for this whatsoever. No one was threatening anybody else. This expansion would make the founding fathers of this country turn over in their graves
+I think it is the beginning of a new cold war. I think the Russians will **gradually react quite adversely** and it will affect their policies. I think it is a **tragic mistake**. There was no reason for this **whatsoever**. No one was threatening anybody else. This expansion would make the **founding fathers of this country turn over in their graves**
+>adversely 不利地；有害地  
+>whatsoever 任何；无论什么  
+>founding father (运动、机构或思想的)创建人; 国父；开国元勋；开国者  
+
 我认为这是一场新冷战的开端。我认为俄罗斯将慢慢做出相当不利的反应，这将影响他们的政策。我认为这是个可悲的错误。这完全没有任何理由这样做。没有人在威胁其他人。这种扩张会让我国的制宪元勋们九泉之下不得安宁
 
-Russia wants insecurity in Europe because force is its trump card, They never wanted a new security order, whatever the European illusions. Nearly everywhere, in many regions of the world where the United States brought its law and order, this created bloody, unhealing wounds and the curse of international terrorism and extremism, America’s conduct across the globe was “con-artist behavior.”
+Russia wants **insecurity** in Europe because force is its **trump card**, They never wanted a new security order, whatever the European **illusions. Nearly everywhere**, in many regions of the world where the United States brought its law and order, this **created bloody, unhealing wounds and the curse of international terrorism and extremism**, America’s conduct across the globe was “**con-artist behavior**.”
+>insecurity 不安全；不安定  
+>trump card 王牌  
+>unhealing wounds 无法治愈的伤口  
+>artist 艺术家  
+>con artist 骗子
+
 俄罗斯希望看到欧洲动荡，因为武力是它的王牌，不论欧洲抱有怎样的幻想，俄罗斯想要的从来都不是新的安全秩序。美国给世界许多地区带去法律和秩序，但几乎在每个地方都造成血淋淋、无法治愈的伤口以及国际恐怖主义和极端主义的诅咒，美国在全球的所作所为是“骗子行径”。
 
-They designed a constitution for fallen people, Its genius lay in how it held in tension two seemingly incompatible beliefs: first, that the majority must generally prevail; and second, that the majority is predisposed to seek personal advantage above the common good.
+They designed a constitution for **fallen people, Its genius lay in** how it **held in tension two seemingly incompatible beliefs**: first, that the majority must **generally prevail**; and second, that the majority is **predisposed to seek personal advantage above the common good**.
+>fallen people 堕落的人  
+>lie in 存在于；位于; (分娩后)坐月子  
+>hold in 抑制；忍住; 约束  
+>hold in tension 统一矛盾  
+>prevail 流行；盛行；战胜；压倒; 占优势  
+>predispose[ˌpridɪsˈpoʊz] 预先安排；使倾向于；预先处理  
+>common good 公共利益；共同利益
+
 他们为堕落的人设计了一部宪法，宪法的天才之处在于，它如何将两个看似不相容的信念矛盾地统一起来：第一个是，大多数人必须通常占上风；第二个是，大多数人容易将个人利益置于共同利益之上。
 
-It is also unwarranted. There are two types of war: wars of necessity, to protect vital national interests and involving the use of military force as a last resort, such as World War II and the Persian Gulf war of 1991; and wars of choice — armed interventions taken either in the absence of vital national interests or despite the availability of options not involving military force. Into this category fall the wars in Vietnam, Iraq and, after a limited initial phase, Afghanistan.
+It is also **unwarranted**. There are two types of war: **wars of necessity**, to protect **vital national interests** and involving the use of military force as a **last resort**, such as World War II and the Persian Gulf war of 1991; and wars of choice — **armed interventions** taken either in the **absence of** vital national interests or despite **the availability of options** not involving military force. **Into this category fall** the wars in Vietnam, Iraq and, after a limited initial phase, Afghanistan.
+>unwarranted[ʌnˈwɔrəntəd] 不合理的；不必要的；没有根据的；不适当的；无保证的  
+>necessity[nəˈsesəti] 必然性；必要性; 必要；必需品  
+>vital national interests 重要国家利益  
+>last resort 破釜沉舟；终极审判；终极手段  
+>armed interventions 武装干涉  
+>availability of options 可用选择
+
 这也是毫无根据的。当前世界上有两种战争：一种是为保护重要国家利益而不得已发动的战争，如第二次世界大战和1991年的波斯湾战争；还有可选择的战争——在没有重大国家利益、或在尽管有不涉及军事力量选项的情况下采取武装干预。这类战争包括越南战争、伊拉克战争，以及在有限的初期阶段后的阿富汗战争
 
-Though far from a panacea, The United States should also continue to make public its intelligence that sheds light on Russian intentions to spoil surprises. 
+**Though far from a panacea**, The United States should also continue to make public its intelligence that **sheds light on** Russian intentions to **spoil surprises**.
+>panacea[ˌpænəˈsiə] 万能药；灵丹妙药  
+>far from a panacea 远非万能  
+>shed light on 阐明；解释；将…弄明白；照亮  
+>spoil 破坏；搞坏；宠坏；溺爱  
+>spoil surprises 破坏出其不意的手段
+
 尽管远非万能，美国还应该继续公开其关于俄罗斯意图的情报，以破坏该国出其不意的手段
 
-Sitting across a small table from him in the Kremlin, I was immediately struck by the contrast between Mr. Putin and his bombastic predecessor, Boris Yeltsin. Whereas Mr. Yeltsin had cajoled, blustered and flattered, Mr. Putin spoke unemotionally and without notes about his determination to resurrect Russia’s economy and quash Chechen rebels. 
+Sitting across a small table from him in the Kremlin, I **was immediately struck** by the contrast between Mr. Putin and his **bombastic predecessor**, Boris Yeltsin. **Whereas** Mr. Yeltsin had **cajoled, blustered and flattered**, Mr. Putin **spoke unemotionally and without notes** about his determination to **resurrect Russia’s economy and quash Chechen rebels**.
+>bombastic[bɑmˈbæstɪk] 夸大的；言过其实的；夸夸其谈的  
+>whereas 尽管；(用于正式文件中句子的开头)鉴于; 然而  
+>cajole[kəˈdʒoʊl] 哄骗；劝诱；诱骗  
+>bluster[ˈblʌstər] 大话；恫吓；咆哮；气势汹汹地说话；狂吹  
+>flatter[ˈflætər] 奉承；讨好；恭维  
+>speak unemotionally and without notes 不带感情色彩地脱稿讲述  
+>resurrect[ˌrezəˈrekt] 恢复使用；使复兴；起死回生  
+>resurrect economy 复兴经济  
+>quash rebels 镇压叛乱
+
 在克里姆林宫，坐在他对面的一张小桌子旁，我立刻被普京和他夸夸其谈的前任鲍里斯·叶利钦的区别之明显所震撼。叶利钦使用哄骗、恫吓和奉承，而普京则不带感情色彩地脱稿讲述他复兴俄罗斯经济和镇压车臣叛军的决心
 
-In the 20-odd years since we met, Mr. Putin has charted his course by ditching democratic development for Stalin’s playbook. He is sure that Americans mirror both his cynicism and his lust for power and that in a world where everyone lies, he is under no obligation to tell the truth.
+In the **20-odd years** since we met, Mr. Putin has **charted his course by ditching** democratic development for Stalin’s **playbook**. He is sure that Americans **mirror both his cynicism and his lust** for power and that in a world where everyone lies, he is **under no obligation** to tell the truth.
+>20-odd years 20多年  
+>chart course 制定路线  
+>ditch[dɪtʃ] 沟；渠; 抛弃；摆脱；丢弃  
+>playbook 战术; 剧本  
+>mirror 镜子；反映；反射；映照
+>under no obligation 没有义务  
+>cynicism[ˈsɪnɪˌsɪzəm] 玩世不恭；犬儒主义；愤世嫉俗；冷嘲热讽  
+>lust[lʌst] 渴望；好色
+
 自我们见面以来的20多年里，普京转向斯大林的战术，摒弃了民主发展，制定了自己的路线。他确信美国人像他一样无所顾忌且渴望权力，在一个人人都撒谎的世界里，他没有义务说真话。
 
-Mr. Putin and his counterpart like to claim that we now live in a multipolar world. While that is self-evident, it does not mean that the major powers have a right to chop the globe into spheres of influence as colonial empires did centuries ago.
+Mr. Putin and his counterpart like to claim that we now live in a **multipolar world**. While that is **self-evident**, it does not mean that the major powers have a right to **chop the globe into spheres of influence as colonial empires** did centuries ago.
+>multipolar world 多极化的世界  
+>self-evident 显而易见的；不言而喻的；明摆着的; 不言自明的  
+>spheres of influence 势力范围  
+
 普京和其他领导人都喜欢说我们现在生活在一个多极化的世界。虽然这不言而喻，但这不意味着大国有权像几世纪前的殖民帝国那样，将全球划分成几个势力范围。
 
-Before the pandemic, the club was a fixture of the city’s curious, plugged-in music scene. Locals crammed in to hear visiting Polish jazz quintets or Argentine percussionists. Expatriates could discover up-and-coming Chinese punk bands. The coronavirus crystallized those tendencies. Bent on stamping out infections, China canceled virtually all international flights.
-在疫情之前，这家俱乐部是这座城市充满好奇、无处不在的音乐场景中的一个组成部分。本地人蜂拥而至，聆听来访的波兰爵士五重奏或阿根廷打击乐手的演奏. 新冠病毒使这些趋势变得具体化。中国一心想消灭感染，几乎取消了所有国际航班
+Before the pandemic, the club was **a fixture of** the city’s curious, **plugged-in music scene**. Locals **crammed in** to hear visiting **Polish jazz quintets or Argentine percussionists. Expatriates** could discover **up-and-coming** Chinese punk bands. The coronavirus **crystallized those tendencies. Bent on stamping out** infections, China canceled virtually all international flights.
+>fixture (定期定点举行的)体育活动; 夹具；固定装置  
+> music scene 无处不在的音乐场景  
+>plugged-in 插入的；插上的  
+>cram[kræm] 填满；塞入  
+>quintet[kwɪnˈtet] 五重奏；五人舞；五元组  
+>percussionist 打击乐乐师  
+>expatriate[ekˈspeɪtriət] 移居国外；放弃国籍; 移居国外的; 侨民；外派员工  
+>up-and-coming 有前途的；前程似锦的  
+>crystallize[ˈkrɪst(ə)lˌaɪz] 结晶；变明确；使(想法、信仰等)明确; 具体化  
+>tendency[ˈtendənsi] 趋势；倾向；偏好
 
-Countries around the world should uphold true multilateralism, We should remove barriers, not erect walls, not recast the meeting of minds and cultures as a zero-sum clash.
+在疫情之前，这家俱乐部是这座城市充满好奇、无处不在的音乐场景中的一个组成部分。本地人蜂拥而至，聆听来访的波兰爵士五重奏或阿根廷打击乐手的演奏. 外国人还能发现一些有希望的本地朋克乐队。新冠病毒使这些趋势变得具体化。中国一心想消灭感染，几乎取消了所有国际航班
+
+Countries around the world should **uphold true multilateralism**, We should **remove barriers, not erect walls**, not **recast the meeting of minds and cultures as a zero-sum clash**.
+>uphold 举起；维护；坚持  
+>multilateralism[ˌmʌlti'lætərəlɪzəm] 多边主义  
+>the meeting of minds and cultures 思想和文化的交汇  
+>zero-sum clash 零和冲突
+
 世界各国要坚持真正的多边主义，坚持拆墙而不筑墙。不将思想和文化的交汇重新定义为一场零和冲突。
 
-Wariness lingered. Deng Xiaoping, the leader who spearheaded the economic opening, memorably warned that an open window brings both fresh air and flies. But in those heady early days, many believed that China was hurtling irreversibly toward openness.
+**Wariness lingered**. Deng Xiaoping, the leader who **spearheaded** the economic opening, **memorably warned** that an open window brings both fresh air and **flies**. But in those **heady early days**, many believed that China was **hurtling irreversibly** toward openness.
+>wariness 谨慎  
+>linger 徘徊；逗留  
+>memorably['mɛmərəblɪ] 记忆中地  
+>heady[ˈhedi] 强烈作用于感官的；使兴奋的；令人陶醉的；任性的；轻率的  
+>hurtle[ˈhɜrt(ə)l] 猛冲；猛烈碰撞  
+>irreversibly 不可逆地；不可挽回地
+
 戒心也挥之不去。引领中国经济开放的领导人邓小平的警告令人难忘，他说打开窗户既会带来新鲜空气，也会带来苍蝇。但在那些令人兴奋的早期时光，许多人认为中国正在不可逆转地奔向开放
 
-Did it ever think about the consequences of pushing a big country to the wall? You may go ask the U.S.: they started the fire and fanned the flames,How are they going to put out the fire now? The U.S. is in no position to tell China off, NATO still owes the Chinese people a debt of blood
-有没有想过把一个大国逼到绝地的后果？你可以去问问美方，他们不断拱火、点火，现在打算怎么灭火？美方恐怕没有资格告诉中方怎么做。北约还欠着中国人民的血债
+Did it ever think about the consequences of **pushing a big country to the wall**? You may go ask the U.S.: they **started the fire and fanned the flames**,How are they going to **put out the fire** now? The U.S. is **in no position to tell China off**, NATO still owes the Chinese people **a debt of blood**
+>push sb to the wall 逼到绝地  
+>put out 扑灭；熄灭  
+>in no position 没资格；没有地位  
+>tell off 斥责；责备  
+>a debt of blood  血债
 
+有没有想过把一个大国逼到绝地的后果？你可以去问问美方，他们不断拱火、点火，现在打算怎么灭火？美方恐怕没有资格告诉中方怎么做。北约还欠着中国人民的血债
