@@ -434,6 +434,9 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 [arthas@28030]$ stack *facade.LogicalSwitchImpl *
 # 按条件记录调用栈数据
 [arthas@28030]$ stack *PolicyEngineHandler invokeProviders "params.length==6 && params[0].{? #this instanceof com.example.MyProvider}.size()>0"
+
+# 把捕获调用栈信息输出到本地文件
+[arthas@28030]$ stack com.example.api.search.AggregateRequestDto * | tee /opt/example/gm-tomcat/stack.log
 ```
 
 ##### [trace](https://arthas.gitee.io/trace.html)
@@ -543,6 +546,32 @@ retransform和redefine两个命令有点差异:
 [arthas@28030]$ jad --source-only com.example.demo.arthas.user.UserController > /tmp/UserController.java
 [arthas@28030]$ mc /tmp/UserController.java -d /tmp
 [arthas@28030]$ redefine /tmp/com/example/demo/arthas/user/UserController.class
+```
+
+##### logger/mbean
+查看当前JVM中所有logger/mbean实例详情
+```console
+[arthas@11693]$ logger
+ name                root                                                                                             
+ class               org.apache.logging.log4j.core.config.LoggerConfig                                                
+ classLoader         java.net.URLClassLoader@1bd86fc2                                                                 
+ classLoaderHash     1bd86fc2                                                                                         
+ level               INFO                                                                                             
+ config              XmlConfiguration[location=/opt/example/gm-tomcat/conf/log4j2.xml]                                 
+ additivity          true                                                                                             
+ codeSource          file:/usr/tomcat/lib/log4j-core-2.17.1.jar                                                       
+ appenders           name            LOGFILE                                                                          
+                     class           org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender           
+                     classLoader     java.net.URLClassLoader@1bd86fc2                                                 
+                     classLoaderHash 1bd86fc2                                                                         
+                     name            MESSAGETRACE_LOG                                                                 
+                     class           org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender           
+                     classLoader     java.net.URLClassLoader@1bd86fc2                                                 
+                     classLoaderHash 1bd86fc2                                                                         
+                     name            RFC5424                                                                          
+                     class           org.apache.logging.log4j.core.appender.SyslogAppender                            
+                     classLoader     java.net.URLClassLoader@1bd86fc2                                                 
+                     classLoaderHash 1bd86fc2                      
 ```
 
 ##### stop

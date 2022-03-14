@@ -103,4 +103,147 @@ The Biden administration, in an effort to deter Putin, assembled a powerful pack
 “It turns out that Russia’s foreign reserves strategy had a major flaw: About half of the money was held overseas in foreign banks — and now Russia can’t get to it” because of the sanctions, noted Fortune. So the ruble savings of many Russians are being ravaged.
  《财富》指出，“事实证明，俄罗斯的外汇储备战略存在重大缺陷：大约一半的资金存放在海外的外国银行里，而现在俄罗斯无法拿到这些钱，”因为俄罗斯受到了制裁。因此，许多俄罗斯人的卢布储蓄正在遭受重创
 
- 
+ In any case, consumer goods are only about a third of Russia’s imports. The rest are capital goods, intermediate goods — that is, components used in the production of other goods — and raw materials. These are things Russia needs to keep its economy running, and their absence may cause important sectors to grind to a halt. There are already suggestions, for example, that the cutoff of spare parts and servicing may quickly cripple Russia’s domestic aviation, a big problem in such a huge country.
+ 无论如何，消费品只占俄罗斯进口的三分之一左右。其余的是资本货物、中间货物（即用于生产其他货物的部件）和原材料。这些都是俄罗斯维持其经济运行所需要的，它们的缺失可能会导致重要行业的停滞。例如，已经有人提出，切断备件和维修可能会迅速削弱俄罗斯的国内航空，在这样一个大国，这是一个大问题
+
+ Ukraine’s military, which is dwarfed by the Russian force in most ways, has somehow managed to stymie its opponent. Ukrainian soldiers have killed more than 3,000 Russian troops, according to conservative estimates by U.S. officials, and others have surrendered and sabotaged their own vehicles to avoid fighting. To be sure, most military experts say that Russia will eventually subdue Ukraine’s army. 
+ 与俄军相比，乌克兰军队在很多方面相形见绌，却能设法阻止对手的进攻。据美国官员的保守估计，乌克兰军人已歼灭了3000多名俄罗斯士兵, 还有些士兵已投降，他们为避免战斗破坏了自己的车辆. 诚然，大多数军事专家表示，俄罗斯最终将征服乌克兰军队
+
+He’s damned if he did know, and damned if he didn’t, If he did know and he didn’t tell people, he’s complicit; if he wasn’t told by Putin, it’s an affront. They did not anticipate a full-scale invasion, You do not need to invade Ukraine to get what you want. So why bother? They still want to remain sort of neutral, but they bitterly failed.
+他知情还是不知情都无法逃脱谴责，如果他知道，但没有告诉别人，那他是同谋；如果普京没有告诉他，那是对他的冒犯. 他们没有预料到俄罗斯会全面入侵，俄罗斯无需全面入侵乌克兰就能得到想要的东西，所以为什么要自找麻烦呢？他们仍想保持某种中立，但他们彻底失败了
+
+Get serious about defense. The dumbest debate in foreign-policy circles is whether China or Russia is the graver threat. The real answer is that we don’t have the luxury of choosing. But we do have the luxury of spending more on defense. it seemed like a pipe dream.
+认真对待国防问题。在外交政策领域，最愚蠢的争论是关于中国还是俄罗斯谁是更严重的威胁。真正的答案是，我们没有选择的余地。但我们确实有增加国防开支的余地. 这似乎是一个白日梦
+
+In restaurants that remain open, bottled water is now served exclusively in plastic bottles. The glass ones are being used to make Molotov cocktails. they might be providing cover for a potential biological or chemical weapons attack
+这里仍在营业的餐馆里出售的瓶装水现在都是塑料瓶的。玻璃瓶已被用去做燃烧弹. 他们可能在为发动的潜在生物或化学武器袭击提供掩护
+
+There’s a strong undercurrent of anti-Western sentiment and disposition in a lot of these narratives, They’re questioning U.S. legitimacy
+许多这样的叙事都包含了强烈了反西方情绪和倾向，他们的做法是在质疑美国的正当性
+
+Efforts to negotiate a cease-fire to give civilians a chance to escape have failed repeatedly. For three days, the prospect of relief reaching the city though a “humanitarian corridor” fell apart in a hail of mortar and artillery fire.
+为了让平民有机会逃脱而进行停火谈判的努力一再失败。三天来，通过“人道主义走廊”到达城市的救援可能性在密集的炮火中破灭了
+
+They drove as far as they could in Irpin, but then Ms. Perebyinis was forced to abandon the minivan. They set out on foot toward a damaged bridge over the Irpin River.
+他们在伊尔平尽量开车前进，但后来佩雷贝尼斯女士被迫弃车。他们步行向伊尔平河上一座遭毁坏的桥走去
+
+An identical, slightly cross-eyed version of Holoborodko stands before him. It’s your body double, the prime minister explains. He’s available to appear at ceremonies, to meet with foreign dignitaries … or to take a sniper’s bullet. Of course, the prime minister adds, it probably won’t come to that.
+一个长得一样、略微斜视的霍洛博罗德科站在他面前。这是您的替身，总理解释道。他可以在仪式上出现，与外国政要会面，或者替你挡狙击手的子弹。当然，总理说，可能不会发生这种事情
+
+**More satirical than** “The West Wing,” **less caustic than** “Veep,” **with higher stakes than** in “Parks and Recreation,” “Servant of the People” is a **what-if fable** about an **ordinary citizen vaulted into power**. Holoborodko, a history teacher, is caught on camera **ranting about the country’s rampant corruption and cynicism**. But “Servant of the People” is also stranger and more profound than its **fish-out-of-water premise suggests**.
+>satirical[səˈtɪrɪk(ə)l] 爱挖苦的；好讽刺的  
+>caustic[ˈkɔstɪk] 腐蚀性的；苛性的；尖酸刻薄的；挖苦的  
+>fable[ˈfeɪb(ə)l] 寓言；无稽之谈；谎言  
+>what-if fable 假设故事  
+>vault[vɔlt] 穹顶；腾跃  
+>vault into power 突然掌权  
+>rant[rænt] 咆哮；怒吼  
+>rampant[ˈræmpənt] 泛滥的；猖獗的  
+>rampant corruption and cynicism 腐败猖獗且无所顾忌  
+>fish out of water 如鱼离水；不得其所; 格格不入的  
+>premise[ˈpremɪs] 前提；假定
+
+《人民公仆》比《白宫风云》(The West Wing)更具讽刺意味，没有《副总统》(Veep)那么刻薄，比《公园与游憩》(Parks and Recreation)里的利害关系更大，它是一个关于普通公民突然掌权的假设故事。历史老师霍洛博罗德科被拍到大骂国家腐败猖獗且无所顾忌. 但是，《人民公仆》也比它格格不入的假设所暗示的更奇怪，也更深刻
+
+Mr. Zelensky’s appearances throughout the war, from **handmade videos** to interviews, have had **a similar personal feel**. He **wears fatigues**, not a suit.We are here. We are not giving up our home. To the world, it was **David facing Goliath and picking up a digital slingshot**.
+>personal feel 个人风格  
+>fatigue 疲劳；工作服  
+>slingshot[ˈslɪŋˌʃɑt] 弹弓
+
+泽连斯基在整个战争期间的露面，从自拍视频到采访，都有类似的个人风格。他穿着作训服，而不是西装。我们在这里。我们不会放弃我们的家园。对全世界来说，这是对决巨人歌利亚的大卫拿起了数字弹弓
+
+I don’t want Ukraine’s history to be **a legend about 300 Spartans**. He’s not **posturing as Rambo**. If anything, he **accentuates his vulnerability**. He’s tired. He’s **unshaven**.
+>accentuate[ækˈsentʃuˌeɪt] 强调；着重；使突出  
+
+我不希望乌克兰的历史变成斯巴达三百勇士的传奇。”他没有摆出兰博的姿态。要说他表达了什么的话，他强调了他的脆弱。他很累。他没有刮胡子。
+
+A group of middle-aged Chinese Australians logged onto Zoom to **step, kick and punch through their regular exercise class** one day late last month. Then they **lingered online to despair at** the government’s attempt to turn China into a campaign weapon.
+>regular exercise class 常规健身课  
+>linger online 继续留在网上  
+>despair at 表达失望
+
+上个月下旬的某天，一群澳大利亚中年华人登录Zoom，上他们的常规健身课。登阶、踢腿、挥拳了一段时间后，他们继续留在网上，对政府试图把中国变成一个竞选武器的做法表达不满和失望
+
+The seven men and women in Melbourne were resigned to the fact that China would become a **political wedge** in the federal election **due by May**. But when Prime Minister Scott Morrison questioned the **allegiance** of a leader of the opposition Labor Party by accusing him of being a “**Manchurian candidate**,” that **felt like a step too far**.
+>political wedge 政治楔子  
+>due by May 定于5月  
+>allegiance[əˈlidʒəns] 效忠; 忠诚；忠贞；忠心  
+>Manchurian[mænˈtʃʊər·rɪərn] 满族的；中国东北的; 满族人  
+>a step too far 太过份；过头了
+
+这七名男女接受了这样一个事实：中国会成为定于今年5月举行的联邦选举的一个政治楔子。但当澳大利亚总理斯科特·莫里森质疑反对党工党的一名领导人的忠诚，指责他是“满洲候选人”时，给人的感觉有点过头了
+
+I was **shocked and surprised** that he would **go so low**, It was **totally uncalled-for and totally un-Australian**. It’s led to **whisper campaigns** against Labor candidates of **Chinese descent** in Sydney. Mr. Morrison — often **celebrated** by American officials for his handling of Beijing — “has **lost control of any prudent or rational dimension** in his approach to China. 
+>go so low 这么卑鄙; 如此下作  
+>uncalled for 多余的；唐突的；不适当的; 不必要的；没有理由的  
+>whisper[ˈhwɪspər] 耳语；低语；私语  
+>whisper campaign 耳语运动; 诋毁运动  
+>celebrate 赞美；颂扬  
+>rational dimension 理性维度  
+>prudent[ˈprud(ə)nt] 谨慎的；慎重的；精明的  
+
+我很震惊，也感到意外，他竟然会这么卑鄙，这完全有失公允，也完全与澳大利亚的价值观相违. 这已导致了针对悉尼的工党华裔候选人的诋毁运动. 莫里森因其在北京问题的处理而曾经常受美国官员称赞，他“在对待中国的做法上已失去了对谨慎或理性维度的控制”. 
+
+In an isolated country with a history of **xenophobia**, the **political gambit** is built on a mix of **tried-and-true scare tactics and cherry-picked facts**. What’s going on here is **a mark of sheer desperation**
+>xenophobia[ˌzenəˈfoʊbiə] 排外；仇外  
+>gambit[ˈɡæmbɪt] 开头一招；开局；开场白  
+>political gambit 政治手段  
+>tried-and-true 行之有效的; 经过考验证明可靠的  
+>cherry-pick 挑选; 择优而用；精挑细选的  
+>sheer[ʃɪr] 纯粹的；十足的；绝对的；完全的  
+>sheer desperation 铤而走险; 彻底绝望
+
+在一个有排外历史且地理位置遥远的国家，政治手段建立在把屡试不爽的恐吓招数与挑选对自己有利的事实结合起来的基础上。现在发生的事情，是铤而走险的标志
+
+The state of grocery stores and pharmacies may be **the starkest illustration** of how this international hub is **buckling** under this Omicron surge. Various **pain medications and Covid testing kits**, according to its website, are **out of stock**. Some other drugstores in the city are out of **sanitary napkins and tampons**. some residents have **panicked**. They have **emptied supermarket shelves** of vegetables and meat. They have **raided drugstores for pain and fever medication**. Those who could afford it have **jumped on flights** out of the city.
+>the starkest illustration 最鲜明例证  
+>buckle[ˈbʌk(ə)l] 皮带扣；鞋扣; 压垮；双腿发软  
+>medication[ˌmedɪˈkeɪʃ(ə)n] 药物  
+>fever medication 退烧药  
+>sanitary[ˈsænɪˌteri] 卫生的；清洁的; 公共厕所  
+>sanitary napkin 卫生巾  
+>tampon[ˈtæmˌpɑːn] 卫生棉条；棉球；(手术中塞伤口用的)棉塞
+
+食品杂货店和药店的情况也许是这个国际中心如何被奥密克戎病例激增压垮的最鲜明例证。各种止痛药和检测试剂盒均已断货。还有一些药店的卫生巾和卫生棉条都已售馨. 民众当中已经开始出现恐慌。他们将超市货架上的蔬菜和肉类抢购一空，把药店里的止痛药和退烧药扫荡干净。那些负担得起的人已乘机离开。
+
+Sanctions are only **as strong as the weakest link**, Any financial center that is willing to do business when others are not could **provide a leak in the dike and undermine the overall measures**.
+>as strong as the weakest link 最薄弱的连接处决定整体强度  
+>dike[daɪk] 堤坝；排水沟  
+>a leak in the dike 堤坝之穴
+
+制裁的力度只取决于对最薄弱环节的打击，在其他金融中心都表示拒绝的情况下，只要还有任何一处愿意，都可能导致千里之堤溃于蚁穴
+
+It should be a **clarifying moment**, That has to be **pretty bracing**. The U.A.E. may be **the most conspicuous** in its position, if only because it currently **holds a rotating seat** on the **United Nations Security Council**.
+>clarifying moment 清晰的时刻；明确的时刻  
+>bracing 支撑的；令人振奋的  
+>conspicuous[kənˈspɪkjuəs] 显著的；显眼的；引人注目的  
+>rotating seat 轮值席位
+
+这应该是一个明确态度的时刻, 这想必会有很大的提振作用. 哪怕仅考虑其目前的联合国安理会轮值主席国的地位，阿联酋的立场可能都是最引人注目的
+
+If we are not **violating any international laws**, then nobody should blame Dubai, or the U.A.E., or any other country for trying to **accommodate whoever comes in a legitimate way, So what’s the big deal**? I don’t see why the West would complain.  
+如果我们没有违反国际法，那任何人都不应指责迪拜、阿联酋或是任何想要接纳合法入境者的国家，这有什么大不了的？我不明白为什么西方会抱怨
+
+He shared an electronic invitation **circulating** among Russians in the city: a **rooftop cocktail party** for venture capitalists and cryptocurrency start-ups.
+>circulate 循环；传播；流传；传阅  
+>rooftop 天台；屋顶
+
+他分享了一份在迪拜的俄罗斯人之间流传的电子邀请函：那是一场为风险投资家和加密货币初创企业举办的屋顶鸡尾酒会
+
+Mr. Yoon and Mr. Lee have been **neck and neck** in most surveys. During much of the campaign, policy discussions **were often drowned out by fractious allegations of legal and moral misconduct** by the two candidates and their families. Yoon is **ignorant**. Lee is **a lot of talk but untrustworthy**, This election is **a choice of who is the lesser of two evils**.
+>neck and neck 并驾齐驱；不相上下  
+>drown out 把(另一声音)压倒[淹没,盖住]; 压过；盖过  
+>fractious[ˈfrækʃəs] 暴躁的；易怒的；倔强的  
+>legal and moral misconduct 法律和道德上不当行为  
+>ignorant[ˈɪɡnərənt] 无知的；愚昧的  
+>the lesser of two evils 两害相权取其轻
+
+在大多数调查中，李在明和尹锡悦的支持率不相上下。在竞选的大部分时间里，政策讨论经常淹没在对两位候选人及其家人在法律和道德上不当行为的愤怒指控里. 尹锡悦很无知，李在明夸夸其谈，不值得信任，这次选举是两害相权取其轻的选择
+
+But for the first time the road is clear. You can **see far ahead**, like on a **cold, crisp winter morning**, and there, in the distance, you can just about **make out the outlines of the guillotines**.
+>guillotine[ˈɡɪləˌtin] 断头台  
+>crisp 脆的；凉爽的；清新的；干燥寒冷的  
+>make out 理解；发现; 看出
+
+但道路第一次显得很清晰。你可以看到遥远的前方，就像在一个寒冷、清爽的冬日早晨，在那里，在远处，你几乎可以辨认出断头台的轮廓
+
