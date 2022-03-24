@@ -2106,12 +2106,12 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 ```
 
 #### awk
-+ awk入门[[1](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615551&idx=2&sn=3a0b56b403f4dcf7c204bdb67161f7fe), [2](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615790&idx=1&sn=8d11c37e041ca676f3ca9f2b40e64cab)]
-+ awk-LOOP[[1](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615749&idx=2&sn=6205977bb0f0943b1e3df2728d70aa06), [2](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)]
-+ [awk运算符号](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446340&idx=1&sn=339467b45f2618b2b99634ca1b87b098)
-+ [awk-NR/NF变量](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615695&idx=2&sn=a8058e8ad8203e94c20b26eea4b82849)
-+ [awk删掉重复行](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615818&idx=2&sn=7d426b4a3b1170fcf11bd8443a07f759)
++ awk入门[[1](https://mp.weixin.qq.com/s/00byxLNrglsmLBTTIX7_tA), [2](https://mp.weixin.qq.com/s/X3qiX4qOjg1jHlDpzgC61Q)]
++ awk-LOOP[[1](https://mp.weixin.qq.com/s/nK5YjhFHW3jmvIwGIAWiTQ), [2](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)]
++ [awk-NR/NF变量](https://mp.weixin.qq.com/s/du1y9pa2XBV8R8SMbuOXTA)
++ [awk删掉重复行](https://mp.weixin.qq.com/s/pC6NVz3NDbG_axrZIasVTQ)
 + [5种awk用法](https://mp.weixin.qq.com/s/-LFhV1v_evVYIWt4cInKcg)
++ awk运算符号
 ```console
 # awk 的基本语法
 awk [options] 'pattern {action}' file
@@ -2119,7 +2119,7 @@ awk [options] 'pattern {action}' file
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
-# 用 value=" 字符串作为token分隔行
+# 用 "value=" 字符串作为token分隔行, 默认分隔符空格。$0所有列，$1(第一列) $2...
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $0}'
 <Property oe:key="netmask" oe:value="255.255.253.0" />
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $1}'
@@ -2872,6 +2872,7 @@ $ tcpdump -i eth0 host 10.117.4.117 and udp -w capture.cap
 # -s 0: Don't limit the amount of payload data that is printed out. Print it all.
 # -i eth1: Capture packets on interface eth1
 # -A: Print packets in ASCII.
+# -n 不将 addresses(i.e., host addresses, port numbers, etc.) 转成 names.
 # 'host 192.168.1.1': Only capture packets coming to or from 192.168.1.1.
 # 'and tcp port http': 等同于 'and tcp port http 80' Only capture HTTP 80端口的 packets.
 $ tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http

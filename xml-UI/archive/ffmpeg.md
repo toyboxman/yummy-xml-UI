@@ -53,6 +53,18 @@ file '/home/file3.mp4'
 $ ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
 ```
 
+#### 压缩视频
+```console
+# 将原视频文件压缩成小分辨率文件 执行完成 源文件20M，压缩文件3M
+ffmpeg -i up-down.mp4 -s 320*240 1.mp4
+# 下面命令有同样效果
+ffmpeg -i up-down.mp4 -vf scale=320:240 1.mp4
+# scale可以有灵活参数, 比如改变为源文件 50%比例
+ffmpeg -i up-down.mp4 -vf scale=iw/2:ih/2 1.mp4 -hide_banner
+# 改成80%比例
+ffmpeg -i up-down.mp4 -vf scale=iw*0.8:ih*0.8 1.mp4 -hide_banner
+```
+
 #### 添加字幕
 首先需要准备字幕文件
 ```console

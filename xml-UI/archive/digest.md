@@ -361,6 +361,7 @@
     + [安全架构评审](https://mp.weixin.qq.com/s/ndv8Grd8AF2k_LzL33L8yQ)
 + [架构师的核心工作内容](https://mp.weixin.qq.com/s/ZYDTpsvYd-G61pqwLqgChw)  
     `UML分解需求`
++ [云原生架构](https://mp.weixin.qq.com/s/mRPbJXU0tuFUfVkxeY9NbQ)
 + 分布式架构
     - [分布式架构的前世今生](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)    
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  
@@ -597,6 +598,7 @@
 + [如何搭建一个大数据平台](https://mp.weixin.qq.com/s/GNYg4U1VWVYXAo5efcn5Lg)
 + [工业互联网大数据平台建设方案](https://mp.weixin.qq.com/s/4pymKCmsMVX4cH1twpVt-Q)
 + [spark](big-data/spark.md)
+    - [Spark on Kubernetes与Spark on Yarn对比分析](https://mp.weixin.qq.com/s/YkwETnjarKepSQ-A-ckV9Q)
     - [tutorial Spark's Scala APIs](https://github.com/deanwampler/JustEnoughScalaForSpark)
     - [Spark docker image](https://github.com/big-data-europe/docker-spark)
     - [Spark调度系统](https://mp.weixin.qq.com/s/8vNw3e_aAtui9zZKSV6DXw)

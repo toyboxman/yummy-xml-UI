@@ -4,6 +4,7 @@
 ### kubernetes
 + [解决什么问题](#problem-digest)
 + [如何使用](#use-digest)
++ [如何排错](#troubleshooting)
 
 ---
 
@@ -59,3 +60,6 @@ Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑�
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system
 kubectl get ds -n kube-system
 ```
+
+#### troubleshooting
++ [基于eBPF的Kubernetes问题排查](https://mp.weixin.qq.com/s/--8iEky-XCL0Y0bYM52iHQ)
