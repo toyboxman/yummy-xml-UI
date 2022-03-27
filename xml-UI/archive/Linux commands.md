@@ -2308,11 +2308,19 @@ Tuesday
 Wednesday
 
 # sort by random hash of keys
-# -R, --random-sort shuffle, but group identical keys
+# -R, --random-sort Sort by a random order
+# -d, --dictionary-order Consider only blank spaces and alphanumeric characters in comparisons
+# -b, --ignore-leading-blanks Ignore leading blank characters when comparing lines
+# -f, --ignore-case 
+# -i, --ignore-nonprinting Ignore all non-printable characters
 # -r, --reverse reverse the result of comparisons
 # -n, --numeric-sort compare according to string numerical value
 # -h, --human-numeric-sort compare human readable numbers (e.g., 2K 1G)
 # -M, --month-sort compare (unknown) < 'JAN' < ... < 'DEC'
+# -s  Stable sort. This option maintains the original record order of records that have an equal key
+# -u, --unique Unique keys. Suppress all lines that have a key that is equal to an already processed one. Similarly to -s, implies a stable sort
+# --qsort  Try to use quick sort, This sort algorithm cannot be used with -u and -s
+# --radixsort, --mergesort, --heapsort
 ls | sort -R
 ```
 
