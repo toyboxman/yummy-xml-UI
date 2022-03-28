@@ -58,49 +58,124 @@ It’s what he does, It’s verbal saber-rattling. We’ll see where he goes wit
 Nuclear-armed states can’t fight nuclear wars because it would risk their extinction, but they can and do threaten it, They play games of nuclear chicken, of raising the risk of war in hopes that the other side will back down and say, ‘Geez, this isn’t worth fighting a nuclear war over.’ Unless we see that kind of thing, it’s rhetoric — it’s madman brinkmanship.
 核国家不能打核战，因为这将使其面临灭国的危险，但他们能以此作为威胁，也的确这么做了，他们在玩核版本的懦夫博弈，通过增加战争风险，以期待对方做出让步说，‘算啦，真不值得为此打一场核战。’ 除非我们看到那样的情况，不然这就是说大话——是狂人的战争边缘策略。
 
-They were paying the price of their own rhetoric, that this was a defensive war against fascists and neo-Nazis, But now we have an irritated Kremlin, and we haven’t seen yet what Russia has in store. The world is starting to see stage two, when they go in with heavy artillery and ground troops, We can see a follow-on invasion with more experienced troops, with more forces, fewer precision-guided systems, more attrition, more carpet bombing and more victims.
+They were **paying the price of their own rhetoric**, that this was a defensive war against fascists and neo-Nazis, But now we have an **irritated** Kremlin, and we haven’t seen yet what Russia has in store. The world is starting to see stage two, when they **go in with heavy artillery** and ground troops, We can see a follow-on invasion with more experienced troops, with more forces, fewer **precision-guided systems**, more **attrition, more carpet bombing** and more victims.
+>attrition[əˈtrɪʃ(ə)n] 消耗；自然减员; 磨损  
+>carpet bombing 地毯式轰炸
+
 他们为自己的论调付出了代价，称这是一场针对法西斯和新纳粹分子的防御性战争，但现在我们看到一个被激怒的克里姆林宫，而我们还没有见到俄罗斯的实力. 世界将要开始看到第二阶段，他们将带着重型火炮和地面部队进入，我们会在后续入侵中看到更多经验丰富的部队，更多的军力，更少的精确制导系统，更多的损耗，更多的地毯式轰炸和更多的受害者。
 
-Russia appears to have stumbled in the opening days of the invasion, but Ukraine’s army is still enormously overmatched, and Putin has the power to rain hell on the country
+Russia appears to have **stumbled in** the opening days of the invasion, but Ukraine’s army is still **enormously overmatched**, and Putin has the power to **rain hell** on the country
+>stumble[ˈstʌmb(ə)l] 犯错误；跌倒；绊跌  
+>overmatch 优于；胜过；压倒  
+>rain hell 使遭殃
+
 俄罗斯似乎在入侵开始的几天里出师不利，但乌克兰军队仍处于巨大的劣势，普京有能力让这个国家遭殃
 
-Even before the pandemic, Hong Kong’s inequality was staggering. It has more billionaires than any city but New York, yet more than 200,000 residents live in carved-up tenement homes where the average living space per person is 48 square feet.
+Even before the pandemic, Hong Kong’s **inequality was staggering**. It has more billionaires than any city but New York, yet more than 200,000 residents **live in carved-up tenement homes** where the average living space per person is 48 **square feet**.
+>inequality[ˌɪnɪˈkwɑləti] 不平等；不平衡；不平  
+>carved-up 分割的；分隔的  
+>tenement[ˈtenəmənt] 经济公寓; 房屋；住宅
+
 甚至在疫情之前，香港的不平等现象就令人震惊。它的亿万富翁数量仅次于纽约，然而超过20万名居民住在人均面积4.5平方米的㓥房中
 
-These claims are speculation without any basis, and are intended to blame-shift and smear China. They remain in a de facto alliance against the West at this point.
+These claims are **speculation without any basis**, and **are intended to blame-shift and smear** China. They remain in a **de facto** alliance against the West at this point.
+>without any basis 没有任何根据  
+>blame-shift 推卸责任  
+>smear[smɪr] 诽谤；胡乱涂抹；弄脏  
+>de facto[deɪ ˈfæktoʊ] 事实上的；实际上的
+
 有关报道中提到的说法纯属猜测，没有任何根据，意在推卸责任，抹黑中国。此时此刻，它们仍处于对抗西方的事实联盟之中
 
-Beyond the answers Mr. Zelensky provided to questions, pulling a chair close to attending journalists, the news conference seemed intended to signal that his battered government is at least still functioning a week into the war, despite increasingly dire conditions in Kyiv.
+Beyond the answers Mr. Zelensky provided to questions, pulling a chair close to attending journalists, the news conference **seemed intended to signal** that his **battered government is at least still functioning** a week into the war, despite **increasingly dire conditions** in Kyiv.
+>dire[daɪr] 极其严重的；危急的；极糟的；可怕的；悲惨的；极端的  
+>increasingly dire conditions 情况越来越糟糕
+
 泽连斯基回答了问题，拉近了与出席记者的距离，除此之外，这次新闻发布会似乎是为了表明在开战一周后，尽管基辅的情况越来越糟糕，其饱受打击的政府至少仍在运作
 
-Mr. Zelensky said he was getting about three hours of sleep a night. His cheeks sagged with weariness. He was, though, animated and gestured energetically to drive home points. Zelensky, who has refused to the flee the country, turning down a reported American evacuation offer. “I need ammunition, not a ride,” he said at the time.
+Mr. Zelensky said he was **getting about three hours of sleep** a night. His cheeks **sagged with weariness**. He was, though, **animated and gestured energetically** to drive home points. Zelensky, who has refused to the flee the country, **turning down** a reported American evacuation offer. “I need **ammunition, not a ride**,” he said at the time.
+>sag 下垂；下陷；(物价的)下跌  
+>weariness[ˈwɪəɪnɪs] 疲倦；厌倦  
+>animated[ˈænɪmeɪtɪd] 有生气的；活跃的；栩栩如生的；动画的  
+>energetically[ˌɛnɚˈdʒɛtɪklɪ] 精力旺盛地；有力地  
+>ammunition[ˌæmjəˈnɪʃ(ə)n] 弹药；(辩论中可攻击对方的)把柄
+
 泽连斯基说他每晚睡三个小时左右。他的脸颊因疲倦而下垂。但他精神抖擞并活跃地打着手势表达自己的观点。据报道，泽连斯基拒绝了美国的撤离提议，拒绝逃到国外。“我需要的是弹药，不是顺风车，”他当时说
 
-We must not allow anyone in the Kremlin to get away with misrepresenting our intentions in order to find ex post facto justification for this war of choice. We have no hostility toward the Russian people, and we have no desire to impugn a great nation and a world power. We despair of the decision to send young, innocent Russians into a futile war.
+We must not allow anyone in the Kremlin to **get away with misrepresenting** our intentions in order to find **ex post facto justification** for this war of choice. We have no **hostility toward** the Russian people, and we have no **desire to impugn** a great nation and a world power. We **despair of** the decision to send young, innocent Russians into **a futile war**.
+>get away with 逃避惩罚；侥幸做成  
+>ex post facto 事后的；有追溯效力的  
+>impugn[ɪmˈpjun] 置疑; 责难；打击；攻击  
+>despair of 对…绝望；丧失……信心  
+>futile[ˈfjuːtaɪl] 徒然的；徒劳的；无效的
+
 我们绝不允许克里姆林宫有人成功歪曲我们的意图，以便事后为发动这场蓄意之战找借口。我们对俄罗斯人民没有敌意，我们也无意指责一个伟大的国家和一个世界强国。我们对于将年轻、无辜的俄罗斯人送入一场徒劳战争的决定感到绝望
 
-The annual government work report delivered to China’s National People’s Congress did not even mention Russia’s invasion of Ukraine, and it took an implacably steady-as-it-goes tone on China’s economic outlook. The implicit message appeared to be that China could weather the turbulence in Europe, and would focus on trying to keep the Chinese population at home contented and employed
+The annual government work report delivered to China’s National People’s Congress did not even mention Russia’s invasion of Ukraine, and it **took an implacably steady-as-it-goes tone** on China’s **economic outlook**. The **implicit message** appeared to be that China could **weather the turbulence** in Europe, and would focus on trying to keep the Chinese population **at home contented and employed**
+>implacably[ɪm'plækəbli] 难宽恕地; 无法和解地；执拗地  
+>steady-as-it-goes 稳定的  
+>weather the turbulence 经受动荡  
+>contented 满足的；心满意足的  
+>at home contented and employed 安居乐业
+
 向全国人民代表大会提交的年度政府工作报告中根本没有提到俄罗斯对乌克兰的入侵，同时，该文件对中国经济前景采取了坚决的求稳立场。这其中暗含的消息似乎是：中国能够经受住欧洲的动荡，并将致力于让国内人民安居乐业
 
-Many Chinese media organizations admire RT and Sputnik, which they believe have broken the West’s information monopoly, or at least muddied the water. Russia’s military actions are anti-West, anti-NATO expansion and anti-Nazi — thus justified and popular.
+Many Chinese media organizations admire RT and Sputnik, which they believe have **broken the West’s information monopoly**, or at least **muddied the water**. Russia’s military actions are anti-West, anti-NATO expansion and anti-Nazi — thus **justified and popular**.
+>monopoly[məˈnɑpəli] 垄断；独占；专卖；专营服务  
+>information monopoly 信息垄断  
+>muddy[ˈmʌdi] 泥泞的；多泥的；弄浊；使头脑混乱[糊涂]；使混乱  
+>muddy the waters 把水搅浑；把事情弄糟
+
 许多中国媒体机构钦佩今日俄罗斯和俄罗斯卫星通讯社，他们认为这两家媒体打破了西方的信息垄断，或者至少把水搅浑了. 俄罗斯的军事行动针对的是西方和北约扩张，是反纳粹的，因此是正当和广受欢迎的
 
-The one-two punch is working, keeping the public from facts while sowing confusion. The battalion, a unit of the Ukrainian National Guard, is known for having neo-Nazi sympathizers but remains a fringe presence in the country and its military.
+The **one-two punch** is working, **keeping the public from facts while sowing confusion**. The battalion, a unit of the Ukrainian National Guard, is known for having **neo-Nazi sympathizers** but remains a **fringe presence** in the country and its military.
+>one-two punch 组合拳；左右开弓；接二连三的打击  
+>sow confusion 制造困惑  
+>sympathizer[ˈsɪmpəˌθaɪzər] 赞同者；支持者; 同情者；同感者；共鸣者  
+>fringe[frɪndʒ] 外围；刘海儿；流苏；边缘的；附加的  
+>fringe presence 边缘地位
+
 虚假信息与审查的结合已见成效，在让公众不了解事实的同时，也制造了困惑。亚速营是乌克兰国民警卫队的一个支队，人们知道其中有新纳粹的同情者，但这支队伍在乌克兰及其军队一直处于边缘地位
 
-But as the war continues and China recalibrates its position, some Chinese online users have begun to scrutinize the Russian news media reports. some people called out Russia for waging an information war in China. Russia’s external propaganda has infiltrated China out-and-out.
+But as the war continues and China **recalibrates its position**, some Chinese online users have begun to **scrutinize** the Russian news media reports. some people called out Russia for **waging an information war** in China. Russia’s external propaganda has **infiltrated China out-and-out**.
+>calibrate[ˈkælɪˌbreɪt] 校正；校准  
+>recalibrate position 重新调整立场   
+>scrutnize reports 仔细审阅报道  
+>wage an information war 发动一场信息战  
+>infiltrate[ɪnˈfɪlˌtreɪt] 渗透；渗入；潜入  
+>out-and-out 不折不扣的；彻底的；彻头彻尾的；完全
+
 但随着战争的继续以及中国重新调整自己的立场，一些中国网民开始仔细审阅俄罗斯新闻媒体的报道. 有人指出俄罗斯正在中国打一场信息战。俄罗斯外宣把国内渗透的底裤都不剩了
 
-The global system was built in the 1950s, and if you think of it as a car from those years, it is battered, out of date in some ways, and could use a good tuneup, the reappearance of war in Europe is also an omen.
+The global system was built in the 1950s, and if you **think of** it as a car from those years, it is **battered, out of date in some ways**, and could use a good **tuneup, the reappearance of war in Europe is also an omen**.
+>battered[ˈbætərd] 破旧不堪的；受到严重虐待的；受到(炮火、恶劣天气)重创的  
+>in some ways 在某些方面；在某种程度上；在一些方面  
+>out of date 过时  
+>tuneup 调正；(运动前的)准备动作; 调整；调谐引擎  
+>omen[ˈoʊmən] 预兆；征兆；前兆
+
 全球体系是在1950年代建立的，如果你把它看成是那个年代出厂的汽车，你会发现它破旧不堪，在某些方面已经过时，可能需要好好调整一下了，欧洲也显露了再次爆发战争的预兆
 
-We have become increasingly indifferent — that’s why the Putin example has been so striking, A lot of people had a comforting and benign view of what a post-American world would look like — it would just be adjusting to other people having different opinions — so for the consequence to be war, it’s shocking to people.
+We have **become increasingly indifferent** — that’s why the Putin example has **been so striking**, A lot of people had a **comforting and benign view** of what a post-American world would look like — it would just **be adjusting to** other people having different opinions — so for the consequence to be war, it’s shocking to people.
+>striking 引人注目的；异乎寻常的；显著的  
+>benign[bəˈnaɪn] 善良的；和善的；慈祥的
+
 我们变得越来越冷漠——这就是为什么普京的例子如此引人注目，很多人对后美国世界会是什么样子有一种善意而令人宽慰的看法——它只是在适应那些有不同意见的人——所以其后果是战争才会让人们感到震惊
 
-The Biden administration, in an effort to deter Putin, assembled a powerful package of deep and broad economic sanctions and warned the Russian leader that if he invaded Ukraine, he’d be betting his whole farm — the economic viability of his country and regime. Tragically, Putin bet the farm, and the results have been swift and merciless.
+The Biden administration, **in an effort to deter** Putin, **assembled a powerful package of deep and broad economic sanctions** and warned the Russian leader that if he invaded Ukraine, he’d be **betting his whole farm** — the **economic viability** of his country and regime. **Tragically**, Putin bet the farm, and the results have been **swift and merciless**.
+>in an effort to 为了；为了完成；努力  
+>bet the farm 打赌；全部家当做赌注  
+>viability[ˌvaɪə'bɪləti] 生存能力；可行性；生存力  
+>economic viability 经济生存能力  
+>tragically 悲剧地；可悲地  
+>merciless[ˈmɜrsɪləs] 毫不怜悯的；无情的；残忍的
+
 拜登政府为了威慑普京，制定了一套极具深度与广度的严厉经济制裁，并警告俄罗斯领导人，如果他入侵乌克兰，他就赌上了全部——他的国家和政权的经济生存能力。不幸的是，普京选择孤注一掷，后果则来得迅速而无情
 
-“It turns out that Russia’s foreign reserves strategy had a major flaw: About half of the money was held overseas in foreign banks — and now Russia can’t get to it” because of the sanctions, noted Fortune. So the ruble savings of many Russians are being ravaged.
+“It **turns out** that Russia’s **foreign reserves** strategy had **a major flaw**: About half of the money was held overseas in foreign banks — and now Russia can’t get to it” because of the sanctions, noted Fortune. So the **ruble savings of many Russians are being ravaged**.
+ >foreign reserves 外汇储备  
+ >major flaw 重大缺陷; 重大问题  
+ >ravage[ˈrævɪdʒ]  毁坏；损坏；严重损害; 蹂躏；劫掠；掠夺
+
  《财富》指出，“事实证明，俄罗斯的外汇储备战略存在重大缺陷：大约一半的资金存放在海外的外国银行里，而现在俄罗斯无法拿到这些钱，”因为俄罗斯受到了制裁。因此，许多俄罗斯人的卢布储蓄正在遭受重创
 
  In any case, **consumer goods** are only about a third of Russia’s imports. The rest are capital goods, **intermediate goods** — that is, components used in the production of other goods — and raw materials. These are things Russia needs to keep its economy running, and their absence may **cause important sectors to grind to a halt**. There are already suggestions, for example, that the **cutoff of spare parts** and servicing may quickly **cripple Russia’s domestic aviation**, a big problem in such a huge country.
