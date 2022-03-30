@@ -413,43 +413,94 @@ But for the first time the road is clear. You can **see far ahead**, like on a *
 
 但道路第一次显得很清晰。你可以看到遥远的前方，就像在一个寒冷、清爽的冬日早晨，在那里，在远处，你几乎可以辨认出断头台的轮廓
 
-The point is, World War II didn’t so much begin as it gathered, like water rising until it breaches a dam. The devastation of Ukraine is the fruit of this appeasement. Insofar as one of the main effects of sanctions has been to send tens of thousands of middle-class Russians into exile
+The point is, World War II didn’t so much **begin as it gathered, like water rising until it breaches a dam**. The devastation of Ukraine is the **fruit of this appeasement. Insofar as** one of the main effects of sanctions has been to send tens of thousands of middle-class Russians into **exile**
+>appeasement[əˈpizmənt] 缓和；平息；绥靖政策  
+>insofar as 在...的范围内；到如此程度; 在…限度内
+
 重点是，第二次世界大战的开始是慢慢积累起来的，就像水位上涨到冲破水坝。乌克兰遭受的破坏就是这种绥靖政策的结果。制裁的主要影响之一是导致数以万计的俄罗斯中产阶级逃离当地
 
-Americans squared off with Soviet pilots operating under Chinese or North Korean cover in the Korean War without blowing up the world. And our vocal aversion to confrontation is an invitation, not a deterrent, to Russian escalation.
+Americans **squared off** with Soviet pilots operating under Chinese or North Korean **cover** in the Korean War without **blowing up** the world. And our **vocal aversion** to confrontation is an invitation, not a **deterrent**, to Russian escalation.
+>square off 摆好架势; 对峙  
+>under cover 掩护下  
+>vocal 嗓音的；发声的；大声表达的；直言不讳的  
+>aversion[əˈvɜrʒ(ə)n] 厌恶；憎恶; 嫌恶；反感  
+
 在朝鲜战争中，美国人与在中国或朝鲜掩护下作战的苏联飞行员对峙，但没有炸毁世界。我们对于对抗的强烈反感，是在鼓励俄罗斯将战争升级，而不是对其起到威慑作用
 
-You could be forgiven for forgetting about North Korea, which went quiet for a stretch, locked in self-imposed isolation for two years during the pandemic while U.S. attention diverted to other crises (like the perilous fate of Ukraine).
+You could **be forgiven for forgetting about** North Korea, which **went quiet for a stretch**, locked in **self-imposed isolation** for two years during the pandemic while U.S. attention **diverted to** other crises (like the **perilous fate** of Ukraine).
+>for a stretch 一段时间，一阵子  
+>attentions divert[daɪˈvɜrt] to 注意力转向..  
+>perilous[ˈperələs] 危险的；艰险的
+
 朝鲜沉寂了一段时间，在疫情中自我封闭了两年，而美国的注意力转向了其他危机（比如乌克兰的危险命运），如果你将朝鲜遗忘，也情有可原
 
-Kim Jong-un has bigger sights than those of his father and grandfather. Mr. Kim carried on testing — firing three intercontinental ballistic missiles and claiming to detonate a thermonuclear bomb，he’s playing the long game。
+Kim Jong-un **has bigger sights** than those of his father and grandfather. Mr. Kim **carried on testing** — firing three **intercontinental ballistic missiles** and claiming to **detonate a thermonuclear bomb**，he’s **playing the long game**。
+>big sights 抱负  
+>carry on 继续进行  
+>intercontinental ballistic missile 洲际弹道导弹  
+>play the long game 打持久战  
+>detonate[ˈdet(ə)nˌeɪt] 触发(一连串事件); 引爆；使爆炸  
+>thermonuclear[ˌθɜrmoʊˈnukliər] 热核的  
+
 金正恩的抱负比他的父亲和祖父更远大。金正恩继续进行试验——发射了三枚洲际弹道导弹，并声称要引爆一枚热核弹，金正恩是在打持久战。
 
-For actors, it is the most gripping, feared line ever written. It is the Mona Lisa of literature. He has become, in a way, the world’s greatest actor engaged with the world’s deepest truth, using a piece of poetry to express this truth in a forceful context.
+For actors, it is **the most gripping, feared line ever written**. It is the **Mona Lisa of literature**. He has become, **in a way**, the world’s greatest actor engaged with the world’s deepest truth, using **a piece of poetry** to express this truth in a forceful context.
+>gripping 吸引人的；扣人心弦的  
+>in a way 在某种程度上  
+>a piece of poetry 一句诗
+
 对演员来说，这是有史以来最扣人心弦、最令人恐惧的台词。这是文学界的蒙娜丽莎. 在某种程度上，已经成为这个世界上最伟大的演员，讲述了这个世界上最深刻的真理，在有力的背景之下，他用一句诗表达了这个真理
 
-We have become more and more riven over politics, with burning questions of reality and artifice; with the destructive partisanship of masks and Covid; and with the corrosive effect of our culture of greed, selfishness and billionaires.
+We have become **more and more riven over** politics, with **burning questions of reality and artifice**; with the **destructive partisanship of** masks and Covid; and with the **corrosive effect** of our culture of **greed, selfishness and billionaires**.
+>riven 四分五裂；破裂  
+>burning question 亟待解决的问题  
+>artifice[ˈɑrtɪfɪs] 诡计；技巧；策略；巧办法  
+>partisanship['pɑrtɪzænʃɪp] 党派之争；党派色彩   
+>corrosive[kəˈroʊsɪv] 腐蚀的；腐蚀性物品
+
 我们在政治上变得越来越分裂，现实和假象的问题越来越严重；围绕口罩和新冠产生了破坏性的两党之争；还有我们贪婪、自私与亿万富翁的文化所产生的腐蚀作用
 
-No-fly zone is a euphemism for a declaration of war. The attenuated debacles in Iraq and Afghanistan have left many Americans weary of conflict. 
+**No-fly zone is a euphemism** for a declaration of war. The **attenuated debacles** in Iraq and Afghanistan have left many Americans **weary of conflict**. 
+>euphemism[ˈjufəˌmɪzəm] 委婉说法  
+>attenuated[əˈtenjuˌeɪtəd] 减弱的；消瘦的; 减毒的(疫苗)  
+>debacle[deɪˈbɑk(ə)l] 崩溃；大败；垮台  
+>weary[ˈwɪri] 疲惫的；使人疲劳的；使人厌烦的
+
 禁飞区是宣战的委婉说法。伊拉克和阿富汗的溃败使许多美国人对冲突感到厌倦。
 
-We are now in an escalatory spiral. And so, unpalatable as some in the West may find the idea, it is time to offer the Russian leader an offramp with China’s help. 
+We are now in an **escalatory spiral**. And so, **unpalatable** as some in the West may find the idea, it is time to offer the Russian leader an **offramp** with China’s help. 
+>unpalatable[ʌnˈpælətəb(ə)l] 令人不快的；难以接受的；难吃的  
+>off-ramp['ɒfræmp] 出口匝道
+
 我们现在处于升级螺旋中。因此，尽管西方一些人可能会觉得这个想法不受欢迎，但现在是时候在中国的帮助下给俄罗斯领导人提供一条退路了。
 
-Much of China’s own economy depends on the U.S. dollar and the financial edifice that underpins it. As sanctions are piled on, maintaining those economic ties will become harder without taking on more risk, and China’s options to help Russia are dwindling.
+Much of China’s own economy depends on the U.S. dollar and the **financial edifice that underpins** it. As sanctions **are piled on**, maintaining those **economic ties** will become harder without taking on more risk, and China’s options to help Russia are **dwindling**.
+>edifice[ˈedifɪs] 大厦；宏伟建筑  
+>underpin 巩固；加固; 支持；支撑；加强
+
 中国自身的经济在很大程度上依赖美元以及构成美元基础的金融大厦。随着制裁的加码，在不承担更多风险的情况下维持这些经济联系将变得更加困难，而且帮助俄罗斯的选项也在减少
 
-You’ve got some of the most valuable energy companies in the world now trading at mere fractions of their real value, Developed countries won’t touch these companies. That basically only leaves China. It might be really bad PR, but the price may just be too good.
+You’ve got some of the most valuable energy companies in the world now trading at **mere fractions of their real value**, Developed countries won’t touch these companies. **That basically only leaves China**. It might be really bad PR, but the price may just be too good.
+>fraction 分数；小部分；小数；少量  
+
 世界上一些最有价值的能源公司现在的股价仅为其实际价值的几分之一，发达国家不会去碰这些公司。基本上只剩下中国。接手从公关的角度来看可能非常糟糕，但价格也许好到了非接不可的程度
 
-The current situation in Ukraine is indeed disconcerting, The high priority now is to prevent the tense situation from escalating or even getting out of control.
+The current situation in Ukraine is **indeed disconcerting**, The high priority now is to **prevent the tense situation from escalating** or even getting out of control.
+>disconcerting 令人不安的；令人担忧的；使人心慌的  
+
 乌克兰目前的局势确实令人不安，当务之急是防止紧张局势升级甚至失控
 
-China has laid the building blocks of a strategy to shield itself from the worst economic and diplomatic consequences it could face, and to benefit from geopolitical shifts once the smoke clears.
+China has **laid the building blocks** of a strategy to **shield itself from** the worst economic and diplomatic consequences it could face, and to **benefit from geopolitical shifts once the smoke clears**.
+>building block 积木；组成部分；构成要素  
+>once the smoke clears 一旦硝烟散去后
+
 中国已打下战略基础，以保护自己免受可能面临的最糟糕的经济和外交后果，并从硝烟散去后显现出来的地缘政治变化中获益
 
-Mr. Xi, in a video conference with President Emmanuel Macron of France and Chancellor Olaf Sholz of Germany, lamented “the rekindling of the flames of war” in Europe. In any case, China’s economy is large enough to absorb blows that would cripple others. Chinese companies may even end up well positioned to take advantage of Russia’s desperate need for trade
+Mr. Xi, in a video conference with President Emmanuel Macron of France and Chancellor Olaf Sholz of Germany, **lamented** “the rekindling of the flames of war” in Europe. **In any case**, China’s economy is large enough to **absorb blows** that would **cripple others**. Chinese companies may even **end up well positioned to take advantage of** Russia’s desperate need for trade
+>lament[ləˈment] 挽歌；哀诗；悼辞; 对…感到悲痛；痛惜  
+>in any case 无论如何  
+>absorb blows 承受打击
+
 在与法国总统马克龙和德国总理朔尔茨举行的视频峰会上，对欧洲“重燃战火”表示痛惜. 无论如何，中国的经济规模足够大，能够承受对其他国家的经济造成重创的打击。中国企业甚至可能已为最终从俄罗斯对贸易的迫切需求中获利做好了准备
 
 Biden has repeatedly avowed that the United States is not in a ‘new Cold War’ with China, but China often feels the chill creeping in everywhere. The West should not have become a hegemon in defining universal standards
@@ -591,3 +642,22 @@ He wanted to know what Mr. Zelensky would do. Will he be Churchill or Ghani? But
 
 Disputes and tensions have been growing over Beijing’s role in a region that has often either been ignored or been seen as little more than dots on the map for great powers to toy with. They just seem to be dragging their feet.
 这个地区要么经常遭到忽视，要么被视为地图上的几个小点，大国可以随意操弄。如今，围绕北京在该地区扮演的角色，争议和紧张局势不断升级。他们似乎很拖拉
+
+All indications are that he went into this debacle believing his own propaganda about both his army’s martial prowess and the eagerness of Ukrainians to submit to Russian rule. In the Hollywood version of history, the Roman Empire fell because its elites were too busy with orgies to attend to the business of defeating barbarians.
+所有迹象都表明，他因为相信了自己关于军事实力以及乌克兰人渴望服从俄罗斯统治的宣传，从而陷入了这场灾难。在好莱坞版的历史中，罗马帝国的衰落是因为它的精英们忙于狂欢，无暇顾及打败野蛮人的事情
+
+Modern wars aren’t won with swaggering machismo. Courage and endurance, physical and moral, are as essential as ever; but so are more mundane things like logistics, vehicle maintenance and communications systems that actually work. I’m half expecting him to release battle maps crudely modified with a Sharpie.
+现代战争不是靠张扬的大男子主义来取胜的。勇气和耐性，体魄与品行一如既往地重要；而且像后勤、车辆维护和通信系统等更平凡的工作也是如此。我有点期待他发布用马克笔粗略批改的作战地图
+
+Marked, to some degree, by his home city of St. Petersburg, built by Peter the Great in the early 18th century as a “window to Europe,” Putin learned young that, as he put it, “the weak get beat.” He vowed to protect “our common Fatherland, Great Rus.”
+普京是圣彼得堡人，那是彼得大帝在18世纪初建造的“通往欧洲的窗口”，普京年轻时就明白——正如他所说的那样——“弱者就会挨打”。他誓言要保护“我们共同的祖国，大罗斯”。
+
+Mr. Putin, in his recent speech, lumped those oligarchs in with his adversary, the West, saying “they can’t get by without **oysters or foie gras**” and that they do not mentally exist “here, with our people, with Russia.” He vowed to spit them out “like a midge that flew into our mouths.” 
+普京已在最近的讲话中仍将这些寡头与他的对手——西方相提并论，说他们“没有牡蛎或鹅肝就活不下去”，他们精神上不在“这里，与我们的人民、与俄罗斯同甘共苦”。普京郑重表示，要把他们“像飞进我们嘴里的蠓虫一样”吐出来
+
+It’s impossible to say whether future variants will have more big Omicron-like jumps or more typical stepwise changes, but we are confident SARS-CoV-2 will continue to evolve to escape immunity. While transmissibility of viruses does plateau at a certain point, other human viruses that escape immunity keep doing so. 
+未来的变异株是否具有更多类似奥密克戎那样的大跃进，还是具有更典型的渐进变化，目前尚不可知，但我们确信，SARS-CoV-2将继续演化，以逃避免疫。虽然病毒的传染性在某个特定时刻进入停滞状态，但其他逃避免疫的人类病毒仍在不断地进行这个过程
+
+China’s been very effective at deputizing the American corporate sector as their lobbyists, It’s something he says he **experienced firsthand** when he pushed for sanctions over China. It calls for a Pentagon budget of $773 billion — a record that eclipses the Trump administration’s spending on the military.
+中国非常有效地把美国企业界作为他们的说客，这是他在推动制裁中国过程中的亲身经历。 它要求五角大楼的预算达到7730亿美元，令特朗普政府的军费开支黯然失色
+
