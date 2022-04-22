@@ -223,9 +223,18 @@
     - [HttpClient连接池设置引发的一次雪崩](https://mp.weixin.qq.com/s/hrnXsnlUArk9bi8Hv315rA)
     - [短URL服务的设计以及实现](https://mp.weixin.qq.com/s/fWhiNsJXf1CVSi-EpjEndg)
 + Nginx
-    - [极简教程](https://mp.weixin.qq.com/s/jwVf3p6UKkCN618l4o9SDw)
     - [Nginx能做什么](https://mp.weixin.qq.com/s/OcdkQeP6HbWSYKZfhe03yw)  
         `反向代理/负载均衡/HTTP服务器(包含动静分离)/正向代理`
+    - [Fix 403 Forbidden](https://linuxhint.com/fix-nginx-403-forbidden/)      
+        `安装nginx后，需要修改/etc/nginx/nginx.conf 配置文件. 在http部分需要disable ipv6绑定访问，location部分修改root指定到本地目录,加上允许目录自动index，否则导致403无权限`<br>
+        location / {<br>
+            &ensp;#root   /srv/www/htdocs/;<br>
+            &ensp;#index  index.html index.htm;<br>
+            &emsp;root   /home/king/source/python;<br>
+            &emsp;autoindex on;<br>
+            &emsp;autoindex_exact_size on;<br>
+        }
+  
     - 架构设计[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw), [3](https://mp.weixin.qq.com/s/fTRlEkBSgpm0suIICsG_iQ)]
     - [反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
     - [日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
@@ -284,6 +293,7 @@
 + JavaScript/TypeScript
     - [网道JavaScript教程](https://wangdoc.com/javascript/)
     - [使用TypeScript](https://mp.weixin.qq.com/s/wQy7ZqiuBcP6MHWW9H8dkg)
+    - [用tag在html中插入任意空格](https://www.geeksforgeeks.org/how-to-insert-spaces-tabs-in-text-using-html-css/)
     - [JS中context和stack](https://mp.weixin.qq.com/s/pc6EbfCKN1xWd4Q6nBU-PQ)
     - [JS中实现map/reduce](https://mp.weixin.qq.com/s/HgXTuZd9fKdu8MoGAPP0Pw)
     - [JS中延迟函数/柯里化/字符串及数组操作](https://mp.weixin.qq.com/s/DH3cH9bI81kJbVwIF7viEg)  
@@ -292,6 +302,7 @@
         `3.TypeScript在JavaScript中添加了静态类型`
     - [JS中过滤唯一/与或运算等](https://mp.weixin.qq.com/s/ir2y8RsZNrPQ2JJud1v08A)
     - [JS数组精简技巧](https://mp.weixin.qq.com/s/8rhI--nRMUPaIQoVQT7uMQ)
+    - [JS字符串处理](https://mp.weixin.qq.com/s/ZKtjeo8v5DWEDzSmWpxxvg)
     - [JS实现异步任务](https://mp.weixin.qq.com/s/bux2qUo98aLESkHPXixP7g)
         - [Fetch或Axios实现HTTP请求](https://mp.weixin.qq.com/s/oSVzYvwv4qIE2oBeAxjDlg)
     - [GoJS实现交互式图](https://mp.weixin.qq.com/s/2d_bYwvtiM1rQED486TlCg)
@@ -331,6 +342,7 @@
     - [10个最流行的NPM包](https://mp.weixin.qq.com/s/iJcvQ4qqtqkpHcpvMJNCJg)
     - [发布一个无依赖的npm包](https://mp.weixin.qq.com/s/NvYlFaPOGD1kIYN-pVIAWQ)  
 + [免费Web APIs](https://github.com/fangzesheng/free-api)    
++ [chrome高级调试技巧](https://mp.weixin.qq.com/s/DjNeEhBTo_OwTseXqbqs6w)
 + [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 + [前端架构JAMStack不依赖Web Server](https://mp.weixin.qq.com/s/Q8rDSc0yU19lk7q3HfWf0A)
 + [Ratpack](https://github.com/ratpack/ratpack)   
@@ -362,6 +374,7 @@
 + [架构师的核心工作内容](https://mp.weixin.qq.com/s/ZYDTpsvYd-G61pqwLqgChw)  
     `UML分解需求`
 + [云原生架构](https://mp.weixin.qq.com/s/mRPbJXU0tuFUfVkxeY9NbQ)
++ [系统监控的建设思路](https://mp.weixin.qq.com/s/DCfXCIbnFzmg7bIdKRn_CA)
 + 分布式架构
     - [分布式架构的前世今生](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)    
     - [分布式概念](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)  

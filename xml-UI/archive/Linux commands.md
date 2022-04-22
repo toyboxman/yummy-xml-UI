@@ -105,8 +105,8 @@
             `匹配中文字符/网址URL/ip地址...`
     - Account Management
         - [Activate Account](#activate-account)
-        - [List All Users](#list-all-users) 
-        - [Add New Users](#add-new-users)
+        - [List All Users/Groups](#list-all-users) 
+        - [Add New Users/Groups](#add-new-users)
         - [umask修改权限](https://mp.weixin.qq.com/s/LIPX78Ex-KSaCCd9wiyvJA)
         - [Linux提权](https://mp.weixin.qq.com/s/SSkWnOGcLiLtudr_5dNcsg)
         - sudo[[1](https://mp.weixin.qq.com/s/z127ryX6ueeVf-8FdK07vw), [2](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [3](https://mp.weixin.qq.com/s/MA4qscWPGp0XCk_nOWiTxg)]
@@ -473,15 +473,33 @@ sysctl用来修改runtime时kernel parameters. 这类的参数被保存在/proc/sys/, sysctl命
 #### ulimit
 + [ulimit命令修改shell resource limits](https://mp.weixin.qq.com/s/hWwzZikzHdeDgHlfzCICgg) 
 ```console
-# list all
+# list all --help
+# -a 列出当前所有资源的限制
 ulimit -a
 
 # show the maximum number of open file descriptors
-ulimit -n
+$ ulimit -n
 1024
 
 # set the maximum number of open file descriptors to 4096
 ulimit -n 4096
+
+# shell能够传入的parameters长度跟栈大小有关
+$ getconf ARG_MAX
+2097152
+
+# -s 栈大小的最大值
+# 查看默认栈大小，默认8192
+$ ulimit -s
+8192
+# 设定stack最大为65536
+$ ulimit -s 65536
+$ ulimit -s
+65536
+
+# 栈设定后最大参数长度也变大
+$ getconf ARG_MAX
+16777216
 ```
 In ubuntu-18, you can easily change them forever, systemd has an option for this:
 ```console
@@ -737,6 +755,19 @@ mysql:x:500:500::/home/mysql:/bin/bash
 # list users
 awk -F':' '{print $1}' /etc/passwd
 
+# see nginx user details about uid gid etc
+$ id nginx
+uid=460(nginx) gid=459(nginx) groups=459(nginx)
+
+# list groups
+$ cat /etc/group
+root:x:0:
+bin:x:1:daemon
+daemon:x:2:
+sys:x:3:
+tty:x:5:
+disk:x:6:
+
 # count user number
 cat /etc/passwd | wc -l
 
@@ -754,14 +785,26 @@ sudo -u postgresSQL /home/vpostgres/9.6/bin/psql -c "select * from user;"
 useradd test  
 # change test initial pwd
 passwd test 
-# see which group test user in  
-groups test  
-# see test user details about uid gid etc
-id test  
+# remove user lighttpd
+# -f --force
+# -r remove user's home/mail dir as well
+userdel -fr lighttpd
+
+# 修改用户lighttpd的group属性
+# -a, --append Add the user to the supplementary group(s). Use only with the -G option.
+# -G, --groups GROUP1[,GROUP2,...[,GROUPN]]]
+sudo usermod -aG lighttpd,users lighttpd
 # force test user to take root group id
-usermod -g root  test  
-# put test user into root and test groups
-usermod -G root,test  test  
+usermod -g root test    
+
+# 新增nginx的组
+groupadd nginx
+# 删除nginx的组
+groupdel nginx
+
+# 查看用户的归属group信息, 返回users/docker/fuse三个用户组
+$ groups king
+king : users docker fuse
 ```
 
 ### Usual command

@@ -541,7 +541,7 @@ In the **20-odd years** since we met, Mr. Putin has **charted his course by ditc
 >chart course 制定路线  
 >ditch[dɪtʃ] 沟；渠; 抛弃；摆脱；丢弃  
 >playbook 战术; 剧本  
->mirror 镜子；反映；反射；映照
+>mirror 镜子；反映；反射；映照  
 >under no obligation 没有义务  
 >cynicism[ˈsɪnɪˌsɪzəm] 玩世不恭；犬儒主义；愤世嫉俗；冷嘲热讽  
 >lust[lʌst] 渴望；好色

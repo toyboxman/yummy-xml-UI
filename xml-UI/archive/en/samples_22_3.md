@@ -504,6 +504,8 @@ Mr. Xi, in a video conference with President Emmanuel Macron of France and Chanc
 在与法国总统马克龙和德国总理朔尔茨举行的视频峰会上，对欧洲“重燃战火”表示痛惜. 无论如何，中国的经济规模足够大，能够承受对其他国家的经济造成重创的打击。中国企业甚至可能已为最终从俄罗斯对贸易的迫切需求中获利做好了准备
 
 Biden has repeatedly avowed that the United States is not in a ‘new Cold War’ with China, but China often feels the chill creeping in everywhere. The West should not have become a hegemon in defining universal standards
+>
+
 拜登反复宣称美国不同中国搞‘新冷战’，但中国时时处处感受的仍是阵阵寒意。西方不应该有定义普适标准的霸权
 
 The old order is swiftly disintegrating, and strongman politics is again ascendant among the world’s great powers, Countries are brimming with ambition, like tigers eyeing their prey, keen to find every opportunity among the ruins of the old order.
