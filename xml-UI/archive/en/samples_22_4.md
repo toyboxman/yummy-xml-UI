@@ -199,3 +199,161 @@ His online business selling green bean cake — a local specialty — was suffer
 China’s economy expanded 4.8 percent in the first three months of this year compared to the same period last year. That pace was barely faster than the final three months of last year, and it also obscured a looming problem.
 今年前三个月，中国经济同比增长4.8%。这一增速仅比去年最后三个月略快，它还掩盖了一个迫在眉睫的问题
 
+Their plans were bold, with no room for devastation. A friend had helped him land a job manning the fry station at a Chinese restaurant there. He was eager to start, and it came with free housing.
+他们的计划很大胆，不容破坏。一个朋友帮他在那里的一家中餐馆找到了一份工作，负责油炸食物。他急于开始工作，而且还有免费住房。
+
+It was the bond between them that softened the landing. Mr. Gao had always liked how Ms. Ma was gentle but spirited. She had been the kind of girl who preferred sledding with the boys over jumping rope. In turn, she admired his humility and honesty, and how he cared for his younger brother and sister. They saw each other as equals, co-conspirators in a simple life.
+他们之间的纽带使得安家变得轻松了许多。高占新一直很喜欢马桂英温柔活泼的样子。她以前是那种喜欢和男孩子一起玩雪橇而不是跳绳的女孩。反过来，她也钦佩他的谦虚诚实，以及他对弟弟和妹妹的关心。他们把对方看作是平等的，是简单生活里的同谋者
+
+To drown his guilt during sleepless nights, he kept the television on, tuned to various Chinese dramas. If a medical scene appeared, he cried. His smoking increased to a pack a day, and he grew gaunt, eating mostly rice with eggs, one of the few meals he knew how to cook. 
+为了在那些不眠之夜里淹没自己的负罪感，他一直开着电视，换台看各种中国电视剧。如果电视剧里出现医疗场景，他会哭。他的吸烟量增加到每天一包，他变得憔悴，主要吃蛋炒饭，这是他会做的少数几道菜之一
+
+Western politics is overrun by people who playact as statesmen so that they may ultimately become celebrities. Zelensky has made a point of telling Ukrainians the hard truth that the war is likely to get worse — and of telling off supposed well-wishers that their words are hollow and their support wanting. Western leaders mainly specialize in telling people what they want to hear.
+西方政治中充斥着那些假扮政治家的人，以为那会让他们最终成为名人。泽连斯基坚持把战争可能会恶化的残酷事实告诉乌克兰人民，并斥责那些所谓表示祝福的人，把他们的话称为空话，批评他们的支持有名无实。西方的领导人却主要擅长说人民想听的话
+
+ The power of the state exists first and foremost to protect the rights of the individual. And the responsibility is to aid and champion any of its members menaced by invasion and tyranny. As it goes for Ukraine, so, eventually, it will go for the rest of us.
+ 国家权力的存在首先是为了保护个人的权利。责任是向任何受到侵略和暴政威胁的成员国给予援助和支持。因为乌克兰今天面临的，最终将是我们大家面临的
+
+He embodies two great Jewish archetypes: David in the face of Goliath and Moses in the face of Pharoah. He is the canny underdog who, with skill and wits, makes up for what he lacks in fearsomeness and brawn. And he is the prophet who revolts against the diminishment and entrapment of his people
+他体现了两个伟大的犹太典型：面对歌利亚的大卫和面对法老的摩西。他靠计谋以弱胜强，用技巧和智慧来弥补他所缺少的吓人外表和力气。他是一名反对贬低、坑害他的人民的先知
+
+He models what a man should be: impressive without being imposing; confident without being cocksure; intelligent without pretending to be infallible; sincere rather than cynical; courageous not because he is fearless but because he advances with a clear conscience. American boys in particular, raised on preposterous notions of what manhood entails, should be steered toward his example.
+他树立了一个男人的应有榜样：有气概，而不咄咄逼人；自信，而不自以为是；有才智，而不假装一贯正确。真诚，而不愤世嫉俗；勇敢，不是因为他无所畏惧，而是因为他问心无愧地前进。在关于什么才是男子气概的荒谬观念下长大的美国男孩们尤其应该向他学习
+
+I realized that filing on deadline and slipping the occasional felicitous phrase into a news story may not get me much farther than the city hall beat, and then only after years of hard work, Suddenly a nation with a billion-plus people and a remarkably thin foreign press corps beckoned.
+我意识到，按时交稿，在新闻报道中偶尔塞进几个贴切的词，也许不会让我取得比报道市政厅更重要的成就，它成不了什么大事，而且还是在多年的努力工作之后，突然间，一个拥有10多亿人口，但外国记者人数显著稀少的国家吸引了我
+
+At one point, Harvard’s president, Derek Bok, got so fed up with Mr. Kahn’s dogged reporting that he barred university officials from speaking to The Crimson. Years later, Mr. Kahn relished the memory, an early experience of journalism’s capturing the attention of the powerful. “That felt addictive,” he said.
+周看锲而不舍的报道曾一度让哈佛大学校长德里克·博克不快，于是禁止校方管理层接受《哈佛深红报》的采访。多年后，周看喜欢回忆这段往事，那是一次新闻工作引起当权者注意的经历。“那有一种上瘾的感觉，”他说
+
+Many of the missing crew were conscripts, which has been a sensitive subject in Russia since the war in Chechnya, when young soldiers with little training were often thrown into battles and died in droves, souring public support for the war.
+许多失踪的船员是义务兵，自车臣战争以来，这在俄罗斯一直是一个敏感话题，当时缺乏训练的年轻士兵送上战场，成批地死去，削弱了公众对那场战争的支持
+
+The cause of the sinking was disputed, with Russia claiming that an ammunition magazine exploded in a fire and then the damaged ship sank while under tow in rough seas. Ukraine said it hit the vessel with two Neptune missiles, an assertion that U.S. officials corroborated. 
+莫斯科号的沉没原因存在争议，俄方的说法是因火灾导致弹药库爆炸，在恶劣天气下，受损的船只在拖航过程中沉没。乌克兰方面则表示，它用两枚海王星导弹击中了这艘船，该说法得到了美国官员的证实
+
+Many places, including the United States, Britain and Hong Kong, do not differentiate between people who die with Covid or die from Covid, as long as the coronavirus was a contributing factor. 
+包括美国、英国和香港在内的许多地方，只要新冠病毒是一个因素，就不区分死者是死于新冠病毒，还是死前感染了新冠病毒
+
+Ms. Hanitska is tough but humble with **a dry sense of humor**. she said. “If we hadn’t done this, the fighting would be happening in Kyiv.” The Chechen contingent mysteriously withdrew the same day it arrived, after making the propaganda video, and they ringed the building with artillery, mortars and heavy guns, knowing the Ukrainians would be reluctant to hit it.
+哈尼茨卡强硬但很谦逊，说话有点冷幽默。她说。“如果我们不这么做，战斗就会发生在基辅。” 车臣特遣队制作了宣传视频后，在抵达的当天就神秘地撤离了，他们把火炮、迫击炮等重武器摆在这座建筑周围，因为他们知道乌克兰人不会愿意袭击它
+
+Unfortunately, I see the Ukrainian military command acting an order of magnitude more competently than the Russian one.
+不幸的是，我认为乌克兰的军事指挥能力比俄罗斯高出一个数量级
+
+“hyperinflation” in Europe would soon stoke protests in the form of “smelly bonfires made of tires on the streets of well-groomed European cities.” Then the Brussels aunts and uncles will have to change their rhetoric.
+欧洲的“恶性通货膨胀”很快就会引发抗议，“在整洁的欧洲城市的街道上，轮胎燃起散发恶臭的篝火。” 到那时，布鲁塞尔的叔叔阿姨们将不得不改变他们的言辞
+
+China’s chosen economic path is hugely energy-intensive. It requires vast amounts of electricity, and, to produce that electricity, China is betting on coal. The really big push, however, is to build new mines and expand existing mines, at a truly mind-melting scale.
+中国选择的经济道路是高度能源密集型的，需要大量电力。为了生产这些电力，中国将赌注押在了煤炭上。然而，真正的大手笔是建设新矿和扩大现有矿，规模之大令人震惊
+
+In the besieged southern port city of Mariupol, which has become a potent emblem of the human toll of war, a Russian strike on March 16 destroyed a theater where hundreds of people had been sheltering, including children.
+被围困的南部港口城市马里乌波尔凸显了战争给人造成的创伤，俄军在3月16日的一次袭击摧毁了一座剧院，那里是包括儿童在内的数百人的避难地
+
+In the third novella, “Moses on the Plain,” a tutor invokes the reprisals of Exodus to comfort her student: “As long as what’s in your heart is genuine and sincere, the mountains and oceans will part for you, and the people coming after you, the ones who didn’t make space for you, will all get punished.” 
+在第三个中篇小说《平原上的摩西》中，一位老师援引《出埃及记》中的报复行为来安慰她的学生：“只要你心里的念是真的，只要你心里的念是诚的，高山大海都会给你让路，那些驱赶你的人，那些容不下你的人，都会受到惩罚。”
+
+Rather, it would be more like Le Pen, as president, making it more difficult for the E.U. and the U.S. to agree on a new posture — a new package of sanctions, and to agree within NATO on what we need to do on the eastern flank
+相反，更有可能是勒庞作为总统，让欧盟更难和美国就新的姿态——新的一揽子制裁措施，并在北约内部就我们需要在东面采取的行动——达成一致
+
+Once proxy battlegrounds for superpowers, swaths of Africa, Asia and Latin America are staking their independence. The return of a bloc of nonaligned nations harks back to a period in which leaders of the post-colonial movement resisted having their destinies shaped by imperialism. 
+非洲、亚洲和拉丁美洲曾经是超级大国的代理战场，这三大洲的许多国家现在纷纷亮出自己的独立性。不结盟国家集团的回归，让人回想起后殖民运动领导人拒绝让帝国主义主宰命运的时期
+
+Without a doubt, the countries of Southeast Asia don’t want to be pulled into a new Cold War or be forced to take sides in any great power competition, As they say in Southeast Asia, when the elephants fight, the grass gets trampled.
+毫无疑问，东南亚国家不想卷入新冷战，或者被迫在任何大国竞争中选边站队，正如他们在东南亚的一句谚语，当大象打架时，遭殃的是草
+
+The crux of the matter is that African countries feel infantilized and neglected by Western countries, which are also accused of not living up to their soaring moral rhetoric on sovereignty and territorial sanctity, Other U.S. allies have characterized their decision to diversify as a function of American absenteeism.
+问题的症结在于，非洲国家觉得自己被西方国家当小朋友对待，遭到了它们的忽视，还指责西方国家没有履行他们高呼的关于主权和领土神圣性的道德言论, 其他美国盟友将分散风险的决定归咎于美国缺席
+
+Deft diplomacy allowed Thailand to emerge as the only nation in the region not to be colonized. The current drift away from the United States, which used Thailand as a staging ground for the Vietnam War, also stems from the political pedigree of Prime Minister Prayuth Chan-ocha, Though Thailand may currently appear as a democracy, it is at heart an autocracy
+灵活的外交手腕曾使泰国成为该地区唯一没有遭受殖民的国家。美国曾把泰国作为越南战争的集结地，目前两国关系的疏远也源于泰国总理巴育·占奥差的政治血统，尽管泰国目前可能是一个民主国家，但它本质上是一个专制国家
+
+But if the world feels more comfortably multipolar these days, the ripple effects of the fighting in Ukraine are a reminder that globalization quickly links far-flung nations. Escalating global prices for fuel, food and fertilizer, all a result of war in Ukraine, have heightened hardship in Africa and Asia. 
+但是，如果说当今世界更喜欢多极化，那么乌克兰战争的涟漪效应提醒我们，全球化迅速将遥远的国家联系到了一起。乌克兰战争导致全球燃料、食品和化肥价格不断上涨，加剧了非洲和亚洲的困境
+
+The trip by Mr. Austin and Mr. Blinken was scripted to make the case that while on paper the Russians have the advantage, the odds actually favor the Ukrainians, largely because they have the motivation to preserve their homeland.
+奥斯汀和布林肯此行的目的是为了说明，虽然俄罗斯人在理论上更有优势，但实际上乌克兰更有胜算，主要是因为他们有保护自己家园的动机
+
+It is clear that Russia has been working hard to create a pretext for being able to invade further. We’ve been all over the place on Ukraine,I think we need to re-articulate why Ukraine matters, If tomorrow, Russia goes into Crimea, no one will raise an eyebrow
+很明显，俄罗斯一直在极力制造借口，以便进一步入侵。在乌克兰问题上，我们始终变来变去，我认为我们需要重新阐明乌克兰为何如此重要， 如果俄罗斯明天就进入克里米亚，没人会大惊小怪
+
+It’s nothing less than a direct challenge to the rule-based international order established since the end of World War II, Mr. Putin’s swift actions caught President Barack Obama off guard. Any aid is likely to be matched and then doubled and tripled and quadrupled by Russia.
+这简直是对‘二战’结束以来建立的以规则为基础的国际秩序的直接挑战,普京的果断行动让奥巴马总统措手不及。任何援助都可能会让俄罗斯拿出对等行动，然后翻倍、三倍、四倍加码
+
+It was hard to reconcile the time and energy required to lead the diplomacy on Ukraine with the demands on the United States elsewhere around the world
+在乌克兰问题上开展外交活动所需的时间和精力，与美国在世界其他地区需要进行的投入难以协调
+
+It was a crystallizing moment for Mr. Zelensky’s government, ensuring a wide array of agencies kept running efficiently and in sync. No senior officials defected or fled, and the bureaucracy quickly went onto a war footing.
+对泽连斯基政府而言，这是一个见真章的时刻，确保了各个机构保持高效协调运转。没有任何高级官员叛逃，整个官僚机构迅速进入战时状态
+
+The Hong Kong supernatural anthology TV series has an eye-catching name, “Barrack O’Karma 1968,” and an eyebrow-raising plot. A Filipino domestic worker, navigating deceit, discrimination and accusations of voodoo, is transformed by her seemingly well-intentioned employers into a Cantonese-speaking surrogate daughter.
+香港奇幻单元剧《金宵大厦2》(Barrack O’Karma 1968)的名字引人注目，情节更是令人咋舌。一名菲佣深陷欺骗、歧视和巫术的指控，被看似好意的雇主改造成一个说粤语的养女
+
+Using brownface in this way for a plotline and assuming that all Filipinos are a certain color perpetuate odious stereotypes, critics say.
+批评人士说，以这种方式在情节中使用棕色面孔，并假设所有菲律宾人都是某种肤色，会让人产生负面的刻板印象。
+
+Brownface (and yellowface — imitations of brown and Asian people by light-skinned performers) evolved from the racist vaudeville tradition of blackface, a staple of American minstrel shows in the early 1800s. Asian countries have had a history of perpetuating colorism, in which the preference for lighter skin is imbued in cultural and social mores. Cosmetic companies have been criticized for selling skin-lightening creams. 
+涂棕脸（还有涂黄脸——由浅肤色的表演者模仿棕色人种和亚裔）是从种族主义杂耍表演传统“涂黑脸”演变而来，后者是19世纪初美国吟游艺人表演的主要内容, 亚洲国家长期存在肤色歧视，对浅肤色的偏爱渗透在文化和社会习俗中。化妆品公司因销售美白霜而受到批评
+
+He’s losing sleep, wondering how he will cover his loans: about $2,000 monthly for his truck and about $500 for mortgages, while continuing to support his wife and their two children. The chief executive of a high-flying consumer brand is also wondering how long her company’s cash can last. Mr. Ji also grew up poor. Before he turned 10, his staple was sweet potatos; he ate meat only a couple of times a year.
+赵师傅夜不能眠，不知道如何偿还贷款：他每月有1.3万元的卡车贷款和3000多元的房贷，同时还要养活妻子和两个孩子。一名十分成功的消费品牌首席执行官也在想公司的现金还能维持多久. 季先生也是在贫困中长大的。10岁前，他的主食是红薯，一年只能吃上几次肉
+
+When a video of a corgi being beaten by health workers in white hazmat suits went viral, animal rights volunteers leaped into action. Volunteers circulated forms online for residents to sign up for pet care in districts around the city. 
+当身穿白色防护服的卫生工作者打死一只柯基犬的视频在网上疯传时，动物权利志愿者立即行动起来。志愿者在网上转发表格，居民可以填表报名各区的宠物寄养
+
+Some people, rather than becoming volunteers, are simply providing informal ways to ease the daily stress of life under lockdown in Shanghai, collating useful information and guides online, making refreshments for frazzled neighbors or videos to boost morale. Everyone was tight on resources, but they still fed me from time to time
+有些人没有去当志愿者，而是用力所能及的方式缓解上海封锁期间的日常压力，他们在网上整理有用的信息和指南，为疲惫的邻居制作茶点或视频来给大家加油打气。大家物资这么紧张，还经常投喂我
+
+Now we need to place greater importance on stabilizing employment,The new round of Covid flare-ups has hit employment quite hard.Two very large, affluent ports, Shenzhen and Ningbo, began on Thursday to give their residents a range of shopping and dining gift certificates with a total value of $122 million. These investments have been a mainstay of past efforts in China to fight economic slowdowns, 
+现在我们需要更加重视稳就业，新一轮疫情对就业造成了相当大的冲击。周四，富裕的大型港口城市深圳和宁波开始向民众派发价值8亿元的购物餐饮消费券。这一直是中国以前应对经济放缓努力的主要手段
+
+This week, Volkswagen began gradually reopening its even larger factory complex on Shanghai’s outskirts.But automakers have refrained from predicting when they might reach full production, much less when they might be able to start running the overtime they need to catch up on the output they have lost this spring.
+本周，大众汽车已开始逐步恢复其位于上海郊区的规模更大工厂的生产。但汽车制造商一直不愿预测可能在什么时候恢复全部产能，更不用说可能在什么时候为弥补今年春天减少的产量开始加班了
+
+China’s logistical challenges are still increasing. Air and rail travel are increasingly paralyzed by the lockdowns, with a knock-on effect on hotels, restaurants and other service sector businesses.Train traffic has also plummeted as cities and provinces discourage visitors from elsewhere in China.
+中国物流面临的挑战仍在增长。封控让航空和铁路旅行变得越来越难，也对酒店、餐馆和其他服务行业产生了连锁影响。由于各省市不鼓励来自中国其他地方的游客前来，铁路客流量也已大幅下降
+
+The scale of Beijing’s testing program is enormous. Folding tables have been set up every few blocks near large roads. Up to a half-dozen volunteers help to direct residents and take their names, and several medical workers perform the swift oral swabs.
+北京的检测计划规模巨大。每隔几个街区靠近大马路的位置就会架起折叠桌。每个检测点有多达六名志愿者帮助引导民众并登记他们的名字，几名医务人员则快速进行咽拭子取样。
+
+Using so-called batch testing, numerous swabs are placed in pink liquid in a single test tube and sent to a lab. If the liquid tests positive for the presence of the virus, then the authorities contact each person who had a swab in the tube and conduct intensive nasal P.C.R. testing.
+检测点使用所谓的混采检测，将多个拭子放入一个盛有粉红色液体的试管中，然后送到实验室。如果液体的病毒检测呈阳性，那么当局会联系该试管中的每个拭子的主人，并密集进行鼻拭子核酸检测
+
+The Chinese government will suspend its tariff on imported coal starting on Sunday, a decision that will likely benefit Russia at a time when its coal exports to Europe are being phased out over its invasion of Ukraine.China’s coal imports from Russia did fall back considerably from their peaks last autumn. But the tonnage of imports is still a little higher than a year ago.Many power plants in southern China’s Guangdong Province are essentially locked into buying Indonesian coal
+中国政府将从周日开始暂停对进口煤炭征收关税，由于入侵乌克兰，俄罗斯对欧洲的煤炭出口正被逐步叫停，中国的这一决定可能使俄罗斯受益。从俄罗斯进口的煤炭确实较去年秋季的峰值大幅回落。但进口量仍略高于一年前,中国南方广东省的许多发电厂基本上都不得不在印尼购买煤炭
+
+For two decades, journalists and officials, in concert with the Kremlin, have merrily spread disinformation. However far-fetched or fantastical. It was Western military activity that had turned Ukraine into an anti-Russia, harboring enemies aiming at Russian humiliation. In this line of thinking, opposition forces were a fifth column infiltrating the otherwise pure motherland
+二十年来，记者和官员配合克里姆林宫，乐此不疲地散布虚假信息。无论多么牵强或荒诞. 正是西方的军事活动使乌克兰变成了一个反俄国家，窝藏着要来羞辱俄罗斯的敌人.在这种思路中，反对派像是第五纵队，渗透到原本纯洁的祖国
+
+Russian intelligence had obtained evidence that America and Ukraine were developing biological weapons — in the form of disease-ridden bats and birds — to spread viruses in Russia. The Ministry of Defense suggested it had unearthed documents that confirmed the collaboration.
+俄罗斯情报获得的证据表明，美国和乌克兰正在开发生物武器——以带病的蝙蝠和鸟的形式——在俄罗斯传播病毒。国防部表示，他们已经发现了证实这一合作的文件
+
+Hepatitis is a broad term used to describe inflammation of the liver, an organ that carries out hundreds of essential functions every day, from aiding digestion to clearing toxins from the blood. When the liver is inflamed or damaged, it is unable to perform many of those tasks.“Acute” hepatitis refers to inflammation that comes on relatively quickly and does not last more than six months. It can be severe and lead to liver failure
+肝炎是一个宽泛的术语，用来描述肝脏的炎症。肝脏每天承担数百项基本功能，从帮助消化到清除血液中的毒素。当肝脏发炎或受损时，许多任务就无法完成。“急性”肝炎是指相对较快的炎症，持续时间不超过六个月。它可能会很严重，导致肝功能衰竭
+
+Hepatitis symptoms are wide-ranging and overlap with many common illnesses. A child with hepatitis may experience fever (low-grade or more significant), fatigue, joint or muscle pain, loss of appetite or nausea, diarrhea and vomiting. Children may also have abdominal pain or tenderness, particularly in the right upper abdomen, which is where the liver is located
+肝炎症状广泛，并与许多常见疾病重叠。患有肝炎的儿童可能会出现发烧（低烧或更严重）、疲劳、关节或肌肉疼痛、食欲不振或恶心、腹泻和呕吐。 儿童也可能出现腹部疼痛或压痛，尤其是在右上腹，也就是肝脏所在的位置
+
+Even Jeff Bezos, the founder of Amazon and one of Mr. Musk’s biggest rivals in tech, space and now media, weighed in — on Twitter — to question potential sway over the platform. Even Mr. Bezos amended his post about potential leverage over Twitter to suggest that Mr. Musk could deftly strike a balance. Musk is extremely good at navigating this kind of complexity
+就连亚马逊创始人、马斯克在科技、太空和现在的媒体领域最大的竞争对手之一杰夫·贝佐斯也在Twitter上质疑对该平台的潜在影响力.甚至贝佐斯也修改了他关于对Twitter的潜在影响力的帖子，暗示马斯克可以巧妙地取得平衡。马斯克非常擅长驾驭这种复杂性，
+
+Undaunted, China’s government redoubled its efforts when the coronavirus pandemic began. 
+当新冠病毒大流行开始时，中国政府毫不气馁，加倍努力。
+
+With Mr. Musk planning to take the company private, there is less prerogative to respond to such inquiries. Twitter has never been a place for rational, nuanced speech. Expect it to get much, much worse. the company thinks the social media company would be best served by the ownership of a man who uses the platform to slime his critics, body-shame people, defy securities laws and relentlessly hawk cryptocurrencies.
+由于马斯克计划将公司私有化，届时公司就没有太多对这类质疑做出反应的义务了. Twitter从来不是一个发表理性、细致言论的地方。情况有可能会变得更糟.该公司最好由一个使用该平台来污蔑其批评者、对他人进行身体羞辱、藐视证券法和肆无忌惮地兜售加密货币的人拥有
+
+According to a civil suit filed by the California Department of Fair Employment and Housing in California Superior Court in Alameda County, Mr. Musk told workers to be “thick skinned” about suffering racist harassment while on the job. Tesla has denied the allegations. No wonder many Twitter employees are aghast at the prospect of Mr. Musk leading the company.
+根据加州公平就业和住房部在阿拉米达县加州高等法院提交的民事诉讼，马斯克告诉员工们，在工作期间遭受种族主义骚扰时要“脸皮厚”。特斯拉否认了这些指控. 难怪许多Twitter员工对马斯克领导该公司的前景感到惊恐万分
+
+Before and after the Jan. 6 attack on the Capitol, Donald Trump used Twitter to whip his followers into a frenzy. Into that toxic stew comes Mr. Musk. Loosening content moderation, as Mr. Musk appears poised to do, won’t make Twitter a better place; that will make it far more toxic. Under the notion that more speech is the best antidote to harmful speech, earnest users can probably expect to be shouted down even more frequently by trolls and bots.
+1月6日国会大厦遇袭前后，唐纳德·特朗普利用Twitter让自己的追随者陷入疯狂。马斯克也加入了这个有毒的大杂烩。马斯克似乎准备放松对内容的节制，但这不会让Twitter变得更好；这将会令它的毒性更大。在“更多言论是有害言论的最佳解药”观念之下，认真用户的声音可能会更频繁地被喷子和机器人水军盖住
+
+Female Twitter users, in particular, ought to worry about whether Mr. Musk will bring his apparent disdain for women to the company he is about to own. And the whole world should be concerned that Mr. Musk might reinstate Mr. Trump, who has so adroitly used social media platforms to spread dangerous Covid misinformation, mock his enemies and cast doubt on the integrity of free and fair elections. but, of course, the former president has reneged on many promises.
+女性Twitter用户尤其应该担心的是，马斯克是否会把他对女性明显的蔑视带到他即将拥有的公司。全世界都应该担心，马斯克可能会让特朗普回来。特朗普熟练地利用社交媒体平台传播危险的新冠不实信息，嘲笑他的敌人，并对自由和公平选举的公正性发出质疑。但是，当然，这位前总统曾经违背过很多承诺
+
+Meta, under Mark Zuckerberg’s leadership, has overlooked evidence that hurtful comments on the company’s platforms caused emotional harm to teenagers and increased users’ anxiety and anger. The company knows its algorithms are deeply flawed, but because Mr. Zuckerberg holds a controlling share of votes on the board, external and internal pressure on the company to change how they are designed and deployed has proved futile.
+在马克·扎克伯格领导下，Meta忽视了一些表明该公司平台上的伤人言论对青少年造成情感伤害、增加用户焦虑和愤怒的证据。该公司知道自己的算法存在严重缺陷，但由于扎克伯格在董事会中拥有控股权，外界和内部要求该公司改变算法设计和部署方式的压力被证明是徒劳的
+
+As with the motives for establishing those competitors, Mr. Musk’s reasons for taking control of Twitter aren’t about free speech; it’s about controlling a megaphone.
+与建立这些竞争对手的动机一样，马斯克控制Twitter的原因不是为了言论自由；而是为了控制一个传声筒
