@@ -596,38 +596,78 @@ Part of our problem is that I’m not sure we have a clear sense of exactly wher
 But the path for the industry had been bumpy: China had a spate of deadly air accidents in the early 1990s before tightening its oversight. Over the past two decades, its airlines have produced one of the world’s best air safety records. China’s top leader quickly issued a statement calling for rescuers to do their utmost and “handle the aftermath in a proper manner.” 
 但该行业的道路并不平坦：在加强监管之前，中国在1990年代初发生了一连串的致命空难。在过去二十年里，它的航司创造了世界上最好的飞机安全记录之一。中国最高领导人习近平迅速发表声明，要求救援人员尽最大努力，“妥善处置善后”
 
-It actually looks to me as if Putin has not been playing chess, but Russian roulette — and that he ran out of luck and blew a hole right through the heart of the Russian economy. Meanwhile, Sleepy Joe over in the corner has been playing Legos — methodically adding one piece, one ally, after another, bound together by shared values and threats, and has built a solid coalition to manage this crisis.
+**It actually looks to** me as if Putin has not been **playing chess, but Russian roulette** — and that he **ran out of luck and blew a hole right through** the heart of the Russian economy. Meanwhile, Sleepy Joe **over in the corner** has been **playing Legos — methodically adding one piece**, one ally, after another, **bound together** by shared values and threats, and has **built a solid coalition** to manage this crisis.
+>methodically[mɪˈθɑdɪkəlɪ] 有系统地; 有条不紊地；有条理地
+
 实际上，在我看来，普京可不是在下国际象棋，而是在玩俄罗斯轮盘赌，而且他气数已尽，直接给俄罗斯经济的心脏打出一个洞。与此同时，角落里“瞌睡乔”一直在玩乐高——有条不紊地叠加一个又一个因共同价值观和威胁而团结的盟友，建立了一个稳固的联盟来应对这场危机
 
-The wisdom of many is better than the wisdom of megalomaniacs. In any system, one essential trait is: How does information flow? People want their biggest life. Human beings these days want to have full, rich lives and make the most of their potential. Everybody worships something. 
+**The wisdom of many is better than the wisdom of megalomaniacs**. In any system, one **essential trait** is: How does information flow? People want their **biggest life**. Human beings these days want to have full, rich lives and make the most of their potential. Everybody **worships something**.
+>megalomaniacs[ˌmeɡəloʊˈmeɪniˌæk] 妄自尊大的；患夸大狂的  
+>trait 特点；特征  
+
 众人的智慧胜过狂妄自大者的智慧。在任何系统中，信息如何流动是一个基本的表征。人们想获得最美满的人生。如今的人都希望拥有充实、丰富的生活，最大限度地发挥自己的潜力。每个人都有崇拜的东西
 
-General Mityayev was tapped to lead the storied 150th Motorized Rifle Division, whose soldiers helped take the Reichstag building in Berlin precipitating Nazi Germany’s defeat in 1945. As convoys of Russian armor have lumbered along Ukrainian highways, Ukrainian forces have deployed drones and highly maneuverable infantry units to devastating effect, leaving abandoned and burning vehicles.
+General Mityayev **was tapped to lead the storied 150th Motorized Rifle Division**, whose soldiers helped take the Reichstag building in Berlin **precipitating Nazi Germany’s defeat** in 1945. As convoys of Russian armor have **lumbered along** Ukrainian highways, Ukrainian forces have deployed drones and **highly maneuverable infantry units to devastating effect**, leaving abandoned and burning vehicles.
+>be tapped to lead 被任命领导  
+>storied 传奇的; 有名的；众所周知的  
+>precipitate[prɪˈsɪpɪtət] 加速; 使…突然降临; 鲁莽的；草率的；仓促的; 沉淀物；析出物  
+>lumber[ˈlʌmbər] 缓慢吃力地移动；笨拙地行进; 木料；废旧家具；不用的大件物品  
+>maneuverable[məˈnuv(ə)rəb(ə)l] 机动性的；操纵性能良好的
+
 米佳耶夫将军被任命领导传奇的第150摩托化步兵师，该师曾帮助占领了柏林的国会大厦，加速了1945年纳粹德国的战败。在俄罗斯装甲车队在乌克兰高速公路上缓慢前行时，乌克兰军队部署无人机和高度机动的步兵部队制造毁灭性影响，俄军只剩废弃和燃烧的车辆
 
-Some people often quarrel when they encounter a trivial matter, and the so-called lack of common language is actually the result of the incorrect attitude of both parties, who do not put themselves in the right position and want to divorce impulsively when their emotions come up
+Some people often **quarrel** when they **encounter a trivial matter**, and the **so-called lack of common language** is actually the result of the incorrect attitude of both parties, who do not **put themselves in the right position** and want to **divorce impulsively when their emotions come up**
+>quarrel[ˈkwɔrəl] 争吵；吵架  
+>encounter a trivial matter 遇到一点鸡毛蒜皮小事  
+>lack of common language 没有共同语言  
+>implusively[ɪm'pʌlsɪvli] 一时心血来潮; 冲动地  
+>emotions come up 情绪上来
+
 有的人遇到一点鸡毛蒜皮小事，生活琐事，无法沟通，一言不合就翻脸，经常吵架，所谓的没有共同语言，其实是双方的态度不正确，没有摆正自己的位置，情绪一上来就想冲动离婚
 
-Scaling up social distancing would have been the correct and scientific thing to do, But South Korea took the nonsensical step of preemptively easing distancing.
+**Scaling up** social distancing would have been the correct and scientific thing to do, But South Korea **took the nonsensical step of preemptively easing distancing**.
+>nonsensical[nɑnˈsensɪk(ə)l] 荒谬的；无意义的  
+>preemptively[priˈemptɪvli] 先发制人地
+
 正确和科学的做法应该是加大社交距离限制，但韩国采取了先人一步放松距离的荒谬措施。
 
-As he was preparing for the move, Dr. Holmes got an email **out of the blue** from a Chinese virologist named Yong-Zhen Zhang, asking if he’d like to study viruses with him in China. Their collaboration quickly expanded into a sweeping search for new viruses in hundreds of species of animals. They studied spiders plucked off the walls of huts and fish hauled up from the South China Sea.
->out of the blue 难得到的；突如其来；出人意料
+As he was preparing for the move, Dr. Holmes got an email **out of the blue** from a Chinese **virologist** named Yong-Zhen Zhang, asking if he’d like to study viruses with him in China. Their collaboration quickly expanded into **a sweeping search for** new viruses in hundreds of species of animals. They studied spiders **plucked off the walls of huts** and fish **hauled up** from the South China Sea.
+>out of the blue 难得到的；突如其来；出人意料  
+>virologist[vaɪ'rɒlədʒɪst] 病毒学家  
+>pluck off 扯去；撕下  
+>hut[hʌt] 棚屋；茅屋；茅舍  
+>haul up 拖上来；举起；改变航向
 
 就在霍尔姆斯为这次调动做准备之时，他突然收到了中国病毒学家张永振的一封电邮，后者询问他是否愿意来中国一起研究病毒。他们的合作很快发展为在数百种动物中寻找新病毒的大规模研究，从棚屋墙上抓下来的蜘蛛到南海打捞上来的鱼，他们都曾做过调查
 
-Dr. Zhang and Dr. Holmes began working with doctors at Wuhan Central Hospital, **fishing for** viral RNA in samples of lung fluid from people with pneumonia. Many were sick with more than one virus, it turned out, and some were also infected with bacteria or fungi.
->fish for 间接探听；搜寻; 捞取；捕捞
+Dr. Zhang and Dr. Holmes began working with doctors at Wuhan Central Hospital, **fishing for** viral RNA in **samples of lung fluid** from people with **pneumonia**. Many were sick with more than one virus, it turned out, and some were also **infected with bacteria or fungi**.
+>fish for 间接探听；搜寻; 捞取；捕捞  
+>samples of lung fluid 肺液样本  
+>bacteria[bækˈtɪriə] 细菌  
+>fungus[ˈfʌŋɡəs] 真菌  Plural Form fungi
 
 张永振和霍尔姆斯开始与武汉市中心医院的医生合作，从肺炎患者的肺液样本中提取病毒RNA。结果发现，许多人感染了不止一种病毒，有人还出现细菌或真菌感染
 
-But the Ukraine war and the pandemic are pushing the world in the opposite direction and upending those ideas. Important parts of the integrated economy are unwinding. Your interdependence can be weaponized against you, That’s a lesson that I imagine many countries are beginning to internalize. The Ukraine war has “probably **put a nail in the coffin** of hyperglobalization.”
+But the Ukraine war and the pandemic are pushing the world in the **opposite direction and upending those ideas**. Important parts of the **integrated economy are unwinding**. Your interdependence can **be weaponized against** you, That’s a lesson that I imagine many countries are beginning to **internalize**. The Ukraine war has “probably **put a nail in the coffin** of hyperglobalization.”
+>upend those ideas 颠覆了这些观念  
+>unwind 放松；解开；展开；伸直  
+>internalize[ɪn'tɜ:nəlaɪz] 使(感情、态度或信仰)成为思想行为的一部分；使内在化  
+>put a nail in the coffin 最后一击  
+
 但乌克兰战争和疫情正把世界推向相反的方向，颠覆了这些观念。一体化经济的重要部分正在解体。你的相互依存关系可能会成为对付你的武器，我想，这是许多国家开始认同并接受的一个教训。乌克兰战争“很可能给超全球化的棺材钉上了一颗钉子”
 
 If Xi truly wants the crisis to end, then the **flat-footed** response testifies to China’s **impotence** in world politics, despite decades of rising to great power status.
+>flat-footed 扁平足的；无准备的  
+>impotence[ˈɪmpət(ə)ns] 无力；无能；虚弱; 性无能
+
 如果真想让这场危机结束，那么无准备的反应证明，尽管几十年来一直在向大国地位崛起，在世界政治上很无能
 
-In that case, it has called for the country to abandon its nuclear ambitions, while still providing it with energy and other products to blunt the impact of United Nations sanctions. In some respects, the talks over North Korea’s nuclear program were a high-water mark for China’s international diplomacy. 
+In that case, it has **called for** the country to abandon its nuclear ambitions, while still providing it with energy and other products to **blunt the impact** of United Nations sanctions. **In some respects**, the talks over North Korea’s nuclear program were **a high-water mark** for China’s international diplomacy. 
+>call for 呼吁  
+>blunt[blʌnt] 使减弱；使降低效应；使变钝; 直率的；迟钝的；生硬的  
+>high water (海、河的)高潮；高水位  
+>high water mark 高水位线
+
 在朝鲜问题上，中国在呼吁朝鲜放弃其核野心的同时，仍向朝鲜提供能源和其他产品，帮助朝鲜减轻联合国制裁的影响。从某些方面来看，就朝鲜核计划展开谈判是中国国际外交的高水位线
 
 The war is **sapping the national strength** of the old powers of the United States, Europe and Russia, China needs to **watch the fire from the opposite bank** and stay out of the war.
