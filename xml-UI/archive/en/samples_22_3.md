@@ -630,36 +630,82 @@ If Xi truly wants the crisis to end, then the **flat-footed** response testifies
 In that case, it has called for the country to abandon its nuclear ambitions, while still providing it with energy and other products to blunt the impact of United Nations sanctions. In some respects, the talks over North Korea’s nuclear program were a high-water mark for China’s international diplomacy. 
 在朝鲜问题上，中国在呼吁朝鲜放弃其核野心的同时，仍向朝鲜提供能源和其他产品，帮助朝鲜减轻联合国制裁的影响。从某些方面来看，就朝鲜核计划展开谈判是中国国际外交的高水位线
 
-The war is sapping the national strength of the old powers of the United States, Europe and Russia, China needs to watch the fire from the opposite bank and stay out of the war.
+The war is **sapping the national strength** of the old powers of the United States, Europe and Russia, China needs to **watch the fire from the opposite bank** and stay out of the war.
+>sap 削弱；逐渐破坏  
+>watch the fire from the opposite bank 隔岸观火
+
 战争削弱了美欧俄老列强的国力，中国需要做的是隔岸观火，不参与战争
 
-At the main crash site, a state broadcaster showed the workers digging with shovels around a large piece of wreckage that the reporter described as a wing, which bore part of the China Eastern logo and was perched on a steep, barren slope fringed by dense thickets of now-flattened bamboo. Heavy rains had left the roads slick and inundated the earth with muddy pools.
+At the main crash site, a state broadcaster showed the workers **digging with shovels around a large piece of wreckage** that the reporter described as a wing, which **bore** part of the China Eastern logo and was **perched on a steep, barren slope fringed by dense thickets of now-flattened bamboo**. Heavy rains had **left the roads slick and inundated the earth with muddy pools**.
+>shovel[ˈʃʌv(ə)l] 铲子；铁锹  
+>when push comes to shove 到了紧要关头  
+>shove[ʃʌv] 猛推  
+>wreckage[ˈrekɪdʒ] 残骸；废墟  
+>perch on 栖息；在较高或较险的位置  
+>barren[ˈberən] 贫瘠的；不毛的；不结果实的；不育的  
+>slope[sloʊp] 斜坡  
+>fringe[frɪndʒ] 形成…的边缘; 外围；刘海儿；边缘的；附加的  
+>slick[slɪk] 光滑的；华而不实的；虚有其表的；花言巧语的  
+>inundate[ˈɪnənˌdeɪt] 泛滥; 淹没；使不胜负荷；使应接不暇  
+>muddy pools 泥泞的水坑
+
 一家官方电视台的报道画面显示，在主要空难地点，工作人员正在用铁锹在一大块残骸周围挖掘，记者说那是机翼残骸，带有部分东航标识，那是一片陡峭的荒坡，周围茂密的竹林已被压平。大雨导致道路湿滑，四处可见泥泞的水坑
 
-How badly the intelligence agencies got it wrong is subject to debate. But intelligence reports are usually hedged. If there was a blind spot, I think it was less in believing Ukrainians wouldn’t fight and more about believing the Russian military was more capable than they turned out to be
+How badly the intelligence agencies got it wrong **is subject to debate**. But intelligence reports **are usually hedged**. If there was **a blind spot**, I think it was **less in believing** Ukrainians wouldn’t fight and **more about believing** the Russian military was **more capable than they turned out to be**
+>subject to debate 有待商榷  
+>hedged 模棱两可的; 骑墙的  
+>more capable than 比..更有能力
+
 情报机构的错误有多严重还有待商榷。但情报报告通常都是模棱两可的。如果说他们有盲点的话，我认为，与其说是相信了乌克兰人不会参战，不如说是相信了俄罗斯军队比事实证明的更有能力
 
-He wanted to know what Mr. Zelensky would do. Will he be Churchill or Ghani? But boy, when **the chips were down**, he channeled his inner Churchill.
+He wanted to know what Mr. Zelensky would do. Will he be Churchill or Ghani? But boy, when **the chips were down**, he **channeled his inner Churchill**.
+>when the chips were down 在关键时刻  
+
 他想知道泽连斯基会怎么做。他会是丘吉尔还是加尼？但是天呐，在关键时刻，他内心的丘吉尔出来了
 
-Disputes and tensions have been growing over Beijing’s role in a region that has often either been ignored or been seen as little more than dots on the map for great powers to toy with. They just seem to be dragging their feet.
+Disputes and tensions have been growing over Beijing’s role in a region that has often either been ignored or **been seen as little more than dots on the map** for great powers to **toy with**. They just **seem to be dragging their feet**.
+>toy with 玩弄；摆弄  
+>drag one's feet 故意拖延；迟缓误事
+
 这个地区要么经常遭到忽视，要么被视为地图上的几个小点，大国可以随意操弄。如今，围绕北京在该地区扮演的角色，争议和紧张局势不断升级。他们似乎很拖拉
 
-All indications are that he went into this debacle believing his own propaganda about both his army’s martial prowess and the eagerness of Ukrainians to submit to Russian rule. In the Hollywood version of history, the Roman Empire fell because its elites were too busy with orgies to attend to the business of defeating barbarians.
+**All indications are that** he went into this **debacle** believing his own propaganda about both his army’s **martial prowess and the eagerness** of Ukrainians to submit to Russian rule. In the Hollywood version of history, **the Roman Empire fell** because its elites were too **busy with orgies** to attend to the business of **defeating barbarians**.
+>debacle[deɪˈbɑk(ə)l] 灾难; 崩溃；大败；垮台  
+>prowess[ˈpraʊəs] 非凡的技能；高超的技艺；造诣  
+>orgy[ˈɔrdʒi] 狂欢会；放纵  
+>barbarian[bɑrˈberiən] 野蛮人; 蛮族
+
 所有迹象都表明，他因为相信了自己关于军事实力以及乌克兰人渴望服从俄罗斯统治的宣传，从而陷入了这场灾难。在好莱坞版的历史中，罗马帝国的衰落是因为它的精英们忙于狂欢，无暇顾及打败野蛮人的事情
 
-Modern wars aren’t won with swaggering machismo. Courage and endurance, physical and moral, are as essential as ever; but so are more mundane things like logistics, vehicle maintenance and communications systems that actually work. I’m half expecting him to release battle maps crudely modified with a Sharpie.
+Modern wars aren’t won with **swaggering machismo. Courage and endurance, physical and moral**, are as essential as ever; but so are more **mundane** things like logistics, vehicle maintenance and communications systems that actually work. **I’m half expecting** him to release battle maps **crudely modified with a Sharpie**.
+>machismo[məˈtʃɪzmoʊ] 男子汉气概  
+>swaggering 大摇大摆的；昂首阔步的  
+>mundane[mʌnˈdeɪn] 单调的；平凡的  
+>half expect 有点期待  
+>curdely[krudlɪ] 粗糙地；未加工地  
+>sharpie['ʃɑːpɪ] 狡猾的人; 美国三福牌马克笔
+
 现代战争不是靠张扬的大男子主义来取胜的。勇气和耐性，体魄与品行一如既往地重要；而且像后勤、车辆维护和通信系统等更平凡的工作也是如此。我有点期待他发布用马克笔粗略批改的作战地图
 
-Marked, to some degree, by his home city of St. Petersburg, built by Peter the Great in the early 18th century as a “window to Europe,” Putin learned young that, as he put it, “the weak get beat.” He vowed to protect “our common Fatherland, Great Rus.”
+Marked, **to some degree**, by his home city of St. Petersburg, built by Peter the Great in the early 18th century as a “window to Europe,” Putin learned young that, as he put it, “**the weak get beat**.” He vowed to protect “our **common Fatherland, Great Rus**.”  
 普京是圣彼得堡人，那是彼得大帝在18世纪初建造的“通往欧洲的窗口”，普京年轻时就明白——正如他所说的那样——“弱者就会挨打”。他誓言要保护“我们共同的祖国，大罗斯”。
 
-Mr. Putin, in his recent speech, lumped those oligarchs in with his adversary, the West, saying “they can’t get by without **oysters or foie gras**” and that they do not mentally exist “here, with our people, with Russia.” He vowed to spit them out “like a midge that flew into our mouths.” 
+Mr. Putin, in his recent speech, **lumped those oligarchs in with his adversary**, the West, saying “they can’t get by without **oysters or foie gras**” and that they do not **mentally exist** “here, with our people, with Russia.” He **vowed to spit them out** “like a **midge** that flew into our mouths.” 
+>lump[lʌmp] 肿块；疙瘩; 把…归并一起（或合起来考虑）  
+>foie gras 鹅肝  
+>midge[mɪdʒ] 侏儒；蠓虫
+
 普京已在最近的讲话中仍将这些寡头与他的对手——西方相提并论，说他们“没有牡蛎或鹅肝就活不下去”，他们精神上不在“这里，与我们的人民、与俄罗斯同甘共苦”。普京郑重表示，要把他们“像飞进我们嘴里的蠓虫一样”吐出来
 
-It’s impossible to say whether future variants will have more big Omicron-like jumps or more typical stepwise changes, but we are confident SARS-CoV-2 will continue to evolve to escape immunity. While transmissibility of viruses does plateau at a certain point, other human viruses that escape immunity keep doing so. 
+It’s impossible to say whether future variants will have more **big Omicron-like jumps** or more **typical stepwise changes**, but we are confident SARS-CoV-2 will continue to **evolve to escape immunity**. While transmissibility of viruses does **plateau at a certain point**, other human viruses that escape immunity keep doing so. 
+>stepwise 逐步的；逐渐的  
+>plateau[plæˈtoʊ] 进入停滞期；达到平稳状态；高原；平台
+
 未来的变异株是否具有更多类似奥密克戎那样的大跃进，还是具有更典型的渐进变化，目前尚不可知，但我们确信，SARS-CoV-2将继续演化，以逃避免疫。虽然病毒的传染性在某个特定时刻进入停滞状态，但其他逃避免疫的人类病毒仍在不断地进行这个过程
 
-China’s been very effective at deputizing the American corporate sector as their lobbyists, It’s something he says he **experienced firsthand** when he pushed for sanctions over China. It calls for a Pentagon budget of $773 billion — a record that eclipses the Trump administration’s spending on the military.
-中国非常有效地把美国企业界作为他们的说客，这是他在推动制裁中国过程中的亲身经历。 它要求五角大楼的预算达到7730亿美元，令特朗普政府的军费开支黯然失色
+China’s **been very effective at deputizing** the American corporate sector as their lobbyists, It’s something he says he **experienced firsthand** when he pushed for sanctions over China. It calls for a Pentagon budget of $773 billion — a record that **eclipses the Trump administration’s spending** on the military.
+>be effective at 有效地做  
+>deputize[ˈdepjəˌtaɪz] 担任代表；充当代理人; 授权；委派…为代表  
+>firsthand 直接的；第一手的；第一手地; 直接地
 
+中国非常有效地把美国企业界作为他们的说客，这是他在推动制裁中国过程中的亲身经历。 它要求五角大楼的预算达到7730亿美元，令特朗普政府的军费开支黯然失色

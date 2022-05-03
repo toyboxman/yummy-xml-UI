@@ -284,6 +284,7 @@
         + [webpack高级配置](https://mp.weixin.qq.com/s/etFRqDtyjPB8icI7tMJPZA)
 + CSS
     - CSS布局指南[[1](https://mp.weixin.qq.com/s/gIRqOKZAYwRUxWvKXbTvig), [2](https://mp.weixin.qq.com/s/ljnqn8paEHIgShA3c-eoxw), [3](https://mp.weixin.qq.com/s/J80laygl2BsGSfU40AjXyw)]
+    - [自动生成代码工具](https://mp.weixin.qq.com/s/lS9MrDZbbQmNssQ2N1vSwA)
     - [CSS眼前一亮的HOVER效果](https://mp.weixin.qq.com/s/0cBdXuJdfPtx8NfP5aAs4g)
 	- 前端开源CSS库[[1](https://mp.weixin.qq.com/s/Sjg6jgl1D6IkYgsuQSgFHg), [2](https://mp.weixin.qq.com/s/xwD_2K8ZpvpY0geCv865ew)]
     - [CSS知识点](https://mp.weixin.qq.com/s/CNWl36Oa6KBvdGZ-wC4odw)
