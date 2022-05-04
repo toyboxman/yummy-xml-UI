@@ -547,53 +547,108 @@ The proportion of asymptomatic infections is high, the spread is hidden, and ear
 Genshin Impact, one of the world’s hottest mobile video games, has all the characteristics of a Japanese invention: giant robots; human-size swords; characters with huge eyes and spiky, rainbow-colored hair; and a puzzling fixation on women in maid outfits. the game is the first bona fide international smash hit for China’s video game industry. 
 《原神》是目前世界上最热门的手机游戏之一，它拥有一项日本发明产物的所有特征：巨型机器人；和人类等高的剑；有着巨大眼睛和多彩细尖头发的角色；以及对身穿女仆装的女性令人费解的迷恋。是中国电子游戏行业第一个真正意义上走红全球的大作
 
-Still, copycat or not, Genshin is a sign to many insiders of the challenges the Japanese video game industry faces. Under fierce competition from the United States, Europe and, now, China, it has ceded its once-dominant position over the past two decades.
+Still, **copycat or not**, Genshin is **a sign to many insiders** of the challenges the Japanese video game industry faces. **Under fierce competition** from the United States, Europe and, now, China, it has **ceded its once-dominant position** over the past two decades.
+>cede[sid] 割让；转让; 放弃
+
 然而，无论是否模仿，许多业内人士都认为《原神》是日本电子游戏行业面临挑战的一个信号。在来自美国、欧洲以及如今中国的激烈竞争之下，它在过去20年中已经失去了曾经的主导地位
 
-There are a large number of female characters among the dozens that players can use to explore a vast kingdom, delving into dungeons, battling monsters and completing quests to advance the story’s epic narrative about a mysterious traveler entangled in a war between humanity and the gods.
+There are **a large number of** female characters among the dozens that players can use to **explore a vast kingdom, delving into dungeons, battling monsters and completing quests** to advance the story’s epic narrative about **a mysterious traveler entangled in a war** between humanity and the gods.
+>delve[delv] 探究；钻研；掘; 坑；凹地；井；沟槽  
+>dungeons[ˈdʌndʒən] 地下城；地牢
+>quest 探索；探求  
+>entangle[ɪnˈtæŋɡ(ə)l] 使纠缠；使卷入; 使混乱；使陷入
+
 游戏的几十个主要角色中有大量女性，玩家可以利用这些角色去探索一个巨大的王国，深入地下城，与怪兽战斗，完成任务，从而推进故事发展，这个史诗般的故事讲述了一个神秘旅行者卷入了人类与神灵之间的战争
 
-If Japanese companies don’t defend themselves — not just individually but by banding together as an industry — they may not be able to put on the brakes
+If Japanese companies don’t **defend themselves** — not just individually but by **banding together** as an industry — they may not be able to **put on the brakes**
+>put on the brakes 踩刹车  
+
 如果日本公司不保卫自己——不是单独自卫，而是作为一个行业联合起来——再想踩刹车恐怕就难了
 
-Putin and others would be high-fiving each other for having shown NATO and Sleepy Joe who’s going to set the rules of the international system going forward. Nevertheless, it is stunning to watch how quickly he has tied himself into knots.
->high-five 击掌祝贺
+Putin and others would be **high-fiving** each other for having shown NATO and Sleepy Joe who’s going to set the rules of the international system going forward. **Nevertheless**, it **is stunning to** watch how quickly he has **tied himself into knots**.
+>high-five 击掌祝贺  
+>stunning 令人震惊的  
+>knot[nɑt] 用绳索等打的结；发髻；节疤  
+>tie into knots 使紧张；使困惑
 
 普京和其他人将击掌庆贺，他们让北约和“瞌睡乔”看到了将由谁来制定未来国际体系的规则. 不管怎样，看到他如此迅速地让自己陷入沮丧，还是令人震惊的
 
-All that said, I have always argued that globalization is not just about trade. It is about the ability for countries, companies and now, increasingly, individuals to connect and act globally. Human beings are hard-wired to want to connect, and the hard-wiring of today’s world is making it easier and cheaper for them to do so every day.
+**All that said**, I have always argued that globalization is not just about trade. It is about the ability for countries, companies and now, **increasingly**, individuals to connect and act globally. Human beings are **hard-wired** to want to connect, and the **hard-wiring of** today’s world is **making it easier and cheaper** for them to do so every day.
 话虽如此，我一直认为，全球化并不只限于贸易。它也关乎国家、企业以及如今越来越多的个人在全球范围内建立联系和采取行动的能力。人类联络彼此的欲望是与生俱来的，而当今世界的永久连接也让人们每天都能更容易、更便宜地做到这一点
+>all that said 都这么说；话虽如此  
+>hard-wired 硬连接  
 
-The advantages of untrammeled power in a crisis are obvious. And he can impose necessary but unpopular policies. But while we’re all justifiably obsessed with the Ukraine war, the advantages of having a strongman who can tell everyone what to do are more than offset by the absence of free discussion and independent thought. 
+The advantages of **untrammeled power** in a crisis are obvious. And he can **impose necessary but unpopular policies**. But while we’re all **justifiably obsessed with** the Ukraine war, the advantages of having a strongman who can tell everyone what to do are **more than offset** by the absence of free discussion and independent thought. 
+>untrammeled[ʌn'træmld] 不受限制的；无拘束的  
+>justifiable[ˈdʒʌstɪˌfaɪəb(ə)l] 合理的；有理由的；无可非议的；正当的  
+>offset 抵消
+
 在危机中，权力不受约束的好处是显而易见的。他还可以推行必要但不受欢迎的政策。我们对乌克兰战争的高度关注虽然无可厚非, 一个告诉所有人该做什么的强人所带来的好处，抵消不了缺乏自由讨论和独立思考的坏处
 
-She added that there had been an “absence of denunciation of what Russia is doing,” which “flies in the face, of course, of everything they stand for. One official said Russia had also asked for economic aid to help blunt the harsh sanctions imposed on the country by the United States and its European and Asian allies.
->fly in the face of 公然违抗；与某事物相悖
+She added that there had been an “**absence of denunciation of** what Russia is doing,” which “**flies in the face**, of course, of everything they stand for. One official said Russia had also **asked for economic aid** to help **blunt the harsh sanctions** imposed on the country by the United States and its European and Asian allies.
+>fly in the face of 公然违抗；与某事物相悖  
+>denunciation[dɪˌnʌnsiˈeɪʃ(ə)n] 指责；公开谴责  
+>blunt the harsh sanctions 缓和严厉制裁
 
 她还表示，“没有对俄罗斯的所作所为进行谴责”，这当然明显违背了所主张的一切. 一名官员表示，俄罗斯还要求获得经济援助，以缓和美国及其欧洲和亚洲盟友对俄罗斯实施的严厉制裁
 
-The official said the United States had received indications before the Rome meeting that China was inclined to oblige the Russian request. The officials spoke to The Times on the condition of anonymity because of the sensitivity of diplomatic, military and intelligence matters.
+The official said the United States had **received indications** before the Rome meeting that China **was inclined to oblige** the Russian request. The officials spoke to The Times **on the condition of anonymity** because of the **sensitivity of** diplomatic, military and **intelligence matters**.
+>be inclined to 倾向于；想要  
+>intelligence matters 情报事务
+
 这位官员说，美国收到一些迹象，在罗马会议之前，中国倾向于答应俄罗斯的请求。由于外交、军事和情报事务的敏感性，这些官员要求隐去姓名。
 
-There is the family who closed down a high-end interior design business and now drives around the city all day delivering food to needy residents, pausing only on occasion to dash into a basement for cover.
+There is the family who **closed down a high-end interior design business** and now drives around the city all day delivering food to **needy residents**, pausing only **on occasion to dash into a basement for cover**.
+>high-end interior design business 高端室内设计公司  
+>needy 缺乏生活必需品的；贫困的；缺乏自信的；需要精神支持的  
+>on occasion 偶尔；不时  
+>dash into 冲进去
+
 有户人家将自己的高端室内设计公司关张，现在整天在市里开车打转，给有需要的居民送去食物，只是偶尔停下来冲进地下室寻找掩护
 
-Black strafe marks pock a prop plane that sits on the runway of Mykolaiv’s small international airport. attacks are preceded by overflights of Russian surveillance drones.
+**Black strafe marks pock a prop plane** that **sits on the runway** of Mykolaiv’s small international airport. attacks **are preceded by overflights** of Russian surveillance drones.
+>strafe[streɪf] 低空扫射  
+>black strafe marks 扫射过的黑色点痕  
+>prop plane 螺旋桨飞机  
+>overflight 飞越上空
+
 尼古拉耶夫小国际机场的跑道上有一架螺旋桨飞机，机身满是被扫射过的黑色点痕。袭击之前通常会有俄罗斯监视无人机在空中巡视。
 
-The surge is the toughest test yet of China’s no-holds-barred approach to eradicating the virus. The government, which had been adhering to a “zero-tolerance” strategy, has shifted in recent months to a “dynamic-zero” strategy as the virus has grown more transmissible. 
+The surge is **the toughest test** yet of China’s **no-holds-barred** approach to **eradicating the virus**. The government, which had been **adhering to** a “zero-tolerance” strategy, has shifted in recent months to a “dynamic-zero” strategy as the virus has grown more transmissible. 
+>no holds barred 没有清规戒律的约束；毫不留情；百无禁忌  
+>adhere to  坚持  
+
 此次感染激增是迄今为止对中国清零方式的最严峻考验。中国政府一直坚持清零战略，由于病毒的传播性越来越强，这一战略在最近几个月已经转变为“动态清零”
 
-And a 27-year-old doctor living near Nairobi in Kenya questioned how Americans could be outraged over the Russian invasion when “for so long, they had a monopoly over anarchy.” Still others could not side with a West that they viewed as hypocritical. These attitudes have helped prime the pump for the flourishing of conspiracy theories about the war.
+And a 27-year-old doctor living near Nairobi in Kenya questioned how Americans could **be outraged** over the Russian invasion when “for so long, they had **a monopoly over anarchy**.” Still others could not side with a West that they viewed as **hypocritical**. These attitudes have helped **prime the pump** for the flourishing of conspiracy theories about the war.
+>anarchy[ˈænərki] 无政府状态；混乱；无法无天  
+>monopoly[məˈnɑpəli] 垄断；独占；专利  
+>hypocritical 虚伪的  
+>prime the pump 增加政府支出以刺激经济；采取措施；采取措施使某事发展
+
 一名住在肯尼亚内罗毕附近的27岁医生质问美国人怎么会对俄罗斯入侵乌克兰感到愤怒，而“长期以来，无法无天一直是他们的专利品”。还有些人觉得自己不能支持一个在他们看来虚伪的西方。这些态度助长了有关战争的阴谋论盛行
 
-The Kremlin has turned to nuclear saber-rattling that may not be entirely empty of threat. A recent Princeton University simulation, projecting out each side’s war plans and other indicators, estimated that it would be likely to trigger a tit-for-tat exchange that, in escalating to strategic weapons like intercontinental missiles, could kill 34 million people within a few hours.
+The Kremlin has turned to nuclear **saber-rattling** that may not be **entirely empty of threat**. A recent Princeton University simulation, **projecting out** each side’s war plans and other **indicators**, estimated that it would be likely to trigger **a tit-for-tat exchange** that, in escalating to strategic weapons like intercontinental missiles, could kill 34 million people within a few hours.
+>saber-rattling 虚张声势；炫耀武力  
+>entirely empty of threat 完全空洞的恫吓  
+>tit-for-tat 以牙还牙；针锋相对
+
 克林姆林宫已经发出了可能并非完全空洞的核武力恫吓。普林斯顿大学最近的一项模拟预测了双方的战争计划和其他指标，估计最后可能会引发一场针锋相对的交火，如果升级为洲际导弹等战略武器，可能会在几小时内杀死3400万人
 
-Part of our problem is that I’m not sure we have a clear sense of exactly where the lines are, This is why we’re seeing all the hemming and hawing back and forth with the question of providing aircraft. There’s just uncertainty as to how the Russians would take that. Mr. Kahl is now an under secretary at the Pentagon.
+Part of our problem is that I’m not sure we **have a clear sense of exactly where the lines are**, This is why we’re seeing **all the hemming and hawing back and forth** with the question of providing aircraft. There’s just uncertainty as to how the Russians would take that. Mr. Kahl is now an **under secretary** at the Pentagon.
+>hemming and hawing 犹豫不决；无法决定  
+>hem[hem] 卷边加工；包边  
+>haw[hɔ] 【植】山楂；使(马)向左转  
+>under secretary 副部长
+
 难题之一就在于，我不确定我们是否清楚界限在哪里，这就是为什么在提供飞机的问题上，我们看到了那么多犹豫不决。就是因为不确定俄罗斯人会如何看待此举. 卡尔目前是五角大楼的一名副部长
 
-But the path for the industry had been bumpy: China had a spate of deadly air accidents in the early 1990s before tightening its oversight. Over the past two decades, its airlines have produced one of the world’s best air safety records. China’s top leader quickly issued a statement calling for rescuers to do their utmost and “handle the aftermath in a proper manner.” 
+But the path for the industry had been **bumpy**: China had **a spate of** deadly air accidents in the early 1990s before **tightening its oversight**. Over the past two decades, its airlines have produced one of the world’s best air safety records. China’s top leader quickly issued a statement calling for rescuers to **do their utmost** and “**handle the aftermath in a proper manner**.” 
+>bumpy[ˈbʌmpi] 不平的；多凸块的；颠簸的  
+>a spate of 一连串；大量  
+>do one's utmost 尽最大努力；尽全力  
+>in a proper manner 妥善; 以适当的方式
+
 但该行业的道路并不平坦：在加强监管之前，中国在1990年代初发生了一连串的致命空难。在过去二十年里，它的航司创造了世界上最好的飞机安全记录之一。中国最高领导人习近平迅速发表声明，要求救援人员尽最大努力，“妥善处置善后”
 
 **It actually looks to** me as if Putin has not been **playing chess, but Russian roulette** — and that he **ran out of luck and blew a hole right through** the heart of the Russian economy. Meanwhile, Sleepy Joe **over in the corner** has been **playing Legos — methodically adding one piece**, one ally, after another, **bound together** by shared values and threats, and has **built a solid coalition** to manage this crisis.
