@@ -503,48 +503,113 @@ Mr. Xi, in a video conference with President Emmanuel Macron of France and Chanc
 
 在与法国总统马克龙和德国总理朔尔茨举行的视频峰会上，对欧洲“重燃战火”表示痛惜. 无论如何，中国的经济规模足够大，能够承受对其他国家的经济造成重创的打击。中国企业甚至可能已为最终从俄罗斯对贸易的迫切需求中获利做好了准备
 
-Biden has repeatedly avowed that the United States is not in a ‘new Cold War’ with China, but China often feels the chill creeping in everywhere. The West should not have become a hegemon in defining universal standards
->
+Biden has **repeatedly avowed** that the United States is not in a ‘new Cold War’ with China, but China often **feels the chill creeping in everywhere**. The West should not have become **a hegemon** in defining **universal standards**
+>avow[əˈvaʊ] 声明；公开宣称  
+>creeping in everywhere 时时处处  
+>hegemonic[ˌheɡɪ'mɒnɪk] 霸权的  
+>hegemon 霸权  
+>universal standards 普适标准
 
 拜登反复宣称美国不同中国搞‘新冷战’，但中国时时处处感受的仍是阵阵寒意。西方不应该有定义普适标准的霸权
 
-The old order is swiftly disintegrating, and strongman politics is again ascendant among the world’s great powers, Countries are brimming with ambition, like tigers eyeing their prey, keen to find every opportunity among the ruins of the old order.
+The old order is **swiftly disintegrating**, and strongman politics is again **ascendant** among the world’s great powers, Countries are **brimming with ambition**, like **tigers eyeing their prey, keen to find** every opportunity among the ruins of the old order.
+>ascendant[əˈsendənt] 上升的；占优势的；占支配地位的；优势地位；祖先  
+>brimming 满溢的；盈满的  
+>brim[brɪm] 帽檐；(杯、碗等的)口；有…边的; (使)满  
+>prey[preɪ] 猎物；受害者  
+>tigers eyeing their prey 虎视眈眈  
+>be keen[kin] to 热衷于；渴望
+
 旧的秩序在迅速瓦解，强人政治在世界大国间再度流行起来，各国野心勃勃，虎视眈眈，希冀在旧秩序的废墟上寻找一切机会
 
-An uncharacteristically angry Mr. Guterres accused Russia of attacking 24 health facilities and leaving hundreds of thousands of people without water or electricity. Having once predicted there would be no war in Ukraine, he now warned there could be a calamitous cascade of world hunger and food inflation because Ukraine is one of the world’s foremost grain producers.
+An **uncharacteristically angry** Mr. Guterres accused Russia of attacking 24 **health facilities** and leaving hundreds of thousands of people without water or electricity. **Having once predicted** there would be no war in Ukraine, he now warned there could be **a calamitous cascade** of world hunger and food inflation because Ukraine is one of the world’s **foremost grain producers**.
+>uncharacteristically 一反常态；非同寻常地  
+>calamitous[kəˈlæmɪtəs] 多灾多难的；不幸的  
+>cascade[kæˈskeɪd] 级联；阶梯；(陡岩落下的)瀑布
+
 古特雷斯的愤怒一反常态，他指责俄罗斯袭击了24家卫生设施，导致数十万人缺水断电。他曾预测乌克兰不会发生战争，但现在警告说，由于乌克兰是世界上最重要的粮食生产国之一，战争可能会引发灾难性的世界饥饿问题和粮食通胀的连带反应
 
-The sovereignty, independence and territorial integrity of any country should be respected and safeguarded, Ukraine is no exception.
+The **sovereignty, independence and territorial integrity** of any country should **be respected and safeguarded**, Ukraine is **no exception**.
+>safeguard 保障；保护；捍卫
+
 尊重和保障各国的主权和领土完整，在乌克兰问题上同样适用.
 
-As Li Xiang strapped himself into a seat mounted atop a single ski and raced down the snowy slope, he reveled in the feeling of freedom that had become all too rare after a car accident required him to use a wheelchair as a child. Changing the mind-set of society may sound daunting, but the solution might be simpler than it appears, said Li, the Paralympic Alpine skier.
+As Li Xiang **strapped himself into a seat mounted atop** a single ski and **raced down the snowy slope**, he reveled in the feeling of freedom that had become all too rare after a **car accident** required him to use a wheelchair as a child. **Changing the mind-set** of society may **sound daunting**, but the solution might **be simpler than it appears**, said Li, **the Paralympic Alpine skier**.
+>strap[stræp] 用带子系(或捆、扎、扣)；包扎  
+>atop[əˈtɑp] 顶上的；在顶上  
+>snowy slope 雪坡  
+
 当李响把自己固定于单人滑雪板上的座位，从雪坡急驰而下时，他陶醉在自由的感觉之中。因为儿时一场车祸让他只能依靠轮椅生活，他感受到自由的时刻已经少之又少。改变社会的思维模式可能听起来很艰巨，但解决办法其实没那么难，残障高山滑雪运动员李响说
 
-The most important thing is empathy, That is, to make ordinary people be more willing to think in the shoes of people with disabilities.
+The most important thing is **empathy**, That is, to make ordinary people be more willing to **think in the shoes of people** with disabilities.
+>empathy[ˈempəθi] 同理心；移情；共情  
+>in the shoes of  在..立场; 设身处地
+
 最重要的是包容，是一般人能更从残疾人的立场设想，完全地融入
 
-And they are just the tip of the iceberg. While the exodus of about 2.7 million Ukrainians from their war-torn country has focused the world on a burgeoning humanitarian crisis
+And they are just **the tip of the iceberg**. While the **exodus of** about 2.7 million Ukrainians from their **war-torn country** has focused the world on **a burgeoning humanitarian crisis**
+>the tip of the iceberg 冰山一角  
+>exodus[ˈeksədəs] 出埃及记；大批离去  
+>war-torn 饱受战争蹂躏的  
+>burgeoning 迅速生长的；迅速成长的  
+
 而他们只是冰山一角。大约270万乌克兰人逃离了饱受战争蹂躏的国家，全世界都在关注这场迅速蔓延的人道主义危机
 
-History moves in a spiral, that of Russia especially, It comes back to the same place — back to this same place. Now, too, a generation of Russian exiles faces the daunting prospect of starting from scratch. 
+**History moves in a spiral**, that of Russia especially, It comes back to the same place — back to this same place. Now, too, a generation of Russian **exiles faces the daunting prospect of starting from scratch**. 
+>move in a spiral[ˈspaɪrəl] 螺旋式前进  
+>daunting[ˈdɔntɪŋ] 使人畏缩的；吓人的；令人畏惧的  
+>start from scratch 白手起家；从头开始
+
 历史在螺旋式发展，尤其是俄罗斯，它回到同一个地方——而且回到这个地方。现在，这一代俄罗斯流亡者也面临着可能从零开始的艰巨未来
 
-He quit his job as a lawyer with Russia’s state-owned Sberbank, organized his financial affairs, made out a will and said goodbye to his mother.
+He **quit his job** as a lawyer with Russia’s state-owned Sberbank, **organized his financial affairs**, **made out a will** and said goodbye to his mother.
+>financial affairs 财务状况  财务状况  
+>make (out) a will 立遗嘱
+
 他辞去了俄罗斯国有的俄罗斯联邦储蓄银行的律师工作，整理好自己的财务状况，立了一份遗嘱，然后跟母亲告别
 
-Television has glossed over the bloodshed caused by Russian forces and pointedly avoided calling President Vladimir V. Putin’s actions an invasion.
+Television has **glossed over the bloodshed** caused by Russian forces and **pointedly avoided** calling President Vladimir V. Putin’s actions an invasion.
+>gloss over 掩盖；粉饰  
+>gloss[ɡlɔs] 精彩的解释(或阐述); 评注; 光亮；光泽涂料；亮光漆  
+>bloodshed 流血；杀戮  
+>pointedly 明确地；尖锐地；直言不讳地
+
 电视台粉饰俄罗斯军队造成的流血事件，并刻意回避将普京总统的行为称为入侵
 
-In video dispatches from his apartment or the streets, Mr. Wang has shifted between bleak and wryly matter-of-fact when describing life in wartime. Some people tell me that nowadays it’s a society where the strong devour the weak, where power comes from the barrel of a gun.
+In **video dispatches** from his apartment or the streets, Mr. Wang has **shifted between bleak and wryly matter-of-fact** when describing life in wartime. Some people tell me that **nowadays** it’s a society where **the strong devour the weak**, where **power comes from the barrel of a gun**.
+>dispatch n. 快件; 发送；电讯；快信  
+>bleak 不乐观的；无望的；暗淡的；荒凉的；阴冷的  
+>wryly[raɪli] 挖苦地；嘲弄地  
+>wry[raɪ] 啼笑皆非的；挖苦的；讽刺的；揶揄的  
+>matter-of-fact 事实上的；平凡的  
+>nowadays[ˈnaʊəˌdeɪz] 现在；现今；目前  
+>devour[dɪˈvaʊr] 吞噬；吞没；毁灭  
+>the strong devour the weak 弱肉强食  
+>power comes from the barrel of a gun 枪杆子里面出政权
+
 在他的公寓或街头拍摄视频，描述战争时期的生活时，他时而悲观黯然，时而不无幽默地就事论事。有人告诉我，现在是弱肉强食的社会，枪杆子里面出政权
 
-China’s virus containment strategy is focused on moving quickly to lock down buildings or neighborhoods. In Shanghai, many foreign-owned businesses stockpiled mattresses last week in case their employees were trapped in their factories or their offices this week. 
+China’s **virus containment strategy** is focused on moving quickly to **lock down buildings or neighborhoods**. In Shanghai, many foreign-owned businesses **stockpiled mattresses** last week **in case** their employees **were trapped in** their factories or their offices this week. 
+>virus containment strategy 防疫策略  
+>mattress[ˈmætrəs] 床垫；褥子；席梦思
+
 中国的防疫策略主要是迅速采取行动，封锁建筑物或社区。在上海，许多外资企业上周储备了床垫，以防员工这周被困在工厂或办公室。
 
-The proportion of asymptomatic infections is high, the spread is hidden, and early detection is difficult, It is not enough to simply screen in key areas or populations — it is necessary to reduce or slow down the mobility of people.
+The **proportion of asymptomatic infections** is high, the **spread is hidden**, and early detection is difficult, It is not enough to **simply screen** in key areas or populations — it is necessary to **reduce or slow down the mobility** of people.
+>proportion 比例  
+>asymptomatic[ˌeɪsɪmptəˈmætɪk] 无症状的  
+>mobility[moʊˈbɪləti] 移动性；流动性；机动性
+
 无症状感染者比例高，传播隐匿，早发现难度大，单纯在重点区域或人群中筛查还不够，必须要通过减少人员流动
 
-Genshin Impact, one of the world’s hottest mobile video games, has all the characteristics of a Japanese invention: giant robots; human-size swords; characters with huge eyes and spiky, rainbow-colored hair; and a puzzling fixation on women in maid outfits. the game is the first bona fide international smash hit for China’s video game industry. 
+Genshin Impact, one of the world’s **hottest mobile video games**, has all the **characteristics of a Japanese invention**: giant robots; **human-size** swords; characters with huge eyes and **spiky, rainbow-colored hair**; and a **puzzling fixation** on women in **maid outfits**. the game is the first **bona fide international smash hit** for China’s video game industry. 
+>characteristic[ˌkerəktəˈrɪstɪk] 特征；特点；品质; 典型的；独特的；特有的  
+>spiky[ˈspaɪki] 有尖刺的；刺猬式的；动辄生气的；气量小的  
+>fixation[fɪkˈseɪʃ(ə)n] 异常依恋；癖  
+>maid outfits 女仆装  
+>bona fide[bəʊnə ˈfaɪdi] 真诚的；真实的；合法的  
+>smash hit 轰动的演出；巨大的成功
+
 《原神》是目前世界上最热门的手机游戏之一，它拥有一项日本发明产物的所有特征：巨型机器人；和人类等高的剑；有着巨大眼睛和多彩细尖头发的角色；以及对身穿女仆装的女性令人费解的迷恋。是中国电子游戏行业第一个真正意义上走红全球的大作
 
 Still, **copycat or not**, Genshin is **a sign to many insiders** of the challenges the Japanese video game industry faces. **Under fierce competition** from the United States, Europe and, now, China, it has **ceded its once-dominant position** over the past two decades.
