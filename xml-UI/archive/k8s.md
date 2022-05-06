@@ -32,7 +32,8 @@ Kubernetes解决那些问题可以看看
 + Kubernetes 学习曲线[[1](https://mp.weixin.qq.com/s/H8guIwQlMoKnN9OI_Om3RA), [2](https://opensource.com/article/19/6/kubernetes-basics)]
 + [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 + Kubernetes系列[[2](https://mp.weixin.qq.com/s/OZGLS0UsN9PiMqMaOzzpJA),[3](https://mp.weixin.qq.com/s/EHoSVCDFZoQar32nkl2-Mw),[4](https://mp.weixin.qq.com/s/ZjqEy4hCnGEcBdVfrFgzRQ)]
-+ [Pod间容器通信 ](https://mp.weixin.qq.com/s/I2qA29Lpkdnowd8Txv7ftg)
++ [Kubernetes网络](https://mp.weixin.qq.com/s/SClypa7ahDtnxsuWZdu8BQ)
+    + [Pod间容器通信](https://mp.weixin.qq.com/s/I2qA29Lpkdnowd8Txv7ftg)
 + [命名空间](https://mp.weixin.qq.com/s/KzhBWfbHDZaqFqN-jUsUCw)
 
 #### use-digest

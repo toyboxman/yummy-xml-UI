@@ -298,62 +298,147 @@ Brownface (and yellowface — imitations of brown and Asian people by light-skin
 He’s losing sleep, wondering how he will cover his loans: about $2,000 monthly for his truck and about $500 for mortgages, while continuing to support his wife and their two children. The chief executive of a high-flying consumer brand is also wondering how long her company’s cash can last. Mr. Ji also grew up poor. Before he turned 10, his staple was sweet potatos; he ate meat only a couple of times a year.
 赵师傅夜不能眠，不知道如何偿还贷款：他每月有1.3万元的卡车贷款和3000多元的房贷，同时还要养活妻子和两个孩子。一名十分成功的消费品牌首席执行官也在想公司的现金还能维持多久. 季先生也是在贫困中长大的。10岁前，他的主食是红薯，一年只能吃上几次肉
 
-When a video of a corgi being beaten by health workers in white hazmat suits went viral, animal rights volunteers leaped into action. Volunteers circulated forms online for residents to sign up for pet care in districts around the city. 
+When a video of a corgi being beaten by health workers in **white hazmat suits went viral**, animal rights volunteers **leaped into action**. Volunteers **circulated forms online** for residents to sign up for pet care in districts around the city. 
+>white hazmat[hæzmæt] suits 白色防护服  
+>leap into action 立即采取行动
+
 当身穿白色防护服的卫生工作者打死一只柯基犬的视频在网上疯传时，动物权利志愿者立即行动起来。志愿者在网上转发表格，居民可以填表报名各区的宠物寄养
 
-Some people, rather than becoming volunteers, are simply providing informal ways to ease the daily stress of life under lockdown in Shanghai, collating useful information and guides online, making refreshments for frazzled neighbors or videos to boost morale. Everyone was tight on resources, but they still fed me from time to time
+Some people, **rather than becoming volunteers**, are simply providing **informal ways to ease the daily stress** of life under lockdown in Shanghai, **collating useful information** and guides online, making refreshments for **frazzled neighbors** or videos to **boost morale**. Everyone **was tight on resources**, but they still **fed me from time to time**
+>informal[ɪnˈfɔrm(ə)l] 不拘礼节的；友好随便的；非正规的；日常的  
+>collate[kəˈˌleɪt] 核对；整理  
+>frazzle[ˈfræz(ə)l] 疲倦；磨损 v.(使)疲倦  
+>boost morale[məˈrɑl] 加油打气  
+>from time to time 有时；不时  
+>be tight on resources 资源紧张
+
 有些人没有去当志愿者，而是用力所能及的方式缓解上海封锁期间的日常压力，他们在网上整理有用的信息和指南，为疲惫的邻居制作茶点或视频来给大家加油打气。大家物资这么紧张，还经常投喂我
 
-Now we need to place greater importance on stabilizing employment,The new round of Covid flare-ups has hit employment quite hard.Two very large, affluent ports, Shenzhen and Ningbo, began on Thursday to give their residents a range of shopping and dining gift certificates with a total value of $122 million. These investments have been a mainstay of past efforts in China to fight economic slowdowns, 
+Now we need to **place greater importance on stabilizing employment**, The new round of Covid **flare-ups has hit employment quite hard**. Two very large, **affluent ports**, Shenzhen and Ningbo, began on Thursday to give their residents **a range of shopping and dining gift certificates** with a total value of $122 million. These investments have been **a mainstay of past efforts** in China to **fight economic slowdowns**
+>flare-up 爆发；突发；复发  
+>affluent[ˈæfluənt] 丰富的；富足的；富有的  
+>dining gift certificates 餐饮消费券  
+>mainstay 支柱；中流砥柱；主心骨
+
 现在我们需要更加重视稳就业，新一轮疫情对就业造成了相当大的冲击。周四，富裕的大型港口城市深圳和宁波开始向民众派发价值8亿元的购物餐饮消费券。这一直是中国以前应对经济放缓努力的主要手段
 
-This week, Volkswagen began gradually reopening its even larger factory complex on Shanghai’s outskirts.But automakers have refrained from predicting when they might reach full production, much less when they might be able to start running the overtime they need to catch up on the output they have lost this spring.
+This week, Volkswagen **began gradually reopening its even larger factory complex** on Shanghai’s **outskirts**.But automakers have **refrained from predicting** when they might reach full production, **much less** when they might be able to start running the overtime they need to **catch up on** the output they have lost this spring.
+>outskirt['aʊtˌskɜːt] 郊区；市郊；外缘  
+>much less/still less 更不用说；何况
+
 本周，大众汽车已开始逐步恢复其位于上海郊区的规模更大工厂的生产。但汽车制造商一直不愿预测可能在什么时候恢复全部产能，更不用说可能在什么时候为弥补今年春天减少的产量开始加班了
 
-China’s logistical challenges are still increasing. Air and rail travel are increasingly paralyzed by the lockdowns, with a knock-on effect on hotels, restaurants and other service sector businesses.Train traffic has also plummeted as cities and provinces discourage visitors from elsewhere in China.
+China’s **logistical challenges** are still increasing. **Air and rail travel are increasingly paralyzed** by the lockdowns, with **a knock-on effect** on hotels, restaurants and other service sector businesses. Train traffic has also **plummeted** as cities and provinces **discourage visitors from elsewhere** in China.
+>knock on effect 连锁影响; 连环冲击效应
+
 中国物流面临的挑战仍在增长。封控让航空和铁路旅行变得越来越难，也对酒店、餐馆和其他服务行业产生了连锁影响。由于各省市不鼓励来自中国其他地方的游客前来，铁路客流量也已大幅下降
 
-The scale of Beijing’s testing program is enormous. Folding tables have been set up every few blocks near large roads. Up to a half-dozen volunteers help to direct residents and take their names, and several medical workers perform the swift oral swabs.
+The scale of Beijing’s testing program is **enormous. Folding tables** have been set up every few blocks near large roads. Up to a half-dozen volunteers help to direct residents and take their names, and several medical workers **perform the swift oral swabs**.
+>folding table 折叠桌  
+>oral swab[swɑb] 咽拭子
+
 北京的检测计划规模巨大。每隔几个街区靠近大马路的位置就会架起折叠桌。每个检测点有多达六名志愿者帮助引导民众并登记他们的名字，几名医务人员则快速进行咽拭子取样。
 
-Using so-called batch testing, numerous swabs are placed in pink liquid in a single test tube and sent to a lab. If the liquid tests positive for the presence of the virus, then the authorities contact each person who had a swab in the tube and conduct intensive nasal P.C.R. testing.
+Using **so-called batch testing, numerous swabs are placed in pink liquid in a single test tube** and sent to a lab. If the liquid tests positive for the presence of the virus, then the authorities contact each person who had a swab in the tube and **conduct intensive nasal** P.C.R. testing.
+>test tube 试管  
+>nasal[ˈneɪz(ə)l] 鼻子的；鼻咽
+
 检测点使用所谓的混采检测，将多个拭子放入一个盛有粉红色液体的试管中，然后送到实验室。如果液体的病毒检测呈阳性，那么当局会联系该试管中的每个拭子的主人，并密集进行鼻拭子核酸检测
 
-The Chinese government will suspend its tariff on imported coal starting on Sunday, a decision that will likely benefit Russia at a time when its coal exports to Europe are being phased out over its invasion of Ukraine.China’s coal imports from Russia did fall back considerably from their peaks last autumn. But the tonnage of imports is still a little higher than a year ago.Many power plants in southern China’s Guangdong Province are essentially locked into buying Indonesian coal
+The Chinese government will **suspend its tariff on** imported coal starting on Sunday, a decision that will **likely benefit** Russia at a time when its coal exports to Europe **are being phased out** over its invasion of Ukraine.China’s coal imports from Russia did **fall back considerably from their peaks** last autumn. But the **tonnage of imports** is still a little higher than a year ago. Many power plants in southern China’s Guangdong Province **are essentially locked into buying** Indonesian coal
+>phase out 使逐步淘汰；逐渐停止；逐步取消  
+>fall back 后退；下降；减少  
+>tonnage[ˈtʌnɪdʒ] 吨位；排水量  
+>lock into 锁定
+
 中国政府将从周日开始暂停对进口煤炭征收关税，由于入侵乌克兰，俄罗斯对欧洲的煤炭出口正被逐步叫停，中国的这一决定可能使俄罗斯受益。从俄罗斯进口的煤炭确实较去年秋季的峰值大幅回落。但进口量仍略高于一年前,中国南方广东省的许多发电厂基本上都不得不在印尼购买煤炭
 
-For two decades, journalists and officials, in concert with the Kremlin, have merrily spread disinformation. However far-fetched or fantastical. It was Western military activity that had turned Ukraine into an anti-Russia, harboring enemies aiming at Russian humiliation. In this line of thinking, opposition forces were a fifth column infiltrating the otherwise pure motherland
+For two decades, journalists and officials, **in concert with** the Kremlin, have **merrily spread disinformation**. However **far-fetched or fantastical**. It was Western military activity that had turned Ukraine into an anti-Russia, **harboring enemies aiming at Russian humiliation**. In this line of thinking, opposition forces were **a fifth column infiltrating** the otherwise pure motherland
+>fifth column 第五纵队(为所在国家或组织的敌人秘密工作的一群人)  
+>in concert with 和...相呼应；与…合作  
+>merrily[ˈmerəli] 欢乐地；快乐地  
+>far-fetched 难以置信的；牵强的  
+>fantastical[fænˈtæstɪk] 空想的；奇异的；异想天开的；捕风捉影的  
+>harbor 藏匿；窝藏罪  
+
 二十年来，记者和官员配合克里姆林宫，乐此不疲地散布虚假信息。无论多么牵强或荒诞. 正是西方的军事活动使乌克兰变成了一个反俄国家，窝藏着要来羞辱俄罗斯的敌人.在这种思路中，反对派像是第五纵队，渗透到原本纯洁的祖国
 
-Russian intelligence had obtained evidence that America and Ukraine were developing biological weapons — in the form of disease-ridden bats and birds — to spread viruses in Russia. The Ministry of Defense suggested it had unearthed documents that confirmed the collaboration.
+Russian intelligence had **obtained evidence** that America and Ukraine **were developing biological weapons — in the form of disease-ridden bats** and birds — to spread viruses in Russia. The Ministry of Defense suggested it had **unearthed documents** that confirmed the collaboration.
+>disease-ridden 带病的  
+>unearth 发现；揭露；找到；使出土
+
 俄罗斯情报获得的证据表明，美国和乌克兰正在开发生物武器——以带病的蝙蝠和鸟的形式——在俄罗斯传播病毒。国防部表示，他们已经发现了证实这一合作的文件
 
-Hepatitis is a broad term used to describe inflammation of the liver, an organ that carries out hundreds of essential functions every day, from aiding digestion to clearing toxins from the blood. When the liver is inflamed or damaged, it is unable to perform many of those tasks.“Acute” hepatitis refers to inflammation that comes on relatively quickly and does not last more than six months. It can be severe and lead to liver failure
+Hepatitis is **a broad term used to describe inflammation of the liver**, an organ that **carries out hundreds of essential functions** every day, from **aiding digestion to clearing toxins from the blood**. When the liver is **inflamed or damaged**, it is unable to perform many of those tasks.**“Acute” hepatitis** refers to inflammation that **comes on relatively quickly** and does not last more than six months. It can be severe and lead to **liver failure**
+>inflammation[ˌɪnfləˈmeɪʃ(ə)n] 炎症；发炎  
+>acute[əˈkjut] 十分严重的；(疾病)急性的；灵敏的；敏锐的  
+
 肝炎是一个宽泛的术语，用来描述肝脏的炎症。肝脏每天承担数百项基本功能，从帮助消化到清除血液中的毒素。当肝脏发炎或受损时，许多任务就无法完成。“急性”肝炎是指相对较快的炎症，持续时间不超过六个月。它可能会很严重，导致肝功能衰竭
 
-Hepatitis symptoms are wide-ranging and overlap with many common illnesses. A child with hepatitis may experience fever (low-grade or more significant), fatigue, joint or muscle pain, loss of appetite or nausea, diarrhea and vomiting. Children may also have abdominal pain or tenderness, particularly in the right upper abdomen, which is where the liver is located
+**Hepatitis symptoms are wide-ranging and overlap** with many common illnesses. A child with hepatitis may **experience fever (low-grade or more significant), fatigue, joint or muscle pain, loss of appetite or nausea, diarrhea and vomiting**. Children may also have **abdominal pain or tenderness**, particularly in the **right upper abdomen**, which is where the liver is located
+>wide-ranging 覆盖面广的；内容广泛的  
+>nausea[ˈnɔʃə] 恶心；反胃；作呕  
+>diarrhea[ˌdaɪəˈriə] 腹泻; 拉肚子；痢疾  
+>abdominal[æbˈdɑmɪn(ə)l] 腹部的 n.腹肌  
+>tenderness['tendənɪs] 压痛；柔和; 温柔  
+>abdomen[æbˈdoʊmən] 肚子；下腹部
+
 肝炎症状广泛，并与许多常见疾病重叠。患有肝炎的儿童可能会出现发烧（低烧或更严重）、疲劳、关节或肌肉疼痛、食欲不振或恶心、腹泻和呕吐。 儿童也可能出现腹部疼痛或压痛，尤其是在右上腹，也就是肝脏所在的位置
 
-Even Jeff Bezos, the founder of Amazon and one of Mr. Musk’s biggest rivals in tech, space and now media, weighed in — on Twitter — to question potential sway over the platform. Even Mr. Bezos amended his post about potential leverage over Twitter to suggest that Mr. Musk could deftly strike a balance. Musk is extremely good at navigating this kind of complexity
+Even Jeff Bezos, the founder of Amazon and one of Mr. Musk’s **biggest rivals in tech**, space and now media, **weighed in** — on Twitter — to **question potential sway** over the platform. Even Mr. Bezos **amended his post about potential leverage** over Twitter to suggest that Mr. Musk could **deftly strike a balance**. Musk **is extremely good at navigating** this kind of complexity
+>weigh in 参加；介入  
+>sway 影响；摇摆  
+>deftly[deftlɪ] 灵巧地；轻巧地；熟练的  
+>strike a balance 结账；衡量得失; 冲帐；取得平衡
+
 就连亚马逊创始人、马斯克在科技、太空和现在的媒体领域最大的竞争对手之一杰夫·贝佐斯也在Twitter上质疑对该平台的潜在影响力.甚至贝佐斯也修改了他关于对Twitter的潜在影响力的帖子，暗示马斯克可以巧妙地取得平衡。马斯克非常擅长驾驭这种复杂性，
 
-Undaunted, China’s government redoubled its efforts when the coronavirus pandemic began. 
+**Undaunted**, China’s government **redoubled its efforts** when the coronavirus pandemic began. 
+>undaunted[ʌnˈdɔntəd] 无畏的；勇敢的；不屈不挠的  
+>redouble efforts 加倍努力
+
 当新冠病毒大流行开始时，中国政府毫不气馁，加倍努力。
 
-With Mr. Musk planning to take the company private, there is less prerogative to respond to such inquiries. Twitter has never been a place for rational, nuanced speech. Expect it to get much, much worse. the company thinks the social media company would be best served by the ownership of a man who uses the platform to slime his critics, body-shame people, defy securities laws and relentlessly hawk cryptocurrencies.
+With Mr. Musk planning to take the company private, there is **less prerogative** to respond to such inquiries. Twitter has never been a place for **rational, nuanced speech**. Expect it to get much, much worse. the company thinks the social media company would be best served by the ownership of a man who uses the platform to **slime his critics, body-shame people, defy securities laws and relentlessly hawk cryptocurrencies**.
+>nuanced['njuːɑːnst] 细致入微的  
+>slime[slaɪm] 史莱姆；(尤指蛇吞蛙等时)分泌黏液使黏滑；清除黏液[稀泥等]   
+>hawk[hɔk] 沿街叫卖；鹰；隼；鹰派分子
+
 由于马斯克计划将公司私有化，届时公司就没有太多对这类质疑做出反应的义务了. Twitter从来不是一个发表理性、细致言论的地方。情况有可能会变得更糟.该公司最好由一个使用该平台来污蔑其批评者、对他人进行身体羞辱、藐视证券法和肆无忌惮地兜售加密货币的人拥有
 
-According to a civil suit filed by the California Department of Fair Employment and Housing in California Superior Court in Alameda County, Mr. Musk told workers to be “thick skinned” about suffering racist harassment while on the job. Tesla has denied the allegations. No wonder many Twitter employees are aghast at the prospect of Mr. Musk leading the company.
+According to a civil suit filed by the California Department of Fair Employment and Housing in California Superior Court in Alameda County, Mr. Musk told workers to be “**thick skinned**” about **suffering racist harassment while on the job**. Tesla has denied the allegations. No wonder many Twitter employees are **aghast at the prospect of** Mr. Musk leading the company.
+>thick skinned 厚皮的；脸皮厚的  
+>aghast[əˈɡæst] 吓呆的；惊骇的；吃惊的  
+
 根据加州公平就业和住房部在阿拉米达县加州高等法院提交的民事诉讼，马斯克告诉员工们，在工作期间遭受种族主义骚扰时要“脸皮厚”。特斯拉否认了这些指控. 难怪许多Twitter员工对马斯克领导该公司的前景感到惊恐万分
 
-Before and after the Jan. 6 attack on the Capitol, Donald Trump used Twitter to whip his followers into a frenzy. Into that toxic stew comes Mr. Musk. Loosening content moderation, as Mr. Musk appears poised to do, won’t make Twitter a better place; that will make it far more toxic. Under the notion that more speech is the best antidote to harmful speech, earnest users can probably expect to be shouted down even more frequently by trolls and bots.
+Before and after the Jan. 6 attack on the Capitol, Donald Trump used Twitter to **whip his followers into a frenzy**. Into that **toxic stew** comes Mr. Musk. **Loosening content moderation**, as Mr. Musk **appears poised to do**, won’t make Twitter a better place; that will make it far more toxic. **Under the notion** that more speech is the best **antidote** to harmful speech, **earnest users** can probably expect to be **shouted down** even more frequently by **trolls and bots**.
+>whip in 用鞭子召集(猎狗)；召集(议员); 驱赶  
+>stew[stu] 炖菜；焖；烩  
+>toxic stew 有毒的大杂烩  
+>content moderation 内容的节制  
+>under the notion 在..观念之下  
+>antidote[ˈæntɪˌdoʊt] 解药；解毒物  
+>earnest[ˈɜrnɪst] 诚恳的；热心的；诚挚的  
+>troll 巨怪；恶意挑衅的帖子  
+>bot[bɑt] 网上机器人
+
 1月6日国会大厦遇袭前后，唐纳德·特朗普利用Twitter让自己的追随者陷入疯狂。马斯克也加入了这个有毒的大杂烩。马斯克似乎准备放松对内容的节制，但这不会让Twitter变得更好；这将会令它的毒性更大。在“更多言论是有害言论的最佳解药”观念之下，认真用户的声音可能会更频繁地被喷子和机器人水军盖住
 
-Female Twitter users, in particular, ought to worry about whether Mr. Musk will bring his apparent disdain for women to the company he is about to own. And the whole world should be concerned that Mr. Musk might reinstate Mr. Trump, who has so adroitly used social media platforms to spread dangerous Covid misinformation, mock his enemies and cast doubt on the integrity of free and fair elections. but, of course, the former president has reneged on many promises.
+Female Twitter users, **in particular, ought to worry about** whether Mr. Musk will bring his **apparent disdain** for women to the company he is about to own. And the whole world should be concerned that Mr. Musk might **reinstate Mr. Trump**, who has so **adroitly used** social media platforms to spread dangerous Covid misinformation, mock his enemies and **cast doubt on** the integrity of free and fair elections. but, of course, the former president has **reneged on many promises**.
+>ought[ɔt] 应该；本应；早应该  
+>disdain[dɪsˈdeɪn] v./n. 蔑视；鄙视  
+>adroit[əˈdrɔɪt] 灵巧的；熟练的  
+>renege[rɪˈnɪɡ] 违背；背信弃义；食言
+
 女性Twitter用户尤其应该担心的是，马斯克是否会把他对女性明显的蔑视带到他即将拥有的公司。全世界都应该担心，马斯克可能会让特朗普回来。特朗普熟练地利用社交媒体平台传播危险的新冠不实信息，嘲笑他的敌人，并对自由和公平选举的公正性发出质疑。但是，当然，这位前总统曾经违背过很多承诺
 
-Meta, under Mark Zuckerberg’s leadership, has overlooked evidence that hurtful comments on the company’s platforms caused emotional harm to teenagers and increased users’ anxiety and anger. The company knows its algorithms are deeply flawed, but because Mr. Zuckerberg holds a controlling share of votes on the board, external and internal pressure on the company to change how they are designed and deployed has proved futile.
+Meta, under Mark Zuckerberg’s leadership, has **overlooked evidence that hurtful comments** on the company’s platforms **caused emotional harm** to teenagers and increased users’ anxiety and anger. The company knows its algorithms **are deeply flawed**, but because Mr. Zuckerberg holds a controlling share of votes on the board, external and internal pressure on the company to change how they are designed and deployed has **proved futile**.
+>futile[ˈfjut(ə)l] 徒然的；徒劳的；无效的；无用的
+
 在马克·扎克伯格领导下，Meta忽视了一些表明该公司平台上的伤人言论对青少年造成情感伤害、增加用户焦虑和愤怒的证据。该公司知道自己的算法存在严重缺陷，但由于扎克伯格在董事会中拥有控股权，外界和内部要求该公司改变算法设计和部署方式的压力被证明是徒劳的
 
-As with the motives for establishing those competitors, Mr. Musk’s reasons for taking control of Twitter aren’t about free speech; it’s about controlling a megaphone.
+As with the **motives for establishing those competitors**, Mr. Musk’s **reasons for taking control of** Twitter aren’t about free speech; it’s about **controlling a megaphone**.
+>megaphone 扩音器；喇叭筒；传声筒 v.用喇叭筒喊话；广泛宣传
+
 与建立这些竞争对手的动机一样，马斯克控制Twitter的原因不是为了言论自由；而是为了控制一个传声筒
