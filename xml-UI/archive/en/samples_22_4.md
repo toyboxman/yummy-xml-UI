@@ -247,55 +247,145 @@ Unfortunately, I see the Ukrainian military command acting an order of magnitude
 China’s chosen economic path is hugely energy-intensive. It requires vast amounts of electricity, and, to produce that electricity, China is betting on coal. The really big push, however, is to build new mines and expand existing mines, at a truly mind-melting scale.
 中国选择的经济道路是高度能源密集型的，需要大量电力。为了生产这些电力，中国将赌注押在了煤炭上。然而，真正的大手笔是建设新矿和扩大现有矿，规模之大令人震惊
 
-In the besieged southern port city of Mariupol, which has become a potent emblem of the human toll of war, a Russian strike on March 16 destroyed a theater where hundreds of people had been sheltering, including children.
+In the **besieged southern port city** of Mariupol, which has become **a potent emblem of the human toll** of war, a Russian strike on March 16 destroyed a theater where hundreds of people had **been sheltering**, including children.
+>emblem[ˈembləm] 象征；标志；标记 v.用图案[符号]表示  
+>potent 有强效的；有力的；强有力的；有效的  
+
 被围困的南部港口城市马里乌波尔凸显了战争给人造成的创伤，俄军在3月16日的一次袭击摧毁了一座剧院，那里是包括儿童在内的数百人的避难地
 
-In the third novella, “Moses on the Plain,” a tutor invokes the reprisals of Exodus to comfort her student: “As long as what’s in your heart is genuine and sincere, the mountains and oceans will part for you, and the people coming after you, the ones who didn’t make space for you, will all get punished.” 
+In the **third novella**, “Moses on the Plain,” a **tutor invokes the reprisals of Exodus** to comfort her student: “As long as what’s in your heart is genuine and sincere, **the mountains and oceans will part for you**, and the people **coming after** you, the ones who didn’t **make space for you**, will all get punished.” 
+>novella[noʊˈvelə] 中篇小说  
+>reprisal[rɪˈpraɪz(ə)l] 报复
+
 在第三个中篇小说《平原上的摩西》中，一位老师援引《出埃及记》中的报复行为来安慰她的学生：“只要你心里的念是真的，只要你心里的念是诚的，高山大海都会给你让路，那些驱赶你的人，那些容不下你的人，都会受到惩罚。”
 
-Rather, it would be more like Le Pen, as president, making it more difficult for the E.U. and the U.S. to agree on a new posture — a new package of sanctions, and to agree within NATO on what we need to do on the eastern flank
+**Rather**, it would be more like Le Pen, as president, making it more difficult for the E.U. and the U.S. to **agree on a new posture — a new package of sanctions**, and to agree within NATO on what we need to do **on the eastern flank**
+>a package of sanctions 一揽子制裁措施
+
 相反，更有可能是勒庞作为总统，让欧盟更难和美国就新的姿态——新的一揽子制裁措施，并在北约内部就我们需要在东面采取的行动——达成一致
 
-Once proxy battlegrounds for superpowers, swaths of Africa, Asia and Latin America are staking their independence. The return of a bloc of nonaligned nations harks back to a period in which leaders of the post-colonial movement resisted having their destinies shaped by imperialism. 
+Once **proxy battlegrounds** for superpowers, **swaths of** Africa, Asia and Latin America **are staking their independence**. The return of a bloc of **nonaligned nations harks back to** a period in which leaders of the **post-colonial movement** resisted **having their destinies shaped by imperialism**.
+>swath[swɑθ] 割下的一行草[麦]；(镰刀的)一挥  
+>nonaligned nations 不结盟国家  
+>hark[hɑrk] 倾听；重提  
+>hark back (猎狗)循原路重找嗅迹；回到原处; 重提旧事；言归正传  
+
 非洲、亚洲和拉丁美洲曾经是超级大国的代理战场，这三大洲的许多国家现在纷纷亮出自己的独立性。不结盟国家集团的回归，让人回想起后殖民运动领导人拒绝让帝国主义主宰命运的时期
 
-Without a doubt, the countries of Southeast Asia don’t want to be pulled into a new Cold War or be forced to take sides in any great power competition, As they say in Southeast Asia, when the elephants fight, the grass gets trampled.
+**Without a doubt**, the countries of Southeast Asia don’t want to **be pulled into** a new Cold War or **be forced to take sides** in any great power competition, As they say in Southeast Asia, **when the elephants fight, the grass gets trampled**.
+>whithout a doubt 毫无疑问  
+>trample[ˈtræmp(ə)l] 践踏；踩伤；摧残(人权、心灵等) n.践踏；践踏声  
+>when the elephants fight, the grass gets trampled 当大象打架时，遭殃的是草
+
 毫无疑问，东南亚国家不想卷入新冷战，或者被迫在任何大国竞争中选边站队，正如他们在东南亚的一句谚语，当大象打架时，遭殃的是草
 
-The crux of the matter is that African countries feel infantilized and neglected by Western countries, which are also accused of not living up to their soaring moral rhetoric on sovereignty and territorial sanctity, Other U.S. allies have characterized their decision to diversify as a function of American absenteeism.
+The **crux of the matter** is that African countries **feel infantilized and neglected** by Western countries, which **are also accused of not living up to** their **soaring moral rhetoric** on sovereignty and **territorial sanctity**, Other U.S. allies have **characterized their decision to diversify** as a function of American **absenteeism**.
+>neglect [nəˈɡlekt] 忽视；忽略  
+>crux[krʌks] 症结; 关键；难题  
+>infantilize[ɪn'fæntɪlaɪz] 当作幼儿对待  
+>live up to 够得上；达到预期标准; 不辜负；符合；履行  
+>soaring 高耸云霄的(尖塔等)；高超的(思想等); 猛增的；不断上升的  
+>soaring moral rhetoric 高呼的道德言论  
+>sanctity[ˈsæŋktəti] 神圣不可侵犯；神圣性；圣洁性; 尊严  
+>characterize 表示…的特性；刻画··的性格；特征化  
+>diversify[daɪˈvɜrsɪfaɪ] 从事多种经营；扩大业务范围; 使多样化；使变化  
+>absenteeism[ˌæbsənˈtiˌɪzəm] 旷工；旷课; 缺勤
+
 问题的症结在于，非洲国家觉得自己被西方国家当小朋友对待，遭到了它们的忽视，还指责西方国家没有履行他们高呼的关于主权和领土神圣性的道德言论, 其他美国盟友将分散风险的决定归咎于美国缺席
 
-Deft diplomacy allowed Thailand to emerge as the only nation in the region not to be colonized. The current drift away from the United States, which used Thailand as a staging ground for the Vietnam War, also stems from the political pedigree of Prime Minister Prayuth Chan-ocha, Though Thailand may currently appear as a democracy, it is at heart an autocracy
+**Deft diplomacy** allowed Thailand to emerge as the only nation in the region not to **be colonized**. The current **drift away from** the United States, which used Thailand as **a staging ground** for the Vietnam War, also **stems from the political pedigree** of Prime Minister Prayuth Chan-ocha, Though Thailand may currently appear as a democracy, it is **at heart** an autocracy
+>deft 熟练的；灵巧的；机敏的；有技巧的  
+>drift away 背离; 渐行渐远；游离  
+>drift 漂移；缓缓移动 n.趋势；大意；要点；流动  
+>staging ground 集结地；跳板  
+>pedigree[ˈpedɪˌɡri] 家谱；世系；门第；adj.优良品种的；纯种的   
+>at heart 本质上；实质上
+
 灵活的外交手腕曾使泰国成为该地区唯一没有遭受殖民的国家。美国曾把泰国作为越南战争的集结地，目前两国关系的疏远也源于泰国总理巴育·占奥差的政治血统，尽管泰国目前可能是一个民主国家，但它本质上是一个专制国家
 
-But if the world feels more comfortably multipolar these days, the ripple effects of the fighting in Ukraine are a reminder that globalization quickly links far-flung nations. Escalating global prices for fuel, food and fertilizer, all a result of war in Ukraine, have heightened hardship in Africa and Asia. 
+But if the world **feels more comfortably multipolar** these days, the **ripple effects** of the fighting in Ukraine are a reminder that globalization quickly links **far-flung nations**. Escalating global prices for fuel, food and **fertilizer**, all a result of war in Ukraine, have **heightened hardship** in Africa and Asia. 
+>ripple effect 连锁反应; 涟漪效应  
+>fling (马的)跳；攻击；跳舞 v.扔；摔下；猛冲；抛；掷 Past Tense：flung  
+>far-flung 遥远的；分布广的；广泛的; 漫长的；辽阔的
+
 但是，如果说当今世界更喜欢多极化，那么乌克兰战争的涟漪效应提醒我们，全球化迅速将遥远的国家联系到了一起。乌克兰战争导致全球燃料、食品和化肥价格不断上涨，加剧了非洲和亚洲的困境
 
-The trip by Mr. Austin and Mr. Blinken was scripted to make the case that while on paper the Russians have the advantage, the odds actually favor the Ukrainians, largely because they have the motivation to preserve their homeland.
+The trip by Mr. Austin and Mr. Blinken **was scripted to** make the case that **while on paper** the Russians have the advantage, **the odds actually favor** the Ukrainians, **largely** because they have the motivation to **preserve their homeland**.
+>be scripted to 要做..; 目的是  
+>make the case that 说明；证明  
+>on paper 理论上；在名义上    
+>odds[ɑdz] 可能性；胜算；机会；几率  
+
 奥斯汀和布林肯此行的目的是为了说明，虽然俄罗斯人在理论上更有优势，但实际上乌克兰更有胜算，主要是因为他们有保护自己家园的动机
 
-It is clear that Russia has been working hard to create a pretext for being able to invade further. We’ve been all over the place on Ukraine,I think we need to re-articulate why Ukraine matters, If tomorrow, Russia goes into Crimea, no one will raise an eyebrow
-很明显，俄罗斯一直在极力制造借口，以便进一步入侵。在乌克兰问题上，我们始终变来变去，我认为我们需要重新阐明乌克兰为何如此重要， 如果俄罗斯明天就进入克里米亚，没人会大惊小怪
+It is clear that Russia has been working hard to **create a pretext** for being able to invade further. We’ve **been all over the place** on Ukraine,I think we need to **re-articulate why Ukraine matters**, If tomorrow, Russia goes into Crimea, no one will **raise an eyebrow**
+>pretext 借口；托辞 v.借口  
+>all over the place 到处都是；四处；各处，满地  
+>articulate[ɑrˈtɪkjuleɪt] 说；表达；清晰认真地发音；adj.明白的；音节分明的  
+>raise eyebrow 大吵大闹；使…大为惊诧
 
-It’s nothing less than a direct challenge to the rule-based international order established since the end of World War II, Mr. Putin’s swift actions caught President Barack Obama off guard. Any aid is likely to be matched and then doubled and tripled and quadrupled by Russia.
+很明显，俄罗斯一直在极力制造借口，以便进一步入侵。在乌克兰问题上，我们始终变来变去，我认为我们需要重新阐明乌克兰为何如此重要，如果俄罗斯明天就进入克里米亚，没人会大惊小怪
+
+It’s **nothing less than** a direct challenge to the **rule-based international order** established since the end of World War II, Mr. Putin’s **swift actions caught President Barack Obama off guard**. Any aid **is likely to** be matched and then **doubled and tripled and quadrupled** by Russia.
+>nothing less than 完全是；不亚于；简直是  
+>catch off guard 吓到某人；使措手不及  
+>quadruple[ˈkwɑdrʊp(ə)l] 四倍 adj.四方面的；四倍的 v.使变为四倍
+
 这简直是对‘二战’结束以来建立的以规则为基础的国际秩序的直接挑战,普京的果断行动让奥巴马总统措手不及。任何援助都可能会让俄罗斯拿出对等行动，然后翻倍、三倍、四倍加码
 
-It was hard to reconcile the time and energy required to lead the diplomacy on Ukraine with the demands on the United States elsewhere around the world
+It was hard to **reconcile the time and energy** required to lead the diplomacy on Ukraine with the demands on the United States **elsewhere around the world**
+>reconcile[ˈrekənˌsaɪl] 使和谐一致；使配合；使和解  
+
 在乌克兰问题上开展外交活动所需的时间和精力，与美国在世界其他地区需要进行的投入难以协调
 
-It was a crystallizing moment for Mr. Zelensky’s government, ensuring a wide array of agencies kept running efficiently and in sync. No senior officials defected or fled, and the bureaucracy quickly went onto a war footing.
+It was a **crystallizing moment** for Mr. Zelensky’s government, **ensuring a wide array of** agencies kept running efficiently and **in sync**. No senior officials **defected or fled**, and the bureaucracy quickly **went onto a war footing**.
+>crystallizing 明确化的,具体化的    
+>keep in sync 保持一致；使协调    
+>defect 缺陷；缺点；v.叛变；背叛  
+>war footing 战时编制；战时体制; 备战状态
+
 对泽连斯基政府而言，这是一个见真章的时刻，确保了各个机构保持高效协调运转。没有任何高级官员叛逃，整个官僚机构迅速进入战时状态
 
-The Hong Kong supernatural anthology TV series has an eye-catching name, “Barrack O’Karma 1968,” and an eyebrow-raising plot. A Filipino domestic worker, navigating deceit, discrimination and accusations of voodoo, is transformed by her seemingly well-intentioned employers into a Cantonese-speaking surrogate daughter.
+The Hong Kong **supernatural anthology TV series** has an **eye-catching name**, “Barrack O’Karma 1968,” and an **eyebrow-raising plot**. A Filipino domestic worker, **navigating deceit, discrimination and accusations of voodoo**, is transformed by her **seemingly well-intentioned** employers into a **Cantonese-speaking surrogate daughter**.
+>supernatural 超自然力量；神奇怪异的事; adj.超自然的；神奇的；  
+>anthology[ænˈθɑlədʒi] 文选；诗集；文集  
+>eye-catching 惹人注意的；引人注目的  
+>eyebrow-raising 让人惊奇的  
+>deceit[dɪˈsit] 欺骗；诡计  
+>voodoo 对…施行巫术; 巫毒  
+>well-intentioned 好意的；出于善意的；出于好心的  
+>surrogate[ˈsʌrəɡət] 代理；n.代理人；adj.替代的  
+>surrogate daughter 养女
+
 香港奇幻单元剧《金宵大厦2》(Barrack O’Karma 1968)的名字引人注目，情节更是令人咋舌。一名菲佣深陷欺骗、歧视和巫术的指控，被看似好意的雇主改造成一个说粤语的养女
 
-Using brownface in this way for a plotline and assuming that all Filipinos are a certain color perpetuate odious stereotypes, critics say.
+Using brownface in this way for a **plotline** and assuming that all Filipinos are a certain color **perpetuate odious stereotypes**, critics say.
+>plotline 情节主线；情节主轴  
+>odious[ˈoʊdiəs] 令人作呕的；令人讨厌的；可憎的; 可恶的；可恨的  
+>stereotype[ˈsteriəˌtaɪp] 刻板印象；adj.固定不变的；陈规旧套的；v.对…形成模式化的看法  
+
 批评人士说，以这种方式在情节中使用棕色面孔，并假设所有菲律宾人都是某种肤色，会让人产生负面的刻板印象。
 
-Brownface (and yellowface — imitations of brown and Asian people by light-skinned performers) evolved from the racist vaudeville tradition of blackface, a staple of American minstrel shows in the early 1800s. Asian countries have had a history of perpetuating colorism, in which the preference for lighter skin is imbued in cultural and social mores. Cosmetic companies have been criticized for selling skin-lightening creams. 
+Brownface (and yellowface — **imitations** of brown and Asian people by **light-skinned performers**) evolved from the **racist vaudeville tradition** of blackface, **a staple of American minstrel shows** in the early 1800s. Asian countries have had a history of **perpetuating colorism**, in which the preference for lighter skin **is imbued in** cultural and social mores. **Cosmetic companies** have been criticized for selling **skin-lightening creams**. 
+>skin-lightening cream 美白霜  
+>imitation[ˌɪmɪˈteɪʃ(ə)n] 模仿；仿制品；赝品  
+>light-skinned 浅肤色的；肤色较浅的  
+>vaudeville[ˈvɔd(ə)ˌvɪl] 歌舞杂耍表演  
+>a staple of 主要的部分  
+>minstrel[ˈmɪnstrəl] 吟游诗人；游方艺人  
+>perpetuating 长久的; 长期的  
+>perpetuate[pərˈpetʃueɪt] 使永久化；使持续；使不朽；使永存  
+>imbue[ɪmˈbju] 灌输; 浸透；使充满  
+>cosmetic[kɑzˈmetɪk] 化妆品；美容品 adj.装门面的；表面的；整容的
+
 涂棕脸（还有涂黄脸——由浅肤色的表演者模仿棕色人种和亚裔）是从种族主义杂耍表演传统“涂黑脸”演变而来，后者是19世纪初美国吟游艺人表演的主要内容, 亚洲国家长期存在肤色歧视，对浅肤色的偏爱渗透在文化和社会习俗中。化妆品公司因销售美白霜而受到批评
 
-He’s losing sleep, wondering how he will cover his loans: about $2,000 monthly for his truck and about $500 for mortgages, while continuing to support his wife and their two children. The chief executive of a high-flying consumer brand is also wondering how long her company’s cash can last. Mr. Ji also grew up poor. Before he turned 10, his staple was sweet potatos; he ate meat only a couple of times a year.
+He’s **losing sleep, wondering how he will cover his loans**: about $2,000 monthly for his truck and about $500 for **mortgages, while continuing to support** his wife and their two children. The chief executive of **a high-flying consumer brand** is also wondering how long her company’s cash can last. Mr. Ji also **grew up poor**. Before he turned 10, **his staple was sweet potatos**; he **ate meat only a couple of times** a year.
+>high-flying 十分成功的；雄心大志的  
+>consumer brand 消费品牌  
+>sweet potato 红薯  
+>staple[ˈsteɪp(ə)l] 主食；订书钉 v.装订 adj.最重要的
+
 赵师傅夜不能眠，不知道如何偿还贷款：他每月有1.3万元的卡车贷款和3000多元的房贷，同时还要养活妻子和两个孩子。一名十分成功的消费品牌首席执行官也在想公司的现金还能维持多久. 季先生也是在贫困中长大的。10岁前，他的主食是红薯，一年只能吃上几次肉
 
 When a video of a corgi being beaten by health workers in **white hazmat suits went viral**, animal rights volunteers **leaped into action**. Volunteers **circulated forms online** for residents to sign up for pet care in districts around the city. 
