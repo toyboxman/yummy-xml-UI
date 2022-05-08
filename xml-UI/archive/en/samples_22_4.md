@@ -196,55 +196,135 @@ So I pity the commander who had to tell Putin that Russia’s meanest, monstrous
 His online business selling green bean cake — a local specialty — was suffering from China’s rolling restrictions. Every aspect of business is affected by the pandemic, It’s tough, but it is what it is.
 他在网上销售当地特产绿豆糕的生意正受到中国各地纷纷封控的影响。疫情就生意各个方面都受到影响，难是挺难，但没办法
 
-China’s economy expanded 4.8 percent in the first three months of this year compared to the same period last year. That pace was barely faster than the final three months of last year, and it also obscured a looming problem.
+China’s economy **expanded 4.8 percent** in the first three months of this year **compared to** the same period last year. That pace **was barely faster than** the final three months of last year, and it also **obscured a looming problem**.
+>barely 仅仅；刚刚; 勉强; 几乎不；几乎没有   
+>obscure [əbˈskjʊr] 朦胧；黑夜 adj.无名的；鲜为人知的；费解的；难以理解的 v.使模糊；使隐晦
+
 今年前三个月，中国经济同比增长4.8%。这一增速仅比去年最后三个月略快，它还掩盖了一个迫在眉睫的问题
 
-Their plans were bold, with no room for devastation. A friend had helped him land a job manning the fry station at a Chinese restaurant there. He was eager to start, and it came with free housing.
+Their plans **were bold**, with **no room for devastation**. A friend had helped him **land a job manning the fry station** at a Chinese restaurant there. He **was eager to** start, and it **came with free housing**.
+>no room for devastation 不容破坏   
+>land a job 找到了一份工作  
+>come with 伴随…发生；与……一起来  
+
 他们的计划很大胆，不容破坏。一个朋友帮他在那里的一家中餐馆找到了一份工作，负责油炸食物。他急于开始工作，而且还有免费住房。
 
-It was the bond between them that softened the landing. Mr. Gao had always liked how Ms. Ma was gentle but spirited. She had been the kind of girl who preferred sledding with the boys over jumping rope. In turn, she admired his humility and honesty, and how he cared for his younger brother and sister. They saw each other as equals, co-conspirators in a simple life.
+It was the **bond between them that softened the landing**. Mr. Gao had always liked how Ms. Ma was **gentle but spirited**. She had **been the kind of** girl who **preferred sledding with** the boys over **jumping rope**. In turn, she **admired his humility and honesty**, and how he **cared for** his younger brother and sister. They saw each other as equals, **co-conspirators** in a simple life.
+>soften the landing 使得安家变得轻松  
+>spirited[ˈspɪrɪtəd] 生气勃勃的；活泼的；英勇的  
+>humility[hjuˈmɪləti] 谦逊；谦虚  
+>care for 照顾；关心；喜欢  
+>co-conspirators 共谋犯
+
 他们之间的纽带使得安家变得轻松了许多。高占新一直很喜欢马桂英温柔活泼的样子。她以前是那种喜欢和男孩子一起玩雪橇而不是跳绳的女孩。反过来，她也钦佩他的谦虚诚实，以及他对弟弟和妹妹的关心。他们把对方看作是平等的，是简单生活里的同谋者
 
-To drown his guilt during sleepless nights, he kept the television on, tuned to various Chinese dramas. If a medical scene appeared, he cried. His smoking increased to a pack a day, and he grew gaunt, eating mostly rice with eggs, one of the few meals he knew how to cook. 
+To **drown his guilt during sleepless nights**, he kept the television on, tuned to **various Chinese dramas**. If a **medical scene appeared**, he cried. His smoking **increased to a pack a day**, and he **grew gaunt, eating mostly rice with eggs**, one of the few meals he knew how to cook. 
+>gaunt[ɡɔnt] 瘦削憔悴的；寒碜的；破败的；荒凉的；骨瘦如柴的  
+>rice with eggs 蛋炒饭
+
 为了在那些不眠之夜里淹没自己的负罪感，他一直开着电视，换台看各种中国电视剧。如果电视剧里出现医疗场景，他会哭。他的吸烟量增加到每天一包，他变得憔悴，主要吃蛋炒饭，这是他会做的少数几道菜之一
 
-Western politics is overrun by people who playact as statesmen so that they may ultimately become celebrities. Zelensky has made a point of telling Ukrainians the hard truth that the war is likely to get worse — and of telling off supposed well-wishers that their words are hollow and their support wanting. Western leaders mainly specialize in telling people what they want to hear.
+Western politics **is overrun** by people who **playact as statesmen** so that they may **ultimately become celebrities**. Zelensky has **made a point of telling** Ukrainians the hard truth that the war is likely to get worse — and of **telling off supposed well-wishers** that **their words are hollow and their support wanting**. Western leaders **mainly specialize in** telling people what they want to hear.
+>overrun 泛滥；横行；肆虐；多用(时间、钱财等) n.猖獗；泛滥成灾；蔓延  
+>play-act 演戏；做作  
+>statesman 政治家  
+>make a point of 主张；重视；强调；努力；决心  
+>tell off 分派(工作)；斥责；责备  
+>wanting 缺乏的；不足的  
+>specialize in 专攻；专门研究；专门经营；专门从事  
+
 西方政治中充斥着那些假扮政治家的人，以为那会让他们最终成为名人。泽连斯基坚持把战争可能会恶化的残酷事实告诉乌克兰人民，并斥责那些所谓表示祝福的人，把他们的话称为空话，批评他们的支持有名无实。西方的领导人却主要擅长说人民想听的话
 
- The power of the state exists first and foremost to protect the rights of the individual. And the responsibility is to aid and champion any of its members menaced by invasion and tyranny. As it goes for Ukraine, so, eventually, it will go for the rest of us.
+ The power of the state exists **first and foremost** to protect the rights of the individual. And the responsibility is to **aid and champion** any of its members **menaced by invasion and tyranny**. As it goes for Ukraine, so, eventually, it will **go for the rest of us.**
+ >menace[ˈmenəs] 威胁；危险的人(或物)；v.对…构成危险；危及；威胁到  
+ >tyranny[ˈtɪrəni] 暴虐；苛政  
+
  国家权力的存在首先是为了保护个人的权利。责任是向任何受到侵略和暴政威胁的成员国给予援助和支持。因为乌克兰今天面临的，最终将是我们大家面临的
 
-He embodies two great Jewish archetypes: David in the face of Goliath and Moses in the face of Pharoah. He is the canny underdog who, with skill and wits, makes up for what he lacks in fearsomeness and brawn. And he is the prophet who revolts against the diminishment and entrapment of his people
+He **embodies two great Jewish archetypes**: David in the face of Goliath and Moses in the face of Pharoah. He is the **canny underdog** who, with skill and wits, **makes up for** what he **lacks in fearsomeness and brawn**. And he is **the prophet who revolts against the diminishment and entrapment** of his people
+>archetype[ˈɑrkəˌtaɪp] 典型  
+>canny 精明的  
+>underdog 处于劣势的人(或团队、国家等)；弱者；比赛前不被看好者  
+>fearsome[ˈfɪrsəm] 很可怕的；十分吓人的  
+>brawn[brɔn] 体力；肌肉；膂力 
+>diminish 贬低; 减少；削弱；减小  
+>entrapment[ɪnˈtræpmənt] 诱捕；圈套  
+
 他体现了两个伟大的犹太典型：面对歌利亚的大卫和面对法老的摩西。他靠计谋以弱胜强，用技巧和智慧来弥补他所缺少的吓人外表和力气。他是一名反对贬低、坑害他的人民的先知
 
-He models what a man should be: impressive without being imposing; confident without being cocksure; intelligent without pretending to be infallible; sincere rather than cynical; courageous not because he is fearless but because he advances with a clear conscience. American boys in particular, raised on preposterous notions of what manhood entails, should be steered toward his example.
+He models what a man should be: **impressive without being imposing; confident without being cocksure; intelligent without pretending to be infallible; sincere rather than cynical; courageous** not because he is **fearless** but because he **advances with a clear conscience**. American boys in particular, **raised on preposterous notions of what manhood entails**, should be **steered toward** his example.
+>impressive without being imposing 有气概，而不咄咄逼人    
+>cocksure[ˈkɑkˌʃʊr] 过分自信的；自高自大的；自以为是的    
+>confident without being cocksure 自信，而不自以为是  
+>infallible[ɪnˈfæləb(ə)l] 永无过失的；一贯正确的；绝对可靠的；万无一失的   
+>courageous[kəˈreɪdʒəs] 勇敢的；无畏的  
+>conscience[ˈkɑnʃəns] 良心；良知；内疚；愧疚  
+>preposterous[prɪˈpɑst(ə)rəs] 荒唐的；极不合情理的；怪诞的  
+>manhood 成年；成年时期；男子气概   
+>entail[ɪnˈteɪl] 需要；牵涉；使必要; 使蒙受；引起；使承担 
+
 他树立了一个男人的应有榜样：有气概，而不咄咄逼人；自信，而不自以为是；有才智，而不假装一贯正确。真诚，而不愤世嫉俗；勇敢，不是因为他无所畏惧，而是因为他问心无愧地前进。在关于什么才是男子气概的荒谬观念下长大的美国男孩们尤其应该向他学习
 
-I realized that filing on deadline and slipping the occasional felicitous phrase into a news story may not get me much farther than the city hall beat, and then only after years of hard work, Suddenly a nation with a billion-plus people and a remarkably thin foreign press corps beckoned.
+I realized that **filing on deadline and slipping the occasional felicitous phrase into** a news story may not **get me much farther than** the city hall beat, and then only after years of hard work, Suddenly a nation with a **billion-plus people and a remarkably thin foreign press corps beckoned**.
+>felicitous[fəˈlɪsɪtəs] 贴切的；恰当的；妥帖的; 巧妙的  
+>beckon[ˈbekən] 招手示意；举手召唤；吸引；诱惑
+
 我意识到，按时交稿，在新闻报道中偶尔塞进几个贴切的词，也许不会让我取得比报道市政厅更重要的成就，它成不了什么大事，而且还是在多年的努力工作之后，突然间，一个拥有10多亿人口，但外国记者人数显著稀少的国家吸引了我
 
-At one point, Harvard’s president, Derek Bok, got so fed up with Mr. Kahn’s dogged reporting that he barred university officials from speaking to The Crimson. Years later, Mr. Kahn relished the memory, an early experience of journalism’s capturing the attention of the powerful. “That felt addictive,” he said.
+At one point, Harvard’s president, Derek Bok, **got so fed up with** Mr. Kahn’s **dogged reporting** that he **barred university officials from** speaking to The Crimson. Years later, Mr. Kahn **relished the memory**, an early experience of journalism’s **capturing the attention of** the powerful. “That **felt addictive**,” he said.
+>be/get fed up with 受够了；厌烦；腻了  
+>dogged 顽强的；坚持不懈的; 顽固的；固执的   
+>relish 喜欢；享受； n.享受；乐趣；风味佐料  
+
 周看锲而不舍的报道曾一度让哈佛大学校长德里克·博克不快，于是禁止校方管理层接受《哈佛深红报》的采访。多年后，周看喜欢回忆这段往事，那是一次新闻工作引起当权者注意的经历。“那有一种上瘾的感觉，”他说
 
-Many of the missing crew were conscripts, which has been a sensitive subject in Russia since the war in Chechnya, when young soldiers with little training were often thrown into battles and died in droves, souring public support for the war.
+Many of the missing crew **were conscripts**, which has been a **sensitive subject** in Russia since the war in Chechnya, when young soldiers with little training were often **thrown into battles and died in droves, souring public support** for the war.
+>conscript[ˈkɑnˌskrɪpt] 征募；征召; n.应征入伍者  
+>sensitive subject 敏感话题  
+>in droves 成群结队; 陆陆续续  
+>souring public support 削弱了公众的支持
+
 许多失踪的船员是义务兵，自车臣战争以来，这在俄罗斯一直是一个敏感话题，当时缺乏训练的年轻士兵送上战场，成批地死去，削弱了公众对那场战争的支持
 
-The cause of the sinking was disputed, with Russia claiming that an ammunition magazine exploded in a fire and then the damaged ship sank while under tow in rough seas. Ukraine said it hit the vessel with two Neptune missiles, an assertion that U.S. officials corroborated. 
+The cause of the sinking **was disputed**, with Russia claiming that an **ammunition magazine** exploded in a fire and then **the damaged ship sank** while **under tow in rough seas**. Ukraine said it hit the vessel with two Neptune missiles, an assertion that U.S. officials **corroborated**.
+>ammunition magazine 弹药库  
+>under tow 处于牵引车牵引状态；被拖带的  
+>corrobrate[kəˈrɑbəˌreɪt] 证实；支持或证实；印证
+
 莫斯科号的沉没原因存在争议，俄方的说法是因火灾导致弹药库爆炸，在恶劣天气下，受损的船只在拖航过程中沉没。乌克兰方面则表示，它用两枚海王星导弹击中了这艘船，该说法得到了美国官员的证实
 
-Many places, including the United States, Britain and Hong Kong, do not differentiate between people who die with Covid or die from Covid, as long as the coronavirus was a contributing factor. 
+Many places, including the United States, Britain and Hong Kong, do not **differentiate** between people who **die with Covid or die from Covid, as long as the coronavirus was a contributing factor**.  
 包括美国、英国和香港在内的许多地方，只要新冠病毒是一个因素，就不区分死者是死于新冠病毒，还是死前感染了新冠病毒
 
-Ms. Hanitska is tough but humble with **a dry sense of humor**. she said. “If we hadn’t done this, the fighting would be happening in Kyiv.” The Chechen contingent mysteriously withdrew the same day it arrived, after making the propaganda video, and they ringed the building with artillery, mortars and heavy guns, knowing the Ukrainians would be reluctant to hit it.
+Ms. Hanitska is **tough but humble** with **a dry sense of humor**. she said. “If we hadn’t done this, the fighting would be happening in Kyiv.” The Chechen **contingent mysteriously withdrew** the same day it arrived, after **making the propaganda video**, and they **ringed the building** with artillery, **mortars and heavy guns**, knowing the Ukrainians would **be reluctant to hit it**.
+>dry sense of humor 冷幽默  
+>contigent[kənˈtɪndʒənt] 代表团；(军队的)小分队; 可能发生的  
+>ring 环绕  
+>mortar[ˈmɔrtər] 砂浆；臼；迫击炮；灰泥 v.用迫击炮攻击   
+>heavy guns 重武器  
+
 哈尼茨卡强硬但很谦逊，说话有点冷幽默。她说。“如果我们不这么做，战斗就会发生在基辅。” 车臣特遣队制作了宣传视频后，在抵达的当天就神秘地撤离了，他们把火炮、迫击炮等重武器摆在这座建筑周围，因为他们知道乌克兰人不会愿意袭击它
 
-Unfortunately, I see the Ukrainian military command acting an order of magnitude more competently than the Russian one.
+**Unfortunately**, I see the Ukrainian military command **acting an order of magnitude more competently** than the Russian one.
+>magnitude[ˈmæɡnəˌtud] 震级；巨大；重大；重要性; 大小；数量
+
 不幸的是，我认为乌克兰的军事指挥能力比俄罗斯高出一个数量级
 
-“hyperinflation” in Europe would soon stoke protests in the form of “smelly bonfires made of tires on the streets of well-groomed European cities.” Then the Brussels aunts and uncles will have to change their rhetoric.
+“**hyperinflation**” in Europe would soon **stoke protests** in the form of “**smelly bonfires made of tires** on the streets of **well-groomed European cities**.” Then the Brussels aunts and uncles will have to **change their rhetoric**.
+>hyperinflation 恶性通货膨胀  
+>stoke 司炉 v.给…添加(燃料)；煽动；激起；促使…的增加  
+>stoke protests 引发抗议  
+>smelly 有难闻气味的；有臭味的  
+>bonfire[ˈbɑnˌfaɪr] 篝火；营火  
+>groomed[ɡrumd] 精心修饰的  
+>groom 培养；(给动物)擦洗；(给自己或动物)理毛；使做好准备 n.马夫；新郎；培训；格鲁姆
+
 欧洲的“恶性通货膨胀”很快就会引发抗议，“在整洁的欧洲城市的街道上，轮胎燃起散发恶臭的篝火。” 到那时，布鲁塞尔的叔叔阿姨们将不得不改变他们的言辞
 
-China’s chosen economic path is hugely energy-intensive. It requires vast amounts of electricity, and, to produce that electricity, China is betting on coal. The really big push, however, is to build new mines and expand existing mines, at a truly mind-melting scale.
+China’s chosen economic path is **hugely energy-intensive**. It requires **vast amounts of electricity**, and, to produce that electricity, China **is betting on coal**. The really big push, however, is to build new mines and expand existing mines, at a **truly mind-melting scale**.
+>hugely energy-intensive 高度能源密集型的  
+>mind-melting 令人震惊的
+
 中国选择的经济道路是高度能源密集型的，需要大量电力。为了生产这些电力，中国将赌注押在了煤炭上。然而，真正的大手笔是建设新矿和扩大现有矿，规模之大令人震惊
 
 In the **besieged southern port city** of Mariupol, which has become **a potent emblem of the human toll** of war, a Russian strike on March 16 destroyed a theater where hundreds of people had **been sheltering**, including children.
