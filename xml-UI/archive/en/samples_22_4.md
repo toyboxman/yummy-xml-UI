@@ -148,52 +148,122 @@ We will first make the pie bigger, and then divide it properly through reasonabl
 Indeed, the Civil War initially created a “cotton famine” that threw thousands of Britons out of work. In the end, of course, Britain stayed neutral — in part because British workers saw the Civil War as a moral crusade against slavery and rallied to the Union cause despite their suffering.
 的确，南北战争在一开始的时候的确造成了一场“棉荒”，导致成千上万的英国人失业。当然，英国最终保持了中立——一定程度上是因为英国工人将南北战争视为反对奴隶制的道德圣战，尽管遭受痛苦，他们还是团结起来支持联邦的事业
 
-I do not miss the lost things, the ruined house. I don’t care that I have a loan on the TV, which I will never watch again. It’s all so mundane and devalued by the war itself. But I miss so very much my special world which Mariupol was for me. The city always had a special smell. During winters, it was a bitter aroma of frozen grapes, which were left on the vine, mixed with a touch of smoke emanating from family houses. During summer, it was filled with the smell of dust settled to the ground by the long-awaited rains. And in the spring … what a beautiful city it was in the spring.
+I do not **miss the lost things, the ruined house**. I don’t care that I **have a loan on** the TV, which I will never watch again. It’s all so **mundane and devalued** by the war itself. But I miss so very much my special world which Mariupol was for me. The city always **had a special smell**. During winters, it was **a bitter aroma of frozen grapes**, which were **left on the vine, mixed with a touch of smoke emanating from family houses**. During summer, it **was filled with the smell of dust settled to the ground** by the **long-awaited rains**. And in the spring … what a beautiful city it was in the spring.
+>mundane[mʌnˈdeɪn] 单调的；平凡的  
+>aroma[əˈroʊmə] 香味；芳香   
+>bitter aroma 苦味   
+>vine[vaɪn] 藤；藤蔓   
+>emanate[ˈeməˌneɪt] v.产生；表现；发出；散发   
+>a touch of 少许；一点儿   
+>long-awaited 期待已久的
+
 我不怀念失去的东西，毁坏的房子。我不在乎我贷款买的电视，我再也不会看了。这些都不算事，在战争面前不值一提。但我太想念我独有的世界了，马里乌波尔对我来说就是这样的世界。这个城市总有一种特别的味道。冬天的时候，是一种留在藤上的冻葡萄的苦味，混合着来自千家万户的淡淡烟味。一到夏天，这里充满了期待已久的雨水冲刷尘埃的气息。而到了春天……春天的城市是多么美丽
 
-This is also known as the first rule of holes: When you’re in one, stop digging. The second rule of modern warfare playing out in Ukraine, “is that finding always beats flanking. If you can locate the enemy first, you can take him out. 
+This is also known as **the first rule of holes**: When you’re in one, **stop digging**. The second rule of **modern warfare playing out** in Ukraine, “is that **finding always beats flanking**. If you can locate the enemy first, you can **take him out**.    
 这也就是已经身陷坑洞时的首要原则。当你已经在坑里时，就不要再挖下去了。在乌克兰上演的现代战争的第二条规则是，“寻找总是胜过包抄”。如果你能先找到敌人，就能先干掉对方。
 
-The Ukrainian observer corps is made up of babushkas and kids and anyone else who has got a smartphone, And they’ve been calling in the locations of where the Russian units are and where they’re moving. Grandmas with iPhones can trump satellites.
+The Ukrainian **observer corps is made up of** babushkas and kids and anyone else who has got a smartphone, And they’ve been **calling in the locations of where** the Russian units are and where they’re moving. Grandmas with iPhones can **trump satellites**.
+>corps 兵团；军团；团体   
+>observer corps 侦查团   
+
 乌克兰的侦查团由老年女性、孩子和任何有智能手机的人组成，他们一直在报告俄罗斯部队的位置和他们的移动方向。拥有苹果手机的老奶奶可以胜过卫星
 
-It is not such a far-fetched scenario: According to Kevin Rudd’s penetrating and sensible new account of the United States-China relationship, some reports have shown Washington losing to Beijing as many as 19 straight times in desktop war games simulating a conflict over Taiwan.
+It is not such a **far-fetched scenario**: According to Kevin Rudd’s **penetrating and sensible new account of** the United States-China relationship, some reports have shown Washington losing to Beijing as **many as 19 straight times** in desktop **war games simulating** a conflict over Taiwan.
+>penetrate[ˈpenəˌtreɪt] v.渗透；进入；穿过；看透   
+>sensible[ˈsensəb(ə)l] 明智的；理智的；合理的；切合实际的   
+
 这样的场景并非信口开河：根据陆克文对美中关系深刻而明智的新描述，一些报告显示，华盛顿在台湾冲突的推演中连续输给北京多达19次。
 
-Already the post-World War II order that underpinned the American Century appears to be fraying, with 19th-century-style power politics supplanting it. In conveying all this, Rudd structures his book like a white paper or policy brief — full of useful facts and trenchant analysis. 
+Already the post-World War II order that **underpinned the American Century appears to be fraying**, with 19th-century-style power politics **supplanting** it. **In conveying all this**, Rudd **structures his book** like a white paper or policy brief — full of useful facts and **trenchant analysis**. 
+>underpin v.巩固；加固(墙基); 支持；支撑   
+>fray v.(使织物边沿)磨损；恼火 n.争辩 吵架   
+>supplant[səˈplænt] v.取代；代替；    
+>convey v.表达；输送；运送；传送   
+>trenchant[ˈtrentʃənt] adj.尖锐的；有效的；鲜明的   
+>trenchant analysis 犀利的分析
+
 支撑美国世纪的“二战”后秩序似乎正在瓦解，取而代之的是19世纪风格的强权政治. 在表述这一切的过程中，陆克文这本书的结构就像一份白皮书或政策概要——充满了有用的事实和犀利的分析
 
-Europe could help cushion the world against American dominance, an especially potent message when the Trump administration disavowed the Paris climate accord and put tariffs on some European goods. stick-to-the-script responses on Ukraine may reflect worries that Europe expects too much from Beijing. The Ukraine crisis must be properly handled, but we must not turn to reckless remedies in desperation
+Europe could **help cushion** the world against American dominance, an **especially potent message** when the Trump administration **disavowed the Paris climate accord and put tariffs on** some European goods. **stick-to-the-script responses** on Ukraine may **reflect worries** that Europe expects too much from Beijing. The Ukraine crisis must be **properly handled**, but we must not **turn to reckless remedies in desperation**
+>disavow[ˌdɪsəˈvaʊ] v.否认；不承认；拒绝对…承担责任; 抵赖；否定；推翻   
+>stick-to-the-script 照本宣科的   
+>reckless remedies in desperation 病急乱投医  
+
 欧洲可以在帮助世界抵御美国的主导地位上起缓冲作用，当特朗普政府让美国退出巴黎气候协定，并对欧洲的一些商品征收关税时，这是一个特别有力的信息, 照本宣科的回应可能证实了一些担忧，即欧洲对中国期望过高. 乌克兰危机要妥善处置，但不能病急乱投医
 
-Now the bargain is broken, the illusion has shattered. And the country has been pitched into a new phase. But what is it? Putin is so convinced that he cannot afford to lose, that he will escalate, He has staked everything on it.
+Now the **bargain is broken, the illusion has shattered**. And the country has **been pitched into a new phase**. But what is it? Putin is so **convinced** that he cannot **afford to lose**, that he will escalate, He has **staked everything on** it.
+>pitch into 猛烈攻击；大骂; 投入；投身于  
+
 现在这种妥协中止了，幻想破灭了。俄罗斯已进入一个新阶段。是什么样的阶段？普京深信他承受不起失败，他会升级，他押上了一切
 
-On Ukraine, it’s a level above that — just the extent to which they have parroted some pretty specific and in some cases pretty far-fetched claims from Russia.
+On Ukraine, it’s **a level above that** — just the extent to which they have **parroted some pretty specific** and in some cases **pretty far-fetched claims** from Russia.
+>far-fetched 难以置信的；牵强的  
+>parrot[ˈperət] 鹦鹉 v.鹦鹉学舌地说…  
+
 在乌克兰问题上，这种共有已超出了以前的水平，仅从他们鹦鹉学舌般地重复俄罗斯一些相当具体、在某些情况下相当难以置信的主张的程度来看。
 
-In an example on Wednesday, an official with Ministry of Foreign Affairs tweeted a doctored photo appearing to show Nazis holding a flag with a swastika next to flags of Ukraine
+In an example on Wednesday, an official with Ministry of Foreign Affairs **tweeted a doctored photo** appearing to show Nazis **holding a flag with a swastika next to flags** of Ukraine
+>doctored 窜改的   
+>swastika[ˈswɑstɪkə] 卐；万字符；邪恶纳粹   
+
 上周三有一个例子，外交部的一名官员在Twitter上发了一张被篡改过的照片，上面似乎是纳粹分子们拿着印有纳粹十字标志的旗帜以及乌克兰的国旗
 
-State media video showed a spacious riverside apartment with shiny wooden floors, a living room furnished with a white five-seat sofa, a spacious bedroom, a kitchen with an L-shaped counter and a six-person dining table. The apartment also has a study, along with a veranda that offered a view of downtown Pyongyang. The images showed no sign of a TV. (The value of the apartment wasn’t immediately clear. The total number of bedrooms and square footage were unknown.)
+State media video showed a **spacious riverside apartment with shiny wooden floors**, a living room **furnished with a white five-seat sofa**, a spacious bedroom, a kitchen with an **L-shaped counter** and a six-person dining table. The apartment also has **a study, along with a veranda** that **offered a view of downtown Pyongyang**. The images **showed no sign of** a TV. (The value of the apartment **wasn’t immediately clear**. The total number of bedrooms and **square footage** were unknown.)
+>spacious riverside apartment 宽敞的河滨公寓   
+>shiny wooden floors 光亮的木地板   
+>furnish[ˈfɜrnɪʃ] v.提供；在(房屋等)处布置家具；装备  
+>study 书房  
+>veranda[vəˈrændə]  阳台；走廊   
+>square footage 建筑面积；使用面积
+
 官方媒体的视频显示，这是一间宽敞的河滨公寓，铺着光亮的木地板，客厅里摆着一张白色的五座沙发，卧室宽敞，厨房里有一个L形柜台和一张六人餐桌。公寓里还有一间书房，以及一个可以俯瞰平壤市中心的阳台。图像中没有显示电视存在的迹象。（目前该公寓的价值不详。卧室的总数和面积也不清楚。）
 
-Mr. Kim said, according to the state media, “There is nothing to spare for national treasures like Ri Chun-hee, who has led a virtuous life with the revolutionary microphone.” He also asked her to continue vigorously serve as the voice of his ruling Workers’ Party. As for Ms. Ri, she said that she was “so grateful for the benevolent care of the party” that she and her family were “moved to tears.”
+Mr. Kim said, according to the state media, “There is **nothing to spare for national treasures** like Ri Chun-hee, who has **led a virtuous life** with the **revolutionary microphone**.” He also asked her to **continue vigorously serve** as the voice of his ruling Workers’ Party. As for Ms. Ri, she said that she was “so **grateful for the benevolent care of** the party” that she and her family **were “moved to tears.”**
+>nothing to spare for 对..毫不吝啬   
+>virtuous[ˈvɜrtʃuəs] 品行端正的；品德高的；有道德的；自命不凡的   
+>vigorous[ˈviɡ(ə)rəs] 充满活力的；充满激情的；精力充沛的；有力的；朝气蓬勃的   
+>benevolent[bəˈnevələnt] 慈善的；乐善好施的；仁慈的；仁爱的；善意的   
+>be moved to tears 感动得流下了泪水   
+
 据朝鲜官方媒体报道，金正恩说，“对李春姬这样的国宝要毫不吝啬，她以革命的话筒过着正直的生活。”他还要求她继续积极地为执政的劳动党发声。至于李春姬，她说自己“非常感谢党对她的亲切关怀”，她和家人“感动得流下了泪水”
 
-The fluorescent lights were glaring but she tried to get some rest. She woke up the next morning to find her hall suddenly crammed with people. There was no tap for running water and no showers, so each day she and others would crowd around several fresh water machines, waiting to fill up the pink plastic wash basins they had been given. 
+The **fluorescent lights were glaring** but she tried to **get some rest**. She **woke up** the next morning to find her hall **suddenly crammed with** people. There was **no tap for running water and no showers**, so each day she and others would **crowd around several fresh water machines**, waiting to **fill up the pink plastic wash basins** they had been given. 
+>fluorescent[flɔrˈres(ə)nt] 荧光灯；adj.发荧光的；强烈反光的；发亮的    
+>cram[kræm] 填塞；填鸭式用功；考试前临时硬记 v.把…塞进；挤满；塞满  
+>running water 自来水；流水；活水  
+>fresh water 淡水资源；新鲜水；adj.淡水的；不熟练的；不知名的  
+>basin[ˈbeɪs(ə)n] 盆地；流域；脸盆；水盆
+
 日光灯很刺眼，但她还是试着休息一下。第二天早上醒来，发现大厅里突然挤满了人。没有自来水，也不能淋浴，所以她和其他人每天都会围着几台饮水机，给发的粉红色塑料洗脸盆加水
 
-If the virus mutates globally, as it did with Omicron, and you have “a less than effective vaccine, virtually no natural immunity in the population, and millions of elderly unvaccinated, you’re in a bad place and there is no easy way out.” The moral of this story? You can’t fool around with or propagandize away Mother Nature; she’s merciless.
+If the virus **mutates globally**, as it did with Omicron, and you have “a **less than effective** vaccine, **virtually no natural immunity** in the population, and millions of elderly unvaccinated, you’re **in a bad place and there is no easy way out**.” The **moral** of this story? You can’t **fool around with or propagandize away Mother Nature; she’s merciless**.
+>less than effective 效果不佳的   
+>in a bad place 处境糟糕   
+>way out 摆脱困境的办法；出口；办法  
+>moral[ˈmɔrəl] 寓意；品行；adj.道义上的；道德上的；品行端正的  
+>fool around/about 鬼混；吊儿郎当; 游手好闲；干蠢事   
+>propaganda/progagandize[ˌprɑpəˈɡænˌdaɪz] 宣传；大肆鼓吹；煽动  
+>Mother Nature 大自然；自然界   
+>merciless[ˈmɜrsɪləs] 毫不怜悯的；无情的；残忍的  
+
 如果病毒像奥密克戎那样在全球范围内发生变异，而你的“疫苗效果不佳，人口几乎没有天然免疫力，又有数以百万计的老年人没打疫苗，那么你的处境就会非常糟糕，而且没有轻松的出路”。本文的寓意何在？人不能妄想着愚弄或欺骗大自然；她是无情的。
 
-And it is impossible to exaggerate how incompetent the Russian Navy had to be to allow the command warship of Russia’s Black Sea Fleet, the Moskva missile cruiser, to be so badly damaged, reportedly by two Ukrainian-made anti-ship cruise missiles, called Neptunes, that the Moskva sank into the sea off Ukraine last week 
+And it is impossible to **exaggerate how incompetent** the Russian Navy had to be to allow the command warship of Russia’s Black Sea Fleet, the Moskva missile cruiser, to be so **badly damaged, reportedly** by two Ukrainian-made anti-ship cruise missiles, called Neptunes, that the Moskva sank into the sea off Ukraine last week 
+>impotent[ˈɪmpət(ə)nt] 无能为力的；不起作用的；性无能的  
+
 俄罗斯海军居然能让他们的黑海舰队指挥舰“莫斯科号”导弹巡洋舰受到严重损伤——据报道是被乌克兰制造的两枚名为“海王星”的反舰巡航导弹击中，这艘舰艇上周在乌克兰附近海域沉没
 
-So I pity the commander who had to tell Putin that Russia’s meanest, monstrous warship in the Black Sea, rumored to have been his favorite, had been sunk by a Ukrainian missile fired in war for the first time.
+So I **pity the commander** who had to tell Putin that Russia’s **meanest, monstrous warship** in the Black Sea, **rumored to** have been his favorite, had been sunk by a Ukrainian missile fired in war for the first time.
+>mean 意味着；意思是；打算；n.平均值；中庸；平均数；中间 adj.刻薄；吝啬的；小气的  
+>monstrous[ˈmɑnstrəs] 畸形的；恶毒的; 可怕的；怪异的；巨大的  
+
 那位据说深得普京器重的指挥官，现在要去告诉他，俄罗斯在黑海最凶悍、最庞大的战舰，被乌克兰的一种首次在战场上使用的导弹击沉了，我还是挺同情这位指挥官的
 
-His online business selling green bean cake — a local specialty — was suffering from China’s rolling restrictions. Every aspect of business is affected by the pandemic, It’s tough, but it is what it is.
+His online business selling **green bean cake** — a **local specialty** — was suffering from China’s **rolling restrictions**. Every aspect of business is affected by the pandemic, It’s tough, but **it is what it is**.
+>it is what it is 就是这个样  
+>green bean cake 绿豆糕  
+>specialty[ˈspeʃ(ə)lti] 专业；特点；特性；专长; 招牌菜; 特产
+
 他在网上销售当地特产绿豆糕的生意正受到中国各地纷纷封控的影响。疫情就生意各个方面都受到影响，难是挺难，但没办法
 
 China’s economy **expanded 4.8 percent** in the first three months of this year **compared to** the same period last year. That pace **was barely faster than** the final three months of last year, and it also **obscured a looming problem**.

@@ -42,3 +42,7 @@ Customers are now future-proofing their supply chains, Some reshoring is occurri
 
 Countless facts tell us that we can win respect and initiative only if we show the spirit of brave fighters defeating our foes face to face on a narrow path, daring to struggle, mastering struggle. Persist with dynamic zero, protecting people’s lives and health to the maximum extent, while reducing the impact of the pandemic on economic and social development to a minimum
 无数事实告诉我们，唯有以狭路相逢勇者胜的气概，敢于斗争、善于斗争，我们才能赢得尊严、赢得主动. 坚持动态清零，最大程度保护人民生命安全和身体健康，最大限度减少疫情对经济社会发展的影响
+
+The draft Supreme Court opinion overturning Roe v. Wade that leaked Monday night is not yet final. But when the dust settles, American women may conclude that they had lost the right to abortion the same way that an Ernest Hemingway character said he had gone bankrupt: gradually, and then suddenly.
+周一晚间泄露的最高法院推翻罗诉韦德案的意见书草案并非最终版本。但待尘埃落定时，美国的女性可能会得出结论，她们已经失去了堕胎的权利，就像海明威笔下的一个人物形容他的破产一样：先是逐渐地，然后突然就身无分文了
+
