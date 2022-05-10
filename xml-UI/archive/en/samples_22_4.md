@@ -97,55 +97,145 @@ This most recent infiltration of the Omicron subvariant BA.2 is unnerving becaus
 The rollout has been messy. Grocery store shelves have been emptied as residents went on panic buying sprees. People with life-threatening conditions posted calls for help online when they could not get to hospitals for help. Quarantine facilities and hospitals have overflowed with people who tested positive, who must be confined in such facilities even if asymptomatic.
 分片封控的推出颇为混乱。随着居民们疯狂购物，杂货店的货架被抢购一空。由于无法去医院治疗，患有致命疾病的人在网上发求救贴。隔离设施和医院里挤满了病毒检测呈阳性者，因为即使没有症状，也必须集中在隔离设施中
 
-Perhaps it was the way the lifeless bodies, bloodied by bullets, and some with hands bound, had been left strewn about or shoveled into makeshift mass graves. Or the reality of seeing them up close in widely circulated photographs and videos.
+Perhaps it was the way the **lifeless bodies, bloodied by bullets**, and some **with hands bound**, had **been left strewn about or shoveled into makeshift mass graves**. Or the **reality of seeing them up close in widely circulated** photographs and videos.
+>with hands bound 双手被捆绑   
+>strew[stru] 把…布满(或散布在)；撒满；散播在…上; 点缀；乱放   
+>strew about 乱扔   
+>shovel[ˈʃʌv(ə)l] 铁铲；v.铲起  
+>makeshift mass graves 乱葬岗   
+>up close 近距离地；接近地
+
 也许是因为那些或散落在各处、或被铲进乱葬岗的尸体，也许是因为通过广泛传播的照片和视频，人们近距离看到了现实。这些尸体因中枪而血淋淋的，其中一些双手被捆绑
 
-As children, it felt like we were in the military arena, particularly every time the jets overhead latticed the skies with contrails or produced a sonic boom. Even people of modest means in the area built bomb shelters. Armageddon was in the air.
+As children, it felt like we were in the **military arena**, particularly every time the **jets overhead latticed the skies with contrails or produced a sonic boom**. Even people of **modest means** in the area built **bomb shelters. Armageddon was in the air**.
+>arena[əˈrinə] 圆形运动场；圆形剧场；斗争场所；竞争舞台; 竞技场   
+>overhead 天花板；adj.头上方的；地面以上的；高架的 adv.在头上方；在空中   
+>lattice[ˈlætɪs] 格栅(用作篱笆等)；斜格图案 v.把…制成格子状；用格子覆盖[装饰]   
+>contrail[ˈkɑnˌtreɪl] 航迹云；飞行云   
+>sonic boom 音爆    
+>bomb shelter 防空洞   
+>Armageddon[ˌɑrməˈɡed(ə)n] 世界末日的善恶大决战；末日审判   
+>in the air (计划等)悬着；在空中；(谣言等)流传；在流行中；在传播中；悬而未决
+
 小时候，我们感觉自己就在军事竞技场上，尤其是每次头顶上的喷气式飞机带着凝结尾迹划过天空或产生音爆时。这个地区即使是经济条件有限的人也建造了防空洞。世界末日随时会到来。
 
-The humiliating collapse of the Soviet Union, the video says, was the result of efforts by the United States to destroy its legitimacy. With swelling music and sunny scenes of present-day Moscow, the documentary praises Mr. Putin for restoring Stalin’s standing as a great wartime leader and for renewing patriotic pride in Russia’s past.
+The **humiliating collapse** of the Soviet Union, the video says, was the result of efforts by the United States to **destroy its legitimacy**. With **swelling music and sunny scenes of present-day** Moscow, the **documentary praises** Mr. Putin for **restoring Stalin’s standing** as a great wartime leader and for **renewing patriotic pride** in Russia’s past.
+>humiliating 羞辱性的；丢脸的；耻辱的    
+>swelling n.膨胀；肿胀；肿胀处 v.“swell”的现在分词   
+>swelling music 欢快音乐; 节奏快的音乐   
+
 这部纪录片称，苏联的耻辱解体是美国破坏其合法性的结果。在欢快音乐和今日莫斯科阳光场景的衬托下，这部纪录片称赞普京恢复了斯大林作为战争时代伟大领导人的地位，以及俄罗斯对本国历史的爱国自豪感
 
-Previous leaders in Moscow — above all Mr. Gorbachev and Nikita S. Khrushchev — are portrayed as dupes, bewitched by the siren song of liberal reform and Western superiority.
+Previous leaders in Moscow — above all Mr. Gorbachev and Nikita S. Khrushchev — **are portrayed as dupes, bewitched by the siren song of liberal reform and Western superiority.**
+>dupe v.欺骗；诈骗；愚弄 n.被愚弄的人；容易受骗的人；盲从者   
+>bewitch[bɪˈwɪtʃ] v.迷住；迷惑；使中魔法; 蛊惑；使着迷    
+>superiority[sʊˌpɪriˈɔrəti] 优势；优越感；优越性  
+
 苏联的前领导人——尤其是戈尔巴乔夫和赫鲁晓夫——被描绘成傻瓜，被自由主义改革和西方优越性的蛊惑言辞所迷惑
 
-Some countries in Eastern Europe, Central Asia and Transcaucasia have become forward positions for the West to contain and meddle in Russia. It was the United States that personally lit the fuse of the present conflagration between Russia and Ukraine, There’s an ‘either we hang together or we hang separately’ attitude that comes into play.
+Some countries in Eastern Europe, Central Asia and **Transcaucasia have become forward positions** for the West to **contain and meddle** in Russia. It was the United States that **personally lit the fuse of the present conflagration** between Russia and Ukraine, There’s an ‘**either we hang together or we hang separately**’ attitude that comes into play.
+>Transcaucasia 外高加索    
+>forward position 前沿; 前进阵地   
+>meddle 干预；干涉；管闲事；瞎搞   
+>contain and meddle 遏制和干涉   
+>personally light the fuse 亲手点燃   
+>conflagration[ˌkɑnfləˈɡreɪʃ(ə)n] 大火灾   
+>either hang together or hang separately 要么保持一致，要么全都完蛋   
+
 东欧、中亚和外高加索的一些国家也成为西方遏制、干涉俄罗斯的前沿阵地。乌克兰今日战火的‘导火索’正是由美国亲手点燃的，这个运动灌输的是‘要么保持一致，要么全都完蛋’的态度
 
-We don’t see global American leadership anymore. Instead, we rather find it feckless and helpless. We even get skeptical whether we should rely entirely on the United States on issues that relate directly to our survival and prosperity.
+We don’t see global American leadership anymore. Instead, we **rather find it feckless and helpless**. We even **get skeptical** whether we should **rely entirely on** the United States on issues that relate directly to our **survival and prosperity**.
+>rather find  相反确发现   
+>feckless[ˈfekləs] 品格差的；不负责任的; 软弱的；无用的   
+
 我们看不到美国的全球领导地位了。相反，我们认为它既无能又无助，我们甚至怀疑，我们是否应该在关乎自身生存和繁荣的问题上完全依赖美国
 
-Most recently, Mr. Navalny’s team reported that it had linked crew members on a $700 million superyacht to the same Kremlin protective detail, amid speculation that the vessel, whose ownership is obscured by offshore shell companies, was secretly used by Mr. Putin. The 459-foot yacht, named the Scheherazade, has two helicopter pads and is topped with a cluster of satellite domes. It is currently dry-docked in Italy.
+**Most recently**, Mr. Navalny’s team reported that it had **linked crew members on a $700 million superyacht** to the same Kremlin **protective detail**, amid speculation that the vessel, whose ownership **is obscured by offshore shell companies**, was **secretly used** by Mr. Putin. The 459-foot yacht, named the Scheherazade, has **two helicopter pads** and **is topped with a cluster of satellite domes**. It is currently **dry-docked** in Italy.
+>most recently 最近   
+>protective 保护的；防护的    
+>offshore shell company 离岸空壳公司   
+>obscure n.朦胧；黑夜 adj.无名的；鲜为人知的；费解的；难以理解的 v.使模糊；使隐晦；使费解    
+>be topped with 置于顶部   
+>a cluster of satellite domes 一组卫星天线   
+>dry dock 干船坞
+
 最近，纳瓦尔尼的团队报告称，一艘价值7亿美元的超级游艇上的船员与克里姆林宫的安保人员有关联。有人猜测，这艘被离岸空壳公司掩盖了所有权的游艇曾被普京秘密使用。这艘459英尺（约合140米）的游艇名为“山鲁佐德号”，有两个直升机停机位，顶部有一组卫星天线。它目前停在意大利的干船坞
 
-The yacht, estimated to cost $35 million to $50 million in 2002 and reportedly outfitted with marble baths, extensive gilding and a Jacuzzi, was said to be “managed by Unicom,” a Cyprus-based company. The Olympia, which sails under a Cayman Islands registration, was last known to be in the Baltic Sea near St. Petersburg.
+The **yacht, estimated to cost $35 million to $50 million** in 2002 and **reportedly outfitted with marble baths, extensive gilding and a Jacuzzi**, was said to be “managed by Unicom,” a Cyprus-based company. The Olympia, which **sails under a Cayman Islands registration**, was last known to be in the **Baltic Sea** near St. Petersburg.
+>outfit 全套服装；团队；小组；分队 v.装备；配置设备；供给服装   
+>marble bath 大理石浴缸   
+>outfit with 装备；配备   
+>gilding['gɪldɪŋ] 镀金层；金色涂层；镀金饰面   
+>Jacuzzi[dʒəˈkuzi] 按摩浴缸   
+
 这艘游艇在2002年价值约为3500万到5000万美元，据称配备了大理石浴缸和一个按摩浴缸，金碧辉煌的内饰，并且据信“由Unicom管理”，这是一家塞浦路斯公司。奥林匹亚号是在开曼群岛注册的，最后一次出现是在圣彼得堡附近的波罗的海海域
 
-Increasing availability of data about people and their movements would make it easier to track down individuals responsible for war crimes. But it could also make it hard for civilians to lie low in tense environments. In a world of more and more data being gathered, everyone leaves a trail of dots that can be connected.
+**Increasing availability of data** about people and their movements would make it easier to **track down individuals responsible for war crimes**. But it could also make it hard for civilians to **lie low in tense environments**. In a world of more and more data being gathered, everyone **leaves a trail of dots** that can be connected.
+>lie low  隐匿；潜伏；伏卧   
+
 人们及其行动的数据越来越容易获得，这将使追踪犯下战争罪行的个人变得更容易。但这也让平民更加难以在紧张的环境中藏身. 在一个收集越来越多数据的世界里，每个人都会留下可以连接起来的线索
 
-Faces can look similar, so secondary information, in the form of an identifying mark, a tattoo or clothing, is important to confirm a match. Whether that will happen in a tense, wartime situation is an open question
+Faces can look similar, so **secondary information**, in the form of an **identifying mark, a tattoo or clothing**, is important to **confirm a match.** Whether that will **happen in a tense, wartime situation** is an open question
+>secondary information 辅助信息   
+>birth mark 胎记   
+
 面孔可能看起来相似，因此识别胎记、纹身或衣服的辅助信息对于确认匹配很重要。但在紧张的战时局势中是否能够做到还不得而知
 
-He fashioned his first light-up cubes by inserting basic electronics into a rubber toothbrush cover. He sold his wares to local bars that stuck the cubes into cocktail glasses. When the light went out, the bartender could tell with a glance that the customer was ready for a refill.
+He **fashioned his first light-up cubes** by inserting basic electronics into a **rubber toothbrush cover**. He **sold his wares to local bars** that **stuck the cubes into cocktail glasses**. When the light **went out**, the **bartender could tell with a glance** that the customer was ready for **a refill**.
+>fashion[ˈfæʃ(ə)n] 时兴；时装业；(衣服、发式等的)流行款式 v.塑造   
+>ware[wer] 商品；制品；陶器; 小心的；有知觉的 v.注意；避免    
+>bartender 酒保  
+>tender v.投标；提供；提出； n.投标；(蒸汽机车的)煤水车；交通船  adj.和善的；温柔的；亲切的；慈爱的   
+>refill 续杯；再填充；笔芯 v.再装满；重新装满
+
 他把基础电子元件塞进一个橡胶牙刷头保护头里，做出了他的第一个发光小方块。他把这套小玩意卖给了当地的酒吧，他们把这些小方块放进鸡尾酒杯。当灯熄灭时，酒保就知道，该续杯了
 
-Then Glo heard via Facebook from an unexpected customer, the mother of a 4-year-old boy who was autistic. Bath time had been a perpetual nightmare. Her son suffered from sensory overload and was terrified by the sound of rushing water. When she deposited a Glo cube into the bath, he was transfixed. It diverted him from his fears.
+Then Glo **heard via Facebook from an unexpected customer**, the mother of a 4-year-old boy who was **autistic**. Bath time had been **a perpetual nightmare**. Her son **suffered from sensory overload** and was terrified by the sound of **rushing water**. When she **deposited a Glo cube into** the bath, he **was transfixed**. It **diverted him from** his fears.
+>autistic[ɔː'tɪstɪk] 自闭症的；孤独症的   
+>perpetual[pərˈpetʃuəl] 不间断的；持续的；长久的 n.四季开花的植物；多年生草   
+>sensory[ˈsensəri] 感觉的；感官的 n.感觉器官   
+>sensory overload 感官超负荷   
+>deposit[dɪˈpɑzɪt] 存款；押金；订金 v.存储；放置；放下   
+>transfix 使(因恐惧、惊愕等而)动弹不得；使惊呆
+>divert[daɪˈvɜrt] from 转移；使转向
+
 后来，Glo公司通过Facebook接触到一个意外的顾客，那是一个四岁男童的妈妈，她的儿子患有自闭症。洗澡时间从来都是噩梦。因为感官超负荷，她的儿子会被水流冲刷的声音吓到。当她把一个Glo小方块放进浴缸中时，他惊奇地怔住了。这个小方块使他摆脱了恐惧
 
-In the third major case already on the court’s docket for its next term, the justices will consider the role race may play in drawing voting maps. The court may have tipped its hand in February
+In the third major case already **on the court’s docket** for its next term, the justices will consider the role **race may play in drawing voting maps**. The court may have **tipped its hand** in February
+>docket[ˈdɑkət] 标签；法院积案清单；议程 v.(在公文等上)附加提要    
+>tip one's hand 表明态度; 摊牌
+
 至于已被最高法院列入下个庭期日程的第三桩重头案件，大法官们将要考量种族对选举地图划分可能发挥的作用。今年2月，最高法院可能已经亮明态度
 
-The court’s liberals were in dissent when the court issued its provisional order in February, and they are likely to be in the same position when the court rules on the merits of the case
+The court’s **liberals were in dissent** when the court **issued its provisional order** in February, and they are likely to be in the same position when the court **rules on the merits of the case**
+>be in dissent 持有异议    
+>provisional order 临时判决  
+>merit 价值；优点；功绩；美德 v.值得；应得  
+>the merits of the case 案件的是非曲直
+
 最高法院在2月发布临时判决时，自由派大法官提出了不同意见，因此，等到最高法院对此案的是非曲直做出裁决，这些大法官的立场应该不会改变
 
-As for the real work of the court, justices say it can take quite some time to feel comfortable. I was frightened to death for the first three years, So extraordinary an intellect as Brandeis said it took him four or five years to feel that he understood the jurisprudential problems of the court, That could make Judge Jackson not only a pathbreaking justice but also an influential and consequential one.
+**As for the real work** of the court, justices say it can **take quite some time to feel comfortable**. I was **frightened to death** for the first three years, So **extraordinary an intellect** as Brandeis said it took him four or five years to feel that he understood the **jurisprudential problems** of the court, That could make Judge Jackson **not only a pathbreaking justice but also an influential and consequential one**.
+>as for 至于; 关于；就…而言；对于   
+>an extraordinary intellect 才智非凡的人   
+>jurisprudential[ˌdʒʊrɪspru'dɛnʃəl] 法律学的   
+>pathbreaking 开创性的     
+>influential and consequential 产生深远且重大影响的
+
 至于最高法院的实际工作，大法官们都声称，可能需要相当长的一段时间才能适应。头三年我都过得战战兢兢，才智那样非凡的布兰代斯都说过，他花了四五年时间才觉得自己弄明白了最高法院的法学问题，杰克逊法官不仅有机会成为一位开创性的大法官，她还可能产生深远且重大的影响
 
-We will first make the pie bigger, and then divide it properly through reasonable institutional arrangements, As a rising tide lifts all boats, everyone will get a fair share from development.
+We will first **make the pie bigger**, and then divide it properly through **reasonable institutional arrangements**, As **a rising tide lifts all boats, everyone will get a fair share from development**.
+>reasonable institutional arrangements 合理的制度安排   
+>a rising tide lifts all boats 水涨船高   
+
 要先把‘蛋糕’做大，然后通过合理的制度安排把‘蛋糕’分好，水涨船高、各得其所，让发展成果更多更公平惠及全体人民
 
-Indeed, the Civil War initially created a “cotton famine” that threw thousands of Britons out of work. In the end, of course, Britain stayed neutral — in part because British workers saw the Civil War as a moral crusade against slavery and rallied to the Union cause despite their suffering.
+Indeed, **the Civil War initially created a “cotton famine”** that **threw thousands of Britons out of work**. In the end, of course, Britain **stayed neutral** — in part because British workers saw the Civil War as a **moral crusade against slavery and rallied to the Union cause** despite their suffering.
+>stay neutral 保持中立  
+>crusade[kruˈseɪd] 改革运动；(中世纪的)十字军东征；圣战 v.长期坚定不移地奋斗    
+>moral crusade 道德圣战   
+>the Union cause 联邦的事业 
+
 的确，南北战争在一开始的时候的确造成了一场“棉荒”，导致成千上万的英国人失业。当然，英国最终保持了中立——一定程度上是因为英国工人将南北战争视为反对奴隶制的道德圣战，尽管遭受痛苦，他们还是团结起来支持联邦的事业
 
 I do not **miss the lost things, the ruined house**. I don’t care that I **have a loan on** the TV, which I will never watch again. It’s all so **mundane and devalued** by the war itself. But I miss so very much my special world which Mariupol was for me. The city always **had a special smell**. During winters, it was **a bitter aroma of frozen grapes**, which were **left on the vine, mixed with a touch of smoke emanating from family houses**. During summer, it **was filled with the smell of dust settled to the ground** by the **long-awaited rains**. And in the spring … what a beautiful city it was in the spring.
