@@ -46,55 +46,136 @@ As far as the Pentagon is concerned, we are a pin on the map in the Indian Ocean
 the aid from the central government was a godsend. Carrie Lam, the local leader, traveled to the border with the mainland to greet the arriving medics with a bow, a sign of deep gratitude rarely used in the city.
 中央政府的援助是一场及时雨。当地领导人林郑月娥前往与内地接壤的边境，向抵达的医务人员鞠躬表达深切的感激，这是香港很少采用的表达方式
 
-Russia is in no place to negotiate seriously because they have to do better in the war, This is a chance for the Russians to consolidate, to regroup, to remove themselves from places out of reach logistically, where they have already run out of food and ammunition.
+Russia is **in no place** to negotiate seriously because they have to **do better** in the war, This is a chance for the Russians to **consolidate**, to regroup, to remove themselves **from places out of reach logistically**, where they have already **run out of food and ammunition**.
+>in no place 没地方，不可能   
+>out of reach logistically 后勤上无法到达的   
+
 俄罗斯没有正经谈判的资本，因为他们在战争中做得不够好，这是俄罗斯人巩固和重组的机会，让他们可以从后勤上无法到达的地方撤离，在那里他们已经耗尽了食物和弹药
 
-Russia is not negotiating in good faith, but “testing the waters and applying for time, to regroup and re-equip militarily and make more gains on the ground.”
+Russia is not negotiating **in good faith**, but “**testing the waters and applying for time**, to regroup and re-equip militarily and **make more gains** on the ground.”
+>in good faith 真诚地；善意地    
+>test the waters 试水；试探    
+>apply for 寻求；申请   
+>make more gains 取得更多进展
+
 俄罗斯在谈判中没有诚意，而是“在试水，争取时间，重新部署和装备军事力量，在地面战中取得更多进展”
 
-If Ukraine joined now, the country would develop economically even faster, in contrast to Russia, “and you would end up with a South Korea next to a North Korea, and I can’t see Putin accepting that.”
+If Ukraine joined now, the country would **develop economically even faster, in contrast to** Russia, “and you would **end up with** a South Korea next to a North Korea, and I can’t see Putin accepting that.”   
+>develop economically even faster 经济发展速度更快
+
 如果乌克兰现在加入，与俄罗斯相比，该国的经济发展速度会更快，“最终就像在朝鲜旁边出现一个韩国，我不觉得普京会接受这一点。”
 
-The experts who examined the men said “the dosage and type of toxin used was likely insufficient to cause life-threatening damage, and most likely was intended to scare the victims as opposed to cause permanent damage”
+The experts who **examined the men** said “**the dosage and type of toxin** used was likely insufficient to **cause life-threatening damage**, and **most likely was intended to scare** the victims **as opposed to cause permanent damage**”
+>dosage[ˈdoʊsɪdʒ] 剂量   
+
 检查过这些中毒者的专家说，“毒剂的剂量和类型不足以导致危及生命的伤害，很有可能只是为了恐吓受害人，不是想造成永久性伤害”
 
-Reports have emerged of Mr. Zelensky asking President Biden to refrain from sanctioning Mr. Abramovich because of the role he has been playing. It’s the story of good cop, bad cop — there is the official delegation, and Abramovich has a little more freedom.
+**Reports have emerged of** Mr. Zelensky asking President Biden to **refrain from sanctioning** Mr. Abramovich because of the role he has been playing. It’s the **story of good cop, bad cop** — there is the official delegation, and Abramovich **has a little more freedom**.
+>the story of good cop, bad cop 唱红脸白脸的问题
+
 有报道称，由于他所扮演的角色，泽连斯基曾要求拜登总统不要制裁他。这是个唱红脸白脸的问题——有官方的代表团，也有相对更自由的阿布拉莫维奇
 
-For still others, the city’s Covid-19 restrictions have had life-threatening implications. Some residents have been confined at home, unable to get kidney dialysis or other urgent treatment. A nurse who suffered an asthma attack died after she was denied care by a hospital that cited Covid prevention protocols.
+For still others, the city’s Covid-19 restrictions have had **life-threatening implications**. Some residents **have been confined at home**, unable to get **kidney dialysis** or other urgent treatment. A nurse who **suffered an asthma attack** died after she **was denied care** by a hospital that **cited Covid prevention protocols**.
+>implication 含义；推断；牵连；启示   
+>dialysis[daɪˈæləsɪs] 透析; 渗析；分离；洗肾   
+>asthma[ˈæzmə] 哮喘；喘息   
+
 对另外一些人来说，遏制新冠病毒的措施已造成了可能致命的影响。因为不能出门，一些人无法去做血液透析或其他急诊治疗。一名哮喘发作的护士被一家医院因疫情防控停诊为由拒收后死亡
 
-The conventional wisdom is that Vladimir Putin catastrophically miscalculated. He thought his modernized military would make mincemeat of Ukrainian forces. Has he lost contact with reality? Is he physically unwell? Mentally?
+The **conventional wisdom** is that Vladimir Putin **catastrophically miscalculated**. He thought his **modernized military** would **make mincemeat** of Ukrainian forces. Has he **lost contact with reality**? Is he **physically unwell**? Mentally?
+>conventional 传统的；常规的；习惯的    
+>wisdom[ˈwɪzdəm] 智慧；明智；才智；学问    
+>mincemeat[ˈmɪnsˌmit] 甜馅；肉酱； v.碎步走     
+>physically unwell 身体不舒服的
+
 人们普遍认为，普京灾难性地误判了局势。他认为他的现代化军队会把乌克兰军队击溃. 他是否与现实失去了联系？他身体不舒服吗？他的精神状态如何？
 
-Then again, in war, politics and life, it’s always wiser to treat your adversary as a canny fox, not a crazy fool. Under the guise of an invasion, Putin is executing an enormous heist
+Then again, in war, politics and life, **it’s always wiser to treat your adversary as a canny fox, not a crazy fool**. **Under the guise** of an invasion, Putin is **executing an enormous heist**
+>canny[ˈkæni] 精明谨慎的   
+>guise[ɡaɪz] 伪装；姿态；外衣；名义 v.伪装   
+>under the guise 打着幌子    
+>heist[haɪst] 盗窃 v.(在商店、银行)盗窃    
+
 然而，在战争、政治和生活中，把你的对手当作一只狡猾的狐狸，而不是一个疯狂的傻瓜，这总是更明智的做法。普京打着入侵的幌子，正在进行一场巨大的抢劫
 
-Several analysts have compared Putin to a cornered rat, more dangerous now that he’s no longer in control of events. They want to give him a safe way out of the predicament he allegedly created for himself.
+Several analysts have **compared Putin to a cornered rat**, more dangerous now that he’s **no longer in control of events**. They want to give him **a safe way out of the predicament he allegedly created** for himself.
+>cornered rat 走投无路的老鼠   
+>no longer in control of events 不再能控制事态    
+>predicament[ˈpriˈdɪkɑmənt] 困境；尴尬的处境；窘境   
+>the predicament he allegedly created 所谓的作茧自缚    
+
 一些分析人士把普京比作一只走投无路的老鼠，因为他不再能控制事态，所以更加危险。他们想给他一条安全的出路，让他摆脱所谓的作茧自缚
 
-It could mean that enough time has passed that things have kind of blown over, From a macro perspective, it could mean that China is trying to signal that it still wants to maintain good economic relations with the United States despite differences in opinion on the Russia-Ukraine crisis.
+It could mean that **enough time has passed that things have kind of blown over**, **From a macro perspective**, it could mean that China is trying to **signal that** it still wants to maintain good economic relations with the United States **despite differences in opinion** on the Russia-Ukraine crisis.
+>blow over 走过；(风)已定；消灭；被淡忘    
+>enough time has passed that things have kind of blown over 时过境迁    
+>from a macro perspective 从宏观角度来看    
+>despite differences in opinion  尽管存在分歧
+
 这可能意味着已经时过境迁了，从宏观角度来看，这可能意味着中国试图发出信号，表明尽管在俄乌危机上存在分歧，它仍希望与美国保持良好的经济关系
 
-A year ago, while many countries were still reeling from Covid-19, China seemed to be one of few places prospering through the pandemic. Straddling between two boats will only end up in falling in the water.
+A year ago, while many countries were still **reeling from** Covid-19, China **seemed to be one of few places prospering through** the pandemic. **Straddling between two boats will only end up in falling in the water**.
+>reel from 遭受；灾难后蹒跚而行；受…的不好影响    
+>prosper[ˈprɑspər] v.繁荣；成功；发达；兴旺   
+>straddle[ˈstræd(ə)l] v.跨坐；骑；分腿站立；横跨(河流、道路或一片土地) n.叉开两腿；大踏步；骑墙       
+>Straddling between two boats will only end up in falling in the water 脚踩两只船只能掉水里    
+
 一年前，许多国家仍在受新型冠状病毒疾病煎熬时，中国似乎是少数几个在这场大流行病中保持繁荣的地方之一。脚踩两只船只能掉水里。
 
-As the coronavirus races through Shanghai, in the city’s worst outbreak since the pandemic began, the authorities have deployed their usual hard-nosed playbook to try and stamp out transmission, no matter the cost. 
+As the coronavirus **races through** Shanghai, in the city’s worst outbreak since the pandemic began, the authorities have deployed their **usual hard-nosed playbook** to try and **stamp out transmission**, **no matter the cost**. 
+>stamp out transmission 阻止病毒传播    
+>no matter the cost 不惜一切代价   
+>hard-nosed[ˌhɑrd ˈnoʊzd] 顽强的；不屈不挠的；不讲情面的   
+>usual hard-nosed playbook 惯用的严格措施    
+>race through 快速奔跑；快速做完某事    
+
 上海暴发了自从新冠病毒大流行开始以来最严重的疫情，随着病毒的迅速传播，当局采取了惯用的严格措施，不惜一切代价，试图阻止病毒传播
 
-Shanghai is China’s most populous metropolis, its shimmering commercial heart. Whatever pride Shanghaiers had taken in their city’s response has morphed into dismay and outrage. Shanghai’s educated, connected population was more primed than people elsewhere in China to be skeptical of the measures, especially given the lesser severity of the Omicron variant. 
+Shanghai is China’s **most populous metropolis**, its **shimmering commercial heart**. Whatever pride Shanghaiers had **taken in their city’s response has morphed into dismay and outrage**. Shanghai’s **educated, connected population** was **more primed than people elsewhere** in China to be skeptical of the measures, **especially given the lesser severity** of the Omicron variant. 
+>populous[ˈpɑpjələs] 人口众多的；人口密集的    
+>shimmering 微微发亮的；闪烁的    
+>shimmering commercial heart 繁华的商业中心    
+>shimmer[ˈʃɪmər] 发出微弱的闪光；闪烁 n.闪烁的光; 微光    
+>morph[mɔrf] 变体；变形；v.(使)变化；(使)改变    
+>be more primed than 比...更具备条件    
+>severity[sɪˈverəti] 严重；严厉   
+
 上海是中国人口最多的大都市，也是繁华的商业中心。上海人对自己城市的新冠应对曾经有过的自豪现已变成了沮丧和愤怒。与中国其他地方的人口相比，上海受过高等教育且见多识广的人口更容易对封控措施表示怀疑，尤其是在奥密克戎变异株感染的症状不那么严重的情况下
 
-From my 18th-floor window, I can see the koi ponds and gardens below, empty; the hedge maze, empty; the fountain, somehow turned off, its waters unmoving as though in allegiance, in reprieve.
+From my 18th-floor window, I can see the **koi ponds and gardens** below, empty; the **hedge maze**, empty; **the fountain, somehow turned off**, its waters **unmoving as though in allegiance, in reprieve**.
+>koi[kɔɪ] 锦鲤    
+>koi pond 观赏鱼池   
+>maze 迷宫；错综复杂；纵横交错 v.使困惑    
+>fountain[ˈfaʊnt(ə)n] 喷泉；源泉；喷嘴式饮水器    
+>unmoving 不动的；静止的; 不感动人的   
+>as though 仿佛；好象；似乎    
+>allegiance[əˈlidʒəns] 效忠; 忠诚；忠贞；忠心    
+>reprieve[rɪˈpriv] 死刑缓刑令；延缓；缓解 v.撤销…的死刑；取消关闭；暂缓终止    
+
 从18楼的窗户望出去，我能看到楼下观赏鱼池和花园空荡荡的；层叠掩映的树篱空无一人；喷泉不知怎地关闭了，水面静止，仿佛在宣誓臣服，在宣告终止
 
-During that lockdown, Wuhan was victim to the mystery virus. Conjectures and rumors abounded. The death rate was high. Lockdown felt necessary. The fear was real. But the two years since then have been blissfully free of the worries of Covid-19. 
+During that lockdown, Wuhan was victim to the mystery virus. **Conjectures and rumors abounded**. The death rate was high. Lockdown **felt necessary**. The fear was real. But the two years since then have **been blissfully free of** the worries of Covid-19. 
+>conjecture[kənˈdʒektʃər] 猜想；计划；设想 v.猜想；辨读    
+>abound[əˈbaʊnd] v.大量存在；有许多   
+>blissfully['blɪsfəlɪ] 幸福地；惬意地
+
 在那次封锁期间，神秘的病毒在武汉肆虐。猜测和谣言漫天飞。死亡率很高。感觉封锁很有必要。人们是真的很害怕。但在此后两年时间里，人们摆脱了对新冠疫情的担忧
 
-This most recent infiltration of the Omicron subvariant BA.2 is unnerving because we are so used to a life unaffected by Covid-19. With my son still breastfeeding, stubbornly refusing a bottle and allergic to formula, this would be a nightmare scenario.
+This **most recent infiltration** of the Omicron subvariant BA.2 is **unnerving** because we **are so used to a life unaffected by** Covid-19. With my son still **breastfeeding, stubbornly refusing a bottle and allergic to formula**, this would be a nightmare scenario.
+>unnerving 紧张不安的；令人胆怯的   
+>breastfeed 用母乳喂养；哺乳    
+>stubborn[ˈstʌbərn] 固执的；执拗的；顽固的；倔强的   
+>allergic[əˈlɜrdʒɪk] 过敏的
+
 最近扩散开来的奥密克戎亚型变异株BA.2令人不安，因为我们已经太过习惯不受新冠影响的生活。我的儿子还在母乳喂养，他怎么都不肯用奶瓶，还对配方奶粉过敏，与他分开将会是一场噩梦
 
-The rollout has been messy. Grocery store shelves have been emptied as residents went on panic buying sprees. People with life-threatening conditions posted calls for help online when they could not get to hospitals for help. Quarantine facilities and hospitals have overflowed with people who tested positive, who must be confined in such facilities even if asymptomatic.
+The **rollout has been messy. Grocery store shelves have been emptied** as residents **went on panic buying sprees**. People with **life-threatening conditions posted calls for help online** when they could not get to hospitals for help. **Quarantine facilities** and hospitals have **overflowed with people** who tested positive, who must **be confined in such facilities even if asymptomatic**.
+>buying sprees 疯狂购物    
+>life-threatening 致命疾病的    
+>quarantine facility 隔离设施    
+>overflow with 挤满了   
+>asymptomatic 无症状的
+
 分片封控的推出颇为混乱。随着居民们疯狂购物，杂货店的货架被抢购一空。由于无法去医院治疗，患有致命疾病的人在网上发求救贴。隔离设施和医院里挤满了病毒检测呈阳性者，因为即使没有症状，也必须集中在隔离设施中
 
 Perhaps it was the way the **lifeless bodies, bloodied by bullets**, and some **with hands bound**, had **been left strewn about or shoveled into makeshift mass graves**. Or the **reality of seeing them up close in widely circulated** photographs and videos.
