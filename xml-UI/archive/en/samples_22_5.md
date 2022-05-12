@@ -67,3 +67,14 @@ Until now, she has had comparatively little to say about Ukraine, but her full-t
 Dr. Biden’s work was in the tradition of other first ladies who had traveled oversees to witness the “personification of pain,” hearing stories of trauma and war, all while staying within the limits of an unelected role within the administration. There’s real finesse to this, Because you’ve got to carry all of those memories with you. It’s hard work.
 拜登博士的工作沿袭了其他第一夫人的传统，她们前往海外见证“苦难的化身”，聆听创伤和战争的故事，同时保持一个政府内部的非民选角色。这是需要真正的技巧的，因为那些记忆将伴你一生。这是一项艰难的工作
 
+If economists are so smart, why ain’t they rich? I’m not an economist, so the question doesn’t ruffle my feathers. The possible explanations, though, are interesting — sometimes funny, sometimes kind of deep.
+如果经济学家这么聪明，为什么他们不富有？我不是经济学家，所以我没有被这个问题激怒。不过，一些可能的解释很有趣——有时很好笑，有时有点深奥
+
+in the 1970s, senior faculty members were speculating in the bond market. Milton Friedman told her that interest rates were bound to fall. They in fact rose to 10 percent soon after, “and the wise economists lost their shirts.”
+1970年代在芝加哥大学时，资深教员们正在投机债券市场。米尔顿·弗里德曼告诉她，利率必然会下降。不久之后“实际上升到了10%”，“深谋远虑的经济学家们输得精光。”
+
+I don’t pay any attention to what economists say, frankly. You have all these economists with these 160 IQs who spent their life studying it. Can you name me one super-wealthy economist who’s ever made money out of securities?
+坦率地说，我并不在意经济学家怎么说。有那么多智商160的经济学家穷极一生研究经济学。你能说出有哪位经济学家曾经通过在证券市场赚钱成为超级富豪吗？
+
+Buffett is right that economics isn’t an ideal way to make money as an investor. On the other hand, that’s not what it’s for. It’s a science of means and ends. Let economists be economists!
+巴菲特是对的，经济学并不是作为投资者赚钱的理想方式。另一方面，这也不是经济学的用途。这是一门关于手段和目的的科学。让经济学家做经济学家吧！

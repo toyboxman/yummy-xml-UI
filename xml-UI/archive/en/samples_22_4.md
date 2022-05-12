@@ -19,31 +19,85 @@
 *
 *
 
-One fighter tripped on a branch and snapped a flip-flop. A couple of militia members wore body-armor vests, but without the hard ballistic plates that might save their lives.
+One fighter **tripped on a branch and snapped a flip-flop**. A couple of **militia members wore body-armor vests**, but without the **hard ballistic plates** that might save their lives.
+>snap (使咔嚓)断裂；移到某位置；厉声说   
+>snapped a flip-flop  碰断了触发器   
+>flip-flop 触发器；人字拖鞋；夹脚趾拖鞋 v.改变观点    
+>militia[məˈlɪʃə] 民兵组织；国民卫队    
+>body-armor vest 防弹背心   
+>ballistic[bəˈlɪstɪk] 弹道的；弹道学的   
+
 一名战士被树枝绊倒，碰断了触发器。有几个民兵穿了防弹衣，但没有穿可能挽救他们生命的防弹硬板。
 
-a former hotel banquet coordinator slipped his index finger onto the trigger of an assault rifle. A dentist recalled picking larvae from a young fighter’s infected bullet wound. A marketing manager described the adapted commercial drones she is directing to foil the enemy.
+a former hotel **banquet coordinator slipped his index finger onto the trigger** of an **assault rifle**. A dentist **recalled picking larvae** from a young fighter’s **infected bullet wound**. A marketing manager described the **adapted commercial drones** she **is directing to foil** the enemy.
+>banquet[ˈbæŋkwɪt] 宴会；筵席；盛宴 v.宴请；饮宴；大吃大喝    
+>index finger 食指   
+>assault rifle 突击步枪   
+>larva[ˈlɑrvə] 幼虫；幼体 Plural Form：larvas larvae   
+>bullet wound 枪伤    
+>adapted commercial drones 改装的民用无人机    
+>foil[fɔɪl] 箔；陪衬物；花剑 v.衬托；阻止；挫败；搅乱   
+
 一位曾经的酒店宴会统筹人用食指扣住了突击步枪的扳机。一位牙医回忆起自己如何从年轻战士被感染的枪伤中挑出虫卵。一位营销经理介绍了她正在操纵的用来打击敌人的改装民用无人机
 
-He used to spend his days clarifying beef consommé and grilling the perfect medium-rare steak. While no solid data exists, the number of Tatmadaw desertions appears, anecdotally, to be rising. Even before the coup, soldiers were overstretched and underpaid.
+He **used to spend** his days **clarifying beef consommé and grilling the perfect medium-rare steak**. While **no solid data exists**, the number of **Tatmadaw desertions appears, anecdotally**, to be rising. Even before **the coup**, soldiers **were overstretched and underpaid**.
+>consomme[kən'sɒmeɪ] 清汤；清炖肉汤   
+>clarifying beef consommé 撇去牛肉汤里的浮沫   
+>clarify 澄清；阐明；净化    
+>medium-rare steak 三分熟牛排；半生半熟的牛排    
+>desertion[dɪˈzɜrʃ(ə)n] 遗弃；脱党；逃走；荒废; 开小差    
+>anecdotal[ˌænəkˈdoʊt(ə)l] 逸事的；趣闻的；传闻的    
+>overstretched[ˌoʊvərˈstretʃt] 过度扩张的；力量已经伸展穷尽的  
+
 他以前的生活就是整天忙着撇去牛肉汤里的浮沫，将牛排烤至完美的半熟。虽然没有可靠的数据，但据传闻，缅甸军队的逃兵人数似乎正在上升。甚至在政变之前就已经存在兵源和薪水不足的问题
 
-There is just darkness and long minutes of silence when the ticking of battery-powered wall clocks or the grating of open gates in the cold wind are anxiously scrutinized until the next explosion thuds somewhere nearby, rattling windows. And bones.
+There is just darkness and **long minutes of silence** when the **ticking of battery-powered wall clocks** or **the grating of** open gates in the cold wind are **anxiously scrutinized** until the next **explosion thuds somewhere nearby**, **rattling windows. And bones**.
+>long minutes of silence 漫长的静寂    
+>the ticking of battery-powered wall clocks 电子钟发出的滴答声    
+>grating[ˈɡreɪtɪŋ] 刺耳的    
+>grate[ɡreɪt] 炉箅子；下水道过滤栅子 v.磨碎(食物)；使人烦躁；使人烦恼；使人难受   
+>thud[θʌd] v.砰地落下；飕的一声击中；怦怦地跳 n.砰的一声；扑通一声    
+>rattle n.拨浪鼓；咔嗒声 v.发出连续短促的高声；使紧张    
+
 在黑暗和漫长的静寂中，焦急地聆听着电子钟发出的滴答声，或是寒风中敞开的栅栏门发出的嘎吱声，直到下一次爆炸在附近某个地方响起，震得窗户哗啦作响。连身体里的骨头都在颤抖
 
-Bracketed by rolling wheat and sunflower fields and bisected by the Haichur River, Huliaipole looks and feels like a Soviet-era staple: modest homes and low-slung apartment buildings with spacious tree-lined streets, perfect for an afternoon bicycle ride in another time.
+**Bracketed by rolling wheat and sunflower** fields and **bisected by** the Haichur River, Huliaipole **looks and feels like a Soviet-era staple**: **modest homes and low-slung apartment** buildings with **spacious tree-lined streets**, perfect for an afternoon bicycle ride in another time.
+>bracketed 加括号的；包裹着的     
+>bisected 一分为二的   
+>bisect[baɪˈsekt] v.对半分；二等分; 平分；角平分线   
+>looks and feels n.外观    
+>modest[ˈmɑdəst] 不太大(或太贵、太重要等)的；谦虚的；谦逊的; 适度的；有节制的    
+>modest home  简朴的房屋     
+>sling v.挂；吊；n.(悬吊受伤手臂的)悬带；吊带；(用以背婴儿的)吊兜 Past Tense：slung
+>low-slung 低的；接近地面的   
+>tree-lined 绿树成荫的；绿树成行的；树木成排的
+
 古利艾波列被连绵起伏的小麦和向日葵田环抱，盖丘尔河将其一分为二，它看上去与苏联时代最常见的小镇并无二致：简朴的房屋和低矮的公寓楼，绿树成荫的宽敞街道，也许在另一个时代，非常适合在下午骑自行车出行
 
-He maneuvered his bus over the potholed roads common in Ukraine’s more rural reaches, downshifting to almost a standstill to navigate the larger craters left by overuse and disrepair.
+He **maneuvered his bus** over the **potholed roads common in** Ukraine’s **more rural reaches**, **downshifting to almost a standstill** to navigate the **larger craters left by overuse and disrepair**.
+>maneuver bus 驾驶着大巴    
+>potholed[ˈpɒtˌhəʊld] 很多坑的; 崎岖不平的    
+>downshift 换低挡；减慢节奏(为减轻压力而更换工作或生活方式); 降档      
+>crater[ˈkreɪtər] 火山口；弹坑；v.(使)成坑状    
+
 他驾驶着大巴，行驶在乌克兰农村地区常见的坑洼道路上，为了驶过因过度使用和年久失修留下的较大坑洞，他只得减速，有时几乎停下来
 
-India lagged far behind China in opening up its economy, missing out on the early benefits of globalization that turned Beijing into a giant. Ultimately, the real security lies in economic growth and, you know, quickly getting to something close to $10 trillion, Basically what China did.
+India **lagged far behind** China in opening up its economy, **missing out** on the early benefits of globalization that turned Beijing into a giant. Ultimately, the real security **lies in economic growth** and, you know, quickly getting to something close to $10 trillion, **Basically what China did.**
+>lag far behind 远落后    
+>miss out 错过(机会等)；遗漏    
+>lie in 存在于；(分娩后)坐月子
+
 印度在开放经济方面远远落后于中国，错过了全球化早期的好处，而北京通过全球化成为了经济巨人。归根结底，真正的安全在于经济增长，迅速接近10万亿美元，基本上就是中国所做的事情
 
-As far as the Pentagon is concerned, we are a pin on the map in the Indian Ocean region. We are not that in Europe, where we have no role to play in hard defense terms. The Indian government’s confidence that its divergence from Western pressure on Russia will ultimately not damage its relations is rooted in the fact that India is an important potential check on China’s expansionist foreign policy.
+**As far as the Pentagon is concerned**, we are **a pin on the map** in the Indian Ocean region. We are not that in Europe, where we **have no role to play in hard defense terms**. The Indian government’s confidence that its **divergence from** Western pressure on Russia will ultimately not damage its **relations is rooted in the fact** that India is an important potential check on China’s **expansionist foreign policy**.
+>have no role to play 没有任何角色    
+>be rooted in 植根于
+
 对五角大楼而言，我们是印度洋地区地图上的一个图钉，我们在欧洲没有这样的位置，我们在硬防御方面没有任何角色。印度政府相信，在对俄罗斯施压上，它与西方的分歧最终不会损害关系，根源在于印度是中国扩张主义外交政策的重要潜在制衡者
 
-the aid from the central government was a godsend. Carrie Lam, the local leader, traveled to the border with the mainland to greet the arriving medics with a bow, a sign of deep gratitude rarely used in the city.
+The aid from the central government was a **godsend**. Carrie Lam, the local leader, traveled to the border with the mainland to **greet the arriving medics with a bow, a sign of deep gratitude rarely used** in the city.
+>godsend 天赐之物；意外的好运；及时雨   
+
 中央政府的援助是一场及时雨。当地领导人林郑月娥前往与内地接壤的边境，向抵达的医务人员鞠躬表达深切的感激，这是香港很少采用的表达方式
 
 Russia is **in no place** to negotiate seriously because they have to **do better** in the war, This is a chance for the Russians to **consolidate**, to regroup, to remove themselves **from places out of reach logistically**, where they have already **run out of food and ammunition**.
