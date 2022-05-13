@@ -78,3 +78,27 @@ I don’t pay any attention to what economists say, frankly. You have all these 
 
 Buffett is right that economics isn’t an ideal way to make money as an investor. On the other hand, that’s not what it’s for. It’s a science of means and ends. Let economists be economists!
 巴菲特是对的，经济学并不是作为投资者赚钱的理想方式。另一方面，这也不是经济学的用途。这是一门关于手段和目的的科学。让经济学家做经济学家吧！
+
+It didn’t quite work as intended. Inflation never met the government’s modest target, despite rock-bottom interest rates and heaps of fiscal stimulus. Workers’ wages stagnated, and growth remained anemic.
+但事与愿违。尽管利率处于最低水平并且有大量财政刺激措施，通胀始终未能达到政府的保守目标。工人工资停滞不前，增长依然乏力
+
+The twin forces are posing yet another challenge for the world’s third-largest economy as Japan trails other major nations in emerging from the economic blow of the pandemic. The rise in prices has spooked Japanese consumers used to decades of stability, and the weak yen is starting to look as if it will depress demand at home more than stimulate it abroad.
+随着各国都在努力摆脱大流行带来的经济打击，日本在这一方面落后于其他国家，而这两种力量对这个世界第三大经济体构成了又一挑战。日本消费者几十年来习惯了稳定的物价，价格上涨已经吓坏了他们，而疲软的日元看起来似乎会抑制国内需求，而不是刺激国外需求
+
+A Bank of Japan report released in January found that although a weak yen continued to aid the economy, its positive impact on exports had shrunk over the decade leading up to the pandemic.
+日本央行1月发布的一份报告发现，尽管日元疲软继续对经济有所帮助，但其对出口的积极影响在大流行之前的十年中已经减弱
+
+High inflation is politically toxic, and trying to correct for it, the medicine, is also an extremely bitter pill, Prime Minister Fumio Kishida has brushed off suggestions that the Bank of Japan should seek to strengthen the yen by raising interest rates. Instead, he has sought to combat rising prices with more stimulus. 
+高通胀在政治上是有毒的，而试图纠正它的良药，也是一颗极其苦涩的药丸，日本首相岸田文雄没有理会对日本央行应寻求通过提高利率来强化日元的建议。相反，他试图通过更多刺激措施来应对价格上涨
+
+Ultimately, they struggled against a powerful political family that was adept at building alliances and avoiding any semblance of accountability.The country’s school textbooks gloss over the atrocities of the Marcos era. He should not be judged by the sins of his dad. Mr. Duterte, an ally of the Marcoses, had paved the way for a full rehabilitation of the Marcos name.
+最终，他们对抗的是一个强大的政治家族，擅长拉帮结派，规避任何形式的问责。该国的教科书掩盖了马科斯时代的暴行。他不应该因为父亲的罪过而受到刁难。杜特地是马科斯家族的盟友，为马科斯家族的东山再起铺平了道路。
+
+Yoon Suk-yeol, the new president of South Korea, was sworn into office in Seoul on Tuesday, using his inaugural speech to make promises to heal political and economic divides at home, to fight for international norms and to offer an ambitious package of economic incentives to North Korea. Mr. Yoon has vowed to align his country more closely with Washington while also mending fractured ties with Japan.
+韩国新任总统尹锡悦周二在首尔宣誓就职。他在就职演讲中承诺弥合国内的政治和经济分歧，为国际规范而战，并将向朝鲜提供一套雄心勃勃的经济激励方案。尹锡悦已郑重宣布，将让韩国与华盛顿更紧密地结盟，同时修补与日本破裂的关系。
+
+Mr. Yoon, 61, won the March 9 election with a razor-thin margin against his rival. ​He faces myriad challenges at home. During the campaign, Mr. Yoon was accused of pandering to widespread sentiment against China as well as an anti-feminist movement led by young South Korean men. During the campaign, Mr. Yoon threatened “pre-emptive strikes” against North Korea should an attack look imminent.
+在今年3月9日的大选中，61岁的尹锡悦以微弱优势击败对手。尹锡悦在国内面临着众多挑战，在竞选期间，有人指责尹锡悦迎合普遍的反华情绪，迎合由韩国年轻男性领导的反女权运动。他曾在竞选期间威胁说，如果有朝鲜即将发动攻击的迹象，将对其进行“先发制人的打击”。
+
+Rapid growth will open up new opportunities, It will improve social mobility, thereby helping us rid of the fundamental obstacles that are aggravating social divide and conflicts.
+快速的经济增长将带来新的机会，提高社会流动性，从而帮助我们消除正在加剧社会分化和冲突的根本障碍
