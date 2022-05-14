@@ -143,55 +143,85 @@ The whole project **smelled bad** from the start, but if **there had not been** 
 The bank’s loans to Kyrgyzstan, just $9 million in 2008, have **ballooned** to more than $1.7 billion
 该银行在2008年向吉尔吉斯斯坦提供的贷款只有900万美元，现在已经增长到17亿美元以上
 
-this is the final position of the Chinese side
-这是中方的最终立场
+Construction started **shortly afterward**. “It was **obscene**,” he said. “We **were all in shock**.”
+>afterward adv.之后；以后；然后；随后    
+>obscene[ɑbˈsin] 淫秽的；猥亵的；下流的；(数量等)大得惊人的
 
-Construction started **shortly afterward**.
-之后没多久，施工开始了。
+之后没多久，施工开始了。“这太卑鄙了，”他说，“我们都很震惊。”
 
-“It was **obscene**,” he said. “We were all in shock.”
-“这太卑鄙了，”他说，“我们都很震惊。”
+The meeting **comes at a fraught moment** in the history of **arms control** between Washington and Moscow
+>fraught[frɔt] 充满(不愉快事物)的；焦虑的；忧虑的；担心的 n.货物   
 
-The meeting comes at a **fraught momen** in the history of **arms control** between Washington and Moscow
 此次会晤时值华盛顿与莫斯科军控历史上的一个紧张时刻
 
-Instead, Mr. Trump’s administration argues that two-way Russian-American arms agreements **dating to** the 
-Cold War are **antiquated** in a world where China is a rising power, although it remains unclear how committed 
-he really is to any new accord given his administration’s skepticism of arms control.
+Instead, Mr. Trump’s administration argues that two-way Russian-American arms agreements **dating to** the Cold War are **antiquated** in a world where China is a rising power, although it **remains unclear how committed** he really is to any **new accord** given his administration’s **skepticism** of arms control.
+>antiquate['æntɪkweɪt] 使变旧；使过时；使具有古风   
+>dating to 追溯至    
+>new accord 新协议  
+
 相反，特朗普政府认为，在一个中国正在崛起的世界里，可追溯至冷战时期的俄美双向武器协议已经过时，但鉴于他的政府对军控的怀疑，尚不清楚他对新协议到底有多投入。
 
-Those totals include both **strategic warheads** limited by the New Start treaty as well as shorter-range 
-weapons that are not covered and other warheads that are no longer in military service and awaiting **dismantlement**.
+Those totals include both **strategic warheads** limited by the New Start treaty **as well as shorter-range weapons** that are not covered and other warheads that are **no longer in military service** and awaiting **dismantlement**.
+>strategic warheads 战略弹头   
+>no longer in military service 退役   
+>dismantlement[ˌdɪs'mæntlment] 拆卸；拆除
+
 这些数字包括受《新条约》限制的战略弹头，以及未包括在内的短程武器和其他已经退役并等待拆除的弹头
 
-As to the **trilateral negotiations** on arms control, China’s position is **clear-cut**,The **premise and basis** 
-for trilateral arms control negotiations do not exist at all, and China will never participate in them.
+**As to** the **trilateral negotiations** on **arms control**, China’s position is **clear-cut**,The **premise and basis** for trilateral arms control negotiations do not exist at all, and China will never **participate in** them.
+>as to 至于；说到   
+>trilateral[traɪˈlæt(ə)rəl] 三边的；三方的 n.三边形; 三角形    
+>arms control 军控   
+>clear-cut 清晰的    
+>premise[ˈpremɪs] n.前提；假定 v.假定；预述(条件等)；引导(论述等)；提出…作为前提[条件]   
+>premise and basis 前提和基础   
+>participate in 参与；参加  
+
 关于所谓的中美俄三边军控谈判问题，中方的态度十分明确，搞这样所谓的三边军控谈判的前提和基础根本不存在，中方也绝不会参加。
 
-it “would be **malpractice**” to renew the treaty unless it were rewritten to cover weapons not currently limited
+It “would be **malpractice**” to **renew the treaty** unless it **were rewritten to cover** weapons not currently limited
+>malpractice[mælˈpræktɪs] n.玩忽职守；渎职   
+>renew the treaty 续签条约   
+
 除非涵盖目前不受限制的武器，否则续签该条约“将存在弊端”
 
-Trade talks with China have **faltered** in recent months, and Mr. Trump and his aides appear to be **in no hurry** 
-to resolve the dispute, **projecting confidence** that China is suffering more of the harm, if not all of it.
+Trade talks with China have **faltered** in recent months, and Mr. Trump and his aides appear to be **in no hurry** to resolve the dispute **projecting confidence** that China **is suffering more of the harm, if not all of it**.
+>falter[ˈfɔltər] v.蹒跚；畏缩；衰弱；衰退 n.结巴；踌躇；不稳；摇晃   
+>in no hurry 不着急；不慌不忙；不匆忙    
+>project confidence 表现自信；表达自信心
+
 近几个月来，与中国的贸易谈判一直步履蹒跚，特朗普和助手们似乎并不急于解决争端，这表示他们相信，在贸易战中，中国遭受的损害更大，如果不是全部损害的话。
 
 Mr. Trump’s tariffs are **undeniably** hurting China
+>undeniably[ˌʌndɪˈnaɪəb(ə)lɪ] 无可否认地；无可争辩地
+
 不可否认，特朗普的关税对中国造成了伤害
 
 Certainly it is absolute **folly** to suggest that this is **cost free** for the U.S..
+>folly[ˈfɑli] 愚蠢；愚笨；荒唐事；蠢事    
+>cost-free 免费奉送的；无成本的   
+
 要说这不会让美国付出代价，那当然是绝对愚蠢的
 
-An order in January encouraged companies to use American **iron, steel, aluminum, cement** and other products 
-to the extent practical, but did not **set any binding target**.
+An order in January encouraged companies to use American **iron, steel, aluminum, cement** and other products to the extent practical, but did not **set any binding target**.
+>aluminum[əˈlumɪnəm] 同“aluminium”; 铝
+
 今年1月的一项命令鼓励企业尽量使用美国的钢铝和水泥等产品，但没有设定任何有约束力的目标
 
-Its economy is **entwined with** China’s, and Beijing has embraced the country’s Communist Party leaders in Hanoi as **ideological brethren**.
+Its economy is **entwined with** China’s, and Beijing has **embraced** the country’s Communist Party leaders in Hanoi as **ideological brethren**.
+>entwine[ɪnˈtwaɪn] v.缠绕；盘绕；与…密切相关(或紧密相联)    
+>be entwined with 有着紧密的联系；与……交织在一起   
+>brethren[ˈbreðrən] 同仁; 同胞；弟兄会；兄弟
+
 它在经济上与中国密不可分，而且北京把河内的越共领导人视为意识形态上的兄弟
 
-That means Viettel and Huawei could still **team up** someday
+That means Viettel and Huawei could still **team up** someday     
 这意味着有一天，越南电信与华为仍然有机会合作
 
-But observers expect that Vietnamese carriers will **err on the side of caution** when they sign commercial 5G agreements. 
+But observers expect that Vietnamese carriers will **err on the side of caution** when they **sign commercial 5G agreements**.
+>err[ɜr] v.犯错误；做错事；出差错  
+>err on the side of caution 宁可谨慎；慎之又慎；谨慎并小心因应
+
 但观察人士预计，越南的运营商在签署商用5G协议时会非常谨慎
 
 After China **placed an oil rig off** Vietnam’s coast in 2014, **marauding crowds of** Vietnamese workers **stormed factories** and attacked Chinese laborers. In response, Hanoi has **cautiously cultivated closer ties with** Washington.

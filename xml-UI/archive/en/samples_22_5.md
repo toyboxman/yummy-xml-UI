@@ -102,3 +102,73 @@ Mr. Yoon, 61, won the March 9 election with a razor-thin margin against his riva
 
 Rapid growth will open up new opportunities, It will improve social mobility, thereby helping us rid of the fundamental obstacles that are aggravating social divide and conflicts.
 快速的经济增长将带来新的机会，提高社会流动性，从而帮助我们消除正在加剧社会分化和冲突的根本障碍
+
+One field on the flat plains east of Beijing was patchy, with knee-high emerald stalks in some spots while almost bald elsewhere, damaged by the torrential rains of last autumn. The next village over, a luxurious wheat crop was thriving after this spring’s bright sunshine and slow, soaking rains.
+北京东部的平原上，有一片田地斑驳陆离，有些地方，翠绿的茎干高至膝盖，也有些地方几乎是光秃秃的，这都是去年秋天的暴雨造成的破坏。隔壁村庄里，在今春的明媚阳光和绵绵细雨滋润下，一大片小麦正茁壮成长。
+
+If the Chinese harvest is bad in the coming weeks, it could drive food prices up further, compounding hunger and poverty in the world’s poorest countries. Russia’s invasion, including a blockade of ports, has disrupted supplies from Ukraine, a leading grain exporter long known as Europe’s breadbasket.
+如果中国未来几周的收成不好，可能会进一步推高食品价格，加剧世界最贫穷国家的饥饿和贫困。俄罗斯的入侵，包括对乌克兰港口的封锁，扰乱了从乌克兰发出的粮食供应。乌克兰是一个主要粮食出口国，长期以来被称为欧洲粮仓。
+
+Deluges last autumn left the soil so waterlogged that the wheat roots could not easily penetrate it, said Ren Ruixia, a 45-year-old farmhand, as she surveyed a wheat field that looked like it had a bad haircut. The adequacy of food supplies has long been a top issue in China, agriculture ministry officials have issued warnings, although not quite as downbeat.
+今年45岁的农工任瑞霞在查看一片看起来像剪坏了发型的麦田时说，去年秋天的大雨让土壤积水严重，小麦的根部不易穿透。长期以来，充足的粮食供应在中国一直是首要问题，农业部官员也发出了警告，尽管没有那么悲观。
+
+China’s nervousness about its food stocks could ripple through the global supply chain. China’s next move will come down to the harvest. Much depends on how well drained their fields are, but everyone agreed that the rain last autumn had been remarkable. In Pingyao, the centuries-old city walls, made with mud cores, collapsed after they became sodden last fall.
+中国对粮食库存的紧张情绪可能会波及全球供应链。中国接下来会怎么做，将取决于收成情况。这在很大程度上取决于各家农田的排水情况，但每个人都认为去年秋天的雨水太多了。在古城平遥，去年秋天的降水导致泥砖砌成的城墙坍塌。
+
+The crop was planted unusually late, after the autumnal equinox, the traditional last day of planting in the area. But in recent years the weather has been staying warm later, so the wheat has a chance to germinate before winter frosts force it into dormancy.
+这种作物的种植时间非常晚，在秋分过后，而秋分是该地区传统上播种的最后日子。不过近些年来，天气要很晚才开始变冷，所以小麦有机会在冬季霜冻迫使其进入休眠状态之前发芽。
+
+So far, the fissures are mostly superficial: Hungary’s refusal to sign on to an embargo of Russian oil, thwarting the European Union’s effort to impose a continentwide ban; restiveness in Paris with the Biden administration’s aggressive goal of militarily weakening the Russian president, Vladimir V. Putin; a beleaguered President Biden blaming sky-high food and gas prices on a Putin price hike. Alongside those tensions, there are further signs of solidarity
+到目前为止，分歧大多是表面的：匈牙利拒绝签署对俄罗斯石油禁运的协议，这挫败了欧盟在整个欧洲大陆实施禁运的努力；巴黎对拜登政府在军事上削弱俄罗斯总统普京的强硬目标感到不安；陷入困境的拜登总统将食品和天然气价格居高不下归咎于普京的提价。除了这些紧张局势，还有更多团结起来的迹象
+
+As the fighting grinds on, the cascading effect on supply chains, energy pipelines and agricultural harvests will be felt more acutely at gas pumps and on supermarket shelves. especially if the price for the West’s continued support is turbocharged inflation rates, energy disruptions, depleted public finances and fatigued populations.
+随着战争继续，人们将在加油站和超市货架上更敏锐地感受到它对供应链、能源管道和农业收成造成的连带影响。尤其是如果西方继续提供支持，就意味着要付出通胀率急剧上升、能源供应中断、公共财政枯竭和人心疲惫的代价。
+
+French diplomats with ties to Mr. Macron described the evolving American policy as essentially arming Ukraine to the hilt and maintaining sanctions on Russia indefinitely. France, they said, wants to push hard for negotiations with Mr. Putin because there was no other path to lasting European security.
+与马克龙有联系的法国外交官将美国不断演变的政策描述为实质上是在从头到脚武装乌克兰，并无限期地维持对俄罗斯的制裁。他们说，法国希望大力推动跟普京的谈判，因为没有其他途径可以实现欧洲的持久安全。
+
+Other analysts argue that the threats to Western unity are overdone. The moves by Finland and Sweden to join NATO suggest not only that the alliance is pulling together but also that its center of gravity is shifting eastward.
+另有分析人士认为，西方国家的团结受到威胁的看法有些夸张了。芬兰和瑞典加入北约的举动不仅表明北约正在团结起来，而且其重心正在向东转移。
+
+We tend to think of corruption as a failure of morality, when a greedy person decides to benefit by steering public resources toward private gain. But while that’s not exactly untrue, it misses the most important thing: namely, that corruption is a group activity. You need bribe-payers and bribe-takers, resource-diverters and resource-resellers, look-the-other-wayers and demand-a-share-of-the-takers.
+我们倾向于认为腐败是道德的失败，是一个贪婪的人决定将公共资源用于私人利益。但是，尽管这种观点并非完全错误，但它忽略了最重要的一点：腐败是一种群体活动。你需要贿赂者和受贿者，资源分流者和资源转售者，另辟蹊径者和要求分一勺羹者。
+
+What is different with systemic corruption is that it’s the expected behavior, Those who refuse to participate in the parallel economy of favors and bribes get passed over for promotion, cut off from benefits, and frozen out of power. Meanwhile, those who are skilled at corruption rise through the ranks, gaining more authority, more resources to distribute to cronies, and more ability to punish anyone who poses a threat to them. The result is a system where power and wealth accrue to those willing to play the corruption game, and those who are not get left behind.
+系统性腐败的不同之处在于，它是人们预期中的行为. 如果拒绝参与这种人情和贿赂的并行经济，就会被排除在晋升之外，被剥夺福利，被冻结在权力之外。与此同时，擅长腐败的人会步步高升，获得更多权力，拥有更多资源分配给亲信，更有能力惩罚任何对他们构成威胁的人。其结果是，权力和财富流向那些愿意参与腐败游戏的人，而那些不愿意参与腐败游戏的人则被抛在后面。
+
+The narratives Mr. Putin has been spinning to justify his war in Ukraine are very much in line with the grand, nostalgic narratives of Victory Day. Victory Day military parades in major Russian cities are followed by marches of ordinary citizens carrying pictures of relatives who fought in the war. Hundreds of thousands, if not millions, take part in “Immortal Regiment” marches honoring the soldiers and civilians who fought and died in the war. On Red Square, the event also features a display of historical military weapons, modern tanks and missile systems and other expressions of Russian military grandeur.
+普京一直在为他入侵乌克兰辩护，故意按照胜利日宏大、怀旧的叙事来描述这场战争。俄罗斯的主要城市都将举行胜利日阅兵式，随后是举着参加“二战”亲人照片的普通市民的游行。每年，即使没有百万，也是数十万人参加“不朽团”游行，纪念“二战”中作战和死亡的士兵和平民。红场上还有展示历史上的军事武器、现代的坦克和导弹系统，以及其他显示俄罗斯军队气势的活动。
+
+The shift from general to limited conquest was already a concession on Russia’s part. The Russian leadership has blamed a single factor: It claims to be fighting not just Ukraine but the NATO system in Eastern Europe. Hubris and clumsy tactics are more to the point. Negotiations between Ukraine and Russia were always fraught but contained moments of promise. They have now stalled completely. Russia bears its fair share of responsibility, of course. But European channels to Moscow have been all but severed
+从全面征服到有限征服，这一转变已经是俄罗斯方面的让步。俄罗斯领导层归咎于一个因素：它声称不仅要与乌克兰作战，还要与东欧的北约体系作战。更恰当的解释应该是傲慢和笨拙的策略。俄乌之间的谈判一直剑拔弩张，但并非没有让人看到希望的瞬间。然而现在谈判完全停滞了。对此俄方当然要负一部分责任。但欧洲与莫斯科的沟通渠道已经悉数切断
+
+even staunch Ukrainian nationalists expressed views far more pragmatic than those that are routine in America now. Talk of neutral status for Ukraine and internationally monitored plebiscites in Donetsk and Luhansk has been jettisoned in favor of bombast and grandstanding.
+即使最坚决的乌克兰民族主义者表达的态度，也要比现在美国的标准姿态务实的多。有关乌克兰的中立地位和国际监督下的顿涅茨克和卢甘斯克公投的想法已被抛在一边，取而代之的是浮夸而哗众取宠的言论。
+
+The war was dangerous and destructive enough in its initial form. The combination of expanded strategic aims and scotched negotiations has made it more dangerous still. At present, the only message to Russia is: There is no way out. Nuclear weapons are discussed in easy tones, not least on Russian television. 
+这场战争即使以它最初的形式看也是危险而毁灭性的。在战略目标扩大化和谈判受制的双重作用下，危险还会加剧。现在向俄罗斯传达的讯息只有一个：所有出路都已经封死。人们用平淡无奇的语调谈论着核武器，尤其是在俄罗斯的电视上。
+
+Russia’s economic position has deteriorated. Far from a commodity superpower, its undersized domestic industry is struggling and is dependent on technology imports that are now inaccessible. What’s more, the invasion has led directly to greater military spending in second- and third-tier European powers. The number of NATO troops in Eastern Europe has grown tenfold, and a Nordic expansion of the organization is likely. 
+俄罗斯的经济形势在恶化。它在日用品领域实力不强，规模有限的本土工业处境艰难，需要依靠一些如今已经无法获得的技术进口。此外，这场入侵也导致欧洲二三线国家增加军费开支。北约在东欧的驻军扩充了十倍，并且一些北欧国家可能会加入该组织。
+
+Ukrainian casualties are not insignificant，A decisive military result in eastern Ukraine may prove elusive. Yet the less dramatic outcome of a festering stalemate is hardly better. Diplomatic efforts ought to be the centerpiece of a new Ukraine strategy. Instead, the Donbas is the frontier of freedom. This is not just declamatory extravagance. It is reckless. The risks hardly need to be stated.
+乌克兰的损失不小，在东部的战事在军事上恐怕不会产生一个决定性的结果。然而这样一个惨厉的苦战僵局，就算以相对平淡的方式收尾，也谈不上是什么好事。一个新的乌克兰战略应该以外交努力为核心。然而，顿巴斯成了自由世界的边疆。这不只是夸夸其谈。这是在胡闹。由此带来的风险是显而易见的。
+
+North Koreans are chronically malnourished and unvaccinated, there are barely any medicines left in the country, and the health infrastructure is incapable to deal with this pandemic, The international community should offer medicine for Covid-19 related symptoms, Covid-19 treating anti-viral medicines, and provide vaccines and all necessary infrastructure for vaccine preservation, including fridges, generators and gasoline.
+长期以来，朝鲜民众营养不良，而且未接种疫苗，该国药品所剩无几，而且卫生基础建设不足以应对这场大流行，国际社会应该提供治疗新冠感染相关症状的药物，新冠抗病毒药物，并提供疫苗和一切保存疫苗所需的基础设施，包括冷柜、发电机和汽油。
+
+Coinbase, the large cryptocurrency exchange, tanked in value. A cryptocurrency that promoted itself as a stable means of exchange collapsed. The crypto world went into a full meltdown this week in a sell-off that graphically illustrated the risks of the experimental and unregulated digital currencies. Critics said the collapse was long overdue, while some traders compared the alarm and fear to the start of the 2008 financial crisis.
+大型加密货币交易所Coinbase市值暴跌。一种自称是稳定交易手段的加密货币崩溃了。加密货币世界在本周的抛售中彻底崩溃，这生动地说明了试验性和不受监管的数字货币存在的风险。批评人士表示，这次崩溃早该发生了，而一些交易员则将这种警报和担忧与2008年金融危机开始之时相提并论。
+
+Big banks like Northern Trust and Bank of America also streamed in, along with hedge funds, some using debt to further juice their crypto bets. Those factors have compounded a so-called pandemic hangover that began as life started returning to normal in the United States
+北方信托银行和美国银行等大银行以及对冲基金也纷纷涌入，一些对冲基金利用债务进一步充实自己的加密货币投资。这些因素加剧了随美国生活恢复正常而开始的所谓“疫情后遗症”
+
+the average Bitcoin owner on Coinbase would not lose money until the digital currency’s price sank below $21,000. That, according to Mr. Dolev, is where a true death spiral could occur. Bitcoin was working as long as no one lost money, Once it gets back to those levels, that’s sort of the ‘Oh, my God’ moment. Professional investors who have weathered past crypto volatility also stayed calm. Some were even trying to capitalize on the drop.
+Coinbase上的一般比特币持有者都不会亏损。多勒夫认为，只有到发展到那个地步，才有可能出现真正的死亡旋涡。只要没人赔钱，比特币就能运转，一旦它回到那个价位，那才是会喊出‘我的妈呀’的时候。过去经历过加密货币波动的专业投资者也保持了冷静。有些人甚至试图利用这次下跌赚钱。
+
+A perfect replica requires imperfection. Take a grilled fish: Uniform all over, flawless in color and texture, it tells you nothing. But let’s say its silvery skin is marked with bubbles of assorted sizes, delicate crinkles and slightly uneven washes of carbonization. Let’s say the fish’s eyes are clouded over from the heat. And its markings, when you look closer, suggest it was flipped over the charcoal, showing you, under the gloss of its own rendered fat, a hot spot, where the heat on this nonexistent grill was more intense.
+瑕疵使仿制品看上去更完美。拿烤鱼来说：整条鱼外观均匀，颜色和质地完美无瑕，它不像真的。但是假设它的银色鱼皮上有大小不一的泡泡、细微的皱褶和稍有些不均匀的碳化痕迹。假设鱼眼由于炙热而变得浑浊。当你仔细查看的时候，它身上的痕迹暗示着它在炭火上被翻了个面，在它泛着光泽的油脂下面，火力在那个不存在的烤架上变得更猛了。
+
+The popular life-size food models known as shokuhin sampuru, displayed outside countless casual Japanese restaurants, function as promotional materials first, a way to boost sales. But the craftsmanship of a food model can be extraordinary — a fish so ridiculously crammed full of detail, so obsessively recreated, that you want the replica itself.
+这种与实物一般大小的食物仿制品很受欢迎，它们被称为“食品样品”，无数普通日本餐厅都将其摆放在店外做展示，首先作为宣传材料，用于促进销售。但食物仿制品的工艺有时实在是非同一般——一条鱼身上的细节多得不可思议，重塑过程近乎偏执，以至于你想要这个仿制品本身。
+
