@@ -93,54 +93,76 @@ down at **storefronts** at the hub of protests, a **gritty neighborhood of older
 周五晚上，位于几个街区以外的一个街市被允许重新开业。但抗议活动中心地带的店面仍拉着钢铁卷帘门，这是一个有不少
 混凝土无电梯建筑的老旧社区
 
-Many plainclothes officers were evident
-这里显然有许多便衣警察
+Many **plainclothes officers were evident**. The local government **tried to reassure them by** announcing that it was **putting thicker plastic film** over the waste and installing an **air purification system**.
+>plain clothe 便衣    
+>plain-clothes['pleɪnkləʊðz] 穿便衣的    
+>plastic film 塑料薄膜   
+>air purification 空气净化
 
-The local government tried to reassure them by announcing that it was putting **thicker plastic film** over 
-the waste and installing an **air purification system**.
-当地政府试图安抚居民，政府宣布，将在垃圾填埋场上覆盖一层更厚的塑料薄膜，并将安装一个空气净化系统。
+这里显然有许多便衣警察. 当地政府试图安抚居民，政府宣布，将在垃圾填埋场上覆盖一层更厚的塑料薄膜，并将安装一个空气净化系统。
 
-Street protests were **set off** by noisy construction work near the landfill that apparently led some 
-residents to believe that work on the incinerator had begun
-街头抗议是被垃圾填埋场附近建筑施工的噪音引发的，这显然让一些居民认为，焚烧厂已开工建设
+Street protests were **set off by noisy construction work** near the **landfill that apparently led** some residents to believe that work on the **incinerator** had begun. That did not **mollify** protesters
+>incinerator[ɪnˈsɪnəˌreɪtər] 焚化炉   
+>mollify[ˈmɒlɪfaɪ] 使平静；抚慰; 平息；缓和；安抚
 
-That did not **mollify** protesters
-这并未能安抚抗议者
+街头抗议是被垃圾填埋场附近建筑施工的噪音引发的，这显然让一些居民认为，焚烧厂已开工建设. 这并未能安抚抗议者
 
-The United States has **tentatively** approved the sale of $2 billion in **military hardware** to Taiwan, 
-**demonstrating support** for its unofficial ally in a move likely to **exacerbate deteriorating ties** between Washington and Beijing.
+The United States has **tentatively** approved the sale of $2 billion in **military hardware** to Taiwan, **demonstrating support** for its **unofficial ally** in a move **likely to exacerbate deteriorating ties** between Washington and Beijing.
+>tentative[ˈtɛntətiv] n.试探；尝试；实验 adj.实验性的；不确定的；尝试的；没有把握的     
+>ally[ˈæˌlaɪ] n.联盟；同盟国；朋友 v.联合；(使)结盟；(使)联姻   
+>exacerbate[ɪɡˈzæsərˌbeɪt] 加剧; 恶化   
+>deteriorate[dɪˈtɪriəreɪt] v.退化；变质；败坏(风俗)；降低(品质等)
+
 美国初步批准向台湾出售价值20亿美元的军事装备，显示了对自己非官方盟友的支持，此举可能会加剧华盛顿与北京之间不断恶化的关系。
 
-The first **notification** included 108 M1A2T Abrams tanks, as well as **Hercules armored vehicles** and heavy 
-equipment transporters. The second included more than $220 million in **Stinger antiaircraft missiles**.
+The first **notification** included 108 M1A2T Abrams tanks, as well as **Hercules armored vehicles** and heavy equipment transporters. The second included more than $220 million in **Stinger antiaircraft missiles**.
+>Hercules['hə:kjuli:z] 大力神；大力士；【天】武仙座     
+
 第一份通报包括108辆M1A2T艾布拉姆斯坦克，以及大力神装甲车和重型装备运输车。第二份包括价值逾2.2亿美元的“毒刺”防空导弹。
 
-These tanks and missiles will provide the Taiwan army with a modern capability to **deter and complicate** the 
-operational planning of the People’s Liberation Army forces that **coerce and threaten** Taiwan, They will also 
-offer new opportunities to engage in cooperation with the United States in both the deployment and operations phases.
+These tanks and missiles will provide the Taiwan army with a modern capability to **deter and complicate the operational planning** of the People’s Liberation Army forces that **coerce and threaten** Taiwan, They will also offer new opportunities to **engage in cooperation with** the United States in both the deployment and operations phases.
+>operational planning 业务规划；营运规划；作业计划    
+>deter and complicate 遏制和打乱    
+
 这些坦克和导弹将为台湾军队提供现代化的能力，从而遏制和打乱解放军强迫和威胁台湾的作战计划，它们还将提供在部署和行动阶段与美国合作的新机会
 
-The American government continues to take concrete actions to **fulfill its commitments** under the Taiwan 
-Relations Act and the Six Assurances, assisting Taiwan in strengthening its defensive capabilities,
-We express our **deepest gratitude**.
+The American government **continues to take concrete actions** to **fulfill its commitments** under the Taiwan Relations Act and the Six Assurances assisting Taiwan in **strengthening its defensive capabilities**, We **express our deepest gratitude**.
+>strengthen defensive capabilities 强化防卫力量    
+>take concrete actions 采取具体行动    
+>fulfill commitments 履行承诺    
+>express deepest gratitude 表达由衷感谢
+
 美国政府持续以具体行动履行对台湾关系法与六项保证的承诺，协助台湾强化自我防卫力量，表达由衷感谢。
 
-Officials in Kyrgyzstan knew they could **no longer put off the decision**. An **aging** plant that provided 
-**nearly all** the heat and electricity for the country’s capital was **on its last legs**.
+Officials in Kyrgyzstan knew they could **no longer put off the decision**. An **aging** plant that provided **nearly all** the heat and electricity for the country’s capital was **on its last legs**.
+>put off 推迟；拖延   
+>aging plant 老旧工厂    
+>on its last leg 快报废了; 奄奄一息；过时 
+
 吉尔吉斯斯坦的官员知道，这件事必须做个决定了。负责该国首都几乎全部供暖和供电的一座老厂，已经坚持不了多久。
 
-Despite the growing ties, however, a **deep-seated** rivalry remains between the two former **adversaries**, one that this case exposes.
+Despite the **growing ties**, however, a **deep-seated** rivalry remains between the two former **adversaries**, one that this case exposes.
+>growing ties 关系往来不断加强    
+>deep-seated 根深蒂固的   
+
 然而，通过本文提到的案例可以看到，即便关系往来不断加强，这两个曾经敌对国家之间仍然存在深层次的竞争。
 
-The statement **offered a rare insider’s acknowledgment** that China, with the world’s largest **foreign 
-exchange reserves**, can **tilt the business playing field** abroad to serve its interests 
-**no matter what** local residents think or rivals offer.
+The statement **offered a rare insider’s acknowledgment** that China, with the world’s largest **foreign exchange reserves**, can **tilt the business playing field abroad** to **serve its interests no matter what** local **residents think or rivals offer**.
+>foreign exchange 外汇；外汇市场；国际汇兑    
+>foreign exchange reserves 外汇储备   
+>tilt[tɪlt] n.倾斜；倾侧 v.倾侧；使倾向于；使向…倾斜；偏向    
+>serve interests 服务于利益    
+>no matter what 无论如何；不管怎什么    
+>think n.想法；念头
+
 这份声明罕见地从一个内部人士的角度确认，拥有世界上最大外汇储备的中国可以出于自己的利益左右海外商业竞争，无视当地居民的想法或竞争对手的报价
 
-The whole project **smelled bad** from the start, but if **there had not been** an accident, nobody would have noticed
+The whole project **smelled bad** from the start, but if **there had not been** an accident, nobody would have noticed     
 整个项目从一开始就有猫腻，但如果不是出了事故，没有人会注意到
 
-The bank’s loans to Kyrgyzstan, just $9 million in 2008, have **ballooned** to more than $1.7 billion
+The bank’s **loans to** Kyrgyzstan, just $9 million in 2008, have **ballooned to more than** $1.7 billion
+>balloon[bəˈlun] 气球；热气球 adj.气球状的；分量轻而体积大的 v.涨大；乘热气球飞行
+
 该银行在2008年向吉尔吉斯斯坦提供的贷款只有900万美元，现在已经增长到17亿美元以上
 
 Construction started **shortly afterward**. “It was **obscene**,” he said. “We **were all in shock**.”
