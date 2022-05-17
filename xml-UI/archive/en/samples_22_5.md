@@ -172,3 +172,38 @@ A perfect replica requires imperfection. Take a grilled fish: Uniform all over, 
 The popular life-size food models known as shokuhin sampuru, displayed outside countless casual Japanese restaurants, function as promotional materials first, a way to boost sales. But the craftsmanship of a food model can be extraordinary — a fish so ridiculously crammed full of detail, so obsessively recreated, that you want the replica itself.
 这种与实物一般大小的食物仿制品很受欢迎，它们被称为“食品样品”，无数普通日本餐厅都将其摆放在店外做展示，首先作为宣传材料，用于促进销售。但食物仿制品的工艺有时实在是非同一般——一条鱼身上的细节多得不可思议，重塑过程近乎偏执，以至于你想要这个仿制品本身。
 
+media painted a picture of a city slowly returning to normal. One article described the “hustle and bustle of city life” returning, while another focused on statistics for how many stores had reopened.
+媒的报道却描述这座城市在慢慢恢复正常。一篇文章说，“熙熙攘攘的城市生活”已在回归，而另一篇报道则强调了重新开业的商店数量。
+
+Investors and business leaders worry that rigid adherence to its zero-Covid policy could send the economy into free fall. It is high time for the government to change its strategy.
+投资者和商界领袖担心，严格坚持清零政策，可能会导致经济出现自由落体式的下滑。现在是政府改变政策的时候了
+
+Police said that Gendron had traveled to Buffalo the day before the shooting and had done reconnaissance on Tops market. This is someone who had hate in their heart, soul and mind. The attack Saturday was the deadliest mass shooting in the United States this year, joining a roster of other racist massacres in recent years
+警方表示，在枪击发生的前一天，金德伦曾前往布法罗，在托普斯超市踩点。这是一个内心、灵魂和思想里充满仇恨的人。周六的袭击是今年美国死亡人数最多的大规模枪击事件，近年来发生了一系列种族主义屠杀事件
+
+Don’t tell me you’re a friend of our community and you don’t address this today at your pulpit, If you do not stand behind those holy desks and acknowledge that there are still people who hate Black people, you can go to hell with the shooter for all I care. 
+如果今天你没有在你的讲坛上讨论这个问题，就不要告诉我你是我们社区的朋友，如果你不站在那些神圣的桌子后面，承认仍然有憎恨黑人的人，你可以和枪手一起下地狱，我不在乎。
+
+Gendron described as “definitely a little bit of an outcast” and just wasn’t that social, resided in Conklin, New York, a suburban town with rolling hills in the southern part of Broome County, about 200 miles from Buffalo.
+金德伦被形容为“确实有点像社会弃儿”, 确实不善于社交, 住在康克林, 布鲁姆县南部一个山丘连绵的郊区小镇，距离布法罗约200英里。
+
+On Sunday, however, Gramaglia rebutted this suggestion, saying that his officers always worked to de-escalate violent situations. Gendron livestreamed his attack, police said, capturing the images of chaos he caused with a camera affixed to his helmet. 
+不过，格拉马格利亚在周日反驳了这一说法，称他的警官一直致力于缓和暴力局势。警方说，金德伦对袭击过程进行了直播，用头盔上的摄像头拍下他制造的混乱场面。
+
+Along with other Buffalo residents, Hochul stressed that she wanted the city to be known as a turning point in the nation’s string of gun tragedies. But she also expressed deep frustration with “the social media platforms that allow this hatred to ferment and spread like a virus.”
+与其他布法罗居民一样，霍楚尔强调，她希望这座城市成为全国枪击案悲剧的转折点。但她也对“让这种仇恨像病毒一样发酵和传播的社交媒体平台”深表失望。
+
+The two Scandinavian states have in effect made clear that they expect the threat from President Vladimir V. Putin’s Russia to be enduring, that they will not be cowed by it. Military nonalignment has served Sweden well, but our conclusion is that it won’t serve us equally well in the future, This is not a decision to be taken lightly.
+这两个斯堪的纳维亚国家实际上是在表明，他们预计俄罗斯在普京总统领导下将持续构成威胁，而他们不会被其吓倒. 军事不结盟给瑞典带来了好处，但我们的结论是，它在未来不会对我们有同样的好处, 这不是一个轻易做出的决定。
+
+This is a new Europe in which there is no more in-between space. Germany, a generally pacifist nation since it emerged from the rubble of 1945, has embarked on a massive investment in its armed forces, as well as an attempt to wean itself of dependence on energy from a Russia it had judged as, if not innocuous, at least a reliable business partner.
+这是一个没有夹缝空间的新欧洲。自1945年的废墟中走出来的德国总体上是一个和平主义的国家，如今已开始大举投资其武装部队，并试图摆脱对俄罗斯能源的依赖，它曾认为俄罗斯即使不是完全无害，至少也是一个可靠的商业伙伴。
+
+Sweden’s governing Social Democratic Party, the country’s largest party and long a bastion of nonalignment, has embraced NATO membership in an extraordinary turnabout. Putin climbed into a tree and does not know how to get down
+瑞典执政的社会民主党是该国最大的政党，长期以来一直是不结盟的捍卫者，现在却接受了北约成员国身份，这是一个非同寻常的转变。普京骑虎难下
+
+In practice, both Finland and Sweden have lived for a long time with Russian nuclear weapons in nearby Kaliningrad, the Russian enclave sandwiched between Poland and Lithuania on the Baltic coast. But the security gains with NATO are incomparably higher than any added risk.
+实际上，芬兰和瑞典长期以来都要忍受附近加里宁格勒的俄罗斯核武器的存在。加里宁格勒是夹在波罗的海沿岸波兰和立陶宛之间的一块俄罗斯飞地。但北约带来的安全收益远高于任何新增的风险。
+
+Germany and France, were more intent on enjoying the peace dividend of the Cold War’s end than looking Mr. Putin’s ambitions in the eye. For a long time, even up to the eve of the Russian invasion, Europe has been divided. These illusions persisted even after Mr. Putin annexed Crimea. the thorny issue of Ukraine’s membership was left floating by Western leaders who did not want to provoke Mr. Putin further.
+德国和法国，则更倾向于享受冷战结束的和平红利，而不是正视普京的野心。很长一段时间，甚至直到俄罗斯入侵前夕，欧洲都存在分歧。后来，这些幻想依然存在，即使普京吞并克里米亚。西方领导人由于不想进一步激怒普京而搁置了让乌克兰加入北约这一棘手问题
