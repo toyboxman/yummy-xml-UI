@@ -196,55 +196,115 @@ The company received **an unwelcome bit of publicity** last week
 but it took **some maneuvering** to find her books
 但我花了些功夫才找到她的书
 
-I liked the song, **sad and heavy**, a contrast to the **propaganda music** we grew up with
+I liked the song, **sad and heavy**, **a contrast to** the **propaganda music** we grew up with
+>contrast n.对比；对照；反差；明显的差异 v.对比；对照；形成对比
+
 我喜欢这首歌，它悲伤而沉重，和我们从小听到的政治宣传音乐很不一样
 
-Her writing showed me, and continues to show me, that history, **vulnerable to** the attacks of misused and misleading language, can be protected by the language that **achieves the purity of truth**
+**Her writing showed me**, and continues to show me, that history, **vulnerable to** the attacks of **misused and misleading** language, can be protected by **the language that achieves the purity of truth**
+>vulnerable[ˈvʌln(ə)rəb(ə)l] 脆弱的; 易受攻击的；易受伤害的    
+>misleading language 误导的语言   
+>the language that achieves the purity of truth 具有真理纯洁性的语言
+
 她的作品向我展示了，而且还在继续向我展示，历史容易遭到被误用和误导的语言的攻击，但是具有真理纯洁性的语言也可以保护它
 
 History can be **manipulated, whitewashed** and rewritten
+>whitewash v.粉饰；掩饰；刷石灰水 n.粉饰；掩盖；白涂料；完胜
+
 历史是可以被操纵、粉饰和重写的
 
 **The veiled threat**, broadcast over state-run news media this week as President Trump **ratcheted up** his trade war against Beijing, was clear
+>ratchet up 加强    
+>veiled[veɪld] 含蓄的；掩饰的；戴面纱的；蒙面的   
+
 在特朗普总统加强与北京方面的贸易战之际，这种隐晦的威胁本周通过官方新闻媒体播出，其义自现
 
 Other trading partners, **notably** Japan and South Korea, could become **collateral damage**. And in **an odd turnabout**, China’s own needs have made it somewhat **dependent on ore** from the United States.
+>notably[ˈnoʊtəbli] 特别地；非常；尤其；极大程度上; 显著地     
+>collateral[kəˈlæt(ə)rəl] 抵押物；担保品 adj.附属的；附加的；附带的    
+>collateral damage 附带伤害    
+>turnabout 突变；一百八十度的大转弯；变卦; 旋转；经济好转    
+>turnout 出席人数；到场人数；投票人数     
+>ore[ɔr] 矿；矿石
+
 其他贸易伙伴可能遭受附带伤害，尤其是日本和韩国。此外颇为不巧的是，中国自身的需求已使其多少依赖于美国的矿石
 
 It is **far from clear** that China will **harness rare earths** as a weapon
+>far from clear 尚不清楚     
+>harness[ˈhɑː(r)nɪs] v.利用；治理；控制；给(马等)上挽具 n.马具；(用于人，起固定或保护作用的)背带     
+
 目前还不清楚中国是否会动用稀土这一武器
 
 The minerals **wind up in everything** from iPhones to wind **turbines** and missiles. They are used to **polish camera lenses** and to **refine crude oil** into gasoline, diesel and jet fuel.
+>wind up 结束；解散(公司等)；终止；卷紧；绕紧 上发条    
+>turbine[ˈtɜrˌbaɪn] 汽轮机；涡轮机   
+>polish camera lenses 抛光照相机镜头   
+>crude oil 原油
+
 这些矿物最终出现在从iPhone到风力涡轮机、导弹等各种产品里。它们被用于抛光照相机镜头，以及将原油提炼为汽油、柴油和喷气燃料
 
-The **appetite** in the United States for products that include rare earths is enormous. But while the country still imports large quantities of cheap **rare-earth catalysts** for use in oil refineries
+The **appetite** in the United States for products that include **rare earths is enormous**. But while the country still **imports large quantities** of cheap **rare-earth catalysts** for use in **oil refineries**
+>catalyst[ˈkæt(ə)lɪst] 催化剂；促使变化的人；引发变化的因素    
+>refinery[rɪˈfaɪnəri] 炼油厂；精炼厂     
+>oil refineries 炼油厂
+
 美国对含稀土产品的需求十分庞大。然而，尽管美国仍进口大量炼油厂使用的廉价稀土催化剂
 
 **In large part**, that is because so much manufacturing has **shifted out of** the United States. Nearly a decade ago, Beijing began **putting heavy pressure on** manufacturers of products like **electric motor magnets and light-emitting diodes** to move factories to China
+>in large part 在很大程度上    
+>electric motor magnets 电机磁铁    
+>diode[ˈdaɪˌoʊd] 二极管   
+>light-emitting diodes 发光二极管
+
 在很大程度上，这是因为太多制造业务已转移出美国。近十年前，北京当局开始给电机磁铁和发光二极管等产品制造商大力施压
 
 The **dilemma** for Beijing **lies in whether to jeopardize** its central role in **global supply chains** by **halting exports** of crucial components to the West
+>dilemma[dɪ'lemə] 困境；左右为难；进退两难的局面    
+>lie in 存在于；(分娩后)坐月子
+
 北京的困境在于，是否要中断关键零部件对西方的出口，进而危及它在全球供应链中的核心地位
 
 A Chinese **export embargo** would have other **drawbacks**
+>export embargo 出口禁令   
+>draw back n.缺点；不利条件 v.后退；远离；退缩；拉开(窗帘)
+
 中国的出口禁令还会有其他弊端
 
 That plan is **based partly on his assessment** that **trade frictions will persist** and that the United States will **seek self-sufficiency**
+>friction[ˈfrɪkʃ(ə)n] n.摩擦；摩擦力；不和；争执    
+>trade frictions 贸易摩擦    
+>self-sufficiency[sə'fɪʃ(ə)nsi] 自给自足
+
 该计划部分基于他的评估，即贸易摩擦将持续存在，美国将寻求自给自足
 
 The global economy is going to **bifurcate into** the U.S. bloc and the China bloc
+>bifurcate[ˈbaɪfərˌkeɪt] v.分叉；分支 adj.二叉的；两枝的；分叉的
+
 全球经济将分化为美国集团和中国集团
 
-China so **completely dominates** one key stage of the manufacturing process — converting the **oxides to metals** — and has so much **low-cost overcapacity** that companies elsewhere **are leery of investing** in their own facilities
+China so **completely dominates** one key stage of the manufacturing process — converting the **oxides to metals** — and has so much **low-cost overcapacity** that companies **elsewhere are leery of investing** in their own facilities
+>oxide[ˈɑkˌsaɪd] 氧化物   
+>low-cost overcapacity 低成本过剩产能   
+>leery[ˈlɪri] 猜疑的；谨防的；机警的；机敏的；狡猾的
+
 中国在制造过程的一个关键阶段——将氧化物转化为金属——完全占据主导地位，而且存在大量低成本过剩产能，因此其它国家的企业不敢投资自己的工厂
 
-We’re a long way off, We’re nowhere
+**We’re a long way off, We’re nowhere**    
+>a long way off 离得很远；还有好长一段距离    
+>nowhere adv.无处；哪里都不 n.无人知道的地方
+
 我们落后很多，我们什么进展也没有
 
-And there’s evidence that Beijing has been trying to **prop the currency up, rather than weaken it drastically**.
+And **there’s evidence that** Beijing has been trying to **prop the currency up, rather than weaken it drastically**.
+>there is evidence that 有证据表明   
+>prop up 支撑；支持；给……撑腰         
+>drastically[ˈdræstɪklɪ] 激烈地; 彻底地；大幅度地
+
 有证据表明，中国政府一直在努力支撑人民币，而不是令人民币大幅贬值
 
 **By definition**, any analysis of the movements of China’s currency **is partly a guessing game**. 
+>by definition 按照定义；从本质上说
+
 从本质上说，任何对人民币走势的分析在一定程度上都是猜谜游戏
 
 **For relatively straightforward reasons**: They’re designed to cut the exports of the country on which they’re **levied**, in this case China’s exports to the United States.
