@@ -97,103 +97,224 @@ It’s good that the Forbidden City is **taking a lead in keeping these traditio
 And some of the more **kitschy commercial activities** are being **curtailed**, including photo studios where people can **dress up like an emperor or empress**.
 一些更庸俗的商业活动正在受到限制，包括让人装扮成皇帝或皇后拍照的照相馆
 
-Most visitors are still part of **package tours** that quickly **funnel people through** the central part of the complex. But taking a slower, more **meandering path** through the Forbidden City is a better way to **soak up** the history and discover some of its secrets.
+Most visitors are still part of **package tours** that quickly **funnel people through** the central part of the complex. But **taking a slower**, more **meandering path** through the Forbidden City is a better way to **soak up** the history and discover some of its secrets.
+>package tour 跟团旅游   
+>funnel[ˈfʌn(ə)l] n.漏斗；烟囱 v.(使)流经狭窄空间    
+>meander[miˈændər] n.弯曲；漫谈；曲曲折折的路；闲聊 v.蜿蜒而行；迂回曲折；漫步；闲逛    
+>meandering 蜿蜒的    
+>soak up v.吸取; 吸收；摄取
+
 大多数游客仍随旅游团参观故宫，这种方式让游客从建筑群的中心区域迅速穿过。但更好的游览方式是在故宫里选择一条更慢、更绕来绕去的路，这能让人更好地了解历史、发现宫中一些普通游客看不到的秘密
 
 But Chinese banks **are reluctant to lend** to private businesses because they consider big, state-owned enterprises more **reliable in paying off their debts**
+>reluctant[rɪˈlʌktənt] 不情愿的；勉强的
+
 但中国的银行不愿把钱借给私营企业，它们认为大型国有企业在偿还债务上更可靠
 
 The fact that these things are **proliferating** again at a time of **entrenched economic downturn** should be **a signal of the degree of distress** that companies are finding themselves in
+>proliferate[prəˈlɪfəˌreɪt] v.迅速繁殖；猛增; 激增；扩散    
+>entrench[inˈtrɛntʃ] v.进入壕沟; 根深蒂固；以壕沟防护；确立；巩固   
+>entrenched[ɪnˈtrentʃt] 根深蒂固的; 确立的；稳固的；不容易改的    
+>entrenched economic downturn 顽固低迷的经济    
+>distress[dɪˈstres] n.窘迫；痛苦；遇险；悲伤 v.使忧虑；使悲伤；使苦恼
+
 这些东西在经济顽固低迷的时候再次大量出现，应该是表明企业陷入了何种程度困境的一个信号
 
-**Commercial acceptance bills are not legal tender**. Rather, they are pieces of paper promising payment in the future
+**Commercial acceptance bills are not legal tender**. Rather, they are **pieces of paper promising payment** in the future
+>tender v.投标；提供；提议 n.投标；adj.和善的；温柔的；亲切的；慈爱的    
+>legal tender 法定货币    
+>Commercial acceptance bills 商业承兑汇票
+
 商业承兑汇票不是法定货币，而是一种承诺未来支付的票据
 
-More debt may be **floating around** China’s corporate world and **goes untracked** if the notes are being traded for less than their **face value**
+More debt may be **floating around** China’s corporate world and **goes untracked** if **the notes are being traded** for less than their **face value**
+>face value 面值; 票面价值；面额    
+>float around 四处飘动   
+
 如果这些欠条以低于面值的价格进行交易，那么中国企业界的流动债务可能更高，并且无法追踪
 
-The global economy is **under increasing stress as growth cools** and trade tensions **take a mounting toll**. On Wednesday, the **tremors** were felt worldwide.
+The global economy is **under increasing stress as growth cools** and trade tensions **take a mounting toll**. On Wednesday, the **tremors were felt worldwide**.
+>as growth cools 随着增长降温     
+>take a toll 产生负面影响；造成损失；产生严重的不良影响    
+>tremor[ˈtremər] n.战栗；轻微地震；微震
+
 随着增长降温，贸易紧张关系导致全球经济受到的负面影响越来越大，全球经济受到的压力日益增加。周三，全世界各地都感受到了波动
 
 The **global backdrop** has slowed more than anticipated, We’re not **immune** to the slowdown.
+>backdrop[ˈbækˌdrɑp] 背景板；舞台背景     
+>be not immune to the slowdown 会受经济放缓的影响
+
 全球总体的放缓比人们预期要严重，我们也会受经济放缓的影响
 
 Economic data have **softened and are increasingly sending recession signals**, particularly from the industrial side
+>send recession signals 发出衰退信号
+
 经济数据疲软，并且在日益给出衰退信号，尤其是来自工业方面
 
-The president’s decision Tuesday to delay some **duties** on Chinese imports **was meant to soften the blow** to U.S. consumers, easing the **economic headwinds**
+The president’s decision Tuesday to **delay some duties** on Chinese imports **was meant to soften the blow** to U.S. consumers, **easing the economic headwinds**
+>be meant to 打算；目的是；为了   
+>soften the blow 减轻打击     
+>ease economic headwinds 缓和经济逆风
+
 总统周二推迟一些针对中国进口品加征关税的决定，意在减轻美国消费者受到的打击，缓和经济逆风
 
-One major factor in the slide is the **barrage** of trade threats that have **unsettled** Chinese consumers, discouraging them from buying **big-ticket goods**
+One major factor in the slide is the **barrage of** trade threats that have **unsettled** Chinese consumers, **discouraging them from** buying **big-ticket goods**
+>barrage[bəˈrɑʒ] 堰；拦河坝；水坝；火力网    
+>a barrage of 接二连三的；大量的；一连串的    
+>big-ticket 昂贵的；高价的
+
 其中一个主要因素是接连不断的贸易威胁令中国消费者感到不安，不愿购买高价商品
 
 That is **a humbling experience** for Germany, which has **lectured other countries** on how to manage their economies and **scolded them** for having too much debt
+>humbling 令人羞辱的；震撼人心的；谦卑的    
+>lecture[ˈlektʃər] n.演讲；训斥 v.讲课；训斥    
+>scold[skoʊld] v.骂；责备；数落；奚落 n.唠唠叨叨
+
 德国曾就如何管理本国经济教训其他国家，并指责这些国家背负了太多债务，这样的经济表现，对它来说显得非常丢脸
 
-That industrial downturn **weighed on growth**, in the United States and around the world. But **a full-blown recession never materialized**
+That **industrial downturn weighed on growth**, in the United States and around the world. But **a full-blown recession never materialized**
+>weigh on 重压；(因重要,严重等而)使关心焦虑    
+>full-blown 具所有特征的；成熟的; 盛开的；充分发展的；张满的     
+>a full-blown recession 一场全面的衰退    
+>materialize[məˈtɪriəˌlaɪz] v.实现；发生；成为现实；突然显现；使具体化     
+
 工业衰退给美国和世界各地的经济增长带来了压力。但一场全面的衰退并未成为现实
 
-as they try to **fend off regulation** and **avoid being broken up**, some of the largest companies in Silicon Valley **are tripping over** their Allbirds in a race to **cozy up to** the United States government
+As they try to **fend off regulation** and **avoid being broken up**, some of the largest companies in Silicon Valley **are tripping over** their Allbirds in a race to **cozy up to** the United States government
+>fend off 挡开；避开(灾祸等)      
+>trip over 绊倒；绊在障碍物上而跌跤    
+>cozy up to 奉承; 巴结
+
 硅谷一些最大的公司正试图避开监管，避免被拆分，它们脚蹬着Allbirds牌鞋子，在一场巴结美国政府的竞赛中纷纷绊倒
 
-**Either way**, the game is the same: Salute the flag, **save our bacon**.
-无论如何，玩都是同一套：向国旗敬礼，守卫我们的家园
+Mr. Thiel, who did not **respond to a request** for comment, **is far from** the only **tech titan** trading in his hoodie for **a flag pin**. **Either way**, the game is the same: Salute the flag, **save our bacon**.
+>far from 远非；远远不是     
+>tech titan[ˈtaɪt(ə)n] 科技巨子    
+>flag pin 国旗胸针    
+>bacon[ˈbeɪkən] 培根；熏肉；咸肉     
+>save one's bacon 使免于死亡; 幸免；拯救饭碗
 
-Mr. Thiel, who did not respond to a request for comment, **is far from** the only **tech titan** trading in his hoodie for **a flag pin**.
-蒂尔没有回应置评请求，但他绝不是唯一一个用连帽衫换国旗胸针的科技业巨子
+蒂尔没有回应置评请求，但他绝不是唯一一个用连帽衫换国旗胸针的科技业巨子. 无论如何，玩都是同一套：向国旗敬礼，守卫我们的家园
 
-If we **fail to act**, we could soon see a digital currency controlled by others whose values are **dramatically different**
+If we **fail to act**, we could soon see **a digital currency** controlled by others whose values are **dramatically different**
+>dramatically 显著地; 引人注目地；戏剧性地   
+>dramatically different 截然不同的
+
 如果我们不采取行动，我们可能很快就会看到被其他价值观截然不同的人所控制的数字货币
 
-He has spent much of the last decade **trying desperately to curry favor with** the Chinese government **in hopes of **getting Facebook’s apps — which are banned there — permission to operate in one of **the world’s most lucrative markets**
+He has spent much of the last decade **trying desperately to curry favor with** the Chinese government **in hopes of** getting Facebook’s apps — which are banned there — permission to operate in one of **the world’s most lucrative markets**
+>curry favor with 拍马屁   
+>desperately adv.拼命地；不顾一切地；极度地；(口)非常；绝望地     
+>lucrative[ˈlukrətɪv] 赚大钱的；获利多的   
+
 过去10年的大部分时间里，他都在拼命讨好中国政府，希望能让Facebook的应用获准在中国这个全球最赚钱的市场之一运营——它在那里遭到了禁止
 
 Like Mr. Zuckerberg, Mr. Pichai was a China **booster** before he began **distancing himself from the country**
+>distance from 远离；疏远别人
+
 像扎克伯格一样，在与中国保持距离前，皮查伊也一直是这个国家的支持者
 
 Amazon and Apple, two tech giants that love America so much that they have gone to **elaborate lengths to** avoid paying taxes to its Treasury, are also **promoting themselves as national champions**
+>elaborate[ɪ'læbəreɪt] v.精心制作；详细描述；详细制订 adj.复杂的；详尽的；精心制作的     
+>elaborate lengths 极尽能事; 费劲心机 
+
 亚马逊和苹果这两大巨头如此之热爱美国，以至于他们极尽能事，就为了避免向财政部交税。它们也将自己宣传成“国家骄傲”
 
-**characterized** the tech industry’s scaremongering about China as a tactical move **meant to deflect criticism**.
+**Characterized** the tech industry’s **scaremongering** about China as a tactical move **meant to deflect criticism**.
+>characterize v.描述；以…为典型；使…具有特点(或最引人注目的特征)    
+>scare monger['skeəmʌŋgə(r)] n.散布恐怖消息的人；制造恐慌的人；危言耸听的人    
+>scaremongering 危言耸听   
+>characterize scaremongering 渲染恐怖论
+>be meant to 打算；目的是；为了   
+>deflect v.转向；转移；引开；阻止    
+>deflect criticism 转移批评
+
 科技业渲染的中国恐怖论是一种策略，意在转移批评
 
-It’s a really **convenient narrative**, It **evokes nationalism** and **a red scare trope** that has worked in the past. And it implies that regulation, accountability and taking a pause to consider ethics would be **counter** to ‘winning.
-这种叙事用起来顺手，能撩拨民族主义，还能激起过去曾经奏效过的红色恐惧比喻。它还暗示，监管、问责、伦理反思这些都将对‘获胜’不利”
+It’s a really **convenient narrative**, It **evokes nationalism** and **a red scare trope** that has worked in the past. And it implies that **regulation, accountability** and taking a pause to **consider ethics** would be **counter** to ‘winning.
+>evoke[ɪˈvoʊk] v.唤起(感情、记忆或形象); 引起；博得；唤醒    
+>trope[troʊp] n.转义词语；比喻词语 
 
-There is **nothing inherently wrong with the belief** that America’s values are superior to those found in Shanghai and Shenzhen, or that American tech companies should **act in the country’s best interest**
+这种叙事用起来顺手，能撩拨民族主义，还能激起过去曾经奏效过的红色恐惧比喻。它还暗示监管、问责、伦理反思这些都将对‘获胜’不利”
+
+There is **nothing inherently wrong with the belief** that America’s values **are superior to** those found in Shanghai and Shenzhen, or that American tech companies should **act in the country’s best interest**
+>superior[sʊˈpɪəriə(r)] n.上级；上司 adj.更好的；占优势的；更胜一筹的     
+>be superior to 比..更好的     
+>prior to 在..之前     
+>prior[ˈpraɪr] 先前的；较早的；在前的；优先的     
+>inherently[ɪn'herəntlɪ] adv.内在地；本来地；从根本上说 固有地；天性地   
+>be nothing inherently wrong 本身并没有错    
+>act in 在..行动方面；扮演
+
 相信美国价值观优于上海、深圳的价值观，本身并没有错，相信美国科技企业的行动应当考虑到国家利益也没错
 
 Mr. Trump and his advisers are **staying on the sidelines**
+>stay on the sidelines 作壁上观; 观望
+
 特朗普及其顾问都在作壁上观
 
 But as **violence escalates** and **old animosities are rekindled** across Asia, Washington has **chosen inaction**, and governments are ignoring the Trump administration’s **mild admonitions** and **calls for calm**
+>animosity[ˌænɪˈmɑsəti] n.仇恨；敌意；愤怒；憎恶    
+>rekindle v.使重新活跃；使复苏; 重新点燃；重新激起      
+>inaction 无行动；不采取措施；不作为    
+>admonition[ˌædməˈnɪʃ(ə)n] n.警告；告诫     
+>mild admonitions 不痛不痒的警告   
+
 但随着亚洲各地暴力丛生、敌意重燃，华盛顿选择不作为，各国政府也在无视特朗普政府不痛不痒的警告和保持冷静的呼吁
 
-Without **the steady centripetal force** of American diplomacy, disorder in Asia is **spinning** in all sorts of dangerous directions, **The net result** is not only increased risk of **regional turbulence**, but also long-term **corrosion of American influence**.
+Without **the steady centripetal force** of American diplomacy, **disorder** in Asia is **spinning in all sorts of dangerous directions**, **The net result** is not only increased risk of **regional turbulence**, but also **long-term corrosion of American influence**.
+>centripetal[sen'trɪpɪtl] 向心的   
+>centripetal force 向心力   
+>the net result 最终结果；最后结果   
+>regional turbulence 地区动荡   
+>corrosion[kəˈroʊʒ(ə)n] n.侵蚀；锈蚀; 腐蚀
+
 没有了稳定的美国外交向心力，亚洲的混乱开始向各种危险的方向跑，最终结果不仅是地区动荡风险加剧，还有美国影响力长期遭到弱化
 
-South Korea and Japan have to sit down and **get along with each other**
+South Korea and Japan have to **sit down** and **get along with each other**    
 韩国和日本必须坐下来，好好相处
 
-But it was Mr. Trump who **escalated the Huawei affair**, turning **a discrete legal case** into **the showpiece** of his broader trade war
+But it was Mr. Trump who **escalated the Huawei affair**, turning **a discrete legal case** into **the showpiece** of his **broader trade war**
+>discrete 离散的；分离的；不连续的    
+>showpiece 优质样品; 展品
+
 但正是特朗普让华为事件升级，把一个独立的法律案件变成他的广泛贸易战的一件代表作
 
-Huawei did **commit intellectual property theft**, but it is also investing heavily in research and development
+Huawei did **commit intellectual property theft**, but it is also **investing heavily in** research and development
+>commit intellectual property theft 侵犯了知识产权
+
 华为的确侵犯了知识产权，但它也在大力投资研发
 
-Its supply contracts with American companies **amount to some $11 billion** a year. It **counts many foreign citizens on** its staff, including at senior levels
+Its **supply contracts** with American companies **amount to some $11 billion** a year. It **counts many foreign citizens on** its staff, including at senior levels
+>amount to v.合计; 总计    
+>supply contracts 供货合同
+
 它每年与美国公司签订的供货合同总额约为110亿美元。它的工作人员中有许多外国公民，包括高层人员
 
-it **stands for values** that should **resonate with** Americans, too: **a can-do attitude**, independent outlook and openness to the world
+It **stands for values** that should **resonate with** Americans, too: **a can-do attitude**, independent outlook and **openness** to the world
+>can-do 勇于尝试的；积极的    
+>can-do attitude 积极进取的态度   
+>stand for 代表；象征；忍受；主张 
+
+Simple Present：stands for  Present Participle：standing for  Past Tense：stood for  
+
 它所代表的价值观：积极进取的态度、独立的观点、向全世界开放——这些同样也应该能够引起美国人的共鸣
 
-as the **trade war grinds on** — how long that strength will **last** and whether it will be enough to **blunt other headwinds**
+As the **trade war grinds on** — how long that strength will **last** and whether it will be enough to **blunt other headwinds**
+>grind on 继续着；持续著    
+>headwind 逆风；顶风   
+>blunt adj.不锋利的；钝的；直言的 n.钝器；现钞 v.使减弱；使降低效应；使(尖端、刃)变钝
+
 随着贸易战持续，这股力量能持续多久，是否足以减弱其他经济不利因素
 
 The company received **an unwelcome bit of publicity** last week
+>publicity[pʌbˈlɪsəti] n.公开；宣传；广告宣传工作；传播工作
+
 上周，该公司收获了一些他们不太欢迎的曝光
 
-but it took **some maneuvering** to find her books
+But it **took some maneuvering** to find her books
+>take some maneuvering 花了些功夫
+
 但我花了些功夫才找到她的书
 
 I liked the song, **sad and heavy**, **a contrast to** the **propaganda music** we grew up with

@@ -37,36 +37,36 @@
 - [git status](#git-status)
 - [git show](#git-show)
 - [git tag](#git-tag)
-- [ÊõÓï±í](https://mp.weixin.qq.com/s/5EvrlCVc7g0LX7DMhI-ZnQ)
-- [Ê¹ÓÃ×ÓÄ£¿éºÍ×ÓÊ÷À´¹ÜÀíGitÏîÄ¿](https://mp.weixin.qq.com/s/RIM0y2Stwf8HiSbw7o8kcQ)
+- [æœ¯è¯­è¡¨](https://mp.weixin.qq.com/s/5EvrlCVc7g0LX7DMhI-ZnQ)
+- [ä½¿ç”¨å­æ¨¡å—å’Œå­æ ‘æ¥ç®¡ç†Gité¡¹ç›®](https://mp.weixin.qq.com/s/RIM0y2Stwf8HiSbw7o8kcQ)
 
 ### git config
 ```console
-# list ´úÂë²Ö¿âÈ«²¿ÊôĞÔ
+# list ä»£ç ä»“åº“å…¨éƒ¨å±æ€§
 git config -l
 
-# ÉèÖÃµ±Ç°gitÓÃ»§Ãû¼°ÓÊ¼şÊôĞÔ£¬½ö×÷ÓÃÓÚµ±Ç°git²Ö¿â
+# è®¾ç½®å½“å‰gitç”¨æˆ·ååŠé‚®ä»¶å±æ€§ï¼Œä»…ä½œç”¨äºå½“å‰gitä»“åº“
 git config user.name "Gene"
 git config user.email "Gene@genesis.org"
 
-# ÉèÖÃproxy
+# è®¾ç½®proxy
 git config http.proxy myproxy.server:8888
 git config https.proxy myproxy.server:8888
 
-# ÉèÖÃÈ«¾ÖĞÔgitÓÃ»§Ãû¼°ÓÊ¼şÊôĞÔ£¬»á×÷ÓÃÓÚÈ«²¿git²Ö¿â
+# è®¾ç½®å…¨å±€æ€§gitç”¨æˆ·ååŠé‚®ä»¶å±æ€§ï¼Œä¼šä½œç”¨äºå…¨éƒ¨gitä»“åº“
 git config --global user.name "Gene"
 git config --global user.email "Gene@genesis.org"
 
 # remove global config
 git config --global --unset-all user.name
 
-# Èç¹û²Ö¿âÃÜÂë·¢Éú¸Ä±äµ¼ÖÂpushµÈ²Ù×÷ÈÏÖ¤Ê§°Ü£¬ĞèÒªÖØÖÃÒ»ÏÂµ±Ç°ÃÜÂë
+# å¦‚æœä»“åº“å¯†ç å‘ç”Ÿæ”¹å˜å¯¼è‡´pushç­‰æ“ä½œè®¤è¯å¤±è´¥ï¼Œéœ€è¦é‡ç½®ä¸€ä¸‹å½“å‰å¯†ç 
 git config --unset user.password
 
-# macÏµÍ³Ä¬ÈÏÅäÖÃ credential.helper=osxkeychain 
-# ËùÓĞ±¾µØ²Ö¿â¶¼»áÊ¹ÓÃÍ¬Ò»¸öÓÃ»§ÃûºÍÃÜÂë£¬Ã¿´Îgit push²»ÓÃÊäÈëÃÜÂë
-# ÏëÊ¹ÓÃ²»Í¬ÕË»§ git push£¬ĞèÒªÉ¾³ıÏµÍ³Ä¬ÈÏµÄÓ¡ĞÅÈÏÖ¤·½Ê½
-# ·ñÔò remote: Permission to user1/incubator-griffin.git denied to user2
+# macç³»ç»Ÿé»˜è®¤é…ç½® credential.helper=osxkeychain 
+# æ‰€æœ‰æœ¬åœ°ä»“åº“éƒ½ä¼šä½¿ç”¨åŒä¸€ä¸ªç”¨æˆ·åå’Œå¯†ç ï¼Œæ¯æ¬¡git pushä¸ç”¨è¾“å…¥å¯†ç 
+# æƒ³ä½¿ç”¨ä¸åŒè´¦æˆ· git pushï¼Œéœ€è¦åˆ é™¤ç³»ç»Ÿé»˜è®¤çš„å°ä¿¡è®¤è¯æ–¹å¼
+# å¦åˆ™ remote: Permission to user1/incubator-griffin.git denied to user2
 git config --local --unset credential.helper
 git config --global --unset credential.helper
 git config --system --unset credential.helper
@@ -74,33 +74,33 @@ git config --system --unset credential.helper
 
 ### git init
 ```console
-# ³õÊ¼»¯Ò»¸ö¿ÕµÄ±¾µØgit²Ö¿â
+# åˆå§‹åŒ–ä¸€ä¸ªç©ºçš„æœ¬åœ°gitä»“åº“
 git init
 
-# ½¨Á¢Ò»¸ö¿É¹©ÆäËû»úÆ÷ÏÂÔØµÄremote repo
-# ÏÈÔÚremote»úÆ÷ÉÏÖ¸¶¨Ä¿Â¼ÖĞinitÒ»¸ö²Ö¿â
-# ±¾µØ´´½¨Ò»¸öÔ¶³Ìgit repoÓ³ÉäµÄalias myAppName
+# å»ºç«‹ä¸€ä¸ªå¯ä¾›å…¶ä»–æœºå™¨ä¸‹è½½çš„remote repo
+# å…ˆåœ¨remoteæœºå™¨ä¸ŠæŒ‡å®šç›®å½•ä¸­initä¸€ä¸ªä»“åº“
+# æœ¬åœ°åˆ›å»ºä¸€ä¸ªè¿œç¨‹git repoæ˜ å°„çš„alias myAppName
 git remote add myAppName ssh://192.168.149.128/~/source/app/.git 
 
-# ½«±¾µØmyAppNameÄ¿Â¼ÏÂmaster·ÖÖ§ÍÆËÍµ½remote repo
+# å°†æœ¬åœ°myAppNameç›®å½•ä¸‹masteråˆ†æ”¯æ¨é€åˆ°remote repo
 git push myAppName master
 ```
 
 ### git clone 
 ```console
-# ¿ËÂ¡Ò»¸öÔ¶¶Ë´úÂë²Ö¿âµ½±¾µØ
+# å…‹éš†ä¸€ä¸ªè¿œç«¯ä»£ç ä»“åº“åˆ°æœ¬åœ°
 $git clone https://github.com/openstack/glance.git
 ```
 
 ### git remote
 ```console
-# ÔÚ±¾µØ´´½¨Ò»¸öaliasÎªglanceµÄremote²Ö¿â(glance.git)Ó³Éä
+# åœ¨æœ¬åœ°åˆ›å»ºä¸€ä¸ªaliasä¸ºglanceçš„remoteä»“åº“(glance.git)æ˜ å°„
 git remote add glance https://github.com/openstack/glance.git
 
-# ÔÚ±¾µØ´´½¨Ò»¸öaliasÎªEugeneµÄremote²Ö¿âÓ³Éä
+# åœ¨æœ¬åœ°åˆ›å»ºä¸€ä¸ªaliasä¸ºEugeneçš„remoteä»“åº“æ˜ å°„
 git remote add Eugene https://github.com/toyboxman/incubator-griffin.git
 
-# listµ±Ç°²Ö¿âËùÓĞremote´úÂëÔ´
+# listå½“å‰ä»“åº“æ‰€æœ‰remoteä»£ç æº
 git remote -v
 Eugene  https://github.com/toyboxman/incubator-griffin.git (fetch)
 Eugene  https://github.com/toyboxman/incubator-griffin.git (push)
@@ -109,13 +109,13 @@ glance  https://github.com/openstack/glance.git (push)
 origin  https://github.com/apache/incubator-griffin.git (fetch)
 origin  https://github.com/apache/incubator-griffin.git (push)
 
-# É¾³ıremote´úÂëÔ´Ó³Éä
+# åˆ é™¤remoteä»£ç æºæ˜ å°„
 git remote remove glance
 
-# ¸üĞÂ±¾µØµÄremote´úÂëÔ´,²»»á¸²¸Ç±¾µØ·ÖÖ§
+# æ›´æ–°æœ¬åœ°çš„remoteä»£ç æº,ä¸ä¼šè¦†ç›–æœ¬åœ°åˆ†æ”¯
 git remote update
 
-# ²é¿´Ô¶¶Ërepo
+# æŸ¥çœ‹è¿œç«¯repo
 git remote show Eugene
 * remote Eugene
   Fetch URL: https://github.com/toyboxman/incubator-griffin.git
@@ -133,7 +133,7 @@ git remote show Eugene
     griffin-0.1.5-incubating-rc3 pushes to griffin-0.1.5-incubating-rc3 (up to date)
     master                       pushes to master                       (fast-forwardable)
 
-# Çå³ıremoteÒÑÉ¾³ı±¾µØ»¹´æÔÚµÄstale·ÖÖ§
+# æ¸…é™¤remoteå·²åˆ é™¤æœ¬åœ°è¿˜å­˜åœ¨çš„staleåˆ†æ”¯
 git remote prune --dry-run Eugene
 git remote prune Eugene
 Pruning Eugene
@@ -145,31 +145,31 @@ URL: https://github.com/toyboxman/incubator-griffin.git
 
 ### git pull
 ```console
-# »ñÈ¡Ô¶¶Ë´úÂë²Ö¿âÖĞ×îĞÂµÄ´úÂë£¬²¢ÇÒ¸²¸Ç±¾µØ·ÖÖ§
+# è·å–è¿œç«¯ä»£ç ä»“åº“ä¸­æœ€æ–°çš„ä»£ç ï¼Œå¹¶ä¸”è¦†ç›–æœ¬åœ°åˆ†æ”¯
 git pull
 ```
 
 ### git push
 ```console
-# °Ñ±¾µØµ±Ç°×îĞÂ·ÖÖ§pushµ½EugeneÄ¿Â¼ÏÂremoteµÄbugs·ÖÖ§
+# æŠŠæœ¬åœ°å½“å‰æœ€æ–°åˆ†æ”¯pushåˆ°Eugeneç›®å½•ä¸‹remoteçš„bugsåˆ†æ”¯
 git push Eugene HEAD:bugs
 
-# °Ñ±¾µØµ±Ç°×îĞÂ·ÖÖ§(dev)pushµ½EugeneÄ¿Â¼ÏÂremoteµÄÍ¬Ãû·ÖÖ§dev
+# æŠŠæœ¬åœ°å½“å‰æœ€æ–°åˆ†æ”¯(dev)pushåˆ°Eugeneç›®å½•ä¸‹remoteçš„åŒååˆ†æ”¯dev
 git push Eugene dev
 
-# °Ñ±¾µØglanceÄ¿Â¼ÏÂ×îĞÂ·ÖÖ§pushµ½remoteµÄ·ÖÖ§(refs/heads/icehouse)
+# æŠŠæœ¬åœ°glanceç›®å½•ä¸‹æœ€æ–°åˆ†æ”¯pushåˆ°remoteçš„åˆ†æ”¯(refs/heads/icehouse)
 git push glance HEAD:refs/heads/icehouse
 
-# EugeneÄ¿Â¼ÖĞmaster·ÖÖ§²»´æÔÚ,ÍÆËÍÊ§°Ü
+# Eugeneç›®å½•ä¸­masteråˆ†æ”¯ä¸å­˜åœ¨,æ¨é€å¤±è´¥
 git push Eugene master:refactor/testcases   
 error: src refspec master does not match any.
 error: failed to push some refs to 'https://github.com/toyboxman/incubator-griffin.git'
-# ÍÆËÍEugeneÄ¿Â¼ÏÂm0·ÖÖ§µ½remoteµÄrefactor/testcases·ÖÖ§³É¹¦
+# æ¨é€Eugeneç›®å½•ä¸‹m0åˆ†æ”¯åˆ°remoteçš„refactor/testcasesåˆ†æ”¯æˆåŠŸ
 git push Eugene m0:refactor/testcases
 To https://github.com/toyboxman/incubator-griffin.git
  * [new branch]      m0 -> refactor/testcases
 
-# EugeneÄ¿Â¼ÖĞpr-345·ÖÖ§ÓëremoteµÄheadOption·ÖÖ§ÓĞ²îÒì,ÍÆËÍÊ§°Ü
+# Eugeneç›®å½•ä¸­pr-345åˆ†æ”¯ä¸remoteçš„headOptionåˆ†æ”¯æœ‰å·®å¼‚,æ¨é€å¤±è´¥
 git push Eugene pr-345:headOption
 To https://github.com/toyboxman/incubator-griffin.git
  ! [rejected]        pr-345 -> headOption (non-fast-forward)
@@ -178,7 +178,7 @@ hint: Updates were rejected because a pushed branch tip is behind its remote
 hint: counterpart. Check out this branch and integrate the remote changes
 hint: (e.g. 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-# Ç¿ÖÆÍÆËÍ³É¹¦ --force
+# å¼ºåˆ¶æ¨é€æˆåŠŸ --force
 git push -f Eugene pr-345:headOption
 remote: Resolving deltas: 100% (9/9), completed with 9 local objects.
 To https://github.com/toyboxman/incubator-griffin.git
@@ -187,237 +187,237 @@ To https://github.com/toyboxman/incubator-griffin.git
 
 ### git status
 ```console
-# ²é¿´²Ö¿âÖĞÎÄ¼ş×´Ì¬
+# æŸ¥çœ‹ä»“åº“ä¸­æ–‡ä»¶çŠ¶æ€
 git status
 
-# ²é¿´²Ö¿âÖĞuntracked files
+# æŸ¥çœ‹ä»“åº“ä¸­untracked files
 git status -u
 
-# ºöÂÔ²Ö¿âÖĞuntracked files
+# å¿½ç•¥ä»“åº“ä¸­untracked files
 # equivalent to git status --untracked-files=no
 git status -uno
 ```
 
 ### git add
 ```console
-# ½«sourceÖĞËùÓĞÎÄ¼ş×ÓÄ¿Â¼¶¼¼ÓÈë´ıÌá½»staged×´Ì¬
+# å°†sourceä¸­æ‰€æœ‰æ–‡ä»¶å­ç›®å½•éƒ½åŠ å…¥å¾…æäº¤stagedçŠ¶æ€
 git add ./source 
 
-# ÎÄ×Ö²Ëµ¥·½Ê½²é¿´µ±Ç°ËùÓĞ´ıÌá½»ÎÄ¼ş×´Ì¬
+# æ–‡å­—èœå•æ–¹å¼æŸ¥çœ‹å½“å‰æ‰€æœ‰å¾…æäº¤æ–‡ä»¶çŠ¶æ€
 git add -i  
 
-# °ÑËùÓĞĞŞ¸ÄÎÄ¼ş¼ÓÈë´ıÌá½»staged×´Ì¬
+# æŠŠæ‰€æœ‰ä¿®æ”¹æ–‡ä»¶åŠ å…¥å¾…æäº¤stagedçŠ¶æ€
 git add --all  
 ```
 
 ### git rm
-git rm ÓÃÀ´É¾³ıÖ¸¶¨ÎÄ¼ş
+git rm ç”¨æ¥åˆ é™¤æŒ‡å®šæ–‡ä»¶
 ```console
-# untracked:ĞÂ½¨ÎÄ¼ş  unstaged:ĞŞ¸Ä¹ırepo treeÉÏµÄÎÄ¼ş staged:git addºó´ıcommitµÄÎÄ¼ş
-# ½«sourceÖĞËùÓĞÎÄ¼ş×ÓÄ¿Â¼¶¼´Ó´ıÌá½»staged×´Ì¬¸Ä³Éuntracked×´Ì¬
-# ´ËÃüÁî½ö¶Ôgit add untracked-filesÆğµ½undoµÄĞ§¹û£¬Èç¹û¶Ôgit add unstaged-filesÖ´ĞĞ»á´Ó±¾µØtreeÖĞÉ¾³ıÎÄ¼ş
+# untracked:æ–°å»ºæ–‡ä»¶  unstaged:ä¿®æ”¹è¿‡repo treeä¸Šçš„æ–‡ä»¶ staged:git addåå¾…commitçš„æ–‡ä»¶
+# å°†sourceä¸­æ‰€æœ‰æ–‡ä»¶å­ç›®å½•éƒ½ä»å¾…æäº¤stagedçŠ¶æ€æ”¹æˆuntrackedçŠ¶æ€
+# æ­¤å‘½ä»¤ä»…å¯¹git add untracked-filesèµ·åˆ°undoçš„æ•ˆæœï¼Œå¦‚æœå¯¹git add unstaged-filesæ‰§è¡Œä¼šä»æœ¬åœ°treeä¸­åˆ é™¤æ–‡ä»¶
 git rm --cached -r ./source
 
-# ½«git add unstaged-filesÎÄ¼ş´Óstaged×´Ì¬undo»ØÔ­×´Ì¬unstaged
+# å°†git add unstaged-filesæ–‡ä»¶ä»stagedçŠ¶æ€undoå›åŸçŠ¶æ€unstaged
 git reset @ readme.md
 
-# ½«ÎÄ¼ş´ÓtrackedµÄ×´Ì¬ÖÃÎªdeleted£¬²¢ÇÒ´ÓÎÄ¼şÏµÍ³ÖĞÉ¾³ı
+# å°†æ–‡ä»¶ä»trackedçš„çŠ¶æ€ç½®ä¸ºdeletedï¼Œå¹¶ä¸”ä»æ–‡ä»¶ç³»ç»Ÿä¸­åˆ é™¤
 git rm readme.md
-# ÖÃÎªdeleted×´Ì¬µÄÎÄ¼şÖ»ÄÜÍ¨¹ıÖØĞÂcheckoutÀ´»Ö¸´
+# ç½®ä¸ºdeletedçŠ¶æ€çš„æ–‡ä»¶åªèƒ½é€šè¿‡é‡æ–°checkoutæ¥æ¢å¤
 git checkout HEAD readme.md
 git checkout @ readme.md
 ```
-Èç¹ûĞèÒªÉ¾³ıÎÄ¼şÌ«¶àÁË, ÀıÈç git reset Èç¹û²»Ç¿ÖÆ--hardÔò»á±£Áô»Ø¹ö²úÉúµÄ´óÁ¿ÎÄ¼ş£¬Ò»¸ö¸örmÌ«Âé·³¿ÉÒÔÊ¹ÓÃ git clean
+å¦‚æœéœ€è¦åˆ é™¤æ–‡ä»¶å¤ªå¤šäº†, ä¾‹å¦‚ git reset å¦‚æœä¸å¼ºåˆ¶--hardåˆ™ä¼šä¿ç•™å›æ»šäº§ç”Ÿçš„å¤§é‡æ–‡ä»¶ï¼Œä¸€ä¸ªä¸ªrmå¤ªéº»çƒ¦å¯ä»¥ä½¿ç”¨ git clean
 ```console
-# Ê¹ÓÃcleanÇ°Ê¹ÓÃ -n or --dry-run Ñ¡ÏîÀ´Ô¤ÀÀÉ¾³ı½á¹ûÁĞ±í£¬·ÀÖ¹´íÎóÉ¾³ıÎÄ¼ş
-# Çå³ı untracked files
+# ä½¿ç”¨cleanå‰ä½¿ç”¨ -n or --dry-run é€‰é¡¹æ¥é¢„è§ˆåˆ é™¤ç»“æœåˆ—è¡¨ï¼Œé˜²æ­¢é”™è¯¯åˆ é™¤æ–‡ä»¶
+# æ¸…é™¤ untracked files
 git clean -f
-# Çå³ıĞÂ²úÉúµÄdirectoriesºÍfiles
+# æ¸…é™¤æ–°äº§ç”Ÿçš„directorieså’Œfiles
 git clean -f -d
-# Çå³ı ignored files
+# æ¸…é™¤ ignored files
 git clean -f -X
-# Çå³ı ignoredºÍnon-ignored files
+# æ¸…é™¤ ignoredå’Œnon-ignored files
 git clean -f -x
 ```
 
 ### git commit
 ```console
-# Ìá½»È«²¿¸ü¸ÄµÄÎÄ¼ş
+# æäº¤å…¨éƒ¨æ›´æ”¹çš„æ–‡ä»¶
 git commit -a 
 
-# ĞŞÕı±¾µØ·ÖÖ§µÄ´úÂëÌá½»
+# ä¿®æ­£æœ¬åœ°åˆ†æ”¯çš„ä»£ç æäº¤
 git commit --amend 
 
-# ĞŞÕı±¾µØ·ÖÖ§µÄ´úÂëÌá½»ÖĞ×÷ÕßĞÅÏ¢
+# ä¿®æ­£æœ¬åœ°åˆ†æ”¯çš„ä»£ç æäº¤ä¸­ä½œè€…ä¿¡æ¯
 git commit --amend --author="Gene <Gene@genesis.org>" --no-edit
 ```
 
 ### git branch
 ```console
-# ²é¿´µ±Ç°´úÂë¿âÈ«²¿·ÖÖ§
+# æŸ¥çœ‹å½“å‰ä»£ç åº“å…¨éƒ¨åˆ†æ”¯
 git branch -a  
 
-# ²é¿´±¾µØ·ÖÖ§ºÍÔ¶³Ì·ÖÖ§¹ØÏµ,°üÀ¨·ÖÖ§¼ä¹ØÁª,Ìá½»×´Ì¬¶Ô±È
+# æŸ¥çœ‹æœ¬åœ°åˆ†æ”¯å’Œè¿œç¨‹åˆ†æ”¯å…³ç³»,åŒ…æ‹¬åˆ†æ”¯é—´å…³è”,æäº¤çŠ¶æ€å¯¹æ¯”
 $ git branch -vv
 scala         a366fd6 add scala static analysis plugin
 scala-lint    a366fd6 [origin/master: ahead 1, behind 12] add scala static analysis plugin
-# Èç¹û±¾µØ·ÖÖ§Ã»ÓĞtrack remote branch£¬ Èçscala£¬¿ÉÒÔÓÃÈÎÒâÒ»¸öÏÂÃæÃüÁîÉè¶¨upstreamÀ´track×´Ì¬
+# å¦‚æœæœ¬åœ°åˆ†æ”¯æ²¡æœ‰track remote branchï¼Œ å¦‚scalaï¼Œå¯ä»¥ç”¨ä»»æ„ä¸€ä¸ªä¸‹é¢å‘½ä»¤è®¾å®šupstreamæ¥trackçŠ¶æ€
 $ git branch -u origin/master scala
 $ git branch --set-upstream-to=origin/master scala
 scala         a366fd6 [origin/master: ahead 1, behind 12] add scala static analysis plugin
 scala-lint    a366fd6 [origin/master: ahead 1, behind 12] add scala static analysis plugin
-# È¡ÏûupstreamÉè¶¨
+# å–æ¶ˆupstreamè®¾å®š
 git branch --unset-upstream scala
 
-# Ç¿ÖÆÉ¾³ımaster·ÖÖ§
+# å¼ºåˆ¶åˆ é™¤masteråˆ†æ”¯
 git branch -D master  
 
-# É¾³ımaster·ÖÖ§£¬µ«ĞèÒªËùÓĞ±¾µØÌá½»ÒÑ¾­ºÏ²¢µ½upstream»òÕßÃ»ÓĞ±ä»¯
+# åˆ é™¤masteråˆ†æ”¯ï¼Œä½†éœ€è¦æ‰€æœ‰æœ¬åœ°æäº¤å·²ç»åˆå¹¶åˆ°upstreamæˆ–è€…æ²¡æœ‰å˜åŒ–
 git branch -d master  
 
-# ÖØÃüÃûµ±Ç°·ÖÖ§³É master-dev
+# é‡å‘½åå½“å‰åˆ†æ”¯æˆ master-dev
 git branch -m master-dev
-# ÖØÃüÃû master-dev Îª master
+# é‡å‘½å master-dev ä¸º master
 git branch -m master-dev master
 
-# ²é¿´ÄÄĞ©±¾µØ·ÖÖ§°üº¬Ä³¸öÌá½»
+# æŸ¥çœ‹å“ªäº›æœ¬åœ°åˆ†æ”¯åŒ…å«æŸä¸ªæäº¤
 git branch --contains e96a53a68b2ed1ce9b98661b07f8071e789d2319
-# ²é¿´ÄÄĞ©remote·ÖÖ§°üº¬Ä³¸öÌá½»
+# æŸ¥çœ‹å“ªäº›remoteåˆ†æ”¯åŒ…å«æŸä¸ªæäº¤
 git branch -r --contains e96a53a68b2ed1ce9b98661b07f8071e789d2319
-# ²é¿´ÄÄĞ©±¾µØ·ÖÖ§²»°üº¬Ä³¸öÌá½»
+# æŸ¥çœ‹å“ªäº›æœ¬åœ°åˆ†æ”¯ä¸åŒ…å«æŸä¸ªæäº¤
 git branch --no-contains 45eb3ae0a5ccce683a74625409bd015c1fd6d312
 ```
 
 ### git checkout
 ```console
-# ½«glance/stable/icehouse·ÖÖ§checkout³ÉÒ»¸ö±¾µØmaster·ÖÖ§
+# å°†glance/stable/icehouseåˆ†æ”¯checkoutæˆä¸€ä¸ªæœ¬åœ°masteråˆ†æ”¯
 git checkout -b master glance/stable/icehouse
 
-# ´Óµ±Ç°·ÖÖ§ÇĞ»»µ½master·ÖÖ§
+# ä»å½“å‰åˆ†æ”¯åˆ‡æ¢åˆ°masteråˆ†æ”¯
 git checkout master
 
-# °Ñtag(2014.1.1)¶ÔÓ¦µÄ¿ìÕÕcheckout³É±¾µØ·ÖÖ§tag-dev
-# ²Ö¿âµÄ¿ìÕÕ±¾Éí²»ÄÜĞŞ¸Ä,Ö»ÄÜ±ä³É±¾µØ·ÖÖ§²ÅÄÜĞŞ¸Ä
+# æŠŠtag(2014.1.1)å¯¹åº”çš„å¿«ç…§checkoutæˆæœ¬åœ°åˆ†æ”¯tag-dev
+# ä»“åº“çš„å¿«ç…§æœ¬èº«ä¸èƒ½ä¿®æ”¹,åªèƒ½å˜æˆæœ¬åœ°åˆ†æ”¯æ‰èƒ½ä¿®æ”¹
 git checkout -b tag-dev 2014.1.1
 
-# ÁÙÊ±ÇĞ»»µ½Ä³¸öcommitÎ»ÖÃ,ÇĞ»»ºó»áÓëµ±Ç°µÄ·ÖÖ§ÍÑÀë,´¦ÓÚÎŞ·ÖÖ§checkout×´Ì¬
+# ä¸´æ—¶åˆ‡æ¢åˆ°æŸä¸ªcommitä½ç½®,åˆ‡æ¢åä¼šä¸å½“å‰çš„åˆ†æ”¯è„±ç¦»,å¤„äºæ— åˆ†æ”¯checkoutçŠ¶æ€
 git checkout 0d1d7fc32
 
-# ½«µ±Ç°·ÖÖ§´úÂë»Ø¹öµ½upstream HEADÎ»ÖÃ
+# å°†å½“å‰åˆ†æ”¯ä»£ç å›æ»šåˆ°upstream HEADä½ç½®
 git checkout -f  
 
-# ÎÄ¼ş´¦ÓÚuntracked, ¶ªÆúÔÚµ±Ç°·ÖÖ§ÖĞ¶ÔRun.javaÎÄ¼şµÄĞŞ¸Ä
+# æ–‡ä»¶å¤„äºuntracked, ä¸¢å¼ƒåœ¨å½“å‰åˆ†æ”¯ä¸­å¯¹Run.javaæ–‡ä»¶çš„ä¿®æ”¹
 git checkout -- Run.java  
 
-# ´Ódev·ÖÖ§ÖĞ»ñÈ¡Run.java£¬¸²¸Ç±¾µØ·ÖÖ§ÎÄ¼ş
+# ä»devåˆ†æ”¯ä¸­è·å–Run.javaï¼Œè¦†ç›–æœ¬åœ°åˆ†æ”¯æ–‡ä»¶
 git checkout dev -- Run.java  
-# ´ÓÄ³¸öcommitÖĞ»ñÈ¡Run.java£¬¸²¸Ç±¾µØ·ÖÖ§ÎÄ¼ş
+# ä»æŸä¸ªcommitä¸­è·å–Run.javaï¼Œè¦†ç›–æœ¬åœ°åˆ†æ”¯æ–‡ä»¶
 git checkout 0d1d7fc32 -- Run.java 
 
-# ´Ódev·ÖÖ§ÖĞ»ñÈ¡./java/srcÄ¿Â¼ÏÂËùÓĞÎÄ¼ş£¬ĞÂ½¨»ò¸²¸Ç±¾µØ·ÖÖ§./java/src/ÏÂÎÄ¼ş
+# ä»devåˆ†æ”¯ä¸­è·å–./java/srcç›®å½•ä¸‹æ‰€æœ‰æ–‡ä»¶ï¼Œæ–°å»ºæˆ–è¦†ç›–æœ¬åœ°åˆ†æ”¯./java/src/ä¸‹æ–‡ä»¶
 git checkout dev -- ./java/src/
 ```
 
 ### git tag 
 ```console
-# ²é¿´µ±Ç°´úÂë¿âÈ«²¿tag¿ìÕÕ
+# æŸ¥çœ‹å½“å‰ä»£ç åº“å…¨éƒ¨tagå¿«ç…§
 git tag
 
-# ²é¿´ÈçºÎ´´½¨É¾³ı±êÇ©
+# æŸ¥çœ‹å¦‚ä½•åˆ›å»ºåˆ é™¤æ ‡ç­¾
 git tag --help  
 
-# ²é¿´commit³öÏÖÔÚÄÄĞ©²Ö¿â±êÇ©¿ìÕÕÖĞ
+# æŸ¥çœ‹commitå‡ºç°åœ¨å“ªäº›ä»“åº“æ ‡ç­¾å¿«ç…§ä¸­
 $git tag --contains dbb242b776908ca50ed8557ebfe7cfcd879366c8
 ```
 
 ### git ls-files
 ```console
-# ÁĞ³öµ±Ç°Ä¿Â¼¼°×ÓÄ¿Â¼ÖĞËùÓĞÎÄ¼ş
+# åˆ—å‡ºå½“å‰ç›®å½•åŠå­ç›®å½•ä¸­æ‰€æœ‰æ–‡ä»¶
 git ls-files
 
-# ²éÕÒExample.java ÊÇ·ñ´æÔÚµ±Ç°branchÖĞ
+# æŸ¥æ‰¾Example.java æ˜¯å¦å­˜åœ¨å½“å‰branchä¸­
 git ls-files | grep Example.java
 
-# Í³¼Æµ±Ç°Ä¿Â¼¼°×ÓÄ¿Â¼ÖĞËùÓĞÎÄ¼şµÄĞĞÊı
+# ç»Ÿè®¡å½“å‰ç›®å½•åŠå­ç›®å½•ä¸­æ‰€æœ‰æ–‡ä»¶çš„è¡Œæ•°
 git ls-files | xargs cat | wc -l
 ```
 
 ### git merge rebase
 + [Rewriting History](https://git-scm.herokuapp.com/book/en/v2/Git-Tools-Rewriting-History)<br>
-+ rebaseĞŞ¸ÄÌá½»ÀúÊ·[[1](https://mp.weixin.qq.com/s/OW7ZpE2wvhwVOhLBVODHdA), [2](https://mp.weixin.qq.com/s/xLPDiPRzNnLLTrTlWJqWCA)]
-+ [rebaseÒ»´ÎĞŞ¸Ä¶à¸öÌá½»¼ÇÂ¼](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
++ rebaseä¿®æ”¹æäº¤å†å²[[1](https://mp.weixin.qq.com/s/OW7ZpE2wvhwVOhLBVODHdA), [2](https://mp.weixin.qq.com/s/xLPDiPRzNnLLTrTlWJqWCA)]
++ [rebaseä¸€æ¬¡ä¿®æ”¹å¤šä¸ªæäº¤è®°å½•](https://jacopretorius.net/2013/05/amend-multiple-commit-messages-with-git.html)
 
 ```console
-# ½«ÉçÇø·ÖÖ§(stable/icehouse)ºÏ²¢µ½µ±Ç°·ÖÖ§ÖĞ
+# å°†ç¤¾åŒºåˆ†æ”¯(stable/icehouse)åˆå¹¶åˆ°å½“å‰åˆ†æ”¯ä¸­
 git merge stable/icehouse 
 
-# b1 b2·ÖÖ§ÉÏ×örebase/merge ²Ù×÷½á¹ûµÄ²îÒì
+# b1 b2åˆ†æ”¯ä¸Šåšrebase/merge æ“ä½œç»“æœçš„å·®å¼‚
 master branch : patch1 <- patch2 <- patch3
 b1 branch forking from patch2 : patch1 <- patch2 <- patch4
 b2 branch forking from patch2 : patch1 <- patch2 <- patch4
-# ¼ì²é·ÖÖ§ºÏ²¢½á¹û, mergeºó»á²úÉúºÏ²¢µã, rebaseºóÔ­·ÖÖ§Ë³Ğò²»»á±£Áô
+# æ£€æŸ¥åˆ†æ”¯åˆå¹¶ç»“æœ, mergeåä¼šäº§ç”Ÿåˆå¹¶ç‚¹, rebaseååŸåˆ†æ”¯é¡ºåºä¸ä¼šä¿ç•™
 git log --oneline 
 b1 > git merge master : patch1<-patch2<-patch4<-patch3<-auto-merge-patch 'Merge branch 'master' into b1'
-                                    °ÑmasterÉÏpatch2Ö®ºóÌá½»¶¼ºÏ²¢µ½b1·ÖÖ§×îºó£¬²¢²úÉúÒ»¸ö×Ô¶¯ºÏ²¢Ìá½»
+                                    æŠŠmasterä¸Špatch2ä¹‹åæäº¤éƒ½åˆå¹¶åˆ°b1åˆ†æ”¯æœ€åï¼Œå¹¶äº§ç”Ÿä¸€ä¸ªè‡ªåŠ¨åˆå¹¶æäº¤
 b2 > git rebase master : patch1<-patch2<-patch3<-patch4
-                                    °ÑmasterÉÏpatch2Ö®ºóÌá½»¶¼²åÈëµ½b1·ÖÖ§patch2Ö®ºó
+                                    æŠŠmasterä¸Špatch2ä¹‹åæäº¤éƒ½æ’å…¥åˆ°b1åˆ†æ”¯patch2ä¹‹å
 
 ##################################									
-# ĞŞ¸Ä±¾µØÌá½»ÀúÊ·»ù±¾²½Öè(Èç¹û±¾µØ·ÖÖ§ÒÑ¾­pushµ½remote, ²Ù×÷ĞŞ¸Ä»á²úÉú±¾µØÓëremote repoµÄ³åÍ»)
+# ä¿®æ”¹æœ¬åœ°æäº¤å†å²åŸºæœ¬æ­¥éª¤(å¦‚æœæœ¬åœ°åˆ†æ”¯å·²ç»pushåˆ°remote, æ“ä½œä¿®æ”¹ä¼šäº§ç”Ÿæœ¬åœ°ä¸remote repoçš„å†²çª)
 ##################################
-# rebaseµ±Ç°·ÖÖ§ÖÁµ¹Êı9¸öÌá½»£¬ÔÚÄ¬ÈÏtext editorÏÔÊ¾ĞŞ¸ÄÌá½»ÁĞ±í
+# rebaseå½“å‰åˆ†æ”¯è‡³å€’æ•°9ä¸ªæäº¤ï¼Œåœ¨é»˜è®¤text editoræ˜¾ç¤ºä¿®æ”¹æäº¤åˆ—è¡¨
 git rebase -i @~9   
-# ÔÚvi±à¼­Æ÷ÖĞ°ÑÏëĞŞ¸ÄµÄcommit×´Ì¬´Ó'pick'¸Ä³É'e', ±£´æÍË³ö
-# Èç¹ûÏëµ÷ÕûÌá½»Ë³Ğò, ÔÚvi±à¼­Æ÷ÖĞµ÷ÕûÕâĞ©commits listµÄÇ°ºóË³Ğò¼´¿É
-# ĞŞ¸ÄĞèÒªµ÷ÕûµÄÎÄ¼ş£¬È»ºóÓÃaddÃüÁîÖÃÎªstaged×´Ì¬
+# åœ¨viç¼–è¾‘å™¨ä¸­æŠŠæƒ³ä¿®æ”¹çš„commitçŠ¶æ€ä»'pick'æ”¹æˆ'e', ä¿å­˜é€€å‡º
+# å¦‚æœæƒ³è°ƒæ•´æäº¤é¡ºåº, åœ¨viç¼–è¾‘å™¨ä¸­è°ƒæ•´è¿™äº›commits listçš„å‰åé¡ºåºå³å¯
+# ä¿®æ”¹éœ€è¦è°ƒæ•´çš„æ–‡ä»¶ï¼Œç„¶åç”¨addå‘½ä»¤ç½®ä¸ºstagedçŠ¶æ€
 git add -A
-# Ìá½»ĞŞ¸Ä
+# æäº¤ä¿®æ”¹
 git commit --amend 
-# replayµ÷ÕûºóµÄÌá½»list
+# replayè°ƒæ•´åçš„æäº¤list
 git rebase --continue  
 
 ##################################									
-# ²ğ·ÖÌá½»»ù±¾²½Öè
+# æ‹†åˆ†æäº¤åŸºæœ¬æ­¥éª¤
 ##################################
-# ²½Öè¸úĞŞ¸ÄÒ»ÖÂ£¬Î¨Ò»Çø±ğ¾ÍÊÇ¶à×öÒ»¸öÈí»ØÍËreset²Ù×÷
+# æ­¥éª¤è·Ÿä¿®æ”¹ä¸€è‡´ï¼Œå”¯ä¸€åŒºåˆ«å°±æ˜¯å¤šåšä¸€ä¸ªè½¯å›é€€resetæ“ä½œ
 git rebase -i @~9 
-# ĞŞ¸Äcommit×´Ì¬ pick -> edit£¬±£´æÍË³ö
-# »ØÍËµ±Ç°commitÖĞËùÓĞÎÄ¼şĞŞ¸ÄÖÁÇ°Ò»¸öÌá½»Ê±µÄ×´Ì¬
+# ä¿®æ”¹commitçŠ¶æ€ pick -> editï¼Œä¿å­˜é€€å‡º
+# å›é€€å½“å‰commitä¸­æ‰€æœ‰æ–‡ä»¶ä¿®æ”¹è‡³å‰ä¸€ä¸ªæäº¤æ—¶çš„çŠ¶æ€
 git reset @~1
-# È»ºóÖØĞÂÑ¡Ôñ²¢×éÖ¯ÎÄ¼şÌá½»
+# ç„¶åé‡æ–°é€‰æ‹©å¹¶ç»„ç»‡æ–‡ä»¶æäº¤
 git add; git commit
 git rebase --continue 
-# ÉÏÊöµÄÕâÖÖ²ğ·Ö»á¸Ä±ä¾ÉµÄcommitµÄhash ID£¬Èç¹ûÏë±£³Ö¾ÉµÄcommit hash ID£¬¿ÉÒÔÖ»²ğ·Ö²¿·ÖÎÄ¼ş
-# ½«µ±Ç°commitÖĞĞÂÔöÎÄ¼ş file_created.java »ØÍËµ½Ç°Ò»¸öcommitµÄ×´Ì¬
+# ä¸Šè¿°çš„è¿™ç§æ‹†åˆ†ä¼šæ”¹å˜æ—§çš„commitçš„hash IDï¼Œå¦‚æœæƒ³ä¿æŒæ—§çš„commit hash IDï¼Œå¯ä»¥åªæ‹†åˆ†éƒ¨åˆ†æ–‡ä»¶
+# å°†å½“å‰commitä¸­æ–°å¢æ–‡ä»¶ file_created.java å›é€€åˆ°å‰ä¸€ä¸ªcommitçš„çŠ¶æ€
 git reset @~1 -- file_created.java
-# »ØÍË²Ù×÷²úÉúÒ»¸ödeleteĞÂÔöÎÄ¼şµÄ×´Ì¬
+# å›é€€æ“ä½œäº§ç”Ÿä¸€ä¸ªdeleteæ–°å¢æ–‡ä»¶çš„çŠ¶æ€
 git status
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
 	deleted:    file_created.java
-# ĞŞ¸Äµ±Ç°commit£¬È¥³ıµôĞÂÔöÎÄ¼ş
+# ä¿®æ”¹å½“å‰commitï¼Œå»é™¤æ‰æ–°å¢æ–‡ä»¶
 git commit --amend
 git status
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	file_created.java	
-# ½« file_created.java Ìá½»£¬ÕâÑù¾Écommit¿ÉÒÔ±£Áô£¬²ğ·ÖÎÄ¼şÌá½»µ½ĞÂcommit
+# å°† file_created.java æäº¤ï¼Œè¿™æ ·æ—§commitå¯ä»¥ä¿ç•™ï¼Œæ‹†åˆ†æ–‡ä»¶æäº¤åˆ°æ–°commit
 git add file_created.java
 git commit
 
 ##################################									
-# ºÏ²¢¶à¸öÌá½»»ù±¾²½Öè
+# åˆå¹¶å¤šä¸ªæäº¤åŸºæœ¬æ­¥éª¤
 ##################################
-# rebase±¾µØÌá½»
+# rebaseæœ¬åœ°æäº¤
 git rebase -i @~3
 pick f7f3f6d Change my name a bit
 pick 310154e Update README formatting and add blame
 pick a5f4a0d Add cat-file
-# squashÊÇ°ÑºóÁ½ºÏ²¢½øÇ°Ò»¸ö£¬±£Áôcommit log message£¬ ÔÊĞí×Ô¼ºĞŞ¸Ä
+# squashæ˜¯æŠŠåä¸¤åˆå¹¶è¿›å‰ä¸€ä¸ªï¼Œä¿ç•™commit log messageï¼Œ å…è®¸è‡ªå·±ä¿®æ”¹
 pick f7f3f6d Change my name a bit
 squash 310154e Update README formatting and add blame
 squash a5f4a0d Add cat-file
-# ĞÂcommit log messageÓÉÈı¸öÌá½»ĞÅÏ¢ºÏ²¢ÈçÏÂ
+# æ–°commit log messageç”±ä¸‰ä¸ªæäº¤ä¿¡æ¯åˆå¹¶å¦‚ä¸‹
 Change my name a bit
 
 Update README formatting and add blame
@@ -426,333 +426,333 @@ Add cat-file
 
 # replay
 git rebase --continue  
-# fixupºÍsquashÒ»Ñù¹¦ÄÜ£¬Çø±ğ½öÊÇ²»±£ÁôºÏ²¢½øÈ¥µÄcommit log message
+# fixupå’Œsquashä¸€æ ·åŠŸèƒ½ï¼ŒåŒºåˆ«ä»…æ˜¯ä¸ä¿ç•™åˆå¹¶è¿›å»çš„commit log message
 pick f7f3f6d Change my name a bit
 fixup 310154e Update README formatting and add blame
 fixup a5f4a0d Add cat-file
-# log messageÈÔ¾ÉÊÇµÚÒ»¸ö
+# log messageä»æ—§æ˜¯ç¬¬ä¸€ä¸ª
 Change my name a bit
 ```
 
 ### git reset revert
 ```console
-# resetºÍrevertÇø±ğÔÚÓÚ, Èç¹ûcommitÃ»ÓĞpushµ½repo, ÄÇÃ´ÓÃreset¼´¿ÉÔÚ±¾µØ¶ªÆú
-# Èç¹ûÒÑ¾­pushµ½remoteµÄ²Ö¿â, ÄÇÃ´¾ÍĞèÒªÓÃrevert, ²úÉúÒ»¸öĞÂµÄcommitÈ¥undoÒÑ´æÔÚÌá½»
+# resetå’ŒrevertåŒºåˆ«åœ¨äº, å¦‚æœcommitæ²¡æœ‰pushåˆ°repo, é‚£ä¹ˆç”¨resetå³å¯åœ¨æœ¬åœ°ä¸¢å¼ƒ
+# å¦‚æœå·²ç»pushåˆ°remoteçš„ä»“åº“, é‚£ä¹ˆå°±éœ€è¦ç”¨revert, äº§ç”Ÿä¸€ä¸ªæ–°çš„commitå»undoå·²å­˜åœ¨æäº¤
 
-# ´ÓHEAD»ØÍËµ½Ö¸¶¨Ìá½»Î»ÖÃ, Î´pushµÄÈÎºÎ±¾µØcommit¶¼»á¶ªÆú
+# ä»HEADå›é€€åˆ°æŒ‡å®šæäº¤ä½ç½®, æœªpushçš„ä»»ä½•æœ¬åœ°commitéƒ½ä¼šä¸¢å¼ƒ
 git reset --hard 0d1d7fc32
 
-# »ØÍËµ½·ÖÖ§HEADÌá½»µã,Î´±£´æµÄĞŞ¸ÄÒ²»á¶ªÆú
+# å›é€€åˆ°åˆ†æ”¯HEADæäº¤ç‚¹,æœªä¿å­˜çš„ä¿®æ”¹ä¹Ÿä¼šä¸¢å¼ƒ
 git reset --hard HEAD
 
-# ÏÈÁÙÊ±±£´æÎ´Ìá½»µÄ±¾µØ±ä¸ü, È»ºó»ØÍËµ½Ìá½»µã, ÔÙ½«ÁÙÊ±±£´æĞŞ¸ÄÓ¦ÓÃµ½ĞÂ»ùµã
+# å…ˆä¸´æ—¶ä¿å­˜æœªæäº¤çš„æœ¬åœ°å˜æ›´, ç„¶åå›é€€åˆ°æäº¤ç‚¹, å†å°†ä¸´æ—¶ä¿å­˜ä¿®æ”¹åº”ç”¨åˆ°æ–°åŸºç‚¹
 git stash; git reset --hard 0d1d7fc32; git stash pop
 
-# ÁÙÊ±±£´æÖ¸¶¨ÎÄ¼ş
+# ä¸´æ—¶ä¿å­˜æŒ‡å®šæ–‡ä»¶
 git stash -- src/main/build.xml
 
-# git stashÊÇÒ»×é²Ù×÷ÃüÁî£¬ÓÃÀ´ÁÙÊ±±£´æ¸üĞÂĞŞ¸Ä¡£Í¨¹ıtab¼ü¿ÉÒÔ×Ô¶¯ÌáÊ¾
+# git stashæ˜¯ä¸€ç»„æ“ä½œå‘½ä»¤ï¼Œç”¨æ¥ä¸´æ—¶ä¿å­˜æ›´æ–°ä¿®æ”¹ã€‚é€šè¿‡tabé”®å¯ä»¥è‡ªåŠ¨æç¤º
 git stash list
 git stash push <file>
 git stash clear
 git stash show
 
-# hard/softÁ½ÖÖ·½Ê½Çø±ğ¾ÍÔÚÓÚ»ØÍË²Ù×÷ºóÊÇ·ñ±£ÁôËùÓĞ»ØÍËcommitÖĞĞŞ¸ÄµÄÎÄ¼ş
-# --hard»áÇå³ı»ØÍËµÄËùÓĞĞŞ¸ÄÎÄ¼ş£¬--soft»á½«ĞŞ¸ÄÎÄ¼şÖÃÎªuntracked Ä¬ÈÏ²»Ö¸¶¨hard¾Í¶¼ÊÇsoftÄ£Ê½
-# Èç¹ûÏë°Ñ±¾µØÒ»¸öÌá½»ÖĞÄ³Ğ©ÎÄ¼şÉ¾³ı£¬¿ÉÒÔÏÈsoft reset£¬È»ºóÔÙÖØĞÂÑ¡ÔñÌá½»
+# hard/softä¸¤ç§æ–¹å¼åŒºåˆ«å°±åœ¨äºå›é€€æ“ä½œåæ˜¯å¦ä¿ç•™æ‰€æœ‰å›é€€commitä¸­ä¿®æ”¹çš„æ–‡ä»¶
+# --hardä¼šæ¸…é™¤å›é€€çš„æ‰€æœ‰ä¿®æ”¹æ–‡ä»¶ï¼Œ--softä¼šå°†ä¿®æ”¹æ–‡ä»¶ç½®ä¸ºuntracked é»˜è®¤ä¸æŒ‡å®šhardå°±éƒ½æ˜¯softæ¨¡å¼
+# å¦‚æœæƒ³æŠŠæœ¬åœ°ä¸€ä¸ªæäº¤ä¸­æŸäº›æ–‡ä»¶åˆ é™¤ï¼Œå¯ä»¥å…ˆsoft resetï¼Œç„¶åå†é‡æ–°é€‰æ‹©æäº¤
 git reset --soft 0d1d7fc32
 
-# ½«Ö¸¶¨ÎÄ¼ş»ØÍËµ½Ç°Á½¸öÌá½»µÄµã
+# å°†æŒ‡å®šæ–‡ä»¶å›é€€åˆ°å‰ä¸¤ä¸ªæäº¤çš„ç‚¹
 git reset @~2 -- maven_install.json
-# ËùÓĞÎÄ¼ş»ØÍËµ½HEADÌá½»µã
+# æ‰€æœ‰æ–‡ä»¶å›é€€åˆ°HEADæäº¤ç‚¹
 git reset @
 
-# »ØÍËÒÑÌá½»µÄÈı¸öcommit, git×Ô¶¯²úÉúÒ»¸örevertµÄcommit
+# å›é€€å·²æäº¤çš„ä¸‰ä¸ªcommit, gitè‡ªåŠ¨äº§ç”Ÿä¸€ä¸ªrevertçš„commit
 git revert a867b4af  25eee4ca 0766c053
 
-# »ØÍË´Óµ±Ç°HEADÍùÇ°2¸öcommit, git×Ô¶¯²úÉúÒ»¸örevertµÄcommit
+# å›é€€ä»å½“å‰HEADå¾€å‰2ä¸ªcommit, gitè‡ªåŠ¨äº§ç”Ÿä¸€ä¸ªrevertçš„commit
 git revert HEAD~2..HEAD
 
-# »ØÍËÌá½», ²»×Ô¶¯²úÉúrevertµÄcommit, ÊÖ¶¯Ìá½»
+# å›é€€æäº¤, ä¸è‡ªåŠ¨äº§ç”Ÿrevertçš„commit, æ‰‹åŠ¨æäº¤
 git revert --no-commit 0766c053..HEAD; git commit
 ```
 
 ### git cherry-pick
 ```console
-# ÔÚµ±Ç°·ÖÖ§ÖĞ»ñµÃdev·ÖÖ§commit IDÊÇ6d17945cefaµÄÌá½»
+# åœ¨å½“å‰åˆ†æ”¯ä¸­è·å¾—devåˆ†æ”¯commit IDæ˜¯6d17945cefaçš„æäº¤
 git cherry-pick dev 6d17945cefa
 
-# ÔÚµ±Ç°·ÖÖ§ÖĞ»ñÈ¡dev·ÖÖ§×îºóÒ»¸öÌá½»
+# åœ¨å½“å‰åˆ†æ”¯ä¸­è·å–devåˆ†æ”¯æœ€åä¸€ä¸ªæäº¤
 git cherry-pick dev  
 
-# ÔÚµ±Ç°·ÖÖ§ÖĞ»ñÈ¡dev·ÖÖ§µ¹ÊıµÚ¶şÌá½»
+# åœ¨å½“å‰åˆ†æ”¯ä¸­è·å–devåˆ†æ”¯å€’æ•°ç¬¬äºŒæäº¤
 git cherry-pick dev^  
 
-# ÔÚµ±Ç°·ÖÖ§ÖĞ»ñÈ¡dev·ÖÖ§µ¹ÊıµÚÈıÌá½»
+# åœ¨å½“å‰åˆ†æ”¯ä¸­è·å–devåˆ†æ”¯å€’æ•°ç¬¬ä¸‰æäº¤
 git cherry-pick dev~2  
 
-# ÔÚµ±Ç°·ÖÖ§ÖĞ»ñÈ¡dev·ÖÖ§Èı¸öÌá½»
+# åœ¨å½“å‰åˆ†æ”¯ä¸­è·å–devåˆ†æ”¯ä¸‰ä¸ªæäº¤
 git cherry-pick dev~2 dev^ dev
-# »òÕßÍ¨¹ırangeÉè¶¨3¸öcommits£¬
-# range¹æÔòÊÇ(a..b], a±Èb¾É£¬a²»È¡£¬È¡aµÄÏÂÒ»¸öµ½bËùÓĞcommits 
+# æˆ–è€…é€šè¿‡rangeè®¾å®š3ä¸ªcommitsï¼Œ
+# rangeè§„åˆ™æ˜¯(a..b], aæ¯”bæ—§ï¼Œaä¸å–ï¼Œå–açš„ä¸‹ä¸€ä¸ªåˆ°bæ‰€æœ‰commits 
 git cherry-pick dev~3..dev
 ```
 
 ### git diff
 ```console
-# ±È½Ïµ±Ç°master·ÖÖ§ºÍremoteµÄmaster·ÖÖ§µÄ²îÒì
+# æ¯”è¾ƒå½“å‰masteråˆ†æ”¯å’Œremoteçš„masteråˆ†æ”¯çš„å·®å¼‚
 git diff origin/master  
-# ±È½Ïµ±Ç°master·ÖÖ§ºÍremoteµÄmaster·ÖÖ§ÖĞÖ¸¶¨ÎÄ¼şµÄ²îÒì
+# æ¯”è¾ƒå½“å‰masteråˆ†æ”¯å’Œremoteçš„masteråˆ†æ”¯ä¸­æŒ‡å®šæ–‡ä»¶çš„å·®å¼‚
 git diff origin/master  -- Run.java
 
-# ±È½Ï±¾µØmyBranch·ÖÖ§ºÍremote master·ÖÖ§µÄ²îÒì
+# æ¯”è¾ƒæœ¬åœ°myBranchåˆ†æ”¯å’Œremote masteråˆ†æ”¯çš„å·®å¼‚
 git diff myBranch origin/master  
 
-# ±È½Ï±¾µØmyBranch·ÖÖ§ºÍremote master·ÖÖ§µÄÄ³¸öÄ¿Â¼²îÒì
+# æ¯”è¾ƒæœ¬åœ°myBranchåˆ†æ”¯å’Œremote masteråˆ†æ”¯çš„æŸä¸ªç›®å½•å·®å¼‚
 git diff myBranch origin/master -- src/main/java 
 
-# ²é¿´ÎÄ¼şÁ½±êÇ©¿ìÕÕ(0.12.0-0.13.0)Ö®¼äµÄ²îÒì
+# æŸ¥çœ‹æ–‡ä»¶ä¸¤æ ‡ç­¾å¿«ç…§(0.12.0-0.13.0)ä¹‹é—´çš„å·®å¼‚
 git diff 0.12.0 0.13.0 -- glanceclient/common/http.py  
 
-# ±È½Ïµ±Ç°·ÖÖ§Ö¸¶¨ÎÄ¼ş×îĞÂÌá½»ºÍÇ°Ò»¸öÌá½»¼äµÄ²îÒì
+# æ¯”è¾ƒå½“å‰åˆ†æ”¯æŒ‡å®šæ–‡ä»¶æœ€æ–°æäº¤å’Œå‰ä¸€ä¸ªæäº¤é—´çš„å·®å¼‚
 git diff @:./java_deps.bzl @^:./java_deps.bzl
 ```
 
 ### git log 
 ```console
-# ¼òÒª»ã×Üflash-dev·ÖÖ§ËùÓĞÌá½»ÈÕÖ¾
+# ç®€è¦æ±‡æ€»flash-devåˆ†æ”¯æ‰€æœ‰æäº¤æ—¥å¿—
 git log --oneline flash-dev
 
-# ¼òÒª»ã×Üµ±Ç°·ÖÖ§srcÄ¿Â¼ÏÂÇ°5ÌõÈÕÖ¾
+# ç®€è¦æ±‡æ€»å½“å‰åˆ†æ”¯srcç›®å½•ä¸‹å‰5æ¡æ—¥å¿—
 git log -5 --oneline  -- src/
 
-# ²é¿´ÒÑÉ¾³ıÎÄ¼şÂ·¾¶src/main/javaËù¶ÔÓ¦µÄcommit¼ÇÂ¼
-git log --oneline -- src/main/java »òÕß git rev-list -n 1 HEAD -- src/main/java
+# æŸ¥çœ‹å·²åˆ é™¤æ–‡ä»¶è·¯å¾„src/main/javaæ‰€å¯¹åº”çš„commitè®°å½•
+git log --oneline -- src/main/java æˆ–è€… git rev-list -n 1 HEAD -- src/main/java
 git log f2edbe81730 --summary 
 
-# »ã×ÜcommitÌá½»ÎÄ¼şĞÅÏ¢
+# æ±‡æ€»commitæäº¤æ–‡ä»¶ä¿¡æ¯
 git log --stat f2edbe81730
 
-# ²é¿´src/main/javaÄ¿Â¼ÏÂÆ¥Åärpc¹Ø¼ü×ÖµÄËùÓĞÌá½»
+# æŸ¥çœ‹src/main/javaç›®å½•ä¸‹åŒ¹é…rpcå…³é”®å­—çš„æ‰€æœ‰æäº¤
 git log --grep=rpc -- src/main/java
 
-# ²éÕÒËùÓĞ·ÖÖ§ÀúÊ·¼ÇÂ¼ÖĞÊÇ·ñÆ¥ÅäÖ¸¶¨ÎÄ¼ş£¬Ïàµ±ÓÚfindÃüÁî£¬µ«findÎŞ·¨ËÑË÷·Çµ±Ç°´úÂë·ÖÖ§
-# -- **£¯PolicyFacadeImplAjIf* Ö¸¶¨µ±Ç°Ä¿Â¼ËùÓĞÇ¶Ì××ÓÄ¿Â¼ÖĞ²éÑ¯ÎÄ¼şÃû
-# ×îºÃÔÚgit¸ùÄ¿Â¼ÏÂÖ´ĞĞ£¬¿ÉÒÔfindÈ«²¿¹¤³ÌÄ¿Â¼
+# æŸ¥æ‰¾æ‰€æœ‰åˆ†æ”¯å†å²è®°å½•ä¸­æ˜¯å¦åŒ¹é…æŒ‡å®šæ–‡ä»¶ï¼Œç›¸å½“äºfindå‘½ä»¤ï¼Œä½†findæ— æ³•æœç´¢éå½“å‰ä»£ç åˆ†æ”¯
+# -- **ï¼PolicyFacadeImplAjIf* æŒ‡å®šå½“å‰ç›®å½•æ‰€æœ‰åµŒå¥—å­ç›®å½•ä¸­æŸ¥è¯¢æ–‡ä»¶å
+# æœ€å¥½åœ¨gitæ ¹ç›®å½•ä¸‹æ‰§è¡Œï¼Œå¯ä»¥findå…¨éƒ¨å·¥ç¨‹ç›®å½•
 git log --all --summary -- "**/PolicyFacadeImplAjIf*"
 
-# ²éÕÒËùÓĞ±»BatmanÉ¾³ıµÄÎÄ¼şµÄÌá½»¼ÇÂ¼
+# æŸ¥æ‰¾æ‰€æœ‰è¢«Batmanåˆ é™¤çš„æ–‡ä»¶çš„æäº¤è®°å½•
 git log --diff-filter=D --author=Batman --summary  
 
-# ²é¿´Æ¥ÅänameµÄ×÷ÕßËùÓĞÌá½»ÏêÇé
+# æŸ¥çœ‹åŒ¹é…nameçš„ä½œè€…æ‰€æœ‰æäº¤è¯¦æƒ…
 git log --author <name>  
 
-# ²é¿´Æ¥ÅänameµÄ×÷ÕßÔÚÖ¸¶¨ÎÄ¼şÄ¿Â¼ÏÂÌá½»ÏêÇé
+# æŸ¥çœ‹åŒ¹é…nameçš„ä½œè€…åœ¨æŒ‡å®šæ–‡ä»¶ç›®å½•ä¸‹æäº¤è¯¦æƒ…
 git log --author <name> ./src-1/test/ ./src-2/test/
 
-# ²é¿´Æ¥ÅänameµÄ×÷ÕßËùÓĞÌá½»¼òÒªÍ³¼Æ
+# æŸ¥çœ‹åŒ¹é…nameçš„ä½œè€…æ‰€æœ‰æäº¤ç®€è¦ç»Ÿè®¡
 git log --author <name> --oneline --shortstat
 
-# ²é¿´Æ¥ÅänameµÄ×÷ÕßËùÓĞÌá½»ÔöÉ¾¼òÒªÍ³¼Æ
+# æŸ¥çœ‹åŒ¹é…nameçš„ä½œè€…æ‰€æœ‰æäº¤å¢åˆ ç®€è¦ç»Ÿè®¡
 git log --author <name> --oneline --numstat
 
-# ²é¿´Æ¥ÅänameµÄ×÷ÕßËùÓĞÌá½»µÄÍ³¼Æ
+# æŸ¥çœ‹åŒ¹é…nameçš„ä½œè€…æ‰€æœ‰æäº¤çš„ç»Ÿè®¡
 git shortlog --author <name>
 git shortlog -s | grep <name>
 git log --author <name> | grep <name> | wc -l 
 
-# ²é¿´Ê±¼ä¶Î(2018È«Äê)ËùÓĞÌá½»µÄ¸ÅÒª
+# æŸ¥çœ‹æ—¶é—´æ®µ(2018å…¨å¹´)æ‰€æœ‰æäº¤çš„æ¦‚è¦
 git shortlog --since=2018 --before=2019
 
-# ²é¿´Æ¥Åä×÷ÕßµÄÈ«²¿ÔöÉ¾´úÂëĞĞÍ³¼Æ
+# æŸ¥çœ‹åŒ¹é…ä½œè€…çš„å…¨éƒ¨å¢åˆ ä»£ç è¡Œç»Ÿè®¡
 git log --author=<name> --pretty=tformat: --numstat | awk \
 '{ add += $1; subs += $2; loc += $1 - $2 } END \
 { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
 
-# »ã×Üµ±Ç°·ÖÖ§ÔÚÁ½¸ötag¿ìÕÕÖ®¼äµÄËùÓĞÌá½»ÈÕÖ¾
+# æ±‡æ€»å½“å‰åˆ†æ”¯åœ¨ä¸¤ä¸ªtagå¿«ç…§ä¹‹é—´çš„æ‰€æœ‰æäº¤æ—¥å¿—
 git log tag1..tag2
-# »ã×ÜÁ½·ÖÖ§Ö®¼äµÄÌá½»²îÒì
+# æ±‡æ€»ä¸¤åˆ†æ”¯ä¹‹é—´çš„æäº¤å·®å¼‚
 git log master..origin/master
 ```
 
 ### git rev-list
 ```console
-# Í³¼ÆÖ¸¶¨Ìá½»Óëµ±Ç°branchµÄHEADÖ®¼äÌá½»×ÜÊı
+# ç»Ÿè®¡æŒ‡å®šæäº¤ä¸å½“å‰branchçš„HEADä¹‹é—´æäº¤æ€»æ•°
 git rev-list a9e5e1dc6afd..@ --count
-# Í³¼ÆÖ¸¶¨Ìá½»ÓëÖ¸¶¨branchµÄHEADÖ®¼äÌá½»×ÜÊı
+# ç»Ÿè®¡æŒ‡å®šæäº¤ä¸æŒ‡å®šbranchçš„HEADä¹‹é—´æäº¤æ€»æ•°
 git rev-list 178ac735e4097f..origin/master --count
 
-# Í³¼ÆÁ½¸ö·ÖÖ§Ìá½»ÊıÄ¿²î
+# ç»Ÿè®¡ä¸¤ä¸ªåˆ†æ”¯æäº¤æ•°ç›®å·®
 git branch -vv
   im-trace  4ed5411 [origin/xbranch: ahead 7, behind 1059] 
 * uatrace  1fdddc9 [origin/xbranch: behind 61]
 
-# ²é¿´uatrace&im-traceÏà¶ÔxbranchÖ®¼äbehindÌá½»ÊıÄ¿²îÖµ 1059-61=998
+# æŸ¥çœ‹uatrace&im-traceç›¸å¯¹xbranchä¹‹é—´behindæäº¤æ•°ç›®å·®å€¼ 1059-61=998
 git rev-list @ ^im-trace --count
 998
-# ²é¿´uatrace&im-traceÏà¶ÔxbranchÖ®¼äaheadÌá½»ÊıÄ¿²îÖµ 7-0=7
+# æŸ¥çœ‹uatrace&im-traceç›¸å¯¹xbranchä¹‹é—´aheadæäº¤æ•°ç›®å·®å€¼ 7-0=7
 git rev-list @..im-trace --count
 7
 
-# ±È½ÏÁ½¸öÌá½»ÔÚ·ÖÖ§ÉÏµÄÏÈºó´ÎĞò£¬Êı×Ö´óËµÃ÷Ìá½»ÔÚÇ°£¬Ò²¾ÍÊÇ1fdddc9Îªbf5126×æ±²
+# æ¯”è¾ƒä¸¤ä¸ªæäº¤åœ¨åˆ†æ”¯ä¸Šçš„å…ˆåæ¬¡åºï¼Œæ•°å­—å¤§è¯´æ˜æäº¤åœ¨å‰ï¼Œä¹Ÿå°±æ˜¯1fdddc9ä¸ºbf5126ç¥–è¾ˆ
 git rev-list bf5126..@ --count
 29
 git rev-list 1fdddc9..@ --count
 62
-# ´Ó×Ó±²Íù×æ±²Í³¼Æ£¬ÎŞ½á¹ûÊä³ö
+# ä»å­è¾ˆå¾€ç¥–è¾ˆç»Ÿè®¡ï¼Œæ— ç»“æœè¾“å‡º
 git rev-list bf5126..1fdddc9 --count
-# ´Ó×æ±²Íù×Ó±²Í³¼Æ£¬62-29=33
+# ä»ç¥–è¾ˆå¾€å­è¾ˆç»Ÿè®¡ï¼Œ62-29=33
 git rev-list 1fdddc9..bf5126 --count
 33
-# ²»Í³¼ÆÊä³ö¾ÍÁĞ³ö²î¾àÖĞËùÓĞÌá½»hash
+# ä¸ç»Ÿè®¡è¾“å‡ºå°±åˆ—å‡ºå·®è·ä¸­æ‰€æœ‰æäº¤hash
 git rev-list 1fdddc9..bf5126
 bf5126b58f5b49933efeadee3fbb6689e91bec2b
 ...
 e786c78182a1c51cb7bcf75ff71fd9d6b69b1f09
 
-# Í³¼Æµ±Ç°branchÈ«²¿Ìá½»×ÜÊı
+# ç»Ÿè®¡å½“å‰branchå…¨éƒ¨æäº¤æ€»æ•°
 git rev-list --count HEAD
-# Í³¼ÆÊ±¼ä¶ÎÄÚµ±Ç°branchÈ«²¿Ìá½»µÄ×ÜÊı
+# ç»Ÿè®¡æ—¶é—´æ®µå†…å½“å‰branchå…¨éƒ¨æäº¤çš„æ€»æ•°
 git rev-list --count @ --since="Dec 3 2015"  --before="Jan 3 2016"
-# Í³¼ÆÊ±¼ä¶ÎÄÚËùÓĞbranchÈ«²¿Ìá½»µÄ×ÜÊı
+# ç»Ÿè®¡æ—¶é—´æ®µå†…æ‰€æœ‰branchå…¨éƒ¨æäº¤çš„æ€»æ•°
 git rev-list --count --since="Dec 3 2015"  --before="Jan 3 2016" --all
-# ²é¿´Ê±¼ä¶ÎÄÚËùÓĞbranchÈ«²¿Ìá½»µÄ×ÜÊı,µ«ºöÂÔmerge-commitsÊıÄ¿
+# æŸ¥çœ‹æ—¶é—´æ®µå†…æ‰€æœ‰branchå…¨éƒ¨æäº¤çš„æ€»æ•°,ä½†å¿½ç•¥merge-commitsæ•°ç›®
 git rev-list --count --since="Dec 3 2015"  --before="Jan 3 2016" --all --no-merges
 ```
 
 ### git blame
 ```console
-# ²é¿´http.pyÎÄ¼şÃ¿Ò»ĞĞĞŞ¸Ä¼ÇÂ¼
+# æŸ¥çœ‹http.pyæ–‡ä»¶æ¯ä¸€è¡Œä¿®æ”¹è®°å½•
 git blame glanceclient/common/http.py  
 ```
 
 ### git show
 ```console
-# ÏÔÊ¾master·ÖÖ§×îºóÒ»¸öÌá½»µÄÄÚÈİ
+# æ˜¾ç¤ºmasteråˆ†æ”¯æœ€åä¸€ä¸ªæäº¤çš„å†…å®¹
 git show master @
-# ÏÔÊ¾master·ÖÖ§µ¹ÊıµÚ¶ş¸öÌá½»µÄÄÚÈİ
+# æ˜¾ç¤ºmasteråˆ†æ”¯å€’æ•°ç¬¬äºŒä¸ªæäº¤çš„å†…å®¹
 git show master^ 
-# ÏÔÊ¾master·ÖÖ§µ¹ÊıµÚÈı¸öÌá½»µÄÄÚÈİ
+# æ˜¾ç¤ºmasteråˆ†æ”¯å€’æ•°ç¬¬ä¸‰ä¸ªæäº¤çš„å†…å®¹
 git show master~2
-# ÏÔÊ¾master·ÖÖ§µ¹ÊıµÚËÄ¸öÌá½»µÄÄÚÈİ
+# æ˜¾ç¤ºmasteråˆ†æ”¯å€’æ•°ç¬¬å››ä¸ªæäº¤çš„å†…å®¹
 git show master^~2
 
-# ²é¿´Ä³¸öÌá½»ÖĞÄÄĞ©ÎÄ¼ş±»ĞŞ¸Ä
+# æŸ¥çœ‹æŸä¸ªæäº¤ä¸­å“ªäº›æ–‡ä»¶è¢«ä¿®æ”¹
 git show e96a53a68b2ed1ce
-# ²é¿´Ä³¸öÌá½»ÖĞtest.javaÄÚÈİ
+# æŸ¥çœ‹æŸä¸ªæäº¤ä¸­test.javaå†…å®¹
 git show e96a53a68b2ed1ce:src/test.java
 
-# ²é¿´dev·ÖÖ§ÖĞtest.javaÄÚÈİ
+# æŸ¥çœ‹devåˆ†æ”¯ä¸­test.javaå†…å®¹
 git show dev:test/src/test.java
 
-# ²é¿´dev·ÖÖ§ÖĞsrcÄ¿Â¼ÏÂÄÚÈİ
-# Ö§³ÖtabÌáÊ¾¹¦ÄÜ
+# æŸ¥çœ‹devåˆ†æ”¯ä¸­srcç›®å½•ä¸‹å†…å®¹
+# æ”¯æŒtabæç¤ºåŠŸèƒ½
 git show dev:test/src/
-# ls-treeÌá¹©ÏàËÆ¹¦ÄÜ
+# ls-treeæä¾›ç›¸ä¼¼åŠŸèƒ½
 git ls-tree --full-tree -r --name-only dev | less
-# ls-filesÌá¹©µ±Ç°¹¤×÷branchÉÏÎÄ¼şÁĞ±í
+# ls-filesæä¾›å½“å‰å·¥ä½œbranchä¸Šæ–‡ä»¶åˆ—è¡¨
 git ls-files
 
-# °Ñdev·ÖÖ§ÖĞtest.javaµ¼Èëµ±Ç°·ÖÖ§ÖĞ
+# æŠŠdevåˆ†æ”¯ä¸­test.javaå¯¼å…¥å½“å‰åˆ†æ”¯ä¸­
 mkdir -p test/src; git show dev:test/src/test.java > ~/test/src/test.java
 ```
 
 ### git format-patch
 ```console
-# ÔÚµ±Ç°·ÖÖ§ÏÂ,Îª×îĞÂµÄÒ»¸öÌá½»(head -1)´ò³ö²¹¶¡
+# åœ¨å½“å‰åˆ†æ”¯ä¸‹,ä¸ºæœ€æ–°çš„ä¸€ä¸ªæäº¤(head -1)æ‰“å‡ºè¡¥ä¸
 git format-patch -1 HEAD  
 
-# ¸ødev·ÖÖ§×îĞÂµÄÒ»¸öÌá½»(head -1)´ò³ö²¹¶¡
+# ç»™devåˆ†æ”¯æœ€æ–°çš„ä¸€ä¸ªæäº¤(head -1)æ‰“å‡ºè¡¥ä¸
 git format-patch -1 dev  
 
-# ¸øµ±Ç°·ÖÖ§´Óf5f8ff546b3¿ªÊ¼µ½HEADÖ®¼äËùÓĞÌá½»´ò³ö²¹¶¡
+# ç»™å½“å‰åˆ†æ”¯ä»f5f8ff546b3å¼€å§‹åˆ°HEADä¹‹é—´æ‰€æœ‰æäº¤æ‰“å‡ºè¡¥ä¸
 git format-patch f5f8ff546b3  
-# ¸øµ±Ç°·ÖÖ§´Óf5f8ff546b3¿ªÊ¼µ½HEAD-2Ö®¼äËùÓĞÌá½»´ò³ö²¹¶¡
+# ç»™å½“å‰åˆ†æ”¯ä»f5f8ff546b3å¼€å§‹åˆ°HEAD-2ä¹‹é—´æ‰€æœ‰æäº¤æ‰“å‡ºè¡¥ä¸
 git format-patch f5f8ff546b3..@~2
 
-# ¸øµ±Ç°·ÖÖ§ÖĞÖ¸¶¨ f5f8ff546b3Ìá½»´ò³ö²¹¶¡
+# ç»™å½“å‰åˆ†æ”¯ä¸­æŒ‡å®š f5f8ff546b3æäº¤æ‰“å‡ºè¡¥ä¸
 git format-patch -1 f5f8ff546b3  
 
-# °Ñµ±Ç°·ÖÖ§×îĞÂÁ½¸öÌá½»´ò³ÉÒ»¸ö²¹¶¡
-# Ä¬ÈÏÇ°Ãæ¼¸¸öÃüÁî»á°´Ò»¸öÌá½»Ò»¸ö²¹¶¡·½Ê½²úÉú00001/2/3...-xxx.patch
-# --stdout»á½«¶à¸ö²¹¶¡ºÏ²¢ÆğÀ´£¬µ«²»¸Ä±äÌá½»Ë³Ğò£¬git am my.patchÖ®ºó²úÉú¶à¸öÌá½»¼ÇÂ¼
+# æŠŠå½“å‰åˆ†æ”¯æœ€æ–°ä¸¤ä¸ªæäº¤æ‰“æˆä¸€ä¸ªè¡¥ä¸
+# é»˜è®¤å‰é¢å‡ ä¸ªå‘½ä»¤ä¼šæŒ‰ä¸€ä¸ªæäº¤ä¸€ä¸ªè¡¥ä¸æ–¹å¼äº§ç”Ÿ00001/2/3...-xxx.patch
+# --stdoutä¼šå°†å¤šä¸ªè¡¥ä¸åˆå¹¶èµ·æ¥ï¼Œä½†ä¸æ”¹å˜æäº¤é¡ºåºï¼Œgit am my.patchä¹‹åäº§ç”Ÿå¤šä¸ªæäº¤è®°å½•
 git format-patch -2 --stdout > my.patch
 ```
 
 ### git apply-patch
 ```console
-# ²é¿´²¹¶¡µÄÄÚÈİ
+# æŸ¥çœ‹è¡¥ä¸çš„å†…å®¹
 git apply --stat my.patch
-# ¼ì²épatchÊÇ·ñ´æÔÚ´íÎó
+# æ£€æŸ¥patchæ˜¯å¦å­˜åœ¨é”™è¯¯
 git apply --check my.patch
-# Ó¦ÓÃpatch²úÉúunstaged changes
+# åº”ç”¨patchäº§ç”Ÿunstaged changes
 git apply my.patch
 
-#Ó¦ÓÃpatch²úÉúÒ»¸öcommit
+#åº”ç”¨patchäº§ç”Ÿä¸€ä¸ªcommit
 git am my.patch
 ```
 
 ### git grep
 ```console
-# ËÑË÷µ±Ç°branchµ±Ç°Ä¿Â¼ÖĞÆ¥ÅäµÄÄÚÈİ
-# ÓÉÓÚrepo±¾ÉíÓĞË÷Òı£¬ËùÒÔËÙ¶ÈÔ¶¿ìÓÚgrep
-# repo±¾ÉíÊÇÊ÷×´£¬Ã»ÓĞ-r²ÎÊı£¬Ä¬ÈÏÈ«Â·¾¶ËÑË÷
+# æœç´¢å½“å‰branchå½“å‰ç›®å½•ä¸­åŒ¹é…çš„å†…å®¹
+# ç”±äºrepoæœ¬èº«æœ‰ç´¢å¼•ï¼Œæ‰€ä»¥é€Ÿåº¦è¿œå¿«äºgrep
+# repoæœ¬èº«æ˜¯æ ‘çŠ¶ï¼Œæ²¡æœ‰-rå‚æ•°ï¼Œé»˜è®¤å…¨è·¯å¾„æœç´¢
 git grep -in 'if('
 
-# ËÑË÷¶à¸öbranch
+# æœç´¢å¤šä¸ªbranch
 git grep -in 'Converter' origin/master origin/dev
-# Èç¹ûµ±Ç°ËùÔÚÄ¿Â¼ÊÇproject/src/main/javaÔòÉÏÃæÃüÁîÖ´ĞĞÄ¿Â¼µÈÍ¬ÓÚÏÂÃæÃüÁî
+# å¦‚æœå½“å‰æ‰€åœ¨ç›®å½•æ˜¯project/src/main/javaåˆ™ä¸Šé¢å‘½ä»¤æ‰§è¡Œç›®å½•ç­‰åŒäºä¸‹é¢å‘½ä»¤
 git grep -in 'Converter' origin/master:src/main/java origin/dev:src/main/java
 
-# Ïàµ±ÓÚgrepÖĞ --include²ÎÊı
+# ç›¸å½“äºgrepä¸­ --includeå‚æ•°
 git grep -in 'if(' -- '*.java' '*.cpp'
-# ÔÚrepoÖ¸¶¨Â·¾¶ÏÂÖ¸¶¨ÎÄ¼şÀàĞÍËÑË÷¹Ø¼ü×Ö
+# åœ¨repoæŒ‡å®šè·¯å¾„ä¸‹æŒ‡å®šæ–‡ä»¶ç±»å‹æœç´¢å…³é”®å­—
 git grep "ProfileProxy" -- policy/staging/*.java
-# µ±Ç°Â·¾¶srcÄ¿Â¼ÏÂ°´ÕÕÕıÔò±í´ïÊ½ËÑË÷°üº¬sync²¢´øÀ¨ºÅµÄÆ¥ÅäÏî
-# ÓÉÓÚÀ¨ºÅÊÇÕıÔò±í´ïÊ½±£Áô·ûºÅÒò´ËÓÃ·´Ğ±¸Ü×ªÒå
+# å½“å‰è·¯å¾„srcç›®å½•ä¸‹æŒ‰ç…§æ­£åˆ™è¡¨è¾¾å¼æœç´¢åŒ…å«syncå¹¶å¸¦æ‹¬å·çš„åŒ¹é…é¡¹
+# ç”±äºæ‹¬å·æ˜¯æ­£åˆ™è¡¨è¾¾å¼ä¿ç•™ç¬¦å·å› æ­¤ç”¨åæ–œæ è½¬ä¹‰
 git grep -inE "public static .*sync.*\(" src/
 ```
 
 ### git gc
 ```console
-# ³¤ÆÚÔËĞĞºó .gitÄ¿Â¼»áÕ¼ÓÃ´óÁ¿¿Õ¼ä,¿ÉÒÔÍ¨¹ıgcÀ´»ØÊÕ¿Õ¼ä
+# é•¿æœŸè¿è¡Œå .gitç›®å½•ä¼šå ç”¨å¤§é‡ç©ºé—´,å¯ä»¥é€šè¿‡gcæ¥å›æ”¶ç©ºé—´
 git gc --aggressive --prune
 ```
 
 ### gitk 
 ```console
-# GUI·½Ê½²é¿´·ÖÖ§ĞŞ¸Ä¼ÇÂ¼
+# GUIæ–¹å¼æŸ¥çœ‹åˆ†æ”¯ä¿®æ”¹è®°å½•
 gitk
 
-# ²é¿´ÎÄ¼şĞŞ¸Ä¼ÇÂ¼
+# æŸ¥çœ‹æ–‡ä»¶ä¿®æ”¹è®°å½•
 gitk file
 ```
 
 ---
 
 ### [git review](https://osm.etsi.org/wikipub/index.php/Using_git-review_to_push_and_review_changes)
-1. °²×°Ö§³Ö review [×¨ÓÃÈí¼ş](http://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+1. å®‰è£…æ”¯æŒ review [ä¸“ç”¨è½¯ä»¶](http://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
-2. Í¨¹ıgerrit reviewµÄÃüÁîÀ´²Ù×÷, »òÕßÍ¨¹ıgit-reviewÃüÁî
+2. é€šè¿‡gerrit reviewçš„å‘½ä»¤æ¥æ“ä½œ, æˆ–è€…é€šè¿‡git-reviewå‘½ä»¤
 
-	- git-reviewÊÇopenstack×éÖ¯¿ª·¢¹±Ï×µÄ. ĞèÒª¶îÍâ°²×°
+	- git-reviewæ˜¯openstackç»„ç»‡å¼€å‘è´¡çŒ®çš„. éœ€è¦é¢å¤–å®‰è£…
 	```console
 	sudo pip install git-review
 	```
-	UbuntuÆ½Ì¨
+	Ubuntuå¹³å°
 	```console
 	aptitude install git-review
 	```
-	MacÆ½Ì¨
+	Macå¹³å°
 	```console
 	brew install git-review
 	```
-	- ´´½¨reviewÅäÖÃÎÄ¼ş, ĞèÒªÔÚ±¾µØgit repoµÄ¸ùÄ¿Â¼, ¼´.gitÍ¬Ò»¼¶Ä¿Â¼, ´´½¨Ò»¸ö.gitreviewµÄÅäÖÃÎÄ¼ş
+	- åˆ›å»ºreviewé…ç½®æ–‡ä»¶, éœ€è¦åœ¨æœ¬åœ°git repoçš„æ ¹ç›®å½•, å³.gitåŒä¸€çº§ç›®å½•, åˆ›å»ºä¸€ä¸ª.gitreviewçš„é…ç½®æ–‡ä»¶
 	```console
 	touch .gitreview
 	```
-	- .gitreviewÅäÖÃÎÄ¼şÀàËÆWindows .iniÎÄ¼ş¸ñÊ½£¬´æ·ÅGerrit°²×°µÄÏà¹ØĞÅÏ¢
-	Ä£°åÈçÏÂ:
+	- .gitreviewé…ç½®æ–‡ä»¶ç±»ä¼¼Windows .iniæ–‡ä»¶æ ¼å¼ï¼Œå­˜æ”¾Gerritå®‰è£…çš„ç›¸å…³ä¿¡æ¯
+	æ¨¡æ¿å¦‚ä¸‹:
 	```console
 	[gerrit]
 	scheme=ssh   
@@ -761,62 +761,62 @@ gitk file
 	project=XXX.git
 	defaultbranch=master
 	```
-	È»ºóÖ´ĞĞ`git review XXX-branch`,¸ù¾İÉÏÃæÉè¶¨°²×°ºÍÅäÖÃµ±Ç°repoµÄµÚÒ»¸öreview request¡£³É¹¦²Ù×÷ºó£¬.gitreview¾Í²»Æğ×÷ÓÃÁË£¬¿ÉÒÔÉ¾³ı¡£
+	ç„¶åæ‰§è¡Œ`git review XXX-branch`,æ ¹æ®ä¸Šé¢è®¾å®šå®‰è£…å’Œé…ç½®å½“å‰repoçš„ç¬¬ä¸€ä¸ªreview requestã€‚æˆåŠŸæ“ä½œåï¼Œ.gitreviewå°±ä¸èµ·ä½œç”¨äº†ï¼Œå¯ä»¥åˆ é™¤ã€‚
 	```console
-	# Èç¹ûÓöµ½ÈçÏÂÇøÓòÉè¶¨´íÎó£¬¿ÉÒÔÍ¨¹ıºóÃæÃüÁîÀ´°²×°ÖØÖÃµ±Ç°locale
+	# å¦‚æœé‡åˆ°å¦‚ä¸‹åŒºåŸŸè®¾å®šé”™è¯¯ï¼Œå¯ä»¥é€šè¿‡åé¢å‘½ä»¤æ¥å®‰è£…é‡ç½®å½“å‰locale
 	locale.Error: unsupported locale setting
 	
-	# Èç¹ûÏ£ÍûÄ¬ÈÏÉè¶¨locale£¬ ¿ÉÒÔ°ÑÁ½ÌõexportÃüÁî·Åµ½ .bashrc
+	# å¦‚æœå¸Œæœ›é»˜è®¤è®¾å®šlocaleï¼Œ å¯ä»¥æŠŠä¸¤æ¡exportå‘½ä»¤æ”¾åˆ° .bashrc
 	export LC_ALL="en_US.UTF-8"
 	export LC_CTYPE="en_US.UTF-8"
 	sudo dpkg-reconfigure locales
 	```
-	- Éè¶¨Ä¬ÈÏrebaseµ½zero £¬½«Ê¹git-review²»»árebase changes (same as the -R command line option)
+	- è®¾å®šé»˜è®¤rebaseåˆ°zero ï¼Œå°†ä½¿git-reviewä¸ä¼šrebase changes (same as the -R command line option)
 	```console
 	[gerrit]
 	scheme=ssh   --default scheme (ssh/http/https) of gerrit remote
-	host=review.example.com  --gerrit remote server ¿ÉÒÔ²é¿´.git/configÖĞÅäÖÃ
+	host=review.example.com  --gerrit remote server å¯ä»¥æŸ¥çœ‹.git/configä¸­é…ç½®
 	port=29418
-	project=department/project.git   --¶ÔÓ¦µÄÎÄ¼ş²Ö¿â
+	project=department/project.git   --å¯¹åº”çš„æ–‡ä»¶ä»“åº“
 	defaultbranch=master
 	defaultremote=review
 	defaultrebase=0
 	track=0
 	```   
-   - ´´½¨È«¾ÖreviewÓÃ»§Ãû
+   - åˆ›å»ºå…¨å±€reviewç”¨æˆ·å
 	```console
 	git config -l    -- list all current config
 	# update author/email per repo, useful for current repo config
 	git config user.name "Gene"
 	git config user.email "Gene@genesis.org"
 	
-	# update global author/email£¬ impact on all git repo
+	# update global author/emailï¼Œ impact on all git repo
 	git config --global user.name "Gene"
 	git config --global user.email "Gene@genesis.org"
 	
 	#remove global config
 	git config --global --unset-all user.name
 	```
-	*µ±ÏàÍ¬ÅäÖÃÍ¨¹ı.gitreviewÅäÖÃÎÄ¼ş»òÃüÁî²ÎÊıÍ¬Ê±ÉúĞ§Ê±ºò£¬ÃüÁîĞĞ²ÎÊıÓÅÏÈ*
+	*å½“ç›¸åŒé…ç½®é€šè¿‡.gitreviewé…ç½®æ–‡ä»¶æˆ–å‘½ä»¤å‚æ•°åŒæ—¶ç”Ÿæ•ˆæ—¶å€™ï¼Œå‘½ä»¤è¡Œå‚æ•°ä¼˜å…ˆ*
 
-    - Éè¶¨commit-msgÖĞ×Ô¶¯²úÉúChange-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
+    - è®¾å®šcommit-msgä¸­è‡ªåŠ¨äº§ç”ŸChange-Id (https://git.eclipse.org/r/Documentation/cmd-hook-commit-msg.html)
 	```console
 	$ scp -p -P 29418 king@review.example.com:hooks/commit-msg ~/source/.git/hooks/
 	```
-	»ò
+	æˆ–
 	```console
 	$ curl -Lo ~/source/.git/hooks/commit-msg https://review.example.com/tools/hooks/commit-msg
     ```	
-	*Èç¹û³öÏÖÈ¨ÏŞÎÊÌâ£¬Ò»°ãÊÇgerrit·şÎñÆ÷ÉÏÃ»ÓĞ±£´æ±¾»ú¹«Ô¿£¬ĞèÒªÍ¨¹ıssh-keygenÃüÁî²úÉú~/.ssh/id_rsa.pub£¬²¢¸´ÖÆµ½gerrit¹ÜÀí½çÃæÉÏ¡£
-	ÈçÖ®ºóµÃµ½µÄcommit-msgÎÄ¼şÃ»ÓĞÖ´ĞĞÈ¨ÏŞ£¬»¹ĞèÒªĞŞ¸ÄÒ»ÏÂÖ´ĞĞÈ¨ÏŞ*
+	*å¦‚æœå‡ºç°æƒé™é—®é¢˜ï¼Œä¸€èˆ¬æ˜¯gerritæœåŠ¡å™¨ä¸Šæ²¡æœ‰ä¿å­˜æœ¬æœºå…¬é’¥ï¼Œéœ€è¦é€šè¿‡ssh-keygenå‘½ä»¤äº§ç”Ÿ~/.ssh/id_rsa.pubï¼Œå¹¶å¤åˆ¶åˆ°gerritç®¡ç†ç•Œé¢ä¸Šã€‚
+	å¦‚ä¹‹åå¾—åˆ°çš„commit-msgæ–‡ä»¶æ²¡æœ‰æ‰§è¡Œæƒé™ï¼Œè¿˜éœ€è¦ä¿®æ”¹ä¸€ä¸‹æ‰§è¡Œæƒé™*
 	```console
 	$ chmod u+x ~/source/.git/hooks/commit-msg
 	```
-	Ok£¬ĞŞ¸Äcommitµ½±¾µØÖ®ºó¾Í»áÔÚÌá½»ĞÅÏ¢ÖĞ²úÉúÒ»¸öChange-IDÁË, ÈçChange-Id: I5b8ecff9d0b6dddda4c76e162629017ac5026341
+	Okï¼Œä¿®æ”¹commitåˆ°æœ¬åœ°ä¹‹åå°±ä¼šåœ¨æäº¤ä¿¡æ¯ä¸­äº§ç”Ÿä¸€ä¸ªChange-IDäº†, å¦‚Change-Id: I5b8ecff9d0b6dddda4c76e162629017ac5026341
 
-    - git review ²Ù×÷²Î¿¼
-	ÔÚ±¾µØrepoÌá½»commitºó£¬¼´¿ÉÍ¨¹ı git review´´½¨review request, »òÕß git review branchName ´´½¨Ö¸¶¨·ÖÖ§µÄreview request
-	<br>ÈçÏÂ½á¹ûÊä³ö:<br>
+    - git review æ“ä½œå‚è€ƒ
+	åœ¨æœ¬åœ°repoæäº¤commitåï¼Œå³å¯é€šè¿‡ git reviewåˆ›å»ºreview request, æˆ–è€… git review branchName åˆ›å»ºæŒ‡å®šåˆ†æ”¯çš„review request
+	<br>å¦‚ä¸‹ç»“æœè¾“å‡º:<br>
 		
 		```console
 		$ git review master
@@ -864,7 +864,7 @@ gitk file
 			   $ git branch
 			   * master
 		```
-	- ÃüÁîĞĞ²ÎÊı¾ßÌåËµÃ÷²Î¿¼ man git-review
+	- å‘½ä»¤è¡Œå‚æ•°å…·ä½“è¯´æ˜å‚è€ƒ man git-review
 		```console
 		CONFIGURATION
 			 This utility can be configured by adding entries to Git configuration.
