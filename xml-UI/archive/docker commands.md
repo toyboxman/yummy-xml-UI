@@ -9,11 +9,12 @@
 + [Docker Installation](#docker-installation-on-suse)
 + [Docker Command](#docker-command)
 + [Docker Compose](#docker-compose)
-+ [¶àÆ½Ì¨Docker¾µÏñ¹¹½¨](https://mp.weixin.qq.com/s/wGuJHespc6aRkIuPK1FGUg)
-+ [Podman£ºÒ»¸ö¸ü°²È«µÄÔËĞĞÈİÆ÷µÄ·½Ê½](https://mp.weixin.qq.com/s/JBQLqxUqZdGpQaU2iauFzA)
++ [å¤šå¹³å°Dockeré•œåƒæ„å»º](https://mp.weixin.qq.com/s/wGuJHespc6aRkIuPK1FGUg)
++ [Podmanï¼šä¸€ä¸ªæ›´å®‰å…¨çš„è¿è¡Œå®¹å™¨çš„æ–¹å¼](https://mp.weixin.qq.com/s/JBQLqxUqZdGpQaU2iauFzA)
 + [OverlayFS](https://mp.weixin.qq.com/s/KEKecCY6Y-i1sWa6T9jiAg)
-+ [Portainer.io¼à¿ØºÍ¹ÜÀíDockerÈİÆ÷](https://mp.weixin.qq.com/s/NPo9oOcm3CSLXjEonnQRgA)
++ [Portainer.ioç›‘æ§å’Œç®¡ç†Dockerå®¹å™¨](https://mp.weixin.qq.com/s/NPo9oOcm3CSLXjEonnQRgA)
 + [VMware/KVM/Docker](https://mp.weixin.qq.com/s/B8wbax29RzP0gGCSDMxJOg)
++ [Docker Imageç˜¦èº«](https://mp.weixin.qq.com/s/z1a8JUNFrQjSSER3W8Hw6g)
 
 ---
 
@@ -100,25 +101,25 @@ docker run --name jdk-dev -it java
 docker run -d -it golang
 # run image as container with mapping port 2181 to host's port 8081
 docker run -p8081:2181 -it solo_zk  
-# ¶à¶Ë¿ÚÓ³ÉäºÍudpÀàĞÍÓ³Éä
+# å¤šç«¯å£æ˜ å°„å’Œudpç±»å‹æ˜ å°„
 docker run -d -p 5775:5775/udp -p 16686:16686 jaegertracing/all-in-one:latest
-# ½«containerÖĞÎÄ¼şÄÚÈİµ¼³ö±¾µØ£¬Ö´ĞĞÍê³Éºókill container
+# å°†containerä¸­æ–‡ä»¶å†…å®¹å¯¼å‡ºæœ¬åœ°ï¼Œæ‰§è¡Œå®Œæˆåkill container
 # -rm parameter means kill container after command closes
 docker run -i --rm postgres cat /usr/share/postgresql/postgresql.conf.sample > my-postgres.conf
 # postgres image guide https://github.com/docker-library/docs/blob/master/postgres/README.md
-# -e Ö¸¶¨containerµÄ»·¾³±äÁ¿
+# -e æŒ‡å®šcontainerçš„ç¯å¢ƒå˜é‡
 docker run --name some-postgres -e POSTGRES_PASSWORD_FILE=/run/secrets/postgres-passwd -d postgres
 # remove container by name/id
 docker rm <NAME | ID>  
 # Stop one or more running containers
 docker stop <NAME | ID>  
 # Start one or more running containers
-# Æô¶¯Á½¸öcontainer£¬ÓÃtab¿ÉÒÔ×Ô¶¯²»È«µ±Ç°stoppedµÄcontainer
+# å¯åŠ¨ä¸¤ä¸ªcontainerï¼Œç”¨tabå¯ä»¥è‡ªåŠ¨ä¸å…¨å½“å‰stoppedçš„container
 docker start jaeger griffin
 
 # copy locally current file to docker instance folder
 docker cp ./zkCache.sh <NAME | ID>:/opt/zk
-# °Ñspark mainÄ¿Â¼ÖĞËùÓĞexamplesÔ´Âë²¢×ÓÄ¿Â¼copyµ½µ±Ç°ËŞÖ÷»úÄ¿Â¼
+# æŠŠspark mainç›®å½•ä¸­æ‰€æœ‰examplesæºç å¹¶å­ç›®å½•copyåˆ°å½“å‰å®¿ä¸»æœºç›®å½•
 docker cp spark-master:/spark/examples/src/main/ ./
 # symbolic link copy
 docker cp -L ./zkCache.sh <NAME | ID>:/opt/zk 
@@ -131,11 +132,11 @@ docker network ls
 docker inspect <NAME | ID> | grep <IP>
 docker network inspect <network_name>
 
-# --link ²ÎÊıÀ´Ê¹ÈİÆ÷»¥Áª£¬Ëæ×ÅDocker networkµÄÍêÉÆ£¬¿É½«ÈİÆ÷¼ÓÈë×Ô¶¨ÒåµÄDocker networkÀ´Á¬½Ó¶à¸öÈİÆ÷
+# --link å‚æ•°æ¥ä½¿å®¹å™¨äº’è”ï¼Œéšç€Docker networkçš„å®Œå–„ï¼Œå¯å°†å®¹å™¨åŠ å…¥è‡ªå®šä¹‰çš„Docker networkæ¥è¿æ¥å¤šä¸ªå®¹å™¨
 # https://yeasy.gitbook.io/docker_practice/network/linking
-# Ô´ÈİÆ÷
+# æºå®¹å™¨
 docker run -d --name selenium_hub selenium/hub
-# ½ÓÊÕÈİÆ÷
+# æ¥æ”¶å®¹å™¨
 docker run -d --name node --link selenium_hub:hub selenium/node-chrome-debug
 
 # build local image, need three files, Dockerfile  zoo.cfg  zookeeper-entrypoint.sh in ./ folder
@@ -188,24 +189,24 @@ docker-compose run
 docker-compose run --rm zkcli -server zookeeper3  
 ```
 
-#### ÅäÖÃ jaeger + kibana + ES
-½«jaegerÊÕ¼¯traceÊı¾İ´æ´¢ÔÚES
+#### é…ç½® jaeger + kibana + ES
+å°†jaegeræ”¶é›†traceæ•°æ®å­˜å‚¨åœ¨ES
 ```console
 # elasticsearch
-# ElasticSearchÆô¶¯Ê±£¬»áÕ¼ÓÃÁ½¸ö¶Ë¿Ú9200ºÍ9300
-# 9200ÊÇES½ÚµãÓëÍâ²¿Í¨Ñ¶Ê¹ÓÃµÄ¶Ë¿Ú, ËüÊÇhttpĞ­ÒéµÄRESTful½Ó¿Ú(¸÷ÖÖCRUD²Ù×÷¶¼ÊÇ×ßµÄ¸Ã¶Ë¿Ú,Èç²éÑ¯£ºhttp://localhost:9200/)
-# 9300ÊÇES½ÚµãÖ®¼äÍ¨Ñ¶Ê¹ÓÃµÄ¶Ë¿Ú¡£ËüÊÇtcpÍ¨Ñ¶¶Ë¿Ú£¬¼¯Èº¼äºÍTCPclient¶¼×ßµÄËü(java³ÌĞòÖĞÊ¹ÓÃESÊ±£¬ÔÚÅäÖÃÎÄ¼şÖĞÒªÅäÖÃ¸Ã¶Ë¿Ú)
-# ÔÚes clusterÖĞÃ¿¸önode¶¼»áÓĞ·Ö¹¤£¬±ÈÈçmaster, data, ingestµÈµÈ
+# ElasticSearchå¯åŠ¨æ—¶ï¼Œä¼šå ç”¨ä¸¤ä¸ªç«¯å£9200å’Œ9300
+# 9200æ˜¯ESèŠ‚ç‚¹ä¸å¤–éƒ¨é€šè®¯ä½¿ç”¨çš„ç«¯å£, å®ƒæ˜¯httpåè®®çš„RESTfulæ¥å£(å„ç§CRUDæ“ä½œéƒ½æ˜¯èµ°çš„è¯¥ç«¯å£,å¦‚æŸ¥è¯¢ï¼šhttp://localhost:9200/)
+# 9300æ˜¯ESèŠ‚ç‚¹ä¹‹é—´é€šè®¯ä½¿ç”¨çš„ç«¯å£ã€‚å®ƒæ˜¯tcpé€šè®¯ç«¯å£ï¼Œé›†ç¾¤é—´å’ŒTCPclientéƒ½èµ°çš„å®ƒ(javaç¨‹åºä¸­ä½¿ç”¨ESæ—¶ï¼Œåœ¨é…ç½®æ–‡ä»¶ä¸­è¦é…ç½®è¯¥ç«¯å£)
+# åœ¨es clusterä¸­æ¯ä¸ªnodeéƒ½ä¼šæœ‰åˆ†å·¥ï¼Œæ¯”å¦‚master, data, ingestç­‰ç­‰
 docker pull elasticsearch:7.16.1
 docker run -d --name=elasticsearch -p9200:9200 -p9300:9300 -e "discovery.type=single-node" -e "xpack.security.enabled=false" elasticsearch:7.16.1
 
 # kibana
-# WebÄ¬ÈÏ¶Ë¿Ú5601, ÓÃÀ´Ìá¹©ºó¶Ë·şÎñµÄ·ÃÎÊ¡£ÀıÈçºó¶ËES GUI http://docker-server:5601/app/home#/
+# Webé»˜è®¤ç«¯å£5601, ç”¨æ¥æä¾›åç«¯æœåŠ¡çš„è®¿é—®ã€‚ä¾‹å¦‚åç«¯ES GUI http://docker-server:5601/app/home#/
 docker pull kibana:7.16.1
 docker run -d --name=kibana --link=elasticsearch -p5601:5601 kibana:7.16.1
 
 # jaeger all-in-one
-# Web²éÑ¯ http://docker-server:16686/
+# WebæŸ¥è¯¢ http://docker-server:16686/
 docker run -d --name jaeger-es \
   --link=elasticsearch \
   -e SPAN_STORAGE_TYPE=elasticsearch \
