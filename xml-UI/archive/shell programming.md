@@ -24,6 +24,7 @@
     + [网道Bash脚本教程](https://wangdoc.com/bash/string.html)
     + [Shell Built-in Commands](https://mp.weixin.qq.com/s/8E7Q3GEHPpD5wklYPYFOew)
     + [Bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+    + [shell编程100例](https://mp.weixin.qq.com/s/OiUiTBbyDb1DpTwLxdAHOA)
     + [汇总日志](#exp1)
     + [设定网络配置](#exp2)
     + [SSH+EXPECT](#exp3)

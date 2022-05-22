@@ -207,3 +207,108 @@ In practice, both Finland and Sweden have lived for a long time with Russian nuc
 
 Germany and France, were more intent on enjoying the peace dividend of the Cold War’s end than looking Mr. Putin’s ambitions in the eye. For a long time, even up to the eve of the Russian invasion, Europe has been divided. These illusions persisted even after Mr. Putin annexed Crimea. the thorny issue of Ukraine’s membership was left floating by Western leaders who did not want to provoke Mr. Putin further.
 德国和法国，则更倾向于享受冷战结束的和平红利，而不是正视普京的野心。很长一段时间，甚至直到俄罗斯入侵前夕，欧洲都存在分歧。后来，这些幻想依然存在，即使普京吞并克里米亚。西方领导人由于不想进一步激怒普京而搁置了让乌克兰加入北约这一棘手问题
+
+The vitriol can be overwhelming. Inundated by derogatory messages, he had to change his user name to stop harassers from tracing him.
+谩骂可能是压倒性的。铺天盖地的辱骂信息之下，他不得不更改自己的用户名，阻止骚扰者的追踪。
+
+Officials declared they had achieved “societal zero,” Shanghai’s cooking oil smell is returning. Schools remain closed, as do theaters, gyms and other cultural venues. The city would prioritize restarting work at industrial facilities
+官员已经宣布实现了“社会面清零”，上海的烟火气正在回来. 学校仍关闭，剧院、体育馆和其他文化场所也没有开放。上海将优先恢复企业的生产工作。
+
+Asked why he was locking the doors, he let his black shirt, emblazoned with what appeared to be the word “security,” speak for him. It was not until he opened fire with one of his two semiautomatic pistols that the crowd of 150 or so churchgoers, most of them retirees, took notice. Only then, scattering in terror, did they realize that the doors to the multipurpose room at the suburban Southern California campus where they were meeting had been chained, nailed and super-glued shut.
+接待员问他为什么要把门锁上时，他用身上穿的印有看似“保安”二字的黑衫做了回答。直到他用携带的两支半自动手枪中的一支开火后，房间的大约150名教徒（其中大多数是退休人员）才注意到他。人们在惊恐之中向房间出口四散时才意识到，这个位于南加州郊区的多功能厅的门已被铁链、钉子和强力胶合剂封死。
+
+Mr. Chou had apparently acted alone, setting an elaborate trap, although it was not clear why he had chosen this out-of-the-way church as a target. 
+周文伟显然是单独行动，他设置了一个复杂的陷阱，但尚不清楚他为什么选择了这个偏远的教堂作为目标。
+
+Dr. Cheng, who is survived by his wife and two teenage children, was also an accomplished master martial arts instructor. Raised in Texas, the physician was not religious and did not have strong political views about China, but was there in solidarity with his mother. He was there for a reason.
+郑达志医生也是一位杰出的武术教练。他的遗属包括他的妻子和两个十几岁的孩子。这位在得克萨斯州长大的医生并不信教，对中国没有强烈的政治观点，在那里是为了陪伴母亲, 他在那里是冥冥之中的安排
+
+those in the community generally tried to steer clear of politics of any kind in conversations. But she added that the confluence of the coronavirus, the rise in racist acts against people of Asian descent, and Russia’s war in Ukraine had created a simmering environment that was inescapable, even in an ordinary peaceful haven.
+社区居民通常会尽量不谈政治。但她又说，新冠病毒、针对亚裔的种族主义行为的增加，以及俄罗斯在乌克兰的战争等因素叠加起来，导致了一个一触即发的环境，这无法避免，即使在一个普通的宁静避风港也是如此
+
+In school, she was taught a “startlingly Victorian” curriculum “designed to ensure that we did not identify too closely with any place.” Children did not learn the bloody means by which Britain had come to acquire Hong Kong, with the real motive of renewing its illegal opium trade in China.
+她的学校传授“令人吃惊的维多利亚时代”守旧课程，“旨在确保我们不会与任何地方有过于紧密的认同。”孩子们没有了解到英国以血腥手段夺取香港，其真正目的是在中国恢复非法鸦片贸易
+
+Throughout this colonial history Lim sprinkles vivid details that underscore the racism and “willful disregard” with which Britain governed its last major colony.
+在这段殖民历史中，林慕莲用生动的细节强调了英国统治其最后一个重要殖民地时的种族主义和“故意无视”。
+
+In “The Impossible City,” Cheung likewise distinguishes among the multiple universes that make up modern Hong Kong. There is the “cosmopolitan city,” home to international students and expats whose idea of paradise is Lan Kwai Fong, “a bar-infested slope of drunk men and Jell-O shots,” who proudly tell people they’re from Hong Kong but are “barely able to describe the city without talking about Mong Kok or char siu rice.”
+同样地，在《无可奈何的城市》中，张嘉伦将构成现代香港的多个宇宙区分开来。其中一个是“国际大都会”，是国际学生和外籍人士的家园，他们的天堂是兰桂坊，“一条酒吧林立的坡道，到处是醉汉和果冻酒”，他们自豪地告诉人们他们是香港人，但“除了谈论旺角或叉烧饭，几乎不知道怎么描述这座城市”。
+
+The first Hong Kongers, so the myth goes, were rebels. In the fifth century a Chinese official named Lu Xun incited a rebellion against the Jin dynasty. He lost, and fled with his army to Lantau, one of Hong Kong’s islands, where they lived in caves and ate so much raw fish that, according to one popular version of the legend, they grew fish heads. Indigenous Hong Kongers, the so-called Lo Ting, are said to be these insurrectionist mermen.
+传说最早的一批香港人都是忤逆之辈。公元5世纪，也就是东晋年间，一个名叫卢循的官吏揭竿而起，后败退至香港的大屿山。在这座岛上，他们住山洞，吃生鱼，根据一个广为流传的版本，他们长出了鱼头。据说，卢亭人，也就是香港最早的居民，正是这些造反的人鱼
+
+At his side was his closest ally in Western Europe, Silvio Berlusconi, the media mogul and Italian prime minister of legendarily hedonist appetites with whom he shared a taste for raunchy jokes, over-the-top furnishings and vast wealth.
+身边站着他在西欧最亲密的盟友西尔维奥·贝卢斯科尼。这位时任意大利总理的媒体大亨有着传奇的享乐主义嗜好，两人都喜欢黄色笑话、夸张的摆设和巨额财富。
+
+I have always reacted negatively to those who, with their snotty noses and erotic fantasies, meddle in other people’s lives
+对那些目中无人、怀着性幻想、干涉他人生活的人，我总是反应消极
+
+The great-granddaughter of Nikita Khrushchev, Ms. Khrushcheva said that Mr. Putin had a byzantine worldview typical of the Kremlin, and like Stalin, he embraced and perpetuated mythology peppered with truth.
+尼基塔·赫鲁晓夫的曾孙女赫鲁晓娃说，普京有克里姆林宫典型的那种复杂诡秘的世界观，与斯大林一样，他欣然接受了点缀着些许真相的神话，并使其持久化
+
+If Depp somehow prevails, one can expect similar lawsuits against other women who say they’ve survived abuse. Depp wrote that Heard was “begging for total global humiliation.” Online, there’s a level of industrial-scale bullying directed at Heard that puts all previous social media pile-ons to shame. 
+如果德普以某种方式获胜，人们可以想见，其他自称从性侵中幸存下来的女性也会面临类似的诉讼。德普写道，赫德“上赶着想丢脸丢到全世界去”。网络上出现了针对赫德的一轮大规模霸凌，让所有之前的社交媒体围攻都相形见绌。
+
+Depp, you may know by now, accused Heard or one of her friends of defecating in her bed as an act of revenge, and his bodyguard said she’d confessed to a prank gone wrong. Heard testified that one of their dogs, incontinent since eating Depp’s weed as a puppy, defiled the bed.
+德普指控赫德或她的一个朋友在她床上大便以示报复，他的保镖说她承认是想恶作剧但出了岔子。赫德作证说，他们的一只狗小时候吃了德普的大麻一直失禁，因此弄脏了床。
+
+The image of Heard, a woman whose brand is bombshell blond glamour, is now linked, perhaps permanently, to excrement. If she’s not a psychopath, she’s the casualty of a truly sadistic reputational hit job.
+赫德的形象，一个以金发性感魅力为标志的女人，现在被永久与粪便联系在一起。如果她不是心理变态，那她就的确是被污蔑为虐待狂的受害者。
+
+The great replacement is the latest incarnation of an old idea: the belief that elites are attempting to destroy the white race by overwhelming it with nonwhite groups and thinning them out with interbreeding until white people no longer exist. Even when demographic change slows, this fear has not abated.
+“大取代”是旧观点重燃的最新一例。这个旧观点认为精英试图通过用非白人群体压倒白人种族，并通过杂交使他们变得稀少，从而摧毁这一种族，直至其灭绝。即使人口变化放缓，这种担忧也并未减弱。
+
+When neo-Nazis, Klansmen, militiamen and skinheads came together in the 1980s and 1990s, they worried about the “Zionist Occupational Government” or the “New World Order.” 
+当新纳粹分子、三K党人、民间武装和光头党在1980年代和1990年代走到一起时，他们担心“犹太复国主义占领政府”或“新世界秩序”。
+
+Thoughts and prayers are never enough after a mass shooting, but even these messages seem more sparse than usual. 
+在大规模枪击事件之后，思念和祈祷永远都不够，但即使这些内容似乎也比平时更稀少
+
+Salaries don’t make people **rich nearly as often as equity does**. rich people tend to own unsexy businesses. 
+工资使人致富的效率远不及股权。富人拥有的往往是不那么风光的企业。
+
+He debunked a popular myth that there is no effect of money on happiness beyond $75,000 per year, but he did confirm a law of diminishing returns to money.
+他戳穿了一个流行的迷思，即年收入超过7.5万美元后，金钱对幸福就没有影响了，但他也确实证实了金钱回报递减的规律。
+
+The central problem is that the coronavirus has become more adept at reinfecting people. It seems likely to me that that’s going to sort of be a long-term pattern.  
+核心问题是，新冠病毒已变得更容易再次感染。在我看来，这可能会成为一种长期模式
+
+The Omicron variant dashed those hopes. Unlike previous variants, Omicron and its many descendants seem to have evolved to partially dodge immunity. At least at the moment, the virus has not hit upon a way to fully sidestep the immune system.
+奥密克戎变异株使得这样的希望破灭了。与之前的变异株不同，奥密克戎和它的许多后裔似乎已经进化到可以逃避部分免疫。至少目前，该病毒还没有找到一种完全避开免疫系统的方法。
+
+Many places provide insight. For the standard slide-show presentation, it looks obvious: Australia restricted travel and personal interaction until vaccinations were widely available
+许多地方的措施都值得借鉴。从最直观的角度看，差别是相当明显的：澳大利亚限制了旅行与人际交往，直至疫苗广泛可用。
+
+But of greater import, interpersonal trust — a belief that others would do what was right not just for the individual but for the community — saved lives. Trust mattered more than smoking prevalence, health spending or form of government
+但更重要的是，人与人之间的信任——即相信他人会做正确的事，不仅为了个人，也是为了社区——能够挽救生命。信任比吸烟率、医疗支出或政府形式更为重要。
+
+That’s a good list of issues. I’m happy to be involved, But, you know, are we going to get any tangible benefits out of participating in this framework? The bottom line is the United States is not coming to the table with market access, And that’s the trade piece. That’s what the region is looking for.
+确实提到了许多要点。我很乐意参与，但话说回来，参与这个框架能让我们得到任何切实的好处吗？说到底就是美国并没有带着市场准入的承诺来谈判，这才是关键一步。这是该地区最关心的地方。
+
+During stops in Seoul and Tokyo, Mr. Biden will encounter two new partners who are both seen as more aligned with American priorities and likely to **have good chemistry with** the president
+在访问首尔和东京期间，拜登将要会见的两位新伙伴都被认为与美国的优先事项更一致，可能与总统营造出良好关系
+
+Demands for the expropriation of someone else’s legally acquired property is legal nihilism in its purest form.
+要求没收他人合法获得的财产是最纯粹的法律虚无主义
+
+In recent weeks, Germany has been trying to shore up its legal framework, spearheaded by a new task force. 
+最近几周，德国一直在努力巩固其法律框架，这项工作由一个新的工作组牵头
+
+You don’t protest in Tegernsee. That takes a lot, quite a lot indeed. It has something to do with these mountains, Your view out to the world is narrow.
+你不会在泰根湖抗议。这不容易做到，真的很难，与这里的山有关，你对世界的看法是狭窄的。
+
+We live in an idyll, which most people here only want to have affirmed, not questioned. But they think just because he knows Putin or because he’s Russian, they can do this. You shouldn’t pass judgment.
+我们生活在田园诗般的环境中，这里的大多数人只想确认而不是质疑这一点. 但他们认为仅仅因为他认识普京或者因为他是俄罗斯人，他们就可以做这样的事。不应该这样给人扣帽子
+
+As the war in Ukraine drags on, the Tegernsee villas remain shuttered and untouched. Some worry momentum to take action is flagging because that is how local leaders like it.
+随着乌克兰战争的持续，泰根湖的别墅仍处于封闭状态，无人踏足。一些人担心行动的势头正在减弱，因为这是当地领导人想要的效果。
+
+ The risks for early death continued to drop among the women walking more than 5,000 steps a day, but benefits plateaued at about 7,500 daily steps. 
+ 每天走路超过5000步的女性过早死亡的风险还要更低，到每天7500步水平时，步行带来的益处达到峰值。
+
+ Realistically, few of us reach that 10,000-step goal, anyway. And if we do reach the 10,000-step target, our feat tends to be ephemeral. 
+ 反正在现实中，我们之中很少有人能达到1万步的目标。就算我们真的达到了1万步的目标，这样的努力通常也只是昙花一现。
+
+ the extra 2,000 to 3,000 steps would take us to a total of between 7,000 and 8,000 steps most days, which, Dr. Lee said, seems to be the step-count **sweet spot**.
+ 额外的2000到3000步将使我们每天的总步数介于7000和8000步之间，李依敏说，这大概是最合适的步数。
