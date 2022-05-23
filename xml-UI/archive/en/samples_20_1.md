@@ -586,5 +586,3 @@ Wuhan held a special place in the heart of Mao Zedong, who famously took a swim 
 
 Experts said `the stunning scale of the shutdown`, isolating a major urban `transit hub` larger than New York City, was without precedent.“It’s `an unbelievable undertaking`,” said Dr. Howard Markel
 专家表示，此次封城相当于孤立了一个比纽约市还大的重要城市交通枢纽，规模之大令人震惊，这是史无前例的, “这是一项不可思议的工作”
-
-

@@ -1,26 +1,26 @@
 In Days of Discord, a President `Fans the Flames`
-·ÖÁÑ¶¯µ´Ö®¼Ê£¬×ÜÍ³ÈÔÔÚÉ¿·çµã»ğ
+åˆ†è£‚åŠ¨è¡ä¹‹é™…ï¼Œæ€»ç»Ÿä»åœ¨ç…½é£ç‚¹ç«
 
 While other presidents seek to cool the situation `in tinderbox moments` like this, Mr. Trump `plays with matches`. He `roars into any melee` he finds
-Óöµ½ÕâÑùÎ£»úÒ»´¥¼´·¢µÄÇé¿ö£¬ÆäËû×ÜÍ³¶¼»áÅ¬Á¦¸ø¾ÖÊÆ½µÎÂ£¬ÌØÀÊÆÕÈ´ÔÚÍæ»ğ¡£ËûÅØÏø×Å³å½ø¸÷ÖÖ»ìÕ½
+é‡åˆ°è¿™æ ·å±æœºä¸€è§¦å³å‘çš„æƒ…å†µï¼Œå…¶ä»–æ€»ç»Ÿéƒ½ä¼šåŠªåŠ›ç»™å±€åŠ¿é™æ¸©ï¼Œç‰¹æœ—æ™®å´åœ¨ç©ç«ã€‚ä»–å’†å“®ç€å†²è¿›å„ç§æ··æˆ˜
 
 The police `cordoned off several blocks` around the Executive Mansion as `a phalanx of camouflage-wearing` National Guard troops `marched across` nearby Lafayette Square
-Éí×ÅÃÔ²Ê·şµÄ¹úÃñ¾¯ÎÀ¶ÓÁĞ¶Ó´©¹ı¸½½üµÄÀ­ì³ÌØ¹ã³¡£¬Óë´ËÍ¬Ê±£¬¾¯·½·âËøÁË×ÜÍ³¹ÙÛ¡ÖÜÎ§µÄ¼¸¸ö½ÖÇø
+èº«ç€è¿·å½©æœçš„å›½æ°‘è­¦å«é˜Ÿåˆ—é˜Ÿç©¿è¿‡é™„è¿‘çš„æ‹‰æ–ç‰¹å¹¿åœºï¼Œä¸æ­¤åŒæ—¶ï¼Œè­¦æ–¹å°é”äº†æ€»ç»Ÿå®˜é‚¸å‘¨å›´çš„å‡ ä¸ªè¡—åŒº
 
-While he `hides behind` his fence afraid/alone, I stand w/ people peacefully `exercising their First Amendment Right`. There are no `vicious dogs & ominous weapons`. There is just a scared man. Afraid/alone ¡­
-Ëû¶ãÔÚÎ§À¸ºóÃæ£¬¾ª¿ÖÍò·Ö/¹Â¼Ò¹ÑÈË£¬¶øÎÒÔòÔÚÖ§³ÖÈËÃÇºÍÆ½µØĞĞÊ¹µÚÒ»ĞŞÕı°¸È¨Àû. Ã»ÓĞĞ×²ĞµÄ¹·ºÍÀ÷º¦µÄÎäÆ÷¡£Ö»ÓĞÒ»¸öÏÅ»µÁËµÄÈË¡£¾ª¿ÖÍò·Ö/¹Â¼Ò¹ÑÈË...
+While he `hides behind` his fence afraid/alone, I stand w/ people peacefully `exercising their First Amendment Right`. There are no `vicious dogs & ominous weapons`. There is just a scared man. Afraid/alone â€¦
+ä»–èº²åœ¨å›´æ åé¢ï¼ŒæƒŠæä¸‡åˆ†/å­¤å®¶å¯¡äººï¼Œè€Œæˆ‘åˆ™åœ¨æ”¯æŒäººä»¬å’Œå¹³åœ°è¡Œä½¿ç¬¬ä¸€ä¿®æ­£æ¡ˆæƒåˆ©. æ²¡æœ‰å‡¶æ®‹çš„ç‹—å’Œå‰å®³çš„æ­¦å™¨ã€‚åªæœ‰ä¸€ä¸ªå“åäº†çš„äººã€‚æƒŠæä¸‡åˆ†/å­¤å®¶å¯¡äºº...
 
 From the start of his ascension to power, Mr. Trump has `presented himself as someone` who `seeks conflict, not conciliation, a fighter, not a peacemaker.`
-´ÓÕÆÈ¨Ö®³õ£¬ÌØÀÊÆÕ¾Í°Ñ×Ô¼ºËÜÔì³ÉÒ»¸öÑ°Çó³åÍ»¶ø·ÇºÍ½âµÄÈË£¬ËûÊÇ¶·Ê¿£¬²»ÊÇºÍÊÂÀĞ
+ä»æŒæƒä¹‹åˆï¼Œç‰¹æœ—æ™®å°±æŠŠè‡ªå·±å¡‘é€ æˆä¸€ä¸ªå¯»æ±‚å†²çªè€Œéå’Œè§£çš„äººï¼Œä»–æ˜¯æ–—å£«ï¼Œä¸æ˜¯å’Œäº‹ä½¬
 
 The president seems `more out-of-touch and detached from the difficult reality` the country is living than ever before, At a moment when America `desperately needs healing`, the president is focused on petty personal battles with his `perceived adversaries`
-×ÜÍ³ËÆºõ±ÈÒÔÍùÈÎºÎÊ±ºò¶¼¸üÍÑÀë¡¢¸üÄ®ÊÓÕâ¸ö¹ú¼ÒÕıÔÚ¾­ÀúµÄ¼èÄÑÏÖÊµ, ÔÚÃÀ¹úÆÈÇĞĞèÒªÁÆÓúµÄÊ±¿Ì£¬×ÜÍ³È´Ò»ĞÄÒ»ÒâÍ¬ËûÑÛÖĞµÄ¶ÔÊÖ½øĞĞËöËéµÄ¸öÈË¶·Õù
+æ€»ç»Ÿä¼¼ä¹æ¯”ä»¥å¾€ä»»ä½•æ—¶å€™éƒ½æ›´è„±ç¦»ã€æ›´æ¼ è§†è¿™ä¸ªå›½å®¶æ­£åœ¨ç»å†çš„è‰°éš¾ç°å®, åœ¨ç¾å›½è¿«åˆ‡éœ€è¦ç–—æ„ˆçš„æ—¶åˆ»ï¼Œæ€»ç»Ÿå´ä¸€å¿ƒä¸€æ„åŒä»–çœ¼ä¸­çš„å¯¹æ‰‹è¿›è¡Œçç¢çš„ä¸ªäººæ–—äº‰
 
 It is fair to say that 2020 has `turned out to be` a year that `has frayed the fabric of American society` with `an accumulation of anguish` that `has whipsawed` the country and its people
-¹«Æ½µØËµ£¬ÊÂÊµÖ¤Ã÷£¬2020ÄêÊÇÃÀ¹úÉç»á½á¹¹ÊÜËğµÄÒ»Äê£¬ÀÛ»ıÆğÀ´µÄÍ´¿à¶ÔÃÀ¹úºÍÃÀ¹úÈËÃñÔì³ÉÁË¼«´óµÄÉËº¦
+å…¬å¹³åœ°è¯´ï¼Œäº‹å®è¯æ˜ï¼Œ2020å¹´æ˜¯ç¾å›½ç¤¾ä¼šç»“æ„å—æŸçš„ä¸€å¹´ï¼Œç´¯ç§¯èµ·æ¥çš„ç—›è‹¦å¯¹ç¾å›½å’Œç¾å›½äººæ°‘é€ æˆäº†æå¤§çš„ä¼¤å®³
 
 I am `daily thinking about` why and `how a society unravels` and what we can do to stop the process, `The calamity` these days is about more than Trump. He is just the `malicious con man` who lives to `exploit our vulnerabilities`
-ÎÒÃ¿Ìì¶¼ÔÚË¼¿¼£¬Ò»¸öÉç»áÎªÊ²Ã´»á·Ö½â£¬ÊÇÔõÃ´·Ö½âµÄ£¬ÎÒÃÇÄÜ×öĞ©Ê²Ã´À´×èÖ¹Õâ¸ö¹ı³Ì£¬ÕâĞ©ÌìµÄÔÖÄÑ²»½ö½öºÍÌØÀÊÆÕÓĞ¹Ø¡£ËûÖ»ÊÇÒ»¸ö¶ñ¶¾µÄÆ­×Ó£¬È«¿¿ÀûÓÃÎÒÃÇµÄÈõµãÎªÉú
+æˆ‘æ¯å¤©éƒ½åœ¨æ€è€ƒï¼Œä¸€ä¸ªç¤¾ä¼šä¸ºä»€ä¹ˆä¼šåˆ†è§£ï¼Œæ˜¯æ€ä¹ˆåˆ†è§£çš„ï¼Œæˆ‘ä»¬èƒ½åšäº›ä»€ä¹ˆæ¥é˜»æ­¢è¿™ä¸ªè¿‡ç¨‹ï¼Œè¿™äº›å¤©çš„ç¾éš¾ä¸ä»…ä»…å’Œç‰¹æœ—æ™®æœ‰å…³ã€‚ä»–åªæ˜¯ä¸€ä¸ªæ¶æ¯’çš„éª—å­ï¼Œå…¨é åˆ©ç”¨æˆ‘ä»¬çš„å¼±ç‚¹ä¸ºç”Ÿ
 
-Come on, what is this, sixth grade? You don¡¯t `put gasoline on the fire`. That¡¯s not `calming anybody`. All he does is diminish himself
-¡°Ê¡Ê¡°É£¬ÕâÊÇÊ²Ã´Ñ½£¬ÁùÄê¼¶Ğ¡Ñ§ÉúÂğ£¿Äã²»Òª»ğÉÏ½½ÓÍÁË¡£ÄãÕâ¸ù±¾²»ÊÇÔÚ°²¸§.ËûËù×öµÄÖ»ÊÇÏ÷ÈõËû×Ô¼º
+Come on, what is this, sixth grade? You donâ€™t `put gasoline on the fire`. Thatâ€™s not `calming anybody`. All he does is diminish himself
+â€œçœçœå§ï¼Œè¿™æ˜¯ä»€ä¹ˆå‘€ï¼Œå…­å¹´çº§å°å­¦ç”Ÿå—ï¼Ÿä½ ä¸è¦ç«ä¸Šæµ‡æ²¹äº†ã€‚ä½ è¿™æ ¹æœ¬ä¸æ˜¯åœ¨å®‰æŠš.ä»–æ‰€åšçš„åªæ˜¯å‰Šå¼±ä»–è‡ªå·±
