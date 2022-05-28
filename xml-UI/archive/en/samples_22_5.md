@@ -312,3 +312,60 @@ As the war in Ukraine drags on, the Tegernsee villas remain shuttered and untouc
 
  the extra 2,000 to 3,000 steps would take us to a total of between 7,000 and 8,000 steps most days, which, Dr. Lee said, seems to be the step-count **sweet spot**.
  额外的2000到3000步将使我们每天的总步数介于7000和8000步之间，李依敏说，这大概是最合适的步数。
+
+Countries that spoil for fights tend to get them. All the more so after the chaotic U.S. retreat from Afghanistan threatened to turn into a global rout. Stick to the diplomatic formulas of a now-dead status quo?
+热衷战争的国家往往求仁得仁。在美国从阿富汗的混乱撤军几乎演变成一场全球溃败之后，这一点愈发加剧。还要继续坚持现已无用的外交定式吗？
+
+On Tuesday in Tokyo, Mr. Biden sought to temper his comments. he said his administration had not abandoned the “strategic ambiguity” over Taiwan long embraced by the United States. 
+周二，拜登在东京试图缓和他的言论。表示他的政府并没有放弃美国长期以来对台的“战略模糊”。
+
+President Biden’s strong language during a visit to Tokyo this week tiptoed up to provocation. While Beijing could see the words as belligerent, they are consistent with the new emphasis in Washington on forceful deterrence.
+拜登总统本周访问东京期间使用的强硬措辞已暗含挑衅。尽管中国政府可能会视这些言论为挑衅，但这些说法与华盛顿对武力威慑的新强调是一致的。
+
+The statement described a multiservice effort that combined “combat readiness” patrols with “actual combat drills.” It is hypocritical and futile for the United States to say one thing and do another on the Taiwan issue and frequently encourage and support ‘Taiwan independence’ forces.
+该声明称已组织多军兵种联合“战备”警巡和“实战化演练”。美方在台湾问题上说一套做一套，频频给‘台独’势力壮胆打气，这是虚伪的、徒劳的。
+
+A two-month lockdown in Shanghai, China’s commercial capital, and sporadic lockdowns elsewhere have hampered assembly lines, trapped workers, snarled logistics and confined millions of consumers to their homes.
+中国商业之都上海长达两个月的封城以及其他地方的零星封城已经阻碍了装配线、困住了工人、制造了物流混乱，并将数百万消费者困在家中
+
+When you peel the onion, it starts to reek pretty quick
+当你剥开洋葱时，很快就会散发出刺鼻的味道
+
+When it came down to it, the country didn’t need “patronizing lectures” about human rights issues
+归根结底，国家不需要对别国颐指气使的“教师爷”
+
+The scale of death in Uvalde, Texas, is unfathomable. These staggering numbers will not change one single thing.
+得克萨斯州尤瓦尔迪的伤亡之惨重令人难以想象。数字惊人，却不会改变任何事。
+
+Time and again we are told, both implicitly and explicitly, that all we can do is endure this constancy of violence. Incivility runs through the history of this country, founded on stolen land, built with the labor of stolen lives. 
+我们一次又一次地被告知——无论是含蓄还是明确地——我们所能做的就是忍受这种持续不断的暴力。野蛮行为贯穿于这个国家的历史，建立在被盗的土地上，由被盗来的生命用劳动建造。
+
+When politicians talk about civility and public discourse, what they’re really saying is that they would prefer for people to remain silent in the face of injustice. They want marginalized people to accept that the conditions of oppression are unalterable facts of life. They want to luxuriate in the power they hold, where they never have to compromise, never have to confront their consciences or lack thereof, never have to face the consequences of their inaction.
+当政客们谈论文明和公共话语时，他们真正想说的是，他们希望人们在面对不公正时保持沉默。他们希望被边缘化的人接受，遭受压迫是不可改变的生活事实。他们想尽情享受他们所拥有的权力，他们永远不必妥协，永远不必面对自己的良心或本就没有良心，永远不必面对他们不作为的后果。
+
+They call for civility, but the definition of civility is malleable and ever-changing. Civility is whatever enables them to wield power without question or challenge.
+他们呼吁文明，但文明的定义是可塑的和不断变化的。文明成了任何能让他们不被质疑或不受挑战地行使权力的东西。
+
+Corporate and government elites have been notorious for a type of gapjil known as “imperial protocol,” which includes having a row of underlings hold umbrellas or commandeer elevators while ordinary people are forced to take the stairs. 
+企业和政府精英因为一种被称为“帝国礼仪”的礼节而臭名昭著，其中包括让下属排成一排撑伞，或者霸占电梯，让普通人只能走楼梯。
+
+But Amazon’s aggressive effort to court Chinese merchants over the past half decade led to a profound and trendsetting change in online retail and the global economy. 
+但亚马逊在过去五年里积极争取中国卖家的努力导致网上零售和全球经济发生了深刻的、引领趋势的变化。
+
+But Amazon’s critics also say that the company hasn’t done enough to protect shoppers from dangerous or subpar products and from manipulated customer reviews from Chinese sellers that may be out of the reach of U.S. consumer protection laws.
+但亚马逊的批评者也说，亚马逊在打击危险或劣质产品以及中国卖家操纵客户评论方面做得不够，美国消费者保护法对中国商家来说可能是鞭长莫及。
+
+It seems like they’ve gained an inch in the Solomons and are trying to run a mile.
+看起来，他们在所罗门群岛是刚得到一寸，就想要再进一尺。
+
+Digital life in each country is largely walled off from the other, but the two online spheres are not totally isolated. There is a cross-fertilization of digital ideas between the U.S. and China as well as threads of interdependence
+两国的数字生活基本相互隔绝，但其网络空间并不完全孤立于彼此。美中两国的数字观念相互交织渗透，并存在种种相互依存
+
+Don’t get me wrong: The divisions far outweigh the fuzzy links between the internet systems in China and the U.S. And it’s hard to imagine that changing. China and the U.S. are growing further apart, both politically and online.
+别误会我的意思：中美互联网系统之间的分歧远大于那些模糊不清的联系。这种现状很难被改变。无论是政治还是互联网，中美两国都离彼此越来越远
+
+Please be polite and stop slandering nucleic acid tests by splashing dirty water
+请他们留点口德吧，别再用泼脏水的方式诋毁核酸了
+
+The virus can spread via body fluids, skin contact and respiratory droplets. The symptoms are typically mild, and most people recover within weeks, but the virus has had a fatality rate of about 3.3 percent in Nigeria, with children, young adults and immunocompromised people most susceptible.
+这种病毒可以通过体液、皮肤接触和呼吸道飞沫传播。这种病毒的症状通常很轻微，大多数人会在几周内康复，但在尼日利亚，这种病毒的致死率约为3.3%，儿童、年轻人和免疫功能低下的人最容易感染。

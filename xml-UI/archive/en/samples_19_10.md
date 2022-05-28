@@ -20,230 +20,519 @@
 *
 
 Forty years after China began its **near-miraculous run** as the world’s most powerful economic growth engine, its people are experiencing something new and **unsettling: a feeling that the best times may be behind them**.
+>miraculous[məˈrækjələs] 奇迹般的；不可思议的；不平凡的     
+
 作为世界上最强大的经济增长引擎奇迹般地运行了四十年后，中国的人民正在经历一种令人不安的新感觉：最好的时代可能已经过去。
 
 Wage growth is **sluggish**. More young people are **chasing fewer job prospects**.They are going to the movies less and taking fewer trips abroad. They **would rather stick their money in the bank**.
+>sluggish 缓慢的；迟缓的；懒洋洋的    
+
 工资增长缓慢。更多的年轻人追逐更少的工作岗位。他们去影院的次数少了，出国旅行也少了。他们宁愿把钱存在银行。
 
 For China’s young people, who have never experienced **a prolonged slump** in their lives, the shift is **especially stark**
+>slump n.衰退；锐减；萧条期 v.猛跌；重重地坐下(或倒下)     
+>prolonged 拖延的; 延长的；持久的；长期的   
+>especially stark 尤为明显
+
 中国的年轻人在生活中从未经历过长时间的下滑，对于他们来说，这种转变尤为明显
 
-They are now starting to think maybe this** inexorable increase** in economic growth is not so inexorable
+They are now starting to think maybe this **inexorable increase** in economic growth is not so inexorable
+>inexorable[ɪnˈeksərəb(ə)l] 不可阻挡的；无法改变的   
+
 他们现在开始认为，这种不可阻挡的经济增长或许没有那么不可阻挡
 
-**Nothing is good**. It’s not just this one type of business, **Every kind of business is not doing so great.**
+**Nothing is good**. It’s not just this one type of business, **Every kind of business is not doing so great**.
+>Nothing is good 什么都不好    
+
 什么都不景气。不光是这一行，各行各业都不怎么样
 
 Still, signs of a **slowdown abound**. Sales of **instant noodles**, seen as an indicator because **newly affluent** Chinese **would rather eat out or order in**, are rising after declining for several years.
+>abound[əˈbaʊnd] v.大量存在；有许多     
+>affluent 富裕的    
+>order in 叫外卖    
+>eat out 下馆子；在外面吃饭
+
 但放缓的迹象无处不在。方便面的销量在经历几年的下降后出现增长，这被认为是一个指标，因为新富起来的中国人倾向于外出就餐或叫外卖。
 
 In past years, those shoppers were part of a **seemingly unstoppable growth engine**. China’s opening to the outside world in the late 1970s connected global companies with one billion people **eager to leave grinding poverty behind**.
+>seemingly adv.似乎；看似；表面上看；看起来   
+>grinding poverty 赤贫
+
 过去几年来，这类消费者是一台看似不可阻挡的增长引擎的一部分。20世纪70年代末中国的对外开放，将全球企业和10亿迫切想要摆脱极度贫困的民众联系在了一起。
 
 **On the occasion of** the 70th anniversary of the People’s Republic of China (P.R.C.) on Oct. 1, the party-state has much to celebrate: **an unprecedented record** of economic development, world-class education and technological innovation, an increasingly **prominent position on the world stage**
+>on the occasion of 在…的时候   
+>unprecedented record 史无前例的纪录
+
 在10月1日庆祝中华人民共和国成立70周年的时候，这个党国有许多值得庆祝的事情：史无前例的经济发展纪录，世界一流的教育和技术创新，在世界舞台上日益显著的地位
 
-Rather, they **result from the fact** that when the C.C.P. came to power 70 years ago, it took over not **a homogeneous China**, but **a sprawling empire with a variety of peoples**
+Rather, they **result from the fact** that when the C.C.P. **came to power** 70 years ago, it took over not **a homogeneous China**, but **a sprawling empire with a variety of peoples**
+>homogeneous[hə'mɒdʒənəs] 同质的；同源的    
+>sprawling[sprɔlɪŋ] 蔓延的；杂乱无序拓展的    
+>sprawling empire with a variety of peoples 幅员辽阔、多民族的帝国
+
 它们其实源于这样一个事实，即中共70年前上台时接管的不是一个单一民族的中国，而是一个幅员辽阔、多民族的帝国
 
-it is the Qing empire (1636–1912) that is responsible for **the rooster-shape territory** we now associate with China
-但现在与中国联系起来的公鸡形状的领土，是大清帝国（1636–1912）的功劳
+It is the Qing empire (1636–1912) that is responsible for **the rooster-shape territory** we now associate with China
+>rooster-shape 公鸡形状的
 
-Chinese first began settling Taiwan in the early 1600s, and in 1683 the Qing **put Chinese colonists and indigenous Taiwanese under two distinct kinds of administration. **
+但现在与中国联系起来的公鸡形状的领土，是大清帝国的功劳
+
+Chinese first **began settling Taiwan** in the early 1600s, and in 1683 the Qing put Chinese **colonists and indigenous** Taiwanese under two **distinct kinds of** administration.
+>two distinct kinds of 两种截然不同的     
+>distinct 不同的；独特的；截然不同的; 清晰的；清楚的；明白的；明显的     
+
 中国人于17世纪初开始到台湾定居，1683年清政府将中国殖民者和台湾原住民置于两种截然不同的行政管理之下。
 
-The Qing conquered Xinjiang, to the west, in 1759, **the culmination of a long-running struggle with** the Zunghar Mongols for dominance in Central Asia. **The imperial court** ran Xinjiang under loose military rule, allowing indigenous elites to manage local affairs. 
+The Qing conquered Xinjiang, to the west, in 1759, **the culmination of a long-running struggle with** the Zunghar Mongols for dominance in Central Asia. **The imperial court** ran Xinjiang under loose military rule, allowing **indigenous elites** to manage local affairs. 
+>imperial court 朝廷     
+>indigenous[ɪnˈdɪdʒənəs] 土著的；原产的；土生土长的    
+>indigenous elites 当地精英
+
 1759年，清政府征服了西部的新疆，这是清政府与准噶尔部长期争夺中亚统治地位的最终结果。大清朝廷对新疆实行了松散的军事统治，允许当地精英管理地方事务。
 
-Chinese settlers followed, colonizing parts of northern Xinjiang. Tibet, too, **fell under Qing control** during the Zunghar wars, **thanks to a combination of military intervention and religious diplomacy**. The Tibetan lamas and Qing emperors **agreed in principle to split spiritual and secular realms of authority** between them, **in a formula known as the “priest-patron relationship.”**
+Chinese **settlers followed**, colonizing parts of northern Xinjiang. Tibet, too, **fell under Qing control** during the Zunghar wars, **thanks to a combination of military intervention and religious diplomacy**. The Tibetan lamas and Qing emperors **agreed in principle to split spiritual and secular realms of authority** between them, **in a formula known as the “priest-patron relationship.”**
+>fall under 归入(…部,类等)；属于；受(影响,检查等)；被列为    
+>secular[ˈsekjələr] 现世的；世俗的；非宗教的；教区的 n.俗僧；教区牧师；俗人    
+>secular realms of authority 世俗领域的权威    
+>patron[ˈpeɪtrən] n.顾客；资助者   
+>priest[prist] 祭司；神父    
+>priest-patron relationship 供施关系
+
 中国移民随之而来，在新疆北部开拓了殖民地。西藏也在准噶尔之役期间，被清王朝用军事干预和宗教外交相结合的手段控制。西藏的喇嘛和清朝的皇帝原则上同意将宗教和世俗领域的权威分开，按照一个名为“供施关系”的模式由他们分别管辖
 
-**The city was ceded** by the Qing to Britain in the 1842 Treaty of Nanking that ended **the first Opium War** — the same treaty that **opened treaty ports elsewhere on the Chinese coast to western commerce**. This infamous agreement, widely known as **an “unequal treaty,” is unquestionably a case of British imperialist aggression**
+**The city was ceded** by the Qing to Britain in the 1842 Treaty of Nanking that ended **the first Opium War** — the same treaty that **opened treaty ports elsewhere on the Chinese coast to western commerce**. This **infamous agreement**, widely known as **an “unequal treaty,” is unquestionably a case of British imperialist aggression**
+>cede v.割让；让给；转让     
+>Opium War 鸦片战争    
+>open treaty ports 开放通商口岸    
+>infamous agreement 臭名昭著的条约    
+>unequal treaty 不平等条约    
+>unquestionably[ʌnˈkwɛstʃənəblɪ] adv.无疑；当然    
+
 清政府在1842年签署了结束第一次鸦片战争的《南京条约》，条约把香港割让给了英国，并在中国沿海的其他地方设立了对西方贸易开放的通商口岸。这个臭名昭著的条约被普遍称为“不平等条约”，它无疑是大英帝国侵犯的一个例子
 
 **Trade enclaves may have been a foreign imposition**, but they were also a tool of the Qing state.
+>enclave 飞地    
+>imposition n.实施；征收；不公平(或不合理)的要求
+
 虽然贸易租界可能是外国不公平的要求，但它们也是清政府的工具
 
 The early P.R.C., then, recognized and **drew upon** the Qing tradition **with flexible approaches to diversity and sovereignty**
+>draw upon 利用；借鉴    
+
 在建国之初，曾承认并借鉴了清朝用灵活方式对待多元化和主权的传统
 
-he accepted **a lukewarm deal** because he wanted the Chinese to help him **get dirt on his political enemies.**
-他因为想要中国人帮他抹黑政敌，接受了一个不痛不痒的协议。
+He accepted **a lukewarm deal** because he wanted the Chinese to help him **get dirt on his political enemies**. Other Republicans **were more temperate**
+>lukewarm[ˈlukˌwɔrm] 微温的；不冷不热的；温和的；无兴趣的; 不热心的；冷淡的    
+>get dirt on 弄脏；抹黑     
+>temperate[ˈtemp(ə)rət] 气候温和的；温带的；心平气和的；自我克制的
 
-Other Republicans **were more temperate**
-其他共和党人则更相对克制
+他因为想要中国人帮他抹黑政敌，接受了一个不痛不痒的协议。其他共和党人则更相对克制
 
 Chinese officials have also been **laying the groundwork for** a potential agreement **by subtly shifting their stance** in recent weeks
+>lay the groundwork 打基础；奠定基础；做铺垫    
+>subtly['sʌtli] adv.巧妙地；微妙地；难解地；狡猾地    
+>shift stance 转变立场
+
 最近几周，中国官员还通过微妙地转变立场，为可能达成的协议奠定基础。
 
 **An earnest propaganda anthem** from 1985, the song typically wouldn’t **stand a chance against** Taylor Swift, K-pop and other modern tunes the 18-year-old college student and her friends like to listen to.
-这首郑重其事的宣传歌曲创作于1985年，一般来说，本不会让这名18岁的大学生和她的朋友们感兴趣，她们喜欢听泰勒·斯威夫特(Taylor Swift)、韩国流行音乐(K-pop)和其他现代歌曲。
+>anthem[ˈænθəm] 赞美诗；圣歌；国歌    
+>earnest[ˈɜrnɪst] n.认真；热心；保证金；预兆 adj.非常认真的；诚实的；真诚的    
+>stand a chance 有成功可能; 有希望；有机会    
 
-Then they **shed more tears** while watching Tuesday’s parade in Beijing celebrating the 70th anniversary of the founding of the People’s Republic of China, a procession **replete with images of progress and sacrifice.**
+这首郑重其事的宣传歌曲创作于1985年，一般来说，本不会让这名18岁的大学生和她的朋友们感兴趣，她们喜欢听泰勒·斯威夫特、韩国流行音乐和其他现代歌曲。
+
+Then they **shed more tears** while watching Tuesday’s parade in Beijing celebrating the 70th anniversary of the founding of the People’s Republic of China, a procession **replete with images of progress and sacrifice**.
+>shed v.流出；摆脱；去除；蜕；n.工棚；简易房    
+>shed more tears 流了更多的眼泪    
+>replete[rɪˈplit] 充满的；饱满的；塞满的   
+
 接下来，她们上周二观看在北京举行的庆祝中华人民共和国成立70周年的阅兵式时，流了更多的眼泪，游行中充满了进步和牺牲的画面。
 
 After I watched the movie and the military parade, I sang it **from the bottom of my heart**
+>from the bottom of my heart 发自肺腑
+
 看了电影和阅兵之后，唱起来是发自肺腑的
 
-Angry demonstrators showing their dislike of the Chinese government have left many people in China **feeling both defensive and proud of their country’s accomplishments.**
+Angry demonstrators showing their **dislike** of the Chinese government have left many people in China **feeling both defensive and proud of their country’s accomplishments**.
+>dislike n.厌恶；反感；不喜爱；不喜欢的事物 v.厌恶；不喜爱     
+
 愤怒的示威者表达了对中国政府的厌恶，这让许多中国人既有抵触情绪，又为自己国家的成就感到骄傲。
 
-In 40 years, they have **lifted their country out of poverty** while avoiding the wars and unrest that have **plagued much of the developing world**. Modern China has its problems, but most Chinese believe it is still **vibrant and full of opportunity** 40年来，他们使国家摆脱了贫困，避免了困扰许多发展中国家的战争和动荡。虽然现代中国有自己的问题，但大多数中国人认为国家仍然充满活力和机会
+In 40 years, they have **lifted their country out of poverty** while avoiding the wars and **unrest** that have **plagued much of the developing world**. Modern China has its problems, but most Chinese believe it is still **vibrant and full of opportunity**
+>lift out of poverty 摆脱贫困    
+>vibrant[ˈvaɪbrənt] 充满生机的；生气勃勃的；精力充沛的；鲜艳的
+
+40年来，他们使国家摆脱了贫困，避免了困扰许多发展中国家的战争和动荡。虽然现代中国有自己的问题，但大多数中国人认为国家仍然充满活力和机会
 
 The Chinese internet has proved to be **a fruitful place** for the party to spread its message
+>fruitful[ˈfrutfəl] 成果丰硕的；富有成效的；富饶的；丰产的
+
 事实证明，中国的互联网是中共传播信息的一个富有成效的地方
 
-The characters were **flawed human beings** instead of the **epic heroes** one usually sees in patriotic films, he wrote in a social media post.
+The characters were **flawed human beings** instead of the **epic heroes** one usually sees in **patriotic films**, he wrote in a social media post.
+>flawed human beings 有人性瑕疵的普通人     
+>epic heroes 大英雄
+
 他在社交媒体上发帖写道，影片中的角色是有人性瑕疵的普通人，而不是人们通常在爱国电影中看到的大英雄。
 
 China certainly didn’t invent **tug-at-the-heart patriotism**, as anybody who has seen “Saving Private Ryan” can **attest**
+>tug-at-the-heart 牵动人心的    
+>attest[əˈtest] v.证实；作证
+
 中国当然不是牵动人心的爱国主义的发明者，任何看过《拯救大兵瑞恩》的人都可以证明这一点。
 
 When supplies of China’s favorite meat **run low**, Beijing **calls upon its strategic pork reserve**, a name that brings to mind **vast piles of sausages, bacon and spareribs housed in secret underground vaults** across the country.
+>run low 减少；消耗尽；缺乏     
+>call on/upon 号召；请求；拜访；呼吁    
+>sausage[ˈsɑsɪdʒ] n.香肠；腊肠    
+>sparerib 排骨    
+>underground vault 地窖   
+
 当猪肉供应不足时，北京会动用这种中国人最喜爱的肉类的战略储备，听起来仿佛是全国各地的秘密地窖里有堆积成山的香肠、培根和排骨。
 
 Pork prices in China today are **skyrocketing**, the result of **an epidemic that is ravaging the country’s hogs**, and the government has been **drawing upon its reserves** to lift supplies for shoppers.
+>ravage n.灾害；破坏；暴力 v.毁坏；损坏     
+>draw upon v.利用
+
 由于一场在生猪中肆虐的流行病，中国的猪肉价格飞涨，政府一直在动用储备增加对消费者的供应
 
 As the country introduced market reforms, reserves became a tool for **controlling price swings**, not just for pork, but for beef, chicken and lamb, too.
+>price swing 物价波动
+
 随着中国引入市场改革，储备成为控制价格波动的手段，并且不仅有猪肉，也有牛肉、鸡肉和羊肉
 
 The investment bank predicts that the nation will **produce 30 percent less pork this year compared with last year**, a drop of 16 million tons. Against those numbers, even 200,000 tons of emergency meat can **seem like a drop in the ocean.**
+>produce 30 percent less 产量降低30%    
+>a drop in the ocean 沧海一粟；九牛一毛；冰山一角  
+
 投资银行预测，中国今年的猪肉产量将比去年降低30%，减少1600万吨。在这些数字面前，即便20万吨的肉类紧急储备似乎也是杯水车薪
 
-These companies mostly keep their pork in **unmarked suburban warehouses**, where the meat stays at **the state-mandated temperature of minus-18 degrees Celsius, or just under zero degrees Fahrenheit. **
+These companies mostly keep their pork in **unmarked suburban warehouses**, where the meat stays at **the state-mandated temperature** of **minus-18 degrees Celsius**, or just under zero degrees **Fahrenheit**.
+>Celsius[ˈselsiəs] 摄氏度；摄氏的    
+>Fahrenheit[ˈferənˌhaɪt] 华氏温度；华氏温标的
+
 这些公司大多将猪肉存放在无标记的郊区仓库中，在那里，猪肉保持着国家规定的温度，即零下18摄氏度或华氏零度以下
 
-In 2007, when reporters in Shandong **visited a farm that bred pigs** for the provincial reserve, they found tens of thousands of hogs running around in what **sounded like pretty idyllic conditions**: “The area is lush with vegetation and shaded by trees. The hog house is **tall and spacious**. There is heating in the winter and **ventilator fans** in the summer.”
-2007年，山东的记者走访了一个为省级储备肉基地饲养猪的养殖场，他们发现成千上万的猪在听起来像是优美的田园环境中四处活动：“猪舍周围植被茂密，绿树成阴，猪舍高大宽敞，冬天有供暖，夏天有换气扇。”
+In 2007, when reporters in Shandong **visited a farm that bred pigs** for the provincial reserve, they found tens of thousands of hogs running around in what **sounded like pretty idyllic conditions**: “The area is **lush with vegetation and shaded by trees**. The hog house is **tall and spacious**. There is heating in the winter and **ventilator fans** in the summer.”
+>breed pigs 养猪   
+>idyllic[aɪˈdɪlɪk] 田园诗的；诗情画意；牧歌的   
+>lush[lʌʃ] 多汁的；味美的；青葱的；草木茂盛的 n.酒；醉汉 v.(使)喝醉  
+>vegetation n.草木；植物    
+>ventilator fan 换气扇
 
-It was cheaper than the “non-reserve pork” he found at the same **meat counter**, he said, so he **gave it a shot.**
+2007年，山东的记者走访了一个为省级储备肉基地饲养猪的养殖场，他们发现成千上万的猪在听起来像是优美的田园环境中四处活动：“猪舍周围植被茂密，绿树成阴，猪舍高大宽敞，冬天有供暖，夏天有换气扇”
+
+It was cheaper than the “non-reserve pork” he found at the same **meat counter**, he said, so he **gave it a shot**.
+>meat counter 肉柜台    
+>give a shot 试一试；打针注射
+
 这块肉比他在同一个肉柜台里找到的“非储备猪肉”便宜，所以他试了一下
 
 Researchers in China have found **a significant link** between air pollution and **the risk of miscarriage**
+>significant link 显著的相关性   
+>miscarriage[mɪsˈkerɪdʒ] n.流产
+
 中国研究人员发现，空气污染和流产风险之间存在显著的相关性
 
 The researchers looked at **four types of air pollutants: a deadly fine particulate matter** known as PM2.5, **sulfur dioxide, ozone and carbon monoxide**
+>pollutant[pəˈlut(ə)nt] 污染物；污染物质     
+>particulate[pɑ:'tɪkjələt] n.颗粒 adj.微粒形式的；颗粒状的    
+>fine particulate matter 细颗粒物    
+>sulfur[ˈsʌlfər] n.〈美〉同“sulphur”; 硫磺   
+>monoxide[məˈnɑkˌsaɪd] na.“monoxid”的变体; 一氧化物；一氧化碳的
+
 研究人员查看了四类污染物：被称为PM2.5的致命细颗粒物、二氧化硫、臭氧和一氧化碳
 
-There has been a lot of evidence **suggesting a link between air pollution and pregnancy outcomes in general**, particularly the risk of a premature birth and a low weight baby, This is one of the first studies to **link particle pollution to** this particular outcome of pregnancy so **in that sense it’s very important**.
+There has been a lot of evidence **suggesting a link between air pollution and pregnancy outcomes in general**, particularly the risk of a **premature birth** and a low weight baby, This is one of the first studies to **link particle pollution to** this particular outcome of pregnancy so **in that sense it’s very important**.
+>premature birth 早产    
+>particle pollution 颗粒污染     
+>in that sense 从这个意义上讲
+
 有大量证据表明，空气污染与怀孕结果总体上存在关联，尤其是早产和婴儿出生体重低的风险，这是首批将颗粒污染与怀孕结果联系起来的研究之一，从这个意义上讲，它很重要。
 
 **Footage of the parade** showed Chinese **military aircraft streaking multicolored smoke trails across grimy skies**
+>footage 镜头    
+>streak[strik] n.条纹；条痕; v.在…上画条纹；使布满条痕；飞奔；疾驰    
+>streak multicolored smoke trails 拖着五颜六色的烟雾   
+>a streak of 一道，一条，一阵    
+>grimy[ˈɡraɪmi] 沾满污垢的；满是灰尘的     
+>grimy skies 污浊的天空
+
 阅兵画面显示，中国军机在污浊的天空中拖着五颜六色的烟雾
 
 When the Chinese came to the village of Lat Thahae, **perched on a muddy bend of** a Mekong River tributary, they **scrawled a Chinese character on** the walls of homes, schools and Buddhist temples.
+>muddy bend 泥泞转弯处   
+>perch n.高位；(位于高位的)休息处 v.坐；(鸟)栖息；停歇    
+>scrawl[skrɔl] n.不工整的文字；潦草的笔迹；v.马马虎虎(或潦草)地写
+
 中国人来到坐落于湄公河支流一个泥泞转弯处的拉特海村后，在房屋、学校和寺庙的墙上写下一个汉字
 
 This year, a dam will begin transforming **this stretch of jagged hills and pristine jungle** in one of the world’s most remote countries, part of a broader effort to **propel some of Asia’s least-developed economies**
+>a stretch of 一段；一大片   
+>jagged[ˈdʒæɡəd] 凹凸不平的；有尖突的；锯齿状的; 参差不齐的    
+>jagged hills 崎岖山峦    
+>pristine[ˈprɪˌstin] 崭新的；清新的；未开发的；处于原始状态的    
+>pristine jungle 原始丛林    
+>propel[prəˈpel] v.推进；推动；驱动；驱使
+
 今年，一座大坝已在这里建成，它将开始改变这个世界上最偏远国家之一的一片崎岖山峦和原始丛林，这是推动亚洲一些最不发达经济体的更广泛努力的一部分
 
-Are these dams **for the good of the Mekong downstream countries**, or are they for the good of a country that’s trying to **gain economic influence and offload excess capacity?**
+Are these dams **for the good of the Mekong downstream countries**, or are they for the good of a country that’s trying to **gain economic influence and offload excess capacity**?
+>gain economic influence 获得经济影响力    
+>for the good of 为了…的利益   
+>offload v.卸货；卸载；发泄(忧伤,苦闷等)    
+>offload excess capacity 转嫁过剩产能
+
 这些大坝是为了湄公河下游国家的利益呢，还是这样试图获得经济影响力、转嫁过剩产能的国家的利益呢？
 
 **Poor and landlocked**, Laos is betting that **hydropower will become its largest moneymaker** by 2025
+>landlocked 陆围的；内陆的    
+>hydropower 水力发电   
+>moneymaker 赚钱机器
+
 贫穷且地处内陆的老挝下的赌注是，到2025年，水力发电将成为该国最大的赚钱机器
 
 Critics worry that Laos’s plan for **vaulting out of the least-developed country bracket** through dams will **instead widen income disparity**
+>widen income disparity 扩大收入差距     
+>vault out of 跳出     
+>the least-developed country bracket 最不发达国家行列
+
 批评人士担心，老挝用修建大坝来跳出最不发达国家行列的计划反而会扩大收入差距
 
-In the United States, where hydropower was once **celebrated as man’s triumph over nature**, dams are being **dismantled to let rivers flow unimpeded again**
+In the United States, where **hydropower** was once **celebrated as man’s triumph over nature**, dams are being **dismantled to let rivers flow unimpeded again**   
+>triumph[ˈtraɪəmf] v.战胜；成功；打败 n.巨大成功；重大成就；伟大胜利；喜悦     
+>dismantle v.拆开；取消   
+>unimpeded[ˌʌnɪmˈpidəd] 无障碍的；无阻挡的
+
 在美国，水力发电曾一度被颂扬为人类征服自然的成就，现在，为了让河流再次畅通无阻，大坝正在被拆除
 
-**“Progress means eating bitterness”** he said, using a Chinese idiom
+“**Progress means eating bitterness**” he said, using a Chinese idiom
+>idiom[ˈɪdiəm] 成语；习语；惯用语    
+>Progress means eating bitterness 吃的苦中苦方为人上人
+
 不吃苦中苦，难得甜中甜, 他用一个中国说法
 
 The Mekong’s **headwaters spring forth high in the Tibetan plateau**, but in China the river **holds little utility for humans**. The Lancang, as the Mekong is known there — a name that means “turbulent” — **is too fast and steep to do much more than power turbines**
+>headwater 水源；上游    
+>the Tibetan plateau[plæˈtoʊ] 青藏高原    
+>spring forth 涌出；突出；喷出    
+
 湄公河的发源地在青藏高原，但这条河在中国境内对人类没有多大用途。湄公河在中国境内叫澜沧江，这个名字有水流过急的意思，这里的江水太快、两岸太陡，除了驱动涡轮发电机外，没有太多别的用途
 
 But for the **downriver nations**, the Mekong is **a lifeblood**. Like **the Nile, the Tigris and the Yangtze, the Mekong watered empires**. Two capitals, Vientiane of Laos and Phnom Penh of Cambodia, **stand on its banks**
+>downriver 下游的 adv.向下游    
+>lifeblood 生命线    
+>water v.灌溉；给…浇水
+
 但对于下游国家来说，湄公河是它们的生命线。与尼罗河、底格里斯河和长江一样，湄公河灌溉着整个国家。老挝首都万象和柬埔寨首都金边都坐落在湄公河岸上
 
-**The world’s most productive rice growers**, in Thailand and Vietnam, depend on the Mekong’s **generosity in depositing rich alluvial soil** during the rainy season. The river network is **the world’s largest inland fishery.** More than any other country, Cambodia **is nourished by the Mekong**. The country’s 16 million people get about 80 percent of their **protein intake** from its system
+**The world’s most productive rice growers**, in Thailand and Vietnam, depend on the Mekong’s **generosity in depositing rich alluvial soil** during the **rainy season**. The river network is **the world’s largest inland fishery.** More than any other country, Cambodia **is nourished by the Mekong**. The country’s 16 million people get about 80 percent of their **protein intake** from its system
+>The world’s most productive rice growers 世界上最高产的水稻种植者     
+>generosity[ˌdʒenəˈrɑsəti] n.慷慨；宽宏大量；大方    
+>alluvial[əˈluviəl] adj.(河流、洪水)冲积的 n.淤积土   
+>deposit v.沉淀；寄存；储蓄；放置 n.存款；寄存；押金；淤积物  
+>inland n.内地 adj.内陆的；内地的 adv.向内陆；在内地     
+>inland fishery 内陆渔场    
+>nourish[ˈnɜrɪʃ] v.滋养；培养；养育；抚养   
+>intake n.吸收；吸入；吸入量    
+>protein intake 蛋白质摄入   
+
 世界上产量最高的水稻种植国泰国和越南都靠湄公河雨季冲积下来的丰富土壤。湄公河流域是世界上最大的内陆渔场。柬埔寨比其他国家更需要湄公河的滋养。该国1600万人口约80%的蛋白质摄入来自湄公河流域
 
-Prime Minister Hun Sen, Asia’s longest serving leader, has **turned his back on Western patrons** whose aid has failed to **catalyze democratic overhauls**
+Prime Minister Hun Sen, Asia’s **longest serving leader**, has **turned his back on Western patrons** whose aid has failed to **catalyze democratic overhauls**
+>turn one's/the back on 不理睬；丢弃     
+>patron[ˈpeɪtrən] 顾客；资助者    
+>catalyze['kætəˌlaɪz] v.促进；催化作用；促使     
+>democratic overhauls 民主改革    
+
 柬埔寨首相洪森已对西方资助者不感兴趣。西方的援助未能促成柬埔寨的民主改革
 
-During the war, its **natural deepwater harbor** across from Guadalcanal **made it a military gem fought and died for.**
+During the war, its **natural deepwater harbor** across from Guadalcanal **made it a military gem fought and died for**.
+>deepwater harbor 深水港    
+>military gem fought and died for 兵家必争之地
+
 “二战”期间，该岛与瓜达尔卡纳尔岛隔海相望的天然深水港使其成为兵家必争之地。
 
-the projects could give Beijing an opening to **establish a military foothold** for everything from ships and planes to its own version of the Global Positioning System. China is also pushing to end the region’s status as **a diplomatic stronghold** for Taiwan
+The projects could give Beijing an opening to **establish a military foothold** for everything from ships and planes to its own version of the **Global Positioning System**. China is also pushing to end the region’s status as **a diplomatic stronghold** for Taiwan
+>foothold 立足点；据点      
+>stronghold n.根据地; 要塞；据点；堡垒；有广泛支持的地方
+
 这些项目可能会给北京提供一个机会，为从舰队、飞机，到中国自己的全球定位系统等所有东西提供军事立足点. 中国也在努力结束该地区作为台湾外交据点的地位
 
-I want to make clear that the agreement does not **bear the official stamp** of the province so it is not official and formalized yet
+I want to make clear that the agreement does not **bear the official stamp** of the province so it is not **official and formalized** yet    
+>bear the official stamp 有官方印章
+
 我想明确说明，这份协议还没有盖官印，因此还不是正式的最后版本
 
 A **military installation** would **carry strategic and symbolic significance**
+>military installation 军事设施    
+>significance[sɪɡˈnɪfɪkəns] n.意义；含义；重要性；显著性
+
 军事设施带有战略意义和象征意义
 
-businesses and officials have **cultivated local politicians** for years with bribes and gifts like luxury trips to Singapore
+Businesses and officials have **cultivated local politicians** for years with **bribes and gifts** like luxury trips to Singapore
+>cultivate v.培育；栽培；耕作；种植
+
 企业和官员多年来一直在用贿赂和礼物与当地政客拉关系，比如为他们安排去新加坡的豪华旅行
 
-Protests also **greeted Mr. Sogavare’s election win in April, with demonstrators marching** toward the capital’s Chinatown to **register discontent.**
+**Protests also greeted Mr. Sogavare’s election win** in April, with demonstrators **marching toward** the capital’s Chinatown to **register discontent**.
+>greet v.迎接；欢迎；(以某种方式)对…作出反应    
+>protests greet election win 选举获胜引发抗议活动     
+>register v.注册；登记；记录；提出主张 n.登记簿；登记表；注册簿     
+>register discontent 表示出不满
+
 今年4月，索加瓦雷在选举中获胜后，也发生过抗议活动，示威者朝着首都的唐人街游行，以表示不满。
 
 But the “**agreement in principle**” is limited in scope, and exact details have yet to be put in writing — a process that has **derailed negotiations** with China in the past.
+>agreement in principle 原则上的协议   
+>derail negotiations 使谈判脱轨
+
 但这项“原则上的协议”范围有限，确切的细节尚未以书面形式确定——这一过程曾导致与中国的谈判偏离轨道
 
 From Mr. Trump’s perspective, **the centerpiece of the pact** is a commitment by China to buy $40 billion to $50 billion of American agricultural products per year
+>centerpiece 放在(桌子等)中央的装饰；核心；主要特点   
+
 在特朗普看来，该协议的核心是中国承诺每年购买价值400亿至500亿美元的美国农产品
 
 But that still **leaves a huge part of tariffs intact**
+>intact 完整的；完整无缺的；未经触动的
+
 但仍有很大一部分关税未受影响
 
-Chinese laws **block multinational companies from moving much of the data they gather on Chinese customers out of the country**, meaning that many technology and retail companies must **silo off their China business from the rest of their global operations**. Chinese officials **insist this is a matter of national security and have signaled they are unlikely to yield on this point.**
+Chinese laws **block multinational companies from moving** much of the **data they gather** on Chinese customers out of the country, meaning that many technology and retail companies must **silo off** their China business from the rest of their global operations. Chinese officials **insist this is a matter of national security** and have signaled they are **unlikely to yield on this point**.
+>block from doing 禁止做     
+>multinational company 跨国企业    
+>gather data 收集数据    
+>gather v.聚集；搜集；积聚 n.聚集；收缩；衣褶     
+>silo[ˈsaɪloʊ] n.筒仓；(核武器的)发射井；(危险物品的)地下贮藏库；v.用青贮塔贮藏(牧草等)    
+>yield n.产量；产出；利润 v.屈服；让步；放弃；提供
+
 中国的法律禁止跨国企业将其收集的中国客户数据转移出中国，这意味着很多科技和零售企业必须将中国的业务同全球运营的其余部分分隔开来。中国官员坚称这事关国家安全，并表示在这一点上不大可能让步
 
 Seven thousand miles was a long way to **go for a tiny scrap of paper**. The note was **pinned to my daughter’s sweater** when she was found at seven weeks old on a bridge in Yixing, China
+>a tiny scrap 一张小小的纸片    
+>sweater[ˈswetər] 卫衣；运动衫；毛衣
+
 对于一张小小的纸片来说，7000英里是很远的一段路程。我女儿七周大的时候在中国宜兴的一座桥上被人发现时，这张纸条就别在她的毛衣上
 
-I could not bring myself to **utter the well-meaning evasion** that she was “born in my heart,” as had many adoptive mothers I knew. But it didn’t matter what I said; **her world had been upended and she kept trying to right it**
+I could not bring myself to **utter the well-meaning evasion** that she was “born in my heart,” as had many **adoptive mothers** I knew. But it didn’t matter what I said; **her world had been upended and she kept trying to right it**
+>utter[ˈʌtər] v.说；出声； adj.完全的；十足的；彻底的    
+>adoptive mother 养母    
+>Well-meaning 好心的；善意的    
+>evasion n.规避；逃避；回避；躲避    
+>upend v.翻倒；倒放；使颠倒    
+>right v.纠正；改正
+
 我做不到像我认识的许多养母那样，善意地回避问题，说她“出生在我心里”。但我说什么并不重要；她的世界被颠覆了，她一直在努力纠正它
 
 At times she would **plead**, “Mommy, do you know her? Can we call her?”
+>plead v.恳求；辩护；乞求；(向法庭)陈述案情
+
 有时她会恳求道，“妈妈，你认识她吗？我们能给她打电话吗？”
 
-I believed that, **as she matured**, it wouldn’t be enough for her to know that she was part of a generation of 35 million lost daughters who, under the “one child” policy, were apparently aborted, abandoned or worse. Or that she was born into a culture where **bloodlines pass through sons** and **folk wisdom holds that you’re better off raising geese than girls.**
+I believed that, **as she matured**, it wouldn’t be enough for her to know that she was part of a generation of 35 million lost daughters who, under the “one child” policy, **were apparently aborted, abandoned or worse**. Or that she was born into a culture where **bloodlines pass through sons** and **folk wisdom holds that you’re better off raising geese than girls**.
+>bloodline 血统；世系    
+>folk wisdom 民间智慧；传统智慧     
+>be better off 情况[处境]更好；更加富有
+
 我相信，随着她的长大，要让她知道自己和其他3500万女孩一样，因为独生子女政策而被人为流产、遗弃或被更糟糕对待是远远不够的。不仅如此，她所出生的文化信奉通过儿子来传宗接代，那里的老百姓都觉得养女还不如养鹅
 
-She no longer **enacted abandonment scenes** with her toys; she **spent her downtime practicing the horse dance** from “Gangnam Style.” Her past no longer **seemed to haunt her, but it did me.**
+She no longer **enacted abandonment scenes** with her toys; she **spent her downtime practicing the horse dance** from “Gangnam Style.” Her past no longer **seemed to haunt her, but it did me**.
+>enact[ɪnˈækt] v.扮演；通过(法律)；担任…角色；演出    
+>abandonment scenes 遗弃的故事    
+>downtime n.停工；休息    
+>haunt[hɔnt] v.(鬼魂)出没；萦绕于脑际；长期不断地缠扰(某人); n.常去的场所；消磨时光的去处
+
 她不再用玩具演遗弃的故事，还利用休息时间练习《江南Style》里的骑马舞。那些过往的身世似乎不再困扰她了，但依旧困扰着我
 
 I **was glued to the frozen landscape** out the window; Sophie was glued to her iPod.
+>be glued to 盯着；全神贯注于；和…粘在一起
+
 我一路贪看窗外的寒冬，索菲则一路玩她的iPod
 
 I had imagined one of those **elegant crescent bridges in ancient Chinese paintings**, but Yuedi Bridge was **a concrete slab over a polluted canal.**
+>crescent[ˈkrez(ə)nt] bridge 月牙桥    
+>elegant[ˈelɪɡənt] 优雅的；高雅的；文雅的   
+>canal[kəˈnæl] n.运河；导管；灌溉渠; v.在…开运河；疏导   
+>polluted canal 污浊运河    
+>slab v.使成厚板；铺石板；在…涂上一厚层 n.（石、木等坚硬物质的)厚板    
+>concrete slab 混凝土板
+
 我曾猜想是中国古画里常见的那种优美的月牙桥，结果却是架在污浊运河上的混凝土板
 
-She **instructed my daughter to study hard**, help others, always love her mother and take care of me when I am old.Sophie **managed a polite smile, though I sensed her eye roll.**
+She **instructed my daughter to study hard**, help others, always love her mother and take care of me when I am old. Sophie **managed a polite smile, though I sensed her eye roll**.
+>instruct[ɪnˈstrʌkt] v.指示；通知；命令；教授; 指导    
+>sense n.意识；意义；理智；判断力 v.意识到；感觉到；觉察出；检测出    
+>eye roll 翻白眼
+
 她教导我女儿要努力学习、乐于助人、孝敬母亲，在我老了的时候要好好照顾我。索菲勉强挤出一个礼貌的笑，但我感觉她是在翻白眼。
 
-I began to **leaf through and saw the adoption papers** I had signed 10 years before. Then I noticed **something stuck between two pages: a torn, weathered bit of notebook paper with ballpoint scribbles.**
+I began to **leaf through and saw the adoption papers** I had signed 10 years before. Then I noticed **something stuck between two pages: a torn, weathered bit of notebook paper with ballpoint scribbles**.
+>leaf through 迅速翻阅；匆匆翻阅；快速翻阅    
+>adoption papers 收养文件    
+>weathered 风化的；饱经风霜的   
+>ballpoint 圆珠笔    
+>scribble[ˈskrɪb(ə)l] v.草草记下；乱画 n.潦草的文字；胡写乱画的东西
+
 我匆匆翻阅，看到我在10年前签署的收养文件。然后我注意到有什么东西夹在两张纸之间，那是一张从笔记本上撕下来的纸，经过岁月的侵蚀已经残破，上面有圆珠笔草草写下的字。
 
-I **lifted the weightless scrap**. The lines had **faded**. There were a few Mandarin characters and numbers.
+I **lifted the weightless scrap**. The lines had **faded**. There were a few **Mandarin characters** and numbers.
+>weightless[ˈweɪtləs] 无重量的；似无重量的；失重的     
+>fade[feɪd] v.逐渐消失；衰落；(使)变淡；逐渐消逝 adj.乏味的；憔悴的    
+>scrap[skræp] n.小块(纸、布匹等)；一丁点；残羹剩饭 v.废弃；取消；抛弃；报废    
+>Mandarin character 汉字
+
 我举起这张轻如无物的纸片。上面的线条已经褪色了，只有几个汉字和数字
 
 She **seemed unmoved, but I was overcome**. Through tears, I **snapped image after image**.
+>unmoved 冷漠的；无同情心的；无动于衷的    
+>overcome v.受到…的极大影响；克服；解决；战胜    
+>snap image 拍下照片
+
 她似乎无动于衷，但我却泪如雨下。在泪水中，我拍下了一张又一张照片
 
-“Mommy, **massage my feet**?” These days, it’s the only **physical contact** she invites. **I’ll take what I can get. I knead her soft soles**, notice her toenails, pearly and perfect. 
+“Mommy, **massage my feet**?” These days, it’s the only **physical contact** she invites. **I’ll take what I can get. I knead her soft soles**, notice her toenails, **pearly** and perfect. 
+>massage feet 按摩脚    
+>physical contact 身体接触    
+>daily basis 日常；每日   
+>knead[nid] v.揉；揉捏    
+>sole[soʊl] n.鞋底；脚掌；adj.仅有的；唯一的；独占的；专有的    
+>pearly[ˈpɜrli] 珍珠的；似珍珠的   
+
 “妈咪，给我按摩一下脚？”如今，这是她唯一邀请我与她身体接触的方式。我当然愿意效劳。我揉捏着她柔软的脚底，注意到她的脚趾甲，洁白无瑕
 
-he said that **the wealth disparity** in America is **“a moral and economic outrage.”**
+He said that **the wealth disparity** in America is **“a moral and economic outrage.”**
+>disparity[dɪˈsperəti] n.差异     
+>wealth disparity 贫富差距    
+>moral and economic outrage 道德和经济暴行
+
 他说美国的贫富差距是“一种道德和经济暴行”
 
 **This era, in length and gains, dwarfs the “greed is good”** 1980s, that era of yellow ties, **nigiri rolls** and designer **espresso machines** that has come to symbolize **gilded excess in popular imagination**.
+>nigiri rolls 手握寿司卷   
+>espresso[eˈspresoʊ] 浓咖啡     
+>gilded[ˈɡɪldəd] 镀金的；涂金色的；富贵的；上层阶级的   
+>popular imagination 大众想象
+
 这个时代无论在时间长度还是在增长方面，都让奉行“贪婪是好事”的1980年代相形见绌，也就是那个黄色领带、手握寿司和设计师款意式咖啡机成为大众想象中的富华象征的时代
 
-And yet the only thing we know in this casino-like economy — a casino that may, in fact, **soon be shuttered** — is that for those at the top, **too much is never enough**
+And yet the only thing we know in this **casino-like economy** — a casino that may, in fact, **soon be shuttered** — is that for those at the top, **too much is never enough**
+>casino-like economy 赌场式经济    
+>too much is never enough 再多也永远不够
+
 然而，在这个赌场式经济——事实上这座赌场可能即将关闭——中，我们所知的唯一一件事是，对于那些处于顶层的人来说，再多也永远不够
 
-Elon Musk, the man behind Tesla and SpaceX, **is worth some $23 billion but nevertheless** considers it a victory that he **dialed back** his “bonkers” 120-hour workweeks to a more “manageable” 80 or 90
+Elon Musk, the man behind Tesla and SpaceX, **is worth some $23 billion but nevertheless** considers it a victory that he **dialed back** his “**bonkers**” 120-hour workweeks to a more “manageable” 80 or 90
+>dial back 减少；回拨    
+>bonkers[ˈbɑŋkərz] 疯狂的；发疯的    
+
 Tesla和SpaceX的掌门人身家约230亿美元，他把自己每周120小时的“疯狂”工作时间调至更“好对付”的80或90小时，但尽管如此他还觉得这是一种胜利
 
 Almost everything rich people touch **makes money**, but this current **financial inferno** has meant little for the bottom 50% of earners in the United States, who have 32% **less wealth** than they did in 2003.
+>inferno[ɪnˈfɜrnoʊ] n.地狱；炼狱    
+
 富人接触的几乎所有东西都能赚钱，但目前的金融地狱对美国收入最低的50%的人来说意义不大，他们的财富比2003年减少了32%
 
 **Fine vintage watches**, which have become **a must-have** for the young male money class, are exploding in value, with prices on **certain five-figure models** of Rolexes doubling in just a few years. Gold, once **derided as a relic**, is up 40% in the past few years.
