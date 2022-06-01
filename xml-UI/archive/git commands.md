@@ -708,6 +708,8 @@ git grep -in 'Converter' origin/master:src/main/java origin/dev:src/main/java
 git grep -in 'if(' -- '*.java' '*.cpp'
 # 在repo指定路径下指定文件类型搜索关键字
 git grep "ProfileProxy" -- policy/staging/*.java
+# 在policy目录下搜寻所有java文件，exclude 路径policy/api_attic下的java文件
+git grep -in "ProfileProxy" -- ':^policy/api_attic' -- policy/*.java
 # 当前路径src目录下按照正则表达式搜索包含sync并带括号的匹配项
 # 由于括号是正则表达式保留符号因此用反斜杠转义
 git grep -inE "public static .*sync.*\(" src/

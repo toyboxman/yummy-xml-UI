@@ -27,6 +27,7 @@
 + Submit it to the Kubernetes API (kubectl create -f service.yaml)
 
 Kubernetes解决那些问题可以看看
++ [容器发展史](https://mp.weixin.qq.com/s/ccFkJJz97KcuXdO3r5zdXA)
 + [k8s简介](https://mp.weixin.qq.com/s/JSipXCkLAMIpNa4UGDRogQ)
 + [部署Kubernetes的代价](https://mp.weixin.qq.com/s/zzn61ADe2RA7K0L4-EMAOA)
 + Kubernetes 学习曲线[[1](https://mp.weixin.qq.com/s/H8guIwQlMoKnN9OI_Om3RA), [2](https://opensource.com/article/19/6/kubernetes-basics)]
@@ -41,6 +42,7 @@ Kubernetes解决那些问题可以看看
 
 Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑的操作，下面是一些关于简单使用学习的文章
 + [k8s best practice](https://mp.weixin.qq.com/s/KLrQ2n_Kk_DR6puIsgmOqg)
++ [工商银行容器在线纵向扩容的创新实践](https://mp.weixin.qq.com/s/VFYblOnEG2VbjnBbaqXdiA)
 + [K8S高可用集群架构](https://mp.weixin.qq.com/s/uyLBMHmr0cRsRLGs4nwnjg)
 + [非云环境中Kubernetes的配置和运行](https://mp.weixin.qq.com/s/EdSxylOX6Yk77CXBak-3uQ)
 + [Makisu构建容器镜像](https://mp.weixin.qq.com/s/avUG1v9XHCGWAkNg3qG_Dw)

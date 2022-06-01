@@ -238,134 +238,308 @@ In “The Impossible City,” Cheung likewise distinguishes among the multiple u
 The first Hong Kongers, so the myth goes, were rebels. In the fifth century a Chinese official named Lu Xun incited a rebellion against the Jin dynasty. He lost, and fled with his army to Lantau, one of Hong Kong’s islands, where they lived in caves and ate so much raw fish that, according to one popular version of the legend, they grew fish heads. Indigenous Hong Kongers, the so-called Lo Ting, are said to be these insurrectionist mermen.
 传说最早的一批香港人都是忤逆之辈。公元5世纪，也就是东晋年间，一个名叫卢循的官吏揭竿而起，后败退至香港的大屿山。在这座岛上，他们住山洞，吃生鱼，根据一个广为流传的版本，他们长出了鱼头。据说，卢亭人，也就是香港最早的居民，正是这些造反的人鱼
 
-At his side was his closest ally in Western Europe, Silvio Berlusconi, the media mogul and Italian prime minister of legendarily hedonist appetites with whom he shared a taste for raunchy jokes, over-the-top furnishings and vast wealth.
+At his side was his **closest ally** in Western Europe, Silvio Berlusconi, the **media mogul** and Italian prime minister of **legendarily hedonist appetites** with whom he **shared a taste for raunchy jokes**, **over-the-top furnishings** and vast wealth.
+>closest ally 最亲密的盟友     
+>media mogul[ˈmoʊɡ(ə)l] 媒体大亨    
+>legendary[ˈledʒənˌderi] 非常著名的；享有盛名的；传奇的；传说的    
+>legendarily 传奇性地      
+>hedonist[ˈhid(ə)nɪst] 享乐主义者   
+
 身边站着他在西欧最亲密的盟友西尔维奥·贝卢斯科尼。这位时任意大利总理的媒体大亨有着传奇的享乐主义嗜好，两人都喜欢黄色笑话、夸张的摆设和巨额财富。
 
-I have always reacted negatively to those who, with their snotty noses and erotic fantasies, meddle in other people’s lives
+I have always **reacted negatively** to those who, with their **snotty noses** and **erotic fantasies, meddle in** other people’s lives
+>react negatively 反应消极    
+>snotty[ˈsnɑti] 流鼻涕的；满是鼻涕的    
+>erotic[ɪˈrɑtɪk] 性欲的；色情的 n.情诗；好色之徒    
+>fantasy[ˈfæntəsi] v.幻想；梦想；想像；n.幻想；想象；幻想作品      
+>meddle in 管闲事；干预; 干涉；搅和；插手
+
 对那些目中无人、怀着性幻想、干涉他人生活的人，我总是反应消极
 
-The great-granddaughter of Nikita Khrushchev, Ms. Khrushcheva said that Mr. Putin had a byzantine worldview typical of the Kremlin, and like Stalin, he embraced and perpetuated mythology peppered with truth.
+The great-granddaughter of Nikita Khrushchev, Ms. Khrushcheva said that Mr. Putin **had a byzantine worldview typical** of the Kremlin, and like Stalin, he **embraced and perpetuated mythology peppered with truth**.
+>byzantine 拜占庭; 拜占庭帝国的；东罗马帝国的        
+>byzantine worldview typical 典型的那种复杂诡秘的世界观     
+>perpetuate[pərˈpetʃueɪt] v.使永久化；使持久化；使持续     
+>mythology[mɪˈθɑlədʒi] n.神话；虚幻的想法；错误的观点      
+>pepper n.胡椒粉；柿子椒；v.撒胡椒粉    
+>peppered with truth 点缀着些许真相
+
 尼基塔·赫鲁晓夫的曾孙女赫鲁晓娃说，普京有克里姆林宫典型的那种复杂诡秘的世界观，与斯大林一样，他欣然接受了点缀着些许真相的神话，并使其持久化
 
-If Depp somehow prevails, one can expect similar lawsuits against other women who say they’ve survived abuse. Depp wrote that Heard was “begging for total global humiliation.” Online, there’s a level of industrial-scale bullying directed at Heard that puts all previous social media pile-ons to shame. 
+If Depp **somehow prevails**, one can expect similar lawsuits against other women who say **they’ve survived abuse**. Depp wrote that Heard was “**begging for total global humiliation**.” Online, there’s a level of **industrial-scale bullying directed at** Heard that puts all previous social media **pile-ons to shame**. 
+>prevail v.流行；盛行；战胜；压倒    
+>industrial-scale 大规模的    
+>direct at 针对；对准；指向；    
+
 如果德普以某种方式获胜，人们可以想见，其他自称从性侵中幸存下来的女性也会面临类似的诉讼。德普写道，赫德“上赶着想丢脸丢到全世界去”。网络上出现了针对赫德的一轮大规模霸凌，让所有之前的社交媒体围攻都相形见绌。
 
-Depp, you may know by now, accused Heard or one of her friends of defecating in her bed as an act of revenge, and his bodyguard said she’d confessed to a prank gone wrong. Heard testified that one of their dogs, incontinent since eating Depp’s weed as a puppy, defiled the bed.
+Depp, you may know by now, accused Heard or one of her friends of **defecating** in her bed as **an act of revenge**, and his bodyguard said she’d **confessed to a prank** gone wrong. Heard testified that one of their dogs, **incontinent** since **eating Depp’s weed** as a puppy, **defiled** the bed.
+>defecate[ˈdefəˌkeɪt] v.排便     
+>incontinent 无节制的；不能保持的；大小便失禁的     
+>defile[dɪˈfaɪl] v.玷污；亵渎；弄脏；糟蹋    
+
 德普指控赫德或她的一个朋友在她床上大便以示报复，他的保镖说她承认是想恶作剧但出了岔子。赫德作证说，他们的一只狗小时候吃了德普的大麻一直失禁，因此弄脏了床。
 
-The image of Heard, a woman whose brand is bombshell blond glamour, is now linked, perhaps permanently, to excrement. If she’s not a psychopath, she’s the casualty of a truly sadistic reputational hit job.
+The image of Heard, a woman whose brand is **bombshell blond glamour**, is now linked, perhaps permanently, to **excrement**. If she’s not a **psychopath**, she’s the **casualty of a truly sadistic reputational hit job**.
+>boomshell n.意外消息（常指不幸）；金发美女     
+>glamour[ˈɡlæmər] n.魅力；迷人的美 v.迷住    
+>excrement[ˈekskrəmənt] n.粪便；排泄物    
+>psychopath[ˈsaɪkəˌpæθ] n.精神变态者；精神病患者    
+>casualty[ˈkæʒuəlti] n.伤亡；受害者；遇难者；毁坏    
+>sadistic 虐待症的    
+>reputational hit job 声誉打击的事
+
 赫德的形象，一个以金发性感魅力为标志的女人，现在被永久与粪便联系在一起。如果她不是心理变态，那她就的确是被污蔑为虐待狂的受害者。
 
-The great replacement is the latest incarnation of an old idea: the belief that elites are attempting to destroy the white race by overwhelming it with nonwhite groups and thinning them out with interbreeding until white people no longer exist. Even when demographic change slows, this fear has not abated.
+The great replacement is the latest **incarnation** of an old idea: the belief that elites are** attempting to destroy the white race** by overwhelming it with nonwhite groups and **thinning them out with interbreeding** until white people no longer exist. Even when demographic change slows, this fear has not **abated**.
+>incarnation[ˌɪnkɑrˈneɪʃ(ə)n]     n.化身；转世；体现        
+>thin out (听众)减少；变薄    
+>interbreed v.杂交繁殖；品种间杂交     
+>abate[əˈbeɪt]     v.减少; 减轻；减弱；降低
+
 “大取代”是旧观点重燃的最新一例。这个旧观点认为精英试图通过用非白人群体压倒白人种族，并通过杂交使他们变得稀少，从而摧毁这一种族，直至其灭绝。即使人口变化放缓，这种担忧也并未减弱。
 
-When neo-Nazis, Klansmen, militiamen and skinheads came together in the 1980s and 1990s, they worried about the “Zionist Occupational Government” or the “New World Order.” 
+When **neo-Nazis, Klansmen, militiamen and skinheads** came together in the 1980s and 1990s, they worried about the “**Zionist Occupational** Government” or the “New World Order.” 
+>skinhead n.光头党     
+>zionist['zaɪənɪst] 犹太复国主义者
+
 当新纳粹分子、三K党人、民间武装和光头党在1980年代和1990年代走到一起时，他们担心“犹太复国主义占领政府”或“新世界秩序”。
 
-Thoughts and prayers are never enough after a mass shooting, but even these messages seem more sparse than usual. 
+**Thoughts and prayers** are never enough after a **mass shooting**, but even these messages **seem more sparse than usual**. 
+>sparse[spɑrs] 稀少的；稀疏的；零落的  
+
 在大规模枪击事件之后，思念和祈祷永远都不够，但即使这些内容似乎也比平时更稀少
 
-Salaries don’t make people **rich nearly as often as equity does**. rich people tend to own unsexy businesses. 
+Salaries don’t make people **rich nearly as often as equity does**. rich people tend to own **unsexy businesses**.      
 工资使人致富的效率远不及股权。富人拥有的往往是不那么风光的企业。
 
-He debunked a popular myth that there is no effect of money on happiness beyond $75,000 per year, but he did confirm a law of diminishing returns to money.
+He **debunked a popular myth** that there is no effect of money on happiness beyond $75,000 per year, but he did **confirm a law of diminishing returns to money**.
+>debunk v.批判；驳斥；揭穿…的真相     
+>myth[mɪθ] n.迷思；神话；虚构的东西；荒诞的说法 v.使神化    
+>debunk a popular myth 戳穿了一个流行的迷思     
+>a law of diminishing returns to money 金钱回报递减的规律
+
 他戳穿了一个流行的迷思，即年收入超过7.5万美元后，金钱对幸福就没有影响了，但他也确实证实了金钱回报递减的规律。
 
-The central problem is that the coronavirus has become more adept at reinfecting people. It seems likely to me that that’s going to sort of be a long-term pattern.  
+The central problem is that the coronavirus has become more **adept at reinfecting people**. It seems likely to me that that’s going to **sort of be a long-term pattern**.  
+>adept[əˈdept] n.内行 adj.内行的；熟练的；擅长的    
+>be adept at 擅长于；易于
+
 核心问题是，新冠病毒已变得更容易再次感染。在我看来，这可能会成为一种长期模式
 
-The Omicron variant dashed those hopes. Unlike previous variants, Omicron and its many descendants seem to have evolved to partially dodge immunity. At least at the moment, the virus has not hit upon a way to fully sidestep the immune system.
+The Omicron variant **dashed those hopes**. Unlike previous variants, Omicron and its many **descendants** seem to have **evolved to partially dodge** immunity. **At least at the moment**, the virus has not **hit upon a way to fully sidestep** the immune system.
+>At least at the moment 至少目前    
+>dash n.短跑；破折号；匆忙；少量 v.猛冲；急奔；急驰；猛掷    
+>descendant[dɪˈsendənt] n.后裔；后代；子孙     
+>partially dodge immunity 逃避部分免疫    
+>hit upon a way 找到一种方法     
+>sidestep n.台阶；横步；v.回避；横跨一步躲过    
+
 奥密克戎变异株使得这样的希望破灭了。与之前的变异株不同，奥密克戎和它的许多后裔似乎已经进化到可以逃避部分免疫。至少目前，该病毒还没有找到一种完全避开免疫系统的方法。
 
-Many places provide insight. For the standard slide-show presentation, it looks obvious: Australia restricted travel and personal interaction until vaccinations were widely available
+Many places provide **insight**. For the standard slide-show presentation, it looks obvious: Australia restricted travel and personal interaction until vaccinations **were widely available**
+>insight n.洞察力；了解；洞悉；领悟
+
 许多地方的措施都值得借鉴。从最直观的角度看，差别是相当明显的：澳大利亚限制了旅行与人际交往，直至疫苗广泛可用。
 
-But of greater import, interpersonal trust — a belief that others would do what was right not just for the individual but for the community — saved lives. Trust mattered more than smoking prevalence, health spending or form of government
+But of greater import, **interpersonal trust** — a belief that others would do what was right not just for the individual but for the community — saved lives. Trust **mattered more than** smoking **prevalence**, health spending or form of government
+>prevalence['prevələns] n.盛行率；流行；卓越     
+>smoking prevalence 吸烟率    
+>interpersonal 人与人之间的；人际关系的；人际的
+
 但更重要的是，人与人之间的信任——即相信他人会做正确的事，不仅为了个人，也是为了社区——能够挽救生命。信任比吸烟率、医疗支出或政府形式更为重要。
 
-That’s a good list of issues. I’m happy to be involved, But, you know, are we going to get any tangible benefits out of participating in this framework? The bottom line is the United States is not coming to the table with market access, And that’s the trade piece. That’s what the region is looking for.
+That’s a good list of issues. I’m happy to be involved, But, you know, are we going to get any **tangible benefits out of participating in** this framework? The **bottom line** is the United States is not coming to the table with market access, And that’s the **trade piece**. That’s what the region is looking for.
+>tangible 有形的；实际的；真实的；可触摸的     
+>tangible benefits 切实的好处    
+
 确实提到了许多要点。我很乐意参与，但话说回来，参与这个框架能让我们得到任何切实的好处吗？说到底就是美国并没有带着市场准入的承诺来谈判，这才是关键一步。这是该地区最关心的地方。
 
 During stops in Seoul and Tokyo, Mr. Biden will encounter two new partners who are both seen as more aligned with American priorities and likely to **have good chemistry with** the president
 在访问首尔和东京期间，拜登将要会见的两位新伙伴都被认为与美国的优先事项更一致，可能与总统营造出良好关系
 
-Demands for the expropriation of someone else’s legally acquired property is legal nihilism in its purest form.
+Demands for the **expropriation** of someone else’s legally acquired property is legal **nihilism in its purest form**.
+>expropriate[eksˈproʊpriˌeɪt] v.征用；侵占他人财产; 没收；剥夺；搜刮     
+>nihilism[ˈnaɪəˌlɪzəm] 无政府主义；虚无主义    
+>in form 在形式上
+
 要求没收他人合法获得的财产是最纯粹的法律虚无主义
 
-In recent weeks, Germany has been trying to shore up its legal framework, spearheaded by a new task force. 
+In recent weeks, Germany has been trying to **shore up** its legal framework, **spearheaded** by a new task force. 
+>shore up v.支撑；支持
+>spearhead[ˈspɪrˌhed] n.矛头；先锋；前锋；先头部队 v.做…的先锋；带头做；领先突击
+
 最近几周，德国一直在努力巩固其法律框架，这项工作由一个新的工作组牵头
 
-You don’t protest in Tegernsee. That takes a lot, quite a lot indeed. It has something to do with these mountains, Your view out to the world is narrow.
+You don’t protest in Tegernsee. That takes a lot, quite a lot indeed. It **has something to do with** these mountains, Your **view out to the world** is narrow.       
 你不会在泰根湖抗议。这不容易做到，真的很难，与这里的山有关，你对世界的看法是狭窄的。
 
-We live in an idyll, which most people here only want to have affirmed, not questioned. But they think just because he knows Putin or because he’s Russian, they can do this. You shouldn’t pass judgment.
+We **live in an idyll**, which most people here only want to have affirmed, not questioned. But they think just because he knows Putin or because he’s Russian, they can do this. You shouldn’t **pass judgment**.
+>idyll[ˈaɪd(ə)l] n.田园诗；田园生活    
+>live in an idyll 生活在田园诗般的环境中    
+>pass judgment 扣帽子; 评判
+
 我们生活在田园诗般的环境中，这里的大多数人只想确认而不是质疑这一点. 但他们认为仅仅因为他认识普京或者因为他是俄罗斯人，他们就可以做这样的事。不应该这样给人扣帽子
 
-As the war in Ukraine drags on, the Tegernsee villas remain shuttered and untouched. Some worry momentum to take action is flagging because that is how local leaders like it.
+As the war in Ukraine **drags on**, the Tegernsee **villas remain shuttered and untouched**. Some **worry momentum** to take action is **flagging** because that is how local leaders like it.
+>drag on 持续    
+>flagging 下垂的；衰弱的    
+
 随着乌克兰战争的持续，泰根湖的别墅仍处于封闭状态，无人踏足。一些人担心行动的势头正在减弱，因为这是当地领导人想要的效果。
 
- The risks for early death continued to drop among the women walking more than 5,000 steps a day, but benefits plateaued at about 7,500 daily steps. 
+ The risks for early death continued to drop among the women walking more than 5,000 steps a day, but **benefits plateaued** at about 7,500 daily steps. 
+ >plateau[plæˈtoʊ] n.高原；平台期；高原期 v.进入停滞期；达到平稳状态   
+
  每天走路超过5000步的女性过早死亡的风险还要更低，到每天7500步水平时，步行带来的益处达到峰值。
 
- Realistically, few of us reach that 10,000-step goal, anyway. And if we do reach the 10,000-step target, our feat tends to be ephemeral. 
+ **Realistically**, few of us reach that 10,000-step goal, anyway. And if we do reach the 10,000-step target, our **feat tends to be ephemeral**. 
+ >realistically[ˌriəˈlɪstɪkli] adv.实际地；现实地；逼真地     
+ >feat[fit] n.功绩；技艺；英勇事迹 adj.灵巧的；整洁的；合适的    
+ >ephemeral[ɪˈfem(ə)rəl] 短暂的；瞬息的 n.生命短暂的事物
+
  反正在现实中，我们之中很少有人能达到1万步的目标。就算我们真的达到了1万步的目标，这样的努力通常也只是昙花一现。
 
- the extra 2,000 to 3,000 steps would take us to a total of between 7,000 and 8,000 steps most days, which, Dr. Lee said, seems to be the step-count **sweet spot**.
+ The extra 2,000 to 3,000 steps would take us to a total of between 7,000 and 8,000 steps most days, which, Dr. Lee said, seems to be the step-count **sweet spot**.
+ >sweet spot 最佳击球点；最有效点；所有特点的完美组合
+
  额外的2000到3000步将使我们每天的总步数介于7000和8000步之间，李依敏说，这大概是最合适的步数。
 
-Countries that spoil for fights tend to get them. All the more so after the chaotic U.S. retreat from Afghanistan threatened to turn into a global rout. Stick to the diplomatic formulas of a now-dead status quo?
+Countries that **spoil for fights tend to get them**. All the more so after the chaotic U.S. retreat from Afghanistan threatened to turn into a **global rout**. **Stick to the diplomatic formulas** of a **now-dead status quo**?
+>rout[raʊt] n.溃败；彻底失败 v.彻底击败；使溃败    
+>spoil n.赃物；战利品；v.破坏；糟蹋；毁掉     
+>spoil for fights 热衷战争     
+>now-dead 已无用的    
+
 热衷战争的国家往往求仁得仁。在美国从阿富汗的混乱撤军几乎演变成一场全球溃败之后，这一点愈发加剧。还要继续坚持现已无用的外交定式吗？
 
-On Tuesday in Tokyo, Mr. Biden sought to temper his comments. he said his administration had not abandoned the “strategic ambiguity” over Taiwan long embraced by the United States. 
+On Tuesday in Tokyo, Mr. Biden **sought to temper** his comments. he said his administration had not abandoned the “**strategic ambiguity**” over Taiwan **long embraced by** the United States. 
+>temper[ˈtempər] n.脾气；情绪；心情；v.使缓和；使温和     
+>ambiguity[ˌæmbɪˈɡjuəti] n.含糊；歧义；模棱两可；不明确     
+>strategic ambiguity 战略模糊    
+
 周二，拜登在东京试图缓和他的言论。表示他的政府并没有放弃美国长期以来对台的“战略模糊”。
 
-President Biden’s strong language during a visit to Tokyo this week tiptoed up to provocation. While Beijing could see the words as belligerent, they are consistent with the new emphasis in Washington on forceful deterrence.
+President Biden’s strong language during a visit to Tokyo this week **tiptoed up to provocation**. While Beijing could see the words as **belligerent**, they **are consistent with** the new emphasis in Washington on **forceful deterrence**.
+>tiptoe[ˈtɪpˌtoʊ] n.脚尖 adv.踮着脚；蹑手蹑脚地 adj.踮着脚走的；偷偷摸摸的 v.踮着脚走；蹑手蹑脚地走     
+>belligerent[bəˈlɪdʒ(ə)rənt] 好斗的；寻衅的；挑衅的；参战的 n.交战国；交战团体     
+
 拜登总统本周访问东京期间使用的强硬措辞已暗含挑衅。尽管中国政府可能会视这些言论为挑衅，但这些说法与华盛顿对武力威慑的新强调是一致的。
 
-The statement described a multiservice effort that combined “combat readiness” patrols with “actual combat drills.” It is hypocritical and futile for the United States to say one thing and do another on the Taiwan issue and frequently encourage and support ‘Taiwan independence’ forces.
+The statement described a multiservice effort that combined “**combat readiness**” patrols with “**actual combat drills**.” It is **hypocritical and futile** for the United States to **say one thing and do another** on the Taiwan issue and frequently encourage and support ‘Taiwan independence’ forces.
+>actual combat drills 实战化演练     
+>hypocritical[ˌhɪpəˈkrɪtɪk(ə)l] 伪善的；虚伪的     
+>futile[ˈfjut(ə)l] 徒然的；徒劳的；无效的; 无用的；无益的    
+>say one thing and do another 说一套做一套
+
 该声明称已组织多军兵种联合“战备”警巡和“实战化演练”。美方在台湾问题上说一套做一套，频频给‘台独’势力壮胆打气，这是虚伪的、徒劳的。
 
-A two-month lockdown in Shanghai, China’s commercial capital, and sporadic lockdowns elsewhere have hampered assembly lines, trapped workers, snarled logistics and confined millions of consumers to their homes.
+A two-month lockdown in Shanghai, China’s commercial capital, and **sporadic lockdowns** elsewhere have **hampered assembly lines, trapped workers, snarled logistics and confined millions of consumers** to their homes.
+>sporadic[spəˈrædɪk] 偶尔发生的；间或出现的；阵发性的；断断续续的      
+>sporadic lockdown 零星封城     
+>hamper[ˈhæmpər] v.阻碍；妨碍；阻止 n.带盖大篮子；盒装食物     
+>assembly line 装配线    
+>snarl[snɑrl] n.龇牙低吼；咆哮；疼痛叫声 v.咆哮着说；不耐烦地说
+
 中国商业之都上海长达两个月的封城以及其他地方的零星封城已经阻碍了装配线、困住了工人、制造了物流混乱，并将数百万消费者困在家中
 
-When you peel the onion, it starts to reek pretty quick
+When you **peel the onion**, it starts to **reek pretty quick**
+>reek[rik] v.散发臭气；n.恶臭；难闻的气味
+
 当你剥开洋葱时，很快就会散发出刺鼻的味道
 
-When it came down to it, the country didn’t need “patronizing lectures” about human rights issues
+When it **came down to** it, the country didn’t need “**patronizing lectures**” about human rights issues
+>come down to 归结起来      
+>patronize[ˈpeɪtrənaɪz] v.摆出高人一等的派头；经常光顾；赞助    
+>patronizing lectures 颐指气使的说教
+
 归根结底，国家不需要对别国颐指气使的“教师爷”
 
-The scale of death in Uvalde, Texas, is unfathomable. These staggering numbers will not change one single thing.
+**The scale of death** in Uvalde, Texas, is **unfathomable**. These **staggering numbers** will not change one single thing.
+>unfathomable[ʌnˈfæðəməb(ə)l] 难以理解的；莫测高深的    
+>staggering 惊人的
+
 得克萨斯州尤瓦尔迪的伤亡之惨重令人难以想象。数字惊人，却不会改变任何事。
 
-Time and again we are told, both implicitly and explicitly, that all we can do is endure this constancy of violence. Incivility runs through the history of this country, founded on stolen land, built with the labor of stolen lives. 
+Time and again we are told, both **implicitly and explicitly**, that all we can do is **endure this constancy of violence**. **Incivility** runs through the history of this country, founded on stolen land, built with the labor of stolen lives. 
+>implicitly and explicitly[ɪk'splɪsɪtli] 含蓄还明确地      
+>incivility[ˌɪnsɪˈvɪləti] 粗野；无礼貌；不文明     
+>constancy n.恒定；坚贞；稳定性     
+>endure v.忍受；忍耐；持续；持久
+
 我们一次又一次地被告知——无论是含蓄还是明确地——我们所能做的就是忍受这种持续不断的暴力。野蛮行为贯穿于这个国家的历史，建立在被盗的土地上，由被盗来的生命用劳动建造。
 
-When politicians talk about civility and public discourse, what they’re really saying is that they would prefer for people to remain silent in the face of injustice. They want marginalized people to accept that the conditions of oppression are unalterable facts of life. They want to luxuriate in the power they hold, where they never have to compromise, never have to confront their consciences or lack thereof, never have to face the consequences of their inaction.
+When politicians talk about civility and **public discourse**, what they’re really saying is that they would prefer for people to remain silent **in the face of injustice**. They want **marginalized people** to accept that **the conditions of oppression are unalterable facts of life**. They want to **luxuriate** in the power they hold, where they never have to compromise, never have to **confront their consciences** or **lack thereof**, never have to face the consequences of their **inaction**.
+>discourse[ˈdɪsˌkɔrs] n.话语；论文；演讲 v.谈；讲演；写讲稿     
+>public discourse 公共话语     
+>marginalized people 边缘化的人     
+>unalterable 不可改变的     
+>facts of life 生活真相；生命知识；生活现实     
+>luxuriate[lʌɡˈʒʊriˌeɪt] v.繁茂；生活奢华；享受    
+>thereof adv.在其中；由此    
+>confront their consciences[ˈkɑnʃəns] 面对自己的良心    
+>inaction n.无行动；不采取措施；不作为   
+
 当政客们谈论文明和公共话语时，他们真正想说的是，他们希望人们在面对不公正时保持沉默。他们希望被边缘化的人接受，遭受压迫是不可改变的生活事实。他们想尽情享受他们所拥有的权力，他们永远不必妥协，永远不必面对自己的良心或本就没有良心，永远不必面对他们不作为的后果。
 
-They call for civility, but the definition of civility is malleable and ever-changing. Civility is whatever enables them to wield power without question or challenge.
+They **call for civility**, but the definition of civility is **malleable and ever-changing**. Civility is whatever enables them to **wield power** without question or challenge.
+>call for civility 呼吁文明     
+>malleable[ˈmæliəb(ə)l] 可锻造的；易成型的；可塑的     
+>ever-changing 不断改变的     
+>wield power 行使权力
+
 他们呼吁文明，但文明的定义是可塑的和不断变化的。文明成了任何能让他们不被质疑或不受挑战地行使权力的东西。
 
-Corporate and government elites have been notorious for a type of gapjil known as “imperial protocol,” which includes having a row of underlings hold umbrellas or commandeer elevators while ordinary people are forced to take the stairs. 
+Corporate and government elites have been **notorious** for **a type of gapjil** known as “imperial protocol,” which includes having **a row of underlings** hold umbrellas or **commandeer elevators** while ordinary people **are forced to take the stairs**. 
+>notorious[nəˈtɔriəs] 声名狼藉的；臭名昭著的     
+>underling[ˈʌndərlɪŋ] 下属；喽啰；手下     
+>commandeer[ˌkɑmənˈdɪr] v.征用；强征；强占    
+
 企业和政府精英因为一种被称为“帝国礼仪”的礼节而臭名昭著，其中包括让下属排成一排撑伞，或者霸占电梯，让普通人只能走楼梯。
 
-But Amazon’s aggressive effort to court Chinese merchants over the past half decade led to a profound and trendsetting change in online retail and the global economy. 
+But Amazon’s aggressive effort to **court Chinese merchants** over the past half decade led to **a profound and trendsetting change** in online retail and the global economy. 
+>court n.法院；宫廷；院子；求婚 v.追求；求婚；寻求；吸引    
+>court merchants 争取卖家; 吸引取悦商家     
+>trendsetter 潮人；引领者
+
 但亚马逊在过去五年里积极争取中国卖家的努力导致网上零售和全球经济发生了深刻的、引领趋势的变化。
 
-But Amazon’s critics also say that the company hasn’t done enough to protect shoppers from dangerous or subpar products and from manipulated customer reviews from Chinese sellers that may be out of the reach of U.S. consumer protection laws.
+But Amazon’s critics also say that the company hasn’t done enough to protect shoppers from dangerous or **subpar products** and from **manipulated customer reviews** from Chinese sellers that may **be out of the reach of** U.S. consumer protection laws.
+>subpar[ˌsʌb'pɑ:(r)] 不到一般水平的；低于标准的    
+>subpar product 劣质产品     
+>manipulate customer reviews 操纵客户评论
+
 但亚马逊的批评者也说，亚马逊在打击危险或劣质产品以及中国卖家操纵客户评论方面做得不够，美国消费者保护法对中国商家来说可能是鞭长莫及。
 
-It seems like they’ve gained an inch in the Solomons and are trying to run a mile.
+It seems like they’ve **gained an inch** in the Solomons and are trying to **run a mile**.     
 看起来，他们在所罗门群岛是刚得到一寸，就想要再进一尺。
 
-Digital life in each country is largely walled off from the other, but the two online spheres are not totally isolated. There is a cross-fertilization of digital ideas between the U.S. and China as well as threads of interdependence
+Digital life in each country is **largely walled off from the other**, but the **two online spheres** are not totally isolated. There is a **cross-fertilization** of digital ideas between the U.S. and China as well as **threads of interdependence**
+>wall off 隔开；杜绝；用墙把…隔开    
+>cross-fertilization 异花受精；杂交的授粉     
+>interdependence 相互依赖；相互依存
+
 两国的数字生活基本相互隔绝，但其网络空间并不完全孤立于彼此。美中两国的数字观念相互交织渗透，并存在种种相互依存
 
-Don’t get me wrong: The divisions far outweigh the fuzzy links between the internet systems in China and the U.S. And it’s hard to imagine that changing. China and the U.S. are growing further apart, both politically and online.
+Don’t get me wrong: The divisions **far outweigh the fuzzy links** between the internet systems in China and the U.S. And it’s hard to imagine that changing. China and the U.S. are **growing further apart**, both politically and online.
+>outweigh[aʊtˈweɪ] v.大于；重于；超过     
+>fuzzy 毛茸茸的；模糊的；失真的    
+>grow apart 产生隔阂；越长越分开；渐行渐远
+
 别误会我的意思：中美互联网系统之间的分歧远大于那些模糊不清的联系。这种现状很难被改变。无论是政治还是互联网，中美两国都离彼此越来越远
 
-Please be polite and stop slandering nucleic acid tests by splashing dirty water
+Please be polite and **stop slandering nucleic acid tests** by **splashing dirty water**
+>slander[ˈslændər] v.诋毁；口头诽谤；中伤 n.口头诽谤      
+>nucleic[nju'kliɪk] acid[ˈæsɪd] test 核酸检测     
+>splash[splæʃ] v.泼洒；溅在…上 n.溅洒后留下的污渍     
+>splash dirty water 泼脏水    
+
 请他们留点口德吧，别再用泼脏水的方式诋毁核酸了
 
-The virus can spread via body fluids, skin contact and respiratory droplets. The symptoms are typically mild, and most people recover within weeks, but the virus has had a fatality rate of about 3.3 percent in Nigeria, with children, young adults and immunocompromised people most susceptible.
+The virus can spread via **body fluids, skin contact and respiratory droplets**. The symptoms are **typically mild**, and most people recover within weeks, but the virus has had a **fatality rate of about 3.3 percent** in Nigeria, with children, young adults and **immunocompromised** people most **susceptible**.
+>body fluids 体液    
+>respiratory[ˈresp(ə)rəˌtɔri] 呼吸的   
+>droplet[ˈdrɑplət] 液滴；飞沫     
+>immunocompromised[ɪmjʊnəʊ'kəmprəmɪst] 免疫受损的；免疫功能低下的    
+>susceptible[səˈseptəb(ə)l] 易受影响的；敏感的；易受感染的
+
 这种病毒可以通过体液、皮肤接触和呼吸道飞沫传播。这种病毒的症状通常很轻微，大多数人会在几周内康复，但在尼日利亚，这种病毒的致死率约为3.3%，儿童、年轻人和免疫功能低下的人最容易感染。
