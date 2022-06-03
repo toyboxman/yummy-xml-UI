@@ -142,100 +142,286 @@ The narratives Mr. Putin has been spinning to justify his war in Ukraine are ver
 The shift from general to limited conquest was already a concession on Russia’s part. The Russian leadership has blamed a single factor: It claims to be fighting not just Ukraine but the NATO system in Eastern Europe. Hubris and clumsy tactics are more to the point. Negotiations between Ukraine and Russia were always fraught but contained moments of promise. They have now stalled completely. Russia bears its fair share of responsibility, of course. But European channels to Moscow have been all but severed
 从全面征服到有限征服，这一转变已经是俄罗斯方面的让步。俄罗斯领导层归咎于一个因素：它声称不仅要与乌克兰作战，还要与东欧的北约体系作战。更恰当的解释应该是傲慢和笨拙的策略。俄乌之间的谈判一直剑拔弩张，但并非没有让人看到希望的瞬间。然而现在谈判完全停滞了。对此俄方当然要负一部分责任。但欧洲与莫斯科的沟通渠道已经悉数切断
 
-even staunch Ukrainian nationalists expressed views far more pragmatic than those that are routine in America now. Talk of neutral status for Ukraine and internationally monitored plebiscites in Donetsk and Luhansk has been jettisoned in favor of bombast and grandstanding.
+Even **staunch** Ukrainian nationalists expressed views **far more pragmatic than** those that are **routine** in America now. **Talk of neutral status** for Ukraine and **internationally monitored plebiscites** in Donetsk and Luhansk has been **jettisoned in favor of bombast and grandstanding**.
+>staunch[stɔntʃ] 忠实的；坚定的 v.止住（血等的）流出   
+>neutral[ˈnutrəl] status 中立地位     
+>plebiscite[ˈplebɪsɪt]/referendum n.公民投票；全民公决    
+>jettison[ˈdʒetɪs(ə)n] n.抛弃；v.投弃；放弃；摆脱；除掉    
+>bombast['bɒmbæst] n.华而不实的言辞；大话 adj.夸大的    
+>grandstanding n.哗众取宠；炫耀
+
 即使最坚决的乌克兰民族主义者表达的态度，也要比现在美国的标准姿态务实的多。有关乌克兰的中立地位和国际监督下的顿涅茨克和卢甘斯克公投的想法已被抛在一边，取而代之的是浮夸而哗众取宠的言论。
 
-The war was dangerous and destructive enough in its initial form. The combination of expanded strategic aims and scotched negotiations has made it more dangerous still. At present, the only message to Russia is: There is no way out. Nuclear weapons are discussed in easy tones, not least on Russian television. 
+The war was dangerous and **destructive enough in its initial form**. The combination of **expanded strategic aims and scotched negotiations** has made it more dangerous still. **At present**, the only message to Russia is: There is **no way out**. Nuclear weapons are discussed **in easy tones**, not least on Russian television. 
+>expanded strategic aims 扩大化战略目标      
+>scotch[skɑtʃ] 苏格兰(人,语)的；俭约的；节俭的；朴素的 n.浅刻；轻伤；止车楔 v.轻轻切；在…上加刻痕；使受微伤    
+>no way out 没有出路；无路可走     
+>in easy tones 用平淡无奇的语调
+
 这场战争即使以它最初的形式看也是危险而毁灭性的。在战略目标扩大化和谈判受制的双重作用下，危险还会加剧。现在向俄罗斯传达的讯息只有一个：所有出路都已经封死。人们用平淡无奇的语调谈论着核武器，尤其是在俄罗斯的电视上。
 
-Russia’s economic position has deteriorated. Far from a commodity superpower, its undersized domestic industry is struggling and is dependent on technology imports that are now inaccessible. What’s more, the invasion has led directly to greater military spending in second- and third-tier European powers. The number of NATO troops in Eastern Europe has grown tenfold, and a Nordic expansion of the organization is likely. 
+Russia’s economic position has **deteriorated**. Far from a **commodity superpower**, its **undersized domestic industry** is struggling and is **dependent on** technology imports that are now **inaccessible**. What’s more, the invasion has led directly to **greater military spending** in second- and third-tier European powers. The number of NATO troops in Eastern Europe has **grown tenfold**, and a **Nordic expansion** of the organization is likely. 
+>undersized 不够大的；尺寸过小的    
+>tenfold 十倍的     
+>grow tenfold 扩充了十倍    
+>Nordic[ˈnɔrdɪk] 斯堪的纳维亚的；北欧国家的；北欧人的；n.北欧人    
+
 俄罗斯的经济形势在恶化。它在日用品领域实力不强，规模有限的本土工业处境艰难，需要依靠一些如今已经无法获得的技术进口。此外，这场入侵也导致欧洲二三线国家增加军费开支。北约在东欧的驻军扩充了十倍，并且一些北欧国家可能会加入该组织。
 
-Ukrainian casualties are not insignificant，A decisive military result in eastern Ukraine may prove elusive. Yet the less dramatic outcome of a festering stalemate is hardly better. Diplomatic efforts ought to be the centerpiece of a new Ukraine strategy. Instead, the Donbas is the frontier of freedom. This is not just declamatory extravagance. It is reckless. The risks hardly need to be stated.
+Ukrainian **casualties are not insignificant**，A **decisive** military result in eastern Ukraine may **prove elusive**. Yet **the less dramatic outcome of a festering stalemate is hardly better**. Diplomatic efforts **ought to be the centerpiece** of a new Ukraine strategy. Instead, the Donbas is the **frontier** of freedom. This is not just **declamatory extravagance**. It is **reckless**. The risks hardly need to be stated.
+>insignificant 微不足道的；无足轻重的; 无意义的；无价值的；无关紧要的    
+>casualties are not insignificant 损失不小    
+>decisive[dɪˈsaɪsɪv] result 决定性的结果    
+>elusive[ɪˈlusɪv] 难懂的；难捉摸的；难以达到的   
+>the less dramatic outcome 相对平淡的结果   
+>fester[ˈfestər] n.恶化；溃烂 v.恶化；(使)溃烂；发展；衰败    
+>stalemate[ˈsteɪlˌmeɪt] n.僵局；相持；逼和 v.使相持；使…僵持    
+>centerpiece[ˈsentərˌpis] 中心装饰品；核心；主要特点    
+>declamatory[dɪˈklæməˌtɔri] 雄辩式的；慷慨陈词的    
+>extravagance[ɪkˈstrævəɡəns] n.奢侈；铺张浪费；挥霍；过度；   
+>declamatory extravagance 夸夸其谈    
+
 乌克兰的损失不小，在东部的战事在军事上恐怕不会产生一个决定性的结果。然而这样一个惨厉的苦战僵局，就算以相对平淡的方式收尾，也谈不上是什么好事。一个新的乌克兰战略应该以外交努力为核心。然而，顿巴斯成了自由世界的边疆。这不只是夸夸其谈。这是在胡闹。由此带来的风险是显而易见的。
 
-North Koreans are chronically malnourished and unvaccinated, there are barely any medicines left in the country, and the health infrastructure is incapable to deal with this pandemic, The international community should offer medicine for Covid-19 related symptoms, Covid-19 treating anti-viral medicines, and provide vaccines and all necessary infrastructure for vaccine preservation, including fridges, generators and gasoline.
+North Koreans are **chronically malnourished and unvaccinated**, there are **barely any medicines left** in the country, and the health infrastructure **is incapable to deal with** this pandemic, The international community should offer medicine for **Covid-19 related symptoms**, Covid-19 treating **anti-viral medicines**, and provide vaccines and all necessary infrastructure for **vaccine preservation**, including **fridges, generators and gasoline**.
+>chronically 长期地；慢性地   
+>malnourished[mælˈnɜrɪʃt] 营养不良的    
+>be incapable to deal with  不足以应对    
+>vaccine preservation 疫苗保存   
+
 长期以来，朝鲜民众营养不良，而且未接种疫苗，该国药品所剩无几，而且卫生基础建设不足以应对这场大流行，国际社会应该提供治疗新冠感染相关症状的药物，新冠抗病毒药物，并提供疫苗和一切保存疫苗所需的基础设施，包括冷柜、发电机和汽油。
 
-Coinbase, the large cryptocurrency exchange, tanked in value. A cryptocurrency that promoted itself as a stable means of exchange collapsed. The crypto world went into a full meltdown this week in a sell-off that graphically illustrated the risks of the experimental and unregulated digital currencies. Critics said the collapse was long overdue, while some traders compared the alarm and fear to the start of the 2008 financial crisis.
+Coinbase, the large **cryptocurrency exchange**, **tanked in value**. A cryptocurrency that **promoted itself as a stable means of exchange** collapsed. The crypto world went into a **full meltdown** this week in a **sell-off that graphically illustrated** the risks of the **experimental and unregulated** digital currencies. Critics said the collapse was **long overdue**, while some traders compared the alarm and fear to the start of the 2008 financial crisis.
+>cryptocurrency exchange 加密货币交易所    
+>a stable means of exchange 一种稳定交易手段    
+>meltdown n.崩溃；核反应堆核心熔毁；垮台    
+>graphically adv.以书画(或图表)形式；形象地；生动地；逼真地    
+>graphically illustrate 生动地说明了   
+>long overdue 姗姗来迟；早已超过时间
+
 大型加密货币交易所Coinbase市值暴跌。一种自称是稳定交易手段的加密货币崩溃了。加密货币世界在本周的抛售中彻底崩溃，这生动地说明了试验性和不受监管的数字货币存在的风险。批评人士表示，这次崩溃早该发生了，而一些交易员则将这种警报和担忧与2008年金融危机开始之时相提并论。
 
-Big banks like Northern Trust and Bank of America also streamed in, along with hedge funds, some using debt to further juice their crypto bets. Those factors have compounded a so-called pandemic hangover that began as life started returning to normal in the United States
+Big banks like Northern Trust and Bank of America also **streamed in**, **along with hedge funds**, some using debt to **further juice their crypto bets**. Those factors have **compounded a so-called pandemic hangover** that began as life started **returning to normal** in the United States
+>stream in 涨潮般涌来; 涌入；络绎进入   
+>hedge funds 对冲基金    
+>juice n.果汁；肉汁；胃液 v.榨汁；榨出    
+>further juice crypto bets 进一步充实自己的加密货币投资    
+>compound n.大院；化合物；合成物；合成词 v.合成；加重；构成；使…复杂化    
+>hangover n.宿醉(过量喝酒后第二天的头痛以及恶心反应)     
+>compound a so-called pandemic hangover 加剧了所谓“疫情后遗症”
+
 北方信托银行和美国银行等大银行以及对冲基金也纷纷涌入，一些对冲基金利用债务进一步充实自己的加密货币投资。这些因素加剧了随美国生活恢复正常而开始的所谓“疫情后遗症”
 
-the average Bitcoin owner on Coinbase would not lose money until the digital currency’s price sank below $21,000. That, according to Mr. Dolev, is where a true death spiral could occur. Bitcoin was working as long as no one lost money, Once it gets back to those levels, that’s sort of the ‘Oh, my God’ moment. Professional investors who have weathered past crypto volatility also stayed calm. Some were even trying to capitalize on the drop.
+The average Bitcoin owner on Coinbase would not lose money until the digital currency’s price **sank below** $21,000. That, according to Mr. Dolev, is where a true **death spiral** could occur. Bitcoin was working **as long as** no one lost money, Once it gets back to those levels, that’s sort of the ‘Oh, my God’ moment. Professional investors who have **weathered past crypto volatility** also stayed calm. Some were even trying to **capitalize on the drop**.
+>capitalize on the drop 利用这次下跌赚钱    
+>death spiral 死亡旋涡    
+>weather past crypto volatility 过去经历过加密货币波动
+
 Coinbase上的一般比特币持有者都不会亏损。多勒夫认为，只有到发展到那个地步，才有可能出现真正的死亡旋涡。只要没人赔钱，比特币就能运转，一旦它回到那个价位，那才是会喊出‘我的妈呀’的时候。过去经历过加密货币波动的专业投资者也保持了冷静。有些人甚至试图利用这次下跌赚钱。
 
-A perfect replica requires imperfection. Take a grilled fish: Uniform all over, flawless in color and texture, it tells you nothing. But let’s say its silvery skin is marked with bubbles of assorted sizes, delicate crinkles and slightly uneven washes of carbonization. Let’s say the fish’s eyes are clouded over from the heat. And its markings, when you look closer, suggest it was flipped over the charcoal, showing you, under the gloss of its own rendered fat, a hot spot, where the heat on this nonexistent grill was more intense.
+A perfect replica requires **imperfection**. Take a **grilled fish**: **Uniform all over**, **flawless** in color and texture, it **tells you nothing**. But let’s say its silvery skin is **marked with bubbles** of **assorted sizes**, **delicate crinkles** and **slightly uneven washes of carbonization**. Let’s say the fish’s eyes are **clouded** over from the heat. And its markings, when you look closer, suggest it was **flipped** over the **charcoal**, showing you, under the **gloss** of its own **rendered fat, a hot spot**, where the heat on this nonexistent grill was more **intense**.
+>imperfection 缺点；瑕疵    
+>tell nothing but the truth 只说实话    
+>assorted 各种各样的；混杂的；什锦的    
+>assorted sizes 大小不一的尺寸    
+>delicate[ˈdelɪkət] 精致的，微妙的，脆弱的，熟练的，柔和的   
+>crinkle[ˈkrɪŋk(ə)l] n.褶痕；皱纹 v.(尤指皮肤、布料或纸张)变皱    
+>delicate crinkles 细微的皱褶   
+>carbonization[ˌkɑrbənaɪ'zeɪʃn] n.碳化(作用)    
+>slightly adv.稍微；略微；轻微地；   
+>uneven adj.凹凸不平的；不平坦的；无定型的；不规则的   
+>slightly uneven washes of carbonization 稍有些不均匀的碳化痕迹    
+>clouded adj.阴云密布的；有暗影的   
+>charcoal[ˈtʃɑrˌkoʊl] n.炭；深灰色   
+>gloss[ɡlɔs] n.光亮；亮光漆 v.在…上作注释    
+>rendered fat 炼好的油脂
+
 瑕疵使仿制品看上去更完美。拿烤鱼来说：整条鱼外观均匀，颜色和质地完美无瑕，它不像真的。但是假设它的银色鱼皮上有大小不一的泡泡、细微的皱褶和稍有些不均匀的碳化痕迹。假设鱼眼由于炙热而变得浑浊。当你仔细查看的时候，它身上的痕迹暗示着它在炭火上被翻了个面，在它泛着光泽的油脂下面，火力在那个不存在的烤架上变得更猛了。
 
-The popular life-size food models known as shokuhin sampuru, displayed outside countless casual Japanese restaurants, function as promotional materials first, a way to boost sales. But the craftsmanship of a food model can be extraordinary — a fish so ridiculously crammed full of detail, so obsessively recreated, that you want the replica itself.
+The **popular life-size food models** known as shokuhin sampuru, displayed outside **countless casual Japanese restaurants**, function as **promotional materials** first, a way to **boost sales**. But the **craftsmanship** of a food model can be extraordinary — a fish so **ridiculously crammed** full of detail, so **obsessively recreated**, that you want the **replica itself**.
+>life-size 与真人（或实物）一样大小的    
+>countless 无数的   
+>promotional materials 宣传材料   
+>craftmanship n.工艺; 手艺；技艺   
+>crammed 塞满的；挤满的    
+>obsessive[əbˈsesɪv] 着迷的；迷恋的；难以释怀的 n.强迫症患者
+
 这种与实物一般大小的食物仿制品很受欢迎，它们被称为“食品样品”，无数普通日本餐厅都将其摆放在店外做展示，首先作为宣传材料，用于促进销售。但食物仿制品的工艺有时实在是非同一般——一条鱼身上的细节多得不可思议，重塑过程近乎偏执，以至于你想要这个仿制品本身。
 
-media painted a picture of a city slowly returning to normal. One article described the “hustle and bustle of city life” returning, while another focused on statistics for how many stores had reopened.
+Media **painted a picture** of a city **slowly returning to normal**. One article described the “**hustle and bustle of city life**” returning, while another focused on statistics for how many stores had reopened.
+>hustle[ˈhʌs(ə)l] v.推搡；催促(某人作决定)；兜售 n.忙碌喧嚣     
+>bustle[ˈbʌs(ə)l] n.喧闹；忙乱嘈杂；v.四下忙碌；催促    
+>hustle and bustle 熙熙攘攘
+
 媒的报道却描述这座城市在慢慢恢复正常。一篇文章说，“熙熙攘攘的城市生活”已在回归，而另一篇报道则强调了重新开业的商店数量。
 
-Investors and business leaders worry that rigid adherence to its zero-Covid policy could send the economy into free fall. It is high time for the government to change its strategy.
+Investors and business leaders worry that **rigid adherence** to its zero-Covid policy could **send the economy into free fall**. It is **high time** for the government to change its strategy.
+>adherence[ədˈhɪrəns] n.坚持；遵守；遵循   
+>rigid adherence 严格坚持    
+>free fall 自由落体    
+>high time 不早不晚恰当时；正是时候；亢奋时刻
+
 投资者和商界领袖担心，严格坚持清零政策，可能会导致经济出现自由落体式的下滑。现在是政府改变政策的时候了
 
-Police said that Gendron had traveled to Buffalo the day before the shooting and had done reconnaissance on Tops market. This is someone who had hate in their heart, soul and mind. The attack Saturday was the deadliest mass shooting in the United States this year, joining a roster of other racist massacres in recent years
+Police said that Gendron had traveled to Buffalo **the day before the shooting** and had **done reconnaissance** on Tops market. This is someone who had hate in their heart, soul and mind. The attack Saturday was the **deadliest mass shooting** in the United States this year, **joining a roster of** other racist massacres in recent years
+>reconnaissance[rɪˈkɑnɪsəns] n.侦察；踏勘；勘察      
+>roster[ˈrɑstər] n.值勤名单；候选名单 v.将..列入值勤名单    
+>a roster of 一系列；一连串
+
 警方表示，在枪击发生的前一天，金德伦曾前往布法罗，在托普斯超市踩点。这是一个内心、灵魂和思想里充满仇恨的人。周六的袭击是今年美国死亡人数最多的大规模枪击事件，近年来发生了一系列种族主义屠杀事件
 
-Don’t tell me you’re a friend of our community and you don’t address this today at your pulpit, If you do not stand behind those holy desks and acknowledge that there are still people who hate Black people, you can go to hell with the shooter for all I care. 
+Don’t tell me you’re a friend of our community and you don’t address this today at your **pulpit**, If you do not stand behind those holy desks and **acknowledge that** there are still people who hate Black people, you can go to hell with the shooter for all I care. 
+>pulpit[ˈpʊlpɪt] 小讲坛
+
 如果今天你没有在你的讲坛上讨论这个问题，就不要告诉我你是我们社区的朋友，如果你不站在那些神圣的桌子后面，承认仍然有憎恨黑人的人，你可以和枪手一起下地狱，我不在乎。
 
-Gendron described as “definitely a little bit of an outcast” and just wasn’t that social, resided in Conklin, New York, a suburban town with rolling hills in the southern part of Broome County, about 200 miles from Buffalo.
+Gendron described as “**definitely a little bit of an outcast**” and just wasn’t that social, resided in Conklin, New York, a suburban town **with rolling hills** in the southern part of Broome County, about 200 miles from Buffalo.
+>outcast 被逐出(家庭,国家)的；被遗弃的；无家可归的 n.被抛弃者；被排斥者    
+>with rolling hills 山丘连绵的
+
 金德伦被形容为“确实有点像社会弃儿”, 确实不善于社交, 住在康克林, 布鲁姆县南部一个山丘连绵的郊区小镇，距离布法罗约200英里。
 
-On Sunday, however, Gramaglia rebutted this suggestion, saying that his officers always worked to de-escalate violent situations. Gendron livestreamed his attack, police said, capturing the images of chaos he caused with a camera affixed to his helmet. 
+On Sunday, however, Gramaglia **rebutted this suggestion**, saying that his officers always worked to **de-escalate violent situations**. Gendron **livestreamed** his attack, police said, capturing the images of chaos he caused with a camera **affixed to his helmet**. 
+>rebut[rɪˈbʌt] v.反驳；驳斥      
+>affix[ˈæˌfɪks] v.附上；粘上；贴上 n.词缀    
+>helmet[ˈhelmət] n.头盔；防护帽 v.给…戴上头盔
+
 不过，格拉马格利亚在周日反驳了这一说法，称他的警官一直致力于缓和暴力局势。警方说，金德伦对袭击过程进行了直播，用头盔上的摄像头拍下他制造的混乱场面。
 
-Along with other Buffalo residents, Hochul stressed that she wanted the city to be known as a turning point in the nation’s string of gun tragedies. But she also expressed deep frustration with “the social media platforms that allow this hatred to ferment and spread like a virus.”
+**Along with** other Buffalo residents, Hochul **stressed that** she wanted the city to be known as a **turning point** in the nation’s **string of gun tragedies**. But she also **expressed deep frustration** with “the social media platforms that allow this **hatred to ferment** and spread like a virus.”
+>along with 伴随；和…一起    
+>turning point 转折点    
+>string of gun tragedies 一连串枪击案悲剧    
+>express deep frustration 深表失望    
+>hatred[ˈheɪtrəd] n.仇恨；憎恨；厌恶    
+>ferment[ˈfɜrˌment] n.酶；激动；热情；巨浪 v.(使)发酵；(使)激动；孕育    
+
 与其他布法罗居民一样，霍楚尔强调，她希望这座城市成为全国枪击案悲剧的转折点。但她也对“让这种仇恨像病毒一样发酵和传播的社交媒体平台”深表失望。
 
-The two Scandinavian states have in effect made clear that they expect the threat from President Vladimir V. Putin’s Russia to be enduring, that they will not be cowed by it. Military nonalignment has served Sweden well, but our conclusion is that it won’t serve us equally well in the future, This is not a decision to be taken lightly.
+The two Scandinavian states have **in effect made clear that** they expect the threat from President Vladimir V. Putin’s Russia to **be enduring**, that they will not **be cowed by** it. **Military nonalignment** has served Sweden well, but our conclusion is that it won’t **serve us equally well** in the future, This is not a decision to **be taken lightly**.
+>in effect 实际上；总之    
+>enduring 持久的；耐久的    
+>cow n.母牛；v.恐吓；威吓    
+>military nonalignment 军事不结盟    
+
 这两个斯堪的纳维亚国家实际上是在表明，他们预计俄罗斯在普京总统领导下将持续构成威胁，而他们不会被其吓倒. 军事不结盟给瑞典带来了好处，但我们的结论是，它在未来不会对我们有同样的好处, 这不是一个轻易做出的决定。
 
-This is a new Europe in which there is no more in-between space. Germany, a generally pacifist nation since it emerged from the rubble of 1945, has embarked on a massive investment in its armed forces, as well as an attempt to wean itself of dependence on energy from a Russia it had judged as, if not innocuous, at least a reliable business partner.
+This is a new Europe in which there is **no more in-between space**. Germany, a **generally pacifist nation** since it **emerged from the rubble** of 1945, has **embarked on** a massive investment in its armed forces, as well as **an attempt to wean** itself of dependence on energy from a Russia it had **judged** as, if not **innocuous**, at least a reliable business partner.
+>in-between 中间的 n.在中间     
+>in-between space 夹缝空间    
+>pacifist[ˈpæsɪfɪst] n.和平主义者；绥靖主义者；反战主义者 adj.同“pacifistic”    
+>generally pacifist nation 总体上和平主义的国家      
+>rubble n.碎石；碎砖    
+>embark on 从事；开始；着手    
+>wean[win] n.小儿；婴儿 v.使(婴儿或动物幼崽)断奶   
+>innocuous[ɪˈnɑkjuəs] 无恶意的；无害的；无危险的
+
 这是一个没有夹缝空间的新欧洲。自1945年的废墟中走出来的德国总体上是一个和平主义的国家，如今已开始大举投资其武装部队，并试图摆脱对俄罗斯能源的依赖，它曾认为俄罗斯即使不是完全无害，至少也是一个可靠的商业伙伴。
 
-Sweden’s governing Social Democratic Party, the country’s largest party and long a bastion of nonalignment, has embraced NATO membership in an extraordinary turnabout. Putin climbed into a tree and does not know how to get down
+Sweden’s **governing** Social Democratic Party, the country’s largest party and **long a bastion of nonalignment**, has embraced NATO membership in an **extraordinary turnabout**. Putin **climbed into a tree and does not know how to get down**
+>bastion[ˈbæstʃ(ə)n] n.堡垒；捍卫者；防御工事     
+>nonalignment     n.不结盟    
+>turnabout n.突变；一百八十度的大转弯；变卦     
+>climb into a tree and do not know how to get down 骑虎难下
+
 瑞典执政的社会民主党是该国最大的政党，长期以来一直是不结盟的捍卫者，现在却接受了北约成员国身份，这是一个非同寻常的转变。普京骑虎难下
 
-In practice, both Finland and Sweden have lived for a long time with Russian nuclear weapons in nearby Kaliningrad, the Russian enclave sandwiched between Poland and Lithuania on the Baltic coast. But the security gains with NATO are incomparably higher than any added risk.
+**In practice**, both Finland and Sweden have lived for a long time with Russian nuclear weapons in **nearby** Kaliningrad, the Russian **enclave sandwiched** between Poland and Lithuania on the **Baltic coast**. But the **security gains** with NATO are **incomparably higher than** any added risk.
+>sandwich n.三明治；夹心面包片；v.把…夹[挤]在(两层[者])中间    
+>security gains 安全收益    
+>imcomparably 无比地；不可比地
+
 实际上，芬兰和瑞典长期以来都要忍受附近加里宁格勒的俄罗斯核武器的存在。加里宁格勒是夹在波罗的海沿岸波兰和立陶宛之间的一块俄罗斯飞地。但北约带来的安全收益远高于任何新增的风险。
 
-Germany and France, were more intent on enjoying the peace dividend of the Cold War’s end than looking Mr. Putin’s ambitions in the eye. For a long time, even up to the eve of the Russian invasion, Europe has been divided. These illusions persisted even after Mr. Putin annexed Crimea. the thorny issue of Ukraine’s membership was left floating by Western leaders who did not want to provoke Mr. Putin further.
+Germany and France, were **more intent on enjoying the peace dividend** of the Cold War’s end than looking Mr. Putin’s ambitions in the eye. For a long time, **even up to the eve of** the Russian invasion, Europe has been divided. These **illusions persisted** even after Mr. Putin **annexed Crimea**. the **thorny issue** of Ukraine’s membership **was left floating** by Western leaders who did not want to provoke Mr. Putin further.
+>be intent on 对某事专心致志；决心要做；专心于     
+>the peace dividend 和平红利     
+>annex[ˈæˌneks] n.附件；附属品；附属建筑 v.强占；附加；并吞   
+>thorny[ˈθɔrni] 棘手的；麻烦的；引起争议的；有刺的     
+>thorny issue 棘手问题    
+
 德国和法国，则更倾向于享受冷战结束的和平红利，而不是正视普京的野心。很长一段时间，甚至直到俄罗斯入侵前夕，欧洲都存在分歧。后来，这些幻想依然存在，即使普京吞并克里米亚。西方领导人由于不想进一步激怒普京而搁置了让乌克兰加入北约这一棘手问题
 
-The vitriol can be overwhelming. Inundated by derogatory messages, he had to change his user name to stop harassers from tracing him.
+The **vitriol** can be **overwhelming**. **Inundated by derogatory** messages, he had to change his user name to **stop harassers from tracing** him.
+>vitriol[ˈvɪtriəl] v.用硫酸烧伤；用硫酸处理 n.尖刻无情的话(或批评)    
+>inundate[ˈɪnənˌdeɪt] v.淹没；使不胜负荷；使应接不暇；泛滥    
+>derogatory[dɪˈrɑɡəˌtɔri] 贬低的；贬义的
+
 谩骂可能是压倒性的。铺天盖地的辱骂信息之下，他不得不更改自己的用户名，阻止骚扰者的追踪。
 
-Officials declared they had achieved “societal zero,” Shanghai’s cooking oil smell is returning. Schools remain closed, as do theaters, gyms and other cultural venues. The city would prioritize restarting work at industrial facilities
+Officials declared they had achieved “**societal zero**,” Shanghai’s **cooking oil smell** is returning. Schools remain closed, as do theaters, gyms and other **cultural venues**. The city would **prioritize restarting work** at industrial facilities
+>societal[səˈsaɪət(ə)l] 社会的    
+>cooking oil smell 烟火气   
+>cultural venues 文化场所
+
 官员已经宣布实现了“社会面清零”，上海的烟火气正在回来. 学校仍关闭，剧院、体育馆和其他文化场所也没有开放。上海将优先恢复企业的生产工作。
 
-Asked why he was locking the doors, he let his black shirt, emblazoned with what appeared to be the word “security,” speak for him. It was not until he opened fire with one of his two semiautomatic pistols that the crowd of 150 or so churchgoers, most of them retirees, took notice. Only then, scattering in terror, did they realize that the doors to the multipurpose room at the suburban Southern California campus where they were meeting had been chained, nailed and super-glued shut.
+Asked why he was locking the doors, he let his black shirt, **emblazoned with** what appeared to be the word “security,” speak for him. It was not until he opened fire with one of his two **semiautomatic pistols** that the crowd of 150 or so **churchgoers**, most of them retirees, took notice. Only then, **scattering in terror**, did they realize that the doors to the** multipurpose room** at the suburban Southern California campus where they were meeting had been **chained, nailed and super-glued shut**.
+>emblazoned[ɪmˈbleɪz(ə)nd] with 用..装饰的     
+>scatter[ˈskætər] v.撒；四散；驱散；撒播 n.散落；三三两两；零零星星    
+
 接待员问他为什么要把门锁上时，他用身上穿的印有看似“保安”二字的黑衫做了回答。直到他用携带的两支半自动手枪中的一支开火后，房间的大约150名教徒（其中大多数是退休人员）才注意到他。人们在惊恐之中向房间出口四散时才意识到，这个位于南加州郊区的多功能厅的门已被铁链、钉子和强力胶合剂封死。
 
-Mr. Chou had apparently acted alone, setting an elaborate trap, although it was not clear why he had chosen this out-of-the-way church as a target. 
+Mr. Chou had **apparently acted alone**, setting an **elaborate trap**, although it was not clear why he had chosen this **out-of-the-way church** as a target. 
+>elaborate trap 复杂的陷阱    
+>out-of-the-way church 偏远的教堂
+
 周文伟显然是单独行动，他设置了一个复杂的陷阱，但尚不清楚他为什么选择了这个偏远的教堂作为目标。
 
-Dr. Cheng, who is survived by his wife and two teenage children, was also an accomplished master martial arts instructor. Raised in Texas, the physician was not religious and did not have strong political views about China, but was there in solidarity with his mother. He was there for a reason.
+Dr. Cheng, who **is survived by** his wife and two teenage children, was also **an accomplished master martial arts instructor**. **Raised** in Texas, the physician **was not religious** and did not have strong **political views** about China, but **was there in solidarity** with his mother. He **was there for a reason**.
+>accomplished 才华高的；技艺高超的；熟练的   
+>instructor n.指导员；教练；讲师     
+>martial arts instructor 武术教练     
+>solidarity[ˌsɑlɪˈderəti] n.团结；齐心协力；同心同德；相互支持   
+
 郑达志医生也是一位杰出的武术教练。他的遗属包括他的妻子和两个十几岁的孩子。这位在得克萨斯州长大的医生并不信教，对中国没有强烈的政治观点，在那里是为了陪伴母亲, 他在那里是冥冥之中的安排
 
-those in the community generally tried to steer clear of politics of any kind in conversations. But she added that the confluence of the coronavirus, the rise in racist acts against people of Asian descent, and Russia’s war in Ukraine had created a simmering environment that was inescapable, even in an ordinary peaceful haven.
+Those in the community generally tried to **steer clear of** politics of any kind in conversations. But she added that the **confluence** of the coronavirus, the rise in racist acts against **people of Asian descent**, and Russia’s war in Ukraine had **created a simmering environment** that was **inescapable**, even in an **ordinary peaceful haven**.
+>steer clear of 避开；绕开   
+>confluence n.汇聚；交汇处   
+>descent[dɪˈsent] n.下降；血统；祖先；斜坡    
+>simmer[ˈsɪmər] v.煨；徐徐沸腾；(危机等)处于酝酿中    
+>simmering 一触即发的      
+>inescapable[ˌɪnɪˈskeɪpəb(ə)l] 不可避免的；逃避不了的；不能忽视的    
+>peaceful haven 宁静避风港
+
 社区居民通常会尽量不谈政治。但她又说，新冠病毒、针对亚裔的种族主义行为的增加，以及俄罗斯在乌克兰的战争等因素叠加起来，导致了一个一触即发的环境，这无法避免，即使在一个普通的宁静避风港也是如此
 
-In school, she was taught a “startlingly Victorian” curriculum “designed to ensure that we did not identify too closely with any place.” Children did not learn the bloody means by which Britain had come to acquire Hong Kong, with the real motive of renewing its illegal opium trade in China.
+In school, she was taught a **“startlingly** Victorian” **curriculum** “designed to ensure that we did not identify too closely with any place.” Children did not learn the **bloody means** by which Britain had come to acquire Hong Kong, with the **real motive of renewing its illegal opium trade** in China.
+>startling[ˈstɑrt(ə)lɪŋ] 惊人的；让人震惊的；极鲜亮的   
+>startle[ˈstɑrt(ə)l] n.吃惊 v.使惊吓；使吓一跳；使大吃一惊    
+>the bloody means 血腥手段    
+>renew illegal opium trade 恢复非法鸦片贸易
+
 她的学校传授“令人吃惊的维多利亚时代”守旧课程，“旨在确保我们不会与任何地方有过于紧密的认同。”孩子们没有了解到英国以血腥手段夺取香港，其真正目的是在中国恢复非法鸦片贸易
 
-Throughout this colonial history Lim sprinkles vivid details that underscore the racism and “willful disregard” with which Britain governed its last major colony.
+Throughout this **colonial history** Lim **sprinkles vivid details** that **underscore** the racism and “**willful disregard**” with which Britain governed its last major colony.
+>throughout prep.遍及各处；自始至终；贯穿整个时期 adv.全部；自始至终；到处；彻头彻尾     
+>throughout this colonial[kəˈloʊniəl] history 在这段殖民历史中    
+>sprinkle[ˈsprɪŋk(ə)l] v.把…撒(或洒)在…上；喷淋 n.小雨    
+>vivid[ˈvɪvɪd] 清晰的；生动的；逼真的；鲜明的   
+>willful[ˈwɪlfəl] 故意的；任性的   
+>willful disregard 故意无视
+
 在这段殖民历史中，林慕莲用生动的细节强调了英国统治其最后一个重要殖民地时的种族主义和“故意无视”。
 
-In “The Impossible City,” Cheung likewise distinguishes among the multiple universes that make up modern Hong Kong. There is the “cosmopolitan city,” home to international students and expats whose idea of paradise is Lan Kwai Fong, “a bar-infested slope of drunk men and Jell-O shots,” who proudly tell people they’re from Hong Kong but are “barely able to describe the city without talking about Mong Kok or char siu rice.”
+In “The Impossible City,” Cheung **likewise distinguishes among the multiple universes** that **make up** modern Hong Kong. There is the “**cosmopolitan city**,” home to international students and **expats** whose idea of paradise is Lan Kwai Fong, “a **bar-infested slope of** drunk men and Jell-O shots,” who **proudly tell** people they’re from Hong Kong but are “**barely able to describe** the city without talking about **Mong Kok or char siu rice**.”
+>likewise adv.同样地；也；类似地；还      
+>expat[eksˈpæt] 外籍雇员；外籍人士     
+>infest[ɪnˈfest] v.大量滋生；大批出没于    
+>slope n.斜坡；坡地；山坡 v.倾斜；悄悄地走；潜行   
+>jell[dʒel] v.联手共事；结为一体；显得更明确 n.果子冻；肉冻；胶状物    
+>Jell-O n.(美商标名)吉露牌果子冻    
+>Jell-O shot 即饮果冻酒
+
 同样地，在《无可奈何的城市》中，张嘉伦将构成现代香港的多个宇宙区分开来。其中一个是“国际大都会”，是国际学生和外籍人士的家园，他们的天堂是兰桂坊，“一条酒吧林立的坡道，到处是醉汉和果冻酒”，他们自豪地告诉人们他们是香港人，但“除了谈论旺角或叉烧饭，几乎不知道怎么描述这座城市”。
 
-The first Hong Kongers, so the myth goes, were rebels. In the fifth century a Chinese official named Lu Xun incited a rebellion against the Jin dynasty. He lost, and fled with his army to Lantau, one of Hong Kong’s islands, where they lived in caves and ate so much raw fish that, according to one popular version of the legend, they grew fish heads. Indigenous Hong Kongers, the so-called Lo Ting, are said to be these insurrectionist mermen.
+The first Hong Kongers, **so the myth goes**, were rebels. In the fifth century a Chinese official named Lu Xun **incited a rebellion against** the Jin dynasty. He lost, and **fled** with his army to Lantau, one of Hong Kong’s islands, where they **lived in caves and ate so much raw fish** that, **according to one popular version** of the legend, they **grew fish heads**. Indigenous Hong Kongers, the so-called Lo Ting, are said to be these **insurrectionist mermen**.
+>the myth goes 据传说; 按神话讲的         
+>incite a rebellion 煽动反叛    
+>insurrectionist[ˌɪnsə'rekʃənɪst] 起义者，造反者；暴动者   
+>merman 鱼人；人鱼士兵
+
 传说最早的一批香港人都是忤逆之辈。公元5世纪，也就是东晋年间，一个名叫卢循的官吏揭竿而起，后败退至香港的大屿山。在这座岛上，他们住山洞，吃生鱼，根据一个广为流传的版本，他们长出了鱼头。据说，卢亭人，也就是香港最早的居民，正是这些造反的人鱼
 
 At his side was his **closest ally** in Western Europe, Silvio Berlusconi, the **media mogul** and Italian prime minister of **legendarily hedonist appetites** with whom he **shared a taste for raunchy jokes**, **over-the-top furnishings** and vast wealth.
