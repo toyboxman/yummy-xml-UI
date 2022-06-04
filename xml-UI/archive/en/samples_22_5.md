@@ -130,16 +130,52 @@ French diplomats with ties to Mr. Macron described the evolving American policy 
 Other analysts argue that the threats to Western unity are overdone. The moves by Finland and Sweden to join NATO suggest not only that the alliance is pulling together but also that its center of gravity is shifting eastward.
 另有分析人士认为，西方国家的团结受到威胁的看法有些夸张了。芬兰和瑞典加入北约的举动不仅表明北约正在团结起来，而且其重心正在向东转移。
 
-We tend to think of corruption as a failure of morality, when a greedy person decides to benefit by steering public resources toward private gain. But while that’s not exactly untrue, it misses the most important thing: namely, that corruption is a group activity. You need bribe-payers and bribe-takers, resource-diverters and resource-resellers, look-the-other-wayers and demand-a-share-of-the-takers.
+We **tend to think of corruption** as a **failure of morality**, when a greedy person decides to benefit by **steering public resources toward private gain** . But while that’s not **exactly untrue**, it misses the most important thing: **namely**, that corruption is a group activity. You need **bribe-payers and bribe-takers**, **resource-diverters** and **resource-resellers**, **look-the-other-wayers** and **demand-a-share-of-the-takers**.
+>failure of morality 道德的失败    
+>private gain 私人利益   
+>untrue 不真实的；假的；无事实根据的    
+>exactly untrue 完全错误    
+>namely adv.换句话说；即；也就是    
+>bribe-payers 行贿者    
+>bribe-takers 受贿者   
+>resource-diverters 资源分流者    
+>look-the-other-wayers 另辟蹊径者    
+>demand-a-share-of-the-takers 要求分一勺羹者
+
 我们倾向于认为腐败是道德的失败，是一个贪婪的人决定将公共资源用于私人利益。但是，尽管这种观点并非完全错误，但它忽略了最重要的一点：腐败是一种群体活动。你需要贿赂者和受贿者，资源分流者和资源转售者，另辟蹊径者和要求分一勺羹者。
 
-What is different with systemic corruption is that it’s the expected behavior, Those who refuse to participate in the parallel economy of favors and bribes get passed over for promotion, cut off from benefits, and frozen out of power. Meanwhile, those who are skilled at corruption rise through the ranks, gaining more authority, more resources to distribute to cronies, and more ability to punish anyone who poses a threat to them. The result is a system where power and wealth accrue to those willing to play the corruption game, and those who are not get left behind.
+What is different with **systemic corruption** is that it’s the **expected behavior**, Those who **refuse to participate in the parallel economy** of favors and **bribes get passed** over for promotion, **cut off from benefits**, and **frozen out of power**. Meanwhile, those who **are skilled at** corruption **rise through the ranks**, gaining more authority, more resources to **distribute to cronies**, and more ability to punish anyone who **poses a threat** to them. The result is a system where **power and wealth accrue** to those willing to **play the corruption game**, and those who are not get left behind.
+>be skilled at 善于；精通    
+>systemic corruption 系统性腐败   
+>expected behavior 预期中的行为    
+>cut off from 与…隔断了；与什么隔绝    
+>rise through the ranks 逐步晋升    
+>crony[ˈkroʊni] 好朋友；亲信    
+>pose a threat 造成威胁    
+>accrue[əˈkru] v.(逐渐)增长；积累(钱款或债务)    
+>power and wealth accrue 权力和财富积累
+
 系统性腐败的不同之处在于，它是人们预期中的行为. 如果拒绝参与这种人情和贿赂的并行经济，就会被排除在晋升之外，被剥夺福利，被冻结在权力之外。与此同时，擅长腐败的人会步步高升，获得更多权力，拥有更多资源分配给亲信，更有能力惩罚任何对他们构成威胁的人。其结果是，权力和财富流向那些愿意参与腐败游戏的人，而那些不愿意参与腐败游戏的人则被抛在后面。
 
-The narratives Mr. Putin has been spinning to justify his war in Ukraine are very much in line with the grand, nostalgic narratives of Victory Day. Victory Day military parades in major Russian cities are followed by marches of ordinary citizens carrying pictures of relatives who fought in the war. Hundreds of thousands, if not millions, take part in “Immortal Regiment” marches honoring the soldiers and civilians who fought and died in the war. On Red Square, the event also features a display of historical military weapons, modern tanks and missile systems and other expressions of Russian military grandeur.
+The **narratives** Mr. Putin has **been spinning to justify** his war in Ukraine are very much **in line with the grand, nostalgic narratives** of Victory Day. Victory Day **military parades** in major Russian cities are followed by marches of ordinary citizens carrying pictures of relatives who **fought** in the war. Hundreds of thousands, if not millions, **take part in “Immortal Regiment” marches** honoring the soldiers and civilians who fought and died in the war. **On Red Square**, the event also **features a display** of historical military weapons, modern tanks and missile systems and other expressions of Russian **military grandeur**.
+>nostalgic[nɒˈstældʒik] 怀旧的；令人怀念的   
+>nostalgic narratives 怀旧的叙事    
+>immortal[ɪˈmɔrt(ə)l] 长生的；永世的；不朽的；n.不朽的人物    
+>regiment[ˈredʒɪmənt] 军团；大量；v.把…编成团；使(职工,劳动者等)组织化；把…编成组    
+>feature a display 展示    
+>grandeur[ˈɡrænˌdʒʊr] n.壮丽；伟大；宏伟
+
 普京一直在为他入侵乌克兰辩护，故意按照胜利日宏大、怀旧的叙事来描述这场战争。俄罗斯的主要城市都将举行胜利日阅兵式，随后是举着参加“二战”亲人照片的普通市民的游行。每年，即使没有百万，也是数十万人参加“不朽团”游行，纪念“二战”中作战和死亡的士兵和平民。红场上还有展示历史上的军事武器、现代的坦克和导弹系统，以及其他显示俄罗斯军队气势的活动。
 
-The shift from general to limited conquest was already a concession on Russia’s part. The Russian leadership has blamed a single factor: It claims to be fighting not just Ukraine but the NATO system in Eastern Europe. Hubris and clumsy tactics are more to the point. Negotiations between Ukraine and Russia were always fraught but contained moments of promise. They have now stalled completely. Russia bears its fair share of responsibility, of course. But European channels to Moscow have been all but severed
+The shift from general to **limited conquest** was already a **concession** on Russia’s part. The Russian leadership has **blamed a single factor**: It claims to be fighting not just Ukraine but the NATO system in Eastern Europe. **Hubris and clumsy tactics** are more to the point. Negotiations between Ukraine and Russia **were always fraught** but **contained moments of promise**. They have now **stalled completely**. Russia **bears its fair share of responsibility**, of course. But European channels to Moscow have been all but **severed**
+>sever[ˈsevər] v.割断；断绝；切开；切下    
+>bear fair share of responsibility 负一部分责任    
+>fraught[frɔt]  adj.充满(不愉快事物)的；焦虑的；忧虑的；担心的 n.货物    
+>moments of promise 希望的瞬间    
+>hubris[ˈhjubrɪs] n.傲慢；狂妄   
+>clumsy[ˈklʌmzi] 笨拙的；不灵巧的；无技巧的；笨手笨脚的   
+>clumsy tactics 笨拙的策略   
+
 从全面征服到有限征服，这一转变已经是俄罗斯方面的让步。俄罗斯领导层归咎于一个因素：它声称不仅要与乌克兰作战，还要与东欧的北约体系作战。更恰当的解释应该是傲慢和笨拙的策略。俄乌之间的谈判一直剑拔弩张，但并非没有让人看到希望的瞬间。然而现在谈判完全停滞了。对此俄方当然要负一部分责任。但欧洲与莫斯科的沟通渠道已经悉数切断
 
 Even **staunch** Ukrainian nationalists expressed views **far more pragmatic than** those that are **routine** in America now. **Talk of neutral status** for Ukraine and **internationally monitored plebiscites** in Donetsk and Luhansk has been **jettisoned in favor of bombast and grandstanding**.

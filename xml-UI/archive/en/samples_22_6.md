@@ -1,0 +1,86 @@
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+The writing had been on the wall. Only China has “both the intent to reshape the international order” and the power to do so
+征兆早已出现。中国“是唯一不仅具有重塑国际秩序的意图”，也有能力这样做的国家
+
+But it has been willing to engage diplomatically, has repeatedly championed the inviolability of state borders and is not averse to self-interested compromise over issues like trade and climate change. 
+但它一直愿意进行外交上的接触，反复强调国家主权不可侵犯，并不反对在贸易和气候变化等问题上做出符合自身利益的妥协。
+
+It’s rhetoric over Taiwan has been little more than saber-rattling and appears restrained compared to how the United States has historically treated t Latin America. Advocates of a new Cold War with China will surely roll their eyes at these assertions. 
+中国在台湾问题上的言辞一直都没太超出武力恫吓的范围，与美国在历史上对待拉丁美洲的做法相比显得还要克制. 提倡与中国进入新冷战关系的人肯定会对上述主张翻白眼。
+
+It’s rarely wise to take on two adversaries at once. Mr. Biden should find new ways to work with China, rather than trying to coerce it to be different. He should take bold steps to tone down the rhetoric
+同时与两个对手较量很少是明智之举。拜登应该找到与中国打交道的新方式，而不是试图迫使它改变自己。他应该在缓和言辞上采取大胆的步骤
+
+Packets of hemostatic granules, she found out, can stop catastrophic bleeding; decompression needles can relieve pressure in a punctured chest. Ms. Abiyeva, 37, has decided to take matters into her own hands.
+她发现，一包包止血颗粒可以阻止大出血；减压针可以为受穿刺伤的胸部缓解压力。37岁的阿比耶娃决定自己动手解决问题。
+
+One woman describes her son using a wire to reattach soles to his boots. But on the ground, the concerns are more prosaic. With the approach of summer, Lyme disease-bearing ticks are out, the group put out an urgent call for backpacks, along with shoes, Q-tips, socks, headlamps, lighters, hats, sugar and batteries.
+一名女性描述了她的儿子用一根电线将鞋底重新固定在靴子上。但在战场上，人们担忧的是一些更普通的东西。会传播莱姆病的蜱虫随着夏季的临近开始出没, 她们发出紧急呼吁提供背包、鞋子、棉签、袜子、头灯、打火机、帽子、糖和电池。
+
+he felt “shocked, disbelieving, sad, and angry” about the math book illustrations. It is impossible to overstate their importance. He called not just for corrections and apologies, but also for an investigation and for those responsible to be held accountable.
+他对数学书中的插图感到“震惊、难以置信、痛心、愤怒”。其重要性怎么说都不为过！ 他呼吁不仅要整改、道歉，还必须深挖和追责。
+
+We have organized experts to study them carefully, and humbly adopt good opinions and suggestions from all walks of life, We have carried out serious reflection, and feel deep self-blame and guilt, and hereby express our deepest apologies
+我们已“组织专家认真研究，对社会各界好的意见建议虚心采纳”，我们进行了认真反思，深感自责和内疚
+
+He said he welcomed Chinese exchange students, and that many of them stay — “They help drive innovation here at home, and that benefits all of us.”
+他说，他欢迎中国留学生，他们当中的许多人会留下来——“他们有助于推动国内的创新，这对我们大家都有利。”
+
+Beijing is fully entrenched, its power irrepressible if not always embraced. And that has left the United States playing catch-up in a vital strategic arena.
+中国已在这里完全站稳了脚跟，它的力量虽然并非总是受到欢迎，但也已经不可抑制。这使得美国在与中国的全球竞争中，要在一个愈发关键的舞台上奋起直追。
+
+At some of those old installations, there are memorial plaques in hidden corners, but the infrastructure has mostly been left to decay. 
+在其中一些老旧的设施中，有时还能在不为人知的角落里找到一些纪念牌匾，但这种基础设施大多已经荒废。
+
+We need to be moved by the pain of all of the suffering. But it is important that we are not paralyzed by it, It makes us value life because we understand life is very precious, life is very brief, it can be extinguished in a single instant.
+我们需要被所有这些苦难的痛苦触动。但重要的是，我们不要被它吓倒，它让我们珍惜生命，因为我们明白生命很宝贵，生命很短暂，可以在一瞬间熄灭。
+
+American culture often prizes individual liberty above collective needs. But ultimately humans are born to care about others and to not turn away
+美国文化常常把个人自由置于集体需求之上。但归根结底，人类生来就是要关心他人，而不是回避他人
+
+They strolled and cycled through their own city like dazed tourists. They hopped onto ferries once again, crossing the Huangpu River, and crowded onto the famed Bund waterfront. They honked car horns and lit fireworks. Everyone had these problems at the time and felt a bit confounded about what to do,
+他们像茫然的游客那样在自己的城市闲逛、骑车。他们再次登上渡船，越过黄浦江，聚集在著名的外滩。他们按着汽车喇叭，点燃烟花。当时大家都有这种问题，都有一点儿茫然不知
+
+Wagner meddles in politics, props up autocrats and orchestrates digital propaganda campaigns. It donates food to the poor and produces action movies set in Africa. It has even organized a beauty pageant.
+瓦格纳插手政治，支持独裁者，策划网上的政治宣传。它向穷人捐助食物，并制作以非洲为背景的动作电影。它甚至还组织了一次选美大赛。
+
+Some African leaders are drawn to Moscow by weapons: Russia has become the largest arms supplier in Africa. But Mr. Putin is also tapping into deep historical and political currents.
+一些非洲领导人被莫斯科的武器所吸引：俄罗斯已成为非洲最大的武器供应国。但普京也在利用深刻的历史和政治潮流。
+
+The old nuclear order, rooted in the Cold War’s unthinkable outcomes, was fraying before Russia invaded Ukraine. Now, it is giving way to a looming era of disorder unlike any since the beginning of the atomic age.
+在俄罗斯入侵乌克兰之前，旧的核秩序——源自冷战不可想象的后果——就已经开始瓦解。现在，正在取代它的是一个即将到来的混乱时代，这是自原子时代以来从未有过的。
+
+Other administration officials are more skeptical, noting that Russia’s saber rattling failed to deter the West from arming Ukraine — and that the lesson China may take away is that nuclear threats can backfire.
+其他政府官员则持怀疑态度，指出俄罗斯的武力威胁未能阻止西方武装乌克兰——中国可能得到的经验是核威胁可能适得其反。
+
+A lack of buy-in could undermine the United States’ ability to set the rules on emerging issues like the digital economy, which would give American firms a leg up. But it does not include better access to the huge U.S. import market, a crucial carrot that normally underpins trade agreements.
+缺乏共识可能会削弱美国在数字经济等新兴问题上制定规则的能力，这些规则本可让美国公司获得优势。但它不包括扩大美国巨大进口市场的准入，而这通常是支撑贸易协定的一根关键的胡萝卜。
+
+Europe’s countries, under the shortsighted leadership of the United States, were “sleepwalking” into war with Russia. Mr. Guaino was borrowing a metaphor that the historian Christopher Clark used to describe the origins of World War I.
+在目光短浅的美国带领下，欧洲国家正在“梦游”般走入与俄罗斯的战争。盖伊诺的这一比喻借用了历史学家克里斯托弗·克拉克对“一战”起源的描述。
+
+On Nov. 10, 2021, the United States and Ukraine signed a “charter on strategic partnership” that called for Ukraine to join NATO, condemned “ongoing Russian aggression” and affirmed an “unwavering commitment” to the reintegration of Crimea into Ukraine.
+2021年11月10日，美国与乌克兰签署了“战略合作伙伴宪章”，呼吁让乌克兰加入北约，谴责了“俄罗斯仍在进行的侵犯”，并重申了对克里米亚重新归属乌克兰的“坚定承诺”。
+
+To make concessions to Russia would be submitting to aggression, To make none would be submitting to insanity. The United States is making no concessions. That would be to lose face. There’s an election coming. So the administration is closing off avenues of negotiation and working to intensify the war. 
+对俄罗斯做出让步就是屈服于侵略，对一切都不让步将是屈服于疯狂。美国没有做出任何让步。那样做会颜面尽失。毕竟快要选举了。因此，政府正在关闭谈判通道并努力加剧战争。我们是奔着赢下战争去的。
