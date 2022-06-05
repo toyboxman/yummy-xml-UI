@@ -112,22 +112,70 @@ If the Chinese harvest is bad in the coming weeks, it could drive food prices up
 Deluges last autumn left the soil so waterlogged that the wheat roots could not easily penetrate it, said Ren Ruixia, a 45-year-old farmhand, as she surveyed a wheat field that looked like it had a bad haircut. The adequacy of food supplies has long been a top issue in China, agriculture ministry officials have issued warnings, although not quite as downbeat.
 今年45岁的农工任瑞霞在查看一片看起来像剪坏了发型的麦田时说，去年秋天的大雨让土壤积水严重，小麦的根部不易穿透。长期以来，充足的粮食供应在中国一直是首要问题，农业部官员也发出了警告，尽管没有那么悲观。
 
-China’s nervousness about its food stocks could ripple through the global supply chain. China’s next move will come down to the harvest. Much depends on how well drained their fields are, but everyone agreed that the rain last autumn had been remarkable. In Pingyao, the centuries-old city walls, made with mud cores, collapsed after they became sodden last fall.
+China’s **nervousness** about its **food stocks** could **ripple through the global supply chain**. China’s next move will **come down to the harvest**. Much depends on **how well drained** their fields are, but everyone agreed that the rain last autumn had been **remarkable**. In Pingyao, the **centuries-old city walls**, made with **mud cores**, collapsed after they became **sodden** last fall.
+>nervousness['nɜːvəsnəs] 神经过敏；敏感；神经紧张   
+>food stock 粮食库存   
+>ripple through the global supply chain 波及全球供应链   
+>come down to 可归结为；归根结底    
+>drain n.消耗；下水道；排水管；耗竭 v.排空；流出；流光；放干    
+>mud cores  泥砖   
+>sodden[ˈsɑd(ə)n] v.浸；使呆头呆脑；“seethe”的过去分词；浸透 adj.湿透的；湿漉漉的；
+
 中国对粮食库存的紧张情绪可能会波及全球供应链。中国接下来会怎么做，将取决于收成情况。这在很大程度上取决于各家农田的排水情况，但每个人都认为去年秋天的雨水太多了。在古城平遥，去年秋天的降水导致泥砖砌成的城墙坍塌。
 
-The crop was planted unusually late, after the autumnal equinox, the traditional last day of planting in the area. But in recent years the weather has been staying warm later, so the wheat has a chance to germinate before winter frosts force it into dormancy.
+The **crop was planted unusually late**, after the **autumnal equinox**, the traditional last day of planting in the area. But in recent years the weather has been staying warm later, so the wheat **has a chance to germinate** before **winter frosts** force it into **dormancy**.
+>unusually[ʌnˈjuʒuəli] adv.非常；显著地；不寻常地；特别地   
+>unusually late 非常晚   
+>equinox[ˈekwɪˌnɑks] 春分；昼夜平分点   
+>autumnal[ɔˈtʌmnəl] 秋天的；秋季的    
+>autumnal equinox 秋分    
+>germinate[ˈdʒɜrmɪˌneɪt] v.发芽；发展；萌芽    
+>frost[frɒst] n.霜；结霜；严寒；冰冻 v.结霜；(在蛋糕上)撒糖霜；使…盖满霜    
+>dormancy['dɔːmənsi] n.休眠；潜伏；睡眠(状态)
+
 这种作物的种植时间非常晚，在秋分过后，而秋分是该地区传统上播种的最后日子。不过近些年来，天气要很晚才开始变冷，所以小麦有机会在冬季霜冻迫使其进入休眠状态之前发芽。
 
-So far, the fissures are mostly superficial: Hungary’s refusal to sign on to an embargo of Russian oil, thwarting the European Union’s effort to impose a continentwide ban; restiveness in Paris with the Biden administration’s aggressive goal of militarily weakening the Russian president, Vladimir V. Putin; a beleaguered President Biden blaming sky-high food and gas prices on a Putin price hike. Alongside those tensions, there are further signs of solidarity
+So far, the **fissures are mostly superficial**: Hungary’s **refusal** to sign on to an **embargo** of Russian oil, **thwarting** the European Union’s effort to **impose a continentwide ban**; **restiveness** in Paris with the Biden administration’s aggressive goal of militarily weakening the Russian president, Vladimir V. Putin; a **beleaguered** President Biden **blaming sky-high food** and gas prices on a Putin price hike. **Alongside those tensions**, there are further **signs of solidarity**
+>fissure[ˈfɪʃər] n.裂缝；裂隙；(思想,观点等的)分歧；v.(使)裂开；龟裂；破裂    
+>superficial[ˌsupərˈfɪʃ(ə)l] 表面的; 肤浅的；粗枝大叶的；浅薄的   
+>continentwide 全洲的    
+>restiveness[ˈrestɪvnɪs] 焦躁不安；难以驾御；乱闹   
+>beleaguered[bɪˈliɡərd] 饱受批评的；被围困的；四面楚歌的；被围攻的    
+>beleaguer[bɪ'liːgə] v.围困；使烦恼；围攻，困扰    
+>alongside prep.在…旁边；与…一起；与…同时 adv.在…的侧面；与…并排    
+>alongside those tensions 除了这些紧张局势    
+>signs of solidarity 团结的迹象
+
 到目前为止，分歧大多是表面的：匈牙利拒绝签署对俄罗斯石油禁运的协议，这挫败了欧盟在整个欧洲大陆实施禁运的努力；巴黎对拜登政府在军事上削弱俄罗斯总统普京的强硬目标感到不安；陷入困境的拜登总统将食品和天然气价格居高不下归咎于普京的提价。除了这些紧张局势，还有更多团结起来的迹象
 
-As the fighting grinds on, the cascading effect on supply chains, energy pipelines and agricultural harvests will be felt more acutely at gas pumps and on supermarket shelves. especially if the price for the West’s continued support is turbocharged inflation rates, energy disruptions, depleted public finances and fatigued populations.
+As the **fighting grinds on**, the **cascading effect** on supply chains, **energy pipelines and agricultural harvests** will **be felt more acutely** at **gas pumps** and on **supermarket shelves**. especially if the price for the West’s continued support is **turbocharged inflation** rates, **energy disruptions**, **depleted public finances** and fatigued populations.
+>grind on 继续   
+>cascading effect 连带影响   
+>energy pipelines 能源管道    
+>agricultural harvests 农业收成   
+>acutely 十分严重地；急性地；灵敏地；敏锐地    
+>gas pumps 加油站   
+>turbocharge v.增强(功能); 涡轮增压；   
+>turbocharge inflation 急剧增加通胀    
+>energy disruptions 能源供应中断    
+>deplete[dɪˈplit] v.耗尽；大量减少；使枯竭   
+>depleted public finances 公共财政枯竭   
+
 随着战争继续，人们将在加油站和超市货架上更敏锐地感受到它对供应链、能源管道和农业收成造成的连带影响。尤其是如果西方继续提供支持，就意味着要付出通胀率急剧上升、能源供应中断、公共财政枯竭和人心疲惫的代价。
 
-French diplomats with ties to Mr. Macron described the evolving American policy as essentially arming Ukraine to the hilt and maintaining sanctions on Russia indefinitely. France, they said, wants to push hard for negotiations with Mr. Putin because there was no other path to lasting European security.
+French diplomats with ties to Mr. Macron described the **evolving American policy** as **essentially arming Ukraine to the hilt** and maintaining sanctions on Russia indefinitely. France, they said, wants to **push hard for negotiations** with Mr. Putin because there was no other path to **lasting European security.**
+>evolving policy  不断演变的政策    
+>hilt[hɪlt] n.刀(或剑等的)柄 v.给(刀等)装上把    
+>arm to the teeth 武装到牙齿    
+>up to the hilt 彻底；完全地; 十分
+
 与马克龙有联系的法国外交官将美国不断演变的政策描述为实质上是在从头到脚武装乌克兰，并无限期地维持对俄罗斯的制裁。他们说，法国希望大力推动跟普京的谈判，因为没有其他途径可以实现欧洲的持久安全。
 
-Other analysts argue that the threats to Western unity are overdone. The moves by Finland and Sweden to join NATO suggest not only that the alliance is pulling together but also that its center of gravity is shifting eastward.
+Other analysts argue that the **threats to Western unity** are **overdone**. The moves by Finland and Sweden to join NATO suggest not only that the alliance is pulling together but also that its **center of gravity** is **shifting eastward**.
+>Western unity 西方国家的团结   
+>overdone 过度的；过火的    
+>center of gravity 重心   
+
 另有分析人士认为，西方国家的团结受到威胁的看法有些夸张了。芬兰和瑞典加入北约的举动不仅表明北约正在团结起来，而且其重心正在向东转移。
 
 We **tend to think of corruption** as a **failure of morality**, when a greedy person decides to benefit by **steering public resources toward private gain** . But while that’s not **exactly untrue**, it misses the most important thing: **namely**, that corruption is a group activity. You need **bribe-payers and bribe-takers**, **resource-diverters** and **resource-resellers**, **look-the-other-wayers** and **demand-a-share-of-the-takers**.
