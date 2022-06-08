@@ -84,3 +84,58 @@ On Nov. 10, 2021, the United States and Ukraine signed a “charter on strategic
 
 To make concessions to Russia would be submitting to aggression, To make none would be submitting to insanity. The United States is making no concessions. That would be to lose face. There’s an election coming. So the administration is closing off avenues of negotiation and working to intensify the war. 
 对俄罗斯做出让步就是屈服于侵略，对一切都不让步将是屈服于疯狂。美国没有做出任何让步。那样做会颜面尽失。毕竟快要选举了。因此，政府正在关闭谈判通道并努力加剧战争。我们是奔着赢下战争去的。
+
+The decision is the latest turn in a long game of whack-a-mole that the U.S. government has played against low-priced imports in the solar industry.
+美国政府一直在对太阳能行业低价进口产品采取“打地鼠”行动，而该决定是其最新转折。
+
+The domestic producers have accused importers — who have close commercial ties with China — of exaggerating their industry’s hardships to try to sway the Biden administration and preserve profit margins that stem from unfairly priced imports.
+国内生产商指责与中国有密切商业联系的进口商夸大行业困难，试图影响拜登政府，维护因不公平的进口定价而产生的利润空间。
+
+The dispute, over tariffs on China, was tame by Washington standards: No bureaucratic knife fights, no disparaging quotes given to newspapers on background. For Mr. Biden and the top members of his foreign policy staff, familiarity has bred cohesion. But harmony has a dark side: groupthink.
+以华盛顿的标准来看，这场围绕对华关税的争端是温和的。没有官僚主义的刀光剑影，没有向报纸提供贬低性引言作为背景。对于拜登及其外交政策幕僚中的高层成员来说，彼此之间的熟悉带来了凝聚力。但是一片和谐也有黑暗面：群体思维。
+
+The Blob tends to see American foreign policy as a series of military challenges, which require military solutions. Most of Mr. Biden’s top aides hail from institutions that incline them toward that point of view. 
+“小集团”倾向于将美国的外交政策视为一系列军事挑战，这些挑战需要军事解决方案。拜登的大部分高级助手都来自于那些令他们倾向于这一观点的机构。
+
+The U.S. side hopes that climate cooperation can be an ‘oasis’ in China-U.S. relations, but if that ‘oasis’ is surrounded by desert, it will also become desertified sooner or later.
+美方希望气变合作成为中美关系的‘绿洲’，但如果‘绿洲’周围被都是‘荒漠’，‘绿洲’迟早会被沙化。
+
+Yet even as schools and offices are opening in waves and public transportation is being restored, other measures remained in place to prevent the spread of the highly transmissible Omicron variant of the virus. The risk of epidemic rebound still exists, We cannot relax yet, but must be highly vigilant.
+然而，即使学校和办公室陆续开放，公共交通正在恢复，其他措施仍在实施，以防止具有高度传播性的奥密克戎变种。疫情反弹风险依然存在，依然不能放松，需要高度警惕。
+
+For all the backlash that “Lean In” eventually sparked, there were millions of women who saw some of their own potential in Ms. Sandberg’s megawatt success. And Ms. Sandberg faced even greater scrutiny as public perception of her company dimmed.
+尽管《向前一步》最终引发了这么多强烈反对，但仍有数百万女性在桑德伯格的巨大成功中看到了自己的一些潜力。随着公众对她的公司越来越失望，桑德伯格面临着更严格的审视。
+
+Scientists don’t know exactly what makes coffee so beneficial, but the answer may lie in its antioxidant properties, which can prevent or delay cell damage. Coffee beans contain high amounts of antioxidants which can help break down free radicals that cause damage to cells. 
+科学家并不知道具体是什么使咖啡如此有益，但答案可能在于其能够防止或延迟细胞损伤的抗氧化性质。咖啡豆含有大量抗氧化物质，可以帮助分解导致细胞损伤的自由基。
+
+Over time, a buildup of free radicals can increase inflammation in the body, which can cause plaque formation related to heart disease, so dietitians recommend consuming foods and beverages that are rich in antioxidants.
+随着时间的推移，自由基的积累会增加体内的炎症，从而导致与心脏病相关的斑块形成，因此营养师建议食用富含抗氧化剂的食物和饮料。
+
+If you’re pounding Mountain Dew or Coca-Cola or Red Bull or all these other drinks, they have tons more sugar, all the artificial stuff — versus coffee, which is a generally unprocessed food.
+如果你正在给自己灌激浪、可口可乐、红牛或其他类似饮料，它们含有更多的糖，还有那些人造的东西——而咖啡是一种通常未经加工的食物。
+
+Despite the encouraging evidence about coffee, there isn’t enough data to suggest that people who don’t currently drink coffee should add a stop to Starbucks during their morning routines. And even avid coffee drinkers shouldn’t use the study to justify endless cups of java. Moderation is good, But too much of a good thing isn’t necessarily more of a good thing.
+尽管关于咖啡的证据令人鼓舞，但没有足够的数据表明，目前不喝咖啡的人应该在早上去一趟星巴克。即使是狂热的咖啡爱好者也不应该用这项研究来证明没完没了喝咖啡的合理性。适量是好事，但是好的东西摄入太多未必会更好。
+
+I’m pretty sure the jubilee atmosphere is a four-day wonder, and that the national mood will turn fairly sour again fairly quickly, It feels like we’re all waiting for something to happen, For the storm or the dam to break. But it’s hard to predict if it will.
+我敢肯定，登基70周年纪念的气氛是一个持续四天的奇迹，国民情绪将很快再次变得相当糟糕，感觉我们都在等待什么事情发生，等待暴风雨或者堤坝决堤。但很难预测这是否会发生。
+
+At the concert the night before, Elizabeth stole the show with a prerecorded sequence in which she shared a mishap-prone cream tea with Paddington Bear, voiced by the actor Ben Whishaw.
+在前一天晚上的音乐会上，伊丽莎白以预先录制的视频抢尽风头，在该片段中，她与演员本·威士肖配音的帕丁顿熊共享了一次意外频出的下午茶。
+
+The sequence was reminiscent of the 2012 Olympic Games, which featured an even more elaborate sketch of the queen and James Bond, played by Daniel Craig, parachuting into the stadium from a helicopter during the opening ceremony.
+这个场景让人想起2012年奥运会的一幕，女王在开幕式上以短片形式展现了更加细致的表演——“女王”和丹尼尔·克雷格饰演的詹姆斯·邦德从直升机上跳伞进入体育场。
+
+The Johnny Depp-Amber Heard defamation trial was, from gavel to gavel, a singularly baffling, unedifying and sad spectacle.
+从头到尾，约翰尼·德普-安珀·赫德诽谤案的审判场面都堪称莫名其妙、不堪入目且极其可悲。
+
+Though he remains prime minister, he may be living on borrowed time. It is one of the most head-spinning reversals of fortune in modern British political history.
+尽管他仍是首相，但他可能只是在苟延残喘。这是英国现代政治史上最令人晕眩的命运扭转之一。
+
+To some extent, Mr. Johnson’s standing crumbled because of the same baffling mix of strengths and foibles that propelled his rise: rare political intuition offset by breathtaking personal recklessness
+在某种程度上，约翰逊声望崩溃的原因，与将他推上政坛之巅的那种毅力与怪癖令人困惑的结合相同：罕见的政治直觉被惊人的个人鲁莽抵消
+
+Johnson’s such an accomplished escape artist, and his colleagues so craven and cowardly that you can’t rule out him living to fight another day
+约翰逊是一名技能如此高超的脱身术大师，而他的同事们又是那么怯懦和胆小，并不能排除他卷土重来的可能性
+

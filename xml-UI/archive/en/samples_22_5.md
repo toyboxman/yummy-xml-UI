@@ -19,97 +19,288 @@
 *
 *
 
-Russia needs every dollar of export revenue it can get right now. It is lurching toward default on its foreign debt. Much of Russia’s oil is very heavy, producing extra diesel when refined.
+Russia needs every dollar of **export revenue** it can get right now. It is **lurching toward default on its foreign debt**. Much of Russia’s oil is very heavy, producing extra diesel when **refined**.
+>export revenue 出口收入    
+>lurch[lɜrtʃ] v.摇晃；倾斜；蹒跚；(心脏或胃)突然跳动 n.突然倾斜；(突然感到)兴奋或失望    
+>default on foreign debt 外债违约
+
 俄罗斯现在需要它能获得的每一美元出口收入。俄罗斯的外债正一步步走向违约。俄罗斯的大部分石油都很重，精炼后会产生更多柴油
 
-All of that construction will require huge fleets of diesel-guzzling trucks, excavators, pile drivers, bulldozers and other equipment.
+All of that construction will require **huge fleets of diesel-guzzling trucks, excavators, pile drivers, bulldozers** and other equipment.
+>huge fleets of 庞大的车(舰)队    
+>guzzle[ˈɡʌz(ə)l] v.大吃大喝；狂饮    
+>diesel-guzzling trucks 费油的柴油车    
+>excavator[ˈekskəˌveɪtər] n.挖掘机   
+>pile driver 打桩机；打椿机    
+>bulldozer[ˈbʊlˌdoʊzər] 推土机
+
 所有这些建设都将需要庞大的柴油车队、挖掘机、打桩机、推土机和其他设备。
 
-By 2020, the Baluch insurgency had been greatly weakened by years of counterinsurgency operations, rifts among separatist groups, fatigue and government incentives for the militants to lay down their weapons.
+By 2020, the Baluch **insurgency** had been **greatly weakened** by years of **counterinsurgency operations**, **rifts among** separatist groups, **fatigue** and **government incentives** for the militants to **lay down their weapons**.
+>insurgency 削弱    
+>counterinsurgency operations 平叛行动   
+>lay down weapons 放下武器
+
 到2020年，由于多年的平叛行动、分离主义团体之间的分歧、反叛势力的疲态，以及政府对武装分子放下武器的激励措施，俾路支的叛乱活动已被大幅削弱
 
-But as the pandemic and the war in Ukraine continue to weigh on trade and business ties, that period of plenty appears to be undergoing a partial reversal. If it lasts, such a shift away from fine-tuned globalization could have important implications for inflation and the world’s economy.
+But as the pandemic and the war in Ukraine continue to **weigh on trade and business ties**, that period of plenty appears to be **undergoing a partial reversal**. If it lasts, such **a shift away from fine-tuned globalization** could have important **implications** for inflation and the world’s economy.
+>weigh on (因重要,严重而)使关心焦虑；压在心上；压在肩上     
+>weigh on business ties 影响商业关系    
+>undergo a partial reversal 发生部分逆转    
+>find-tuned 精心优化的
+
 但随着疫情和乌克兰战争持续影响贸易和商业关系，这种繁荣时期似乎正在发生部分逆转。如果这种情况持续下去，意味着从经过精心优化的全球化脱离出来，这样的趋势会对通胀和世界经济产生重要影响
 
-Computers and other technology made factories more efficient, and they chugged out sneakers, kitchen tables and electronics at a pace unmatched in history. Companies slashed their production cost by moving factories offshore, where wages were lower. The pandemic also exposed the snowball effect of highly optimized supply chains
+Computers and other technology made factories **more efficient**, and they **chugged out sneakers**, **kitchen tables and electronics at a pace unmatched in history**. Companies **slashed their production cost** by moving factories **offshore**, where wages were lower. The pandemic also exposed the **snowball effect** of **highly optimized** supply chains
+>chug[tʃʌɡ] v.(发动机缓慢运转时)发出突突声；一饮而尽；一口气喝完 n.突突声    
+>chug out sneakers 生产运动鞋   
+>at a pace unmatched in history 以史上无与伦比的速度    
+>slash cost 削减成本    
+>snowball effect 滚雪球效应    
+>highly optimized 高度优化的
+
 电脑和其他技术提高了工厂的效率，它们以史上无与伦比的速度生产运动鞋、厨房桌和电子产品。企业将工厂转移到工资更低的海外，从而削减生产成本, 这场疫情还暴露出高度优化的供应链的滚雪球效应
 
-Many economists expect price increases for durable goods to cool substantially in the months ahead, which should help calm overall price gains. 
+Many economists expect **price increases** for **durable goods** to **cool substantially** in the months ahead, which should help **calm overall price gains**.
+>durable goods  耐用品    
+>cool substantially 大幅降温    
+>calm overall price gains 平抑整体价格涨幅
+
 许多经济学家预计，未来几个月耐用品价格涨幅将大幅降温，这应该有助于平抑整体价格涨幅。
 
-Customers are now future-proofing their supply chains, Some reshoring is occurring — let’s make no mistake about that
+Customers are now **future-proofing their supply chains**, Some **reshoring is occurring** — let’s make no mistake about that
+>future-proof 抵抗未来风险   
+>shore n.海滨；国家(尤指濒海国家) v.用支柱[斜撑]撑住；   
+>reshore 回流
+
 客户“现在正在为他们的供应链寻找抵抗未来风险的保障”。一些产业正在回流，这一点是毋庸置疑的。
 
-Countless facts tell us that we can win respect and initiative only if we show the spirit of brave fighters defeating our foes face to face on a narrow path, daring to struggle, mastering struggle. Persist with dynamic zero, protecting people’s lives and health to the maximum extent, while reducing the impact of the pandemic on economic and social development to a minimum
+**Countless facts** tell us that we can **win respect and initiative** only if we **show the spirit** of brave fighters **defeating our foes face to face on a narrow path**, daring to struggle, **mastering struggle**. Persist with **dynamic zero**, protecting people’s lives and health **to the maximum extent**, while reducing the impact of the pandemic on economic and social development **to a minimum**
+>countless facts 无数事实    
+>win respect and initiative 赢得尊严、赢得主动    
+>brave fighters defeating our foes face to face on a narrow path 狭路相逢勇者胜    
+>persist with 坚持    
+>to the maximum extent 最大程度
+
 无数事实告诉我们，唯有以狭路相逢勇者胜的气概，敢于斗争、善于斗争，我们才能赢得尊严、赢得主动. 坚持动态清零，最大程度保护人民生命安全和身体健康，最大限度减少疫情对经济社会发展的影响
 
-The draft Supreme Court opinion overturning Roe v. Wade that leaked Monday night is not yet final. But when the dust settles, American women may conclude that they had lost the right to abortion the same way that an Ernest Hemingway character said he had gone bankrupt: gradually, and then suddenly.
+The draft Supreme Court opinion **overturning** Roe v. Wade that **leaked** Monday night is **not yet final**. But when the **dust settles**, American women may conclude that they had lost the right to abortion the same way that an **Ernest Hemingway character** said he had **gone bankrupt**: **gradually, and then suddenly**.
+>when the dust settles 待尘埃落定时    
+>go bankrupt  破产   
+
 周一晚间泄露的最高法院推翻罗诉韦德案的意见书草案并非最终版本。但待尘埃落定时，美国的女性可能会得出结论，她们已经失去了堕胎的权利，就像海明威笔下的一个人物形容他的破产一样：先是逐渐地，然后突然就身无分文了
 
-Now, as the rest of the world has dropped border controls and restarted business, that distinction has largely evaporated, and Taiwan risks losing out on tourism and investment by continuing to stay closed.
+Now, as the rest of the world has **dropped border controls** and restarted business, that **distinction has largely evaporated**, and Taiwan risks **losing out on tourism** and investment by continuing to stay closed.
+>evaporate[ɪˈvæpəˌreɪt] v.消失；(使)蒸发；衰减    
+>distinction largely evaporated 差异基本消失   
+>lose out 失败; 输掉；亏本；吃亏
+
 现在，随着世界其他地区取消边境管制，重启商业活动，这种差异基本消失，而台湾如果继续封闭，可能给旅游业和投资造成损失
 
-Taiwan was still hoarding toilet paper and maintaining armies of workers in head-to-toe protective suits while the rest of the world was seemingly moving on? It makes me very sad and pissed about where I am, seeing people elsewhere living a normal life.
+Taiwan was still **hoarding toilet paper** and maintaining armies of workers in **head-to-toe protective suits** while the rest of the world was **seemingly** moving on? It makes me very sad and **pissed about** where I am, seeing people elsewhere **living a normal life**.
+>hoard toilet paper 囤积卫生纸    
+>head to toe 从头到脚；从头到尾    
+>protective suits 防护服    
+>piss int.〈美俚〉呸 n.撒尿 v.小便    
+>piss about 胡闹；浪费时间；工作吊儿郎当
+
 台湾为何还在囤积卫生纸，还让大批工作者从头到脚穿着防护服. 看到别处的人过着正常的生活，这让我对自己的处境非常难过，也非常气愤
 
-His rise to the top leadership position is “a concentrated embodiment of public opinion,” But he will also face a city embattled by the coronavirus and some of the world’s toughest pandemic restrictions.
+His rise to the **top leadership position** is “a **concentrated embodiment** of **public opinion**,” But he will also face a city **embattled** by the coronavirus and some of the world’s **toughest pandemic restrictions**.
+>embodiment[ɪmˈbɑdɪmənt] n.化身; 体现；具体化    
+>public opinion 舆论；民意   
+>embattle[ɪm'bætəl] v.布阵；设防于；整军备战；严阵以待
+
 他当选行政长官“是民意的集中体现”，但他将面对的也是一个受新冠病毒大流行和世界上一些最严格的限制措施所困扰的城市。
 
-Iran has completely stacked the election committee with its loyalists and further twisted the process into a meaningless competition
+Iran has **completely stacked** the election committee with its **loyalists** and **further twisted** the process into a **meaningless competition**
+>meaningless competition 毫无意义的竞选   
+>stack n.堆栈；一摞；大量；许多 v.放成整齐的一叠   
+>twist the process into 把过程扭曲弄成
+
 伊朗让选举委员会全是听自己话的人，进一步将这个过程扭曲为一次毫无意义的竞选
 
-The lines begin forming before lunchtime and wind on well into the night, with customers outside craning their necks for views of the day’s selection through the window. It is not a newly anointed Michelin bistro or the latest photogenic, Instagram-friendly confection that has captivated Hong Kong, a famously epicurean city. It is a humble takeout box of white rice and two precooked main dishes of the diner’s choosing. The price: around $4.
+The lines **begin forming** before lunchtime and **wind on well** into the night, with customers outside **craning their necks** for views of the day’s selection through the window. It is not a **newly anointed** Michelin **bistro** or the latest **photogenic**, Instagram-friendly **confection** that has **captivated** Hong Kong, a **famously epicurean** city. It is a **humble takeout box** of white rice and two **precooked main dishes** of the diner’s choosing. The price: around $4.
+>crane[kreɪn] n.起重机；v.伸长(脖子)以便看得更清楚；以起重机举(起)    
+>crane their necks 伸着脖子   
+>anoint[əˈnɔɪnt] 膏；涂油于   
+>bistro[ˈbistroʊ] n.小餐馆；小酒馆    
+>photogenic[ˌfoʊtoʊˈdʒenɪk] 上镜的；上相的   
+>confection n.甜食；精工制作的物品(如建筑物或衣物)    
+>captivate v.迷住；使着迷    
+>epicurean[ˌepiˈkjʊriən] 享乐的；吃喝玩乐的 n.享乐主义者；美食家   
+>humble takeout box 简朴的外卖盒    
+>precooked 预煮的；预先烹调的
+
 午餐时间开始前，队伍就排起来了，一直持续到深夜。餐厅外面的顾客伸着脖子透过窗户查看当天的菜品。这不是刚刚得到米其林垂青的餐馆，也不是最新一道俘获美食城市香港的网红甜点。这是一个简朴的外卖盒，白米饭配用餐者自选的两道预先做好的菜。价格约4美元左右
 
-Until now, she has had comparatively little to say about Ukraine, but her full-throated call for an end to the war on Sunday was a departure that reflected the bolder and broader steps the Biden administration has taken to move against Russian aggression without engaging Moscow in an all-out war.
+Until now, she has had **comparatively little** to say about Ukraine, but her **full-throated call for** an end to the war on Sunday was a **departure** that **reflected the bolder and broader steps** the Biden administration has **taken to move** against Russian aggression without engaging Moscow in an **all-out war**.
+>comparatively little 相对较少   
+>full-throated 高声喧嚷的; 声音宏亮的    
+>full-throated call for 全力呼吁    
+>departure n.离开；出发；背离；启程；离港；离境   
+>take to 喜欢；从事；喜爱
+
 到目前为止，她在乌克兰问题上的发言相对较少，但她在周日全力呼吁结束战争是一个起点，表明拜登政府在不与莫斯科全面开战的情况下，为打击俄罗斯侵略所采取的更大胆、更广泛的措施
 
-Dr. Biden’s work was in the tradition of other first ladies who had traveled oversees to witness the “personification of pain,” hearing stories of trauma and war, all while staying within the limits of an unelected role within the administration. There’s real finesse to this, Because you’ve got to carry all of those memories with you. It’s hard work.
+Dr. Biden’s work was **in the tradition of** other first ladies who had traveled **oversees to witness** the “**personification of pain**,” hearing stories of **trauma and war**, all while staying within the limits of an **unelected role** within the administration. There’s **real finesse** to this, Because you’ve got to **carry all of those memories** with you. It’s hard work.
+>in the tradition of 沿袭传统    
+>personification[pərˌsɑnəfɪˈkeɪʃ(ə)n] 拟人；人格化；化身；典型    
+>personification of pain 苦难的化身   
+>finesse[fɪˈnes] n.手段；手腕；策略 v.用策略对付某事；巧妙地做   
+
 拜登博士的工作沿袭了其他第一夫人的传统，她们前往海外见证“苦难的化身”，聆听创伤和战争的故事，同时保持一个政府内部的非民选角色。这是需要真正的技巧的，因为那些记忆将伴你一生。这是一项艰难的工作
 
-If economists are so smart, why ain’t they rich? I’m not an economist, so the question doesn’t ruffle my feathers. The possible explanations, though, are interesting — sometimes funny, sometimes kind of deep.
+If economists are so smart, **why ain’t they rich**? I’m not an economist, so the question doesn’t **ruffle my feathers**. The possible explanations, though, are interesting — sometimes funny, sometimes **kind of deep**.
+>ruffle[ˈrʌf(ə)l] v.弄皱；弄乱；使不平整；搅扰 n.荷叶边    
+>ruffle one's feathers 发怒   
+
 如果经济学家这么聪明，为什么他们不富有？我不是经济学家，所以我没有被这个问题激怒。不过，一些可能的解释很有趣——有时很好笑，有时有点深奥
 
-in the 1970s, senior faculty members were speculating in the bond market. Milton Friedman told her that interest rates were bound to fall. They in fact rose to 10 percent soon after, “and the wise economists lost their shirts.”
+In the 1970s, senior **faculty members** were **speculating in the bond market**. Milton Friedman told her that interest rates **were bound to fall**. They in fact rose to 10 percent soon after, “and the **wise economists lost their shirts**.”
+>faculty[ˈfæk(ə)lti] 全体教员；学院；系   
+>speculate v.投机；推测；猜测；推断; 思索；沉思   
+>bond market 债券市场    
+>be bound to 必定；注定；一定会     
+>lose one's shirt 失去一切；输得精光；
+
 1970年代在芝加哥大学时，资深教员们正在投机债券市场。米尔顿·弗里德曼告诉她，利率必然会下降。不久之后“实际上升到了10%”，“深谋远虑的经济学家们输得精光。”
 
-I don’t pay any attention to what economists say, frankly. You have all these economists with these 160 IQs who spent their life studying it. Can you name me one super-wealthy economist who’s ever made money out of securities?
+I don’t **pay any attention to** what economists say, **frankly**. You have all these economists with these 160 IQs who spent their life studying it. Can you **name** me one **super-wealthy** economist who’s **ever made money out of securities**?
+>name v.命名；任命；给…取名；说出…的名称    
+>super-wealthy 超级富有的   
+>make money out of 靠……挣钱；通过……挣钱   
+>securities 股票；债券及有价证券
+
 坦率地说，我并不在意经济学家怎么说。有那么多智商160的经济学家穷极一生研究经济学。你能说出有哪位经济学家曾经通过在证券市场赚钱成为超级富豪吗？
 
-Buffett is right that economics isn’t an ideal way to make money as an investor. On the other hand, that’s not what it’s for. It’s a science of means and ends. Let economists be economists!
+Buffett is right that economics isn’t **an ideal way to make money** as an investor. On the other hand, that’s not what it’s for. It’s **a science of means and ends**. **Let economists be economists**!
+>a science of means and ends  一门关于手段和目的的科学
+
 巴菲特是对的，经济学并不是作为投资者赚钱的理想方式。另一方面，这也不是经济学的用途。这是一门关于手段和目的的科学。让经济学家做经济学家吧！
 
-It didn’t quite work as intended. Inflation never met the government’s modest target, despite rock-bottom interest rates and heaps of fiscal stimulus. Workers’ wages stagnated, and growth remained anemic.
+**It didn’t quite work as intended**. Inflation never **met the government’s modest target**, despite **rock-bottom interest rates** and **heaps of fiscal stimulus**. Workers’ **wages stagnated**, and growth remained **anemic**.
+>It didn't quite work as intended 但事与愿违     
+>I didn't quite catch that 我没听清楚   
+>I didn't quite understand 我不能理解    
+>I didn't quite make it 我没能实现/完成    
+>meet modest target 达到保守目标    
+>rock bottom n.岩底(的)；最底下(的)；真相; 最低的；最低点   
+>rock bottom price 最低底价   
+>heaps of 大量；累累；许多的    
+>fiscal stimulus 财政刺激措施    
+>stagnate v.停滞；不发展    
+>wages stagnate 工资停滞不前    
+>anemic[əˈnimɪk] 贫血的；患贫血症的；同“anaemic”    
+>growth remained anemic 增长依然乏力
+
 但事与愿违。尽管利率处于最低水平并且有大量财政刺激措施，通胀始终未能达到政府的保守目标。工人工资停滞不前，增长依然乏力
 
-The twin forces are posing yet another challenge for the world’s third-largest economy as Japan trails other major nations in emerging from the economic blow of the pandemic. The rise in prices has spooked Japanese consumers used to decades of stability, and the weak yen is starting to look as if it will depress demand at home more than stimulate it abroad.
+The twin forces are **posing yet another challenge** for the world’s **third-largest economy** as Japan **trails other major nations** in emerging from the **economic blow** of the pandemic. The rise in prices has **spooked Japanese consumers** used to decades of stability, and the weak yen is starting to **look as if** it will **depress demand** at home more than **stimulate it abroad**.
+>pose another challenge 构成了又一挑战    
+>trail other major nations 落后于其他国家    
+>trail v.跟踪；追踪；磨蹭 n.小径；路径；踪迹；足迹    
+>economic blow 经济打击    
+>spook n.鬼；间谍；特工 v.吓；惊吓；受惊   
+>depress v.压；使抑郁；使沮丧；使消沉   
+>depress demand 抑制需求   
+
 随着各国都在努力摆脱大流行带来的经济打击，日本在这一方面落后于其他国家，而这两种力量对这个世界第三大经济体构成了又一挑战。日本消费者几十年来习惯了稳定的物价，价格上涨已经吓坏了他们，而疲软的日元看起来似乎会抑制国内需求，而不是刺激国外需求
 
-A Bank of Japan report released in January found that although a weak yen continued to aid the economy, its positive impact on exports had shrunk over the decade leading up to the pandemic.
+A Bank of Japan report released in January found that although a weak yen continued to **aid the economy**, its **positive impact** on exports had **shrunk** over the decade **leading up to** the pandemic.
+>lead up to 导致；引起；把…一直带领到    
+>leading up to 在…之前
+
 日本央行1月发布的一份报告发现，尽管日元疲软继续对经济有所帮助，但其对出口的积极影响在大流行之前的十年中已经减弱
 
-High inflation is politically toxic, and trying to correct for it, the medicine, is also an extremely bitter pill, Prime Minister Fumio Kishida has brushed off suggestions that the Bank of Japan should seek to strengthen the yen by raising interest rates. Instead, he has sought to combat rising prices with more stimulus. 
+High inflation is **politically toxic**, and trying to correct for it, the medicine, is also an **extremely bitter pill**, Prime Minister Fumio Kishida has **brushed off suggestions** that the Bank of Japan should **seek to strengthen the yen** by raising interest rates. Instead, he has **sought to combat** rising prices with more **stimulus**. 
+>bitter pill 苦涩的药丸；苦果     
+>brush off 刷去；打发走；摒弃；撇开   
+
 高通胀在政治上是有毒的，而试图纠正它的良药，也是一颗极其苦涩的药丸，日本首相岸田文雄没有理会对日本央行应寻求通过提高利率来强化日元的建议。相反，他试图通过更多刺激措施来应对价格上涨
 
-Ultimately, they struggled against a powerful political family that was adept at building alliances and avoiding any semblance of accountability.The country’s school textbooks gloss over the atrocities of the Marcos era. He should not be judged by the sins of his dad. Mr. Duterte, an ally of the Marcoses, had paved the way for a full rehabilitation of the Marcos name.
+**Ultimately**, they struggled against a powerful political family that was **adept at building** alliances and **avoiding any semblance of accountability**. The country’s school textbooks **gloss over the atrocities** of the Marcos era. He should not **be judged by the sins** of his dad. Mr. Duterte, an ally of the Marcoses, had **paved the way for** a full **rehabilitation** of the Marcos name.
+>adept[əˈdept] n.内行 adj.内行的；熟练的；擅长的    
+>be adept at building alliances 擅长拉帮结派    
+>semblance[ˈsembləns] n.外貌；表象；假象；外观     
+>avoid any semblance of accountability 规避任何形式的问责    
+>gloss over 掩盖；粉饰；   
+>gloss[ɡlɔs] n.光亮；光泽涂料；v.在…上作注释(或评注)    
+>atrocities[əˈtrɑsəti] n.(尤指战争中的)残暴行为    
+>be judged by the sins 因为罪过而受到刁难     
+>pave the way for 为…创造条件；为…做好准备；为…铺路    
+>rehabilitation[ˌrihəˌbɪlɪˈteʃən] n.恢复；善后；平反；复权
+
 最终，他们对抗的是一个强大的政治家族，擅长拉帮结派，规避任何形式的问责。该国的教科书掩盖了马科斯时代的暴行。他不应该因为父亲的罪过而受到刁难。杜特地是马科斯家族的盟友，为马科斯家族的东山再起铺平了道路。
 
-Yoon Suk-yeol, the new president of South Korea, was sworn into office in Seoul on Tuesday, using his inaugural speech to make promises to heal political and economic divides at home, to fight for international norms and to offer an ambitious package of economic incentives to North Korea. Mr. Yoon has vowed to align his country more closely with Washington while also mending fractured ties with Japan.
+Yoon Suk-yeol, the new president of South Korea, **was sworn into office** in Seoul on Tuesday, using his **inaugural speech** to **make promises to heal political and economic divides** at home, to fight for **international norms** and to **offer an ambitious package** of **economic incentives** to North Korea. Mr. Yoon has **vowed to align** his country more closely with Washington while also **mending fractured ties with** Japan.
+>be sworn into office 宣誓就职    
+>inaugural speech 就职演讲   
+>heal[hil] v.复原；治疗；治愈；愈合    
+>heal economic divides 弥合经济分歧    
+>international norms 国际规范   
+>economic incentives 经济激励     
+>mend fractured ties 修补破裂的关系
+
 韩国新任总统尹锡悦周二在首尔宣誓就职。他在就职演讲中承诺弥合国内的政治和经济分歧，为国际规范而战，并将向朝鲜提供一套雄心勃勃的经济激励方案。尹锡悦已郑重宣布，将让韩国与华盛顿更紧密地结盟，同时修补与日本破裂的关系。
 
-Mr. Yoon, 61, won the March 9 election with a razor-thin margin against his rival. ​He faces myriad challenges at home. During the campaign, Mr. Yoon was accused of pandering to widespread sentiment against China as well as an anti-feminist movement led by young South Korean men. During the campaign, Mr. Yoon threatened “pre-emptive strikes” against North Korea should an attack look imminent.
+Mr. Yoon, 61, won the March 9 election with a **razor-thin margin** against his **rival**. ​He **faces myriad challenges** at home. During the campaign, Mr. Yoon was accused of **pandering to widespread sentiment** against China as well as an **anti-feminist movement** led by young South Korean men. During the campaign, Mr. Yoon threatened “**pre-emptive strikes**” against North Korea should an attack **look imminent**.
+>razor-thin 以微弱优势取胜的；险胜的; 极薄的；极其微弱的    
+>margin[ˈmɑrdʒɪn] n.边缘；差额；余地；界限 v.给…镶边；在…加旁注；   
+>razor-thin margin 微弱优势    
+>myriad[ˈmɪriəd] n.无数；大量 adj.无数的；众多方面的    
+>pander[ˈpændər] v.迎合；拉皮条；帮做(坏事)；煽动 n.拉皮条者；妓院老板；帮人做坏事的人     
+>pander to sentiment 迎合情绪   
+>feminist[ˈfemɪnɪst] movement 女权运动   
+>pre-emptive strikes 先发制人的打击    
+>imminent[ˈɪmɪnənt] 即将发生的；临近的   
+
 在今年3月9日的大选中，61岁的尹锡悦以微弱优势击败对手。尹锡悦在国内面临着众多挑战，在竞选期间，有人指责尹锡悦迎合普遍的反华情绪，迎合由韩国年轻男性领导的反女权运动。他曾在竞选期间威胁说，如果有朝鲜即将发动攻击的迹象，将对其进行“先发制人的打击”。
 
-Rapid growth will open up new opportunities, It will improve social mobility, thereby helping us rid of the fundamental obstacles that are aggravating social divide and conflicts.
+Rapid growth will **open up** new opportunities, It will **improve social mobility**, **thereby** helping us **rid of the fundamental obstacles** that are **aggravating social divide and conflicts**.
+>open up 打开；开辟；开放   
+>open up new opportunities  带来新的机会    
+>improve social mobility 提高社会流动性    
+>thereby adv.从而；因此；由此    
+>rid of v.扫除; 摆脱; 消除    
+>aggravate[ˈæɡrəˌveɪt] v.使严重；使恶化；加重；加剧；   
+>aggravate social divide and conflicts  加剧社会分化和冲突
+
 快速的经济增长将带来新的机会，提高社会流动性，从而帮助我们消除正在加剧社会分化和冲突的根本障碍
 
-One field on the flat plains east of Beijing was patchy, with knee-high emerald stalks in some spots while almost bald elsewhere, damaged by the torrential rains of last autumn. The next village over, a luxurious wheat crop was thriving after this spring’s bright sunshine and slow, soaking rains.
+One field on the **flat plains** east of Beijing was **patchy**, with **knee-high emerald stalks in some spots** while almost **bald** elsewhere, damaged by the **torrential rains** of last autumn. The next village over, a **luxurious wheat crop** was thriving after this spring’s **bright sunshine** and slow, **soaking rains**.
+>flat plains 平原    
+>patchy[ˈpætʃi] 零散的；散落的；分布不匀的；不完整的    
+>emerald[ˈem(ə)rəld] n.翡翠；祖母绿；绿宝石；adj.祖母绿(制)的；鲜绿(色)的；    
+>stalk[stɔk] n.秆；柄；(花)梗 v.潜近(猎物或人)；(非法)跟踪；趾高气扬地走
+>knee-high emerald stalks 膝盖高的翠绿茎干    
+>bald[bɔld] 秃顶的；秃头的    
+>torrential[tɔˈrenʃəl] 倾泻如注的   
+>torrential rains 暴雨    
+>luxurious[lʌɡˈzjʊəriəs] 十分舒适的；奢侈的     
+>bright sunshine 明媚阳光    
+>slow soaking rains 绵绵细雨
+
 北京东部的平原上，有一片田地斑驳陆离，有些地方，翠绿的茎干高至膝盖，也有些地方几乎是光秃秃的，这都是去年秋天的暴雨造成的破坏。隔壁村庄里，在今春的明媚阳光和绵绵细雨滋润下，一大片小麦正茁壮成长。
 
-If the Chinese harvest is bad in the coming weeks, it could drive food prices up further, compounding hunger and poverty in the world’s poorest countries. Russia’s invasion, including a blockade of ports, has disrupted supplies from Ukraine, a leading grain exporter long known as Europe’s breadbasket.
+If the Chinese harvest is bad in the coming weeks, it could **drive food prices up further**, **compounding hunger and poverty** in the world’s poorest countries. Russia’s invasion, including **a blockade of ports**, has **disrupted supplies** from Ukraine, a **leading grain exporter** long known as Europe’s **breadbasket**.
+>compound hunger and poverty 加剧饥饿和贫困     
+>blockade[blɑˈkeɪd] n.封锁；障碍物；屏障 v.包围    
+>leading grain exporter 主要粮食出口国    
+>breakbasket[ˈbredˌbæskɪt] n.粮仓; 胃；
+
 如果中国未来几周的收成不好，可能会进一步推高食品价格，加剧世界最贫穷国家的饥饿和贫困。俄罗斯的入侵，包括对乌克兰港口的封锁，扰乱了从乌克兰发出的粮食供应。乌克兰是一个主要粮食出口国，长期以来被称为欧洲粮仓。
 
-Deluges last autumn left the soil so waterlogged that the wheat roots could not easily penetrate it, said Ren Ruixia, a 45-year-old farmhand, as she surveyed a wheat field that looked like it had a bad haircut. The adequacy of food supplies has long been a top issue in China, agriculture ministry officials have issued warnings, although not quite as downbeat.
+**Deluges** last autumn **left the soil so waterlogged** that the **wheat roots** could not easily **penetrate** it, said Ren Ruixia, a 45-year-old **farmhand**, as she **surveyed a wheat field** that looked like it had a **bad haircut**. The **adequacy of food supplies** has long been a top issue in China, agriculture ministry officials have issued warnings, although not quite as **downbeat**.
+>deluge[ˈdeljudʒ] n.洪水；暴雨；v.泛滥；使充满；淹没    
+>waterlogged 水浸的；水涝的；水淹的    
+>wheat roots 小麦的根部    
+>penetrate[ˈpenəˌtreɪt] v.渗透；进入；穿过；看透    
+>farmhand n.农场工人    
+>haircut n.发型；理发    
+>adequacy[ˈædəkwəsi] n.足够；适当    
+>downbeat 沉闷的；令人沮丧的；悲观的；n.【乐】(指挥棒的)一挥；重拍；下降
+
 今年45岁的农工任瑞霞在查看一片看起来像剪坏了发型的麦田时说，去年秋天的大雨让土壤积水严重，小麦的根部不易穿透。长期以来，充足的粮食供应在中国一直是首要问题，农业部官员也发出了警告，尽管没有那么悲观。
 
 China’s **nervousness** about its **food stocks** could **ripple through the global supply chain**. China’s next move will **come down to the harvest**. Much depends on **how well drained** their fields are, but everyone agreed that the rain last autumn had been **remarkable**. In Pingyao, the **centuries-old city walls**, made with **mud cores**, collapsed after they became **sodden** last fall.
@@ -119,7 +310,8 @@ China’s **nervousness** about its **food stocks** could **ripple through the g
 >come down to 可归结为；归根结底    
 >drain n.消耗；下水道；排水管；耗竭 v.排空；流出；流光；放干    
 >mud cores  泥砖   
->sodden[ˈsɑd(ə)n] v.浸；使呆头呆脑；“seethe”的过去分词；浸透 adj.湿透的；湿漉漉的；
+>sodden[ˈsɑd(ə)n] v.浸；使呆头呆脑；“seethe”的过去分词；浸透 adj.湿透的；湿漉漉的；    
+>seethe[sið] v.翻腾；强压怒火；生闷气；沸腾
 
 中国对粮食库存的紧张情绪可能会波及全球供应链。中国接下来会怎么做，将取决于收成情况。这在很大程度上取决于各家农田的排水情况，但每个人都认为去年秋天的雨水太多了。在古城平遥，去年秋天的降水导致泥砖砌成的城墙坍塌。
 
