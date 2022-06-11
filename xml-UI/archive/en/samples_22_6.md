@@ -139,3 +139,38 @@ To some extent, Mr. Johnson’s standing crumbled because of the same baffling m
 Johnson’s such an accomplished escape artist, and his colleagues so craven and cowardly that you can’t rule out him living to fight another day
 约翰逊是一名技能如此高超的脱身术大师，而他的同事们又是那么怯懦和胆小，并不能排除他卷土重来的可能性
 
+Activists are adopting symbols and language that are off-putting not just to the right but to people in the center and even liberals, You don’t become a candidate for the presidency or speaker of the House by being dumb about what works in politics
+活动人士在引入的符号和语言不仅惹恼了右派，也惹恼了中间派甚至自由派，要是搞不清政治上什么行得通，什么行不通，你是不可能成为一名总统候选人或众议院议长的
+
+The disaster had been born of greed and negligence. The owner of the Sewol had added extra berths, making the ferry top-heavy. Cellphones salvaged from the wreckage showed videos of children frantically saying goodbye to their parents as the cold waves filled their cabins.
+导致这场灾难的原因是贪婪和疏忽。“世越号”的船主在船上增加了额外的舱位，导致船身上部过重。从沉船中打捞出来的手机上的视频显示，当寒冷的海水涌入船舱时，孩子们发狂似地向父母告别。
+
+Apple and Google often accompany these software updates with highfalutin language and promises. But in reality, lots of the changes — especially the ability to retroactively edit a text — are incremental improvements that feel as if they should have happened a long time ago.
+苹果和谷歌在进行这些软件更新时，往往会伴随着冠冕堂皇的说法和承诺。但实际上，很多变化——尤其是对编辑已发出短信的能力——都是渐进式的改进，感觉它们似乎早就该发生了
+
+The saber rattling is nothing new. North Korea’s weapons program has vexed four of President Biden’s predecessors, each of whom wielded combinations of various incentives and sanctions, ultimately failing to halt the production of nuclear warheads and missiles.
+炫耀武力并不是什么新鲜事。朝鲜的武器计划一直是令拜登总统的四位前任烦恼的问题，他们每个人都用过各种胡萝卜加大棒的做法，但始终未能阻止朝鲜制造核弹头和导弹。
+
+Hand-drawn posters that lined the walls of her rural clinic suggested eating two bulbs of raw garlic, drinking liquor fortified with an egg and sliced ginseng or sipping tepid water with sliced spring onions and sugar to ward off colds and the flu.
+她的农村诊所的墙上挂着手绘的图片，建议人们吃两粒生大蒜，喝加了鸡蛋和人参片的白酒，或者喝加了小葱片和糖的温水来预防感冒和流感。
+
+wars can change the course of history and great battles often decide wars. Great battles, won or lost, change the entire course of events, create new standards of values, new moods, new atmospheres, in armies and in nations, to which all must conform.
+战争可以改变历史的进程，而伟大的战斗往往决定战争的结局。伟大的战斗，无论输赢，改变了整个事件的进程，在军队和在国家中创造了新的价值标准，新的氛围，新的环境，所有人只能服从。
+
+The 19th century’s naval wars accelerated a shift from wind- to coal-powered vessels. World War I brought about a shift from coal to oil. World War II introduced nuclear energy as a major power source. In each of these cases, wartime innovations flowed directly to the civilian economy and ushered in a new era. Go figure: If this war doesn’t inadvertently blow up the planet, it might inadvertently help sustain it. 
+19世纪的海战加速了船只从风力驱动向燃煤驱动的转变。第一次世界大战使人们从用煤转向用石油。第二次世界大战使核能成为重要能源。在这些案例中，战时的创新都直接流向了民用经济，开创了一个新时代。想想看：如果这场战争没有在不经意间摧毁地球，它可能会在不经意间帮助地球维持下去。
+
+Their approach, the equivalent of an ostrich sticking its head in the sand, doesn’t make sense to a tech entrepreneur and a venture capitalist, has questioned how his peers can pretend it’s business as usual, given the political and economic upheaval. 
+这就等于是把头埋进沙子里的鸵鸟。这位科技企业家和风险投资家质疑，在这样的政治和经济动荡之下，他的同行们为什么可以假装一切如常。
+
+It’s a fair point to make, and it’s something we certainly should consider moving forward. That’s why we have to be really careful how to frame this.
+这个问题有一定道理，我们今后当然应该考虑这一点。这就是为什么我们必须非常小心地表述这个问题。
+
+Most people think that smallpox usually is transmitted by large droplets, but it can, for whatever reason, occasionally be transmitted by small-particle aerosols. There is evidence that a pregnant woman can pass the monkeypox virus on to her fetus.
+大多数人认为天花通常是通过较大飞沫传播的，但它偶尔会——无论出于何种原因——通过小颗粒气溶胶传播。有证据表明，孕妇会将猴痘病毒传染给胎儿。
+
+In the West, Russians were no longer viewed as liberated hostages of a totalitarian regime, reformed villains from James Bond movies or emissaries of the great culture of Tolstoy and Dostoyevsky, but rather as all-cash buyers of luxurious properties in Manhattan and Miami. 
+在西方，俄罗斯人不再被视为从极权主义政权解放出来的人质、007电影中痛改前非的反派或托尔斯泰和陀思妥耶夫斯基伟大文化的使者，而是被视为曼哈顿和迈阿密豪宅的全款买家。
+
+The through-line of that narrative runs roughly from Mr. Trump’s declaration in August 2020. Yes, there are gaping holes that remain to be filled in on the events of the day itself. If the evidence warrants it, the committee should not shy away from transmitting criminal referrals. 
+这一叙事的主线大致始于特朗普在2020年8月败选宣布。关于当天发生的事件本身，还有很多空白需要填补。 如果有证据支持，该委员会不应回避移交刑事案件
