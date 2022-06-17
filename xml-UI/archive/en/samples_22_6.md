@@ -174,3 +174,39 @@ In the West, Russians were no longer viewed as liberated hostages of a totalitar
 
 The through-line of that narrative runs roughly from Mr. Trump’s declaration in August 2020. Yes, there are gaping holes that remain to be filled in on the events of the day itself. If the evidence warrants it, the committee should not shy away from transmitting criminal referrals. 
 这一叙事的主线大致始于特朗普在2020年8月败选宣布。关于当天发生的事件本身，还有很多空白需要填补。 如果有证据支持，该委员会不应回避移交刑事案件
+
+Google said that its systems imitated conversational exchanges and could riff on different topics, but did not have consciousness. Google’s technology is what scientists call a neural network, which is a mathematical system that learns skills by analyzing large amounts of data. 
+谷歌表示，公司的AI系统模仿人们的对话交流，能对不同的话题进行复述，但没有意识。谷歌的这项技术被科学家称为神经网络，是一个通过分析大量数据来学习技能的数学模型。
+
+But they are extremely flawed. Sometimes they generate perfect prose. Sometimes they generate nonsense. The systems are very good at recreating patterns they have seen in the past, but they cannot reason like a human.
+但它们也存在巨大的缺陷。它们有时能写出完美的散文，有时却生成毫无意义的话。这些系统非常擅长将它们以前遇到过的模式再现出来，但不能像人类那样思考。
+
+In the United States, Taiwanese Presbyterian churches have become a social hub for older congregants to bond over their common language and shared experiences. At church bazaars, grandmothers and aunties cook beloved Taiwanese snacks, including sticky rice wrapped in bamboo leaves, and oyster pancakes.
+在美国，台湾长老会教会成了年长会众的社交中心，他们通过共同的语言和经历联系起来。在教堂的集市上，阿妈和阿姨们会烹制深受喜爱的台湾小吃，包括粽子和蚵仔煎。
+
+He starts out with an elegance of mind and sweetness of temperament, reading Goethe’s “The Sorrows of Young Werther” and gathering firewood for a poor family.
+他阅读歌德的《少年维特的烦恼》(The Sorrows of Young Werther)，为一个贫困家庭拾柴火，本是个有着优雅的心灵与和蔼可亲的气质的人物。
+
+ If his onetime lap dog Mike Pence was strung up on the gallows outside the Capitol for refusing to help Trump hold onto his office illegitimately, Trump said, so be it. 
+ 特朗普说，如果迈克·彭斯——他曾经的哈巴狗——因为拒绝帮助特朗普非法保住总统职位而被吊死在国会山外的绞刑架上，那也没什么不行的。
+
+ It’s mind-boggling that so many people still embrace Trump when it’s so plain that he cares only about himself. He was quick to throw Ivanka off the sled on Friday, indicating her opinion did not count since she “was not involved in looking at, or studying, Election results. She had long since checked out.”
+ 匪夷所思的是，特朗普只关心自己，却有这么多人仍然拥护他。周五，他很快就抛弃了伊万卡，表示她的意见不算数，因为她“没有参与查看或研究选举结果。她早就退出了。”
+ 
+ What he found was not boot camp but summer camp. When he and his fellow conscripts jogged, the pace was set by the slowest man, who tired after 100 yards. They spent hours clearing weeds and sweeping. Combat training has also been widely criticized as perfunctory
+ 他发现自己来到的不是新兵训练营，而是夏令营。当他和其他应征者慢跑时，由跑得最慢的人决定速度，那人跑一百公尺后就累了。他们花了几个小时除草和扫地。战斗训练也被广泛批评为敷衍了事
+
+ Rudy Giuliani seemed drunk, and he was making a beeline for the president. It was election night in 2020, and President Donald Trump was seeing his reelection bid slip away, vote by vote. Giuliani, the former New York City mayor and personal lawyer for Trump, was spouting conspiracy theories.
+ 鲁迪·朱利安尼似乎喝醉了，他径直朝总统走去。那是2020年的大选之夜，特朗普总统眼睁睁地看着他的连任竞选正在一票接一票地溜走。前纽约市市长、特朗普的私人律师朱利安尼当时正在大谈阴谋论。
+
+ Many noted that the women had fulfilled all the usual tips about how to avoid harassment — they had gone out in a group and were in a well-lit public space — and were still unsafe. The attackers were charged with “picking quarrels and provoking trouble” and intentional assault.
+ 许多人指出，被打女性采取的都是人们经常建议的如何避免骚扰的做法，她们结伴外出，去的是灯光明亮的公共场所，但她们仍然不安全。法律上对施暴者的指控是“寻衅滋事”和故意伤害。
+
+There are so many incidents that were not filmed, Violence against women, no matter what kind, in our society is really nothing new.
+有好多案子没有录下来，对妇女的暴力，不管是哪一种形式的暴力，实际上在我们的社会生活当中已经屡见不鲜
+
+Retailers “will do as much as they can to demonstrate dramatic changes in pricing where possible,” but they still face pent-up pressures in the supply chain in terms of cost. The tariffs amounted to “pennies on the dollar” for Chinese goods that were already priced far below alternatives from other countries.
+零售商“尽其所能让人们看到价格的巨大变化”，但在成本方面，他们仍然面临着积累已久的供应链压力。中国商品的关税根本是“九牛一毛”，这些商品的标价已经远远低于其他国家的同类商品。
+
+Husarivka was a speed bump in a Russian advance that failed, and we were there doing the same thing as Husarivka’s residents: taking stock of the wreckage and the loss.
+在俄军的这场失败的攻击行动中，古萨里夫卡村只能算是一条减速带，我们在那里做着和古萨里夫卡居民一样的事情：清点残骸和损失。

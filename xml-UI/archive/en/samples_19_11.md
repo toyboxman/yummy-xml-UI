@@ -184,105 +184,257 @@ American turkey can also be hard to **cook well. Prone to bland, dry breast meat
 Many **were totally unaccustomed to** using their ovens, **let alone for such a large bird**, so they asked the restaurant for help. (Ovens are not a typical feature of home kitchens in China, and most Chinese home cooking occurs **on the stovetop**.)
 许多人完全不习惯使用他们的烤箱，更不用说这么大的鸡，于是他们向餐厅求助。(烤箱并非中国家庭厨房的典型配置，大多数中国家庭烹饪都在灶台上进行。)
 
-Their recipe has also **gradually changed to adapt to the oversize bird**. They started out with **a standard five-spice seasoning** based on their roast duck, but found it wasn’t enough to **flavor whole turkeys**, which have a much higher ratio of meat to skin and bone. They added ginger and **cilantro** to the inside-brine mixture, and **boosted the overall seasoning** so it was stronger.
+Their **recipe** has also **gradually changed to adapt to the oversize bird**. They started out with **a standard five-spice seasoning** based on their roast duck, but found it wasn’t enough to **flavor whole turkeys**, which have a much higher ratio of meat to skin and bone. They added ginger and **cilantro** to the inside-brine mixture, and **boosted the overall seasoning** so it was stronger.
+>recipe[ˈresəpi] n.食谱；方法；诀窍；配方；秘诀   
+>gradually change 逐渐改变   
+>oversize 特别大的 n.大号(物)    
+
 他们的食谱也逐渐改变，以便适应这种超大禽类。他们一开始用的是适合烤鸭的标准五香调料，但发现这不足以给整只火鸡调味，因为和鸭子相比，它们肉多，皮和骨头少。他们在卤汁中加入生姜和香菜，提高整体调味效果，使其更加浓郁。
 
-Bryan Cardenas, who is not of **Chinese descent**, has been **serving Sun Wah’s turkey** at Thanksgiving for more than a decade. He has also **incorporated Chinese flavors into** his holiday cooking, **tinkering with dishes** like his fresh cranberry sauce. “I added **a tablespoon** of Chinese five-spice,” he said. “**It was out of this world.”**
+Bryan Cardenas, who is not of **Chinese descent**, has been **serving Sun Wah’s turkey** at Thanksgiving for more than a decade. He has also **incorporated Chinese flavors into** his holiday cooking, **tinkering with dishes** like his fresh cranberry sauce. “I added **a tablespoon of Chinese five-spice**,” he said. “**It was out of this world.”**
+>descent[dɪˈsent] 下降；血统；祖先    
+>Chinese descent 华裔   
+>decent[ˈdis(ə)nt] 体面的；得体的；合适的    
+>incorporate v.包含；吸收；将…包括在内；合并；adj.具体化了的；无形(体)的；精神上的    
+>tinker[ˈtɪŋkər] n.补锅匠 v.小修补   
+>tablespoon 汤匙；大勺   
+>a tablespoon of Chinese five-spice[spaɪs] 一大勺中国五香粉    
+>out of the world 特别好的
+
 布莱恩·卡德纳斯不是华裔，十多年来，他感恩节吃的一直是新华供应的火鸡。他还将中国风味融入到自己的假日烹饪中，用他自己的新鲜蔓越莓酱等菜式进行小小修改。“我加了一大勺中国五香粉，”他说。“感觉太棒了。”
 
-But no one particularly cared if it was good or not: “The only reason we wanted her to cook it was to **make congee** the next day,” Ms. Cheng said **with a laugh.**
+But no one **particularly cared** if it was good or not: “The only reason we wanted her to cook it was to **make congee** the next day,” Ms. Cheng said **with a laugh.**
+>congee['kɒndʒiː] 稀饭；白粥
+
 但是没有人特别在意它是好是坏：“我们想让她做的唯一原因就是第二天可以做粥，”郑文彩笑着说
 
 “It’s such **an ingrained part** of American culture that we wanted to bring home, but to my parents, it was still **completely foreign** to them,” said Andrew Shiue, the Chinese-American writer behind the blog Beyond Chinatown. “We wanted to **take part in this American tradition**.”
+>ingrained[ɪnˈɡreɪnd] 根深蒂固的；日久难改的   
+
 “这是美国文化中根深蒂固的一部分，我们想把它带回家，但这对我的父母来说还是完全陌生的，”博客“城里城外”的博主，华裔美国作家薛唯中(Andrew Shiue)说。“我们想加入这个美国传统。”
 
 Wilson Tang, the owner of Nom Wah **Tea Parlor** in Manhattan’s Chinatown, said his family **dabbled in roasting turkey** at home when he was growing up, with results that were **“hit or miss.”**
+>parlor[ˈpɑrlər] n.客厅；接待室；会客室；adj.适于客厅使用的；只会空谈的    
+>tea parlor 茶室    
+>dabble[ˈdæb(ə)l] v.涉猎；涉足；浅尝；玩水  
+>dabble in literature 涉猎文学   
+>hit or miss 不顾胜败地；冒险地；漫无目的地
+
 曼哈顿华埠南华茶室(Nom Wah Tea Parlor)的老板邓伟说，在他小时候，他的家人曾在家里尝试烤火鸡，最终结果如何要“看运气”。
 
 Yee Li, on nearby Bayard Street, became his family’s **go-to source**. The meat was **moister** than American-style turkey, Mr. Tang said, and the shop would also **carve the turkey in neat pieces**, just like a roast duck or **soy-sauce chicken.**
+>go-to source 来源   
+>moist[mɔɪst] 湿润的; 潮湿的；多雨的    
+>the meat is moister 多汁的肉   
+>neat[nit] n.牛类 adj.整洁的；整齐的；有序的；有条理的   
+>carve in neat pieces 切成整齐的小块    
+>soy-sauce 豉油；酱油
+
 附近摆也街上的裕利肉铺(Yee Li)是他家购买火鸡的主要去处。邓伟说，那里的肉比美式火鸡多汁，而且店家还会把火鸡切成整齐的小块，就像烤鸭或豉油鸡一样。
 
-Although Yee Li closed this year after more than 30 years on Bayard Street, John Chan, **a scion of **the family that had owned the shop, opened New Yee Li in January in Dyker Heights, Brooklyn, **filling a niche for classic Cantonese roast meats and other specialties** in an area with a growing population of Chinese immigrants.
+Although Yee Li closed this year after more than 30 years on Bayard Street, John Chan, **a scion of** the family that had owned the shop, opened New Yee Li in January in Dyker Heights, Brooklyn, **filling a niche** for classic Cantonese roast meats and other specialties in an area with a growing population of Chinese immigrants.
+>scion[ˈsaɪən] n.(尤指名门望族的)子弟；幼枝    
+>a scion of the family 家族后裔    
+>niche[nɪtʃ] n.壁龛；称心的工作(或生活等)；商机；市场定位    
+
 裕利在摆也街上经营了30多年，于今年关门歇业，其所有者的后裔约翰·陈于1月在布鲁克林的戴克高地开了新裕利(New Yee Li)，用传统粤式烤肉和其他特色菜填补这个中国移民人口不断增长地区的小市场。
 
 Quick, who is your favorite president? Is it Abraham Lincoln? Well, you’ll never believe this but Tom Hanks **is related to him**. The **maiden name** of Lincoln’s mother, Nancy, was Hanks, and yes, it’s the same Hanks.
+>maiden name 娘家姓   
+
 问一下，你最喜欢的总统是？是亚伯拉罕·林肯吗？你绝对不会相信，汤姆·汉克斯和他是亲戚。林肯母亲南希的娘家姓是汉克斯，没错，就是这个汉克斯。
 
-Once, in 2015, he **stopped by a table** of Girl Scout Cookies and bought some boxes, donated an additional $20, then **offered selfies to passersby as an enticement to buy**. That same year, he found a young woman’s student ID in a park and used **his charming Twitter feed**, which is filled with found items, to get it back to her
+Once, in 2015, he **stopped by a table** of **Girl Scout** Cookies and bought some boxes, donated an additional $20, then **offered selfies to passersby as an enticement to buy**. That same year, he found a young woman’s student ID in a park and used **his charming Twitter feed**, which is filled with found items, to get it back to her
+>stop by 同“stop off”；顺便拜访；  
+>Girl Scout 女童子军   
+>enticement[ɪnˈtaɪsmənt] n.诱惑；煽动    
+>charming adj.迷人的；英俊的；潇洒的    
+>charming Twitter feed 招人喜爱的Twitter账号   
+
 有一次，2015年，他在一个女童子军饼干摊前驻足，买了几盒饼干，又捐了20美元，然后向路人提供合影机会，吸引他们买饼干。同一年，他在公园里捡到一个女孩的学生证，他利用他那招人喜爱的Twitter账号——里面有各种遗失物品的照片——把证件还给了她
 
 “People have said that Tom is **Hollywood’s Everyman**; that he’s this generation’s Jimmy Stewart or Gary Cooper. But he’s just Tom Hanks. And that’s enough. **That’s more than enough**.” Two years later, Obama gave him **the Presidential Medal of Freedom.**
+>Everyman n.普通人；常人   
+>more than enough 绰绰有余；足够；太多
+
 “人们说汤姆是好莱坞的普通人；他是这一代人的吉米·斯图尔特或加里·库珀。但他只是汤姆·汉克斯。这就足够了。已经太够了。”两年后，奥巴马授予汉克斯总统自由勋章。
 
-That does not really ever happen, an actor waiting for me ahead of **the appointed time, versus clearly dreading me two hours past it**. “I think a long time ago, I learned how important it was to **show up a little bit early**,” Hanks told me. “**Be ready to go**, you know? And to respect the whole process, and I think that you could respect the whole process **even when** the other people don’t.”
+**That does not really ever happen**, an actor waiting for me **ahead of the appointed time, versus clearly dreading me two hours past it**. “I think a long time ago, I learned how important it was to **show up a little bit early**,” Hanks told me. “**Be ready to go**, you know? And to respect the whole process, and I think that you could respect the whole process **even when** the other people don’t.”
+>That does not really ever happen 这种事真是前所未有    
+>ahead of the appointed time 在约定时间之前    
+>versus[ˈvɜrsəs] prep.与...相对    
+>dread n.恐惧；恐怖；可怕 v.害怕；担心
+>a little bit 有点；一点点
+
 这种事真是前所未有，一个演员在约定时间之前等我，而不是用迟到两小时来威吓我。“我想很久以前，我就知道早到是多么重要，”汉克斯告诉我。“做好准备，对吧？尊重整个过程，我认为你可以尊重整个过程，即使其他人不是那么尊重。”
 
-**In the panels after the premiere**, some of the questions seemed to be based on **the notion** that Tom Hanks is so wonderful and Mister Rogersy that he just had to show up and read some lines since hey, they’re both **essentially the same: easygoing nice men** with graying hair.
+**In the panels after the premiere**, some of the questions seemed to be based on **the notion** that Tom Hanks is so wonderful and Mister Rogersy that he just had to **show up and read some lines since** hey, they’re both **essentially the same: easygoing nice men** with graying hair.
+>premiere[prɪˈmɪr] n.首映；首演 v.首演；初次上映；adj.首位的；首次的    
+>panel n.面板；专家组；仪表盘；钣金   
+>notion n.观念；概念；理解；想法；看法   
+>be essentially same 本质是一样    
+>easygoing adj.随和的；容易相处的；悠闲的
+
 在首映式后的座谈上，有些问题似乎是基于这样一种观念：汤姆·汉克斯太棒了，他只要一出场、说几句台词就是罗杰斯先生，因为，嘿，他们的本质是一样的：随和、友善、头发花白的男人。
 
-He is **most often cast in roles** that need what Robert Zemeckis (who directed “Forrest Gump,” among other Hanks movies) calls “that **classic Everyman quality**.” Over my reporting, many, many people told me what an Everyman he is.
+He is **most often cast in roles** that need what Robert Zemeckis (who directed “Forrest Gump,” among other Hanks movies) calls “that **classic Everyman quality**.” Over my reporting, many, many people told me what an Everyman he is. 
+>Everyman quality 普通人品质   
+>most often 最经常；通常
+
 他最常饰演的那些角色都需要《阿甘正传》的导演罗伯特·泽米基斯所说的那种“经典的普通人品质”。在我做采访期间，很多很多人告诉我，汉克斯是一个普通人。
 
-He **was never angry at** his parents; he’s still not. He saw **how hard it was for them to function**. They never explained things to him. Now he knows, “it’s because they didn’t **have the verbiage**. They didn’t **have the vocabulary**. And they **were so racked with self-loathing and guilt and et cetera**, all that stuff that **went along**, and there were four of us, for God’s sake, and they just, you know, couldn’t do it. Now, I’ve got four kids myself, and as soon as you start having your own kids, you go, like, oh, I get it.”
+He **was never angry at** his parents; he’s still not. He saw **how hard it was for them to function**. They never explained things to him. Now he knows, “it’s because they didn’t **have the verbiage**. They didn’t **have the vocabulary**. And they **were so racked with self-loathing and guilt and et cetera**, all that stuff that **went along**, and there were four of us, **for God’s sake**, and they just, you know, couldn’t do it. Now, I’ve got four kids myself, and **as soon as** you start having your own kids, you go, like, oh, I get it.”
+>be angry at 生气   
+>verbiage[ˈvɜrbiɪdʒ] n.冗词；赘语    
+>vocabulary[voʊˈkæbjəˌleri] 词汇表；字汇   
+>rack v.折磨；拷问 n.行李架；工具架   
+>loathing[ˈloʊðiŋ] n.厌恶；憎恨 v.厌恶；憎恨   
+>self-loathing 自憎   
+>et cetera[et ˈset(ə)rə] (=etc.)等等; 以及其他
+
 他从不生父母的气；现在依然没有。他明白他们很难尽到父母的职责。他们从不向他解释任何事情。现在他明白了，“那是因为他们没法长篇大论。他们无话可说。他们被自憎和内疚这些东西折磨得痛苦不堪，所有这些都随之而来，有四个孩子，看在上帝的份上，他们就是做不到。现在，我自己也有了四个孩子，当你自己有了孩子的时候，你会说，哦，我明白了。”
 
 He remembers Oprah once asked him on her show about **his dysfunctional family growing up**, and he thought, “**What’s that? Oh, that’s us.**”
+>dysfunction[dɪsˈfʌŋkʃən] 机能障碍；机能不良    
+>dysfunction family 不正常的家庭
+
 他记得奥普拉曾经在节目中问他，在不正常的家庭成长是什么样的感受，他想，“什么意思？噢，是说我们。”
 
-“**The Reality television show’s** awareness of **safety precautions is too poor**,” Xu Zheng, a prominent actor and director, wrote on Weibo. “**It must be held responsible**!”
+“**The Reality television show’s awareness** of **safety precautions is too poor**,” Xu Zheng, a prominent actor and director, wrote on Weibo. “**It must be held responsible**!”
+>Reality television show 真人秀节目    
+>safety precautions 安全防范意识   
+>precaution[prɪˈkɔʃ(ə)n] n.预防；预防措施；防备 v.使提防；预先警告
+
 “真人秀节目的安全防范意识也太差了，”著名演员、导演徐峥在微博上写道。“绝对要负责啊！”
 
-**Adrenaline-pumping moments are a staple**, often filmed at night in a downtown stretch of Ningbo. In one recent episode, a professional boxer **fell into a ball pit and struggled to emerge** as his teammates watched on.
+**Adrenaline-pumping moments are a staple**, often filmed at night in a **downtown stretch** of Ningbo. In one recent episode, a professional boxer **fell into a ball pit and struggled to emerge** as his teammates watched on.
+>adrenaline[əˈdren(ə)lɪn] 肾上腺激素；兴奋   
+>Adrenaline-pumping moments 打 鸡血时刻   
+>staple n.主食；订书钉；主要成分；v.装订 adj.最重要的   
+>downtown stretch 市区周边   
+>ball pit 球坑   
+
 使人热血沸腾的兴奋时刻是节目的主要内容，拍摄现场通常是夜间的宁波市区。在最近的一集里，一名职业拳击运动员掉进了一个球坑，在队友的注视下挣扎着爬了出来
 
-Early on Wednesday, Mr. Gao was **filming a guest appearance on the ninth episode** of “Chase Me” when he collapsed, according to the statement by the show’s producers. The show’s medical staff tried to **revive him**, but when they could not, Mr. Gao was taken to a hospital and **pronounced dead**, the producers said.
+Early on Wednesday, Mr. Gao was **filming a guest appearance on the ninth episode** of “Chase Me” when he collapsed, **according to the statement** by the show’s producers. The show’s medical staff tried to **revive him**, but when they could not, Mr. Gao was taken to a hospital and **pronounced dead**, the producers said.
+>guest appearance 客串   
+>the ninth episode 第九集   
+>revive sb 做医疗复苏
+
 据节目组周三早些时候的声明，高以翔在拍摄《追我吧》第九集时突然晕倒。节目组说，现场的医务人员试图对他进行救治，但未成功，高以翔被送往医院，并在那里被宣布死亡
 
-“Everyone can make a difference,” he wrote in a post in July, **“one small step at a time.”**“每个人都能有所作为，”他在今年7月的一个帖子中写道，“只要持之以恒。”
+“Everyone can **make a difference**,” he wrote in a post in July, “**one small step at a time**.”
+>one small step at a time 一次一小步    
 
-**Given that**, you might expect me to think that Thanksgiving is one of the most important days of the year. **After all**, if there’s a day on which the benefits of gratitude are maximized, surely it’s the national holiday **set aside for the purpose of expressing that emotion.**
+“每个人都能有所作为，”他在今年7月的一个帖子中写道，“只要持之以恒。”
+
+**Given that**, you might expect me to think that Thanksgiving is one of the most important days of the year. **After all**, if there’s a day on which the benefits of gratitude **are maximized**, surely it’s the national holiday **set aside for the purpose of expressing that emotion**.
+>Given that 假定；考虑到   
+>After all 毕竟    
+>set aside 挑出，留出; 搁置；驳回；取消    
+>set aside the national holiday  设置国家节日    
+
 因此，你可能会觉得我认为感恩节是一年中最重要的日子之一。毕竟，如果某一天感恩的好处被最大化，那这一天一定会是为了表达这种感情而专门设置的国家节日.
 
 **But truth be told**, gratitude is wasted on Thanksgiving. **Don’t get me wrong**: I love the **rhythms and rituals of the day as much as anyone**
+>truth be told 老实说；说实话    
+>get sb wrong 误解某人的意思    
+>rhythm[ˈrɪðəm] n.节奏；节律；韵律；规律    
+
 但说实话，感恩在感恩节实属浪费。不要误解我的意思：我和大家一样喜欢这一天的节奏和仪式传统
 
 Consider that one of gratitude’s **central purposes** is to help us **form strong bonds with** other people
+>central purposes 核心目的    
+>form strong bonds with 建立牢固的联系
+
 感恩的核心目的之一，就是帮助我们与他人建立牢固的联系
 
-**To be clear**, I’m not saying that taking time to **reflect on and show appreciation for the good in life isn’t worthwhile**. It’s surely **a noble act**. But from a scientific perspective — where emotions exist to **nudge our decisions and behaviors toward certain ends** — the benefits that gratitude offers **tend to be rendered irrelevant on the day it’s most expressed**.
+**To be clear**, I’m not saying that **taking time to reflect on** and **show appreciation for the good in life** isn’t **worthwhile**. It’s **surely a noble act**. But **from a scientific perspective** — where **emotions exist to nudge our decisions and behaviors toward certain ends** — the benefits that gratitude offers **tend to be rendered irrelevant on the day it’s most expressed**.
+>To be clear 需要明确的是   
+>reflect on v.反省；考虑；回想     
+>worthwhile[ˌwɜrθˈhwaɪl] 值得的；值得做的；重要的    
+>surely adv.一定；无疑；必定     
+>noble act 高尚的行为    
+>noble 崇高的；品质高尚的；贵族的   
+>exist v.存在    
+>emotions exist to nudge decisions toward certain ends 情绪的存在会推动我们决定朝着特定方向发展    
+>render v.渲染；使得；致使 n.粉刷    
+>irrelevant[ɪˈreləvənt] adj.无关紧要的；不相关的
+
 需要明确的是，我并不是说花时间反省、表达对生活中美好事物的欣赏是不值得的。这当然是一种高尚的行为。但从科学的角度看——情绪的存在会推动我们决定和行为朝着特定方向发展——感恩带来的好处，往往在表达最多的那一天变得无关紧要
 
-When my colleagues and I asked people to report whether a coin they **flipped** in private **came up heads or tails** (heads meant they’d get more money), those who had been made to feel grateful (by **counting their blessings**) cheated at half the rate of others. (We knew who cheated because the coin **was rigged to come up tails**.)
-当我和同事们让人们报告他们私下掷出的硬币是正面还是反面时（正面意味着他们会得到更多钱），那些（通过历数自己的幸福）变得心怀感激的人作弊率只有其他人的一半。（我们知道谁作弊了，因为硬币被设计成反面朝上。）
+When my colleagues and I asked people to report whether **a coin they flipped in private came up heads or tails** (heads meant they’d get more money), those who had been made to feel grateful (by **counting their blessings**) cheated at half the rate of others. (We knew who cheated because the coin **was rigged to come up tails**.)
+>a coin comes up heads or tails 硬币是正面还是反面    
+>be rigged to come up tails 被操纵成反面朝上
+
+当我和同事们让人们报告他们私下掷出的硬币是正面还是反面时(正面意味着他们会得到更多钱)，那些(通过历数自己的幸福)变得心怀感激的人作弊率只有其他人的一半。(我们知道谁作弊了，因为硬币被设计成反面朝上)
 
 Research by me and my colleagues found that people feeling grateful **made less impulsive financial choices** — they were more willing to be patient for future investment gains than to **take smaller amounts of money in hand**
+>make less implusive financial choices 更少做冲动的财务选择    
+>in hand 在掌握中；在进行中；在控制中    
+>take smaller amounts of money in hand 贪图眼前小利
+
 我和同事的研究发现，感恩的人更少做冲动的财务选择——他们更愿对未来的投资收益保持耐心，而不是贪图眼前小利
 
-Gratitude also **drives us to be more productive.** There’s one other benefit of gratitude I want to point out: **It reduces materialism**
+Gratitude also **drives us to be more productive**. There’s one other benefit of gratitude I want to point out: **It reduces materialism**
+>reduce materialism 减少物质主义
+
 感恩还会让我们更有效率, 我想指出感恩的另一个好处：它可以减少物质主义
 
-This finding **jibes with research** by the psychologist Thomas Gilovich that shows that people tend to be more grateful for time spent with others than for **gifts of big-ticket items**
+This finding **jibes with research by the psychologist** Thomas Gilovich that shows that people **tend to be more grateful for time spent** with others than for **gifts of big-ticket items**
+>jibe[dʒaɪb] v.嘲讽；挖苦；相匹配；与...一致；符合 n.嘲讽；嘲弄；讥讽    
+>jibe with research 与研究相符   
+>big-ticket 昂贵的；高价的   
+
 这一发现与心理学家托马斯·基洛维奇的研究相符，该研究表明，比起昂贵的礼物，人们往往对与他人相处的时间更有感激之情
 
-Yet on the other 364 days of the year — the ones when you might feel lonely, **stressed at work, tempted to dishonesty or stinginess** — pausing to **cultivate a sense** of gratitude can make a big difference
+Yet on the other 364 days of the year — the ones when you might **feel lonely, stressed at work, tempted to dishonesty or stinginess** — pausing to **cultivate a sense of gratitude** can make a big difference
+>lonely adj.孤独的；寂寞的   
+>lone adj.单独的；独自的；孤独的；孤单的；寂寞的    
+>stressed at work 工作压力大    
+>stinginess['stɪndʒɪnəs]  n.吝啬；小气   
+>stingy[ˈstɪndʒi] 吝啬的；小气的；    
+>be tempted to dishonesty or stinginess 受惑去欺骗或变成小家子气    
+>cultivate a sense of gratitude 培养感恩之心   
+
 但在一年中的其他364天——那些你可能会感到孤独、工作压力大、受惑去欺骗或小家子气的日子里，停下来培养感恩之心就会带来很大的不同
 
-The **ripping sound you hear** is the sound of two giant economies starting to decouple.
+The **ripping sound you hear** is the sound of two giant economies **starting to decouple**.
+>ripping sound 撕裂声
+
 你听到的撕裂声，是两个经济大国开始脱钩的声音
 
-**Protracted visa delays** and “**harsh rhetoric** against most immigrants,” Reif added, are sending a message that “the U.S. is closing the door — that we no longer seek to be **a magnet for the world’s most driven and creative individuals.”**
+**Protracted visa delays** and “**harsh rhetoric** against most immigrants,” Reif added, are sending a message that “the U.S. is closing the door — that we no longer seek to be **a magnet for the world’s most driven and creative individuals**.”
+>protracted[prəˈtræktɪd] adj.拖沓的; 拖延的    
+>protracted visa dealys 长期的签证延误   
+>harsh rhetoric 严厉措辞   
+>the world’s most driven and creative individuals 世界上最具动力和创造力的个人
+
 赖夫还说，长期的签证延误和“针对大多数移民的严厉措辞”发出了这样一个信息，即“美国正在关闭大门——我们不再寻求成为磁石，吸引世界上最具动力和创造力的个人”
 
 This decoupling is not all Trump’s fault — not **by a long shot**
+>by a long shot 在很大程度上    
+>not by a long shot 绝对不是
+
 这种脱钩并不全是特朗普的错——绝对不是
 
-“Levi’s started it all and definitely we have **had a lot of inspiration from** Levi’s,” she said, “but we **tend not to follow anyone and try to have our own originality.”**
+“Levi’s started it all and definitely we have **had a lot of inspiration from** Levi’s,” she said, “but we **tend not to follow anyone and try to have our own originality**.”
+>originality[əˌrɪdʒəˈnæləti] n.创意；独创性   
+
 “李维斯开创了这一切，毫无疑问，我们从李维斯那里得到了很多灵感，”她说，“但我们不会跟着别人走，而是试着拿出自己的创意。”
 
-“They are uncomfortable at the beginning, as the material **is really quite stiff**. And also because **in the waist** you buy them quite tight at the beginning, about one inch,” Ms. Makino said. “But if you can **bear with them for a while**, they **get really well-fitting** and you can just wear them every day.”
+“They **are uncomfortable at the beginning**, as the material **is really quite stiff**. And also because **in the waist** you buy them quite tight at the beginning, about one inch,” Ms. Makino said. “But if you can **bear with them for a while**, they **get really well-fitting** and you can just wear them every day.”
+>stiff[stɪf] adj.僵直的；拘谨的；生硬的；僵硬的 adv.非常；极其；(冻)僵；v.诈骗；不还钱；不给小费 n.死尸      
+>waist n.腰部    
+>bear with sth for a while 忍受一段时间    
+>well-fitting 合身的
+
 “一开始会不舒服，因为面料真的很硬。而且刚买完的时候穿会感觉腰部比较紧，大约有一英寸，”牧野说。“但如果你能忍受一段时间，它们会变得非常合身，你可以每天都穿。”
 
 To **make their own truly domestic denim**, Japanese manufacturers had to forget much of what they’d learned in **a millennium of dyeing with indigo**. If the color went all the way through the fabric, the jeans **wouldn’t fade**. They had to **dye the threads more shallowly**, maintaining a white center that would start to show over time
+>denim[ˈdenɪm] 牛仔布；牛仔裤     
+>indigo[ˈɪndɪɡoʊ] n.靛蓝；adj.靛蓝的   
+
 为了制造真正属于本土的牛仔，日本制造商不得不忘掉他们在千年蓝染传统中学到的许多东西。如果颜色渗透布料，就不会褪色了。他们不得不将线股染得更浅，保持其中心是白色，这样随着时间的推移，白色才会显露出来
 
 Brands **branched off with different levels of dedication to strict tradition**, from the **copper rivets to the chain-stitched hems to the classic cut to the selvage denim**, which **signifies** that the fabric was made on **small-batch looms.** It comes from this really **Confucian idea**
@@ -292,8 +444,7 @@ Brands **branched off with different levels of dedication to strict tradition**,
 >rivet[ˈrɪvɪt] n.铆钉 v.铆接；吸引住；固定    
 >copper rivet 铜铆钉    
 >hem n.卷边 v.(给某物)缝边     
->the chain-stitched hems 链式缝边     
->denim[ˈdenɪm] 牛仔布；牛仔裤   
+>the chain-stitched hems 链式缝边       
 >selvage['selvɪdʒ] 布的织边；镶边    
 >signify v.表示；说明；意味    
 >loom v.若隐若现；迫近；逼近 n.织布机    
