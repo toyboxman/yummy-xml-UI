@@ -116,72 +116,183 @@ Signs of any **infectious disease** need to be repeatedly verified and investiga
 根据世界卫生组织的说法，如果没有得到及时治疗，鼠疫通常是致命的。但该机构也表示，如果在症状发作后的24小时内被确诊并得到抗生素治疗，康复率相当高
 
 I’m **shaking and trembling.**
+>tremble v.颤抖；发抖；n.战栗; 摇晃     
+>shake and tremble 瑟瑟发抖    
 我简直瑟瑟发抖好吗
 
 Apple unveiled a new 16-inch MacBook with **a revamped keyboard** on Wednesday, good news for the many Apple lovers who’ve been **grumbling** about the company’s **lackluster slate of recent Macs**
+>revamped keyboard 改进后的键盘    
+>grumble v.发牢骚；咕哝；n.嘟囔；牢骚    
+>lackluster[ˈlækˌlʌstər] 无光泽的；无生气的; “lacklustre”的变体     
+>slate n.石板；候选人名单 v.安排；预定；计划   
+>lackluster slate of recent Macs 最近几款Mac电脑缺乏亮点
+
 苹果公司于周三发布了一款全新的16英寸MacBook，键盘经过了改进，这对很多一直抱怨最近几款Mac电脑缺乏亮点的苹果爱好者来说是个好消息
 
 But I think the iPad is already beginning to **eclipse the traditional personal computer**
+>eclipse n.日食；月食；黯然失色 v.遮住…的光；使相形见绌
+
 但我认为iPad已经开始超越传统个人电脑
 
 Tablets were **good for surfing the Web** and watching Netflix, but they’ve always **been dogged by the charge** that you couldn’t get a lot of work done on them
+>surf[sɜrf] n.表面；激浪 v.在(电脑上)冲浪     
+>dog v.跟踪；笼罩在…心头；弄得…狼狈不堪；被…困扰    
+>be dogged by the charge 总被指责   
+
 平板电脑本来很适合上网、看Netflix，但它们总被指责没法用来做太多工作
 
 **Among other things**, I now research and write just about **every column** using an iPad (I still **compose many first drafts** by speaking into my headphones, but I’m **an odd duck**)
+>among other things 其中；此外；除了其它方面    
+>compose many first drafts 写许多初稿    
+>odd duck 怪人
+
 特别是，我现在几乎所有专栏文章的案头和撰写都是用iPad（我仍然通过对着耳机说话来写许多初稿，但我是个怪人）
 
-I thought I had **gotten out of the gadget-reviewing business for good** last year. Since the smartphone had **gobbled up everything** from cameras to music players to portable gaming systems, I declared the whole field of gadgetry dead. But just when I thought I was out, they pulled me back in
+I thought I had **gotten out of the gadget-reviewing business for good** last year. Since the smartphone had **gobbled up everything** from cameras to music players to portable gaming systems, I **declared the whole field of gadgetry dead**. But just when I thought I was out, they pulled me back in
+>gadget[ˈɡædʒət] 小器具；小装置   
+>gadget-reviewing business for good 电子产品评测行业    
+>gobble[ˈɡɑb(ə)l] v.狼吞虎咽；贪婪地吃；n.(火鸡的)咯咯叫    
+>gobble up 狼吞虎咽；吞并     
+
 去年，我以为自己永远离开了电子产品评测行业。由于智能手机吞噬了从相机到音乐播放器再到便携游戏系统的一切，我宣告整个电子设备领域的死亡。但就在我以为自己出局的时候，它们又把我拉了回来
 
 The history of the iPad is a story about **consolidation, focus and the power of scale** in the tech business. It’s a story about **how thoroughly one company**, Apple, has **dominated the entire hardware business** this decade. And it is also, really, a story about the only thing that mattered in tech in the 2010s — the smartphone — and the way that one device **became the gravitational center** of the entire tech business, **shaping every market** in the industry, and much of the non-tech world beyond it
+>thoroughly dominated the entire hardware business 彻底统治整个硬件行业    
+>gravitational center 重心   
+>shape every market 塑造着每一个市场
+
 IPad的历史是一则技术行业整合、聚焦和规模化力量的故事，是关于苹果公司如何彻底统治整个硬件行业的故事。而且，真的，它也关乎2010年代科技产业内唯一一件重要的东西——智能手机——以及一个设备怎样成为整个技术企业的中心，塑造着技术行业的每一个市场，以及它自身之外非技术世界的大部分市场
 
 The iPad has always **been freighted with great expectations**. Although the iPad was unveiled in 2010, three years after the iPhone, **development of the iPad predated development of the phone**, and Steve Jobs, Apple’s co-founder, always seemed to **have his heart in the tablet**
+>freight[freɪt] n.v.货运；寄送；使充满(某种心情或口气)   
+>be feighted with great expectations 抱有很大的期待    
+>predate v.早于；先于    
+>have one's heart in 热衷于；用心；对某事有兴趣
+
 人们对iPad一直抱有很大的期待。尽管是在iPhone发布三年后的2010年发布的，iPad的开发早于iPhone，而苹果的联合创始人史蒂夫·乔布斯似乎总对平板电脑情有独钟
 
 The traditional Mac and Windows machines **would still be around, but like big rigs**, they’d be used by a small set of power users for **a dwindling set of specific, high-power tasks**
+>high-power 大功率的；大容量的；力量大的   
+>big rigs 大型钻机
+
 传统的Mac和Windows电脑仍将存在，但像大型钻机一样，它们将只被一小部分高级用户用于越来越少的特定高强度任务
 
-For a while, he was only **partially right**. The iPad sold well **at launch**, but after a few years it **hit some hurdles**. After Jobs’s death, Apple **left the iPad to languish, and did something similar with the Mac**
+For a while, he was only **partially right**. The iPad **sold well at launch**, but after a few years it **hit some hurdles**. After Jobs’s death, Apple **left the iPad to languish, and did something similar with the Mac**
+>at launch 一开始    
+>hit some hurdles 遇到了一些障碍    
+>languish[ˈlæŋɡwɪʃ] n.憔悴；脉脉含情 v.被迫滞留；长期受苦；受煎熬；变得衰弱
+
 有一段时间，他的话只有部分是正确的。iPad一上市就卖得很好，但几年后就遇到了一些障碍。乔布斯去世后，苹果公司任凭iPad逐渐衰落，对待Mac也同样如此
 
 The smartphone also **altered the business dynamics** of the tech industry, and **decimated a host of phone brands** (remember Nokia? Motorola?)
+>altered the business dynamics 改变商业格局(动态)    
+>decimate[ˈdesɪˌmeɪt] v.大量毁灭；严重破坏
+
 智能手机还改变了科技行业的商业格局, 摧毁了许多手机品牌（还记得诺基亚吗？）
 
-Apple’s dominance **came despite the fact** that the company made some big mistakes and was late to many big innovations. Samsung, not Apple, invented huge-screen phones. Apple’s Mac line **was plagued by delays and dead ends**
+Apple’s **dominance came despite** the fact that the company made some big mistakes and was late to many big innovations. Samsung, not Apple, invented **huge-screen phones**. Apple’s Mac line **was plagued by delays and dead ends**
+>dominance came 占据主导地位    
+
 苹果公司占据主导地位的同时也犯了一些大错，而且在很多重大创新上都晚了一步。发明大屏幕手机的不是苹果，而是三星。苹果的Mac系列产品频频出现延期，找不到出路
 
-The three days **leading up to** Thanksgiving are manic at Kau Kau BBQ Market & Restaurant, **a mainstay** in Seattle’s Chinatown that **specializes in** Chinese barbecue. At least two extra cooks are brought on to help **clean, brine, dry, baste and roast** holiday turkeys 24 hours a day in the kitchen’s already **packed ovens: crisp-skinned, five-spice-seasoned birds** that Kau Kau makes according to the same process it uses for its roast duck.
+The three days **leading up to** Thanksgiving are **manic** at Kau Kau BBQ Market & Restaurant, **a mainstay** in Seattle’s Chinatown that **specializes in** Chinese barbecue. At least two extra cooks are brought on to help **clean, brine, dry, baste and roast** holiday turkeys 24 hours a day in the kitchen’s already **packed ovens: crisp-skinned, five-spice-seasoned birds** that Kau Kau makes according to the same process it uses for its roast duck.
+>leading up to 在..之前    
+>manic[ˈmænɪk] 狂热的；兴奋的；忙乱的；躁狂的 n.躁狂者    
+>mainstay n.支柱；中流砥柱    
+>specialize in v.专攻；专门研究; 专营；专门从事    
+>brine[braɪn] n.卤水；海水 v.用盐水泡   
+>baste[beɪst] v.(烹调时往肉等上)浇卤汁；粗缝     
+>crisp-skinned, five-spice-seasoned birds 脆皮五香火鸡
+
 感恩节前的三天，巧巧海鲜烧腊饭店一片忙乱，这是西雅图华埠主打中式烧烤的一家招牌餐厅。餐厅至少多雇了两名厨师，帮忙一天24小时清洗、腌渍、风干火鸡，然后刷汁塞进已经满满当当的烤箱里烤：巧巧用制作烤鸭的同样流程制作的脆皮五香火鸡
 
-There is one day of the year when roast duck, **soy-sauce chicken, char siu and crispy roast pork** may be cast aside for **plump turkeys**. Available from chains like 99 Ranch Market and **mom-and-pop shops alike**, and often with **sticky rice, steamed buns and hoisin-based sauces** on the side, these Chinese barbecue-style turkeys provide **an inroad to** Thanksgiving for many Chinese-Americans
+There is one day of the year when **roast duck, soy-sauce chicken, char siu and crispy roast pork** may be **cast aside** for **plump turkeys**. Available from chains like 99 Ranch Market and **mom-and-pop shops alike**, and often with **sticky rice, steamed buns and hoisin-based sauces** on the side, these Chinese barbecue-style turkeys provide **an inroad to** Thanksgiving for many Chinese-Americans
+>char siu 叉烧   
+>crispy[ˈkrɪspi] 卷曲的；脆的；爽快的; 易碎的   
+>crispy roast pork 脆皮烧肉    
+>cast aside 废除；抛弃
+>plump[plʌmp] adj.丰腴的；胖嘟嘟；鼓起的；adv.噗通地；直接了当地 n.队；沉重的坠落；v.使变大；使更软；使更圆    
+>plump turkey 圆滚滚的火鸡   
+>mom-and-pop shops 夫妻档店   
+>alike adj.相同的；相似的 adv.很相似地；同样地    
+>sticky rice 糯米   
+>steamed buns 馒头   
+>hoisin-based sauces 海鲜酱   
+>inroad n.进展; 袭击；侵入   
+
 一年中总有一天，烤鸭、酱油鸡、叉烧和脆皮烧肉可能会被人们抛到一边，转而享用圆滚滚的火鸡。这种中式烧烤火鸡可以从大华超级市场和夫妻档店铺买到，一般会配上糯米、馒头和海鲜酱，对很多华裔美国人而言，它们是往感恩节中注入自己的影响的一个好办法
 
 “If they don’t, we usually **kind of worry**,” Mr. Chang said. “We **hope nothing happened to them**.”
+>hope nothing happened to them 希望他们平安无事
+
 “如果他们没点，我们通常会有点担心，”理查德·张说。“我们希望他们平安无事。”
 
 But **the main draw of** a turkey roasted according to **the lengthy procedures** of professional Chinese barbecue is **juicy, flavorful meat**.
+>lengthy[ˈleŋθi] 很长的；漫长的   
+>juicy, flavorful meat 多汁、美味的肉
+
 但按照中国专业烧烤的漫长程序烤制的火鸡，主要吸引力是多汁、美味的肉
 
 **Rather than filling the turkey’s cavity with a bready stuffing** to roast, Chinese barbecue cooks typically fill it many hours ahead **with a wet, mushy marinade** that may include toasted **dry spices, onions, garlic, ginger and plenty of salt**, then **skewer the cavity shut**.
+>cavity[ˈkævəti] n.洞；蛀牙；空洞；空腔    
+>fill the turkey's cavity 填满火鸡腔   
+>bready stuffing 面包填料    
+>mushy[ˈmʌʃi] 软而稠的；糊状的；多愁善感的   
+>marinade[ˌmerəˈneɪd] 腌料；卤汁   
+>skewer[ˈskjuər] n.(烹饪用)扦子 v.用扦子串住   
+
 中国的烧烤厨师通常会提前几小时用湿糊状的腌料填满火鸡腔，其中可能包括烘烤过的干香料、洋葱、大蒜、姜和大量的盐，然后用串肉扦把内腔合上，而不是用面包填料填满腔体，进行烤制
 
 He **passed that knowledge on to** his sons, although the brothers have **made slight tweaks to the classic recipes**. That includes the shop’s Thanksgiving turkey, which **dates back to the time before** their father joined the business
+>make slight tweaks 做了些小的修改    
+>date back to 追溯到；始于   
+
 他把这些知识传给了两个儿子，尽管兄弟俩对这些经典食谱做了些小的修改。其中包括这家店的感恩节火鸡，这道菜在他们的父亲进入这家店工作之前就已经有了
 
 For their **in-demand turkey**, the Cheungs apply **a dry rub of Chinese spices like star anise and licorice to the cavity**, then fill it with **a mixture of onions, garlic and celery**. The turkeys, like ducks, are then **skewered up to close** the cavity, **scalded with hot water to tighten the skin** and clean off any **seasoning mixture, coated in vinegar**, and hung to dry for 12 hours
+>in-demand 有需求；销路好；非常需要的    
+>rub v.n.擦；抹；搓；揉；(使)相互磨擦   
+>anise['ænɪs] 茴香；八角   
+>licorice[ˈlɪkərɪʃ] n.甘草; 同“liquorice”  
+>celery[ˈsɛləri] 芹菜   
+>scald[skɔld] v.n.烫伤
+>seasoning n.调味品；作料   
+>coated in vinegar[ˈvɪnɪɡər] 涂上醋
+
 对于他们的热销火鸡，郑氏兄弟将八角和甘草等中国香料干擦在火鸡腔内壁，再用洋葱、大蒜和芹菜的混合物填满火鸡腔。然后，把火鸡像鸭子一样串起，合上腔体，用热水烫一下，收紧鸡皮，清理掉任何调料混合物，涂上醋，挂起来晾12个小时
 
 To **further set themselves apart from** other Chinese barbecue restaurants in the area, Eric Cheung created a Southern-style **cream gravy to go with their turkey, using the necks, gizzards and liver** — a twist he said **was inspired by his fondness** for chicken-fried steak at places like IHOP
+>set apart 区分；拨出；使分离    
+>gravy[ˈɡreɪvi] n.肉汁；意外之财；飞来福    
+>cream gravy 奶油肉汁    
+>gizzard[ˈɡɪzərd] n.肌胃；鸡胗    
+>fondness n.喜欢；喜爱；爱好
+
 为了进一步将自己与该地区其他中国烧烤餐厅区分开来，埃里克·郑用鸡脖、胗和肝制作了一道南方风味的奶油肉汁来搭配他们的火鸡——他说，这一变化的灵感来自于他喜欢吃的IHOP等餐厅的炸鸡排
 
 For Hing Lung’s customers, who are **predominantly Chinese-American**, the turkey **strikes a balance**, allowing them to **assimilate to American holiday conventions without sacrificing their tastes**. After all, what could be more American than **having things your way?**
+>predominantly adv.主要地；占主导地位地；压倒性地     
+>strike a balance 冲帐；取得平衡    
+>assimilate[əˈsɪmɪˌleɪt] v.吸收；消化；透彻理解    
+>have things your way 随心所欲
+
 对于以美籍华人为主的兴隆的顾客而言，火鸡实现了一种平衡，让他们在不牺牲口感的同时融入美国的节日习俗。毕竟，还有什么比随心所欲更具美国特色呢?
 
-American turkey can also be hard to **cook well. Prone to bland, dry breast meat and blackened wing tips**, the bulky bird is a challenge for home cooks all over
+American turkey can also **be hard to cook well. Prone to bland, dry breast meat and blackened wing tips**, the **bulky bird** is a challenge for home cooks all over
+>prone to v.易于; 倾向于    
+>bland[blænd] 平淡的；乏味的；清淡的   
+>dry breast meat 干燥的胸脯肉   
+>blacken v.(使)变黑；抹黑；丑化     
+>bulky[ˈbʌlki] 庞大的；笨重的；大块头的     
+
 而且美国火鸡也很难做好。大块头的火鸡容易做出淡而干燥的胸脯肉和变黑的翼尖，对所有的家庭厨师来说都是一个挑战
 
 Many **were totally unaccustomed to** using their ovens, **let alone for such a large bird**, so they asked the restaurant for help. (Ovens are not a typical feature of home kitchens in China, and most Chinese home cooking occurs **on the stovetop**.)
+>unaccustomed[ˌʌnəˈkʌstəmd] 不习惯的；反常的    
+>be totally unaccustomed to using 完全不习惯使用     
+>let alone 更别提；更不必说    
+>stovetop 炉头; 灶台
+
 许多人完全不习惯使用他们的烤箱，更不用说这么大的鸡，于是他们向餐厅求助。(烤箱并非中国家庭厨房的典型配置，大多数中国家庭烹饪都在灶台上进行。)
 
 Their **recipe** has also **gradually changed to adapt to the oversize bird**. They started out with **a standard five-spice seasoning** based on their roast duck, but found it wasn’t enough to **flavor whole turkeys**, which have a much higher ratio of meat to skin and bone. They added ginger and **cilantro** to the inside-brine mixture, and **boosted the overall seasoning** so it was stronger.

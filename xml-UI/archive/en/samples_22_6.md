@@ -210,3 +210,19 @@ Retailers “will do as much as they can to demonstrate dramatic changes in pric
 
 Husarivka was a speed bump in a Russian advance that failed, and we were there doing the same thing as Husarivka’s residents: taking stock of the wreckage and the loss.
 在俄军的这场失败的攻击行动中，古萨里夫卡村只能算是一条减速带，我们在那里做着和古萨里夫卡居民一样的事情：清点残骸和损失。
+
+In Bangladesh, floods that came before the monsoons stranded millions of people, complicating longstanding efforts to improve the country’s response to chronic flooding. In Nepal, officials are trying to drain about-to-burst glacial lakes before they wash away Himalayan villages facing a new phenomenon: too much rain, too little drinking water.
+在孟加拉国，雨季之前发生的洪水使数百万人陷入困境，给该国治理水患痼疾的长期努力增加了困难。在尼泊尔，官员们正试图排干冰川湖，因为一旦破裂，湖水会冲毁喜马拉雅地区的村庄，这些村庄面临一个新的现象：雨水过多，饮用水过少。
+
+Heavy rains came earlier and lasted longer than usual, inundating the fields. When the unseasonably heavy rains flooded the fields, and then the equally unseasonable heat shriveled the seeds, it didn’t just slash Ranjit Singh’s wheat harvest by nearly half.
+暴雨比往年来得更早，持续时间也更长，淹没了农田。反常的大雨淹没了农田，接着，同样反常的高温使种子枯萎，对兰吉特·辛格来说，损失的并不只是将近一半的小麦歉收。
+
+India was “extremely vulnerable” to food security threats not just because of drops in production, but also because much of the population could struggle to afford food as prices rise.
+印度“极其容易”受到粮食安全威胁的影响，这不仅是因为产量下降，还因为随着粮价上涨，很多人可能负担不起食品价格。
+
+On top of the fires came pestilence. Panic gripped the mountain town of Pir Koh after a large number of people — most of them children — experienced diarrhea, vomiting and leg cramps.
+大火之外还暴发了瘟疫。在大量民众——其中大多数是儿童——出现腹泻、呕吐和腿部抽筋的状况后，山城皮尔科陷入了恐慌。
+
+ Scores of manufacturers have rolled out such systems in recent years, including features that let you take your hands off the steering wheel under certain conditions and that help you parallel park.
+ 近年来，数十家制造商推出了这类系统，包括在某些情况下让手离开方向盘的功能，以及帮助你侧方停车的功能。
+

@@ -34,7 +34,7 @@ President Trump **was right to engage in** some trade **shock therapy** with Bei
 
 高调的国事访问，访问将包括熊猫外交，并在与华盛顿的关系持续紧张之际，强调北京莫斯科轴心的加强。
 
-We see **record-high** volumes of trade with China, we see **positive dynamics**, joint projects and **so on and so forth**
+We see **record-high** volumes of trade with China, we see **positive dynamics**, joint projects **and so on and so forth**
 >record-high 历史新高  
 >positive dynamics 积极的往来态势  
 >so on and so forth 如此等等；如此这般
