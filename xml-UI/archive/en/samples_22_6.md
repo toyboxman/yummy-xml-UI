@@ -226,3 +226,18 @@ On top of the fires came pestilence. Panic gripped the mountain town of Pir Koh 
  Scores of manufacturers have rolled out such systems in recent years, including features that let you take your hands off the steering wheel under certain conditions and that help you parallel park.
  近年来，数十家制造商推出了这类系统，包括在某些情况下让手离开方向盘的功能，以及帮助你侧方停车的功能。
 
+Unlike its two earlier carriers that feature a “ski jump” deck, the Fujian has an electromagnetic catapult system, previously a feature that only the U.S. Navy had
+福建舰与之前的两艘滑跃式甲板航母不同，它配置了电磁弹射系统，这种技术曾是美国海军所独有
+
+A year ago, business was humming for Liang Jiawei, a property salesman in Zhanjiang, He could sell three apartments in a day without much arm-twisting. The apartments were fairly generic
+一年前，中国南方沿海城市湛江的房地产销售梁嘉伟的生意还不错。他一天轻轻松松就能卖掉三套公寓。这些公寓相当普通
+
+Less bombastic in his exhortations, President Joe Biden nevertheless also evokes the specter of China to urge a retreat from the failed policies of past administrations.
+拜登总统敦促从过去政府的失败政策中撤退，虽然他的劝告没有那么夸张，但仍然引发了人们对中国的担忧
+
+People are making tough choices in terms of what do they cut back on, and for lower income families there’s not a lot of wiggle room there.
+人们正在艰难地选择削减哪方面的支出，而对于低收入家庭来说没有太多的回旋余地。
+
+Denied federal support ever since, the SETI endeavor has limped along, supported by donations to a nonprofit organization, the SETI Institute, in Mountain View
+自那以后，由于得不到联邦政府的支持，SETI计划一直举步维艰，其资金来自于加州山景城的非营利组织SETI研究所。
+

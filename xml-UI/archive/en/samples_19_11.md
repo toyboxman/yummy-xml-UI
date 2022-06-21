@@ -113,6 +113,7 @@ Signs of any **infectious disease** need to be repeatedly verified and investiga
 “经过这么多年的专科培训，对于绝大多数呼吸系统疾病的诊疗，我已驾轻就熟，”李积凤写道。“但是这一次，我看了又看，完全推测不出是什么病原体导致的肺炎，只觉得是少见病。”
 
 **If left untreated**, pneumonic plague is always fatal, according to the World Health Organization. But recovery rates are high **if detected and treated with antibiotics, within 24 hours of the onset of symptoms**, the agency said.
+>
 根据世界卫生组织的说法，如果没有得到及时治疗，鼠疫通常是致命的。但该机构也表示，如果在症状发作后的24小时内被确诊并得到抗生素治疗，康复率相当高
 
 I’m **shaking and trembling.**
