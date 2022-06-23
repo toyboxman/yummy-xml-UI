@@ -2187,7 +2187,7 @@ $ awk '/spring/ && NR>=88 && NR<=95' pom.xml
 
 # awk脚本实现行合并
 # tr -d 删除行空白字符
-# printf "%s,",$0; 表示按字符串格式打印整行
+# printf "%s,",$0; 表示按字符串格式打印整行 不处理换行因此用来合并行数据
 # NR%2{}1 0=false, 1=true 表示满足NR%2==true,即行号除2余1的时候，执行{}中脚本
 # {}1末尾这个1即运行条件永远为condition==true，默认处理就是打印当前行 {print $0}
 # NR%2{printf "%s,",$0; next;}1 当处理奇数行时，比如第3行，按格式打印整行 然后跳到next下一行(第4行)。接着默认打印当前行
@@ -2208,16 +2208,37 @@ $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{pri
 1<groupId>org.springframework.boot</groupId>3<groupId>org.springframework.boot</groupId>
 
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0}{print $0}' 
-# 奇数行带行号打印出来，并且再每行正常打印
+# 奇数行带行号+','打印出来，并且再每行正常打印
 1<groupId>org.springframework.boot</groupId>,<groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter-web</artifactId>
 3<groupId>org.springframework.boot</groupId>,<groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter</artifactId>
 
+# next 类似于 continue 跳过后面脚本，从头开始下一行处理
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0}{next}1' 
-# 奇数行带行号打印出来，并且再每行正常打印
+# 由于next执行后，后面的1即{print $0}永远不会执行
+1<groupId>org.springframework.boot</groupId>,3<groupId>org.springframework.boot</groupId>,
 
+$ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0;next}1' 
+# 奇数行带行号+','打印出来，偶数行正常输出
+1<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter-web</artifactId>
+3<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter</artifactId>
 
+$ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk '{ ORS = (NR%2 ? FS : RS) } 1' 
+# ORS 表示 Output Record Separator. 
+# FS (Field Separator) 默认空格
+# RS (Record Separator) 默认 newline.
+# 奇数行得到分隔符是空格，偶数行分隔符是换行符
+<groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-web</artifactId>
+<groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter</artifactId>
+
+$ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk '{ ORS = (NR%2 ? "," : RS) } 1' 
+# 设奇数行分隔符是逗号','，偶数行分隔符是换行符
+<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter-web</artifactId>
+<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter</artifactId>
+
+# https://www.baeldung.com/linux/join-multiple-lines
+# 累积计算后输出变量
 # -v d="" 创建一个变量d，避免硬编码一个分隔符(delimiter)
 # NR==1?s:s d 如果处理第一行时，不用把分隔符加为行前缀输出‘s’，否则输出's d'。脚本相同写法 if(NR>1) s=s d
 # s=(NR==1?s:s d)$0 连接每一行($0)，并且赋值给变量 s
