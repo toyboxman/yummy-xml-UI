@@ -241,3 +241,14 @@ People are making tough choices in terms of what do they cut back on, and for lo
 Denied federal support ever since, the SETI endeavor has limped along, supported by donations to a nonprofit organization, the SETI Institute, in Mountain View
 自那以后，由于得不到联邦政府的支持，SETI计划一直举步维艰，其资金来自于加州山景城的非营利组织SETI研究所。
 
+All of the patients who developed a more serious illness were over 60 years old and had underlying medical conditions, according to the study
+所有出现重症的患者均超过60岁，并且有基础性疾病。
+
+But it remains to be seen if the U.S. government is willing or able to turn away such an array of foreign goods. China is so central to so many supply chains
+但美国政府是否愿意或能够拒绝如此多的外国商品，还有待观察。中国对如此多的供应链至关重要
+
+Generations of Hong Kongers celebrated weddings and cut business deals there over Cantonese fare like crispy pork belly and wok-baked mud crab. 
+几代香港人在这里办婚宴、洽谈生意时，都要吃脆皮烧肉和避风塘炒蟹等粤菜
+
+Even as giant residential towers sprang up around Jumbo, its garish neon sign and imperial-style architecture still dominated the skyline around Aberdeen Harbor, on the southwest side of Hong Kong Island. 
+尽管珍宝海鲜舫的周围已盖起了高大的住宅楼，但这家餐厅耀眼的霓虹灯招牌和宫殿风格的建筑仍让其在香港岛西南的香港仔湾的天际线中具有显眼地位

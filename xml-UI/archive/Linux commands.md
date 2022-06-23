@@ -2082,16 +2082,31 @@ echo xxxxxxCONTROL-V CONTROL-U | od -c
 + [查找和替换文件中的字符串的 16 个示例](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=2&sn=35b89d57c5fc46d461f9cb0cb95d7de1)<br>
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)
 ```console
+# -i 表示在参数指定文件中 in-place, 无此参数不会实际替换文件, 仅测试执行结果 
 # s 指令是substitute  g指令是global全局
-# -i 表示在当前文件中 in-place, 无此参数不会实际替换文件,仅测试执行结果 
 # *.txt 指定在所有当前txt文件中, 此命令将替换所有符合条件的字符串
 sed -i 's/old-word/new-word/g' *.txt  
-
 # 将当前test.txt中所有INFO 替换成DEBUG
 sed -i 's/INFO/DEBUG/g' test.txt  
 
-# 表示将filename文件中全部color全部替换成colour 
-sed -i 's/color/colour/g' *.txt  
+# 如果是管道进来数据处理不要使用 -i
+$ echo '<artifactId>spring-boot-starter-web</artifactId>' | awk -F '[><]' '{print $3}' | sed 's/-/_/g'
+# 提取artifactId值，并将连接符'-'改成下划线'_'
+spring_boot_starter_web
+# sed可以通过分号‘;’ 一次指定多个pattern
+# 点号‘.’表示匹配任何字符的pattern， 因此替换 'org.apache.curator'->'org_apache_curator' 需要转义符'\.'
+$ grep -iEn '(artifactId|groupId)' pom.xml | awk -F '[><]' '{print $3}' | sed 's/\./_/g;s/-/_/g'
+
+# 提取打印文件的 88->213行, $表示最后一行, '88,$p'表示88->EOF
+$ sed -n '88,213p' pom.xml   
+$ cat pom.xml | sed -n '88,213p' | grep -iEn '(artifactId|groupId)' | awk -F '[><]' '{print $3}' | sed 's/\./_/g;s/-/_/g'
+
+# N 允许成对来处理lines
+# 将内容两行合并为一行, 换行符‘\n’替换成下划线'_'
+#line1  org_springframework_boot
+#line2  spring_boot_starter_web
+$ sed 'N;s/\n/_/' file
+org_springframework_boot_spring_boot_starter_web
 
 # 表示将第一个发生位置的字符串替换掉
 sed -i '0,/pattern/s/pattern/replacement/' filename  
@@ -2159,17 +2174,79 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 # awk 的基本语法
 awk [options] 'pattern {action}' file
 
+# 文件内容显示
+# 把88->95行之间的包含'spring'关键字的内容显示出来
+# NR 内建变量 表示全部记录数目 number of records 
+# NF 表示被分隔出的字段数目 number of fields
+# FNR 表示当多个文件被处理时，NR会持续累积，而FNR每一个新文件都是从头计数
+$ awk '/spring/ && NR>=88 && NR<=95' pom.xml 
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-web</artifactId>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter</artifactId>
+
+# awk脚本实现行合并
+# tr -d 删除行空白字符
+# printf "%s,",$0; 表示按字符串格式打印整行
+# NR%2{}1 0=false, 1=true 表示满足NR%2==true,即行号除2余1的时候，执行{}中脚本
+# {}1末尾这个1即运行条件永远为condition==true，默认处理就是打印当前行 {print $0}
+# NR%2{printf "%s,",$0; next;}1 当处理奇数行时，比如第3行，按格式打印整行 然后跳到next下一行(第4行)。接着默认打印当前行
+$ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2{printf "%s,",NR$0; next;}1' 
+# printf "%s,",NR$0 打印行号+行内容 ---> 1<groupId>org.springframework.boot</groupId>,
+# 1 打印当前行内容 <artifactId>spring-boot-starter-web</artifactId>
+1<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter-web</artifactId>
+3<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter</artifactId>
+
+# {print NR$0}  print会按照每行输出，printf "%s"则不会换行
+$ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{print NR$0}' 
+1<groupId>org.springframework.boot</groupId>
+3<groupId>org.springframework.boot</groupId>
+
+# printf 输出结果不换行
+$ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf NR$0}' 
+# 奇数行一起打印出来
+1<groupId>org.springframework.boot</groupId>3<groupId>org.springframework.boot</groupId>
+
+$ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0}{print $0}' 
+# 奇数行带行号打印出来，并且再每行正常打印
+1<groupId>org.springframework.boot</groupId>,<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-web</artifactId>
+3<groupId>org.springframework.boot</groupId>,<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter</artifactId>
+
+$ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0}{next}1' 
+# 奇数行带行号打印出来，并且再每行正常打印
+
+
+# -v d="" 创建一个变量d，避免硬编码一个分隔符(delimiter)
+# NR==1?s:s d 如果处理第一行时，不用把分隔符加为行前缀输出‘s’，否则输出's d'。脚本相同写法 if(NR>1) s=s d
+# s=(NR==1?s:s d)$0 连接每一行($0)，并且赋值给变量 s
+# END{print s} 所有行处理完成后，在END block中输出变量s
+$ awk -v d="" '{s=(NR==1?s:s d)$0}END{print s}' input.txt
+I cameI sawI conquered!
+
+$ awk -v d="," '{s=(NR==1?s:s d)$0}END{print s}' input.txt
+I came,I saw,I conquered!
+
+$ awk -v d="; " '{s=(NR==1?s:s d)$0}END{print s}' input.txt
+I came; I saw; I conquered!
+
 # 字符串拼接
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
-# 用 "value=" 字符串作为token分隔行, 默认分隔符空格。$0所有列，$1(第一列) $2...
+
+# -F 用 "value=" 字符串作为token分隔行, 默认分隔符空格。$0所有列，$1(第一列) $2...
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $0}'
 <Property oe:key="netmask" oe:value="255.255.253.0" />
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $1}'
 <Property oe:key="netmask" oe:
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}'
 255.255.253.0" />
-root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $3}'
+
+# 还可以指定多个分隔符  -F '[><]' 表示通过 ‘<’ '>' 分隔解析
+# " " 字符串用来增加列输出的分隔符 下例使用分隔符' , '
+$ echo '<artifactId>spring-boot-starter-web</artifactId>' | awk -F '[><]' '{print $2 " , " $3 " ,  " $4}'
+artifactId , spring-boot-starter-web ,  /artifactId
 
 king@suse-leap:~/source/python> grep 'netmask' a.txt | awk -F'value="' '{print $2 $1}'
 255.255.253.0" /><Property oe:key="netmask" oe:

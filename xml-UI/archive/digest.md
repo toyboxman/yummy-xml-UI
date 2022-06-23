@@ -862,6 +862,7 @@ monitor in:description language:python
 
 #### protobuf
 + [简要使用](https://mp.weixin.qq.com/s/-OmguA3IqwQqJRjiUhyUEQ)
++ proto3/grpc使用[[1](https://zhuanlan.zhihu.com/p/60608963), [2](https://zhuanlan.zhihu.com/p/436041011), [3](https://zhuanlan.zhihu.com/p/145178867)]
 
 protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
 因此，需要在.proto定义文件头加上`option java_generic_services = true;`
