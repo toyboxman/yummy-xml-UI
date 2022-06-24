@@ -2101,11 +2101,41 @@ $ grep -iEn '(artifactId|groupId)' pom.xml | awk -F '[><]' '{print $3}' | sed 's
 $ sed -n '88,213p' pom.xml   
 $ cat pom.xml | sed -n '88,213p' | grep -iEn '(artifactId|groupId)' | awk -F '[><]' '{print $3}' | sed 's/\./_/g;s/-/_/g'
 
-# N 允许成对来处理lines
+# n N 允许成对来处理lines Read/append the next line of input into the pattern space.
 # 将内容两行合并为一行, 换行符‘\n’替换成下划线'_'
 #line1  org_springframework_boot
 #line2  spring_boot_starter_web
-$ sed 'N;s/\n/_/' file
+$ sed 'N;s/\n/_/g' file
+org_springframework_boot_spring_boot_starter_web
+
+# 当前行首尾添加text
+# 行首+@，行尾+,
+# sed starts by reading the first line excluding the newline into the pattern space.
+# : 创建标签指令 :a 创建标签a
+# N 读取下一行到模式空间，相当于在模式空间把 1,2/3,4/5,6/....两两合并成一行
+# b 跳转到一个标签 ba 跳转到a标签
+# $! 位置匹配指令，除了最后一行都适配  $!ba 表示在最后一行不要执行跳转，避免再次执行 N, 如果没有输入脚本会终止执行
+# :a;N;$!ba; 一套循环指令，表示join下一行(using N)直到倒数第二行
+# :a;N;2,5ba; 表示遇到第2,5行就跳转到a标签
+# s/\n/,\n@/g 替换部分会把每一个 newline 用 ,+newline+@ 在模式空间(pattern space)里替换, 即整个文件
+# 跨平台适配语法 in BSD/OS X's sed (sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/ /g' file)
+$ sed 'N;s/\n/_/g' file | sed ':a;N;$!ba;s/\n/,\n@/g'
+@org_springframework_boot_spring_boot_starter_web,
+
+# insert & append
+# 插入操作, 在当前行前面插入一行text
+$ sed 'N;s/\n/_/' file ｜ sed 'i 123'
+123
+org_springframework_boot_spring_boot_starter_web
+# 添加操作，在当前行后面添加一行text
+$ sed 'N;s/\n/_/' file ｜ sed 'i 123'
+org_springframework_boot_spring_boot_starter_web
+123
+
+# print line number
+# = 在当前行前一行输出行号
+$ sed 'N;s/\n/_/' file ｜ sed '='
+1
 org_springframework_boot_spring_boot_starter_web
 
 # 表示将第一个发生位置的字符串替换掉

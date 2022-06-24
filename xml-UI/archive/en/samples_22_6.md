@@ -252,3 +252,6 @@ Generations of Hong Kongers celebrated weddings and cut business deals there ove
 
 Even as giant residential towers sprang up around Jumbo, its garish neon sign and imperial-style architecture still dominated the skyline around Aberdeen Harbor, on the southwest side of Hong Kong Island. 
 尽管珍宝海鲜舫的周围已盖起了高大的住宅楼，但这家餐厅耀眼的霓虹灯招牌和宫殿风格的建筑仍让其在香港岛西南的香港仔湾的天际线中具有显眼地位
+
+Did Biden drop the ball on TikTok and China? Earlier this year, TikTok was working on a deal to store its data on Oracle servers to please regulators. Trump used its results to issue an executive order forcing ByteDance, TikTok’s Chinese parent, to divest the company.
+拜登在TikTok和中国的问题上是否犯了错误？今年早些时候，TikTok正在努力达成一项协议，将数据存储在甲骨文的服务器上，以取悦监管机构。特朗普利用调查结果发布了一项行政命令，迫使TikTok的中国母公司字节跳动剥离该公司。
