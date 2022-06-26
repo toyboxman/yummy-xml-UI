@@ -255,3 +255,13 @@ Even as giant residential towers sprang up around Jumbo, its garish neon sign an
 
 Did Biden drop the ball on TikTok and China? Earlier this year, TikTok was working on a deal to store its data on Oracle servers to please regulators. Trump used its results to issue an executive order forcing ByteDance, TikTok’s Chinese parent, to divest the company.
 拜登在TikTok和中国的问题上是否犯了错误？今年早些时候，TikTok正在努力达成一项协议，将数据存储在甲骨文的服务器上，以取悦监管机构。特朗普利用调查结果发布了一项行政命令，迫使TikTok的中国母公司字节跳动剥离该公司。
+
+This is not like a ‘picking needles out of a haystack’ problem, This is touching a meaningful percentage of all of the world’s everyday goods.
+这不是‘大海捞针’的问题，这涉及全球所有日常商品中相当大的一部分。
+
+Xinjiang produces more than 40 percent of the world’s polysilicon, a quarter of the world’s tomato paste and a fifth of global cotton. It’s also responsible for 15 percent of the world’s hops and about a tenth of global walnuts, peppers and rayon. 
+新疆生产的多晶硅占全球总产量的40%以上，番茄酱占全球总产量的四分之一，棉花占全球总产量的五分之一，还有世界上15%的啤酒花和约十分之一的核桃、辣椒和人造纤维。
+
+China has been grappling with summertime floods for centuries but floods this year have also coincided with heat waves that struck the northern part of the country, where the heavy rain is also expected to move in the coming days, according to the Central Meteorological Observatory.
+中国几百年来一直在设法应对夏季的洪涝灾害，但今年南方发生洪涝的同时，北方地区也正在受到热浪袭击，据中央气象台预测，暴雨将在未来几天向北方转移。
+
