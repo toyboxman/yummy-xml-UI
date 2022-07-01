@@ -265,3 +265,26 @@ Xinjiang produces more than 40 percent of the world’s polysilicon, a quarter o
 China has been grappling with summertime floods for centuries but floods this year have also coincided with heat waves that struck the northern part of the country, where the heavy rain is also expected to move in the coming days, according to the Central Meteorological Observatory.
 中国几百年来一直在设法应对夏季的洪涝灾害，但今年南方发生洪涝的同时，北方地区也正在受到热浪袭击，据中央气象台预测，暴雨将在未来几天向北方转移。
 
+China always welcomes all initiatives to promote global infrastructure construction, But we oppose words and deeds that use the banner of infrastructure construction to promote geopolitical calculations, and smear and slander the Belt and Road Initiative.
+中方始终欢迎一切促进全球基建的倡议，我们反对打着基础设施建设旗号推进地缘政治算计、抹黑污蔑‘一带一路’倡议的言行。
+
+Still, some observers found the latest iteration to be more concrete than past attempts. The Chinese program has begun to taper off, potentially offering opportunities for rival efforts. So far the Western Belt and Road competitors tend to promise more than they deliver. 
+不过，一些观察人士发现，与过去的尝试相比，新计划更为具体。中国的倡议项目已经开始逐渐缩减，这可能给竞争对手带来机会。到目前为止，西方‘一带一路’的竞争对手往往承诺多于兑现。
+
+Beneath a curving concrete overpass, behind a wall of green fencing, surrounded by the roar of traffic, a swimming hole beckons in the heart of Beijing. The water, a slim current running along Beijing’s often-congested innermost ring road, may not look like an ideal spot for a dip. Vaguely oily-looking algae drifts on its surface. In places, it is a bit pungent. But for those in the know, it’s an oasis.
+在弯曲的混凝土立交桥下，喧嚣的车流之中，一堵绿色围栏背后，一个游泳之所在北京市中心召唤着人们。这是一条细长的水流，在北京通常极为拥堵的最内层环路旁边，看起来不像是一个理想的游泳地点。水面上漂浮着隐约可见黏滑的藻类。一些地方气味有点刺鼻。但对内行来说，这里是一片绿洲。
+
+The lesson the U.S. is tempted to take away from Ukraine is the incapacity of the Russian military, suggesting that Europe should be able to handle the burden of European security. They argue that you need large forces in the country like a Maginot line to prevent them from being overrun early in a conflict
+美国觉得通过乌克兰战争可以看到俄罗斯军队的无能，这表明欧洲应该有能力承担欧洲的安全责任。他们认为，在国内需要有像马其诺防线那样的大规模部队，才能防止他们在冲突初期被攻破
+
+Some people are calling it an inverse OPEC, This is a cartel that is attempting to discriminate between Russian oil and other oil, creating a wedge, which may or may not drive down global prices.
+有人说这是反向欧佩克，这是一种卡特尔，试图将俄罗斯石油和其它石油区别对待，在中间插入一个楔子，这也许能、也许不能推动全球油价下跌。
+
+it is helpful to revisit some basic economics. global prices soared in response, outweighing the loss in the volume of Russian sales, and Moscow’s oil revenues continued to flow in. One analyst firm, Barclays, projects prices could reach $200 a barrel by next year if most of Moscow’s exports were knocked offline.
+有必要重温一些基础经济学。全球价格因此暴涨，其影响盖过了俄罗斯的销量损失，莫斯科仍然在获得源源不断的石油收入。分析公司巴克莱预计，如果莫斯科的大部分出口撤下市场，明年油价可能会达到每桶200美元。
+
+Growing up, the chef David Kuo and his brothers played video games in a converted garage in the family’s backyard in West Covina, Calif. Just outside, luffa gourds, garlic chives, sweet potato leaves and other crops beloved in Taiwan grew in his grandmother’s vegetable garden.
+厨师戴维·郭在加利福尼亚州西科维纳长大，小时候他和兄弟们常在自家后院一个车库改建的房间里打电动。房外就是祖母的菜园子，里面种着丝瓜、韭菜、地瓜叶和其他台湾人喜欢吃的菜。
+
+His temper was scary. And swift, He’d snap and almost lose control. In the days of scandal that led up to his resignation, Nixon drank, talked to the paintings of past presidents and seemed so unstable。Cassidy‘s testimony makes clear that Trump is prone to tantrums, like an undisciplined child
+他的脾气很吓人，他会暴跳如雷，近乎失控。在导致尼克松辞职的丑闻发生期间，他酗酒，对着几位前任总统的画像说话，情绪似乎非常不稳定。 卡西迪的证词清楚地表明，特朗普容易发脾气，就像一个不守管教的孩子

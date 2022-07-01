@@ -139,7 +139,9 @@
         - DNS原理[[1](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg), [2](https://mp.weixin.qq.com/s/U6Jk54eix-VjWTUOlAZP3A)]
         - [负载均衡三种模型(NAT/DR/TUN)](https://mp.weixin.qq.com/s/d74E2iF2RCJERmc_Fy4wFg)
         - [IPv6难以取代IPv4](https://mp.weixin.qq.com/s/SShnQxvS9cfHYmPkCh6zpA)
-        - [TCP疑难杂症](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
+        - TCP
+            - [28张图解TCP](https://mp.weixin.qq.com/s/0A59sfx_beM4oT0FfcKZng)
+            - [TCP疑难杂症](https://mp.weixin.qq.com/s/P103z3rEmKmSgqenjUi9lQ)
             - [TCP泄露操作系统信息](https://mp.weixin.qq.com/s/hQhL5uditC89-hBz9uIQ4g)
         - [虚拟网络](https://mp.weixin.qq.com/s/ihVGXk4-ZTgEozFMq7M7rg)
         - [Linux服务端最大并发数是多少](https://mp.weixin.qq.com/s/P5rJEMQGlKn-2Cu0qj9FXw)
