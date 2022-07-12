@@ -14,7 +14,6 @@
 + [Podman：一个更安全的运行容器的方式](https://mp.weixin.qq.com/s/JBQLqxUqZdGpQaU2iauFzA)
 + [OverlayFS](https://mp.weixin.qq.com/s/KEKecCY6Y-i1sWa6T9jiAg)
 + [Portainer.io监控和管理Docker容器](https://mp.weixin.qq.com/s/NPo9oOcm3CSLXjEonnQRgA)
-+ [VMware/KVM/Docker](https://mp.weixin.qq.com/s/B8wbax29RzP0gGCSDMxJOg)
 + [Docker Image瘦身](https://mp.weixin.qq.com/s/z1a8JUNFrQjSSER3W8Hw6g)  
   - [Go应用docker镜像瘦身](https://mp.weixin.qq.com/s/4a6d4P0Gzb4uC-99XMABIw)
 
