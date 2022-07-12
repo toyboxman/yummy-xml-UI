@@ -81,38 +81,38 @@
             - [Gdb](#gdb)
             - [Objdump](#objdump)
             - [Size](#size)
-            - strace/ltrace×·×ÙÏµÍ³µ÷ÓÃ[[**1**](https://mp.weixin.qq.com/s/ScDFJo1HP0KC4bybrVC8QA), [**2**](https://mp.weixin.qq.com/s/Nzm7Ayw_vd5hbfBXFpDCYQ)]
-            - [ltrace/hexdump/strings/nm·ÖÎö¶ş½øÖÆÎÄ¼ş](https://mp.weixin.qq.com/s/VS2Kf-aApDNgyIOA-fuZKQ)
-            - [strace/pstack/gdb·ÖÎöLinux½ø³Ì](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
-            - [DockerÖĞÊ¹ÓÃstrace](https://mp.weixin.qq.com/s/4nsZ0gaikvcNWstdbXEbrA)
-            - [ProcDump/gcoreµ÷ÊÔLinux½ø³Ì](https://mp.weixin.qq.com/s/wQmmKRkrlgCHn19HsqEU8w)
-            - [coredump´´½¨²¢µ÷ÊÔ×ª´¢ÎÄ¼ş](https://mp.weixin.qq.com/s/CFBqt5EtpPevgZBxYs1ZmQ)
-        - [CrashÅäºÏ/dev/memµ÷ÊÔÄÚ´æ ](https://mp.weixin.qq.com/s/Q4FbI_U6pRrfhlpuzOJmig)
-          - [µ÷ÊÔÄÚ´æĞ¹Â©](https://mp.weixin.qq.com/s/wSjYQqIIaqTRdSjoacmC6Q)
+            - strace/ltraceè¿½è¸ªç³»ç»Ÿè°ƒç”¨[[**1**](https://mp.weixin.qq.com/s/ScDFJo1HP0KC4bybrVC8QA), [**2**](https://mp.weixin.qq.com/s/Nzm7Ayw_vd5hbfBXFpDCYQ)]
+            - [ltrace/hexdump/strings/nmåˆ†æäºŒè¿›åˆ¶æ–‡ä»¶](https://mp.weixin.qq.com/s/VS2Kf-aApDNgyIOA-fuZKQ)
+            - [strace/pstack/gdbåˆ†æLinuxè¿›ç¨‹](https://mp.weixin.qq.com/s/ayIbT6DfmX4m3bJiJrcWag)
+            - [Dockerä¸­ä½¿ç”¨strace](https://mp.weixin.qq.com/s/4nsZ0gaikvcNWstdbXEbrA)
+            - [ProcDump/gcoreè°ƒè¯•Linuxè¿›ç¨‹](https://mp.weixin.qq.com/s/wQmmKRkrlgCHn19HsqEU8w)
+            - [coredumpåˆ›å»ºå¹¶è°ƒè¯•è½¬å‚¨æ–‡ä»¶](https://mp.weixin.qq.com/s/CFBqt5EtpPevgZBxYs1ZmQ)
+        - [Crashé…åˆ/dev/memè°ƒè¯•å†…å­˜ ](https://mp.weixin.qq.com/s/Q4FbI_U6pRrfhlpuzOJmig)
+          - [è°ƒè¯•å†…å­˜æ³„æ¼](https://mp.weixin.qq.com/s/wSjYQqIIaqTRdSjoacmC6Q)
         - [eBPF](https://mp.weixin.qq.com/s/GxjcRzcgPGhzK3Q3shNbLg)
         - log
-          + [ÅäÖÃRsyslog·şÎñÆ÷](https://mp.weixin.qq.com/s/S_MJ1c2mLgoo1PndJ_33YA)
+          + [é…ç½®RsyslogæœåŠ¡å™¨](https://mp.weixin.qq.com/s/S_MJ1c2mLgoo1PndJ_33YA)
           + [Web Log Analysis](https://mp.weixin.qq.com/s/TD_-Vzn_KjyyAwviaPkF8A)
-          + [LogrotateÊÖ¶¯¹ö¶¯ÈÕÖ¾](hhttps://mp.weixin.qq.com/s/unosQoE_QQdxOTgJaHUexg)
-        - [LynisÉ¨ÃèLinux°²È«ĞÔ](https://mp.weixin.qq.com/s/z2FTwkul7pfEu3sWJgzVvw)
-        - ÅÅ²é»úÆ÷ÈëÇÖ[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
-          - [ÈëÇÖºÛ¼£ÇåÀí](https://mp.weixin.qq.com/s/5EJddxJIL42ykegfUAqQ8A)
-        - [×èÖ¹¶ÔWebÓ¦ÓÃ³ÌĞòµÄDoS¹¥»÷](https://mp.weixin.qq.com/s/-gdjcwv8gnolYwVGyF8mGQ)
-        - [Glances¶à¹¦ÄÜÏµÍ³¼à¿Ø¹¤¾ß](https://mp.weixin.qq.com/s/R4mHOERnPhKCkCffaXFAyQ)
-          - [LinuxÍøÂç¼à¿Ø¹¤¾ß](https://mp.weixin.qq.com/s/weJ2qHIq1WTXLKFsvjgFug)
-          - [Linux ForkÕ¨µ¯](https://mp.weixin.qq.com/s/ofIWoR1Vvtc36jklrm7Dyg)
-          - [ÔËÎ¬±Ø±¸µÄ40¸öÃüÁî/³£ÓÃÕıÔò±í´ïÊ½](https://mp.weixin.qq.com/s/h9XTwZZ5B_AaDagNwmaSRw)  
-            `Æ¥ÅäÖĞÎÄ×Ö·û/ÍøÖ·URL/ipµØÖ·...`
+          + [Logrotateæ‰‹åŠ¨æ»šåŠ¨æ—¥å¿—](hhttps://mp.weixin.qq.com/s/unosQoE_QQdxOTgJaHUexg)
+        - [Lynisæ‰«æLinuxå®‰å…¨æ€§](https://mp.weixin.qq.com/s/z2FTwkul7pfEu3sWJgzVvw)
+        - æ’æŸ¥æœºå™¨å…¥ä¾µ[[1](https://mp.weixin.qq.com/s/239I_orC3uybVpwuBBA-sg), [2](https://mp.weixin.qq.com/s/ayqGWdI17AtgzYPs11f62w), [3](https://mp.weixin.qq.com/s/ssfVcl2ikZq7gLT3TuLBHg)]
+          - [å…¥ä¾µç—•è¿¹æ¸…ç†](https://mp.weixin.qq.com/s/5EJddxJIL42ykegfUAqQ8A)
+        - [é˜»æ­¢å¯¹Webåº”ç”¨ç¨‹åºçš„DoSæ”»å‡»](https://mp.weixin.qq.com/s/-gdjcwv8gnolYwVGyF8mGQ)
+        - [Glanceså¤šåŠŸèƒ½ç³»ç»Ÿç›‘æ§å·¥å…·](https://mp.weixin.qq.com/s/R4mHOERnPhKCkCffaXFAyQ)
+          - [Linuxç½‘ç»œç›‘æ§å·¥å…·](https://mp.weixin.qq.com/s/weJ2qHIq1WTXLKFsvjgFug)
+          - [Linux Forkç‚¸å¼¹](https://mp.weixin.qq.com/s/ofIWoR1Vvtc36jklrm7Dyg)
+          - [è¿ç»´å¿…å¤‡çš„40ä¸ªå‘½ä»¤/å¸¸ç”¨æ­£åˆ™è¡¨è¾¾å¼](https://mp.weixin.qq.com/s/h9XTwZZ5B_AaDagNwmaSRw)  
+            `åŒ¹é…ä¸­æ–‡å­—ç¬¦/ç½‘å€URL/ipåœ°å€...`
     - Account Management
         - [Activate Account](#activate-account)
         - [List All Users/Groups](#list-all-users) 
         - [Add New Users/Groups](#add-new-users)
-        - [umaskĞŞ¸ÄÈ¨ÏŞ](https://mp.weixin.qq.com/s/LIPX78Ex-KSaCCd9wiyvJA)
-        - [LinuxÌáÈ¨](https://mp.weixin.qq.com/s/SSkWnOGcLiLtudr_5dNcsg)
+        - [umaskä¿®æ”¹æƒé™](https://mp.weixin.qq.com/s/LIPX78Ex-KSaCCd9wiyvJA)
+        - [Linuxææƒ](https://mp.weixin.qq.com/s/SSkWnOGcLiLtudr_5dNcsg)
         - sudo[[1](https://mp.weixin.qq.com/s/z127ryX6ueeVf-8FdK07vw), [2](https://mp.weixin.qq.com/s/iCc0zpiOsA38EAXLs_Mrig), [3](https://mp.weixin.qq.com/s/MA4qscWPGp0XCk_nOWiTxg)]
-        - [ÓÃ»§×éÆô½ûÓÃ SSH](https://mp.weixin.qq.com/s/uvU_Y24qVTOkc-aAlHV0zA)
-        - [Tripwire/chattr/sudo/sealert°²È«±£»¤](https://mp.weixin.qq.com/s/dK6YUGt4eiDY4rkDKE3cUg)
-        - [PAMÉèÖÃÃÜÂë¸´ÔÓ¶È](https://mp.weixin.qq.com/s/Z9lfg8EUex61HVPgiFy9bw)
+        - [ç”¨æˆ·ç»„å¯ç¦ç”¨ SSH](https://mp.weixin.qq.com/s/uvU_Y24qVTOkc-aAlHV0zA)
+        - [Tripwire/chattr/sudo/sealertå®‰å…¨ä¿æŠ¤](https://mp.weixin.qq.com/s/dK6YUGt4eiDY4rkDKE3cUg)
+        - [PAMè®¾ç½®å¯†ç å¤æ‚åº¦](https://mp.weixin.qq.com/s/Z9lfg8EUex61HVPgiFy9bw)
     - System Management
         - [dmesg](#list-system-details)
         - [Show Linux Version](#show-linux-version)
@@ -120,7 +120,7 @@
         - [Watch](https://mp.weixin.qq.com/s/mnu-jKQJDndOxeBCDMeknA)
         - [free](#free)
         - [w/uptime/cal](#wuptimecal)
-        - [stress×öÑ¹Á¦²âÊÔ](https://mp.weixin.qq.com/s/6GUm6YjsRJCEVYact1hZvw)
+        - [stressåšå‹åŠ›æµ‹è¯•](https://mp.weixin.qq.com/s/6GUm6YjsRJCEVYact1hZvw)
         - [date](#date)
         - [List Linux Services Port](#list-services-port)
         - [hwinfo/lshw/lscpu/lsblk/nproc/dmidecode](#hwinfo)
@@ -131,10 +131,10 @@
         - [systemctl](#systemctl)
         - [chkconfig](#chkconfig)
         - [Alias/Turn off Console Color](#turn-off-console-color)
-        - [¸üĞÂgrub](https://mp.weixin.qq.com/s/yFPmr1AWjMMSoTgW_pTzeA)
+        - [æ›´æ–°grub](https://mp.weixin.qq.com/s/yFPmr1AWjMMSoTgW_pTzeA)
         - [ntp](https://mp.weixin.qq.com/s/VNe2FAG1PquXCqfPS-65VA)
-            + [ntpÍ¬²½¼ì²â](https://mp.weixin.qq.com/s/1FCXBd0X0h7BRPL8Q0JGOA)
-            + [timedatectl Í¬²½Ê±ÇøÊ±¼ä](https://mp.weixin.qq.com/s/jOWjBRPc1zXbMRBF66A5rw)
+            + [ntpåŒæ­¥æ£€æµ‹](https://mp.weixin.qq.com/s/1FCXBd0X0h7BRPL8Q0JGOA)
+            + [timedatectl åŒæ­¥æ—¶åŒºæ—¶é—´](https://mp.weixin.qq.com/s/jOWjBRPc1zXbMRBF66A5rw)
     - Disk Management
         - [df/du](#dfdu)
         - [lsof](#lsof)
@@ -142,10 +142,10 @@
         - [LVM/vgscan/lvs/pvs/btrfs](#lvm)
         - iotop/iostat/htop/Monit/IPTraf[[1](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w), [2](https://mp.weixin.qq.com/s/flTlgzJbmSpUza9OoN6A0g)]    
         - [dstat/ioping/atop](https://mp.weixin.qq.com/s/IAl6aIKhYN9TasavGPjnJQ)
-        - ÎÄ¼şÉ¾³ı
+        - æ–‡ä»¶åˆ é™¤
           - [undo 'rm -f'](https://mp.weixin.qq.com/s/FHhWaIzMN2afAM6jlzZdsA)
-          - [chattr·ÀÖ¹ÎÄ¼şÎóÉ¾](https://mp.weixin.qq.com/s/kwPUuWXGy0ctM6lD2dopVA)
-          - ÊÍ·ÅrmÎÄ¼şËùÕ¼¿Õ¼ä[[1](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg), [2](https://mp.weixin.qq.com/s/8E7MgA8HZfLzRTApbcnjBg)]
+          - [chattré˜²æ­¢æ–‡ä»¶è¯¯åˆ ](https://mp.weixin.qq.com/s/kwPUuWXGy0ctM6lD2dopVA)
+          - é‡Šæ”¾rmæ–‡ä»¶æ‰€å ç©ºé—´[[1](https://mp.weixin.qq.com/s/6eDXa7jm5XjpPUNg4VxVLg), [2](https://mp.weixin.qq.com/s/8E7MgA8HZfLzRTApbcnjBg)]
     - Device Management
         - [ZERO/NULL/Random/dd](#device)
     - [Network Management](#network-config)        
@@ -159,30 +159,30 @@
         - [Dhclient](#dhclient)
         - [Route](#route)
         - [Show IP/Name Pair In DNS](#nslookup-dig)
-        - [ethtool ¹ÜÀíÒÔÌ«Íø¿¨](https://mp.weixin.qq.com/s/3zl4NIbcm710sTt_a_gTkw)
-        - [mtr¼ì²âÍøÂçÁªÍ¨ĞÔ](https://mp.weixin.qq.com/s/-DWPyHyGD_Lvdyp8KNSQ5w)
-        - [ÍøÂç²âËÙ¹¤¾ßfast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
-        - [bmon/iftop/ntop²é¿´ÍøÂç´ø¿í](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
+        - [ethtool ç®¡ç†ä»¥å¤ªç½‘å¡](https://mp.weixin.qq.com/s/3zl4NIbcm710sTt_a_gTkw)
+        - [mtræ£€æµ‹ç½‘ç»œè”é€šæ€§](https://mp.weixin.qq.com/s/-DWPyHyGD_Lvdyp8KNSQ5w)
+        - [ç½‘ç»œæµ‹é€Ÿå·¥å…·fast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
+        - [bmon/iftop/ntopæŸ¥çœ‹ç½‘ç»œå¸¦å®½](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
         - [Nethogs/IOZone/IOTop/IPtraf/IFTop/HTop/NMON/MultiTail/Fail2ban/Tmux/Agedu/NMap/Httperf](https://mp.weixin.qq.com/s/x7wanQOitsOywBb9TP3zoQ)
-        - [ÅäÖÃStatic IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
-        - [¸ü¸ÄMACµØÖ·](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
-        - [nmcli¹ÜÀíÍøÂçÁ¬½Ó](https://mp.weixin.qq.com/s/rsc0zeWYwFRlIIvPnJ5tzA)
-        - [ÄÚÍø´©Í¸¹¤¾ß](https://mp.weixin.qq.com/s/9MiQdkAT-QdLbz3kkgqGnQ)
+        - [é…ç½®Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
+        - [æ›´æ”¹MACåœ°å€](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
+        - [nmcliç®¡ç†ç½‘ç»œè¿æ¥](https://mp.weixin.qq.com/s/rsc0zeWYwFRlIIvPnJ5tzA)
+        - [å†…ç½‘ç©¿é€å·¥å…·](https://mp.weixin.qq.com/s/9MiQdkAT-QdLbz3kkgqGnQ)
       - Security
-        - [Web·şÎñÆ÷°²È«ÎÊÌâ](https://mp.weixin.qq.com/s/WR_y-i-WnOXGc7mWS9sj3w)
+        - [WebæœåŠ¡å™¨å®‰å…¨é—®é¢˜](https://mp.weixin.qq.com/s/WR_y-i-WnOXGc7mWS9sj3w)
 
 ---
 ### Monitor system information
 ---
 
 #### list system details
-dmesgÃüÁî¿ÉÒÔÓÃÀ´ÏÔÊ¾ÏµÍ³ÏêÏ¸ĞÅÏ¢
+dmesgå‘½ä»¤å¯ä»¥ç”¨æ¥æ˜¾ç¤ºç³»ç»Ÿè¯¦ç»†ä¿¡æ¯
 ```console
 dmesg | less
 ```
 
 #### show Linux version
-+ [²éÕÒLinux°æ±¾ºÍÄÚºËÏêÏ¸ĞÅÏ¢](https://mp.weixin.qq.com/s/p5UVPneMpxeJHhCpKTwipg)
++ [æŸ¥æ‰¾Linuxç‰ˆæœ¬å’Œå†…æ ¸è¯¦ç»†ä¿¡æ¯](https://mp.weixin.qq.com/s/p5UVPneMpxeJHhCpKTwipg)
 ```console
 cat /etc/*-release
 cat /etc/issue
@@ -191,16 +191,16 @@ uname -a
 ```
 
 #### top
-+ [Åú´¦ÀíÄ£Ê½ÏÂÔËĞĞtop](https://mp.weixin.qq.com/s/T3nZRjEHEUUMeaLWUCif1w)
-+ topÕÒ³öCPUÕ¼ÓÃ¸ßµÄ½ø³Ì[[1](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ), [2](https://mp.weixin.qq.com/s/rLus3XL1-oeS_hYR_Kfexg)]
-+ sarÌæ´úÆäËû¼à¿ØÃüÁî[[1](https://mp.weixin.qq.com/s/fCSq56Ar1savNa8yZb3L7g), [2](https://mp.weixin.qq.com/s/wVLbEC14eG2aVtcKrbaoPg)]
++ [æ‰¹å¤„ç†æ¨¡å¼ä¸‹è¿è¡Œtop](https://mp.weixin.qq.com/s/T3nZRjEHEUUMeaLWUCif1w)
++ topæ‰¾å‡ºCPUå ç”¨é«˜çš„è¿›ç¨‹[[1](https://mp.weixin.qq.com/s/-ntxjsy_dAhXwb3J48nlPQ), [2](https://mp.weixin.qq.com/s/rLus3XL1-oeS_hYR_Kfexg)]
++ saræ›¿ä»£å…¶ä»–ç›‘æ§å‘½ä»¤[[1](https://mp.weixin.qq.com/s/fCSq56Ar1savNa8yZb3L7g), [2](https://mp.weixin.qq.com/s/wVLbEC14eG2aVtcKrbaoPg)]
 ```console
 # list processes/memory etc.
 # 'h' for help content
 # 'z' enable color
 # 'R' for sort of columns
 # 'x' highlight sorted column
-# '<'£¬'>' move highlighted column sorted
+# '<'ï¼Œ'>' move highlighted column sorted
 top
 
 # list two processes
@@ -211,23 +211,23 @@ top -p1846 -p20607
 # -n specify the amount of iteration the command should output
 top -b -n 1 > top.log
 
-# °´batchÄ£Ê½½«678½ø³Ìµü´ú3ÂÖtopÊı¾İµ¼³ö
+# æŒ‰batchæ¨¡å¼å°†678è¿›ç¨‹è¿­ä»£3è½®topæ•°æ®å¯¼å‡º
 # -p specify process id
 top -p 678 -b -n3 > process.log
-# °Ñprocess.logÖĞcpu/mem usageÊı¾İ¹ıÂË³ö
+# æŠŠprocess.logä¸­cpu/mem usageæ•°æ®è¿‡æ»¤å‡º
 grep 678 process.log | awk '{print $9, $10}' > cpu-mem.log
 
-# ¿ÉÒÔ¼ÆËã³öbatchÄ£Ê½ÏÂÄ¬ÈÏµü´útopÊ±¼äÊÇ2Ãë
+# å¯ä»¥è®¡ç®—å‡ºbatchæ¨¡å¼ä¸‹é»˜è®¤è¿­ä»£topæ—¶é—´æ˜¯2ç§’
 date; top -p678 -b -n3 > top.log; date
 Mon Feb 17 07:42:20 UTC 2020
 Mon Feb 17 07:42:26 UTC 2020
-# µü´ú´ÎÊıÔ½¶àÊ±¼äÓ¦¸ÃÀ­³¤ÁË£¬100´Î±ä³É298Ãë£¬¶ø²»ÊÇ200Ãë
+# è¿­ä»£æ¬¡æ•°è¶Šå¤šæ—¶é—´åº”è¯¥æ‹‰é•¿äº†ï¼Œ100æ¬¡å˜æˆ298ç§’ï¼Œè€Œä¸æ˜¯200ç§’
 date; top -p678 -b -n100 > top.log; date
 Mon Feb 17 07:48:26 UTC 2020
 Mon Feb 17 07:53:24 UTC 2020
 
 # redirect loop output
-# ¶¨ÖÆtopµü´úµÄ¼ä¸ôÊ±¼ä
+# å®šåˆ¶topè¿­ä»£çš„é—´éš”æ—¶é—´
 for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
 ```
 
@@ -264,8 +264,8 @@ Su Mo Tu We Th Fr Sa
 ```
 
 #### date
-+ [dateÃüÁî](https://mp.weixin.qq.com/s/aBEkv53rBNlt4hfy5M37aQ)  
-+ [Ê±¼ä¸ñÊ½²ÎÊı](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
++ [dateå‘½ä»¤](https://mp.weixin.qq.com/s/aBEkv53rBNlt4hfy5M37aQ)  
++ [æ—¶é—´æ ¼å¼å‚æ•°](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
 ```console
 # %y	last two digits of year (00..99)
 # %d	day of month (e.g, 01)
@@ -296,12 +296,12 @@ date +"%D %T:%N"
 date +"%D %T:%s"
 10/31/19 08:34:56:1572510896
 
-# ¼Ó¼õÊ±¼ä£¬Ö»ÄÜÖ§³ÖÕûÊıÀàĞÍ
+# åŠ å‡æ—¶é—´ï¼Œåªèƒ½æ”¯æŒæ•´æ•°ç±»å‹
 #
-# ½«ÏµÍ³Ê±¼äÍùÇ°µ÷20Ãë, Èçµ±Ç° 1:30:15-->1:30:25
-# s, --set=STRING    ½«ÏµÍ³Ê±¼äµ÷Õû³ÉSTRINGÖ¸¶¨Ê±¼ä 
+# å°†ç³»ç»Ÿæ—¶é—´å¾€å‰è°ƒ20ç§’, å¦‚å½“å‰ 1:30:15-->1:30:25
+# s, --set=STRING    å°†ç³»ç»Ÿæ—¶é—´è°ƒæ•´æˆSTRINGæŒ‡å®šæ—¶é—´ 
 date -s "+20 seconds"
-# ÏµÍ³µ÷ÕûÎªÈçÏÂÊ±¼ä
+# ç³»ç»Ÿè°ƒæ•´ä¸ºå¦‚ä¸‹æ—¶é—´
 date -s '2009-02-13 11:31:30'
 date -s 'next day'
 date -s 'tomorrow'
@@ -312,11 +312,11 @@ date -s 'next year'
 date -s 'last year'
 date -s 'last month'
 date -s 'next month'
-# ¼òµ¥½«Á½¸ö»úÆ÷Ê±¼äÉèÎªÏàÍ¬
+# ç®€å•å°†ä¸¤ä¸ªæœºå™¨æ—¶é—´è®¾ä¸ºç›¸åŒ
 now=`ssh root@10.187.156.83 date`;date -s "$now"
 
-# ÏÔÊ¾µ±Ç°Ê±¼äºÍÒ»Ğ¡Ê±Ö®ºóÊ±¼ä
-# -d, --date=STRING   ½âÎöÏÔÊ¾STRING²ÎÊı´«ÈëµÄdate
+# æ˜¾ç¤ºå½“å‰æ—¶é—´å’Œä¸€å°æ—¶ä¹‹åæ—¶é—´
+# -d, --date=STRING   è§£ææ˜¾ç¤ºSTRINGå‚æ•°ä¼ å…¥çš„date
 date +'%T'; date -d "+1 hours 10 minutes 5 seconds" +'%T'
 09:07:57
 10:18:02
@@ -324,24 +324,24 @@ date +'%T'; date -d "-10 minutes" +'%T'
 09:10:05
 09:00:05
 
-# °Ñdate½á¹û×÷Îª²ÎÊı¸øecho
+# æŠŠdateç»“æœä½œä¸ºå‚æ•°ç»™echo
 echo `date +"%D"`
 10/31/19
 
 date +"%Y-%m-%dT%T" | awk -F"-" '{print $1}'
 2019
 
-# ¼ÆËãÁ½´ÎdateÊ±¼ä²î
+# è®¡ç®—ä¸¤æ¬¡dateæ—¶é—´å·®
 start=`date +'%s'`
-# °´seconds¸ñÊ½×ª»»date
+# æŒ‰secondsæ ¼å¼è½¬æ¢date
 end=`date +'%s'`
-# start/endÊÇ×÷Îª×Ö·û´®´¦ÀíµÄ£¬ÈôÒª½øĞĞÔËËã£¬shellĞèÒªÊ¹ÓÃ$(())
+# start/endæ˜¯ä½œä¸ºå­—ç¬¦ä¸²å¤„ç†çš„ï¼Œè‹¥è¦è¿›è¡Œè¿ç®—ï¼Œshelléœ€è¦ä½¿ç”¨$(())
 duration=$(($end-$start))
 echo "call execution time $duration seconds"
 ```
 
 #### list services port
-+ [²éÕÒ·şÎñµÄ¶Ë¿ÚºÅ](https://mp.weixin.qq.com/s/lnNZDWtKX_NEixo5dxbZTw)
++ [æŸ¥æ‰¾æœåŠ¡çš„ç«¯å£å·](https://mp.weixin.qq.com/s/lnNZDWtKX_NEixo5dxbZTw)
 ```console
 $ getent services http ssh
 http                  80/tcp
@@ -354,46 +354,46 @@ ssh                22/sctp      # SSH  [Randall_Stewart] [RFC4960]
 ```
 
 #### hwinfo
-²éÔÄÏµÍ³µÄÓ²¼şĞÅÏ¢
+æŸ¥é˜…ç³»ç»Ÿçš„ç¡¬ä»¶ä¿¡æ¯
 ```console
 # see netcard hardware information
 hwinfo --netcard
 ```
-+ lshw²éÔÄÓ²¼ş¹æ¸ñµÄÏêÏ¸ĞÅÏ¢[[1](https://mp.weixin.qq.com/s/EpBb2A_WivPgRmcEsjOcSQ), [2](https://mp.weixin.qq.com/s/WQEOIAz1_FRCS7hjUyddOw)]
++ lshwæŸ¥é˜…ç¡¬ä»¶è§„æ ¼çš„è¯¦ç»†ä¿¡æ¯[[1](https://mp.weixin.qq.com/s/EpBb2A_WivPgRmcEsjOcSQ), [2](https://mp.weixin.qq.com/s/WQEOIAz1_FRCS7hjUyddOw)]
 ```console
-# ²é¿´cpuÓ²¼şĞÅÏ¢
+# æŸ¥çœ‹cpuç¡¬ä»¶ä¿¡æ¯
 lshw | grep cpu
 ```
-+ lsblk ÏÔÊ¾Ó²ÅÌĞÅÏ¢
-+ lscpu ÏÔÊ¾´¦Àíµ¥ÔªĞÅÏ¢
++ lsblk æ˜¾ç¤ºç¡¬ç›˜ä¿¡æ¯
++ lscpu æ˜¾ç¤ºå¤„ç†å•å…ƒä¿¡æ¯
 ```console
-# ÓĞĞ©linux·¢ĞĞ°æÖ§³Ölscpu
+# æœ‰äº›linuxå‘è¡Œç‰ˆæ”¯æŒlscpu
 lscpu
-# Ö±½Ó²é¿´ÃèÊöÎÄ¼ş
+# ç›´æ¥æŸ¥çœ‹æè¿°æ–‡ä»¶
 cat /proc/cpuinfo
-# ²é¿´CPU¸öÊı
+# æŸ¥çœ‹CPUä¸ªæ•°
 cat /proc/cpuinfo | grep 'physical id' | sort | uniq | wc -l
-# ²é¿´CPUÎïÀíºËÊı
+# æŸ¥çœ‹CPUç‰©ç†æ ¸æ•°
 cat /proc/cpuinfo | grep 'cpu cores' | sort | uniq
-# ²é¿´CPUÂß¼­ºËÊı
+# æŸ¥çœ‹CPUé€»è¾‘æ ¸æ•°
 cat /proc/cpuinfo | grep 'siblings' | sort | uniq
 ```
-+ nproc ÏÔÊ¾´¦Àíµ¥ÔªµÄºËĞÄÊı
++ nproc æ˜¾ç¤ºå¤„ç†å•å…ƒçš„æ ¸å¿ƒæ•°
 ```console
 # prints out the number of processing units available
 nproc
 ```
-+ dmidecode ÏÔÊ¾DMI±íµÄĞÅÏ¢
++ dmidecode æ˜¾ç¤ºDMIè¡¨çš„ä¿¡æ¯
 ```console
 # dumping a computer DMI (some say SMBIOS) table contents in a human-readable format
-# ¹ıÂËÏÔÊ¾³öÖ÷°åÉÏcpuĞÅÏ¢ -t 4 cpuµÄtypeÊÇ4
+# è¿‡æ»¤æ˜¾ç¤ºå‡ºä¸»æ¿ä¸Šcpuä¿¡æ¯ -t 4 cpuçš„typeæ˜¯4
 dmidecode -t 4
 ```
 
 #### list kernel modules
-+ [¹ÜÀíkernel module](https://mp.weixin.qq.com/s/S85Pin7WiPtaXzTCruAIYw)
-+ [¸üĞÂkernel module](https://mp.weixin.qq.com/s/MbEON4WHmgk5pI6g31LE3g)
-+ [Kconfig/Kbuild½øĞĞÄÚºË¹¹½¨](https://mp.weixin.qq.com/s/qGe50Rg4HoE47fbfduc2iA)
++ [ç®¡ç†kernel module](https://mp.weixin.qq.com/s/S85Pin7WiPtaXzTCruAIYw)
++ [æ›´æ–°kernel module](https://mp.weixin.qq.com/s/MbEON4WHmgk5pI6g31LE3g)
++ [Kconfig/Kbuildè¿›è¡Œå†…æ ¸æ„å»º](https://mp.weixin.qq.com/s/qGe50Rg4HoE47fbfduc2iA)
 ```console
 $ lsmod
 Module                  Size  Used by
@@ -402,11 +402,11 @@ af_packet              45056  0
 iscsi_ibft             16384  0 
 iscsi_boot_sysfs       20480  1 iscsi_ibft
 ```
-+ [ldd¼ì²é³ÌĞòÎÄ¼şÊ¹ÓÃµÄ¹²Ïí¿â(so»òdll)](https://mp.weixin.qq.com/s/TDonkVzTpWEVQfrJpVTvjw)
-+ [osquery¼ì²â¿â×¢Èë](https://mp.weixin.qq.com/s/TDonkVzTpWEVQfrJpVTvjw)
++ [lddæ£€æŸ¥ç¨‹åºæ–‡ä»¶ä½¿ç”¨çš„å…±äº«åº“(soæˆ–dll)](https://mp.weixin.qq.com/s/TDonkVzTpWEVQfrJpVTvjw)
++ [osqueryæ£€æµ‹åº“æ³¨å…¥](https://mp.weixin.qq.com/s/TDonkVzTpWEVQfrJpVTvjw)
 ```console
-# LD_PRELOAD»·¾³±äÁ¿ÊÇÔÚ½ø³ÌÆô¶¯Ê±¼ÓÔØ¹²Ïí¿âµÄ×î¼òµ¥ÇÒ×îÊÜ»¶Ó­µÄ·½·¨
-# ¿ÉÒÔ½«´Ë»·¾³±äÁ¿ÅäÖÃµ½¹²Ïí¿âµÄÂ·¾¶£¬ÒÔ±ãÔÚ¼ÓÔØÆäËû¹²Ïí¶ÔÏóÖ®Ç°¼ÓÔØ¸Ã¹²Ïí¿â
+# LD_PRELOADç¯å¢ƒå˜é‡æ˜¯åœ¨è¿›ç¨‹å¯åŠ¨æ—¶åŠ è½½å…±äº«åº“çš„æœ€ç®€å•ä¸”æœ€å—æ¬¢è¿çš„æ–¹æ³•
+# å¯ä»¥å°†æ­¤ç¯å¢ƒå˜é‡é…ç½®åˆ°å…±äº«åº“çš„è·¯å¾„ï¼Œä»¥ä¾¿åœ¨åŠ è½½å…¶ä»–å…±äº«å¯¹è±¡ä¹‹å‰åŠ è½½è¯¥å…±äº«åº“
 $ export LD_PRELOAD=/home/showme.so
 $ ldd /usr/bin/ls
 linux-vdso.so.1 (0x00007ffe75d87000)
@@ -421,8 +421,8 @@ libpthread.so.0 => /lib64/libpthread.so.0 (0x00007fc398957000)
 ```
 
 #### journalctl
-+ [²éÑ¯systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
-+ [journalÈÕÖ¾½â¾öÎÊÌâ](https://mp.weixin.qq.com/s/py9HysqOxVSN5xy9rMmvRw)
++ [æŸ¥è¯¢systemd journal](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
++ [journalæ—¥å¿—è§£å†³é—®é¢˜](https://mp.weixin.qq.com/s/py9HysqOxVSN5xy9rMmvRw)
 ```console
 # list system log reversely
 journalctl -r
@@ -456,7 +456,7 @@ journalctl -b -u sshd -o json-pretty
 ```
 
 #### sysctl
-sysctlÓÃÀ´ĞŞ¸ÄruntimeÊ±kernel parameters. ÕâÀàµÄ²ÎÊı±»±£´æÔÚ/proc/sys/, sysctlÃüÁî¿ÉÒÔ¶ÁĞ´sysctl data
+sysctlç”¨æ¥ä¿®æ”¹runtimeæ—¶kernel parameters. è¿™ç±»çš„å‚æ•°è¢«ä¿å­˜åœ¨/proc/sys/, sysctlå‘½ä»¤å¯ä»¥è¯»å†™sysctl data
 ```console
 # list kernel parameters
 /sbin/sysctl -a
@@ -471,10 +471,10 @@ sysctlÓÃÀ´ĞŞ¸ÄruntimeÊ±kernel parameters. ÕâÀàµÄ²ÎÊı±»±£´æÔÚ/proc/sys/, sysctlÃü
 ```
 
 #### ulimit
-+ [ulimitÃüÁîĞŞ¸Äshell resource limits](https://mp.weixin.qq.com/s/hWwzZikzHdeDgHlfzCICgg) 
++ [ulimitå‘½ä»¤ä¿®æ”¹shell resource limits](https://mp.weixin.qq.com/s/hWwzZikzHdeDgHlfzCICgg) 
 ```console
 # list all --help
-# -a ÁĞ³öµ±Ç°ËùÓĞ×ÊÔ´µÄÏŞÖÆ
+# -a åˆ—å‡ºå½“å‰æ‰€æœ‰èµ„æºçš„é™åˆ¶
 ulimit -a
 
 # show the maximum number of open file descriptors
@@ -484,20 +484,20 @@ $ ulimit -n
 # set the maximum number of open file descriptors to 4096
 ulimit -n 4096
 
-# shellÄÜ¹»´«ÈëµÄparameters³¤¶È¸úÕ»´óĞ¡ÓĞ¹Ø
+# shellèƒ½å¤Ÿä¼ å…¥çš„parametersé•¿åº¦è·Ÿæ ˆå¤§å°æœ‰å…³
 $ getconf ARG_MAX
 2097152
 
-# -s Õ»´óĞ¡µÄ×î´óÖµ
-# ²é¿´Ä¬ÈÏÕ»´óĞ¡£¬Ä¬ÈÏ8192
+# -s æ ˆå¤§å°çš„æœ€å¤§å€¼
+# æŸ¥çœ‹é»˜è®¤æ ˆå¤§å°ï¼Œé»˜è®¤8192
 $ ulimit -s
 8192
-# Éè¶¨stack×î´óÎª65536
+# è®¾å®šstackæœ€å¤§ä¸º65536
 $ ulimit -s 65536
 $ ulimit -s
 65536
 
-# Õ»Éè¶¨ºó×î´ó²ÎÊı³¤¶ÈÒ²±ä´ó
+# æ ˆè®¾å®šåæœ€å¤§å‚æ•°é•¿åº¦ä¹Ÿå˜å¤§
 $ getconf ARG_MAX
 16777216
 ```
@@ -506,7 +506,7 @@ In ubuntu-18, you can easily change them forever, systemd has an option for this
 more /etc/systemd/system.conf | grep NOFILE
 DefaultLimitNOFILE=65536
 ```
-Ò²¿ÉÒÔÍ¨¹ıupdateÏà¹Øconfig filesÀ´ĞŞ¸Ä.
+ä¹Ÿå¯ä»¥é€šè¿‡updateç›¸å…³config filesæ¥ä¿®æ”¹.
 ```console
 # edit the following file
 sudo vim /etc/security/limits.conf
@@ -524,10 +524,10 @@ ulimit -n
 ```
 
 #### systemctl 
-+ [ÁĞ³ösystemdËùÓĞ·şÎñ](https://mp.weixin.qq.com/s/Gn5rZYbN9RWAi2tHOQLo_Q)
-+ [Æô¶¯¡¢Í£Ö¹ºÍÖØÆô·şÎñ](https://mp.weixin.qq.com/s/5ntJjrx6AVHchb_0kKzyzA)
-+ [´´½¨·şÎñ](linux-service.md)
-+ [SystemdÌæ´ú³õÊ¼»¯³ÌĞò(init)ºÍSystemV](https://mp.weixin.qq.com/s/Sjfd16j-ybGkRFlIhxBXxg)
++ [åˆ—å‡ºsystemdæ‰€æœ‰æœåŠ¡](https://mp.weixin.qq.com/s/Gn5rZYbN9RWAi2tHOQLo_Q)
++ [å¯åŠ¨ã€åœæ­¢å’Œé‡å¯æœåŠ¡](https://mp.weixin.qq.com/s/5ntJjrx6AVHchb_0kKzyzA)
++ [åˆ›å»ºæœåŠ¡](linux-service.md)
++ [Systemdæ›¿ä»£åˆå§‹åŒ–ç¨‹åº(init)å’ŒSystemV](https://mp.weixin.qq.com/s/Sjfd16j-ybGkRFlIhxBXxg)
 
 Control the systemd system and service manager
 ```console
@@ -536,7 +536,7 @@ systemctl start sshd
 
 # list directory status
 systemctl status /home
-¡ñ home.mount - /home
+â— home.mount - /home
    Loaded: loaded (/etc/fstab; bad; vendor preset: disabled)
    Active: active (mounted) since Wed 2018-08-29 10:46:30 CST; 2 weeks 2 days ago
     Where: /home
@@ -570,22 +570,22 @@ systemctl disable mysql
 ```
 
 #### turn off console color
-+ [¶¨Òå×Ô¼ºµÄÃüÁî](https://mp.weixin.qq.com/s/wYfYLQxUk-ckT0LyBv9pjQ)
-+ [±ğÃû±£»¤·şÎñ](https://mp.weixin.qq.com/s/Kyn7NVX_vpOWSwdDnphA6w)
++ [å®šä¹‰è‡ªå·±çš„å‘½ä»¤](https://mp.weixin.qq.com/s/wYfYLQxUk-ckT0LyBv9pjQ)
++ [åˆ«åä¿æŠ¤æœåŠ¡](https://mp.weixin.qq.com/s/Kyn7NVX_vpOWSwdDnphA6w)
 ```console
-# Èç¹ûÏ£ÍûÓÀ¾Ã¹Ø±ÕÑÕÉ«·½°¸¿ÉÒÔÔÚ .bashrc Ôö¼Ó " alias ls='ls --color=never' "
+# å¦‚æœå¸Œæœ›æ°¸ä¹…å…³é—­é¢œè‰²æ–¹æ¡ˆå¯ä»¥åœ¨ .bashrc å¢åŠ  " alias ls='ls --color=never' "
 $ ls --color=never
 ```
 
 ---
 #### df/du
-+ [»ñÈ¡LinuxÖĞµÄÄ¿Â¼´óĞ¡](https://mp.weixin.qq.com/s/5iNd0C5rxH7buTPHfaTEqg)
-+ [duf¼ì²é´ÅÅÌÊ¹ÓÃÇé¿ö](https://mp.weixin.qq.com/s/sInWzRWzEaiUbytDDv4aDg)
++ [è·å–Linuxä¸­çš„ç›®å½•å¤§å°](https://mp.weixin.qq.com/s/5iNd0C5rxH7buTPHfaTEqg)
++ [dufæ£€æŸ¥ç£ç›˜ä½¿ç”¨æƒ…å†µ](https://mp.weixin.qq.com/s/sInWzRWzEaiUbytDDv4aDg)
 ```console
 # show current folder disk info
 # -h size unit using Giga
 # -m size unit using Mega
-# --max-depth= Ä¿Â¼µÄ´òÓ¡Éî¶È
+# --max-depth= ç›®å½•çš„æ‰“å°æ·±åº¦
 df -h
 
 # -T, --print-type
@@ -622,7 +622,7 @@ du -h /home | sort -hr | less
 
 #### lsof
 ```console
-# list opened files ÁĞ³ö´ò¿ªÁËµÄÎÄ¼ş
+# list opened files åˆ—å‡ºæ‰“å¼€äº†çš„æ–‡ä»¶
 $ lsof | less
 COMMAND     PID   TID       USER   FD      TYPE             DEVICE  SIZE/OFF       NODE NAME
 ntpd       1181              ntp  rtd       DIR               0,38       294        256 /
@@ -632,16 +632,16 @@ ntpd       1181              ntp  mem       REG               0,38     18712    
 ```
 
 #### stat/getfacl/setfacl
-+ [stat»ñÈ¡ÎÄ¼şÈ¨ÏŞÍêÕûĞÅÏ¢](https://mp.weixin.qq.com/s/j4afP8mTHCXLiONr1wnyhg)
++ [statè·å–æ–‡ä»¶æƒé™å®Œæ•´ä¿¡æ¯](https://mp.weixin.qq.com/s/j4afP8mTHCXLiONr1wnyhg)
 ```console
 # display the maximum length of a filename
 # Namelen: is the maximum number of characters permitted in 
 # a filename on the specified filesystem (/home)
-# ¨Cf option tells stat to display filesystem status instead of file status
+# â€“f option tells stat to display filesystem status instead of file status
 $ stat -f /home | grep -i name
 ID: 48fef7d1240ee054 Namelen: 255     Type: ext2/ext3
 
-# displays the same information as an ls ¨Cl command, albeit in a different format
+# displays the same information as an ls â€“l command, albeit in a different format
 $ getfacl /home
 # file: home
 # owner: root
@@ -660,35 +660,35 @@ mask::rwother::r--
 ```
 ---
 #### device
-LinuxµÄdevÄ¿Â¼ÏÂÓĞÒ»Ğ©ÌØÊâÎÄ¼ş£¬ËûÃÇ¿ÉÒÔÎªÍâ²¿³ÌĞòÌá¹©Ò»Ğ©ÏµÍ³¶ÁĞ´¹¦ÄÜ¡£ 
-+ [LinuxµÄÌØÊâÎÄ¼ş](https://mp.weixin.qq.com/s/odOpV5INmu8tfegyjgU_bg)  
-  `°üÀ¨ ÆÕÍ¨ÎÄ¼ş/Ä¿Â¼(d)/·ûºÅÁ´½Ó/Ì×½Ó×Ö(s)/¿éÉè±¸(b)/×Ö·ûÉè±¸(c)/¹ÜµÀ`
-+ [fallocate/dd/truncate´´½¨´óÎÄ¼ş](https://mp.weixin.qq.com/s/eiPW7GakKpTwTCuhTaP6gA)
-+ [ddÃüÁî¸´ÖÆÎÄ¼ş²¢¶ÔÔ­ÎÄ¼şµÄÄÚÈİ½øĞĞ×ª»»ºÍ¸ñÊ½»¯´¦Àí](https://mp.weixin.qq.com/s/ymrlQu89_-znXbyATd-hpw)
+Linuxçš„devç›®å½•ä¸‹æœ‰ä¸€äº›ç‰¹æ®Šæ–‡ä»¶ï¼Œä»–ä»¬å¯ä»¥ä¸ºå¤–éƒ¨ç¨‹åºæä¾›ä¸€äº›ç³»ç»Ÿè¯»å†™åŠŸèƒ½ã€‚ 
++ [Linuxçš„ç‰¹æ®Šæ–‡ä»¶](https://mp.weixin.qq.com/s/odOpV5INmu8tfegyjgU_bg)  
+  `åŒ…æ‹¬ æ™®é€šæ–‡ä»¶/ç›®å½•(d)/ç¬¦å·é“¾æ¥/å¥—æ¥å­—(s)/å—è®¾å¤‡(b)/å­—ç¬¦è®¾å¤‡(c)/ç®¡é“`
++ [fallocate/dd/truncateåˆ›å»ºå¤§æ–‡ä»¶](https://mp.weixin.qq.com/s/eiPW7GakKpTwTCuhTaP6gA)
++ [ddå‘½ä»¤å¤åˆ¶æ–‡ä»¶å¹¶å¯¹åŸæ–‡ä»¶çš„å†…å®¹è¿›è¡Œè½¬æ¢å’Œæ ¼å¼åŒ–å¤„ç†](https://mp.weixin.qq.com/s/ymrlQu89_-znXbyATd-hpw)
 ```console
-# Ëæ»ú²úÉúÒ»¸ö´óĞ¡69MµÄ¶ş½øÖÆ¸ñÊ½ÎÄ¼ş£¬ÎÄ¼şÃûtest
-# ifÖ¸¶¨ÊäÈëÎÄ¼ş 
-# ofÖ¸¶¨Êä³öÎÄ¼ş
-# bsÖ¸¶¨Ã¿´Î¶ÁĞ´µÄ×Ö½ÚÊı
-# countÖ¸¶¨¶ÁĞ´µÄ´ÎÊı
+# éšæœºäº§ç”Ÿä¸€ä¸ªå¤§å°69Mçš„äºŒè¿›åˆ¶æ ¼å¼æ–‡ä»¶ï¼Œæ–‡ä»¶åtest
+# ifæŒ‡å®šè¾“å…¥æ–‡ä»¶ 
+# ofæŒ‡å®šè¾“å‡ºæ–‡ä»¶
+# bsæŒ‡å®šæ¯æ¬¡è¯»å†™çš„å­—èŠ‚æ•°
+# countæŒ‡å®šè¯»å†™çš„æ¬¡æ•°
 dd if=/dev/urandom of=test bs=1M count=69
 
-# ²úÉúÒ»¸ötextÎÄ¼ş£¬´óĞ¡Îª786K£¬ÎÄ¼şÃûtest
+# äº§ç”Ÿä¸€ä¸ªtextæ–‡ä»¶ï¼Œå¤§å°ä¸º786Kï¼Œæ–‡ä»¶åtest
 dd if=/dev/urandom bs=786438 count=1 | base64 > test
 ```
 + [zero](https://en.wikipedia.org/wiki//dev/zero)
-¿ÉÒÔ¶Á³öÈÎÒâ´óĞ¡µÄÄÚÈİ£¬Èç1k£¬1M£¬100M£¬ËùÓĞÄÚÈİ¾ùÎª0¡£¿ÉÒÔÓÃÀ´×öÄÚ´æ³õÊ¼»¯£¬Ä£Äâ¶ÁĞ´¿ªÏú£¬²Î¿´[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)
+å¯ä»¥è¯»å‡ºä»»æ„å¤§å°çš„å†…å®¹ï¼Œå¦‚1kï¼Œ1Mï¼Œ100Mï¼Œæ‰€æœ‰å†…å®¹å‡ä¸º0ã€‚å¯ä»¥ç”¨æ¥åšå†…å­˜åˆå§‹åŒ–ï¼Œæ¨¡æ‹Ÿè¯»å†™å¼€é”€ï¼Œå‚çœ‹[code sample](https://github.com/toyboxman/yummy-xml-UI/blob/0a92045c047cccc42abba1ca4e31d71aff364a49/xml-UI/archive/python/sample/call_dev_multithread.py#L19)
 ```console
-# Ëæ»úÉú³ÉÒ»ÅúÎÄ¼ş
-# seq 1000²úÉú1..1000ÊıÁĞ
-# xargs -i Ö¸¶¨ÓÃ1..1000·Ö±ğÌæ»»ºó²¿·ÖÃüÁî×Ö·û´®ÖĞ{}
-# dd ÓÃÀ´²úÉúÎÄ¼ş
+# éšæœºç”Ÿæˆä¸€æ‰¹æ–‡ä»¶
+# seq 1000äº§ç”Ÿ1..1000æ•°åˆ—
+# xargs -i æŒ‡å®šç”¨1..1000åˆ†åˆ«æ›¿æ¢åéƒ¨åˆ†å‘½ä»¤å­—ç¬¦ä¸²ä¸­{}
+# dd ç”¨æ¥äº§ç”Ÿæ–‡ä»¶
 seq 1000 | xargs -i dd if=/dev/zero of={}.xjj bs=1k count=256
 ```
 + [random](https://en.wikipedia.org/wiki//dev/random)
-Í¨¹ıÄÚºËÀ´²úÉúËæ»úÊı
+é€šè¿‡å†…æ ¸æ¥äº§ç”Ÿéšæœºæ•°
 ```console
-# Í¨¹ıddÃüÁî²úÉúÒ»¸öÖ¸¶¨sizeµÄÎÄ¼ş
+# é€šè¿‡ddå‘½ä»¤äº§ç”Ÿä¸€ä¸ªæŒ‡å®šsizeçš„æ–‡ä»¶
 [root@localhost ~]# dd if=/dev/urandom of=test bs=1M count=69
 69+0 records in
 69+0 records out
@@ -698,13 +698,13 @@ seq 1000 | xargs -i dd if=/dev/zero of={}.xjj bs=1k count=256
 69M    test
 ```
 + [null](https://en.wikipedia.org/wiki/Null_device)
- /dev/nullÊÇÊı¾İÈİÆ÷£¬³£³£ÓÃÀ´¶ªÆúÊı¾İÁ÷£¬ÓĞµãÀàËÆÀ¬»øÏä¹¦ÄÜ, Äã¿ÉÒÔ°ÑËùÓĞ²»Ïë±£ÁôµÄºÍ²»Ïë»ØÏÔµÄ¶¼ÖØ¶¨Ïò¹ıÈ¥¡£
+ /dev/nullæ˜¯æ•°æ®å®¹å™¨ï¼Œå¸¸å¸¸ç”¨æ¥ä¸¢å¼ƒæ•°æ®æµï¼Œæœ‰ç‚¹ç±»ä¼¼åƒåœ¾ç®±åŠŸèƒ½, ä½ å¯ä»¥æŠŠæ‰€æœ‰ä¸æƒ³ä¿ç•™çš„å’Œä¸æƒ³å›æ˜¾çš„éƒ½é‡å®šå‘è¿‡å»ã€‚
 ```console
 echo "hi there" > /dev/null
-# µ±´Ó/dev/null¶ÁÈ¡Êı¾İ,»ñµÃ»áÊÇempty£¬Òò´Ë¿ÉÒÔÓÃÀ´Çå¿ÕÎÄ¼ş
+# å½“ä»/dev/nullè¯»å–æ•°æ®,è·å¾—ä¼šæ˜¯emptyï¼Œå› æ­¤å¯ä»¥ç”¨æ¥æ¸…ç©ºæ–‡ä»¶
 ls -l messages
 -rw-r--r-- 1 max pubs 25315 Oct 24 10:55 messages
-# °ÑmessagesÎÄ¼şÇå¿Õ£¬ÎÄ¼ş´óĞ¡±äÎª0
+# æŠŠmessagesæ–‡ä»¶æ¸…ç©ºï¼Œæ–‡ä»¶å¤§å°å˜ä¸º0
 cat /dev/null > messages
 # file size becomes zero
 ls -l messages
@@ -712,7 +712,7 @@ ls -l messages
 
 # redirects stdout to null
 ls > /dev/null
-# ÉÏÌõÃüÁîµÄshortcut
+# ä¸Šæ¡å‘½ä»¤çš„shortcut
 ls 1 > /dev/null
 
 # redirects stderr to null
@@ -721,7 +721,7 @@ ls 2 > /dev/null
 # redirects stdout and stderr to null
 ls &> /dev/null
 
-# ºóÌ¨ÔËĞĞlistÃüÁî,¶ªÆústdout and stderrÖĞÊä³ö
+# åå°è¿è¡Œlistå‘½ä»¤,ä¸¢å¼ƒstdout and stderrä¸­è¾“å‡º
 # Using 2>&1 will redirect stderr to stdout
 ls > /dev/null 2>&1 &
 
@@ -732,11 +732,11 @@ ls > /dev/null 1>&2
 
 
 #### activate account
-ÏÂÃæ²Ù×÷Í¨¹ıchshÀ´½âËøÕË»§£¬Ëø¶¨½âËøÕË»§»¹¿ÉÒÔÍ¨¹ı[passwd-usermod](https://mp.weixin.qq.com/s/1GMmbERptpLW1lH4b6IN3g)À´ÊµÏÖ
+ä¸‹é¢æ“ä½œé€šè¿‡chshæ¥è§£é”è´¦æˆ·ï¼Œé”å®šè§£é”è´¦æˆ·è¿˜å¯ä»¥é€šè¿‡[passwd-usermod](https://mp.weixin.qq.com/s/1GMmbERptpLW1lH4b6IN3g)æ¥å®ç°
 ```console
 # activate an account via chsh
 # "This account is currently not available" error means what is says
-# The account you are trying to ¡°su¡± to or trying to login with is 
+# The account you are trying to â€œsuâ€ to or trying to login with is 
 # currently not available because there is no valid shell set for this user
 su mysql
 # This account is currently not available.
@@ -772,7 +772,7 @@ disk:x:6:
 cat /etc/passwd | wc -l
 
 # The /etc/shadow file stores actual password in encrypted format (more like the hash of the password)
-# for user¡¯s account with additional properties related to user password
+# for userâ€™s account with additional properties related to user password
 cat /etc/shadow | wc -l
 
 # Run psql with postgresSQL user
@@ -790,61 +790,61 @@ passwd test
 # -r remove user's home/mail dir as well
 userdel -fr lighttpd
 
-# ĞŞ¸ÄÓÃ»§lighttpdµÄgroupÊôĞÔ
+# ä¿®æ”¹ç”¨æˆ·lighttpdçš„groupå±æ€§
 # -a, --append Add the user to the supplementary group(s). Use only with the -G option.
 # -G, --groups GROUP1[,GROUP2,...[,GROUPN]]]
 sudo usermod -aG lighttpd,users lighttpd
 # force test user to take root group id
 usermod -g root test    
 
-# ĞÂÔönginxµÄ×é
+# æ–°å¢nginxçš„ç»„
 groupadd nginx
-# É¾³ınginxµÄ×é
+# åˆ é™¤nginxçš„ç»„
 groupdel nginx
 
-# ²é¿´ÓÃ»§µÄ¹éÊôgroupĞÅÏ¢, ·µ»Øusers/docker/fuseÈı¸öÓÃ»§×é
+# æŸ¥çœ‹ç”¨æˆ·çš„å½’å±groupä¿¡æ¯, è¿”å›users/docker/fuseä¸‰ä¸ªç”¨æˆ·ç»„
 $ groups king
 king : users docker fuse
 ```
 
 ### Usual command
 #### env
-+ »·¾³±äÁ¿ÅäÖÃÈ«¹¥ÂÔ[[1](https://mp.weixin.qq.com/s/mSgsrZrQX8lmO0vc1dYrlA), [2](https://mp.weixin.qq.com/s/W1bph3PRFroZFeHRqGDdmA)]
-+ [sourceÃüÁî½«º¯ÊıºÍ±äÁ¿µ¼ÈëBash](https://mp.weixin.qq.com/s/yZl0Q401ouLlWdII4HAd4w)  
++ ç¯å¢ƒå˜é‡é…ç½®å…¨æ”»ç•¥[[1](https://mp.weixin.qq.com/s/mSgsrZrQX8lmO0vc1dYrlA), [2](https://mp.weixin.qq.com/s/W1bph3PRFroZFeHRqGDdmA)]
++ [sourceå‘½ä»¤å°†å‡½æ•°å’Œå˜é‡å¯¼å…¥Bash](https://mp.weixin.qq.com/s/yZl0Q401ouLlWdII4HAd4w)  
 
-²é¿´µ±Ç°µÄbash»·¾³±äÁ¿
+æŸ¥çœ‹å½“å‰çš„bashç¯å¢ƒå˜é‡
 ```console
 $ env | more
 $ printenv | less
 
-# µ¼³ö»·¾³±äÁ¿
+# å¯¼å‡ºç¯å¢ƒå˜é‡
 $ export GOBIN="/go/bin"
 
-# É¾³ı»·¾³±äÁ¿
+# åˆ é™¤ç¯å¢ƒå˜é‡
 $ unset GOBIN
 ```
 
 #### list
-+ [¾«Í¨ list ÃüÁî](https://mp.weixin.qq.com/s/FXiMOUCLdWfIaUJpnzlsLw)
-+ [ÅÅĞòÍæ³ö»¨](https://mp.weixin.qq.com/s/xToer7-WJeUeZiToPvlMug)
++ [ç²¾é€š list å‘½ä»¤](https://mp.weixin.qq.com/s/FXiMOUCLdWfIaUJpnzlsLw)
++ [æ’åºç©å‡ºèŠ±](https://mp.weixin.qq.com/s/xToer7-WJeUeZiToPvlMug)
 ```console
-# -t °´×î½üĞŞ¸ÄÊ±¼äÅÅĞòÄ¿Â¼ÏÂÎÄ¼ş
+# -t æŒ‰æœ€è¿‘ä¿®æ”¹æ—¶é—´æ’åºç›®å½•ä¸‹æ–‡ä»¶
 $ ls -tl ./
 
-# °´ĞŞ¸ÄÊ±¼äÄæĞòÄ¿Â¼ÏÂÎÄ¼ş
+# æŒ‰ä¿®æ”¹æ—¶é—´é€†åºç›®å½•ä¸‹æ–‡ä»¶
 $ ls -trl ./
 
-# -m »ò --format=comma ÓÃ¶ººÅ·Ö¸ôÎÄ¼şÃû
+# -m æˆ– --format=comma ç”¨é€—å·åˆ†éš”æ–‡ä»¶å
 $ ls -m
 1, 10, 11, 12, 124, 13, 14, 15, 16pgs-landscape.pdf, 16pgs.pdf
-# --format=across ÓÃ¿Õ¸ñ·Ö¸ôÎÄ¼şÃû
+# --format=across ç”¨ç©ºæ ¼åˆ†éš”æ–‡ä»¶å
 $ ls --format=across z*
 z              zip            zipfiles      zipfiles1.bat   zipfiles2.bat
 
-# -1  Êı×Ö1±íÊ¾Ò»ĞĞÖ»ÏÔÊ¾Ò»¸öÎÄ¼ş
+# -1  æ•°å­—1è¡¨ç¤ºä¸€è¡Œåªæ˜¾ç¤ºä¸€ä¸ªæ–‡ä»¶
 $ ls -1
 
-# -X °´ÎÄ¼şÀ©Õ¹Ãû¶ø²»ÊÇÎÄ¼şÃû¶ÔÌõÄ¿½øĞĞÅÅĞò
+# -X æŒ‰æ–‡ä»¶æ‰©å±•åè€Œä¸æ˜¯æ–‡ä»¶åå¯¹æ¡ç›®è¿›è¡Œæ’åº
 $ ls -X
 ``` 
 
@@ -858,11 +858,11 @@ $ ls -X
 # -h highlight current process
 pstree -alA
 
-# pgrep ÓÃÀ´ÁĞ¾Ù½ø³Ì ID
+# pgrep ç”¨æ¥åˆ—ä¸¾è¿›ç¨‹ ID
 pgrep -u java
 22441
 22444
-# ÃüÁîÏàµ±ÓÚ
+# å‘½ä»¤ç›¸å½“äº
 ps -ef | egrep 'java' | awk  '{print $2}'
 ```          
 
@@ -872,18 +872,18 @@ ps -ef | egrep 'java' | awk  '{print $2}'
 # read nc manual with GB2312 encoding
 man -E GB2312 nc
 
-# °ÑmanÎÄ¼ş×ª³É´¿ÎÄ±¾ÎÄ¼ş
+# æŠŠmanæ–‡ä»¶è½¬æˆçº¯æ–‡æœ¬æ–‡ä»¶
 man less | col -b > less.txt 
 ```
 
 #### make
-+ [Autotools ´ò°üDEB ºÍ RPM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)
-+ [RPM °ü³õ¿ú](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=1&sn=010147fe09f855ce0e579925041ce392)
++ [Autotools æ‰“åŒ…DEB å’Œ RPM](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)
++ [RPM åŒ…åˆçª¥](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615352&idx=1&sn=010147fe09f855ce0e579925041ce392)
 + [Autotools](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614900&idx=1&sn=a4e30f983ec7ed2540c9884f00f1811c)]
-+ [RPM ÖÆ×÷](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615524&idx=1&sn=2ecec73ef961e236d9fc1f2437edbf4c)
-+ [RPMµÄspecÎÄ¼ş](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615544&idx=2&sn=29fd8892ba2bc9e1d1264893c699064e)
++ [RPM åˆ¶ä½œ](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615524&idx=1&sn=2ecec73ef961e236d9fc1f2437edbf4c)
++ [RPMçš„specæ–‡ä»¶](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615544&idx=2&sn=29fd8892ba2bc9e1d1264893c699064e)
 
-makeÃüÁîÓÃÀ´ÔÚLinuxÆ½Ì¨ÉÏÊÖ¶¯±àÒë°²×°Èí¼ş°ü, ÆäËû´ò°ü¹¤¾ß»¹°üÀ¨rpm/dpkg    
+makeå‘½ä»¤ç”¨æ¥åœ¨Linuxå¹³å°ä¸Šæ‰‹åŠ¨ç¼–è¯‘å®‰è£…è½¯ä»¶åŒ…, å…¶ä»–æ‰“åŒ…å·¥å…·è¿˜åŒ…æ‹¬rpm/dpkg    
 ```console
 # compile and install
 ./configure
@@ -899,7 +899,7 @@ sudo make distclean
 sudo make clean
 ./configure --prefix=/usr
 ```
-dpkgÃüÁîÓÃÀ´[²Ù×÷deb](https://blog.packagecloud.io/eng/2015/10/13/inspect-extract-contents-debian-packages/)ÀàĞÍÎÄ¼ş
+dpkgå‘½ä»¤ç”¨æ¥[æ“ä½œdeb](https://blog.packagecloud.io/eng/2015/10/13/inspect-extract-contents-debian-packages/)ç±»å‹æ–‡ä»¶
 ```console
 # -c --contents  to list deb package stuff
 dpkg -c install_amd64.deb
@@ -910,51 +910,51 @@ ar -x install_amd64.deb
 # dpkg-deb - Debian package archive (.deb) manipulation tool
 dpkg-deb -x ./path/to/test.deb ./path/to/destination
 
-# -I --info ²é¿´DEBÎÄ¼şµÄÒÀÀµÑ¡Ïî ÒÀÀµĞÅÏ¢¿ÉÒÔÔÚÒÔ¡°Depends¡±¿ªÍ·µÄÄÇĞ©ĞĞÖĞÕÒµ½
+# -I --info æŸ¥çœ‹DEBæ–‡ä»¶çš„ä¾èµ–é€‰é¡¹ ä¾èµ–ä¿¡æ¯å¯ä»¥åœ¨ä»¥â€œDependsâ€å¼€å¤´çš„é‚£äº›è¡Œä¸­æ‰¾åˆ°
 dpkg -I deb_file
 ```
 
 #### ssh
-+ [SSH×ö¶Ë¿Ú×ª·¢](https://mp.weixin.qq.com/s/uesOCt9gmdST-HpwYTKsIw)
-+ [SSHÍ¨Ñ¶¹ı³ÌÏê½â](https://mp.weixin.qq.com/s/HYi9Oa7vM9xPcsFxu18-UA)
-+ [SSHÃÜÔ¿¹ÜÀí¹¤¾ß](https://mp.weixin.qq.com/s/C6kLwO6LQvWzpHcEThg3TQ)
-+ [ÍøµÀSSH½Ì³Ì](https://wangdoc.com/ssh/port-forwarding.html)
++ [SSHåšç«¯å£è½¬å‘](https://mp.weixin.qq.com/s/uesOCt9gmdST-HpwYTKsIw)
++ [SSHé€šè®¯è¿‡ç¨‹è¯¦è§£](https://mp.weixin.qq.com/s/HYi9Oa7vM9xPcsFxu18-UA)
++ [SSHå¯†é’¥ç®¡ç†å·¥å…·](https://mp.weixin.qq.com/s/C6kLwO6LQvWzpHcEThg3TQ)
++ [ç½‘é“SSHæ•™ç¨‹](https://wangdoc.com/ssh/port-forwarding.html)
 ```console
-# »ñÈ¡ssh public keys£¬°ÑÖ¸¶¨hostÉÏ¹«Ô¿Ìí¼Óµ½±¾µØ
-# ´æ´¢github.comÖ÷»úÉÏ¹«Ô¿µ½±¾µØ
+# è·å–ssh public keysï¼ŒæŠŠæŒ‡å®šhostä¸Šå…¬é’¥æ·»åŠ åˆ°æœ¬åœ°
+# å­˜å‚¨github.comä¸»æœºä¸Šå…¬é’¥åˆ°æœ¬åœ°
 $ ssh-keyscan github.com >> ~/.ssh/known_hosts
 
 # login with private key file
 $ ssh -i private.key root@172.16.8.38
 
-# sshµÇÂ¼ÃâÃÜ
-# 1.ÏÈÓÃssh-keygen²úÉúÃØÔ¿¶Ô, Éú³Épublic/private rsa key pair
+# sshç™»å½•å…å¯†
+# 1.å…ˆç”¨ssh-keygenäº§ç”Ÿç§˜é’¥å¯¹, ç”Ÿæˆpublic/private rsa key pair
 $ ssh-keygen -t rsa
-# 2.ssh-copy-id °²×°¹«Ô¿µ½remote server
+# 2.ssh-copy-id å®‰è£…å…¬é’¥åˆ°remote server
 $ ssh-copy-id root@172.16.8.38
-# ºóĞøssh login¾Í²»ÓÃÊÖ¶¯ÊäÈëÃÜÂë,°üÀ¨scp²Ù×÷Ò²²»ÓÃÃÜÂë
+# åç»­ssh loginå°±ä¸ç”¨æ‰‹åŠ¨è¾“å…¥å¯†ç ,åŒ…æ‹¬scpæ“ä½œä¹Ÿä¸ç”¨å¯†ç 
 
-# sshÔ¶³ÌÖ´ĞĞÃüÁî
-# ²é¿´Ô¶¶Ë»úÆ÷Ä¿Â¼ÁĞ±í 'ls -al /root'
+# sshè¿œç¨‹æ‰§è¡Œå‘½ä»¤
+# æŸ¥çœ‹è¿œç«¯æœºå™¨ç›®å½•åˆ—è¡¨ 'ls -al /root'
 $ ssh root@172.16.8.38 ls -al
 
-# Ìø°å»ú(jumphost)Ô¶³ÌÖ´ĞĞÃüÁî
-# Í¨¹ı192.168.1.1 ->Ìø×ªµ½-> 192.168.1.2 Ö´ĞĞgrepÃüÁî
-# 1.¿Õ¸ñ»á´øÀ´½âÎö´íÎó£¬Òò´ËÔ¶³ÌÃüÁî×îºÃ¶¼ÓÃË«ÒıºÅ°üÀ¨
-# 2.grepÃüÁîÊÇµÚ¶şÌøÔ¶³ÌÃüÁî£¬Òò´ËÆäË«ÒıºÅ±»°üÀ¨ÔÚµÚÒ»ÌøÃüÁîÖĞ£¬ÒªÓÃ×ªÒå·û\"´¦Àí
+# è·³æ¿æœº(jumphost)è¿œç¨‹æ‰§è¡Œå‘½ä»¤
+# é€šè¿‡192.168.1.1 ->è·³è½¬åˆ°-> 192.168.1.2 æ‰§è¡Œgrepå‘½ä»¤
+# 1.ç©ºæ ¼ä¼šå¸¦æ¥è§£æé”™è¯¯ï¼Œå› æ­¤è¿œç¨‹å‘½ä»¤æœ€å¥½éƒ½ç”¨åŒå¼•å·åŒ…æ‹¬
+# 2.grepå‘½ä»¤æ˜¯ç¬¬äºŒè·³è¿œç¨‹å‘½ä»¤ï¼Œå› æ­¤å…¶åŒå¼•å·è¢«åŒ…æ‹¬åœ¨ç¬¬ä¸€è·³å‘½ä»¤ä¸­ï¼Œè¦ç”¨è½¬ä¹‰ç¬¦\"å¤„ç†
 $ ssh root@192.168.1.1 "ssh root@192.168.1.2 \"grep -in '#bms#' /var/log/proton/nsxapi.log\""
 
-# Ö¸¶¨remote hostÉÏ¸ø¶¨µÄTCP port×ª·¢±¨ÎÄµ½Ö¸¶¨±¾µØhostÄ³¸öport
+# æŒ‡å®šremote hostä¸Šç»™å®šçš„TCP portè½¬å‘æŠ¥æ–‡åˆ°æŒ‡å®šæœ¬åœ°hostæŸä¸ªport
 # -R [bind_address:]port:host:hostport
-# Èç¹ûÄ¿±ê»úÆ÷ÔÚË½ÓĞÍø¶Î,ĞèÒªÍ¨¹ıjumphost²ÅÄÜ·ÃÎÊ.ÄÇÃ´Í¨¹ı¶à´Î×ª·¢·½Ê½¿ÉÒÔ½«
-# ÄÚ²¿»úÆ÷Ò»Ğ©¶Ë¿ÚÊı¾İ×ª·¢³öÀ´½øĞĞ·ÖÎö¼à¿Ø,ÀıÈç public -> jumphost -> private
-# ¿ÉÒÔÅäÖÃ×ª·¢ private -> jumphost -> public
-# ½«172.16.1.13ÉÏ¶Ë¿Ú54321Êı¾İ×ª·¢±¾»ú54321¶Ë¿Ú
+# å¦‚æœç›®æ ‡æœºå™¨åœ¨ç§æœ‰ç½‘æ®µ,éœ€è¦é€šè¿‡jumphostæ‰èƒ½è®¿é—®.é‚£ä¹ˆé€šè¿‡å¤šæ¬¡è½¬å‘æ–¹å¼å¯ä»¥å°†
+# å†…éƒ¨æœºå™¨ä¸€äº›ç«¯å£æ•°æ®è½¬å‘å‡ºæ¥è¿›è¡Œåˆ†æç›‘æ§,ä¾‹å¦‚ public -> jumphost -> private
+# å¯ä»¥é…ç½®è½¬å‘ private -> jumphost -> public
+# å°†172.16.1.13ä¸Šç«¯å£54321æ•°æ®è½¬å‘æœ¬æœº54321ç«¯å£
 $ ssh -R 54321:localhost:54321 root@172.16.1.13
 ```
 
 #### find
-+ [ÎÄ¼ş²éÕÒ](https://mp.weixin.qq.com/s/14ReE0IvxseEpboJSGh0vw)
++ [æ–‡ä»¶æŸ¥æ‰¾](https://mp.weixin.qq.com/s/14ReE0IvxseEpboJSGh0vw)
 ```console
 # search a file by strict name
 find /etc -name network.sh  
@@ -965,7 +965,7 @@ find /etc -name '[nN]etwork.sh'
 # search a file by name regex condition case insensitive
 find /etc -iname '*network*'
 
-# -type °´ÀàĞÍ²éÕÒÎÄ¼ş 
+# -type æŒ‰ç±»å‹æŸ¥æ‰¾æ–‡ä»¶ 
 # d      directory
 # f      regular file
 # l      symbolic  link
@@ -973,20 +973,27 @@ find /etc -iname '*network*'
 $ find . -type f -name *.xml
 ./pom.xml
 
-# ²éÕÒÎÄ¼ş²¢·µ»ØÈ«Â·¾¶½á¹û
+# æŸ¥æ‰¾æ–‡ä»¶å¹¶è¿”å›å…¨è·¯å¾„ç»“æœ
 $ find $PWD -type f -name *.xml
 $ find $(pwd) -type f -name *.xml
 /home/king/source/pom.xml
 
-# exec Á½ÖÖÊä³ö·½Ê½½á¹ûÒ»ÖÂ, {} + ·½Ê½Êä³ö¸ñÊ½×Ô¶¯¶ÔÆë
-# {}±íÊ¾find´«Èë²ÎÊı
+# exec ä¸¤ç§è¾“å‡ºæ–¹å¼ç»“æœä¸€è‡´, {} + æ–¹å¼è¾“å‡ºæ ¼å¼è‡ªåŠ¨å¯¹é½
+# {}è¡¨ç¤ºfindä¼ å…¥å‚æ•°
 find source/lib/ -name *.jar -exec file {} +
 find source/lib/ -name *.jar -exec file {} \;
-# ½«ËùÓĞcom°üÖĞjavaÔ´ÎÄ¼şºÏ²¢µ½src.txt²¢Í³¼ÆĞĞÊı
+# å°†æ‰€æœ‰comåŒ…ä¸­javaæºæ–‡ä»¶åˆå¹¶åˆ°src.txtå¹¶ç»Ÿè®¡è¡Œæ•°
 find src/com/ -name *.java -exec cat {} >> src.txt +
 wc -l src.txt
 
-# °´ÓÃ»§²éÕÒÎÄ¼ş²¢ÇÒ²é¿´ÎÄ¼şÀàĞÍ
+# åˆ é™¤æ–‡ä»¶åä¸ºä¹±ç çš„æ–‡ä»¶
+# ä¹±ç æ–‡ä»¶æ— æ³•é€šè¿‡æ–‡ä»¶ååŒ¹é…,åªèƒ½æ‰¾åˆ°æ–‡ä»¶æˆ–ç›®å½•çš„inode
+$ ls -i
+5004379 ''$'\037'  
+# inum æŒ‡å®šinodeçš„æ ‡è¯†
+$ find -inum 5004379 -delete
+
+# æŒ‰ç”¨æˆ·æŸ¥æ‰¾æ–‡ä»¶å¹¶ä¸”æŸ¥çœ‹æ–‡ä»¶ç±»å‹
 $ find /home -user king -exec file {} \;  
 /home/king: directory
 /home/king/.profile: ASCII text
@@ -995,16 +1002,16 @@ $ find /home -user king -exec file {} \;
 /home/king/public_html: directory
 /home/king/public_html/.directory: ASCII text
 
-# ¼ì²éµ±Ç°Ä¿Â¼ÏÂÄÄ¸öjarÎÄ¼ş°üº¬ClassUtils.class
+# æ£€æŸ¥å½“å‰ç›®å½•ä¸‹å“ªä¸ªjaræ–‡ä»¶åŒ…å«ClassUtils.class
 $ find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
 Archive:  ./commons-compress-1.8.1.jar
 3352  2014-05-09 20:45   org/apache/commons/compress/utils/ClassUtils.class
-# Í¨¹ıgrepÃüÁîÖ±½ÓËÑÑ°Ñ¹Ëõ°üÄÚ²¿ÎÄ¼şÃû ¡®-l¡¯²ÎÊı½öÊä³öÆ¥Åäµ½µÄÎÄ¼şÃû
-# ÕâÖÖ·½Ê½²»½âÑ¹ÎŞ·¨ÏñÉÏÃæÒ»ÌõÃüÁîÏÔÊ¾ÍêÕûpackage½á¹¹
+# é€šè¿‡grepå‘½ä»¤ç›´æ¥æœå¯»å‹ç¼©åŒ…å†…éƒ¨æ–‡ä»¶å â€˜-lâ€™å‚æ•°ä»…è¾“å‡ºåŒ¹é…åˆ°çš„æ–‡ä»¶å
+# è¿™ç§æ–¹å¼ä¸è§£å‹æ— æ³•åƒä¸Šé¢ä¸€æ¡å‘½ä»¤æ˜¾ç¤ºå®Œæ•´packageç»“æ„
 $ find . -name "*.jar" -exec grep -il "ClassUtils.class" {} \;
 ./commons-compress-1.8.1.jar
 
-# ½âÑ¹libÄ¿Â¼ÏÂËùÓĞjar°üÎÄ¼şÖĞclassÎÄ¼ş£¬²»ÌáÊ¾¸²¸ÇÑ¡Ôñ£¬²»Êä³ö´¦ÀíÎÄ¼şÁĞ±í {}±íÊ¾find´«Èë²ÎÊı
+# è§£å‹libç›®å½•ä¸‹æ‰€æœ‰jaråŒ…æ–‡ä»¶ä¸­classæ–‡ä»¶ï¼Œä¸æç¤ºè¦†ç›–é€‰æ‹©ï¼Œä¸è¾“å‡ºå¤„ç†æ–‡ä»¶åˆ—è¡¨ {}è¡¨ç¤ºfindä¼ å…¥å‚æ•°
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o -qq {} "*.class" \;
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o {} "*.class" > /dev/null \;
 
@@ -1013,111 +1020,111 @@ find / -iname '*.tgz' -exec rm {} \;
 ```
 
 #### history
-+ historyÃüÁî¿ì½İ·½Ê½[[1](https://mp.weixin.qq.com/s/pL46hqLthGUkqYCWEkv3Hw), [2](https://mp.weixin.qq.com/s/cpgVkuAmPxFZqRisud1YTQ)]
++ historyå‘½ä»¤å¿«æ·æ–¹å¼[[1](https://mp.weixin.qq.com/s/pL46hqLthGUkqYCWEkv3Hw), [2](https://mp.weixin.qq.com/s/cpgVkuAmPxFZqRisud1YTQ)]
 
-listÏµÍ³Ö´ĞĞ¹ıµÄÃüÁî
+listç³»ç»Ÿæ‰§è¡Œè¿‡çš„å‘½ä»¤
 ```console
-# Ö´ĞĞ¹ı×îºó30ÌõÃüÁîÖĞµÄssh
+# æ‰§è¡Œè¿‡æœ€å30æ¡å‘½ä»¤ä¸­çš„ssh
 history 30 | grep ssh
 
-# Ö´ĞĞµÚ15ÌõÃüÁî
+# æ‰§è¡Œç¬¬15æ¡å‘½ä»¤
 history
 !15
 
-# Ö´ĞĞµ¹ÊıµÚ¶şÌõÃüÁî
+# æ‰§è¡Œå€’æ•°ç¬¬äºŒæ¡å‘½ä»¤
 !-2
 
-# ËÑË÷²¢Ìæ»»ÉÏÒ»ÌõÃüÁîµÄ²ÎÊı !!:gs
+# æœç´¢å¹¶æ›¿æ¢ä¸Šä¸€æ¡å‘½ä»¤çš„å‚æ•° !!:gs
 echo my cat is cute!
 my cat is cute!
-# °ÑcuteÌæ»»³Ésmart
+# æŠŠcuteæ›¿æ¢æˆsmart
 !!:gs/cute/smart/
 echo my cat is smart!
 my cat is smart!
 
-# Ê¹ÓÃµ±Ç°ÃüÁîµÄÖ¸¶¨²ÎÊı !#:number
-# ÓÃ²ÎÊı·½Ê½¼ò»¯ÃüÁî cp /opt/db/mysql/data/file /opt/db/mysql/data/file.bak
+# ä½¿ç”¨å½“å‰å‘½ä»¤çš„æŒ‡å®šå‚æ•° !#:number
+# ç”¨å‚æ•°æ–¹å¼ç®€åŒ–å‘½ä»¤ cp /opt/db/mysql/data/file /opt/db/mysql/data/file.bak
 cp /opt/db/mysql/data/file !#:1.bak
 
-# Ê¹ÓÃÉÏÒ»ÌõÃüÁîµÄÖ¸¶¨²ÎÊı !:number
+# ä½¿ç”¨ä¸Šä¸€æ¡å‘½ä»¤çš„æŒ‡å®šå‚æ•° !:number
 tar -cvf folder1 folder2 folder.tar
-# tarÃüÁî²ÎÊıË³Ğò´íÎóÖ´ĞĞÊ§°Ü
+# tarå‘½ä»¤å‚æ•°é¡ºåºé”™è¯¯æ‰§è¡Œå¤±è´¥
 tar: failed to open
-# µ÷Õû²ÎÊıË³Ğò tar -cvf folder.tar folder1 folder2
+# è°ƒæ•´å‚æ•°é¡ºåº tar -cvf folder.tar folder1 folder2
 !:0 !:1 !:4 !:2 !:3
 
-# Ê¹ÓÃÉÏÒ»ÌõÃüÁîµÄ×îºóÒ»¸ö²ÎÊı !$
+# ä½¿ç”¨ä¸Šä¸€æ¡å‘½ä»¤çš„æœ€åä¸€ä¸ªå‚æ•° !$
 ls -al /opt/db/mysql
-# lsÃüÁîÄ©Î²²ÎÊı /opt/db/mysql
-# ´ËÃüÁîÖ´ĞĞ file /opt/db/mysql
+# lså‘½ä»¤æœ«å°¾å‚æ•° /opt/db/mysql
+# æ­¤å‘½ä»¤æ‰§è¡Œ file /opt/db/mysql
 file !$
-# Ê¹ÓÃÉÏÒ»ÌõÃüÁîµÄ×îºóÒ»¸ö²ÎÊı²¢Ä¨È¥×îºóÒ»¼¶/µÄ²¿·Ö !$:h
-# ´ËÃüÁîÖ´ĞĞ cd /opt/db
+# ä½¿ç”¨ä¸Šä¸€æ¡å‘½ä»¤çš„æœ€åä¸€ä¸ªå‚æ•°å¹¶æŠ¹å»æœ€åä¸€çº§/çš„éƒ¨åˆ† !$:h
+# æ­¤å‘½ä»¤æ‰§è¡Œ cd /opt/db
 cd !$:h
 
-# Ê¹ÓÃÉÏÒ»ÌõÃüÁîµÄ²ÎÊı·¶Î§ !:number-$
+# ä½¿ç”¨ä¸Šä¸€æ¡å‘½ä»¤çš„å‚æ•°èŒƒå›´ !:number-$
 grep '(ping|pong)' file
-# Ê¹ÓÃÇ°Ò»¸öÃüÁîµÚÒ»ÖÁÄ©Î²²ÎÊıÁĞ grep -n '(ping|pong)' file
-# Èç¹ûµÚÒ»¸ö²ÎÊıÎ»ÖÃ¸ºÊı !:-2-$ ±íÊ¾µ¹ÊıµÚ¶ş¸ö²ÎÊıÖÁÄ©Î²²ÎÊıÁĞ
+# ä½¿ç”¨å‰ä¸€ä¸ªå‘½ä»¤ç¬¬ä¸€è‡³æœ«å°¾å‚æ•°åˆ— grep -n '(ping|pong)' file
+# å¦‚æœç¬¬ä¸€ä¸ªå‚æ•°ä½ç½®è´Ÿæ•° !:-2-$ è¡¨ç¤ºå€’æ•°ç¬¬äºŒä¸ªå‚æ•°è‡³æœ«å°¾å‚æ•°åˆ—
 grep -n !:1-$
 
-# Ê¹ÓÃÖ¸¶¨ÃüÁî¼ÇÂ¼µÄÖ¸¶¨²ÎÊı
-# less µÚ15ÌõÃüÁîÀúÊ·µÚ¶ş¸ö²ÎÊıÖ¸¶¨ÎÄ¼şÃû
+# ä½¿ç”¨æŒ‡å®šå‘½ä»¤è®°å½•çš„æŒ‡å®šå‚æ•°
+# less ç¬¬15æ¡å‘½ä»¤å†å²ç¬¬äºŒä¸ªå‚æ•°æŒ‡å®šæ–‡ä»¶å
 less !15:1
 ```
 
 #### cp
-+ [±¸·İÎÄ¼ş¼°ÎÄ¼ş¼Ğ](https://mp.weixin.qq.com/s/KmKBtEVXuLcM0IWd-FB3cg)
-+ [xclip ¿½±´ÎÄ¼şÄÚÈİµ½¼ôÌù°å](https://mp.weixin.qq.com/s/39yaM37C3O3Rr6QtUFbHpw)
++ [å¤‡ä»½æ–‡ä»¶åŠæ–‡ä»¶å¤¹](https://mp.weixin.qq.com/s/KmKBtEVXuLcM0IWd-FB3cg)
++ [xclip æ‹·è´æ–‡ä»¶å†…å®¹åˆ°å‰ªè´´æ¿](https://mp.weixin.qq.com/s/39yaM37C3O3Rr6QtUFbHpw)
 ```console
-# -r ¿½±´Ä¿Â¼
+# -r æ‹·è´ç›®å½•
 cp -rv /home/king/source ./
 
-# --parents ¿½±´ÎÄ¼ş´øÉÏÍêÕûparent path/folder
-# srcÄ¿Â¼ /root/folder/folder1/folder11 
-# destÄ¿Â¼ /root/folder/folder2/
-# ¿½±´srcµ½dest
+# --parents æ‹·è´æ–‡ä»¶å¸¦ä¸Šå®Œæ•´parent path/folder
+# srcç›®å½• /root/folder/folder1/folder11 
+# destç›®å½• /root/folder/folder2/
+# æ‹·è´srcåˆ°dest
 $ cp -r /root/folder/folder1/folder11 /root/folder/folder2
 $ ls /root/folder/folder2/
 /root/folder/folder2/folder11
 
-# ¿½±´srcµ½dest´ø×ÅÍêÕûÂ·¾¶
+# æ‹·è´srcåˆ°destå¸¦ç€å®Œæ•´è·¯å¾„
 $ cp -r --parents /root/folder/folder1/folder11 /root/folder/folder2
 $ ls /root/folder/folder2/
 /root/folder/folder2/root/folder/folder1/folder11
 
-# ÔÚ/rootÄ¿Â¼ÏÂ´´½¨µ¥¼¶Ä¿Â¼
+# åœ¨/rootç›®å½•ä¸‹åˆ›å»ºå•çº§ç›®å½•
 $ mkdir /root/folder
-# -p, --parents ´´½¨¶à¼¶Ä¿Â¼£¬Èç¹û¸¸¼¶Ä¿Â¼²»´æÔÚÔòÒ»Æğ´´½¨
-# folder,folder1,folder11Ò»´Î´´½¨
+# -p, --parents åˆ›å»ºå¤šçº§ç›®å½•ï¼Œå¦‚æœçˆ¶çº§ç›®å½•ä¸å­˜åœ¨åˆ™ä¸€èµ·åˆ›å»º
+# folder,folder1,folder11ä¸€æ¬¡åˆ›å»º
 $ mkdir -p /root/folder/folder1/folder11
 
 # delete a directory
 $ rm -dfrv /root/folder
 ```
-Ğí¶àÈËÏ°¹ßÊ¹ÓÃÓÒ¼üµ¥»÷²Ëµ¥»ò°´ Ctrl+V Õ³ÌùÎÄ±¾, xclip¿ÉÒÔÒÔÃüÁîĞĞ·½Ê½½«ÄÚÈİ¸´ÖÆµ½ÏµÍ³¼ôÌù°å¡£
+è®¸å¤šäººä¹ æƒ¯ä½¿ç”¨å³é”®å•å‡»èœå•æˆ–æŒ‰ Ctrl+V ç²˜è´´æ–‡æœ¬, xclipå¯ä»¥ä»¥å‘½ä»¤è¡Œæ–¹å¼å°†å†…å®¹å¤åˆ¶åˆ°ç³»ç»Ÿå‰ªè´´æ¿ã€‚
 ```console
-# ¸´ÖÆ logfile.log ÎÄ¼ş×îºó 30 ĞĞ
-# -sel clip Ñ¡Ïî¿ÉÈ·±£ÄÚÈİ¸´ÖÆµ½ÏµÍ³¼ôÌù°å
+# å¤åˆ¶ logfile.log æ–‡ä»¶æœ€å 30 è¡Œ
+# -sel clip é€‰é¡¹å¯ç¡®ä¿å†…å®¹å¤åˆ¶åˆ°ç³»ç»Ÿå‰ªè´´æ¿
 $ tail -n 30 logfile.log | xclip -sel clip
 
-# °ÑÈÕÖ¾ÎÄ¼şÈ«²¿ÄÚÈİ¸´ÖÆµ½¼ôÌù°å
+# æŠŠæ—¥å¿—æ–‡ä»¶å…¨éƒ¨å†…å®¹å¤åˆ¶åˆ°å‰ªè´´æ¿
 $ xclip -sel clip logfile.log
 ```
-ÃüÁîĞĞÉÏÊ¹ÓÃÊúÏß ¡°|¡± °Ñ¶à¸öÃüÁî´®ÆğÀ´,ÊÇÀûÓÃÁËÎŞÃû¹ÜµÀ, mkfifoÃüÁî¿ÉÒÔ´´½¨ÓĞÃû¹ÜµÀ
+å‘½ä»¤è¡Œä¸Šä½¿ç”¨ç«–çº¿ â€œ|â€ æŠŠå¤šä¸ªå‘½ä»¤ä¸²èµ·æ¥,æ˜¯åˆ©ç”¨äº†æ— åç®¡é“, mkfifoå‘½ä»¤å¯ä»¥åˆ›å»ºæœ‰åç®¡é“
 ```console
-# ÔÚtmpÄ¿Â¼ÏÂ´´½¨Ò»¸öjavaµÄ¹ÜµÀ
+# åœ¨tmpç›®å½•ä¸‹åˆ›å»ºä¸€ä¸ªjavaçš„ç®¡é“
 $ mkfifo /tmp/java
-# list ´´½¨µÄ¹ÜµÀ
+# list åˆ›å»ºçš„ç®¡é“
 $ ls -l /tmp
-# °Ñlistµ±Ç°Ä¿Â¼½á¹ûËÍÈë¹ÜµÀ
+# æŠŠlistå½“å‰ç›®å½•ç»“æœé€å…¥ç®¡é“
 $ ls -al > /tmp/java
-# ¶Á³ö¹ÜµÀÄÚÈİ
+# è¯»å‡ºç®¡é“å†…å®¹
 $ head /tmp/java
 ```
 
 #### scp
-- [rsyncÌæ»»scp](https://mp.weixin.qq.com/s/GtgjTknmViI6LxRK5LO9_g)
+- [rsyncæ›¿æ¢scp](https://mp.weixin.qq.com/s/GtgjTknmViI6LxRK5LO9_g)
 ```console
 # remote copy file
 # cp local file to remote folder
@@ -1125,27 +1132,27 @@ scp *.log king@ip:/home/king
 # cp remote file to local folder
 scp king@ip:/home/king/1.log ./king  
 
-# -r Ô¶³Ì¿½±´Ä¿Â¼
-# Èç¹ûÏ£Íûscp²Ù×÷²»ÓÃÃ¿´ÎÊäÈëloginÃÜÂë
-# ¿ÉÒÔÍ¨¹ıssh²¿·ÖÃâÃÜssh-copy-idÉèÖÃ
-# »¹¿ÉÒÔÊ¹ÓÃsshpassĞèÒª¶îÍâ°²×°
+# -r è¿œç¨‹æ‹·è´ç›®å½•
+# å¦‚æœå¸Œæœ›scpæ“ä½œä¸ç”¨æ¯æ¬¡è¾“å…¥loginå¯†ç 
+# å¯ä»¥é€šè¿‡sshéƒ¨åˆ†å…å¯†ssh-copy-idè®¾ç½®
+# è¿˜å¯ä»¥ä½¿ç”¨sshpasséœ€è¦é¢å¤–å®‰è£…
 sshpass -p "password" scp -r user@172.10.1.1:/remote/path /local/path
-# »òÕßÊ¹ÓÃÃÜÂëÎÄ¼ş
+# æˆ–è€…ä½¿ç”¨å¯†ç æ–‡ä»¶
 sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/path
 ```
 
 #### file
-- [¿ìËÙÉ¾³ıº£Á¿ÊıÄ¿ÎÄ¼ş rsync ×î¿ì](https://mp.weixin.qq.com/s/PA5XXqqZKKuwREPeqAtS4Q)  
-  `´´½¨50Íò¸öÎÄ¼ş,ÔÙÓÃ¸÷ÖÖÃüÁîºÍ½Å±¾½øĞĞÉ¾³ı£¬timeÃüÁî¼ÆÊ±`
-- [ELFÎÄ¼şµÄĞÅÏ¢¶ÁÈ¡](https://mp.weixin.qq.com/s/3I7ev0U8EGTHwkSfAOLpHQ)
-- [²»Ê¹ÓÃmvÃüÁîÒÆ¶¯ÎÄ¼ş](https://mp.weixin.qq.com/s/vFmE7j2AzoLCS7nYph-D_w)
+- [å¿«é€Ÿåˆ é™¤æµ·é‡æ•°ç›®æ–‡ä»¶ rsync æœ€å¿«](https://mp.weixin.qq.com/s/PA5XXqqZKKuwREPeqAtS4Q)  
+  `åˆ›å»º50ä¸‡ä¸ªæ–‡ä»¶,å†ç”¨å„ç§å‘½ä»¤å’Œè„šæœ¬è¿›è¡Œåˆ é™¤ï¼Œtimeå‘½ä»¤è®¡æ—¶`
+- [ELFæ–‡ä»¶çš„ä¿¡æ¯è¯»å–](https://mp.weixin.qq.com/s/3I7ev0U8EGTHwkSfAOLpHQ)
+- [ä¸ä½¿ç”¨mvå‘½ä»¤ç§»åŠ¨æ–‡ä»¶](https://mp.weixin.qq.com/s/vFmE7j2AzoLCS7nYph-D_w)
 ```console
-# È·¶¨Ä¬ÈÏ /usr/bin/python ÎÄ¼şÀàĞÍ
-# $(which python)½«whichÃüÁî½á¹û×÷ÎªfileÃüÁî²ÎÊı
+# ç¡®å®šé»˜è®¤ /usr/bin/python æ–‡ä»¶ç±»å‹
+# $(which python)å°†whichå‘½ä»¤ç»“æœä½œä¸ºfileå‘½ä»¤å‚æ•°
 $ file $(which python)
 /usr/bin/python: symbolic link to python2.7
 
-# ²é¿´¶à¸öÎÄ¼şµÄÀàĞÍ,°üÀ¨Ô´ÎÄ¼ş ¿ÉÖ´ĞĞÎÄ¼şºÍÉè±¸ÎÄ¼ş
+# æŸ¥çœ‹å¤šä¸ªæ–‡ä»¶çš„ç±»å‹,åŒ…æ‹¬æºæ–‡ä»¶ å¯æ‰§è¡Œæ–‡ä»¶å’Œè®¾å¤‡æ–‡ä»¶
 $ file file.c $(which file) /dev/{wd0a,hda}
 file.c:   C program text
 file:     ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV),
@@ -1153,15 +1160,15 @@ file:     ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV),
 /dev/wd0a: block special (0/0)
 /dev/hda: block special (3/0)
 
-#-i, --mime °´mimeÎÄ×Örather thanÆÕÍ¨¸ñÊ½Êä³ö£¬Èç'text/plain; charset=us-ascii'¶ø²»ÊÇ'ASCII text'
+#-i, --mime æŒ‰mimeæ–‡å­—rather thanæ™®é€šæ ¼å¼è¾“å‡ºï¼Œå¦‚'text/plain; charset=us-ascii'è€Œä¸æ˜¯'ASCII text'
 $ file -i file.c file /dev/{wd0a,hda}
 file.c:      text/x-c
 file:        application/x-executable
 /dev/hda:    application/x-not-regular-file
 /dev/wd0a:   application/x-not-regular-file
 
-# -s, --special-files È·¶¨block special filesµÄÀàĞÍ
-# ²é¿´¶à¸ö´ÅÅÌÎÄ¼şµÄÀàĞÍ 
+# -s, --special-files ç¡®å®šblock special filesçš„ç±»å‹
+# æŸ¥çœ‹å¤šä¸ªç£ç›˜æ–‡ä»¶çš„ç±»å‹ 
 $ file -s /dev/hda{,1,2,3,4,5,6,7,8,9,10}
 /dev/hda:   x86 boot sector
 /dev/hda1:  Linux/i386 ext2 filesystem
@@ -1175,9 +1182,9 @@ $ file -s /dev/hda{,1,2,3,4,5,6,7,8,9,10}
 /dev/hda9:  empty
 /dev/hda10: empty
 ```
-ÔÚLinuxÖĞ£¬¿ÉÖ´ĞĞÎÄ¼şµÄ¸ñÊ½ÊÇELF¸ñÊ½
+åœ¨Linuxä¸­ï¼Œå¯æ‰§è¡Œæ–‡ä»¶çš„æ ¼å¼æ˜¯ELFæ ¼å¼
 ```console
-# ²é¿´ELFÎÄ¼şĞÅÏ¢
+# æŸ¥çœ‹ELFæ–‡ä»¶ä¿¡æ¯
 $ readelf -h /usr/bin/java
 ELF Header:
   Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00 
@@ -1200,16 +1207,16 @@ ELF Header:
   Number of section headers:         31
   Section header string table index: 30
 
-# ²é¿´ELFÎÄ¼ş¸÷¶Î´óĞ¡
+# æŸ¥çœ‹ELFæ–‡ä»¶å„æ®µå¤§å°
 $ size $(which java)
 text	   data	    bss	    dec	    hex	filename
 1634	    636	     16	   2286	    8ee	/usr/bin/java
 
-# ²é¿´ELFÎÄ¼ş·ûºÅ±í
+# æŸ¥çœ‹ELFæ–‡ä»¶ç¬¦å·è¡¨
 $ nm $(which java)
 nm: /usr/bin/java: no symbols
 
-# ²é¿´ELFÎÄ¼şÁ´½ÓµÄ¶¯Ì¬¿â
+# æŸ¥çœ‹ELFæ–‡ä»¶é“¾æ¥çš„åŠ¨æ€åº“
 $ ldd $(which java)
 linux-vdso.so.1 =>  (0x00007ffc4b741000)
 libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f4ab8c65000)
@@ -1218,25 +1225,25 @@ libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f4ab8a60000)
 libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f4ab8697000)
 /lib64/ld-linux-x86-64.so.2 (0x000055aad9a38000)
 
-# ²éÕÒhello ELFÎÄ¼ş·ûºÅ±íÖĞmainº¯Êı
-# ²é¿´·ûºÅ±íÄÜÖªµÀĞÂ¼ÓµÄº¯Êı»òÕßÈ«¾Ö±äÁ¿ÓĞÃ»ÓĞ±àÒë½øÈ¥
-# Èç¹ûÃ»ÓĞÕÒµ½»òÕßÇ°ÃæÊÇU£¬Ã»ÓĞµØÖ·£¬±íÃ÷ÔÚÕâ¸öelfÎÄ¼şÖĞÃ»ÓĞ¶¨ÒåÕâ¸öº¯Êı
+# æŸ¥æ‰¾hello ELFæ–‡ä»¶ç¬¦å·è¡¨ä¸­mainå‡½æ•°
+# æŸ¥çœ‹ç¬¦å·è¡¨èƒ½çŸ¥é“æ–°åŠ çš„å‡½æ•°æˆ–è€…å…¨å±€å˜é‡æœ‰æ²¡æœ‰ç¼–è¯‘è¿›å»
+# å¦‚æœæ²¡æœ‰æ‰¾åˆ°æˆ–è€…å‰é¢æ˜¯Uï¼Œæ²¡æœ‰åœ°å€ï¼Œè¡¨æ˜åœ¨è¿™ä¸ªelfæ–‡ä»¶ä¸­æ²¡æœ‰å®šä¹‰è¿™ä¸ªå‡½æ•°
 $ nm hello | grep main  
 U __libc_start_main@@GLIBC_2.2.5
 0000000000400526 T main
 
-# ÎÄ¼şÀàĞÍĞÅÏ¢ÓĞnot stripped£¬±íÊ¾ÀïÃæ°üº¬ÁËÒ»Ğ©·ûºÅ±íĞÅÏ¢£¬Òò´ËÎÄ¼ş»áÉÔ´ó
-# È¥µô·ûºÅ±í£¬ELFÎÄ¼ş»á±äĞ¡£¬Ö»ÊÇ¶Ôµ÷ÊÔºÍÎÊÌâ¶¨Î»ÓĞÓ°Ïì
-$ ls -lh hello  # ÊİÉíÇ°
+# æ–‡ä»¶ç±»å‹ä¿¡æ¯æœ‰not strippedï¼Œè¡¨ç¤ºé‡Œé¢åŒ…å«äº†ä¸€äº›ç¬¦å·è¡¨ä¿¡æ¯ï¼Œå› æ­¤æ–‡ä»¶ä¼šç¨å¤§
+# å»æ‰ç¬¦å·è¡¨ï¼ŒELFæ–‡ä»¶ä¼šå˜å°ï¼Œåªæ˜¯å¯¹è°ƒè¯•å’Œé—®é¢˜å®šä½æœ‰å½±å“
+$ ls -lh hello  # ç˜¦èº«å‰
 -rwxrwxr-x 1 root root 8.4K
 $ strip hello
-$ ls -lh hello #ÊİÉíºó
+$ ls -lh hello #ç˜¦èº«å
 -rwxrwxr-x 1 root root 6.2K
 ```
 
 #### checksum
-+ [¹şÏ£(É¢ÁĞ)º¯Êı](https://mp.weixin.qq.com/s/DeDujJlD-VmYsF2sWQ_sHQ)
-+ [cksum/md5sum/diff/fslint/rdfind Ê¶±ğÏàÍ¬ÎÄ¼ş](https://mp.weixin.qq.com/s/G1nyIix-Q46lRvW1-l26uQ)
++ [å“ˆå¸Œ(æ•£åˆ—)å‡½æ•°](https://mp.weixin.qq.com/s/DeDujJlD-VmYsF2sWQ_sHQ)
++ [cksum/md5sum/diff/fslint/rdfind è¯†åˆ«ç›¸åŒæ–‡ä»¶](https://mp.weixin.qq.com/s/G1nyIix-Q46lRvW1-l26uQ)
 ```console
 # calculate file sum using CRC32
 $ cksum pom.xml 
@@ -1261,21 +1268,21 @@ bGludXguY29t
 $ echo -n bGludXguY29t | base64 -d  
 linux.com
 
-# ±ÜÃâecho»ØÏÔ»»ĞĞ·û
+# é¿å…echoå›æ˜¾æ¢è¡Œç¬¦
 # -n do not output the trailing newline
 root@dev:~# echo -n 'linux.com'
 linux.comroot@dev:~#
 
-# Ä¬ÈÏ»á½«»»ĞĞ·û»ØÏÔ
+# é»˜è®¤ä¼šå°†æ¢è¡Œç¬¦å›æ˜¾
 root@dev:~# echo  'linux.com'
 linux.com
 root@dev:~#
 ```
 
 #### stat
-+ [statÃüÁî´´½¨ÎÄ¼şÁĞ±í](https://mp.weixin.qq.com/s/0gIeeVbmr3CuQF5IgNUVrg)
++ [statå‘½ä»¤åˆ›å»ºæ–‡ä»¶åˆ—è¡¨](https://mp.weixin.qq.com/s/0gIeeVbmr3CuQF5IgNUVrg)
 ```console
-# ¼ì²éÎÄ¼ş×´Ì¬, ÀàËÆ ls -lh or du -h ./
+# æ£€æŸ¥æ–‡ä»¶çŠ¶æ€, ç±»ä¼¼ ls -lh or du -h ./
 $ stat pom.xml 
 File: 'pom.xml'
 Size: 17500           Blocks: 40         IO Block: 4096   regular file
@@ -1292,16 +1299,16 @@ king:users
 ```
 
 #### search txt
-- [grep/sed/awk¸ßĞ§ÎÄ¼ş´¦Àí](https://mp.weixin.qq.com/s/jNumvmRrdShq-fYvMiWvyg)
+- [grep/sed/awké«˜æ•ˆæ–‡ä»¶å¤„ç†](https://mp.weixin.qq.com/s/jNumvmRrdShq-fYvMiWvyg)
 ```console
-# ÔÚsrcÄ¿Â¼¼°Æä×ÓÄ¿Â¼ÖĞËÑÑ°¹Ø¼ü×Ö DB_VERSION_STRING
-# -w matchÕû¸ö´Ê
+# åœ¨srcç›®å½•åŠå…¶å­ç›®å½•ä¸­æœå¯»å…³é”®å­— DB_VERSION_STRING
+# -w matchæ•´ä¸ªè¯
 # -n show line number
 # -r recursively search
 # --include="*.h" only search *.h files
 grep -wnr --include="*.h" DB_VERSION_STRING ./src  
 
-# --exclude=\*.{jar,class} ËÑË÷ÄÚÈİºöÂÔ*.jarºÍ*.classÎÄ¼ş
+# --exclude=\*.{jar,class} æœç´¢å†…å®¹å¿½ç•¥*.jarå’Œ*.classæ–‡ä»¶
 grep -nr "VersionMBean" --exclude=\*.{jar,class} ~/src
 
 # [Ee]xception search string matching 'Exception' or 'exception'
@@ -1312,85 +1319,85 @@ grep -n -B5 -A1 [Ee]xception 1.log
 # -i search case insensitive
 grep -i error 1.log  
 
-# -c ËÑË÷'error'²¢Í³¼ÆÊıÁ¿
+# -c æœç´¢'error'å¹¶ç»Ÿè®¡æ•°é‡
 grep -c error 1.log  
 
-# -H, --with-filename Ã¿Ò»ÌõÆ¥Åä¼ÇÂ¼¶¼ÏÔÊ¾³ö¶ÔÓ¦ÎÄ¼şÃû,Ä¬ÈÏµÄÃüÁîÑ¡Ïî
-# -h, --no-filename Æ¥Åä¼ÇÂ¼¶¼²»ÏÔÊ¾¶ÔÓ¦ÎÄ¼şÃû
-# ²éÕÒÏà¹ØÈÕÖ¾¼ÇÂ¼²¢°´ÊÀ½çÅÅĞò
+# -H, --with-filename æ¯ä¸€æ¡åŒ¹é…è®°å½•éƒ½æ˜¾ç¤ºå‡ºå¯¹åº”æ–‡ä»¶å,é»˜è®¤çš„å‘½ä»¤é€‰é¡¹
+# -h, --no-filename åŒ¹é…è®°å½•éƒ½ä¸æ˜¾ç¤ºå¯¹åº”æ–‡ä»¶å
+# æŸ¥æ‰¾ç›¸å…³æ—¥å¿—è®°å½•å¹¶æŒ‰ä¸–ç•Œæ’åº
 grep -h 'BaseApp' *log | sort > BaseApp.log
 
-# µ±Ç°Ä¿Â¼ÏÂËùÓĞÎÄ¼şÖĞËÑÑ° 'show'
+# å½“å‰ç›®å½•ä¸‹æ‰€æœ‰æ–‡ä»¶ä¸­æœå¯» 'show'
 $ grep show *
 check.sh:#send "show \n"
-grep: legacy: Is a directory # ÌáÊ¾legacyÊÇ¸ö²»¿É¶ÁµÄÄ¿Â¼ÎÄ¼ş
-# -s --no-messages ²»ÌáÊ¾²»´æÔÚÎÄ¼ş»ò²»¿É¶ÁÎÄ¼şµÄ´íÎóĞÅÏ¢
+grep: legacy: Is a directory # æç¤ºlegacyæ˜¯ä¸ªä¸å¯è¯»çš„ç›®å½•æ–‡ä»¶
+# -s --no-messages ä¸æç¤ºä¸å­˜åœ¨æ–‡ä»¶æˆ–ä¸å¯è¯»æ–‡ä»¶çš„é”™è¯¯ä¿¡æ¯
 $ grep -s show *
 check.sh:#send "show \n"
 
-# -E Æô¶¯ËÑË÷¹Ø¼ü×ÖµÄextended regular expressionÄ£Ê½
-# ÕıÔò±í´ïÊ½pattern±ØĞëÓÃµ¥ÒıºÅ»òË«ÒıºÅ±ê¼Ç£¬·ñÔòÎŞĞ§
+# -E å¯åŠ¨æœç´¢å…³é”®å­—çš„extended regular expressionæ¨¡å¼
+# æ­£åˆ™è¡¨è¾¾å¼patternå¿…é¡»ç”¨å•å¼•å·æˆ–åŒå¼•å·æ ‡è®°ï¼Œå¦åˆ™æ— æ•ˆ
 $ grep -sE 'de.*' *
 check.sh:set host [lindex $argv 0]; 
 open.sh:set host [lindex $argv 0];
 open.sh:send ": debug os-shell\n"
 
-# -v ËÑË÷½öÏÔÊ¾³öËùÓĞÎ´Æ¥ÅäµÄ½á¹û
-# ³öÏÖ'show'¹Ø¼ü×ÖµÄ½á¹ûĞĞ¶¼²»ÏÔÊ¾ 
+# -v æœç´¢ä»…æ˜¾ç¤ºå‡ºæ‰€æœ‰æœªåŒ¹é…çš„ç»“æœ
+# å‡ºç°'show'å…³é”®å­—çš„ç»“æœè¡Œéƒ½ä¸æ˜¾ç¤º 
 $ grep -v show *
 check.sh:#send "other \n"
-# ÏÔÊ¾ËùÓĞ²»°üº¬¹Ø¼ü×Ö'www' or 'ftp'µÄ½á¹û
+# æ˜¾ç¤ºæ‰€æœ‰ä¸åŒ…å«å…³é”®å­—'www' or 'ftp'çš„ç»“æœ
 grep -vE "(www|ftp)"
 
-# ²éÕÒÊ±¼ä´Á´óÓÚÄ³¸öÊ±¼äµÄÈÕÖ¾
+# æŸ¥æ‰¾æ—¶é—´æˆ³å¤§äºæŸä¸ªæ—¶é—´çš„æ—¥å¿—
 grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:40"'
-# ²éÕÒÄ³¸öÊ±¼ä¶ÎµÄÈÕÖ¾
+# æŸ¥æ‰¾æŸä¸ªæ—¶é—´æ®µçš„æ—¥å¿—
 grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" '
-# ²éÕÒÄ³¸öÊ±¼ä¶ÎµÄÈÕÖ¾²¢ÇÒ¹ıÂËÃû³ÆÎªkeyµÄÈÕÖ¾
+# æŸ¥æ‰¾æŸä¸ªæ—¶é—´æ®µçš„æ—¥å¿—å¹¶ä¸”è¿‡æ»¤åç§°ä¸ºkeyçš„æ—¥å¿—
 grep '#xtrace-' /var/log/api.log | awk '$0 > "2019-09-24T02:19:35" && $0 < "2019-09-24T02:19:40" && $4!="key" '
 
-# ²éÕÒÑ¹ËõÎÄ¼şÖĞµÄÆ¥ÅäÏî
-# ²é¿´ClassUtils.classÎÄ¼ş´æÔÚÓÚÄÄ¸öjarÎÄ¼şÖĞ
+# æŸ¥æ‰¾å‹ç¼©æ–‡ä»¶ä¸­çš„åŒ¹é…é¡¹
+# æŸ¥çœ‹ClassUtils.classæ–‡ä»¶å­˜åœ¨äºå“ªä¸ªjaræ–‡ä»¶ä¸­
 $ grep -ir "ClassUtils.class" libs/
 grep: libs/apache/commons-compress-1.8.1.jar: binary file matches
-# -l, --files-with-matches Êä³öÆ¥Åäµ½²éÕÒÏîµÄÎÄ¼ş
-# -L, --files-without-match Êä³öÆ¥Åä²»µ½²éÕÒÏîµÄÎÄ¼ş
+# -l, --files-with-matches è¾“å‡ºåŒ¹é…åˆ°æŸ¥æ‰¾é¡¹çš„æ–‡ä»¶
+# -L, --files-without-match è¾“å‡ºåŒ¹é…ä¸åˆ°æŸ¥æ‰¾é¡¹çš„æ–‡ä»¶
 $ grep -irl "ClassUtils.class" libs/
 libs/apache/commons-compress-1.8.1.jar
 ```
 ##### grep regular symbol
   Symbol      | Result
 ------------- | -------------
-   .          |  Æ¥ÅäÈÎÒâ×Ö·û     
-   &#42;      |  Ç°Ãæ×Ö·û³öÏÖ0´Î»ò¶à´Î
-   &#43;      |  Ç°Ãæ×Ö·û³öÏÖ1´Î»ò¶à´Î
-  []          |  Æ¥ÅäÖĞÀ¨ºÅÖĞÈÎºÎ×Ö·û
-  ()          |  ×Ó±í´ïÊ½
-  &#166;      |  ORÔËËã·û; (www&#166;ftp)Æ¥Åä¡°www¡±»ò¡°ftp¡±
-  ^           |  Æ¥ÅäÒ»ĞĞ¿ªÊ¼µÄ¿Õ°××Ö·û´®
-  $           |  Æ¥ÅäÒ»ĞĞ½áÎ²µÄ¿Õ°××Ö·û´®
-  &#92;       |  ×ªÒå·û ÓÉÓÚ'.'Æ¥ÅäÈÎÒâ×Ö·û£¬µ±±¾ÉíÆ¥ÅäÊ±Ğè×ªÒå'&#92;.'
+   .          |  åŒ¹é…ä»»æ„å­—ç¬¦     
+   &#42;      |  å‰é¢å­—ç¬¦å‡ºç°0æ¬¡æˆ–å¤šæ¬¡
+   &#43;      |  å‰é¢å­—ç¬¦å‡ºç°1æ¬¡æˆ–å¤šæ¬¡
+  []          |  åŒ¹é…ä¸­æ‹¬å·ä¸­ä»»ä½•å­—ç¬¦
+  ()          |  å­è¡¨è¾¾å¼
+  &#166;      |  ORè¿ç®—ç¬¦; (www&#166;ftp)åŒ¹é…â€œwwwâ€æˆ–â€œftpâ€
+  ^           |  åŒ¹é…ä¸€è¡Œå¼€å§‹çš„ç©ºç™½å­—ç¬¦ä¸²
+  $           |  åŒ¹é…ä¸€è¡Œç»“å°¾çš„ç©ºç™½å­—ç¬¦ä¸²
+  &#92;       |  è½¬ä¹‰ç¬¦ ç”±äº'.'åŒ¹é…ä»»æ„å­—ç¬¦ï¼Œå½“æœ¬èº«åŒ¹é…æ—¶éœ€è½¬ä¹‰'&#92;.'
 
 #### search gz
 ```console
-# ËÑË÷ *.gzÑ¹ËõÎÄ¼şÖĞµÄ¹Ø¼ü×Ö
+# æœç´¢ *.gzå‹ç¼©æ–‡ä»¶ä¸­çš„å…³é”®å­—
 $ zgrep -in "#bare" *.gz           
 
 $ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 ```
 
 #### zcat
-+ [split²ğ·ÖÓëcatºÏ²¢ÎÄ¼ş](https://mp.weixin.qq.com/s/TeEfxB14Zg0tvv2HScp3Ng)  
-+ [split´óÎÄ¼ş](https://mp.weixin.qq.com/s/_Yin-MQvYxNDcID6JKUpGQ)
++ [splitæ‹†åˆ†ä¸catåˆå¹¶æ–‡ä»¶](https://mp.weixin.qq.com/s/TeEfxB14Zg0tvv2HScp3Ng)  
++ [splitå¤§æ–‡ä»¶](https://mp.weixin.qq.com/s/_Yin-MQvYxNDcID6JKUpGQ)
 ```console
-# zcatÓÃÀ´¶ÁÈ¡Ñ¹ËõÎÄ¼şÄÚÈİ
+# zcatç”¨æ¥è¯»å–å‹ç¼©æ–‡ä»¶å†…å®¹
 zcat syslog.1.gz | less
 ```
-tac¾ÍÊÇcatµ¹ĞòÃüÁî£¬¿ÉÒÔ´ÓºóÍùÇ°¶ÁÈ¡ÎÄ¼şÄÚÈİ
+tacå°±æ˜¯catå€’åºå‘½ä»¤ï¼Œå¯ä»¥ä»åå¾€å‰è¯»å–æ–‡ä»¶å†…å®¹
 ```console
 tac pom.xml | grep 'schema'
 ```
-nlÃüÁîºÍcat ÃüÁîºÜÏñ£¬Ö»²»¹ıËü»á´òÉÏĞĞºÅ
+nlå‘½ä»¤å’Œcat å‘½ä»¤å¾ˆåƒï¼Œåªä¸è¿‡å®ƒä¼šæ‰“ä¸Šè¡Œå·
 ```console
 $ nl stdio.h | head -n 3
 1 /* Define ISO C stdio on top of C++ iostreams.
@@ -1400,37 +1407,37 @@ $ nl stdio.h | head -n 3
 
 #### Crontab
 + [Cron Expression Generator & Explainer](https://www.freeformatter.com/cron-expression-generator-quartz.html)
-+ [atÃüÁî°²ÅÅÈÎÎñ](https://mp.weixin.qq.com/s/eknQ16aKiDWSpVGvREPL2Q)
++ [atå‘½ä»¤å®‰æ’ä»»åŠ¡](https://mp.weixin.qq.com/s/eknQ16aKiDWSpVGvREPL2Q)
 ```console
-# ÁĞ³öµ±Ç°ÔËĞĞµÄ cron task
+# åˆ—å‡ºå½“å‰è¿è¡Œçš„ cron task
 $ crontab -l 
 
-# É¾³ıµ±Ç°ÔËĞĞµÄ cron task
+# åˆ é™¤å½“å‰è¿è¡Œçš„ cron task
 $ crontab -r  
 
-# ±à¼­ cron task ²åÈëÒ»Ìõ curl task£¬ÈÎÎñ°´1ÃëÆµÂÊÖÜÆÚÖ´ĞĞ
+# ç¼–è¾‘ cron task æ’å…¥ä¸€æ¡ curl taskï¼Œä»»åŠ¡æŒ‰1ç§’é¢‘ç‡å‘¨æœŸæ‰§è¡Œ
 $ crontab -e  
 result:
 min hour day month weekday command
 */1   *    *    *    * echo `curl -i -k http://blog.sina.com.cn/s/blog_46d0362d0102vmuc.html` > /dev/pts/0
 
-# ±à¼­Ö´ĞĞ cron taskÎÄ¼ş
+# ç¼–è¾‘æ‰§è¡Œ cron taskæ–‡ä»¶
 $ vi cronTask 
 $ crontab ./cronTask
 ```
 
 #### Curl
 + [Basic Manual](http://conqueringthecommandline.com/book/curl)  
-+ [CurlÑ§Ï°Ö¸ÄÏ](https://mp.weixin.qq.com/s/5Hlp4Y82m2ckVlytA-x-kw)
-+ [21¸öcurlÃüÁî](https://mp.weixin.qq.com/s/Rh9jnZ57jWHkLBm2f80xjw)
-+ [curlÃüÁîĞĞ·ÃÎÊ»¥ÁªÍø](https://mp.weixin.qq.com/s/JImf-lqUMP_Qe27oCWVtwg)
-+ [HTTPieÌæ»»curl/wget](https://mp.weixin.qq.com/s/SuZSOOWTiM6a1LZj1d2udg)
++ [Curlå­¦ä¹ æŒ‡å—](https://mp.weixin.qq.com/s/5Hlp4Y82m2ckVlytA-x-kw)
++ [21ä¸ªcurlå‘½ä»¤](https://mp.weixin.qq.com/s/Rh9jnZ57jWHkLBm2f80xjw)
++ [curlå‘½ä»¤è¡Œè®¿é—®äº’è”ç½‘](https://mp.weixin.qq.com/s/JImf-lqUMP_Qe27oCWVtwg)
++ [HTTPieæ›¿æ¢curl/wget](https://mp.weixin.qq.com/s/SuZSOOWTiM6a1LZj1d2udg)
 ```console
-# -i, --include   ÔÚ·µ»Ø½á¹ûÖĞ Include protocol headers (H/F)
-# -k, --insecure  ÔÊĞíÎŞÖ¤ÊéÁ¬½Óµ½ SSL sites (H)
+# -i, --include   åœ¨è¿”å›ç»“æœä¸­ Include protocol headers (H/F)
+# -k, --insecure  å…è®¸æ— è¯ä¹¦è¿æ¥åˆ° SSL sites (H)
 # -d, --data      HTTP POST data (H)
 # --data-raw      HTTP POST data, '@' allowed (H)
-# (H) ±íÊ¾ÊÊÓÃÓÚ HTTP/HTTPS ³¡¾°, (F) ±íÊ¾ÊÊÓÃ FTP ³¡¾°
+# (H) è¡¨ç¤ºé€‚ç”¨äº HTTP/HTTPS åœºæ™¯, (F) è¡¨ç¤ºé€‚ç”¨ FTP åœºæ™¯
 $ curl -i -k -X POST https://10.162.122.147/ws.v1/login \
             -H "Content-Type: application/x-www-form-urlencoded" \
             -d 'username=admin&password=Defaultca$hc0w'
@@ -1443,26 +1450,26 @@ Date: Fri, 10 Jul 2015 08:26:02 GMT
 Successful Authentication.
 You successfully authenticated.  Use the cookie in this reply in future requests.    
 
-# -u username ½öÖ¸¶¨username£¬Ö´ĞĞºóconsole»áÌáÊ¾ÊäÈëpassword  
-# -u username:password ÓÃÃ÷ÎÄ·½Ê½Ö¸¶¨password
-# ! Èç¹ûpasswordÖĞÓĞÌØÊâ×Ö·ûÈç admin:pwd!23£¬ÓÉÓÚ'!'»á±»shell½âÊÍ£¬ËùÒÔcurlÃüÁî»á±»ÖĞ¶Ï
-# ÕâÖÖÇé¿öÖ»ÄÜÓÃconsoleÊäÈëpassword£¬»òÕß½«credentialsÀ¨½øµ¥Ë«ÒıºÅÖĞ±ÜÃâshell½âÊÍ£¬Èç'admin:default!23'       
+# -u username ä»…æŒ‡å®šusernameï¼Œæ‰§è¡Œåconsoleä¼šæç¤ºè¾“å…¥password  
+# -u username:password ç”¨æ˜æ–‡æ–¹å¼æŒ‡å®špassword
+# ! å¦‚æœpasswordä¸­æœ‰ç‰¹æ®Šå­—ç¬¦å¦‚ admin:pwd!23ï¼Œç”±äº'!'ä¼šè¢«shellè§£é‡Šï¼Œæ‰€ä»¥curlå‘½ä»¤ä¼šè¢«ä¸­æ–­
+# è¿™ç§æƒ…å†µåªèƒ½ç”¨consoleè¾“å…¥passwordï¼Œæˆ–è€…å°†credentialsæ‹¬è¿›å•åŒå¼•å·ä¸­é¿å…shellè§£é‡Šï¼Œå¦‚'admin:default!23'       
 $ curl -i -k -u 'admin:default!23' https://192.168.111.143/api/2.0/vdn/controller \
             -H "Content-Type: application/json" 
 
-# --cookie Ö¸¶¨¿Í»§¶Ë cookie
+# --cookie æŒ‡å®šå®¢æˆ·ç«¯ cookie
 $ curl -i -k --cookie "nvp_sessionid=ca02ae05899066fa6a8bd3be8165062e" \
             https://10.162.122.147/ws.v1/control-cluster/node?fields=* \
             -H "Content-Type: application/json"
 
-# Èç¹ûurlÖĞ´æÔÚ'&'×Ö·û bash»áµ±³ÉlinuxºóÌ¨ÔËĞĞÃüÁî½âÊÍ£¬Òò´ËĞèÒª´¦ÀíÒ»ÏÂ
-# ±ÈÈç api/v1/jobs/instances?jobId=827&page=1 Ö´ĞĞ»áÊ§°Ü
-# -G, --get  ½«-dÖ¸¶¨data²ÎÊı·Åµ½urlÖĞ£¬×÷Îª²ÎÊı
+# å¦‚æœurlä¸­å­˜åœ¨'&'å­—ç¬¦ bashä¼šå½“æˆlinuxåå°è¿è¡Œå‘½ä»¤è§£é‡Šï¼Œå› æ­¤éœ€è¦å¤„ç†ä¸€ä¸‹
+# æ¯”å¦‚ api/v1/jobs/instances?jobId=827&page=1 æ‰§è¡Œä¼šå¤±è´¥
+# -G, --get  å°†-dæŒ‡å®šdataå‚æ•°æ”¾åˆ°urlä¸­ï¼Œä½œä¸ºå‚æ•°
 $ curl -k -H "Accept: application/json" -G http://127.0.0.1:8080/api/v1/jobs/instances -d jobId=827 -d page=1
 
-# »òÕßÓÃË«ÒıºÅ°ÑÕû¸öURL°üº¬Îª×Ö·û´®£¬±ÜÃâ '&' ±»shell×÷ÃüÁî½âÊÍ
+# æˆ–è€…ç”¨åŒå¼•å·æŠŠæ•´ä¸ªURLåŒ…å«ä¸ºå­—ç¬¦ä¸²ï¼Œé¿å… '&' è¢«shellä½œå‘½ä»¤è§£é‡Š
 $ curl -k -H "Accept: application/json" "http://127.0.0.1:8080/api/v1/jobs/instances?jobId=827&page=1"
-# Èç¹ûÏ£Íû²ÎÊı URL encoded£¬¿ÉÒÔÊ¹ÓÃ--data-urlencode  %20Îª¿Õ¸ñ
+# å¦‚æœå¸Œæœ›å‚æ•° URL encodedï¼Œå¯ä»¥ä½¿ç”¨--data-urlencode  %20ä¸ºç©ºæ ¼
 $ curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
 > GET /data?msg=hello%20world&msg2=hello%20world2 HTTP/1.1
 > User-Agent: curl/7.19.7 (x86_64-redhat-linux-gnu)
@@ -1473,14 +1480,14 @@ $ curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --
 # -S, --show-error    Show error
 # -F --form CONTENT  Specify HTTP multipart POST data (H)
 # --form-string STRING  Specify HTTP multipart POST data (H)
-# Ìá½»±íµ¥ĞÍ²ÎÊı ·¢Æğ HTTP GET
+# æäº¤è¡¨å•å‹å‚æ•° å‘èµ· HTTP GET
 $ curl -s --form project="toyboxman/griffin" --form token="Gq7XIfGqmUJcDrC7XVr4vw" \
 https://scan.coverity.com/api/upload_permitted
 
 Response:
 {"upload_permitted":true}
 
-# Ìá½»¶àĞĞjson data
+# æäº¤å¤šè¡Œjson data
 $ curl -i -k -u admin:admin -X PUT https://127.0.0.1/api/v1/jobs/09d3a97b-5ecb-4d78-b85a-4689d7bd95db \
 -H "Content-Type: application/json" \
 -d @- <<EOF
@@ -1490,20 +1497,20 @@ $ curl -i -k -u admin:admin -X PUT https://127.0.0.1/api/v1/jobs/09d3a97b-5ecb-4
 }
 EOF
 
-# »ñÈ¡HTTPÏûÏ¢Í·
+# è·å–HTTPæ¶ˆæ¯å¤´
 $ curl --head "https://example.com"
 
-# »ñÈ¡Ğ­ÉÌ¹ı³ÌÖĞ·¢Éú´íÎó
+# è·å–åå•†è¿‡ç¨‹ä¸­å‘ç”Ÿé”™è¯¯
 $ curl --head --show-error "http://opensource.ga"
 
-# Õ¹¿ª¶ÌÍøÖ·
+# å±•å¼€çŸ­ç½‘å€
 $ curl --head --location "https://bit.ly/2yDyS4T"
 ```
 
 ##### download
-+[wgetÃüÁîµÄ¼¼ÇÉ](https://mp.weixin.qq.com/s/ceQkJAZdbhYE9hz9KBun1A)
++[wgetå‘½ä»¤çš„æŠ€å·§](https://mp.weixin.qq.com/s/ceQkJAZdbhYE9hz9KBun1A)
 
-Í¨¹ıwget/curlÃüÁîĞĞ,¿ÉÒÔÖ¸¶¨URLÏÂÔØÎÄ¼ş
+é€šè¿‡wget/curlå‘½ä»¤è¡Œ,å¯ä»¥æŒ‡å®šURLä¸‹è½½æ–‡ä»¶
 ```console
 # wget download jdk package w/ header
 # -c / --continue  Continue getting a partially-downloaded file
@@ -1521,42 +1528,42 @@ wget -c --no-cookies \
 curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
 http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz
 ```
-Èç¹ûÏÂÔØÓöµ½Ê§°ÜÎÊÌâ£¬¿ÉÒÔÕâÑù±ÜÃâ   
-1. urlÖĞ´æÔÚÌØÊâ×Ö·û`&`£¬bashÖ´ĞĞ»á½Ø¶Ï¡£ĞèÒª¸øurl¼ÓÉÏÒıºÅ`" "`
-2. Èç¹ûÄ¿±êÎÄ¼şÃûÌ«³¤³¬¹ıÏµÍ³¶¨Òå³¤¶È£¬±£´æÊ§°Ü¡£ĞèÒª -O Éè¶¨±£´æÎÄ¼şÃû
-3. Èç¹ûwget»òcurlÇëÇó×ÊÔ´Ê±·µ»Ø403£¬ÕâÊÇ·şÎñÆ÷ÎªÁË·ÀÖ¹ÅÀ³æµÈÏûºÄ×ÊÔ´£¬¸ù¾İÇëÇóÍ·½øĞĞÁËÑ¡ÔñĞÔÆÁ±Î¡£ĞèÒª -U --user-agent ½øĞĞÎ±×°, [»ñÈ¡User-Agent](https://blog.csdn.net/BobYuan888/article/details/88949296)
+å¦‚æœä¸‹è½½é‡åˆ°å¤±è´¥é—®é¢˜ï¼Œå¯ä»¥è¿™æ ·é¿å…   
+1. urlä¸­å­˜åœ¨ç‰¹æ®Šå­—ç¬¦`&`ï¼Œbashæ‰§è¡Œä¼šæˆªæ–­ã€‚éœ€è¦ç»™urlåŠ ä¸Šå¼•å·`" "`
+2. å¦‚æœç›®æ ‡æ–‡ä»¶åå¤ªé•¿è¶…è¿‡ç³»ç»Ÿå®šä¹‰é•¿åº¦ï¼Œä¿å­˜å¤±è´¥ã€‚éœ€è¦ -O è®¾å®šä¿å­˜æ–‡ä»¶å
+3. å¦‚æœwgetæˆ–curlè¯·æ±‚èµ„æºæ—¶è¿”å›403ï¼Œè¿™æ˜¯æœåŠ¡å™¨ä¸ºäº†é˜²æ­¢çˆ¬è™«ç­‰æ¶ˆè€—èµ„æºï¼Œæ ¹æ®è¯·æ±‚å¤´è¿›è¡Œäº†é€‰æ‹©æ€§å±è”½ã€‚éœ€è¦ -U --user-agent è¿›è¡Œä¼ªè£…, [è·å–User-Agent](https://blog.csdn.net/BobYuan888/article/details/88949296)
 ```console
-# ÏÂÔØ¸´ÔÓURLµÄÎÄ¼ş
+# ä¸‹è½½å¤æ‚URLçš„æ–‡ä»¶
 wget "https://github-production-release-asset-2e65be.s3.amazonaws.com/20773773/90548080-07ee-11eb-8030-9bcd049e677d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201014T091122Z&X-Amz-Expires=300&X-Amz-Signature=ffcc09e7de8c55c026366fc9585f5b648dc5d465f2b59dab59d37659fa32503d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=20773773&response-content-disposition=attachment%3B%20filename%3Dbazel-3.6.0-linux-x86_64&response-content-type=application%2Foctet-stream" \
 -U="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" \
 -O bazel.gz  
 ```
-Èç¹ûÏ£ÍûÏÂÔØÄ¿Â¼£¬¿ÉÒÔÖ¸¶¨Ò»Ğ©²ÎÊı
+å¦‚æœå¸Œæœ›ä¸‹è½½ç›®å½•ï¼Œå¯ä»¥æŒ‡å®šä¸€äº›å‚æ•°
 ```console
 wget -r http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
-# ÏÂÔØµ½±¾Ä¿Â¼½á¹¹ÈçÏÂ£¬Ã¿Ò»¼¶Ä¿Â¼¶¼°üº¬ºÍ·şÎñÆ÷¶ËÒ»ÑùÄÚÈİ
+# ä¸‹è½½åˆ°æœ¬ç›®å½•ç»“æ„å¦‚ä¸‹ï¼Œæ¯ä¸€çº§ç›®å½•éƒ½åŒ…å«å’ŒæœåŠ¡å™¨ç«¯ä¸€æ ·å†…å®¹
 example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
 
 wget -r -np -nH http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
-# ÏÂÔØµ½±¾Ä¿Â¼½á¹¹Ã»ÓĞhostÒ»¼¶£¬³ıÁË11¼¶Ä¿Â¼£¬ÆäÓàÃ¿Ò»¼¶Ä¿Â¼¶¼²»°üº¬ÏÂÔØÎÄ¼ş
+# ä¸‹è½½åˆ°æœ¬ç›®å½•ç»“æ„æ²¡æœ‰hostä¸€çº§ï¼Œé™¤äº†11çº§ç›®å½•ï¼Œå…¶ä½™æ¯ä¸€çº§ç›®å½•éƒ½ä¸åŒ…å«ä¸‹è½½æ–‡ä»¶
 1/2/3/4/5/6/7/8/9/10/11/
 
-# -r/--recursive ÏÂÔØÖ¸¶¨Ä¿Â¼ºÍÆäËùÓĞÏÂ¼¶Ç¶Ì×Ä¿Â¼ Ä¬ÈÏÄ¿Â¼Éî¶ÈÊÇ5
-# -np/--no-parent URLÖ¸¶¨ÏÂÔØÄ¿Â¼µÄËùÓĞÉÏ¼¶Ä¿Â¼ÖĞÎÄ¼ş¾ù²»ÏÂÔØ
-# -nH/--no-host-directories ÏÂÔØµ½±¾µØÄ¿Â¼½á¹¹ÖĞ²»°üÀ¨URLÖĞµÄhostname 
-# -R/--reject Ö¸¶¨Ä³Ğ©ÎÄ¼ş²»ÓÃÏÂÔØ
-# --cut-dirs ²Ã¼ôÏÂÔØµ½±¾µØÄ¿Â¼µÄ²ã¼¶
+# -r/--recursive ä¸‹è½½æŒ‡å®šç›®å½•å’Œå…¶æ‰€æœ‰ä¸‹çº§åµŒå¥—ç›®å½• é»˜è®¤ç›®å½•æ·±åº¦æ˜¯5
+# -np/--no-parent URLæŒ‡å®šä¸‹è½½ç›®å½•çš„æ‰€æœ‰ä¸Šçº§ç›®å½•ä¸­æ–‡ä»¶å‡ä¸ä¸‹è½½
+# -nH/--no-host-directories ä¸‹è½½åˆ°æœ¬åœ°ç›®å½•ç»“æ„ä¸­ä¸åŒ…æ‹¬URLä¸­çš„hostname 
+# -R/--reject æŒ‡å®šæŸäº›æ–‡ä»¶ä¸ç”¨ä¸‹è½½
+# --cut-dirs è£å‰ªä¸‹è½½åˆ°æœ¬åœ°ç›®å½•çš„å±‚çº§
 wget -r -np -nH --cut-dirs=10 --reject="index.html*" http://example.com:8080/1/2/3/4/5/6/7/8/9/10/11/
-# ²Ã¼ôµô10¼¶Ä¿Â¼ºó£¬½öÊ£µÚ11¼¶Ä¿Â¼£¬²¢¹ıÂËµôËùÓĞ index.html* ÎÄ¼ş
+# è£å‰ªæ‰10çº§ç›®å½•åï¼Œä»…å‰©ç¬¬11çº§ç›®å½•ï¼Œå¹¶è¿‡æ»¤æ‰æ‰€æœ‰ index.html* æ–‡ä»¶
 11/
 
-# -l depth/--level=depth Ö¸¶¨ÏÂÔØ×î´óÄ¿Â¼²ã¼¶
-# -nd/--no-directories µİ¹éÏÂÔØÊ±²»´´½¨²ã¼¶Ä¿Â¼
-# -A acclist/--accept acclist Ö¸¶¨ÏÂÔØÎÄ¼şÁĞ±í
+# -l depth/--level=depth æŒ‡å®šä¸‹è½½æœ€å¤§ç›®å½•å±‚çº§
+# -nd/--no-directories é€’å½’ä¸‹è½½æ—¶ä¸åˆ›å»ºå±‚çº§ç›®å½•
+# -A acclist/--accept acclist æŒ‡å®šä¸‹è½½æ–‡ä»¶åˆ—è¡¨
 wget -r -l 1 -nd -A "*.pdf" http://10.117.5.87/
 ```
-ÉÏÃæÁ½ÖÖ·½Ê½¶¼ÊÇµ¥Ïß³ÌÏÂÔØÄ£Ê½£¬Èç¹ûÏ£ÍûÖ§³Ö¶àĞ­Òé¶àÏß³ÌÄ£Ê½£¬¿ÉÒÔÊ¹ÓÃ[aria2c](https://aria2.github.io/), Ö§³Ö
-HTTP/HTTPS, FTP, SFTP, BitTorrent£¯Metalink
+ä¸Šé¢ä¸¤ç§æ–¹å¼éƒ½æ˜¯å•çº¿ç¨‹ä¸‹è½½æ¨¡å¼ï¼Œå¦‚æœå¸Œæœ›æ”¯æŒå¤šåè®®å¤šçº¿ç¨‹æ¨¡å¼ï¼Œå¯ä»¥ä½¿ç”¨[aria2c](https://aria2.github.io/), æ”¯æŒ
+HTTP/HTTPS, FTP, SFTP, BitTorrentï¼Metalink
 ```console
 # install on mac
 brew search aria2
@@ -1564,27 +1571,27 @@ brew install aria2
 
 # Download using 7 connections per host
 # -h   list user manual
-# -k   ÏÂÔØÎÄ¼ş·Ö¸î´óĞ¡£¬Ä¬ÈÏ20M£¬¸ù¾İ-xÖ¸¶¨Á¬½ÓÊıµ÷Õû
-# -x, --max-connection-per-server=<NUM> Ä¿±êserver×î´óÁ¬½ÓÊı Default: 1
+# -k   ä¸‹è½½æ–‡ä»¶åˆ†å‰²å¤§å°ï¼Œé»˜è®¤20Mï¼Œæ ¹æ®-xæŒ‡å®šè¿æ¥æ•°è°ƒæ•´
+# -x, --max-connection-per-server=<NUM> ç›®æ ‡serveræœ€å¤§è¿æ¥æ•° Default: 1
 aria2c -x 7 https://github.com/testerSunshine/12306/archive/master.zip
 
 # Download from 3 sources
-# -j, --max-concurrent-downloads=<N> Éè¶¨ÏÂÔØÄ¿±êÁĞ×î´óÍ¬²½Ö´ĞĞÈÎÎñÊı Default: 5
-# -Z, --force-sequential [true|false] ´ÓÃüÁîĞĞ²ÎÊıË³Ğò¿ªÊ¼¶ÀÁ¢ÏÂÔØ Default: false
+# -j, --max-concurrent-downloads=<N> è®¾å®šä¸‹è½½ç›®æ ‡åˆ—æœ€å¤§åŒæ­¥æ‰§è¡Œä»»åŠ¡æ•° Default: 5
+# -Z, --force-sequential [true|false] ä»å‘½ä»¤è¡Œå‚æ•°é¡ºåºå¼€å§‹ç‹¬ç«‹ä¸‹è½½ Default: false
 aria2c -x3 -j3 -Z "http://10.117.5.87/99.mp4" "ftp://b/f.iso" file2.torrent file3.metalink
 
 # Parameterized URI support
 $ aria2c -P "http://{host1,host2,host3}/file.iso"
-# numeric sequence: Èç¹ûURIs²»Ö¸ÏòÍ¬Ò»¸öÎÄ¼şÈçÉÏÃæÀı×Ó£¬-Z option¾ÍĞèÒª
+# numeric sequence: å¦‚æœURIsä¸æŒ‡å‘åŒä¸€ä¸ªæ–‡ä»¶å¦‚ä¸Šé¢ä¾‹å­ï¼Œ-Z optionå°±éœ€è¦
 $ aria2c -Z -P "http://host/image[000-100].png"
-# specify step counter: ¿ÉÒÔfilterÒ»Ğ©ÎÄ¼şÃû
+# specify step counter: å¯ä»¥filterä¸€äº›æ–‡ä»¶å
 $ aria2c -Z -P "http://host/image[A-Z:2].png"
 
 # Verifying checksums
 $ aria2c --checksum=sha-1=0192ba11326fe2298c8cb4de616f4d4140213837 http://example.org/file
 
 # Using a Proxy with authorization
-# ¿ÉÒÔ·Ö±ğÖ¸¶¨ --http-proxy --https-proxy --ftp-proxy
+# å¯ä»¥åˆ†åˆ«æŒ‡å®š --http-proxy --https-proxy --ftp-proxy
 aria2c --all-proxy="http://username:password@proxy:8080" "http://host/file"
 ```
 
@@ -1598,25 +1605,25 @@ tar -cvf a.tar folder1 folder2
 # unpack a.tar file
 tar -xvf a.tar
 
-# ´ò°üºÍ½â°ü tar.gz/tgz 
-# ´ò°üÄ¿Â¼folder1 folder2 Í¬Ê±zipÑ¹ËõtarÎÄ¼şÎªa.tar.gz
+# æ‰“åŒ…å’Œè§£åŒ… tar.gz/tgz 
+# æ‰“åŒ…ç›®å½•folder1 folder2 åŒæ—¶zipå‹ç¼©taræ–‡ä»¶ä¸ºa.tar.gz
 tar -czvf a.tar.gz folder1 folder2   
 # unzip and unpack a tar.gz file
 tar -xzvf jdk-8-linux-x64.tar.gz
-# ½â°üÑ¹ËõÎÄ¼şÖĞÖ¸¶¨Ä¿Â¼ 
-# ¿ÉÒÔÏÈÍ¨¹ı -tvf ²é¿´ÎÄ¼ş°üÖĞÎÄ¼şÄ¿Â¼½á¹¹ ±ÈÈç jdk-8-linux-x64/binÊÇjdk-8-linux-x64.tar.gzÖĞÒ»¸öÄ¿Â¼
+# è§£åŒ…å‹ç¼©æ–‡ä»¶ä¸­æŒ‡å®šç›®å½• 
+# å¯ä»¥å…ˆé€šè¿‡ -tvf æŸ¥çœ‹æ–‡ä»¶åŒ…ä¸­æ–‡ä»¶ç›®å½•ç»“æ„ æ¯”å¦‚ jdk-8-linux-x64/binæ˜¯jdk-8-linux-x64.tar.gzä¸­ä¸€ä¸ªç›®å½•
 tar -xzvf jdk-8-linux-x64.tar.gz jdk-8-linux-x64/bin
-# -C ²ÎÊıÖ¸¶¨½â°üµ½µÄÄ¿Â¼£¬ Ä¬ÈÏÊÇµ±Ç°Ö´ĞĞÄ¿Â¼
+# -C å‚æ•°æŒ‡å®šè§£åŒ…åˆ°çš„ç›®å½•ï¼Œ é»˜è®¤æ˜¯å½“å‰æ‰§è¡Œç›®å½•
 tar xzvf file.tgz -C path
 
-# tarÎÄ¼şÖĞÔö¼ÓĞÂÎÄ¼ş
-#  -r (or ¨Cappend) option to add/append a new file to the end of the archive
-# °Ñpom.xmlºÍsrc/test/resources/Ìí¼Óµ½cls.tarÎÄ¼ş×îºó
+# taræ–‡ä»¶ä¸­å¢åŠ æ–°æ–‡ä»¶
+#  -r (or â€“append) option to add/append a new file to the end of the archive
+# æŠŠpom.xmlå’Œsrc/test/resources/æ·»åŠ åˆ°cls.taræ–‡ä»¶æœ€å
 tar rvf cls.tar pom.xml src/test/resources/
-# °Ñsrc/test/Ìí¼Óµ½cls.tarÎÄ¼ş×îºó
+# æŠŠsrc/test/æ·»åŠ åˆ°cls.taræ–‡ä»¶æœ€å
 tar rvf cls.tar src/test/
-# ²é¿´cls.tar»á·¢ÏÖÓÉÓÚÉÏÊöÃüÁîÌí¼ÓÁ½´Îsrc/test/resources/
-# tarÎÄ¼şÖĞ³öÏÖÏàÍ¬ÖØ¸´ÎÄ¼şsrc/test/resources/
+# æŸ¥çœ‹cls.tarä¼šå‘ç°ç”±äºä¸Šè¿°å‘½ä»¤æ·»åŠ ä¸¤æ¬¡src/test/resources/
+# taræ–‡ä»¶ä¸­å‡ºç°ç›¸åŒé‡å¤æ–‡ä»¶src/test/resources/
 tar tvf cls.tar
 ...
 -rw-r--r-- king/users    21711 2019-11-07 22:28 target/classes/org.codehaus.plexus.compiler.javac.arguments
@@ -1629,7 +1636,7 @@ drwxr-xr-x king/users        0 2018-03-05 17:08 src/test/java/
 ...
 drwxr-xr-x king/users        0 2019-10-10 14:00 src/test/resources/
 -rw-r--r-- king/users     1249 2018-03-05 17:08 src/test/resources/log4j2-test.xml
-# ÀàËÆ²ÎÊı»¹ÓĞ -u (or ¨Cupdate) ½öÌí¼Ó±ÈtarÖĞÎÄ¼ş¸üĞÂµÄÎÄ¼ş
+# ç±»ä¼¼å‚æ•°è¿˜æœ‰ -u (or â€“update) ä»…æ·»åŠ æ¯”tarä¸­æ–‡ä»¶æ›´æ–°çš„æ–‡ä»¶
 tar uvf cls.tar pom.xml
 -rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
 vi pom.xml
@@ -1637,13 +1644,13 @@ tar uvf cls.tar pom.xml
 -rw-r--r-- king/users    12650 2019-10-22 14:27 pom.xml
 -rw-r--r-- king/users    12648 2019-11-11 10:21 pom.xml
 
-# pipeline tar&gzip,"-" ¼õºÅ¶ÔtarÃüÁîÊÇÒ»¸öÌØÊâsignal
-# °ÑÖ´ĞĞÑ¹Ëõ½á¹ûĞ´Èëstdout(standard output)¶ø²»ÊÇÂ·¾¶Ö¸¶¨ÎÄ¼şÖĞ
+# pipeline tar&gzip,"-" å‡å·å¯¹tarå‘½ä»¤æ˜¯ä¸€ä¸ªç‰¹æ®Šsignal
+# æŠŠæ‰§è¡Œå‹ç¼©ç»“æœå†™å…¥stdout(standard output)è€Œä¸æ˜¯è·¯å¾„æŒ‡å®šæ–‡ä»¶ä¸­
 tar cvf - ./bank_app/ | gzip -9 > bankApp.tar.gz  
 
-# tarÃüÁîÄ¬ÈÏÊ¹ÓÃµ±Ç°Â·¾¶Ñ°ÕÒÖ¸¶¨Ä¿Â¼
-# Èç¹ûÖ¸¶¨ÍêÕûÂ·¾¶ĞèÒªÊ¹ÓÃ-P or --absolute-names allow to use whole path
-# ·ñÔò»áÌáÊ¾´ò°üÄ¿Â¼ÔÚµ±Ç°Â·¾¶ÏÂÕÒ²»µ½
+# tarå‘½ä»¤é»˜è®¤ä½¿ç”¨å½“å‰è·¯å¾„å¯»æ‰¾æŒ‡å®šç›®å½•
+# å¦‚æœæŒ‡å®šå®Œæ•´è·¯å¾„éœ€è¦ä½¿ç”¨-P or --absolute-names allow to use whole path
+# å¦åˆ™ä¼šæç¤ºæ‰“åŒ…ç›®å½•åœ¨å½“å‰è·¯å¾„ä¸‹æ‰¾ä¸åˆ°
 tar cvf - /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
 tar: Removing leading `/' from member names
 /usr/lib64/jvm/jre-1.8.0-openjdk
@@ -1652,102 +1659,102 @@ tar cvf - -P /usr/lib64/jvm/jre-1.8.0-openjdk/ | gzip -9 > ./jdk.tar.gz
 ```
 
 #### gzip
-+ [zipÃüÁîµÄ¸÷ÖÖ±äÌå¼°ÓÃ·¨](https://mp.weixin.qq.com/s/i0PlJ2ArsodObc0bshzcZQ)
++ [zipå‘½ä»¤çš„å„ç§å˜ä½“åŠç”¨æ³•](https://mp.weixin.qq.com/s/i0PlJ2ArsodObc0bshzcZQ)
 ```console
 # list zip file named spring.jar by zipinfo
-# jarÎÄ¼şÊÇ±ê×¼zip¸ñÊ½ÄÜÓÃÏà¹ØÃüÁî´¦Àí
+# jaræ–‡ä»¶æ˜¯æ ‡å‡†zipæ ¼å¼èƒ½ç”¨ç›¸å…³å‘½ä»¤å¤„ç†
 zipinfo -1 spring.jar
 # list zip file named tomcat.jar by unzip
 unzip -l tomcat.jar
 
-# gzipÖ»ÄÜÑ¹ËõÎÄ¼ş,²»ÄÜÑ¹ËõÄ¿Â¼½á¹¹£¬ÊÔÍ¼Ñ¹ËõÄ¿Â¼»áÌáÊ¾´íÎó
-# Èç¹ûÏëÑ¹ËõÄ¿Â¼Ö»ÄÜÏÈ°ÑÕû¸öÄ¿Â¼´ò°ü³ÉtarÎÄ¼şÔÙÑ¹Ëõ
-# ½«spring.logÑ¹Ëõ³Éspring.log.gz
+# gzipåªèƒ½å‹ç¼©æ–‡ä»¶,ä¸èƒ½å‹ç¼©ç›®å½•ç»“æ„ï¼Œè¯•å›¾å‹ç¼©ç›®å½•ä¼šæç¤ºé”™è¯¯
+# å¦‚æœæƒ³å‹ç¼©ç›®å½•åªèƒ½å…ˆæŠŠæ•´ä¸ªç›®å½•æ‰“åŒ…æˆtaræ–‡ä»¶å†å‹ç¼©
+# å°†spring.logå‹ç¼©æˆspring.log.gz
 gzip spring.log
 
-# °Ñspring.log.gz½âÑ¹Ëõ³Éspring.log
-# -d Ä¬ÈÏÖ¸¶¨µ±Ç°Ä¿Â¼
+# æŠŠspring.log.gzè§£å‹ç¼©æˆspring.log
+# -d é»˜è®¤æŒ‡å®šå½“å‰ç›®å½•
 gzip -d spring.log.gz
 
-# Ç¿ÖÆÑ¹Ëõmyfile.tar³ÉÎªmyfile.tar.gz
+# å¼ºåˆ¶å‹ç¼©myfile.taræˆä¸ºmyfile.tar.gz
 gzip -fv myfile.tar  
 
 # decompress gzip file named spring.gz into ./test folder
-# -d Ö¸¶¨½âÑ¹Ä¿Â¼ ./test
+# -d æŒ‡å®šè§£å‹ç›®å½• ./test
 gzip -dtest spring.gz  
 
-# ½âÑ¹ lib.zip µ½ ./lib Ä¿Â¼
+# è§£å‹ lib.zip åˆ° ./lib ç›®å½•
 $ unzip -dlib lib.zip  
-# ½âÑ¹ lib.zip µ½ /usr/share/tmp Ä¿Â¼
+# è§£å‹ lib.zip åˆ° /usr/share/tmp ç›®å½•
 $ unzip lib.zip -d /usr/share/tmp  
-# -o ½âÑ¹Ê±ºò¸²¸ÇÎÄ¼şÊ±²»ÒªÌáÊ¾ Åú´¦Àí½âÑ¹Ê±ºò±ÜÃâÊÖ¶¯½éÈë
-# -qq ½âÑ¹Ê±ºò²»Êä³öÎÄ¼şÁĞ±í Åú´¦ÀíÊ±ºò¿ÉÒÔ¼Ó¿ì´¦ÀíËÙ¶È
+# -o è§£å‹æ—¶å€™è¦†ç›–æ–‡ä»¶æ—¶ä¸è¦æç¤º æ‰¹å¤„ç†è§£å‹æ—¶å€™é¿å…æ‰‹åŠ¨ä»‹å…¥
+# -qq è§£å‹æ—¶å€™ä¸è¾“å‡ºæ–‡ä»¶åˆ—è¡¨ æ‰¹å¤„ç†æ—¶å€™å¯ä»¥åŠ å¿«å¤„ç†é€Ÿåº¦
 $ unzip lib.zip -qq -od /usr/share/tmp  
-# ½âÑ¹libÄ¿Â¼ÏÂËùÓĞjar°üÎÄ¼şÖĞclassÎÄ¼ş£¬²»ÌáÊ¾¸²¸ÇÑ¡Ôñ£¬²»Êä³ö´¦ÀíÎÄ¼şÁĞ±í {}±íÊ¾find´«Èë²ÎÊı
+# è§£å‹libç›®å½•ä¸‹æ‰€æœ‰jaråŒ…æ–‡ä»¶ä¸­classæ–‡ä»¶ï¼Œä¸æç¤ºè¦†ç›–é€‰æ‹©ï¼Œä¸è¾“å‡ºå¤„ç†æ–‡ä»¶åˆ—è¡¨ {}è¡¨ç¤ºfindä¼ å…¥å‚æ•°
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o -qq {} "*.class" \;
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o {} "*.class" > /dev/null \;
 
-# ½âÑ¹ all FORTRAN and C source files--*.f, *.c, *.h, and Makefile--ÖÁ /tmp Ä¿Â¼:
+# è§£å‹ all FORTRAN and C source files--*.f, *.c, *.h, and Makefile--è‡³ /tmp ç›®å½•:
 $ unzip source.zip "*.[fch]" Makefile -d /tmp
-# -C ºöÂÔ×Ö·û´óĞ¡Ğ´
-# ½âÑ¹ all FORTRAN and C source files, ºöÂÔÎÄ¼şºó×º´óĞ¡Ğ´ (e.g., both *.c and *.C, and any makefile, Makefile, MAKEFILE or similar):
+# -C å¿½ç•¥å­—ç¬¦å¤§å°å†™
+# è§£å‹ all FORTRAN and C source files, å¿½ç•¥æ–‡ä»¶åç¼€å¤§å°å†™ (e.g., both *.c and *.C, and any makefile, Makefile, MAKEFILE or similar):
 $ unzip -C source.zip "*.[fch]" makefile -d /tmp
 
-# ½âÑ¹Ö¸¶¨ÎÄ¼şµ½µ±Ç°Ä¿Â¼£¬Ö¸¶¨ÎÄ¼ş±ØĞëÊÇÑ¹Ëõ°üÖĞÍêÕûÂ·¾¶Ãû»òÕßÄ¿Â¼ÏÂÈ«²¿ÎÄ¼ş
+# è§£å‹æŒ‡å®šæ–‡ä»¶åˆ°å½“å‰ç›®å½•ï¼ŒæŒ‡å®šæ–‡ä»¶å¿…é¡»æ˜¯å‹ç¼©åŒ…ä¸­å®Œæ•´è·¯å¾„åæˆ–è€…ç›®å½•ä¸‹å…¨éƒ¨æ–‡ä»¶
 $ unzip framework-api-1.0.jar "com/example/api/ApiImpl.class" -d ./
 $ unzip framework-api-1.0.jar "com/example/api/*" -d ./
 
-# ½âÑ¹lib.warÖĞ±È WEB-INFÄ¿Â¼ÏÂÓĞ±ä»¯µÄÎÄ¼ş£¬½âÑ¹¹ı³ÌÖĞÎŞĞèÌáÊ¾ÊÇ·ñ¸²¸Ç
-# -o ¸²¸Ç±¾µØÎÄ¼ş²»ĞèÒªÌáÊ¾
-# -f ½ö½âÑ¹±È±¾µØÎÄ¼ş°æ±¾¸üĞÂµÄÑ¹Ëõ°üÎÄ¼ş, Èç¹û±¾µØÃ»ÓĞÎÄ¼şÎŞ·¨±È½ÏÔò»á·ÅÆú½âÑ¹Ëõ
+# è§£å‹lib.warä¸­æ¯” WEB-INFç›®å½•ä¸‹æœ‰å˜åŒ–çš„æ–‡ä»¶ï¼Œè§£å‹è¿‡ç¨‹ä¸­æ— éœ€æç¤ºæ˜¯å¦è¦†ç›–
+# -o è¦†ç›–æœ¬åœ°æ–‡ä»¶ä¸éœ€è¦æç¤º
+# -f ä»…è§£å‹æ¯”æœ¬åœ°æ–‡ä»¶ç‰ˆæœ¬æ›´æ–°çš„å‹ç¼©åŒ…æ–‡ä»¶, å¦‚æœæœ¬åœ°æ²¡æœ‰æ–‡ä»¶æ— æ³•æ¯”è¾ƒåˆ™ä¼šæ”¾å¼ƒè§£å‹ç¼©
 $ unzip -fo lib.war -d WEB-INF/
 
 # pipeline gzip&tar
-# tar xvf - ¼õºÅÖ¸¶¨stdin¶ÁÈ¡ÄÚÈİ²¢ÔÚµ±Ç°Ä¿Â¼½âÑ¹
+# tar xvf - å‡å·æŒ‡å®šstdinè¯»å–å†…å®¹å¹¶åœ¨å½“å‰ç›®å½•è§£å‹
 $ gzip -dv < bankApp.tar.gz | tar xvf -   
 
-# -r  recurse into directories Ôö¼ÓÄ¿Â¼¼°×ÓÄ¿Â¼µ½zipÎÄ¼şÖĞ
+# -r  recurse into directories å¢åŠ ç›®å½•åŠå­ç›®å½•åˆ°zipæ–‡ä»¶ä¸­
 $ zip -r auth-1.0.jar antrun/src
 
-# ²é¿´auth-1.0.jar×îĞÂÎÄ¼şÁĞ±í
+# æŸ¥çœ‹auth-1.0.jaræœ€æ–°æ–‡ä»¶åˆ—è¡¨
 $ unzip -l auth-1.0.jar 
 211  2019-11-07 22:28   antrun/build-main.xml
-# ±à¼­antrun/build-main.xmlÔÙÖ´ĞĞ¸üĞÂ-rv²Ù×÷
-# -rv Ôö¼Ó²¢¸üĞÂzipÖĞÎÄ¼ş, Óëtar -rvÖ»Ôö¼Ó²»Ìæ»»ÎÄ¼ş´¦Àí²»Ò»Ñù
-# °Ñantrun/build-main.xml Ìí¼Óµ½auth-1.0.jar
+# ç¼–è¾‘antrun/build-main.xmlå†æ‰§è¡Œæ›´æ–°-rvæ“ä½œ
+# -rv å¢åŠ å¹¶æ›´æ–°zipä¸­æ–‡ä»¶, ä¸tar -rvåªå¢åŠ ä¸æ›¿æ¢æ–‡ä»¶å¤„ç†ä¸ä¸€æ ·
+# æŠŠantrun/build-main.xml æ·»åŠ åˆ°auth-1.0.jar
 $ zip -rv auth-1.0.jar antrun/build-main.xml 
-# zipÎÄ¼şÖĞ¶ÔÓ¦ÎÄ¼şÒÑ¾­±»update³É×îĞÂ
+# zipæ–‡ä»¶ä¸­å¯¹åº”æ–‡ä»¶å·²ç»è¢«updateæˆæœ€æ–°
 214  2019-11-11 10:50   antrun/build-main.xml
 
-# -u  update: only changed or new files ¸üĞÂ»òĞÂÔöÎÄ¼şµ½zipÖĞ
-# -uv ¸üĞÂzipÖĞÎÄ¼ş²¢ÏÔÊ¾ĞŞ¸ÄÎÄ¼şÁĞ±í
+# -u  update: only changed or new files æ›´æ–°æˆ–æ–°å¢æ–‡ä»¶åˆ°zipä¸­
+# -uv æ›´æ–°zipä¸­æ–‡ä»¶å¹¶æ˜¾ç¤ºä¿®æ”¹æ–‡ä»¶åˆ—è¡¨
 $ zip -uv auth-1.0.jar antrun/build-main.xml 
 
-# °Ñµ±Ç°Ä¿Â¼ËùÓĞÎÄ¼ş¼°×ÓÄ¿Â¼¶¼Ñ¹Ëõµ½zipÎÄ¼şÖĞ
-# -qq ²»Êä³ö´¦ÀíÎÄ¼şµÄÁĞ±í
+# æŠŠå½“å‰ç›®å½•æ‰€æœ‰æ–‡ä»¶åŠå­ç›®å½•éƒ½å‹ç¼©åˆ°zipæ–‡ä»¶ä¸­
+# -qq ä¸è¾“å‡ºå¤„ç†æ–‡ä»¶çš„åˆ—è¡¨
 $ zip -ruqq ../all.jar ./* 
 
-# -d É¾³ızipÖĞµÄÎÄ¼ş
+# -d åˆ é™¤zipä¸­çš„æ–‡ä»¶
 $ zip -d auth-1.0.jar antrun/build-main.xml
-# É¾³ızipÖĞµÄÎÄ¼şÄ¿Â¼
+# åˆ é™¤zipä¸­çš„æ–‡ä»¶ç›®å½•
 $ zip -d auth-1.0.jar src/*
-# jar²»Ö§³Ö-d Òò´ËÖ»ÄÜÓÃzipÀ´É¾³ıÆäÖĞÎÄ¼ş
-# ×¢ÒâjarÖ§³Ö²ÎÊı¿ÉÒÔ²»¼Ó- µ«zip/gzip ÃüÁî²ÎÊıÇ°¶¼ĞèÒª-
+# jarä¸æ”¯æŒ-d å› æ­¤åªèƒ½ç”¨zipæ¥åˆ é™¤å…¶ä¸­æ–‡ä»¶
+# æ³¨æ„jaræ”¯æŒå‚æ•°å¯ä»¥ä¸åŠ - ä½†zip/gzip å‘½ä»¤å‚æ•°å‰éƒ½éœ€è¦-
 
-# °Ñµ±Ç°Ä¿Â¼ÏÂorgÕû¸ö´ò°ü³Éapache.jar
+# æŠŠå½“å‰ç›®å½•ä¸‹orgæ•´ä¸ªæ‰“åŒ…æˆapache.jar
 $ jar cvf apache.jar ./org/*
 
-# ²é¿´´ò°üµÄÎÄ¼şÄÚÈİ
+# æŸ¥çœ‹æ‰“åŒ…çš„æ–‡ä»¶å†…å®¹
 $ jar tvf apache.jar
 
-# -uvf Ôö¼Ó¸üĞÂjarÎÄ¼şÄÚÈİ
-# jar²»Ö§³Ö-r²ÎÊı
+# -uvf å¢åŠ æ›´æ–°jaræ–‡ä»¶å†…å®¹
+# jarä¸æ”¯æŒ-rå‚æ•°
 $ jar uvf auth-1.0.jar ../src/test/resources/
 ...
 213  2019-11-11 11:00   antrun/build-main.xml
 0  2019-10-10 14:00   src/test/resources/
 1249  2018-03-05 17:08   src/test/resources/log4j2-test.xml
-# ±à¼­log4j2-test.xmlÔÙÖ´ĞĞuvf²Ù×÷, ÄÜ·¢ÏÖjar(zip)¸ñÊ½ÎÄ¼şÒÑ¸üĞÂ
+# ç¼–è¾‘log4j2-test.xmlå†æ‰§è¡Œuvfæ“ä½œ, èƒ½å‘ç°jar(zip)æ ¼å¼æ–‡ä»¶å·²æ›´æ–°
 213  2019-11-11 11:00   antrun/build-main.xml
 0  2019-11-11 11:08   src/test/resources/
 1248  2019-11-11 11:08   src/test/resources/log4j2-test.xml
@@ -1772,19 +1779,19 @@ sudo ln -s /apache/data /data
 ```
 
 #### netstat
-+ [ss-Socket Statistics ÍøÂç¼ì²â](https://mp.weixin.qq.com/s/jRjEQ2ekkH2CYh2OW3rHWw)
++ [ss-Socket Statistics ç½‘ç»œæ£€æµ‹](https://mp.weixin.qq.com/s/jRjEQ2ekkH2CYh2OW3rHWw)
 ```console
 # monitor all socket connections status
 netstat -tlnpua
 
-# ÁĞ³öÈ«²¿Internet connectionsºÍUNIX domain sockets
+# åˆ—å‡ºå…¨éƒ¨Internet connectionså’ŒUNIX domain sockets
 netstat -anp
 # Filter Listen state
 netstat -anp | grep LISTEN
-# ÁĞ³öÈ«²¿connections ±¾µØºÍ¶Ô¶ËipµØÖ·
+# åˆ—å‡ºå…¨éƒ¨connections æœ¬åœ°å’Œå¯¹ç«¯ipåœ°å€
 netstat -tanp | less
 ```
-±È½ÏĞÂµÄLinux°æ±¾ÉÏÒÑ¾­°Ñ**netstat**×÷ÎªdeprecatedÉ¾³ı£¬Ê¹ÓÃ**ss**(socket statistic)ÃüÁîÌæ´ú
+æ¯”è¾ƒæ–°çš„Linuxç‰ˆæœ¬ä¸Šå·²ç»æŠŠ**netstat**ä½œä¸ºdeprecatedåˆ é™¤ï¼Œä½¿ç”¨**ss**(socket statistic)å‘½ä»¤æ›¿ä»£
 ```console
 # summarize socket connections status
 $ ss -s
@@ -1806,39 +1813,39 @@ ss -ta
 # List all tcp&udp connections
 ss -tua
 
-# ²é¿´¸Õ½¨Á¢µÄ TCP Á¬½Ó±¾µØ¶Ô¶ËipµØÖ·µÈĞÅÏ¢
+# æŸ¥çœ‹åˆšå»ºç«‹çš„ TCP è¿æ¥æœ¬åœ°å¯¹ç«¯ipåœ°å€ç­‰ä¿¡æ¯
 $ ss -t
 State         Recv-Q         Send-Q                 Local Address:Port                     Peer Address:Port          
 ESTAB         0              0                        10.117.5.87:ssh                     10.117.237.59:60806  
-# ²é¿´¸Õ½¨Á¢µÄ UNIX domain socketsÁ¬½Ó
+# æŸ¥çœ‹åˆšå»ºç«‹çš„ UNIX domain socketsè¿æ¥
 ss -x
 
-# ½öÏÔÊ¾¼àÌıÖĞ TCP socket
+# ä»…æ˜¾ç¤ºç›‘å¬ä¸­ TCP socket
 $ ss -lt
 State          Recv-Q         Send-Q                   Local Address:Port                   Peer Address:Port         
 LISTEN         0              128                            0.0.0.0:ssh                         0.0.0.0:*            
 LISTEN         0              100                          127.0.0.1:smtp                        0.0.0.0:*            
-# ½öÏÔÊ¾¼àÌıÖĞ TCP socket£¬²¢ÇÒportÏÔÊ¾numberÌæ»»service name
-# ssh/smtp ·şÎñ¶Ë¿Ú22/25
+# ä»…æ˜¾ç¤ºç›‘å¬ä¸­ TCP socketï¼Œå¹¶ä¸”portæ˜¾ç¤ºnumberæ›¿æ¢service name
+# ssh/smtp æœåŠ¡ç«¯å£22/25
 $ ss -ltn
 State          Recv-Q         Send-Q                   Local Address:Port                   Peer Address:Port         
 LISTEN         0              128                            0.0.0.0:22                         0.0.0.0:*            
 LISTEN         0              100                          127.0.0.1:25                        0.0.0.0:*    
-# ½öÏÔÊ¾¼àÌıÖĞ TCP socket£¬²¢ÇÒÏÔÊ¾¹ØÁª½ø³Ì
+# ä»…æ˜¾ç¤ºç›‘å¬ä¸­ TCP socketï¼Œå¹¶ä¸”æ˜¾ç¤ºå…³è”è¿›ç¨‹
 $ ss -l -t -n -p
 State    Recv-Q   Send-Q       Local Address:Port       Peer Address:Port                                             
 LISTEN   0        5                  0.0.0.0:5901            0.0.0.0:*       users:(("Xvnc",pid=2484,fd=6))   
 ```
 
 #### nohup
-+ [nohupÃüÁîÏê½â](https://mp.weixin.qq.com/s/ADNMnWFsspxK9Mfr76zJ7Q)   
++ [nohupå‘½ä»¤è¯¦è§£](https://mp.weixin.qq.com/s/ADNMnWFsspxK9Mfr76zJ7Q)   
 
 Run a command immune to hangups, with output to a non-tty
 ```console
 # put task to background without hangup
 nohup command & 
 
-# µ¼³öÊä³öµ½ÈÕÖ¾ÎÄ¼ş
+# å¯¼å‡ºè¾“å‡ºåˆ°æ—¥å¿—æ–‡ä»¶
 nohup command > log &
 ```
 
@@ -1856,14 +1863,14 @@ umount -lv /home/king/tor
 ```
 
 #### batch command
-+ [LinuxÖÕ¶ËÍ¬Ê±ÔËĞĞ¶à¸öÃüÁî](https://mp.weixin.qq.com/s/t8U59Owxm_pEugxJZOvXEQ)
++ [Linuxç»ˆç«¯åŒæ—¶è¿è¡Œå¤šä¸ªå‘½ä»¤](https://mp.weixin.qq.com/s/t8U59Owxm_pEugxJZOvXEQ)
 
 ```console
-# Command 1 ; Command 2 Ê×ÏÈÔËĞĞCommand1£¬È»ºóÔËĞĞCommand2
+# Command 1 ; Command 2 é¦–å…ˆè¿è¡ŒCommand1ï¼Œç„¶åè¿è¡ŒCommand2
 $ vncserver -kill :1; vncserver
 
-# Command 1 && Command 2 µ±Command1ÔËĞĞ³É¹¦²¢½áÊø£¬È»ºóÔËĞĞCommand2
-# Command 1 || Command 2 µ±Command1ÔËĞĞÊ§°ÜÊ±²ÅÔËĞĞCommand2
+# Command 1 && Command 2 å½“Command1è¿è¡ŒæˆåŠŸå¹¶ç»“æŸï¼Œç„¶åè¿è¡ŒCommand2
+# Command 1 || Command 2 å½“Command1è¿è¡Œå¤±è´¥æ—¶æ‰è¿è¡ŒCommand2
 $ [ -f file.txt ] && echo "File exists" || echo "File doesn't exist"
 File doesn't exist
 
@@ -1882,21 +1889,21 @@ $ chmod ugoa+rwx file == chmod 7777 file
 
 #### chown
 ```console
-# ĞŞ¸Äµ±Ç°folder¼°ËùÓĞ×Ó¼¶Ä¿Â¼µÄownerÎªÓÃ»§stack
+# ä¿®æ”¹å½“å‰folderåŠæ‰€æœ‰å­çº§ç›®å½•çš„ownerä¸ºç”¨æˆ·stack
 $ chown -hR stack folder/    
 ```
 
 #### chgrp
 ```console
-# ĞŞ¸Äµ±Ç°folder¼°ËùÓĞ×Ó¼¶Ä¿Â¼µÄÓÃ»§ËùÊôgroupÎªrootÓÃ»§group
+# ä¿®æ”¹å½“å‰folderåŠæ‰€æœ‰å­çº§ç›®å½•çš„ç”¨æˆ·æ‰€å±groupä¸ºrootç”¨æˆ·group
 $ chgrp -hR root folder/     
 ```
 
 #### chsh
 ```console
-# ĞŞ¸Ädefault shellÎªbash
+# ä¿®æ”¹default shellä¸ºbash
 $ chsh -s /bin/bash 
-# ²éÑ¯µ±Ç°default shell
+# æŸ¥è¯¢å½“å‰default shell
 $ which sh 
 ```
 
@@ -1945,44 +1952,44 @@ ip addr show br0
 
 #### diff/patch
 + [patch-command](http://www.thegeekstuff.com/2014/12/patch-command-examples/)
-+ [MeldÍ¼ĞÎ»¯diff¹¤¾ß](https://mp.weixin.qq.com/s/tQEXrOQqm28v7MtNl-ZGCw)
++ [Meldå›¾å½¢åŒ–diffå·¥å…·](https://mp.weixin.qq.com/s/tQEXrOQqm28v7MtNl-ZGCw)
 ```console
-# ´´½¨patch
+# åˆ›å»ºpatch
 diff -u hello.c hello_new.c > hello.patch  
 
-# ²âÊÔ´ÓpatchÎÄ¼şµ¼³ö²îÒì
+# æµ‹è¯•ä»patchæ–‡ä»¶å¯¼å‡ºå·®å¼‚
 patch -p 10 --dry-run < ../rb1138637.patch  
-# ´ÓpatchÎÄ¼şÖ±½Óµ¼³ö²îÒì£¬ºöÂÔÎÄ¼şÂ·¾¶ĞÅÏ¢
+# ä»patchæ–‡ä»¶ç›´æ¥å¯¼å‡ºå·®å¼‚ï¼Œå¿½ç•¥æ–‡ä»¶è·¯å¾„ä¿¡æ¯
 patch < ../rb1138637.patch  
 
-# patchÖĞÔ´ÎÄ¼şÄ¿Â¼ÊÇ'/src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java'
-# ´ÓpatchÎÄ¼şµ¼³ö²îÒì£¬ºöÂÔÇ°1¸ö'/'Â·¾¶
+# patchä¸­æºæ–‡ä»¶ç›®å½•æ˜¯'/src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java'
+# ä»patchæ–‡ä»¶å¯¼å‡ºå·®å¼‚ï¼Œå¿½ç•¥å‰1ä¸ª'/'è·¯å¾„
 patch -p1 < ../rb1138637.patch  
 checking file src/java/controller/rest-server/src/test/java/controller/restserver/impl/EndPoint.java
-# ´ÓpatchÎÄ¼şµ¼³ö²îÒì£¬ºöÂÔÇ°5¸ö'/'Â·¾¶
+# ä»patchæ–‡ä»¶å¯¼å‡ºå·®å¼‚ï¼Œå¿½ç•¥å‰5ä¸ª'/'è·¯å¾„
 patch -p 5 < ../rb1138637.patch  
 checking file src/test/java/com/example/EndPoint.java
 ```
 #### xargs
-+ [xargsÃüÁî½Ì³Ì](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)
++ [xargså‘½ä»¤æ•™ç¨‹](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)
 ```console
-# xargs°Ñ¹ÜµÀ´«ÈëµÄ½á¹û×ª³ÉÒ»ĞĞ,¿Õ¸ñ·Ö¸ô³öµÄÃ¿Ò»¸ö´Ê¿ÉÒÔ×÷ÎªºóÃæÃüÁîÊäÈë²ÎÊı
-# ±ÈÈç cat <file1>  <file2>  <file3>¿ÉÒÔ´òÓ¡Èı¸öÎÄ¼şÄÚÈİ
+# xargsæŠŠç®¡é“ä¼ å…¥çš„ç»“æœè½¬æˆä¸€è¡Œ,ç©ºæ ¼åˆ†éš”å‡ºçš„æ¯ä¸€ä¸ªè¯å¯ä»¥ä½œä¸ºåé¢å‘½ä»¤è¾“å…¥å‚æ•°
+# æ¯”å¦‚ cat <file1>  <file2>  <file3>å¯ä»¥æ‰“å°ä¸‰ä¸ªæ–‡ä»¶å†…å®¹
 
-# 1.ÁĞ³öµ±Ç°Ä¿Â¼ÏÂËùÓĞÎÄ¼şÃû
-# 2.×ª³É¶à¸öÊäÈëÎÄ¼ş²ÎÊı,ÓÉcat´òÓ¡³öÄÚÈİ
+# 1.åˆ—å‡ºå½“å‰ç›®å½•ä¸‹æ‰€æœ‰æ–‡ä»¶å
+# 2.è½¬æˆå¤šä¸ªè¾“å…¥æ–‡ä»¶å‚æ•°,ç”±catæ‰“å°å‡ºå†…å®¹
 ls ./ | xargs cat
 ```
 
 #### wc
 ```console
-# wc ´òÓ¡ newline, word, and byte counts
+# wc æ‰“å° newline, word, and byte counts
 # -l, --lines  print the newline counts
 
-# Í³¼ÆÎÄ¼şµÄĞĞÊı
-# 1.ÁĞ³öµ±Ç°Ä¿Â¼ÏÂËùÓĞÎÄ¼şÃû
-# 2.×ª³É¶à¸öÊäÈëÎÄ¼ş²ÎÊı,ÓÉcat´òÓ¡³öÄÚÈİ
-# 3.ÓÉwcÍ³¼Æ³öĞÂĞĞµÄÊıÄ¿
+# ç»Ÿè®¡æ–‡ä»¶çš„è¡Œæ•°
+# 1.åˆ—å‡ºå½“å‰ç›®å½•ä¸‹æ‰€æœ‰æ–‡ä»¶å
+# 2.è½¬æˆå¤šä¸ªè¾“å…¥æ–‡ä»¶å‚æ•°,ç”±catæ‰“å°å‡ºå†…å®¹
+# 3.ç”±wcç»Ÿè®¡å‡ºæ–°è¡Œçš„æ•°ç›®
 git ls-files | xargs cat | wc -l
 ```
 
@@ -1994,27 +2001,27 @@ find . -name *.java | xargs cat | wc -l
 ```console
 # count how many sshd deamon running
 ps -ef | grep -c 'sshd' 
-# µÈÍ¬ÓÚ
+# ç­‰åŒäº
 ps -ef | grep 'sshd' | wc -l
 ```
 
 ####  expand/unexpand
 [expand](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614435&idx=3&sn=9155d9cc9f0e401992afe31cf3c096a7) - convert tabs to spaces
 ```console
-# Ä¬ÈÏTAB µÄ¿í¶È8
+# é»˜è®¤TAB çš„å®½åº¦8
 expand tech.txt
-# ÉèÖÃÃ¿¸ö TAB µÄ¿í¶È
+# è®¾ç½®æ¯ä¸ª TAB çš„å®½åº¦
 expand -t=5 tech.txt
-# ²»×ª»»·Ç¿Õ°××Ö·ûºóµÄTAB
+# ä¸è½¬æ¢éç©ºç™½å­—ç¬¦åçš„TAB
 expand -i tech.txt
 
-# ½ö×ª»»Ò»ĞĞ¿ªÍ·µÄ¿Õ¸ñ
+# ä»…è½¬æ¢ä¸€è¡Œå¼€å¤´çš„ç©ºæ ¼
 unexpand --first-only tech.txt
-# ×ª»»ËùÓĞ¿Õ¸ñ
+# è½¬æ¢æ‰€æœ‰ç©ºæ ¼
 unexpand -a tech.txt
-# Éè¶¨¶àÉÙ¸ö¿Õ¸ñÌæ»»³ÉÒ»¸ö TAB£¬¶ø²»ÊÇ 8£¨»áÆôÓÃ -a£©£º
+# è®¾å®šå¤šå°‘ä¸ªç©ºæ ¼æ›¿æ¢æˆä¸€ä¸ª TABï¼Œè€Œä¸æ˜¯ 8ï¼ˆä¼šå¯ç”¨ -aï¼‰ï¼š
 unexpand -t 5 tech.txt
-# Ê¹ÓÃ¶ººÅ·Ö¸ôÖ¸¶¨¶à¸ö TAB µÄÎ»ÖÃ
+# ä½¿ç”¨é€—å·åˆ†éš”æŒ‡å®šå¤šä¸ª TAB çš„ä½ç½®
 unexpand -t 5,10,15 tech.txt
 ```
 
@@ -2026,8 +2033,8 @@ netstat -tlnpu | fold -w 120
 ```
 
 ####  unix2dos/dos2unix
-+ [É¾³ı»Ø³µ·û](https://mp.weixin.qq.com/s/mJsztHS_1ZRomwsdkUqQlA)
-+ [UnixºÍDOS¸ñÊ½×ª»»](https://mp.weixin.qq.com/s/f5SyOs444SGhAPqHpwYfdA)
++ [åˆ é™¤å›è½¦ç¬¦](https://mp.weixin.qq.com/s/mJsztHS_1ZRomwsdkUqQlA)
++ [Unixå’ŒDOSæ ¼å¼è½¬æ¢](https://mp.weixin.qq.com/s/f5SyOs444SGhAPqHpwYfdA)
 
 unix2dos/dos2unix -- format transfer
 ```console
@@ -2035,12 +2042,12 @@ dos2unix file
 ```
 
 #### Hd/Od
-°ÑÎÄ¼ş°´ÕÕASCII, decimal, hexadecimal, octal¸ñÊ½À´dump³öÀ´
+æŠŠæ–‡ä»¶æŒ‰ç…§ASCII, decimal, hexadecimal, octalæ ¼å¼æ¥dumpå‡ºæ¥
 + [hexdump, hd](https://mp.weixin.qq.com/s/OdnmyjMBE5ODqZMefSiYHw) 
-+ [od/jp2a ²é¿´ÎÄ¼şÄÚÈİ](https://mp.weixin.qq.com/s/cLNxB-Jhv-tWown9LzBsOA)
++ [od/jp2a æŸ¥çœ‹æ–‡ä»¶å†…å®¹](https://mp.weixin.qq.com/s/cLNxB-Jhv-tWown9LzBsOA)
 
 ```console
-# -c ÊäÈë×Ö·û´®°´×Ö½ÚÖğ¸öÏÔÊ¾×Ö·û,offsetÖĞ¶ÔÓ¦ÏÔÊ¾16½øÖÆ¸ñÊ½ 
+# -c è¾“å…¥å­—ç¬¦ä¸²æŒ‰å­—èŠ‚é€ä¸ªæ˜¾ç¤ºå­—ç¬¦,offsetä¸­å¯¹åº”æ˜¾ç¤º16è¿›åˆ¶æ ¼å¼ 
 echo xxxxxxCONTROL-V CONTROL-U | hd -c
 00000000  78 78 78 78 78 78 43 4f  4e 54 52 4f 4c 2d 56 20  |xxxxxxCONTROL-V |
 0000000   x   x   x   x   x   x   C   O   N   T   R   O   L   -   V    
@@ -2048,7 +2055,7 @@ echo xxxxxxCONTROL-V CONTROL-U | hd -c
 0000010   C   O   N   T   R   O   L   -   U  \n                        
 000001a
 
-# -b ÊäÈë×Ö·û´®°´×Ö½ÚÖğ¸öÏÔÊ¾8½øÖÆ¸ñÊ½,offsetÖĞ¶ÔÓ¦ÏÔÊ¾16½øÖÆ¸ñÊ½
+# -b è¾“å…¥å­—ç¬¦ä¸²æŒ‰å­—èŠ‚é€ä¸ªæ˜¾ç¤º8è¿›åˆ¶æ ¼å¼,offsetä¸­å¯¹åº”æ˜¾ç¤º16è¿›åˆ¶æ ¼å¼
 echo xxxxxxCONTROL-V CONTROL-U | hd -b
 00000000  78 78 78 78 78 78 43 4f  4e 54 52 4f 4c 2d 56 20  |xxxxxxCONTROL-V |
 0000000 170 170 170 170 170 170 103 117 116 124 122 117 114 055 126 040
@@ -2075,75 +2082,75 @@ echo xxxxxxCONTROL-V CONTROL-U | od -c
 ```
 
 #### sed
-+ [ÖĞÎÄsample](http://sed.sourceforge.net/sed1line_zh-CN.html)<br>
-+ [Sed¼¼ÇÉ ](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446261&idx=2&sn=b2b7f1b5efbc5d504b6c77f8128b9e52)<br>
-+ [Á÷±à¼­Æ÷sedÏê½â](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666544328&idx=1&sn=b83a92ab2f678052ac4c4faa3fb02ee7)<br>
-+ [É¾³ıÎÄ¼şÖĞµÄĞĞ](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615008&idx=1&sn=40529d874b3634ce7c3587916e78c17d)<br>
-+ [²éÕÒºÍÌæ»»ÎÄ¼şÖĞµÄ×Ö·û´®µÄ 16 ¸öÊ¾Àı](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=2&sn=35b89d57c5fc46d461f9cb0cb95d7de1)<br>
++ [ä¸­æ–‡sample](http://sed.sourceforge.net/sed1line_zh-CN.html)<br>
++ [SedæŠ€å·§ ](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446261&idx=2&sn=b2b7f1b5efbc5d504b6c77f8128b9e52)<br>
++ [æµç¼–è¾‘å™¨sedè¯¦è§£](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666544328&idx=1&sn=b83a92ab2f678052ac4c4faa3fb02ee7)<br>
++ [åˆ é™¤æ–‡ä»¶ä¸­çš„è¡Œ](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615008&idx=1&sn=40529d874b3634ce7c3587916e78c17d)<br>
++ [æŸ¥æ‰¾å’Œæ›¿æ¢æ–‡ä»¶ä¸­çš„å­—ç¬¦ä¸²çš„ 16 ä¸ªç¤ºä¾‹](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615185&idx=2&sn=35b89d57c5fc46d461f9cb0cb95d7de1)<br>
 > [example](http://www-d0.fnal.gov/~yinh/worknote/linux/sed_example)
 ```console
-# -i ±íÊ¾ÔÚ²ÎÊıÖ¸¶¨ÎÄ¼şÖĞ in-place, ÎŞ´Ë²ÎÊı²»»áÊµ¼ÊÌæ»»ÎÄ¼ş, ½ö²âÊÔÖ´ĞĞ½á¹û 
-# s Ö¸ÁîÊÇsubstitute  gÖ¸ÁîÊÇglobalÈ«¾Ö
-# *.txt Ö¸¶¨ÔÚËùÓĞµ±Ç°txtÎÄ¼şÖĞ, ´ËÃüÁî½«Ìæ»»ËùÓĞ·ûºÏÌõ¼şµÄ×Ö·û´®
+# -i è¡¨ç¤ºåœ¨å‚æ•°æŒ‡å®šæ–‡ä»¶ä¸­ in-place, æ— æ­¤å‚æ•°ä¸ä¼šå®é™…æ›¿æ¢æ–‡ä»¶, ä»…æµ‹è¯•æ‰§è¡Œç»“æœ 
+# s æŒ‡ä»¤æ˜¯substitute  gæŒ‡ä»¤æ˜¯globalå…¨å±€
+# *.txt æŒ‡å®šåœ¨æ‰€æœ‰å½“å‰txtæ–‡ä»¶ä¸­, æ­¤å‘½ä»¤å°†æ›¿æ¢æ‰€æœ‰ç¬¦åˆæ¡ä»¶çš„å­—ç¬¦ä¸²
 sed -i 's/old-word/new-word/g' *.txt  
-# ½«µ±Ç°test.txtÖĞËùÓĞINFO Ìæ»»³ÉDEBUG
+# å°†å½“å‰test.txtä¸­æ‰€æœ‰INFO æ›¿æ¢æˆDEBUG
 sed -i 's/INFO/DEBUG/g' test.txt  
 
-# Èç¹ûÊÇ¹ÜµÀ½øÀ´Êı¾İ´¦Àí²»ÒªÊ¹ÓÃ -i
+# å¦‚æœæ˜¯ç®¡é“è¿›æ¥æ•°æ®å¤„ç†ä¸è¦ä½¿ç”¨ -i
 $ echo '<artifactId>spring-boot-starter-web</artifactId>' | awk -F '[><]' '{print $3}' | sed 's/-/_/g'
-# ÌáÈ¡artifactIdÖµ£¬²¢½«Á¬½Ó·û'-'¸Ä³ÉÏÂ»®Ïß'_'
+# æå–artifactIdå€¼ï¼Œå¹¶å°†è¿æ¥ç¬¦'-'æ”¹æˆä¸‹åˆ’çº¿'_'
 spring_boot_starter_web
-# sed¿ÉÒÔÍ¨¹ı·ÖºÅ¡®;¡¯ Ò»´ÎÖ¸¶¨¶à¸öpattern
-# µãºÅ¡®.¡¯±íÊ¾Æ¥ÅäÈÎºÎ×Ö·ûµÄpattern£¬ Òò´ËÌæ»» 'org.apache.curator'->'org_apache_curator' ĞèÒª×ªÒå·û'\.'
+# sedå¯ä»¥é€šè¿‡åˆ†å·â€˜;â€™ ä¸€æ¬¡æŒ‡å®šå¤šä¸ªpattern
+# ç‚¹å·â€˜.â€™è¡¨ç¤ºåŒ¹é…ä»»ä½•å­—ç¬¦çš„patternï¼Œ å› æ­¤æ›¿æ¢ 'org.apache.curator'->'org_apache_curator' éœ€è¦è½¬ä¹‰ç¬¦'\.'
 $ grep -iEn '(artifactId|groupId)' pom.xml | awk -F '[><]' '{print $3}' | sed 's/\./_/g;s/-/_/g'
 
-# ÌáÈ¡´òÓ¡ÎÄ¼şµÄ 88->213ĞĞ, $±íÊ¾×îºóÒ»ĞĞ, '88,$p'±íÊ¾88->EOF
+# æå–æ‰“å°æ–‡ä»¶çš„ 88->213è¡Œ, $è¡¨ç¤ºæœ€åä¸€è¡Œ, '88,$p'è¡¨ç¤º88->EOF
 $ sed -n '88,213p' pom.xml   
 $ cat pom.xml | sed -n '88,213p' | grep -iEn '(artifactId|groupId)' | awk -F '[><]' '{print $3}' | sed 's/\./_/g;s/-/_/g'
 
-# n N ÔÊĞí³É¶ÔÀ´´¦Àílines Read/append the next line of input into the pattern space.
-# ½«ÄÚÈİÁ½ĞĞºÏ²¢ÎªÒ»ĞĞ, »»ĞĞ·û¡®\n¡¯Ìæ»»³ÉÏÂ»®Ïß'_'
+# n N å…è®¸æˆå¯¹æ¥å¤„ç†lines Read/append the next line of input into the pattern space.
+# å°†å†…å®¹ä¸¤è¡Œåˆå¹¶ä¸ºä¸€è¡Œ, æ¢è¡Œç¬¦â€˜\nâ€™æ›¿æ¢æˆä¸‹åˆ’çº¿'_'
 #line1  org_springframework_boot
 #line2  spring_boot_starter_web
 $ sed 'N;s/\n/_/g' file
 org_springframework_boot_spring_boot_starter_web
 
-# µ±Ç°ĞĞÊ×Î²Ìí¼Ótext
-# ĞĞÊ×+@£¬ĞĞÎ²+,
+# å½“å‰è¡Œé¦–å°¾æ·»åŠ text
+# è¡Œé¦–+@ï¼Œè¡Œå°¾+,
 # sed starts by reading the first line excluding the newline into the pattern space.
-# : ´´½¨±êÇ©Ö¸Áî :a ´´½¨±êÇ©a
-# N ¶ÁÈ¡ÏÂÒ»ĞĞµ½Ä£Ê½¿Õ¼ä£¬Ïàµ±ÓÚÔÚÄ£Ê½¿Õ¼ä°Ñ 1,2/3,4/5,6/....Á½Á½ºÏ²¢³ÉÒ»ĞĞ
-# b Ìø×ªµ½Ò»¸ö±êÇ© ba Ìø×ªµ½a±êÇ©
-# $! Î»ÖÃÆ¥ÅäÖ¸Áî£¬³ıÁË×îºóÒ»ĞĞ¶¼ÊÊÅä  $!ba ±íÊ¾ÔÚ×îºóÒ»ĞĞ²»ÒªÖ´ĞĞÌø×ª£¬±ÜÃâÔÙ´ÎÖ´ĞĞ N, Èç¹ûÃ»ÓĞÊäÈë½Å±¾»áÖÕÖ¹Ö´ĞĞ
-# :a;N;$!ba; Ò»Ì×Ñ­»·Ö¸Áî£¬±íÊ¾joinÏÂÒ»ĞĞ(using N)Ö±µ½µ¹ÊıµÚ¶şĞĞ
-# :a;N;2,5ba; ±íÊ¾Óöµ½µÚ2,5ĞĞ¾ÍÌø×ªµ½a±êÇ©
-# s/\n/,\n@/g Ìæ»»²¿·Ö»á°ÑÃ¿Ò»¸ö newline ÓÃ ,+newline+@ ÔÚÄ£Ê½¿Õ¼ä(pattern space)ÀïÌæ»», ¼´Õû¸öÎÄ¼ş
-# ¿çÆ½Ì¨ÊÊÅäÓï·¨ in BSD/OS X's sed (sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/ /g' file)
+# : åˆ›å»ºæ ‡ç­¾æŒ‡ä»¤ :a åˆ›å»ºæ ‡ç­¾a
+# N è¯»å–ä¸‹ä¸€è¡Œåˆ°æ¨¡å¼ç©ºé—´ï¼Œç›¸å½“äºåœ¨æ¨¡å¼ç©ºé—´æŠŠ 1,2/3,4/5,6/....ä¸¤ä¸¤åˆå¹¶æˆä¸€è¡Œ
+# b è·³è½¬åˆ°ä¸€ä¸ªæ ‡ç­¾ ba è·³è½¬åˆ°aæ ‡ç­¾
+# $! ä½ç½®åŒ¹é…æŒ‡ä»¤ï¼Œé™¤äº†æœ€åä¸€è¡Œéƒ½é€‚é…  $!ba è¡¨ç¤ºåœ¨æœ€åä¸€è¡Œä¸è¦æ‰§è¡Œè·³è½¬ï¼Œé¿å…å†æ¬¡æ‰§è¡Œ N, å¦‚æœæ²¡æœ‰è¾“å…¥è„šæœ¬ä¼šç»ˆæ­¢æ‰§è¡Œ
+# :a;N;$!ba; ä¸€å¥—å¾ªç¯æŒ‡ä»¤ï¼Œè¡¨ç¤ºjoinä¸‹ä¸€è¡Œ(using N)ç›´åˆ°å€’æ•°ç¬¬äºŒè¡Œ
+# :a;N;2,5ba; è¡¨ç¤ºé‡åˆ°ç¬¬2,5è¡Œå°±è·³è½¬åˆ°aæ ‡ç­¾
+# s/\n/,\n@/g æ›¿æ¢éƒ¨åˆ†ä¼šæŠŠæ¯ä¸€ä¸ª newline ç”¨ ,+newline+@ åœ¨æ¨¡å¼ç©ºé—´(pattern space)é‡Œæ›¿æ¢, å³æ•´ä¸ªæ–‡ä»¶
+# è·¨å¹³å°é€‚é…è¯­æ³• in BSD/OS X's sed (sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/ /g' file)
 $ sed 'N;s/\n/_/g' file | sed ':a;N;$!ba;s/\n/,\n@/g'
 @org_springframework_boot_spring_boot_starter_web,
 
 # insert & append
-# ²åÈë²Ù×÷, ÔÚµ±Ç°ĞĞÇ°Ãæ²åÈëÒ»ĞĞtext
-$ sed 'N;s/\n/_/' file £ü sed 'i 123'
+# æ’å…¥æ“ä½œ, åœ¨å½“å‰è¡Œå‰é¢æ’å…¥ä¸€è¡Œtext
+$ sed 'N;s/\n/_/' file ï½œ sed 'i 123'
 123
 org_springframework_boot_spring_boot_starter_web
-# Ìí¼Ó²Ù×÷£¬ÔÚµ±Ç°ĞĞºóÃæÌí¼ÓÒ»ĞĞtext
-$ sed 'N;s/\n/_/' file £ü sed 'i 123'
+# æ·»åŠ æ“ä½œï¼Œåœ¨å½“å‰è¡Œåé¢æ·»åŠ ä¸€è¡Œtext
+$ sed 'N;s/\n/_/' file ï½œ sed 'i 123'
 org_springframework_boot_spring_boot_starter_web
 123
 
 # print line number
-# = ÔÚµ±Ç°ĞĞÇ°Ò»ĞĞÊä³öĞĞºÅ
-$ sed 'N;s/\n/_/' file £ü sed '='
+# = åœ¨å½“å‰è¡Œå‰ä¸€è¡Œè¾“å‡ºè¡Œå·
+$ sed 'N;s/\n/_/' file ï½œ sed '='
 1
 org_springframework_boot_spring_boot_starter_web
 
-# ±íÊ¾½«µÚÒ»¸ö·¢ÉúÎ»ÖÃµÄ×Ö·û´®Ìæ»»µô
+# è¡¨ç¤ºå°†ç¬¬ä¸€ä¸ªå‘ç”Ÿä½ç½®çš„å­—ç¬¦ä¸²æ›¿æ¢æ‰
 sed -i '0,/pattern/s/pattern/replacement/' filename  
-# ½«µ±Ç°test.txtÖĞµÚÒ»¸öDEBUGÌæ»»³ÉINFO
+# å°†å½“å‰test.txtä¸­ç¬¬ä¸€ä¸ªDEBUGæ›¿æ¢æˆINFO
 sed -i '0,/DEBUG/s/DEBUG/INFO/g' test.txt  
 
-# ½«sshd_config ÅäÖÃ²»ÔÊĞírootµÇÂ¼µÄÑ¡ÏîÌæ»»³ÉÔÊĞí
+# å°†sshd_config é…ç½®ä¸å…è®¸rootç™»å½•çš„é€‰é¡¹æ›¿æ¢æˆå…è®¸
 sed -i '0,/PermitRootLogin no/s/PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config
 
 # a.txt contains string of  two lines
@@ -2194,85 +2201,85 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 ```
 
 #### awk
-+ awkÈëÃÅ[[1](https://mp.weixin.qq.com/s/00byxLNrglsmLBTTIX7_tA), [2](https://mp.weixin.qq.com/s/X3qiX4qOjg1jHlDpzgC61Q)]
++ awkå…¥é—¨[[1](https://mp.weixin.qq.com/s/00byxLNrglsmLBTTIX7_tA), [2](https://mp.weixin.qq.com/s/X3qiX4qOjg1jHlDpzgC61Q)]
 + awk-LOOP[[1](https://mp.weixin.qq.com/s/nK5YjhFHW3jmvIwGIAWiTQ), [2](https://unix.stackexchange.com/questions/362338/awk-how-to-loop-through-a-file-to-get-every-line)]
-+ [awk-NR/NF±äÁ¿](https://mp.weixin.qq.com/s/du1y9pa2XBV8R8SMbuOXTA)
-+ [awkÉ¾µôÖØ¸´ĞĞ](https://mp.weixin.qq.com/s/pC6NVz3NDbG_axrZIasVTQ)
-+ [5ÖÖawkÓÃ·¨](https://mp.weixin.qq.com/s/-LFhV1v_evVYIWt4cInKcg)
-+ awkÔËËã·ûºÅ
++ [awk-NR/NFå˜é‡](https://mp.weixin.qq.com/s/du1y9pa2XBV8R8SMbuOXTA)
++ [awkåˆ æ‰é‡å¤è¡Œ](https://mp.weixin.qq.com/s/pC6NVz3NDbG_axrZIasVTQ)
++ [5ç§awkç”¨æ³•](https://mp.weixin.qq.com/s/-LFhV1v_evVYIWt4cInKcg)
++ awkè¿ç®—ç¬¦å·
 ```console
-# awk µÄ»ù±¾Óï·¨
+# awk çš„åŸºæœ¬è¯­æ³•
 awk [options] 'pattern {action}' file
 
-# ÎÄ¼şÄÚÈİÏÔÊ¾
-# °Ñ88->95ĞĞÖ®¼äµÄ°üº¬'spring'¹Ø¼ü×ÖµÄÄÚÈİÏÔÊ¾³öÀ´
-# NR ÄÚ½¨±äÁ¿ ±íÊ¾È«²¿¼ÇÂ¼ÊıÄ¿ number of records 
-# NF ±íÊ¾±»·Ö¸ô³öµÄ×Ö¶ÎÊıÄ¿ number of fields
-# FNR ±íÊ¾µ±¶à¸öÎÄ¼ş±»´¦ÀíÊ±£¬NR»á³ÖĞøÀÛ»ı£¬¶øFNRÃ¿Ò»¸öĞÂÎÄ¼ş¶¼ÊÇ´ÓÍ·¼ÆÊı
+# æ–‡ä»¶å†…å®¹æ˜¾ç¤º
+# æŠŠ88->95è¡Œä¹‹é—´çš„åŒ…å«'spring'å…³é”®å­—çš„å†…å®¹æ˜¾ç¤ºå‡ºæ¥
+# NR å†…å»ºå˜é‡ è¡¨ç¤ºå…¨éƒ¨è®°å½•æ•°ç›® number of records 
+# NF è¡¨ç¤ºè¢«åˆ†éš”å‡ºçš„å­—æ®µæ•°ç›® number of fields
+# FNR è¡¨ç¤ºå½“å¤šä¸ªæ–‡ä»¶è¢«å¤„ç†æ—¶ï¼ŒNRä¼šæŒç»­ç´¯ç§¯ï¼Œè€ŒFNRæ¯ä¸€ä¸ªæ–°æ–‡ä»¶éƒ½æ˜¯ä»å¤´è®¡æ•°
 $ awk '/spring/ && NR>=88 && NR<=95' pom.xml 
 <groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter-web</artifactId>
 <groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter</artifactId>
 
-# awk½Å±¾ÊµÏÖĞĞºÏ²¢
-# tr -d É¾³ıĞĞ¿Õ°××Ö·û
-# printf "%s,",$0; ±íÊ¾°´×Ö·û´®¸ñÊ½´òÓ¡ÕûĞĞ ²»´¦Àí»»ĞĞÒò´ËÓÃÀ´ºÏ²¢ĞĞÊı¾İ
-# NR%2{}1 0=false, 1=true ±íÊ¾Âú×ãNR%2==true,¼´ĞĞºÅ³ı2Óà1µÄÊ±ºò£¬Ö´ĞĞ{}ÖĞ½Å±¾
-# {}1Ä©Î²Õâ¸ö1¼´ÔËĞĞÌõ¼şÓÀÔ¶Îªcondition==true£¬Ä¬ÈÏ´¦Àí¾ÍÊÇ´òÓ¡µ±Ç°ĞĞ {print $0}
-# NR%2{printf "%s,",$0; next;}1 µ±´¦ÀíÆæÊıĞĞÊ±£¬±ÈÈçµÚ3ĞĞ£¬°´¸ñÊ½´òÓ¡ÕûĞĞ È»ºóÌøµ½nextÏÂÒ»ĞĞ(µÚ4ĞĞ)¡£½Ó×ÅÄ¬ÈÏ´òÓ¡µ±Ç°ĞĞ
+# awkè„šæœ¬å®ç°è¡Œåˆå¹¶
+# tr -d åˆ é™¤è¡Œç©ºç™½å­—ç¬¦
+# printf "%s,",$0; è¡¨ç¤ºæŒ‰å­—ç¬¦ä¸²æ ¼å¼æ‰“å°æ•´è¡Œ ä¸å¤„ç†æ¢è¡Œå› æ­¤ç”¨æ¥åˆå¹¶è¡Œæ•°æ®
+# NR%2{}1 0=false, 1=true è¡¨ç¤ºæ»¡è¶³NR%2==true,å³è¡Œå·é™¤2ä½™1çš„æ—¶å€™ï¼Œæ‰§è¡Œ{}ä¸­è„šæœ¬
+# {}1æœ«å°¾è¿™ä¸ª1å³è¿è¡Œæ¡ä»¶æ°¸è¿œä¸ºcondition==trueï¼Œé»˜è®¤å¤„ç†å°±æ˜¯æ‰“å°å½“å‰è¡Œ {print $0}
+# NR%2{printf "%s,",$0; next;}1 å½“å¤„ç†å¥‡æ•°è¡Œæ—¶ï¼Œæ¯”å¦‚ç¬¬3è¡Œï¼ŒæŒ‰æ ¼å¼æ‰“å°æ•´è¡Œ ç„¶åè·³åˆ°nextä¸‹ä¸€è¡Œ(ç¬¬4è¡Œ)ã€‚æ¥ç€é»˜è®¤æ‰“å°å½“å‰è¡Œ
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2{printf "%s,",NR$0; next;}1' 
-# printf "%s,",NR$0 ´òÓ¡ĞĞºÅ+ĞĞÄÚÈİ ---> 1<groupId>org.springframework.boot</groupId>,
-# 1 ´òÓ¡µ±Ç°ĞĞÄÚÈİ <artifactId>spring-boot-starter-web</artifactId>
+# printf "%s,",NR$0 æ‰“å°è¡Œå·+è¡Œå†…å®¹ ---> 1<groupId>org.springframework.boot</groupId>,
+# 1 æ‰“å°å½“å‰è¡Œå†…å®¹ <artifactId>spring-boot-starter-web</artifactId>
 1<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter-web</artifactId>
 3<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter</artifactId>
 
-# {print NR$0}  print»á°´ÕÕÃ¿ĞĞÊä³ö£¬printf "%s"Ôò²»»á»»ĞĞ
+# {print NR$0}  printä¼šæŒ‰ç…§æ¯è¡Œè¾“å‡ºï¼Œprintf "%s"åˆ™ä¸ä¼šæ¢è¡Œ
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{print NR$0}' 
 1<groupId>org.springframework.boot</groupId>
 3<groupId>org.springframework.boot</groupId>
 
-# printf Êä³ö½á¹û²»»»ĞĞ
+# printf è¾“å‡ºç»“æœä¸æ¢è¡Œ
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf NR$0}' 
-# ÆæÊıĞĞÒ»Æğ´òÓ¡³öÀ´
+# å¥‡æ•°è¡Œä¸€èµ·æ‰“å°å‡ºæ¥
 1<groupId>org.springframework.boot</groupId>3<groupId>org.springframework.boot</groupId>
 
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0}{print $0}' 
-# ÆæÊıĞĞ´øĞĞºÅ+','´òÓ¡³öÀ´£¬²¢ÇÒÔÙÃ¿ĞĞÕı³£´òÓ¡
+# å¥‡æ•°è¡Œå¸¦è¡Œå·+','æ‰“å°å‡ºæ¥ï¼Œå¹¶ä¸”å†æ¯è¡Œæ­£å¸¸æ‰“å°
 1<groupId>org.springframework.boot</groupId>,<groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter-web</artifactId>
 3<groupId>org.springframework.boot</groupId>,<groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter</artifactId>
 
-# next ÀàËÆÓÚ continue Ìø¹ıºóÃæ½Å±¾£¬´ÓÍ·¿ªÊ¼ÏÂÒ»ĞĞ´¦Àí
+# next ç±»ä¼¼äº continue è·³è¿‡åé¢è„šæœ¬ï¼Œä»å¤´å¼€å§‹ä¸‹ä¸€è¡Œå¤„ç†
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0}{next}1' 
-# ÓÉÓÚnextÖ´ĞĞºó£¬ºóÃæµÄ1¼´{print $0}ÓÀÔ¶²»»áÖ´ĞĞ
+# ç”±äºnextæ‰§è¡Œåï¼Œåé¢çš„1å³{print $0}æ°¸è¿œä¸ä¼šæ‰§è¡Œ
 1<groupId>org.springframework.boot</groupId>,3<groupId>org.springframework.boot</groupId>,
 
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0;next}1' 
-# ÆæÊıĞĞ´øĞĞºÅ+','´òÓ¡³öÀ´£¬Å¼ÊıĞĞÕı³£Êä³ö
+# å¥‡æ•°è¡Œå¸¦è¡Œå·+','æ‰“å°å‡ºæ¥ï¼Œå¶æ•°è¡Œæ­£å¸¸è¾“å‡º
 1<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter-web</artifactId>
 3<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter</artifactId>
 
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk '{ ORS = (NR%2 ? FS : RS) } 1' 
-# ORS ±íÊ¾ Output Record Separator. 
-# FS (Field Separator) Ä¬ÈÏ¿Õ¸ñ
-# RS (Record Separator) Ä¬ÈÏ newline.
-# ÆæÊıĞĞµÃµ½·Ö¸ô·ûÊÇ¿Õ¸ñ£¬Å¼ÊıĞĞ·Ö¸ô·ûÊÇ»»ĞĞ·û
+# ORS è¡¨ç¤º Output Record Separator. 
+# FS (Field Separator) é»˜è®¤ç©ºæ ¼
+# RS (Record Separator) é»˜è®¤ newline.
+# å¥‡æ•°è¡Œå¾—åˆ°åˆ†éš”ç¬¦æ˜¯ç©ºæ ¼ï¼Œå¶æ•°è¡Œåˆ†éš”ç¬¦æ˜¯æ¢è¡Œç¬¦
 <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-web</artifactId>
 <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter</artifactId>
 
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk '{ ORS = (NR%2 ? "," : RS) } 1' 
-# ÉèÆæÊıĞĞ·Ö¸ô·ûÊÇ¶ººÅ','£¬Å¼ÊıĞĞ·Ö¸ô·ûÊÇ»»ĞĞ·û
+# è®¾å¥‡æ•°è¡Œåˆ†éš”ç¬¦æ˜¯é€—å·','ï¼Œå¶æ•°è¡Œåˆ†éš”ç¬¦æ˜¯æ¢è¡Œç¬¦
 <groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter-web</artifactId>
 <groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter</artifactId>
 
 # https://www.baeldung.com/linux/join-multiple-lines
-# ÀÛ»ı¼ÆËãºóÊä³ö±äÁ¿
-# -v d="" ´´½¨Ò»¸ö±äÁ¿d£¬±ÜÃâÓ²±àÂëÒ»¸ö·Ö¸ô·û(delimiter)
-# NR==1?s:s d Èç¹û´¦ÀíµÚÒ»ĞĞÊ±£¬²»ÓÃ°Ñ·Ö¸ô·û¼ÓÎªĞĞÇ°×ºÊä³ö¡®s¡¯£¬·ñÔòÊä³ö's d'¡£½Å±¾ÏàÍ¬Ğ´·¨ if(NR>1) s=s d
-# s=(NR==1?s:s d)$0 Á¬½ÓÃ¿Ò»ĞĞ($0)£¬²¢ÇÒ¸³Öµ¸ø±äÁ¿ s
-# END{print s} ËùÓĞĞĞ´¦ÀíÍê³Éºó£¬ÔÚEND blockÖĞÊä³ö±äÁ¿s
+# ç´¯ç§¯è®¡ç®—åè¾“å‡ºå˜é‡
+# -v d="" åˆ›å»ºä¸€ä¸ªå˜é‡dï¼Œé¿å…ç¡¬ç¼–ç ä¸€ä¸ªåˆ†éš”ç¬¦(delimiter)
+# NR==1?s:s d å¦‚æœå¤„ç†ç¬¬ä¸€è¡Œæ—¶ï¼Œä¸ç”¨æŠŠåˆ†éš”ç¬¦åŠ ä¸ºè¡Œå‰ç¼€è¾“å‡ºâ€˜sâ€™ï¼Œå¦åˆ™è¾“å‡º's d'ã€‚è„šæœ¬ç›¸åŒå†™æ³• if(NR>1) s=s d
+# s=(NR==1?s:s d)$0 è¿æ¥æ¯ä¸€è¡Œ($0)ï¼Œå¹¶ä¸”èµ‹å€¼ç»™å˜é‡ s
+# END{print s} æ‰€æœ‰è¡Œå¤„ç†å®Œæˆåï¼Œåœ¨END blockä¸­è¾“å‡ºå˜é‡s
 $ awk -v d="" '{s=(NR==1?s:s d)$0}END{print s}' input.txt
 I cameI sawI conquered!
 
@@ -2282,11 +2289,11 @@ I came,I saw,I conquered!
 $ awk -v d="; " '{s=(NR==1?s:s d)$0}END{print s}' input.txt
 I came; I saw; I conquered!
 
-# ×Ö·û´®Æ´½Ó
+# å­—ç¬¦ä¸²æ‹¼æ¥
 root@photon-machine# grep 'netmask' vminfo.txt
 <Property oe:key="netmask" oe:value="255.255.253.0" />
 
-# -F ÓÃ "value=" ×Ö·û´®×÷Îªtoken·Ö¸ôĞĞ, Ä¬ÈÏ·Ö¸ô·û¿Õ¸ñ¡£$0ËùÓĞÁĞ£¬$1(µÚÒ»ÁĞ) $2...
+# -F ç”¨ "value=" å­—ç¬¦ä¸²ä½œä¸ºtokenåˆ†éš”è¡Œ, é»˜è®¤åˆ†éš”ç¬¦ç©ºæ ¼ã€‚$0æ‰€æœ‰åˆ—ï¼Œ$1(ç¬¬ä¸€åˆ—) $2...
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $0}'
 <Property oe:key="netmask" oe:value="255.255.253.0" />
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $1}'
@@ -2294,50 +2301,50 @@ root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $1}'
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}'
 255.255.253.0" />
 
-# »¹¿ÉÒÔÖ¸¶¨¶à¸ö·Ö¸ô·û  -F '[><]' ±íÊ¾Í¨¹ı ¡®<¡¯ '>' ·Ö¸ô½âÎö
-# " " ×Ö·û´®ÓÃÀ´Ôö¼ÓÁĞÊä³öµÄ·Ö¸ô·û ÏÂÀıÊ¹ÓÃ·Ö¸ô·û' , '
+# è¿˜å¯ä»¥æŒ‡å®šå¤šä¸ªåˆ†éš”ç¬¦  -F '[><]' è¡¨ç¤ºé€šè¿‡ â€˜<â€™ '>' åˆ†éš”è§£æ
+# " " å­—ç¬¦ä¸²ç”¨æ¥å¢åŠ åˆ—è¾“å‡ºçš„åˆ†éš”ç¬¦ ä¸‹ä¾‹ä½¿ç”¨åˆ†éš”ç¬¦' , '
 $ echo '<artifactId>spring-boot-starter-web</artifactId>' | awk -F '[><]' '{print $2 " , " $3 " ,  " $4}'
 artifactId , spring-boot-starter-web ,  /artifactId
 
 king@suse-leap:~/source/python> grep 'netmask' a.txt | awk -F'value="' '{print $2 $1}'
 255.255.253.0" /><Property oe:key="netmask" oe:
-# °Ñ±äÁ¿2µÄÖµ´«¸ø±äÁ¿1,´òÓ¡±äÁ¿1
+# æŠŠå˜é‡2çš„å€¼ä¼ ç»™å˜é‡1,æ‰“å°å˜é‡1
 king@suse-leap:~/source/python> grep 'netmask' a.txt | awk -F'value="' '{print $1=$2}'
 255.255.253.0" />
 root@photon# grep 'netmask' vminfo.txt | awk -F'value="' '{print $2}' | awk -F'"' '{print $1}'
 255.255.253.0
 
-# °ÑjarÎÄ¼şÖĞÎÄ¼şÁĞ±í°´ÕÕĞŞ¸ÄÊ±¼äÅÅĞò
-# unzipµÄÊä³öÖĞ $2ÊÇÈÕÆÚ $3ÊÇtime $4ÊÇÎÄ¼şÃû
-# ÎªÁËÓÃdate+timeÅÅĞò print $2$3 or $2 $3 ¸ñÊ½Îª'2018-10-1516:27'
-# $2$3Ö®¼ä²»ÄÜ¼Ó¶ººÅ·ñÔò'$2,$3'Êä³ö¾ÍÊÇ'2018-10-15 16:27'
+# æŠŠjaræ–‡ä»¶ä¸­æ–‡ä»¶åˆ—è¡¨æŒ‰ç…§ä¿®æ”¹æ—¶é—´æ’åº
+# unzipçš„è¾“å‡ºä¸­ $2æ˜¯æ—¥æœŸ $3æ˜¯time $4æ˜¯æ–‡ä»¶å
+# ä¸ºäº†ç”¨date+timeæ’åº print $2$3 or $2 $3 æ ¼å¼ä¸º'2018-10-1516:27'
+# $2$3ä¹‹é—´ä¸èƒ½åŠ é€—å·å¦åˆ™'$2,$3'è¾“å‡ºå°±æ˜¯'2018-10-15 16:27'
 unzip -l open-tracing.jar | awk '{print $2 $3, $4}' | sort -r
 2018-10-1516:27 com/twitter/zipkin/thriftjava/Annotation$1.class
 2018-01-1219:46 META-INF/maven/io.opentracing/opentracing-util/pom.properties
 
-# Awk½Å±¾µ¼ÈëÍâ²¿±äÁ¿(AwkÖ´ĞĞshellÓëÍâ²¿shell·ÇÍ¬Ò»¸ö,Òò´ËÎŞ·¨Ê¶±ğÍâ²¿±äÁ¿)
-# °Ñ[2019-10-31T09:24:27---2019-10-31T09:26:27]Ê±¼ä¶ÎÈÕÖ¾»ã×Üµ¼³ö
-# -v ½«Íâ²¿±äÁ¿µ¼Èë³ÉÎªAwkÄÚ²¿±äÁ¿
+# Awkè„šæœ¬å¯¼å…¥å¤–éƒ¨å˜é‡(Awkæ‰§è¡Œshellä¸å¤–éƒ¨shelléåŒä¸€ä¸ª,å› æ­¤æ— æ³•è¯†åˆ«å¤–éƒ¨å˜é‡)
+# æŠŠ[2019-10-31T09:24:27---2019-10-31T09:26:27]æ—¶é—´æ®µæ—¥å¿—æ±‡æ€»å¯¼å‡º
+# -v å°†å¤–éƒ¨å˜é‡å¯¼å…¥æˆä¸ºAwkå†…éƒ¨å˜é‡
 export now=`date +"%Y-%m-%dT%T"`; export previous=`date -d "-2 minutes" +"%Y-%m-%dT%T"`
 cat /var/log/api.log /var/log/run.log | awk -v start="$previous" -v end="$now" '$0 > start && $0 < end ' > scope.log
 
-# Êı×Ö¼ÆËã
+# æ•°å­—è®¡ç®—
 echo '11 22 33 44 55 66 77 88' > a.txt 
 cat a.txt | awk -F' ' '{print $1 $2}'
 1122
-# ¼Ó
+# åŠ 
 cat a.txt | awk -F' ' '{print $1 + $2}'
 33
-# ¼õ
+# å‡
 cat a.txt | awk -F' ' '{print $1 - $2}'
 -11
-# ³Ë
+# ä¹˜
 cat a.txt | awk -F' ' '{print $1 * $2}'
 242
-# ³ı
+# é™¤
 cat a.txt | awk -F' ' '{print $3 * $2}'
 1.5
-# ÇóºÍ
+# æ±‚å’Œ
 echo '77 88 99' > a.txt 
 echo '55 66 77' >> a.txt 
 echo '11 22 33' >> a.txt 
@@ -2353,15 +2360,15 @@ cat a.txt | awk -F' ' '{s+=$1} {print s}'
 77
 132  -- 77+55=132
 143  -- 132+11=143
-# END±íÊ¾×öÍêÔÙ´òÓ¡ ²Î¿¼ man awk
+# ENDè¡¨ç¤ºåšå®Œå†æ‰“å° å‚è€ƒ man awk
 cat a.txt | awk -F' ' '{s+=$1} END {print s}'
 143
-# awkÄ¬ÈÏÓÃ¿Õ¸ñ·Ö¸ô,²»ÓÃ-F²ÎÊıÒ²ĞĞ
+# awké»˜è®¤ç”¨ç©ºæ ¼åˆ†éš”,ä¸ç”¨-Få‚æ•°ä¹Ÿè¡Œ
 cat a.txt | awk '{ add += $1; subs += $2; loc += $1 - $2 } END \
 { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
 added lines: 143, removed lines: 176, total lines: -33
 
-# É±µô½ø³Ì
+# æ€æ‰è¿›ç¨‹
 root@photon [ /etc/systemd/system ]# ps -ef |grep java
 root      1211   340 10 08:38 pts/0    00:00:01 java -Djava.net.preferIPv4Stack=true 
 -Dlog4j.configuration=file:/opt/controller/log4j-controller.properties 
@@ -2388,10 +2395,10 @@ file:/opt/controller/log4j-controller.properties -server -Xmx4096m
 
 #### read
 +  [GNU Readline](https://mp.weixin.qq.com/s/ojSrALsvO4aQHNG_lZcXzQ)  
-  `Bash shellµ±Äã×Ô¶¯²¹È«Ò»¸öÎÄ¼şÃû£¬»òÕßÔÚÊäÈëµÄÒ»ĞĞÎÄ±¾ÖĞÒÆ¶¯¹â±ê£¬ÒÔ¼°ËÑË÷Ö®Ç°ÃüÁîµÄÀúÊ·¼ÇÂ¼Ê±£¬Äã¶¼ÔÚÊ¹ÓÃ GNU Readline`<br>
-  `Ctrl-A ¹â±ê»áÌøµ½ĞĞÊ×`<br>
-  `Ctrl-E ¹â±ê»áÌøµ½ĞĞÄ©`<br>
-  `Ctrl-U É¾³ı¸ÃĞĞÖĞ¹â±êÖ®Ç°µÄËùÓĞÄÚÈİ`
+  `Bash shellå½“ä½ è‡ªåŠ¨è¡¥å…¨ä¸€ä¸ªæ–‡ä»¶åï¼Œæˆ–è€…åœ¨è¾“å…¥çš„ä¸€è¡Œæ–‡æœ¬ä¸­ç§»åŠ¨å…‰æ ‡ï¼Œä»¥åŠæœç´¢ä¹‹å‰å‘½ä»¤çš„å†å²è®°å½•æ—¶ï¼Œä½ éƒ½åœ¨ä½¿ç”¨ GNU Readline`<br>
+  `Ctrl-A å…‰æ ‡ä¼šè·³åˆ°è¡Œé¦–`<br>
+  `Ctrl-E å…‰æ ‡ä¼šè·³åˆ°è¡Œæœ«`<br>
+  `Ctrl-U åˆ é™¤è¯¥è¡Œä¸­å…‰æ ‡ä¹‹å‰çš„æ‰€æœ‰å†…å®¹`
 ```console
 read -a topic <<< "1 2 3";echo $topic
 1
@@ -2403,10 +2410,10 @@ read -a topic <<< "1 2 3";echo $topic[2]
 
 #### redirect symbol
 * < >      
-shellÊ¶±ğredirect symbols, ²¢²»ĞèÒª°ÑÖ´ĞĞÃüÁîĞ´ÔÚĞĞÊ×£¬ÈçÏÂÀı×Ó
+shellè¯†åˆ«redirect symbols, å¹¶ä¸éœ€è¦æŠŠæ‰§è¡Œå‘½ä»¤å†™åœ¨è¡Œé¦–ï¼Œå¦‚ä¸‹ä¾‹å­
 ```console
-#  < (¶Á³ö)       > (Ğ´Èë)
-# ÔËĞĞcat¶Á³öÎÄ¼şaaÖĞÄÚÈİ£¬È»ºóĞ´Èëµ½ÎÄ¼şbb
+#  < (è¯»å‡º)       > (å†™å…¥)
+# è¿è¡Œcatè¯»å‡ºæ–‡ä»¶aaä¸­å†…å®¹ï¼Œç„¶åå†™å…¥åˆ°æ–‡ä»¶bb
 >bb <aa cat
 
 # redirect inputs from three files into sypply_orders
@@ -2425,7 +2432,7 @@ set +o noclobber
 echo "hi there" > tmp
 ```
 * &#62;&#166;      
-ÓÃredirect symbol (>|)¸²¸ÇnoclobberÏŞÖÆ
+ç”¨redirect symbol (>|)è¦†ç›–noclobberé™åˆ¶
 ```console
 date > tmp2
 set -o noclobber
@@ -2443,7 +2450,7 @@ hold
 ls \?old
 ls: ?old: No such file or directory
 
-# asterisk(*) point(!) caret(^) hyphen(¨C)
+# asterisk(*) point(!) caret(^) hyphen(â€“)
 ls
 aa ab ac ad ba bb bc bd cc dd
 # [^tsq]* matches any filename that does not begin with t, s, or q
@@ -2465,7 +2472,7 @@ less page[2468].txt
 ```
 
 #### sort
-+ [sort×öÅÅĞò](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615790&idx=2&sn=e7ab687bfce92b8f539253d7d94f3d38)
++ [sortåšæ’åº](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664615790&idx=2&sn=e7ab687bfce92b8f539253d7d94f3d38)
 
 ```console
 # sort displays the lines of a file in order
@@ -2496,7 +2503,7 @@ ls | sort -R
 ```
 
 #### uniq
-ÏÔÊ¾ÎÄ¼şÄÚÈİ,É¾³ıÏàÍ¬ĞĞ(²»¸Ä±äÔ­ÎÄ¼şÄÚÈİ)
+æ˜¾ç¤ºæ–‡ä»¶å†…å®¹,åˆ é™¤ç›¸åŒè¡Œ(ä¸æ”¹å˜åŸæ–‡ä»¶å†…å®¹)
 ```console
 cat dups.txt
 Cathy
@@ -2515,30 +2522,30 @@ Mary
 ```
 
 #### head/tail
-+ MultitailÍ¬Ê±²é¿´¶à¸öÈÕÖ¾ÎÄ¼ş[[1](https://mp.weixin.qq.com/s/MjquqO6nvJJb1zSrwCjR9Q), [2](https://mp.weixin.qq.com/s/ZqXwEV8JI45iVxlTYNmcLg)]
++ MultitailåŒæ—¶æŸ¥çœ‹å¤šä¸ªæ—¥å¿—æ–‡ä»¶[[1](https://mp.weixin.qq.com/s/MjquqO6nvJJb1zSrwCjR9Q), [2](https://mp.weixin.qq.com/s/ZqXwEV8JI45iVxlTYNmcLg)]
 
-ÏÔÊ¾ÎÄ¼şÊ×/Î²ÄÚÈİ
+æ˜¾ç¤ºæ–‡ä»¶é¦–/å°¾å†…å®¹
 ```console
-# -4 ÏÔÊ¾Ê×ËÄĞĞ
+# -4 æ˜¾ç¤ºé¦–å››è¡Œ
 sort months | head -4
 Apr
 Aug
 Dec
 Feb
 
-# ¼à¿Ø¼Óµ½ÎÄ¼şÎ²µÄÄÚÈİ
+# ç›‘æ§åŠ åˆ°æ–‡ä»¶å°¾çš„å†…å®¹
 tail -f logfile
 ```
 
 #### strings
-²é¿´ÎÄ¼şÖĞ¿ÉÏÔÊ¾×Ö·ûÄÚÈİ
+æŸ¥çœ‹æ–‡ä»¶ä¸­å¯æ˜¾ç¤ºå­—ç¬¦å†…å®¹
 ```console
-# ²é¿´ÏµÍ³journalÎÄ¼ş
+# æŸ¥çœ‹ç³»ç»Ÿjournalæ–‡ä»¶
 $ strings /var/log/journal/a0848146a8854c519ce698d28901e824/user-1000.journal | grep -i message
 MESSAGE=kscreen.xcb.helper: RRScreenChangeNotify
 MESSAGE=kscreen.xcb.helper:     Window: 35651588
 
-# ²éÕÒjava ELFÎÄ¼şÖĞµÄ×Ö·û´®
+# æŸ¥æ‰¾java ELFæ–‡ä»¶ä¸­çš„å­—ç¬¦ä¸²
 $ strings $(which java)
 /lib64/ld-linux-x86-64.so.2
 libpthread.so.0
@@ -2557,45 +2564,45 @@ GLIBC_2.2.5
 ```
 
 #### cut
-É¾³ıÎÄ¼şĞĞÖĞ²¿·ÖÄÚÈİ
-+ [CutÃüÁîÊ¾Àı](https://mp.weixin.qq.com/s/THSmreoxMS9TsygUlGHA-A)
+åˆ é™¤æ–‡ä»¶è¡Œä¸­éƒ¨åˆ†å†…å®¹
++ [Cutå‘½ä»¤ç¤ºä¾‹](https://mp.weixin.qq.com/s/THSmreoxMS9TsygUlGHA-A)
 ```console
-# -b(byte) °´Ö¸¶¨×Ö½ÚÊı½ØÈ¡ÄÚÈİ
-# -b 1-8 ½ØÈ¡µÚ1µ½8×Ö½Ú
-# -b 2,5,7 ½ØÈ¡µÚ2,5,7×Ö½Ú
-# -b 1-3,5-7 ½ØÈ¡µÚ1µ½3×Ö½Ú¼ÓµÚ5µ½7×Ö½Ú
-# -b 1- ½ØÈ¡µÚ1µ½ĞĞÄ©Î²×Ö½Ú
-# -b -8 ½ØÈ¡ĞĞÊ×µ½µÚ8×Ö½Ú
+# -b(byte) æŒ‰æŒ‡å®šå­—èŠ‚æ•°æˆªå–å†…å®¹
+# -b 1-8 æˆªå–ç¬¬1åˆ°8å­—èŠ‚
+# -b 2,5,7 æˆªå–ç¬¬2,5,7å­—èŠ‚
+# -b 1-3,5-7 æˆªå–ç¬¬1åˆ°3å­—èŠ‚åŠ ç¬¬5åˆ°7å­—èŠ‚
+# -b 1- æˆªå–ç¬¬1åˆ°è¡Œæœ«å°¾å­—èŠ‚
+# -b -8 æˆªå–è¡Œé¦–åˆ°ç¬¬8å­—èŠ‚
 strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -b 1-8
 MESSAGE=
 MESSAGE=
 
-# -c (column) °´Ö¸¶¨ÁĞÊı½ØÈ¡ÄÚÈİ
-# ÓÃ·¨ºÍ-bÀàËÆ
-# -c 1,3,6 ½ØÈ¡µÚ1,3,6×Ö½Ú
+# -c (column) æŒ‰æŒ‡å®šåˆ—æ•°æˆªå–å†…å®¹
+# ç”¨æ³•å’Œ-bç±»ä¼¼
+# -c 1,3,6 æˆªå–ç¬¬1,3,6å­—èŠ‚
 strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -c 1,3,6
 MSG
 MSG
 
-# -d "delimiter" Ö¸¶¨·Ö¸ô·û
-# -f (field) °´·Ö¸ôºóµÄ×Ö¶Î½ØÈ¡ÄÚÈİ 
-# -f 1Ö¸¶¨split³öµÄÊı×éµÚÒ»¸ö£¬-f 2Ö¸¶¨split³öµÄÊı×éµÚ¶ş¸ö
+# -d "delimiter" æŒ‡å®šåˆ†éš”ç¬¦
+# -f (field) æŒ‰åˆ†éš”åçš„å­—æ®µæˆªå–å†…å®¹ 
+# -f 1æŒ‡å®šsplitå‡ºçš„æ•°ç»„ç¬¬ä¸€ä¸ªï¼Œ-f 2æŒ‡å®šsplitå‡ºçš„æ•°ç»„ç¬¬äºŒä¸ª
 strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 2
 kscreen.xcb.helper: RRScreenChangeNotify
 kscreen.xcb.helper:     Window: 35651588
 
-# --output-delimiter ½«·Ö¸ô·ûÌæ»»³ÉÖ¸¶¨ÏÔÊ¾×Ö·û½ØÈ¡ÄÚÈİ
+# --output-delimiter å°†åˆ†éš”ç¬¦æ›¿æ¢æˆæŒ‡å®šæ˜¾ç¤ºå­—ç¬¦æˆªå–å†…å®¹
 strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 1,2  --output-delimiter='=%='
 MESSAGE=%=kscreen.xcb.helper: RRScreenChangeNotify
 MESSAGE=%=kscreen.xcb.helper:     Window: 35651588
 ```
 
 #### jq
-ÓÃÃüÁîÀ´[½âÎöºÍ¸ñÊ½»¯Êä³ö JSON](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614864&idx=2&sn=788bd41fde948f2704d4671d0c6e1b31)
+ç”¨å‘½ä»¤æ¥[è§£æå’Œæ ¼å¼åŒ–è¾“å‡º JSON](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614864&idx=2&sn=788bd41fde948f2704d4671d0c6e1b31)
 ```console
 cat name.json 
 [{"id": 1, "name": "Arthur", "age": "21"},{"id": 2, "name": "Richard", "age": "32"}]
-# ¸ñÊ½»¯JSONÊı¾İ '.'ÊÇ×î¼òµ¥µÄ¸ñÊ½»¯filter
+# æ ¼å¼åŒ–JSONæ•°æ® '.'æ˜¯æœ€ç®€å•çš„æ ¼å¼åŒ–filter
 cat name.json | jq '.'
 [
   {
@@ -2610,7 +2617,7 @@ cat name.json | jq '.'
   }
 ]
 
-# ¸ù¾İfilter²éÑ¯value
+# æ ¹æ®filteræŸ¥è¯¢value
 cat name.json | jq '.[0]'
 {
   "id": 1,
@@ -2620,35 +2627,35 @@ cat name.json | jq '.[0]'
 cat name.json | jq '.[0].name'
 "Arthur"
 
-# ÕûĞÎid½øĞĞ¼Ó·¨¼ÆËã
+# æ•´å½¢idè¿›è¡ŒåŠ æ³•è®¡ç®—
 cat name.json | jq '.[0].id + 10'
 11
 ```
-¼ì²éÒ»¸ö XMLÎÄµµÊÇ·ñÊÇËùÓĞµÄ tag ¶¼Õı³£
+æ£€æŸ¥ä¸€ä¸ª XMLæ–‡æ¡£æ˜¯å¦æ˜¯æ‰€æœ‰çš„ tag éƒ½æ­£å¸¸
 ```cosole
 xmlwf cocre.xml
 cocre.xml:13:23: mismatched tag
 ```
 
 #### pandoc
-+[pandocÖ§³ÖµÄ¸ñÊ½](https://hackage.haskell.org/package/pandoc)
++[pandocæ”¯æŒçš„æ ¼å¼](https://hackage.haskell.org/package/pandoc)
 
-Ê¹ÓÃ Pandoc ½« Markdown ¸ñÊ½µÄÎÄ¼ş×ª»»Îª HTML
+ä½¿ç”¨ Pandoc å°† Markdown æ ¼å¼çš„æ–‡ä»¶è½¬æ¢ä¸º HTML
 ```console
-# ½«²úÉúµÄµÄHTMLÔ´ÂëÊä³öµ½stdout
+# å°†äº§ç”Ÿçš„çš„HTMLæºç è¾“å‡ºåˆ°stdout
 pandoc -t html file.md
 
-# ½«mdÎÄ¼ş×ª»»³Éx.htmlÎÄ¼ş
+# å°†mdæ–‡ä»¶è½¬æ¢æˆx.htmlæ–‡ä»¶
 pandoc -t html5 samples_21_9.md -o x.html
 ```
 
 #### script
-+ [¼ÇÂ¼ºÍÖØ·ÅÖÕ¶Ë»á»°»î¶¯](https://mp.weixin.qq.com/s/ENMxkfB9tfzwd2sVpvt5Fw)
++ [è®°å½•å’Œé‡æ”¾ç»ˆç«¯ä¼šè¯æ´»åŠ¨](https://mp.weixin.qq.com/s/ENMxkfB9tfzwd2sVpvt5Fw)
 
-Â¼ÖÆÒ»¸ösessionÖĞ¶à¸öÃüÁî½»»¥Êä³ö
+å½•åˆ¶ä¸€ä¸ªsessionä¸­å¤šä¸ªå‘½ä»¤äº¤äº’è¾“å‡º
 ```console
-# Æô¶¯Ò»´ÎsessionÂ¼ÖÆ,Ä¬ÈÏÂ¼ÖÆÎÄ¼şÃûtypescript
-# script [file-name] ¿ÉÒÔÖ¸¶¨Â¼ÖÆÎÄ¼şÃû
+# å¯åŠ¨ä¸€æ¬¡sessionå½•åˆ¶,é»˜è®¤å½•åˆ¶æ–‡ä»¶åtypescript
+# script [file-name] å¯ä»¥æŒ‡å®šå½•åˆ¶æ–‡ä»¶å
 script
 Script started, file is typescript
 whoami
@@ -2663,14 +2670,14 @@ exit
 exit
 Script done, file is typescript
 
-# ²é¿´Â¼ÖÆÊä³ö
+# æŸ¥çœ‹å½•åˆ¶è¾“å‡º
 cat typescript
 ```
 
 #### tee
-+ [½«ÖÕ¶ËÖĞÃüÁîµÄÊä³ö±£´æµ½ÎÄ¼şÖĞ](https://mp.weixin.qq.com/s/3rwzyuA8R327wOvNax74Eg)   
++ [å°†ç»ˆç«¯ä¸­å‘½ä»¤çš„è¾“å‡ºä¿å­˜åˆ°æ–‡ä»¶ä¸­](https://mp.weixin.qq.com/s/3rwzyuA8R327wOvNax74Eg)   
 
-´Ó±ê×¼ÊäÈëÖĞ¶ÁÈ¡ÄÚÈİÈ»ºóĞ´Èëµ½±ê×¼Êä³öºÍÎÄ¼şÖĞ,ÓëÖØ¶¨Ïò·ûÀàËÆ
+ä»æ ‡å‡†è¾“å…¥ä¸­è¯»å–å†…å®¹ç„¶åå†™å…¥åˆ°æ ‡å‡†è¾“å‡ºå’Œæ–‡ä»¶ä¸­,ä¸é‡å®šå‘ç¬¦ç±»ä¼¼
 ```console
 $ echo 123 | tee a.log
 $ cat a.log
@@ -2685,19 +2692,19 @@ $ cat a.log
 ---
 
 #### kill
-¿ÉÒÔÍ¨¹ıÈçÏÂÈıÖÖ·½Ê½·¢ËÍSIGTERM signal¸øÖ¸¶¨½ø³Ì
+å¯ä»¥é€šè¿‡å¦‚ä¸‹ä¸‰ç§æ–¹å¼å‘é€SIGTERM signalç»™æŒ‡å®šè¿›ç¨‹
 ```console
 kill 1234
 kill -TERM 1234
 kill -15 1234
 ```
-¿ÉÒÔÍ¨¹ıÈçÏÂÁ½ÖÖ·½Ê½·¢ËÍSIGKILL signal¸øÖ¸¶¨½ø³Ì
+å¯ä»¥é€šè¿‡å¦‚ä¸‹ä¸¤ç§æ–¹å¼å‘é€SIGKILL signalç»™æŒ‡å®šè¿›ç¨‹
 ```console
 kill -KILL 1234
 kill -9 1234
 ```
-Èç¹û-9²Ù×÷Ê§°Ü£¬»¹¿ÉÒÔÍ¨¹ı-HUPÖÕ½á½©Ê¬½ø³Ì
-+ [kill -9 ½ø³ÌÉ±²»µô](https://mp.weixin.qq.com/s/TIazT0XF-kC0d8fXTx_ALg)
+å¦‚æœ-9æ“ä½œå¤±è´¥ï¼Œè¿˜å¯ä»¥é€šè¿‡-HUPç»ˆç»“åƒµå°¸è¿›ç¨‹
++ [kill -9 è¿›ç¨‹æ€ä¸æ‰](https://mp.weixin.qq.com/s/TIazT0XF-kC0d8fXTx_ALg)
 + [kill -15 vs -9](https://mp.weixin.qq.com/s/eDTbZ44uMmBwa8xPSLDkfg)
 ---
 
@@ -2709,45 +2716,45 @@ vi +18809 /var/log/sshd.log
 
   Operation  | Description
 ------------- | -------------
-   Home        |  ¹â±êµ½ĞĞÊ×
-   End            |  ¹â±êµ½ĞĞÎ²
-Page Up/Down | ÉÏÏÂ·­Ò³
-   G            |  ¹â±êµ½ÎÄÄ©ĞĞ
-   gg            |  ¹â±êµ½ÎÄÊ×ĞĞ
-   :line           |  :15 Ìøµ½15ĞĞ
-   x           |  É¾³ı¹â±ê´¦×Ö·û, 3xÉ¾³ı¹â±ê´¦ÏòÓÒµÄÈı¸ö×Ö·û
-   dd         |  É¾³ı, ¼ôÇĞ ¹â±êËùÔÚĞĞ, 3dd´Óµ±Ç°ĞĞ¿ªÊ¼ÏòÏÂÉ¾³ıÈıĞĞÎÄ±¾
-   o(open)         |  ÔÚ¹â±êĞĞÉÏĞÂ¿ªÒ»ĞĞ
-   O(open)         |  ÔÚ¹â±êĞĞÏÂĞÂ¿ªÒ»ĞĞ
-   u           |  È¡Ïû×î½üÒ»´ÎµÄ²Ù×÷£¬¿ÉÒÔÊ¹ÓÃ¶à´ÎÀ´»Ö¸´Ô­ÓĞµÄ²Ù×÷
-  Ctrl+r        |  »ØÍËÊ¹ÓÃuÃüÁîµÄÈ¡Ïû²Ù×÷
-   yy           | ¸´ÖÆµ±Ç°ÕûĞĞµÄÄÚÈİµ½vi»º³åÇø, 5yy¾ÍÊÇ¸´ÖÆ5ĞĞ
-   m, ny         | :3,5y ¸´ÖÆµÚÈıĞĞµ½µÚÎåĞĞÄÚÈİµ½»º´æÇø
-   yw           | ¸´ÖÆÒ»¸öµ¥´Ê, 2yw¾ÍÊÇ¸´ÖÆÁ½¸öµ¥´Ê
-   y          | ¸´ÖÆ¹â±êËùÔÚÎ»ÖÃµ½ĞĞÎ²ÄÚÈİµ½»º´æÇø
-   y^          | ¸´ÖÆ¹â±êËùÔÚÎ»ÖÃµ½ĞĞÊ×ÄÚÈİµ½»º´æÇø
-   p             |  Õ³Ìù»º´æÇø¸´ÖÆµÄÄÚÈİ, 5p¾ÍÊÇÕ³ÌùÎå´Î
-   /             |  ÖÁÉÏ¶øÏÂµÄ²éÕÒ, /work ²éÕÒwork×Ö·û´®, nÏÂÒ»¸ö, shift+nÉÏÒ»¸ö
-   ?             |  ÖÁÏÂ¶øÉÏµÄ²éÕÒ, ?work ²éÕÒwork×Ö·û´®
-   :s/s1/s2             |  :s/old/new ÓÃnewÌæ»»µ±Ç°ĞĞÖĞÊ×´Î³öÏÖµÄold<br>:%s/old/new/g ÓÃnewÌæ»»È«ÎÄÖĞËùÓĞ³öÏÖµÄold<br>:m,n s/old/new/gÓÃnewÌæ»»´ÓµÚmĞĞµ½µÚnĞĞÖĞ³öÏÖµÄold<br>:%s/old//n Í³¼ÆÈ«ÎÄ³öÏÖµÄoldµÄ´ÎÊı<br>:s/old/new/g ÓÃnewÌæ»»µ±Ç°ĞĞÖĞËùÓĞ³öÏÖµÄold<br>:s/old/new/c »ò :s/old/new/gc Ç¿ÖÆÃ¿¸öÌæ»»ĞèÒªÓÃ»§½øĞĞÈ·ÈÏ
-   i(insert)   |  ¹â±ê´¦²åÈë±à¼­
-   I(insert)   |  ¹â±êĞĞÊ×´¦²åÈë±à¼­
-   a(append)   |  ¹â±êºó±à¼­
-   A(append)   |  ¹â±êĞĞÎ²±à¼­
-   :sp [filename]   |  ÔÚÍ¬Ò»±à¼­´°´ò¿ªµÚ¶ş¸öÎÄ¼ş
-  Ctrl+w        |  ÔÚÍ¬´°¿Ú¶à¸ö±à¼­ÎÄ¼şÖ®¼äÇĞ»»
-Shift+Insert   |  Õ³ÌùÏµÍ³¼ôÌù°åÄÚÈİ
-   q:   |  ÁĞ³övi×î½üÖ´ĞĞ¹ıµÄÃüÁî,¿ÉÑ¡ÖĞÖ´ĞĞ
-   :his   |  ÁĞ³övi×î½üÖ´ĞĞ¹ıµÄÃüÁî,½ö²é¿´
-   :his /   |  ÁĞ³övi×î½üËÑË÷¹ıµÄ¹Ø¼ü×Ö
-   :help [ÄÚÈİ»òÃüÁî]   |  ²é¿´°ïÖúÎÄµµ
+   Home        |  å…‰æ ‡åˆ°è¡Œé¦–
+   End            |  å…‰æ ‡åˆ°è¡Œå°¾
+Page Up/Down | ä¸Šä¸‹ç¿»é¡µ
+   G            |  å…‰æ ‡åˆ°æ–‡æœ«è¡Œ
+   gg            |  å…‰æ ‡åˆ°æ–‡é¦–è¡Œ
+   :line           |  :15 è·³åˆ°15è¡Œ
+   x           |  åˆ é™¤å…‰æ ‡å¤„å­—ç¬¦, 3xåˆ é™¤å…‰æ ‡å¤„å‘å³çš„ä¸‰ä¸ªå­—ç¬¦
+   dd         |  åˆ é™¤, å‰ªåˆ‡ å…‰æ ‡æ‰€åœ¨è¡Œ, 3ddä»å½“å‰è¡Œå¼€å§‹å‘ä¸‹åˆ é™¤ä¸‰è¡Œæ–‡æœ¬
+   o(open)         |  åœ¨å…‰æ ‡è¡Œä¸Šæ–°å¼€ä¸€è¡Œ
+   O(open)         |  åœ¨å…‰æ ‡è¡Œä¸‹æ–°å¼€ä¸€è¡Œ
+   u           |  å–æ¶ˆæœ€è¿‘ä¸€æ¬¡çš„æ“ä½œï¼Œå¯ä»¥ä½¿ç”¨å¤šæ¬¡æ¥æ¢å¤åŸæœ‰çš„æ“ä½œ
+  Ctrl+r        |  å›é€€ä½¿ç”¨uå‘½ä»¤çš„å–æ¶ˆæ“ä½œ
+   yy           | å¤åˆ¶å½“å‰æ•´è¡Œçš„å†…å®¹åˆ°viç¼“å†²åŒº, 5yyå°±æ˜¯å¤åˆ¶5è¡Œ
+   m, ny         | :3,5y å¤åˆ¶ç¬¬ä¸‰è¡Œåˆ°ç¬¬äº”è¡Œå†…å®¹åˆ°ç¼“å­˜åŒº
+   yw           | å¤åˆ¶ä¸€ä¸ªå•è¯, 2ywå°±æ˜¯å¤åˆ¶ä¸¤ä¸ªå•è¯
+   y          | å¤åˆ¶å…‰æ ‡æ‰€åœ¨ä½ç½®åˆ°è¡Œå°¾å†…å®¹åˆ°ç¼“å­˜åŒº
+   y^          | å¤åˆ¶å…‰æ ‡æ‰€åœ¨ä½ç½®åˆ°è¡Œé¦–å†…å®¹åˆ°ç¼“å­˜åŒº
+   p             |  ç²˜è´´ç¼“å­˜åŒºå¤åˆ¶çš„å†…å®¹, 5på°±æ˜¯ç²˜è´´äº”æ¬¡
+   /             |  è‡³ä¸Šè€Œä¸‹çš„æŸ¥æ‰¾, /work æŸ¥æ‰¾workå­—ç¬¦ä¸², nä¸‹ä¸€ä¸ª, shift+nä¸Šä¸€ä¸ª
+   ?             |  è‡³ä¸‹è€Œä¸Šçš„æŸ¥æ‰¾, ?work æŸ¥æ‰¾workå­—ç¬¦ä¸²
+   :s/s1/s2             |  :s/old/new ç”¨newæ›¿æ¢å½“å‰è¡Œä¸­é¦–æ¬¡å‡ºç°çš„old<br>:%s/old/new/g ç”¨newæ›¿æ¢å…¨æ–‡ä¸­æ‰€æœ‰å‡ºç°çš„old<br>:m,n s/old/new/gç”¨newæ›¿æ¢ä»ç¬¬mè¡Œåˆ°ç¬¬nè¡Œä¸­å‡ºç°çš„old<br>:%s/old//n ç»Ÿè®¡å…¨æ–‡å‡ºç°çš„oldçš„æ¬¡æ•°<br>:s/old/new/g ç”¨newæ›¿æ¢å½“å‰è¡Œä¸­æ‰€æœ‰å‡ºç°çš„old<br>:s/old/new/c æˆ– :s/old/new/gc å¼ºåˆ¶æ¯ä¸ªæ›¿æ¢éœ€è¦ç”¨æˆ·è¿›è¡Œç¡®è®¤
+   i(insert)   |  å…‰æ ‡å¤„æ’å…¥ç¼–è¾‘
+   I(insert)   |  å…‰æ ‡è¡Œé¦–å¤„æ’å…¥ç¼–è¾‘
+   a(append)   |  å…‰æ ‡åç¼–è¾‘
+   A(append)   |  å…‰æ ‡è¡Œå°¾ç¼–è¾‘
+   :sp [filename]   |  åœ¨åŒä¸€ç¼–è¾‘çª—æ‰“å¼€ç¬¬äºŒä¸ªæ–‡ä»¶
+  Ctrl+w        |  åœ¨åŒçª—å£å¤šä¸ªç¼–è¾‘æ–‡ä»¶ä¹‹é—´åˆ‡æ¢
+Shift+Insert   |  ç²˜è´´ç³»ç»Ÿå‰ªè´´æ¿å†…å®¹
+   q:   |  åˆ—å‡ºviæœ€è¿‘æ‰§è¡Œè¿‡çš„å‘½ä»¤,å¯é€‰ä¸­æ‰§è¡Œ
+   :his   |  åˆ—å‡ºviæœ€è¿‘æ‰§è¡Œè¿‡çš„å‘½ä»¤,ä»…æŸ¥çœ‹
+   :his /   |  åˆ—å‡ºviæœ€è¿‘æœç´¢è¿‡çš„å…³é”®å­—
+   :help [å†…å®¹æˆ–å‘½ä»¤]   |  æŸ¥çœ‹å¸®åŠ©æ–‡æ¡£
 
 ---
 
 ### Network Config
 #### show network details
-+ [¼ì²éÍø¿¨ĞÅÏ¢](https://mp.weixin.qq.com/s/fRUmwKVXSuTHLaQSwC3rQQ)
-+ [ipÃüÁîÌæ»»ifconfig](https://mp.weixin.qq.com/s/tTLMmZkZguJkx0s3NVS4gg)
++ [æ£€æŸ¥ç½‘å¡ä¿¡æ¯](https://mp.weixin.qq.com/s/fRUmwKVXSuTHLaQSwC3rQQ)
++ [ipå‘½ä»¤æ›¿æ¢ifconfig](https://mp.weixin.qq.com/s/tTLMmZkZguJkx0s3NVS4gg)
 ```console
 # list ip local port range
 cat /proc/sys/net/ipv4/ip_local_port_range
@@ -2771,35 +2778,35 @@ cat /sys/class/net/eth0/speed
 + iptables tutorial[[1](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules), [2](https://www.frozentux.net/iptables-tutorial/chunkyhtml/index.html)]
 + [iptables-match-extensions](http://ipset.netfilter.org/iptables-extensions.man.html)
 + nftables[[1](https://mp.weixin.qq.com/s/mWG6mZf9ZBAzMngzWkiHAA), [2](https://mp.weixin.qq.com/s/9uigzKLaSYAPkivaYqEHrw)]
-+ [·À»ğÇ½ufw¼ò½é](https://mp.weixin.qq.com/s/ah0cT35qzooxFdZ8tMSZCQ)
-+ [FirewallDÖ§³Öiptablesµ½nftablesÑİ½ø](https://mp.weixin.qq.com/s/y0cBmkpuRm8ZOCG3yg8CGg)
-+ [¸ú×ÙÍøÂçµØÖ·×ª»»(NAT)±¨ÎÄ](https://mp.weixin.qq.com/s/wRrQuxMxuc1StZ6Wj-sLtg)
++ [é˜²ç«å¢™ufwç®€ä»‹](https://mp.weixin.qq.com/s/ah0cT35qzooxFdZ8tMSZCQ)
++ [FirewallDæ”¯æŒiptablesåˆ°nftablesæ¼”è¿›](https://mp.weixin.qq.com/s/y0cBmkpuRm8ZOCG3yg8CGg)
++ [è·Ÿè¸ªç½‘ç»œåœ°å€è½¬æ¢(NAT)æŠ¥æ–‡](https://mp.weixin.qq.com/s/wRrQuxMxuc1StZ6Wj-sLtg)
 
 ```console
-# ÁĞ³ö·À»ğÇ½ËùÓĞ¹æÔò£¬°´¹æÔòºÅÏÔÊ¾
+# åˆ—å‡ºé˜²ç«å¢™æ‰€æœ‰è§„åˆ™ï¼ŒæŒ‰è§„åˆ™å·æ˜¾ç¤º
 # --list/-L  List all the rules
 sudo iptables -L --line-numbers  
 # List INPUT chain rules
 sudo iptables -L INPUT --line-numbers  
 
-# É¾³ıINPUT±íµÄµÚÈıÌõ¹æÔò
+# åˆ é™¤INPUTè¡¨çš„ç¬¬ä¸‰æ¡è§„åˆ™
 # --delete/-D  Delete the third rule in INPUT chain
 sudo iptables -D INPUT 3 
 
-# CentOS iptables ´ò¿ª¶Ë¿Ú3306 
-# --insert/-I ±íÊ¾²åÈëINPUT±íÍ·
-# --append/-A ±íÊ¾×·¼ÓINPUT±íÎ²
-# --protocol/-p ±íÊ¾¹æÔòÄ¿±êĞ­Òé
-# --dport ±íÊ¾¹æÔòÄ¿±ê¶Ë¿Ú
+# CentOS iptables æ‰“å¼€ç«¯å£3306 
+# --insert/-I è¡¨ç¤ºæ’å…¥INPUTè¡¨å¤´
+# --append/-A è¡¨ç¤ºè¿½åŠ INPUTè¡¨å°¾
+# --protocol/-p è¡¨ç¤ºè§„åˆ™ç›®æ ‡åè®®
+# --dport è¡¨ç¤ºè§„åˆ™ç›®æ ‡ç«¯å£
 # --jump/-j <target>, target are [ACCEPT/DROP/REJECT/LOG/CLASSIFY/DNAT...]
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT 
 
-# °Ñ8081¶Ë¿Ú¹æÔòÌí¼ÓINPUT±íÎ²
+# æŠŠ8081ç«¯å£è§„åˆ™æ·»åŠ INPUTè¡¨å°¾
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
-# °Ñ6831¶Ë¿ÚÔÊĞítracerÓÃ»§·¢ËÍudp±¨ÎÄ¹æÔòÌí¼ÓOUTPUT±íÎ²
+# æŠŠ6831ç«¯å£å…è®¸tracerç”¨æˆ·å‘é€udpæŠ¥æ–‡è§„åˆ™æ·»åŠ OUTPUTè¡¨å°¾
 iptables -A OUTPUT -p udp --dport 6831 -m owner --uid-owner tracer -j ACCEPT
 
-# ÔÚÒ»Ìõ¹æÔòÖĞÔÊĞí¶à¸ö¶Ë¿Ú
+# åœ¨ä¸€æ¡è§„åˆ™ä¸­å…è®¸å¤šä¸ªç«¯å£
 # -m multiport --dports
 iptables -A OUTPUT -p udp -m multiport --dports 5775,6831,6832 -j ACCEPT
 
@@ -2807,26 +2814,26 @@ iptables -A OUTPUT -p udp -m multiport --dports 5775,6831,6832 -j ACCEPT
 # --in-interface/-i  network interface name
 iptables -A INPUT -i lo -j ACCEPT
 
-# Éè¶¨chainµÄÄ¬ÈÏpolicy
-# -P, --policy Ö¸¶¨chainµÄdefault policyÎªDROP/ACCEPT
-# AcceptÒâÎ¶chainÖĞÃ»ÓĞÆ¥Åä¹æÔò, ÔòÔÊĞítraffic
-# DropÒâÎ¶chainÖĞÃ»ÓĞÆ¥Åä¹æÔò, Ôò½ûÖ¹traffic
+# è®¾å®šchainçš„é»˜è®¤policy
+# -P, --policy æŒ‡å®šchainçš„default policyä¸ºDROP/ACCEPT
+# Acceptæ„å‘³chainä¸­æ²¡æœ‰åŒ¹é…è§„åˆ™, åˆ™å…è®¸traffic
+# Dropæ„å‘³chainä¸­æ²¡æœ‰åŒ¹é…è§„åˆ™, åˆ™ç¦æ­¢traffic
 iptables -P INPUT DROP
 
-# ĞŞ¸Ä¹ıµÄ¹æÔòÈç¹ûÃ»±£´æ£¬»áÔÚÖØÆôiptablesºóÊ§Ğ§
+# ä¿®æ”¹è¿‡çš„è§„åˆ™å¦‚æœæ²¡ä¿å­˜ï¼Œä¼šåœ¨é‡å¯iptablesåå¤±æ•ˆ
 $ service iptables save 
 $ service iptables status  
 $ /etc/init.d/iptables status
-# ÓĞĞ©ÏµÍ³Í¨¹ısystemctl¹ÜÀí·şÎñ
+# æœ‰äº›ç³»ç»Ÿé€šè¿‡systemctlç®¡ç†æœåŠ¡
 $ systemctl stop iptables
 $ systemctl disable iptables
 $ systemctl status iptables
 
-# Stop/disable iptables firewall·şÎñ
-# ÓĞĞ©¾ÉLinux kernelÌá¹© 'service iptables stop' ²Ù×÷£¬µ«Èç¹ûÊÇnew kernelÔòÃ»ÓĞ´ËÃüÁî
-# ±ØĞëÍ¨¹ıÏÂÃæÒ»ÏµÁĞiptablesÃüÁî²Ù×÷À´É¾³ıËùÓĞ¹æÔò
+# Stop/disable iptables firewallæœåŠ¡
+# æœ‰äº›æ—§Linux kernelæä¾› 'service iptables stop' æ“ä½œï¼Œä½†å¦‚æœæ˜¯new kernelåˆ™æ²¡æœ‰æ­¤å‘½ä»¤
+# å¿…é¡»é€šè¿‡ä¸‹é¢ä¸€ç³»åˆ—iptableså‘½ä»¤æ“ä½œæ¥åˆ é™¤æ‰€æœ‰è§„åˆ™
 # --flush   -F [chain]		Delete all rules in chain or all chains
-# Êµ¼Ê²Ù×÷ÖĞÓöµ½¹ıÃüÁîÖ´ĞĞÍêµ¼ÖÂÔ¶¶Ë»úÆ÷ssh²»ÉÏ£¬ping²»µ½¡£ÕâÖÖ·½Ê½¿ÉÄÜĞèÒªÔÚ±¾»úÖ´ĞĞ²Å°²È«
+# å®é™…æ“ä½œä¸­é‡åˆ°è¿‡å‘½ä»¤æ‰§è¡Œå®Œå¯¼è‡´è¿œç«¯æœºå™¨sshä¸ä¸Šï¼Œpingä¸åˆ°ã€‚è¿™ç§æ–¹å¼å¯èƒ½éœ€è¦åœ¨æœ¬æœºæ‰§è¡Œæ‰å®‰å…¨
 $ iptables -F
 # -X [chain]		Delete a user-defined chain
 $ iptables -X
@@ -2834,7 +2841,7 @@ $ iptables -X
 $ iptables -P INPUT ACCEPT
 $ iptables -P OUTPUT ACCEPT
 $ iptables -P FORWARD ACCEPT
-# ¼ì²éÉ¾³ı½á¹û,ËùÓĞrules¶¼±»É¾³ıÁË
+# æ£€æŸ¥åˆ é™¤ç»“æœ,æ‰€æœ‰ruleséƒ½è¢«åˆ é™¤äº†
 $ iptables -L
 Chain INPUT (policy ACCEPT)
 target     prot opt source               destination
@@ -2845,49 +2852,49 @@ target     prot opt source               destination
 Chain OUTPUT (policy ACCEPT)
 target     prot opt source               destination
 
-# ÏŞÖÆÁ¬½Óµ½80¶Ë¿ÚµÄÍ¬Ò»¸öipµÄ×î´óÁ¬½ÓÊıĞ¡ÓÚ15,³¬¹ıÔò¾Ü¾ø
-# --match/-m À©Õ¹Æ¥ÅäÌõ¼ş[MAC/Owner/Mark/Limit...]
+# é™åˆ¶è¿æ¥åˆ°80ç«¯å£çš„åŒä¸€ä¸ªipçš„æœ€å¤§è¿æ¥æ•°å°äº15,è¶…è¿‡åˆ™æ‹’ç»
+# --match/-m æ‰©å±•åŒ¹é…æ¡ä»¶[MAC/Owner/Mark/Limit...]
 # --connlimit-above <n> Match if the number of existing connections is above n
-# --connlimit-mask <prefix_length> Íø¶ÎÏŞÖÆ,¶ÔÓÚIPv4Ç°×º0-32,¶ÔÓÚIPv6Ç°×º0-128,Ä¬ÈÏÊ¹ÓÃĞ­Òé¶ÔÓ¦×î´óÇ°×º³¤¶È
-# --reject-with tcp-reset ¸æËßREJECT·¢ËÍÒ»¸öTCP RST packet
-# --syn SYN packetÊÇ½¨Á¢TCPÁ¬½ÓÇëÇóµÄµÚÒ»¸ö³õÊ¼±¨ÎÄ£¬Èç¹ûÏ£ÍûÔ¶¶Ëµ½±¾µØ¶Ë¿Ú½¨Á¢Á¬½Ó£¬ĞèÒªÔÊĞí´Ë±¨ÎÄ¡£
-# -m state --state NEW Ö¸¶¨×´Ì¬ºÍSYNµÈÍ¬Ğ§¹û£¬µ«¿ÉÒÔÖ§³ÖTCP/UDP/ICMP
+# --connlimit-mask <prefix_length> ç½‘æ®µé™åˆ¶,å¯¹äºIPv4å‰ç¼€0-32,å¯¹äºIPv6å‰ç¼€0-128,é»˜è®¤ä½¿ç”¨åè®®å¯¹åº”æœ€å¤§å‰ç¼€é•¿åº¦
+# --reject-with tcp-reset å‘Šè¯‰REJECTå‘é€ä¸€ä¸ªTCP RST packet
+# --syn SYN packetæ˜¯å»ºç«‹TCPè¿æ¥è¯·æ±‚çš„ç¬¬ä¸€ä¸ªåˆå§‹æŠ¥æ–‡ï¼Œå¦‚æœå¸Œæœ›è¿œç«¯åˆ°æœ¬åœ°ç«¯å£å»ºç«‹è¿æ¥ï¼Œéœ€è¦å…è®¸æ­¤æŠ¥æ–‡ã€‚
+# -m state --state NEW æŒ‡å®šçŠ¶æ€å’ŒSYNç­‰åŒæ•ˆæœï¼Œä½†å¯ä»¥æ”¯æŒTCP/UDP/ICMP
 iptables -A INPUT -p tcp --syn --dport 80 -m connlimit \
 --connlimit-above 15 --connlimit-mask 32 -j REJECT --reject-with tcp-reset 
 
-# Éè¶¨ÔÚ×î´óÃ¿Ãë150¸öĞÂÁ¬½Ó±¨ÎÄµ½ÏŞÖ®Ç°£¬¿ÉÒÔ×î´óÔÊĞíÊµ¼Ê160¸öĞÂÁ¬½ÓÇëÇó±¨ÎÄ
-# --limit rate[/second|/minute|/hour|/day] ×î´óÆ½¾ù³õÊ¼Á¬½Ó±¨ÎÄËÙÂÊ£¬Ä¬ÈÏ 3/hour
-# --limit-burst ×î´ó³õÊ¼Á¬½Ó±¨ÎÄÊı£¬´ËÅäÖÃÖ»ÓĞÔÚÉÏÃæÁ¬½ÓÂÊÎ´³¬±êÊ±ÉúĞ§£¬Ä¬ÈÏÊÇ5
+# è®¾å®šåœ¨æœ€å¤§æ¯ç§’150ä¸ªæ–°è¿æ¥æŠ¥æ–‡åˆ°é™ä¹‹å‰ï¼Œå¯ä»¥æœ€å¤§å…è®¸å®é™…160ä¸ªæ–°è¿æ¥è¯·æ±‚æŠ¥æ–‡
+# --limit rate[/second|/minute|/hour|/day] æœ€å¤§å¹³å‡åˆå§‹è¿æ¥æŠ¥æ–‡é€Ÿç‡ï¼Œé»˜è®¤ 3/hour
+# --limit-burst æœ€å¤§åˆå§‹è¿æ¥æŠ¥æ–‡æ•°ï¼Œæ­¤é…ç½®åªæœ‰åœ¨ä¸Šé¢è¿æ¥ç‡æœªè¶…æ ‡æ—¶ç”Ÿæ•ˆï¼Œé»˜è®¤æ˜¯5
 iptables -A INPUT -m state --state RELATED,ESTABLISHED -m limit \
 --limit 150/second --limit-burst 160 -j ACCEPT
 
-# ´´½¨Ò»¸öchain ÃüÃûMY_CHAIN
+# åˆ›å»ºä¸€ä¸ªchain å‘½åMY_CHAIN
 iptables -N MY_CHAIN
-# Éè¶¨ÈÕÖ¾¸ñÊ½,½øÈëMY_CHAIN´¦ÀíµÄpacket,ÈÕÖ¾Êä³öµ½syslog È»ºó¾Üµô.·µ»Øicmp port²»¿É´ï
+# è®¾å®šæ—¥å¿—æ ¼å¼,è¿›å…¥MY_CHAINå¤„ç†çš„packet,æ—¥å¿—è¾“å‡ºåˆ°syslog ç„¶åæ‹’æ‰.è¿”å›icmp portä¸å¯è¾¾
 iptables -A MY_CHAIN -j LOG --log-prefix "XXXXX: " --log-level warning                 
-# Ä¬ÈÏREJECT·µ»Ø·¢Æğ·½icmp-port-unreachable,Èç¹û·ÀÖ¹ÍøÂç¹¥»÷¿ÉÒÔÓÃDROP
-# DROP¶ªÆú±¨ÎÄ²»»Ø¸´,·¢ËÍ·½Ö»ÄÜµÈ´ı³¬Ê±.¶ÔÓÚTCP,×ã¹»³¤³¬Ê±¿ÉÒÔ·ÀÖ¹Æµ·±·¢ÆğÁ¬½Ó
+# é»˜è®¤REJECTè¿”å›å‘èµ·æ–¹icmp-port-unreachable,å¦‚æœé˜²æ­¢ç½‘ç»œæ”»å‡»å¯ä»¥ç”¨DROP
+# DROPä¸¢å¼ƒæŠ¥æ–‡ä¸å›å¤,å‘é€æ–¹åªèƒ½ç­‰å¾…è¶…æ—¶.å¯¹äºTCP,è¶³å¤Ÿé•¿è¶…æ—¶å¯ä»¥é˜²æ­¢é¢‘ç¹å‘èµ·è¿æ¥
 iptables -A MY_CHAIN -j REJECT 
-# LOG targetÂú×ãÌõ¼ş»¹ÄÜ¼ÌĞøÖ´ĞĞºóÃæ¹æÔò
-# ACCEPT/REJECT/DROP Âú×ãÌõ¼ş¾Í²»»áÖ´ĞĞÆäËûtarget
+# LOG targetæ»¡è¶³æ¡ä»¶è¿˜èƒ½ç»§ç»­æ‰§è¡Œåé¢è§„åˆ™
+# ACCEPT/REJECT/DROP æ»¡è¶³æ¡ä»¶å°±ä¸ä¼šæ‰§è¡Œå…¶ä»–target
 iptables -L MY_CHAIN --line-numbers
 Chain LOG_DROP (1 references)
 num  target     prot opt source               destination         
 1    LOG        all  --  anywhere             anywhere             LOG level warning prefix "XXXXX: "
 2    REJECT     all  --  anywhere             anywhere             reject-with icmp-port-unreachable
 
-# ÏÈÉè¶¨Ò»¸öIPµØÖ·Ô´Ö»ÔÊĞíÒ»¸össhÁ¬½Ó ·ñÔò jumpÈëMY_CHAIN
-# È»ºóÉè¶¨ÔÊĞíanywhere·¢ÆğµÄsshÁ¬½Ó
-# ÏŞ¶¨¹æÔòÒª·ÅÇ°Ãæ,·ñÔòÂú×ãACCEPT,²»»áÔÙjumpÆäËûtarget
+# å…ˆè®¾å®šä¸€ä¸ªIPåœ°å€æºåªå…è®¸ä¸€ä¸ªsshè¿æ¥ å¦åˆ™ jumpå…¥MY_CHAIN
+# ç„¶åè®¾å®šå…è®¸anywhereå‘èµ·çš„sshè¿æ¥
+# é™å®šè§„åˆ™è¦æ”¾å‰é¢,å¦åˆ™æ»¡è¶³ACCEPT,ä¸ä¼šå†jumpå…¶ä»–target
 iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
 --state NEW,ESTABLISHED -m connlimit --connlimit-above 2 -j MY_CHAIN
 iptables -A INPUT -i eth0 -p tcp -m tcp --dport 22 -m state \
 --state NEW,ESTABLISHED ACCEPT
 
-# ÔÙ´Îsshµ½Ä¿±ê»úÆ÷ Á¬½Ó±»¾Ü
+# å†æ¬¡sshåˆ°ç›®æ ‡æœºå™¨ è¿æ¥è¢«æ‹’
 ssh root@10.192.120.124
 ssh: connect to host 10.192.120.124 port 22: Connection refused
-# °´Éè¶¨Ç°×ºËÑÑ°ÈÕÖ¾
+# æŒ‰è®¾å®šå‰ç¼€æœå¯»æ—¥å¿—
 # dpt = destination port
 grep -r 'XXXXX:' /var/log
 /var/log/syslog: ... kernel - - - [771409.900044] XXXXX: 
@@ -2909,15 +2916,15 @@ SYN URGP=0
 ```
 
 #### nc
-+ [ncÓÃÍ¾](https://mp.weixin.qq.com/s/kPldmY_BtHyjXi5XGAuTIg)
-+ [nc¿ªÆôºóÃÅ](https://www.jianshu.com/p/c6226ddc0ec4)
-+ [base64ÉÏ´«ÏÂÔØÍ¼Æ¬](https://www.imydl.tech/linux/689.html)
-+ [ÍøËÙÍÌÍÂÁ¿²âÊÔ](https://mp.weixin.qq.com/s/E1M5ro-S1NHAhzkk3ZinNw)   
++ [ncç”¨é€”](https://mp.weixin.qq.com/s/kPldmY_BtHyjXi5XGAuTIg)
++ [ncå¼€å¯åé—¨](https://www.jianshu.com/p/c6226ddc0ec4)
++ [base64ä¸Šä¼ ä¸‹è½½å›¾ç‰‡](https://www.imydl.tech/linux/689.html)
++ [ç½‘é€Ÿååé‡æµ‹è¯•](https://mp.weixin.qq.com/s/E1M5ro-S1NHAhzkk3ZinNw)   
 
 check remote port status
 ```console
 # PORT SCANNING
-# -z ½öÉ¨Ãè¶Ë¿Ú²»·¢ËÍÈÎºÎÊı¾İ
+# -z ä»…æ‰«æç«¯å£ä¸å‘é€ä»»ä½•æ•°æ®
 nc -zv 10.117.7.110 9092
 Connection to 10.117.7.110 9092 port [tcp/*] succeeded!
 # check Range of ports
@@ -2925,46 +2932,46 @@ nc -zv 127.0.0.1 20-30
 # check three ports 22/80/8080
 nc -zv 127.0.0.1 22 80 8080 
 
-# -w Éè¶¨Á¬½Ó³¬Ê±5Ãë
+# -w è®¾å®šè¿æ¥è¶…æ—¶5ç§’
 nc -zv -w 5 10.192.120.124 1235
 nc: connect to 10.192.120.124 port 1235 (tcp) timed out: Operation now in progress
 
-# -u ²âÊÔudpĞ­Òé
+# -u æµ‹è¯•udpåè®®
 nc -uzv 10.117.4.117 5775
 Connection to 10.117.4.117 5775 port [udp/*] succeeded!
 
-# ²âÊÔÂ·¾¶ÖĞ¼Ó´úÀí
-# -X proxy_protocol Ö§³Ö¡°4¡± (SOCKS v.4), ¡°5¡± (SOCKS v.5) and ¡°connect¡± (HTTPS proxy)
-# ²»Ö¸¶¨protocol, SOCKS version 5 is used.
-# -x proxy_address[:port] ¶Ë¿Ú²»Ö¸¶¨Ä¬ÈÏ1080 for SOCKS, 3128 for HTTPS
+# æµ‹è¯•è·¯å¾„ä¸­åŠ ä»£ç†
+# -X proxy_protocol æ”¯æŒâ€œ4â€ (SOCKS v.4), â€œ5â€ (SOCKS v.5) and â€œconnectâ€ (HTTPS proxy)
+# ä¸æŒ‡å®šprotocol, SOCKS version 5 is used.
+# -x proxy_address[:port] ç«¯å£ä¸æŒ‡å®šé»˜è®¤1080 for SOCKS, 3128 for HTTPS
 nc -x10.2.3.4:8080 -Xconnect -Puser -w5 host.example.com 42
 
-# ÓÃnetcat×öserver¶Ë²âÊÔ½ÓÊÜÍâ²¿Á¬½Ó
-# -k Forces nc to stay listening for another connection after its current connection is completed. ±ØĞëºÍ -lºÏÓÃ
+# ç”¨netcatåšserverç«¯æµ‹è¯•æ¥å—å¤–éƒ¨è¿æ¥
+# -k Forces nc to stay listening for another connection after its current connection is completed. å¿…é¡»å’Œ -låˆç”¨
 # -l Used to specify that nc should listen for an incoming connection rather than initiate a connection to a remote host.  
-# ÔÚ±¾»ú¼àÌı9999 incomingµÄÁ¬½Ó
+# åœ¨æœ¬æœºç›‘å¬9999 incomingçš„è¿æ¥
 nc -lk 9999
-# ´´½¨²¢¼àÌıÒ»¸öUnix Domain Socket
+# åˆ›å»ºå¹¶ç›‘å¬ä¸€ä¸ªUnix Domain Socket
 nc -lU /var/tmp/dsocket
 
 # DATA TRANSFER
-# ½«nc¼àÌıµÄincomming connection´«ÊäµÄÊı¾İ²¶»ñµ½ÎÄ¼şÖĞ
+# å°†ncç›‘å¬çš„incomming connectionä¼ è¾“çš„æ•°æ®æ•è·åˆ°æ–‡ä»¶ä¸­
 nc -lv 1234 > filename.out
-# Í¨¹ınc½¨Á¢Á¬½Ó°ÑÎÄ¼şÄÚÈİtransfer¹ıÈ¥£¬´«ÊäÍê³ÉºóÁ¬½Ó½«×Ô¶¯¹Ø±Õ
+# é€šè¿‡ncå»ºç«‹è¿æ¥æŠŠæ–‡ä»¶å†…å®¹transferè¿‡å»ï¼Œä¼ è¾“å®Œæˆåè¿æ¥å°†è‡ªåŠ¨å…³é—­
 nc 10.83.0.254 1234 < filename.in
-# Ò²¿ÉÒÔÒ»ĞĞĞĞÊäÈë´«ÊäÄÚÈİ
+# ä¹Ÿå¯ä»¥ä¸€è¡Œè¡Œè¾“å…¥ä¼ è¾“å†…å®¹
 nc 10.83.0.254 25 << EOF 
 > HELLO host.example.com
 > EOF
-# ´¦ÀíÊÕµ½µÄweb siteµÄhome pageÊı¾İ
+# å¤„ç†æ”¶åˆ°çš„web siteçš„home pageæ•°æ®
 echo -n "GET / HTTP/1.0\r\n\r\n" | nc host.example.com 80
 
-# ½¨Á¢Ô¶¶Ëport 42µÄTCPÁ¬½Ó£¬²¢Ê¹ÓÃ10.1.2.3×÷Îª±¾µØÁ¬½ÓIPµØÖ·
+# å»ºç«‹è¿œç«¯port 42çš„TCPè¿æ¥ï¼Œå¹¶ä½¿ç”¨10.1.2.3ä½œä¸ºæœ¬åœ°è¿æ¥IPåœ°å€
 nc -s 10.1.2.3 host.example.com 42
 
-# ½¨Á¢Ò»¸ö¼òµ¥µÄweb server
+# å»ºç«‹ä¸€ä¸ªç®€å•çš„web server
 while true;do { printf '%b\r\n' 'HTTP/1.1 200 OK' '\r\n';cat index.html; }|nc -l 9999;done
-# ä¯ÀÀÆ÷·ÃÎÊhttp://10.83.0.254:9999 »òÕßÊ¹ÓÃcurlÃüÁî
+# æµè§ˆå™¨è®¿é—®http://10.83.0.254:9999 æˆ–è€…ä½¿ç”¨curlå‘½ä»¤
 nc 10.83.0.254 9999
 HTTP/1.1 200 OK
 ```
@@ -2985,7 +2992,7 @@ cat /proc/net/arp
 + [Tcpdump Http Tutorial](https://danielmiessler.com/study/tcpdump/#examples)
 + [Tcpdump Http Examples](https://hackertarget.com/tcpdump-examples/)
 ```console
-# ÁĞ³öµ±Ç°»úÆ÷È«²¿ÍøÂç½Ó¿Ú
+# åˆ—å‡ºå½“å‰æœºå™¨å…¨éƒ¨ç½‘ç»œæ¥å£
 $ tcpdump -D 
 
 1.eth0 [Up, Running]
@@ -2994,7 +3001,7 @@ $ tcpdump -D
 4.nflog (Linux netfilter log (NFLOG) interface)
 5.nfqueue (Linux netfilter queue (NFQUEUE) interface)
 
-# capture p1½Ó¿Ú packet
+# capture p1æ¥å£ packet
 # -vvv (the most detailed verbose output)
 $ tcpdump -vvv -i p1
 $ tcpdump -v -i eth0
@@ -3004,17 +3011,17 @@ $ tcpdump -v -i eth0
 
 # listen all interfaces
 $ tcpdump -i any  
-# °´dest/srcµØÖ·²¶»ñ±¨ÎÄ
-# -n ²»½« addresses(i.e., host addresses, port numbers, etc.) ×ª³É»úÆ÷Ãû
+# æŒ‰dest/srcåœ°å€æ•è·æŠ¥æ–‡
+# -n ä¸å°† addresses(i.e., host addresses, port numbers, etc.) è½¬æˆæœºå™¨å
 $ tcpdump -n dst net 192.168.1.0/24  
 $ tcpdump -n src net 192.168.1.0/24  
-# °´µØÖ·²¶»ñÈ«²¿½ø³ö±¨ÎÄ
+# æŒ‰åœ°å€æ•è·å…¨éƒ¨è¿›å‡ºæŠ¥æ–‡
 $ tcpdump -n net 192.168.1.0/24 
     
-# listen ËùÓĞ½ø³öµ±Ç°»úÆ÷µÄpacket 
+# listen æ‰€æœ‰è¿›å‡ºå½“å‰æœºå™¨çš„packet 
 # -A Print packets in ASCII
 # -vvv (the most detailed verbose output)
-# -n ²»½« addresses(i.e., host addresses, port numbers, etc.) ×ª³É names.
+# -n ä¸å°† addresses(i.e., host addresses, port numbers, etc.) è½¬æˆ names.
 $ tcpdump -A -vvv -n 
 
 11:52:50.202935 IP (tos 0x0, ttl 4, id 41462, offset 0, flags [none], proto UDP (17), length 319)
@@ -3028,7 +3035,7 @@ NTS: ssdp:alive
 SERVER: vxWorks/5.5 UPnP/1.0 TL-WDR7650.............../1.0
 USN: uuid:8c15e41f-3d83-41c1-b35d-2926B4ED823E
 
-# listen ËùÓĞ½ø³öµ±Ç°»úÆ÷µÄpacket, ¹ıÂËÆäÖĞ·ûºÏ»úÆ÷Ãû»òipµØÖ·  
+# listen æ‰€æœ‰è¿›å‡ºå½“å‰æœºå™¨çš„packet, è¿‡æ»¤å…¶ä¸­ç¬¦åˆæœºå™¨åæˆ–ipåœ°å€  
 # tcpdump -A -vvv host <hostname/ipaddress> 
 $ tcpdump -A -vvv -n host 192.168.0.1 
 
@@ -3041,22 +3048,22 @@ tcpdump: listening on pktap, link-type PKTAP (Apple DLT_PKTAP), capture size 262
     192.168.0.106.64697 > 114.255.243.111.4501: [udp sum ok] UDP, length 1444
 ...D+..^`.R...E....`..@..K...jr..o......g.q..9..<.<..;l.1u.ihgR`.w.t[......b ...A..eu.....$.p....{..f&..9.._..C.=H.7Z.@..G..I:..Zs......~|....D.Gj....m.....
   
-# dump record into capture.cap file, ¿ÉÒÔÍ¨¹ıwireshark portable°æ±¾À´²é¿´
+# dump record into capture.cap file, å¯ä»¥é€šè¿‡wireshark portableç‰ˆæœ¬æ¥æŸ¥çœ‹
 $ tcpdump -v -w capture.cap   
 
-# ²¶»ñÓë10.117.4.117ÍùÀ´udp±¨ÎÄ
+# æ•è·ä¸10.117.4.117å¾€æ¥udpæŠ¥æ–‡
 $ tcpdump -i eth0 host 10.117.4.117 and udp -w capture.cap
 
 # -c 20: Exit after capturing 20 packets.
 # -s 0: Don't limit the amount of payload data that is printed out. Print it all.
 # -i eth1: Capture packets on interface eth1
 # -A: Print packets in ASCII.
-# -n ²»½« addresses(i.e., host addresses, port numbers, etc.) ×ª³É names.
+# -n ä¸å°† addresses(i.e., host addresses, port numbers, etc.) è½¬æˆ names.
 # 'host 192.168.1.1': Only capture packets coming to or from 192.168.1.1.
-# 'and tcp port http': µÈÍ¬ÓÚ 'and tcp port http 80' Only capture HTTP 80¶Ë¿ÚµÄ packets.
+# 'and tcp port http': ç­‰åŒäº 'and tcp port http 80' Only capture HTTP 80ç«¯å£çš„ packets.
 $ tcpdump -c 20 -s 0 -i eth1 -A host 192.168.1.1 and tcp port http
 
-# ²¶»ñÄ¿µÄµØÖ·ºÍtcp¶Ë¿ÚºÅÂú×ãÌõ¼ş±¨ÎÄ
+# æ•è·ç›®çš„åœ°å€å’Œtcpç«¯å£å·æ»¡è¶³æ¡ä»¶æŠ¥æ–‡
 $ tcpdump -vvAlns0 port 443
 $ tcpdump -vvAlns0 tcp port 14268
 $ tcpdump -vvAlns0 -i any tcp port 14268
@@ -3077,13 +3084,13 @@ Connection: Keep-Alive
 Accept-Encoding: gzip
 User-Agent: okhttp/4.2.2
 
-# ²¶»ñµ±Ç°hostÉÏloopback½Ó¿ÚÏà¹ØËùÓĞhttp Post±¨ÎÄ
-# -l buffer stdout line.  ÊÊÓÃÓÚĞèÒª±£´æ²¶»ñ±¨ÎÄÊı¾İµÄ³¡¾° E.g., tcpdump -l | tee dat
+# æ•è·å½“å‰hostä¸Šloopbackæ¥å£ç›¸å…³æ‰€æœ‰http PostæŠ¥æ–‡
+# -l buffer stdout line.  é€‚ç”¨äºéœ€è¦ä¿å­˜æ•è·æŠ¥æ–‡æ•°æ®çš„åœºæ™¯ E.g., tcpdump -l | tee dat
 $ tcpdump -vvAls0 -i lo | grep 'POST'
 
 POST /cm-inventory/api/v1/cm-plugin-container/cm-plugins/d5be1b62-3f5f-44fb-8f30-20729bbeb41b?action=execute_request HTTP/1.1
 
-# ²¶»ñµ±Ç°hostÉÏloopback½Ó¿ÚÏà¹ØËùÓĞhttp Post²¢ÇÒheaderÎªspanId/traceId±¨ÎÄ
+# æ•è·å½“å‰hostä¸Šloopbackæ¥å£ç›¸å…³æ‰€æœ‰http Postå¹¶ä¸”headerä¸ºspanId/traceIdæŠ¥æ–‡
 $ tcpdump -vvAls0 -i lo | grep -E "(POST /cm-inventory|spanId:|traceId:)"
 
 POST /cm-inventory/api/v1/cm-plugin-container/cm-plugins/d5be1b62-3f5f-44fb-8f30-20729bbeb41b?action=execute_request HTTP/1.1
@@ -3091,18 +3098,18 @@ traceId: -1514301144170483167
 spanId: -1514301144170483167
 
 # read pcap file
-# °´Ö÷»ú+¶Ë¿Ú->Ö÷»ú+¶Ë¿Ú ²éÔÄpcapÎÄ¼ş¼ÇÂ¼µÄ±¨ÎÄĞÅÏ¢
+# æŒ‰ä¸»æœº+ç«¯å£->ä¸»æœº+ç«¯å£ æŸ¥é˜…pcapæ–‡ä»¶è®°å½•çš„æŠ¥æ–‡ä¿¡æ¯
 # -tttt : Give maximally human-readable timestamp output.
 $ tcpdump -tttt -r capture.cap
 
 2019-07-11 06:43:54.086105 IP vm11-dhcp.56980 > 04-dhcp117.6831: UDP, length 3
 
-# °´IP+¶Ë¿Ú->IP+¶Ë¿ÚÄ£Ê½ ²éÔÄpcapÎÄ¼ş¼ÇÂ¼µÄ±¨ÎÄĞÅÏ¢
+# æŒ‰IP+ç«¯å£->IP+ç«¯å£æ¨¡å¼ æŸ¥é˜…pcapæ–‡ä»¶è®°å½•çš„æŠ¥æ–‡ä¿¡æ¯
 $ tcpdump -tttt -nnr capture.cap 
 
 2019-07-11 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
 
-# °´IP+¶Ë¿Ú->IP+¶Ë¿ÚÄ£Ê½ ²éÔÄpcapÎÄ¼ş¼ÇÂ¼µÄascii±¨ÎÄÄÚÈİ
+# æŒ‰IP+ç«¯å£->IP+ç«¯å£æ¨¡å¼ æŸ¥é˜…pcapæ–‡ä»¶è®°å½•çš„asciiæŠ¥æ–‡å†…å®¹
 $ tcpdump -qns 0 -A -r capture.cap
 
 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
@@ -3110,7 +3117,7 @@ E...VV@.@..t
 .Hy
 u.u......b....
 
-# °´IP+¶Ë¿Ú->IP+¶Ë¿ÚÄ£Ê½ ²éÔÄpcapÎÄ¼ş¼ÇÂ¼µÄ binary+ascii ±¨ÎÄÄÚÈİ
+# æŒ‰IP+ç«¯å£->IP+ç«¯å£æ¨¡å¼ æŸ¥é˜…pcapæ–‡ä»¶è®°å½•çš„ binary+ascii æŠ¥æ–‡å†…å®¹
 $ tcpdump -qns 0 -X -r capture.cap
 
 06:43:54.086105 IP 10.161.72.121.56980 > 10.117.4.117.6831: UDP, length 3
@@ -3168,10 +3175,10 @@ traceroute 172.18.0.1
 ```
 
 #### nslookup-dig
-+ [²éÕÒÓòÃûIPµØÖ·ÃüÁî](https://mp.weixin.qq.com/s/3VvBdD0CxfLPL2AuRl6oGQ)
-+ [ÈçºÎÊ¹ÓÃdigÃüÁî](https://mp.weixin.qq.com/s/DJmHcJdsDKHTEvlzYHaHkA)
++ [æŸ¥æ‰¾åŸŸåIPåœ°å€å‘½ä»¤](https://mp.weixin.qq.com/s/3VvBdD0CxfLPL2AuRl6oGQ)
++ [å¦‚ä½•ä½¿ç”¨digå‘½ä»¤](https://mp.weixin.qq.com/s/DJmHcJdsDKHTEvlzYHaHkA)
 
-[nslookup](https://en.wikipedia.org/wiki/Nslookup)ÊÇÓÃÀ´²éÑ¯DNS±£´æµÄÓòÃûºÍIPÓ³Éä¹ØÏµµÄ£¬¿ÉÓÃÀ´Í¨¹ıNameºÍIP»¥²é¹ØÏµ
+[nslookup](https://en.wikipedia.org/wiki/Nslookup)æ˜¯ç”¨æ¥æŸ¥è¯¢DNSä¿å­˜çš„åŸŸåå’ŒIPæ˜ å°„å…³ç³»çš„ï¼Œå¯ç”¨æ¥é€šè¿‡Nameå’ŒIPäº’æŸ¥å…³ç³»
 ```console
 nslookup 10.0.0.1
 nslookup google.com
@@ -3184,7 +3191,7 @@ Address: 172.217.160.110
 Name:	google.com
 Address: 2404:6800:4012:1::200e
 ```
-[dig](https://en.wikipedia.org/wiki/Dig_(command))Ò²ÊÇÍøÂç¹ÜÀíÃüÁî£¬À´²éÑ¯DNSĞÅÏ¢µÄ
+[dig](https://en.wikipedia.org/wiki/Dig_(command))ä¹Ÿæ˜¯ç½‘ç»œç®¡ç†å‘½ä»¤ï¼Œæ¥æŸ¥è¯¢DNSä¿¡æ¯çš„
 ```console
 dig unix.stackexchange.com
 ; <<>> DiG 9.11.5-P1-1ubuntu2.5-Ubuntu <<>> unix.stackexchange.com
@@ -3216,13 +3223,13 @@ dig +short unix.stackexchange.com
 151.101.129.69
 151.101.65.69
 
-# If dig +short is unavailable, Ê¹ÓÃawk¹ıÂËANSWER SECTION²¿·ÖÊä³ö
-# getline function¶ÁÏÂÒ»ĞĞÍ¬Ê±½«½Å±¾Ö´ĞĞÒÆµ½ÎÄ¼şÏÂÒ»ĞĞ£¬Òò´ËÁ¬ĞøÖ´ĞĞgetline¿ÉÒÔµ½ÎÄ¼şÎ²
+# If dig +short is unavailable, ä½¿ç”¨awkè¿‡æ»¤ANSWER SECTIONéƒ¨åˆ†è¾“å‡º
+# getline functionè¯»ä¸‹ä¸€è¡ŒåŒæ—¶å°†è„šæœ¬æ‰§è¡Œç§»åˆ°æ–‡ä»¶ä¸‹ä¸€è¡Œï¼Œå› æ­¤è¿ç»­æ‰§è¡Œgetlineå¯ä»¥åˆ°æ–‡ä»¶å°¾
 dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { getline ; print $5; getline ; print $5;}'
 151.101.1.69
 151.101.193.69
 
-# Í¨¹ıloopÀ´Á¬Ğø´¦Àíawk's workflow
+# é€šè¿‡loopæ¥è¿ç»­å¤„ç†awk's workflow
 dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {getline; print $5}}'
 dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ { \
 for (i=1;i<=4;i++) { \
@@ -3233,7 +3240,7 @@ for (i=1;i<=4;i++) { \
 151.101.65.69
 151.101.1.69
 
-# Èç¹ûÖ»ÏëÊä³öÒ»¸öIP, Ö±½ÓÔÚawk's workflow¼ÓÈëexitÃüÁî
+# å¦‚æœåªæƒ³è¾“å‡ºä¸€ä¸ªIP, ç›´æ¥åœ¨awk's workflowåŠ å…¥exitå‘½ä»¤
 dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {getline; print $5; exit}}'
 151.101.1.69
 ```
@@ -3242,8 +3249,8 @@ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {ge
 
 ### DEBUG
 #### GDB
-+ [GDB¼¼ÇÉ](https://mp.weixin.qq.com/s/4CAViD7GTWg4K_YDsDyohQ)
-+ [GDBµ÷ÊÔ´úÂë](https://mp.weixin.qq.com/s/OLHurXiioQchhai4i9WYsw)
++ [GDBæŠ€å·§](https://mp.weixin.qq.com/s/4CAViD7GTWg4K_YDsDyohQ)
++ [GDBè°ƒè¯•ä»£ç ](https://mp.weixin.qq.com/s/OLHurXiioQchhai4i9WYsw)
 
 A core file is an image of a process that has crashed It contains all process information pertinent to debugging: contents of hardware registers, process status, and process data. Gdb will allow you use this file to determine where your program crashed. 
 ```console
@@ -3306,10 +3313,10 @@ size -td core
 ---
 
 #### LVM
-+ [´´½¨/ÅäÖÃLVM](https://mp.weixin.qq.com/s/a35F2sfuU_5JzLU2AypAgA)
-+ [¼õÉÙ/ËõĞ¡LVM´óĞ¡(Âß¼­¾íµ÷Õû)](https://mp.weixin.qq.com/s/UdWQA3lFSmWjya75d0mnmQ)
++ [åˆ›å»º/é…ç½®LVM](https://mp.weixin.qq.com/s/a35F2sfuU_5JzLU2AypAgA)
++ [å‡å°‘/ç¼©å°LVMå¤§å°(é€»è¾‘å·è°ƒæ•´)](https://mp.weixin.qq.com/s/UdWQA3lFSmWjya75d0mnmQ)
 + [SUSE-LVM](https://www.suse.com/documentation/sles-12/stor_admin/data/sec_lvm_cli.html)
-+ [Ê¹ÓÃBtrfs¿ìÕÕ½øĞĞÔöÁ¿±¸·İ](https://mp.weixin.qq.com/s/hqhw8IDq4ID9t1TyxPL62A)
++ [ä½¿ç”¨Btrfså¿«ç…§è¿›è¡Œå¢é‡å¤‡ä»½](https://mp.weixin.qq.com/s/hqhw8IDq4ID9t1TyxPL62A)
 
 With LVM, we can create logical partitions that can span across one or more physical hard drives.<br>
 * First, the hard drives are divided into physical volumes, 
@@ -3345,7 +3352,7 @@ Device     Boot     Start       End  Sectors  Size Id Type
 $ fdisk -l /dev/sda4
 
 #LVM2 tools containing all commands like vgscan/lvs/pvs
-#pvs ¡ª Report information about Physical Volumes.
+#pvs â€” Report information about Physical Volumes.
 $ pvs -a
 PV         VG   Fmt Attr PSize PFree
 /dev/sda1           ---           0     0 
@@ -3358,7 +3365,7 @@ $ pvcreate /dev/sda6 /dev/sda7
 Physical volume "/dev/sda6" successfully created
 Physical volume "/dev/sda7" successfully created
 
-# pvscan ¡ª Scan all disks for Physical Volumes.
+# pvscan â€” Scan all disks for Physical Volumes.
 $ pvscan -v
 PV /dev/sda6                      lvm2 [1.86 GB]
 PV /dev/sda7                      lvm2 [1.86 GB]
@@ -3377,11 +3384,11 @@ $ pvdisplay
   Allocated PE          20
   PV UUID               m67TXf-EY6w-6LuX-NNB6-kU4L-wnk8-NjjZf
 
-# vgcreate ¡ª create a volume group
+# vgcreate â€” create a volume group
 $ vgcreate vol_grp1 /dev/sda6 /dev/sda7
   Volume  group "vol_grp1" successfully created
 
-# vgdisplay ¡ª display attributes of volume groups
+# vgdisplay â€” display attributes of volume groups
 $ vgdisplay
   --- Volume group ---
   VG Name                     vol_grp1
@@ -3404,7 +3411,7 @@ $ vgdisplay
   Free  PE / Size            952 / 3.72 GB
   VG UUID                     Kk1ufB-rT15-bSWe-5270-KDfZ-shUX
 
-#vgscan ¡ª scan all disks for volume groups and rebuild caches
+#vgscan â€” scan all disks for volume groups and rebuild caches
 $ vgscan -v
 
 #LVM Create Logical Volumes
@@ -3412,7 +3419,7 @@ $ vgscan -v
 $ lvcreate -l 20 -n logical_vol1 vol_grp1
   Logical volume "logical_vol1" created
 
-#lvdisplay ¡ª display attributes of a logical volume
+#lvdisplay â€” display attributes of a logical volume
 $ lvdisplay
   --- Logical volume ---
   LV Name                /dev/vol_grp1/logical_vol1
@@ -3429,7 +3436,7 @@ $ lvdisplay
   - currently set to     256
   Block device            252:0
   
-#lvs ¡ª report information about logical volumes
+#lvs â€” report information about logical volumes
 $ lvs -a  
 
 # creating the appropriate filesystem on the logical volumes
@@ -3446,15 +3453,15 @@ lvextend -L+100 /dev/vol_grp1/logical_vol1
   Extending logical volume logical_vol1 to 200.00 MB
   Logical volume logical_vol1 successfully resized  
 ```   
-resize/expand btrfsÎÄ¼şÏµÍ³ÊÇ¸ö³£¼ûĞèÇó£¬ÒòÎªbtrfsÎÄ¼şÏµÍ³±»¹ã·ºÓ¦ÓÃÓÚLinuxºÍDocker×÷Îªbackend storage driver.ÓĞÁ½ÖÖ·½Ê½¿ÉÒÔresize/expand root volume.
-- ÎïÀíÀ©Èİ: Add a new disk into the same btrfs volume
+resize/expand btrfsæ–‡ä»¶ç³»ç»Ÿæ˜¯ä¸ªå¸¸è§éœ€æ±‚ï¼Œå› ä¸ºbtrfsæ–‡ä»¶ç³»ç»Ÿè¢«å¹¿æ³›åº”ç”¨äºLinuxå’ŒDockerä½œä¸ºbackend storage driver.æœ‰ä¸¤ç§æ–¹å¼å¯ä»¥resize/expand root volume.
+- ç‰©ç†æ‰©å®¹: Add a new disk into the same btrfs volume
 ```console
-# 1.Ôö¼ÓÒ»¿éĞÂ´ÅÅÌµ½ÏµÍ³ÖĞ£¬¶ÔÎïÀí»úÊÇĞÂÔöLUNÉè±¸£¬¶ÔĞéÄâ»úattachĞÂĞéÄâ´ÅÅÌ
-# 2.rebootÏµÍ³Ê¹ĞÂ´ÅÅÌ¶ÔOS¿É¼û
-# 3.Ôö¼ÓÒ»¿é´ÅÅÌ£¬É¨ÃèĞÂscsi disk device
+# 1.å¢åŠ ä¸€å—æ–°ç£ç›˜åˆ°ç³»ç»Ÿä¸­ï¼Œå¯¹ç‰©ç†æœºæ˜¯æ–°å¢LUNè®¾å¤‡ï¼Œå¯¹è™šæ‹Ÿæœºattachæ–°è™šæ‹Ÿç£ç›˜
+# 2.rebootç³»ç»Ÿä½¿æ–°ç£ç›˜å¯¹OSå¯è§
+# 3.å¢åŠ ä¸€å—ç£ç›˜ï¼Œæ‰«ææ–°scsi disk device
 $ sudo rescan-scsi-bus.sh -a
 
-# 4.¼ì²éĞÂÔöµÄ´ÅÅÌÉè±¸ÊÇ·ñÔÚblockÁĞ±íÖĞ
+# 4.æ£€æŸ¥æ–°å¢çš„ç£ç›˜è®¾å¤‡æ˜¯å¦åœ¨blockåˆ—è¡¨ä¸­
 $ lsblk -f
 NAME   FSTYPE LABEL UUID MOUNTPOINT
 fd0                      
@@ -3463,35 +3470,35 @@ sda
 |-sda2                   /var/crash
 |-sda3                   /home
 `-sda4                   /usr/local
-sdb -- Õâ¸öÒ»¿éĞÂÔö¼Ó´ÅÅÌ
+sdb -- è¿™ä¸ªä¸€å—æ–°å¢åŠ ç£ç›˜
 
-# 5.¼ì²éĞÂÔö¼ÓµÄ´ÅÅÌ
+# 5.æ£€æŸ¥æ–°å¢åŠ çš„ç£ç›˜
 $ fdisk -l /dev/sdb
 Disk /dev/sdb: 20 GiB, 21474836480 bytes, 41943040 sectors
 Units: sectors of 1 * 512 = 512 bytes
 Sector size (logical/physical): 512 bytes / 512 bytes
 I/O size (minimum/optimal): 512 bytes / 512 bytes
 
-# btrfs¹ÒÔØÖ®Ç° root volume´óĞ¡
+# btrfsæŒ‚è½½ä¹‹å‰ root volumeå¤§å°
 $ df -h /
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda2        26G   17G  8.6G  66% /
 
-# 6.°ÑĞÂ´ÅÅÌÉè±¸/dev/sdb¹Òµ½root volume
+# 6.æŠŠæ–°ç£ç›˜è®¾å¤‡/dev/sdbæŒ‚åˆ°root volume
 $ btrfs device add /dev/sdb /
 /dev/sda2        46G   17G   29G  36% /
 
-# btrfs¹ÒÔØÖ®ºó root volumeÔö¼Ó20G
+# btrfsæŒ‚è½½ä¹‹å root volumeå¢åŠ 20G
 $ df -h /
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda2        46G   17G   29G  36% /
 
-# btrfs¹ÒÔØ´ÅÅÌºó£¬²»»á×Ô¶¯°ÑÔ­À´´ÅÅÌÀï´æµÄ¶«Î÷£¬·Ö²¼µ½ĞÂÌí¼ÓµÄ´ÅÅÌ£¬
-# ÒªÏë·Ö¸ø²¼µ½ĞÂµÄ´ÅÅÌ£¬ĞèÒªÊ¹ÓÃ btrfs balance start
-# 7.distribute data´Ó1st´ÅÅÌ/dev/sdaµ½2nd´ÅÅÌ/dev/sdb
-# ´Ë²Ù×÷Ê±¼ä½Ï³¤,¿ÉÒÔÔö¼Óbalance filters¼õÉÙÊı¾İbalance,¼Ó¿ì²Ù×÷
+# btrfsæŒ‚è½½ç£ç›˜åï¼Œä¸ä¼šè‡ªåŠ¨æŠŠåŸæ¥ç£ç›˜é‡Œå­˜çš„ä¸œè¥¿ï¼Œåˆ†å¸ƒåˆ°æ–°æ·»åŠ çš„ç£ç›˜ï¼Œ
+# è¦æƒ³åˆ†ç»™å¸ƒåˆ°æ–°çš„ç£ç›˜ï¼Œéœ€è¦ä½¿ç”¨ btrfs balance start
+# 7.distribute dataä»1stç£ç›˜/dev/sdaåˆ°2ndç£ç›˜/dev/sdb
+# æ­¤æ“ä½œæ—¶é—´è¾ƒé•¿,å¯ä»¥å¢åŠ balance filterså‡å°‘æ•°æ®balance,åŠ å¿«æ“ä½œ
 $ btrfs filesystem balance /
-# ÃüÁîµÚ¶şÖÖ·½Ê½
+# å‘½ä»¤ç¬¬äºŒç§æ–¹å¼
 $ btrfs balance start /
 WARNING:
 
@@ -3505,38 +3512,38 @@ Use Ctrl-C to stop it.
 Starting balance without any filters.
 Done, had to relocate 9 out of 9 chunks
 
-# ²ğ³ıµôÒ»¸öÎïÀí´ÅÅÌ, ²ğ³ıÖ®ºóroot volume»á×Ô¶¯»Ö¸´Ô­À´´óĞ¡
-# btrfs²ğ³ıÎïÀíÉè±¸Ç°²»ĞèÒªĞ¶ÔØ£¬»á×Ô¶¯°ÑÒª²ğµô´ÅÅÌÀïµÄÄÚÈİ£¬¿½±´µ½±ğµÄ´ÅÅÌ
-#£¨¶Ô±ÈlvmÔÚ²ğµôÎïÀí´ÅÅÌÇ°£¬ĞèÒªÊÖ¶¯Ê¹ÓÃpvmoveÃüÁî£¬¿½±´ÄÚÈİµ½±ğµÄpvÀï£©
+# æ‹†é™¤æ‰ä¸€ä¸ªç‰©ç†ç£ç›˜, æ‹†é™¤ä¹‹åroot volumeä¼šè‡ªåŠ¨æ¢å¤åŸæ¥å¤§å°
+# btrfsæ‹†é™¤ç‰©ç†è®¾å¤‡å‰ä¸éœ€è¦å¸è½½ï¼Œä¼šè‡ªåŠ¨æŠŠè¦æ‹†æ‰ç£ç›˜é‡Œçš„å†…å®¹ï¼Œæ‹·è´åˆ°åˆ«çš„ç£ç›˜
+#ï¼ˆå¯¹æ¯”lvmåœ¨æ‹†æ‰ç‰©ç†ç£ç›˜å‰ï¼Œéœ€è¦æ‰‹åŠ¨ä½¿ç”¨pvmoveå‘½ä»¤ï¼Œæ‹·è´å†…å®¹åˆ°åˆ«çš„pvé‡Œï¼‰
 $ btrfs device delete /dev/sdb /
 ```
 - Expand to use available space on original disk
 ```console
-# fdiskÃüÁî²»ÄÜÖ§³Öresize partition, Òò´ËÄãĞèÒªÉ¾³ı¾É·ÖÇø
-# È»ºóÔÙ´´½¨Ò»¸öÈ«ĞÂ·ÖÇø
+# fdiskå‘½ä»¤ä¸èƒ½æ”¯æŒresize partition, å› æ­¤ä½ éœ€è¦åˆ é™¤æ—§åˆ†åŒº
+# ç„¶åå†åˆ›å»ºä¸€ä¸ªå…¨æ–°åˆ†åŒº
 $ fdisk /dev/sda
 
-# Í¨ÖªLinux kernel¶Ô/dev/sda×öµÄ¸Ä±ä
+# é€šçŸ¥Linux kernelå¯¹/dev/sdaåšçš„æ”¹å˜
 $ partprobe
-# Èç¹ûÊÇ¶Ôroot file system×ö¸Ä¶¯, reboot OSÍ¨Öªkernel¸Ä±ä
-# Èç¹û²»ÊÇ¶Ôroot filesystem×ö¸Ä¶¯, Ìø¹ıÕâÒ»²½
+# å¦‚æœæ˜¯å¯¹root file systemåšæ”¹åŠ¨, reboot OSé€šçŸ¥kernelæ”¹å˜
+# å¦‚æœä¸æ˜¯å¯¹root filesystemåšæ”¹åŠ¨, è·³è¿‡è¿™ä¸€æ­¥
 $ shutdown -r now
 
-# µ÷ÕûrootÄ¿Â¼´óĞ¡£¬Ôö¼Ó100M bytes
+# è°ƒæ•´rootç›®å½•å¤§å°ï¼Œå¢åŠ 100M bytes
 $ btrfs filesystem resize +100m /
 Resize '/' of '+100m'
 ERROR: unable to resize '/': no enough free space
-# µ÷ÕûrootÄ¿Â¼´óĞ¡µ½¿ÉÒÔ¿Õ¼ä×î´ó
+# è°ƒæ•´rootç›®å½•å¤§å°åˆ°å¯ä»¥ç©ºé—´æœ€å¤§
 $ btrfs filesystem resize max /
 Resize '/' of 'max'
 
-# fdiskÀ©´ó·ÖÇø´óĞ¡ºó,ÔÚ/dev/sda1Éè±¸ÉÏÀ©Õ¹(PV)
+# fdiskæ‰©å¤§åˆ†åŒºå¤§å°å,åœ¨/dev/sda1è®¾å¤‡ä¸Šæ‰©å±•(PV)
 $ pvresize /dev/sda1
-# Èç¹ûÓÃfdiskËõĞ¡·ÖÇø´óĞ¡£¬ĞèÒªÔÚ/dev/sda1Éè±¸ÉÏÏÈËõĞ¡ÎïÀí¾íPV
-# È·±£PV sizeÆ¥ÅäĞÂ·ÖÇø´óĞ¡
+# å¦‚æœç”¨fdiskç¼©å°åˆ†åŒºå¤§å°ï¼Œéœ€è¦åœ¨/dev/sda1è®¾å¤‡ä¸Šå…ˆç¼©å°ç‰©ç†å·PV
+# ç¡®ä¿PV sizeåŒ¹é…æ–°åˆ†åŒºå¤§å°
 $ pvresize --setphysicalvolumesize 40G /dev/sda1
 
-# ¿ÉÒÔÓÃroot mountedÔö¼Ó·ÖÇø
+# å¯ä»¥ç”¨root mountedå¢åŠ åˆ†åŒº
 $ resize2fs /dev/sda1
 $ resize2fs /dev/sda1 25G
 $ resize2fs /dev/sda1 25400M
@@ -3545,9 +3552,9 @@ $ resize2fs /dev/sda1 25400M
 ---
 
 ### VM Image operation
-+ [ Cockpit ´´½¨ĞéÄâ»ú](https://mp.weixin.qq.com/s/tGd1dub5bE7D-peBE9nDAQ)
++ [ Cockpit åˆ›å»ºè™šæ‹Ÿæœº](https://mp.weixin.qq.com/s/tGd1dub5bE7D-peBE9nDAQ)
 
-* guestfish¹ÜÀí¾µÏñÎÄ¼ş
+* guestfishç®¡ç†é•œåƒæ–‡ä»¶
 ```console
 virt-copy-out -a controller.vmdk /opt/nvp/etc/api_server.conf ./
 virt-copy-in -a controller.vmdk api_server.conf /opt/nvp/etc
