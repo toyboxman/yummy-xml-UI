@@ -10,12 +10,14 @@
 + [Docker Command](#docker-command)  
   - [Docker 常见问题处理](https://mp.weixin.qq.com/s/IkPwD04tavwAQ2VAmjhm0g)
 + [Docker Compose](#docker-compose)
-+ [多平台Docker镜像构建](https://mp.weixin.qq.com/s/wGuJHespc6aRkIuPK1FGUg)
++ [Docker Build](#docker-build)
+  + [多平台Docker镜像构建](https://mp.weixin.qq.com/s/wGuJHespc6aRkIuPK1FGUg)  
+    `buildx is a Docker CLI plugin for extended build capabilities with BuildKit.`
+  + [Docker Image瘦身](https://mp.weixin.qq.com/s/z1a8JUNFrQjSSER3W8Hw6g)  
+  - [Go应用docker镜像瘦身](https://mp.weixin.qq.com/s/4a6d4P0Gzb4uC-99XMABIw)
 + [Podman：一个更安全的运行容器的方式](https://mp.weixin.qq.com/s/JBQLqxUqZdGpQaU2iauFzA)
 + [OverlayFS](https://mp.weixin.qq.com/s/KEKecCY6Y-i1sWa6T9jiAg)
 + [Portainer.io监控和管理Docker容器](https://mp.weixin.qq.com/s/NPo9oOcm3CSLXjEonnQRgA)
-+ [Docker Image瘦身](https://mp.weixin.qq.com/s/z1a8JUNFrQjSSER3W8Hw6g)  
-  - [Go应用docker镜像瘦身](https://mp.weixin.qq.com/s/4a6d4P0Gzb4uC-99XMABIw)
 
 ---
 
@@ -158,6 +160,68 @@ Caution - These steps depend on your current /var/lib/docker being <br>an actual
 5) Take a peek at the directory structure to make sure it looks like it did <br>before the mv: ls /var/lib/docker/ (note the trailing slash to resolve the symlink)  
 6) Start docker back up service docker start  
 7) restart your containers  
+
+#### docker-build
+构建本地 image 需要用到build命令，过程分成定义和构建两步    
+1.定义image，通过 Dockerfile 文件描述image构建过程。 Dockerfile 指令接近 20 个，经常用到的不超过 10 个
+- Dockerfile[[1](https://segmentfault.com/a/1190000018108361),[2](https://zhuanlan.zhihu.com/p/102450025)]
+```console
+# 指令是逐条执行，且相互独立
+# 引用基础镜像指令 FROM
+FROM ubuntu:18.04   
+# 声明变量 可有值或无值设定
+ARG PUID=1000
+ENV PUID ${PUID}
+ARG AIRFLOW_VERSION="2.0.0.dev0"
+ARG ARG_RUBY_VERSION    
+# 声明环境变量
+ENV JAVA_HOME /opt/jdk-1.8.0  
+# 设置工作目录   
+WORKDIR /opt/installation   
+# 构建定制的部分，例如整体的目录结构，build时依赖的文件和工具包等
+# COPY与ADD两个指令几乎相同, ADD指令<src>参数是本地 tar 文件时，会自动解包; <src>可以是 url，支持从远程拉取
+# ADD URL下载和解压特性不能一起使用。任何压缩文件通过URL拷贝，都不会自动解压; 这种情况就用RUN wget/curl/tar/unzip
+ADD https://dlcdn.apache.org/zookeeper/zookeeper-3.7.1/apache-zookeeper-3.7.1-bin.tar.gz /opt/zookeeper.tar.gz
+ADD https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-jdk8.0.282-linux_x64.tar.gz /opt/jdk.tar.gz
+COPY start.sh /opt/installation  
+RUN command1 && command2 ...
+# 容器入口 指定容器启动时默认执行的命令
+ENTRYPOINT ["/entry.app"]  
+# 指定容器启动时默认命令的默认参数
+CMD ["--options"] 
+```
+2.build命令执行构建过程，产生本地 image 
+- [打包镜像](https://zhuanlan.zhihu.com/p/158174964)
+```console
+# -t: 打包出镜像的名称及标签，通常写法为 name:tag
+# --rm: 构建成功后，删除中间产生的容器。
+# --force-rm=true: 无论是否构建成功，都删除中间产生的容器
+# --no-cache: 构建镜像时不使用缓存。
+# -f: 指定 Dockerfile 的路径
+# 用当前目录下Dockerfile 构建一个名称为 local/centos7:v1 的image
+docker build --no-cache --force-rm -t local/centos7:v1 ./    
+docker build -t image .
+```
+3.多阶段构建就是把这一切都放到一个 Dockerfile 里，既没有源码泄漏，又不需要用脚本去跨平台编译，还获得了最小的镜像。
+```console
+# 第一个 FROM 开始的部分是构建一个 builder 镜像
+FROM golang:alpine AS builder
+
+WORKDIR /build
+
+ADD go.mod .
+COPY . .
+RUN go build -o hello hello.go
+
+# 第二个 From 开始的部分是从第一个镜像里 copy 出来可执行文件 hello，并且用尽可能小的基础镜像 alpine 以保障最终镜像尽可能小
+# https://hub.docker.com/_/alpine?tab=tags alpine linux/amd64 2.67 MB
+FROM alpine
+
+WORKDIR /build
+COPY --from=builder /build/hello /build/hello
+
+CMD ["./hello"]
+```
 
 #### docker-compose
 > [example](https://github.com/lukeolbrish/examples/tree/master/zookeeper/five-server-docker)

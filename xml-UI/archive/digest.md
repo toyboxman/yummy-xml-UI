@@ -709,6 +709,11 @@ GitHub提供代码库检索功能
 # 3.匹配关键字 process
 process in:file language:java extension:java
 
+# 在 Dockerfile 中查询 ARG
+ARG filename:Dockerfile
+# 在 Dockerfile 中查询匹配条件的指令 例如 ‘RUN yum install java-1.8.0-openjdk’
+"yum install*java" filename:Dockerfile
+
 # 从项目readme文件中匹配关键字 IntelliJ Plugin
 "IntelliJ Plugin" in:readme language:java
 

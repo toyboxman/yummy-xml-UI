@@ -2709,7 +2709,13 @@ kill -9 1234
 ---
 
 #### Vim
+还有一些其他文本编辑器，有些会按照POSIX格式给编辑文件末尾增加newline   
+Remains unmodified: Emacs, SciTE, Kate, Bluefish, Notepad(wine)   
+Newline is added: Gedit, Gvim, Vim, Nano   
 ```console
+# -L, --nonewlines Don't automatically add a newline when a text does not end with one.(This can cause you to save non-POSIX text files.)
+nano -L ./sshd.log
+
 # open a file and position to line denoted
 vi +18809 /var/log/sshd.log
 ```

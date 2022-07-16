@@ -111,3 +111,52 @@ Mr. Johnson had long thrived by thumbing his nose at political convention. His d
 
 For months they had felt they were on their own anyway as they queued up for hours — often in vain — for fuel and cooking gas, pared down their meals and scrambled for lifesaving medicine. Now, Sri Lanka has become more of a cautionary tale.
 反正几个月来，他们一直觉得自己没人管，为了得到燃料和煤气排几小时的队，却常常一无所获，他们缩衣节食，争夺救命的药物。现在，斯里兰卡更像是一则警世喻言。
+
+The tête-à-tête followed the gathering of foreign ministers from the Group of 20 industrialized nations that ended without a traditional communiqué, reflecting the apparent impossibility of reaching a consensus amid the war in Ukraine.
+这次会晤之前，20国集团外长会议没有像以往那样在结束时发表公报，由此可见在俄乌战争问题上达成共识似乎是不可能的事情
+
+I really treasure the history of this place, from its people to the buildings, Memories live on, albeit in a different part of the world.
+我真的很珍惜这个地方的历史，从这里的人到它的建筑，记忆会一直留存，尽管我会在世界的另一个地方。
+
+For those outside of Japan, the assassination may seem incongruous with claims that Japan has found special success against gun violence. But zoom out, and the contrast between China and the United States becomes instructive. Compared with American mass shootings, Chinese knife attacks appear to be, on average, about one-tenth as deadly.
+日本宣称在打击枪支暴力方面卓有成效，但对于日本以外的人来说，这场暗杀似乎表明并不是那么回事。但是退一步看，中美之间的对比就变得具有指导意义。中国持刀袭击的平均伤亡约为美国大规模枪击事件的十分之一。
+
+In a matter of months, we will know whether the Biden administration’s gamble pays off. we will perpetuate our dependence on Chinese solar imports and forever handicap American solar production.
+再过几个月，我们就会知道拜登政府的这场赌博是否值得了。我们将长期依赖中国太阳能进口，并永远阻碍美国太阳能生产。
+
+The United States was once a global leader in both solar innovation and manufacturing — we invented photovoltaic technology in the 1950s to power satellites and spacecraft. And we retained our undisputed leadership in solar for decades. 
+美国曾经是太阳能创新和制造领域的全球领导者——我们在1950年代发明了光伏技术，为卫星和航天器提供动力。几十年来，我们在太阳能领域保持了无可争议的领导地位。
+
+Mr. Satheesh is wary of the protest winding down too soon. His plan, if the fuel shortage eases, is to start picking up fares again, to earn enough money to apply for a passport. He could then look for work as a welder in Europe or the Middle East, and sell his auto rickshaw.
+萨西什不愿意抗议活动太早结束。如果燃料短缺情况缓解，他计划重新开始拉客人，赚够钱就去申请护照。然后他就可以在欧洲或者中东找一份焊工的工作，卖掉他的三轮车。
+
+As head of human resources for a Sri Lankan company, Gimhanikari Yawasam, 41, has had to field many difficult calls from employees upset about recent salary cuts.
+41岁的金哈尼卡里·亚瓦萨姆在一家斯里兰卡企业做人力主管，不得不接听许多员工的抱怨电话，他们都对最近的降薪感到不满。
+
+Bad decisions and bad luck followed. Just as the tax cuts shrank government revenues, the pandemic devastated tourism, a vital fount of income for Sri Lanka. Facing a balance-of-payments crisis, the government banned the import of motor vehicles and synthetic fertilizers and pesticides to save hard currency and decreed an overnight transition to organic farming.
+糟糕的决定和糟糕的运气接踵而至。减税削减了政府收入之际，大流行也摧毁了旅游业，而这是斯里兰卡的重要收入来源。面对收支危机，政府禁止进口汽车、合成肥料和杀虫剂以节省硬通货，并下令马上转型为有机农业。
+
+Our hearts can’t be riding on waves, bobbing up and down. That’s bad for economic growth and social development, Entrepreneurs will gain confidence only when there are no policy contradictions. More than 10 million college graduates, a record number, are joining the job search this year. Others will take refuge in graduate school.
+我们的人心不能处在波涛之上，忽高忽低，这个对经济的发展，对社会的发展都是不利的，政策没有矛盾，企业家才能有信心。今年大学应届毕业生人数达1000多万，创下历史纪录，他们中的大多数将加入到求职大军中去，有些人为避开就业竞争将去读研究生。
+
+That sense of chaos can be difficult to square with longer-term data showing that, on many metrics, the world is generally becoming better off. War is rarer today, by some measures, than it has been for most of the past 50 years — and, when it does occur, is significantly less deadly. Genocides and mass atrocities are less common all the time, too. Life expectancy, literacy and standards of living have all risen to historic highs.
+这种混乱感可能与长期数据所显示的并不一致，从许多指标来看，世界总体向好。从某种程度上说，如今的战争比过去50年的大部分时间都要少，即使发生战争，其致命程度也大大降低。种族灭绝和大规模暴行也一直在减少。预期寿命、识字率和生活水平都上升到了历史最高水平。
+
+Health workers, stuck in full protective gear for long hours, resorted to creative ways to keep cool. Another video showed a health worker in Henan succumbing to heat stroke, panting on the ground as his colleagues fanned him with packaging from test kits.
+长时间穿着全套防护装备的卫生工作者采取了各种富有创意的方法来保持凉爽。另一段视频显示，河南的一名医务工作者中暑，躺在地上呼吸困难，他的同事在用核酸检测的包装给他扇风。
+
+When the United States first opened relations with China 50 years ago, it was relatively easy for Washington to pry China away from the Soviet Union. By 1972 when Mr. Nixon visited China, the two big Communist powers, China and the Soviet Union, had also fallen out over differences in ideology and other matters.
+50年前美国与中国建交时，对于华盛顿来说，要将中国从苏联手中撬走相对容易。到1972年尼克松访华时，中国和苏联这两个共产主义大国也因意识形态和其他问题的分歧反目。
+
+The U.S. wants climate change cooperation to be an ‘oasis’ of U.S.-China relations, However, if the oasis is surrounded by deserts then sooner or later, the ‘oasis’ will be desertified.
+美方希气变合作成为中美关系的‘绿洲’，但如‘绿洲’周围都是‘荒漠’，‘绿洲’迟早会被沙化。
+
+The Webb presentation gave us gasp-inducing images of the Southern Ring Nebula, a sphere of gas and dust belched by a dying star, Seen in infrared, the nebula resembled a looming, eroded coastal cliff dotted with hundreds of stars that astronomers had never seen before.
+韦伯的发布给我们带来了令人惊叹的图像，包括南环星云，这是由一颗垂死的恒星喷出的气体和尘埃组成的球体；用红外线观察，这个星云就像一座被侵蚀的海岸悬崖，若隐若现，上面点缀着数百颗天文学家从未见过的恒星。
+
+His energy level, while impressive for a man of his age, is not what it was, and some aides quietly watch out for him. He often shuffles when he walks, and aides worry he will trip on a wire. He stumbles over words during public events, and they hold their breath to see if he makes it to the end without a gaffe.
+虽然与同龄人相比，他的精力已经很充沛了，但还是不如从前，一些助手悄悄地关照着他。他走路有时不稳，助手们担心他会被电线绊倒。在公开场合，他说话会颠三倒四，导致助手们紧张万分，担心他出现失言。
+
+Biden’s “ambulatory gait is perceptibly stiffer and less fluid than it was a year or so ago,” the report said, and gastroesophageal reflux causes him to cough and clear his throat, symptoms that “certainly seem to be more frequent and more pronounced.” he had atrial fibrillation but that it was stable and asymptomatic.
+报告称，拜登“与一年前相比，步态明显更为僵硬，更不流畅”，胃食管反流导致他咳嗽和清嗓子，这些症状“显然看来更频繁、更明显”。他有心房颤动，但状态稳定且无症状。
+
