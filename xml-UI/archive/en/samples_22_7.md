@@ -160,3 +160,80 @@ His energy level, while impressive for a man of his age, is not what it was, and
 Biden’s “ambulatory gait is perceptibly stiffer and less fluid than it was a year or so ago,” the report said, and gastroesophageal reflux causes him to cough and clear his throat, symptoms that “certainly seem to be more frequent and more pronounced.” he had atrial fibrillation but that it was stable and asymptomatic.
 报告称，拜登“与一年前相比，步态明显更为僵硬，更不流畅”，胃食管反流导致他咳嗽和清嗓子，这些症状“显然看来更频繁、更明显”。他有心房颤动，但状态稳定且无症状。
 
+But what local politicians lauded as an unambiguous win soon divided Grand Forks. Trying to unwind that relationship could mean higher prices and slower growth. Most of the debate has been within the mainstream of today’s political discourse, echoing some of the nationalist
+但当地政客口中再明确不过的胜利很快就让大福克斯市陷入分裂。试图解除这种关系可能会导致物价提升和增长放缓。大部分相关争论都属于当今主流政治话术，呼应了某些民族主义的主题
+
+They worried about whether the city had enough water to support the facility’s wet-milling process, which extracts amino acids from corn. They worried about odor. About traffic.
+他们担心这座城市的水源是否足以支持工厂从玉米中提取氨基酸的湿磨过程。他们担心异味，也担心交通拥堵。
+
+I personally think that our City Council has been sold a bill of goods by Fufeng and they have stars in their eyes because they see money coming in, they see growth coming in.
+我个人以为，我们的市议会被阜丰忽悠得团团转，他们两眼放光，因为看到了资金流入，看到了增长。
+
+But a few opponents of the project have espoused far-fetched theories, or used language that some considered anti-Asian scaremongering. All of it caught city leaders off guard.
+但该项目的一些反对者要么提出的理论牵强附会，要么使用的语言被一些人认为是反亚裔的危言耸听。这一切都让城市领导人措手不及。
+
+Semantics matter to people, and the things we say to people make them feel welcomed or like they don’t belong here, Several opponents of the mill said they harbored no ill will toward Chinese people or Asian Americans
+语言对人们很重要，我们对别人说的话会让他们觉得自己究竟是受到欢迎，还是不招人待见，该工厂的几名反对者表示，他们对中国人或亚裔美国人没有恶意
+
+At the root of this torment is a force so elemental that it has almost ceased to warrant mention — the pandemic. That force is far from spent, confronting policymakers with grave uncertainty. Their policy tools are better suited for more typical downturns, not a rare combination of diminishing economic growth and soaring prices.
+造成这一痛苦的根源是一种根本到几乎不需要再提的力量——大流行。这股力量还远未耗尽，使得决策者面临着严重的不确定性。他们的政策工具更适合比较典型的衰退，而不是经济增长放缓和物价飙升的罕见组合。
+
+But the endurance of stance — its willingness to continue riding out the economic damage and public anger — constitutes one of the more consequential variables in a world brimming with uncertainty.
+但在这个充满不确定性的世界里，政府立场的持久性——它是否愿意继续承受经济损失和公众愤怒——是影响更大的变数之一。
+
+Raising rates would support the euro, which has surrendered more than 10 percent of its value against the dollar this year. But Europe is confronting not only weakening growth but also soaring prices, which customarily calls for lifting rates to snuff out spending. Navigating the balance between protecting jobs and choking off inflation is difficult enough in simpler times. 
+加息将支撑欧元，欧元兑美元汇率今年已下跌逾10%。但欧洲面临的不仅是增长疲软，还有物价飙升，这通常要求加息以抑制支出。在相对简单的情况下，在保护就业和抑制通胀之间找到平衡已经够困难的了。
+
+When Russia invaded Ukraine in February, Mr. Kishida strongly condemned Russia’s actions without hesitation and swiftly enacted sanctions. Eight years earlier, Mr. Abe, keen to foster a relationship with President Vladimir V. Putin, had dragged his feet on imposing sanctions after Russia annexed Crimea. 
+当俄罗斯2月入侵乌克兰时，岸田文雄毫不犹豫地强烈谴责了俄罗斯的行为，并迅速实施了制裁。八年前，渴望与俄罗斯总统普京发展关系的安倍晋三在俄罗斯吞并克里米亚后迟迟没有实施制裁。
+
+Mr. Kishida was a strong drinker but a boring talker, He has also quietly differentiated himself from his predecessor. Mr. Kishida started out by trying to distinguish himself from Mr. Abe, offering a “new capitalism” as a departure from Mr. Abe’s well-known economic platform, dubbed “Abenomics.” 
+岸田文雄酒量很大，但说话无聊，他也悄悄表明自己同前任的差异。他提出了一种“新资本主义”，与安倍晋三著名的经济纲领“安倍经济学”背道而驰。
+
+Sun, sand, sightings of celebrities in their natural habitats: Tourists have long descended on Los Angeles for some combination of the above.
+阳光、沙滩，随处可见怡然自得的名人——长久以来，洛杉矶就以这些特征吸引着游客的到来。
+
+Los Angeles’ comeback story is well underway, We’re optimistic that we’ll see full recovery in Los Angeles by the end of 2023
+洛杉矶的逆袭正在顺利进行，我们乐观地认为，到2023年底，洛杉矶将全面复苏
+
+If Los Angeles wasn’t the nation’s preeminent city for sushi before, it is now. Low-carb cliches be damned, pizza is having a moment. Los Angeles added 2,100 new hotel rooms in 2021, and there’s a home away from home for every type of traveler. 
+就算以前不是，如今的洛杉矶也是全美首屈一指的寿司之都。把低碳健康的陈词滥调抛到一边，披萨才是正当红的美食。2021年，洛杉矶新增了2100间酒店客房，保证每一种类型的旅行者都能感受到宾至如归。
+
+Last week, with rising oil prices damaging him politically, President Biden traveled to Jeddah and bestowed a fist bump on the Saudi crown prince, Mohammed bin Salman.
+然而随着油价上涨对拜登造成了政治上的损害，上周，他前往吉达并和沙特王储穆罕默德·本·萨勒曼碰拳问候。
+
+Despite their differences on Syria, the leaders took care to exude bonhomie. Mr. Erdogan did not back down, at least publicly.
+尽管在叙利亚问题上存在分歧，几位领导人一直有意表现出其乐融融的样子。埃尔多安没有让步，至少没有公开这样做。
+
+Extreme heat is becoming increasingly common across the globe, with longer, more frequent heat waves spreading each year. These rising temperatures can put many at risk for heat-related illnesses, including heat stroke and heat exhaustion. 
+极端高温在全球越来越普遍，热浪的持续时间和出现频率逐年增加。不断上升的气温令许多人有可能罹患热射病和热衰竭等与高温有关的疾病。
+
+With his lucky Pooh bear perched somewhere in the rink, Hanyu performed with a rare combination of grace and power, skating across the ice as smoothly as a gently flowing river before rocketing into technically difficult jumps that made his competitors gasp in admiration.
+羽生结弦的幸运维尼熊在冰场的某个地方安静地等待着。他的表演是一种罕见的优雅与力量的结合，像一条缓缓流淌的河流一样平稳地滑过冰面，然后迅速进入高难度跳跃，让他的竞争对手赞叹不已。
+
+He was equal parts Evgeni Plushenko (known for his jumping) and Johnny Weir (a master of artistry). Emulating two of his skating heroes made Hanyu arguably the most well-rounded skater in the sport’s history. His goal was to appeal to all people, not just die-hard skating fans or fans from his home country of Japan, and he succeeded.
+他是叶夫根尼·普鲁申科（以跳跃闻名）和约翰尼·威尔（艺术表现大师）的结合。羽生结弦对他的这两位滑冰英雄的模仿，使他成为花滑历史上最全方位发展的运动员。他的目标是吸引所有人，而不仅仅是铁杆滑冰爱好者或祖国日本的粉丝，他成功了。
+
+The death, by euthanasia, was announced by the park. As the news of An An’s death spread, an outpouring of condolences flowed online from the public. An An had “brought us fond memories with numerous heartwarming moments. His cleverness and playfulness will be dearly missed.”
+公园宣布已为安安施行了安乐死，随着安安逝世的消息传开，民众在网上纷纷表达哀悼。安安“为大家带来无数欢乐回忆，我们将永远怀念它聪敏和调皮的身影”。
+
+While the United States likes to wrap its alliances in grandiloquent words about shared values and democracy, The Turks continue to play both sides against the middle and they are in a very strong position to do so, It’s a highly profitable game politically, economically and strategically — but that excludes any new alliance.
+美国喜欢用关于共同价值观和民主的华丽词藻来包装其联盟，土耳其人继续搞鹬蚌相争、渔翁得利那一套，他们在这方面处于非常有利的地位，这是一个在政治、经济和战略上都非常有利可图的游戏——但这不包括任何新的联盟。
+
+Historically, of course, such statements didn’t always survive scrutiny. Real-time reports on Donald Trump’s condition when he tested positive for the coronavirus in October 2020 turned out to wildly understate how sick he was. 
+当然，从历史上看，这样的说法并不总能经得起推敲。2020年10月特朗普的新冠病毒检测呈阳性时，有关他病情的实时报道被证明大大低估了他的病情。
+
+The long-dominant L.D.P. and its allies secured the two-thirds majority in Parliament’s upper house required to initiate a national referendum on amending the Constitution. But that was widely expected even before Mr. Abe’s murder, and the ruling coalition’s gains stemmed in part from divisions within the opposition rather than a pro-Abe groundswell. It’s time to beat Mr. Abe’s swords into plowshares.
+长期占据主导地位的自民党及其盟友在参议院赢得了三分之二的多数席位，满足了修宪问题发起全民公投的必要条件。但早在安倍晋三被刺之前，人们就普遍预料到了这会发生，在一定程度上，执政联盟之所以赢得更多席位是因为反对派内部出现了分歧，而不是亲安倍情绪高涨。是化安倍晋三的干戈为玉帛的时候了。
+
+A new book, “Streets of Gold: America’s Untold Story of Immigrant Success,” wrote that America really does have golden streets that allow immigrants to quickly make more than they could have earned at home,
+新书《遍地黄金——美国不为人知的移民成功故事》写道美国确实遍地黄金，让移民能迅速赚到比他们在本国更多的钱。
+
+The children had an easy time outdoing parents whose careers were inhibited by poor language skills or a lack of professional credentials. The classic example is an immigrant doctor who winds up driving a cab in the United States.
+孩子们很容易超越那些因语言能力差或缺乏职业资质而发展受阻的父母。一个典型的例子是，一个移民医生最后在美国开出租车。
+
+In slapping China’s ride-hailing giant, Didi Global, with a record $1.2 billion fine for data breaches, Beijing made clear to the country’s internet companies that their freewheeling days were over. The authorities’ concerns about data security are not unfounded. In the short term, the government will probably relent on Didi, allowing it to restore its apps in stores. 
+中国政府以数据泄露为由，对网约车巨头滴滴全球股份有限公司开出了80.26亿元人民币的创纪录罚单。这是在明确告知中国的互联网企业，随心所欲的日子已经结束。当局对数据安全的担忧并非毫无根据。短期内，政府可能会放滴滴一马，允许其应用程序在网店重新上架。
+
+And when you look at how social media has divided Western societies and amplified lies and liars, you’d also have to ask whether China has not both lost something and gained something from its tighter controls.
+当你看到社交媒体如何分裂西方社会并放大谎言和纵容说谎者时，你不得不问，中国算不算从更严格的控制中失之东隅，收之桑榆。
