@@ -973,6 +973,11 @@ find /etc -iname '*network*'
 $ find . -type f -name *.xml
 ./pom.xml
 
+# 查找当前目录下空目录
+$ find . -type d -empty
+# 查找当前目录下名为classes的空目录
+$ find . -type d -name classes -empty
+
 # 查找文件并返回全路径结果
 $ find $PWD -type f -name *.xml
 $ find $(pwd) -type f -name *.xml
@@ -1322,10 +1327,10 @@ grep -i error 1.log
 # -c 搜索'error'并统计数量
 grep -c error 1.log  
 
-# -H, --with-filename 每一条匹配记录都显示出对应文件名,默认的命令选项
-# -h, --no-filename 匹配记录都不显示对应文件名
+# -H, --with-filename 每一条匹配记录都显示出对应文件名
+# -h, --no-filename 匹配记录都不显示对应文件名,默认的命令选项
 # 查找相关日志记录并按世界排序
-grep -h 'BaseApp' *log | sort > BaseApp.log
+grep -H 'BaseApp' *log | sort > BaseApp.log
 
 # 当前目录下所有文件中搜寻 'show'
 $ grep show *
@@ -2216,6 +2221,7 @@ awk [options] 'pattern {action}' file
 # NR 内建变量 表示全部记录数目 number of records 
 # NF 表示被分隔出的字段数目 number of fields
 # FNR 表示当多个文件被处理时，NR会持续累积，而FNR每一个新文件都是从头计数
+# '/<key>/' 关键字要用双斜杠包含
 $ awk '/spring/ && NR>=88 && NR<=95' pom.xml 
 <groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter-web</artifactId>
@@ -2273,6 +2279,42 @@ $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk '{ ORS = (NR
 # 设奇数行分隔符是逗号','，偶数行分隔符是换行符
 <groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter-web</artifactId>
 <groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter</artifactId>
+
+# 将 maven project 的 dependency lib list 通过awk转换成命令行
+# 利用 dependency:build-classpath 输出 project在运行时的依赖库列表到文件 cp.txt
+mvn dependency:build-classpath -DincludeScope=runtime -Dmdep.outputFile=cp.txt
+# mvn classpath输出结果是一整行，lib数量多查看困难。使用awk脚本来罗列
+# 通过classpath的冒号来分隔列，循环脚本处理分隔的每一列数据，如果包含'.jar' 则输出为一行结果
+awk -F'[:]' '{i=1; while(i<NF){if(index($i, ".jar")){print $i;} i=i+1;}}' cp.txt | sort -d
+...
+/home/king/.m2/repository/org/ow2/asm/asm/7.1/asm-7.1.jar
+/home/king/.m2/repository/org/reflections/reflections/0.9.11/reflections-0.9.11.jar
+/home/king/.m2/repository/org/slf4j/jul-to-slf4j/1.7.32/jul-to-slf4j-1.7.32.jar
+/home/king/.m2/repository/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar
+/home/king/.m2/repository/org/springframework/boot/spring-boot/2.5.8/spring-boot-2.5.8.jar
+...
+
+# 如果不想带目录则用 / 做分隔符
+awk -F'[/]' '{i=1; while(i<NF){if(index($i, ".jar")){print $i;} i=i+1;}}' cp.txt | sort -d
+...
+proto-google-common-protos-2.0.1.jar:
+reflections-0.9.11.jar:
+slf4j-api-1.7.32.jar:
+snakeyaml-1.28.jar:
+spring-aop-5.3.14.jar:
+...
+# 通过 \ 把一行命令变成多行显示
+awk -F'[/]' '{i=1; while(i<NF){if(index($i, ".jar")){print $i"\\";} i=i+1;}}' cp.txt | sort -d
+...
+proto-google-common-protos-2.0.1.jar:\
+reflections-0.9.11.jar:\
+slf4j-api-1.7.32.jar:\
+snakeyaml-1.28.jar:\
+spring-aop-5.3.14.jar:\
+...
+# printf 命令输出结果不换行，可以用来把上面所有列数据合并到一行
+awk -F'[/]' '{i=1; while(i<NF){if(index($i, ".jar")){print $i;} i=i+1;}}' cp.txt | sort -d | awk '{printf $0}'
+...:proto-google-common-protos-2.0.1.jar:reflections-0.9.11.jar:...
 
 # https://www.baeldung.com/linux/join-multiple-lines
 # 累积计算后输出变量

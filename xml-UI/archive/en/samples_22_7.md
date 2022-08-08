@@ -237,3 +237,24 @@ In slapping China’s ride-hailing giant, Didi Global, with a record $1.2 billio
 
 And when you look at how social media has divided Western societies and amplified lies and liars, you’d also have to ask whether China has not both lost something and gained something from its tighter controls.
 当你看到社交媒体如何分裂西方社会并放大谎言和纵容说谎者时，你不得不问，中国算不算从更严格的控制中失之东隅，收之桑榆。
+
+The melting of snow and ice from mountainous areas would increase the risk of dam failure, and that it had already caused flash floods and mudslides. the heat could drain moisture from the soil in Gansu and Shaanxi Provinces, hurting harvests of corn and cotton, and damage rice harvests in the Yangtze River basin.
+山区冰雪的融化将增加大坝决堤的风险，而且已经造成了山洪暴发和泥石流。高温会造成甘肃和陕西的土壤出现水分流失，影响玉米和棉花的收成，并影响长江流域的水稻收成。
+
+As elsewhere in the world, the toll has fallen on some of the most vulnerable, including the poor and elderly. 
+与世界其他地方一样，受伤害的是包括穷人和老人在内的一些最脆弱的群体。
+
+To date, though, China has more often preferred to deal with debtor problems case-by-case, which gives it leverage to pursue parochial interests, rather than to coordinate a strategy with other creditors
+不过，中国直到现在更经常采取的做法是根据各个债务国的情况单独处理，这让中国有能力追求本国的局部利益，而不是与其他债权人协调解决方案
+
+Provoking a foreign crisis to take attention away from such issues is a tried-and-true technique of leaders everywhere, but it will make it harder for Mr. Biden to lower the temperature on Thursday. This is the kind of relationship-tending that President Biden believes strongly in doing even with nations with which you might have significant differences
+通过挑起一场外国危机来转移人们对此类问题的注意力，这是各国领导人屡试不爽的手法，但这会让拜登更难在周四为事态降温。拜登总统坚信，即使与那些可能存在重大分歧的国家，也应该保持这种关系维护
+
+Likewise, American successes and setbacks have hardly paralleled the performance of other democracies, for better or worse.
+同样，美国的成败得失跟其它民主政体的表现也谈不上一一对应，无论这算是好事还是坏事。
+
+But we are sleepwalking into a crisis. Leaders on all sides must wake up and find offramps to avoid a dangerous confrontation that neither side wants.
+但我们正在迷糊地步入一场危机。各方的领导人都必须清醒过来，寻找出路，避免发生各方都不愿看到的危险对抗。
+
+In China, the drive to catch up and manufacture the most advanced chips is part of the “Made in China 2025” program. But 2025 isn’t very far away, meaning the money will just get flowing while Chinese and other competitors move on to their next set of goals. Meanwhile, the American semiconductor industry has withered
+在中国，弥补差距、生产出最先进的芯片的努力属于“中国制造2025”计划的一部分。然而离2025已经没多久了，这意味着等钱开始流动时，中国和其它竞争对手已经在着手下一组目标。

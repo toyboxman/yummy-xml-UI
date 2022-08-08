@@ -57,6 +57,7 @@
         `calibre/ghostwriter和pandoc`
     - Jenkins构建CI/CD/DevOps[[1](https://mp.weixin.qq.com/s/-QwpjlbyjCxHc2ROsglIOA), [2](https://mp.weixin.qq.com/s/fJdwz-GJRgVnXM9FJRY2GA), [3](https://mp.weixin.qq.com/s/Rnux4uL4IA0qFmBK-FimoA)]
         - [ninja/make/bazel增量构建方式](https://mp.weixin.qq.com/s/kGbimDS4gEkYIMr6US8g-A)
+        - bazel[[1](http://paulyangtools.blogspot.com/2018/04/bazel-build.html)]
     - [开发过程中开源工具](https://mp.weixin.qq.com/s/_Cg1cwHgMXaOzwYQzwoTkQ)  
         `tmate --协作编程共享终端访问`<br>
         `asciinema --终端录制工具`

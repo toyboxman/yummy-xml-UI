@@ -16,7 +16,9 @@
   + [Docker Image瘦身](https://mp.weixin.qq.com/s/z1a8JUNFrQjSSER3W8Hw6g)  
   - [Go应用docker镜像瘦身](https://mp.weixin.qq.com/s/4a6d4P0Gzb4uC-99XMABIw)
 + [Podman：一个更安全的运行容器的方式](https://mp.weixin.qq.com/s/JBQLqxUqZdGpQaU2iauFzA)
-+ [OverlayFS](https://mp.weixin.qq.com/s/KEKecCY6Y-i1sWa6T9jiAg)
++ Docker Networks
+  + [OverlayFS](https://mp.weixin.qq.com/s/KEKecCY6Y-i1sWa6T9jiAg)
+  + [容器云平台网络架构](https://mp.weixin.qq.com/s/_4mO4hBvaZFnoJlPhUJ7gQ)
 + [Portainer.io监控和管理Docker容器](https://mp.weixin.qq.com/s/NPo9oOcm3CSLXjEonnQRgA)
 
 ---
@@ -118,7 +120,16 @@ docker rm <NAME | ID>
 docker stop <NAME | ID>  
 # Start one or more running containers
 # 启动两个container，用tab可以自动不全当前stopped的container
+# 基础镜像，没有运行任何进程，会退出，Docker是内核虚拟化，在进程，网络，存储，资源方面做轻量级隔离，
+# 如果没有进程运行，就不会存在容器(这也是镜像与容器的最基本区别)。
+# 所以可以加一个执行命令试试（作为0号进程）docker pull centos:5 docker run -itd --net=host --name=centos centos:5 /bin/bash
 docker start jaeger griffin
+
+# 查看container的日志
+docker logs <NAME | ID>
+# 也可以通过systemd命令查看，有些系统不支持需要查看日志文件
+# https://zhuanlan.zhihu.com/p/413553112
+journalctl -u docker.service
 
 # copy locally current file to docker instance folder
 docker cp ./zkCache.sh <NAME | ID>:/opt/zk
