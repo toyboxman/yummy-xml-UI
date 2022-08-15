@@ -1519,6 +1519,8 @@ $ curl --head --location "https://bit.ly/2yDyS4T"
 ```console
 # wget download jdk package w/ header
 # -c / --continue  Continue getting a partially-downloaded file
+# -O 指定下载文件的完整路径 -O /home/king/jdk/jdk-8.tgz
+# -P 指定下载文件的目录 -P /home/king/software 所有下载文件均放入software目录
 wget -c --no-cookies \
 --no-check-certificate \
 --header "Cookie: oraclelicense=accept-securebackup-cookie" \
@@ -1526,10 +1528,12 @@ wget -c --no-cookies \
 -O jdk-8-linux-x64.tar.gz
 
 # curl download jdk package w/ header
-# -L / --location Required for curl to redirect through all the mirrors
-# -C -/ --continue-at -  See above, curl requires the dash (-) in the end
+# -L / --location 如果请求URL被move到其他位置(HTTP 3XX， header返回新URL), curl将重新发起请求。with -i, --include or -I, --head, 所有headers将会显示
+# -C - / --continue-at -  See above, curl requires the dash (-) in the end
 # -b / --cookie Same as -H / --header "Cookie: ...", but accepts files too
-# -O Required for curl to save files
+# -O / --remote-name 下载文件与远程文件保持相同文件名(仅文件名，远程父级目录路径都会删除), 下载文件包存在当前执行目录
+# -o / --output <file> 指定下载文件的完整路径
+# --output-dir <dir> 指定下载文件的目录
 curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
 http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz
 ```
@@ -1889,13 +1893,19 @@ $ ls > file
 #### chmod
 ```console
 # ugoa(owner,group,others, all users) rwx(4,2,1)
+# -R change files and directories recursively
 $ chmod ugoa+rwx file == chmod 7777 file
 ```
 
 #### chown
 ```console
 # 修改当前folder及所有子级目录的owner为用户stack
+# -h, --no-dereference affect  改变symbolic  links，而不改变实际文件归属(仅在支持the ownership of a symlink改变系统生效)
 $ chown -hR stack folder/    
+
+# 修改当前folder及所有子级目录的owner/group
+# chown -R [owner]:[group] folder/
+$ chown -R mysql:db_grp /opt/db/logs
 ```
 
 #### chgrp

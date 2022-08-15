@@ -130,7 +130,13 @@ docker logs <NAME | ID>
 # 也可以通过systemd命令查看，有些系统不支持需要查看日志文件
 # https://zhuanlan.zhihu.com/p/413553112
 journalctl -u docker.service
+```
 
+# Docker Copy 
+容器无法启动,里面配置文件有错，通过copy(替换，新增容器中文件)/commit(替换，新增，删除)配置文件解决 
+- cp修改 [[1](https://zhuanlan.zhihu.com/p/159426055)]
+- commit修改 [[1](https://zhuanlan.zhihu.com/p/147026163), [2](https://www.jianshu.com/p/d4098f776054)]
+```console
 # copy locally current file to docker instance folder
 docker cp ./zkCache.sh <NAME | ID>:/opt/zk
 # 把spark main目录中所有examples源码并子目录copy到当前宿主机目录
@@ -176,6 +182,7 @@ Caution - These steps depend on your current /var/lib/docker being <br>an actual
 构建本地 image 需要用到build命令，过程分成定义和构建两步    
 1.定义image，通过 Dockerfile 文件描述image构建过程。 Dockerfile 指令接近 20 个，经常用到的不超过 10 个
 - Dockerfile[[1](https://segmentfault.com/a/1190000018108361),[2](https://zhuanlan.zhihu.com/p/102450025)]
+- ENTRYPOINT/CMD的区别[[1](https://zhuanlan.zhihu.com/p/30555962)]
 ```console
 # 指令是逐条执行，且相互独立
 # 引用基础镜像指令 FROM
