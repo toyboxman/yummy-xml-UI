@@ -8,6 +8,7 @@
 ### *Following content is about shell programming*
 - [bash调试](#shell脚本调试方法)
     + [bash执行顺序](https://mp.weixin.qq.com/s/LdHHVsK9UsQ1mNLgA1pdSw)
+    + [基本定义](https://mp.weixin.qq.com/s/T9piKzt0r2AEsrOud4VP8g)
 - [默认变量](#built-in-variables)
     + [Linux中使用变量](https://mp.weixin.qq.com/s/szuMT5OUGw6qnzmmHJZ36Q)
 - [变量赋值](#变量赋值)
@@ -181,6 +182,7 @@ w+x+y+z
 ```
 
 ### Built-in variables
+- ''（单引号），关闭所有引用; ""（双引号），保留$引用
 - $1, $2, $3, ... are the positional parameters.
 - $@ is an array-like construct of all positional parameters, {$1, $2, $3 ...}.
 - $* is the IFS expansion of all positional parameters, $1 $2 $3 ....
@@ -244,6 +246,85 @@ sh -x script.sh
 	fi
 	```
 
+* sub-shell  
+环境变量只能从父进程到子进程单向传递。在子进程中环境如何变更，均不会影响父进程的环境。当我们执行一个shell script时，其实是先产生一个sub-shell的子进程， 然后sub-shell再去产生命令行的子进程。
+    - ( ) 将 command group 置于 sub-shell 执行
+    - { } 则是在同一个shell内完成
+```sh
+# 创建子shell执行脚本
+./1.sh
+# 当前shell执行
+source 1.sh
+# 当前shell执行后退出
+exec 1.sh
+```
+
+* 字符串处理 $(()) 与 $() 还有 ${}
+```sh
+file=/dir1/dir2/dir3/my.file.txt
+# 我们可以用 ${ } 分别替换获得不同的值：
+# 规则为：
+# 是去掉左边(在键盘上 # 在 $ 之左边)
+# % 是去掉右边(在键盘上 % 在 $ 之右边)
+# 单一符号是最小匹配﹔两个符号是最大匹配
+
+# 1. shell字符串的非贪婪(最小匹配)左删除
+${file#*/} # 拿掉第一条 / 及其左边的字符串：dir1/dir2/dir3/my.file.txt
+# 2. shell字符串的贪婪(最大匹配)左删除
+${file##*/} # 拿掉最后一条 / 及其左边的字符串：my.file.txt
+${file##*.} # 拿掉最后一个 . 及其左边的字符串：txt
+# 3. shell字符串的非贪婪(最小匹配)右删除：
+${file%/*} # 拿掉最后条 / 及其右边的字符串：/dir1/dir2/dir3
+${file%.*} # 拿掉最后一个 . 及其右边的字符串：/dir1/dir2/dir3/my.file
+# 4. shell字符串的贪婪(最大匹配)右删除：
+${file%%/*} # 拿掉第一条 / 及其右边的字符串：(空值)
+${file%%.*} # 拿掉第一个 . 及其右边的字符串：/dir1/dir2/dir3/my
+
+# 提取规则:分清楚 unset 与 null 及 non-null 这三种赋值状态.
+# ':' 与 null 有关, 若不带 ':' 的话, null 不受影响, 否则 null 也受影响.
+
+# 5. shell字符串取子串：
+${file:0:5}：提取最左边的 5 个字节：/dir1
+${file:5:5}：提取第 5 个字节右边的连续 5 个字节：/dir2
+
+# 6. shell字符串变量值的替换：
+${file/dir/path}：将第一个 dir 提换为 path：/path1/dir2/dir3/my.file.txt
+${file//dir/path}：将全部 dir 提换为 path：/path1/path2/path3/my.file.txt
+
+# 7. ${}还可针对变量的不同状态(没设定、空值、非空值)进行赋值：
+${file-my.file.txt} ：假如 $file 没有设定，则使用 my.file.txt 作传回值。(空值及非空值时不作处理) 
+${file:-my.file.txt} ：假如 $file 没有设定或为空值，则使用 my.file.txt 作传回值。(非空值时不作处理)
+${file+my.file.txt} ：假如 $file 设为空值或非空值，均使用 my.file.txt 作传回值。(没设定时不作处理)
+${file:+my.file.txt} ：若 $file 为非空值，则使用 my.file.txt 作传回值。(没设定及空值时不作处理)
+${file=my.file.txt} ：若 $file 没设定，则使用 my.file.txt 作传回值，同时将 $file 赋值为 my.file.txt 。(空值及非空值时不作处理)
+${file:=my.file.txt} ：若 $file 没设定或为空值，则使用 my.file.txt 作传回值，同时将 $file 赋值为 my.file.txt 。(非空值时不作处理)
+${file?my.file.txt} ：若 $file 没设定，则将 my.file.txt 输出至 STDERR。(空值及非空值时不作处理)
+${file:?my.file.txt} ：若 $file 没设定或为空值，则将 my.file.txt 输出至 STDERR。(非空值时不作处理)
+
+
+# 8. 计算shell字符串变量的长度：${#var}
+${#var} 可计算出变量值的长度：
+${#file} 可得到 27 ，因为 /dir1/dir2/dir3/my.file.txt 刚好是 27 个字节...
+
+# 9. bash数组(array)的处理方法
+数组:
+A=(a b c d)
+引用数组:
+${A[@]}
+${A[*]}
+访问数组成员
+${A[0]}
+计算数组长度
+${#A[@]}
+${#A[*]}
+数组重新赋值
+A[2]=xyz
+
+# 10.$(( ))是用来做整数运算的 
+a=5;b=7;c=2;
+echo $(( a + b * c))
+```
+
 ### 变量赋值   
 经常需要将命令执行结果赋值给shell中变量，可以用下面两种方式
 
@@ -254,8 +335,8 @@ eval A=`whoami`
 ```
 - 直接赋值
 ```sh
-# 赋值等号两边不要有空格
-# 把当前用户名赋值给变量
+# 变量定义：A=value，等号左右两边不能使用分隔符; 取消变量 unset A
+# 赋值等号两边不要有空格,把当前用户名赋值给变量
 B=`whoami | awk '{print $1}'` 
 # 输出log.txt文件owner/group
 C=`ls ./log.txt | xargs stat --printf " %U:%G \n"` 
@@ -486,6 +567,8 @@ done
 还可以传入循环参数
 ```sh
 # Use "$@" to represent all the arguments in test.sh
+# "$@" 则可得到 “p1” “p2 p3” “p4” 这三个不同的词段
+# "$*" 则可得到 “p1 p2 p3 p4” 这一整串单一的词段
 for var in "$@"
 do
     echo "$var"

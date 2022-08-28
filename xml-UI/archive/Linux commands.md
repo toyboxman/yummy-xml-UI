@@ -65,8 +65,7 @@
     - [Regular Expression [ [], *, ? ]](#regular-expression)     
     - [Sed](#sed)
     - [Sort](#sort)
-    - [screen](https://mp.weixin.qq.com/s/k6au7oeZgn6vlIBW9_CSUQ)
-    - [Script](#script)
+    - [Script/Screen/tmux](#script)
     - [Strings](#strings)
     - [Tee](#tee)
     - [Uniq](#uniq)
@@ -163,7 +162,7 @@
         - [mtr检测网络联通性](https://mp.weixin.qq.com/s/-DWPyHyGD_Lvdyp8KNSQ5w)
         - [网络测速工具fast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
         - [bmon/iftop/ntop查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
-        - [Nethogs/IOZone/IOTop/IPtraf/IFTop/HTop/NMON/MultiTail/Fail2ban/Tmux/Agedu/NMap/Httperf](https://mp.weixin.qq.com/s/x7wanQOitsOywBb9TP3zoQ)
+        - Nethogs/IOZone/IOTop/IPtraf/IFTop/HTop/NMON/MultiTail/Fail2ban/Tmux/Agedu/NMap/Httperf[[1](https://mp.weixin.qq.com/s/x7wanQOitsOywBb9TP3zoQ), [2](https://mp.weixin.qq.com/s/EJBsZRFJXX3cvEGQDi5Wsg)]
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
         - [nmcli管理网络连接](https://mp.weixin.qq.com/s/rsc0zeWYwFRlIIvPnJ5tzA)
@@ -629,6 +628,16 @@ ntpd       1181              ntp  rtd       DIR               0,38       294    
 ntpd       1181              ntp  txt       REG               0,38    859304    7010720 /usr/sbin/ntpd
 ntpd       1181              ntp  mem       REG               0,38     88280    7228151 /lib64/libz.so.1.2.8
 ntpd       1181              ntp  mem       REG               0,38     18712    7297500 /lib64/libdl-2.22.so
+
+# 1. 列出进程123和456所对应的文件信息
+# -p 指定进程号
+# -u 指定用户名
+lsof -p 123,456
+# 2. 列出所有的tcp链接
+# -i 列出所有的网络链接。
+lsof  -i tcp
+# 3. 查看占用了8080端口的进程信息
+lsof -i :8080
 ```
 
 #### stat/getfacl/setfacl
@@ -1144,6 +1153,23 @@ scp king@ip:/home/king/1.log ./king
 sshpass -p "password" scp -r user@172.10.1.1:/remote/path /local/path
 # 或者使用密码文件
 sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/path
+
+# -C 压缩的意思
+# -r 是循环传输整个目录
+# -p 表示保留原文件的一些属性
+# -l 表示限制贷款(kb/s)
+# -v 表示显示详细进程
+scp -Crvp -l 1024 logs/ root@remoetserver:/opt/logs
+
+# 如果传输的文件非常的大，比如每天上T的日志文件，你不可能每次都把这些文件传输一遍，所以增量备份会成为一个首要的需求
+# 两个小区别：rsync默认是只拷贝有变动的文件，scp是全量拷贝，所以rsync很适合做增量备份。scp是加密传输，而rsync不是
+# -r 表示递归
+# -p 表示保留属性
+# -z 表示开启压缩
+# --bwlimit 表示带宽限制
+# --exclude可以指定要忽略的文件
+# --progress 拷贝进度
+rsync -prz --exclude 'bin' --bwlimit=1024 logs/ root@remoetserver:/opt/logs
 ```
 
 #### file
@@ -1266,6 +1292,7 @@ c21e5d0d44640854c17bc5cb614530ca721486ab  pom.xml
 #### base64
 ```console
 # encode string
+# -n 取消换行符
 $ echo -n 'linux.com' | base64
 bGludXguY29t
 
@@ -1275,6 +1302,7 @@ linux.com
 
 # 避免echo回显换行符
 # -n do not output the trailing newline
+# -e 启用反斜杠转译
 root@dev:~# echo -n 'linux.com'
 linux.comroot@dev:~#
 
@@ -1971,6 +1999,8 @@ ip addr show br0
 ```console
 # 创建patch
 diff -u hello.c hello_new.c > hello.patch  
+# 相对于diff命令来说，vimdiff获取的结果是彩色的
+vimdiff file1 file2
 
 # 测试从patch文件导出差异
 patch -p 10 --dry-run < ../rb1138637.patch  
@@ -1985,6 +2015,7 @@ checking file src/java/controller/rest-server/src/test/java/controller/restserve
 patch -p 5 < ../rb1138637.patch  
 checking file src/test/java/com/example/EndPoint.java
 ```
+
 #### xargs
 + [xargs命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)
 ```console
@@ -2458,6 +2489,18 @@ read -a topic <<< "1 2 3";echo $topic[1]
 1[1]
 read -a topic <<< "1 2 3";echo $topic[2]
 1[2]
+
+# read 命令可用于获取用户的输入，并将其存储在变量中
+#!/usr/bin/env bash
+echo "What is your name?"
+# read name 执行后，会等待用户输入，然后会将用户输入的值（一个字符串）赋给变量 name
+read name
+echo "Your name is ${name}!"
+
+# read 命令中使用 -p(prompt) 选项，可以让代码显得更加简洁紧凑，但是功能跟上面的例子是一样的
+#!/usr/bin/env bash
+read -p "What is your name? " name
+echo "Your name is ${name}!"
 ```
 
 #### redirect symbol
@@ -2650,7 +2693,7 @@ MESSAGE=%=kscreen.xcb.helper:     Window: 35651588
 ```
 
 #### jq
-用命令来[解析和格式化输出 JSON](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614864&idx=2&sn=788bd41fde948f2704d4671d0c6e1b31)
+用命令来[解析和格式化输出 JSON](https://mp.weixin.qq.com/s/rqpVTW41fvGaZLxRU5RkBg)
 ```console
 cat name.json 
 [{"id": 1, "name": "Arthur", "age": "21"},{"id": 2, "name": "Richard", "age": "32"}]
@@ -2683,6 +2726,7 @@ cat name.json | jq '.[0].name'
 cat name.json | jq '.[0].id + 10'
 11
 ```
+
 检查一个 XML文档是否是所有的 tag 都正常
 ```cosole
 xmlwf cocre.xml
@@ -2724,6 +2768,16 @@ Script done, file is typescript
 
 # 查看录制输出
 cat typescript
+```
+远程登录了服务器，只能打开一个黑漆漆的窗口。如果再开一个的话，就需要重复相同的过程。ssh断开再登录仍然要重复操作。即使是Ctrl+z和fg配合，也只能让某一个命令在后台运行。Screen可以避免这些问题，很多Linux发行版中都预装了。tmux是更高级版本。直接执行screen命令，就可以开启一个新的screen session
+```console
+# 1 使用screen进入命令
+screen vim /etc/hosts
+# 2 在 screen 终端 下 按下 Ctrl+a d键，这将退出编辑窗口
+# 3 显示已创建的screen终端 
+screen -ls
+# 4 连接 screen_id 为 14000 的 screen终端
+screen -r 14000
 ```
 
 #### tee
@@ -2975,7 +3029,7 @@ SYN URGP=0
 
 #### nc
 + [nc用途](https://mp.weixin.qq.com/s/kPldmY_BtHyjXi5XGAuTIg)
-+ [nc开启后门](https://www.jianshu.com/p/c6226ddc0ec4)
++ nc开启后门[[1](https://www.jianshu.com/p/c6226ddc0ec4), [2](https://mp.weixin.qq.com/s/3TEwmbwsBFZ6av6WMkw2RA)]
 + [base64上传下载图片](https://www.imydl.tech/linux/689.html)
 + [网速吞吐量测试](https://mp.weixin.qq.com/s/E1M5ro-S1NHAhzkk3ZinNw)   
 
@@ -3032,6 +3086,11 @@ while true;do { printf '%b\r\n' 'HTTP/1.1 200 OK' '\r\n';cat index.html; }|nc -l
 # 浏览器访问http://10.83.0.254:9999 或者使用curl命令
 nc 10.83.0.254 9999
 HTTP/1.1 200 OK
+
+# 临时在服务器上开启一个HTTP服务，又不想安装Nginx或者Tomcat这么笨重的东西
+# 将在启动命令行的目录开启一个HTTP服务
+python3   -m http.server 9080
+Serving HTTP on :: port 9080 (http://[::]:9080/)
 ```
 
 #### ping/arping

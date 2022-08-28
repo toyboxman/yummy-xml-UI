@@ -135,6 +135,11 @@
             - [IO模型BIO/NIO/AIO](https://mp.weixin.qq.com/s/y5Plr1kfLHGS_oDMNhlASQ)
             - [vlan/三层交换机/网关/DNS/子网掩码/MAC](https://mp.weixin.qq.com/s/73u2kO43gGp0BCHncQO0ng)
         - [高性能网络架构](https://mp.weixin.qq.com/s/FnP_IARgpDcpefqEx931Lw)
+            - [网络性能的优化](https://mp.weixin.qq.com/s/tPxF5T_ELFuLXiQ56NcTdQ)
+        - DPU
+            - [网络架构的演进](https://mp.weixin.qq.com/s/qZdWH0YNmpvhYnm67hUHHg)
+            - [计算体系变革](https://mp.weixin.qq.com/s/FkyZ9wDgIlX4053MDPTkrA)
+            - [智能网卡](https://mp.weixin.qq.com/s/GblulfR7yyI72mLCUarUyg)
         - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
         - [Socks5 代理协议详解](https://mp.weixin.qq.com/s/Zc6QxCSt2yEuz1LoNj033Q)
         - DNS原理[[1](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg), [2](https://mp.weixin.qq.com/s/U6Jk54eix-VjWTUOlAZP3A)]

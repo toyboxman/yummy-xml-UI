@@ -89,6 +89,23 @@ docker pull java
 # https://www.docker-cn.com/registry-mirror
 docker pull registry.docker-cn.com/library/golang
 
+# push image
+# 1.查看当前local得repository中的镜像
+$ docker images
+REPOSITORY                                        TAG                 IMAGE ID       CREATED         SIZE
+jaegertracing/jaeger-query                        latest              5cf976234b0b   7 months ago    53.5MB
+jaegertracing/jaeger-collector                    latest              90d07b89b450   7 months ago    47MB
+elasticsearch                                     7.16.1              405db9d10ee0   8 months ago    642MB
+kibana                                            7.16.1              02f1088fcc07   8 months ago    1.3GB
+jaegertracing/all-in-one                          latest              dfcef08c2fac   9 months ago    57.4MB
+public.ecr.aws/docker/library/centos              7.9.2009            eeb6ee3f44bd   11 months ago   204MB
+# 2.给本地镜像打上合适标签, 标签格式 [push_ip:端口/namespace/name:版本号]
+docker tag public.ecr.aws/docker/library/centos:7.9.2009 projects.registry.example.com/aws/centos:latest
+# 3.镜像站点需要Authentication
+docker login --username=docker2020 projects.registry.example.com
+# 4.push image 等待upload时间，成功后可在站点对应空间看到image文件
+docker push projects.registry.example.com/aws/centos
+
 # remove image forcibly
 docker rmi -f <NAME | ID>  
 

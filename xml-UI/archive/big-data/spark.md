@@ -7,6 +7,7 @@
 SPARK核心分成四大块功能，分别对应机器学习，实时分析，非结构化数据查询和图处理。
 + Spark core – Foundation for data processing
 + Spark SQL – Based on Shark and helps in data extracting, loading and transformation
+  - [Spark SQL 进行结构化数据处理](https://mp.weixin.qq.com/s/i74PVoNxog2XrEdcOuUO5Q)
 + Spark streaming – Light API helps in batch processing and streaming of data
 + Machine learning library – Helps in machine learning algorithm implementation.
 + Graph Analytics(GraphX) – Helps in representing Resilient Distributed Graph
