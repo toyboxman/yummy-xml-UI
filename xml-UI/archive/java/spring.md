@@ -5,32 +5,32 @@
 ### Concept
 
 #### [Spring boot](https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm)
-Spring BootÌá¹©¿ª·¢stand-aloneºÍproduction-gradeµÄspringÓ¦ÓÃĞÂ·½Ê½£¬Æä±ÜÃâÁË¸´ÔÓµÄXML configuration£¬¼õÉÙÓ¦ÓÃ¿ª·¢Ê±¼ä£¬Ìá¹©¿ìËÙ¼òµ¥Æô¶¯Ó¦ÓÃµÄ·½Ê½¡£
+Spring Bootæä¾›å¼€å‘stand-aloneå’Œproduction-gradeçš„springåº”ç”¨æ–°æ–¹å¼ï¼Œå…¶é¿å…äº†å¤æ‚çš„XML configurationï¼Œå‡å°‘åº”ç”¨å¼€å‘æ—¶é—´ï¼Œæä¾›å¿«é€Ÿç®€å•å¯åŠ¨åº”ç”¨çš„æ–¹å¼ã€‚
 
-°üÀ¨ÈçÏÂÌØµã£º<br>
-1. Áé»îÅäÖÃJava Beans, XML configurationsºÍDatabase Transactions.
-2. Ç¿´óµÄÅú´¦ÀíºÍ¹ÜÀíREST endpoints.
-3. Ò»ÇĞ¶¼ÊÇ×Ô¶¯ÅäÖÃ£¬²»ĞèÒª¶îÍâÊÖ¶¯ÅäÖÃ.
-4. ÊµÏÖÍêÈ«annotation-based spring application
-5. ¼ò»¯ÒÀÀµ¹ÜÀí
-6. ÄÚÇ¶Servlet Container
+åŒ…æ‹¬å¦‚ä¸‹ç‰¹ç‚¹ï¼š<br>
+1. çµæ´»é…ç½®Java Beans, XML configurationså’ŒDatabase Transactions.
+2. å¼ºå¤§çš„æ‰¹å¤„ç†å’Œç®¡ç†REST endpoints.
+3. ä¸€åˆ‡éƒ½æ˜¯è‡ªåŠ¨é…ç½®ï¼Œä¸éœ€è¦é¢å¤–æ‰‹åŠ¨é…ç½®.
+4. å®ç°å®Œå…¨annotation-based spring application
+5. ç®€åŒ–ä¾èµ–ç®¡ç†
+6. å†…åµŒServlet Container
 
 ### Spring Boot Usage
 
 <div id = "bu1"></div>
 
 #### 1. application entry
-Spring BootÌá¹© **@SpringBootApplication** À´ÉùÃ÷applicationµÄÈë¿Ú£¬±»Ö¸¶¨ÎªÓ¦ÓÃÈë¿Úclasss¿ÉÒÔÉêÃ÷Ò»¸ö»ò¶à¸ö@Bean methods£¬Í¬Ê±×Ô¶¯´¥·¢auto-configurationÓëcomponent scanningĞĞÎª. ÕâÊÇÎªconvenienceÊ¹ÓÃµÄºÏ¼¯±êÇ©£¬µÈÍ¬ÓÚÍ¬Ê±ÉùÃ÷ **@Configuration, @EnableAutoConfiguration,@ComponentScan**   
-- ²Î¿´Spring FrameworkËµÃ÷--[spring bootstrap](#u0)
+Spring Bootæä¾› **@SpringBootApplication** æ¥å£°æ˜applicationçš„å…¥å£ï¼Œè¢«æŒ‡å®šä¸ºåº”ç”¨å…¥å£classså¯ä»¥ç”³æ˜ä¸€ä¸ªæˆ–å¤šä¸ª@Bean methodsï¼ŒåŒæ—¶è‡ªåŠ¨è§¦å‘auto-configurationä¸component scanningè¡Œä¸º. è¿™æ˜¯ä¸ºconvenienceä½¿ç”¨çš„åˆé›†æ ‡ç­¾ï¼Œç­‰åŒäºåŒæ—¶å£°æ˜ **@Configuration, @EnableAutoConfiguration,@ComponentScan**   
+- å‚çœ‹Spring Frameworkè¯´æ˜--[spring bootstrap](#u0)
 - **code sample:**
 [1](https://github.com/apache/incubator-griffin/blob/master/service/src/main/java/org/apache/griffin/core/GriffinWebApplication.java#L31)
 
 <div id = "bu2"></div>
 
 #### 2. configuration binding
-Spring BootÌá¹© [**@ConfigurationProperties**](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding) ½«EnvironmentÖĞÅäÖÃµÄkeys°ó¶¨µ½¶ÔÓ¦¶ÔÏóÊôĞÔÖĞ£¬°üÀ¨Simple property binding£¬Collection-based binding£¬Array-based binding£¬Map-based binding£¬Nested property.
+Spring Bootæä¾› [**@ConfigurationProperties**](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding) å°†Environmentä¸­é…ç½®çš„keysç»‘å®šåˆ°å¯¹åº”å¯¹è±¡å±æ€§ä¸­ï¼ŒåŒ…æ‹¬Simple property bindingï¼ŒCollection-based bindingï¼ŒArray-based bindingï¼ŒMap-based bindingï¼ŒNested property.
 
-Spring Framework»¹Ìá¹©·ºĞÍ×¢Èë[autowire-generics-type](https://www.baeldung.com/spring-autowire-generics), ¼¯ºÏ×¢Èë[injecting-collections-type](https://www.baeldung.com/spring-injecting-collections) Á½ÖÖ·½Ê½
+Spring Frameworkè¿˜æä¾›æ³›å‹æ³¨å…¥[autowire-generics-type](https://www.baeldung.com/spring-autowire-generics), é›†åˆæ³¨å…¥[injecting-collections-type](https://www.baeldung.com/spring-injecting-collections) ä¸¤ç§æ–¹å¼
 
 <div id = "bubp"></div>
 
@@ -38,34 +38,34 @@ Spring Framework»¹Ìá¹©·ºĞÍ×¢Èë[autowire-generics-type](https://www.baeldung.com/
 
 - **@EnableAutoConfiguration**
 
-Spring BootÄÜ»ùÓÚÏîÄ¿ÒÀÀµ×Ô¶¯ÅäÖÃÓ¦ÓÃ. ÀıÈç£¬Èç¹ûMySQL libÔÚclasspathÖĞ, ¶øÄãÃ»ÅäÖÃdatabase connection, µ«Spring Boot»á×Ô¶¯ÅäÖÃÒ»¸öin-memory database.
+Spring Bootèƒ½åŸºäºé¡¹ç›®ä¾èµ–è‡ªåŠ¨é…ç½®åº”ç”¨. ä¾‹å¦‚ï¼Œå¦‚æœMySQL libåœ¨classpathä¸­, è€Œä½ æ²¡é…ç½®database connection, ä½†Spring Bootä¼šè‡ªåŠ¨é…ç½®ä¸€ä¸ªin-memory database.
 
 - **@ComponentScan**
 
-Spring Boot×Ô¶¯É¨ÃèËùÓĞÏîÄ¿ÖĞÓÃ´Ë±êÇ©ÉùÃ÷µÄcomponents£¬°üÀ¨´øÓĞ@Controller£¬@Service£¬@Repository£¬@Component×¢½âµÄclass¡£Í¨¹ıincludeFilters¼ÓÈëÉ¨ÃèÂ·¾¶ÏÂÃ»ÓĞÒÔÉÏ×¢½âµÄÀà¼ÓÈëspringÈİÆ÷¡£Í¨¹ıexcludeFilters¹ıÂË³ö²»ÓÃ¼ÓÈëspringÈİÆ÷µÄÀà¡£
+Spring Bootè‡ªåŠ¨æ‰«ææ‰€æœ‰é¡¹ç›®ä¸­ç”¨æ­¤æ ‡ç­¾å£°æ˜çš„componentsï¼ŒåŒ…æ‹¬å¸¦æœ‰@Controllerï¼Œ@Serviceï¼Œ@Repositoryï¼Œ@Componentæ³¨è§£çš„classã€‚é€šè¿‡includeFiltersåŠ å…¥æ‰«æè·¯å¾„ä¸‹æ²¡æœ‰ä»¥ä¸Šæ³¨è§£çš„ç±»åŠ å…¥springå®¹å™¨ã€‚é€šè¿‡excludeFiltersè¿‡æ»¤å‡ºä¸ç”¨åŠ å…¥springå®¹å™¨çš„ç±»ã€‚
 
 - **@SpringBootApplication**
 
-Spring BootÉè¶¨Ó¦ÓÃµÄÈë¿ÚµÄmain method£¬»á×Ô¶¯´¥·¢auto-configurationºÍcomponent scanningĞĞÎª¡£ÕâÊÇÒ»¸öconvenience annotation£¬µÈ¼ÛÓÚÍ¬Ê±ÉêÃ÷@Configuration, @EnableAutoConfigurationºÍ@ComponentScan¡£
+Spring Bootè®¾å®šåº”ç”¨çš„å…¥å£çš„main methodï¼Œä¼šè‡ªåŠ¨è§¦å‘auto-configurationå’Œcomponent scanningè¡Œä¸ºã€‚è¿™æ˜¯ä¸€ä¸ªconvenience annotationï¼Œç­‰ä»·äºåŒæ—¶ç”³æ˜@Configuration, @EnableAutoConfigurationå’Œ@ComponentScanã€‚
 
 - **@Component**
 
-Spring bean±íÃ÷,±»ÉùÃ÷µÄclassÊÇÒ»¸ö"component"£¬Ê¹ÓÃ×Ô¶¯ÅäÖÃºÍclasspath scanningÊ±ºò£¬ÕâÑùµÄclassesÄÜ¹»±»×Ô¶¯ÕÒµ½(auto-detection)¡£ÆäËûclass-level annotationsÒ²¿É±»ÈÏÎªÉùÃ÷Ò»¸öcomponent¡£e.g. **@Repository** annotation or AspectJ's **@Aspect** annotation¡£
+Spring beanè¡¨æ˜,è¢«å£°æ˜çš„classæ˜¯ä¸€ä¸ª"component"ï¼Œä½¿ç”¨è‡ªåŠ¨é…ç½®å’Œclasspath scanningæ—¶å€™ï¼Œè¿™æ ·çš„classesèƒ½å¤Ÿè¢«è‡ªåŠ¨æ‰¾åˆ°(auto-detection)ã€‚å…¶ä»–class-level annotationsä¹Ÿå¯è¢«è®¤ä¸ºå£°æ˜ä¸€ä¸ªcomponentã€‚e.g. **@Repository** annotation or AspectJ's **@Aspect** annotationã€‚
 
 - **@Service**
 
-Spring bean±íÃ÷,±»ÉùÃ÷µÄclassÊÇÒ»¸ö"Service", Ô­Ê¼¶¨ÒåÀ´×ÔÓÚDomain-Driven Design (Evans, 2003)£¬"an operation offered as an interface that stands alone in the model, with no encapsulated state." Ò²ÄÜÀí½âÎªclassÊÇÒ»¸ö"Business Service Facade" (in the Core J2EE patterns sense)¡£´Ë±êÇ©ÊÇ¸ögeneral-purpose stereotype£¬Ê¹ÓÃÕß¿ÉÒÔ¸ù¾İÊ¹ÓÃĞèÇóËõĞ¡ÆäÓïÒå·¶³ë¡£¿É¿´×ö@ComponentµÄÒ»ÖÖÌØÀı(specialization), ÔÊĞíÊµÏÖÀàÍ¨¹ıclasspath scanning±»×Ô¶¯ËÑË÷µ½¡£
+Spring beanè¡¨æ˜,è¢«å£°æ˜çš„classæ˜¯ä¸€ä¸ª"Service", åŸå§‹å®šä¹‰æ¥è‡ªäºDomain-Driven Design (Evans, 2003)ï¼Œ"an operation offered as an interface that stands alone in the model, with no encapsulated state." ä¹Ÿèƒ½ç†è§£ä¸ºclassæ˜¯ä¸€ä¸ª"Business Service Facade" (in the Core J2EE patterns sense)ã€‚æ­¤æ ‡ç­¾æ˜¯ä¸ªgeneral-purpose stereotypeï¼Œä½¿ç”¨è€…å¯ä»¥æ ¹æ®ä½¿ç”¨éœ€æ±‚ç¼©å°å…¶è¯­ä¹‰èŒƒç•´ã€‚å¯çœ‹åš@Componentçš„ä¸€ç§ç‰¹ä¾‹(specialization), å…è®¸å®ç°ç±»é€šè¿‡classpath scanningè¢«è‡ªåŠ¨æœç´¢åˆ°ã€‚
 
 - **@Controller**
 
-Spring bean±íÃ÷,±»ÉùÃ÷µÄclassÊÇÒ»¸ö"Controller" (e.g. a web controller)¡£ÕâÊÇ@ComponentµÄÒ»ÖÖÌØÀı£¬ÔÊĞíÊµÏÖÀà±»×Ô¶¯ËÑË÷µ½¡£µäĞÍÓ¦ÓÃÊÇClassÓë@RequestMappingÉùÃ÷µÄhandler·½·¨×éºÏÒ»ÆğÀ´´¦Àíweb URLµÄÓ³Éä¡£
+Spring beanè¡¨æ˜,è¢«å£°æ˜çš„classæ˜¯ä¸€ä¸ª"Controller" (e.g. a web controller)ã€‚è¿™æ˜¯@Componentçš„ä¸€ç§ç‰¹ä¾‹ï¼Œå…è®¸å®ç°ç±»è¢«è‡ªåŠ¨æœç´¢åˆ°ã€‚å…¸å‹åº”ç”¨æ˜¯Classä¸@RequestMappingå£°æ˜çš„handleræ–¹æ³•ç»„åˆä¸€èµ·æ¥å¤„ç†web URLçš„æ˜ å°„ã€‚
 
 - **@Repository**
 
-Spring bean±íÃ÷,±»ÉùÃ÷µÄclassÊÇÒ»¸ö"Repository", ×÷ÎªÒ»ÖÖ·â×°´æ´¢¡¢»ñÈ¡ºÍËÑÑ°Êı¾İĞĞÎªµÄ»úÖÆ¡£
-Spring 2.5Ö®ºó, ´Ë±êÇ©Ò²×÷Îª@ComponentµÄÒ»ÖÖÌØÀı, ÔÊĞíÊµÏÖÀàÍ¨¹ıclasspath scanning±»×Ô¶¯ËÑË÷µ½¡£
+Spring beanè¡¨æ˜,è¢«å£°æ˜çš„classæ˜¯ä¸€ä¸ª"Repository", ä½œä¸ºä¸€ç§å°è£…å­˜å‚¨ã€è·å–å’Œæœå¯»æ•°æ®è¡Œä¸ºçš„æœºåˆ¶ã€‚
+Spring 2.5ä¹‹å, æ­¤æ ‡ç­¾ä¹Ÿä½œä¸º@Componentçš„ä¸€ç§ç‰¹ä¾‹, å…è®¸å®ç°ç±»é€šè¿‡classpath scanningè¢«è‡ªåŠ¨æœç´¢åˆ°ã€‚
 
-- **Spring Boot starters**<br>Spring Boot»áÌá¹©Ò»Ğ©Ä£°å»¯ÒÀÀµ¹ØÏµ£¬À´½â¾ö²»Í¬ÀàĞÍ¹¤³ÌÒÀÀµ¹ÜÀíÄÑÌâ¡£ËùÓĞSpring Boot starters×ñÑ­ÏàÍ¬ÃüÃû¹æÔò spring-boot-starter- *, *±íÃ÷ÄÄÖÖÓ¦ÓÃ¡£ÀıÈç£¬Èç¹û¿ª·¢SpringÓëJPAÀ´·ÃÎÊÊı¾İ¿âÓ¦ÓÃ, ÔÚ¹¤³ÌÖĞ°üº¬spring-boot-starter-data-jpaµÄÒÀÀµ¾Í×ã¹»ÁË¡£
+- **Spring Boot starters**<br>Spring Bootä¼šæä¾›ä¸€äº›æ¨¡æ¿åŒ–ä¾èµ–å…³ç³»ï¼Œæ¥è§£å†³ä¸åŒç±»å‹å·¥ç¨‹ä¾èµ–ç®¡ç†éš¾é¢˜ã€‚æ‰€æœ‰Spring Boot starterséµå¾ªç›¸åŒå‘½åè§„åˆ™ spring-boot-starter- *, *è¡¨æ˜å“ªç§åº”ç”¨ã€‚ä¾‹å¦‚ï¼Œå¦‚æœå¼€å‘Springä¸JPAæ¥è®¿é—®æ•°æ®åº“åº”ç”¨, åœ¨å·¥ç¨‹ä¸­åŒ…å«spring-boot-starter-data-jpaçš„ä¾èµ–å°±è¶³å¤Ÿäº†ã€‚
     * write a Rest Endpoints
     ```
     <dependency>
@@ -76,20 +76,35 @@ Spring 2.5Ö®ºó, ´Ë±êÇ©Ò²×÷Îª@ComponentµÄÒ»ÖÖÌØÀı, ÔÊĞíÊµÏÖÀàÍ¨¹ıclasspath scanni
 
 - **AopUtils**
 
-SpringÖĞÍê³ÉAOP support¹¤¾ß·½·¨¼¯ºÏ£¬²Î¿´[api doc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/aop/support/AopUtils.html)
+Springä¸­å®ŒæˆAOP supportå·¥å…·æ–¹æ³•é›†åˆï¼Œå‚çœ‹[api doc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/aop/support/AopUtils.html)
 
 - **ReflectionUtils**
 
-Spring¹¤¾ßÀàÓÃÀ´¼ò»¯·´ÉäAPIÊ¹ÓÃ²¢´¦Àí·´Éäµ÷ÓÃ²úÉúÒì³£¡£²Î¿´[api doc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/ReflectionUtils.html)
+Springå·¥å…·ç±»ç”¨æ¥ç®€åŒ–åå°„APIä½¿ç”¨å¹¶å¤„ç†åå°„è°ƒç”¨äº§ç”Ÿå¼‚å¸¸ã€‚å‚çœ‹[api doc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/ReflectionUtils.html)
 
 - **AnnotationUtils**
 
-Í¨ÓÃ±êÇ©¹¤¾ß·½·¨´¦Àímeta-annotations, bridge methods(±àÒëÆ÷²úÉúµÄ·ºĞÍÉùÃ÷)ºÍsuper methods(ÓÃÓÚannotation inheritance)¡£Õâ¸öÀà´ó¶àÊıÌØĞÔJDKµÄ·´Éä¹¤¾ß(introspection facilities)±¾Éí¶¼²»Ìá¹©¡£×÷ÎªÔËĞĞÊ±±£Áô(runtime-retained)µÄ±êÇ©(Èçtransaction control, authorization, or service exposure), Ê¹ÓÃ´ËÀàµÄlookup·½·¨(ÈçfindAnnotation(Method, Class) or getAnnotation(Method, Class))Ìæ´úµ÷ÓÃJDKÖĞÔ­Ê¼µÄ·½·¨¡£²Î¿´[api doc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/index.html?org/springframework/aop/support/AopUtils.html)
+é€šç”¨æ ‡ç­¾å·¥å…·æ–¹æ³•å¤„ç†meta-annotations, bridge methods(ç¼–è¯‘å™¨äº§ç”Ÿçš„æ³›å‹å£°æ˜)å’Œsuper methods(ç”¨äºannotation inheritance)ã€‚è¿™ä¸ªç±»å¤§å¤šæ•°ç‰¹æ€§JDKçš„åå°„å·¥å…·(introspection facilities)æœ¬èº«éƒ½ä¸æä¾›ã€‚ä½œä¸ºè¿è¡Œæ—¶ä¿ç•™(runtime-retained)çš„æ ‡ç­¾(å¦‚transaction control, authorization, or service exposure), ä½¿ç”¨æ­¤ç±»çš„lookupæ–¹æ³•(å¦‚findAnnotation(Method, Class) or getAnnotation(Method, Class))æ›¿ä»£è°ƒç”¨JDKä¸­åŸå§‹çš„æ–¹æ³•ã€‚å‚çœ‹[api doc](https://docs.spring.io/spring-framework/docs/current/javadoc-api/index.html?org/springframework/aop/support/AopUtils.html)
 
 - **BeanPostProcessor**
 
-Ò»ÖÖFactory hookÔÊĞí¶ÔĞÂbeanÊµÀı×ö¶¨ÖÆĞŞ¸Ä, ÀıÈç¼ì²émarker interfaces(²»°üº¬·½·¨¶¨ÒåµÄ½Ó¿Ú)¡¢ÓÃproxiesÀ´°ü×°(wrap)ÕâĞ©bean¡£
-ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖĞÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃÇÓ¦ÓÃµ½ºóĞøbeanÊµÀıµÄ²úÉú¡£ÆÕÍ¨(Plain)bean¹¤³§ÔÊĞí³ÌĞòÊ½½øĞĞpost-processors×¢²á, ²¢Ó¦ÓÃµ½¹¤³§²úÉúµÄËùÓĞbeanÊµÀıÉÏ¡£µäĞÍÊ¹ÓÃ·½Ê½£¬Èç¹û²úÉúbeanÊµÀıÓ¦¸ÃÊµÏÖ½Ó¿ÚÖĞpostProcessBeforeInitialization, Èç¹ûÓÃproxiesÀ´°ü×°ÕâĞ©beanÔòÊµÏÖpostProcessAfterInitialization¡£ 
+ä¸€ç§Factory hookå…è®¸å¯¹æ–°beanå®ä¾‹åšå®šåˆ¶ä¿®æ”¹, ä¾‹å¦‚æ£€æŸ¥marker interfaces(ä¸åŒ…å«æ–¹æ³•å®šä¹‰çš„æ¥å£)ã€ç”¨proxiesæ¥åŒ…è£…(wrap)è¿™äº›beanã€‚
+ApplicationContextsèƒ½è‡ªåŠ¨åœ¨beançš„å®šä¹‰ä¸­æ‰¾åˆ°BeanPostProcessoræ ‡æ³¨çš„beansï¼Œå¹¶å°†å®ƒä»¬åº”ç”¨åˆ°åç»­beanå®ä¾‹çš„äº§ç”Ÿã€‚æ™®é€š(Plain)beanå·¥å‚å…è®¸ç¨‹åºå¼è¿›è¡Œpost-processorsæ³¨å†Œ, å¹¶åº”ç”¨åˆ°å·¥å‚äº§ç”Ÿçš„æ‰€æœ‰beanå®ä¾‹ä¸Šã€‚å…¸å‹ä½¿ç”¨æ–¹å¼ï¼Œå¦‚æœäº§ç”Ÿbeanå®ä¾‹åº”è¯¥å®ç°æ¥å£ä¸­postProcessBeforeInitialization, å¦‚æœç”¨proxiesæ¥åŒ…è£…è¿™äº›beanåˆ™å®ç°postProcessAfterInitializationã€‚ 
+
+- **Log output**
+
+[å®˜æ–¹æ–‡æ¡£](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.logging) é»˜è®¤æƒ…å†µä¸‹ä½¿ç”¨â€œStartersâ€, Logbackä¼šè¢«ä½¿ç”¨æ§åˆ¶loggingï¼Œç›¸å…³Logback routingä¼šè¢«åŒ…å«ç¡®ä¿åº•å±‚åº“Java Util Logging, Commons Logging, Log4J, or SLF4Jå·¥ä½œæ­£å¸¸.
+```sh
+# -Dlogging.level.xxx å¯ä»¥é€šè¿‡å¯åŠ¨å‚æ•°è®¾ç½®logè¾“å‡º
+# xxxå¯ä»¥æŒ‡å®šæ¨¡å— å¦‚ -Dlogging.level.root=TRACE è¾“å‡ºå…¨éƒ¨æ—¥å¿— 
+# -Dlogging.level.org.springframework=ERROR è¾“å‡ºspringframeworké”™è¯¯æ—¥å¿—
+/usr/bin/java -server \
+-Dlogging.level.root=TRACE \
+-cp \
+${DEPENDENT_LIBS} \
+com.vmware.sha.manager.ShaManagerApplication
+```
+
 
 ### Spring Framework Usage
 
@@ -97,12 +112,12 @@ ApplicationContextsÄÜ×Ô¶¯ÔÚbeanµÄ¶¨ÒåÖĞÕÒµ½BeanPostProcessor±ê×¢µÄbeans£¬²¢½«ËüÃ
 
 #### bootstrap
 
-´ó¶àÊı³¡¾°ÖĞSpringApplication.run(Object, String[]) method±»Ö±½Ó´Ómain methodµ÷ÓÃÀ´bootstrap application, Ä¬ÈÏbootstrap application»á×öÒÔÏÂ¼¸¼şÊÂ£º
+å¤§å¤šæ•°åœºæ™¯ä¸­SpringApplication.run(Object, String[]) methodè¢«ç›´æ¥ä»main methodè°ƒç”¨æ¥bootstrap application, é»˜è®¤bootstrap applicationä¼šåšä»¥ä¸‹å‡ ä»¶äº‹ï¼š
 
-1. ´´½¨ApplicationContextÊµÀı(ÒÀÀµÓÚ classpath)
-2. ×¢²áCommandLinePropertySource°Ñcommand line argumentsµ¼³ö³ÉSpring properties
-3. Ë¢ĞÂapplication context, ¼ÓÔØÈ«²¿singleton beans
-4. ´¥·¢CommandLineRunner beans
+1. åˆ›å»ºApplicationContextå®ä¾‹(ä¾èµ–äº classpath)
+2. æ³¨å†ŒCommandLinePropertySourceæŠŠcommand line argumentså¯¼å‡ºæˆSpring properties
+3. åˆ·æ–°application context, åŠ è½½å…¨éƒ¨singleton beans
+4. è§¦å‘CommandLineRunner beans
 
 ```java
 @EnableAutoConfiguration
@@ -115,7 +130,7 @@ public class MyApplication  {
     }
 }
 ```
-¸ü¶à¶¨ÖÆÅäÖÃµÄÆô¶¯¿ÉÒÔÈçÏÂÊµÏÖ
+æ›´å¤šå®šåˆ¶é…ç½®çš„å¯åŠ¨å¯ä»¥å¦‚ä¸‹å®ç°
 ```java
 public static void main(String[] args) throws Exception {
      SpringApplication app = new SpringApplication(MyApplication.class);
@@ -127,33 +142,33 @@ public static void main(String[] args) throws Exception {
 <div id = "u1"></div>
 
 #### properties injection
-springÔÊĞíÍ¨¹ı **@PropertySources** **@PropertySource** **@Value** **@ConfigurationProperties** **@TestPropertySource** [[***1***](https://www.baeldung.com/spring-value-annotation), [***2***](https://www.baeldung.com/properties-with-spring)] ·½Ê½À´½«ÅäÖÃÎÄ¼şÖĞµÄÖµÖ±½Ó¸³ÓèfieldÓò£¬Ê¡ÂÔ³ÌĞò×ÔĞĞ¼ÓÔØ¶ÁÈ¡¹ı³Ì¡£²¢ÇÒ»¹¿ÉÒÔÖ§³Ö¶Ôvalue½øĞĞ[ÔËËã](https://www.baeldung.com/spring-expression-language)
+springå…è®¸é€šè¿‡ **@PropertySources** **@PropertySource** **@Value** **@ConfigurationProperties** **@TestPropertySource** [[***1***](https://www.baeldung.com/spring-value-annotation), [***2***](https://www.baeldung.com/properties-with-spring)] æ–¹å¼æ¥å°†é…ç½®æ–‡ä»¶ä¸­çš„å€¼ç›´æ¥èµ‹äºˆfieldåŸŸï¼Œçœç•¥ç¨‹åºè‡ªè¡ŒåŠ è½½è¯»å–è¿‡ç¨‹ã€‚å¹¶ä¸”è¿˜å¯ä»¥æ”¯æŒå¯¹valueè¿›è¡Œ[è¿ç®—](https://www.baeldung.com/spring-expression-language)
 
-ÁíÍâ»¹ÄÜÖ§³Ö¶Ô·ÇÈİÆ÷¹ÜÀí[Not-Managed-bean](https://www.baeldung.com/inject-properties-value-non-spring-class)À´×¢Èëproperties
+å¦å¤–è¿˜èƒ½æ”¯æŒå¯¹éå®¹å™¨ç®¡ç†[Not-Managed-bean](https://www.baeldung.com/inject-properties-value-non-spring-class)æ¥æ³¨å…¥properties
 
 <div id = "u2"></div>
 
 #### bean creation
-springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.baeldung.com/spring-bean)] ·½Ê½À´ÉùÃ÷ÓÉspringÈİÆ÷¹ÜÀíµÄbean£¬Í¬Ê±¿ÉÒÔÖ¸¶¨×÷ÓÃ·¶Î§ **bean scope**
-- [**Bean Scope**](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBean.md)ÓĞÎåÖÖ×÷ÓÃÓò,ºóÈıÖÖ×÷ÓÃÓò½öÔÚ»ùÓÚwebµÄÓ¦ÓÃÖĞÊ¹ÓÃ(²»±Ø¹ØĞÄÄãËù²ÉÓÃµÄÊÇÊ²Ã´webÓ¦ÓÃ¿ò¼Ü),Ö»ÄÜÓÃÔÚ»ùÓÚ webµÄSpring ApplicationContext»·¾³¡£
-    - singleton(Î¨Ò»beanÊµÀı)
-    - prototype(Ã¿´ÎÇëÇó¶¼»á´´½¨Ò»¸öĞÂµÄbeanÊµÀı)
+springå…è®¸é€šè¿‡ **@Component** **@Configuration**ç­‰æ ‡ç­¾ [[***1***](https://www.baeldung.com/spring-bean)] æ–¹å¼æ¥å£°æ˜ç”±springå®¹å™¨ç®¡ç†çš„beanï¼ŒåŒæ—¶å¯ä»¥æŒ‡å®šä½œç”¨èŒƒå›´ **bean scope**
+- [**Bean Scope**](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBean.md)æœ‰äº”ç§ä½œç”¨åŸŸ,åä¸‰ç§ä½œç”¨åŸŸä»…åœ¨åŸºäºwebçš„åº”ç”¨ä¸­ä½¿ç”¨(ä¸å¿…å…³å¿ƒä½ æ‰€é‡‡ç”¨çš„æ˜¯ä»€ä¹ˆwebåº”ç”¨æ¡†æ¶),åªèƒ½ç”¨åœ¨åŸºäº webçš„Spring ApplicationContextç¯å¢ƒã€‚
+    - singleton(å”¯ä¸€beanå®ä¾‹)
+    - prototype(æ¯æ¬¡è¯·æ±‚éƒ½ä¼šåˆ›å»ºä¸€ä¸ªæ–°çš„beanå®ä¾‹)
     - request/session/global-session
 
 - **Application Context Events**
-¿ÉÒÔÍ¨¹ı[@EventListener](https://www.baeldung.com/spring-context-events)À´ÕìÌıcontext¹ı³ÌÊÂ¼ş
+å¯ä»¥é€šè¿‡[@EventListener](https://www.baeldung.com/spring-context-events)æ¥ä¾¦å¬contextè¿‡ç¨‹äº‹ä»¶
 
-- **@Configuration** ±íÃ÷±»±ê×¢class¿ÉÒÔÉùÃ÷Ò»¸ö»ò¶à¸ö±ê×¢Îª **@Bean**µÄ·½·¨£¬ÕâĞ©·½·¨½«»á±»Spring containerµ÷ÓÃ,²¢ÔÚruntimeÊ±À´²úÉúbean definitionsºÍservice requests. ±»±ê×¢µÄclasses±ØĞëÊÇnon-final, non-local (i.e. ²»ÊÇfactory methods·µ»ØÊµÀı).   
+- **@Configuration** è¡¨æ˜è¢«æ ‡æ³¨classå¯ä»¥å£°æ˜ä¸€ä¸ªæˆ–å¤šä¸ªæ ‡æ³¨ä¸º **@Bean**çš„æ–¹æ³•ï¼Œè¿™äº›æ–¹æ³•å°†ä¼šè¢«Spring containerè°ƒç”¨,å¹¶åœ¨runtimeæ—¶æ¥äº§ç”Ÿbean definitionså’Œservice requests. è¢«æ ‡æ³¨çš„classeså¿…é¡»æ˜¯non-final, non-local (i.e. ä¸æ˜¯factory methodsè¿”å›å®ä¾‹).   
 
-    @Bean±ê×¢·½·¨Ò²¿ÉÒÔÖ±½ÓcallÍ¬Ò»¸öclassÖĞµÄÆäËû@Bean methods¡£ÕâÒªÇóbeans·½·¨Ö®¼äµÄÒıÓÃÊÇÇ¿ÀàĞÍºÍ»¥´ïµÄ£¬³ÆÖ®Îª'inter-bean references'£¬ËùÓĞbean¹¤³§·½·¨±ØĞëÊÇnon-finalºÍnon-privateĞŞÊÎ·û.
+    @Beanæ ‡æ³¨æ–¹æ³•ä¹Ÿå¯ä»¥ç›´æ¥callåŒä¸€ä¸ªclassä¸­çš„å…¶ä»–@Bean methodsã€‚è¿™è¦æ±‚beansæ–¹æ³•ä¹‹é—´çš„å¼•ç”¨æ˜¯å¼ºç±»å‹å’Œäº’è¾¾çš„ï¼Œç§°ä¹‹ä¸º'inter-bean references'ï¼Œæ‰€æœ‰beanå·¥å‚æ–¹æ³•å¿…é¡»æ˜¯non-finalå’Œnon-privateä¿®é¥°ç¬¦.
     ```java
-    // ÉùÃ÷AppConfigÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
+    // å£°æ˜AppConfigç±»å®ä¾‹ç”±å®¹å™¨ç®¡ç†
     @Configuration
     public class AppConfig {
 
         @Autowired Environment env;
 
-        // ÉùÃ÷MyBeanÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
+        // å£°æ˜MyBeanç±»å®ä¾‹ç”±å®¹å™¨ç®¡ç†
         @Bean
         public MyBean myBean() {
             // instantiate, configure and return bean ...
@@ -162,7 +177,7 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
             return myBean;
         }
         
-        // beanÃû³Æ¿ÉÒÔÖ¸¶¨Îª'b1' and 'b2',¶ø²»ÊÇ'yourBean'
+        // beanåç§°å¯ä»¥æŒ‡å®šä¸º'b1' and 'b2',è€Œä¸æ˜¯'yourBean'
         // yourBean = ApplicationContext.getBean('b1')
         @Bean(name = {"b1", "b2"}) 
         public YourBean yourBean() {
@@ -172,7 +187,7 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     }
     ```
 
-    @Configuration ±êÇ©»¹¿ÉÒÔÖ§³ÖÇ¶Ì×Ê¹ÓÃ, ÉùÃ÷µÄ**nested configuration classes**±ØĞëÊÇstatic. 
+    @Configuration æ ‡ç­¾è¿˜å¯ä»¥æ”¯æŒåµŒå¥—ä½¿ç”¨, å£°æ˜çš„**nested configuration classes**å¿…é¡»æ˜¯static. 
     ```java
     @Configuration
     public class AppConfig {
@@ -184,7 +199,7 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
             return new MyBean(dataSource);
         }
 
-        //Ç¶Ì× Configuration class
+        //åµŒå¥— Configuration class
         @Configuration
         static class DatabaseConfig {
             @Bean
@@ -195,11 +210,11 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     }
     ```
 
-    @Bean methodsÒ²¿ÉÒÔ²»Í¨¹ı@Configuration·½Ê½ÉùÃ÷. ÀıÈç¿ÉÒÔÉùÃ÷ÔÚ@Component classÉõÖÁa plain old class. ÕâÖÖ·½Ê½³ÆÖ®Îª'**lite**'. 
+    @Bean methodsä¹Ÿå¯ä»¥ä¸é€šè¿‡@Configurationæ–¹å¼å£°æ˜. ä¾‹å¦‚å¯ä»¥å£°æ˜åœ¨@Component classç”šè‡³a plain old class. è¿™ç§æ–¹å¼ç§°ä¹‹ä¸º'**lite**'. 
 
-    Bean methodsÔÚlite modeÏÂ±»springÈİÆ÷¿´×öÆÕÍ¨¹¤³§·½·¨(ÀàËÆfactory-method declarations in XML), Ò²ÓĞscoping and lifecycle callbacksÌØĞÔ. ÕâĞ©²úÉúµÄÈİÆ÷¶ÔÏó³ıÁË²»ÄÜĞŞ¸Ä, Ò²Ã»ÓĞÌØ±ğµÄÏŞÖÆ.
+    Bean methodsåœ¨lite modeä¸‹è¢«springå®¹å™¨çœ‹åšæ™®é€šå·¥å‚æ–¹æ³•(ç±»ä¼¼factory-method declarations in XML), ä¹Ÿæœ‰scoping and lifecycle callbacksç‰¹æ€§. è¿™äº›äº§ç”Ÿçš„å®¹å™¨å¯¹è±¡é™¤äº†ä¸èƒ½ä¿®æ”¹, ä¹Ÿæ²¡æœ‰ç‰¹åˆ«çš„é™åˆ¶.
     
-    ²»ÏñÍ¨¹ı@Configuration classes²úÉúµÄbeans, 'inter-bean references'ÔÚlite modeÏÂ²»Ö§³Ö. µ±ÔÚlite mode³¢ÊÔ@Bean-methodµ÷ÓÃÁíÒ»¸ö@Bean-method, Õâ¸öµ÷ÓÃÊÇÒ»¸ö±ê×¼µÄJava method invocation£¬Spring²»»áÍ¨¹ıCGLIB proxyÀ´½Ø»ñinvocation. ÕâÓëinter-@Transactional method»¥ÏàÖ®¼äµ÷ÓÃÏàËÆ£¬Ò²ÊÇÍ¨¹ıproxy mode, Spring²»½Ø»ñinvocation.
+    ä¸åƒé€šè¿‡@Configuration classesäº§ç”Ÿçš„beans, 'inter-bean references'åœ¨lite modeä¸‹ä¸æ”¯æŒ. å½“åœ¨lite modeå°è¯•@Bean-methodè°ƒç”¨å¦ä¸€ä¸ª@Bean-method, è¿™ä¸ªè°ƒç”¨æ˜¯ä¸€ä¸ªæ ‡å‡†çš„Java method invocationï¼ŒSpringä¸ä¼šé€šè¿‡CGLIB proxyæ¥æˆªè·invocation. è¿™ä¸inter-@Transactional methodäº’ç›¸ä¹‹é—´è°ƒç”¨ç›¸ä¼¼ï¼Œä¹Ÿæ˜¯é€šè¿‡proxy mode, Springä¸æˆªè·invocation.
     ```java
     @Component
     public class Calculator {
@@ -214,7 +229,7 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     }
     ```
     
-    @Configuration class»¹¿ÉÒÔÍ¨¹ı[AnnotationConfigApplicationContext](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Configuration.html)À´³õÊ¼»¯
+    @Configuration classè¿˜å¯ä»¥é€šè¿‡[AnnotationConfigApplicationContext](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Configuration.html)æ¥åˆå§‹åŒ–
     ```java
     AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
     ctx.register(AppConfig.class);
@@ -223,20 +238,20 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     // use myBean ...
     ```
 
-    ÓĞĞ©ÌØÊâÇé¿öÏÂĞèÒª@Bean methods·µ»Ø[BeanFactoryPostProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/BeanFactoryPostProcessor.html)(BFPP) types. 
-    ÓÉÓÚBFPP¶ÔÏóÄÜ¸ÉÔ¤ÔÚ@Configuration classesÖĞÒ»Ğ©±êÇ©µÄ´¦ÀíÈç@Autowired, @Value, @PostConstruct. ÎªÁË±ÜÃâ³öÏÖlifecycleË³Ğòissues, BFPP¶ÔÏó±ØĞëÔÚcontainer lifecycleÔçÆÚ±»ÊµÀı»¯, Òò´Ë¿ÉÒÔ½«BFPP-returning @Bean methodsÉèÎª**static**ÀàĞÍ
+    æœ‰äº›ç‰¹æ®Šæƒ…å†µä¸‹éœ€è¦@Bean methodsè¿”å›[BeanFactoryPostProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/BeanFactoryPostProcessor.html)(BFPP) types. 
+    ç”±äºBFPPå¯¹è±¡èƒ½å¹²é¢„åœ¨@Configuration classesä¸­ä¸€äº›æ ‡ç­¾çš„å¤„ç†å¦‚@Autowired, @Value, @PostConstruct. ä¸ºäº†é¿å…å‡ºç°lifecycleé¡ºåºissues, BFPPå¯¹è±¡å¿…é¡»åœ¨container lifecycleæ—©æœŸè¢«å®ä¾‹åŒ–, å› æ­¤å¯ä»¥å°†BFPP-returning @Bean methodsè®¾ä¸º**static**ç±»å‹
     ```java
     @Bean
     public static PropertyPlaceholderConfigurer ppc() {
         // instantiate, configure and return ppc ...
     }
     ```   
-    È»¶østatic @Bean methods²»»á±»scoping and AOP semantics¶¯Ì¬ÔöÇ¿£¬½öÔÚBFPP casesÖĞÓĞĞ§, Í¬Ê±Ò²ÎŞ·¨±»ÆäËû@Bean methodsÒıÓÃµ½.×÷ÎªÌáÊ¾, Ò»ÌõWARN-level logĞÅÏ¢»á±»¼ÇÂ¼.
+    ç„¶è€Œstatic @Bean methodsä¸ä¼šè¢«scoping and AOP semanticsåŠ¨æ€å¢å¼ºï¼Œä»…åœ¨BFPP casesä¸­æœ‰æ•ˆ, åŒæ—¶ä¹Ÿæ— æ³•è¢«å…¶ä»–@Bean methodså¼•ç”¨åˆ°.ä½œä¸ºæç¤º, ä¸€æ¡WARN-level logä¿¡æ¯ä¼šè¢«è®°å½•.
     ```console
     any non-static @Bean methods having a return type assignable to BeanFactoryPostProcessor.
     ```
 
-- **@Import @ImportResource** ÓÃÀ´×¢Èëbean¶ÔÏó(e.g. via constructor injection) 
+- **@Import @ImportResource** ç”¨æ¥æ³¨å…¥beanå¯¹è±¡(e.g. via constructor injection) 
     ```java
     @Configuration
     public class DatabaseConfig {
@@ -247,7 +262,7 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
         }
     }
 
-    //Í¨¹ı¹¹Ôìº¯Êı×¢ÈëDatabaseConfig bean¶ÔÏó
+    //é€šè¿‡æ„é€ å‡½æ•°æ³¨å…¥DatabaseConfig beanå¯¹è±¡
     @Configuration
     @Import(DatabaseConfig.class)
     public class AppConfig {
@@ -266,7 +281,7 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     }
     ```
     
-    Èç¹ûÊ¹ÓÃSpring XMLÅäÖÃ£¬@Configuration classes¾ÍĞèÒªÊ¹ÓÃ@ImportResource±êÇ©
+    å¦‚æœä½¿ç”¨Spring XMLé…ç½®ï¼Œ@Configuration classeså°±éœ€è¦ä½¿ç”¨@ImportResourceæ ‡ç­¾
     ```java
     @Configuration
     @ImportResource("classpath:/com/acme/database-config.xml")
@@ -282,7 +297,7 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     }
     ```
 
-- **@Profile** Ö¸¶¨@Configuration classes¿É¸ù¾İprofileÀ´´¦Àí²»Í¬bean
+- **@Profile** æŒ‡å®š@Configuration classeså¯æ ¹æ®profileæ¥å¤„ç†ä¸åŒbean
     ```java
     @Profile("embedded")
     @Configuration
@@ -306,7 +321,7 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     ``` 
 
 - **@Scope, @DependsOn, @Primary, @Lazy @AutoConfigureBefore**
-ÓÉÓÚ@Bean²»Ìá¹©¸ü¶àÊôĞÔÉèÖÃ£¬Òò´ËÆäÓ¦Óë@Scope, @DependsOn, @Primary, and @LazyÀ´ÁªºÏÊ¹ÓÃ [Case Reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
+ç”±äº@Beanä¸æä¾›æ›´å¤šå±æ€§è®¾ç½®ï¼Œå› æ­¤å…¶åº”ä¸@Scope, @DependsOn, @Primary, and @Lazyæ¥è”åˆä½¿ç”¨ [Case Reference](https://stackoverflow.com/questions/45747933/best-way-to-initialize-beans-in-spring-context-after-application-started)
     ```java
     @Bean
     @Scope("prototype")
@@ -316,31 +331,31 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     }
     ```
 - **bean conflict**
-Í¬Ò»¸öÀàÈç¹û¼´ÓÃ@configuration£¬ÓÖÓÃ@beanÉùÃ÷µÄ»°£¬spring»áÌáÊ¾Í¬Ò»¸öbeanÓĞÁ½¸öÊµÀı£¬ÎŞ·¨autowire
+åŒä¸€ä¸ªç±»å¦‚æœå³ç”¨@configurationï¼Œåˆç”¨@beanå£°æ˜çš„è¯ï¼Œspringä¼šæç¤ºåŒä¸€ä¸ªbeanæœ‰ä¸¤ä¸ªå®ä¾‹ï¼Œæ— æ³•autowire
     ```java
-    // ÉùÃ÷ListenerÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
+    // å£°æ˜Listenerç±»å®ä¾‹ç”±å®¹å™¨ç®¡ç†
     @Configuration
     public class Listener {
         
-        // ÉùÃ÷ÈİÆ÷Í¨¹ı´Ë·½·¨²úÉúListenerÊµÀı
+        // å£°æ˜å®¹å™¨é€šè¿‡æ­¤æ–¹æ³•äº§ç”ŸListenerå®ä¾‹
         @Bean
         public Listener getListener() {
         }
     }
     
     // output:
-    ERROR£º
+    ERRORï¼š
     Could not autowire. There is more than one bean of 'Listener' type.
     Beans:
     getListener?? (Listener.java) 
     listener?? (Listener.java) 
     ```
     
-    Í¬ÀíÒ»¸öÀàÈç¹û¼´ÓÃ@component£¬ÓÖÓÃ@beanÉùÃ÷µÄ»°£¬spring»á³õÊ¼»¯³ö²»Í¬µÄinstance, Òò¶ø**²»Òª»ìÓÃ**¡£ 
+    åŒç†ä¸€ä¸ªç±»å¦‚æœå³ç”¨@componentï¼Œåˆç”¨@beanå£°æ˜çš„è¯ï¼Œspringä¼šåˆå§‹åŒ–å‡ºä¸åŒçš„instance, å› è€Œ**ä¸è¦æ··ç”¨**ã€‚ 
     
-    ÈçÏÂÀı¸ù¾İlistenerÊµÀıµÄid¿ÉÅĞ¶Ï³öÈİÆ÷´´½¨Á½¸ö²»Í¬ÊµÀı£¬Ê¹ÓÃ **@bean·½Ê½ºÃ´¦**ÊÇ¿ÉÒÔÔÚ´´½¨¹ı³ÌÖĞ×öÒ»Ğ©²Ù×÷¡£
+    å¦‚ä¸‹ä¾‹æ ¹æ®listenerå®ä¾‹çš„idå¯åˆ¤æ–­å‡ºå®¹å™¨åˆ›å»ºä¸¤ä¸ªä¸åŒå®ä¾‹ï¼Œä½¿ç”¨ **@beanæ–¹å¼å¥½å¤„**æ˜¯å¯ä»¥åœ¨åˆ›å»ºè¿‡ç¨‹ä¸­åšä¸€äº›æ“ä½œã€‚
     ```java
-    // ÉùÃ÷ListenerÀàÊµÀıÓÉÈİÆ÷¹ÜÀí
+    // å£°æ˜Listenerç±»å®ä¾‹ç”±å®¹å™¨ç®¡ç†
     @Component
     public class Listener {
         private String id = UUID.random()
@@ -356,15 +371,15 @@ springÔÊĞíÍ¨¹ı **@Component** **@Configuration**µÈ±êÇ© [[***1***](https://www.ba
     ```
 
 - **bean Circular Dependencies**
-³öÏÖbeansÖ®¼ä»¥ÏàÒÀÀµ¿ÉÒÔÓÃÏÂÃæ·½Ê½½â¾ö  
-    + [Ñ­»·ÒÀÀµµÄ½â¾öË¼Â·](https://mp.weixin.qq.com/s/wqQEDC9IXB9UCscATzR9cQ)
+å‡ºç°beansä¹‹é—´äº’ç›¸ä¾èµ–å¯ä»¥ç”¨ä¸‹é¢æ–¹å¼è§£å†³  
+    + [å¾ªç¯ä¾èµ–çš„è§£å†³æ€è·¯](https://mp.weixin.qq.com/s/wqQEDC9IXB9UCscATzR9cQ)
     + [lazy-workaround](https://www.baeldung.com/circular-dependencies-in-spring)
 <div id = "u2s1"></div>
 
 #### bean creation order
-Spring×Ô¶¯²úÉúbeanÊµÀıµÄÊ±ºò¿ÉÒÔÖ¸¶¨ÏÈºóË³Ğò£¬Í¨¹ı[**@Order**](https://www.baeldung.com/spring-order), [**@DependsOn**](https://www.baeldung.com/spring-depends-on)¿ÉÒÔÈÃbean°´Ë³Ğò²úÉú
+Springè‡ªåŠ¨äº§ç”Ÿbeanå®ä¾‹çš„æ—¶å€™å¯ä»¥æŒ‡å®šå…ˆåé¡ºåºï¼Œé€šè¿‡[**@Order**](https://www.baeldung.com/spring-order), [**@DependsOn**](https://www.baeldung.com/spring-depends-on)å¯ä»¥è®©beanæŒ‰é¡ºåºäº§ç”Ÿ
 
-Èç¹ûÏ£ÍûÁË½âspringÈİÆ÷ÖĞÃ¿Ò»¸öbean´´½¨µÄÊµ¼ÊË³Ğò£¬¿ÉÒÔenableÈÕÖ¾¿ª¹ØÊä³öµ½console£¬ÅäÖÃ²Î¿´ [log4j2.xmlÑ¡Ïî](https://docs.spring.io/spring/docs/4.3.26.RELEASE/spring-framework-reference/htmlsingle/#overview-logging)
+å¦‚æœå¸Œæœ›äº†è§£springå®¹å™¨ä¸­æ¯ä¸€ä¸ªbeanåˆ›å»ºçš„å®é™…é¡ºåºï¼Œå¯ä»¥enableæ—¥å¿—å¼€å…³è¾“å‡ºåˆ°consoleï¼Œé…ç½®å‚çœ‹ [log4j2.xmlé€‰é¡¹](https://docs.spring.io/spring/docs/4.3.26.RELEASE/spring-framework-reference/htmlsingle/#overview-logging)
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
@@ -374,22 +389,22 @@ Spring×Ô¶¯²úÉúbeanÊµÀıµÄÊ±ºò¿ÉÒÔÖ¸¶¨ÏÈºóË³Ğò£¬Í¨¹ı[**@Order**](https://www.baeld
     </Console>
   </Appenders>
   <Loggers>
-    <!-- ÕÒµ½µ±Ç°ÏµÍ³ÔËĞĞÖ¸¶¨µÄlog4j2.xmlÎÄ¼ş½«ÏÂÃælogggerÅäÖÃ¼ÓÈë¼´¿É -->
-    <!-- org.springframework.beans.factory¸ºÔğbeanµÄ²úÉú -->
+    <!-- æ‰¾åˆ°å½“å‰ç³»ç»Ÿè¿è¡ŒæŒ‡å®šçš„log4j2.xmlæ–‡ä»¶å°†ä¸‹é¢logggeré…ç½®åŠ å…¥å³å¯ -->
+    <!-- org.springframework.beans.factoryè´Ÿè´£beançš„äº§ç”Ÿ -->
     <Logger name="org.springframework.beans.factory" level="DEBUG">
-      <!-- Ö¸¶¨ÈÕÖ¾Êä³öµÄappender -->
+      <!-- æŒ‡å®šæ—¥å¿—è¾“å‡ºçš„appender -->
       <AppenderRef ref="Console"/>
     </Logger>
   </Loggers>
 </Configuration>
 ```
-µÈÈÕÖ¾ÍêÕûÊä³öÖ®ºó£¬¿ÉÒÔ²éÑ¯µ½bean´´½¨Ë³Ğò
+ç­‰æ—¥å¿—å®Œæ•´è¾“å‡ºä¹‹åï¼Œå¯ä»¥æŸ¥è¯¢åˆ°beanåˆ›å»ºé¡ºåº
 ```console
 $ grep -in ajimpl /var/log/restart.log 
 1968:2020-07-13T12:51:05.241Z DEBUG coordinationEventsProcessor-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'policyConnectivityFacadeImplAjImpl'
 1972:2020-07-13T12:51:05.244Z DEBUG coordinationEventsProcessor-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'segmentServiceImplAjImpl'
 
-# ²é¿´bean´´½¨Ë³Ğò
+# æŸ¥çœ‹beanåˆ›å»ºé¡ºåº
 $ grep -in 'singleton bean' /var/log/restart.log | less
 10:2020-07-13T12:50:04.303Z DEBUG localhost-startStop-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
 14:2020-07-13T12:50:04.696Z DEBUG localhost-startStop-1 DefaultListableBeanFactory - Creating shared instance of singleton bean 'IntegrationConfigurationBeanFactoryPostProcessor'
@@ -399,13 +414,13 @@ $ grep -in 'singleton bean' /var/log/restart.log | less
 <div id = "u2s2"></div>
 
 #### bean reference
-ÒıÓÃSpring²úÉúµÄbeanÊµÀıÓĞ¶àÖÖ·½Ê½[**@Autowired/@Inject/@Resource**](https://www.baeldung.com/spring-annotations-resource-inject-autowire) , ¶ÔÓÚ³éÏóÀà»¹Ö§³Ö[**autowired-abstract-class**](https://www.baeldung.com/spring-autowired-abstract-class).  Èç¹û²»ÆÚÍû¼´Ê±injection·¢Éú¿ÉÒÔ[**lazy-injection**](https://www.baeldung.com/spring-lazy-annotation)
+å¼•ç”¨Springäº§ç”Ÿçš„beanå®ä¾‹æœ‰å¤šç§æ–¹å¼[**@Autowired/@Inject/@Resource**](https://www.baeldung.com/spring-annotations-resource-inject-autowire) , å¯¹äºæŠ½è±¡ç±»è¿˜æ”¯æŒ[**autowired-abstract-class**](https://www.baeldung.com/spring-autowired-abstract-class).  å¦‚æœä¸æœŸæœ›å³æ—¶injectionå‘ç”Ÿå¯ä»¥[**lazy-injection**](https://www.baeldung.com/spring-lazy-annotation)
 
-Èç¹û²»ÏëÍ¨¹ı×¢Èë·½Ê½,¶øÏ£ÍûÍ¨¹ı **ApplicationContext** À´»ñÈ¡beanµÄÒıÓÃ£¬¾ÍĞèÒªÈÃSpringÈİÆ÷½«ÒÑ³õÊ¼»¯Íê³ÉµÄÉÏÏÂÎÄsetµ½Ö¸¶¨µØ·½£¬Í¨¹ı [**ApplicationContextAware**](https://www.jianshu.com/p/4c0723615a52) ½Ó¿ÚÊµÏÖ
+å¦‚æœä¸æƒ³é€šè¿‡æ³¨å…¥æ–¹å¼,è€Œå¸Œæœ›é€šè¿‡ **ApplicationContext** æ¥è·å–beançš„å¼•ç”¨ï¼Œå°±éœ€è¦è®©Springå®¹å™¨å°†å·²åˆå§‹åŒ–å®Œæˆçš„ä¸Šä¸‹æ–‡setåˆ°æŒ‡å®šåœ°æ–¹ï¼Œé€šè¿‡ [**ApplicationContextAware**](https://www.jianshu.com/p/4c0723615a52) æ¥å£å®ç°
 ```java
-//SpringÈİÆ÷²»»á×Ô¶¯È¥Ö´ĞĞsetApplicationContext£¬³ı·ÇÈİÆ÷ÄÜ¸ĞÖª´æÔÚÕâÑùµÄÈİÆ÷ÍâµÄclass 
-//ËùÒÔÒª¸æÖªSpring´æÔÚÕâ¸öÀà£¬¿ÉÊ¹ÓÃ@ComponentÊ¹class×¢²áµ½Spring
-//»òÕßÒ²¿ÉÒÔÍ¨¹ıxmlÅäÖÃÎÄ¼şÉùÃ÷Õâ¸öbean
+//Springå®¹å™¨ä¸ä¼šè‡ªåŠ¨å»æ‰§è¡ŒsetApplicationContextï¼Œé™¤éå®¹å™¨èƒ½æ„ŸçŸ¥å­˜åœ¨è¿™æ ·çš„å®¹å™¨å¤–çš„class 
+//æ‰€ä»¥è¦å‘ŠçŸ¥Springå­˜åœ¨è¿™ä¸ªç±»ï¼Œå¯ä½¿ç”¨@Componentä½¿classæ³¨å†Œåˆ°Spring
+//æˆ–è€…ä¹Ÿå¯ä»¥é€šè¿‡xmlé…ç½®æ–‡ä»¶å£°æ˜è¿™ä¸ªbean
 @Component
 public class MyContext implements ApplicationContextAware {
 
@@ -415,7 +430,7 @@ public class MyContext implements ApplicationContextAware {
 
     private static ApplicationContext context;
 
-    // SpringÈİÆ÷»áµ÷ÓÃ´Ë·½·¨
+    // Springå®¹å™¨ä¼šè°ƒç”¨æ­¤æ–¹æ³•
     @Override
     public void setApplicationContext(ApplicationContext applicationContext)
             throws BeansException {
@@ -440,12 +455,12 @@ public class MyContext implements ApplicationContextAware {
 <div id = "u2s3"></div>
 
 #### bean stages
-Spring²úÉúµÄbeanÊµÀı¸÷½×¶ÎÖĞ¿ÉÒÔ²åÈëÒ»Ğ©Âß¼­[**@PostConstruct/InitializingBean/ApplicationListener/initMethod**](https://www.baeldung.com/running-setup-logic-on-startup-in-spring)
+Springäº§ç”Ÿçš„beanå®ä¾‹å„é˜¶æ®µä¸­å¯ä»¥æ’å…¥ä¸€äº›é€»è¾‘[**@PostConstruct/InitializingBean/ApplicationListener/initMethod**](https://www.baeldung.com/running-setup-logic-on-startup-in-spring)
 
 <div id = "u2s4"></div>
 
 #### bean schedule
-Í¨¹ı **@EnableScheduling @Scheduled** ¿ÉÒÔÊ¹ÓÃSpring's scheduled task¹¦ÄÜ,ÀàËÆ±êÇ©»¹ÓĞ **@EnableAsync, @EnableScheduling, @EnableTransactionManagement, @EnableAspectJAutoProxy, @EnableWebMvc**
+é€šè¿‡ **@EnableScheduling @Scheduled** å¯ä»¥ä½¿ç”¨Spring's scheduled taskåŠŸèƒ½,ç±»ä¼¼æ ‡ç­¾è¿˜æœ‰ **@EnableAsync, @EnableScheduling, @EnableTransactionManagement, @EnableAspectJAutoProxy, @EnableWebMvc**
 ```java
 @Configuration
 @EnableScheduling
@@ -467,7 +482,7 @@ public class MyTask {
    }
 }
 ```   
-Èç¹ûMyTaskÖ±½ÓÍ¨¹ı@ComponentÉùÃ÷, AppConfig¿ÉÒÔÖ±½Ó **@ComponentScan**ÕÒµ½MyTaskÀ´µ÷¶È
+å¦‚æœMyTaskç›´æ¥é€šè¿‡@Componentå£°æ˜, AppConfigå¯ä»¥ç›´æ¥ **@ComponentScan**æ‰¾åˆ°MyTaskæ¥è°ƒåº¦
 ```java
 @Configuration
 @EnableScheduling
@@ -486,7 +501,7 @@ public class MyTask {
    }
 }
 ```   
-**@Scheduled**Ò²¿ÉÒÔÖ±½ÓÉùÃ÷µ½@Configuration classesµÄ·½·¨ÉÏ
+**@Scheduled**ä¹Ÿå¯ä»¥ç›´æ¥å£°æ˜åˆ°@Configuration classesçš„æ–¹æ³•ä¸Š
 ```java
 @Configuration
 @EnableScheduling
@@ -498,30 +513,30 @@ public class AppConfig {
    }
 }
 ```
-SpringÔÚÄ¬ÈÏÇé¿öÏÂ»áÊ¹ÓÃcontextÖĞÎ¨Ò»µÄTaskScheduler beanÊµÀı»òÕßjava.util.concurrent.ScheduledExecutorService beanÊµÀı.
+Springåœ¨é»˜è®¤æƒ…å†µä¸‹ä¼šä½¿ç”¨contextä¸­å”¯ä¸€çš„TaskScheduler beanå®ä¾‹æˆ–è€…java.util.concurrent.ScheduledExecutorService beanå®ä¾‹.
 
-Èç¹ûÒÔÉÏ¶şÕßÊµÀıÔÚruntimeÊ±¿Ì¶¼ÎŞ·¨resolvable, Ò»¸ölocal single-threaded default scheduler½«±»´´½¨Ê¹ÓÃ. 
+å¦‚æœä»¥ä¸ŠäºŒè€…å®ä¾‹åœ¨runtimeæ—¶åˆ»éƒ½æ— æ³•resolvable, ä¸€ä¸ªlocal single-threaded default schedulerå°†è¢«åˆ›å»ºä½¿ç”¨. 
 
-SpringÔÊĞí¶¨ÖÆschedulerÊµÏÖ£¬ĞèÒªÊµÏÖSchedulingConfigurer
+Springå…è®¸å®šåˆ¶schedulerå®ç°ï¼Œéœ€è¦å®ç°SchedulingConfigurer
 ```java
 @Configuration
 @EnableScheduling
 public class AppConfig implements SchedulingConfigurer {
-    // ×¢²á¶¨ÖÆµÄscheduler
+    // æ³¨å†Œå®šåˆ¶çš„scheduler
     @Override
     public void configureTasks(ScheduledTaskRegistrar taskRegistrar) {
         taskRegistrar.setScheduler(taskExecutor());
     }
 
-    // µ±Spring application context¹Ø±Õºó
-    // Ö¸¶¨destroy·½·¨È·±£task executorÕı³£¹Ø±Õ
+    // å½“Spring application contextå…³é—­å
+    // æŒ‡å®šdestroyæ–¹æ³•ç¡®ä¿task executoræ­£å¸¸å…³é—­
     @Bean(destroyMethod="shutdown")
     public Executor taskExecutor() {
         return Executors.newScheduledThreadPool(100);
     }
 }
 ```   
-Èç¹ûÏë×öÏ¸Á£¶È¿ØÖÆ(fine-grained control) ÈÎÎñ×¢²á£¬»¹¿ÉÒÔ¶¨ÖÆtrigger
+å¦‚æœæƒ³åšç»†ç²’åº¦æ§åˆ¶(fine-grained control) ä»»åŠ¡æ³¨å†Œï¼Œè¿˜å¯ä»¥å®šåˆ¶trigger
 ```java
 @Configuration
 @EnableScheduling
@@ -536,7 +551,7 @@ public class AppConfig implements SchedulingConfigurer {
                    myTask().work();
                }
            },
-           new CustomTrigger() //¶¨ÖÆ´¥·¢Âß¼­
+           new CustomTrigger() //å®šåˆ¶è§¦å‘é€»è¾‘
        );
    }
 
@@ -555,13 +570,13 @@ public class AppConfig implements SchedulingConfigurer {
 <div id = "u3"></div>
 
 #### aop
-Spring AOPÌá¹©¶ÔAspect-Oriented ProgrammingÖ§³Ö¡£²Î¿´Reference[[***1***](https://howtodoinjava.com/spring-aop-tutorial/), [***2***](https://www.baeldung.com/spring-aop-pointcut-tutorial)]
+Spring AOPæä¾›å¯¹Aspect-Oriented Programmingæ”¯æŒã€‚å‚çœ‹Reference[[***1***](https://howtodoinjava.com/spring-aop-tutorial/), [***2***](https://www.baeldung.com/spring-aop-pointcut-tutorial)]
 
 + [Spring AOP Proxying Mechanisms](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop-proxying) 
 + [Spring AOP vs AspectJ](https://www.baeldung.com/spring-aop-vs-aspectj)  
-    `Spring AOPÏà±ÈAspectJÔÚÊ¹ÓÃÉÏ¼òµ¥Ò»Ğ©£¬È±µãÒ²Ã÷ÏÔ£¬ÈçÖ»ÄÜÖ§³Öpublic·½·¨µÄAOP,²»Ö§³Ö¹¹Ôìº¯Êı¡£Í¨¹ıproxyÖ´ĞĞĞ§ÂÊÒ²±Èweaved classÎÄ¼şĞ§ÂÊµÍ. ¾²Ì¬Ö¯Èë·½Ê½ĞèÒªÔÚbuild¹ı³ÌÖĞÍ¨¹ıAspectJĞŞ¸ÄclassÎÄ¼ş¡£¶¯Ì¬Ö¯ÈëÔòĞèÒªÆô¶¯jvmÊ±ºòÖ¸¶¨²ÎÊı£¬Èç -javaagent:aspectjweaver.jar »ò -javaagent:spring-instrument.jar£¬»ò -javaagent:spring-agent.jar`
+    `Spring AOPç›¸æ¯”AspectJåœ¨ä½¿ç”¨ä¸Šç®€å•ä¸€äº›ï¼Œç¼ºç‚¹ä¹Ÿæ˜æ˜¾ï¼Œå¦‚åªèƒ½æ”¯æŒpublicæ–¹æ³•çš„AOP,ä¸æ”¯æŒæ„é€ å‡½æ•°ã€‚é€šè¿‡proxyæ‰§è¡Œæ•ˆç‡ä¹Ÿæ¯”weaved classæ–‡ä»¶æ•ˆç‡ä½. é™æ€ç»‡å…¥æ–¹å¼éœ€è¦åœ¨buildè¿‡ç¨‹ä¸­é€šè¿‡AspectJä¿®æ”¹classæ–‡ä»¶ã€‚åŠ¨æ€ç»‡å…¥åˆ™éœ€è¦å¯åŠ¨jvmæ—¶å€™æŒ‡å®šå‚æ•°ï¼Œå¦‚ -javaagent:aspectjweaver.jar æˆ– -javaagent:spring-instrument.jarï¼Œæˆ– -javaagent:spring-agent.jar`
 
-    `Ö¯Èë·½Ê½°Ñ·ûºÏpointcutµÄclassÎÄ¼şÈ«²¿ĞŞ¸Ä£¬proxy·½Ê½½ö½öÊÇÈÃproxy¸Ä±äµ÷ÓÃ·µ»Ø¡£proxy·½Ê½ÏÂ£¬½ö½öÍ¨¹ıspringÈİÆ÷´´½¨³öÀ´µÄ¶ÔÏóÊµÀı²Å»áÓĞadvice`
+    `ç»‡å…¥æ–¹å¼æŠŠç¬¦åˆpointcutçš„classæ–‡ä»¶å…¨éƒ¨ä¿®æ”¹ï¼Œproxyæ–¹å¼ä»…ä»…æ˜¯è®©proxyæ”¹å˜è°ƒç”¨è¿”å›ã€‚proxyæ–¹å¼ä¸‹ï¼Œä»…ä»…é€šè¿‡springå®¹å™¨åˆ›å»ºå‡ºæ¥çš„å¯¹è±¡å®ä¾‹æ‰ä¼šæœ‰advice`
 + [Spring AOP Samples Of Three Modes](sample/spring) 
     - spring-proxy-aop : 
     `mvn clean compile exec:java -Dexec.mainClass=king.law.spring.aop.TestSpringAop`
@@ -569,13 +584,13 @@ Spring AOPÌá¹©¶ÔAspect-Oriented ProgrammingÖ§³Ö¡£²Î¿´Reference[[***1***](https:/
     `mvn clean compile aspectj:compile exec:java -Dexec.mainClass=king.law.aspectj.aop.compile.TestAspectJCompileAop`
     - spring-loadtime-weave : 
     `mvn clean package exec:exec`
- + [aopÖĞpointcut±í´ïÊ½](https://zhuanlan.zhihu.com/p/63001123) 
+ + [aopä¸­pointcutè¡¨è¾¾å¼](https://zhuanlan.zhihu.com/p/63001123) 
  + [Pointcut Designators](https://www.baeldung.com/spring-aop-pointcut-tutorial#pointcut)   
 
 <div id = "u3s1"></div>
 
 #### aspect bean injection
-¶¨ÒåÒ»¸öaspectÖ®ºó£¬ »á¸ù¾İĞèÒª×¢ÈëÒ»Ğ©beanÊµÀı
+å®šä¹‰ä¸€ä¸ªaspectä¹‹åï¼Œ ä¼šæ ¹æ®éœ€è¦æ³¨å…¥ä¸€äº›beanå®ä¾‹
 ```java
 @Aspect
 @Component
@@ -583,7 +598,7 @@ public class MyclassAspect {
     @Autowired
     private MyBean bean;
 ```
-ÓÃaspect¹¤¾ßweave compileÉÏÊö´úÂë£¬ÔËĞĞµÄÊ±ºò·¢ÏÖbeanÊ¼ÖÕÎªnull, ¹ØÓÚ´Ë[ÎÊÌâÌÖÂÛ](https://stackoverflow.com/questions/9633840/spring-autowired-bean-for-aspect-aspect-is-null). Ô­Òò¼òÑÔÖ®aspect beanÊÇÒ»¸öÔÚSpring containerÖ®Íâ´´½¨µÄµ¥Àı¶ÔÏó£¬Òò´ËÎŞ·¨±»×¢Èë. ½â¾ö°ì·¨¾ÍÊÇÓÃ **@configuration** À´ÅäÖÃ, »¹¿ÉÒÔÓÃ[ÆäËû·½Ê½](https://blog.csdn.net/zlp1992/article/details/81037529)
+ç”¨aspectå·¥å…·weave compileä¸Šè¿°ä»£ç ï¼Œè¿è¡Œçš„æ—¶å€™å‘ç°beanå§‹ç»ˆä¸ºnull, å…³äºæ­¤[é—®é¢˜è®¨è®º](https://stackoverflow.com/questions/9633840/spring-autowired-bean-for-aspect-aspect-is-null). åŸå› ç®€è¨€ä¹‹aspect beanæ˜¯ä¸€ä¸ªåœ¨Spring containerä¹‹å¤–åˆ›å»ºçš„å•ä¾‹å¯¹è±¡ï¼Œå› æ­¤æ— æ³•è¢«æ³¨å…¥. è§£å†³åŠæ³•å°±æ˜¯ç”¨ **@configuration** æ¥é…ç½®, è¿˜å¯ä»¥ç”¨[å…¶ä»–æ–¹å¼](https://blog.csdn.net/zlp1992/article/details/81037529)
 ```java
 @Aspect
 @Configurable(autowire = Autowire.BY_TYPE)
@@ -591,10 +606,10 @@ public class MyclassAspect {
     @Autowired
     private MyBean bean;
 ```
-Èç¹ûÔÚÔËĞĞÊ±³öÏÖ MyBean NoSuchBeanDefinitionException£¬²¢ÇÒÊ¹ÓÃlazy injectÒ²ÎŞ·¨½â¾ö£¬¾ÍĞèÒª¿¼ÂÇ¿ÉÄÜaspect¶¨ÒåµÄpointcutºÍÄ¿±êÀàÓĞ³åÍ»¡£Óöµ½¹ı´ËÀàÎÊÌâ£¬±ÈÈç
+å¦‚æœåœ¨è¿è¡Œæ—¶å‡ºç° MyBean NoSuchBeanDefinitionExceptionï¼Œå¹¶ä¸”ä½¿ç”¨lazy injectä¹Ÿæ— æ³•è§£å†³ï¼Œå°±éœ€è¦è€ƒè™‘å¯èƒ½aspectå®šä¹‰çš„pointcutå’Œç›®æ ‡ç±»æœ‰å†²çªã€‚é‡åˆ°è¿‡æ­¤ç±»é—®é¢˜ï¼Œæ¯”å¦‚
 ```java
-# Ï£Íûpointcut¶ÔPolicyFacadeImplËùÓĞ·½·¨¶¼ÉúĞ§
-# µ«PolicyFacadeImplÓĞĞ©·½·¨²»ÄÜÖ²ÈëÇĞÃæ£¬Ôì³ÉautowireÊ§°Ü
+# å¸Œæœ›pointcutå¯¹PolicyFacadeImplæ‰€æœ‰æ–¹æ³•éƒ½ç”Ÿæ•ˆ
+# ä½†PolicyFacadeImplæœ‰äº›æ–¹æ³•ä¸èƒ½æ¤å…¥åˆ‡é¢ï¼Œé€ æˆautowireå¤±è´¥
 @Aspect
 @Configurable(autowire = Autowire.BY_TYPE)
 public class MyclassAspect {
@@ -605,19 +620,19 @@ public class MyclassAspect {
     public void tracePointCut() {
     }
 
-    # ÇĞµã·½·¨µ÷ÓÃÇ°
+    # åˆ‡ç‚¹æ–¹æ³•è°ƒç”¨å‰
     @Before("tracePointCut()")
     public void traceStart(JoinPoint joinPoint) {
         bean.startTrace(joinPoint);
     }
 
-    # ÇĞµã·½·¨µ÷ÓÃ½áÊø
+    # åˆ‡ç‚¹æ–¹æ³•è°ƒç”¨ç»“æŸ
     @After("tracePointCut()")
     public void traceEnd(JoinPoint joinPoint) {
         bean.endTrace(joinPoint);
     }
 
-    # ÇĞµã·½·¨µ÷ÓÃ³öÏÖÒì³£
+    # åˆ‡ç‚¹æ–¹æ³•è°ƒç”¨å‡ºç°å¼‚å¸¸
     @AfterThrowing(pointcut = "tracePointCut()", throwing = "e")
     public void traceDisruptedEnd(JoinPoint joinPoint, Throwable e) {
         bean.endDisruptedTrace(joinPoint, e);
@@ -625,9 +640,9 @@ public class MyclassAspect {
     ...
 }
 
-# PolicyFacadeImpl ÓĞÒ»¸ö@PostConstructµÄinit³õÊ¼»¯·½·¨
-# ÔÙÖ²ÈëÇĞÃæµ½³õÊ¼»¯·½·¨»áÔì³É²»¿ÉÔ¤ÖªµÄ³åÍ»£¬¾ßÌåÏ¸½ÚspringÃ»ÓĞ¸ø³ö¸üÏêÏ¸ÈÕÖ¾
-# ËÆºõÓĞĞ©class²ãÃæµÄ³õÊ¼»¯·½·¨Ò²»áÓĞ³åÍ»
+# PolicyFacadeImpl æœ‰ä¸€ä¸ª@PostConstructçš„initåˆå§‹åŒ–æ–¹æ³•
+# å†æ¤å…¥åˆ‡é¢åˆ°åˆå§‹åŒ–æ–¹æ³•ä¼šé€ æˆä¸å¯é¢„çŸ¥çš„å†²çªï¼Œå…·ä½“ç»†èŠ‚springæ²¡æœ‰ç»™å‡ºæ›´è¯¦ç»†æ—¥å¿—
+# ä¼¼ä¹æœ‰äº›classå±‚é¢çš„åˆå§‹åŒ–æ–¹æ³•ä¹Ÿä¼šæœ‰å†²çª
 @Aspect
 @Service
 public class PolicyFacadeImpl {
@@ -636,12 +651,12 @@ public class PolicyFacadeImpl {
     ...
 }
 
-# 1.Èç¹û°ÑpointcutÖĞËùÓĞ·½·¨¸Ä³É²¿·Ö·½·¨£¬Òì³£¾ÍµÃµ½½â¾ö£¬springÆô¶¯Õı³£
+# 1.å¦‚æœæŠŠpointcutä¸­æ‰€æœ‰æ–¹æ³•æ”¹æˆéƒ¨åˆ†æ–¹æ³•ï¼Œå¼‚å¸¸å°±å¾—åˆ°è§£å†³ï¼Œspringå¯åŠ¨æ­£å¸¸
 @Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.create*(..))")
 public void tracePointCut() {
 }
 
-# 2.ÁíÍâÒ»ÖÖĞŞ¸Ä·½Ê½¾ÍÊÇÔÚpointcut¶¨ÒåÖĞexclude³åÍ»·½·¨
+# 2.å¦å¤–ä¸€ç§ä¿®æ”¹æ–¹å¼å°±æ˜¯åœ¨pointcutå®šä¹‰ä¸­excludeå†²çªæ–¹æ³•
 @Pointcut("pcd1() && !pcd2()")
 public void tracePointCut() {
 }
@@ -655,7 +670,7 @@ public void pcd1() {
 public void pcd2() {
 }
 
-# 3.»¹¿ÉÒÔ¹ıÂËPostConstruct±êÇ©·½Ê½ÅÅ³ı
+# 3.è¿˜å¯ä»¥è¿‡æ»¤PostConstructæ ‡ç­¾æ–¹å¼æ’é™¤
 @Pointcut("execution(* com.example.policy.facade.PolicyFacadeImpl.*(..)) &&"
 + "!@annotation(javax.annotation.PostConstruct)")
 public void tracePointCut() {
@@ -665,9 +680,9 @@ public void tracePointCut() {
 <div id = "u4"></div>
 
 #### jpa
-[spring-data-jpa](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)ÎªspringÌá¹©²Ù×÷Êı¾İ¶ÔÏóµÄÄÜÁ¦
+[spring-data-jpa](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)ä¸ºspringæä¾›æ“ä½œæ•°æ®å¯¹è±¡çš„èƒ½åŠ›
 
-[**@NoRepositoryBean**](https://www.baeldung.com/spring-data-jpa-method-in-all-repositories) À´¶¨ÒåBase Repository Interface, ·ñÔòÄ¬ÈÏSpring behaviorÊÇÎªRepositoryËùÓĞ×Ó½Ó¿Ú´´½¨ÊµÏÖ.
+[**@NoRepositoryBean**](https://www.baeldung.com/spring-data-jpa-method-in-all-repositories) æ¥å®šä¹‰Base Repository Interface, å¦åˆ™é»˜è®¤Spring behavioræ˜¯ä¸ºRepositoryæ‰€æœ‰å­æ¥å£åˆ›å»ºå®ç°.
 ```java
 @NoRepositoryBean
 public interface ExtendedRepository<T, ID extends Serializable> 
@@ -676,7 +691,7 @@ public interface ExtendedRepository<T, ID extends Serializable>
     public List<T> findByAttributeContainsText(String attributeName, String text);
 }
 ```
-SimpleJpaRepositoryÊÇSpringÌá¹©repository½Ó¿ÚÊµÏÖµÄÄ¬ÈÏÀà.
+SimpleJpaRepositoryæ˜¯Springæä¾›repositoryæ¥å£å®ç°çš„é»˜è®¤ç±».
 ```java
 public class ExtendedRepositoryImpl<T, ID extends Serializable>
 	  extends SimpleJpaRepository<T, ID> implements ExtendedRepository<T, ID> {
@@ -696,28 +711,28 @@ public class ExtendedRepositoryImpl<T, ID extends Serializable>
 <div id = "u4s1"></div>
 
 #### Repository
-[**CrudRepository, JpaRepository, and PagingAndSortingRepository**](https://www.baeldung.com/spring-data-repositories)ÊÇÖ÷Òª¼¸ÖÖ²Ö¿âÀàĞÍ£¬ÆäÖĞ[CrudRepository](https://www.baeldung.com/spring-data-crud-repository-save) ÊÇgeneric CRUD operationsÀàĞÍ£¬ËüÌá¹©¶àÖÖÈİÆ÷Íâ(out of the box)·½·¨À´ÓëÊı¾İ¿â½»»¥
+[**CrudRepository, JpaRepository, and PagingAndSortingRepository**](https://www.baeldung.com/spring-data-repositories)æ˜¯ä¸»è¦å‡ ç§ä»“åº“ç±»å‹ï¼Œå…¶ä¸­[CrudRepository](https://www.baeldung.com/spring-data-crud-repository-save) æ˜¯generic CRUD operationsç±»å‹ï¼Œå®ƒæä¾›å¤šç§å®¹å™¨å¤–(out of the box)æ–¹æ³•æ¥ä¸æ•°æ®åº“äº¤äº’
 
 ### Troubleshooting
 <div id = "ts1"></div>
 
 #### NoUniqueBeanDefinitionException
-Èç¹û¸ø¶¨µÄÀàĞÍ´æÔÚ¶à¸öbeanÊµÀı£¬ÔÚ×öÒÀÀµ×¢ÈëÊ±ºòÄãĞèÒª¸æËßSpringÈİÆ÷ÒªÊ¹ÓÃÄÄÒ»¸öbeanÊµÀı¡£Èç¹ûÃ»ÓĞÖ¸¶¨Spring»áthrow a NoUniqueBeanDefinitionException£¬¸æËßÄãÈİÆ÷²»ÖªµÀÓ¦¸Ã×¢ÈëÄÄÒ»¸öbeanÊµÀı
+å¦‚æœç»™å®šçš„ç±»å‹å­˜åœ¨å¤šä¸ªbeanå®ä¾‹ï¼Œåœ¨åšä¾èµ–æ³¨å…¥æ—¶å€™ä½ éœ€è¦å‘Šè¯‰Springå®¹å™¨è¦ä½¿ç”¨å“ªä¸€ä¸ªbeanå®ä¾‹ã€‚å¦‚æœæ²¡æœ‰æŒ‡å®šSpringä¼šthrow a NoUniqueBeanDefinitionExceptionï¼Œå‘Šè¯‰ä½ å®¹å™¨ä¸çŸ¥é“åº”è¯¥æ³¨å…¥å“ªä¸€ä¸ªbeanå®ä¾‹
 
-ÓĞÁ½ÖÖ·½Ê½À´Ö¸¶¨×¢ÈëbeanÊµÀı£¬Ê¹ÓÃ **@Primary**±êÇ©£¬Ëü»á¸æËßSpringÈİÆ÷primary beanÊµÀıÔÚautowireÊ±ºòÓÅÏÈÆäËûÊµÀı¡£»òÊ¹ÓÃ **@Qualifier**±êÇ©£¬ËüÄÜ¸æËßSpringÄãÒª×¢ÈëbeanÊµÀıµÄname¡£Ä¬ÈÏÇé¿öÏÂbeanÊµÀıÒıÓÃnameÊÇÊ××ÖÄ¸Ğ¡Ğ´µÄclass name. [case-ÒıÎÄ](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
+æœ‰ä¸¤ç§æ–¹å¼æ¥æŒ‡å®šæ³¨å…¥beanå®ä¾‹ï¼Œä½¿ç”¨ **@Primary**æ ‡ç­¾ï¼Œå®ƒä¼šå‘Šè¯‰Springå®¹å™¨primary beanå®ä¾‹åœ¨autowireæ—¶å€™ä¼˜å…ˆå…¶ä»–å®ä¾‹ã€‚æˆ–ä½¿ç”¨ **@Qualifier**æ ‡ç­¾ï¼Œå®ƒèƒ½å‘Šè¯‰Springä½ è¦æ³¨å…¥beanå®ä¾‹çš„nameã€‚é»˜è®¤æƒ…å†µä¸‹beanå®ä¾‹å¼•ç”¨nameæ˜¯é¦–å­—æ¯å°å†™çš„class name. [case-å¼•æ–‡](https://springframework.guru/fixing-nonuniquebeandefinitionexception-exceptions/)
 
 <div id = "ts2"></div>
 
 #### NoSuchBeanDefinitionException
-[**NoSuchBeanDefinitionException**](https://www.baeldung.com/spring-nosuchbeandefinitionexception)ÊÇÒ»ÖÖ³£¼ûµÄ×¢Èë´íÎó£¬³£³£ÓÉÓÚÕÒ²»µ½beanÊµÀı,»òÕßclass¶¨ÒåÕÒ²»µ½¶ø²úÉú¡£
+[**NoSuchBeanDefinitionException**](https://www.baeldung.com/spring-nosuchbeandefinitionexception)æ˜¯ä¸€ç§å¸¸è§çš„æ³¨å…¥é”™è¯¯ï¼Œå¸¸å¸¸ç”±äºæ‰¾ä¸åˆ°beanå®ä¾‹,æˆ–è€…classå®šä¹‰æ‰¾ä¸åˆ°è€Œäº§ç”Ÿã€‚
 
-µ«ÓĞÊ±ºòÒ²»áÓÉÓÚbean´´½¨ÏÈºóË³Ğò¶ø²úÉú£¬ÀıÈçbean1ÏÈÓÚbean2´´½¨£¬bean1¶¨ÒåÖĞautowireÁËbean2£¬Õâ¸öÊ±ºòÒ²»á²úÉúÕâÑù´íÎó¡£½â¾ö°ì·¨¾ÍÊÇÈÃbean1 **@lazy** autowire bean2£¬»òÕß[Ö¸¶¨¼ÓÔØË³Ğò](#u2s1)¡£Èç¹ûÏ£ÍûSpring¼´Ê¹ÕÒ²»µ½Æ¥ÅäµÄBeanÍê³É×¢ÈëÒ²²»ÓÃÅ×³öÒì³££¬ÄÇÃ´¿ÉÒÔÊ¹ÓÃ@Autowired(required=false)½øĞĞ±ê×¢
+ä½†æœ‰æ—¶å€™ä¹Ÿä¼šç”±äºbeanåˆ›å»ºå…ˆåé¡ºåºè€Œäº§ç”Ÿï¼Œä¾‹å¦‚bean1å…ˆäºbean2åˆ›å»ºï¼Œbean1å®šä¹‰ä¸­autowireäº†bean2ï¼Œè¿™ä¸ªæ—¶å€™ä¹Ÿä¼šäº§ç”Ÿè¿™æ ·é”™è¯¯ã€‚è§£å†³åŠæ³•å°±æ˜¯è®©bean1 **@lazy** autowire bean2ï¼Œæˆ–è€…[æŒ‡å®šåŠ è½½é¡ºåº](#u2s1)ã€‚å¦‚æœå¸Œæœ›Springå³ä½¿æ‰¾ä¸åˆ°åŒ¹é…çš„Beanå®Œæˆæ³¨å…¥ä¹Ÿä¸ç”¨æŠ›å‡ºå¼‚å¸¸ï¼Œé‚£ä¹ˆå¯ä»¥ä½¿ç”¨@Autowired(required=false)è¿›è¡Œæ ‡æ³¨
 
 ### Unit Test
 <div id = "ut1"></div>
 
 #### JUnit
-The Spring TestContext frameworkÌá¹©[**@ContextConfiguration**](https://www.baeldung.com/junit-assert-exception), ÆäÄÜ½ÓÊÜan array of @Configuration Class objects
+The Spring TestContext frameworkæä¾›[**@ContextConfiguration**](https://www.baeldung.com/junit-assert-exception), å…¶èƒ½æ¥å—an array of @Configuration Class objects
 ```java
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes={AppConfig.class, DatabaseConfig.class})
@@ -733,11 +748,11 @@ public class MyTests {
    }
 }
 ```   
-Spring¿ò¼ÜÌá¹©ÁËºÍJUnit¼¯³ÉµÄ·½Ê½
+Springæ¡†æ¶æä¾›äº†å’ŒJUnité›†æˆçš„æ–¹å¼
 * JUnit integrates with spring<br>
-  1. ¼òµ¥µØÓÃ **@RunWith(SpringRunner.class)** ±ê×¢»ùÓÚJUnit 4µÄtest class<br>[***1.description***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***2.code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
-  2. Ê¹ÓÃorg.springframework.test.web.servlet.**MockMvc** ×÷Îªserver-side Spring MVC testµÄÖ§³Ö<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L67)
+  1. ç®€å•åœ°ç”¨ **@RunWith(SpringRunner.class)** æ ‡æ³¨åŸºäºJUnit 4çš„test class<br>[***1.description***](https://github.com/lsieun/learn-spring/blob/master/spring-boot/junit/RunWith.md) [***2.code***](https://github.com/search?q=%40RunWith%28SpringJUnit4ClassRunner.class%29&type=Code)<br>
+  2. ä½¿ç”¨org.springframework.test.web.servlet.**MockMvc** ä½œä¸ºserver-side Spring MVC testçš„æ”¯æŒ<br>[***sample***](https://github.com/apache/incubator-griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobControllerTest.java#L67)
   3. ...
   4. ...
 * [Test in Spring boot](https://www.baeldung.com/spring-boot-testing)
-  1. **@DataJpaTest** Óë **@RunWith(SpringRunner.class)** ×éºÏ×÷ÎªµäĞÍJPA test·½Ê½, ×Ô¶¯Ê¹ÓÃÒ»¸öembedded in-memoryÊı¾İ¿â<br>[***sample***](https://github.com/apache/griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobInstanceBeanRepoTest.java#L53)
+  1. **@DataJpaTest** ä¸ **@RunWith(SpringRunner.class)** ç»„åˆä½œä¸ºå…¸å‹JPA testæ–¹å¼, è‡ªåŠ¨ä½¿ç”¨ä¸€ä¸ªembedded in-memoryæ•°æ®åº“<br>[***sample***](https://github.com/apache/griffin/blob/master/service/src/test/java/org/apache/griffin/core/job/JobInstanceBeanRepoTest.java#L53)

@@ -189,3 +189,9 @@ A five-judge federal court panel, headed by the nation’s chief justice, unanim
 
 Mr. Najib has cast himself as a victim and blamed the elusive financier Jho Low, who helped siphon money from 1MDB and used his share to give extravagant gifts of jewelry and paintings to newfound celebrity friends. He remains a fugitive and is believed to be in China.
 纳吉布将自己视为受害者，并指责诡秘莫测的金融家刘特佐(Jho Low)帮助从1MDB吸走资金，并用他的份额向新结识的名人朋友赠送珠宝和名画等奢侈礼物。刘特佐依然在逃，据信在中国。
+
+Outside observers have long noticed that too little of China’s national income filters down to the public, so that consumer spending has remained weak despite rapid economic growth. Instead, the nation has maintained more or less full employment by channeling cheap credit into increasingly unproductive investment spending, above all a bloated housing market supported by ever-growing private debt.
+外界观察人士早就注意到，中国的国民收入只有很少一部分惠及公众，因此，尽管经济增长迅速，但消费支出仍然疲软。相反，中国通过将廉价信贷用于日益低效的投资支出，尤其是膨胀的房地产市场，由不断增长的私人债务支撑，这或多或少地维持了充分就业
+
+Winter may be the moment of truth, the trial by fire, with economic hardship, social impact and reaction by populist forces that will try to blame the domestic situation on the sanctions — the rhetoric encouraged by the Kremlin.
+冬天可能是揭开真相的时刻，是火刑考验，经济困难、社会影响和民粹主义势力的反应将试图把国内局势归咎于制裁——这个说法是有克里姆林宫的助推的。

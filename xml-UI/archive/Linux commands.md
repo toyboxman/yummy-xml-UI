@@ -1773,10 +1773,14 @@ $ zip -ruqq ../all.jar ./*
 
 # -d 删除zip中的文件
 $ zip -d auth-1.0.jar antrun/build-main.xml
-# 删除zip中的文件目录
-$ zip -d auth-1.0.jar src/*
+# 删除zip中的 com/example/test/目录,包括其所有子目录和文件, 成功后只剩下com/example/目录
+$ zip -d auth-1.0.jar "com/example/test/*"
 # jar不支持-d 因此只能用zip来删除其中文件
 # 注意jar支持参数可以不加- 但zip/gzip 命令参数前都需要-
+# 将zip文件包中 com/example/test/ 目录下所有子目录和文件一次删除, test目录不删除
+$ zip -d auth-1.0.jar "com/example/test/**"
+# 将zip文件包中 com/example/test/ 目录下Rpc开头文件一次删除
+$ zip -d auth-1.0.jar "com/example/test/Rpc*"
 
 # 把当前目录下org整个打包成apache.jar
 $ jar cvf apache.jar ./org/*
@@ -2025,6 +2029,28 @@ checking file src/test/java/com/example/EndPoint.java
 # 1.列出当前目录下所有文件名
 # 2.转成多个输入文件参数,由cat打印出内容
 ls ./ | xargs cat
+
+# 由于xargs默认将空格作为分隔符，所以不太适合处理文件名，因为文件名可能包含空格
+# find命令有一个特别的参数 -print0，指定输出的文件列表以 null 分隔。然后，xargs命令的 -0 参数表示用 null 当作分隔符
+# 删除/path路径下的所有文件。由于分隔符是null，所以处理包含空格的文件名，也不会报错
+$ find /path -type f -print0 | xargs -0 rm
+
+# 还有一个原因，使得xargs特别适合find命令。有些命令（比如rm）一旦参数过多会报错"参数列表过长"，而无法执行
+# 改用xargs就没有这个问题，因为它对每个参数执行一次命令
+# 找出所有 TXT 文件以后，对每个文件搜索一次是否包含字符串abc
+$ find . -name "*.txt" | xargs grep "abc"
+
+# -p 参数打印出要执行的命令，询问用户是否要执行。用户输入y以后（大小写皆可），才会真正执行
+$ echo 'one two three' | xargs -p touch
+touch one two three ?...
+# -t 参数则是打印出最终要执行的命令，然后直接执行，不需要用户确认
+$ echo 'one two three' | xargs -t rm
+rm one two three
+
+# -d 参数可以更改分隔符
+# echo命令的 -e 参数表示解释转义字符
+$ echo -e "a\tb\tc" | xargs -d "\t" echo
+a b c
 ```
 
 #### wc
@@ -2181,7 +2207,7 @@ $ sed 'N;s/\n/_/' file ｜ sed 'i 123'
 123
 org_springframework_boot_spring_boot_starter_web
 # 添加操作，在当前行后面添加一行text
-$ sed 'N;s/\n/_/' file ｜ sed 'i 123'
+$ sed 'N;s/\n/_/' file ｜ sed 'a 123'
 org_springframework_boot_spring_boot_starter_web
 123
 
