@@ -106,6 +106,16 @@ docker login --username=docker2020 projects.registry.example.com
 # 4.push image 等待upload时间，成功后可在站点对应空间看到image文件
 docker push projects.registry.example.com/aws/centos
 
+# image 更改 name tag
+docker image tag kibana:7.16.1 my-project/kibana:7.16.1
+docker image tag 02f1088fcc07 my-project/kibana:7.16.1
+$ docker images
+REPOSITORY                                        TAG                 IMAGE ID       CREATED         SIZE
+kibana                                            7.16.1              02f1088fcc07   8 months ago    1.3GB
+my-project/kibana                                 7.16.1              02f1088fcc07   8 months ago    1.3GB
+# 可以将旧的 name/tag 删除，由于存在一个新的 name tag, 本地实际的image文件并不删除
+docker rmi kibana:7.16.1
+
 # remove image forcibly
 docker rmi -f <NAME | ID>  
 

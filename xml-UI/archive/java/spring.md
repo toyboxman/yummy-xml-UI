@@ -5,7 +5,7 @@
 ### Concept
 
 #### [Spring boot](https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm)
-Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML configuration，减少应用开发时间，提供快速简单启动应用的方式。
+Spring Boot提供开发stand-alone和production-grade的spring应用新方式，其避免了复杂的XML [configuration](https://baeldung-cn.com/tag/boot-basics/)，减少应用开发时间，提供快速简单启动应用的方式。
 
 包括如下特点：<br>
 1. 灵活配置Java Beans, XML configurations和Database Transactions.
@@ -102,7 +102,7 @@ ApplicationContexts能自动在bean的定义中找到BeanPostProcessor标注的b
 -Dlogging.level.root=TRACE \
 -cp \
 ${DEPENDENT_LIBS} \
-com.vmware.sha.manager.ShaManagerApplication
+com.example.manager.ManagerApplication
 ```
 
 

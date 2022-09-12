@@ -139,7 +139,7 @@
         - DPU
             - [网络架构的演进](https://mp.weixin.qq.com/s/qZdWH0YNmpvhYnm67hUHHg)
             - [计算体系变革](https://mp.weixin.qq.com/s/FkyZ9wDgIlX4053MDPTkrA)
-            - [智能网卡](https://mp.weixin.qq.com/s/GblulfR7yyI72mLCUarUyg)
+            - 智能网卡[[1](https://mp.weixin.qq.com/s/GblulfR7yyI72mLCUarUyg), [2](https://mp.weixin.qq.com/s/v4Wk4RCZ0UaJ6twH6mVm3g)]
         - [frp实现内网服务器穿透](https://mp.weixin.qq.com/s/9BwqYjHW3YJG2CMxHuxORw)
         - [Socks5 代理协议详解](https://mp.weixin.qq.com/s/Zc6QxCSt2yEuz1LoNj033Q)
         - DNS原理[[1](https://mp.weixin.qq.com/s/jXgr9_06E_tT-e1M_2hqcg), [2](https://mp.weixin.qq.com/s/U6Jk54eix-VjWTUOlAZP3A)]
@@ -808,6 +808,7 @@ monitor in:description language:python
     - [JVM面试问题](https://mp.weixin.qq.com/s/nAa3HNdycd5V-lETIZXxuw)
 
 #### tools
++ [开发搜索在线素材 gitlogs](https://mp.weixin.qq.com/s/39FAxO8OnQ5TuVGwrfZQrg)
 + Linux常用工具[[英文](https://github.com/luong-komorebi/Awesome-Linux-Software), [中文](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)]
 + Windows常用工具[[英文](https://github.com/Awesome-Windows/Awesome), [中文](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)]
 + Mac常用工具[[英文](https://github.com/jaywcjlove/awesome-mac), [中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)]
