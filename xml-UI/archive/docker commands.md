@@ -336,10 +336,11 @@ docker run -d --name jaeger-es \
 
 #### zk command
 ```console
+# check zk node as follower or leader
+echo stat | nc localhost 2181| grep Mode
+
 # enter zkCli mode
-/bin/zkCli.sh -server 172.18.0.3:2181  
-# check zk node follower or leader
-echo stat | nc localhost 2181| grep Mode  
+/bin/zkCli.sh -server 172.18.0.3:2181    
 # list zNodes
 ls /  
 # create zNode 'zk_test' to save data

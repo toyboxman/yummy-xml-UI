@@ -10,6 +10,7 @@
 + [***Tools***](#tools)
 + [***Interview***](#interview)
 + [***System Monitor***](system-monitor/monitor.md)
+    - [优化程序原则和手段](https://mp.weixin.qq.com/s/xj6go8E5CFB6YOma5lSpEw)
     - [NetData性能监控工具](https://mp.weixin.qq.com/s/Xlrp6LJ-2UY-EoQuAZjAaA)
     - [分布式跟踪方案(instrumentation库/tracer/分析工具)](https://mp.weixin.qq.com/s/5J80CzoSoX8M3g96cOvKQw)
     - [CPU使用率低但高负载](https://mp.weixin.qq.com/s/TQZ3anPiStzgI1B--uTGlQ)
@@ -409,6 +410,7 @@
         `负载均衡算法/转发实现/集群下的Session管理`
     - [分布式DB-Apache ShardingSphere](https://mp.weixin.qq.com/s/KxvUMJ3xMQRCQD8pcJYllg)
     - [分布式块存储SmartX](https://mp.weixin.qq.com/s/9PGS3jUI9bjAE7xR37v5Pw)
+    - [分布式定时任务框架](https://mp.weixin.qq.com/s/Juwvw6RU520eQG-8ybsAGw)
 + 高并发系统
     - [高并发系统的设计](https://mp.weixin.qq.com/s/YnMyZ19Hu8uq5jfxGTolFg)  
         `秒杀业务设计要素`
@@ -440,6 +442,7 @@
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)  
         `墨菲定律(设计系统)/康威定律(系统划分)`<br>
         `服务发现/网关/配置中心/通讯方式/监控预警/监控架构/调用链监控APM/熔断-隔离-限流-降级/容器与服务编排引擎`
+        - [微服务一定要有网关](https://mp.weixin.qq.com/s/TeIGwDjMWDeEzuRpeXf8tw)
         - [微服务设计模式](https://mp.weixin.qq.com/s/PzPfWHVanSQpZha7qDeKGw)
         - [微服务发现技术](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)  
             `传统集中式代理/客户端嵌入式代理/主机独立进程方案/K8S服务发现机制`

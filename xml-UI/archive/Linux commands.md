@@ -961,6 +961,35 @@ $ ssh root@192.168.1.1 "ssh root@192.168.1.2 \"grep -in '#bms#' /var/log/proton/
 # 将172.16.1.13上端口54321数据转发本机54321端口
 $ ssh -R 54321:localhost:54321 root@172.16.1.13
 ```
+- 定位ssh错误   
+由于openssh默认不再支持ssh-rsa算法(存在安全隐患)，因此升级到较新版本后ssh有时候会遇到一些问题，比如通过ssh fetch gerrit会出现 Permission denied (publickey)
+```console
+$ git remote -v
+# gerrit支持ssh/http
+gerrit	ssh://git@gitreview.eng.com:29418/project.git (fetch)
+gerrit	ssh://git@gitreview.eng.com:29418/project.git (push)
+origin	git@gitlab.eng.com:core-build/project.git (fetch)
+origin	git@gitlab.eng.com:core-build/project.git (push)
+$ git fetch gerrit
+Permission denied (publickey)
+
+# 错误定位 通过 v vv vvv 输出ssh详细过程
+# 查找 gerrit的ssh port
+$ curl https://gitreview.eng.com/ssh_info
+gitreview.eng.com 29418
+$ ssh -v -p 29418 git@gitreview.eng.com
+# 可以看到失败是无交互签名算法造成
+debug1: send_pubkey_test: no mutual signature algorithm
+
+# 解决问题
+# 1.重新启用ssh-rsa,但存在安全风险
+# 在ssh client配置文件 /etc/ssh/ssh_config 增加rsa支持
+PubkeyAcceptedKeyTypes +ssh-rsa
+# 2.使用 ECDSA and ED25519 algorithms, 重新产生hostkey
+ssh-keygen -t ed25519 -C "your_email@example.com"
+# 3.gerrit放弃ssh方式，改用http
+git remote set-url gerrit https://gitreview.eng.com/project.git
+```
 
 #### find
 + [文件查找](https://mp.weixin.qq.com/s/14ReE0IvxseEpboJSGh0vw)

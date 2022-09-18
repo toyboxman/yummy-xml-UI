@@ -129,3 +129,48 @@ As King Charles III, he will become sovereign of the world’s most important co
 
 For Charles, the biggest personal challenge may be healing the rift with his son. Charles must also deal with the legal fallout from his brother Andrew’s relationship with Mr. Epstein. He has grown in stature in recent years, He’s looking like a much more confident character, happier in his own skin.
 对查尔斯来说，个人最大的挑战可能是弥合与儿子之间的裂痕。查尔斯还必须处理弟弟安德鲁与爱泼斯坦的关系带来的法律后果。近年来，他的声望有所提高，他看起来像一个更自信的角色，更加游刃有余。
+
+When the drones first emerged, Taiwan appeared unprepared and without sufficient equipment in place to counter them. The army was caught a bit flat-footed, Taiwan is still fighting a 20th-century war and needs to be embracing asymmetric strategies of the 21st century.
+当无人机首次出现时，台湾似乎毫无准备，也没有足够的设备来对抗它们。军队有点措手不及，台湾仍在打20世纪的战争，需要接受21世纪的不对称战略。
+
+At the height of the Cold War, the islands off Xiamen were a high danger point between the United States and China. After Mao Zedong fired artillery in 1958 at the island of Kinmen, then known as Quemoy, military chiefs in Washington threatened to drop small nuclear bombs in retaliation. President Eisenhower rejected the advice.
+在冷战最激烈的时期，厦门附近的岛屿是中美之间的高度危险点。1958年，毛泽东向金门岛开炮后，华盛顿的军方高层威胁要投下小型核弹进行报复。艾森豪威尔总统拒绝了这个建议。
+
+The Indian and Chinese troops in the area of Gogra-Hot Springs have begun to disengage in a coordinated and planned way, which is conducive to the peace and tranquility in the border areas,
+印度和中国军队在戈格拉—温泉地区已经开始以协调、有计划的方式进行撤离，这有利于边境地区的和平与安宁。
+
+Not a single shot was fired, following a longstanding code against using firearms, but the soldiers went at each other with fists, some possibly studded with nails or wrapped in barbed wire.
+双方遵循长期以来不得用枪的规定，没打一枪一弹，但士兵们互相肉搏，有些人可能使用了狼牙棒。
+
+The announcement came a week before the leaders of India and China will attend the Shanghai Cooperation Organization summit meeting in Samarkand, Uzbekistan. It will be the first time that Prime Minister Narendra Modi of India and Xi Jinping, China’s leader, will be under one roof since the deadly clash.
+这一消息的发布正值印中领导人将出席在乌兹别克斯坦撒马尔罕举行的上海合作组织峰会一周前。这将是自那次致命冲突以来，印度总理莫迪和中国领导人习近平的首次会面。
+
+Officials in the Yining area opened a tourist festival with a ceremony featuring hot-air balloons and horse riding.
+伊宁地区的官员还为一个旅游节举行了开幕式，其中包括热气球和骑马表演。
+
+There had been nothing but instant noodles for two weeks, which he could no longer face more than twice a day. He said it was wreaking havoc with his digestive system. 
+两周来，除了方便面什么都没有，他已经无法接受每天两顿方便面的饮食。他说，这种饮食已给他的消化系统造成了损害。
+
+Currently, China and Russia are both in important periods of national revival, and bilateral relations have entered a new stage, China now has the upper hand in the relationship, given its economic and military might.
+中俄两国都处于国家发展的关键时期，中俄关系迈入新时代，鉴于经济和军事力量，如今中国在双边关系中占据了上风。
+
+Our destination was a region of Sichuan Province where clear rivers tumble down from the Himalayas through steep valleys before watering fertile lowlands that help feed a country with the world’s largest population. 
+我们的目的地是四川省一个地区，在那里，源自喜马拉雅山脉的清澈河流经过陡峭的山谷，灌溉肥沃的低地，养活这个拥有世界上人口最多的国家。
+
+My daughter, Evelyn, learned to swim only just last year, and we looked forward to plunging into cool, scenic mountain swimming holes. Instead, we ran a gantlet of climate change effects caused by China’s historic heat wave this summer — ravaged landscapes, paralyzed cities and populations pushed to extremes.
+我的女儿伊芙琳去年才学会游泳，我们期待着跳入凉爽优美的山间水潭. 然而，由于今年夏天中国出现的历史上罕见的高温天气，我们遭遇的是气候变化带来的惩罚——饱受蹂躏的地貌，城市瘫痪，人们被推向极端的境地
+
+Around us, a storm is gathering, U.S.-China relations are worsening, with intractable issues, deep suspicions and limited engagement between them. This is unlikely to improve anytime soon. Beijing and Washington try to play down the metaphor of a new Cold War. But as each side moves to gain the upper hand, their actions often give the opposite impression.
+一场风暴正在我们的周围聚集，美中关系正在恶化，问题棘手，猜疑很深，双方的接触有限。这种情况不太可能很快改善。北京和华盛顿都试图淡化新冷战的说法。但双方都在为占据上风而采取行动，他们的行为常常会给人以相反的印象。
+
+The structures etched on these microchips are vanishingly small. “Nm” is short for nanometer. Read this slowly: A nanometer is a millionth of a millimeter. Back in the 20th century, I listened to ballgames on a transistor radio. 
+蚀刻在这些微芯片上的结构非常小。仔细品味这句话：一纳米是百万分之一毫米。回想20世纪，我在晶体管收音机上听球赛。
+
+China has made the production of its own state-of-the-art silicon chips a national priority, but it has been unable to catch up with Taiwan.
+中国已将生产最先进的本土硅芯片作为国家优先事项，但一直无法赶上台湾。
+
+There were deadly monsoon rains in Bangladesh, the worst in more than a century, and then, in Pakistan, much worse: a third of the country submerged, more than a thousand dead and a million homes destroyed. there is nothing in world climatic history which is even minimally comparable.
+孟加拉国遭遇了致命的季风降雨，是一个多世纪以来最严重的一次，而巴基斯坦的情况更加糟糕：该国三分之一的国土被淹没，超过1000人死亡，100万座房屋被毁。在世界气候史上，没有任何事可以相提并论
+
+For years, China has served as a convenient rhetorical touchstone for the climate-minded on both left and right — often described as a bad actor and unreliable partner by climate and energy nationalists, and by agitated environmentalists as an example of what could be done, climatewise, given a political structure without so many troublesome veto points. 
+多年来，对于关注气候问题的左翼人士和右翼人士来说，中国一直是一个好用的修辞上的试金石——气候和能源民族主义者经常把中国描述为一个糟糕的角色和不可靠的伙伴，而激进的环保主义者则把中国描述为一个典型，证明如果政治结构中没有那么多麻烦的否决点，人们在气候方面可以做些什么
