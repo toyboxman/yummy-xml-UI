@@ -1132,6 +1132,7 @@ fi
 * 编写bash函数
 	+ [处理函数参数](http://www.freeos.com/guides/lsst/advance01.html)
 	+ [定义函数](https://mp.weixin.qq.com/s/-aFndwOUi95rEdYAciO57A)
+    + [函数的返回值](https://www.jianshu.com/p/ed22db46965e)
 ```sh
 #!/bin/sh
 # 脚本名称 parameter.sh
@@ -1144,8 +1145,8 @@ echo $1
 resonate()
 {
     # 此处 $1 为函数的input参数
-	echo "Hello $1"
-	return
+    echo "Hello $1"
+    return
 }
 
 # shell是top-down被解释执行，因此函数必须定义在调用前面
@@ -1162,6 +1163,29 @@ Shell  //echo "$1"
 Shell  //echo $1
 Hello   //resonate
 Hello World   //resonate World
+```
+<strong>bash函数和脚本的返回值</strong><br>
+- 返回值通过变量 `$?` 可以得到
+- 函数的返回值是一个数字, 范围是[0 - 255], 每一个函数都有返回值,或者由显式的return语句指定, 后面跟一个[0-255]之间的数字, 如果没有return语句,那么最后一条语句的返回值作为函数的返回值.
+- 脚本的返回值和函数的返回值一样. 脚本的返回值也是一个数字, 范围是[0 - 255], 或者由显式的exit语句指定, 后面跟一个[0-255]之间的数字, 如果没有exit语句,那么最后一条命令的返回值作为脚本的返回值.
+```sh
+function skip(){
+    echo
+    echo "rebuild skip(y/n)"
+    read answer
+    if [ $answer != "y" ]; then
+        rebuild
+    fi
+    return "y"   --> 此处返回数字 [0 - 255]
+}
+
+skip
+echo $?
+```
+结果如下
+```sh
+./tracing.sh: line 128: return: y: numeric argument required
+255
 ```
 
 <div id = "exp11"></div> 

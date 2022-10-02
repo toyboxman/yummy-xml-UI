@@ -137,6 +137,7 @@
             - [vlan/三层交换机/网关/DNS/子网掩码/MAC](https://mp.weixin.qq.com/s/73u2kO43gGp0BCHncQO0ng)
         - [高性能网络架构](https://mp.weixin.qq.com/s/FnP_IARgpDcpefqEx931Lw)
             - [网络性能的优化](https://mp.weixin.qq.com/s/tPxF5T_ELFuLXiQ56NcTdQ)
+            - [Cilium的eBPF收发包路径](https://mp.weixin.qq.com/s/lYO3PjxUc9fOf2YjEAebGA)
         - DPU
             - [网络架构的演进](https://mp.weixin.qq.com/s/qZdWH0YNmpvhYnm67hUHHg)
             - [计算体系变革](https://mp.weixin.qq.com/s/FkyZ9wDgIlX4053MDPTkrA)
@@ -207,6 +208,7 @@
         - [HTTP Referer](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)
         - [HTTP guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)  
             `Mozilla MDN HTTP doc`
+    - [单点登录SAML/OAuth2](https://mp.weixin.qq.com/s/79C0qMhaIUlWdUnQ_Xw6vA)
     - [浏览器缓存机制](https://mp.weixin.qq.com/s/LLJGZyYELj3ZqPPvSONa-g)  
         `1.缓存是指web资源(html/图片/js/数据等)存在于web服务器和浏览器之间的副本`  
         `2.缓存策略可以缩短网页请求资源的距离，减少延迟，并且由于缓存文件可以重复利用，还可以减少带宽，降低网络负荷`

@@ -29,6 +29,7 @@
 Kubernetes解决那些问题可以看看
 + [容器发展史](https://mp.weixin.qq.com/s/ccFkJJz97KcuXdO3r5zdXA)
 + [k8s简介](https://mp.weixin.qq.com/s/JSipXCkLAMIpNa4UGDRogQ)
+    - [图解k8s资源定义node/cluster/pod](https://zhuanlan.zhihu.com/p/102663768)
 + [部署Kubernetes的代价](https://mp.weixin.qq.com/s/zzn61ADe2RA7K0L4-EMAOA)
 + Kubernetes 学习曲线[[1](https://mp.weixin.qq.com/s/H8guIwQlMoKnN9OI_Om3RA), [2](https://opensource.com/article/19/6/kubernetes-basics)]
 + [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)

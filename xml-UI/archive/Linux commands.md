@@ -1593,6 +1593,10 @@ wget -c --no-cookies \
 # --output-dir <dir> 指定下载文件的目录
 curl -L -C - -b "oraclelicense=accept-securebackup-cookie" -O \
 http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz
+
+# 如果不想在本地保留下载文件，可以直接 pipe to 其他命令
+# tar xzv - 表示直接从下载流中解析文件
+curl http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk8-linux-x64.tar.gz | tar xzf - -C /opt/software/
 ```
 如果下载遇到失败问题，可以这样避免   
 1. url中存在特殊字符`&`，bash执行会截断。需要给url加上引号`" "`

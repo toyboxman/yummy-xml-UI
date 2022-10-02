@@ -174,3 +174,81 @@ There were deadly monsoon rains in Bangladesh, the worst in more than a century,
 
 For years, China has served as a convenient rhetorical touchstone for the climate-minded on both left and right — often described as a bad actor and unreliable partner by climate and energy nationalists, and by agitated environmentalists as an example of what could be done, climatewise, given a political structure without so many troublesome veto points. 
 多年来，对于关注气候问题的左翼人士和右翼人士来说，中国一直是一个好用的修辞上的试金石——气候和能源民族主义者经常把中国描述为一个糟糕的角色和不可靠的伙伴，而激进的环保主义者则把中国描述为一个典型，证明如果政治结构中没有那么多麻烦的否决点，人们在气候方面可以做些什么
+
+Her debut collection, titled “Eye Level,” won the 2017 Walt Whitman Award and is a feast of scenery: Phnom Penh’s rain-slicked tin roofs, Corfu’s white sailboats lining up like “grains of rice.” It is also preoccupied with the ethics of seeing: a viewfinder “slices the horizon,” a camera “neuters the present” and to bestow one’s gaze is to spend “a soft currency.”
+她的首部诗集《视线高度》赢得了2017年沃尔特·惠特曼奖，是一部风景的盛宴：雨水冲刷的金边马口铁屋顶，像“米粒一样”排列的科孚岛帆船。同时她的诗又专注于观看的伦理：取景器会“切割地平线”，照相机“阉割当下”，献出一个人的凝视就像是在花费“一种软性货币”。
+
+It is a marvelous and subtle use of metaphor that does the emotional or even the spiritual work in her poems, Metaphor bears witness to the feeling that the tools and terms we have been taught to rely upon are never enough.
+在她的诗歌中，对隐喻奇妙而细微的运用发挥了情感甚至精神上的作用，隐喻见证了一种感觉：我们被教导需要依赖的工具和术语永远都是不够的。
+
+My parents always sort of instilled in me a fear that my vision was imperiled, reading in low light, watching TV, these sources of pleasure were always bound up in the fear that I could lose my eyesight.
+父母总是向我灌输一种恐惧，担心我的视力受损，在昏暗的灯光下阅读，看电视，这些快乐的来源总是与我可能失明的恐惧联系在一起。
+
+An eponymous poem, “The Rupture Tense,” probes the conflicted feelings of a returnee. One childhood memory relived: “tin bowls of braised river snails” and “the needlehead pulls from the shell.” Another recognition: “Cab driver, pointer finger in a pot of Tiger Balm/dabbing on the temples and nasal septum for that sting of wakefulness,/cutting through the edgeless fog of wage labor.”
+与书同名的诗歌《破裂时态》探讨了归来者的矛盾情感。重现了一段童年记忆：“锡碗焖田螺”以及“用针挑出螺肉”。另一段意象：“出租车司机用食指蘸了一点清凉油/在大阳穴和鼻中轻轻一抹刺激精神/划破了雇佣劳动的无尽迷惘。”
+
+ByteDance has kept optics in mind in choosing TikTok chief executives, five people with knowledge of Mr. Chew’s appointment said. Shou grew up with both American and Chinese language and culture surrounding him, He is objectively better positioned than anyone I’ve ever met in the China business world to be this incredible dual-edged executive in a Chinese company that wants to become a global powerhouse.
+但五名知情人士表示，字节跳动在选择TikTok首席执行官时一直在考虑外界的反应。周先生在美国和中国的语言和文化氛围中成长，客观上说，他比我在中国商界遇到的所有人都更适合在一家希望成为全球巨头的中国公司成为绝佳的兼顾海内外市场的高管。
+
+At a news conference on Sunday night, Guiyang’s deputy mayor said officials were “incomparably remorseful” about the crash and “sincerely apologized to the entire society.”
+贵阳副市长在周日晚间的新闻发布会上表示，官员们对翻车事故“无比自责”，并“向全社会作出诚恳道歉”。
+
+By Monday morning, the backlash was in full swing — as patients said the president was being insensitive at best, and some public health experts said his words were at odds with the science. “An unfortunate sound bite,” she said of Mr. Biden’s remarks.
+到周一早上，人们的不满全面爆发：病人表示，总统往好了说是麻木不仁；而一些公共卫生专家则表示，他的话不符合科学。她谈到拜登的言论时说：“这话也许他不该说。”
+
+ If anyone is responsible for declaring an end, experts say, it would be the organization and its director general, Dr. Tedros Adhanom Ghebreyesus. “We are not there yet,” Dr. Tedros said last week. “But the end is in sight.” In the United States, data show that the pandemic is in what Dr. Osterholm calls a “high plains plateau.”
+ 专家说，如果有人负责宣布结束，那也是世卫组织及其总干事谭德塞博士。“我们还没有到那一步，”谭德塞博士上周说。“但结束就在眼前。” 在美国，数据显示大流行处于奥斯特霍尔姆博士所说的“持续稳定的高发”阶段。
+
+ He said he had no idea how they contracted Covid-19 — it could have been on the plane, where few people were wearing masks, or in the airport, or on the ship, where someone they ate with had a cough. He said he does not regret the trip; his wife, who also had a lung disorder, consulted with her pulmonologist, who said it was fine for her to go. 
+ 他说他不知道他们是如何感染新冠的——可能是在飞机上，那里几乎没有人戴口罩，也可能是在机场或船上，与他们一起吃饭的人有咳嗽的情况。他说他不后悔这次旅行；他的妻子也有肺部疾病，她咨询了自己的肺科医生，医生说她可以去。
+
+ The slackening in investment is the latest in a series of ominous signs for the Chinese economy. The real estate market is slumping, with prices declining in many Chinese cities as the volume of transactions plummets. And American investment in China is also faltering because of geopolitical tensions.
+ 投资放缓是中国经济一系列不祥之兆中的最新一个。房地产市场正在下滑，随着交易量暴跌，中国许多城市的房价都在下跌。美国在中国的投资也因为地缘政治紧张局势而一蹶不振
+
+ But before long, the visage of King Charles III will replace his mother’s in official and unofficial capacities. A lot will be changing. But there is a silver lining of sorts for this royal makeover. The cost of the monarchy, which is significant, comes with the ongoing costs which ought to be reined in and haven’t been reined in
+ 但过不了多久，查尔斯三世国王的脸将在各种官方和非官方场合取代母亲的脸。有很多东西会改变。但王室的这种改头换面也有好的一面。君主制的成本是很高的，其中包括理应进行限制但目前还没有限制的成本
+
+ At the end of his life, he’s looking to preserve his legacy and keep the system intact, His worldview, shared by those around him, is predicated on the idea that compromise opens the door to further compromise and demonstrates weakness rather than strength.
+ 在生命将尽之时，他想要的是保住自己的遗产，并保持这个体制的不变，与周围那些认同他的人一样，他的世界观建立在这样一种思想之上：妥协就意味着进一步的妥协，只会证明软弱而非力量。
+
+ Vladimir V. Putin’s menacing televised address on Wednesday was much more than a bid to change the course of his faltering war against Ukraine. It attempted to invert a war of aggression against a neighbor into one of defense of a threatened “motherland,” a theme that resonates with Russians steeped in patriotic history.
+ 普京于周三发表威胁性电视讲话远不只是为了改变乌克兰战争举步维艰的进程。这场讲话试图将一场针对邻国的侵略战争转变为一场保卫受威胁“祖国”的战争，这一主题在深受爱国主义历史熏陶的俄罗斯人当中引发了共鸣。
+
+ Mr. Putin, Russia’s president, aimed at nothing less than altering the meaning of the war for his country, raising the stakes for the entire world. Rattling his nuclear saber, accusing the West of seeking to “destroy” his country and ordering the call-up of 300,000 military reservists, Mr. Putin implicitly conceded that the war he started on Feb. 24 has not gone as he wished.
+ 普京的目的无非是改变这场战争对俄罗斯的意义，令整个世界面临更大风险。普京挥舞着核武器，指责西方试图“摧毁”他的国家，并下令征召30万预备役军人，他含蓄地承认，他在2月24日发动的战争并没有像他希望的那样发展。
+
+ The country’s political talk shows, usually so deferential, have given the floor to more critical voices. That consensus wasn’t as cast-iron as it might have seemed. While many Western observers tend to view the Russian regime as a monolith, the reality is more complex.  The administration, for example, is stepping up indoctrination for schoolchildren and has instituted new restrictions on supposedly pernicious content in art. 
+ 通常对政府恭恭敬敬的俄罗斯政治脱口秀节目现已把发言权交给了更多的批评者。那个共识不像看起来那样牢不可破。虽然许多西方观察者常常把俄罗斯政体视为铁板一块，实际情况要复杂得多。例如，俄罗斯政府正在加强对学生的灌输，并对其认为有害的艺术内容制定新限制。
+
+Then he sweated his way through passport control, fearing that the Kremlin would close the border to reservists like him. I realized that the stakes just were very high, I was already ready for everything, that they would just turn me away at the border. Some reported long lines at the borders as border guards conducted thorough checks of men.
+然后他紧张地通过了护照检查，担心克里姆林宫会禁止他这样的预备役人员出境。风险太大了，我已经做好了一切准备，包括他们在边境把我拦下。据一些人报告，边境警卫对男性进行彻底检查，导致排起了长龙。
+
+In principle, European Union officials say they stand in solidarity with the men who don’t want to fight. But in practice, offering asylum or even a faster visa process to help them get out of Russia quickly will be a challenge. Israel, however, was looking to facilitate an expected influx of Russian Jews
+原则上，欧盟官员表示，他们支持那些不想上战场的人。但在实践中，为他们提供庇护，甚至加快签证程序，帮助他们迅速离开俄罗斯，都将成为挑战。以色列官员透露，该国正试图向预计将涌入该国的俄罗斯犹太人提供帮助。
+
+The country’s seriousness about developing electric vehicles was on display when it rolled out the red carpet for Tesla to build a massive factory in Shanghai in 2018. After some early stumbles and Covid lockdowns that hobbled its China operations, Tesla now produces more vehicles at its Shanghai factory than anywhere else.
+中国在2018年热烈欢迎特斯拉在上海建设大型汽车制造厂的做法展示了该国对发展电动汽车的认真态度。虽然建厂初期经历了一些挫折，而且曾受“新冠清零”政策影响短暂停产，但上海厂已成为特斯拉全球年产量最高的一座工厂。
+
+The domestic competition is cutthroat, with new entrants emerging constantly, leaving most of the Chinese companies swimming in losses and many almost certain to fail from the challenges of manufacturing electric vehicles at the scale needed to drive down costs.
+国内市场竞争残酷，新来者不断涌现，使得大多数中国汽车制造商处于亏损状态，许多企业几乎肯定会在达到降低成本所需的生产规模挑战面前倒闭。
+
+The nationwide protests challenging Iran’s authoritarian leadership, now in their 10th day, have fed on a range of grievances: a collapsing economy, brazen corruption, suffocating repression and social restrictions handed down by a handful of elderly clerics. 
+挑战伊朗威权统治的全国性抗议活动现已进入第10天，人们积累了一系列愤怒：崩溃的经济、明目张胆的腐败、令人窒息的镇压和由少数老年神职人员传下来的社会限令
+
+Long hair snaked from under ever-looser head scarves. Makeup got heavier, hemlines shorter. Clothing once restricted to dark, somber shades turned chartreuse and hot pink, embroidered and appliquéd.
+头巾越来越宽松，长长的头发蜿蜒而出。妆更浓了，裙摆更短了。曾经仅限于深色、阴沉色调的服装变成了黄绿色和粉红色，上面有刺绣和贴花。
+
+The dark days of waiting to travel abroad have finally come to an end, It’s a much-needed rain for many in the tourism industry. It was the starkest admission yet that the strict rules
+数着能出国旅游的日子终于要结束了，这是旅游业的及时雨。这是迄今为止最为坦率的承认
+
+The chauffeur said in his deposition that Mr. Liu had “overpowered” and “manhandled” Ms. Liu at one point, but he also told the police that he hadn’t heard anyone protesting or asking for help. Mr. Liu’s representatives disputed Ms. Liu’s account and said her recollection of events had shifted.
+司机在证词中说，刘强东曾一度“制服”Liu Jingyao并“动粗”，但他也告诉警方，他没有听到任何人抗议或求助。刘强东的代表对Liu Jingyao的描述提出了质疑，说她对事件的回忆跟之前不一样。
+
+They were kind of throwing everything at the wall, and not a lot of it was sticking, It doesn’t mean that we can say mission accomplished here.
+他们用尽浑身解数，但没有起到什么效果，这并不意味着我们可以说任务到此为止。
+
+Running a dictatorship is a delicate art. Those who try to govern with too light a touch — leaving ordinary people more or less alone except where politics are concerned — run the risk of letting a taste for freedom gain too much ground. The opportunities are ripe.
+独裁统治是一门精细的艺术。试图用过于宽松的手段治理国家——即在政治之外基本不太干涉老百姓，可能会让自由占据太多上风。时机已然成熟。
+
+It isn’t necessary to put all the businessmen in jail, It is necessary to jail the richest, the most independent, the most well connected. It isn’t necessary to kill all the journalists. Just kill the most outstanding, the bravest, and the others will get the message. A vague scent of fear, not an omnipresent system of compulsion, is what gave Putin’s regime its staying power.
+没有必要把所有商人都关进监狱，但把最富有、最独立、人脉最广的关进去是必要的。没有必要把所有记者都杀死。只要杀了最优秀和最勇敢的，其他人就能听懂了。”普京政权之所以得以维持，并不是靠无孔不入的强制，靠得正是一种模糊的恐惧。
