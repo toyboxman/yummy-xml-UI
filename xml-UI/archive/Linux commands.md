@@ -116,7 +116,7 @@
         - [dmesg](#list-system-details)
         - [Show Linux Version](#show-linux-version)
         - [Top/sar](#top)
-        - [Watch](https://mp.weixin.qq.com/s/mnu-jKQJDndOxeBCDMeknA)
+        - [Watch](#watch)
         - [free](#free)
         - [w/uptime/cal](#wuptimecal)
         - [stress做压力测试](https://mp.weixin.qq.com/s/6GUm6YjsRJCEVYact1hZvw)
@@ -228,6 +228,21 @@ Mon Feb 17 07:53:24 UTC 2020
 # redirect loop output
 # 定制top迭代的间隔时间
 for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
+```
+
+#### watch
+- [Watch命令](https://mp.weixin.qq.com/s/mnu-jKQJDndOxeBCDMeknA)  
+shell 上执行一个命令行时通常会自动打开三个标准文件，即标准输入文件（stdin），通常对应终端的键盘；标准输出文件（stdout）和标准错误输出文件（stderr），这两个文件都对应终端的屏幕。进程将从标准输入文件中得到输入数据，将正常输出数据输出到标准输出文件，而将错误信息送到标准错误文件中。
+```console
+# 有时候需要不断的执行某个命令并追踪其输出产生的变化情况。一种常见的方法是通过写一段死循环的 shell 脚本来实现, 也可以通过watch实现
+# -n 间隔
+# -d 高亮显示两次输出结果中不同的部分
+# 检测命令的返回值，当命令运行返回非 0 时发出蜂鸣（-b/--beep）或者直接退出（-e/--errexit）
+$ watch -d -n 10 date
+
+# 检测 USB 变动情况
+# -g/--chgexit 发现结果有改变时退出循环执行
+$ watch -g 'dmesg |grep -i usb |tail'
 ```
 
 #### free

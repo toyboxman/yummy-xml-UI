@@ -117,6 +117,9 @@
             - [进程与线程图解](https://mp.weixin.qq.com/s/COg7NwSJzrLqw7qIWtOK8A)
                 - [进程/线程切换开销](https://mp.weixin.qq.com/s/zZbk9p-0HyICiFGDBaaRTw)
             - [进程线程协程特点](https://mp.weixin.qq.com/s/-zOM2SPvSdzI3xI4YI0r-g)
+                - [Java19的协程(coroutines)-虚拟线程](https://mp.weixin.qq.com/s/nAe9ihtqH2FGfor0GkWY9w)
+                - coroutine/subroutine[[1](https://en.wikipedia.org/wiki/Coroutine), [2](https://en.wikipedia.org/wiki/Function_(computer_programming))]
+                - [thread/kernel thread/user thread](https://en.wikipedia.org/wiki/Thread_(computing))
             - 进程间通信-[**1**](https://mp.weixin.qq.com/s/iMQvX-ueb8tmvXly_26d3A), [**2**](https://mp.weixin.qq.com/s/y_SZSSnFwTIH4fdEexlq6w), [**3**](https://mp.weixin.qq.com/s/UuewKXGTS57YmDrUeg_mJw)
     - [内存系统](https://mp.weixin.qq.com/s/jEEt7KUl_o8jKAc9H6OUKQ)
         - [内存知识总结](https://mp.weixin.qq.com/s/IdqCXR4BrqjE0CFNEPKXrQ)
@@ -386,6 +389,7 @@
 + [架构师的核心工作内容](https://mp.weixin.qq.com/s/ZYDTpsvYd-G61pqwLqgChw)  
     `UML分解需求`
 + [云原生架构](https://mp.weixin.qq.com/s/mRPbJXU0tuFUfVkxeY9NbQ)
+    - [异构计算](https://mp.weixin.qq.com/s/jAgcYRzh62Wv7G_a1Etwqw)
 + [系统监控的建设思路](https://mp.weixin.qq.com/s/DCfXCIbnFzmg7bIdKRn_CA)
 + 分布式架构
     - [分布式架构的前世今生](https://mp.weixin.qq.com/s/1NpQAAJUGcn8Kz6-Z9PkBA)    
@@ -451,6 +455,8 @@
         - [Micro Services and Architecture](https://github.com/jsa4000/Getting-Started-Microservices)  
             `学习资料`
             - [security/OAuth](https://github.com/jsa4000/Getting-Started-Microservices/tree/master/security/OAuth)
+            - [微服务项目设计与实现](https://mp.weixin.qq.com/s/Wt7umMTWIPj2niegAgY2Vg)
+            - [容错的微服务架构](https://mp.weixin.qq.com/s/W48HpKV3Nc0OE8YNQrY5_Q)
         - [微服务配置中心](https://nobodyiam.com/2018/07/29/configuration-center-makes-microservices-smart/)  
             `治理配置/Apollo治理能力/可用性场景/动态日志级别/Zuul动态网关路由`
             - [Spring Cloud配置中心](https://www.haoyizebo.com/posts/8f2a7e9d/)

@@ -57,3 +57,24 @@ Rhetoric aside, the administration has signaled in numerous other ways that Puti
 
 Russia’s failure comes from “matching extravagant political aims in Ukraine to meager and inefficiently marshaled means. Tempting as it is to marvel at Russia’s strategic incompetence, we ought to be worried that the grave deficiencies Russia is demonstrating also haunt our own national security strategy. 
 俄罗斯的失败源于“给乌克兰问题设定过高的政治目标，却匹配了匮乏和低效的手段”。尽管对俄罗斯的战略无能感到惊叹，但我们应该担心俄罗斯所表现出的严重缺陷也会困扰我们自己的国家安全战略。
+
+These intact forests — from those in the Amazon and Congo River basins to ones in Canada, Russia and Ecuador — are the world’s life-support system. They sponge billions of tons of carbon dioxide out of the atmosphere, generating oxygen, filtering freshwater to drink and generally strengthening our resilience against the pressures of climate change.
+从亚马孙河和刚果河流域，再到加拿大、俄罗斯和厄瓜多尔，这些原始森林是世界的生命维持系统。它们从大气中吸收数十亿吨二氧化碳，产生氧气，过滤淡水供饮用，并在总体上增强了我们对气候变化压力的适应能力
+
+The brilliance of the Chinese government in the 1980s and 1990s is that they always did things in an experimental fashion, They would tweak things here and there, depending on how things work, Different cities had different battery technologies. Some had hydrogen fuel.
+中国政府在上世纪八九十年代的聪明之处就在于，他们总以实验性的方式做事，他们会根据具体情况，在这里或那里做出调整，不同城市有不同的发展模式。有些迎来了突飞猛进
+
+Officials were instructed to stop infections by “killing chickens with a knife for slaughtering cows,” a play on a Chinese idiom, to indicate that overkill was desired. “Act faster, prevent spread and spillover, especially to Beijing,”
+官员们接到指示，在防止感染上要采取“杀鸡用牛刀”的力度。“以快制快，防止扩散、外溢，尤其不能外溢到北京，”
+
+So when a hotel employee woke me up a little after 7 a.m. to explain that we were not allowed to step outside for four days, my initial disorientation quickly turned to resignation.On hot days, people wait sometimes for 30 minutes, face masks plastered to their skin by sweat. 
+所以，当一名酒店员工在早上7点刚过时将我叫醒，解释说我们四天不准出门时，我最初的迷茫很快变成了无奈。在炎热的天气里，人们有时会等上30分钟，汗水将口罩粘在皮肤上。
+
+Many of these areas seem more pro forma than designed to halt transmission. Some are tents in building lobbies. Some are corners with folding chairs. Near Beijing’s biggest park, one is a roped-off section of open air.
+许多这样的隔离区似乎不是为了阻止传播，而是为了形式上的存在。有的是在建筑物大厅撑起帐篷。有的是在角落里放几把折叠椅。在北京最大的公园附近，有一个用绳索圈出来的户外区域。
+
+I’ve been moved, and a little awed, by the ways people have found to plod through the pain. Do not let the prolonged epidemic and the economic downturn make you give up your dreams or lower your expectations,We need to adjust and adapt to the external environment, but not by doing that.
+人们在痛苦中艰难前行的样子令我感动，甚至有些敬畏。不要因为疫情的久拖不决与经济的低迷下滑，就放弃自己的梦想，降低自我的期待，我们需要做出调整，也需要适应外部环境，但不是通过放弃梦想与降低期待来实现。
+
+Signs of the slowdown are everywhere. Taxi drivers offer unprompted assessments of how thin traffic is. In the food court near my office in Beijing, many of the stalls have gone dark, leaving diners at the surviving shops to eat in a spooky half-glow.
+到处都是经济衰退的迹象。出租车司机会主动感叹车流有多稀疏。在我北京办公室附近的美食广场，许多摊位都已关门，在幸存的店铺中，食客只能在阴森晦暗的环境中用餐。

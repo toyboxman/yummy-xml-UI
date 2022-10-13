@@ -36,6 +36,7 @@ Kubernetes解决那些问题可以看看
 + Kubernetes系列[[2](https://mp.weixin.qq.com/s/OZGLS0UsN9PiMqMaOzzpJA),[3](https://mp.weixin.qq.com/s/EHoSVCDFZoQar32nkl2-Mw),[4](https://mp.weixin.qq.com/s/ZjqEy4hCnGEcBdVfrFgzRQ)]
 + [Kubernetes网络](https://mp.weixin.qq.com/s/SClypa7ahDtnxsuWZdu8BQ)
     + [Pod间容器通信](https://mp.weixin.qq.com/s/I2qA29Lpkdnowd8Txv7ftg)
+    + [Kubernetes 网络流量流转路径](https://mp.weixin.qq.com/s/CDzcy5MwzU9GwQfRp1mpPQ)
 + [命名空间](https://mp.weixin.qq.com/s/KzhBWfbHDZaqFqN-jUsUCw)
 
 #### use-digest
