@@ -3,12 +3,12 @@ package king.law.trace;
 import java.util.ArrayList;
 
 public class RateLimiter {
-    double thruput;
+    double throughput;
     private io.jaegertracing.internal.utils.RateLimiter rateLimiter;
 
     public void setThruput(double maxTracesPerSecond) {
-        this.thruput = maxTracesPerSecond;
-        double maxBalance = this.thruput < 2.0D ? 1.5D : maxTracesPerSecond;
+        this.throughput = maxTracesPerSecond;
+        double maxBalance = this.throughput < 2.0D ? 1.5D : maxTracesPerSecond;
         this.rateLimiter = new io.jaegertracing.internal.utils.RateLimiter(maxTracesPerSecond, maxBalance);
     }
 
