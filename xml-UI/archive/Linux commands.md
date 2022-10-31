@@ -117,6 +117,7 @@
         - [Show Linux Version](#show-linux-version)
         - [Top/sar](#top)
         - [Watch](#watch)
+            `- 重复观察执行结果`
         - [free](#free)
         - [w/uptime/cal](#wuptimecal)
         - [stress做压力测试](https://mp.weixin.qq.com/s/6GUm6YjsRJCEVYact1hZvw)

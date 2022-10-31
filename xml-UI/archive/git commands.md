@@ -196,6 +196,12 @@ git status -u
 # 忽略仓库中untracked files
 # equivalent to git status --untracked-files=no
 git status -uno
+
+# 如果有些modified文件不想放入提交列表，可以放入.gitignore，也可以临时用命令处理
+# 设置需要临时忽略的文件pom.xml
+git update-index --assume-unchanged pom.xml
+# 设置临时忽略的文件pom.xml改为正常状态
+git update-index --no-assume-unchanged pom.xml
 ```
 
 ### git add
