@@ -195,3 +195,6 @@ The Nuclear Posture Review released Thursday retained the Pentagon’s customary
 
 He railed that the Chinese establishment was too beholden to Western ideas and global trade, too content to let China ease into a world order rigged by the United States. But rather than reveling in that success, Mr. Wang has become alarmed by it. Egged on by propaganda, nationalism has become increasingly volatile and vitriolic. Yan Xuetong, an often-hawkish international relations professor, lamented this year that students held an overly confident, “make-believe” mind-set about China’s global stature.
 他抱怨中国的当权派太受制于西方思想和全球贸易，太满足于让中国融入由美国控制的世界秩序。但是这种成功没有令王小东陶醉，反而令他产生了警惕。在宣传的煽动下，民族主义已变得愈发易燃易爆。经常持鹰派立场的国际关系学教授阎学通今年曾感叹，学生们对中国的全球地位抱有一种过度自信的“假想”心态。
+
+On Sunday, the blocked alleyways of Itaewon contained the detritus from the party and disaster of the night before: strewn paper, plastic bags, beer cans and water bottles.
+周日，被封的梨泰院小巷里到处都是头天晚上的狂欢和灾难留下的东西：散落的纸片、塑料袋、啤酒罐和水瓶子。
