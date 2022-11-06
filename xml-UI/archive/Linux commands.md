@@ -2890,7 +2890,8 @@ kill -9 1234
 ---
 
 #### Vim
-还有一些其他文本编辑器，有些会按照POSIX格式给编辑文件末尾增加newline   
+- [vim的高级使用](https://mp.weixin.qq.com/s/AfzN_JGoPQyLJczLo2ZhYg)   
+还有一些其他文本编辑器，有些会按照POSIX格式给编辑文件末尾增加 newline   
 Remains unmodified: Emacs, SciTE, Kate, Bluefish, Notepad(wine)   
 Newline is added: Gedit, Gvim, Vim, Nano   
 ```console
@@ -3441,8 +3442,7 @@ dig unix.stackexchange.com | awk '/^;; ANSWER SECTION:$/ {for (i=1;i<=4;i++) {ge
 
 ### DEBUG
 #### GDB
-+ [GDB技巧](https://mp.weixin.qq.com/s/4CAViD7GTWg4K_YDsDyohQ)
-+ [GDB调试代码](https://mp.weixin.qq.com/s/OLHurXiioQchhai4i9WYsw)
++ GDB调试代码[[1](https://mp.weixin.qq.com/s/4CAViD7GTWg4K_YDsDyohQ), [2](https://mp.weixin.qq.com/s/OLHurXiioQchhai4i9WYsw),[3](https://mp.weixin.qq.com/s/-tN1JpG9WGE5ORKX40YGuQ)]
 
 A core file is an image of a process that has crashed It contains all process information pertinent to debugging: contents of hardware registers, process status, and process data. Gdb will allow you use this file to determine where your program crashed. 
 ```console

@@ -1,15 +1,15 @@
 package king.law.trace.telemetry;
 
 import io.opentelemetry.api.OpenTelemetry;
-import io.opentelemetry.api.trace.Span;
-import io.opentelemetry.api.trace.StatusCode;
-import io.opentelemetry.api.trace.Tracer;
+import io.opentelemetry.api.trace.*;
 import io.opentelemetry.context.Context;
+import io.opentelemetry.context.Scope;
 import kotlin.random.RandomKt;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 
 public final class JaegerExample {
 
@@ -21,48 +21,77 @@ public final class JaegerExample {
 
     private void myWonderfulUseCase() {
         // Generate a span
-        Span span = this.tracer.spanBuilder(getSpanName()).startSpan();
+        Span span = this.tracer.spanBuilder(getSpanName())
+                .setSpanKind(SpanKind.INTERNAL).startSpan();
         span.addEvent("event-1");
         span.setAttribute("Thread", Thread.currentThread().getName());
         // execute my use case - here we simulate a wait
-        span.setAttribute("Context-origin", Context.current().toString());
         doWork(Context.current().with(span));
         span.setAttribute("Context", Context.current().toString());
         span.addEvent("event-2");
-        span.setAttribute("scope", Context.current().makeCurrent().toString());
-//        span.updateName(getSpanName());
+        span.recordException(new RuntimeException("this is a mocked exception"));
         span.end();
-        doAsyncWork(Context.current().with(span));
+        // after span transaction ended, update span name is invalid
+        span.updateName(getSpanName());
+
+        // span.storeInContext(Context.current()) == Context.current().with(span)
+        doAsyncWork(span.storeInContext(Context.current()));
+
+        SpanContext spanContext = span.getSpanContext();
+        SpanContext remoteParent = SpanContext.createFromRemoteParent(
+                spanContext.getTraceId(),
+                spanContext.getSpanId(),
+                spanContext.getTraceFlags(),
+                spanContext.getTraceState()
+        );
+        this.tracer.spanBuilder(getSpanName()).setParent(Context.current().with(Span.wrap(remoteParent)))
+                .startSpan().end(System.currentTimeMillis() + 400, TimeUnit.MILLISECONDS);
+
+        SpanContext parent = SpanContext.create(
+                spanContext.getTraceId(),
+                spanContext.getSpanId(),
+                spanContext.getTraceFlags(),
+                spanContext.getTraceState()
+        );
+        this.tracer.spanBuilder(getSpanName()).setParent(Context.current().with(Span.wrap(parent)))
+                .startSpan().end(System.currentTimeMillis() + 200, TimeUnit.MILLISECONDS);
     }
 
-    private void doWork(Context spanContext) {
+    private void doWork(Context parentContext) {
         try {
             Span span = this.tracer.spanBuilder(getSpanName())
-                    .setParent(spanContext).startSpan();
+                    .setParent(parentContext).setSpanKind(SpanKind.CLIENT).startSpan();
             span.setAttribute("Thread", Thread.currentThread().getName());
             span.setStatus(StatusCode.OK);
-            span.setAttribute("TraceId", span.getSpanContext().getTraceId());
-            span.setAttribute("SpanId", span.getSpanContext().getSpanId());
             span.setAttribute("SpanContext", span.getSpanContext().toString());
-            span.setAttribute("Context", spanContext.toString());
+            span.setAttribute("Context", parentContext.toString());
             Thread.sleep(RandomKt.Random(1000).nextLong(5000));
+
             doAsyncWork(Context.current().with(span));
+
+            try (Scope ignored = Context.current().with(span).makeCurrent()) {
+                span.setAttribute("temp-Context", Context.current().toString());
+                doAsyncWork(Context.current());
+            }
+
+            doAsyncWork(parentContext);
+
             span.end();
         } catch (InterruptedException e) {
             // do the right thing here
         }
     }
 
-    private void doAsyncWork(Context spanContext) {
+    private void doAsyncWork(Context parentContext) {
         ExecutorService executorService = Executors.newSingleThreadExecutor();
         executorService.submit(() -> {
             try {
                 Span span = tracer.spanBuilder(getSpanName())
-                        .setParent(spanContext).startSpan();
+                        .setParent(parentContext).setSpanKind(SpanKind.PRODUCER).startSpan();
                 span.setAttribute("Thread", Thread.currentThread().getName());
                 span.setAttribute("TraceId", span.getSpanContext().getTraceId());
                 span.setAttribute("SpanId", span.getSpanContext().getSpanId());
-                span.setAttribute("Context", spanContext.toString());
+                span.setAttribute("Context", parentContext.toString());
                 span.setStatus(StatusCode.ERROR);
                 Thread.sleep(RandomKt.Random(1000).nextLong(5000));
                 span.end();
@@ -74,6 +103,7 @@ public final class JaegerExample {
     }
 
     private static volatile long id = 0;
+
     @NotNull
     private static String getSpanName() {
         return "function-" + (++id);

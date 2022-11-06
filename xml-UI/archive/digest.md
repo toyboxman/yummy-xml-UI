@@ -367,6 +367,8 @@
 + [企业数字化转型PPT](https://mp.weixin.qq.com/s/j4xV9E7bh-Gc67vsqKJB_Q)
 + [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
     `SMART目标/15条规则`
++ [工程的10个定律](https://mp.weixin.qq.com/s/QG5nNXrGTHNrkTkA-6oKog)  
+    `海勒姆法则/切斯特顿栅栏/二阶思维/街灯效应/虚荣指标/墨菲定律/康威定律/格雷欣法则/泰斯勒定律`   
 + [架构设计模式](https://mp.weixin.qq.com/s/_rVZ3w8P_VZRkqwtOdKbFA)  
     `类似于软件设计模式,包括分层架构/微服务架构/微核架构/事件驱动架构/云原生架构`
     + [通用型四层系统架构设计](https://mp.weixin.qq.com/s/m78LXtrGoLxs_qzBvP8NcA)
@@ -376,6 +378,7 @@
         `分层架构/CQS(Command Query Separation)/六边形架构/洋葱圈架构`
     + [软件开发原则](https://mp.weixin.qq.com/s/WAa4ezth4CGwyjJD7FcP6w)  
         `数据设计先行/数据一致性`
+    + [应用架构/技术架构/安全架构/部署架构的架构图](https://mp.weixin.qq.com/s/lJGz4oTqvWcTeSdWW4qIYw)     
 + [架构衡量指标及改进目标](https://mp.weixin.qq.com/s/iLJ_2akYcdm3BRrhO92ZGw)  
     `性能/可靠性/可用性/容错性/可信赖性/可伸缩性/安全性/互操作性/可调整性/可部署性/可测试性/简单性/可移植性/易用性/可扩展性/抗脆弱性/可升级性/合规性/成本/可存档性/可审核性/可跟踪性`
     + [高可用系统架构设计](https://mp.weixin.qq.com/s/op-_PsK6MGy1tVyRqDHNUA)  

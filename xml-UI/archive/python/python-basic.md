@@ -26,6 +26,7 @@
 - Python实现Game([1](https://mp.weixin.qq.com/s/OSR8X3R0tj4dCwtJBMY9Xw), [2](https://mp.weixin.qq.com/s/Lt_jx4LD6qN9YBokT3xPeA), [3](https://mp.weixin.qq.com/s/9YLzZeHWBYp65V_-VfIIGw), [4](https://mp.weixin.qq.com/s/lXtKSqSDwAzGlEXkLqA5sA), [5](https://mp.weixin.qq.com/s/2UxLvff5pvbXOuyirZJumQ), [6](https://mp.weixin.qq.com/s/e8TOOeUL_W88bEWyNGeppA), [7](https://mp.weixin.qq.com/s/wHzlC4YoH_n9d3L7PFYniQ)) 
 - [getopt/optparse/argparse解析命令行参数](https://mp.weixin.qq.com/s/1b4kUhW7w2xDTeJeJJZx-w)
 - [Faker模拟测试数据](https://mp.weixin.qq.com/s/JcaPihoOulw_EBEsSNem1A)
+- [Python脚本来自动化日常任务](https://mp.weixin.qq.com/s/n-f1FfQYNPr8-JLgntBnXw)
 - [正则表达式模块](https://mp.weixin.qq.com/s/_LyebPdd3slgW_Cw3vTbDA)
 - [有用的Python库](https://mp.weixin.qq.com/s/4chEQ3-jdQd9CD9ycv0ibA)
 - [Python爬取网站](https://mp.weixin.qq.com/s/HJxgnuBG-FTpvY5AaGVGZw)
