@@ -451,6 +451,7 @@
     - [微服务核心架构梳理](https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg)  
         `墨菲定律(设计系统)/康威定律(系统划分)`<br>
         `服务发现/网关/配置中心/通讯方式/监控预警/监控架构/调用链监控APM/熔断-隔离-限流-降级/容器与服务编排引擎`
+        - [微服务方法论和技术栈列表](https://mp.weixin.qq.com/s/qTixdLh3jQ7UO9Tsb22OaQ)
         - [微服务一定要有网关](https://mp.weixin.qq.com/s/TeIGwDjMWDeEzuRpeXf8tw)
         - [微服务设计模式](https://mp.weixin.qq.com/s/PzPfWHVanSQpZha7qDeKGw)
         - [微服务发现技术](https://mp.weixin.qq.com/s/9ac9URzSUJONZDtTaHh0GA)  

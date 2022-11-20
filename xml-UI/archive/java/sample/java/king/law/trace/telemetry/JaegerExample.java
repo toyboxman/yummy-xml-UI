@@ -11,6 +11,9 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
+import static king.law.trace.telemetry.TracerConfiguration.ExporterType.JaegerGrpcSpanExporter;
+import static king.law.trace.telemetry.TracerConfiguration.ExporterType.LoggingSpanExporter;
+
 public final class JaegerExample {
 
     private final Tracer tracer;
@@ -118,7 +121,9 @@ public final class JaegerExample {
         String jaegerEndpoint = args[0];
 
         // it is important to initialize your SDK as early as possible in your application's lifecycle
-        OpenTelemetry openTelemetry = TracerConfiguration.initOpenTelemetry(jaegerEndpoint);
+        OpenTelemetry openTelemetry;
+//        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerGrpcSpanExporter, jaegerEndpoint);
+        openTelemetry = TracerConfiguration.initOpenTelemetry(LoggingSpanExporter, null);
 
         // Start the example
         JaegerExample example = new JaegerExample(openTelemetry);

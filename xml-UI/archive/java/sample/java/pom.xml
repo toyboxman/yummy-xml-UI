@@ -9,57 +9,58 @@
     <version>1.0-SNAPSHOT</version>
 
     <build>
-<!--        <resources>-->
-<!--            <resource>-->
-<!--                <directory>src/main/services</directory>-->
-<!--                <includes>-->
-<!--                    <include>javax.annotation.processing.Processor</include>-->
-<!--                </includes>-->
-<!--                <targetPath>META-INF/services</targetPath>-->
-<!--            </resource>-->
-<!--        </resources>-->
+        <!--        <resources>-->
+        <!--            <resource>-->
+        <!--                <directory>src/main/services</directory>-->
+        <!--                <includes>-->
+        <!--                    <include>javax.annotation.processing.Processor</include>-->
+        <!--                </includes>-->
+        <!--                <targetPath>META-INF/services</targetPath>-->
+        <!--            </resource>-->
+        <!--        </resources>-->
+        <!--        <sourceDirectory>.</sourceDirectory>-->
         <plugins>
-            <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>aspectj-maven-plugin</artifactId>
-                <version>1.7</version>
-                <configuration>
-                    <complianceLevel>1.8</complianceLevel>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                    <showWeaveInfo>true</showWeaveInfo>
-                    <verbose>true</verbose>
-                    <Xlint>ignore</Xlint>
-                    <encoding>UTF-8</encoding>
-                    <sources>
-                        <source>
-                            <basedir>src/main/java</basedir>
-                            <includes>
-                                <include>**/EmployeeCRUDAspectJCompile.java</include>
-                                <include>**/beans/EmployeeManagerCompile.java</include>
-                                <include>**/SecurityAspect.aj</include>
-                            </includes>
-                            <excludes>
-                                <exclude>**/loadtime/*.java</exclude>
-                                <exclude>**/spring/aop/*.java</exclude>
-                            </excludes>
-                        </source>
-                    </sources>
-                    <!--                    <weaveDirectories>-->
-                    <!--                        <weaveDirectory>${project.build.directory}/unwoven-classes</weaveDirectory>-->
-                    <!--                    </weaveDirectories>-->
-                </configuration>
-                <executions>
-                    <execution>
-                        <goals>
-                            <!-- use this goal to weave all your main classes -->
-                            <goal>compile</goal>
-                            <!-- use this goal to weave all your test classes -->
-                            <goal>test-compile</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
+            <!--            <plugin>-->
+            <!--                <groupId>org.codehaus.mojo</groupId>-->
+            <!--                <artifactId>aspectj-maven-plugin</artifactId>-->
+            <!--                <version>1.7</version>-->
+            <!--                <configuration>-->
+            <!--                    <complianceLevel>1.8</complianceLevel>-->
+            <!--                    <source>1.8</source>-->
+            <!--                    <target>1.8</target>-->
+            <!--                    <showWeaveInfo>true</showWeaveInfo>-->
+            <!--                    <verbose>true</verbose>-->
+            <!--                    <Xlint>ignore</Xlint>-->
+            <!--                    <encoding>UTF-8</encoding>-->
+            <!--                    <sources>-->
+            <!--                        <source>-->
+            <!--                            <basedir>src/main/java</basedir>-->
+            <!--                            <includes>-->
+            <!--                                <include>**/EmployeeCRUDAspectJCompile.java</include>-->
+            <!--                                <include>**/beans/EmployeeManagerCompile.java</include>-->
+            <!--                                <include>**/SecurityAspect.aj</include>-->
+            <!--                            </includes>-->
+            <!--                            <excludes>-->
+            <!--                                <exclude>**/loadtime/*.java</exclude>-->
+            <!--                                <exclude>**/spring/aop/*.java</exclude>-->
+            <!--                            </excludes>-->
+            <!--                        </source>-->
+            <!--                    </sources>-->
+            <!--                    &lt;!&ndash;                    <weaveDirectories>&ndash;&gt;-->
+            <!--                    &lt;!&ndash;                        <weaveDirectory>${project.build.directory}/unwoven-classes</weaveDirectory>&ndash;&gt;-->
+            <!--                    &lt;!&ndash;                    </weaveDirectories>&ndash;&gt;-->
+            <!--                </configuration>-->
+            <!--                <executions>-->
+            <!--                    <execution>-->
+            <!--                        <goals>-->
+            <!--                            &lt;!&ndash; use this goal to weave all your main classes &ndash;&gt;-->
+            <!--                            <goal>compile</goal>-->
+            <!--                            &lt;!&ndash; use this goal to weave all your test classes &ndash;&gt;-->
+            <!--                            <goal>test-compile</goal>-->
+            <!--                        </goals>-->
+            <!--                    </execution>-->
+            <!--                </executions>-->
+            <!--            </plugin>-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>
@@ -81,6 +82,34 @@
                                     <resource>META-INF/spring.schemas</resource>
                                 </transformer>
                             </transformers>
+                            <!-- https://maven.apache.org/plugins/maven-shade-plugin/shade-mojo.html-->
+                            <artifactSet>
+                                <includes>
+                                    <include>io.opentelemetry</include>
+                                </includes>
+                                <excludes>
+                                    <exclude>io.opentracing</exclude>
+                                    <exclude>io.jaegertracing</exclude>
+                                    <exclude>junit:junit</exclude>
+                                    <exclude>jmock:*</exclude>
+                                    <exclude>*:xml-apis</exclude>
+                                    <exclude>org.apache.maven:lib:tests</exclude>
+                                    <exclude>log4j:log4j:jar:</exclude>
+                                </excludes>
+                            </artifactSet>
+                            <filters>
+                                <filter>
+                                    <artifact>junit:junit</artifact>
+                                    <includes>
+                                        <include>junit/framework/**</include>
+                                        <include>org/junit/**</include>
+                                    </includes>
+                                    <excludes>
+                                        <exclude>org/junit/experimental/**</exclude>
+                                        <exclude>org/junit/runners/**</exclude>
+                                    </excludes>
+                                </filter>
+                            </filters>
                         </configuration>
                     </execution>
                 </executions>
@@ -123,50 +152,54 @@
                     <target>8</target>
                 </configuration>
             </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-antrun-plugin</artifactId>
-                <version>1.8</version>
-                <executions>
-                    <execution>
-                        <id>copy-process-sp</id>
-                        <phase>compile</phase>
-                        <configuration>
-                            <target>
-                                <copy verbose="true" overwrite="true" file="src/main/services/javax.annotation.processing.Processor" tofile="target/classes/META-INF/services/javax.annotation.processing.Processor"/>
-                            </target>
-                        </configuration>
-                        <goals>
-                            <goal>run</goal>
-                        </goals>
-                    </execution>
-                    <execution>
-                        <id>remove</id>
-                        <phase>package</phase>
-                        <configuration>
-                            <target>
-                                <delete file="${project.artifactId}-${project.version}.jar"/>
-                            </target>
-                        </configuration>
-                        <goals>
-                            <goal>run</goal>
-                        </goals>
-                    </execution>
-                    <execution>
-                        <id>copy-jar</id>
-                        <phase>package</phase>
-                        <configuration>
-                            <target>
-                                <echo>copy..jar...out.......</echo>
-                                <copy verbose="true" overwrite="true" file="target/${project.artifactId}-${project.version}.jar" tofile="./${project.artifactId}-${project.version}.jar"/>
-                            </target>
-                        </configuration>
-                        <goals>
-                            <goal>run</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
+            <!--            <plugin>-->
+            <!--                <groupId>org.apache.maven.plugins</groupId>-->
+            <!--                <artifactId>maven-antrun-plugin</artifactId>-->
+            <!--                <version>1.8</version>-->
+            <!--                <executions>-->
+            <!--                    <execution>-->
+            <!--                        <id>copy-process-sp</id>-->
+            <!--                        <phase>compile</phase>-->
+            <!--                        <configuration>-->
+            <!--                            <target>-->
+            <!--                                <copy verbose="true" overwrite="true"-->
+            <!--                                      file="src/main/services/javax.annotation.processing.Processor"-->
+            <!--                                      tofile="target/classes/META-INF/services/javax.annotation.processing.Processor"/>-->
+            <!--                            </target>-->
+            <!--                        </configuration>-->
+            <!--                        <goals>-->
+            <!--                            <goal>run</goal>-->
+            <!--                        </goals>-->
+            <!--                    </execution>-->
+            <!--                    <execution>-->
+            <!--                        <id>remove</id>-->
+            <!--                        <phase>package</phase>-->
+            <!--                        <configuration>-->
+            <!--                            <target>-->
+            <!--                                <delete file="${project.artifactId}-${project.version}.jar"/>-->
+            <!--                            </target>-->
+            <!--                        </configuration>-->
+            <!--                        <goals>-->
+            <!--                            <goal>run</goal>-->
+            <!--                        </goals>-->
+            <!--                    </execution>-->
+            <!--                    <execution>-->
+            <!--                        <id>copy-jar</id>-->
+            <!--                        <phase>package</phase>-->
+            <!--                        <configuration>-->
+            <!--                            <target>-->
+            <!--                                <echo>copy..jar...out.......</echo>-->
+            <!--                                <copy verbose="true" overwrite="true"-->
+            <!--                                      file="target/${project.artifactId}-${project.version}.jar"-->
+            <!--                                      tofile="./${project.artifactId}-${project.version}.jar"/>-->
+            <!--                            </target>-->
+            <!--                        </configuration>-->
+            <!--                        <goals>-->
+            <!--                            <goal>run</goal>-->
+            <!--                        </goals>-->
+            <!--                    </execution>-->
+            <!--                </executions>-->
+            <!--            </plugin>-->
         </plugins>
     </build>
 
@@ -199,6 +232,11 @@
         <dependency>
             <groupId>io.opentelemetry</groupId>
             <artifactId>opentelemetry-exporter-jaeger</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.opentelemetry</groupId>
+            <artifactId>opentelemetry-exporter-logging</artifactId>
+            <version>1.19.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
@@ -324,5 +362,6 @@
             <artifactId>commons-collections4</artifactId>
             <version>4.4</version>
         </dependency>
+
     </dependencies>
 </project>
