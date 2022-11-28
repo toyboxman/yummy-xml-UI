@@ -11,15 +11,14 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-import static king.law.trace.telemetry.TracerConfiguration.ExporterType.JaegerGrpcSpanExporter;
-import static king.law.trace.telemetry.TracerConfiguration.ExporterType.LoggingSpanExporter;
+import static king.law.trace.telemetry.TracerConfiguration.ExporterType.*;
 
 public final class JaegerExample {
 
     private final Tracer tracer;
 
     public JaegerExample(OpenTelemetry openTelemetry) {
-        tracer = openTelemetry.getTracer("otel-jaeger");
+        tracer = openTelemetry.getTracer(TracerConfiguration.OTEL_JAEGER);
     }
 
     private void myWonderfulUseCase() {
@@ -122,9 +121,12 @@ public final class JaegerExample {
 
         // it is important to initialize your SDK as early as possible in your application's lifecycle
         OpenTelemetry openTelemetry;
-//        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerGrpcSpanExporter, jaegerEndpoint);
-        openTelemetry = TracerConfiguration.initOpenTelemetry(LoggingSpanExporter, null);
-
+        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerGrpcSpanExporter,
+                String.format("http://%s:14250/", jaegerEndpoint));
+//        openTelemetry = TracerConfiguration.initOpenTelemetry(LoggingSpanExporter, null);
+//        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerThriftSpanExporter,
+//                String.format("http://%s:14268/api/traces", jaegerEndpoint));
+//        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerThriftSpanUdpExporter, jaegerEndpoint);
         // Start the example
         JaegerExample example = new JaegerExample(openTelemetry);
         // generate a few sample spans
