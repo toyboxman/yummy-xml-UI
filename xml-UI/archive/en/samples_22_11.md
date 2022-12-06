@@ -357,3 +357,9 @@ Dr. Fauci said that XBB appeared exceptionally agile at evading the antibodies t
 
 Exercise, both endurance and strength training, helps the brain grow new connections between cells, particularly in the hippocampus, an area important for memory.There’s also evidence that a healthy diet, such as the Mediterranean diet, can be beneficial. In particular, it helps to eat fruits and vegetables, which are high in antioxidants, and fish, which contain omega-3 fats that can reduce inflammation.
 锻炼，包括耐力和力量训练，有助于大脑细胞之间建立新的连接，特别是在对于记忆很重要的海马体当中。也有证据表明，地中海饮食等健康饮食是有益的。特别是多吃富含抗氧化剂的水果和蔬菜，以及含有omega-3脂肪酸的鱼类，有助于减少炎症。
+
+In Qatar, the maskless fans at the World Cup are joyfully screaming, packed elbow-to-elbow in crowded stadiums, seemingly having a wonderful time. The games are shown on about a 30-second delay in China, giving CCTV officials time to replace close-up shots of screaming fans with other available camera shots, often of coaches or the bench
+在卡塔尔世界杯现场，不戴口罩的球迷欢呼雀跃，体育场内拥挤的人群摩肩接踵，大家似乎都玩得很开心。世界杯赛事直播在中国有大约30秒的延迟，让央视有时间替换球迷呐喊的特写镜头，通常会换成教练或替补席画面
+
+They see a distinction between banning products that could help the Chinese military and trying to destabilize China’s domestic politics. And at a moment when Mr. Biden is seeking continued restraint from China in supporting Russia in its war with Ukraine and to resume cooperation on climate issues, North Korea and other projects that Washington and Beijing once worked on regularly, the White House wants to pick its fights with care.
+他们认为禁止可能帮助中国军方的产品，与试图破坏中国国内政治稳定是有区别的。在拜登希望中国在俄乌战争中继续避免对俄罗斯进行协助，并在气候问题、朝鲜问题和其他两国过去往往能够协作的项目上恢复合作之际，白宫希望不要轻易挑起争端。

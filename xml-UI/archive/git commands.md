@@ -749,7 +749,7 @@ gitk file
 	```
 	Ubuntu平台
 	```console
-	aptitude install git-review
+	apt install git-review
 	```
 	Mac平台
 	```console
@@ -770,6 +770,16 @@ gitk file
 	defaultbranch=master
 	```
 	然后执行`git review XXX-branch`,根据上面设定安装和配置当前repo的第一个review request。成功操作后，.gitreview就不起作用了，可以删除。
+	- 以上的方式似乎对新的版本没有奏效，也可以直接增加gerrit的remote branch
+	```console
+	git remote add gerrit "ssh://user@gitreview.example.com:29418/project.git"
+	git remote update gerrit
+	git config user.name "Gene"
+	git config user.email "Gene@genesis.org"
+	scp -P29418 user@gitreview.example.com:hooks/commit-msg ~/source/.git/hooks/
+	chmod u+x ~/source/.git/hooks/commit-msg
+	git review remote-branch
+	```
 	```console
 	# 如果遇到如下区域设定错误，可以通过后面命令来安装重置当前locale
 	locale.Error: unsupported locale setting

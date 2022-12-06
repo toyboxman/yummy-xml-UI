@@ -954,7 +954,8 @@ $ ssh -i private.key root@172.16.8.38
 
 # ssh登录免密
 # 1.先用ssh-keygen产生秘钥对, 生成public/private rsa key pair
-$ ssh-keygen -t rsa
+# -C 可以指定id文件中name， 默认不指定就是 当前用户名@机器名
+$ ssh-keygen -t rsa -C "user@aws.com"
 # 2.ssh-copy-id 安装公钥到remote server
 $ ssh-copy-id root@172.16.8.38
 # 后续ssh login就不用手动输入密码,包括scp操作也不用密码
