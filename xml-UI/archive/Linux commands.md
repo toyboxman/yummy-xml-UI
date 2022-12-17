@@ -952,6 +952,26 @@ $ ssh-keyscan github.com >> ~/.ssh/known_hosts
 # login with private key file
 $ ssh -i private.key root@172.16.8.38
 
+# 解决多个key导致登录失败
+Received disconnect from 10.206.80.162 port 22:2: Too many authentication failures
+Disconnected from 10.206.80.162 port 22
+这种错误原因是本地生成多种相同类型key，导致与对方协商过程做多次不同重试
+# 可以通过输出debug信息查阅 ssh -vvv root@10.206.80.162
+debug1: get_agent_identities: agent returned 3 keys
+debug1: Will attempt key: /home/jaeger/.ssh/id_ed25519 ED25519 SHA256:bABj0oIgRVfZwPAcd1YS45CSQCoVO/WYMdDdI6ns7Uc agent
+debug1: Will attempt key: jaeger@jaeger-virtual-machine RSA SHA256:PmuKpaJ5oi4FoVG96Z0mQS++IntUYqG+8TFhK6G+qrw agent
+debug1: Will attempt key: jaeger@jaeger-virtual-machine RSA SHA256:XvTDgl9K6xBFjK3S/8m2jbSMJi1Sz++/bDBJEMoaAq0 agent
+# 后两个rsa的key pairs实际上不存在本地，但之前加入过ssh agent 因此导致错误
+# -l 查看agent中所有finger print， -L 查看所有public key
+$ ssh-add -l
+3072 SHA256:PmuKpaJ5oi4FoVG96Z0mQS++IntUYqG+8TFhK6G+qrw jaeger@jaeger-virtual-machine (RSA)
+3072 SHA256:XvTDgl9K6xBFjK3S/8m2jbSMJi1Sz++/bDBJEMoaAq0 jaeger@jaeger-virtual-machine (RSA)
+256 SHA256:bABj0oIgRVfZwPAcd1YS45CSQCoVO/WYMdDdI6ns7Uc jaeger@jaeger-virtual-machine (ED25519)
+# -D 删除agent中所有keys， -d 指定删除key
+$ ssh-add -D
+All identities removed.
+# 删除掉重复key，再次登录就会提示密码输入
+
 # ssh登录免密
 # 1.先用ssh-keygen产生秘钥对, 生成public/private rsa key pair
 # -C 可以指定id文件中name， 默认不指定就是 当前用户名@机器名

@@ -2,7 +2,6 @@ package king.law.trace.telemetry;
 
 import io.opentelemetry.api.OpenTelemetry;
 import io.opentelemetry.api.baggage.Baggage;
-import io.opentelemetry.api.baggage.BaggageBuilder;
 import io.opentelemetry.api.common.Attributes;
 import io.opentelemetry.api.trace.Span;
 import io.opentelemetry.api.trace.Tracer;
@@ -14,9 +13,9 @@ import kotlin.random.RandomKt;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-import static king.law.trace.telemetry.TracerConfiguration.ExporterType.JaegerGrpcSpanExporter;
+import static king.law.trace.telemetry.TracerConfiguration.ExporterType.JaegerThriftSpanExporter;
 
-public class CtxPropogation {
+public class CtxPropagation {
 
     private static OpenTelemetry openTelemetry;
     private static Tracer tracer;
@@ -38,11 +37,14 @@ public class CtxPropogation {
         // make context as current parent in this thread
         Scope scope = context.makeCurrent();
         System.out.println("function1");
+        span.setAttribute("scope-1", scope.toString());
         span.setAttribute("function1", Context.current().toString());
         span.setAttribute("function1-1", Span.fromContext(context).hashCode());
         span.setAttribute("function1-2", span.hashCode());
         timeCrunch();
         function2();
+        // context.makeCurrent() returned new ArrayBasedContext(newEntries);
+        span.setAttribute("scope-2", context.makeCurrent().toString());
         span.end();
         // draw back parent context and restore
         context.makeCurrent().close();
@@ -130,17 +132,17 @@ public class CtxPropogation {
         String jaegerEndpoint = "10.176.217.250";
 
         // it is important to initialize your SDK as early as possible in your application's lifecycle
-        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerGrpcSpanExporter,
-                String.format("http://%s:14250/", jaegerEndpoint));
+//        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerGrpcSpanExporter,
+//                String.format("http://%s:14250/", jaegerEndpoint));
 //        openTelemetry = TracerConfiguration.initOpenTelemetry(LoggingSpanExporter, null);
-//        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerThriftSpanExporter,
-//                String.format("http://%s:14268/api/traces", jaegerEndpoint));
+        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerThriftSpanExporter,
+                String.format("http://%s:14268/api/traces", jaegerEndpoint));
 //        openTelemetry = TracerConfiguration.initOpenTelemetry(JaegerThriftSpanUdpExporter, jaegerEndpoint);
 
         tracer = openTelemetry.getTracer(TracerConfiguration.OTEL_JAEGER);
-        CtxPropogation propogation = new CtxPropogation();
-        propogation.sameThreadTrace();
-        propogation.crossThreadTrace();
+        CtxPropagation propagation = new CtxPropagation();
+        propagation.sameThreadTrace();
+        propagation.crossThreadTrace();
 
         System.out.println("bye");
     }

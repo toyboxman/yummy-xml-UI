@@ -230,3 +230,17 @@ hs_err_pid*
 /xml-UI/archive/java/sample/java/target/classes/target/classes/target/maven-archiver/pom.properties
 /xml-UI/archive/java/sample/java/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml
 /xml-UI/archive/java/sample/java/target/classes/target/classes/target/classes/target/classes/pom.xml
+/.idea/libraries/Maven__com_fasterxml_jackson_jr_jackson_jr_objects_2_14_1.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_logs_1_21_0_alpha.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_common_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_jaeger_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_jaeger_thrift_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_21_0_alpha.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_21_0.xml
+/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_21_0.xml
