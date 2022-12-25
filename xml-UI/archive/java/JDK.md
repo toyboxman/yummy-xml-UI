@@ -376,7 +376,7 @@ Affect(row-cnt:2) cost in 188 ms.
  exceptions                                                                                                                       
  classLoaderHash  null   
 ```
-##### [watch](https://arthas.gitee.io/watch.html)
+##### [watch](https://arthas.gitee.io/doc/watch.html)
 确定method后就可以watch操作
 ```console
 # 默认情况输出调用方法的 {parameter/方法所属 class instance/return}
@@ -427,7 +427,7 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 [arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].{? #this instanceof com.example.MyProvider}.size()>0" -x 2
 ```
 
-##### [stack](https://arthas.gitee.io/stack.html)
+##### [stack](https://arthas.gitee.io/doc/stack.html)
 如果想查看调用栈可以stack操作, 一直能上溯看到谁调用到此方法
 ```console
 # 记录LogicalSwitchImpl所有方法被触发的调用栈数据
@@ -439,7 +439,7 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 [arthas@28030]$ stack com.example.api.search.AggregateRequestDto * | tee /opt/example/gm-tomcat/stack.log
 ```
 
-##### [trace](https://arthas.gitee.io/trace.html)
+##### [trace](https://arthas.gitee.io/doc/trace.html)
 如果想查看调用栈可以trace操作，往下看到后面每一个被调用的方法及执行时间
 ```console
 # 记录LogicalSwitchImpl所有方法被触发的调用栈数据
@@ -450,8 +450,64 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 # 记录LogicalSwitchImpl所有构造方法被调用的栈数据
 [arthas@28030]$ trace *facade.LogicalSwitchImpl <init>
 
-# 通过正则表达追踪多个对象方法
-trace -E class1|class2 method1|method2
+# 通过正则表达追踪多个对象方法 trace -E class1|class2 method1|method2
+# trace只能跟踪当前stack层次，多层次调用时候可以通过多个类方法来展开调用追踪
+trace -E com.validators.ValidatorAspect|com.facade.FacadeImpl createOrReplace|validationAnnotatedMethod '#cost>500'
+
+# 追踪 耗时超过500毫秒的 调用执行
+trace *FacadeInterceptorValidatorAspect validationAnnotatedMethod '#cost>500'
+```
+
+##### [tt](https://arthas.gitee.io/doc/tt.html)
+如果一个目标方法调用次数很多，用trace监控time cost，屏幕输出非常快，难以获取有效信息。此时可以通过TimeTunnel列表显示
+```console
+# -n 300 最大显示300条记录 默认只有100条记录，调用太多时候根据情况设定
+tt -t -n 300 com.example.tracing.Tracer begin
+
+ INDEX   TIMESTAMP            COST(ms)   IS-RET  IS-EXP   OBJECT         CLASS                        METHOD                        
+---------------------------------------------------------------------------------------------------------------------------------------
+ 1010    2022-12-20 12:43:58  0.150055   true    false    0x168128d3     Tracer                       begin                         
+ 1011    2022-12-20 12:43:58  0.007688   true    false    0x168128d3     Tracer                       begin                         
+ 1012    2022-12-20 12:43:58  0.017379   true    false    0x168128d3     Tracer                       begin
+ ...
+ 1210    2022-12-20 12:44:06  0.006436   true    false    0x168128d3     Tracer                       begin                         
+ 1211    2022-12-20 12:44:06  0.006634   true    false    0x168128d3     Tracer                       begin
+
+# 记录耗时超过 1ms 调用
+tt -t -n 300 com.example.tracing.Tracer begin '#cost>1' 
+
+# -l 将上一次执行结果列表显示出来
+tt -l
+
+# 按ognl表达式过滤列表中数据
+tt -s 'method.name=="begin"
+
+# 查看某一条记录详细信息
+tt -i 1179
+INDEX          1179                                                                                                                   
+GMT-CREATE     2022-12-20 12:44:03                                                                                                    
+COST(ms)       1.521814                                                                                                               
+OBJECT         0x168128d3                                                                                                             
+CLASS          com.example.tracing.Tracer                                                                                       
+METHOD         begin                                                                                                                  
+IS-RETURN      true                                                                                                                   
+IS-EXCEPTION   false                                                                                                                  
+PARAMETERS[0]  @String[getNoThrow]                                                                                                    
+RETURN-OBJ     null                                                                                                                   
+
+# -p 根据记录的参数 重新执行一遍方法调用
+tt -i 1250 -p
+RE-INDEX       1250                                                                                                                   
+GMT-REPLAY     2022-12-20 12:43:30                                                                                                    
+OBJECT         0x5b40cc8c                                                                                                             
+CLASS          com.example.tracing.Tracer                                                                                       
+METHOD         begin                                                                                                                  
+PARAMETERS[0]  @String[create]                                                                                                        
+IS-RETURN      true                                                                                                                   
+IS-EXCEPTION   false                                                                                                                  
+COST(ms)       0.258549                                                                                                               
+RETURN-OBJ     null                                                                                                                   
+Time fragment[1250] successfully replayed 1 times.
 ```
 
 ##### [vmtool](https://arthas.gitee.io/vmtool.html)

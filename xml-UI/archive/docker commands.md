@@ -62,9 +62,10 @@ systemctl show --property=Environment docker
 
 #### docker command
 ```console
-# list all docker instances(up/exited/...)
+# 列出全部容器实例，包括运行中，已停止
 docker ps -a 
-# list up instances
+docker container ls -a
+# 列出全部运行容器实例
 docker ps
 docker container ls
 

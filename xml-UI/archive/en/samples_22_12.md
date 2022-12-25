@@ -102,3 +102,60 @@ He expected pent-up demand in the economy to be “relatively weak” next year 
 
 Just months after the Soviet collapse, the 87-year-old leader rallied the party and breathed new life into market reforms. The decades of economic success that followed reaffirmed the party’s “mandate of heaven” — the imperial-era concept of a divine right to rule.
 苏联刚解体几个月，这位87岁的领导人就重振了党的精神，为市场改革注入新活力。随后几十年的经济成功再次确认了党的“天命”，这是帝王时代的一种君权神授的概念。
+
+As if China’s aggressive turn was not clear, candid translations of proceedings at the Communist Party’s 20th National Congress in October show that they de-emphasized phrases like “peace and development” and adopted phrases like “preparing for the storm” and “the spirit of struggle.” The objective of this strategic decoupling is simple — reciprocity. It is precisely what China does to us. 
+如果中国这样的侵略性转向还不算明显，那么10月召开的中共二十大会议内容直接挑明，中国不再强调“和平与发展”，而是选择了“准备经受惊涛骇浪”和“斗争精神”等说法。这种战略脱钩的目标很简单——对等。这正是中国对付我们的方式。
+
+When demand for fever-reducing drugs more than quadrupled the price of ibuprofen, a city in eastern China began rationing sales by selling the pills individually. The whiplash of change has caught the nation’s hospitals, clinics and pharmacies off guard. Across many cities, pharmacies have sold out of the most common fever and cold medicines. Lines of people have formed at hospitals, and medication has flown off drugstore shelves.
+对退烧药的需求导致布洛芬的价格增长了三倍多后，中国东部一座城市开始用按片出售的方式限量供应。政策突变使全国的医院、诊所和药店措手不及。最常见的退烧药和感冒药已在许多城市的药店售罄。医院里排起了长队，药店货架上的药物已卖光。
+
+Many Chinese are now confronting the specter of a massive Covid outbreak that could stretch through the winter, and have been forced to improvise to fill in the gaps. Some are turning to folk remedies like canned peaches, believing they can ward off illness.
+许多中国人现在面临着贯穿整个冬季的大规模新冠疫情的恐慌，人们被迫想办法自救。有些人转向民间偏方，比如黄桃罐头，认为它可抵御病痛。
+
+Be resolute in fighting and winning this war of annihilation against the pandemic, Not a day of delay. China’s party-run media has cast the shift as a stressful but well-considered exit, opening the way back to good economic times. 
+坚决打好打赢疫情歼灭战，一天不耽误。中国党媒将这一转变描述为一场承受巨大压力但经过不断平衡抉择后的退出，为重返经济繁荣时期开辟了道路。
+
+Relations between the two countries had “stood the test of international changes” and that their partnership was a “long-term strategic choice made by both sides,” The exercises, involving a Russian-guided missile cruiser and Chinese destroyers, will include joint air defense and anti-submarine activities to improve coordination and cooperation between the two navies, 
+两国关系“经受住国际风云变幻的考验”，而双方合作则是“基于各自国情作出的长远战略选择”。俄罗斯一艘导弹巡洋舰和中国驱逐舰群将参与演习，演习项目包括联合防空和反潜活动，以提升两国海军协调合作的能力。
+
+If brevity is the soul of wit, as some wag once said, maybe no words is the wittiest option of all. A sheet of paper may be the ultimate “analog” artifact, but it has emerged as an unusually potent digital-age totem — a meme that is rebounding in fascinating ways between the street and the virtual world. For all the tumult at the barricades, the white signs may reveal more about algorithms, data flow and the way images and ideas resonate online.
+有人曾说，简洁是智慧的灵魂，那或许，无言才是最明智的选择。一张纸或许是最好的“类比”物，但它已成为一种异常强大的数字时代图腾——即以极为有趣的形式折返于街头和虚拟世界的米姆。尽管路障附近有种种混乱，但这些白色标志可能更多地揭示了关于算法、数据流以及影像和思想在网上引发共鸣的方式。
+
+In 1965, an episode of “Candid Camera” featured a prank in which protesters with blank placards picketed in front of a vacant lot in New York. Four years later, students at a high school in Toronto held a mock sit-in featuring blank signs and a blank list of “demands.” An Associated Press report about the protest bore the cheeky headline “ , Students Demand.”
+1965年，《偷拍》(Candid Camera)有一集内容讲的就是抗议者的恶作剧，他们拿着空白的标语牌在纽约一处空地前聚集。四年后，多伦多一所高中的学生举行了一次模拟静坐示威，亮出了空白标语和空白的“诉求”清单。美联社给这场抗议的报道安了一个恶搞标题——《学生诉求》。
+
+In retrospect, those 1960s stunts seem ideologically conservative: They were parodies, staged at the height of the civil rights era and the Vietnam War, that mocked the very idea of protest. 
+回头再看，上世纪60年代的那些噱头在意识形态上似乎是保守的：那是在民权时代和越战期间矛盾最激烈之时上演的拙劣模仿，嘲讽的正是抗议的概念本身。
+
+These signs tell an absurdist joke, ridiculing both censorship and those who enforce it. They function as bait: When security forces — often uniformed and well armed — detain a citizen holding a blank sign, the paranoia and irrationality of state power is thrown into relief. Like a shrewd act of internet trolling, the blank sign is a button-pusher that lures its target into a revealing self-own.
+这些标志都代表了荒诞的玩笑，嘲笑了审查制度及其执行者。它们就像一种诱饵：当通常穿着制服、装备精良的安全部队抓捕一位举着空白标志的公民，国家权力的妄想症和非理性就会暴露无遗。这就像网络水军的精明计谋一样，空白标志是诱使目标自我暴露的开关。
+
+A keen observer of city life, Xi Xi (pronounced SIGH-sigh in Cantonese) focused on the quiet strength of underdogs and the overlooked significance of Hong Kong itself. Her incisive and poetic writing cemented the city’s place in Chinese-language literature and beyond. Using language that was deceptively simple, almost childlike, Xi Xi infused her fiction and poetry with eclectic references to literature, cinema, art, architecture and fairy tales.
+作为城市生活的敏锐观察者，西西专注于弱势群体的安静力量和香港本身遭到忽视的意义，而她精辟而富有诗意的写作巩固了这座城市在华语文学和世界文学中的地位。西西的语言看似简单、近乎孩童，她的小说和诗歌中融合了文学、电影、艺术、建筑和童话故事。
+
+The pumpkin turns into a carriage; mice turn into horses; Cinderella’s rags turn into a ball gown. But at midnight everything turns back into what it was, Was the floating city just another Cinderella?
+南瓜变成马车，老鼠变成骏马，破烂的灰衣裳变成华丽的舞衣。不过，到了子夜十二时正，一切都会变成原来的样子，浮城也是一则‘灰姑娘’的童话吗？
+
+In nominating her for the prize, the Hong Kong poet Tammy Lai-Ming Ho described Xi Xi’s poetry as “feminine, tender, witty, observant, and capable of tugging at the heartstrings,” adding that it “speaks to the character of the city and its people.” A former public-school teacher, she wrote poems about animals and children that were often steeped in commentary about wealth disparity and David-and-Goliath power dynamics. 
+香港诗人何丽明在提名西西为该奖候选人时，形容西西的诗歌“阴柔、纤细、机智、敏锐，动人心弦”，并说，她的诗“道出了这座城市及其居民的品格”。作为一名前公立学校教师，她写了一些关于动物和儿童的诗，这些诗经常充斥着对贫富差距，以及大卫与巨人式的权力平衡问题的讨论。
+
+She described forays into wealthy neighborhoods, where she combed supermarket shelves for groceries free of carcinogenic additives. The cancer treatment damaged a nerve in her right hand, forcing her to learn to write with her left. She began making puppets and mohair teddy bears as a form of physical therapy, dressing them as figures from Chinese mythology, literature and history.
+她描述了自己跑去有钱人住的街区，在超市货架上寻找不含致癌添加剂的食品的经历。癌症治疗损伤了她右手的神经，迫使她学会用左手写字。作为一种物理疗法，她开始制作木偶和马海毛泰迪熊，把它们打扮成中国神话、文学和历史中的人物。
+
+Passing a restaurant in my Shanghai neighborhood once, I saw customers inside curling up against the window, trying to get comfortable so that they could sleep. I started taking my phone charger and toiletry bag everywhere.
+有一次，我路过我家附近的一家餐馆时，看到里面的顾客蜷缩在窗户旁，试图让自己能舒服一点入睡。那之后，我开始在出门时随身携带手机充电器和洗漱用具。
+
+I’ve shuttled back and forth since then, splitting my time between them and my work as a journalist in China. The all-too-brief family visits were weighted with the anxiety of staying Covid-free so that I would be allowed back into China. 
+那之后，我一直往返于两国之间，有时在荷兰陪孩子，大部分时间在中国当记者。每次在荷兰度过那些过于短暂的假期都有一个沉重的负担，总有不要感染新冠病毒的焦虑，这样我才能被允许返回中国。
+
+Authorities have relaxed testing requirements but, out of habit, I still sometimes stop by my local testing booth, one of the few that wasn’t hastily dismantled. The swab grazing my throat feels comforting and safe.
+当局放松了核酸检测要求后，出于习惯，我有时还会去我家附近的核酸采样点，尚未被仓促拆除的采样点已经为数不多。棉签捅进我的喉咙给我一种舒服和安全的感觉。
+
+China has nonetheless managed to retain full employment — but mainly by promoting an enormous housing bubble. China’s real estate sector is incredibly bloated. This isn’t a sustainable state of affairs. Economists often cite Stein’s Law: “If something cannot go on forever, it will stop.” Exactly how China’s bubble will end isn’t clear — it might be a sharp slowdown, or it might be a period of “low quality” growth that masks the true extent of the problem, but it won’t be pretty.
+尽管如此，中国还是成功地保持了充分就业——但主要是通过推动巨大的房地产泡沫。这种状况是不可持续的。经济学家经常引用斯坦定律：“如果一件事不能永远持续下去，它就会停止。”中国的泡沫究竟将如何结束还不清楚——可能是急剧放缓，也可能是一段“低质量”增长时期，同时掩盖问题的真实程度，但这不会是好事。
+
+Nobody is very good at predicting long-term growth; as the M.I.T. economist Robert Solow famously quipped, attempts to explain differences in national growth rates often end in a “blaze of amateur sociology.”
+没有人擅长预测长期增长；正如麻省理工学院经济学家罗伯特·索洛的一句名言，试图解释国家增长率差异的尝试往往以“业余社会学的狂热”告终。
+
+When measuring the size of national economies, you need to distinguish between the dollar value of G.D.P. and output measured at “purchasing power parity,” which is normally higher in lower-income economies, where the cost of living tends to be relatively low.
+在衡量国家经济规模时，你需要区分GDP的美元价值和以“购买力平价”衡量的产出，后者在低收入经济体中通常更高，因为那里的生活成本往往相对较低。
