@@ -159,3 +159,66 @@ Nobody is very good at predicting long-term growth; as the M.I.T. economist Robe
 
 When measuring the size of national economies, you need to distinguish between the dollar value of G.D.P. and output measured at “purchasing power parity,” which is normally higher in lower-income economies, where the cost of living tends to be relatively low.
 在衡量国家经济规模时，你需要区分GDP的美元价值和以“购买力平价”衡量的产出，后者在低收入经济体中通常更高，因为那里的生活成本往往相对较低。
+
+China on Monday announced that travelers from overseas would no longer be required to enter quarantine upon arrival, in one of the country’s most significant steps toward reopening since the coronavirus pandemic began. The new measures do not amount to China’s throwing open its borders, however.
+中国周一宣布，入境人员将不再需要接受隔离，这是自新冠疫情开始以来中国迈向重新开放的最重要措施之一。然而，这些新措施并不等于中国重新开放了边境。
+
+The hearses bearing black and yellow funeral paper flowers crept in a steady stream toward the Dongjiao crematory in eastern Beijing. Several dozen people crowded around the closed gate waiting to be let in. A man unable to get a spot in line could only watch, wondering what to do with the body of a relative who had just died of Covid.
+挂着黑色与黄色纸花的灵车缓缓驶向北京东郊殡仪馆，连绵不绝。几十号人挤在紧闭的大门口等着放行。一名占不到位置的男子只能眼睁睁看着，不知该如何处理刚死于新冠的亲人遗体。
+
+He said that cases of fatal pneumonia are less frequent because the Omicron variant that is prevalent now infects mostly the upper airway. The limited definition excludes the deaths of people who had underlying diseases that were aggravated by Covid. Ms. Chen said that her grandfather died on Tuesday of Covid complications, including pneumonia and kidney failure, after being in a coma for a week.
+他说因为奥密克戎变异株主要侵犯上呼吸道，患上致命性肺炎的情况很少。这样的狭窄判定排除了新冠导致基础疾病加重的死亡。陈女士说，周二，她昏迷了一周的祖父死于新冠并发症，包括肺炎和肾衰竭。
+
+Don’t expect anything from Leviathan — there’s no point in appealing, either, In the end, we have to help ourselves. Only by building an extensive network of social connections, can we weave a real social safety net in the darkest moment, build a real Noah’s ark and save countless lives.
+对利维坦就不要有任何指望了。呼吁也没有意义。只有建立一个广泛的社会横向联系，才能在至暗时刻编织出真正的社会安全网，打造出真正的诺亚方舟，拯救无数生灵。
+
+It is not up to us to judge our party’s governance capacity or performance; they must and can only be judged by the people, If we are pretentious and divorce ourselves from the people or put ourselves above them, we will surely be abandoned by them. This is the case for any party, and is an iron law which admits of no exception.
+我们党的执政水平和执政成效都不是由自己说了算，必须而且只能由人民来评判，人民是我们党的工作的最高裁决者和最终评判者。如果自诩高明、脱离了人民，或者凌驾于人民之上，就必将被人民所抛弃。任何政党都是如此，这是历史发展的铁律，古今中外概莫能外。
+
+“There has to be the first person who’s willing to eat a crab,” Ms. Zhang said, using a phrase to describe someone pioneering a risky path. “Then when others see that eating crab is good, they’ll be willing to pursue their own happiness, too.”
+“要有第一个愿意吃螃蟹的人，”张晓菊说，这句话是用来形容开拓冒险道路的人。“然后，其他人看到螃蟹好吃，他们也会愿意追求自己的幸福。”
+
+Experts have questioned whether North Korea possesses the technology to do so on full trajectory — entering space and blasting back through the Earth’s atmosphere to hit its intended target. Ms. Kim threatened to put those doubts to rest.
+专家质疑朝鲜是否掌握了在完整轨道上发射的技术——即让导弹进入太空，再飞回地球大气层打击指定目标。金与正曾威胁要消除这些质疑。
+
+The North capped its brisk weapons activities in November by test-firing the Hwasong-17, its newest and most powerful ICBM, on Nov. 18. The missile was launched at a deliberately steep angle, high into space. The flight data indicated that if launched at a normal angle, the missile theoretically could reach anywhere in the continental United States.
+11月18日，朝鲜试射了最新型同时也是最强大的洲际弹道导弹“火星-17”，该国活跃的武器活动在11月达到顶峰。这枚导弹故意以陡峭的角度发射，高高地射向太空。飞行数据表明，如果以正常角度发射，该导弹理论上可以到达美国大陆的任何地方。
+
+Slumped in wheelchairs and lying on gurneys, the sickened patients crowd every nook and cranny of the emergency department at the hospital in northern China. They cram into the narrow spaces between elevator doors. They surround an idle walk-through metal detector. And they line the walls of a corridor ringing with the sounds of coughing.
+有人瘫坐在轮椅里，有人躺在轮床上，中国北方这家医院的急诊科每个角落里都是生病的人。他们挤在电梯门之间的狭窄空间里。他们围在一个不工作的金属探测门旁。他们沿着走廊的墙排成一行，走廊里的咳嗽声此起彼伏。
+
+China’s hospitals were already overcrowded, underfunded and inadequately staffed in the best of times. But now with Covid spreading freely for the first time in China, the medical system is being pushed to its limits. In the U.S. people have their own primary physicians, but there are few ways in China to get care from the medical system except to go to an E.R. at a big hospital
+即使在最好的情况下，中国的医院也处于人满为患、资金不足、人手不够的状况。现在，随着新冠病毒首次在全国范围内不受控制地传播，医疗系统正被推向极限。美国人都有私人医生，中国除了到大医院急诊室没有别的办法进入医疗系统
+
+To ensure enough staff members are on the floor, some facilities have given up requiring doctors and nurses to test themselves before work. One doctor in the central city of Wuhan said her hospital’s staff had been so depleted that a neurosurgeon in her department recently had to perform two operations in one day while fighting symptoms of Covid. We got no notice at all beforehand. I found out about the easing of restrictions from the news
+为了确保有足够的医务人员来上班，一些机构已放弃了医护人员在上班前自我检测的要求。中部城市武汉的一名医生说，她所在医院的人手已严重不足，以至于她所在科室的一名神经外科医生不得不在自己感染了新冠病毒的情况下，一天里给两名患者做手术。完全没有任何风声，看新闻才知道放开
+
+The deluge of Covid patients is not the only challenge hospitals are facing. One of the ripple effects of the outbreak has been a widespread shortage of blood for transfusions because of the shrinking pool of eligible donors.
+新冠病毒感染者激增并不是医院面临的唯一挑战。这轮疫情的涟漪效应之一是各地的血库告急，因为合格的献血者人数量越来越少。
+
+Still, the loosening has unleashed massive pent-up demand. Many Pakistanis would fly to China in January as soon as the restrictions lifted, regardless of the Covid situation. They don’t have any concerns, because everyone has had Covid a couple of times. Other travelers are optimistic that China’s outbreak will subside in the coming months and are looking forward to rekindling old friendships.
+尽管如此，放松入境限制还是释放了大量被压抑的需求。一旦限制解除，许多巴基斯坦人将在明年1月马上飞往中国，不管中国的新冠病毒疫情怎样。他们没有任何担忧，因为所有人都已感染过几次新冠病毒。还有旅行者对中国的疫情将在未来几个月内消退持乐观态度，他们期待着与老朋友叙旧。
+
+Zhang Yuhan, a 26-year-old employee at a securities firm in Japan, said that after waking up to the news about the reopening, she immediately started searching for tickets while brushing her teeth and putting makeup on, to try to snag tickets before they sold out.
+日本证券公司26岁的职员张钰涵（音）说，一觉醒来得知中国重新开放边境的消息后，她一边刷牙化妆，一边马上开始搜机票，试图在售馨前抢到票。
+
+To console her friend, my mother invoked Chinese society’s fetish for pain: We are taught that pain and suffering are inevitable and that we must stoically endure them rather than identify the source of the pain and eliminate it. “Stay positive and move on,” my mother told her. “Your husband wouldn’t want to see you crying every day.” My parents learned to simply embrace the pain and disappointment as a part of life and plod on. My parents would egg me on with a Chinese idiom perhaps best translated as “no pain, no gain.”
+为了安慰好友，母亲援引了中国社会对痛苦的迷恋：我们受到的教导是，痛苦和折磨不可避免，我们必须坚强地忍受，而不是找出痛苦的根源，并且消除它。“乐观点，向前看，”母亲告诉她。“你老公也不希望看到你天天都在哭。” 父母学会了把痛苦和失望当成生活的一部分，然后负重前行。我的父母会用一个中国成语来鼓励我，也许最好的翻译是“no pain, no gain”。
+
+Even those who get into a top university and land a coveted job in China’s tech sector often fall into the 996 rut — 9 a.m. to 9 p.m. six days a week of high-pressure work — that has been blamed for deaths from excessive overtime and even suicide. Falter and there are millions ready to take your place. Uneducated migrant workers fare far worse, toiling away in factories for long hours at low pay. Many young Chinese now see hypercompetition in education and work as a pointless hamster wheel
+即使是那些进入顶尖大学并在中国科技行业找到令人羡慕工作的人，也经常陷入“996”的困境——每周六天，从早上九点到晚上九点的高压工作——导致了过劳死甚至自杀。稍有犹豫，就会有数百万人准备取代你的位置。至于没有受过教育的民工，他们的境况还要糟糕得多，他们在工厂里长时间辛苦工作，工资却很低。许多中国年轻人现在将教育和工作中的超级竞争视为毫无意义的仓鼠轮
+
+In a population like China’s with so little existing immunity from infections, the dominant variant may not necessarily be the one that is best at getting around those immune responses, but simply the one that happens to catch fire
+像中国这样对感染免疫力非常低的人口，占主导地位的变异株不一定就是最擅长逃避这些免疫反应的变种，而只是碰巧传播起来的。
+
+XBB is spreading especially quickly across the northeast United States, scientists have said, accounting for more than half of new infections there. And it appears to have an advantage over the BQ.1 Omicron subvariants that have lately been dominant in the United States, Preliminary studies have suggested that that latest version of XBB is adept at evading existing immune responses and at binding to human cells.
+XBB在美国东北部蔓延得特别快，占到当地新增病例的一半以上。科学家说，它似乎比近来在美国占主导地位的BQ.1奥密克戎亚型变异株更厉害。初步研究表明，这个最新版的XBB善于逃避现有免疫反应，还能与人体细胞结合。
+
+Despite decades of trying, no Chinese company has ever conquered American society like TikTok. It’s difficult to imagine a Russian or Iranian company — or, increasingly, even another Chinese company — pulling off a similar feat. TikTok’s provenance has stoked persistent and longstanding worries about its vulnerability to exploitation and manipulation. 
+尽管付出了数十年的努力，但没有任何一家中国企业能像TikTok那样令美国社会趋之若鹜。很难想象俄罗斯或伊朗的企业——或者哪怕是另一家中国企业——取得类似的成绩。TikTok的出身引发了长久以来始终存在的担忧，即它可能很容易就被利用和操纵。
+
+If TikTok’s popularity has thus far provided it some insulation against government action, the app’s time may be running out. Senator Mark Warner, co-chairman of the Senate Select Committee on Intelligence, said of a ban, “The sooner we bite the bullet, the better.” 
+如果说到目前为止TikTok都能凭借其人气而在一定程度上免于美国政府的制裁，那现在，它的时间可能不多了。参议院情报委员会联合主席马克·沃纳参议员谈到封禁行动时表示，“长痛不如短痛。
+
+Indeed, it would be hard to find a company more self-consciously modeled, in both spirit and substance, on America’s tech giants. ByteDance’s founder internalized the mythos of Silicon Valley, taking to heart the idea, long promoted by Washington, that the American market was the ultimate prize, and that it welcomed any entrepreneur with the talent and ambition to succeed. The company is caught in the middle between the old era and the new — too Chinese for America, too American for China.
+事实上，几乎没有哪家公司在精神和实质上比字节跳动更主动效仿美国的科技巨头。字节跳动的创始人将硅谷的神话内化，将华盛顿长期倡导的理念牢记在心，即美国市场是终极大奖，它欢迎任何有才能和雄心的企业家取得成功。这个公司夹在新旧时代的中间——对美国来说太中国化，对中国来说太美国化。

@@ -33,6 +33,8 @@
     - [go/java/python效率测试](https://mp.weixin.qq.com/s/d2dw2d-LLVT3DtgJOtdiag)
 
 + ***Resource***    
+    - [medium](https://medium.com/)
+        `一个技术文章的集合网站，提供语音阅读和文字两种方式`
     - [jayway技术博客](https://blog.jayway.com/)      
     - [资源网站集合](https://mp.weixin.qq.com/s/gY9vL4Z5fwTpNJv_NswqNQ)  
         `Gitlogs/DuckDuckGo/Ebooke/正则表达式/文件转换/web设计类工具`

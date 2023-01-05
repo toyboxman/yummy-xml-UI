@@ -88,7 +88,7 @@ curl 'https://registry-1.docker.io/v2/' -H 'Authorization: Bearer <TOKEN>'
 docker pull java
 # 现在docker.io限制非用户下载，因此需要注册一个用户，然后命令认证。成功后才能下载
 docker login
-# pull mirror image
+# 从镜像站点下载 pull mirror image
 # https://www.docker-cn.com/registry-mirror
 docker pull registry.docker-cn.com/library/golang
 

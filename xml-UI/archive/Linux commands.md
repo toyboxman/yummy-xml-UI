@@ -1182,7 +1182,7 @@ $ mkdir -p /root/folder/folder1/folder11
 # delete a directory
 $ rm -dfrv /root/folder
 ```
-许多人习惯使用右键单击菜单或按 Ctrl+V 粘贴文本, xclip可以以命令行方式将内容复制到系统剪贴板。
+许多人习惯使用右键单击菜单或按 Ctrl+V 粘贴文本, xclip可以以命令行方式将内容复制到系统剪贴板。此命令只能在有图形界面时使用，纯remote命令行界面执行不成功
 ```console
 # 复制 logfile.log 文件最后 30 行
 # -sel clip 选项可确保内容复制到系统剪贴板
@@ -3009,7 +3009,15 @@ sudo iptables -D INPUT 3
 # --dport 表示规则目标端口
 # --jump/-j <target>, target are [ACCEPT/DROP/REJECT/LOG/CLASSIFY/DNAT...]
 iptables -I INPUT -p tcp --dport 3306 -j ACCEPT 
+# -m, --match Specifies a match to use
+iptables -A INPUT -p tcp -m tcp --dport 8080  -m iprange --src-range 10.0.0.0-10.255.255.255 -j ACCEPT
+sudo iptables -A INPUT -m state --state NEW -m tcp -p tcp --dport 8080 -j ACCEPT
 
+# -p 支持的 protocol包括tcp, udp, udplite, icmp, icmpv6, esp, ah, sctp, mh or the special keyword "all", 或者是个数字, 0表示all
+$ sudo iptables -I INPUT -p0 --dport 8080 -j ACCEPT 
+iptables v1.8.7 (nf_tables): unknown option "--dport"
+Try `iptables -h' or 'iptables --help' for more information.
+# all 不能与指定端口的参数共用 原因是一些协议入icmp不支持端口
 # 把8081端口规则添加INPUT表尾
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
 # 把6831端口允许tracer用户发送udp报文规则添加OUTPUT表尾
