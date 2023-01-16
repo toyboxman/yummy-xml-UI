@@ -2353,7 +2353,19 @@ root@photon# grep 'netmask' vminfo.txt | sed 's/.*"\(.*\..*\..*\..*\)".*/\1/'
 # awk 的基本语法
 awk [options] 'pattern {action}' file
 
-# 文件内容显示
+## awk删除重复的行 等价于 awk '{...}' | uniq
+$ awk '!seen[$0]++' file
+# 等价于 awk '!visited[$0]++ { print $0 }'
+$ awk '!visited[$0]++' file
+
+## awk删除空白行 等价于 awk '{...}' | tr -d [:blank:]
+# tr -d SET1 删除SET1表示的字符, 不做转换(translate)
+$ awk 'NF > 0' file
+
+## 给文件每行增加一个空白行
+$ awk '{print; print "";}' file
+
+## 文件内容显示
 # 把88->95行之间的包含'spring'关键字的内容显示出来
 # NR 内建变量 表示全部记录数目 number of records 
 # NF 表示被分隔出的字段数目 number of fields
@@ -2365,8 +2377,7 @@ $ awk '/spring/ && NR>=88 && NR<=95' pom.xml
 <groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter</artifactId>
 
-# awk脚本实现行合并
-# tr -d 删除行空白字符
+## awk脚本实现行合并
 # printf "%s,",$0; 表示按字符串格式打印整行 不处理换行因此用来合并行数据
 # NR%2{}1 0=false, 1=true 表示满足NR%2==true,即行号除2余1的时候，执行{}中脚本
 # {}1末尾这个1即运行条件永远为condition==true，默认处理就是打印当前行 {print $0}
@@ -2377,24 +2388,24 @@ $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2{printf
 1<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter-web</artifactId>
 3<groupId>org.springframework.boot</groupId>,<artifactId>spring-boot-starter</artifactId>
 
-# {print NR$0}  print会按照每行输出，printf "%s"则不会换行
+## {print NR$0}  print会按照每行输出，printf "%s"则不会换行
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{print NR$0}' 
 1<groupId>org.springframework.boot</groupId>
 3<groupId>org.springframework.boot</groupId>
 
-# printf 输出结果不换行
+## printf 输出结果不换行
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf NR$0}' 
 # 奇数行一起打印出来
 1<groupId>org.springframework.boot</groupId>3<groupId>org.springframework.boot</groupId>
 
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0}{print $0}' 
-# 奇数行带行号+','打印出来，并且再每行正常打印
+## 奇数行带行号+','打印出来，并且再每行正常打印
 1<groupId>org.springframework.boot</groupId>,<groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter-web</artifactId>
 3<groupId>org.springframework.boot</groupId>,<groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter</artifactId>
 
-# next 类似于 continue 跳过后面脚本，从头开始下一行处理
+## next 类似于 continue 跳过后面脚本，从头开始下一行处理
 $ awk '/spring/ && NR>=88 &&NR<=95' pom.xml | tr -d [:blank:] | awk 'NR%2==1{printf "%s,",NR$0}{next}1' 
 # 由于next执行后，后面的1即{print $0}永远不会执行
 1<groupId>org.springframework.boot</groupId>,3<groupId>org.springframework.boot</groupId>,

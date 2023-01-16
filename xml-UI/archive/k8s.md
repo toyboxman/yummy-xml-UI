@@ -368,6 +368,12 @@ Connection to 10.176.217.242 8080 port [tcp/http-alt] succeeded!
 $ ss -ta
 State          Recv-Q      Send-Q              Local Address:Port                    Peer Address:Port       Process      
 LISTEN         0           4096                 0.0.0.0:http-alt                          0.0.0.0:*                    
+# 可以一次映射多个端口 kubectl port-forward --address 0.0.0.0 jaeger-query 8080:16686 8081:16687
+# 如要 collector 接收JaegerThriftSpanExporter数据还需要映射 14268
+# kubectl port-foward 是阻塞式, 第一个执行后进程就会等待阻塞第二个执行，只能如下才能同时执行两个pod上映射
+$ kubectl port-forward --address 0.0.0.0 jaeger-query-6d59858d8d-2dvz7 8080:16686 & \
+  kubectl port-forward --address 0.0.0.0 jaeger-collector-76d964985-cgzbs 14268:14268 &
+# 还有一些可让外部访问k8s cluster内部端口方式 https://alesnosek.com/blog/2017/02/14/accessing-kubernetes-pods-from-outside-of-the-cluster/
 
 # 查看 helm chart 中的变量
 helm show values jaegertracing/jaeger
