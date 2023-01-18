@@ -9,6 +9,7 @@
 ---
 
 #### operation
+- [k8s handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 #### minikube
 [minikube](https://minikube.sigs.k8s.io/docs/start/) is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.   
 ```console
