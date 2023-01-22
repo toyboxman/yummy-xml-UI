@@ -147,3 +147,66 @@ Substantive policy questions: Lawmakers say they want to explore whether the U.S
 
 But some Republicans would prefer not to focus on the topic, which would inevitably involve rehashing what happened during the assault and their roles in Mr. Trump’s election subversion efforts.
 但一些共和党人宁愿不参与这个议题，因为那必然将重提袭击时发生的事情，以及他们在特朗普颠覆选举的努力中所扮演的角色。
+
+The economy’s property sector, ordinarily a key driver of wealth, is weighed down by enormous corporate debt. Nobody knows when they will trickle back to cities for work. The shopkeepers’ experiences are borne out by the national data.
+房地产行业被巨额债务拖累，而它通常是财富增长的主要驱动力。没有人知道他们何时会回到城市工作。这些店主的经历都被国家公布的数据所证实。
+
+What’s more, a central bank survey of urban depositors found last month that record numbers of Chinese plan to increase their savings, a trend that could dampen consumption at least in the near term.
+此外，央行上个月对城镇储户进行的一项调查显示，计划增加储蓄的中国人口数量创下新高，至少在短期内，这一趋势可能会抑制消费。
+
+He plays tennis cleverly, changing gears and speeds often to avoid giving opponents a consistent rhythm. But his top gear is impressive, particularly when he is dictating terms with his quick-strike forehand. Against Otte, he showed some deft volleying touch, as well as plenty of composure: avoiding the temptation to rush between points and gathering himself. He finished off the victory with a bold, leaping backhand winner.
+他打网球很聪明，经常变换手法和速度，不让对手进入稳定的节奏。但他的顶级手法令人印象深刻，尤其是当他用正手快速击球掌控全场时。对阵奥特时，他展示了一些灵巧的截击手法，也表现出足够的沉着：避免在得分之间操之过急，并且保持镇定。他以一个大胆、跳跃的反手制胜球结束了比赛。
+
+Officer Angwang’s lawyer, John F. Carman, welcomed the government’s move to dismiss the charges, which he called “long overdue.” The anguish and expense that this police officer and Marine Corps veteran has endured is not easily described, We are optimistic that the court will grant the motion and that this great American will have the opportunity to repair untold damage to his life.
+昂旺警官的律师约翰·卡曼对政府撤销指控的举动表示欢迎，用他的话来说，该案“早该撤销”。这位警官和海军陆战队退伍军人所承受的痛苦和代价是难以描述的，我们乐观地认为，法院会批准这项动议，而这名伟大的美国人将有机会修复他生命中难以言喻的伤害。
+
+But Mr. Carman, Officer Angwang’s lawyer, argued that the conversations described by prosecutors as “nefarious” were actually “pedestrian” efforts by his client to maintain good relations with Chinese officials so that he could obtain a visa to visit his parents in China and to introduce them to his daughter. It is in this light that the court should assess Mr. Angwang’s solicitous tone and accommodating posture
+但昂旺警官的律师卡曼辩称，这段被检察官称之为“恶劣”的谈话实际上是他的委托人为了与中国官员保持良好关系，从而获得签证去中国探望他的父母，并让他们看看自己的女儿所做出的“平淡无奇的”努力。鉴于此，法院应该评估昂旺与其中一名领事官员谈话时的殷勤语气和通融姿态。
+
+State media have urged young couples to seize the opportunity to have two or three children under relaxed family-size rules, to soften the looming economic crunch. The measures championed by Chinese policymakers often neglect the broader pressures on women, especially those from rural and working-class backgrounds, which put them in a painful bind between family and work. China has not been blindsided by these challenges. China’s proposed demographic reforms are drops in the bucket. 
+官媒已敦促年轻夫妇抓紧时机生两到三个孩子，政府为缓解即将出现的经济困境，已放开了对生育的限制。中国政策制定者倡导的措施往往忽视了女性面临的更广泛压力，尤其是那些来自农村和工人阶级背景的女性，这让她们在家庭和工作之间陷入痛苦的两难。对这些挑战并非毫无准备,中国提出的改善人口结构的措施是杯水车薪。
+
+During widespread pandemic lockdowns that dampened consumer spending and export growth, China’s economy became even more dependent on the ailing housing sector.The government recently intervened to help distressed real estate developers in an attempt to stem the fallout of its housing crisis.
+在大规模封锁期间，消费者支出和出口增长遭到抑制，中国经济变得更加依赖不景气的房地产行业。
+
+But China does not have the same resources as a country like Japan to provide a safety net for its aging population. Its households live on much lower incomes on average than in the U.S. and elsewhere.
+但中国没有像日本那样的资源来为其老龄化人口提供安全网。中国家庭的平均收入与美国和其他地方相比要低得多。
+
+Mr. Liu, a well-traveled vice premier who is one of China’s most recognizable faces in the West, insisted that the Covid crisis was “steadying,” seven weeks after the government abruptly abandoned its policy of quarantines and lockdowns. After his speech, Mr. Liu, who has a command of English and holds a graduate degree from Harvard, met privately with business executives. Some expected him to be more candid in that session about the challenges China has faced.
+副总理刘鹤游历甚广，也是中国在西方最知名的面孔之一，在中国政府突然放弃隔离和封锁政策七周后，他坚持认为新冠危机正在“稳定下来”。演讲结束后，会说英语并拥有哈佛研究生学位的刘鹤私下会见了企业高管。一些人希望他在会晤中能更坦诚地谈论中国面临的挑战。
+
+For the past 20 years, China has benefited from both geoeconomic gravity and geopolitical momentum, but in the last year it has rapidly lost both. The signposts of China’s economic weakness are everywhere.
+过去20年，中国受益于地缘经济引力和地缘政治动能，但在过去的一年里，它迅速失去了这两样东西。中国经济疲软的迹象随处可见. 
+
+China’s national reality dictates that opening up to the world is a must, not an expediency, We must open up wider and make it work better. We oppose unilateralism and protectionism.
+中国的基本国情决定了必须对外开放，不断提高对外开放质量和水平，我们反对单边主义、保护主义。
+
+“Climate change needs a global approach,” she said in a chiding tone, “but it needs to be a fair approach.” The difference in crowd sizes reflected the reshuffled priorities of the West, now focused on exhibiting unity against Russian aggression.
+“气候变化需要一种全球性的方法，”她用责备的语气说，“但它需要是一种公平的方法。” 从听众人数的差异可以看到，西方重新调整了优先事项，现在专注于展示团结，反对俄罗斯侵略。
+
+Polarization permeates our world, whether in domestic politics or interstate relations, We have been conditioned to think of the post-1945 world as the norm and departures from it as deviations. In fact our own complex history underlines that the natural state of the world is multipolarity. Convergence has gone out of fashion.
+两极分化渗透到我们的世界，无论是在国内政治还是在国家之间的关系中，我们已经习惯于将1945年后的世界视为常态，而背离它就是偏差。事实上，我们自己复杂的历史凸显了多极化才是世界的自然状态。融合已经过时。
+
+Digital security and inclusiveness will be a major theme at Davos this year. India, with its near universal connectivity, has led the way in demonstrating how technological leapfrogging can empower poorer sections of society. About 1.3 billion Indians now have a digital identity, and access to all banking activities online is commonplace.
+数字安全和包容性将成为今年达沃斯的一大主题。印度凭借其近乎普遍的联网，率先展示了技术上的飞跃如何为社会较贫困阶层赋权。现在大约有13亿印度人拥有数字身份，在网络银行办理所有业务是很常见的事。
+
+As Emmanuel Macron, the French president, has noted, “demographically” a majority of the world is neutral on the war, or opposed, a reflection of the resentment and suspicion leveled at a Western order often perceived as hypocritical or self-serving. Still, the human quest for freedom underwritten by the rule of law is near universal.
+正如法国总统马克龙所指出的，“从人口统计学角度来看”，全球大多数国家对这场战争持中立或反对态度，反映了民众对通常被视为虚伪或自私的西方秩序的不满和怀疑。尽管如此，人在法治保障下对自由的追求仍算得上普世价值观。
+
+Entrepreneurs in Singapore admit that it has its limitations. It’s small, it’s expensive and the talent pool is shallow. It’s an easy place to enjoy life but not ideal for starting, say, an ambitious tech company, many of them say. Some wealthy, relatively young Chinese who have moved there don’t have much to do but drink a lot of Moutai, the Chinese liquor.
+新加坡的企业家承认该国有自己的局限性。新加坡很小，生活费用很高，人才资源很少。他们中的许多人说，新加坡是一个享受生活的好地方，不是创办一家雄心勃勃科技企业的理想之地。一些移居到那里的相对年轻的中国富人除了大喝茅台外，没有太多的事可做。
+
+The swift unraveling of the case — which had been hailed as a signature example of the Justice Department’s efforts to root out foreign agents embedded in the United States — came with scant detail, much of it obscured by classification. 
+此案曾被誉为司法部努力铲除潜伏在美国的外国特工的标志性案例，在其迅速撤销之际详情欠奉，其中大部分内容因为保密缘故而不为人所知。
+
+I want to put, like, a nice three-seater couch there, I want some new light fixtures, maybe from Ikea. Her eyes darted toward the door as construction workers could be heard clomping up the outer stairs — men who would notice a woman living alone. When the building quieted down again, she relaxed, willing herself to positivity.
+我想在那里放一张漂亮的三座沙发，我想要一些新灯具，也许去宜家买。她的眼睛飞快地瞟向门口，这时可以听到建筑工人们噔噔噔地走上外面的楼梯——男人们会注意那些独自生活的女人。当大楼再次安静下来时，她放松了，努力振作起来。
+
+The point is that for economies, as with investment funds, past performance is no guarantee of future results. We don’t know how much China’s demographic challenges will cause it to stumble, but there are good reasons to be concerned; I’ve heard pessimists describe the situation in China as similar to that of post-boom Japan without the same high level of social cohesion that allowed government and society to cushion the fall.
+关键在于，经济体就像投资基金一样，过去的表现并不能保证未来的结果。我们不知道中国的人口困境会在多大程度上拖累经济，但我们有充分理由感到担忧；我曾听悲观主义者说，中国的情况与后经济泡沫时代的日本相似，但中国没有那么高的社会凝聚力，让政府和社会可以去缓冲衰退的影响。
+
+Nonetheless, for the first time in memory, even many free-market conservatives seem to recognize that unfettered capitalism can lead to imperfect results. Put chips high on that list. The quest for an industrial policy in America goes back to our earliest days. 
+尽管如此，就连许多信奉自由市场的保守派似乎也认识到，不受约束的资本主义会导致不完美的结果，这在人们记忆里是第一次。芯片就排在不完美结果清单的前面。美国对产业政策的追求可以追溯到建国初期。
+
+People personally invested in her, that has alway been a part of her appeal, She became a totem, She became the personification of a particular response to the pandemic, which people in the far-flung margins of the internet and the not so far-flung margins used against her. many New Zealanders were surprised by what they saw as her willingness to pit the vaccinated against the unvaccinated.
+人们对她倾注个人情感，这一直是她魅力的一部分，她成了一个图腾，她成了对大流行病做出特定反应的化身，互联网上，那些遥远的边缘人和不太遥远的边缘人都在利用这种反应来对付她。许多新西兰人对她愿意让接种疫苗的人与未接种疫苗的人产生对立感到惊讶。

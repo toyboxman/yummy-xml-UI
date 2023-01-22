@@ -1210,7 +1210,9 @@ $ head /tmp/java
 # cp local file to remote folder
 scp *.log king@ip:/home/king  
 # cp remote file to local folder
-scp king@ip:/home/king/1.log ./king  
+scp king@ip:/home/king/1.log ./king 
+# scp不能直接支持wildcard，当想拷贝全部文件需要用 \*，或者拷贝文件所在目录
+scp jaeger@10.176.217.250:/home/jaeger/Downloads/\* ~/Downloads 
 
 # -r 远程拷贝目录
 # 如果希望scp操作不用每次输入login密码
@@ -1223,7 +1225,7 @@ sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/pa
 # -C 压缩的意思
 # -r 是循环传输整个目录
 # -p 表示保留原文件的一些属性
-# -l 表示限制贷款(kb/s)
+# -l 表示限制带宽(kb/s)
 # -v 表示显示详细进程
 scp -Crvp -l 1024 logs/ root@remoetserver:/opt/logs
 
