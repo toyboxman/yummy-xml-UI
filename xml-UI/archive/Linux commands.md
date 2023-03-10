@@ -1494,6 +1494,37 @@ $ find ./ -name '*.gz' -exec zgrep -n 'spring-1.0.jar' {} \;
 # zcat用来读取压缩文件内容
 zcat syslog.1.gz | less
 ```
+cat与EOF结合使用可以方便文件输入
+```console
+$ cat <<EOF
+> 123
+> 456
+> 567
+> EOF
+123
+456
+567
+
+$ cat <<EOF |grep 5
+> 123
+> 456
+> 567
+> EOF
+456
+567
+
+$ cat << EOF | grep 5 | tee 5.log
+> 123
+> 456
+> 567
+> EOF
+456
+567
+# 类似 cat 输出，但是有 line number
+$ nl 5.log 
+     1	456
+     2	567
+```
 tac就是cat倒序命令，可以从后往前读取文件内容
 ```console
 tac pom.xml | grep 'schema'

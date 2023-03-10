@@ -722,6 +722,8 @@ GitHub提供代码库检索功能
 
 + [https://github.com/search](https://github.com/search)
     + [检索语法](https://help.github.com/en/articles/about-searching-on-github)
+        - [github代码搜索用Rust重写](https://mp.weixin.qq.com/s/7ecgkwC-1oKzE1w5rt-mNQ)   
+        `Blackbird目前可对近4500万个代码仓库进行访问，涵盖的代码总体量达115TB、涉及155亿份文档。要在这么多行代码之间切换，单靠grep显然是远远不够的。在8核英特尔 CPU 上，通过ripgrep对内存内的 13 GB 文件执行详尽的正则表达式查询大约需要 2.769 秒，相当于 0.6 GB/秒/核心。面对GitHub所拥有的大量数据来说，用 grep 的办法根本行不通。代码搜索实际运行在每节点 64 核、总计 32 节点的集群之上。即使我们设法将 115 TB 的代码全放进内存并实现了完美并行查询，那 2048 个 CPU 也要饱和运行 96 秒才能完成一次查询！在此期间，只有当前查询可以运行，其他操作全都得排队。每秒只能执行 0.01 次查询，这就直接给 grep 判了死刑。`
     + [code search语法](https://help.github.com/en/articles/searching-code)
     + [Github高级搜索技巧](https://mp.weixin.qq.com/s/WDAOJrmnE90MgUizLu7FfQ)
     + GitHub Actions自动化打包/部署技巧[[1](https://mp.weixin.qq.com/s/L3VBR_mOj8TUhJAcO-rG-w), [2](https://mp.weixin.qq.com/s/yg7_3e30hnXlyiv_YhtLOA), [3](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)]
@@ -826,6 +828,7 @@ monitor in:description language:python
 
 #### tools
 + [开发搜索在线素材 gitlogs](https://mp.weixin.qq.com/s/39FAxO8OnQ5TuVGwrfZQrg)
++ [资料网站集合](https://mp.weixin.qq.com/s/Niq5JkYJa_4o3PRsynvU6g)
 + Linux常用工具[[英文](https://github.com/luong-komorebi/Awesome-Linux-Software), [中文](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)]
 + Windows常用工具[[英文](https://github.com/Awesome-Windows/Awesome), [中文](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)]
 + Mac常用工具[[英文](https://github.com/jaywcjlove/awesome-mac), [中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)]
@@ -1000,6 +1003,10 @@ done
 
 [任嚣吸取屠睢的教训](https://mp.weixin.qq.com/s?__biz=MzU4NTA0NzMyOQ==&mid=2247504335&idx=1&sn=8bd6d31c6fa39059589db3f118a55ded)，对越人采取宽松政策，“抚绥有道，不敢以秦虎狼之威，复加荒裔”，不再滥杀无辜，而是接受南越习俗，与越人和睦相处。他任职数载，越人皆诚心归附。任嚣为统一大业立下汗马功劳，史书将他与当时在北方防御匈奴的蒙恬并称：“秦北有蒙恬，威詟漠庭，南有任嚣，恩洽扬越，而始皇乃得以自安。”
 
+<经史百家简编>曾国藩序言中提到“自六籍燔(fán)于秦火,汉世掇拾残遗，征诸儒能通其读者，支分节解，于是有章句之学。刘向父子，勘书秘阁，刊正脱误，稽合同异，于是有校雠(chóu)之学。梁世刘勰、钟嵘之徒，品藻诗文，褒贬前哲，其后或以丹黄识别高下，于是有评点之学。三者，皆文人所有事也。”, 他认为存粹文人只做些寻章摘句勘正校误品评好坏之事，意即是清谈。
+
+《孟子-孔子在陈章》曰：何以是嘐嘐(xiāo)也？言不顾行，行不顾言，则曰，古之人，古之人。行何为踽踽(jǔ)凉凉？生斯世也，为斯世也，善斯可矣。阉然媚于世也者，是乡原也。-- 为什么要这样志大口气大呢？说话不顾行为，行为不顾言论，就说古时的人，古时的人！他们批评狷(juàn)介之士说做事为什么要孤独冷落人，生在这世上，就要为这世俗做事，有人说好就行了。对世俗遮遮掩掩求媚取悦的人，就是乡里的假好人
+
 壬寅腊月除夕，年关之日。依旧俗需吃年饭、除尘净屋，以迎新年。楚人食汤犹爱莲藕排骨，虽无吊炉瓦罐，亦不弃之，使铁锅代之而炖。稍顷，始备菜。白菜切丝，豇豆切段，土豆切片，刀俎之声犹乐章前奏引新年之乐，谓之：食之妙在于形，幻化刀俎之间。事毕，热锅冷油佐以葱姜蒜，次序颠炒，几小菜即可上桌。再换一平底，铺之藕夹、肉圆、土豆，煎之。少时即盛出，避久热而糊，暴殄美食。洒盐、胡椒、孜然，颠锅使之匀附之上，兼烧烤之味油炸之焦，不可言述。上小火蒸鲈鱼一尾，一时三刻浇酱汤其上，虽无桃花流水鳜鱼之肥，但爱江上鲈鱼之美。汤炖多时，藕已粉烂，吸骨汤髓味，散清淡之鲜，绕梁三日回味无穷。至未时，方开餐，家人围坐觥箸交错，辞旧迎新。曰：年饭之义不在于形，而在于情。虽有佳肴美酒，若无团圆又何足道哉。若情之常在，浊酒箪食亦足已。
 
 [姚广孝](https://mp.weixin.qq.com/s/FshRUfzq_0nZauinK-_v_Q)一句话"祥也。飞龙在天，从以风雨。瓦堕，将易黄也。" 稳定靖难誓师前疑惑
@@ -1019,6 +1026,10 @@ done
 + [资治通鉴名言](https://mp.weixin.qq.com/s/LtL4xIv2KsttXNxIi_XVRA)
 + [经济学眼镜蛇效应](https://mp.weixin.qq.com/s/22k9niY-2WuJyEfkjIXRWw)
 + [你打你的, 我打我的](https://mp.weixin.qq.com/s/R3hsw2tixRUzg966u_xEAA)
++ [江南](https://mp.weixin.qq.com/s/pkbEaFYgC6Ur3wPZjZyXhw)       
+    `江南好，风景旧曾谙：日出江花红胜火，春来江水绿如蓝。能不忆江南？`
+    `江南忆，最忆是杭州：山寺月中寻桂子，郡亭枕上看潮头。何日更重游？`
+    `江南忆，其次忆吴宫：吴酒一杯春竹叶，吴娃双舞醉芙蓉。早晚复相逢？`
 + [高中物理](https://mp.weixin.qq.com/s/QoBtzuadTKWk9Y-zHyH9Kg)
 + [学者学问](https://mp.weixin.qq.com/s/wMVqFedwKE_KmFN_CDGH4w)
 + [经济增长与发展](https://mp.weixin.qq.com/s/BdWzVB0ZXtSTR42Xxoc5eQ)

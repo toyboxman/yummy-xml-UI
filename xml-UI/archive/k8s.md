@@ -10,6 +10,74 @@
 
 #### operation
 - [k8s handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+#### kubectl
+```console
+# 下载K8s安装包
+$ curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   138  100   138    0     0   1084      0 --:--:-- --:--:-- --:--:--  1078
+100 45.7M  100 45.7M    0     0  46.3M      0 --:--:-- --:--:-- --:--:-- 46.3M
+ 
+$ file kubectl
+kubectl: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=9D5n1GLl6Y4_Ct5fGvMO/coXJgjdJt5dZ_y1y_rhb/YjCkCaMmOdsQJP_yrjh_/NK0J6zaOIXxx_kptEKG4, stripped
+
+# 执行下载的安装文件 
+$ sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
+$ file $(which kubectl)
+/usr/local/bin/kubectl: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=9D5n1GLl6Y4_Ct5fGvMO/coXJgjdJt5dZ_y1y_rhb/YjCkCaMmOdsQJP_yrjh_/NK0J6zaOIXxx_kptEKG4, stripped
+$ which kubectl
+/usr/local/bin/kubectl
+
+$ kubectl version --client --output=yaml
+clientVersion:
+  buildDate: "2023-01-18T15:58:16Z"
+  compiler: gc
+  gitCommit: 8f94681cd294aa8cfd3407b8191f6c70214973a4
+  gitTreeState: clean
+  gitVersion: v1.26.1
+  goVersion: go1.19.5
+  major: "1"
+  minor: "26"
+  platform: linux/amd64
+kustomizeVersion: v4.5.7
+ 
+$ kubectl cluster-info
+$ kubectl config view
+# 设定当前默认context
+$ kubectl config use-context <context>
+# 设定当前默认namespace
+$ kubectl config set-context --current --namespace=<ns>
+
+# 设定kubernet命令行自动补齐
+$ kubectl completion bash
+# 如果上述命令行没有返回，则先需要安装 bash-completion
+$ sudo apt-get install -y bash-completion
+# 仅给当前登录用户设定补齐
+$ echo "source <(kubectl completion bash)" >> ~/.bashrc
+$ source .bashrc 
+# Tab键就可以自动补齐参数
+$ kubectl de
+debug     (Create debugging sessions for troubleshooting workloads and nodes)
+delete    (Delete resources by file names, stdin, resources and names, or by resources and label selector)
+describe  (Show details of a specific resource or group of resources)
+# 给当前全部用户设定补齐
+$ kubectl completion bash | sudo tee /etc/bash_completion.d/kubectl > /dev/null
+
+# Set an alias for kubectl as k
+$ echo 'alias k=kubectl' >>~/.bashrc
+# Enable the alias for auto-completion
+$ echo 'complete -o default -F __start_kubectl k' >>~/.bashrc
+# Tab提示出全部参数
+$ k -
+--as                        (Username to impersonate for the operation. User could be a regular user or a service account in a namesp…)
+--as-group                  (Group to impersonate for the operation, this flag can be repeated to specify multiple groups.)
+--as-uid                    (UID to impersonate for the operation.)
+--cache-dir                 (Default cache directory)
+--certificate-authority     (Path to a cert file for the certificate authority)
+...
+```
+
 #### minikube
 [minikube](https://minikube.sigs.k8s.io/docs/start/) is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.   
 ```console
@@ -44,6 +112,7 @@ docker adm cdrom sudo dip plugdev lpadmin lxd sambashare jaeger
 # 由于没有安装kubectl 提示错误
 Command 'kubectl' not found, but can be installed with:
 sudo snap install kubectl
+
 # snap安装kubectl后，可以看到 minikube 创建出来的控制面组件
 # 也可以用minikube下载, minikube kubectl -- get po -A
 # control plane in kubernetes terminology 包括 kube-apiserver/kube-controller-manager/kube-scheduler/kubelet/kube-proxy/etcd
@@ -439,6 +508,12 @@ Kubernetes解决那些问题可以看看
     将运行在一组 Pods 上的应用程序公开为网络服务的抽象方法, 使用 Service 暴露应用, Kubernetes 中的服务(Service)是一种抽象概念，它定义了 Pod 的逻辑集和访问 Pod 的协议。Service 使从属 Pod 之间的松耦合成为可能。。Service 在 Kubernetes 中是一个 REST 对象，和 Pod 类似。 像所有的 REST 对象一样，Service 定义可以基于 POST 方式，请求 API server 创建新的实例。Service 的IP地址称为Cluster IP, 虚拟的IP，仅作用于Service这个对象，由k8s管理和分配IP地址（来源于Cluster IP地址池）单独的Cluster IP不具备TCP/IP通信基础。
     - 云原生服务发现   
     如果你想要在应用程序中使用 Kubernetes API 进行服务发现，则可以查询 API 服务器 的 Endpoints 资源，只要服务中的 Pod 集合发生更改，Endpoints 就会被更新。对于非本机应用程序，Kubernetes 提供了在应用程序和后端 Pod 之间放置网络端口或负载均衡器的方法。
+    - ingress   
+    Kubernetes Ingress是一种API对象，用于管理入站网络流量的访问。 Ingress可用于将外部流量路由到Kubernetes集群内的不同服务，从而允许多个服务共享单个IP地址。Ingress is an API object that provides routing rules for HTTP and HTTPS traffic to reach the services in a cluster。Ingress通过规则（rules）指定路由，每个规则包含一个Host，一组路径（Path）和一个后端服务的链接。当流量到达Ingress时，它会根据规则查找匹配的路径，并将流量路由到相应的后端服务。 Ingress可以支持多种流量转发算法，如负载均衡、URL重写、SSL终止等等。   
+    To configure Ingress in Kubernetes, you need to follow these steps:  
+    &nbsp;&nbsp;&nbsp;1.Ensure that your Kubernetes cluster has an Ingress controller running. An Ingress controller is a pod that runs a software that implements the Ingress rules. Examples of Ingress controllers include Nginx, Traefik, and Istio.   
+    &nbsp;&nbsp;&nbsp;2.Define an Ingress resource that specifies the routing rules. The Ingress resource is defined in a YAML file that describes the rules for the Ingress controller to follow.   
+    &nbsp;&nbsp;&nbsp;3.Deploy the Ingress resource to the Kubernetes cluster. This is done using the kubectl apply command.
 
 Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑的操作，下面是一些关于简单使用学习的文章
 + [k8s best practice](https://mp.weixin.qq.com/s/KLrQ2n_Kk_DR6puIsgmOqg)
