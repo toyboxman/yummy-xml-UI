@@ -3,8 +3,8 @@
 ## leader election in ZK cluster
 [zk_explain](https://zookeeper.apache.org/doc/current/recipes.html#sc_leaderElection)
 ---
-Curator¿ò¼ÜÌá¹©ÁËÒ»Ì×»ùÓÚZKµÄÑ¡¾Ù½Ó¿Ú£¬¿ÉÒÔºÜ·½±ãµØÍê³ÉÔÚclusterÖĞÑ¡ÖĞÒ»¸ö½Úµã×÷Îªleader£¬
-À´ÂÄĞĞÍ³Ò»ĞÅÏ¢·¢²¼µÄ¹¦ÄÜ
+Curatoræ¡†æ¶æä¾›äº†ä¸€å¥—åŸºäºZKçš„é€‰ä¸¾æ¥å£ï¼Œå¯ä»¥å¾ˆæ–¹ä¾¿åœ°å®Œæˆåœ¨clusterä¸­é€‰ä¸­ä¸€ä¸ªèŠ‚ç‚¹ä½œä¸ºleaderï¼Œ
+æ¥å±¥è¡Œç»Ÿä¸€ä¿¡æ¯å‘å¸ƒçš„åŠŸèƒ½
 ```java
 package example.curator.cluster;
 
@@ -135,7 +135,7 @@ public class LeaderElector extends LeaderSelectorListenerAdapter
 }
 ``` 
 
-¶¨ÒåclusterÊÂ¼ş¼àÌıÍ¨ÖªµÄ½Ó¿Ú
+å®šä¹‰clusteräº‹ä»¶ç›‘å¬é€šçŸ¥çš„æ¥å£
 ```java
 public interface ClusterEventListener {
     default public void memberUpdate(ClusterEvent event) {
@@ -146,7 +146,7 @@ public interface ClusterEventListener {
 }
 ```
 
-¶¨ÒåclusterÊÂ¼şÀàĞÍ
+å®šä¹‰clusteräº‹ä»¶ç±»å‹
 ```java
 public class ClusterEvent {
     public static enum EventType {
@@ -200,7 +200,7 @@ public class ClusterEvent {
 }
 ```
 
-¶¨Òåcluster serviceÌá¹©Ñ¡¾Ù·şÎñ
+å®šä¹‰cluster serviceæä¾›é€‰ä¸¾æœåŠ¡
 ```java
 public class ZKClusterService implements ClusterEventListener, NodeCacheListener {
     private static final String PORT = "2888";

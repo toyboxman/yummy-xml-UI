@@ -1124,6 +1124,7 @@ my cat is smart!
 
 # 使用当前命令的指定参数 !#:number
 # 用参数方式简化命令 cp /opt/db/mysql/data/file /opt/db/mysql/data/file.bak
+# 当前命令第1个参数 !#:1==/opt/db/mysql/data/file !#:1.bak==/opt/db/mysql/data/file.bak
 cp /opt/db/mysql/data/file !#:1.bak
 
 # 使用上一条命令的指定参数 !:number
@@ -1438,6 +1439,7 @@ check.sh:#send "show \n"
 
 # -E 启动搜索关键字的extended regular expression模式
 # 正则表达式pattern必须用单引号或双引号标记，否则无效
+# -s --no-messages 不提示不存在文件或不可读文件的错误信息
 $ grep -sE 'de.*' *
 check.sh:set host [lindex $argv 0]; 
 open.sh:set host [lindex $argv 0];

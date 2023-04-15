@@ -533,6 +533,7 @@ Kubernetes使用学习需要一些时间，安装配置一个集群需要琐屑�
     `ZooKeeper服务器迁移四步骤描述`
 + [中文版文档](https://linfan1.gitbooks.io/kubernetes-chinese-docs/content/index.html)
 + [Awesome-Kubernetes](https://ramitsurana.gitbooks.io/awesome-kubernetes/content/)
++ [Kubernetes 网络模型](https://mp.weixin.qq.com/s/r6fC2XdmdzT9uRx9vaGFng)
 
 ```sh
 root@ncpmaster:/home/pksadmin# kubectl describe pod coredns-fb8b8dccf-q78fl -n kube-system

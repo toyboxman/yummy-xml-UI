@@ -2,12 +2,11 @@ package king.law.trace.telemetry;
 
 import io.opentelemetry.api.OpenTelemetry;
 import io.opentelemetry.api.internal.OtelEncodingUtils;
-import io.opentelemetry.api.trace.Span;
-import io.opentelemetry.api.trace.SpanId;
-import io.opentelemetry.api.trace.TraceId;
-import io.opentelemetry.api.trace.Tracer;
+import io.opentelemetry.api.trace.*;
+import io.opentelemetry.context.Context;
 
 import java.time.Instant;
+import java.util.Random;
 
 import static king.law.trace.telemetry.TracerConfiguration.ExporterType.JaegerGrpcSpanExporter;
 
@@ -38,6 +37,41 @@ public class SpanIdentity {
         span.setAttribute("generated-spanId", SpanId.fromLong(long_spanId));
 
         span.end(Instant.now().plusSeconds(2));
+
+        Span span1 = tracer.spanBuilder("child-func-1").setParent(
+                Context.current().with(
+                        Span.wrap(span.getSpanContext())
+                )
+        ).startSpan();
+        span1.end(Instant.now().plusSeconds(1));
+
+        Random random = new Random();
+        // if flags = 0 , trace will not be sent out
+        byte flags = (byte) 1;
+        final String parentTraceId = TraceId.fromLongs(
+                random.nextLong(), random.nextLong());
+        final String parentSpanId = SpanId.fromLong(random.nextLong());
+        final TraceFlags parentTraceFlags = TraceFlags.fromByte(flags);
+        final TraceState parentTraceState = TraceState.builder().build();
+        SpanContext parent = SpanContext.create(
+                parentTraceId,
+                parentSpanId,
+                parentTraceFlags,
+                parentTraceState
+        );
+        Span span2 = tracer.spanBuilder("child-func-2")
+                .setParent(
+                        Context.current().with(
+                                Span.wrap(parent)))
+                .startSpan();
+        span2.end(Instant.now().plusSeconds(1));
+
+        Span span3 = tracer.spanBuilder("child-func-3")
+                .setParent(
+                        Context.current().with(
+                                Span.getInvalid()))
+                .startSpan();
+        span3.end(Instant.now().plusSeconds(1));
 
         System.out.println("bye");
     }

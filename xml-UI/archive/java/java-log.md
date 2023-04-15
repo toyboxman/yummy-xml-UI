@@ -2,41 +2,41 @@
 
 ## Ways to log setting
 
-+ [´úÂëÊµÏÖloggerÉè¶¨](#config-log-manually)
-+ [¹Ø±ÕËùÓĞlogÊä³ö](#close-all-log-output)
-+ [¹ıÂËlogÊä³ö](#filter-output)
-+ [ÍêÕûÊä³ölogÒì³£](#exception-output)
-+ [ÅäÖÃ slf4j(Simple Logging Facade)](#config-slf4j)
-+ [JavaÈÕÖ¾ÌåÏµ](https://mp.weixin.qq.com/s/b7onHI1vVsLoRF4UIpLlhQ)
-+ [Log4j2¸ßĞÔÄÜÈÕÖ¾¹¤¾ß](https://mp.weixin.qq.com/s/ktSqp1LiLLrJsyyD6JyD0g)
++ [ä»£ç å®ç°loggerè®¾å®š](#config-log-manually)
++ [å…³é—­æ‰€æœ‰logè¾“å‡º](#close-all-log-output)
++ [è¿‡æ»¤logè¾“å‡º](#filter-output)
++ [å®Œæ•´è¾“å‡ºlogå¼‚å¸¸](#exception-output)
++ [é…ç½® slf4j(Simple Logging Facade)](#config-slf4j)
++ [Javaæ—¥å¿—ä½“ç³»](https://mp.weixin.qq.com/s/b7onHI1vVsLoRF4UIpLlhQ)
++ [Log4j2é«˜æ€§èƒ½æ—¥å¿—å·¥å…·](https://mp.weixin.qq.com/s/ktSqp1LiLLrJsyyD6JyD0g)
 
 ### config log manually
-³£³£Ê¹ÓÃÒ»Ğ©µÚÈı·½¿âµÄÊ±ºò£¬ÎŞ·¨ÅäÖÃLogger¡£µ«ÓÖĞèÒªÒÀÀµÈÕÖ¾À´¸ú×Ù³ÌĞò£¬´ËÊ±¿ÉÒÔÍ¨¹ıreflect·½Ê½À´ÊµÏÖ
+å¸¸å¸¸ä½¿ç”¨ä¸€äº›ç¬¬ä¸‰æ–¹åº“çš„æ—¶å€™ï¼Œæ— æ³•é…ç½®Loggerã€‚ä½†åˆéœ€è¦ä¾èµ–æ—¥å¿—æ¥è·Ÿè¸ªç¨‹åºï¼Œæ­¤æ—¶å¯ä»¥é€šè¿‡reflectæ–¹å¼æ¥å®ç°
 ```java
 class A {
    private static final Logger logger = Logger.getLogger(A.class);
    ....
 }
 ``` 
-µ±µ÷ÓÃAµÄ·½·¨µÄÊ±ºò£¬Èç¹ûÃ»ÓĞÅäÖÃloggerµÄconfiguration file£¬logger¾ÍÎŞ·¨Õı³£Êä³ö¡£
-¿ÉÒÔÍ¨¹ıĞŞ¸ÄAµÄprivate field£¬À´ÅäÖÃÕıÈ·µÄlogger¡£
+å½“è°ƒç”¨Açš„æ–¹æ³•çš„æ—¶å€™ï¼Œå¦‚æœæ²¡æœ‰é…ç½®loggerçš„configuration fileï¼Œloggerå°±æ— æ³•æ­£å¸¸è¾“å‡ºã€‚
+å¯ä»¥é€šè¿‡ä¿®æ”¹Açš„private fieldï¼Œæ¥é…ç½®æ­£ç¡®çš„loggerã€‚
 ```java 
 private void addLogger(Class res) throws NoSuchFieldException,
             IllegalAccessException {
-        //Ä¬ÈÏ¼ÓÉÏLog4JµÄappender
+        //é»˜è®¤åŠ ä¸ŠLog4Jçš„appender
         ConsoleAppender appender = new ConsoleAppender(new PatternLayout());
-        //ÕÒµ½loggerµÄfield
+        //æ‰¾åˆ°loggerçš„field
         Field field = res.getDeclaredField("logger");
-        //privateµÄfieldÄ¬ÈÏÊÇ½ûÖ¹·ÃÎÊµÄ£¬Òò´ËĞèÒªÊ¹ÄÜ·ÃÎÊ
+        //privateçš„fieldé»˜è®¤æ˜¯ç¦æ­¢è®¿é—®çš„ï¼Œå› æ­¤éœ€è¦ä½¿èƒ½è®¿é—®
         field.setAccessible(true);
-        //»ñÈ¡´ËfieldµÄvalue
+        //è·å–æ­¤fieldçš„value
         Logger logger = (Logger) field.get(res);
         logger.addAppender(appender);
         logger.setLevel(Level.ALL);
 }
 ```
 ### close all log output
-ÓĞÊ±ºòlog4jÒ²»áÊä³ö¹ı¶àÈÕÖ¾£¬¿ÉÒÔÍ¨¹ıĞ¡¼¼ÇÉ¹Ø±ÕÊä³ö
+æœ‰æ—¶å€™log4jä¹Ÿä¼šè¾“å‡ºè¿‡å¤šæ—¥å¿—ï¼Œå¯ä»¥é€šè¿‡å°æŠ€å·§å…³é—­è¾“å‡º
 ```java
 #disable log4j output
 List<Logger> loggers = Collections.list(LogManager.getCurrentLoggers());
@@ -50,7 +50,7 @@ logger.setLevel(Level.OFF);
 ```
 
 ### filter output
-ÓĞÊ±ºòÏ£Íû×Ô¼º¿ØÖÆconsoleÊä³ö£¬¿ÉÒÔÊµÏÖSystemÀàµÄoutputsteam
+æœ‰æ—¶å€™å¸Œæœ›è‡ªå·±æ§åˆ¶consoleè¾“å‡ºï¼Œå¯ä»¥å®ç°Systemç±»çš„outputsteam
 ```java
 #filter output including 'springframework'
 static class ConsoleOutputStream extends PrintStream {
@@ -72,12 +72,12 @@ System.setOut(new ConsoleOutputStream(System.out));
 ```
 
 ### exception output
-ÓĞÊ±¼ÇÂ¼Òì³£ĞÅÏ¢Ê±ºò exception.toString()·½·¨Ö»ÄÜ·µ»Ø»ù±¾ĞÅÏ¢£¬ÎŞ·¨¸ø³öÍêÕûtrace stackĞÅÏ¢¡£ 
+æœ‰æ—¶è®°å½•å¼‚å¸¸ä¿¡æ¯æ—¶å€™ exception.toString()æ–¹æ³•åªèƒ½è¿”å›åŸºæœ¬ä¿¡æ¯ï¼Œæ— æ³•ç»™å‡ºå®Œæ•´trace stackä¿¡æ¯ã€‚ 
 
-¶ø e.printStackTrace()¿ÉÒÔ½«stackĞÅÏ¢Êä³öµ½System.err,µ«ÊÇ·µ»Øvoid²»ÄÜ¸ø³östring¡£ Òò´ËĞèÒªÊÖ¶¯´¦ÀíexceptionµÄstackĞÅÏ¢
+è€Œ e.printStackTrace()å¯ä»¥å°†stackä¿¡æ¯è¾“å‡ºåˆ°System.err,ä½†æ˜¯è¿”å›voidä¸èƒ½ç»™å‡ºstringã€‚ å› æ­¤éœ€è¦æ‰‹åŠ¨å¤„ç†exceptionçš„stackä¿¡æ¯
 ```java
-# apacheµÄcommons-lang3-3.5.jar!ExceptionUtils.getStackTrace()
-# ¿ÉÒÔ·µ»ØÍêÕûµÄstack stringĞÅÏ¢
+# apacheçš„commons-lang3-3.5.jar!ExceptionUtils.getStackTrace()
+# å¯ä»¥è¿”å›å®Œæ•´çš„stack stringä¿¡æ¯
 public static String getStackTrace(Throwable throwable) {
     StringWriter sw = new StringWriter();
     PrintWriter pw = new PrintWriter(sw, true);
@@ -87,13 +87,13 @@ public static String getStackTrace(Throwable throwable) {
 ```
 
 ### config slf4j
-ºÜ¶à¹¤³Ì¶¼ÊÇÓÃslf4jÀ´wrap²»Í¬µÄlogÊµÏÖlib£¬¾­³£Åöµ½ÈçÏÂÆô¶¯ÌáÊ¾£¬Õâ¸ö±íÃ÷µ±Ç°runtimeÃ»ÓĞÖ¸¶¨Ò»¸öÊµÏÖ¿â
+å¾ˆå¤šå·¥ç¨‹éƒ½æ˜¯ç”¨slf4jæ¥wrapä¸åŒçš„logå®ç°libï¼Œç»å¸¸ç¢°åˆ°å¦‚ä¸‹å¯åŠ¨æç¤ºï¼Œè¿™ä¸ªè¡¨æ˜å½“å‰runtimeæ²¡æœ‰æŒ‡å®šä¸€ä¸ªå®ç°åº“
 ```console
 SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
 ```
-Òò´ËĞèÒªÔÚ¹¤³ÌÎÄ¼ş¼ÓÒÀÀµ¿â£¬»òÕßÔÚclasspathÖĞ¼ÓÈëlib
+å› æ­¤éœ€è¦åœ¨å·¥ç¨‹æ–‡ä»¶åŠ ä¾èµ–åº“ï¼Œæˆ–è€…åœ¨classpathä¸­åŠ å…¥lib
 ```xml
 <properties>
     <java.version>1.8</java.version>
@@ -111,15 +111,15 @@ SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
     <artifactId>slf4j-api</artifactId>
     <version>${slf4j.version}</version>
 </dependency>
-<!-- Ò»´ÎÖ»ÄÜÅäÖÃÒ»ÖÖÀàĞÍprovider£¬±ÈÈçsimple£¯log4j -->
-<!-- Èç¹û²»Ö¸¶¨Ò»¸öprovider£¬¾Í»áÄ¬ÈÏÊ¹ÓÃ no-operation (NOP)£¬ÎŞÊä³ö -->
-<!-- Èç¹ûÊ¹ÓÃ¼òµ¥ÅäÖÃÎÄ¼ş£¬¿ÉÒÔÔö¼Óslf4j-simple providerÒÀÀµ -->
+<!-- ä¸€æ¬¡åªèƒ½é…ç½®ä¸€ç§ç±»å‹providerï¼Œæ¯”å¦‚simpleï¼log4j -->
+<!-- å¦‚æœä¸æŒ‡å®šä¸€ä¸ªproviderï¼Œå°±ä¼šé»˜è®¤ä½¿ç”¨ no-operation (NOP)ï¼Œæ— è¾“å‡º -->
+<!-- å¦‚æœä½¿ç”¨ç®€å•é…ç½®æ–‡ä»¶ï¼Œå¯ä»¥å¢åŠ slf4j-simple providerä¾èµ– -->
 <dependency>
     <groupId>org.slf4j</groupId>
     <artifactId>slf4j-simple</artifactId>
     <version>${slf4j.version}</version>
 </dependency>
-<!-- Èç¹ûÊ¹ÓÃlog4jµÄÅäÖÃ£¬Ôö¼Óslf4j-log4j12 providerÒÀÀµ -->
+<!-- å¦‚æœä½¿ç”¨log4jçš„é…ç½®ï¼Œå¢åŠ slf4j-log4j12 providerä¾èµ– -->
 <dependency>
     <groupId>org.slf4j</groupId>
     <artifactId>slf4j-log4j12</artifactId>
@@ -131,7 +131,7 @@ SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
     <version>1.2.17</version>
 </dependency>
 ```
-Èç¹ûÊ¹ÓÃslf4j¼òµ¥ÅäÖÃ·½Ê½£¬Ö»ĞèÒªÔÚ¹¤³ÌÄ¿Â¼ÖĞÔö¼Ósrc/main/resources/simplelogger.properties£¬²»ĞèÒªÖ¸¶¨ÈÎºÎ²ÎÊı£¬ÔËĞĞÊ±»á×Ô¶¯¶ÁÈ¡£¬ÅäÖÃÈçÏÂ
+å¦‚æœä½¿ç”¨slf4jç®€å•é…ç½®æ–¹å¼ï¼Œåªéœ€è¦åœ¨å·¥ç¨‹ç›®å½•ä¸­å¢åŠ src/main/resources/simplelogger.propertiesï¼Œä¸éœ€è¦æŒ‡å®šä»»ä½•å‚æ•°ï¼Œè¿è¡Œæ—¶ä¼šè‡ªåŠ¨è¯»å–ï¼Œé…ç½®å¦‚ä¸‹
 ```console
 #org.slf4j.simpleLogger.defaultLogLevel=debug
 org.slf4j.simpleLogger.showDateTime = true
@@ -140,7 +140,7 @@ org.slf4j.simpleLogger.showThreadName=true
 org.slf4j.simpleLogger.log.com.github.kpavlov.jreactive8583=debug
 org.slf4j.simpleLogger.log.com.github.kpavlov.jreactive8583.netty.pipeline.CompositeIsoMessageHandler=info
 ```
-Èç¹ûÊ¹ÓÃlog4jÅäÖÃÀ´¹ÜÀílog²úÉú·½Ê½£¬ĞèÒª×¼±¸ÈçÏÂÅäÖÃÎÄ¼ş
+å¦‚æœä½¿ç”¨log4jé…ç½®æ¥ç®¡ç†logäº§ç”Ÿæ–¹å¼ï¼Œéœ€è¦å‡†å¤‡å¦‚ä¸‹é…ç½®æ–‡ä»¶
 ```console
 log4j.rootLogger=debug, stdout, R
 
@@ -160,7 +160,7 @@ log4j.appender.R.MaxBackupIndex=1
 log4j.appender.R.layout=org.apache.log4j.PatternLayout
 log4j.appender.R.layout.ConversionPattern=%p %t %c - %m%n
 ```
-Æô¶¯Ó¦ÓÃÊ±ºò¼ÓÉÏ²ÎÊı
+å¯åŠ¨åº”ç”¨æ—¶å€™åŠ ä¸Šå‚æ•°
 ```console
 -Dlog4j.debug=true -Dlog4j.configuration=file:///home/king/source/github/java-opentracing-walkthrough/microdonuts/log4j.properties
 ```
