@@ -161,4 +161,208 @@ The Europeans are pretty openly sending the signal that they’re not willing to
 欧洲人相当公开地发出了一个信号，他们不愿意对中国发动经济战，我觉得，美国政府认为一旦发生冲突，欧洲人会支持我们，但是这种事不会发生。
 
 A Chinese court on Friday sentenced six people to prison for human trafficking and abuse of a woman found chained to a wall in a shack last year, in a case that has provoked public outrage, dealt a blow to government credibility, and reopened debate about the status of women in China. She had shown signs of mental illness even before being trafficked; after she was discovered last year, she was found to have schizophrenia and hospitalized, according to officials.
-周五，中国一法院以拐卖妇女和虐待罪对六人判处有期徒刑，该案中，一名受到虐待的女子去年被人发现拴在一间破屋的墙上。此案激起公愤，打击了政府公信力，再次引发了国内关于妇女地位的辩论。甚至在被拐卖之前，她就已经表现出精神疾病的迹象；据官
+周五，中国一法院以拐卖妇女和虐待罪对六人判处有期徒刑，该案中，一名受到虐待的女子去年被人发现拴在一间破屋的墙上。此案激起公愤，打击了政府公信力，再次引发了国内关于妇女地位的辩论。甚至在被拐卖之前，她就已经表现出精神疾病的迹象
+
+Unlike lithium batteries, the latest sodium batteries do not require scarce materials like cobalt, a mineral mined mainly in Africa under conditions that have alarmed human rights groups. The newest sodium batteries also do not require nickel, which comes mainly from mines in Indonesia, Russia and the Philippines. With minimal natural reserves of soda ash and a reluctance to rely on imports from the United States, China instead produces synthetic soda ash at chemical plants fueled by coal.
+与锂电池不同，最新的钠电池无需用上钴这样的稀缺原料，这种矿物质主要在非洲开采，其开采条件令许多人权组织深感担忧。新一代钠电池也不需要镍，后者主要产自印尼、俄罗斯和菲律宾的矿场。由于纯碱的自然储量稀少，加之不愿依赖美国进口，中国在以煤为燃料的化工厂生产合成纯碱。
+
+President Emmanuel Macron landed in China to a red-carpet reception and all the pomp of a state visit, a three-day tour little short of a love-fest that he clearly hoped would further his ambitions for France to sit at the table of the great powers in a world changed by Russia’s invasion of Ukraine and Beijing’s emergence as an arbiter of global conflict. But Mr. Macron’s reception on returning to Europe has been chilly.
+法国总统马克龙在中国受到了隆重接待和国事访问该有的所有礼遇，为期三天的访问简直可以说是一场“定情盛宴”，他显然希望这能进一步推动他让法国坐上世界大国谈判桌的雄心。由于俄罗斯入侵乌克兰、北京崛起成为全球冲突的仲裁者，眼下的世界格局已经发生了改变。但马克龙回到欧洲后受到了冷遇。
+
+By Tuesday the Élysée Palace, home to the president, felt it necessary to clarify France’s allegiances, so muddied had the optics become. France, it said, “is not equidistant between the United States and China. The United States is our ally, with shared values.”
+一石激起千层浪，到周二，爱丽舍宫觉得有必要澄清法国究竟是站在哪一边的。它说，法国“与美中之间的距离并不相等，美国是我们的盟友，有着共同的价值观”。
+
+She said the panda had a genetic condition that affected her immune system and made her fur look patchy. And at 190 pounds, she said, Ya Ya is naturally on the smaller side.The report also said she had lost weight since experiencing a “phantom pregnancy” in 2021.
+她说，这只熊猫的遗传病影响了她的免疫系统，使她的皮毛看起来不好。而86公斤的丫丫本身就属于身材偏小。报道还称，自从2021年经历“假孕”后，她的体重有所下降。
+
+As Washington seeks to throttle economic ties with Beijing, two powerful engines of the German economy, Volkswagen and the chemical company BASF, are broadening their huge Chinese investments.
+华盛顿寻求斩断与北京的经济联系之际，德国经济的两个强大引擎——大众汽车和化工公司巴斯夫正在扩大对华巨额投资。
+
+On Tuesday, the I.M.F. expressed optimism that a financial crisis could be averted, but it lamented that inflation was still elevated and that the global economy remained fragile, facing a “rocky” road ahead. It suggested that a so-called hard landing, which could entail economies around the world tipping into recession, was increasingly plausible.The I.M.F. made a small upgrade to its projection for U.S. output, which is now expected to be 1.6 percent for 2023.
+周二，IMF表示对于可以避免金融危机持乐观态度，但遗憾的是通胀仍在高位，全球经济依然脆弱，前路“坎坷”。它表明所谓的硬着陆越来越有可能导致世界各地的经济陷入衰退。IMF小幅上调了对美国产出的预测，目前预计2023年为1.6%。
+
+But the case raises broader questions about whether the term “top secret” is actually even secret, and whether national security agencies have allowed their sensitive material to drift too far afield. On Thursday, the Pentagon was reeling from the possibility that the leaker may have been far from the higher echelons of military intelligence and sensitive national security data.
+但此案引发的更大质疑是，“绝密”一词是否还能代表机密，以及国家安全机构是否对涉密权限的管理过于宽松。周四，五角大楼对于泄密者可能远非一个可以接触军事情报和敏感国家安全数据的更高级别人士而深感震惊。
+
+There’s the obvious question of why someone in this relatively low rank and rather obscure corner of the military, namely the Massachusetts Air National Guard, could have access to not only some of the nation’s most critical secrets, but such an extraordinary array of them, which could have no possible bearing on his job. Two major changes in how intelligence was handled in the past helped set the stage for the most recent leaks.
+显而易见的问题是，在马萨诸塞州空军国民警卫队这种级别相对较低、在军方也相当不起眼的部门，为什么有人不仅能接触到一些最重要的国家机密，还如此海量，而且这些机密与他的职责可能没有任何关系.以往情报处理的两个重大变化为最近这次泄密事件埋下了伏笔。
+
+We’ve gone so overboard and made it so convenient and easy for a wide range of people to have access precisely because we never want to be in a position of saying we could have prevented something, if only we had shared this information,We have a principle of making information available only on a ‘need to know’ basis, but in practice we don’t really follow it.
+我们做得太过头，让各种各样的人接触材料变得如此方便和容易，就因为我们永远不想处于这样的境地——觉得如果当初早点分享这些信息，本来是可以阻止某件事情发生的，我们有一个原则，即仅在‘必需知晓’的基础上提供信息，但实际上，我们并没有真正遵守这个原则。
+
+The job-changing trend has revived a debate about the futility of the rat race. Two years ago, a similar call to quit work and enjoy life, dubbed “lying flat,” spread widely online. Critics accused adherents of wasting their parents’ investment and abandoning the industriousness that helped build China into a superpower. But others blamed a values system that had prioritized one, consumerist path to success, for their disenchantment.
+换工作的趋势重新引发了关于激烈竞争是否徒劳无益的争论。两年前，网上广泛流传过被称为“躺平”的类似号召，意思是让人们辞去工作、享受生活。批评者指责那样做的人浪费了父母在他们身上的投入，放弃了帮助中国成为超级大国的勤奋努力。但其他人则将他们幻想破灭的原因归咎于一个优先考虑消费主义成功之路的价值体系。
+
+Last fall, she quit. She now works at a coffee shop in her hometown Shenyang, in northeastern China, making one-fifth of her previous salary. She is living with her parents and earning extra money through freelance illustrating, a hobby she’d given up in Beijing.
+去年秋天，她辞了职。她目前在东北老家沈阳的一家咖啡店工作，收入是以前的五分之一。她住在父母家，并担任自由插画师挣点外快，画画是她在北京时放弃的爱好。
+
+In the summer of 1914, few wanted war or thought a major war was possible. My grandparents were married that spring in Lviv, Austria-Hungary, and I look at their giddy wedding photos and realize they had no clue that a cataclysm would soon erase their country, shatter their lives and eventually send a branch of the family fleeing to the New World.
+在1914年夏天，几乎没有人想要战争，也没有人认为会发生一场大战。那年春天，我的祖父母在奥匈帝国的利沃夫举行了婚礼，我看着结婚照上他们兴高采烈的样子，意识到他们并不知道，一场灾难很快就会抹去他们的国家，粉碎他们的生活，并最终让家族的一支逃往新世界。
+
+Next to one of Suzhou’s iconic canals lined with weeping willows sits a repair shop for tabletop electric motors. The shop has long supplied the many small workshops nearby that make nails and screws for the city’s huge industrial sector.
+在苏州一条垂柳成行的标志性运河旁，有一家台式电机维修店。长期以来，这家店一直为附近的许多小厂提供服务，这些厂为该市庞大的工业部门生产钉子和螺丝。
+
+Multinational companies including Volkswagen and G.M. had introduced electric cars that looked like their gasoline-powered models, with the hope of achieving a gradual transition. But Chinese consumers have gravitated instead toward the flashiest electric car exteriors and interiors available. Mr. Cao, the Porsche enthusiast, dismisses most designs of multinational automakers as dull.
+包括大众汽车和通用汽车在内的跨国公司已推出了外观与它们的燃油车型相似的电动车，希望实现逐步过渡。但中国消费者们青睐更炫酷的电动车外观和内饰。保时捷爱好者曹先生认为，跨国车企的大多数设计乏味、沉闷。
+
+A Chinese worker on a dam project in northern Pakistan has been arrested and imprisoned on accusations of blasphemy, in a rare case of a foreigner being swept up in Pakistan’s harsh and controversial blasphemy laws.
+在巴基斯坦北部某水电站项目工作的一名中国员工因涉嫌亵渎罪被捕入狱，在巴基斯坦，外国人卷入该国严厉且有争议的亵渎法实属罕见。
+
+“I always say the proof of the pudding is in the eating,” Ms. Georgieva said. To restructure a country’s debt, creditors generally must agree to a combination of lowering the interest rate on the loan, extending the duration of the loan or writing off some of what is owed. The urgency for a resolution was palpable among countries that are most in need of relief. 
+“我常说一句话，那就是实践出真知，”格奥尔基耶娃说。一般来说，如果要进行国家债务重组，债权人必须同意降低贷款利率、延长贷款期限或取消部分债务。对于最需要缓解债务负担的国家，拿出解决方案的紧迫性显而易见。
+
+Ghana appealed to the Group of 20 nations this year for debt relief through a fledgling program known as the Common Framework after securing preliminary approval for a $3 billion loan from the I.M.F. That money is contingent on Ghana’s receiving assurances that it can restructure the approximately $30 billion that it owes to foreign lenders. 
+今年，加纳通过“共同框架”这一新项目向20国集团提出了债务减免申请，此前，加纳向国际货币基金组织提出的30亿美元贷款已获得初步批准。这笔贷款的发放取决于加纳能否得到保证，重组其欠外国贷款机构的约300亿美元债务。
+
+On Friday, Ghana’s finance minister, Ken Ofori-Atta, lamented that 33 African nations were saddled with interest payments that approached or exceeded what their governments spent on health and education and expressed disappointment that advanced economies had been slow to act.
+周五，对于33个非洲国家的利息支出接近或超过其政府的医疗教育支出这一事实，加纳财长肯·奥福里-阿塔深感遗憾，他也对迟迟未能拿出行动的发达经济体表示失望。
+
+Chaos engulfed Sudan on Saturday as forces led by two rival generals engaged in ferocious battles for the capital, Khartoum, and other parts of the country, with both sides fighting for control of the presidential palace, the main airport and other key sites. The eruption of violence dashed hopes that military leaders would cede power to a democratic government led by civilians.
+周六，苏丹陷入混乱，两名敌对将军率领的部队为夺取首都喀土穆和该国其他地区展开激烈战斗，双方争夺总统府、主要机场和其他重要地点的控制权。暴力事件使得军方领导人将权力移交给文职民主政府这一希望破灭。
+
+Soldiers often patrolled beaches, toting rifles with shining bayonets, and islands near China’s coast were heavily mined. We were warned that Communist frogmen might swim ashore with camouflage-painted faces and knives between their teeth.
+士兵们经常背着配有闪亮刺刀的步枪在海滩上巡逻，中国那一侧海岸附近的岛屿布满了地雷。我们被警告说，脸涂迷彩、口中衔刀的中共蛙人可能会游上岸来。
+
+Our character is perhaps best exemplified away from the political noise of Taipei, in rural farming areas and fishing villages where people are prone to laughter, giving generous gifts of their produce and issuing spontaneous dinner invitations.
+最能体现我们性格的，也许是在乡村的农耕地区和渔村，那里远离台北的政治喧嚣，人们总在欢笑，慷慨地送出自家土产，经常主动请客人回家吃晚饭。
+
+On the ruggedly beautiful east coast of Taiwan where I have a home, Pacific Ocean waves crash on the rocky shore, fruit trees ripen in the sun, and the pace of life has changed little over the decades. When the fighter jets fly overhead, you know what we farmers do? We bend down and keep tilling the land.
+我在台湾崎岖美丽的东海岸有一个住所，太平洋的海浪拍打着岩岸，果树在阳光下成熟，几十年来生活的节奏几乎没怎么变过。当战斗机从头顶飞过时，你知道我们农民会干什么吗？我们弯腰继续耕种土地。
+
+Mr. Blinken said at a news conference after three days of Group of 7 meetings that the coalition “from the get-go has led the world in galvanizing and sustaining support for Ukraine,” and that its members “stand with Ukraine” as the besieged country prepares for an important counteroffensive against Russia.
+布林肯在为期三天的七国集团外长会议后举行的记者会上表示，七国集团“从一开始就在激发和保持对乌克兰的支持上领导着世界”，在被围困的乌克兰准备对俄罗斯发起重大反攻的时候，七国集团成员国“与乌克兰站在一起”。
+
+The G7 foreign ministers’ meeting has grossly interfered in China’s internal affairs and maliciously smeared and discredited China, The communiqué is full of arrogance and prejudice with the intention of harming China. We deplore and reject this.
+七国集团外长会粗暴干涉中国内政，恶意污蔑抹黑中国，有关声明字里行间充斥着傲慢、偏见和反华遏华的险恶用心。中方对此表示强烈不满和坚决反对。
+
+Chinese authorities said they have arrested a dozen people in connection with a hospital fire in Beijing that has claimed the lives of at least 29 victims, attributing the blaze to possible negligence after sparks from internal construction ignited flammable paint. Dozens of patients were evacuated, but by early evening 21 people had died, apparently from the flames and dense smoke.
+已逮捕了与医院火灾有关的十几个人，这场火灾已夺走至少29人的生命。当局将火灾归因于内部施工产生的火花引燃可燃涂料后可能的疏忽。数十名患者被疏散，但截至傍晚时分，已有21人死亡，显然死于大火与浓烟。
+
+This fire is heart-rending, and its lessons are utterly profound, This is a warning bell for us, reminding us that there cannot be the least slackening in work safety.
+这次火灾令人痛心，教训极其深刻，为我们敲响警钟，提醒我们安全生产这根弦须臾不能松，消除火灾隐患一刻不能停。
+
+A cutthroat price war has erupted in the world’s largest automobile market. Amid slumping auto sales, car brands are going to extremes to stay competitive, offering dealership giveaways and deep discounts. Car companies and dealerships are now pulling out all the stops for customers. Some dealers are offering free vacations or bottles of perfume in exchange for test drives, while some eager sales teams are stalking charging stations in hopes of luring drivers away from the competition. The rat race is really intense now
+一场残酷的价格战在全球最大的汽车市场爆发。在汽车销量下滑的情况下，车企为了保持竞争力正在采取极端措施，经销商纷纷提供赠品和大幅折扣。车企和经销商现在正在使出浑身解数吸引客户。一些经销商赠送免费度假或香水来吸引试驾，而一些热切的销售团队则在充电站寻找客户，希望吸引车主远离竞争对手。现在内卷很严重
+
+There are similarities between the frothy E.V. market in China and the early days of the smartphone boom, when a new technology product attracted scores of upstarts to jostle with established foreign brands. In 2015, there were more than 100 Chinese smartphone manufacturers — a number that has been whittled down significantly to four main domestic brands and Apple.
+中国充满泡沫的电动车市场与智能手机热潮的早期不无相似之处，当时后者作为一种新技术产品，吸引了数十家后起之秀与老牌外国品牌展开竞争。2015年，中国智能手机制造商超过100家——这一数字已大幅减少，现在仅剩下四大国产品牌和苹果。
+
+Some executives fear that consumers will become accustomed to waiting for price reductions. The China Automobile Dealers Association said last month that foot traffic to dealerships had soared after markdowns, but that orders had decreased. For traditional gas-powered automakers, cutting prices is their last resort in trying to secure market share
+一些高管担心，消费者会习惯观望。中国汽车流通协会上个月表示，在降价促销后，经销商的客流量飙升，但订单却减少了。对于传统的燃油动力车制造商来说，降价是他们试图稳住市场份额的最后手段。
+
+China’s consumers, while wary of big-ticket purchases like cars or apartments, are spending again. Retail sales, a barometer of consumers’ willingness to spend, jumped 10.6 percent in March from a year earlier despite a slump in car sales. The quarterly growth is beginning to show a hoped-for healthy rebound, A very decent 4.5 percent year-over-year growth pace at this early stage of the reopening also provides the space for authorities to provide support to weaker segments of the economy as needed.
+中国消费者虽然对汽车或公寓等大件商品持谨慎态度，但他们又开始消费了。作为消费者消费意愿晴雨表的零售销售额在3月较去年同期增长10.6%，尽管汽车销量出现下滑。季度增长开始显示出人们期待的健康反弹，在这个重新开放的早期阶段，4.5%的同比增长速度非常不错，这也为当局提供了必要的空间，使其能根据需要，为经济中较弱的部门提供支持。
+
+F.B.I. counterintelligence agents searched the police outpost, located on the third floor of a nondescript glass-sheathed building at 107 East Broadway, as part of their investigation last fall. The six-story office building, on a bustling street on the edge of Chinatown in Lower Manhattan lined with restaurants, seafood shops, electronics stores and other businesses, also houses an acupuncturist, an engineering company and an accounting firm.
+作为去年秋天调查的一部分，联邦调查局反间谍特工搜查了位于东百老汇107号一栋普通玻璃幕墙建筑三楼的警务站。这栋六层楼高的写字楼位于曼哈顿下城华埠边缘的一条繁华街道上，两旁林立着餐馆、海鲜店、电子产品商店和其他企业，还有一家针灸馆、一家工程公司和一家会计师事务所。
+
+Chinese brands have adopted unusual electric car designs while foreign companies and their Chinese joint ventures have played it safe. The wheels are nearly at the corners of the Chinese brand cars, an architecture that also allows more room for batteries under the floor in the middle. Nio and Xpeng have chosen sleek designs, while Changan, based in western China, is making cars so rectangular that they look faintly Cubist. Some of that comes from the freedom from legacy
+当外国公司及其中国合资企业则趋于保守时，中国品牌采用了不同寻常的电动汽车设计。中国品牌的汽车车轮位置几乎移到了四角，这种架构还可以为中间底板下的电池留出更多空间。蔚来和小鹏选择了流线型的设计，而总部位于中国西部的长安汽车的汽车设计方方正正，甚至看起来有点立体主义。其中一些是因为它们不受传统的羁绊。
+
+Toyota has a vested interest in questioning the availability of lithium. It owns many key patents for hybrid cars, and has emphasized them over entirely electric cars that require far more lithium. 
+质疑锂的可用性是符合丰田既得利益的。它拥有许多混合动力汽车的关键专利，并且更重视混合动力车，而不是需要更多锂的纯电动汽车。
+
+After the fire on Tuesday in Beijing, public safety officials across China conducted impromptu inspections of hospitals and elder-care facilities late into the night to ensure that evacuation routes were not obstructed, according to local media reports.
+据当地媒体报道，周二北京发生火灾后，中国各地的公共安全官员对医院和养老机构进行突击检查直到深夜，以确保疏散路线的畅通。
+
+China’s top leader, Xi Jinping, has rolled out the red carpet for President Luiz Inácio Lula da Silva of Brazil, lauding him as “an old friend of the Chinese people.” He has sipped tea in a garden with President Emmanuel Macron of France, treating him to a performance of an ancient Chinese zither. And he has talked on the phone with Crown Prince Mohammed bin Salman, Saudi Arabia’s de facto ruler, offering well wishes for the Muslim holy month of Ramadan.
+中国最高领导人习近平为巴西总统卢拉铺开了红地毯，称赞他是“中国人民的老朋友”。他与法国总统马克龙在花园里喝茶，请马克龙听中国古琴演奏。他还与沙特阿拉伯事实上的统治者穆罕默德·本·萨勒曼王储通电话，表达对穆斯林斋月的良好祝愿。
+
+To Chinese officials, American pleas for renewed diplomatic engagement — including a long-awaited call between Mr. Biden and Mr. Xi — ring hollow in the face of what they view as rising hostility and provocations. High-level talks can only proceed after the United States has demonstrated “credible sincerity with concrete actions,” Chinese state media said last week.
+在中国官员眼里，美国提出的重新进行外交接触的请求——包括拜登与习近平之间期待已久的通话——显得空洞，因为他们认为，他们看到的是不断上升的敌意和挑衅。中国官媒上周称，只有在美国以实际行动表现出“可信的诚意”后，高层会谈才能进行。
+
+China supported a healthy and mutually beneficial relationship with the United States. He added that “China does not shy away or flinch from competition” but opposes a broadening of national security concerns in trade and any potential threats to global supply chains.
+中国支持与美国建立健康互利的关系。他还说，“中国不会回避竞争或在竞争面前退缩”，但反对在贸易中加剧国家安全担忧以及对全球供应链的任何潜在威胁。
+
+China entered the nuclear club in October 1964, with a nuclear test at Lop Nor that the Kennedy and Johnson administration briefly gave thought to sabotaging.But Mao Zedong adopted a “minimum deterrent” strategy, dismissing the Cold War arms race as a phenomenal waste of money. 
+中国于1964年10月在罗布泊进行了核试验，加入核俱乐部，肯尼迪和约翰逊政府一度考虑破坏这些试验。但毛泽东采取“最小威慑”战略，将冷战时期的军备竞赛视为一种惊人的浪费。
+
+I just returned from visiting China for the first time since Covid struck. Being back in Beijing was a reminder of my first rule of journalism: If you don’t go, you don’t know. That’s one of the many reasons I found it helpful to be back in Beijing and to be able to observe China again through a larger aperture than a pinhole. 
+我刚刚结束了自新冠疫情以来的首次中国之行。重回北京让我想起了自己作为媒体人的首要原则：耳听为虚，眼见为实。对我来说，这就是回到北京，用比管中窥豹更大的视角观察中国会有所助益的原因之一。
+
+Truth be told, both countries have so demonized the other of late that it is easy to forget how much we have in common as people. I can’t think of any major nation after the United States with more of a Protestant work ethic and naturally capitalist population than China.
+说实话，美中两国如今都把对方过于妖魔化，以至于轻易就能忘记作为人民，我们有多少共同点。除了美国，我想不出还有哪个大国在埋头苦干精神和资本主义的天性上比得了中国。
+
+For an American to fly from New York’s J.F.K. into Beijing Capital International Airport today is to fly from an overcrowded bus terminal to a Disney-like Tomorrowland. It makes me weep for all the time we have wasted these past eight years talking about a faux nation builder named Donald Trump.
+今时今日，对于一个从纽约肯尼迪机场飞抵北京首都机场的美国人来说，这种体验就像从拥挤的公交总站飞入迪士尼的明日世界。想到过去八年我们在那个名叫唐纳德·特朗普的冒牌国家建设者身上浪费了那么多时间，我就心酸不已。
+
+Let me try to peel back the layers. The erosion in U.S.-China relations is a result of something old and obvious — a traditional great-power rivalry between an incumbent power (us) and a rising power (China) — but with lots of new twists that are not always visible to the naked eye.
+请让我试着剥茧抽丝。导致美中关系恶化的原因由来已久、显而易见，这是一个老牌强国（我们）与新兴强国（中国）之间的传统大国竞争，但其中也有许多新的转变，是常人并不总能察觉的。
+
+Ditto China. For several thousand years China saw itself as situated in the middle of the world — hence it referred to itself as Zhong Guo, the Middle Kingdom — protected by mountains, deserts and seas on all sides, and often dominating states around it, while fiercely preserving its own culture. That was until the 19th century, when it began to be repeatedly ravaged by stronger foreign powers: Britain, France, Russia and Japan.
+中国亦是如此。几千年来，中国自认地处世界中心（因此才有“中国”之称），四面受山峦、沙漠和海洋的保护，周围的国家往往臣服于它，同时，它又无比重视自身文化的赓续。直到19世纪，中国开始不断遭受更强大的外国势力的蹂躏：英国、法国、俄罗斯和日本。
+
+And by the way, in today’s fused world, the notion that China can economically collapse and America still thrive is utter fantasy. And the notion that the Europeans will always be with us in such an endeavor, given the size of China’s market, may also be fanciful. Note French President Emmanuel Macron’s bowing and scraping in Beijing last week.
+顺带一提，在当今这个融合世界，认为中国经济崩溃而美国依然能繁荣的想法根本是天方夜谭。考虑到中国市场的规模，认为欧洲人会在这件事上一直支持我们大概也是异想天开。看看法国总统上周在北京点头哈腰的样子吧。
+
+It was at least as much about earning a return on its dollars (which China acquired by running chronic trade surpluses) that was higher than the return it could get by stashing the money in U.S. Treasury securities and mortgage bonds. Low-income nations borrowed from China, even though it charged relatively high interest rates, because it was willing to take bigger swings, make decisions quickly and dispense with labor, environmental and anti-corruption conditions. Loan terms are mostly secret.
+至少，用这种方式将美元（中国通过长期贸易顺差所获）投资出去赚取的回报要高过将钱投在美国国债和抵押债券中的收益。即使中国收取相对较高的利率，低收入国家也从中国借钱，是因为它愿意承担更大的风险，做决定迅速，并且对于劳动力、环境和反腐败条件不做要求。贷款条款大多是保密的。
+
+Yi Gang, the internationally minded governor of the People’s Bank of China, has said the right things about cooperation, but he’s not calling the shots. The actual lenders are private banks and official or semiofficial lenders whose bosses don’t want to admit that they made bad loans. 
+中国人民银行行长易纲具有国际视野，关于合作他说得很正确，但拿主意的不是他。实际的贷方是民营银行和官方或半官方贷方，它们的老板不想承认发放了不良贷款。
+
+Americans came to realize that going it alone was not in their long-term interest. They were happy to have the I.M.F. be the bad cop. It’s the I.M.F. that insists that nations curb food and fuel subsidies, for example, to qualify for loans. these ad hoc activities by the U.S. developed into a tested system of global crisis management, a path that China may possibly pursue as well.
+美国人当时开始意识到，独自行动并不符合他们的长期利益。他们很高兴让IMF来扮黑脸。例如，IMF坚持要求各国对食品和燃料补贴进行限制，才有资格获得贷款。美国的这些特设措施发展成了一个历经考验的全球危机管理体系，中国可能也会走上这条路。
+
+But this opportunity comes with huge challenges. That “demographic dividend” could instead become something like a disaster. In some recent years, India has squeaked past China to claim the title of fastest-growing major economy. But it has never expanded fast enough to produce sufficient formal employment for everyone. The country needs about nine million new jobs every year just to keep pace; the annual shortfall helps relegate many to India’s old standby, agricultural work.
+但这一机遇也伴随着巨大的挑战。这种“人口红利”反而可能变成一场灾难。最近几年，印度勉强超过中国成为增长最快的主要经济体。但其增长速度从未快到足以为所有人提供足够的正式就业机会。印度每年需要大约900万个新增工作岗位才能跟上人口的增长；每年的职位短缺使得许多人不得不从事印度的传统工作——农业。
+
+Western countries are now rushing to embrace India as an alternative to China. But the obstacles that have kept India from following the same program over the past 30 years remain in place: ineffective governance, insufficient infrastructure, scanty spending on primary education and health, and laws constraining the use of land and labor.India’s economic story, however it turns out, will not be a repetition of China’s.
+现在，西方国家正争先恐后地把印度作为中国的替代品。但在过去30年里阻碍印度实现和中国同样增长计划的障碍仍然存在：治理效率低下、基础设施不足、初级教育和卫生支出不足，以及限制土地和劳动力使用的法律。无论结果如何，印度的经济故事都不会是中国的翻版。
+
+Services now make up a huge and exciting part of the Indian economy, augmented by a low-cost digital infrastructure that India developed on its own. Other glimmers are also emerging: Chip makers are looking to India as a high-end substitute for China; online services are allowing millions of young Indians to work abroad without leaving home; and even life in India’s villages is becoming more urbanized by the year.
+服务业现在是印度经济中令人兴奋的巨大组成部分，加上印度自己开发的低成本数字基础设施使得服务业得到了增强。其他曙光也在浮现：芯片制造商正将印度视为中国的高端替代品；在线服务让数以百万的印度年轻人不用离开家就能得到海外工作；甚至印度农村的生活也在逐年城市化。
+
+The settlement carried an implicit plea of “no contest” to several pretrial findings from Judge Eric M. Davis, who presided over the case. He had written in one ruling that it was “CRYSTAL clear” that Fox’s statements regarding Dominion and the election were untrue.The network had advanced former President Donald J. Trump’s claims, which its own hosts did not believe, that Dominion’s voting machines had been used to tilt the election against Mr. Trump.
+该和解协议意味着福克斯对主持此案的法官埃里克·戴维斯做出的几项审前裁决“无异议”。戴维斯法官在一项裁决中写道，福克斯关于多米宁和选举的声明是不真实的，这是“非常清楚的”。该电视网宣扬前总统特朗普的说法，即多米宁的投票机被用来制造对特朗普不利的选举结果，就连该台的主持人也不相信这些说法。
+
+I think there’s a major political agenda that is impacting the science, It’s just pathetic that we’re in this stage where we’re having cloak-and-dagger conversations about deleted data。 Anger boiled over. 
+我认为有一个严重的政治议程正在影响科学，我们在偷偷摸摸讨论被删除的数据，走到这一步实在是可悲。愤怒爆发了。
+
+Over the years, I had heard monologues from Mr. Dai about America’s many supposed misdeeds, his criticisms at times bitingly sardonic but usually delivered with a smile. So I was not surprised when he, too, turned the conversation to the debt ceiling, barely containing his glee at our self-inflicted wound. I was not in the mood for lectures.
+多年来，我听戴先生对许多所谓美国的不当行为发表过冗长讲话，他的批评有时尖刻讽刺，但他说这些时通常带着微笑。因此，当他同样把话题转向债务上限时，我并不意外，看到我们搬起石头砸自己的脚，他显得喜形于色。我没有心情听别人说教。
+
+There’s more. Playing games with the debt ceiling imperils the dollar’s pre-eminent position in the global economy and the power that gives the United States. All over the world, people, companies and governments conduct international transactions in dollars, invest in U.S. Treasury bonds and rely on U.S. banks because they trust that America pays its debts, upholds the rule of law and guarantees stability. The centrality of the dollar gives the United States far-reaching influence. It allows us to impose crippling sanctions
+此外还有更多。在债务上限问题上耍花招会危及美元在全球经济中的卓越地位和美国的权力。在世界各地，个人、公司和政府用美元进行国际交易，投资美国国债，依赖美国的银行，因为他们相信美国能够偿还债务，维护法治，保证稳定。美元的中心地位赋予了美国深远的影响力。它使我们能够实施严厉的制裁
+
+If Congress keeps flirting with default, calls for dethroning the dollar as the world’s reserve currency will grow much louder.Countries all over the world will start hedging their bets. It’s a sad irony that Mr. McCarthy and many of the same congressional Republicans seemingly intent on sabotaging America’s global leadership by refusing to pay our debts are also positioning themselves as tougher-than-thou China hawks. They talk a good game about standing up to Beijing
+如果美国国会依然不认真对待违约一事，推翻美元作为世界储备货币地位的呼声将会越来越高,世界各国将开始对冲其赌注。讽刺的是，麦卡锡和许多似乎意图通过拒绝偿还我们的债务来破坏美国全球领导地位的共和党人，同时也将自己定位为“比你更强硬”的对华鹰派。他们夸夸其谈地说要对抗北京
+
+Speaker of the House Kevin McCarthy is making a ransom demand. His hostages are the economy and America’s credibility. Mr. McCarthy has threatened that House Republicans will refuse to raise the federal government’s debt ceiling, potentially triggering a global financial crisis, unless President Biden agrees to deep cuts to education, health care, food assistance for poor children and other services.
+众议院议长凯文·麦卡锡提出了赎金要求。他的人质是经济和美国的信誉。麦卡锡威胁说，除非拜登总统同意大幅削减教育、医疗保健、贫困儿童食物援助和其他服务的开支，众议院共和党人将拒绝提高联邦政府的债务上限，这可能引发全球金融危机。
+
+Fox has both promulgated and become subsumed by an alternative political tradition — perhaps most notoriously embodied by the John Birch Society in the 1960s — in which the far right, over decades, has challenged mainstream conservatism on core issues like isolationism, racism, the value of experts and expertise, violent rhetoric and conspiracism.
+福克斯是一种另类政治传统——其最臭名昭著代表可能是20世纪60年代的约翰·伯奇协会——的宣扬者，同时又被它所淹没，在这一传统之下，极右翼几十年来一直在孤立主义、种族主义、专家和专业知识的价值、暴力言辞和阴谋论等核心问题上挑战主流保守主义。
+
+After the 2020 election, fed a diet of lies by Mr. Trump and his lawyers, Fox’s viewers found a community of the like-minded in the notion that liberal enemies had stolen the election and destroyed America. They shared a code that adds fuel to far-right conspiracy theories: The nation’s chief enemies come from within, and the plots are hatched by powerful elites.
+2020年大选结束后，在特朗普及其律师的一系列谎言灌输下，福克斯的观众形成了一个志同道合的共同体，他们认为自由派敌人窃取了选举，摧毁了美国。他们都秉守一套为极右阴谋论火上浇油的准则：国家的主要敌人来自内部，阴谋是由有权有势的精英策划的。
+
+Ukraine, eager to maintain good ties with Beijing, has bitten its tongue as the Chinese government has pointedly refrained from joining those countries that have condemned the invasion. By 2019, China was Ukraine’s largest trading partner and the top importer of its barley and iron ore. China’s first aircraft carrier, the Liaoning, was a discarded Soviet vessel bought from Ukraine that the Chinese Navy refurbished.
+中国政府明确表示不加入那些谴责入侵的国家，渴望与北京保持良好关系的乌克兰保持了沉默。到2019年，中国是乌克兰最大的贸易伙伴以及大麦和铁矿石的最大进口国。中国第一艘航母“辽宁舰”原本是一艘从乌克兰购买的废弃苏联航母，中国海军对其进行了翻新。
+
+The group of about 80 protesters wore numbered lanyards around their necks and cordoned themselves off with tape as they marched, like a crime scene in motion.One participant said the protesters, who were opposed to a land reclamation project, were “herded like sheep.”Revisionism — with its ancillary altering or obliteration of memory — is an act of repression.His plight recalls George Orwell’s comment that “every joke is a tiny revolution.” In this climate, the only guarantee of safety is silence.
+大约80名抗议者脖子上挂着编号的挂绳卡牌，游行的队伍用警戒带围着，就像一个移动的犯罪现场。一名参与者说，这些反对填海造地项目的抗议者“像羊群一样被驱赶”。历史修正主义——伴随着对记忆的改变或抹杀——是一种压制行为。他的困境让人想起乔治·奥威尔的话：“每个笑话都是一场小小的革命。”在这种气氛下，唯一的安全保证就是沉默。
+
+The gagging of dissenting voices and editing of the past has happened at warp speed, mirroring the blink-and-you-miss-it modern news cycle. This has its own logic; the faster the blanket of silence is thrown over Hong Kong, the less time there is for criticism to take root, and the faster the next phase of transformation — whatever that may be — can be introduced. The cycle of unmaking accelerates.
+对不同声音的钳制和对过去的编辑以极快的速度发生，反映了现代新闻周期转瞬即逝的特性。这有其自身的逻辑；在香港，压制言论的手段越快实施，批评扎根的时间就越少，下一阶段的转型——无论会是什么——就能越快被引入。破坏的循环加速了。
+
+Many key institutions — civil society organizations, political parties and trade unions — have dismantled themselves in the ultimate act of debasement. Hong Kong is being remade almost faster than the changes can be reported, as if the whole city had suddenly been unzipped to reveal a shadow society lurking beneath.
+许多重要机构——民间社会组织、政党和工会——做出了终极的自我贬低，纷纷自行解散。被改造的速度几乎超过了报道的速度，就像整个城市突然被拉开拉链，露出了潜藏在下面的影子社会。被改造的速度几乎超过了报道的速度，就像整个城市突然被拉开拉链，露出了潜藏在下面的影子社会。
+
+Against this backdrop, ties between Seoul and Tokyo have started to thaw. In March, the two countries began taking steps to address a long-festering dispute over wartime forced labor. Alliances are crucial in a shifting world.
+在此背景下，首尔与东京的关系开始缓和。3月，两国开始采取措施解决关于战时强迫劳动这个长期恶化的争端。在瞬息万变的世界中，联盟至关重要。
+
+Around the country, MAGA extremists are lining up to take on those bedrock freedoms,Cutting Social Security that you’ve paid for your entire life while cutting taxes for the very wealthy. Dictating what health care decisions women can make, banning books and telling people who they can love. All while making it more difficult for you to be able to vote.
+全国各地的MAGA极端分子正在争先恐后地对抗这些基本自由，他们“要削减你为之纳了一辈子税的社会保障金，同时给非常富有的人减税。要强行规定女性能做哪些医疗决定，要禁书，要告诉人们能爱什么人。同时还要增加大家的投票难度。”
+
+Perhaps most frustrating to Mr. Biden, his hopes to heal the rifts that widened under Mr. Trump have so far been dashed, with American society still deeply polarized and his predecessor still a potent force in stirring the forces of division and emboldening white supremacists and anti-Semites.
+也许最令拜登沮丧的是，他希望弥合在特朗普时期扩大的裂痕，但迄今为止，这个希望已经破灭，美国社会仍然严重两极分化，他的前任仍然是煽动分裂势力、为白人至上主义者和反犹太主义者壮胆的强大力量。
+
+China’s anti-corruption officials warned bankers in February that it would “investigate and deal with the people who neglect the party’s leadership.” They directed the finance executives to embrace the party’s values and avoid emulating what they see as the West’s singular focus on money.Disciplining finance is a potent way to keep elites in check,
+中国负责反腐败的官员曾在今年2月警告银行家，将“严肃查处罔顾党对金融工作”领导的人。他们要求金融行业的主管们接受党的价值观，不要效仿其所谓的西方“唯金钱论”。加强金融行业的纪律是控制精英的有效方式
+
+The yurt stood in the middle of a sweeping northern Chinese grassland, beneath a cloudless sky. A reedy folk tune played. Nearby, sheep grazed.He dangled unwrapped jerky before the camera, describing traditional Mongolian air-drying techniques. He shredded it with his fingers to show its tenderness.
+晴朗的天空下，一望无际的中国北方草原中，坐落着一顶毡包。尖利的民乐声响起。不远处有羊儿在吃草。他拆出一根牛肉干在镜头前摆弄，讲解传统的蒙古牛肉风干技术。他把牛肉撕成一条条，展现肉质的柔嫩。
+
+Taiping is one of countless Chinese riding the explosive wave of influencer culture and live online videos in the country to transform the way people buy and sell. Star streamers have become celebrities. The most famous, including Li Jiaqi — whose prowess at trying on and pitching makeup products earned him the nickname “lipstick king” — are able to attract tens of millions of viewers per session.The most successful streams are as much entertainment as they are sales pitches.When he occasionally still stumbled over a word, he poked fun at his limited education.
+无数像太平这样的中国人正在追逐这股网红文化和网络直播的风潮，它已经彻底改变了这个国家购买和出售商品的方式。走红的主播成了名人。这其中，最著名的李佳琦——他因为善于把化妆品用在自己脸上来推销而得到了“口红一哥”的称号——每次直播可以吸引数千万观众.偶尔还为一个词磕磕绊绊时，他就取笑自己读书少。
