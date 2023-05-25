@@ -579,6 +579,30 @@ sh test.sh 1 2 '3 4'
 2
 3 4
 ```
+对目录中文件循环处理
+```sh
+folder="$PWD"
+file_extension=".jar"
+# 按文件类型过滤
+for file in "$folder"/*"$file_extension"; do
+    if [ -f "$file" ]; then
+        # Perform operations on the file
+        echo "Processing file: $file"
+        docker cp $file ntm:/opt/sha/libs/
+    fi
+done
+
+min_size="1M"  # Minimum file size
+
+# 按文件大小过滤
+for file in "$folder"/*; do
+    if [ -f "$file" ] && [ -s "$file" ] && [ $(stat -c%s "$file") -gt $(stat -c%s "$min_size") ]; then
+        # Perform operations on the file
+        echo "Processing file: $file"
+        # Add your commands here
+    fi
+done
+```
 
 ### Logical 条件
 > [Link](http://www.geekpills.com/operating-system/linux/bash-and-or-operators)

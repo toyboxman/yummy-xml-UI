@@ -76,6 +76,13 @@ $ k -
 --cache-dir                 (Default cache directory)
 --certificate-authority     (Path to a cert file for the certificate authority)
 ...
+
+# 执行指定namespace下pod的command，直接返回结果
+$ kubectl -n saas-dev exec manager-tenant1-5d776f6f8b-zqwng -- pwd
+/
+# 执行指定namespace下pod的command，登录进目标pod系统
+$ kubectl -n saas-dev exec -it manager-tenant1-5d776f6f8b-zqwng -- bash
+user@manager-tenant1-5d776f6f8b-zqwng:/$
 ```
 
 #### minikube
