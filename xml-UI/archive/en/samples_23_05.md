@@ -315,3 +315,39 @@ The Darién is the only way from South America to the United States by land. It 
 
 Struggling to Survive. A village formed in Terminal B of Sao Paulo-Guarulhos airport in Brazil: Afghans sleeping under wool blankets strung like tents across luggage carts. many of the Afghans soon took off, their minds fixed on the United States. They crossed Peru, Ecuador and Colombia, passed liked batons from smuggler to smuggler.
 挣扎求生.巴西圣保罗-瓜鲁柳斯机场的B航站楼里，一个村庄形成了：阿富汗人把羊毛毯子系在行李车上，支成帐篷，睡在下面。许多阿富汗人很快就离开了，他们的心思都在美国。他们穿过秘鲁、厄瓜多尔和哥伦比亚，像接力棒一样在蛇头之间被传递着。
+
+Yet many Republican commentators and donors, who’ve been desperate to move on from the toxicity of Trump, landed on DeSantis when casting about for alternatives. They inflated his ego, convincing him his big-footing in Florida made him formidable.If he can’t outpace Trump, he’ll lie in wait to catch him limping.
+然而，许多急于摆脱特朗普负面影响的共和党评论员和捐助者在寻找替代人选时把目光投向了德桑蒂斯。这令他自我膨胀，让他相信自己在佛罗里达州大摇大摆的行为让他变得强大。如果他不能超过特朗普，他会蛰伏起来，等待特朗普露出破绽。
+
+He’s not alone in that lane. They are the in-case-of-emergency-break-glass cohort: If Trump winds up on the path to prison and Republicans must scrounge for a last-minute replacement, they’re hoping that voters see them as solid substitutes.The policies are welded to the persona.
+选择这条路线的不止他一个。他们都属于应急方案：如果特朗普最终走上锒铛入狱之路，共和党人必须在最后一刻寻找替代者，这些人希望选民把自己视为可靠的替代品。政策已经与人格融为一体。
+
+Trump allows his supporters to feel and express their full range of emotion: He entertains them; he channels their rage; he reflects their oppressive urges; he’s an oracle of their self-perceived victimhood and their model of a warrior against a government and culture that they feel are turning on them.Trumpism is a whole-self experience, spiritual in its depth, so Trumpism without Trump would be akin to preaching Christianity without Christ.
+特朗普允许他的支持者去感受并表达出自己的全部情感：他取悦他们；他疏导他们的愤怒；他反映了他们压抑的欲望；他深深理解他们自封的受害者身份；他们觉得政府和文化正在跟他们做对，而他是反抗这一切的模范战士。特朗普主义是一种完整的自我体验，是一种深度的精神体验，所以，没有特朗普的特朗普主义就像是没有基督的基督教。
+
+Rice faces another climate problem. It accounts for an estimated 8 percent of all global methane emissions from human activity.Rice is the staple grain for an estimated three billion people. It is biryani and pho, jollof and jambalaya — a source of tradition, and sustenance.In 1975, facing famine after war, Vietnam resolved to grow more rice.The green patchwork of the Mekong Delta became its most prized rice region.
+大米还面临另一个气候问题。人类活动产生的全球甲烷排放大约有8%来自稻米种植。它是全球约30亿人的主食。它是印度香饭、越南河粉、西非加罗夫饭和克里奥尔什锦饭——是传统与营养的来源。1975年，面对战后的饥荒，越南决定种植更多的水稻。绿色的湄公河三角洲成为该国最珍贵的稻米产区。
+
+Starting in southeastern China, the river meanders through Myanmar, Laos, Thailand and Cambodia, interrupted by many dams. Today, by the time it reaches Vietnam, there is little freshwater left to flush out seawater seeping inland. 
+湄公河发源于中国东南部，蜿蜒流经缅甸、老挝、泰国和柬埔寨，其间被许多水坝阻断。今天，当它到达越南时，几乎没有淡水可以冲掉渗入内陆的海水。
+
+Today, the country’s dominant rice-growing area is spread across the hard clay soil near where the Mississippi River meets one of its tributaries, the Arkansas River. It looks nothing like the Mekong Delta. The fields here are laser-leveled flat as pancakes. Work is done by machine. Farms are vast, sometimes more than 20,000 acres.
+今天，这个国家主要的水稻种植区分布在靠近密西西比河与其支流之一阿肯色河交汇处的坚硬粘土地上。它看起来与湄公河三角洲大不相同。这里的田地被激光平整得像煎饼一样。工作是由机器完成的。农场面积很大，有时超过8000万平米。
+
+Defense, Social Security, Medicare and veterans’ programs would be shielded. The agreement would protect the military and entitlements like Social Security and Medicare from spending cuts imposed on other parts of government. It would also fully finance medical care for veterans, including expanded services for those exposed to toxic burn pits. Major energy projects would be granted a streamlined review process.
+国防、社会保障、医疗保险和退伍军人计划将不受影响。该协议将保护军队和社会保障和医疗保险等福利不受政府其他部门削减开支的影响。它还将为退伍军人的医疗保健提供全部资金，包括为那些暴露于有毒焚烧坑的人提供更多服务。大型能源项目的审批程序将被简化。
+
+Mr. Lin said the moon landing project, part of the country’s broader Lunar Exploration Project — also known as the Chang’e Project, for the Chinese moon goddess — had “recently” been kick-started, though he did not offer specifics. The project would also seek to enable short-term stays on the lunar surface, as well as collect samples and conduct research, he said.
+林西强说，登月计划已在“最近”启动，但没有提供具体细节。该计划属于中国更广泛的探月工程的一部分，该工程也被称为嫦娥工程，这个名字来自中国神话中住在月亮上的仙女。他说，该项目还将寻求在月球短期驻留，以及采集样本并进行研究。
+
+China is the only country to have successfully landed on the moon in the 21st century, and in 2019 it also became the first to land a probe on the moon’s far side. Both Beijing and Washington have also laid out goals of building a research station on the moon and landing people on Mars.
+中国是21世纪唯一成功登月的国家，并在2019年成为第一个在月球背面着陆探测器的国家。北京和华盛顿都制定了在月球上建立研究站和将人类送上火星的目标。
+
+Just as Hong Kong was the world’s portal to China, Cathay Pacific was a vanguard in connecting emerging economies in Asia to New York, London and Paris. Founded in 1946, it was one of the city’s most important brands, known for its punctuality and premium service. The airport’s third runway opened last year to accommodate Beijing’s plans to integrate Hong Kong with Macau and nine cities in the Guangdong province into a tech hub known as the Greater Bay Area.
+正如香港是世界通往中国的门户一样，国泰航空是连接亚洲新兴经济体与纽约、伦敦和巴黎的先锋。它成立于1946年，是香港最重要的品牌之一，以准时和优质服务而闻名。该机场的第三条跑道于去年启用，以适应北京将香港、澳门和广东省的九个城市整合成名为大湾区的科技中心的计划。
+
+To cut costs, Cathay has slashed pilot base salaries by about 40 percent, angering many members of its aircrew. Officials with Hong Kong’s Airport Authority said in May that they had observed a trend of lower taxiing speeds among Cathay pilots after the airline’s new pay structure in effect gave them a disincentive from completing flights earlier than scheduled. During the pandemic, business from cargo flights kept the airline afloat.
+为了削减成本，国泰航空将飞行员的基本工资削减了约40%，这激怒了许多机组人员。香港机场管理局的官员今年5月表示，他们注意到国泰航空的飞行员中存在降低滑行速度的趋势，这是因为该公司新的薪酬结构实际上挫伤了他们提前完成航班的积极性。疫情期间，货运航班的业务维持了该航空公司的运营。
+
+The words and deeds of the flight attendants hurt the feelings of compatriots in Hong Kong and the mainland and destroyed Hong Kong’s traditional culture and values of respect and courtesy. Whilst the incident has caused a setback to our rebuild journey, let’s embrace it as a valuable lesson
+涉事空中服务员的言行伤害了香港和内地同胞的感情，破坏了香港一向的尊重、有礼的文化和价值观.虽然这一事件给我们的重建之旅带来了挫折，但让我们把它当作一个宝贵的教训

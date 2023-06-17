@@ -44,6 +44,9 @@ public class SpanIdentity {
                 )
         ).startSpan();
         span1.end(Instant.now().plusSeconds(1));
+        Span span1_1 = tracer.spanBuilder("child-func-1_1")
+                .addLink(span1.getSpanContext()).startSpan();
+        span1_1.end(Instant.now().plusSeconds(1));
 
         Random random = new Random();
         // if flags = 0 , trace will not be sent out
