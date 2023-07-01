@@ -330,3 +330,105 @@ The phrase had a specific connotation. The aides employed it to capture a type o
 
 Even if Trump is convicted and imprisoned, he could continue to run for office and even presumably hold the office of president, if he isn’t too busy in the prison factory making license plates.A plausible guess, based in part on the latest polling since the federal indictment, is that prosecutions could help him in the Republican primaries while hurting him in the general election. Looking ahead, news organizations must not drop the ball as they did in 2016, giving Trump a platform without adequately fact-checking him. We should enable democracy, not empower an antidemocratic demagogue.
 即使特朗普被定罪并入狱，也可以继续竞选公职，甚至可能担任总统职位，如果他不忙于在监狱工厂制造车牌的话。部分基于联邦起诉后的最新民意调查，一个合理的猜测是，起诉可能会在共和党初选中帮助他，但在大选中会伤害他。展望未来，新闻机构绝不能像2016年那样掉以轻心，在没有对特朗普进行充分事实核查的情况下给他一个平台。我们应该支持民主，而不是为反民主的煽动者赋权。
+
+When Germany and China launched their government consultations a decade ago, Angela Merkel was still chancellor and their relations seemed an endless opportunity for trade and profit. The dialogues were a time for pomp and circumstance, trade deals and signing ceremonies, red carpets and military salutes.For China, it will be an opportunity to convince its largest European trading partner to stick to business as usual — and drive a wedge between Berlin and Washington.
+十年前，当中德两国开始进行政府磋商时，安格拉·默克尔仍是总理，两国关系似乎意味着无尽的贸易和盈利机遇。对话期间盛况空前，有贸易协议和签字仪式，有红地毯和军礼。对中国来说，这将是一个说服其最大的欧洲贸易伙伴坚持一切如常的机会——并且在柏林和华盛顿之间制造隔阂。
+
+One German official privately called it Berlin’s “three-body problem.” Keenly aware that Washington is its security guarantor, German officials no longer have the luxury of treating its economic and political interests separately.Relationships it once treated as bilateral and distinct — German-Chinese, German-American and American-Chinese — now feel tangled together. Security concerns have also intruded on economic ambitions in ways that did not preoccupy Germany before.For China, too, this is a trying moment.
+一位德国官员私下称这是柏林的“三体问题”。德国官员敏锐地意识到，华盛顿是其安全保障者，他们再也不能奢望把经济利益和政治利益分开对待。德国曾经将德中、德美、美中关系视为彼此独立的双边关系，但现在却感到它们纠结在一起。安全方面的担忧也以前所未有的方式干扰着德国的经济雄心。对中国来说，这也是一个艰难的时刻。
+
+A lot has happened between then and now: A global pandemic hit; war erupted in Europe; tensions between the United States and China boiled. And inflation, thought to be safely stored away with disco album collections, returned with a vengeance.But as the dust has settled, it has suddenly seemed as if almost everything we thought we knew about the world economy was wrong.the trends behind the shift away from ever-increasing globalization “were accelerated by the Covid-19 pandemic — and then they have been supercharged by the war in Ukraine.”
+从那时到现在，发生了很多事情：全球疫情；欧洲战争；美国和中国之间的紧张关系白热化。而被认为已经像迪斯科唱片收藏一样被妥善保存起来的通货膨胀却卷土重来。但是，随着尘埃落定，突然间，我们发现自己对世界经济的了解似乎都是错误的。从一度增长的全球化中脱离出来的背后趋势“被新冠大流行加速了——然后又被乌克兰战争加剧了”。
+
+And increasing bouts of extreme weather that destroyed crops, forced migrations and halted power plants has illustrated that the market’s invisible hand was not protecting the planet.Globalization, seen in recent decades as unstoppable a force as gravity, is clearly evolving in unpredictable ways. The move away from an integrated world economy is accelerating. And the best way to respond is a subject of fierce debate.
+越来越多的极端天气摧毁了农作物，迫使人们迁徙，使发电厂停运，这表明市场看不见的手并没有保护地球。近几十年来，全球化被视为一种像地心引力一样不可阻挡的力量，但它显然正在以不可预测的方式发展。脱离一体化世界经济的步伐正在加快。应对的最佳方式成为激辩话题。
+
+Associated economic theories about the ineluctable rise of worldwide free market capitalism took on a similar sheen of invincibility and inevitability. Open markets, hands-off government and the relentless pursuit of efficiency would offer the best route to prosperity.China, along with South Korea, Malaysia and others, turned struggling farmers into productive urban factory workers. such policies “increased inequality, in turn jeopardizing durable expansion.”
+有关全球自由市场资本主义必然崛起的相关经济理论也蒙上了类似的光泽，仿佛不可战胜、不可避免。开放市场、不干涉的政府和对效率的不懈追求将提供通往繁荣的最佳途径。中国与韩国、马来西亚等国家一起，把艰难度日的农民变成了有生产力的城市工厂工人。此类政策非但没有带来增长，反而“加剧了不平等，进而危及持久发展”。
+
+The favored economic road map helped produce fabulous wealth, lift hundreds of millions of people out of poverty and spur wondrous technological advances.But there were stunning failures as well. Globalization hastened climate change and deepened inequalities.In the United States and other advanced economies, many industrial jobs were exported to lower-wage countries, removing a springboard to the middle class.Financial globalization was supposed to usher in an era of robust growth and fiscal stability in the developing world,it ended up doing the opposite.
+这张人们情有独钟的经济路线图帮助创造了惊人的财富，使数亿人摆脱了贫困，并推动了惊人的技术进步。但也有令人震惊的失败。全球化加速了气候变化，加深了不平等。在美国和其他发达经济体，许多产业工人岗位被出口到工资较低的国家，人们失去了通向中产阶级的跳板。金融全球化本应将发展中国家带入一个强劲增长和财政稳定的时代，结果适得其反
+
+Some loans — whether from private lenders or institutions like the World Bank — didn’t produce enough returns to pay off the debt. Others were poured into speculative schemes, half-baked proposals, vanity projects or corrupt officials’ bank accounts. And debtors remained at the mercy of rising interest rates that swelled the size of debt payments in a heartbeat.Over the years, reckless lending, asset bubbles, currency fluctuations and official mismanagement led to boom-and-bust cycles in Asia, Russia, Latin America and elsewhere. 
+一些贷款——无论是来自私人贷方还是来自世界银行等机构——都没有产生足够的回报来偿还债务。还有一些贷款则被投入投机项目、不完善的提案、面子工程，或进入了腐败官员的银行账户。债务国仍然受到利率左右，利率上升会瞬间增加债务偿付的规模。多年来，不计后果的贷款、资产泡沫、货币波动和官方管理不善导致亚洲、俄罗斯、拉丁美洲和其他地方出现了繁荣与萧条的周期循环。
+
+China has tried many fixes over the last few years when its economy had flagged, like heavy borrowing to pay for roads and rail lines.Extra stimulus spending now with borrowed money would spur a burst of activity but pose a difficult choice for policymakers already worried about the accumulated debt.Authorities risk being behind the curve in stimulating the economy, but there’s no quick fix
+过去几年，当经济不景气时，中国尝试过许多补救措施，比如通过大量借款来支付公路和铁路建设费用。现在用借款进行额外的刺激支出可以刺激经济活动的爆发，但对于已经担心债务压力的政策制定者来说，这将是一个艰难的选择。当局在刺激经济方面存在落后于形势变化的风险，但没有快速的解决办法
+
+In the last years of his long and remarkable life, Daniel Ellsberg, the disenchanted military analyst who famously leaked the so-called Pentagon Papers in 1971, wanted to be prosecuted.Most defendants take plea deals to avoid the risk of lengthy sentences, foreclosing the opportunity for appeals challenging the constitutionality of using the law in such circumstances.
+经历了幻灭的军事分析师丹尼尔·埃尔斯伯格因在1971年泄露所谓的“五角大楼文件”而闻名，在漫长而精彩的人生的最后几年里，他曾希望自己被起诉。大多数被告接受认罪协议是为了避免被判长期徒刑的风险，从而排除了就这种情况下使用该法律是否合宪提出上诉的机会。
+
+At the time, I was watching a Little League game. I moved away from the low bleachers and lawn chairs to get out of earshot of other parents.Part of his motivation, he said, was renewed tensions over Taiwan. He said it was likely that Pentagon war planners were again drawing up contingency plans to use nuclear weapons if China were to attack Taiwan and it appeared that conventional weapons were not enough to repel it. He thought the possibility of any such dire step warranted a public debate.
+当时，我正在看一场少年棒球联盟的比赛。我离开低矮的露天看台和草坪椅，避开其他家长的耳目。他说，他的部分动机是台湾问题再度紧张。他表示，五角大楼的战争规划者很可能再次制定应急计划，如果中国要攻击台湾，而常规武器似乎不足以击退中国，就会使用核武器。他认为，任何这种可怕举措的可能性都值得进行公开讨论。
+
+An austere greeting on the airport tarmac in Beijing sans a red carpet. A stone-faced handshake from China’s top foreign policy official. A seat looking up at the Chinese leader, perched at the head of a long table.To international audiences, the optics of Secretary of State Antony J. Blinken’s two-day visit to Beijing barely raised any eyebrows. Mr. Blinken did not elaborate publicly on the reasons for Washington’s concerns about Chinese companies.
+北京机场停机坪上没铺红地毯的简单欢迎。与板着脸的中国最高级别外交政策官员握手。落座的位置需要仰视位居长桌上首的中国领导人。对国际受众来说，在美国国务卿布林肯访问北京的两天里，这些场景不太让人惊讶。布林肯没有公开阐述华盛顿为何对中国公司存在担忧。
+
+Three men were convicted in Brooklyn federal court on Tuesday of stalking a family in the New Jersey suburbs.The defendants, Michael McMahon, 55, Zhu Yong, 66, and Zheng Congying, 27, were found guilty of stalking and a related conspiracy charge. Mr. Zhu and Mr. McMahon were also found guilty of acting as unregistered foreign agents, and Mr. Zhu was convicted on a second conspiracy charge.Mr. McMahon is grinning and standing between the two others with his arm around Mr. Zhu. 
+周二，三名男子因在新泽西州郊区跟踪一户人家，被布鲁克林联邦法院的定罪。被告迈克尔·麦克马洪（55岁）、朱勇（音，66岁）和郑聪颖（音，27岁）的跟踪罪和一项与跟踪相关的串谋罪名成立。朱勇和麦克马洪还被判非法充当外国代理人，朱勇的另一项串谋指控也被定罪。麦克马洪先生咧着嘴笑，站在另外两人中间，搭着朱勇的肩。
+
+At a campaign fund-raiser in California, Mr. Biden set off into what appeared to be an unplanned riff about the incident that ruptured relations with China for months.This was not the first time Mr. Biden has made off-the-cuff remarks about foreign policy during an evening fund-raiser. In offering a wide-ranging review of international affairs, Mr. Biden focused on China, which has been on his mind lately. He used the occasion to try to tamp down American anxiety over Beijing’s economic rise and increasing assertiveness on the world stage.
+在加州的一场竞选筹款活动上，拜登对这一导致中美关系破裂数月之久的事件说进行一番似乎是即兴的发言，这不是拜登第一次在筹款晚会上就外交政策发表即兴见解。在陈述对国际事务的总体看法时，拜登把重点放在了中国，这是他最近思考较多的话题。通过这一场合，他试图缓解北京经济崛起和在世界舞台上的日益强势令美国产生的焦虑。
+
+The balloon provoked a furor in the United States when it was spotted floating over a nuclear missile site in Montana, then passed above Kansas City and finally was blown up by a Sidewinder missile fired by an F-22 fighter jet just off the coast of South Carolina. U.S. officials have previously said they suspected the craft was supposed to conduct surveillance over U.S. military bases in Guam and Hawaii but got blown off course to Alaska and eventually the continental United States
+当时人们发现气球在蒙大拿州一处核导弹发射场上空飘过，而后经过堪萨斯城，最终在南卡罗来纳州海岸线不远处被一架F-22战斗机发射的响尾蛇导弹击落，此事在美国掀起了轩然大波。美国官员此前表示，他们怀疑该气球本应对关岛和夏威夷的美国军事基地展开侦查，但被吹离了航线，转向阿拉斯加，最终来到美国本土
+
+He called me and told me not to do that because it was putting him in a bind. I said, ‘All we’re doing — we’re not trying to surround you, we’re just trying to make sure the international rules with air and sea lanes remain open.’ And we’re not going to yield to that — on that.
+他给我来电话要我停手，因为这对他会很不利。我说‘我们只是——我们不是要包围你们，我们只是想确保国际秩序，保障海空通道的畅通。’在这个问题上，我们是不会让步的。
+
+the president of the European Commission, said in comments to reporters that the policy was “country agnostic” and wasn’t aimed at overhauling how the bloc engaged with economic powers.Still, diplomats said the bloc’s biggest economic powers — Germany, France, Italy and the Netherlands — were not eager for what could be disruptive intervention from Brussels in their critical economic relationships with China. Those concerns could set the scene for a watering-down of the commission’s proposals.The meetings in Germany on Tuesday were muted and avoided the elephant in the room, Mr. Scholz skirted thorny issues and chose instead to focus on climate and green energy.
+欧盟委员会主席在对记者的评论中表示，该政策“非针对某个特定国家”，也并非旨在彻底改革欧盟与经济大国打交道的方式。尽管如此，外交官们表示，在与中国的重要经济关系方面，欧盟最大的经济强国——德国、法国、意大利和荷兰——并不急于接受布鲁塞尔可能具有破坏性的干预。这些担忧可能导致该委员会的提案被淡化。周二在德国举行的会议较为低调，并回避了明显的问题
+
+Imposing discriminatory measures in the name of de-risking to restrict or exclude other countries is contrary to market principles as well as the rules of fair competition and the rules of the World Trade Organization.The need for more rapid and coordinated action at E.U. level in the area of export controls has become pressing,an uncoordinated proliferation of national controls by member states would create loopholes. Some European countries have already tightened their trade relations with China, with the Netherlands this year barring the firm ASML from exporting its advanced chip production technology there on security grounds.
+以去风险的名义实施歧视性措施以限制或排除其他国家，这违反了市场原则、公平竞争规则，以及世界贸易组织的规则,在出口管制领域，欧盟层面采取更迅速、更协调的行动的必要性已变得紧迫，成员国不协调地扩大国家管制将造成漏洞。一些欧洲国家已经收紧了与中国的贸易关系，荷兰今年以安全为由禁止阿斯麦公司向中国出口其先进的芯片生产技术。
+
+The elevation of Mr. Wu, a longtime executive of Alibaba’s e-commerce division, signaled to analysts that Alibaba would continued to make online shopping a core pillar of its business.Mr. Wu, who is in his late 40s, helped lead Alibaba’s transformation from an e-commerce giant to a mobile juggernaut, turning the digital payment app Alipay into one of the default forms of payment across China. 
+担任阿里电商部门高管多年的吴泳铭获得提拔，分析人士称这是阿里将继续将网购当作其核心业务的信号。年近五旬的吴泳铭帮助阿里从一家电商巨头转型为移动互联网巨头，将支付宝这一数字支付应用变为中国最常见的付款方式之一。
+
+For a few chaotic, head-snapping hours this weekend, the notion did not seem so far-fetched.The aftermath of the mutiny leaves President Biden and American policymakers with both opportunity and danger in perhaps the most volatile moment since the early days of the invasion of Ukraine. Washington should avoid fueling the deeply held paranoia inside Russia that the U.S. or NATO will seek to exploit the chaos
+在这个混乱周末令人应接不暇的几个小时里，上述观念似乎不再那么难以置信。这也许是自俄罗斯入侵乌克兰的最初日子以来的最动荡时刻，兵变的后果让拜登总统和美国政策制定者们此刻既面临机遇又面临危险。华盛顿应该避免助长俄罗斯国内根深蒂固的无端恐惧，即美国或北约将寻求利用这种混乱
+
+the Prigozhin revolt spells the beginning of the end of the war and Mr. Putin’s tenure, even with the deal that short-circuited the march on Moscow.Don’t trust the reversal,This is positioning. Prigozhin wants to be seen as a hero for Russians while he lines up more support and makes demands. The state will go after him and that can be his excuse for ‘reluctantly’ defending himself.
+普里戈任的兵变标志着乌克兰战争和普京任期结束的开始，尽管普京与普里戈任达成的协议中断了向莫斯科的进军。别相信撤退，这是在做准备。普里戈任想在争取更多支持、提出要求的同时被视为俄罗斯人的英雄。普京政府不会放过他，届时那将成为他‘不情愿地’自我防卫的借口。
+
+They rubbed their hands, dreaming of taking revenge for their failures at the front and during the so-called counteroffensive. Throughout the day, the Kremlin had sought to project an air of normalcy, unity and stability. That impression was compounded by reports from Russian military bloggers that Prigozhin forces had shot down Russian combat aircraft.
+他们搓着手，梦想着为他们在前线和在所谓反攻期间的失败进行报复。克里姆林宫一整天都在努力营造一种正常、团结和稳定的氛围.俄罗斯军事博主对于普里戈任的部队击落俄军作战飞机的报道也加深了这一印象。
+
+Two people close to the Kremlin, speaking on condition of anonymity to discuss sensitive political issues, described the crisis as first and foremost the product of a dysfunctional system of governance verging on chaos — vividly captured in the Russian word bardak.Decisions on how to handle Mr. Prigozhin’s uprising were made on the fly Saturday
+两名克里姆林宫知情人表示，从根本上讲，这场危机是一个运转失调、几近混乱的统治制度的产物，俄语的“bardak”（混乱）一词就生动概括了这一局面。由于讨论了政治敏感话题，这两名知情人要求匿名。对普里戈任兵变的处置决定是在周六仓促中做出的。
+
+Mr. Zatulin argued that Mr. Putin did, in the end, provide stability, because he blessed a deal to end the uprising and averted a pitched battle outside Moscow. But he acknowledged that the drama made no one look good — it “didn’t add to anyone’s authority.” Mr. Prigozhin proved uncharacteristically quiet on Sunday
+扎图林认为，普京最后还是稳定了局面，因为他批准了终结叛乱的协议，避免了莫斯科城外的一场恶战。但他也承认，这一事变让所有人难堪——“没有哪个权势人物能从中受益。”周日，普里戈任一反常态地保持了沉默
+
+To be prepared for unexpected incidents is a principle of governing a nation.China is the world’s largest producer and consumer of wheat. Demand has risen along with incomes as people in cities buy more Western-style breads and desserts. Soaring meat consumption in China has also necessitated more wheat, which is used for animal feed.
+备豫不虞，为国常道.中国是世界上最大的小麦生产国和消费国。城里人越来越多地购买西式面包和甜点，对小麦的需求随着收入的增加而上升。中国肉类消费量的飙升也需要更多的小麦来作为动物饲料。
+
+Theories are already circulating on social media that the entire rebellion was a charade from the start, maybe even staged by Mr. Putin for some convoluted reason. It is impossible to know and may remain so for a long time.But the explanation may well be the obvious one: that Mr. Prigozhin, a thug more adept at brute violence than political intrigue, finally decided to go after his bête noire, Defense Minister Sergei Shoigu. 
+社交媒体上已在流传的说法是，这场叛乱从头到尾都是做戏，甚至可能是普京出于某种令人费解的原因策划的。这样的理论目前尚无法得到证实，而且可能在未来很长一段时间都如此。但叛乱的动机也很可能更简单：比起政治阴谋，普里戈任这个更懂得残酷暴力的恶徒最终还是决定搞垮他的眼中钉——国防部长谢尔盖·绍伊古。
+
+Mr. Prigozhin is the epitome of a post-Soviet villain. He spent most of the 1980s in prison, made a fortune in the no-holds-barred gold rush of the first post-Soviet years, got close to Mr. Putin in part by catering his state dinners (which earned him the sarcastic sobriquet “Putin’s chef,” though he says he never cooked a meal). Last week, in a particularly furious rant, he accused Mr. Shoigu.American intelligence agencies, for example, delayed revealing what they had overheard until after the episode was all over. 
+普里戈任是后苏联时代的典型反派人物。他在上世纪80年代的大部分时间是在监狱中度过的，等到苏联解体的头几年，他在无法无天的淘金热中赚得盆满钵满。他之所以能接近普京，部分原因在于为其国宴提供服务（这也让他有了讽刺的“普京厨子”之名，尽管他说自己从来没做过饭）上周，普里戈任又大发雷霆，指责绍伊古,美国情报机构推迟到事件结束后才透露他们无意中听到的内容。
+
+Russia’s history is rich with stories of uprisings and pretenders, and few of them end well for the rebels. Cossacks who followed Ivan Mazepa in switching sides from Peter the Great to the Swedes in a key battle in 1709 were subsequently lured into surrendering with promises of amnesty. Their heads eventually landed on spikes and were sent floating down the Dnieper River.
+俄罗斯的历史里充满了起义和权力觊觎者，但叛军很少有好的结局。在1709年的一场关键战役中，追随伊凡·马泽帕的哥萨克人背叛了彼得大帝，转而支持瑞典，随后被大赦的承诺引诱投降。最终，他们还是被杀死，尸首漂流在第聂伯河上。
+
+But to make that case, they will have to prevail over a complex web of motives on the part of leaders who have lined up with Russia, whether ideological, strategic, commercial, or even — as in the case of a few — simple self-preservation.For now, Mr. Putin seems intent on pinning the mutiny solely on Mr. Prigozhin.Russia’s entire military campaign in Ukraine has been characterized by a musical chairs of changing generals. 
+与俄罗斯结盟的领导人有着错综复杂的动机, 无论是意识形态、战略、商业，甚至是单纯的自我保护——正如少数情况所表明的。他们需要拿出足以盖过这些动机的说服力。目前来看，普京似乎倾向于把兵变归咎于普里戈任一人。俄罗斯在乌克兰的军事行动全过程有一个特点，就是更换将军的抢椅子游戏。
+
+Many powerful Russian figures have come out on the losing end of factional battles during Mr. Putin’s 23 years as Russia’s leader, ultimately receding into exile, prison or anonymity.Prigozhin’s rebellion wasn’t a bid for power or an attempt to overtake the Kremlin,To top it off,Putin was ignoring him and publicly supporting his most dangerous adversaries.
+在普京担任俄罗斯领导人的23年里，许多有权势的俄罗斯人物在派系斗争中败下阵来，最终落得流亡、入狱或被人遗忘的下场。普里戈任的叛乱不是为了夺权，也不是为了推翻克里姆林宫，最糟糕的是，普京无视他，公开支持他最危险的对手。
+
+Mr. Prigozhin frequently belittled General Gerasimov in his Telegram audio messages, implying that he was an office-bound official of the kind that smothers regular soldiers with bureaucracy.He went on to lambast the Russian defense leadership for “sitting on their big asses smeared with expensive creams”
+普里戈任经常在Telegram音频消息中贬低格拉西莫夫，暗示他是个坐办公室的官员，用官僚主义压得普通士兵喘不过气来。他还猛烈抨击了俄罗斯国防领导人，说他们“安居高位的巨大屁股上涂满了昂贵的润肤霜”
+
+Relying on exports to juice growth is a tried-and-true formula for China. The normal way for a country to get out of a real estate slump is to export your way out.China’s property problems are entrenched. A glut of vacant and unfinished housing has led to a steep fall in construction, previously the country’s biggest industry. Developers are drowning in debt.
+对中国来说，依靠出口来推动增长是行之有效的方法。一个国家摆脱房地产衰退的通常方式是出口，中国的房地产问题根深蒂固。大量空置和未完工的房屋导致建筑业急剧下滑，而建筑业曾是该国最大的行业。开发商为债务所困。
+
+In Europe, a key market for China for a wide variety of goods, officials and business leaders have signaled that they are wary of China’s surging trade surplus because they are already struggling to cope with an influx of Chinese cars. 
+欧洲是中国多种商品的重要市场。在欧洲，官员和商界领袖已经表示，他们对中国激增的贸易顺差感到担忧，因为他们已经在艰难应对中国汽车的涌入。
+
+SinoFuelCell, a Shanghai company that makes hydrogen-based propulsion systems mostly for freight trucks, has focused on reducing costs to make fuel cells more competitive with internal combustion engines.Green energy is another area where China is thriving. 
+主要为货运卡车制造氢动力系统的上海神力科技一直专注于降低成本，使燃料电池相对于内燃机更具竞争力。绿色能源是中国正在蓬勃发展的另一个领域。
+
+Experts at the World Bank and elsewhere have said China should try to shore up its domestic economy by strengthening health insurance, pensions and other aspects of the social safety net, so that Chinese households will feel more confident to spend money.
+世界银行和其他机构的专家表示，要提振国内经济，中国应着手加强医疗保险、养老和社会保障网其他方面的福利，这样中国家庭的消费信心才会提高。

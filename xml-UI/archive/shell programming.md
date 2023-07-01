@@ -510,6 +510,32 @@ echo first
 else
 echo second
 fi
+
+#!/bin/sh
+echo "********************************"
+echo "* Start to full-sync...         "
+echo "********************************"
+
+OFF='monitored_by_sha: "false"'
+ON='monitored_by_sha: "true"'
+if grep -q "$OFF" mock-service.yaml; then
+  echo "monitor was off."
+  sed -i 's/monitored_by_sha: "false"/monitored_by_sha: "true"/g' mock-service.yaml
+  echo "turn on monitor."
+elif grep -q "$ON" mock-service.yaml; then
+  echo "monitor was on."  
+  sed -i 's/monitored_by_sha: "true"/monitored_by_sha: "false"/g' mock-service.yaml
+  echo "turn off monitor."
+fi
+
+kubectl apply -f mock-service.yaml -n myNamespace
+echo "refresh service."
+
+sleep 5
+
+echo "********************************"
+echo "* Complete full-sync...         "
+echo "********************************"
 ```
 
 - 常用判断

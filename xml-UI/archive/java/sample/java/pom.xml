@@ -20,47 +20,49 @@
         <!--        </resources>-->
         <!--        <sourceDirectory>.</sourceDirectory>-->
         <plugins>
-            <!--            <plugin>-->
-            <!--                <groupId>org.codehaus.mojo</groupId>-->
-            <!--                <artifactId>aspectj-maven-plugin</artifactId>-->
-            <!--                <version>1.7</version>-->
-            <!--                <configuration>-->
-            <!--                    <complianceLevel>1.8</complianceLevel>-->
-            <!--                    <source>1.8</source>-->
-            <!--                    <target>1.8</target>-->
-            <!--                    <showWeaveInfo>true</showWeaveInfo>-->
-            <!--                    <verbose>true</verbose>-->
-            <!--                    <Xlint>ignore</Xlint>-->
-            <!--                    <encoding>UTF-8</encoding>-->
-            <!--                    <sources>-->
-            <!--                        <source>-->
-            <!--                            <basedir>src/main/java</basedir>-->
-            <!--                            <includes>-->
-            <!--                                <include>**/EmployeeCRUDAspectJCompile.java</include>-->
-            <!--                                <include>**/beans/EmployeeManagerCompile.java</include>-->
-            <!--                                <include>**/SecurityAspect.aj</include>-->
-            <!--                            </includes>-->
-            <!--                            <excludes>-->
-            <!--                                <exclude>**/loadtime/*.java</exclude>-->
-            <!--                                <exclude>**/spring/aop/*.java</exclude>-->
-            <!--                            </excludes>-->
-            <!--                        </source>-->
-            <!--                    </sources>-->
-            <!--                    &lt;!&ndash;                    <weaveDirectories>&ndash;&gt;-->
-            <!--                    &lt;!&ndash;                        <weaveDirectory>${project.build.directory}/unwoven-classes</weaveDirectory>&ndash;&gt;-->
-            <!--                    &lt;!&ndash;                    </weaveDirectories>&ndash;&gt;-->
-            <!--                </configuration>-->
-            <!--                <executions>-->
-            <!--                    <execution>-->
-            <!--                        <goals>-->
-            <!--                            &lt;!&ndash; use this goal to weave all your main classes &ndash;&gt;-->
-            <!--                            <goal>compile</goal>-->
-            <!--                            &lt;!&ndash; use this goal to weave all your test classes &ndash;&gt;-->
-            <!--                            <goal>test-compile</goal>-->
-            <!--                        </goals>-->
-            <!--                    </execution>-->
-            <!--                </executions>-->
-            <!--            </plugin>-->
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>aspectj-maven-plugin</artifactId>
+                <version>1.7</version>
+                <configuration>
+                    <complianceLevel>1.8</complianceLevel>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <showWeaveInfo>true</showWeaveInfo>
+                    <verbose>true</verbose>
+                    <Xlint>ignore</Xlint>
+                    <encoding>UTF-8</encoding>
+                    <sources>
+                        <source>
+                            <basedir>./</basedir>
+                            <includes>
+                                <include>**/TraceAspect.java</include>
+                                <include>**/TraceTarget.java</include>
+                                <include>**/EmployeeCRUDAspectJCompile.java</include>
+                                <include>**/beans/EmployeeManagerCompile.java</include>
+                                <include>**/SecurityAspect.aj</include>
+                            </includes>
+                            <excludes>
+                                <exclude>**/loadtime/*.java</exclude>
+                                <exclude>**/spring/aop/*.java</exclude>
+                            </excludes>
+                        </source>
+                    </sources>
+                    <weaveDirectories>
+                        <weaveDirectory>${project.build.directory}/unwoven-classes</weaveDirectory>
+                    </weaveDirectories>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <!-- use this goal to weave all your main classes -->
+                            <goal>compile</goal>
+                            <!-- use this goal to weave all your test classes -->
+                            <goal>test-compile</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>
@@ -90,7 +92,7 @@
                                 </includes>
                                 <excludes>
                                     <exclude>io.opentracing</exclude>
-<!--                                    <exclude>io.jaegertracing</exclude>-->
+                                    <!--                                    <exclude>io.jaegertracing</exclude>-->
                                     <exclude>junit:junit</exclude>
                                     <exclude>jmock:*</exclude>
                                     <exclude>*:xml-apis</exclude>
