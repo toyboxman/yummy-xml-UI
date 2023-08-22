@@ -506,6 +506,11 @@ git cherry-pick dev~3..dev
 
 ### git diff
 ```console
+# 展示当前分支本地修改的数量
+git diff --stat
+# 展示当前分支本地修改已added但未commit的数量
+git diff --cached --stat
+
 # 比较当前master分支和remote的master分支的差异
 git diff origin/master  
 # 比较当前master分支和remote的master分支中指定文件的差异

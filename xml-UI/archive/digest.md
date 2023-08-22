@@ -897,6 +897,9 @@ monitor in:description language:python
 #### protobuf
 + [简要使用](https://mp.weixin.qq.com/s/-OmguA3IqwQqJRjiUhyUEQ)
 + proto3/grpc使用[[1](https://zhuanlan.zhihu.com/p/60608963), [2](https://zhuanlan.zhihu.com/p/436041011), [3](https://zhuanlan.zhihu.com/p/145178867)]
+    - [gRPC-拦截器和监听器](https://github.com/helloworlde/helloworlde.github.io/blob/main/content/posts/gRPC-%E6%8B%A6%E6%88%AA%E5%99%A8%E5%92%8C%E7%9B%91%E5%90%AC%E5%99%A8.md)
+    - [gRPC 反射服务](https://github.com/helloworlde/helloworlde.github.io/blob/main/content/posts/gRPC-%E5%8F%8D%E5%B0%84%E6%9C%8D%E5%8A%A1.md)
+    - [Thrfit-客户端请求处理流程](https://github.com/helloworlde/helloworlde.github.io/blob/main/content/posts/Thrfit-%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AF%B7%E6%B1%82%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B.md)
 
 protobuf rpc service定义编译后缺失，原因是默认选项是留给实现自己完成custom code generator，而不是选择"generic"产生services模板.
 因此，需要在.proto定义文件头加上`option java_generic_services = true;`

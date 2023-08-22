@@ -36,6 +36,7 @@
                         <source>
                             <basedir>./</basedir>
                             <includes>
+                                <include>**/MethodAspect.java</include>
                                 <include>**/TraceAspect.java</include>
                                 <include>**/TraceTarget.java</include>
                                 <include>**/EmployeeCRUDAspectJCompile.java</include>

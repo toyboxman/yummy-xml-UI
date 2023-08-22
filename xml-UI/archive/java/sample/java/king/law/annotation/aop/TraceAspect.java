@@ -8,6 +8,8 @@ import org.aspectj.lang.annotation.Pointcut;
 
 import java.lang.reflect.InvocationTargetException;
 
+//增加新的aspect定义就需要在pom的aspectj-maven-plugin定义中指定，否则不会对源码做织入
+//mvn aspectj:compile exec:java -Dexec.mainClass=king.law.annotation.aop.TraceTarget -f pom.xml
 @Aspect
 public class TraceAspect {
     @Pointcut(value = "execution(@king.law.annotation.aop.Trace * *(..))")

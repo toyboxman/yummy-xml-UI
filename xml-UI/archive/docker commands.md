@@ -125,8 +125,16 @@ docker rmi -f <NAME | ID>
 # export image
 docker save nginx > /tmp/nginx.tgz
 
-# import image
+# docker load creates potentially multiple images from a tarred repository (since docker save can save multiple images in a tarball).
+# you can import the image(s) in the same way they were originally created with the metadata from the Dockerfile, so you can directly run them with docker run.
 docker load < /tmp/nginx.tgz
+docker load -i /tmp/nginx.tgz
+
+# docker import creates one image from one tarball which is not even an image (just a filesystem you want to import as an image)
+# this imported image will not be able to be run from docker run, since it has no metadata associated with it (e.g. what the CMD to run is.)
+# docker export/import 仅仅作用于image中的文件系统，不会导入导出image metadata中CMD和ENTRYPOINT, 因此无法运行docker run.
+# 允许导入镜像时候带上标签 docker import [OPTIONS] file|URL|- [REPOSITORY[:TAG]]
+docker import sha-manager.tar sha-mgr:latest
 
 # create container instance with name 'jdk-dev', tty interaction using image 'java' and start
 # -i, --interactive    Keep STDIN open even if not attached
