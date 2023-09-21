@@ -163,7 +163,7 @@
         - [mtr检测网络联通性](https://mp.weixin.qq.com/s/-DWPyHyGD_Lvdyp8KNSQ5w)
         - [网络测速工具fast/speedtest/iPerf](https://mp.weixin.qq.com/s/IWoxXpoF9_ZvH18Q7Aw_rQ)
         - [bmon/iftop/ntop查看网络带宽](https://mp.weixin.qq.com/s/TaKksGYnd8n8DFzQOisa4A)
-        - Nethogs/IOZone/IOTop/IPtraf/IFTop/HTop/NMON/MultiTail/Fail2ban/Tmux/Agedu/NMap/Httperf[[1](https://mp.weixin.qq.com/s/x7wanQOitsOywBb9TP3zoQ), [2](https://mp.weixin.qq.com/s/EJBsZRFJXX3cvEGQDi5Wsg)]
+        - Nethogs/IOZone/IOTop/IPtraf/IFTop/HTop/NMON/MultiTail/Fail2ban/Tmux/Agedu/NMap/Httperf[[1](https://mp.weixin.qq.com/s/0ZZbXeRopiEtHiCJfSbsPQ), [2](https://mp.weixin.qq.com/s/QEQZzb6sTUrtBcBgkwKQDQ)]
         - [配置Static IP](https://mp.weixin.qq.com/s/fXpRutYM5t7jgJbe72znNA)
         - [更改MAC地址](https://mp.weixin.qq.com/s/J7O9tFS9198oGSt60bFaug)
         - [nmcli管理网络连接](https://mp.weixin.qq.com/s/rsc0zeWYwFRlIIvPnJ5tzA)
@@ -1060,11 +1060,20 @@ $ find $(pwd) -type f -name *.xml
 
 # exec 两种输出方式结果一致, {} + 方式输出格式自动对齐
 # {}表示find传入参数
-find source/lib/ -name *.jar -exec file {} +
-find source/lib/ -name *.jar -exec file {} \;
+$ find source/lib/ -name *.jar -exec file {} +
+$ find source/lib/ -name *.jar -exec file {} \;
 # 将所有com包中java源文件合并到src.txt并统计行数
-find src/com/ -name *.java -exec cat {} >> src.txt +
-wc -l src.txt
+$ find src/com/ -name *.java -exec cat {} >> src.txt +
+$ wc -l src.txt
+# 修改文件后缀名
+$ find . -type f -name "img-*" -exec mv {} {}.png \;
+
+# exec高级用法是带上bash脚本
+# https://www.baeldung.com/linux/find-exec-multiple-commands
+# 把当前目录中所有mp4文件统一改名，规则是通过checksum产生文件名
+# $0是把{}参数值作为bash文件名参数传入执行的脚本, "$0"这么用是解决文件名中出现tab 空格等字符导致命令解析错误
+$ find . -name '*.mp4' -exec bash -c 'name=`md5sum -b "$0" | cut -b 1-5`; echo $name; mv -v "$0" $name.mp4 ' {} \;
+
 
 # 删除文件名为乱码的文件
 # 乱码文件无法通过文件名匹配,只能找到文件或目录的inode
@@ -1215,7 +1224,7 @@ scp king@ip:/home/king/1.log ./king
 # scp不能直接支持wildcard，当想拷贝全部文件需要用 \*，或者拷贝文件所在目录
 scp jaeger@10.176.217.250:/home/jaeger/Downloads/\* ~/Downloads 
 
-# -r 远程拷贝目录
+# -r 循环传输整个目录
 # 如果希望scp操作不用每次输入login密码
 # 可以通过ssh部分免密ssh-copy-id设置
 # 还可以使用sshpass需要额外安装
@@ -1224,11 +1233,13 @@ sshpass -p "password" scp -r user@172.10.1.1:/remote/path /local/path
 sshpass -f "/path/to/passwordfile" scp -r user@172.10.1.1:/remote/path /local/path
 
 # -C 压缩的意思
-# -r 是循环传输整个目录
+# -r 循环传输整个目录
 # -p 表示保留原文件的一些属性
 # -l 表示限制带宽(kb/s)
 # -v 表示显示详细进程
-scp -Crvp -l 1024 logs/ root@remoetserver:/opt/logs
+$ scp -Crvp -l 1024 logs/ root@remoetserver:/opt/logs
+# 拷贝远程机器上目录test 源目录不要带上‘/’ 'test/'
+$ scp -r root@10.185.103.89:/root/test ./
 
 # 如果传输的文件非常的大，比如每天上T的日志文件，你不可能每次都把这些文件传输一遍，所以增量备份会成为一个首要的需求
 # 两个小区别：rsync默认是只拷贝有变动的文件，scp是全量拷贝，所以rsync很适合做增量备份。scp是加密传输，而rsync不是
@@ -2821,6 +2832,20 @@ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -c 1,3,6
 MSG
 MSG
 
+# 截取 IP
+$ ip a show eth1
+3: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1800 qdisc fq_codel state UP group default qlen 1000
+    link/ether 00:50:56:a7:6f:fe brd ff:ff:ff:ff:ff:ff
+    altname eno2
+    altname enp19s0
+    altname ens224
+    inet 192.168.100.12/24 brd 192.168.100.255 scope global eth1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::250:56ff:fea7:6ffe/64 scope link 
+       valid_lft forever preferred_lft forever
+$ ip address show eth1 | grep -w inet | cut -d '/' -f 1 | cut -b 10-
+192.168.100.12
+
 # -d "delimiter" 指定分隔符
 # -f (field) 按分隔后的字段截取内容 
 # -f 1指定split出的数组第一个，-f 2指定split出的数组第二个
@@ -2935,6 +2960,18 @@ $ echo 456 | tee -a a.log
 $ cat a.log
 123
 456
+
+$ tee -a a.log << EOF
+> 666
+> 
+> 999
+> EOF
+$ cat a.log
+123
+456
+666
+
+999
 ```
 
 ---
@@ -3068,6 +3105,8 @@ Try `iptables -h' or 'iptables --help' for more information.
 iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
 # 把6831端口允许tracer用户发送udp报文规则添加OUTPUT表尾
 iptables -A OUTPUT -p udp --dport 6831 -m owner --uid-owner tracer -j ACCEPT
+# 允许响应ping命令
+$ iptables -A OUTPUT -p icmp -j ACCEPT; iptables -A INPUT -p icmp -j ACCEPT
 
 # 在一条规则中允许多个端口
 # -m multiport --dports

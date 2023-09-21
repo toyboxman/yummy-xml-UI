@@ -144,3 +144,84 @@ Only three hours before she found herself huddled in the Pacific Ocean, a barrag
 
 In China, August has been a dizzying ride.But now China is struggling to regain its footing after emerging from the paralyzing pandemic lockdowns its leaders imposed, and many of its economic problems are pointing back to real estate.
 在中国，这个8月事件频出，令人眼花缭乱。中国正在艰难地试图重新站稳脚跟，许多经济问题又回到了房地产的问题上。
+
+Beijing has often warned Tokyo and Seoul not to be drawn into the Taiwan issue, depicting Washington as a puppet master manipulating its allies. In an editorial on Wednesday, the Global Times likened South Korea to a “kindergarten child receiving a sticker from their teacher” by agreeing to attend the summit at Camp David. That excitement, the editorial said, should instead be replaced with “a sense of deep trepidation and caution.”China has also invoked ethnicity to try to drive a wedge between the sides.no matter how yellow you dye your hair, or how sharp you make your nose, you’ll never turn into a European or American.
+中国政府经常警告日韩不要卷入台湾问题，将美国描述为操纵盟友的木偶大师。《环球时报》在上周三的一篇社评中把同意参加戴维营峰会的韩国比作“幼儿园的孩子被老师奖励了小红花”。社评称，这种兴奋应该被“紧张与谨慎”取代。中国也在用种族特征来试图瓦解美日韩关系。无论头发染得再黄，鼻子修得再尖，也变不成西方人。
+
+Mr. Li had four stores and closed two of them. He let go two-thirds of his employees and stopped investing in new products. He also cut back on dining out and hanging out with his buddies. Strapped for cash, he tried to sell an apartment he bought in 2020 as an investment. But there have been few queries, even after he cut the price to $400,000 from $500,000.Tremors in China’s real estate market are shaking the country’s economy, as well as the world, which has come to rely on China as a reliable engine of growth.
+李先生曾有四家店，其中两家已关张。他解雇了三分之二的员工，也不再投资新产品。他还减少了下馆子和与朋友聚会的次数。由于现金短缺，他曾试图出售自己在2020年买的一套用于投资的公寓。但即使在他将售价从330万元降到290万元后，也几乎无人问津。中国房地产市场的震荡正在动摇中国经济，也动摇了已经开始依赖中国作为可靠增长引擎的世界经济。
+
+Chinese banks extended $47.5 billion of new renminbi loans, tumbling 89 percent from June — and half the amount of a year earlier. Housing sales in terms of footage fell 6.5 percent in the first seven months of the year, after shrinking by nearly a quarter last year. In a country where three-fifths of the household assets are tied up in real estate, that decline is alarming.
+中国各银行的人民币贷款增加了3459亿元，与6月份相比减少了89%，只是去年同期的一半。今年前七个月的商品房销售面积与去年同期相比下降了6.5%，而去年的商品房销售面积已经萎缩了近25%。在这个60%的家庭资产与房地产捆绑在一起的国家，这种下降令人震惊。
+
+Home prices have slumped, denting Chinese households’ savings, and confidence, as the government tries to transition from an economy powered by state-directed investments and exports to one led by domestic consumer spending.The government recently outlined programs aimed at spurring spending and investment, but the details have been opaque.That said, the reaction from global investors has been relatively muted so far. 
+在政府试图从国家主导的投资和出口驱动的经济转型为国内消费支出主导的经济之际，房价暴跌，削弱了中国家庭的储蓄和信心。政府最近出台了刺激支出和投资的计划，但细节仍不明确。尽管如此，迄今为止全球投资者的反应相对平静。
+
+The 2008 crisis was brought on by the bursting of a huge, trans-Atlantic housing bubble. The effects of the burst bubble were magnified by financial disruption, especially the collapse of “shadow banks” — institutions that acted like banks, created the risk of what amounted to bank runs, but were both largely unregulated and lacking the safety net provided to conventional banks.Now comes China, with a real estate sector even more swollen than those of Western nations in the run-up to 2008.many potential investors fear that the nation may be a kind of Roach Motel: You can get in, but you may not be able to get out.
+2008年的危机是由大西洋两岸巨大的房地产泡沫破裂引发的。金融混乱放大了泡沫破裂的影响，尤其是“影子银行”的崩溃——这些机构以银行的方式行事，制造了相当于银行挤兑的风险，但在很大程度上不受监管，也缺乏为传统银行提供的安全网。现在轮到中国了，在2008年之前，中国的房地产行业比西方国家还要膨胀。许多潜在投资者担心这个国家可能是一个捕蟑螂器：进得去，但是可能出不来。
+
+None of this means that we should welcome the possibility of a Chinese slump or gloat over another nation’s troubles. Even on purely selfish grounds, we should worry about what the Chinese regime might do to distract its citizens from domestic problems.
+这并不意味着我们应该乐见中国经济衰退的可能性，或者对另一个国家的麻烦幸灾乐祸。即使纯粹出于自私的考虑，我们也应该担心中国政府会采取什么措施来分散其国民对国内问题的注意力。
+
+At a moment when Washington is trying to reset its tense relationship with China, states across the country are leaning into anti-Chinese sentiment and crafting or enacting sweeping rules aimed at severing economic ties with Beijing.The restrictions coincide with a resurgence of anti-China sentiment, inflamed in part by a Chinese spy balloon that traveled across the United States this year and by heated political rhetoric ahead of the 2024 election.
+就在华盛顿试图重启与中国的紧张关系之际，美国各州走向反中情绪，制定或颁布旨在切断与北京经济联系的全面规定。这些限制措施出台之际，反中情绪再度抬头，部分原因是今年中国的一个间谍气球飞过美国，以及2024年大选前激烈的政治言论。
+
+The state moves, some of which also include investments coming from Russia, Iran and North Korea, have raised the ire of business groups that fear the rules will be too onerous or opponents who view them as discriminatory. Some of the proposals wound up being watered down amid the backlash.
+这些州的举措——其中一些还将来自俄罗斯、伊朗和朝鲜的投资包括在内——引发了商业团体的愤怒，它们担心这些规定过于严厉，另外一些反对者则认为这些规定具有歧视性。在强烈反对的声音中，一些提议最终做了淡化处理。
+
+You might want to get tough on China, but if you don’t really think through what the second- and third-order effects might be, you could just end up hurting your state revenues and your property market while also failing to solve an actual national security problem.Their fear is that such actions would not just deprive Chinese investors of good investment opportunities in the U.S.
+你可能想对中国采取强硬态度，但如果你没有真正考虑到可能的二阶和三阶效应，你最终可能会损害州收入和房地产市场，同时也无法实际解决国家安全问题。他们担心此类行为不仅会剥夺中国投资者在美国的良好投资机会
+
+Even in the future, when we have reached a higher level of development and are equipped with more substantial financial resources, we still must not aim too high or go overboard with social security, and steer clear of the idleness-breeding trap of welfarism
+即使将来发展水平更高、财力更雄厚了，也不能提过高的目标，搞过头的保障，坚决防止落入‘福利主义’养懒汉的陷阱
+
+When Mr. Zhou, the former central bank chief, unleashed a surge of borrowing in 2016, he triggered a frenzy of apartment construction even in remote cities like Qiqihar, a fading, frozen center of artillery manufacturing near the Siberian frontier. As easy credit sent apartment prices skyward, people in Qiqihar and throughout the country felt richer and flocked to car dealerships and other businesses to spend more money.
+央行前行长周小川2016年推动银行大量发放房贷后，许多城市出现了公寓建设热潮，就连齐齐哈尔这样的偏远城市也不例外。离西伯利亚不远的齐齐哈尔天气寒冷，主要工业是日渐衰落的火炮制造。随着宽松的信贷导致房价飞涨，齐齐哈尔和全国各地的人们觉得自己更有钱了，他们纷纷涌入汽车经销店和其他商店，花更多的钱买东西。
+
+Apartments in China are commonly delivered by builders without amenities like sinks and washing machines, or even basics like closets or flooring. Cutting interest rates is necessary,It is about stabilizing the property sector and offering calibrated relief to companies and local governments that are experiencing financing woes.
+在中国，开发商交付的公寓通常是毛坯房，没有厨卫设施以及洗衣机等家电，甚至没有壁橱或地板等基本的东西。有必要降息，降息是为了稳定房地产行业，也是为面临财务困难的公司和地方政府提供有针对性的救援。
+
+China cannot export its way out of economic trouble without incurring considerable hostility from governments in Europe, the United States and developing countries, which have become increasingly reluctant to accept job losses associated with a dependence on imports. But that may be a risk that China is willing to take as pressure increases for further interest rate cuts.
+中国不能靠增加出口走出经济泥潭，因为那会招致欧洲国家、美国，以及发展中国家政府的强烈不满，这些国家已越来越不愿意接受依赖进口导致的失业。但随着进一步降息的压力加大，这也许是中国愿意承担的风险。
+
+On the eve of the first debate of the 2024 presidential race, trust in government is rivaling historic lows. Officials have been working hard to safeguard elections and assure citizens of their integrity. But if we want public office to have integrity, we might be better off eliminating elections altogether.The ancient Greeks invented democracy, and in Athens many government officials were selected through sortition — a random lottery from a pool of candidates. 
+在2024年总统竞选首场辩论前夕，人们对政府的信任度正跌向历史低点。官员们一直在努力维护选举，并向公民保证这些选举是公正的。但如果我们想要保证公职的诚信正直，还不如完全取消选举。古希腊人发明了民主，在雅典，许多政府官员都是通过抽签选出的——从候选人池中随机抽取。
+
+Mr. Modi was greeted on arrival in Johannesburg by a large billboard and a line of South Africans of Indian descent — business and cultural leaders carefully vetted by a local interest group.We cannot accept the greedy neocolonialism that imposes trade barriers and discriminatory measures under the guise of protecting the environment
+莫迪抵达约翰内斯堡时，迎接他的是一块巨大的广告牌和一排印度裔南非人，他们是经当地一个利益集团仔细审查过的商界和文化界领袖。我们不能接受贪婪的新殖民主义在保护环境的幌子下，强加贸易壁垒和歧视性措施
+
+For the smallest of the BRICS countries, South Africa, whose economic and political woes have created a despondent national atmosphere, politicians see pulling off an international event of this scale as a rare win.Facing waning domestic popularity, Mr. Ramaphosa is casting himself as an international statesman and his country as the voice of Africa.
+对于金砖国家中最小的国家南非来说，其经济和政治困境造成了一种沮丧的国家气氛，政治人士认为成功举办如此规模的国际活动是难得的胜利。面对国内民众支持率的下降，拉马福萨正在把自己塑造成一位国际政治家，把他的国家塑造成非洲的代言人。
+
+Last month, Mr. Putin pulled out of the deal, saying that the provisions benefiting Russia had been ignored or were inadequate, and his forces began the systematic destruction of Ukrainian grain and port facilities. 
+上个月，普京退出了该协议，称有利于俄罗斯的条款被忽视或不充分，他的部队开始有系统地破坏乌克兰的粮食和港口设施。
+
+“The Biden crime family,” he claimed, had received millions of dollars from foreign countries. “I believe we have a compromised president,” Mr. Trump said, adding: “He’s a Manchurian candidate. That’s why Crooked Joe is letting other countries walk all over the United States.”
+他声称，“拜登犯罪家族”从外国获得了数以百万计的美元。“我相信我们的总统已经被搞定了，”特朗普说，他还说：“他是傀儡。这就是为什么奸人乔让别的国家在美国横行霸道。”
+
+But globalization also means you can’t reduce China’s contribution to the global economy over those years to the matter of its own G.D.P. — because through its boom China reshaped the world’s markets, becoming a natural commercial and financial hub, infrastructure leader, universal trade partner and demand sponge, soaking up much of what Asia and the world as a whole had to offer up or make.
+但全球化也意味着，你不能把中国这些年对全球经济的贡献仅仅归结为其自身的GDP。因为中国靠自身的繁荣重塑了全球市场，成为天然的商业和金融中心、基础设施领导者、全球贸易伙伴和需求海绵，吸收了亚洲和整个世界所能供应或制造的大部分产品。
+
+President Xi Jinping of China, traveling to Africa for the first time in five years, pledged greater cooperation with South Africa to enhance the voice of poor nations. He commended developing countries for “shaking off the yoke of colonialism.”At present, the Cold War mentality is lingering, and the geopolitical situation is grim,The grouping should “bring more countries into the BRICS family so as to pool our strength, pool our wisdom to make global governance more just and equitable.”
+中国国家主席习近平在五年来首次访问非洲，承诺与南非加强合作，增加贫困国家的发言权。他称赞发展中国家“大多是从殖民主义的历史泥淖中”走到今天的。当前，冷战思维阴魂不散，地缘政治形势严峻，该集团应该“让更多国家加入到金砖大家庭，集众智、汇群力，推动全球治理朝着更加公正合理的方向发展”。
+
+Putin is someone who generally thinks that revenge is a dish best served cold,So he’s going to try to settle the situation to the extent he can. But, again, in my experience, Putin is the ultimate apostle of payback. So I would be surprised if Prigozhin escapes further retribution for this.
+普京是那种认为君子报仇十年不晚的人，所以他会尽其所能稳定这个局面。但又说回来，根据我的经验，普京是最执著于报复的人。所以，如果普里戈任接下来能继续逃脱惩罚，我会很惊讶。
+
+Saito’s critics have called him out for castigating the capitalist system he has benefited from while providing little more than unworkable idealism and failed ideology as an alternative. His book has ignited a publishing boomlet on Marxism in Japan, with some works attacking his ideas and others supporting them.
+斋藤的批评者指责他，称他从资本主义制度中受益，却转而批评资本主义，同时只给出了行不通的理想主义和失败的意识形态作为替代方案。他的书在日本掀起了马克思主义书籍的出版热潮，一些作品攻击他的观点，另一些则支持他的观点。
+
+The threadbare social safety net has contributed to the glut of apartments, as families kept buying extra homes as investments they could sell in case of hard times.The Covid pandemic magnified the problem.
+充满漏洞的社会安全网是公寓过剩的原因之一，因为家庭把不断购买额外的房子作为投资，以便他们在有经济困难时卖房变现。新冠病毒大流行加剧了这个问题。
+
+Otherwise a system built on informal, conceptual principles and practices, rather than on institutions, risks becoming unmanageable,The absence of clear signs of the punishment of Prigozhin,” and the fact that he seemed to travel freely within Russia, “were increasingly interpreted as signs of helplessness and flabbiness in the system.
+否则，一个建立在非正式的、观念性的原则和实践而非制度之上的体系，就有可能变得难以管理，没有对普里戈任的明确惩罚，”以及他似乎在俄罗斯境内自由活动的事实，“越来越多地被解读为这个体系的无助和软弱。
+
+Though his forces stood down, Mr. Prigozhin could hardly take back all that he had said in tirades against the Russian military leadership. His broadsides risked gaining traction among the Russian public, as he attacked corrupt and incompetent Russian elites waging an ill-managed war with little concern for the lives of rank-and-file soldiers.
+尽管他的军队停了下来，但普里戈任针对俄罗斯军事领导层的长篇大论已是覆水难收。他攻击俄罗斯精英腐败无能，称他们发动了一场管理不善的战争，几乎不关心普通士兵的生命，他的这些猛烈抨击有可能引起俄罗斯公众的关注。
+
+For two months, Mr. Prigozhin functioned as a kind of ghost. He moved around Russia stealthily. He ceased releasing public statements. He slipped back into the shadows from which he had emerged the previous year.Mr. Putin, all the while, chipped away at the mercenary chief’s stature in public.
+两个月来，普里戈任就像一个影子。他在俄罗斯各地偷偷摸摸地活动。他不再发表公开声明。他去年从暗处现身，现在又回到了暗处。而普京一直在公开削弱这位雇佣军首领的形象。
+
+Flashy sales offices have long played a key role in bringing in cash that property developers needed to keep growing. Most companies sold apartments before a project was finished, with customers paying upfront.Inside the sales offices, agents dressed in suits typically pitch potential buyers on the bells and whistles. A miniature model of the residential complex gives a sense of what the complex will look like when it is built. A tour of a model apartment, often decorated lavishly, sells them on a lifestyle.
+长久以来，豪华的售楼处为房地产开发商带来保持增长所需的现金方面发挥着关键作用。大多数开发商都是出售期房，让客户提前付款。售楼处里西装革履的销售通常会对潜在买家说得天花乱坠。模型展示了小区建成后的样子。参观通常装饰奢华的样板房则是在向客户推销一种生活方式。

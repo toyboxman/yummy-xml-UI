@@ -462,6 +462,10 @@ Error: failed to download "jaeger-op"
 $ minikube cache list
 $ helm delete jaeger-op -n observability
 
+# 产生helm chart的配置结果，检查正确性
+$ helm template charts --set global.enableRootHttpproxy=true -f charts/values.yaml 
+$ helm template charts/charts/route-controller-consumer/ --set route-controller-consumer.routeController.namespace=nsxaas-commonsvc-routecontroller --set route-controller-consumer.enabled=true
+
 ```
 
 #### problem-digest

@@ -589,6 +589,20 @@ command1 on $OUTPUT
 command2 on $OUTPUT
 commandN
 done
+
+#!/bin/bash 
+COUNTER=0
+while [  $COUNTER -lt 10 ]; do
+    echo The counter is $COUNTER
+    let COUNTER=COUNTER+1 
+done
+
+#!/bin/bash 
+COUNTER=20
+until [  $COUNTER -lt 10 ]; do
+    echo COUNTER $COUNTER
+    let COUNTER-=1
+done
 ```
 还可以传入循环参数
 ```sh
@@ -628,6 +642,65 @@ for file in "$folder"/*; do
         # Add your commands here
     fi
 done
+```
+通过ping循环测试MTU的最小值
+```sh
+#!/bin/sh
+# mtu-check.sh 192.168.100.12 192.168.100.18 1515
+
+# 定义一个全局变量
+ret=""
+# 定义函数，sh中函数只能返回数字不能返回其他类型
+pingMTU(){
+    # c1 只发一个包
+    # W1 超时时长一秒
+    # s 设定包payload大小
+    # M do 遇到MTU不匹配不允许分包处理
+    # $1 $2 $3 为本函数的三个传入参数
+    ping -I $1 $2 -c1 -W1 -s $3 -Mdo > ~/test/l2/result/output
+    # 检查结果是否丢包
+    ret=`grep '100% packet loss' ~/test/l2/result/output`
+}
+# 调用函数并传入三个参数
+pingMTU $1 $2 $3
+# 如果ret不为空串
+if [ -n "$ret" ]; then
+    echo 'Ping failure analysis :' > ~/test/l2/result/output-more
+    echo '************************************1.Check MTU**********************************************' >> ~/test/l2/result/output-more
+    # 定义整形变量 next
+    # next值计算用双小括号方式 $(( 计算式 ))
+    next=$(( $3 - 1 ))
+    # 定义while循环的数字flag
+    COUNTER=0
+    # counter less than 100就继续下一次循环
+    while [ $COUNTER -lt 100 ]; do
+        echo "Check MTU $[$next + 86]..." >> ~/test/l2/result/output-more
+        pingMTU $1 $2 $next
+        # 如果ret为空串 zero
+        if [ -z "$ret" ]; then
+            # COUNTER值计算用let方式 let 计算式
+            let COUNTER=COUNTER+101
+            # 清空文件
+            echo >> ~/test/l2/result/output-more
+            echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" >> ~/test/l2/result/output-more
+            echo "The minimum MTU in this link is $[$next + 86]." >> ~/test/l2/result/output-more
+            echo '*************************************************************************************************' >> ~/test/l2/result/output-more
+        else
+            # 如果ret是 '100% packet loss' 进行下一轮循环
+            # COUNTER值计算用中括号方式 $[ 计算式 ]
+            COUNTER=$[ COUNTER+1 ]
+            echo "Error: MTU-$[$next + 86] is invalid." >> ~/test/l2/result/output-more
+            next=$[ $next - 1 ]
+        fi
+    done
+
+    pingMTU $1 $2 $3
+    echo >> ~/test/l2/result/output-more
+    echo '************************************3.Mitigation suggestion***************************************' >> ~/test/l2/result/output-more
+    echo "Align the all MTU setting to $(($next + 86))." >> ~/test/l2/result/output-more
+else
+    echo > ~/test/l2/result/output-more
+fi
 ```
 
 ### Logical 条件
