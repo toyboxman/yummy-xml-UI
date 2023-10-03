@@ -181,3 +181,59 @@ Mr. Musk’s decision to start X.AI came partly out of concerns about underpopul
 If we abandon the core principles” of the United Nations Charter “to appease an aggressor, can any member state in this body feel confident that they are protected? If we allow Ukraine to be carved up, is the independence of any nation secure? I respectfully suggest the answer is no.While he took an unrelenting stance against Russia’s brutal war and warned against appeasing Moscow, he drew a more measured line on China
 如果我们要抛弃”联合国宪章的核心原则，“去姑息一个侵略者，那么这个组织里的所有成员国，有谁还会相信自己是会得到保护的？如果我们容许乌克兰被瓜分，还有哪个国家的独立是有保障的？我怀着敬意提醒大家，答案是否定的。虽然对俄罗斯的残酷战争保持着绝不姑息的立场，并警告不要对莫斯科让步，但他对中国的态度相对谨慎
 
+The United Nations’ secretary general, António Guterres, convened a special summit on Wednesday in New York City designed to highlight the efforts of the most ambitious global leaders on climate policy — and to implicitly shame those who are dragging their feet.We must make up time lost to foot-dragging, arm-twisting and the naked greed of entrenched interests raking in billions from fossil fuels.
+周三，联合国秘书长古特雷斯在纽约召开特别峰会，旨在强调最具雄心的全球领导人在气候政策方面所做的努力，并含蓄地羞辱那些拖后腿的国家。我们必须弥补因拖延、说服工作，以及既得利益集团赤裸裸的贪婪而失去的时间，这些集团从化石燃料中攫取数十亿美元利润。
+
+As the very first of the universal museums, the British Museum built its collection over several hundred years of colonial boondoggles and the result is a treasure house of epic proportions.But the museum is largely prohibited by law from disposing of its holdings, and it has often justified its position by invoking its ability to safeguard the world’s treasures.
+作为全球首家普世博物馆，大英博物馆在数百年的殖民掠夺中建起巨大的收藏，成就了一座宏伟的文化宝库。但法律基本上禁止该馆放弃藏品，该馆也总以捍卫世界宝藏的能力为由来证明其立场的正当性。
+
+That position no longer makes sense. The universal museum, a relic of the Enlightenment, was never truly universal: Virtually all universal museums reside in Western cities, far beyond the reach of many of the communities from which their objects were taken. And there is nothing enlightened about hoarding the world’s culture in storage, unseen by many and often, apparently, unsafe.
+但这种正当性如今已经站不住脚。作为启蒙运动的遗迹，普世博物馆从来没有真正的普世价值：几乎所有普世博物馆都在西方城市，是许多千里之外的社会——那些被掠夺的地方——根本无法触及的。把世界文化囤积在许多人看不到且明显往往并不安全的仓库里，毫无启蒙意义可言。
+
+From the air or from one of the city’s many observation decks, Tokyo appears as a vast sea of low- and midrise buildings laced with archipelagoes of high-rises, each island marking the location of a station along one of the city’s railroad lines. 
+从空中或众多城市观景台上俯瞰，东京就像一片满是中低层建筑的广阔海洋，高楼大厦像群岛一样点缀其中，每座岛屿都是铁道线路上的一个站点。
+
+One reason Tokyo looks forward is that little remains of the city’s past. Earthquakes, fires and American bombers destroyed much of the prewar city, and after the war, the rush to provide housing and the nation’s relative poverty produced a city that wasn’t meant to last. Some of the “billboard” buildings of the postwar era — cheaply built wooden structures dressed up with sheet-metal facades — still dot the city, slowly falling apart.
+东京放眼未来的原因之一是，这座城市过去的东西已所剩无几。地震、火灾，加上“二战”期间美国的狂轰滥炸摧毁了城市战前的大部分地区，东京在战后急于为居民提供住房，而国家当时相对贫困，这意味着那时候盖房子不是为了持久。战后盖的一些“广告牌”建筑在东京仍可看到，但这些外面用金属板外墙装点的便宜木质建筑正在慢慢散架。
+
+Kicking the can down the road will make choices more difficult for future generations. If we wait, the less inclusive, less compassionate, less calm elements within our society and many societies worldwide may someday call depopulation a crisis and exploit it to suit their agendas — of inequality, nationalism, exclusion or control.
+一拖再拖只会让子孙后代的选择更加困难。如果我们继续等下去，世上那些不够包容、不够同情、不够冷静的分子可能会在某一天将人口减少称为一场危机，并将其用于他们的议程——不平等、民族主义、排外或操控。
+
+His tabloids ran on the idea of publishing for readers as they were, not according to some platonic ideal of how one wished them to be. That meant pinups and prize giveaways and blaring scandal headlines.
+他的小报的经营理念是，读者是什么人，它们就提供什么内容，它们不遵循某种希望读者成为什么样的人的柏拉图式理想。这意味着美女照片、内幕爆料和触目惊心的丑闻大标题。
+
+Like Mr. Murdoch’s tabloids, Fox had an aesthetic that was key to its appeal. Where news programs once sought to project stability and gravitas, it had flash and energy. It had the tone and political attitude of conservative talk radio and the rah-rah spirit of TV sports (as well as the blinding graphics).
+和默多克的小报一样，福克斯的审美是其吸引力的关键。以前的新闻节目追求稳定和庄严，福克斯追求的是花哨和活力。它有保守派谈话节目电台的语气和政治态度，也有电视体育节目的狂热精神（以及令人眼花缭乱的画面）
+
+China’s policymakers now face a predicament. They could stay the course, risking social stability from the economic fallout. Or they could bail out firms to prop up the economy but undermine the message that risky behavior has consequences.Zhongzhi told investors two weeks later that it was conducting “asset liquidation and capital verification” and delaying redemptions.
+中国的决策者现在面临一种困境。如果他们不救助“中植系”的话，其经济后果可能带来社会不稳定的风险。如果他们为支持经济出面救助陷入困境的公司的话，就会削弱政府希望释放的信息，即风险做法存在后果。两周后，中植告诉投资者们，正在进行“资产清算和验资”，再次推迟了赎回。
+
+she took the pen name Jiang Xue — which literally means “river snow” — from a ninth-century poem about a fisherman alone in a boat on a snowy river. The image is one of the most indelible in Chinese poetry, implying a person holding out against the odds, in a solitary pursuit that many might not understand.
+她取了笔名“江雪”——字面意思是“江上的雪”——它来自一首九世纪的诗，描写了一个渔夫在落雪的江上独自驾舟。这是中国诗歌中最令人难忘的形象之一，暗示着一个人在逆境中坚持不懈，孤独地追求着许多人可能无法理解的东西。
+
+This time it was around the Dragon Boat Festival, a particularly apt holiday because it is rooted in the story of a famous poet from antiquity who committed suicide to protest government misrule.But we can also see an endless cycle of creation, of new sparks that leap off the flint of history every time it is struck.
+那次是在端午节前后，这个节日特别应景，因为它起源于古代一位著名诗人自杀抗议朝政败坏的故事。但我们仍可以看到创作的无限循环，新的星火就在历史燧石的每一次敲击中不断迸发出来。
+
+Right on Sabina Shoal, where delicate coral once thrived, we saw boats arranged in a defensive formation. Ropes tied some of the vessels together. Chinese flags flew. Men bantered over the radio in a southern Chinese dialect. No fishing nets were in evidence.We could see empty Chinese instant noodle packets floating in the water. They have steel hulls and advanced satellites, and some have rammed smaller Southeast Asian fishing boats. 
+萨比纳浅滩曾是脆弱的珊瑚繁衍生息的地方，我们在那里看到了形成防御队形的船只。绳索将一些船只绑在一起。船上悬挂着中国国旗。用无线电通话的男子们开玩笑用的是中国南方方言。没有看到渔网。我们在水面上能看到漂浮的中国方便面包装袋。它们的船体是钢制的，配备了先进的卫星设备，一些船还撞击过比它们小的东南亚渔船。
+
+Hundreds of workers at a factory in Shenyang in northeastern China weld automated machines, 95 yards long, that are used to bore subway tunnels. Shenyang is the capital of Liaoning Province, one of three large provinces in the northeast that constitute the cradle of China’s heavy industry. Northeastern China is like the Michigan and Ohio of Chinese manufacturing, but with a population considerably grayer than Florida’s. In many ways, the region is a composite of the most deeply embedded problems facing the country’s economy.
+在中国东北沈阳的一家工厂里，数以百计的工人正在焊接用于开挖地铁隧道的自动化机器，这些机器长约85米。沈阳是辽宁省的省会，辽宁在内所在的东北三省是中国重工业的摇篮。东北就像中国制造业版的密歇根州和俄亥俄州，但人口老龄化程度比佛罗里达州高得多。许多方面看，这里综合体现了中国经济面临的最深层问题。
+
+The region holds strategic importance. It encompasses sensitive regions abutting North Korea and Russia. It is home to much of China’s armaments industry, first built with Soviet advisers in the 1950s. What’s missing from it are measures that could boost consumer confidence, 
+该地区具有重要的战略意义。它包括与朝鲜和俄罗斯接壤的敏感地区。这里是中国大部分武器工业的基地，最初是在20世纪50年代与苏联顾问一起建造的。它缺少的是能够提振消费者信心的措施，
+
+If the U.N. Charter, which outlawed the wars of aggression, is overturned, then only nuclear powers will be able to settle disputes according to their dictates. It will be ‘might is right’ again.
+如果禁止侵略战争的《联合国宪章》被推翻的话，那么只有有核国家才能按照自己的意愿解决争端。‘强权即公理’将再现。
+
+Today the backward homeland of my childhood has become the world’s second-largest economy,Yet so much of the world is still asking the same questions and still comparing China to former Communist countries with their autocratic and repressive regimes.In interviews, I like to talk about what has not been said,I like to balance out the conversation a little bit, rather than join the chorus — show that there’s also another side.
+如今，我童年时落后的祖国已成为世界第二大经济体，然而，世界上很多地方仍在问同样的问题，仍在将中国与那些前共产党国家的专制和压迫政权相比较。我愿意在采访中谈论人们缄口不言之事，我喜欢平衡一下对话，而不是人云亦云，来证明另一面的存在。
+
+A Chinese person always has to make that balance between individualism and deference to authority, to a certain degree. It’s not black and white, it’s gray.I’m not trying to make any excuses for any of these things. I just see, from an economist’s point of view, the welfare of hundreds of millions of people, and the changing circumstances. There are improvements in certain areas and regressions in certain other areas.
+在某种程度上，任何中国人都得在个人主义和服从权威之间找到平衡。这不是非黑即白的，而是一种灰色地带。我不是在为这样的事找借口。我只是从经济学家的角度看到了无数人的福祉和不断变化的环境。在某些领域有所改善，而在另外一些领域则有所倒退。
+
+I personally prefer to rise above the emotions and look at the facts, the truths, the data, and hopefully contribute where I think there are blind spots or gaps in understanding. Being too submerged in emotional attitudes, which is true of both countries, is not going to help make this world a better place.I think it’s a tussle but not a break. It’s more a war of words, and a slow structural decline in economic engagement, whether in terms of trade or mutual investment.American businesses will have to ask themselves whether they want to forsake the largest market in the world. 
+我个人更愿意抛开主观感情，关注事实、真相和数据，并希望在我认为存在盲点或误解的地方做出贡献。两国都太过意气用事，这无助于让世界变得更好。我认为目前的状态是一种拉锯而非关系破裂。这更像是一场口水战，以及经济交往的整体缓慢下降，无论是在贸易还是相互投资方面。美国企业将不得不扪心自问，是否真愿意放弃这个世界上最大的市场。
+
+If global warming continues unabated, biologists fear it will lead to the extinction of a number of species, while people will be unable to survive the heat and humidity in large swaths of the planet.On Pangea Ultima, Dr. Farnsworth and his colleagues concluded, things will probably get far worse for mammals like us. Dr. Farnsworth granted that a few mammals might eke out an existence in refuges on the fringes of Pangea Ultima. They might be replaced by coldblooded reptiles that could tolerate the heat.
+生物学家担心，如果全球变暖持续下去，将导致许多物种灭绝，而人类将无法在地球大片地区的炎热和潮湿中生存。法恩斯沃斯和他的同事得出结论是，在终极盘古大陆，对于像我们这样的哺乳动物来说，情况可能会变得更糟。法恩斯沃斯认为，少数哺乳动物可能会在终极盘古大陆边缘的避难地勉强生存。取而代之的可能是耐热的冷血爬行动物。
