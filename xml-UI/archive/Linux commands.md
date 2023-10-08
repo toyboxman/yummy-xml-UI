@@ -27,7 +27,7 @@
     - [Download(curl/wget/aria2c)](#download)
     - [Env](#env)
     - [Find/Locate/Which/Whereis](#find)
-    - [File/readelf/size/ldd/nm/strip/rsync](#file)
+    - [File/realpath/readelf/size/ldd/nm/strip/rsync](#file)
     - [Grep](#search-txt)
         - [Grep Regular Symbol](#grep-regular-symbol)
     - [Gzip](#gzip)
@@ -1258,6 +1258,12 @@ rsync -prz --exclude 'bin' --bwlimit=1024 logs/ root@remoetserver:/opt/logs
 - [ELF文件的信息读取](https://mp.weixin.qq.com/s/3I7ev0U8EGTHwkSfAOLpHQ)
 - [不使用mv命令移动文件](https://mp.weixin.qq.com/s/vFmE7j2AzoLCS7nYph-D_w)
 ```console
+# 显示文件的绝对路径
+$ realpath file.c
+/Users/dev/source/gitlab/file.c
+# mac open a folder/file in Find
+$ open $(realpath proto3/file.proto)
+
 # 确定默认 /usr/bin/python 文件类型
 # $(which python)将which命令结果作为file命令参数
 $ file $(which python)
