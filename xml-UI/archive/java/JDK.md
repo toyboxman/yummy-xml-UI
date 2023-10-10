@@ -545,7 +545,7 @@ Time fragment[1250] successfully replayed 1 times.
     @CorfuStoreEntry[org.corfudb.runtime.collections.CorfuStoreEntry@3fca91cb],
 ]
 # 调用对象实例的一个方法 listComputeManagers，并且展开返回值的结构
-[arthas@1922536]$ vmtool --action getInstances --className org.example.service.ComputeManagerServiceImpl --express 'instances[0].listComputeManagers(null, null)'
+[arthas@1922536]$ vmtool --action getInstances --className org.example.service.ComputeManagerServiceImpl --express 'instances[0].listComputeManagers(null, null)' -x 2
 @ArrayList[
     @CorfuStoreEntry[
         key=@IdentifierMsg[string_id: "b7a0bba3-8427-45a6-937d-792597a2400e"

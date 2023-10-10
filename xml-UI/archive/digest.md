@@ -242,7 +242,7 @@
     - Nginx配置使用[[1](https://mp.weixin.qq.com/s/OcdkQeP6HbWSYKZfhe03yw), [2](https://mp.weixin.qq.com/s/85YKawUmFOL2suUxZJNzHg)]  
         `反向代理/负载均衡/HTTP服务器(包含动静分离)/正向代理`
     - [Fix 403 Forbidden](https://linuxhint.com/fix-nginx-403-forbidden/)      
-        `安装nginx后，需要修改/etc/nginx/nginx.conf 配置文件. 在http部分需要disable ipv6绑定访问，location部分修改root指定到本地目录,加上允许目录自动index，否则导致403无权限`<br>
+        `安装nginx后，需要修改/etc/nginx/nginx.conf 配置文件. 在http部分需要disable ipv6绑定访问，location部分修改root指定到本地目录,加上允许目录自动index，否则导致403无权限. 重启服务 systemctl restart nginx`<br>
         location / {<br>
             &ensp;#root   /srv/www/htdocs/;<br>
             &ensp;#index  index.html index.htm;<br>

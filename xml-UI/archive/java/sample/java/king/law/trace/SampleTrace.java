@@ -21,7 +21,7 @@ public class SampleTrace {
 
         Configuration.SenderConfiguration senderConfig = new Configuration.SenderConfiguration()
 //                .withAgentHost("10.117.4.11")
-                .withAgentHost("10.78.179.0")
+                .withAgentHost("10.176.217.250")
                 .withAgentPort(6831);
         Configuration.ReporterConfiguration reporterConfig = new Configuration.ReporterConfiguration()
                 .withLogSpans(true)
