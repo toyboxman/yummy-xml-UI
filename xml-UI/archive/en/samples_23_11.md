@@ -1,0 +1,209 @@
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+Among many Chinese, Mr. Li’s death produced a swell of nostalgia for what he represented.They shared photos of him, standing in ankle-deep mud, visiting victims of a flood. They recited Mr. Li’s most famous quotes: “Power must not be arbitrary” and “It’s harder to touch interests than souls.”
+在许多中国人当中，李克强的去世激起了对他所代表的那个时代的怀念,他们分享他站在没过脚踝的泥泞中探望洪水灾民的照片。 人们还列出了李克强最著名的发言：“有权不可任性”和“触动利益比触及灵魂还难”。
+
+its hair-trigger internet censors are keenly attuned to the wishes of its leaders, quick to remove any content that sways public sentiment in an unwanted direction, especially on matters of such geopolitical importance. casually calling people Nazis only reveals your own stupidity. It added that people combining the Israeli flag with Nazi symbols in their profile pictures are “either ignorant idiots or shameless bastards!”
+行动迅速的互联网审查员们对领导人的愿望极为熟悉，会很快删除任何对公众情绪产生不利影响的内容，尤其涉及如此重要的地缘政治的内容。“随意地称呼别人为纳粹只会暴露自己的愚蠢”。还写道，在个人头像里将以色列国旗与纳粹符号相结合的人，“不是无知的蠢货，就是无耻的混蛋！”
+
+Historically, Chinese people tended to perpetuate positive stereotypes about Jews, according to Mary Ainslie, an associate professor at the University of Nottingham’s campus in Ningbo, a city in eastern China, who has done research on antisemitism in the country. She said they were often depicted as hard-working, influential and financially savvy. For example, the Talmud is translated into Chinese and marketed for its lessons in making money.
+历史上，中国人往往对犹太人保持着正面的刻板印象，在诺丁汉大学位于宁波的校区教书的副教授玛丽·艾因斯利说道，她研究过中国的反犹太主义。她说，在中国人看来，犹太人努力工作、有支配力、会赚钱。例如，《塔木德》（犹太法典——译注）被翻译成中文，并作为赚钱教材来营销。
+
+There is a moment in Britney Spears’s new memoir when she is summoned to an MTV studio and made to review footage of strangers complaining that she was “too sexy.” Spears, then 18, had just performed at the 2000 Video Music Awards, where she had torn off a sparkly black tuxedo to reveal spangled nude pants and a spangled nude bra, and various pedestrians roving Times Square had decided that she had crossed a line.
+布兰妮·斯皮尔斯在新出版的回忆录中描述了这样一个场面：她被叫到一个MTV演播室，并被要求观看陌生人如何抱怨她“过于性感”的视频。当时，18岁的斯皮尔斯刚在2000年MTV颁奖礼的演出中脱掉黑色亮片燕尾服，露出闪亮的裸色裤子和抹胸，时报广场上往来的许多路人看到了这一幕，都认为她已经越界。
+
+I dropped by his home in Tel Aviv, and we sat in his office, surrounded by his collection of framed cartoons mocking him — he has a thick skin — as he argued in favor of a ground invasion as the only way to crush Hamas.There is no way but to send many tens of thousands of boots on the ground,On balance, he thinks that it is possible for Israel to destroy most of Hamas’s capabilities, establish a no-go zone along the border and extricate itself.
+我顺便拜访了他在特拉维夫的家，我们坐在他的办公室里听他阐述他支持地面入侵是制服哈马斯唯一途径的理由，办公室的墙上挂满了相框，都是他收藏的嘲笑他的漫画，他不计较脸面。 除了派几万军人去实地作战，没有别的办法,总的来说，他认为，以色列能做到摧毁哈马斯的大部分能力，沿边境建一个禁区，使自己抽身出来。
+
+My reporting in Gaza over the years convinces me that Gazans themselves would be much better off if Hamas could be removed: Some American liberals don’t appreciate how repressive, misogynistic, homophobic and economically incompetent Hamas is in Gaza, to say nothing of its long history of terror attacks on Israel. All this explains why many Gazans are fed up with Hamas. Because of the siege, Gaza is also running out of insulin and anesthetic
+我对加沙进行了多年的报道，我相信，如果哈马斯能被消灭的话，加沙人自己会过得更好。一些美国自由派人士不了解哈马斯在加沙的镇压、厌女、仇视同性恋的做法，以及经济上的无能，更不用说哈马斯对以色列进行恐怖袭击的长期历史了。所有这些解释了为什么许多加沙人受够了哈马斯。由于围困，加沙的胰岛素和麻醉剂很快将用光。
+
+He was glued to the screen as videos showed areas the size of multiple football fields near his home turned into rubble; satellite imagery shows other large areas pulverized as well. No one knows how many people are caught in the wreckage, but some Gazans told me they had heard cries from inside collapsed buildings. They lack proper equipment to rescue people, so eventually, the cries stop, and a stench rises.
+他目不转睛地看着视频，看着他家附近的几个足球场大的地片变成瓦砾；卫星图像显示，大片其他地区也被夷为平地。没人知道还有多少人仍在废墟里，但一些加沙人告诉我，他们曾听到倒塌的建筑物里传出哭叫声。他们没有正规的救人设备，所以最终，哭叫声停止了，恶臭开始飘散。
+
+But in the short run, U.S. officials have grown more strident in reminding the Israelis that even if Hamas terrorists are deliberately intermingling with civilians, operations must be tailored to avoid nonmilitary casualties. On Sunday, Sullivan signaled that the United States would continue to press Israel, publicly and privately, for restraint.“Sitting here in public,” Sullivan added, “I will just say that the United States is going to make its principles and propositions absolutely clear, including the sanctity of innocent human life. 
+但在短期内，美国官员越来越强硬地提醒以色列，即使哈马斯恐怖分子故意与平民混在一起，行动也必须有所调整，以避免非军事人员伤亡。周日，沙利文暗示，美国将在公开和私下场合继续敦促以色列保持克制。“面对公众，”苏利文还表示，“我只想说，美国将清清楚楚地亮明原则和主张，包括无辜人命神圣不可侵犯。
+
+He said that if Israel did not follow that advice, “they’ll be held accountable in ways that may be unfair,” but he added: “If you have an opportunity to alleviate the pain, you should do it, period. And if you don’t, you’re going to lose credibility worldwide.” For Biden, the tightrope walk continues.
+他说如果以色列不听从这一建议，“他们恐怕将以不尽公平的方式承担责任，”但他补充道，“能减轻痛苦就去减轻痛苦，就这么简单。如果不这么做，就会在全球声名扫地。”而拜登还得继续走钢索。
+
+When Israeli ground forces advanced en masse into the Gaza Strip on Friday evening, just after the Jewish Sabbath began, The goal of such strategic ambiguity is threefold, analysts say. The fog may also buy Israel some time. Modern war is conducted not only with tanks and airplanes,It’s a cyberwar, a psychological war, and an informational war.
+上周五晚，在犹太人的安息日刚开始不久，以色列地面部队大规模进入了加沙地带，分析人士表示，这种战略模糊性有三重目的。这种模糊也可能为以色列赢得一些时间。现代战争不只是用坦克和飞机，现代战争是网络战、心理战、信息战。
+
+The shroud of secrecy began late Friday afternoon, when Israel jammed Gaza’s internet and telecoms networks, according to senior U.S. officials, stopping Gazans from sharing what they were seeing.Once the operation began, army spokesmen stopped answering their phones. The information blackout was complete.
+诡秘气氛是上周五下午晚些时候开始的，据美国高级官员说，以色列屏蔽了加沙的互联网和电信网络，让加沙人无法分享他们正在看到的情况。行动开始后，以军发言人不再接听电话。信息被全部封锁。
+
+At first glance, their words seemed like a sepia-tinted throwback: invoking, as a remedy for the worst eruption of bloodshed between Israelis and Palestinians in many years, the faded relic of a peace process that many on both sides viewed as dead and buried some time late in the Obama administration.
+他们的言论乍看上去像是一种倒退，搬出了奥巴马政府执政后期被巴以双方许多人视为毫无希望且被埋葬已久的和平进程遗物，当作对这场多年来最严重的巴以流血冲突的补救措施。
+
+Mr. Bankman-Fried once partied with stars and big shots, doled out fortunes in looted funds to politicians and himself, was acclaimed as the next Warren Buffett, employed his friends and made them rich for a while, was courted by the news media that printed his most banal comments. 
+班克曼-弗里德曾与明星和大人物过从甚密，把掠夺来的财富分配给政治人士和自己，被誉为下一个沃伦·巴菲特，他雇用自己的朋友，让他们暴富一时，新闻媒体也曾向他大献殷勤，刊登他最平庸的言论。
+
+The central myth of Silicon Valley is that techies are here to save the world. If they get insanely rich in the process, well, that only proves how great their idea was in the first place.FTX allowed people to bet on cryptocurrencies. It was, in essence, a casino. It is difficult for even the most sympathetic journalist to portray a casino as a savior of humanity, so the focus of the stories was always on Mr. Bankman-Fried himself.
+硅谷的核心神话是，技术人员是来拯救世界的。如果他们在这个过程中赚了大钱，那只能证明他们的想法最初是多么伟大。FTX允许人们押注加密货币。从本质上讲，这是一个赌场。即使是最富有同情心的记者，也很难把赌场描绘成人类的救世主，所以这些报道始终是聚焦在班克曼-弗里德本人身上。
+
+Geography and weather patterns pose challenges for China in reducing coal use. Most of the country’s large, energy-thirsty cities are in areas where wind is minimal. That makes solar generation and efficient transmission from other regions crucial.By contrast, the coastline is windy.
+地理和气候给中国减少燃煤带来了挑战。该国大部分能源需求旺盛的大城市都地处风力极少的地区，这使得太阳能发电和从其他地区的高效输电变得至关重要。相较之下，沿海地区风力较大。
+
+In Weifang, which hosts international kite-flying contests, hundreds of wind turbines stand in tidal pools along the city’s 70-mile seashore. Building turbines miles out to sea, as Europe has done, has been hard for China because much of the seafloor is soft and muddy.
+潍坊是国际风筝比赛的举办地，沿着该市约110公里长的海岸线，数以百计的风力涡轮机就伫立潮汐池中。因为大部分海底都松软泥泞，中国很难像欧洲那样在很远的海上建造涡轮机。
+
+Sharp improvements in air quality in China have also helped build public support for renewable energy — although scientists say more stringent pollution limits on factories, boilers and vehicles have played a central role in scrubbing the country’s air. From 2013 to 2021, China reduced fine particle pollutants by 42 percent, according to a University of Chicago analysis of satellite photos.
+中国空气质量的大幅改善也帮助争取到了公众对可再生能源的支持，尽管科学家表示，对工厂、锅炉和车辆实施更严格的污染限制在改善空气质量方面发挥了核心作用。根据芝加哥大学的卫星图片分析，从2013年到2021年，中国的细颗粒污染物减少了42%。
+
+Zhu Peng, a fertilizer saleswoman who went fishing on a recent morning on a Weifang beach, said she welcomed the wind turbines looming nearby.“For us, this is the scenery,” she said. “I don’t think it’s disturbing at all. Otherwise, we can see nothing but water and rocks.
+化肥销售员朱彭最近一天早上到潍坊的海滩边钓鱼，她很乐于看到附近巍然耸立的风力涡轮机。“对于我们来说，这里就是风景，”她说。“不感觉它碍事，不然光秃秃能看到啥，除了水就是石头。”
+
+In a youth hostel in downtown Shanghai, amid the dull roar of a hair dryer, the shriek of a blender and the lingering aroma of spicy instant noodles, Ethan Yi, 23, was pondering the state of the world. He showed the sparse contents of a silver hard-shell suitcase — a few tangled shirts and shorts, taking up barely a quarter of the space — as if manifesting that short timeline into existence.
+上海市中心的一家青年旅舍里，吹风机单调的呜呜声和食物搅拌器刺耳的旋转声不绝于耳，空气中散发着辛辣方便面的味道，23岁的伊森·易在琢磨着生活之难。他一直住在旅舍，因为希望在上海住的时间不长。他的银色硬壳行李箱里没有多少东西，只有几件胡乱折叠的衬衫和短裤，占了不到四分之一的空间，仿佛要将短暂停留的愿望显现为现实似的。
+
+There comes a moment in the development of a new technology when the hype is so common it passes for common sense. Lawyers, accountants and regulators are nowhere to be found. Investors insist entrepreneurs take their money. The world trembles on the brink of change.
+在一项新技术的发展过程中，总会出现这样的时刻：大肆宣传实在太普遍，以至于被当作常识。看不到律师、会计师和监管机构的身影。投资者执意要创业者拿走他们的钱。世界在变革的边缘颤抖。
+
+Iran, Russia and, to a lesser degree, China have used state media and the world’s major social networking platforms to support Hamas and undercut Israel, while denigrating Israel’s principal ally, the United States. The deluge of online propaganda and disinformation is larger than anything seen before,The content — visceral, emotionally charged, politically slanted and often false — has stoked anger and even violence far beyond Gaza, raising fears that it could inflame a wider conflict. 
+伊朗、俄罗斯和相对没那么积极的中国利用官方媒体和全球主流社交网络平台支持哈马斯，批评以色列，并诋毁以色列的主要盟友美国。网络上的宣传和虚假信息比以往任何时候都更加泛滥.这些账号传播的内容——这些非理性的、情绪化的、带有政治倾向且往往是虚假的信息，在加沙之外的地方激起愤怒乃至暴力，引发了关于其可能点燃更广泛冲突的担忧。
+
+Israel, which has its own sophisticated information operations, has found itself unexpectedly on the defensive.Like its military, Israel’s social media was caught flat-footed and responded days late,The response, even when it got off the ground, was chaotic.
+以色列拥有先进的信息行动，却意外地发现自己处于守势。和以色列的军队一样，以色列的社交媒体被打了个措手不及，反应晚了几天，即使着手反制，策略上也杂乱无章。
+
+Since 2017, Australia has played David to China’s Goliath.Australia’s rhetoric has softened. Yet anxiety and security concerns persist.Even among those set to benefit from the stabilization in relations, the impact of the past few years seems destined to limit exuberance.
+自2017年以来，澳大利亚一直与中国进行着力量悬殊的较量，澳大利亚的对华言论已经软化。但焦虑和安全担忧依然存在。即使对那些将从稳定关系中受益的人来说，过去几年的影响似乎也注定会降低他们的热情。
+
+If Australia was and will be a bellwether for relations with China, as many Western powers believe, regular trade and dialogue — rather than the enthusiasm for future opportunities that defined the early years of China’s economic rise — may be as good as it gets. 
+如果澳大利亚曾是并将是某种风向标的话（如许多西方大国所认为的那样），那么，对华关系除了惯常的贸易和对话外不会有更多的好转，而不会有在中国经济崛起之初时的那种对未来机遇的热忱。
+
+The government believed that China’s economy would snap back in 2023 after the country’s leaders lifted most “zero Covid” restrictions that quashed the economy last year. China’s policymakers triggered the sector’s recent decline by starting to rein in lending several years ago, and now are reluctant to rescue the sector by kicking off another binge of housing loans.
+中国政府曾以为，国家领导人取消了最严格的“新冠清零”措施后，中国经济会在2023年出现反弹，中国的政策制定者们已在几年前开始限制向房地产业贷款，引发了该行业最近的衰退，但政策制定者现在不愿意通过再次大规模发放住房贷款来拯救房地产业。
+
+And by the end of 2024,  China will have built in just five years as many petrochemical factories as all of those now running in Europe plus Japan and South Korea.But they predicted that big investments in new manufacturing technologies would pay off.
+到2024年底，中国将在短短五年时间里建成的石化厂将与欧洲、日本和韩国目前运营的数量相当。但他们预测，对新的制造技术的大笔投资将带来回报。
+
+Aware of these risks, China is wooing developing countries. These countries still have sizable but often aging manufacturing sectors that provide an opening for exports from newly built, highly efficient factories in China.Officials have tried repeatedly for years to tame its debt addiction. 
+意识到这些风险，中国正在发展中国家寻求市场。这些国家虽然也有规模庞大的制造业，但设备比较陈旧，这为中国更新、更高效的工厂出口产品提供了机会。多年来，官员们曾多次试图戒掉靠债务增长经济的习惯。
+
+In some instances, the U.S. military enabled many civilians to leave the cities well before the fighting.And Hamas has been burrowing into Gaza’s infrastructure for more than 15 years.There is no agreed-upon formula for making such morbid calculations.The pace of bombing in Gaza is off the charts 
+在某些情况下，美军在战斗发生前相当早的时间就通知许多平民离开城市。哈马斯在加沙地下修建设施已超过15年。没有一个公认的公式来进行这种不正常的计算。轰炸加沙的节奏超乎想象
+
+China recently rattled the world’s electric vehicle supply chains by announcing new export controls on graphite, a key component of lithium-ion batteries. Unlike in the 20th century, when China was largely a bystander in petroleum politics.China controlled 58 percent of the global production of lithium compounds in 2022, 69 percent of nickel sulfate, 69 percent of synthetic graphite, 75 percent of cobalt, 95 percent of manganese and 100 percent of spherical graphite. 
+不久前，中国宣布对生产锂离子电池的关键原料——石墨实施新的出口管制，令全球电动汽车供应链深感不安。与20世纪不同，当时中国在石油政治中基本上属于一个旁观者。.2022年中国控制了全球58%的锂化合物产量、69%的硫酸镍、69%的合成石墨、75%的钴、95%的锰，以及100%的球形石墨。
+
+Climate action can no longer be about phasing out fossil fuels alone. It must also be about phasing in a new set of extractive industries needed to enable a clean-energy transition. China figured this out a decade ago. The place to begin is by reckoning with what it is going to take to build a clean-energy future, from the ground up.
+气候行动不能再仅仅是分阶段淘汰化石燃料。它还必须逐步引入一系列新的采掘业，以实现清洁能源转型。中国在十年前就明白了这一点。我们首先要考虑的是，如何从头开始建设一个清洁能源的未来。
+
+The success of the government’s efforts to regulate A.I. will turn on its ability to stay focused on concrete problems like deep fakes, as opposed to getting swept up in hypothetical risks like the arrival of our robot overlords.Mr. Biden’s executive order outdoes even the Europeans by considering just about every potential risk one could imagine, from everyday fraud to the development of weapons of mass destruction. 
+这些已成为日常的事件都指向一个重要的事实，那就是监管人工智能的努力是否成功，将决定政府能否专注于解决诸如深度伪造的切实问题，而不是被机器主宰人类等臆想危险所淹没。拜登的行政命令甚至超出了欧洲政府的监管范畴，从无处不在的诈骗到大规模杀伤性武器的研发，涵盖了人们能想到的几乎所有潜在风险。
+
+But if social networking was a wolf in sheep’s clothing, artificial intelligence is more like a wolf clothed as a horseman of the apocalypse. The temptation to overreact is understandable. No one wants to be the clueless government official in the disaster movie who blithely waves off the early signs of pending cataclysm. 
+但如果说社交网络是披着羊皮的狼，那人工智能这头“狼”更像是披上了末日骑士的外衣。忍不住想拿出过度反应是可以理解的。谁也不想成为灾难电影里那些无知的官员，对即将到来的灾变的早期征兆不屑一顾。
+
+But the truth is that no one knows if any of these world-shattering developments will come to pass. Tech history is full of confident projections and “inevitabilities” that never happened, from the 30-hour and 15-hour workweeks to the demise of television. Testifying in grave tones about terrifying possibilities makes for good television.
+但事实是，没人知道这些惊天动地的发展是否能够实现。从每周30小时和15小时的工作时间到电视的消亡，科技的历史中充斥着始终没有发生的自信预期和“必然”。以沉重口吻论述令人恐惧的可能性确实能吸引眼球。
+
+To regulate speculative risks, rather than actual harms, would be unwise, for two reasons. First, overeager regulators can fixate shortsightedly on the wrong target of regulation. today’s policymakers are preoccupied with large language models like ChatGPT, which could be the future of everything — or, given their gross unreliability stemming from chronic falsification and fabrication, may end up remembered as the Hula Hoop of the A.I. age.
+监管充满变数的风险而非实际危害的做法并不明智，原因有二。首先，过于急切的监管者可能会目光短浅地锁定错误的监管对象。今天的政策制定者都在关注ChatGPT这样的大语言模型，它们是可能塑造未来——但考虑到其根植于持续伪造和扭曲的整体不可靠性，它们最终可能只会成为人工智能时代的呼啦圈。
+
+Established players, with millions of dollars to spend on lawyers and experts, can find ways of abiding by a complex set of new regulations, but smaller start-ups typically don’t have the same resources. This fosters monopolization and discourages innovation. These examples aren’t quite as hair-raising as the warning issued this year by the Center for A.I. Safety. To its credit, Mr. Biden’s executive order is not overly caught up in the hypothetical
+有实力的企业可以在律师和专家上花费数百万美元，想方设法适应一套复杂的新监管规则，然而规模较小的初创公司通常没有这样的资源。这就会滋养垄断，抑制创新。这些例子听上去不像人工智能安全中心今年发布的警告那么惊悚,值得肯定的是，拜登的行政令并没有完全受制于这样的假说
+
+Regulation, contrary to what you hear in stylized political debates, is not intrinsically aligned with one or another political party. Done correctly, with an eye toward the present, it might protect the vulnerable and promote broader and more salutary innovation.
+监管并不像你在程式化的政治辩论中所听到的那样，与这个或那个政党的利益保持着一致。如果能以正确的方式着眼于当下，它也许能保护弱势者，促进更广泛、更有益的创新。
+
+The existence of actual social harm has long been a touchstone of legitimate state action. But that point cuts both ways: The state should proceed cautiously in the absence of harm, but it also has a duty, given evidence of harm, to take action. By that measure, with A.I. we are at risk of doing too much and too little at the same time.
+具体社会危害的存在一直都是政府行为是否合理的试金石。但这是把双刃剑：政府在没有危害时应该保持警惕，并在发现危害时有责任采取行动。从这个角度讲，在人工智能的问题上，我们可能在做得过分的同时也做得不够。
+
+The black-and-white fur balls that might as well be waddling stuffies had always struck me as natural diplomats,my 3½-year-old daughter developed an enduring obsession with them.Zoo officials and scientists say the actual reason comes down to biology, or “panda time.” It takes more than bamboo groves to host a panda.
+大熊猫有着黑白相间的毛皮，体型圆得像球，看起来像摇摇晃晃行走的毛绒玩具，我一直觉得它们是天生的外交官。我女儿那时三岁半，之后她迷上了熊猫。动物园官员和科学家说，真正的原因可归结为生物学，或“熊猫生命阶段”。想租借大熊猫的动物园需要的不只是竹林。
+
+Until recently, pandas were considered endangered, and so scientists at the National Zoo researched reproductive cycles to help with panda breeding. Ms. Songer said a female panda is fertile for only one or two days each year, and scientists monitor hormone levels using urine samples to determine when to do artificial insemination. That is how Little Miracle was born.
+直到不久前，大熊猫曾一直被认为是濒临灭绝的动物，所以美国国家动物园的科学家们为帮助大熊猫繁殖后代，研究过它们的繁殖周期。宋格说，雌性大熊猫每年只有一两天能生育，科学家们用尿液样本来监测雌性大熊猫的激素水平，以确定什么时候进行人工授精。小奇迹就是这样诞生的。
+
+Early Sunday morning, my daughter, Aria, now 11, and I watched as mother, father and son lumbered around their separate indoor and outdoor enclosures, chewing on bamboo, tumbling with plastic balls and clambering over boulders.They looked about as cuddly as the stuffed pandas that Aria slept with every night. Aria regaled me with endless panda trivia: “Did you know that they eat 14 hours a day?”The crowds ballooned, creating a sense of panda-monium.
+周日一早，我和我现在11岁的女儿阿丽亚去看了熊猫妈妈、熊猫爸爸和熊猫儿子，它们在各自的室内或室外围场里憨态可掬地走来走去，咀嚼竹子，与塑料球一起翻滚，爬石头。它们看上去与阿丽亚每晚睡觉时抱着的毛绒熊猫一样可爱。阿丽亚没完没了地给我讲有关熊猫的细枝末节：“你知道它们每天花14个小时吃东西吗？”来看熊猫的人群暴增，制造了一种熊情沸腾的感觉。（panda-monium是用“群情沸腾”[pandemonium]造的词——译注。）
+
+It called for China to allow battered developers with no chance of turning themselves around to exit the industry. China has allowed developers that are effectively insolvent to stay in business, a practice that can impede the sector’s recovery.Economists ascribe some of the slack in China’s exports to lackluster interest in manufactured goods by households around the world that stocked up on consumer electronics, furniture and other goods during the pandemic.
+该组织呼吁中国允许遭受重创、没有可能改善经营情况的开发商退出这个行业。中国让已经资不抵债的开发商继续经营的做法可能会阻碍房地产行业的复苏。经济学家将中国出口的疲软部分归因于全球家庭对制成品的需求减弱，后者在疫情期间已经囤积了大量消费电子产品、家具和其他商品。
+
+He was belligerent and brash, unrepentant and verbose — regardless of the courtroom setting, he was the quintessential Donald J. Trump.The former president lashed out at his accusers and denied their claims, even while conceding involvement in some of the conduct at the case’s heart.Ranting and rambling as the courtroom pulsed with tension, Mr. Trump attacked New York’s attorney general, Letitia James, as a “political hack.”Mr. Trump exclaimed from the stand, pointing at the judge, who flashed a grin.
+他爱逞威风而态度倨傲，油盐不进又喋喋不休。无论身处怎样的法庭环境，他都是那个唐纳德·J·特朗普。虽然承认自己参与了该案核心直指的部分行为，但这位前总统仍然大肆抨击了检方，并否认了其指控。在紧张的法庭气氛中，他大吵大闹、东拉西扯，攻击纽约州总检察长詹乐霞(Letitia James)是“政治打手”。特朗普在证人席上指着恩戈伦喊道，后者咧嘴笑了一下。
+
+He noted that they contained numerous disclaimers, making them essentially ?worthless.? Banks paid little attention to them, he said, before promising, unprompted, that some of his bankers would soon testify in his defense.
+他说这些文件包含了大量免责声明，实际上“毫无价值”。他说银行很少关注这些东西，然后还出乎意料地放话称，为他服务的一些银行家很快就能帮他作证。
+
+Mr. Trump, the leading Republican contender for the presidency, brought combative campaign-trail energy to the courtroom, punctuating his testimony with grandiose claims and long-winded asides that infuriated the judge and obscured some of his more effective testimony.The testimony pushed Mr. Trump far outside his campaign-trail comfort zone to the controlled environs of a courtroom, where lying is a crime and outbursts can land you in contempt of court. 
+作为支持率最高的共和党总统候选人，特朗普把竞选路上的战斗精神带到了法庭，在证词中夹带了夸大其词和偏离案件的冗长自白，令法官十分恼火，也淹没了他的一些相对有用的证词。这些证词将特朗普远远推出了竞选舒适区，在严格受控的法庭环境中，说谎是一种犯罪，泄愤可能被判藐视法庭。
+
+In a criminal case, a jury or judge cannot hold a defendant's refusal to answer questions against him. But this case is civil, and the rules are different: A judge can make what is called a “negative inference” — a damning assumption about why a defendant won’t answer.
+在刑事案件中，陪审团或法官不能因被告拒绝回答问题而做出对他不利的判断。但这是民事案件，规则有所不同：法官可以做出所谓的“负面推断”——对被告拒绝回答问题的原因做出具有破坏性的假设。
+
+Justice Engoron also repeatedly appealed to Mr. Trump’s lawyer, Mr. Kise, to rein in the former president. As Mr. Trump puckered his lips and shrugged his shoulders, Mr. Kise replied that Mr. Trump’s stature — as the “former and again soon-to-be chief executive of the United States” — afforded him leeway.
+恩戈伦还多次呼吁特朗普的律师基斯约束这位前总统。特朗普听了噘起嘴唇，耸了耸肩，基斯回答说，以特朗普的地位——作为“美国前任和即将上任的最高行政长官”——理应得到一些特殊照顾。
+
+The International Monetary Fund extends more money in rescue loans each year than China, although the gap has been closing. Beijing increasingly finds itself at odds with the I.M.F. and other creditors over who accepts losses when relieving debt pressure on developing countries.I see it very much as complementary, rather than a trade-off of going to the I.M.F.
+国际货币基金组织每年发放的援助贷款比中国多，尽管这一差距一直在缩小。在缓解发展中国家债务压力时由谁承担损失的问题上，中国政府发现自己与国际货币基金组织和其他债权人的分歧越来越大。我认为这在很大程度上是一种互补，而不是在中国和国际货币基金组织之间取舍
+
+It sounds like just another internet health hack: Cook some pasta or white rice and let it cool overnight in the refrigerator. By the next day, some of the natural starches in the food will have transformed into healthier versions, called resistant starches, which have been linked to a range of health benefits including lower blood sugar, better gut health and a reduced risk of certain types of cancer.Resistant starch is a type of fiber that is naturally present in many types of plant foods, such as whole grains, beans, nuts, seeds, green bananas and plantains.
+这听上去不过是又一个网上的养生小花招：做些意大利面或白米饭，放冰箱冷藏一晚。到了第二天，食物中的天然淀粉会转化成某种更健康的抗性淀粉，可以带来各种健康益处，包括降低血糖、改善肠胃健康、降低某些类型的癌症的风险。抗性淀粉是一种天然存在于某些植物性食物里的纤维，例如全谷、豆类、坚果、种籽、绿香蕉和大蕉。
+
+In its heyday a few years ago, WeWork said it would reinvent offices. But the company never created a sustainable business or changed how most people worked.WeWork filed for bankruptcy protection this week in an effort to quickly slim down its portfolio of office spaces.Many employers are paring back their office space because workers aren’t going in five days a week after growing accustomed to working remotely or on a hybrid schedule.
+在几年前的鼎盛时期，WeWork曾表示将会重塑办公室。但是这家公司始终没能成为一门可持续的生意，也没有改变大多数人的工作方式。WeWork本周申请破产保护，以迅速精简其名下的办公空间。许多雇主正在缩减办公空间，因为员工在习惯了远程办公或混合日程安排后，不再每周上班五天。
+
+co-working was a nice amenity for some tenants but wouldn’t take over the commercial real estate business by a long shot.When co-working becomes a disproportionate amount of the building, they become directly competitive with the landlord,I just need to have a place where people can touch down, collaborate, meet up, drop in and feel like there’s a hospitality element.
+对一些租户来说，联合办公是一种很好的便利设施，但从长远来看不会取代商业房地产业务。当联合办公空间在大楼中比例过大时，就会直接与业主竞争，我只是需要有一个地方，人们可以在这里落脚、合作、见面、串门，提供一种招待客人的条件。
+
+Prices are falling again in China after a two-month reprieve, with households and businesses wary of spending even as state-controlled banks pump money into the construction of more factories.The decline in prices could put China on the cusp of a pernicious economic condition called deflation
+在经历两个月的平稳之后，中国的物价再次下跌，虽然国有银行为建设更多工厂注入了资金，但家庭和企业仍对消费支出持谨慎态度。物价下跌可能是中国通货紧缩的前兆
+
+A blocks-long street of shops selling construction materials like paint, plaster and flooring was completely empty of customers shortly before lunchtime.The prices of apartments in the towers overlooking the street have fallen by 30 to 40 percent in the last several years
+一条延伸数个街区的长街上满是出售油漆、石膏和地板等建筑材料的商店，正午时分这里没有任何顾客。过去几年这条街上的高层公寓价格跌了三四成
+
+I don’t think, at a broad level, they’re expecting or see the prospect of resetting or recalibrating the relationship.Many businesses still see China as an essential market, but an increasing number are starting to look to other countries for their new investments. 
+在更广泛的层面，我认为他们并不期待或认为两国关系有重塑或调整的可能。许多企业仍将中国视为不可或缺的市场，但越来越多的企业开始寻求在其他国家进行投资。
+
+When House Republicans and a solid bloc of Democrats banded together this week to censure Representative Rashida Tlaib, Democrat of Michigan, for her statements about the Israel-Gaza war, they homed in on her embrace and defense of one pro-Palestinian slogan they called unacceptable: “from the river to the sea.” the phrase was “widely recognized as a genocidal call to violence to destroy the state of Israel.”
+本周，众议院共和党人和一个坚定的民主党阵营联合起来，谴责密歇根州民主党众议员拉什达·特莱布关于以色列—加沙战争的言论，并把矛头指向了她对亲巴勒斯坦口号“从河流到大海”的拥护和捍卫，他们认为这个口号是不可接受的。这句话“被广泛视为呼吁以暴力摧毁以色列国的种族灭绝行为”。
+
+The phrase, which Ms. Tlaib has defended as “an aspirational call for freedom, human rights and peaceful coexistence, not death, destruction or hate” has not only become a flashpoint for dispute in Washington. The slogan reflects the geography of that original claim: Israel spans the narrow stretch of land between the Jordan River and the Mediterranean Sea. They’re saying, ‘I identify with my ancestral home in Palestine, even if it’s not on a map today.’
+特莱布为这句话辩护说，“这是对自由、人权与和平共处的热切呼吁，而不是呼唤死亡、破坏或仇恨”，这句话不仅成为华盛顿争论的导火索；这一口号反映了最初的主张涵盖的地理范围：以色列横跨约旦河和地中海之间的狭长地带。他们的意思是，‘我认同我祖先在巴勒斯坦的家园，即使它如今不在地图上。’
+
+But the phrase has also been adopted over the years by Hamas, which calls for the annihilation of Israel, taking on a darker meaning that has long shaped the way in which it is received. Mr. Khalidi pointed out that Israel’s Likud party, which is led by Prime Minister Benjamin Netanyahu, embraced a similar slogan in its original 1977 platform, which stated that, “between the Sea and the Jordan there will only be Israeli sovereignty.” That phrase also could be seen “as having a malign intent,” he said.
+但这句话多年来也被呼吁消灭以色列的哈马斯所采用，为其赋予了一种更黑暗的含义，长期以来，这种含义一直影响着人们对它的接受。哈利迪指出，内塔尼亚胡总理领导的以色列利库德集团曾在1977年的初创纲领中提出类似的口号，称“在大海与约旦河之间只能存在以色列的主权”。他说，这句话也可能被视为“饱含恶意”。
+
+The anecdote was significant, for it linked the executive order to an actual A.I. harm that everyone can understand — human impersonation. Another example is the recent boom in fake nude images that have been ruining the lives of high-school girls. 
+他的调侃意味深长，将这项行政命令与一种人人都能理解的人工智能危害联系了起来，那就是冒充他人。另一个案例是近来泛滥的虚拟裸照，已经毁掉了许多高中女孩的生活。
+
+With government sitting on the sidelines, social media technology evolved from a seemingly innocent tool for sharing personal updates among friends to a large-scale psychological manipulation, complete with a privacy-invasive business model and a disturbing record of harming teenagers, fostering misinformation and facilitating the spread of propaganda.
+因为政府的袖手旁观，社交媒体技术从看似人畜无害的私人朋友圈更新工具演变为大规模心理操纵的手段，加之侵犯隐私的商业模式和伤害青少年、助长错误信息并推动洗脑灌输传播的黑历史，堪称五毒俱全。
+
+America’s long-promised pivot to Asia was finally gathering momentum, But the Middle East, like a vortex, has pulled Washington back in. And two top cabinet officials will be crisscrossing Asia this week with messages of reassurance
+美国承诺已久的转向亚洲战略终于增强势头，但中东的冲突已像漩涡那样将华盛顿拉了回去。两名内阁高级官员本周将前往亚洲各地传递安抚信息
+
+Along the way, they most likely will hear a mix of views about Gaza, with India more supportive of Israel, Japan seeking a more balanced approach, and Indonesia, home of the world’s largest Muslim population, increasingly outraged by the thousands of civilians killed in the Israeli invasion that has followed Hamas’ assault on Israel.
+访问期间，他们很可能会听到有关加沙的各种看法，印度更支持以色列，日本寻求更平衡的做法，而世界上穆斯林人口最多的国家印度尼西亚已对以色列在遭到哈马斯袭击后入侵加沙，造成数千名加沙平民丧生的情况越来越愤怒。
+
+Guided munitions and more complex American systems are also being funneled to both conflicts, even as American partners in the Indo-Pacific wait for weapons deliveries of their own.If the Gaza war drags on, its impacts could change. But for skeptics of America’s commitment, wild swings in Washington’s attention are woven into the historical fabric. 
+在美国的印太地区伙伴们等待他们订购的武器交付的时候，有制导能力的弹药和更复杂的美国系统正在涌向这两场冲突。如果加沙战争持续太久，其影响可能会发生变化。但对怀疑美国承诺的人来说，华盛顿注意力的剧烈摆动已是历史结构的一部分。
+
+There is significant cynicism toward U.S. calls for Israeli restraint,In many ways, the Biden administration has a difficult job and has to bear the baggage of past U.S. policy, which makes it all the more important for the administration to get things right and show that it is trying hard to be even-handed.
+对于美国呼吁以色列保持克制，人们持极大的怀疑态度，拜登政府在很多方面有艰巨的工作要做，不得不背着美国过去政策的包袱，这让拜登政府把事情做好，表明它在努力试着不偏不倚，变得更重要。
+
+I can tell you that we are determined and we are, as we would say, running and chewing gum at the same time. The Indo-Pacific is the critical region for our future
+我可以告诉你，我们已下定决心，正如我们所说，我们能同时处理不同的事情。印太地区是我们未来的关键地区。
