@@ -207,3 +207,112 @@ There is significant cynicism toward U.S. calls for Israeli restraint,In many wa
 
 I can tell you that we are determined and we are, as we would say, running and chewing gum at the same time. The Indo-Pacific is the critical region for our future
 我可以告诉你，我们已下定决心，正如我们所说，我们能同时处理不同的事情。印太地区是我们未来的关键地区。
+
+It highlighted Mr. Biden’s appearing impressed after inspecting Mr. Xi’s Chinese-made Hongqi luxury car, and then waiting patiently in the driveway as the Chinese leader was chauffeured away.Mr. Biden’s off-the-cuff comment, in a response to a reporter’s question later,The summit caps a tumultuous year in U.S.-China relations
+还专门给了拜登看到习近平乘坐的中国制造的红旗牌豪华轿车后似乎很钦佩的镜头，以及两人会面后，拜登站在车道旁边耐心地为这名中国领导人的专车送行的画面。拜登后来在回答记者提问时即兴发挥,两国元首的见面给美中关系动荡的一年划上了句号。
+
+China is home to a thriving chemical industry that pumps out compounds that are made into pharmaceuticals, fragrances, textile dyes and fertilizers. Some of those same compounds can also be combined to create fentanyl, an opioid that can be 100 times as potent as morphine.The Chinese government denies that its country plays such a pivotal role and instead blames the United States for harboring a culture of drug use.
+中国拥有强盛的化学工业，其生产的化合物可用于制造药品、香料、纺织染料和化肥。同样是这些化合物也可以用于合成芬太尼——一种阿片类药物，其效力是吗啡的100倍。中国政府否认本国扮演了如此关键的角色，并转而指责是美国在包庇毒品文化。
+
+“In my 30 years as a customs official, the trafficking of synthetic illicit drugs like fentanyl is one of the toughest, most daunting challenges I have ever seen,” said Troy Miller, the acting commissioner for the customs agency.
+“在我担任海关官员的30年里，芬太尼等合成非法药物的贩运是我见过的最棘手、最艰巨的挑战之一，”海关代理专员特洛伊·米勒说。
+
+“I acknowledge there’s a disconnect between the numbers and how people feel about their place in the world right now,” Mr. Biden said. “We can deal with the second part as well.”
+“我承认，这些数字和人们对自身处境的感觉之间存在脱节，”拜登说。“我们同样可以把后者给解决好。”
+
+Mr. Xi spoke of pandas. He spoke of Ping-Pong. He spoke of Americans and Chinese working together during World War II to battle the Japanese. He addressed the tensions that have rocked U.S.-Chinese relations in the past year only briefly and obliquely, comparing the relationship to a giant ship that was trying to navigate through storms.
+习近平提到了熊猫，也提到了乒乓球。他谈到了中美人民在“二战”期间共同抗击日本的努力。对于过去一年间动摇中美关系的紧张局势，他只是简略而模糊地带过，并将两国关系比作在狂风巨浪中航行的巨轮。
+
+I think it’s important Americans and Chinese are meeting again face to face,This is not a magic bullet, but it is something that can provide possibilities that wouldn’t exist otherwise.Mr. Xi’s positive tone, and the enthusiasm of some of the event’s attendees, struck a sharp contrast with much of the recent conversation in the United States about China, which has focused on potential economic and security threats.
+我认为中美双方能再次面对面交流的意义十分重大，这不是灵丹妙药，但确实能带来不这样做就不存在的可能性。习近平的积极口吻和部分与会者的热情与近来美国围绕中国议题的讨论形成了鲜明对比，这些讨论的重点是中国可能带来的经济和安全威胁。
+
+In the ballroom, 34 tables were laid with roses and orchids. They were numbered 1 to 39, skipping any number with a four, which in Chinese sounds similar to death, as well as unlucky No. 13. Guests chose between a coffee-crusted Black Angus steak and vegetable curry with jasmine rice and toasted pistachios.
+宴会厅里，34张桌子上摆着玫瑰和兰花。桌子的编号为一到39，任何带有四的数字都被跳过，因为“四”在汉语中与“死”谐音，不吉利的13号也被跳过。客人们可以选择裹了咖啡的黑安格斯牛排，或咖喱蔬菜配茉莉香米饭和烤开心果。
+
+When they stand in front of an American, they tend to be more constructive and pro-American. It’s just part of what happens,
+They’re not going to come to an event like this and put their thumb in the eye of us as the sponsors and the audience.While Biden spoke, Mr. Xi spent several minutes gazing into the distance.
+当他们站在美国人面前时，他们往往更有建设性，更亲美。这只是事情的一部分，他们不会在参加这样的活动时，公然挑衅作为赞助商和观众的我们。拜登讲话时，习近平有那么几分钟一直凝视着远处。
+
+The White House insisted that the dinner happen after Mr. Biden’s meeting with Mr. Xi on Wednesday, so as not to upstage that event.Mr. Biden, whose love of muscle cars is so well known that it has been skewered by the satirical news site The Onion, peeked inside Mr. Xi’s car, then gestured to his own ride, a squat armored Cadillac built like a rolling bunker.
+白宫坚持要在拜登周三与习近平会面之后再举行晚宴，避免抢那次会面的风头。因为出了名地热爱“肌肉车”以至于招致讽刺新闻网站洋葱网嘲笑的拜登低头往习的车里看了一眼，然后朝自己的座驾比划了一下，也就是那辆彷如移动碉堡的凯迪拉克防弹车。
+
+Filoli is a giant estate amid some of the most expensive real estate in the country, built in the early 20th century by a family that made its fortune in the California gold boom and wanted a retreat not far from San Francisco. William Bowers Bourn II, the original owner of the home, decided on the name “Filoli” by mixing together the first few letters of his personal motto: “Fight for a just cause. Love your Fellow Man. Live a Good Life.”
+占地广阔的斐洛里庄园是美国最昂贵的地产之一，由一个在加州淘金热发了大财的家族在20世纪初兴建，为的是在距离旧金山不远的地方打造一处世外桃源。原主人威廉·鲍尔斯·伯恩二世将该庄园定名为“斐洛里”(Filoli)，取自他个人座右铭的首写字母：“为正义奋斗。爱你的同胞。造就美好生活。”(Fight for a just cause. Love your Fellow Man. Live a Good Life.)
+
+Filoli, a grand house and garden on 654 acres of rolling green grounds along the California coast, has been a supporting character in the 1980s television drama “Dynasty” and the 2001 romantic comedy “The Wedding Planner.” It has been the venue for top-dollar nuptials of Facebook executives, and the public can tour the gardens.The site was appealing for a few reasons. It is set among the hills, one of the more isolated spots in a densely populated corner of California. 
+斐洛里庄园坐落于加州海岸边绵延约265公顷的绿地之上，庄园里有富丽堂皇的房屋和花园。这里是上世纪80年代的电视剧《豪门恩怨》(Dynasty)和2001年上映的浪漫喜剧电影《婚礼专家》(The Wedding Planner)的取景地。Facebook高管曾于此举办奢华婚礼，公众也可以进入庭院参观。这里很适合两人会晤的原因有几点。它位于山区，是这个人口稠密的加州城市里较为僻静的地方之一。
+
+During their lengthy meeting, the two leaders dined on herbed ricotta ravioli, artichoke crisps, tarragon-roasted chicken, rice pilaf, charred broccolini and almond meringue cake.After their meeting, Mr. Biden and Mr. Xi took a walk among the pomegranate trees and heather under gray California clouds. 
+在这场耗时颇久的会面中，两位领导人享用了带有香草的意大利乳清奶酪饺子、洋蓟脆片、龙蒿烤鸡、抓饭、烤西兰苔和杏仁蛋白饼。在两人的会面之后，在加州阴云之下，拜登与习近平在石榴树和欧石楠丛中散步。
+
+It is as if conflict between the two countries were something preordained, like an asteroid moving across a fixed path in the sky. But neither the United States nor China is a static entity; both are rapidly changing.
+仿佛两国的冲突是命中注定，就像小行星沿着固定的轨迹掠过天空。然而无论美国还是中国都不是一个静态的实体，两者都在发生着迅速的变化。
+
+America and its hawkish politicians must stop viewing China’s Communist-led system as some immutable, monolithic foe to be vanquished; intergenerational transformation in China is well underway. When I first moved to China in 2008 at age 21, most Americans still harbored clichéd images of China, of a faraway land where the masses clogged streets on their bicycles or toiled away manufacturing the world’s goods. Some of those old tropes are rooted in reality. China’s older generations were, in fact, builder generations like the Americans of the 1950s, laying down rules, roads and lines on the map en route to turning China into the world’s factory. By China’s own admission, it is still modernizing.
+美国及其鹰派政治人物需要改变对中国的看法，不应一口咬定这个共产党领导的体系是某种不可变的、铁板一块的仇敌，必须迎头痛击。2008年21岁的我移居中国时，大多数美国人还怀着对中国的刻板印象，在遥远的地方有这么一片土地，人们要么在拥挤的街道上骑着自行车，要么闷着头为世界生产商品。其中有些老旧的说法是源于现实的。中国的老一代的确跟上世纪50年代的美国人一样，是建造者的一代，他们制定了将中国变成世界工厂的规则、道路和轮廓。中国自己都承认，它的现代化尚未完成。
+
+But Nepal has rejected the designation of the airport as a Belt and Road project, because that label has complicated its diplomatic ties with India — its neighbor and rival to China for influence in the region. India, a major destination for Nepali travelers, has dragged its feet on approving flights to and from the airport.
+但尼泊尔拒绝将这座机场囊括进“一带一路”规划，因为该倡议已令该国与印度的外交关系复杂化。印度是尼泊尔的邻国，也是与中国在该地区争夺影响力的对手。作为尼泊尔旅客的主要目的地，印度在批准航班在该机场起降的问题上一直拖延。
+
+Philippine officials fear that when the ship falls apart, China will swoop in to claim the shoal, a submerged reef that is rich with fish and serves as a gateway to an area believed to contain vast reserves of oil and natural gas. 
+菲律宾官员担忧中国会在这艘船解体之时迅速占领仁爱礁，这块暗礁下鱼类资源丰富，还是通往据信蕴藏着大量石油和天然气的地区的门户。
+
+The speeches offer a new, unvarnished view into the leader at the center of a superpower rivalry that is shaping the 21st century. They show how at times he has voiced an almost fatalistic conviction — even before Beijing’s ties with Washington took a steep dive later in the Trump administration — that China’s rise would prompt a backlash from Western rivals seeking to maintain their dominance.The faster we develop, the bigger the external shock will be, and the greater the strategic blowback
+这些讲话提供了一个未经修饰的新视角来了解这名处于超级大国竞争中心的领导人，而这场竞争正在影响着21世纪的进程。这些讲话表明，甚至在中美关系在后来的特朗普政府时期急剧下降之前，习近平有时就已在表达一种近乎宿命论的坚定信念，那就是，中国的崛起必将引起寻求维持主导地位的西方竞争对手的强烈反对。我们发展得越快，对外部的影响冲击就越大，受到的战略反弹力就越强
+
+We have a thousand reasons to grow the relationship between China and the United States, and none at all to ruin it,But with mutual distrust running deep, any easing of antagonism between the two sides could be tenuous.‘governing by doing nothing,’letting everyone play to their strengths with less meddling.Flagrant corruption and official scandals had incensed many people. The internet opened up new channels for amplifying grievances.
+我们有一千条理由把中美关系搞好，没有一条理由把中美关系搞坏，但由于双方的相互怀疑根深蒂固，两国对立情绪的任何缓和可能都很脆弱。‘无为而治’，发挥大家的长处，少干涉。骇人听闻的腐败和官员丑闻已激怒了许多人。互联网为放大这些不满提供了新渠道。
+
+Some Western countries are fanning the flames there and secretly scheming to achieve their geopolitical goals there,We must take heed of this lesson.Speeches to people within the system are attempts to mobilize,You don’t do that by just saying that the world is getting a little bit complicated; you need a narrative that is going to allow you to smash vested interests to achieve change.
+一些西方国家为了实现其地缘战略目标在那里煽风点火、密谋策划，”他说。“我们要引为镜鉴。体制内的讲话是为了把人们动员起来，要动员的话，就不能只是说世界正在变得有点复杂；需要一个能打破既得利益的叙事，才能实现改革。
+
+In international contestation, political operations are very important, but ultimately it comes down to whether you have strength and whether you can use that strength,Relying on a silver tongue won’t work.
+在国际较量中，政治运筹很重要，但说到底还是要看有没有实力，会不会用实力，光靠三寸不烂之舌是不行的。
+
+The name is a nod to how numbing numbers can be. The higher the death toll, the less we are inclined to care, since the scale of human suffering can feel overwhelming. Statistics don’t trigger empathy and action. Personal stories do.Indeed some critics have called We Are Not Numbers an anti-Israeli organization. But the number of outlets that have been accused of bias in recent weeks has also diluted the impact of such criticism.
+这个名字意指数字会令人变得麻木。死亡人数越多，我们就越不愿意关心，因为人类的苦难规模可能让人感到难以承受。统计数字不会引发共情和行动。然而个人故事却可以。事实上，一些批评人士称“我们不是数字”是一个反以色列组织。但最近几周，被指有偏见的媒体数量也削弱了此类批评的影响。
+
+The Adidas team was huddled with Kanye West, pitching ideas for the first shoe they would create together. It was 2013, and the rapper and the sportswear brand had just agreed to become partners. The Adidas employees, thrilled to get started, had arrayed sneakers and fabric swatches on a long table near a mood board pinned with images.
+阿迪达斯的团队围坐在坎耶·韦斯特面前，为他们将要共同打造的第一款鞋出谋划策。那是在2013年，这位说唱歌手和这家运动服饰品牌刚达成合作协议不久。阿迪达斯员工满怀激动地准备大展拳脚，他们在长桌上摆好了球鞋和面料样品，旁边是一块钉着图片的情绪板。
+
+His complaints were often delivered amid mood swings, creating whiplash for the Adidas team working with him. Diagnosed with bipolar disorder, he at times rejected the assessment and resisted treatment.As Adidas grew more reliant on Yeezy sales, so did West. In addition to royalties and upfront cash, the company eventually agreed to another enticement
+他的各种抱怨往往出现在情绪不稳定之时，给与他合作的阿迪达斯团队带来了很大的心理压力。他被诊断出双相情感障碍，但有时不肯承认并抗拒接受治疗。阿迪达斯愈发依赖Yeezy的销售额，韦斯特自己也是如此。除了抽成和预付现金，阿迪达斯最终还同意了他的另一项要求
+
+Each fall, the flu emerges as a formidable force, spreading through the droplets produced when people cough, sneeze or talk, and sometimes hitching a ride to our noses by way of the infected surfaces that we touch. Influenza viruses cause tens of millions of illnesses and thousands of deaths in the United States each year.
+每年秋天，流感都会强势出现，通过人们咳嗽、打喷嚏或说话时产生的飞沫传播，有时还会通过人们接触的受感染表面进入我们的鼻子。流感病毒每年在美国造成数千万人患病，数以千计人死亡。
+
+Chinese officials have told their American counterparts they will not discuss arms control until they have parity with the other two nuclear superpowers. Mr. Biden is also expected to broach the war in Gaza with Mr. Xi,
+中国官员告诉美国对等官员，与另外两个核超级大国平起平坐之前，他们不会讨论军备控制问题。预计拜登还将与习近平讨论加沙战争问题。
+
+That is significant because the current Chinese climate goal addresses only carbon dioxide, leaving out methane, nitrous oxide and other gases that are acting as a blanket around the planet.Methane spews from oil and gas operations as well as coal mining and can be 80 times as potent as carbon dioxide in the short term.
+这一点意义重大，因为中国目前的减排目标只涉及二氧化碳，不涉及甲烷、一氧化二氮和其他非二氧化碳温室气体。石油和天然气作业以及煤炭开采都会泄漏甲烷，它作为温室气体的效力在短期内可达二氧化碳的80%。
+
+The government released a long-awaited blueprint last week for addressing methane, but analysts dismissed it as toothless because it lacked targets for emissions reductions.
+虽然政府上周发布了外界期待已久的解决甲烷问题的蓝图，但分析人士认为该蓝图不起作用，因为缺乏减排目标。
+
+Even the most flowery Chinese articles have drawn distinctions between warm ties between American and Chinese people, and their governments; some state media outlets have continued to warn that the outcome of the California meeting will hinge on the United States, in line with Beijing’s stance that the strained relationship is entirely Washington’s fault.
+中方发表的文章即便说得再天花乱坠，也还是对美中人民的友好和两国政府的关系做出了区分。一些官媒继续警告，加州的会晤结果如何将取决于美国，这符合北京一贯的立场，即中美关系紧张的责任全在美方。
+
+A lunch meeting about China this summer at the Upper East Side headquarters of the Council on Foreign Relations felt more like an Irish wake.Another told stories about living for years in Beijing as a translator, brand strategist and freelance music critic on a “dodgy visa” that the Chinese government would never give out today. They were all keenly aware that they had lived through an extraordinary period of warm relations that is now gone, perhaps forever.
+今年夏天，在美国外交关系委员会位于上东区的总部举行的一场关于中国的午餐会，感觉更像是一场爱尔兰守灵仪式。有一个人讲述了他在北京生活多年的故事，他持着“不太正经的签证”做翻译、品牌策略师和自由乐评人，如今的中国政府肯定不会发那种签证了。他们都敏锐地意识到，他们经历了一段非同寻常的热络时期，现在那段时期已经过去，也许一去不复返了。
+
+The nostalgia was poignant but the gathering was also notable for what it represented. That lunch meeting underlined the fact that China was turning into something they hadn’t expected — and slipping out of their reach. There was nothing to be done. It was out of their hands. A melancholy camaraderie filled the room. It felt like the end of an era.
+怀旧之情令人心酸，但这次聚会也因其所代表的意义而引人注目。那次午餐会议凸显了这样一个事实——中国正在变成他们意想不到的东西，并且逐渐脱离他们所能触及的范畴。没有什么可做的。他们无能为力。房间里充满了忧郁的同志情谊。感觉像是一个时代的终结。
+
+But the hard reality remains: The United States and China, the two most powerful nations in the world, are bound to butt heads in this new era and nobody knows how acrimonious it is going to get.China has gone from a poor country that was deeply insecure about its place in the world to one that is wealthy and confident
+美国和中国，世界上最强大的两个国家，在这个新时代必然会发生冲突，没有人知道会变得多么激烈。中国已经从对自己的国际地位充满焦虑的穷国变成一个富有、自信的国家
+
+If China has changed, so too has the United States. In the golden years of the relationship, the U.S. system of nearly unfettered capitalism and representative self-governance was a model for much of the world. Today it is a showcase of political sclerosis, reactionary populism and a nearly unbridgeable gap between rich and poor.
+如果说中国已经变了，那么美国也是如此。在中美关系的黄金年代，美国几乎不加束缚的资本主义和代议制自治体制被全世界相当一部分地方视为榜样。如今它展现的是政治僵化、倒退的民粹主义和几乎无法弥合的贫富差距。
+
+For more than a quarter century, the fortunes of the United States and China were fused in a uniquely monumental joint venture.Americans treated China like the mother of all outlet stores, purchasing staggering quantities of low-priced factory goods. Decades of American rhetoric that celebrated commerce as a wellspring of democratization in China have given way to resignation that the country’s current leadership
+在超过四分之一个世纪的时间里，美国和中国的国运融合在了一家独特而宏伟的“巨型企业”中。美国人视中国为一切折扣店的源头，购买数量惊人的低价工厂产品。如今，美国已经放弃了过去几十年间宣扬商业乃中国民主化源泉的那套说辞，转而默认习近平主席领导下的中国领导层
+
+In a perfect political world, these are two countries that are made in heaven, exactly because they are complementary,Essentially, these two countries kind of got married without knowing one another’s religions.But divorce is not a practical option. The United States and China — the world’s two largest economies — are intertwined. It was never going to last.Still, the prospect that their political schism will endure is altering global supply chains. 
+在完美的政治世界里，这两个国家堪称天作之合，因为它们完全互补，从本质上讲，这两国就好比在不了解对方宗教信仰的情况下结了婚一样。但离婚却是个不现实的选项。作为世界上最大的两个经济体，美国和中国紧密相连。这种关系从来就不可能天长地久 尽管如此，两国的政治分裂将持续下去的前景正在改变全球供应链
+
+Some trade and national security experts celebrate these shifts as an overdue adjustment to decades of growth propelled by a perilous codependency between the United States and China.It was certainly a form of interdependence,But the notion that China saves and the U.S. spends, China lends and the U.S. borrows, and all is good because we are two sides of the same coin, we’re complementary, that was never sustainable.
+一些贸易和国家安全专家将这些变化称赞为对几十年经济增长模式早该发生的调整，那种增长是靠美中之间危险的相互依赖推动的。这当然是一种形式的相互依赖，但这里面的观念是不可持续的，那就是中国存钱、美国花钱，中国放贷、美国借款，这些都是好事，因为我们是同一事物的两个方面，我们是互补的。
+
+Yet beneath such high-minded rhetoric, American brands pushed for greater access to China for the simple reason that its factories could turn out goods more cheaply than anywhere else.Walmart, a company ruled by a zeal for low prices, opened a procurement center in the boomtown of Shenzhen. The company would gather hundreds of representatives from surrounding factories. They would sit in wooden chairs, sipping tea out of flimsy plastic cups, as they waited for hours to meet Walmart’s buyers. The company could demand rock-bottom prices, aided by the implicit threat that if one factory balked, another could be summoned from inside the same waiting room.
+但在如此高尚的言辞背后，美国的品牌想要更多地进入中国，原因很简单，因为中国的工厂能生产比其他地方更便宜的商品。沃尔玛是一家热衷于低价的公司，在新兴城市深圳建了一个采购中心。沃尔玛将周边工厂的数百名代表召集到这个中心。他们坐在木椅上，用一次性塑料杯喝着茶，一等就是几个小时。沃尔玛能要到最低的价格，因为隐含的威胁是，如果一家工厂犹豫的话，沃尔玛能从同一间等候室里召唤来另一家工厂的代表。
