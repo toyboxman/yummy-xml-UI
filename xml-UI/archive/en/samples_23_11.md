@@ -316,3 +316,93 @@ Some trade and national security experts celebrate these shifts as an overdue ad
 
 Yet beneath such high-minded rhetoric, American brands pushed for greater access to China for the simple reason that its factories could turn out goods more cheaply than anywhere else.Walmart, a company ruled by a zeal for low prices, opened a procurement center in the boomtown of Shenzhen. The company would gather hundreds of representatives from surrounding factories. They would sit in wooden chairs, sipping tea out of flimsy plastic cups, as they waited for hours to meet Walmart’s buyers. The company could demand rock-bottom prices, aided by the implicit threat that if one factory balked, another could be summoned from inside the same waiting room.
 但在如此高尚的言辞背后，美国的品牌想要更多地进入中国，原因很简单，因为中国的工厂能生产比其他地方更便宜的商品。沃尔玛是一家热衷于低价的公司，在新兴城市深圳建了一个采购中心。沃尔玛将周边工厂的数百名代表召集到这个中心。他们坐在木椅上，用一次性塑料杯喝着茶，一等就是几个小时。沃尔玛能要到最低的价格，因为隐含的威胁是，如果一家工厂犹豫的话，沃尔玛能从同一间等候室里召唤来另一家工厂的代表。
+
+As the most powerful leader in generations, he rarely bothers to glad-hand or to try charming a crowd. His public appearances are carefully crafted, with fawning cadres and adoring fans positioned around him.The dinner itself was a polarizing affair
+作为几代人以来最具权势的领导人，很少会费心去讨好或者取悦民众。他的公开露面都是经过精心安排的，周围全是阿谀奉承的领导干部和崇拜的粉丝。这场晚宴本身就是个争议话题
+
+In his speech, Mr. Xi stuck mostly to friendly topics, comparing the U.S.-Chinese relationship to a tree that had “grown tall and strong,” and dangling the prospect of dispatching more giant pandas to California as “envoys of friendship.”
+习近平的致辞基本只谈到了友好话题，将中美关系比作一棵“已经长大”的树，并提出愿意为加州送来更多“友谊使者”大熊猫。
+
+In Shenzhen, a metropolis born of China’s economic prosperity, Paibang Village is a reminder of the city’s modest past and the challenges ahead for reviving the country’s property sector.Paibang is what China calls an urban village, a labyrinth of low-slung apartment buildings and mom-and-pop storefronts connected by a maze of alleyways and narrow roads. 
+在深圳这个中国经济繁荣造就出的大都市，排榜村令人们想起这座城市朴实的过去，以及振兴中国房地产行业所面临的挑战。排榜村是中国所谓的城中村，由低矮的公寓楼和小小的夫妻店组成，被小巷和狭窄的道路连接起来，如同迷宫一般。
+
+Now with China mired in an unyielding property crisis, policymakers want to revamp aging urban neighborhoods like Paibang to kick-start construction and spur local economies.But as the halting rehabilitation of Paibang shows, it will not be a quick or easy fix.All the while, construction in Paibang has been at a standstill. Rows of concrete apartment blocks stand so close to each other that they are colloquially known as “handshake buildings” to describe the proximity of the neighbors. The apartments are run-down: no elevators, bars on windows and squat toilets.
+如今，随着中国陷入难以平息的房地产危机，政策制定者希望改造像排榜村这样老化的城市社区，以此启动建设，刺激当地经济。但是，排榜村改造陷入了停滞，这表明这并非一个快速或简单的解决方案。与此同时，排榜村的建设一直处于停滞状态。一排排的混凝土公寓楼靠得很近，俗称“握手楼”。这些公寓都很破：没有电梯，窗户上有栏杆，使用蹲式厕所。
+
+The real estate slump is weighing on the economy. Local governments, reliant on land lease revenue, are feeling the squeeze.The government has tried cutting interest rates and loosening home-buying requirements but has not moved the needle. More drastic measures may weigh on local budgets when debt is already a problem.
+房地产市场的低迷正在拖累经济。依赖土地租赁收入的地方政府感受到了压力。政府尝试降低利率和放宽购房条件，但于事无补。在债务已经成为问题的情况下，更严厉的措施可能会对地方预算造成压力。
+
+As Chinese cities modernized into expanses of high-rises and gridded streets, the urban villages grew into chaotic, densely populated neighborhoods little touched by the gentrification surrounding them.Starting around 2009, as urban expansion started to run out of land, many local governments recognized the untapped potential of urban villages, and redeveloped neighborhoods. 
+随着中国城市走向现代化，高楼林立，街道网格化，城中村逐渐发展为人口密集的混乱社区，周围的士绅化几乎与它们无关。从2009年左右开始，随着城市扩张开始耗尽土地，许多地方政府认识到，城中村具有尚未开发的潜力，并对这些社区进行重新开发。
+
+Jimmy Carter, 99, the longest-living president in American history, has also been in hospice care at their home, but so far he has defied expectations. Over their nearly eight decades together, the Carters forged the closest of bonds, developing a personal and professional symbiosis remarkable for its sheer longevity.
+现年99岁的吉米·卡特是美国历史上最长寿的总统，也一直在家中接受临终关怀，但到目前为止，他的表现出乎人们的意料。在近八十年的共同生活中，卡特夫妇建立了最亲密的关系，形成了一种个人和职业上的共生关系，其持久性令人瞩目。
+
+Reared in the same tiny patch of Georgia farmland, 150 miles south of Atlanta, they were similar in temperament and outlook. They shared a fierce work ethic, a drive for self-improvement and an earnest, even pious, demeanor. Their Christian faith was central to their lives. Both were frugal. Both could be stubborn.
+他们都是在亚特兰大以南240公里的一片佐治亚州农庄里长大，性情和观念都很相似。他们都有强烈的事业心、自我提升的动力，以及认真甚至虔诚的举止。基督教信仰是他们生活的中心。两人都很节俭。两人都可以很固执。
+
+In the continuum of first ladies after Roosevelt, Carter broke the mold. Like most of the others, she championed a cause — hers was the treatment of mental illness. But she also immersed herself in the business of the nation and kept a sharp eye on politics, a realm her husband famously claimed to ignore.
+在罗斯福之后的第一夫人中，罗莎琳·卡特打破了常规。像其他大多数第一夫人一样，她支持一项事业——她支持的是治疗精神疾病。但她也全身心地投入到国家事务中，并对政治保持着敏锐的关注，而她的丈夫曾以宣称忽视政治著称。
+
+A full 16 years before Bill and Hillary Rodham Clinton would offer themselves to the nation as a package deal with the slogan “Buy one, get one free,” the Carters functioned as near co-presidents.
+卡特夫妇几乎是以联合总统的身份行事，这比以“买一送一”的口号打包向全国人民推销自己的比尔·克林顿和希拉里·罗德姆·克林顿早了整整16年。
+
+A Crush From Afar, Rosalynn and Ruth conspired for years to get him to notice her, but after his fateful glimpse of her as a newborn, they had few encounters.The Smiths were not as well off as the Carters. Rosalynn was 13 when her father died of leukemia, Despite her hardships and obligations, she was valedictorian of her class at Plains High School. She later commuted to Georgia Southwestern College, then a junior college.
+来自远方的迷恋,罗莎琳和露丝密谋了多年，想让他注意到她，但在他对初生的她做了命中注定的匆匆一瞥之后，两人就少有碰面的机会。史密斯家不如卡特家富裕。罗莎琳13岁时，父亲因白血病去世，尽管饱受艰辛，身负重任，她还是代表普莱恩斯高中的毕业生做了告别讲演。后来，她就读于佐治亚州西南学院，当时是一所大专学校。
+
+Mr. Sutskever, Ms. Toner and Ms. McCauley are representative of the kinds of people who were heavily involved in thinking about A.I. a decade ago — an eclectic mix of academics, Silicon Valley futurists and computer scientists. They viewed the technology with a mix of fear and awe, and worried about theoretical future events like the “singularity,” a point at which A.I. would outstrip our ability to contain it. Many were affiliated with philosophical groups like the Effective Altruists, a movement that uses data and rationality to make moral decisions, and were persuaded to work in A.I. out of a desire to minimize the technology’s destructive effects.
+苏茨克韦尔、托纳和麦考利可以代表十年前积极参与思考人工智能的那批人，他们是学者，硅谷未来学家和计算机科学家的混合体。他们对这项技术既恐惧又敬畏，并担心理论上的未来事件，比如“奇点”(singularity)，即人工智能超出我们的控制能力。许多人都属于有效利他主义者等哲学团体，这是一个利用数据和理性做出道德决定的运动，他们之所以决定从事人工智能工作，是出于将技术的破坏性影响降到最低的愿望。
+
+Steve Jobs, driven by his genius and his gut, invented the iPhone and built Apple into the world’s most valuable company. He was uncompromising, larger than life and irreplaceable. His life was creating the future, which would be filled with devices controlled by their users.
+在天才和直觉的驱动下，史蒂夫·乔布斯创造了iPhone，把苹果变成了世界上市值最高的公司。他从不妥协，行为惹眼，是个不可替代的人物。他一生都在创造未来，那是一个充满由用户控制的设备的未来。
+
+For all the relentless exaltation of Mr. Altman over the weekend, the extravagant claims made by him and his former OpenAI colleagues will eventually have their own moment of reckoning. He learned there that turmoil always lurked underneath a promising new company. “Start-ups on the inside are always badly broken,” he said.Mr. Altman had the reputation of a swashbuckler.
+尽管称赞奥尔特曼的声音周末没有减弱，但他和他在 OpenAI的前同事做过的那些不切实际的宣告终将面对算总账的时刻。他在那里学到的东西是，一家充满希望的新公司背后总潜藏着混乱。“初创企业的内部总有严重的坏毛病，”他说。奥尔特曼享有好斗的名声。
+
+The best birthday gift the oldest president in American history could hope for would be a strategy for assuaging voters’ concerns, but that has been hard to come by.For President Biden, who turns 81 on Monday, another birthday may bring more liability than revelry, offering one more reminder of his age to an already skeptical electorate.
+作为美国历史上年纪最大的总统，他所能期待的最好礼物就是一套缓解选民担忧的策略，但这并非易事。对于在周一迎来81岁生日的拜登总统来说，又一年生日所带来的与其说是欢乐，不如说是累赘，让本已心存疑虑的选民再次想起他的年龄。
+
+While presidents Joe Biden and Xi Jinping were drawing the world’s attention for their talks in San Francisco this week, a different kind of summitry is happening in China. There, representatives from their two countries are speaking through violins, cellos, oboes and clarinets.
+在旧金山举行的“习拜会”吸引了世界目光之际，一场迥然不同的盛会在中国上演。在这场盛会上，小提琴、大提琴、双簧管和单簧管成了两国代表的交流手段。
+
+Many Swiss rely on perpetual refinancing to afford their homes. Switzerland is the land of luxury watches, fine chocolates — and lifelong mortgages. It’s not uncommon for borrowers to extend their loans until their deaths, which is advantageous from a tax perspective because mortgage interest is tax deductible. It also gives a lot of business to Switzerland’s vaunted banking industry.
+许多瑞士人依靠永续性重新贷款来买房。瑞士以奢侈腕表、精致巧克力和终身抵押贷款闻名。还贷还到死情况并不罕见，这从纳税的角度讲是有利的，因为抵押贷款利息可以抵税。这种贷款还让瑞士引以为傲的银行业获得了大量业务。
+
+The Chinese data indicated “no detection of any unusual or novel pathogens,” according to a W.H.O. statement on Thursday. The data, which included laboratory results from infected children, indicated that the rise in cases was a result of known viruses and bacteria, such as influenza and mycoplasma pneumoniae, a bacterium that causes usually mild illness.
+世卫组织在周四发布的声明中写道，中国提供的数据“未检测到任何异常或新型病原体”。这些数据包括来自受感染儿童的实验室结果，表明病例的增加是由已知病毒和细菌造成的，例如流感和肺炎支原体（一种通常会引发轻微病症的细菌）。
+
+Both times, officials covered up early cases, and stonewalled requests from health officials overseas, including the W.H.O., for more information and access to patient data.In domestic media, they have urged calm about the surge in respiratory illnesses, saying the increase is due in part to the lifting of China’s three years of strict coronavirus restrictions.Chinese doctors have said patients in this round appear to have mixed infections, or drug-resistant ones, which may be making symptoms worse.
+官员们在那两次疫情期间都掩盖了早期病例，并阻碍了海外卫生官员，包括世卫组织的官员对分享更多信息和患者数据的要求。官员们在国内媒体的报道中呼吁人们对呼吸道疾病的激增保持冷静，称激增的部分原因是中国取消了曾严格执行三年的“新冠清零”政策。中国的医生们表示，这波患者中混合感染或耐药的较多，这可能会导致病情恶化。
+
+I confess I have a history of going into these tech workplaces with a degree of defensive humanistic snobbery: These people may know code, I tell myself, but they probably don’t know the literary and philosophical things that really matter.
+我承认，过去我走进这些科技公司的时候，会摆出一种防御性的人本主义架子：我告诉自己，这些人可能懂代码，但他们可能不懂真正重要的文学和哲学。
+
+It would have been another shocking twist in a saga that was already full of them. Billions of dollars — and, possibly, the trajectory of the entire A.I. industry — hung on the fate of the board’s decision, and many expected it to cave under pressure and reverse itself.
+这原本会给一个本已充满峰回路转的复杂故事再添惊人转折。数十亿美元——可能还有整个人工智能行业的发展轨迹——都取决于董事会的决定，许多人预计董事会将在压力下屈服，撤销之前的决定。
+
+It was in the middle of a tender offer that would have allowed employees to cash out their stock at an eye-watering valuation, and its cutting-edge A.I. language model, GPT-4, was best in class.Now, the company is in chaos. Its top leaders are gone. Morale is shattered. The tender offer may fall apart. OpenAI’s board may be satisfied with this outcome — after all, the board chose it, even after being given a chance to backtrack.
+当时，该公司正在进行一项收购要约，该要约将允许员工以令人咋舌的估值兑现其股票，而它的尖端人工智能语言模型GPT-4在同类产品中是最好的。现在，公司陷入混乱。它的最高领导人已经离开了。士气低落。要约收购可能会以失败告终。OpenAI董事会可能会对这个结果感到满意——毕竟，董事会选择了这个结果，即使他们有机会反悔。
+
+Mr. Nadella would have clearly preferred to see Mr. Altman reinstated.But when it was clear that wasn’t happening, he did the next best thing: swooping in to offer jobs to Mr. Altman, Mr. Brockman and their loyalists.Strategically, it was a masterstroke. Winners: A.I. Doomers and Effective Altruists. Mr. Altman’s firing startled the tech industry and OpenAI’s investors, OpenAI has been the gravitational center of that discussion along with its former chief executive
+纳德拉显然更希望看到奥尔特曼复职。但当这一切显然不可能发生时，他做了退而求其次的选择：向奥尔特曼、布罗克曼及其忠实拥护者提供工作机会。从战略上讲，这是一个神来之笔。赢家：人工智能末日论者和有效利他主义者,奥尔特曼遭革职震惊了科技行业,过去一年里，奥尔特曼在让人工智能成为主流话题方面做了比任何人都多的努力
+
+People with these fears — sometimes mocked as “doomers” or “decels” by their critics — were once considered fringe. And on Friday, they took down the chief executive of the world’s leading A.I. company.Many of these investors are techno-optimists who believe that A.I. will be an unalloyed good for society
+有这些恐惧的人——有时被批评者嘲笑为“末日论者”或“衰退者”——一度被认为是边缘人群。上周五，他们扳倒了世界顶级人工智能公司的首席执行官。这些投资者中的许多人都是技术乐观主义者，他们相信人工智能将为社会带来纯粹的好处
+
+On one hand, companies like Google, Anthropic and Meta could benefit from a weakened OpenAI if it allows them to catch up to the company’s A.I. progress, or siphon off key employees. The board of directors of OpenAI, the high-flying artificial intelligence start-up, said in a note to employees on Sunday night that its former chief, Sam Altman, would not be returning to his job.Hours later, in another head-spinning move, Microsoft said it was hiring Mr. Altman and Greg Brockman
+一方面，谷歌、Anthropic和Meta等公司可能会从OpenAI的削弱中受益，如果这能让它们在人工智能方面追上OpenAI的进展，或者挖走OpenAI的关键员工。周日晚，大获成功的人工智能初创公司OpenAI的董事会在发给员工们的一份备忘录中表示，公司前任首席执行官萨姆·奥尔特曼不会重返工作岗位,几小时后，微软也做出了一个使人眩晕的举动，宣布将奥尔特曼和曾任OpenAI总裁的公司联合创始人格雷格·布罗克曼招至麾下
+
+Some OpenAI employees pledged to quit OpenAI or join Mr. Altman’s new potential venture if the board did not relent. Microsoft led the charge, three people said, and smaller investors channeled their concerns through Microsoft.In 2018, after Mr. Musk parted ways with OpenAI, Mr. Altman transformed the lab into a for-profit company that is controlled by the nonprofit and its board.
+一些OpenAI员工已正式承诺，如果董事会不作出让步，他们将退出OpenAI，或加入奥尔特曼可能成立的新公司。三名知情人士说，微软在其中起了带头作用，较小的投资者们则通过微软表达了他们的担忧。2018年，马斯克与OpenAI分手后，奥尔特曼将实验室转变为一家由非营利组织及其董事会控股的营利性公司。
+
+Mr. Shear, a longtime video gamer, was viewed as a competent leader at Twitch but had his critics. He was perceived to be too focused on cost-cutting and turning the money-losing site into a more profitable business.
+长期爱玩电子游戏的希尔在Twitch工作时曾被视为一名称职的领导者，但也不乏批评者。人们认为他过于关注削减成本以及把亏损的网站转变为更盈利的生意。
+
+Javier Milei was first introduced to the Argentine public as a combative television personality with an unruly hairdo and a tendency to insult his critics. So when he entered Argentina’s presidential race last year, he was viewed by many as a sideshow.Many Argentines awoke on Monday anxious, others hopeful, but just about everyone was uncertain about what lay ahead.“Argentina’s situation is critical,” he said. “The changes that our country needs are drastic. There is no place for gradualism.”
+哈维尔·米莱最初是以一个好斗电视明星的形象出现在阿根廷公众面前的，他发型不羁，喜欢侮辱批评他的人。因此，当他去年参加阿根廷总统竞选时，很多人认为他只是个配角。周一，许多阿根廷人醒来时感到焦虑，也有人满怀希望，但几乎所有人都不确定未来会发生什么。“阿根廷的情况非常危急，”他说。“我们国家需要的改变是剧烈的。循序渐进是行不通的。”
+
+He identifies as an “anarcho-capitalist,” which, he has said, is a radically free-market strain of libertarianism that believes “society functions much better without a state than with a state.”It’s true that he has the handicap of inexperience,but I’m hopeful that he can put together a reasonable governing team to make the changes the country needs.
+他认为自己是“无政府资本主义者”，他说，这是自由意志主义的一种激进的自由市场流派，认为“没有国家的社会比有国家的社会运转得更好”。他存在没有经验这个缺陷，这是事实，但我觉得他有希望组织起一个通情达理的治理团队，给这个国家带来它需要的改变。
+
+While many key people in Mr. Milei’s campaign also lack much governing experience, they have pitched that as an asset, not a liability, and many voters agreed.Ms. Milei has been an enigma in Argentina, always present at Mr. Milei’s side but almost never speaking publicly. In a 2021 television interview, he even compared her to Moses, the biblical figure bearing the message of God. “Kari is Moses,” he said with tears in his eyes. “I’m the one spreading the word.”
+米莱竞选团队中的许多关键人物也缺乏治理经验，然而这被他们当做优势而不是缺陷来宣传，许多选民认同这一点。卡丽娜·米莱在阿根廷是个神秘人物，总是在米莱左右，但几乎从未公开发言过。在2021年的一次电视采访中，他甚至将她比作摩西，也就是那位带来了上帝福音的圣经人物。“卡丽是摩西，”他双眼含泪地说。“我只是负责传播的人。”
