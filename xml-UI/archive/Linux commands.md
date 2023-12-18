@@ -1074,7 +1074,6 @@ $ find . -type f -name "img-*" -exec mv {} {}.png \;
 # $0是把{}参数值作为bash文件名参数传入执行的脚本, "$0"这么用是解决文件名中出现tab 空格等字符导致命令解析错误
 $ find . -name '*.mp4' -exec bash -c 'name=`md5sum -b "$0" | cut -b 1-5`; echo $name; mv -v "$0" $name.mp4 ' {} \;
 
-
 # 删除文件名为乱码的文件
 # 乱码文件无法通过文件名匹配,只能找到文件或目录的inode
 $ ls -i

@@ -543,6 +543,7 @@ git log f2edbe81730 --summary
 
 # 汇总commit提交文件信息
 git log --stat f2edbe81730
+git log --oneline --stat f2edbe81730
 
 # 查看src/main/java目录下匹配rpc关键字的所有提交
 git log --grep=rpc -- src/main/java
@@ -676,13 +677,13 @@ git format-patch -1 HEAD
 # 给dev分支最新的一个提交(head -1)打出补丁
 git format-patch -1 dev  
 
-# 给当前分支从f5f8ff546b3开始到HEAD之间所有提交打出补丁
-git format-patch f5f8ff546b3  
+# 给当前分支中 f5f8ff546b3提交 打出补丁
+git format-patch -1 f5f8ff546b3 
+# 给当前分支从f5f8ff546b3开始(不包括)到HEAD(包括)之间所有提交打出补丁
+git format-patch f5f8ff546b3..HEAD  
 # 给当前分支从f5f8ff546b3开始到HEAD-2之间所有提交打出补丁
 git format-patch f5f8ff546b3..@~2
 
-# 给当前分支中指定 f5f8ff546b3提交打出补丁
-git format-patch -1 f5f8ff546b3  
 
 # 把当前分支最新两个提交打成一个补丁
 # 默认前面几个命令会按一个提交一个补丁方式产生00001/2/3...-xxx.patch
