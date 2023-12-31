@@ -679,6 +679,8 @@ git format-patch -1 dev
 
 # 给当前分支中 f5f8ff546b3提交 打出补丁
 git format-patch -1 f5f8ff546b3 
+# 给当前分支中 f5f8ff546b3 824f2d2633c0提交 打出补丁
+git format-patch -2 f5f8ff546b3 824f2d2633c0
 # 给当前分支从f5f8ff546b3开始(不包括)到HEAD(包括)之间所有提交打出补丁
 git format-patch f5f8ff546b3..HEAD  
 # 给当前分支从f5f8ff546b3开始到HEAD-2之间所有提交打出补丁

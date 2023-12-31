@@ -211,3 +211,54 @@ he supported a more rigorous vetting of foreign researchers. But Mr. Woodard sai
 
 During downtime between classes on how to waterproof a rucksack or set up an ambush, last month’s jungle students worked on ropes and pulleys for a test they have to pass to graduate. Map and compass navigation has also become mandatory.The analog instruction remains necessary even with the Pentagon’s relentless push for new technology. Army commanders note that artificial intelligence and drones cannot hold territory or manage resupply in soggy gulches where electricity and clean water are scarce.
 丛林学校上个月的学员们上了如何对背包进行防水处理的课后，还要上如何设埋伏的课，他们在这两堂课之间的休息时间努力练习一个使用绳索和滑轮的测试，那是他们毕业必须通过的测试。用地图和指南针来确定位置和方向也已成为必修课。在五角大楼不停地推动新技术的时候，仍有必要让学员学会不依赖电子设备的方法。陆军指挥官们指出，在潮湿的急流峡谷里，由于缺少电力和清洁水，人工智能和无人机无法坚守阵地或管理补给。
+
+In interviews with state media outlets, residents recounted being jolted awake and fleeing into the cold with barely enough time to grab extra layers of clothing. Photos showed people in a plaza wrapped in thick comforters.On social media, people who said they were at the quake site reported that they had started bonfires in their yards or set fire to cardboard boxes to keep warm. The local government did not have enough clothes, quilts or shoes and would need to rely on the provincial government
+在接受官媒采访时，居民讲述了他们如何被地震震醒，随后逃到寒冷的户外，几乎没有时间多拿几件衣服。图片显示一处广场上许多人裹着厚被子。自称是地震亲历者的人在社交媒体上透露，他们在院里生起篝火，或是通过烧纸箱来取暖。当地政府没有足够的棉服、棉被和棉鞋，需要依靠省政府调拨。
+
+LG, a $10 billion corporate empire, is governed by the principle of male primogeniture. Succession was effectively settled 14 years earlier when Koo and his wife adopted their eldest nephew, Koo Kwang-mo. and their efforts for another male heir resulted in a second daughter.
+LG是一个价值100亿美元的企业帝国，遵循长子继承的原则。14年前，具本茂夫妇收养了他们的长侄具光谟，继承问题就得到了有效解决。后来他们也想再生一个男性继承人，结果有了第二个女儿。
+
+In a legal filing, the former chairperson’s widow, Kim Young-shik, and her daughters, Koo Yeon-kyung and Koo Yeon-sue, accused LG executives of colluding with Koo Kwang-mo and his biological father to swindle them.Without a will, South Korean law states, the widow would be entitled to inherit one-third of the estate with the remainder divided equally between the two daughters and Kwang-mo.We cannot stand having our rights, protected under the constitution and the law, be disregarded just because we are women
+在一份法律文件中，前会长具本茂的遗孀金英植和女儿具延京（音）及具延苏（音）指控LG高管与具光谟及其生父勾结，诈骗她们。韩国法律规定，如果没有遗嘱，寡妇有权继承三分之一的遗产，其余的遗产由两个女儿和具光谟平均分配。我们不能忍受仅仅因为我们是女性，就无视我们受宪法和法律保护的权利
+
+For decades, South Korea’s economy has been dominated by a handful of family-run conglomerates that hold outsize wealth and influence and factor into nearly every aspect of life in the country.Because of their political heft, the chaebol, as these families are known, have long been a matter of immense public interest. The marriages, deaths, estrangements and legal troubles of these families are chronicled in the South Korean press. Fictional chaebol families have been depicted in Korean dramas. 
+几十年来，韩国经济一直由少数几家家族经营的企业集团主导，它们拥有巨大的财富和影响力，几乎影响着这个国家生活的方方面面。因其政治影响力，这些家族被称为“财阀”，长期以来一直是公众关注的焦点。韩国媒体记录了这些家庭的婚姻、死亡、隔阂与法律纠纷。韩剧中经常出现虚构的财阀家族。
+
+Russians buy almost exclusively internal combustion cars. China has a surplus of them because its consumers have shifted swiftly to electric cars.But lower-middle-class and poor Russian families, whose members make up the bulk of the soldiers fighting the war, have stepped up purchases of affordable Chinese cars.Never before have we seen automakers from a single country gobble up so much market share so quickly — the Chinese came into a windfall
+俄罗斯人几乎只买内燃汽车。中国这类汽车存在过剩的情况，因为它的消费者迅速转向电动车。俄罗斯中下层阶级和贫困家庭（其成员构成参战士兵的主体）已经更多开始购买价格合理的中国汽车。我们从未见过一个国家的汽车制造商如此迅速地抢占了如此多的市场份额——中国车企发了横财。
+
+We do not reach these conclusions lightly. We are mindful of the magnitude and weight of the questions now before us. We are likewise mindful of our solemn duty to apply the law, without fear or favor, and without being swayed by public reaction to the decisions that the law mandates we reach.
+这并不是一个草率做出的决定。我们深知眼前这些问题的重要性和影响力。但我们也深知自身的神圣职责正是无所畏惧、不偏不倚地执行法律，在依法做出裁决时不受公众反应的左右。
+
+They added that “a reading that renders the document a ‘secret code’ loaded with hidden meanings discernible only by a select priesthood of illuminati is generally an unlikely one.”
+他们还说，“将条文解读成一项‘秘密法规’，充斥着只有光明会特命祭司才看得出的隐义，往往就是一种不成立的解读。”
+
+The eruption began late Monday, with fountains of lava pouring from a fissure within a volcanic system on the Reykjanes Peninsula, the most populated region in Iceland and home to its capital, Reykjavik. Helicopter video shared by Iceland’s Civil Defense showed steam rising from a glowing, snaking river of lava.
+火山爆发于周一晚间开始，熔岩从雷恰角半岛火山群的裂缝中喷涌而出。该半岛是冰岛人口最多的地区，也是冰岛首都雷克雅未克的所在地。冰岛民防部门分享的直升机视频显示，蒸汽从一条闪烁蜿蜒的熔岩河中升起。
+
+The fact that the activity is decreasing already is not an indication of how long the eruption will last, but rather that the eruption is reaching a state of equilibrium.Iceland straddles two tectonic plates, which are themselves divided by an undersea mountain chain that oozes molten hot rock.Iceland has one of the world’s most effective volcanic preparedness measures
+事实上，火山活动已经在减少，这并不能说明火山爆发将持续多久，而是表明火山爆发正在达到一种平衡状态。冰岛横跨两个构造板块，这两个板块本身被渗出熔融热岩的海底山脉隔开。冰岛是世界上拥有最有效的火山防范措施的国家之一。
+
+“If all you chase is efficiency — if you think the person is better off on the unemployment line with a third 40-inch television than he is working with only two — then you’re not going to agree with me,” Mr. Lighthizer said. “There’s a group of people who think that consumption is the end. And my view is production is the end, and safe and happy communities are the end. You should be willing to pay a price for that.”
+“如果你追求的只是效率——如果你认为，一个人没有工作但家里有三台40英寸电视好过有工作但家里只有两台电视——那你就不会同意我的观点，”莱特希泽说。“有些人认为消费是目的。我的观点是，生产才是目的，安全和幸福的社区才是目的。人们应该愿意为这个目的付出代价。”
+
+Politically, Mr. Trump was ahead of the pack in focusing on the downsides of free trade. For more than 30 years, he has railed against trade deficits, which he views like company balance sheets as a simple matter of profits and losses. He complains that foreign countries that export more to the United States than they import from it are ripping America off.
+从政治上来看，特朗普是率先关注自由贸易弊端的人。他30多年来一直在抨击贸易逆差，认为贸易逆差就像公司资产负债表那样，是个损益的简单问题。他抱怨说，那些向美国出口商品多于从美国进口商品的国家是在敲美国竹杠。
+
+Jerry Yu has the trappings of what the Chinese call second-generation rich. He boasts a Connecticut prep-school education. He lives in a Manhattan condominium bought for $8 million from Jeffrey R. Immelt, the former General Electric chief executive.None of this would be known had Mr. Yu’s company — BitRush Inc., also known as BytesRush — not run into troubles in the tiny Texas Panhandle town of Channing, population 281, where contractors say they weren’t fully paid for their work on his mine there.He said the claims made by Crypton, including that it was not paid for services at the mine, were “baseless and without merit.”
+杰里·俞（音）这种人在中国被称为“富二代”。他拥有一间康涅狄格州预科学校的学历，住在以800万美元从前通用电气首席执行官杰弗里·伊梅尔特手中买下的曼哈顿共管公寓里。要不是杰里·俞的公司BitRush Inc.（又名BytesRush）在得克萨斯州潘汉德尔只有281人的小镇钱宁遇到麻烦，这一切都不会为人所知。该公司的承包商称其拖欠工程款。他说，Crypton公司的说法，包括该公司在矿场的服务没有得到报酬，都是“毫无根据、毫无道理的”。
+
+In Channing, the arrival of BitRush last year garnered a lot of attention, and some residents landed jobs constructing the mine, which was built next to an electrical substation.One of them, Brent Loudder, is a judge, the town’s volunteer fire chief and the husband of the county’s deputy sheriff. Mr. Loudder, who oversaw the electrical and plumbing work for Crypton, said the contractors did not get paid until they protested by holding work stoppages.
+BitRush在去年来到钱宁，吸引了很多关注，一些居民找到了建造矿场的工作，这个矿场建在一个变电站旁边。其中一位名叫布伦特·劳德，他是一名法官，也是该镇的志愿消防队长，县副警长的丈夫。劳德负责监督Crypton的电气和管道工程，他说，承包商们通过停工抗议才拿到工资。
+
+Paying with Tether is widespread in the Bitcoin-mining industry. One of the benefits of those transactions can be avoiding sales and capital gains taxes.
+用Tether支付在比特币挖矿行业很普遍。这些交易的好处之一是可以避免营业税和资本利得税。
+
+Analysts from Nomura, a Japanese bank, said in a report on Tuesday that the rules could “significantly impair” Chinese video game companies’ ability to make money.The “fire-quenching measures” the government has rolled out since Friday, Nomura added, will ease investor concerns but won’t remove the shadow it has thrown over China’s video game sector.For their part, Tencent and Netease have downplayed the impact of the proposed regulations.
+日本野村银行的分析师在周二的一份报告中说，这些管理办法可能“在相当程度上削弱”中国视频游戏公司的赚钱能力。野村证券还表示，政府自周五以来推出的“灭火措施”将缓解投资者的担忧，但不会消除其给中国电子游戏行业带来的阴影。就公司而言，腾讯和网易已淡化了拟议中的管理办法的影响。
+
+We should have a spirit of tolerance, which is to say to what extent can we compromise with reality? Don’t feel bad about compromising. Time will slowly change everything. Earlier in his career, Mr. Yuan often mixed with American scholars, some of whom saw him as a coolheaded observer of Washington.
+应该具有容忍的精神，所谓容忍，就是在多大范围内，能够和现实妥协。不要因为妥协而难过，时间会逐渐改变一切。在其职业生涯早期，袁亦鲲经常与美国学者打交道，这些学者中有部分人认为，他对美国的观察是十分理性的。
+
+The trust, the investment arm of the state-owned financial conglomerate Citic, called housing “China’s economic ballast” and “an indispensable value investment.” The money it raised would be put toward four projects from Sunac China Holdings, a major developer.Three years later, investors who put their money in the Citic fund have recouped only a small fraction of their investment. Three of the fund’s construction projects are on hold or significantly delayed because of financing problems or poor sales. Sunac has defaulted and is trying to restructure its debt.
+中信信托是国有金融集团中信的投资部门，将房地产称为“中国经济压舱石”和“资产配置中不可缺少的价值投资”。该信托将筹集的资金投入到了大型开发商融创中国控股有限公司的四个项目中。三年后，把钱投进中信基金的投资人仅收回了一小部分资金。该基金投资的三处项目都因资金问题或销售不佳被迫停工或严重延期。已经出现违约的融创正在试图重组债务。
