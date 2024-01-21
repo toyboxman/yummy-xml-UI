@@ -37,8 +37,17 @@
 - [git status](#git-status)
 - [git show](#git-show)
 - [git tag](#git-tag)
+- [git update-index](#git-update-index)
 - [术语表](https://mp.weixin.qq.com/s/5EvrlCVc7g0LX7DMhI-ZnQ)
 - [使用子模块和子树来管理Git项目](https://mp.weixin.qq.com/s/RIM0y2Stwf8HiSbw7o8kcQ)
+
+### git update-index
+```console
+# rebase时遇到了修改过的文件无法进行的情况，你可以使用以下方法来忽略这些修改，使rebase可以继续进行
+# 这样会告诉 Git 将该文件视为未修改，即使它实际上被修改了。
+git update-index --skip-worktree <file_path>
+git update-index --assume-unchanged <file_path>
+```
 
 ### git config
 ```console
@@ -544,6 +553,8 @@ git log f2edbe81730 --summary
 # 汇总commit提交文件信息
 git log --stat f2edbe81730
 git log --oneline --stat f2edbe81730
+# 汇总commit提交目录信息
+git log --dirstat
 
 # 查看src/main/java目录下匹配rpc关键字的所有提交
 git log --grep=rpc -- src/main/java
