@@ -262,3 +262,12 @@ We should have a spirit of tolerance, which is to say to what extent can we comp
 
 The trust, the investment arm of the state-owned financial conglomerate Citic, called housing “China’s economic ballast” and “an indispensable value investment.” The money it raised would be put toward four projects from Sunac China Holdings, a major developer.Three years later, investors who put their money in the Citic fund have recouped only a small fraction of their investment. Three of the fund’s construction projects are on hold or significantly delayed because of financing problems or poor sales. Sunac has defaulted and is trying to restructure its debt.
 中信信托是国有金融集团中信的投资部门，将房地产称为“中国经济压舱石”和“资产配置中不可缺少的价值投资”。该信托将筹集的资金投入到了大型开发商融创中国控股有限公司的四个项目中。三年后，把钱投进中信基金的投资人仅收回了一小部分资金。该基金投资的三处项目都因资金问题或销售不佳被迫停工或严重延期。已经出现违约的融创正在试图重组债务。
+
+Despite its own increasingly aggressive military posture in recent years, China may prove to be a damper on any North Korean military adventurism.He tried it when he met Mr. Trump in 2018 and again in 2019. It failed spectacularly, and Mr. Kim returned home empty-handed and in humiliation.“Together, stronger, Solidarity conquers all.”
+尽管中国近年来的军事姿态也愈发咄咄逼人，但该国可能会对朝鲜的任何军事冒险主义行动加以阻拦。他在2018年和2019年两次会见特朗普时都曾尝试这种手段，但完全没有起到效果，金正恩则带着羞辱空手而归。“团结就是力量，团结战胜一切。”
+
+The message was aspirational — a graphic illustration of profound insecurity.Now more than ever, the fraught psychology of that predicament is showing signs of wear. Many see the United States as an unpredictable driver that could get them to safety but could just as well abandon the wheel.
+这是个鼓舞人心的信息，也是巨大的不安全感的生动例证。现在，这种窘境导致的令人焦虑的心理状态比以往任何时候都更显出损耗迹象。许多人认为美国是不可预测的司机，可能把车开到安全的地方，但也可能弃车而逃。
+
+The origins of Taiwan’s distrust can be glimpsed in a row of mildewing houses in the mountains above the skyscrapers of Taipei, the island’s vibrant capital. Starting around 1950, American soldiers occupied these bungalows, with their speckled floors and large yards.Even for those not alive at the time, the American reversal stings, like a parent’s adulterous affair, endlessly discussed.Taiwan is at a lopsided crossroad of U.S.-China relations.
+台湾不信任美国的源头可从一排排发了霉的房子里略见一斑，这些房子位于俯瞰台湾充满活力的首府台北摩天大楼的山上。从20世纪50年左右起，美国军人曾住在这些铺着地板、有很大院子的平房里。即使对那些当时还未出生的人来说，美国人的彻底转变仍刺痛了他们，他们仍在无休无止地讨论这件事，就像父母的一方有了外遇一样。台湾夹在了不平衡中美关系十字路口。
