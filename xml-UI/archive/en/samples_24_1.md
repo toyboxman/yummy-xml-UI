@@ -237,3 +237,57 @@ In 2012, seven of the 10 highest-grossing movies were U.S.-made. At the time, U.
 
 If you don’t want to get off your high horse to see what we like, then it’s natural that you will be washed-out,Hollywood movies can no longer bring novelty to Chinese audiences.
 你如果想要中国大陆这块流量，又不是很想放下自己的身段去看大陆人到底喜欢什么，那被大陆淘汰是很自然的事情，好莱坞电影再也没有办法带给大陆的观众新鲜感了。
+
+The looming showdown between President Biden and former President Donald J. Trump, assuming Nikki Haley cannot pull off a hail-mary surprise, goes beyond the binary liberal-conservative split of two political parties familiar to generations of Americans.
+如果尼基·黑利不能在成功机会微乎其微的最后努力中赢得出人意料的结果，现任总统拜登与前总统特朗普之间日益逼近的最后决战将超越几代美国人所熟悉的自由与保守的两党二元分歧。
+
+North Korea has enough fissile material, mostly highly enriched uranium, for about 50 to 60 nuclear warheads, He said he believed North Korean military planners would favor a surprise attack, which commanders carried out when they invaded the South in 1950, to “knock the Americans mentally off-balance, knock everybody off-balance.” the United States still “seeks dialogue” with the North “without preconditions and harbors no hostile intent.”
+朝鲜拥有足够的裂变材料，主要是高浓缩铀，可以制造大约50到60枚核弹头。他说，他相信朝鲜的军事规划者会倾向于发动突然袭击，以此“让美国人在心理上猝不及防，让所有人都猝不及防”。1950年朝鲜入侵韩国时，指挥官们就是这样做的。美国仍在“不设先决条件、不怀敌对意图”的情况下“寻求与朝鲜对话”。
+
+Granted, my argument that the risk of war is overblown may be wrong. A rule of thumb in following China is always to distrust people who assert with confidence what will happen. “A China expert is an oxymoron,” Winston Lord, a former ambassador to China, likes to say. In truth, there are legitimate reasons to fear what China might do.
+当然，我的这种认为战争风险被夸大的观点也可能是错的。关注中国的一个经验法则是，始终不要相信那些自信地断言会发生什么的人。前驻华大使温斯屯·洛德喜欢说：“中国问题专家是个自相矛盾的概念。”事实上，对中国可能会有何举动的担忧并非杞人忧天。
+
+Hefei’s industrial policies have been so successful in nurturing technology manufacturers that the country’s central government has embraced tenets of what is known as the Hefei model.Some localities and enterprises are still blindly launching and duplicating new energy vehicle projects — these require our great attention, and effective measures should be taken to solve them
+合肥的产业政策在扶植技术制造商方面非常成功，以至于中国的中央政府将所谓“合肥模式”奉为信条。部分地方和企业还存在盲目上马、重复建设新能源汽车项目情况，这些都需要引起我们高度重视，要采取有力措施来加以解决
+
+Mr. Yi, who graduated in June 2022 with a bachelor’s degree in management, had always been told that a college education came with certain benefits. He wouldn’t need to toil as his parents had, working as vegetable wholesalers. He could expect good pay and respect.If you want me to go serve others, I think that’s a bit too low, to be honest.A college degree isn’t the golden ticket it used to be. 
+易先生于2022年6月毕业，获得了管理学学士学位。他一直听别人说，大学学位会带来一定的好处，他不需要像父母那样辛苦地做蔬菜批发商。他可以得到高薪和尊重。你让我去给别人当服务员，我觉得有点卑躬屈膝，说实话。大学文凭不再是像过去那样的敲门砖。
+
+There has been plenty of hand-wringing in the West about the prospect of China displacing — or at least rivaling — the United States as the world’s leading superpower. But the evolving security crisis in the Red Sea makes clear that this remains a distant prospect.
+对于中国取代美国——或者至少是与美国竞争——成为世界头号超级大国的前景，西方有很多人感到忧心忡忡。但红海不断演变的安全危机清楚地表明，这样的前景依然很遥远。
+
+Some people with ulterior motives try to stir up trouble and profit from the chaos,These are not only ‘bears’ and ‘short sellers.’ These market doomsayers are trying to shake the international community’s investment confidence in China and trigger domestic financial turmoil in our country.
+一些居心叵测者妄图兴风作浪、趁乱牟利，不仅有‘看空者’‘做空者’，还有‘唱空者’‘掏空者’，企图动摇国际社会对华投资信心，妄图引发我国内金融动荡
+
+The baby bust that we all know about has gotten worse in a way that isn’t yet widely understood.What makes a baby bust so hard to fight is that its effects compound over the generations. Fewer births in one generation lead to fewer women in the next generation to give birth. 
+我们都知道的婴儿出生率骤降以一种尚未被广泛理解的方式变得更糟。婴儿出生率下跌之所以难以对抗，是因为它的影响会随着世代加剧。一代人生育的减少会导致下一代生育的女性人数减少。
+
+Last year, even as China’s economy was expected to benefit from pent-up consumer demand after the lifting of pandemic restrictions, the property market weighed on growth. Real estate accounts for roughly one-quarter of China’s economy.
+去年，就在人们预计中国解除了新冠病毒限制措施后，经济会从被压抑的消费需求中受益时，房地产市场却拖累了经济增长。房地产业约占中国经济产出的25%。
+
+Even without firing a nuclear weapon, China could mobilize or brandish its missiles, bombers and submarines to warn other countries against the risks of escalating into brinkmanship. Mr. Xi and President Biden have calmed rancor since last year.Such memories have entrenched views in Beijing that the United States is inclined to use “nuclear blackmail.”
+即使不动用核武器，中国也能通过调动或挑衅性地挥舞导弹、轰炸机和潜水艇等武器来警告他国，把对峙升级为边缘政策是有风险的。自去年以来，习近平和美国总统拜登已让中美之间的敌意缓和下来, 这些记忆牢固确立了中国认为美国会倾向于使用“核讹诈”的看法。
+
+A powerful strategic deterrent capability can force the enemy to pull back from rash action, subduing them without going to war, Whoever masters more advanced technologies, and develops strategic deterrent weapons that can leave others behind it in the dust, will have a powerful voice in times of peace and hold the initiative in times of war.
+强大的战略威慑能力就是让敌人不敢轻易动手，实现‘不战而屈人之兵’，谁掌握更加先进的技术，研制出性能‘一骑绝尘’的战略威慑武器，谁就能在和平时期拥有话语权，在战争时期掌握主动权。
+
+By last year, Tim Cook, Apple’s chief executive, was showing up in India with his palms pressed in namaste and a vermilion mark on his forehead, inaugurating the country’s first Apple stores.All told, more than 130 Fortune 500 companies are doing business in Tamil Nadu.
+去年，苹果首席执行官蒂姆·库克出现在印度，出席该国首个苹果专卖店的开幕仪式，他双手合十行礼，额头点着红点。在财富500强公司中，共有超过130家在泰米尔纳德邦开展业务。
+
+Inside one Apple supplier, blue-smocked workers in surgical masks walked past banks of white-aluminum-cladded machinery on paths marked by yellow arrows stuck on the floor. Low ceilings, long clear sightlines and placards exhorting good behavior in English and Tamil completed the effect.
+在一家苹果供应商内部，穿着工作服、戴着外科口罩的工人走在地上粘贴有黄色箭头的通道上，路过由白色铝合金包裹的机器。低矮的天花板、能清楚看到远处的视野，以及用英语和泰米尔语制作的守则标语牌都营造出良好的效果。
+
+Today, people from around the globe are streaming across the southern border, most of them just as eager to work. But rather than trying to elude U.S. authorities, the overwhelming majority of migrants seek out border agents, sometimes waiting hours or days in makeshift encampments, to surrender.Being hustled into a U.S. Border Patrol vehicle and taken to a processing facility is hardly a setback.
+如今，来自全球各地的人涌向南部边境，其中大多数人对工作的渴望丝毫不减。但移民中的绝大多数并没有试图躲避美国当局，而会去找到边境人员，有时在临时搭建的营地里等待数小时或数天，以求自首。对他们而言，被塞进美国边境巡逻队的车辆，带往处理设施并不是挫折。
+
+Migrants from Africa, Asia and South America are mortgaging their family land, selling their cars or borrowing money from loan sharks to embark on long, often treacherous journeys to reach the United States.And by and large, they are not wrong.
+来自非洲、亚洲和南美洲的移民们抵押自家的土地、卖掉汽车或借高利贷，踏上漫长而又往往艰险的赴美旅程。总的来说，他们并没有错。
+
+In the video, Ms. Kim also expressed her desire to “involve myself actively in South-North Korean relations,” raising fears that she was overstepping her role.As the scandal has raged, Ms. Kim has avoided public appearances for one and a half months.
+在视频中，金建希还表达了自己对“积极参与韩朝关系”的渴望，引发了人们对她僭越总统夫人角色的担忧。随着丑闻迅速蔓延，金建希已有一个半月未公开露面。
+
+Four mothers sat quietly in the nursing room around midnight, breastfeeding their newborn babies. As one mother nodded off, her eyelids heavy after giving birth less than two weeks earlier, a nurse came in and whisked her baby away. The exhausted new mom returned to her private room to sleep.Sleep is just one of the luxuries provided by South Korea’s postpartum care centers.In 2007, when Ms. Kim was pregnant with her first child, joriwons were not yet popular. 
+午夜时分，四位母亲安静地坐在哺乳室里，给她们刚出生的婴儿喂奶。一位母亲不到两周前刚刚生下孩子，她眼皮沉重，打起了瞌睡。一名护士走进来，把她的孩子抱走。这位疲惫不堪的新妈妈回到自己的房间去睡觉。睡眠只是韩国产后护理中心提供的奢侈品之一。2007年，金松韵怀第一个孩子时，产后护理中心还没流行起来。
+
+Throughout the hallways of St. Park, workers quietly collect dirty laundry and deliver food, including the requisite miyeok guk, or seaweed soup, a post-birth Korean staple.In the lactation room, beads of sweat run down the forehead of a lactation specialist who squeezes drops of breast milk out of nipples — not always gently — to help with production. A limber Pilates instructor offers tips on body alignment and recovery during classes on the roof.
+在St. Park的走廊里，工人们静静地收集脏衣服和送餐，包括必备的海带汤，这是韩国人产后的常见餐食。在哺乳室里，一名哺乳专员的额头淌下汗珠，她帮助妈妈们从乳头中挤出母乳——动作并不总是轻柔。一位身段柔软的普拉提教练在屋顶上课，提供有关身体调整和恢复的建议。
