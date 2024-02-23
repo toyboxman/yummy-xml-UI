@@ -137,13 +137,13 @@
 </node>
 <node CREATED="1528767605568" ID="ID_64045817" LINK="C:\king\document\document\vmware.mm" MODIFIED="1528767735766" POSITION="right" TEXT="VMware"/>
 <node CREATED="1528767786015" ID="ID_434247652" MODIFIED="1528767813360" POSITION="right" TEXT="Plan">
-<node COLOR="#00b439" CREATED="1517281187051" HGAP="43" ID="ID_71562387" MODIFIED="1528079828153" TEXT="2018" VSHIFT="4">
+<node COLOR="#00b439" CREATED="1517281187051" HGAP="43" ID="ID_71562387" MODIFIED="1705477143127" TEXT="2018" VSHIFT="4">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <attribute_layout VALUE_WIDTH="144"/>
 <attribute NAME="p1" VALUE="&#x6b66;&#x6c49;&#x8d2d;&#x623f;&#x843d;&#x6237;"/>
 <attribute NAME="p2" VALUE="&#x627e;&#x627e;&#x673a;&#x4f1a;"/>
 <attribute NAME="p2" VALUE="griffin&#x5f00;&#x6e90;&#x673a;&#x4f1a;"/>
-<attribute NAME="p2" VALUE="blockchain"/>
+<attribute NAME="p2" VALUE="blockchain&#x533a;&#x5757;&#x94fe;"/>
 </node>
 </node>
 <node CREATED="1528767842313" ID="ID_158529629" MODIFIED="1528767843591" POSITION="left" TEXT="Programming">

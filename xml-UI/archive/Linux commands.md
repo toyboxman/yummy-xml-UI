@@ -179,6 +179,9 @@
 dmesg命令可以用来显示系统详细信息
 ```console
 dmesg | less
+
+# 通过dmesg去日志里面去搜寻tcp drop，是能够发现丢包的情况，dmesg是一个内核的日志记录
+dmesg|grep -i "TCP: drop open request from"
 ```
 
 #### show Linux version
@@ -928,6 +931,8 @@ dpkg命令用来[操作deb](https://blog.packagecloud.io/eng/2015/10/13/inspect-
 ```console
 # -c --contents  to list deb package stuff
 dpkg -c install_amd64.deb
+# dpkg-deb等效上面命令 类似 unzip -l, tar -tvf, 展示install_amd64.deb的内部文件结构
+dpkg-deb -c install_amd64.deb
 
 # -x to extract deb package instead of installtion
 # ar - create, modify, and extract from archives
@@ -937,6 +942,9 @@ dpkg-deb -x ./path/to/test.deb ./path/to/destination
 
 # -I --info 查看DEB文件的依赖选项 依赖信息可以在以“Depends”开头的那些行中找到
 dpkg -I deb_file
+
+# 安装一个deb包
+dpkg -i install_amd64.deb
 ```
 
 #### ssh
@@ -997,6 +1005,10 @@ $ ssh root@192.168.1.1 "ssh root@192.168.1.2 \"grep -in '#bms#' /var/log/proton/
 # 可以配置转发 private -> jumphost -> public
 # 将172.16.1.13上端口54321数据转发本机54321端口
 $ ssh -R 54321:localhost:54321 root@172.16.1.13
+
+# 如果jumphost上配置了端口转发，那么就可以通过ssh登陆后面的host
+# -l login name -p port, 10.40.69.104为跳板机地址
+$ ssh -l root 10.40.69.104 -p 63005
 ```
 - 定位ssh错误   
 由于openssh默认不再支持ssh-rsa算法(存在安全隐患)，因此升级到较新版本后ssh有时候会遇到一些问题，比如通过ssh fetch gerrit会出现 Permission denied (publickey)
