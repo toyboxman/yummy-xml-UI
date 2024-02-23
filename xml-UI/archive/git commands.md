@@ -355,6 +355,12 @@ git ls-files | grep Example.java
 
 # 统计当前目录及子目录中所有文件的行数
 git ls-files | xargs cat | wc -l
+# 统计工程目录及子目录中所有文件的行数
+git ls-files dev/src | xargs wc -l
+# 统计工程目录及子目录中所有文本文件(text)类型的行数
+# file之后 执行后输出如 'dev/src/tomcat/conf/web.xml:                                                 text/xml'
+# 需要获取正确文件名 需要按分隔符(-d :)截断，获取数组第一列(-f 1)
+git ls-files dev/src | xargs file --mime-type | grep text | cut -d: -f1|xargs wc -l
 ```
 
 ### git merge rebase
