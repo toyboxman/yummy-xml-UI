@@ -250,6 +250,28 @@
             &emsp;autoindex on;<br>
             &emsp;autoindex_exact_size on;<br>
         }
+    - [Apache/lighttpd/Nginx对比分析](https://mp.weixin.qq.com/s/-W0YFIhgy-db-iWKtbkRlA)
+    - [Lighttpd](https://mp.weixin.qq.com/s/pabZ7jMG9kJlZpmUuKirNw)
+        `brew install lighttpd<br>
+        ==> lighttpd<br>
+        Docroot is: /opt/homebrew/var/www
+
+        The default port has been set in /opt/homebrew/etc/lighttpd/lighttpd.conf to 8080 so that
+        lighttpd can run without sudo.
+
+        To start lighttpd now and restart at login:
+        brew services start lighttpd
+        Or, if you don't want/need a background service you can just run:
+        /opt/homebrew/opt/lighttpd/bin/lighttpd -D -f /opt/homebrew/etc/lighttpd/lighttpd.conf`    
+        403 无权限处理   
+        1.nano /opt/homebrew/etc/lighttpd/lighttpd.conf   
+        server.bind = "*"  
+        server.username  = "king"  
+        server.groupname = "staff"
+        server.document-root = "/Users/king/source/"   
+        dir-listing.activate = "enable"    <- 允许目录auto-indexing   
+        2.brew services restart lighttpd   
+    - [python-LittleHTTPServer](https://mp.weixin.qq.com/s/XgbwVO_awxn8cfzOfXGaGw)
   
     - 架构设计[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw), [3](https://mp.weixin.qq.com/s/fTRlEkBSgpm0suIICsG_iQ)]
     - [反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)

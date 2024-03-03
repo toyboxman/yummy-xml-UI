@@ -140,3 +140,9 @@ But if they’ve done it, we can do it too. It will take grit and good-faith eff
 
 “The Army will shrink excess, largely unmanned ‘hollow’ force structure and build new formations equipped with new capabilities needed for large-scale combat operations,” the document said. “By bringing force structure and end strength into closer alignment, the Army will ensure its formations are filled at the appropriate level to maintain a high state of readiness.”
 “陆军将缩减过剩的、基本无人的‘空心’部队结构，并建立配备大规模作战行动所需新能力的新编队，”该文件称。“通过使部队结构和最终兵力更紧密地结合起来，陆军将确保其编制在适当的水平上，以保持高度战备状态。”
+
+Country Garden, China’s largest real estate developer as recently as 2022, said on Wednesday that a creditor had asked a Hong Kong court to liquidate its operations and pay off lenders, in the latest sign that China’s housing crisis continues unabated.Ever Credit’s petition, known as a winding up petition, is meant to force Country Garden to close its doors and sell its assets to make money it can use to pay back its creditors.Country Garden said it would fight the court petition “vigorously,”
+周三，2022年还是中国最大房地产开发商的碧桂园表示，一名债权人已呈请香港法院清算其业务并偿还贷款，这是中国住房危机持续发展的最新迹象。永恒信贷的这种申请被称为清盘呈请，意在迫使碧桂园关闭并出售资产，以换取资金偿还债权人。碧桂园表示，它将“坚决”反对呈请
+
+China also revised its counterespionage law last year to expand the definition of what could be construed as spying. It stipulated that sharing “documents, data, materials and objects” could be considered spying if the information had “a bearing on national security and interests."China has sought to educate its citizens about the national security risks present in the economy through a series of comics from China’s Ministry of State Security. The online series is based on actual espionage investigations, the ministry has said.
+中国去年还修订了反间谍法，扩大了间谍活动的定义。按照反间谍法的规定，获取“关系国家安全和利益的文件、数据、资料、物品”可被视为间谍行为。中国还力图对公民进行有关经济中存在国家安全风险的教育，包括使用国家安全部制作的一个连环画系列。国安部称该在线系列以真实案例为基础。
