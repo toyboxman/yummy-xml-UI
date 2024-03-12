@@ -84,3 +84,99 @@ Yet Mr. Biden is now four years older, and it may be impossible to completely re
 
 “You’ve just kind of seen the clips of, you know, he’s having memories onstage and, you know, during debate and discussion where he kind of freezes up a lot,” said Mr. Nurjadin, who does data entry work. “Him being sharp and fit is not very convincing.” he was unconvinced by politicians in his party who have publicly played up their direct observations of Mr. Biden’s mental sharpness.
 “你看到了一些片段，他在台上需要回忆，在辩论和讨论中，他经常有点僵住，”从事数据录入工作的努尔贾丁说。“（在这些片段中）他的敏锐和健康并不是很有说服力。”他不相信党内一些政界人士公开强调的他们对拜登思维敏捷程度的直接观察。
+
+The news conference with the premier was institutionalized in 1993 but didn’t become a must-watch TV event until Zhu Rongji, a sharp-tongued and good-humored premier, took the stage in 1998. Expressing his determination to be a good premier, he declared, “No matter if it’s a minefield or a bottomless abyss ahead, I will forge ahead without hesitation.”
+1993年，总理记者会成为一项正式制度，但直到1998年，言辞犀利、幽默风趣的总理朱镕基上台后，它才真正成为大家必看的电视节目。他在表达自己成为一名优秀总理的决心时宣称：“不管前面是地雷阵还是万丈深渊，我都将勇往直前，义无反顾，鞠躬尽瘁，死而后已。”
+
+At 9 a.m., as a light sleet fell outside, dozens of the delegates sat in neat rows onstage, against a backdrop of towering red curtains. In unison with the other delegates seated below them, they sang the national anthem. Above the stage, the auditorium’s sweeping balconies were filled with Chinese and foreign journalists positioning cameras, jotting down notes and peering through binoculars at the officials far below.
+上午9点，外面下着小雨，数十名代表整齐地坐在台上，身后是高高的红色幕布。他们与坐在下面的代表齐声唱起国歌。在舞台上方，礼堂宽阔的楼座坐满了中外记者，他们架好摄像机，做着笔记，用双筒望远镜向下看着远处的官员们。
+
+In the lobby of the Great Hall, those officials fielded carefully worded questions from state media outlets about topics such as how Chinese-made cars could be promoted overseas, and how the Chinese people had benefited from government investments in water conservancy infrastructure.
+在人民大会堂的大厅里，这些官员回答了官方媒体提出的措辞谨慎的问题，话题包括如何在海外推广中国制造的汽车，以及中国人民如何从政府对水利基础设施的投资中受益。
+
+While a wrecked plane was never found, about 20 pieces of debris believed to be from the plane were located along the coasts of the African mainland and on the islands of Madagascar, Mauritius, Réunion and Rodrigues. In summer 2015, investigators determined that a large object that washed up on the shore of Réunion, a French island in the Indian Ocean, was a flaperon that had come from a Boeing 777, making it likely that it was debris from Flight 370.Another piece of debris, a triangular piece of fiberglass composite and aluminum with the words “No Step” written on its side, was found in February 2016 on an uninhabited sandbank along the coast of Mozambique.
+虽然一直没有找到失事飞机，但在非洲大陆海岸以及马达加斯加、毛里求斯、留尼汪岛和罗德里格斯群岛发现了大约20块据信来自该航班的残骸。2015年夏天，调查人员确定，冲上印度洋法属岛留尼汪岛海岸的一个大型物体，是来自波音777飞机的襟副翼，很可能是370航班的残骸。另一块残骸是2016年2月在莫桑比克海岸一个无人居住的沙洲上发现的，那是一块三角形的玻璃纤维复合材料和铝材，上面写着“No Step”（禁止踩踏）。
+
+Temu, the international arm of the Chinese e-commerce giant Pinduoduo, is flooding Google with ads for absurdly inexpensive goods. With an initial public offering looming, the fast-fashion merchant Shein is inundating Instagram with ads for clothes and accessories at rock-bottom prices. Developers of China’s video streaming and gaming apps are dumping marketing dollars into Facebook, X and YouTube to entice potential users.
+Temu是中国电商巨头拼多多的国际分支，在谷歌上投放了大量极其廉价的商品的广告。随着首次公开募股的临近，快时尚商家希音(Shein)在Instagram上大量发布低价服装和配饰的广告。中国的视频流媒体和游戏应用开发商正在向Facebook、X和YouTube投入大量营销资金，以吸引潜在用户。
+
+Temu opened its U.S. site in September 2022. It sold things like a garlic press for $2 or a cotton swab dispenser for $1.50. Temu is now available in 50 countries.What companies like Temu have done is really just open a fire hose of money that it is pouring into ads
+Temu于2022年9月在美国开设了工厂。它出售的产品包括2美元的压蒜器和1.5美元的棉签盒。Temu目前在50个国家销售商品。Temu这样的公司所做的实际上就是拧开了资金投入的水龙头，源源不断流向广告
+
+The matchup that many Americans had hoped to avoid — the 2024 sequel of Biden vs. Trump — is now an inescapable reality. And it will be an eight-month slog, with two nominees who polls show are deeply unpopular and who are each determined to make the race about his opponent, leaving both bent on running exceedingly negative campaigns.
+许多美国人原本希望避免的竞逐——2024年拜登对阵特朗普的续演——现在已成为不可避免的现实。这将是一个为期八个月的艰苦过程，民意调查显示，两名提名人都非常不受欢迎，而且他们都决心将这变成一场针对对手的选举，因此两人都会展开极为负面的竞选活动。
+
+“I’m not the gift of all presidents,” Mr. Biden told donors at a fund-raiser last month, “but I’m sure in hell better than the last guy.” Mr. Trump, 77, has portrayed Mr. Biden, 81, as elderly, enfeebled and unable to perform the basic tasks of the presidency. “It’s the fascists and the communists that surround him — they’re making the calls,They’re calling the shots. He’s not calling the shots.”
+“我在这么多总统里不算出类拔萃，”拜登在上个月的一次筹款活动中对捐助者说，“但我确信我比上一位总统强多了”。现年77岁的特朗普则称，现年81岁的拜登年老体弱，无法履行总统职位的基本任务。“是他周围的法西斯分子和共产主义者——他们在做决定，是他们在发号施令。不是他在发号施令。
+
+The economy is also expected to play a critical role. Americans remain downbeat even if the economic mood has ticked upward. Mr. Biden’s own approval ratings have yet to benefit after rampant inflation in 2022 drove prices upward.Democrats are roiled by divisions over the Israel-Hamas war and the humanitarian crisis in Gaza, with more than 100,000 primary voters in Michigan voting for “uncommitted” in that swing state’s recent primary to protest Mr. Biden. 
+预计经济也将发挥关键作用。即使经济形势有所好转，美国人的情绪仍然悲观。在2022年严重的通货膨胀推动物价上涨之后，拜登本人的支持率始终未见起色。民主党人被围绕以色列-哈马斯战争和加沙人道主义危机的分歧所困扰，在密歇根州这个摇摆州最近举行的初选中，超过10万名初选选民投了“不表态”，以此抗议拜登。
+
+For Mr. Trump, the 2024 election will be his third in a row atop the Republican ticket. His standing as the party standard-bearer — both politically and on policy — is now undisputed, having transformed the party’s positions on free trade, spending, entitlement programs and international affairs. Mr. Trump has broadly lumped all of his mounting legal woes — which diverted more than $50 million from his political accounts to legal fees last year — as “election interference.” 
+对特朗普来说，2024年的大选将是他连续第三次获得共和党总统候选人提名。他在政治和政策上的党内标杆人物地位已是无可争议，他改变了共和党在自由贸易、财政支出、福利计划和国际事务上的立场。特朗普将他日益加剧的法律困境——去年他的政治账户中挪用了5000多万美元用于律师费——笼统地归为“干预选举”。
+
+Between a few flecks of coral in the Indian Ocean, a ribbon of highway more than a mile long swoops up from the blue. Since 2018, the China-Maldives Friendship Bridge has connected this archipelago’s hyper-dense capital, Malé, and the international airport — expanded by Chinese companies — one island to the east.The Maldives, a tiny tourism-dependent country of 500,000 people, barely registers as a blip alongside India and China, the world’s most populous nations. Yet every blip counts in the two giants’ competition for influence across South Asia, and that has set the Maldives on a zigzagging course between them.
+在印度洋的几片珊瑚之间，一条超过两公里的高速公路从一片蓝色中突然出现。2018年以来，中国-马尔代夫友谊大桥将马尔代夫群岛人口稠密的首都马累与中国企业扩建的国际机场连接在一起。马尔代夫是一个依赖旅游业的小国，只有50万人口，与世界上人口最多的两个国家印度和中国相比，它只是地图上一个小点。然而，在这两个大国争夺南亚影响力的竞争中，每一个小点都很重要，这也让马尔代夫在两国之间摇摆不定。
+
+And India, which has been clashing with China along their Himalayan border, wants to make sure that the Maldives, its island neighbor, doesn’t become too cozy with Beijing.But the great-power competition across the Maldives’ sky-blue lagoons has yet to reach a boil. Beyond money and geography, there is another important difference between India and China as competitors, one that was illustrated during the Maldives’ flare-up with India earlier this year.
+而印度一直在喜马拉雅边界上与中国发生冲突，希望确保其岛屿邻国马尔代夫不会与北京过于亲近。但在马尔代夫天蓝色的潟湖边，大国之间的竞争尚未达到沸点。除了金钱和地理位置，作为竞争对手的印度和中国还有另一个重要的区别，今年早些时候马尔代夫与印度的紧张关系就说明了这一点。
+
+Three junior ministers attacked India’s prime minister, Narendra Modi, on social media after he had promoted his country’s own paradisal atoll, an even smaller and far less developed archipelago called Lakshadweep. These “India Out” Maldivians inferred a threat to their economy. In the much louder backlash, nationalistic Indians urged a boycott of the islands.
+印度总理纳伦德拉·莫迪宣传印度自己的天堂环礁——一个更小、开发程度也远远不及马尔代夫的群岛，名为拉克沙群岛，随后，马尔代夫的三名低阶部长在社交媒体上攻击他，这些主张“印度滚出去”的马尔代夫人认为，这对他们的经济构成了威胁。这些言论在印度的民族主义群体中产生了更强烈的反弹，呼吁抵制马尔代夫。
+
+On Feb. 22, the Xiang Yang Hong 03, officially a Chinese research vessel, pulled into Malé. The Maldives’ government said it was just a port call. But as with the Indian airport projects, the ship left an air of ambiguity about possible military uses in its wake.
+2月22日，中国科考船向阳红03号驶入马累。马尔代夫政府表示这只是一次港口停靠。但与印度机场项目一样，这艘船的到来令人产生港口可能被用于军事的遐想。
+
+But the indictment suggested that Mr. Ding had some help: Another Google employee swiped Mr. Ding’s identification card at a company office to help him conceal a trip to China, according to the indictment.The government offered few details about the life of Mr. Ding, who began working for Google in early 2019 and quit suddenly in January — after booking a one-way ticket to Beijing.
+但起诉书显示，丁林葳得到了一些帮助。起诉书称，另一名谷歌员工在公司办公室刷了丁林葳的员工卡，帮他隐瞒了一次中国之行。丁林葳于2019年初开始为谷歌工作，今年1月突然辞职，在此之前，他购买了一张前往北京的单程机票。
+
+President Biden delivered an energetic and impassioned speech that was as much a campaign kickoff as it was a State of the Union, leveraging what is expected to be one of his largest audiences of the year to make a forceful case that he was fit enough for another four years.Mr. Biden has rarely been called a bold orator. But he arrived on Capitol Hill on Thursday with the benefit of mercifully low expectations after unrelenting Republican attacks on his mental and physical fitness.
+拜登总统发表了一篇充满活力和激情的演讲，既是国情咨文，也是他竞选活动的开场白，这应该会是他本年度听众最多的一次演讲，他利用这个机会，有力地证明自己的身体状况足以再任职四年。很少有人把拜登称为大胆的演说家，好在当他周四抵达国会山时，人们对他的期望值很低，这源于共和党人对他精神和身体状态的无情攻击。
+
+The full draft of the law was only made public for the first time on Friday, as lawmakers began to review it. It targets five offenses: treason, insurrection, sabotage, external interference, and theft of state secrets and espionage.The Bar Association of Hong Kong had recommended that the law’s definition of sedition include the intention to incite violence and narrow the scope of the offense. However, the draft of the law did not include such language.
+该法律的完整草案周五才首次公开，立法者已经开始审阅。它针对五种犯罪行为：叛国、叛乱、破坏活动、外部干涉、窃取国家机密和间谍活动。香港大律师公会曾建议，法律对煽动叛乱的定义应包括煽动暴力的意图，并缩小罪行的范围。但是，法律草案并未包含这样的措辞。
+
+According to the newspaper, Mr. Spavor contends that China had singled him out because he had unwittingly given Mr. Kovrig information about North Korea that the diplomat then passed along to Canada’s intelligence agencies. They, in turn, shared it with Canada’s allies.
+该报道称，斯帕弗认为，中国之所以针对他，是因为他无意中向康明凯提供了有关朝鲜的信息，康明凯随后将这些信息转交给了加拿大的情报机构。然后加拿大情报机构又将它们与盟友分享。
+
+With China’s economy stumbling, the ramped-up spending on renewable energy, mainly solar, is a cornerstone of a big bet on emerging technologies. China’s leaders say that a “new trio” of industries — solar panels, electric cars and lithium batteries — has replaced an “old trio” of clothing, furniture and appliances.
+中国的经济已陷入困境，增加对可再生能源（主要是太阳能）的投资是中国对新兴技术下大赌注的一个重要部分。中国领导人说，太阳能电池、电动汽车、锂电池为代表的“新三样”已取代了服装、家具、家电为代表的“老三样”。
+
+China’s coal consumption has made it the world’s largest annual contributor to greenhouse gas emissions. But the country’s pioneering role in making solar panels less expensive has slowed the increase in emissions.By contrast, Europe has costly electricity, particularly after it stopped buying natural gas from Russia during the Ukraine war. Land used in Europe for solar farms is expensive.If the Chinese manufacturers had not brought down the cost of panels by more than 95 percent, we could not see so many installations across the world, Annual solar panel installations have nearly quadrupled worldwide since 2018.
+中国的煤炭消耗使其成为世界上每年排放温室气体最多的国家。但中国在降低太阳能电池板成本上的先锋作用已放慢了温室气体排放量的增长。相比之下，欧洲的电力成本昂贵，尤其是俄乌战争爆发导致欧洲不再从俄罗斯购买天然气之后。欧洲用于建光伏发电厂的土地的价格昂贵。如果中国的制造商未曾把电池板的成本降低95%以上的话，我们不会在世界各地看到这么多的太阳能安装,自2018年以来，全球的太阳能电池板年安装量几乎翻了两番。
+
+China produces practically all of the world’s equipment for making solar panels, and almost all of the supply of every component of solar panels, from wafers to special glass.There is know-how to it, and it’s all in China,That know-how used to be in the United States. While Europe is mulling whether to follow the United States’ example with its own subsidies and import restrictions on solar products
+中国生产世界上几乎所有用于制造太阳能电池板的设备，供应几乎所有太阳能电池板所需的组件，从晶片到特种玻璃。这方面的专业技术都在中国，那些专业技术曾经在美国。虽然欧洲正在考虑是否效仿美国的做法，对太阳能产品实行补贴和进口限制
+
+Akira Toriyama, one of Japan’s leading comics authors, whose manga and anime franchise “Dragon Ball” achieved worldwide success with its mix of comedic characters and rousing martial arts battles, died on March 1. He was 68. The statement said the cause was acute subdural hematoma, a condition in which blood collects between the skull and brain. His best-known work, “Dragon Ball,” follows a young boy named Son Goku who embarks on a journey to collect the seven magical orbs that summon a wish-granting dragon.A prolific manga artist, Mr. Toriyama did not necessarily have an appetite for the genre as a reader.
+日本著名漫画家鸟山明于3月1日去世，终年68岁，他的漫画和动画系列《龙珠》以喜剧性的角色和精彩的武打获得了世界性的成功。声明说，死因是急性硬膜下血肿，这是一种血液聚集在头骨和大脑之间的病症。他最著名的作品《龙珠》讲述了一个名叫孙悟空的小男孩踏上了收集七颗神奇宝珠的旅程，集齐七颗宝珠可以召唤实现愿望的神龙。鸟山明是一位多产的漫画家，然而作为读者，他不一定喜欢这个类型的作品。
+
+But unlike Bill Gates, who has deployed his fortune in an effort to improve health care across Africa, or Walmart’s Walton family, which has spurred change in the American education system, Mr. Musk’s philanthropy has been haphazard and largely self-serving — making him eligible for enormous tax breaks and helping his businesses.The really striking thing about Musk is the disjuncture between his outsized public persona, and his very, very minimal philanthropic presence
+比尔·盖茨用自己的财富来改善整个非洲的医疗服务，沃尔玛背后的沃尔顿家族则推动了美国教育体系的变革。与他们不同的是，马斯克的慈善事业杂乱无章，主要是为了利己，让他有资格获得巨额税收减免，并帮助他的企业。马斯克真正引人注目的地方在于，他的公众形象让人难以忽视，而他在慈善事业上的影响力却微乎其微。
+
+Two former SpaceX executives, who spoke on the condition of anonymity for fear of retribution, recalled that Ad Astra was sometimes discussed as a perk for the children of executives, though it was understood to be near impossible for the offspring of rank-and-file employees to gain admission.
+两名因担心遭到报复而不愿透露姓名的SpaceX前高管回忆说，以达星辰学校有时被认为是给高管子女的一项福利，而大家都明白，对于普通员工的子女来说，想获准进入几乎是不可能的。
+
+Mr. Trump on Monday offered a rambling explanation for his reversal, saying that he did not want to alienate young voters or imbue Facebook, which he considers a mortal foe, with more power.Trump’s flip-flop on TikTok puts House Republicans in a very awkward position because it forces them to choose between supporting Trump or standing up to China
+周一，特朗普对其态度转变给出了东拉西扯的解释，称他不想疏远年轻选民，不想赋予他眼中的死敌Facebook更大权力。特朗普在TikTok上的立场变化让众议院共和党人陷入了非常尴尬的境地，因为这迫使他们在支持特朗普和对抗中国之间做出选择
+
+If a picture is worth a thousand words, then a digitally altered picture of an absent British princess is apparently worth a million.That seemed to be the lesson after another day of internet-breaking rumors and conspiracy theories swirling around Catherine, Princess of Wales, who apologized on Monday for having doctored a photograph of herself with her three children that circulated on news sites and social media on Sunday.
+如果说一图胜千言，那么一位久未露面的英国王妃的一张经过数字修改的照片显然胜过百万言。经过又一天的网络谣言和阴谋论肆虐后，这似乎是从中可以得到的教训，周一，凯瑟琳王妃为修改了一张她与三个孩子的合影照片而道歉，这张照片上周日在新闻网站和社交媒体上流传。
+
+It was the first official photo of Catherine since before she underwent abdominal surgery two months ago — a cheerful Mother’s Day snapshot, taken by her husband, Prince William, at home. But if it was meant to douse weeks of speculation about Catherine’s well-being, it had precisely the opposite effect.
+这是凯瑟琳自两个月前接受腹部手术以来公布的第一张官方照片，是一张欢快的母亲节抓拍，由她的丈夫威廉在家中拍摄。但如果这张照片是为了平息几周来人们对凯瑟琳健康状况的猜测，那么它的效果是适得其反的。
+
+It adds up to a fresh tempest for a royal family that has lurched from one self-created crisis to another. Unlike previous episodes, this involves one of the family’s most popular members, a commoner-turned-future queen. Beyond the mockery, the royal family faces a lingering credibility gap. 
+对于在一场又一场自己制造的危机中跌跌撞撞的王室来说，此事已经演变为一场全新的风暴。与之前不同的是，这一次涉及的是王室中最受欢迎的成员之一，一位平民出身的未来王后。除了嘲笑之外，王室还面临着挥之不去的信誉损失问题。
+
+The discovery that the photo was altered prompted several international news agencies to issue advisories — including one from The Associated Press that was ominously called a “kill notification” — urging news organizations to remove the image from their websites and scrub it from any social media.
+发现照片被修改后，几家国际新闻机构发出警告，其中美联社的警告使用了“封杀通知”这样不祥的字眼，敦促各新闻机构从其网站上删除该图片，并从任何社交媒体上将其删除。
+
+Catherine’s embrace of social media to circulate her pictures is a way of reclaiming her life from the long lenses of the paparazzi. But the uproar over the Mother’s Day photo shows that this strategy comes with its own risks, not least that a family portrait has added to the very misinformation about her that it was calculated to counteract.
+选择利用社交媒体传播自己的照片是凯瑟琳从狗仔队的长镜头中重新夺回自己生活的一种方式。但母亲节照片引起的轩然大波表明，这一策略也有其风险，尤其当一张本为了辟谣而发布的家庭照片反而增添了不实信息。
+
+Boeing assembles the 737 Max at its plant in Renton, Wash., while Spirit builds the plane’s fuselage at its factory in Wichita, Kan.One audit dealt with the component that blew off the Alaska Airlines jet, known as a door plug. Boeing failed that check, according to the presentation.
+波音公司在华盛顿州伦顿的工厂组装737 Max。势必锐公司则在其位于堪萨斯州威奇托的工厂制造飞机的机身。其中一项审计针对的是导致阿拉斯加航空公司那架飞机脱落的部件，即门塞。根据报告，波音公司未能通过这项检查。
+
+When the World Health Organization declared Covid-19 a global pandemic in March 2020, nearly everything about the novel coronavirus was an open question: How was it spreading so quickly? How sick would it make people? Would a single bout buy you protection from future cases?
+当世界卫生组织在2020年3月宣布Covid-19为全球大流行病时，关于这种新型冠状病毒的一切几乎都是个疑问：它为什么传播能力这么强？它会让人病到什么程度？感染一次后能为你带来保护，让你未来免受侵害吗？
