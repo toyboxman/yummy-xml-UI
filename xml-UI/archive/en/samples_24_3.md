@@ -180,3 +180,45 @@ Boeing assembles the 737 Max at its plant in Renton, Wash., while Spirit builds 
 
 When the World Health Organization declared Covid-19 a global pandemic in March 2020, nearly everything about the novel coronavirus was an open question: How was it spreading so quickly? How sick would it make people? Would a single bout buy you protection from future cases?
 当世界卫生组织在2020年3月宣布Covid-19为全球大流行病时，关于这种新型冠状病毒的一切几乎都是个疑问：它为什么传播能力这么强？它会让人病到什么程度？感染一次后能为你带来保护，让你未来免受侵害吗？
+
+Scientists have been trying to investigate if there’s something biologically unique about Covid superdodgers that gives them immunity to infection. But the closest they have come is finding that mutations in the human leukocyte antigen — which signals to the immune system that cells are infected — can help clear out the virus so quickly that a person might be completely asymptomatic.
+科学家一直试图搞清楚新冠超级免疫者是否具有生物学上的独特性，使其获得了免疫。但他们迄今为止最接近的发现是，人类白细胞抗原的突变（向免疫系统发出细胞被感染的信号）可以帮助快速清除病毒，以至于一个人可能完全没有症状。
+
+Trace back the digitally altered photograph of Catherine, Princess of Wales, and its roots lie in a tragedy of another Princess of Wales, Diana, whose death in 1997 predated the creation of Facebook by nearly seven years.
+威尔士王妃凯瑟琳数码修改照片的根源可以追溯到另一位威尔士王妃戴安娜的悲剧，她于1997年去世，比Facebook的诞生早了近七年。
+
+Diana’s fatal car accident, after a high-speed pursuit by photographers in Paris, left a lasting imprint on her sons, William and Harry. They grew up vowing not to take part in what they viewed as a pathological relationship between the royal family and the press, one in which they were the abused partners.
+戴安娜在巴黎被摄影师高速追逐后发生致命车祸，给她的儿子威廉和哈里留下了永久的印记。在他们看来，王室和媒体之间存在病态的关系，他们是这种关系中受虐待的一方，他们从小就发誓绝不参与其中。
+
+Outfitted in head-to-toe coveralls, with oversized safety glasses and hard hats, they’re reminiscent of the worker bees in the movie “Minions,” but color coded by function: Blue for maintenance. Green for vendors. Pink for janitors. White for operators.
+他们从头到脚一身工装，戴着大大的护目镜和安全帽，让人想起电影《小黄人》中工蜂一般的角色，衣服颜色代表了不同的职能：蓝色是维护人员，绿色是供应商，粉色是清洁工，白色是操作人员。
+
+The company manufactures high-end printed circuit boards and substrates, which serve as the foundation for advanced electronic components that power artificial intelligence and supercomputers.
+该公司生产高端印制电路板和载板，是为人工智能和超级计算机提供动力的先进电子元件的基础。
+
+A prominent Boeing whistle-blower, a former quality manager who raised concerns about manufacturing practices at the company’s 787 Dreamliner factory in South Carolina, was found dead on Saturday with what appeared to be a self-inflicted gunshot wound, according to local officials.Mr. Barnett told The Times in 2019 that he had discovered clusters of titanium slivers that were hanging over flight control wires in some planes. Those slivers were produced when fasteners were fitted into nuts.As a quality manager at Boeing, you’re the last line of defense before a defect makes it out to the flying public，Over the years, it’s just been a steady pecking away at quality” at Boeing
+据当地官员称，波音公司的著名吹哨人——曾对该公司位于南卡罗来纳州的787梦想客机工厂的制造提出担忧的前质量管控经理——于周六被发现死于疑似自残的枪伤。巴内特在2019年告诉时报，他发现一些飞机的飞行控制线上悬挂着一堆堆的钛片。这些薄片是在紧固件装入螺母时产生的。作为波音公司的负责质量的经理，你是问题暴露在乘飞行出行公众之前的最后一道防线，多年来，波音的质量一直在一点点下降
+
+Mr. Barnett’s mother, Vicky Stokes, said in an interview on Tuesday that her son’s experience with Boeing had taken a heavy toll, making him look older than his three brothers even though he was the youngest. “He just carried this on his shoulders for so many years,” she said.“I’m not going to set foot on an airplane today,” he said. “It’s sad. It breaks my heart. I love Boeing. I love what it used to stand for.”
+巴内特的母亲维琪·斯托克斯周二接受采访时表示，她儿子在波音的经历对他造成了身心损害，尽管他是家里最小的孩子，但他看起来比三个哥哥还要老。“这么多年，他一直背负着这个负担，”她说。“我现在不会踏上飞机了，”他说。“这很可悲，让我很伤心。我爱波音。我喜欢它曾经代表的一切。”
+
+Alex Haurek, a spokesman for TikTok, said in a statement that the House “process was secret and the bill was jammed through for one reason: It’s a ban.” This legislation has a predetermined outcome: a total ban of TikTok in the United States. The vote came down to something of a free-for-all, with unusual alliances in support of and opposed to the bill. Some legal experts have said that if the bill were to become law, it would probably face First Amendment scrutiny in the courts.
+TikTok的发言人亚历克斯·豪雷克在一份声明中表示，众议院 “程序是保密的，法案被强行通过的原因只有一个：这是一项禁令。” 这项立法的结果是注定的：在美国全面禁止TikTok 投票可以归结为一场混战，支持和反对该法案者结成了不同寻常的联盟。一些法律专家表示，如果该法案成为法律，它可能会在法庭上面临第一修正案的审查。
+
+Those algorithms, which guide how TikTok watches its users and feeds them more of what they want, are the magic sauce of an app that 170 million Americans now have on their phones. That’s half the country.Few expect those licenses to be issued — meaning that selling TikTok to an American owner without the underlying code might be like selling a Ferrari without its famed engine.And right now, China has no incentive to relent.
+这些算法指导TikTok如何观察用户，并向他们提供更多他们想要的内容，堪称这款应用的法宝。目前1.7亿美国人在手机上安装了这款应用，相当于半个美国。几乎没有人认为政府会颁发相关许可——这意味着，如果把没有底层代码的TikTok卖给美国人，可能就像卖出一辆法拉利，却不附带这个品牌著名的引擎。而现在，中国没有放手的理由。
+
+TikTok has tried to enshrine that arrangement into a formal agreement to resolve the government’s national security concerns. But that idea met resistance from senior Biden administration officials, starting with Deputy Attorney General Lisa O. Monaco, who felt it was not tight enough to resolve their concerns.
+TikTok试图将这一安排纳入一份正式协议，以解决政府对国家安全的担忧。但这一想法遭到了拜登政府高级官员的抵制，首先是司法部副部长丽莎·摩纳哥，她认为这尚不足以化解他们的担忧。
+
+And that’s my point. All of the social media platforms are information minefields, rife with deceptive content from state actors, corporations, paid influencers and others. Their algorithms fuel our worst impulses by highlighting content that promotes anger and outrage. They strip mine our data to make money.
+这正是我要说的。所有的社交媒体平台都是信息雷区，充斥着来自国家行为者、企业、付费意见领袖，以及其他人的欺骗性内容。这些平台的算法通过突出煽动愤怒和骇人听闻的内容助长了我们最糟糕的冲动。这些平台为了赚钱疯狂地开采我们的数据。
+
+Forcing TikTok to merge with another data-hungry social media platform won’t solve any of that. What will make a difference is establishing base-line privacy rules that prohibit companies from exploiting our data and that give us control over the algorithms used to manipulate us.
+强迫TikTok与另一个觊觎用户数据的社交媒体平台合并，并不能解决任何问题。能起作用的是建立基本的隐私规则，禁止公司利用我们的数据谋利，赋予我们权利，用于控制操纵我们的算法。
+
+In observing Mary’s final days at Hospice, Kerr found his calling. “I was disillusioned by the assembly-line nature of medicine,” Kerr told me. “This felt like a more humane and dignified model of care.” He quit cardiology to work full time at the bedsides of dying patients. Many of them described visions that drew from their lives and seemed to hold meaning, unlike hallucinations resulting from medication, or delusional, incoherent thinking, which can also occur at the end of life. 
+通过观察玛丽在安宁疗护下的最后时光，科尔找到了自己的使命。“我对医学流水线的本质感到失望，”科尔告诉我。“（安宁疗护）感觉像是一种更人道、更有尊严的护理模式。”他放弃了心脏病学，全职在临终病人的床边工作。这些病人当中，许多人描述的幻象都来自他们自己的生活，似乎有意义，这与药物导致的幻觉或妄想，乃至不连贯思维是不同的——这些也可能在生命尽头出现。
+
+The presidential vote in Russia, which began Friday and lasts through Sunday, features the trappings of a horse race but is more of a predetermined, Soviet-style referendum. In a sprawling, diverse country like Russia, the Kremlin can also use more traditional means. Regions dominated by ethnic strongmen, like the Caucasus, habitually report huge turnouts with Mr. Putin receiving 99 percent of the vote — even if relatively few people show up at polling stations.
+俄罗斯总统选举从周五开始，一直持续到周日。这次选举有着一场赛马应有的排场，但其实更像是一场结果已定的苏联式公投。在俄罗斯这样一个庞大而多元化的国家，克里姆林宫也可以使用更传统的手段。像高加索这样由少数民族强人控制的地区，通常会报告说投票率很高——并且由普京获得99%的选票——即使投票站出现的人相对较少。
