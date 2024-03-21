@@ -222,3 +222,66 @@ In observing Mary’s final days at Hospice, Kerr found his calling. “I was di
 
 The presidential vote in Russia, which began Friday and lasts through Sunday, features the trappings of a horse race but is more of a predetermined, Soviet-style referendum. In a sprawling, diverse country like Russia, the Kremlin can also use more traditional means. Regions dominated by ethnic strongmen, like the Caucasus, habitually report huge turnouts with Mr. Putin receiving 99 percent of the vote — even if relatively few people show up at polling stations.
 俄罗斯总统选举从周五开始，一直持续到周日。这次选举有着一场赛马应有的排场，但其实更像是一场结果已定的苏联式公投。在俄罗斯这样一个庞大而多元化的国家，克里姆林宫也可以使用更传统的手段。像高加索这样由少数民族强人控制的地区，通常会报告说投票率很高——并且由普京获得99%的选票——即使投票站出现的人相对较少。
+
+Pyotr, 41, a marketing specialist in Moscow, expressed pride that Mr. Putin could outwit and outlast Western adversaries. “Against the background of these under-presidents, the Macrons and so on,” he said, referring to President Emmanuel Macron of France, Mr. Putin “looks like such a celestial being.”
+41岁的彼得是莫斯科的一名营销专家，他对普京能智胜西方对手、比他们在任时间更长感到自豪。“在那些跟班总统、马克龙之流的衬托下，”他说——他指的是法国总统埃马纽埃尔·马克龙，普京“就像天仙一样”。
+
+In a message to 787 jet operators that was sent late Thursday, Boeing said it was advising of a “known condition related to a loose/detached rocker switch cap” located on the seat back of the captain’s and first officer’s seats but did not say whether the switch covers had played a role in the incident on the Latam plane.
+在周四晚些时候发给787飞机运营商的信息中，波音公司表示，就机长和副驾驶座椅靠背上的“翘板开关盖松动/脱落有关的一个已知情况”提供建议，但没有说明开关盖是否与拉塔姆航空公司的事故有关。
+
+When Australia’s broad-stroke foreign interference laws were passed nearly six years ago amid rising concerns about covert government meddling in Western democracies, they were heralded as trailblazing by the United States and other countries. Blockbuster prosecutions revealing sophisticated tactics seemed to be just around the corner. In theory, the new laws were an effort to defend democracy against foreign influence. In practice, they have raised tough questions about when such intentions might drift into xenophobia or wasteful effort.
+将近六年前，由于人们越来越担心政府秘密干预西方民主，澳大利亚出台了宽泛的外国干涉法，这些法律被美国等国家誉为开创性举措。当时揭露复杂策略的重磅起诉似乎指日可待。从理论上讲，新法律是为了捍卫民主免受外国影响。在实践中，它引发了一个棘手问题，即这种意图在哪些时候可能会演变为仇外，或是变得劳而无功。
+
+Mr. Duong had a tendency to talk himself up. He bragged about the mundane, like his travels, and boasted of the ties he had built with officials in both Australia and China.Born and raised in Vietnam, he fled in 1979, one of the hundreds of thousands of ethnic Chinese who left the country. After cobbling together a middle-class life in Australia, he often sought to portray himself as a man on the rise.This was all proof, the Australian government argued, that Mr. Duong had been co-opted by a section of China’s influence-peddling operation known as the United Front Work Department.
+杨怡生有一些爱自吹自擂。他会显摆例如旅行这样的日常琐事，并吹嘘他与澳大利亚和中国官员的关系。他在越南出生和长大，1979年逃离越南，成为离开该国的数十万华人之一。在澳大利亚通过艰难打拼成为中产后，他经常试图将自己描绘成一个正在往高处走的人。澳大利亚政府认为，这一切都证明杨怡生已被中国一个名为统战部、旨在对外施加影响力的部门拉拢。
+
+Yes, that would be a bitter pill for America to swallow: Denuclearization has been a guiding principle of U.S. policy toward North Korea for decades. But it is unrealistic to pretend that Pyongyang will surrender its nuclear weapons anytime soon. Disarmament can remain a long-term goal but is impossible if the two sides aren’t even talking.Mr. Biden’s Republican opponents might accuse him of appeasement by engaging with Mr. Kim, but that is precisely what Mr. Trump tried. 
+是的，这对美国来说是一颗难以下咽的苦果：几十年来，无核化一直是美国对朝政策的指导原则。但是，假装平壤很快就会放弃核武器是不现实的。核裁军可以是一个长期目标，但如果双方连谈判都不谈，这是不可能实现的。拜登的共和党对手可能会指责他与金正恩接触是一种绥靖政策，但这正是特朗普尝试过的。
+
+I have made numerous visits to both nations’ capitals and met with officials and policy shapers. The sense of deep mutual distrust is palpable. Many Chinese look down on neighboring North Korea as backward and are annoyed by its destabilizing behavior. Many North Koreans resent China’s success and resist its influence; Pyongyang could allow much more Chinese investment but doesn’t want to be indebted to Chinese capital. 
+我曾多次访问两国首都，会见两国官员和政策制定者。两国之间深刻的相互不信任感是显而易见的。许多中国人看不起邻国朝鲜，认为它落后，并对其破坏稳定的行为感到恼火。许多朝鲜人憎恨中国的成功，抵制中国的影响；平壤可以允许更多的中国投资，但不想欠中国资本的债。
+
+A Chinese business titan pleaded guilty on Monday to federal charges that he made more than $10,000 in straw donor contributions to political candidates. Mr. Qin asked others to contribute to political campaigns of his choosing, and he agreed to reimburse them, in 2021 and 2022, according to prosecutors. He had tried to bash open a locked door with an ax in the September episode, which came months after another attack in which he attempted to strangle her, prosecutors said.
+一位中国商业巨头周一对联邦指控表示认罪，即他向政治候选人提供了超过1万美元的稻草捐赠（以他人名义作为渠道，捐出超出辖区法律规定限额的竞选捐款——译注）据检察官称，覃辉于2021年和2022年让其他人为他选择的政治竞选活动捐款，实际则由他付款。检察官称，在9月的袭击事件中，覃辉曾试图用斧头砸开一扇锁着的门，而在此几个月前，他还曾在另一起袭击中试图勒死前妻。
+
+His most beloved crooner sang a nationalistic ballad with an appeal to Russians: “The Motherland is calling. Don’t let her down.” His favorite band belted out a moody song about wartime sacrifice.
+他最受喜爱的歌手唱了一首民族主义民谣，向俄罗斯人发出呼吁：“祖国在召唤。别让她失望。”他最喜欢的乐队高唱了一首忧伤的、关于战时牺牲的歌曲。
+
+Mr. Putin, 71, showed little of the emotion he at times has displayed at similar events in the past, such as when he appeared to tear up during a victory speech after the 2012 election. He mouthed the words to the national anthem with relatively little enthusiasm and quickly left the event.
+现年71岁的普京几乎没有表现出他在过去类似活动中时常表现出的情绪，例如2012年大选后，他在胜选演说中似乎流下了眼泪。他相对没有那么热情地对口型唱了国歌，然后很快就离开了活动现场。
+
+As the bill was passed unanimously on Tuesday, lawmakers and officials called it a “historic moment.” Chris Tang, Hong Kong’s secretary for security, who oversaw the bill, likened its passage to the birth of his own son after multiple “miscarriages.” Lawmakers had put the legislation on the fast track, holding marathon sessions over a week and working through a weekend. The bill was passed unanimously on Tuesday.
+这项立法在周二获得了一致通过，立法者和官员们称那是一个“历史性时刻”。负责这项立法的香港保安局局长邓炳强将草案的通过比作曾多次“难产”的亲儿子出世了。立法者们为这项立法开辟了快车道，一周里开了几次马拉松式会议，并在周末加班工作。草案于周二获得了一致通过。
+
+He was also signaling robust American support for the Philippines at a high-water moment for recent relations between the countries. During his stop through a muggy Manila, Mr. Blinken toured the local branch of an Arizona-based semiconductor company, calling the Philippines “an increasingly critical partner” in that effort.
+他还表示，随着菲律宾与美国近期关系抵达高点，美国将大力支持菲律宾。在闷热的马尼拉停留期间，布林肯参观了一家总部位于亚利桑那州的半导体公司在当地的分支机构，并称菲律宾是上述努力中“日益重要的合作伙伴”。
+
+The nationalist newspaper Global Times reported that “Washington’s use of Manila as a proxy to disrupt the South China Sea situation could bring regional strategic confrontation to an unprecedented level,” and accompanied its story with an unflattering photo of Mr. Blinken grimacing and furrowing his brow.
+《环球时报》报道称，“华盛顿利用马尼拉作为代理人来扰乱南海局势，可能会使地区战略对抗达到前所未有的程度”，并在报道中附上了一张布林肯面无表情、眉头紧皱的照片。
+
+China Evergrande Group exaggerated its revenue by more than $78 billion and committed securities fraud over two years before its spectacular collapse in 2021, a top Chinese regulator said. In the company filing, Hengda laid blame solely on Mr. Hui. As chairman of Evergrande, Mr. Hui was in charge of all the company’s real estate business and “instructed other personnel to falsely increase the performance,” the company wrote. He did so, it added, “with exceptionally bad means and exceptionally serious circumstances.”
+中国的最高监管机构称，在2021年崩盘前，中国恒大集团两年来虚增收入5641.46亿元，并涉嫌犯下债券欺诈行为。在公司文件中，恒大将责任完全归咎于许家印。该公司写道，作为恒大董事长，许家印负责公司所有房地产业务，并“授意其他人员虚增恒大地产年报业绩”。声明补充说，他这样做“手段特别恶劣，情节特别严重”。
+
+The development is yet another blow to Evergrande’s already shattered reputation. Once an emblem of China’s entrepreneurial success and ambition, Evergrande is now a name that angers homeowners across China.
+事态发展对恒大本已破碎的声誉来说是又一次打击。恒大曾经是中国创业成功和雄心的象征，如今却成为了令中国各地房主愤怒的名字。
+
+Once one of Asia’s most high-flying cities, Hong Kong is now grappling with a deep pessimism.The stock market is in the tank, home values have tumbled and emigration is fueling a brain drain. Some of the hottest restaurants, spas and shopping malls that local residents are flocking to are across the border, in the mainland Chinese city of Shenzhen.
+香港曾是亚洲最繁华的城市之一，如今却陷入了深深的悲观情绪之中。股市低迷，房价暴跌，移民加剧了人才流失。当地居民趋之若鹜的一些大热餐馆、水疗中心和购物中心位于边境另一边的中国内地城市深圳。
+
+The malaise hanging over Hong Kong is partly a consequence of its status as a bridge between China and the West, with the city’s growth dragged down by the mainland’s sputtering economy and China’s tensions with the United States.
+萎靡情绪之所以笼罩香港，部分原因与这座城市作为中国与西方之间桥梁的地位有关，如今香港的经济增长受到内地经济衰退以及中美紧张关系的拖累。
+
+Mr. Messi later posted a video clip on social media denying the allegations and professing his affection for China, footage that some internet users said looked akin to a hostage video.The controversy around Mr. Messi was a prominent example of an increasingly prickly official atmosphere — but it was far from the exception.The energy and unbridled optimism that was once Hong Kong’s most salient characteristic, its greatest asset, has been sapped
+梅西后来在社交媒体上发布了一段视频，否认了这些指控，并表达了他对中国的喜爱。一些互联网用户说，这段视频看起来像是被强迫拍的一般。围绕梅西的争议是官方气氛日益敏感的一个突出例子，但这绝非特例。活力和无拘无束的乐观精神曾经是香港最显著的特征与最大的资产，如今已被渐渐消耗。
+
+The Article 23 legislation is meant to root out such “soft resistance,” officials have said, as well as fill in gaps left by the national security law that China directly imposed. The laws center on five areas: treason, insurrection, sabotage, external interference and the theft of state secrets and espionage.
+官员们表示，第23条立法旨在根除这种“软对抗”，并填补中国直接实施的国家安全法留下的空白。这些法律主要针对五个方面：叛国、叛乱、破坏活动、外部干涉、窃取国家机密和间谍活动。
+
+To make matters worse, interest rates have soared in Hong Kong, roughly in line with those in the United States. That is because the city’s currency is tightly pegged to the dollar and fully convertible into dollars — a monetary policy that is central to the city’s role as a global financial center. But high interest rates have hurt the city’s huge real estate sector.
+雪上加霜的是，香港利率飙升，与美国的利率大致持平。 这是因为港币与美元挂钩，并且与美元是联系汇率制度——这一货币政策对于香港作为全球金融中心的角色至关重要，但高利率损害了香港庞大的房地产行业。
+
+Recently, he organized Hong Kong March, a monthlong cultural festival featuring film screenings, calligraphy classes and fairs in various cities in England. He is the founder of Hong Kong Umbrella Community, a nonprofit focused on the Hong Kong diaspora.
+最近，他在英国多个城市组织了为期一个月的“香港三月文化节”，期间有电影放映、书法课程和集市等活动。他是“香港协会”的创始人，这是一个专注于香港侨民的非营利组织。
+
+The friend then got into a kayak and paddled toward the Tesla, as another friend got into the water, swam to the vehicle and climbed on top of it, trying to find Ms. Chao, the report states. 
+报告称，这名友人随后跳上皮划艇，划向特斯拉，而另一名友人则跳入水中，游到车边，爬上车顶，试图找到赵安吉。
