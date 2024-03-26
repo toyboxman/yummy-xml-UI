@@ -1709,7 +1709,7 @@ curl http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac1
 3. 如果wget或curl请求资源时返回403，这是服务器为了防止爬虫等消耗资源，根据请求头进行了选择性屏蔽。需要 -U --user-agent 进行伪装, [获取User-Agent](https://blog.csdn.net/BobYuan888/article/details/88949296)
 ```console
 # 下载复杂URL的文件
-wget "https://github-production-release-asset-2e65be.s3.amazonaws.com/20773773/90548080-07ee-11eb-8030-9bcd049e677d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201014T091122Z&X-Amz-Expires=300&X-Amz-Signature=ffcc09e7de8c55c026366fc9585f5b648dc5d465f2b59dab59d37659fa32503d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=20773773&response-content-disposition=attachment%3B%20filename%3Dbazel-3.6.0-linux-x86_64&response-content-type=application%2Foctet-stream" \
+wget "https://github-production-release-asset-2e65be.s3.amazonaws.com/20773773/90548080-07ee-11eb-8030-9bcd049e677d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201014T091122Z&X-Amz-Expires=300&X-Amz-Signature=ffcc09e7de8c55c026366fc9585f5b648dc5d465f2b59dab59d37659fa32503d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=20773773&response-content-disposition=attachment%3B%20filename%3Dbazel-3.6.0-linux-x86_64&response-content-type=application%2Foctet-stream" \
 -U="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" \
 -O bazel.gz  
 ```
