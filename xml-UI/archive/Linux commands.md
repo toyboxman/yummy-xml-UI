@@ -787,14 +787,22 @@ awk -F':' '{print $1}' /etc/passwd
 $ id nginx
 uid=460(nginx) gid=459(nginx) groups=459(nginx)
 
-# list groups
+# list groups 显示全部group
 $ cat /etc/group
 root:x:0:
 bin:x:1:daemon
 daemon:x:2:
-sys:x:3:
-tty:x:5:
-disk:x:6:
+sudo:x:27:king
+
+# 查看sudo组的成员 仅包含一个成员king
+$ getent group sudo
+sudo:x:27:king
+$ getent group sudo | cut -d: f4
+king
+
+# 查看用户king的归属group信息, 返回users/docker/fuse三个用户组
+$ groups king
+king : users docker fuse
 
 # count user number
 cat /etc/passwd | wc -l
@@ -818,10 +826,10 @@ passwd test
 # -r remove user's home/mail dir as well
 userdel -fr lighttpd
 
-# 修改用户lighttpd的group属性
+# 修改用户lighttpd的group属性, 新加入mysql和users两个组
 # -a, --append Add the user to the supplementary group(s). Use only with the -G option.
 # -G, --groups GROUP1[,GROUP2,...[,GROUPN]]]
-sudo usermod -aG lighttpd,users lighttpd
+sudo usermod -aG mysql,users lighttpd
 # force test user to take root group id
 usermod -g root test    
 
@@ -830,9 +838,6 @@ groupadd nginx
 # 删除nginx的组
 groupdel nginx
 
-# 查看用户的归属group信息, 返回users/docker/fuse三个用户组
-$ groups king
-king : users docker fuse
 ```
 
 ### Usual command

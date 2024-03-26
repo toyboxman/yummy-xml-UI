@@ -38,8 +38,19 @@
 - [git show](#git-show)
 - [git tag](#git-tag)
 - [git update-index](#git-update-index)
+- [git submodule](#git-submodule)
 - [术语表](https://mp.weixin.qq.com/s/5EvrlCVc7g0LX7DMhI-ZnQ)
-- [使用子模块和子树来管理Git项目](https://mp.weixin.qq.com/s/RIM0y2Stwf8HiSbw7o8kcQ)
+
+
+### git submodule
+- [使用子模块和子树来管理Git项目](https://mp.weixin.qq.com/s/RIM0y2Stwf8HiSbw7o8kcQ)   
+Git 子模块是版本控制系统中的一种机制，用于将一个 Git 仓库嵌套到另一个仓库中。子模块允许您将一个 Git 仓库作为另一个 Git 仓库的子目录进行管理。这样，您可以在一个仓库中引用另一个仓库的特定版本，并在需要时轻松更新或切换到该仓库的其他版本。  
+使用 Git 子模块的主要优势在于，它允许您将多个仓库相互关联，以构建更大的项目，同时保持每个子仓库的独立性和可管理性。这在大型项目中特别有用，因为它允许团队分别开发和维护各个子模块，而不会混淆不同模块之间的代码。
+```console
+# --init 选项表示初始化子模块。如果仓库中包含子模块，并且尚未被初始化，则使用该选项会初始化这些子模块
+# update 表示更新子模块。如果仓库中的子模块已经被初始化，并且需要更新到最新版本，则使用该选项会更新这些子模块
+git submodule update --init
+```
 
 ### git update-index
 ```console
