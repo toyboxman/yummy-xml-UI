@@ -283,5 +283,47 @@ To make matters worse, interest rates have soared in Hong Kong, roughly in line 
 Recently, he organized Hong Kong March, a monthlong cultural festival featuring film screenings, calligraphy classes and fairs in various cities in England. He is the founder of Hong Kong Umbrella Community, a nonprofit focused on the Hong Kong diaspora.
 最近，他在英国多个城市组织了为期一个月的“香港三月文化节”，期间有电影放映、书法课程和集市等活动。他是“香港协会”的创始人，这是一个专注于香港侨民的非营利组织。
 
-The friend then got into a kayak and paddled toward the Tesla, as another friend got into the water, swam to the vehicle and climbed on top of it, trying to find Ms. Chao, the report states. 
-报告称，这名友人随后跳上皮划艇，划向特斯拉，而另一名友人则跳入水中，游到车边，爬上车顶，试图找到赵安吉。
+The friend then got into a kayak and paddled toward the Tesla, as another friend got into the water, swam to the vehicle and climbed on top of it, trying to find Ms. Chao, the report states. Her body was taken ashore, but emergency medical workers were not able to regain a pulse
+报告称，这名友人随后跳上皮划艇，划向特斯拉，而另一名友人则跳入水中，游到车边，爬上车顶，试图找到赵安吉。她的尸体被打捞上岸，但急救人员无法恢复她的脉搏。
+
+Benioff and Weiss dipped in and were intrigued by what they found: a sweeping space invasion saga that begins in 1960s China, amid the turmoil of the Cultural Revolution, and involves a superior alien race that has built a rabid cultlike following on Earth. A heady mix of science and skulduggery, featuring investigations both scientific and criminal, it felt utterly unique. “So much content right now feels like, ‘Oh, here’s another forensic show, here’s another legal thriller,’ it just feels like it’s a version of something you’ve seen,” Benioff said. “This universe is a different one.”
+贝尼奥夫和魏斯通读了小说，书中读到的东西激起了他们的兴趣：这部长篇小说讲的是太空人对地球发动全面入侵的故事，它始于20世纪60年代的中国文化大革命动乱期间，涉及一个能力更强的外星人种，他们在地球上发展了近乎狂热的极端信徒。小说将科学与阴谋诡计巧妙地结合起来，科学调查和刑事调查在其中占重要地位，令人耳目一新。“很多内容现在给人的感觉是，‘哦，它是又一个刑侦鉴识节目，它是又一部法律惊悚片’，让人觉得是曾经看过的东西的翻版，”贝尼奥夫说。“这部小说让人看到了一个完全不同的宇宙。”
+
+Now, the difficulties are piling up. The Justice Department filed an antitrust lawsuit against Apple on Thursday for giving its own products advantages that it deprived rivals of having. The suit is the latest in a series of actions brought against the company by regulators on four continents.
+现在，困难越来越多。周四，美国司法部对苹果提起反垄断诉讼，指控它为自己的产品提供了竞争对手无法获得的优势。这起诉讼是四大洲监管机构对该公司提起的一系列诉讼中的最新一起。
+
+At first glance, his creations conform to traditional cutout designs of animals and auspicious symbols adorning doorways and windows in China. But a closer look at the shapes — birds, butterflies and blossoms perched on twisty vines — reveals bodies conjoined in the throes of intimacy or separated by brick walls.
+乍一看，他的作品与装饰门窗的中国传统剪纸并无二致，都是动物和各种吉祥图案。但仔细观察这些小鸟、蝴蝶和在缠绕藤蔓上绽放的花朵，你就会发现，人体或在烈欲中结合，或被砖墙远远隔开。
+
+Paper cutting is a folk tradition dating from the Eastern Han dynasty (25-220 C.E.) that involves cutting crisp lines and shapes into folded layers of rice paper. It’s about excising the negative space to reveal the picture inside.
+剪纸是源自东汉时期（公元25-220年）的民间传统，在折叠的宣纸上剪出清晰的线条和形状。剪纸是把空白的地方剪掉，呈现出里面的画面。
+
+Xiyadie’s home province of Shaanxi was a hub for folk art; in his hometown, paper cuts marked births, weddings and Lunar New Year celebrations. The women in the village passed on the craft to their daughters and daughters-in-law. Xiyadie said he learned it by observing his mother and village matriarchs. In “Hoping” (2000), one of the most poignant pieces depicting his family, his son rises from the confines of a wheelchair, sprouting wings, like a butterfly in metamorphosis.
+西亚蝶的家乡陕西省是民间艺术的重镇；在那里，生子、婚嫁和庆祝春节都少不了剪纸。村里的妇女会把这门手艺传给女儿和儿媳。西亚蝶说，他是通过观察母亲和村里的年长女性学会这门手艺的。在《望》（2000年）这幅描绘他的家庭的最凄美的作品中，他的儿子离开轮椅的束缚站了起来，长出了翅膀，就像一只蜕变中的蝴蝶。
+
+In previous years, the forum featured a lengthy, closed-door discussion with chief executives where the premier entertained many questions. But the premier’s conversation, usually on the event’s final day, was canceled this year without explanation, prompting some chief executives to skip Monday and schedule their private jets to fly out on Sunday evening.
+在往年的论坛上，论坛的最后一天通常是总理与首席执行官们进行长时间的闭门讨论，回答他们提出的各种问题，但这种讨论今年却被取消了，而且没有做出任何解释，这导致一些首席执行官放弃周一的活动，在周日晚上搭乘私人飞机离开。
+
+The election demonstrated a seemingly confident victory, And suddenly, against the backdrop of a confident victory, there’s this demonstrative humiliation.
+总统选举显示出看似充满信心的胜利，突然间，在充满信心的胜利背景下，来了一场公开的羞辱。
+
+After about half an hour, it was so smoky that Mr. Fidrya, 42, thought even the assailants must have left. As he ventured out, he saw the body of a dead woman lying by the escalator. Later he saw the body of another woman who had been killed in the carnage, her distraught husband standing over her. They then moved into the concert hall, where they sprayed gunfire as well, videos show.
+大约半个小时后，重重浓烟让42岁的菲德里亚觉得就算是袭击者，肯定也都离开了。他试探着走出去，在自动扶梯边见到一个女人的尸体。后来他又见到一名在袭击中遇害的女性，她的丈夫站在一旁悲痛欲绝。视频显示，袭击者随后进入音乐厅，在那里也进行了扫射。
+
+To be clear, there is nothing private about having cancer. A diagnosis requires referrals and a bewildering number of scans and tests. There are ultrasounds, MRIs, PET scans; colonoscopies, bronchoscopies, endoscopies. There are needle biopsies, razor biopsies, or liquid biopsies. Most of the tests require getting naked, or mostly naked, beneath a robe, sometimes waiting in a large room full of other terrified strangers also in robes, before presenting oneself to strangers who push, jab, thread and insert tools into or onto body parts that are not normally explored. Frequently, these tests have to be repeated, or different tests ordered, to rule something out.
+说白了，患癌并不是什么隐私的事。确诊癌症需要转诊，还需要做大量的扫描和检查。有超声波检查、核磁共振成像、正电子扫描；结肠镜检查、支气管镜检查、内窥镜检查。有针刺活检、刮取活检或液体活检。大多数检查都需要病人赤身裸体或裸露大部分身体，只穿一件长袍，有时还需要在一个大房间里等待，那里挤满了同样穿着长袍、惶惶不安的陌生人，然后再接受陌生人对你的推动、戳刺、穿线，并将工具插入通常不会触碰到的身体部位。这些检查往往需要重复多次，或者要求进行不同的检查，以排除某些可能性。
+
+Huawei’s innovation has made Apple’s latest models appear stodgy by comparison. And as China’s economy has struggled to rebound from the Covid pandemic, many consumers are hesitant to spend on what feels like an incremental upgrade. 
+相比之下，华为的创新让苹果的最新款手机显得枯燥无味。由于中国经济在新冠疫情后的复苏步履艰难，许多消费者对是否要花钱对手机进行渐进式升级犹豫不决。
+
+At one point in 1958, troops there hunkered in bunkers as Communist forces rained hundreds of thousands of shells on them. These days, the island, Kinmen, has become a hub of Taiwan’s commerce with China and its abandoned, weatherworn fortifications are tourist sites. 
+1958年，共产党军队向该岛发射了成千上万枚炮弹，岛上的部队一度躲藏在掩体中。如今，金门岛已成为台湾与中国大陆通商的枢纽，这里饱经风霜的废弃防御工事也成为了旅游景点。
+
+Incursions of Chinese fishing boats and smugglers around Kinmen have long been a source of friction. They came over here to fish with explosives, electric lines, gill nets, a lot of that kind of thing。
+长期以来，中国渔船和走私者在金门附近的入侵一直是两岸摩擦的源头之一。他们来这边炸鱼、电鱼，用流刺网，这种东西很多
+
+When the weather turned cold in December, Cindy Luo started to wear her fluffy pajamas over a hooded sweatshirt at the office. Wearing cozy sleepwear to work became a habit and soon she didn’t even bother to wear matching tops and bottoms, selecting whatever was most comfortable. The just-rolled-out-of-bed look was shockingly casual for most Chinese workplaces.
+12月天气转冷时，辛迪·罗（音）开始在办公室里穿加绒睡衣，里面是连帽运动衫。穿着舒适的睡衣上班成了一种习惯，很快，她甚至懒得穿配套的上下装，只选择最舒服的。对大多数中国工作场所来说，这种好像刚从床上爬起来的装扮太过随意了。
+
+The Foreign Office summoned China’s ambassador for a diplomatic dressing down. But there was no indication that the hackers made any effort to manipulate votes or change the registration data — raising the possibility that they were simply testing their ability to steal vast databases of information.
+外交部召见了中国大使，进行了外交上的斥责。但没有迹象表明黑客试图操纵选票或更改注册数据——这让人怀疑他们只是在测试自己窃取大量信息数据库的能力。

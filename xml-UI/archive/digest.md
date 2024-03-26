@@ -910,6 +910,7 @@ monitor in:description language:python
 + [技术面试](https://github.com/CyC2018/CS-Notes)
 + [Java-interview](https://mp.weixin.qq.com/s/jnLyvrypsGL9avExjFCoZQ)
 + [go-interview](https://github.com/shomali11/go-interview)
++ [云原生资料库](https://lib.jimmysong.io/)
 #### Contract
 + Offer negociation[[1](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q), [2](https://mp.weixin.qq.com/s/mr9URCUSzgESLRkhhgHEdA)]
 + [劳动合同到期续签](https://mp.weixin.qq.com/s/1sIyoiluui3fNdK79o_3tw)
