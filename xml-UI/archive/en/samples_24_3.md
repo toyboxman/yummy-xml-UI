@@ -327,3 +327,54 @@ When the weather turned cold in December, Cindy Luo started to wear her fluffy p
 
 The Foreign Office summoned China’s ambassador for a diplomatic dressing down. But there was no indication that the hackers made any effort to manipulate votes or change the registration data — raising the possibility that they were simply testing their ability to steal vast databases of information.
 外交部召见了中国大使，进行了外交上的斥责。但没有迹象表明黑客试图操纵选票或更改注册数据——这让人怀疑他们只是在测试自己窃取大量信息数据库的能力。
+
+Eager to start careers as filmmakers, Mr. Wang and some friends scraped together about $6,000, borrowed a camera and persuaded a company to give them film for free. His directorial debut, “The Days,” about a despondent artist couple, was screened at film festivals in Europe in 1994. The British Broadcasting Corporation listed it as one of the 100 best films of all time.
+王小帅和一些朋友太想拍电影了，于是凑了5万块钱，借来一台摄影机，并说服一家公司免费提供胶片。他的导演处女作《冬春的日子》讲述了一对意志消沉的画家夫妇的故事，1994年在欧洲的电影节上放映。英国广播公司将其列入史上100部最佳电影。
+
+In the core socialist values, the deepest, fundamental and most eternal is patriotism, Works imbued with patriotic sentiment are most effective in rallying the Chinese people to unity and struggle.
+在社会主义核心价值观中，最深层、最根本、最永恒的是爱国主义，拥有家国情怀的作品，最能感召中华儿女团结奋斗。
+
+China has had a front-row seat in witnessing Pakistan’s social, political, economic and security meltdown, What is happening in Pakistan, along with the situation in post-U.S. Afghanistan, represents a serious threat to Chinese interests in the broader South and Central Asian regions.
+中国是巴基斯坦社会、政治、经济和安全崩溃的亲历者，巴基斯坦正在发生的一切，以及美国撤军后的阿富汗局势，对中国在更广泛的南亚和中亚地区的利益构成严重威胁。
+
+But ship collision barriers are standard around the support piers of bridges over major waterways like the entrance to Baltimore’s harbor. The Verrazzano-Narrows Bridge in New York City, for example, has massive barriers of concrete and rocks around the bases of the piers that support it. The ship in Baltimore was exiting the harbor as a spring tide was rushing out of the harbor. The moon was still almost completely full, having reached its fullest less than 24 hours earlier.
+但在巴尔的摩港口入口等主要水道上的桥梁支撑桥墩周围，船舶碰撞屏障是标准设置。例如，纽约市的维拉扎诺海峡大桥在支撑桥墩底部周围设置了巨大的混凝土和石块屏障。巴尔的摩的这艘船驶离时正值大潮涌出港口。月亮几乎还是满月，在不到24小时前达到最圆。
+
+Full moons in springtime are associated with some of the largest tidal changes in local sea level. The ebbing tide increases the speed of the water seaward, which effectively has a cumulative effect on the speed of an outbound vessel, and any currents in the water could also have complicated navigation
+春天满月期间，在当地海平面会出现最大幅度的潮汐变化。退潮会增加海水向海方向的速度，这实际上会对出港船只的速度产生累积效应，而且任何水流都可能使航行变得复杂
+
+The aliens who menace humankind in Netflix’s “3 Body Problem” believe in doing a lot with a little. Specifically, they can unfold a single proton into multiple higher dimensions, enabling them to print computer circuits with the surface area of a planet onto a particle smaller than a pinprick.
+在网飞出品的《3体》（3 Body Problem）中，威胁人类的外星人相信“以小博大”。具体来说，他们可以将一个质子展开到多个更高的维度，从而在比针尖还小的粒子上打印出表面积相当于一个星球的计算机电路。
+
+When Elon Musk unveiled the first Chinese-made Teslas in Shanghai in 2020, he went off script and started dancing. Peeling off his jacket, he flung it across the stage in a partial striptease. Mr. Musk had reason to celebrate. A few years earlier, with Tesla on the brink of failure, he had bet on China, which offered cheap parts and capable workers — and which needed Tesla as an anchor to jump-start its fledgling electric vehicle industry. The Shanghai factory went up at lightning speed and without a local partner, a first for a foreign auto company in China.
+当埃隆·马斯克2020年在上海发布首批中国制造的特斯拉电动车时，他脱离原定内容跳起舞来。舞台上，他挥舞着脱下的外套，做出了类似于脱衣舞的动作。马斯克有庆祝的理由。几年前，特斯拉濒临破产，他把赌注押在了中国身上，那里有廉价的零部件和能干的工人，而且中国需要特斯拉来锚定其刚刚起步的电动汽车产业。上海工厂以惊人的速度拔地而起，而且没有中国本土的合作伙伴，这在中国的外国车企中尚属首次。
+
+And he got the emissions policy. Modeled after a California program that has been a boon for Tesla, the policy awards automakers credits for making clean cars. To lobby for the regulatory change, Tesla teamed up with California environmentalists, who were trying to clean up China’s soupy skies.
+马斯克还得到了调整后的排放法规。这项政策仿效了加州一项为特斯拉带来福音的计划，它为汽车制造商生产清洁汽车提供信用额度。为了游说中国政府改变法规，特斯拉与试图净化中国被污染天空的加州环保人士进行了合作。
+
+Chinese automakers like BYD and SAIC are pushing into Europe, threatening established carmakers like Volkswagen, Renault and Stellantis. Detroit is also scrambling to keep pace. China could improve on it, he thought, yielding an efficient foreign factory that would serve as a “catfish,” an aggressive creature that makes other fish swim faster. China’s vision of Tesla being a catfish for local electric vehicle brands has proved prescient. Another supplier, LK Group, developed enormous casting machines that can make an entire section of a car with Tesla’s help. 
+比亚迪和上汽等中国汽车制造商正大举进军欧洲，给大众、雷诺和斯特兰蒂斯等老牌汽车制造商带来威胁。底特律也在手忙脚乱地追赶。他认为，中国可以对此进行改进，建立一个高效的外国工厂，充当“鲶鱼”的角色，鲶鱼是一种攻击性生物，可以让其他鱼游得更快。中国让特斯拉成为本土电动汽车品牌鲶鱼的愿景，被证明是有先见之明的。另一家供应商力劲集团在特斯拉的帮助下开发了巨型压铸机，可以一次性制造汽车的一部分。
+
+But China’s electric vehicle push has prompted anxiety in Europe. “When we decided to shift from thermic engines to E.V.s, we were late vis-à-vis China — I would say between five and seven years late,” said Bruno Le Maire, France’s finance minister. When Mr. Musk traveled to China last May, the battery maker’s chairman welcomed him with a 16-course banquet. 
+但中国对电动汽车的推动在欧洲引发了焦虑。“当我们决定从热力发动机转向电动汽车时，我们已经比中国晚了——差不多晚了五到七年，”法国财政部长布鲁诺·勒梅尔表示。去年5月，当马斯克访问中国时，这家电池制造商的董事长为他举办了一个16道菜的宴会。
+
+The Biden administration is growing increasingly concerned that a glut of heavily subsidized green technology exports from China is distorting global markets and plans to confront Chinese officials about the problem during an upcoming round of economic talks in Beijing.
+拜登政府越来越担心，中国得到大量补贴的绿色技术出口已导致供过于求，正在扭曲全球市场，打算在北京即将举行的新一轮经济谈判中就这一问题与中国官员交锋。
+
+Now, as the tech and economic cold war between the United States and China accelerates, Silicon Valley’s leaders are capitalizing on the strife with a lobbying push for their interests in another promising field of technology: artificial intelligence. On May 1, more than 100 tech chiefs and investors will come to Washington for a daylong conference and private dinner focused on drumming up more hawkishness toward China’s progress in A.I.
+现在，随着美国和中国之间的科技和经济冷战加速，硅谷业界领袖们正在利用这场冲突进行游说，争取他们在人工智能方面的利益，这是另一个前景广阔的技术领域。100多名科技公司负责人和投资者将来到华盛顿，参加为期一天的会议和私人晚宴，活动重点是鼓励对中国在人工智能方面的进展采取更强硬的态度。
+
+When people ask us whether it is OK for the United States to abandon Ukraine, the answer is no, because the world is operating not in a black-and-white way, or if you only look at one theater at a time, The world is interconnected.
+当别人问我们美国可不可以抛弃乌克兰时，答案是否定的，因为世界不以非黑即白的方式运作，或是你一次只能关注一个战区，这世界紧密相连。
+
+Other attacks are occurring on Earth. Russian hackers targeted a satellite system’s ground infrastructure in Ukraine, cutting off internet at the start of the war there. Attacks like jamming, which drowns out satellite signals, and spoofing, which sends misleading data, are increasing, diverting flights and confounding pilots far from battlefields.
+地球上正在发生其他侵袭。俄罗斯黑客曾把一个卫星系统在乌克兰地面的基础设施作为打击目标，在俄乌战争爆发时切断了乌克兰的互联网。用干扰信号淹没卫星信号，假冒卫星发送信号等攻击正在增多，导致航班改道，使远离战场的飞行员困惑。
+
+China retained and upgraded a World War II-era system, known as Loran, that uses radio towers to beam time signals across long distances. An enhanced version provides signals to the eastern and central parts of the country, extending offshore to Taiwan and parts of Japan. Construction is underway to expand the system west. The Chinese did what we in America said we would do，They are resolutely on a path to be independent of space.
+中国保留并升级了第二次世界大战期间研发出来的“罗兰”(Loran)系统，该系统使用无线电发射塔来发送远距离时间信号。改进后的系统能为中国东部和中部地区提供时间信号，并把信号覆盖延伸到台湾沿海和日本部分地区。将该系统向西扩展的建设正在进行中。中国人做了我们美国人说我们要做的事情，他们正在坚定地走上不依赖太空的道路。
+
+N.I.S.T. scientists say the signals are a thousand times stronger than those from GPS satellites, which orbit more than 12,000 miles above Earth. That makes them harder to jam or spoof. And because low-Earth-orbit satellites are smaller and more dispersed, they are less vulnerable than GPS satellites to an attack in space. space becomes an increasingly congested and contested domain. Other countermeasures look to the past. The U.S. Naval Academy resumed teaching sailors to navigate by the stars.
+NIST的科学家说，来自这些卫星的信号比来自GPS卫星的强1000倍，GPS卫星的轨道位于地球表面上方约2万公里处。高强度信号使它们更难被干扰或被假冒。而且近地轨道卫星的体积更小、分布更广，因此与GPS卫星相比，它们更不容易受到太空攻击。太空已成为一个日益拥挤和充满争议的领域， 其他对抗手段着眼于历史。美国海军学院已恢复了教授水手如何用星星导航的课程。
+
+A world without satellite signals is a world that is nearly blind. Ambulances will be delayed on perpetually congested roads. Cellphone calls will drop. Ships may get lost. Power outages may last longer. Food can cost more. Getting around will be much harder.
+没有卫星信号的世界是个近乎失明的世界。持续堵车的道路会导致救护车延误。手机通话会中途断掉。船只可能会迷失航向。断电的时间可能会更长。食物可能会更贵。到各地旅行会更困难。
