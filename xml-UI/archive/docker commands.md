@@ -345,6 +345,112 @@ docker run -d --name jaeger-es \
   jaegertracing/all-in-one
 ```
 
+kibana提供什么样的功能:  
+Kibana是一个用于 Elasticsearch 的开源数据可视化平台，它提供了丰富的功能，用于分析、搜索和可视化大量数据。
+
+    数据搜索和分析： Kibana 允许用户在连接的 Elasticsearch 索引中执行高级搜索和分析。你可以使用强大的查询语言来过滤和聚合数据，以便更好地理解你的数据。
+
+    仪表板创建： 用户可以通过 Kibana 创建交互式仪表板，将多个可视化元素组合在一起。这些仪表板允许用户直观地监控和分析数据，同时支持实时更新。
+
+    图表和可视化： Kibana 提供了各种图表和可视化选项，包括柱状图、线图、饼图、地图等。这些可视化工具帮助用户以直观的方式展示数据模式和趋势。
+
+    日志和事件数据分析： Kibana 可以用于分析和可视化日志和事件数据。通过集成 Logstash 和 Beats 等工具，Kibana 提供了实时的、动态的数据分析能力。
+
+    监控和警报： Kibana 具有监控和警报功能，可以跟踪指标并设置警报，以便在数据达到某些条件时通知用户。
+
+    用户权限和安全性： Kibana 提供了用户认证和授权机制，支持多用户环境，并可以根据用户的角色和权限限制其访问和操作。
+
+    插件和扩展性： Kibana 具有丰富的插件生态系统，用户可以根据自己的需求扩展和定制 Kibana 的功能。
+
+通过ES的rest API可以了解jaeger collector如何将trace存入其中
+```console
+# 列出ES中全部的index
+$ curl -XGET "http://localhost:9200/_cat/indices?v" 
+
+health status index                           uuid                   pri rep docs.count docs.deleted store.size pri.store.size
+yellow open   jaeger-service-2024-04-09       UQp-DBTnTwKBvRXTZfJkKQ   5   1        113            0    144.9kb        144.9kb
+yellow open   jaeger-service-2024-04-09       GU5R0A28SdyeUMfvWl4VRg   5   1        131           33     81.4kb         81.4kb
+
+# dump出一个index中全部数据 _search?q=* 表示匹配所有
+$ curl -XGET "http://localhost:9200/jaeger-service-2024-04-09/_search?q=*" | jq "."
+
+{
+    "_index": "jaeger-service-2024-04-09",
+    "_type": "_doc",
+    "_id": "2a31a7ca308b6df2",
+    "_score": 1,
+    "_source": {
+        "serviceName": "proxy",
+        "operationName": "PAM-authentication"
+    }
+}
+
+# 从结果看原始的span数据都是存放在jaeger-span-开头的index中 
+$ curl -XGET "http://localhost:9200/jaeger-span-2024-04-09/_search?q=*" | jq "."
+
+{
+    "_index": "jaeger-span-2024-04-09",
+    "_type": "_doc",
+    "_id": "bQbSwI4BYX1FgsqDUc4O",
+    "_score": 1,
+    "_source": {
+        "traceID": "91537502ed7aab3ca93a69068abe90f3",
+        "spanID": "22d338381cf0d2e5",
+        "operationName": "CustomOpenLdap-authentication",
+        "references": [
+            {
+                "refType": "CHILD_OF",
+                "traceID": "91537502ed7aab3ca93a69068abe90f3",
+                "spanID": "1b06451445e5dc8a"
+            }
+        ],
+        "startTime": 1712631989640779,
+        "startTimeMillis": 1712631989640,
+        "duration": 239532,
+        "tags": [],
+        "tag": {
+            "internal@span@format": "jaeger",
+            "otel@library@name": "proxy",
+            "otel@scope@name": "proxy"
+        },
+        "logs": [],
+        "process": {
+            "serviceName": "proxy",
+            "tags": [],
+            "tag": {
+                "hostname": "liujin-svc-nsxmanager-sb-72275877-1-dev",
+                "ip": "127.0.1.1",
+                "jaeger@version": "opentelemetry-java",
+                "service@name": "proxy",
+                "telemetry@sdk@language": "java",
+                "telemetry@sdk@name": "opentelemetry",
+                "telemetry@sdk@version": "1.22.0"
+            }
+        }
+    }
+}
+
+# 还可以使用精确条件匹配 如 process.serviceName:proxy AND operationName:Start-Authentication %20AND%20为URL encode后的运算符号
+# 更复杂的匹配可以用消息体来指定
+curl -XGET "http://localhost:9200/jaeger-span-2024-04-09/_search?q=process.serviceName:proxy%20AND%20operationName:Start-Authentication" | jq "."
+
+# 通过index类型和id来查询一个存储结构
+$ curl -XGET "http://localhost:9200/jaeger-service-2024-04-09/_doc/b55b8af9bf945bb" | jq .
+{
+  "_index": "jaeger-service-2024-04-09",
+  "_type": "_doc",
+  "_id": "b55b8af9bf945bb",
+  "_version": 1,
+  "_seq_no": 4,
+  "_primary_term": 1,
+  "found": true,
+  "_source": {
+    "serviceName": "jaeger-query",
+    "operationName": "FindTraces"
+  }
+}
+```
+
 #### zk command
 ```console
 # check zk node as follower or leader
