@@ -60,3 +60,72 @@ The heaviest damage was in Hualien County, a lush, scenic area prone to earthqua
 
 Taiwan is at the intersection of the Philippine Sea tectonic plate and the Eurasian plate, making it vulnerable to seismic activity. Hualien sits on multiple active faults, and 17 people died in a quake there in 2018.The earthquake hit Taiwan as many people here were preparing to travel for Tomb Sweeping Day on Thursday, when, across the Chinese-speaking world, people mourn the dead and make offerings at their graves. The holiday weekend would typically see a spike in travel as people visit family across Taiwan.
 台湾位于菲律宾海板块和欧亚板块的交汇处，因此很容易受到地震活动的影响。花莲位于多个活跃断层上，2018年有17人在一场地震中丧生。地震发生时，许多台湾人正在为周四的清明节出行做准备，在华语世界中，人们在这一天悼念逝者，并到墓前祭奠。通常，人们会到台湾各地探亲，因此周末假期会出现出行高峰。
+
+And the Treasury secretary’s consumption of a dish made with psychedelic “magic” mushrooms at a Yunnan-style restaurant in Beijing sparked something of a culinary craze in China, where Ms. Yellen is popular for being an acclaimed economist.
+在那次访华期间，她曾在北京一家云南风味的餐馆吃了一道用致幻“神奇”蘑菇制作的菜肴，在中国引发了对那道菜的热潮，作为一名著名经济学家，耶伦在中国广受欢迎。
+
+They planned to follow that with a scenic boat cruise along the city’s Pearl River.But the first of four days of discussions about their economies was about more than pleasantries. She also warned that a surge of Chinese green technology products being sold below the cost of production will warp global supply chains by depressing prices and forcing firms worldwide to shutter.But if Ms. Yellen’s message about overcapacity is followed by tariffs or other U.S. trade restrictions, relations could quickly sour.
+计划随后乘船游览珠江。但是，在为期四天的经济讨论中，第一天的讨论远不止客套话。她还警告说，大量中国绿色科技产品以低于生产成本的价格出售，将压低价格、迫使全球各地的企业倒闭，从而扭曲全球供应链。但如果耶伦发出产能过剩的信息后美国征收关税或采取其他贸易限制，中美关系可能很快就会恶化。
+
+A report last month published by the Rhodium Group, a research firm, recalled that a Chinese stimulus program initiated after the 2008 financial crisis focusing on infrastructure and property construction led to a global glut of steel and aluminum products after demand for real estate weakened.Following the pandemic slowdown, China has focused on factory production to bolster its sputtering economy. 
+研究公司荣鼎咨询上月发布的报告称，2008年金融危机后，中国启动了一项刺激计划，重点关注基础设施和房地产建设，在房地产需求减弱后，导致全球钢铁和铝产品供过于求。在疫情放缓之后，中国一直把重点放在工厂生产上，以提振疲弱的经济。
+
+Earthquakes are unavoidable in Taiwan, which sits on multiple active faults. Decades of work learning from other disasters, implementing strict building codes and increasing public awareness have gone into helping its people weather frequent strong quakes.We have retrofitted more than 10,000 school buildings in the last 20 years,The government had also helped reinforce private apartment buildings over the past six years by adding new steel braces and increasing column and beam sizes
+台湾位于多条活跃断层上，地震不可避免。数十年来，台湾从其他灾难中吸取教训，实施了严格的建筑规范，提高公众意识，这些都有助于民众抵御频繁发生的强烈地震。在过去20年里，我们已经改造了1万多座校舍,过去六年来，政府还通过添加新的钢支撑以及加粗柱和梁的尺寸来帮助加固私人公寓楼。
+
+Not far from the Uranus Building, for example, officials had inspected a building with cracked pillars and concluded that it was dangerous to stay in. Residents were given 15 minutes to dash inside and retrieve as many belongings as they could. Some ran out with computers, while others threw bags of clothes out of windows onto the street, which was also still littered with broken glass and cement fragments from the quake.
+例如，在离天王星大楼不远的地方，官员们检查了一栋柱子开裂的大楼，认定呆在里面很危险。居民们有15分钟的时间冲进楼里，尽可能多地取走自己的物品。一些人拿着电脑跑了出来，另一些人则把一袋袋衣服从窗户扔到街上，街上还到处是地震留下的碎玻璃和水泥碎片。
+
+Taiwan has made strides in its response to disasters, experts say. In the first 24 hours after the quake, rescuers freed hundreds of people who were trapped in cars in between rockfalls on the highway and stranded on mountain ledges in rock quarries.
+专家表示，台湾在应对灾害方面取得了长足进步。地震发生后的最初24小时内，救援人员解救了数以百计人员，他们被困在高速公路落石之间的汽车中，还有人被困在采石场山脊上。
+
+China has passed a demographic Rubicon just as many other countries have before it. The problem of underfunded retirement programs is not unique to China, either. But China’s demographic and economic troubles are colliding, shaking confidence in the pension system.China’s leaders could begin to tackle the problem by raising an “alarmingly low” retirement age
+和其它许多国家一样，中国已经渡过了人口的卢比孔河。资金不足的养老金计划并非中国独有的问题。但中国的人口和经济困境的同时到来动摇了人们对这一系统的信心。中国领导人可以通过提高“低到惊人”的退休年龄来应对这一问题
+
+But over the past year another problem has emerged: More people, whether they are unemployed or doing part-time or freelance work, are pausing their contributions or simply opting out.In some prosperous regions, as many as eight workers support each retiree. But in poorer areas, there are about two workers for every retiree.
+但在过去的一年里，另一个问题出现了：越来越多的人，无论是失业者，还是兼职或自由职业者，都在暂停缴纳养老金，或者干脆不缴纳养老金。在一些繁荣地区，多达八名工人供养一个退休人员。但在较贫穷的地区，大约是两个工人供养一个退休人员。
+
+I made myself sit through this violent scene. I have never seen what was known as a struggle session depicted blow-by-blow on the screen. I also felt compelled to watch it because of how the series, a Netflix adaptation of China’s most celebrated works of science fiction, has been received in China.Instead, many comments zeroed in on how unflatteringly China is portrayed and how few Chinese elements are included in the series. Netflix isn’t available in China but viewers flocked to see pirated versions of “3 Body Problem.”
+我强迫自己看完了这个暴力场景。此前，我从未在屏幕上看到“批斗会”被如此活生生地展现出来过。由于这部网飞根据中国最著名的科幻作品改编的剧集在中国引起的反响，我也觉得必须看完这个场景。许多评论反而集中在该剧对中国的描绘多么有损形象、剧中的中国元素多么少等问题上。虽然网飞的服务范围不包括中国，但不少人已看过《3体》的盗版。
+
+Marisa Peters had been experiencing symptoms for years: blood on her toilet paper after going to the bathroom, changes in her stool and difficulty controlling the urge to poop. But she was in her 30s, healthy and physically active. She did not have any abdominal pain, and doctors dismissed the symptoms as hemorrhoids, or normal postpartum changes after the birth of her first son. When Ms. Peters finally visited a gastroenterologist in 2021, after having her third child and experiencing worsening bleeding from her rectum along with changes in her stool consistency, an urgent colonoscopy confirmed that she had colorectal cancer.
+玛丽莎·彼得斯多年来一直有这些症状：上完厕所后卫生纸上有血迹，大便发生变化，以及难以控制排便的冲动。但她才30多岁，身体健康，喜欢运动。她没有腹痛，医生认为是痔疮导致她的那些症状，或者是生完第一个儿子后的正常产后变化。2021年，在生了第三个孩子后，彼得斯终于去看了肠胃科医生，当时她的直肠出血的情况变严重了，大便粘稠度也发生了变化，紧急结肠镜检查证实她患有结直肠癌。
+
+Some research has linked lifestyle and dietary changes to increased rates of colorectal cancer in both young people and older adults. Recent generations have consumed more red meat, ultraprocessed foods and sugary beverages, and have been known to binge drink more frequently; between 1992 and 1998, cigarette smoking also increased before declining again, while physical activity has continuously declined for decades. All of these factors — along with the rise in obesity rates since the 1980s — are associated with cancer risk. But once again, none of them fully account for the increase in early-onset colorectal cancer.
+一些研究将生活方式、饮食变化与年轻人和年龄更大的人当中患结直肠癌的增加联系起来。近几代人消费了更多红肉、精加工食品和含糖饮料，并且更频繁地饮酒；在1992年至1998年间，吸烟也增加了，然后再次下降，而体育锻炼在过去几十年里持续减少。所有这些因素——以及自上世纪80年代以来肥胖率的上升——都与癌症风险有关。然而，再一次强调，这些因素并不能完全解释早发性结直肠癌的增加。
+
+President Biden has intensified efforts to shield American industries from foreign competition in an election year, as he courts blue-collar workers and attempts to avoid being outflanked on trade by his Republican rival, former President Donald J. Trump.The moves have strained Mr. Biden’s relationships with international allies and rivals alike, drawing charges of protectionism from diplomats and some economists
+在大选年，拜登总统加大了保护美国工业不受外国竞争影响的力度，他向蓝领工人示好，试图避免在贸易问题上被共和党对手、前总统特朗普占先。这些举措使拜登与国际盟友和竞争对手的关系变得紧张，招来外交官和一些经济学家指责他实施保护主义
+
+when South Koreans go to the polls on Wednesday, they will also be signaling support for one of two leaders who are locked in what is known here as “gladiator politics.”The do-or-die rivalry between President Yoon Suk Yeol and the opposition leader Lee Jae-myung, whose party holds the majority in the National Assembly, has made the elections as fraught with fear and resentment as any in South Korea​n history. Neither leader commands broad popularity, instead relying on hard-line supporters who either want to see Mr. Yoon, a conservative, impeached for abuse of power, or Mr. Lee, a progressive, imprisoned for corruption.
+但当韩国人周三投票时，他们也将向两位领导人之一发出支持的信号，两人正在进行被韩国人称为“角斗士政治”的角逐。总统尹锡悦和反对党领袖李在明（他所在的政党在国会占多数席位）之间你死我活的竞争，使这次选举和韩国历史上的选举一样，充满恐惧和怨恨。两位领导人都没有得到广泛的民众基础，而是依靠强硬的支持者，这些人要么希望看到保守派的尹锡悦因滥用权力而被弹劾，要么希望进步派的李在明因腐败而入狱。
+
+Mr. Lee, a son of public toilet cleaners, was a teenage sweatshop worker in rubber and glove factories before becoming a labor lawyer, a mayor and a provincial governor. His supporters see him as an outspoken outsider who can fix establishment politics. But his critics call him a devious populist who cut corrupt deals while in office and quashed dissenting voices within his party in attempts to consolidate power.
+李在明是公共厕所清洁工的儿子，青少年时期曾在生产橡胶和手套的血汗工厂工作，后来成为劳工律师、市长和知事。支持者认为他是一个敢于直言的局外人，可以修复建制政治。但批评者称他是一个狡猾的民粹主义者，执政期间进行腐败交易，在党内压制反对声音，试图巩固权力。
+
+Mr. Yoon, a son of a college professor, was an elite prosecutor, rising to the ranks of prosecutor-general before becoming president. His supporters praise him for strengthening ties with the United States in the face of nuclear threats from North Korea. But his detractors call him a hamfisted elitist who favors the rich and uses coercive measures to silence critics.
+尹锡悦是大学教授的儿子，是一名精英检察官，在成为总统之前曾担任检察总长。支持者称赞他在面对朝鲜核威胁时加强了与美国的关系。但批评者称他是一个拙劣的精英主义者，偏袒富人，使用强制措施来压制批评者。
+
+“There is no place for dictatorships, hegemony, neocolonial and colonial practices, which are now being widely used by the United States and the rest of the ‘collective West,’” Mr. Lavrov said.Mr. Wang’s remarks were more measured — a reflection of China’s difficult balancing act in supporting Russia while also trying to avoid alienating important trading partners in Western Europe.
+“美国和其他‘西方集体’国家正在广泛采用独裁、霸权、新殖民主义和殖民主义的做法，这是行不通的，”拉夫罗夫说。王毅的讲话则更加谨慎，这反映出中国在支持俄罗斯的同时，又努力避免疏远西欧重要贸易伙伴之间的艰难平衡。
+
+Now that same infrastructure, backed by billions of dollars from the Japanese government, is being built about 750 miles away in the cow pastures and cabbage fields of Kikuyo in southwestern Japan.Chemical companies and equipment makers are vying for a piece of the semiconductor economy. 
+现在，在日本政府数十亿美元的支持下，台积电正在大约1200公里之外日本西南部菊阳町的牧牛场和菜田里建设同样的基础设施。化学公司和设备制造商们正在争夺半导体经济的生意。
+
+At rush hour in Kikuyo one day last month, the train platform at once-sleepy Haramizu station was crowded with workers from TSMC suppliers like Applied Materials and Tokyo Electron. Some carried hard hats in clear plastic backpacks while they waited for the train into Kumamoto, the nearest big city.
+在上月一个上下班高峰时段，菊阳町曾经宁静的原水火车站站台上挤满了为应用材料公司、东京电子等台积供应商工作的工人。一些人携带的透明塑料背包中有安全帽，他们在等待开往最近的大城市熊本的火车。
+
+On a recent night in a tatami-paneled banquet hall in Kumamoto, the city 10 miles from the new TSMC factory, visiting investors from Taiwan exchanged gifts with their hosts, a local chamber of commerce. Bottles of Kirin beer, tiny glasses of sake, T-shirts and key chains were passed around and plates of sushi placed in front of each person. “To all the money we’re going to make,” went the final toast.
+最近的一个晚上，在距台积电新厂16公里的熊本市的一个铺着榻榻米的宴会厅里，来访的台湾投资者与东道主（一家当地商会）交换了礼物。就餐者相互传递着瓶装麒麟啤酒、小杯清酒、T恤衫和钥匙链，每个人前面摆着一盘寿司。“为我们将要赚到的钱干杯”是祝酒词的最后一句。
+
+If war breaks out between the two sides of the strait, that would put an unbearable burden on the Chinese nation,The Chinese people on both sides of the Strait absolutely have the wisdom to peacefully handle the various disputes and avoid going toward conflict.
+两岸如果发生战火，对中华民族都是不可承受之重，两岸的中国人，绝对有足够的智慧，和平处理各项争端，避免走向冲突。
+
+During a pomp-filled ceremony honoring the visiting Japanese prime minister, the president said the United States and Japan would create an expanded defense architecture with Australia, participate in three-way military exercises with Britain and explore ways for Japan to join a U.S.-led coalition with Australia and Britain.
+在为到访日本首相举行的盛大仪式上，拜登总统说，美国和日本将与澳大利亚建立一个扩大的防务架构，参加与英国的三方军事演习，并探讨日本如何加入美国领导的与澳大利亚和英国的联盟。
+
+Other gifts included a lithograph and a two-volume LP set autographed by Billy Joel and a vintage vinyl record collection. Dr. Biden gave Ms. Kishida a framed painting of the Yoshino cherry tree that the two had planted on the South Lawn last spring, and a soccer ball signed by the U.S. women’s national soccer team and the Japanese women’s team.At the state dinner, the White House was scheduled to serve a meal that would include house-cured salmon and dry-aged rib-eye steak with blistered shishito pepper butter.
+其它的礼物包括一幅版画、有比利·乔签名的一套双张黑胶唱片，以及一套黑胶老唱片收藏。拜登博士送给岸田夫人一幅经过装裱的画，画中是两人去年春天在白宫南草坪种下的一棵吉野樱树，以及一只有美国和日本女子足球国家队签名的足球。在国宴上，白宫计划的菜品包括自家熏制的三文鱼和干式熟成的眼肉牛排，佐以烤狮子唐辣椒调制的黄油。
+
+More than a year ago, NetEase and Blizzard called an end to their long-running partnership when renewal talks turned testy, with both sides accusing each other of bad-faith negotiations. An uproar ensued among Chinese gamers, upset about losing access to a slew of popular titles from Blizzard’s parent company, the U.S. game developer Activision Blizzard.
+一年多前，网易和暴雪的续约谈判不欢而散，双方宣布结束长期合作伙伴关系，并且都指责对方缺乏诚意。这在中国游戏玩家当中引发了轩然大波，他们对于无法再玩暴雪母公司美国游戏开发商动视暴雪旗下的一系列热门游戏感到不满。
