@@ -472,6 +472,7 @@ get /zk_test
  --queue default --verbose griffin-measure.jar env.json config.json local,local
 ```
 #### kafka command
+- [kafka为什么这么快](https://mp.weixin.qq.com/s/HSlVqaEE6JWbVpJfx23RbQ)
 ```console
 #topic creation
 > bin/kafka-topics.sh --create \

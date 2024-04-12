@@ -10,8 +10,6 @@
 + [***Tools***](#tools)
 + [***Interview***](#interview)
 + [***System Monitor***](system-monitor/monitor.md)
-    - [LINUX 性能专家命令](https://mp.weixin.qq.com/s/J0owXJL9LM6rgawgGW7IhA)   
-        `123`
     - [优化程序原则和手段](https://mp.weixin.qq.com/s/xj6go8E5CFB6YOma5lSpEw)
     - [NetData性能监控工具](https://mp.weixin.qq.com/s/Xlrp6LJ-2UY-EoQuAZjAaA)
     - [分布式跟踪方案(instrumentation库/tracer/分析工具)](https://mp.weixin.qq.com/s/5J80CzoSoX8M3g96cOvKQw)
@@ -274,7 +272,6 @@
         dir-listing.activate = "enable"    <- 允许目录auto-indexing   
         2.brew services restart lighttpd   
     - [python-LittleHTTPServer](https://mp.weixin.qq.com/s/XgbwVO_awxn8cfzOfXGaGw)
-  
     - 架构设计[[1](https://mp.weixin.qq.com/s/saPMlUKJ0tIemItr21UWUw), [2](https://mp.weixin.qq.com/s/fQ_Xd2-8-Nd622DlZE51kw), [3](https://mp.weixin.qq.com/s/fTRlEkBSgpm0suIICsG_iQ)]
     - [反向代理](https://mp.weixin.qq.com/s/1lAkIREduZOe97PEBAmp8A)
     - [日志监控](https://mp.weixin.qq.com/s/4_HFfHgrFku_ilhxr5YO7A)
@@ -284,6 +281,7 @@
 + [Web前端学习图文教程](https://github.com/qianguyihao/Web)
     - [前端开发20年变迁史](https://mp.weixin.qq.com/s/aES6Dc3V4FXgZ4JFsQMjEQ)
     - 前端样例代码[[1](https://mp.weixin.qq.com/s/88XXD0R83fkrBGDQWhgmew), [2](https://mp.weixin.qq.com/s/Tqqkn56C-S3jXe5Wqwuq8g)]
+    - [前端框架](https://mp.weixin.qq.com/s/MOuT5n_JjcDeynkwO1TyNQ)
     - [Web API](https://mp.weixin.qq.com/s/PA_bzHByHkjhODwD5m80Xg)
         - [网道Web API教程](https://wangdoc.com/webapi/)
     - Flutter
@@ -390,6 +388,15 @@
     Ratpack is a simple, capable, toolkit for creating high performance web applications. Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.      
 
 #### Architecture
++ [RDMA](https://mp.weixin.qq.com/s/xTc6y4hlxxvIy2ePYbxf-Q)  
+    `分布式事务一致性需要降低延迟和长尾抖动，因为这两个因素会影响事务的执行效率和可靠性。延迟指的是完成某个操作所需的时间，而长尾抖动则指的是在长尾分布中出现的波动或变化。在分布式环境中，如果事务执行的延迟过高或者受到长尾抖动的影响，可能会导致事务的执行时间不稳定，甚至出现部分节点的执行速度远远慢于其他节点的情况。这样就会导致一些节点上的事务无法及时完成，从而影响整个系统的一致性和性能。因此，降低延迟和长尾抖动有助于提高分布式事务的可靠性和效率。`   
+    `要应对延迟和长尾抖动问题，可以采取以下设计和架构策略： `    
+    `分布式架构设计： 采用分布式架构，将系统拆分成多个服务或节点，使得每个节点可以独立执行任务，从而减少单点故障的影响，提高系统的可靠性和容错性。`  
+    `负载均衡： 使用负载均衡技术将请求均匀分发到各个节点，避免某些节点负载过重而导致延迟增加或长尾抖动。`  
+    `异步处理： 将任务异步处理，避免同步等待导致的延迟问题。例如，使用消息队列将任务发送到异步处理的队列中，然后由消费者节点异步处理。`  
+    `优化网络通信： 优化网络通信协议和传输方式，减少网络传输延迟和抖动。例如，使用高效的通信协议、压缩数据、减少数据传输量等。`  
+    `缓存机制： 使用缓存技术存储常用数据，减少对数据库或其他资源的频繁访问，从而降低延迟和提高系统的响应速度。`  
+    `水平扩展： 随着系统负载的增加，通过水平扩展增加节点数量，分担负载，提高系统的并发处理能力，从而降低延迟和长尾抖动。`
 + [企业数字化转型PPT](https://mp.weixin.qq.com/s/j4xV9E7bh-Gc67vsqKJB_Q)
 + [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
     `SMART目标/15条规则`
