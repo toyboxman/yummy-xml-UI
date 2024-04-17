@@ -18,6 +18,7 @@
     - [Python隐藏技巧](https://mp.weixin.qq.com/s/ZkRFUj5yV-5AfqPquRk1EA)
     - [Python Snippet-随机数/文件路径/排序/字符串](https://mp.weixin.qq.com/s/fnC5VZ8mkJ1-OUwN-udJUg)
 - [Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+- [Manim数学动画库](https://mp.weixin.qq.com/s/wxil4gIYk5jW4kqGk-9mQw)
 - [Python代替Excel](https://mp.weixin.qq.com/s/fpBRhqpslMsKGQJN-yLGbw)
 - [awk脚本移植到 Python](https://mp.weixin.qq.com/s/D7PIWVheVesYH6aiXQ9HyQ)
 - [Python实现11种数据降维算法](https://mp.weixin.qq.com/s/1YDUi1S7CP1DDtvGX-Nobg)
