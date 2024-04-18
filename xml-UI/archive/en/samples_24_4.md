@@ -129,3 +129,66 @@ Other gifts included a lithograph and a two-volume LP set autographed by Billy J
 
 More than a year ago, NetEase and Blizzard called an end to their long-running partnership when renewal talks turned testy, with both sides accusing each other of bad-faith negotiations. An uproar ensued among Chinese gamers, upset about losing access to a slew of popular titles from Blizzard’s parent company, the U.S. game developer Activision Blizzard.
 一年多前，网易和暴雪的续约谈判不欢而散，双方宣布结束长期合作伙伴关系，并且都指责对方缺乏诚意。这在中国游戏玩家当中引发了轩然大波，他们对于无法再玩暴雪母公司美国游戏开发商动视暴雪旗下的一系列热门游戏感到不满。
+
+Mr. Yoon needs help from the opposition in addressing runaway housing prices, a rapidly aging population and a long-delayed overhaul of the national pension system. 
+尹锡悦需要反对党的帮助来解决房价失控、迅速老龄化的人口以及拖延已久的国家养老金制度改革等问题。
+
+Western countries relied on coal for well over a century, which is why, in no small part, they account for the majority of historical greenhouse gas emissions.In an attempt to balance financial responsibility for the energy transition, richer countries have pooled tens of billions of dollars in loans to some coal-reliant developing countries.For now, however, much of that money remains undisbursed as stakeholders iron out disagreements.
+西方国家依赖煤炭已远不止一个世纪，这在很大程度上解释了它们导致了半数以上历史上温室气体排放总量的原因。为了平衡能源转型的财务责任，富裕国家已集资数百亿美元，将为依赖煤炭的发展中国家提供贷款.但其中大部分资金目前尚未花出去，因为利益相关方仍在解决分歧。
+
+O.J. Simpson, who died on Wednesday at 76, lived a life that made him one of the most famous people in America, as well as, at various times, the most celebrated and most reviled.A Heisman Trophy winner when he played football at the University of Southern California, he reached superstar status as a running back with the Buffalo Bills. As a commercial pitchman and a Hollywood actor, he became a household name across much of America.
+O·J·辛普森于周三去世，享年76岁。他的一生使他成为美国最著名的人物之一，在不同的人生阶段里，他的声誉也在万众敬仰和万人唾骂之间摇摆。在南加州大学打橄榄球时，他获得了海斯曼奖；在布法罗比尔队担任跑卫时，他成了超级巨星。作为商业推销员和好莱坞演员，他在美国大多数地方家喻户晓。
+
+For years, Israeli officials have argued, both in public and in private, that the harder Iran is hit, the warier it will be about fighting back. Iran’s barrage of more than 300 drones and missiles on Saturday — the first direct attack by Iran on Israel — has overturned that logic.The accumulated experience of Israel is that Iran doesn’t have good means to retaliate,There was a strong feeling that they don’t want to be involved in the war.
+多年来，以色列官员无论是在公开场合还是私下里都认为，伊朗受到的打击越大，它就越不敢反击。伊朗周六发射的300多架无人机和导弹推翻了这一逻辑，这是伊朗对以色列发动的首次直接攻击。以色列积累的经验是，伊朗没有好的报复手段，之前以色列有一种强烈的感觉，那就是伊朗不想卷入战争。
+
+Mr. Cauchi was shot and killed after Amy Scott, a police inspector, who was conducting routine duties nearby, was directed into the shopping center, where he lunged at her with his weapon.
+有人把在附近执行例行任务的巡警艾米·斯科特带到购物中心，考奇持刀向她扑来，她开枪将其击毙。
+
+Mr. Modi, a strongman who controls every lever of power in India and has expanded its relations with many other countries, appears uncharacteristically powerless in the face of the rupture with China.As Mr. Modi seeks a third term in an election that begins on Friday, the tensions weigh heavily on the overarching narrative of his campaign
+莫迪是一个铁腕人物，控制着印度的每一个权力层面，并扩大了与许多其他国家的关系。但面对与中国的关系破裂，他似乎显得异常无力。随着莫迪在周五开始的选举中寻求第三个任期，紧张的局势严重影响了他竞选活动的总体叙事
+
+A Chinese company targeted by members of Congress over potential ties to the Chinese government makes blockbuster drugs for the American market that have been hailed as advances in the treatment of cancers, obesity and debilitating illnesses like cystic fibrosis.
+由于与中国政府的潜在关系，一家为美国市场生产重磅药物的中国公司成为了国会议员的攻击目标。这家公司生产的药物被认为在癌症、肥胖症以及囊性纤维化等严重损伤身体的疾病方面取得了重大进展。
+
+WuXi is heavily embedded in the U.S. medicine chest, making some or all of the main ingredients for multibillion-dollar therapies that are highly sought to treat cancers like some types of leukemia and lymphoma as well as obesity and H.I.V.The Congressional spotlight on the company has rattled the pharmaceutical industry, which is already struggling with widespread drug shortages now at a 20-year high. 
+美国人用的许多药都离不开药明康德，这家公司为美国市场上销售额高达数十亿美元的药物生产部分或全部主要成分，包括广泛用于某些类型的白血病和淋巴瘤等癌症，以及肥胖症和艾滋病毒的治疗药物。美国国会对药明康德的关注让制药行业感到不安，该行业已经面临广泛的药品短缺问题，目前处于20年来的最严重程度。
+
+WuXi AppTec and an affiliated company, WuXi Biologics grew rapidly, offering services to major U.S. drugmakers that were seeking to shed costs and had shifted most manufacturing overseas in the last several decades.WuXi companies developed a reputation for low-cost and reliable work by thousands of chemists who could create new molecules and operate complex equipment to make them in bulk.Some public records, show that WuXi and its affiliates have made the active ingredients for critical drugs. 
+药明康德及其一家子公司药明生物的快速发展源自为美国的主要制药商提供服务。为了削减成本，美国制药商已在过去几十年里将大部分生产转移到海外。药明系有成本低、产品可靠的声誉，并雇佣了数以千计的化学家，他们能开发新分子并操作批量生产它们的复杂设备。一些公开记录显示，药明康德及其附属公司一直在生产关键药物的活性成分。
+
+Mary Aravanopoulos stood clutching her daughter, huddling for safety with about 15 other women in the dress shop filled with ethereal organza gowns. They had watched a man saunter past in the mall corridor, unhurriedly, swinging a large knife in his hand back and forth.
+玛丽·阿拉瓦诺普洛斯抱着女儿，和其他15个女人挤在一起，躲在这家摆满飘逸欧根纱礼服的店里。她们看着一个男人在商场过道里不慌不忙地悠闲走过，来回舞动着手里的大刀。
+
+“Bros-supports-bros culture is so deeply and inherently tied in with the Australian idea of masculinity,” she said. “That real testosterone-laden idea of what masculinity represents, there’s a pop culture mainstream representation of it that gets constantly reinforced.”With the belief that the attacker was singling out women, she said she shuddered to think what would have happened if the young, female store managers had not acted quickly and pulled down the shutters.
+“兄弟支持兄弟的文化与澳大利亚人对男子气的概念有着根深蒂固的内在联系，”她说。“那种充斥着睾丸激素的男子气概观念，有一种流行文化的主流表现形式，并不断得到强化。”她认为袭击者是专门针对女性的，她说，如果当时年轻的女店长没有迅速采取行动拉下百叶窗，接下来可能发生的情形令她不寒而栗。
+
+Jiuben is on the fourth floor of Pano City Mall, where restaurants advertising Korean, Japanese and Chinese food operate next to empty storefronts. Some places look abandoned: The lights are off but a pile of takeaway boxes sits by the till, lamps still hanging or chairs and tables intact.Centered around three curved, pebble-like buildings designed by Zaha Hadid, the neighborhood of Wangjing was once a hub of activity for the capital’s busiest workers. 
+九本居酒屋位于望京新荟城三楼，这个商场聚集了韩餐、日餐和中餐，旁边许多店面都空着。有些地方看起来像是废弃了一般：灯都关着，但收银台旁放着一堆外卖盒子，灯还挂着，桌椅都没有被动过。以扎哈·哈迪德设计的三座弧形鹅卵石状建筑为中心，望京曾经是北京最繁忙的打工人活动中心。
+
+Ms. Kou started her business more than eight years ago, selling baked goods like bitter melon bagels and ube mochi twists. Now she places less emphasis on developing new baked goods with different flavors. Instead, she focuses on keeping costs low so that the bakery can offer cheaper prices.
+寇月圆8年多前开始了她的生意，销售苦瓜贝果和麻糬等烘焙食品。现在，她不再像过去那样花精力开发不同口味的新品种。相反，她专注于压低成本，这样面包店就能提供更便宜的价格。
+
+Beijing is sure to welcome the message that German businesses are committed to China. The Asian giant is trying to court foreign investment to reinvigorate its economy, which has faltered because of a housing slowdown.From China’s perspective, Germany may be its best hope of delaying or watering down any trade restrictions from Europe
+中国政府肯定会欢迎德国企业致力于与中国做生意的信息。这个亚洲巨人的经济受房地产市场放缓的拖累已陷入困境，正努力吸引外资重振经济。从中国的角度来看，德国也许是推迟或淡化任何来自欧洲的贸易限制的最佳希望
+
+That leaves Mr. Scholz facing the delicate act of balancing the export-oriented needs of his domestic economy with pressure from allies to leverage his country’s position to make demands on the Chinese.
+这让肖尔茨面临着一个微妙的平衡问题，既要满足本国经济的出口导向型需求，又要满足来自盟友的压力，以便利用本国的地位向中国提出要求。
+
+And in the first three years of Mr. Biden’s presidency, the Middle East seemed relatively calm, until the Oct. 7 terror attack by Hamas killed 1,200 Israelis, upended his priorities and plunged the White House back into a familiar cauldron.While Mr. Biden used intermediaries to help assure that Iran’s retaliatory strikes over the weekend did not spin out of control — and Iran appeared intent on keeping indirect lines open
+在拜登担任总统的头三年里，中东似乎相对平静，直到10月7日哈马斯发动的恐怖袭击导致1200名以色列人丧生，颠覆了他对轻重缓急的安排，让白宫重新陷入熟悉的困境。虽然拜登利用中间人来帮助确保伊朗周末的报复性袭击不会失控，而且伊朗似乎也有意保持间接线路的畅通
+
+In the rush to diversify away from oil, many leaders in the region have set their sights on A.I. — and have been happy to play the United States and China off each other.
+在急于从石油资源转向多元化过程中，该地区的许多领导人将目光投向了人工智能，并乐意让美国和中国相互博弈。
+
+The four athletes ran in a group for much of the race, the livestream showed, ahead of the rest of the pack, with the African runners occasionally pulling slightly ahead.But it was the final moments of the race, when Mnangat and Keter both appeared to gesture to He to run in front of the others, that raised questions.
+直播画面显示，在比赛的大部分时间里，四名运动员都是跑在同一组，领先于其他选手，期间非洲选手偶尔会稍稍领先。但在比赛的最后时刻，姆南加特和凯特都似乎示意何杰跑到他们前面，这引发了质疑。
+
+In 2018, 258 participants were penalized for cheating in the Shenzhen Half Marathon, with organizers accusing them of wearing fake bib numbers, hiring imposters and taking shortcuts, according to Chinese state media.
+据中国官方媒体报道，2018年，深圳半程马拉松赛中有258名参赛者因作弊受到处罚，组织者指控他们佩戴假号码布、雇佣冒名顶替者以及走捷径。
+
+The sharpened debate is sure to be on display at the economic lollapalooza that opens Wednesday in Washington — otherwise known as the annual spring meetings of the International Monetary Fund and the World Bank.There are different ways of shooting yourself in the foot,The current wave of policies, though, is a stark contrast to the classic open markets, hands-off government ideology championed by the citadels of capitalism in recent decades.
+周三于华盛顿开幕的国际货币基金组织和世界银行年度春季会议这一经济盛事之上，肯定会出现关于这一话题的激烈争论。搬起石头砸自己的脚有很多种不同的方法,然而，当前的政策浪潮与近几十年来资本主义阵营所倡导的典型开放市场、政府不干涉的意识形态形成了剧烈反差。
+
+The United States passed two mammoth bills in 2022 to strengthen its domestic semiconductor industry and renewable energy sector. Europe passed its own Green Deal Industrial Plan last year to speed the energy transition.Positive appraisals of the approach have grown in recent years. a Harvard economist, found that the “recent crop of papers offers in general a more positive take on industrial policy,” compared with the traditional “knee-jerk opposition from economists.”
+美国在2022年通过了两项庞大的法案，以加强国内半导体产业和可再生能源产业。欧洲去年通过了自己的《绿色交易产业计划》，以加速能源转型。近年来，对这种方法的正面评价在增加。哈佛大学经济学家丹尼·罗德里克等人组成的团队对此做了综述，发现，与传统的“经济学家下意识的反对”相比，“最近的一批论文总体上对产业政策提出了更正面的看法”。
