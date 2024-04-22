@@ -644,6 +644,47 @@ retransform和redefine两个命令有点差异:
 [arthas@28030]$ redefine /tmp/com/example/demo/arthas/user/UserController.class
 ```
 
+##### thread
+查看当前JVM中所有thread详情
+```console
+[arthas@28030]$ thread
+Threads Total: 105, NEW: 0, RUNNABLE: 33, BLOCKED: 0, WAITING: 33, TIMED_WAITING: 27, TERMINATED: 0, Internal 
+threads: 12                                                                                                   
+ID   NAME                       GROUP         PRIORITY STATE    %CPU     DELTA_TIM TIME     INTERRUP DAEMON   
+-1   C1 CompilerThread2         -             -1       -        0.28     0.000     0:8.610  false    true     
+19   Log4j2-TF-1-AsyncLogger[As main          5        TIMED_WA 0.28     0.000     4:34.799 false    true     
+21   Log4j2-TF-1-AsyncLogger[As main          5        TIMED_WA 0.26     0.000     4:39.703 false    true     
+460  arthas-command-execute     system        5        RUNNABLE 0.23     0.000     0:0.003  false    true     
+-1   VM Periodic Task Thread    -             -1       -        0.05     0.000     0:54.523 false    true     
+12   Wrapper-Control-Event-Moni main          5        TIMED_WA 0.03     0.000     0:28.031 false    true     
+49   Catalina-utility-2         main          1        TIMED_WA 0.02     0.000     0:5.448  false    false    
+71   NotificationThread         main          5        TIMED_WA 0.01     0.000     0:3.268  false    true     
+78   pool-49-thread-1           main          5        TIMED_WA 0.01     0.000     0:4.720  false    true     
+48   Catalina-utility-1         main          1        WAITING  0.01     0.000     0:5.589  false    false    
+2    Reference Handler          system        10       WAITING  0.0      0.000     0:0.193  false    true     
+3    Finalizer                  system        8        WAITING  0.0      0.000     0:0.094  false    true     
+4    Signal Dispatcher          system        9        RUNNABLE 0.0      0.000     0:0.000  false    true     
+18   GC Daemon                  system        2        TIMED_WA 0.0      0.000     0:0.000  false    true     
+99   Attach Listener            system        9        RUNNABLE 0.0      0.000     0:0.098  false    true     
+435  Keep-Alive-SocketCleaner   system        8        WAITING  0.0      0.000     0:0.006  false    true     
+441  arthas-timer               system        9        WAITING  0.0      0.000     0:0.000  false    true   
+
+[arthas@28030]$ thread 48
+"Catalina-utility-1" Id=48 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2b277d46
+    at sun.misc.Unsafe.park(Native Method)
+    -  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2b277d46
+    at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+    at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+    at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1088)
+    at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+    at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+    at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+    at java.lang.Thread.run(Thread.java:750)
+
+```
+
 ##### logger/mbean
 查看当前JVM中所有logger/mbean实例详情
 ```console

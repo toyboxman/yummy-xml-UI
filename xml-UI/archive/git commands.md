@@ -372,6 +372,9 @@ git ls-files dev/src | xargs wc -l
 # file之后 执行后输出如 'dev/src/tomcat/conf/web.xml:                                                 text/xml'
 # 需要获取正确文件名 需要按分隔符(-d :)截断，获取数组第一列(-f 1)
 git ls-files dev/src | xargs file --mime-type | grep text | cut -d: -f1|xargs wc -l
+
+# 统计当前目录及子目录中所有java文件行数
+git ls-files | xargs file --mime-type | grep '\.java'|cut -d: -f1 |xargs wc -l
 ```
 
 ### git merge rebase
