@@ -192,3 +192,18 @@ The sharpened debate is sure to be on display at the economic lollapalooza that 
 
 The United States passed two mammoth bills in 2022 to strengthen its domestic semiconductor industry and renewable energy sector. Europe passed its own Green Deal Industrial Plan last year to speed the energy transition.Positive appraisals of the approach have grown in recent years. a Harvard economist, found that the “recent crop of papers offers in general a more positive take on industrial policy,” compared with the traditional “knee-jerk opposition from economists.”
 美国在2022年通过了两项庞大的法案，以加强国内半导体产业和可再生能源产业。欧洲去年通过了自己的《绿色交易产业计划》，以加速能源转型。近年来，对这种方法的正面评价在增加。哈佛大学经济学家丹尼·罗德里克等人组成的团队对此做了综述，发现，与传统的“经济学家下意识的反对”相比，“最近的一批论文总体上对产业政策提出了更正面的看法”。
+
+WADA said “the contamination scenario was further supported” by the low concentrations of the drug and the fluctuation of test results between positive and negative.The Chinese pointed to low concentrations of TMZ in the urine samples to conclude intentional doping was “impossible.”To reduce that risk, WADA is expected to step in whenever doubts emerge, or if national bodies appear to have favored their own athletes.A large cluster of positive tests and an unusual claim of mass contamination through tainted food, then, might have merited a deeper, and independent, investigation.
+世界反兴奋剂组织说，样品中药物的浓度低，以及药检结果时而阳性、时而阴性的情况，“进一步支持了厨房受污染的情况”。中国的报告指出尿液样本中的TMZ浓度低，因此得出了“不可能”是故意服用兴奋剂的结论。为了降低这种风险，只要有人提出怀疑，或如果国家的反兴奋剂机构似乎偏袒本国运动员时，世界反兴奋剂组织按理就该介入。这样的话，集中出现的大量药检阳性结果，以及这种不寻常的说法——这些结果是众多运动员吃了受污染食品造成的——可能原本值得进行更深入的独立调查。
+
+Dr. Nicholls added that, to his knowledge, this study is the first to measure subsidence across many urban areas at once using state-of-the-art radar data from satellites.Subsidence in these cities is caused in part by the sheer weight of buildings and infrastructure, the study found. Pumping water from aquifers underneath the cities also plays a role, as do oil drilling and coal mining, all activities that leave empty space underground where soil and rocks can compact or collapse.Land subsidence is an overlooked problem that almost exists everywhere
+尼科尔斯还表示，据他所知，这项研究是第一次使用最先进的卫星雷达数据同时测量许多城市地区的下沉情况。研究发现，这些城市的下沉部分是由建筑物和基础设施的巨大重量造成的。从城市地下含水层抽水也起了作用，石油钻探和煤矿开采也是如此，所有这些活动都会在地下留下空间，可能造成土壤和岩石的压实或坍塌。地面沉降是一个被忽视的问题，几乎在任何地方都存在
+
+Since China’s first nuclear weapons test, in 1964, the country has pledged loudly to never go first in a nuclear conflict — no matter what. That stance, coupled with a stated strategy of “minimum” deterrence, didn’t demand the level of American fear, loathing and attention that the Russian threat did.
+自1964年中国首次进行核武器试验以来，中国一直高声承诺，无论发生什么情况，永远不会首先使用核武器。这种立场，再加上“最低限度”威慑的既定战略，并没有像俄罗斯的威胁那样引起美国人的恐惧、厌恶和关注。
+
+It may seem like a no-brainer to take China up on the offer — wouldn’t it be better if everyone agreed not to be the first to use their nuclear weapons? — but it has been met with public silence from Washington. For American policymakers, committing to no-first-use is deeply divisive. 
+接受中国的提议似乎是理所当然的——如果每个国家都同意不首先使用核武器，那不是更好吗——但华盛顿在公开层面上却对此保持沉默。对于美国决策者来说，承诺不首先使用核武器会引发严重分歧。
+
+The Biden administration is wrestling with how it can deter both China and Russia without touching off a destabilizing three-way arms race. Jake Sullivan, Mr. Biden’s national security adviser, publicly invited the two nations last summer to hold nuclear arms control deliberations without preconditions. Russia dismissed the offer outright, while China agreed to preliminary talks.U.S. administrations have not responded with great alacrity or interest to Chinese outreach on the question of no-first-use
+去年夏天的时候，拜登的国家安全顾问杰克·沙利文曾公开邀请这两个国家举行不设先决条件的核军备控制磋商。俄罗斯直接拒绝了这一提议，而中国同意进行初步会谈。对于中国在不首先使用核武器问题上的主动提议，美国历届政府并没有做出非常积极或感兴趣的回应
