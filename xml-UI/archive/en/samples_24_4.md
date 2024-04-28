@@ -207,3 +207,87 @@ It may seem like a no-brainer to take China up on the offer — wouldn’t it be
 
 The Biden administration is wrestling with how it can deter both China and Russia without touching off a destabilizing three-way arms race. Jake Sullivan, Mr. Biden’s national security adviser, publicly invited the two nations last summer to hold nuclear arms control deliberations without preconditions. Russia dismissed the offer outright, while China agreed to preliminary talks.U.S. administrations have not responded with great alacrity or interest to Chinese outreach on the question of no-first-use
 去年夏天的时候，拜登的国家安全顾问杰克·沙利文曾公开邀请这两个国家举行不设先决条件的核军备控制磋商。俄罗斯直接拒绝了这一提议，而中国同意进行初步会谈。对于中国在不首先使用核武器问题上的主动提议，美国历届政府并没有做出非常积极或感兴趣的回应
+
+It may be that an unequivocal no-first-use pledge ends up being impossible. The talks may not result in a deal anyone can agree upon, and even if a deal were to be reached, it would be impossible to verify, meaning it would be more symbolic than substantive. 
+或许，最终并不能达成明确的不首先使用核武器的承诺。谈判可能不会达成所有人都同意的协议，而且即使达成了协议，也可能无法查证核实，这意味着它的象征意义大于实质意义。
+
+Pinduoduo felt more like a gimmick than a future rival. It was a combination of a game arcade, a shopping mall and a social network. Its main selling point was lower prices for shoppers who recruited other buyers to make group purchases. Customers could pass the time by playing video games or earn money by logging in daily to browse the app.Now, no one is taking the company lightly.
+那时，拼多多给人的感觉更像是个噱头，而不是未来竞争对手。该应用把游戏厅、购物平台和社交网络结合起来，主要卖点是为“拼团”的购物者提供更低的价格。用户在上面玩视频游戏来打发时间，或通过每天登录应用程序浏览内容赚点钱。现在，人们不再轻视这家公司。
+
+Pinduoduo, which did not respond to requests for comment, grew by word of mouth because it offered steep discounts. Sharing the bargains online was easy because Pinduoduo was deeply intertwined with Tencent’s WeChat, a ubiquitous messaging service in China.The main appeal of Pinduoduo is its shockingly low prices. A 5.5-pound box of cherry tomatoes costs about $4.50, but the price per box is cut in half if another person joins to make a “team purchase.” A dozen rolls of five-ply toilet paper cost 80 cents. Both are delivered free. 
+拼多多靠口头传开的大幅折扣实现了增长。因为拼多多与中国无处不在的短信平台——腾讯的微信紧密相联，用户在网上分享特价商品很容易。拼多多的主要吸引力在于平台上的价格低得惊人。一盒五斤的樱桃西红柿售价不到35元，但如果另一个人加入“团购”的话，每盒的价格将减半。卷纸五层的12卷卫生纸售价不到六元。而且都是免费送货。
+
+In its early days, Pinduoduo was overrun with knockoffs. It took aggressive steps to address the issue. Buyers who receive counterfeit goods are eligible for a refund of up to 10 times their money from the seller. Sellers provide a refund with no questions asked if a customer is dissatisfied with a purchase.For sellers, the huge traffic to the app is the draw. 
+早期的拼多多平台上曾充斥着假货。公司采取了积极的措施来解决这个问题。收到假货的买家有资格从卖家那里获得最高10倍的退款。如果顾客对买来的东西不满意，可以退货，卖家不问任何问题就会退款。对卖家来说，吸引他们的是拼多多带来的巨大流量。
+
+Such statements of altruism run at odds with some of the company’s tactics, critics say. Last year, the Google Play store suspended Pinduoduo’s app outside China after cybersecurity experts found that it was laced with malware. 
+批评人士称，这些利他主义言论与公司的一些做法相矛盾。去年，Google Play商店暂停了拼多多应用程序在中国境外的下载，因为网络安全专家发现该应用程序中有大量恶意软件。
+
+He reserves fear for one person, Melania Trump.At the end of the day, she could probably make or break him.Melania was tugged back into the news this week as her husband went on trial in Manhattan on charges stemming from his supposed dalliance with the porn star Stormy Daniels. Journalists wanted to know what Melania Trump was thinking. The judge presiding over the trial said that she could theoretically be called to testify.
+他只怕一个人，梅拉尼娅·特朗普。到头来，他的成与败可能是由她决定的。随着她的丈夫因与色情明星“风暴丹尼尔斯”的风流事而导致的指控在曼哈顿接受审判，梅拉尼娅再次成为新闻焦点。记者们想知道梅拉尼娅·特朗普在想什么。主审法官说，理论上，她可以被传唤作证。
+
+And Donald Trump fumed to reporters that the trial might prevent him from joining Melania at the high school graduation of their son, Barron, on May 17.In this case, the truth really is opaque.All these years and tweets and town halls and tirades since he came down that infernal escalator, there’s still stuff that we don’t know about a man who is, paradoxically, perhaps the greatest exhibitionist ever to reach the pinnacle of American politics. He over-shares his every absurd irritation and eccentric rumination. He is forever beseeching us to look at him, look at him, look at him.
+唐纳德·特朗普愤怒地对记者们说，审判可能会妨碍他在5月17日与梅拉尼娅一起参加他们儿子巴伦的高中毕业典礼。在这种情况下，真相确实是不透明的。自从他从那通往地狱的自动扶梯上下来之后，这么多年来，他的推文、市政厅集会露面和咆哮之中，仍然有一些我们不知道的东西，吊诡的是，他可能是有史以来达到美国政治顶峰的最伟大的暴露癖。他过度分享自己的每一个荒谬的愤怒和古怪的遐想。他总是恳求我们看看他，看看他，再看看他。
+
+Are his family members’ meanings to him more ornamental than sentimental? Again, I can’t tell. It’s possible that Ivanka’s emphatic exit from his political life wounds him greatly and that Don Jr.’s clinging presence touches him deeply.It’s possible that he views them as transactional figures, making decisions based entirely on their own immediate interests — apples fallen close to the tree.
+对他来说，家庭成员的装饰意义是不是大于情感意义？我还是不知道。伊万卡断然退出他的政治生活，可能对他造成了极大的伤害，而小唐纳德对他的执着则深深打动了他。他有可能把他们看作是交易数字，做决定时完全是从自己的直接利益出发——有其父必有其子。
+
+And Melania? How much does she matter to him, and vice versa? I draw no conclusions because I accept the adage that nobody outside a marriage has any firm grasp of what goes on inside it. And she gives away nothing, a paragon of inscrutability. She disappears, she reappears, she wears a jacket with the words “I really don’t care, do u?” scrawled across the back.
+梅拉尼娅呢？她对他来说有多重要，他对她又有多重要呢？我没有得出任何结论，因为我接受这句格言：清官难断家务事。她什么也不透露，堪称高深莫测的典范。她消失了，又出现了，身穿一件夹克，背面潦草地写着“我真的不在乎，你呢？”
+
+The trial that began with jury selection on Monday is in part an excavation of Donald Trump’s private life, as lawyers argue over, and the judge rules on, whether certain details about his reputed infidelities are relevant. But there’s much that these proceedings won’t bring to the surface.
+周一以挑选陪审团成员开始的审判在一定程度上是对唐纳德·特朗普私人生活的挖掘，关于他被指控为不忠的某些细节是否重要，律师们要就此进行争论，法官要就此做出裁决。但这些诉讼不会暴露太多东西。
+
+From the American neoliberal economic viewpoint, a state-led push like this might seem illegitimate or even unfair. The state, with its subsidies and political directives, is making decisions that are better left to the markets, the thinking goes.But China’s leaders have their own calculations, which prioritize stability decades from now over shareholder returns today. Chinese history is littered with dynasties that fell because of famines, floods or failures to adapt to new realities. 
+从美国新自由主义经济学的观点来看，由国家主导的这种推动似乎是不正当的，甚至是不公平的。这种想法认为，政府凭借补贴和政治指令，做出了更适合由市场来做的决定。但中国领导人有自己的考量，他们更看重几十年后的稳定，而不是今天的股东回报。中国历史上因饥荒、洪水或未能适应新现实而覆灭的王朝比比皆是。
+
+China received a frightening reminder of this in 2022, when vast areas of the country baked for weeks under a record heat wave that dried up rivers, withered crops and was blamed for several heatstroke deaths.China’s government knows that it must make this green transition out of rational self-interest or risk joining the Soviet Union on history’s scrap heap, and is actively positioning itself to do so. It is increasingly led by people with backgrounds in science, technology and environmental issues. 
+中国在2022年收到了一个可怕的提醒——一场创纪录的热浪持续数周，使河流干涸、庄稼枯萎，并导致数人中暑死亡。中国政府知道，出于理性的自利，它必需进行绿色转型，否则就有可能和苏联一样，进入历史的垃圾堆，如今，它正在积极地做准备。越来越多具有科学、技术和环境问题背景的人士开始领导中国政府。
+
+Much like how the United States showed up late for World War II, China’s clean-tech companies are latecomers, piggybacking on technology developed elsewhere. But history rewards not necessarily who was there first but who was there last — when a problem was solved.
+就像美国在第二次世界大战中姗姗来迟一样，中国的清洁技术公司也是后来者，它们借用了其他地方开发的技术。但历史奖励的不一定是先到者，而是当问题得到解决时还在场的人。
+
+Inside a canteen for seniors in downtown Shanghai, a worker brandishing a sponge inched closer to Maggie Xu, 29, as she was finishing her rice and garlic-and-oil-soaked broccoli. Ms. Xu ignored her.They also start to hover — like the auntie with the sponge — hurrying laggards out the door.The food is affordable and plentiful. The plates on offer, sometimes as cheap as $1.40, are crammed with local specialties like shredded eel with hot oil, steamed pork ribs or red braised pork belly.
+上海市中心一家老年食堂里，29岁的玛吉·徐（音）马上就要吃完她的米饭和蒜茸西兰花了，清洁工手持海绵慢慢向她坐的地方擦过来。徐女士没有理会她。她们也会像那名清洁工那样，开始逼近那些来得晚的人，让他们快点离开。社区食堂的价格实惠，菜品丰富。有很多带有地方特色的菜，便宜的只要十块钱，如响油鳝丝、蒸排骨、红烧肉。
+
+But instead of quelling the protests, Shafik’s decision appeared to backfire. By this week, she was besieged on all sides.Students protesters were unbowed, and soon the encampment had regrown to be even larger than before. Shafik’s own faculty threatened to revolt over an “unprecedented assault on student rights.” A least one major Jewish donor cut off support. And while the White House voiced deep concern, the very Republican lawmakers she had set out to appeal to called for her resignation.Shafik was now focused on “de-escalating the rancor” on campus.
+然而沙菲克的决定不但没能平息抗议，似乎还产生了适得其反的效果。到了这一周，她已经四面楚歌。抗议学生不为所动，营地很快发展了到前所未有的规模。沙菲克的教员们威胁要起事，认为这是“对学生权利的一场空前的攻击”。至少有一名犹太大金主切断了资金支持。白宫表达了严正关切，然而那些她本想要努力迎合的共和党议员，却在呼吁她辞职。沙菲克现在把注意力放在“化解敌意”上。
+
+Shafik defended free speech rights but said universities “cannot and should not tolerate abuse of this privilege.”Grudging Republicans largely accepted the answers.Organizers said they held hours of discussions with a senior university vice president to see if the two sides could find an off-ramp. The students were demanding the university divest from any financial interests enriching Israel and grant amnesty for all activists under investigation for protest actions, among other demands.
+沙菲克为言论自由辩护，但表示，大学“不能也不应该容忍对这一特权的滥用”。心怀积怨的共和党人基本上接受了这些回答。组织者说，他们与大学的一位高级副校长进行了几个小时的讨论，看看双方是否能找到一个解决办法。学生们要求学校从任何有利于以色列的金融利益中撤资，并赦免所有因抗议活动而受到调查的活动人士，此外还有其他要求。
+
+On the outskirts of Chongqing, western China’s largest city, sits a huge symbol of the country’s glut of car factories. It’s a complex of gray buildings, nearly a square mile in size. The thousands of employees who used to work there have moved on. Its crimson loading docks are closed.Dozens of gasoline-powered vehicle factories are barely running or have already been mothballed.The old internal combustion capacity is dying.
+在中国西部最大城市重庆的郊区，坐落着中国汽车制造厂过剩的巨大象征。这是一个灰色建筑群，面积近250公顷。曾经在那里工作的数千名员工已经离开。深红色的装卸码头已经关闭。数十家以汽油为动力的汽车工厂要么勉强运转，要么已经停产。旧的内燃机产能正在消亡。
+
+Within the United States, anti-China rhetoric is likely to intensify as the Democrats and Republicans compete to outdo each other on one of the few areas of bipartisan agreement.But both countries may also have little room for diplomatic maneuvering, because of hardening public opinion on both sides.There are already so many irritants and issues of mistrust within the relationship,If you have a pot which is already close to boiling, it only takes adding a degree or two to push things over the edge.
+在美国国内，随着两党竞相对华强硬，反华言论可能会加剧，对华态度是两党意见一致的少数领域之一。但两国也许都没有多少外交上的回旋余地，因为双方的公众舆论都已趋于强硬。两国关系中已存在着很多刺激因素和不信任，就像一锅快烧开的水，只需再提高一两度就会沸腾起来。
+
+The net result may be an Asia-Pacific region that is even more divided and dangerous than it is today, marked by a deepening arms race. In this increasingly contentious and militarized environment, the chance of some political incident or military accident triggering a devastating regional war is likely to grow. This is especially likely, given the absence of meaningful U.S. and allied crisis communication channels with China to prevent such an incident from spiraling out of control.
+最终的结果可能是亚太地区比现在更加分裂和危险，军备竞赛日益加剧。在这种争议和军事化日益激烈的环境中，一些政治事件或军事意外引发毁灭性地区战争的可能性会增加。鉴于美国及其盟国与中国缺乏有效的危机沟通渠道来防止此类事件失控，这种情况尤其有可能发生。
+
+For a start, the United States and key allies like Japan should make a sustained effort to establish a durable crisis prevention and management dialogue with China involving each nation’s foreign policy and security agencies.This process should include the establishment of an agreed-upon set of leaders’ best practices for crisis management and a trusted but unofficial channel through which the relevant parties can discuss crisis-averting understandings. 
+首先，美国和日本等主要盟友应该做出持续努力，与中国建立持久的危机预防和管理对话，让各国的外交政策和安全机构都参与其中。这一进程应包括建立一套各方领导人一致认可的危机管理最佳做法，以及建立一个可信但非官方的渠道，通过该渠道，有关各方可以讨论避免危机的共识。
+
+None of this will be easy, given the intense suspicion that now exists between Beijing and Washington and its allies. But new thinking and new diplomatic efforts could incentivize China to reciprocate in meaningful ways. At the very least, it’s necessary to try. Focusing on military deterrence alone won’t work. Trying to find a way to cooperate with China is the best way — perhaps the only way — to steer the world away from disaster.
+鉴于北京与华盛顿及其盟友之间目前存在的强烈猜疑，这一切都不会是容易的事。但新的思维和新的外交努力可以激励中国以有意义的方式做出回应。说到底，试一试总是有必要的。仅仅关注军事威慑是行不通的。尝试找到一种与中国合作的方式，这是引导世界远离灾难的最佳途径——也许是唯一的途径。
+
+To steer around opposition from right-wing Republicans in the House, Speaker Mike Johnson, Republican of Louisiana, used a convoluted plan to pass it over the weekend.Military funding for Ukraine makes up the largest part of the package, totaling $60.8 billion.The bill closely mirrors the original Senate package, It prioritizes defensive capabilities, providing more than $5 billion to replenish the Iron Dome, David’s Sling and Iron Beam defense systems.
+为了避开众议院右翼共和党人的反对，众议院议长、路易斯安那州共和党人迈克·约翰逊采用了迂回之道，于周末通过了这项法案。向乌克兰提供的军事资金占整个援助计划的大头，总额达到608亿美元。该法案与参议院最初的法案版本基本一致.该法案优先考虑以色列的防御能力，提供逾50亿美元用于补充“铁穹”、“大卫投石索”和“铁光束”等防御系统。
+
+American allies, including France and Germany, have been skeptical about the viability of such a move under international law. They have instead been pushing for a solution that uses the proceeds on the interest from the nearly $300 billion of frozen Russian assets to give to Ukraine directly, either in the form of loans or as collateral to borrow money.
+包括法国和德国在内的美国盟友一直对该举措在国际法下的可行性持怀疑态度。他们一直在推动一项解决方案，利用将近3000亿美元遭到冻结的俄罗斯资产的利息收入直接提供给乌克兰，可以是以贷款的形式或作为借款的担保。
+
+the bill “was crafted in secret, rushed through the House and ultimately passed as part of a larger, must-pass bill exactly because it is a ban that Americans will find objectionable.”He added that it was “sadly ironic that Congress would pass a law trampling 170 million Americans’ right to free expression as part of a package they say is aimed at advancing freedom around the world.”
+该法案“是秘密制定的，匆忙在众议院获得通过，并最终作为一项更大的、必须通过的法案的一部分获得通过，正是因为这是一项美国人会反对的禁令”。他补充说，“具有讽刺意味的是，国会通过一项践踏1.7亿美国人言论自由权的法律，而这是他们说的旨在促进世界各地自由的行动的一部分。”
+
+Speaking to students at the N.Y.U.’s Shanghai campus later that morning, he said the educational exchanges the students were engaged in provided a “ballast” for a complicated and confrontational relationship.But the Biden administration has still been marching toward a more restrictive economic relationship with China.Mr. Biden emphasized that the United States would continue to take necessary actions to prevent advanced American technologies from being used to undermine its own national security, without unduly limiting trade and investment, according to the White House.But the moves have rankled Chinese leaders and pushed tensions over economic measures to their highest point in years.
+当天上午晚些时候，他在纽约大学上海校区对学生们说，学生们参与的教育交流为复杂而充满对抗的关系提供了“压舱石”。但拜登政府仍在寻求更加严厉的对华经济关系。据白宫称，拜登强调，美国将继续采取必要行动，防止美国的先进技术被用来破坏自身国家安全，同时又不会过度限制贸易和投资。但这些举措激怒了中国领导人，并将围绕经济措施的紧张关系推至多年来的最高点。
+
+The drones circled over the caves and crevices scattered around the mountain trails in northern Utah, feeding real-time video back to a search team on the ground looking for a missing hiker. Nineteen minutes later, they had her coordinates, bringing the rescue — a drill — closer to conclusion.
+无人机在犹他州北部山路上散布的洞穴和裂缝上空盘旋，将实时视频传回给地面上寻找失踪徒步旅行者的搜救队。19分钟后，他们得到了她的坐标，这场救援（一场演习）也接近尾声。
+
+The court said the trial’s fairness had been compromised by two key prosecution strategies: the use of Molineux witnesses and the prosecutors’ disclosure that if Mr. Weinstein took the stand in his own defense, they would ask him about dozens of allegations of other crimes and boorish, frightening behavior.Before the trial, during what is known as a Sandoval hearing, Justice Burke said he would let prosecutors question Mr. Weinstein about 28 allegations that included physically attacking his brother, threatening to cut off a colleague’s genitals with gardening shears, throwing a table of food, and screaming and cursing at hotel restaurant staff after they told him the kitchen was closed.“The threat of a cross-examination highlighting these untested allegations undermined defendant’s right to testify,” Judge Rivera wrote. “The remedy for these egregious errors is a new trial.”
+法庭称，检方的两个关键策略破坏了审判的公正性：一是对莫里诺证人的使用，二是检方公开表示，如果韦恩斯坦出庭为自己辩护，他们会就他的其它数十项罪行指控和粗野、骇人的行径向他提问。在庭审前的一次所谓“桑多瓦尔听证”中，伯克大法官说他会允许检方就28项指控向韦恩斯特提问，其中包括对其弟的肢体袭击，威胁要用一把园艺剪剪掉一名同事的生殖器，在酒店餐馆工作人员告知厨房已经下班后，掀翻了一桌子的食物并对工作人员恶语相向。“威胁通过质证强调这些未经验证的陈词，损害了被告人出庭作证的权利，”里维拉写道。“对这些显著错误的纠正应该是一场新的审判。”
+
+The three dissenting judges slammed the majority.Three judges — Madeline Singas, Anthony Cannataro and Michael J. Garcia — dissented in a pair of scathing opinions that accused the majority of continuing “a disturbing trend of overturning juries’ guilty verdicts in cases involving sexual violence.”The case clearly caused tension among the court, evident in a series of back-and-forth statements between the judges, with the majority defending itself against the dissenters’ claims that the ruling weakened the ability of accusers to push their cases through the criminal court system.
+三位异议法官猛烈批评了多数意见。这三位法官——麦德琳·辛加斯、安瑟尼·坎纳塔罗和迈克尔·J·加西亚——用两份措辞严厉的意见书表达了异议，指责多数意见方延续了“在涉性暴力的案件中推翻陪审团有罪裁断的恼人趋势”。本案显然在法庭内造成了紧张的对立，这从法官陈词中的针锋相对就能看出来，多数意见方反驳了异议方的说法，认为该裁决并不会削弱提告者在刑事法庭系统内进行诉讼的能力。
