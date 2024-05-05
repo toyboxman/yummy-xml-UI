@@ -8,8 +8,11 @@ public class Main {
         String banner = new Banner().getBanner();
         System.out.println(banner);
 
-        String prompt = new TraceCLI().prompt();
-        System.out.println(prompt);
+        TraceCLI traceCLI = new TraceCLI();
+        String prompt = traceCLI.prompt();
+//        System.out.println(prompt);
+
+        traceCLI.runCli("--help");
 
         System.out.println("Hello world!");
     }

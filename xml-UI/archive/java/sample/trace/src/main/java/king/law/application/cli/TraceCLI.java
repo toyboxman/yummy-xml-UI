@@ -1,12 +1,15 @@
 package king.law.application.cli;
 
 import io.vertx.core.cli.CLI;
+import io.vertx.core.cli.CommandLine;
 import io.vertx.core.cli.annotations.Argument;
 import io.vertx.core.cli.annotations.CLIConfigurator;
 import io.vertx.core.cli.annotations.Description;
 import io.vertx.core.cli.annotations.Name;
 import io.vertx.core.cli.annotations.Option;
 import io.vertx.core.cli.annotations.Summary;
+
+import java.util.Arrays;
 
 @Name("trace-client")
 @Summary("Trace Client")
@@ -48,6 +51,28 @@ public class TraceCLI {
     public String prompt() {
         CLI cli = CLIConfigurator.define(TraceCLI.class);
         return usage(cli);
+    }
+
+    public void runCli(String ... args) {
+        CLI cli = CLIConfigurator.define(TraceCLI.class);
+        CommandLine commandLine = cli.parse(Arrays.asList(args));
+
+        try {
+            CLIConfigurator.inject(commandLine, TraceCLI.this);
+        } catch (Throwable e) {
+            e.printStackTrace();
+            System.out.println(usage(cli));
+            System.exit(1);
+        }
+
+        if (TraceCLI.this.isHelp()) {
+            System.out.println(usage(cli));
+            System.exit(0);
+        }
+    }
+
+    private boolean isHelp() {
+        return help;
     }
 
     private static String usage(CLI cli) {
