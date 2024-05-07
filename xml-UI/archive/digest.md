@@ -388,7 +388,7 @@
     Ratpack is a simple, capable, toolkit for creating high performance web applications. Ratpack is built on Java and the Netty event-driven networking engine. The API is optimized for Groovy and Java 8.      
 
 #### Architecture
-+ [RDMA](https://mp.weixin.qq.com/s/xTc6y4hlxxvIy2ePYbxf-Q)  
++ [RDMA](https://mp.weixin.qq.com/s/xTc6y4hlxxvIy2ePYbxf-Q)   
     `分布式事务一致性需要降低延迟和长尾抖动，因为这两个因素会影响事务的执行效率和可靠性。延迟指的是完成某个操作所需的时间，而长尾抖动则指的是在长尾分布中出现的波动或变化。在分布式环境中，如果事务执行的延迟过高或者受到长尾抖动的影响，可能会导致事务的执行时间不稳定，甚至出现部分节点的执行速度远远慢于其他节点的情况。这样就会导致一些节点上的事务无法及时完成，从而影响整个系统的一致性和性能。因此，降低延迟和长尾抖动有助于提高分布式事务的可靠性和效率。`   
     `要应对延迟和长尾抖动问题，可以采取以下设计和架构策略： `    
     `分布式架构设计： 采用分布式架构，将系统拆分成多个服务或节点，使得每个节点可以独立执行任务，从而减少单点故障的影响，提高系统的可靠性和容错性。`  
@@ -397,6 +397,7 @@
     `优化网络通信： 优化网络通信协议和传输方式，减少网络传输延迟和抖动。例如，使用高效的通信协议、压缩数据、减少数据传输量等。`  
     `缓存机制： 使用缓存技术存储常用数据，减少对数据库或其他资源的频繁访问，从而降低延迟和提高系统的响应速度。`  
     `水平扩展： 随着系统负载的增加，通过水平扩展增加节点数量，分担负载，提高系统的并发处理能力，从而降低延迟和长尾抖动。`
++ [一套完整的系统架构需要哪些](https://mp.weixin.qq.com/s/0wPSuaR1F7UDw4MLD4PKrg)
 + [企业数字化转型PPT](https://mp.weixin.qq.com/s/j4xV9E7bh-Gc67vsqKJB_Q)
 + [架构设计原则](https://mp.weixin.qq.com/s/ugfaa1hNBGFVERIflRrRyw)  
     `SMART目标/15条规则`

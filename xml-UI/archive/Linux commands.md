@@ -139,7 +139,7 @@
             + [timedatectl 同步时区时间](https://mp.weixin.qq.com/s/jOWjBRPc1zXbMRBF66A5rw)
     - Disk Management
         - [df/du](#dfdu)
-        - [lsof](#lsof)
+        - [lsof/fuser](#lsof)
         - [stat/getfacl/setfacl](#statgetfaclsetfacl)
         - [LVM/vgscan/lvs/pvs/btrfs](#lvm)
         - iotop/iostat/htop/Monit/IPTraf[[1](https://mp.weixin.qq.com/s/EHpb2gtdLHBg5hQtbZg15w), [2](https://mp.weixin.qq.com/s/flTlgzJbmSpUza9OoN6A0g)]    
@@ -659,6 +659,10 @@ lsof -p 123,456
 lsof  -i tcp
 # 3. 查看占用了8080端口的进程信息
 lsof -i :8080
+
+# 列出打开localhost_access_log.txt 的进程号和用户名
+fuser -u /var/log/proton/localhost_access_log.txt
+/var/log/proton/localhost_access_log.txt: 3375220(uproton)
 ```
 
 #### stat/getfacl/setfacl

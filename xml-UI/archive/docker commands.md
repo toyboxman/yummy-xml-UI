@@ -206,6 +206,9 @@ docker commit 10cab gene/kafka:latest
 > [Link](http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/)
 
 #### change docker local image repo
+> [nsenter修改namespace](https://mp.weixin.qq.com/s/efxHl6qS7ivubwl0iv_lRA)  
+    `nsenter是一个功能强大的命令行工具，它允许用户直接进入到一个已经存在的命名空间（namespace）中，并在该命名空间内执行命令。这意味着即使容器内部没有安装特定的诊断工具，我们仍然可以利用宿主机上的工具来执行必要的操作。这一特性使得nsenter成为了云原生环境中不可或缺的诊断工具之一。`  
+
 Caution - These steps depend on your current /var/lib/docker being <br>an actual directory (not a symlink to another location).<br>
 1) Stop docker: service docker stop. Verify no docker process is running ps -ef|grep faux  
 2) Double check docker really isn't running. Take a look at the current docker directory: ls /var/lib/docker/  
