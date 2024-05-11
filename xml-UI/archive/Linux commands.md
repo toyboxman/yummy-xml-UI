@@ -211,7 +211,7 @@ top
 # list two processes
 top -p1846 -p20607
 
-# save top output in file
+# save top output in file， -b -n参数一起使用
 # -b instructs top to operate in batch mode
 # -n specify the amount of iteration the command should output
 top -b -n 1 > top.log
@@ -231,9 +231,12 @@ date; top -p678 -b -n100 > top.log; date
 Mon Feb 17 07:48:26 UTC 2020
 Mon Feb 17 07:53:24 UTC 2020
 
-# redirect loop output
-# 定制top迭代的间隔时间
-for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> cron.txt
+# redirect loop output到usage.txt
+# 定制top迭代的间隔时间2秒 sleep 2
+# tail -1 输出最后一行,省略掉顶部的标题
+# for循环4次，每2秒执行一次top
+# 此处不用-n4 是因为n设定的循环在完成前是不退出top命令的，相当于就是4次结果一次显示，这样用tail -1就无法扒出4次结果，只会输出最后一行
+for i in {1..4}; do sleep 2 && top -b -p 678 -n1 | tail -1 ; done >> usage.txt
 ```
 
 #### watch
@@ -2222,7 +2225,7 @@ ps -ef | grep 'sshd' | wc -l
 ```
 
 ####  expand/unexpand
-[expand](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664614435&idx=3&sn=9155d9cc9f0e401992afe31cf3c096a7) - convert tabs to spaces
+[expand](https://mp.weixin.qq.com/s/vvLhHMyUYNWhUWR2YLrPxA) - convert tabs to spaces
 ```console
 # 默认TAB 的宽度8
 expand tech.txt
@@ -2320,7 +2323,10 @@ spring_boot_starter_web
 # 点号‘.’表示匹配任何字符的pattern， 因此替换 'org.apache.curator'->'org_apache_curator' 需要转义符'\.'
 $ grep -iEn '(artifactId|groupId)' pom.xml | awk -F '[><]' '{print $3}' | sed 's/\./_/g;s/-/_/g'
 
-# 提取打印文件的 88->213行, $表示最后一行, '88,$p'表示88->EOF
+# 读取/提取/截取 指定文件部分，指定行数范围 
+# 获取 pom.xml 88->213行, $p表示最后一行, '88,$p'表示88->EOF
+# 读取88行的内容
+$ sed -n '88p' pom.xml
 $ sed -n '88,213p' pom.xml   
 $ cat pom.xml | sed -n '88,213p' | grep -iEn '(artifactId|groupId)' | awk -F '[><]' '{print $3}' | sed 's/\./_/g;s/-/_/g'
 
@@ -2860,6 +2866,10 @@ strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -c 1,3,6
 MSG
 MSG
 
+# -d (delimiter) 指定分隔符
+# -f (field) 指定分隔后的字段
+$ cut -d '-' -f 1,3 /var/log/sys.log
+
 # 截取 IP
 $ ip a show eth1
 3: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1800 qdisc fq_codel state UP group default qlen 1000
@@ -2874,7 +2884,9 @@ $ ip a show eth1
 $ ip address show eth1 | grep -w inet | cut -d '/' -f 1 | cut -b 10-
 192.168.100.12
 
-# -d "delimiter" 指定分隔符
+# -d "delimiter" 指定分隔符 
+# 对于空格进行分割的域，不能设置多个空格，因为cut命令只允许间隔符是一个字符,因而多个空格用cut会间隔切出空白返回
+# 如果希望识别多空格分割，可以用awk命令 awk -F ' ' '{print $1,$2}' 逗号会在输出中加入一个空格，否则二者会混在一起
 # -f (field) 按分隔后的字段截取内容 
 # -f 1指定split出的数组第一个，-f 2指定split出的数组第二个
 strings /var/log/journal/a084/user-1000.journal|grep -i message|cut -d "=" -f 2
