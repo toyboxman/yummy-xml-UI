@@ -2670,12 +2670,24 @@ file:/opt/controller/log4j-controller.properties -server -Xmx4096m
   `Ctrl-E 光标会跳到行末`<br>
   `Ctrl-U 删除该行中光标之前的所有内容`
 ```console
+# 默认IFS是空格，因此把分割后3个值读入变量topic
 read -a topic <<< "1 2 3";echo $topic
 1
 read -a topic <<< "1 2 3";echo $topic[1]
 1[1]
-read -a topic <<< "1 2 3";echo $topic[2]
-1[2]
+read -a topic <<< "1 2 3";echo $topic*
+1*
+# 需要用大括号才能正确读取数组值
+read -a topic <<< "1 2 3";echo ${topic[2]} ${topic[1]}
+3 2
+read -a topic <<< "1 2 3 4";echo ${topic[@]}
+1 2 3 4
+# 打印数组的所有元素
+read -a topic <<< "1 2 3";echo "Array elements: ${topic[@]}"
+Array elements: 1 2 3
+# 获取数组的长度 ${#var} 可计算出变量值的长度
+read -a topic <<< "1 2 3";length=${#topic[@]};echo "Array length: $length"
+Array length: 3
 
 # read 命令可用于获取用户的输入，并将其存储在变量中
 #!/usr/bin/env bash

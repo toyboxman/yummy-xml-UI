@@ -16,7 +16,7 @@
 - [数值比较](#数值比较)
 - [IFS](#ifs)
 - [IF](#if-控制流)
-- [LOOP](#loop-控制流)
+- [LOOP/while/util/select](#loop-控制流)
 - [Logical](#logical-条件)
 - [SET](http://www.ruanyifeng.com/blog/2017/11/bash-set.html)  
 	`用来修改Shell环境的运行参数,一共有十几个参数可以定制,如-e Bash的错误处理`
@@ -154,7 +154,7 @@
 ### IFS
 IFS stands for "internal field separator". It is used by the shell to determine how to do word splitting, 
 i. e. how to recognize word boundaries. The default value for IFS consists of whitespace 
-characters (to be precise: space, tab and newline) Now, the shell splits mystring into words as well
+characters (to be precise space, tab and newline) Now, the shell splits mystring into words as well
 ```sh
 #!/usr/bin/sh
 mystring="foo:bar baz rab"
@@ -169,7 +169,7 @@ Word: rab
 But now, it can only treats a colon as the word boundary. because the first character of IFS is special: 
 It is used to delimit words in the output when using the special $* variable (example taken from the 
 Advanced Bash Scripting Guide, where you can also find more information on special 
-variables like that one):
+variables like that one): 第一个字符才会被认为是分隔符，$*显示全部变量，$1就显示第一个变量 w
 ```sh
 $ bash -c 'set w x y z; IFS=":-;"; echo "$*"'
 w:x:y:z
@@ -331,6 +331,7 @@ echo $(( a + b * c))
 - eval命令
 ```sh
 # 执行命令将结果赋给变量,注意命令不是单引号(' ')包括, 而是`｀号(～按键)
+# eval方式命令返回值如果有空格，换行，赋值会失败；相对来说下面一种方式适用更广
 eval A=`whoami` 
 ```
 - 直接赋值
@@ -352,7 +353,7 @@ kill -9 $eclipse_pid
 
 ### ()括号 (())双括号 []中括号 [[]]双中括号
 > [方括号使用](https://mp.weixin.qq.com/s/OLe0QKzivwi9fxMZRe8kog)    
->[花括号使用](https://linux.cn/article-10624-1.html)    
+> [花括号使用](https://linux.cn/article-10624-1.html)    
 > [括号区别](http://www.linfengyushu.com/269.html/)   
 > [括号中比较](http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash)  
 <br>
@@ -455,6 +456,13 @@ str1 != str2
 # -n 字符串不为"null"
 # 使用-n在[]结构中测试必须要用""把变量引起来
 -n str1
+# 如果第二个参数不为空，则使用第二个参数作为branch
+# 如果第二个参数为空，则使用默认branch
+branch="magnus"
+
+if [ -n "$1" ]; then
+    branch="$1"
+fi
 
 # 当串的长度为0时为真(空串)
 # -z 字符串为"null" 就是长度为0
@@ -501,6 +509,16 @@ elif ....; then
 else
 ....
 fi
+
+# case 控制流
+case "variable" in
+"pattern1" )
+Command … ;;
+"pattern2" )
+Command … ;;
+"pattern2" )
+Command … ;;
+esac
 
 
 #!/bin/sh
@@ -554,7 +572,7 @@ echo "********************************"
 ### LOOP 控制流
 + [for, while and until](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)   
 + Bash For Loop Examples[[1](https://www.cyberciti.biz/faq/bash-for-loop/), [2](https://www.garron.me/en/articles/bash-for-loop-examples.html)]
-+ 循环[[1](https://mp.weixin.qq.com/s/8ovegZAD2BPPApptEW5B8g), [2](https://mp.weixin.qq.com/s/n_mEWCrjTHU-k7kOMpjg1Q), [3](https://mp.weixin.qq.com/s/Y5-0PfkJJj7A-bhLHv4mEw)]
++ 循环[[1](https://mp.weixin.qq.com/s/8ovegZAD2BPPApptEW5B8g), [2](https://mp.weixin.qq.com/s/n_mEWCrjTHU-k7kOMpjg1Q), [3](https://mp.weixin.qq.com/s/Y5-0PfkJJj7A-bhLHv4mEw), [4](https://mp.weixin.qq.com/s/gg5675bWSikpplW1MzrTfw)]
 ```sh
 for i in {1..5}
 do
