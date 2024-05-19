@@ -621,6 +621,78 @@ until [  $COUNTER -lt 10 ]; do
     echo COUNTER $COUNTER
     let COUNTER-=1
 done
+
+#!/usr/bin/bash
+# Ubuntu默认dash 提示Syntax error: redirection unexpected 
+# bash不会出现错误 执行 read -a array <<< $branchList
+branchList=`git branch | cut -b 3- | xargs`
+
+# 设置 IFS 为空格（默认已经是空格）
+IFS=' ' read -a array <<< $branchList
+
+# # 打印数组的内容
+# for element in "${array[@]}"; do
+#     echo "$element"
+# done
+#
+# select the branch to build: 
+# 1) antrea-ufo
+# 2) bug
+# 3) canary
+# 4) ccp
+# 5) magnus
+# 6) master
+# 7) pktcap
+# #? 5
+#
+# your choose is magnus
+#
+echo "select the branch to build: "
+select branch in ${array[@]}
+do
+    if [ -n "$branch" ]; then
+        echo
+        echo "your choose is $branch"
+        echo
+        break # 跳出select,否则是死循环
+    fi
+    echo
+    echo "invalid choice!" 
+    echo
+done
+
+# 如果第二个参数不为空，则使用第二个参数作为branch
+# 如果第二个参数为空，则使用默认branch
+if [ -n "$1" ]; then
+    branch="$1"
+fi
+
+reset_point="3213ca1ae0b0"
+case "$branch" in
+    "magnus")
+        reset_point="3213ca1ae0b0"
+        ;;
+    "pktcap")
+        reset_point="4d676a8a13b"
+        ;;        
+    *)
+        echo "branch $branch is not set commit-id"
+        exit 1
+        ;;
+esac
+
+echo "start to sync latest change from branch $branch at $reset_point..."
+
+current_branch=`git branch --show-current`
+if [ "$branch" != "$current_branch" ]; then
+    git checkout $branch
+fi
+
+# echo "calculate patch number..."
+# patch_num=`git rev-list $reset_point..@ --count`
+echo "format-patch..."
+patch="antrea.patch"
+git format-patch $reset_point..HEAD $branch --stdout > $patch
 ```
 还可以传入循环参数
 ```sh
