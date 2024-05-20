@@ -693,6 +693,33 @@ fi
 echo "format-patch..."
 patch="antrea.patch"
 git format-patch $reset_point..HEAD $branch --stdout > $patch
+
+# 某些 git branch命令在脚本中执行返回结果跟命令行不一致，有些多余的信息
+# 而且多行的结果赋值给脚本中var后缩进成一行，因此直接从git repo中扫描匹配串更准确
+remote_branch=`ssh $remote_server "grep -w $branch $remote_home/.git/config"`
+# 如果扫描不到对应的远端branch
+if [ -z "$remote_branch" ]; then
+    echo
+    echo "$branch doesn't exist in remote, recreate it"
+    echo
+    orign_branch=`grep -w -A3 $branch .git/config`
+    echo
+    echo $orign_branch
+    # ##-从右边开始，/-遇到第一个/字符，*-删除其左边全部，保留右边部分字符
+    ob=${orign_branch##*/}
+    # #-从左边开始，=-遇到第一个=字符，*-删除其左边全部，保留右边部分字符
+    oh=${orign_branch#*=}
+    # echo $oh
+    # %-从左边开始，" "-遇到第一个space字符，*-删除其右边全部，保留左边部分字符
+    oh=${oh%"merge"*}
+    orign_branch=`echo $oh"/"$ob | sed 's/ //g'`
+    echo $orign_branch
+    # 截取字符串 https://mp.weixin.qq.com/s/FcbWSGJBDaes706NgWlFEQ
+    ssh $remote_server "cd $remote_home;git checkout -b $branch $orign_branch;git pull"
+fi
+
+ssh $remote_server "cd $remote_home;git checkout $branch"
+ssh $remote_server "cd $remote_home;git reset --hard $reset_point;git am $patch"
 ```
 还可以传入循环参数
 ```sh
