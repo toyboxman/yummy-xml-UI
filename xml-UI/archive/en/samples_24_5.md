@@ -117,3 +117,33 @@ Vladimir Putin’s trip to Beijing this week, where he will meet with Xi Jinping
 
 In his dystopian novel “Day of the Oprichnik,” Vladimir Sorokin describes a deeply anti-Western Russia of 2028 that survives on Chinese technology while cosplaying the medieval brutality of Ivan the Terrible’s era. With every passing day, this unsettling and foresighted novel — published in 2006 as a warning to Russia about the direction of travel under Mr. Putin — reads more and more like the news.
 弗拉基米尔·索罗金在他的反乌托邦小说《骑兵横行的日子》(Day of the Oprichnik)中描述了2028年一个极度反西方的俄罗斯，它依靠中国技术生存，同时又在上演“恐怖的伊凡”时代的中世纪暴行。随着一天天的过去，这部令人不安且富有远见的小说（出版于2006年，旨在警示俄罗斯在普京的领导下会走向何方）读起来越来越像新闻。
+
+Mr. Putin’s tour of the institute was steeped in symbolism. The 103-year-old institution recently opened a joint campus with St. Petersburg State University, Mr. Putin’s alma mater. And in something of a snub to Washington, the school belongs on the United States’ so-called entity list, barring it from accessing American technology and taking part in educational exchanges because of its links to the People’s Liberation Army.
+普京对哈工大的访问充满了象征意义。这所建校已103年的大学最近与普京的母校圣彼得堡国立大学一起设立了一个联合校区。而且，这在某种程度上是对华盛顿的一种冷落，因为该校由于跟中国人民解放军的关系，被美国列入所谓的实体名单，不得获取美国技术、参与美国的教育交流。
+
+Russian forces are making advances around Kharkiv, Ukraine’s second-largest city, seizing momentum before Ukrainian forces can be resupplied by billions of dollars in arms from the United States. Both Ukrainian and U.S. officials have warned of dire consequences if Ukrainian forces continue to be outmanned and outgunned.
+俄罗斯军队正在向乌克兰第二大城市哈尔科夫推进，希望赶在乌克兰军队从美国获得数十亿美元的武器补给之前抢占先机。乌克兰和美国官员都警告，如果乌克兰军队继续在兵力和武器方面处于劣势，后果将不堪设想。
+
+In a housing crisis that shows no end, the Chinese government is stepping in as a buyer of last resort.Chinese officials on Friday took their boldest step yet, unveiling a nationwide plan to buy up some of the vast housing stock languishing on the market. They also loosened rules for mortgages. The central bank said it would provide $41.5 billion in cheap loans to help state-owned enterprises buy housing built but not sold.Addressing officials on Friday, Mr. He said they had to “fight the tough battle” of dealing with all the unfinished property around the country, according to an official account from the Chinese state media outlet Xinhua.
+在这场看不到尽头的房地产危机中，中国政府正以最后买家的身份介入。上周五，中国官员迈出了迄今为止最大胆的一步，公布了一项全国性计划，收购市场上大量闲置的部分住房。他们还放宽了抵押贷款的规定。中国央行表示，将提供3000亿元的低息贷款，帮助国有企业购买已建成但尚未出售的住房。据中国官方媒体新华社的官方报道，何立峰在周五对官员发表讲话时表示，必须打好“攻坚战”，处理全国各地所有未完工的房地产。
+
+As it is in the United States, TikTok is popular in Taiwan, used by a quarter of the island’s 23 million residents.People post videos of themselves shopping for trendy clothes, dressing up as video game characters and playing pranks on their roommates. Influencers share their choreographed dances and debate whether the sticky rice dumplings are better in Taiwan’s north or south.
+和在美国一样，TikTok在台湾很受欢迎，岛上2300万居民中有四分之一在使用它。人们发布自己购买时尚服装、打扮成游戏角色、捉弄室友的视频。网红们分享精心编排的舞蹈，讨论台湾北部和南部的粽子哪个更好吃。
+
+“The old consensus has been blown apart, and a new one has not arisen,” said David Autor, an economist at the Massachusetts Institute of Technology who helped lead the pioneering research into what has come to be known as the China Shock of the early 2000s, when China’s acceptance into the World Trade Organization helped wipe out manufacturing jobs across the developed world.
+“旧的共识被打破了，新的共识还没有形成，”麻省理工学院经济学家戴维·奥托说。他参与主持了对本世纪初所谓“中国冲击”的开创性研究，当时中国加入世界贸易组织，导致发达国家的制造业就业岗位大量流失。
+
+But consumers and voters, Mr. Autor cautioned, “can’t have it both ways. You can make a trade-off. All the world is trade-offs. If you want to get to the point where the U.S. maintains and regains leadership in these technological areas, you’re going to have to pay more. And it’s not clear it’ll work.”“There’s a group of people who think that consumption is the end,” Mr. Lighthizer said. “And my view is production is the end, and safe and happy communities are the end. You should be willing to pay a price for that.”
+但奥托警告说，消费者和选民“不可能两全其美”。“你要做出取舍。整个世界都在做取舍。如果你想让美国在这些技术领域保持并且重新获得领导地位，你就必须付出更多。即便这样也不见得一定能成。”“有些人认为消费就是目的，”莱特希泽说。“我的观点是，生产才是目的，安全和幸福的社区才是目的。你应该愿意为此付出代价。”
+
+Welcome to a flourishing genre on Chinese social media: A.I.-manipulated videos that use young, purportedly Russian, women to rally support for China-Russia ties, stoke patriotic fervor or make money — and sometimes all three at once.“This representation of young white women in sexually objectified ways is a typical trope of gendered nationalism, or nationalistic sexism,” Professor Zhang wrote in an email. “Viewers can get both their nationalistic and masculine pride reaffirmed in consuming this content.”
+欢迎观看这个中国社交媒体上风生水起的类型：以据称是俄罗斯年轻女性为主角的人工智能伪造视频，它们被用来争取对中俄关系的支持，激发爱国热情或是赚钱——有时三者兼而有之。“以性物化的方式呈现年轻白人女性是性别民族主义或民族主义性别歧视的典型表现，”张晨晨在一封电子邮件中写道。“观众可以在消费这些内容的过程中坚定自己的民族主义和男性自豪感。”
+
+The levels of sophistication vary. Some of the fake women appear entirely computer generated, move stiffly and look like glorified Sims. Some, like those featuring Ms. Loiek’s likeness, are very good. He followed orders and expressed his deep remorse in a public apology. “I feel regretful because I have let down the guidance and expectations of the supervisory authorities all along,” he wrote.The path is narrowing, and the slope is getting steeper
+这些视频的复杂程度各不相同。一些假女人看起来完全是电脑生成的，动作僵硬，也就比《模拟人生》游戏人物强些。有些则非常出色，比如以洛伊克为原型篡改的视频。他照办了，并在一份公开道歉中表示了自责和内疚。“自责是因为辜负了主管部门一直以来的指导和期待，”他写道。道路越来越窄，坡度越来越陡
+
+Countless travelers have experienced the distinct anxiety-inducing sensation of turbulence on flights: Eyes squeezed shut, hands clamped to the armrests for dear life, bracing for the roller coaster to come.It can be intense and cause injuries during flights. 
+无数旅客经历过飞机遭遇湍流时的焦虑：双眼紧闭，双手死死抓住扶手，准备迎接过山车的到来。湍流可能会很强烈，并在飞行中造成伤害。
+
+“An investigation is ongoing into the death, which is currently being treated as unexplained,” the police said in a statement, adding that “a post-mortem will be conducted in due course.”
+“目前正在对这起死因不明事件进行调查，”警方在声明中表示。警方还称，“将在适当的时候进行尸检。”
