@@ -212,6 +212,7 @@ top
 top -p1846 -p20607
 
 # save top output in file， -b -n参数一起使用
+# 非batch模式下，top会一直运行，输出到文件中都是binary data
 # -b instructs top to operate in batch mode
 # -n specify the amount of iteration the command should output
 top -b -n 1 > top.log
