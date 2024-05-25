@@ -147,3 +147,33 @@ Countless travelers have experienced the distinct anxiety-inducing sensation of 
 
 “An investigation is ongoing into the death, which is currently being treated as unexplained,” the police said in a statement, adding that “a post-mortem will be conducted in due course.”
 “目前正在对这起死因不明事件进行调查，”警方在声明中表示。警方还称，“将在适当的时候进行尸检。”
+
+Wang Yi, China’s top foreign policy official, said this week: “The ugly acts of Lai Ching-te and others who betray the nation and their ancestors is disgraceful,” according to China’s Foreign Ministry. “All Taiwan independence separatists will be nailed to the pillar of shame in history.”
+据中国外交部称，中国最高外交政策官员王毅本周表示，“赖清德之流背叛民族和祖先的丑行令人不齿”，“所有‘台独’分裂分子都将被钉在历史的耻辱柱上。”
+
+The scale of China’s real estate boom was breathtaking. The extent of its unrelenting bust, which began nearly four years ago, remains vast and unclear.Few experts believe that Beijing can transition to more sustainable growth without confronting all those empty apartments and the developers that overextended to build them. All told, trillions of dollars are owed to builders, painters, real estate agents, small companies and banks around the country.
+曾经，中国房地产繁荣的规模令人惊叹。近四年前持续萧条开始出现，其规模之大且具体情况仍不明晰。专家们普遍认为，若不解决所有这些空置公寓以及开发商过度扩张等问题，北京就无法过渡到更可持续的增长。全国各地的建筑商、油漆工、房地产中介、小公司和银行总共被拖欠了数万亿美元。
+
+It was the first test of Beijing’s determination to wean China’s economy off its decades-long dependence on building and construction to sustain the economy.By the time a judge ordered the company to be liquidated five months ago, Evergrande had effectively ceased being a viable business.China’s top leaders are instead refocusing the lens to address the millions of apartments that no one wants to buy, pledging to turn them into social housing at lower rents. 
+对于北京让中国经济摆脱几十年来对建筑和建造业依赖的决心，这是首次考验。到5个月前法官下令对恒大进行清算时，恒大实际上已不再是一家有生存能力的企业。相反，中国高层领导人正在重新调整视角，解决数以百万计无人想买的住房，承诺将这些住房改成租金更低的保障性住房。
+
+Policymakers pulled other levers. They made their biggest cut ever to mortgage rates. They tried pilot programs to get residents to trade in old apartments and buy new ones. They even offered cheap loans to some cities to test out the idea of buying unsold apartments.The task, he added, was a daunting one that required “more patience when awaiting more draconian measures.”
+政策制定者还动用了其他手段。他们对抵押贷款利率进行了有史以来最大幅度的下调。他们尝试了一些试点项目，让居民以旧换新。他们甚至向一些城市提供低息贷款，以测试购买未售出公寓的想法。他补充说，这是一项艰巨的任务，需要“在等待更严厉的措施时有更多耐心”。
+
+But since Trump’s election in 2016, chastened Democratic policymakers have come to see green industrial policy as a kind of one-size-fits-all, policy-and-politics tool — a recipe for addressing the climate crisis, yes, but also for the postindustrial “secular stagnation” of the U.S. economy, for the domestic manufacturing decline, for white working-class resentment and for the geopolitical challenge posed by China.Trade protectionism is now perhaps the closest thing we have to a bipartisan consensus in Washington, but sometimes all those goals sit at cross purposes. 
+但自从特朗普2016年当选总统以来，经历挫败后想有所改进的民主党政策制定者们已开始将绿色产业政策视为一种通用的政策和政治工具，它不仅是解决气候危机的办法，也是解决美国经济在后工业化时代“长期停滞”、国内制造业衰退、白人工人阶级不满，以及中国带来的地缘政治挑战等诸多问题的办法。贸易保护主义现在可能是我们在华盛顿看到的最接近两党共识的东西，但所有这些目标有时是相互矛盾的。
+
+A few weeks ago, the electric-vehicle analyst Kevin Williams took a trip to Beijing to take the measure of the competition. Williams had gone to the city’s big annual automotive show to test one American perspective on China’s E.V. boom — that it was something between a state-sponsored boondoggle and a mirage of pointless overproduction.
+几周前，电动汽车行业的分析师凯文·威廉姆斯为了摸清竞争对手的底细访问了北京。威廉姆斯参观了一年一度的北京车展，以验证一个美国对中国电动汽车行业繁荣的看法——这种看法曾介于那是国家支持的毫无意义的工作和无目标的过度生产幻象之间。
+
+Mr. Musk has helped turn the pugnacious libertarian into one of the new faces of the modern right. But offline, he has used the relationship to press for benefits to his other businesses, the electric carmaker Tesla and the rocket company SpaceX.Mr. Milei is part of a pattern by Mr. Musk of fostering relationships with a constellation of right-wing heads of state, with clear beneficiaries: his companies and himself.
+马斯克帮助这位好斗的自由主义者变成了现代右翼的新招牌之一。但在线下，他利用这种关系为他的其他企业——电动汽车制造商特斯拉和火箭公司SpaceX——谋取利益 米莱是马斯克与一群右翼国家元首建立关系的一种模式的一部分，这种模式的受益者显然是他的公司和他自己。
+
+“We know that the czarist regimes, for instance, kept tabs on Russian dissidents in Paris.”The Russian secret police even staged provocations in Paris to make dissidents seem dangerous and persuade French authorities to crack down on them. “The most notorious provocation occurred in Paris in 1890, when Arkadiy Harting (a.k.a. Abraham Gekel’man or Landezen) organized a well-armed team of bombthrowers and then betrayed them to the Paris police,” the C.I.A. historian Ben B. Fisher wrote in a 1996 analysis of the Paris operation.
+“比如说，我们知道，沙皇政权密切关注身在巴黎的俄国异见人士。”沙俄的秘密警察甚至在巴黎挑事，令持不同政见者看起来很危险，并说服法国当局对他们进行镇压。“最臭名昭著的挑衅发生在1890年的巴黎，当时阿尔卡季·哈廷（又名亚伯拉罕·盖科尔曼或兰德岑）组建了一支装备精良的投弹手团队，然后向巴黎警方告发他们，”中央情报局的历史学家本·费舍尔在1996年对巴黎行动的分析中写道。
+
+Ms. Shanahan, 38, a onetime Silicon Valley lawyer, has never held public office and has scant name recognition. But she was selected after Mr. Rodgers and Mr. Ventura fell through as vice-presidential candidates and Mr. Kennedy’s campaign needed money to fund its efforts to get onto state ballots, three people familiar with the events said. And money was something that Ms. Shanahan could provide in abundance.Status is very important to Nicole, and the amount of money you have.Her remark drew laughter from the crowd.
+38岁的沙纳汉曾是硅谷律师，从未担任公职，知名度也很低。但据三位知情人士透露，她是在罗杰斯和文图拉落选副总统候选人后，肯尼迪的竞选团队为进入州选举而需要资金之时被选中的。资金是沙纳汉可以大量提供的东西。地位对妮可来说非常重要，还有就是你有多少钱.她的话令人群发出笑声。
+
+Ms. Shanahan is “exactly the right person,” Mr. Kennedy said when he announced her as his running mate in March. He called her a “fierce warrior mom” who “overcame every daunting obstacle and went on to achieve the highest levels of the American dream.”On the campaign trail, Ms. Shanahan, who grew up in Oakland, Calif., has said she knew what it was like to be “one misfortune away from disaster. ”At a party in early 2021 in Miami, Ms. Shanahan was so intoxicated by drugs and alcohol that she required an IV infusion, the documents show.
+沙纳汉“是最合适的人选”，肯尼迪在今年3月宣布她为竞选伙伴时说。他称她为“勇猛善战的母亲”，她“克服了所有令人生畏的障碍，最终实现了美国梦的最高境界”。竞选活动中，在加州奥克兰长大的沙纳汉曾表示，她知道“离灾难只有一步之遥的不幸”是什么感觉。文件显示，2021年初在迈阿密举行的一次派对上，沙纳汉因吸毒和酗酒导致严重的中毒反应，需要静脉输液。
