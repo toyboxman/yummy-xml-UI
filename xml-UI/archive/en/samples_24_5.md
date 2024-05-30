@@ -177,3 +177,30 @@ Ms. Shanahan, 38, a onetime Silicon Valley lawyer, has never held public office 
 
 Ms. Shanahan is “exactly the right person,” Mr. Kennedy said when he announced her as his running mate in March. He called her a “fierce warrior mom” who “overcame every daunting obstacle and went on to achieve the highest levels of the American dream.”On the campaign trail, Ms. Shanahan, who grew up in Oakland, Calif., has said she knew what it was like to be “one misfortune away from disaster. ”At a party in early 2021 in Miami, Ms. Shanahan was so intoxicated by drugs and alcohol that she required an IV infusion, the documents show.
 沙纳汉“是最合适的人选”，肯尼迪在今年3月宣布她为竞选伙伴时说。他称她为“勇猛善战的母亲”，她“克服了所有令人生畏的障碍，最终实现了美国梦的最高境界”。竞选活动中，在加州奥克兰长大的沙纳汉曾表示，她知道“离灾难只有一步之遥的不幸”是什么感觉。文件显示，2021年初在迈阿密举行的一次派对上，沙纳汉因吸毒和酗酒导致严重的中毒反应，需要静脉输液。
+
+In the 1990s, Japan offered homeowners groundbreaking subsidies to install photovoltaic panels. And in the 2000s, Germany developed an innovative program that guaranteed consumers who adopted a solar energy system that they would sell their electricity at a profit.But no country has come close to matching the scale and tenacity of China’s support. Now the United States, Europe and other wealthy nations are trying frantically to catch up.
+日本曾在20世纪90年代为房主安装光伏电池板提供开创性的补贴。德国在21世纪的头十年开启了一个创新项目，确保采用太阳能系统的消费者能出售他们不需要的电力，并从中获利。但没有一个国家达到了中国支持替代能源的规模和力度。现在，美国、欧洲和其他富裕国家正在试图拼命赶上。
+
+China’s unrivaled production of solar panels and electric vehicles is built on an earlier cultivation of the chemical, steel, battery and electronics industries, as well as large investments in rail lines, ports and highways.Except for certain security-related industries, the United States adopted the view that an unfettered market always knows best.
+中国无可匹敌的太阳能电池板和电动汽车的生产建立在这个国家早期对化工、钢铁、电池和电子等行业的扶持，以及对铁路、港口和高速公路的大量投资基础上。除了某些与国家安全相关的行业外，美国曾采取的观点是，不受约束的市场总是最了解情况的。
+
+Wall Street banks have cut jobs or demoted employees who were once money spinners for Chinese companies raising cash in the stock market. American pension funds have started skipping Hong Kong, once an obvious destination for billions of dollars of investment.
+华尔街银行已裁掉或降职了一些员工，那些员工为中国企业在股市筹资起过摇钱树作用。美国的养老基金已开始避开香港，那里曾是数十亿投资理所当然的目的地。
+
+The town had entered party lore in the 1960s, after Mao exhorted the Chinese people to confront “class enemies,” such as landlords or rich farmers. In the official telling, Fengqiao residents at first clamored for the police to make arrests. But local party leaders instead urged the residents themselves to identify and “re-educate” the enemies.
+20世纪60年代，在毛主席号召人民群众与地主、富农等“阶级敌人”展开直接斗争，这个小镇由此成为党的历史传述的一部分。根据官方说法，枫桥的民众起初要求警察将他们抓起来。但当地党的领导人却敦促人民群众自己辨别并“改造”敌人。
+
+“We are making progress in our discussions on potential avenues to bring forward the extraordinary profits stemming from immobilized Russian sovereign assets to the benefit of Ukraine,” the statement said.The U.S. has been pushing for a harder approach to dealing with Russia’s assets and China’s exports, while European countries have been treading more cautiously as they navigate their internal divisions.
+“我们正在就可能的途径进行讨论，使冻结的俄罗斯主权资产所产生的巨额利润惠及乌克兰，这一讨论正在取得进展，”声明写道。美国一直在推动对俄罗斯的资产和中国的出口采取更强硬的措施，而欧洲国家则在处理内部分歧时更为谨慎。
+
+Opposition politicians have accused Mr. Lai’s party of trying to hide possible corruption and mismanagement and whipping up unfounded public fears about interference from Beijing. They have also noted that the Democratic Progressive Party, when it was the opposition, supported proposals to give the legislature more oversight.
+反对派指责赖清德的政党试图掩盖可能存在的腐败和管理不善，并煽动公众对北京干涉的无端恐惧。他们还指出，民进党过去在野时期也是支持赋予立法机构更多监督提议的。
+
+Six decades ago, when Singapore was emerging as an independent nation, it was one of the poorest cities in Southeast Asia. Three out of four residents lived in overcrowded and filthy slums. The ramshackle houses had tin walls and were known as squatters.Today, Singapore is a wealthy, modern city where roughly half of its 6 million people live in well-constructed high-rise apartments that were built by the government. These subsidized apartments are typically bright and airy, and defy most perceptions of public housing projects. Most are effectively owned by their occupants, a testament to their affordability.
+60年前刚刚成为一个独立国家时，新加坡是东南亚最贫穷的城市之一。当时四分之三的居民居住在过度拥挤和肮脏的贫民窟中。那些破烂的铁皮房子被称为“占屋”。如今，新加坡是一座富裕的现代化城市，600万人口中约有一半居住在政府建造的优质高层公寓中。与大多数人对公共住房项目的印象完全不同，这些受到补贴的公寓通常光线明亮、通风良好。这些公寓大多数实际上都是由居住者拥有，表明了这些房屋价格的可承受程度。
+
+Many owners are very proud of their homes, the insides of which are regularly featured in interior design magazines in Singapore.The apartments run along a wide corridor that is split into six to eight units, to encourage conversation among neighbors. On the ground floor of each block is a “void deck,” an open space where children can play tag and residents can interact with their neighbors.The grounds are clean and well maintained, and older estates are regularly given facelifts. “This is why, unlike public housing projects elsewhere in the world, our H.D.B. estates never turn into slums or ghettos,”
+许多业主对自己的房屋感到非常自豪，其内部装饰经常出现在新加坡的室内设计杂志上。这些公寓分别在宽阔的走廊两侧，大约有六到八个单位，旨在鼓励邻居之间的交谈。每个街区的底层都有一个“空层”，这是一个开放空间，孩子们可以在这里玩捉迷藏，居民可以与邻居互动。这些场地往往十分干净且维护良好，较旧的大楼定期会进行整修。“这就是为什么与世界其他地方的公共住房项目不同，我们的组屋永远不会变成贫民区或贫民窟，”
+
+In 1989, the government enacted a policy requiring each block or neighborhood to have a minimum quota of each of the main ethnic groups in the city — Chinese, Malay and Indian — to prevent the formation of racial enclaves.Tharman Shanmugaratnam, the current president, said in 2015 that “the natural workings of society” would have led to “mistrust, discomfort, bigotry and what we see in abundance in many countries in the world today.”He added: “The most intrusive social policy in Singapore has turned out to be the most important.”
+1989年，政府颁布了一项政策，要求每个街区或社区对城市中的所有主要族群——华人、马来人和印度人——都有最低配额，以防止形成种族聚居地。现任总统尚达曼在2015年表示，“社会的自然运行”会导致“不信任、不安、偏执，以及我们今天在世界上许多国家看到的诸多现象”。“在新加坡，最具干涉性的社会政策，结果却成了最重要的政策，”他还说。
