@@ -1121,12 +1121,17 @@ $ find /home -user king -exec file {} \;
 $ find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
 Archive:  ./commons-compress-1.8.1.jar
 3352  2014-05-09 20:45   org/apache/commons/compress/utils/ClassUtils.class
+# 如果lib太多造成显示archive刷屏，可以再加一个grep来过滤
+$ find . -name "*.jar" -exec unzip -l {} \; | grep -iE 'ClassUtils.class|archive:' | grep -B1 ClassUtils.class
+
 # 通过grep命令直接搜寻压缩包内部文件名 ‘-l’参数仅输出匹配到的文件名
 # 这种方式不解压无法像上面一条命令显示完整package结构
 $ find . -name "*.jar" -exec grep -il "ClassUtils.class" {} \;
 ./commons-compress-1.8.1.jar
 
 # 解压lib目录下所有jar包文件中class文件，不提示覆盖选择，不输出处理文件列表 {}表示find传入参数
+# -o 解压时候覆盖文件时不要提示 批处理解压时候避免手动介入
+# -qq 解压时候不输出文件列表 批处理时候可以加快处理速度
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o -qq {} "*.class" \;
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o {} "*.class" > /dev/null \;
 
