@@ -1081,6 +1081,7 @@ $ find . -type d -empty
 $ find . -type d -name classes -empty
 
 # 查找文件并返回全路径结果
+# 如果用 ./ 表示当前目录，返回结果就不是全路径，只返回 ./ 开头路径
 $ find $PWD -type f -name *.xml
 $ find $(pwd) -type f -name *.xml
 /home/king/source/pom.xml
@@ -1119,6 +1120,8 @@ $ find /home -user king -exec file {} \;
 
 # 检查当前目录下哪个jar文件包含ClassUtils.class
 $ find . -name "*.jar" -exec unzip -l {} \; | grep -iE '(ClassUtils.class|archive:)'
+# grep默认 . 代表任何一个字符，.* 表示匹配任意个字符 如下写法也可以返回相同结果
+$ find . -name "*.jar" -exec unzip -l {} \; | grep -iE 'org.apache.commons.compress.utils.ClassUtils|archive:'
 Archive:  ./commons-compress-1.8.1.jar
 3352  2014-05-09 20:45   org/apache/commons/compress/utils/ClassUtils.class
 # 如果lib太多造成显示archive刷屏，可以再加一个grep来过滤
