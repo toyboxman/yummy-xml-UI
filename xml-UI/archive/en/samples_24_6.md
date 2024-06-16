@@ -90,3 +90,67 @@ That will add to the headache for the Conservative Party, which has lagged the o
 
 South Africans flock to cities looking for work. But many end up in decrepit buildings and slapdash shack communities, often without running water or sanitary toilets. Regular power outages leave streets dark and residents of many communities vulnerable to crime.
 南非人涌向城市寻找工作。但许多人最终住进了破旧的房屋和简陋的棚户区，往往没有自来水和卫生厕所。经常停电，街道一片黑暗，许多社区的居民易受犯罪的侵害。
+
+As Americans gear up to greet pandas once again, we should remember that our infatuation with these animals requires a commitment to treating them with reverence and solicitude — because their presence improves us, and the planet, in ways that transcend the sheer joy of observing them.
+当美国人再次准备迎接大熊猫时，我们应该记住，我们对这些动物的迷恋需要我们承诺以崇敬和关怀的态度去对待它们——因为它们的存在为我们和地球带来了好处，远不止观察它们所带来的纯粹欢乐。
+
+As the great field biologist George Schaller wrote, these bears with a meat eater’s digestive system and the diet of a vegetarian are “as improbable as a carnivorous cow.” Unlike any other bear’s, their pupils are vertical, like a cat’s. And their method of mating in captivity seems anything but, well, productive. When they do conceive, their babies are born vulnerable and tiny, comparable in size to a stick of butter. (Case in point: One of the National Zoo’s most famous former resident pandas was nicknamed Butterstick.)
+正如伟大的野外生物学家乔治·夏勒所写的那样，这种具有食肉动物消化系统和食草动物饮食习惯的熊类“就像食肉的牛一样不可思议”。与其他熊类不同的是，大熊猫的瞳孔是垂直的，就像猫一样。在圈养环境下，它们的交配方式似乎显得非常低效。就算能够怀孕，新生大熊猫也非常脆弱，个头很小，只有一根黄油棒那么大。（国家动物园以前最有名的一只常驻大熊猫绰号就叫黄油棒。）
+
+“He was dashing, comfortable, even swashbuckling as a leader,” Paul Arnold, a violinist with the orchestra, said in the statement. “His playing was bold, expressive and hall-filling.” Mr. Carol “went on to personally embody the ‘Philadelphia Sound,’” he added.
+“作为一名领导者，他潇洒、得体，甚至可以说雄姿英发，”乐团的小提琴手保罗·阿诺德在声明中说道。“他的演奏大胆、富有表现力、大气。”卡罗尔“后来成为了‘费城之音’的个人代表，”他补充道。
+
+That fabled sound, which emerged under Leopold Stokowski and took shape under Ormandy, the orchestra’s longtime music director starting in the 1930s, is built on “distinctive honeyed timbre” emanating from its strings, as the journal Classical Voice North America noted in 2015, along with softer attacks from the brass section and a more blended percussion approach.
+正如《北美古典之声》杂志在2015年所指出的，声名遐迩的费城之音滥觞于利奥波德·斯托科夫斯基任内，并在从20世纪30年代开始长期担任乐团音乐总监的奥曼迪的领导下逐渐形成的，它建立在弦乐部分所发出的“独特的蜜糖音色”上，同时铜管乐器的攻击更加柔和，打击乐器的演奏方法也更加融合。
+
+By special request of Madame Mao, the Philadelphia Orchestra performed Beethoven’s Sixth Symphony, known as the Pastoral Symphony, a piece that dovetailed with the agrarian ideals of the revolution.Ormandy was not particularly fond of the symphony but relented, telling a colleague, “When in Rome, we should do as the Romans wish.”
+应江青的特别要求，费城交响乐团演奏了贝多芬的《第六交响曲》，这部又名《田园交响曲》的作品与文革的农耕理想不谋而合。奥曼迪对这部作品并不是特别感冒，但最终还是同意了，他对一位同事说：“入乡随俗，就客随主便吧。”
+
+Within hours of the verdict, President Biden traveled home, disembarked from Marine One and embraced his son. The president hugged Hunter Biden’s son and wife, as well, and bent over to kiss the head of his grandson, Beau Biden.To call the relationship between father and son battle tested is an understatement.
+判决宣布仅几个小时后，拜登总统回到故乡，从海军陆战队一号上下来，拥抱了他的儿子。总统还拥抱了亨特·拜登的儿子和妻子，弯腰亲吻了孙子博·拜登的头。此情此景，仅仅说父子关系经受了考验是不够的。
+
+People close to Mr. Biden say he still believes in his son and his ability to stay clean. Hunter Biden has maintained that he has been sober since 2019. 
+He has also grown more resigned and worried than ever about what the future might hold for his son, the people said, speaking on condition of anonymity to relay private conversations.
+与拜登关系密切的人士表示，拜登仍然相信儿子，相信他有能力不碰毒品。亨特·拜登则坚称自己自2019年以来一直保持戒毒戒酒的状态。他也变得比以往任何时候都更加听天由命，更担心儿子的未来，由于是私下里的谈话，前述相关人士都要求匿名。
+
+Hunter Biden has faced serious legal problems for many years. Most recently he has relied on a wealthy benefactor, the Los Angeles lawyer Kevin Morris, to pay his multimillion-dollar back taxes bill and legal expenses. But as his legal problems continue, his cash crunch is only growing.
+亨特·拜登多年来一直面临严重的法律问题。最近，他依靠富有的赞助人、洛杉矶律师凯文·莫里斯来支付数以百万计美元的补缴税款和法务费用。但随着他的法律问题继续，他的资金短缺只会越来越严重。
+
+Since the beginning of the trial, Mr. Biden’s schedule has kept him physically away from the proceedings in Wilmington, Del. He honored World War II veterans in France and, shortly after the jury began deliberating on Monday, hosted a Juneteenth celebration at the White House. He is scheduled to leave for Italy on Wednesday to attend the Group of 7 summit.
+自审判开始以来，拜登的日程安排使他无法亲临特拉华州威尔明顿的庭审。他在法国向“二战”老兵致敬，陪审团于周一开始审议后不久，他又在白宫主持解放黑奴纪念日庆祝活动。他还定于周三前往意大利参加七国集团峰会。
+
+Now, those same shops have transformed into sleekly designed chains with in-store roti machines, mobile ordering apps and locations across the country — all aiming to serve the fastest growing ethnic group in the United States and the millions of others who now crave flavors like Shin Ramyun, chili crisp, chaat masala and chai.Miso, ghee, turmeric, soy sauce — their journeys to becoming widely available pantry staples all began with an Asian grocer.She lamented: When did the Indian grocery store get so corporate?
+现在，这些商店已经变成了设计时尚的连锁店，店内设有印度烙饼机，开发了手机下单应用程序，门店遍布全美各地——所有这些都旨在服务于美国增长最快的族裔群体和数以百万计其他渴望辛拉面、辣酱、玛莎拉小食和印度奶茶等口味的人。味噌、酥油、姜黄、酱油——它们作为常备食品被广泛接受的过程，都是从一家亚洲杂货店开始的。她哀叹道：印度杂货店什么时候变得如此公司化了？
+
+China decried the tariffs as lacking “factual and legal basis” that amounted to “weaponizing economic and trade issues,” said He Yadong, a spokesman for the commerce ministry.“This is not in line with the consensus reached by Chinese and European leaders on strengthening cooperation, and will affect the atmosphere of bilateral economic and trade cooperation between China and Europe,”Tariffs for the other exporting companies will be based on the weighted average of the duty imposed on the three that were investigated.
+中国商务部发言人何亚东表示，中国谴责这些关税缺乏“事实和法律依据”，等同于“将经贸问题武器化”。“这不符合中欧领导人就加强合作达成的共识，也会影响中欧双边经贸合作的氛围，”对其他出口公司征收的关税将基于对三家被调查公司征收关税的加权平均值。
+
+He anticipated Russia’s invasion of Ukraine and adroitly rallied NATO to stand up to it. In Asia, he shored up old alliances, built new ones and fanned China’s economic headwinds.Yet there is more to global leadership than backing friends and beating back foes. Leaders, in the full sense, don’t just remain on top; they solve problems and inspire confidence. Mr. Trump barely pretends to offer that kind of leadership on the world stage. But precisely because most U.S. officials do, it is all the more striking where American power stands today. The United States is not outmatched, exactly. But it is badly overstretched.
+他预料到了俄罗斯入侵乌克兰，并巧妙地召集北约抗俄。在亚洲，他巩固了旧联盟，建立了新联盟，并削弱了中国的经济势头。然而，全球领导力不仅仅在于支持朋友和击退敌人。真正的领导者不仅能保持领先地位，还能解决问题、激发信心。向世界展示这样的领导力，特朗普连装都懒得装。然而恰恰因为大多数美国官员也是这样做的，美国今日的国力处境才格外令人震惊。说美国处于劣势倒还不至于。但的确是捉襟见肘了。
+
+The Gaza war came at the worst possible time, and Mr. Biden responded to this calamity by plunging in. Having chosen to follow, not lead, Mr. Biden was left to tut-tut about Israel’s behavior from the self-imposed sidelines. In a defining conflict, the United States has managed to be weak and oppressive at once. 
+加沙战争来得非常不是时候，拜登对这场灾难的回应是全力投入。拜登选择跟随而不是引领，只能在自我设定的旁观者位置上对以色列的行为表达不满。在一场决定性的冲突中，美国居然做到了既软弱又专横。
+
+Despite the tough report on Microsoft’s security lapses, lawmakers at the hearing did not question Mr. Smith aggressively and instead focused on ways the government and private sector could work together.This is not a gotcha hearing, We urge stakeholders across industry, civil society and our international partners to work with us to eliminate the scourge of forced labor,
+尽管有关微软安全漏洞的报告措辞严厉，但听证会上的议员们并没有对史密斯提出尖锐的质疑，而是把重点放在了政府和私营部门合作的方式上。这不是一场抓罪证的听证会.我们敦促整个行业的利益相关者、民间社会和我们的国际伙伴与我们合作，消除强迫劳动的苦难
+
+The kind of lucrative endorsements enjoyed by foreign athletes are not usually given to Nepal’s ethnic Sherpas. For them, the profession of Himalayan guide offers a path out of deep poverty, but also a possible route — strewed with avalanches and icefalls — to a premature death.
+尼泊尔的夏尔巴人通常得不到外国运动员享有的那种利润丰厚的代言合同。对他们来说，喜马拉雅向导的职业提供了一条摆脱极度贫困的道路，但也是一条到处都是雪崩和冰瀑，可能通往过早死亡的道路。
+
+This is what a Sherpa does: He lugs heavy packs and oxygen cylinders for foreign clients. He cooks and sets up camp. He navigates through snowstorms and clears piles of trash. He wakes before dawn and spends hours driving metal pickets into the snow so a rope line can protect foreign climbers. He trudges past icefalls where bus-size slabs have buried other Sherpas in frozen graveyards. (On the mountain, he is usually a he; female Sherpas don’t tend to work as guides.)
+夏尔巴人的工作如下：为外国客户搬运沉重的包裹和氧气瓶。做饭和搭帐篷。在暴风雪中穿行，清理成堆的垃圾。天不亮就起床，花几个小时在雪地上固定金属桩，拦出保护外国登山者的绳索。艰难地走过冰瀑，那些大巴车大小的板状冰体下，是夏尔巴人的坟场。(上山的夏尔巴人通常是男性；女性夏尔巴人一般不做向导。)
+
+elevations above 26,000 feet, or 8,000 meters, where human cognition slows without supplemental oxygen and altitude sickness can quickly turn fatal.Yet their expertise earns them wages that, while high by local standards, are only a fraction of what most of their clients shell out for their expeditions.
+海拔8000米以上的地方）能待的时间要长得多，在没有氧气补充的情况下，人类的认知会变迟钝，高原反应可能在短时间内导致死亡。
+
+Mr. Lama lugged and hammered and pulled and hefted, making up for the missing half-dozen men. He was fast and efficient, with no unneeded movements in the thin air, Ms. Harila said.“Lama did all the jobs,” she said. “No one would have summited if Lama wasn’t there.”Whenever he could, after his exploits — 37 summits of the world’s tallest mountains by the time he died — Mr. Lama would return home to Walung, an isolated hamlet in northeastern Nepal. Walung sits in a high-altitude valley below barley and millet fields, where shaggy yaks graze, hunched against the cold. Mr. Lama and his brothers grew up herding livestock. They played soccer with a knot of worn socks serving as a ball.
+“喇嘛”又拖又锤，又拉又扛，承担了那空缺的六人的工作。哈里拉说，他速度快，效率高，在稀薄的空气中没有任何不必要的动作。“‘喇嘛’做了所有的工作，”她说。“如果没有‘喇嘛’，没有人能登顶。”到“喇嘛”去世之前，他已经取得了登上了37座世界最高山峰的成就。一有时间，他就会回到瓦隆的家，那是尼泊尔东北部一个与世隔绝的小村庄，坐落在一个高海拔的山谷里，下面是大麦和谷田，毛茸茸的牦牛在田间吃草，弓着背抵御寒冷。“喇嘛”和兄弟们从小放牧牲畜。用破旧的袜子打结当足球踢。
+
+Small scratches and dents are inevitable, but we have never had any major casualties,The government has not issued statistics on safety incidents involving driverless cars or advanced assisted-driving technologies, like automated lane changes and obstacle avoidance on highways. 
+小刮小蹭在所难免，但没有出现过重大的人员伤亡事故。政府没有发布过涉及无人驾驶汽车或先进辅助驾驶技术的安全事故的统计数据，比如在高速公路上自动变道和躲避障碍物。
+
+Over two days last month, I went for six rides in Baidu robot taxis in Wuhan. On one of the trips, with no safety driver ready to take over, the vehicle slowed nearly to a stop in fast-moving traffic on the upper deck of an expressway bridge high above the Yangtze River.It started beeping its horn automatically to yield the right of way, instead of accelerating to enter the adjacent lane. Both cars kept slowing until they were barely moving.A third car, moving at highway speed, whipped around both cars.
+上个月的两天时间里，我在武汉乘坐了六次百度的机器人出租车。其中一次，没有配备安全驾驶员的自动驾驶出租车在一座长江大桥的上层公路桥快速行驶的车流中减速，几乎停了下来。它开始自动鸣笛以示礼让，而不是加速进入相邻车道。两辆车都在减速，直到它们几乎停下来。第三辆车以跑高速的速度绕过了我们这两辆车。
+
+A spokeswoman said that the incident was an unusual circumstance and that drivers in Wuhan were seldom so willing to yield the right of way. She said the company would study the incident and consider whether to adjust the algorithms that control its driverless cars.Many drivers in Wuhan are indeed fairly aggressive. I saw a different robot taxi stop at a pedestrian crossing to allow people to walk across the street, only for motorists to blow their horns impatiently.
+一名发言人表示，这起事件是一种不寻常的情况，武汉的司机很少如此愿意让路。她说，公司将研究这起事件，并会考虑是否调整控制无人驾驶汽车的算法。武汉的很多司机开车确实相当猛。我看到另一辆机器人出租车停在人行横道前，让行人过马路时，很多司机不耐烦地按起了喇叭。
