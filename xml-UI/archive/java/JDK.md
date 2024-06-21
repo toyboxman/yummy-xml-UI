@@ -320,8 +320,21 @@ java -jar arthas-boot.jar
 
 # 如果目标jvm是jre启动，需要找一个对应的jdk版本
 # 最简单方式是在调试机器上下载一个相同版本或略高版本的jdk，然后通过jdk中java来启动
+# 可能会遇到如下错误提示
+[INFO] Try to attach process 10310
+Picked up JAVA_TOOL_OPTIONS: 
+Error: Unable to initialize main class com.taobao.arthas.core.Arthas
+Caused by: java.lang.NoClassDefFoundError: com/sun/tools/attach/AgentLoadException
+
 # azul的zulu是基于openjdk的一种jdk发型版本
+# 对应 openjdk8
 wget https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-jdk8.0.282-linux_x64.tar.gz
+
+# openjdk version "11.0.23" 2024-04-16 LTS
+# OpenJDK Runtime Environment Zulu11.72+19-CA (build 11.0.23+9-LTS)
+# OpenJDK 64-Bit Server VM Zulu11.72+19-CA (build 11.0.23+9-LTS, mixed mode)
+wget https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jdk11.0.23-linux_x64.tar.gz
+
 # 也可以从对应jdk拷贝jre缺失文件
 cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
 # 如果目标jre lib中缺少tools.jar，需要从jdk中复制一份

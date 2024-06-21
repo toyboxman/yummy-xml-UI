@@ -171,14 +171,32 @@ git pull
 
 ### git push
 ```console
-# 把本地当前最新分支push到Eugene目录下remote的bugs分支
-git push Eugene HEAD:bugs
-
-# 把本地当前最新分支(dev)push到Eugene目录下remote的同名分支dev
+# 等价于执行 git push <remote>, 此<remote>的值为当前branch对应的origin, 如果没有其他remote映射到当前branch
+git push
+# 找到本地分支master(refs/heads/master)，更新到远程repo，如果远程不存在master分支，则创建一个
+git push origin master
+# 把本地当前最新分支(dev)push到remote Eugene repo的同名分支dev，不存在则创建
 git push Eugene dev
 
-# 把本地glance目录下最新分支push到remote的分支(refs/heads/icehouse)
+# 一个简化命令把当前local branch更新到remote的同名branch
+git push origin HEAD
+
+# 更新当前分支到remote的master分支，不理会当前分支名是否是master
+git push origin HEAD:master
+# 把本地当前最新分支push到remote Eugene repo的bugs分支
+git push Eugene HEAD:bugs
+
+# 通过copy当前master分支，在remote创建branch experimental
+git push origin master:refs/heads/experimental
+# 把本地当前branch更新到 remote glance repo的分支(refs/heads/icehouse)
 git push glance HEAD:refs/heads/icehouse
+
+# 在remote找到匹配名字experimental的branch，删除掉
+git push origin :experimental
+
+# 将本地master(refs/heads/master)更新到remote repo(mothership)的satellite/master(refs/remotes/satellite/master)
+# 同时将本地dev(refs/heads/dev)更新到remote repo(mothership)的satellite/dev(refs/remotes/satellite/dev)
+git push mothership master:satellite/master dev:satellite/dev
 
 # Eugene目录中master分支不存在,推送失败
 git push Eugene master:refactor/testcases   
