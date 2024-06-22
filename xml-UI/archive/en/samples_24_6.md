@@ -154,3 +154,78 @@ Over two days last month, I went for six rides in Baidu robot taxis in Wuhan. On
 
 A spokeswoman said that the incident was an unusual circumstance and that drivers in Wuhan were seldom so willing to yield the right of way. She said the company would study the incident and consider whether to adjust the algorithms that control its driverless cars.Many drivers in Wuhan are indeed fairly aggressive. I saw a different robot taxi stop at a pedestrian crossing to allow people to walk across the street, only for motorists to blow their horns impatiently.
 一名发言人表示，这起事件是一种不寻常的情况，武汉的司机很少如此愿意让路。她说，公司将研究这起事件，并会考虑是否调整控制无人驾驶汽车的算法。武汉的很多司机开车确实相当猛。我看到另一辆机器人出租车停在人行横道前，让行人过马路时，很多司机不耐烦地按起了喇叭。
+
+The Chinese state media said the Philippine vessel had “ignored multiple stern warnings” and behaved “dangerously and in an unprofessional manner,” causing the boats to collide. The Philippines said that Chinese naval, coast guard and naval militia vessels had engaged in “illegal and aggressive actions,” including what it called “ramming.”
+中国的官方媒体称，菲律宾船只“无视多次严厉警告”，以“不专业方式，故意危险接近中方正常航行船只”，导致双方船只相撞。菲律宾称，中国海军、海警和海上民兵的船只采取了“非法和侵略性行动”，包括所谓的“冲撞”。
+
+Heavy rains battered southern China over the weekend and into Tuesday, setting off landslides and causing roads and homes to collapse as rivers overran their banks.Days of severe rainfall forced thousands of people to evacuate and left more than 100,000 households without power as the region was inundated.
+上周末到本周二，暴雨袭击中国南方，引发山体滑坡，河流决堤导致道路塌陷，房屋倒塌。连日的强降雨迫使成千上万人撤离，由于洪水肆虐，该地区10多万户家庭停电。
+
+The resort, where rooms start at $369 a night, features infinity pools, spas, eight restaurants, a private coastal walk and beach area, and a 4,600-meter “Water House” — an indoor pool and sauna fed by natural hot-spring water.
+这个度假村的客房每晚起价369美元，设有无边泳池、水疗中心、八家餐厅、私人海滨步道和海滩区，以及一个4600米的“水屋”——一个使用天然温泉水的室内泳池和桑拿房。
+
+ One leads a team at a financial firm and earns more than her husband. Another is pursuing her dream of becoming a civil servant. A third is a budding influencer who aspires to be the family breadwinner.
+ 一位女性在一家金融公司领导团队，收入超过了她的丈夫。另一位女性在追求成为公务员的梦想。还有一位女性是崭露头角的网红，希望能靠自己养家糊口。
+
+ The American Institute office was for years in a crowded office in downtown Taipei, maintaining a diminished official presence. The operation took pains to keep a low profile, and for decades didn’t regularly fly the American flag.The U.S. flag is now a steady presence above the building.
+ 多年里，美国在台协会一直位于台北市中心一间拥挤的办公室里，保持着很弱的官方存在感。该机构极力保持低调，在过去几十年里一般情况下连国旗都不会悬挂。现在，美国国旗飘扬在大楼上方。
+
+ Before he started a company 15 years ago selling the world’s smelliest fruit, Eric Chan had a well-paying job writing code for satellites and robots. His family and friends were puzzled when he made the career change.The fruit, durian, has long been a cherished part of local cultures in Southeast Asia, where it is grown in abundance.When Mr. Chan began his start-up in his native Malaysia, durians were cheap and often sold from the back of trucks.Then, China acquired a taste for durian in a very big way.
+ 15年前，埃里克·陈（音）创办了一家公司，销售世界上气味最强烈的水果。在此之前，他有一份为卫星和机器人编写代码的高薪工作。当他改行时，家人和朋友们都不理解。在盛产榴莲的东南亚，榴莲长期以来一直是当地文化中珍贵的一部分。当埃里克·陈在自己的祖国马来西亚开始创业时，榴莲的价格还很低廉，经常从卡车后斗出售.后来，许多中国人爱上了榴莲。
+
+ In Vietnam, state news media reported last month that farmers were cutting down coffee plants to make room for durian. The acreage of durian orchards in Thailand has doubled over the past decade. In Malaysia, jungles in the hills outside Raub are being razed and terraced to make way for plantations that will cater to China’s lust for the fruit.
+ 在越南，官方新闻媒体上个月报道，农民正在砍伐咖啡树，为榴莲腾出空间。过去十年里，泰国的榴莲果园面积翻了一番。在马来西亚，劳布外山上的丛林正被夷为平地，修成梯田，为种植园让路，以满足中国对这种水果的需求。
+
+Durian is to fruit what truffles are to mushrooms: Pound for pound, the fruit has become one of the most expensive on the planet. Depending on the variety, a single durian can sell for anywhere between $10 to hundreds of dollars.But shipping it to Guangzhou, Beijing and beyond, especially when the fruit is ripe and most flavorful, can be perilous. The fruit’s potent smell can resemble a gas leak.
+榴莲在水果中的地位就像松露在蘑菇中的地位：按单位价格计算，榴莲已成为地球上最昂贵的水果之一。根据品种不同，一个榴莲的售价从10美元到数百美元不等。但是，把它运到广州、北京和其他地方可能会很危险，尤其是在水果成熟、味道最鲜美的时候。这种水果浓烈的气味就像煤气泄漏一样。
+
+She quit her airline job and experimented with cryogenic freezing techniques in a rented warehouse, hauling her children to durian farms on weekends. She found that freezing not only mitigated the fruit’s odor but also prolonged its shelf life.
+她辞掉了航空公司的工作，在租来的仓库里试验低温冷冻技术，周末带着孩子们前往榴莲果园。她发现，冷冻不仅能减轻水果的气味，还能延长保质期。
+
+Throughout the Group of 7 summit meeting in Puglia, China has been the lurking presence: as the savior of “Russia’s war machine,” in the words of the summit’s final communiqué; as an intensifying threat in the South China Sea; and as a wayward economic actor, dumping electric cars in Western markets and threatening to withhold critical minerals needed by high-tech industries.
+在普利亚举行的七国集团峰会中，中国的身影一直若隐若现：用峰会最后公报的话来说，它是“俄罗斯战争机器”的救星；在南海，它是日益加剧的威胁；作为一个任性的经济参与者，它向西方市场倾销电动汽车，并威胁要停止出口高科技行业所需的关键矿产。
+
+Mr. Putin’s protracted war in Ukraine has led him to deepen relations with Mr. Kim. U.S. and South Korean officials say he has sought and received Soviet-grade ammunitions from Pyongyang — accusations that both Moscow and Pyongyang deny.South Korea sharply criticized the agreement, saying it was “sophistic and absurd” for North Korea and Russia — which have a history of starting war in the Korean Peninsula and in Ukraine, respectively — to pledge military cooperation under the assumption of coming under attack first.
+普京在乌克兰旷日持久的战争促使他加深了与金正恩的关系。美国和韩国官员说，他从平壤寻求并获得了苏式弹药。莫斯科和平壤都否认了这一指控。韩国对这项协议表示强烈批评，称朝鲜和俄罗斯——两国分别在朝鲜半岛和乌克兰有过发动战争的历史——在自己先遭受攻击的假设下承诺进行军事合作，是“诡辩和荒谬的”。
+
+In some respects, the meeting between the two authoritarian leaders, both desperate for outside support, provided a bit of an I-told-you-so moment for the United States and its Asian allies. Japan has vowed to increase its defense budget and pushed limits on what it could do under its pacifist Constitution, including purchasing more fighter jets and Tomahawk missiles. After years of frosty relations, Mr. Kishida and Mr. Yoon of South Korea agreed to strengthen bilateral ties between their two countries and have drawn closer in a three-way partnership with the U.S. to forge mutual security arrangements.
+从某些方面来说，这两位迫切需要外界支持的威权领导人的会晤，让美国及其亚洲盟友有一种“果不其然”的感觉。日本誓言增加国防预算，并在和平宪法的限制范围内扩大行动，包括购买更多战斗机和战斧导弹。在经历了多年的冷淡关系后，岸田文雄和尹锡悦同意加强两国双边关系，并与美国建立了更紧密的三方伙伴关系，以建立共同安全安排。
+
+The revival of a Cold War-era mutual defense pledge between North Korea and Russia in this fraught global moment spooked other countries in the region.At the very least, it shows that Russia is willing to flagrantly dismiss U.N. sanctions.I think it shows how prescient President Biden, President Kishida and President Yoon were to spend political capital,It was prescient not just from a political standpoint, but from a strategic standpoint because now Russia and North Korea” may be developing weapons together. The revival of a Cold War-era mutual defense pledge between North Korea and Russia in this fraught global moment spooked other countries in the region.
+在这个充满危机的全球时刻，朝俄冷战时期共同防御承诺的复活，令该地区的其他国家感到恐慌。至少，这表明俄罗斯愿意公然无视联合国的制裁。我认为，这表明拜登总统、岸田文雄总统和尹锡悦总统在动用政治资本时非常有先见之明，不仅从政治角度来看很有先见之明，而且从战略角度来看也是如此，因为现在俄罗斯和朝鲜”可能正在共同开发武器。在这个充满危机的全球时刻，朝俄冷战时期共同防御承诺的复活，令该地区的其他国家感到恐慌。
+
+The ravenous came for a taste of home in a dish of spicy fried beef or steamed fish head. Waiters, speaking in Mandarin, delivered plates heated with green and red chiles.It was opening night in Hong Kong at Return Home Hunan, a well-known chain from mainland China trying to wedge into the city’s competitive food scene.
+饥肠辘辘的食客来这里品尝家乡的小炒黄牛肉或剁椒鱼头。服务员操着普通话，端上一盘盘少不了绿色和红色辣椒的热辣菜肴。这是来自中国内地的知名连锁餐厅“回家湘”在香港的开业之夜，它正试图打入香港竞争激烈的餐饮业。
+
+Not far from Return Home Hunan, new restaurants offer food from three southern Chinese provinces: There’s the Guizhou rice noodles place, the Guangxi river snail noodles shop and stinky tofu from the province of Hunan.These establishments cater to locals and a growing community of mainland Chinese, some of whom have made the city their home in the past decade.
+在离回家湘不远的地方新开了几家餐馆，提供来自中国南方三个省份的美食：贵州米粉、广西螺蛳粉和湖南臭豆腐。这些场所主要面向当地人和日益壮大的内地人群体，其中一些人在过去十年中来到这座城市安家。
+
+The gripe among mainland transplants that Hong Kong food is bland has more of a sting for locals these days as they grapple with the city’s changing identity.Now, as Hong Kong is pulled closer into China’s orbit, an economic slowdown and real estate crisis on the mainland is weighing on its long-awaited recovery.
+内地人抱怨香港食物太过清淡，如今这对本地人来说更加刺耳，因为他们正在努力应对这座城市身份的改变。现在，随着香港被拉近中国的轨道，内地的经济放缓和房地产危机正在拖累香港期待已久的复苏。
+
+The Marubo people have long lived in communal huts scattered hundreds of miles along the Ituí River deep in the Amazon rainforest. They speak their own language, take ayahuasca to connect with forest spirits and trap spider monkeys to make soup or keep as pets.
+马鲁博人长期居住在亚马孙雨林深处，散布在伊图伊河沿岸数百公里的共有小屋中。他们说自己的语言，服用死藤水与森林精灵沟通，捕捉蜘蛛猴做汤或当做宠物。
+
+The Javari Valley Indigenous Territory is one of the most isolated places on Earth, a dense stretch of rainforest the size of Portugal with no roads and a maze of waterways. Nineteen of the 26 tribes in the Javari Valley live in full isolation, the highest concentration in the world.
+哈瓦里河谷原住民领地是地球上最为与世隔绝的地方之一，这片茂密的雨林面积与葡萄牙相当，没有道路，只有迷宫般的水道。哈瓦里山谷有26个部落，是世界上最密集的部落群，其中有19个完全与外界隔绝。
+
+The Marubo were once uncontacted, too, roaming the forest for hundreds of years, until rubber tappers arrived near the end of the 19th century. That led to decades of violence and disease — and the arrival of new customs and technology. The Marubo began wearing clothes. Some learned Portuguese. They swapped bows for firearms to hunt wild boar, and machetes for chain saws to clear plots for cassava.
+马鲁博人也曾经与世隔绝，在丛林里游荡了几百年，直到19世纪末采集橡胶的人来到这里。由此而来的是数十年的暴力和疾病，同时也带来了新的习俗和技术。马鲁博人开始穿衣服。一些人学习葡萄牙语。他们把弓箭换成了猎枪来猎杀野猪，把砍刀换成了链锯来清理木薯地。
+
+Allyson Reneau’s LinkedIn page describes her as a space consultant, keynote speaker, author, pilot, equestrian, humanitarian, chief executive, board director and mother of 11 biological children. In person, she says she makes most of her money coaching gymnastics and renting houses near Norman, Okla.
+艾莉森·勒诺在领英页面上的描述是太空顾问、主题讲者、作家、飞行员、马术运动员、人道主义者、首席执行官、董事和11个亲生子女的母亲。她说，她本人的大部分收入都来自在俄克拉荷马州诺曼附近做体操教练和出租房屋。
+
+The internet arrived on the backs of men. They trudged miles through the forest, barefoot or in flip-flops, carrying two antennas each. The internet was an immediate sensation. “It changed the routine so much that it was detrimental,” Enoque admitted. “In the village, if you don’t hunt, fish and plant, you don’t eat.”
+互联网设备是男人们背进来的，有人光着脚，有人穿着人字拖，在丛林里跋涉数公里，每人背着两部天线。互联网的到来立刻引起了轰动。“这极大地改变了我们的日常生活，以至于产生了有害影响，”伊诺克承认。“在村里，如果你不打猎、不捕鱼、不种菜，就没有饭吃。”
+
+Smoke in the cabin. A tire blowout. A cracked windshield. No shortage of problems can affect a flight, fueling traveler anxiety and contributing to thousands of daily delays and cancellations around the world. But for all of the frustration and alarm such events cause, it can be difficult to interpret and understand their severity.
+机舱内冒烟。轮胎爆裂。挡风玻璃破裂。影响航班的问题层出不穷，让旅客焦虑不安，并导致全球每天有数千个航班延误和取消。这类事件引发了极大的不满和恐慌，要解释和理解它们的严重程度却并不容易。
+
+Several alarming air travel incidents have made headlines in recent weeks — a sharp plunge toward an ocean, an unnerving wobble that damaged the tail of a plane and an aborted departure after an apparent engine fire. But the most common mishaps and malfunctions, even if hair-raising, are not typically severe, experts said. A hydraulic leak, for example, is a familiar occurrence that pilots take seriously, but it is not as disruptive as it may sound. 
+最近几周里，几起令人担忧的航空旅行事件成了新闻头条——一次是飞机向海面急剧俯冲，一次是令人胆寒的晃动损坏了飞机的尾翼，以及引擎起火导致放弃起飞。但专家表示，那些最为常见的事故和故障即使听起来让人害怕，通常也并不严重。例如，液压泄漏是飞行员非常重视的常见故障，但它并不像听起来那样具有破坏性。
+
+Flying is a complex, gravity-defying feat that’s repeated thousands of times each day in a wide range of conditions.Little small components will always start to burn out or break,There will always be potholes in the pavement in the taxiway that jostles something. A plane veering off a runway, in what is known as a runway excursion, makes for captivating video and a possibly terrifying experience for those on board. But it doesn’t necessarily cause significant damage to an airplane or threaten the safety of those on board.
+飞行是一项复杂的、挑战重力的壮举，每天都要在各种条件下重复无数次。总会有小部件烧坏或损坏，滑行道上的路面总会有坑坑洼洼，导致一些碰撞。一架飞机偏离跑道，拍成视频看起来会很刺激，对机上的人来说可能也是一次可怕的经历。但它并不一定会给飞机造成严重损害，威胁到机上人员的安全。
+
+Placing blame is complicated.Because aviation is complex and defined by redundancy, problems rarely have a singular cause. Instead, most serious problems — even catastrophic ones — are a result of multiple factors.There’s never a smoking gun, so to speak,
+追责非常复杂。因为航空业非常复杂，而且有冗余设计的特征，所以问题很少有单一的原因。相反，大多数最严重的问题——甚至是灾难性的问题——是多种因素共同作用的结果。可以说，从来没有所谓的确凿证据，
