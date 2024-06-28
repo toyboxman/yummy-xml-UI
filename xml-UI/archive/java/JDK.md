@@ -312,6 +312,7 @@ javadoc common/java/tracing/src/main/java/example/tracing/*.java -d ./javadoc/
 #### Arthas
 - [Diagnostic Tool Arthas](https://github.com/alibaba/arthas)
 - [中文手册](https://arthas.gitee.io/trace.html)
+- [最佳实践](https://mp.weixin.qq.com/s/PIhsu-gNb9XK0ulU06lL7g)
 ```console
 # 下载运行包
 curl -O https://alibaba.github.io/arthas/arthas-boot.jar
@@ -392,6 +393,7 @@ Affect(row-cnt:2) cost in 188 ms.
  exceptions                                                                                                                       
  classLoaderHash  null   
 ```
+
 ##### [watch](https://arthas.gitee.io/doc/watch.html)
 确定method后就可以watch操作
 ```console
@@ -431,16 +433,126 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
     null,
 ]
 
+# ognl 支持的目标类型
+// target : 目标对象
+// clazz : the object's class                                                                        
+// method : the constructor or method                                                                 
+// params : 方法参数顺序组
+// params[0..n] : 某一个参数
+// returnObj : the returned object of method                                                             
+// throwExp : the throw exception of method                                                             
+// isReturn : the method ended by return                                                                
+// isThrow : the method ended by throwing exception                                                    
+// #cost : the execution time in ms of method invocation 
+# 过滤，判断，筛选
+// 'params[0]'：查看第一个参数
+// 'params[0].size()'：查看第一个参数的size
+// 'params[0]=="xyz"'：判断字符串相等
+// 'params[0]==123456789L'：判断long型
+// 'params[0].{#this.name}'：将结果按name属性映射
+// 'params[0].{? #this.name == null }'：按条件过滤
+// 'params[0].{? #this.age > 10 }.size()'：过滤后统计
+// 'params[0].{^ #this.name != null}'：选择第一个满足条件
+// 'params[0].{$ #this.name != null}'：选择最后一个满足条件
+// 'params[0].{? #this.age > 10 }.size().(#this > 20 ? #this - 10 : #this + 10)'：子表达式求值
+// 'name in { null,"Untitled" }':这条语句判断name是否等于null或者 Untitled
+
 # 只看入参细节
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params}" -x 3
-# 只看满足入参数目为6个的method细节,过滤同名overload的其他方法
+
+# 选择入参数目为6个的method细节,过滤同名overload的其他方法 只显示第一和第二参数
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params[0],params[1]}" "params.length==6" -x 2
-# 命令过滤参数只有一个，多个条件需要通过逻辑操作符 && || 来关联
+
+# 多个过滤条件需要通过逻辑操作符 && || 来关联
 # 下面过滤条件是 入参个数6个并且其中第一个参数(为集合类型)的size要大于2
 [arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].size()>2" -x 2
-# 下面过滤条件是 入参个数6个并且其中第一个参数(为集合类型)的elements包含MyProvider元素类型的个数要大于0
-# 对于集合类型参数表达式 params[0].{? #this instanceof com.example.MyProvider}将返回一个新集合对象
+
+# 下面过滤条件是 入参个数6个并且其中第一个参数的类型为MyProvider类
+# 对于集合类型OGNL参数表达式 params[0].{? #this instanceof com.example.MyProvider}将过滤并返回一个集合包含MyProvider对象
 [arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].{? #this instanceof com.example.MyProvider}.size()>0" -x 2
+
+[arthas@17977]$ watch com.integrien.alive.common.adapter3.Logger error -x2 '{target.getName()}'
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-28 08:16:10; [cost=0.400245ms] result=@ArrayList[
+    @String[(1233) com.example.util.SslUtil],
+]
+
+// ognl 这种过滤的方式，无论是否匹配，都会被算进 watch 的匹配次数中，只不过没有匹配到的对象没有输出
+// 直接使用条件过滤表达式，只有被条件表达式命中的请求，才会被算进 watch 次数中
+// 可以使用 -n 1 来限定 watch 匹配次数
+[arthas@17977]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.getName().equals("com.example.util.SslUtil")'
+[arthas@17977]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.{? #this.logger.name eq "com.example.util.SslUtil"}'
+
+# 获取接口的响应时间
+// -b, --before      Watch before invocation                                                 
+// -e, --exception   Watch after throw exception                                             
+// --exclude-class-pattern <value>  exclude class name pattern, use either '.' or '/' as separator          
+// -x, --expand <value>  Expand level of object (1 by default), the max value is 4               
+// -f, --finish          Watch after invocation, enable by default  
+[arthas@17977]$ watch org.springframework.web.servlet.DispatcherServlet doService '{params[0].getRequestURI()+" "+ #cost}' -n5 -x3 '#cost>100' -f
+
+# 获取指定header 头的信息，比如这里 获取 trace-id
+[arthas@17977]$ watch org.springframework.web.servlet.DispatcherServlet doService '{params[0].getRequestURI()+" header="+params[1].getHeaders("trace-id")}' -n10 -x3 -f
+```
+
+##### [ognl](https://commons.apache.org/dormant/commons-ognl/language-guide.htm)
+OGNL(Object-Graph Navigation Language)是一种表达式语言(EL)，简单来说就是一种简化了的Java属性的取值语言，Arthas使用它做表达式过滤。  
+为什么Arthas选择了ognl？ognl表达式基于反射，比较轻量。实践下来，ognl的确比较稳定，没有出过大问题。
+```console
+// ognl 能支持的关键操作符如下:
+// "," "=" "?" "||" "or" "&&" "and" "|" "bor" "^" "xor" "&" "band" "==" "eq" "!=" "neq" "<" "lt"
+// ">" "gt" "<=" "lte" ">=" "gte" "in" "not" "<<" "shl" ">>" "shr" ">>>" "ushr" "+" "-" "*" "/"
+// "%" "instanceof" "." "(" "[" "}" <DYNAMIC_SUBSCRIPT>
+
+# 变量定义和引用， OGNL支持用变量来保存中间结果，并在后面的代码中再次引用它。
+# OGNL中的所有变量，对整个表达式都是全局可见的，引用变量的方法是在变量名之前加上 # 号
+# OGNL会将当前对象保存在 "this" 变量中，这个变量也可以像其他任何变量一样引用，用 #this 表示当前对象。
+
+# 调用静态属性 -> '@ClassName@static_field'
+[arthas@28030]$ ognl '@com.integrien.alive.common.adapter3.Logger@FQCN'
+@String[com.integrien.alive.common.adapter3.Logger]
+
+# 调用静态方法 -> '@ClassName@method("parameters")'
+// getDefaultLogger是static method，因而返回成功
+[arthas@28030]$ ognl '@com.integrien.alive.common.adapter3.Logger@getDefaultLogger("com.example.util.SslUtil")'
+// getName是instance的方法，访问失败
+[arthas@28030]$ ognl '@com.integrien.alive.common.adapter3.Logger@getName()'
+Failed to execute ognl, exception message: ognl.MethodFailedException: Method "getName" failed for object class com.integrien.alive.common.adapter3.Logger [java.lang.NoSuchMethodException: getName()], please check $HOME/logs/arthas/arthas.log for more details.
+
+// 通过ognl命令执行Spring容器中对象的方法 
+// 定义变量 self_context，将 com.example.ApplicationContextUtil的static field 'context'赋值给 self_context
+// #self_context=@com.example.ApplicationContextUtil@context -> self_context = com.example.ApplicationContextUtil.context
+[arthas@28030]$ ognl -c 21ffcd7c '#self_context=@com.example.ApplicationContextUtil@context,#self_context.getBean("bean1").method1()'
+# 通过vmtool也可以得到等效操作
+[arthas@28030]$ vmtool --action getInstances --className *.Bean1 --express 'instances[0].method1()'
+
+# 构造对象
+// '#{ "foo" : "foo value", "bar" : "bar value" }'：构造map参数
+// '#@java.util.LinkedHashMap@{ "foo" : "foo value", "bar" : "bar value" }'：构造特定类型map
+// 'new com.Test("xiaoming",18)'：构造方法，new 全路径类名()
+// 'new int[] { 1, 2, 3 }'：创建数组并初始化
+
+# 访问对象
+// '@com.Test@getPerson("xiaoming",18).name':访问复杂对象属性，用 .属性名 访问属性
+// '@com.Test@getChilds({"xiaoming"})[0]':访问List或者数组类型，用 [索引] 访问
+// '@com.Test@getMap()["xiaoming"]': 访问Map对象，用 ["key"]，key要用双引号
+
+# 临时变量
+// '#value1=@com.Test@getPerson("xiaoming",18), #value2=@com.Test@setPerson(#value1),{#value1,#value2}': 方法A的返回值当做方法B的入参
+// '#value1=@System@getProperty("java.home"), #value2=@System@getProperty("java.runtime.name"), {#value1, #value2}'：执行多行表达式，赋值给临时变量，返回一个List
+// '#obj=new com.User("xiaoming",18),@com.Test@inputObj(#obj)'：先用构造函数构造一个对象，然后把这个对象当做入参传入
+
+# case-调用任意bean中的方法
+// 1.先获取 classLoaderHash
+[arthas@28030]$ sc -d com.alibaba.dubbo.config.spring.extension.SpringExtensionFactor
+// 2.ognl 调用对应 bean 的方法，把 34f5090e 替换为对于的 classLoaderHash
+[arthas@28030]$ ognl -c 34f5090e '#context=@com.alibaba.dubbo.config.spring.extension.SpringExtensionFactory@contexts.iterator.next,#context.getBean("userServiceImpl").find("key")'
+// 可以构造参数作为方法调用参数
+[arthas@28030]$ ognl -c 34f5090e '#context=@com.alibaba.dubbo.config.spring.extension.SpringExtensionFactory@contexts.iterator.next,#data=new Children(), #query=new User(),#query.setChildren(#data),#query.setRequestId("1"), #data.setName("key"),#context.getBean("userServiceImpl").find(#query)'
+
+# case-动态修改 bean 属性值, 原理就是先获取 bean 实例，通过反射去修改对应属性值
+[arthas@28030]$ ognl -c 34f5090e org.ClassLoader
+'#context=@com.alibaba.dubbo.config.spring.extension.SpringExtensionFactory@contexts.iterator.next, #instance=#context.getBean("userServiceImpl"),#fieldObj=@com.User@class.getDeclaredField("age"),#fieldObj.setAccessible(true), #fieldObj.set(#instance,18)'
 ```
 
 ##### [stack](https://arthas.gitee.io/doc/stack.html)
@@ -594,9 +706,9 @@ reverse_proxy_https_port: 443
 ```
 
 ##### [getstatic](https://arthas.gitee.io/getstatic.html)
-如果想查看类的静态域值，可以直接查看而不论其是否是private
+如果想查看类的有static field，可以直接查看而不论其是否是private
 ```console
-# 查看System的静态域 out
+# 查看System的static field 'out'
 [arthas@14150]$ getstatic java.lang.System out
 field: out
 @SystemLogHandler[
@@ -701,6 +813,7 @@ ID   NAME                       GROUP         PRIORITY STATE    %CPU     DELTA_T
 ##### logger/mbean
 查看当前JVM中所有logger/mbean实例详情
 ```console
+# logger --include-no-appender 显示全部logger包括没有设定appender的
 [arthas@11693]$ logger
  name                root                                                                                             
  class               org.apache.logging.log4j.core.config.LoggerConfig                                                
@@ -721,7 +834,28 @@ ID   NAME                       GROUP         PRIORITY STATE    %CPU     DELTA_T
                      name            RFC5424                                                                          
                      class           org.apache.logging.log4j.core.appender.SyslogAppender                            
                      classLoader     java.net.URLClassLoader@1bd86fc2                                                 
-                     classLoaderHash 1bd86fc2                      
+                     classLoaderHash 1bd86fc2   
+
+# -n --name, -l --level
+# 把上面名为root的logger的level从INFO设为DEBUG
+[arthas@11693]$ logger -c 1bd86fc2 -n root --level debug 
+
+# 列出所有 Mbean 的名称
+[arthas@28030]$ mbean
+
+# 查看 Mbean 的元信息
+[arthas@28030]$ mbean -m java.lang:type=Threading
+
+# 查看 mbean 属性信息，mbean 的 name 支持通配符匹配 mbean java.lang:type=Th*
+[arthas@28030]$ mbean java.lang:type=Threading
+
+# 通配符匹配特定的属性字段
+[arthas@28030]$ mbean java.lang:type=Threading *Count
+
+# 实时监控使用-i，使用-n命令执行命令的次数（默认为 100 次）
+[arthas@28030]$ mbean -i 1000 -n 50 java.lang:type=Threading *Count
+# mbean 命令来查看 Druid 连接池的属性：
+[arthas@28030]$ mbean com.alibaba.druid.pool:name=dataSource,type=DruidDataSource
 ```
 
 ##### stop
