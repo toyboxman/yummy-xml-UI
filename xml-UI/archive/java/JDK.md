@@ -477,11 +477,88 @@ ts=2024-06-28 08:16:10; [cost=0.400245ms] result=@ArrayList[
     @String[(1233) com.example.util.SslUtil],
 ]
 
-// ognl 这种过滤的方式，无论是否匹配，都会被算进 watch 的匹配次数中，只不过没有匹配到的对象没有输出
-// 直接使用条件过滤表达式，只有被条件表达式命中的请求，才会被算进 watch 次数中
-// 可以使用 -n 1 来限定 watch 匹配次数
-[arthas@17977]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.getName().equals("com.example.util.SslUtil")'
-[arthas@17977]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.{? #this.logger.name eq "com.example.util.SslUtil"}'
+### 直接使用条件过滤表达式，只有被条件表达式命中的请求，才会被算进 watch 次数中
+// target对象getName()方法返回string对象的长度大于0
+[arthas@17977]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.getName().length>0' -n1
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 03:06:01; [cost=0.822183ms] result=@ArrayList[
+    @String[(1233) com.example.util.SslUtil],
+]
+
+// 等效于上面一个条件
+[arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.getName()!=null' -n1
+Affect(class count: 1 , method count: 2) cost in 475 ms, listenerId: 22
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 13:57:29; [cost=0.671868ms] result=@ArrayList[
+    @String[(1233) com.example.util.SslUtil],
+]
+
+// target对象getName()方法返回string对象中包含字符串‘SslUtil’
+[arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.getName().indexOf("SslUtil")!=-1' -n1
+Press Q or Ctrl+C to abort.
+Affect(class count: 1 , method count: 2) cost in 498 ms, listenerId: 25
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 14:22:33; [cost=0.701456ms] result=@ArrayList[
+    @String[(1233) com.example.util.SslUtil],
+]
+
+// equals方法返回boolean值，但比较的话必须用数字 0/true，直接用true似乎不能成功识别
+[arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.getName().equals("com.example.util.SslUtil")==0' -n1
+Press Q or Ctrl+C to abort.
+Affect(class count: 1 , method count: 2) cost in 439 ms, listenerId: 28
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 14:52:38; [cost=0.748555ms] result=@ArrayList[
+    @String[(1233) com.example.util.SslUtil],
+]
+
+
+### 使用OGNL条件过滤表达式
+// 直接 #this 引用，指向了 com.taobao.arthas.core.advisor.Advice@503e5cfd对象，Advice 类定义没有getName方法，因此报错
+[arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' '#this.getName().length>0' -n2
+Press Q or Ctrl+C to abort.
+Affect(class count: 1 , method count: 2) cost in 470 ms, listenerId: 13
+watch failed, condition is: #this.getName().length>0, express is: {target.getName()}, ognl.MethodFailedException: Method "getName" failed for object com.taobao.arthas.core.advisor.Advice@503e5cfd [java.lang.NoSuchMethodException: com.taobao.arthas.core.advisor.Advice.getName()], visit /home/admin/logs/arthas/arthas.log for more details.
+
+// target.{? #this.getName()} 产生了一个List<Name>的集合, 集合对象没有length的属性，因此报错
+[arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.{? #this.getName()}.length>0' -n2
+Press Q or Ctrl+C to abort.
+Affect(class count: 1 , method count: 2) cost in 441 ms, listenerId: 12
+watch failed, condition is: target.{? #this.getName()}.length>0, express is: {target.getName()}, ognl.NoSuchPropertyException: java.util.ArrayList.length, visit /home/admin/logs/arthas/arthas.log for more details.
+
+// List<Name>的集合, 用list的方法size返回值来作为判断条件，成功返回
+[arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.{#this.getName()}.size()>0' -n2
+Affect(class count: 1 , method count: 2) cost in 453 ms, listenerId: 17
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 04:11:13; [cost=0.821933ms] result=@ArrayList[
+    @String[(1233) com.example.util.SslUtil],
+]
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 04:11:14; [cost=0.088174ms] result=@ArrayList[
+    @String[(1496) com.integrien.adapter.WCPManager],
+]
+
+// 按条件 equals("com.example.util.SslUtil")==0(true) 产生List<Name>的集合, 用list的方法size返回值来作为判断条件，成功返回
+[arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.{? #this.getName().equals("com.example.util.SslUtil")==0}.size()>0' -n1
+Press Q or Ctrl+C to abort.
+Affect(class count: 1 , method count: 2) cost in 468 ms, listenerId: 30
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 15:07:40; [cost=0.713237ms] result=@ArrayList[
+    @String[(1233) com.example.util.SslUtil],
+]
+
+// 产生List<Name>的集合, 用list的方法 contains("com.example.util.SslUtil")==0(true) 作为判断条件
+[arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.{? #this.getName()}.contains("com.example.util.SslUtil")==0' -n2
+Press Q or Ctrl+C to abort.
+Affect(class count: 1 , method count: 2) cost in 469 ms, listenerId: 31
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 15:12:41; [cost=0.897218ms] result=@ArrayList[
+    @String[(1233) com.example.util.SslUtil],
+]
+method=com.integrien.alive.common.adapter3.Logger.error location=AtExit
+ts=2024-06-30 15:12:41; [cost=0.075126ms] result=@ArrayList[
+    @String[(1496) com.integrien.adapter.WCPManager],
+]
+
 
 # 获取接口的响应时间
 // -b, --before      Watch before invocation                                                 
