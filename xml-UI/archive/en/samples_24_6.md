@@ -228,4 +228,73 @@ Flying is a complex, gravity-defying feat that’s repeated thousands of times e
 飞行是一项复杂的、挑战重力的壮举，每天都要在各种条件下重复无数次。总会有小部件烧坏或损坏，滑行道上的路面总会有坑坑洼洼，导致一些碰撞。一架飞机偏离跑道，拍成视频看起来会很刺激，对机上的人来说可能也是一次可怕的经历。但它并不一定会给飞机造成严重损害，威胁到机上人员的安全。
 
 Placing blame is complicated.Because aviation is complex and defined by redundancy, problems rarely have a singular cause. Instead, most serious problems — even catastrophic ones — are a result of multiple factors.There’s never a smoking gun, so to speak,
-追责非常复杂。因为航空业非常复杂，而且有冗余设计的特征，所以问题很少有单一的原因。相反，大多数最严重的问题——甚至是灾难性的问题——是多种因素共同作用的结果。可以说，从来没有所谓的确凿证据，
+追责非常复杂。因为航空业非常复杂，而且有冗余设计的特征，所以问题很少有单一的原因。相反，大多数最严重的问题——甚至是灾难性的问题——是多种因素共同作用的结果。
+
+The users’ profiles often made them appear to be American, though with few or even no followers. Many posts featured stilted, ungrammatical English, a signature of Spamouflage campaigns.
+这些用户的个人资料往往会让人觉得他们是美国人，但关注他们的人很少，甚至根本没有。许多帖子都使用蹩脚、不合语法的英语，这是“水军伪装”活动的一个标志。
+
+“China’s securities regulator has been traditionally draconian when it comes to letting companies list — and this plan is even tighter,” Mr. Collier said. “A lot of companies are worried about listing in China or feel they can’t squeeze themselves through the eye of the needle.”
+“中国的证券监管机构向来对公司上市非常严格，而这次的计划则更为严厉，”科利尔说。“很多公司都对于在中国上市感到担心，或者觉得自己无法满足如此苛刻的条件。”
+
+But for many people in those countries, and among the estimated two million ethnic Koreans in China, the chance to make far more money outweighs the dangers.Because ethnic Korean Chinese, known as “dongpo,” or “people from the same womb,” understand the language and culture, many managers in South Korea prefer to hire them. 
+但对这些国家的许多人，以及估计达200万人的中国朝鲜族来说，赚钱的机会远比危险重要。朝鲜族中国人了解韩国的语言和文化，被称为“同胞”，韩国的许多管理人员也更愿意雇佣他们。但并不是所有人都欢迎他们
+
+Such sentiments and the prospects of international lunar sample exchanges highlighted the hope that China’s robotic missions to the moon and Mars will serve to advance scientific understanding of the solar system. Those possibilities are contrasted by views in Washington and elsewhere that Tuesday’s achievement is the latest milestone in a 21st-century space race with geopolitical overtones.
+这种情绪和国际月球样本交换的前景凸显了外界的希望，即中国的月球和火星机器人探测任务将有助于促进对太阳系的科学理解。与此形成鲜明对比的是，华盛顿等方面的观点认为，周二的成就是21世纪具有地缘政治色彩的太空竞赛的最新里程碑。
+
+One year later, it landed Chang’e-5, which sent nearly four pounds of near-side lunar regolith to the Earth. The achievement made China only the third country — after the United States and the Soviet Union — to achieve the complex orbital choreography of collecting a sample from the moon.The Chang’e-5 sample was younger than the lunar material collected by the Americans or Soviets in the 1960s and ’70s. It is made up mainly of basalts, or cooled lava from ancient volcanic eruptions.
+一年后，中国的嫦娥五号着陆月球，将1731克重的月球表面风化层样本送回地球。这一成就使中国成为继美国和苏联之后第三个实现从月球采集样本这一复杂轨道规划的国家。嫦娥五号样本比美国和苏联在20世纪60年代和70年代收集的月球物质更年轻。它主要由玄武岩或古代火山喷发的冷却熔岩组成。
+
+Chang’e-6 launched on May 3 with even grander scientific ambitions: bringing back material from the far side of the moon. The near side of the moon is dominated by wide, dark plains where ancient lava once flowed. But the far side has fewer of those plains. It also has more craters and a thicker crust.
+嫦娥六号于5月3日发射，其科学抱负更加宏大：从月球背面带回物质。月球的表面主要是广阔的黑暗平原，那里曾经流淌着古老的熔岩。但背面的平原较少。它还有更多的陨石坑和更厚的壳层。
+
+It then stashed the material away. The mission deployed a miniature rover that snapped a picture of the lander with a small Chinese flag raised. Then, on June 3, a rocket flung the sample canister back into lunar orbit. The materials then reunited on June 6 with a spacecraft that had remained in orbit and prepared to begin the journey back to Earth.
+然后，它把这些材料收起。这次任务部署了一辆微型漫游车，它拍下了着陆器升起一面小中国国旗的照片。然后，在6月3日，上升器将样本容器带回月球轨道。6月6日，这些材料与留在轨道上的飞船会合，准备开始返回地球的旅程。
+
+Mr. Kwon — who speaks Chinese, English and some Korean — called the local police for help. For an hour, he waited while trying to fend off mosquitoes by walking around his watercraft in beige Crocs.But he didn’t let his guard down. He stuck to the routines he had developed in China: constantly checking for security cameras, and using encrypted texting apps and signal-blocking Faraday bags.
+会讲中文、英语和一些韩语的权平打电话向当地警方求助。在等待的一个小时里，他穿着米色的卡骆驰洞洞鞋在摩托艇周围走来走去，试图驱赶蚊子。但他没有放松警惕。他坚持在中国养成的习惯：不断检查安全摄像头，使用加密短信应用程序和能屏蔽信号的法拉第袋。
+
+He had only Sundays off from his job at a Chinese restaurant, Sampan Cafe. On some of those days, we watched American football, and we looked at my math textbooks, algebra or geometry or calculus. He knew numbers. I would learn later that he had studied engineering after the army.But one day, while I was visiting from graduate school and starting to ask my parents about their upbringings in southern China, Dad showed me a photograph of himself from his days in the Communist army.
+他在一家名叫上坪楼的中餐馆工作，只有周日不上班。那些日子里，我们一起看橄榄球，一起看我的数学课本，代数、几何还有微积分。他数学很好。我后来才知道，他退伍后学的是工程学。但是，有一天，我从研究生院回来看望父母，询问他们在中国南方的成长经历，爸爸给我看了一张他在共产党军队服役时的照片。
+
+It had been taken in northwest China in 1953. My father’s eyes glimmered, and his skin had none of the lines of age. He wore a plain military uniform and a cap. I ran a finger over a darkened spot in the hat’s center. A shadow there. That was where the red star had been, he said. The symbol of the People’s Liberation Army of China.He was filled with dread about what awaited him, but he was also struck by the beauty of a China he had never seen.
+那是1953年在中国西北拍摄的。父亲的眼睛炯炯有神，皮肤上没有一丝岁月的痕迹。他穿着朴素的军装，戴着一顶军帽。我用手指轻轻划过帽子中间的一个黑点。那里有一个阴影。他说，那里原来有一颗红星，是中国人民解放军的标志。他对即将到来的一切充满了恐惧，但从未见过的中国美景也令他震撼。
+
+Heading west from Xi’an, the capital of Shaanxi Province, he remembered the persimmons, plump and smooth and the color of burned copper, hanging low from the trees in the autumn light. How sweet it would be to bite into one. Dust trailed the truck as it continued down the dirt road. He was heading into a vast and sere land, a place of ancient paths and towns, many now long gone. A frontier. The warriors who came before them, also gone.
+他记得当时从陕西省会西安一路向西，秋天的阳光下，柿子丰满光滑，颜色像烧红的铜，低低垂挂在树上。如果能咬一口，该有多甜啊。卡车在土路上行驶，尘土飞扬。他正驶向一片广袤而荒凉的土地，那里有许多古老的道路和城镇，其中许多现在早已不复存在。那是边疆地带。在他们之前曾经来到这里的兵将，也已经不在人世。
+
+It is an iconic image — a black-and-white photo of a blood-splattered student being clubbed by a paratrooper medic. It was the first photo to slip through the military cordon around Gwangju, South Korea, in 1980, exposing the brutal suppression of what would be known as the Gwangju Democratization Movement.
+这是一个标志性画面——一张黑白照片中，一名身上带着血迹的学生被一名伞兵军医用棍棒殴打。这是1980年第一张穿过韩国光州一带军事封锁线的照片，揭露了对后来被称为光州民主化运动的残酷镇压。
+
+The consequences have been dire. At this year’s hajj, the Islamic pilgrimage in Saudi Arabia, at least 1,300 people died as temperatures surpassed 100 degrees Fahrenheit. And in many ways, that heavy toll was just the latest sign that crowd control and heat waves fueled by climate change are on a dangerous collision course.Even as heat kills more people today than any other extreme weather event, there is still a dangerous cultural lag. 
+后果是可怕的。在今年沙特阿拉伯的圣地朝觐中，至少有1300人在超过摄氏37度的气温之下死亡。人群控制和气候变化引发的热浪正在汇合成一股危险的力量，此次惨重的伤亡只是这一趋势的最新例证。如今酷暑造成的死亡人数超过了其他任何极端天气事件，但仍存在一种危险的文化滞后。
+
+The hardest fix of all may be one that is also in some ways the simplest: educating ordinary people about the risks of heat, including those who are accustomed to living in hot places. Often, they are unaware of the early symptoms of heat stress or how high temperatures are especially dangerous for people with pre-existing health conditions, like kidney disease or hypertension. Even medicines, such as anticholinergic drugs, that treat allergies or asthma can accelerate problems by restricting sweat.
+最困难的解决办法可能也是最简单的：教育普通人了解炎热的危害，包括那些习惯于在炎热地区生活的人。通常，他们不知道热应激的早期症状，也不知道高温对已经患有肾病或高血压等疾病的人来说是多么危险。即使是治疗过敏或哮喘的药物，如抗胆碱能药物，也会因排汗受限而加速问题的出现。
+
+Health officials in India have had to prepare. Inside heatstroke units in Delhi hospitals, patients were immediately immersed in an ice-filled submersion tub to bring down their temperatures. In a ward equipped with an ice-making refrigerator, ice boxes and ventilators, critical patients were immediately placed on slabs of ice and injected with cold fluids.
+印度卫生官员被迫应对。在德里医院的中暑病房里，病人被立即浸泡在装满冰的浴缸里，以降低体温。在一个配备了制冰机、冰盒和呼吸机的病房里，危重患者被立即放在冰块上，并浇灌冷水。
+
+Such presidential debate moments — missteps, one-liners, flops and various “Oops” moments — can even land in the history books.In the first televised presidential debate, in 1960, a confident Senator John F. Kennedy dominated Vice President Richard Nixon, who appeared sweaty and disheveled as he recovered from an illness. President Ronald Reagan used a joke to deflate concerns about his age in 1984.
+这样的总统辩论时刻——失误、金句、失败和各种让人惊呼糟糕的时刻——甚至可以载入史册。在1960年的第一次电视总统辩论中，自信的参议员约翰·F·肯尼迪压倒了副总统尼克松，后者大病初愈，汗流满面，整个人显得一团糟。里根总统用一个笑话来缓解人们对他年龄的担忧
+
+President Biden struggled through his first debate of the 2024 campaign against Donald J. Trump, meandering and mumbling through answers as the former president pressed his case for a second term with limited resistance from his rival.They disagreed on abortion, inflation, climate change, foreign affairs and immigration. But the sharpest contrast was in their presentation.
+拜登总统在与特朗普进行2024年总统竞选的第一场辩论中举步维艰，回答问题时迂回不清，口齿含糊，对前总统争取第二任期造成的阻力非常有限。双方在堕胎、通货膨胀、气候变化、外交事务和移民问题上存在分歧。但最鲜明的对比在于他们的样子。
+
+Mr. Trump was confident and forceful, even as he let loose a stream of misleading attacks and falsehoods. Mr. Biden spoke with a hoarse and halting voice, closing his eyes occasionally to gather thoughts that sometimes couldn’t be corralled. Democratic anxiety rose by the minute. About halfway through, people close to Mr. Biden put out word that he had a cold.Mr. Trump relentlessly hammered Mr. Biden on areas of vulnerability, sending exaggerations and embellishments — he was the “greatest” and his opponent the “worst” — flying unchecked through the audience-free CNN studio in Atlanta.
+特朗普自信而有力，尽管他发表了一连串误导性的攻击和谎言。拜登声音沙哑、结结巴巴，偶尔会闭上眼睛整理思路，但有时无法集中思绪。民主党人的焦虑每时每刻都在加剧。大约在辩论进行到一半时，拜登身边的人放出消息说，他感冒了。特朗普无情地抨击拜登的弱点，未经核实的各种夸张和修饰——他本人是“最伟大的”，而他的对手是“最差劲的”——这些都在没有观众的亚特兰大CNN演播室里漫天横飞。
+
+President Biden hoped to build fresh momentum for his re-election bid by agreeing to debate two months before he is formally nominated. Instead, his halting and disjointed performance on Thursday night prompted a wave of panic among Democrats and reopened discussion of whether he should be the nominee at all.
+拜登总统同意在得到正式提名前两个月进行辩论，希望以此为连任竞选造势。然而，他在周四晚上磕磕绊绊、语不连贯的表现在民主党人中引发了一波恐慌，并促使他们再次开始讨论他是否应该成为提名人。
+
+Over the course of 90 minutes, a raspy-voiced Mr. Biden struggled to deliver his lines and counter a sharp though deeply dishonest former President Donald J. Trump, raising doubts about the incumbent president’s ability to wage a vigorous and competitive campaign four months before the election. Rather than dispel concerns about his age, Mr. Biden, 81, made it the central issue.
+在90分钟的时间里，声音沙哑的拜登艰难地做出自己的表达，与尽管谎话连篇但口齿伶俐的前总统特朗普抗衡，让人怀疑现任总统是否有能力在大选前四个月前开展一场激烈而有竞争力的竞选活动。81岁的拜登没有消除人们对他年龄的担忧，而是令这一点成为核心问题。
+
+Biden is about to face a crescendo of calls to step aside,Joe had a deep well of affection among Democrats. It has run dry.Parties exist to win,The man on the stage with Trump cannot win. The fear of Trump stifled criticism of Biden. Now that same fear is going to fuel calls for him to step down.
+拜登将面临越来越多要求他让位的呼声，民主党人对乔有着深厚的感情。现在这感情已经干涸。政党的存在就是为了获胜，那个和特朗普同台的人不可能赢。对特朗普的恐惧压制了对拜登的批评。现在，同样的恐惧将助长要求他让位的呼声。
+
+Mr. Biden left the CNN studio in Atlanta instead facing a referendum on himself and his capacity that will reverberate for days if not longer.Mr. Trump, 78, appeared to coast through the debate with little trouble, even as he rattled off one falsehood after another without being effectively challenged. He appeared confident while avoiding the same excessively overbearing demeanor that damaged him during his first debate with Mr. Biden in 2020, seemingly content to let his opponent stew in his own difficulties.
+然而，当拜登离开亚特兰大的CNN演播室时，却面临着一场关于他本人及其能力的公投，这场公投的影响将持续数日甚至更久。78岁的特朗普在辩论中似乎游刃有余，尽管他滔滔不绝地说出一个又一个谎言，却没有受到任何有效的质疑。他显得信心十足，同时避免了在2020年与拜登的第一次辩论中损害他的那种过分霸道的举止，似乎认为让对手深陷在自己的困境之中就足够了。
+
+Both generals had been members of the commission. General Li “betrayed the party’s founding aspirations and party principles, and his actions betrayed the trust of the party’s Central Committee and the Central Military Commission,” the party said. General Wei was further accused of a “collapse in faith” in the party.Mr. Xi underscored his determination to root out misconduct and perceived disloyalty in the Chinese military earlier this month, when he met with commanders in Yan’an, an officially hallowed area of northwest China where Mao Zedong gathered forces during the revolution and war against Japan.
+这两人都曾是中共中央政治局的成员。公告写道，李尚福“背弃初心使命、丧失党性原则，其行为辜负了党中央、中央军委信任重托”。魏凤和还被指控对党“信仰坍塌”。本月早些时候，习近平在延安接见指挥官时强调，他决心根除中国军队中的不当行为和被视为不忠的行为。延安是位于中国西北部的一个官方红色圣地，毛泽东在革命和抗日战争期间曾在此集结部队。
