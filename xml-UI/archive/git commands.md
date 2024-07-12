@@ -965,7 +965,7 @@ gitk file
 			 gitreview.port
 						   This setting determines the default port of gerrit remote
 						   
-			gitreview.project
+			 gitreview.project
 						   This setting determines the default name of gerrit git repo
 
 			 gitreview.remote

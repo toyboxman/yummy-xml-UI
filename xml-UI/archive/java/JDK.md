@@ -59,6 +59,10 @@ Java HotSpot(TM) 64-Bit Server VM warning: INFO: os::commit_memory(0x00007b9c510
 ``` 
 按照[链接](https://bugs.eclipse.org/bugs/show_bug.cgi?id=432069)解决方案修改内存操作模式可以解决启动失败问题
 ```console 
+// -v: view flags
+// -c: convert PT_GNU_STACK into PT_PAX_FLAGS (see manpage!)
+// -C: create PT_PAX_FLAGS (see manpage!)
+
 sudo paxctl -C /root/jdk/bin/java
 sudo paxctl -m /root/jdk/bin/java
 
@@ -69,6 +73,19 @@ sudo paxctl -m /root/jdk/jre/bin/java
 java version "1.8.0_171"
 Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+
+// jdk11时候遇到新问题
+$ jdk/bin/java
+Error occurred during initialization of VM
+Failed to mark memory page as executable - check if grsecurity/PaX is enabled
+
+$ sudo paxctl -C jdk/bin/java
+file jdk/bin/java cannot have a PT_PAX_FLAGS program header, creation failed
+// 这个错误需要用小写 -c 作为参数
+$ sudo paxctl -c jdk/bin/java
+file jdk/bin/java had a PT_GNU_STACK program header, converted
+$ sudo paxctl -m jdk/bin/java
+
 ```
 #### Unable to open socket file
 ```console 
@@ -337,16 +354,35 @@ wget https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-jdk8.0.282-linux_x64.tar.gz
 wget https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jdk11.0.23-linux_x64.tar.gz
 
 # 也可以从对应jdk拷贝jre缺失文件
-cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
+$ cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
 # 如果目标jre lib中缺少tools.jar，需要从jdk中复制一份
-cp /usr/java/jdk1.8.0_251/lib/tools.jar /usr/java/jre1.8.0_251/lib
+$ cp /usr/java/jdk1.8.0_251/lib/tools.jar /usr/java/jre1.8.0_251/lib
 
 # 如果目标jvm不是root用户权限启动，例如是proton用户执行
-chown -hR proton arthas-boot.jar 
+$ chown -hR proton arthas-boot.jar 
 # 把执行包从root目录移动到proton用户权限目录中
-mv arthas-boot.jar /opt/app/proton-tomcat
+$ mv arthas-boot.jar /opt/app/proton-tomcat
 # 用proton用户权限启动进程，attach到 jvm 3331进程
-sudo -u proton /usr/java/jdk1.8.0_251/bin/java -jar /opt/app/proton-tomcat/arthas-boot.jar 3331
+$ sudo -u proton /usr/java/jdk1.8.0_251/bin/java -jar /opt/app/proton-tomcat/arthas-boot.jar 3331
+# 当使用正确版本JDK后，执行权限问题仍就会给出一些不直接的错误提示，如下
+// 解决办法是把 arthas-boot.jar、JDK放到合适目录，不要放到 /root, 除非应用JVM是root权限启动的
+[INFO] JAVA_HOME: /root/jdk
+[INFO] arthas-boot version: 3.7.2
+[INFO] arthas home: /root/.arthas/lib/3.7.2/arthas
+[INFO] Try to attach process 2384410
+Picked up JAVA_TOOL_OPTIONS: 
+[ERROR] Start arthas failed, exception stack trace: 
+com.sun.tools.attach.AgentLoadException: Agent JAR not found or no Agent-Class attribute
+        at jdk.attach/sun.tools.attach.HotSpotVirtualMachine.loadAgent(HotSpotVirtualMachine.java:159)
+        at com.taobao.arthas.core.Arthas.attachAgent(Arthas.java:122)
+        at com.taobao.arthas.core.Arthas.<init>(Arthas.java:27)
+        at com.taobao.arthas.core.Arthas.main(Arthas.java:161)
+[INFO] Attach process 2384410 success.
+[INFO] arthas-client connect 127.0.0.1 3658
+Connect to telnet server error: 127.0.0.1 3658
+java.net.ConnectException: Connection refused (Connection refused)
+        at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+
 ```
 ##### search class  
 当search loaded class时候，常常碰到class找不到,确认jar文件已经放在classpath. 如果jar已经在-cp指定目录中，但仍然搜寻不到相关类如下
