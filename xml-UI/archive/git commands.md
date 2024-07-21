@@ -172,6 +172,7 @@ git pull
 ### git push
 ```console
 # 等价于执行 git push <remote>, 此<remote>的值为当前branch对应的origin, 如果没有其他remote映射到当前branch
+# origin 指 git config配置的 remote.origin.url=git@github.com:apache/griffin.git
 git push
 # 找到本地分支master(refs/heads/master)，更新到远程repo，如果远程不存在master分支，则创建一个
 git push origin master
@@ -184,6 +185,7 @@ git push origin HEAD
 # 更新当前分支到remote的master分支，不理会当前分支名是否是master
 git push origin HEAD:master
 # 把本地当前最新分支push到remote Eugene repo的bugs分支
+# remote Eugene repo 指的是 remote.Eugene.url=git@github.com:toyboxman/griffin.git
 git push Eugene HEAD:bugs
 
 # 通过copy当前master分支，在remote创建branch experimental
