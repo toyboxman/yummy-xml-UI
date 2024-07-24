@@ -344,7 +344,7 @@ Picked up JAVA_TOOL_OPTIONS:
 Error: Unable to initialize main class com.taobao.arthas.core.Arthas
 Caused by: java.lang.NoClassDefFoundError: com/sun/tools/attach/AgentLoadException
 
-# azul的zulu是基于openjdk的一种jdk发型版本
+# azul的zulu是基于openjdk的一种jdk发型版本 https://cdn.azul.com/zulu/bin
 # 对应 openjdk8
 wget https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-jdk8.0.282-linux_x64.tar.gz
 
@@ -352,6 +352,18 @@ wget https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-jdk8.0.282-linux_x64.tar.gz
 # OpenJDK Runtime Environment Zulu11.72+19-CA (build 11.0.23+9-LTS)
 # OpenJDK 64-Bit Server VM Zulu11.72+19-CA (build 11.0.23+9-LTS, mixed mode)
 wget https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jdk11.0.23-linux_x64.tar.gz
+
+# $ jdk/bin/java -version
+# Error occurred during initialization of VM
+# Failed to mark memory page as executable - check if grsecurity/PaX is enabled
+# $ paxctl -c jdk/bin/java
+# file jdk/bin/java had a PT_GNU_STACK program header, converted
+# $ paxctl -m jdk/bin/java
+# $ jdk/bin/java -version
+# openjdk version "17.0.12" 2024-07-16 LTS
+# OpenJDK Runtime Environment Zulu17.52+17-CA (build 17.0.12+7-LTS)
+# OpenJDK 64-Bit Server VM Zulu17.52+17-CA (build 17.0.12+7-LTS, mixed mode, sharing)
+wget https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jdk17.0.12-linux_x64.tar.gz
 
 # 也可以从对应jdk拷贝jre缺失文件
 $ cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
