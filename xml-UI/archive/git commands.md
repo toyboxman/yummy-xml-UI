@@ -90,6 +90,14 @@ git config --unset user.password
 git config --local --unset credential.helper
 git config --global --unset credential.helper
 git config --system --unset credential.helper
+
+# opensuse系统上默认使用branch命令后，结果出现在less命令输出中，而不是当前terminal
+# 就等于差看branch结果不在当前命令terminal，而是进入新的shell，使用不方便
+# 这是因为默认 less 要手动退出，即使输出行数没有超出屏幕范围。解决方式就是短行数时候强制退出less
+git config --global core.pager "less -F -X "
+
+# 切换不同编辑器
+git config --global core.editor nano
 ```
 
 ### git init
