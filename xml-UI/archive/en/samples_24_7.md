@@ -240,3 +240,69 @@ Indeed, Vance, despite stiff competition, may be the most cynical major figure i
 
 Anyway, there’s no reason to believe anything Vance says about supporting the working class. His book makes it clear that, at least to a degree, he looks down on those who haven’t managed some measure of his professional trajectory. He may have grown up poor, but these days he’s just a smart, unscrupulous politician using his background to hide the extent to which he represents the values and interests of plutocrats.
 总之，没理由相信万斯关于支持劳动阶层的任何一句话。他的书已经清楚地表明，他至少在一定程度上是瞧不起这些人的，认为他们没能好好把握自己的职业轨迹。他也许出身贫寒，但如今他只是一个聪明、无良的政客，他在利用出身掩盖自己作为财阀价值观与利益代言人的事实。
+
+With a coterie of female bodyguards, at least two foreign passports and more than 100 offshore companies, he amassed riches through state-dominated industries rife with cronyism: banking, insurance and brokerages.
+他通过充斥着裙带关系的国家主导行业——银行、保险和经纪公司——积累了大量财富，拥有一群女保镖、至少两本外国护照，以及100多家离岸公司。
+
+Ms. Harris and her team are likely to move swiftly to try to seize that mantle even as uncertainty swirled about whether other Democrats would seek to challenge her for the nomination at the party’s convention in Chicago next month.
+哈里斯和她的团队很可能会迅速采取行动，设法抓牢拜登的衣钵，尽管目前还不确定其他民主党人是否会在下个月于芝加哥举行的大会上寻求挑战她的提名。
+
+As the party’s nominee, she would be able to take some credit for the president’s legislative successes, like new laws boosting infrastructure spending, but would also be vulnerable to attack for his failures, like the botched withdrawal from Afghanistan, a surge in inflation and the difficulty of controlling the stream of migrants across the Southern border.
+作为该党的提名人，她可以因总统在立法上的成就而揽下一些功劳，比如增加基础设施开支的新法律，但也很容易因总统的失败之处而受到攻击，比如笨拙的阿富汗撤军、激增的通货膨胀，以及难以控制跨越南部边境的移民潮等问题。
+
+Early mistakes cost her dearly. After being asked by Mr. Biden to address the root causes of immigration — a directive that was widely interpreted as making Ms. Harris the country’s de facto border czar — she stumbled in the face of large surges of families at the border. 
+早期的失误让她付出了沉重的代价。拜登要求哈里斯从根本上解决移民问题——这一指示被广泛解读为哈里斯成为美国事实上的边境沙皇——面对边境涌入的大批家庭，她的表现拙劣。
+
+“There appears to be no deviation from its immediate priority, which is to balance its economic recovery against national security concerns, while maintaining social stability,” the European Union Chamber of Commerce in China said in a statement on Friday.
+中国欧盟商会周五在声明中表示：“中国的当务之急是在经济复苏和国家安全之间取得平衡，同时维护社会稳定，这一点似乎没有偏离。”
+
+As in the period between World War I and World War II, Ms. Rice added, there has been the return of “the Four Horsemen of the Apocalypse: populism, nativism, isolationism and protectionism.”But it all has a sense of fragility about it; the partnerships in Asia have little of the muscle memory of the NATO alliance.After Trump’s cost- and benefit-oriented and arm-twisting foreign policy, Biden respected and restored the alliance,
+就像第一次世界大战和第二次世界大战之间的时期一样，赖斯补充说，“末日四骑士已经重返：民粹主义、排外主义、孤立主义和保护主义。”然而，这一切都显得脆弱不堪；美国在亚洲的伙伴关系缺乏北约联盟的那种肌肉记忆。在特朗普的以成本和收益为导向，以及胁迫性的外交政策之后，拜登尊重并恢复了联盟
+
+Kamala Harris is a highly memeable presidential candidate. She dances in a loose and enthusiastic manner. She has an idiosyncratic speaking style. She laughs easily, including at herself. This has not always worked in her favor.
+卡玛拉·哈里斯是个很容易被做成米姆的总统候选人。她的舞蹈松弛而热情。她的演讲风格特立独行。她很爱笑，包括笑自己。这并不总是对她有利。
+
+When Harris said, in a May 2023 speech, “You think you just fell out of a coconut tree?,” a Republican YouTube channel snipped the clip from its context and tossed it to commentators, who used it to compare Harris to a daffy talk show host or to joke that she sounded high. Videos of Harris dancing at campaign events were labeled “cringe.” The stickiest anti-Kamala meme of the 2020 election — that the former prosecutor Harris “is a cop” — united leftists, Black Twitter and Republican trolls in an internet-wide project of framing Harris as either a reactionary or a hypocrite.
+哈里斯在2023年5月的一次演讲中说：“你以为你是从椰子树上掉下来的吗？”YouTube上的一个共和党频道把这段视频从语境中截取出来，扔给评论者，他们用这段视频把哈里斯比作一个呆傻的脱口秀主持人，或者开玩笑说她好像是嗑了药。哈里斯在竞选活动中跳舞的视频被贴上了“尬舞”的标签。2020年大选中最引人观看的反卡玛拉米姆——前检察官哈里斯“是个条子”——让左派人士、黑人Twitter用户和共和党喷子走到了一起，在整个互联网范围内将哈里斯诬为反动分子或伪君子。
+
+Her dance moves have been set to Charli XCX songs and filtered through Charli’s lime-green “Brat”-era branding, bathing Harris in her chill hot-mess pop star glow. Even “Kamala Harris is a cop” has been reclaimed, with an exaggerated wink, by supporters eager to fashion it into a winning general-election pitch.
+她的舞蹈动作被配上了Charli XCX的歌曲，并且配上了《Brat》时期Charli标志性的灰绿色滤镜，让哈里斯沐浴在时尚酷炫的流行歌星光晕之下。甚至“卡玛拉·哈里斯是条子”这句话也被支持者重新拾起，配上夸张的眨眼动作，他们希望把它塑造成赢得大选的宣传口号。
+
+Are you willing to spend your evening editing a fancam-style video that sets her idiosyncrasies to pop music so effectively that they produce a pleasant narcotic effect?All of it feels like a fun house mirror to the online energy that vibrates around the other party’s presidential nominee, Donald J. Trump. The Trump fandom stands ready and willing to spin any potential weakness, up to and including a felony conviction, into a triumphant meme.
+你愿意花一个晚上的时间，为她剪辑一个粉丝角度的视频，将她的特质与流行音乐有效地结合起来，产生一种令人愉悦的麻醉效果吗？这一切像是一面哈哈镜，映照出围绕着另一方总统候选人特朗普的网络能量。特朗普的粉丝们随时准备，并且愿意把他任何潜在的弱点，包括重罪定罪，变成一个和胜利有关的米姆。
+
+It makes it feel as if the internet manifested her candidacy. Her boosters are now tipsy with their collective power.The undercurrent to many of the anti-Kamala memes was the accusation that she occasionally appeared smugly unintelligible. One viral supercut, which showed Harris passionately delivering the catchphrase “what can be, unburdened by what has been” over and over again
+这让人感觉好像互联网在彰显她的候选资格。她的支持者们现在正沉醉于自己的集体力量。许多反卡玛拉的表情包中暗涌着对她的指责，觉得她有时会显得自鸣得意、难以理解。在一个广为传播的超级剪辑中，哈里斯热情地、一遍又一遍地说着“可以成为什么，摆脱过去的负担”这句名言
+
+Katy Sorenson, 69, a former commissioner in Miami-Dade County, Fla., said the overturning of Roe had been a “galvanizing phenomenon.”Women also pointed to societal shifts that might make Ms. Harris’s run different.Though Mrs. Clinton won the most votes in 2016, some voters said they found her off-putting. Among them was Dr. Maria E. Laurencio, 73, a retired anesthesiologist in Coral Gables, Fla., who was a lifelong Republican until she pinched her nose and voted for Mrs. Clinton.Hillary tended to be a little arrogant and not so likable, even though she was so prepared.
+69岁的前佛罗里达州迈阿密-戴德县委员凯蒂·索伦森说，推翻罗案“把大家吓得一激灵”。还有女性指出，社会的转变可能会影响哈里斯的竞选。希拉里·克林顿在2016年赢得了最多的票数，但一些选民还是认为她令人生厌。这其中就包括了73岁的玛丽亚·E·劳伦西奥博士，这位佛罗里达州科勒尔盖布尔斯的退休麻醉师投了一辈子的共和党，但还是捏着鼻子投给了克林顿。希拉里常常显得有些傲慢，不招人喜欢，尽管她做了很多准备。
+
+China, the world’s biggest source of planet-warming greenhouse gases for most of the past two decades, is seemingly on the verge of bending its emissions curve from years of steep growth into a flat plateau.
+在过去20年的大部分时间里，中国是世界上最大的温室气体排放国，如今它的排放曲线似乎即将从多年的急剧增长转向平稳。
+
+Some of China’s coal build-out is meant to provide a fallback option for when wind and solar generation dips. But China is also investing heavily in pumped-storage hydropower. Pumped hydro is a way to store energy by pumping water uphill to a reservoir during times of low demand for electricity, then releasing it later to generate extra electricity if demand surges.
+中国的部分燃煤电厂建设项目是为了在风能和太阳能发电量下降时提供备用选择。但中国也在大力投资抽水蓄能水电。抽水蓄能是一种储存能源的方式，在电力需求较低的时候，将水抽往上游的水库，然后在需求激增时放水产生额外的电力。
+
+Kazakhstan said that it was also courting buyers from the West and that it did not play favorites when it came to investors in mining.If somebody is doing geological exploration, I don’t care what flag they carry.China’s economic influence is now apparent across the country. In Almaty, Kazakhstan’s wealthiest city, new car dealerships for Chinese electric vehicle brands are popping up.We are a natural, organic partner to China,We are very safe economically and politically.
+哈萨克斯坦表示，它也在吸引西方买家，而且在该国的矿产投资问题上不偏好任何一方。如果有人来这里进行地质勘探，我不在乎他们携带哪个国家的国旗.中国的经济影响力如今已遍布哈萨克斯坦全境。在最富裕的城市阿拉木图，中国电动汽车品牌的新车经销店接连涌现。我们是中国天生的、自然的合作伙伴，我们在经济和政治上都非常安全
+
+Through its state-owned mining firms, Kazakhstan is a leading supplier not only of oil and uranium but also of chromium, gold and copper.For years, global miners stayed away from investing because it seemed risky. Kazakhstan was viewed as promising, but bogged down by bureaucracy, a lack of transparency and corruption. And eventually, new mining opportunities dried up.
+通过国有矿业公司，哈萨克斯坦成为一个主要供应国，不只是石油和铀，还包括铬、金和铜。多年来，全球矿商一直避免投资这里，因为看起来风险很大。哈萨克斯坦被认为前景广阔，却因官僚主义、缺乏透明度和腐败而停滞不前。最终，新的采矿机会枯竭了。
+
+In fields blanketed with fresh snow, boreholes stick out of the ground every few feet. Kaznickel injects a chemical solution into the ground through the openings. The nickel dissolves in the solution, which is then pumped to the surface and processed in a metal storehouse next to the site.
+在覆盖着刚下的雪的田野里，每隔几米就有钻孔从地面伸出来。哈萨镍公司通过这些开口，向地下注入一种化学溶液。镍溶解在溶液中，然后被泵送到地面，在现场旁边的金属仓库进行处理。
+
+Sitting behind the Resolute Desk and surrounded by photos of his family, Mr. Biden ticked through the accomplishments of his term, ranging from the choice of the first Black woman to be a Supreme Court justice to pulling the country out of a paralyzing pandemic. He expressed gratitude to the American people for allowing a “kid with a stutter” from modest beginnings in Scranton, Pa., to reach the pinnacle of American politics.
+拜登坐在坚毅桌后面，周围环绕着家人的照片，他回顾了自己任期内取得的成就，从选择第一位黑人女性担任最高法院大法官到带领国家摆脱了一场令举国瘫痪的大流行。他对美国人民表示感谢，称他们允许宾夕法尼亚州斯克兰顿一个出身平凡的“口吃孩子”登上美国政治的顶峰。
+
+Mr. Biden, who spent the first part of the week recovering from Covid at his beach house in Delaware, spoke with a rasp and slight slur in his voice, speaking sometimes haltingly.Over the last three-and-a-half years, Mr. Biden worked to repair frayed relations with American allies in the West, passed a raft of landmark legislation and helped lead the country out of a crippling pandemic.
+拜登在特拉华州的海滨别墅度过了本周的前几天，正从新冠病情中恢复，他声音沙哑，谈吐略显含混，不时有些磕绊.过去三年半里，拜登努力修复美国与西方盟友的紧张关系，通过了一系列具有里程碑意义的立法，并帮助美国摆脱了一场严重的大流行。
+
+But more to the point, if you think that the concerns of parents and families will always be “abstract” to someone who doesn’t have children, you’re telling on yourself. It’s not simply that, by all accounts, Harris has a close, loving relationship with her stepkids. It’s that it’s possible for people who have basic empathy to understand the needs, aspirations and concerns of fellow citizens who aren’t exactly like them — and to commit to their well-being.
+但更为重要的是，如果你认为父母和家庭的担忧对没有孩子的人来说永远是“抽象的”，这其实暴露了你的无知。这不仅是因为据所有已知情况，贺锦丽与她的继子女有着充满爱意的亲密关系。这是因为，具有基本同理心的人完全有可能理解与他们不尽相同的同胞的需求、愿望和担忧，能致力于他们的福祉
+
+This argument is also appallingly dismissive to so many adults who dote on the children in their lives and devote time, money and care to helping them grow, regardless of whether they are related by blood. It’s even more hurtful to people who really want to have children but are unable to.— some Republicans are content to paint the Democratic Party as the party of “childless cat ladies.”
+这个论调也极其轻视那些关心生活中的孩子的成年人，他们愿意投入时间、金钱和精力来帮助孩子成长，无论这些孩子和自己是否有血缘关系。对那些真想要孩子但无法生育的人来说，这种说法甚至更伤人。一些共和党人乐于将民主党描绘成“没孩子却养猫的老太婆政党”
+
+But these critiques are part of the right-wing obsession with the traditional nuclear family. As the former presidential candidate Vivek Ramaswamy put it: “The nuclear family is the greatest form of governance known to mankind.”By contrast, when CNN’s Jake Tapper asked a question about child care in the presidential debate last month, Donald Trump responded with a word salad about firing a bunch of people, draining the swamp and how President Biden is terrible.
+但这些批评是右翼对传统核心家庭痴迷的一部分。正如曾竞选共和党总统候选人的维韦克·拉马斯瓦米所说：“核心家庭是人类已知的最伟大的治理形式。”相比之下，美国有线电视新闻网的杰克·塔珀在上月的大选辩论中问有关照看孩子的问题时，特朗普答非所问，说了一堆他要解雇很多人、要抽干沼泽，以及拜登总统有多糟的不相干的话。
