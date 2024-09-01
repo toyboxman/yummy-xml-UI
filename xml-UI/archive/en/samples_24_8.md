@@ -111,3 +111,87 @@ In 1958, a young graduate student moved to the United States from her native Ind
 
 Politicians — and recent Democratic presidential nominees, especially — have leaned on their life stories, their parents and their childhoods as a way to explain themselves and their values to the American public, often holding out a humble background or a difficult childhood as a way to connect with millions of others who did not have the elusive white-picket-fence American upbringing.
 政界人士——尤其是近些年的民主党总统候选人——把他们的生活故事、父母和童年作为向美国公众解释自己及其价值观的一种方式，通常是通过卑微的背景或艰难的童年，从而与那些并非在白篱笆式美国中产阶级环境下长大的人们建立联系
+
+As he kicked off the exhibition this month, John Lee, the Beijing-backed leader of Hong Kong, made clear that its overarching purpose was to be a warning to the city. “Safeguarding national security is always a continuous effort.
+北京支持的香港领导人李家超在本月为展览揭幕时明确表示，展览的首要目的是为香港敲响警钟。“维护国家安全只有进行时，没有完成时，”他说
+
+Both sides said they had agreed to a video call between their top military commanders in the region. The United States said that such a call would be held in the “near future,” but China was more noncommittal, saying that it would take place “at an appropriate time.” This theater-command-level dialogue is essential for crisis prevention
+双方都表示同意双方的战区领导举行视频通话。美国表示，这样的电话会议将在“不久的将来”举行，但中国的态度更为含糊，称将“适时”举行。这种战区司令级别的对话对于预防危机至关重要
+
+According to a ministry official, a Chinese reconnaissance aircraft briefly entered Japanese territory near Nagasaki Prefecture around 11:30 a.m. on Monday. In response, Japan’s Self-Defense Force put fighter jets on high alert and issued a warning to the Chinese aircraft.
+据防卫省官员说，一架中国侦察机周一上午11点30分左右短暂进入长崎县附近的日本领空。作为回应，日本自卫队战斗机处于高度戒备状态，并向中国飞机发出了警告
+
+China also temporarily blocked imports of canola, an oil seed, from Canada. While the step was ostensibly taken because of insects in the grain, Canada viewed it as further retaliation.
+当时中国还暂时禁止从加拿大进口油菜籽。虽然这一措施表面上是由于作物中的昆虫，但加拿大认为这是进一步的报复之举。
+
+Hong Kong teenagers find it all pretty amusing. A few said on social media that the officials behind the policy have their “heads in the clouds.” Others have worked it into sexual slang, talking about “friends with badminton” instead of “friends with benefits.”
+香港青少年觉得这一切都很有趣。一些人在社交媒体上表示，该政策背后的官员“头脑不清”。还有人把它变成了性俚语，用“羽毛球友”来代替“炮友”。
+
+Nepal’s economy, heavily reliant on overseas remittances and tourism, has struggled to recover since the pandemic. The international airport in Pokhara, a picturesque city in the foothills of the Himalayas, was seen as a way to bolster tourism and breathe new life into the economy.
+尼泊尔经济严重依赖海外汇款和旅游业，新冠疫情后一直难以复苏。位于喜马拉雅山麓风景如画的城市博卡拉的国际机场曾被视为有助于促进旅游业，为经济注入新活力
+
+More than a decade ago, when Russia pushed Pavel Durov to shut down the pages of opposition politicians on a Facebook-like site he had created, the tech entrepreneur responded online by posting a cheeky picture of a hoodie-wearing dog with its tongue out.Thirteen years later, Mr. Durov’s anti-establishment streak appears to have gotten him into a fresh round of trouble with the authorities.
+十多年前，当俄罗斯敦促帕维尔·杜罗夫在他创建的类似Facebook的网站上关闭反对派政治人士的页面时，这位科技企业家在网上发布了一张放肆的照片，上面是一只穿着连帽衫、吐着舌头的狗。13年后，杜罗夫的反体制倾向似乎又给他带来了与当局的新一轮麻烦。
+
+Mr. Durov’s arrest has caused a firestorm, turning him into a folk hero among those concerned about free speech and government censorship, especially as scrutiny of online content has increased globally. 
+杜罗夫的被捕引发了轩然大波，在关注言论自由和政府审查的人当中，他成了民间英雄，尤其是考虑到全球范围内对网络内容的审查正变得越来越严格。
+
+Born in 1984 in the Soviet Union, Mr. Durov moved with his family when he was 4 to northern Italy. His brother, Nikolai, a math whiz who became Telegram’s chief technology officer, was featured on Italian television solving cubic equations. In the early 1990s, after the Soviet Union collapsed, the Durovs returned to St. Petersburg, where Pavel and Nikolai participated in youth math competitions and coded on an IBM computer the family had brought back from Italy.
+杜罗夫1984年出生于苏联，四岁时随家人移居意大利北部。他的哥哥尼古拉是数学天才，曾在意大利电视上表演解三次方程，后来成为Telegram的首席技术官。上世纪90年代初苏联解体后，杜罗夫一家回到圣彼得堡，帕维尔和尼古拉在那里参加青少年数学竞赛，并用他们从意大利带回来的一台IBM电脑编程。
+
+Mr. Durov has citizenship for the United Arab Emirates and France, according to Telegram. Though he travels by private jet, he has said he eschews buying things, keeping hundreds of millions of dollars in his bank account and Bitcoin to ensure he can be free. Bloomberg has estimated his net worth at more than $9 billion.
+Telegram称，杜罗夫拥有阿联酋和法国国籍。虽然他乘坐私人飞机旅行，但他说自己总是避免购物，用存在银行里的数亿美元和比特币来确保自己可以自由自在。彭博社估计他的净资产超过90亿美元
+
+For years, internet company executives rarely faced personal liability in Western democracies for what took place on their platforms. But as law enforcement agencies, regulators and policymakers ramp up scrutiny of online platforms and exchanges, they are increasingly considering when to hold company leaders directly responsible.
+多年来，在西方民主国家，互联网公司的高管很少因平台上发生的事情而承担个人责任。但随着执法机构、监管部门和政策制定者加强对在线平台和平台上交流的审查，他们正在越来越多地考虑是否让公司领导人承担直接责任的问题。
+
+That shift was punctuated by Mr. Durov’s arrest over the weekend, raising questions over whether tech executives like Meta’s Mark Zuckerberg also risk being arrested when they next set foot on European soil.
+杜罗夫上周末的被捕表明了这个转变已经发生，同时也提出了像Meta的扎克伯格等科技公司高管下次踏上欧洲土地时是否也会面临被捕风险的问题。
+
+Historically, companies have been held responsible for a platform’s transgressions, rather than individuals. And legally, the bar is high in the United States and Europe to prosecute individuals for activities at their companies, especially with U.S. laws like Section 230 of the Communications Decency Act, which protects internet platforms from being responsible for harmful speech.
+从历史上看，平台违规行为的责任者是公司，而不是个人。从法律上看，美国和欧洲国家因公司活动对拥有公司的个人提起诉讼的门槛很高，尤其是在美国，因为美国有保护互联网平台免于对平台上的有害言论负法律责任的《通信规范法》第230条等法律。
+
+While French authorities have provided few specifics, he faces a raft of potential charges related to activities on Telegram, including child sexual abuse material, drug trafficking, fraud, money laundering, abetting criminal transactions and refusing to cooperate with law enforcement.
+虽然法国当局没有提供具体细节，但他面临一系列与Telegram平台上的活动有关的潜在指控，包括儿童遭受性虐待的内容、贩毒、欺诈、洗钱、怂恿犯罪交易，以及拒绝与执法部门合作等。
+
+If I was a betting person, I would say that there will be a day that Elon Musk is on trial or be in prison in some country because of his refusal and his thumbing the nose at the rule of law
+如果我是个爱打赌的人，我会说，有朝一日，埃隆·马斯克会因为拒绝监管、蔑视法律而在某个国家受审或入狱
+
+China will hold live-fire military drills near its border with Myanmar starting on Tuesday, fortifying its boundaries with a southern neighbor that has been engulfed in a civil war for more than three years.
+中国将于周二开始在靠近缅甸的边境地区举行实弹军事演习，以加强与这个南部邻国的边界安全。缅甸陷入内战已逾三年。
+
+China’s People’s Liberation Army’s Southern Theater Command said on Monday that it would conduct both land and air exercises in the southwestern province of Yunnan to test the “joint strike capabilities of theater troops and maintain security and stability in the border areas.” China conducted two similar drills in April.
+中国人民解放军南部战区周一宣布，将在西南省份云南开展空地联合演习，以“检验战区部队联合打击能力，维护边境地区安全稳定”。中国在今年4月进行了两次类似演习
+
+The string of economic shocks produced by the coronavirus pandemic and Russia’s invasion of Ukraine helped to supercharge the debt crisis. Food and energy prices soared as government coffers dwindled. The moves by central banks in wealthy countries to fight inflation with higher interest rates caused borrowing costs to rapidly climb.
+新冠病毒大流行和俄罗斯入侵乌克兰造成的一系列经济冲击加剧了债务危机。食品和能源价格飙升，而政府金库里的钱却在减少。富裕国家的央行通过提高利率对抗通胀的举措导致借贷成本迅速攀升
+
+“But,” he added with a sigh, “I can’t find true love.” Others share his frustrations, but downplay any yearning to find love. More than a few say they have lost hope.
+但他叹了口气补充道，“我找不到真正的爱情。”其他人也有与他一样的沮丧，但对爱情的渴望则轻描淡写。不少人说他们已经不抱希望了
+
+The gatherings are social events — people bring karaoke machines and speakers to the park to dance and sing. They bring thermoses to Ikea to fill with free coffee, and sit around birch and plastic white tables swapping stories about their childhoods.
+这些聚会是社交活动。人们带着卡拉OK机和扬声器来公园唱歌跳舞。他们带着保温杯来到宜家餐厅，装满免费的咖啡，坐在桦木和白色塑料桌子旁，聊起各自的童年往事
+
+For a few hours in the afternoon, the Swedish furniture retailer has the feel of a social club. The second floor of the store has some of the usual weekday traffic — shoppers who amble through the cafeteria’s metal stanchions picking out the famous meatballs, almond cakes and lingonberry juice. But many more have come for something other than Swedish fare, some bringing their own food and loitering from table to table, pulling chairs up to where friends and acquaintances are seated.
+在下午的几个小时里，这家瑞典家具零售商给人一种社交俱乐部的感觉。商店二楼有一部分是平日里的那种客流——购物者在自助餐厅的金属架间穿行，挑选著名的肉丸、杏仁蛋糕和越橘汁。但更多的人来到这里不是为了瑞典美食，有些人自带食物，从一张桌子走到另一张桌子，把椅子拉到朋友和熟人坐的地方
+
+There’s no doubt that these people belong to the privileged class. To meet with them, I visited quite a few fancy mansions. One home sat atop the Los Gatos hills; my Uber driver whistled in awe when he turned onto the long driveway. Then he chuckled when he stopped his modest S.U.V. in front of a red Ferrari, a Tesla Cybertruck and a few Audis and BMWs. And there was Mr. Wei’s party, which one partygoer described to me as Gatsbyesque.That might be better than nothing.
+毫无疑问，这些人属于特权阶层。为了与他们见面，我参观了不少豪宅。一所房子坐落在洛斯加托斯的山顶上；我的优步司机在驶入长长的私人车道时吹了一声口哨表示惊叹。然后，在把自己那辆不起眼的SUV停在一辆红色法拉利、一辆特斯拉Cybertruck以及几辆奥迪和宝马前面时，他轻声笑了起来。还有卫哲的派对，一位参加派对的人对我说，那是盖茨比式的. 总归是聊胜于无
+
+He has since equivocated on TikTok, saying that, if elected, he would “save TikTok.” And despite his anti-China views, as president Mr. Trump welcomed U.S. investment by Taiwan’s Foxconn, which derives much of its revenue from its Chinese factories.
+此后，他对TikTok的态度变得模棱两可，称如果当选的话，他将“拯救TikTok”。尽管持反华观点，特朗普在担任总统期间还是欢迎台湾的富士康到美国投资，富士康的大部分收入都来自它在中国的工厂。
+
+At the 2018 groundbreaking for Foxconn’s $10 billion plant in Wisconsin to make flat-screen televisions, Mr. Trump called the project the “eighth wonder of the world.” Plans for the factory later sputtered amid changing market dynamics and much of the planned site remains undeveloped.
+在2018年，在为富士康在威斯康星州投资100亿美元建设液晶面板厂举行的奠基仪式上，特朗普称该项目为“世界第八大奇迹”。然而，由于市场形势的变化，建厂计划后来搁浅，大部分规划用地依旧处于未开发状态
+
+Speaking last month in Grand Rapids, former President Trump supported the onshoring of electrification manufacturing in our state and the United States by Chinese-affiliated companies，Trump wants the people of Michigan and our local economy to thrive from these types of jobs, and so do we.
+前总统特朗普上个月在大急流城发表讲话时，支持中资企业将电气化制造业回流到本州和美国，特朗普希望密歇根人民和我们当地的经济能够从这些类型的工作中获利，我们也希望如此
+
+Capping, rather than banning, Chinese imports could preserve access to Chinese innovation while making sure that protected domestic companies don’t get lazy, he said.
+他说，限制而非禁止从中国进口产品，既能保留获取中国创新的机会，同时也能确保受保护的国内企业不会变得懒惰。
+
+A potential objection to Friedberg’s trade defense coalition is that it’s overkill — that it would needlessly antagonize China, heightening the risk that a trade war would spill into a shooting war, or at least depriving the world of the benefits of cross-border trade and investment. Another objection is that it simply wouldn’t work: Coalition members would squabble and defect. Countries outside China and its sphere of influence would not have the energy, patience or skill to rebuild production capacity in long-lost industries that have strategic value.
+对弗里德伯格的贸易防御联盟的一个潜在反对意见是，它有点矫枉过正——它会不必要地激怒中国，增加贸易战蔓延成真刀真枪的战争的风险，或者至少剥夺了世界从跨境贸易和投资中获益的机会。另一个反对意见是，它根本行不通：联盟成员会争吵和叛逃。中国及其势力范围以外的国家将没有精力、耐心或技能来重建早已失去的那些战略性行业产能
+
+Finally, we need to talk about our common Western values. Isn’t the one major difference between us and authoritarian or dictatorial regimes our commitment to human rights, to the rule of law, to decency in this age of impunity, as David Miliband, the former British foreign secretary, once called the current global disorder? We can and we should be proud of this commitment. The problem is that the Western world — and in particular the United States — is being accused of applying double standards in dealing with wars, conflicts, and human rights abuses.
+最后，我们需要谈谈共同的西方价值观。英国前外交大臣戴维·米利班德曾将当前的全球混乱称为有罪不罚的时代，我们与专制或独裁政权之间的一个主要区别，不就是我们对人权、法治和礼度的承诺吗？我们能够而且应该为这一承诺感到自豪。问题是，西方世界——尤其是美国——被指责在处理战争、冲突和侵犯人权问题上采用双重标准
