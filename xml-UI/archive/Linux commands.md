@@ -1020,10 +1020,25 @@ $ ssh root@192.168.1.1 "ssh root@192.168.1.2 \"grep -in '#bms#' /var/log/proton/
 # 可以配置转发 private -> jumphost -> public
 # 将172.16.1.13上端口54321数据转发本机54321端口
 $ ssh -R 54321:localhost:54321 root@172.16.1.13
-
 # 如果jumphost上配置了端口转发，那么就可以通过ssh登陆后面的host
 # -l login name -p port, 10.40.69.104为跳板机地址
-$ ssh -l root 10.40.69.104 -p 63005
+$ ssh -l root 172.16.1.13 -p 54321
+
+# https://mp.weixin.qq.com/s/z8Y9JRX2UfobSYs2ITrMAw
+# SSH端口转发——本地转发
+# client(192.168.0.1) -> jumphost(192.168.0.2) -> server(192.168.0.3)
+# -f 后台启用 -N 不打开远程shell，处于等待状态（不加-N则直接登录进去）-g 启用网关功能
+# 先在client上进行配置，通过jumphost将server 22 port数据转发到client 2222 port
+$ ssh -L 2222:192.168.0.3:22 -fN 192.168.0.2
+# 从client端登陆server
+$ ssh 127.0.0.1 -p 2222
+# 想要停止这个隧道，直接把client后台的隧道进程杀死就可以了
+
+# SSH端口转发——远程转发 这种适用jumphost只能往外连，不接受外来连接情况，如在防火墙内
+# client(192.168.0.1) <- jumphost(192.168.0.2) -> server(192.168.0.3)
+# 先在jumphost上进行配置，通过jumphost将server 22 port数据转发到client 2222 port
+$ ssh -R 2222:192.168.0.3:22 -fN 192.168.0.1
+$ ssh 127.0.0.1 -p 2222
 ```
 - 定位ssh错误   
 由于openssh默认不再支持ssh-rsa算法(存在安全隐患)，因此升级到较新版本后ssh有时候会遇到一些问题，比如通过ssh fetch gerrit会出现 Permission denied (publickey)
