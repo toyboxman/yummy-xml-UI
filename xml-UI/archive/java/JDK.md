@@ -505,6 +505,24 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 // 'params[0].{? #this.age > 10 }.size().(#this > 20 ? #this - 10 : #this + 10)'：子表达式求值
 // 'name in { null,"Untitled" }':这条语句判断name是否等于null或者 Untitled
 
+# 通过属性映射查看返回值
+# getDefaultOverview返回的对象Overview有方法 List<GroupSummary> getSeverity()
+# GroupSummary有字符串属性名 key 通过集合映射方式可查看
+[arthas@17977]$ watch example.DiagnosticsInfoRetrieverServer getDefaultOverview 'returnObj.getSeverity()'
+method=com.vmware.vrops.diagnostics.server.DiagnosticsInfoRetrieverServer.getDefaultOverview location=AtExit
+ts=2024-09-03 05:23:24; [cost=0.062853ms] result=@ArrayList[
+    @GroupSummary[example.model.diagnostics.GroupSummary@188212ee],
+    @GroupSummary[example.model.diagnostics.GroupSummary@4da5bdcb],
+    @GroupSummary[example.model.diagnostics.GroupSummary@227e6994],
+]
+[arthas@17977]$ watch example.DiagnosticsInfoRetrieverServer getDefaultOverview 'returnObj.getSeverity().{#this.key}'
+method=example.DiagnosticsInfoRetrieverServer.getDefaultOverview location=AtExit
+ts=2024-09-03 05:23:58; [cost=0.086907ms] result=@ArrayList[
+    @String[Critical],
+    @String[Immediate],
+    @String[Warning],
+]
+
 # 只看入参细节
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params}" -x 3
 
