@@ -93,6 +93,8 @@ psql: FATAL:  database "king" does not exist
 # 通过超级用户来创建其他用户所属数据库
 king@ubuntu:~/software$ sudo -u postgres createdb -O king myDB
 king@ubuntu:~/software$ psql -U king -d myDB
+# 也可以用su命令 指定用户和数据库端口来login
+king@ubuntu:~/software$ su - king -c "/opt/vpostgres/current/bin/psql -p 5432 -d myDB"
 psql (10.6 (Ubuntu 10.6-0ubuntu0.18.10.1))
 Type "help" for help.
 

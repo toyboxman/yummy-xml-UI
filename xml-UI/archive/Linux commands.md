@@ -1891,6 +1891,10 @@ gzip -fv myfile.tar
 # -d 指定解压目录 ./test
 gzip -dtest spring.gz  
 
+# zstd是一种压缩效率更高的工具(大约10倍量级)，压缩后缀名为 zst
+# 解压到当前目录
+zstd -d plain_text_content.tar.zst
+
 # 解压 lib.zip 到 ./lib 目录
 $ unzip -dlib lib.zip  
 # 解压 lib.zip 到 /usr/share/tmp 目录
