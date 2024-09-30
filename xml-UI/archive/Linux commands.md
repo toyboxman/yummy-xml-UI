@@ -1894,6 +1894,8 @@ gzip -dtest spring.gz
 # zstd是一种压缩效率更高的工具(大约10倍量级)，压缩后缀名为 zst
 # 解压到当前目录
 zstd -d plain_text_content.tar.zst
+# 把tar包压缩成zst格式
+zstd repo.tar -o repo.zst
 
 # 解压 lib.zip 到 ./lib 目录
 $ unzip -dlib lib.zip  

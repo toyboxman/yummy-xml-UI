@@ -262,6 +262,9 @@ Java System Properties:
 java.runtime.name = Java(TM) SE Runtime Environment
 sun.boot.library.path = /usr/jdk/instances/jdk1.6.0/jre/lib/sparc
 java.vm.version = 1.6.0-rc-b100
+
+# 这条信息可以告诉从哪一个Class Main方法启动
+java_command: com.integrien.alive.collector.CollectorMain
 ...
 #查看dump文件中信息
 > jinfo $JAVA_HOME/bin/java core.29620
@@ -910,6 +913,14 @@ retransform和redefine两个命令有点差异:
 [arthas@28030]$ jad --source-only com.example.demo.arthas.user.UserController > /tmp/UserController.java
 [arthas@28030]$ mc /tmp/UserController.java -d /tmp
 [arthas@28030]$ redefine /tmp/com/example/demo/arthas/user/UserController.class
+```
+
+#### sysprop
+查看当前JVM的全部属性
+```console
+# 查找当前应用的启动入口class
+[arthas@2672223]$ sysprop |grep command
+sun.java.command      com.integrien.alive.collector.CollectorMain
 ```
 
 ##### thread
