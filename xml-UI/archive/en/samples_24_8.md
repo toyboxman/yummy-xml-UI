@@ -19,14 +19,14 @@
 *
 *
 
+Who do you suppose was tasked with taking on that male vanity? Women! Jill Biden was exhorted to make everything right. Or it was Valerie Biden’s job. Or Pelosi’s. Hunter Biden was reportedly hunkered down with Dad, but did anyone demand that he tame the paterfamilias? Not that I heard or read. Women were given the heaping measure of responsibility, though they often get only a soupçon of credit.
+你觉得是谁承担了应对男人虚荣心的任务？女人！人们劝吉尔·拜登来解决这个难题。或者，这项工作要由瓦莱丽·拜登来做。要由佩洛西来做。据报道，亨特·拜登一直和父亲在一起，但是有人要求他说服“老爷子”吗？我没有听说过，也没有读到过。女人承担了大量的责任，尽管她们往往分不到什么功劳。
+
 It is possible, however, that the actual attack was not filmed, as drooping tree branches appear to block any view of the site from nearby surveillance cameras.
 但一个可能性是，并未拍到实际的袭击过程，因为现场附近的监控摄像头被下垂的树枝阻挡住了。
 
 It’s a veritable Hollywood movie. Women are scripting what will happen to Trump, who has treated women with such cruelty and contempt.And Trump will have to build an annex, maybe to his frontal or occipital lobe, to accommodate the sorority.
 这是一部名副其实的好莱坞电影。女人们正在构思特朗普的下场，他曾如此残忍和轻蔑地对待女性。特朗普得盖一座附属建筑，才能装得下这个姐妹会，可能是在他的额叶或是枕叶里。
-
-Who do you suppose was tasked with taking on that male vanity? Women! Jill Biden was exhorted to make everything right. Or it was Valerie Biden’s job. Or Pelosi’s. Hunter Biden was reportedly hunkered down with Dad, but did anyone demand that he tame the paterfamilias? Not that I heard or read. Women were given the heaping measure of responsibility, though they often get only a soupçon of credit.
-你觉得是谁承担了应对男人虚荣心的任务？女人！人们劝吉尔·拜登来解决这个难题。或者，这项工作要由瓦莱丽·拜登来做。要由佩洛西来做。据报道，亨特·拜登一直和父亲在一起，但是有人要求他说服“老爷子”吗？我没有听说过，也没有读到过。女人承担了大量的责任，尽管她们往往分不到什么功劳。
 
 These tests would include blood cell counts, basic bodily chemistries (such as sodium and potassium levels) and electrocardiograms. These results are helpful because they can suggest major diseases that have not yet been identified.
 这类检验包括血细胞计数、基础生化（例如钠和钾的水平）和心电图指标。这些检验的结果可以揭示一些尚未发现的重大疾病，因此是有帮助的。
