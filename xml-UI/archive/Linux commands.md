@@ -294,10 +294,12 @@ Su Mo Tu We Th Fr Sa
 # %y	last two digits of year (00..99)
 # %d	day of month (e.g, 01)
 # %m	month (01..12)
+# +号表示输入格式 +FORMAT 
+# date [OPTION]... [+FORMAT]
 date +"%m-%d-%y"
-10-31-19
+10-16-24
 
-# %D	date same as %m/%d/%y
+# %D    date same as %m/%d/%y
 date +"%D"
 10/31/19
 
@@ -306,8 +308,18 @@ date +"%D"
 # %H	hour (00..23)
 # %I	hour (01..12)
 # %S	second (00..60)
+# %s	seconds since 1970-01-01 00:00:00 UTC(EPOCH)
 date +"%m-%d-%Y %H:%M:%S"
 10-31-2019 08:28:27
+# -d, --date=STRING   解析显示STRING参数传入的date
+date -d '10/15/2024 08:18:22' +"%s"
+1728980302
+# 把Epoch秒数转换成时间格式
+# @符号表示后面跟随的数字是一个 Unix 时间戳(秒数)，而非普通的日期字符串
+$ date -d @1728980302 +'%m/%d/%Y %H:%M:%S'
+10/15/2024 16:18:22
+$ date -d @1728980302
+Tue Oct 15 04:18:22 PM CST 2024
 
 # %T	time same as %H:%M:%S
 date +"%m-%d-%y-%T"
