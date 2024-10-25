@@ -511,10 +511,10 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
 [arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 returnObj.getResources().size()
 ts=2024-10-25 08:26:56.040; [cost=4.821978ms] result=@Integer[103]
 # 加上条件过滤，只统计list中resource属性resourceKindName等于Group的resource个数
-[arthas@17977]$ watch com.vmware.vrops.diagnostics.server.DiagnosticsInfoRetrieverServer test -x2 'returnObj.getResources().{? #this.resourceKindName=="Group"}.size()'
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 'returnObj.getResources().{? #this.resourceKindName=="Group"}.size()'
 ts=2024-10-25 08:26:56.040; [cost=4.821978ms] result=@Integer[103]
 # 仅返回属性resourceKindName等于Group的resource对象list
-[arthas@17977]$ watch com.vmware.vrops.diagnostics.server.DiagnosticsInfoRetrieverServer test -x2 'returnObj.getResources().{? #this.resourceKindName=="Group"}'
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 'returnObj.getResources().{? #this.resourceKindName=="Group"}'
 
 # 通过属性映射查看返回值
 # getDefaultOverview返回的对象Overview有方法 List<GroupSummary> getSeverity()
