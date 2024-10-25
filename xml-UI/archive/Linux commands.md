@@ -2986,6 +2986,54 @@ cat name.json | jq '.[0].name'
 # 整形id进行加法计算
 cat name.json | jq '.[0].id + 10'
 11
+
+# 查询结构 ret.json
+{
+  "http_method": "GET",
+  "api_path": "/system/nodes",
+  "metrics": [
+    {
+      "metric_name": "cpu_usage",
+      "metric_description": "CPU usage of system",
+      "metric_data_type": "FLOAT",
+      "metric_value_type": "GAUGE"
+    },
+    {
+      "metric_name": "mem_usage",
+      "metric_description": "Memory usage of system",
+      "metric_data_type": "FLOAT",
+      "metric_value_type": "GAUGE"
+    }
+  ]
+}
+
+$ jq .api_path ret.json
+"/system/nodes"
+$ jq .metrics[1].metric_name ret.json
+mem_usage
+# 统计结构中属性或者数组的长度
+# jq内部的管道功能必须包含着''中
+# .metrics表述数组属性，返回是[]包含的完整结构
+# .metrics[]表述数组中每一个元素，返回是一系列单个元素,没有外层[]和内部分割逗号,
+$ cat ret.json | jq '.metrics | length'
+2  //metrics数组长度为2
+$ cat ret.json | jq '.metrics[0] | length'
+4  //四个属性
+# 按条件过滤查询 select前的数组属性要带[],因为metric_name是数组元素的属性，而非数组属性
+$ cat ret.json | jq '.metrics[] | select(.metric_name == "mem_usage")'
+{
+    "metric_name": "mem_usage",
+    "metric_description": "Memory usage of system",
+    "metric_data_type": "FLOAT",
+    "metric_value_type": "GAUGE"
+}
+# 在输出中过滤掉某些属性 还可以用下标del(.[1, 2])来过滤多个属性 map(select(. >= 2))按大小来过滤
+$ cat ret.json | jq '.metrics[1] | del(.metric_description)'
+{
+    "metric_name": "mem_usage",
+    "metric_data_type": "FLOAT",
+    "metric_value_type": "GAUGE"
+}
 ```
 
 检查一个 XML文档是否是所有的 tag 都正常
@@ -3382,6 +3430,8 @@ traffic check
 ```console
 # set L3 ping packet from port to other  using ICMP
 ping -I port1 192.168.2.10   
+# only try 3 times
+ping -c3 192.168.2.10   
 # set L2 ping using ARP
 arping -I p1 192.168.139.140  
 
