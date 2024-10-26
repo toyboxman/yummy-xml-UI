@@ -484,43 +484,11 @@ ts=2020-12-16 13:42:39; [cost=0.184837ms] result=@ArrayList[
     null,
 ]
 
-# ognl 支持的目标类型
-// target : 目标对象
-// clazz : the object's class                                                                        
-// method : the constructor or method                                                                 
-// params : 方法参数顺序组
-// params[0..n] : 某一个参数
-// returnObj : the returned object of method                                                             
-// throwExp : the throw exception of method                                                             
-// isReturn : the method ended by return                                                                
-// isThrow : the method ended by throwing exception                                                    
-// #cost : the execution time in ms of method invocation 
-# 过滤，判断，筛选
-// 'params[0]'：查看第一个参数
-// 'params[0].size()'：查看第一个参数的size
-// 'params[0]=="xyz"'：判断字符串相等
-// 'params[0]==123456789L'：判断long型
-// 'params[0].{#this.name}'：将结果按name属性映射
-// 'params[0].{? #this.name == null }'：按条件过滤
-// 'params[0].{? #this.age > 10 }.size()'：过滤后统计
-// 'params[0].{^ #this.name != null}'：选择第一个满足条件
-// 'params[0].{$ #this.name != null}'：选择最后一个满足条件
-// 'params[0].{? #this.age > 10 }.size().(#this > 20 ? #this - 10 : #this + 10)'：子表达式求值
-// 'name in { null,"Untitled" }':这条语句判断name是否等于null或者 Untitled
-# 得到对象中list属性的包含resource的个数
-[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 returnObj.getResources().size()
-ts=2024-10-25 08:26:56.040; [cost=4.821978ms] result=@Integer[103]
-# 加上条件过滤，只统计list中resource属性resourceKindName等于Group的resource个数
-[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 'returnObj.getResources().{? #this.resourceKindName=="Group"}.size()'
-ts=2024-10-25 08:26:56.040; [cost=4.821978ms] result=@Integer[103]
-# 仅返回属性resourceKindName等于Group的resource对象list
-[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 'returnObj.getResources().{? #this.resourceKindName=="Group"}'
-
 # 通过属性映射查看返回值
 # getDefaultOverview返回的对象Overview有方法 List<GroupSummary> getSeverity()
 # GroupSummary有字符串属性名 key 通过集合映射方式可查看
 [arthas@17977]$ watch example.DiagnosticsInfoRetrieverServer getDefaultOverview 'returnObj.getSeverity()'
-method=com.vmware.vrops.diagnostics.server.DiagnosticsInfoRetrieverServer.getDefaultOverview location=AtExit
+method=example.diagnostics.diagnostics.server.DiagnosticsInfoRetrieverServer.getDefaultOverview location=AtExit
 ts=2024-09-03 05:23:24; [cost=0.062853ms] result=@ArrayList[
     @GroupSummary[example.model.diagnostics.GroupSummary@188212ee],
     @GroupSummary[example.model.diagnostics.GroupSummary@4da5bdcb],
@@ -590,15 +558,108 @@ ts=2024-06-30 14:52:38; [cost=0.748555ms] result=@ArrayList[
 
 
 ### 使用OGNL条件过滤表达式
+# ognl 支持的目标类型
+// target : 目标对象
+// clazz : the object's class                                                                        
+// method : the constructor or method                                                                 
+// params : 方法参数顺序组
+// params[0..n] : 某一个参数
+// returnObj : the returned object of method                                                             
+// throwExp : the throw exception of method                                                             
+// isReturn : the method ended by return                                                                
+// isThrow : the method ended by throwing exception                                                    
+// #cost : the execution time in ms of method invocation 
+# 过滤，判断，筛选
+// 'params[0]'：查看第一个参数
+// 'params[0].size()'：查看第一个参数的size
+// 'params[0]=="xyz"'：判断字符串相等
+// 'params[0]==123456789L'：判断long型
+// 'params[0].{#this.name}'：将结果按name属性映射
+// 'params[0].{? #this.name == null }'：按条件过滤
+// 'params[0].{? #this.age > 10 }.size()'：过滤后统计
+// 'params[0].{^ #this.name != null}'：选择第一个满足条件
+// 'params[0].{$ #this.name != null}'：选择最后一个满足条件
+// 'params[0].{? #this.age > 10 }.size().(#this > 20 ? #this - 10 : #this + 10)'：子表达式求值
+// 'name in { null,"Untitled" }':这条语句判断name是否等于null或者 Untitled
+
+// 得到对象中list属性的包含resource的个数
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 returnObj.getResources().size()
+ts=2024-10-25 08:26:56.040; [cost=4.821978ms] result=@Integer[103]
+
+// 加上条件过滤，只统计list中resource属性resourceKindName等于Group的resource个数
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 'returnObj.getResources().{? #this.resourceKindName=="Group"}.size()'
+ts=2024-10-25 08:26:56.040; [cost=4.821978ms] result=@Integer[18]
+
+// 仅返回属性resourceKindName等于Group的resource对象list
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 'returnObj.getResources().{? #this.resourceKindName=="Group"}'
+
+// 把list中resource对象按adapterKindName属性映射map成一个string list,类似collection.stream.map功能
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 'returnObj.getResources().{#this.adapterKindName}'
+ts=2024-10-26 07:09:49.691; [cost=3.013269ms] result=@ArrayList[
+    @String[Net],
+    @String[Container],
+    @String[Security],
+    @String[Container],
+    @String[Net],
+]  
+
+// 如以上map的结果如果有很多重复值，还可以通过中间变量处理，通过转换成Set来去重  
+// 中间变量通过 #var来声明，整个ognl定义的最后一个就是返回值 #mySet， 通过new来构造对象时必须有完整package name，否则构造失败
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 '#list=returnObj.getResources().{#this.adapterKindName}, #mySet=new java.util.HashSet(#list), #mySet'
+ts=2024-10-26 07:09:49.691; [cost=3.013269ms] result=@HashSet[
+    @String[Net],
+    @String[Container],
+    @String[Security],
+]  
+
+// 也可以一次返回多个结果
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 '#list=returnObj.getResources().{#this.adapterKindName}, #mySet=new java.util.HashSet(#list), {#mySet, #list}'
+ts=2024-10-26 11:45:35.160; [cost=3.621961ms] result=@ArrayList[
+    @HashSet[
+        @String[Net],
+        @String[Container],
+        @String[Security],
+    ],
+    @ArrayList[
+        @String[Net],
+        @String[Container],
+        @String[Security],
+        @String[Container],
+        @String[Net],
+    ],
+]
+
+// 构造adapterKindName和resourceKindName的map结构 #{key1 : value1, key2 : value2, ...}构造LinkedHashMap对象
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 'returnObj.getResources().{#{#this.resourceKindName : #this.adapterKindName}}'
+ts=2024-10-26 11:34:28.447; [cost=2.771314ms] result=@ArrayList[
+    @LinkedHashMap[
+        @String[Environment]:@String[Container],
+    ],
+    @LinkedHashMap[
+        @String[Policy]:@String[Container],
+    ],
+    @LinkedHashMap[
+        @String[Group]:@String[Net],
+    ],
+]
+
+// 构造自定义string的Set，string用来描述 adapterKindName与resourceKindName的map关系
+[arthas@17977]$ watch org.apache.diagnostics.server.DiagnosticsInfoRetrieverServer fetch -x2 '#list=returnObj.getResources().{? #this.adapterKindName=="Net"}.{#this.adapterKindName + " : " + #this.resourceKindName}, #mySet=new java.util.HashSet(#list), {#mySet}'
+ts=2024-10-26 12:27:14.004; [cost=3.677829ms] result=@ArrayList[
+    @HashSet[
+        @String[Net : Group],
+        @String[Net : Switch],
+        @String[Net : Router],
+    ],
+]
+
 // 直接 #this 引用，指向了 com.taobao.arthas.core.advisor.Advice@503e5cfd对象，Advice 类定义没有getName方法，因此报错
 [arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' '#this.getName().length>0' -n2
-Press Q or Ctrl+C to abort.
 Affect(class count: 1 , method count: 2) cost in 470 ms, listenerId: 13
 watch failed, condition is: #this.getName().length>0, express is: {target.getName()}, ognl.MethodFailedException: Method "getName" failed for object com.taobao.arthas.core.advisor.Advice@503e5cfd [java.lang.NoSuchMethodException: com.taobao.arthas.core.advisor.Advice.getName()], visit /home/admin/logs/arthas/arthas.log for more details.
 
 // target.{? #this.getName()} 产生了一个List<Name>的集合, 集合对象没有length的属性，因此报错
 [arthas@3333485]$ watch com.integrien.alive.common.adapter3.Logger error '{target.getName()}' 'target.{? #this.getName()}.length>0' -n2
-Press Q or Ctrl+C to abort.
 Affect(class count: 1 , method count: 2) cost in 441 ms, listenerId: 12
 watch failed, condition is: target.{? #this.getName()}.length>0, express is: {target.getName()}, ognl.NoSuchPropertyException: java.util.ArrayList.length, visit /home/admin/logs/arthas/arthas.log for more details.
 
