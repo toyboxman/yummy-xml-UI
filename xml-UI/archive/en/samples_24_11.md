@@ -240,3 +240,240 @@ Buttressing Beijing’s view is the fact there is bipartisan consensus in the Un
 
 China responded to Mr. Trump’s blustery Twitter diplomacy by introducing its own brand of muscular and acerbic statecraft known as “Wolf Warrior,” a nickname inspired by ultranationalistic Chinese action movies of the same name. 
 为回应特朗普当年气势汹汹的Twitter外交，中国推出了言辞强硬尖刻的“战狼”外交，这个称号来自中国同名的极端民族主义动作片。
+
+Eight years ago, when a newly elected Donald J. Trump promised to apply the powers of the Oval Office to start a trade war with China, the target of his ire was widely viewed as a juggernaut. China was the indispensable factory floor to the world and a swiftly developing market for goods and services. As Mr. Trump now prepares for his second stint in the White House, he is vowing to intensify trade hostilities with China by imposing additional tariffs of 60 percent or more on all Chinese imports. 
+八年前，当新当选的特朗普承诺动用总统手中的各种权力与中国打一场贸易战时，他的怒火所对准的目标曾被广泛视为一股势不可挡的力量。中国是世界不可或缺的工厂，也是一个快速发展的商品和服务市场。随着特朗普现在准备第二次入主白宫，他誓言要加剧与中国的贸易对抗，对所有中国进口产品加征60%或更高的关税。
+
+The balance of power has certainly shifted in favor of the United States, The Chinese economy is not quite on the ropes, but it has been struggling for a while. In one regard, the Chinese plan has pointedly failed to achieve a critical objective — closing the gap in capability that separates domestic computer chips from the most advanced varieties made in Taiwan, using technology from the United States, Europe and Japan.
+力量平衡肯定已向对美国有利的方向倾斜，虽然中国经济还没有完全濒于失败，但它已经挣扎了一段时间。在另一个方面，中国的计划在一个关键目标上明显地失败了——未能缩小国产计算机芯片与台湾制造的最先进芯片之间的差距，后者生产的芯片用了来自欧美和日本的技术。
+
+These export restrictions are accelerating China’s drive for self-sufficiency, This idea that we can slow them down across the board strikes me as uninformed.
+这些出口限制正在加速中国自给自足的努力，认为我们能整体地减缓中国的发展速度的想法，在我看来是不明智的。
+
+America today is awash in examples of feminism’s popularity. Beyoncé on her summer tour sang to enormous crowds, “Who run the world? Girls.” Taylor Swift sold out arenas across the country calling out sexism she has faced (“If I was out flashing my dollars/I’d be a bitch, not a baller”). The “Barbie” movie drew hordes of people to theaters in red and blue states alike to see a doll with impossible curves turned into a feminist icon.
+今天的美国充斥着女权主义受欢迎的例子。碧昂斯在她的夏季巡演中对着人山人海唱道：“谁主宰世界？女孩们”。泰勒·斯威夫特在全国各地的演出场场爆满，她为自己面临的性别歧视大声疾呼（“如果我炫耀我的钱/我就是个婊子，不是浪子”）。《芭比》电影吸引了成群结队的人来到红州和蓝州的电影院，观看一个有着不可思议的身材曲线的娃娃变成女权主义的象征
+
+But during his time in Congress, Mr. Waltz has espoused a national security doctrine that has increasingly jelled with Mr. Trump’s. A member of the House committees on the armed services, intelligence and foreign affairs, he has chastised NATO allies for not meeting their defense military spending commitments.
+但在进入国会后，瓦尔兹所信奉的国家安全方针渐渐在向特朗普靠拢。作为众议院军事、情报和外交委员会成员，他痛斥北约盟友没能兑现防务支出承诺。
+
+These are issues that did not confront the first Trump administration. And the solutions are also complex. Are they addressed with Mr. Trump’s tariffs, which the president-elect describes as a cure-all, but could cost American consumers billions and fuel inflation? With more restrictions on shipping high-end semiconductors and equipments to China — a step Mr. Biden has pioneered?
+这些都是特朗普的第一个任期没有遇到的问题。解决方案也很复杂。这些问题是否可以用特朗普的关税来解决？这位候任总统称关税是万灵药，但可能会让美国消费者付出数十亿美元的代价，并加剧通货膨胀。是向中国出口高端半导体和设备施加更多限制，这是拜登率先采取的措施
+
+The high number of fatalities from what appeared to be a deliberate rampage raises questions about the ruling Communist Party’s record on public safety at time when many people across the country are already on edge over a debilitating property crisis and a slowing economy. e had been driving a small off-road vehicle and rammed it through the gate of the sports center, where people were exercising, the police said. Inside his car, he tried to kill himself with a knife, inflicting wounds on his neck that left him in a coma, the police said.
+这起看来是蓄意制造、导致了重大伤亡的暴力事件让人对执政的中共维护公共安全的记录提出疑问，事件发生在国内许多人已经因为严重的房地产危机和经济放缓而感到紧张不安的时候。警方表示，此人当时驾驶一辆小型越野车，撞开了体育中心的大门，中心里面有人正在锻炼。警方称，他试图在车内用刀自杀，在自己脖子上砍了几刀，并昏迷了过去。
+
+“We saw a similar thing in the U.S. in 2008 and 2009,” Mr. Shih said. “But the difference is that in the U.S. there was a bit of a social safety net, like social security payments for the unemployed to dull the edge of economic hardship. There is nothing like this in China.” State media reported that more than 300 medical staff from five different hospitals were involved, and residents lined up to donate blood. 
+“我们2008年和2009年在美国也看到过类似的事情，”史宗瀚说。“但不同的是，美国有一些社会安全网，比如失业者能拿到社会保障金，以缓解他们的经济困难。中国没有这种东西。” 中国官媒报道称，来自五家不同医院的300多名医务人员参加了救助伤者的工作，居民们排队献血。
+
+Hong Kong’s housing market has long had an are-you-kidding-me feel to it. All but two of the properties have already sold for tens of millions of dollars each. And while it might be hard to believe, each one was a steal — snatched up for discounts of one-third to more than half of the previous values.
+香港的房地产市场长期以来有一种令人不可置信的感觉。这些房产除两处外，均悉数以数千万美元的售价卖出。虽然可能难以置信，但每处房产都以极低的价格成交，买者只花了原价三分之一到一半以上的折扣价。
+
+Now, many of the same people who contributed to the housing market’s inequities, from the builders to the wealthy speculators, have found themselves being forced to sell their prized homes fast. Their riches had swelled with an unfathomable rise in China’s real estate market, and its collapse and aftermath have left many short on cash.
+现在，许多导致香港房地产市场贫富不均的人，从建筑商到富有的投机者，都发现自己被迫迅速出售他们最宝贵的房产。他们的财富曾随着中国房地产市场不可思议的增长而膨胀，而中国房地产市场的崩溃及其后果已让他们中的许多人出现资金短缺。
+
+It was not just the owners of fancy homes who were caught out when the tide receded. Landlords of signature Hong Kong office buildings that housed the world’s best-known financial, legal and corporate institutions are scrambling to bring in new tenants to replace companies that have left. Busy shopping areas once crammed with small stores are still suffering from fewer tourists, and some storefronts remain boarded up. 
+当潮水退去后，受困的不仅仅是豪宅的主人。香港标志性的写字楼曾是全球最知名的金融、法律和企业机构的所在地，其业主们如今正争相引进新租户，取代已经离开的公司。曾挤满小店的繁忙购物区仍然受到游客减少的影响，一些店面仍然封闭。
+
+“We ought to have a full-court press against this WEAPONIZED government that has been turned against our people,” Mr. Gaetz wrote on social media on Wednesday. “And if that means abolishing every one of the three letter agencies, from the FBI to the ATF, I’m ready to get going!” These are so appalling they’re a form of performance art
+“我们应该对这个已经转而反对我们人民的武器化政府展开全面攻势，”盖兹周三在社交媒体上写道。“从FBI到ATF，如果这意味需要废除所有名字是三个字母的机构，我已经准备好了！” 这些太骇人听闻了，简直是一种行为艺术
+
+The sports center — a sprawling complex that includes a swimming pool, badminton courts and two fields with running tracks — is normally lively, residents said. Parents take their children for walks, retirees dance in large groups and others march in walking teams that have become popular among older Chinese. On Monday, just before 8 p.m., the loud music that many groups put on was suddenly interrupted by screams. The police said the driver plowed through the gate of the sports center before barreling into a crowd exercising near one of the tracks.
+那是一个巨大的体育中心，里面有游泳池、羽毛球场，以及两个带跑道的运动场。居民们说，那里平常很热闹。父母带着他们的孩子在那里散步，退休人员在那里跳广场舞，也有些人参加徒步团，这种活动在老年人中很受欢迎。快到周一晚8点时，许多跳舞的人群播放的喧闹音乐突然被尖叫声打断。警方称，肇事司机开车冲破了体育中心的大门，高速驶向一群在一条跑道附近锻炼的人群。
+
+Mr. Musk has assumed an almost mythical aura in Mr. Trump’s inner circle. At Mar-a-Lago one recent evening, he walked into the dining room about 30 minutes after the president-elect did and received a similar standing ovation, according to two people who saw him enter.
+马斯克在特朗普的核心圈子里有着近乎神话般的光环。前不久的一个晚上，在马阿拉歌庄园，他比候任总统晚了大约30分钟走进餐厅，据两名看到他进来的人说，他获得了与候任总统同样的起立鼓掌待遇。
+
+Politics always involves a measure of performance. And on that score, few moments rival the one on Wednesday morning at the White House, when President Biden and President-elect Donald J. Trump pretended in public to like and respect each other — for a total of 29 seconds. Up until less than two weeks ago, the president-elect regularly derided Mr. Biden as weak, infirm and demented.
+政治总是少不了作秀。周三上午在白宫发生的一幕堪称政治作秀的绝唱——面对公众，拜登总统和候任总统特朗普假装喜欢和尊重彼此，时间长达29秒。不到两周前，这位候任总统还经常嘲笑拜登软弱、虚弱和痴呆
+
+For Mr. Trump, it was a heady, I-told-you-so moment of political resurrection after a defeat he had never really accepted. And for Mr. Biden and his staff, it was a grim, how-is-this-happening day that left them feeling defeated and in despair. Mr. Biden and Mr. Trump might have been expected to bury the tradition of fake graciousness. For Mr. Biden, there was plenty of reason to return the favor as he sat next to the ultimate Washington bomb-thrower.
+对特朗普来说，这是一个令人陶醉的、“我早就告诉过你”的政治复兴时刻。而对拜登和他的团队来说，这是一个灰暗的、“怎么会这样”的一天，让他们感到气馁和绝望。人们可能曾预计拜登和特朗普会抛弃假装客气的传统。对于拜登来说，当他坐在终极华盛顿破坏分子身旁时，他有充分的理由以牙还牙。
+
+Following the meeting, Karine Jean-Pierre, the White House press secretary, said the discussion between the two men had been “cordial,” “gracious” and “substantive.” She said a number of topics had been discussed, including national security and domestic policy. She said Mr. Trump had come with a detailed set of questions for Mr. Biden.
+双方会晤结束后，白宫发言人卡琳·让-皮埃尔表示，两人之间的讨论是“友好的”、“亲切的”和“实质性的”。她表示，双方讨论了很多话题，包括国家安全和国内政策。她说，特朗普向拜登提出了一系列详尽问题。
+
+Everything I’d experienced told me he was right. Eight years serving in the Obama White House after the financial crisis felt like swimming upstream, against the currents of global politics. Donald Trump’s first victory challenged my liberal assumptions about the inevitability of a certain kind of progress: “The arc of the moral universe is long, but it bends toward justice.” 
+我所经历的一切都告诉我，他是对的。金融危机后，我在奥巴马政府的八年感觉就像是逆流而上，逆的是全球政治的洪流。特朗普的第一次胜利挑战了我对某种进步必然性的自由主义假设：“道德宇宙的弧线很长，但它倾向于正义。”
+
+The playbook for transforming a democracy into a soft autocracy was clear: Win power with a populist message against elites. Redraw parliamentary districts. Change voting laws. Harass civil society. Pack courts with judges willing to support power grabs. Enrich cronies through corruption. Buy up newspapers and television stations and turn them into right-wing propaganda. Use social media to energize supporters. Wrap it up in an Us versus Them message
+将民主转变为软性独裁的手法非常明确：以反对精英的民粹主义姿态赢得权力。重新划分议会选区。修改投票法。攻击公民社会。在法院里塞满愿意支持权力攫取的法官。通过腐败使亲信致富。收购报纸和电视台，将其转变为右翼的宣传工具。利用社交媒体煽动支持者。用“我们”与“他们”来作信息的概括
+
+But achieving lasting success will require more than pressuring China for pressure’s sake. It will demand a wider peace-through-strength approach that combines American domestic renewal, enhanced military spending, entrepreneurial dynamism and, critically, the alliance network that Mr. Biden revitalized across Asia and Europe. 
+但要取得持久的成功，需要的不仅仅是为了施压而施压。它需要的是一种更广泛的、以实力求和平的多方面做法，将美国国内的复兴、增进军费开支、创业活力，以及最关键的是拜登恢复了生机的美国在亚洲和欧洲的联盟结合起来。
+
+Mr. Trump’s bold style isn’t for the fainthearted. In a time of fierce global competition, he sees balance as weakness and coexistence as capitulation. Yet if he can draw from past lessons, engage with our allies and stay disciplined, he just might be crazy enough to confront China — and win.
+特朗普的大胆作风不适合胆怯之人。在全球竞争激烈的时代，他认为寻求平衡是软弱，共存是投降。然而，如果他能吸取过去的教训，与我们的盟友保持密切关系，坚定不移地做下去，他也许会是一个疯狂到足以对抗中国的人，并取得胜利。
+
+Cronyism: The president has great discretion in granting tariff exemptions to selected companies. During Trump’s first term, such exemptions went disproportionately to companies with Republican political connections. It’s naïve to think this isn’t likely to happen again, and on a much larger scale.
+任人唯亲：总统在授予特定公司关税豁免方面有着很大的自由裁量权。在特朗普的第一个任期内，这种豁免不成比例地流向了与共和党存在政治联系的公司。如果认为这种情况不太可能再次发生，规模不再可能那么大，就太天真了。
+
+Mr. Trump has made no secret about his plans to gut civil-service protections, conduct the largest mass deportation effort in U.S. history, impose sweeping tariffs and target his enemies using presidential powers. His allies have developed a legal rationale to erase the Justice Department’s independence from the president, and several of his closest advisers had vetted lawyers seen as more likely to embrace aggressive legal theories about the scope of his power.
+对于废除公务员保护制度，实施美国历史上最大规模的驱逐出境行动，征收全面关税，以及利用总统权力打击敌人等计划，特朗普丝毫没有作出掩饰。他的盟友已经制定了一套法律依据，以消除司法部相对总统的独立性，而他的几位最亲密的顾问已经考察了一些律师，这些律师被认为更有可能接受关于总统权力范围的激进法律理论。
+
+Vice President Kamala Harris spent a remarkable $1.5 billion in her hyper-compressed 15-week presidential campaign. Her cash-rich campaign spared no expense as it hunted for voters — paying for an avalanche of advertising, social-media influencers, a for-hire door-knocking operation, thousands of staff, pricey rallies, a splashy Oprah town hall, celebrity concerts and even drone shows. The frenzied spending has led to second-guessing among some Democrats,
+副总统贺锦丽在她高度压缩的15周总统竞选活动中花掉了惊人的15亿美元。她的竞选团队资金充裕，在争取选民上不惜一切代价，为铺天盖地的广告、社交媒体影响者、受雇敲门拉票者、数千名工作人员、高价集会、一个大张声势的由奥普拉主持的民众集会、名人音乐会，甚至无人机表演上花了大量费用。这种疯狂花钱已在一些民主党人中引发了事后批评
+
+“Because of Vice President Harris’s unparalleled fund-raising prowess,” Mr. Stauffer said, “we were able to run an aggressive all-of-the-above strategy to reach voters, keeping the seven battleground states incredibly close.” Even as Ms. Harris ran notably stronger in battlegrounds such as Pennsylvania, Georgia and North Carolina than in surrounding areas, those results were double-edged, politically. They suggested that the ticket she led was so unpopular that it took an enormous campaign just to limit her losses.
+斯托弗说，“由于贺锦丽副总统无与伦比的筹款能力，我们得以在争取选民上采取一种积极的全方位策略，使七个战场州的得票率非常接近。” 尽管贺锦丽在宾夕法尼亚州、佐治亚州、北卡罗来纳州等战场州的得票率明显好于周边地区，但从政治角度来看，这些结果是一把双刃剑。这些结果暗示，以她为主的民主党候选人在战场州非常不受欢迎，以至于需要大规模的竞选活动才能降低她输的票数。
+
+During his first term as president, when Donald J. Trump started a tariff war to pit the United States against China, Malaysia bet on both sides. The Southeast Asian nation aggressively courted American and Chinese companies with tax breaks and other goodies. Malaysia’s proximity, cheap land and resources, and weaker currency make it attractive.
+在特朗普的第一个总统任期里，他发动了一场关税战，令美国与中国陷入对抗状态，当时东南亚国家马来西亚两边下注，以税收减免和其他优惠措施大力吸引美中企业。
+
+In choosing her, Mr. Trump signaled his deep distrust of those agencies. During his first administration, he publicly rebuked senior intelligence officers when their assessments differed from his own. Ms. Gabbard’s iconoclastic views over the years suggest that she shares that distrust, especially when it comes to Russia and the war in Ukraine. For the Kremlin, it was a virtuous cycle.
+这一选择表明，特朗普对美国情报机构极不信任。在他第一次担任总统期间，当高级情报官员的评估与他的不同时，他曾公开指责他们。加巴德多年来的反传统观点表明，她也不信任美国的情报机构，尤其是在涉及俄罗斯和乌克兰战争的问题上。对克里姆林宫来说，这是一个良性循环。
+
+He has rolled a giant grenade into the middle of the nation’s capital and watched with mischievous glee to see who runs away and who throws themselves on it. Suffice it to say, so far there have been more of the former than the latter. Mr. Trump has said that “real power” is the ability to engender fear, and he seems to have achieved that.
+他把一颗巨大的手榴弹扔到了国家首都的正中心，然后恶作剧般笑着看谁跑得远，谁会扑上去。可以说，到目前为止，前者比后者多。特朗普说过，“真正的权力”是制造恐惧的能力，他似乎已经做到了这一点。
+
+He has chosen a bomb-throwing backbench congressman who has spent his career attacking fellow Republicans and fending off sex-and-drugs allegations to run the same Justice Department that investigated him, though it did not charge him, on suspicion of trafficking underage girls. 
+特朗普选择了一位以挑起冲突著称的后座议员来掌管司法部，此人职业生涯中一直在攻击共和党同僚，并极力否认性丑闻和毒品指控，他将掌管的司法部曾调查他涉嫌贩卖未成年女孩，但并未对他提出指控。
+
+Mr. Trump, he added, is amplifying the populist resentment that has grown since the days of the financial crash of 2008 rather than trying to ameliorate it. The eruption in Washington is a goal as he tries to tear down the system, not something to tamp down. “What he’s doing now with these appointments is, ‘You all jump up and down and tear your hair out, but you know what? These are the people I’m going to do it with and I like that it aggravates you,’” Mr. Baer said.
+他还说，特朗普正在放大民粹主义的不满情绪，自2008年金融危机以来，这种情绪一直有增无减。在华盛顿掀起轩然大波是他试图摧毁这个体系时的目标之一，而不是为了驯服这个体系。“他现在用这些任命所做的就是，‘让你们气得跳脚，撕扯头发，但你们知道吗？我就打算跟这些人一起来做这件事，我喜欢看你们气急败坏的样子，’”贝尔说。
+
+The marshmallows notwithstanding, sweet potatoes are one of the healthiest foods on your Thanksgiving table. They’re full of nutrients that keep your systems humming and your blood sugar steady, and they can even reduce your cancer risk. They’re a natural source of electrolytes. They’re rich in vitamins and minerals.
+尽管要加棉花糖，但红薯是感恩节餐桌上最健康的食物之一。它们营养丰富，能帮助身体系统运转，稳定血糖，甚至还能降低患癌症的风险。它们是电解质的天然来源。它们富含维生素和矿物质。
+
+When Mr. Lai was brought into the courtroom and briefly held in a glass enclosure flanked by two officers, he waved at his wife and daughter. He wore a brown blazer and green sweater over a white dress shirt, and spoke in a gravelly voice. Mr. Lai was not always thought of as a political firebrand. For years, he embodied Hong Kong’s rags-to-riches success
+黎智英被带入法庭后一度坐在一个玻璃隔间内，身旁有两名警官，他向妻子和女儿挥手致意。他身穿褐色外套和绿色毛衣，内有一件白色正装衬衫，他的声音显得沙哑凝重。黎智英起初并不是在政治上惹是生非的人物。多年来，他一直是香港的一个白手起家的成功故事
+
+Videos of the aftermath of the incident, shared on Chinese social media, showed young children in backpacks running, some screaming for help, while some people lay motionless on the ground. Another video showed a group of adults surrounding a man and kicking and beating him, near a white car; captions suggested the man was the driver.
+人们在中国的社交媒体上分享了事件发生后的视频，只见背着书包的儿童四处奔跑，有的大声求救，有的人一动不动地躺在地上。还有一段视频显示，一群成年人将一名男子围住，在一辆白色汽车旁对他拳打脚踢；字幕显示该男子是肇事司机。
+
+As they gathered this week in South America, many of the world’s leaders were engaged in a delicate diplomatic dance with President Xi Jinping of China. Keir Starmer, the British prime minister, called for a “consistent, durable” relationship with China. Anthony Albanese, the prime minister of Australia, pledged to be “patient, calibrated and deliberate.” President Biden promised not to let “competition veer into conflict,” 
+本周，许多世界领导人齐聚南美，他们与中国国家主席进行了微妙的外交互动。英国首相斯塔默呼吁与中国建立“稳定、持久”的关系。澳大利亚总理安瑟尼·阿尔巴尼斯承诺“保持耐心、谨慎和深思熟虑”。拜登总统承诺不会“让竞争演变为冲突”
+
+And for all the pomp and pleasantries as Mr. Biden wraps up a half-century on the world stage, there is deep uncertainty about the role the United States might play in heading off those conflicts. Over the past few years, Beijing has already been seeking to reduce its isolation and blunt Washington’s influence by mending ties with governments in Europe and across the Asia-Pacific region.
+拜登即将结束他登上世界舞台近半个世纪以来的职业生涯，尽管他在G20峰会上获得了周到的仪式和礼遇，但美国在化解这些冲突方面可能发挥的作用仍存在很大的不确定性。过去几年，北京一直在与欧洲和亚太地区各国政府修复关系，从而减少孤立，削弱华盛顿的影响力。
+
+Yet it was telling that the reaction in Washington on Tuesday was just short of a yawn. Officials dismissed the doctrine as the nothingburger of nuclear threats. But it has also inured Washington and the world to the renewed use of nuclear weapons as the ultimate bargaining chip.
+然而，周二华盛顿对此举的反应充其量只是打个呵欠而已，这很说明问题。官员们将这一说法斥为核威胁中的空话。但它也让华盛顿和世界习惯了重新使用核武器作为最终的谈判筹码。
+
+The idea that one of the nine countries now in possession of nuclear weapons — with Iran on the threshold of becoming the tenth — might press the button is more likely to evoke shrugs than a convening of the United Nations Security Council.
+现在，九个拥核国家中的一个（伊朗即将成为第十个）可能会按下按钮，比起召集联合国安理会，这种想法更有可能让人只是耸耸肩而已
+
+But in the end, it did not materialize. And as Mr. Narang notes, “a nuclear threshold is not determined by words, but by the deterrence balance and stakes, and changes to declaratory doctrine do not at all change the deterrence balance between the U.S., NATO and Russia.”
+但最终，它并没有成真。正如纳朗所指出的那样，“核门槛不是由语言决定的，而是由威慑平衡和利害关系决定的，宣示性原则的改变根本无法动摇美国、北约和俄罗斯之间的威慑平衡。”
+
+The post-Cold War era began with the dismantling of Russian and American weapons at a fierce pace. When the Soviet Union collapsed, Ukraine turned over thousands of atomic weapons in exchange for security guarantees from Russia, the United States and other countries. Many Ukrainians regret that to this day. Warheads were blended down into fuel for nuclear power, shipped to the United States, and for years lit and heated houses across the United States.
+后冷战时代始于俄罗斯和美国以迅猛的速度拆除武器。苏联解体时，乌克兰交出了数以千计的核武器，以换取俄罗斯、美国和其他国家的安全保证。许多乌克兰人至今仍对此感到遗憾。这些弹头被混合制成核电燃料，运往美国，多年来一直为美国各地的房屋照明和供暖。
+
+“The barn door is still wide open, or mostly open,” the Democratic chairman, Senator Mark Warner of Virginia, a former telecommunications executive, said in an interview on Thursday. Mr. Warner said he had been stunned by the scope and depth of the breach
+民主党主席、弗吉尼亚州参议员马克·沃纳周四在接受采访时说：“门户依然大开，或者说基本是大开。”沃纳说，他对此次入侵的范围和深度感到震惊
+
+Russia carved a different path. Late in Mr. Trump’s first term, it placed code into products turned out by a company called SolarWinds, which provided software to the federal government and America’s largest companies. Hackers backed by Moscow also got into the network of a major gas and fuel distributor, Colonial Pipeline, disrupting the supply of gasoline in the first year of the Biden administration.
+俄罗斯则另辟蹊径。在特朗普首个任期后期，俄罗斯在一家名为SolarWinds的公司生产的产品中植入了代码，该公司为联邦政府和美国最大的公司提供软件。由莫斯科支持的黑客还入侵了一家大型天然气和燃料分销商Colonial Pipeline的网络，在拜登政府执政的第一年对汽油供应进行干扰
+
+It wasn’t just a banana. It was a banana with a back story. The spectacle on Wednesday evening, when a Sotheby’s auctioneer in Manhattan warned potential bidders not to let Maurizio Cattelan’s fruity artwork “slip away,” ended with a duct-taped banana selling for an astonishing $6.2 million, with fees.
+这不仅是一根香蕉。这是一根有故事的香蕉。周三晚间这个奇异场面——曼哈顿苏富比拍卖行的拍卖师劝告潜在竞拍者不要让毛里齐奥·卡泰兰的这件水果艺术作品“溜走”，最后的结局是一根缠着胶带的香蕉卖出了620万美元（含佣金）的天价。
+
+But winning the auction is really just the beginning of the negotiations that will take place over the next month or so (a buyer typically has 30 days to pay, by which time the banana will inevitably blacken and rot)
+不过，赢得拍卖其实只是未来一个月左右的谈判的开始（买家通常有30天的时间付款，届时香蕉将不可避免地变黑和腐烂）
+
+In fact, the duct-taped banana is only the physical representation of the conceptual artwork that Cattelan made for the 2019 edition of Art Basel Miami Beach, where it was originally sold for between $120,000 and $150,000. Conceptual artworks are essentially ideas. What the artist typically sells is a certificate of authenticity and list of instructions for owners about how to maintain or recreate their purchases. Cattelan made three editions of “Comedian.”
+事实上，胶带香蕉只是卡泰兰为2019年迈阿密海滩巴塞尔艺术博览会制作的概念艺术品的实物代表，其最初售价在12万至15万美元之间。概念艺术品本质上是一种理念。艺术家通常售出的是一份鉴定证书和一份说明清单，供拥有者了解如何维护或重新创作他们所购买的作品。卡泰兰制作了三个版本的《喜剧演员》。
+
+NEW YORK — A banana that for years has stirred controversy in the art world sold for $6.2 million with fees at Sotheby’s contemporary art auction Wednesday night. It became what is arguably the most expensive fruit in the world — though it will likely be tossed in a couple of days.
+纽约——周三晚，在苏富比当代艺术拍卖会上，一根多年来在艺术界引起争议的香蕉以620万美元（含佣金）的价格成交。这可以说是世界上最昂贵的水果——尽管可能过不了几天就要扔掉。
+
+The banana is the star of a 2019 conceptual artwork, “Comedian,” by noted prankster Maurizio Cattelan, which is intended to be duct-taped onto the wall. It comes with a certificate of authenticity and installation instructions for owners to replace the banana — if they wish — whenever it rots. 
+这根香蕉是著名恶作剧大师毛里齐奥·卡泰兰2019年的概念艺术作品《喜剧演员》（Comedian）的主角，其设定是把香蕉用胶带粘在墙上。它附有真品证书和装置说明，如果香蕉腐烂了，其主人可以随时更换——如果他们愿意的话。
+
+“Returns in the market have been flat or decreasing over the last decade,” said Michael Moses, who tracks the investment potential of artworks for clients. “It’s a fascinating asset because you can get so much joy from it that people are willing to accept lower returns. Joy is not something to be messed with.”
+“在过去十年里，市场的回报一直持平或在下降，”为客户追踪艺术品投资潜力的迈克尔·摩西说。“艺术品是一种令人着迷的资产，因为你可以从中获得太多乐趣，以至于人们愿意接受比较低的回报。快乐是不能被破坏的。”
+
+The actual Dole banana taped to the wall of Sotheby’s on Wednesday evening was bought earlier in the day from a nearby fruit stand on the Upper East Side of Manhattan for 35 cents. “I bet the Sotheby’s staff absolutely can’t wait to stop having to listen to banana jokes and pretend like it’s the first time they heard them,” said art adviser David Norman. “It has to be excruciating!”
+周三晚上，贴在苏富比拍卖行墙上的那根都乐香蕉是当天早些时候在曼哈顿上东区附近一个水果摊上花35美分买到的。“我敢打赌，苏富比的工作人员肯定已经听够了那些香蕉笑话了，还要假装是第一次听到，”艺术顾问戴维·诺曼说。“肯定很难装！”
+
+The turmoil of a trade war between China and Europe burst open this week as hundreds of employees at the Hennessy cognac factory in southwest France on Wednesday walked off the job for a second day to protest what unions said were plans to move brandy bottling to China. Hennessy said in a statement that it was not planning to move cognac production to China, but that it was working to protect its interests and safeguard the industry.
+周三，法国西南部轩尼诗白兰地工厂的数以百计员工连续第二天罢工，针对工会所称的将白兰地装瓶业务转移至中国计划展开抗议，中欧贸易战的动荡也随之在本周揭开了序幕。轩尼诗在一份声明中表示，该公司没有将干邑生产转移到中国的计划，但正在努力保护自己的利益，捍卫本行业
+
+To minimize the odds that a lawsuit could flush out comments that might be incriminating, Google said, employees should refrain from speculation and sarcasm and “think twice” before writing one another about “hot topics.” “Don’t comment before you have all the facts,” they were instructed. The technology was tweaked, too. The setting for the company’s instant messaging tool was changed to “off the record.” An incautious phrase would be wiped the next day.
+谷歌表示，为了最大限度地减少因诉讼而暴露出的可能入罪的言论，员工之间应该避免猜测和讽刺性的语言，在相互写信讨论“热门话题”之前“三思而后行”。他们被要求：“在掌握全部事实之前，不要发表评论。”技术也进行了调整。该公司的即时通讯工具设置改为“不记录”。一句不谨慎的话第二天就会被删除。
+
+The memo became the first salvo in a 15-year campaign by Google to make deletion the default in its internal communications. Even as the internet giant stored the world’s information, it created an office culture that tried to minimize its own. Among its tools: using legal privilege as an all-purpose shield and imposing restraints on its own technology, all while continually warning that loose lips could sink even the most successful corporation.
+这份备忘录成为谷歌15年来将删除作为内部通信默认设置的开端。尽管这家互联网巨头存储着全世界的信息，但它创造了一种尽量减少自身信息的办公室文化。它的手段包括：将法律保密特权作为万能盾牌，对自己的技术施加限制，同时不断警告员工，即使是最成功的公司也会因口风不紧而陷入困境。
+
+The exhibits and testimony showed that Google took numerous steps to keep a lid on internal communications. It encouraged employees to put “attorney-client privileged” on documents and to always add a Google lawyer to the list of recipients, even if no legal questions were involved and the lawyer never responded.
+证物和证词显示，谷歌采取了许多措施对内部通讯保密。它鼓励员工让文件具备“律师–当事人保密”属性，任何时候收件人列表中都要有一名谷歌律师，即使这些文件不涉及法律问题，而律师也从不会回复。
+
+A generation ago, a water-cooler conversation or a phone call might have been incriminating, but the words would have dissolved in the air. Someone might remember them, but they could always be denied. Perhaps listeners misheard or misunderstood. Companies would like instant messages to be as ephemeral as a real-life conversation. A comment made by text to a subordinate about the implications of a merger is just so much chatter, they argue. But regulators, and litigants, see them as fair game.
+在一代人以前，饮水机旁的一次谈话或一通电话可能会造成指控，但这些话都会在空气中消失。有人可能记得，但他们总是可以否认。也许是听者听错了，或是误解了。公司希望即时消息像现实生活中的对话一样转瞬即逝。他们认为，给下属发一条关于某宗并购案的影响的短信，不过是闲聊而已。但监管机构和诉讼当事人认为这些是合理的目标。
+
+From Google’s point of view, it was the Marie Kondo of corporations, merely tidying up its records and files. But it did this so comprehensively and obsessively that it created the illusion of deceit that it was trying so hard to dispel, Google was founded in September 1998, a few months after the era’s most dominant tech company — Microsoft — was sued by the Justice Department for antitrust violations. Seeking to show that Microsoft was illegally monopolizing the web browser market, the department did not have to look far for damning memos.
+从谷歌的角度来看，它相当于公司中的断舍离实践者，只是清理记录和文件而已。但是谷歌的做法太过彻底、太过执着，以至于制造了一种它在欺瞒的假象，谷歌一直在致力于消除这种印象。谷歌成立于1998年9月，就在几个月前，当时最具统治力的科技公司微软被美国司法部提起反垄断诉讼。司法部不费吹灰之力就找到了一些具有破坏性的备忘录，可以用来证明微软非法垄断网络浏览器市场。
+
+Exhibits in the cases showed that Googlers had learned to be a little paranoid for the good of Google and their own careers. Talk in the dark, they insisted over and over, rather than in the light. Sometimes executives were so worried about leaving a record that they defaulted to obsolete technology.
+这些案件中的证据表明，为了谷歌和他们自己的职业生涯，谷歌的员工已经学会了一种如临大敌的态度。他们一再坚持在暗处交流，而不是在明面上。有时，管理层非常担心留下记录，以至于默认使用过时的技术。
+
+The American election results were received with enthusiasm in Moscow. President Vladimir Putin, offering his congratulations, seemed genuinely pleased. But it’s not because Donald Trump is seen as a pro-Russian politician or even one of their own — those illusions faded long ago. Nor is it the prospect of an advantageous peace deal in Ukraine, ruthlessly brokered by Mr. Trump. The first reported call between the two leaders, which the Kremlin denies took place, suggests that the incoming administration will be no pushover.
+美国的大选结果在莫斯科引发了热烈反响。普京总统在表示祝贺时似乎由衷地感到高兴。但这并非因为特朗普被视为亲俄政客，甚至是“自己人”——这些幻想早就消失了。也不是因为乌克兰问题有望——在特朗普的无情斡旋下——达成有利于自己的和平协议。据报道，两位领导人之间的首次通话（克里姆林宫对此予以否认）表明，即将上任的政府也不会任他们摆布
+
+ Fewer and fewer people believe in it, more and more find it absurd, and many increasingly lean toward a much more cynical perspective. To the Kremlin, the Democratic Party has become excessively dogmatic, resembling the Communist Party of the Soviet Union in its final decade: an arrogant steward of a bankrupt belief system, stumbling toward a fall.
+ 相信它的人越来越少，认为它荒谬的人越来越多，许多人越来越倾向于挖苦嘲讽的观点。对克里姆林宫而言，民主党已经变得过于教条，类似于苏联共产党的最后十年：一个已经破产的傲慢信仰体系的管理者，跌跌撞撞地走向崩溃。
+
+ Mr. Gorbachev was a self-absorbed narcissist who loved to talk — a man without a plan, a strategy or any clear understanding of his goals, a politician who undermined core institutions that supported the state and left only chaos in his wake. They much prefer Mr. Trump, naturally. But they see him playing a similar role. Of course, much of this is wishful thinking. Predictions of America’s imminent collapse have no basis in reality. 
+ 戈尔巴乔夫是一个自我陶醉的自恋者，喜欢夸夸其谈，是一个没有计划、没有策略，对其目标缺乏明确了解的人，他削弱了支撑国家的核心机构，留下的只有混乱。他们自然更喜欢特朗普。但同时他们也看到他在扮演类似的角色。当然，这在很大程度上是一厢情愿的想法。美国即将崩溃的预测没有现实依据。
+
+ The Soviet Union fell because it bankrupted itself under the weight of excessive military spending and imperial ambitions. Its economy proved to be unsustainable and ethnic tensions emerged, with some Soviet republics pushing for independence. Mr. Gorbachev, for his part, was a reformer within the ruling party who aimed to refine rather than overthrow the system. But that won’t stop the Kremlin from seeing what it wants to see: an America hurtling toward disaster, with Mr. Trump at the wheel.
+ 苏联垮台是因为它在过度的军费开支和帝国野心的重压下破产了。事实证明，它的经济是不可持续的，而且出现了民族矛盾问题，一些加盟共和国开始寻求独立。就戈尔巴乔夫而言，他是执政党内部的改革者，目标是完善而非推翻这个制度。但这并不能阻止克里姆林宫看到它想看到的景象：在特朗普的掌舵下，美国正冲向灾难。
+
+ “Interior Chinatown,” premiering with all 10 episodes Tuesday on Hulu, is also an affectionate sendup of the police procedural, and a sly piece of media criticism about Asian stereotypes in entertainment. “The elevator pitch is that it’s ‘Law & Order’ meets ‘The Truman Show,’” Yu said. “It starts as a straightforward mystery and gets into something weirder, a metaphysical mystery hopefully.”
+ 《唐人街内部》已于周二在Hulu首播，共10集。它也是一部善意戏仿警匪剧的嘲讽片，巧妙地批评了娱乐界的亚洲人刻板印象。“简单地说，这是一部《法律与秩序》(Law & Order)和《楚门的世界》(The Truman Show)的结合，”游朝凯说。“开始时，它是一部简单的悬疑剧，然后变得更加怪诞，希望它是一部形而上学的悬疑剧。”
+
+ Maybe this was just campaign bluster, but statements like this carry an existential weight for Taiwan’s 24 million residents. We gave the world boba tea, cat cafes and Nymphia Wind, the first Asian winner of “RuPaul’s Drag Race.” You’re welcome.
+ 也许这只是竞选时的故作姿态之辞，但这样的言论对台湾2400万民众来说却是生死攸关的大事。我们为世界贡献了珍珠奶茶、猫咪咖啡馆和“鲁保罗变装皇后秀”首位亚洲获胜者妮妃雅。不用谢。
+
+ During air-raid drills at school, we filed into an underground shelter where we crouched with our fingers covering our eyes and ears. I always wondered what good that would do if a bomb dropped on us. Like thousands of others, I’ve gone through civil defense training to learn things that most Americans wouldn’t imagine needing to know in their daily lives — how to tie a tourniquet, pack a go bag, evacuate to safer ground
+ 在学校举行空袭演习时，我们排着队进入地下掩体，蹲在那里用手指遮住眼睛和耳朵。我总是在想，如果炸弹落在我们身上，这样做有什么用。像千千万万的其他人一样，我也参加了民防训练，学习大多数美国人在日常生活中无法想象需要知道的事情——如何绑止血带、准备应急包、撤离到安全地点
+
+ I know U.S. voters have a lot on their plates. I guess that’s why you voted for a president who promises to put America first. I get it; in some ways, Mr. Trump invokes the Hollywood presidents I grew up watching: bold, brash and rah-rah America.
+ 我知道美国选民面临许多挑战。我想这就是为什么你们选择了一位承诺将美国放在首位的总统。我理解；在某些方面，特朗普让我想起小时候在好莱坞电影里看到的美国总统：大胆、张扬和朝气蓬勃的美国精神
+
+ But I believe that such optimism is misplaced. Trump’s obsessions with tariffs and immigration go way back, and he probably won’t respond well if people ridicule him for not delivering on his signature policy ideas. Such actions would be a humanitarian and civil liberties nightmare. But these considerations probably won’t deter Trump. If anything, he may welcome an uproar because it would make him look strong and decisive.
+ 但我认为这种乐观是错误的。特朗普对关税和移民的痴迷可以追溯到很久以前，如果人们嘲笑他没有兑现标志性的政策主张，他可能会很不高兴 这样的行动将是人道主义和公民自由的噩梦。但这些考量可能不会阻止特朗普。甚至可以说，像这样的骚动是他求之不得的，因为这会让他看起来强大又果断。
+
+ No American business leader has more visibly and lavishly supported President-elect Donald J. Trump than Elon Musk — and few if any have a more complex relationship with China, a country that Mr. Trump has vowed to confront with higher tariffs and other measures. Mr. Musk has a lot on the line. Some experts have suggested that Beijing may be able to turn Mr. Musk into an influential ally in trying to persuade Mr. Trump to take a more conciliatory approach on trade.
+没有一位美国商界领袖比埃隆·马斯克更公开、更慷慨地支持候任总统特朗普，也很少有人比他与中国的关系更加复杂。而特朗普誓言要以更高的关税和其他措施来对付中国。马斯克在中国押注很大 一些专家表示，北京可能会把马斯克变成一个有影响力的盟友，以说服特朗普在贸易问题上采取更为温和的态度。
+
+In the past few years, the police have been crossing provincial borders to raid companies and milk their books. In official discourse, the practice has been categorized as “profit-driven law enforcement.” In news media and social media, it’s called “offshore fishing,” likening the police to fishermen who venture far out to sea for their catch. Winds shift and a chief executive is taken away, or sometimes entire sectors fall out of favor.
+在过去几年中，警方一直在跨越省界，对企业进行突击搜查，榨取他们的资金。在官方的话语中，这种做法被归类为“逐利性执法”。在新闻媒体和社交媒体中，这种做法被称为“远洋捕捞”，将警察比作出海捕鱼的渔民。风向一变，某个首席执行官就会被带走，有时整个行业都会失去青睐。
+
+To local governments, they said, private businesses are like delicious fatty pork dangling out in the open. Ultimately, the police heed the direction of their local governments. Courts must be independent to exercise proper oversight. If the courts and the police are in cahoots, how can there be any control?
+他们说，对地方政府来说，私营企业就像挂在室外的美味肥猪肉。归根结底，警方听从的是地方政府的指示。法院必须独立，才能进行适当的监督。如果法院和警方沆瀣一气，何来控制？
+
+Ms. Chang said performers were sometimes given expired beef jerky and ramen noodles. Once, after becoming ill from the food, Ms. Chang was told that Mr. Li had given her the expired food “to cleanse herself from the inside out,” the lawsuit said. After Ms. Chang left Shen Yun, the lawsuit said, she was diagnosed with clinical depression and post-traumatic stress disorder. Recently, the suit said, Ms. Chang learned that Shen Yun had organized mass criticism sessions targeting her.
+张郡格说，给演员的食物中有时有过期的牛肉干和拉面。诉讼称，有一次，她在因吃这些食物而生病后被告知，李洪志给她吃过期食品是为了“从内到外净化她自己”。诉讼称，张郡格离开神韵后被诊断患有临床抑郁症和创伤后应激障碍。诉讼称，最近，张郡格得知神韵组织了针对她的大型批判会。
+
+Two years ago, Gen. Mark A. Milley, then the chief military adviser to President Biden, suggested that neither Russia nor Ukraine could win the war. A negotiated settlement, he argued, was the only route to peace. His remarks caused a furor among senior officials. The ascendance of Mr. Trump as Ukraine suffers losses on the battlefield in fact means less room for Ukraine to maneuver.
+两年前，时任拜登总统首席军事顾问的马克·A·米利将军曾表示，俄罗斯和乌克兰都无法赢得这场战争。他认为，谈判达成协议是实现和平的唯一途径。他的言论在高级官员中引发了轩然大波。随着乌克兰在战场上遭受损失，特朗普的到来实际上意味着乌克兰的回旋余地更小。
+
+Several officials even suggested that Mr. Biden could return nuclear weapons to Ukraine that were taken from it after the fall of the Soviet Union. That would be an instant and enormous deterrent. But such a step would be complicated and have serious implications. Ukraine and its allies must reverse the momentum on the front line to set conditions for talks.
+几名官员甚至建议拜登将苏联解体后从乌克兰夺走的核武器归还给该国。这将是一个立竿见影的巨大威慑。但这样的举措将非常复杂，并会产生严重影响。乌克兰及其盟友必须扭转前线的势头，为谈判创造条件。
+
+He was outwardly pro-Beijing and frequently appeared with Chinese consular officials in Houston, before the Trump administration closed the office in 2020 and said it was a hub of spying. As for Mr. Xu, he is a rare instance of a trained Chinese spy caught in a complex operation and imprisoned by the Americans. His case was an embarrassment for China: He was lured from his homeland to Belgium in a sting operation by the F.B.I.
+他表面上支持北京，经常与中国驻休斯敦领事馆官员一起露面，直到特朗普政府在2020年关闭该领事馆，并称这里是间谍窝。徐延军是训练有素的中国间谍，在一次复杂的行动中被美国人抓获并监禁，这样的情况非常罕见。他的案件令中国感到尴尬：他是在联邦调查局的诱捕行动中，从中国被骗到比利时的。
+
+But Huawei has pressed ahead, and the phone has burnished its image as a national leader, triumphant in the face of U.S. restrictions. Huawei was able to appeal to Chinese customers who previously would have been more likely to buy iPhones, eating into Apple’s most important market outside the United States.
+但华为仍在继续前行，其手机在美国的限制下取得了胜利，树立了全国领先者的形象。华为能够吸引以前更有可能购买iPhone的中国客户，蚕食苹果在美国以外最重要的市场。
+
+But even if the threat to impose vast tariffs on some of the world’s largest economies is a negotiating tactic, it is also a gambit that has immediate real-world consequences. “Rather than panicking, we’re engaging in constructive ways to protect Canadian jobs like we have before,” Mr. Trudeau said. “The idea of going to war with the United States isn’t what anyone wants.”
+但是，即使威胁对世界上一些最大的经济体征收巨额关税是一种谈判策略，这同时也将是一个会给现实世界造成直接后果的棋局。“我们没有惊慌失措，而是像以前一样，以建设性的方式保护加拿大的就业，”特鲁多说。“与美国开战的想法不是任何人想要的。”
+
+“Now they are signaling their tolerance for accepting and dishing out pain,” he said. “It’s clear for political reasons that Beijing is not willing to stand by and watch as significant new waves of tariffs come in.” The new tools are part of what one Communist Party publication described as an effort to “provide legal support for countering hegemonism and power politics and safeguarding the interests of the country and the people.”
+“现在，他们正在表明自己的忍耐限度，并实施打击，”他说。“很明显，出于政治原因，北京不愿眼睁睁地看着新一轮关税大潮的到来。”这些新工具是一份中共出版物所描述的“为反对霸权主义和强权政治、维护国家和人民利益提供法律支持”的一部分。
+
+Collectively, the strategy marks a calculated shift to counter Mr. Trump’s expected policies when he takes office. The fallout could significantly disrupt operations for American companies. Washington’s relationship with Beijing was already fraught. 
+总的来说，这一战略标志着深思熟虑的转变，目的是应对预期特朗普上任后会采取的政策。该战略的后果可能会严重扰乱美国公司的运营。华盛顿与北京的关系本来就很紧张。
+
+The old adage about the interregnum between an election and an inauguration is that there is only one president at a time. Try telling that to the rest of the world now. While one president, the one actually still living in the White House, attends international summit meetings and brokers a Middle East cease-fire to cap his tenure, another president, the one who has not actually taken office yet, is busy conducting a foreign policy of his own from his Spanish-tiled Florida estate.
+关于大选和就职仪式之间这段时间有句老话，就是同一时间里只有一位总统。现在再跟全世界说这句话试试看。一个总统，目前住在白宫里的总统，在参加国际首脑会晤，力求在任期的最后时刻促成中东停火，另一个总统，还没实际就职的总统，忙着在自己那座铺着西班牙瓷砖的佛罗里达大宅里制定外交政策。
+
+Whipsawed and maybe just a little confused, foreign leaders are left to calculate whether it makes sense to try to get something done with the outgoing leader or brace for the reality of his successor. Mr. Trump appeared to be using the tariff threats to extract concessions. 
+在忽左忽右的晃动下可能有些困惑的外国领导人只能自己去判断，是跟即将卸任的领导人达成些什么目标，还是准备好面对他的继任者将带来的现实。特朗普似乎在利用关税威胁迫使对手退缩。
+
+For our adversaries out there that think this is a time of opportunity that they can play one administration off the other, they’re wrong and we are hand in glove. We are one team with the United States in this transition. In fact, the Biden and Trump teams have had only glancing consultations since the election because the president-elect refused for weeks to sign memorandums of understanding on how to handle the transition with the federal government. 
+如果我们的敌人们以为，现在是一个挑拨两届政府的机会，他们搞错了，我们亲密无间。在这次交接中，我们都是美国队的队友。事实上，自大选以来，拜登和特朗普团队只进行过短暂的磋商，因为候任总统几周来一直拒绝签署关于如何与联邦政府处理过渡的谅解备忘录。
+
+At the heart of President-elect Donald J. Trump’s threat on Monday to slap China with new tariffs is a bitterly recurring issue: the flow into the United States of the potent opioid fentanyl, created using chemicals made in China. It was a rare instance of cooperation from China, which has otherwise stonewalled the United States on issues including nuclear arms control, support for Russia and human rights. 
+候任总统特朗普周一威胁要对中国征收新关税，其核心是一个反复出现的问题：使用中国制造的化学品生产的强效阿片类药物芬太尼流入美国, 这种合作很罕见，在核军备控制、支持俄罗斯和人权等问题上，中国一直不予配合
