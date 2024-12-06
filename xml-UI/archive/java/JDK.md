@@ -574,7 +574,7 @@ ts=2024-06-30 14:52:38; [cost=0.748555ms] result=@ArrayList[
 // 'params[0].size()'：查看第一个参数的size
 // 'params[0]=="xyz"'：判断字符串相等
 // 'params[0]==123456789L'：判断long型
-// 'params[0].{#this.name}'：将结果按name属性映射
+// 'params[0].{#this.name}'：将结果按name属性映射,返回一个ArrayList包含全部name
 // 'params[0].{? #this.name == null }'：按条件过滤
 // 'params[0].{? #this.age > 10 }.size()'：过滤后统计
 // 'params[0].{^ #this.name != null}'：选择第一个满足条件
@@ -1112,4 +1112,134 @@ Affect(row-cnt:8) cost in 35 ms.
 
 [arthas@28030]$ classloader -c 750f747d -r java/lang/String.class
  jar:file:/usr/lib/jvm/zre-8-amd64/lib/rt.jar!/java/lang/String.class 
+```
+
+##### advanced
+watch时候发现某些function未如预期，希望执行一些不同逻辑来判断一下情况。这就要求能够插入一些额外的代码逻辑,arthas引入了ognl的能力，因此可以利用这种功能来实现   
+比如，监控com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources执行有问题，希望调用一下其他逻辑流程来验证一下。我们可以有三种方式可选，第一种是去环境上替换一下jar文件，重启一下JVM生效。第二种是通过前面提到的retransform，动态替换JVM中class定义。第三种就是手动用ognl动态加入逻辑
+```console
+# com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources 方法在调用时候使用了search逻辑默认参数
+# 在watch时候，希望手动调用一下其他参数来返回结果
+
+# 1.首先试一试bool原始类型的构造过程 结果说明ognl可以识别对象构造
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#sre=false, {#sre}'
+ts=2024-12-06 08:28:15.668; [cost=3.684079ms] result=@ArrayList[
+    @Boolean[false],
+]
+
+# 2.试一试对象赋值操作 
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(), #srp.fetchRelationshipsParam=null, {#srp.fetchRelationshipsParam}'
+# 提示错误，需要设定非严格操作，允许赋值
+watch failed, condition is: null, express is: #srp=new com.example.platform.api.model.common.param.ResourceSearchParam(), #srp.fetchRelationshipsParam=null, {#srp.fetchRelationshipsParam}, By default, strict mode is true, not allowed to set object properties. Want to set object properties, execute `options strict false`, visit /home/admin/logs/arthas/arthas.log for more details.
+# 2.1 执行 options strict false，
+[arthas@133960]$ options strict false
+ NAME    BEFORE-VALUE  AFTER-VALUE
+-----------------------------------
+ strict  true          false
+# 2.2 再执行赋值 返回null结果正常
+ts=2024-12-06 08:35:54.378; [cost=3.832566ms] result=@ArrayList[
+    null,
+]
+# options json-format true 允许以json格式返回结果
+
+# 3.试一试构造内部类(InnerClass)
+
+
+watch OuterClass$InnerClass
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),{#id}'
+method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+ts=2024-12-06 02:39:41.395; [cost=1.911026ms] result=@ArrayList[
+    @UUID[60cd3f35-d56d-4576-99f0-d464adb04684],
+]
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),{#resid}'
+method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+ts=2024-12-06 02:45:54.743; [cost=3.083184ms] result=@ArrayList[
+    @ResourceKeyUuid[[resourceKey = null, 60cd3f35-d56d-4576-99f0-d464adb04684]],
+]
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},{#resList}' -x2
+method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+ts=2024-12-06 02:49:00.962; [cost=2.180524ms] result=@ArrayList[
+    @ArrayList[
+        @ResourceKeyUuid[[resourceKey = null, 60cd3f35-d56d-4576-99f0-d464adb04684]],
+    ],
+]
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources target.platformInterface
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res}'
+method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+ts=2024-12-06 02:55:55.229; [cost=2.882108ms] result=@ArrayList[
+    @Resources[PlatformResult{succeededPartially=false, tracer=VCF Operations Controller-Headless-Chicken.PlatformServer.getResources - 2ms.
+    Execute(ControllerInterface.getResources) - 2ms.
+        VCF Operations Controller-Headless-Chicken.ControllerServer.getResources - 2ms.
+            GetResourcesProcessor.getResources - 2ms.
+                GrPersistenceFilter.getByUUIDs - 0ms.
+                GrPersistenceFilter.filterByPersistence - 0ms.
+                GrAnalyticsFilterWrapper.filterByAnalyticsData - 0ms.
+                GrResourceDataSorter.sortByCacheOnlyData - 1ms.
+                GrCacheOnlyDataFiller.constructResourceUsingCacheOnlyInfo - 0ms.
+                GrCachePlusDataFiller.fillUsingNameCache - 1ms.
+                GrResourceDataFiller.fillResourceRelationships - 0ms.
+} -- Resources{resources=[60cd3f35-d56d-4576-99f0-d464adb04684]}],
+]
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res.getResources().get(0)}'
+method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+ts=2024-12-06 03:05:57.153; [cost=2.467296ms] result=@ArrayList[
+    @Resource[60cd3f35-d56d-4576-99f0-d464adb04684],
+]
+
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res.getResources().get(0).childs}'
+method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+ts=2024-12-06 03:07:20.758; [cost=1.79318ms] result=@ArrayList[
+    @HashSet[isEmpty=false;size=3],
+]
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res.getResources().get(0).childs}' -x2
+method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+ts=2024-12-06 03:08:10.193; [cost=3.559111ms] result=@ArrayList[
+    @HashSet[
+        @UUID[e47d044c-4e04-4f22-aceb-e019b824c053],
+        @UUID[9a4c4598-d3c3-4710-8095-8152ab8097e9],
+        @UUID[66bd9bb6-a196-4b31-8b37-dd9c2a06068b],
+    ],
+]
+
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(), #srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"), #sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true,2,null,null), #srp.fetchRelationshipsParam=#sre,{#srp}'
+
+watch com.example.diagnostics.server.HealthInterfaceImpl queryNsxResources '#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false, true), {#sre}'
+
+   dump java.lang.String
+   dump -d /tmp/output java.lang.String
+   dump org/apache/commons/lang/StringUtils
+   dump *StringUtils
+   dump -E org\\.apache\\.commons\\.lang\\.StringUtils
+
+ WIKI:
+   https://arthas.aliyun.com/doc/dump
+
+ OPTIONS:
+     --classLoaderClass <value>       The class name of the special class's classLoader.
+ -c, --code <value>                   The hash code of the special class's classLoader
+ -d, --directory <value>              Sets the destination directory for class files
+ -h, --help                           this help
+ -l, --limit <value>                  The limit of dump classes size, default value is 50
+ -E, --regex                          Enable regular expression to match (wildcard matching by default)
+ <class-pattern>                      Class name pattern, use either '.' or '/' as separator
+[arthas@32062]$
+[arthas@32062]$
+[arthas@32062]$
+[arthas@32062]$ dump com.example.diagnostics.server.HealthInterfaceImpl
+ HASHCODE  CLASSLOADER                                                         LOCATION
+ 65f06db2  +-com.integrien.alive.common.util.PluginLoader$JarLoader@65f06db2   /home/admin/logs/arthas/classdum
+             +-jdk.internal.loader.ClassLoaders$AppClassLoader@7e6f74c         p/com.integrien.alive.common.uti
+               +-jdk.internal.loader.ClassLoaders$PlatformClassLoader@dd05255  l.PluginLoader$JarLoader-65f06db
+                                                                               2/com/vmware/vrops/diagnostics/s
+                                                                               erver/nsx/NSXHealthInterfaceImpl
+                                                                               .class
+
 ```
