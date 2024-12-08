@@ -331,7 +331,7 @@ javadoc common/java/tracing/src/main/java/example/tracing/*.java -d ./javadoc/
 
 #### Arthas
 - [Diagnostic Tool Arthas](https://github.com/alibaba/arthas)
-- [中文手册](https://arthas.gitee.io/trace.html)
+- [中文手册](https://arthas.aliyun.com/doc/trace.html)
 - [最佳实践](https://mp.weixin.qq.com/s/PIhsu-gNb9XK0ulU06lL7g)
 ```console
 # 下载运行包
@@ -445,7 +445,7 @@ Affect(row-cnt:2) cost in 188 ms.
  classLoaderHash  null   
 ```
 
-##### [watch](https://arthas.gitee.io/doc/watch.html)
+##### [watch](https://arthas.aliyun.com/doc/doc/watch.html)
 确定method后就可以watch操作
 ```console
 # 默认情况输出调用方法的 {parameter/方法所属 class instance/return}
@@ -770,7 +770,7 @@ Failed to execute ognl, exception message: ognl.MethodFailedException: Method "g
 '#context=@com.alibaba.dubbo.config.spring.extension.SpringExtensionFactory@contexts.iterator.next, #instance=#context.getBean("userServiceImpl"),#fieldObj=@com.User@class.getDeclaredField("age"),#fieldObj.setAccessible(true), #fieldObj.set(#instance,18)'
 ```
 
-##### [stack](https://arthas.gitee.io/doc/stack.html)
+##### [stack](https://arthas.aliyun.com/doc/doc/stack.html)
 如果想查看调用栈可以stack操作, 一直能上溯看到谁调用到此方法
 ```console
 # 记录LogicalSwitchImpl所有方法被触发的调用栈数据
@@ -782,7 +782,7 @@ Failed to execute ognl, exception message: ognl.MethodFailedException: Method "g
 [arthas@28030]$ stack com.example.api.search.AggregateRequestDto * | tee /opt/example/gm-tomcat/stack.log
 ```
 
-##### [trace](https://arthas.gitee.io/doc/trace.html)
+##### [trace](https://arthas.aliyun.com/doc/doc/trace.html)
 如果想查看调用栈可以trace操作，往下看到后面每一个被调用的方法及执行时间
 ```console
 # 记录LogicalSwitchImpl所有方法被触发的调用栈数据
@@ -801,7 +801,7 @@ trace -E com.validators.ValidatorAspect|com.facade.FacadeImpl createOrReplace|va
 trace *FacadeInterceptorValidatorAspect validationAnnotatedMethod '#cost>500'
 ```
 
-##### [tt](https://arthas.gitee.io/doc/tt.html)
+##### [tt](https://arthas.aliyun.com/doc/doc/tt.html)
 如果一个目标方法调用次数很多，用trace监控time cost，屏幕输出非常快，难以获取有效信息。此时可以通过TimeTunnel列表显示
 ```console
 # -n 300 最大显示300条记录 默认只有100条记录，调用太多时候根据情况设定
@@ -853,7 +853,7 @@ RETURN-OBJ     null
 Time fragment[1250] successfully replayed 1 times.
 ```
 
-##### [vmtool](https://arthas.gitee.io/vmtool.html)
+##### [vmtool](https://arthas.aliyun.com/doc/vmtool.html)
 允许从当前VM中查找到实例，并执行一些方法
 ```console
 # 查看当前VM中所有 JaegerTracer 实例, 返回实例数组
@@ -920,7 +920,7 @@ reverse_proxy_https_port: 443
 [arthas@1922536]$ 
 ```
 
-##### [getstatic](https://arthas.gitee.io/getstatic.html)
+##### [getstatic](https://arthas.aliyun.com/doc/getstatic.html)
 如果想查看类的有static field，可以直接查看而不论其是否是private
 ```console
 # 查看System的static field 'out'
@@ -953,7 +953,7 @@ field: n
 Affect(row-cnt:1) cost in 68 ms.
 ```
 
-##### [retransform](https://arthas.gitee.io/retransform.html)
+##### [retransform](https://arthas.aliyun.com/doc/retransform.html)
 如果想对已加载的class做热替换可以使用retransform和redefine，类似本地IDE调试时候直接修改代码即可生效。但受jvm热替换限制不能修改、添加、删除类的field和method，包括方法参数、方法名称及返回值。<br>  
 retransform和redefine两个命令有点差异:
   - redefine 之后原来的class不能恢复，除非重启jvm。有可能失败(比如增加了新的field)，reset命令对redefine的类无效。如果想重置回来，需要redefine原始class的字节码。
@@ -962,23 +962,30 @@ retransform和redefine两个命令有点差异:
   - jad/mc也许不适合做复杂的反编译和编译，所以可以本地工程编译好class文件上传后再做class热替换
 ```console
 # retransform
-[arthas@28030]$ retransform /tmp/Test.class
-# 查看 retransform entry, TransformCount列显示在ClassFileTransformer.transform函数里尝试返回entry对应的.class文件的次数，但并不表明transform一定成功
+[arthas@28030]$ retransform /tmp/VropInterfaceImpl.class
+# 查看 retransform 结果, TransformCount列显示在ClassFileTransformer.transform函数里尝试返回目标class文件的次数，但并不表明transform一定成功
 [arthas@28030]$ retransform -l
-# 删除指定 retransform entry
+Id              ClassName       TransformCount  LoaderHash      LoaderClassName 
+1               com.example.Vrop 1               null            null                                                             
+                InterfaceImpl                                                      
+# 删除指定 retransform 结果 id为1的被删除
 [arthas@28030]$ retransform -d 1
-# 删除所有 retransform entry
-[arthas@28030]$ retransform --deleteAll  
-# 显式触发 retransform 
+[arthas@28030]$ retransform -l
+Id              ClassName       TransformCount  LoaderHash      LoaderClassName 
+# 删除所有 retransform 结果
+[arthas@28030]$ retransform --deleteAll 
+# 测试发现即使删除retransform的结果，之前class的行为仍未恢复，似跟redefine一样。重启jvm后才恢复原来行为
+# 如果对某个类执行 retransform 之后，想消除影响恢复原状。 要删除这个类对应的 retransform entry，还需要重新触发 retransform。
+# 如果不清除掉所有的 retransform entry结果，并重新触发 retransform ，即使arthas stop时，retransform过的类仍然生效。 
+# 按照--classPattern显式触发 retransform ，这样class行为就回归到原来
+[arthas@28030]$ retransform --classPattern *.VropInterfaceImpl
+
 # 对于同一个类，当存在多个 retransform entry时，如果显式触发 retransform ，则最后添加的entry生效(id最大的)
 [arthas@28030]$ retransform --classPattern demo.* 
 [arthas@28030]$ retransform -c 327a647b /tmp/Test.class /tmp/Test\$Inner.class
 [arthas@28030]$ retransform --classLoaderClass 'sun.misc.Launcher$AppClassLoader' /tmp/Test.class
 
-# 如果对某个类执行 retransform 之后，想消除影响恢复原状。 要删除这个类对应的 retransform entry，重新触发 retransform。
-# 如果不清除掉所有的 retransform entry，并重新触发 retransform ，则arthas stop时，retransform过的类仍然生效。 
-
-# redefine
+# redefine 执行之后无法撤销，除非重启JVM
 [arthas@28030]$ jad --source-only com.example.demo.arthas.user.UserController > /tmp/UserController.java
 [arthas@28030]$ mc /tmp/UserController.java -d /tmp
 [arthas@28030]$ redefine /tmp/com/example/demo/arthas/user/UserController.class
@@ -1087,7 +1094,7 @@ ID   NAME                       GROUP         PRIORITY STATE    %CPU     DELTA_T
 [arthas@28030]$ stop
 ```
 
-##### [classloader](https://arthas.gitee.io/classloader.html)
+##### [classloader](https://arthas.aliyun.com/doc/classloader.html)
 查看classloader的继承树，urls，类加载信息
 ```console
 [arthas@28030]$ classloader -t
@@ -1113,6 +1120,21 @@ Affect(row-cnt:8) cost in 35 ms.
 [arthas@28030]$ classloader -c 750f747d -r java/lang/String.class
  jar:file:/usr/lib/jvm/zre-8-amd64/lib/rt.jar!/java/lang/String.class 
 ```
+
+#### [dump](https://arthas.aliyun.com/doc/dump.html)
+```console
+# 列出dump命令格式
+[arthas@28030]$ dump -h   
+# 将JVM的class字节码导出到本地，可以通过工具反编译来查看其原始代码
+[arthas@32062]$ dump com.example.diagnostics.server.HealthInterfaceImpl
+ HASHCODE  CLASSLOADER                                                         LOCATION
+ 65f06db2  +-com.example.alive.common.util.PluginLoader$JarLoader@65f06db2   /home/admin/logs/arthas/classdum
+             +-jdk.internal.loader.ClassLoaders$AppClassLoader@7e6f74c         p/com.example.alive.common.uti
+               +-jdk.internal.loader.ClassLoaders$PlatformClassLoader@dd05255  l.PluginLoader$JarLoader-65f06db
+                                                                               2/com/example/vrops/diagnostics/s
+                                                                               erver/nsx/HealthInterfaceImpl
+                                                                               .class
+```    
 
 ##### advanced
 watch时候发现某些function未如预期，希望执行一些不同逻辑来判断一下情况。这就要求能够插入一些额外的代码逻辑,arthas引入了ognl的能力，因此可以利用这种功能来实现   
@@ -1143,63 +1165,56 @@ ts=2024-12-06 08:35:54.378; [cost=3.832566ms] result=@ArrayList[
 # options json-format true 允许以json格式返回结果
 
 # 3.试一试构造内部类(InnerClass)
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#srp=new com.example.platform.api.model.common.param.ResourceSearchParam.FetchRelationshipsParam(false,true), {#srp}'
+# 提示错误，找不到指定class
+watch failed, condition is: null, express is: #srp=new com.example.platform.api.model.common.param.ResourceSearchParam.FetchRelationshipsParam(), {#srp}, java.lang.NullPointerException, visit /home/admin/logs/arthas/arthas.log for more details.
+# 查一下内部类的名称 在JVM规范中inner class都是跟主类用$符号来关联，而不是如编码时候直接用‘.’号来索引到
+sc *FetchRelationshipsParam
+com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam
+# 修改一下初始化内部类的方式 ‘.’->'$' 就可以得到返回对象
+# 当操作一个内部类的时候都需要如此 例如watch OuterClass$InnerClass
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#srp=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false, true), {#srp}'
+ts=2024-12-08 03:38:20.992; [cost=1.731857ms] result=@ArrayList[
+    @FetchRelationshipsParam[com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam@33a8d1d5],
+]
 
-
-watch OuterClass$InnerClass
-
+# 4.试一试调用一下静态方法
+# 需要构造对象传入一个UUID的参数
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=java.util.UUID.fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),{#id}'
+# 提示错误，无法找到调用的静态方法
+watch failed, condition is: null, express is: #id=java.util.UUID.fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),{#id}, ognl.NoSuchPropertyException: com.taobao.arthas.core.advisor.Advice.java, visit /home/admin/logs/arthas/arthas.log for more details.
+# 按前面文档部分通过ognl来调用静态方法
 watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),{#id}'
-method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+# 成功返回UUID对象
 ts=2024-12-06 02:39:41.395; [cost=1.911026ms] result=@ArrayList[
     @UUID[60cd3f35-d56d-4576-99f0-d464adb04684],
 ]
 
-watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),{#resid}'
-method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
-ts=2024-12-06 02:45:54.743; [cost=3.083184ms] result=@ArrayList[
-    @ResourceKeyUuid[[resourceKey = null, 60cd3f35-d56d-4576-99f0-d464adb04684]],
-]
+# 5.前述几步已经成功，可以尝试组成复杂逻辑段
+# 整个逻辑pseudo code如下
+1.构造ResourceKeyUuid list
+2.调用HealthInterfaceImpl的属性对象platformInterface的查询方法
+3.得到返回对象的childs属性的值
 
+# 5.1 尝试构造一个UUID list
 watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},{#resList}' -x2
-method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+# 5.1-result 成功返回 resList
 ts=2024-12-06 02:49:00.962; [cost=2.180524ms] result=@ArrayList[
     @ArrayList[
         @ResourceKeyUuid[[resourceKey = null, 60cd3f35-d56d-4576-99f0-d464adb04684]],
     ],
 ]
 
-watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources target.platformInterface
-
-watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res}'
-method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
-ts=2024-12-06 02:55:55.229; [cost=2.882108ms] result=@ArrayList[
-    @Resources[PlatformResult{succeededPartially=false, tracer=VCF Operations Controller-Headless-Chicken.PlatformServer.getResources - 2ms.
-    Execute(ControllerInterface.getResources) - 2ms.
-        VCF Operations Controller-Headless-Chicken.ControllerServer.getResources - 2ms.
-            GetResourcesProcessor.getResources - 2ms.
-                GrPersistenceFilter.getByUUIDs - 0ms.
-                GrPersistenceFilter.filterByPersistence - 0ms.
-                GrAnalyticsFilterWrapper.filterByAnalyticsData - 0ms.
-                GrResourceDataSorter.sortByCacheOnlyData - 1ms.
-                GrCacheOnlyDataFiller.constructResourceUsingCacheOnlyInfo - 0ms.
-                GrCachePlusDataFiller.fillUsingNameCache - 1ms.
-                GrResourceDataFiller.fillResourceRelationships - 0ms.
-} -- Resources{resources=[60cd3f35-d56d-4576-99f0-d464adb04684]}],
-]
-
-watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res.getResources().get(0)}'
-method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+# 5.2 尝试构造完整一个srp对象参数，然后调用 HealthInterfaceImpl.platformInterface.getResource
+watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("Adapter"),#srp.addResourceKind("Domain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res.getResources().get(0)}'
+# 5.2-result 成功返回 Domain resource对象
 ts=2024-12-06 03:05:57.153; [cost=2.467296ms] result=@ArrayList[
     @Resource[60cd3f35-d56d-4576-99f0-d464adb04684],
 ]
 
-
-watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res.getResources().get(0).childs}'
-method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
-ts=2024-12-06 03:07:20.758; [cost=1.79318ms] result=@ArrayList[
-    @HashSet[isEmpty=false;size=3],
-]
+# 5.3 获取Domain resource对象的Childs属性值
 watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#id=@java.util.UUID@fromString("60cd3f35-d56d-4576-99f0-d464adb04684"),#resid=new com.example.platform.api.model.common.ResourceKeyUuid(#id),#resList={#resid},#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(),#srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"),#srp.addResourceKeys(#resList),#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true),#srp.fetchRelationshipsParam=#sre,#res=target.platformInterface.getResources(#srp),{#res.getResources().get(0).childs}' -x2
-method=com.example.diagnostics.server.HealthInterfaceImpl.queryDomainResources location=AtExit
+# 5.3-result 成功返回 Childs属性值
 ts=2024-12-06 03:08:10.193; [cost=3.559111ms] result=@ArrayList[
     @HashSet[
         @UUID[e47d044c-4e04-4f22-aceb-e019b824c053],
@@ -1208,38 +1223,5 @@ ts=2024-12-06 03:08:10.193; [cost=3.559111ms] result=@ArrayList[
     ],
 ]
 
-
-watch com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources '#srp=new com.example.platform.api.model.common.param.ResourceSearchParam(), #srp.addAdapterKind("VcfAdapter"),#srp.addResourceKind("VCFDomain"), #sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false,true,2,null,null), #srp.fetchRelationshipsParam=#sre,{#srp}'
-
-watch com.example.diagnostics.server.HealthInterfaceImpl queryNsxResources '#sre=new com.example.platform.api.model.common.param.ResourceSearchParam$FetchRelationshipsParam(false, true), {#sre}'
-
-   dump java.lang.String
-   dump -d /tmp/output java.lang.String
-   dump org/apache/commons/lang/StringUtils
-   dump *StringUtils
-   dump -E org\\.apache\\.commons\\.lang\\.StringUtils
-
- WIKI:
-   https://arthas.aliyun.com/doc/dump
-
- OPTIONS:
-     --classLoaderClass <value>       The class name of the special class's classLoader.
- -c, --code <value>                   The hash code of the special class's classLoader
- -d, --directory <value>              Sets the destination directory for class files
- -h, --help                           this help
- -l, --limit <value>                  The limit of dump classes size, default value is 50
- -E, --regex                          Enable regular expression to match (wildcard matching by default)
- <class-pattern>                      Class name pattern, use either '.' or '/' as separator
-[arthas@32062]$
-[arthas@32062]$
-[arthas@32062]$
-[arthas@32062]$ dump com.example.diagnostics.server.HealthInterfaceImpl
- HASHCODE  CLASSLOADER                                                         LOCATION
- 65f06db2  +-com.integrien.alive.common.util.PluginLoader$JarLoader@65f06db2   /home/admin/logs/arthas/classdum
-             +-jdk.internal.loader.ClassLoaders$AppClassLoader@7e6f74c         p/com.integrien.alive.common.uti
-               +-jdk.internal.loader.ClassLoaders$PlatformClassLoader@dd05255  l.PluginLoader$JarLoader-65f06db
-                                                                               2/com/vmware/vrops/diagnostics/s
-                                                                               erver/nsx/NSXHealthInterfaceImpl
-                                                                               .class
-
+以上这些步骤正确执行下来，就可以实现watch的同时可以执行不同的逻辑，以此来对一些功能进行分析和判断。
 ```
