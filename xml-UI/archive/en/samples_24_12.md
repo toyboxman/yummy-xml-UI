@@ -96,3 +96,102 @@ As Mr. Thompson, in a blue suit, walked toward the hotel entrance, the shooter a
 
 Its surge also caps an astonishing turnaround after its price dropped below $17,000 in 2022, as the collapse of the FTX crypto exchange sent the industry into a tailspin.This year, Bitcoin has come roaring back. Wealthy investors who had held onto their Bitcoin became even richer. Michael Saylor, the chief executive of the software firm MicroStrategy, had been widely mocked for borrowing hundreds of millions of dollars to buy Bitcoin for his company. Now his stash is worth more than $30 billion.
 2022年，FTX加密货币交易所的崩盘曾导致该行业失控，使比特币的价格跌破1.7万美元，这次巨幅升值是比特币价格的惊人回转。今年，比特币价格出现强劲反弹。持有比特币的富有投资者变得更加富有。软件公司“微策略”的首席执行官迈克尔·塞勒曾因借款数亿美元为公司购买比特币而受到外界嘲笑。现在他的比特币储备价值超过300亿美元。
+
+Officials who have gotten on his bad side described him as a daunting political foe. This is a whole different level of brazen propaganda. the best we can do is remain cordial. Emigrating to New York, he joined the Wo Lee Kwan triad and got into the lucrative business of smuggling Chinese citizens into the United States
+与他不和的官员将他描述为一个难以对付的政治对手。这是一种完全不同程度的无耻政治宣传。我们最多只能做到与他保持友好。移民到纽约后，他加入了三合会组织“和利群”，并开始从事将中国人偷渡到美国的赚钱生意。
+
+Luigi Mangione, the online version of him, was an Ivy League tech enthusiast who flaunted his tanned, chiseled looks in beach photos and party pictures with blue-blazered frat buddies.He was the valedictorian of a prestigious Baltimore prep school who earned bachelor’s and master’s degrees at the University of Pennsylvania.And in the hours after his apprehension, his baffling journey from star student to murder suspect began to come into focus.
+路易吉·曼吉奥尼——至少在网上的他——是一个出身常春藤校的技术爱好者，在海滩照和穿蓝西装的兄弟会派对中展示自己的古铜肤色和健美身材。他毕业于巴尔的摩一所声望很高的预科学校，是毕业告别致辞者，拥有宾夕法尼亚大学的学士和硕士学位.从明星学生到杀人疑凶，这段令人困惑的人生历程在他被捕后的几小时内开始变得清晰。
+
+Mr. Mangione came from a privileged upbringing, part of an influential real estate family in the Baltimore area.Even before college, Mr. Mangione had already made a mobile app where users could fly a paper airplane through obstacles.He recalled Mr. Mangione playing soccer for the high school team and running track or cross country.He was very smart, a pretty big math guy, really well read and quite well liked to be honest. I don’t have any bad memories of him. He had a very healthy social circle.
+曼吉奥尼家境优渥，出身于巴尔的摩地区一个有影响力的房地产家族。甚至在上大学之前，曼吉奥尼就已经开发了一款移动应用，用户可以在应用中驾驶纸飞机绕过障碍物。他回忆说，曼吉奥尼曾在高中足球队踢过球，还参加过田径或越野赛。他非常聪明，数学很好，博览群书，而且，说实话，他人缘很好。我对他没有任何不好的回忆。他的社交圈非常健康。
+
+In recent years, Mr. Mangione lived for six months in Honolulu in a “co-living” space called Surfbreak that caters to remote workers.But a painful and debilitating back injury kept Mr. Mangione from surfing and impinged on his romantic life, the spokesman added, and after Mr. Mangione moved away and underwent surgery he stopped replying to his Surfbreak friends.
+近年来，曼吉奥尼在檀香山一个名为冲浪停歇(Surfbreak)的“共同生活”空间住了六个月，该空间为远程工作者提供服务。但这位发言人还说，曼吉奥尼背部受伤，疼痛和虚弱使他无法冲浪，也影响了他的感情生活，自从他搬出去并且做了手术之后，就不再回复他在冲浪停歇结识朋友的消息了。
+
+It began to come together at the beginning of Syria’s civil war, when jihadists formed the Nusra Front to fight pro-Assad forces with hundreds of insurgent and suicide attacks.The group had early links to the Islamic State, and then to Al Qaeda. But by mid-2016, the Nusra Front was trying to shed its extremist roots, banding together with several other factions to establish Hayat Tahrir al-Sham. 
+该组织在叙利亚内战初期开始组建，当时圣战分子组建了“努斯拉阵线”，以数百次叛乱和自杀式袭击对抗亲阿萨德的武装力量。该组织最初与伊斯兰国有联系，后来又与基地组织有联系。但到了2016年年中，“努斯拉阵线”试图摆脱极端主义根源，与其他几个派别联合成立了“沙姆解放组织”。
+
+Chinese tech companies have resorted to stockpiling the chips, while also turning to smugglers and front companies to secure supplies. At the same time, Beijing is pouring large sums of money into its own chip companies in an attempt to make its tech sector less reliant on foreign technology.
+中国科技公司只得囤积芯片，同时也转向走私者和幌子公司来确保供应。与此同时，北京向本国芯片公司投入大量资金，试图减少科技行业对外国技术的依赖。
+
+It may seem counterintuitive to Democrats that a growing number of Chinese Americans would support Mr. Trump. The effects of anti-Asian hate were deeply felt across California, But not everyone blamed Mr. Trump’s rhetoric for precipitating the attacks. In Monterey Park, another Chinese-majority suburb, residents have complained about illegal boardinghouses and public littering.
+越来越多的华裔美国人支持特朗普，这对民主党人来说似乎有悖常理。反亚裔仇恨的影响在整个加州都十分深远，但并非所有人都将引发袭击事件归咎于特朗普的言论。在另一个以华人为主的郊区蒙特利公园，居民抱怨非法寄宿屋和公共场所乱扔垃圾。
+
+Ms. Alvarez rattled off the Dolphin’s technical specifications, including its advanced battery technology, rotating video display and four airbags. While Chinese electric vehicles still cost more than gasoline models, she said, they cost only 30 percent as much to fuel.
+阿尔瓦雷斯滔滔不绝地说起海豚迷你的技术规格，包括先进的电池技术、能旋转的显示屏，以及四个安全气囊。她说，虽然中国电动汽车的价格仍高于汽油车​​型，但燃料成本仅为汽油车型的30%。
+
+The movie calls out stigmas against female sexuality and stereotypes about single mothers. It name-drops feminist scholars, features a woman recalling domestic violence and laments censorship.This is not some indie film, streamed secretly by viewers circumventing internet firewall.The movie has its critics, including some who griped that the men in the movie are portrayed as inept or clownlike.
+这部电影批评了对女性性欲的污名化和对单亲妈妈的刻板印象。片中提到女权主义学者的名字，片中一位女性回想曾经经受的家庭暴力，并谴责审查制度。这不是什么需要绕过互联网防火墙到某个平台上偷偷播放的独立电影。这部电影也遭遇了批评，有些人抱怨电影中的男性被描绘成无能的形象，或者显得像是小丑。
+
+“What do you do? You wack the C.E.O. at the annual parasitic bean-counter convention. It’s targeted, precise, and doesn’t risk innocents,” was one passage written in the notebook, the officials said.Police officials in New York were able to match Mr. Mangione’s fingerprints to those on a water bottle and a Kind snack bar wrapper recovered near the crime scene.The police brought it to the department’s crime lab, where they matched it to the three shell casings that were found at the crime scene
+“你要做什么？你在一年一度的寄生虫数钱大会上干掉首席执行官。这是有定点的、精准的，不会伤及无辜，”官员们称笔记本上有一段话是这样写的。纽约警方确认曼吉奥尼的指纹与在犯罪现场附近发现的水瓶和健达巧克力棒包装上的指纹相符。警方已将枪支送至警局犯罪实验室，并确认其与犯罪现场发现的三个弹壳匹配。
+
+When Mr. Mangione was arrested, he had the so-called ghost gun, a suppressor and false identification cards similar to those believed to have been used by the killer, The police also found Mr. Mangione with a Faraday bag, which blocks electromagnetic signals and prevents a cellphone from being tracked.The suspect saw the killing as a “symbolic takedown,”
+曼吉奥尼被捕时身上带有所谓的“幽灵枪”、消音器和伪造的身份证件，与据信凶手曾使用的证件类似。此外，他还持有印有自己真实姓名的证件。他们还发现曼吉奥尼携带了一个法拉第袋，这个袋子可以屏蔽电磁信号，防止手机被追踪。嫌疑人将这起杀人事件视为“象征性的打击”。
+
+“This was a rather brazen act of violence,” Mr. Brafman said. “Given that there doesn’t seem to be an inch of Manhattan that isn’t covered in video recording devices, it’s hard to explain away what happened.”
+“这是一起非常明目张胆的暴力事件，”布拉夫曼说。“曼哈顿似几乎没有一寸土地不被监控设备覆盖，因此很难给发生的事情找借口。”
+
+The solution, for many Tesla owners on both ends of that spectrum, has been to slap a bumper sticker on their car to let people know how they feel about Mr. Musk.Mr. Hiller, who lives in Honolulu and works at the Waikiki Aquarium, became a key player in the situation by being ahead of the curve thanks to his side business: an Etsy shop called Mad Puffer Stickers.It’s become a pretty good side business.I’ve always been against E.V.s. — the oil patch is what puts food on my family’s table
+对于许多分处于政治光谱两端的特斯拉车主来说，解决方案就是在他们的车上贴上保险杠贴纸，让人们知道他们对马斯克的看法。家住檀香山的希勒在威基基水族馆工作，他凭借自己的副业——一家名为疯狂气鼓鱼贴纸(Mad Puffer Stickers)的Etsy网店，早早抓住了一个风口，成为了这一现象的关键人物。这已经成为一项相当不错的副业,我一直反对电动汽车——油田养活了我们家
+
+After a drizzly hike through one of Japan’s lush mountain ranges earlier this year, Luigi Mangione, a computer engineer in his mid-20s who had set off on a long solo trip to Asia, paused to record a voice message to a friend he had met while traveling abroad.
+今年早些时候，20多岁的计算机工程师路易吉·曼吉奥尼在细雨中徒步走过了日本的一片繁茂山峦，停下来给一位在国外旅行时认识的朋友录了一段语音。这是他独自一人在亚洲的漫长旅行的一部分。
+
+Making his way that day along a river gorge in the Nara region, Mr. Mangione had fled his day-to-day life in Hawaii to soak in hot springs, meditate, catch up on books and do some writing of his own.I want some time to Zen out,a more complete picture has emerged of a young man struggling with debilitating medical problems and increasingly disillusioned with the society he lived in.
+那天，曼吉奥尼沿着奈良地区的河谷前行，他逃离了夏威夷的日常生活，去泡温泉、冥想、读书，还有自己的写作。我想放空一段时间,渐渐可以勾勒出一个更完整的形象：一个正受到严重健康问题困扰的年轻人，对他所生活的社会日渐感到幻灭。
+
+Friends and family members have been left bewildered by the jarring transformation of a young man who had seemed destined for a life of achievement. He was the valedictorian at his elite prep school in Maryland. During his trip to Asia, he lashed out at the “modern Japanese urban environment,” claiming that sex toys, automated restaurants and a more general lack of “natural human interaction” were responsible for falling birthrates and a dearth of human connection.
+一个原本似乎注定要成就一番事业的年轻人发生了如此惊人的转变，令他的朋友和家人困惑不已。他是马里兰州一所精英预科学校的毕业生代表, 在亚洲之行期间，他猛烈抨击“现代日本城市环境”，声称性玩具、自动化餐厅以及更广泛层面上的“自然的人际交往”匮乏是导致出生率下降和人际疏离的原因。
+
+His defense lawyer, Thomas Dickey, said his client was legally presumed innocent and urged the public to keep an open mind about whether he committed the crime.Not that he wasn’t up for a party: One video from his campus years shows him gleefully bursting a beer can open with his head.
+他的辩护律师托马斯·迪基表示，他的当事人在法律上被推定无罪，并敦促公众对他是否犯下罪行保持开放态度。并不是说他不喜欢派对：他在校园时的一段视频显示，他兴高采烈地用脑门砸开一罐啤酒。
+
+For months, the suffering continued as he consulted with doctors and tried a variety of noninvasive remedies. He quit his job in early 2023, telling a friend that while it paid well, it was “mind-numbingly boring.” He said he wanted to spend more time doing yoga and reading.His mind seemed to be on more philosophical matters by then.
+几个月来，他一直在咨询医生，尝试各种非侵入性疗法，但疼痛仍在继续。2023年初，他辞去了工作，他对朋友说，这份工作虽然薪水很高，但“无聊透顶”。他说他想花更多时间做瑜伽和看书。当时他的心思似乎在一些比较哲学的问题上。
+
+Mr. Mangione had always been a voracious reader, consuming everything from self-help books to George Orwell’s “1984,” at times scribbling extensive notes or typing up outlines that would summarize the author’s views and how they might apply to his own life.
+曼吉奥尼一直是一个如饥如渴的读者，从励志书籍到乔治·奥威尔的《1984》，他什么都读，有时会做大量笔记，或者列出提纲，总结作者的观点，以及如何将这些观点应用于他自己的生活。
+
+Ironically, Yoon was held up as a paragon of an allied democratic leader, and his ham-handed attempt to impose martial law is an egg in the face​,Yoon Suk Yeol’s surreal declaration of martial law laid bare his complete miscalculation of South Korea’s position in the world, let alone as Northeast Asia’s stabilizing force
+讽刺的是，尹锡悦曾被奉为民主盟友领导人的典范，他颁布戒严令的笨拙尝试让（即将离任的拜登政府）很没面子，尹锡悦匪夷所思地宣布戒严令，暴露出他完全误判了韩国在世界上的地位，更不用说韩国作为东北亚稳定力量的地位了，
+
+By voting to impeach Mr. Yoon on Saturday, the National Assembly delivered a crushing vote of no confidence in a leader who had been unpopular through his term. ​Yet, despite their euphoria, the political turmoil and uncertainty unleashed by Mr. Yoon’s botched attempt on Dec. 3 to place his country under military rule for the first time in 45 years remained unresolved.
+韩国国会于周六投票弹劾尹锡悦，这是对这位在任期间不受欢迎的领导人的一次压倒性不信任投票。然而，尽管人们对这一结果感到雀跃，尹锡悦12月3日试图将韩国45年来首次置于军事统治之下的失败举动所引发的政治动荡和不确定性仍未得到解决。
+
+Mr. Han is viewed more as an even-keeled caretaker than as a charismatic leader, in some ways complementing Mr. Yoon, who has been criticized as impulsive and a braggart.Such acumen served him well in his bureaucratic career. 
+人们认为韩德洙更像是一位平稳的看管者，而不是一位魅力十足的领导者，这在某种程度上是对尹锡悦的补充，尹锡悦一直被批评容易冲动和夸夸其谈。这种敏锐让他在官场生涯中受益匪浅。
+
+The government also needed a “continuous dialogue” with the industry to figure out how to restrict technology that was incredibly complex, she said. “My thing is, you can’t put a price tag on national security. So if I dig into your profits, such is life.”
+她说，政府还需要与业界“持续对话”，以找出如何限制极其复杂的技术。“我的意思是，国家安全是无价的。所以如果我伤到你的利润了，那也没办法。”
+
+Many statements like those, casting blame equally around a courtroom packed with defendants, provoked loud jeers and guffaws from the other accused men.Throughout the trial, Mr. Pelicot seemed to try to present himself in a more positive light. He jumped to the defense of his now ex-wife; when some defense lawyers questioned her aggressively, he said, “In no case was she complicit.” 
+许多类似的声明——在挤满被告的法庭上表示所有人担负着同等的罪责——引起了其他被告的嘲弄和大笑。在整个审判过程中，佩利科特似乎试图展现一个更正面的形象。他为现已离异的妻子辩护；当一些辩护律师咄咄逼人地质问她时，他说，“她绝不是同谋。”
+
+For the royal family, the news is the latest in a skein of embarrassing revelations about Andrew, a onetime war hero whose dashing lifestyle has long since devolved into a morass of unsavory associations and allegations.Since that lawsuit and his links to Mr. Epstein have seeped into the public, Andrew has been in a form of internal exile, stripped of his military titles and banished from royal duties.
+对于王室来说，这条新闻是围绕安德鲁的一系列尴尬爆料中的最新一则。安德鲁曾是战争英雄，但其浮夸的生活方式早已沦为令人侧目的人际交往和各种指控的泥潭。自从那起诉讼以及他与爱泼斯坦的关系被公众知晓后，安德鲁王子就一直处于一种内部流放的状态，被剥夺了军官头衔，并被剥夺了王室职责。
+
+North Vietnam’s experience suggests otherwise.In 1954, after separating from France to become an independent nation, it was one of the poorest and least-developed countries in Asia, relying almost entirely on subsistence farming, and in the decade after unification in 1975, all of Vietnam became what one scholar called “a poverty-stricken society beset by a stagnant economy.”
+越南北方的经历暗示并非如此。越南在1954年摆脱法国殖民统治，成为一个独立国家后，曾是亚洲最贫穷、最不发达的国家之一，经济几乎完全依赖自给农业。在1975年南北统一后的十年里，越南全境都变成了学者所谓的“一个经济停滞不前的贫困社会”。
+
+Today, double-digit growth rates in the north are the norm, and Haiphong is a modern metropolis of two million people connected to Hanoi by a new highway. Cranes swing like weather vanes above more than a dozen construction sites. New bridges cross a river twisting through the city, where piers at industrial parks help ships move to one of the busiest ports in the world.
+如今在越南北方，两位数的增长率已是常态，海防也成了一座拥有200万人口的现代化大都市，建起了一条通往河内的新高速公路。十多个建筑工地上的起重机像风向标那样来回摆动。从城市蜿蜒穿过的河上架起了新桥，船只从工业园区的河边码头驶向世界上最繁忙的港口之一。
+
+But American tariffs became an economic accelerant — lighter fluid poured on a steady flame. And in the north, an epicenter of ancient Vietnamese civilization and Communist revolution, government officials’ quick action coincided with foreign investors’ own sense of capitalist urgency.
+但美国的关税成了越南经济发展的催化剂，像是火上浇油一般。北部是越南古代文明和共产主义革命的中心，北方政府官员的迅速行动与外国投资者本身的资本急迫感不谋而合。
+
+The book, “What Is to Be Done? Tales of New People,” was written by Nikolai Chernyshevsky in a prison cell in 1862 and 1863, after czarist authorities jailed him for “an evil intent to overthrow the existing order” because of his alleged connections to subversive organizations. The novel is little known in the West, perhaps because its meandering, confusing account of a love triangle in a utopian sewing cooperative is a tough read. 
+这本名为《怎么办？关于新人类的故事》的小说是尼古拉·车尔尼雪夫斯基于1862年和1863年在牢房中写成的，当时他被指控与颠覆组织有联系，沙皇当局以“推翻现有秩序的邪恶意图”为由将他监禁。这部小说在西方鲜为人知，也许是因为它蜿蜒曲折、扑朔迷离地讲述了一个乌托邦式缝纫合作社中的三角恋，读起来十分艰难。
+
+The Russian poet Afanasy Fet said that Mr. Chernyshevsky’s real crime was “premeditated affectation of the worst sort in terms of form” and that reading the book was an “almost unbearable” task. One of the authors of this essay can attest to that, having tried and failed to complete it several times while stationed as a journalist in Beijing.
+俄罗斯诗人阿法纳西·费特表示，车尔尼雪夫斯基真正的罪行是“形式上最糟糕的有预谋的矫揉造作”，读这本书是一件“几乎无法忍受”的事情。这篇文章的作者之一可以证明这一点，他在北京担任记者时曾多次尝试读完这本书，但都以失败告终。
+
+Rakhmetov renounces good food, wine and women. He reads the classics of philosophy, literature and science. He eschews a mattress and even spends a night on a bed of nails to test himself, leaving his body covered in blood. He is “completely impervious to personal emotion, possessing no personal heart” and focused purely on doing whatever it takes to achieve his aims.
+拉赫梅托夫舍弃了美食、美酒和美色。他阅读哲学、文学和科学经典。他不用床垫，甚至为了考验自己，在钉床上过了一夜，弄得浑身是血。他“完全漠视个人情感，没有私心”，只专注于不惜一切代价实现自己的目标。
+
+The book’s radical utilitarian ideology roused Lenin, who borrowed the title “What Is to Be Done?” for his own landmark 1902 essay in which he broke with pacifist social democrats in favor of forming a vanguard of aggressive professional revolutionaries. Rakhmetov’s “unwavering determination and ardent struggle encapsulate exactly the kind of spiritual power we need today. The bigger the storms of our times are, the more we must stand firm at the forefront with unbending determination and pioneering courage.”
+这本书激进的功用主义思想激起了列宁的共鸣，他借用《怎么办？》作为自己在1920年的一篇具有里程碑意义的文章的标题，在文中，他与和平主义的社会民主党人决裂，支持组建一支由积极进取的职业革命者组成的先锋队。拉赫梅托夫“坚定不移的决心和艰苦奋斗的精神，正是我们今天所需要的精神力量。我们时代的风暴越大，我们就越要以坚定不移的决心和开拓进取的勇气站在最前列”。
+
+But there is no mistaking who is in charge here. It is Mr. Xi who is assuming the mantle of Rakhmetov — the “extraordinary man,” the agent of history — and believes his iron will and visionary leadership will deliver the world from American turbulence.
+但是，实际谁说了算是无可置疑的。正在继承拉赫梅托夫的衣钵——“非凡的人”、历史的推动者——并相信他的钢铁意志和高瞻远瞩的领导力将把世界从美国的动荡中解救出来。
