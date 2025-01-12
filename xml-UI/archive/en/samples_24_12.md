@@ -195,3 +195,36 @@ The book’s radical utilitarian ideology roused Lenin, who borrowed the title �
 
 But there is no mistaking who is in charge here. It is Mr. Xi who is assuming the mantle of Rakhmetov — the “extraordinary man,” the agent of history — and believes his iron will and visionary leadership will deliver the world from American turbulence.
 但是，实际谁说了算是无可置疑的。正在继承拉赫梅托夫的衣钵——“非凡的人”、历史的推动者——并相信他的钢铁意志和高瞻远瞩的领导力将把世界从美国的动荡中解救出来。
+
+He went straight from high school in 1973 to the General Motors Institute, a company-sponsored college in Flint, Mich., where students worked while also taking classes. Mr. Murtaugh toiled in a factory that stamped car body parts.
+1973年，墨斐高中毕业后直接进入通用汽车学院，这是一所由该公司资助的学院，位于密歇根州弗林特，学生在那里边工作边学习。墨斐在一家冲压汽车车身部件的工厂里苦干多年。
+
+These days, she thinks a cup of Starbucks is a little too expensive and prefers to get her coffee from McDonald’s. But what she really loves is ChaGee, HeyTea and other Chinese chains that sell coconut milk lattes, boba milk teas with cheese cream and sugary jasmine tea frappés. 
+这些日子里，她觉得一杯星巴克咖啡有点太贵了，更爱去麦当劳喝咖啡。但她真正喜欢的是霸王茶姬、喜茶，以及其他中国连锁店，这些连锁店里有椰奶拿铁、芝士奶盖珍珠奶茶，以及用茉莉花茶制作的甜味冰沙。
+
+In early December, General Motors said it would take a more than $5 billion hit to its profits as it restructured its ailing China operations, which have been losing money as its car sales here have dropped sharply.
+今年12月初，通用汽车表示，因为在对近年来一直亏损的中国业务进行重组，公司四季度的利润将降低至少50亿美元。随着公司在中国的汽车销量大幅下降，通用汽车的中国业务一直在亏损
+
+Chinese consumers are very spoiled in some ways because it is a very competitive market and all the suppliers are trying to make consumers happy with new launches.With its spacious stores and couches, Starbucks is often still the place where professionals meet to talk deals, students go to study or tired shoppers find respite. 
+从某种意义来说，中国消费者被宠坏了，因为中国是一个竞争非常激烈的市场，所有的卖家都在试图推出新产品，取悦消费者，星巴克的店面往往更宽敞，里面有沙发，仍是专业人士见面谈生意、学生学习，或疲惫的购物者歇脚的地方。
+
+Lai’s journey — from an impoverished childhood in China’s southern Guangdong province during the Chinese civil war era to becoming one of Hong Kong’s richest men — is a genuinely gripping yarn.Food was so scarce that she intentionally burned rice at the forced labor site where she was a cook so that she could bring it home to feed her children. In the worst days, Lai recalls dining on grilled field mice. At age 6, he would forage for cigarette butts, remove the tobacco dregs and sell the re-rolled product for a meager profit. At 12, Lai decided to steal away to Hong Kong.
+人生旅程是一部扣人心弦的传奇，始于内战时期的中国南方省份广东省，他在那里度过了贫困的童年，后来他成为了香港最富有的人之一.她在一个劳改地给人做饭，由于当时食物极其匮乏，她故意把米饭烧糊，这样就能带回家，让孩子们有口饭吃。黎记得在最艰难的日子里，自己还吃过烤田鼠。六岁时，他会去捡烟头，把烟叶残渣搜集起来，然后重新卷成烟再卖，赚取微薄的利润。12岁时，黎决定偷渡到香港。
+
+Macau will wean itself off an economic reliance on gambling and play a role in boosting China’s own lagging consumer economy.At the heart of this new push is Hengqin, a Chinese island separated from Macau by a river. Macanese businesses have been asked to cough up money to build attractions like entertainment centers and resorts in Hengqin, as part of a broader Chinese project known as the Greater Bay Area, which is merging and blurring the boundaries between major southern Chinese cities as well as Hong Kong.
+澳门将摆脱对赌博经济的依赖，成为推动中国疲软的消费者经济的一部分。此次新计划的核心是横琴，一个与澳门仅一水之隔的中国岛屿。澳门企业被要求提供资金，在横琴建设如娱乐中心和度假村等景点，这是中国更广泛项目——大湾区计划的一部分，旨在融合和模糊包括香港在内的中国南部主要城市之间的界限。
+
+Mr. Huang has kicked off a last-minute lobbying effort to defang the rules, but it may be too late. Companies like Nvidia should anticipate a tightening of the screws.It triggered this tsunami of interest.
+黄仁勋已经发起最后一刻的游说行动，试图削弱这些规则，但可能为时已晚。像英伟达这样的公司应该早就预料到监管会收紧。这引发了一场兴趣海啸。
+
+In capitals across the world, there was a deepening conviction that A.I. should be treated as a utility. Its perceived importance made officials fear that they must spend money or risk falling behind rivals economically and militarily. And many wanted the added security of keeping data inside national borders, where they could guard sensitive information.
+世界各国首都越来越深刻地认识到，人工智能应被视为一种公用事业。对于其重要性的认知让各国官员担心，如果不投入资金，他们可能在经济和军事上会落后于对手。此外，许多人希望确保数据保留在国土之内，以便保护敏感信息。
+
+If semiconductor company revenue “is undermined by the fact that they can’t sell their chips into China because they’re being replaced by Chinese chips, that makes the entire CHIPS Act come unglued,” Mr. Turpin said.
+如果半导体公司的收入“因无法将芯片卖到中国而受到损害——因为它们正在被中国芯片取代，那么整个CHIPS法案就将付诸东流，”特平说。
+
+Their conclusions are not intellectually honest,They make a conclusion that is not backed up by what they found in their study. If you submitted this to a scientific journal worth its salt, that conclusion would be laughed at.
+他们的结论在学术上并不诚实，他们得出了一个与研究发现不一致的结论。如果将这项研究提交给有分量的科学期刊，这样的结论会被嘲笑。
+
+But the scientists who examined the data said that explanation was overly simplistic. As a drug passes through the body, they said, low levels of it can be picked up one day and missed the next, depending on how much water is in someone’s system and how the body processes the drug.
+然而，查验了数据的科学家们表示，这种解释过于简单化。他们指出，药物在体内代谢时，低浓度的药物可能在某一天被检测到，在第二天则可能遗漏，这取决于体内水分含量以及身体对药物的代谢方式。
