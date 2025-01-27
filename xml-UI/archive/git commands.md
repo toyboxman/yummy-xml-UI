@@ -179,45 +179,41 @@ git pull
 
 ### git push
 ```console
-# 等价于执行 git push <remote>, 此<remote>的值为当前branch对应的origin, 如果没有其他remote映射到当前branch
-# origin 指 git config配置的 remote.origin.url=git@github.com:apache/griffin.git
+# 等价于执行 git push <remote>, <remote>默认值为当前branch对应的remote branch
 git push
-# 找到本地分支master(refs/heads/master)，更新到远程repo，如果远程不存在master分支，则创建一个
+# 把本地master分支，更新到远程origin repo，如果远程不存在master分支，则创建一个
+# origin 指 git config配置的 remote.origin.url=git@github.com:apache/griffin.git
 git push origin master
-# 把本地当前最新分支(dev)push到remote Eugene repo的同名分支dev，不存在则创建
+# 把本地dev分支push到远程Eugene repo,如果远程不存在dev分支，则创建一个
+# Eugene 指 remote.Eugene.url=git@github.com:toyboxman/griffin.git
 git push Eugene dev
 
-# 一个简化命令把当前local branch更新到remote的同名branch
+# 等价于执行把本地当前分支更新到远程origin repo，如果远程不存在同名分支，则创建一个
 git push origin HEAD
+# 不论当前本地分支名是不是bugs，都会在远程origin仓库中创建bugs分支
+git push origin HEAD:bugs
+# 把当前本地分支master推送到远程origin仓库中创建一个bug-123分支
+git push origin master:bug-123
 
-# 更新当前分支到remote的master分支，不理会当前分支名是否是master
-git push origin HEAD:master
-# 把本地当前最新分支push到remote Eugene repo的bugs分支
-# remote Eugene repo 指的是 remote.Eugene.url=git@github.com:toyboxman/griffin.git
-git push Eugene HEAD:bugs
-
-# 通过copy当前master分支，在remote创建branch experimental
+# 等价于 git push origin master:experimental
 git push origin master:refs/heads/experimental
-# 把本地当前branch更新到 remote glance repo的分支(refs/heads/icehouse)
-git push glance HEAD:refs/heads/icehouse
+# 等价于 git push Eugene HEAD:icehouse
+git push Eugene HEAD:refs/heads/icehouse
+
+# 带gitreview 服务地址的推送
+git push ssh://Eugene@gitreview.example.com:29418/icehouse HEAD:refs/heads/ice-int
 
 # 在remote找到匹配名字experimental的branch，删除掉
 git push origin :experimental
+To github.com:toyboxman/griffin.git
+ - [deleted]           experimental
 
-# 将本地master(refs/heads/master)更新到remote repo(mothership)的satellite/master(refs/remotes/satellite/master)
-# 同时将本地dev(refs/heads/dev)更新到remote repo(mothership)的satellite/dev(refs/remotes/satellite/dev)
-git push mothership master:satellite/master dev:satellite/dev
-
-# Eugene目录中master分支不存在,推送失败
+# 本地不存在master的分支，推送成远程仓库中名为 'refactor/testcases' 分支失败 
 git push Eugene master:refactor/testcases   
 error: src refspec master does not match any.
 error: failed to push some refs to 'https://github.com/toyboxman/incubator-griffin.git'
-# 推送Eugene目录下m0分支到remote的refactor/testcases分支成功
-git push Eugene m0:refactor/testcases
-To https://github.com/toyboxman/incubator-griffin.git
- * [new branch]      m0 -> refactor/testcases
 
-# Eugene目录中pr-345分支与remote的headOption分支有差异,推送失败
+# 本地pr-345分支与Eugene仓库中headOption分支有差异,推送失败
 git push Eugene pr-345:headOption
 To https://github.com/toyboxman/incubator-griffin.git
  ! [rejected]        pr-345 -> headOption (non-fast-forward)
