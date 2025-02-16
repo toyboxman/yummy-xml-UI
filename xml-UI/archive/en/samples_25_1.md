@@ -120,3 +120,57 @@ The Monroe Doctrine, another 19th-century creation that saw the United States tr
 
 The international system the United States helped set up after World War II prioritized trade in hopes of deterring conquest — and it worked well enough to build paths to prosperity that made American unilateralism less potent.
 美国在“二战”后帮助建立的国际体系将贸易放在首位，希望以此阻止国家对外征服——这一体系运作良好，铺设了通往繁荣的道路，从而使美国单边主义的威力减弱。
+
+At the root of the difficult choices ahead for China and the United States lies a big difference: savings rates. Households in China are saving more, and spending little on imports, because they have lost much of their net worth after a housing market crash wiped out more wealth than the American housing market crash in 2008 and 2009. But Americans as a whole are saving very little, while effectively borrowing money through big trade deficits with the rest of the world.
+从根本上来看，中美面临的艰难选择源于一个巨大差距：储蓄率。中国家庭储蓄更多，而且几乎不花钱购买进口产品，因为房地产市场崩溃已让家庭净资产受到巨大损失，比美国房地产市场在2008年和2009年间崩溃造成的损失还要大。但美国人从整体来看很少存钱，他们其实是在通过与世界其他国家的巨额贸易逆差向外国借钱。
+
+The outpouring of goods from Chinese factories has drawn criticism from an ever-lengthening list of China’s trade partners. Industrialized and developing countries alike have erected tariffs, attempting to slow the tide. In many instances, China has retaliated in kind, bringing the world closer to a trade war that could further destabilize the global economy.
+来自中国工厂的商品大量涌入全球市场，已在越来越多的中国贸易伙伴那里引发批评。工业化国家和发展中国家都在加征关税，试图减慢中国商品涌入的速度。中国已在许多情况下采取了反制措施，让世界与一场可能会进一步破坏全球经济稳定的贸易战越来越近。
+
+China’s exports of everything from cars to solar panels have been an economic bonanza for the country. Exports have created millions of jobs not just for factory workers, whose inflation-adjusted wages have about doubled in the past decade but also for high-earning engineers, designers and research scientists.
+中国出口从汽车到太阳能电池板等各种商品，为本国带来巨大经济利益。出口不仅为工厂的工人创造了数百万个就业岗位，也为高收入的工程师、设计师，以及从事研究的科学家创造了就业机会。在通胀调整基础上，中国工人的工资在过去十年增长了近一倍。
+
+The central bank’s unexpected action is aimed at braking a recent shift by investors toward purchasing bonds while shunning riskier assets like stocks and real estate. That shift has driven China’s long-term interest rates to a record low.
+中国央行采取的意外行动旨在阻止近期的一种趋势，即投资者转向购买国债，而回避股票和房地产等风险较高资产。这一转变已使中国的长期利率降至历史最低水平。
+
+“We know the idea of America, our institution, our people, our values that uphold it, are constantly being tested,” he said. “Ongoing debates about power and the exercise of power. About whether we lead by the example of our power or the power of our example. Whether we show the courage to stand up to the abuse of power, or we yield to it.
+“我们知道，美国的理念、我们的制度、我们的人民、我们支撑它的价值观都在不断受到考验，”他说。“关于权力和行使权力；关于我们究竟是通过展示力量来领导，还是通过表率的力量来领导；面对权力滥用，我们是勇敢地站出来，还是屈服于它，这些争论一直在持续。”
+
+Its secret sauce is its proprietary algorithm, technology that recommends a constant stream of short videos targeted to keep people scrolling.Xiaohongshu means “little red book” in Mandarin. Americans new to the app said they were not put off by the reference to a book of Mao Zedong’s sayings. Many call the app “Red Note.”
+TikTok的秘诀在于其专有的算法，该技术可以针对性地推荐源源不断的短视频，让人们持续滑动屏幕观看。刚开始使用小红书的美国人说，他们并没有因为它与一本毛泽东语录同名而感到不快。许多人称这款应用为Red Note（红色笔记）。
+
+The ridge high above Los Angeles is filled with clues. There are shattered pieces of electrical equipment, and a grove of madrone blackened by fire. Police tape is strung around one section of the sandy soil, now mixed with ash.
+俯瞰洛杉矶的山脊布满了线索。这里散落着四分五裂的电气设备，还有一片被火熏黑的马德龙树林。警方在一片混有灰烬的沙质土壤上拉起了警戒线。
+
+Charred wooden utility poles litter the ground. One plot of scorched chaparral is from a previous fire that firefighters thought they had extinguished on New Year’s Day, nearly a week before the Palisades fire broke out.
+烧焦的木制电线杆散落在地面。其中一处烧焦的灌木丛来自之前的一场大火，消防员认为他们在新年那天扑灭了那场火，那是在帕利塞德大火发生的近一周前。
+
+The area is desolate today. The slopes of sand and rock are colorless and moon-like, as if the fire had incinerated every trace of chlorophyll. It’s a far cry from before the fire, when hiking trails in the area were framed by reedy green plants and drought-tolerant bushes.
+现在，这片区域一片荒芜。沙石坡看起来黯淡无光，就像月球一样，仿佛大火已经毁灭了所有的叶绿素。这与火灾前的景象截然不同，之前，这里的徒步小径被茂盛的绿色植物和耐旱灌木所环绕。
+
+Some may think Trump’s remarks on taking Greenland and the Panama Canal are just a joke from an attention-seeking leader with no filter. They are not a joke. They are a prescription for chaos. They have already done more damage than people realize. If Trump persists with them, the joke will be entirely on us and on the world order we established after World War II.
+一些人可能认为特朗普关于占领格陵兰岛和巴拿马运河的言论只是一个满嘴跑火车、喜欢出风头的领导人的玩笑。这可不是玩笑。这是制造混乱的处方。它们造成的损害已经超出了人们的想象。如果特朗普坚持这些言论，我们和我们在“二战”后建立的世界秩序将完全沦为笑柄。
+
+It felt like we’d landed in paradise: unlimited guacamole from a huge avocado tree in our backyard; flocks of green parrots squawking overhead; Caltech’s perfect lawns in Pasadena to lie on with my children, even in January.
+我们感觉就像来到了天堂：后院一棵巨大的牛油果树带来吃不完的鳄梨酱；成群的绿鹦鹉在头顶上唧唧喳喳地叫着；加州理工学院帕萨迪纳分校有完美的草坪，即使是在1月，我也可以和孩子们躺在上面。
+
+And in the best McKinley spirit, he reinvigorated the idea of an America that will “pursue our manifest destiny,” a rallying call of the 1890s. This time, though, he described that destiny as an American settlement on Mars — a declaration that brought a thumbs up from Elon Musk, the world’s richest man who founded SpaceX with that goal in mind, and who has barely left the president’s side since Election Day.
+他还以最符合麦金莱精神的方式重新激发“追寻我们的昭彰天命”这一美国理念，这个口号曾是1890年代的号召。不过这一次，他将这个天命描述为美国在火星上的定居——这样的宣言得到了埃隆·马斯克的赞许，马斯克是世界首富，他创建SpaceX时就怀揣着这一目标，自选举日以来，他几乎一直陪伴在总统身边。
+
+The economic scars of China’s real estate crash are evident at the country’s many street markets for construction materials. Proprietors of once-bustling shops that sell everything from lighting fixtures and doors to toilet bowls are aching for customers.
+在众多街头建材市场，中国房地产崩盘造成的经济伤痕清晰可见。那些经销从照明灯具、门窗到马桶的商铺曾经热闹非凡，如今店主们正苦苦寻找顾客。
+
+Not once in the speech did he exhort America’s citizens to sacrifice in the cause of freedom or to fight to expand democracy around the world, with echoes of inaugurations past.Mr. Trump’s goal was more straightforward and self-interested, if vague.The speech bore all the contradictions inherent in Mr. Trump’s vision of how to exercise American power and of how he wants to be perceived.
+在演讲中，他没有一次劝告美国公民为自由事业做出牺牲，或为在全世界扩大民主而奋斗，这些是过去的总统就职典礼演讲中常见的话题。特朗普的目标更加直截了当，也更加利己，尽管有些模糊不清。他希望如何施展美国力量，以及他希望如何被看待，这些愿景之中充满内在矛盾，也体现在他的演讲之中。
+
+Perhaps it is a fitting metaphor as Mr. Trump takes control in Washington again this week with royal flourishes and monarchical claims to religious legitimacy. His return to the White House has been as much a coronation as an inauguration, a reflection of his own view of power and the fear it has instilled in his adversaries.Fly the American flag at full-staff on Monday and on future Inauguration Days.
+也许这是一个恰当的比喻，因为本周，特朗普以皇家般的华丽气息以及对宗教合法性的君主式主张，再次掌控了华盛顿。他重返白宫的过程既像是就职典礼，又像是加冕仪式，反映了他如何看待权力以及这种权力给对手带来的恐惧。在本周一及未来的就职日，美国国旗不降半旗。
+
+Mr. Trump particularly delights in his pardon power, the most kingly element of a president’s authority, one that cannot be challenged or overturned.Not only because of Trump’s claim to God’s intervention, but also all the favor-seeking courtiers, Melania’s crown-like hat and the dynastic implications of showcasing his progeny.
+特朗普尤其喜欢使用他的赦免权，这是总统权力中最具君主性质的部分，无法被挑战或推翻。不仅因为特朗普声称得到了上帝的干预，还因为那些寻求宠爱的朝臣、梅拉尼娅戴着像王冠一样的帽子，以及展示他子嗣所暗示的王朝延续之意。
+
+But he is operating in a vastly different world from past expansionists’. In the decades since Bill Clinton said in 1993 that the “global economy is our new frontier,” this country has witnessed a constriction in its sense of what is possible. Traumatizing wars, a culled middle class, crippling personal debt, dystopian tech, serial climate catastrophes, Gilded Age levels of concentrated wealth, stalled life expectancy, with young people dying at alarmingly high rates — all this has combined to create political paralysis.
+然而，与过去的扩张主义者相比，他所处的世界截然不同。自1993年克林顿说“全球经济是我们的新疆域”以来，这个国家在数十年里体会到了自身可能性的局限。创伤性的战争、被削弱的中产阶级、严重的个人债务、反乌托邦式的科技、一系列气候灾难、堪比镀金时代的财富集中水平、停滞的预期寿命、年轻人惊人的高死亡率——所有这一切加在一起，造成了政治瘫痪。
+
+One Proud Boy told Reuters the pardons would help with recruitment and that members would feel “bulletproof.” On a pro-Trump website, Reuters counted more than two dozen people calling for the execution of judges, police officers or Democratic officials, saying that some of these people should be hanged, beaten to death or fed into wood chippers.
+一个“骄傲男孩”告诉路透社，此次赦免有助于招募，成员们会感到自己“刀枪不入”。据路透社统计，在一个支持特朗普的网站上，有二十多人呼吁处决法官、警察或民主党官员，称其中一些人应该被绞死、殴打致死或被扔进碎木机。
