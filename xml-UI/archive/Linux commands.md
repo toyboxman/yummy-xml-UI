@@ -1913,9 +1913,11 @@ zstd repo.tar -o repo.zst
 $ unzip -dlib lib.zip  
 # 解压 lib.zip 到 /usr/share/tmp 目录
 $ unzip lib.zip -d /usr/share/tmp  
+
 # -o 解压时候覆盖文件时不要提示 批处理解压时候避免手动介入
-# -qq 解压时候不输出文件列表 批处理时候可以加快处理速度
-$ unzip lib.zip -qq -od /usr/share/tmp  
+# -q 解压时候不输出文件列表 批处理时候可以加快处理速度
+$ unzip -q lib.zip -od /usr/share/tmp  
+
 # 解压lib目录下所有jar包文件中class文件，不提示覆盖选择，不输出处理文件列表 {}表示find传入参数
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o -qq {} "*.class" \;
 $ find /opt/tomcat/webapps/api/WEB-INF/lib -name *.jar -exec unzip -o {} "*.class" > /dev/null \;
