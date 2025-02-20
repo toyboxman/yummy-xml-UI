@@ -799,6 +799,17 @@ trace -E com.validators.ValidatorAspect|com.facade.FacadeImpl createOrReplace|va
 
 # 追踪 耗时超过500毫秒的 调用执行
 trace *FacadeInterceptorValidatorAspect validationAnnotatedMethod '#cost>500'
+
+# 解读有用栈信息
+        ## 基于性能考虑，trace只能到当前method的这一层，可以看到方法总耗时统计，对于源代码行数 #line
+`---[5407.290764ms] com.diagnostics.FindingsComputer:evaluateRules()
+        +---[0.00% 0.022258ms ] com.diagnostics.engine.rules.engine.RuleEngineResult:<init>() #243
+        +---[0.60% 32.311143ms ] com.diagnostics.RulesRetriever:getActiveRules() #247
+        +---[0.00% 0.052734ms ] org.apache.commons.collections.CollectionUtils:isNotEmpty() #248
+        +---[0.00% 0.018068ms ] com.diagnostics.RuleEvaluationTask:getClusterNode() #252
+        ## trace的方法中如果存在循环调用，统计数据会包括调用次数count，多次总耗时total，单次最大耗时max，单次最小耗时min
+        +---[98.59% min=1.410194ms,max=3353.388899ms,total=5330.962645ms,count=5] com.diagnostics.engine.rules.engine.RuleEngine:runStreamMode() #331
+        `---[0.01% 0.56029ms ] com.diagnostics.RuleEvaluationTask:updateTaskResult() #358
 ```
 
 ##### [tt](https://arthas.aliyun.com/doc/doc/tt.html)
