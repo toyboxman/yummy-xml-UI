@@ -2001,12 +2001,17 @@ $ jar tvf suite-api.war | grep -in AppVersion.class
 906: 14315 Wed Mar 26 13:24:12 CST 2025 WEB-INF/classes/com/example/server/AppVersion.class
 7551: 14315 Wed Mar 26 13:24:12 CST 2025 suite-api/WEB-INF/classes/com/example/server/AppVersion.class
 # 通过 -C 来指定打包的根目录，就可以忽略掉 suite-api 目录
-$ jar uvf ../publish/suite-api.war --C suite-api  WEB-INF/classes/com/example/server/AppVersion.class
+$ jar uvf ../publish/suite-api.war -C suite-api  WEB-INF/classes/com/example/server/AppVersion.class
 adding: WEB-INF/classes/com/example/server/AppVersion.class(in = 14315) (out= 6140)(deflated 57%)
+# 如果多个文件更新，每一个都需要通过 -C 来指定打包的根目录
+$ jar uvf ../publish/suite-api.war -C suite-api  WEB-INF/classes/com/example/server/AppVersion.class -C suite-lib  lib/app.jar
 # jar命令不支持直接删除文件，只能用zip来实现
 # 将 suite-api 目录整个删除掉
 $ zip -d suite-api.war "suite-api/*"
 deleting: suite-api/WEB-INF/classes/com/example/server/AppVersion.class
+
+# jar命令解压指定文件
+$ jar xvf suite-api.war WEB-INF/classes/com/example/server/AppVersion.class
 ```
 
 #### ln
