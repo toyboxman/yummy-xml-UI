@@ -1974,7 +1974,7 @@ $ zip -d auth-1.0.jar "com/example/test/**"
 $ zip -d auth-1.0.jar "com/example/test/Rpc*"
 
 # 把当前目录下org整个打包成apache.jar
-$ jar cvf apache.jar ./org/*
+$ jar cvf apache.jar ./org/
 
 # 查看打包的文件内容
 $ jar tvf apache.jar
@@ -1983,13 +1983,30 @@ $ jar tvf apache.jar
 # jar不支持-r参数
 $ jar uvf auth-1.0.jar ../src/test/resources/
 ...
+# 编辑前log4j2-test.xml大小为1249
 213  2019-11-11 11:00   antrun/build-main.xml
 0  2019-10-10 14:00   src/test/resources/
 1249  2018-03-05 17:08   src/test/resources/log4j2-test.xml
-# 编辑log4j2-test.xml再执行uvf操作, 能发现jar(zip)格式文件已更新
+# 编辑log4j2-test.xml 再执行uvf操作, 能发现jar(zip)文件大小已更新
 213  2019-11-11 11:00   antrun/build-main.xml
 0  2019-11-11 11:08   src/test/resources/
 1248  2019-11-11 11:08   src/test/resources/log4j2-test.xml
+
+# jar命令更新 war文件
+# 更新上级目录的publish目录下 suite-api.war
+$ jar uvf ../publish/suite-api.war suite-api/WEB-INF/classes/com/example/server/AppVersion.class
+adding: suite-api/WEB-INF/classes/com/example/server/AppVersion.class(in = 14315) (out= 6140)(deflated 57%)
+# list压缩文件列表，更新的文件目录不正确
+$ jar tvf suite-api.war | grep -in AppVersion.class
+906: 14315 Wed Mar 26 13:24:12 CST 2025 WEB-INF/classes/com/example/server/AppVersion.class
+7551: 14315 Wed Mar 26 13:24:12 CST 2025 suite-api/WEB-INF/classes/com/example/server/AppVersion.class
+# 通过 -C 来指定打包的根目录，就可以忽略掉 suite-api 目录
+$ jar uvf ../publish/suite-api.war --C suite-api  WEB-INF/classes/com/example/server/AppVersion.class
+adding: WEB-INF/classes/com/example/server/AppVersion.class(in = 14315) (out= 6140)(deflated 57%)
+# jar命令不支持直接删除文件，只能用zip来实现
+# 将 suite-api 目录整个删除掉
+$ zip -d suite-api.war "suite-api/*"
+deleting: suite-api/WEB-INF/classes/com/example/server/AppVersion.class
 ```
 
 #### ln
