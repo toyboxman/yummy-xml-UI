@@ -238,3 +238,42 @@ In the Soviet era, all were consistently “jammed” — drowned in noise broad
 
 At one of the first jazz concerts in Moscow after the Soviet Union collapsed, a buzz swept through the packed hall. “Willis Conover is here!” people said. While at college, I was an intern one summer on the Radio Liberty news desk, and the strict guiding rule was objectivity. The people behind the Iron Curtain who risked tuning in to a foreign broadcast, I was told, were allergic to propaganda, and would not take a big risk to get more of it.The silence is deafening.
 苏联解体后，莫斯科举办了首批爵士乐音乐会，在其中一场演出上，座无虚席的大厅里传来一阵骚动。人们纷纷说道：“威利斯·康诺弗来了！”上大学时，我曾有一个夏天在自由电台的新闻编辑室实习，当时客观性是严格的指导原则。有人告诉我，铁幕背后那些冒险收听外国广播的人对政治宣传内容极为反感，他们冒着巨大的风险可不是来获取更多宣传的。他们的沉默震耳欲聋。
+
+For months, Washington has been sending barbed statements and actions Europe’s way.He has simultaneously rolled out plans to slap hefty tariffs on Europe and argued that the European Union was created to “screw” America.
+近几个月来，华盛顿一直对欧洲使用尖锐的言论和行动。同时他还推出了对欧洲征收更高关税的计划，并认为欧盟是为“敲诈”美国而成立的。
+
+Can I just butt in and say: “Excuse me, Mr. Presidents, but you two need to get together, like, tomorrow. But it’s not to discuss the golden oldies — tariffs, trade and Taiwan. There is an earthshaking event coming — the birth of artificial general intelligence. There is no time to lose in thinking about how we adapt, and yet we can be so nearsighted when it comes to the signs and the warnings. 
+我能否冒昧插句话说：“不好意思，两位领导人，你们二位可得尽快会面，比如就明天。但会面的目的不是讨论那些老生常谈的问题——关税、贸易和台湾。有一件惊天动地的大事即将来临——通用人工智能的诞生。有关如何适应的思考刻不容缓，然而，当面对种种迹象和警告时，我们却往往如此短视。
+
+Ukrainian forces attacked a Russian bunker with four-wheeled robot drones — some mounted with machine guns or packed with explosives and backed by aerial drones from above — in a “coordinated unmanned” land and air assault “on a scale that hadn’t previously been done, marking a new chapter of warfare where humans are largely removed from the front line of the battlefield, at least in the opening stages.”
+乌克兰军队使用四轮机器人（有些装备了机枪，有些装满了炸药），在上方的无人机支援下，对一个俄军掩体发动了攻击。这是一场“协同无人”陆空联合攻击，“其规模前所未有，标志着战争进入了一个新篇章，在这个篇章中，人类在很大程度上远离了战场前线，至少在战争初期是这样。
+
+A.G.I. is the holy grail of A.I. — single systems that can master math, physics, biology, chemistry, material science, Shakespeare, poetry and literature as well as the smartest humans but that can also reason across all of them and see connections no human polymath ever could.
+通用人工智能是人工智能的终极目标——一种能够掌握数学、物理学、生物学、化学、材料科学、莎士比亚、诗歌和文学等等领域的单一系统，它的智慧能够与最聪明的人类媲美，并且能够跨越所有领域进行推理，看到人类通才从未能够看到的联系。
+
+we will have not just birthed a new computer tool; “we will have birthed a new species — the superintelligent machine.” “Our species is carbon-based. This new one is silicon-based,” Mundie explained. “Therefore, we need to immediately begin to chart a path to coexist with this new superintelligent species and ultimately coevolve with it.”
+我们不仅将创造一种新的计算工具；“我们将创造一个新物种——超智能机器。”“人类是碳基的，而这个新物种是硅基的，”蒙迪解释道。“因此，我们需要立即开始规划与这个超智能新物种共存的道路，并最终与它共同进化。”
+
+I was taken with how the Israeli historian Yuval Noah Harari, who addressed a packed audience of mostly Chinese people at the forum’s session on A.I., put it.We should build more trust between humans before we develop truly superintelligent A.I. agents,But we are now doing exactly the opposite. All over the world, trust between humans is collapsing. 
+我被以色列历史学家尤瓦尔·诺亚·赫拉利的说法所吸引，在此次论坛的人工智能研讨会上，他向座无虚席的听众（其中大部分是中国人）发表了演讲。在开发出真正的超级智能人工智能代理之前，我们应该在人与人之间建立更多的信任，但我们现在的做法恰恰相反。在世界各地，人与人之间的信任正在崩溃。
+
+Back then, though, aides often tried to play down or contain the damage of egregious falsehoods.Together, they are effectively institutionalizing disinformation.Many remarks like that could be construed as exaggerations for rhetorical effect. Mr. Trump himself has described prevarication as a means to an end. 
+不过，在那时，助手们经常试图淡化或遏制严重虚假言论造成的损害。他们共同将虚假信息制度化。许多类似的言论可以被理解为夸张或是为了修辞效果。特朗普自己也把捏造事实描述为达到目的的一种手段。
+
+Citing what he called their shared “Oriental wisdom,” he quoted a proverb, seemingly alluding to the United States as an unreliable, distant ally: “Close neighbors are better than relatives far away.”
+他引用谚语“远亲不如近邻”，称之为三国共有的“东方智慧”，似乎也在暗指美国是一个不可靠的远方盟友。
+
+Hegseth, a former National Guard infantryman and Fox News weekend host, started his job at the Pentagon determined to out-Trump President Donald Trump, Defense Department officials and aides said. Hegseth’s stumbles started soon after he was sworn in to lead the Pentagon on Jan. 25.
+海格塞斯曾是国民警卫队的一名步兵，担任过福克斯新闻周末节目的主持人，国防部的官员和助手们说，他一到五角大楼上任就决心要比特朗普总统还特朗普。海格塞斯今年1月25日宣誓就任五角大楼负责人后不久就开始出现失误。
+
+My father was killed in action flying night-trail interdiction over the Ho Chi Minh Trail” after a North Vietnamese strike, And now, you have Hegseth. He has released information that could have directly led to the death of an American fighter pilot.Hegseth’s stumbles started soon after he was sworn in to lead the Pentagon on Jan. 25.
+我父亲在胡志明小道上空执行夜间拦截飞行任务时阵亡，现在来了个海格塞斯。他泄露的信息有可能直接导致一名美国战斗机飞行员的死亡。
+
+Along with the strength of the dollar, prices of hotels have also been going up, and steep tips are a problem for many visitors.The British market absolutely hates the 20 percent tipping culture and how America always has its hand held out for the next gratuity,They would rather pay the money up front.
+随着美元走强，酒店价格也不断上涨，而且昂贵的小费成为了许多游客的困扰。英国市场非常厌恶20%的小费文化，厌恶美国总是一遍又一遍伸出手来要求打赏，他们宁愿一开始就支付所有费用。
+
+This is an excellent opportunity to highlight the other boroughs and parts of New York City outside of Manhattan that are just as vibrant and have amazing, award-winning culinary, arts and cultural experiences
+这是一个绝佳的机会，可以凸显纽约市曼哈顿以外的其他地区，它们同样充满活力，拥有令人惊叹、屡获殊荣的美食、艺术和文化体验
+
+The Trump administration has unlocked the vault doors, fired half of the security guards and asked the rest to roll pennies. Walk right in. Take what you want. This is the golden age.
+特朗普政府打开了金库大门，解雇了一半的保安，让剩下的人去数硬币。直接走进去。想要什么就拿什么。这是个黄金时代。
