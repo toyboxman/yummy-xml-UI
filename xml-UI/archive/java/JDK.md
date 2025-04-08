@@ -508,6 +508,28 @@ ts=2024-09-03 05:23:58; [cost=0.086907ms] result=@ArrayList[
 # 选择入参数目为6个的method细节,过滤同名overload的其他方法 只显示第一和第二参数
 [arthas@17977]$ watch example.messaging.RpcServices getServiceEndpoint "{params[0],params[1]}" "params.length==6" -x 2
 
+# 提取查看参数，返回值的集合字段
+# params.{#this.[field]} ognl表达式 产生一个集合对象
+# '{obj,obj..}'把多个对象放入一个ArrayList统一返回
+[arthas@17977]$ watch example.controller.PlatformServer getMetricValues '{params.{#this.metricKeys}, params.{#this.resourceUuids}, returnObj.{#this.metricValues}}' -x3
+ts=2025-03-31 11:07:19.720; [cost=0.364829ms] result=@ArrayList[
+    @ArrayList[
+        @TreeSet[
+            @MetricKey[System Capacity:Compute Managers|UsageCount],
+        ],
+    ],
+    @ArrayList[
+        @SingletonSet[
+            @UUID[f709e429-de32-453f-9127-74c6fd27a765],
+        ],
+    ],
+    @ArrayList[
+        @TreeSet[
+            @MetricValues[100],
+        ],
+    ],
+]
+
 # 多个过滤条件需要通过逻辑操作符 && || 来关联
 # 下面过滤条件是 入参个数6个并且其中第一个参数(为集合类型)的size要大于2
 [arthas@17977]$ watch *PolicyEngineHandler invokeProviders "{params[0],params[1]}" "params.length==6 && params[0].size()>2" -x 2
@@ -1148,6 +1170,7 @@ Affect(row-cnt:8) cost in 35 ms.
 ```    
 
 ##### advanced
+[ognl表达式讨论](https://github.com/alibaba/arthas/issues/2849)   
 watch时候发现某些function未如预期，希望执行一些不同逻辑来判断一下情况。这就要求能够插入一些额外的代码逻辑,arthas引入了ognl的能力，因此可以利用这种功能来实现   
 比如，监控com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources执行有问题，希望调用一下其他逻辑流程来验证一下。我们可以有三种方式可选，第一种是去环境上替换一下jar文件，重启一下JVM生效。第二种是通过前面提到的retransform，动态替换JVM中class定义。第三种就是手动用ognl动态加入逻辑
 ```console
