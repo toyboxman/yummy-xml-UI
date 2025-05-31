@@ -150,3 +150,102 @@ A core element of freedom is the ability of each person to live up to his or her
 
 This episode with the lecture series has been a lesson in civics and where America is today, and that’s perhaps why it’s received such attention in the Danish media. The Danes have had a front row view of the erosion of America’s democracy.
 丹麦系列讲座的这个插曲犹如一堂公民课，展现了美国当下的真实境况，这也许是这件事在丹麦媒体受到如此关注的原因。丹麦人已清楚地看到美国的民主制度在受到侵蚀。
+
+The diagnosis came after Mr. Biden reported urinary symptoms, which led doctors to find a “small nodule” on his prostate. Mr. Biden’s cancer is “characterized by a Gleason score of 9” with “metastasis to the bone,” the statement said.The Gleason score is used to describe how prostate cancers look under a microscope; 9 and 10 are the most aggressive. The cancer is Stage 4, which means it has spread.
+声明称，在拜登报告出现泌尿症状后，医生在其前列腺发现一个“小结节”。拜登的癌症“格里森评分为9分”且“已转移至骨骼” 格里森评分用于描述前列腺癌在显微镜下的特征，9分和10分代表恶性程度最高。拜登的癌症为4期，意味着已扩散。
+
+While this represents a more aggressive form of the disease, the cancer appears to be hormone-sensitive which allows for effective management.The first line of attack is to cut off the testosterone that feeds prostate cancer. Dr. Moul said that when he started out as a urologist in the 1980s, this was done by removing a man’s testicles. 
+尽管这是一种侵袭性较强的癌症，但它对激素敏感，可以有效控制。一线治疗方案是切断滋养前列腺癌的睾酮。莫尔称，20世纪80年代他刚成为泌尿科医生时，还需通过手术切除睾丸实现这一点
+
+Still, many top Democrats have been forced to reckon with their staunch support of Mr. Biden’s re-election campaign before a disastrous debate last June, in which he appeared disoriented and listless. Adding fuel to the fire was the release this weekend of the audio from Mr. Biden’s 2023 interview with Robert K. Hur, the special counsel who investigated his handling of classified documents. 
+然而，许多民主党高层曾经坚定支持拜登连任，直至去年6月那场灾难性的辩论令他们不得不重新考虑，当时他在辩论中显得精神恍惚、无精打采。雪上加霜的是，拜登在2023年接受特别检察官罗伯特·赫尔问讯的音频本周末被曝光。
+
+The Kremlin doubled down on its insistence for negotiations before any cease-fire, hours before the call on Monday, tempering expectations of a breakthrough.There’s meticulous and perhaps, in some areas, prolonged work ahead
+在周一的电话会议召开前几个小时，克里姆林宫再次重申在谈判前不会停火，从而降低了取得突破性进展的可能性。未来还有细致的工作要做，在某些领域可能是长期的
+
+they ravenously consumed American culture, and saw the United States as a nation of cohesive, dynamic people. But over the last 10 years, their sense was that America was degrading, its democracy growing more brittle; they saw our gun violence, political clashes and treatment of immigrants as signs of a country whose flaws were becoming mortal wounds.
+他们都曾是美国文化如饥似渴的消费者，认为美国是一个有凝聚力、充满活力的国家。但过去10年来，他们的感觉是美国正在衰落，美国的民主制度正在变得越来越脆弱；他们将我们的枪支暴力、政治冲突，以及对待移民的做法视为这个国家的缺点正在变成致命伤的迹象。
+
+Yet seeing the wrinkles and scars of a country they had admired also humanized it. Anti-Americanism, one told me, was not a default perspective among his peers, and most of his younger colleagues drew clear distinctions between the American people and the American government.
+不过，看到这些皱纹和伤疤，也让他们曾经钦佩的国家显得更有人情味。其中一人告诉我，反美主义在他的同龄人中并非默认观点，他的大多数年轻同事将美国人民和美国政府明确区分开来
+
+Instead, he said, the most likely scenario is that a doctor did an exam, noticed a nodule on Mr. Biden’s prostate and did a blood test, the prostate-specific antigen test. The PSA test looks for a protein released by cancer cells, and can be followed up by an M.R.I. The blood test and the M.R.I. would have pointed to the cancer.
+他表示，更可能的情况是，医生在检查时发现拜登的前列腺上有一个结节，于是进行了血液检测——前列腺特异性抗原测试。该测试是用来检测由癌细胞释放的蛋白质，接下来还可以进行核磁共振检查。血液检测和核磁共振检查最终发现了癌症
+
+That century may already have dawned, and when historians look back they may very well pinpoint the early months of President Trump’s second term as the watershed moment when China pulled away and left the United States behind.Mr. Trump is taking a wrecking ball to the pillars of American power and innovation. He wants to roll back programs for technologies like clean energy and semiconductor manufacturing and is wiping out American soft power in large swaths of the globe.
+那个世纪可能已经到来，而当历史学家回顾时，他们很可能会指出，特朗普总统第二任期的前几个月是中国拉开距离，把美国甩在后面的分水岭。特朗普正在大肆破坏美国力量和创新的支柱。他想缩减清洁能源和半导体制造等技术项目，并在全球大片地区消灭美国的软实力。
+
+Videos shared online showed tiles cascading off the roof of the Drum Tower in Fengyang County on Monday as dozens of people were gathered in an open plaza below. A large cloud of dust swelled around the building as the onlookers scattered.
+网上流传的视频显示，周一，数十人聚集在凤阳县鼓楼下面的露天广场上时，楼顶的瓦片如瀑布般落下。围观的人群四散奔逃，建筑周围扬起大片灰尘。
+
+Ten years ago, the company that handled the tower project was renovating an ancestral hall in Anhui when a fire broke out that destroyed part of the building, according to state media reports. But they determined that the roof tiles, in general, were secure
+据中国官方媒体报道，10年前，负责此次修缮的公司在安徽翻修一座祠堂时，曾因失火损毁部分建筑。但官员们认为，屋顶瓦片总体上是安全的。
+
+The Pakistani air force’s experience suggested that Taiwanese planes would have “little chance of survival” against Chinese ones.Whether our fighter jets would even have the opportunity to take off is a question mark.“It’s like an alarm clock, reminding everyone not to be careless,” he said. “Taiwan has no capital to be careless.”
+巴基斯坦空军的表现说明，台军战机在中国战机面前几乎“很难有生存的机会”。我们空军来讲，战机有没有升空的机会都打上一个问号.“（像）一个闹钟一样，提醒大家不要大意，”他说。“台湾更没有大意的本钱。”
+
+“We are headed toward full financial decoupling with China,” said Stephen Roach, an economist and a former chairman of Morgan Stanley Asia based in Hong Kong. “Congress is driving the process of disengagement,” he said. The shares of Chinese companies that are traded in the United States could be the next thing to come under fire, he added.
+“我们正走向与中国的彻底金融脱钩，”经济学家斯蒂芬·罗奇说，他曾在香港担任摩根士丹利亚洲区主管。“国会正在推动脱离的进程，”他说。他还说，在美国上市的中国公司的股票可能是下一个打击目标。
+
+The CATL Hong Kong stock sale marks a dramatic reversal from a decade ago when Alibaba, the Chinese e-commerce giant, elicited cheers from traders as it went public on the New York Stock Exchange in 2014. The company raised $21.8 billion, delivering a big payday for Wall Street banks and minting mom-and-pop investors.
+与十年前相比，宁德时代在香港发行股票标志着一种剧烈转变。中国电商巨头阿里巴巴2014年在纽约证券交易所上市时曾博得了交易员们的热烈欢迎。阿里巴巴在纽约上市筹集了218亿美元，为华尔街的银行带来了巨额收益，为一些散户投资者创造了财富。
+
+Most large American institutions will still be able to trade in CATL shares if they invest through offshore accounts.But that would still leave a hole.In response to the Pentagon’s designation of the company as having both military and commercial technology, CATL said that it had “never engaged in any military-related businesses or activities” and had “proactively engaged with the Department of Defense to address the false designation.”
+大多数美国的大型投资机构仍可通过离岸账户交易宁德时代的股票。但这仍会造成市场缺口。针对五角大楼认定该公司同时拥有军事和商业技术，宁德时代称自己“从未从事任何与军事相关的业务或活动”，并“已主动与美国国防部交涉，以澄清这一错误的定性”。
+
+“Without its international students and without its ability to bring in the best people from around the world, Harvard is not going to be Harvard anymore,” said Mr. Gerden, who graduates next week.“The Trump administration is using us as poker chips right now,” he added. “It is extremely dangerous.”
+“没有了国际学生，失去了从全球吸引最优秀人才的能力，哈佛将不再是哈佛，”将于下周毕业的格登说道。“特朗普政府正在把我们当成牌局里的筹码，”他补充道，“这种做法极其危险。”
+
+Even if the Trump administration is forced to return research funding to Harvard, the university is contending with additional government-imposed burdens, like a recently opened investigation by the Justice Department into the school’s admission policies that includes a cumbersome records request.
+即便特朗普政府最终被迫恢复哈佛的研究经费，这所名校仍面临更多政府强加的负担，譬如司法部最近针对其招生政策启动的调查，其中包含繁冗的档案调阅要求。
+
+The detective’s statement — “There is no good way to say this” — struck Li, an acclaimed novelist, as both a cliché and undeniably true. No words could capture the devastation she felt, losing both of her sons. Shattering, wrenching, aching: Words that came close felt meaningless. But Li knew that words were the only way to anchor her thoughts to reality.
+警官的这句话——“这件事不知该如何开口”——对李翊云这位广受赞誉的小说家来说，既是陈词滥调，又是无可否认的事实。失去两个儿子给她带来的悲痛无法用言语表达。震惊、痛苦、疼痛：任何接近的词语都感觉毫无意义。但李翊云知道，只有文字才能将她的思想与现实连接起来。
+
+The closest she can come to relaying her loss is to say she lives in an abyss, a murky place where no light can penetrate.All the words that have come to me: Many of them fall short; some are kept because they are needed to hold a place for James,Words may fall short, but they cast long shadows that sometimes can reach the unspeakable.
+关于她所失去的，她能说出的最接近的语言是：她生活在一个深渊，一个黑暗的地方，没有光亮可以穿透。我想到的所有词语：其中许多不尽人意；有些被保留了下来，因为需要用这些词语为詹姆斯保留一个位置，言语或许是乏力的，但它们投下的长长阴影，有时却能抵达无法言说的地方。
+
+She had just planted some Japanese anemones that wouldn’t bloom until the fall, and the yard teemed with vibrant daffodils, hyacinths and tulips. With a hint of pride, Li said she had planted 1,600 bulbs and was pleased that around half of them had sprouted. She fretted about the fate of hatchlings in a wren’s nest nestled low in a rose bush.
+她刚种下了一些秋天才开花的日本海葵，院子里到处都是生机勃勃的水仙花、风信子和郁金香。带着一丝自豪，李翊云说她已经种下了1600个球茎，令人欣慰的是其中大约一半已经发芽。她为低矮的玫瑰丛中鹪鹩窝里的雏鸟的命运担忧。
+
+Li, who was born in Beijing in 1972, has a round, youthful face and speaks softly and deliberately. Though she comes across as serious and cerebral at first, she frequently broke into smiles and laughter. She joked about what a bad swimmer and mediocre piano player she is, and gently mocked people she calls “silver liners,” well meaning acquaintances and strangers who have tried to assure her there’s life beyond grief.
+1972年出生于北京的李翊云有着一张圆圆的、显年轻的脸，说话温柔从容。虽然一上来会给人一种严肃理智的印象，但她经常会突然露出笑容，发出笑声。她开玩笑说自己游泳技术很差，钢琴也很弹得平庸，还温和地嘲笑那些她所谓的“银边人”——这些好心的熟人和陌生人试图向她保证，悲伤过后人生还会另有一片天地。
+
+But after James died, Li found it impossible to conjure him at first. Unlike Vincent, who was artistic, expressive and outgoing, James was introverted, governed by logic rather than feelings.There were no similar warning signs from James, who was also in therapy and came across as stoic and resilient, and didn’t exhibit his brother’s emotional extremes or crippling perfectionism.
+但詹姆斯去世后，李翊云起初发现自己无法让他在文字中浮现。与文森特不同，詹姆斯性格内向，支配他的是逻辑，不是情感。詹姆斯没有类似令人警惕的表现，他也曾接受心理治疗，给人以能默默承受、适应能力强的印象，没有表现出哥哥那样的极端情绪，或令他自己崩溃的完美主义。
+
+James loved philosophy, linguistics and science. He sometimes stunned his family as a young child, when he would offhandedly explain mysterious quantum particles or the behavior of obscure deep sea invertebrates at the dinner table. He excelled at languages — he studied Spanish, Italian and Japanese, and taught himself Welsh, German, Romanian and Russian — but often kept his thoughts to himself. Sometimes Li wonders if she failed to notice a downward spiral because James was so self-contained.
+詹姆斯热爱哲学、语言学和科学。小时候，他有时会在餐桌上漫不经心地解释神秘的量子粒子、或鲜为人知的深海无脊椎动物的行为，让家人大吃一惊。虽然他的语言能力出类拔萃——在学校学了西班牙语、意大利语和日语，并自学了威尔士语、德语、罗马尼亚语和俄语，但他总是把想法藏在心里。有时候李翊云会想，她没注意到詹姆斯陷入不幸的漩涡，是否就因为他如此地自持。
+
+The inland city of Chengdu in southwestern China is often ridiculed for its slow-paced and leisurely lifestyle. It’s portrayed as a haven for slackers, lacking the unrelenting, hardworking culture found in wealthy coastal trade centers like Shanghai, Guangzhou and Shenzhen.
+中国西南部的内陆城市成都常因其慢节奏和悠闲的生活方式被调侃。这座城市被描绘成懒人的避风港，缺乏上海、广州和深圳等富裕沿海贸易中心那种不断进取、勤奋工作的文化氛围。
+
+The choice appeared to irritate Mr. Trump. As he hopscotched from Saudi Arabia to the United Arab Emirates, Mr. Trump took a number of shots at Mr. Cook.During his speech in Riyadh, Mr. Trump paused to praise Jensen Huang, the chief executive of Nvidia, for traveling to the Middle East along with the White House delegation. Then he knocked Mr. Cook.Has tech’s leading Trump whisperer lost his voice?
+这一决定似乎惹恼了特朗普。在从沙特阿拉伯辗转抵达阿拉伯联合酋长国的途中，特朗普对库克进行了多次攻击。在利雅得发表演讲时，特朗普停下来称赞了随行的英伟达首席执行官黄仁勋。然后他敲打库克。这位科技界最能在特朗普耳边窃窃私语的人失声了吗？
+
+China’s giant logistics machine was humming inside rows of metal warehouses near Ho Chi Minh City in southern Vietnam this month. At another industrial park, owned by the supply chain arm of Alibaba, the Chinese e-commerce giant, trucks drove in and out at a steady clip.
+本月，越南南部胡志明市附近，中国庞大的物流机器在一排排金属仓库里轰鸣运转。在另一个由中国电子商务巨头阿里巴巴旗下供应链部门拥有的工业园区，进进出出的卡车川流不息。
+
+the lack of uproar over Mr. Trump’s ethical norm-busting has made him wonder whether longstanding assumptions about public desire for honest government were wrong all along. Outrage hasn’t died, It was always just a figment of elite imagination.
+特朗普违反道德规范的行为没有引起人们的强烈不满，这让他怀疑，长期以来关于公众希望有一个诚信政府的假设是否一直都是错误的。愤怒并不是消失了，其实是它一直都只是精英们凭空想象出来的。
+
+Trump excels at storytelling, and Democrats could learn from his talent. He has a knack for devising withering nicknames for rivals, he can be funny, and he conjures heartbreaking stories (sometimes out of thin air) of brutal crimes committed by immigrants. Democrats need their own anecdotes, and they need to remember that even when the stakes are deadly serious, humor is sometimes the most effective tool.
+特朗普擅长讲故事，民主党人可以从他的这种能力中学习。他善于为对手起刻薄的绰号，有时很能逗乐，还能讲述（有时是凭空捏造）令人心碎的故事，讲述移民犯下的残暴罪行。民主党人也需要给出自己的轶事证据，还要记住，尽管在危急关头，幽默有时仍然是最有效的工具
+
+Worse, there is a tendency in liberal circles to denounce anyone sympathetic to Trump as a racist, bigot or fascist. It’s always distasteful when educated elites employ invidious stereotypes to dismiss millions of working-class people — plus it’s difficult to win votes from people you’re castigating.
+更糟糕的是，自由派圈子里有一种倾向，即把任何对特朗普有所认同的人都斥为种族主义者、偏执狂或法西斯分子。受过教育的精英们用恶毒的刻板印象来贬低千百万工人阶级，无论如何都是令人生厌的——此外，你很难从被你谴责的人那里赢得选票。
+
+One story, “My Country Doesn’t Dream,” initially seems an indictment of China’s at-any-cost drive for development, which raised living standards but fueled corruption and other social problems. The protagonist, Xiao Ji, learns from an American spy that the Chinese government has devised a technology to make people work in their sleep.
+短篇《我的祖国不做梦》初看像是对中国不惜一切代价推动发展模式的控诉——这种发展虽提升了生活水平，却助长了腐败等社会问题。主人公小纪从一名美国间谍口中得知，中国政府研发了让人们在睡梦中工作的技术。
+
+But even as Xiao Ji reels, he is put off by the American’s sense of superiority: “He felt somewhat disgusted with this foreigner who was so set on revealing the truth to him. He suspected the man of harboring an ulterior motive.”
+在感到震惊的同时，小纪又被美国人的优越感激怒：“不知怎么的，他很有些讨厌这个迫不及待向他抖露真相的外国人。他怀疑这家伙怀有不可告人的目的。”
+
+On Weibo, a social media platform where he has more than 1 million followers, Mr. Han has spent the last few years sharing, in unsparing detail, the onset of dementia and other ailments. Alongside photos of books he reads or meals he eats, he describes forgetting who he was riding on the subway to meet, or losing control of his bladder.
+在拥有超百万粉丝的微博上，过去几年他毫不避讳地分享失智症及其他疾病的发作细节。除了晒出阅读的书籍或餐食照片，他还描述在地铁上忘记要去见谁，或是大小便失禁的经历。
+
+The first is “Touch and Go,” a method employed by the U.S. and Japanese asteroid missions: The spacecraft briefly makes contact with the object, kicks up the surface (using compressed gas, or a fired projectile) and captures jettisoned rocks before the spacecraft flees the scene.The second method, “Anchor and Attach,” has never been tested. Using a series of drills, Tianwen-2 will try to adhere to the asteroid before retrieving both shallow and deeper samples.
+第一种是“触地即走”，这是美国和日本小行星任务即采用该方法：探测器短暂接触天体表面，通过压缩气体或发射弹丸扬起表面物质，捕获飞溅的石块，然后撤离。第二种方法，即“锚定附着”，这种方法从未进行过实地测试。天问二号将使用一系列钻头固定在小行星上，然后采集浅层和深层样本。
+
+Last week, Ford Motor temporarily closed a factory in Chicago that makes Ford Explorer sport utility vehicles after one of its suppliers ran out of the magnets. In most new cars, the magnets are used in dozens of electric motors that operate brake and steering systems, fuel injectors and even power seats.
+上周，由于一家供应商的稀土磁铁库存耗尽，福特汽车临时关闭了位于芝加哥的一家生产探险者SUV的工厂。在多数新车中，磁铁会用于数十个电机，驱动刹车系统、转向装置、燃油喷射器，甚至电动座椅。
