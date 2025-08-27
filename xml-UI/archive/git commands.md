@@ -787,7 +787,10 @@ git grep -inE "public static .*sync.*\(" src/
 ### git gc
 ```console
 # 长期运行后 .git目录会占用大量空间,可以通过gc来回收空间
-git gc --aggressive --prune
+git gc --aggressive --prune=now
+
+# 拉取最新远程，并清除远程已删除分支引用
+git fetch --prune
 ```
 
 ### gitk 
