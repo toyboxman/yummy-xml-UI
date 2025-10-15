@@ -1172,7 +1172,8 @@ Affect(row-cnt:8) cost in 35 ms.
 ##### advanced
 [ognl表达式讨论](https://github.com/alibaba/arthas/issues/2849)   
 watch时候发现某些function未如预期，希望执行一些不同逻辑来判断一下情况。这就要求能够插入一些额外的代码逻辑,arthas引入了ognl的能力，因此可以利用这种功能来实现   
-比如，监控com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources执行有问题，希望调用一下其他逻辑流程来验证一下。我们可以有三种方式可选，第一种是去环境上替换一下jar文件，重启一下JVM生效。第二种是通过前面提到的retransform，动态替换JVM中class定义。第三种就是手动用ognl动态加入逻辑
+比如，监控com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources执行有问题，希望调用一下其他逻辑流程来验证一下。我们可以有三种方式可选，第一种是去环境上替换一下jar文件，重启一下JVM生效。第二种是通过前面提到的retransform，动态替换JVM中class定义。第三种就是手动用ognl动态加入逻辑    
+-- 例1 -- 通过static方法调用查询
 ```console
 # com.example.diagnostics.server.HealthInterfaceImpl queryDomainResources 方法在调用时候使用了search逻辑默认参数
 # 在watch时候，希望手动调用一下其他参数来返回结果
@@ -1258,4 +1259,277 @@ ts=2024-12-06 03:08:10.193; [cost=3.559111ms] result=@ArrayList[
 ]
 
 以上这些步骤正确执行下来，就可以实现watch的同时可以执行不同的逻辑，以此来对一些功能进行分析和判断。
+```
+-- 例2 -- 通过Enum对象构造来查询
+```console
+# 发现代码执行查询接口无返回，通过watch的观察点来运行额外的验证逻辑
+
+# 1.在观察点执行相同的调用逻辑
+# 构造查询参数ResourceSearchParam, 然后用platformInterface.getResourcesgetResources方法查询
+# 观察的NsxInstanceStatus对象本身有platformInterface， 直接通过 target.platformInterface获取引用
+watch vrops.diagnostics.server.nsx.instance.NsxInstanceStatus executeQuery '#resParam = new vcops.platform.api.model.common.param.ResourceSearchParam(),#resKey = new com.integrien.alive.common.adapter3.ResourceKey(),#resKey.setResourceName("esxi-1"),#resKey.setAdapterKind("VMWARE"),#resKey.setResourceKind("HostSystem"),#key = new vcops.platform.api.model.common.ResourceKeyUuid(#resKey),#resParam.addResourceKey(#key),#resources=target.platformInterface.getResources(#resParam),#resources'
+# 结果返回空对象，因此说明查询逻辑不对
+null
+
+# 2.换一下查询逻辑 
+watch vrops.diagnostics.server.nsx.instance.NsxInstanceStatus executeQuery '#resParam = new vcops.platform.api.model.common.param.ResourceSearchParam(),#resParam.addAdapterKind("VMWARE"),#resParam.addResourceKind("HostSystem"),#sKey = new vcops.platform.api.model.common.param.ResourceSearchParam.SearchKey("esxi-1",vcops.platform.api.model.common.param.ResourceSearchParam.ResourceField.RESOURCE_NAME,vcops.platform.api.model.common.param.conditions.StringValueCondition.StringConditionOperator.CONTAINS),#resParam.setSearchKey(#sKey),#resources = target.platformInterface.getResources(#resParam),#resources'
+# 提示错误，Enum的参数直接引用不能识别
+watch failed
+# 构造SearchKey("esxi-1",vcops.platform.api.model.common.param.ResourceSearchParam.ResourceField.RESOURCE_NAME)不正确
+# 内部类的引用的方式不正确
+# 
+# 2.1 尝试换一下Enum参数构造形式
+# 内部类引用 ResourceSearchParam.ResourceField -> ResourceSearchParam$ResourceField
+# Enum对象引用 ResourceSearchParam.ResourceField.RESOURCE_NAME -> @ResourceSearchParam$ResourceField@valueOf("RESOURCE_NAME")
+# 调用成功
+watch vrops.diagnostics.server.nsx.instance.NsxInstanceStatus executeQuery '#field=@vcops.platform.api.model.common.param.ResourceSearchParam$ResourceField@valueOf("RESOURCE_NAME"),#field'
+method=vrops.diagnostics.server.nsx.instance.NsxInstanceStatus.executeQuery location=AtExit
+ts=2025-10-14 06:50:44.173; [cost=22.501135ms] result=@ResourceField[RESOURCE_NAME]
+#
+# 2.2 构造一个SearchKey的条件
+watch vrops.diagnostics.server.nsx.instance.NsxInstanceStatus executeQuery '#field=@vcops.platform.api.model.common.param.ResourceSearchParam$ResourceField@valueOf("RESOURCE_NAME"),#sKey = new vcops.platform.api.model.common.param.ResourceSearchParam$SearchKey("esxi-1",#field),#sKey'
+method=vrops.diagnostics.server.nsx.instance.NsxInstanceStatus.executeQuery location=AtExit
+ts=2025-10-14 06:51:08.050; [cost=25.012109ms] result=@SearchKey[
+    serialVersionUID=@Long[-4522896406308637273],
+    searchString=@String[esxi-1],
+    searchFor=@ResourceField[RESOURCE_NAME],
+    condition=@StringValueCondition[value containsIgnoreCase(esxi-1)],
+    conditionOperator=@StringConditionOperator[CONTAINS],
+    isPositiveCheck=@Boolean[true],
+]
+# 调用成功
+#
+# 2.3 通过新条件重新查询
+watch vrops.diagnostics.server.nsx.instance.NsxInstanceStatus executeQuery '#resParam = new vcops.platform.api.model.common.param.ResourceSearchParam(),#resParam.addAdapterKind("VMWARE"),#resParam.addResourceKind("HostSystem"),#field=@vcops.platform.api.model.common.param.ResourceSearchParam$ResourceField@valueOf("RESOURCE_NAME"),#sKey = new vcops.platform.api.model.common.param.ResourceSearchParam$SearchKey("esxi-1.vrack.vsphere.local",#field),#resParam.setSearchKey(#sKey),#resources = target.platformInterface.getResources(#resParam),#resources'
+# 成功返回数据，数据结构复杂，只关心list中element
+# 过滤一下返回  resources -> resources.elements
+watch vrops.diagnostics.server.nsx.instance.NsxInstanceStatus executeQuery '#resParam = new vcops.platform.api.model.common.param.ResourceSearchParam(),#resParam.addAdapterKind("VMWARE"),#resParam.addResourceKind("HostSystem"),#field=@vcops.platform.api.model.common.param.ResourceSearchParam$ResourceField@valueOf("RESOURCE_NAME"),#sKey = new vcops.platform.api.model.common.param.ResourceSearchParam$SearchKey("esxi-1.vrack.vsphere.local",#field),#resParam.setSearchKey(#sKey),#resources = target.platformInterface.getResources(#resParam),#resources.elements'
+method=vrops.diagnostics.server.nsx.instance.NsxInstanceStatus.executeQuery location=AtExit
+ts=2025-10-14 06:48:35.169; [cost=22.940495ms] result=@ArrayList[
+    @Resource[3875a7d5-081e-4d6b-bd83-09c68f944c1b],
+]
+
+```
+-- 例3 -- 对复杂数据进行逐层过滤
+```console
+# 
+# AbstractPlatformService是个基类，继承关系的子类很多
+watch ops.api.server.service.impl.AbstractPlatformService convert "{returnObj, params}" -x2
+# 提示错误
+# 默认只能观察50个子类上方法
+# -m100 扩大观察限制100个
+watch ops.api.server.service.impl.AbstractPlatformService convert "{returnObj, params}" -x2 -m100
+# 观察成功
+method=ops.api.server.service.impl.AbstractPlatformService.convert location=AtExit
+ts=2025-10-14 03:22:52.238; [cost=0.120593ms] result=@ArrayList[
+    @ResourceSearchParam[
+        serialVersionUID=@Long[-5019998370619520382],
+        resultMetricKey=null,
+        searchKeys=@SearchKeys[vcops.platform.api.model.common.param.ResourceSearchParam$SearchKeys@2f67b304],
+        collectorNames=null,
+        collectorIds=null,
+        adapterKinds=@TreeSet[isEmpty=false;size=1],
+        excludeAdapterKinds=null,
+        resourceKinds=null,
+        resourceKindKeys=null,
+        excludeResourceKindKeys=null,
+        aiResourceKeyUuids=null,
+        recentlyAdded=null,
+        resourceTypes=null,
+        excludeResourceType=null,
+        resourceSubTypes=null,
+        resourceKeyUuids=null,
+        resourceStates=null,
+        onlyExistingResources=null,
+        onlyNotInMaintenanceResources=null,
+        sortBySelfStateStatus=@Boolean[false],
+        filterBySelfStateStatus=@Boolean[false],
+        resourceStatuses=null,
+        relationResources=null,
+        relationResourcesConjunctiveOperator=null,
+        credentialIds=null,
+        resourcePropertyFilter=null,
+        propertyValueConditions=null,
+        metricValueConditions=null,
+        rkPropertyValueConditions=null,
+        rkMetricValueConditions=null,
+        resourceTagFilter=null,
+        badgeMetricStates=null,
+        powerStates=null,
+        identsDisplayOrder=null,
+        fetchRelationshipsParam=null,
+        resourceImportanceLevels=null,
+        retrieveMetricAndStatus=@Boolean[true],
+        fieldsToFetch=null,
+        advancedFieldsToFetch=@HashSet[isEmpty=false;size=9],
+        serialVersionUID=@Long[8437444596760154577],
+        sortCriterias=null,
+        from=@Integer[0],
+        count=@Integer[-1],
+        elementsMaxCount=@Integer[-1],
+        partialElementsKeys=null,
+    ],
+    @Object[][
+        @ResourceQuery[ops.api.model.resource.ResourceQuery@61e141f],
+        @Class[class vcops.platform.api.model.common.param.ResourceSearchParam],
+    ],
+]
+#
+# 返回对象值域太多，只关心SearchKeys
+# 增加一层过滤 returnObj -> returnObj.searchKeys
+watch ops.api.server.service.impl.AbstractPlatformService convert "{returnObj.searchKeys, params}" -x2 -m100
+# 观察成功
+method=ops.api.server.service.impl.AbstractPlatformService.convert location=AtExit
+ts=2025-10-14 03:24:09.768; [cost=0.083333ms] result=@ArrayList[
+    @SearchKeys[
+        serialVersionUID=@Long[-2337444833325069133],
+        conjunctiveOperator=null,
+        searchKeyFilters=@SingletonList[isEmpty=false;size=1],
+    ],
+    @Object[][
+        @ResourceQuery[ops.api.model.resource.ResourceQuery@160ab789],
+        @Class[class vcops.platform.api.model.common.param.ResourceSearchParam],
+    ],
+]
+#
+# searchKeyFilters仍旧是个list，看不出具体对象
+# 再加过滤 returnObj.searchKeys -> returnObj.searchKeys.searchKeyFilters.get(0)
+watch ops.api.server.service.impl.AbstractPlatformService convert "{returnObj.searchKeys.searchKeyFilters.get(0), params}" -x2 -m100
+# 观察成功
+method=ops.api.server.service.impl.AbstractPlatformService.convert location=AtExit
+ts=2025-10-14 03:26:16.762; [cost=0.083169ms] result=@ArrayList[
+    @SearchKey[
+        serialVersionUID=@Long[-4522896406308637273],
+        searchString=@String[lvnvcfopssn60.lvn.broadcom.net],
+        searchFor=@ResourceField[RESOURCE_NAME],
+        condition=@StringValueCondition[value containsIgnoreCase(lvnvcfopssn60.lvn.broadcom.net)],
+        conditionOperator=@StringConditionOperator[CONTAINS],
+        isPositiveCheck=@Boolean[true],
+    ],
+    @Object[][
+        @ResourceQuery[ops.api.model.resource.ResourceQuery@4861f40f],
+        @Class[class vcops.platform.api.model.common.param.ResourceSearchParam],
+    ],
+]
+
+```
+-- 例4 -- 用字符串equal方法来过滤返回
+```console
+#
+# 观察某种类型参数被传入时候的返回值
+# 通过字符串equal来过滤
+watch util.NSXTPolicyApiUtil getAdvancedSearchResults returnObj 'params[0].equals("resource_type:VpcSubnet")' -x2 -n1
+# 观察成功
+@DynamicStructureImpl[
+    serialVersionUID=@Long[1],
+    converter=@TypeConverterImpl[vapi.internal.bindings.TypeConverterImpl@5d05ade7],
+    strValue=@StructValue[ => {_last_modified_user=admin, subnet_dhcp_config= => {mode=DHCP_SERVER, dhcp_server_additional_config= => {}, dns_server_preference=PROFILE_DNS_SERVERS_PREFERRED_OVER_DNS_FORWARDER}, ip_addresses=[192.168.30.0/28], owner_id=aef68b87-e817-404e-8048-93da5e84411b, description=This is private vpc subnet, _meta= => {identifier=/orgs/default/projects/Production_Prj/vpcs/vpc2/subnets/vpc2_pri_sub, is_project_context=true, is_global_object=false, _last_modified_time=1758790282697, db_identifier=/orgs/default/projects/Production_Prj/vpcs/vpc2/subnets/vpc2_pri_sub, is_vpc_context=true}, _protection=NOT_PROTECTED, _last_modified_time=1758790282697, overridden=false, remote_path=, path=/orgs/default/projects/Production_Prj/vpcs/vpc2/subnets/vpc2_pri_sub, marked_for_delete=false, ipv4_subnet_size=16, parent_path=/orgs/default/projects/Production_Prj/vpcs/vpc2, id=vpc2_pri_sub, unique_id=0e1783a1-c68d-40df-8eee-84d3b9aad27f, _revision=0, _system_owned=false, resource_type=VpcSubnet, realization_id=0e1783a1-c68d-40df-8eee-84d3b9aad27f, display_name=vpc2_pri_sub, access_mode=Private, _create_user=admin, _create_time=1758790282697, advanced_config= => {connectivity_state=CONNECTED, dhcp_server_addresses=[192.168.30.2/28], gateway_addresses=[192.168.30.1/28], enable_vlan_extension=false}, ip_blocks=[/orgs/default/projects/Production_Prj/infra/ip-blocks/vpc2-192_168_30_0_24], relative_path=vpc2_pri_sub, status= => {consolidated_status_per_enforcement_point=[ => {consolidated_status= => {consolidated_status=SUCCESS}, resource_type=ConsolidatedStatusPerEnforcementPoint, enforcement_point_id=default}], intent_version=0, consolidated_status= => {consolidated_status=SUCCESS}, intent_path=/orgs/default/projects/Production_Prj/vpcs/vpc2/subnets/vpc2_pri_sub, publish_status=REALIZED}}],
+],
+
+# 将返回值构造成list返回
+watch util.NSXTPolicyApiUtil getAdvancedSearchResults '#subnet=new model.VpcSubnet(), #cname=#subnet.getClass(), {#cname.toString()}' 'params[0].equals("resource_type:VpcSubnet")' -x2 -n1
+# 观察成功
+method=util.NSXTPolicyApiUtil.getAdvancedSearchResults location=AtExit
+ts=2025-09-29 02:35:11.117; [cost=744.443714ms] result=@ArrayList[
+    @String[class model.VpcSubnet],
+]
+#
+# 返回对象的类申明 getClass()
+watch util.NSXTPolicyApiUtil getAdvancedSearchResults '{#subnet=new model.VpcSubnet(), #cname=#subnet.getClass(), #cname}' 'params[0].equals("resource_type:VpcSubnet")' -x2 -n1
+# 观察失败: 执行逻辑体不能使用{}
+method=util.NSXTPolicyApiUtil.getAdvancedSearchResults location=AtExit
+ts=2025-09-29 02:20:11.025; [cost=859.376193ms] result=ERROR DATA!!! object class: class java.util.ArrayList, exception class: class java.lang.reflect.InaccessibleObjectException, exception message: Unable to make field private static final int java.lang.Class.ANNOTATION accessible: module java.base does not "opens java.lang" to unnamed module @35fe253c
+Command execution times exceed limit: 1, so command will exit. You can set it with -n option.
+# 稍作修改： 直接调用申明类 VpcSubnet.getClass(), 再将 {exec} -> 'exec' 
+watch util.NSXTPolicyApiUtil getAdvancedSearchResults '#cname=model.VpcSubnet.getClass(), returnObj[0]._convertTo(#cname)' 'params[0].equals("resource_type:VpcSubnet")' -x2 -n1
+# 观察失败: getClass()无法在类上直接调用
+Affect(class count: 1 , method count: 1) cost in 244 ms, listenerId: 12
+watch failed, condition is: params[0].equals("resource_type:VpcSubnet"), express is: {#cname=model.VpcSubnet.getClass(), returnObj[0]._convertTo(#cname)}, ognl.NoSuchPropertyException: com.taobao.arthas.core.advisor.Advice.com, visit /home/admin/logs/arthas/arthas.log for more details.
+# 再次修改 ：new VpcSubnet() 再调用对象的getClass()
+watch util.NSXTPolicyApiUtil getAdvancedSearchResults '#subnet=new model.VpcSubnet(), #cname=#subnet.getClass(), {#cname}' 'params[0].equals("resource_type:VpcSubnet")' -x2 -n1
+# 观察失败：class对象似乎不能直接返回
+method=util.NSXTPolicyApiUtil.getAdvancedSearchResults location=AtExit
+ts=2025-09-29 02:30:11.074; [cost=874.880766ms] result=ERROR DATA!!! object class: class java.util.ArrayList, exception class: class java.lang.reflect.InaccessibleObjectException, exception message: Unable to make field private static final int java.lang.Class.ANNOTATION accessible: module java.base does not "opens java.lang" to unnamed module @35fe253c
+Command execution times exceed limit: 1, so command will exit. You can set it with -n option.
+# 修改返回格式： #cname -> returnObj[0]._convertTo(#cname)
+# 通过返回对象方法转换一下
+watch util.NSXTPolicyApiUtil getAdvancedSearchResults '#subnet=new model.VpcSubnet(), #cname=#subnet.getClass(), {returnObj[0]._convertTo(#cname)}' 'params[0].equals("resource_type:VpcSubnet")' -x2 -n1
+# 观察成功
+method=util.NSXTPolicyApiUtil.getAdvancedSearchResults location=AtExit
+ts=2025-09-29 02:40:11.109; [cost=883.766501ms] result=@ArrayList[
+@VpcSubnet[
+    serialVersionUID=@Long[1],
+    ACCESS_MODE_PRIVATE=@String[Private],
+    ACCESS_MODE_PUBLIC=@String[Public],
+    ACCESS_MODE_ISOLATED=@String[Isolated],
+    ACCESS_MODE_PRIVATE_TGW=@String[Private_TGW],
+    links=null,
+    schema=null,
+    self=null,
+    revision=@Long[0],
+    createTime=@Long[1758790390746],
+    createUser=@String[admin],
+    lastModifiedTime=@Long[1758790390746],
+    lastModifiedUser=@String[admin],
+    protection=@String[NOT_PROTECTED],
+    systemOwned=@Boolean[false],
+    description=@String[This is project vpc subnet],
+    displayName=@String[app_proj_sub],
+    id=@String[app_proj_sub],
+    resourceType=@String[VpcSubnet],
+    tags=null,
+    originSiteId=null,
+    ownerId=@String[aef68b87-e817-404e-8048-93da5e84411b],
+    parentPath=@String[/orgs/default/projects/default/vpcs/application_vpc],
+    path=@String[/orgs/default/projects/default/vpcs/application_vpc/subnets/app_proj_sub],
+    realizationId=@String[c9b5e1bb-d3fd-4872-a102-4b208d49bfc9],
+    relativePath=@String[app_proj_sub],
+    remotePath=@String[],
+    uniqueId=@String[c9b5e1bb-d3fd-4872-a102-4b208d49bfc9],
+    children=null,
+    markedForDelete=@Boolean[false],
+    overridden=@Boolean[false],
+    accessMode=@String[Private_TGW],
+    advancedConfig=@SubnetAdvancedConfig[SubnetAdvancedConfig (model.subnet_advanced_config) => {
+    connectivityState = CONNECTED,
+    dhcpServerAddresses = [172.16.20.2/28],
+    enableVlanExtension = false,
+    extraConfigs = <null>,
+    gatewayAddresses = [172.16.20.1/28],
+    staticIpAllocation = <null>
+    }],
+    dhcpConfig=null,
+    ipAddresses=@ArrayList[isEmpty=false;size=1],
+    ipBlocks=@ArrayList[isEmpty=false;size=1],
+    ipv4SubnetSize=@Long[16],
+    subnetDhcpConfig=@SubnetDhcpConfig[SubnetDhcpConfig (model.subnet_dhcp_config) => {
+    dhcpServerAdditionalConfig = DhcpServerAdditionalConfig (model.dhcp_server_additional_config) => {
+    options = <null>,
+    reservedIpRanges = <null>
+    },
+    dnsServerPreference = PROFILE_DNS_SERVERS_PREFERRED_OVER_DNS_FORWARDER,
+    mode = DHCP_SERVER
+    }],
+    __dynamicStructureFields=@StructValue[ => {_meta= => {identifier=/orgs/default/projects/default/vpcs/application_vpc/subnets/app_proj_sub, is_project_context=true, is_global_object=false, _last_modified_time=1758790390746, db_identifier=/orgs/default/projects/default/vpcs/application_vpc/subnets/app_proj_sub, is_vpc_context=true}, status= => {consolidated_status_per_enforcement_point=[ => {consolidated_status= => {consolidated_status=SUCCESS}, resource_type=ConsolidatedStatusPerEnforcementPoint, enforcement_point_id=default}], intent_version=0, consolidated_status= => {consolidated_status=SUCCESS}, intent_path=/orgs/default/projects/default/vpcs/application_vpc/subnets/app_proj_sub, publish_status=REALIZED}}],
+    ],
+]
+#
+# 过滤动态字段 returnObj[0]._convertTo(#cname) -> returnObj[0]._convertTo(#cname)._getDynamicField("status")
+watch util.NSXTPolicyApiUtil getAdvancedSearchResults '#subnet=new model.VpcSubnet(), #cname=#subnet.getClass(), {returnObj[0]._convertTo(#cname)._getDynamicField("status")}' 'params[0].equals("resource_type:VpcSubnet")' -x2 -n1
+# 观察成功
+method=util.NSXTPolicyApiUtil.getAdvancedSearchResults location=AtExit
+ts=2025-09-29 07:45:17.058; [cost=879.025256ms] result=@ArrayList[
+@StructValue[
+    UNKNOWN_STRUCT_NAME=@String[],
+    serialVersionUID=@Long[1],
+    fields=@HashMap[isEmpty=false;size=5],
+    name=@String[],
+    ],
+]
+#
+# 进一步过滤字段 returnObj[0]._convertTo(#cname)._getDynamicField("status") -> returnObj[0]._convertTo(#cname)._getDynamicField("status").getString("publish_status")
+[arthas@3828970]$ watch util.NSXTPolicyApiUtil getAdvancedSearchResults '#subnet=new model.VpcSubnet(), #cname=#subnet.getClass(), #dyfield=returnObj[0]._convertTo(#cname)._getDynamicField("status"), #dyfield.getString("publish_status")' 'params[0].equals("resource_type:VpcSubnet")' -x2 -n1
+# 观察成功
+method=util.NSXTPolicyApiUtil.getAdvancedSearchResults location=AtExit
+ts=2025-09-29 07:55:17.181; [cost=848.594971ms] result=@String[REALIZED]
 ```
