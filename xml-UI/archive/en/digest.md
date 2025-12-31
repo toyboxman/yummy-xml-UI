@@ -38,8 +38,10 @@ His complaints were often delivered amid mood swings, creating whiplash for the 
 他的各种抱怨往往出现在情绪不稳定之时，给与他合作的阿迪达斯团队带来了很大的心理压力。他被诊断出双相情感障碍，但有时不肯承认并抗拒接受治疗。阿迪达斯愈发依赖Yeezy的销售额，韦斯特自己也是如此。除了抽成和预付现金，阿迪达斯最终还同意了他的另一项要求
 
 * otherwise
+Occasionally, the president would chime in to echo Mr. Musk about the corruption of various unnamed bureaucrats or to **otherwise** offer vague pronouncements supporting his theory of the case.
+偶尔，总统也会插话，附和马斯克对各种未公开姓名的官员腐败的看法，或者发表一些模糊的声明，支持马斯克的观点。
 
-* 描述处理事情程度 精明地；明智地 wisely 
+* 描述处理事情程度 精明地；明智地 wisely smartly
 Mr. Zelensky has often played weak hands **wisely**.When Zelensky is cornered, he tends to go on the offensive.
 泽连斯基时常能将弱势化为优势。当泽连斯基被逼到角落时，他往往会转守为攻
 His admission that he backed off because investors were getting “yippy” was **unwise**, showing that he might waver again if the standoff with China persists.
@@ -52,7 +54,10 @@ stepwise gradually increasingly
 streetwise
 wisecrack
 
-waver waive
+significant/drastic/dramatical
+prevalent
+
+waver waive unwaveringly
 
 ebb wane
 setback
@@ -64,7 +69,7 @@ roll out
 reverberate
 exemplify
 dissolve
-increasingly
+increasingly//gradually
 referee
 dial-setting
 scramble
@@ -77,7 +82,19 @@ reckon
 outfit
 slander/smear
 departure
-steer clear of
+steer clear of/shun off
 rags-to-riches
 cardinal
 predominant
+peddle/influence-peddling
+deliberate/deliberation
+mundane
+poses serious threat/lead/promote
+cope/deal with/tackle
+strike a chord/resonate
+dilemma/
+disentangled
+fostering/brew
+strive to/strike to/struggle to
+ensuing
+demolition

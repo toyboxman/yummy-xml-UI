@@ -111,3 +111,21 @@ Fusion, the melding together of atoms to release extraordinary energy, uses fuel
 
 A fusion reactor must first heat hydrogen to temperatures hotter than the sun, turning it into plasma, the fourth state of matter. Then it needs to hold this violent plasma together for long enough that the atoms fuse and disgorge energy.
 核聚变反应堆必须首先将氢加热到比太阳还高的温度，使其转化为物质的第四态等离子体，然后需要将这种处于剧烈状态的等离子体约束足够长的时间，直至原子发生聚变并释放能量
+
+She spoke candidly about the challenges of managing a volatile boss, the battles she had lost and the curious collection of people surrounding him.In response, Ms. Wiles went on social media after the story was published to call it “a disingenuously framed hit piece on me and the finest President, White House staff, and Cabinet in history.”
+威尔斯直言这位情绪多变的上司很难伺候，她谈了自己输掉的斗争，以及围绕在他身边形形色色的人物。报道发布后，威尔斯在社交媒体上回应称，这是“一篇刻意抹黑我与美国历史上最优秀的总统、白宫幕僚及内阁的攻击文章”。
+
+Kenneth M. Abell, a lawyer for Ms. Sun, said there was no “smoking gun” proving the government’s case.
+孙的律师肯尼思·阿贝尔表示，政府没有拿出任何“确凿证据”来证明其指控。
+
+King Charles III of Britain welcomed Mr. Trump for a state visit that included, yes, a stirring military flyover, a procession of black horses and a long, regal table for the lavish dinner in St. George’s Hall at Windsor Palace.
+英国国王查尔斯三世同样安排了激动人心的军机飞行表演、黑马仪仗队，以及温莎堡圣乔治大厅盛大晚宴上的华贵长桌。
+
+In his first year back in office, Mr. Trump has unabashedly adopted the trappings of royalty just as he has asserted virtually unbridled power to transform American government and society to his liking.
+重返白宫的第一年里，特朗普毫不掩饰地对皇室排场有样学样，正如他以近乎不受约束的权力按个人喜恶改造美国政府与社会那般。
+
+Nearly 250 years after American colonists threw off their king, this is arguably the closest the country has come during a time of general peace to the centralized authority of a monarch. Mr. Trump takes it upon himself to reinterpret a constitutional amendment and to eviscerate agencies and departments created by Congress. He dictates to private institutions how to run their affairs. He sends troops into American streets and wages an unauthorized war against nonmilitary boats in the Caribbean. He openly uses law enforcement for what his own chief of staff calls “score settling” against his enemies, he dispenses pardons to favored allies and he equates criticism to sedition punishable by death.
+在美国殖民者推翻国王、建立共和国将近250年后，这或许是这个国家在总体和平时期最接近君主式集权的时刻。特朗普自行其是地重新解读宪法修正案，架空国会设立的机构和部门。他向私营机构发号施令。他把军队派上美国街头，并在加勒比海对非军事船只发动未经授权的战争。他公然将执法行为用于其幕僚长所称的“清算宿敌”，向亲信盟友滥施赦免，并将批评等同于可判处死刑的叛乱行为
+
+It is also a culmination of four years of planning between Mr. Trump’s first term and his second. The last time around, he was a political novice who did not understand how government worked and surrounded himself with advisers who tried to restrain his most extreme instincts. This time, he arrived in office with a plan to accomplish what he did not in his first term, and a team of like-minded loyalists intent on remaking the country.
+这同样也是特朗普在两个任期之间四年筹划的结果。上一次执政时，他还是一名政治新手，不了解政府如何运作，身边是试图约束其极端想法的幕僚。而这一次，他带着完成第一任期未竟之业的计划上任，并配备了一支志同道合、忠诚于他的团队，决心重塑这个国家
