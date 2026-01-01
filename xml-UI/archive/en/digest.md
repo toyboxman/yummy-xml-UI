@@ -1,3 +1,23 @@
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 ### 即使... 句式的构造常用 Even  
 * **Even then**, leaders from both major American parties have indicated that the United States could continue to take a tough line on China no matter who is in the White House.  
 尽管如此，美国两大政党的领导人都表示，无论谁入主白宫，美国都可能继续对中国采取强硬立场
