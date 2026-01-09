@@ -367,6 +367,7 @@ wget https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jdk11.0.23-linux_x64.tar.gz
 # OpenJDK Runtime Environment Zulu17.52+17-CA (build 17.0.12+7-LTS)
 # OpenJDK 64-Bit Server VM Zulu17.52+17-CA (build 17.0.12+7-LTS, mixed mode, sharing)
 wget https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jdk17.0.12-linux_x64.tar.gz
+wget https://cdn.azul.com/zulu/bin/zulu21.46.19-ca-jdk21.0.9-linux_x64.tar.gz
 
 # 也可以从对应jdk拷贝jre缺失文件
 $ cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
@@ -1167,6 +1168,39 @@ Affect(row-cnt:8) cost in 35 ms.
                                                                                2/com/example/vrops/diagnostics/s
                                                                                erver/nsx/HealthInterfaceImpl
                                                                                .class
+```    
+
+#### [profiler](https://arthas.aliyun.com/doc/profiler.html)
+```console
+# 使用async-profiler生成火焰图(Flame Graph)
+# async-profiler是目前Java社区中低开销性能分析工具(Profiler)
+# [火焰图解读](https://github.com/async-profiler/async-profiler/blob/master/docs/FlamegraphInterpretation.md)
+# 1.火焰图宽度代表该方法占用的资源(CPU/内存)比例
+# 2.层级代表调用栈深度 -> 基本原理就是记录每次采样点栈结构,按时间轴合并相同栈,形成图标宽度 通过栈结构也能推导程序调用链
+# 3.CPU Profiling: 分析代码中哪个方法最耗 CPU(包含 Java 代码、JVM 原生代码、甚至内核函数)
+# 4.Allocation Profiling: 查“10 秒分配 2GB 对象”这样问题，它能精准记录对象分配的热点，且开销比 JFR 更小
+# 5.Wall-clock Profiling: 分析线程在干什么(即使在等待、睡眠或阻塞),这对于定位 I/O 瓶颈和死锁非常有用
+# 6.Hardware Event Profiling: 监控缓存未命中(Cache Misses)和分支预测失败等底层硬件性能
+[arthas@28030]$ profiler start
+[arthas@28030]$ help profiler
+# 将运行期间的调用栈采样数据生成火焰图
+[arthas@28030]$ profiler stop --file /tmp/result.html
+# 通过本地浏览器打开 html文件即可
+```    
+
+#### [jfr](https://arthas.aliyun.com/doc/jfr.html)
+```console
+# Java Flight Recorder (JFR) 是一种用于收集有关正在运行的 Java 应用程序的诊断和分析数据的工具
+# 它集成到 Java 虚拟机 (JVM) 中，几乎不会造成性能开销，因此即使在负载较重的生产环境中也可以使用
+# 1.Java 应用程序线程创建/停止、方法采样（CPU 热点）、类加载、对象分配（内存溢出前兆）、异常抛出（包括未捕获异常）
+# 2.JVM runtime垃圾回收 (GC) 详细情况（各代大小、停顿时间）、线程上下文切换、锁竞争（Blocked）、SafePoint 记录、代码缓存、编译器优化
+# 3.操作系统 CPU 使用率、系统负载、网络 I/O 读写大小、磁盘 I/O 延迟
+# 4.自定义事件	开发者可以通过 JFR API 在业务代码中手动触发的特定事件 如业务逻辑执行耗时、关键流程跟踪
+[arthas@28030]$ jfr start
+[arthas@28030]$ jfr stop -r 1 -f /tmp/myRecording.jfr
+# 对于记录可以使用jdk自带命令读取，也可以通过JMC查看图形化结果
+jfr print --events CPUUsage analysis.jfr  # 查看 CPU 事件
+jfr summary analysis.jfr                   # 查看数据概览
 ```    
 
 ##### advanced
