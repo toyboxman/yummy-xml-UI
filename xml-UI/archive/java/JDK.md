@@ -1186,6 +1186,17 @@ Affect(row-cnt:8) cost in 35 ms.
 # 将运行期间的调用栈采样数据生成火焰图
 [arthas@28030]$ profiler stop --file /tmp/result.html
 # 通过本地浏览器打开 html文件即可
+
+# 系统有时存在tmp目录安全限制，会出现如下错误
+[arthas@25444]$ profiler start
+AsyncProfiler error: /tmp/ArthasJniLibrary3085355772898685481.tmp: /tmp/ArthasJniLibrary3085355772898685481.tmp: failed to map segment from shared object
+# 这是由于Linux 安全护航的“三剑客”阻碍
+# nosuid：禁止程序获得 root 权限，防止提权
+# nodev：禁止在该分区创建设备文件
+# noexec：禁止直接执行程序，这就是拦截导致失败原因
+# 解决方案是允许exec 在/tmp执行; 再进行profiler过程，完成后可再将权限改回来
+sudo mount -o remount,exec /tmp
+sudo mount -o remount,noexec /tmp
 ```    
 
 #### [jfr](https://arthas.aliyun.com/doc/jfr.html)
