@@ -1197,6 +1197,11 @@ AsyncProfiler error: /tmp/ArthasJniLibrary3085355772898685481.tmp: /tmp/ArthasJn
 # 解决方案是允许exec 在/tmp执行; 再进行profiler过程，完成后可再将权限改回来
 sudo mount -o remount,exec /tmp
 sudo mount -o remount,noexec /tmp
+
+# 也可以试试换个当前用户目录
+[arthas@25444]$ profiler start --file /home/admin
+# 自动将数据导入到指定目录下tmp中
+[arthas@25444]$ profiler stop --file /home/admin/tmp/result.html
 ```    
 
 #### [jfr](https://arthas.aliyun.com/doc/jfr.html)
