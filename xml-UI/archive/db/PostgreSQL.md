@@ -1,20 +1,20 @@
 ### PostgreSQL
-- [PostgreSQLÈëÃÅ](https://mp.weixin.qq.com/s/l7QSL8CiQ1RvSxjjxmIANg)
-- [PostgreSQL DBA³£ÓÃSQL](https://mp.weixin.qq.com/s/JjcTwL99cNDuxp68Mu_bIw)  
-    `²é¿´DB°æ±¾/²é¿´DBÊµÀı×´Ì¬/²é¿´±í¿Õ¼ä...`
-- [ÊµÏÖÃÜÂë¸´ÔÓ¶È¼ì²é](https://mp.weixin.qq.com/s/sFbmsXF0jpMfEUzqavx0TQ)  
-    `passwordcheck/cracklib/×Öµä`
-- [Uber·ÅÆúPostgresÇ¨ÒÆMySQL](https://mp.weixin.qq.com/s/YCt0SvmH8666V06Md1BEDw)
+- [PostgreSQLå…¥é—¨](https://mp.weixin.qq.com/s/l7QSL8CiQ1RvSxjjxmIANg)
+- [PostgreSQL DBAå¸¸ç”¨SQL](https://mp.weixin.qq.com/s/JjcTwL99cNDuxp68Mu_bIw)  
+    `æŸ¥çœ‹DBç‰ˆæœ¬/æŸ¥çœ‹DBå®ä¾‹çŠ¶æ€/æŸ¥çœ‹è¡¨ç©ºé—´...`
+- [å®ç°å¯†ç å¤æ‚åº¦æ£€æŸ¥](https://mp.weixin.qq.com/s/sFbmsXF0jpMfEUzqavx0TQ)  
+    `passwordcheck/cracklib/å­—å…¸`
+- [Uberæ”¾å¼ƒPostgresè¿ç§»MySQL](https://mp.weixin.qq.com/s/YCt0SvmH8666V06Md1BEDw)
 
-#### °²×°
+#### å®‰è£…
 ```console
 $ sudo apt install postgresql-10
 Success. You can now start the database server using:
 
     /usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
 ```
-#### Á¬½Ó
-Á¬½Ó´íÎóÅÅ´í¿ÉÒÔ²Î¿¼ [link](https://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e/16974197#16974197)
+#### è¿æ¥
+è¿æ¥é”™è¯¯æ’é”™å¯ä»¥å‚è€ƒ [link](https://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e/16974197#16974197)
 ```console
 king@ubuntu:~/software$ psql
 psql: FATAL:  role "king" does not exist
@@ -50,7 +50,7 @@ jdbc:postgresql://127.0.0.1/myDB?ssl=false
 ```
 [Remote Connection](https://blog.bigbinary.com/2016/01/23/configure-postgresql-to-allow-remote-connection.html)
 ```
-# Ä¬ÈÏÅäÖÃÏÂ listen_addresses = 'localhost' Íâ²¿Í¨¹ıpublic ip·ÃÎÊ²»µ½Êı¾İ¿â
+# é»˜è®¤é…ç½®ä¸‹ listen_addresses = 'localhost' å¤–éƒ¨é€šè¿‡public ipè®¿é—®ä¸åˆ°æ•°æ®åº“
 king@ubuntu:~$ netstat -tlnpu |grep 5432
 (Not all processes could be identified, non-owned process info
  will not be shown, you would have to be root to see it all.)
@@ -65,7 +65,7 @@ nc: connect to 10.117.4.20 port 5432 (tcp) failed: Connection refused
 king@ubuntu:~$ sudo find / -name "postgresql.conf"
 /etc/postgresql/10/main/postgresql.conf
 
-# ĞŞ¸Ä listen_addresses = '*'
+# ä¿®æ”¹ listen_addresses = '*'
 king@ubuntu:~$ sudo vi /etc/postgresql/10/main/postgresql.conf
 king@ubuntu:~$ sudo systemctl restart postgresql
 king@ubuntu:~$ nc -zv 127.0.0.1 5432
@@ -79,32 +79,32 @@ king@ubuntu:~$ netstat -tlnpu |grep 5432
 tcp        0      0 0.0.0.0:5432            0.0.0.0:*               LISTEN      -                   
 tcp6       0      0 :::5432                 :::*                    LISTEN      -  
 ```
-Èç¹ûÁ¬½ÓÈÔ±»¾Ü£¬¾ÍĞèÒª¼ì²éºóÃæÌáµ½µÄpg_hba.conf
+å¦‚æœè¿æ¥ä»è¢«æ‹’ï¼Œå°±éœ€è¦æ£€æŸ¥åé¢æåˆ°çš„pg_hba.conf
 
-#### Êı¾İ¿â²Ù×÷
+#### æ•°æ®åº“æ“ä½œ
 [tutorial](http://www.postgresqltutorial.com/postgresql-administration/)
 ```console
-# Í¨¹ı³¬¼¶ÓÃ»§À´´´½¨ÆäËûÓÃ»§
+# é€šè¿‡è¶…çº§ç”¨æˆ·æ¥åˆ›å»ºå…¶ä»–ç”¨æˆ·
 king@ubuntu:~/software$ sudo -u postgres createuser king
-# ÎŞÖ¸¶¨Êı¾İ¿â£¬Á¬½ÓÊ§°Ü
+# æ— æŒ‡å®šæ•°æ®åº“ï¼Œè¿æ¥å¤±è´¥
 king@ubuntu:~/software$ psql -U king
 psql: FATAL:  database "king" does not exist
 
-# Í¨¹ı³¬¼¶ÓÃ»§À´´´½¨ÆäËûÓÃ»§ËùÊôÊı¾İ¿â
+# é€šè¿‡è¶…çº§ç”¨æˆ·æ¥åˆ›å»ºå…¶ä»–ç”¨æˆ·æ‰€å±æ•°æ®åº“
 king@ubuntu:~/software$ sudo -u postgres createdb -O king myDB
 king@ubuntu:~/software$ psql -U king -d myDB
-# Ò²¿ÉÒÔÓÃsuÃüÁî Ö¸¶¨ÓÃ»§ºÍÊı¾İ¿â¶Ë¿ÚÀ´login
+# ä¹Ÿå¯ä»¥ç”¨suå‘½ä»¤ æŒ‡å®šç”¨æˆ·å’Œæ•°æ®åº“ç«¯å£æ¥login
 king@ubuntu:~/software$ su - king -c "/opt/vpostgres/current/bin/psql -p 5432 -d myDB"
 psql (10.6 (Ubuntu 10.6-0ubuntu0.18.10.1))
 Type "help" for help.
 
 myDB=>
 
-# Ö¸¶¨SQL½Å±¾À´³õÊ¼»¯Êı¾İ¿â
+# æŒ‡å®šSQLè„šæœ¬æ¥åˆå§‹åŒ–æ•°æ®åº“
 king@ubuntu:~/software$ psql -U king -f init_db_postgres.sql myDB
 
-# ÁĞ³öµ±Ç°ËùÓĞÊı¾İ¿âÓÃ»§
-# postgreÖ§³Ötab¼üµÄ×Ô¶¯²¹ÆëºÍÌáÊ¾£¬ÀıÈçselectÄ³¸ö±íÊ±ºò¿ÉÒÔÀ´²¹ÆëtableÃû
+# åˆ—å‡ºå½“å‰æ‰€æœ‰æ•°æ®åº“ç”¨æˆ·
+# postgreæ”¯æŒtabé”®çš„è‡ªåŠ¨è¡¥é½å’Œæç¤ºï¼Œä¾‹å¦‚selectæŸä¸ªè¡¨æ—¶å€™å¯ä»¥æ¥è¡¥é½tableå
 king@ubuntu:~/software$ sudo -u postgres psql
 [sudo] password for king: 
 psql (10.6 (Ubuntu 10.6-0ubuntu0.18.10.1))
@@ -120,7 +120,7 @@ postgres=# \du
  
 # List of databases 
 
-mydb=> \list
+postgres=> \list
    Name    |  Owner   | Encoding |   Collate   |    Ctype    |   Access privileges   
 -----------+----------+----------+-------------+-------------+-----------------------
  mydb      | bjdev    | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =Tc/bjdev            +
@@ -131,7 +131,10 @@ mydb=> \list
  template1 | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/postgres          +
            |          |          |             |             | postgres=CTc/postgres
 
-# List of relations(tables)
+# switch db
+postgres=> \c mydb
+
+# List of relations(tables) in mydb
 mydb=> \dt
 
  Schema |         Name         | Type  | Owner 
@@ -149,9 +152,9 @@ Index "public.san_sys_vmstat_pkey"
 primary key, btree, for table "public.san_sys_vmstat"
  
 ```
-#### Êı¾İ¿âÅäÖÃ
-PostgreSQL serverÄ¬ÈÏÊ¹ÓÃ5432¶Ë¿ÚÌá¹©Á¬½Ó£¬Èç¹ûÁ¬½Ó±»¾Ü£¬ÓĞ¿ÉÄÜÊÇ°²È«È¨ÏŞÅäÖÃÎÊÌâ¡£
-ËùÓĞÓĞ¹ØµÄÅäÖÃ¶¼ÔÚ[**pg_hba.conf**](https://www.postgresql.org/docs/10/auth-pg-hba-conf.html)
+#### æ•°æ®åº“é…ç½®
+PostgreSQL serveré»˜è®¤ä½¿ç”¨5432ç«¯å£æä¾›è¿æ¥ï¼Œå¦‚æœè¿æ¥è¢«æ‹’ï¼Œæœ‰å¯èƒ½æ˜¯å®‰å…¨æƒé™é…ç½®é—®é¢˜ã€‚
+æ‰€æœ‰æœ‰å…³çš„é…ç½®éƒ½åœ¨[**pg_hba.conf**](https://www.postgresql.org/docs/10/auth-pg-hba-conf.html)
 ```
 # IPv4 local connections:
 # /etc/postgresql/10/main/pg_hba.conf
@@ -172,14 +175,14 @@ local   all             all                                     peer
 # IPv4 local connections:
 host    all             all             127.0.0.1/32            password
 
-# ĞŞ¸ÄºóĞèÒªÖØÆô·şÎñ
+# ä¿®æ”¹åéœ€è¦é‡å¯æœåŠ¡
 sudo systemctl restart postgresql     # ubuntu
 ```
-**password**·½·¨Ö¸¶Ô¿Í»§¶ËÀ´µÄÁ¬½ÓÊ¹ÓÃÃ÷ÎÄÃÜÂë
+**password**æ–¹æ³•æŒ‡å¯¹å®¢æˆ·ç«¯æ¥çš„è¿æ¥ä½¿ç”¨æ˜æ–‡å¯†ç 
 <br>
-**MD5**·½·¨Ö¸¶Ô¿Í»§¶ËÀ´µÄÁ¬½ÓÊ¹ÓÃMD5 hash±ä»»ÃÜÂë
+**MD5**æ–¹æ³•æŒ‡å¯¹å®¢æˆ·ç«¯æ¥çš„è¿æ¥ä½¿ç”¨MD5 hashå˜æ¢å¯†ç 
 <br>   
-Èç¹ûĞŞ¸ÄºóÁ¬½ÓÈÔ¾É±»¾Ü£¬¿ÉÄÜÊÇÃ»¸øÓÃ»§Éè¶¨ÃÜÂë¡£Èç¹ûÄ¬ÈÏÃÜÂëÊÇ¿Õ£¬°²È«ÑéÖ¤»áÒ»Ö±Ê§°Ü¡£
+å¦‚æœä¿®æ”¹åè¿æ¥ä»æ—§è¢«æ‹’ï¼Œå¯èƒ½æ˜¯æ²¡ç»™ç”¨æˆ·è®¾å®šå¯†ç ã€‚å¦‚æœé»˜è®¤å¯†ç æ˜¯ç©ºï¼Œå®‰å…¨éªŒè¯ä¼šä¸€ç›´å¤±è´¥ã€‚
 ```console
 # SQL commands CREATE USER and ALTER USER, e.g., CREATE USER foo WITH PASSWORD 'secret';. 
 # By default, that is, if no password has been set up, the stored password is null 
