@@ -368,6 +368,7 @@ wget https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jdk11.0.23-linux_x64.tar.gz
 # OpenJDK 64-Bit Server VM Zulu17.52+17-CA (build 17.0.12+7-LTS, mixed mode, sharing)
 wget https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jdk17.0.12-linux_x64.tar.gz
 wget https://cdn.azul.com/zulu/bin/zulu21.46.19-ca-jdk21.0.9-linux_x64.tar.gz
+wget https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-jdk25.0.2-linux_x64.tar.gz
 
 # 也可以从对应jdk拷贝jre缺失文件
 $ cp /usr/java/jre1.8.0_251/bin/java /usr/java/jdk1.8.0_251/bin
@@ -380,6 +381,7 @@ $ chown -hR proton arthas-boot.jar
 $ mv arthas-boot.jar /opt/app/proton-tomcat
 # 用proton用户权限启动进程，attach到 jvm 3331进程
 $ sudo -u proton /usr/java/jdk1.8.0_251/bin/java -jar /opt/app/proton-tomcat/arthas-boot.jar 3331
+# 默认会使用 /tmp 作为arthas的home目录，下载libs到 /tmp/.arthas/lib  如果有写权限问题也可通过指定 -Djava.io.tmpdir=/custom/folder
 # 当使用正确版本JDK后，执行权限问题仍就会给出一些不直接的错误提示，如下
 // 解决办法是把 arthas-boot.jar、JDK放到合适目录，不要放到 /root, 除非应用JVM是root权限启动的
 [INFO] JAVA_HOME: /root/jdk
