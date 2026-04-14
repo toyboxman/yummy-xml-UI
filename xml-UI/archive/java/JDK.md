@@ -1277,6 +1277,30 @@ ts=2024-12-06 02:39:41.395; [cost=1.911026ms] result=@ArrayList[
     @UUID[60cd3f35-d56d-4576-99f0-d464adb04684],
 ]
 
+# static field的值手动修改
+$ getstatic com.example.Constants resKindEntityNameMap
+field: resKindEntityNameMap
+@HashMap[
+    @String[Group]:@String[Group],
+    @String[FirewallSection]:@String[Firewall Section],
+    @String[Certificate]:@String[Certificate],
+]
+# 调用静态field，加入新值
+$ watch com.example.Constants isEntityTypeSelected '#val=@com.example.Constants@resKindEntityNameMap.put("EdgeNode", "Edge Node"),{#val}'
+ts=2026-04-14 03:18:16.560; [cost=0.020228ms] result=@ArrayList[
+    @String[Edge Transport Node],
+]
+# static field的最新值
+$ getstatic com.example.Constants resKindEntityNameMap
+field: resKindEntityNameMap
+@HashMap[
+    @String[Group]:@String[Group],
+    @String[FirewallSection]:@String[Firewall Section],
+    @String[Certificate]:@String[Certificate],
+    @String[EdgeNode]:@String[Edge Node],
+]
+
+
 # 5.前述几步已经成功，可以尝试组成复杂逻辑段
 # 整个逻辑pseudo code如下
 1.构造ResourceKeyUuid list
